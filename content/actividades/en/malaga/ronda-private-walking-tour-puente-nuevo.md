@@ -80,20 +80,24 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/6dc251d9-f1bd-44fc-9450-a74935b0c6ed.jpg
-  alt: Ronda's Puente Nuevo over the gorge
+- src: /images/actividades/malaga/ronda/plaza-toros-ronda-fachada.webp
+  alt: Façade of the Real Maestranza bullring in Ronda
+- src: /images/actividades/malaga/ronda/plaza-toros-ronda-ruedo.webp
+  alt: Arena and arcades of Ronda bullring
 - src: /images/actividades/granada/ronda/ronda-pexels-15125388.webp
   alt: The Puente Nuevo seen from the viewpoint
-- src: https://imgcdn.bokun.tools/4b71e511-b73f-41da-8044-a4e807e2d215.jpg
-  alt: Couple in front of the Puente Nuevo
 - src: /images/actividades/granada/ronda/ronda-wikimedia-ronda-view-from-puente-nuevo-5-jpg.webp
   alt: Parador and Puente Nuevo on the cliff
+- src: https://imgcdn.bokun.tools/6dc251d9-f1bd-44fc-9450-a74935b0c6ed.jpg
+  alt: Ronda's Puente Nuevo over the gorge
+- src: https://imgcdn.bokun.tools/4b71e511-b73f-41da-8044-a4e807e2d215.jpg
+  alt: Couple in front of the Puente Nuevo
 - src: https://imgcdn.bokun.tools/35e85925-d87a-4a35-ae02-38b141762e71.jpg
   alt: White houses on the edge of the Ronda gorge
 - src: https://imgcdn.bokun.tools/9326006e-c548-45ec-b23d-894a0a3eef63.jpg
   alt: Couple at a viewpoint over the mountains
 bokunProductId: 848245
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## The route

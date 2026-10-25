@@ -2,8 +2,7 @@
 titulo: 'Sagrada Familia: Guided Tour with Tower Access'
 slug: sagrada-familia-tour-with-tower-access
 ciudad: barcelona
-descripcion: Guided tour of the Sagrada Familia with skip-the-line entry and optional access to one of the basilica towers
-  for views over Barcelona from above.
+descripcion: Guided tour of the Sagrada Familia with skip-the-line entry and optional access to one of the basilica towers for views over Barcelona from above.
 slugs:
   en: sagrada-familia-tour-with-tower-access
   es: sagrada-familia-tour-con-torre
@@ -35,8 +34,7 @@ noIncluye:
 - The tower climb, if you book the no-tower option
 puntoEncuentro:
   texto: Carrer de Nàpols, 218, 08013 Barcelona
-  descripcionGuia: 'Meet your guide at Carrer de Nàpols, 218, next to the basilica. Look for the Amigo Tours logo. Arrive
-    with time to spare: there are queues to enter the Sagrada Familia because of the security checks.'
+  descripcionGuia: 'Meet your guide at Carrer de Nàpols, 218, next to the basilica. Look for the Amigo Tours logo. Arrive with time to spare: there are queues to enter the Sagrada Familia because of the security checks.'
   latitud: 41.4043
   longitud: 2.1731
   zoom: 17
@@ -53,43 +51,32 @@ informacionImportante:
   - Children under 6 for the tower climb, even accompanied by an adult
   aTenerEnCuenta:
   - The tower climb is an option chosen and paid for at booking; check your booking includes it
-  - You go up the tower by lift but come down by stairs; only one tower is open, and the monument decides which depending
-    on the day and the works
+  - You go up the tower by lift but come down by stairs; only one tower is open, and the monument decides which depending on the day and the works
   - The tower can close in bad weather (rain or wind)
   - The guided part lasts about 90 minutes; the tower climb is done afterwards on your own and takes about 30 minutes
   - Audio receivers are not handed out to children under 11
-accesibilidad: 'The operator states the route is NOT recommended for people with reduced mobility or wheelchair users. The
-  tower climb, moreover, is not accessible: you come down by stairs.'
+accesibilidad: 'The operator states the route is NOT recommended for people with reduced mobility or wheelchair users. The tower climb, moreover, is not accessible: you come down by stairs.'
 politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance.
 preguntasFrecuentes:
 - pregunta: Is the tower climb included in the price?
-  respuesta: It's an option you choose and pay for at booking. There's a with-tower version and a no-tower version; make sure
-    you select the one that includes the climb if that's what you want. The price from €75 corresponds to the with-tower option.
+  respuesta: It's an option you choose and pay for at booking. There's a with-tower version and a no-tower version; make sure you select the one that includes the climb if that's what you want. The price from €75 corresponds to the with-tower option.
 - pregunta: Which tower do you go up and what's it like?
-  respuesta: Only one tower is open, and the monument decides which depending on the day and the works (Nativity or Passion).
-    You go up by lift but come down a narrow staircase. It can close in bad weather — rain or wind.
+  respuesta: Only one tower is open, and the monument decides which depending on the day and the works (Nativity or Passion). You go up by lift but come down a narrow staircase. It can close in bad weather — rain or wind.
 - pregunta: Can children go up?
-  respuesta: Children under 6 cannot go up the tower, even with an adult. They can access the rest of the route. Note that
-    audio receivers are not handed out to children under 11.
+  respuesta: Children under 6 cannot go up the tower, even with an adult. They can access the rest of the route. Note that audio receivers are not handed out to children under 11.
 - pregunta: Is it wheelchair accessible?
-  respuesta: No. The operator does not recommend the route for people with reduced mobility, and the tower, because of the
-    descent by stairs, is not accessible in any case.
+  respuesta: No. The operator does not recommend the route for people with reduced mobility, and the tower, because of the descent by stairs, is not accessible in any case.
 - pregunta: How long is it in total?
-  respuesta: The guided part lasts about 90 minutes and includes the interior, the crypt and the Gaudí Museum. Afterwards
-    you go up the tower on your own, which adds about 30 minutes.
+  respuesta: The guided part lasts about 90 minutes and includes the interior, the crypt and the Gaudí Museum. Afterwards you go up the tower on your own, which adds about 30 minutes.
 variantes:
 - sagrada-familia-skip-the-line-guided-tour
 - sagrada-familia-small-group-tour
 - sagrada-familia-ticket-audio-guide
-avisoReserva: 'In high season, the Sagrada Familia sells out weeks in advance'
-opinionEditorial: 'This is the experience that takes you up one of the basilica''s towers, and that''s exactly its appeal:
-  taking in Barcelona from high up Gaudí''s temple. The guided tour is really well handled — it includes the crypt and the
-  Gaudí Museum, with headphones and live narration — and you do the tower climb afterwards, on your own, in about 30 minutes.
+avisoReserva: In high season, the Sagrada Familia sells out weeks in advance
+opinionEditorial: 'This is the experience that takes you up one of the basilica''s towers, and that''s exactly its appeal: taking in Barcelona from high up Gaudí''s temple. The guided tour is really well handled — it includes the crypt and the Gaudí Museum, with headphones and live narration — and you do the tower climb afterwards, on your own, in about 30 minutes.
 
 
-  A few things so you go in fully informed: you go up the tower by lift and down a narrow staircase, only one tower is open
-  — the monument decides which — and it can close in rain or wind. It isn''t accessible and children under 6 can''t go up.
-  If what you want are the views from the Sagrada Familia, this is the experience that offers them.
+  A few things so you go in fully informed: you go up the tower by lift and down a narrow staircase, only one tower is open — the monument decides which — and it can close in rain or wind. It isn''t accessible and children under 6 can''t go up. If what you want are the views from the Sagrada Familia, this is the experience that offers them.
 
   '
 atraccionesRelacionadas:
@@ -109,42 +96,33 @@ publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
+- src: /images/actividades/barcelona/sagrada-familia/vista-desde-torre-nacimiento.webp
+  alt: View of Barcelona and Plaça de Gaudí through an opening in the Nativity towers
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
   alt: Interior of the Sagrada Familia with columns lit by the warm-toned stained glass light
+- src: /images/actividades/barcelona/sagrada-familia/vista-desde-torre-agbar.webp
+  alt: Barcelona and Torre Glòries seen from a Sagrada Familia tower
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Sagrada Familia basilica facade with intricate architectural details in Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pinaculos-torre-vistas.webp
+  alt: Fruit-topped pinnacles and the city below, seen from high on the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9029528-hero-hero.webp
   alt: Sagrada Familia basilica in Barcelona with intricate stone facades and towering spires
+- src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176367-hero.webp
+  alt: Spiral staircase inside a Sagrada Familia tower
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
   alt: Vibrant stained glass windows of Sagrada Familia basilica in Barcelona, Spain
+- src: /images/actividades/barcelona/sagrada-familia/cripta-sagrada-familia.webp
+  alt: Crypt of the Sagrada Familia, where Gaudí is buried
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
   alt: Barcelona street view with historic buildings and urban architecture
+- src: /images/actividades/barcelona/sagrada-familia/museo-taller-maquetas.webp
+  alt: Plaster model workshop in the Sagrada Familia museum
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
   alt: Interior stained-glass windows of the Sagrada Familia with saints' names inscribed
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-hero-hero.webp
-  alt: Sagrada Familia basilica in Barcelona with ornate spires and detailed Gothic architecture
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
-  alt: Illuminated Gothic-style vault inside the Sagrada Familia
-- src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: Towers of the Sagrada Familia with sculptures and construction scaffolding
-- src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
-  alt: Interior nave of the Sagrada Familia looking toward the altar, with its tall columns
-- src: /images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp
-  alt: Aerial view of the Sagrada Família and Barcelona's skyline at sunset.
-- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Barcelona cityscape with buildings and urban architecture under blue sky
-- src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
-  alt: Venetian mosaic finials atop the towers of the Sagrada Familia
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
-  alt: Sagrada Familia's ornate ceiling with golden and blue illuminated architectural details in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
-  alt: Sagrada Familia basilica facade with intricate stone carvings and towering spires in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-bNW-YvtON_Q-hero.webp
-  alt: Barcelona street view with colorful buildings and bustling urban atmosphere
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: "Sagrada Familia basilica facade with tourists and construction details visible"
 guiasRelacionadas:
-  - "sagrada-familia-which-ticket-to-choose"
+- sagrada-familia-which-ticket-to-choose
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

@@ -9,3 +9,4 @@
 - `teide-mar-nubes.webp` — Flocci Nivis, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:20250708_Teide_03.jpg) · recortada a 1600×1200
 - `roques-garcia-vista.webp` — Bbsferrari, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:View_from_Roques_de_Garcia.jpg) · recortada a 1600×1200
 - `crater-teide-las-canadas.webp` — Pixabay, 12813914 (Licencia Pixabay) — https://pixabay.com/photos/teide-tenerife-spain-crater-4286932/
+- `pico-viejo-volcan.webp` — Brian Fagan · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Pico_Viejo_-_Volcano_in_Tenerife_-_20110119.jpg

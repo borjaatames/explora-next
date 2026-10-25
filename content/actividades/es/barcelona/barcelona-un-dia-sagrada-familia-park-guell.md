@@ -19,7 +19,7 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - 'Día completo en grupo reducido: Montjuïc, casco antiguo, Passeig de Gràcia, Park Güell y la Sagrada Familia'
-- 'Entradas sin colas a la Sagrada Familia y al Park Güell, incluidas en el precio'
+- Entradas sin colas a la Sagrada Familia y al Park Güell, incluidas en el precio
 - Transporte privado en algunos tramos del recorrido y guía profesional
 - 'La actividad mejor valorada: 4,9 sobre 5 con más de 15.000 reseñas'
 - Tour a pie por el barrio gótico y vistas panorámicas desde Montjuïc
@@ -39,7 +39,7 @@ puntoEncuentro:
   latitud: 41.3816
   longitud: 2.172
   zoom: 17
-  descripcionGuia: 'El punto de encuentro es La Rambla 97, frente a la tienda de música «Casa Beethoven», a las 9:00 de la mañana. Llega 10 minutos antes para el check-in. El tour se hace a pie y con transporte privado en algunos tramos, y termina en la Sagrada Familia. No hay recogida en el hotel.'
+  descripcionGuia: El punto de encuentro es La Rambla 97, frente a la tienda de música «Casa Beethoven», a las 9:00 de la mañana. Llega 10 minutos antes para el check-in. El tour se hace a pie y con transporte privado en algunos tramos, y termina en la Sagrada Familia. No hay recogida en el hotel.
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
@@ -52,18 +52,17 @@ informacionImportante:
   noAptoPara:
   - Quien busque únicamente la visita interior de la Sagrada Familia sin el tour de ciudad
   aTenerEnCuenta:
-  - 'Las entradas sin colas a la Sagrada Familia y al Park Güell están INCLUIDAS, además de una visita guiada por el exterior de la Sagrada Familia; el interior lo recorres por tu cuenta con la entrada (en la Sagrada, con una app de audioguía), el guía no entra contigo'
-  - 'Es un tour con punto de encuentro (La Rambla 97, 9:00), no con recogida en el hotel; termina en la Sagrada Familia'
+  - Las entradas sin colas a la Sagrada Familia y al Park Güell están INCLUIDAS, además de una visita guiada por el exterior de la Sagrada Familia; el interior lo recorres por tu cuenta con la entrada (en la Sagrada, con una app de audioguía), el guía no entra contigo
+  - Es un tour con punto de encuentro (La Rambla 97, 9:00), no con recogida en el hotel; termina en la Sagrada Familia
   - Es un día largo, de unas 7 horas, en grupo reducido
   - 'La entrada a la Sagrada Familia es nominativa: ten a mano el documento de identidad de todos los participantes'
 accesibilidad: El operador indica que el tour es accesible en silla de ruedas y para carritos de bebé, con asientos infantiles disponibles. Las torres de la Sagrada Familia no son accesibles.
-politicaCancelacion: Cancelación gratuita con reembolso íntegro si cancelas con 24 horas de antelación. Dentro de las 24 horas
-  previas no hay reembolso.
+politicaCancelacion: Cancelación gratuita con reembolso íntegro si cancelas con 24 horas de antelación. Dentro de las 24 horas previas no hay reembolso.
 preguntasFrecuentes:
 - pregunta: ¿Las entradas a la Sagrada Familia y al Park Güell están incluidas?
-  respuesta: 'Sí. El precio incluye las entradas sin colas a la Sagrada Familia y al Park Güell, además de una visita guiada por el exterior de la Sagrada Familia. El interior lo recorres por tu cuenta con la entrada —en la Sagrada, con una app de audioguía—; el guía hace la parte de ciudad (barrio gótico, Montjuïc) y la visita exterior de la Sagrada, pero no entra contigo a los monumentos.'
+  respuesta: Sí. El precio incluye las entradas sin colas a la Sagrada Familia y al Park Güell, además de una visita guiada por el exterior de la Sagrada Familia. El interior lo recorres por tu cuenta con la entrada —en la Sagrada, con una app de audioguía—; el guía hace la parte de ciudad (barrio gótico, Montjuïc) y la visita exterior de la Sagrada, pero no entra contigo a los monumentos.
 - pregunta: ¿Hay recogida en el hotel?
-  respuesta: 'No. Es un tour con punto de encuentro en La Rambla 97, junto a la tienda «Casa Beethoven», a las 9:00 de la mañana; llega 10 minutos antes para el check-in. El recorrido termina en la Sagrada Familia.'
+  respuesta: No. Es un tour con punto de encuentro en La Rambla 97, junto a la tienda «Casa Beethoven», a las 9:00 de la mañana; llega 10 minutos antes para el check-in. El recorrido termina en la Sagrada Familia.
 - pregunta: ¿En qué idioma es el tour?
   respuesta: Español e inglés. Comprueba el idioma de tu salida al reservar.
 - pregunta: ¿Es accesible para sillas de ruedas?
@@ -74,7 +73,7 @@ variantes:
 - sagrada-familia-park-guell-tour-guiado
 - entrada-sagrada-familia-audioguia
 - sagrada-familia-visita-guiada-sin-colas
-avisoReserva: 'En temporada alta, la Sagrada Familia se agota con semanas de antelación'
+avisoReserva: En temporada alta, la Sagrada Familia se agota con semanas de antelación
 opinionEditorial: 'Es el «todo en un día» de Barcelona: quedas a primera hora en el centro y, en unas 7 horas, ves Montjuïc, el casco antiguo, el barrio gótico, el Passeig de Gràcia, el Park Güell y la Sagrada Familia, con guía y transporte privado en algunos tramos. Para quien aterriza con un día y quiere exprimirlo sin organizar nada, funciona —y la nota lo respalda como pocas: 4,9 sobre 5 con más de 15.000 reseñas, la más alta—.
 
 
@@ -91,7 +90,7 @@ keywords:
 - tour guiado sagrada familia barcelona
 - que ver en barcelona en un dia
 imagen: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-imagenAlt: Vistas panorámicas de Barcelona con arquitectura modernista y mar Mediterráneo al fondo
+imagenAlt: Fachada de la Pasión de la Sagrada Familia
 ratingProveedor: 4.9
 numeroOpiniones: 15762
 publicada: true
@@ -101,27 +100,27 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
-  alt: Calle estrecha del Barrio Gótico de Barcelona con arquitectura medieval y fachadas históricas
+  alt: Calle estrecha con balcones en el casco antiguo de Barcelona
 - src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios históricos y arquitectura moderna bajo cielo azul.
+  alt: Barcelona vista desde la escalinata del Palau Nacional (MNAC)
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
   alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp
   alt: La famosa fuente-escultura del dragón de mosaico (El Drac) en la escalinata de entrada del Park Güell
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero-hero.webp
-  alt: Calles estrechas y atmósfera gótica en el Barrio Gótico de Barcelona
+  alt: Callejón bajo un arco en el Barrio Gótico de Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
-  alt: Panorámica de Barcelona con arquitectura modernista y horizonte urbano
+  alt: Bóveda de la nave de la Sagrada Familia con sus lucernarios
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero-hero.webp
-  alt: Parque Güell con arquitectura de Gaudí y vistas panorámicas de Barcelona, España
+  alt: Pórticos de piedra y escalinata del Park Güell
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
   alt: Vidrieras interiores de la Sagrada Familia con los nombres de santos grabados
 - src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp
-  alt: Vistas panorámicas del Park Güell con modernismo catalán y la ciudad de Barcelona al fondo
+  alt: Pabellones de la entrada del Park Güell con sus tejados de cerámica
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
   alt: Nave interior de la Sagrada Familia vista hacia el altar, con sus altas columnas
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Barcelona con arquitectura modernista y vida urbana vibrante
+  alt: Luz roja y naranja de las vidrieras en el interior de la Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-landmark-monument-hero-hero.webp
   alt: Parque Güell con terrazas y mosaicos modernistas en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
@@ -129,27 +128,27 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Fachada de la Sagrada Familia en Barcelona, arquitectura gótica modernista con torres ornamentadas.
 - src: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
-  alt: Vista panorámica de Barcelona con la Sagrada Familia destacada entre los edificios
+  alt: Mirador del Palau Nacional en Montjuïc con vistas a Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
-  alt: Barcelona, vista aérea de la ciudad con arquitectura modernista y edificios históricos
+  alt: Luz de las vidrieras proyectada sobre las columnas de la Sagrada Familia
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-foto-91758636-hero-hero.webp
   alt: Callejón empedrado del Barrio Gótico de Barcelona con fachadas medievales de piedra
 - src: /images/actividades/barcelona/park-guell/unsplash-aX5NLrKgRBc-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y mediterráneo de fondo
+  alt: Banco ondulado de trencadís del Park Güell con vistas a Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
-  alt: Vistas panorámicas de Barcelona con la Sagrada Familia y arquitectura modernista al atardecer
+  alt: Vidrieras azules y verdes de la Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/wikimedia-8790292-hero.webp
-  alt: Panorámica aérea de Barcelona con la Sagrada Familia y arquitectura urbana
+  alt: Torre y pabellón de la entrada del Park Güell
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
   alt: Fachada de la Sagrada Familia de Barcelona con torres góticas y detalles arquitectónicos ornamentales
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-vibrant-orange-bicycle-leans-hero-hero.webp
   alt: Bicicleta naranja apoyada en calle empedrada del Barrio Gótico de Barcelona
 - src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios modernistas y la sagrada familia al fondo
+  alt: Plaça d'Espanya y las torres venecianas, con el Palau Nacional (MNAC) al fondo
 bokunProductId: 674376
-fecha_actualizacion: '2026-06-22'
+fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
-  - "sagrada-familia-que-entrada-elegir"
+- sagrada-familia-que-entrada-elegir
 ---
 
 ## Qué vas a ver

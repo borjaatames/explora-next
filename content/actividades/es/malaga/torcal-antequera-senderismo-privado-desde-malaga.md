@@ -82,20 +82,24 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/66ee2d7f-403d-46b3-a697-a0d6f8073699.jpeg
-  alt: Grupo con su guía entre las rocas de El Torcal
+- src: /images/actividades/malaga/antequera/antequera-alcazaba.webp
+  alt: Alcazaba de Antequera sobre la ciudad con la Peña de los Enamorados al fondo
+- src: /images/actividades/malaga/antequera/antequera-colegiata.webp
+  alt: Fachada renacentista de la Real Colegiata de Santa María la Mayor de Antequera
 - src: /images/actividades/malaga/antequera/torcal-04.webp
   alt: Rocas apiladas de El Torcal
-- src: https://imgcdn.bokun.tools/a11d4854-0d68-4181-a243-bb6a67aa278b.jpeg
-  alt: Senderista contemplando el paisaje desde El Torcal
 - src: /images/actividades/malaga/antequera/torcal-01.webp
   alt: Cabra montés en las rocas de El Torcal de Antequera
+- src: https://imgcdn.bokun.tools/66ee2d7f-403d-46b3-a697-a0d6f8073699.jpeg
+  alt: Grupo con su guía entre las rocas de El Torcal
+- src: https://imgcdn.bokun.tools/a11d4854-0d68-4181-a243-bb6a67aa278b.jpeg
+  alt: Senderista contemplando el paisaje desde El Torcal
 - src: https://imgcdn.bokun.tools/dfce2f85-f589-44e6-a6e9-960cbe2f0d13.jpeg
   alt: Sendero entre las rocas de El Torcal
 - src: https://imgcdn.bokun.tools/bee9c0ad-ad8a-497a-bbeb-0166bcd5a26b.jpeg
   alt: Formaciones rocosas de El Torcal con vistas al valle
 bokunProductId: 1036137
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Cómo es el día

@@ -72,27 +72,27 @@ imagen: https://imgcdn.bokun.tools/7249db2c-9ea4-4dba-a525-439b2f5501cd.jpg
 imagenAlt: Waiter serving a tapa in a Granada bar
 galeria:
 - src: https://imgcdn.bokun.tools/16e9a455-2914-4013-9b28-570eb9ae952d.jpg
-  alt: "Group with their guide on a whitewashed Granada street"
+  alt: Group with their guide on a whitewashed Granada street
 - src: https://imgcdn.bokun.tools/993c6dcd-be8f-4d3a-b387-b09bdf74610d.jpg
-  alt: "Walking along a street in the old town"
+  alt: Walking along a street in the old town
 - src: https://imgcdn.bokun.tools/ad6215b4-d87f-4d89-ad47-b98e2b6b5692.jpg
-  alt: "Cobbled alley during the tour"
+  alt: Cobbled alley during the tour
 - src: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
-  alt: "Panoramic view of Granada from the Alhambra"
+  alt: The Albaicín seen from the Alhambra gardens
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: "The Albaicín at dusk"
+  alt: The Albaicín at dusk
 - src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
-  alt: "Facade of the Royal Chapel and Cathedral of Granada"
+  alt: Facade of the Royal Chapel and Cathedral of Granada
 - src: /images/actividades/granada/tapas/tapas-la-fontana.webp
-  alt: "Tapas at a bar in Granada"
+  alt: Tapas at a bar in Granada
 - src: /images/actividades/granada/tapas/tapas-tapas-sur.webp
-  alt: "Tapas with wine in Granada"
+  alt: Tapas with wine in Granada
 - src: /images/actividades/granada/tapas/tapas-vista-alhambra.webp
-  alt: "The Alhambra seen from the Albaicín"
+  alt: The Alhambra seen from the Albaicín
 publicada: true
 destacada: false
 fecha: '2026-10-10'
-fecha_actualizacion: '2026-10-10'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

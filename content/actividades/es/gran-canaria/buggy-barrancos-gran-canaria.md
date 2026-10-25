@@ -79,11 +79,15 @@ keywords:
 - excursion buggy maspalomas
 - off road gran canaria
 - barranco de fataga
-imagen: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-imagenAlt: Barranco de Fataga, en el sur de Gran Canaria
+imagen: /images/actividades/lanzarote/buggy-volcanes.webp
+imagenAlt: Buggy por una pista de tierra entre montañas volcánicas
 galeria:
-- src: "/images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp"
-  alt: "Carretera sinuosa atravesando un barranco en el sur de Gran Canaria"
+- src: /images/actividades/fuerteventura/buggy-corralejo.webp
+  alt: Buggy recorriendo una pista de tierra en un paisaje árido
+- src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
+  alt: Barranco de Fataga, en el sur de Gran Canaria
+- src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
+  alt: Carretera sinuosa atravesando un barranco en el sur de Gran Canaria
 - src: /images/actividades/gran-canaria/buggy/valle-ayagaures.webp
   alt: Valle de Ayagaures
 - src: /images/actividades/gran-canaria/buggy/presa-ayagaures.webp
@@ -103,7 +107,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

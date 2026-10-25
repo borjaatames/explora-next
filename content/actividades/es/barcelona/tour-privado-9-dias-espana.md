@@ -2,8 +2,7 @@
 titulo: España en 9 días, tour privado (Barcelona, Madrid, Granada, Sevilla)
 slug: tour-privado-9-dias-espana
 ciudad: barcelona
-descripcion: Tour privado de 9 días por lo más destacado de España (Barcelona, Madrid,
-  Granada y Sevilla) con hoteles, AVE, comidas y visitas guiadas.
+descripcion: Tour privado de 9 días por lo más destacado de España (Barcelona, Madrid, Granada y Sevilla) con hoteles, AVE, comidas y visitas guiadas.
 slugs:
   es: tour-privado-9-dias-espana
   en: spain-highlights-9-day-private-tour
@@ -15,7 +14,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1105242
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 highlights:
 - Tour privado de 9 días por Barcelona, Madrid, Granada y Sevilla
@@ -35,8 +34,7 @@ noIncluye:
 - Extras y souvenirs
 puntoEncuentro:
   texto: Recogida en Barcelona (punto y hora confirmados al reservar)
-  descripcionGuia: El viaje arranca en Barcelona; el punto de recogida y los detalles
-    del itinerario se confirman al reservar.
+  descripcionGuia: El viaje arranca en Barcelona; el punto de recogida y los detalles del itinerario se confirman al reservar.
   latitud: 41.3851
   longitud: 2.1734
   zoom: 12
@@ -46,17 +44,9 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-accesibilidad: No accesible para sillas de ruedas. Incluye recorridos a pie. No recomendado
-  para personas con problemas cardiacos.
-politicaCancelacion: Cancelación gratuita hasta el inicio de la actividad, con reembolso
-  completo.
-opinionEditorial: 'Es un "gran tour" de España resuelto de principio a fin: cuatro
-  ciudades imprescindibles en nueve días, moviéndote en AVE (lo más cómodo entre capitales),
-  con hoteles, desayunos, cenas y entradas ya incluidos, y guía a pie en Barcelona
-  y Madrid. La gracia es que es privado, así que no vas pegado a un grupo de 40 personas:
-  hay estructura pero también tiempo libre. Es una experiencia premium por grupo;
-  para una familia o un grupo de amigos que quieren ver lo esencial de España sin
-  organizar nada, tiene mucho sentido.'
+accesibilidad: No accesible para sillas de ruedas. Incluye recorridos a pie. No recomendado para personas con problemas cardiacos.
+politicaCancelacion: Cancelación gratuita hasta el inicio de la actividad, con reembolso completo.
+opinionEditorial: 'Es un "gran tour" de España resuelto de principio a fin: cuatro ciudades imprescindibles en nueve días, moviéndote en AVE (lo más cómodo entre capitales), con hoteles, desayunos, cenas y entradas ya incluidos, y guía a pie en Barcelona y Madrid. La gracia es que es privado, así que no vas pegado a un grupo de 40 personas: hay estructura pero también tiempo libre. Es una experiencia premium por grupo; para una familia o un grupo de amigos que quieren ver lo esencial de España sin organizar nada, tiene mucho sentido.'
 atraccionesRelacionadas:
 - otros-barcelona
 categoria: experienciasPrivadas
@@ -64,23 +54,21 @@ keywords:
 - tour privado espana 9 dias
 - gran tour espana barcelona madrid granada sevilla
 - viaje privado espana ave hoteles
-imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
+imagen: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
 imagenAlt: La Sagrada Familia de Barcelona, una de las paradas del tour por España
 galeria:
-- src: https://imgcdn.bokun.tools/e82dd66b-fe16-4a08-a6c8-63f7d8fc5fae.jpg
-  alt: "Fachada de la catedral de Sevilla"
-- src: https://imgcdn.bokun.tools/481a3efa-97fb-458e-9ca7-c1cc42ccc1f6.jpg
-  alt: "Torre de la plaza de España de Sevilla"
-- src: https://imgcdn.bokun.tools/8266eb52-53c4-44b0-8f06-a3490872a8de.jpg
-  alt: "Vista del Albaicín de Granada"
-- src: https://imgcdn.bokun.tools/f77247f3-4bb0-4858-9c82-1356ffdc4e9f.jpg
-  alt: "Alcazaba de la Alhambra con Granada al fondo"
-- src: https://imgcdn.bokun.tools/146b9308-115b-43eb-943a-86fc4f09ab71.jpg
-  alt: "Puerta de acceso a la Alhambra"
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-iconic-metropolis-building-under-hero.webp
+  alt: Edificio Metrópolis, al inicio de la Gran Vía de Madrid
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-blue-sky-hero.webp
+  alt: Palacio Real de Madrid
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp
+  alt: Fuente y estatua de Carlos III en la Puerta del Sol de Madrid
+- src: /images/actividades/madrid/trenes/ave-atocha-andenes.webp
+  alt: Tren AVE en los andenes de la estación de Madrid Puerta de Atocha
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
   alt: Torres de la Sagrada Familia con una grua de construccion, al atardecer
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Fachada de la Pasion de la Sagrada Familia, con sus torres y gruas de construccion, en Barcelona
+  alt: Fachada de la Pasión de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
   alt: Torres de la Sagrada Familia con esculturas y andamiaje de construccion
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
@@ -93,12 +81,10 @@ galeria:
   alt: Detalle de la fachada de la Gloria de la Sagrada Familia con sus ventanas piramidales
 - src: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
   alt: Vista exterior de la Sagrada Familia al atardecer, con varias de sus torres
-- src: /images/actividades/barcelona/sagrada-familia/pexels-19443167-hero.webp
-  alt: Vista cenital del techo interior de la Sagrada Familia con sus vidrieras y motivos estelares
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-23'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

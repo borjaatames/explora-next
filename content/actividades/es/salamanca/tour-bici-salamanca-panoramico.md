@@ -72,9 +72,15 @@ keywords:
 - salamanca en bicicleta
 - que hacer en salamanca
 - puente romano salamanca
-imagen: /images/actividades/salamanca/rio/tormes-catedral.webp
-imagenAlt: Salamanca y sus catedrales desde el Tormes
+imagen: /images/actividades/salamanca/bici/ciclistas-puente-romano.webp
+imagenAlt: Ciclistas cruzando el puente romano de Salamanca
 galeria:
+- src: /images/actividades/salamanca/bici/estacion-salenbici.webp
+  alt: Estación de bicicletas públicas Salenbici en una calle de Salamanca
+- src: /images/actividades/salamanca/rio/tormes-catedral.webp
+  alt: Salamanca y sus catedrales desde el Tormes
+- src: /images/actividades/salamanca/universidad/fachada-universidad.webp
+  alt: Fachada plateresca de la Universidad de Salamanca
 - src: /images/actividades/salamanca/centro/puente-romano.webp
   alt: Puente romano sobre el Tormes
 - src: /images/actividades/salamanca/rio/tormes-orilla.webp
@@ -96,7 +102,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

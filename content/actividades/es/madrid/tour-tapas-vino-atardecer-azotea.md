@@ -1,126 +1,120 @@
 ---
-titulo: "Tour de tapas y vino con visita a una azotea"
-slug: "tour-tapas-vino-atardecer-azotea"
-ciudad: "madrid"
-descripcion: "Tour de tapas y vino de 3,5 horas por el centro de Madrid, de La Latina a la Plaza Mayor, con final en una azotea de la Gran Vía al atardecer."
-
+titulo: Tour de tapas y vino con visita a una azotea
+slug: tour-tapas-vino-atardecer-azotea
+ciudad: madrid
+descripcion: Tour de tapas y vino de 3,5 horas por el centro de Madrid, de La Latina a la Plaza Mayor, con final en una azotea de la Gran Vía al atardecer.
 slugs:
-  es: "tour-tapas-vino-atardecer-azotea"
-
-duracion: "3 horas 30 minutos"
+  es: tour-tapas-vino-atardecer-azotea
+duracion: 3 horas 30 minutos
 duracionMinutos: 210
 precioDesde: 69
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.es/madrid-l46/madrid-tour-de-tapas-y-vino-con-visita-a-una-azotea-t708104/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.es/madrid-l46/madrid-tour-de-tapas-y-vino-con-visita-a-una-azotea-t708104/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Tapas y vino por los barrios más tradicionales del centro de Madrid"
-  - "Final en una azotea de la Gran Vía con vistas al atardecer"
-  - "Opciones vegetarianas y sin gluten disponibles"
-  - "Guía local, reportaje fotográfico y receta de sangría incluidos"
-
+- Tapas y vino por los barrios más tradicionales del centro de Madrid
+- Final en una azotea de la Gran Vía con vistas al atardecer
+- Opciones vegetarianas y sin gluten disponibles
+- Guía local, reportaje fotográfico y receta de sangría incluidos
 incluye:
-  - "Tapas locales en cada parada"
-  - "Vino en cada local (o refrescos en los tres primeros bares)"
-  - "Una copa de vino en la azotea"
-  - "Opciones vegetarianas o sin gluten"
-  - "Tour guiado con guía local"
-  - "Reportaje fotográfico, receta de sangría y un regalo sorpresa"
-
+- Tapas locales en cada parada
+- Vino en cada local (o refrescos en los tres primeros bares)
+- Una copa de vino en la azotea
+- Opciones vegetarianas o sin gluten
+- Tour guiado con guía local
+- Reportaje fotográfico, receta de sangría y un regalo sorpresa
 noIncluye:
-  - "Gastos personales adicionales"
-  - "Otras bebidas en la azotea más allá de la copa incluida"
-  - "Propinas"
-
+- Gastos personales adicionales
+- Otras bebidas en la azotea más allá de la copa incluida
+- Propinas
 puntoEncuentro:
-  texto: "Justo a la salida de la Taberna Tirso de Molina, Plaza de Tirso de Molina, Madrid"
-  descripcionGuia: "El punto de encuentro es la calle, justo fuera de la Taberna Tirso de Molina, en la Plaza de Tirso de Molina. Llega 10-15 minutos antes de la hora de inicio. El recorrido termina en la Plaza del Callao, no en el punto de partida."
+  texto: Justo a la salida de la Taberna Tirso de Molina, Plaza de Tirso de Molina, Madrid
+  descripcionGuia: El punto de encuentro es la calle, justo fuera de la Taberna Tirso de Molina, en la Plaza de Tirso de Molina. Llega 10-15 minutos antes de la hora de inicio. El recorrido termina en la Plaza del Callao, no en el punto de partida.
   latitud: 40.4128
   longitud: -3.7036
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo: es un tour a pie por el centro"
-    - "Apetito moderado: hay tapas en varias paradas"
+  - 'Calzado cómodo: es un tour a pie por el centro'
+  - 'Apetito moderado: hay tapas en varias paradas'
   noAptoPara:
-    - "Personas en silla de ruedas"
+  - Personas en silla de ruedas
   aTenerEnCuenta:
-    - "El recorrido empieza en Tirso de Molina y termina en la Plaza del Callao, en puntos distintos"
-    - "Los menores pueden participar acompañados de un adulto y con bebidas sin alcohol"
-    - "En la azotea está incluida una copa de vino; el resto de consumiciones se pagan aparte"
-    - "Indica con antelación si necesitas opción vegetariana o sin gluten"
-
-accesibilidad: "Tour no recomendado para personas en silla de ruedas: es un recorrido a pie por el centro de Madrid, con aceras estrechas, entradas a bares y el acceso a una azotea."
-
-politicaCancelacion: "Cancela gratis hasta 24 horas antes de la experiencia y recibirás el reembolso completo. Después de ese plazo no hay reembolso."
-
+  - El recorrido empieza en Tirso de Molina y termina en la Plaza del Callao, en puntos distintos
+  - Los menores pueden participar acompañados de un adulto y con bebidas sin alcohol
+  - En la azotea está incluida una copa de vino; el resto de consumiciones se pagan aparte
+  - Indica con antelación si necesitas opción vegetariana o sin gluten
+accesibilidad: 'Tour no recomendado para personas en silla de ruedas: es un recorrido a pie por el centro de Madrid, con aceras estrechas, entradas a bares y el acceso a una azotea.'
+politicaCancelacion: Cancela gratis hasta 24 horas antes de la experiencia y recibirás el reembolso completo. Después de ese plazo no hay reembolso.
 preguntasFrecuentes:
-  - pregunta: "¿Qué incluye exactamente el tour?"
-    respuesta: "Tapas locales en cada parada, vino en cada local (o refrescos en los tres primeros bares), una copa de vino en la azotea final, el tour guiado, un reportaje fotográfico, la receta de sangría y un regalo sorpresa. Lo que no se mencione en esa lista —consumiciones extra, gastos personales— se paga aparte."
-  - pregunta: "¿Hay opciones para vegetarianos o celíacos?"
-    respuesta: "Sí. El tour ofrece opciones vegetarianas y sin gluten. Conviene avisar al reservar o con antelación para que las paradas puedan adaptarse."
-  - pregunta: "¿Se puede ir con niños?"
-    respuesta: "Sí. Los menores pueden participar acompañados de un adulto y con bebidas sin alcohol en lugar del vino."
-  - pregunta: "¿Dónde empieza y dónde termina?"
-    respuesta: "Empieza a la salida de la Taberna Tirso de Molina y termina en la Plaza del Callao, tras la visita a la azotea. Son puntos distintos: tenlo en cuenta para organizar lo que hagas después."
-  - pregunta: "¿Puedo cancelar si me surge un imprevisto?"
-    respuesta: "Sí. La cancelación es gratuita hasta 24 horas antes de la experiencia, con reembolso completo. Pasado ese plazo no hay devolución."
+- pregunta: ¿Qué incluye exactamente el tour?
+  respuesta: Tapas locales en cada parada, vino en cada local (o refrescos en los tres primeros bares), una copa de vino en la azotea final, el tour guiado, un reportaje fotográfico, la receta de sangría y un regalo sorpresa. Lo que no se mencione en esa lista —consumiciones extra, gastos personales— se paga aparte.
+- pregunta: ¿Hay opciones para vegetarianos o celíacos?
+  respuesta: Sí. El tour ofrece opciones vegetarianas y sin gluten. Conviene avisar al reservar o con antelación para que las paradas puedan adaptarse.
+- pregunta: ¿Se puede ir con niños?
+  respuesta: Sí. Los menores pueden participar acompañados de un adulto y con bebidas sin alcohol en lugar del vino.
+- pregunta: ¿Dónde empieza y dónde termina?
+  respuesta: 'Empieza a la salida de la Taberna Tirso de Molina y termina en la Plaza del Callao, tras la visita a la azotea. Son puntos distintos: tenlo en cuenta para organizar lo que hagas después.'
+- pregunta: ¿Puedo cancelar si me surge un imprevisto?
+  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes de la experiencia, con reembolso completo. Pasado ese plazo no hay devolución.
+variantes:
+- ruta-tapas-nocturna-madrid
+- tour-bodegas-madrid-cata-vino
+opinionEditorial: 'Es la opción acertada si quieres un tour de tapas con un final con gancho. El recorrido va de La Latina a la Plaza Mayor probando tapas y vino como un madrileño más, y se cierra en una azotea de la Gran Vía con vistas al atardecer. Esa última parada es lo que lo diferencia de un tour de tapas estándar, y se nota en las reseñas: 4,7 de nota y plazas que se agotan con facilidad.
 
-variantes: ["ruta-tapas-nocturna-madrid", "tour-bodegas-madrid-cata-vino"]
-
-opinionEditorial: |
-  Es la opción acertada si quieres un tour de tapas con un final con gancho. El recorrido va de La Latina a la Plaza Mayor probando tapas y vino como un madrileño más, y se cierra en una azotea de la Gran Vía con vistas al atardecer. Esa última parada es lo que lo diferencia de un tour de tapas estándar, y se nota en las reseñas: 4,7 de nota y plazas que se agotan con facilidad.
 
   Lo que conviene saber antes de reservar: en la azotea está incluida una copa de vino, pero el resto de consumiciones se pagan aparte; no es barra libre. Y el tour empieza en Tirso de Molina y acaba en Callao, así que organiza lo que hagas después contando con que terminas en otro punto. Es un plan sociable y de ambiente —se conoce gente—; si buscabas una experiencia gastronómica más íntima o centrada en la calidad del producto, te encajará mejor un tour más pequeño. Y no es accesible en silla de ruedas.
 
+  '
 atraccionesRelacionadas:
 - tapas-madrid
-categoria: "toursGastronomicos"
-keywords: ["tour de tapas madrid", "tapas y vino madrid", "tour tapas azotea madrid", "ruta de tapas centro madrid", "tour gastronomico madrid atardecer"]
-
-imagen: "/images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-vehicles-hero.webp"
-imagenAlt: "La Gran Vía al atardecer vista desde una azotea"
-
+categoria: toursGastronomicos
+keywords:
+- tour de tapas madrid
+- tapas y vino madrid
+- tour tapas azotea madrid
+- ruta de tapas centro madrid
+- tour gastronomico madrid atardecer
+imagen: /images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-vehicles-hero.webp
+imagenAlt: La Gran Vía al atardecer vista desde una azotea
 galeria:
-  - src: "/images/actividades/madrid/la-latina/la-latina-wikimedia-cava-baja-madrid-6146188051-jpg-06.webp"
-    alt: "Calle de la Cava Baja en La Latina"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-variety-colorful-drinks-including-hero.webp"
-    alt: "Vinos y vermut en una terraza"
-  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp"
-    alt: "Plaza Mayor de Madrid con la estatua de Felipe III y visitantes"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp"
-    alt: "Jamón ibérico de bellota"
-  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
-    alt: "Plaza del Callao y Gran Vía al anochecer"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-spanish-sangria-hero.webp"
-    alt: "Sangría en una terraza del centro"
-  - src: "/images/actividades/madrid/gran-via/gran-via-madrid-madrid-spain-road-plaza-callao-hero.webp"
-    alt: "La Gran Vía iluminada vista desde lo alto"
-  - src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-foto-774234-hero.webp"
-    alt: "Terrazas en una calle del centro de Madrid"
-  - src: /images/actividades/madrid/la-latina/01.webp
-    alt: "Barrio de La Latina, inicio de la ruta"
-
+- src: /images/actividades/madrid/la-latina/la-latina-wikimedia-cava-baja-madrid-6146188051-jpg-06.webp
+  alt: Calle de la Cava Baja en La Latina
+- src: /images/actividades/madrid/tapas/tapas-madrid-variety-colorful-drinks-including-hero.webp
+  alt: Vinos y vermut en una terraza
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
+  alt: Plaza Mayor de Madrid con la estatua de Felipe III y visitantes
+- src: /images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-bellota-cinco-jotas-hero.webp
+  alt: Jamón ibérico de bellota
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp
+  alt: Plaza de Callao y el edificio Carrión de noche
+- src: /images/actividades/madrid/tapas/tapas-madrid-spanish-sangria-hero.webp
+  alt: Sangría en una terraza del centro
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-madrid-spain-road-plaza-callao-hero.webp
+  alt: La Gran Vía iluminada vista desde lo alto
+- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-foto-774234-hero.webp
+  alt: Terrazas en una calle del centro de Madrid
+- src: /images/actividades/madrid/la-latina/01.webp
+  alt: Barrio de La Latina, inicio de la ruta
 ratingProveedor: 4.7
 numeroOpiniones: 342
-
 publicada: true
 destacada: false
-fecha: "2026-05-14"
+fecha: '2026-05-14'
 guiasRelacionadas:
-  - "tapas-madrid-que-tour-elegir"
+- tapas-madrid-que-tour-elegir
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

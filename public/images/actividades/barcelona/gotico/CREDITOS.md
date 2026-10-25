@@ -19,3 +19,5 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
 - `barrio-gotico-barcelona-cathedral-spain-architecture-hero.webp` — falco, Pixabay Content License, vía Pixabay (https://pixabay.com/photos/barcelona-cathedral-spain-4298066/)
 - `placa-reial.webp` — Tony Hisgett · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Pla%C3%A7a_Reial_Barcelona_%285835807391%29.jpg
+- `placa-sant-felip-neri.webp` — José Luis Filpo Cabana · CC BY 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Plaza_de_San_Felipe_Neri._Barcelona.jpg
+- `santa-maria-del-pi-fachada.webp` — Adam Jones from Kelowna, BC, Canada · CC BY-SA 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Facade_of_Church_of_Santa_Maria_del_Pi_-_Barcelona_-_Spain_%2814353201766%29.jpg

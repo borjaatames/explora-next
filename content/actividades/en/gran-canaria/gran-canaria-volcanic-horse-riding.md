@@ -2,7 +2,7 @@
 titulo: 'Gran Canaria: horse riding on a volcanic trail'
 slug: gran-canaria-volcanic-horse-riding
 ciudad: gran-canaria
-descripcion: "1- or 2-hour horse ride from the El Salobre ranch on volcanic tracks in southern Gran Canaria, with optional hotel pickup. Rated 4.5/5 from 2,557 reviews."
+descripcion: 1- or 2-hour horse ride from the El Salobre ranch on volcanic tracks in southern Gran Canaria, with optional hotel pickup. Rated 4.5/5 from 2,557 reviews.
 slugs:
   es: paseo-caballo-ruta-volcanica-gran-canaria
   en: gran-canaria-volcanic-horse-riding
@@ -34,7 +34,7 @@ noIncluye:
 - Riding boots (available to rent at the ranch)
 - Food and drink
 puntoEncuentro:
-  texto: 'El Salobre Horse Riding ranch, El Salobre (San Bartolomé de Tirajana).'
+  texto: El Salobre Horse Riding ranch, El Salobre (San Bartolomé de Tirajana).
   descripcionGuia: If you don't book the transfer option, make your own way to the El Salobre Horse Riding centre. Hotel pickup is only available from selected areas, subject to availability.
   latitud: 27.7827
   longitud: -15.6317
@@ -68,7 +68,7 @@ preguntasFrecuentes:
   respuesta: Yes, the maximum is 110 kg.
 - pregunta: Is pickup included?
   respuesta: Only if you book the transfer option, which covers some southern areas subject to availability.
-opinionEditorial: "A gentler alternative to the buggy for seeing the arid inland landscape of the south. The 1-hour ride feels short if you already ride: in that case take the 2-hour option, which is where you trot and gallop. Bring a scarf for the dust."
+opinionEditorial: 'A gentler alternative to the buggy for seeing the arid inland landscape of the south. The 1-hour ride feels short if you already ride: in that case take the 2-hour option, which is where you trot and gallop. Bring a scarf for the dust.'
 guiasRelacionadas:
 - what-to-see-in-gran-canaria
 - roque-nublo-hike
@@ -78,9 +78,11 @@ keywords:
 - horse riding maspalomas
 - el salobre horse riding
 - gran canaria horseback tour
-imagen: "/images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp"
-imagenAlt: "Ravine and mountains in southern Gran Canaria"
+imagen: /images/actividades/gran-canaria/caballo/jinetes-campo-seco.webp
+imagenAlt: Group of horse riders crossing a dry field with mountains behind
 galeria:
+- src: /images/actividades/gran-canaria/caballo/caballos-canon-roca.webp
+  alt: Horseback ride between walls of volcanic rock
 ratingProveedor: 4.5
 numeroOpiniones: 2557
 atraccionesRelacionadas:
@@ -88,7 +90,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

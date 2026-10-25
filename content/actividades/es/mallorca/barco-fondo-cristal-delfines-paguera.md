@@ -77,27 +77,33 @@ keywords:
 - excursion en barco paguera
 - barco con niños mallorca
 - avistamiento de delfines mallorca
-imagen: "/images/actividades/mallorca/barco-paguera/peguera-islote.webp"
-imagenAlt: "Islote rocoso con pinos frente a la costa de Paguera"
+imagen: /images/actividades/mallorca/barco-paguera/vista-fondo-cristal-barco.webp
+imagenAlt: Pasajeros mirando el fondo marino a través del casco de cristal de un barco
 galeria:
-  - src: "/images/actividades/mallorca/barco-paguera/peguera-bahia.webp"
-    alt: "Bahía de Paguera vista desde lo alto"
-  - src: "/images/actividades/mallorca/barco-paguera/delfines-1.webp"
-    alt: "Grupo de delfines saltando en mar abierto"
-  - src: "/images/actividades/mallorca/barco-paguera/delfines-2.webp"
-    alt: "Delfines nadando junto a la superficie"
-  - src: "/images/actividades/mallorca/barco-paguera/delfines-3.webp"
-    alt: "Delfín visto desde la borda de un barco"
-  - src: "/images/actividades/mallorca/barco-paguera/peguera-playa.webp"
-    alt: "Playa de Paguera en verano"
-  - src: "/images/actividades/mallorca/barco-paguera/peguera-pueblo.webp"
-    alt: "Paguera con sus hoteles y montañas al fondo"
+- src: /images/actividades/mallorca/barco-paguera/barco-fondo-cristal-amarrado.webp
+  alt: Barco con fondo de cristal amarrado en el puerto
+- src: /images/actividades/mallorca/barco-paguera/peguera-islote.webp
+  alt: Islote rocoso con pinos frente a la costa de Paguera
+- src: /images/actividades/mallorca/barco-paguera/posidonia-fondo-marino-baleares.webp
+  alt: Pradera de posidonia en el fondo marino de las Baleares
+- src: /images/actividades/mallorca/barco-paguera/peguera-bahia.webp
+  alt: Bahía de Paguera vista desde lo alto
+- src: /images/actividades/mallorca/barco-paguera/delfines-1.webp
+  alt: Grupo de delfines saltando en mar abierto
+- src: /images/actividades/mallorca/barco-paguera/delfines-2.webp
+  alt: Delfines nadando junto a la superficie
+- src: /images/actividades/mallorca/barco-paguera/delfines-3.webp
+  alt: Delfín visto desde la borda de un barco
+- src: /images/actividades/mallorca/barco-paguera/peguera-playa.webp
+  alt: Playa de Paguera en verano
+- src: /images/actividades/mallorca/barco-paguera/peguera-pueblo.webp
+  alt: Paguera con sus hoteles y montañas al fondo
 ratingProveedor: 4.6
 numeroOpiniones: 3852
 publicada: true
 destacada: false
 fecha: '2026-10-04'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

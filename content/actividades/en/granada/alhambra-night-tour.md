@@ -2,8 +2,7 @@
 titulo: Evening Tour of the Alhambra and Nasrid Palaces
 slug: alhambra-night-tour
 ciudad: granada
-descripcion: A 1.5-hour guided evening tour of the illuminated Nasrid Palaces, away from the daytime crowds. A different experience
-  from the daytime visit.
+descripcion: A 1.5-hour guided evening tour of the illuminated Nasrid Palaces, away from the daytime crowds. A different experience from the daytime visit.
 slugs:
   en: alhambra-night-tour
   es: alhambra-visita-nocturna
@@ -33,9 +32,7 @@ noIncluye:
 - Gratuities
 puntoEncuentro:
   texto: Paseo del Generalife, next to the Alhambra entrance
-  descripcionGuia: 'The physical departure point is on Paseo del Generalife, next to the Alhambra entrance. There are three
-    variants (shared group in Spanish, in English, or private) and the operator confirms the exact point at booking. Arrive
-    15 minutes early: at night it helps to find your group while there''s still enough light.'
+  descripcionGuia: 'The physical departure point is on Paseo del Generalife, next to the Alhambra entrance. There are three variants (shared group in Spanish, in English, or private) and the operator confirms the exact point at booking. Arrive 15 minutes early: at night it helps to find your group while there''s still enough light.'
   latitud: 37.1773
   longitud: -3.5848
   zoom: 16
@@ -51,54 +48,35 @@ informacionImportante:
   - Pushchairs (entry with them is not allowed)
   - 'People who need accessibility: wheelchair access is very limited'
   aTenerEnCuenta:
-  - The evening visit covers the Nasrid Palaces and the Palace of Charles V; the Alcazaba and the Generalife are not visited
-    at night
+  - The evening visit covers the Nasrid Palaces and the Palace of Charles V; the Alcazaba and the Generalife are not visited at night
   - Large bags and suitcases, and selfie sticks, are not allowed
   - Flash photography is not allowed inside the Nasrid Palaces
   - 'The duration (1.5 hours) is shorter than the daytime visits: it covers less of the grounds'
-accesibilidad: Wheelchair access on this evening visit is very limited, and entry with pushchairs is not allowed. If you need
-  accessibility, this is not the right option; check with the operator or look at the daytime visits in the comparison.
-politicaCancelacion: Cancel up to 24 hours in advance for a 60% refund. This is not free cancellation — the Alhambra does
-  not refund tickets to the operator — but the refund percentage is slightly higher than the comparison's usual.
+accesibilidad: Wheelchair access on this evening visit is very limited, and entry with pushchairs is not allowed. If you need accessibility, this is not the right option; check with the operator or look at the daytime visits in the comparison.
+politicaCancelacion: Cancel up to 24 hours in advance for a 60% refund. This is not free cancellation — the Alhambra does not refund tickets to the operator — but the refund percentage is slightly higher than the comparison's usual.
 preguntasFrecuentes:
 - pregunta: Does the evening visit replace the daytime one?
-  respuesta: No, they are different and complementary experiences. The evening visit covers the illuminated Nasrid Palaces
-    and the Palace of Charles V in 1.5 hours; it does not include the Alcazaba or the Generalife, which don't open at night.
-    If you're only going to visit the Alhambra once and want to see it in full, choose a daytime visit; the evening one is
-    ideal as a complement or if you specifically want the night-time atmosphere.
+  respuesta: No, they are different and complementary experiences. The evening visit covers the illuminated Nasrid Palaces and the Palace of Charles V in 1.5 hours; it does not include the Alcazaba or the Generalife, which don't open at night. If you're only going to visit the Alhambra once and want to see it in full, choose a daytime visit; the evening one is ideal as a complement or if you specifically want the night-time atmosphere.
 - pregunta: What exactly do you see?
-  respuesta: 'The route goes into the Nasrid Palaces — the illuminated royal halls and courtyards — and passes through the
-    Palace of Charles V. Before that, the guide leads a walk along the outer wall, by the Puerta de la Justicia. The Alcazaba
-    and the Generalife gardens are left out: they aren''t visited at night.'
+  respuesta: 'The route goes into the Nasrid Palaces — the illuminated royal halls and courtyards — and passes through the Palace of Charles V. Before that, the guide leads a walk along the outer wall, by the Puerta de la Justicia. The Alcazaba and the Generalife gardens are left out: they aren''t visited at night.'
 - pregunta: Why does it only last 1.5 hours?
-  respuesta: Because it covers less of the grounds than the daytime visits. At night you only access the Nasrid Palaces and
-    the Palace of Charles V, so the route is shorter and more concentrated. In exchange, you do it without the daytime crowds.
+  respuesta: Because it covers less of the grounds than the daytime visits. At night you only access the Nasrid Palaces and the Palace of Charles V, so the route is shorter and more concentrated. In exchange, you do it without the daytime crowds.
 - pregunta: Is it a live guide or an audio guide?
-  respuesta: 'It depends on the option: there''s a visit with a live guide and an option with a recorded audio guide, depending
-    on your language needs. For groups of more than 7 people a radio guide system is included. You choose at booking.'
+  respuesta: 'It depends on the option: there''s a visit with a live guide and an option with a recorded audio guide, depending on your language needs. For groups of more than 7 people a radio guide system is included. You choose at booking.'
 - pregunta: Can you go with children?
-  respuesta: Yes, there's no age restriction, and being a short visit (1.5 hours) it's manageable. That said, entry with pushchairs
-    is not allowed, so with very young babies you'll need to carry them or use a baby carrier.
+  respuesta: Yes, there's no age restriction, and being a short visit (1.5 hours) it's manageable. That said, entry with pushchairs is not allowed, so with very young babies you'll need to carry them or use a baby carrier.
 variantes:
 - alhambra-generalife-guided-tour
 - alhambra-private-tour
 - alhambra-small-group-tour
-avisoReserva: 'Alhambra tickets sell out weeks in advance'
-opinionEditorial: 'This is the only visit in the comparison that changes the rules of the game: the Alhambra at night. The
-  Nasrid Palaces illuminated, away from the daytime crowds and with a completely different atmosphere. With 4.9 out of 5 and
-  the «Originals by GetYourGuide» distinction, it''s one of the best-rated experiences, and at €54 the price is reasonable.
+avisoReserva: Alhambra tickets sell out weeks in advance
+opinionEditorial: 'This is the only visit in the comparison that changes the rules of the game: the Alhambra at night. The Nasrid Palaces illuminated, away from the daytime crowds and with a completely different atmosphere. With 4.9 out of 5 and the «Originals by GetYourGuide» distinction, it''s one of the best-rated experiences, and at €54 the price is reasonable.
 
 
-  But you need to understand it properly before booking: **it is not a full visit of the Alhambra**. At night you only enter
-  the Nasrid Palaces and the Palace of Charles V; the Alcazaba and the Generalife are closed. That''s why it lasts 1.5 hours,
-  half a daytime visit. If you''re only going to visit the Alhambra once and want to see it whole, this isn''t your option:
-  choose a daytime visit.
+  But you need to understand it properly before booking: **it is not a full visit of the Alhambra**. At night you only enter the Nasrid Palaces and the Palace of Charles V; the Alcazaba and the Generalife are closed. That''s why it lasts 1.5 hours, half a daytime visit. If you''re only going to visit the Alhambra once and want to see it whole, this isn''t your option: choose a daytime visit.
 
 
-  Where it does shine is as a **complement or as an experience in itself**. If you already know the Alhambra by day, or if
-  you''ll be in Granada for several days, the evening visit to the illuminated palaces is one of the most memorable things
-  you can do in the city. And a practical note: wheelchair access is very limited and entry with pushchairs is not allowed,
-  so keep that in mind if you travel with small children or need accessibility.
+  Where it does shine is as a **complement or as an experience in itself**. If you already know the Alhambra by day, or if you''ll be in Granada for several days, the evening visit to the illuminated palaces is one of the most memorable things you can do in the city. And a practical note: wheelchair access is very limited and entry with pushchairs is not allowed, so keep that in mind if you travel with small children or need accessibility.
 
   '
 atraccionesRelacionadas:
@@ -110,7 +88,7 @@ keywords:
 - illuminated nasrid palaces
 - alhambra evening tour granada
 - nasrid palaces night visit
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
+imagen: /images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp
 imagenAlt: The Alhambra of Granada illuminated at dusk
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp
@@ -130,13 +108,13 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
   alt: Court of the Lions lit up at night in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp
-  alt: Historic architecture and narrow streets of Granada's old town
+  alt: The Alhambra's Court of the Lions
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369627-hero.webp
-  alt: Granada street view with historic architecture and buildings
+  alt: Coloured lattice window and plasterwork in a Nasrid Palaces hall
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
   alt: Detail of the tilework and plasterwork of the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829145-hero.webp
-  alt: Granada historic architecture with traditional white buildings and narrow streets
+  alt: Portico and pool of the Court of the Myrtles
 - src: /images/actividades/granada/palacios-nazaries/pexels-37387057-hero.webp
   alt: Archway with a muqarnas ceiling in the Nasrid Palaces of the Alhambra.
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
@@ -149,8 +127,9 @@ publicada: true
 destacada: false
 fecha: '2026-05-14'
 guiasRelacionadas:
-  - "alhambra-how-to-visit"
-  - "alhambra-which-tour-to-choose"
+- alhambra-how-to-visit
+- alhambra-which-tour-to-choose
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

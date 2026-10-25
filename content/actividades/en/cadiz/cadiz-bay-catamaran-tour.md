@@ -73,25 +73,31 @@ keywords:
 - bay of cadiz catamaran
 - cadiz boat tour
 - cadiz by boat
-imagen: /images/actividades/cadiz/mar/castillo-santa-catalina.webp
-imagenAlt: Santa Catalina Castle by the sea
+imagen: /images/actividades/cadiz/catamaran/catamaran-bahia-cadiz-navegando.webp
+imagenAlt: Passenger catamaran sailing across the Bay of Cádiz
 galeria:
-- src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
-  alt: "Monument to the 1812 Constitution in Cádiz's Plaza de España"
-- src: "/images/actividades/cadiz/mar/bahia-atardecer.webp"
-  alt: "Sunset over the Bay of Cádiz with moored boats"
-- src: "/images/actividades/cadiz/mar/puente-1812-noche.webp"
-  alt: "The Constitution of 1812 Bridge lit up at night"
-- src: "/images/actividades/cadiz/mar/catedral-campo-sur.webp"
-  alt: "Cádiz Cathedral above the Campo del Sur"
-- src: "/images/actividades/cadiz/mar/puerto-noche.webp"
-  alt: "The Port of Cádiz Bay at night"
-- src: "/images/actividades/cadiz/mar/caleta-barcas.webp"
-  alt: "Fishing boats at La Caleta"
-- src: "/images/actividades/cadiz/mar/caleta-playa.webp"
-  alt: "La Caleta beach"
-- src: "/images/actividades/cadiz/mar/san-sebastian-paseo.webp"
-  alt: "San Sebastián Castle from the promenade"
+- src: /images/actividades/cadiz/catamaran/velero-catedral-cadiz.webp
+  alt: Sailing boat gliding past Cádiz Cathedral
+- src: /images/actividades/cadiz/mar/castillo-santa-catalina.webp
+  alt: Santa Catalina Castle by the sea
+- src: /images/actividades/cadiz/catamaran/catamaran-saliendo-puerto-cadiz.webp
+  alt: Catamaran leaving the port of Cádiz into the bay
+- src: /images/actividades/cadiz/ciudades/cadiz-hero.webp
+  alt: Monument to the 1812 Constitution in Cádiz's Plaza de España
+- src: /images/actividades/cadiz/mar/bahia-atardecer.webp
+  alt: Sunset over the Bay of Cádiz with moored boats
+- src: /images/actividades/cadiz/mar/puente-1812-noche.webp
+  alt: The Constitution of 1812 Bridge lit up at night
+- src: /images/actividades/cadiz/mar/catedral-campo-sur.webp
+  alt: Cádiz Cathedral above the Campo del Sur
+- src: /images/actividades/cadiz/mar/puerto-noche.webp
+  alt: The Port of Cádiz Bay at night
+- src: /images/actividades/cadiz/mar/caleta-barcas.webp
+  alt: Fishing boats at La Caleta
+- src: /images/actividades/cadiz/mar/caleta-playa.webp
+  alt: La Caleta beach
+- src: /images/actividades/cadiz/mar/san-sebastian-paseo.webp
+  alt: San Sebastián Castle from the promenade
 ratingProveedor: 4.5
 numeroOpiniones: 453
 atraccionesRelacionadas:
@@ -99,7 +105,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

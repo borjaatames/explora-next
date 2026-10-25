@@ -2,8 +2,7 @@
 titulo: Visita guiada sin esperas a la Alhambra y los Nazaríes
 slug: alhambra-sin-esperas-palacios-nazaries
 ciudad: granada
-descripcion: 'Visita guiada a la Alhambra y los Palacios Nazaríes con entrada rápida, en cinco idiomas y con formatos a elegir:
-  grupo, grupo reducido o privado.'
+descripcion: 'Visita guiada a la Alhambra y los Palacios Nazaríes con entrada rápida, en cinco idiomas y con formatos a elegir: grupo, grupo reducido o privado.'
 slugs:
   es: alhambra-sin-esperas-palacios-nazaries
   en: alhambra-skip-the-wait-nasrid-palaces
@@ -37,9 +36,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Dentro del complejo de la Alhambra (el punto exacto se confirma según la modalidad)
-  descripcionGuia: Hay hasta 7 modalidades distintas (idioma, tamaño de grupo y un taller temático), y el punto de encuentro
-    varía según la que reserves. En todos los casos está dentro del recinto de la Alhambra; el operador envía los detalles
-    exactos antes del tour. Llega 15 minutos antes.
+  descripcionGuia: Hay hasta 7 modalidades distintas (idioma, tamaño de grupo y un taller temático), y el punto de encuentro varía según la que reserves. En todos los casos está dentro del recinto de la Alhambra; el operador envía los detalles exactos antes del tour. Llega 15 minutos antes.
   latitud: 37.1772
   longitud: -3.5851
   zoom: 15
@@ -59,46 +56,31 @@ informacionImportante:
   - 'Las entradas de la Alhambra son limitadas: en temporada alta pueden tardar más en confirmarse'
   - La hora del tour puede cambiar por motivos operativos; el operador avisa con antelación
   - Se requieren los datos del pasaporte al reservar y hay que llevar el original el día de la visita
-accesibilidad: El operador no detalla el acceso para sillas de ruedas en esta visita. El recorrido es a pie por el recinto
-  de la Alhambra, de terreno irregular. Confírmalo con el operador antes de reservar si necesitas accesibilidad.
-politicaCancelacion: 'Cancelación hasta 24 horas antes con reembolso del 50 %. No es cancelación gratuita: la Alhambra no
-  devuelve las entradas al operador, así que el reembolso es parcial. Es lo habitual en las visitas a la Alhambra.'
+accesibilidad: El operador no detalla el acceso para sillas de ruedas en esta visita. El recorrido es a pie por el recinto de la Alhambra, de terreno irregular. Confírmalo con el operador antes de reservar si necesitas accesibilidad.
+politicaCancelacion: 'Cancelación hasta 24 horas antes con reembolso del 50 %. No es cancelación gratuita: la Alhambra no devuelve las entradas al operador, así que el reembolso es parcial. Es lo habitual en las visitas a la Alhambra.'
 preguntasFrecuentes:
 - pregunta: ¿Qué modalidades hay para elegir?
-  respuesta: 'Hasta siete: tour guiado en español o en inglés, grupo reducido en español, inglés o italiano (máximo 12 personas),
-    tour privado, e incluso un taller temático sobre la Alhambra y las fragancias de Al-Ándalus. Eliges la que quieras al
-    reservar; el precio y la duración cambian según la modalidad.'
+  respuesta: 'Hasta siete: tour guiado en español o en inglés, grupo reducido en español, inglés o italiano (máximo 12 personas), tour privado, e incluso un taller temático sobre la Alhambra y las fragancias de Al-Ándalus. Eliges la que quieras al reservar; el precio y la duración cambian según la modalidad.'
 - pregunta: ¿Por qué la duración va de 3 a 4,5 horas?
-  respuesta: Porque depende de la modalidad. Las opciones más completas o el taller temático alargan el recorrido; un tour
-    guiado estándar se queda en torno a las 3 horas. Revisa la duración concreta de la opción que te interese antes de reservar.
+  respuesta: Porque depende de la modalidad. Las opciones más completas o el taller temático alargan el recorrido; un tour guiado estándar se queda en torno a las 3 horas. Revisa la duración concreta de la opción que te interese antes de reservar.
 - pregunta: ¿Incluye recogida en el hotel?
-  respuesta: No en el precio base, pero la recogida está disponible como opción en algunas modalidades. Si te interesa, consulta
-    la disponibilidad al reservar; el punto de encuentro por defecto siempre está dentro del recinto de la Alhambra.
+  respuesta: No en el precio base, pero la recogida está disponible como opción en algunas modalidades. Si te interesa, consulta la disponibilidad al reservar; el punto de encuentro por defecto siempre está dentro del recinto de la Alhambra.
 - pregunta: ¿En cuántos idiomas está disponible?
-  respuesta: 'En cinco: español, inglés, alemán, francés e italiano. Es de las visitas con la oferta de idiomas más amplia
-    del comparador, útil si viajas en un grupo de idiomas mixtos o necesitas alemán o italiano.'
+  respuesta: 'En cinco: español, inglés, alemán, francés e italiano. Es de las visitas con la oferta de idiomas más amplia del comparador, útil si viajas en un grupo de idiomas mixtos o necesitas alemán o italiano.'
 - pregunta: ¿Es habitual que se cancele el tour?
-  respuesta: Muy poco. El operador indica que, en casos raros (menos del 0,3 %), el tour puede cancelarse por falta de disponibilidad
-    de entradas. La hora sí puede cambiar por motivos operativos, pero te avisan con antelación.
+  respuesta: Muy poco. El operador indica que, en casos raros (menos del 0,3 %), el tour puede cancelarse por falta de disponibilidad de entradas. La hora sí puede cambiar por motivos operativos, pero te avisan con antelación.
 variantes:
 - visita-guiada-alhambra-generalife
 - alhambra-tour-privado
 - alhambra-grupo-reducido
-avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
-opinionEditorial: 'Lo que distingue a esta visita es la flexibilidad. No es un único producto, son hasta siete modalidades
-  distintas bajo el mismo paraguas: tour estándar, grupo reducido, privado, en cinco idiomas e incluso un taller sobre las
-  fragancias de Al-Ándalus. Si tienes una necesidad concreta —un idioma poco común, un formato específico, una experiencia
-  algo distinta—, aquí es probable que la encuentres.
+avisoReserva: Las entradas de la Alhambra se agotan con semanas de antelación
+opinionEditorial: 'Lo que distingue a esta visita es la flexibilidad. No es un único producto, son hasta siete modalidades distintas bajo el mismo paraguas: tour estándar, grupo reducido, privado, en cinco idiomas e incluso un taller sobre las fragancias de Al-Ándalus. Si tienes una necesidad concreta —un idioma poco común, un formato específico, una experiencia algo distinta—, aquí es probable que la encuentres.
 
 
-  Esa flexibilidad tiene su contrapartida en el precio: a 96 € es de las opciones más caras del comparador, y su histórico
-  de reseñas (432) es más corto que el de los operadores con miles de valoraciones. Eso no es malo —su nota es de 4,8 y un
-  91 % de viajeros hispanohablantes le dan la máxima—, pero sí significa que tiene menos rodaje que las visitas más reservadas.
+  Esa flexibilidad tiene su contrapartida en el precio: a 96 € es de las opciones más caras del comparador, y su histórico de reseñas (432) es más corto que el de los operadores con miles de valoraciones. Eso no es malo —su nota es de 4,8 y un 91 % de viajeros hispanohablantes le dan la máxima—, pero sí significa que tiene menos rodaje que las visitas más reservadas.
 
 
-  Mi lectura: es la opción a considerar si vienes con un requisito que las visitas más estándar no cubren —el idioma, el formato,
-  el taller temático— o si quieres recogida como añadido. Si lo que buscas es una visita guiada convencional al mejor precio,
-  hay opciones más económicas y con más reseñas en este mismo comparador.
+  Mi lectura: es la opción a considerar si vienes con un requisito que las visitas más estándar no cubren —el idioma, el formato, el taller temático— o si quieres recogida como añadido. Si lo que buscas es una visita guiada convencional al mejor precio, hay opciones más económicas y con más reseñas en este mismo comparador.
 
   '
 atraccionesRelacionadas:
@@ -110,8 +92,8 @@ keywords:
 - alhambra grupo reducido o privado
 - tour alhambra granada
 - alhambra palacios nazaries
-imagen: "/images/actividades/granada/alhambra-granada/wikimedia-22203159-hero.webp"
-imagenAlt: Vistas panorámicas de Granada con la Alhambra al fondo
+imagen: /images/actividades/granada/alhambra-granada/wikimedia-22203159-hero.webp
+imagenAlt: Fuente del Patio de los Leones de la Alhambra
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
   alt: Vista aérea de la Alhambra de Granada con sus torres sobre la ciudad
@@ -124,7 +106,7 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
   alt: Patio de los Leones en los Palacios Nazaries de la Alhambra, con su fuente central y galeria de columnas
 - src: /images/actividades/granada/alhambra/unsplash-7fElVDKXLoQ-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada
+  alt: Patio de los Arrayanes visto a través de un arco
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
   alt: Detalle de los azulejos y yeserias de los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
@@ -132,11 +114,11 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-spain-arabic-pattern-stone-carving-hero.webp
   alt: Detalle de la decoración de estuco geométrico de los Palacios Nazaríes
 - src: /images/actividades/granada/alhambra/alhambra-granada-stunning-view-palace-palm-trees-hero-hero.webp
-  alt: Palacio de la Alhambra en Granada con palmeras y vistas panorámicas
+  alt: Pórtico del Partal y su estanque en la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
   alt: Patio del Generalife de la Alhambra con fuente central y arcadas, Granada
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp
-  alt: Patio de la Alhambra en Granada con arcos islámicos, fuente central y detalles arquitectónicos dorados
+  alt: Arcos con yeserías nazaríes en la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero-hero.webp
   alt: Pabellón de la Corte de los Leones en la Alhambra de Granada, España
 - src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
@@ -149,8 +131,9 @@ publicada: true
 destacada: false
 fecha: '2026-05-14'
 guiasRelacionadas:
-  - "alhambra-como-visitar"
-  - "alhambra-que-tour-elegir"
+- alhambra-como-visitar
+- alhambra-que-tour-elegir
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

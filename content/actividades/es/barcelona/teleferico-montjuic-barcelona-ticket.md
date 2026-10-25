@@ -2,7 +2,7 @@
 titulo: 'Barcelona: ticket de ida y vuelta en el teleférico de Montjuïc'
 slug: teleferico-montjuic-barcelona-ticket
 ciudad: barcelona
-descripcion: 'Ticket de ida y vuelta en el teleférico de Montjuïc renovado. Vistas panorámicas de Barcelona, el puerto y el mar Mediterráneo desde las cabinas acristaladas. 4,5/5 con 25.007 reseñas.'
+descripcion: Ticket de ida y vuelta en el teleférico de Montjuïc renovado. Vistas panorámicas de Barcelona, el puerto y el mar Mediterráneo desde las cabinas acristaladas. 4,5/5 con 25.007 reseñas.
 slugs:
   es: teleferico-montjuic-barcelona-ticket
   en: montjuic-cable-car-barcelona-ticket
@@ -72,35 +72,35 @@ keywords:
 - cable car montjuic barcelona
 - montjuic barcelona vistas
 - teleferico barcelona precio
-imagen: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-01.webp"
-imagenAlt: "Cabinas del Telefèric de Montjuïc entre flores"
+imagen: /images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-01.webp
+imagenAlt: Cabinas del Telefèric de Montjuïc entre flores
 galeria:
-  - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
-    alt: "Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo"
-  - src: "/images/actividades/barcelona/teleferico-montjuic/dos-cabinas-ciudad.webp"
-    alt: "Dos cabinas del teleférico sobre la ciudad de Barcelona"
-  - src: "/images/actividades/barcelona/teleferico-montjuic/cabina-vistas-arboles.webp"
-    alt: "Cabina del teleférico de Montjuïc entre árboles"
-  - src: "/images/actividades/barcelona/montjuic/pexels-7796698-hero.webp"
-    alt: "Panorámica de Barcelona desde Montjuïc, con las fuentes y la plaza de España"
-  - src: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-05.webp"
-    alt: "Cabinas del teleférico de Montjuïc sobre el parque"
-  - src: "/images/actividades/barcelona/montjuic/pexels-16841065-hero.webp"
-    alt: "Torres venecianas y plaza de España a los pies de Montjuïc"
-  - src: "/images/actividades/barcelona/montjuic/pexels-6437868-hero.webp"
-    alt: "Vistas panorámicas de Barcelona desde Montjuïc"
-  - src: "/images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp"
-    alt: "Vistas de Barcelona desde la montaña de Montjuïc"
-  - src: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-02.webp"
-    alt: "Cabinas del teleférico sobre la ciudad de Barcelona"
-  - src: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-03.webp"
-    alt: "Teleférico de Montjuïc con vistas a Barcelona"
-  - src: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-04.webp"
-    alt: "Cabinas subiendo hacia el castillo de Montjuïc"
-  - src: /images/actividades/barcelona/barceloneta/barceloneta-view-barcelona-beach-iconic-hotel-hero.webp
-    alt: "Playa de la Barceloneta con el hotel Arts al fondo, Barcelona"
-  - src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
-    alt: "Palau Nacional (MNAC) en la ladera de Montjuïc"
+- src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
+  alt: Vista de la playa de la Barceloneta con el puerto deportivo y palmeras al fondo
+- src: /images/actividades/barcelona/teleferico-montjuic/dos-cabinas-ciudad.webp
+  alt: Dos cabinas del teleférico sobre la ciudad de Barcelona
+- src: /images/actividades/barcelona/teleferico-montjuic/cabina-vistas-arboles.webp
+  alt: Cabina del teleférico de Montjuïc entre árboles
+- src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
+  alt: Barcelona vista desde la escalinata del Palau Nacional (MNAC)
+- src: /images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-05.webp
+  alt: Cabinas del teleférico de Montjuïc sobre el parque
+- src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
+  alt: Plaça d'Espanya y las torres venecianas, con el Palau Nacional (MNAC) al fondo
+- src: /images/actividades/barcelona/montjuic/pexels-6437868-hero.webp
+  alt: Plaça d'Espanya con el Palau Nacional (MNAC) en lo alto de Montjuïc
+- src: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
+  alt: Mirador del Palau Nacional en Montjuïc con vistas a Barcelona
+- src: /images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-02.webp
+  alt: Cabinas del teleférico sobre la ciudad de Barcelona
+- src: /images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-03.webp
+  alt: Teleférico de Montjuïc con vistas a Barcelona
+- src: /images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-04.webp
+  alt: Cabinas subiendo hacia el castillo de Montjuïc
+- src: /images/actividades/barcelona/barceloneta/barceloneta-view-barcelona-beach-iconic-hotel-hero.webp
+  alt: Playa de la Barceloneta con el hotel Arts al fondo, Barcelona
+- src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
+  alt: Palau Nacional (MNAC) en la ladera de Montjuïc
 ratingProveedor: 4.5
 numeroOpiniones: 25007
 atraccionesRelacionadas:
@@ -108,7 +108,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: true
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

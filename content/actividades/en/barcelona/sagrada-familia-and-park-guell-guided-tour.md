@@ -2,8 +2,7 @@
 titulo: Sagrada Familia and Park Güell Skip-the-Line Tour
 slug: sagrada-familia-and-park-guell-guided-tour
 ciudad: barcelona
-descripcion: A half-day guided tour of Gaudí's two masterpieces, Park Güell and the Sagrada Familia, with skip-the-line tickets
-  and transport between them.
+descripcion: A half-day guided tour of Gaudí's two masterpieces, Park Güell and the Sagrada Familia, with skip-the-line tickets and transport between them.
 slugs:
   en: sagrada-familia-and-park-guell-guided-tour
   es: sagrada-familia-park-guell-tour-guiado
@@ -34,9 +33,7 @@ noIncluye:
 - Hotel pickup and return service (included only in the private option)
 puntoEncuentro:
   texto: Carrer d'Olot, 24, 08024 Barcelona — one of the Park Güell entrances
-  descripcionGuia: 'The meeting point is at Carrer d''Olot, 24, by one of the Park Güell entrances, at 10:00 a.m. Note: the park has several
-    entrances, so make sure you go to the exact address given. Look for the guide with a burgundy-red umbrella. The visit
-    ends at the Sagrada Familia.'
+  descripcionGuia: 'The meeting point is at Carrer d''Olot, 24, by one of the Park Güell entrances, at 10:00 a.m. Note: the park has several entrances, so make sure you go to the exact address given. Look for the guide with a burgundy-red umbrella. The visit ends at the Sagrada Familia.'
   latitud: 41.4135
   longitud: 2.1521
   zoom: 16
@@ -56,39 +53,27 @@ informacionImportante:
   - 'The park has several entrances: confirm the exact meeting-point address so you don''t go to the wrong one'
   - 'Confirm your departure''s language at booking: the activity is offered in Spanish and English, with groups by language'
   - Group of up to 16 people; a private option is available for larger groups
-accesibilidad: The operator states the tour is NOT adapted for wheelchair users. In addition, Park Güell has stairs and uphill
-  stretches.
-politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance. Within the 24 hours before, there
-  is no refund.
+accesibilidad: The operator states the tour is NOT adapted for wheelchair users. In addition, Park Güell has stairs and uphill stretches.
+politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance. Within the 24 hours before, there is no refund.
 preguntasFrecuentes:
 - pregunta: What does it include besides the Sagrada Familia?
-  respuesta: Park Güell, Gaudí's other great work. The visit starts at the park (about 2 hours with a guide), continues with
-    included transport to the basilica, and ends with the guided visit of the Sagrada Familia interior. About 4 hours in total.
+  respuesta: Park Güell, Gaudí's other great work. The visit starts at the park (about 2 hours with a guide), continues with included transport to the basilica, and ends with the guided visit of the Sagrada Familia interior. About 4 hours in total.
 - pregunta: Does the guide go into both monuments with me?
-  respuesta: Yes. Unlike the full-day tours, here the guide goes inside both Park Güell and the Sagrada Familia, explaining
-    at both. They say goodbye when the basilica visit ends.
+  respuesta: Yes. Unlike the full-day tours, here the guide goes inside both Park Güell and the Sagrada Familia, explaining at both. They say goodbye when the basilica visit ends.
 - pregunta: What language is the visit in?
-  respuesta: The activity is offered in Spanish and English, with groups split by language. Confirm your departure's language
-    at booking to make sure it's the one you want.
+  respuesta: The activity is offered in Spanish and English, with groups split by language. Confirm your departure's language at booking to make sure it's the one you want.
 - pregunta: Is it wheelchair accessible?
-  respuesta: No. The operator states it is not adapted, and Park Güell has stairs and uphill stretches in the first part of
-    the route.
+  respuesta: No. The operator states it is not adapted, and Park Güell has stairs and uphill stretches in the first part of the route.
 - pregunta: Does it include going up the Sagrada Familia towers?
   respuesta: No. Going up the towers is not part of this visit.
 variantes:
 - barcelona-in-one-day-sagrada-familia-park-guell
 - sagrada-familia-skip-the-line-guided-tour
-avisoReserva: 'In high season, the Sagrada Familia sells out weeks in advance'
-opinionEditorial: 'This is the clean combo: Gaudí''s two masterpieces — Park Güell and the Sagrada Familia — in a half-day
-  guided tour, with skip-the-line tickets to both and transport between them. Compared with the full-day tours, this one has
-  a clear advantage: the guide **does go in with you** to both monuments and explains inside, rather than just dropping you
-  at the door. Good score (4.8) and plenty of volume (over 6,700 reviews).
+avisoReserva: In high season, the Sagrada Familia sells out weeks in advance
+opinionEditorial: 'This is the clean combo: Gaudí''s two masterpieces — Park Güell and the Sagrada Familia — in a half-day guided tour, with skip-the-line tickets to both and transport between them. Compared with the full-day tours, this one has a clear advantage: the guide **does go in with you** to both monuments and explains inside, rather than just dropping you at the door. Good score (4.8) and plenty of volume (over 6,700 reviews).
 
 
-  A couple of things so you go in fully informed: Park Güell has stairs and uphill stretches in its first part, so keep that
-  in mind if you have limited mobility, and the tour isn''t adapted for wheelchairs. The activity is offered in Spanish and
-  English with separate groups, so confirm your departure''s language at booking. If you want Gaudí''s two jewels well explained
-  in half a day with nothing to organise, this is the most direct option.
+  A couple of things so you go in fully informed: Park Güell has stairs and uphill stretches in its first part, so keep that in mind if you have limited mobility, and the tour isn''t adapted for wheelchairs. The activity is offered in Spanish and English with separate groups, so confirm your departure''s language at booking. If you want Gaudí''s two jewels well explained in half a day with nothing to organise, this is the most direct option.
 
   '
 atraccionesRelacionadas:
@@ -113,7 +98,7 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-group-people-standing-front-hero-hero.webp
   alt: Group of people standing in front of Park Güell's colorful mosaic structures in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Barcelona cityscape with architecture and urban landmarks
+  alt: Red and orange light from the stained glass inside the Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero-hero.webp
   alt: Tree-lined path at Park Güell in Barcelona with architectural railings
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
@@ -129,21 +114,21 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-mosaic-dragon-hero-hero.webp
   alt: Colorful mosaic dragon sculpture at Park Güell entrance in Barcelona, Spain
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Passion facade of the Sagrada Familia, with its towers and construction cranes, in Barcelona
+  alt: The Passion façade of the Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-stunning-cityscape-barcelona-from-hero-hero.webp
-  alt: Stunning Barcelona cityscape view from Park Güell with modernist architecture
+  alt: Park Güell's trencadís bench and pavilions with Barcelona behind
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landmarks
+  alt: Stained-glass light cast on the columns of the Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp
-  alt: Park Güell's colorful mosaic terrace with Barcelona cityscape in background
+  alt: Park Güell entrance pavilions with Barcelona behind
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
-  alt: Barcelona cityscape with Gothic architecture and bustling streets
+  alt: Blue and green stained glass in the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: "Sagrada Familia basilica in Barcelona with its iconic spires and intricate architectural details"
+  alt: Sagrada Familia basilica in Barcelona with its iconic spires and intricate architectural details
 bokunProductId: 866939
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
-  - "sagrada-familia-which-ticket-to-choose"
+- sagrada-familia-which-ticket-to-choose
 ---
 
 > **Note:** this experience is conducted in English.

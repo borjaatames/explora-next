@@ -77,27 +77,33 @@ keywords:
 - paguera boat trip
 - boat trip with kids mallorca
 - mallorca dolphins
-imagen: "/images/actividades/mallorca/barco-paguera/peguera-islote.webp"
-imagenAlt: "Rocky islet with pines off the Paguera coast"
+imagen: /images/actividades/mallorca/barco-paguera/vista-fondo-cristal-barco.webp
+imagenAlt: Passengers looking at the seabed through a glass-bottom boat hull
 galeria:
-  - src: "/images/actividades/mallorca/barco-paguera/peguera-bahia.webp"
-    alt: "Paguera bay seen from above"
-  - src: "/images/actividades/mallorca/barco-paguera/delfines-1.webp"
-    alt: "Pod of dolphins leaping in open sea"
-  - src: "/images/actividades/mallorca/barco-paguera/delfines-2.webp"
-    alt: "Dolphins swimming near the surface"
-  - src: "/images/actividades/mallorca/barco-paguera/delfines-3.webp"
-    alt: "Dolphin seen from the side of a boat"
-  - src: "/images/actividades/mallorca/barco-paguera/peguera-playa.webp"
-    alt: "Paguera beach in summer"
-  - src: "/images/actividades/mallorca/barco-paguera/peguera-pueblo.webp"
-    alt: "Paguera with its hotels and hills behind"
+- src: /images/actividades/mallorca/barco-paguera/barco-fondo-cristal-amarrado.webp
+  alt: Glass-bottom boat moored in port
+- src: /images/actividades/mallorca/barco-paguera/peguera-islote.webp
+  alt: Rocky islet with pines off the Paguera coast
+- src: /images/actividades/mallorca/barco-paguera/posidonia-fondo-marino-baleares.webp
+  alt: Posidonia seagrass meadow on the Balearic seabed
+- src: /images/actividades/mallorca/barco-paguera/peguera-bahia.webp
+  alt: Paguera bay seen from above
+- src: /images/actividades/mallorca/barco-paguera/delfines-1.webp
+  alt: Pod of dolphins leaping in open sea
+- src: /images/actividades/mallorca/barco-paguera/delfines-2.webp
+  alt: Dolphins swimming near the surface
+- src: /images/actividades/mallorca/barco-paguera/delfines-3.webp
+  alt: Dolphin seen from the side of a boat
+- src: /images/actividades/mallorca/barco-paguera/peguera-playa.webp
+  alt: Paguera beach in summer
+- src: /images/actividades/mallorca/barco-paguera/peguera-pueblo.webp
+  alt: Paguera with its hotels and hills behind
 ratingProveedor: 4.6
 numeroOpiniones: 3852
 publicada: true
 destacada: false
 fecha: '2026-10-04'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

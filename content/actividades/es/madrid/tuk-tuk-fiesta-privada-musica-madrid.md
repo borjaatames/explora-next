@@ -75,7 +75,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/4fcdac20-7cd3-4cc4-ab02-99455b1765ea.jpg
   alt: Tuk-tuk recorriendo el Madrid histórico
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp
-  alt: La Gran Vía de noche junto a Callao
+  alt: Plaza de Callao y el edificio Carrión de noche
 - src: /images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp
   alt: Fuente de Cibeles iluminada de noche
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
@@ -85,7 +85,7 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a vivir

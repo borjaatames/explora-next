@@ -1,172 +1,165 @@
 ---
-titulo: "Sevilla: Entrada Catedral y Giralda con Audioguía Móvil en 5 Idiomas"
-slug: "catedral-sevilla-giralda-entrada-audioguia-movil"
-ciudad: "sevilla"
-descripcion: "Entrada Catedral de Sevilla + Giralda con audioguía descargable en app móvil. Audio en 5 idiomas (ES, EN, IT, FR, DE). Recogida en oficina del operador (Calle Arfe 3) 1h antes. «Likely to sell out» — reserva con antelación. Trae tus propios auriculares."
-
+titulo: 'Sevilla: Entrada Catedral y Giralda con Audioguía Móvil en 5 Idiomas'
+slug: catedral-sevilla-giralda-entrada-audioguia-movil
+ciudad: sevilla
+descripcion: Entrada Catedral de Sevilla + Giralda con audioguía descargable en app móvil. Audio en 5 idiomas (ES, EN, IT, FR, DE). Recogida en oficina del operador (Calle Arfe 3) 1h antes. «Likely to sell out» — reserva con antelación. Trae tus propios auriculares.
 slugs:
-  es: "catedral-sevilla-giralda-entrada-audioguia-movil"
-  en: "seville-cathedral-giralda-entry-audio-guide"
-
-duracion: "1 día (visita ~75 min)"
+  es: catedral-sevilla-giralda-entrada-audioguia-movil
+  en: seville-cathedral-giralda-entry-audio-guide
+duracion: 1 día (visita ~75 min)
 duracionMinutos: 75
 precioDesde: 39
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.es/seville-l48/cathedral-and-giralda-entry-ticket-with-audio-guide-t1014366/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.es/seville-l48/cathedral-and-giralda-entry-ticket-with-audio-guide-t1014366/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Entrada combinada Catedral + Giralda con AUDIOGUÍA descargable en app móvil"
-  - "Audio en 5 idiomas: español, inglés, italiano, francés, alemán"
-  - "Recogida del voucher en oficina del operador (Calle Arfe 3, casco antiguo) 1h antes"
-  - "«Likely to sell out» — alta demanda, reserva con antelación"
-  - "Acceso a las 44 capillas, retablo de Dancart, tumba de Cristóbal Colón"
-  - "Subida a la Giralda con audioguía explicando el origen islámico"
-  - "Cancelación GRATUITA hasta 24 h antes (vs. ticket no reembolsable del producto base)"
-  - "Trae tus propios auriculares — el operador NO los proporciona"
-
+- Entrada combinada Catedral + Giralda con AUDIOGUÍA descargable en app móvil
+- 'Audio en 5 idiomas: español, inglés, italiano, francés, alemán'
+- Recogida del voucher en oficina del operador (Calle Arfe 3, casco antiguo) 1h antes
+- «Likely to sell out» — alta demanda, reserva con antelación
+- Acceso a las 44 capillas, retablo de Dancart, tumba de Cristóbal Colón
+- Subida a la Giralda con audioguía explicando el origen islámico
+- Cancelación GRATUITA hasta 24 h antes (vs. ticket no reembolsable del producto base)
+- Trae tus propios auriculares — el operador NO los proporciona
 incluye:
-  - "Entrada Catedral de Sevilla"
-  - "Entrada Giralda (torre-campanario)"
-  - "Audioguía descargable vía app (español, inglés, italiano, francés, alemán)"
-  - "Recogida del voucher con acceso priorizado en la oficina del operador"
-  - "Acceso al Patio de los Naranjos"
-
+- Entrada Catedral de Sevilla
+- Entrada Giralda (torre-campanario)
+- Audioguía descargable vía app (español, inglés, italiano, francés, alemán)
+- Recogida del voucher con acceso priorizado en la oficina del operador
+- Acceso al Patio de los Naranjos
 noIncluye:
-  - "Auriculares (trae los tuyos — son obligatorios para el audio)"
-  - "Wifi (descarga la audioguía antes de salir del hotel)"
-  - "Guía en directo (este es producto autoguiado)"
-  - "Comida y bebida"
-  - "Recogida en hotel"
-
+- Auriculares (trae los tuyos — son obligatorios para el audio)
+- Wifi (descarga la audioguía antes de salir del hotel)
+- Guía en directo (este es producto autoguiado)
+- Comida y bebida
+- Recogida en hotel
 puntoEncuentro:
-  texto: "Recoge tu voucher en la oficina del operador: **Calle Arfe 3, Casco Antiguo, 41004 Sevilla**. Llega al menos 1 HORA antes de la hora reservada de acceso al monumento. Allí te entregan el ticket físico/digital, te ayudan a descargar la audioguía y resuelven dudas. Desde la oficina hasta la Catedral son 4-5 min andando."
-  descripcionGuia: "**IMPORTANTE: NO vayas directamente a la Catedral.** Primero pasa por la oficina del operador en Calle Arfe 3 para recoger el voucher. La Calle Arfe está en pleno casco antiguo, a 4 min andando de la Catedral. Metro: Puerta de Jerez (línea 1, 6 min andando hasta Arfe). Tras recoger, andas hasta la Puerta del Lagarto de la Catedral (acceso online) y muestras el ticket. La hora indicada en tu reserva es la de ACCESO al monumento — recoge el voucher 1h antes para llegar puntual. Descarga la audioguía con wifi del hotel (NO confíes en wifi público; la app no funciona offline si no la descargas previamente)."
+  texto: 'Recoge tu voucher en la oficina del operador: **Calle Arfe 3, Casco Antiguo, 41004 Sevilla**. Llega al menos 1 HORA antes de la hora reservada de acceso al monumento. Allí te entregan el ticket físico/digital, te ayudan a descargar la audioguía y resuelven dudas. Desde la oficina hasta la Catedral son 4-5 min andando.'
+  descripcionGuia: '**IMPORTANTE: NO vayas directamente a la Catedral.** Primero pasa por la oficina del operador en Calle Arfe 3 para recoger el voucher. La Calle Arfe está en pleno casco antiguo, a 4 min andando de la Catedral. Metro: Puerta de Jerez (línea 1, 6 min andando hasta Arfe). Tras recoger, andas hasta la Puerta del Lagarto de la Catedral (acceso online) y muestras el ticket. La hora indicada en tu reserva es la de ACCESO al monumento — recoge el voucher 1h antes para llegar puntual. Descarga la audioguía con wifi del hotel (NO confíes en wifi público; la app no funciona offline si no la descargas previamente).'
   latitud: 37.3878
   longitud: -5.9942
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "**AURICULARES PROPIOS** (obligatorios — el operador no los facilita)"
-    - "Smartphone cargado con espacio libre (la audioguía ocupa ~100-200 MB por idioma)"
-    - "Pasaporte o DNI (los nombres y datos se piden al reservar)"
-    - "Cargador o powerbank (la app consume batería; el audio dura ~75 min)"
-    - "Calzado cómodo (35 rampas para subir la Giralda)"
-    - "Vestimenta respetuosa (hombros y rodillas cubiertos)"
-    - "Agua (en verano no hay fuentes dentro)"
+  - '**AURICULARES PROPIOS** (obligatorios — el operador no los facilita)'
+  - Smartphone cargado con espacio libre (la audioguía ocupa ~100-200 MB por idioma)
+  - Pasaporte o DNI (los nombres y datos se piden al reservar)
+  - Cargador o powerbank (la app consume batería; el audio dura ~75 min)
+  - Calzado cómodo (35 rampas para subir la Giralda)
+  - Vestimenta respetuosa (hombros y rodillas cubiertos)
+  - Agua (en verano no hay fuentes dentro)
   noAptoPara:
-    - "Visitantes sin smartphone o sin auriculares (el audio es obligatorio para aprovechar el producto)"
-    - "Quien prefiera tour guiado con guía físico (ver `catedral-sevilla-giralda-tour-guiado-prioritario` u opciones combo)"
-    - "Personas en silla de ruedas que quieran subir a la Giralda (la torre NO es accesible; la catedral SÍ)"
+  - Visitantes sin smartphone o sin auriculares (el audio es obligatorio para aprovechar el producto)
+  - Quien prefiera tour guiado con guía físico (ver `catedral-sevilla-giralda-tour-guiado-prioritario` u opciones combo)
+  - Personas en silla de ruedas que quieran subir a la Giralda (la torre NO es accesible; la catedral SÍ)
   aTenerEnCuenta:
-    - "**Descarga la audioguía ANTES de salir del hotel** — usa wifi propio, no público (la app no funciona offline si no se descarga previamente)"
-    - "**Recoge el voucher 1h antes** en Calle Arfe 3 — no vayas directamente a la Catedral"
-    - "Necesitas indicar **nombres completos y datos de pasaporte/DNI de TODOS los pasajeros** al reservar (no solo el del titular)"
-    - "Auriculares: el operador NO los proporciona. Cualquier auricular con jack 3.5mm o Bluetooth funciona"
-    - "Cancelación gratuita 24h antes (vs. ticket no reembolsable t131913)"
-    - "Likely to sell out — reserva con antelación en julio-agosto y fines de semana"
-    - "El acceso al monumento será con un guía (acompañamiento inicial); después disfrutas a tu ritmo"
-
-accesibilidad: "Catedral de Sevilla: ACCESIBLE en silla de ruedas (entrada por Puerta de los Palos, rampa adaptada). La GIRALDA NO es accesible (35 rampas sin ascensor). La oficina del operador en Calle Arfe 3 es de planta baja con acceso a nivel. Si vas en silla, puedes recoger el voucher sin problemas y visitar la catedral, pero no la torre."
-
-politicaCancelacion: "Cancelación GRATUITA hasta 24 h antes del inicio — reembolso completo. Dentro de las 24 h: sin reembolsos. Si no recoges el voucher al menos 1h antes de tu hora de acceso, puedes perder el acceso al monumento sin reembolso. Cambios de fecha sujetos a disponibilidad."
-
+  - '**Descarga la audioguía ANTES de salir del hotel** — usa wifi propio, no público (la app no funciona offline si no se descarga previamente)'
+  - '**Recoge el voucher 1h antes** en Calle Arfe 3 — no vayas directamente a la Catedral'
+  - Necesitas indicar **nombres completos y datos de pasaporte/DNI de TODOS los pasajeros** al reservar (no solo el del titular)
+  - 'Auriculares: el operador NO los proporciona. Cualquier auricular con jack 3.5mm o Bluetooth funciona'
+  - Cancelación gratuita 24h antes (vs. ticket no reembolsable t131913)
+  - Likely to sell out — reserva con antelación en julio-agosto y fines de semana
+  - El acceso al monumento será con un guía (acompañamiento inicial); después disfrutas a tu ritmo
+accesibilidad: 'Catedral de Sevilla: ACCESIBLE en silla de ruedas (entrada por Puerta de los Palos, rampa adaptada). La GIRALDA NO es accesible (35 rampas sin ascensor). La oficina del operador en Calle Arfe 3 es de planta baja con acceso a nivel. Si vas en silla, puedes recoger el voucher sin problemas y visitar la catedral, pero no la torre.'
+politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reembolso completo. Dentro de las 24 h: sin reembolsos. Si no recoges el voucher al menos 1h antes de tu hora de acceso, puedes perder el acceso al monumento sin reembolso. Cambios de fecha sujetos a disponibilidad.'
 preguntasFrecuentes:
-  - pregunta: "¿Por qué tengo que recoger el voucher 1h antes en la Calle Arfe?"
-    respuesta: "El operador tiene una oficina física en Calle Arfe 3 (a 4 min andando de la Catedral) donde te entregan el ticket de acceso, te ayudan a descargar la audioguía si tienes dudas técnicas y te explican cualquier información de última hora (horarios del día, cierres parciales). Es un proceso eficiente: llegas a la oficina, recoges en 5 min, andas hasta la Catedral y entras a tu hora reservada. Si no recoges el voucher al menos 1h antes, puedes perder el slot de acceso al monumento. La razón: el operador necesita activar tu acceso al sistema de la Catedral antes de tu hora reservada — no es un ticket de venta directa, requiere validación intermedia."
-  - pregunta: "¿Qué incluye la audioguía exactamente?"
-    respuesta: "Audio descargable vía app del operador (no la app oficial de la Catedral). Contenido: ~75 min de audio en español, inglés, italiano, francés o alemán. Cubre: historia almohade de la mezquita original, transformación en catedral gótica (s. XIII-XV), Dancart y el retablo mayor, tumba de Cristóbal Colón, capillas principales (Goya, Murillo, Zurbarán), origen de la Giralda como alminar, vistas desde la torre. La app funciona offline una vez descargada (descárgala con wifi del hotel). Necesitas auriculares propios — el operador no los proporciona."
-  - pregunta: "¿Cuál es la diferencia con el ticket base sin audio (t131913) y el tour guiado (t77605)?"
-    respuesta: "**Este producto (t1014366, ES+EN+IT+FR+DE):** Entrada + audioguía app + cancelación 24h. ~€22. Para visitantes hispanohablantes con autonomía. **Ticket base (t131913 entry only):** Entrada sin audioguía o con audio en 5 idiomas opcional. ~€15-22. NO REEMBOLSABLE (¡ojo!). **Tour guiado priority access (t77605):** Guía en directo EN/FR/DE + priority access + audio system. €40. NO SE OFRECE EN ESPAÑOL. **Recomendación si hablas español:** este producto (t1014366) es la mejor relación calidad-precio para hispanohablantes — flexibilidad de cancelación + audio en tu idioma + precio asequible."
-  - pregunta: "¿Puedo descargar la audioguía allí mismo en la oficina?"
-    respuesta: "Sí, pero NO ES RECOMENDABLE. La oficina tiene wifi pero suele estar saturado en horas pico. Descarga la audioguía ANTES de salir del hotel (~100-200 MB por idioma; tarda 2-5 min con wifi normal). Si llegas a la oficina sin haberla descargado y el wifi falla, perderás tiempo y entrarás al monumento sin audio funcionando — ese es el principal motivo de reseñas negativas de este producto. Llega preparado."
-  - pregunta: "¿Para quién es mejor este producto?"
-    respuesta: "**ESTE ES EL PRODUCTO IDEAL PARA VISITANTES HISPANOHABLANTES** que quieran: (1) audio en español (los tours guiados no lo ofrecen en este operador), (2) ritmo libre sin grupo, (3) flexibilidad de cancelación, (4) precio asequible. Para hablantes de inglés, el tour guiado t77605 con guía en directo puede ser preferible (más contexto, pero el doble de precio). Para hablantes de italiano, francés o alemán, depende: si valoras un guía físico en tu idioma → t77605. Si prefieres ritmo libre con audio → este producto."
-
+- pregunta: ¿Por qué tengo que recoger el voucher 1h antes en la Calle Arfe?
+  respuesta: 'El operador tiene una oficina física en Calle Arfe 3 (a 4 min andando de la Catedral) donde te entregan el ticket de acceso, te ayudan a descargar la audioguía si tienes dudas técnicas y te explican cualquier información de última hora (horarios del día, cierres parciales). Es un proceso eficiente: llegas a la oficina, recoges en 5 min, andas hasta la Catedral y entras a tu hora reservada. Si no recoges el voucher al menos 1h antes, puedes perder el slot de acceso al monumento. La razón: el operador necesita activar tu acceso al sistema de la Catedral antes de tu hora reservada — no es un ticket de venta directa, requiere validación intermedia.'
+- pregunta: ¿Qué incluye la audioguía exactamente?
+  respuesta: 'Audio descargable vía app del operador (no la app oficial de la Catedral). Contenido: ~75 min de audio en español, inglés, italiano, francés o alemán. Cubre: historia almohade de la mezquita original, transformación en catedral gótica (s. XIII-XV), Dancart y el retablo mayor, tumba de Cristóbal Colón, capillas principales (Goya, Murillo, Zurbarán), origen de la Giralda como alminar, vistas desde la torre. La app funciona offline una vez descargada (descárgala con wifi del hotel). Necesitas auriculares propios — el operador no los proporciona.'
+- pregunta: ¿Cuál es la diferencia con el ticket base sin audio (t131913) y el tour guiado (t77605)?
+  respuesta: '**Este producto (t1014366, ES+EN+IT+FR+DE):** Entrada + audioguía app + cancelación 24h. ~€22. Para visitantes hispanohablantes con autonomía. **Ticket base (t131913 entry only):** Entrada sin audioguía o con audio en 5 idiomas opcional. ~€15-22. NO REEMBOLSABLE (¡ojo!). **Tour guiado priority access (t77605):** Guía en directo EN/FR/DE + priority access + audio system. €40. NO SE OFRECE EN ESPAÑOL. **Recomendación si hablas español:** este producto (t1014366) es la mejor relación calidad-precio para hispanohablantes — flexibilidad de cancelación + audio en tu idioma + precio asequible.'
+- pregunta: ¿Puedo descargar la audioguía allí mismo en la oficina?
+  respuesta: Sí, pero NO ES RECOMENDABLE. La oficina tiene wifi pero suele estar saturado en horas pico. Descarga la audioguía ANTES de salir del hotel (~100-200 MB por idioma; tarda 2-5 min con wifi normal). Si llegas a la oficina sin haberla descargado y el wifi falla, perderás tiempo y entrarás al monumento sin audio funcionando — ese es el principal motivo de reseñas negativas de este producto. Llega preparado.
+- pregunta: ¿Para quién es mejor este producto?
+  respuesta: '**ESTE ES EL PRODUCTO IDEAL PARA VISITANTES HISPANOHABLANTES** que quieran: (1) audio en español (los tours guiados no lo ofrecen en este operador), (2) ritmo libre sin grupo, (3) flexibilidad de cancelación, (4) precio asequible. Para hablantes de inglés, el tour guiado t77605 con guía en directo puede ser preferible (más contexto, pero el doble de precio). Para hablantes de italiano, francés o alemán, depende: si valoras un guía físico en tu idioma → t77605. Si prefieres ritmo libre con audio → este producto.'
 variantes:
-  - nombre: "Audioguía Móvil (Español)"
-    descripcion: "Entrada + audio en español descargable vía app. ~75 min de contenido."
-    precio: 22
-  - nombre: "Audioguía Móvil (Inglés)"
-    descripcion: "Entry + audio in English downloadable via app. ~75 min of content."
-    precio: 22
-  - nombre: "Audioguía Móvil (Italiano, Francés o Alemán)"
-    descripcion: "Audio en italiano, francés o alemán según selección al reservar."
-    precio: 22
+- nombre: Audioguía Móvil (Español)
+  descripcion: Entrada + audio en español descargable vía app. ~75 min de contenido.
+  precio: 22
+- nombre: Audioguía Móvil (Inglés)
+  descripcion: Entry + audio in English downloadable via app. ~75 min of content.
+  precio: 22
+- nombre: Audioguía Móvil (Italiano, Francés o Alemán)
+  descripcion: Audio en italiano, francés o alemán según selección al reservar.
+  precio: 22
+opinionEditorial: 'El **producto ideal para visitantes hispanohablantes** que quieran visitar la Catedral de Sevilla y la Giralda con audio en su idioma + flexibilidad de cancelación. La audioguía descargable cubre 5 idiomas (ES, EN, IT, FR, DE) y es la única opción de este operador con español incluido — los tours guiados con guía físico de este mismo operador son EN/FR/DE solamente (REGLA §3 single-language).
 
-opinionEditorial: |
-  El **producto ideal para visitantes hispanohablantes** que quieran visitar la Catedral de Sevilla y la Giralda con audio en su idioma + flexibilidad de cancelación. La audioguía descargable cubre 5 idiomas (ES, EN, IT, FR, DE) y es la única opción de este operador con español incluido — los tours guiados con guía físico de este mismo operador son EN/FR/DE solamente (REGLA §3 single-language).
 
   **Comparación de precios:** desde €22 está a medio camino entre el ticket base no reembolsable (€15) y el tour guiado con guía físico (€40). La cancelación gratuita 24h compensa el sobreprecio frente al ticket no reembolsable — si tu plan puede cambiar, este producto es la elección segura.
 
+
   **Tres notas operativas críticas a entender:** **(1)** Recoge el voucher 1h antes en Calle Arfe 3 (NO directamente en la Catedral). El operador necesita validar tu acceso al sistema antes de tu hora reservada. **(2)** Descarga la audioguía ANTES de salir del hotel — no confíes en el wifi de la oficina del operador (suele estar saturado). **(3)** Trae auriculares propios — el operador NO los proporciona. Cualquier auricular con jack 3.5mm o Bluetooth sirve.
+
 
   **Para quién es:** visitantes hispanohablantes (motivo principal del producto), viajeros multilingües que prefieran ritmo libre, parejas que quieran flexibilidad de cancelación, visitantes con presupuesto medio que prioricen autonomía sobre guía físico. **Para quién NO:** quien prefiera ticket más barato sin audio y sin cancelación (`catedral-sevilla-giralda-entrada-skip-line` desde €15), quien quiera tour guiado con guía físico en español (NO disponible en este operador — buscar `catedraldesevilla.es` para la visita guiada oficial en español, €20, 90 min), visitantes sin smartphone o sin auriculares propios, usuarios estrictos de silla de ruedas que quieran subir a la Giralda (no accesible).
 
+  '
 atraccionesRelacionadas:
 - catedral-giralda
-categoria: "entradas"
-keywords: ["catedral sevilla audioguia español", "giralda audio movil", "catedral sevilla app movil", "entrada catedral sevilla cancelacion 24h", "audioguia catedral sevilla 5 idiomas"]
-
-imagen: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp"
-imagenAlt: "Fachada gótica de la Catedral de Sevilla y la Giralda"
-
+categoria: entradas
+keywords:
+- catedral sevilla audioguia español
+- giralda audio movil
+- catedral sevilla app movil
+- entrada catedral sevilla cancelacion 24h
+- audioguia catedral sevilla 5 idiomas
+imagen: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp
+imagenAlt: La Giralda iluminada de noche
 galeria:
-- src: "/images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-plaza.webp"
-  alt: "Catedral de Sevilla y la Giralda desde la Plaza Virgen de los Reyes"
-- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-panoramica.webp"
-  alt: "Catedral de Sevilla y torre de la Giralda, vista panorámica"
-- src: "/images/actividades/sevilla/catedral-giralda/giralda-catedral-sevilla-dia.webp"
-  alt: "Catedral y Giralda de Sevilla en un día despejado"
-- src: "/images/actividades/sevilla/catedral-giralda/giralda-torre-catedral-sevilla.webp"
-  alt: "La Giralda, torre campanario de la Catedral de Sevilla"
-- src: "/images/actividades/sevilla/catedral-giralda/giralda-torre-cielo-azul.webp"
-  alt: "Torre de la Giralda de Sevilla bajo cielo azul"
-- src: "/images/actividades/sevilla/catedral-giralda/catedral-sevilla-exterior-dia.webp"
-  alt: "Fachada exterior de la Catedral de Sevilla en día soleado"
-- src: "/images/actividades/sevilla/catedral-giralda/giralda-detalle-arquitectura.webp"
-  alt: "La Giralda de Sevilla con detalle de su arquitectura mudéjar"
+- src: /images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-plaza.webp
+  alt: Catedral de Sevilla y la Giralda desde la Plaza Virgen de los Reyes
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-panoramica.webp
+  alt: Cúpulas de la catedral de Sevilla y la Giralda
+- src: /images/actividades/sevilla/catedral-giralda/giralda-catedral-sevilla-dia.webp
+  alt: Catedral y Giralda de Sevilla en un día despejado
+- src: /images/actividades/sevilla/catedral-giralda/giralda-torre-catedral-sevilla.webp
+  alt: La Giralda, torre campanario de la Catedral de Sevilla
+- src: /images/actividades/sevilla/catedral-giralda/giralda-torre-cielo-azul.webp
+  alt: Torre de la Giralda de Sevilla bajo cielo azul
+- src: /images/actividades/sevilla/catedral-giralda/catedral-sevilla-exterior-dia.webp
+  alt: Fachada exterior de la Catedral de Sevilla en día soleado
+- src: /images/actividades/sevilla/catedral-giralda/giralda-detalle-arquitectura.webp
+  alt: La Giralda de Sevilla con detalle de su arquitectura mudéjar
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-3484729.webp
-  alt: "Detalle de la Giralda y la Catedral de Sevilla"
+  alt: Detalle de la Giralda y la Catedral de Sevilla
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
-  alt: "Bóvedas góticas de la Catedral de Sevilla"
+  alt: Bóvedas góticas de la Catedral de Sevilla
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-08.webp
-  alt: "Bóveda del crucero de la Catedral de Sevilla"
+  alt: Bóveda del crucero de la Catedral de Sevilla
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
-  alt: "Fachada de la Catedral de Sevilla entre palmeras"
+  alt: Fachada de la Catedral de Sevilla entre palmeras
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-34521081.webp
-  alt: "La Giralda vista desde abajo"
+  alt: La Giralda vista desde abajo
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-01.webp
-  alt: "Interior de la iglesia del Sagrario en la Catedral de Sevilla"
+  alt: Interior de la iglesia del Sagrario en la Catedral de Sevilla
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-03.webp
-  alt: "Sepulcro de piedra en una capilla de la Catedral de Sevilla"
+  alt: Sepulcro de piedra en una capilla de la Catedral de Sevilla
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-05.webp
-  alt: "Esculturas funerarias en la Catedral de Sevilla"
+  alt: Esculturas funerarias en la Catedral de Sevilla
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp
-  alt: "Coro de la Catedral de Sevilla"
+  alt: Coro de la Catedral de Sevilla
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp
-  alt: "Catedral de Sevilla con la Giralda al atardecer"
+  alt: Catedral de Sevilla con la Giralda al atardecer
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
-  alt: "Catedral de Sevilla y la Giralda"
-
+  alt: Catedral de Sevilla y la Giralda
 ratingProveedor: 3.9
 numeroOpiniones: 850
-
 publicada: true
 destacada: true
-fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
+fecha: '2026-05-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

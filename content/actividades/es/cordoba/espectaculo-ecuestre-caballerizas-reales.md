@@ -67,11 +67,19 @@ keywords:
 - caballerizas reales cordoba
 - pasion y duende del caballo andaluz
 - caballos cordoba espectaculo
-imagen: "/images/actividades/cordoba/caballerizas/caballo-negro-cuadra.webp"
-imagenAlt: "Caballo negro en una cuadra"
+imagen: /images/actividades/cordoba/ecuestre/espectaculo-jinetes-pista-noche.webp
+imagenAlt: Jinetes con caballos tordos en la pista de las Caballerizas Reales durante el espectáculo nocturno
 galeria:
-- src: "/images/actividades/cordoba/caballerizas/caballo-palomino-picadero.webp"
-  alt: "Caballo palomino en un picadero cubierto"
+- src: /images/actividades/cordoba/ecuestre/espectaculo-bailaora-caballo-noche.webp
+  alt: Bailaora y jinete en la pista de las Caballerizas Reales
+- src: /images/actividades/cordoba/caballerizas/caballo-negro-cuadra.webp
+  alt: Caballo negro en una cuadra
+- src: /images/actividades/cordoba/ecuestre/espectaculo-bailaora-caballo.webp
+  alt: Bailaora con bata de cola junto a un caballo en la pista de las Caballerizas Reales
+- src: /images/actividades/cordoba/caballerizas/caballo-palomino-picadero.webp
+  alt: Caballo palomino en un picadero cubierto
+- src: /images/actividades/cordoba/ecuestre/espectaculo-doma-caballo-blanco.webp
+  alt: Jinete de doma con un caballo blanco en la pista de las Caballerizas Reales
 - src: /images/actividades/cordoba/ecuestre/caballerizas-interior.webp
   alt: Interior de las Caballerizas Reales de Córdoba
 - src: /images/actividades/cordoba/ecuestre/caballerizas-fachada.webp
@@ -87,7 +95,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

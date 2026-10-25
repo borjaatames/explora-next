@@ -83,10 +83,16 @@ keywords:
 imagen: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-islote.webp
 imagenAlt: San Juan de Gaztelugatxe islet with the hermitage and the stone bridge
 galeria:
-- src: "/images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp"
-  alt: "Camino de piedra de San Juan de Gaztelugatxe al atardecer"
+- src: /images/actividades/bilbao/gaztelugatxe/mural-guernica-gernika.webp
+  alt: Tile mural of Picasso's Guernica in Gernika
+- src: /images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp
+  alt: Camino de piedra de San Juan de Gaztelugatxe al atardecer
+- src: /images/actividades/bilbao/costa-vasca/txakoli-vinedos-mar.webp
+  alt: Txakoli vineyards by the Bay of Biscay on the Basque coast
 - src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
   alt: Steps and stone bridge up to the Gaztelugatxe hermitage
+- src: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
+  alt: Glass of white wine
 - src: /images/actividades/bilbao/gaztelugatxe/ermita.webp
   alt: San Juan de Gaztelugatxe hermitage on top of the islet
 - src: /images/actividades/bilbao/gaztelugatxe/puerto-bermeo.webp
@@ -102,7 +108,7 @@ numeroOpiniones: 3229
 publicada: true
 destacada: false
 fecha: '2026-10-04'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

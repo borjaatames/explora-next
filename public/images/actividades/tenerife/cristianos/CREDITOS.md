@@ -9,3 +9,4 @@
 - `montana-guaza.webp` — Diego Delso, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Monta%C3%B1a_de_Guaza%2C_Tenerife%2C_Espa%C3%B1a%2C_2022-01-07%2C_DD_01.jpg) · recortada a 1600×1200
 - `barco-turistas-delfines.webp` — Unsplash, Gustavo A. Perez (Licencia Unsplash) — https://unsplash.com/photos/a-group-of-people-riding-on-the-back-of-a-yellow-boat-0GdU11g1vZI
 - `velero-blanco-mar-abierto.webp` — Pexels, Andrea Imre (Licencia Pexels) — https://www.pexels.com/photo/white-sailboat-on-sea-10550309/
+- `kayak-mar-abierto.webp` — Efrem Efre · Pexels License · Pexels · https://www.pexels.com/photo/woman-in-a-kayak-on-the-sea-14622038/

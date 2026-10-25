@@ -80,20 +80,24 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/6dc251d9-f1bd-44fc-9450-a74935b0c6ed.jpg
-  alt: El Puente Nuevo de Ronda sobre el Tajo
+- src: /images/actividades/malaga/ronda/plaza-toros-ronda-fachada.webp
+  alt: Fachada de la plaza de toros de la Real Maestranza de Ronda
+- src: /images/actividades/malaga/ronda/plaza-toros-ronda-ruedo.webp
+  alt: Ruedo y arquería de la plaza de toros de Ronda
 - src: /images/actividades/granada/ronda/ronda-pexels-15125388.webp
   alt: Puente Nuevo visto desde el mirador
-- src: https://imgcdn.bokun.tools/4b71e511-b73f-41da-8044-a4e807e2d215.jpg
-  alt: Pareja ante el Puente Nuevo
 - src: /images/actividades/granada/ronda/ronda-wikimedia-ronda-view-from-puente-nuevo-5-jpg.webp
   alt: Parador y Puente Nuevo sobre el acantilado
+- src: https://imgcdn.bokun.tools/6dc251d9-f1bd-44fc-9450-a74935b0c6ed.jpg
+  alt: El Puente Nuevo de Ronda sobre el Tajo
+- src: https://imgcdn.bokun.tools/4b71e511-b73f-41da-8044-a4e807e2d215.jpg
+  alt: Pareja ante el Puente Nuevo
 - src: https://imgcdn.bokun.tools/35e85925-d87a-4a35-ae02-38b141762e71.jpg
   alt: Casas blancas al borde del Tajo de Ronda
 - src: https://imgcdn.bokun.tools/9326006e-c548-45ec-b23d-894a0a3eef63.jpg
   alt: Pareja en un mirador sobre la serranía
 bokunProductId: 848245
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## El recorrido

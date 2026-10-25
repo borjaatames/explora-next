@@ -10,3 +10,6 @@
 - `parras.webp` — jacilluch, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:RUTA_DEL_VINO_EN_AS_RIAS_BAIXAS_%286314679972%29.jpg) · recortada a 1600×1200
 - `batea.webp` — Xelo2004, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Vigo_Galicia_Batea_e_barco.jpg) · recortada a 1600×1200
 - `bateas.webp` — amaianos, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Bateas_en_Muros.jpg) · recortada a 1600×1200
+- `bodega-fefinans-barricas.webp` — Jorge Franganillo · CC BY 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Cambados_-_Pazo_de_Fefi%C3%B1%C3%A1ns.jpg
+- `catamaran-turistico-o-grove.webp` — Luis Miguel Bugallo Sánchez (Lmbuga) · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Visi%C3%B3n_dous._5%C2%AA_VILL-4-1-96._Porto_do_Grove.jpg
+- `vendimia-albarino-cambados.webp` — Iago Pillado · CC BY-SA 2.5 es · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Fila_de_tractores_con_uva_agardando_para_entrar_en_Mart%C3%ADn_Codax_(dende_arriba).jpg

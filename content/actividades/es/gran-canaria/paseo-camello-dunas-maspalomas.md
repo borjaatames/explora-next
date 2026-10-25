@@ -75,13 +75,17 @@ keywords:
 - camellos dunas maspalomas
 - que hacer en maspalomas
 - dunas de maspalomas
-imagen: /images/actividades/gran-canaria/dunas/dunas-crestas.webp
-imagenAlt: Crestas de arena en las Dunas de Maspalomas
+imagen: /images/actividades/gran-canaria/camellos/caravana-camellos-dunas.webp
+imagenAlt: Caravana de camellos con jinetes cruzando unas dunas de arena
 galeria:
-- src: "/images/actividades/gran-canaria/maspalomas/dunas-maspalomas-montanas.webp"
-  alt: "Dunas de Maspalomas con montanas de Gran Canaria al fondo"
-- src: "/images/actividades/gran-canaria/dunas/charca-palmeral.webp"
-  alt: "Charca entre palmeras en las Dunas de Maspalomas"
+- src: /images/actividades/gran-canaria/camellos/camellos-ensillados-gran-canaria.webp
+  alt: Camellos ensillados descansando antes del paseo en Gran Canaria
+- src: /images/actividades/gran-canaria/dunas/dunas-crestas.webp
+  alt: Crestas de arena en las Dunas de Maspalomas
+- src: /images/actividades/gran-canaria/maspalomas/dunas-maspalomas-montanas.webp
+  alt: Dunas de Maspalomas con montanas de Gran Canaria al fondo
+- src: /images/actividades/gran-canaria/dunas/charca-palmeral.webp
+  alt: Charca entre palmeras en las Dunas de Maspalomas
 - src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
   alt: Dunas de Maspalomas junto al Atlántico
 - src: /images/actividades/gran-canaria/dunas/dunas-panoramica.webp
@@ -99,7 +103,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

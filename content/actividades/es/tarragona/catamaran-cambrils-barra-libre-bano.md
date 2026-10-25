@@ -74,11 +74,19 @@ keywords:
 - paseo en barco salou
 - catamaran costa dorada
 - barco cambrils barra libre
-imagen: /images/actividades/tarragona/costa/cap-salou.webp
-imagenAlt: Mar frente al Cap de Salou
+imagen: /images/actividades/tarragona/costa/catamaran-bano-mar-abierto.webp
+imagenAlt: Catamarán fondeado en mar abierto con gente bañándose a su alrededor
 galeria:
+- src: /images/actividades/tarragona/costa/catamaran-vela-puerto-cambrils.webp
+  alt: Catamarán de vela de excursiones amarrado en el puerto de Cambrils
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: Mar frente al Cap de Salou
+- src: /images/actividades/tarragona/costa/catamaran-pasajeros-cubierta.webp
+  alt: Catamarán con pasajeros en cubierta fondeado junto a la costa
 - src: /images/actividades/tarragona/costa/puerto-cambrils.webp
   alt: Puerto de Cambrils
+- src: /images/actividades/tarragona/costa/catamaranes-puerto-cambrils.webp
+  alt: Catamaranes de vela amarrados en el puerto de Cambrils
 - src: /images/actividades/tarragona/costa/cambrils-velero.webp
   alt: Velero en el puerto de Cambrils
 - src: /images/actividades/tarragona/costa/faro-salou.webp
@@ -89,14 +97,10 @@ galeria:
   alt: Platja Llarga en Salou
 - src: /images/actividades/tarragona/costa/cambrils-barcas.webp
   alt: Barcas en el puerto de Cambrils
-- src: "/images/actividades/tarragona/costa/cambrils-puerto-01.webp"
-  alt: "Barcas de pesca amarradas en el puerto de Cambrils"
-- src: "/images/actividades/tarragona/costa/cambrils-puerto-02.webp"
-  alt: "Puerto deportivo de Cambrils con barcos de recreo"
-- src: "/images/actividades/tarragona/costa/cambrils-puerto-03.webp"
-  alt: "Paseo marítimo de Cambrils frente al puerto"
-- src: "/images/actividades/tarragona/costa/cambrils-puerto-04.webp"
-  alt: "Puerto de Cambrils con el pueblo al fondo"
+- src: /images/actividades/tarragona/costa/cambrils-puerto-01.webp
+  alt: Barcas de pesca amarradas en el puerto de Cambrils
+- src: /images/actividades/tarragona/costa/cambrils-puerto-02.webp
+  alt: Puerto deportivo de Cambrils con barcos de recreo
 ratingProveedor: 4.5
 numeroOpiniones: 2188
 atraccionesRelacionadas:
@@ -104,7 +108,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

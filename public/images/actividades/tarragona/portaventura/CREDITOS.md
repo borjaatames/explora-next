@@ -9,3 +9,4 @@
 - `ferrari-land.webp` — ThomasPA34, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ferrari_land_vue_d%27ensemble.jpg) · recortada a 1600×1200
 - `red-force.webp` — Gladbach26, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Red_Force_-_Ferarri_Land.jpg) · recortada a 1600×1200
 - `montana-rusa-cielo-azul.webp` — Pexels, Olia Nayda (Licencia Pexels) — https://www.pexels.com/photo/roller-coaster-under-clear-blue-sky-10807092/
+- `caribe-aquatic-toboganes.webp` — Ana Santibañez · Public domain · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Caribe01.jpg

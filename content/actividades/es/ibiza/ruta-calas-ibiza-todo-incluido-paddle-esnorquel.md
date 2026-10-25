@@ -80,10 +80,16 @@ keywords:
 imagen: /images/actividades/ibiza/calas/cala-conta-veleros.webp
 imagenAlt: Veleros frente a Cala Comte
 galeria:
-- src: "/images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp"
-  alt: "Cala de Ibiza rodeada de pinos con aguas turquesas"
-- src: "/images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp"
-  alt: "Chiringuito junto a una playa de Ibiza"
+- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
+  alt: Persona haciendo paddle surf en aguas azules del Mediterráneo
+- src: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
+  alt: Cala de Ibiza rodeada de pinos con aguas turquesas
+- src: /images/actividades/ibiza/calas/esnorquel-cala-llenya.webp
+  alt: Bañistas haciendo esnórquel en las aguas transparentes de Cala Llenya, en Ibiza
+- src: /images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp
+  alt: Chiringuito junto a una playa de Ibiza
+- src: /images/actividades/ibiza/calas/bano-desde-barco-excursion.webp
+  alt: Bañistas en el agua junto a un barco de excursión fondeado cerca de la costa
 - src: /images/actividades/ibiza/calas/cala-bassa-pinos.webp
   alt: Cala Bassa vista entre pinos
 - src: /images/actividades/ibiza/calas/cala-tarida-rocas.webp
@@ -101,7 +107,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

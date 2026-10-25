@@ -2,8 +2,7 @@
 titulo: Lo mejor de Barcelona en privado, con la Sagrada Família
 slug: tour-privado-lo-mejor-de-barcelona-sagrada-familia
 ciudad: barcelona
-descripcion: 'Tour privado de día completo por lo mejor de Barcelona: Montjuïc, Barrio Gótico, Passeig de Gràcia y la Sagrada
-  Família con visita guiada por dentro, con guía en exclusiva. Precio por grupo.'
+descripcion: 'Tour privado de día completo por lo mejor de Barcelona: Montjuïc, Barrio Gótico, Passeig de Gràcia y la Sagrada Família con visita guiada por dentro, con guía en exclusiva. Precio por grupo.'
 slugs:
   es: tour-privado-lo-mejor-de-barcelona-sagrada-familia
   en: best-of-barcelona-private-tour-sagrada-familia
@@ -39,8 +38,7 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
-opinionEditorial: 'Es el plan redondo si solo tienes un día: lo imprescindible de Barcelona —Gaudí, Montjuïc y el casco antiguo—
-  en privado, sin colas y sin preocuparte de la logística. Cuantos más seáis, más a cuenta sale el precio por grupo.'
+opinionEditorial: 'Es el plan redondo si solo tienes un día: lo imprescindible de Barcelona —Gaudí, Montjuïc y el casco antiguo— en privado, sin colas y sin preocuparte de la logística. Cuantos más seáis, más a cuenta sale el precio por grupo.'
 atraccionesRelacionadas:
 - sagrada-familia
 categoria: experienciasPrivadas
@@ -54,33 +52,33 @@ galeria:
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero-hero.webp
   alt: Fachada gótica de la Catedral de Barcelona con torres puntiagudas y rosetón central
 - src: /images/actividades/barcelona/montjuic/pexels-6437868-hero.webp
-  alt: Barcelona, vista urbana con edificios modernos y calles animadas
+  alt: Plaça d'Espanya con el Palau Nacional (MNAC) en lo alto de Montjuïc
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622770903-hero-hero.webp
   alt: Basílica de la Sagrada Familia con sus torres góticas y arquitectura modernista en Barcelona
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero-hero.webp
-  alt: Callejones estrechos y atmósfera gótica en el barrio histórico de Barcelona con arquitectura medieval
+  alt: Callejón bajo un arco en el Barrio Gótico de Barcelona
 - src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y el Mediterráneo al fondo
+  alt: Barcelona vista desde la escalinata del Palau Nacional (MNAC)
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946698-hero.webp
   alt: Detalle de las columnas y vidrieras interiores de la Sagrada Familia, con un medallon dedicado a la Virgen
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
   alt: Columnas y bóvedas de la Sagrada Familia en Barcelona, arquitectura modernista con detalles ornamentales
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
-  alt: Calle estrecha y empedrada del Barrio Gótico de Barcelona con fachadas medievales
+  alt: Calle estrecha con balcones en el casco antiguo de Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-j4eJ3gXlVQ0-hero.webp
-  alt: Vista panorámica de Barcelona con la Sagrada Familia y edificios modernistas bajo cielo despejado
+  alt: Torres de la Sagrada Familia en obras sobre el Eixample
 - src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y montañas al fondo
+  alt: Plaça d'Espanya y las torres venecianas, con el Palau Nacional (MNAC) al fondo
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176367-hero.webp
-  alt: Panorámica de Barcelona con la Sagrada Familia y arquitectura moderna al atardecer
+  alt: Interior de una torre de la Sagrada Familia con la escalera de caracol
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-hero-hero.webp
   alt: Catedral Gótica de Barcelona con fachada medieval de piedra y arquitectura religiosa histórica
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-22'
+fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
-  - "sagrada-familia-que-entrada-elegir"
+- sagrada-familia-que-entrada-elegir
 ---
 
 ## Qué vas a ver

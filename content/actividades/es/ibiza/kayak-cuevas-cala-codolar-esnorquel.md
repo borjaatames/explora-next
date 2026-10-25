@@ -78,25 +78,29 @@ keywords:
 - tour kayak cuevas ibiza
 - cala codolar kayak
 - kayak y snorkel ibiza
-imagen: "/images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-01.webp"
-imagenAlt: "Cala Codolar, en la costa oeste de Ibiza"
+imagen: /images/actividades/ibiza/kayak-codolar/kayaks-cala-turquesa.webp
+imagenAlt: Kayaks y bañistas en una cala de aguas turquesas entre acantilados del Mediterráneo
 galeria:
-- src: "/images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp"
-  alt: "Islote de Es Vedra visto desde la costa de Ibiza"
-- src: "/images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-02.webp"
-  alt: "Playa de Cala Codolar con sus aguas turquesas"
-- src: "/images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-03.webp"
-  alt: "Cala Codolar entre rocas y pinos"
-- src: "/images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-04.webp"
-  alt: "Rocas y agua cristalina en Cala Codolar"
-- src: "/images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-costa.webp"
-  alt: "Costa rocosa junto a Cala Codolar"
-- src: "/images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp"
-  alt: "Acantilados de la costa oeste de Ibiza cerca de Cala Codolar"
-- src: "/images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp"
-  alt: "Cala de Ibiza con barcos fondeados en aguas azules"
-- src: /images/actividades/ibiza/calas/cala-conta-islote.webp
-  alt: Cala Comte y su islote
+- src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+  alt: Persona remando en un kayak naranja en mar abierto
+- src: /images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-01.webp
+  alt: Cala Codolar, en la costa oeste de Ibiza
+- src: /images/actividades/ibiza/calas/esnorquel-cala-llenya.webp
+  alt: Bañistas haciendo esnórquel en las aguas transparentes de Cala Llenya, en Ibiza
+- src: /images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-02.webp
+  alt: Playa de Cala Codolar con sus aguas turquesas
+- src: /images/actividades/ibiza/kayak-codolar/esnorquel-costa-rocosa.webp
+  alt: Persona haciendo esnórquel sobre un fondo de rocas junto a la costa
+- src: /images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-03.webp
+  alt: Cala Codolar entre rocas y pinos
+- src: /images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-04.webp
+  alt: Rocas y agua cristalina en Cala Codolar
+- src: /images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-costa.webp
+  alt: Costa rocosa junto a Cala Codolar
+- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
+  alt: Acantilados de la costa oeste de Ibiza cerca de Cala Codolar
+- src: /images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp
+  alt: Cala de Ibiza con barcos fondeados en aguas azules
 ratingProveedor: 4.8
 numeroOpiniones: 333
 atraccionesRelacionadas:
@@ -104,7 +108,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

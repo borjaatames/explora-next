@@ -2,8 +2,7 @@
 titulo: 'Camp Nou: Museo FC Barcelona Barça Immersive Tour (Ticket Oficial)'
 slug: camp-nou-museo-fc-barcelona-tour-inmersivo
 ciudad: barcelona
-descripcion: Ticket oficial al Museo FC Barcelona con el Barça Immersive Tour durante la renovación del Camp Nou. 12.092 reseñas
-  con 4,3/5. EL ESTADIO EN SÍ NO ES VISITABLE (en obras hasta 2027-2028).
+descripcion: Ticket oficial al Museo FC Barcelona con el Barça Immersive Tour durante la renovación del Camp Nou. 12.092 reseñas con 4,3/5. EL ESTADIO EN SÍ NO ES VISITABLE (en obras hasta 2027-2028).
 slugs:
   es: camp-nou-museo-fc-barcelona-tour-inmersivo
   en: camp-nou-fc-barcelona-museum-immersive-tour
@@ -37,14 +36,8 @@ noIncluye:
 - Mascotas (perros de asistencia permitidos)
 - Recogida en hotel
 puntoEncuentro:
-  texto: Museo FC Barcelona / Barça Immersive Tour, Carrer d'Aristides Maillol 12, 08028 Barcelona. La exposición temporal
-    está alojada en un espacio especialmente adaptado JUNTO al Spotify Camp Nou (el estadio en sí está cerrado). Enseña el
-    voucher móvil en la entrada.
-  descripcionGuia: 'El Barça Immersive Tour opera desde un espacio TEMPORAL junto al estadio durante la renovación (2022-2028).
-    Metro: Palau Reial o Maria Cristina (línea 3), o Collblanc (líneas 5, 9, 10) — 10-15 min andando. Bus 7, 33, 67, 75, H8,
-    V1, V3 cerca. Taxi: pide «Museu FC Barcelona, entrada a la exposición temporal». IMPORTANTE: el estadio Spotify Camp Nou
-    está CERRADO a visitantes durante toda la renovación — no puedes entrar al campo, los banquillos, ni el túnel de jugadores.
-    El producto actual es museo + sala Camp Nou Live 360° + Mirador de la Construcción, NO un tour del estadio.'
+  texto: Museo FC Barcelona / Barça Immersive Tour, Carrer d'Aristides Maillol 12, 08028 Barcelona. La exposición temporal está alojada en un espacio especialmente adaptado JUNTO al Spotify Camp Nou (el estadio en sí está cerrado). Enseña el voucher móvil en la entrada.
+  descripcionGuia: 'El Barça Immersive Tour opera desde un espacio TEMPORAL junto al estadio durante la renovación (2022-2028). Metro: Palau Reial o Maria Cristina (línea 3), o Collblanc (líneas 5, 9, 10) — 10-15 min andando. Bus 7, 33, 67, 75, H8, V1, V3 cerca. Taxi: pide «Museu FC Barcelona, entrada a la exposición temporal». IMPORTANTE: el estadio Spotify Camp Nou está CERRADO a visitantes durante toda la renovación — no puedes entrar al campo, los banquillos, ni el túnel de jugadores. El producto actual es museo + sala Camp Nou Live 360° + Mirador de la Construcción, NO un tour del estadio.'
   latitud: 41.3808
   longitud: 2.1204
   zoom: 17
@@ -68,66 +61,31 @@ informacionImportante:
   - Visita totalmente adaptada para personas con movilidad reducida y silla de ruedas
   - Niños menores de 4 entran gratis pero requieren ticket (recoger en taquilla)
   - No reembolsable — una vez reservado, sin cancelación
-  - Robokeeper, Barça Virtual Dream, Memoria Digital son extras de pago — solo incluidos en el Total Experience Pass (t700918,
-    ~49 €)
+  - Robokeeper, Barça Virtual Dream, Memoria Digital son extras de pago — solo incluidos en el Total Experience Pass (t700918, ~49 €)
   - '**Precio oficial en `fcbarcelona.com`: 28 €. En GYG: ~32 €** (~$35)'
-accesibilidad: Visita totalmente accesible en silla de ruedas — FC Barcelona afirma explícitamente que está adaptada para
-  personas con movilidad reducida. Ascensores y rampas por todo el museo y la zona del mirador. Perros de asistencia permitidos;
-  otras mascotas no. Niños menores de 4 gratis.
-politicaCancelacion: 'NO reembolsable. Una vez reservado, el ticket no se puede cancelar, reembolsar ni reprogramar. Nota:
-  el ticket es válido 1 día - 4 meses desde la compra, así que tienes flexibilidad sobre CUÁNDO usarlo dentro de esa ventana
-  — pero la fecha de reserva específica no se puede mover retroactivamente.'
+accesibilidad: Visita totalmente accesible en silla de ruedas — FC Barcelona afirma explícitamente que está adaptada para personas con movilidad reducida. Ascensores y rampas por todo el museo y la zona del mirador. Perros de asistencia permitidos; otras mascotas no. Niños menores de 4 gratis.
+politicaCancelacion: 'NO reembolsable. Una vez reservado, el ticket no se puede cancelar, reembolsar ni reprogramar. Nota: el ticket es válido 1 día - 4 meses desde la compra, así que tienes flexibilidad sobre CUÁNDO usarlo dentro de esa ventana — pero la fecha de reserva específica no se puede mover retroactivamente.'
 preguntasFrecuentes:
 - pregunta: ¿Puedo visitar el estadio Camp Nou en sí?
-  respuesta: NO — el estadio Spotify Camp Nou está cerrado a visitantes por obras de renovación (2022-2028). El actual «Barça
-    Immersive Tour» está alojado en una sala de exposición temporal junto al estadio, NO dentro del bowl del estadio. SÍ puedes
-    ver las obras de renovación desde el Mirador de la Construcción (un mirador habilitado), pero NO puedes entrar al campo
-    de juego, los banquillos, el túnel de jugadores ni la grada. Este es el estado previsto hasta finales de 2027 o principios
-    de 2028, cuando el estadio está programado para reabrir con capacidad completa de 105.000.
+  respuesta: NO — el estadio Spotify Camp Nou está cerrado a visitantes por obras de renovación (2022-2028). El actual «Barça Immersive Tour» está alojado en una sala de exposición temporal junto al estadio, NO dentro del bowl del estadio. SÍ puedes ver las obras de renovación desde el Mirador de la Construcción (un mirador habilitado), pero NO puedes entrar al campo de juego, los banquillos, el túnel de jugadores ni la grada. Este es el estado previsto hasta finales de 2027 o principios de 2028, cuando el estadio está programado para reabrir con capacidad completa de 105.000.
 - pregunta: ¿Cuándo se reanudará el tour completo del estadio Camp Nou?
-  respuesta: El objetivo publicado de FC Barcelona es finales de 2027 o principios de 2028. El estadio opera actualmente a
-    62.652 de capacidad (vs. objetivo 105.000) para partidos tras la aprobación de la licencia Fase 1C en marzo 2026. Los
-    tours del bowl del estadio volverán gradualmente conforme se completen las fases de renovación — probablemente empezando
-    por zonas restringidas primero. Hasta entonces, el «Barça Immersive Tour» es la única experiencia FC Barcelona disponible
-    en la sede.
+  respuesta: El objetivo publicado de FC Barcelona es finales de 2027 o principios de 2028. El estadio opera actualmente a 62.652 de capacidad (vs. objetivo 105.000) para partidos tras la aprobación de la licencia Fase 1C en marzo 2026. Los tours del bowl del estadio volverán gradualmente conforme se completen las fases de renovación — probablemente empezando por zonas restringidas primero. Hasta entonces, el «Barça Immersive Tour» es la única experiencia FC Barcelona disponible en la sede.
 - pregunta: ¿Vale la pena el museo inmersivo si no soy fan del fútbol?
-  respuesta: 'Las reseñas sugieren que SÍ, con matices. El sentimiento recurrente de no-fans: «no veo fútbol pero el museo
-    es realmente impresionante y emocional». La sala 360° Camp Nou Live (recreando ambiente de día de partido con sonidos
-    de afición, proyecciones de vídeo y elementos táctiles) es el elemento más elogiado entre no-fans. Los fans del fútbol
-    lo valoran consistentemente más alto. Si tienes solo 1 día en Barcelona e interés limitado en fútbol, sáltatelo; si tienes
-    3+ días, es experiencia cultural legítima.'
+  respuesta: 'Las reseñas sugieren que SÍ, con matices. El sentimiento recurrente de no-fans: «no veo fútbol pero el museo es realmente impresionante y emocional». La sala 360° Camp Nou Live (recreando ambiente de día de partido con sonidos de afición, proyecciones de vídeo y elementos táctiles) es el elemento más elogiado entre no-fans. Los fans del fútbol lo valoran consistentemente más alto. Si tienes solo 1 día en Barcelona e interés limitado en fútbol, sáltatelo; si tienes 3+ días, es experiencia cultural legítima.'
 - pregunta: ¿Debería reservar este o el Total Experience Pass (t700918)?
-  respuesta: Este ticket básico (~28 €) cubre museo + audioguía + sala 360° + mirador. El Total Experience Pass (t700918,
-    ~49 €) añade Robokeeper (3 tiros), VR Barça Virtual Dream y foto de memoria digital. La diferencia de 21 € vale la pena
-    si llevas niños que disfrutarían del Robokeeper y la VR (muy enganche para edades 6-14), o si eres fan incondicional del
-    Barça queriendo la experiencia completa. Para la mayoría de visitantes adultos casuales, el ticket básico es suficiente
-    — el contenido del museo es lo que justifica la visita, no los extras gamificados.
+  respuesta: Este ticket básico (~28 €) cubre museo + audioguía + sala 360° + mirador. El Total Experience Pass (t700918, ~49 €) añade Robokeeper (3 tiros), VR Barça Virtual Dream y foto de memoria digital. La diferencia de 21 € vale la pena si llevas niños que disfrutarían del Robokeeper y la VR (muy enganche para edades 6-14), o si eres fan incondicional del Barça queriendo la experiencia completa. Para la mayoría de visitantes adultos casuales, el ticket básico es suficiente — el contenido del museo es lo que justifica la visita, no los extras gamificados.
 variantes:
 - camp-nou-museo-fc-barcelona-pase-total-experience
-opinionEditorial: 'Ticket oficial del Museo FC Barcelona durante el periodo de renovación del Camp Nou (2022-2028) — 12.092
-  reseñas con 4,3/5, vendido directamente por FC Barcelona. El producto está nombrado honestamente: es una visita museística
-  con el formato «Barça Immersive Tour» (exposiciones interactivas, sala 360°, mirador de la construcción), NO un tour del
-  estadio. El sentimiento positivo recurrente se centra en la sala 360° Camp Nou Live (recreación de ambiente de partido con
-  sonidos de afición y proyecciones) y en el tirón emocional del museo incluso para no-fans. La queja recurrente, previsible,
-  es «esperaba ver el interior del estadio» — lee la descripción antes de reservar.
+opinionEditorial: 'Ticket oficial del Museo FC Barcelona durante el periodo de renovación del Camp Nou (2022-2028) — 12.092 reseñas con 4,3/5, vendido directamente por FC Barcelona. El producto está nombrado honestamente: es una visita museística con el formato «Barça Immersive Tour» (exposiciones interactivas, sala 360°, mirador de la construcción), NO un tour del estadio. El sentimiento positivo recurrente se centra en la sala 360° Camp Nou Live (recreación de ambiente de partido con sonidos de afición y proyecciones) y en el tirón emocional del museo incluso para no-fans. La queja recurrente, previsible, es «esperaba ver el interior del estadio» — lee la descripción antes de reservar.
 
 
-  **Comparación de precios:** la web oficial de FC Barcelona (`fcbarcelona.com`) vende el Ticket Básico a **28 €**. GetYourGuide
-  lo vende a ~32 € (~$35) — 4 € más por servicio de plataforma. Si no tienes preferencia por GYG, reserva directo en `fcbarcelona.com`
-  para ahorrar 4 €.
+  **Comparación de precios:** la web oficial de FC Barcelona (`fcbarcelona.com`) vende el Ticket Básico a **28 €**. GetYourGuide lo vende a ~32 € (~$35) — 4 € más por servicio de plataforma. Si no tienes preferencia por GYG, reserva directo en `fcbarcelona.com` para ahorrar 4 €.
 
 
-  Dos notas operativas: **(1)** la visita es totalmente accesible en silla de ruedas (FC Barcelona afirma explícitamente esto).
-  **(2)** la sala inmersiva 360° tiene luces parpadeantes y NO se recomienda a visitantes con epilepsia o fotosensibilidad.
-  El Barça Virtual Dream, Robokeeper y Memoria Digital son extras de pago NO incluidos en el ticket básico — si los quieres,
-  reserva el Total Experience Pass (t700918) que los agrupa a ~49 €.
+  Dos notas operativas: **(1)** la visita es totalmente accesible en silla de ruedas (FC Barcelona afirma explícitamente esto). **(2)** la sala inmersiva 360° tiene luces parpadeantes y NO se recomienda a visitantes con epilepsia o fotosensibilidad. El Barça Virtual Dream, Robokeeper y Memoria Digital son extras de pago NO incluidos en el ticket básico — si los quieres, reserva el Total Experience Pass (t700918) que los agrupa a ~49 €.
 
 
-  Para quién es: fans de FC Barcelona (visita obligada durante la renovación), entusiastas del fútbol en general, visitantes
-  culturales con 3+ días en Barcelona, familias con niños 8+ (museo les engancha, sobre todo la sala 360°) y viajeros construyendo
-  itinerario Barcelona que incluya experiencias no-Gaudí. Para quién NO: viajeros esperando tour tradicional del estadio (el
-  campo está cerrado — lee la descripción), visitantes con epilepsia (la sala 360° es intensa) y cualquiera con prisa (la
-  visita necesita 1,5-2 horas mínimo para que merezca la pena a este precio).
+  Para quién es: fans de FC Barcelona (visita obligada durante la renovación), entusiastas del fútbol en general, visitantes culturales con 3+ días en Barcelona, familias con niños 8+ (museo les engancha, sobre todo la sala 360°) y viajeros construyendo itinerario Barcelona que incluya experiencias no-Gaudí. Para quién NO: viajeros esperando tour tradicional del estadio (el campo está cerrado — lee la descripción), visitantes con epilepsia (la sala 360° es intensa) y cualquiera con prisa (la visita necesita 1,5-2 horas mínimo para que merezca la pena a este precio).
 
   '
 atraccionesRelacionadas:
@@ -139,25 +97,33 @@ keywords:
 - museo fc barcelona
 - camp nou visita renovacion
 - barca immersive exposicion
-imagen: "/images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye-SCN-Sud.tmedium-hero.webp"
-imagenAlt: Vistas panorámicas de Barcelona con arquitectura modernista y montaña de Montjuïc al fondo
+imagen: /images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye-SCN-Sud.tmedium-hero.webp
+imagenAlt: Vista aérea del nuevo Spotify Camp Nou
 galeria:
+- src: /images/actividades/barcelona/camp-nou/museo-barca-copas-champions.webp
+  alt: Vitrina con las Copas de Europa en el Museo del FC Barcelona
 - src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp
-  alt: "Gradas del Camp Nou con las letras del FC Barcelona"
+  alt: Gradas del Camp Nou con las letras del FC Barcelona
+- src: /images/actividades/barcelona/camp-nou/museo-barca-sala-visitantes.webp
+  alt: Visitantes recorriendo las salas del Museo del FC Barcelona
 - src: /images/actividades/barcelona/camp-nou/images-hero.webp
-  alt: "Terreno de juego del Camp Nou visto desde lo alto"
+  alt: Terreno de juego del Camp Nou visto desde lo alto
+- src: /images/actividades/barcelona/camp-nou/museo-barca-vitrina-trofeos.webp
+  alt: Vitrina de trofeos del Museo del FC Barcelona
 - src: /images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp
-  alt: "Estatua de Kubala en el exterior del Camp Nou"
+  alt: Estatua de Kubala en el exterior del Camp Nou
+- src: /images/actividades/barcelona/camp-nou/obras-camp-nou-2024.webp
+  alt: Obras de remodelación del Spotify Camp Nou con grúas, en 2024
 - src: /images/actividades/barcelona/camp-nou/16979312785855-hero.webp
-  alt: "Vista aérea nocturna del Spotify Camp Nou"
+  alt: Vista aérea nocturna del Spotify Camp Nou iluminado
 - src: /images/actividades/barcelona/camp-nou/694f98298d5cb-hero.webp
-  alt: "Recreación del Spotify Camp Nou iluminado de noche"
+  alt: Recreación del Spotify Camp Nou iluminado de noche
 ratingProveedor: 4.3
 numeroOpiniones: 12092
 publicada: true
 destacada: true
 fecha: '2026-05-17'
-fecha_actualizacion: '2026-05-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

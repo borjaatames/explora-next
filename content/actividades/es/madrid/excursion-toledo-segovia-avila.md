@@ -97,11 +97,11 @@ galeria:
 - src: /images/actividades/madrid/muralla-avila/muralla-avila-fortress-citadel-fortification-hero.webp
   alt: fortress, citadel, fortification, fort, wall
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
-  alt: Catedral Metropolitana de Toledo con fachada gótica y arquitectura medieval
+  alt: Fachada principal de la catedral de Toledo
 - src: /images/actividades/avila/muralla-avila/muralla-avila-spain-carving-architecture-hero-hero.webp
   alt: Muralla medieval de Ávila con torres de piedra tallada y arquitectura fortaleza en España
 - src: /images/actividades/toledo/puente-san-martin-toledo/puente-san-martin-toledo-bridge-over-river-buildings-hill-hero-hero.webp
-  alt: "Puente de San Martín sobre el Tajo"
+  alt: Puente de San Martín sobre el Tajo
 - src: /images/actividades/toledo/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero-hero.webp
   alt: Callejón estrecho y empedrado de Toledo con fachadas históricas de piedra
 - src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp
@@ -111,15 +111,15 @@ galeria:
 - src: /images/actividades/toledo/mezquita-cristo-luz-toledo/wikimedia-161540627-hero.webp
   alt: Panorámica de Toledo con sus monumentos históricos y arquitectura medieval
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp
-  alt: "Fachada exterior del Alcázar de Segovia con torres almenadas y arquitectura medieval"
+  alt: Fachada exterior del Alcázar de Segovia con torres almenadas y arquitectura medieval
 - src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-fp-2025-hero.webp
-  alt: "FP Toledo 2025 - Puente de Alcántara"
+  alt: FP Toledo 2025 - Puente de Alcántara
 ratingProveedor: 4.7
 numeroOpiniones: 1330
 publicada: true
 destacada: false
 fecha: '2026-05-05'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

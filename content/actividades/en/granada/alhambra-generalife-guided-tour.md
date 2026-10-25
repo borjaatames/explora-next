@@ -1,11 +1,10 @@
 ---
 titulo: Guided Tour of the Alhambra and Nasrid Palaces
 slug: alhambra-generalife-guided-tour
-metaDescription: 'Tickets to the Nasrid Palaces, Alcazaba and Generalife with an official guide and a reserved time slot. 3 hours. The option when tickets are sold out.'
-metaTitle: 'Alhambra Guided Tour with Tickets Included'
+metaDescription: Tickets to the Nasrid Palaces, Alcazaba and Generalife with an official guide and a reserved time slot. 3 hours. The option when tickets are sold out.
+metaTitle: Alhambra Guided Tour with Tickets Included
 ciudad: granada
-descripcion: A 3-hour guided tour of the Alhambra, the Nasrid Palaces, the Alcazaba and the Generalife with skip-the-line
-  access and an official guide. Granada's most-booked option.
+descripcion: A 3-hour guided tour of the Alhambra, the Nasrid Palaces, the Alcazaba and the Generalife with skip-the-line access and an official guide. Granada's most-booked option.
 slugs:
   en: alhambra-generalife-guided-tour
   es: visita-guiada-alhambra-generalife
@@ -39,9 +38,7 @@ noIncluye:
 - Gratuities
 puntoEncuentro:
   texto: Alhambra entrance area (next to the monument's ticket offices)
-  descripcionGuia: 'The exact meeting point depends on the language and group-size option you book: the operator confirms
-    it in your booking email. In every case it is inside the Alhambra grounds, near the ticket offices. Arrive 15 minutes
-    early to find your guide without stress.'
+  descripcionGuia: 'The exact meeting point depends on the language and group-size option you book: the operator confirms it in your booking email. In every case it is inside the Alhambra grounds, near the ticket offices. Arrive 15 minutes early to find your guide without stress.'
   latitud: 37.1772
   longitud: -3.5851
   zoom: 15
@@ -62,53 +59,33 @@ informacionImportante:
   - The tour runs in the language you select at booking (one language per group, not alternating)
   - The ticket covers the Nasrid Palaces, Alcazaba, Generalife, Palace of Charles V and the Mosque Baths
   - 'Three group sizes are available: around 10, 20 or 30 people'
-accesibilidad: The operator does not specify wheelchair access for this tour. The Alhambra has adapted routes across much
-  of the site, but the terrain is uneven, with slopes and steps. If you need accessibility, confirm with the operator before
-  booking.
-politicaCancelacion: 'Cancel up to 24 hours in advance for a 50% refund. This is not free cancellation: the Alhambra does
-  not refund tickets to the operator, so the refund is partial. This is standard for almost every Alhambra visit.'
+accesibilidad: The operator does not specify wheelchair access for this tour. The Alhambra has adapted routes across much of the site, but the terrain is uneven, with slopes and steps. If you need accessibility, confirm with the operator before booking.
+politicaCancelacion: 'Cancel up to 24 hours in advance for a 50% refund. This is not free cancellation: the Alhambra does not refund tickets to the operator, so the refund is partial. This is standard for almost every Alhambra visit.'
 preguntasFrecuentes:
 - pregunta: Why does cancellation only refund 50%?
-  respuesta: Because the Alhambra ticket is non-refundable for the operator. The Patronato sells tickets with a fixed quota
-    and does not take them back, so the operator can only refund the part covering the guide and their service. It is a structural
-    limitation of the Alhambra, not of this operator specifically — you will see it on almost every visit.
+  respuesta: Because the Alhambra ticket is non-refundable for the operator. The Patronato sells tickets with a fixed quota and does not take them back, so the operator can only refund the part covering the guide and their service. It is a structural limitation of the Alhambra, not of this operator specifically — you will see it on almost every visit.
 - pregunta: What language is the tour in?
-  respuesta: 'You choose the language at booking: there are groups in Spanish, English, German, French and Italian. Each group
-    runs in a single language, not alternating. It is worth booking early because places in each language are limited.'
+  respuesta: 'You choose the language at booking: there are groups in Spanish, English, German, French and Italian. Each group runs in a single language, not alternating. It is worth booking early because places in each language are limited.'
 - pregunta: How big is the group?
-  respuesta: 'It depends on the option you choose: there are groups of roughly 10, 20 or up to 30 people. If you prefer something
-    smaller, this is not the best fit — the price goes up, but you gain closeness with the guide.'
+  respuesta: 'It depends on the option you choose: there are groups of roughly 10, 20 or up to 30 people. If you prefer something smaller, this is not the best fit — the price goes up, but you gain closeness with the guide.'
 - pregunta: What exactly does the route cover?
-  respuesta: Entry and a guided visit to the Nasrid Palaces, the Alcazaba and the Generalife, the three main areas of the
-    complex. The ticket also gives access to the Palace of Charles V and the Mosque Baths. It does not include transport or
-    meals.
+  respuesta: Entry and a guided visit to the Nasrid Palaces, the Alcazaba and the Generalife, the three main areas of the complex. The ticket also gives access to the Palace of Charles V and the Mosque Baths. It does not include transport or meals.
 - pregunta: Do I need to bring my ID or passport?
-  respuesta: 'Yes, and it is essential. Alhambra entry is nominative: you must provide the details of every participant at
-    booking and bring the original document on the day. Without it, access can be denied.'
+  respuesta: 'Yes, and it is essential. Alhambra entry is nominative: you must provide the details of every participant at booking and bring the original document on the day. Without it, access can be denied.'
 - pregunta: Is there any way to get it cheaper?
-  respuesta: 'Yes: the operator applies a 20% discount if you book more than 40 days ahead. Since the Alhambra sells out weeks
-    in advance, booking early pays off twice over — you secure your date and you pay less.'
+  respuesta: 'Yes: the operator applies a 20% discount if you book more than 40 days ahead. Since the Alhambra sells out weeks in advance, booking early pays off twice over — you secure your date and you pay less.'
 variantes:
 - alhambra-nasrid-palaces-skip-the-line
 - alhambra-private-tour
 - alhambra-night-tour
-avisoReserva: 'Alhambra tickets sell out weeks in advance'
-opinionEditorial: 'This is the default choice, and for solid reasons. With more than 21,000 reviews it is by far the most-booked
-  guided tour of the Alhambra: it covers the three areas that genuinely matter (Nasrid Palaces, Alcazaba and Generalife),
-  it has an official guide in five languages, and the price is reasonable for what you get. If it is your first time at the
-  Alhambra and you want to play it safe, this is the logical pick.
+avisoReserva: Alhambra tickets sell out weeks in advance
+opinionEditorial: 'This is the default choice, and for solid reasons. With more than 21,000 reviews it is by far the most-booked guided tour of the Alhambra: it covers the three areas that genuinely matter (Nasrid Palaces, Alcazaba and Generalife), it has an official guide in five languages, and the price is reasonable for what you get. If it is your first time at the Alhambra and you want to play it safe, this is the logical pick.
 
 
-  What is worth knowing before you book: this is a group tour, and the group can reach 30 people. That is not the same as
-  a small group or a private tour — with 30 people the pace is slower and the closeness with the guide is lower. Its weakest
-  score in the reviews is precisely value for money, which fits the large-group format. If intimacy matters to you, there
-  are small-group and private options on this same page; if what you want is a solid guided visit without overspending, this
-  one delivers comfortably.
+  What is worth knowing before you book: this is a group tour, and the group can reach 30 people. That is not the same as a small group or a private tour — with 30 people the pace is slower and the closeness with the guide is lower. Its weakest score in the reviews is precisely value for money, which fits the large-group format. If intimacy matters to you, there are small-group and private options on this same page; if what you want is a solid guided visit without overspending, this one delivers comfortably.
 
 
-  And a practical tip: book more than 40 days ahead. You not only secure your ticket — the Alhambra sells out weeks in advance
-  — but the operator also applies a 20% discount. For a tour that is already the most-booked, that early-booking window is
-  the best time to buy.
+  And a practical tip: book more than 40 days ahead. You not only secure your ticket — the Alhambra sells out weeks in advance — but the operator also applies a 20% discount. For a tour that is already the most-booked, that early-booking window is the best time to buy.
 
   '
 atraccionesRelacionadas:
@@ -120,15 +97,15 @@ keywords:
 - nasrid palaces granada
 - alhambra generalife tour
 - visit the alhambra
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp"
-imagenAlt: Panoramic view of the Alhambra of Granada on the Sabika hill
+imagen: /images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp
+imagenAlt: The Alhambra at sunset with Sierra Nevada behind
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
   alt: Gallery of columns and arches in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
   alt: Court of the Lions lit up at night in the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369624-hero.webp
-  alt: Historic Granada architecture with traditional buildings and urban landscape
+  alt: Muqarnas dome in the Nasrid Palaces
 - src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
   alt: Columns and carved capitals inside the Nasrid Palaces
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
@@ -140,7 +117,7 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-spain-arabic-pattern-stone-carving-hero.webp
   alt: Detail of the geometric stucco decoration in the Nasrid Palaces
 - src: /images/actividades/granada/palacios-nazaries/pixabay-4296920-hero.webp
-  alt: Granada's historic architecture and cobblestone streets in old town district
+  alt: The Alcazaba seen through a Nasrid arch
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369631-hero.webp
   alt: Detail of the plasterwork and arches of the Nasrid Palaces of the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1756310-hero.webp
@@ -155,8 +132,9 @@ publicada: true
 destacada: false
 fecha: '2026-05-14'
 guiasRelacionadas:
-  - "alhambra-how-to-visit"
-  - "alhambra-which-tour-to-choose"
+- alhambra-how-to-visit
+- alhambra-which-tour-to-choose
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

@@ -1,132 +1,125 @@
 ---
-titulo: "Flamenco in Madrid: Show at Torres Bermejas with Dining Options"
-slug: "flamenco-torres-bermejas-dining-options"
-ciudad: "madrid"
-descripcion: "1-hour flamenco show at Tablao Torres Bermejas (opened in 1960, Alhambra-inspired decor). Drink, tapas or full dinner options. 4.5/5 across 10,000+ reviews."
-
+titulo: 'Flamenco in Madrid: Show at Torres Bermejas with Dining Options'
+slug: flamenco-torres-bermejas-dining-options
+ciudad: madrid
+descripcion: 1-hour flamenco show at Tablao Torres Bermejas (opened in 1960, Alhambra-inspired decor). Drink, tapas or full dinner options. 4.5/5 across 10,000+ reviews.
 slugs:
-  es: "flamenco-torres-bermejas-cena"
-  en: "flamenco-torres-bermejas-dining-options"
-
-duracion: "1 hour"
+  es: flamenco-torres-bermejas-cena
+  en: flamenco-torres-bermejas-dining-options
+duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 31
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/madrid-l46/madrid-espectaculo-de-flamenco-con-opciones-culinarias-t68374/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/madrid-l46/madrid-espectaculo-de-flamenco-con-opciones-culinarias-t68374/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Tablao Torres Bermejas, opened in 1960 with decor inspired by Granada's Alhambra"
-  - "Full flamenco cast: singers, guitarists, palmeros and dancers"
-  - "Upgrade options: drink, tapas or traditional Spanish 3-course menu"
-  - "Certified by GetYourGuide and «likely to sell out»"
-  - "4.5/5 across 10,330 reviews — the most-validated tablao in Madrid"
-
+- Tablao Torres Bermejas, opened in 1960 with decor inspired by Granada's Alhambra
+- 'Full flamenco cast: singers, guitarists, palmeros and dancers'
+- 'Upgrade options: drink, tapas or traditional Spanish 3-course menu'
+- Certified by GetYourGuide and «likely to sell out»
+- 4.5/5 across 10,330 reviews — the most-validated tablao in Madrid
 incluye:
-  - "Tablao entry"
-  - "Live flamenco show (1 hour)"
-  - "Food and drinks (if you book the dinner or tapas option)"
-
+- Tablao entry
+- Live flamenco show (1 hour)
+- Food and drinks (if you book the dinner or tapas option)
 noIncluye:
-  - "Food and drinks if you book the show-only ticket"
-  - "Tips to artists"
-  - "Transport to the tablao"
-
+- Food and drinks if you book the show-only ticket
+- Tips to artists
+- Transport to the tablao
 puntoEncuentro:
-  texto: "Tablao Torres Bermejas, Calle de la Mesonero Romanos, 11 — near Gran Vía. Street-level entrance, identifiable by the tablao sign. Bilingual waiters (Spanish and English)."
-  descripcionGuia: "The tablao is 3 minutes from Gran Vía (metro Gran Vía line 1/5 or Callao line 3/5). Reviews mention the entrance can be confused with an anonymous doorway — ask at the hotel or restaurant next door if in doubt. If you booked the dinner option, arrive 1 hour before the show; with just a drink or simple ticket, 15-20 minutes early."
+  texto: Tablao Torres Bermejas, Calle de la Mesonero Romanos, 11 — near Gran Vía. Street-level entrance, identifiable by the tablao sign. Bilingual waiters (Spanish and English).
+  descripcionGuia: The tablao is 3 minutes from Gran Vía (metro Gran Vía line 1/5 or Callao line 3/5). Reviews mention the entrance can be confused with an anonymous doorway — ask at the hotel or restaurant next door if in doubt. If you booked the dinner option, arrive 1 hour before the show; with just a drink or simple ticket, 15-20 minutes early.
   latitud: 40.4198
   longitud: -3.7042
   zoom: 18
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "ID document (may be requested at security)"
-    - "Smart-casual attire (the atmosphere is elegant but no strict code)"
+  - ID document (may be requested at security)
+  - Smart-casual attire (the atmosphere is elegant but no strict code)
   noAptoPara:
-    - "Children under 12 (per recommendation in reviews)"
-    - "Pets (service dogs only)"
+  - Children under 12 (per recommendation in reviews)
+  - Pets (service dogs only)
   aTenerEnCuenta:
-    - "If you want to eat or drink, better book the upgrade in advance — several reviews mention that ordering on the spot doesn't always work well"
-    - "Lateral seats have worse stage views — some reviews complain"
-    - "The show lasts exactly 1 hour — no second set or break"
-    - "Waiters speak Spanish and English"
-    - "Decor inspired by the Torres Bermejas of the Alhambra: carved wooden ceilings and tiles"
-
-accesibilidad: "The operator doesn't explicitly mark wheelchair accessibility. The tablao is on the ground floor with stairs to some areas. If accessibility is a critical factor, contact the tablao directly before booking or look at Tablao Las Carboneras, which is marked as accessible."
-
-politicaCancelacion: "Free cancellation up to 24 hours before with full refund. «Reserve now and pay later» option also available."
-
+  - If you want to eat or drink, better book the upgrade in advance — several reviews mention that ordering on the spot doesn't always work well
+  - Lateral seats have worse stage views — some reviews complain
+  - The show lasts exactly 1 hour — no second set or break
+  - Waiters speak Spanish and English
+  - 'Decor inspired by the Torres Bermejas of the Alhambra: carved wooden ceilings and tiles'
+accesibilidad: The operator doesn't explicitly mark wheelchair accessibility. The tablao is on the ground floor with stairs to some areas. If accessibility is a critical factor, contact the tablao directly before booking or look at Tablao Las Carboneras, which is marked as accessible.
+politicaCancelacion: Free cancellation up to 24 hours before with full refund. «Reserve now and pay later» option also available.
 preguntasFrecuentes:
-  - pregunta: "What's the difference between the ticket options?"
-    respuesta: "Several options: show only (base price ~€30), show + drink, show + tapas, and show + 3-course menu with traditional Spanish cuisine. If you want to dine and enjoy a full evening, the menu is worth it. If your interest is just the flamenco, the simple ticket suffices — the show lasts 1 hour and then you can go out to dine."
-  - pregunta: "Is it suitable for children?"
-    respuesta: "A recent review explicitly recommends «12+ children». The setting is a closed venue, the show is an intense 1 hour and although the decor is beautiful, it may not engage small kids. From 12 years on it starts to work; before that, weigh whether your child will enjoy it."
-  - pregunta: "What's the food like if I order the menu?"
-    respuesta: "Reviews are positive: «3 course meal with beverage AND an amazing performance — definitely worth it», «food was delicious too». It's traditional Spanish cuisine, not haute cuisine, but it delivers. The product's overall «value for money» scores 4.3/5."
-  - pregunta: "Is it an authentic or touristic spot?"
-    respuesta: "It's touristic — the tablao has been operating since 1960 and is one of the best-known in Madrid, with 10,330 reviews on GetYourGuide. That means it's oriented to travellers, not expert aficionados. But the artists are professionals and the flamenco is real, not decorative. If you want something more intimate and less touristic, look at Las Carboneras."
-  - pregunta: "How do I make sure of a good seat?"
-    respuesta: "Arrive early (1 hour ahead if you book dinner, 20 minutes if only show). Tables are assigned on the spot. Reviews recurrently complain about lateral seats — ask explicitly for a central or front table on arrival; they won't always give it to you but it's worth trying."
+- pregunta: What's the difference between the ticket options?
+  respuesta: 'Several options: show only (base price ~€30), show + drink, show + tapas, and show + 3-course menu with traditional Spanish cuisine. If you want to dine and enjoy a full evening, the menu is worth it. If your interest is just the flamenco, the simple ticket suffices — the show lasts 1 hour and then you can go out to dine.'
+- pregunta: Is it suitable for children?
+  respuesta: A recent review explicitly recommends «12+ children». The setting is a closed venue, the show is an intense 1 hour and although the decor is beautiful, it may not engage small kids. From 12 years on it starts to work; before that, weigh whether your child will enjoy it.
+- pregunta: What's the food like if I order the menu?
+  respuesta: 'Reviews are positive: «3 course meal with beverage AND an amazing performance — definitely worth it», «food was delicious too». It''s traditional Spanish cuisine, not haute cuisine, but it delivers. The product''s overall «value for money» scores 4.3/5.'
+- pregunta: Is it an authentic or touristic spot?
+  respuesta: It's touristic — the tablao has been operating since 1960 and is one of the best-known in Madrid, with 10,330 reviews on GetYourGuide. That means it's oriented to travellers, not expert aficionados. But the artists are professionals and the flamenco is real, not decorative. If you want something more intimate and less touristic, look at Las Carboneras.
+- pregunta: How do I make sure of a good seat?
+  respuesta: Arrive early (1 hour ahead if you book dinner, 20 minutes if only show). Tables are assigned on the spot. Reviews recurrently complain about lateral seats — ask explicitly for a central or front table on arrival; they won't always give it to you but it's worth trying.
+variantes:
+- flamenco-tablao-las-carboneras
+opinionEditorial: 'This is the most-validated tablao in Madrid on GetYourGuide: 4.5/5 across 10,330 reviews, certified by GetYourGuide and «likely to sell out». Opened in 1960 with decor inspired by the Torres Bermejas of the Alhambra (carved wooden ceilings, Arab tiles), it''s right in the Gran Vía area. Very competitive base price — around €30 — and a catalogue of dinner options ranging from a loose drink to a 3-course menu.
 
-variantes: ["flamenco-tablao-las-carboneras"]
 
-opinionEditorial: |
-  This is the most-validated tablao in Madrid on GetYourGuide: 4.5/5 across 10,330 reviews, certified by GetYourGuide and «likely to sell out». Opened in 1960 with decor inspired by the Torres Bermejas of the Alhambra (carved wooden ceilings, Arab tiles), it's right in the Gran Vía area. Very competitive base price — around €30 — and a catalogue of dinner options ranging from a loose drink to a 3-course menu.
+  What''s worth knowing. It''s a touristic product — don''t expect the intimacy of a small neighbourhood tablao. Lateral seats have worse stage views and it''s a recurring complaint: if you arrive tight on time, you get the worst ones. Better to arrive 20 minutes early (or 1 hour early if you book dinner) and ask for a central table on entry. The dinner gets positive ratings in reviews, but if you only want to see the show, the €30 base ticket is enough: 1 intense hour and then dinner elsewhere.
 
-  What's worth knowing. It's a touristic product — don't expect the intimacy of a small neighbourhood tablao. Lateral seats have worse stage views and it's a recurring complaint: if you arrive tight on time, you get the worst ones. Better to arrive 20 minutes early (or 1 hour early if you book dinner) and ask for a central table on entry. The dinner gets positive ratings in reviews, but if you only want to see the show, the €30 base ticket is enough: 1 intense hour and then dinner elsewhere.
 
-  Who it's for: travellers wanting an accessible flamenco show in a very central area, with the option of dinner on the same spot to avoid breaking up the evening. Families with teens (12+). Who it's NOT for: travellers with reduced mobility (the operator doesn't explicitly mark accessibility — see Las Carboneras), children under 12, and anyone after intimate, low-touristic flamenco (here there are 10,000+ reviews: the format is mass-market though with quality).
+  Who it''s for: travellers wanting an accessible flamenco show in a very central area, with the option of dinner on the same spot to avoid breaking up the evening. Families with teens (12+). Who it''s NOT for: travellers with reduced mobility (the operator doesn''t explicitly mark accessibility — see Las Carboneras), children under 12, and anyone after intimate, low-touristic flamenco (here there are 10,000+ reviews: the format is mass-market though with quality).
 
+  '
 atraccionesRelacionadas:
 - flamenco
-categoria: "espectaculos"
-keywords: ["flamenco torres bermejas", "tablao madrid gran via", "flamenco show dinner madrid", "tablao torres bermejas price", "flamenco show central madrid"]
-
-imagen: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-baile-flamenco-escenario.webp"
-imagenAlt: "Flamenco dancers performing on stage at Tablao Torres Bermejas, with its Alhambra-inspired decor"
-
+categoria: espectaculos
+keywords:
+- flamenco torres bermejas
+- tablao madrid gran via
+- flamenco show dinner madrid
+- tablao torres bermejas price
+- flamenco show central madrid
+imagen: /images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-baile-flamenco-escenario.webp
+imagenAlt: Flamenco dancers performing on stage at Tablao Torres Bermejas, with its Alhambra-inspired decor
 galeria:
 - src: /images/actividades/madrid/torres-bermejas-oficial/torres-bermejas-oficial-bailaora-lunares.webp
-  alt: "Polka-dot dancer beneath the arches of Torres Bermejas"
+  alt: Polka-dot dancer beneath the arches of Torres Bermejas
 - src: /images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-pareja-baile.webp
-  alt: "Flamenco dancing couple in red on stage at Tablao Torres Bermejas"
+  alt: Flamenco dancing couple in red on stage at Tablao Torres Bermejas
 - src: /images/actividades/madrid/torres-bermejas-oficial/torres-bermejas-oficial-cuadro-azul.webp
-  alt: "Flamenco troupe with a dancer in blue at Torres Bermejas"
+  alt: Flamenco troupe with a dancer in blue at Torres Bermejas
 - src: /images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-arcos-salon.webp
-  alt: "Tablao Torres Bermejas dining room with Nasrid-style arches and plasterwork"
+  alt: Tablao Torres Bermejas dining room with Nasrid-style arches and plasterwork
 - src: /images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-guitarrista.webp
-  alt: "Guitarist and singer on the lit stage at Tablao Torres Bermejas"
+  alt: Guitarist and singer on the lit stage at Tablao Torres Bermejas
 - src: /images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-columnas-azulejos.webp
-  alt: "Tiled columns and stage at Tablao Torres Bermejas"
+  alt: Tiled columns and stage at Tablao Torres Bermejas
 - src: /images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-escenario-sillas.webp
-  alt: "Tablao Torres Bermejas stage with rush-seat chairs and Mudéjar decor"
+  alt: Tablao Torres Bermejas stage with rush-seat chairs and Mudéjar decor
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp
-  alt: "Plaza de Callao at night, a short walk from Tablao Torres Bermejas"
+  alt: Plaza de Callao and the Carrión building at night
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-great-way-spain-city-center-hero.webp
-  alt: "Capitol building on Plaza de Callao, next to Calle Mesonero Romanos"
+  alt: Capitol building on Plaza de Callao, next to Calle Mesonero Romanos
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
-  alt: "Aerial view of Madrid's Gran Vía at dusk, with the Metrópolis building"
-
+  alt: Aerial view of Madrid's Gran Vía at dusk, with the Metrópolis building
 ratingProveedor: 4.5
 numeroOpiniones: 10330
-
 publicada: true
 destacada: true
-fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
+fecha: '2026-05-17'
+fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
-  - "flamenco-madrid-which-tablao-to-choose"
+- flamenco-madrid-which-tablao-to-choose
 ---
 
 ## What you'll see

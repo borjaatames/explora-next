@@ -2,8 +2,7 @@
 titulo: Private Tour of the Alhambra and Nasrid Palaces
 slug: alhambra-private-tour
 ciudad: granada
-descripcion: A 3-hour private tour of the Alhambra, the Nasrid Palaces, the Alcazaba and the Generalife with a guide just
-  for you, skip-the-line entry and a pace of your own.
+descripcion: A 3-hour private tour of the Alhambra, the Nasrid Palaces, the Alcazaba and the Generalife with a guide just for you, skip-the-line entry and a pace of your own.
 slugs:
   en: alhambra-private-tour
   es: alhambra-tour-privado
@@ -38,8 +37,7 @@ noIncluye:
 - Gratuities
 puntoEncuentro:
   texto: Alhambra entrance area (the exact point is confirmed depending on the language booked)
-  descripcionGuia: The meeting point varies with the language of the private tour you book, but all variants are in the Alhambra's
-    entrance and ticket-office area. The operator confirms the exact location at booking. Arrive 15 minutes early.
+  descripcionGuia: The meeting point varies with the language of the private tour you book, but all variants are in the Alhambra's entrance and ticket-office area. The operator confirms the exact location at booking. Arrive 15 minutes early.
   latitud: 37.1743
   longitud: -3.584
   zoom: 16
@@ -59,49 +57,31 @@ informacionImportante:
   - Access to the Nasrid Palaces has a specific entry time set by the Patronato
   - 'Entry is nominative: you must provide the details of every participant at booking'
   - The price is per person; being private, the per-head cost drops the larger the group
-accesibilidad: The operator expressly states this visit is NOT suitable for people with mobility difficulties or in wheelchairs.
-  If you need accessibility, this is not the right option.
-politicaCancelacion: 'Cancel up to 24 hours in advance for a 50% refund. This is not free cancellation: the Alhambra does
-  not refund tickets to the operator, so the refund is partial, even on a private tour. This is standard for Alhambra visits.'
+accesibilidad: The operator expressly states this visit is NOT suitable for people with mobility difficulties or in wheelchairs. If you need accessibility, this is not the right option.
+politicaCancelacion: 'Cancel up to 24 hours in advance for a 50% refund. This is not free cancellation: the Alhambra does not refund tickets to the operator, so the refund is partial, even on a private tour. This is standard for Alhambra visits.'
 preguntasFrecuentes:
 - pregunta: Why does it cost €280 when other visits are €50-99?
-  respuesta: 'Because it''s a private tour: the guide is just for you and your group, not shared with anyone. The price shown
-    is per person, but being exclusive, the per-head cost drops the larger the group. If there are four or more of you, the
-    gap with a small group narrows considerably; if you travel alone or as a couple, it''s a considerable extra.'
+  respuesta: 'Because it''s a private tour: the guide is just for you and your group, not shared with anyone. The price shown is per person, but being exclusive, the per-head cost drops the larger the group. If there are four or more of you, the gap with a small group narrows considerably; if you travel alone or as a couple, it''s a considerable extra.'
 - pregunta: What do I gain over a small group?
-  respuesta: Total control of the pace. You stop where you like, ask without limits, tailor the visit to what interests you,
-    and don't depend on a group's rhythm. It's the difference between a good guided visit and a visit made to your measure.
-    If that flexibility doesn't justify the price for you, a small group covers the same route.
+  respuesta: Total control of the pace. You stop where you like, ask without limits, tailor the visit to what interests you, and don't depend on a group's rhythm. It's the difference between a good guided visit and a visit made to your measure. If that flexibility doesn't justify the price for you, a small group covers the same route.
 - pregunta: Is it accessible for people with reduced mobility?
-  respuesta: No. The operator expressly states that the visit is not suitable for people with mobility difficulties or in
-    wheelchairs. Even though it's a private tour, the route through the grounds is not adapted in this format.
+  respuesta: No. The operator expressly states that the visit is not suitable for people with mobility difficulties or in wheelchairs. Even though it's a private tour, the route through the grounds is not adapted in this format.
 - pregunta: What languages is it available in?
-  respuesta: Spanish, English, German, French and Italian. Being a private tour, the guide devotes all the time to your group
-    in the language you choose, with no alternating or sharing with other visitors.
+  respuesta: Spanish, English, German, French and Italian. Being a private tour, the guide devotes all the time to your group in the language you choose, with no alternating or sharing with other visitors.
 - pregunta: Is cancellation free since it's private?
-  respuesta: No. The refund is still 50% up to 24 hours before, the same as on group visits. The non-refundable part is the
-    Alhambra ticket, which the Patronato does not return to the operator; that doesn't change because it's a private tour.
+  respuesta: No. The refund is still 50% up to 24 hours before, the same as on group visits. The non-refundable part is the Alhambra ticket, which the Patronato does not return to the operator; that doesn't change because it's a private tour.
 variantes:
 - alhambra-small-group-tour
 - alhambra-guided-tour-with-tickets
 - alhambra-generalife-guided-tour
-avisoReserva: 'Alhambra tickets sell out weeks in advance'
-opinionEditorial: 'This is the premium option in the comparison, and the key question is simple: is €280 per person worth
-  it to have the Alhambra at your own pace? With a guide just for you, you stop where you like, ask without limits and tailor
-  the visit to what genuinely interests you. The score backs it up — 4.9 out of 5, among the highest in the catalogue — but
-  the price is by far the steepest.
+avisoReserva: Alhambra tickets sell out weeks in advance
+opinionEditorial: 'This is the premium option in the comparison, and the key question is simple: is €280 per person worth it to have the Alhambra at your own pace? With a guide just for you, you stop where you like, ask without limits and tailor the visit to what genuinely interests you. The score backs it up — 4.9 out of 5, among the highest in the catalogue — but the price is by far the steepest.
 
 
-  The important nuance is in how that price is calculated: it''s **per person**, but being a private tour the per-head cost
-  drops the larger the group. For a family of four or a group of friends, the gap with a small group narrows considerably.
-  For someone travelling alone or as a couple, €280 per head is a considerable jump that only makes sense if exclusivity is
-  a real priority.
+  The important nuance is in how that price is calculated: it''s **per person**, but being a private tour the per-head cost drops the larger the group. For a family of four or a group of friends, the gap with a small group narrows considerably. For someone travelling alone or as a couple, €280 per head is a considerable jump that only makes sense if exclusivity is a real priority.
 
 
-  Two honest warnings before booking. The operator expressly states it is **not suitable for people with reduced mobility
-  or in wheelchairs** — being private doesn''t change that. And **cancellation is still 50%**: the Alhambra ticket isn''t
-  refundable even on a private tour. With that clear, if you''re after the best possible experience and the budget allows
-  it, it''s the most complete option in the comparison.
+  Two honest warnings before booking. The operator expressly states it is **not suitable for people with reduced mobility or in wheelchairs** — being private doesn''t change that. And **cancellation is still 50%**: the Alhambra ticket isn''t refundable even on a private tour. With that clear, if you''re after the best possible experience and the budget allows it, it''s the most complete option in the comparison.
 
   '
 atraccionesRelacionadas:
@@ -113,7 +93,7 @@ keywords:
 - private nasrid palaces visit
 - alhambra at your own pace
 - alhambra private tour granada
-imagen: "/images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp"
+imagen: /images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp
 imagenAlt: Courtyard of the Alhambra with palm trees reflected in a water channel
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
@@ -123,13 +103,13 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp
   alt: Arches and columns of a courtyard in the Nasrid Palaces
 - src: /images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp
-  alt: Aerial view of Granada's historic city center with Alhambra palace and surrounding architecture
+  alt: Colonnade of the Court of the Lions
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
   alt: Court of the Lions in the Nasrid Palaces of the Alhambra, with its central fountain and colonnaded gallery
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
   alt: Courtyard with water and greenery in the Generalife of the Alhambra
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp
-  alt: Alhambra Palace in Granada, UNESCO World Heritage site showcasing intricate Islamic architecture and tilework
+  alt: Arches with Nasrid plasterwork in the Alhambra
 - src: /images/actividades/granada/alhambra-granada/wikimedia-22204352-hero.webp
   alt: Aerial view of Granada's historic city center with Alhambra palace complex on hillside
 - src: /images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp
@@ -146,8 +126,9 @@ publicada: true
 destacada: false
 fecha: '2026-05-14'
 guiasRelacionadas:
-  - "alhambra-how-to-visit"
-  - "alhambra-which-tour-to-choose"
+- alhambra-how-to-visit
+- alhambra-which-tour-to-choose
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

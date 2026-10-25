@@ -75,27 +75,39 @@ keywords:
 - visita guiada barcelona con tapa
 - guia privado barcelona
 imagen: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
-imagenAlt: Calle estrecha y medieval del Barrio Gótico de Barcelona
+imagenAlt: Calle estrecha con balcones en el casco antiguo de Barcelona
 ratingProveedor: 4.8
 numeroOpiniones: 16
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp
+  alt: Fachada gótica de la basílica de Santa Maria del Mar, en el Born
+- src: /images/actividades/barcelona/born/passeig-del-born.webp
+  alt: Passeig del Born, con sus árboles y terrazas
+- src: /images/actividades/barcelona/raval/palau-guell-fachada.webp
+  alt: Fachada del Palau Güell de Gaudí en el carrer Nou de la Rambla, en el Raval
+- src: /images/actividades/barcelona/gotico/placa-sant-felip-neri.webp
+  alt: Plaça de Sant Felip Neri con su fuente y la iglesia
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: La catedral de Barcelona, en el corazón del Barrio Gótico
+- src: /images/actividades/barcelona/gotico/placa-reial.webp
+  alt: Plaça Reial con palmeras y soportales en el Barrio Gótico
+- src: /images/actividades/barcelona/tapas/pintxo-gilda-anchoas.webp
+  alt: Pintxos de aceitunas, guindillas y anchoas sobre una fuente
 - src: https://imgcdn.bokun.tools/f9aa78e9-f547-46e8-a36f-e3ff364a52c7.jpg
   alt: Grupo del tour en una plaza del casco antiguo
 - src: https://imgcdn.bokun.tools/cd037cdc-1849-4047-b047-a4382ec5777e.jpg
   alt: Viajero junto al buzón modernista de las golondrinas y la tortuga, en el Barrio Gótico
 - src: https://imgcdn.bokun.tools/929a358d-121f-44d1-840f-55fb805de095.jpg
   alt: Viajeras con su guía ante un puesto de la Boquería
-- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
-  alt: La catedral de Barcelona, en el corazón del Barrio Gótico
 - src: https://imgcdn.bokun.tools/e2b5db48-f2b1-42b1-a6f3-5033270b5146.jpg
   alt: Viajeras ante un mural de azulejos con una escena de la Barcelona medieval
 - src: https://imgcdn.bokun.tools/caa06b13-5730-48fa-b4cf-a7e954bbba13.jpg
   alt: Callejón de piedra del casco antiguo de Barcelona
 bokunProductId: 217556
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## El recorrido

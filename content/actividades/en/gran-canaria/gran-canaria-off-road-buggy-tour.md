@@ -79,11 +79,15 @@ keywords:
 - maspalomas buggy tour
 - off road gran canaria
 - fataga ravine
-imagen: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-imagenAlt: The Fataga ravine in southern Gran Canaria
+imagen: /images/actividades/lanzarote/buggy-volcanes.webp
+imagenAlt: Buggy on a dirt track among volcanic mountains
 galeria:
-- src: "/images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp"
-  alt: "Carretera sinuosa atravesando un barranco en el sur de Gran Canaria"
+- src: /images/actividades/fuerteventura/buggy-corralejo.webp
+  alt: Buggy driving along a dirt track in an arid landscape
+- src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
+  alt: The Fataga ravine in southern Gran Canaria
+- src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
+  alt: Carretera sinuosa atravesando un barranco en el sur de Gran Canaria
 - src: /images/actividades/gran-canaria/buggy/valle-ayagaures.webp
   alt: The Ayagaures valley
 - src: /images/actividades/gran-canaria/buggy/presa-ayagaures.webp
@@ -103,7 +107,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

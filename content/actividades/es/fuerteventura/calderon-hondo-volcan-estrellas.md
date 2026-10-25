@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Fuerteventura: volcán Calderón Hondo de noche y estrellas'
 slug: calderon-hondo-volcan-estrellas
 ciudad: fuerteventura
-descripcion: 'Ruta guiada nocturna de 3 horas al cráter del Calderón Hondo, cerca de Lajares, con observación de estrellas y leyendas sobre el fuego y el cielo de los majoreros. Traslado opcional desde Corralejo y El Cotillo. 4,8/5 con más de 1.000 reseñas.'
+descripcion: Ruta guiada nocturna de 3 horas al cráter del Calderón Hondo, cerca de Lajares, con observación de estrellas y leyendas sobre el fuego y el cielo de los majoreros. Traslado opcional desde Corralejo y El Cotillo. 4,8/5 con más de 1.000 reseñas.
 slugs:
   es: calderon-hondo-volcan-estrellas
   en: calderon-hondo-volcano-stargazing-tour
@@ -80,16 +80,20 @@ keywords:
 - volcan fuerteventura excursion
 - lajares volcan
 imagen: /images/actividades/fuerteventura/zonas/calderon-hondo-crater.webp
-imagenAlt: "El cráter del volcán Calderón Hondo"
+imagenAlt: El cráter del volcán Calderón Hondo
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp"
-  alt: "El borde del cráter de Calderón Hondo"
-- src: "/images/actividades/fuerteventura/zonas/volcanes-norte.webp"
-  alt: "Conos volcánicos en el norte de Fuerteventura"
-- src: "/images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp"
-  alt: "El puerto viejo de El Cotillo"
-- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-arena.webp"
-  alt: "Arena y matorral en las Dunas de Corralejo"
+- src: /images/actividades/fuerteventura/zonas/via-lactea-fuerteventura.webp
+  alt: La Vía Láctea en el cielo nocturno de Fuerteventura
+- src: /images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp
+  alt: El borde del cráter de Calderón Hondo
+- src: /images/actividades/fuerteventura/zonas/cielo-estrellado-volcan.webp
+  alt: Cielo estrellado sobre la silueta de un volcán
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: Conos volcánicos en el norte de Fuerteventura
+- src: /images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp
+  alt: El puerto viejo de El Cotillo
+- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-arena.webp
+  alt: Arena y matorral en las Dunas de Corralejo
 ratingProveedor: 4.8
 numeroOpiniones: 1060
 atraccionesRelacionadas:
@@ -97,7 +101,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

@@ -1,134 +1,125 @@
 ---
-titulo: "Flamenco en Madrid: Show en Torres Bermejas con Opciones Culinarias"
-slug: "flamenco-torres-bermejas-cena"
-ciudad: "madrid"
-descripcion: "Espectáculo flamenco de 1 hora en el Tablao Torres Bermejas (abierto en 1960, decoración inspirada en la Alhambra). Opciones de bebida, tapas o cena completa. 4,5/5 con más de 10.000 reseñas."
-
+titulo: 'Flamenco en Madrid: Show en Torres Bermejas con Opciones Culinarias'
+slug: flamenco-torres-bermejas-cena
+ciudad: madrid
+descripcion: Espectáculo flamenco de 1 hora en el Tablao Torres Bermejas (abierto en 1960, decoración inspirada en la Alhambra). Opciones de bebida, tapas o cena completa. 4,5/5 con más de 10.000 reseñas.
 slugs:
-  es: "flamenco-torres-bermejas-cena"
-  en: "flamenco-torres-bermejas-dining-options"
-
-duracion: "1 hora"
+  es: flamenco-torres-bermejas-cena
+  en: flamenco-torres-bermejas-dining-options
+duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 31
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.es/madrid-l46/madrid-espectaculo-de-flamenco-con-opciones-culinarias-t68374/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.es/madrid-l46/madrid-espectaculo-de-flamenco-con-opciones-culinarias-t68374/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Tablao Torres Bermejas, abierto en 1960 con decoración inspirada en la Alhambra de Granada"
-  - "Cuadro flamenco completo: cantaores, guitarristas, palmeros y bailaores"
-  - "Opciones de upgrade: bebida, tapas o menú tradicional español de 3 platos"
-  - "Producto certificado por GetYourGuide y «likely to sell out»"
-  - "4,5/5 sobre 10.330 reseñas — el tablao con mayor volumen de validación de Madrid"
-
+- Tablao Torres Bermejas, abierto en 1960 con decoración inspirada en la Alhambra de Granada
+- 'Cuadro flamenco completo: cantaores, guitarristas, palmeros y bailaores'
+- 'Opciones de upgrade: bebida, tapas o menú tradicional español de 3 platos'
+- Producto certificado por GetYourGuide y «likely to sell out»
+- 4,5/5 sobre 10.330 reseñas — el tablao con mayor volumen de validación de Madrid
 incluye:
-  - "Entrada al tablao"
-  - "Show flamenco en directo (1 hora)"
-  - "Comida y bebidas (si reservas la opción con cena o tapas)"
-
+- Entrada al tablao
+- Show flamenco en directo (1 hora)
+- Comida y bebidas (si reservas la opción con cena o tapas)
 noIncluye:
-  - "Comida y bebida si reservas solo el ticket de show"
-  - "Propinas a los artistas"
-  - "Transporte hasta el tablao"
-
+- Comida y bebida si reservas solo el ticket de show
+- Propinas a los artistas
+- Transporte hasta el tablao
 puntoEncuentro:
-  texto: "Tablao Torres Bermejas, Calle de la Mesonero Romanos, 11 — cerca de la Gran Vía. La entrada es de calle, identificable por el cartel del tablao. Camareros bilingües (español e inglés)."
-  descripcionGuia: "El tablao está a 3 minutos de la Gran Vía (metro Gran Vía línea 1/5 o Callao línea 3/5). Reseñas mencionan que la entrada puede confundirse con un portal anodino — pregunta en el hotel o restaurante de al lado si tienes dudas. Si has reservado opción con cena, llega 1 hora antes del show; con solo bebida o ticket simple, 15-20 minutos antes."
+  texto: Tablao Torres Bermejas, Calle de la Mesonero Romanos, 11 — cerca de la Gran Vía. La entrada es de calle, identificable por el cartel del tablao. Camareros bilingües (español e inglés).
+  descripcionGuia: El tablao está a 3 minutos de la Gran Vía (metro Gran Vía línea 1/5 o Callao línea 3/5). Reseñas mencionan que la entrada puede confundirse con un portal anodino — pregunta en el hotel o restaurante de al lado si tienes dudas. Si has reservado opción con cena, llega 1 hora antes del show; con solo bebida o ticket simple, 15-20 minutos antes.
   latitud: 40.4198
   longitud: -3.7042
   zoom: 18
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Documento de identidad (puede pedirse en el control)"
-    - "Ropa smart casual (el ambiente es elegante pero sin código estricto)"
+  - Documento de identidad (puede pedirse en el control)
+  - Ropa smart casual (el ambiente es elegante pero sin código estricto)
   noAptoPara:
-    - "Niños menores de 12 años (recomendación en reseñas)"
-    - "Mascotas (salvo perros de asistencia)"
+  - Niños menores de 12 años (recomendación en reseñas)
+  - Mascotas (salvo perros de asistencia)
   aTenerEnCuenta:
-    - "Si quieres comer o beber, mejor reserva el upgrade antes — varias reseñas mencionan que pedir en el momento no siempre funciona bien"
-    - "Los asientos laterales tienen peor visión del escenario — algunas reseñas se quejan"
-    - "El show dura 1 hora exacta — no hay segunda función ni pausa"
-    - "Los camareros hablan español e inglés"
-    - "Decoración inspirada en las Torres Bermejas de la Alhambra: techos de madera tallada y azulejos"
-
-accesibilidad: "El operador no indica accesibilidad expresa para silla de ruedas. El tablao está en planta baja con escaleras hacia algunas zonas. Si la accesibilidad es factor crítico, consulta directamente al tablao antes de reservar o mira el Tablao Las Carboneras, que sí está marcado como accesible."
-
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva ahora y paga después»."
-
+  - Si quieres comer o beber, mejor reserva el upgrade antes — varias reseñas mencionan que pedir en el momento no siempre funciona bien
+  - Los asientos laterales tienen peor visión del escenario — algunas reseñas se quejan
+  - El show dura 1 hora exacta — no hay segunda función ni pausa
+  - Los camareros hablan español e inglés
+  - 'Decoración inspirada en las Torres Bermejas de la Alhambra: techos de madera tallada y azulejos'
+accesibilidad: El operador no indica accesibilidad expresa para silla de ruedas. El tablao está en planta baja con escaleras hacia algunas zonas. Si la accesibilidad es factor crítico, consulta directamente al tablao antes de reservar o mira el Tablao Las Carboneras, que sí está marcado como accesible.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva ahora y paga después».
 preguntasFrecuentes:
-  - pregunta: "¿Cuál es la diferencia entre las opciones de ticket?"
-    respuesta: "Hay varias opciones: solo show (precio base ~30 euros), show + bebida, show + tapas, y show + menú completo de 3 platos con cocina española tradicional. Si quieres cenar y disfrutar de una velada completa, el menú vale la pena. Si tu interés es solo el flamenco, el ticket simple cumple — el show dura 1 hora y luego puedes salir a cenar fuera."
-  - pregunta: "¿Es apto para niños?"
-    respuesta: "Una reseña reciente recomienda expresamente «12+ children». El ambiente es local cerrado, el show dura 1 hora intensa y la decoración aunque preciosa puede no enganchar a niños pequeños. A partir de los 12 años empieza a funcionar; antes valora si tu hijo va a disfrutarlo."
-  - pregunta: "¿Cómo es la calidad de la comida si pido el menú?"
-    respuesta: "Las reseñas son positivas: «3 course meal with beverage AND an amazing performance - definitely worth it», «food was delicious too». Es cocina española tradicional, no alta cocina, pero cumple. La «relación calidad-precio» general del producto puntúa 4,3/5."
-  - pregunta: "¿Es un sitio auténtico o turístico?"
-    respuesta: "Es turístico — el tablao lleva en activo desde 1960 y es uno de los más conocidos de Madrid, con 10.330 reseñas en GetYourGuide. Eso significa que está orientado a viajero, no a aficionado experto. Pero los artistas son profesionales y el flamenco es real, no decorativo. Si buscas algo más íntimo y menos turístico, mira Las Carboneras."
-  - pregunta: "¿Cómo me aseguro un buen sitio?"
-    respuesta: "Llega pronto (1 hora antes si reservas cena, 20 minutos si reservas solo show). Las mesas se asignan en el momento. Las reseñas se quejan recurrentemente de los asientos laterales — pide explícitamente mesa central o frontal al llegar; no siempre te la darán pero merece intentarlo."
+- pregunta: ¿Cuál es la diferencia entre las opciones de ticket?
+  respuesta: 'Hay varias opciones: solo show (precio base ~30 euros), show + bebida, show + tapas, y show + menú completo de 3 platos con cocina española tradicional. Si quieres cenar y disfrutar de una velada completa, el menú vale la pena. Si tu interés es solo el flamenco, el ticket simple cumple — el show dura 1 hora y luego puedes salir a cenar fuera.'
+- pregunta: ¿Es apto para niños?
+  respuesta: Una reseña reciente recomienda expresamente «12+ children». El ambiente es local cerrado, el show dura 1 hora intensa y la decoración aunque preciosa puede no enganchar a niños pequeños. A partir de los 12 años empieza a funcionar; antes valora si tu hijo va a disfrutarlo.
+- pregunta: ¿Cómo es la calidad de la comida si pido el menú?
+  respuesta: 'Las reseñas son positivas: «3 course meal with beverage AND an amazing performance - definitely worth it», «food was delicious too». Es cocina española tradicional, no alta cocina, pero cumple. La «relación calidad-precio» general del producto puntúa 4,3/5.'
+- pregunta: ¿Es un sitio auténtico o turístico?
+  respuesta: Es turístico — el tablao lleva en activo desde 1960 y es uno de los más conocidos de Madrid, con 10.330 reseñas en GetYourGuide. Eso significa que está orientado a viajero, no a aficionado experto. Pero los artistas son profesionales y el flamenco es real, no decorativo. Si buscas algo más íntimo y menos turístico, mira Las Carboneras.
+- pregunta: ¿Cómo me aseguro un buen sitio?
+  respuesta: Llega pronto (1 hora antes si reservas cena, 20 minutos si reservas solo show). Las mesas se asignan en el momento. Las reseñas se quejan recurrentemente de los asientos laterales — pide explícitamente mesa central o frontal al llegar; no siempre te la darán pero merece intentarlo.
+variantes:
+- flamenco-tablao-las-carboneras
+opinionEditorial: 'Es el tablao con mayor volumen de validación de Madrid en GetYourGuide: 4,5/5 sobre 10.330 reseñas, certificado por GetYourGuide y «likely to sell out». Abierto en 1960 con decoración inspirada en las Torres Bermejas de la Alhambra (techos de madera tallada, azulejos árabes), está en plena zona Gran Vía. Precio base muy competitivo —en torno a 30 euros— y un catálogo de opciones de cena que va desde bebida suelta hasta menú de 3 platos.
 
-variantes: ["flamenco-tablao-las-carboneras"]
-
-opinionEditorial: |
-  Es el tablao con mayor volumen de validación de Madrid en GetYourGuide: 4,5/5 sobre 10.330 reseñas, certificado por GetYourGuide y «likely to sell out». Abierto en 1960 con decoración inspirada en las Torres Bermejas de la Alhambra (techos de madera tallada, azulejos árabes), está en plena zona Gran Vía. Precio base muy competitivo —en torno a 30 euros— y un catálogo de opciones de cena que va desde bebida suelta hasta menú de 3 platos.
 
   Lo que conviene saber. Es producto turístico — no esperes la intimidad de un tablao pequeño de barrio. Los asientos laterales tienen peor visión del escenario y es una queja recurrente: si llegas justo de tiempo, te tocan los peores. Mejor llegar 20 minutos antes (o 1 hora antes si reservas cena) y pedir mesa central al entrar. La cena recibe valoración positiva en reseñas, pero si solo quieres ver el show, el ticket base de 30 euros es suficiente: 1 hora intensa y luego cenas fuera.
 
+
   Para quién: viajeros que quieren show flamenco accesible, en zona muy céntrica, con opción de cena en el mismo sitio para no romper la noche. Familias con adolescentes (de 12 años en adelante). Para quién NO: viajeros con movilidad reducida (el operador no marca accesibilidad expresa — mira Las Carboneras), niños menores de 12 años, y quien busque flamenco íntimo y poco turístico (aquí hay 10.000+ reseñas: el formato es masivo aunque con calidad).
 
+  '
 atraccionesRelacionadas:
 - flamenco
-categoria: "espectaculos"
-keywords: ["flamenco torres bermejas", "tablao madrid gran via", "flamenco show cena madrid", "tablao torres bermejas precio", "show flamenco madrid centro"]
-
-imagen: "/images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-baile-flamenco-escenario.webp"
-imagenAlt: "Cuadro flamenco bailando en el escenario del Tablao Torres Bermejas, con su decoración de inspiración nazarí"
-
+categoria: espectaculos
+keywords:
+- flamenco torres bermejas
+- tablao madrid gran via
+- flamenco show cena madrid
+- tablao torres bermejas precio
+- show flamenco madrid centro
+imagen: /images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-baile-flamenco-escenario.webp
+imagenAlt: Cuadro flamenco bailando en el escenario del Tablao Torres Bermejas, con su decoración de inspiración nazarí
 galeria:
 - src: /images/actividades/madrid/torres-bermejas-oficial/torres-bermejas-oficial-bailaora-lunares.webp
-  alt: "Bailaora de lunares bajo los arcos de Torres Bermejas"
+  alt: Bailaora de lunares bajo los arcos de Torres Bermejas
 - src: /images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-pareja-baile.webp
-  alt: "Pareja de bailaores con trajes rojos en el escenario del Tablao Torres Bermejas"
+  alt: Pareja de bailaores con trajes rojos en el escenario del Tablao Torres Bermejas
 - src: /images/actividades/madrid/torres-bermejas-oficial/torres-bermejas-oficial-cuadro-azul.webp
-  alt: "Cuadro flamenco con bailaora de azul en Torres Bermejas"
+  alt: Cuadro flamenco con bailaora de azul en Torres Bermejas
 - src: /images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-arcos-salon.webp
-  alt: "Salón del Tablao Torres Bermejas con arcos y yeserías de estilo nazarí"
+  alt: Salón del Tablao Torres Bermejas con arcos y yeserías de estilo nazarí
 - src: /images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-guitarrista.webp
-  alt: "Guitarrista y cantaor en el escenario iluminado del Tablao Torres Bermejas"
+  alt: Guitarrista y cantaor en el escenario iluminado del Tablao Torres Bermejas
 - src: /images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-columnas-azulejos.webp
-  alt: "Columnas de azulejos y escenario del Tablao Torres Bermejas"
+  alt: Columnas de azulejos y escenario del Tablao Torres Bermejas
 - src: /images/actividades/madrid/torres-bermejas/tablao-torres-bermejas-escenario-sillas.webp
-  alt: "Escenario del Tablao Torres Bermejas con sillas de enea y decoración mudéjar"
+  alt: Escenario del Tablao Torres Bermejas con sillas de enea y decoración mudéjar
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp
-  alt: "Plaza de Callao de noche, a pocos pasos del Tablao Torres Bermejas"
+  alt: Plaza de Callao y el edificio Carrión de noche
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-great-way-spain-city-center-hero.webp
-  alt: "Edificio Capitol en la plaza de Callao, junto a la calle Mesonero Romanos"
+  alt: Edificio Capitol en la plaza de Callao, junto a la calle Mesonero Romanos
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
-  alt: "Vista aérea de la Gran Vía de Madrid al atardecer, con el edificio Metrópolis"
-
+  alt: Vista aérea de la Gran Vía de Madrid al atardecer, con el edificio Metrópolis
 ratingProveedor: 4.5
 numeroOpiniones: 10330
-
 publicada: true
 destacada: true
-fecha: "2026-05-17"
-fecha_actualizacion: "2026-05-17"
-
-# TODO: no hay imagen específica del Tablao Torres Bermejas. Usado placeholder de Gran Vía por proximidad geográfica.
+fecha: '2026-05-17'
+fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
-  - "flamenco-madrid-que-tablao-elegir"
+- flamenco-madrid-que-tablao-elegir
 ---
 
 ## Qué vas a ver

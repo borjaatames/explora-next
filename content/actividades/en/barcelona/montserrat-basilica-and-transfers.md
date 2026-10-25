@@ -2,8 +2,7 @@
 titulo: Montserrat with Transfers and Basilica Entry from Barcelona
 slug: montserrat-basilica-and-transfers
 ciudad: barcelona
-descripcion: 6-hour excursion with round-trip coach from Barcelona, guided monastery tour and basilica entry + 3 hours of
-  free time. The most affordable option in the comparator.
+descripcion: 6-hour excursion with round-trip coach from Barcelona, guided monastery tour and basilica entry + 3 hours of free time. The most affordable option in the comparator.
 slugs:
   en: montserrat-basilica-and-transfers
   es: montserrat-basilica-y-traslados
@@ -38,8 +37,7 @@ noIncluye:
 - Funicular tickets
 puntoEncuentro:
   texto: Pg. de Colom, 7, Barcelona (2 departure options depending on booking)
-  descripcionGuia: First you head to a bar in central Barcelona where you meet the day's guide. The guide travels with you
-    to the mountains. Confirm the exact departure option in your booking.
+  descripcionGuia: First you head to a bar in central Barcelona where you meet the day's guide. The guide travels with you to the mountains. Confirm the exact departure option in your booking.
   latitud: 41.3787
   longitud: 2.1782
   zoom: 17
@@ -57,43 +55,31 @@ informacionImportante:
   noAptoPara:
   - Travelers with very limited mobility
   aTenerEnCuenta:
-  - The operator clearly distinguishes between «the monastery» (the complex, included in the tour), «the basilica» (interior
-    space, included) and «the Throne Room where the Moreneta is» (NOT included)
+  - The operator clearly distinguishes between «the monastery» (the complex, included in the tour), «the basilica» (interior space, included) and «the Throne Room where the Moreneta is» (NOT included)
   - Throne Room and Choir tickets are available on the spot but tend to sell out; book in advance if interested
   - Hiking trails are optional; the tour is suitable for all mobility levels if you don't hike
-accesibilidad: Tour with a short walking section during the guided monastery visit. Free time allows your own pace, but the
-  mountain has ramps and uneven surfaces.
+accesibilidad: Tour with a short walking section during the guided monastery visit. Free time allows your own pace, but the mountain has ramps and uneven surfaces.
 politicaCancelacion: Free cancellation up to 24 hours before with full refund.
 preguntasFrecuentes:
 - pregunta: Is the Black Madonna entry included?
-  respuesta: No. This variant includes the monastery complex tour + basilica entry (the church interior), but NOT the Throne
-    Room where the Moreneta is. Those tickets are bought separately on site and tend to sell out — book in advance if you
-    want them or choose a variant that includes them.
+  respuesta: No. This variant includes the monastery complex tour + basilica entry (the church interior), but NOT the Throne Room where the Moreneta is. Those tickets are bought separately on site and tend to sell out — book in advance if you want them or choose a variant that includes them.
 - pregunta: What do I do with the 3 hours of free time?
-  respuesta: 'Typical options: ride the Sant Joan funicular (ticket on site) for spectacular views, do a gentle hike, visit
-    the monastery museum, eat at the buffet with views, or stroll through the local market.'
+  respuesta: 'Typical options: ride the Sant Joan funicular (ticket on site) for spectacular views, do a gentle hike, visit the monastery museum, eat at the buffet with views, or stroll through the local market.'
 - pregunta: Is food included?
-  respuesta: No. Bring snacks or budget €15-25 to eat at the monastery's buffet (with views) or at one of the kiosks in the
-    area.
+  respuesta: No. Bring snacks or budget €15-25 to eat at the monastery's buffet (with views) or at one of the kiosks in the area.
 - pregunta: What language does the guide speak?
   respuesta: English and Spanish, with separate options based on the booking. Select the language when booking.
 - pregunta: How long does it take to get there?
-  respuesta: 'About 75 minutes by coach from central Barcelona. The return is similar. Total is 6 hours: ~2.5h of transport,
-    1h guided tour and 3h of free time.'
+  respuesta: 'About 75 minutes by coach from central Barcelona. The return is similar. Total is 6 hours: ~2.5h of transport, 1h guided tour and 3h of free time.'
 variantes:
 - montserrat-rack-railway-black-madonna
 - montserrat-full-day-with-audio-guide
 - montserrat-half-day-small-group
 - montserrat-cable-car-and-easy-hike-small-group
-opinionEditorial: 'The cheapest option in the comparator (€41 with offer) and the cleanest: no extras, no rack railway, just
-  coach + monastery + basilica + 3 hours for you. For someone who wants to see Montserrat on a budget and use the free time
-  their own way, it''s hard to beat at this price.
+opinionEditorial: 'The cheapest option in the comparator (€41 with offer) and the cleanest: no extras, no rack railway, just coach + monastery + basilica + 3 hours for you. For someone who wants to see Montserrat on a budget and use the free time their own way, it''s hard to beat at this price.
 
 
-  Worth knowing: it does NOT include the Moreneta (the Black Madonna), which is what many people expect. If you want to touch
-  her, book a variant that includes it explicitly or buy the ticket separately on site (usually sells out). And the 3 free
-  hours are a double-edged sword: if you go with a clear plan (specific trail, funicular, museum) it''s ideal; if you''ll
-  improvise, you may not know what to do.
+  Worth knowing: it does NOT include the Moreneta (the Black Madonna), which is what many people expect. If you want to touch her, book a variant that includes it explicitly or buy the ticket separately on site (usually sells out). And the 3 free hours are a double-edged sword: if you go with a clear plan (specific trail, funicular, museum) it''s ideal; if you''ll improvise, you may not know what to do.
 
   '
 categoria: excursionesDia
@@ -103,8 +89,8 @@ keywords:
 - montserrat basilica tour
 - budget montserrat excursion
 - montserrat from barcelona
-imagen: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
-imagenAlt: Montserrat mountain landscape with dramatic rock formations near Barcelona
+imagen: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+imagenAlt: Statue of Abbot Oliba among the greenery of Montserrat
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero-hero.webp
   alt: Rocky peaks of Montserrat mountain near Barcelona with dramatic landscape formations
@@ -121,6 +107,7 @@ destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:
 - montserrat
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

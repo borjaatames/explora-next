@@ -79,7 +79,7 @@ keywords:
 - tour montserrat grupo reducido
 - montserrat moreneta entradas
 imagen: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-imagenAlt: Monasterio de Montserrat entre las agujas de roca de la montaña
+imagenAlt: Estatua del abad Oliba entre la vegetación de Montserrat
 ratingProveedor: 4.8
 numeroOpiniones: 311
 publicada: true
@@ -99,7 +99,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/1c248131-d79f-4a98-91be-0d3dd1f112a7.jpg
   alt: Puesto del mercado de productores de Montserrat
 bokunProductId: 217561
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Cómo es el día

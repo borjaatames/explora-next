@@ -1,8 +1,8 @@
 ---
-titulo: "Salamanca a tu ritmo: tour autoguiado DareMapp"
+titulo: 'Salamanca a tu ritmo: tour autoguiado DareMapp'
 slug: tour-autoguiado-daremapp-salamanca
 ciudad: salamanca
-descripcion: "Descubre Salamanca a tu ritmo con la audioguía autoguiada DareMapp: Plaza Mayor, Catedral y Universidad. Sin guía, disponible 24/7 todo el año, en 6 idiomas."
+descripcion: 'Descubre Salamanca a tu ritmo con la audioguía autoguiada DareMapp: Plaza Mayor, Catedral y Universidad. Sin guía, disponible 24/7 todo el año, en 6 idiomas.'
 slugs:
   es: tour-autoguiado-daremapp-salamanca
   en: self-guided-tour-daremapp-salamanca
@@ -19,14 +19,14 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1122488
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Recorre Salamanca a tu propio ritmo, sin horarios fijos ni grupos
 - Elige las paradas que quieras y sáltate las que no te interesen
-- "Escucha el audio cuando quieras: puedes pausar y reanudar en cualquier momento"
-- "Disponible las 24 horas del día, los 365 días del año: el acceso no caduca"
+- 'Escucha el audio cuando quieras: puedes pausar y reanudar en cualquier momento'
+- 'Disponible las 24 horas del día, los 365 días del año: el acceso no caduca'
 - Descubre la Plaza Mayor, la Catedral, el Convento de San Esteban y la Universidad de Salamanca, además de los rincones con más historia de la ciudad universitaria
 incluye:
 - Ir a tu propio ritmo, sin horarios ni grupos
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - Guía físico (es una experiencia 100% autónoma, sin acompañante)
 puntoEncuentro:
-  texto: "Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Salamanca"
+  texto: 'Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Salamanca'
 informacionImportante:
   aTenerEnCuenta:
-  - "Apto para toda la familia: edad mínima 1 año"
+  - 'Apto para toda la familia: edad mínima 1 año'
   - App disponible en español, inglés, portugués, francés, italiano y alemán
   - Compatible con silla de ruedas y cochecito de bebé; se permiten animales de servicio
   - Buen acceso a transporte público en la zona de la ruta
@@ -50,36 +50,36 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación."
-opinionEditorial: "Es la opción ideal si quieres moverte por Salamanca a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación.
+opinionEditorial: 'Es la opción ideal si quieres moverte por Salamanca a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien.'
 categoria: visitasGuiadas
 keywords:
 - tour autoguiado salamanca
 - audioguía salamanca
 - visita autoguiada salamanca app
-imagen: "/images/actividades/salamanca/universidad/fachada-universidad.webp"
-imagenAlt: "Fachada plateresca de la Universidad de Salamanca"
+imagen: /images/actividades/salamanca/universidad/fachada-universidad.webp
+imagenAlt: Fachada plateresca de la Universidad de Salamanca
 galeria:
-- src: "/images/actividades/salamanca/plaza/plaza-mayor-soportales.webp"
-  alt: "Soportales de la Plaza Mayor de Salamanca"
+- src: /images/actividades/salamanca/plaza/plaza-mayor-soportales.webp
+  alt: Soportales de la Plaza Mayor de Salamanca
 - src: /images/actividades/salamanca/plaza/plaza-mayor-ayuntamiento.webp
-  alt: "Fachada del Ayuntamiento en la Plaza Mayor"
+  alt: Fachada del Ayuntamiento en la Plaza Mayor
 - src: /images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero-hero.webp
-  alt: "Universidad de Salamanca, fachada histórica con arquitectura gótica y renacentista"
+  alt: Edificios históricos de Salamanca con las torres de la Clerecía
 - src: /images/actividades/salamanca/catedral/catedral-nueva-interior.webp
-  alt: "Interior de la Catedral Nueva"
+  alt: Interior de la Catedral Nueva
 - src: /images/actividades/salamanca/universidad/escuelas-menores.webp
-  alt: "Patio de las Escuelas Menores"
+  alt: Patio de las Escuelas Menores
 - src: /images/actividades/salamanca/universidad/biblioteca.webp
-  alt: "Biblioteca histórica de la Universidad"
+  alt: Biblioteca histórica de la Universidad
 - src: https://imgcdn.bokun.tools/ad2730e5-b06d-46f4-9cc4-f99c2b5db9ba.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
+  alt: Aplicación DaremApp con el recorrido autoguiado
 atraccionesRelacionadas:
-  - casco-historico
+- casco-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a descubrir

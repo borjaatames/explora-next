@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp
   alt: alcazar of segovia, castle, segovia, fortress, architecture
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
-  alt: Catedral Metropolitana de Toledo con arquitectura gótica y torre campanario al atardecer
+  alt: Fachada principal de la catedral de Toledo
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
   alt: Sala interior del Alcázar de Segovia decorada en rojo y dorado, con retratos reales en las paredes.
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
@@ -100,7 +100,7 @@ galeria:
 - src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero-hero.webp
   alt: Acueducto de Segovia visto desde la Plaza de la Artillería, monumento romano en la ciudad
 - src: /images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp
-  alt: Vistas panorámicas de Toledo con arquitectura medieval y río Tajo al atardecer
+  alt: Calle empedrada con arco en el casco antiguo de Toledo
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
   alt: Sala de los Reyes del Alcázar de Segovia, con dosel rojo y figuras con armadura.
 - src: /images/actividades/toledo/puerta-bisagra-toledo/wikimedia-31361444-hero.webp
@@ -116,7 +116,7 @@ numeroOpiniones: 10421
 publicada: true
 destacada: true
 fecha: '2026-05-06'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

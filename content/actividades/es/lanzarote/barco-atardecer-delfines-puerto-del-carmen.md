@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Lanzarote: barco al atardecer para ver delfines'
 slug: barco-atardecer-delfines-puerto-del-carmen
 ciudad: lanzarote
-descripcion: 'Paseo de 2 horas en catamarán al atardecer desde Puerto del Carmen, con mojito de bienvenida, una bebida, caja de picoteo, parada para nadar y traslados. 4,2/5 con más de 3.200 reseñas.'
+descripcion: Paseo de 2 horas en catamarán al atardecer desde Puerto del Carmen, con mojito de bienvenida, una bebida, caja de picoteo, parada para nadar y traslados. 4,2/5 con más de 3.200 reseñas.
 slugs:
   es: barco-atardecer-delfines-puerto-del-carmen
   en: lanzarote-sunset-dolphin-cruise
@@ -35,7 +35,7 @@ incluye:
 noIncluye:
 - Propinas
 puntoEncuentro:
-  texto: 'Puerto deportivo y pesquero de Puerto del Carmen, o uno de los 17 puntos de recogida de la isla.'
+  texto: Puerto deportivo y pesquero de Puerto del Carmen, o uno de los 17 puntos de recogida de la isla.
   descripcionGuia: 'La recogida en Puerto Calero solo funciona los jueves y no hay recogida en Playa Blanca los domingos, lunes ni miércoles. Si reservas con menos de 24 horas, ve directamente al puerto: hay aparcamiento gratuito, pero con pocas plazas.'
   latitud: 28.9196
   longitud: -13.668
@@ -61,13 +61,13 @@ accesibilidad: No admite sillas de ruedas no plegables ni scooters eléctricos.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro. Si se cancela por mal tiempo, eliges otra fecha o te devuelven el dinero.
 preguntasFrecuentes:
 - pregunta: ¿Se ven delfines seguro?
-  respuesta: 'No. El barco pasa por zonas donde suelen verse, pero el operador avisa de que no está garantizado y no reembolsa ni cambia la fecha si no aparecen.'
+  respuesta: No. El barco pasa por zonas donde suelen verse, pero el operador avisa de que no está garantizado y no reembolsa ni cambia la fecha si no aparecen.
 - pregunta: ¿A qué hora sale?
-  respuesta: 'Depende de la época del año, porque se ajusta a la puesta de sol. La hora exacta aparece al elegir fecha.'
+  respuesta: Depende de la época del año, porque se ajusta a la puesta de sol. La hora exacta aparece al elegir fecha.
 - pregunta: ¿Qué incluye de comer y beber?
-  respuesta: 'Un mojito de bienvenida, una bebida a elegir (mojito, cerveza, vino o refresco) y una caja individual de picoteo.'
+  respuesta: Un mojito de bienvenida, una bebida a elegir (mojito, cerveza, vino o refresco) y una caja individual de picoteo.
 - pregunta: ¿Hay recogida en Playa Blanca?
-  respuesta: 'Sí, salvo los domingos, lunes y miércoles. En Puerto Calero solo los jueves.'
+  respuesta: Sí, salvo los domingos, lunes y miércoles. En Puerto Calero solo los jueves.
 opinionEditorial: 'Es un plan de tarde agradable para ver la costa sur con la luz del atardecer y una copa, más que una excursión de avistamiento: los delfines no están garantizados y la nota (4,2) refleja que no siempre aparecen. Si lo que te importa son los cetáceos, Tenerife o La Gomera dan más probabilidades; si quieres mar y puesta de sol sin complicarte, cumple.'
 guiasRelacionadas:
 - que-ver-en-lanzarote
@@ -81,14 +81,22 @@ keywords:
 imagen: /images/actividades/lanzarote/barco-delfines.webp
 imagenAlt: Delfines nadando junto a un catamarán
 galeria:
-- src: "/images/actividades/lanzarote/zonas/costa-sur-papagayo.webp"
-  alt: "Costa sur de Lanzarote junto a las playas de Papagayo"
-- src: "/images/actividades/lanzarote/zonas/arrecife-charco-san-gines.webp"
-  alt: "Barcas en el Charco de San Ginés, en Arrecife"
-- src: "/images/actividades/lanzarote/zonas/casas-blancas-mar.webp"
-  alt: "Casas blancas de puertas azules frente al mar en Lanzarote"
-- src: "/images/actividades/lanzarote/zonas/los-hervideros.webp"
-  alt: "Acantilados de lava en Los Hervideros, con volcanes al fondo"
+- src: /images/actividades/lanzarote/barco-atardecer/catamaran-silueta-atardecer.webp
+  alt: Silueta de un catamarán navegando al atardecer
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: Costa sur de Lanzarote junto a las playas de Papagayo
+- src: /images/actividades/lanzarote/barco-atardecer/puesta-sol-puerto-del-carmen.webp
+  alt: Puesta de sol sobre el mar en la costa de Puerto del Carmen
+- src: /images/actividades/lanzarote/zonas/arrecife-charco-san-gines.webp
+  alt: Barcas en el Charco de San Ginés, en Arrecife
+- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
+  alt: Barcos de excursión en el puerto de Puerto del Carmen
+- src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
+  alt: Casas blancas de puertas azules frente al mar en Lanzarote
+- src: /images/actividades/lanzarote/barco-atardecer/banistas-junto-al-barco.webp
+  alt: Bañistas nadando junto a un barco fondeado
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: Acantilados de lava en Los Hervideros, con volcanes al fondo
 ratingProveedor: 4.2
 numeroOpiniones: 3237
 atraccionesRelacionadas:
@@ -96,7 +104,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

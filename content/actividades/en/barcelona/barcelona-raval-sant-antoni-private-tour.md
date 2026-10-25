@@ -78,10 +78,16 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/raval/palau-guell-fachada.webp
+  alt: Façade of Gaudí's Palau Güell on carrer Nou de la Rambla, in El Raval
 - src: /images/actividades/barcelona/raval/macba-placa-angels.webp
   alt: White MACBA building on Plaça dels Àngels
+- src: /images/actividades/barcelona/raval/antic-hospital-santa-creu-jardin.webp
+  alt: Garden of the former Hospital de la Santa Creu, in El Raval, seen through an arch
 - src: /images/actividades/barcelona/raval/rambla-del-raval.webp
   alt: Rambla del Raval with palm trees seen from Carrer de l'Hospital
+- src: /images/actividades/barcelona/tapas/pintxo-gilda-anchoas.webp
+  alt: Pintxos of olives, chilli peppers and anchovies on a platter
 - src: /images/actividades/barcelona/raval/mercat-sant-antoni-fachada.webp
   alt: Iron facade of the Mercat de Sant Antoni
 - src: /images/actividades/barcelona/raval/mercat-sant-antoni-puestos.webp
@@ -93,7 +99,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/3992067b-a428-48fb-ad6a-027050c6bbc5.jpg
   alt: Traveller with her guide outside a red-brick market
 bokunProductId: 217568
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## The route

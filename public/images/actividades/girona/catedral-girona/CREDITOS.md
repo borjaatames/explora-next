@@ -15,3 +15,6 @@ Origen: `E:\imagenes-master\_descargas-2026-10-23b\girona--catedral\` (23 oct 20
 
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `catedral-girona-hero.webp` — Jose Rodriguez Ortega, licencia Pexels, vía Pexels (https://www.pexels.com/photo/36639285/)
+- `catedral-girona-nave-gotica.webp` — Josep Renalias · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Catedral_de_Girona_-_Nau_central_des_de_darrera_orgue.JPG
+- `museu-art-palau-episcopal.webp` — Eboix · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Fa%C3%A7ana_Palau_Episcopal._Museu_d%27Art.JPG
+- `sant-feliu-nave.webp` — Richard Mortel · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Girona%2C_Eglesia_de_Sant_Feliu%2C_14th_century_%284%29_%2831319385135%29.jpg

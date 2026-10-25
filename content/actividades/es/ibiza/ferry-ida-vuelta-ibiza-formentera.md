@@ -68,9 +68,13 @@ keywords:
 - billete barco formentera
 - como ir a formentera desde ibiza
 - trasmapi formentera
-imagen: /images/actividades/ibiza/formentera/ses-illetes.webp
-imagenAlt: Playa de Ses Illetes en Formentera
+imagen: /images/actividades/ibiza/formentera/ferry-rapido-llegando-ibiza.webp
+imagenAlt: Ferry rápido de Formentera llegando al puerto de Ibiza
 galeria:
+- src: /images/actividades/ibiza/formentera/ferry-trasmapi-dalt-vila.webp
+  alt: Ferry rápido en el puerto de Ibiza con Dalt Vila al fondo
+- src: /images/actividades/ibiza/formentera/ses-illetes.webp
+  alt: Playa de Ses Illetes en Formentera
 - src: /images/actividades/ibiza/formentera/estacion-maritima.webp
   alt: Estación marítima de los barcos a Formentera en Ibiza
 - src: /images/actividades/ibiza/formentera/la-savina.webp
@@ -90,7 +94,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

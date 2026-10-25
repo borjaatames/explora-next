@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Fuerteventura: Calderón Hondo volcano by night and stargazing'
 slug: calderon-hondo-volcano-stargazing-tour
 ciudad: fuerteventura
-descripcion: '3-hour guided night walk to the crater of Calderón Hondo near Lajares, with stargazing and legends of fire and sky from the island''s first inhabitants. Optional transfer from Corralejo and El Cotillo. Rated 4.8/5 from more than 1,000 reviews.'
+descripcion: 3-hour guided night walk to the crater of Calderón Hondo near Lajares, with stargazing and legends of fire and sky from the island's first inhabitants. Optional transfer from Corralejo and El Cotillo. Rated 4.8/5 from more than 1,000 reviews.
 slugs:
   es: calderon-hondo-volcan-estrellas
   en: calderon-hondo-volcano-stargazing-tour
@@ -69,7 +69,7 @@ preguntasFrecuentes:
   respuesta: The operator doesn't refund if clouds prevent stargazing. That's why it asks you to book three days ahead.
 - pregunta: Is there pickup?
   respuesta: Only if you choose the transfer option, from Corralejo, El Cotillo and Puerto del Rosario.
-opinionEditorial: "One of the best-rated activities in the north, and for good reason: the guide turns a short walk into a lesson in astronomy and island history. By day you can climb Calderón Hondo on your own for free, so what you're paying for is the night and the storytelling. Check the cloud forecast before you confirm."
+opinionEditorial: 'One of the best-rated activities in the north, and for good reason: the guide turns a short walk into a lesson in astronomy and island history. By day you can climb Calderón Hondo on your own for free, so what you''re paying for is the night and the storytelling. Check the cloud forecast before you confirm.'
 guiasRelacionadas:
 - what-to-see-in-fuerteventura
 - lobos-island-how-to-get-there
@@ -80,16 +80,20 @@ keywords:
 - fuerteventura volcano tour
 - lajares volcano
 imagen: /images/actividades/fuerteventura/zonas/calderon-hondo-crater.webp
-imagenAlt: "The crater of the Calderón Hondo volcano"
+imagenAlt: The crater of the Calderón Hondo volcano
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp"
-  alt: "The rim of the Calderón Hondo crater"
-- src: "/images/actividades/fuerteventura/zonas/volcanes-norte.webp"
-  alt: "Volcanic cones in northern Fuerteventura"
-- src: "/images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp"
-  alt: "The old harbour at El Cotillo"
-- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-arena.webp"
-  alt: "Sand and scrub in the Corralejo dunes"
+- src: /images/actividades/fuerteventura/zonas/via-lactea-fuerteventura.webp
+  alt: The Milky Way in the night sky over Fuerteventura
+- src: /images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp
+  alt: The rim of the Calderón Hondo crater
+- src: /images/actividades/fuerteventura/zonas/cielo-estrellado-volcan.webp
+  alt: Starry sky over the silhouette of a volcano
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: Volcanic cones in northern Fuerteventura
+- src: /images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp
+  alt: The old harbour at El Cotillo
+- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-arena.webp
+  alt: Sand and scrub in the Corralejo dunes
 ratingProveedor: 4.8
 numeroOpiniones: 1060
 atraccionesRelacionadas:
@@ -97,7 +101,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

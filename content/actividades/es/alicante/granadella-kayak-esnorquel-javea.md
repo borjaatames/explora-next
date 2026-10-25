@@ -71,9 +71,15 @@ keywords:
 - kayak granadella
 - kayak javea
 - cova del llop mari kayak
-imagen: /images/actividades/alicante/granadella/granadella-01.webp
-imagenAlt: Cala Granadella con su agua turquesa
+imagen: /images/actividades/alicante/granadella/kayaks-cala-acantilados.webp
+imagenAlt: Kayaks junto a los acantilados de una cala mediterránea de aguas turquesas
 galeria:
+- src: /images/actividades/alicante/granadella/kayaks-banistas-cala.webp
+  alt: Kayaks y bañistas en una cala de aguas turquesas entre acantilados del Mediterráneo
+- src: /images/actividades/alicante/granadella/granadella-01.webp
+  alt: Cala Granadella con su agua turquesa
+- src: /images/actividades/alicante/granadella/esnorquel-costa-rocosa.webp
+  alt: Persona haciendo esnórquel sobre un fondo de rocas junto a la costa
 - src: /images/actividades/alicante/granadella/granadella-02.webp
   alt: Acantilados junto a la cala Granadella
 - src: /images/actividades/alicante/granadella/granadella-03.webp
@@ -95,7 +101,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué verás

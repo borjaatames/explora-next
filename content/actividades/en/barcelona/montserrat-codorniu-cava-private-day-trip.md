@@ -93,7 +93,7 @@ galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-abadia.webp
   alt: Montserrat Monastery at the foot of the rock pinnacles
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Panoramic view of Montserrat's rock formations at sunset
+  alt: Statue of Abbot Oliba among the greenery of Montserrat
 - src: https://imgcdn.bokun.tools/328a1a6e-f150-4e56-8510-87ffe45b24e6.jpg
   alt: Art Nouveau building of the Codorníu cava cellars under a blue sky
 - src: https://imgcdn.bokun.tools/33970ab4-543f-4b02-8485-5de25cabbb7a.jpg
@@ -101,7 +101,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/ac231d86-cd2d-4c5f-9961-1e9833bc521e.jpg
   alt: Art Nouveau arched hall at the winery
 bokunProductId: 242957
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## How the day works

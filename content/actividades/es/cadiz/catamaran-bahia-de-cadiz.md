@@ -73,13 +73,19 @@ keywords:
 - catamaran bahia de cadiz
 - tour barco cadiz
 - cadiz en barco
-imagen: /images/actividades/cadiz/mar/castillo-santa-catalina.webp
-imagenAlt: Castillo de Santa Catalina junto al mar
+imagen: /images/actividades/cadiz/catamaran/catamaran-bahia-cadiz-navegando.webp
+imagenAlt: Catamarán de pasajeros navegando por la bahía de Cádiz
 galeria:
-- src: "/images/actividades/cadiz/ciudades/cadiz-hero.webp"
-  alt: "Monumento a la Constitución de 1812 en la plaza de España de Cádiz"
-- src: "/images/actividades/cadiz/mar/bahia-atardecer.webp"
-  alt: "Atardecer sobre la bahía de Cádiz con barcas fondeadas"
+- src: /images/actividades/cadiz/catamaran/velero-catedral-cadiz.webp
+  alt: Velero navegando frente a la catedral de Cádiz
+- src: /images/actividades/cadiz/mar/castillo-santa-catalina.webp
+  alt: Castillo de Santa Catalina junto al mar
+- src: /images/actividades/cadiz/catamaran/catamaran-saliendo-puerto-cadiz.webp
+  alt: Catamarán saliendo del puerto de Cádiz hacia la bahía
+- src: /images/actividades/cadiz/ciudades/cadiz-hero.webp
+  alt: Monumento a la Constitución de 1812 en la plaza de España de Cádiz
+- src: /images/actividades/cadiz/mar/bahia-atardecer.webp
+  alt: Atardecer sobre la bahía de Cádiz con barcas fondeadas
 - src: /images/actividades/cadiz/mar/puente-1812-noche.webp
   alt: Puente de la Constitución de 1812 iluminado de noche
 - src: /images/actividades/cadiz/mar/catedral-campo-sur.webp
@@ -99,7 +105,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

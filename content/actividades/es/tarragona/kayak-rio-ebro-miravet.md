@@ -75,9 +75,15 @@ keywords:
 - kayak miravet
 - ruta kayak tarragona
 - rio ebro kayak
-imagen: /images/actividades/tarragona/ebro/castillo-rio.webp
-imagenAlt: El Ebro desde el castillo de Miravet
+imagen: /images/actividades/tarragona/ebro/kayaks-ebro-benissanet.webp
+imagenAlt: Kayaks bajando el Ebro con la isla de Benissanet al fondo, cerca de Miravet
 galeria:
+- src: /images/actividades/tarragona/ebro/piraguistas-ebro-miravet.webp
+  alt: Piragüistas en el Ebro vistos desde el Cap de la Vila de Miravet
+- src: /images/actividades/tarragona/ebro/castillo-rio.webp
+  alt: El Ebro desde el castillo de Miravet
+- src: /images/actividades/tarragona/ebro/illa-benissanet-ribera.webp
+  alt: Bosque de ribera de la isla de Benissanet en el Ebro
 - src: /images/actividades/tarragona/ebro/ebro-miravet.webp
   alt: El río Ebro a su paso por Miravet
 - src: /images/actividades/tarragona/ebro/castillo-miravet.webp
@@ -101,7 +107,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

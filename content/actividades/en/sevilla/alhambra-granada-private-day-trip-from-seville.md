@@ -69,15 +69,15 @@ keywords:
 - granada day trip from seville private
 - alhambra tour from seville
 imagen: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
-imagenAlt: Panoramic view of Granada from the Alhambra
+imagenAlt: The Albaicín seen from the Alhambra gardens
 galeria:
-- src: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero-hero.webp"
-  alt: "Generalife gardens at the Alhambra of Granada"
-- src: "/images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp"
-  alt: "Patio de los Arrayanes at the Alhambra"
-- src: "/images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp"
-  alt: "Wine Gate at the Alhambra of Granada"
-- src: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp"
+- src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero-hero.webp
+  alt: Generalife gardens at the Alhambra of Granada
+- src: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp
+  alt: Patio de los Arrayanes at the Alhambra
+- src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
+  alt: Wine Gate at the Alhambra of Granada
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp
   alt: Ornate columns of Alhambra palace in Granada, Spain with Islamic geometric patterns
 - src: https://imgcdn.bokun.tools/aa9285f2-3bd3-4de9-97c1-c19aa04416c2.jpg
   alt: The Alhambra from the San Nicolás viewpoint
@@ -88,7 +88,7 @@ galeria:
 publicada: false
 destacada: false
 fecha: '2026-10-10'
-fecha_actualizacion: '2026-10-10'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

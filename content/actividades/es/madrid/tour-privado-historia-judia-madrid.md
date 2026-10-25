@@ -2,8 +2,7 @@
 titulo: Madrid judío, tour privado a pie sobre su historia
 slug: tour-privado-historia-judia-madrid
 ciudad: madrid
-descripcion: Tour privado a pie por el Madrid judío, con guía en exclusiva para tu
-  grupo, para descubrir una historia de más de mil años en la ciudad.
+descripcion: Tour privado a pie por el Madrid judío, con guía en exclusiva para tu grupo, para descubrir una historia de más de mil años en la ciudad.
 slugs:
   es: tour-privado-historia-judia-madrid
   en: madrid-jewish-history-private-walking-tour
@@ -16,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1105243
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 highlights:
 - Tour privado solo para tu grupo, con guía en exclusiva
@@ -29,8 +28,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Centro de Madrid (punto exacto confirmado al reservar)
-  descripcionGuia: El recorrido arranca en torno a la Comunidad Judía de Madrid;
-    el punto de encuentro exacto se confirma al hacer la reserva.
+  descripcionGuia: El recorrido arranca en torno a la Comunidad Judía de Madrid; el punto de encuentro exacto se confirma al hacer la reserva.
   latitud: 40.4168
   longitud: -3.7038
   zoom: 15
@@ -41,14 +39,8 @@ detallesPracticos:
   edadMinima: 0
   mascotasPermitidas: false
 accesibilidad: Recorrido a pie no accesible para sillas de ruedas. Dificultad baja.
-politicaCancelacion: Cancelación gratuita; se cobra el 100% si se cancela con 1 día
-  o menos de antelación.
-opinionEditorial: 'Es una visita de nicho y por eso funciona tan bien en privado:
-  el guía adapta el relato a lo que os interese y responde sin prisas. La historia
-  judía de Madrid es poco conocida y está muy ligada a la de España —siglos de convivencia,
-  tensión, exilio y regreso en el siglo XX—, así que se agradece contarla con tiempo
-  y contexto. Desde 249 € por grupo (300 € para 4 personas), es de las opciones privadas más asequibles
-  del catálogo.'
+politicaCancelacion: Cancelación gratuita; se cobra el 100% si se cancela con 1 día o menos de antelación.
+opinionEditorial: 'Es una visita de nicho y por eso funciona tan bien en privado: el guía adapta el relato a lo que os interese y responde sin prisas. La historia judía de Madrid es poco conocida y está muy ligada a la de España —siglos de convivencia, tensión, exilio y regreso en el siglo XX—, así que se agradece contarla con tiempo y contexto. Desde 249 € por grupo (300 € para 4 personas), es de las opciones privadas más asequibles del catálogo.'
 atraccionesRelacionadas:
 - tours-a-pie
 categoria: experienciasPrivadas
@@ -56,17 +48,17 @@ keywords:
 - tour privado madrid judio
 - historia judia madrid visita guiada
 - madrid sefardi tour
-imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
-imagenAlt: "Calles históricas del centro de Madrid"
+imagen: /images/actividades/madrid/lavapies/plaza-lavapies.webp
+imagenAlt: Plaza de Lavapiés, en el corazón de la antigua judería de Madrid
 galeria:
-- src: https://imgcdn.bokun.tools/a5a139f7-8aef-4a9f-8224-0776371c7ca7.jpg
-  alt: "Edificio histórico de ladrillo en el centro de Madrid"
-- src: https://imgcdn.bokun.tools/4bbb1531-f10a-4c51-9d03-8ed595ff00bf.jpg
-  alt: "Iglesia de ladrillo en el centro de Madrid"
-- src: https://imgcdn.bokun.tools/fb9bc168-1926-4ae4-9a48-6ac589e5d6cf.jpg
-  alt: "Palacio de Santa Cruz, en el centro de Madrid"
-- src: https://imgcdn.bokun.tools/a23c5684-e103-4e7f-90f8-38d40531e9fc.jpg
-  alt: "Calle del centro de Madrid con fachadas de ladrillo"
+- src: /images/actividades/madrid/lavapies/calle-de-la-fe.webp
+  alt: Calle de la Fe, la antigua calle de la Sinagoga, desde la plaza de Lavapiés
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
+  alt: Calles históricas del centro de Madrid
+- src: /images/actividades/madrid/lavapies/iglesia-san-lorenzo.webp
+  alt: Iglesia de San Lorenzo, al final de la calle de la Fe en Lavapiés
+- src: /images/actividades/madrid/lavapies/azulejo-calle-lavapies.webp
+  alt: Azulejo con el nombre de la calle de Lavapiés
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
   alt: Plaza de la Villa de Madrid, con la estatua de Alvaro de Bazan y el Torreon de los Lujanes
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp
@@ -81,10 +73,12 @@ galeria:
   alt: Azulejo con el escudo de Madrid y el nombre de la Plaza de la Villa
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp
   alt: Plaza de la Villa de Madrid iluminada de noche
+- src: https://imgcdn.bokun.tools/a5a139f7-8aef-4a9f-8224-0776371c7ca7.jpg
+  alt: Edificio histórico de ladrillo en el centro de Madrid
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-23'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

@@ -75,27 +75,39 @@ keywords:
 - barcelona walking tour with tapa
 - private guide barcelona
 imagen: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
-imagenAlt: Narrow medieval street in Barcelona's Gothic Quarter
+imagenAlt: Narrow street with balconies in Barcelona's old town
 ratingProveedor: 4.8
 numeroOpiniones: 16
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp
+  alt: Gothic façade of the Basilica of Santa Maria del Mar, in El Born
+- src: /images/actividades/barcelona/born/passeig-del-born.webp
+  alt: Passeig del Born, lined with trees and terraces
+- src: /images/actividades/barcelona/raval/palau-guell-fachada.webp
+  alt: Façade of Gaudí's Palau Güell on carrer Nou de la Rambla, in El Raval
+- src: /images/actividades/barcelona/gotico/placa-sant-felip-neri.webp
+  alt: Plaça de Sant Felip Neri with its fountain and church
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: Barcelona Cathedral, in the heart of the Gothic Quarter
+- src: /images/actividades/barcelona/gotico/placa-reial.webp
+  alt: Plaça Reial with palm trees and arcades in the Gothic Quarter
+- src: /images/actividades/barcelona/tapas/pintxo-gilda-anchoas.webp
+  alt: Pintxos of olives, chilli peppers and anchovies on a platter
 - src: https://imgcdn.bokun.tools/f9aa78e9-f547-46e8-a36f-e3ff364a52c7.jpg
   alt: Tour group in an old-town square
 - src: https://imgcdn.bokun.tools/cd037cdc-1849-4047-b047-a4382ec5777e.jpg
   alt: Traveller by the Art Nouveau letterbox with swallows and a turtle in the Gothic Quarter
 - src: https://imgcdn.bokun.tools/929a358d-121f-44d1-840f-55fb805de095.jpg
   alt: Travellers with their guide at a stall in La Boqueria
-- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
-  alt: Barcelona Cathedral, in the heart of the Gothic Quarter
 - src: https://imgcdn.bokun.tools/e2b5db48-f2b1-42b1-a6f3-5033270b5146.jpg
   alt: Travellers in front of a tiled mural of medieval Barcelona
 - src: https://imgcdn.bokun.tools/caa06b13-5730-48fa-b4cf-a7e954bbba13.jpg
   alt: Stone alleyway in Barcelona's old town
 bokunProductId: 217556
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## The route

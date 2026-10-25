@@ -81,16 +81,20 @@ keywords:
 imagen: /images/actividades/valencia/centro/lonja-fachada.webp
 imagenAlt: Gothic façade of the Silk Exchange
 galeria:
+- src: /images/actividades/valencia/centro/san-nicolas-altar-frescos.webp
+  alt: High altar and painted vaults of San Nicolás church, Valencia
 - src: /images/actividades/valencia/centro/torres-serranos.webp
-  alt: "Serranos Towers, the old city-wall gate of Valencia"
+  alt: Serranos Towers, the old city-wall gate of Valencia
+- src: /images/actividades/valencia/centro/san-nicolas-boveda.webp
+  alt: Baroque frescoed vault of San Nicolás church
 - src: /images/actividades/valencia/centro/lonja-naranjos.webp
   alt: Orange tree courtyard of the Silk Exchange
-- src: /images/actividades/valencia/centro/mercado-central-exterior.webp
-  alt: Exterior of Valencia's Central Market
-- src: /images/actividades/valencia/centro/mercado-central-interior.webp
-  alt: Art Nouveau interior of the Central Market
+- src: /images/actividades/valencia/centro/catedral-nave-central.webp
+  alt: Central nave of Valencia Cathedral
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
   alt: Plaza de la Virgen with the basilica and cathedral
+- src: /images/actividades/valencia/centro/plaza-reina-micalet.webp
+  alt: Plaza de la Reina with the Micalet and Valencia Cathedral
 - src: /images/actividades/valencia/centro/catedral-puerta.webp
   alt: Valencia Cathedral door on Plaza de la Virgen
 - src: /images/actividades/valencia/centro/micalet-naranjos.webp
@@ -102,7 +106,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

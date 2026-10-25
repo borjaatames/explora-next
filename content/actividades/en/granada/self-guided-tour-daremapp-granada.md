@@ -61,27 +61,27 @@ keywords:
 - self-guided granada tour
 - granada audio guide app
 - self-guided granada walking tour
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp"
-imagenAlt: "Courtyard with water and plants in the Generalife"
+imagen: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
+imagenAlt: Courtyard with water and plants in the Generalife
 galeria:
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: "The Albaicín at dusk"
+  alt: The Albaicín at dusk
 - src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp
-  alt: "The Alhambra from the San Nicolás viewpoint"
+  alt: The Alhambra from the San Nicolás viewpoint
 - src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
-  alt: "Facade of the Royal Chapel and Cathedral of Granada"
+  alt: Facade of the Royal Chapel and Cathedral of Granada
 - src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
-  alt: "Columns and carved capitals inside the Nasrid Palaces"
+  alt: Columns and carved capitals inside the Nasrid Palaces
 - src: /images/actividades/granada/alhambra/pixabay-4522800-hero.webp
-  alt: "Granada's historic streets with traditional white buildings and narrow passageways"
+  alt: Alhambra palaces seen through a Nasrid arch
 - src: /images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp
-  alt: "Panoramic view of the Alhambra of Granada on the Sabika hill"
+  alt: The Alhambra at sunset with Sierra Nevada behind
 - src: https://imgcdn.bokun.tools/76ef4b63-2456-43cf-a249-8bac9e67f44d.jpg
-  alt: "DaremApp app with the self-guided route"
+  alt: DaremApp app with the self-guided route
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see and discover

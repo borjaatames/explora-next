@@ -12,3 +12,6 @@
 | granadella-08.webp | Wikimedia Commons | Diego Delso · File:Cala de la Granadella, Jávea, España, 2014-07-01, DD 38.JPG | CC BY-SA 4.0 |
 
 Origen: `E:\imagenes-master\_descargas-2026-10-23b\alicante--granadella\` (23 oct 2026).
+- `esnorquel-costa-rocosa.webp` — Bastian Riccardi · Pexels License · Pexels · https://www.pexels.com/photo/a-man-using-snorkel-under-the-water-4050076/
+- `kayaks-banistas-cala.webp` — Bingqian Li · Pexels License · Pexels · https://www.pexels.com/photo/scenic-summer-kayaking-in-calanque-de-marseille-39184880/
+- `kayaks-cala-acantilados.webp` — Bingqian Li · Pexels License · Pexels · https://www.pexels.com/photo/scenic-kayaking-in-calanques-national-park-39184871/

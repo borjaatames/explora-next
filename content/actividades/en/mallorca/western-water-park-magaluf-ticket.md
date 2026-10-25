@@ -76,14 +76,21 @@ keywords:
 - mallorca water park
 - western park magaluf
 - mallorca water park kids
-imagen: "/images/actividades/mallorca/western-water-park/western-water-park-vista-aerea.webp"
-imagenAlt: "Aerial view of Western Water Park in Magaluf (Calvià)"
+imagen: /images/actividades/mallorca/western-water-park/western-water-park-rio-toboganes.webp
+imagenAlt: Pool with rubber rings and slides at Western Water Park
 ratingProveedor: 4.3
 numeroOpiniones: 582
 publicada: true
 destacada: false
 fecha: '2026-10-04'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
+galeria:
+- src: /images/actividades/mallorca/western-water-park/western-water-park-kamikaze.webp
+  alt: Free-fall slide tower at Western Water Park
+- src: /images/actividades/mallorca/western-water-park/western-water-park-vista-aerea.webp
+  alt: Aerial view of Western Water Park in Magaluf (Calvià)
+- src: /images/actividades/mallorca/western-water-park/western-water-park-zona-infantil.webp
+  alt: Children's area with colourful slides at Western Water Park
 ---
 
 ## What you will see

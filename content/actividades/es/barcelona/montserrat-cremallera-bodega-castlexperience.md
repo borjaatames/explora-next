@@ -2,8 +2,7 @@
 titulo: Montserrat con cremallera, Virgen Negra y bodega del siglo X
 slug: montserrat-cremallera-bodega-castlexperience
 ciudad: barcelona
-descripcion: 'Excursión flexible de 6-10 horas: bus, tren cremallera, monasterio, Moreneta opcional y bodega del siglo X con
-  cata y tapas (opcional). La oferta más completa de Castlexperience en GYG.'
+descripcion: 'Excursión flexible de 6-10 horas: bus, tren cremallera, monasterio, Moreneta opcional y bodega del siglo X con cata y tapas (opcional). La oferta más completa de Castlexperience en GYG.'
 slugs:
   es: montserrat-cremallera-bodega-castlexperience
   en: montserrat-rack-railway-winery-castlexperience
@@ -40,8 +39,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Carrer de Nàpols, 68, Estació Barcelona Nord
-  descripcionGuia: Oficina Castlexperience dentro de la Estación Nord, sección B. Check-in obligatorio 20 minutos antes de
-    la salida.
+  descripcionGuia: Oficina Castlexperience dentro de la Estación Nord, sección B. Check-in obligatorio 20 minutos antes de la salida.
   latitud: 41.395
   longitud: 2.183
   zoom: 17
@@ -59,8 +57,7 @@ informacionImportante:
   noAptoPara:
   - Personas con movilidad reducida (contactar al operador antes de reservar)
   aTenerEnCuenta:
-  - 'Hay 4 opciones de reserva: medio día con cremallera, día con bodega y tapas, día con almuerzo, día con Moreneta. Elige
-    al reservar'
+  - 'Hay 4 opciones de reserva: medio día con cremallera, día con bodega y tapas, día con almuerzo, día con Moreneta. Elige al reservar'
   - Los grupos están limitados a 20 personas por guía (raramente 22)
   - Las temperaturas en Montserrat suelen ser más extremas que en Barcelona
   - Los domingos o en celebraciones religiosas la basílica podría estar cerrada
@@ -68,37 +65,24 @@ accesibilidad: Tour no accesible en silla de ruedas. Para movilidad reducida, co
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
 preguntasFrecuentes:
 - pregunta: ¿Cuál es la diferencia con la opción sin cremallera (EXB-22)?
-  respuesta: Esta SÍ incluye tren cremallera (icónico de Montserrat). Si te da igual el cremallera y prefieres ahorrar, la
-    EXB-22 es ~47 € también pero sin cremallera. Si te importa la imagen icónica del cremallera subiendo por la montaña, esta
-    es la elección.
+  respuesta: Esta SÍ incluye tren cremallera (icónico de Montserrat). Si te da igual el cremallera y prefieres ahorrar, la EXB-22 es ~47 € también pero sin cremallera. Si te importa la imagen icónica del cremallera subiendo por la montaña, esta es la elección.
 - pregunta: ¿Qué opciones hay al reservar?
-  respuesta: '4: (1) Cremallera + monasterio (medio día, ~47 €); (2) Con bodega y tapas (~57 €, 7 h); (3) Con almuerzo completo
-    y bodega (~70 €, 9 h); (4) Con Moreneta incluida (extra ~5 €). Cada combinación tiene su precio.'
+  respuesta: '4: (1) Cremallera + monasterio (medio día, ~47 €); (2) Con bodega y tapas (~57 €, 7 h); (3) Con almuerzo completo y bodega (~70 €, 9 h); (4) Con Moreneta incluida (extra ~5 €). Cada combinación tiene su precio.'
 - pregunta: ¿Vale la pena pagar el almuerzo completo?
-  respuesta: Depende. Las tapas (opción 7 h) son una experiencia ligera y suficiente. El almuerzo completo (opción 9 h) es
-    comida sentada con maridaje de varios platos. Si quieres comer bien y dedicar el día completo, sí merece la pena. Si solo
-    quieres probar los vinos, las tapas son suficiente.
+  respuesta: Depende. Las tapas (opción 7 h) son una experiencia ligera y suficiente. El almuerzo completo (opción 9 h) es comida sentada con maridaje de varios platos. Si quieres comer bien y dedicar el día completo, sí merece la pena. Si solo quieres probar los vinos, las tapas son suficiente.
 - pregunta: ¿Es seguro el cremallera para niños?
-  respuesta: Sí. El tren cremallera es completamente seguro y apto para todas las edades. Los niños suelen disfrutarlo. No
-    hay restricción de edad para el tour, aunque para la bodega los niños se admiten gratis pero sin servicio de comida ni
-    cata para ellos.
+  respuesta: Sí. El tren cremallera es completamente seguro y apto para todas las edades. Los niños suelen disfrutarlo. No hay restricción de edad para el tour, aunque para la bodega los niños se admiten gratis pero sin servicio de comida ni cata para ellos.
 - pregunta: ¿Y si llueve?
-  respuesta: El tour se realiza con lluvia salvo condiciones extremas. El bus y los espacios interiores del monasterio están
-    cubiertos; la subida en cremallera no se ve afectada. Si el operador cancela por meteo, te reembolsan al 100%.
+  respuesta: El tour se realiza con lluvia salvo condiciones extremas. El bus y los espacios interiores del monasterio están cubiertos; la subida en cremallera no se ve afectada. Si el operador cancela por meteo, te reembolsan al 100%.
 variantes:
 - montserrat-cremallera-virgen-negra
-opinionEditorial: 'La variante de Castlexperience en GetYourGuide y la más completa de su catálogo. 47 € por la opción básica
-  con cremallera incluida es competitivo, y si subes a la opción con bodega y tapas (~57 €) tienes prácticamente día completo
-  con cultura + enología por un precio razonable.
+opinionEditorial: 'La variante de Castlexperience en GetYourGuide y la más completa de su catálogo. 47 € por la opción básica con cremallera incluida es competitivo, y si subes a la opción con bodega y tapas (~57 €) tienes prácticamente día completo con cultura + enología por un precio razonable.
 
 
-  Comparado con su gemelo de Viator (EXB-23, mismo operador con cremallera + bodega + tapas), aquí encontrarás los mismos
-  contenidos pero a través de GetYourGuide en lugar de Viator. Para el cliente final es indiferente; reserva donde tengas
-  mejor confianza en la plataforma.
+  Comparado con su gemelo de Viator (EXB-23, mismo operador con cremallera + bodega + tapas), aquí encontrarás los mismos contenidos pero a través de GetYourGuide en lugar de Viator. Para el cliente final es indiferente; reserva donde tengas mejor confianza en la plataforma.
 
 
-  Lo que conviene saber: los grupos son de 20 personas y el operador comparte transporte con otros grupos. Si quieres formato
-  íntimo, mira [el tour en grupo reducido con recogida en hotel](/ciudades/barcelona/actividades/barcelona-y-montserrat-grupo-reducido-recogida-hotel).
+  Lo que conviene saber: los grupos son de 20 personas y el operador comparte transporte con otros grupos. Si quieres formato íntimo, mira [el tour en grupo reducido con recogida en hotel](/ciudades/barcelona/actividades/barcelona-y-montserrat-grupo-reducido-recogida-hotel).
 
   '
 atraccionesRelacionadas:
@@ -109,28 +93,39 @@ keywords:
 - tour montserrat castlexperience
 - montserrat virgen negra bodega
 - excursion montserrat completa
-imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp"
-imagenAlt: "Monasterio de Montserrat entre montañas rocosas en Barcelona"
+imagen: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
+imagenAlt: Monasterio de Montserrat entre montañas rocosas en Barcelona
 galeria:
+- src: /images/actividades/barcelona/montserrat/cremallera-estacion-monasterio.webp
+  alt: Tren cremallera en la estación superior, junto al monasterio de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: "Frescos del Via Crucis en el techo de la basilica de Montserrat"
+  alt: Frescos del Via Crucis en el techo de la basilica de Montserrat
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-01.webp
+  alt: Pasajeros en el tren cremallera con vistas a la montaña
 - src: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp
-  alt: "Vista panorámica de las montañas de Montserrat desde Barcelona con formaciones rocosas icónicas"
+  alt: Agujas de roca de la montaña de Montserrat
+- src: /images/actividades/barcelona/montserrat/moreneta-cambril.webp
+  alt: La Moreneta, la Virgen negra de Montserrat, en su camarín de la basílica
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero-hero.webp
-  alt: "Monasterio de Montserrat con sus características formaciones rocosas y basílica religiosa en Cataluña."
+  alt: Monasterio de Montserrat con sus características formaciones rocosas y basílica religiosa en Cataluña.
+- src: /images/actividades/barcelona/montserrat/oller-del-mas-castillo-vinedos.webp
+  alt: Castillo-bodega de Oller del Mas entre viñedos, cerca de Manresa
 - src: /images/actividades/barcelona/montserrat/montserrat-stunning-view-intricate-hero-hero.webp
-  alt: "Vista aérea de Montserrat con formaciones rocosas irregulares y vegetación"
+  alt: Vista aérea de Montserrat con formaciones rocosas irregulares y vegetación
+- src: /images/actividades/barcelona/montserrat/cata-vino-bodega-barricas.webp
+  alt: Copas servidas para una cata de vino en una bodega con barricas
 - src: /images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero.webp
-  alt: "Vista aérea de Montserrat con el teleférico"
+  alt: Vista aérea de Montserrat con el teleférico
 - src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero.webp
-  alt: "Picos de roca de la montaña de Montserrat"
+  alt: Picos de roca de la montaña de Montserrat
 ratingProveedor: 4.8
 numeroOpiniones: 6154
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 guiasRelacionadas:
-  - "montserrat-que-excursion-elegir"
+- montserrat-que-excursion-elegir
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

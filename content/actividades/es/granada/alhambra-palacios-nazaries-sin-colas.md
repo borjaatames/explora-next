@@ -2,8 +2,7 @@
 titulo: Alhambra y Palacios Nazaríes sin colas en grupo reducido
 slug: alhambra-palacios-nazaries-sin-colas
 ciudad: granada
-descripcion: Visita guiada de 3 horas a la Alhambra y los Palacios Nazaríes en grupo reducido, con entrada prioritaria, audio
-  y guía bilingüe. Más cerca del guía.
+descripcion: Visita guiada de 3 horas a la Alhambra y los Palacios Nazaríes en grupo reducido, con entrada prioritaria, audio y guía bilingüe. Más cerca del guía.
 slugs:
   es: alhambra-palacios-nazaries-sin-colas
   en: alhambra-nasrid-palaces-skip-the-line
@@ -35,9 +34,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Punto de encuentro de guías, en la plaza de las taquillas de la Alhambra
-  descripcionGuia: 'El guía espera en el punto de encuentro de guías, dentro de la plaza de las taquillas del monumento. Hay
-    un cartel pequeño con un punto azul que indica «guías». Llega 15 minutos antes: la plaza es amplia y conviene localizar
-    al grupo con margen.'
+  descripcionGuia: 'El guía espera en el punto de encuentro de guías, dentro de la plaza de las taquillas del monumento. Hay un cartel pequeño con un punto azul que indica «guías». Llega 15 minutos antes: la plaza es amplia y conviene localizar al grupo con margen.'
   latitud: 37.1772
   longitud: -3.5851
   zoom: 16
@@ -56,53 +53,34 @@ informacionImportante:
   - Mascotas, salvo perros de asistencia
   aTenerEnCuenta:
   - No se permiten maletas ni bolsas grandes, palos de selfi ni trípodes
-  - 'La hora de los Palacios Nazaríes es provisional: el Patronato asigna la hora exacta y puede confirmarse el día anterior,
-    con aviso por email o WhatsApp'
+  - 'La hora de los Palacios Nazaríes es provisional: el Patronato asigna la hora exacta y puede confirmarse el día anterior, con aviso por email o WhatsApp'
   - 'La entrada es nominativa: hay que dar nombre, fecha de nacimiento y DNI de todos los participantes al reservar'
   - Si reservas con menos de 45 días de antelación, la entrada queda sujeta a confirmación del Patronato
-accesibilidad: El operador no detalla el acceso para sillas de ruedas. El recorrido de la Alhambra es irregular, con cuestas
-  y escalones, aunque parte del recinto cuenta con itinerarios adaptados. Confírmalo con el operador antes de reservar si
-  necesitas accesibilidad.
-politicaCancelacion: 'Cancelación hasta 24 horas antes con reembolso del 50 %. No es cancelación gratuita: la Alhambra no
-  devuelve las entradas al operador, así que el reembolso es parcial. Es lo habitual en las visitas a la Alhambra.'
+accesibilidad: El operador no detalla el acceso para sillas de ruedas. El recorrido de la Alhambra es irregular, con cuestas y escalones, aunque parte del recinto cuenta con itinerarios adaptados. Confírmalo con el operador antes de reservar si necesitas accesibilidad.
+politicaCancelacion: 'Cancelación hasta 24 horas antes con reembolso del 50 %. No es cancelación gratuita: la Alhambra no devuelve las entradas al operador, así que el reembolso es parcial. Es lo habitual en las visitas a la Alhambra.'
 preguntasFrecuentes:
 - pregunta: ¿En qué se diferencia del grupo grande?
-  respuesta: En el tamaño del grupo. Las visitas de grupo grande pueden llegar a 30 personas; esta funciona en grupo reducido,
-    así que oyes mejor al guía, las preguntas se atienden con más calma y el ritmo es menos masificado. A cambio, el precio
-    sube respecto a la opción más económica.
+  respuesta: En el tamaño del grupo. Las visitas de grupo grande pueden llegar a 30 personas; esta funciona en grupo reducido, así que oyes mejor al guía, las preguntas se atienden con más calma y el ritmo es menos masificado. A cambio, el precio sube respecto a la opción más económica.
 - pregunta: ¿Merece la pena pagar más por el grupo reducido?
-  respuesta: 'Depende de lo que valores. Su nota más alta en las reseñas es la del guía; la más floja, la relación calidad-precio.
-    Es decir: la experiencia guiada gusta, pero estás pagando un extra por el formato. Si la cercanía con el guía te importa
-    de verdad, lo notarás; si lo que buscas es ver la Alhambra bien explicada al mejor precio, hay opciones más económicas.'
+  respuesta: 'Depende de lo que valores. Su nota más alta en las reseñas es la del guía; la más floja, la relación calidad-precio. Es decir: la experiencia guiada gusta, pero estás pagando un extra por el formato. Si la cercanía con el guía te importa de verdad, lo notarás; si lo que buscas es ver la Alhambra bien explicada al mejor precio, hay opciones más económicas.'
 - pregunta: ¿Qué idiomas tiene?
-  respuesta: Español, inglés y francés, con guía en directo. Eliges el idioma al reservar. Es una oferta de idiomas algo más
-    corta que otras visitas de esta página, así que si necesitas alemán o italiano, revisa el comparador.
+  respuesta: Español, inglés y francés, con guía en directo. Eliges el idioma al reservar. Es una oferta de idiomas algo más corta que otras visitas de esta página, así que si necesitas alemán o italiano, revisa el comparador.
 - pregunta: ¿Qué incluye la entrada?
-  respuesta: El acceso a los Palacios Nazaríes y el Generalife —las dos zonas principales—, la Alcazaba y el Palacio de Carlos
-    V. La entrada es prioritaria, así que te ahorras la espera en taquilla. No incluye transporte ni comidas.
+  respuesta: El acceso a los Palacios Nazaríes y el Generalife —las dos zonas principales—, la Alcazaba y el Palacio de Carlos V. La entrada es prioritaria, así que te ahorras la espera en taquilla. No incluye transporte ni comidas.
 - pregunta: ¿Por qué la hora de la visita es «provisional»?
-  respuesta: Porque los Palacios Nazaríes tienen un cupo horario estricto que asigna el Patronato de la Alhambra, no el operador.
-    La hora definitiva puede confirmarse incluso el día antes; el operador te avisa por email o WhatsApp. Por eso conviene
-    no encadenar otros planes pegados a la visita.
+  respuesta: Porque los Palacios Nazaríes tienen un cupo horario estricto que asigna el Patronato de la Alhambra, no el operador. La hora definitiva puede confirmarse incluso el día antes; el operador te avisa por email o WhatsApp. Por eso conviene no encadenar otros planes pegados a la visita.
 variantes:
 - alhambra-grupo-reducido
 - visita-guiada-alhambra-generalife
 - alhambra-tour-privado
-avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
-opinionEditorial: 'Esta visita ocupa el escalón intermedio del catálogo: cuesta más que la opción de grupo grande, pero te
-  metes en un grupo reducido con entrada prioritaria. La pregunta no es si está bien —lo está, con más de 8.400 reseñas y
-  la mejor nota precisamente en la valoración del guía—, sino si el formato más pequeño te compensa el precio.
+avisoReserva: Las entradas de la Alhambra se agotan con semanas de antelación
+opinionEditorial: 'Esta visita ocupa el escalón intermedio del catálogo: cuesta más que la opción de grupo grande, pero te metes en un grupo reducido con entrada prioritaria. La pregunta no es si está bien —lo está, con más de 8.400 reseñas y la mejor nota precisamente en la valoración del guía—, sino si el formato más pequeño te compensa el precio.
 
 
-  Y aquí toca ser claros: su punto más flojo en las reseñas es la relación calidad-precio. No porque la visita falle, sino
-  porque a 75 € estás pagando por el tamaño del grupo más que por el contenido, que es básicamente el mismo que en las opciones
-  más económicas. Si vas en pareja o en grupo pequeño y la cercanía con el guía es lo que te importa, esta es una buena elección.
-  Si vas con presupuesto ajustado y un grupo de 25-30 personas no te frena, ahorrarás bastante con otra opción.
+  Y aquí toca ser claros: su punto más flojo en las reseñas es la relación calidad-precio. No porque la visita falle, sino porque a 75 € estás pagando por el tamaño del grupo más que por el contenido, que es básicamente el mismo que en las opciones más económicas. Si vas en pareja o en grupo pequeño y la cercanía con el guía es lo que te importa, esta es una buena elección. Si vas con presupuesto ajustado y un grupo de 25-30 personas no te frena, ahorrarás bastante con otra opción.
 
 
-  Un detalle a favor: la información que da el operador antes de reservar es de las más completas del catálogo —deja muy claro
-  cómo funciona la hora de los Palacios Nazaríes y el carácter nominativo de la entrada—. Para una primera visita a la Alhambra,
-  ese nivel de detalle se agradece.
+  Un detalle a favor: la información que da el operador antes de reservar es de las más completas del catálogo —deja muy claro cómo funciona la hora de los Palacios Nazaríes y el carácter nominativo de la entrada—. Para una primera visita a la Alhambra, ese nivel de detalle se agradece.
 
   '
 atraccionesRelacionadas:
@@ -114,13 +92,13 @@ keywords:
 - palacios nazaries entrada prioritaria
 - visita guiada alhambra granada
 - tour alhambra generalife
-imagen: "/images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp"
-imagenAlt: Patio de la Alhambra con su columnata y arcos reflejados en el agua
+imagen: /images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp
+imagenAlt: Galería de columnas del Patio de los Leones
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
   alt: Patio con agua y vegetación en el Generalife de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369623-hero.webp
-  alt: Puesta de sol sobre la Alhambra de Granada con tonos dorados y naranjas en el cielo
+  alt: Arcos con yeserías de los Palacios Nazaríes
 - src: /images/actividades/granada/alhambra/alhambra-granada-walls-towers-spain-hero.webp
   alt: Murallas y torres de la Alhambra recortadas sobre Granada
 - src: /images/actividades/granada/alhambra/alhambra-granada-stucco-ceiling-patio-leones-spain-hero.webp
@@ -130,7 +108,7 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-window-nasrid-motto-cuarto-dorado-hero.webp
   alt: Ventana del Cuarto Dorado de la Alhambra con la inscripción del lema nazarí
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829145-hero.webp
-  alt: Vista de la Alhambra y arquitectura histórica de Granada al atardecer
+  alt: Pórtico y estanque del Patio de los Arrayanes
 - src: /images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero-hero.webp
   alt: Fuente con leones en el patio de la Alhambra de Granada, arquitectura islámica española
 - src: /images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp
@@ -147,8 +125,9 @@ publicada: true
 destacada: false
 fecha: '2026-05-14'
 guiasRelacionadas:
-  - "alhambra-como-visitar"
-  - "alhambra-que-tour-elegir"
+- alhambra-como-visitar
+- alhambra-que-tour-elegir
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

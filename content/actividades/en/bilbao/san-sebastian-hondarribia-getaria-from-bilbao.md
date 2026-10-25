@@ -82,10 +82,16 @@ keywords:
 imagen: /images/actividades/bilbao/san-sebastian/concha-bahia.webp
 imagenAlt: La Concha bay in San Sebastián
 galeria:
-- src: "/images/actividades/bilbao/san-sebastian/concha-desde-monte-igueldo.webp"
-  alt: "Playa de la Concha vista desde el monte, San Sebastian"
+- src: /images/actividades/bilbao/costa-vasca/hendaya-playa-dos-gemelos.webp
+  alt: Hendaye beach with the Deux Jumeaux rocks behind
+- src: /images/actividades/bilbao/san-sebastian/concha-desde-monte-igueldo.webp
+  alt: Playa de la Concha vista desde el monte, San Sebastian
+- src: /images/actividades/bilbao/costa-vasca/hendaya-dos-gemelos.webp
+  alt: The Deux Jumeaux rocks off the Hendaye coast
 - src: /images/actividades/bilbao/costa-vasca/hondarribia-marina.webp
   alt: Colourful houses with balconies in Hondarribia's Marina quarter
+- src: /images/actividades/bilbao/costa-vasca/hendaya-castillo-abbadia.webp
+  alt: Abbadia castle in Hendaye
 - src: /images/actividades/bilbao/san-sebastian/plaza-constitucion.webp
   alt: Plaza de la Constitución in San Sebastián's Old Town
 - src: /images/actividades/bilbao/costa-vasca/getaria-puerto.webp
@@ -101,7 +107,7 @@ numeroOpiniones: 1022
 publicada: true
 destacada: false
 fecha: '2026-10-04'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

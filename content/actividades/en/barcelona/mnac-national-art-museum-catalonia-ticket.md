@@ -66,29 +66,33 @@ keywords:
 - national art museum catalonia tickets
 - mnac barcelona
 - museu nacional d'art de catalunya
-imagen: /images/actividades/barcelona/montjuic/pexels-6437868-hero.webp
-imagenAlt: Barcelona street with historic architecture and urban landscape
+imagen: /images/actividades/barcelona/mnac/palau-nacional-fachada-fuente.webp
+imagenAlt: Facade of the Palau Nacional, home of the MNAC, with the Magic Fountain
 galeria:
-  - src: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-pla-a-catalunya--hero.webp"
-    alt: "Plaza de Catalunya de Barcelona, corazón de la ciudad"
-  - src: "/images/actividades/barcelona/mnac/palau-nacional-fachada-fuente.webp"
-    alt: "Facade of the Palau Nacional, home of the MNAC, with the Magic Fountain"
-  - src: "/images/actividades/barcelona/mnac/mnac-aerea-montjuic.webp"
-    alt: "Aerial view of the MNAC on Montjuïc hill"
-  - src: "/images/actividades/barcelona/mnac/mnac-interior-cupula.webp"
-    alt: "Interior dome of the Palau Nacional"
-  - src: "/images/actividades/barcelona/mnac/mnac-entrada-rotulo.webp"
-    alt: "Entrance of the MNAC with the museum sign"
-  - src: "/images/actividades/barcelona/montjuic/pexels-7796698-hero.webp"
-    alt: "Views of Barcelona from the MNAC terrace"
-  - src: "/images/actividades/barcelona/montjuic/pexels-16841065-hero.webp"
-    alt: "Plaça d'Espanya and the Venetian towers from Montjuïc"
-  - src: "/images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp"
-    alt: Barcelona cityscape with Gothic Quarter architecture and modern buildings
-  - src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
-    alt: "Palau Nacional on Montjuïc, home of the MNAC"
-  - src: /images/actividades/barcelona/montjuic/images-hero.webp
-    alt: "Aerial view of Montjuïc with the Palau Nacional (MNAC)"
+- src: /images/actividades/barcelona/mnac/mnac-pantocrator-taull.webp
+  alt: Christ Pantocrator from the apse of Sant Climent de Taüll at the MNAC
+- src: /images/actividades/barcelona/montjuic/pexels-6437868-hero.webp
+  alt: Plaça d'Espanya with the Palau Nacional (MNAC) on Montjuïc
+- src: /images/actividades/barcelona/mnac/mnac-sala-absides-romanicos.webp
+  alt: Romanesque gallery at the MNAC with the Sant Climent de Taüll apse
+- src: /images/actividades/barcelona/mnac/mnac-aerea-montjuic.webp
+  alt: Aerial view of the MNAC on Montjuïc hill
+- src: /images/actividades/barcelona/mnac/mnac-banco-gaudi-casa-batllo.webp
+  alt: Gaudí's double bench for Casa Batlló in the MNAC modernisme collection
+- src: /images/actividades/barcelona/mnac/mnac-interior-cupula.webp
+  alt: Interior dome of the Palau Nacional
+- src: /images/actividades/barcelona/mnac/mnac-casas-tandem.webp
+  alt: Ramon Casas and Pere Romeu on a Tandem, a modernisme painting at the MNAC
+- src: /images/actividades/barcelona/mnac/mnac-entrada-rotulo.webp
+  alt: Entrance of the MNAC with the museum sign
+- src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
+  alt: Barcelona seen from the steps of the Palau Nacional (MNAC)
+- src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
+  alt: Plaça d'Espanya and the Venetian towers, with the Palau Nacional (MNAC) behind
+- src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
+  alt: Palau Nacional on Montjuïc, home of the MNAC
+- src: /images/actividades/barcelona/montjuic/images-hero.webp
+  alt: Aerial view of Montjuïc with the Palau Nacional (MNAC)
 ratingProveedor: 4.5
 numeroOpiniones: 2161
 atraccionesRelacionadas:
@@ -96,7 +100,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

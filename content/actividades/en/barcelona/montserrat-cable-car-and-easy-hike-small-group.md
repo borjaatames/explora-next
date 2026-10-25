@@ -1,125 +1,118 @@
 ---
-titulo: "Montserrat with Cable Car and Easy Hike in Small Group"
-slug: "montserrat-cable-car-and-easy-hike-small-group"
-ciudad: "barcelona"
-descripcion: "6-hour tour with certified mountain guide: monastery, cloister, cable car to the summit and easy hike through the National Park. Small group in a van."
-
+titulo: Montserrat with Cable Car and Easy Hike in Small Group
+slug: montserrat-cable-car-and-easy-hike-small-group
+ciudad: barcelona
+descripcion: '6-hour tour with certified mountain guide: monastery, cloister, cable car to the summit and easy hike through the National Park. Small group in a van.'
 slugs:
-  en: "montserrat-cable-car-and-easy-hike-small-group"
-  es: "montserrat-teleferico-y-caminata-grupo-pequeno"
-
-duracion: "6 hours"
+  en: montserrat-cable-car-and-easy-hike-small-group
+  es: montserrat-teleferico-y-caminata-grupo-pequeno
+duracion: 6 hours
 duracionMinutos: 360
 precioDesde: 74
-moneda: "EUR"
-idiomas: ["es", "en", "ca"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/barcelona-l45/montserrat-easy-hike-and-monastery-day-trip-t57039/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+- ca
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/barcelona-l45/montserrat-easy-hike-and-monastery-day-trip-t57039/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Small group in a van (max 8 per guide) — much more personal attention"
-  - "Certified mountain guide credentialed by the government"
-  - "Cable car ascent to the top of Montserrat Natural Park (included)"
-  - "Easy hike on park trails with flora, fauna and geology commentary"
-  - "4.9 ★ with 1,000+ verified reviews — one of the best ratings in the comparator"
-
+- Small group in a van (max 8 per guide) — much more personal attention
+- Certified mountain guide credentialed by the government
+- Cable car ascent to the top of Montserrat Natural Park (included)
+- Easy hike on park trails with flora, fauna and geology commentary
+- 4.9 ★ with 1,000+ verified reviews — one of the best ratings in the comparator
 incluye:
-  - "Small-group tour (max 8 people)"
-  - "Qualified and government-certified guide"
-  - "Cable car ride"
-  - "Air-conditioned van transport"
-  - "Accident and liability insurance"
-  - "Parking fees"
-
+- Small-group tour (max 8 people)
+- Qualified and government-certified guide
+- Cable car ride
+- Air-conditioned van transport
+- Accident and liability insurance
+- Parking fees
 noIncluye:
-  - "Food and drink"
-  - "Hotel pickup service"
-
+- Food and drink
+- Hotel pickup service
 puntoEncuentro:
-  texto: "Pg. de Gràcia, 69, 08008 Barcelona"
-  descripcionGuia: "Meeting point at 8:00 AM at Passeig de Gracia 69. Centrally located, easy metro access (Passeig de Gràcia stop, lines L2, L3, L4) and very close to main Eixample hotels."
+  texto: Pg. de Gràcia, 69, 08008 Barcelona
+  descripcionGuia: Meeting point at 8:00 AM at Passeig de Gracia 69. Centrally located, easy metro access (Passeig de Gràcia stop, lines L2, L3, L4) and very close to main Eixample hotels.
   latitud: 41.3923
   longitud: 2.1668
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 5
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Comfortable closed shoes (the hike is easy but on trails)"
-    - "Warm or layered clothing"
-    - "Snack for during the easy hike"
-    - "Water"
+  - Comfortable closed shoes (the hike is easy but on trails)
+  - Warm or layered clothing
+  - Snack for during the easy hike
+  - Water
   noAptoPara:
-    - "Children under 5"
-    - "People with mobility issues"
+  - Children under 5
+  - People with mobility issues
   aTenerEnCuenta:
-    - "The tour uses two vans with capacity for up to 8 people each; each van has its own driver-guide"
-    - "Bring a snack — there are no formal meal stops"
-    - "Groups can be up to 12 if both vans fill"
-
-accesibilidad: "Not recommended for people with limited mobility. The hike is easy but the terrain is mountainous."
-
-politicaCancelacion: "Free cancellation up to 24 hours before with full refund."
-
+  - The tour uses two vans with capacity for up to 8 people each; each van has its own driver-guide
+  - Bring a snack — there are no formal meal stops
+  - Groups can be up to 12 if both vans fill
+accesibilidad: Not recommended for people with limited mobility. The hike is easy but the terrain is mountainous.
+politicaCancelacion: Free cancellation up to 24 hours before with full refund.
 preguntasFrecuentes:
-  - pregunta: "How easy is the hike?"
-    respuesta: "Easy within the National Park, about 50 minutes. No mountaineering experience or technical equipment required. You do need closed comfortable shoes and willingness to walk on natural trails (not pavement). The point is to enjoy the landscape, not performance."
-  - pregunta: "Are we really just 8 people?"
-    respuesta: "Each van carries max 8 travelers with its own driver-guide. If both vans fill, you're a total of 16 people, but split into two subgroups of 8 during the guided visit. The ratio is much better than 20-50 person coaches."
-  - pregunta: "What languages does the guide speak?"
-    respuesta: "Spanish, Catalan or English. Select when booking. Guides are certified mountain guides, not just tourism professionals: they'll explain flora, fauna and geology in addition to the cultural side."
-  - pregunta: "Is basilica entry included?"
-    respuesta: "The tour covers the Benedictine monastery and the 15th-century cloister. Basilica entry as interior space is included at no extra cost. The Moreneta (Throne Room) is NOT included."
-  - pregunta: "What if I'm afraid of heights on the cable car?"
-    respuesta: "The Aeri de Montserrat cable car is a traditional cable car with large cabins and short trip (5 minutes). If you have severe vertigo, mention it to the guide before boarding; the views are worth it but the decision is yours."
-
+- pregunta: How easy is the hike?
+  respuesta: Easy within the National Park, about 50 minutes. No mountaineering experience or technical equipment required. You do need closed comfortable shoes and willingness to walk on natural trails (not pavement). The point is to enjoy the landscape, not performance.
+- pregunta: Are we really just 8 people?
+  respuesta: Each van carries max 8 travelers with its own driver-guide. If both vans fill, you're a total of 16 people, but split into two subgroups of 8 during the guided visit. The ratio is much better than 20-50 person coaches.
+- pregunta: What languages does the guide speak?
+  respuesta: 'Spanish, Catalan or English. Select when booking. Guides are certified mountain guides, not just tourism professionals: they''ll explain flora, fauna and geology in addition to the cultural side.'
+- pregunta: Is basilica entry included?
+  respuesta: The tour covers the Benedictine monastery and the 15th-century cloister. Basilica entry as interior space is included at no extra cost. The Moreneta (Throne Room) is NOT included.
+- pregunta: What if I'm afraid of heights on the cable car?
+  respuesta: The Aeri de Montserrat cable car is a traditional cable car with large cabins and short trip (5 minutes). If you have severe vertigo, mention it to the guide before boarding; the views are worth it but the decision is yours.
 variantes:
-  - "montserrat-funicular-scenic-hike"
-  - "montserrat-private-tour-hotel-pickup"
+- montserrat-funicular-scenic-hike
+- montserrat-private-tour-hotel-pickup
+opinionEditorial: 'If your priority is the nature side of Montserrat (not just the monastery), this is the best value option in the comparator. 4.9 stars are no coincidence: the 8-person van format with a properly certified mountain guide is very different from the 50-person coach, and it shows in how the day feels.
 
-opinionEditorial: |
-  If your priority is the nature side of Montserrat (not just the monastery), this is the best value option in the comparator. 4.9 stars are no coincidence: the 8-person van format with a properly certified mountain guide is very different from the 50-person coach, and it shows in how the day feels.
 
-  What you pay: €74, nearly double the cheapest option in the comparator (€41). In exchange you get a small group, a properly certified guide (not just a tourism guide), included cable car, real hike through the national park and activity insurance. If you go to Montserrat for the landscape and not the religious side, it's the right choice. If you go for the Moreneta, this is not the variant.
+  What you pay: €74, nearly double the cheapest option in the comparator (€41). In exchange you get a small group, a properly certified guide (not just a tourism guide), included cable car, real hike through the national park and activity insurance. If you go to Montserrat for the landscape and not the religious side, it''s the right choice. If you go for the Moreneta, this is not the variant.
 
-categoria: "excursionesDia"
-keywords: ["montserrat hike", "montserrat hiking tour", "montserrat small group", "montserrat cable car", "montserrat national park"]
-
-imagen: "/images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero.webp"
-imagenAlt: "Cable car ascending to the top of the Montserrat massif"
-
+  '
+categoria: excursionesDia
+keywords:
+- montserrat hike
+- montserrat hiking tour
+- montserrat small group
+- montserrat cable car
+- montserrat national park
+imagen: /images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero.webp
+imagenAlt: Cable car ascending to the top of the Montserrat massif
 galeria:
-  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
-    alt: "Formaciones rocosas de Montserrat con el monasterio al fondo"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
-    alt: "Montserrat monastery among the mountains"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp"
-    alt: "Aerial view of the natural surroundings of Montserrat"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp"
-    alt: "Montserrat monastery seen from the hillside"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero.webp"
-    alt: "Buildings of Montserrat monastery"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-14-hero.webp"
-    alt: "Exterior of Montserrat monastery with visitors strolling"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-15-hero.webp"
-    alt: "Montserrat monastery building among gardens"
-
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Statue of Abbot Oliba among the greenery of Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp
+  alt: Montserrat monastery among the mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
+  alt: Aerial view of the natural surroundings of Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
+  alt: Montserrat monastery seen from the hillside
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero.webp
+  alt: Buildings of Montserrat monastery
+- src: /images/actividades/barcelona/montserrat/montserrat-spain-14-hero.webp
+  alt: Exterior of Montserrat monastery with visitors strolling
+- src: /images/actividades/barcelona/montserrat/montserrat-spain-15-hero.webp
+  alt: Montserrat monastery building among gardens
 ratingProveedor: 4.9
 numeroOpiniones: 1146
-
 publicada: false
 destacada: false
-fecha: "2026-05-15"
+fecha: '2026-05-15'
 atraccionesRelacionadas:
-  - "montserrat"
+- montserrat
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

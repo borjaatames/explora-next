@@ -6,3 +6,5 @@
 - `museo-ciencias-rotulo.webp` — Pieter van Everdingen, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Valencia_-_Museu_de_les_Ci%C3%A8ncies_-_20200224-02_PvE.jpg) · recortada a 1600×1200
 - `museo-ciencias-fachada.webp` — Coralma*, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Museu_de_les_Ci%C3%A8ncies_%27Princep_Felip%27_3.jpg) · recortada a 1600×1200
 - `hemisferic.webp` — Bene Riobó, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Hemisf%C3%A8ric%2C_Valencia.jpg) · recortada a 1600×1200
+- `museo-ciencias-adn.webp` — Javier Yaya Tur / Ciudad de las Artes y las Ciencias · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_01032012.jpg
+- `museo-ciencias-interior-sala.webp` — Javier Yaya Tur / Ciudad de las Artes y las Ciencias · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_04032011.jpg

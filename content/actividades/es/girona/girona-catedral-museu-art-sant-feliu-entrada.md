@@ -70,10 +70,16 @@ keywords:
 imagen: /images/actividades/girona/catedral-girona/catedral-girona-01.webp
 imagenAlt: Catedral de Girona sobre su escalinata
 galeria:
+- src: /images/actividades/girona/catedral-girona/catedral-girona-nave-gotica.webp
+  alt: Nave gótica única de la catedral de Girona, la más ancha del mundo
 - src: /images/actividades/girona/catedral-girona/catedral-girona-02.webp
   alt: Fachada barroca de la catedral de Girona
+- src: /images/actividades/girona/catedral-girona/sant-feliu-nave.webp
+  alt: Nave central de la basílica de Sant Feliu de Girona
 - src: /images/actividades/girona/catedral-girona/catedral-girona-03.webp
   alt: Torre de la catedral sobre el Barri Vell
+- src: /images/actividades/girona/catedral-girona/museu-art-palau-episcopal.webp
+  alt: Palacio episcopal de Girona, sede del Museu d'Art
 - src: /images/actividades/girona/catedral-girona/catedral-girona-04.webp
   alt: Catedral de Girona vista desde la ciudad
 - src: /images/actividades/girona/catedral-girona/catedral-girona-05.webp
@@ -91,7 +97,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué verás

@@ -1,39 +1,39 @@
 ---
-titulo: "Tenerife: 40-minute or 1-hour jet ski safari"
-slug: "jet-ski-safari-south-tenerife"
-ciudad: "tenerife"
-descripcion: "Guided jet ski safari from Marina San Miguel along the south coast: Montaña Amarilla, Costa del Silencio and Montaña Roja. No licence needed. 4.5/5 on GYG."
+titulo: 'Tenerife: 40-minute or 1-hour jet ski safari'
+slug: jet-ski-safari-south-tenerife
+ciudad: tenerife
+descripcion: 'Guided jet ski safari from Marina San Miguel along the south coast: Montaña Amarilla, Costa del Silencio and Montaña Roja. No licence needed. 4.5/5 on GYG.'
 slugs:
-  es: "moto-de-agua-safari-costa-sur"
-  en: "jet-ski-safari-south-tenerife"
-duracion: "40 minutes or 1 hour"
+  es: moto-de-agua-safari-costa-sur
+  en: jet-ski-safari-south-tenerife
+duracion: 40 minutes or 1 hour
 duracionMinutos: 40
 precioDesde: 32
-moneda: "EUR"
+moneda: EUR
 idiomas:
-  - "en"
-  - "es"
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/en-us/activity-t317607/?partner_id=C71NOAW"
+- en
+- es
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/en-us/activity-t317607/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-  - "No licence or previous experience needed"
-  - "Guided route along the south coast to Montaña Roja"
-  - "Montaña Amarilla, Costa del Silencio and Las Galletas from the sea"
-  - "Groups of 8 people at most"
-  - "Dolphins, turtles or whales sometimes spotted"
+- No licence or previous experience needed
+- Guided route along the south coast to Montaña Roja
+- Montaña Amarilla, Costa del Silencio and Las Galletas from the sea
+- Groups of 8 people at most
+- Dolphins, turtles or whales sometimes spotted
 incluye:
-  - "Instructor guide on their own craft"
-  - "Life jacket and goggles"
-  - "Drinks: coffee, tea, soft drinks and juices"
-  - "Shower, toilets and lockers"
+- Instructor guide on their own craft
+- Life jacket and goggles
+- 'Drinks: coffee, tea, soft drinks and juices'
+- Shower, toilets and lockers
 noIncluye:
-  - "€50 cash deposit per jet ski (refundable)"
-  - "Photos and videos"
+- €50 cash deposit per jet ski (refundable)
+- Photos and videos
 puntoEncuentro:
-  texto: "Pontoon H at Marina San Miguel, at the far end of the marina (Amarilla Golf, San Miguel de Abona)."
-  descripcionGuia: "Be at pontoon H, at the back of the marina, 30 minutes early. There's free parking at the start of the marina."
+  texto: Pontoon H at Marina San Miguel, at the far end of the marina (Amarilla Golf, San Miguel de Abona).
+  descripcionGuia: Be at pontoon H, at the back of the marina, 30 minutes early. There's free parking at the start of the marina.
   latitud: 28.0206
   longitud: -16.6137
   zoom: 16
@@ -45,55 +45,61 @@ detallesPracticos:
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
-    - "ID card or passport (a copy is fine)"
-    - "Cash for the deposit"
-    - "Swimwear and towel"
+  - ID card or passport (a copy is fine)
+  - Cash for the deposit
+  - Swimwear and towel
   noAptoPara:
-    - "Children under 8"
-    - "Pregnant women"
-    - "Non-swimmers"
-    - "People over 118 kg or with back problems"
+  - Children under 8
+  - Pregnant women
+  - Non-swimmers
+  - People over 118 kg or with back problems
   aTenerEnCuenta:
-    - "Drivers from age 16; 16- and 17-year-olds need written consent from a parent or guardian"
-    - "Max 2 people and 200 kg per jet ski; maximum age 70"
-    - "Phones aren't allowed on the jet ski"
-    - "The route depends on sea conditions and the duration chosen"
-accesibilidad: "Not suitable for people with reduced mobility."
-politicaCancelacion: "Free cancellation up to 24 hours before, with a full refund."
+  - Drivers from age 16; 16- and 17-year-olds need written consent from a parent or guardian
+  - Max 2 people and 200 kg per jet ski; maximum age 70
+  - Phones aren't allowed on the jet ski
+  - The route depends on sea conditions and the duration chosen
+accesibilidad: Not suitable for people with reduced mobility.
+politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
-  - pregunta: "Do I need a boating licence?"
-    respuesta: "No. The instructor's safety briefing and reasonable fitness are all you need."
-  - pregunta: "Is the price per person or per jet ski?"
-    respuesta: "GYG shows it per person. Each jet ski carries two people up to 200 kg."
-  - pregunta: "Can I bring my phone for photos?"
-    respuesta: "No, phones aren't allowed on the jet ski. The operator takes photos and videos, which cost extra."
-  - pregunta: "Is there a deposit?"
-    respuesta: "Yes, €50 in cash per jet ski, to make sure you keep a safe distance from the group."
-opinionEditorial: "It's an easy way to try a jet ski without a licence and with a guide, along a pretty, uncrowded stretch of volcanic coast. Go for the full hour: in 40 minutes, once you take off the briefing and the ride back, it feels short. Not for non-swimmers or anyone who wants to ride independently."
+- pregunta: Do I need a boating licence?
+  respuesta: No. The instructor's safety briefing and reasonable fitness are all you need.
+- pregunta: Is the price per person or per jet ski?
+  respuesta: GYG shows it per person. Each jet ski carries two people up to 200 kg.
+- pregunta: Can I bring my phone for photos?
+  respuesta: No, phones aren't allowed on the jet ski. The operator takes photos and videos, which cost extra.
+- pregunta: Is there a deposit?
+  respuesta: Yes, €50 in cash per jet ski, to make sure you keep a safe distance from the group.
+opinionEditorial: 'It''s an easy way to try a jet ski without a licence and with a guide, along a pretty, uncrowded stretch of volcanic coast. Go for the full hour: in 40 minutes, once you take off the briefing and the ride back, it feels short. Not for non-swimmers or anyone who wants to ride independently.'
 guiasRelacionadas:
-  - "what-to-see-in-tenerife"
-categoria: "excursionesDia"
+- what-to-see-in-tenerife
+categoria: excursionesDia
 keywords:
-  - "jet ski tenerife"
-  - "jet ski south tenerife"
-  - "jet ski no licence tenerife"
-  - "jet ski safari costa del silencio"
-  - "marina san miguel jet ski"
-imagen: "/images/actividades/tenerife/motos-agua/moto-de-agua.webp"
-imagenAlt: "A jet ski riding the waves"
+- jet ski tenerife
+- jet ski south tenerife
+- jet ski no licence tenerife
+- jet ski safari costa del silencio
+- marina san miguel jet ski
+imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
+imagenAlt: A jet ski riding the waves
 galeria:
-  - src: "/images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp"
-    alt: "Costa Adeje beach with the mountains behind"
-  - src: "/images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp"
-    alt: "View of the Costa Adeje coastline"
+- src: /images/actividades/tenerife/motos-agua/grupo-motos-agua-ruta.webp
+  alt: Group of jet skis riding in a line on the open sea
+- src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
+  alt: Costa Adeje beach with the mountains behind
+- src: /images/actividades/tenerife/motos-agua/montana-roja-el-medano.webp
+  alt: Montaña Roja seen from the rocky shore of El Médano, southern Tenerife
+- src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
+  alt: View of the Costa Adeje coastline
+- src: /images/actividades/tenerife/motos-agua/montana-amarilla-costa.webp
+  alt: Montaña Amarilla by the sea on the south coast of Tenerife
 ratingProveedor: 4.5
 numeroOpiniones: 3170
 atraccionesRelacionadas:
-  - "mar"
+- mar
 publicada: true
 destacada: false
-fecha: "2026-10-24"
-fecha_actualizacion: "2026-10-24"
+fecha: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

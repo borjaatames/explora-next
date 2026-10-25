@@ -69,15 +69,15 @@ keywords:
 - excursion granada desde sevilla privada
 - tour alhambra desde sevilla
 imagen: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
-imagenAlt: Vista panorámica de Granada desde la Alhambra
+imagenAlt: El Albaicín visto desde los jardines de la Alhambra
 galeria:
-- src: "/images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero-hero.webp"
-  alt: "Jardines del Generalife en la Alhambra de Granada"
-- src: "/images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp"
-  alt: "Patio de los Arrayanes en la Alhambra"
-- src: "/images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp"
-  alt: "Puerta del Vino en la Alhambra de Granada"
-- src: "/images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp"
+- src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero-hero.webp
+  alt: Jardines del Generalife en la Alhambra de Granada
+- src: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp
+  alt: Patio de los Arrayanes en la Alhambra
+- src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
+  alt: Puerta del Vino en la Alhambra de Granada
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero-hero.webp
   alt: Columnas arquitectónicas del Palacio de la Alhambra en Granada, España
 - src: https://imgcdn.bokun.tools/aa9285f2-3bd3-4de9-97c1-c19aa04416c2.jpg
   alt: La Alhambra desde el mirador de San Nicolás
@@ -88,7 +88,7 @@ galeria:
 publicada: false
 destacada: false
 fecha: '2026-10-10'
-fecha_actualizacion: '2026-10-10'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

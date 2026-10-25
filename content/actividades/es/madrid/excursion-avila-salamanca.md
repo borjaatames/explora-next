@@ -2,8 +2,7 @@
 titulo: Ávila y Salamanca desde Madrid en un día
 slug: excursion-avila-salamanca
 ciudad: madrid
-descripcion: Excursión guiada de un día a Ávila y Salamanca desde Madrid con narración bilingüe. Dos ciudades Patrimonio de
-  la Humanidad en una jornada.
+descripcion: Excursión guiada de un día a Ávila y Salamanca desde Madrid con narración bilingüe. Dos ciudades Patrimonio de la Humanidad en una jornada.
 slugs:
   es: excursion-avila-salamanca
   en: avila-salamanca-day-trip
@@ -35,9 +34,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Monumento al Dr. Fleming, junto a C. de Julio Camba, 3, 28028 Madrid
-  descripcionGuia: 'El punto de encuentro varía según la opción que reserves (tour guiado sin entradas, con entradas o privado):
-    el operador lo confirma en el correo de la reserva. La salida es en la zona del Monumento al Dr. Fleming y la calle Julio
-    Camba, junto a la plaza de toros de Las Ventas. Llega 15 minutos antes.'
+  descripcionGuia: 'El punto de encuentro varía según la opción que reserves (tour guiado sin entradas, con entradas o privado): el operador lo confirma en el correo de la reserva. La salida es en la zona del Monumento al Dr. Fleming y la calle Julio Camba, junto a la plaza de toros de Las Ventas. Llega 15 minutos antes.'
   latitud: 40.4319
   longitud: -3.6635
   zoom: 16
@@ -58,41 +55,27 @@ informacionImportante:
   - 'La narración es bilingüe: el guía alterna español e inglés con el mismo grupo'
   - Las entradas a la catedral de Salamanca y a la muralla de Ávila son opcionales y con tarifa adicional
   - La comida no está incluida; hay tiempo libre para comer por tu cuenta
-accesibilidad: 'Excursión no recomendada para sillas de ruedas ni movilidad reducida: Ávila y Salamanca tienen calles estrechas
-  y empedradas, con cuestas y escalones.'
-politicaCancelacion: Cancela gratis hasta 24 horas antes de la salida y recibirás el reembolso completo. Después de ese plazo
-  no hay reembolso.
+accesibilidad: 'Excursión no recomendada para sillas de ruedas ni movilidad reducida: Ávila y Salamanca tienen calles estrechas y empedradas, con cuestas y escalones.'
+politicaCancelacion: Cancela gratis hasta 24 horas antes de la salida y recibirás el reembolso completo. Después de ese plazo no hay reembolso.
 preguntasFrecuentes:
 - pregunta: ¿Las entradas a los monumentos están incluidas?
-  respuesta: Depende de la opción que reserves. Hay una versión sin entradas y otra que incluye el acceso a la catedral de
-    Salamanca y a la muralla medieval de Ávila por una tarifa adicional. Si quieres entrar a esos monumentos, elige la opción
-    con entradas al reservar.
+  respuesta: Depende de la opción que reserves. Hay una versión sin entradas y otra que incluye el acceso a la catedral de Salamanca y a la muralla medieval de Ávila por una tarifa adicional. Si quieres entrar a esos monumentos, elige la opción con entradas al reservar.
 - pregunta: ¿El guía habla español?
-  respuesta: 'Sí. La narración es bilingüe en directo: el guía explica en español e inglés alternando los dos idiomas con
-    el mismo grupo. Eso significa que el tiempo neto de explicación en cada idioma es menor que en un tour monolingüe.'
+  respuesta: 'Sí. La narración es bilingüe en directo: el guía explica en español e inglés alternando los dos idiomas con el mismo grupo. Eso significa que el tiempo neto de explicación en cada idioma es menor que en un tour monolingüe.'
 - pregunta: ¿Cuánto dura la excursión?
-  respuesta: La jornada completa dura unas 11 horas e incluye los desplazamientos desde Madrid. Salamanca está más lejos que
-    Ávila, así que una buena parte del día es autobús.
+  respuesta: La jornada completa dura unas 11 horas e incluye los desplazamientos desde Madrid. Salamanca está más lejos que Ávila, así que una buena parte del día es autobús.
 - pregunta: ¿Está incluida la comida?
-  respuesta: No. La comida y las bebidas no están incluidas. Hay tiempo libre durante la visita, sobre todo en Salamanca,
-    para comer por tu cuenta.
+  respuesta: No. La comida y las bebidas no están incluidas. Hay tiempo libre durante la visita, sobre todo en Salamanca, para comer por tu cuenta.
 - pregunta: ¿Puedo cancelar si me surge un imprevisto?
-  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no
-    hay devolución.
+  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no hay devolución.
 variantes:
 - excursion-avila-segovia-con-entradas
 - excursion-cuenca-ciudad-encantada
 - tour-privado-avila-segovia-escorial
-opinionEditorial: 'Es la opción acertada si quieres añadir Salamanca a tu viaje sin dedicarle un día entero por tu cuenta.
-  La ciudad dorada —con su Plaza Mayor barroca, la Universidad y las dos catedrales— es de las más bonitas de España, y combinarla
-  con la Ávila amurallada en una sola salida desde Madrid es un buen aprovechamiento del tiempo. Operador con casi 600 reseñas
-  y nota sólida de 4,5.
+opinionEditorial: 'Es la opción acertada si quieres añadir Salamanca a tu viaje sin dedicarle un día entero por tu cuenta. La ciudad dorada —con su Plaza Mayor barroca, la Universidad y las dos catedrales— es de las más bonitas de España, y combinarla con la Ávila amurallada en una sola salida desde Madrid es un buen aprovechamiento del tiempo. Operador con casi 600 reseñas y nota sólida de 4,5.
 
 
-  Lo que el marketing no te cuenta: dos cosas. La primera, que la narración es "bilingüe", no en grupo separado en español;
-  el guía alterna idiomas con el mismo grupo, así que el tiempo de explicación en cada idioma se reduce a la mitad. La segunda,
-  que las entradas a la catedral de Salamanca y a la muralla de Ávila no van incluidas por defecto: son una opción con coste
-  extra. Revisa bien qué versión reservas. Y, como toda excursión larga con calles empedradas, no es para movilidad reducida.
+  Lo que el marketing no te cuenta: dos cosas. La primera, que la narración es "bilingüe", no en grupo separado en español; el guía alterna idiomas con el mismo grupo, así que el tiempo de explicación en cada idioma se reduce a la mitad. La segunda, que las entradas a la catedral de Salamanca y a la muralla de Ávila no van incluidas por defecto: son una opción con coste extra. Revisa bien qué versión reservas. Y, como toda excursión larga con calles empedradas, no es para movilidad reducida.
 
   '
 atraccionesRelacionadas:
@@ -104,7 +87,7 @@ keywords:
 - tour avila salamanca
 - visitar salamanca desde madrid
 - excursion salamanca madrid
-imagen: "/images/actividades/madrid/avila/avila-24-8-2002-hero.webp"
+imagen: /images/actividades/madrid/avila/avila-24-8-2002-hero.webp
 imagenAlt: Murallas y torreones de Ávila, la fortificación medieval mejor conservada de España
 galeria:
 - src: /images/actividades/madrid/avila/avila-spain-unesco-world-heritage-site-2-hero.webp
@@ -116,11 +99,11 @@ galeria:
 - src: /images/actividades/madrid/avila/avila-jornadas-medievales-hero.webp
   alt: Calle del casco histórico de Ávila durante una jornada medieval
 - src: /images/actividades/salamanca/catedrales/pixabay-259981-hero.webp
-  alt: Plaza Mayor de Salamanca con arquitectura clásica y columnatas
+  alt: Catedrales de Salamanca con la cúpula de la Catedral Nueva
 - src: /images/actividades/salamanca/catedrales/pexels-34547409-hero.webp
-  alt: Vista panorámica de Salamanca con sus edificios históricos y plazas características
+  alt: Bóvedas del interior de la catedral de Salamanca
 - src: /images/actividades/salamanca/catedrales/pixabay-3564346-hero.webp
-  alt: Plaza Mayor de Salamanca con arquitectura clásica y turistas
+  alt: Órgano barroco de la catedral de Salamanca
 - src: /images/actividades/avila/avila/pixabay-2709091-hero.webp
   alt: Muralla medieval de Ávila con torres y almenas bajo cielo azul
 - src: /images/actividades/avila/avila/wikimedia-21462651-hero.webp
@@ -128,18 +111,19 @@ galeria:
 - src: /images/actividades/avila/avila/wikimedia-56544635-hero.webp
   alt: Adarve de la muralla medieval de Ávila con sus almenas, con vistas sobre la ciudad.
 - src: /images/actividades/salamanca/casa-conchas/pexels-28435492-hero.webp
-  alt: Vistas panorámicas de Salamanca con arquitectura histórica y monumentos
+  alt: La Clerecía y la Casa de las Conchas de Salamanca
 - src: /images/actividades/salamanca/convento-san-esteban-salamanca/pixabay-2709103-hero.webp
-  alt: Plaza Mayor de Salamanca con arquitectura de arcos de piedra y fachadas históricas
+  alt: Convento de San Esteban de Salamanca
 - src: /images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero-hero.webp
-  alt: Universidad de Salamanca, fachada histórica con arquitectura gótica y renacentista
+  alt: Edificios históricos de Salamanca con las torres de la Clerecía
 - src: /images/actividades/salamanca/plaza-mayor/pixabay-2709112-hero.webp
-  alt: Plaza Mayor de Salamanca con arquitectura dorada al atardecer
+  alt: Plaza Mayor de Salamanca
 ratingProveedor: 4.5
 numeroOpiniones: 579
 publicada: true
 destacada: false
 fecha: '2026-05-14'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

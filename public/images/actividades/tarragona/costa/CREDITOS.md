@@ -16,3 +16,7 @@
 | cambrils-puerto-04.webp | Wikimedia Commons | Juan Emilio Prades Bel · File:Puerto de Cambrils (Tarragona).jpg | CC BY-SA 4.0 |
 
 Origen: `E:\imagenes-master\_descargas-2026-10-23b\tarragona--cambrils\` (23 oct 2026).
+- `catamaran-bano-mar-abierto.webp` — Amar Preciado · Pexels License · Pexels · https://www.pexels.com/photo/people-surfing-near-motor-yacht-14566727/
+- `catamaran-pasajeros-cubierta.webp` — Nikos Pentarakis · Pexels License · Pexels · https://www.pexels.com/photo/luxury-catamaran-anchored-in-crystal-clear-waters-32509685/
+- `catamaran-vela-puerto-cambrils.webp` — Monmar Comunicació from Vic · CC BY-SA 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Cat_Aventure_II_i_Dorimar_II,_Cambrils_2013_(8746369443).jpg
+- `catamaranes-puerto-cambrils.webp` — Juan Emilio Prades Bel · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Catamar%C3%A1n,_Cambrils.jpg

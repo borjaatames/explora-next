@@ -74,13 +74,21 @@ keywords:
 - tour alicante tuk tuk
 - castillo santa barbara tuk tuk
 - que ver en alicante
-imagen: /images/actividades/alicante/centro/castillo-santa-barbara.webp
-imagenAlt: Castillo de Santa Bárbara sobre el monte Benacantil
+imagen: /images/actividades/alicante/tuk-tuk/tuk-tuk-alicante-mirador.webp
+imagenAlt: Tuk tuk turístico eléctrico aparcado en un mirador de Alicante
 galeria:
-- src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-  alt: "Vista del puerto y la playa del Postiguet desde el castillo de Santa Bárbara"
-- src: "/images/actividades/alicante/centro/calle-san-antonio.webp"
-  alt: "Escaleras de la calle San Antonio con el monte Benacantil al fondo"
+- src: /images/actividades/alicante/tuk-tuk/tuk-tuk-calle-alvarez.webp
+  alt: Tuk tuk eléctrico en la calle Álvarez de Alicante
+- src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
+  alt: Castillo de Santa Bárbara sobre el monte Benacantil
+- src: /images/actividades/alicante/castillo-san-fernando/castillo-san-fernando-murallas.webp
+  alt: Murallas del castillo de San Fernando sobre el monte Tossal
+- src: /images/actividades/alicante/ciudades/alicante-hero.webp
+  alt: Vista del puerto y la playa del Postiguet desde el castillo de Santa Bárbara
+- src: /images/actividades/alicante/castillo-san-fernando/castillo-san-fernando-ciudad.webp
+  alt: Castillo de San Fernando con Alicante y el Benacantil al fondo
+- src: /images/actividades/alicante/centro/calle-san-antonio.webp
+  alt: Escaleras de la calle San Antonio con el monte Benacantil al fondo
 - src: /images/actividades/alicante/centro/explanada-palmeras.webp
   alt: Palmeras de la Explanada de España
 - src: /images/actividades/alicante/centro/santa-maria.webp
@@ -100,7 +108,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

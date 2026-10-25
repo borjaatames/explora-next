@@ -72,9 +72,15 @@ keywords:
 - salamanca by bike
 - things to do in salamanca
 - salamanca roman bridge
-imagen: /images/actividades/salamanca/rio/tormes-catedral.webp
-imagenAlt: Salamanca and its cathedrals from the Tormes
+imagen: /images/actividades/salamanca/bici/ciclistas-puente-romano.webp
+imagenAlt: Cyclists crossing the Roman bridge in Salamanca
 galeria:
+- src: /images/actividades/salamanca/bici/estacion-salenbici.webp
+  alt: Salenbici public bike station on a street in Salamanca
+- src: /images/actividades/salamanca/rio/tormes-catedral.webp
+  alt: Salamanca and its cathedrals from the Tormes
+- src: /images/actividades/salamanca/universidad/fachada-universidad.webp
+  alt: Plateresque façade of the University of Salamanca
 - src: /images/actividades/salamanca/centro/puente-romano.webp
   alt: The Roman bridge over the Tormes
 - src: /images/actividades/salamanca/rio/tormes-orilla.webp
@@ -96,7 +102,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

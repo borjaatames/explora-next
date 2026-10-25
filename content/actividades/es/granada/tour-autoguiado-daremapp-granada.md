@@ -61,27 +61,27 @@ keywords:
 - tour autoguiado granada
 - audioguía app granada
 - visita autoguiada granada
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp"
-imagenAlt: "Patio con agua y vegetación en el Generalife de la Alhambra"
+imagen: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
+imagenAlt: Patio con agua y vegetación en el Generalife de la Alhambra
 galeria:
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: "El Albaicín al caer la tarde"
+  alt: El Albaicín al caer la tarde
 - src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp
-  alt: "La Alhambra desde el mirador de San Nicolás"
+  alt: La Alhambra desde el mirador de San Nicolás
 - src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
-  alt: "Capilla Real de Granada — Isabel la Católica y Fernando el Católico"
+  alt: Capilla Real de Granada — Isabel la Católica y Fernando el Católico
 - src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
-  alt: "Columnata y capiteles del Patio de los Leones de la Alhambra"
+  alt: Columnata y capiteles del Patio de los Leones de la Alhambra
 - src: /images/actividades/granada/alhambra/pixabay-4522800-hero.webp
-  alt: "Vista panorámica de Granada con la Alhambra y Sierra Nevada al fondo"
+  alt: Palacios de la Alhambra vistos a través de un arco nazarí
 - src: /images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp
-  alt: "El Palacio de Carlos V dentro del recinto de la Alhambra"
+  alt: La Alhambra al atardecer con Sierra Nevada al fondo
 - src: https://imgcdn.bokun.tools/76ef4b63-2456-43cf-a249-8bac9e67f44d.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
+  alt: Aplicación DaremApp con el recorrido autoguiado
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver y descubrir

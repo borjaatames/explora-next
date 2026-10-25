@@ -89,13 +89,15 @@ keywords:
 - los cristianos kayak
 - tenerife snorkeling
 - tenerife turtles kayak
-imagen: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
-imagenAlt: Los Cristianos bay
+imagen: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+imagenAlt: Person paddling an orange kayak on the open sea
 galeria:
-- src: "/images/actividades/tenerife/cristianos/barco-turistas-delfines.webp"
-  alt: "Barco turistico junto a un grupo de delfines"
-- src: "/images/actividades/tenerife/cristianos/velero-blanco-mar-abierto.webp"
-  alt: "Velero blanco navegando en mar abierto"
+- src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
+  alt: Person snorkelling in clear blue water
+- src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
+  alt: Los Cristianos bay
+- src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
+  alt: Barco turistico junto a un grupo de delfines
 - src: /images/actividades/tenerife/cristianos/playa-honda.webp
   alt: Playa Honda in Los Cristianos
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
@@ -113,7 +115,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

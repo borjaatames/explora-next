@@ -1,8 +1,8 @@
 ---
-titulo: "Madrid Self-Guided Audio Tour – DareMapp App"
+titulo: Madrid Self-Guided Audio Tour – DareMapp App
 slug: self-guided-tour-daremapp-madrid
 ciudad: madrid
-descripcion: "Explore Madrid at your own pace with the DareMapp self-guided audio tour: 7 routes, from the Prado to Gran Via. No guide, available 24/7, in 6 languages."
+descripcion: 'Explore Madrid at your own pace with the DareMapp self-guided audio tour: 7 routes, from the Prado to Gran Via. No guide, available 24/7, in 6 languages.'
 slugs:
   es: tour-autoguiado-daremapp-madrid
   en: self-guided-tour-daremapp-madrid
@@ -19,13 +19,13 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1139667
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Explore Madrid at your own pace, with no fixed schedule and no group
 - Choose the stops you want and skip the ones you don't
-- "Listen whenever you like: pause and resume the audio anytime"
+- 'Listen whenever you like: pause and resume the audio anytime'
 - Available 24 hours a day, 365 days a year — the access never expires
 - Discover Plaza Mayor, Puerta del Sol, Gran Vía, El Retiro park and the Prado Museum, plus up to 7 themed routes (essential Madrid, Barrio de las Letras, La Latina, Paseo del Arte, Chueca...) with hundreds of points of interest in total — DareMapp's most complete catalogue
 incluye:
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - A physical guide (this is a fully self-guided experience, with no companion)
 puntoEncuentro:
-  texto: "No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Madrid"
+  texto: 'No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Madrid'
 informacionImportante:
   aTenerEnCuenta:
-  - "Suitable for the whole family: minimum age 1 year"
+  - 'Suitable for the whole family: minimum age 1 year'
   - App available in Spanish, English, Portuguese, French, Italian and German
   - Wheelchair- and stroller-friendly; service animals welcome
   - Good access to public transport around the route
@@ -50,8 +50,8 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice."
-opinionEditorial: "This is the right pick if you want to explore Madrid on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won't get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that's what you're after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice.
+opinionEditorial: 'This is the right pick if you want to explore Madrid on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won''t get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that''s what you''re after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well.'
 atraccionesRelacionadas:
 - otros-madrid
 categoria: visitasGuiadas
@@ -59,27 +59,27 @@ keywords:
 - self-guided tour madrid
 - madrid audio tour
 - madrid self-guided app tour
-imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
-imagenAlt: "Statue of Philip III and the Casa de la Panadería in Plaza Mayor"
+imagen: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp
+imagenAlt: Statue of Philip III and the Casa de la Panadería in Plaza Mayor
 galeria:
 - src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
-  alt: "Plaza Mayor, in the heart of the old town"
+  alt: Plaza Mayor, in the heart of the old town
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
-  alt: "Royal Palace of Madrid, a stop on the historic route"
+  alt: Royal Palace seen from the Campo del Moro gardens
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp
-  alt: "Plaza de Callao at night, a short walk from Tablao Torres Bermejas"
+  alt: Plaza de Callao and the Carrión building at night
 - src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp
-  alt: "Tío Pepe neon sign at Puerta del Sol at dusk"
+  alt: Tío Pepe neon sign at Puerta del Sol at dusk
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
-  alt: "Royal Palace of Madrid lit up at night"
+  alt: Royal Palace of Madrid lit up at night
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
-  alt: "Plaza de Oriente and the Royal Palace"
+  alt: Plaza de Oriente and the Royal Palace
 - src: https://imgcdn.bokun.tools/73cbdf92-f222-460e-ad6c-975a2d9fb464.jpg
-  alt: "DaremApp app with the self-guided route"
+  alt: DaremApp app with the self-guided route
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll discover

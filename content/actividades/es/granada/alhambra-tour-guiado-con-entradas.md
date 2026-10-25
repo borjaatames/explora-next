@@ -2,8 +2,7 @@
 titulo: 'Alhambra y Palacios Nazaríes: tour guiado con entradas'
 slug: alhambra-tour-guiado-con-entradas
 ciudad: granada
-descripcion: Tour guiado de 3 horas por la Alhambra, los Palacios Nazaríes, la Alcazaba y el Generalife con entradas incluidas.
-  La visita mejor valorada del comparador.
+descripcion: Tour guiado de 3 horas por la Alhambra, los Palacios Nazaríes, la Alcazaba y el Generalife con entradas incluidas. La visita mejor valorada del comparador.
 slugs:
   es: alhambra-tour-guiado-con-entradas
   en: alhambra-guided-tour-with-tickets
@@ -34,9 +33,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Zona de acceso a la Alhambra (el punto exacto se confirma según la opción reservada)
-  descripcionGuia: El punto de encuentro varía según la opción que elijas —grupo reducido o privado, y el idioma—. El operador
-    confirma la ubicación exacta en la reserva; en todos los casos es en la zona de acceso a la Alhambra. Llega 15 minutos
-    antes para empezar con margen.
+  descripcionGuia: El punto de encuentro varía según la opción que elijas —grupo reducido o privado, y el idioma—. El operador confirma la ubicación exacta en la reserva; en todos los casos es en la zona de acceso a la Alhambra. Llega 15 minutos antes para empezar con margen.
   latitud: 37.1772
   longitud: -3.5851
   zoom: 15
@@ -56,51 +53,31 @@ informacionImportante:
   - No está permitido tocar los monumentos
   - 'El acceso a los Palacios Nazaríes tiene una hora de entrada específica: planifica el transporte para llegar con margen'
   - La dificultad del recorrido va de fácil a moderada; no hay restricción de edad y el contenido se adapta a cada grupo
-accesibilidad: El operador no detalla el acceso para sillas de ruedas. El recorrido es a pie por terreno irregular, con una
-  dificultad que va de fácil a moderada. Confírmalo con el operador antes de reservar si necesitas accesibilidad.
-politicaCancelacion: 'Cancelación hasta 24 horas antes con reembolso del 50 %. No es cancelación gratuita: la Alhambra no
-  devuelve las entradas al operador, así que el reembolso es parcial. Es lo habitual en las visitas a la Alhambra.'
+accesibilidad: El operador no detalla el acceso para sillas de ruedas. El recorrido es a pie por terreno irregular, con una dificultad que va de fácil a moderada. Confírmalo con el operador antes de reservar si necesitas accesibilidad.
+politicaCancelacion: 'Cancelación hasta 24 horas antes con reembolso del 50 %. No es cancelación gratuita: la Alhambra no devuelve las entradas al operador, así que el reembolso es parcial. Es lo habitual en las visitas a la Alhambra.'
 preguntasFrecuentes:
 - pregunta: ¿Por qué es la mejor valorada y a la vez de las más caras?
-  respuesta: 'Las dos cosas están relacionadas. Es un tour en grupo reducido o privado, con guía oficial, y eso se paga: 99
-    € frente a los 50-75 € de las opciones de grupo. A cambio, tiene la nota más alta del comparador (4,9 sobre 5) y un 95
-    % de los viajeros hispanohablantes le dieron puntuación perfecta. Estás pagando por un formato más cuidado, no solo por
-    la entrada.'
+  respuesta: 'Las dos cosas están relacionadas. Es un tour en grupo reducido o privado, con guía oficial, y eso se paga: 99 € frente a los 50-75 € de las opciones de grupo. A cambio, tiene la nota más alta del comparador (4,9 sobre 5) y un 95 % de los viajeros hispanohablantes le dieron puntuación perfecta. Estás pagando por un formato más cuidado, no solo por la entrada.'
 - pregunta: ¿Qué significa que consiguen entradas aunque estén agotadas?
-  respuesta: El operador reserva cupos de entrada por adelantado, así que puede ofrecerte plaza incluso cuando la web oficial
-    de la Alhambra marca «agotado» para esa fecha. Es una de las ventajas de reservar un tour con entradas incluidas en lugar
-    de intentar la entrada suelta por tu cuenta.
+  respuesta: El operador reserva cupos de entrada por adelantado, así que puede ofrecerte plaza incluso cuando la web oficial de la Alhambra marca «agotado» para esa fecha. Es una de las ventajas de reservar un tour con entradas incluidas en lugar de intentar la entrada suelta por tu cuenta.
 - pregunta: ¿Es buena opción para ir con niños?
-  respuesta: Sí, es de las más pensadas para familias. No tiene restricción de edad, el contenido se adapta a cada grupo y
-    para los niños se incorporan juegos interactivos durante el recorrido. La dificultad va de fácil a moderada, así que es
-    asumible para la mayoría.
+  respuesta: Sí, es de las más pensadas para familias. No tiene restricción de edad, el contenido se adapta a cada grupo y para los niños se incorporan juegos interactivos durante el recorrido. La dificultad va de fácil a moderada, así que es asumible para la mayoría.
 - pregunta: ¿Cuánto dura cada parte del recorrido?
-  respuesta: 'El itinerario reparte las 3 horas aproximadamente así: una primera toma de contacto con la Alhambra, unos 30
-    minutos en la Alcazaba, alrededor de 75 minutos en los Palacios Nazaríes —la parte más extensa— y unos 45 minutos en el
-    Generalife. Los tiempos pueden variar según el grupo y la franja asignada.'
+  respuesta: 'El itinerario reparte las 3 horas aproximadamente así: una primera toma de contacto con la Alhambra, unos 30 minutos en la Alcazaba, alrededor de 75 minutos en los Palacios Nazaríes —la parte más extensa— y unos 45 minutos en el Generalife. Los tiempos pueden variar según el grupo y la franja asignada.'
 - pregunta: ¿Qué normas hay dentro de los Palacios Nazaríes?
-  respuesta: No se permiten palos de selfi, las mochilas hay que llevarlas por delante del cuerpo y no se puede tocar los
-    monumentos. Son normas del Patronato para proteger el conjunto; el guía te las recuerda antes de entrar.
+  respuesta: No se permiten palos de selfi, las mochilas hay que llevarlas por delante del cuerpo y no se puede tocar los monumentos. Son normas del Patronato para proteger el conjunto; el guía te las recuerda antes de entrar.
 variantes:
 - alhambra-grupo-reducido
 - alhambra-tour-privado
 - visita-guiada-alhambra-generalife
-avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
-opinionEditorial: 'Es la visita mejor valorada del comparador: 4,9 sobre 5, con un 95 % de viajeros hispanohablantes dándole
-  la nota máxima. No es casualidad —funciona en grupo reducido o privado, con guía oficial y un itinerario que reparte bien
-  las tres zonas de la Alhambra—, pero tampoco es gratis: a 99 € es de las opciones más caras de grupo del catálogo.
+avisoReserva: Las entradas de la Alhambra se agotan con semanas de antelación
+opinionEditorial: 'Es la visita mejor valorada del comparador: 4,9 sobre 5, con un 95 % de viajeros hispanohablantes dándole la nota máxima. No es casualidad —funciona en grupo reducido o privado, con guía oficial y un itinerario que reparte bien las tres zonas de la Alhambra—, pero tampoco es gratis: a 99 € es de las opciones más caras de grupo del catálogo.
 
 
-  La pregunta honesta es si esa nota te compensa el precio. Si vienes buscando la mejor experiencia posible y el presupuesto
-  no es el factor decisivo, esta es la apuesta más segura: el formato reducido y la valoración la respaldan. Si lo que quieres
-  es ver la Alhambra bien explicada sin que el precio se dispare, hay opciones de grupo a la mitad de coste que cumplen de
-  sobra.
+  La pregunta honesta es si esa nota te compensa el precio. Si vienes buscando la mejor experiencia posible y el presupuesto no es el factor decisivo, esta es la apuesta más segura: el formato reducido y la valoración la respaldan. Si lo que quieres es ver la Alhambra bien explicada sin que el precio se dispare, hay opciones de grupo a la mitad de coste que cumplen de sobra.
 
 
-  Dos cosas que la hacen destacar más allá de la nota. La primera: el operador consigue entradas incluso cuando la web oficial
-  marca «agotado», lo cual es un seguro real en temporada alta. La segunda: es de las visitas más amables para ir con niños
-  —sin restricción de edad, con el contenido adaptado y juegos interactivos por el camino—. Si viajas en familia, ese detalle
-  pesa.
+  Dos cosas que la hacen destacar más allá de la nota. La primera: el operador consigue entradas incluso cuando la web oficial marca «agotado», lo cual es un seguro real en temporada alta. La segunda: es de las visitas más amables para ir con niños —sin restricción de edad, con el contenido adaptado y juegos interactivos por el camino—. Si viajas en familia, ese detalle pesa.
 
   '
 atraccionesRelacionadas:
@@ -112,7 +89,7 @@ keywords:
 - alhambra grupo reducido
 - visita alhambra con ninos
 - alhambra palacios nazaries granada
-imagen: "/images/actividades/granada/alhambra-granada/wikimedia-22204352-hero.webp"
+imagen: /images/actividades/granada/alhambra-granada/wikimedia-22204352-hero.webp
 imagenAlt: Fotografía aérea de la Alhambra de Granada con sus muros y torres de piedra marrón
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero-hero.webp
@@ -136,15 +113,15 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-stucco-ceiling-patio-leones-spain-hero.webp
   alt: Techo labrado de una sala de los Palacios Nazaríes
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369623-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y las montañas de Sierra Nevada al fondo
+  alt: Arcos con yeserías de los Palacios Nazaríes
 - src: /images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero.webp
   alt: Techo de mocárabes iluminado en una sala de los Palacios Nazaríes
 - src: /images/actividades/granada/palacios-nazaries/pexels-5108925-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y sierra Nevada al fondo
+  alt: Estanque del Patio de los Arrayanes
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
   alt: Detalle de los azulejos y yeserias de los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-37489787-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+  alt: Patio de los Leones con su fuente
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
   alt: Los jardines del Generalife, con los chorros de agua en arco sobre el estanque central.
 ratingProveedor: 4.9
@@ -153,8 +130,9 @@ publicada: true
 destacada: false
 fecha: '2026-05-14'
 guiasRelacionadas:
-  - "alhambra-como-visitar"
-  - "alhambra-que-tour-elegir"
+- alhambra-como-visitar
+- alhambra-que-tour-elegir
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

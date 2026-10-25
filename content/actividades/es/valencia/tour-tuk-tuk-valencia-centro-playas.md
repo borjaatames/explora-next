@@ -75,13 +75,19 @@ keywords:
 - tour tuk tuk valencia
 - valencia en tuk tuk
 - tour valencia playa ciudad de las artes
-imagen: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
-imagenAlt: Torres de Serranos con palmeras
+imagen: /images/actividades/alicante/tuk-tuk/tuk-tuk-calle-alvarez.webp
+imagenAlt: Tuk tuk turístico eléctrico aparcado en una calle
 galeria:
-- src: "/images/actividades/valencia/centro/lonja-fachada.webp"
-  alt: "Fachada de la Lonja de la Seda de Valencia, Patrimonio UNESCO"
-- src: "/images/actividades/valencia/centro/plaza-virgen.webp"
-  alt: "Plaza de la Virgen de Valencia con la Catedral al fondo"
+- src: /images/actividades/valencia/mar/veles-e-vents.webp
+  alt: Edificio Veles e Vents en la Marina de Valencia
+- src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
+  alt: Torres de Serranos con palmeras
+- src: /images/actividades/valencia/mar/arenas-orilla.webp
+  alt: Reflejos del sol en la playa de las Arenas
+- src: /images/actividades/valencia/centro/lonja-fachada.webp
+  alt: Fachada de la Lonja de la Seda de Valencia, Patrimonio UNESCO
+- src: /images/actividades/valencia/centro/plaza-virgen.webp
+  alt: Plaza de la Virgen de Valencia con la Catedral al fondo
 - src: /images/actividades/valencia/centro/micalet-plaza.webp
   alt: El Micalet desde la plaza de la Reina
 - src: /images/actividades/valencia/centro/mercado-colon.webp
@@ -99,7 +105,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

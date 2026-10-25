@@ -2,11 +2,11 @@
 titulo: 'Tarragona: PortAventura + Ferrari Land + Caribe Aquatic Park ticket'
 slug: portaventura-ferrari-caribe-aquatic-ticket
 ciudad: tarragona
-descripcion: "Three-park combo ticket: PortAventura World theme park, Ferrari Land (Europe's tallest vertical accelerator), and Caribe Aquatic Park water park. Full access for one day each. 4.4/5 with 711 reviews."
+descripcion: 'Three-park combo ticket: PortAventura World theme park, Ferrari Land (Europe''s tallest vertical accelerator), and Caribe Aquatic Park water park. Full access for one day each. 4.4/5 with 711 reviews.'
 slugs:
   es: portaventura-ferrari-caribe-aquatic-entrada
   en: portaventura-ferrari-caribe-aquatic-ticket
-duracion: '1-3 days'
+duracion: 1-3 days
 duracionMinutos: 1440
 precioDesde: 76
 moneda: EUR
@@ -34,7 +34,7 @@ noIncluye:
 - Food and drink
 - Express Pass (optional upgrade)
 puntoEncuentro:
-  texto: "PortAventura World, Av. de l'Alcalde Pere Molas, Vila-seca, Tarragona"
+  texto: PortAventura World, Av. de l'Alcalde Pere Molas, Vila-seca, Tarragona
   descripcionGuia: PortAventura is 1 hour from Barcelona by train (direct train to PortAventura station from Barcelona Sants). By car, take the AP-7 motorway and exit at PortAventura. Large on-site car parks available. Ferrari Land and Caribe Aquatic Park are within the same resort complex — no transport needed between parks.
   latitud: 41.0857
   longitud: 1.1539
@@ -63,12 +63,12 @@ accesibilidad: Good overall accessibility. PortAventura has adapted access for a
 politicaCancelacion: Free cancellation up to 24 hours before with full refund.
 preguntasFrecuentes:
 - pregunta: What is the best roller coaster at PortAventura?
-  respuesta: "Shambhala is the most impressive: Europe's tallest hypercoaster at 76 metres. Dragon Khan is the classic — 8 inversions, and an icon of European theme parks since 1995. Furius Baco is a launch coaster reaching 135 km/h in 3 seconds."
+  respuesta: 'Shambhala is the most impressive: Europe''s tallest hypercoaster at 76 metres. Dragon Khan is the classic — 8 inversions, and an icon of European theme parks since 1995. Furius Baco is a launch coaster reaching 135 km/h in 3 seconds.'
 - pregunta: What is Red Force at Ferrari Land?
   respuesta: Red Force is the star of Ferrari Land — a vertical launch roller coaster that accelerates from 0 to 180 km/h in 5 seconds and reaches 112 metres in height. It is the tallest and fastest accelerator coaster in Europe.
 - pregunta: Can I do all three parks in one day?
   respuesta: Not comfortably. The combo gives you separate days for each park. PortAventura and Ferrari Land can be combined in one long day (they are adjacent), but Caribe Aquatic Park deserves its own day to enjoy properly.
-opinionEditorial: "PortAventura is Spain's flagship theme park and one of Europe's best. Ferrari Land is compact but extraordinary — Red Force is worth the trip on its own. The Caribe park completes a full resort experience. An hour from Barcelona, this is Spain's most complete theme park resort."
+opinionEditorial: PortAventura is Spain's flagship theme park and one of Europe's best. Ferrari Land is compact but extraordinary — Red Force is worth the trip on its own. The Caribe park completes a full resort experience. An hour from Barcelona, this is Spain's most complete theme park resort.
 guiasRelacionadas:
 - portaventura-world-guide
 - tarragona-in-one-day
@@ -81,20 +81,22 @@ keywords:
 imagen: /images/actividades/tarragona/portaventura/dragon-khan.webp
 imagenAlt: Dragon Khan roller coaster at PortAventura World, Tarragona
 galeria:
-  - src: "/images/actividades/tarragona/portaventura/ferrari-land.webp"
-    alt: "Ferrari Land at PortAventura World"
-  - src: "/images/actividades/tarragona/portaventura/shambhala-lago.webp"
-    alt: "Shambhala, Europe's tallest roller coaster at PortAventura"
-  - src: "/images/actividades/tarragona/portaventura/montanas-rusas.webp"
-    alt: "Panoramic view of the rides at PortAventura World"
-  - src: "/images/actividades/tarragona/portaventura/red-force.webp"
-    alt: "Red Force, Ferrari Land's acceleration coaster"
-  - src: "/images/actividades/tarragona/portaventura/polynesia.webp"
-    alt: "Polynesia themed area at PortAventura World"
-  - src: "/images/actividades/tarragona/portaventura/fuente.webp"
-    alt: "Themed fountain at PortAventura World"
-  - src: "/images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp"
-    alt: "Shambhala and Dragon Khan, the two main coasters"
+- src: /images/actividades/tarragona/portaventura/caribe-aquatic-toboganes.webp
+  alt: Slides and pools at Caribe Aquatic Park
+- src: /images/actividades/tarragona/portaventura/ferrari-land.webp
+  alt: Ferrari Land at PortAventura World
+- src: /images/actividades/tarragona/portaventura/shambhala-lago.webp
+  alt: Shambhala, Europe's tallest roller coaster at PortAventura
+- src: /images/actividades/tarragona/portaventura/montanas-rusas.webp
+  alt: Panoramic view of the rides at PortAventura World
+- src: /images/actividades/tarragona/portaventura/red-force.webp
+  alt: Red Force, Ferrari Land's acceleration coaster
+- src: /images/actividades/tarragona/portaventura/polynesia.webp
+  alt: Polynesia themed area at PortAventura World
+- src: /images/actividades/tarragona/portaventura/fuente.webp
+  alt: Themed fountain at PortAventura World
+- src: /images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp
+  alt: Shambhala and Dragon Khan, the two main coasters
 ratingProveedor: 4.4
 numeroOpiniones: 711
 atraccionesRelacionadas:
@@ -102,7 +104,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: true
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Spain's biggest theme park resort

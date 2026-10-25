@@ -73,12 +73,20 @@ keywords:
 imagen: /images/actividades/malaga/mijas-marbella/mijas-01.webp
 imagenAlt: Whitewashed houses of Mijas Pueblo on the hillside
 galeria:
+- src: /images/actividades/malaga/mijas-marbella/castillo-colomares.webp
+  alt: Façade of Colomares castle in Benalmádena
 - src: /images/actividades/malaga/mijas-marbella/mijas-02.webp
   alt: Mijas Pueblo with the mountains behind
+- src: /images/actividades/malaga/mijas-marbella/castillo-colomares-torres.webp
+  alt: Towers of Colomares castle, a monument to Columbus
 - src: /images/actividades/malaga/mijas-marbella/mijas-03.webp
   alt: Mijas street with shops and flowerpots
+- src: /images/actividades/malaga/marbella/marbella-plaza-naranjos.webp
+  alt: Plaza de los Naranjos in Marbella with orange trees and white houses
 - src: /images/actividades/malaga/mijas-marbella/puerto-banus-01.webp
   alt: Yachts in Puerto Banús with La Concha behind
+- src: /images/actividades/malaga/marbella/marbella-calle-buganvilla.webp
+  alt: White street in Marbella old town with bougainvillea
 - src: /images/actividades/malaga/mijas-marbella/mijas-04.webp
   alt: Whitewashed wall with flowerpots in Mijas
 - src: /images/actividades/malaga/mijas-marbella/puerto-banus-02.webp
@@ -96,7 +104,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

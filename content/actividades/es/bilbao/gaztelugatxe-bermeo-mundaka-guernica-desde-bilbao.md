@@ -83,10 +83,16 @@ keywords:
 imagen: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-islote.webp
 imagenAlt: Islote de San Juan de Gaztelugatxe con la ermita y el puente de piedra
 galeria:
-- src: "/images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp"
-  alt: "Camino de piedra de San Juan de Gaztelugatxe al atardecer"
+- src: /images/actividades/bilbao/gaztelugatxe/mural-guernica-gernika.webp
+  alt: Mural de azulejos del Guernica de Picasso en Gernika
+- src: /images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp
+  alt: Camino de piedra de San Juan de Gaztelugatxe al atardecer
+- src: /images/actividades/bilbao/costa-vasca/txakoli-vinedos-mar.webp
+  alt: Viñedos de txakoli junto al Cantábrico en la costa vasca
 - src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
   alt: Escaleras y puente de piedra hacia la ermita de Gaztelugatxe
+- src: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
+  alt: Copa de vino blanco
 - src: /images/actividades/bilbao/gaztelugatxe/ermita.webp
   alt: Ermita de San Juan de Gaztelugatxe en lo alto del islote
 - src: /images/actividades/bilbao/gaztelugatxe/puerto-bermeo.webp
@@ -102,7 +108,7 @@ numeroOpiniones: 3229
 publicada: true
 destacada: false
 fecha: '2026-10-04'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

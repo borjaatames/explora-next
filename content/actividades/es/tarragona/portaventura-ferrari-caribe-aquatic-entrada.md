@@ -6,7 +6,7 @@ descripcion: 'Entrada combinada al complejo de parques de Port Aventura: PortAve
 slugs:
   es: portaventura-ferrari-caribe-aquatic-entrada
   en: portaventura-ferrari-caribe-aquatic-ticket
-duracion: '2-3 días'
+duracion: 2-3 días
 duracionMinutos: 1440
 precioDesde: 76
 moneda: EUR
@@ -19,8 +19,8 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - PortAventura World con 6 zonas temáticas y Dragon Khan
-- "Ferrari Land: el único parque temático de Ferrari en Europa"
-- "Caribe Aquatic Park: parque acuático de referencia en España"
+- 'Ferrari Land: el único parque temático de Ferrari en Europa'
+- 'Caribe Aquatic Park: parque acuático de referencia en España'
 - Shambhala, la montaña rusa más alta de Europa
 incluye:
 - Entrada a PortAventura World
@@ -32,7 +32,7 @@ noIncluye:
 - Transporte
 - Accesos express (disponibles en taquilla)
 puntoEncuentro:
-  texto: 'PortAventura World, Av. Alcalde Pere Molas, km 2, Vila-seca, Tarragona'
+  texto: PortAventura World, Av. Alcalde Pere Molas, km 2, Vila-seca, Tarragona
   descripcionGuia: El complejo está en Vila-seca, a 10 km de Tarragona. En tren, toma el AVE o Rodalies hasta la estación de PortAventura. En coche, autopista AP-7 salida 35. Aparcamiento disponible (coste extra). Muestra el voucher en la taquilla principal.
   latitud: 41.0876
   longitud: 1.1572
@@ -62,8 +62,8 @@ preguntasFrecuentes:
 - pregunta: ¿Qué diferencia hay entre este combo y la entrada solo a PortAventura World?
   respuesta: Este combo añade Ferrari Land (parque temático exclusivo de Ferrari con Red Force a 180 km/h) y Caribe Aquatic Park (parque acuático). Es el ticket más completo del complejo y el más recomendable si tienes 2 o más días.
 - pregunta: ¿Cuántos días necesito para los tres parques?
-  respuesta: "Mínimo 2 días completos: un día para PortAventura World y un día para Ferrari Land + Caribe Aquatic Park. Con 3 días lo disfrutarás sin prisas."
-- pregunta: "¿Dragon Khan o Shambhala: cuál es mejor?"
+  respuesta: 'Mínimo 2 días completos: un día para PortAventura World y un día para Ferrari Land + Caribe Aquatic Park. Con 3 días lo disfrutarás sin prisas.'
+- pregunta: '¿Dragon Khan o Shambhala: cuál es mejor?'
   respuesta: Son experiencias distintas. Shambhala es la montaña rusa más alta de Europa (76 m) con velocidad de 134 km/h, muy suave para ser tan grande. Dragon Khan es más clásica con 8 loopings y más brusca. Los aficionados recomiendan hacer ambas.
 opinionEditorial: 'PortAventura es el parque de atracciones más grande de España y uno de los mejores de Europa. El combo con Ferrari Land y Caribe añade capas de experiencia que justifican completamente el precio. Si vienes desde lejos, no escatimes en días: este complejo merece tiempo.'
 guiasRelacionadas:
@@ -78,20 +78,22 @@ keywords:
 imagen: /images/actividades/tarragona/portaventura/dragon-khan.webp
 imagenAlt: Dragon Khan, la montaña rusa icónica de PortAventura World
 galeria:
-  - src: "/images/actividades/tarragona/portaventura/ferrari-land.webp"
-    alt: "Ferrari Land en PortAventura World"
-  - src: "/images/actividades/tarragona/portaventura/shambhala-lago.webp"
-    alt: "Shambhala, la montaña rusa más alta de Europa en PortAventura"
-  - src: "/images/actividades/tarragona/portaventura/montanas-rusas.webp"
-    alt: "Vista panorámica de las atracciones de PortAventura World"
-  - src: "/images/actividades/tarragona/portaventura/red-force.webp"
-    alt: "Red Force, la montaña rusa de aceleración de Ferrari Land"
-  - src: "/images/actividades/tarragona/portaventura/polynesia.webp"
-    alt: "Zona temática Polynesia de PortAventura World"
-  - src: "/images/actividades/tarragona/portaventura/fuente.webp"
-    alt: "Fuente temática de PortAventura World"
-  - src: "/images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp"
-    alt: "Shambhala y Dragon Khan, las dos grandes montañas rusas"
+- src: /images/actividades/tarragona/portaventura/caribe-aquatic-toboganes.webp
+  alt: Toboganes y piscinas de Caribe Aquatic Park
+- src: /images/actividades/tarragona/portaventura/ferrari-land.webp
+  alt: Ferrari Land en PortAventura World
+- src: /images/actividades/tarragona/portaventura/shambhala-lago.webp
+  alt: Shambhala, la montaña rusa más alta de Europa en PortAventura
+- src: /images/actividades/tarragona/portaventura/montanas-rusas.webp
+  alt: Vista panorámica de las atracciones de PortAventura World
+- src: /images/actividades/tarragona/portaventura/red-force.webp
+  alt: Red Force, la montaña rusa de aceleración de Ferrari Land
+- src: /images/actividades/tarragona/portaventura/polynesia.webp
+  alt: Zona temática Polynesia de PortAventura World
+- src: /images/actividades/tarragona/portaventura/fuente.webp
+  alt: Fuente temática de PortAventura World
+- src: /images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp
+  alt: Shambhala y Dragon Khan, las dos grandes montañas rusas
 ratingProveedor: 4.4
 numeroOpiniones: 711
 atraccionesRelacionadas:
@@ -99,7 +101,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: true
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

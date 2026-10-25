@@ -83,12 +83,22 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp
+  alt: Fachada gótica de la basílica de Santa Maria del Mar, en el Born
+- src: /images/actividades/barcelona/born/santa-maria-del-mar-interior.webp
+  alt: Nave gótica de Santa Maria del Mar con el rosetón al fondo
+- src: /images/actividades/barcelona/born/born-ccm-ruinas.webp
+  alt: Restos arqueológicos de la Barcelona de 1714 bajo la estructura del antiguo mercado del Born
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
+  alt: Entrada del mercado de la Boquería desde La Rambla
+- src: /images/actividades/barcelona/gotico/placa-reial.webp
+  alt: Plaça Reial con palmeras y soportales en el Barrio Gótico
+- src: /images/actividades/barcelona/gotico/santa-maria-del-pi-fachada.webp
+  alt: Fachada de Santa Maria del Pi con su gran rosetón
 - src: https://imgcdn.bokun.tools/0329cd45-1601-4b74-9507-47cccd5d2882.jpg
   alt: Grupo con su guía en una plaza del Barrio Gótico
 - src: https://imgcdn.bokun.tools/acbf05a9-b2e6-47ba-a76c-7bc7a0f11595.jpg
   alt: Niños tocando el buzón modernista de la tortuga en el Barrio Gótico
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
-  alt: Entrada del mercado de la Boquería desde La Rambla
 - src: https://imgcdn.bokun.tools/3bf57f2e-16b7-4ac6-bf98-c404d11cff0f.jpg
   alt: Arquivoltas de una portada gótica
 - src: https://imgcdn.bokun.tools/977adea4-2091-45f5-9f88-219f8c570792.jpg
@@ -96,7 +106,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/2e523bd9-6d89-4e99-b39a-a0ec369310c2.jpg
   alt: Viajeras sentadas junto a una fuente en el casco antiguo
 bokunProductId: 217563
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## El recorrido

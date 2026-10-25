@@ -78,3 +78,9 @@ Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `wikimedia-9029528-hero.webp` — Bernard Gagnon, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sagrada_Familia_03.jpg)
 - `sagrada-familia-intricate-ceiling-columns-hero-hero.webp` — AXP Photography, licencia Pexels, vía Pexels (https://www.pexels.com/photo/27348442/)
 - `sagrada-familia-como-visitar-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `cripta-sagrada-familia.webp` — Vaido Otsar · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Sagrada_Familia_Crypt_2017.jpg
+- `fachada-nacimiento-estanque.webp` — Canaan · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:SF_-_lago1.jpg
+- `museo-taller-maquetas.webp` — Alberto-g-rovi · CC BY 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Museo_de_la_Sagrada_Familia_%285%29.jpg
+- `pinaculos-torre-vistas.webp` — Ank Kumar · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Nativity_towers%2C_Sagrada_Familia%2C_Barcelona_%28Ank_Kumar%29_06.jpg
+- `vista-desde-torre-agbar.webp` — Selbymay · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Barcelona_from_Sagrada_Familia.JPG
+- `vista-desde-torre-nacimiento.webp` — Ank Kumar · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Nativity_towers%2C_Sagrada_Familia%2C_Barcelona_13.jpg

@@ -93,7 +93,7 @@ galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-abadia.webp
   alt: Monasterio de Montserrat al pie de las agujas de roca
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Vistas panorámicas de Montserrat con sus formaciones rocosas al atardecer
+  alt: Estatua del abad Oliba entre la vegetación de Montserrat
 - src: https://imgcdn.bokun.tools/328a1a6e-f150-4e56-8510-87ffe45b24e6.jpg
   alt: Edificio modernista de las cavas Codorníu bajo un cielo azul
 - src: https://imgcdn.bokun.tools/33970ab4-543f-4b02-8485-5de25cabbb7a.jpg
@@ -101,7 +101,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/ac231d86-cd2d-4c5f-9961-1e9833bc521e.jpg
   alt: Sala modernista de arcos en las bodegas
 bokunProductId: 242957
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Cómo es el día

@@ -9,3 +9,4 @@
 
 <!-- Añadido 16-10-2026 desde el registro del pipeline -->
 - `archivo-indias-sevilla-001-hero.webp` — Anual, CC BY 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Archivo_de_Indias_001.jpg)
+- `archivo-indias-galeria-interior.webp` — Anual · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Archivo_de_indias_2018002.jpg

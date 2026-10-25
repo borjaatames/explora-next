@@ -71,23 +71,33 @@ keywords:
 - entrada combinada oceanografic museo ciencias
 - ciudad de las artes y las ciencias entradas
 - museo de las ciencias valencia entrada
-imagen: /images/actividades/valencia/museo-ciencias/museo-ciencias-atardecer.webp
-imagenAlt: Museo de las Ciencias Príncipe Felipe al atardecer
+imagen: /images/actividades/valencia/oceanografic/oceanografic-tunel-tiburones.webp
+imagenAlt: Visitantes en el túnel submarino del Oceanogràfic de Valencia
 galeria:
-- src: "/images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp"
-  alt: "Arquitectura del Oceanogràfic de Valencia en la Ciudad de las Artes"
-- src: "/images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp"
-  alt: "Exterior de la Ciudad de las Artes y Ciencias de Valencia"
+- src: /images/actividades/valencia/oceanografic/oceanografic-beluga.webp
+  alt: Beluga nadando en su piscina del Oceanogràfic
+- src: /images/actividades/valencia/museo-ciencias/museo-ciencias-atardecer.webp
+  alt: Museo de las Ciencias Príncipe Felipe al atardecer
+- src: /images/actividades/valencia/oceanografic/oceanografic-tiburon.webp
+  alt: Tiburón toro en el acuario de océanos del Oceanogràfic
+- src: /images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp
+  alt: Arquitectura del Oceanogràfic de Valencia en la Ciudad de las Artes
+- src: /images/actividades/valencia/oceanografic/oceanografic-leon-marino.webp
+  alt: León marino sobre una roca en el Oceanogràfic
+- src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp
+  alt: Exterior de la Ciudad de las Artes y Ciencias de Valencia
+- src: /images/actividades/valencia/museo-ciencias/museo-ciencias-interior-sala.webp
+  alt: Gran nave interior del Museo de las Ciencias con sus exposiciones
 - src: /images/actividades/valencia/museo-ciencias/hemisferic-dia.webp
   alt: El Hemisfèric reflejado en el agua
+- src: /images/actividades/valencia/museo-ciencias/museo-ciencias-adn.webp
+  alt: Gran molécula de ADN en el interior del Museo de las Ciencias
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp
   alt: Estructura blanca del Museo de las Ciencias
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-noche.webp
   alt: Museo de las Ciencias iluminado de noche
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-rotulo.webp
   alt: Fachada del Museu de les Ciències con su rótulo
-- src: /images/actividades/valencia/museo-ciencias/hemisferic.webp
-  alt: El Hemisfèric de Calatrava
 ratingProveedor: 4.7
 numeroOpiniones: 2797
 atraccionesRelacionadas:
@@ -95,7 +105,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

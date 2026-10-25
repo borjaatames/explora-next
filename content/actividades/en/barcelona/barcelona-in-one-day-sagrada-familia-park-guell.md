@@ -19,7 +19,7 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - 'Full day in a small group: Montjuïc, the old town, Passeig de Gràcia, Park Güell and the Sagrada Familia'
-- 'Skip-the-line entry to the Sagrada Familia and Park Güell, included in the price'
+- Skip-the-line entry to the Sagrada Familia and Park Güell, included in the price
 - Private transport during some parts of the tour and a professional guide
 - 'The highest-rated activity: 4.9 out of 5 with over 15,000 reviews'
 - Walking tour of the Gothic Quarter and panoramic views from Montjuïc
@@ -39,7 +39,7 @@ puntoEncuentro:
   latitud: 41.3816
   longitud: 2.172
   zoom: 17
-  descripcionGuia: 'The meeting point is La Rambla 97, in front of the «Casa Beethoven» music store, at 9:00 a.m. Arrive 10 minutes early for check-in. The tour is on foot and with private transport on some legs, and ends at the Sagrada Familia. There is no hotel pickup.'
+  descripcionGuia: The meeting point is La Rambla 97, in front of the «Casa Beethoven» music store, at 9:00 a.m. Arrive 10 minutes early for check-in. The tour is on foot and with private transport on some legs, and ends at the Sagrada Familia. There is no hotel pickup.
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
@@ -52,18 +52,17 @@ informacionImportante:
   noAptoPara:
   - Anyone wanting only the interior visit of the Sagrada Familia without the city tour
   aTenerEnCuenta:
-  - 'Skip-the-line entry to the Sagrada Familia and Park Güell is INCLUDED, plus an exterior guided visit of the Sagrada Familia; you explore the interiors on your own with the ticket (the Sagrada Familia with an audio-guide app), the guide does not go inside with you'
-  - 'It''s a meeting-point tour (La Rambla 97, 9:00 a.m.), not hotel pickup; it ends at the Sagrada Familia'
+  - Skip-the-line entry to the Sagrada Familia and Park Güell is INCLUDED, plus an exterior guided visit of the Sagrada Familia; you explore the interiors on your own with the ticket (the Sagrada Familia with an audio-guide app), the guide does not go inside with you
+  - It's a meeting-point tour (La Rambla 97, 9:00 a.m.), not hotel pickup; it ends at the Sagrada Familia
   - It's a long day, around 7 hours, in a small group
   - 'Sagrada Familia entry is nominative: keep every participant''s ID document to hand'
 accesibilidad: The operator states the tour is wheelchair and stroller accessible, with child seats available. The Sagrada Familia towers are not accessible.
-politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance. Within the 24 hours before, there
-  is no refund.
+politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance. Within the 24 hours before, there is no refund.
 preguntasFrecuentes:
 - pregunta: Is entry to the Sagrada Familia and Park Güell included?
-  respuesta: 'Yes. The price includes skip-the-line entry to the Sagrada Familia and Park Güell, plus an exterior guided visit of the Sagrada Familia. You explore the interiors on your own with the ticket — the Sagrada Familia with an audio-guide app — while the guide handles the city part (Gothic Quarter, Montjuïc) and the exterior visit of the basilica, but does not go inside the monuments with you.'
+  respuesta: Yes. The price includes skip-the-line entry to the Sagrada Familia and Park Güell, plus an exterior guided visit of the Sagrada Familia. You explore the interiors on your own with the ticket — the Sagrada Familia with an audio-guide app — while the guide handles the city part (Gothic Quarter, Montjuïc) and the exterior visit of the basilica, but does not go inside the monuments with you.
 - pregunta: Is there hotel pickup?
-  respuesta: 'No. This is a meeting-point tour at La Rambla 97, next to the «Casa Beethoven» store, at 9:00 a.m.; arrive 10 minutes early for check-in. The route ends at the Sagrada Familia.'
+  respuesta: No. This is a meeting-point tour at La Rambla 97, next to the «Casa Beethoven» store, at 9:00 a.m.; arrive 10 minutes early for check-in. The route ends at the Sagrada Familia.
 - pregunta: What language is the tour in?
   respuesta: Spanish and English. Check your departure's language at booking.
 - pregunta: Is it wheelchair accessible?
@@ -74,7 +73,7 @@ variantes:
 - sagrada-familia-and-park-guell-guided-tour
 - sagrada-familia-ticket-audio-guide
 - sagrada-familia-skip-the-line-guided-tour
-avisoReserva: 'In high season, the Sagrada Familia sells out weeks in advance'
+avisoReserva: In high season, the Sagrada Familia sells out weeks in advance
 opinionEditorial: 'This is Barcelona''s «all in one day»: you meet in the centre first thing and, over around 7 hours, you see Montjuïc, the old town, the Gothic Quarter, Passeig de Gràcia, Park Güell and the Sagrada Familia, with a guide and private transport on some legs. For anyone landing with a single day and wanting to squeeze it without organising anything, it works — and the score backs it up like few others: 4.9 out of 5 with over 15,000 reviews, the highest.
 
 
@@ -91,7 +90,7 @@ keywords:
 - sagrada familia guided tour barcelona
 - what to see in barcelona in one day
 imagen: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-imagenAlt: Bustling Barcelona street with colorful buildings and pedestrians
+imagenAlt: The Passion façade of the Sagrada Familia
 ratingProveedor: 4.9
 numeroOpiniones: 15762
 publicada: true
@@ -101,27 +100,27 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
-  alt: 'Gothic Quarter Barcelona: narrow medieval street with historic architecture and stone buildings'
+  alt: Narrow street with balconies in Barcelona's old town
 - src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
-  alt: Barcelona cityscape with modern architecture and urban landscape
+  alt: Barcelona seen from the steps of the Palau Nacional (MNAC)
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
   alt: Interior of the Sagrada Familia with columns lit by the warm-toned stained glass light
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp
   alt: The park's famous mosaic dragon fountain (El Drac) on the entrance staircase of Park Güell
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero-hero.webp
-  alt: Gothic Quarter Barcelona's narrow medieval streets with shadowy arches and historic architecture
+  alt: Alley beneath an arch in Barcelona's Gothic Quarter
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
-  alt: Barcelona cityscape with historic architecture and Mediterranean atmosphere
+  alt: Nave vault of the Sagrada Familia with its skylights
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero-hero.webp
-  alt: Park Güell's colorful mosaic terraces and architectural structures designed by Gaudí, Barcelona
+  alt: Stone porticoes and staircase in Park Güell
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
   alt: Interior stained-glass windows of the Sagrada Familia with saints' names inscribed
 - src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp
-  alt: Park Güell terrace with colorful mosaic tiles overlooking Barcelona cityscape
+  alt: Park Güell entrance pavilions with their ceramic roofs
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
   alt: Interior nave of the Sagrada Familia looking toward the altar, with its tall columns
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Barcelona cityscape with buildings and urban architecture
+  alt: Red and orange light from the stained glass inside the Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-landmark-monument-hero-hero.webp
   alt: Park Güell's colorful mosaic terraces and architecture designed by Gaudí in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
@@ -129,27 +128,27 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Sagrada Familia basilica exterior with intricate Gothic architecture and towering spires in Barcelona
 - src: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
-  alt: Barcelona cityscape with Gothic Quarter architecture and modern buildings
+  alt: Palau Nacional viewpoint on Montjuïc overlooking Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
-  alt: Barcelona street scene with historic architecture and urban buildings
+  alt: Stained-glass light cast on the columns of the Sagrada Familia
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-foto-91758636-hero-hero.webp
   alt: Gothic Quarter Barcelona, narrow medieval streets with historic stone buildings
 - src: /images/actividades/barcelona/park-guell/unsplash-aX5NLrKgRBc-hero.webp
-  alt: Panoramic view of Barcelona skyline with Mediterranean Sea and mountains in background
+  alt: Park Güell's wavy trencadís bench overlooking Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
-  alt: Barcelona cityscape with Gothic architecture and narrow medieval streets
+  alt: Blue and green stained glass in the Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/wikimedia-8790292-hero.webp
-  alt: Barcelona street scene with historic architecture and urban landscape
+  alt: Tower and pavilion at the Park Güell entrance
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
   alt: Sagrada Familia basilica with soaring Gothic towers in Barcelona, Spain
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-vibrant-orange-bicycle-leans-hero-hero.webp
   alt: Vibrant orange bicycle leaning against a wall in Barcelona's Gothic Quarter
 - src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landscape
+  alt: Plaça d'Espanya and the Venetian towers, with the Palau Nacional (MNAC) behind
 bokunProductId: 674376
-fecha_actualizacion: '2026-06-22'
+fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
-  - "sagrada-familia-which-ticket-to-choose"
+- sagrada-familia-which-ticket-to-choose
 ---
 
 ## What you'll see

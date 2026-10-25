@@ -2,8 +2,7 @@
 titulo: Montserrat with Rack Railway, Black Madonna and 10th-Century Winery
 slug: montserrat-rack-railway-winery-castlexperience
 ciudad: barcelona
-descripcion: 'Flexible 6-10 hour excursion: coach, rack railway, monastery, optional Moreneta and 10th-century winery with
-  tasting and tapas (optional). The most complete Castlexperience offer on GYG.'
+descripcion: 'Flexible 6-10 hour excursion: coach, rack railway, monastery, optional Moreneta and 10th-century winery with tasting and tapas (optional). The most complete Castlexperience offer on GYG.'
 slugs:
   en: montserrat-rack-railway-winery-castlexperience
   es: montserrat-cremallera-bodega-castlexperience
@@ -58,8 +57,7 @@ informacionImportante:
   noAptoPara:
   - People with limited mobility (contact operator before booking)
   aTenerEnCuenta:
-  - '4 booking options available: half-day with rack railway, day with winery and tapas, day with lunch, day with Moreneta.
-    Choose when booking'
+  - '4 booking options available: half-day with rack railway, day with winery and tapas, day with lunch, day with Moreneta. Choose when booking'
   - Groups are max 20 people per guide (rarely 22)
   - Temperatures at Montserrat tend to be more extreme than in Barcelona
   - On Sundays or religious celebrations the basilica may be closed
@@ -67,31 +65,21 @@ accesibilidad: Tour not wheelchair accessible. For limited mobility, contact the
 politicaCancelacion: Free cancellation up to 24 hours before with full refund.
 preguntasFrecuentes:
 - pregunta: What's the difference vs the no-rack-railway option (EXB-22)?
-  respuesta: This DOES include rack railway (iconic for Montserrat). If you don't care about it and prefer to save, EXB-22
-    is ~€47 too but without rack railway. If you value the iconic image of the rack railway climbing the mountain, this is
-    the choice.
+  respuesta: This DOES include rack railway (iconic for Montserrat). If you don't care about it and prefer to save, EXB-22 is ~€47 too but without rack railway. If you value the iconic image of the rack railway climbing the mountain, this is the choice.
 - pregunta: What options are available when booking?
-  respuesta: '4: (1) Rack railway + monastery (half-day, ~€47); (2) With winery and tapas (~€57, 7h); (3) With full lunch
-    and winery (~€70, 9h); (4) With Moreneta included (~€5 extra). Each combination has its price.'
+  respuesta: '4: (1) Rack railway + monastery (half-day, ~€47); (2) With winery and tapas (~€57, 7h); (3) With full lunch and winery (~€70, 9h); (4) With Moreneta included (~€5 extra). Each combination has its price.'
 - pregunta: Is the full lunch worth it?
-  respuesta: Depends. Tapas (7h option) is a light, social experience. Full lunch (9h option) is sit-down with multi-course
-    pairing. If you want to eat properly and dedicate the full day, yes. If you just want to taste wines, tapas are enough.
+  respuesta: Depends. Tapas (7h option) is a light, social experience. Full lunch (9h option) is sit-down with multi-course pairing. If you want to eat properly and dedicate the full day, yes. If you just want to taste wines, tapas are enough.
 - pregunta: Is the rack railway safe for children?
-  respuesta: Yes. The rack railway is completely safe and suitable for all ages. Children usually enjoy it. There's no age
-    restriction for the tour, although children join the winery for free but without food or tasting service.
+  respuesta: Yes. The rack railway is completely safe and suitable for all ages. Children usually enjoy it. There's no age restriction for the tour, although children join the winery for free but without food or tasting service.
 - pregunta: What if it rains?
-  respuesta: The tour runs in rain except in extreme conditions. The coach and monastery interiors are covered; the rack railway
-    isn't affected by light rain. If the operator cancels for weather, 100% refund.
+  respuesta: The tour runs in rain except in extreme conditions. The coach and monastery interiors are covered; the rack railway isn't affected by light rain. If the operator cancels for weather, 100% refund.
 variantes:
 - montserrat-rack-railway-black-madonna
-opinionEditorial: 'The Castlexperience variant on GetYourGuide and the most complete of its catalog. €47 for the basic option
-  with rack railway included is competitive, and if you upgrade to the option with winery and tapas (~€57) you essentially
-  get full day with culture + oenology for a reasonable price.
+opinionEditorial: 'The Castlexperience variant on GetYourGuide and the most complete of its catalog. €47 for the basic option with rack railway included is competitive, and if you upgrade to the option with winery and tapas (~€57) you essentially get full day with culture + oenology for a reasonable price.
 
 
-  Compared to its Viator twin (EXB-23, same operator with rack railway + winery + tapas), here you''ll find the same content
-  but through GetYourGuide instead of Viator. For the end customer it''s indifferent; book where you have better confidence
-  in the platform.
+  Compared to its Viator twin (EXB-23, same operator with rack railway + winery + tapas), here you''ll find the same content but through GetYourGuide instead of Viator. For the end customer it''s indifferent; book where you have better confidence in the platform.
 
 
   Worth knowing: groups are 20 people and the operator shares transport with other groups. For an intimate format, see [the small-group tour with hotel pickup](/en/cities/barcelona/activities/barcelona-and-montserrat-small-group-hotel-pickup).
@@ -105,28 +93,39 @@ keywords:
 - castlexperience montserrat tour
 - montserrat black madonna winery
 - complete montserrat excursion
-imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp"
-imagenAlt: "Montserrat monastery nestled among dramatic stone mountains near Barcelona, Spain"
+imagen: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
+imagenAlt: Montserrat monastery nestled among dramatic stone mountains near Barcelona, Spain
 galeria:
+- src: /images/actividades/barcelona/montserrat/cremallera-estacion-monasterio.webp
+  alt: Rack railway train at the upper station, next to Montserrat monastery
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: "Frescoes of the Stations of the Cross on the ceiling of the Montserrat basilica"
+  alt: Frescoes of the Stations of the Cross on the ceiling of the Montserrat basilica
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-01.webp
+  alt: Passengers on the rack railway with mountain views
 - src: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero-hero.webp
-  alt: "Montserrat's dramatic rock formations and mountain landscape near Barcelona"
+  alt: Rock pinnacles of Montserrat mountain
+- src: /images/actividades/barcelona/montserrat/moreneta-cambril.webp
+  alt: La Moreneta, the Black Virgin of Montserrat, in her shrine in the basilica
 - src: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero-hero.webp
-  alt: "Montserrat Monastery nestled in dramatic rocky mountains near Barcelona, Spain"
+  alt: Montserrat Monastery nestled in dramatic rocky mountains near Barcelona, Spain
+- src: /images/actividades/barcelona/montserrat/oller-del-mas-castillo-vinedos.webp
+  alt: Oller del Mas castle winery among vineyards, near Manresa
 - src: /images/actividades/barcelona/montserrat/montserrat-stunning-view-intricate-hero-hero.webp
-  alt: "Montserrat mountain range with dramatic rocky peaks and monastery nestled among cliffs near Barcelona"
+  alt: Montserrat mountain range with dramatic rocky peaks and monastery nestled among cliffs near Barcelona
+- src: /images/actividades/barcelona/montserrat/cata-vino-bodega-barricas.webp
+  alt: Glasses poured for a wine tasting in a cellar with barrels
 - src: /images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero.webp
-  alt: "Aerial view of Montserrat with the cable car"
+  alt: Aerial view of Montserrat with the cable car
 - src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero.webp
-  alt: "Rocky peaks of Montserrat mountain"
+  alt: Rocky peaks of Montserrat mountain
 ratingProveedor: 4.8
 numeroOpiniones: 6154
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 guiasRelacionadas:
-  - "montserrat-which-excursion-to-choose"
+- montserrat-which-excursion-to-choose
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

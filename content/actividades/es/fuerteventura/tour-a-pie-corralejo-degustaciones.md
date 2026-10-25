@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: 'Corralejo: tour a pie con degustaciones de productos locales'
 slug: tour-a-pie-corralejo-degustaciones
 ciudad: fuerteventura
@@ -56,7 +56,7 @@ accesibilidad: Accesible en silla de ruedas según la ficha del operador.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Qué se prueba?
-  respuesta: 'Queso de cabra, papas arrugadas con mojo rojo y verde, tomate local con sal de la isla y aceite, plátano caramelizado con coco, pan de higo, mousse de gofio y ron miel.'
+  respuesta: Queso de cabra, papas arrugadas con mojo rojo y verde, tomate local con sal de la isla y aceite, plátano caramelizado con coco, pan de higo, mousse de gofio y ron miel.
 - pregunta: ¿Sirve como comida?
   respuesta: Son degustaciones, no una comida completa, aunque con más de seis paradas se sale servido para un tentempié.
 - pregunta: ¿Dónde termina?
@@ -74,16 +74,22 @@ keywords:
 - tour a pie corralejo
 - comida tipica fuerteventura
 imagen: /images/actividades/fuerteventura/corralejo-walking.webp
-imagenAlt: "Calle del casco antiguo de Corralejo junto al mar"
+imagenAlt: Calle del casco antiguo de Corralejo junto al mar
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo.webp"
-  alt: "Barcos en el puerto de Corralejo"
-- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp"
-  alt: "Barcos de excursión en el puerto de Corralejo"
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos.webp"
-  alt: "La Isla de Lobos desde la costa de Fuerteventura"
-- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp"
-  alt: "Paseo por las dunas blancas de Corralejo"
+- src: /images/actividades/fuerteventura/corralejo/corralejo-calle-de-la-iglesia.webp
+  alt: Calle de la Iglesia, la calle peatonal del casco antiguo de Corralejo
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
+  alt: Barcos en el puerto de Corralejo
+- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
+  alt: Papas arrugadas con mojo verde, plato típico de Canarias
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
+  alt: Barcos de excursión en el puerto de Corralejo
+- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
+  alt: Cabra majorera, la raza autóctona con cuya leche se elabora el queso majorero
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos.webp
+  alt: La Isla de Lobos desde la costa de Fuerteventura
+- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
+  alt: Paseo por las dunas blancas de Corralejo
 ratingProveedor: 4.9
 numeroOpiniones: 515
 atraccionesRelacionadas:
@@ -91,7 +97,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

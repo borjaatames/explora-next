@@ -2,8 +2,7 @@
 titulo: Tour de la Sagrada Familia y el Park Güell sin colas
 slug: sagrada-familia-park-guell-tour-guiado
 ciudad: barcelona
-descripcion: 'Visita guiada de medio día a las dos obras maestras de Gaudí: Park Güell y Sagrada Familia, con entradas sin
-  colas y transporte entre ambas.'
+descripcion: 'Visita guiada de medio día a las dos obras maestras de Gaudí: Park Güell y Sagrada Familia, con entradas sin colas y transporte entre ambas.'
 slugs:
   es: sagrada-familia-park-guell-tour-guiado
   en: sagrada-familia-and-park-guell-guided-tour
@@ -34,9 +33,7 @@ noIncluye:
 - Servicio de recogida y regreso del hotel (incluido solo en la opción privada)
 puntoEncuentro:
   texto: Carrer d'Olot, 24, 08024 Barcelona — una de las entradas del Park Güell
-  descripcionGuia: 'El punto de encuentro está en Carrer d''Olot, 24, junto a una de las entradas del Park Güell, a las 10:00. Ojo: el
-    parque tiene varias entradas, asegúrate de ir a la dirección exacta indicada. Busca al guía con un paraguas rojo burdeos.
-    La visita termina en la Sagrada Familia.'
+  descripcionGuia: 'El punto de encuentro está en Carrer d''Olot, 24, junto a una de las entradas del Park Güell, a las 10:00. Ojo: el parque tiene varias entradas, asegúrate de ir a la dirección exacta indicada. Busca al guía con un paraguas rojo burdeos. La visita termina en la Sagrada Familia.'
   latitud: 41.4135
   longitud: 2.1521
   zoom: 16
@@ -56,40 +53,27 @@ informacionImportante:
   - 'El parque tiene varias entradas: confirma la dirección exacta del punto de encuentro para no equivocarte'
   - 'Confirma el idioma de tu salida al reservar: la actividad se ofrece en español e inglés, con grupos por idioma'
   - Grupo de hasta 16 personas; para grupos más grandes hay opción privada
-accesibilidad: El operador indica que el tour NO está adaptado para personas en silla de ruedas. Además, el Park Güell tiene
-  escaleras y tramos en cuesta.
-politicaCancelacion: Cancelación gratuita con reembolso íntegro si cancelas con 24 horas de antelación. Dentro de las 24 horas
-  previas no hay reembolso.
+accesibilidad: El operador indica que el tour NO está adaptado para personas en silla de ruedas. Además, el Park Güell tiene escaleras y tramos en cuesta.
+politicaCancelacion: Cancelación gratuita con reembolso íntegro si cancelas con 24 horas de antelación. Dentro de las 24 horas previas no hay reembolso.
 preguntasFrecuentes:
 - pregunta: ¿Qué incluye además de la Sagrada Familia?
-  respuesta: El Park Güell, la otra gran obra de Gaudí. La visita empieza en el parque (unas 2 horas con guía), continúa con
-    transporte incluido hasta la basílica y termina con la visita guiada del interior de la Sagrada Familia. En total, unas
-    4 horas.
+  respuesta: El Park Güell, la otra gran obra de Gaudí. La visita empieza en el parque (unas 2 horas con guía), continúa con transporte incluido hasta la basílica y termina con la visita guiada del interior de la Sagrada Familia. En total, unas 4 horas.
 - pregunta: ¿El guía entra conmigo a los dos monumentos?
-  respuesta: Sí. A diferencia de los tours de día completo, aquí el guía te acompaña dentro del Park Güell y dentro de la
-    Sagrada Familia, explicando en ambos. Se despide al terminar la visita a la basílica.
+  respuesta: Sí. A diferencia de los tours de día completo, aquí el guía te acompaña dentro del Park Güell y dentro de la Sagrada Familia, explicando en ambos. Se despide al terminar la visita a la basílica.
 - pregunta: ¿En qué idioma es la visita?
-  respuesta: La actividad se ofrece en español e inglés, con grupos separados por idioma. Confirma el idioma de tu salida
-    al reservar para asegurarte de que es el que quieres.
+  respuesta: La actividad se ofrece en español e inglés, con grupos separados por idioma. Confirma el idioma de tu salida al reservar para asegurarte de que es el que quieres.
 - pregunta: ¿Es accesible para sillas de ruedas?
-  respuesta: No. El operador indica que no está adaptado, y además el Park Güell tiene escaleras y tramos cuesta arriba en
-    la primera parte del recorrido.
+  respuesta: No. El operador indica que no está adaptado, y además el Park Güell tiene escaleras y tramos cuesta arriba en la primera parte del recorrido.
 - pregunta: ¿Incluye subir a las torres de la Sagrada Familia?
   respuesta: No. La subida a las torres no entra en esta visita.
 variantes:
 - barcelona-un-dia-sagrada-familia-park-guell
 - sagrada-familia-visita-guiada-sin-colas
-avisoReserva: 'En temporada alta, la Sagrada Familia se agota con semanas de antelación'
-opinionEditorial: 'Es el combo limpio: las dos obras maestras de Gaudí —Park Güell y Sagrada Familia— en una visita guiada
-  de medio día, con entradas sin colas a las dos y transporte entre ellas. Frente a los tours de día completo, este tiene
-  una ventaja clara: el guía **sí entra contigo** a los dos monumentos y explica dentro, no solo te deja en la puerta. Buena
-  nota (4,8) y mucho volumen (más de 6.700 reseñas).
+avisoReserva: En temporada alta, la Sagrada Familia se agota con semanas de antelación
+opinionEditorial: 'Es el combo limpio: las dos obras maestras de Gaudí —Park Güell y Sagrada Familia— en una visita guiada de medio día, con entradas sin colas a las dos y transporte entre ellas. Frente a los tours de día completo, este tiene una ventaja clara: el guía **sí entra contigo** a los dos monumentos y explica dentro, no solo te deja en la puerta. Buena nota (4,8) y mucho volumen (más de 6.700 reseñas).
 
 
-  Un par de cosas para que vayas con todo claro: el Park Güell tiene escaleras y cuesta arriba en su primera parte, así que
-  tenlo en cuenta si vas con poca movilidad, y el tour no está adaptado para sillas de ruedas. La actividad se ofrece en español
-  e inglés con grupos separados, así que confirma el idioma de tu salida al reservar. Si quieres las dos joyas de Gaudí bien
-  explicadas en medio día y sin organizar nada, esta es la opción más directa.
+  Un par de cosas para que vayas con todo claro: el Park Güell tiene escaleras y cuesta arriba en su primera parte, así que tenlo en cuenta si vas con poca movilidad, y el tour no está adaptado para sillas de ruedas. La actividad se ofrece en español e inglés con grupos separados, así que confirma el idioma de tu salida al reservar. Si quieres las dos joyas de Gaudí bien explicadas en medio día y sin organizar nada, esta es la opción más directa.
 
   '
 atraccionesRelacionadas:
@@ -114,7 +98,7 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-group-people-standing-front-hero-hero.webp
   alt: Grupo de personas de pie frente a la entrada principal del Park Güell en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y tradicional bajo cielo despejado
+  alt: Luz roja y naranja de las vidrieras en el interior de la Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero-hero.webp
   alt: Camino arbolado en el Parque Güell de Barcelona con árboles a ambos lados
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
@@ -130,21 +114,21 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-mosaic-dragon-hero-hero.webp
   alt: Dragón de mosaico multicolor del Park Güell diseñado por Gaudí en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Fachada de la Pasion de la Sagrada Familia, con sus torres y gruas de construccion, en Barcelona
+  alt: Fachada de la Pasión de la Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-stunning-cityscape-barcelona-from-hero-hero.webp
-  alt: Vistas panorámicas de Barcelona desde Park Güell con arquitectura modernista
+  alt: Banco de trencadís y pabellones del Park Güell con Barcelona al fondo
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
-  alt: Playa de Barcelona con aguas turquesas y edificios costeros al fondo
+  alt: Luz de las vidrieras proyectada sobre las columnas de la Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp
-  alt: Park Güell de Barcelona con terrazas de mosaico y vistas panorámicas de la ciudad
+  alt: Pabellones de la entrada del Park Güell con Barcelona al fondo
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
-  alt: Paisaje urbano de Barcelona con arquitectura modernista y vistas de la ciudad
+  alt: Vidrieras azules y verdes de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: "Fachada de la Basílica de la Sagrada Familia con torres en construcción, Barcelona"
+  alt: Fachada de la Basílica de la Sagrada Familia con torres en construcción, Barcelona
 bokunProductId: 866939
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
-  - "sagrada-familia-que-entrada-elegir"
+- sagrada-familia-que-entrada-elegir
 ---
 
 ## Qué vas a ver

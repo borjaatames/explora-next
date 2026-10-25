@@ -2,8 +2,7 @@
 titulo: 'Royal Palace of Madrid: Skip-the-Line Guided Tour'
 slug: royal-palace-skip-line-guided-tour-golden
 ciudad: madrid
-descripcion: 2-hour guided tour of Madrid's Royal Palace with skip-the-line entry and official guide. Throne Room, Private
-  Apartments and Royal Armoury. 4.8/5 across 4,000+ reviews.
+descripcion: 2-hour guided tour of Madrid's Royal Palace with skip-the-line entry and official guide. Throne Room, Private Apartments and Royal Armoury. 4.8/5 across 4,000+ reviews.
 slugs:
   es: palacio-real-visita-guiada-golden-tour
   en: royal-palace-skip-line-guided-tour-golden
@@ -35,11 +34,8 @@ noIncluye:
 - Optional access to the Royal Collections Gallery (booked separately)
 - Gratuities
 puntoEncuentro:
-  texto: Calle de Carlos III, 1, next to the Royal Palace of Madrid. The guide waits INSIDE the souvenir shop with a «Golden
-    Tour Guide» sign.
-  descripcionGuia: 'The meeting point is the souvenir shop at Calle Carlos III, 1, in front of the Royal Palace. Do NOT go
-    directly to the palace entrance: the group gathers inside the shop with the operator''s sign. Arrive 10-15 minutes early
-    — even with priority entry, palace security can take a few minutes.'
+  texto: Calle de Carlos III, 1, next to the Royal Palace of Madrid. The guide waits INSIDE the souvenir shop with a «Golden Tour Guide» sign.
+  descripcionGuia: 'The meeting point is the souvenir shop at Calle Carlos III, 1, in front of the Royal Palace. Do NOT go directly to the palace entrance: the group gathers inside the shop with the operator''s sign. Arrive 10-15 minutes early — even with priority entry, palace security can take a few minutes.'
   latitud: 40.4178
   longitud: -3.7107
   zoom: 17
@@ -63,43 +59,27 @@ informacionImportante:
   - Although entry is priority, you still go through security — allow 5-10 extra minutes
   - The guide waits INSIDE the souvenir shop, not at the palace door
   - The Royal Collections Gallery is not in the base price — can be added
-accesibilidad: The Royal Palace is wheelchair accessible per the operator. The hall routes are flat or with ramps. If you
-  need specific assistance, let the guide know at the start.
+accesibilidad: The Royal Palace is wheelchair accessible per the operator. The hall routes are flat or with ramps. If you need specific assistance, let the guide know at the start.
 politicaCancelacion: Free cancellation up to 24 hours before with full refund. «Reserve now and pay later» option also available.
 preguntasFrecuentes:
 - pregunta: How much time do you save with skip-the-line?
-  respuesta: Depends on the day. In peak season (spring-summer and holidays) the ticket-office queue can be 30-60 minutes.
-    With this visit you enter via priority access and only wait through standard security (5-10 minutes). In low season the
-    advantage is less noticeable, but the guide still adds context you'd miss visiting alone.
+  respuesta: Depends on the day. In peak season (spring-summer and holidays) the ticket-office queue can be 30-60 minutes. With this visit you enter via priority access and only wait through standard security (5-10 minutes). In low season the advantage is less noticeable, but the guide still adds context you'd miss visiting alone.
 - pregunta: Can I take photos inside the palace?
-  respuesta: No. Photography and video are forbidden inside the palace halls. They are allowed at the façade, in Plaza de
-    Oriente, the gardens and the access to the grounds.
+  respuesta: No. Photography and video are forbidden inside the palace halls. They are allowed at the façade, in Plaza de Oriente, the gardens and the access to the grounds.
 - pregunta: What languages is the tour offered in?
-  respuesta: There are guide options in Spanish and English, with a headphone system included so you can hear the guide without
-    crowding in with the group. Choose the language at booking.
+  respuesta: There are guide options in Spanish and English, with a headphone system included so you can hear the guide without crowding in with the group. Choose the language at booking.
 - pregunta: Is it wheelchair accessible?
-  respuesta: Yes. The operator confirms wheelchair accessibility and the palace itself has ramps and lifts in the main route.
-    If the person needs specific attention, it's worth letting the guide know at the start of the tour.
+  respuesta: Yes. The operator confirms wheelchair accessibility and the palace itself has ramps and lifts in the main route. If the person needs specific attention, it's worth letting the guide know at the start of the tour.
 - pregunta: What exactly is in the Royal Armoury?
-  respuesta: The Royal Armoury, inside the palace grounds, displays armours, swords, spears and items used by kings and knights
-    from the 15th century. There are also furniture, musical instruments and court games giving a sense of daily life at court.
-    It's included in this guided tour and doesn't need a separate ticket.
+  respuesta: The Royal Armoury, inside the palace grounds, displays armours, swords, spears and items used by kings and knights from the 15th century. There are also furniture, musical instruments and court games giving a sense of daily life at court. It's included in this guided tour and doesn't need a separate ticket.
 variantes: []
-opinionEditorial: 'The most solid Madrid Royal Palace option by combining three factors: rating (4.8 out of 5), review volume
-  (over 4,000 — the highest in the palace tour catalogue) and price. At €38 you get the certified guide, headphones, skip-the-line
-  access and the Royal Armoury. It''s hard to do better on price-experience for a landmark of this weight.
+opinionEditorial: 'The most solid Madrid Royal Palace option by combining three factors: rating (4.8 out of 5), review volume (over 4,000 — the highest in the palace tour catalogue) and price. At €38 you get the certified guide, headphones, skip-the-line access and the Royal Armoury. It''s hard to do better on price-experience for a landmark of this weight.
 
 
-  What''s worth knowing before booking: the meeting point is NOT the palace entrance. The guide waits inside a souvenir shop
-  on Calle Carlos III, 1, with an operator sign. It''s the most recurring complaint in mediocre reviews («I went straight
-  to the palace and they didn''t find me»). And although entry is priority, there''s still security control — allow 5-10 extra
-  minutes. Inside you can''t photograph or film, so save the camera for outside (Plaza de Oriente, gardens, Almudena Cathedral
-  across the way).
+  What''s worth knowing before booking: the meeting point is NOT the palace entrance. The guide waits inside a souvenir shop on Calle Carlos III, 1, with an operator sign. It''s the most recurring complaint in mediocre reviews («I went straight to the palace and they didn''t find me»). And although entry is priority, there''s still security control — allow 5-10 extra minutes. Inside you can''t photograph or film, so save the camera for outside (Plaza de Oriente, gardens, Almudena Cathedral across the way).
 
 
-  For anyone wanting to extend, there''s an option to add the Royal Collections Gallery (works by Bosch, Titian, Velázquez),
-  which is an additional visit worth the time if you have an extra hour in the day''s plan. Anyone wanting a smaller group
-  can look at the premium or «small group» versions of the same palace — more expensive, but with fewer heads around.
+  For anyone wanting to extend, there''s an option to add the Royal Collections Gallery (works by Bosch, Titian, Velázquez), which is an additional visit worth the time if you have an extra hour in the day''s plan. Anyone wanting a smaller group can look at the premium or «small group» versions of the same palace — more expensive, but with fewer heads around.
 
   '
 atraccionesRelacionadas:
@@ -111,37 +91,37 @@ keywords:
 - skip the line royal palace madrid
 - royal palace madrid tour
 - royal palace madrid skip line ticket
-imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
-imagenAlt: Royal Palace of Madrid with neoclassical architecture and historic buildings in cityscape
+imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
+imagenAlt: Royal Palace from the Plaza de la Armería with its arcade
 galeria:
-  - src: "/images/actividades/madrid/palacio-real-privado/wm-salon-del-trono.webp"
-    alt: "Throne Room of the Royal Palace"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
-    alt: "South façade of the Royal Palace"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp"
-    alt: "Gala Dining Room of the Royal Palace"
-  - src: "/images/actividades/madrid/palacio-real-privado/unsplash-escalera-estatua.webp"
-    alt: "Main staircase of the Royal Palace"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
-    alt: "Plaza de la Armería and main façade"
-  - src: "/images/actividades/madrid/palacio-real-privado/unsplash-capilla-real.webp"
-    alt: "Royal Chapel of the Palace"
-  - src: "/images/actividades/madrid/palacio-real-privado/unsplash-escalera-cupula.webp"
-    alt: "Painted vault above the main staircase"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp"
-    alt: "Royal Palace from the gardens"
-  - src: "/images/actividades/madrid/palacio-real-privado/unsplash-jardines-sabatini.webp"
-    alt: "Sabatini Gardens beside the Royal Palace"
-  - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
-    alt: "Plaza de Oriente with the statue of Philip IV"
-  - src: "/images/actividades/madrid/palacio-real-privado/unsplash-campo-del-moro.webp"
-    alt: "Royal Palace seen from Campo del Moro"
+- src: /images/actividades/madrid/palacio-real-privado/wm-salon-del-trono.webp
+  alt: Throne Room of the Royal Palace
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp
+  alt: South façade of the Royal Palace
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp
+  alt: Gala Dining Room of the Royal Palace
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-escalera-estatua.webp
+  alt: Main staircase of the Royal Palace
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
+  alt: Plaza de la Armería and main façade
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-capilla-real.webp
+  alt: Royal Chapel of the Palace
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-escalera-cupula.webp
+  alt: Painted vault above the main staircase
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
+  alt: Royal Palace seen from the Campo del Moro gardens
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-jardines-sabatini.webp
+  alt: Sabatini Gardens beside the Royal Palace
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
+  alt: Plaza de Oriente with the statue of Philip IV
+- src: /images/actividades/madrid/palacio-real-privado/unsplash-campo-del-moro.webp
+  alt: Royal Palace seen from Campo del Moro
 ratingProveedor: 4.8
 numeroOpiniones: 4060
 publicada: true
 destacada: true
 fecha: '2026-05-17'
-fecha_actualizacion: '2026-05-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

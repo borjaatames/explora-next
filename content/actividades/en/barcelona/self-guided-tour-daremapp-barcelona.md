@@ -61,27 +61,27 @@ keywords:
 - self-guided barcelona tour
 - barcelona audio guide app
 - self-guided barcelona walking tour
-imagen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp"
-imagenAlt: "Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background"
+imagen: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
+imagenAlt: Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background
 galeria:
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
-  alt: "Arches of the Barcelona Cathedral cloister and its garden"
+  alt: Arches of the Barcelona Cathedral cloister and its garden
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
-  alt: "Gothic Quarter Barcelona: narrow medieval street with historic architecture and stone buildings"
+  alt: Narrow street with balconies in Barcelona's old town
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
-  alt: "Barcelona cityscape with historic architecture and Mediterranean atmosphere"
+  alt: Nave vault of the Sagrada Familia with its skylights
 - src: /images/actividades/barcelona/casa-mila/casa-mila-tall-building-balconies-it-hero.webp
-  alt: "Casa Milà under a blue sky with clouds"
+  alt: Casa Milà under a blue sky with clouds
 - src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp
-  alt: "Park Güell terrace with colorful mosaic tiles overlooking Barcelona cityscape"
+  alt: Park Güell entrance pavilions with their ceramic roofs
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero-hero.webp
-  alt: "Park Güell's colorful mosaic terraces and architectural structures designed by Gaudí, Barcelona"
+  alt: Stone porticoes and staircase in Park Güell
 - src: https://imgcdn.bokun.tools/fac20a08-f974-4b5b-885b-ea92be1597c4.jpg
-  alt: "DaremApp app with the self-guided route"
+  alt: DaremApp app with the self-guided route
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see and discover

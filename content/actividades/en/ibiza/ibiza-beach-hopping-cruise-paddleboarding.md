@@ -79,12 +79,20 @@ keywords:
 imagen: /images/actividades/ibiza/calas/cala-bassa.webp
 imagenAlt: Cala Bassa with boats at anchor
 galeria:
-- src: "/images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp"
-  alt: "Islote de Es Vedra visto desde la costa de Ibiza"
-- src: "/images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp"
-  alt: "Cala de Ibiza con barcos fondeados en aguas azules"
+- src: /images/actividades/ibiza/crucero-calas/paddle-surf-aguas-cristalinas.webp
+  alt: Stand-up paddle boarder on clear water with the seabed visible below
+- src: /images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp
+  alt: Islote de Es Vedra visto desde la costa de Ibiza
+- src: /images/actividades/ibiza/crucero-calas/esnorquel-bajo-el-agua-ibiza.webp
+  alt: Swimmer with goggles diving underwater in Ibiza
+- src: /images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp
+  alt: Cala de Ibiza con barcos fondeados en aguas azules
+- src: /images/actividades/ibiza/crucero-calas/paella-a-bordo-barco.webp
+  alt: Plates of paella served on a boat deck table
 - src: /images/actividades/ibiza/calas/cala-conta.webp
   alt: Sand and crystal-clear water at Cala Comte
+- src: /images/actividades/ibiza/crucero-calas/barco-excursion-tobogan.webp
+  alt: Excursion boat with a blue water slide anchored at sea
 - src: /images/actividades/ibiza/calas/cala-tarida.webp
   alt: Cala Tarida and its boat huts
 - src: /images/actividades/ibiza/calas/cala-conta-olas.webp
@@ -100,7 +108,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

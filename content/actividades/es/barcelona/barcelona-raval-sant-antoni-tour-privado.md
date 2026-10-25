@@ -78,10 +78,16 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/raval/palau-guell-fachada.webp
+  alt: Fachada del Palau Güell de Gaudí en el carrer Nou de la Rambla, en el Raval
 - src: /images/actividades/barcelona/raval/macba-placa-angels.webp
   alt: Edificio blanco del MACBA en la plaça dels Àngels
+- src: /images/actividades/barcelona/raval/antic-hospital-santa-creu-jardin.webp
+  alt: Jardín del antiguo Hospital de la Santa Creu, en el Raval, visto a través de un arco
 - src: /images/actividades/barcelona/raval/rambla-del-raval.webp
   alt: Rambla del Raval con palmeras vista desde el carrer de l'Hospital
+- src: /images/actividades/barcelona/tapas/pintxo-gilda-anchoas.webp
+  alt: Pintxos de aceitunas, guindillas y anchoas sobre una fuente
 - src: /images/actividades/barcelona/raval/mercat-sant-antoni-fachada.webp
   alt: Fachada de hierro del Mercat de Sant Antoni
 - src: /images/actividades/barcelona/raval/mercat-sant-antoni-puestos.webp
@@ -93,7 +99,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/3992067b-a428-48fb-ad6a-027050c6bbc5.jpg
   alt: Viajera con su guía ante un mercado de ladrillo rojo
 bokunProductId: 217568
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## El recorrido

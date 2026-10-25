@@ -68,9 +68,13 @@ keywords:
 - formentera ferry ticket
 - how to get to formentera from ibiza
 - trasmapi formentera
-imagen: /images/actividades/ibiza/formentera/ses-illetes.webp
-imagenAlt: Ses Illetes beach in Formentera
+imagen: /images/actividades/ibiza/formentera/ferry-rapido-llegando-ibiza.webp
+imagenAlt: Fast ferry from Formentera arriving at the port of Ibiza
 galeria:
+- src: /images/actividades/ibiza/formentera/ferry-trasmapi-dalt-vila.webp
+  alt: Fast ferry in Ibiza harbour with Dalt Vila behind
+- src: /images/actividades/ibiza/formentera/ses-illetes.webp
+  alt: Ses Illetes beach in Formentera
 - src: /images/actividades/ibiza/formentera/estacion-maritima.webp
   alt: The Formentera ferry terminal in Ibiza
 - src: /images/actividades/ibiza/formentera/la-savina.webp
@@ -80,7 +84,7 @@ galeria:
 - src: /images/actividades/ibiza/formentera/bici-illetes.webp
   alt: A bicycle on Ses Illetes beach
 - src: /images/actividades/ibiza/formentera/migjorn.webp
-  alt: "Migjorn beach with white sand, rocks and boat slipways"
+  alt: Migjorn beach with white sand, rocks and boat slipways
 - src: /images/actividades/ibiza/formentera/mal-pas.webp
   alt: Mal Pas beach in Formentera
 ratingProveedor: 4.7
@@ -90,7 +94,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

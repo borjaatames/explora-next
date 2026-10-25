@@ -1,4 +1,4 @@
-﻿---
+---
 titulo: 'Corralejo: walking tour with local food tastings'
 slug: corralejo-walking-tour-tastings
 ciudad: fuerteventura
@@ -56,14 +56,14 @@ accesibilidad: Wheelchair accessible according to the operator's listing.
 politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
 - pregunta: What do you taste?
-  respuesta: "Goat's cheese, wrinkled potatoes with red and green mojo, local tomato with island salt and oil, caramelised banana with coconut, fig bread, gofio mousse and honey rum."
+  respuesta: Goat's cheese, wrinkled potatoes with red and green mojo, local tomato with island salt and oil, caramelised banana with coconut, fig bread, gofio mousse and honey rum.
 - pregunta: Does it count as a meal?
   respuesta: They're tastings, not a full meal, although with more than six stops you'll have had a decent snack.
 - pregunta: Where does it finish?
   respuesta: At the harbour, by the beaches, shops and bars of the old town.
 - pregunta: Is it suitable for everyone?
   respuesta: It's a flat walk through town and the operator lists it as wheelchair accessible.
-opinionEditorial: "The highest rating of all the Fuerteventura activities we list (4.9) and one of the lowest prices. It works really well on your first day: it gets you oriented in Corralejo, you try the local classics and the guide gives you routes for the rest of the trip. If you already know Canarian food, the value is more in the conversation than in the tastings."
+opinionEditorial: 'The highest rating of all the Fuerteventura activities we list (4.9) and one of the lowest prices. It works really well on your first day: it gets you oriented in Corralejo, you try the local classics and the guide gives you routes for the rest of the trip. If you already know Canarian food, the value is more in the conversation than in the tastings.'
 guiasRelacionadas:
 - what-to-see-in-fuerteventura
 - lobos-island-how-to-get-there
@@ -74,16 +74,22 @@ keywords:
 - corralejo walking tour
 - fuerteventura local food
 imagen: /images/actividades/fuerteventura/corralejo-walking.webp
-imagenAlt: "A street in Corralejo's old town by the sea"
+imagenAlt: A street in Corralejo's old town by the sea
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo.webp"
-  alt: "Boats in Corralejo harbour"
-- src: "/images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp"
-  alt: "Excursion boats in Corralejo harbour"
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos.webp"
-  alt: "Lobos Island from the Fuerteventura coast"
-- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp"
-  alt: "Walking across the white dunes of Corralejo"
+- src: /images/actividades/fuerteventura/corralejo/corralejo-calle-de-la-iglesia.webp
+  alt: Calle de la Iglesia, the pedestrian street of Corralejo's old town
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
+  alt: Boats in Corralejo harbour
+- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
+  alt: Wrinkled potatoes with green mojo, a typical Canarian dish
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
+  alt: Excursion boats in Corralejo harbour
+- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
+  alt: Majorera goat, the native breed whose milk is used for Majorero cheese
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos.webp
+  alt: Lobos Island from the Fuerteventura coast
+- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
+  alt: Walking across the white dunes of Corralejo
 ratingProveedor: 4.9
 numeroOpiniones: 515
 atraccionesRelacionadas:
@@ -91,7 +97,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

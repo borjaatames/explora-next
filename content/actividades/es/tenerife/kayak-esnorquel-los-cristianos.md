@@ -89,13 +89,15 @@ keywords:
 - kayak los cristianos
 - esnorquel tenerife
 - tortugas tenerife kayak
-imagen: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
-imagenAlt: La bahía de Los Cristianos
+imagen: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+imagenAlt: Persona remando en un kayak naranja en mar abierto
 galeria:
-- src: "/images/actividades/tenerife/cristianos/barco-turistas-delfines.webp"
-  alt: "Barco turistico junto a un grupo de delfines"
-- src: "/images/actividades/tenerife/cristianos/velero-blanco-mar-abierto.webp"
-  alt: "Velero blanco navegando en mar abierto"
+- src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
+  alt: Persona haciendo esnórquel en aguas azules y transparentes
+- src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
+  alt: La bahía de Los Cristianos
+- src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
+  alt: Barco turistico junto a un grupo de delfines
 - src: /images/actividades/tenerife/cristianos/playa-honda.webp
   alt: Playa Honda, en Los Cristianos
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
@@ -113,7 +115,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

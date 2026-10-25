@@ -7,3 +7,5 @@
 | sierra-nevada-barranco-poqueira-capileira.webp | Wikimedia Commons | Trougnouf (Benoit Brummer) · File:Sendero Acequias del Poqueira in Capileira, Sierra Nevada National Park (DSCF5692).jpg | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Sendero_Acequias_del_Poqueira_in_Capileira,_Sierra_Nevada_National_Park_(DSCF5692).jpg |
 
 Origen: `E:\imagenes-master\_descargas-2026-10-23d\granada--sierra-nevada-4x4\` (24 oct 2026).
+- `todoterreno-pista-montana.webp` — Peter Schulz · Unsplash License · Unsplash · https://unsplash.com/photos/XkVN567S30M
+- `todoterreno-pista-tierra.webp` — Peter Schulz · Unsplash License · Unsplash · https://unsplash.com/photos/8T7TdLvLwBU

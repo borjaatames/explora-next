@@ -74,9 +74,15 @@ keywords:
 - paseo en barco cadiz
 - cadiz desde el mar
 - puesta de sol cadiz barco
-imagen: /images/actividades/cadiz/mar/puesta-sol-castillo.webp
-imagenAlt: Puesta de sol en Cádiz
+imagen: /images/actividades/cadiz/catamaran/catamaran-vela-atardecer.webp
+imagenAlt: Catamarán de vela navegando al atardecer
 galeria:
+- src: /images/actividades/cadiz/catamaran/velero-atardecer-bahia-cadiz.webp
+  alt: Velero al atardecer en la bahía de Cádiz con la ciudad al fondo
+- src: /images/actividades/cadiz/mar/puesta-sol-castillo.webp
+  alt: Puesta de sol en Cádiz
+- src: /images/actividades/cadiz/catamaran/copa-espumoso-a-bordo-catamaran.webp
+  alt: Copa de espumoso en la cubierta de un catamarán navegando
 - src: /images/actividades/cadiz/mar/bahia-atardecer.webp
   alt: Atardecer sobre la bahía de Cádiz
 - src: /images/actividades/cadiz/mar/catedral-desde-mar.webp
@@ -98,7 +104,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

@@ -1,39 +1,39 @@
 ---
-titulo: "Tenerife: safari en moto de agua de 40 minutos o 1 hora"
-slug: "moto-de-agua-safari-costa-sur"
-ciudad: "tenerife"
-descripcion: "Safari guiado en moto de agua desde la Marina San Miguel por la costa sur: Montaña Amarilla, Costa del Silencio y Montaña Roja. Sin carnet. 4,5/5 en GYG."
+titulo: 'Tenerife: safari en moto de agua de 40 minutos o 1 hora'
+slug: moto-de-agua-safari-costa-sur
+ciudad: tenerife
+descripcion: 'Safari guiado en moto de agua desde la Marina San Miguel por la costa sur: Montaña Amarilla, Costa del Silencio y Montaña Roja. Sin carnet. 4,5/5 en GYG.'
 slugs:
-  es: "moto-de-agua-safari-costa-sur"
-  en: "jet-ski-safari-south-tenerife"
-duracion: "40 minutos o 1 hora"
+  es: moto-de-agua-safari-costa-sur
+  en: jet-ski-safari-south-tenerife
+duracion: 40 minutos o 1 hora
 duracionMinutos: 40
 precioDesde: 32
-moneda: "EUR"
+moneda: EUR
 idiomas:
-  - "es"
-  - "en"
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/es-es/tenerife-l350/tenerife-paseo-en-moto-de-agua-con-tour-en-quad-opcional-t317607/?partner_id=C71NOAW"
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/es-es/tenerife-l350/tenerife-paseo-en-moto-de-agua-con-tour-en-quad-opcional-t317607/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-  - "No hace falta carnet ni experiencia previa"
-  - "Ruta guiada por la costa sur hasta Montaña Roja"
-  - "Montaña Amarilla, Costa del Silencio y Las Galletas desde el mar"
-  - "Grupos de 8 personas como máximo"
-  - "A veces se ven delfines, tortugas o ballenas"
+- No hace falta carnet ni experiencia previa
+- Ruta guiada por la costa sur hasta Montaña Roja
+- Montaña Amarilla, Costa del Silencio y Las Galletas desde el mar
+- Grupos de 8 personas como máximo
+- A veces se ven delfines, tortugas o ballenas
 incluye:
-  - "Monitor guía en su propia embarcación"
-  - "Chaleco salvavidas y gafas"
-  - "Bebidas: café, té, refrescos y zumos"
-  - "Ducha, aseos y taquillas"
+- Monitor guía en su propia embarcación
+- Chaleco salvavidas y gafas
+- 'Bebidas: café, té, refrescos y zumos'
+- Ducha, aseos y taquillas
 noIncluye:
-  - "Fianza de 50 € por moto en efectivo (se devuelve)"
-  - "Fotos y vídeos"
+- Fianza de 50 € por moto en efectivo (se devuelve)
+- Fotos y vídeos
 puntoEncuentro:
-  texto: "Pantalán H de la Marina San Miguel, al final del puerto (Amarilla Golf, San Miguel de Abona)."
-  descripcionGuia: "Preséntate 30 minutos antes en el pantalán H, al fondo del puerto. Hay aparcamiento gratuito al principio de la marina."
+  texto: Pantalán H de la Marina San Miguel, al final del puerto (Amarilla Golf, San Miguel de Abona).
+  descripcionGuia: Preséntate 30 minutos antes en el pantalán H, al fondo del puerto. Hay aparcamiento gratuito al principio de la marina.
   latitud: 28.0206
   longitud: -16.6137
   zoom: 16
@@ -45,55 +45,61 @@ detallesPracticos:
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
-    - "DNI o pasaporte (vale copia)"
-    - "Efectivo para la fianza"
-    - "Bañador y toalla"
+  - DNI o pasaporte (vale copia)
+  - Efectivo para la fianza
+  - Bañador y toalla
   noAptoPara:
-    - "Menores de 8 años"
-    - "Embarazadas"
-    - "Personas que no saben nadar"
-    - "Personas de más de 118 kg o con problemas de espalda"
+  - Menores de 8 años
+  - Embarazadas
+  - Personas que no saben nadar
+  - Personas de más de 118 kg o con problemas de espalda
   aTenerEnCuenta:
-    - "Conductor desde 16 años; con 16 o 17, autorización escrita de padres o tutor"
-    - "Máximo 2 personas y 200 kg por moto; edad máxima 70 años"
-    - "No se pueden llevar móviles en la moto"
-    - "La ruta depende del estado del mar y de la duración elegida"
-accesibilidad: "No es apta para personas con movilidad reducida."
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes, con reembolso íntegro."
+  - Conductor desde 16 años; con 16 o 17, autorización escrita de padres o tutor
+  - Máximo 2 personas y 200 kg por moto; edad máxima 70 años
+  - No se pueden llevar móviles en la moto
+  - La ruta depende del estado del mar y de la duración elegida
+accesibilidad: No es apta para personas con movilidad reducida.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
 preguntasFrecuentes:
-  - pregunta: "¿Necesito carnet de navegación?"
-    respuesta: "No. Basta con la explicación de seguridad del monitor y estar en buena forma física."
-  - pregunta: "¿El precio es por persona o por moto?"
-    respuesta: "GYG lo muestra por persona. En cada moto caben dos personas con un máximo de 200 kg."
-  - pregunta: "¿Puedo llevar el móvil para hacer fotos?"
-    respuesta: "No, no se permiten móviles en la moto. El operador hace fotos y vídeos, que se pagan aparte."
-  - pregunta: "¿Hay que dejar fianza?"
-    respuesta: "Sí, 50 € en efectivo por moto, para garantizar que se respeta la distancia de seguridad."
-opinionEditorial: "Es una manera sencilla de probar la moto de agua sin carnet y con guía, por un tramo de costa volcánica bonito y poco masificado. Elige la hora completa: en 40 minutos, entre la explicación y el regreso, el paseo se queda corto. No es para quien no sabe nadar ni para quien quiere ir por libre."
+- pregunta: ¿Necesito carnet de navegación?
+  respuesta: No. Basta con la explicación de seguridad del monitor y estar en buena forma física.
+- pregunta: ¿El precio es por persona o por moto?
+  respuesta: GYG lo muestra por persona. En cada moto caben dos personas con un máximo de 200 kg.
+- pregunta: ¿Puedo llevar el móvil para hacer fotos?
+  respuesta: No, no se permiten móviles en la moto. El operador hace fotos y vídeos, que se pagan aparte.
+- pregunta: ¿Hay que dejar fianza?
+  respuesta: Sí, 50 € en efectivo por moto, para garantizar que se respeta la distancia de seguridad.
+opinionEditorial: 'Es una manera sencilla de probar la moto de agua sin carnet y con guía, por un tramo de costa volcánica bonito y poco masificado. Elige la hora completa: en 40 minutos, entre la explicación y el regreso, el paseo se queda corto. No es para quien no sabe nadar ni para quien quiere ir por libre.'
 guiasRelacionadas:
-  - "que-ver-en-tenerife"
-categoria: "excursionesDia"
+- que-ver-en-tenerife
+categoria: excursionesDia
 keywords:
-  - "moto de agua tenerife"
-  - "jet ski tenerife sur"
-  - "moto de agua sin carnet tenerife"
-  - "safari moto de agua costa del silencio"
-  - "marina san miguel moto de agua"
-imagen: "/images/actividades/tenerife/motos-agua/moto-de-agua.webp"
-imagenAlt: "Moto de agua sobre las olas"
+- moto de agua tenerife
+- jet ski tenerife sur
+- moto de agua sin carnet tenerife
+- safari moto de agua costa del silencio
+- marina san miguel moto de agua
+imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
+imagenAlt: Moto de agua sobre las olas
 galeria:
-  - src: "/images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp"
-    alt: "Playa de Costa Adeje con las montañas al fondo"
-  - src: "/images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp"
-    alt: "Vista de la costa de Costa Adeje"
+- src: /images/actividades/tenerife/motos-agua/grupo-motos-agua-ruta.webp
+  alt: Grupo de motos de agua navegando en fila por mar abierto
+- src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
+  alt: Playa de Costa Adeje con las montañas al fondo
+- src: /images/actividades/tenerife/motos-agua/montana-roja-el-medano.webp
+  alt: Montaña Roja vista desde la costa rocosa de El Médano, en el sur de Tenerife
+- src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
+  alt: Vista de la costa de Costa Adeje
+- src: /images/actividades/tenerife/motos-agua/montana-amarilla-costa.webp
+  alt: Montaña Amarilla junto al mar en la costa sur de Tenerife
 ratingProveedor: 4.5
 numeroOpiniones: 3170
 atraccionesRelacionadas:
-  - "mar"
+- mar
 publicada: true
 destacada: false
-fecha: "2026-10-24"
-fecha_actualizacion: "2026-10-24"
+fecha: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

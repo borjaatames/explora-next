@@ -2,8 +2,7 @@
 titulo: Sagrada Familia Small-Group Guided Tour
 slug: sagrada-familia-small-group-tour
 ciudad: barcelona
-descripcion: Small-group guided tour of the Sagrada Familia, with an official guide, skip-the-line entry and wheelchair access.
-  Operator with 3,700 reviews.
+descripcion: Small-group guided tour of the Sagrada Familia, with an official guide, skip-the-line entry and wheelchair access. Operator with 3,700 reviews.
 slugs:
   en: sagrada-familia-small-group-tour
   es: sagrada-familia-visita-guiada-grupo-reducido
@@ -36,7 +35,7 @@ noIncluye:
 - Gratuities (optional)
 puntoEncuentro:
   texto: Avenida de Gaudí, 1, 08025 Barcelona — outside the Sagrada Familia shop
-  descripcionGuia: 'The meeting point is at Avenida de Gaudí, 1, outside the Sagrada Familia shop. It''s a busy area, so arrive 15 minutes early.'
+  descripcionGuia: The meeting point is at Avenida de Gaudí, 1, outside the Sagrada Familia shop. It's a busy area, so arrive 15 minutes early.
   latitud: 41.4046
   longitud: 2.1744
   zoom: 17
@@ -55,40 +54,29 @@ informacionImportante:
   - You cannot enter the basilica with your head covered, in short trousers or with bare shoulders
   - There is special wheelchair access
   - 'Arrive 15 minutes early: the meeting point is a busy area'
-accesibilidad: 'Wheelchair accessible: the monument has a special access route. It is the accessible option we recommend among
-  the guided tours.'
+accesibilidad: 'Wheelchair accessible: the monument has a special access route. It is the accessible option we recommend among the guided tours.'
 politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance.
 preguntasFrecuentes:
 - pregunta: What do I get with the small group?
-  respuesta: 'A more personal experience: fewer people around the guide, easier to hear, ask questions and take photos without
-    a crowd. The route content is the same as a standard guided visit; what changes is the group size.'
+  respuesta: 'A more personal experience: fewer people around the guide, easier to hear, ask questions and take photos without a crowd. The route content is the same as a standard guided visit; what changes is the group size.'
 - pregunta: Is it wheelchair accessible?
-  respuesta: Yes. The operator states the visit is accessible and that the monument has special wheelchair access. It is the
-    accessible option we recommend among the guided tours.
+  respuesta: Yes. The operator states the visit is accessible and that the monument has special wheelchair access. It is the accessible option we recommend among the guided tours.
 - pregunta: Does it include going up the towers?
   respuesta: No. Going up a tower is not part of this visit. If you want to go up, check the tour with tower access.
 - pregunta: What languages is the visit in?
-  respuesta: The official guide works in several languages, including Spanish and English. You choose the language at booking;
-    check availability for your date.
+  respuesta: The official guide works in several languages, including Spanish and English. You choose the language at booking; check availability for your date.
 - pregunta: How long is it and what do you see?
-  respuesta: About 1 hour 45 minutes. The route covers the Nativity façade, the basilica interior, the Passion façade and the Sagrada
-    Familia school.
+  respuesta: About 1 hour 45 minutes. The route covers the Nativity façade, the basilica interior, the Passion façade and the Sagrada Familia school.
 variantes:
 - sagrada-familia-skip-the-line-guided-tour
 - sagrada-familia-guided-tour-with-free-time
 - sagrada-familia-private-guided-tour
 - sagrada-familia-guided-tour
-avisoReserva: 'In high season, the Sagrada Familia sells out weeks in advance'
-opinionEditorial: 'This is the middle ground between the standard guided tour and the private tour: you pay a little more
-  in exchange for a small group, where you can hear the guide better and don''t have to jostle for position. The operator
-  has a good score (4.7) and enough volume — over 3,700 reviews — to trust, and the content is the same as any guided tour:
-  façades, interior and school.
+avisoReserva: In high season, the Sagrada Familia sells out weeks in advance
+opinionEditorial: 'This is the middle ground between the standard guided tour and the private tour: you pay a little more in exchange for a small group, where you can hear the guide better and don''t have to jostle for position. The operator has a good score (4.7) and enough volume — over 3,700 reviews — to trust, and the content is the same as any guided tour: façades, interior and school.
 
 
-  Its real strong point, beyond the small group, is accessibility: it''s the guided visit that expressly declares wheelchair
-  access, with special entry to the monument. If that''s your need, this is the option. What it doesn''t include are the towers
-  or any transfer, and the meeting point — Avenida de Gaudí, 1 — is a busy one: arrive
-  with time to spare.
+  Its real strong point, beyond the small group, is accessibility: it''s the guided visit that expressly declares wheelchair access, with special entry to the monument. If that''s your need, this is the option. What it doesn''t include are the towers or any transfer, and the meeting point — Avenida de Gaudí, 1 — is a busy one: arrive with time to spare.
 
   '
 atraccionesRelacionadas:
@@ -101,17 +89,21 @@ keywords:
 - sagrada familia wheelchair
 - sagrada familia skip the line tour
 imagen: /images/actividades/barcelona/sagrada-familia/pexels-33053352-hero.webp
-imagenAlt: Barcelona cityscape with historic architecture and urban streets
+imagenAlt: Towers of the Sagrada Familia seen from below
 ratingProveedor: 4.7
 numeroOpiniones: 3690
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
+- src: /images/actividades/barcelona/sagrada-familia/fachada-nacimiento-estanque.webp
+  alt: Nativity facade of the Sagrada Familia from the pond in Plaça de Gaudí
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp
   alt: Intricate Gothic ceiling with ornate stone vaulting and decorative details in Barcelona's Sagrada Familia basilica
+- src: /images/actividades/barcelona/sagrada-familia/cripta-sagrada-familia.webp
+  alt: Crypt of the Sagrada Familia, where Gaudí is buried
 - src: /images/actividades/barcelona/sagrada-familia/pexels-35839411-hero.webp
-  alt: Barcelona cityscape with architecture and urban landscape
+  alt: Towers of the Sagrada Familia at sunset
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
   alt: Interior stained-glass windows of the Sagrada Familia with saints' names inscribed
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-techo-nave-central-63-metros-alto-hero-hero.webp
@@ -121,25 +113,17 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
   alt: Towers of the Sagrada Familia with sculptures and construction scaffolding
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Barcelona cityscape with modern architecture and bustling streets during daytime
+  alt: Red and orange light from the stained glass inside the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
   alt: Towers of the Sagrada Familia with a construction crane, at dusk
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
   alt: Interior rose window of the Sagrada Familia with colorful stained glass
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
   alt: Detail of the Glory facade of the Sagrada Familia with its pyramid-shaped windows
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
-  alt: Ornate ceiling of Barcelona's Sagrada Familia basilica with intricate illuminated architectural details
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero-hero.webp
-  alt: Sagrada Familia basilica with ornate spires and construction cranes in Barcelona, Spain
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban skyline view
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-A27sA6kViXc-hero.webp
-  alt: Panoramic view of Barcelona cityscape with architectural landmarks and Mediterranean Sea
 bokunProductId: 662268
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
-  - "sagrada-familia-which-ticket-to-choose"
+- sagrada-familia-which-ticket-to-choose
 ---
 
 > **Note:** this experience is conducted in English.

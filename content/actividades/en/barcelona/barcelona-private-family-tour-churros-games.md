@@ -84,6 +84,16 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/churros/churros-con-chocolate.webp
+  alt: Freshly made churros with a cup of chocolate for dipping
+- src: /images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp
+  alt: Gothic façade of the Basilica of Santa Maria del Mar, in El Born
+- src: /images/actividades/barcelona/ciutadella/parc-ciutadella-estany-barques.webp
+  alt: Rowing boats on the lake of the Parc de la Ciutadella, among palm trees
+- src: /images/actividades/barcelona/costa/parc-ciutadella-cascada.webp
+  alt: Monumental fountain of the Parc de la Ciutadella
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
+  alt: Stall with Iberian hams and cured meats at La Boqueria market
 - src: https://imgcdn.bokun.tools/ff88270c-717d-4cbe-94f8-c6293e1762ee.jpg
   alt: Family with their guide at a stall in La Boqueria
 - src: https://imgcdn.bokun.tools/92f48444-f4d8-4641-b085-4f9d0c0bd895.jpg
@@ -94,10 +104,8 @@ galeria:
   alt: Child on a swing in a park
 - src: https://imgcdn.bokun.tools/c2c05430-1a45-4651-9a11-e95d9b90d767.jpg
   alt: Family jumping for joy in a park
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
-  alt: Stall with Iberian hams and cured meats at La Boqueria market
 bokunProductId: 217564
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## How the walk works

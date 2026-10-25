@@ -48,3 +48,5 @@ Recortadas a 1600×1200 y convertidas a WebP.
 - `villa-winter-fachada.webp` — Wikimedia Commons, Norbert Nagel (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Casa_de_los_Winter_-_El_Cofete_-_Jandia_-_Fuerteventura_-_24.jpg
 - `villa-winter-ladera.webp` — Wikimedia Commons, Norbert Nagel (CC BY-SA 3.0) — https://commons.wikimedia.org/wiki/File:Casa_de_los_Winter_-_El_Cofete_-_Jandia_-_Fuerteventura_-_01.jpg
 - `volcanes-norte.webp` — Wikimedia Commons, Matzetatz (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Calderon_Hondo.jpg
+- `cielo-estrellado-volcan.webp` — Bahae Dine Kanbouai · Unsplash License · Unsplash · https://unsplash.com/photos/ekMkZ1JHu_M
+- `via-lactea-fuerteventura.webp` — Benaja Germann · Unsplash License · Unsplash · https://unsplash.com/photos/NPGj5EVCy3o

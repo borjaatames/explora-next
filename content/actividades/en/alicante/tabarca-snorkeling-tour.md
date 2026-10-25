@@ -73,23 +73,29 @@ keywords:
 - tabarca snorkel tour
 - tabarca marine reserve
 - snorkelling alicante
-imagen: /images/actividades/alicante/tabarca/tabarca-islote.webp
-imagenAlt: Islet and clear waters of Tabarca Island
+imagen: /images/actividades/alicante/tabarca/snorkel-pradera-posidonia.webp
+imagenAlt: Snorkeller swimming over a Posidonia seagrass meadow in the Mediterranean
 galeria:
-  - src: "/images/actividades/alicante/tabarca/faro-tabarca-vista-amplia.webp"
-    alt: "Wide view of the Tabarca lighthouse beside the marine reserve"
-  - src: "/images/actividades/alicante/tabarca/tabarca-playa.webp"
-    alt: "Clear waters of the Tabarca marine reserve"
-  - src: "/images/actividades/alicante/tabarca/puerta-trancada.webp"
-    alt: "La Trancada gate, Tabarca"
-  - src: "/images/actividades/alicante/tabarca/faro-tabarca.webp"
-    alt: "Tabarca lighthouse, a white building with a stone tower"
-  - src: "/images/actividades/alicante/tabarca/tabarca-calle.webp"
-    alt: "A street in Tabarca"
-  - src: "/images/actividades/alicante/tabarca/tabarca-fortificacion.webp"
-    alt: "Guardia Civil patrol boat off the walls of Tabarca"
-  - src: "/images/actividades/alicante/tabarca/faro-tabarca-campo.webp"
-    alt: "Tabarca lighthouse among wildflower meadows"
+- src: /images/actividades/alicante/tabarca/salemas-posidonia.webp
+  alt: School of salema fish over a Posidonia meadow in the Mediterranean
+- src: /images/actividades/alicante/tabarca/tabarca-islote.webp
+  alt: Islet and clear waters of Tabarca Island
+- src: /images/actividades/alicante/tabarca/pradera-posidonia.webp
+  alt: Sunlit Posidonia seagrass meadow underwater
+- src: /images/actividades/alicante/tabarca/faro-tabarca-vista-amplia.webp
+  alt: Wide view of the Tabarca lighthouse beside the marine reserve
+- src: /images/actividades/alicante/tabarca/tabarca-playa.webp
+  alt: Clear waters of the Tabarca marine reserve
+- src: /images/actividades/alicante/tabarca/puerta-trancada.webp
+  alt: La Trancada gate, Tabarca
+- src: /images/actividades/alicante/tabarca/faro-tabarca.webp
+  alt: Tabarca lighthouse, a white building with a stone tower
+- src: /images/actividades/alicante/tabarca/tabarca-calle.webp
+  alt: A street in Tabarca
+- src: /images/actividades/alicante/tabarca/tabarca-fortificacion.webp
+  alt: Guardia Civil patrol boat off the walls of Tabarca
+- src: /images/actividades/alicante/tabarca/faro-tabarca-campo.webp
+  alt: Tabarca lighthouse among wildflower meadows
 ratingProveedor: 4.6
 numeroOpiniones: 97
 atraccionesRelacionadas:
@@ -97,7 +103,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## The tour

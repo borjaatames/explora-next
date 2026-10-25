@@ -73,12 +73,20 @@ keywords:
 imagen: /images/actividades/malaga/mijas-marbella/mijas-01.webp
 imagenAlt: Casas blancas de Mijas Pueblo en la ladera
 galeria:
+- src: /images/actividades/malaga/mijas-marbella/castillo-colomares.webp
+  alt: Fachada del castillo de Colomares en Benalmádena
 - src: /images/actividades/malaga/mijas-marbella/mijas-02.webp
   alt: Mijas Pueblo con la sierra al fondo
+- src: /images/actividades/malaga/mijas-marbella/castillo-colomares-torres.webp
+  alt: Torres del castillo de Colomares, monumento a Colón
 - src: /images/actividades/malaga/mijas-marbella/mijas-03.webp
   alt: Calle de Mijas con tiendas y macetas
+- src: /images/actividades/malaga/marbella/marbella-plaza-naranjos.webp
+  alt: Plaza de los Naranjos de Marbella con naranjos, terrazas y casas blancas
 - src: /images/actividades/malaga/mijas-marbella/puerto-banus-01.webp
   alt: Yates en Puerto Banús con La Concha al fondo
+- src: /images/actividades/malaga/marbella/marbella-calle-buganvilla.webp
+  alt: Calle blanca del casco antiguo de Marbella con buganvilla
 - src: /images/actividades/malaga/mijas-marbella/mijas-04.webp
   alt: Pared encalada con macetas en Mijas
 - src: /images/actividades/malaga/mijas-marbella/puerto-banus-02.webp
@@ -96,7 +104,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué verás

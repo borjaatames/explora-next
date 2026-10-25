@@ -71,32 +71,32 @@ keywords:
 imagen: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-cloister-02-hero.webp
 imagenAlt: Cloister of the Monastery of San Juan de los Reyes, Toledo
 galeria:
-  - src: "/images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp"
-    alt: Toledo's historic medieval cityscape with narrow cobblestone streets and ancient architecture
-  - src: "/images/actividades/toledo/iglesia-santo-tome-toledo/wikimedia-23770003-hero.webp"
-    alt: Toledo cityscape with medieval architecture and winding streets on hillside
-  - src: "/images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-facade-hero.webp"
-    alt: "Mosque of Cristo de la Luz"
-  - src: "/images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp"
-    alt: "Alcázar of Toledo"
-  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-6079996465-hero.webp"
-    alt: "Gargoyle at the Monastery of San Juan de los Reyes"
-  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9766893-hero.webp"
-    alt: Monastery of San Juan de los Reyes, Toledo
-  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-13835007-hero.webp"
-    alt: Monastery of San Juan de los Reyes, Toledo
-  - src: "/images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero.webp"
-    alt: "Gothic facade of the Monastery of San Juan de los Reyes"
-  - src: /images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-bridge-7-hero.webp
-    alt: "Puente histórico sobre el río Tajo en Toledo, Patrimonio de la Humanidad"
-  - src: /images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-espana-hero.webp
-    alt: "Church of Santo Tomé, home of The Burial of the Count of Orgaz"
-  - src: /images/actividades/madrid/toledo/callejon-vista-alcazar.webp
-    alt: "Toledo alley with the Alcázar behind"
-  - src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9751577-hero.webp
-    alt: "Statues on the facade of the Monastery of San Juan de los Reyes"
-  - src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9766821-hero.webp
-    alt: "Entrance to the cloister of the Monastery of San Juan de los Reyes"
+- src: /images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp
+  alt: Cobbled street with an arch in Toledo's old town
+- src: /images/actividades/toledo/iglesia-santo-tome-toledo/wikimedia-23770003-hero.webp
+  alt: Toledo cityscape with medieval architecture and winding streets on hillside
+- src: /images/actividades/madrid/mezquita-cristo-luz-toledo/mezquita-cristo-luz-toledo-2025-facade-hero.webp
+  alt: Mosque of Cristo de la Luz
+- src: /images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp
+  alt: Alcázar of Toledo
+- src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-6079996465-hero.webp
+  alt: Gargoyle at the Monastery of San Juan de los Reyes
+- src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9766893-hero.webp
+  alt: Monastery of San Juan de los Reyes, Toledo
+- src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-13835007-hero.webp
+  alt: Monastery of San Juan de los Reyes, Toledo
+- src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero.webp
+  alt: Gothic facade of the Monastery of San Juan de los Reyes
+- src: /images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-bridge-7-hero.webp
+  alt: Puente histórico sobre el río Tajo en Toledo, Patrimonio de la Humanidad
+- src: /images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-espana-hero.webp
+  alt: Church of Santo Tomé, home of The Burial of the Count of Orgaz
+- src: /images/actividades/madrid/toledo/callejon-vista-alcazar.webp
+  alt: Toledo alley with the Alcázar behind
+- src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9751577-hero.webp
+  alt: Statues on the facade of the Monastery of San Juan de los Reyes
+- src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-foto-9766821-hero.webp
+  alt: Entrance to the cloister of the Monastery of San Juan de los Reyes
 ratingProveedor: 4.4
 numeroOpiniones: 728
 atraccionesRelacionadas:
@@ -104,7 +104,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## The 7 monuments

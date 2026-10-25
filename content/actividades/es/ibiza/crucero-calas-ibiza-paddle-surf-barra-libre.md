@@ -79,12 +79,20 @@ keywords:
 imagen: /images/actividades/ibiza/calas/cala-bassa.webp
 imagenAlt: Cala Bassa con barcos fondeados
 galeria:
-- src: "/images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp"
-  alt: "Islote de Es Vedra visto desde la costa de Ibiza"
-- src: "/images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp"
-  alt: "Cala de Ibiza con barcos fondeados en aguas azules"
+- src: /images/actividades/ibiza/crucero-calas/paddle-surf-aguas-cristalinas.webp
+  alt: Paddle surf sobre aguas transparentes con el fondo marino a la vista
+- src: /images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp
+  alt: Islote de Es Vedra visto desde la costa de Ibiza
+- src: /images/actividades/ibiza/crucero-calas/esnorquel-bajo-el-agua-ibiza.webp
+  alt: Bañista con gafas buceando bajo el agua en Ibiza
+- src: /images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp
+  alt: Cala de Ibiza con barcos fondeados en aguas azules
+- src: /images/actividades/ibiza/crucero-calas/paella-a-bordo-barco.webp
+  alt: Platos de paella servidos en la mesa de la cubierta de un barco
 - src: /images/actividades/ibiza/calas/cala-conta.webp
   alt: Arena y agua cristalina en Cala Comte
+- src: /images/actividades/ibiza/crucero-calas/barco-excursion-tobogan.webp
+  alt: Barco de excursión con tobogán azul fondeado en el mar
 - src: /images/actividades/ibiza/calas/cala-tarida.webp
   alt: Cala Tarida y sus varaderos
 - src: /images/actividades/ibiza/calas/cala-conta-olas.webp
@@ -100,7 +108,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

@@ -79,11 +79,19 @@ keywords:
 - gran canaria kayak caves
 - mogan snorkeling
 - things to do in mogan
-imagen: /images/actividades/gran-canaria/mogan/taurito-costa.webp
-imagenAlt: The cliff coast at Taurito, near Mogán
+imagen: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
+imagenAlt: Aerial view of kayakers paddling along a rocky coastline
 galeria:
-- src: "/images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp"
-  alt: "Costa rocosa de Mogan, Gran Canaria"
+- src: /images/actividades/gran-canaria/mogan-kayak/cueva-marina-mogan.webp
+  alt: Sea cave in the volcanic cliffs near Puerto de Mogán
+- src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
+  alt: The cliff coast at Taurito, near Mogán
+- src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
+  alt: Volcanic cliffs near Puerto de Mogán seen from the sea
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: Costa rocosa de Mogan, Gran Canaria
+- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
+  alt: Salema and sea bream underwater off the coast of Gran Canaria
 - src: /images/actividades/gran-canaria/mogan/mogan-playa.webp
   alt: Mogán beach and marina
 - src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp
@@ -103,7 +111,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

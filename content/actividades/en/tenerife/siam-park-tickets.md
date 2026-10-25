@@ -71,11 +71,19 @@ keywords:
 - siam park tenerife
 - tenerife water park
 - things to do in tenerife with kids
-imagen: /images/actividades/tenerife/siam-park/siam-park-aerea.webp
-imagenAlt: Aerial view of Siam Park
+imagen: /images/actividades/tenerife/siam-park/siam-park-tower-of-power.webp
+imagenAlt: Siam Park's Tower of Power, the near-vertical drop slide
 galeria:
+- src: /images/actividades/tenerife/siam-park/siam-park-tower-of-power-frontal.webp
+  alt: Front view of the Tower of Power above the lake at Siam Park
+- src: /images/actividades/tenerife/siam-park/siam-park-aerea.webp
+  alt: Aerial view of Siam Park
+- src: /images/actividades/tenerife/siam-park/siam-park-rio-lento.webp
+  alt: Bathers on rubber rings along the lazy river at Siam Park
 - src: /images/actividades/tenerife/siam-park/siam-park-templo.webp
   alt: Thai-style decoration at Siam Park
+- src: /images/actividades/tenerife/siam-park/siam-park-piscina-olas.webp
+  alt: Siam Park's wave pool and sandy beach
 - src: /images/actividades/tenerife/siam-park/siam-park-entrada.webp
   alt: Siam Park entrance
 - src: /images/actividades/tenerife/siam-park/siam-park-pueblo.webp
@@ -91,7 +99,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

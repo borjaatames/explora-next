@@ -2,8 +2,7 @@
 titulo: 'Ávila and Segovia from Madrid: Budget Day Trip'
 slug: avila-segovia-budget-day-trip
 ciudad: madrid
-descripcion: A budget day trip to Ávila and Segovia from Madrid with an official guide and walking tours. Walls and aqueduct
-  seen from outside; no monument entries.
+descripcion: A budget day trip to Ávila and Segovia from Madrid with an official guide and walking tours. Walls and aqueduct seen from outside; no monument entries.
 slugs:
   en: avila-segovia-budget-day-trip
   es: excursion-avila-segovia-economica
@@ -36,9 +35,7 @@ noIncluye:
 - Gratuities
 puntoEncuentro:
   texto: Fun and Tickets, C. de San Bernardo, 7, Centro, 28015 Madrid
-  descripcionGuia: The meeting point is the Fun and Tickets office at calle San Bernardo, 7, in central Madrid. Arrive 15
-    minutes before departure for check-in. Check for the Fun and Tickets sign so you don't confuse it with other operators
-    on the same street.
+  descripcionGuia: The meeting point is the Fun and Tickets office at calle San Bernardo, 7, in central Madrid. Arrive 15 minutes before departure for check-in. Check for the Fun and Tickets sign so you don't confuse it with other operators on the same street.
   latitud: 40.4211
   longitud: -3.7082
   zoom: 17
@@ -60,41 +57,27 @@ informacionImportante:
   - The Walls of Ávila and the Aqueduct of Segovia are seen only from the outside
   - It does not include monument entries or lunch
   - 'The pace is brisk: two cities in a 9-hour day'
-accesibilidad: 'Not recommended for wheelchair users or people with reduced mobility: the walking tours of Ávila and Segovia
-  go through historic centres with slopes, steps and cobbled pavements.'
+accesibilidad: 'Not recommended for wheelchair users or people with reduced mobility: the walking tours of Ávila and Segovia go through historic centres with slopes, steps and cobbled pavements.'
 politicaCancelacion: Cancel free of charge up to 24 hours before departure for a full refund. After that, no refund applies.
 preguntasFrecuentes:
 - pregunta: Does this trip include monument entries?
-  respuesta: 'No. It is an exteriors trip: the Walls of Ávila and the Aqueduct of Segovia are seen from the outside, with
-    the guide''s explanations, but you do not go inside cathedrals, alcázares or walls. If you want entries included, there
-    is the version with monument tickets on this same route.'
+  respuesta: 'No. It is an exteriors trip: the Walls of Ávila and the Aqueduct of Segovia are seen from the outside, with the guide''s explanations, but you do not go inside cathedrals, alcázares or walls. If you want entries included, there is the version with monument tickets on this same route.'
 - pregunta: Why is it cheaper than other Ávila and Segovia trips?
-  respuesta: Because it focuses on the heritage you can see from the street and does not include paid monument entries. You
-    pay for transport, the guide and the walking tours; the saving compared with the version with tickets is exactly the price
-    of those entries.
+  respuesta: Because it focuses on the heritage you can see from the street and does not include paid monument entries. You pay for transport, the guide and the walking tours; the saving compared with the version with tickets is exactly the price of those entries.
 - pregunta: Does the guide speak English?
   respuesta: Yes. The trip is offered in Spanish and English, with an official guide leading the walking tours in both cities.
 - pregunta: Is food included?
-  respuesta: Lunch is not included. A drink and a tapa are included during the stop in Ávila. There is free time to eat on
-    your own.
+  respuesta: Lunch is not included. A drink and a tapa are included during the stop in Ávila. There is free time to eat on your own.
 - pregunta: Can I cancel if something comes up?
-  respuesta: Yes. Cancellation is free up to 24 hours before departure, with a full refund. After that deadline there is no
-    refund.
+  respuesta: Yes. Cancellation is free up to 24 hours before departure, with a full refund. After that deadline there is no refund.
 variantes:
 - avila-segovia-day-trip-with-tickets
 - avila-salamanca-day-trip
 - cuenca-enchanted-city-day-trip
-opinionEditorial: 'This is the right pick if you want to see Ávila and Segovia without overspending and you''re happy to see
-  them from the outside. At 46 euros it is the cheapest trip to link the two cities from Madrid, and it includes the essentials:
-  transport, an official guide and walking tours through both historic centres. For many travellers, walking the Walls of
-  Ávila and standing in front of the Aqueduct of Segovia with a guide explaining it already justifies the day.
+opinionEditorial: 'This is the right pick if you want to see Ávila and Segovia without overspending and you''re happy to see them from the outside. At 46 euros it is the cheapest trip to link the two cities from Madrid, and it includes the essentials: transport, an official guide and walking tours through both historic centres. For many travellers, walking the Walls of Ávila and standing in front of the Aqueduct of Segovia with a guide explaining it already justifies the day.
 
 
-  What the marketing doesn''t tell you: "escape" here means exteriors. You don''t go inside the Cathedral or the Alcázar of
-  Segovia, or the Basilica of San Vicente, and you don''t climb the Walls of Ávila. If you were expecting to set foot in those
-  monuments, you''ll be left wanting: for that there is the [version with tickets included](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets),
-  which costs more for exactly that reason. And like any two-city day trip, the pace is brisk and reduced mobility has a hard
-  time.
+  What the marketing doesn''t tell you: "escape" here means exteriors. You don''t go inside the Cathedral or the Alcázar of Segovia, or the Basilica of San Vicente, and you don''t climb the Walls of Ávila. If you were expecting to set foot in those monuments, you''ll be left wanting: for that there is the [version with tickets included](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets), which costs more for exactly that reason. And like any two-city day trip, the pace is brisk and reduced mobility has a hard time.
 
   '
 atraccionesRelacionadas:
@@ -106,7 +89,7 @@ keywords:
 - avila and segovia tour
 - affordable avila segovia tour
 - avila segovia getaway madrid
-imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp"
+imagen: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp
 imagenAlt: A stretch of Ávila's wall with battlements and towers set against the sky
 galeria:
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp
@@ -128,12 +111,13 @@ galeria:
 - src: /images/actividades/avila/catedral-avila/catedral-avila-cathedral-sculpture-church-square-hero-hero.webp
   alt: Gothic cathedral with stone sculptures in Avila's main square, Spain
 - src: /images/actividades/avila/catedral-avila/wikimedia-125754038-hero.webp
-  alt: Historic walled medieval city of Avila, Spain with stone fortifications
+  alt: Gothic tomb beneath an arch in Ávila Cathedral
 ratingProveedor: 4.6
 numeroOpiniones: 1149
 publicada: true
 destacada: false
 fecha: '2026-05-14'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

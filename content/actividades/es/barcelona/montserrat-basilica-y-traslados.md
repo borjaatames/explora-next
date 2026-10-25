@@ -2,8 +2,7 @@
 titulo: Montserrat con traslados y entrada a la basílica desde Barcelona
 slug: montserrat-basilica-y-traslados
 ciudad: barcelona
-descripcion: Excursión de 6 horas con bus de ida y vuelta desde Barcelona, tour guiado del monasterio y entrada a la basílica
-  + 3 horas de tiempo libre. La opción más asequible del comparador.
+descripcion: Excursión de 6 horas con bus de ida y vuelta desde Barcelona, tour guiado del monasterio y entrada a la basílica + 3 horas de tiempo libre. La opción más asequible del comparador.
 slugs:
   es: montserrat-basilica-y-traslados
   en: montserrat-basilica-and-transfers
@@ -38,8 +37,7 @@ noIncluye:
 - Billetes para el funicular
 puntoEncuentro:
   texto: Pg. de Colom, 7, Barcelona (2 opciones de salida según reserva)
-  descripcionGuia: Primero te diriges a un bar en el centro de Barcelona donde te encuentras con el guía del día. El guía
-    viaja contigo hasta las montañas. Confirma la opción exacta de salida que aparece en tu reserva.
+  descripcionGuia: Primero te diriges a un bar en el centro de Barcelona donde te encuentras con el guía del día. El guía viaja contigo hasta las montañas. Confirma la opción exacta de salida que aparece en tu reserva.
   latitud: 41.3787
   longitud: 2.1782
   zoom: 17
@@ -57,45 +55,31 @@ informacionImportante:
   noAptoPara:
   - Personas con movilidad muy reducida
   aTenerEnCuenta:
-  - El operador distingue claramente entre «el monasterio» (el complejo, incluido en el tour), «la basílica» (espacio interior,
-    incluido) y «la Sala del Trono donde está la Moreneta» (NO incluida)
-  - Las entradas a la Sala del Trono y al Coro están disponibles en el acto pero suelen agotarse; resérvalas con antelación
-    si te interesan
+  - El operador distingue claramente entre «el monasterio» (el complejo, incluido en el tour), «la basílica» (espacio interior, incluido) y «la Sala del Trono donde está la Moreneta» (NO incluida)
+  - Las entradas a la Sala del Trono y al Coro están disponibles en el acto pero suelen agotarse; resérvalas con antelación si te interesan
   - Las rutas de senderismo son opcionales; el tour es apto para todos los niveles de movilidad si no haces caminatas
-accesibilidad: Tour con un recorrido a pie corto durante la visita guiada al monasterio. El tiempo libre permite ir a tu propio
-  ritmo, pero la montaña tiene rampas y desniveles.
+accesibilidad: Tour con un recorrido a pie corto durante la visita guiada al monasterio. El tiempo libre permite ir a tu propio ritmo, pero la montaña tiene rampas y desniveles.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
 preguntasFrecuentes:
 - pregunta: ¿Está incluida la entrada para ver la Virgen Negra?
-  respuesta: No. Esta variante incluye el tour del complejo del monasterio + entrada a la basílica (el interior de la iglesia),
-    pero NO la Sala del Trono donde está la Moreneta. Esas entradas se compran aparte en el sitio y suelen agotarse — resérvalas
-    con antelación si te interesan, o elige una variante que las incluya.
+  respuesta: No. Esta variante incluye el tour del complejo del monasterio + entrada a la basílica (el interior de la iglesia), pero NO la Sala del Trono donde está la Moreneta. Esas entradas se compran aparte en el sitio y suelen agotarse — resérvalas con antelación si te interesan, o elige una variante que las incluya.
 - pregunta: ¿Qué hago con las 3 horas de tiempo libre?
-  respuesta: 'Las opciones más típicas: subir al Funicular de Sant Joan (ticket en el sitio) para vistas espectaculares, hacer
-    una ruta de senderismo suave, visitar el museo del monasterio, comer en el bufé con vistas, o pasear por el mercado de
-    productos locales.'
+  respuesta: 'Las opciones más típicas: subir al Funicular de Sant Joan (ticket en el sitio) para vistas espectaculares, hacer una ruta de senderismo suave, visitar el museo del monasterio, comer en el bufé con vistas, o pasear por el mercado de productos locales.'
 - pregunta: ¿La comida está incluida?
-  respuesta: No. Llévate algo o calcula 15-25 € para comer en el bufé del monasterio (con vistas) o en alguno de los kioskos
-    del entorno.
+  respuesta: No. Llévate algo o calcula 15-25 € para comer en el bufé del monasterio (con vistas) o en alguno de los kioskos del entorno.
 - pregunta: ¿En qué idioma habla el guía?
   respuesta: Inglés y español, con opciones separadas según la reserva. Selecciona el idioma al reservar.
 - pregunta: ¿Cuánto se tarda en llegar?
-  respuesta: 'Unos 75 minutos en autobús desde el centro de Barcelona. La vuelta es similar. En total son 6 horas: ~2,5 h
-    de transporte, 1 h de tour guiado y 3 h de tiempo libre.'
+  respuesta: 'Unos 75 minutos en autobús desde el centro de Barcelona. La vuelta es similar. En total son 6 horas: ~2,5 h de transporte, 1 h de tour guiado y 3 h de tiempo libre.'
 variantes:
 - montserrat-cremallera-virgen-negra
 - montserrat-dia-completo-con-audioguia
 - montserrat-medio-dia-grupo-pequeno
 - montserrat-teleferico-y-caminata-grupo-pequeno
-opinionEditorial: 'La opción más barata del comparador (41 € con oferta) y la más limpia: sin extras, sin cremallera, solo
-  bus + monasterio + basílica + 3 horas para ti. Para quien quiere ver Montserrat con presupuesto ajustado y aprovechar el
-  tiempo libre a su manera, es difícil hacer mejor por ese precio.
+opinionEditorial: 'La opción más barata del comparador (41 € con oferta) y la más limpia: sin extras, sin cremallera, solo bus + monasterio + basílica + 3 horas para ti. Para quien quiere ver Montserrat con presupuesto ajustado y aprovechar el tiempo libre a su manera, es difícil hacer mejor por ese precio.
 
 
-  Lo que conviene tener claro: NO incluye la Moreneta (la Virgen Negra), que es lo que mucha gente espera. Si quieres tocarla,
-  reserva una variante que la incluya explícitamente o compra la entrada por separado en el sitio (suele agotarse). Y las
-  3 horas libres son un arma de doble filo: si vas con plan claro (ruta concreta, funicular, museo) es ideal; si vas a improvisar,
-  puedes quedarte sin saber qué hacer.
+  Lo que conviene tener claro: NO incluye la Moreneta (la Virgen Negra), que es lo que mucha gente espera. Si quieres tocarla, reserva una variante que la incluya explícitamente o compra la entrada por separado en el sitio (suele agotarse). Y las 3 horas libres son un arma de doble filo: si vas con plan claro (ruta concreta, funicular, museo) es ideal; si vas a improvisar, puedes quedarte sin saber qué hacer.
 
   '
 categoria: excursionesDia
@@ -105,8 +89,8 @@ keywords:
 - tour montserrat basilica
 - excursion economica montserrat
 - montserrat desde barcelona
-imagen: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
-imagenAlt: Vistas panorámicas de Montserrat con formaciones rocosas escarpadas al atardecer
+imagen: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+imagenAlt: Estatua del abad Oliba entre la vegetación de Montserrat
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero-hero.webp
   alt: Paisaje cautivador de Montserrat con picos rocosos escarpados bajo cielo despejado
@@ -123,6 +107,7 @@ destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:
 - montserrat
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

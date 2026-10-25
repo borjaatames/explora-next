@@ -1,8 +1,8 @@
 ---
-titulo: "VIP Private Photoshoot in Barcelona"
+titulo: VIP Private Photoshoot in Barcelona
 slug: vip-private-photoshoot-barcelona
 ciudad: barcelona
-descripcion: "A one-hour private photoshoot at Barcelona's most iconic spots, including the Sagrada Familia exterior. Get 50-60 professionally edited photos."
+descripcion: A one-hour private photoshoot at Barcelona's most iconic spots, including the Sagrada Familia exterior. Get 50-60 professionally edited photos.
 slugs:
   es: fotografia-privada-vip-barcelona
   en: vip-private-photoshoot-barcelona
@@ -15,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1039010
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
@@ -44,8 +44,8 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
-opinionEditorial: "One hour goes further than it sounds: the photographer knows which angles work around the Sagrada Familia and doesn't waste time. If you also want to go inside the basilica or Park Güell, book those tickets separately and in advance — they're not included and they sell out."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+opinionEditorial: 'One hour goes further than it sounds: the photographer knows which angles work around the Sagrada Familia and doesn''t waste time. If you also want to go inside the basilica or Park Güell, book those tickets separately and in advance — they''re not included and they sell out.'
 atraccionesRelacionadas:
 - fotos
 categoria: experienciasPrivadas
@@ -53,27 +53,27 @@ keywords:
 - private photoshoot barcelona
 - sagrada familia photographer
 - professional photography barcelona
-imagen: "https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg"
+imagen: https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg
 imagenAlt: VIP private photoshoot in Barcelona by the Sagrada Familia
 galeria:
 - src: https://imgcdn.bokun.tools/86766be2-5ed0-486e-a5c4-39025a205491.jpg
-  alt: "Friends posing with the Sagrada Familia behind"
+  alt: Friends posing with the Sagrada Familia behind
 - src: https://imgcdn.bokun.tools/8ee67383-b1c7-4b11-8e9f-b83c9894c7a0.jpg
-  alt: "Portrait beside the Sagrada Familia"
+  alt: Portrait beside the Sagrada Familia
 - src: https://imgcdn.bokun.tools/28df9fcf-8e1e-4822-8fc8-7b8509e7dccf.jpg
-  alt: "Couple at the Ciutadella Park waterfall"
+  alt: Couple at the Ciutadella Park waterfall
 - src: https://imgcdn.bokun.tools/1a8bd2cf-3c54-477e-858a-b4be659f64b4.jpg
-  alt: "Portrait in front of a Gothic doorway"
+  alt: Portrait in front of a Gothic doorway
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
-  alt: "Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background"
+  alt: Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
-  alt: "Gothic Quarter Barcelona: narrow medieval street with historic architecture and stone buildings"
+  alt: Narrow street with balconies in Barcelona's old town
 - src: /images/actividades/barcelona/casa-mila/casa-mila-tall-building-balconies-it-hero.webp
-  alt: "Casa Milà under a blue sky with clouds"
+  alt: Casa Milà under a blue sky with clouds
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll experience

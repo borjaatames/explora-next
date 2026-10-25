@@ -2,8 +2,7 @@
 titulo: Sagrada Familia Guided Tour with Skip-the-Line
 slug: sagrada-familia-guided-tour
 ciudad: barcelona
-descripcion: Guided tour of the Sagrada Familia with skip-the-line entry and a choice of Spanish, bilingual or small-group
-  format. The operator with the most reviews.
+descripcion: Guided tour of the Sagrada Familia with skip-the-line entry and a choice of Spanish, bilingual or small-group format. The operator with the most reviews.
 slugs:
   en: sagrada-familia-guided-tour
   es: sagrada-familia-tour-guiado-clasico
@@ -34,9 +33,7 @@ noIncluye:
 - Food and drink
 puntoEncuentro:
   texto: C/ de Sardenya, 311, 08025 Barcelona
-  descripcionGuia: The meeting point can vary depending on the option you book (Spanish, bilingual, small group). The general
-    reference is Carrer de Sardenya, 311, next to the basilica. Check the exact detail in your confirmation and arrive 15
-    minutes early.
+  descripcionGuia: The meeting point can vary depending on the option you book (Spanish, bilingual, small group). The general reference is Carrer de Sardenya, 311, next to the basilica. Check the exact detail in your confirmation and arrive 15 minutes early.
   latitud: 41.4044
   longitud: 2.1736
   zoom: 17
@@ -52,45 +49,31 @@ informacionImportante:
   noAptoPara:
   - 'Anyone wanting a guaranteed single-language group: some departures combine languages in the same group'
   aTenerEnCuenta:
-  - 'There are three group formats: Spanish, bilingual Spanish-English and small group; the price and meeting point change
-    depending on which you choose'
+  - 'There are three group formats: Spanish, bilingual Spanish-English and small group; the price and meeting point change depending on which you choose'
   - 'Church dress code: no sleeveless tops, short trousers, sandals, flip-flops, caps or bare feet'
   - The security check can lengthen waiting times on some days
-accesibilidad: The operator does not state wheelchair accessibility for this visit. If you need accessibility, check the skip-the-line
-  guided tour or the private tour, which do declare it.
+accesibilidad: The operator does not state wheelchair accessibility for this visit. If you need accessibility, check the skip-the-line guided tour or the private tour, which do declare it.
 politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance.
 preguntasFrecuentes:
 - pregunta: How is it different from the other guided tours?
-  respuesta: 'It''s the operator with the longest track record in the comparison — over 5,500 reviews — and the one offering
-    the most group formats: you can pick a Spanish departure, a bilingual Spanish-English one or a small group. In exchange,
-    its average score (4.4) and its value-for-money score (3.9) are slightly lower than other guided options on the page.'
+  respuesta: 'It''s the operator with the longest track record in the comparison — over 5,500 reviews — and the one offering the most group formats: you can pick a Spanish departure, a bilingual Spanish-English one or a small group. In exchange, its average score (4.4) and its value-for-money score (3.9) are slightly lower than other guided options on the page.'
 - pregunta: Will the group be in Spanish only?
-  respuesta: It depends on the option you book. There is a specific Spanish departure, but also a bilingual Spanish-English
-    one where the guide alternates languages within the same group. If you want a guaranteed single-language group, expressly
-    choose the Spanish option at booking.
+  respuesta: It depends on the option you book. There is a specific Spanish departure, but also a bilingual Spanish-English one where the guide alternates languages within the same group. If you want a guaranteed single-language group, expressly choose the Spanish option at booking.
 - pregunta: Does it include going up the towers?
   respuesta: No. Going up the towers is not part of this tour. To go up, check the «with tower» option in the comparison.
 - pregunta: Is it wheelchair accessible?
-  respuesta: The operator does not state it for this visit. If you need accessibility, the skip-the-line guided tour and the
-    private tour in the comparison do declare it expressly.
+  respuesta: The operator does not state it for this visit. If you need accessibility, the skip-the-line guided tour and the private tour in the comparison do declare it expressly.
 - pregunta: What do you see on the route?
-  respuesta: The Nativity façade, the basilica interior, the Passion façade and the Sagrada Familia school. When it ends you
-    can stay inside and visit the Gaudí Museum, with drawings, models and photographs of the construction.
+  respuesta: The Nativity façade, the basilica interior, the Passion façade and the Sagrada Familia school. When it ends you can stay inside and visit the Gaudí Museum, with drawings, models and photographs of the construction.
 variantes:
 - sagrada-familia-skip-the-line-guided-tour
 - sagrada-familia-small-group-tour
 - sagrada-familia-guided-tour-with-free-time
 - sagrada-familia-ticket-audio-guide
-opinionEditorial: 'This is the veteran operator at the Sagrada Familia: over 5,500 reviews and, above all, the widest range
-  of formats in the comparison. If you''re clear that you want a Spanish-only group and nothing else — not bilingual — here
-  you choose it expressly, and there''s also a small-group option if you''d rather pay a bit more for fewer people.
+opinionEditorial: 'This is the veteran operator at the Sagrada Familia: over 5,500 reviews and, above all, the widest range of formats in the comparison. If you''re clear that you want a Spanish-only group and nothing else — not bilingual — here you choose it expressly, and there''s also a small-group option if you''d rather pay a bit more for fewer people.
 
 
-  Now the honest part. Its average score is among the lowest of the guided options (4.4) and the value-for-money score sits
-  at 3.9 — the weak point travellers themselves point out. The recurring complaint is the bilingual departure: when the guide
-  alternates Spanish and English in the same group, you lose the thread. If you book, pick the single-language option. And
-  if what you want is simply the best combination of score and price, the skip-the-line guided tour in the comparison delivers
-  more for less money.
+  Now the honest part. Its average score is among the lowest of the guided options (4.4) and the value-for-money score sits at 3.9 — the weak point travellers themselves point out. The recurring complaint is the bilingual departure: when the guide alternates Spanish and English in the same group, you lose the thread. If you book, pick the single-language option. And if what you want is simply the best combination of score and price, the skip-the-line guided tour in the comparison delivers more for less money.
 
   '
 categoria: visitasGuiadas
@@ -100,7 +83,7 @@ keywords:
 - sagrada familia skip the line visit
 - sagrada familia group tour
 - sagrada familia barcelona guide
-imagen: "/images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp"
+imagen: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
 imagenAlt: Barcelona street with historic architecture and urban landscape
 ratingProveedor: 4.4
 numeroOpiniones: 5559
@@ -133,13 +116,13 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
   alt: Venetian mosaic finials atop the towers of the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
-  alt: Barcelona cityscape with Gothic Quarter buildings and Mediterranean architecture
+  alt: Stained-glass light cast on the columns of the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
   alt: Sagrada Familia basilica with construction cranes, Barcelona 2008
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-columns-hero-hero.webp
   alt: Intricate ceiling details and ornate columns of Sagrada Familia basilica in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
-  alt: Barcelona's Gothic Quarter with medieval architecture and narrow streets
+  alt: Blue and green stained glass in the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Sy4CXsj6BDE-hero.webp
   alt: Barcelona cityscape with Gothic Quarter architecture and Mediterranean views
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
@@ -150,6 +133,7 @@ galeria:
   alt: Interior of the Sagrada Familia with columns lit by the warm-toned stained glass light
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
   alt: Interior rose window of the Sagrada Familia with colorful stained glass
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

@@ -73,23 +73,29 @@ keywords:
 - tabarca snorkel excursion
 - reserva marina tabarca
 - snorkel alicante
-imagen: /images/actividades/alicante/tabarca/tabarca-islote.webp
-imagenAlt: Islote y aguas transparentes de la isla de Tabarca
+imagen: /images/actividades/alicante/tabarca/snorkel-pradera-posidonia.webp
+imagenAlt: Persona buceando con tubo sobre una pradera de posidonia en el Mediterráneo
 galeria:
-  - src: "/images/actividades/alicante/tabarca/faro-tabarca-vista-amplia.webp"
-    alt: "Vista amplia del faro de Tabarca junto a la reserva marina"
-  - src: "/images/actividades/alicante/tabarca/tabarca-playa.webp"
-    alt: "Aguas transparentes de la reserva marina de Tabarca"
-  - src: "/images/actividades/alicante/tabarca/puerta-trancada.webp"
-    alt: "Puerta de la Trancada, Tabarca"
-  - src: "/images/actividades/alicante/tabarca/faro-tabarca.webp"
-    alt: "Faro de Tabarca"
-  - src: "/images/actividades/alicante/tabarca/tabarca-calle.webp"
-    alt: "Calle del pueblo de Tabarca"
-  - src: "/images/actividades/alicante/tabarca/tabarca-fortificacion.webp"
-    alt: "Fortificación de Tabarca vista desde el mar"
-  - src: "/images/actividades/alicante/tabarca/faro-tabarca-campo.webp"
-    alt: "Faro de Tabarca entre un campo de flores silvestres"
+- src: /images/actividades/alicante/tabarca/salemas-posidonia.webp
+  alt: Banco de salemas sobre una pradera de posidonia en el Mediterráneo
+- src: /images/actividades/alicante/tabarca/tabarca-islote.webp
+  alt: Islote y aguas transparentes de la isla de Tabarca
+- src: /images/actividades/alicante/tabarca/pradera-posidonia.webp
+  alt: Pradera de posidonia bajo el agua, iluminada por el sol
+- src: /images/actividades/alicante/tabarca/faro-tabarca-vista-amplia.webp
+  alt: Vista amplia del faro de Tabarca junto a la reserva marina
+- src: /images/actividades/alicante/tabarca/tabarca-playa.webp
+  alt: Aguas transparentes de la reserva marina de Tabarca
+- src: /images/actividades/alicante/tabarca/puerta-trancada.webp
+  alt: Puerta de la Trancada, Tabarca
+- src: /images/actividades/alicante/tabarca/faro-tabarca.webp
+  alt: Faro de Tabarca
+- src: /images/actividades/alicante/tabarca/tabarca-calle.webp
+  alt: Calle del pueblo de Tabarca
+- src: /images/actividades/alicante/tabarca/tabarca-fortificacion.webp
+  alt: Fortificación de Tabarca vista desde el mar
+- src: /images/actividades/alicante/tabarca/faro-tabarca-campo.webp
+  alt: Faro de Tabarca entre un campo de flores silvestres
 ratingProveedor: 4.6
 numeroOpiniones: 97
 atraccionesRelacionadas:
@@ -97,7 +103,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## La excursión

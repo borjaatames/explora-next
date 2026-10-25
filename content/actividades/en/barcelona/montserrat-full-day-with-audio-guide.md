@@ -1,125 +1,118 @@
 ---
-titulo: "Montserrat Full Day with Rack Railway and Audio Guide"
-slug: "montserrat-full-day-with-audio-guide"
-ciudad: "barcelona"
-descripcion: "7-hour excursion with coach, rack railway, guided tour of the Benedictine Abbey and audio guide included. Choose Choir or Museum option."
-
+titulo: Montserrat Full Day with Rack Railway and Audio Guide
+slug: montserrat-full-day-with-audio-guide
+ciudad: barcelona
+descripcion: 7-hour excursion with coach, rack railway, guided tour of the Benedictine Abbey and audio guide included. Choose Choir or Museum option.
 slugs:
-  en: "montserrat-full-day-with-audio-guide"
-  es: "montserrat-dia-completo-con-audioguia"
-
-duracion: "7 hours"
+  en: montserrat-full-day-with-audio-guide
+  es: montserrat-dia-completo-con-audioguia
+duracion: 7 hours
 duracionMinutos: 420
 precioDesde: 42
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/barcelona-l45/montserrat-full-day-tour-with-optional-tickets-t243552/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/barcelona-l45/montserrat-full-day-tour-with-optional-tickets-t243552/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Coach + rack railway + Spanish or English guided tour"
-  - "Audio guide included in Spanish and English for your own pace"
-  - "Choice of Escolanía (boys' choir) or Montserrat Museum depending on the day"
-  - "Basilica access with view of the Moreneta (if you select that option)"
-
+- Coach + rack railway + Spanish or English guided tour
+- Audio guide included in Spanish and English for your own pace
+- Choice of Escolanía (boys' choir) or Montserrat Museum depending on the day
+- Basilica access with view of the Moreneta (if you select that option)
 incluye:
-  - "Guided visit to Montserrat"
-  - "Free time at Montserrat"
-  - "Rack railway ticket to the monastery"
-  - "Audio guide in Spanish and English"
-  - "Basilica entry with view of the Moreneta (if you select the option)"
-  - "Escolanía choir performance or Montserrat Museum entry (if you select the option)"
-
+- Guided visit to Montserrat
+- Free time at Montserrat
+- Rack railway ticket to the monastery
+- Audio guide in Spanish and English
+- Basilica entry with view of the Moreneta (if you select the option)
+- Escolanía choir performance or Montserrat Museum entry (if you select the option)
 noIncluye:
-  - "Lunch"
-  - "Hotel pickup and drop-off"
-
+- Lunch
+- Hotel pickup and drop-off
 puntoEncuentro:
-  texto: "Estació Barcelona Nord, Nàpols 68, 08018 Barcelona"
-  descripcionGuia: "Check the platform number on the screens inside the station. Arrive early: departure is punctual."
-  latitud: 41.3950
-  longitud: 2.1830
+  texto: Estació Barcelona Nord, Nàpols 68, 08018 Barcelona
+  descripcionGuia: 'Check the platform number on the screens inside the station. Arrive early: departure is punctual.'
+  latitud: 41.395
+  longitud: 2.183
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Comfortable shoes"
-    - "Weather-appropriate clothing (cooler than Barcelona)"
-    - "ID document"
+  - Comfortable shoes
+  - Weather-appropriate clothing (cooler than Barcelona)
+  - ID document
   noAptoPara:
-    - "People with limited mobility"
+  - People with limited mobility
   aTenerEnCuenta:
-    - "The Escolanía only performs Monday-Friday during the school period. When no performance is scheduled, access to the Montserrat Museum is included instead"
-    - "The Escolanía option is not available in summer or during choir tours"
-    - "Tour options are chosen when booking"
-
-accesibilidad: "Tour with walking routes and rack railway ride. Not wheelchair accessible."
-
-politicaCancelacion: "Free cancellation up to 24 hours before with full refund."
-
+  - The Escolanía only performs Monday-Friday during the school period. When no performance is scheduled, access to the Montserrat Museum is included instead
+  - The Escolanía option is not available in summer or during choir tours
+  - Tour options are chosen when booking
+accesibilidad: Tour with walking routes and rack railway ride. Not wheelchair accessible.
+politicaCancelacion: Free cancellation up to 24 hours before with full refund.
 preguntasFrecuentes:
-  - pregunta: "How does the audio guide work?"
-    respuesta: "It's handed to you at the start of the tour or via an app. Use it during free time or as a complement to the official guide. Available in Spanish and English. Useful for deeper context on parts the guide goes through quickly."
-  - pregunta: "What about the Escolanía?"
-    respuesta: "It's Europe's oldest boys' choir (14th century). Performs school days around 13:00. If your booking includes the Escolanía option and you land on a non-performance day, they include entry to the Montserrat Museum as compensation."
-  - pregunta: "What's the difference vs Julià Travel?"
-    respuesta: "This is 7 hours (vs 5-7 of Julià) and usually includes more free time. The audio guide is specific to this variant. The operator (Catalunya Bus Turístic) is different but the general format is similar. For a first visit, both are comparable."
-  - pregunta: "Is the Moreneta included?"
-    respuesta: "Yes, if you select the «with Moreneta» option when booking. There are variants with basilica only (without Moreneta) for those who don't want that extra."
-  - pregunta: "What do I do during free time?"
-    respuesta: "Typical: enter the basilica, ride the Sant Joan funicular (extra), eat at the buffet with views, visit the museum, do a short hike, or stroll through the local market."
-
+- pregunta: How does the audio guide work?
+  respuesta: It's handed to you at the start of the tour or via an app. Use it during free time or as a complement to the official guide. Available in Spanish and English. Useful for deeper context on parts the guide goes through quickly.
+- pregunta: What about the Escolanía?
+  respuesta: It's Europe's oldest boys' choir (14th century). Performs school days around 13:00. If your booking includes the Escolanía option and you land on a non-performance day, they include entry to the Montserrat Museum as compensation.
+- pregunta: What's the difference vs Julià Travel?
+  respuesta: This is 7 hours (vs 5-7 of Julià) and usually includes more free time. The audio guide is specific to this variant. The operator (Catalunya Bus Turístic) is different but the general format is similar. For a first visit, both are comparable.
+- pregunta: Is the Moreneta included?
+  respuesta: Yes, if you select the «with Moreneta» option when booking. There are variants with basilica only (without Moreneta) for those who don't want that extra.
+- pregunta: What do I do during free time?
+  respuesta: 'Typical: enter the basilica, ride the Sant Joan funicular (extra), eat at the buffet with views, visit the museum, do a short hike, or stroll through the local market.'
 variantes:
-  - "montserrat-rack-railway-black-madonna"
-  - "montserrat-rack-railway-winery-castlexperience"
-  - "montserrat-basilica-and-transfers"
+- montserrat-rack-railway-black-madonna
+- montserrat-rack-railway-winery-castlexperience
+- montserrat-basilica-and-transfers
+opinionEditorial: 'The alternative to Julià Travel for the classic rack railway + monastery + Moreneta (optional). The operator (Catalunya Bus Turístic) is less famous but has 2,400+ reviews at 4.6 stars, so it''s solid. The bundled audio guide is a plus if you like to deepen after the guided tour.
 
-opinionEditorial: |
-  The alternative to Julià Travel for the classic rack railway + monastery + Moreneta (optional). The operator (Catalunya Bus Turístic) is less famous but has 2,400+ reviews at 4.6 stars, so it's solid. The bundled audio guide is a plus if you like to deepen after the guided tour.
 
   What stands out: 7 hours (1-2 more than Julià Travel), more margin for free time. The Escolanía or Museum backup option (depending on day) is a thoughtful operator detail. Price (€48) very competitive for a full day with all inclusions.
 
+
   Worth knowing: the tour is bilingual Spanish + English to the same group, just like Julià Travel. If that matters, look at small-group variants with single-language guide.
 
-categoria: "excursionesDia"
-keywords: ["montserrat full day", "montserrat audio guide", "montserrat rack railway full day", "montserrat escolania", "catalunya bus turistic"]
-
-imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero.webp"
-imagenAlt: "Montserrat rack railway with views over the Catalan mountain"
-
+  '
+categoria: excursionesDia
+keywords:
+- montserrat full day
+- montserrat audio guide
+- montserrat rack railway full day
+- montserrat escolania
+- catalunya bus turistic
+imagen: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero.webp
+imagenAlt: Montserrat rack railway with views over the Catalan mountain
 galeria:
-  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
-    alt: "Formaciones rocosas de Montserrat con el monasterio al fondo"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
-    alt: "Montserrat monastery among the mountains"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp"
-    alt: "Views of the Montserrat mountains from the monastery"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"
-    alt: "Panoramic view of the Montserrat massif"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-monastery-nature-mountain-hero.webp"
-    alt: "Aerial view of Montserrat monastery against the mountain"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-08-hero.webp"
-    alt: "Montserrat monastery seen from the mountain"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-stunning-low-angle-view-abbey-hero.webp"
-    alt: "Inner courtyard of the Montserrat abbey"
-
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Statue of Abbot Oliba among the greenery of Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp
+  alt: Montserrat monastery among the mountains
+- src: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp
+  alt: Views of the Montserrat mountains from the monastery
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp
+  alt: Panoramic view of the Montserrat massif
+- src: /images/actividades/barcelona/montserrat/montserrat-spain-monastery-nature-mountain-hero.webp
+  alt: Aerial view of Montserrat monastery against the mountain
+- src: /images/actividades/barcelona/montserrat/montserrat-spain-08-hero.webp
+  alt: Montserrat monastery seen from the mountain
+- src: /images/actividades/barcelona/montserrat/montserrat-stunning-low-angle-view-abbey-hero.webp
+  alt: Inner courtyard of the Montserrat abbey
 ratingProveedor: 4.6
 numeroOpiniones: 2449
-
 publicada: false
 destacada: false
-fecha: "2026-05-15"
+fecha: '2026-05-15'
 atraccionesRelacionadas:
-  - "montserrat"
+- montserrat
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

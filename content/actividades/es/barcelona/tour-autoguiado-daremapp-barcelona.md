@@ -61,27 +61,27 @@ keywords:
 - tour autoguiado barcelona
 - audioguía app barcelona
 - visita autoguiada barcelona
-imagen: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp"
-imagenAlt: "Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo"
+imagen: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
+imagenAlt: Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo
 galeria:
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
-  alt: "Arcos del claustro de la Catedral de Barcelona y su jardín"
+  alt: Arcos del claustro de la Catedral de Barcelona y su jardín
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
-  alt: "Calle estrecha del Barrio Gótico de Barcelona con arquitectura medieval y fachadas históricas"
+  alt: Calle estrecha con balcones en el casco antiguo de Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
-  alt: "Panorámica de Barcelona con arquitectura modernista y horizonte urbano"
+  alt: Bóveda de la nave de la Sagrada Familia con sus lucernarios
 - src: /images/actividades/barcelona/casa-mila/casa-mila-tall-building-balconies-it-hero.webp
-  alt: "Casa Milà bajo un cielo azul con nubes"
+  alt: Casa Milà bajo un cielo azul con nubes
 - src: /images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp
-  alt: "Vistas panorámicas del Park Güell con modernismo catalán y la ciudad de Barcelona al fondo"
+  alt: Pabellones de la entrada del Park Güell con sus tejados de cerámica
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero-hero.webp
-  alt: "Parque Güell con arquitectura de Gaudí y vistas panorámicas de Barcelona, España"
+  alt: Pórticos de piedra y escalinata del Park Güell
 - src: https://imgcdn.bokun.tools/fac20a08-f974-4b5b-885b-ea92be1597c4.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
+  alt: Aplicación DaremApp con el recorrido autoguiado
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver y descubrir

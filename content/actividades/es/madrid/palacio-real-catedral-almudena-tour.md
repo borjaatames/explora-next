@@ -2,8 +2,7 @@
 titulo: 'Palacio Real y Catedral de la Almudena: Visita Guiada'
 slug: palacio-real-catedral-almudena-tour
 ciudad: madrid
-descripcion: Tour guiado de 2 horas que combina el Palacio Real de Madrid y la Catedral de la Almudena con paseo por Plaza
-  Mayor y Plaza de la Villa. Entrada sin colas al palacio incluida.
+descripcion: Tour guiado de 2 horas que combina el Palacio Real de Madrid y la Catedral de la Almudena con paseo por Plaza Mayor y Plaza de la Villa. Entrada sin colas al palacio incluida.
 slugs:
   es: palacio-real-catedral-almudena-tour
   en: royal-palace-almudena-cathedral-tour
@@ -37,9 +36,7 @@ noIncluye:
 - Transporte
 puntoEncuentro:
   texto: Calle Mayor 43, oficina de Fun and Tickets. Llega al menos 10 minutos antes del inicio del tour.
-  descripcionGuia: La salida es desde la oficina del operador Fun and Tickets en Calle Mayor 43, en pleno casco histórico.
-    Llega 10 minutos antes — el tour empieza con un paseo a pie hacia el Palacio Real pasando por Plaza Mayor, Mercado de
-    San Miguel y Plaza de la Villa.
+  descripcionGuia: La salida es desde la oficina del operador Fun and Tickets en Calle Mayor 43, en pleno casco histórico. Llega 10 minutos antes — el tour empieza con un paseo a pie hacia el Palacio Real pasando por Plaza Mayor, Mercado de San Miguel y Plaza de la Villa.
   latitud: 40.4159
   longitud: -3.7083
   zoom: 17
@@ -59,54 +56,32 @@ informacionImportante:
   - Mascotas (salvo perros de asistencia)
   aTenerEnCuenta:
   - El orden de la visita puede variar según los horarios del Palacio Real
-  - Aunque la entrada al palacio es prioritaria, el control de seguridad puede sufrir retrasos por capacidad — escapa al control
-    del operador
-  - La Catedral de la Almudena se visita por fuera; la entrada con explicación dentro NO está garantizada en todas las salidas
-    (ver FAQ)
+  - Aunque la entrada al palacio es prioritaria, el control de seguridad puede sufrir retrasos por capacidad — escapa al control del operador
+  - La Catedral de la Almudena se visita por fuera; la entrada con explicación dentro NO está garantizada en todas las salidas (ver FAQ)
   - Volumen de reseñas bajo (9) — producto reciente o menos publicitado que las opciones estándar
-accesibilidad: Accesible en silla de ruedas según el operador. El paseo por el casco histórico tiene zonas empedradas — comenta
-  al guía cualquier necesidad específica al inicio.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva
-  ahora y paga después».
+accesibilidad: Accesible en silla de ruedas según el operador. El paseo por el casco histórico tiene zonas empedradas — comenta al guía cualquier necesidad específica al inicio.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva ahora y paga después».
 preguntasFrecuentes:
 - pregunta: ¿La visita guiada incluye entrar en la Catedral de la Almudena?
-  respuesta: 'Es lo que más dudas genera. La descripción oficial menciona «visita guiada de la Catedral de la Almudena», pero
-    una reseña reciente (Sarah, Croacia, marzo 2026) avisa: «aunque dice que el guía la guía también en la catedral, eso no
-    fue así — solo te lleva delante y ahí termina». Confirma con el operador antes de reservar si para ti es importante entrar
-    dentro con explicación, no solo verla por fuera. La entrada principal del palacio sí está siempre incluida.'
+  respuesta: 'Es lo que más dudas genera. La descripción oficial menciona «visita guiada de la Catedral de la Almudena», pero una reseña reciente (Sarah, Croacia, marzo 2026) avisa: «aunque dice que el guía la guía también en la catedral, eso no fue así — solo te lleva delante y ahí termina». Confirma con el operador antes de reservar si para ti es importante entrar dentro con explicación, no solo verla por fuera. La entrada principal del palacio sí está siempre incluida.'
 - pregunta: ¿Cuánto camina uno en el tour?
-  respuesta: El tour empieza en Calle Mayor 43 y va andando hacia el Palacio Real pasando por Plaza Mayor, Mercado de San
-    Miguel y Plaza de la Villa. Son unos 800-900 metros en total por casco histórico — fácil para cualquiera, pero conviene
-    calzado cómodo.
+  respuesta: El tour empieza en Calle Mayor 43 y va andando hacia el Palacio Real pasando por Plaza Mayor, Mercado de San Miguel y Plaza de la Villa. Son unos 800-900 metros en total por casco histórico — fácil para cualquiera, pero conviene calzado cómodo.
 - pregunta: ¿Por qué tiene tan pocas reseñas?
-  respuesta: 9 reseñas es un volumen bajo en GetYourGuide. Puede deberse a que es un producto reciente o menos visible en
-    el listado del Palacio Real (donde la opción estándar tiene más de 4.000). El rating es 4,5/5 con 78% de notas máximas,
-    lo que es decente, pero hay 1 reseña de 1 estrella sin explicación. Si valoras volumen de reseñas como filtro, las opciones
-    con +1.000 reseñas son más conservadoras.
+  respuesta: 9 reseñas es un volumen bajo en GetYourGuide. Puede deberse a que es un producto reciente o menos visible en el listado del Palacio Real (donde la opción estándar tiene más de 4.000). El rating es 4,5/5 con 78% de notas máximas, lo que es decente, pero hay 1 reseña de 1 estrella sin explicación. Si valoras volumen de reseñas como filtro, las opciones con +1.000 reseñas son más conservadoras.
 - pregunta: ¿Las propinas están incluidas?
-  respuesta: Sí. El operador especifica «Gratuities» en lo que incluye el precio — algo poco habitual en GYG. No tienes que
-    añadir propina al guía al terminar.
+  respuesta: Sí. El operador especifica «Gratuities» en lo que incluye el precio — algo poco habitual en GYG. No tienes que añadir propina al guía al terminar.
 - pregunta: ¿Es accesible en silla de ruedas?
-  respuesta: Sí, el operador lo confirma. El Palacio Real tiene rampas y ascensores en las salas principales. El paseo por
-    el casco histórico atraviesa zonas empedradas; comenta al guía cualquier necesidad al inicio.
+  respuesta: Sí, el operador lo confirma. El Palacio Real tiene rampas y ascensores en las salas principales. El paseo por el casco histórico atraviesa zonas empedradas; comenta al guía cualquier necesidad al inicio.
 variantes:
 - palacio-real-visita-guiada-golden-tour
 - palacio-real-tour-premium-skip-line
-opinionEditorial: 'La opción 2-en-1 para quien quiera juntar Palacio Real y Catedral de la Almudena en un solo tour de 2 horas.
-  A 58 euros es más caro que el tour del palacio standalone (38 euros), pero suma el paseo a pie por Plaza Mayor, Mercado
-  de San Miguel y Plaza de la Villa, y la visita a la Catedral. Las propinas están incluidas, lo que es poco habitual.
+opinionEditorial: 'La opción 2-en-1 para quien quiera juntar Palacio Real y Catedral de la Almudena en un solo tour de 2 horas. A 58 euros es más caro que el tour del palacio standalone (38 euros), pero suma el paseo a pie por Plaza Mayor, Mercado de San Miguel y Plaza de la Villa, y la visita a la Catedral. Las propinas están incluidas, lo que es poco habitual.
 
 
-  Lo que conviene saber: la duda principal es si la visita a la Catedral incluye entrar dentro con explicación o solo verla
-  por fuera. La descripción oficial sugiere lo primero; una reseña reciente confirma lo segundo. Si para ti es importante
-  entrar a la Almudena con guía, confírmalo con el operador antes de reservar — la diferencia entre las dos versiones puede
-  justificar o no el sobrecoste de 20 euros respecto al tour del palacio solo.
+  Lo que conviene saber: la duda principal es si la visita a la Catedral incluye entrar dentro con explicación o solo verla por fuera. La descripción oficial sugiere lo primero; una reseña reciente confirma lo segundo. Si para ti es importante entrar a la Almudena con guía, confírmalo con el operador antes de reservar — la diferencia entre las dos versiones puede justificar o no el sobrecoste de 20 euros respecto al tour del palacio solo.
 
 
-  El otro punto: el volumen de reseñas es bajo (9). El rating es decente (4,5/5 con 78% de notas máximas), pero hay 1 reseña
-  de 1 estrella sin explicación que mete ruido. Si necesitas la tranquilidad de un producto con +1.000 reseñas, la opción
-  estándar del Palacio Real solo es más conservadora. Si el plan es ver palacio + catedral en una mañana sin pensarlo, este
-  combo te lo deja resuelto.
+  El otro punto: el volumen de reseñas es bajo (9). El rating es decente (4,5/5 con 78% de notas máximas), pero hay 1 reseña de 1 estrella sin explicación que mete ruido. Si necesitas la tranquilidad de un producto con +1.000 reseñas, la opción estándar del Palacio Real solo es más conservadora. Si el plan es ver palacio + catedral en una mañana sin pensarlo, este combo te lo deja resuelto.
 
   '
 atraccionesRelacionadas:
@@ -117,21 +92,21 @@ keywords:
 - palacio real catedral madrid
 - visita palacio real almudena guia
 - palacio real plaza mayor tour
-imagen: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero-hero.webp"
+imagen: /images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero-hero.webp
 imagenAlt: Catedral de la Almudena al atardecer iluminada, Madrid
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
-  alt: Fachada del Palacio Real de Madrid con arquitectura neoclásica y columnas blancas
+  alt: Palacio Real visto desde los jardines del Campo del Moro
 - src: /images/actividades/madrid/almudena/catedral-almudena-cathedral-madrid-architecture-hero-hero.webp
   alt: Catedral de la Almudena en Madrid con arquitectura neoclásica y neogótica, fachada blanca iluminada
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
   alt: Fachada del Palacio Real de Madrid en día despejado
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
-  alt: Arquitectura neoclásica del Palacio Real de Madrid
+  alt: Palacio Real desde la plaza de la Armería, con su galería de arcos
 - src: /images/actividades/madrid/almudena/catedral-almudena-cathedral-ceiling-painting-church-hero-hero.webp
   alt: Pintura en bóveda de la Catedral de la Almudena, Madrid
 - src: /images/actividades/madrid/almudena/catedral-almudena-stunning-view-cathedral-under-hero-hero.webp
-  alt: Catedral de la Almudena de Madrid con vista panorámica de su fachada blanca y cúpula
+  alt: Fachada principal de la catedral de la Almudena
 - src: /images/actividades/madrid/almudena/catedral-almudena-santa-maria-real-12-hero-hero.webp
   alt: Fachada principal de la Catedral de la Almudena de Madrid con su arquitectura neoclásica y cúpula blanca
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero-hero.webp
@@ -139,9 +114,9 @@ galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero-hero.webp
   alt: Estatua ecuestre frente a la fachada principal del Palacio Real de Madrid
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-explore-architectural-beauty-royal-hero-hero.webp
-  alt: Fachada del Palacio Real de Madrid con arquitectura neoclásica y detalles ornamentales
+  alt: Palacio Real de Madrid y la plaza de la Armería
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-foto-21092805-hero-hero.webp
-  alt: Fachada principal del Palacio Real de Madrid con arquitectura barroca y jardines.
+  alt: Fachada principal del Palacio Real de Madrid
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-royal-spain-2-hero-hero.webp
   alt: Fachada principal del Palacio Real de Madrid con sus torres y jardines
 ratingProveedor: 4.5
@@ -149,7 +124,7 @@ numeroOpiniones: 9
 publicada: true
 destacada: false
 fecha: '2026-05-17'
-fecha_actualizacion: '2026-05-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

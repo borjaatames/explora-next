@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Corralejo: Lobos Island catamaran with lunch and snorkelling'
 slug: corralejo-lobos-island-catamaran
 ciudad: fuerteventura
-descripcion: '4-hour catamaran trip from Corralejo to Lobos Island, anchoring off La Concha, with paella, drinks, snorkelling, kayaking and paddleboarding, and pickup in Corralejo. Rated 4.8/5 from more than 1,100 reviews.'
+descripcion: 4-hour catamaran trip from Corralejo to Lobos Island, anchoring off La Concha, with paella, drinks, snorkelling, kayaking and paddleboarding, and pickup in Corralejo. Rated 4.8/5 from more than 1,100 reviews.
 slugs:
   es: catamaran-isla-lobos-corralejo
   en: corralejo-lobos-island-catamaran
@@ -35,7 +35,7 @@ noIncluye:
 - Pickup outside Corralejo
 puntoEncuentro:
   texto: Pickup in Corralejo (hotels and points listed when booking).
-  descripcionGuia: "There are eight pickup points in Corralejo, including the Aloe Club Resort, Alua Suites, Bahiazul, Riu Oliva Beach and Playa Park Zensation hotels, plus Fuerchina, Burger King and the Fuertecharter office."
+  descripcionGuia: There are eight pickup points in Corralejo, including the Aloe Club Resort, Alua Suites, Bahiazul, Riu Oliva Beach and Playa Park Zensation hotels, plus Fuerchina, Burger King and the Fuertecharter office.
   latitud: 28.7406
   longitud: -13.8637
   zoom: 13
@@ -65,7 +65,7 @@ preguntasFrecuentes:
   respuesta: Paella, with soft drinks, beer, wine, water, coffee and tea.
 - pregunta: Do I need the Lobos permit?
   respuesta: Ask the operator when booking whether they handle the access authorisation; if you're going to set foot on the island, you need one.
-opinionEditorial: "It's the most comfortable way to see Lobos and one of the best rated: the boat, food and water gear are included and you don't have to worry about ferry times. It costs about four ferry tickets, though. If you'd rather walk to the lighthouse and climb La Caldera, the ferry gives you more time ashore."
+opinionEditorial: 'It''s the most comfortable way to see Lobos and one of the best rated: the boat, food and water gear are included and you don''t have to worry about ferry times. It costs about four ferry tickets, though. If you''d rather walk to the lighthouse and climb La Caldera, the ferry gives you more time ashore.'
 guiasRelacionadas:
 - lobos-island-how-to-get-there
 - what-to-see-in-fuerteventura
@@ -76,18 +76,26 @@ keywords:
 - corralejo catamaran
 - lobos island snorkelling
 imagen: /images/actividades/fuerteventura/catamaran-lobos.webp
-imagenAlt: "Catamaran anchored off Lobos Island"
+imagenAlt: Catamaran anchored off Lobos Island
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-kitesurf.webp"
-  alt: "Lobos Island off the beach, with kitesurfers"
-- src: "/images/actividades/fuerteventura/zonas/montana-caldera-lobos.webp"
-  alt: "La Caldera hill on Lobos Island"
-- src: "/images/actividades/fuerteventura/zonas/faro-martino.webp"
-  alt: "Martiño lighthouse on Lobos Island"
-- src: "/images/actividades/fuerteventura/zonas/bahia-corralejo.webp"
-  alt: "Corralejo bay with Lobos in the background"
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-atardecer.webp"
-  alt: "Lobos Island at dusk"
+- src: /images/actividades/fuerteventura/lobos/playa-la-concha-lobos.webp
+  alt: La Concha beach on the Isle of Lobos with its turquoise lagoon
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-kitesurf.webp
+  alt: Lobos Island off the beach, with kitesurfers
+- src: /images/actividades/fuerteventura/lobos/esnorquel-fondo-rocoso.webp
+  alt: Snorkeller swimming over a rocky seabed
+- src: /images/actividades/fuerteventura/zonas/montana-caldera-lobos.webp
+  alt: La Caldera hill on Lobos Island
+- src: /images/actividades/fuerteventura/lobos/paddle-surf-agua-turquesa.webp
+  alt: Aerial view of a stand-up paddle boarder on turquoise water
+- src: /images/actividades/fuerteventura/zonas/faro-martino.webp
+  alt: Martiño lighthouse on Lobos Island
+- src: /images/actividades/fuerteventura/lobos/paella-vino-a-bordo.webp
+  alt: Paella and white wine served on a boat table
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: Corralejo bay with Lobos in the background
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-atardecer.webp
+  alt: Lobos Island at dusk
 ratingProveedor: 4.8
 numeroOpiniones: 1183
 atraccionesRelacionadas:
@@ -95,7 +103,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

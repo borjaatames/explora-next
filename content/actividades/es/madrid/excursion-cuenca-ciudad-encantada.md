@@ -2,8 +2,7 @@
 titulo: Cuenca y la Ciudad Encantada desde Madrid
 slug: excursion-cuenca-ciudad-encantada
 ciudad: madrid
-descripcion: Excursión de día completo a Cuenca y la Ciudad Encantada desde Madrid con guía local, entrada a la Ciudad Encantada
-  y parada en el Ventano del Diablo.
+descripcion: Excursión de día completo a Cuenca y la Ciudad Encantada desde Madrid con guía local, entrada a la Ciudad Encantada y parada en el Ventano del Diablo.
 slugs:
   es: excursion-cuenca-ciudad-encantada
   en: cuenca-enchanted-city-day-trip
@@ -32,9 +31,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: C. de Carlos y Guillermo Fernández Shaw, 1, 28007 Madrid
-  descripcionGuia: El guía y el autobús esperan en la esquina de la calle Carlos y Guillermo Fernández Shaw, junto a la puerta
-    del Hotel Claridge. Llega 15 minutos antes de la hora de salida para localizarlos sin agobios. La estación de Metro más
-    cercana es Conde de Casal.
+  descripcionGuia: El guía y el autobús esperan en la esquina de la calle Carlos y Guillermo Fernández Shaw, junto a la puerta del Hotel Claridge. Llega 15 minutos antes de la hora de salida para localizarlos sin agobios. La estación de Metro más cercana es Conde de Casal.
   latitud: 40.409
   longitud: -3.6745
   zoom: 17
@@ -55,39 +52,27 @@ informacionImportante:
   - Es una jornada larga, de unas 11 horas y media, con bastante autobús
   - El almuerzo no está incluido; hay una parada con tiempo libre para comer
   - El recorrido por la Ciudad Encantada es a pie, por sendas naturales
-accesibilidad: 'Excursión no recomendada para personas con movilidad reducida: la Ciudad Encantada se recorre a pie por senderos
-  naturales con terreno irregular, y el casco histórico de Cuenca tiene cuestas y empedrado.'
-politicaCancelacion: Cancela gratis hasta 24 horas antes de la salida y recibirás el reembolso completo. Después de ese plazo
-  no hay reembolso.
+accesibilidad: 'Excursión no recomendada para personas con movilidad reducida: la Ciudad Encantada se recorre a pie por senderos naturales con terreno irregular, y el casco histórico de Cuenca tiene cuestas y empedrado.'
+politicaCancelacion: Cancela gratis hasta 24 horas antes de la salida y recibirás el reembolso completo. Después de ese plazo no hay reembolso.
 preguntasFrecuentes:
 - pregunta: ¿Qué es la Ciudad Encantada?
-  respuesta: Es un paraje natural a las afueras de Cuenca donde la erosión ha modelado las rocas calizas en formas llamativas.
-    Se recorre a pie por un sendero señalizado de algo menos de dos horas, y la entrada está incluida en la excursión.
+  respuesta: Es un paraje natural a las afueras de Cuenca donde la erosión ha modelado las rocas calizas en formas llamativas. Se recorre a pie por un sendero señalizado de algo menos de dos horas, y la entrada está incluida en la excursión.
 - pregunta: ¿El guía habla español?
-  respuesta: Sí. La excursión se ofrece en español e inglés, con un guía local certificado que acompaña al grupo durante toda
-    la jornada.
+  respuesta: Sí. La excursión se ofrece en español e inglés, con un guía local certificado que acompaña al grupo durante toda la jornada.
 - pregunta: ¿Cuánto dura la excursión y cuánto es autobús?
-  respuesta: 'La jornada completa dura unas 11 horas y media. Buena parte es desplazamiento: cuenta unas dos horas largas
-    de ida y otras dos de vuelta, además de los trayectos entre el Ventano del Diablo, la Ciudad Encantada y Cuenca.'
+  respuesta: 'La jornada completa dura unas 11 horas y media. Buena parte es desplazamiento: cuenta unas dos horas largas de ida y otras dos de vuelta, además de los trayectos entre el Ventano del Diablo, la Ciudad Encantada y Cuenca.'
 - pregunta: ¿Está incluida la comida?
   respuesta: No. El almuerzo no está incluido. Hay una parada con tiempo libre, normalmente en Cuenca, para comer por tu cuenta.
 - pregunta: ¿Puedo cancelar si me surge un imprevisto?
-  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no
-    hay devolución.
+  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no hay devolución.
 variantes:
 - excursion-avila-segovia-con-entradas
 - excursion-avila-salamanca
 - excursion-avila-segovia-economica
-opinionEditorial: 'Es la opción acertada si te apetece una escapada distinta a las habituales de Madrid: en lugar de otra
-  ciudad monumental, combina el casco histórico de Cuenca —con sus Casas Colgadas asomadas a la hoz— con un paraje natural,
-  la Ciudad Encantada. Esa mezcla de patrimonio y naturaleza es lo que más se valora en las reseñas, y la nota media de 4,8
-  es de las más altas entre las excursiones desde Madrid.
+opinionEditorial: 'Es la opción acertada si te apetece una escapada distinta a las habituales de Madrid: en lugar de otra ciudad monumental, combina el casco histórico de Cuenca —con sus Casas Colgadas asomadas a la hoz— con un paraje natural, la Ciudad Encantada. Esa mezcla de patrimonio y naturaleza es lo que más se valora en las reseñas, y la nota media de 4,8 es de las más altas entre las excursiones desde Madrid.
 
 
-  Lo que conviene saber antes de reservar: es una jornada larga, de casi doce horas, y una parte importante es autobús, porque
-  Cuenca está más lejos que Ávila o Segovia. El propio público que la disfruta pide más tiempo libre para pasear Cuenca con
-  calma. Si te cansa pasar muchas horas en carretera o quieres una escapada más corta, no es tu mejor opción. Y si la movilidad
-  es un problema, descártala: la Ciudad Encantada se camina por senderos naturales irregulares.
+  Lo que conviene saber antes de reservar: es una jornada larga, de casi doce horas, y una parte importante es autobús, porque Cuenca está más lejos que Ávila o Segovia. El propio público que la disfruta pide más tiempo libre para pasear Cuenca con calma. Si te cansa pasar muchas horas en carretera o quieres una escapada más corta, no es tu mejor opción. Y si la movilidad es un problema, descártala: la Ciudad Encantada se camina por senderos naturales irregulares.
 
   '
 atraccionesRelacionadas:
@@ -99,28 +84,35 @@ keywords:
 - tour cuenca un dia
 - visitar cuenca desde madrid
 - excursion ciudad encantada
-imagen: "/images/actividades/cuenca/casas-colgadas/unsplash-QDbYlRHRICc-hero.webp"
-imagenAlt: "Casas Colgadas de Cuenca sobre la hoz del río Huécar"
+imagen: /images/actividades/cuenca/ciudad-encantada/ciudad-encantada-seta-visitantes.webp
+imagenAlt: Gran roca en forma de seta en la Ciudad Encantada de Cuenca, con visitantes a su pie
 galeria:
+- src: /images/actividades/cuenca/ventano-del-diablo/ventano-diablo-arco-hoz-jucar.webp
+  alt: La hoz del Júcar vista a través del arco de roca del Ventano del Diablo
+- src: /images/actividades/cuenca/casas-colgadas/unsplash-QDbYlRHRICc-hero.webp
+  alt: Casas Colgadas de Cuenca sobre la hoz del río Huécar
+- src: /images/actividades/cuenca/catedral/catedral-cuenca-plaza-mayor.webp
+  alt: Catedral de Cuenca y las casas de colores de la Plaza Mayor
 - src: /images/actividades/cuenca/casas-colgadas/pexels-34299030-hero.webp
-  alt: Plaza histórica de Cuenca con arquitectura colonial española y turistas explorando
+  alt: Iglesias y casas del casco antiguo de Cuenca sobre la hoz
 - src: /images/actividades/cuenca/puente-san-pablo/pexels-33292983-hero.webp
-  alt: Cuenca con arquitectura colonial, río y montañas al fondo
+  alt: Puente de San Pablo y el antiguo convento de San Pablo, en Cuenca
 - src: /images/actividades/cuenca/ciudad-encantada/pixabay-4645475-hero.webp
-  alt: Casco antiguo de Cuenca con arquitectura colonial y río Tomebamba
+  alt: Rocas calizas modeladas por la erosión en la Ciudad Encantada
 - src: /images/actividades/cuenca/ciudad-encantada/pixabay-4642730-hero.webp
-  alt: Puente colgante sobre río en Cuenca, Ecuador rodeado de vegetación verde
+  alt: Roca con forma de seta en la Ciudad Encantada
 - src: /images/actividades/cuenca/casas-colgadas/pexels-33292998-hero.webp
-  alt: Paisaje urbano de Cuenca con arquitectura colonial y rio entre montañas
+  alt: Casco antiguo de Cuenca en la ladera
 - src: /images/actividades/cuenca/ciudad-encantada/pexels-2992883-hero.webp
-  alt: Catedral de Cuenca con arquitectura colonial española reflejada en río
+  alt: Casas Colgadas de Cuenca en otoño
 - src: /images/actividades/cuenca/hoz-huecar/pexels-1627961-hero.webp
-  alt: Vista panorámica de Cuenca con arquitectura colonial y río serpenteante entre montañas verdes
+  alt: Hoz con el río entre paredes de roca en la serranía de Cuenca
 ratingProveedor: 4.8
 numeroOpiniones: 561
 publicada: true
 destacada: false
 fecha: '2026-05-14'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

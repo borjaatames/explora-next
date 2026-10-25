@@ -82,13 +82,13 @@ imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-bridge-
 imagenAlt: North façade of the Alcázar of Toledo
 galeria:
 - src: /images/actividades/madrid/catedral-toledo/catedral-toledo-foto-13837915-4-hero.webp
-  alt: "Gothic portal of Toledo Cathedral with its sculptures"
+  alt: Gothic portal of Toledo Cathedral with its sculptures
 - src: /images/actividades/madrid/catedral-toledo/catedral-toledo-santa-maria-int-03-hero.webp
   alt: Interior of Toledo Cathedral (Santa María)
 - src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-view-city-from-hill-2-hero.webp
-  alt: Panoramic view of Toledo from the hill
+  alt: Toledo with the Alcázar and the cathedral tower
 - src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-view-city-river-running-through-it-hero.webp
-  alt: View of Toledo with the river Tagus running through it
+  alt: Toledo encircled by the bend of the Tagus
 - src: /images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-6358359-hero.webp
   alt: Church of Santo Tomé, Toledo
 - src: /images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-6157703803-hero.webp
@@ -108,7 +108,7 @@ numeroOpiniones: 81
 publicada: true
 destacada: false
 fecha: '2026-05-06'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

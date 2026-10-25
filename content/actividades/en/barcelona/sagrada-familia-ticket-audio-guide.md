@@ -2,8 +2,7 @@
 titulo: Sagrada Familia Ticket with Audio Guide
 slug: sagrada-familia-ticket-audio-guide
 ciudad: barcelona
-descripcion: Access to Gaudí's basilica with an audio guide included in 16 languages, at your own pace. The simplest, most
-  affordable way to visit the Sagrada Familia.
+descripcion: Access to Gaudí's basilica with an audio guide included in 16 languages, at your own pace. The simplest, most affordable way to visit the Sagrada Familia.
 slugs:
   en: sagrada-familia-ticket-audio-guide
   es: entrada-sagrada-familia-audioguia
@@ -35,8 +34,7 @@ noIncluye:
 - Food and drink
 puntoEncuentro:
   texto: Main entrance of the Sagrada Familia, Carrer de la Marina, 08013 Barcelona
-  descripcionGuia: 'There is no guide meeting point: this is a self-guided visit. Go straight to the basilica entrance at
-    the exact time of your time slot. Entry is only allowed at the booked time or up to 15 minutes after.'
+  descripcionGuia: 'There is no guide meeting point: this is a self-guided visit. Go straight to the basilica entrance at the exact time of your time slot. Entry is only allowed at the booked time or up to 15 minutes after.'
   latitud: 41.4036
   longitud: 2.1744
   zoom: 17
@@ -53,47 +51,29 @@ informacionImportante:
   noAptoPara:
   - 'Groups of more than 9 people with individual tickets: from 10 on it counts as a group and they cannot enter together'
   aTenerEnCuenta:
-  - Entry is only allowed at the booked time or up to 15 minutes after; if you book the last slot of the day, time inside
-    is limited to 45 minutes
+  - Entry is only allowed at the booked time or up to 15 minutes after; if you book the last slot of the day, time inside is limited to 45 minutes
   - The audio guide is only available for visitors over 11 years old
   - Going up a tower is an optional paid extra selected at booking; it is not in the base price
   - 'Church dress code: no short trousers or skirts, no sleeveless tops, no food or drink, no hiking poles or glass objects'
-accesibilidad: The basilica is wheelchair accessible and entry is free for visitors with reduced mobility. Tower access is
-  NOT accessible.
-politicaCancelacion: 'Free cancellation with a full refund if you cancel 2 days (48 hours) in advance. Note: the window is
-  48 hours, not 24 as on other options.'
+accesibilidad: The basilica is wheelchair accessible and entry is free for visitors with reduced mobility. Tower access is NOT accessible.
+politicaCancelacion: 'Free cancellation with a full refund if you cancel 2 days (48 hours) in advance. Note: the window is 48 hours, not 24 as on other options.'
 preguntasFrecuentes:
 - pregunta: Is the audio guide included or an extra?
-  respuesta: It is included in the price (€34), not a separate charge. It works as an app you download on your own smartphone
-    — no physical device or headphones are handed out, so come with a charged phone and your own headphones. It is available
-    in 16 languages and only for visitors over 11.
+  respuesta: It is included in the price (€34), not a separate charge. It works as an app you download on your own smartphone — no physical device or headphones are handed out, so come with a charged phone and your own headphones. It is available in 16 languages and only for visitors over 11.
 - pregunta: Does this ticket include going up the towers?
-  respuesta: No. Going up a tower — Nativity or Passion — is an optional extra selected and paid for at booking; it is not
-    in the base price. If you want to go up, select it when booking or check the «with tower» options.
+  respuesta: No. Going up a tower — Nativity or Passion — is an optional extra selected and paid for at booking; it is not in the base price. If you want to go up, select it when booking or check the «with tower» options.
 - pregunta: How is this different from a guided tour?
-  respuesta: 'There is no in-person guide here: you enter at your own pace and the audio guide explains as you go. It is the
-    most affordable and flexible option. If you prefer an official guide telling you the symbolism live, check the guided
-    tours.'
+  respuesta: 'There is no in-person guide here: you enter at your own pace and the audio guide explains as you go. It is the most affordable and flexible option. If you prefer an official guide telling you the symbolism live, check the guided tours.'
 - pregunta: How far in advance should I book?
-  respuesta: 'As early as possible. The Sagrada Familia runs on limited-capacity time slots and is only sold online. In 2026,
-    with the Gaudí Year, demand is exceptional and slots sell out weeks ahead: book 4-8 weeks in advance, more if you go on
-    a long weekend or in summer.'
+  respuesta: 'As early as possible. The Sagrada Familia runs on limited-capacity time slots and is only sold online. In 2026, with the Gaudí Year, demand is exceptional and slots sell out weeks ahead: book 4-8 weeks in advance, more if you go on a long weekend or in summer.'
 - pregunta: Is it wheelchair accessible?
-  respuesta: 'The basilica is: it is accessible and entry is free for visitors with reduced mobility. What is not accessible
-    is going up the towers.'
+  respuesta: 'The basilica is: it is accessible and entry is free for visitors with reduced mobility. What is not accessible is going up the towers.'
 variantes: []
-avisoReserva: 'In high season, the Sagrada Familia sells out weeks in advance'
-opinionEditorial: 'This is the simplest, cheapest way into the Sagrada Familia: access to the basilica with an audio guide,
-  at your own pace, without depending on a group or a guide''s schedule. For €34 you get in to see what genuinely impresses
-  — the tree-like columns and the stained glass — which lands just as well without an in-person guide. Over 113,000 reviews
-  and a 4.6 back it up as a well-oiled product.
+avisoReserva: In high season, the Sagrada Familia sells out weeks in advance
+opinionEditorial: 'This is the simplest, cheapest way into the Sagrada Familia: access to the basilica with an audio guide, at your own pace, without depending on a group or a guide''s schedule. For €34 you get in to see what genuinely impresses — the tree-like columns and the stained glass — which lands just as well without an in-person guide. Over 113,000 reviews and a 4.6 back it up as a well-oiled product.
 
 
-  Now the real catch. The audio guide is an app on YOUR phone, with YOUR headphones: if you run out of battery, you run out
-  of narration. It does not include going up the towers — that is a separate paid extra — nor a human guide, so if you want
-  to understand the symbolism in depth, a guided tour delivers more. And the cancellation window is 48 hours, not 24 like
-  almost all the others: slightly less room to decide at the last minute. With that clear, it is the best value for money
-  for a first visit.
+  Now the real catch. The audio guide is an app on YOUR phone, with YOUR headphones: if you run out of battery, you run out of narration. It does not include going up the towers — that is a separate paid extra — nor a human guide, so if you want to understand the symbolism in depth, a guided tour delivers more. And the cancellation window is 48 hours, not 24 like almost all the others: slightly less room to decide at the last minute. With that clear, it is the best value for money for a first visit.
 
   '
 atraccionesRelacionadas:
@@ -107,21 +87,27 @@ keywords:
 - visit sagrada familia
 - sagrada familia entry
 imagen: /images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp
-imagenAlt: Barcelona cityscape with historic architecture and urban landmarks
+imagenAlt: The Sagrada Familia at sunset, seen from above
 ratingProveedor: 4.6
 numeroOpiniones: 113748
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
+- src: /images/actividades/barcelona/sagrada-familia/fachada-nacimiento-estanque.webp
+  alt: Nativity facade of the Sagrada Familia from the pond in Plaça de Gaudí
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp
   alt: Sagrada Familia's vibrant stained glass windows with intricate colored patterns and religious iconography
+- src: /images/actividades/barcelona/sagrada-familia/cripta-sagrada-familia.webp
+  alt: Crypt of the Sagrada Familia, where Gaudí is buried
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
   alt: Detail of the Glory facade of the Sagrada Familia with its pyramid-shaped windows
+- src: /images/actividades/barcelona/sagrada-familia/museo-taller-maquetas.webp
+  alt: Plaster model workshop in the Sagrada Familia museum
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
   alt: Interior nave of the Sagrada Familia looking toward the altar, with its tall columns
 - src: /images/actividades/barcelona/sagrada-familia/pexels-33602267-hero.webp
-  alt: Barcelona city skyline with buildings and urban landscape at dusk
+  alt: Towers of the Sagrada Familia against a blue sky
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946698-hero.webp
   alt: Detail of the interior columns and stained glass of the Sagrada Familia, with a medallion dedicated to the Virgin Mary
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
@@ -129,25 +115,12 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp
   alt: Detail of a sculpture on the Nativity facade of the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Barcelona cityscape with historic architecture and Mediterranean atmosphere
+  alt: Red and orange light from the stained glass inside the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Sagrada Familia basilica with intricate Gothic spires, Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
-  alt: Sagrada Familia basilica front facade with ornate Gothic spires in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-gXr8KVp1ick-hero.webp
-  alt: Barcelona cityscape with modern architecture and urban street view
-- src: /images/actividades/barcelona/sagrada-familia/wikimedia-21683585-hero.webp
-  alt: Barcelona's historic architecture and urban streetscape with Mediterranean charm
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-techo-nave-central-63-metros-alto-hero-hero.webp
-  alt: Sagrada Familia vaulted ceiling in Barcelona's central nave reaching 63 meters high
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-XtIsFomnwgE-hero.webp
-  alt: Barcelona cityscape with historic architecture and Mediterranean skyline at sunset
-- src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176352-hero.webp
-  alt: Crucifixion scene carved into the Passion Façade of the Sagrada Família.
-- src: /images/actividades/barcelona/sagrada-familia/pexels-3340899-hero.webp
-  alt: Interior ceiling of the Sagrada Familia with its characteristic illuminated golden star pattern
 guiasRelacionadas:
-  - "sagrada-familia-which-ticket-to-choose"
+- sagrada-familia-which-ticket-to-choose
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

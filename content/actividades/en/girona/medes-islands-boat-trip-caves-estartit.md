@@ -82,31 +82,39 @@ keywords:
 - l'estartit boat
 - roca foradada
 - glass bottom boat costa brava
-imagen: /images/actividades/girona/medes/illes-medes-islotes.webp
-imagenAlt: Islets of the Medes Islands off the coast of L'Estartit
+imagen: /images/actividades/girona/medes/medes-barco-amarillo-estartit.webp
+imagenAlt: Yellow excursion boat leaving L'Estartit with the Medes Islands behind
 galeria:
+- src: /images/actividades/girona/medes/medes-barco-banistas.webp
+  alt: Excursion boat anchored at the Medes Islands with swimmers by the rocks
+- src: /images/actividades/girona/medes/illes-medes-islotes.webp
+  alt: Islets of the Medes Islands off the coast of L'Estartit
+- src: /images/actividades/girona/medes/medes-mero-fondo-marino.webp
+  alt: Dusky grouper on the Tascó Petit reef, Medes Islands seabed
 - src: /images/actividades/girona/medes/medes-acantilado.webp
-  alt: "Limestone cliff of the Medes Islands by the sea"
+  alt: Limestone cliff of the Medes Islands by the sea
+- src: /images/actividades/girona/medes/medes-entrada-cueva-marina.webp
+  alt: Sea cave entrance in the cliffs of the Medes Islands
 - src: /images/actividades/girona/medes/medes-cueva.webp
-  alt: "Rock walls with sea cave openings in the Medes"
+  alt: Rock walls with sea cave openings in the Medes
 - src: /images/actividades/girona/medes/medes-rocas.webp
-  alt: "Rocks and vegetation on the Medes Islands coast"
+  alt: Rocks and vegetation on the Medes Islands coast
 - src: /images/actividades/girona/medes/illes-medes-mar.webp
-  alt: "The Medes Islands on the horizon seen from the coast"
+  alt: The Medes Islands on the horizon seen from the coast
 - src: /images/actividades/girona/medes/medes-wikimedia-spain-catalonia-illes-medes-medes-island-01.webp
-  alt: "Medes Islands off L'Estartit"
+  alt: Medes Islands off L'Estartit
 - src: /images/actividades/girona/medes/medes-wikimedia-costa-brava-aerial-view-of-l-estartit-il-02.webp
-  alt: "Aerial view of L'Estartit and the Medes Islands"
+  alt: Aerial view of L'Estartit and the Medes Islands
 - src: /images/actividades/girona/medes/medes-wikimedia-illes-medes-p1110241-jpg-05.webp
-  alt: "Islets of the Medes in the sea"
+  alt: Islets of the Medes in the sea
 - src: /images/actividades/girona/medes/medes-wikimedia-42-les-illes-medes-des-del-mirador-de-jo-06.webp
-  alt: "The Medes Islands from the Josep Pla viewpoint"
+  alt: The Medes Islands from the Josep Pla viewpoint
 ratingProveedor: 4.6
 numeroOpiniones: 634
 publicada: true
 destacada: false
 fecha: '2026-10-04'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

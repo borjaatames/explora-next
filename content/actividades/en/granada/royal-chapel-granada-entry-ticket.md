@@ -67,19 +67,27 @@ keywords:
 - royal chapel granada
 - catholic monarchs tomb
 - capilla real tickets
-imagen: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
-imagenAlt: Exterior of the Royal Chapel of Granada
+imagen: /images/actividades/granada/capilla-real/capilla-real-sepulcros-reyes-catolicos.webp
+imagenAlt: Marble tombs of the Catholic Monarchs in the Royal Chapel of Granada
 galeria:
-- src: "/images/actividades/granada/capilla-real/fachada-capilla-real-lonja.webp"
-  alt: "Fachada de la Capilla Real de Granada junto a la Lonja"
-- src: "/images/actividades/granada/capilla-real/decoracion-fachada-escudo.webp"
-  alt: "Escudo de los Reyes Catolicos en la fachada de la Capilla Real"
-- src: "/images/actividades/granada/capilla-real/galeria-lonja-balcones.webp"
-  alt: "Galeria de balcones de la Lonja de la Capilla Real de Granada"
-- src: "/images/actividades/granada/capilla-real/portada-gotica-pinaculos.webp"
-  alt: "Portada gotica con pinaculos de la Capilla Real de Granada"
-- src: "/images/actividades/granada/capilla-real/fachada-lateral-cresteria.webp"
-  alt: "Fachada lateral con cresteria gotica de la Capilla Real"
+- src: /images/actividades/granada/capilla-real/capilla-real-interior-sepulcros-reja.webp
+  alt: Interior of the Royal Chapel with the tombs and the gilded grille behind
+- src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
+  alt: Exterior of the Royal Chapel of Granada
+- src: /images/actividades/granada/capilla-real/capilla-real-reja-bartolome-jaen.webp
+  alt: Bartolomé de Jaén's grille beneath the Gothic vaults of the Royal Chapel
+- src: /images/actividades/granada/capilla-real/fachada-capilla-real-lonja.webp
+  alt: Fachada de la Capilla Real de Granada junto a la Lonja
+- src: /images/actividades/granada/capilla-real/capilla-real-retablo-mayor.webp
+  alt: Gilded main altarpiece of the Royal Chapel of Granada
+- src: /images/actividades/granada/capilla-real/decoracion-fachada-escudo.webp
+  alt: Escudo de los Reyes Catolicos en la fachada de la Capilla Real
+- src: /images/actividades/granada/capilla-real/galeria-lonja-balcones.webp
+  alt: Galeria de balcones de la Lonja de la Capilla Real de Granada
+- src: /images/actividades/granada/capilla-real/portada-gotica-pinaculos.webp
+  alt: Portada gotica con pinaculos de la Capilla Real de Granada
+- src: /images/actividades/granada/capilla-real/fachada-lateral-cresteria.webp
+  alt: Fachada lateral con cresteria gotica de la Capilla Real
 - src: /images/actividades/granada/catedral/granada-catedral-04.webp
   alt: The Cathedral, adjoining the Royal Chapel
 - src: /images/actividades/granada/catedral/granada-catedral-06.webp
@@ -91,7 +99,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

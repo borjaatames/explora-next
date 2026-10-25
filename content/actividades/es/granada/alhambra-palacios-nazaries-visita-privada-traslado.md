@@ -49,7 +49,7 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: false
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
-avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
+avisoReserva: Las entradas de la Alhambra se agotan con semanas de antelación
 opinionEditorial: 'Es la opción más cómoda para ver la Alhambra completa: te recogen en el alojamiento, las entradas a los Palacios Nazaríes ya están resueltas y el guía va a vuestro ritmo. Por persona sale bastante más cara que un grupo, pero con 3 o más personas la diferencia se reduce mucho. Reserva con tiempo, porque las entradas nazaríes se agotan.'
 preguntasFrecuentes:
 - pregunta: ¿La visita es privada?
@@ -79,7 +79,7 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
   alt: Patio de los Leones iluminado de noche
 - src: /images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp
-  alt: La Alhambra sobre Granada con las montañas al fondo
+  alt: Galería de columnas del Patio de los Leones
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
   alt: Jardines del Generalife con los chorros de agua sobre el estanque
 - src: https://imgcdn.bokun.tools/d9e5ad43-fa3e-4069-b941-dc3ade7cdba4.jpeg
@@ -103,7 +103,7 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-10-10'
-fecha_actualizacion: '2026-10-10'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

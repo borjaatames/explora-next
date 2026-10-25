@@ -79,11 +79,19 @@ keywords:
 - kayak gran canaria cuevas
 - esnorquel mogan
 - que hacer en mogan
-imagen: /images/actividades/gran-canaria/mogan/taurito-costa.webp
-imagenAlt: Costa de acantilados en Taurito, junto a Mogán
+imagen: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
+imagenAlt: Kayaks navegando junto a una costa rocosa, vistos desde el aire
 galeria:
-- src: "/images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp"
-  alt: "Costa rocosa de Mogan, Gran Canaria"
+- src: /images/actividades/gran-canaria/mogan-kayak/cueva-marina-mogan.webp
+  alt: Cueva marina en los acantilados volcánicos cerca de Puerto de Mogán
+- src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
+  alt: Costa de acantilados en Taurito, junto a Mogán
+- src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
+  alt: Acantilados volcánicos cerca de Puerto de Mogán vistos desde el mar
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: Costa rocosa de Mogan, Gran Canaria
+- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
+  alt: Salemas y sargos bajo el agua en la costa de Gran Canaria
 - src: /images/actividades/gran-canaria/mogan/mogan-playa.webp
   alt: Playa de Mogán y el puerto deportivo
 - src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp
@@ -103,7 +111,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

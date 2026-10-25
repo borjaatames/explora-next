@@ -2,8 +2,7 @@
 titulo: 'Sagrada Familia: tour guiado con subida a una torre'
 slug: sagrada-familia-tour-con-torre
 ciudad: barcelona
-descripcion: Tour guiado de la Sagrada Familia con entrada sin colas y subida opcional a una de las torres de la basílica
-  para ver Barcelona desde lo alto.
+descripcion: Tour guiado de la Sagrada Familia con entrada sin colas y subida opcional a una de las torres de la basílica para ver Barcelona desde lo alto.
 slugs:
   es: sagrada-familia-tour-con-torre
   en: sagrada-familia-tour-with-tower-access
@@ -35,8 +34,7 @@ noIncluye:
 - La subida a la torre, si reservas la opción sin torre
 puntoEncuentro:
   texto: Carrer de Nàpols, 218, 08013 Barcelona
-  descripcionGuia: 'Reúnete con tu guía en Carrer de Nàpols, 218, junto a la basílica. Busca el logo de Amigo Tours. Llega
-    con margen: hay colas para acceder a la Sagrada Familia por los controles de seguridad.'
+  descripcionGuia: 'Reúnete con tu guía en Carrer de Nàpols, 218, junto a la basílica. Busca el logo de Amigo Tours. Llega con margen: hay colas para acceder a la Sagrada Familia por los controles de seguridad.'
   latitud: 41.4043
   longitud: 2.1731
   zoom: 17
@@ -53,44 +51,33 @@ informacionImportante:
   - Menores de 6 años para la subida a la torre, aunque vayan acompañados de un adulto
   aTenerEnCuenta:
   - La subida a la torre es una opción que se elige y se paga al reservar; comprueba que tu reserva la incluye
-  - A la torre se sube en ascensor pero se baja por una escalera; solo se accede a una torre, y el monumento decide cuál según
-    el día y las obras
+  - A la torre se sube en ascensor pero se baja por una escalera; solo se accede a una torre, y el monumento decide cuál según el día y las obras
   - La torre puede cerrar por mal tiempo (lluvia o viento)
   - La parte guiada dura unos 90 minutos; la subida a la torre se hace después por tu cuenta y lleva unos 30 minutos
   - No se reparten auriculares a menores de 11 años
-accesibilidad: 'El operador indica que el recorrido NO está recomendado para personas con movilidad reducida o en silla de
-  ruedas. La subida a la torre, además, no es accesible: se baja por una escalera.'
+accesibilidad: 'El operador indica que el recorrido NO está recomendado para personas con movilidad reducida o en silla de ruedas. La subida a la torre, además, no es accesible: se baja por una escalera.'
 politicaCancelacion: Cancelación gratuita con reembolso íntegro si cancelas con 24 horas de antelación.
 preguntasFrecuentes:
 - pregunta: ¿La subida a la torre va incluida en el precio?
-  respuesta: Es una opción que eliges y pagas al reservar. Hay una versión con torre y otra sin torre; asegúrate de seleccionar
-    la que incluye la subida si es lo que buscas. El precio desde 75 € corresponde a la opción con torre.
+  respuesta: Es una opción que eliges y pagas al reservar. Hay una versión con torre y otra sin torre; asegúrate de seleccionar la que incluye la subida si es lo que buscas. El precio desde 75 € corresponde a la opción con torre.
 - pregunta: ¿A qué torre se sube y cómo es?
-  respuesta: Solo se accede a una torre, y el monumento decide cuál se abre según el día y las obras (Nacimiento o Pasión).
-    Se sube en ascensor pero se baja por una escalera estrecha. Puede cerrarse por mal tiempo —lluvia o viento—.
+  respuesta: Solo se accede a una torre, y el monumento decide cuál se abre según el día y las obras (Nacimiento o Pasión). Se sube en ascensor pero se baja por una escalera estrecha. Puede cerrarse por mal tiempo —lluvia o viento—.
 - pregunta: ¿Pueden subir los niños?
-  respuesta: A la torre no pueden subir los menores de 6 años, aunque vayan con un adulto. Al resto del recorrido sí pueden
-    acceder. Ten en cuenta que no se reparten auriculares a menores de 11 años.
+  respuesta: A la torre no pueden subir los menores de 6 años, aunque vayan con un adulto. Al resto del recorrido sí pueden acceder. Ten en cuenta que no se reparten auriculares a menores de 11 años.
 - pregunta: ¿Es accesible para sillas de ruedas?
-  respuesta: No. El operador no recomienda el recorrido para personas con movilidad reducida, y la torre, por la escalera
-    de bajada, no es accesible en ningún caso.
+  respuesta: No. El operador no recomienda el recorrido para personas con movilidad reducida, y la torre, por la escalera de bajada, no es accesible en ningún caso.
 - pregunta: ¿Cuánto dura en total?
-  respuesta: La parte guiada dura unos 90 minutos e incluye el interior, la cripta y el Museo Gaudí. Después subes a la torre
-    por tu cuenta, lo que añade unos 30 minutos.
+  respuesta: La parte guiada dura unos 90 minutos e incluye el interior, la cripta y el Museo Gaudí. Después subes a la torre por tu cuenta, lo que añade unos 30 minutos.
 variantes:
 - sagrada-familia-visita-guiada-sin-colas
 - sagrada-familia-visita-guiada-grupo-reducido
 - sagrada-familia-tour-guiado-tiempo-libre
 - entrada-sagrada-familia-audioguia
-avisoReserva: 'En temporada alta, la Sagrada Familia se agota con semanas de antelación'
-opinionEditorial: 'Es la experiencia que te sube a una de las torres de la basílica, y ese es justo su atractivo: contemplar
-  Barcelona desde lo alto del templo de Gaudí. El recorrido guiado está muy bien resuelto —incluye la cripta y el Museo Gaudí,
-  con auriculares y narración en directo— y la subida a la torre la haces después, por tu cuenta, en unos 30 minutos.
+avisoReserva: En temporada alta, la Sagrada Familia se agota con semanas de antelación
+opinionEditorial: 'Es la experiencia que te sube a una de las torres de la basílica, y ese es justo su atractivo: contemplar Barcelona desde lo alto del templo de Gaudí. El recorrido guiado está muy bien resuelto —incluye la cripta y el Museo Gaudí, con auriculares y narración en directo— y la subida a la torre la haces después, por tu cuenta, en unos 30 minutos.
 
 
-  Para que vayas con todo claro: a la torre se sube en ascensor y se baja por una escalera estrecha, solo se accede a una
-  torre —decide el monumento cuál— y puede cerrarse con lluvia o viento. No es accesible y los menores de 6 años no pueden
-  subir. Si lo que buscas son las vistas desde la Sagrada Familia, esta es la experiencia que las ofrece.
+  Para que vayas con todo claro: a la torre se sube en ascensor y se baja por una escalera estrecha, solo se accede a una torre —decide el monumento cuál— y puede cerrarse con lluvia o viento. No es accesible y los menores de 6 años no pueden subir. Si lo que buscas son las vistas desde la Sagrada Familia, esta es la experiencia que las ofrece.
 
   '
 atraccionesRelacionadas:
@@ -110,43 +97,33 @@ publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
+- src: /images/actividades/barcelona/sagrada-familia/vista-desde-torre-nacimiento.webp
+  alt: Vista de Barcelona y la plaza de Gaudí desde una abertura de las torres del Nacimiento
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras
-    urbano'
+  alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras urbano'
+- src: /images/actividades/barcelona/sagrada-familia/vista-desde-torre-agbar.webp
+  alt: Barcelona y la Torre Glòries vistas desde una torre de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Fachada de la Sagrada Familia con torres góticas y ornamentación modernista en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/pinaculos-torre-vistas.webp
+  alt: Pináculos con frutos de colores y la ciudad a los pies, vistos desde lo alto de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9029528-hero-hero.webp
   alt: Fachada de la Sagrada Familia con torres góticas y detalles arquitectónicos ornamentales en Barcelona.
+- src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176367-hero.webp
+  alt: Escalera de caracol en el interior de una torre de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp
   alt: Vitrales coloridos de la Sagrada Familia en Barcelona con luz vibrante atravesando el vidrio
+- src: /images/actividades/barcelona/sagrada-familia/cripta-sagrada-familia.webp
+  alt: Cripta de la Sagrada Familia, donde está enterrado Gaudí
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
   alt: Plaza mayor de Barcelona con edificios históricos y turistas
+- src: /images/actividades/barcelona/sagrada-familia/museo-taller-maquetas.webp
+  alt: Taller de maquetas de yeso en el museo de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
   alt: Vidrieras interiores de la Sagrada Familia con los nombres de santos grabados
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-hero-hero.webp
-  alt: Fachada de la Basílica de la Sagrada Familia en Barcelona con torres góticas y ornamentación detallada
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
-  alt: Bóveda gótica iluminada en el interior de la Sagrada Familia
-- src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: Torres de la Sagrada Familia con esculturas y andamiaje de construccion
-- src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
-  alt: Nave interior de la Sagrada Familia vista hacia el altar, con sus altas columnas
-- src: /images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp
-  alt: Vista aérea de la Sagrada Família y el perfil de Barcelona al atardecer.
-- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Vistas panorámicas de Barcelona con arquitectura moderna y mar Mediterráneo al fondo
-- src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
-  alt: Remates de mosaico veneciano en lo alto de las torres de la Sagrada Familia
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
-  alt: Techo bellamente iluminado de la Sagrada Familia en Barcelona con detalles arquitectónicos ornamentales
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-foto-9033308-hero-hero.webp
-  alt: Basílica de la Sagrada Familia con torres modernistas iluminadas al atardecer en Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-bNW-YvtON_Q-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios modernistas y la Sagrada Familia al fondo
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: "Fachada de la Sagrada Familia con torres góticas y elementos arquitectónicos de Gaudí en Barcelona"
 guiasRelacionadas:
-  - "sagrada-familia-que-entrada-elegir"
+- sagrada-familia-que-entrada-elegir
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

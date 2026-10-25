@@ -2,8 +2,7 @@
 titulo: Best of Barcelona Private Tour, including the Sagrada Família
 slug: best-of-barcelona-private-tour-sagrada-familia
 ciudad: barcelona
-descripcion: 'Full-day private tour of the best of Barcelona: Montjuïc, the Gothic Quarter, Passeig de Gràcia and the Sagrada
-  Família with a guided visit inside, with your own guide. Price per group.'
+descripcion: 'Full-day private tour of the best of Barcelona: Montjuïc, the Gothic Quarter, Passeig de Gràcia and the Sagrada Família with a guided visit inside, with your own guide. Price per group.'
 slugs:
   es: tour-privado-lo-mejor-de-barcelona-sagrada-familia
   en: best-of-barcelona-private-tour-sagrada-familia
@@ -39,9 +38,7 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
-opinionEditorial: 'It''s the perfect plan if you only have one day: Barcelona''s essentials —Gaudí, Montjuïc and the old town—
-  private, skip-the-line and with no logistics to worry about. The more of you there are, the better the value of the per-group
-  price.'
+opinionEditorial: 'It''s the perfect plan if you only have one day: Barcelona''s essentials —Gaudí, Montjuïc and the old town— private, skip-the-line and with no logistics to worry about. The more of you there are, the better the value of the per-group price.'
 atraccionesRelacionadas:
 - sagrada-familia
 categoria: experienciasPrivadas
@@ -55,33 +52,33 @@ galeria:
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero-hero.webp
   alt: Barcelona Cathedral with Gothic architecture and twin spires against blue sky
 - src: /images/actividades/barcelona/montjuic/pexels-6437868-hero.webp
-  alt: Barcelona street with historic architecture and urban landscape
+  alt: Plaça d'Espanya with the Palau Nacional (MNAC) on Montjuïc
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622770903-hero-hero.webp
   alt: Sagrada Familia basilica with soaring spires and Gothic architecture in Barcelona
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-moody-atmosphere-narrow-hero-hero.webp
-  alt: Gothic Quarter Barcelona narrow streets with moody atmospheric lighting and historic architecture
+  alt: Alley beneath an arch in Barcelona's Gothic Quarter
 - src: /images/actividades/barcelona/montjuic/pexels-7796698-hero.webp
-  alt: Scenic Barcelona cityscape with buildings and Mediterranean architecture
+  alt: Barcelona seen from the steps of the Palau Nacional (MNAC)
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946698-hero.webp
   alt: Detail of the interior columns and stained glass of the Sagrada Familia, with a medallion dedicated to the Virgin Mary
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
   alt: Towering columns of Sagrada Familia cathedral interior, Barcelona
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
-  alt: Narrow cobblestone street lined with medieval buildings in Barcelona's Gothic Quarter
+  alt: Narrow street with balconies in Barcelona's old town
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-j4eJ3gXlVQ0-hero.webp
-  alt: Barcelona cityscape with historic architecture and Mediterranean views
+  alt: Sagrada Familia towers under construction above the Eixample
 - src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
-  alt: Barcelona street scene with historic architecture and urban landscape
+  alt: Plaça d'Espanya and the Venetian towers, with the Palau Nacional (MNAC) behind
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176367-hero.webp
-  alt: Barcelona skyline with Sagrada Familia basilica and urban architecture
+  alt: Inside a Sagrada Familia tower with the spiral staircase
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-hero-hero.webp
   alt: Gothic Quarter Barcelona Cathedral with historic stone architecture and narrow medieval streets
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-22'
+fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
-  - "sagrada-familia-which-ticket-to-choose"
+- sagrada-familia-which-ticket-to-choose
 ---
 
 ## What you'll see

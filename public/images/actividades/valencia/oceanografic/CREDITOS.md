@@ -10,3 +10,7 @@
 
 Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
 - `oceanografic-valencia-hero.webp` — Pixabay, ELG21 (Licencia Pixabay) — https://pixabay.com/photos/oceanarium-valencia-building-7553126/ (misma foto que /images/actividades/valencia/ciudad-artes-ciencias/oceanarium-edificio-blanco-valencia.webp)
+- `oceanografic-beluga.webp` — MiguelAlanCS · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Animales_L%27Oceanogr%C3%A0fic_04.jpg
+- `oceanografic-leon-marino.webp` — MiguelAlanCS · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Animales_L%27Oceanogr%C3%A0fic_02.jpg
+- `oceanografic-tiburon.webp` — Alberto-g-rovi · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Animales_del_oceanografico-valencia-2009_%2822%29.JPG
+- `oceanografic-tunel-tiburones.webp` — Marek Ślusarczyk (Tupungato) · CC BY 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:23_Underwater_tunnel_in_Valencia_Aquarium_-_Valencia_Oceanarium_%28L%27Oceanografic%29%2C_Spain.jpg

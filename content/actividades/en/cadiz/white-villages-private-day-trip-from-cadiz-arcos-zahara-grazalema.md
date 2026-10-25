@@ -80,22 +80,28 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/0b1aa780-ca86-4f83-b3da-baa847ce31a7.jpg
-  alt: Travellers at a viewpoint above a white mountain village
+- src: /images/actividades/cadiz/pueblos/arcos-frontera-pena-rio.webp
+  alt: Arcos de la Frontera on its crag, with the Guadalete river below
+- src: /images/actividades/cadiz/pueblos/arcos-frontera-acantilado.webp
+  alt: White houses of Arcos de la Frontera on the edge of the cliff
 - src: /images/actividades/cadiz/pueblos/zahara-embalse.webp
   alt: Zahara de la Sierra and the reservoir
-- src: https://imgcdn.bokun.tools/35aec258-f186-423f-8f17-2e616230ae4a.jpg
-  alt: White village with its church on the mountainside
+- src: /images/actividades/cadiz/pueblos/arcos-frontera-santa-maria-balcon.webp
+  alt: Tower of the Basilica of Santa María in Arcos above the crag, seen from the Peña Nueva viewpoint
 - src: /images/actividades/cadiz/pueblos/grazalema-calle.webp
   alt: Whitewashed street in Grazalema
-- src: https://imgcdn.bokun.tools/be207618-3358-458c-aa45-d5c8b276195c.jpg
-  alt: Travellers taking in the mountain landscape
 - src: /images/actividades/cadiz/pueblos/grazalema-panoramica.webp
   alt: Panoramic view of Grazalema in the mountains
+- src: https://imgcdn.bokun.tools/0b1aa780-ca86-4f83-b3da-baa847ce31a7.jpg
+  alt: Travellers at a viewpoint above a white mountain village
+- src: https://imgcdn.bokun.tools/35aec258-f186-423f-8f17-2e616230ae4a.jpg
+  alt: White village with its church on the mountainside
+- src: https://imgcdn.bokun.tools/be207618-3358-458c-aa45-d5c8b276195c.jpg
+  alt: Travellers taking in the mountain landscape
 - src: https://imgcdn.bokun.tools/e1a2de5a-a926-4fd5-9d22-c62939dd946c.jpg
   alt: White street with window grilles in a mountain village
 bokunProductId: 1028252
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## How the day works

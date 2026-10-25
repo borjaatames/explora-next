@@ -1,125 +1,118 @@
 ---
-titulo: "Montserrat con teleférico y caminata fácil en grupo pequeño"
-slug: "montserrat-teleferico-y-caminata-grupo-pequeno"
-ciudad: "barcelona"
-descripcion: "Tour de 6 horas con guía cualificado de montaña: monasterio, claustro, teleférico a la cima y caminata fácil por el Parque Nacional. Grupo reducido en furgoneta."
-
+titulo: Montserrat con teleférico y caminata fácil en grupo pequeño
+slug: montserrat-teleferico-y-caminata-grupo-pequeno
+ciudad: barcelona
+descripcion: 'Tour de 6 horas con guía cualificado de montaña: monasterio, claustro, teleférico a la cima y caminata fácil por el Parque Nacional. Grupo reducido en furgoneta.'
 slugs:
-  es: "montserrat-teleferico-y-caminata-grupo-pequeno"
-  en: "montserrat-cable-car-and-easy-hike-small-group"
-
-duracion: "6 horas"
+  es: montserrat-teleferico-y-caminata-grupo-pequeno
+  en: montserrat-cable-car-and-easy-hike-small-group
+duracion: 6 horas
 duracionMinutos: 360
 precioDesde: 74
-moneda: "EUR"
-idiomas: ["es", "en", "ca"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/barcelona-l45/montserrat-easy-hike-and-monastery-day-trip-t57039/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+- ca
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/barcelona-l45/montserrat-easy-hike-and-monastery-day-trip-t57039/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Grupo reducido en furgoneta (máximo 8 personas por guía) — atención mucho más personal"
-  - "Guía cualificado y certificado por el gobierno como guía de montaña"
-  - "Teleférico de subida a la cima del Parque Nacional de Montserrat (incluido)"
-  - "Caminata fácil por los senderos del parque con explicación de flora, fauna y geología"
-  - "4,9 ★ con más de 1.000 reseñas verificadas — uno de los mejores ratings del comparador"
-
+- Grupo reducido en furgoneta (máximo 8 personas por guía) — atención mucho más personal
+- Guía cualificado y certificado por el gobierno como guía de montaña
+- Teleférico de subida a la cima del Parque Nacional de Montserrat (incluido)
+- Caminata fácil por los senderos del parque con explicación de flora, fauna y geología
+- 4,9 ★ con más de 1.000 reseñas verificadas — uno de los mejores ratings del comparador
 incluye:
-  - "Tour en grupo reducido (máximo 8 personas)"
-  - "Guía cualificado y certificado por el gobierno"
-  - "Paseo en teleférico"
-  - "Transporte en furgoneta con aire acondicionado"
-  - "Seguro de accidentes y de responsabilidad civil"
-  - "Tasas de aparcamiento"
-
+- Tour en grupo reducido (máximo 8 personas)
+- Guía cualificado y certificado por el gobierno
+- Paseo en teleférico
+- Transporte en furgoneta con aire acondicionado
+- Seguro de accidentes y de responsabilidad civil
+- Tasas de aparcamiento
 noIncluye:
-  - "Comida y bebida"
-  - "Servicio de recogida en hotel"
-
+- Comida y bebida
+- Servicio de recogida en hotel
 puntoEncuentro:
-  texto: "Pg. de Gràcia, 69, 08008 Barcelona"
-  descripcionGuia: "Punto de encuentro a las 8:00 AM en Paseo de Gracia, 69. Es una zona céntrica fácilmente accesible en metro (Passeig de Gràcia, líneas L2, L3, L4) y muy cerca de los principales hoteles del Eixample."
+  texto: Pg. de Gràcia, 69, 08008 Barcelona
+  descripcionGuia: Punto de encuentro a las 8:00 AM en Paseo de Gracia, 69. Es una zona céntrica fácilmente accesible en metro (Passeig de Gràcia, líneas L2, L3, L4) y muy cerca de los principales hoteles del Eixample.
   latitud: 41.3923
   longitud: 2.1668
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 5
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo cerrado (la caminata es fácil pero hay senderos)"
-    - "Ropa abrigada o por capas"
-    - "Algo de picar para comer durante la caminata"
-    - "Agua"
+  - Calzado cómodo cerrado (la caminata es fácil pero hay senderos)
+  - Ropa abrigada o por capas
+  - Algo de picar para comer durante la caminata
+  - Agua
   noAptoPara:
-    - "Menores de 5 años"
-    - "Personas con problemas de movilidad"
+  - Menores de 5 años
+  - Personas con problemas de movilidad
   aTenerEnCuenta:
-    - "La excursión usa dos furgonetas con capacidad máxima de 8 personas cada una; cada furgoneta tiene su propio conductor-guía"
-    - "Lleva algo de picar — no hay paradas para comer formales"
-    - "Los grupos pueden ser de hasta 12 participantes si se llenan las dos furgonetas"
-
-accesibilidad: "No recomendado para personas con movilidad reducida. La caminata es fácil pero el terreno es montañoso."
-
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso completo."
-
+  - La excursión usa dos furgonetas con capacidad máxima de 8 personas cada una; cada furgoneta tiene su propio conductor-guía
+  - Lleva algo de picar — no hay paradas para comer formales
+  - Los grupos pueden ser de hasta 12 participantes si se llenan las dos furgonetas
+accesibilidad: No recomendado para personas con movilidad reducida. La caminata es fácil pero el terreno es montañoso.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
 preguntasFrecuentes:
-  - pregunta: "¿Cómo de fácil es la caminata?"
-    respuesta: "Fácil dentro del Parque Nacional, en torno a 50 minutos. No requiere experiencia montañera ni equipamiento técnico. Sí necesitas zapatillas cómodas cerradas y estar dispuesto a andar por senderos naturales (no asfalto). La idea es disfrutar del paisaje, no rendimiento."
-  - pregunta: "¿De verdad somos solo 8 personas?"
-    respuesta: "Cada furgoneta lleva máximo 8 viajeros con su propio guía-conductor. Si se llenan las dos furgonetas, sois un grupo total de 16, pero divididos en dos subgrupos de 8 durante la visita guiada. El ratio es mucho mejor que los autobuses de 20-50 personas."
-  - pregunta: "¿En qué idiomas habla el guía?"
-    respuesta: "Español, catalán o inglés. Se selecciona al reservar. Los guías son guías de montaña titulados, no solo profesionales del turismo: te explicarán flora, fauna y geología además de la parte cultural."
-  - pregunta: "¿Está incluida la entrada a la basílica?"
-    respuesta: "El tour cubre el monasterio benedictino y el claustro del siglo XV. La entrada a la basílica como espacio interior se incluye sin coste extra. La Moreneta (Sala del Trono) NO está incluida."
-  - pregunta: "¿Y si tengo miedo a las alturas en el teleférico?"
-    respuesta: "El teleférico de Aeri de Montserrat es un teleférico tradicional con cabinas grandes y trayecto corto (5 minutos). Si tienes vértigo severo, comenta con el guía antes de subir; las vistas merecen la pena pero la decisión es tuya."
-
+- pregunta: ¿Cómo de fácil es la caminata?
+  respuesta: Fácil dentro del Parque Nacional, en torno a 50 minutos. No requiere experiencia montañera ni equipamiento técnico. Sí necesitas zapatillas cómodas cerradas y estar dispuesto a andar por senderos naturales (no asfalto). La idea es disfrutar del paisaje, no rendimiento.
+- pregunta: ¿De verdad somos solo 8 personas?
+  respuesta: Cada furgoneta lleva máximo 8 viajeros con su propio guía-conductor. Si se llenan las dos furgonetas, sois un grupo total de 16, pero divididos en dos subgrupos de 8 durante la visita guiada. El ratio es mucho mejor que los autobuses de 20-50 personas.
+- pregunta: ¿En qué idiomas habla el guía?
+  respuesta: 'Español, catalán o inglés. Se selecciona al reservar. Los guías son guías de montaña titulados, no solo profesionales del turismo: te explicarán flora, fauna y geología además de la parte cultural.'
+- pregunta: ¿Está incluida la entrada a la basílica?
+  respuesta: El tour cubre el monasterio benedictino y el claustro del siglo XV. La entrada a la basílica como espacio interior se incluye sin coste extra. La Moreneta (Sala del Trono) NO está incluida.
+- pregunta: ¿Y si tengo miedo a las alturas en el teleférico?
+  respuesta: El teleférico de Aeri de Montserrat es un teleférico tradicional con cabinas grandes y trayecto corto (5 minutos). Si tienes vértigo severo, comenta con el guía antes de subir; las vistas merecen la pena pero la decisión es tuya.
 variantes:
-  - "montserrat-funicular-caminata-panoramica"
-  - "montserrat-tour-privado-recogida-hotel"
+- montserrat-funicular-caminata-panoramica
+- montserrat-tour-privado-recogida-hotel
+opinionEditorial: 'Si tu prioridad es la naturaleza de Montserrat (no solo el monasterio), esta es la mejor opción del comparador en relación calidad-precio. 4,9 estrellas no son casualidad: el formato de furgoneta de 8 personas con guía de montaña titulado es muy distinto del autobús de 50 personas, y se nota en cómo se vive el día.
 
-opinionEditorial: |
-  Si tu prioridad es la naturaleza de Montserrat (no solo el monasterio), esta es la mejor opción del comparador en relación calidad-precio. 4,9 estrellas no son casualidad: el formato de furgoneta de 8 personas con guía de montaña titulado es muy distinto del autobús de 50 personas, y se nota en cómo se vive el día.
 
   Lo que pagas: 74 €, casi el doble que la opción más barata del comparador (41 €). A cambio te llevas grupo reducido, guía titulado de verdad (no solo guía turístico), teleférico incluido, caminata real por el parque nacional y un seguro de actividad. Si vas a Montserrat por su paisaje y no por el aspecto religioso, es la elección correcta. Si vas por la Moreneta, esta no es la variante.
 
-categoria: "excursionesDia"
-keywords: ["montserrat caminata", "montserrat senderismo", "montserrat grupo reducido", "montserrat teleferico", "parque nacional montserrat"]
-
-imagen: "/images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero.webp"
-imagenAlt: "Teleférico ascendiendo a la cima del macizo de Montserrat"
-
+  '
+categoria: excursionesDia
+keywords:
+- montserrat caminata
+- montserrat senderismo
+- montserrat grupo reducido
+- montserrat teleferico
+- parque nacional montserrat
+imagen: /images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero.webp
+imagenAlt: Teleférico ascendiendo a la cima del macizo de Montserrat
 galeria:
-  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
-    alt: "Formaciones rocosas de Montserrat con el monasterio al fondo"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
-    alt: "Monasterio de Montserrat entre las montañas"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp"
-    alt: "Vista aérea del entorno natural de Montserrat"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp"
-    alt: "Monasterio de Montserrat visto desde la ladera"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero.webp"
-    alt: "Edificios del monasterio de Montserrat"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-14-hero.webp"
-    alt: "Exterior del monasterio de Montserrat con visitantes paseando"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-15-hero.webp"
-    alt: "Edificio del monasterio de Montserrat entre jardines"
-
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Estatua del abad Oliba entre la vegetación de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp
+  alt: Monasterio de Montserrat entre las montañas
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-3282-22791683967-hero.webp
+  alt: Vista aérea del entorno natural de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
+  alt: Monasterio de Montserrat visto desde la ladera
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero.webp
+  alt: Edificios del monasterio de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-spain-14-hero.webp
+  alt: Exterior del monasterio de Montserrat con visitantes paseando
+- src: /images/actividades/barcelona/montserrat/montserrat-spain-15-hero.webp
+  alt: Edificio del monasterio de Montserrat entre jardines
 ratingProveedor: 4.9
 numeroOpiniones: 1146
-
 publicada: false
 destacada: false
-fecha: "2026-05-15"
+fecha: '2026-05-15'
 atraccionesRelacionadas:
-  - "montserrat"
+- montserrat
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

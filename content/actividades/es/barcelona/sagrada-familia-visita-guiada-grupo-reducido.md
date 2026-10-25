@@ -2,8 +2,7 @@
 titulo: 'Sagrada Familia: visita guiada en grupo reducido'
 slug: sagrada-familia-visita-guiada-grupo-reducido
 ciudad: barcelona
-descripcion: Visita guiada a la Sagrada Familia en grupo reducido, con guía oficial, entrada sin colas y acceso accesible
-  en silla de ruedas. Operador con 3.700 reseñas.
+descripcion: Visita guiada a la Sagrada Familia en grupo reducido, con guía oficial, entrada sin colas y acceso accesible en silla de ruedas. Operador con 3.700 reseñas.
 slugs:
   es: sagrada-familia-visita-guiada-grupo-reducido
   en: sagrada-familia-small-group-tour
@@ -55,40 +54,29 @@ informacionImportante:
   - No se puede entrar en la basílica con la cabeza cubierta, con pantalones cortos ni con los hombros descubiertos
   - Hay un acceso especial para sillas de ruedas
   - 'Llega 15 minutos antes: el punto de encuentro es una zona concurrida'
-accesibilidad: 'Accesible para personas en silla de ruedas: el monumento dispone de un acceso especial. Es la opción accesible
-  recomendada entre las visitas guiadas.'
+accesibilidad: 'Accesible para personas en silla de ruedas: el monumento dispone de un acceso especial. Es la opción accesible recomendada entre las visitas guiadas.'
 politicaCancelacion: Cancelación gratuita con reembolso íntegro si cancelas con 24 horas de antelación.
 preguntasFrecuentes:
 - pregunta: ¿Qué gano con el grupo reducido?
-  respuesta: 'Una experiencia más personalizada: menos gente alrededor del guía, más facilidad para oír, preguntar y hacer
-    fotos sin aglomeración. El contenido del recorrido es el mismo que en una visita guiada estándar; lo que cambia es el
-    tamaño del grupo.'
+  respuesta: 'Una experiencia más personalizada: menos gente alrededor del guía, más facilidad para oír, preguntar y hacer fotos sin aglomeración. El contenido del recorrido es el mismo que en una visita guiada estándar; lo que cambia es el tamaño del grupo.'
 - pregunta: ¿Es accesible para sillas de ruedas?
-  respuesta: Sí. El operador indica que la visita es accesible y que el monumento tiene un acceso especial para sillas de
-    ruedas. Es la opción accesible que recomendamos entre las guiadas.
+  respuesta: Sí. El operador indica que la visita es accesible y que el monumento tiene un acceso especial para sillas de ruedas. Es la opción accesible que recomendamos entre las guiadas.
 - pregunta: ¿Incluye subir a las torres?
   respuesta: No. La subida a una torre no entra en esta visita. Si quieres subir, revisa el tour con acceso a la torre.
 - pregunta: ¿En qué idiomas es la visita?
-  respuesta: El guía oficial trabaja en varios idiomas, entre ellos español e inglés. Eliges el idioma al reservar; comprueba
-    la disponibilidad en tu fecha.
+  respuesta: El guía oficial trabaja en varios idiomas, entre ellos español e inglés. Eliges el idioma al reservar; comprueba la disponibilidad en tu fecha.
 - pregunta: ¿Cuánto dura y qué se ve?
-  respuesta: Alrededor de 1 hora y 45 minutos. El recorrido cubre la fachada del Nacimiento, el interior de la basílica, la fachada de la
-    Pasión y la escuela de la Sagrada Familia.
+  respuesta: Alrededor de 1 hora y 45 minutos. El recorrido cubre la fachada del Nacimiento, el interior de la basílica, la fachada de la Pasión y la escuela de la Sagrada Familia.
 variantes:
 - sagrada-familia-visita-guiada-sin-colas
 - sagrada-familia-tour-guiado-tiempo-libre
 - sagrada-familia-tour-privado
 - sagrada-familia-tour-guiado-clasico
-avisoReserva: 'En temporada alta, la Sagrada Familia se agota con semanas de antelación'
-opinionEditorial: 'Es el punto medio entre la visita guiada estándar y el tour privado: pagas un poco más a cambio de un grupo
-  reducido, donde se oye mejor al guía y no vas peleando por el sitio. El operador tiene buena nota (4,7) y volumen suficiente
-  —más de 3.700 reseñas— para fiarte, y el contenido es el mismo que en cualquier guiada: fachadas, interior y escuela.
+avisoReserva: En temporada alta, la Sagrada Familia se agota con semanas de antelación
+opinionEditorial: 'Es el punto medio entre la visita guiada estándar y el tour privado: pagas un poco más a cambio de un grupo reducido, donde se oye mejor al guía y no vas peleando por el sitio. El operador tiene buena nota (4,7) y volumen suficiente —más de 3.700 reseñas— para fiarte, y el contenido es el mismo que en cualquier guiada: fachadas, interior y escuela.
 
 
-  Su punto fuerte real, más allá del grupo pequeño, es la accesibilidad: es la visita guiada que declara expresamente acceso
-  en silla de ruedas, con entrada especial al monumento. Si esa es tu necesidad, esta es la opción. Lo que no incluye son
-  las torres ni ningún traslado, y el punto de encuentro —Avenida de Gaudí, 1— es de los
-  concurridos: llega con margen.
+  Su punto fuerte real, más allá del grupo pequeño, es la accesibilidad: es la visita guiada que declara expresamente acceso en silla de ruedas, con entrada especial al monumento. Si esa es tu necesidad, esta es la opción. Lo que no incluye son las torres ni ningún traslado, y el punto de encuentro —Avenida de Gaudí, 1— es de los concurridos: llega con margen.
 
   '
 atraccionesRelacionadas:
@@ -101,17 +89,21 @@ keywords:
 - sagrada familia silla de ruedas
 - tour sagrada familia sin colas
 imagen: /images/actividades/barcelona/sagrada-familia/pexels-33053352-hero.webp
-imagenAlt: Calles de Barcelona con arquitectura gótica y modernista
+imagenAlt: Torres de la Sagrada Familia vistas desde abajo
 ratingProveedor: 4.7
 numeroOpiniones: 3690
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
+- src: /images/actividades/barcelona/sagrada-familia/fachada-nacimiento-estanque.webp
+  alt: Fachada del Nacimiento de la Sagrada Familia desde el estanque de la plaza de Gaudí
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp
   alt: Techo intrincado con bóvedas góticas de la Sagrada Familia en Barcelona
+- src: /images/actividades/barcelona/sagrada-familia/cripta-sagrada-familia.webp
+  alt: Cripta de la Sagrada Familia, donde está enterrado Gaudí
 - src: /images/actividades/barcelona/sagrada-familia/pexels-35839411-hero.webp
-  alt: Vistas panorámicas de Barcelona con la Sagrada Familia al fondo
+  alt: Torres de la Sagrada Familia al atardecer
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
   alt: Vidrieras interiores de la Sagrada Familia con los nombres de santos grabados
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-techo-nave-central-63-metros-alto-hero-hero.webp
@@ -121,25 +113,17 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
   alt: Torres de la Sagrada Familia con esculturas y andamiaje de construccion
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Vista panorámica de Barcelona con edificios modernistas y montaña Montjuïc al fondo
+  alt: Luz roja y naranja de las vidrieras en el interior de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp
   alt: Torres de la Sagrada Familia con una grua de construccion, al atardecer
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
   alt: Roseton interior de la Sagrada Familia con vidrieras de colores
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
   alt: Detalle de la fachada de la Gloria de la Sagrada Familia con sus ventanas piramidales
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-beautifully-illuminated-ceiling-hero-hero.webp
-  alt: Techo ornamentado e iluminado de la Sagrada Familia en Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero-hero.webp
-  alt: Fachada de la Basílica de la Sagrada Familia con torres góticas y ornamentación modernista en Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios modernistas y la ciudad al atardecer
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-A27sA6kViXc-hero.webp
-  alt: Vistas panorámicas de Barcelona con la sagrada familia y arquitectura modernista
 bokunProductId: 662268
-fecha_actualizacion: '2026-06-18'
+fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
-  - "sagrada-familia-que-entrada-elegir"
+- sagrada-familia-que-entrada-elegir
 ---
 
 ## Qué vas a ver

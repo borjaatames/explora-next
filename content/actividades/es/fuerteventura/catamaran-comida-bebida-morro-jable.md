@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Fuerteventura: catamarán Magic Select con comida y bebida'
 slug: catamaran-comida-bebida-morro-jable
 ciudad: fuerteventura
-descripcion: 'Travesía de 4 horas en el catamarán Magic Select desde Morro Jable por la costa sur de Jandía, con búsqueda de delfines, parada para bañarse, comida a bordo y barra libre de vino, cerveza y refrescos. 4,4/5 con casi 1.800 reseñas.'
+descripcion: Travesía de 4 horas en el catamarán Magic Select desde Morro Jable por la costa sur de Jandía, con búsqueda de delfines, parada para bañarse, comida a bordo y barra libre de vino, cerveza y refrescos. 4,4/5 con casi 1.800 reseñas.
 slugs:
   es: catamaran-comida-bebida-morro-jable
   en: morro-jable-catamaran-lunch-drinks
@@ -78,18 +78,26 @@ keywords:
 - excursion barco jandia comida
 - catamaran delfines fuerteventura
 imagen: /images/actividades/fuerteventura/catamaran-morrojable.webp
-imagenAlt: "Catamarán navegando frente a la costa de Jandía"
+imagenAlt: Catamarán navegando frente a la costa de Jandía
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/jandia-costa.webp"
-  alt: "La costa de Jandía con el faro al fondo"
-- src: "/images/actividades/fuerteventura/zonas/morro-jable-playa.webp"
-  alt: "Morro Jable y la playa del Matorral desde la montaña"
-- src: "/images/actividades/fuerteventura/zonas/macizo-jandia.webp"
-  alt: "El macizo de Jandía con nubes en las cumbres"
-- src: "/images/actividades/fuerteventura/zonas/costa-jandia.webp"
-  alt: "La costa de barlovento de Jandía"
-- src: "/images/actividades/fuerteventura/zonas/faro-matorral.webp"
-  alt: "Faro de Morro Jable entre la vegetación del saladar"
+- src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
+  alt: Delfines nadando junto a un barco frente a Morro Jable
+- src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
+  alt: La costa de Jandía con el faro al fondo
+- src: /images/actividades/fuerteventura/catamaran-morro-jable/comida-servida-a-bordo.webp
+  alt: Bandeja de comida servida a los pasajeros en la mesa de un barco
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: Morro Jable y la playa del Matorral desde la montaña
+- src: /images/actividades/fuerteventura/catamaran-morro-jable/copa-espumoso-a-bordo-catamaran.webp
+  alt: Copa de espumoso en la cubierta de un catamarán navegando
+- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
+  alt: El macizo de Jandía con nubes en las cumbres
+- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
+  alt: Bañistas nadando junto a un barco fondeado
+- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
+  alt: La costa de barlovento de Jandía
+- src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
+  alt: Faro de Morro Jable entre la vegetación del saladar
 ratingProveedor: 4.4
 numeroOpiniones: 1786
 atraccionesRelacionadas:
@@ -97,7 +105,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

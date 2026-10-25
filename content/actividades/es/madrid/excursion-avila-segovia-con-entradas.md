@@ -2,8 +2,7 @@
 titulo: Ávila y Segovia desde Madrid con entradas incluidas
 slug: excursion-avila-segovia-con-entradas
 ciudad: madrid
-descripcion: Excursión de un día a Ávila y Segovia desde Madrid con entradas a los monumentos incluidas, guía oficial, radioguía
-  y aperitivo. Bus de ida y vuelta.
+descripcion: Excursión de un día a Ávila y Segovia desde Madrid con entradas a los monumentos incluidas, guía oficial, radioguía y aperitivo. Bus de ida y vuelta.
 slugs:
   es: excursion-avila-segovia-con-entradas
   en: avila-segovia-day-trip-with-tickets
@@ -36,9 +35,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Fun and Tickets, C. de San Bernardo, 7, Centro, 28015 Madrid
-  descripcionGuia: 'El punto de encuentro es la oficina de Fun and Tickets en la calle San Bernardo, 7, en el centro de Madrid.
-    Llega 15 minutos antes de la hora de salida para el check-in. No lo confundas con otros operadores de la misma calle:
-    busca el rótulo de Fun and Tickets.'
+  descripcionGuia: 'El punto de encuentro es la oficina de Fun and Tickets en la calle San Bernardo, 7, en el centro de Madrid. Llega 15 minutos antes de la hora de salida para el check-in. No lo confundas con otros operadores de la misma calle: busca el rótulo de Fun and Tickets.'
   latitud: 40.4211
   longitud: -3.7082
   zoom: 17
@@ -60,42 +57,27 @@ informacionImportante:
   - El recorrido cubre dos ciudades en un día; el tiempo en cada monumento está medido
   - El almuerzo no está incluido; hay un rato libre para comer por tu cuenta
   - 'La visita guiada usa radioguía: te dan auriculares para seguir al guía'
-accesibilidad: 'Excursión no recomendada para sillas de ruedas ni movilidad reducida: tanto Ávila como Segovia tienen cascos
-  históricos con cuestas, escalones y pavimento empedrado, y el ritmo de la jornada es exigente.'
-politicaCancelacion: Cancela gratis hasta 24 horas antes de la salida y recibirás el reembolso completo. Después de ese plazo
-  no hay reembolso.
+accesibilidad: 'Excursión no recomendada para sillas de ruedas ni movilidad reducida: tanto Ávila como Segovia tienen cascos históricos con cuestas, escalones y pavimento empedrado, y el ritmo de la jornada es exigente.'
+politicaCancelacion: Cancela gratis hasta 24 horas antes de la salida y recibirás el reembolso completo. Después de ese plazo no hay reembolso.
 preguntasFrecuentes:
 - pregunta: ¿Qué entradas a monumentos están incluidas?
-  respuesta: Están incluidas la entrada a la Basílica de San Vicente de Ávila, la Catedral de Segovia y el Alcázar de Segovia,
-    además de la visita a la iglesia-convento de Santa Teresa de Jesús. Es la diferencia principal frente a la versión más
-    económica de esta misma ruta, que se queda en los exteriores.
+  respuesta: Están incluidas la entrada a la Basílica de San Vicente de Ávila, la Catedral de Segovia y el Alcázar de Segovia, además de la visita a la iglesia-convento de Santa Teresa de Jesús. Es la diferencia principal frente a la versión más económica de esta misma ruta, que se queda en los exteriores.
 - pregunta: ¿El guía habla español?
-  respuesta: Sí. La excursión se ofrece en español e inglés. Según el grupo, el guía explica en directo o se usa una audioguía
-    grabada; en ambos casos se entregan auriculares de radioguía.
+  respuesta: Sí. La excursión se ofrece en español e inglés. Según el grupo, el guía explica en directo o se usa una audioguía grabada; en ambos casos se entregan auriculares de radioguía.
 - pregunta: ¿Cuánto tiempo se está en cada ciudad?
-  respuesta: La jornada dura unas 9 horas en total e incluye los desplazamientos desde Madrid. El tiempo se reparte entre
-    Ávila y Segovia con visitas guiadas y una pausa con tiempo libre; el ritmo es ágil porque son dos ciudades en un día.
+  respuesta: La jornada dura unas 9 horas en total e incluye los desplazamientos desde Madrid. El tiempo se reparte entre Ávila y Segovia con visitas guiadas y una pausa con tiempo libre; el ritmo es ágil porque son dos ciudades en un día.
 - pregunta: ¿Está incluida la comida?
-  respuesta: El almuerzo no está incluido. Sí entran un aperitivo y una bebida durante la parada en Ávila. Hay un rato libre
-    para comer por tu cuenta; lleva algo de dinero para ello.
+  respuesta: El almuerzo no está incluido. Sí entran un aperitivo y una bebida durante la parada en Ávila. Hay un rato libre para comer por tu cuenta; lleva algo de dinero para ello.
 - pregunta: ¿Puedo cancelar si me surge un imprevisto?
-  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no
-    hay devolución.
+  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no hay devolución.
 variantes:
 - excursion-avila-segovia-economica
 - excursion-avila-salamanca
 - tour-privado-avila-segovia-escorial
-opinionEditorial: 'Es la opción acertada si quieres ver Ávila y Segovia en un día sin preocuparte de comprar entradas por
-  separado. Frente a la versión "escapada" más barata, esta incluye los accesos que de verdad cuentan —la Basílica de San
-  Vicente, la Catedral y el Alcázar de Segovia— más la iglesia de Santa Teresa. Para un primer viaje a estas dos ciudades,
-  llegar con todo resuelto y un guía oficial al lado compensa el sobreprecio.
+opinionEditorial: 'Es la opción acertada si quieres ver Ávila y Segovia en un día sin preocuparte de comprar entradas por separado. Frente a la versión "escapada" más barata, esta incluye los accesos que de verdad cuentan —la Basílica de San Vicente, la Catedral y el Alcázar de Segovia— más la iglesia de Santa Teresa. Para un primer viaje a estas dos ciudades, llegar con todo resuelto y un guía oficial al lado compensa el sobreprecio.
 
 
-  Lo que el marketing no te cuenta: son dos ciudades Patrimonio de la Humanidad metidas en una jornada de 9 horas, y eso se
-  nota. La queja más repetida en las reseñas es el ritmo apresurado y el poco tiempo libre. Si viajas para pasear con calma,
-  fotografiar sin prisa y comer sin reloj, este formato te va a saber a poco; te encajará mejor dedicar un día a cada ciudad
-  por tu cuenta. Y si la movilidad es un problema, descártala: el empedrado y las cuestas de los dos cascos históricos no
-  perdonan.
+  Lo que el marketing no te cuenta: son dos ciudades Patrimonio de la Humanidad metidas en una jornada de 9 horas, y eso se nota. La queja más repetida en las reseñas es el ritmo apresurado y el poco tiempo libre. Si viajas para pasear con calma, fotografiar sin prisa y comer sin reloj, este formato te va a saber a poco; te encajará mejor dedicar un día a cada ciudad por tu cuenta. Y si la movilidad es un problema, descártala: el empedrado y las cuestas de los dos cascos históricos no perdonan.
 
   '
 atraccionesRelacionadas:
@@ -107,7 +89,7 @@ keywords:
 - excursion avila segovia con entradas
 - visitar avila y segovia
 - tour avila segovia madrid
-imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp"
+imagen: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp
 imagenAlt: Acueducto romano de Segovia con su doble hilera de arcos de granito
 galeria:
 - src: /images/actividades/madrid/segovia/segovia-alcazar-castle-spain-fortress-hero-hero.webp
@@ -119,7 +101,7 @@ galeria:
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
   alt: Sala de los Reyes del Alcázar de Segovia, con dosel rojo y figuras con armadura.
 - src: /images/actividades/avila/basilica-san-vicente/pexels-32979839-hero.webp
-  alt: Vistas panorámicas de la muralla medieval de Ávila con torres y ciudad antigua
+  alt: Basílica de San Vicente de Ávila
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-22-2017-10-24-hero-hero.webp
   alt: Castillo del Alcázar de Segovia, fortaleza medieval de piedra clara en lo alto de la ciudad
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero-hero.webp
@@ -141,6 +123,7 @@ numeroOpiniones: 4805
 publicada: true
 destacada: false
 fecha: '2026-05-14'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

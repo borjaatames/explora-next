@@ -2,8 +2,7 @@
 titulo: Tour de la Sagrada Familia con tiempo libre y museo
 slug: sagrada-familia-tour-guiado-tiempo-libre
 ciudad: barcelona
-descripcion: Tour guiado de 1,5 h por la Sagrada Familia en grupo reducido, con entrada sin colas y tiempo libre dentro de
-  la basílica y el museo al terminar.
+descripcion: Tour guiado de 1,5 h por la Sagrada Familia en grupo reducido, con entrada sin colas y tiempo libre dentro de la basílica y el museo al terminar.
 slugs:
   es: sagrada-familia-tour-guiado-tiempo-libre
   en: sagrada-familia-guided-tour-with-free-time
@@ -35,9 +34,7 @@ noIncluye:
 - Comida y bebida
 puntoEncuentro:
   texto: Cafetería Vivari, junto a la Sagrada Familia, 08025 Barcelona
-  descripcionGuia: 'Llega 15 minutos antes a la cafetería Vivari, junto a la basílica. Un representante estará allí con un
-    cartel de «The Tour Guy». Trae el documento de identidad de todos los participantes, también el de los niños: sin él se
-    deniega la entrada.'
+  descripcionGuia: 'Llega 15 minutos antes a la cafetería Vivari, junto a la basílica. Un representante estará allí con un cartel de «The Tour Guy». Trae el documento de identidad de todos los participantes, también el de los niños: sin él se deniega la entrada.'
   latitud: 41.405
   longitud: 2.1755
   zoom: 17
@@ -54,24 +51,18 @@ informacionImportante:
   aTenerEnCuenta:
   - Algunas zonas de la basílica pueden cerrar por actos religiosos; si ocurre, el operador compensa con otra galería o espacio
   - 'Código de vestimenta de iglesia: no se permiten pantalones cortos, camisetas sin mangas ni maletas o bolsas grandes'
-  - Algunos viajeros señalan que la parte guiada puede durar algo menos de lo anunciado; el tiempo libre posterior compensa
-    el recorrido
-accesibilidad: El operador indica expresamente que este recorrido NO está recomendado para personas con movilidad reducida
-  o en silla de ruedas. Si necesitas accesibilidad, elige la visita guiada en grupo reducido, que sí la declara.
+  - Algunos viajeros señalan que la parte guiada puede durar algo menos de lo anunciado; el tiempo libre posterior compensa el recorrido
+accesibilidad: El operador indica expresamente que este recorrido NO está recomendado para personas con movilidad reducida o en silla de ruedas. Si necesitas accesibilidad, elige la visita guiada en grupo reducido, que sí la declara.
 politicaCancelacion: Cancelación gratuita con reembolso íntegro si cancelas con 24 horas de antelación.
 preguntasFrecuentes:
 - pregunta: ¿En qué se diferencia de las otras visitas guiadas?
-  respuesta: En que no termina cuando acaba el guía. Aquí la parte guiada dura 1,5 h y, al terminar, puedes quedarte dentro
-    de la basílica el tiempo que quieras y visitar el Museo de la Iglesia de la Sagrada Familia por tu cuenta. En las guiadas
-    que terminan en la salida, ese tiempo extra no existe.
+  respuesta: En que no termina cuando acaba el guía. Aquí la parte guiada dura 1,5 h y, al terminar, puedes quedarte dentro de la basílica el tiempo que quieras y visitar el Museo de la Iglesia de la Sagrada Familia por tu cuenta. En las guiadas que terminan en la salida, ese tiempo extra no existe.
 - pregunta: ¿Es accesible para sillas de ruedas?
-  respuesta: No. El operador indica expresamente que el recorrido no está recomendado para personas con movilidad reducida
-    o en silla de ruedas. Si necesitas accesibilidad, la visita guiada en grupo reducido del comparador sí la declara.
+  respuesta: No. El operador indica expresamente que el recorrido no está recomendado para personas con movilidad reducida o en silla de ruedas. Si necesitas accesibilidad, la visita guiada en grupo reducido del comparador sí la declara.
 - pregunta: ¿Incluye subir a las torres?
   respuesta: No. La subida a una torre no entra en este tour. Para subir, mira la opción «con torre» del comparador.
 - pregunta: ¿Cuánto dura realmente?
-  respuesta: La parte guiada está anunciada en 1,5 h. Algunos viajeros comentan que a veces dura algo menos; lo bueno es que
-    después tienes tiempo libre dentro de la basílica y el museo, así que la visita total se alarga lo que tú quieras.
+  respuesta: La parte guiada está anunciada en 1,5 h. Algunos viajeros comentan que a veces dura algo menos; lo bueno es que después tienes tiempo libre dentro de la basílica y el museo, así que la visita total se alarga lo que tú quieras.
 - pregunta: ¿En qué idiomas es la visita?
   respuesta: El guía trabaja en español e inglés. Eliges el idioma al reservar; comprueba la disponibilidad en tu fecha.
 variantes:
@@ -79,16 +70,10 @@ variantes:
 - sagrada-familia-visita-guiada-sin-colas
 - sagrada-familia-tour-guiado-clasico
 - entrada-sagrada-familia-audioguia
-opinionEditorial: 'Su gracia está en lo que pasa después del tour. La parte guiada dura 1,5 h en grupo reducido, pero al terminar
-  no te acompañan a la salida: te quedas dentro de la basílica y visitas el Museo de la Iglesia de la Sagrada Familia a tu
-  ritmo. Para quien quiere lo mejor de los dos mundos —que se lo expliquen primero y luego empaparse en silencio— es la opción
-  más cómoda. La nota lo respalda: 4,6 con más de 1.400 reseñas.
+opinionEditorial: 'Su gracia está en lo que pasa después del tour. La parte guiada dura 1,5 h en grupo reducido, pero al terminar no te acompañan a la salida: te quedas dentro de la basílica y visitas el Museo de la Iglesia de la Sagrada Familia a tu ritmo. Para quien quiere lo mejor de los dos mundos —que se lo expliquen primero y luego empaparse en silencio— es la opción más cómoda. La nota lo respalda: 4,6 con más de 1.400 reseñas.
 
 
-  Dos avisos honestos. El primero: no es accesible —el operador lo dice claramente—, así que si necesitas silla de ruedas,
-  descártala y mira la visita guiada en grupo reducido. El segundo: hay reseñas que mencionan que la parte guiada a veces
-  dura algo menos de lo anunciado; aquí pesa poco, porque el tiempo libre posterior lo compensa, pero si esperas exactamente
-  90 minutos de guía, tenlo en cuenta. No incluye torres.
+  Dos avisos honestos. El primero: no es accesible —el operador lo dice claramente—, así que si necesitas silla de ruedas, descártala y mira la visita guiada en grupo reducido. El segundo: hay reseñas que mencionan que la parte guiada a veces dura algo menos de lo anunciado; aquí pesa poco, porque el tiempo libre posterior lo compensa, pero si esperas exactamente 90 minutos de guía, tenlo en cuenta. No incluye torres.
 
   '
 categoria: visitasGuiadas
@@ -98,7 +83,7 @@ keywords:
 - visita guiada sagrada familia
 - sagrada familia museo gaudi
 - sagrada familia sin colas
-imagen: "/images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp"
+imagen: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
 imagenAlt: Bóveda ornamentada de la nave central de la Sagrada Familia
 ratingProveedor: 4.6
 numeroOpiniones: 1454
@@ -109,13 +94,13 @@ atraccionesRelacionadas:
 - sagrada-familia
 galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Fachada de la Pasion de la Sagrada Familia, con sus torres y gruas de construccion, en Barcelona
+  alt: Fachada de la Pasión de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Basílica de la Sagrada Familia de Barcelona con torres góticas y detalles arquitectónicos modernistas
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
   alt: Sagrada Familia de Barcelona, fachada principal con torres góticas iluminadas, 2008
 - src: /images/actividades/barcelona/sagrada-familia/pexels-33053352-hero.webp
-  alt: Vista desde abajo de las torres exteriores de la Sagrada Família.
+  alt: Torres de la Sagrada Familia vistas desde abajo
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-hero-hero.webp
   alt: Fachada de la Sagrada Familia con torres góticas, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-columns-hero-hero.webp
@@ -123,25 +108,26 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-9033308-hero.webp
   alt: Vista aérea de Barcelona con edificios modernistas y la Sagrada Familia al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp
-  alt: Vista aérea de la Sagrada Família y el perfil de Barcelona al atardecer.
+  alt: La Sagrada Familia al atardecer, vista desde el aire
 - src: /images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp
   alt: Vista interior de las columnas arboriformes y el techo de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-35283998-hero.webp
   alt: Interior de la Sagrada Família, con las columnas en forma de árbol y el techo iluminado por los medallones de colores.
 - src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Vistas panorámicas de Barcelona con edificios modernistas y la ciudad al atardecer
+  alt: Luz roja y naranja de las vidrieras en el interior de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
   alt: Roseton interior de la Sagrada Familia con vidrieras de colores
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
   alt: Remates de mosaico veneciano en lo alto de las torres de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
-  alt: Vistas panorámicas de Barcelona con la sagrada familia y arquitectura modernista
+  alt: Luz de las vidrieras proyectada sobre las columnas de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Sy4CXsj6BDE-hero.webp
   alt: Vistas panorámicas de Barcelona con edificios modernistas y montañas al fondo
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
   alt: Torres de la Sagrada Familia con esculturas y andamiaje de construccion
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
   alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

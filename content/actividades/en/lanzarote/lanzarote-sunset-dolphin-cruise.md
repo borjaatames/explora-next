@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Lanzarote: sunset boat trip with dolphin spotting'
 slug: lanzarote-sunset-dolphin-cruise
 ciudad: lanzarote
-descripcion: 'A 2-hour sunset catamaran trip from Puerto del Carmen, with a welcome mojito, one drink, a snack box, a swim stop and transfers. Rated 4.2/5 from more than 3,200 reviews.'
+descripcion: A 2-hour sunset catamaran trip from Puerto del Carmen, with a welcome mojito, one drink, a snack box, a swim stop and transfers. Rated 4.2/5 from more than 3,200 reviews.
 slugs:
   es: barco-atardecer-delfines-puerto-del-carmen
   en: lanzarote-sunset-dolphin-cruise
@@ -35,7 +35,7 @@ incluye:
 noIncluye:
 - Tips
 puntoEncuentro:
-  texto: 'Puerto del Carmen marina and fishing harbour, or one of 17 pickup points across the island.'
+  texto: Puerto del Carmen marina and fishing harbour, or one of 17 pickup points across the island.
   descripcionGuia: 'Pickup in Puerto Calero only runs on Thursdays, and there is no pickup in Playa Blanca on Sundays, Mondays or Wednesdays. If you book less than 24 hours ahead, go straight to the harbour: parking is free but spaces are limited.'
   latitud: 28.9196
   longitud: -13.668
@@ -61,13 +61,13 @@ accesibilidad: Non-folding wheelchairs and electric mobility scooters are not al
 politicaCancelacion: Free cancellation up to 24 hours before, with a full refund. If it's cancelled for bad weather, you choose another date or get your money back.
 preguntasFrecuentes:
 - pregunta: Are you sure to see dolphins?
-  respuesta: 'No. The boat goes through areas where they are often seen, but the operator warns that sightings are not guaranteed and offers no refund or new date if none appear.'
+  respuesta: No. The boat goes through areas where they are often seen, but the operator warns that sightings are not guaranteed and offers no refund or new date if none appear.
 - pregunta: What time does it leave?
-  respuesta: 'It depends on the time of year, as it follows the sunset. The exact time shows when you choose a date.'
+  respuesta: It depends on the time of year, as it follows the sunset. The exact time shows when you choose a date.
 - pregunta: What food and drink is included?
-  respuesta: 'A welcome mojito, one drink of your choice (mojito, beer, wine or soft drink) and an individual snack box.'
+  respuesta: A welcome mojito, one drink of your choice (mojito, beer, wine or soft drink) and an individual snack box.
 - pregunta: Is there pickup in Playa Blanca?
-  respuesta: 'Yes, except on Sundays, Mondays and Wednesdays. In Puerto Calero, only on Thursdays.'
+  respuesta: Yes, except on Sundays, Mondays and Wednesdays. In Puerto Calero, only on Thursdays.
 opinionEditorial: 'It''s a pleasant evening outing to see the south coast in sunset light with a drink in hand, more than a wildlife trip: dolphins aren''t guaranteed and the score (4.2) reflects that they don''t always show up. If cetaceans are what matter, Tenerife or La Gomera give better odds; if you want sea and sunset without effort, it delivers.'
 guiasRelacionadas:
 - what-to-see-in-lanzarote
@@ -81,14 +81,22 @@ keywords:
 imagen: /images/actividades/lanzarote/barco-delfines.webp
 imagenAlt: Dolphins swimming beside a catamaran
 galeria:
-- src: "/images/actividades/lanzarote/zonas/costa-sur-papagayo.webp"
-  alt: "Lanzarote's south coast by the Papagayo beaches"
-- src: "/images/actividades/lanzarote/zonas/arrecife-charco-san-gines.webp"
-  alt: "Boats in the Charco de San Ginés, Arrecife"
-- src: "/images/actividades/lanzarote/zonas/casas-blancas-mar.webp"
-  alt: "White houses with blue doors facing the sea in Lanzarote"
-- src: "/images/actividades/lanzarote/zonas/los-hervideros.webp"
-  alt: "Lava cliffs at Los Hervideros with volcanoes behind"
+- src: /images/actividades/lanzarote/barco-atardecer/catamaran-silueta-atardecer.webp
+  alt: Silhouette of a catamaran sailing at sunset
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: Lanzarote's south coast by the Papagayo beaches
+- src: /images/actividades/lanzarote/barco-atardecer/puesta-sol-puerto-del-carmen.webp
+  alt: Sunset over the sea on the Puerto del Carmen coast
+- src: /images/actividades/lanzarote/zonas/arrecife-charco-san-gines.webp
+  alt: Boats in the Charco de San Ginés, Arrecife
+- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
+  alt: Excursion boats in the harbour of Puerto del Carmen
+- src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
+  alt: White houses with blue doors facing the sea in Lanzarote
+- src: /images/actividades/lanzarote/barco-atardecer/banistas-junto-al-barco.webp
+  alt: Swimmers in the water next to an anchored boat
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: Lava cliffs at Los Hervideros with volcanoes behind
 ratingProveedor: 4.2
 numeroOpiniones: 3237
 atraccionesRelacionadas:
@@ -96,7 +104,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

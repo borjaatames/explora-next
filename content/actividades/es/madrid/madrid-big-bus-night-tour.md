@@ -2,8 +2,7 @@
 titulo: 'Madrid Nocturno: Big Bus Panorámico Descapotable con Guía'
 slug: madrid-big-bus-night-tour
 ciudad: madrid
-descripcion: 'Tour panorámico nocturno de 70 minutos en bus descapotable Big Bus. Madrid iluminado: Palacio Real, Cibeles,
-  Almudena, Edificio Metrópolis. Audioguía en 10 idiomas. 4,2/5 sobre 977 reseñas.'
+descripcion: 'Tour panorámico nocturno de 70 minutos en bus descapotable Big Bus. Madrid iluminado: Palacio Real, Cibeles, Almudena, Edificio Metrópolis. Audioguía en 10 idiomas. 4,2/5 sobre 977 reseñas.'
 slugs:
   es: madrid-big-bus-night-tour
   en: madrid-big-bus-panoramic-night-tour
@@ -33,12 +32,8 @@ noIncluye:
 - Comida y bebida
 - Recogida en hotel
 puntoEncuentro:
-  texto: Big Bus Parada 1 — Fuente de Neptuno, Plaza Cánovas del Castillo (cerca del Paseo del Prado). Salida única a las
-    20:30. Presenta el ticket impreso o en el móvil al personal de Big Bus.
-  descripcionGuia: 'Llega 15 minutos antes — el bus sale a las 20:30 en punto y suele estar lleno («likely to sell out»).
-    Metro Banco de España (línea 2) a 5 minutos. Atención: no es hop-on hop-off, es un único trayecto continuo de 70 min.
-    Si quieres mejor visibilidad, las reseñas mencionan que la mayoría de los hitos están en el lado izquierdo (lado del conductor)
-    del bus.'
+  texto: Big Bus Parada 1 — Fuente de Neptuno, Plaza Cánovas del Castillo (cerca del Paseo del Prado). Salida única a las 20:30. Presenta el ticket impreso o en el móvil al personal de Big Bus.
+  descripcionGuia: 'Llega 15 minutos antes — el bus sale a las 20:30 en punto y suele estar lleno («likely to sell out»). Metro Banco de España (línea 2) a 5 minutos. Atención: no es hop-on hop-off, es un único trayecto continuo de 70 min. Si quieres mejor visibilidad, las reseñas mencionan que la mayoría de los hitos están en el lado izquierdo (lado del conductor) del bus.'
   latitud: 40.4151
   longitud: -3.6938
   zoom: 17
@@ -62,51 +57,29 @@ informacionImportante:
   - Pícate al lado izquierdo del bus si quieres mejor visibilidad
   - Algunos buses tienen barras en el techo que arruinan fotos desde arriba — depende del bus que te toque
   - «Likely to sell out» — reserva con antelación en temporada alta
-accesibilidad: El operador marca el producto como accesible en silla de ruedas. Confirma al embarcar — no todos los buses
-  tienen la misma configuración.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva
-  ahora y paga después».
+accesibilidad: El operador marca el producto como accesible en silla de ruedas. Confirma al embarcar — no todos los buses tienen la misma configuración.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. También disponible la opción «Reserva ahora y paga después».
 preguntasFrecuentes:
 - pregunta: ¿En qué se diferencia del Big Bus diurno?
-  respuesta: 'El diurno es hop-on hop-off (subes y bajas en paradas durante 24 o 48 horas), con tres rutas. Este nocturno
-    es un único trayecto continuo de 70 minutos: ves Madrid iluminado de noche y vuelves al punto de partida. No te bajas.
-    El nocturno cuesta menos (28-30 euros frente a 35-38 del diurno) pero cubre menos.'
+  respuesta: 'El diurno es hop-on hop-off (subes y bajas en paradas durante 24 o 48 horas), con tres rutas. Este nocturno es un único trayecto continuo de 70 minutos: ves Madrid iluminado de noche y vuelves al punto de partida. No te bajas. El nocturno cuesta menos (28-30 euros frente a 35-38 del diurno) pero cubre menos.'
 - pregunta: ¿Cuál es el mejor sitio para sentarse?
-  respuesta: 'Piso superior, lado izquierdo (lado del conductor). Las reseñas mencionan que la mayoría de los hitos están
-    en ese lado durante el recorrido. Llega 15 min antes para asegurarte el sitio. Atención: algunos buses tienen barras en
-    el techo que pueden estropear fotos — si quieres fotos buenas, mejor cámara con buena estabilización y aceptar que no
-    todas saldrán.'
+  respuesta: 'Piso superior, lado izquierdo (lado del conductor). Las reseñas mencionan que la mayoría de los hitos están en ese lado durante el recorrido. Llega 15 min antes para asegurarte el sitio. Atención: algunos buses tienen barras en el techo que pueden estropear fotos — si quieres fotos buenas, mejor cámara con buena estabilización y aceptar que no todas saldrán.'
 - pregunta: ¿Hace mucho frío en bus descapotable de noche?
-  respuesta: Sí, incluso en verano. Madrid de noche baja sensiblemente la temperatura y a 70 km/h en bus abierto se nota.
-    Lleva chaqueta o capa — no es opcional. En invierno, ropa de abrigo de verdad.
+  respuesta: Sí, incluso en verano. Madrid de noche baja sensiblemente la temperatura y a 70 km/h en bus abierto se nota. Lleva chaqueta o capa — no es opcional. En invierno, ropa de abrigo de verdad.
 - pregunta: ¿Por qué la nota es solo 4,2/5?
-  respuesta: Las críticas recurrentes son audio difícil de oír (el bus es ruidoso por el tráfico y el viento), guía bilingüe
-    que algunos preferirían monolingüe en su idioma, y barras del techo en algunos buses que estropean fotos. La nota del
-    guía es 4,3 y la de transporte 4,3 — la del «value for money» 4,0. Es producto que cumple su función básica sin destacar.
+  respuesta: Las críticas recurrentes son audio difícil de oír (el bus es ruidoso por el tráfico y el viento), guía bilingüe que algunos preferirían monolingüe en su idioma, y barras del techo en algunos buses que estropean fotos. La nota del guía es 4,3 y la de transporte 4,3 — la del «value for money» 4,0. Es producto que cumple su función básica sin destacar.
 - pregunta: ¿Vale la pena combinarlo con el Big Bus de día?
-  respuesta: Sí. Si te has hecho la ruta de día y quieres ver Madrid iluminado de noche, es la mejor forma sin contratar guía
-    privado. El precio extra es razonable (28-30 euros). Si solo tienes una noche en Madrid y prefieres profundizar en algún
-    plan (flamenco, cena con vistas, paseo nocturno por el Retiro), valora si esto entra en tu agenda.
+  respuesta: Sí. Si te has hecho la ruta de día y quieres ver Madrid iluminado de noche, es la mejor forma sin contratar guía privado. El precio extra es razonable (28-30 euros). Si solo tienes una noche en Madrid y prefieres profundizar en algún plan (flamenco, cena con vistas, paseo nocturno por el Retiro), valora si esto entra en tu agenda.
 variantes:
 - madrid-big-bus-hop-on-hop-off
 - madrid-tour-nocturno-inquisicion-leyendas
-opinionEditorial: 'Es el tour nocturno de Big Bus en Madrid: 4,2/5 sobre 977 reseñas. Trayecto continuo de 70 minutos (NO
-  hop-on hop-off), salida única al día a las 20:30 desde la Fuente de Neptuno. Cubre los principales hitos del centro iluminados
-  de noche: Palacio Real, Cibeles, Almudena, Edificio Metrópolis. Audioguía en 10 idiomas y guía bilingüe ES/EN en directo.
-  Producto «likely to sell out» — conviene reservar con antelación en alta temporada.
+opinionEditorial: 'Es el tour nocturno de Big Bus en Madrid: 4,2/5 sobre 977 reseñas. Trayecto continuo de 70 minutos (NO hop-on hop-off), salida única al día a las 20:30 desde la Fuente de Neptuno. Cubre los principales hitos del centro iluminados de noche: Palacio Real, Cibeles, Almudena, Edificio Metrópolis. Audioguía en 10 idiomas y guía bilingüe ES/EN en directo. Producto «likely to sell out» — conviene reservar con antelación en alta temporada.
 
 
-  Lo que conviene saber. Primero, no es hop-on hop-off — si esperas bajarte a hacer fotos, te llevas decepción. Es trayecto
-  continuo. Segundo, el ruido del tráfico y el viento dificultan oír al guía según varias reseñas; si tu inglés o español
-  no son fluidos, espera entender la mitad. Tercero, algunos buses tienen barras en el techo que estropean fotos desde arriba;
-  no hay forma de saber qué bus te toca, así que acepta que las fotos puedan no salir perfectas. Y siéntate en el lado izquierdo
-  (conductor) — ahí está la mayoría de los hitos.
+  Lo que conviene saber. Primero, no es hop-on hop-off — si esperas bajarte a hacer fotos, te llevas decepción. Es trayecto continuo. Segundo, el ruido del tráfico y el viento dificultan oír al guía según varias reseñas; si tu inglés o español no son fluidos, espera entender la mitad. Tercero, algunos buses tienen barras en el techo que estropean fotos desde arriba; no hay forma de saber qué bus te toca, así que acepta que las fotos puedan no salir perfectas. Y siéntate en el lado izquierdo (conductor) — ahí está la mayoría de los hitos.
 
 
-  Para quién: viajeros que quieren ver Madrid iluminado de noche sin esfuerzo, quien complemente el bus diurno con una experiencia
-  nocturna distinta, y viajeros con movilidad reducida (accesible en silla). Para quién NO: quien quiera bajarse a fotografiar
-  (aquí no se baja), quien busque experiencia inmersiva con guía cercano (el bus es ruidoso y dificulta la escucha), y quien
-  viaje sin chaqueta (incluso en verano hace fresco en descapotable a 70 km/h).
+  Para quién: viajeros que quieren ver Madrid iluminado de noche sin esfuerzo, quien complemente el bus diurno con una experiencia nocturna distinta, y viajeros con movilidad reducida (accesible en silla). Para quién NO: quien quiera bajarse a fotografiar (aquí no se baja), quien busque experiencia inmersiva con guía cercano (el bus es ruidoso y dificulta la escucha), y quien viaje sin chaqueta (incluso en verano hace fresco en descapotable a 70 km/h).
 
   '
 atraccionesRelacionadas:
@@ -118,33 +91,33 @@ keywords:
 - tour nocturno bus madrid
 - madrid iluminado bus
 - panoramic night tour madrid
-imagen: "/images/actividades/madrid/Bigbus/big-bus-madrid-puerta-alcala.webp"
-imagenAlt: "Big Bus Madrid pasando junto a la Puerta de Alcalá"
+imagen: /images/actividades/madrid/Bigbus/big-bus-madrid-puerta-alcala.webp
+imagenAlt: Big Bus Madrid pasando junto a la Puerta de Alcalá
 galeria:
-- src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
-  alt: "Plaza de Callao y la Gran Vía de noche"
-- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-piso-superior-cibeles.webp"
-  alt: "Viajeros en el piso superior descubierto del Big Bus frente a Cibeles"
-- src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"
-  alt: "La Gran Vía iluminada de noche"
-- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-subida-pasajeros.webp"
-  alt: "Viajeros subiendo al Big Bus Madrid en una parada del centro"
-- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
-  alt: "Fuente de Cibeles iluminada de noche"
-- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-lateral-cibeles.webp"
-  alt: "Lateral del Big Bus Madrid con la plaza de Cibeles al fondo"
-- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp"
-  alt: "Palacio Real de Madrid iluminado de noche"
-- src: "/images/actividades/madrid/Bigbus/big-bus-madrid-cibeles.webp"
-  alt: "Big Bus Madrid rojo de dos pisos frente al Palacio de Cibeles"
-- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
-  alt: "Cartel luminoso de Tío Pepe en la Puerta del Sol al anochecer"
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp
+  alt: Plaza de Callao y el edificio Carrión de noche
+- src: /images/actividades/madrid/Bigbus/big-bus-madrid-piso-superior-cibeles.webp
+  alt: Viajeros en el piso superior descubierto del Big Bus frente a Cibeles
+- src: /images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp
+  alt: La Gran Vía iluminada de noche
+- src: /images/actividades/madrid/Bigbus/big-bus-madrid-subida-pasajeros.webp
+  alt: Viajeros subiendo al Big Bus Madrid en una parada del centro
+- src: /images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp
+  alt: Fuente de Cibeles iluminada de noche
+- src: /images/actividades/madrid/Bigbus/big-bus-madrid-lateral-cibeles.webp
+  alt: Lateral del Big Bus Madrid con la plaza de Cibeles al fondo
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
+  alt: Palacio Real de Madrid iluminado de noche
+- src: /images/actividades/madrid/Bigbus/big-bus-madrid-cibeles.webp
+  alt: Big Bus Madrid rojo de dos pisos frente al Palacio de Cibeles
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp
+  alt: Cartel luminoso de Tío Pepe en la Puerta del Sol al anochecer
 ratingProveedor: 4.2
 numeroOpiniones: 977
 publicada: true
 destacada: false
 fecha: '2026-05-17'
-fecha_actualizacion: '2026-05-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

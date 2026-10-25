@@ -19,3 +19,5 @@ Origen: `E:\imagenes-master\_descargas-2026-10-23b\malaga--mijas\` (23 oct 2026)
 | puerto-banus-04.webp | Wikimedia Commons | Zarateman · File:Marbella - Puerto Banús 15.jpg | CC0 |
 
 Origen: `E:\imagenes-master\_descargas-2026-10-23b\malaga--puerto-banus\` (23 oct 2026).
+- `castillo-colomares.webp` — Kent Wang · CC BY-SA 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Castillo_de_Colomares_%2851947461222%29.jpg
+- `castillo-colomares-torres.webp` — Kent Wang · CC BY-SA 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Castillo_de_Colomares_%2851948418661%29.jpg

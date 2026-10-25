@@ -14,3 +14,8 @@
 - `mercado-colon-interior.webp` — Joanbanjo, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Val%C3%A8ncia%2C_interior_del_mercat_de_Colom.JPG) · recortada a 1600×1200
 - `hemisferic-reflejo.webp` — Ermell, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Valencia_Ciudad_de_las_Artes_y_las_Ciencias_L%27Hemisf%C3%A8ric-20100203-RM-173930.jpg) · recortada a 1600×1200
 - `palau-arts.webp` — Diliff, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:El_Palau_de_les_Arts_Reina_Sof%C3%ADa%2C_Valencia_-_Jan_2007.jpg) · recortada a 1600×1200
+- `catedral-nave-central.webp` — Joanbanjo · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Catedral_de_Val%C3%A8ncia%2C_nau_central.JPG
+- `palacio-dos-aguas.webp` — Visentico · CC BY-SA 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Valencia05_flickr.jpg
+- `plaza-reina-micalet.webp` — Francesco Crippa · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Coche_de_caballos_en_la_Plaza_de_la_Reina.jpg
+- `san-nicolas-altar-frescos.webp` — Dorieo · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Altar_mayor_de_la_Iglesia_de_San_Nicol%C3%A1s_de_Bari_y_San_Pedro_M%C3%A1rtir_02.jpg
+- `san-nicolas-boveda.webp` — Rafa Esteve · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Valencia_-_Iglesia_de_San_Nicol%C3%A1s_01_2016-03-27.jpg

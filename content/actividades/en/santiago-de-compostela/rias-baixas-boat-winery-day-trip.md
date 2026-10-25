@@ -74,13 +74,23 @@ keywords:
 - rias baixas boat mussels tour
 - combarro cambados trip
 - albarino wine route
-imagen: /images/actividades/santiago-de-compostela/rias/combarro.webp
-imagenAlt: Combarro's hórreos by the estuary
+imagen: /images/actividades/santiago-de-compostela/rias/bodega-fefinans-barricas.webp
+imagenAlt: Barrels and tanks in the Pazo de Fefiñáns winery, Cambados
 galeria:
+- src: /images/actividades/santiago-de-compostela/rias/catamaran-turistico-o-grove.webp
+  alt: Sightseeing catamaran for ría cruises moored in the port of O Grove
+- src: /images/actividades/santiago-de-compostela/rias/combarro.webp
+  alt: Combarro's hórreos by the estuary
+- src: /images/actividades/santiago-de-compostela/rias/vendimia-albarino-cambados.webp
+  alt: Trailers loaded with Albariño grapes during the harvest in Cambados
 - src: /images/actividades/santiago-de-compostela/rias/bateas.webp
-  alt: "Mussel-farming rafts floating in the estuary"
+  alt: Mussel-farming rafts floating in the estuary
+- src: /images/actividades/madrid/rueda/cata-vino-blanco.webp
+  alt: White wine being poured at a tasting with several glasses on the table
 - src: /images/actividades/santiago-de-compostela/rias/toxa-capilla.webp
   alt: The shell-covered chapel on A Toxa
+- src: /images/actividades/santiago-de-compostela/tapas/mejillones.webp
+  alt: Pot of mussels
 - src: /images/actividades/santiago-de-compostela/rias/cambados-fefinans.webp
   alt: Pazo de Fefiñáns in Cambados
 - src: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
@@ -91,10 +101,6 @@ galeria:
   alt: A Combarro hórreo facing the sea
 - src: /images/actividades/santiago-de-compostela/rias/batea.webp
   alt: A mussel raft in the estuary
-- src: /images/actividades/santiago-de-compostela/rias/toxa-conchas.webp
-  alt: Scallop shells on the A Toxa chapel
-- src: /images/actividades/santiago-de-compostela/rias/parras.webp
-  alt: Albariño vines in the Rías Baixas
 ratingProveedor: 4.7
 numeroOpiniones: 486
 atraccionesRelacionadas:
@@ -102,7 +108,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

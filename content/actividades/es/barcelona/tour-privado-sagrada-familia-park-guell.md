@@ -2,8 +2,7 @@
 titulo: Tour privado Sagrada Família y Park Güell con recogida
 slug: tour-privado-sagrada-familia-park-guell
 ciudad: barcelona
-descripcion: Tour privado por la Sagrada Família y el Park Güell con guía en exclusiva, entradas sin colas y recogida en el
-  hotel. Precio por grupo.
+descripcion: Tour privado por la Sagrada Família y el Park Güell con guía en exclusiva, entradas sin colas y recogida en el hotel. Precio por grupo.
 slugs:
   es: tour-privado-sagrada-familia-park-guell
   en: private-sagrada-familia-and-park-guell-tour
@@ -38,10 +37,8 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
-avisoReserva: 'En temporada alta, la Sagrada Familia se agota con semanas de antelación'
-opinionEditorial: 'Las dos obras imprescindibles de Gaudí en medio día y sin colas, con un guía solo para vosotros y traslado
-  entre ambas: es la forma más cómoda de verlas, sobre todo en familia o si no quieres pelearte con el transporte ni con las
-  entradas.'
+avisoReserva: En temporada alta, la Sagrada Familia se agota con semanas de antelación
+opinionEditorial: 'Las dos obras imprescindibles de Gaudí en medio día y sin colas, con un guía solo para vosotros y traslado entre ambas: es la forma más cómoda de verlas, sobre todo en familia o si no quieres pelearte con el transporte ni con las entradas.'
 atraccionesRelacionadas:
 - sagrada-familia
 categoria: experienciasPrivadas
@@ -55,7 +52,7 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-2-hero-hero.webp
   alt: Coloridas estructuras arquitectónicas del Park Güell diseñado por Gaudí en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Fachada de la Pasion de la Sagrada Familia, con sus torres y gruas de construccion, en Barcelona
+  alt: Fachada de la Pasión de la Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-multicoloured-art-hero-hero.webp
   alt: Mosaicos multicolores del Park Güell diseñado por Gaudí en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
@@ -86,9 +83,9 @@ publicada: false
 reemplazadaPor: tour-privado-lo-mejor-de-barcelona-sagrada-familia
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-22'
+fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
-  - "sagrada-familia-que-entrada-elegir"
+- sagrada-familia-que-entrada-elegir
 ---
 
 ## Qué vas a ver

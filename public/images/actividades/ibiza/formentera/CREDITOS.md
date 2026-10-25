@@ -16,3 +16,5 @@ Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `ibiza-formentera-03.webp` — Foto del proveedor de la actividad, del catálogo de Bókun
 - `ibiza-formentera-04.webp` — Foto del proveedor de la actividad, del catálogo de Bókun
 - `ibiza-formentera-05.webp` — Foto del proveedor de la actividad, del catálogo de Bókun
+- `ferry-rapido-llegando-ibiza.webp` — Charles from Port Chester, New York · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Fast_ferry_from_the_island_Formentera_arriving_at_the_port_of_Ibiza,_Illes_Balears,_Espa%C3%B1a_(53986551152).jpg
+- `ferry-trasmapi-dalt-vila.webp` — Ericxx19 · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Castavi_jet.jpg

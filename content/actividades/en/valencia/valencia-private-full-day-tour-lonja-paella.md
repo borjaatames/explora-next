@@ -83,14 +83,24 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/valencia/centro/mercado-central-interior.webp
+  alt: Modernist interior of Valencia's Central Market
 - src: /images/actividades/valencia/lonja-paella/paella-valenciana.webp
   alt: Valencian paella with chicken, green beans and snails at a Valencia restaurant
+- src: /images/actividades/valencia/lonja-horchata/horchata-farton.webp
+  alt: Glasses of horchata with fartons in a Valencian horchatería
 - src: /images/actividades/valencia/lonja-paella/paella-fuego-lena.webp
   alt: Paella simmering over a wood fire with a sprig of rosemary
+- src: /images/actividades/valencia/modernista/estacion-norte-fachada.webp
+  alt: Modernist façade of Valencia's Estación del Norte
 - src: /images/actividades/valencia/lonja-paella/lonja-fachada.webp
   alt: Gothic facade of the Silk Exchange in Valencia
+- src: /images/actividades/valencia/centro/torres-serranos.webp
+  alt: Serranos Towers
 - src: /images/actividades/valencia/lonja-paella/lonja-boveda.webp
   alt: Rib vault of the trading hall in the Silk Exchange
+- src: /images/actividades/valencia/centro/palacio-dos-aguas.webp
+  alt: Alabaster portal of the Marqués de Dos Aguas palace
 - src: https://imgcdn.bokun.tools/845a68a6-f85c-4758-83e8-c8a888dfcbaa.jpg
   alt: Guide and travellers in the columned hall of the Silk Exchange
 - src: https://imgcdn.bokun.tools/7f9e0603-c79f-474d-a8b6-82bbaff29cd0.jpg
@@ -98,7 +108,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/79c75059-2ad2-4bff-9438-f5e4ef6d1060.jpg
   alt: Group eating paella in a restaurant
 bokunProductId: 967813
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## The route

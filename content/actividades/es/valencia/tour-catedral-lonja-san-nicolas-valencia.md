@@ -81,16 +81,20 @@ keywords:
 imagen: /images/actividades/valencia/centro/lonja-fachada.webp
 imagenAlt: Fachada gótica de la Lonja de la Seda
 galeria:
+- src: /images/actividades/valencia/centro/san-nicolas-altar-frescos.webp
+  alt: Altar mayor y bóvedas pintadas de la iglesia de San Nicolás de Valencia
 - src: /images/actividades/valencia/centro/torres-serranos.webp
   alt: Torres de Serranos
+- src: /images/actividades/valencia/centro/san-nicolas-boveda.webp
+  alt: Bóveda con frescos barrocos de la iglesia de San Nicolás
 - src: /images/actividades/valencia/centro/lonja-naranjos.webp
   alt: Patio de los naranjos de la Lonja
-- src: /images/actividades/valencia/centro/mercado-central-exterior.webp
-  alt: Exterior del Mercado Central de Valencia
-- src: /images/actividades/valencia/centro/mercado-central-interior.webp
-  alt: Interior modernista del Mercado Central
+- src: /images/actividades/valencia/centro/catedral-nave-central.webp
+  alt: Nave central de la catedral de Valencia
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
   alt: Plaza de la Virgen con la basílica y la catedral
+- src: /images/actividades/valencia/centro/plaza-reina-micalet.webp
+  alt: Plaza de la Reina con el Micalet y la catedral de Valencia
 - src: /images/actividades/valencia/centro/catedral-puerta.webp
   alt: Puerta de la catedral de Valencia en la plaza de la Virgen
 - src: /images/actividades/valencia/centro/micalet-naranjos.webp
@@ -102,7 +106,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

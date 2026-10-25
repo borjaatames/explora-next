@@ -17,3 +17,6 @@
 - `cala-pinos-aguas-turquesas.webp` — Pexels, Dirk Pothen (Licencia Pexels) — https://www.pexels.com/photo/scenic-ibiza-cove-with-turquoise-waters-30926111/
 - `barca-varada-rocas-ibiza.webp` — Pixabay, sabinevanerp (Licencia Pixabay) — https://pixabay.com/photos/little-boat-beach-ibiza-rocks-1446449/
 - `chiringuito-playa-ibiza.webp` — Pixabay, Mrs__schu (Licencia Pixabay) — https://pixabay.com/photos/sea-beach-ibiza-restaurant-chair-930257/
+- `bano-desde-barco-excursion.webp` — Ayşegül Aytören · Pexels License · Pexels · https://www.pexels.com/photo/people-swimming-at-sea-13353070/
+- `esnorquel-cala-llenya.webp` — Sferrerb · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Snorkel_Cala_Llenya.jpg
+- `paddle-surf-mar-azul.webp` — Earth Photart · Pexels License · Pexels · https://www.pexels.com/photo/aerial-view-of-paddleboarder-on-clear-blue-waters-38350450/

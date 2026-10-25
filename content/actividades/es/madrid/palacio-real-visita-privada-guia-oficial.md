@@ -90,7 +90,7 @@ galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
   alt: Fachada principal del Palacio Real en la Plaza de la Armería
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
-  alt: Arcos de la Plaza de la Armería, punto de encuentro
+  alt: Palacio Real desde la plaza de la Armería, con su galería de arcos
 - src: /images/actividades/madrid/palacio-real-privado/unsplash-patio-arcadas.webp
   alt: Galería de arcos y cúpula del Palacio Real
 - src: /images/actividades/madrid/palacio-real-privado/pexels-reloj-bandera.webp
@@ -114,7 +114,7 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

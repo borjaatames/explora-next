@@ -2,8 +2,7 @@
 titulo: Tour guiado de la Sagrada Familia en español
 slug: sagrada-familia-tour-guiado-clasico
 ciudad: barcelona
-descripcion: Tour guiado de la Sagrada Familia con entrada sin colas y opción de grupo en español, bilingüe o reducido. El
-  operador con más reseñas del comparador.
+descripcion: Tour guiado de la Sagrada Familia con entrada sin colas y opción de grupo en español, bilingüe o reducido. El operador con más reseñas del comparador.
 slugs:
   es: sagrada-familia-tour-guiado-clasico
   en: sagrada-familia-guided-tour
@@ -34,9 +33,7 @@ noIncluye:
 - Comida y bebida
 puntoEncuentro:
   texto: C/ de Sardenya, 311, 08025 Barcelona
-  descripcionGuia: El punto de encuentro puede variar según la opción que reserves (español, bilingüe, grupo reducido). La
-    referencia general es Carrer de Sardenya, 311, junto a la basílica. Revisa el detalle exacto en tu confirmación y llega
-    15 minutos antes.
+  descripcionGuia: El punto de encuentro puede variar según la opción que reserves (español, bilingüe, grupo reducido). La referencia general es Carrer de Sardenya, 311, junto a la basílica. Revisa el detalle exacto en tu confirmación y llega 15 minutos antes.
   latitud: 41.4044
   longitud: 2.1736
   zoom: 17
@@ -52,45 +49,31 @@ informacionImportante:
   noAptoPara:
   - 'Quien quiera garantía de grupo monolingüe: algunas salidas combinan idiomas en el mismo grupo'
   aTenerEnCuenta:
-  - 'Hay tres formatos de grupo: en español, bilingüe español-inglés y grupo reducido; el precio y el punto de encuentro cambian
-    según el que elijas'
-  - 'Código de vestimenta de iglesia: no se admiten camisetas sin mangas, pantalones cortos, sandalias, chanclas, gorras ni
-    ir descalzo'
+  - 'Hay tres formatos de grupo: en español, bilingüe español-inglés y grupo reducido; el precio y el punto de encuentro cambian según el que elijas'
+  - 'Código de vestimenta de iglesia: no se admiten camisetas sin mangas, pantalones cortos, sandalias, chanclas, gorras ni ir descalzo'
   - El control de seguridad puede alargar los tiempos de espera algunos días
-accesibilidad: El operador no indica accesibilidad en silla de ruedas para esta visita. Si necesitas accesibilidad, revisa
-  la visita guiada sin colas o el tour privado, que sí la declaran.
+accesibilidad: El operador no indica accesibilidad en silla de ruedas para esta visita. Si necesitas accesibilidad, revisa la visita guiada sin colas o el tour privado, que sí la declaran.
 politicaCancelacion: Cancelación gratuita con reembolso íntegro si cancelas con 24 horas de antelación.
 preguntasFrecuentes:
 - pregunta: ¿En qué se diferencia de las otras visitas guiadas?
-  respuesta: 'Es el operador con más recorrido del comparador —más de 5.500 reseñas— y el que más formatos de grupo ofrece:
-    puedes elegir salida en español, bilingüe español-inglés o en grupo reducido. A cambio, su nota media (4,4) y la de relación
-    calidad-precio (3,9) son algo más bajas que las de otras guiadas de la página.'
+  respuesta: 'Es el operador con más recorrido del comparador —más de 5.500 reseñas— y el que más formatos de grupo ofrece: puedes elegir salida en español, bilingüe español-inglés o en grupo reducido. A cambio, su nota media (4,4) y la de relación calidad-precio (3,9) son algo más bajas que las de otras guiadas de la página.'
 - pregunta: ¿El grupo será solo en español?
-  respuesta: Depende de la opción que reserves. Hay una salida específica en español, pero también una bilingüe español-inglés
-    en la que el guía alterna idiomas en el mismo grupo. Si quieres garantía de grupo monolingüe, elige expresamente la opción
-    en español al reservar.
+  respuesta: Depende de la opción que reserves. Hay una salida específica en español, pero también una bilingüe español-inglés en la que el guía alterna idiomas en el mismo grupo. Si quieres garantía de grupo monolingüe, elige expresamente la opción en español al reservar.
 - pregunta: ¿Incluye subir a las torres?
   respuesta: No. La subida a las torres no entra en este tour. Para subir, mira la opción «con torre» del comparador.
 - pregunta: ¿Es accesible para sillas de ruedas?
-  respuesta: El operador no lo indica para esta visita. Si necesitas accesibilidad, la visita guiada sin colas y el tour privado
-    del comparador sí la declaran expresamente.
+  respuesta: El operador no lo indica para esta visita. Si necesitas accesibilidad, la visita guiada sin colas y el tour privado del comparador sí la declaran expresamente.
 - pregunta: ¿Qué se ve en el recorrido?
-  respuesta: La fachada del Nacimiento, el interior de la basílica, la fachada de la Pasión y la escuela de la Sagrada Familia.
-    Al terminar puedes quedarte dentro y visitar el Museo Gaudí, con dibujos, maquetas y fotografías de la construcción.
+  respuesta: La fachada del Nacimiento, el interior de la basílica, la fachada de la Pasión y la escuela de la Sagrada Familia. Al terminar puedes quedarte dentro y visitar el Museo Gaudí, con dibujos, maquetas y fotografías de la construcción.
 variantes:
 - sagrada-familia-visita-guiada-sin-colas
 - sagrada-familia-visita-guiada-grupo-reducido
 - sagrada-familia-tour-guiado-tiempo-libre
 - entrada-sagrada-familia-audioguia
-opinionEditorial: 'Es el operador veterano de la Sagrada Familia: más de 5.500 reseñas y, sobre todo, el catálogo de formatos
-  más amplio del comparador. Si tienes claro que quieres un grupo en español y nada más —no bilingüe—, aquí lo eliges expresamente,
-  y también está la opción de grupo reducido si prefieres pagar algo más por menos gente.
+opinionEditorial: 'Es el operador veterano de la Sagrada Familia: más de 5.500 reseñas y, sobre todo, el catálogo de formatos más amplio del comparador. Si tienes claro que quieres un grupo en español y nada más —no bilingüe—, aquí lo eliges expresamente, y también está la opción de grupo reducido si prefieres pagar algo más por menos gente.
 
 
-  Ahora la parte honesta. Su nota media es de las más bajas de las guiadas (4,4) y la de relación calidad-precio se queda
-  en 3,9 —el punto débil reconocido por los propios viajeros—. La queja recurrente es la salida bilingüe: cuando el guía alterna
-  español e inglés en el mismo grupo, se pierde el hilo. Si reservas, elige la opción monolingüe. Y si lo que buscas es la
-  mejor combinación de nota y precio sin más, la visita guiada sin colas del comparador rinde mejor por menos dinero.
+  Ahora la parte honesta. Su nota media es de las más bajas de las guiadas (4,4) y la de relación calidad-precio se queda en 3,9 —el punto débil reconocido por los propios viajeros—. La queja recurrente es la salida bilingüe: cuando el guía alterna español e inglés en el mismo grupo, se pierde el hilo. Si reservas, elige la opción monolingüe. Y si lo que buscas es la mejor combinación de nota y precio sin más, la visita guiada sin colas del comparador rinde mejor por menos dinero.
 
   '
 categoria: visitasGuiadas
@@ -100,7 +83,7 @@ keywords:
 - visita sagrada familia sin colas
 - tour sagrada familia grupo
 - sagrada familia barcelona guia
-imagen: "/images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp"
+imagen: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
 imagenAlt: 'Barcelona: vista de la ciudad con arquitectura moderna y montañas al fondo'
 ratingProveedor: 4.4
 numeroOpiniones: 5559
@@ -133,13 +116,13 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6526888-hero.webp
   alt: Remates de mosaico veneciano en lo alto de las torres de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
-  alt: Vista panorámica de Barcelona con la Sagrada Familia y edificios modernistas bajo cielo despejado
+  alt: Luz de las vidrieras proyectada sobre las columnas de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
   alt: Basílica de la Sagrada Familia, Barcelona, fachada principal con torres góticas
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-columns-hero-hero.webp
   alt: Techo ornamental con columnas elaboradas de la Sagrada Familia en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
-  alt: Vista aérea de Barcelona con arquitectura gótica y modernista, playas y puerto mediterráneo
+  alt: Vidrieras azules y verdes de la Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/unsplash-Sy4CXsj6BDE-hero.webp
   alt: Vistas panorámicas de Barcelona con la Sagrada Familia y edificios modernistas bajo cielo despejado
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
@@ -150,6 +133,7 @@ galeria:
   alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz calida de las vidrieras
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
   alt: Roseton interior de la Sagrada Familia con vidrieras de colores
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

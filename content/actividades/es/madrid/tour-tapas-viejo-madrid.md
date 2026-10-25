@@ -1,128 +1,123 @@
 ---
-titulo: "Visita enogastronómica a pie del Viejo Madrid"
-slug: "tour-tapas-viejo-madrid"
-ciudad: "madrid"
-descripcion: "Tour de tapas a pie por el casco histórico de Madrid con un guía local: degustaciones en 3 o 4 bares y los principales monumentos del centro de camino."
-
+titulo: Visita enogastronómica a pie del Viejo Madrid
+slug: tour-tapas-viejo-madrid
+ciudad: madrid
+descripcion: 'Tour de tapas a pie por el casco histórico de Madrid con un guía local: degustaciones en 3 o 4 bares y los principales monumentos del centro de camino.'
 slugs:
-  es: "tour-tapas-viejo-madrid"
-
-duracion: "2,5 - 3 horas"
+  es: tour-tapas-viejo-madrid
+duracion: 2,5 - 3 horas
 duracionMinutos: 165
 precioDesde: 80
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.es/madrid-l46/madrid-visita-enogastronomica-a-pie-del-viejo-madrid-t193784/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.es/madrid-l46/madrid-visita-enogastronomica-a-pie-del-viejo-madrid-t193784/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Degustaciones en 3 o 4 bares de tapas del centro histórico de Madrid"
-  - "Tapas tradicionales: gambas al ajillo, croquetas, bravas, chorizo y más"
-  - "Los principales monumentos del centro, como la Puerta del Sol y la Plaza Mayor, de camino"
-  - "Guía bilingüe experto en historia y gastronomía"
-
+- Degustaciones en 3 o 4 bares de tapas del centro histórico de Madrid
+- 'Tapas tradicionales: gambas al ajillo, croquetas, bravas, chorizo y más'
+- Los principales monumentos del centro, como la Puerta del Sol y la Plaza Mayor, de camino
+- Guía bilingüe experto en historia y gastronomía
 incluye:
-  - "Recorrido guiado con 3 o 4 paradas (según la opción elegida)"
-  - "Guía bilingüe (español e inglés)"
-  - "Una bebida en cada bar (vino, vermut, cerveza, refresco o agua)"
-  - "Degustación de tapas tradicionales en cada parada"
-  - "Postre de chocolate con churros (según la opción elegida)"
-
+- Recorrido guiado con 3 o 4 paradas (según la opción elegida)
+- Guía bilingüe (español e inglés)
+- Una bebida en cada bar (vino, vermut, cerveza, refresco o agua)
+- Degustación de tapas tradicionales en cada parada
+- Postre de chocolate con churros (según la opción elegida)
 noIncluye:
-  - "Servicio de recogida y regreso al hotel"
-  - "Transporte a o desde las atracciones"
-  - "Propinas (se recomienda un 10-15 %)"
-
+- Servicio de recogida y regreso al hotel
+- Transporte a o desde las atracciones
+- Propinas (se recomienda un 10-15 %)
 puntoEncuentro:
-  texto: "Apple Store de la Puerta del Sol, Puerta del Sol, Madrid"
-  descripcionGuia: "El punto de encuentro es la entrada de la Apple Store de la Puerta del Sol. El guía lleva un paraguas rojo en la mano para que lo identifiques. Llega 15 minutos antes de la hora de inicio; si no te presentas a la hora indicada, se pierde el tour."
+  texto: Apple Store de la Puerta del Sol, Puerta del Sol, Madrid
+  descripcionGuia: El punto de encuentro es la entrada de la Apple Store de la Puerta del Sol. El guía lleva un paraguas rojo en la mano para que lo identifiques. Llega 15 minutos antes de la hora de inicio; si no te presentas a la hora indicada, se pierde el tour.
   latitud: 40.4169
   longitud: -3.7033
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 18
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo"
-    - "Gafas de sol y gorra"
-    - "Cámara"
+  - Calzado cómodo
+  - Gafas de sol y gorra
+  - Cámara
   noAptoPara:
-    - "Menores de 18 años"
-    - "Personas veganas, vegetarianas o con alergias e intolerancias alimentarias (gluten, lactosa, marisco, pescado)"
-    - "Personas con problemas de espalda o cardíacos, o en silla de ruedas"
+  - Menores de 18 años
+  - Personas veganas, vegetarianas o con alergias e intolerancias alimentarias (gluten, lactosa, marisco, pescado)
+  - Personas con problemas de espalda o cardíacos, o en silla de ruedas
   aTenerEnCuenta:
-    - "El recorrido tiene restricciones dietéticas amplias: no está adaptado a dietas especiales ni alergias"
-    - "Si no te presentas a la hora indicada, pierdes el tour y no es reembolsable"
-    - "El guía se identifica con un paraguas rojo en la Puerta del Sol"
-
-accesibilidad: "Tour no recomendado para personas en silla de ruedas ni con problemas de espalda o cardíacos: es un recorrido a pie por el casco histórico con paradas en varios bares."
-
-politicaCancelacion: "Cancela gratis hasta 24 horas antes de la experiencia y recibirás el reembolso completo. Después de ese plazo no hay reembolso, y la no presentación a la hora indicada tampoco se reembolsa."
-
+  - 'El recorrido tiene restricciones dietéticas amplias: no está adaptado a dietas especiales ni alergias'
+  - Si no te presentas a la hora indicada, pierdes el tour y no es reembolsable
+  - El guía se identifica con un paraguas rojo en la Puerta del Sol
+accesibilidad: 'Tour no recomendado para personas en silla de ruedas ni con problemas de espalda o cardíacos: es un recorrido a pie por el casco histórico con paradas en varios bares.'
+politicaCancelacion: Cancela gratis hasta 24 horas antes de la experiencia y recibirás el reembolso completo. Después de ese plazo no hay reembolso, y la no presentación a la hora indicada tampoco se reembolsa.
 preguntasFrecuentes:
-  - pregunta: "¿Cuántas paradas y qué se prueba?"
-    respuesta: "Son 3 o 4 paradas según la opción que reserves, en bares de tapas del centro histórico. Se prueban tapas tradicionales como gambas al ajillo, croquetas, patatas bravas, chorizo o setas, con una bebida incluida en cada bar. Algunas opciones añaden churros con chocolate de postre."
-  - pregunta: "¿El guía habla español?"
-    respuesta: "Sí. El guía es bilingüe en español e inglés, y además de la parte gastronómica explica la historia del centro de Madrid mientras se pasa junto a sus principales monumentos."
-  - pregunta: "¿Es apto para vegetarianos, veganos o celíacos?"
-    respuesta: "No. El operador indica expresamente que el tour no está recomendado para personas veganas, vegetarianas ni con alergias o intolerancias alimentarias (gluten, lactosa, marisco, pescado). Si tienes restricciones dietéticas, el tour de tapas y vino con azotea sí ofrece opciones vegetarianas y sin gluten."
-  - pregunta: "¿Pueden ir menores?"
-    respuesta: "No. Esta experiencia no está recomendada para menores de 18 años."
-  - pregunta: "¿Qué pasa si llego tarde?"
-    respuesta: "Si no te presentas a la hora indicada en la Puerta del Sol, pierdes el tour y no es reembolsable. Conviene llegar 15 minutos antes y buscar al guía, que lleva un paraguas rojo."
+- pregunta: ¿Cuántas paradas y qué se prueba?
+  respuesta: Son 3 o 4 paradas según la opción que reserves, en bares de tapas del centro histórico. Se prueban tapas tradicionales como gambas al ajillo, croquetas, patatas bravas, chorizo o setas, con una bebida incluida en cada bar. Algunas opciones añaden churros con chocolate de postre.
+- pregunta: ¿El guía habla español?
+  respuesta: Sí. El guía es bilingüe en español e inglés, y además de la parte gastronómica explica la historia del centro de Madrid mientras se pasa junto a sus principales monumentos.
+- pregunta: ¿Es apto para vegetarianos, veganos o celíacos?
+  respuesta: No. El operador indica expresamente que el tour no está recomendado para personas veganas, vegetarianas ni con alergias o intolerancias alimentarias (gluten, lactosa, marisco, pescado). Si tienes restricciones dietéticas, el tour de tapas y vino con azotea sí ofrece opciones vegetarianas y sin gluten.
+- pregunta: ¿Pueden ir menores?
+  respuesta: No. Esta experiencia no está recomendada para menores de 18 años.
+- pregunta: ¿Qué pasa si llego tarde?
+  respuesta: Si no te presentas a la hora indicada en la Puerta del Sol, pierdes el tour y no es reembolsable. Conviene llegar 15 minutos antes y buscar al guía, que lleva un paraguas rojo.
+variantes:
+- tour-tapas-vino-atardecer-azotea
+- ruta-tapas-nocturna-madrid
+- tour-bodegas-madrid-cata-vino
+opinionEditorial: 'Es la opción acertada si quieres un tour de tapas clásico y bien ejecutado por el casco histórico, sin florituras. Tres o cuatro bares, tapas tradicionales de verdad, una bebida en cada parada y un guía que, además de la comida, te cuenta la historia del centro de Madrid mientras pasáis junto a la Puerta del Sol y la Plaza Mayor. La nota de 4,9 sobre más de cien reseñas respalda el formato.
 
-variantes: ["tour-tapas-vino-atardecer-azotea", "ruta-tapas-nocturna-madrid", "tour-bodegas-madrid-cata-vino"]
-
-opinionEditorial: |
-  Es la opción acertada si quieres un tour de tapas clásico y bien ejecutado por el casco histórico, sin florituras. Tres o cuatro bares, tapas tradicionales de verdad, una bebida en cada parada y un guía que, además de la comida, te cuenta la historia del centro de Madrid mientras pasáis junto a la Puerta del Sol y la Plaza Mayor. La nota de 4,9 sobre más de cien reseñas respalda el formato.
 
   Lo que conviene saber antes de reservar: es un tour exigente con las restricciones. El operador deja claro que no está adaptado a veganos, vegetarianos ni a alergias o intolerancias (gluten, lactosa, marisco, pescado), y que es solo para mayores de 18 años. Si tienes cualquier restricción dietética o viajas con menores, este no es tu tour: el [de tapas y vino con azotea](/ciudades/madrid/actividades/tour-tapas-vino-atardecer-azotea) sí contempla opciones vegetarianas y sin gluten y admite menores acompañados. Y ojo con la puntualidad: si no te presentas a la hora, pierdes el tour.
 
+  '
 atraccionesRelacionadas:
 - tapas-madrid
-categoria: "toursGastronomicos"
-keywords: ["tour de tapas viejo madrid", "tour gastronomico madrid centro", "ruta de tapas madrid", "visita enogastronomica madrid", "tapas casco historico madrid"]
-
-imagen: "/images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp"
-imagenAlt: "Barra de bar con jamones y botellas de vino"
-
+categoria: toursGastronomicos
+keywords:
+- tour de tapas viejo madrid
+- tour gastronomico madrid centro
+- ruta de tapas madrid
+- visita enogastronomica madrid
+- tapas casco historico madrid
+imagen: /images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp
+imagenAlt: Barra de bar con jamones y botellas de vino
 galeria:
-  - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp"
-    alt: "El Oso y el Madroño en la Puerta del Sol, de camino entre bares"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-    alt: "Croquetas de jamón"
-  - src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
-    alt: "Estatua ecuestre de Felipe III y la Casa de la Panadería, Plaza Mayor"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp"
-    alt: "Plato de patatas bravas con salsa picante en la barra"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberian-ham-jamon-hero.webp"
-    alt: "Plato de jamón ibérico cortado a cuchillo"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-tortilla-potatoes-food-kitchen-hero.webp"
-    alt: "Tortilla de patatas entera"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-bocata-calamares-hero.webp"
-    alt: "Bocadillo de calamares, clásico madrileño"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-stewed-food-sliced-bacon-hero.webp"
-    alt: "Gildas y encurtidos"
-  - src: "/images/actividades/madrid/tapas/tapas-madrid-chocolate-churros-lazo-hero.webp"
-    alt: "Chocolate con churros"
-
+- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp
+  alt: El Oso y el Madroño en la Puerta del Sol, de camino entre bares
+- src: /images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp
+  alt: Croquetas de jamón
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp
+  alt: Estatua de Felipe III y la Casa de la Panadería en la Plaza Mayor
+- src: /images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp
+  alt: Plato de patatas bravas con salsa picante en la barra
+- src: /images/actividades/madrid/tapas/tapas-madrid-jamon-iberian-ham-jamon-hero.webp
+  alt: Plato de jamón ibérico cortado a cuchillo
+- src: /images/actividades/madrid/tapas/tapas-madrid-tortilla-potatoes-food-kitchen-hero.webp
+  alt: Tortilla de patatas entera
+- src: /images/actividades/madrid/tapas/tapas-madrid-bocata-calamares-hero.webp
+  alt: Bocadillo de calamares, clásico madrileño
+- src: /images/actividades/madrid/tapas/tapas-madrid-stewed-food-sliced-bacon-hero.webp
+  alt: Gildas y encurtidos
+- src: /images/actividades/madrid/tapas/tapas-madrid-chocolate-churros-lazo-hero.webp
+  alt: Chocolate con churros
 ratingProveedor: 4.9
 numeroOpiniones: 113
-
 publicada: false
 reemplazadaPor: ruta-tapas-nocturna-madrid
 destacada: false
-fecha: "2026-05-14"
+fecha: '2026-05-14'
 guiasRelacionadas:
-  - "tapas-madrid-que-tour-elegir"
+- tapas-madrid-que-tour-elegir
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

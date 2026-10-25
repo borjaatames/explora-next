@@ -2,8 +2,7 @@
 titulo: 'Camp Nou: Museo FC Barcelona Total Experience Pass (con RV y Robokeeper)'
 slug: camp-nou-museo-fc-barcelona-pase-total-experience
 ciudad: barcelona
-descripcion: Pase todo incluido al Museo FC Barcelona con Barça Immersive Tour + Robokeeper + RV Barça Virtual Dream + Memoria
-  Digital. 979 reseñas con 4,2/5. Bowl del estadio cerrado por obras.
+descripcion: Pase todo incluido al Museo FC Barcelona con Barça Immersive Tour + Robokeeper + RV Barça Virtual Dream + Memoria Digital. 979 reseñas con 4,2/5. Bowl del estadio cerrado por obras.
 slugs:
   es: camp-nou-museo-fc-barcelona-pase-total-experience
   en: camp-nou-fc-barcelona-museum-total-experience-pass
@@ -39,12 +38,8 @@ noIncluye:
 - Mascotas (perros de asistencia permitidos)
 - Recogida en hotel
 puntoEncuentro:
-  texto: Museo FC Barcelona / Barça Immersive Tour, Carrer d'Aristides Maillol 12, 08028 Barcelona. Espacio de exposición
-    temporal junto al Spotify Camp Nou (el estadio en sí está cerrado). Enseña el voucher móvil en la entrada.
-  descripcionGuia: 'El Barça Immersive Tour opera desde un espacio TEMPORAL junto al estadio durante la renovación (2022-2028).
-    Metro: Palau Reial o Maria Cristina (línea 3), o Collblanc (líneas 5, 9, 10) — 10-15 min andando. Bus 7, 33, 67, 75, H8,
-    V1, V3 cerca. Taxi: pide «Museu FC Barcelona». El estadio Spotify Camp Nou está CERRADO — solo el museo, la sala 360°
-    Camp Nou Live, la zona Robokeeper, la zona de experiencia VR y el Mirador de la Construcción son accesibles.'
+  texto: Museo FC Barcelona / Barça Immersive Tour, Carrer d'Aristides Maillol 12, 08028 Barcelona. Espacio de exposición temporal junto al Spotify Camp Nou (el estadio en sí está cerrado). Enseña el voucher móvil en la entrada.
+  descripcionGuia: 'El Barça Immersive Tour opera desde un espacio TEMPORAL junto al estadio durante la renovación (2022-2028). Metro: Palau Reial o Maria Cristina (línea 3), o Collblanc (líneas 5, 9, 10) — 10-15 min andando. Bus 7, 33, 67, 75, H8, V1, V3 cerca. Taxi: pide «Museu FC Barcelona». El estadio Spotify Camp Nou está CERRADO — solo el museo, la sala 360° Camp Nou Live, la zona Robokeeper, la zona de experiencia VR y el Mirador de la Construcción son accesibles.'
   latitud: 41.3808
   longitud: 2.1204
   zoom: 17
@@ -70,57 +65,29 @@ informacionImportante:
   - Niños menores de 4 entran gratis pero requieren ticket (recoger en taquilla)
   - No reembolsable — una vez reservado, sin cancelación
   - '**Precio oficial en `fcbarcelona.com`: 49 €. En GYG: ~54 €** (~$59)'
-accesibilidad: Visita totalmente accesible en silla de ruedas — FC Barcelona afirma explícitamente que está adaptada para
-  personas con movilidad reducida. Ascensores y rampas por todo el museo, mirador, zona Robokeeper y zona VR. Perros de asistencia
-  permitidos. Niños menores de 4 gratis.
-politicaCancelacion: NO reembolsable. Una vez reservado, el ticket no se puede cancelar, reembolsar ni reprogramar. El ticket
-  es válido 1 día desde la fecha reservada — sin reprogramación dentro de la ventana de validez.
+accesibilidad: Visita totalmente accesible en silla de ruedas — FC Barcelona afirma explícitamente que está adaptada para personas con movilidad reducida. Ascensores y rampas por todo el museo, mirador, zona Robokeeper y zona VR. Perros de asistencia permitidos. Niños menores de 4 gratis.
+politicaCancelacion: NO reembolsable. Una vez reservado, el ticket no se puede cancelar, reembolsar ni reprogramar. El ticket es válido 1 día desde la fecha reservada — sin reprogramación dentro de la ventana de validez.
 preguntasFrecuentes:
 - pregunta: ¿La prima de 21 € sobre el ticket básico vale la pena?
-  respuesta: Depende del grupo. **Vale la pena si:** llevas niños de 6-14 (Robokeeper + VR les engancha mucho — añade 30-45
-    min de diversión), eres fan incondicional del Barça queriendo la experiencia completa, o visitas como regalo para un amigo/pareja
-    futbolero. **NO vale la pena si:** eres adulto casual (el contenido del museo es lo que justifica la visita, no los extras
-    gamificados), tienes preocupaciones por epilepsia (VR + sala 360° tienen luces parpadeantes), o vas justo de tiempo (el
-    Total Experience necesita 30-45 min extra vs el básico). El ticket básico t449261 a 28 € es la compra más inteligente
-    para la mayoría de visitantes adultos casuales.
+  respuesta: Depende del grupo. **Vale la pena si:** llevas niños de 6-14 (Robokeeper + VR les engancha mucho — añade 30-45 min de diversión), eres fan incondicional del Barça queriendo la experiencia completa, o visitas como regalo para un amigo/pareja futbolero. **NO vale la pena si:** eres adulto casual (el contenido del museo es lo que justifica la visita, no los extras gamificados), tienes preocupaciones por epilepsia (VR + sala 360° tienen luces parpadeantes), o vas justo de tiempo (el Total Experience necesita 30-45 min extra vs el básico). El ticket básico t449261 a 28 € es la compra más inteligente para la mayoría de visitantes adultos casuales.
 - pregunta: ¿Qué hay realmente en el Barça Virtual Dream VR?
-  respuesta: VR completo con gafas — típicamente experiencia de 5-7 minutos colocándote en el campo desde la perspectiva del
-    jugador, con ambiente de día de partido (afición, banquillo, caminando por el túnel). Las reseñas la llaman «corta pero
-    memorable». Niños 6+ la adoran; adultos que nunca han probado VR de calidad la encuentran impresionante; entusiastas de
-    VR la encuentran competente pero no rompedora.
+  respuesta: VR completo con gafas — típicamente experiencia de 5-7 minutos colocándote en el campo desde la perspectiva del jugador, con ambiente de día de partido (afición, banquillo, caminando por el túnel). Las reseñas la llaman «corta pero memorable». Niños 6+ la adoran; adultos que nunca han probado VR de calidad la encuentran impresionante; entusiastas de VR la encuentran competente pero no rompedora.
 - pregunta: ¿Cuánto necesito para el Total Experience completo?
-  respuesta: 'Planifica 2-2,5 horas. Desglose: museo + audioguía 1-1,5 horas + sala 360° ~10 min + Robokeeper ~15 min (incluyendo
-    cola si está ocupado) + VR ~10 min + Memoria Digital ~5 min + Mirador de la Construcción ~10 min. Visita en horas de poca
-    afluencia (primera hora o última hora de la tarde) para minimizar colas en Robokeeper y VR.'
+  respuesta: 'Planifica 2-2,5 horas. Desglose: museo + audioguía 1-1,5 horas + sala 360° ~10 min + Robokeeper ~15 min (incluyendo cola si está ocupado) + VR ~10 min + Memoria Digital ~5 min + Mirador de la Construcción ~10 min. Visita en horas de poca afluencia (primera hora o última hora de la tarde) para minimizar colas en Robokeeper y VR.'
 - pregunta: ¿El estadio está realmente cerrado del todo?
-  respuesta: Sí — el bowl real (donde se juegan los partidos) está cerrado a visitantes por obras de renovación en curso.
-    SÍ puedes ver la renovación desde el Mirador de la Construcción dedicado (un mirador habilitado), pero NO puedes entrar
-    al campo de juego, los banquillos, el túnel de jugadores ni la grada. El estadio está programado para reabrir a visitas
-    completas a finales de 2027 o principios de 2028.
+  respuesta: Sí — el bowl real (donde se juegan los partidos) está cerrado a visitantes por obras de renovación en curso. SÍ puedes ver la renovación desde el Mirador de la Construcción dedicado (un mirador habilitado), pero NO puedes entrar al campo de juego, los banquillos, el túnel de jugadores ni la grada. El estadio está programado para reabrir a visitas completas a finales de 2027 o principios de 2028.
 variantes:
 - camp-nou-museo-fc-barcelona-tour-inmersivo
-opinionEditorial: 'El «Total Experience Pass» premium del FC Barcelona — 979 reseñas con 4,2/5, ticket oficial vendido directamente
-  por FC Barcelona. El producto agrupa el Barça Immersive Tour básico con tres extras premium: Robokeeper (3 tiros contra
-  un portero robótico), experiencia VR Barça Virtual Dream y una foto de memoria digital. El formato añade aproximadamente
-  21 € sobre el ticket básico (49 € vs 28 €) y 30-45 min de tiempo de actividad.
+opinionEditorial: 'El «Total Experience Pass» premium del FC Barcelona — 979 reseñas con 4,2/5, ticket oficial vendido directamente por FC Barcelona. El producto agrupa el Barça Immersive Tour básico con tres extras premium: Robokeeper (3 tiros contra un portero robótico), experiencia VR Barça Virtual Dream y una foto de memoria digital. El formato añade aproximadamente 21 € sobre el ticket básico (49 € vs 28 €) y 30-45 min de tiempo de actividad.
 
 
-  **Comparación de precios:** la web oficial de FC Barcelona (`fcbarcelona.com`) vende el «Sports Xperience» a **49 €**. GetYourGuide
-  vende el equivalente a ~54 € (~$59) — 5 € más por servicio de plataforma. Como siempre con los productos de FC Barcelona,
-  la web oficial es el canal más barato.
+  **Comparación de precios:** la web oficial de FC Barcelona (`fcbarcelona.com`) vende el «Sports Xperience» a **49 €**. GetYourGuide vende el equivalente a ~54 € (~$59) — 5 € más por servicio de plataforma. Como siempre con los productos de FC Barcelona, la web oficial es el canal más barato.
 
 
-  Dos notas operativas: **(1)** la VR + sala 360° tienen luces parpadeantes — NO recomendado para epilepsia ni fotosensibilidad.
-  **(2)** en horas pico (fines de semana, festivos), el Robokeeper puede tener colas de 15-20 min — visita temprano o última
-  hora de la tarde para minimizar la espera. La Memoria Digital es una sola foto, útil como recuerdo pero no un gran atractivo.
+  Dos notas operativas: **(1)** la VR + sala 360° tienen luces parpadeantes — NO recomendado para epilepsia ni fotosensibilidad. **(2)** en horas pico (fines de semana, festivos), el Robokeeper puede tener colas de 15-20 min — visita temprano o última hora de la tarde para minimizar la espera. La Memoria Digital es una sola foto, útil como recuerdo pero no un gran atractivo.
 
 
-  Para quién es: familias con niños 6-14 (Robokeeper + VR añaden diversión significativa para ellos), fans incondicionales
-  del Barça queriendo la experiencia completa, compradores de regalos (esta es una experiencia más «especial» que el ticket
-  básico) y visitantes que quieran VR + extras interactivos al margen de la afiliación de marca. Para quién NO: visitantes
-  adultos casuales (el ticket básico t449261 a 28 € cubre lo que quieren la mayoría de adultos), afectados por epilepsia/fotosensibilidad
-  (VR + 360° son intensos), viajeros con prisa (los extras añaden 30-45 min mínimo) y viajeros con presupuesto justo (49 €
-  es significativo y el ticket básico entrega el 80% del valor).
+  Para quién es: familias con niños 6-14 (Robokeeper + VR añaden diversión significativa para ellos), fans incondicionales del Barça queriendo la experiencia completa, compradores de regalos (esta es una experiencia más «especial» que el ticket básico) y visitantes que quieran VR + extras interactivos al margen de la afiliación de marca. Para quién NO: visitantes adultos casuales (el ticket básico t449261 a 28 € cubre lo que quieren la mayoría de adultos), afectados por epilepsia/fotosensibilidad (VR + 360° son intensos), viajeros con prisa (los extras añaden 30-45 min mínimo) y viajeros con presupuesto justo (49 € es significativo y el ticket básico entrega el 80% del valor).
 
   '
 atraccionesRelacionadas:
@@ -132,25 +99,33 @@ keywords:
 - barca robokeeper
 - camp nou virtual dream
 - fc barcelona pase premium
-imagen: "/images/actividades/barcelona/camp-nou/16979312785855-hero.webp"
-imagenAlt: Vista aérea de Barcelona con arquitectura urbana y espacios verdes desde perspectiva de pájaro
+imagen: /images/actividades/barcelona/camp-nou/16979312785855-hero.webp
+imagenAlt: Vista aérea nocturna del Spotify Camp Nou iluminado
 galeria:
+- src: /images/actividades/barcelona/camp-nou/museo-barca-copas-champions.webp
+  alt: Vitrina con las Copas de Europa en el Museo del FC Barcelona
 - src: /images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp
-  alt: "Estatua de Kubala en el exterior del Camp Nou"
+  alt: Estatua de Kubala en el exterior del Camp Nou
+- src: /images/actividades/barcelona/camp-nou/museo-barca-sala-visitantes.webp
+  alt: Visitantes recorriendo las salas del Museo del FC Barcelona
 - src: /images/actividades/barcelona/camp-nou/images-hero.webp
-  alt: "Terreno de juego del Camp Nou visto desde lo alto"
+  alt: Terreno de juego del Camp Nou visto desde lo alto
+- src: /images/actividades/barcelona/camp-nou/museo-barca-vitrina-trofeos.webp
+  alt: Vitrina de trofeos del Museo del FC Barcelona
 - src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp
-  alt: "Gradas del Camp Nou con las letras del FC Barcelona"
+  alt: Gradas del Camp Nou con las letras del FC Barcelona
+- src: /images/actividades/barcelona/camp-nou/robokeeper-penalti.webp
+  alt: Un visitante lanza un penalti a un RoboKeeper, el portero robot
 - src: /images/actividades/barcelona/camp-nou/694f98298d5cb-hero.webp
-  alt: "Recreación del Spotify Camp Nou iluminado de noche"
+  alt: Recreación del Spotify Camp Nou iluminado de noche
 - src: /images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye-SCN-Sud.tmedium-hero.webp
-  alt: "Spotify Camp Nou visto desde el aire de día"
+  alt: Vista aérea del nuevo Spotify Camp Nou
 ratingProveedor: 4.2
 numeroOpiniones: 979
 publicada: true
 destacada: false
 fecha: '2026-05-17'
-fecha_actualizacion: '2026-05-17'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

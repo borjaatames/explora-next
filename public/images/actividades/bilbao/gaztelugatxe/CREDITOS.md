@@ -8,3 +8,4 @@
 - `puerto-mundaka.webp` — Jules Verne Times Two, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Boats_at_the_Mundaka_Port%2C_Mundaka%2C_Spain_%28PPL3-Altered%29_julesvernex2.jpg) · recortada a 1600×1200
 - `arbol-gernika.webp` — Roberto Chamoso G, CC BY-SA 3.0 es, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Arbol_de_Gernika_y_La_Tribuna._Casa_de_Juntas_de_Gernika-Gernikako_Batzarretxea._Gernika-Lumo%2C_Vizcaya-Bizkaia..JPG) · recortada a 1600×1200
 - `camino-piedra-atardecer.webp` — Pexels, Alejandro De Roa (Licencia Pexels) — https://www.pexels.com/photo/sunset-over-scenic-coastal-path-at-gaztelugatxe-29809979/
+- `mural-guernica-gernika.webp` — Rob Oo · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:We_remember_and_we_forget.jpg

@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Fuerteventura: Magic Select catamaran with food and drinks'
 slug: morro-jable-catamaran-lunch-drinks
 ciudad: fuerteventura
-descripcion: '4-hour trip on the Magic Select catamaran from Morro Jable along the south coast of Jandía, with dolphin spotting, a swim stop, a meal on board and open bar of wine, beer and soft drinks. Rated 4.4/5 from almost 1,800 reviews.'
+descripcion: 4-hour trip on the Magic Select catamaran from Morro Jable along the south coast of Jandía, with dolphin spotting, a swim stop, a meal on board and open bar of wine, beer and soft drinks. Rated 4.4/5 from almost 1,800 reviews.
 slugs:
   es: catamaran-comida-bebida-morro-jable
   en: morro-jable-catamaran-lunch-drinks
@@ -62,12 +62,12 @@ preguntasFrecuentes:
 - pregunta: What's served on board?
   respuesta: The published menu is chicken mozárabe with rice and vegetables, with an open bar of water, soft drinks, beer and wine.
 - pregunta: How is the time split?
-  respuesta: "According to the itinerary: an hour and a half looking for dolphins, 30 minutes swimming, an hour for the meal and an hour of sailing."
+  respuesta: 'According to the itinerary: an hour and a half looking for dolphins, 30 minutes swimming, an hour for the meal and an hour of sailing.'
 - pregunta: Are dolphins guaranteed?
   respuesta: No, they're wild animals. The operator notes that more than 29 cetacean species have been identified in Canary waters, but sightings aren't guaranteed.
 - pregunta: Where is pickup?
   respuesta: Costa Calma, Esquinzo, Jandía and Morro Jable, at points close to the hotels.
-opinionEditorial: "It's the all-in option in the south: four hours with food, drinks and a swim, compared with two hours on the dolphin boat that also leaves from Morro Jable. It's worth it if you want the boat to be your plan for the day; if you only want to see dolphins, the short trip is cheaper. Check the wind: in rough seas it's far less enjoyable."
+opinionEditorial: 'It''s the all-in option in the south: four hours with food, drinks and a swim, compared with two hours on the dolphin boat that also leaves from Morro Jable. It''s worth it if you want the boat to be your plan for the day; if you only want to see dolphins, the short trip is cheaper. Check the wind: in rough seas it''s far less enjoyable.'
 guiasRelacionadas:
 - what-to-see-in-fuerteventura
 - cofete-villa-winter-how-to-get-there
@@ -78,18 +78,26 @@ keywords:
 - jandia boat trip with lunch
 - fuerteventura dolphin catamaran
 imagen: /images/actividades/fuerteventura/catamaran-morrojable.webp
-imagenAlt: "Catamaran sailing off the Jandía coast"
+imagenAlt: Catamaran sailing off the Jandía coast
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/jandia-costa.webp"
-  alt: "The Jandía coast with the lighthouse in the distance"
-- src: "/images/actividades/fuerteventura/zonas/morro-jable-playa.webp"
-  alt: "Morro Jable and Matorral beach seen from the hills"
-- src: "/images/actividades/fuerteventura/zonas/macizo-jandia.webp"
-  alt: "The Jandía massif with clouds over the peaks"
-- src: "/images/actividades/fuerteventura/zonas/costa-jandia.webp"
-  alt: "Jandía's windward coast"
-- src: "/images/actividades/fuerteventura/zonas/faro-matorral.webp"
-  alt: "Morro Jable lighthouse among the salt-marsh scrub"
+- src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
+  alt: Dolphins swimming next to a boat off Morro Jable
+- src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
+  alt: The Jandía coast with the lighthouse in the distance
+- src: /images/actividades/fuerteventura/catamaran-morro-jable/comida-servida-a-bordo.webp
+  alt: Tray of food served to passengers at a boat table
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: Morro Jable and Matorral beach seen from the hills
+- src: /images/actividades/fuerteventura/catamaran-morro-jable/copa-espumoso-a-bordo-catamaran.webp
+  alt: Glass of sparkling wine on the deck of a sailing catamaran
+- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
+  alt: The Jandía massif with clouds over the peaks
+- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
+  alt: Swimmers in the water next to an anchored boat
+- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
+  alt: Jandía's windward coast
+- src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
+  alt: Morro Jable lighthouse among the salt-marsh scrub
 ratingProveedor: 4.4
 numeroOpiniones: 1786
 atraccionesRelacionadas:
@@ -97,7 +105,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

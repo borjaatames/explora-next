@@ -72,12 +72,20 @@ keywords:
 imagen: /images/actividades/mallorca/calo-des-moro/calo-des-moro-01.webp
 imagenAlt: Aguas turquesa de Caló des Moro
 galeria:
+- src: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
+  alt: Barco de excursión fondeado con bañistas en el agua, visto desde el aire
 - src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-02.webp
   alt: Vista de la bahía de Caló des Moro
+- src: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
+  alt: Bañista con máscara de esnórquel en agua transparente del Mediterráneo
 - src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-03.webp
   alt: Bañistas en Caló des Moro
+- src: /images/actividades/mallorca/calo-des-moro/velero-cala-llombards.webp
+  alt: Velero fondeado al amanecer en la bahía de Cala Llombards, junto a Caló des Moro
 - src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-04.webp
   alt: Playa de Caló des Moro entre rocas
+- src: /images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp
+  alt: Bañistas en el agua transparente de Caló des Moro
 - src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-05.webp
   alt: Caló des Moro entre pinos
 - src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-06.webp
@@ -91,7 +99,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué verás

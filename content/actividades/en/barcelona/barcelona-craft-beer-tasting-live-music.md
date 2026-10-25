@@ -79,10 +79,16 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/noche/musica-directo-bar-guitarra.webp
+  alt: Guitarist singing live in a bar in front of the audience
 - src: /images/actividades/barcelona/cerveza/grifos-cerveza-bar.webp
   alt: Craft beer bar with a long row of taps
+- src: /images/actividades/barcelona/noche/karaoke-amigos-bar.webp
+  alt: Friends singing karaoke with a microphone in a bar
 - src: /images/actividades/barcelona/proveedor-1242119/prov-brindis-cerveza.webp
   alt: Guests tasting craft beer at the bar
+- src: /images/actividades/barcelona/proveedor-1229842/prov-karaoke.webp
+  alt: Karaoke in a bar in Barcelona
 - src: /images/actividades/barcelona/cerveza/cata-cerveza-tabla.webp
   alt: Tasting paddle with craft beers of different styles
 - src: /images/actividades/barcelona/noche/barcelona-noche-torre-glories.webp
@@ -96,7 +102,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/0a10d67e-799b-4a5c-b1f6-cca82843c5f5.jpeg
   alt: Glass of craft beer
 bokunProductId: 1242119
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## How it works

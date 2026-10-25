@@ -2,7 +2,7 @@
 titulo: 'Gran Canaria: paseo a caballo por una ruta volcánica'
 slug: paseo-caballo-ruta-volcanica-gran-canaria
 ciudad: gran-canaria
-descripcion: "Paseo a caballo de 1 o 2 horas desde el rancho de El Salobre por pistas volcánicas del sur de Gran Canaria, con traslado opcional. 4,5/5 con 2.557 reseñas."
+descripcion: Paseo a caballo de 1 o 2 horas desde el rancho de El Salobre por pistas volcánicas del sur de Gran Canaria, con traslado opcional. 4,5/5 con 2.557 reseñas.
 slugs:
   es: paseo-caballo-ruta-volcanica-gran-canaria
   en: gran-canaria-volcanic-horse-riding
@@ -34,7 +34,7 @@ noIncluye:
 - Botas de montar (se alquilan en el rancho)
 - Comida y bebida
 puntoEncuentro:
-  texto: 'Rancho El Salobre Horse Riding, El Salobre (San Bartolomé de Tirajana).'
+  texto: Rancho El Salobre Horse Riding, El Salobre (San Bartolomé de Tirajana).
   descripcionGuia: Si no reservas la opción con traslado, ve por tu cuenta al centro hípico El Salobre Horse Riding. La recogida en hotel solo está disponible en algunas zonas y según disponibilidad.
   latitud: 27.7827
   longitud: -15.6317
@@ -78,9 +78,11 @@ keywords:
 - rutas a caballo maspalomas
 - el salobre caballos
 - excursion a caballo gran canaria
-imagen: "/images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp"
-imagenAlt: "Barranco y montañas del sur de Gran Canaria"
+imagen: /images/actividades/gran-canaria/caballo/jinetes-campo-seco.webp
+imagenAlt: Grupo de jinetes a caballo por un campo seco con montañas al fondo
 galeria:
+- src: /images/actividades/gran-canaria/caballo/caballos-canon-roca.webp
+  alt: Paseo a caballo entre paredes de roca volcánica
 ratingProveedor: 4.5
 numeroOpiniones: 2557
 atraccionesRelacionadas:
@@ -88,7 +90,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

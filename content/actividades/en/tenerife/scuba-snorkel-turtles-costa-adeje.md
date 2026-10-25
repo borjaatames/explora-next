@@ -1,45 +1,45 @@
 ---
-titulo: "Costa Adeje: try scuba and snorkel with turtles"
-slug: "scuba-snorkel-turtles-costa-adeje"
-ciudad: "tenerife"
-descripcion: "First dive to 12 m with one PADI instructor per 2 people, plus snorkelling in a turtle area, by speedboat from Puerto Colón. Rated 4.7/5 on GetYourGuide."
+titulo: 'Costa Adeje: try scuba and snorkel with turtles'
+slug: scuba-snorkel-turtles-costa-adeje
+ciudad: tenerife
+descripcion: First dive to 12 m with one PADI instructor per 2 people, plus snorkelling in a turtle area, by speedboat from Puerto Colón. Rated 4.7/5 on GetYourGuide.
 slugs:
-  es: "buceo-esnorquel-tortugas-costa-adeje"
-  en: "scuba-snorkel-turtles-costa-adeje"
-duracion: "3 hours"
+  es: buceo-esnorquel-tortugas-costa-adeje
+  en: scuba-snorkel-turtles-costa-adeje
+duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 75
-moneda: "EUR"
+moneda: EUR
 idiomas:
-  - "en"
-  - "es"
-  - "it"
-  - "fr"
-  - "ru"
-  - "nl"
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/en-us/activity-t105191/?partner_id=C71NOAW"
+- en
+- es
+- it
+- fr
+- ru
+- nl
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/en-us/activity-t105191/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-  - "Try dive to 12 m with no previous experience"
-  - "One PADI instructor for every 2 divers"
-  - "Snorkelling in an area turtles frequent"
-  - "PADI 5-star centre in Puerto Colón"
-  - "Groups of 10 people at most"
+- Try dive to 12 m with no previous experience
+- One PADI instructor for every 2 divers
+- Snorkelling in an area turtles frequent
+- PADI 5-star centre in Puerto Colón
+- Groups of 10 people at most
 incluye:
-  - "Speedboat to the dive site and back"
-  - "One dive to 12 m with a PADI instructor"
-  - "Snorkelling for the rest of the activity"
-  - "Diving and snorkelling gear (wetsuit, fins, mask)"
-  - "Prescription masks, towels and swimwear"
-  - "Full insurance"
-  - "Water"
+- Speedboat to the dive site and back
+- One dive to 12 m with a PADI instructor
+- Snorkelling for the rest of the activity
+- Diving and snorkelling gear (wetsuit, fins, mask)
+- Prescription masks, towels and swimwear
+- Full insurance
+- Water
 noIncluye:
-  - "Hotel pickup (not mentioned on the listing)"
+- Hotel pickup (not mentioned on the listing)
 puntoEncuentro:
-  texto: "Travel Sub Dive Center, Escuela Náutica building, opposite pier 5, Puerto Colón (Costa Adeje)."
-  descripcionGuia: "Reception is in the Escuela Náutica building, inside Puerto Colón's private car park, opposite pier 5. There's a large sign at the entrance."
+  texto: Travel Sub Dive Center, Escuela Náutica building, opposite pier 5, Puerto Colón (Costa Adeje).
+  descripcionGuia: Reception is in the Escuela Náutica building, inside Puerto Colón's private car park, opposite pier 5. There's a large sign at the entrance.
   latitud: 28.0773
   longitud: -16.7364
   zoom: 17
@@ -51,55 +51,61 @@ detallesPracticos:
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
-    - "Towel and flip-flops"
-    - "Hat and sunscreen"
-    - "Contact lenses if you wear glasses"
-    - "ID or passport for under-18s"
+  - Towel and flip-flops
+  - Hat and sunscreen
+  - Contact lenses if you wear glasses
+  - ID or passport for under-18s
   noAptoPara:
-    - "Children under 8 and people over 70"
-    - "Pregnant women"
-    - "People with heart or breathing conditions, epilepsy or diabetes"
+  - Children under 8 and people over 70
+  - Pregnant women
+  - People with heart or breathing conditions, epilepsy or diabetes
   aTenerEnCuenta:
-    - "Don't fly or go up Teide for 12 hours after diving"
-    - "Children aged 8 to 17 must be with an adult who also pays for the activity"
-    - "Turtle sightings aren't guaranteed"
-    - "You can't dive in glasses: wear contacts or use a prescription mask"
-accesibilidad: "GetYourGuide lists it as wheelchair accessible; for the dive itself, discuss your case with the centre before booking."
-politicaCancelacion: "Free cancellation up to 24 hours before, with a full refund."
+  - Don't fly or go up Teide for 12 hours after diving
+  - Children aged 8 to 17 must be with an adult who also pays for the activity
+  - Turtle sightings aren't guaranteed
+  - 'You can''t dive in glasses: wear contacts or use a prescription mask'
+accesibilidad: GetYourGuide lists it as wheelchair accessible; for the dive itself, discuss your case with the centre before booking.
+politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
-  - pregunta: "Do I need to know how to dive?"
-    respuesta: "No. It's a try dive for beginners: you get a 30-minute briefing and go down with one PADI instructor for every two people."
-  - pregunta: "Can I go up Teide the same day?"
-    respuesta: "No. After diving you must wait at least 12 hours before flying or going to high altitude."
-  - pregunta: "Will I definitely see turtles?"
-    respuesta: "It isn't guaranteed, although the area is a regular spot for them. You'll also see fish and rays."
-  - pregunta: "Can children take part?"
-    respuesta: "From age 8, accompanied by an adult who also does the activity."
-opinionEditorial: "A good way to try diving for the first time in Tenerife: a short, shallow dive, one instructor for two people and snorkelling afterwards for anyone who'd rather not go down again. Keep the 12-hour rule in mind if you plan to go up Teide or catch a flight, and note that pre-existing medical conditions will rule you out."
+- pregunta: Do I need to know how to dive?
+  respuesta: 'No. It''s a try dive for beginners: you get a 30-minute briefing and go down with one PADI instructor for every two people.'
+- pregunta: Can I go up Teide the same day?
+  respuesta: No. After diving you must wait at least 12 hours before flying or going to high altitude.
+- pregunta: Will I definitely see turtles?
+  respuesta: It isn't guaranteed, although the area is a regular spot for them. You'll also see fish and rays.
+- pregunta: Can children take part?
+  respuesta: From age 8, accompanied by an adult who also does the activity.
+opinionEditorial: 'A good way to try diving for the first time in Tenerife: a short, shallow dive, one instructor for two people and snorkelling afterwards for anyone who''d rather not go down again. Keep the 12-hour rule in mind if you plan to go up Teide or catch a flight, and note that pre-existing medical conditions will rule you out.'
 guiasRelacionadas:
-  - "what-to-see-in-tenerife"
-categoria: "excursionesDia"
+- what-to-see-in-tenerife
+categoria: excursionesDia
 keywords:
-  - "try dive tenerife"
-  - "diving with turtles tenerife"
-  - "snorkelling costa adeje"
-  - "diving puerto colon"
-  - "beginner scuba tenerife"
-imagen: "/images/actividades/tenerife/costa-adeje/costa-rocosa.webp"
-imagenAlt: "Rocky volcanic shoreline in Costa Adeje"
+- try dive tenerife
+- diving with turtles tenerife
+- snorkelling costa adeje
+- diving puerto colon
+- beginner scuba tenerife
+imagen: /images/actividades/tenerife/costa-adeje/buceador-fondo-volcanico.webp
+imagenAlt: Scuba diver over a rocky seabed in clear blue water
 galeria:
-  - src: "/images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp"
-    alt: "Costa Adeje beach with the mountains behind"
-  - src: "/images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp"
-    alt: "View of the Costa Adeje coastline"
+- src: /images/actividades/tenerife/costa-adeje/tortugas-fondo-rocoso.webp
+  alt: Two sea turtles swimming over a rocky seabed
+- src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
+  alt: Rocky volcanic shoreline in Costa Adeje
+- src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
+  alt: Person snorkelling in clear blue water
+- src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
+  alt: Costa Adeje beach with the mountains behind
+- src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
+  alt: View of the Costa Adeje coastline
 ratingProveedor: 4.7
 numeroOpiniones: 2025
 atraccionesRelacionadas:
-  - "mar"
+- mar
 publicada: true
 destacada: false
-fecha: "2026-10-24"
-fecha_actualizacion: "2026-10-24"
+fecha: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

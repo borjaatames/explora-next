@@ -2,8 +2,7 @@
 titulo: Tour privado de la Alhambra y los Palacios Nazaríes
 slug: alhambra-tour-privado
 ciudad: granada
-descripcion: Tour privado de 3 horas por la Alhambra, los Palacios Nazaríes, la Alcazaba y el Generalife con guía en exclusiva,
-  entrada sin colas y ritmo a tu medida.
+descripcion: Tour privado de 3 horas por la Alhambra, los Palacios Nazaríes, la Alcazaba y el Generalife con guía en exclusiva, entrada sin colas y ritmo a tu medida.
 slugs:
   es: alhambra-tour-privado
   en: alhambra-private-tour
@@ -38,9 +37,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Zona de acceso a la Alhambra (el punto exacto se confirma según el idioma reservado)
-  descripcionGuia: El punto de encuentro varía según el idioma del tour privado que reserves, pero todas las variantes están
-    en la zona de acceso y taquillas de la Alhambra. El operador confirma la ubicación exacta en la reserva. Llega 15 minutos
-    antes.
+  descripcionGuia: El punto de encuentro varía según el idioma del tour privado que reserves, pero todas las variantes están en la zona de acceso y taquillas de la Alhambra. El operador confirma la ubicación exacta en la reserva. Llega 15 minutos antes.
   latitud: 37.1743
   longitud: -3.584
   zoom: 16
@@ -60,50 +57,31 @@ informacionImportante:
   - El acceso a los Palacios Nazaríes tiene una hora de entrada específica que marca el Patronato
   - 'La entrada es nominativa: hay que dar los datos de todos los participantes al reservar'
   - El precio es por persona; al ser privado, el coste por cabeza baja cuanto más grande es el grupo
-accesibilidad: El operador indica expresamente que esta visita NO es apta para personas con problemas de movilidad ni en silla
-  de ruedas. Si necesitas accesibilidad, esta no es la opción adecuada.
-politicaCancelacion: 'Cancelación hasta 24 horas antes con reembolso del 50 %. No es cancelación gratuita: la Alhambra no
-  devuelve las entradas al operador, así que el reembolso es parcial, incluso en un tour privado. Es lo habitual en las visitas
-  a la Alhambra.'
+accesibilidad: El operador indica expresamente que esta visita NO es apta para personas con problemas de movilidad ni en silla de ruedas. Si necesitas accesibilidad, esta no es la opción adecuada.
+politicaCancelacion: 'Cancelación hasta 24 horas antes con reembolso del 50 %. No es cancelación gratuita: la Alhambra no devuelve las entradas al operador, así que el reembolso es parcial, incluso en un tour privado. Es lo habitual en las visitas a la Alhambra.'
 preguntasFrecuentes:
 - pregunta: ¿Por qué cuesta 280 € si otras visitas están en 50-99 €?
-  respuesta: 'Porque es un tour privado: el guía es solo para ti y tu grupo, no se comparte con nadie. El precio mostrado
-    es por persona, pero al ser exclusivo, el coste por cabeza baja cuanto más numeroso es el grupo. Si vais cuatro o más,
-    la diferencia con un grupo reducido se acorta bastante; si viajas solo o en pareja, es un extra considerable.'
+  respuesta: 'Porque es un tour privado: el guía es solo para ti y tu grupo, no se comparte con nadie. El precio mostrado es por persona, pero al ser exclusivo, el coste por cabeza baja cuanto más numeroso es el grupo. Si vais cuatro o más, la diferencia con un grupo reducido se acorta bastante; si viajas solo o en pareja, es un extra considerable.'
 - pregunta: ¿Qué gano frente a un grupo reducido?
-  respuesta: Control total del ritmo. Te detienes donde quieras, preguntas sin límite, ajustas la visita a lo que te interesa
-    y no dependes del ritmo de un grupo. Es la diferencia entre una buena visita guiada y una visita hecha a tu medida. Si
-    esa flexibilidad no te compensa el precio, un grupo reducido cubre el mismo recorrido.
+  respuesta: Control total del ritmo. Te detienes donde quieras, preguntas sin límite, ajustas la visita a lo que te interesa y no dependes del ritmo de un grupo. Es la diferencia entre una buena visita guiada y una visita hecha a tu medida. Si esa flexibilidad no te compensa el precio, un grupo reducido cubre el mismo recorrido.
 - pregunta: ¿Es accesible para personas con movilidad reducida?
-  respuesta: No. El operador indica expresamente que la visita no es apta para personas con problemas de movilidad ni en silla
-    de ruedas. Aunque sea un tour privado, el recorrido por el recinto no está adaptado en esta modalidad.
+  respuesta: No. El operador indica expresamente que la visita no es apta para personas con problemas de movilidad ni en silla de ruedas. Aunque sea un tour privado, el recorrido por el recinto no está adaptado en esta modalidad.
 - pregunta: ¿En qué idiomas está disponible?
-  respuesta: En español, inglés, alemán, francés e italiano. Al ser un tour privado, el guía dedica todo el tiempo a tu grupo
-    en el idioma que elijas, sin alternar ni compartir con otros visitantes.
+  respuesta: En español, inglés, alemán, francés e italiano. Al ser un tour privado, el guía dedica todo el tiempo a tu grupo en el idioma que elijas, sin alternar ni compartir con otros visitantes.
 - pregunta: ¿La cancelación es gratuita al ser privado?
-  respuesta: No. El reembolso sigue siendo del 50 % hasta 24 horas antes, igual que en las visitas de grupo. La parte no reembolsable
-    es la entrada a la Alhambra, que el Patronato no devuelve al operador; eso no cambia por ser un tour privado.
+  respuesta: No. El reembolso sigue siendo del 50 % hasta 24 horas antes, igual que en las visitas de grupo. La parte no reembolsable es la entrada a la Alhambra, que el Patronato no devuelve al operador; eso no cambia por ser un tour privado.
 variantes:
 - alhambra-grupo-reducido
 - alhambra-tour-guiado-con-entradas
 - visita-guiada-alhambra-generalife
-avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
-opinionEditorial: 'Es la opción premium del comparador, y la pregunta clave es sencilla: ¿te compensan 280 € por persona tener
-  la Alhambra a tu ritmo? Con un guía en exclusiva te detienes donde quieras, preguntas sin límite y ajustas la visita a lo
-  que de verdad te interesa. La nota lo respalda —4,9 sobre 5, de las más altas del catálogo—, pero el precio es el más alto
-  con diferencia.
+avisoReserva: Las entradas de la Alhambra se agotan con semanas de antelación
+opinionEditorial: 'Es la opción premium del comparador, y la pregunta clave es sencilla: ¿te compensan 280 € por persona tener la Alhambra a tu ritmo? Con un guía en exclusiva te detienes donde quieras, preguntas sin límite y ajustas la visita a lo que de verdad te interesa. La nota lo respalda —4,9 sobre 5, de las más altas del catálogo—, pero el precio es el más alto con diferencia.
 
 
-  El matiz importante está en cómo se calcula ese precio: es **por persona**, pero al ser un tour privado el coste por cabeza
-  baja cuanto más grande es el grupo. Para una familia de cuatro o un grupo de amigos, la distancia con un grupo reducido
-  se acorta bastante. Para quien viaja solo o en pareja, 280 € por cabeza es un salto considerable que solo tiene sentido
-  si la exclusividad es una prioridad real.
+  El matiz importante está en cómo se calcula ese precio: es **por persona**, pero al ser un tour privado el coste por cabeza baja cuanto más grande es el grupo. Para una familia de cuatro o un grupo de amigos, la distancia con un grupo reducido se acorta bastante. Para quien viaja solo o en pareja, 280 € por cabeza es un salto considerable que solo tiene sentido si la exclusividad es una prioridad real.
 
 
-  Dos avisos honestos antes de reservar. El operador indica expresamente que **no es apta para personas con movilidad reducida
-  ni en silla de ruedas** —ser privado no lo cambia—. Y la **cancelación sigue siendo del 50 %**: la entrada de la Alhambra
-  no es reembolsable ni en un privado. Con eso claro, si buscas la mejor experiencia posible y el presupuesto lo permite,
-  es la opción más completa del comparador.
+  Dos avisos honestos antes de reservar. El operador indica expresamente que **no es apta para personas con movilidad reducida ni en silla de ruedas** —ser privado no lo cambia—. Y la **cancelación sigue siendo del 50 %**: la entrada de la Alhambra no es reembolsable ni en un privado. Con eso claro, si buscas la mejor experiencia posible y el presupuesto lo permite, es la opción más completa del comparador.
 
   '
 atraccionesRelacionadas:
@@ -115,7 +93,7 @@ keywords:
 - visita privada palacios nazaries
 - alhambra a tu ritmo
 - alhambra tour privado granada
-imagen: "/images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp"
+imagen: /images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp
 imagenAlt: Patio de la Alhambra con palmeras reflejadas en una acequia
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
@@ -125,13 +103,13 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-pavillon-cour-des-lions-spain-hero.webp
   alt: Arcos y columnas de un patio de los Palacios Nazaríes
 - src: /images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra destacando en las montañas
+  alt: Galería de columnas del Patio de los Leones
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
   alt: Patio de los Leones en los Palacios Nazaries de la Alhambra, con su fuente central y galeria de columnas
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
   alt: Patio con agua y vegetación en el Generalife de la Alhambra
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp
-  alt: Patio de los Leones de la Alhambra de Granada con arquitectura islámica medieval y fuente central
+  alt: Arcos con yeserías nazaríes en la Alhambra
 - src: /images/actividades/granada/alhambra-granada/wikimedia-22204352-hero.webp
   alt: Vista de la Alhambra y el barrio del Albaicín en Granada
 - src: /images/actividades/granada/alhambra/alhambra-granada-coa-nasrid-kings-spain-hero.webp
@@ -148,8 +126,9 @@ publicada: true
 destacada: false
 fecha: '2026-05-14'
 guiasRelacionadas:
-  - "alhambra-como-visitar"
-  - "alhambra-que-tour-elegir"
+- alhambra-como-visitar
+- alhambra-que-tour-elegir
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

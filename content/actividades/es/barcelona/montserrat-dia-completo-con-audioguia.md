@@ -1,125 +1,118 @@
 ---
-titulo: "Montserrat de día completo con tren cremallera y audioguía"
-slug: "montserrat-dia-completo-con-audioguia"
-ciudad: "barcelona"
-descripcion: "Excursión de 7 horas con bus, tren cremallera, visita guiada a la Abadía Benedictina y audioguía incluida. Opción Escolanía o Museo según disponibilidad."
-
+titulo: Montserrat de día completo con tren cremallera y audioguía
+slug: montserrat-dia-completo-con-audioguia
+ciudad: barcelona
+descripcion: Excursión de 7 horas con bus, tren cremallera, visita guiada a la Abadía Benedictina y audioguía incluida. Opción Escolanía o Museo según disponibilidad.
 slugs:
-  es: "montserrat-dia-completo-con-audioguia"
-  en: "montserrat-full-day-with-audio-guide"
-
-duracion: "7 horas"
+  es: montserrat-dia-completo-con-audioguia
+  en: montserrat-full-day-with-audio-guide
+duracion: 7 horas
 duracionMinutos: 420
 precioDesde: 42
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/barcelona-l45/montserrat-full-day-tour-with-optional-tickets-t243552/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/barcelona-l45/montserrat-full-day-tour-with-optional-tickets-t243552/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Bus + tren cremallera + visita guiada en español o inglés"
-  - "Audioguía incluida en español e inglés para que vayas a tu ritmo"
-  - "Opción de Escolanía (coro de niños) o Museo de Montserrat según día"
-  - "Acceso a la basílica con vista a la Moreneta (si seleccionas esa opción)"
-
+- Bus + tren cremallera + visita guiada en español o inglés
+- Audioguía incluida en español e inglés para que vayas a tu ritmo
+- Opción de Escolanía (coro de niños) o Museo de Montserrat según día
+- Acceso a la basílica con vista a la Moreneta (si seleccionas esa opción)
 incluye:
-  - "Visita guiada a Montserrat"
-  - "Tiempo libre en Montserrat"
-  - "Billete del tren cremallera al monasterio"
-  - "Audioguía en español e inglés"
-  - "Acceso a la basílica desde donde verás a la Moreneta (si se selecciona la opción)"
-  - "Actuación coral de la Escolanía o entrada al Museo de Montserrat (si se selecciona la opción)"
-
+- Visita guiada a Montserrat
+- Tiempo libre en Montserrat
+- Billete del tren cremallera al monasterio
+- Audioguía en español e inglés
+- Acceso a la basílica desde donde verás a la Moreneta (si se selecciona la opción)
+- Actuación coral de la Escolanía o entrada al Museo de Montserrat (si se selecciona la opción)
 noIncluye:
-  - "El almuerzo"
-  - "Servicio de recogida y regreso del hotel"
-
+- El almuerzo
+- Servicio de recogida y regreso del hotel
 puntoEncuentro:
-  texto: "Estació Barcelona Nord, Nàpols 68, 08018 Barcelona"
-  descripcionGuia: "Comprueba el número de andén en las pantallas dentro de la estación. Llega con tiempo: la salida es puntual."
-  latitud: 41.3950
-  longitud: 2.1830
+  texto: Estació Barcelona Nord, Nàpols 68, 08018 Barcelona
+  descripcionGuia: 'Comprueba el número de andén en las pantallas dentro de la estación. Llega con tiempo: la salida es puntual.'
+  latitud: 41.395
+  longitud: 2.183
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo"
-    - "Ropa adecuada al clima (más fresco que Barcelona)"
-    - "Documento de identidad"
+  - Calzado cómodo
+  - Ropa adecuada al clima (más fresco que Barcelona)
+  - Documento de identidad
   noAptoPara:
-    - "Personas con movilidad reducida"
+  - Personas con movilidad reducida
   aTenerEnCuenta:
-    - "La Escolanía actúa solo de lunes a viernes durante el periodo escolar. Cuando no esté programada actuación, se incluye acceso al Museo de Montserrat"
-    - "La opción con Escolanía no está disponible en verano ni durante giras del coro"
-    - "Las opciones del tour se eligen al reservar"
-
-accesibilidad: "Tour con recorridos a pie y subida en cremallera. No accesible para sillas de ruedas."
-
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso completo."
-
+  - La Escolanía actúa solo de lunes a viernes durante el periodo escolar. Cuando no esté programada actuación, se incluye acceso al Museo de Montserrat
+  - La opción con Escolanía no está disponible en verano ni durante giras del coro
+  - Las opciones del tour se eligen al reservar
+accesibilidad: Tour con recorridos a pie y subida en cremallera. No accesible para sillas de ruedas.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
 preguntasFrecuentes:
-  - pregunta: "¿Cómo funciona la audioguía?"
-    respuesta: "Te la entregan al iniciar el tour o accedes a una app. La usas durante el tiempo libre o como complemento al guía oficial. Está disponible en español e inglés. Es útil para profundizar en partes que el guía pasa rápido."
-  - pregunta: "¿Y la Escolanía?"
-    respuesta: "Es el coro de niños cantores más antiguo de Europa (siglo XIV). Actúa los días lectivos sobre las 13:00. Si tu reserva incluye la opción Escolanía y caes en día sin actuación, te incluyen entrada al Museo de Montserrat como compensación."
-  - pregunta: "¿Cuál es la diferencia con la opción Julià Travel?"
-    respuesta: "Esta dura 7 horas (frente a 5-7 de Julià) y suele incluir más tiempo libre. La audioguía es propia de esta variante. El operador (Catalunya Bus Turístic) es distinto pero el formato general es similar. Para una primera visita ambos son comparables."
-  - pregunta: "¿Está incluida la Moreneta?"
-    respuesta: "Sí, si seleccionas la opción «con Moreneta» al reservar. Hay variantes solo con basílica (sin Moreneta) para quien no quiere ese extra."
-  - pregunta: "¿Qué hago durante el tiempo libre?"
-    respuesta: "Lo típico: entrar a la basílica, subir al funicular de Sant Joan (extra), comer algo en el bufé con vistas, visitar el museo, hacer una ruta corta de senderismo o pasear por el mercado de productos locales."
-
+- pregunta: ¿Cómo funciona la audioguía?
+  respuesta: Te la entregan al iniciar el tour o accedes a una app. La usas durante el tiempo libre o como complemento al guía oficial. Está disponible en español e inglés. Es útil para profundizar en partes que el guía pasa rápido.
+- pregunta: ¿Y la Escolanía?
+  respuesta: Es el coro de niños cantores más antiguo de Europa (siglo XIV). Actúa los días lectivos sobre las 13:00. Si tu reserva incluye la opción Escolanía y caes en día sin actuación, te incluyen entrada al Museo de Montserrat como compensación.
+- pregunta: ¿Cuál es la diferencia con la opción Julià Travel?
+  respuesta: Esta dura 7 horas (frente a 5-7 de Julià) y suele incluir más tiempo libre. La audioguía es propia de esta variante. El operador (Catalunya Bus Turístic) es distinto pero el formato general es similar. Para una primera visita ambos son comparables.
+- pregunta: ¿Está incluida la Moreneta?
+  respuesta: Sí, si seleccionas la opción «con Moreneta» al reservar. Hay variantes solo con basílica (sin Moreneta) para quien no quiere ese extra.
+- pregunta: ¿Qué hago durante el tiempo libre?
+  respuesta: 'Lo típico: entrar a la basílica, subir al funicular de Sant Joan (extra), comer algo en el bufé con vistas, visitar el museo, hacer una ruta corta de senderismo o pasear por el mercado de productos locales.'
 variantes:
-  - "montserrat-cremallera-virgen-negra"
-  - "montserrat-cremallera-bodega-castlexperience"
-  - "montserrat-basilica-y-traslados"
+- montserrat-cremallera-virgen-negra
+- montserrat-cremallera-bodega-castlexperience
+- montserrat-basilica-y-traslados
+opinionEditorial: 'La alternativa a Julià Travel para el clásico cremallera + monasterio + Moreneta opcional. El operador (Catalunya Bus Turístic) es menos conocido pero acumula 2.400+ reseñas a 4,6 estrellas, así que está consolidado. La audioguía propia es un plus si te gusta profundizar después del tour guiado.
 
-opinionEditorial: |
-  La alternativa a Julià Travel para el clásico cremallera + monasterio + Moreneta opcional. El operador (Catalunya Bus Turístic) es menos conocido pero acumula 2.400+ reseñas a 4,6 estrellas, así que está consolidado. La audioguía propia es un plus si te gusta profundizar después del tour guiado.
 
   Lo que destaca: 7 horas (1-2 más que Julià Travel), lo que da más margen para tiempo libre. La opción de Escolanía o Museo de respaldo (según día) es un buen detalle del operador. Precio (48 €) muy competitivo para día completo con todas las inclusiones.
 
+
   Lo que conviene saber: el tour es bilingüe español + inglés al mismo grupo, igual que Julià Travel. Si te importa, mira variantes en grupo pequeño con guía solo en tu idioma.
 
-categoria: "excursionesDia"
-keywords: ["montserrat dia completo", "montserrat audioguia", "montserrat cremallera dia completo", "tour montserrat escolania", "catalunya bus turistic"]
-
-imagen: "/images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero.webp"
-imagenAlt: "Tren cremallera de Montserrat con vistas a la montaña catalana"
-
+  '
+categoria: excursionesDia
+keywords:
+- montserrat dia completo
+- montserrat audioguia
+- montserrat cremallera dia completo
+- tour montserrat escolania
+- catalunya bus turistic
+imagen: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-hero.webp
+imagenAlt: Tren cremallera de Montserrat con vistas a la montaña catalana
 galeria:
-  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
-    alt: "Formaciones rocosas de Montserrat con el monasterio al fondo"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
-    alt: "Monasterio de Montserrat entre las montañas"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp"
-    alt: "Vistas de las montañas de Montserrat desde el monasterio"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"
-    alt: "Panorámica del macizo de Montserrat"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-monastery-nature-mountain-hero.webp"
-    alt: "Vista aérea del monasterio de Montserrat entre la montaña"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-08-hero.webp"
-    alt: "Monasterio de Montserrat visto desde la montaña"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-stunning-low-angle-view-abbey-hero.webp"
-    alt: "Patio interior de la abadía de Montserrat"
-
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Estatua del abad Oliba entre la vegetación de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp
+  alt: Monasterio de Montserrat entre las montañas
+- src: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp
+  alt: Vistas de las montañas de Montserrat desde el monasterio
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp
+  alt: Panorámica del macizo de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-spain-monastery-nature-mountain-hero.webp
+  alt: Vista aérea del monasterio de Montserrat entre la montaña
+- src: /images/actividades/barcelona/montserrat/montserrat-spain-08-hero.webp
+  alt: Monasterio de Montserrat visto desde la montaña
+- src: /images/actividades/barcelona/montserrat/montserrat-stunning-low-angle-view-abbey-hero.webp
+  alt: Patio interior de la abadía de Montserrat
 ratingProveedor: 4.6
 numeroOpiniones: 2449
-
 publicada: false
 destacada: false
-fecha: "2026-05-15"
+fecha: '2026-05-15'
 atraccionesRelacionadas:
-  - "montserrat"
+- montserrat
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

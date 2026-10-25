@@ -2,8 +2,7 @@
 titulo: Madrid Jewish History Private Walking Tour
 slug: madrid-jewish-history-private-walking-tour
 ciudad: madrid
-descripcion: Private walking tour of Jewish Madrid, with a guide just for your group,
-  uncovering a history more than a thousand years deep in the city.
+descripcion: Private walking tour of Jewish Madrid, with a guide just for your group, uncovering a history more than a thousand years deep in the city.
 slugs:
   es: tour-privado-historia-judia-madrid
   en: madrid-jewish-history-private-walking-tour
@@ -16,7 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 1105243
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 highlights:
 - Private tour for your group only, with a guide just for you
@@ -29,8 +28,7 @@ noIncluye:
 - Tips
 puntoEncuentro:
   texto: Central Madrid (exact meeting point confirmed on booking)
-  descripcionGuia: The tour starts around the Jewish Community of Madrid; the exact
-    meeting point is confirmed when you book.
+  descripcionGuia: The tour starts around the Jewish Community of Madrid; the exact meeting point is confirmed when you book.
   latitud: 40.4168
   longitud: -3.7038
   zoom: 15
@@ -41,14 +39,8 @@ detallesPracticos:
   edadMinima: 0
   mascotasPermitidas: false
 accesibilidad: Walking route not wheelchair accessible. Low difficulty.
-politicaCancelacion: Free cancellation; a 100% fee applies if cancelled 1 day or less
-  before the event.
-opinionEditorial: 'This is a niche tour, which is exactly why it works so well in
-  private: the guide tailors the story to what interests you and answers at length.
-  Madrid''s Jewish history is little known and closely tied to Spain''s —centuries
-  of coexistence, tension, exile and a 20th-century return— so it deserves to be told
-  with time and context. From €249 per group (about €300 for four) it is one of the more affordable private
-  options in the catalogue.'
+politicaCancelacion: Free cancellation; a 100% fee applies if cancelled 1 day or less before the event.
+opinionEditorial: 'This is a niche tour, which is exactly why it works so well in private: the guide tailors the story to what interests you and answers at length. Madrid''s Jewish history is little known and closely tied to Spain''s —centuries of coexistence, tension, exile and a 20th-century return— so it deserves to be told with time and context. From €249 per group (about €300 for four) it is one of the more affordable private options in the catalogue.'
 atraccionesRelacionadas:
 - tours-a-pie
 categoria: experienciasPrivadas
@@ -56,17 +48,17 @@ keywords:
 - jewish madrid private tour
 - jewish history madrid walking tour
 - sephardic madrid tour
-imagen: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
-imagenAlt: "Historic streets of central Madrid"
+imagen: /images/actividades/madrid/lavapies/plaza-lavapies.webp
+imagenAlt: Plaza de Lavapiés, at the heart of Madrid's old Jewish quarter
 galeria:
-- src: https://imgcdn.bokun.tools/a5a139f7-8aef-4a9f-8224-0776371c7ca7.jpg
-  alt: "Historic brick building in central Madrid"
-- src: https://imgcdn.bokun.tools/4bbb1531-f10a-4c51-9d03-8ed595ff00bf.jpg
-  alt: "Brick church in central Madrid"
-- src: https://imgcdn.bokun.tools/fb9bc168-1926-4ae4-9a48-6ac589e5d6cf.jpg
-  alt: "Santa Cruz Palace in central Madrid"
-- src: https://imgcdn.bokun.tools/a23c5684-e103-4e7f-90f8-38d40531e9fc.jpg
-  alt: "Central Madrid street with brick facades"
+- src: /images/actividades/madrid/lavapies/calle-de-la-fe.webp
+  alt: Calle de la Fe, formerly Synagogue Street, seen from Plaza de Lavapiés
+- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
+  alt: Historic streets of central Madrid
+- src: /images/actividades/madrid/lavapies/iglesia-san-lorenzo.webp
+  alt: Church of San Lorenzo, at the end of Calle de la Fe in Lavapiés
+- src: /images/actividades/madrid/lavapies/azulejo-calle-lavapies.webp
+  alt: Tiled street sign of Calle de Lavapiés
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
   alt: Plaza de la Villa in Madrid, with the statue of Alvaro de Bazan and the Torreon de los Lujanes tower
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp
@@ -81,10 +73,12 @@ galeria:
   alt: Ceramic tile with the coat of arms of Madrid and the name of Plaza de la Villa
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp
   alt: Plaza de la Villa in Madrid lit up at night
+- src: https://imgcdn.bokun.tools/a5a139f7-8aef-4a9f-8224-0776371c7ca7.jpg
+  alt: Historic brick building in central Madrid
 publicada: true
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-23'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

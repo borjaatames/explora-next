@@ -2,8 +2,7 @@
 titulo: Ávila and Salamanca from Madrid in One Day
 slug: avila-salamanca-day-trip
 ciudad: madrid
-descripcion: A guided full-day trip to Ávila and Salamanca from Madrid with bilingual narration. Two UNESCO World Heritage
-  cities in a single day.
+descripcion: A guided full-day trip to Ávila and Salamanca from Madrid with bilingual narration. Two UNESCO World Heritage cities in a single day.
 slugs:
   en: avila-salamanca-day-trip
   es: excursion-avila-salamanca
@@ -35,9 +34,7 @@ noIncluye:
 - Gratuities
 puntoEncuentro:
   texto: Monument to Dr. Fleming, near C. de Julio Camba, 3, 28028 Madrid
-  descripcionGuia: 'The meeting point varies depending on the option you book (guided tour without entries, with entries,
-    or private): the operator confirms it in your booking email. Departure is in the area of the Monument to Dr. Fleming and
-    calle Julio Camba, next to the Las Ventas bullring. Arrive 15 minutes early.'
+  descripcionGuia: 'The meeting point varies depending on the option you book (guided tour without entries, with entries, or private): the operator confirms it in your booking email. Departure is in the area of the Monument to Dr. Fleming and calle Julio Camba, next to the Las Ventas bullring. Arrive 15 minutes early.'
   latitud: 40.4319
   longitud: -3.6635
   zoom: 16
@@ -58,40 +55,27 @@ informacionImportante:
   - 'The narration is bilingual: the guide alternates Spanish and English with the same group'
   - Entries to Salamanca Cathedral and the walls of Ávila are optional and carry an extra charge
   - Food is not included; there is free time to eat on your own
-accesibilidad: 'Not recommended for wheelchair users or people with reduced mobility: Ávila and Salamanca have narrow, cobbled
-  streets, with slopes and steps.'
+accesibilidad: 'Not recommended for wheelchair users or people with reduced mobility: Ávila and Salamanca have narrow, cobbled streets, with slopes and steps.'
 politicaCancelacion: Cancel free of charge up to 24 hours before departure for a full refund. After that, no refund applies.
 preguntasFrecuentes:
 - pregunta: Are the monument entries included?
-  respuesta: It depends on the option you book. There is a version without entries and another that includes access to Salamanca
-    Cathedral and the medieval walls of Ávila for an extra charge. If you want to go inside those monuments, choose the option
-    with entries when you book.
+  respuesta: It depends on the option you book. There is a version without entries and another that includes access to Salamanca Cathedral and the medieval walls of Ávila for an extra charge. If you want to go inside those monuments, choose the option with entries when you book.
 - pregunta: Does the guide speak English?
-  respuesta: 'Yes. The narration is live and bilingual: the guide explains in Spanish and English, alternating the two languages
-    with the same group. That means the net explanation time in each language is shorter than on a monolingual tour.'
+  respuesta: 'Yes. The narration is live and bilingual: the guide explains in Spanish and English, alternating the two languages with the same group. That means the net explanation time in each language is shorter than on a monolingual tour.'
 - pregunta: How long is the trip?
-  respuesta: The full day lasts around 11 hours, including travel from Madrid. Salamanca is further than Ávila, so a good
-    part of the day is coach travel.
+  respuesta: The full day lasts around 11 hours, including travel from Madrid. Salamanca is further than Ávila, so a good part of the day is coach travel.
 - pregunta: Is food included?
-  respuesta: No. Food and drinks are not included. There is free time during the visit, especially in Salamanca, to eat on
-    your own.
+  respuesta: No. Food and drinks are not included. There is free time during the visit, especially in Salamanca, to eat on your own.
 - pregunta: Can I cancel if something comes up?
-  respuesta: Yes. Cancellation is free up to 24 hours before departure, with a full refund. After that deadline there is no
-    refund.
+  respuesta: Yes. Cancellation is free up to 24 hours before departure, with a full refund. After that deadline there is no refund.
 variantes:
 - avila-segovia-day-trip-with-tickets
 - cuenca-enchanted-city-day-trip
 - private-avila-segovia-escorial-tour
-opinionEditorial: 'This is the right pick if you want to add Salamanca to your trip without giving it a whole day on your
-  own. The golden city — with its Baroque Plaza Mayor, the University and the two cathedrals — is one of the most beautiful
-  in Spain, and combining it with walled Ávila in a single outing from Madrid is a good use of time. An operator with almost
-  600 reviews and a solid 4.5 score.
+opinionEditorial: 'This is the right pick if you want to add Salamanca to your trip without giving it a whole day on your own. The golden city — with its Baroque Plaza Mayor, the University and the two cathedrals — is one of the most beautiful in Spain, and combining it with walled Ávila in a single outing from Madrid is a good use of time. An operator with almost 600 reviews and a solid 4.5 score.
 
 
-  What the marketing doesn''t tell you: two things. First, the narration is "bilingual", not a separate Spanish-only group;
-  the guide alternates languages with the same group, so the explanation time in each language is halved. Second, the entries
-  to Salamanca Cathedral and the walls of Ávila are not included by default: they are an option with an extra cost. Check
-  carefully which version you book. And, like any long trip with cobbled streets, it is not for reduced mobility.
+  What the marketing doesn''t tell you: two things. First, the narration is "bilingual", not a separate Spanish-only group; the guide alternates languages with the same group, so the explanation time in each language is halved. Second, the entries to Salamanca Cathedral and the walls of Ávila are not included by default: they are an option with an extra cost. Check carefully which version you book. And, like any long trip with cobbled streets, it is not for reduced mobility.
 
   '
 atraccionesRelacionadas:
@@ -103,7 +87,7 @@ keywords:
 - avila salamanca tour
 - visit salamanca from madrid
 - salamanca day trip madrid
-imagen: "/images/actividades/madrid/avila/avila-24-8-2002-hero.webp"
+imagen: /images/actividades/madrid/avila/avila-24-8-2002-hero.webp
 imagenAlt: The walls and towers of Ávila, the best-preserved medieval fortification in Spain
 galeria:
 - src: /images/actividades/madrid/avila/avila-spain-unesco-world-heritage-site-2-hero.webp
@@ -115,11 +99,11 @@ galeria:
 - src: /images/actividades/madrid/avila/avila-jornadas-medievales-hero.webp
   alt: A street in Ávila's old town during a medieval fair
 - src: /images/actividades/salamanca/catedrales/pixabay-259981-hero.webp
-  alt: Historic Plaza Mayor in Salamanca with golden-hued Renaissance architecture
+  alt: Salamanca's cathedrals with the dome of the New Cathedral
 - src: /images/actividades/salamanca/catedrales/pexels-34547409-hero.webp
-  alt: Salamanca historic architecture with golden stone buildings at sunset
+  alt: Vaults inside Salamanca Cathedral
 - src: /images/actividades/salamanca/catedrales/pixabay-3564346-hero.webp
-  alt: Historic Plaza Mayor square in Salamanca with golden stone architecture
+  alt: Baroque organ in Salamanca Cathedral
 - src: /images/actividades/avila/avila/pixabay-2709091-hero.webp
   alt: Medieval walls and towers of Ávila, Spain's historic walled city
 - src: /images/actividades/avila/avila/wikimedia-21462651-hero.webp
@@ -127,18 +111,19 @@ galeria:
 - src: /images/actividades/avila/avila/wikimedia-56544635-hero.webp
   alt: Walkway along the top of Ávila's medieval walls, lined with battlements overlooking the city.
 - src: /images/actividades/salamanca/casa-conchas/pexels-28435492-hero.webp
-  alt: Salamanca historic plaza with golden sandstone buildings and central monument
+  alt: La Clerecía and the House of Shells in Salamanca
 - src: /images/actividades/salamanca/convento-san-esteban-salamanca/pixabay-2709103-hero.webp
-  alt: Historic Salamanca plaza with golden stone buildings and central monument
+  alt: San Esteban Convent in Salamanca
 - src: /images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero-hero.webp
-  alt: Historic University of Salamanca building with golden stone facade and architectural details
+  alt: Historic buildings of Salamanca with the towers of La Clerecía
 - src: /images/actividades/salamanca/plaza-mayor/pixabay-2709112-hero.webp
-  alt: Historic Salamanca Cathedral with golden stone facade at sunset
+  alt: Salamanca's Plaza Mayor
 ratingProveedor: 4.5
 numeroOpiniones: 579
 publicada: true
 destacada: false
 fecha: '2026-05-14'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

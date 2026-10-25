@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp
   alt: Alcázar fortress castle with stone towers against blue sky in Segovia
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
-  alt: Toledo Cathedral with Gothic architecture and ornate stone facade
+  alt: Main façade of Toledo Cathedral
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-diego-allen-dmal4iwpmy8-unsplash-hero-hero.webp
   alt: Ornate red-and-gold interior hall of the Alcázar of Segovia, lined with royal portraits.
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp
@@ -100,7 +100,7 @@ galeria:
 - src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero-hero.webp
   alt: Ancient Roman aqueduct of Segovia spanning stone arches in Plaza de la Artillería
 - src: /images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp
-  alt: Toledo's historic medieval cityscape with narrow cobblestone streets and ancient architecture
+  alt: Cobbled street with an arch in Toledo's old town
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
   alt: Hall of the Kings inside the Alcázar of Segovia, featuring a red canopy and armored figures.
 - src: /images/actividades/toledo/puerta-bisagra-toledo/wikimedia-31361444-hero.webp
@@ -116,7 +116,7 @@ numeroOpiniones: 10421
 publicada: true
 destacada: true
 fecha: '2026-05-06'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

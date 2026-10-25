@@ -2,8 +2,7 @@
 titulo: Alhambra y Palacios Nazaríes en grupo reducido
 slug: alhambra-grupo-reducido
 ciudad: granada
-descripcion: Visita guiada de 3 horas a la Alhambra, los Palacios Nazaríes, la Alcazaba y el Generalife en grupo reducido,
-  con entradas y radioguías incluidas.
+descripcion: Visita guiada de 3 horas a la Alhambra, los Palacios Nazaríes, la Alcazaba y el Generalife en grupo reducido, con entradas y radioguías incluidas.
 slugs:
   es: alhambra-grupo-reducido
   en: alhambra-small-group-tour
@@ -36,9 +35,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Pabellón de Acceso a la Alhambra, Paseo del Generalife
-  descripcionGuia: 'El punto de salida es el Pabellón de Acceso a la Alhambra, en el Paseo del Generalife. La ubicación exacta
-    puede variar según la opción reservada (grupo compartido en español o inglés, o privado) y el operador la confirma en
-    la reserva. Llega 15 minutos antes: si llegas tarde puedes perder el recorrido.'
+  descripcionGuia: 'El punto de salida es el Pabellón de Acceso a la Alhambra, en el Paseo del Generalife. La ubicación exacta puede variar según la opción reservada (grupo compartido en español o inglés, o privado) y el operador la confirma en la reserva. Llega 15 minutos antes: si llegas tarde puedes perder el recorrido.'
   latitud: 37.1773
   longitud: -3.5848
   zoom: 16
@@ -58,48 +55,31 @@ informacionImportante:
   - 'No llegues tarde al punto de encuentro: puedes perder el recorrido'
   - Las sillas de bebé deben guardarse en las taquillas durante el acceso a los edificios
   - El acceso en silla de ruedas se hace por un recorrido alternativo; el guía lo explica en el punto de encuentro
-accesibilidad: 'El acceso en silla de ruedas se realiza por un recorrido alternativo dentro de la Alhambra; el guía lo explica
-  en el punto de encuentro. Aun así, el terreno del recinto es irregular: si necesitas accesibilidad, confírmalo con el operador
-  antes de reservar.'
-politicaCancelacion: Cancelación hasta 24 horas antes con reembolso del 60 %. No es cancelación gratuita —la Alhambra no devuelve
-  las entradas al operador—, pero el porcentaje de reembolso es algo mayor que el del resto de visitas del comparador.
+accesibilidad: 'El acceso en silla de ruedas se realiza por un recorrido alternativo dentro de la Alhambra; el guía lo explica en el punto de encuentro. Aun así, el terreno del recinto es irregular: si necesitas accesibilidad, confírmalo con el operador antes de reservar.'
+politicaCancelacion: Cancelación hasta 24 horas antes con reembolso del 60 %. No es cancelación gratuita —la Alhambra no devuelve las entradas al operador—, pero el porcentaje de reembolso es algo mayor que el del resto de visitas del comparador.
 preguntasFrecuentes:
 - pregunta: ¿Es la mejor relación entre precio y tamaño de grupo?
-  respuesta: Es de las más equilibradas. A 65 € entras en un grupo reducido —oyes mejor al guía y el ritmo es más cómodo—
-    sin pagar el precio de un tour privado. Cuesta algo menos que otras visitas de grupo reducido del comparador, así que
-    si buscas formato pequeño sin disparar el gasto, es una buena candidata.
+  respuesta: Es de las más equilibradas. A 65 € entras en un grupo reducido —oyes mejor al guía y el ritmo es más cómodo— sin pagar el precio de un tour privado. Cuesta algo menos que otras visitas de grupo reducido del comparador, así que si buscas formato pequeño sin disparar el gasto, es una buena candidata.
 - pregunta: ¿Qué incluye además de la Alhambra?
-  respuesta: El ticket cubre los Palacios Nazaríes, la Alcazaba, el Generalife y sus jardines, además del Palacio de Carlos
-    V, e incluye radioguías. Si eliges esa opción al reservar, también se puede añadir la visita a la Fundación Rodríguez
-    Acosta, un carmen-museo cercano.
+  respuesta: El ticket cubre los Palacios Nazaríes, la Alcazaba, el Generalife y sus jardines, además del Palacio de Carlos V, e incluye radioguías. Si eliges esa opción al reservar, también se puede añadir la visita a la Fundación Rodríguez Acosta, un carmen-museo cercano.
 - pregunta: ¿Es accesible en silla de ruedas?
-  respuesta: Parcialmente. El acceso en silla de ruedas se hace por un recorrido alternativo dentro del recinto, y el guía
-    te lo explica en el punto de encuentro. No es una visita plenamente adaptada, pero el operador sí contempla esta opción,
-    a diferencia de otras del comparador. Confírmalo antes de reservar.
+  respuesta: Parcialmente. El acceso en silla de ruedas se hace por un recorrido alternativo dentro del recinto, y el guía te lo explica en el punto de encuentro. No es una visita plenamente adaptada, pero el operador sí contempla esta opción, a diferencia de otras del comparador. Confírmalo antes de reservar.
 - pregunta: ¿Por qué la cancelación reembolsa el 60 %?
-  respuesta: Sigue sin ser cancelación gratuita —la entrada a la Alhambra no es reembolsable para el operador—, pero este
-    operador devuelve un 60 % si cancelas con 24 horas de antelación, algo por encima del 50 % habitual en el comparador.
+  respuesta: Sigue sin ser cancelación gratuita —la entrada a la Alhambra no es reembolsable para el operador—, pero este operador devuelve un 60 % si cancelas con 24 horas de antelación, algo por encima del 50 % habitual en el comparador.
 - pregunta: ¿Con cuánta antelación conviene reservar?
-  respuesta: 'El operador recomienda al menos una semana, y es buen consejo: la Alhambra se agota con tiempo y, además, las
-    plazas de grupo reducido son limitadas por definición. Cuanto antes reserves, más fácil cuadrar fecha e idioma.'
+  respuesta: 'El operador recomienda al menos una semana, y es buen consejo: la Alhambra se agota con tiempo y, además, las plazas de grupo reducido son limitadas por definición. Cuanto antes reserves, más fácil cuadrar fecha e idioma.'
 variantes:
 - alhambra-palacios-nazaries-sin-colas
 - alhambra-tour-privado
 - visita-guiada-alhambra-generalife
-avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
-opinionEditorial: 'Esta visita se mueve en el punto medio del catálogo, y lo hace bien. Es un grupo reducido —con la cercanía
-  con el guía y el ritmo más cómodo que eso implica— a 65 €, por debajo de lo que cuestan otras opciones de grupo pequeño.
-  Si quieres el formato reducido sin llegar al precio de un privado, es de las propuestas más equilibradas.
+avisoReserva: Las entradas de la Alhambra se agotan con semanas de antelación
+opinionEditorial: 'Esta visita se mueve en el punto medio del catálogo, y lo hace bien. Es un grupo reducido —con la cercanía con el guía y el ritmo más cómodo que eso implica— a 65 €, por debajo de lo que cuestan otras opciones de grupo pequeño. Si quieres el formato reducido sin llegar al precio de un privado, es de las propuestas más equilibradas.
 
 
-  Tiene un par de detalles que la diferencian. Dedica **una hora completa al Generalife**, más de lo habitual en visitas de
-  3 horas, así que si los jardines te interesan tanto como los palacios, aquí los disfrutas con calma. Y la cancelación reembolsa
-  un **60 %** en lugar del 50 % habitual: sigue sin ser gratuita —es la norma de la Alhambra—, pero el margen es algo mejor.
+  Tiene un par de detalles que la diferencian. Dedica **una hora completa al Generalife**, más de lo habitual en visitas de 3 horas, así que si los jardines te interesan tanto como los palacios, aquí los disfrutas con calma. Y la cancelación reembolsa un **60 %** en lugar del 50 % habitual: sigue sin ser gratuita —es la norma de la Alhambra—, pero el margen es algo mejor.
 
 
-  En accesibilidad es de las más razonables del comparador: no es una visita plenamente adaptada, pero el operador sí contempla
-  un recorrido alternativo para sillas de ruedas y el guía lo explica al empezar. No es garantía total, así que conviene confirmarlo
-  antes de reservar, pero al menos no es un «no» rotundo como en otras opciones.
+  En accesibilidad es de las más razonables del comparador: no es una visita plenamente adaptada, pero el operador sí contempla un recorrido alternativo para sillas de ruedas y el guía lo explica al empezar. No es garantía total, así que conviene confirmarlo antes de reservar, pero al menos no es un «no» rotundo como en otras opciones.
 
   '
 atraccionesRelacionadas:
@@ -111,7 +91,7 @@ keywords:
 - alhambra palacios nazaries entradas
 - tour alhambra generalife
 - alhambra grupo pequeno
-imagen: "/images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp"
+imagen: /images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp
 imagenAlt: Patio de la Alhambra con palmeras reflejadas en una acequia
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
@@ -119,19 +99,19 @@ galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
   alt: Columnata y capiteles del Patio de los Leones de la Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp
-  alt: El Palacio de Carlos V dentro del recinto de la Alhambra
+  alt: La Alhambra al atardecer con Sierra Nevada al fondo
 - src: /images/actividades/granada/alhambra/alhambra-granada-hallway-building-columns-arches-hero.webp
   alt: Galería de columnas y arcos en los Palacios Nazaríes
 - src: /images/actividades/granada/alhambra/pixabay-4522800-hero.webp
-  alt: Vista panorámica de Granada con la Alhambra y Sierra Nevada al fondo
+  alt: Palacios de la Alhambra vistos a través de un arco nazarí
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829145-hero.webp
-  alt: Plaza mayor de Granada con edificios históricos y gente paseando
+  alt: Pórtico y estanque del Patio de los Arrayanes
 - src: /images/actividades/granada/alhambra/alhambra-granada-evening-hero-hero.webp
   alt: Fachada iluminada de la Alhambra al atardecer en Granada
 - src: /images/actividades/granada/alhambra/alhambra-granada-andalusia-spain-hero-hero.webp
   alt: Palacio de la Alhambra con sus torres y murallas rodeadas de vegetación en Granada
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y sierra Nevada al fondo
+  alt: Patio de los Leones de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-37387011-hero.webp
   alt: Palacio del Partal con su estanque y jardines en la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829133-hero.webp
@@ -142,8 +122,9 @@ publicada: true
 destacada: false
 fecha: '2026-05-14'
 guiasRelacionadas:
-  - "alhambra-como-visitar"
-  - "alhambra-que-tour-elegir"
+- alhambra-como-visitar
+- alhambra-que-tour-elegir
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

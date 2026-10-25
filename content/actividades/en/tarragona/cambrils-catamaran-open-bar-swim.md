@@ -74,29 +74,33 @@ keywords:
 - salou boat trip
 - costa daurada catamaran
 - cambrils open bar boat
-imagen: /images/actividades/tarragona/costa/cap-salou.webp
-imagenAlt: The sea off Cap de Salou
+imagen: /images/actividades/tarragona/costa/catamaran-bano-mar-abierto.webp
+imagenAlt: Catamaran anchored at sea with people swimming around it
 galeria:
-- src: "/images/actividades/tarragona/costa/puerto-cambrils.webp"
-  alt: "Fishing boats moored in Cambrils harbour"
-- src: "/images/actividades/tarragona/costa/cambrils-velero.webp"
-  alt: "A sailing boat in Cambrils harbour"
-- src: "/images/actividades/tarragona/costa/faro-salou.webp"
-  alt: "Salou lighthouse and its white keeper's house under blue sky"
-- src: "/images/actividades/tarragona/costa/punta-grossa.webp"
-  alt: "Punta Grossa viewpoint in Salou"
-- src: "/images/actividades/tarragona/costa/platja-llarga.webp"
-  alt: "Platja Llarga in Salou"
-- src: "/images/actividades/tarragona/costa/cambrils-barcas.webp"
-  alt: "Boats in Cambrils harbour"
-- src: "/images/actividades/tarragona/costa/cambrils-puerto-01.webp"
-  alt: "Fishing boats moored in Cambrils harbour"
-- src: "/images/actividades/tarragona/costa/cambrils-puerto-02.webp"
-  alt: "Cambrils marina with leisure boats"
-- src: "/images/actividades/tarragona/costa/cambrils-puerto-03.webp"
-  alt: "Cambrils seafront facing the harbour"
-- src: "/images/actividades/tarragona/costa/cambrils-puerto-04.webp"
-  alt: "Cambrils harbour with the town behind"
+- src: /images/actividades/tarragona/costa/catamaran-vela-puerto-cambrils.webp
+  alt: Sailing excursion catamaran moored in the port of Cambrils
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: The sea off Cap de Salou
+- src: /images/actividades/tarragona/costa/catamaran-pasajeros-cubierta.webp
+  alt: Catamaran with passengers on deck anchored near the coast
+- src: /images/actividades/tarragona/costa/puerto-cambrils.webp
+  alt: Fishing boats moored in Cambrils harbour
+- src: /images/actividades/tarragona/costa/catamaranes-puerto-cambrils.webp
+  alt: Sailing catamarans moored in the port of Cambrils
+- src: /images/actividades/tarragona/costa/cambrils-velero.webp
+  alt: A sailing boat in Cambrils harbour
+- src: /images/actividades/tarragona/costa/faro-salou.webp
+  alt: Salou lighthouse and its white keeper's house under blue sky
+- src: /images/actividades/tarragona/costa/punta-grossa.webp
+  alt: Punta Grossa viewpoint in Salou
+- src: /images/actividades/tarragona/costa/platja-llarga.webp
+  alt: Platja Llarga in Salou
+- src: /images/actividades/tarragona/costa/cambrils-barcas.webp
+  alt: Boats in Cambrils harbour
+- src: /images/actividades/tarragona/costa/cambrils-puerto-01.webp
+  alt: Fishing boats moored in Cambrils harbour
+- src: /images/actividades/tarragona/costa/cambrils-puerto-02.webp
+  alt: Cambrils marina with leisure boats
 ratingProveedor: 4.5
 numeroOpiniones: 2188
 atraccionesRelacionadas:
@@ -104,7 +108,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

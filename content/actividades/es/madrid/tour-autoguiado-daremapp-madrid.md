@@ -1,8 +1,8 @@
 ---
-titulo: "Madrid a tu ritmo: tour autoguiado DareMapp"
+titulo: 'Madrid a tu ritmo: tour autoguiado DareMapp'
 slug: tour-autoguiado-daremapp-madrid
 ciudad: madrid
-descripcion: "Descubre Madrid a tu ritmo con la audioguía autoguiada DareMapp: 7 rutas, del Prado a la Gran Vía. Sin guía físico, disponible 24/7 todo el año, en 6 idiomas."
+descripcion: 'Descubre Madrid a tu ritmo con la audioguía autoguiada DareMapp: 7 rutas, del Prado a la Gran Vía. Sin guía físico, disponible 24/7 todo el año, en 6 idiomas.'
 slugs:
   es: tour-autoguiado-daremapp-madrid
   en: self-guided-tour-daremapp-madrid
@@ -19,15 +19,15 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1139667
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Recorre Madrid a tu propio ritmo, sin horarios fijos ni grupos
 - Elige las paradas que quieras y sáltate las que no te interesen
-- "Escucha el audio cuando quieras: puedes pausar y reanudar en cualquier momento"
-- "Disponible las 24 horas del día, los 365 días del año: el acceso no caduca"
-- "Descubre la Plaza Mayor, la Puerta del Sol, la Gran Vía, El Retiro y el Museo del Prado, además de hasta 7 rutas temáticas (Madrid esencial, Barrio de las Letras, La Latina, Paseo del Arte, Chueca...) con cientos de puntos de interés en total: el catálogo más completo de DareMapp"
+- 'Escucha el audio cuando quieras: puedes pausar y reanudar en cualquier momento'
+- 'Disponible las 24 horas del día, los 365 días del año: el acceso no caduca'
+- 'Descubre la Plaza Mayor, la Puerta del Sol, la Gran Vía, El Retiro y el Museo del Prado, además de hasta 7 rutas temáticas (Madrid esencial, Barrio de las Letras, La Latina, Paseo del Arte, Chueca...) con cientos de puntos de interés en total: el catálogo más completo de DareMapp'
 incluye:
 - Ir a tu propio ritmo, sin horarios ni grupos
 - Elegir las paradas que quieras dentro de la ruta
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - Guía físico (es una experiencia 100% autónoma, sin acompañante)
 puntoEncuentro:
-  texto: "Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Madrid"
+  texto: 'Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Madrid'
 informacionImportante:
   aTenerEnCuenta:
-  - "Apto para toda la familia: edad mínima 1 año"
+  - 'Apto para toda la familia: edad mínima 1 año'
   - App disponible en español, inglés, portugués, francés, italiano y alemán
   - Compatible con silla de ruedas y cochecito de bebé; se permiten animales de servicio
   - Buen acceso a transporte público en la zona de la ruta
@@ -50,8 +50,8 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación."
-opinionEditorial: "Es la opción ideal si quieres moverte por Madrid a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien."
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo; se aplica un cargo del 100% si se cancela con menos antelación.
+opinionEditorial: 'Es la opción ideal si quieres moverte por Madrid a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien.'
 atraccionesRelacionadas:
 - otros-madrid
 categoria: visitasGuiadas
@@ -59,27 +59,27 @@ keywords:
 - tour autoguiado madrid
 - audioguía madrid
 - visita autoguiada madrid app
-imagen: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
-imagenAlt: "Plaza Mayor"
+imagen: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp
+imagenAlt: Estatua de Felipe III y la Casa de la Panadería en la Plaza Mayor
 galeria:
 - src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
-  alt: "La Plaza Mayor, en el corazón del Madrid de los Austrias"
+  alt: La Plaza Mayor, en el corazón del Madrid de los Austrias
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
-  alt: "Palacio Real de Madrid, parada de la ruta histórica"
+  alt: Palacio Real visto desde los jardines del Campo del Moro
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp
-  alt: "Plaza de Callao de noche, a pocos pasos del Tablao Torres Bermejas"
+  alt: Plaza de Callao y el edificio Carrión de noche
 - src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp
-  alt: "Cartel luminoso de Tío Pepe en la Puerta del Sol al anochecer"
+  alt: Cartel luminoso de Tío Pepe en la Puerta del Sol al anochecer
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
-  alt: "Palacio Real de Madrid iluminado de noche"
+  alt: Palacio Real de Madrid iluminado de noche
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
-  alt: "Plaza de Oriente y Palacio Real"
+  alt: Plaza de Oriente y Palacio Real
 - src: https://imgcdn.bokun.tools/73cbdf92-f222-460e-ad6c-975a2d9fb464.jpg
-  alt: "Aplicación DaremApp con el recorrido autoguiado"
+  alt: Aplicación DaremApp con el recorrido autoguiado
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a descubrir

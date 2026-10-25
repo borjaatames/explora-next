@@ -104,13 +104,13 @@ galeria:
 - src: /images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-nueva-fachada-hero.webp
   alt: Puerta Nueva de Bisagra (Toledo). Fachada
 - src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-stunning-panoramic-view-spain-hero.webp
-  alt: Vista panoramica toledo stunning panoramic view spain en Vista panoramica toledo
+  alt: Toledo sobre el Tajo, con el Alcázar y la catedral
 ratingProveedor: 4.6
 numeroOpiniones: 869
 publicada: true
 destacada: true
 fecha: '2026-05-06'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

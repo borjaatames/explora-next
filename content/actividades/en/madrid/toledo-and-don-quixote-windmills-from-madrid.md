@@ -96,11 +96,11 @@ galeria:
 - src: /images/actividades/toledo/catedral-toledo/wikimedia-163466149-hero.webp
   alt: Toledo historic cityscape with cathedral and river, Spain
 - src: /images/actividades/toledo/dmitry-romanoff-yxf9j/dmitry-romanoff-YXf9J-bKOp4-unsplash-hero.webp
-  alt: Historic Toledo cityscape with medieval architecture and winding streets on hillside
+  alt: Horseshoe-arch doorway in Toledo's old town
 - src: /images/actividades/toledo/iglesia-santo-tome-toledo/wikimedia-23770003-hero.webp
   alt: Toledo cityscape with medieval architecture and winding streets on hillside
 - src: /images/actividades/madrid/tapas-madrid/pixabay-2545742-hero.webp
-  alt: Madrid cityscape with historic architecture and urban skyline
+  alt: Iberian ham being carved by hand
 - src: /images/actividades/toledo/mezquita-cristo-luz-toledo/wikimedia-161540624-hero.webp
   alt: Toledo's medieval cityscape with historic architecture and winding cobblestone streets on hillside
 - src: /images/actividades/toledo/monasterio-san-juan-reyes-toledo/wikimedia-16963473-hero.webp
@@ -110,13 +110,13 @@ galeria:
 - src: /images/actividades/toledo/sinagoga-santa-maria-blanca-toledo/wikimedia-25496325-hero.webp
   alt: Toledo cityscape with historic architecture and cathedral overlooking the city
 - src: /images/actividades/toledo/tom-g-kfgjwjnpdq8/tom-g-Kfgjwjnpdq8-unsplash-hero.webp
-  alt: Historic Toledo cityscape with medieval architecture and winding cobblestone streets
+  alt: Narrow Toledo alley at night
 ratingProveedor: 4.9
 numeroOpiniones: 314
 publicada: true
 destacada: false
 fecha: '2026-05-06'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

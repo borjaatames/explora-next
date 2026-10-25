@@ -82,20 +82,24 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/66ee2d7f-403d-46b3-a697-a0d6f8073699.jpeg
-  alt: Group with their guide among the rocks of El Torcal
+- src: /images/actividades/malaga/antequera/antequera-alcazaba.webp
+  alt: Antequera's Alcazaba above the town with the Peña de los Enamorados behind
+- src: /images/actividades/malaga/antequera/antequera-colegiata.webp
+  alt: Renaissance façade of the Royal Collegiate Church of Santa María la Mayor, Antequera
 - src: /images/actividades/malaga/antequera/torcal-04.webp
   alt: Stacked rocks of El Torcal
-- src: https://imgcdn.bokun.tools/a11d4854-0d68-4181-a243-bb6a67aa278b.jpeg
-  alt: Hiker taking in the view from El Torcal
 - src: /images/actividades/malaga/antequera/torcal-01.webp
   alt: Ibex on the rocks of El Torcal de Antequera
+- src: https://imgcdn.bokun.tools/66ee2d7f-403d-46b3-a697-a0d6f8073699.jpeg
+  alt: Group with their guide among the rocks of El Torcal
+- src: https://imgcdn.bokun.tools/a11d4854-0d68-4181-a243-bb6a67aa278b.jpeg
+  alt: Hiker taking in the view from El Torcal
 - src: https://imgcdn.bokun.tools/dfce2f85-f589-44e6-a6e9-960cbe2f0d13.jpeg
   alt: Trail through the rocks of El Torcal
 - src: https://imgcdn.bokun.tools/bee9c0ad-ad8a-497a-bbeb-0166bcd5a26b.jpeg
   alt: Rock formations of El Torcal overlooking the valley
 bokunProductId: 1036137
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What the day is like

@@ -74,25 +74,33 @@ keywords:
 - alicante tuk tuk tour
 - santa barbara castle tuk tuk
 - what to see in alicante
-imagen: /images/actividades/alicante/centro/castillo-santa-barbara.webp
-imagenAlt: Santa Bárbara Castle on Mount Benacantil
+imagen: /images/actividades/alicante/tuk-tuk/tuk-tuk-alicante-mirador.webp
+imagenAlt: Electric tourist tuk tuk parked at a viewpoint in Alicante
 galeria:
-- src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
-  alt: "View of the harbour and Postiguet beach from Santa Bárbara Castle"
-- src: "/images/actividades/alicante/centro/calle-san-antonio.webp"
-  alt: "Calle San Antonio steps with Mount Benacantil behind"
-- src: "/images/actividades/alicante/centro/explanada-palmeras.webp"
-  alt: "Palm trees on the Explanada de España"
-- src: "/images/actividades/alicante/centro/santa-maria.webp"
-  alt: "Basilica of Santa María"
-- src: "/images/actividades/alicante/costa/postiguet-castillo.webp"
-  alt: "Postiguet and Mount Benacantil"
-- src: "/images/actividades/alicante/centro/castillo-vistas.webp"
-  alt: "Sea views from the castle"
-- src: "/images/actividades/alicante/centro/ayuntamiento.webp"
-  alt: "Alicante City Hall"
-- src: "/images/actividades/alicante/costa/postiguet-paseo.webp"
-  alt: "Promenade by Postiguet beach"
+- src: /images/actividades/alicante/tuk-tuk/tuk-tuk-calle-alvarez.webp
+  alt: Electric tuk tuk on Calle Álvarez in Alicante
+- src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
+  alt: Santa Bárbara Castle on Mount Benacantil
+- src: /images/actividades/alicante/castillo-san-fernando/castillo-san-fernando-murallas.webp
+  alt: Walls of San Fernando Castle on Tossal hill
+- src: /images/actividades/alicante/ciudades/alicante-hero.webp
+  alt: View of the harbour and Postiguet beach from Santa Bárbara Castle
+- src: /images/actividades/alicante/castillo-san-fernando/castillo-san-fernando-ciudad.webp
+  alt: San Fernando Castle with Alicante and Mount Benacantil behind
+- src: /images/actividades/alicante/centro/calle-san-antonio.webp
+  alt: Calle San Antonio steps with Mount Benacantil behind
+- src: /images/actividades/alicante/centro/explanada-palmeras.webp
+  alt: Palm trees on the Explanada de España
+- src: /images/actividades/alicante/centro/santa-maria.webp
+  alt: Basilica of Santa María
+- src: /images/actividades/alicante/costa/postiguet-castillo.webp
+  alt: Postiguet and Mount Benacantil
+- src: /images/actividades/alicante/centro/castillo-vistas.webp
+  alt: Sea views from the castle
+- src: /images/actividades/alicante/centro/ayuntamiento.webp
+  alt: Alicante City Hall
+- src: /images/actividades/alicante/costa/postiguet-paseo.webp
+  alt: Promenade by Postiguet beach
 ratingProveedor: 4.7
 numeroOpiniones: 234
 atraccionesRelacionadas:
@@ -100,7 +108,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

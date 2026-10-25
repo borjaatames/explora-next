@@ -97,11 +97,11 @@ galeria:
 - src: /images/actividades/madrid/muralla-avila/muralla-avila-fortress-citadel-fortification-hero.webp
   alt: Fortified walls of Ávila
 - src: /images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp
-  alt: "Visitors in the square in front of Toledo Cathedral"
+  alt: Main façade of Toledo Cathedral
 - src: /images/actividades/avila/muralla-avila/muralla-avila-spain-carving-architecture-hero-hero.webp
   alt: Stone walls of Ávila
 - src: /images/actividades/toledo/puente-san-martin-toledo/puente-san-martin-toledo-bridge-over-river-buildings-hill-hero-hero.webp
-  alt: "San Martín Bridge over the Tagus"
+  alt: San Martín Bridge over the Tagus
 - src: /images/actividades/toledo/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero-hero.webp
   alt: Narrow historic alleyway in Toledo
 - src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp
@@ -111,15 +111,15 @@ galeria:
 - src: /images/actividades/toledo/mezquita-cristo-luz-toledo/wikimedia-161540627-hero.webp
   alt: Mosque of Cristo de la Luz, Toledo
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp
-  alt: "Alcázar of Segovia (exterior)"
+  alt: Alcázar of Segovia (exterior)
 - src: /images/actividades/madrid/puente-san-martin-toledo/puente-san-martin-toledo-fp-2025-hero.webp
-  alt: "San Martín bridge, Toledo"
+  alt: San Martín bridge, Toledo
 ratingProveedor: 4.7
 numeroOpiniones: 1330
 publicada: true
 destacada: false
 fecha: '2026-05-05'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

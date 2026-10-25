@@ -1,126 +1,121 @@
 ---
-titulo: "Montserrat con funicular y excursión panorámica en grupo de 8"
-slug: "montserrat-funicular-caminata-panoramica"
-ciudad: "barcelona"
-descripcion: "Tour de 6 horas en furgoneta de grupo reducido (máximo 8 personas): monasterio, funicular de Sant Joan y caminata por el parque natural con vistas panorámicas."
-
+titulo: Montserrat con funicular y excursión panorámica en grupo de 8
+slug: montserrat-funicular-caminata-panoramica
+ciudad: barcelona
+descripcion: 'Tour de 6 horas en furgoneta de grupo reducido (máximo 8 personas): monasterio, funicular de Sant Joan y caminata por el parque natural con vistas panorámicas.'
 slugs:
-  es: "montserrat-funicular-caminata-panoramica"
-  en: "montserrat-funicular-scenic-hike"
-
-duracion: "6 horas"
+  es: montserrat-funicular-caminata-panoramica
+  en: montserrat-funicular-scenic-hike
+duracion: 6 horas
 duracionMinutos: 360
 precioDesde: 68
-moneda: "EUR"
-idiomas: ["es", "en", "de", "ca", "eu"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/barcelona-l45/from-barcelona-montserrat-monastery-and-scenic-mountain-tour-t411899/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+- de
+- ca
+- eu
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/barcelona-l45/from-barcelona-montserrat-monastery-and-scenic-mountain-tour-t411899/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Grupo máximo de 8 personas — el ratio más íntimo del comparador junto a EXB-26"
-  - "Funicular de Sant Joan incluido (sube al mirador más alto del parque)"
-  - "Caminata fácil por los senderos del Parque Natural con explicación de fauna y geología"
-  - "5 idiomas disponibles: español, catalán, inglés, alemán, vasco"
-  - "Accesible en silla de ruedas (consultar al operador para confirmar)"
-
+- Grupo máximo de 8 personas — el ratio más íntimo del comparador junto a EXB-26
+- Funicular de Sant Joan incluido (sube al mirador más alto del parque)
+- Caminata fácil por los senderos del Parque Natural con explicación de fauna y geología
+- '5 idiomas disponibles: español, catalán, inglés, alemán, vasco'
+- Accesible en silla de ruedas (consultar al operador para confirmar)
 incluye:
-  - "Traslado de ida y vuelta desde Barcelona"
-  - "Guía profesional"
-  - "Entrada al monasterio"
-  - "Ticket de entrada al funicular"
-  - "Bastones de senderismo"
-
+- Traslado de ida y vuelta desde Barcelona
+- Guía profesional
+- Entrada al monasterio
+- Ticket de entrada al funicular
+- Bastones de senderismo
 noIncluye:
-  - "Propinas"
-  - "Servicio de recogida y regreso al hotel"
-  - "Comida y bebida"
-
+- Propinas
+- Servicio de recogida y regreso al hotel
+- Comida y bebida
 puntoEncuentro:
-  texto: "Passeig de Gràcia, 29, 08007 Barcelona"
-  descripcionGuia: "Reunión en los bancos del Passeig de Gràcia 29. Llegada puntual a las 08:00 — la visita sale en hora. El guía irá identificado y os esperará junto a los bancos."
+  texto: Passeig de Gràcia, 29, 08007 Barcelona
+  descripcionGuia: Reunión en los bancos del Passeig de Gràcia 29. Llegada puntual a las 08:00 — la visita sale en hora. El guía irá identificado y os esperará junto a los bancos.
   latitud: 41.3899
   longitud: 2.1656
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado cómodo (la caminata es fácil pero por senderos naturales)"
-    - "Aperitivos"
-    - "Agua"
-    - "Ropa cómoda"
+  - Calzado cómodo (la caminata es fácil pero por senderos naturales)
+  - Aperitivos
+  - Agua
+  - Ropa cómoda
   noAptoPara:
-    - "Personas con vértigo severo (el funicular puede ser intenso)"
+  - Personas con vértigo severo (el funicular puede ser intenso)
   aTenerEnCuenta:
-    - "El tour puede cancelarse por mal tiempo (se reembolsa al 100%)"
-    - "Los bastones de senderismo se proporcionan para la caminata fácil"
-    - "Grupo máximo 8 personas: si quieres formato más íntimo todavía, mira el tour privado"
-
-accesibilidad: "Accesible en silla de ruedas según declaración del operador. Confirma al reservar por si el modelo concreto de furgoneta no se adapta a una silla específica."
-
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso completo. Si el operador cancela por meteorología, también se reembolsa al 100%."
-
+  - El tour puede cancelarse por mal tiempo (se reembolsa al 100%)
+  - Los bastones de senderismo se proporcionan para la caminata fácil
+  - 'Grupo máximo 8 personas: si quieres formato más íntimo todavía, mira el tour privado'
+accesibilidad: Accesible en silla de ruedas según declaración del operador. Confirma al reservar por si el modelo concreto de furgoneta no se adapta a una silla específica.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo. Si el operador cancela por meteorología, también se reembolsa al 100%.
 preguntasFrecuentes:
-  - pregunta: "¿Cuál es la diferencia con Mont Escape (EXB-03)?"
-    respuesta: "Ambos son grupos pequeños en furgoneta. Mont Escape usa teleférico (Aeri de Montserrat); este usa funicular de Sant Joan. UNIque opera con más idiomas disponibles (5 vs 3) y es accesible en silla de ruedas. Mont Escape tiene 1.146 reseñas vs 1.033 de UNIque — ambos a 4,9 ★."
-  - pregunta: "¿En qué consiste el funicular?"
-    respuesta: "El funicular de Sant Joan es un funicular tradicional que sube desde el monasterio (725 m) hasta el mirador de Sant Joan (1.000 m) en unos 7 minutos. Es distinto del teleférico (Aeri) que sube desde el valle hasta el monasterio. Desde el mirador alto se ven todos los picos de Montserrat y, en días claros, hasta el Pirineo."
-  - pregunta: "¿La caminata es difícil?"
-    respuesta: "No. Es una caminata fácil pensada para todos los niveles. El guía te facilita bastones de senderismo. Si tienes problemas serios de movilidad, contacta antes."
-  - pregunta: "¿Qué idiomas habla el guía?"
-    respuesta: "Español, catalán, inglés, alemán o vasco. Selecciona el idioma al reservar — es uno de los pocos tours del comparador que ofrece tantos idiomas en grupo reducido."
-  - pregunta: "¿Está incluida la Moreneta?"
-    respuesta: "El acceso a la basílica y al monasterio están incluidos. La Sala del Trono donde está la Moreneta NO está incluida explícitamente — pregúntale al guía al llegar si la quieres ver durante el tiempo libre."
-
+- pregunta: ¿Cuál es la diferencia con Mont Escape (EXB-03)?
+  respuesta: Ambos son grupos pequeños en furgoneta. Mont Escape usa teleférico (Aeri de Montserrat); este usa funicular de Sant Joan. UNIque opera con más idiomas disponibles (5 vs 3) y es accesible en silla de ruedas. Mont Escape tiene 1.146 reseñas vs 1.033 de UNIque — ambos a 4,9 ★.
+- pregunta: ¿En qué consiste el funicular?
+  respuesta: El funicular de Sant Joan es un funicular tradicional que sube desde el monasterio (725 m) hasta el mirador de Sant Joan (1.000 m) en unos 7 minutos. Es distinto del teleférico (Aeri) que sube desde el valle hasta el monasterio. Desde el mirador alto se ven todos los picos de Montserrat y, en días claros, hasta el Pirineo.
+- pregunta: ¿La caminata es difícil?
+  respuesta: No. Es una caminata fácil pensada para todos los niveles. El guía te facilita bastones de senderismo. Si tienes problemas serios de movilidad, contacta antes.
+- pregunta: ¿Qué idiomas habla el guía?
+  respuesta: Español, catalán, inglés, alemán o vasco. Selecciona el idioma al reservar — es uno de los pocos tours del comparador que ofrece tantos idiomas en grupo reducido.
+- pregunta: ¿Está incluida la Moreneta?
+  respuesta: El acceso a la basílica y al monasterio están incluidos. La Sala del Trono donde está la Moreneta NO está incluida explícitamente — pregúntale al guía al llegar si la quieres ver durante el tiempo libre.
 variantes:
-  - "montserrat-teleferico-y-caminata-grupo-pequeno"
-  - "montserrat-tour-privado-recogida-hotel"
+- montserrat-teleferico-y-caminata-grupo-pequeno
+- montserrat-tour-privado-recogida-hotel
+opinionEditorial: 'Alternativa directa a Mont Escape (EXB-03) en formato grupo reducido. La elección entre los dos es práctica: si quieres teleférico desde el valle y caminata sin más, Mont Escape (74 €) o este (68 €) son equivalentes. UNIque tiene un par de ventajas: 5 idiomas disponibles (Mont Escape solo tiene 3) y declaración de accesibilidad en silla de ruedas si confirmas con el operador.
 
-opinionEditorial: |
-  Alternativa directa a Mont Escape (EXB-03) en formato grupo reducido. La elección entre los dos es práctica: si quieres teleférico desde el valle y caminata sin más, Mont Escape (74 €) o este (68 €) son equivalentes. UNIque tiene un par de ventajas: 5 idiomas disponibles (Mont Escape solo tiene 3) y declaración de accesibilidad en silla de ruedas si confirmas con el operador.
 
   Lo que pagas: 68 € por la opción base. Por ese precio te llevas grupo de 8, guía cualificado, funicular de Sant Joan (que es el upgrade más interesante de Montserrat), caminata por el parque y bastones incluidos. Si te interesa la combinación de naturaleza + grupo pequeño + multilingüe, esta es la opción que ofrece más versatilidad.
 
-categoria: "excursionesDia"
-keywords: ["montserrat funicular", "montserrat grupo pequeno", "montserrat sant joan", "tour montserrat panoramico", "unique tours barcelona"]
-
-imagen: "/images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero.webp"
-imagenAlt: "Vistas panorámicas desde la cima del funicular de Sant Joan, Montserrat"
-
+  '
+categoria: excursionesDia
+keywords:
+- montserrat funicular
+- montserrat grupo pequeno
+- montserrat sant joan
+- tour montserrat panoramico
+- unique tours barcelona
+imagen: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero.webp
+imagenAlt: Vistas panorámicas desde la cima del funicular de Sant Joan, Montserrat
 galeria:
-  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
-    alt: "Formaciones rocosas de Montserrat con el monasterio al fondo"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp"
-    alt: "Monasterio de Montserrat entre las montañas"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero.webp"
-    alt: "Monasterio de Montserrat entre picos de roca"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-stunning-view-intricate-hero.webp"
-    alt: "Vista detallada de los picos de Montserrat"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-catalonia-hero.webp"
-    alt: "Paisaje de montaña en Montserrat, Cataluña"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-nature-spain-religion-hero.webp"
-    alt: "Formaciones rocosas de Montserrat junto al monasterio"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-2-hero.webp"
-    alt: "Picos rocosos de la montaña de Montserrat"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-spain-13-hero.webp"
-    alt: "Detalle de las rocas de Montserrat junto a un mirador"
-
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Estatua del abad Oliba entre la vegetación de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp
+  alt: Monasterio de Montserrat entre las montañas
+- src: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero.webp
+  alt: Monasterio de Montserrat entre picos de roca
+- src: /images/actividades/barcelona/montserrat/montserrat-stunning-view-intricate-hero.webp
+  alt: Vista detallada de los picos de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-spain-catalonia-hero.webp
+  alt: Paisaje de montaña en Montserrat, Cataluña
+- src: /images/actividades/barcelona/montserrat/montserrat-monastery-nature-spain-religion-hero.webp
+  alt: Formaciones rocosas de Montserrat junto al monasterio
+- src: /images/actividades/barcelona/montserrat/montserrat-monastery-spain-religion-church-2-hero.webp
+  alt: Picos rocosos de la montaña de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-spain-13-hero.webp
+  alt: Detalle de las rocas de Montserrat junto a un mirador
 ratingProveedor: 4.9
 numeroOpiniones: 1033
-
 publicada: false
 destacada: false
-fecha: "2026-05-15"
+fecha: '2026-05-15'
 atraccionesRelacionadas:
-  - "montserrat"
+- montserrat
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

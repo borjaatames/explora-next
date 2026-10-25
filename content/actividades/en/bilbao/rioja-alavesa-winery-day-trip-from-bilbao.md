@@ -70,12 +70,20 @@ keywords:
 imagen: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-02.webp
 imagenAlt: Underground wine cellar in Laguardia
 galeria:
+- src: /images/actividades/bilbao/vitoria/vitoria-plaza-virgen-blanca.webp
+  alt: Plaza de la Virgen Blanca in Vitoria-Gasteiz old town
 - src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-01.webp
   alt: Vineyards of Rioja Alavesa
+- src: /images/actividades/bilbao/rioja-alavesa/laguardia-calle-medieval.webp
+  alt: Medieval stone street in Laguardia
 - src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-03.webp
   alt: Approaching Laguardia through the vineyards
+- src: /images/actividades/bilbao/rioja-alavesa/laguardia-muralla.webp
+  alt: Laguardia's town wall with flowered balconies
 - src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-04.webp
   alt: Vineyard near Laguardia
+- src: /images/actividades/granada/almunecar/bodega-cata-barricas.webp
+  alt: Wine glasses served at a tasting in front of barrels
 - src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-05.webp
   alt: Rows of vines in Laguardia
 - src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-08.webp
@@ -89,7 +97,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

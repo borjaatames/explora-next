@@ -2,8 +2,7 @@
 titulo: 'Tour privado: Ávila, Segovia y El Escorial'
 slug: tour-privado-avila-segovia-escorial
 ciudad: madrid
-descripcion: Tour privado de un día desde Madrid a Ávila, Segovia y El Escorial con guía en exclusiva, vehículo con aire acondicionado
-  y recogida en el hotel.
+descripcion: Tour privado de un día desde Madrid a Ávila, Segovia y El Escorial con guía en exclusiva, vehículo con aire acondicionado y recogida en el hotel.
 slugs:
   es: tour-privado-avila-segovia-escorial
   en: private-avila-segovia-escorial-tour
@@ -34,9 +33,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Recogida en tu hotel del centro de Madrid
-  descripcionGuia: 'Es un tour privado con recogida en el hotel: el operador confirma la hora y el punto exacto tras la reserva,
-    según dónde te alojes. La recogida está incluida para hoteles del centro de Madrid; si tu alojamiento queda a las afueras,
-    confírmalo con el operador antes de reservar.'
+  descripcionGuia: 'Es un tour privado con recogida en el hotel: el operador confirma la hora y el punto exacto tras la reserva, según dónde te alojes. La recogida está incluida para hoteles del centro de Madrid; si tu alojamiento queda a las afueras, confírmalo con el operador antes de reservar.'
   latitud: 40.4169
   longitud: -3.7035
   zoom: 14
@@ -58,43 +55,27 @@ informacionImportante:
   - 'El recorrido encadena 3 destinos en un día: el horario es ajustado y conviene seguir las indicaciones del guía'
   - No se admite a quienes lleguen tarde a la recogida
   - Incluye la entrada a El Escorial, pero no a otros monumentos de Ávila y Segovia
-accesibilidad: 'Tour no recomendado para sillas de ruedas ni movilidad reducida: combina los cascos históricos de Ávila y
-  Segovia, con cuestas y empedrado, y la visita al Monasterio de El Escorial.'
-politicaCancelacion: Cancela gratis hasta 24 horas antes de la salida y recibirás el reembolso completo. Después de ese plazo
-  no hay reembolso.
+accesibilidad: 'Tour no recomendado para sillas de ruedas ni movilidad reducida: combina los cascos históricos de Ávila y Segovia, con cuestas y empedrado, y la visita al Monasterio de El Escorial.'
+politicaCancelacion: Cancela gratis hasta 24 horas antes de la salida y recibirás el reembolso completo. Después de ese plazo no hay reembolso.
 preguntasFrecuentes:
 - pregunta: ¿El precio es por persona o por el grupo?
-  respuesta: 'Es un tour privado: contratas el vehículo y el guía en exclusiva para tu grupo. El precio que se muestra es
-    orientativo por persona partiendo de un grupo pequeño; el coste final depende del número de participantes, así que cuantos
-    más seáis, más sale a cuenta por cabeza. Confirma el precio para tu grupo al reservar.'
+  respuesta: 'Es un tour privado: contratas el vehículo y el guía en exclusiva para tu grupo. El precio que se muestra es orientativo por persona partiendo de un grupo pequeño; el coste final depende del número de participantes, así que cuantos más seáis, más sale a cuenta por cabeza. Confirma el precio para tu grupo al reservar.'
 - pregunta: ¿Qué entradas a monumentos están incluidas?
-  respuesta: Está incluida la entrada al Monasterio de El Escorial. Las entradas a otros monumentos de Ávila y Segovia no
-    están incluidas; el guía recorre con vosotros los exteriores y el casco histórico de esas dos ciudades.
+  respuesta: Está incluida la entrada al Monasterio de El Escorial. Las entradas a otros monumentos de Ávila y Segovia no están incluidas; el guía recorre con vosotros los exteriores y el casco histórico de esas dos ciudades.
 - pregunta: ¿El guía habla español?
-  respuesta: Sí. El tour se ofrece en español e inglés, y al ser privado el guía se dedica solo a tu grupo, sin alternar idiomas
-    con otros viajeros.
+  respuesta: Sí. El tour se ofrece en español e inglés, y al ser privado el guía se dedica solo a tu grupo, sin alternar idiomas con otros viajeros.
 - pregunta: ¿Cómo funciona la recogida?
-  respuesta: 'La recogida está incluida en tu hotel del centro de Madrid. El operador confirma la hora y el punto exacto tras
-    la reserva. Es importante ser puntual: no se puede esperar a quien llegue tarde sin descuadrar la jornada.'
+  respuesta: 'La recogida está incluida en tu hotel del centro de Madrid. El operador confirma la hora y el punto exacto tras la reserva. Es importante ser puntual: no se puede esperar a quien llegue tarde sin descuadrar la jornada.'
 - pregunta: ¿Puedo cancelar si me surge un imprevisto?
-  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no
-    hay devolución.
+  respuesta: Sí. La cancelación es gratuita hasta 24 horas antes de la salida, con reembolso completo. Pasado ese plazo no hay devolución.
 variantes:
 - excursion-avila-segovia-con-entradas
 - excursion-avila-salamanca
 - excursion-cuenca-ciudad-encantada
-opinionEditorial: 'Es la opción acertada si viajáis en grupo o en familia y queréis ver Ávila, Segovia y El Escorial sin compartir
-  guía ni autobús con desconocidos. Al ser privado, el ritmo lo marcáis vosotros, el guía se dedica solo a tu grupo y la recogida
-  en el hotel ahorra la logística del punto de encuentro. Para quien prioriza comodidad y atención personalizada, es el formato
-  más cómodo de esta ruta.
+opinionEditorial: 'Es la opción acertada si viajáis en grupo o en familia y queréis ver Ávila, Segovia y El Escorial sin compartir guía ni autobús con desconocidos. Al ser privado, el ritmo lo marcáis vosotros, el guía se dedica solo a tu grupo y la recogida en el hotel ahorra la logística del punto de encuentro. Para quien prioriza comodidad y atención personalizada, es el formato más cómodo de esta ruta.
 
 
-  Lo que conviene saber antes de reservar: el precio. Al ser un tour privado, lo que pagas es el vehículo y el guía en exclusiva,
-  así que el coste por persona solo tiene sentido en grupo —cuantos más seáis, mejor sale—. Si viajáis dos personas, el precio
-  por cabeza es alto frente a una excursión compartida. La otra cosa: encadenar tres destinos en un día sigue siendo un día
-  intenso, aunque sea privado, y la entrada incluida es la de El Escorial, no la de los monumentos de Ávila y Segovia. Si
-  vais con presupuesto ajustado, una [excursión compartida](/ciudades/madrid/actividades/excursion-avila-segovia-con-entradas)
-  cumple por mucho menos.
+  Lo que conviene saber antes de reservar: el precio. Al ser un tour privado, lo que pagas es el vehículo y el guía en exclusiva, así que el coste por persona solo tiene sentido en grupo —cuantos más seáis, mejor sale—. Si viajáis dos personas, el precio por cabeza es alto frente a una excursión compartida. La otra cosa: encadenar tres destinos en un día sigue siendo un día intenso, aunque sea privado, y la entrada incluida es la de El Escorial, no la de los monumentos de Ávila y Segovia. Si vais con presupuesto ajustado, una [excursión compartida](/ciudades/madrid/actividades/excursion-avila-segovia-con-entradas) cumple por mucho menos.
 
   '
 atraccionesRelacionadas:
@@ -106,7 +87,7 @@ keywords:
 - avila segovia escorial un dia
 - tour privado escorial
 - excursion privada avila segovia
-imagen: "/images/actividades/madrid/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero.webp"
+imagen: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero.webp
 imagenAlt: El Monasterio de El Escorial, palacio y panteón real de los Austrias
 galeria:
 - src: /images/actividades/avila/muralla-avila/muralla-avila-spain-carving-architecture-hero-hero.webp
@@ -122,7 +103,7 @@ galeria:
 - src: /images/actividades/madrid/segovia/segovia-alcazar-hero.webp
   alt: El Alcázar de Segovia sobre el promontorio rocoso con sus torres y chapiteles
 - src: /images/actividades/avila/avila/unsplash-aqnBRXo-xpY-hero.webp
-  alt: 'Ávila: vista panorámica de la ciudad medieval con murallas fortificadas'
+  alt: Murallas de Ávila con sus torres almenadas
 - src: /images/actividades/segovia/acueducto-segovia/acueducto-segovia-aqueduct-01-hero-hero.webp
   alt: Acueducto romano de Segovia con sus arcos de granito en perspectiva frontal
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-castle-spain-fortress-hero-hero.webp
@@ -130,16 +111,17 @@ galeria:
 - src: /images/actividades/avila/catedral-avila/catedral-avila-cathedral-sculpture-church-square-hero-hero.webp
   alt: Catedral de Ávila con escultura religiosa en la plaza de la iglesia
 - src: /images/actividades/avila/catedral-avila/wikimedia-125754038-hero.webp
-  alt: Muralla medieval de Ávila con torres y almenas bajo cielo azul
+  alt: Sepulcro gótico bajo un arco en la catedral de Ávila
 - src: /images/actividades/avila/avila/avila-panoramica-hero.webp
-  alt: "Panorámica de Ávila con muralla medieval y edificios históricos al atardecer"
+  alt: Panorámica de Ávila con muralla medieval y edificios históricos al atardecer
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp
-  alt: "Fachada exterior del Alcázar de Segovia con torres medievales y muros de piedra"
+  alt: Fachada exterior del Alcázar de Segovia con torres medievales y muros de piedra
 ratingProveedor: 4.6
 numeroOpiniones: 106
 publicada: true
 destacada: false
 fecha: '2026-05-14'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

@@ -72,12 +72,20 @@ keywords:
 imagen: /images/actividades/mallorca/calo-des-moro/calo-des-moro-01.webp
 imagenAlt: Turquoise water at Caló des Moro
 galeria:
+- src: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
+  alt: Aerial view of an anchored excursion boat with swimmers around it
 - src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-02.webp
   alt: View over the Caló des Moro bay
+- src: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
+  alt: Snorkeller with a mask in clear Mediterranean water
 - src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-03.webp
   alt: Swimmers at Caló des Moro
+- src: /images/actividades/mallorca/calo-des-moro/velero-cala-llombards.webp
+  alt: Sailing boat anchored at sunrise in Cala Llombards bay, near Caló des Moro
 - src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-04.webp
   alt: Caló des Moro beach between rocks
+- src: /images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp
+  alt: Swimmers in the clear water of Caló des Moro
 - src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-05.webp
   alt: Caló des Moro among pine trees
 - src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-06.webp
@@ -91,7 +99,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

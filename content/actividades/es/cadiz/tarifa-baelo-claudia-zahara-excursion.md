@@ -70,22 +70,30 @@ keywords:
 imagen: /images/actividades/cadiz/baelo-claudia/baelo-claudia-01.webp
 imagenAlt: Ruinas romanas de Baelo Claudia junto al mar
 galeria:
-  - src: "/images/actividades/cadiz/baelo-claudia/baelo-claudia-02.webp"
-    alt: "Factoría de salazones de Baelo Claudia"
-  - src: "/images/actividades/cadiz/baelo-claudia/baelo-claudia-03.webp"
-    alt: "Columnas de la basílica de Baelo Claudia"
-  - src: "/images/actividades/cadiz/baelo-claudia/baelo-claudia-04.webp"
-    alt: "Foro de Baelo Claudia"
-  - src: "/images/actividades/cadiz/tarifa/tarifa-playa-los-lances-kitesurf.webp"
-    alt: "Playa de los Lances en Tarifa con cometas de kitesurf"
-  - src: "/images/actividades/cadiz/baelo-claudia/baelo-claudia-05.webp"
-    alt: "Templos de Baelo Claudia"
-  - src: "/images/actividades/cadiz/baelo-claudia/baelo-claudia-06.webp"
-    alt: "Calle romana en Baelo Claudia"
-  - src: "/images/actividades/cadiz/baelo-claudia/baelo-claudia-07.webp"
-    alt: "Teatro romano de Baelo Claudia"
-  - src: "/images/actividades/cadiz/mar/puesta-sol-atlantico.webp"
-    alt: "Puesta de sol sobre el Atlántico en la Costa de la Luz"
+- src: /images/actividades/cadiz/zahara-atunes/zahara-atunes-playa.webp
+  alt: Playa de Zahara de los Atunes con la sierra del Retín al fondo
+- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-02.webp
+  alt: Factoría de salazones de Baelo Claudia
+- src: /images/actividades/cadiz/bolonia/duna-bolonia.webp
+  alt: Duna de Bolonia y la ensenada de Bolonia desde lo alto
+- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-03.webp
+  alt: Columnas de la basílica de Baelo Claudia
+- src: /images/actividades/cadiz/tarifa/tarifa-vista-africa.webp
+  alt: La costa de África vista desde la muralla de Tarifa
+- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-04.webp
+  alt: Foro de Baelo Claudia
+- src: /images/actividades/cadiz/tarifa/tarifa-castillo-guzman.webp
+  alt: Torres del castillo de Guzmán el Bueno en Tarifa
+- src: /images/actividades/cadiz/tarifa/tarifa-playa-los-lances-kitesurf.webp
+  alt: Playa de los Lances en Tarifa con cometas de kitesurf
+- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-05.webp
+  alt: Templos de Baelo Claudia
+- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-06.webp
+  alt: Calle romana en Baelo Claudia
+- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-07.webp
+  alt: Teatro romano de Baelo Claudia
+- src: /images/actividades/cadiz/mar/puesta-sol-atlantico.webp
+  alt: Puesta de sol sobre el Atlántico en la Costa de la Luz
 ratingProveedor: 4.7
 numeroOpiniones: 31
 atraccionesRelacionadas:
@@ -93,7 +101,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué verás

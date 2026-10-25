@@ -90,7 +90,7 @@ galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
   alt: Main façade of the Royal Palace on Plaza de la Armería
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
-  alt: Arcades of Plaza de la Armería, the meeting point
+  alt: Royal Palace from the Plaza de la Armería with its arcade
 - src: /images/actividades/madrid/palacio-real-privado/unsplash-patio-arcadas.webp
   alt: Arcaded gallery and dome of the Royal Palace
 - src: /images/actividades/madrid/palacio-real-privado/pexels-reloj-bandera.webp
@@ -114,7 +114,7 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

@@ -15,3 +15,6 @@
 - `torre-san-jose-tabarca.webp` — Pexels, Manuel Torres Garcia (Licencia Pexels) — https://www.pexels.com/photo/san-jose-tower-on-tabarca-island-in-spain-12873845/
 - `faro-tabarca-vista-amplia.webp` — Pixabay, AMDUMA (Licencia Pixabay) — https://pixabay.com/photos/lighthouse-building-island-tabarca-7375219/
 - `muralla-antigua-tabarca.webp` — Unsplash, Howard Walsh (Licencia Unsplash) — https://unsplash.com/photos/ancient-stone-wall-beside-a-modern-road-and-buildings-AV9wSaqsIO0
+- `pradera-posidonia.webp` — Frédéric Ducarme · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Posidonia_oceanica_(L).jpg
+- `salemas-posidonia.webp` — Karim saari · CC BY 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Posidonia_oceanica_meadow_and_school_of_Salema_porgy_-_Exploration_and_observation_-_Calanque_de_Sormiou_-_June_2022.jpg
+- `snorkel-pradera-posidonia.webp` — Wusel007 · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Schnorchler_%C3%BCber_Seegraswiese.JPG

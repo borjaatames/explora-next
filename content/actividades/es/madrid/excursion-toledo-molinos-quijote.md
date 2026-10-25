@@ -96,11 +96,11 @@ galeria:
 - src: /images/actividades/toledo/catedral-toledo/wikimedia-163466149-hero.webp
   alt: Panorámica de Toledo con río Tajo, puentes históricos y arquitectura medieval
 - src: /images/actividades/toledo/dmitry-romanoff-yxf9j/dmitry-romanoff-YXf9J-bKOp4-unsplash-hero.webp
-  alt: 'Toledo: vista panorámica de la ciudad medieval con río Tajo, arquitectura histórica y puentes antiguos'
+  alt: Puerta con arco de herradura en el casco antiguo de Toledo
 - src: /images/actividades/toledo/iglesia-santo-tome-toledo/wikimedia-23770003-hero.webp
   alt: Panorámica de Toledo con sus edificios históricos y la catedral al fondo
 - src: /images/actividades/madrid/tapas-madrid/pixabay-2545742-hero.webp
-  alt: Vista panorámica de Madrid con edificios históricos y modernos bajo cielo azul
+  alt: Jamón ibérico cortado a cuchillo
 - src: /images/actividades/toledo/mezquita-cristo-luz-toledo/wikimedia-161540624-hero.webp
   alt: Panorámica de Toledo con sus monumentos históricos y arquitectura medieval
 - src: /images/actividades/toledo/monasterio-san-juan-reyes-toledo/wikimedia-16963473-hero.webp
@@ -110,13 +110,13 @@ galeria:
 - src: /images/actividades/toledo/sinagoga-santa-maria-blanca-toledo/wikimedia-25496325-hero.webp
   alt: 'Toledo: vista aérea de la ciudad medieval con catedral y río Tajo'
 - src: /images/actividades/toledo/tom-g-kfgjwjnpdq8/tom-g-Kfgjwjnpdq8-unsplash-hero.webp
-  alt: Vista panorámica de Toledo con sus casas blancas y la catedral al atardecer
+  alt: Callejón estrecho de Toledo de noche
 ratingProveedor: 4.9
 numeroOpiniones: 314
 publicada: true
 destacada: false
 fecha: '2026-05-06'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

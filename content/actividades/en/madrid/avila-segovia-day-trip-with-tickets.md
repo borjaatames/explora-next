@@ -2,8 +2,7 @@
 titulo: Ávila and Segovia from Madrid with Tickets Included
 slug: avila-segovia-day-trip-with-tickets
 ciudad: madrid
-descripcion: A full-day trip to Ávila and Segovia from Madrid with monument tickets included, an official guide, audio system
-  and a snack. Round-trip coach.
+descripcion: A full-day trip to Ávila and Segovia from Madrid with monument tickets included, an official guide, audio system and a snack. Round-trip coach.
 slugs:
   en: avila-segovia-day-trip-with-tickets
   es: excursion-avila-segovia-con-entradas
@@ -36,9 +35,7 @@ noIncluye:
 - Gratuities
 puntoEncuentro:
   texto: Fun and Tickets, C. de San Bernardo, 7, Centro, 28015 Madrid
-  descripcionGuia: The meeting point is the Fun and Tickets office at calle San Bernardo, 7, in central Madrid. Arrive 15
-    minutes before departure for check-in. Look for the Fun and Tickets sign so you don't confuse it with other operators
-    on the same street.
+  descripcionGuia: The meeting point is the Fun and Tickets office at calle San Bernardo, 7, in central Madrid. Arrive 15 minutes before departure for check-in. Look for the Fun and Tickets sign so you don't confuse it with other operators on the same street.
   latitud: 40.4211
   longitud: -3.7082
   zoom: 17
@@ -60,41 +57,27 @@ informacionImportante:
   - The route covers two cities in one day; time at each monument is measured
   - Lunch is not included; there is free time to eat on your own
   - 'The guided visit uses an audio system: you are given headsets to follow the guide'
-accesibilidad: 'Not recommended for wheelchair users or people with reduced mobility: both Ávila and Segovia have historic
-  centres with slopes, steps and cobbled pavements, and the day runs at a demanding pace.'
+accesibilidad: 'Not recommended for wheelchair users or people with reduced mobility: both Ávila and Segovia have historic centres with slopes, steps and cobbled pavements, and the day runs at a demanding pace.'
 politicaCancelacion: Cancel free of charge up to 24 hours before departure for a full refund. After that, no refund applies.
 preguntasFrecuentes:
 - pregunta: Which monument tickets are included?
-  respuesta: Entry to the Basilica of San Vicente in Ávila, Segovia Cathedral and the Alcázar of Segovia are included, along
-    with the visit to the church-convent of Saint Teresa of Jesus. That is the main difference from the cheaper version of
-    this same route, which stays on the outside.
+  respuesta: Entry to the Basilica of San Vicente in Ávila, Segovia Cathedral and the Alcázar of Segovia are included, along with the visit to the church-convent of Saint Teresa of Jesus. That is the main difference from the cheaper version of this same route, which stays on the outside.
 - pregunta: Does the guide speak English?
-  respuesta: Yes. The trip is offered in Spanish and English. Depending on the group, the guide explains live or a recorded
-    audio guide is used; in both cases audio-system headsets are provided.
+  respuesta: Yes. The trip is offered in Spanish and English. Depending on the group, the guide explains live or a recorded audio guide is used; in both cases audio-system headsets are provided.
 - pregunta: How much time do you get in each city?
-  respuesta: The day lasts around 9 hours in total, including travel from Madrid. The time is split between Ávila and Segovia
-    with guided visits and a break with free time; the pace is brisk because it is two cities in one day.
+  respuesta: The day lasts around 9 hours in total, including travel from Madrid. The time is split between Ávila and Segovia with guided visits and a break with free time; the pace is brisk because it is two cities in one day.
 - pregunta: Is food included?
-  respuesta: Lunch is not included. A snack and a drink are included during the stop in Ávila. There is free time to eat on
-    your own; bring some money for it.
+  respuesta: Lunch is not included. A snack and a drink are included during the stop in Ávila. There is free time to eat on your own; bring some money for it.
 - pregunta: Can I cancel if something comes up?
-  respuesta: Yes. Cancellation is free up to 24 hours before departure, with a full refund. After that deadline there is no
-    refund.
+  respuesta: Yes. Cancellation is free up to 24 hours before departure, with a full refund. After that deadline there is no refund.
 variantes:
 - avila-segovia-budget-day-trip
 - avila-salamanca-day-trip
 - private-avila-segovia-escorial-tour
-opinionEditorial: 'This is the right pick if you want to see Ávila and Segovia in one day without worrying about buying tickets
-  separately. Unlike the cheaper "escape" version, this one includes the entries that actually count — the Basilica of San
-  Vicente, Segovia Cathedral and the Alcázar — plus the church of Saint Teresa. For a first trip to these two cities, arriving
-  with everything sorted and an official guide alongside you is worth the extra cost.
+opinionEditorial: 'This is the right pick if you want to see Ávila and Segovia in one day without worrying about buying tickets separately. Unlike the cheaper "escape" version, this one includes the entries that actually count — the Basilica of San Vicente, Segovia Cathedral and the Alcázar — plus the church of Saint Teresa. For a first trip to these two cities, arriving with everything sorted and an official guide alongside you is worth the extra cost.
 
 
-  What the marketing doesn''t tell you: it is two UNESCO World Heritage cities squeezed into a 9-hour day, and you feel it.
-  The most common complaint in the reviews is the rushed pace and the limited free time. If you are travelling to wander slowly,
-  photograph without hurry and eat without watching the clock, this format will leave you wanting; you would be better off
-  giving each city its own day. And if mobility is an issue, skip it: the cobblestones and slopes of both historic centres
-  are unforgiving.
+  What the marketing doesn''t tell you: it is two UNESCO World Heritage cities squeezed into a 9-hour day, and you feel it. The most common complaint in the reviews is the rushed pace and the limited free time. If you are travelling to wander slowly, photograph without hurry and eat without watching the clock, this format will leave you wanting; you would be better off giving each city its own day. And if mobility is an issue, skip it: the cobblestones and slopes of both historic centres are unforgiving.
 
   '
 atraccionesRelacionadas:
@@ -106,7 +89,7 @@ keywords:
 - avila segovia tour with tickets
 - visit avila and segovia
 - madrid to avila segovia tour
-imagen: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp"
+imagen: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp
 imagenAlt: The Roman aqueduct of Segovia with its double row of granite arches
 galeria:
 - src: /images/actividades/madrid/segovia/segovia-alcazar-castle-spain-fortress-hero-hero.webp
@@ -118,7 +101,7 @@ galeria:
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-mafalda-moura-nc-cd5jr7fy-unsplash-hero-hero.webp
   alt: Hall of the Kings inside the Alcázar of Segovia, featuring a red canopy and armored figures.
 - src: /images/actividades/avila/basilica-san-vicente/pexels-32979839-hero.webp
-  alt: Historic stone walls and medieval architecture of Avila's old town
+  alt: Basilica of San Vicente in Ávila
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-22-2017-10-24-hero-hero.webp
   alt: Medieval fortress with towers and crenellated walls overlooking Segovia's landscape
 - src: /images/actividades/segovia/alcazar-segovia/alcazar-segovia-boris-isaac-chfluoeqvqc-unsplash-hero-hero.webp
@@ -140,6 +123,7 @@ numeroOpiniones: 4805
 publicada: true
 destacada: false
 fecha: '2026-05-14'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

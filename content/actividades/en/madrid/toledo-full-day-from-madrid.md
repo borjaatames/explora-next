@@ -84,7 +84,7 @@ imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-fortres
 imagenAlt: The Alcázar of Toledo, Spain
 galeria:
 - src: /images/actividades/madrid/catedral-toledo/catedral-toledo-fp-cathedral-2025-04-hero.webp
-  alt: "Main façade of Toledo Cathedral with its three portals"
+  alt: Main façade of Toledo Cathedral with its three portals
 - src: /images/actividades/madrid/catedral-toledo/catedral-toledo-interior-view-gothic-cathedral-hero.webp
   alt: Interior of the Gothic Toledo Cathedral
 - src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-ext-01-hero.webp
@@ -104,13 +104,13 @@ galeria:
 - src: /images/actividades/madrid/puerta-bisagra-toledo/puerta-bisagra-toledo-nueva-fachada-hero.webp
   alt: Puerta Nueva de Bisagra, Toledo (façade)
 - src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-stunning-panoramic-view-spain-hero.webp
-  alt: Stunning panoramic view of Toledo, Spain
+  alt: Toledo above the Tagus, with the Alcázar and the cathedral
 ratingProveedor: 4.6
 numeroOpiniones: 869
 publicada: true
 destacada: true
 fecha: '2026-05-06'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

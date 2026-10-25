@@ -80,22 +80,28 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/0b1aa780-ca86-4f83-b3da-baa847ce31a7.jpg
-  alt: Viajeras en un mirador sobre un pueblo blanco de la sierra
+- src: /images/actividades/cadiz/pueblos/arcos-frontera-pena-rio.webp
+  alt: Arcos de la Frontera sobre su peña, con el río Guadalete al pie
+- src: /images/actividades/cadiz/pueblos/arcos-frontera-acantilado.webp
+  alt: Casas blancas de Arcos de la Frontera al borde del acantilado
 - src: /images/actividades/cadiz/pueblos/zahara-embalse.webp
   alt: Zahara de la Sierra y el embalse
-- src: https://imgcdn.bokun.tools/35aec258-f186-423f-8f17-2e616230ae4a.jpg
-  alt: Pueblo blanco con su iglesia en la ladera de la sierra
+- src: /images/actividades/cadiz/pueblos/arcos-frontera-santa-maria-balcon.webp
+  alt: Torre de la basílica de Santa María de Arcos sobre la peña, desde el balcón de la Peña Nueva
 - src: /images/actividades/cadiz/pueblos/grazalema-calle.webp
   alt: Calle encalada de Grazalema
-- src: https://imgcdn.bokun.tools/be207618-3358-458c-aa45-d5c8b276195c.jpg
-  alt: Viajeros contemplando el paisaje de la sierra
 - src: /images/actividades/cadiz/pueblos/grazalema-panoramica.webp
   alt: Panorámica de Grazalema en la sierra
+- src: https://imgcdn.bokun.tools/0b1aa780-ca86-4f83-b3da-baa847ce31a7.jpg
+  alt: Viajeras en un mirador sobre un pueblo blanco de la sierra
+- src: https://imgcdn.bokun.tools/35aec258-f186-423f-8f17-2e616230ae4a.jpg
+  alt: Pueblo blanco con su iglesia en la ladera de la sierra
+- src: https://imgcdn.bokun.tools/be207618-3358-458c-aa45-d5c8b276195c.jpg
+  alt: Viajeros contemplando el paisaje de la sierra
 - src: https://imgcdn.bokun.tools/e1a2de5a-a926-4fd5-9d22-c62939dd946c.jpg
   alt: Calle blanca con rejas en un pueblo de la sierra
 bokunProductId: 1028252
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Cómo es el día

@@ -78,6 +78,8 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/noche/discoteca-pista-baile.webp
+  alt: Nightclub dance floor with crowd and spotlights
 - src: /images/actividades/barcelona/noche/terraza-portal-de-la-pau-noche.webp
   alt: Night-time bar terrace on Plaça del Portal de la Pau
 - src: /images/actividades/barcelona/proveedor-1229842/prov-juego-bar.webp
@@ -95,7 +97,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/3f773373-177e-446a-ad64-06479b2f3d0f.png
   alt: Group of women posing in a bar
 bokunProductId: 1229842
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## How the night works

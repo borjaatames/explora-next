@@ -2,8 +2,7 @@
 titulo: Cuenca and the Enchanted City from Madrid
 slug: cuenca-enchanted-city-day-trip
 ciudad: madrid
-descripcion: A full-day trip to Cuenca and the Enchanted City from Madrid with a local guide, entry to the Enchanted City
-  and a stop at the Ventano del Diablo.
+descripcion: A full-day trip to Cuenca and the Enchanted City from Madrid with a local guide, entry to the Enchanted City and a stop at the Ventano del Diablo.
 slugs:
   en: cuenca-enchanted-city-day-trip
   es: excursion-cuenca-ciudad-encantada
@@ -32,9 +31,7 @@ noIncluye:
 - Gratuities
 puntoEncuentro:
   texto: C. de Carlos y Guillermo Fernández Shaw, 1, 28007 Madrid
-  descripcionGuia: The guide and coach wait on the corner of calle Carlos y Guillermo Fernández Shaw, next to the entrance
-    of the Hotel Claridge. Arrive 15 minutes before departure to find them without stress. The nearest Metro station is Conde
-    de Casal.
+  descripcionGuia: The guide and coach wait on the corner of calle Carlos y Guillermo Fernández Shaw, next to the entrance of the Hotel Claridge. Arrive 15 minutes before departure to find them without stress. The nearest Metro station is Conde de Casal.
   latitud: 40.409
   longitud: -3.6745
   zoom: 17
@@ -55,38 +52,27 @@ informacionImportante:
   - It is a long day, around 11.5 hours, with a fair amount of coach travel
   - Lunch is not included; there is a stop with free time to eat
   - The route through the Enchanted City is on foot, along natural paths
-accesibilidad: 'Not recommended for people with reduced mobility: the Enchanted City is walked along natural paths over uneven
-  terrain, and Cuenca''s old town has slopes and cobblestones.'
+accesibilidad: 'Not recommended for people with reduced mobility: the Enchanted City is walked along natural paths over uneven terrain, and Cuenca''s old town has slopes and cobblestones.'
 politicaCancelacion: Cancel free of charge up to 24 hours before departure for a full refund. After that, no refund applies.
 preguntasFrecuentes:
 - pregunta: What is the Enchanted City?
-  respuesta: It is a natural site on the outskirts of Cuenca where erosion has shaped the limestone rocks into striking forms.
-    It is walked along a signposted trail of just under two hours, and entry is included in the trip.
+  respuesta: It is a natural site on the outskirts of Cuenca where erosion has shaped the limestone rocks into striking forms. It is walked along a signposted trail of just under two hours, and entry is included in the trip.
 - pregunta: Does the guide speak English?
-  respuesta: Yes. The trip is offered in Spanish and English, with a certified local guide who accompanies the group throughout
-    the day.
+  respuesta: Yes. The trip is offered in Spanish and English, with a certified local guide who accompanies the group throughout the day.
 - pregunta: How long is the trip and how much of it is coach travel?
-  respuesta: 'The full day lasts around 11.5 hours. A good part of it is travel: count on a long two hours out, another two
-    back, plus the legs between the Ventano del Diablo, the Enchanted City and Cuenca.'
+  respuesta: 'The full day lasts around 11.5 hours. A good part of it is travel: count on a long two hours out, another two back, plus the legs between the Ventano del Diablo, the Enchanted City and Cuenca.'
 - pregunta: Is food included?
   respuesta: No. Lunch is not included. There is a stop with free time, usually in Cuenca, to eat on your own.
 - pregunta: Can I cancel if something comes up?
-  respuesta: Yes. Cancellation is free up to 24 hours before departure, with a full refund. After that deadline there is no
-    refund.
+  respuesta: Yes. Cancellation is free up to 24 hours before departure, with a full refund. After that deadline there is no refund.
 variantes:
 - avila-segovia-day-trip-with-tickets
 - avila-salamanca-day-trip
 - avila-segovia-budget-day-trip
-opinionEditorial: 'This is the right pick if you want a getaway from Madrid that''s different from the usual ones: instead
-  of another monumental city, it pairs Cuenca''s old town — with its Hanging Houses overlooking the gorge — with a natural
-  site, the Enchanted City. That mix of heritage and nature is what reviewers value most, and the 4.8 average is one of the
-  highest among day trips from Madrid.
+opinionEditorial: 'This is the right pick if you want a getaway from Madrid that''s different from the usual ones: instead of another monumental city, it pairs Cuenca''s old town — with its Hanging Houses overlooking the gorge — with a natural site, the Enchanted City. That mix of heritage and nature is what reviewers value most, and the 4.8 average is one of the highest among day trips from Madrid.
 
 
-  What''s worth knowing before you book: it is a long day, almost twelve hours, and a significant part of it is coach travel,
-  because Cuenca is further than Ávila or Segovia. Even the people who enjoy it ask for more free time to wander Cuenca at
-  leisure. If long stretches on the road tire you, or you want a shorter getaway, this isn''t your best option. And if mobility
-  is an issue, skip it: the Enchanted City is walked along uneven natural paths.
+  What''s worth knowing before you book: it is a long day, almost twelve hours, and a significant part of it is coach travel, because Cuenca is further than Ávila or Segovia. Even the people who enjoy it ask for more free time to wander Cuenca at leisure. If long stretches on the road tire you, or you want a shorter getaway, this isn''t your best option. And if mobility is an issue, skip it: the Enchanted City is walked along uneven natural paths.
 
   '
 atraccionesRelacionadas:
@@ -98,28 +84,35 @@ keywords:
 - cuenca tour one day
 - visit cuenca from madrid
 - ciudad encantada tour
-imagen: "/images/actividades/cuenca/casas-colgadas/unsplash-QDbYlRHRICc-hero.webp"
-imagenAlt: "Cuenca's Hanging Houses above the Huécar gorge"
+imagen: /images/actividades/cuenca/ciudad-encantada/ciudad-encantada-seta-visitantes.webp
+imagenAlt: Large mushroom-shaped rock in the Ciudad Encantada of Cuenca, with visitors at its base
 galeria:
+- src: /images/actividades/cuenca/ventano-del-diablo/ventano-diablo-arco-hoz-jucar.webp
+  alt: The Júcar gorge seen through the rock arch of the Ventano del Diablo
+- src: /images/actividades/cuenca/casas-colgadas/unsplash-QDbYlRHRICc-hero.webp
+  alt: Cuenca's Hanging Houses above the Huécar gorge
+- src: /images/actividades/cuenca/catedral/catedral-cuenca-plaza-mayor.webp
+  alt: Cuenca Cathedral and the colourful houses of the Plaza Mayor
 - src: /images/actividades/cuenca/casas-colgadas/pexels-34299030-hero.webp
-  alt: Historic colonial architecture and blue Domed Cathedral in Cuenca Ecuador's main plaza
+  alt: Churches and houses of Cuenca's old town above the gorge
 - src: /images/actividades/cuenca/puente-san-pablo/pexels-33292983-hero.webp
-  alt: Historic cathedral in Cuenca with blue dome and colonial architecture
+  alt: San Pablo bridge and the former San Pablo convent in Cuenca
 - src: /images/actividades/cuenca/ciudad-encantada/pixabay-4645475-hero.webp
-  alt: Historic Cuenca cityscape with colonial architecture and river valley
+  alt: Limestone rocks shaped by erosion in the Ciudad Encantada
 - src: /images/actividades/cuenca/ciudad-encantada/pixabay-4642730-hero.webp
-  alt: Historic cityscape of Cuenca with colorful colonial buildings nestled in mountain valley
+  alt: Mushroom-shaped rock in the Ciudad Encantada
 - src: /images/actividades/cuenca/casas-colgadas/pexels-33292998-hero.webp
-  alt: Historic colonial architecture and blue-domed cathedral in Cuenca, Ecuador
+  alt: Cuenca's old town on the hillside
 - src: /images/actividades/cuenca/ciudad-encantada/pexels-2992883-hero.webp
-  alt: Historic Cuenca colonial architecture with terracotta roofs and white buildings on hillside
+  alt: Cuenca's Hanging Houses in autumn
 - src: /images/actividades/cuenca/hoz-huecar/pexels-1627961-hero.webp
-  alt: Historic colonial architecture and blue buildings in Cuenca's old town streets
+  alt: River gorge between rock walls in the Serranía de Cuenca
 ratingProveedor: 4.8
 numeroOpiniones: 561
 publicada: true
 destacada: false
 fecha: '2026-05-14'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

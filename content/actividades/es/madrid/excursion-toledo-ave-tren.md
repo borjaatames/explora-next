@@ -86,11 +86,11 @@ galeria:
 - src: /images/actividades/madrid/catedral-toledo/catedral-toledo-santa-maria-int-03-hero.webp
   alt: Toledo - Catedral de Santa Maria int 03
 - src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-view-city-from-hill-2-hero.webp
-  alt: Vista panoramica toledo view city from hill 2 en Vista panoramica toledo
+  alt: Toledo con el Alcázar y la torre de la catedral
 - src: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-view-city-river-running-through-it-hero.webp
-  alt: Vista panoramica toledo view city river running through it en Vista panoramica toledo
+  alt: Toledo rodeado por el meandro del Tajo
 - src: /images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-foto-6358359-hero.webp
-  alt: "Torre mudéjar de la iglesia de Santo Tomé en Toledo"
+  alt: Torre mudéjar de la iglesia de Santo Tomé en Toledo
 - src: /images/actividades/madrid/sinagoga-santa-maria-blanca/sinagoga-santa-maria-blanca-toledo-6157703803-hero.webp
   alt: Sinagoga Santa María la Blanca, Toledo
 - src: /images/actividades/madrid/sinagoga-transito/sinagoga-transito-toledo-interior3-hero.webp
@@ -108,7 +108,7 @@ numeroOpiniones: 81
 publicada: true
 destacada: false
 fecha: '2026-05-06'
-fecha_actualizacion: '2026-10-04'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

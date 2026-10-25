@@ -1,8 +1,8 @@
 ---
-titulo: "Salamanca Self-Guided Audio Tour – DareMapp App"
+titulo: Salamanca Self-Guided Audio Tour – DareMapp App
 slug: self-guided-tour-daremapp-salamanca
 ciudad: salamanca
-descripcion: "Explore Salamanca at your own pace with the DareMapp self-guided audio tour: Plaza Mayor, Cathedral and University. No guide, available 24/7, in 6 languages."
+descripcion: 'Explore Salamanca at your own pace with the DareMapp self-guided audio tour: Plaza Mayor, Cathedral and University. No guide, available 24/7, in 6 languages.'
 slugs:
   es: tour-autoguiado-daremapp-salamanca
   en: self-guided-tour-daremapp-salamanca
@@ -19,13 +19,13 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1122488
-urlReserva: ""
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Explore Salamanca at your own pace, with no fixed schedule and no group
 - Choose the stops you want and skip the ones you don't
-- "Listen whenever you like: pause and resume the audio anytime"
+- 'Listen whenever you like: pause and resume the audio anytime'
 - Available 24 hours a day, 365 days a year — the access never expires
 - Discover Plaza Mayor, the Cathedral, the Convent of San Esteban and the University of Salamanca, plus the corners with the most history in this university city
 incluye:
@@ -37,10 +37,10 @@ incluye:
 noIncluye:
 - A physical guide (this is a fully self-guided experience, with no companion)
 puntoEncuentro:
-  texto: "No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Salamanca"
+  texto: 'No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Salamanca'
 informacionImportante:
   aTenerEnCuenta:
-  - "Suitable for the whole family: minimum age 1 year"
+  - 'Suitable for the whole family: minimum age 1 year'
   - App available in Spanish, English, Portuguese, French, Italian and German
   - Wheelchair- and stroller-friendly; service animals welcome
   - Good access to public transport around the route
@@ -50,36 +50,36 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
   edadMinima: 1
-politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice."
-opinionEditorial: "This is the right pick if you want to explore Salamanca on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won't get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that's what you're after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well."
+politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice.
+opinionEditorial: 'This is the right pick if you want to explore Salamanca on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won''t get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that''s what you''re after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well.'
 categoria: visitasGuiadas
 keywords:
 - self-guided tour salamanca
 - salamanca audio tour
 - salamanca self-guided app tour
-imagen: "/images/actividades/salamanca/universidad/fachada-universidad.webp"
-imagenAlt: "The Plateresque façade of the University of Salamanca"
+imagen: /images/actividades/salamanca/universidad/fachada-universidad.webp
+imagenAlt: The Plateresque façade of the University of Salamanca
 galeria:
-- src: "/images/actividades/salamanca/plaza/plaza-mayor-soportales.webp"
-  alt: "Arcades of the Plaza Mayor in Salamanca"
+- src: /images/actividades/salamanca/plaza/plaza-mayor-soportales.webp
+  alt: Arcades of the Plaza Mayor in Salamanca
 - src: /images/actividades/salamanca/plaza/plaza-mayor-ayuntamiento.webp
-  alt: "The City Hall façade on Plaza Mayor"
+  alt: The City Hall façade on Plaza Mayor
 - src: /images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero-hero.webp
-  alt: "Historic University of Salamanca building with golden stone facade and architectural details"
+  alt: Historic buildings of Salamanca with the towers of La Clerecía
 - src: /images/actividades/salamanca/catedral/catedral-nueva-interior.webp
-  alt: "Inside the New Cathedral"
+  alt: Inside the New Cathedral
 - src: /images/actividades/salamanca/universidad/escuelas-menores.webp
-  alt: "Courtyard of the Escuelas Menores"
+  alt: Courtyard of the Escuelas Menores
 - src: /images/actividades/salamanca/universidad/biblioteca.webp
-  alt: "The University's historic library"
+  alt: The University's historic library
 - src: https://imgcdn.bokun.tools/ad2730e5-b06d-46f4-9cc4-f99c2b5db9ba.jpg
-  alt: "DaremApp app with the self-guided route"
+  alt: DaremApp app with the self-guided route
 atraccionesRelacionadas:
-  - casco-historico
+- casco-historico
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-09-05'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll discover

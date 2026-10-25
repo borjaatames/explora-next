@@ -2,8 +2,7 @@
 titulo: Sagrada Familia Private Tour with Official Guide
 slug: sagrada-familia-private-guided-tour
 ciudad: barcelona
-descripcion: 'A 2-hour private tour of the Sagrada Familia with a licensed official guide, just for your group. Important:
-  basilica entry is not included.'
+descripcion: 'A 2-hour private tour of the Sagrada Familia with a licensed official guide, just for your group. Important: basilica entry is not included.'
 slugs:
   en: sagrada-familia-private-guided-tour
   es: sagrada-familia-tour-privado
@@ -32,8 +31,7 @@ noIncluye:
 - Gratuities (optional)
 puntoEncuentro:
   texto: Carrer de Sardenya, 322, 08025 Barcelona
-  descripcionGuia: 'The guide waits in front of the address indicated at Carrer de Sardenya, 322, next to the basilica. Come
-    with your Sagrada Familia ticket already bought: without it you cannot enter the monument.'
+  descripcionGuia: 'The guide waits in front of the address indicated at Carrer de Sardenya, 322, next to the basilica. Come with your Sagrada Familia ticket already bought: without it you cannot enter the monument.'
   latitud: 41.4052
   longitud: 2.1739
   zoom: 17
@@ -49,43 +47,28 @@ informacionImportante:
   - 'VERY IMPORTANT: basilica entry is not included. Buy it separately and in advance, before booking this tour'
   - The tour is non-refundable if you cancel within 24 hours of the visit
   - The route requires a moderate amount of walking
-accesibilidad: The operator declares the tour is wheelchair accessible. It requires a moderate amount of walking; most travellers
-  can take part.
-politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance. Within the 24 hours before, there
-  is no refund, so buy your basilica ticket before booking.
+accesibilidad: The operator declares the tour is wheelchair accessible. It requires a moderate amount of walking; most travellers can take part.
+politicaCancelacion: Free cancellation with a full refund if you cancel 24 hours in advance. Within the 24 hours before, there is no refund, so buy your basilica ticket before booking.
 preguntasFrecuentes:
 - pregunta: Is entry to the Sagrada Familia included?
-  respuesta: 'No, and it''s the most important thing on this listing. The price (from €160 per person) covers only the private
-    official guide. You buy basilica entry separately and in advance. Do it BEFORE booking this tour: if you cancel within
-    the 24 hours before, there''s no refund.'
+  respuesta: 'No, and it''s the most important thing on this listing. The price (from €160 per person) covers only the private official guide. You buy basilica entry separately and in advance. Do it BEFORE booking this tour: if you cancel within the 24 hours before, there''s no refund.'
 - pregunta: How many people are on the tour?
-  respuesta: 'Just your group. It''s a private tour: the guide is for you, with no strangers. That''s why you can go at your
-    own pace, ask everything you want and stop for photos without depending on anyone else.'
+  respuesta: 'Just your group. It''s a private tour: the guide is for you, with no strangers. That''s why you can go at your own pace, ask everything you want and stop for photos without depending on anyone else.'
 - pregunta: Why does it cost more than the group visits?
-  respuesta: Because the price is for the exclusivity of the guide, not for the content. On group visits the guide's cost
-    is split among many people; here it's just for you. If there are several of you, the price per person drops compared with
-    going as a couple.
+  respuesta: Because the price is for the exclusivity of the guide, not for the content. On group visits the guide's cost is split among many people; here it's just for you. If there are several of you, the price per person drops compared with going as a couple.
 - pregunta: Is it wheelchair accessible?
   respuesta: Yes. The operator declares the tour is wheelchair accessible. The route requires a moderate amount of walking.
 - pregunta: How long is it and what do you see?
-  respuesta: Two hours. The guide walks you through the Nativity, Passion and Glory façades, the interior with the columns
-    and stained glass, and explains the design, construction and symbolism of the temple from Gaudí's perspective.
+  respuesta: Two hours. The guide walks you through the Nativity, Passion and Glory façades, the interior with the columns and stained glass, and explains the design, construction and symbolism of the temple from Gaudí's perspective.
 variantes:
 - sagrada-familia-small-group-tour
 - sagrada-familia-skip-the-line-guided-tour
 - sagrada-familia-guided-tour-with-free-time
 - sagrada-familia-ticket-audio-guide
-opinionEditorial: 'This is the option for anyone who wants the Sagrada Familia with an official guide to themselves: two hours,
-  at your own pace, without sharing the attention with a group of strangers. The narration — built around Gaudí''s vision
-  and techniques — is aimed at architecture lovers, couples or travellers who want to go deep. And, unlike several guided
-  tours in the comparison, this one declares wheelchair access.
+opinionEditorial: 'This is the option for anyone who wants the Sagrada Familia with an official guide to themselves: two hours, at your own pace, without sharing the attention with a group of strangers. The narration — built around Gaudí''s vision and techniques — is aimed at architecture lovers, couples or travellers who want to go deep. And, unlike several guided tours in the comparison, this one declares wheelchair access.
 
 
-  But there''s one detail that changes the whole decision: **entry to the basilica is NOT included**. The price, from €160
-  per person, pays only for the guide. You buy entry separately and in advance — and you have to do it before booking this
-  tour, because within the 24 hours before there''s no refund. In other words: the real cost is €160 plus the official ticket.
-  With that calculation clear, it''s an honest, well-rated private tour; without it, you get a surprise at the door. If what
-  you want is close attention without reaching this price, the small-group guided tour is the in-between step.
+  But there''s one detail that changes the whole decision: **entry to the basilica is NOT included**. The price, from €160 per person, pays only for the guide. You buy entry separately and in advance — and you have to do it before booking this tour, because within the 24 hours before there''s no refund. In other words: the real cost is €160 plus the official ticket. With that calculation clear, it''s an honest, well-rated private tour; without it, you get a surprise at the door. If what you want is close attention without reaching this price, the small-group guided tour is the in-between step.
 
   '
 categoria: visitasGuiadas
@@ -95,7 +78,7 @@ keywords:
 - private sagrada familia visit
 - sagrada familia official guide
 - sagrada familia personalized tour
-imagen: "/images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp"
+imagen: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
 imagenAlt: Sagrada Familia of Barcelona seen from the square
 ratingProveedor: 4.6
 publicada: false
@@ -104,8 +87,8 @@ fecha: '2026-05-15'
 atraccionesRelacionadas:
 - sagrada-familia
 galeria:
-- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero.webp"
-  alt: "Facade of the Sagrada Familia in Barcelona"
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-barcelona-spain-basilica-expiatory-2-hero.webp
+  alt: Facade of the Sagrada Familia in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp
   alt: Sagrada Familia basilica with Gothic spires and intricate stonework in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
@@ -113,11 +96,12 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-columns-hero-hero.webp
   alt: Sagrada Familia's intricate ceiling and soaring columns in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-21683585-hero.webp
-  alt: Barcelona cityscape with historic architecture and urban landmarks
+  alt: Construction of the Glory façade of the Sagrada Familia
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-54567122-hero.webp
   alt: Barcelona cityscape with historic architecture and Mediterranean coastal views
 - src: /images/actividades/barcelona/sagrada-familia/pixabay-915071-hero.webp
   alt: Barcelona's Gothic Quarter with narrow medieval streets and historic architecture
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

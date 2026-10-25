@@ -74,13 +74,23 @@ keywords:
 - rias bajas tour barco mejillones
 - combarro cambados excursion
 - ruta albariño
-imagen: /images/actividades/santiago-de-compostela/rias/combarro.webp
-imagenAlt: Hórreos de Combarro junto a la ría
+imagen: /images/actividades/santiago-de-compostela/rias/bodega-fefinans-barricas.webp
+imagenAlt: Barricas y depósitos en la bodega del Pazo de Fefiñáns, en Cambados
 galeria:
+- src: /images/actividades/santiago-de-compostela/rias/catamaran-turistico-o-grove.webp
+  alt: Catamarán turístico de paseo por la ría amarrado en el puerto de O Grove
+- src: /images/actividades/santiago-de-compostela/rias/combarro.webp
+  alt: Hórreos de Combarro junto a la ría
+- src: /images/actividades/santiago-de-compostela/rias/vendimia-albarino-cambados.webp
+  alt: Remolques cargados de uva albariño durante la vendimia en Cambados
 - src: /images/actividades/santiago-de-compostela/rias/bateas.webp
   alt: Bateas de mejillones
+- src: /images/actividades/madrid/rueda/cata-vino-blanco.webp
+  alt: Servicio de vino blanco en una cata con varias copas sobre la mesa
 - src: /images/actividades/santiago-de-compostela/rias/toxa-capilla.webp
   alt: Capilla de las conchas de A Toxa
+- src: /images/actividades/santiago-de-compostela/tapas/mejillones.webp
+  alt: Cazuela de mejillones
 - src: /images/actividades/santiago-de-compostela/rias/cambados-fefinans.webp
   alt: Pazo de Fefiñáns en Cambados
 - src: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
@@ -91,10 +101,6 @@ galeria:
   alt: Hórreo de Combarro frente al mar
 - src: /images/actividades/santiago-de-compostela/rias/batea.webp
   alt: Batea de mejillones en la ría
-- src: /images/actividades/santiago-de-compostela/rias/toxa-conchas.webp
-  alt: Conchas de vieira en la capilla de A Toxa
-- src: /images/actividades/santiago-de-compostela/rias/parras.webp
-  alt: Parras de albariño en las Rías Baixas
 ratingProveedor: 4.7
 numeroOpiniones: 486
 atraccionesRelacionadas:
@@ -102,7 +108,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

@@ -1,44 +1,44 @@
 ---
-titulo: "From Tenerife: La Gomera day trip with ferry and lunch"
-slug: "la-gomera-day-trip-ferry-lunch"
-ciudad: "tenerife"
-descripcion: "Full day on La Gomera with ferry from Los Cristianos, official guide, Garajonay, Hermigua, Roque de Agando, a Canarian lunch and silbo whistling. 4.3/5 on GYG."
+titulo: 'From Tenerife: La Gomera day trip with ferry and lunch'
+slug: la-gomera-day-trip-ferry-lunch
+ciudad: tenerife
+descripcion: Full day on La Gomera with ferry from Los Cristianos, official guide, Garajonay, Hermigua, Roque de Agando, a Canarian lunch and silbo whistling. 4.3/5 on GYG.
 slugs:
-  es: "excursion-la-gomera-ferri-almuerzo"
-  en: "la-gomera-day-trip-ferry-lunch"
-duracion: "10 hours"
+  es: excursion-la-gomera-ferri-almuerzo
+  en: la-gomera-day-trip-ferry-lunch
+duracion: 10 hours
 duracionMinutos: 600
 precioDesde: 110
-moneda: "EUR"
+moneda: EUR
 idiomas:
-  - "en"
-  - "es"
-  - "fr"
-  - "de"
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/en-us/activity-t217806/?partner_id=C71NOAW"
+- en
+- es
+- fr
+- de
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/en-us/activity-t217806/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-  - "Fred. Olsen ferry between Los Cristianos and San Sebastián"
-  - "Garajonay National Park and the Laguna Grande"
-  - "Hermigua valley and Roque de Agando"
-  - "Silbo gomero whistled-language demo, UNESCO heritage"
-  - "Canarian lunch in Agulo"
+- Fred. Olsen ferry between Los Cristianos and San Sebastián
+- Garajonay National Park and the Laguna Grande
+- Hermigua valley and Roque de Agando
+- Silbo gomero whistled-language demo, UNESCO heritage
+- Canarian lunch in Agulo
 incluye:
-  - "Pickup and drop-off at about 40 points in south Tenerife"
-  - "Fred. Olsen ferry ticket"
-  - "Official multilingual Canary Islands government guide"
-  - "Air-conditioned coach"
-  - "Canarian lunch with bread, mojo, water and wine (vegetarian option)"
-  - "Silbo gomero demonstration"
-  - "Entry to Garajonay National Park"
+- Pickup and drop-off at about 40 points in south Tenerife
+- Fred. Olsen ferry ticket
+- Official multilingual Canary Islands government guide
+- Air-conditioned coach
+- Canarian lunch with bread, mojo, water and wine (vegetarian option)
+- Silbo gomero demonstration
+- Entry to Garajonay National Park
 noIncluye:
-  - "Drinks outside lunch"
-  - "Spending during free time in San Sebastián"
+- Drinks outside lunch
+- Spending during free time in San Sebastián
 puntoEncuentro:
-  texto: "Pickup at hotels, apartments and bus stops in south Tenerife; the ferry leaves from Los Cristianos harbour."
-  descripcionGuia: "When booking, choose one of around 40 pickup points in the south (including stops of the free Siam Park bus). Bring your ID or passport: without it you can be refused boarding on the ferry."
+  texto: Pickup at hotels, apartments and bus stops in south Tenerife; the ferry leaves from Los Cristianos harbour.
+  descripcionGuia: 'When booking, choose one of around 40 pickup points in the south (including stops of the free Siam Park bus). Bring your ID or passport: without it you can be refused boarding on the ferry.'
   latitud: 28.0465
   longitud: -16.7175
   zoom: 12
@@ -49,60 +49,68 @@ detallesPracticos:
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
-    - "ID card or passport (required for the ferry)"
-    - "Comfortable closed shoes"
-    - "A light jacket"
+  - ID card or passport (required for the ferry)
+  - Comfortable closed shoes
+  - A light jacket
   noAptoPara:
-    - "People with reduced mobility"
-    - "Wheelchair or electric scooter users"
+  - People with reduced mobility
+  - Wheelchair or electric scooter users
   aTenerEnCuenta:
-    - "It's a long day with many hours on coach and boat"
-    - "Mention dietary restrictions when booking"
-    - "French and German depend on the day and departure point"
-    - "The order of stops can change due to logistics, weather or road closures"
-accesibilidad: "Not suitable for people with reduced mobility or wheelchair users."
-politicaCancelacion: "Free cancellation up to 24 hours before, with a full refund."
+  - It's a long day with many hours on coach and boat
+  - Mention dietary restrictions when booking
+  - French and German depend on the day and departure point
+  - The order of stops can change due to logistics, weather or road closures
+accesibilidad: Not suitable for people with reduced mobility or wheelchair users.
+politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
-  - pregunta: "Is the ferry included?"
-    respuesta: "Yes, the return Fred. Olsen ticket between Los Cristianos and San Sebastián de La Gomera is included."
-  - pregunta: "Is there pickup in the north of Tenerife?"
-    respuesta: "The listed pickup points are in the south. On some days there are departures from Puerto de la Cruz; check availability."
-  - pregunta: "Which languages?"
-    respuesta: "Spanish and English daily. French and German only on some days, depending on the departure point."
-  - pregunta: "What documents do I need?"
-    respuesta: "An ID card or passport to board the ferry. Without it you can be refused boarding."
-opinionEditorial: "It's the easiest way to see La Gomera in a day without hiring a car or juggling ferry timetables: the island is small but its roads are slow, and the guide saves a lot of time. The trade-off is ten hours with a lot of travelling and short stops; if you want to walk Garajonay at your own pace, spend a night there."
+- pregunta: Is the ferry included?
+  respuesta: Yes, the return Fred. Olsen ticket between Los Cristianos and San Sebastián de La Gomera is included.
+- pregunta: Is there pickup in the north of Tenerife?
+  respuesta: The listed pickup points are in the south. On some days there are departures from Puerto de la Cruz; check availability.
+- pregunta: Which languages?
+  respuesta: Spanish and English daily. French and German only on some days, depending on the departure point.
+- pregunta: What documents do I need?
+  respuesta: An ID card or passport to board the ferry. Without it you can be refused boarding.
+opinionEditorial: 'It''s the easiest way to see La Gomera in a day without hiring a car or juggling ferry timetables: the island is small but its roads are slow, and the guide saves a lot of time. The trade-off is ten hours with a lot of travelling and short stops; if you want to walk Garajonay at your own pace, spend a night there.'
 guiasRelacionadas:
-  - "what-to-see-in-tenerife"
-categoria: "excursionesDia"
+- what-to-see-in-tenerife
+categoria: excursionesDia
 keywords:
-  - "la gomera day trip from tenerife"
-  - "la gomera tour ferry"
-  - "garajonay trip"
-  - "silbo gomero"
-  - "la gomera in one day"
-imagen: "/images/actividades/tenerife/gomera/roque-de-agando.webp"
-imagenAlt: "Roque de Agando on La Gomera"
+- la gomera day trip from tenerife
+- la gomera tour ferry
+- garajonay trip
+- silbo gomero
+- la gomera in one day
+imagen: /images/actividades/tenerife/gomera/roque-de-agando.webp
+imagenAlt: Roque de Agando on La Gomera
 galeria:
-  - src: "/images/actividades/tenerife/cristianos/puerto-cristianos.webp"
-    alt: "Los Cristianos harbour, where the ferry to La Gomera leaves"
-  - src: "/images/actividades/tenerife/gomera/laurisilva-garajonay.webp"
-    alt: "Trail through the laurel forest of Garajonay National Park"
-  - src: "/images/actividades/tenerife/gomera/valle-gomera.webp"
-    alt: "Valle Gran Rey on La Gomera"
-  - src: "/images/actividades/tenerife/gomera/san-sebastian-puerto.webp"
-    alt: "San Sebastián de La Gomera harbour"
-  - src: "/images/actividades/tenerife/gomera/iglesia-asuncion.webp"
-    alt: "Church of La Asunción in San Sebastián de La Gomera"
-  - src: "/images/actividades/tenerife/gomera/pueblo-gomera.webp"
-    alt: "Rooftops and bell tower in Vallehermoso, La Gomera"
+- src: /images/actividades/tenerife/gomera/ferri-fred-olsen.webp
+  alt: Fred. Olsen ferry sailing between Los Cristianos and La Gomera
+- src: /images/actividades/tenerife/cristianos/puerto-cristianos.webp
+  alt: Los Cristianos harbour, where the ferry to La Gomera leaves
+- src: /images/actividades/tenerife/gomera/valle-hermigua.webp
+  alt: Hermigua valley with its terraces by the sea
+- src: /images/actividades/tenerife/gomera/laurisilva-garajonay.webp
+  alt: Trail through the laurel forest of Garajonay National Park
+- src: /images/actividades/tenerife/gomera/agulo-pueblo.webp
+  alt: Agulo seen from above with the sea behind
+- src: /images/actividades/tenerife/gomera/san-sebastian-puerto.webp
+  alt: San Sebastián de La Gomera harbour
+- src: /images/actividades/tenerife/gomera/silbo-gomero.webp
+  alt: Silbo gomero whistled-language demonstration at a restaurant in Agulo
+- src: /images/actividades/tenerife/gomera/iglesia-asuncion.webp
+  alt: Church of La Asunción in San Sebastián de La Gomera
+- src: /images/actividades/tenerife/gomera/laguna-grande-garajonay.webp
+  alt: Stone circle at Laguna Grande in Garajonay
+- src: /images/actividades/tenerife/gomera/papas-arrugadas-mojo.webp
+  alt: Canarian wrinkled potatoes with red and green mojo
 ratingProveedor: 4.3
 numeroOpiniones: 709
 atraccionesRelacionadas: []
 publicada: true
 destacada: false
-fecha: "2026-10-24"
-fecha_actualizacion: "2026-10-24"
+fecha: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

@@ -1,119 +1,111 @@
 ---
-titulo: "Montserrat con tren cremallera y Virgen Negra desde Barcelona"
-slug: "montserrat-cremallera-virgen-negra"
-ciudad: "barcelona"
-descripcion: "Excursión de medio día con tren cremallera, visita guiada al monasterio y acceso a la Real Basílica con la Virgen Negra. El clásico bilingüe de Montserrat."
-
+titulo: Montserrat con tren cremallera y Virgen Negra desde Barcelona
+slug: montserrat-cremallera-virgen-negra
+ciudad: barcelona
+descripcion: Excursión de medio día con tren cremallera, visita guiada al monasterio y acceso a la Real Basílica con la Virgen Negra. El clásico bilingüe de Montserrat.
 slugs:
-  es: "montserrat-cremallera-virgen-negra"
-  en: "montserrat-rack-railway-black-madonna"
-
-duracion: "5-7 horas"
+  es: montserrat-cremallera-virgen-negra
+  en: montserrat-rack-railway-black-madonna
+duracion: 5-7 horas
 duracionMinutos: 360
 precioDesde: 50
-moneda: "EUR"
-idiomas: ["es", "en"]
-proveedor: "getyourguide"
-urlReserva: "https://www.getyourguide.com/barcelona-l45/barcelona-montserrat-tour-with-rack-railway-and-virgin-la-moreneta-t1177/?partner_id=C71NOAW"
+moneda: EUR
+idiomas:
+- es
+- en
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/barcelona-l45/barcelona-montserrat-tour-with-rack-railway-and-virgin-la-moreneta-t1177/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-
 highlights:
-  - "Subida a Montserrat en el tren cremallera histórico (Cremallera de Montserrat)"
-  - "Visita guiada a la Real Basílica con acceso prioritario a la Moreneta (Virgen Negra)"
-  - "Degustación de 4 licores típicos de la zona y visita al Espai Audiovisual"
-  - "Operador con más volumen del comparador en GetYourGuide: 4,6 ★ con 7.700+ reseñas"
-
+- Subida a Montserrat en el tren cremallera histórico (Cremallera de Montserrat)
+- Visita guiada a la Real Basílica con acceso prioritario a la Moreneta (Virgen Negra)
+- Degustación de 4 licores típicos de la zona y visita al Espai Audiovisual
+- 'Operador con más volumen del comparador en GetYourGuide: 4,6 ★ con 7.700+ reseñas'
 incluye:
-  - "Transporte en autobús con aire acondicionado desde Barcelona"
-  - "Billete del tren cremallera"
-  - "Acceso a la Real Basílica y a la Moreneta"
-  - "Degustación de 4 licores típicos"
-  - "Entrada al Espai Audiovisual de Montserrat"
-  - "Guía local profesional con sistema de radio"
-
+- Transporte en autobús con aire acondicionado desde Barcelona
+- Billete del tren cremallera
+- Acceso a la Real Basílica y a la Moreneta
+- Degustación de 4 licores típicos
+- Entrada al Espai Audiovisual de Montserrat
+- Guía local profesional con sistema de radio
 noIncluye:
-  - "Recogida y regreso al hotel"
-  - "Comida y bebida"
-  - "Acceso a la Escolanía (extra opcional al reservar)"
-  - "Acceso al video-mapping del Milenio (extra opcional al reservar)"
-
+- Recogida y regreso al hotel
+- Comida y bebida
+- Acceso a la Escolanía (extra opcional al reservar)
+- Acceso al video-mapping del Milenio (extra opcional al reservar)
 puntoEncuentro:
-  texto: "Oficina Julià Travel, Carrer d'Alí Bei, 80, 08018 Barcelona"
-  descripcionGuia: "Oficina de Julià Travel en planta baja. Es obligatorio registrarse en el mostrador antes de proceder al andén 19 para subir al autocar."
+  texto: Oficina Julià Travel, Carrer d'Alí Bei, 80, 08018 Barcelona
+  descripcionGuia: Oficina de Julià Travel en planta baja. Es obligatorio registrarse en el mostrador antes de proceder al andén 19 para subir al autocar.
   latitud: 41.3947
   longitud: 2.1822
   zoom: 17
-
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
-
 informacionImportante:
   queTraer:
-    - "Calzado y ropa cómodos"
-    - "Ropa de abrigo o impermeable según temporada (la montaña es más fría que Barcelona)"
-    - "Código de vestimenta para la basílica: hombros cubiertos, sin pantalones cortos ni sandalias"
+  - Calzado y ropa cómodos
+  - Ropa de abrigo o impermeable según temporada (la montaña es más fría que Barcelona)
+  - 'Código de vestimenta para la basílica: hombros cubiertos, sin pantalones cortos ni sandalias'
   noAptoPara:
-    - "Personas con movilidad reducida (recorrido a pie en Montserrat)"
+  - Personas con movilidad reducida (recorrido a pie en Montserrat)
   aTenerEnCuenta:
-    - "Los itinerarios pueden modificarse por motivos operativos"
-    - "La opción con Escolanía solo está disponible en periodo escolar (no en verano ni durante giras del coro)"
-    - "Hay dos lugares de regreso disponibles: Barcelona centro y oficina Julià Travel"
-
-accesibilidad: "Tour no recomendado para sillas de ruedas: incluye recorrido a pie en Montserrat con rampas y desniveles."
-
-politicaCancelacion: "Cancelación gratuita hasta 24 horas antes con reembolso completo. Reserva ahora y paga después: plan flexible sin cargo hoy."
-
+  - Los itinerarios pueden modificarse por motivos operativos
+  - La opción con Escolanía solo está disponible en periodo escolar (no en verano ni durante giras del coro)
+  - 'Hay dos lugares de regreso disponibles: Barcelona centro y oficina Julià Travel'
+accesibilidad: 'Tour no recomendado para sillas de ruedas: incluye recorrido a pie en Montserrat con rampas y desniveles.'
+politicaCancelacion: 'Cancelación gratuita hasta 24 horas antes con reembolso completo. Reserva ahora y paga después: plan flexible sin cargo hoy.'
 preguntasFrecuentes:
-  - pregunta: "¿Está incluido el acceso a la Moreneta?"
-    respuesta: "Sí, esta variante incluye acceso prioritario a la basílica y a la Moreneta. Es uno de los pocos tours del comparador que lo declara explícitamente — muchos solo cubren la basílica."
-  - pregunta: "¿Qué es el tren cremallera y por qué importa?"
-    respuesta: "Es el ascensor histórico que sube desde el valle hasta el monasterio en 12-15 minutos con vistas espectaculares de la montaña. Funciona desde 1892 con un sistema de ruedas dentadas. Es una de las imágenes icónicas de la visita a Montserrat."
-  - pregunta: "¿Puedo escuchar la Escolanía (coro de niños)?"
-    respuesta: "Sí, pero solo si seleccionas la opción al reservar (extra) y solo en periodo escolar. La Escolanía es uno de los coros de niños más antiguos de Europa y actúa de lunes a viernes sobre las 13:00 durante el curso."
-  - pregunta: "¿En qué idioma habla el guía?"
-    respuesta: "Bilingüe español e inglés. El guía alterna entre los dos idiomas al mismo grupo. Si quieres garantía de tour solo en un idioma, considera otro operador o un privado."
-  - pregunta: "¿Cuánto tiempo libre tengo?"
-    respuesta: "65 minutos tras el tour guiado. Tiempo justo para entrar a la basílica, ver la Moreneta, pasear por la plaza y visitar el mercado. Si quieres más tiempo libre, considera variantes de día completo."
-
+- pregunta: ¿Está incluido el acceso a la Moreneta?
+  respuesta: Sí, esta variante incluye acceso prioritario a la basílica y a la Moreneta. Es uno de los pocos tours del comparador que lo declara explícitamente — muchos solo cubren la basílica.
+- pregunta: ¿Qué es el tren cremallera y por qué importa?
+  respuesta: Es el ascensor histórico que sube desde el valle hasta el monasterio en 12-15 minutos con vistas espectaculares de la montaña. Funciona desde 1892 con un sistema de ruedas dentadas. Es una de las imágenes icónicas de la visita a Montserrat.
+- pregunta: ¿Puedo escuchar la Escolanía (coro de niños)?
+  respuesta: Sí, pero solo si seleccionas la opción al reservar (extra) y solo en periodo escolar. La Escolanía es uno de los coros de niños más antiguos de Europa y actúa de lunes a viernes sobre las 13:00 durante el curso.
+- pregunta: ¿En qué idioma habla el guía?
+  respuesta: Bilingüe español e inglés. El guía alterna entre los dos idiomas al mismo grupo. Si quieres garantía de tour solo en un idioma, considera otro operador o un privado.
+- pregunta: ¿Cuánto tiempo libre tengo?
+  respuesta: 65 minutos tras el tour guiado. Tiempo justo para entrar a la basílica, ver la Moreneta, pasear por la plaza y visitar el mercado. Si quieres más tiempo libre, considera variantes de día completo.
 variantes:
-  - "montserrat-cremallera-bodega-castlexperience"
-  - "montserrat-medio-dia-grupo-pequeno"
-  - "montserrat-dia-completo-con-audioguia"
+- montserrat-cremallera-bodega-castlexperience
+- montserrat-medio-dia-grupo-pequeno
+- montserrat-dia-completo-con-audioguia
+opinionEditorial: 'Es el tour clásico de Montserrat: cremallera, basílica, Moreneta y vuelta. 7.700+ reseñas a 4,6 estrellas con un operador histórico (Julià Travel) que lleva décadas haciendo este recorrido. Para una primera visita a Montserrat con tiempo limitado en Barcelona, esta es la opción por defecto, sin sorpresas y a precio competitivo (50 € con la oferta puntual).
 
-opinionEditorial: |
-  Es el tour clásico de Montserrat: cremallera, basílica, Moreneta y vuelta. 7.700+ reseñas a 4,6 estrellas con un operador histórico (Julià Travel) que lleva décadas haciendo este recorrido. Para una primera visita a Montserrat con tiempo limitado en Barcelona, esta es la opción por defecto, sin sorpresas y a precio competitivo (50 € con la oferta puntual).
 
   Lo que conviene saber antes: es bilingüe (español + inglés al mismo grupo), así que las pausas de traducción reducen el tiempo neto de explicación en tu idioma. Los grupos pueden ser grandes (autobús completo). Y los 65 minutos de tiempo libre se quedan cortos si querías subir al funicular de Sant Joan o hacer alguna ruta corta. Si esos puntos te molestan, considera la variante de grupo reducido o el privado.
 
-categoria: "excursionesDia"
-keywords: ["montserrat cremallera", "tour montserrat virgen negra", "moreneta montserrat", "montserrat medio dia", "visitar montserrat desde barcelona"]
-
-imagen: "montserrat-church-architecture-religion-pomp-hero-hero.webp"
-imagenAlt: "Monasterio de Montserrat entre las montañas"
-
+  '
+categoria: excursionesDia
+keywords:
+- montserrat cremallera
+- tour montserrat virgen negra
+- moreneta montserrat
+- montserrat medio dia
+- visitar montserrat desde barcelona
+imagen: montserrat-church-architecture-religion-pomp-hero-hero.webp
+imagenAlt: Monasterio de Montserrat entre las montañas
 galeria:
-  - src: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp"
-    alt: "Formaciones rocosas de Montserrat con el monasterio al fondo"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp"
-    alt: "Fachada de la basílica de Montserrat"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp"
-    alt: "Vista del monasterio de Montserrat junto a la montaña"
-  - src: "/images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero.webp"
-    alt: "Altar dorado de la basílica de Montserrat"
-
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: Estatua del abad Oliba entre la vegetación de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero.webp
+  alt: Fachada de la basílica de Montserrat
+- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
+  alt: Vista del monasterio de Montserrat junto a la montaña
+- src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero.webp
+  alt: Altar dorado de la basílica de Montserrat
 ratingProveedor: 4.6
 numeroOpiniones: 7706
-
 publicada: false
 destacada: false
-fecha: "2026-05-15"
+fecha: '2026-05-15'
 atraccionesRelacionadas:
-  - "montserrat"
+- montserrat
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

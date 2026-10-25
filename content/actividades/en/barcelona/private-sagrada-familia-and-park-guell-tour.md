@@ -2,8 +2,7 @@
 titulo: Private Sagrada Família & Park Güell Tour with Pickup
 slug: private-sagrada-familia-and-park-guell-tour
 ciudad: barcelona
-descripcion: Private tour of the Sagrada Família and Park Güell with your own guide, skip-the-line tickets and hotel pickup.
-  Price per group.
+descripcion: Private tour of the Sagrada Família and Park Güell with your own guide, skip-the-line tickets and hotel pickup. Price per group.
 slugs:
   es: tour-privado-sagrada-familia-park-guell
   en: private-sagrada-familia-and-park-guell-tour
@@ -38,10 +37,8 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
-avisoReserva: 'In high season, the Sagrada Familia sells out weeks in advance'
-opinionEditorial: 'Gaudí''s two must-see works in half a day and skip-the-line, with a guide just for you and transfer between
-  them: it''s the most comfortable way to see both, especially with family or if you''d rather not deal with transport or
-  tickets.'
+avisoReserva: In high season, the Sagrada Familia sells out weeks in advance
+opinionEditorial: 'Gaudí''s two must-see works in half a day and skip-the-line, with a guide just for you and transfer between them: it''s the most comfortable way to see both, especially with family or if you''d rather not deal with transport or tickets.'
 atraccionesRelacionadas:
 - sagrada-familia
 categoria: experienciasPrivadas
@@ -55,7 +52,7 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-2-hero-hero.webp
   alt: Park Güell's distinctive mosaic terrace with colorful tilework and Barcelona cityscape view
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Passion facade of the Sagrada Familia, with its towers and construction cranes, in Barcelona
+  alt: The Passion façade of the Sagrada Familia
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-multicoloured-art-hero-hero.webp
   alt: Colorful mosaic terrace at Park Güell with Barcelona cityscape view and Gaudí architectural elements
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
@@ -86,9 +83,9 @@ publicada: false
 reemplazadaPor: best-of-barcelona-private-tour-sagrada-familia
 destacada: false
 fecha: '2026-06-18'
-fecha_actualizacion: '2026-06-22'
+fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:
-  - "sagrada-familia-which-ticket-to-choose"
+- sagrada-familia-which-ticket-to-choose
 ---
 
 ## What you'll see

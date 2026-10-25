@@ -75,13 +75,17 @@ keywords:
 - camels maspalomas dunes
 - things to do in maspalomas
 - maspalomas dunes
-imagen: /images/actividades/gran-canaria/dunas/dunas-crestas.webp
-imagenAlt: Sand ridges in the Maspalomas dunes
+imagen: /images/actividades/gran-canaria/camellos/caravana-camellos-dunas.webp
+imagenAlt: Camel caravan with riders crossing sand dunes
 galeria:
-- src: "/images/actividades/gran-canaria/maspalomas/dunas-maspalomas-montanas.webp"
-  alt: "Dunas de Maspalomas con montanas de Gran Canaria al fondo"
-- src: "/images/actividades/gran-canaria/dunas/charca-palmeral.webp"
-  alt: "Pond among palm trees in the Maspalomas Dunes"
+- src: /images/actividades/gran-canaria/camellos/camellos-ensillados-gran-canaria.webp
+  alt: Saddled camels resting before the ride in Gran Canaria
+- src: /images/actividades/gran-canaria/dunas/dunas-crestas.webp
+  alt: Sand ridges in the Maspalomas dunes
+- src: /images/actividades/gran-canaria/maspalomas/dunas-maspalomas-montanas.webp
+  alt: Dunas de Maspalomas con montanas de Gran Canaria al fondo
+- src: /images/actividades/gran-canaria/dunas/charca-palmeral.webp
+  alt: Pond among palm trees in the Maspalomas Dunes
 - src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
   alt: The Maspalomas dunes by the Atlantic
 - src: /images/actividades/gran-canaria/dunas/dunas-panoramica.webp
@@ -99,7 +103,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see

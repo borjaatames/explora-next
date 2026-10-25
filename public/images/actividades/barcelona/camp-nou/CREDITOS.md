@@ -14,3 +14,8 @@ Añadidas el 24-10-2026 (`E:\imagenes-master\_descargas-2026-10-23d\barcelona--c
 - `694f98298d5cb-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
 - `descarga-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
 - `images-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `museo-barca-copas-champions.webp` — Nicholas Gemini · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Col%C2%B7leccions_del_Museu_del_FC_Barcelona_11.jpg
+- `museo-barca-sala-visitantes.webp` — Ank Kumar · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Camp_Nou_Experience_%28_Ank_Kumar%2C_INFOSYS_Limited_%29_11.jpg
+- `museo-barca-vitrina-trofeos.webp` — Nicholas Gemini · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Col%C2%B7leccions_del_Museu_del_FC_Barcelona_01.jpg
+- `obras-camp-nou-2024.webp` — Pere López Brosa · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Obres_del_Camp_Nou_-_20240722_151956.jpg
+- `robokeeper-penalti.webp` — 4attention/Timm Ulrich · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Robokeeper_save.JPG

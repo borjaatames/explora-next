@@ -60,3 +60,7 @@ Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
 - `montserrat-abadia.webp` — Bernard Gagnon · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Abbey_of_Montserrat_02.jpg
 - `montserrat-monasterio-montana.webp` — Bernard Gagnon · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Abbey_of_Montserrat_04.jpg
 - `montserrat-rocas.webp` — Orlith1 · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Monastery%2C_Montserrat.jpg
+- `cata-vino-bodega-barricas.webp` — Rachel Claire · Pexels License · Pexels · https://www.pexels.com/photo/crop-person-pouring-wine-in-winery-5490196/
+- `cremallera-estacion-monasterio.webp` — Smiley.toerist · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Monserrat_spoorlijn_eindpunt.JPG
+- `moreneta-cambril.webp` — Enric · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:51_Bas%C3%ADlica_de_Santa_Maria_de_Montserrat%2C_cambril_de_la_Mare_de_D%C3%A9u%2C_amb_relleus_de_Ramon_Sunyer.jpg
+- `oller-del-mas-castillo-vinedos.webp` — Anna.barcelona · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Oller_del_Mas_castle_2.jpg

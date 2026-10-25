@@ -83,12 +83,22 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp
+  alt: Gothic façade of the Basilica of Santa Maria del Mar, in El Born
+- src: /images/actividades/barcelona/born/santa-maria-del-mar-interior.webp
+  alt: Gothic nave of Santa Maria del Mar with the rose window at the end
+- src: /images/actividades/barcelona/born/born-ccm-ruinas.webp
+  alt: Archaeological remains of 1714 Barcelona beneath the old Born market structure
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
+  alt: Entrance to La Boqueria market from La Rambla
+- src: /images/actividades/barcelona/gotico/placa-reial.webp
+  alt: Plaça Reial with palm trees and arcades in the Gothic Quarter
+- src: /images/actividades/barcelona/gotico/santa-maria-del-pi-fachada.webp
+  alt: Façade of Santa Maria del Pi with its large rose window
 - src: https://imgcdn.bokun.tools/0329cd45-1601-4b74-9507-47cccd5d2882.jpg
   alt: Group with their guide in a Gothic Quarter square
 - src: https://imgcdn.bokun.tools/acbf05a9-b2e6-47ba-a76c-7bc7a0f11595.jpg
   alt: Children touching the Art Nouveau turtle letterbox in the Gothic Quarter
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
-  alt: Entrance to La Boqueria market from La Rambla
 - src: https://imgcdn.bokun.tools/3bf57f2e-16b7-4ac6-bf98-c404d11cff0f.jpg
   alt: Archivolts of a Gothic doorway
 - src: https://imgcdn.bokun.tools/977adea4-2091-45f5-9f88-219f8c570792.jpg
@@ -96,7 +106,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/2e523bd9-6d89-4e99-b39a-a0ec369310c2.jpg
   alt: Travellers sitting by a fountain in the old town
 bokunProductId: 217563
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## The route

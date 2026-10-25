@@ -1,8 +1,8 @@
-﻿---
+---
 titulo: 'Corralejo: catamarán a la Isla de Lobos con comida y esnórquel'
 slug: catamaran-isla-lobos-corralejo
 ciudad: fuerteventura
-descripcion: 'Excursión de 4 horas en catamarán de Corralejo a la Isla de Lobos, fondeando en La Concha, con paella, bebida, esnórquel, kayak y paddle surf, y recogida en Corralejo. 4,8/5 con más de 1.100 reseñas.'
+descripcion: Excursión de 4 horas en catamarán de Corralejo a la Isla de Lobos, fondeando en La Concha, con paella, bebida, esnórquel, kayak y paddle surf, y recogida en Corralejo. 4,8/5 con más de 1.100 reseñas.
 slugs:
   es: catamaran-isla-lobos-corralejo
   en: corralejo-lobos-island-catamaran
@@ -35,7 +35,7 @@ noIncluye:
 - Recogida fuera de Corralejo
 puntoEncuentro:
   texto: Recogida en Corralejo (hoteles y puntos indicados en la reserva).
-  descripcionGuia: 'Hay ocho puntos de recogida en Corralejo, entre ellos los hoteles Aloe Club Resort, Alua Suites, Bahiazul, Riu Oliva Beach y Playa Park Zensation, además de Fuerchina, el Burger King y la oficina de Fuertecharter.'
+  descripcionGuia: Hay ocho puntos de recogida en Corralejo, entre ellos los hoteles Aloe Club Resort, Alua Suites, Bahiazul, Riu Oliva Beach y Playa Park Zensation, además de Fuerchina, el Burger King y la oficina de Fuertecharter.
   latitud: 28.7406
   longitud: -13.8637
   zoom: 13
@@ -76,18 +76,26 @@ keywords:
 - catamaran corralejo
 - snorkel isla de lobos
 imagen: /images/actividades/fuerteventura/catamaran-lobos.webp
-imagenAlt: "Catamarán fondeado frente a la Isla de Lobos"
+imagenAlt: Catamarán fondeado frente a la Isla de Lobos
 galeria:
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-kitesurf.webp"
-  alt: "La Isla de Lobos frente a la playa, con kitesurfistas"
-- src: "/images/actividades/fuerteventura/zonas/montana-caldera-lobos.webp"
-  alt: "La montaña de La Caldera en la Isla de Lobos"
-- src: "/images/actividades/fuerteventura/zonas/faro-martino.webp"
-  alt: "El faro de Martiño en la Isla de Lobos"
-- src: "/images/actividades/fuerteventura/zonas/bahia-corralejo.webp"
-  alt: "Bahía de Corralejo con Lobos al fondo"
-- src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-atardecer.webp"
-  alt: "La Isla de Lobos al atardecer"
+- src: /images/actividades/fuerteventura/lobos/playa-la-concha-lobos.webp
+  alt: Playa de La Concha en la Isla de Lobos, con su laguna de agua turquesa
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-kitesurf.webp
+  alt: La Isla de Lobos frente a la playa, con kitesurfistas
+- src: /images/actividades/fuerteventura/lobos/esnorquel-fondo-rocoso.webp
+  alt: Bañista haciendo esnórquel sobre un fondo rocoso
+- src: /images/actividades/fuerteventura/zonas/montana-caldera-lobos.webp
+  alt: La montaña de La Caldera en la Isla de Lobos
+- src: /images/actividades/fuerteventura/lobos/paddle-surf-agua-turquesa.webp
+  alt: Paddle surf sobre agua turquesa, visto desde el aire
+- src: /images/actividades/fuerteventura/zonas/faro-martino.webp
+  alt: El faro de Martiño en la Isla de Lobos
+- src: /images/actividades/fuerteventura/lobos/paella-vino-a-bordo.webp
+  alt: Paella y vino blanco servidos en la mesa de un barco
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: Bahía de Corralejo con Lobos al fondo
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-atardecer.webp
+  alt: La Isla de Lobos al atardecer
 ratingProveedor: 4.8
 numeroOpiniones: 1183
 atraccionesRelacionadas:
@@ -95,7 +103,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

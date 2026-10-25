@@ -79,10 +79,16 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/noche/musica-directo-bar-guitarra.webp
+  alt: Guitarrista cantando en directo en un bar ante el público
 - src: /images/actividades/barcelona/cerveza/grifos-cerveza-bar.webp
   alt: Barra de cervecería con muchos grifos de cerveza artesana
+- src: /images/actividades/barcelona/noche/karaoke-amigos-bar.webp
+  alt: Amigos cantando karaoke con micrófono en un bar
 - src: /images/actividades/barcelona/proveedor-1242119/prov-brindis-cerveza.webp
   alt: Participantes probando cerveza artesana en el bar
+- src: /images/actividades/barcelona/proveedor-1229842/prov-karaoke.webp
+  alt: Karaoke en un bar de Barcelona
 - src: /images/actividades/barcelona/cerveza/cata-cerveza-tabla.webp
   alt: Tabla de cata con vasos de cervezas artesanas de distintos estilos
 - src: /images/actividades/barcelona/noche/barcelona-noche-torre-glories.webp
@@ -96,7 +102,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/0a10d67e-799b-4a5c-b1f6-cca82843c5f5.jpeg
   alt: Vaso de cerveza artesana
 bokunProductId: 1242119
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Cómo es la experiencia

@@ -2,8 +2,7 @@
 titulo: Visita nocturna a la Alhambra y los Palacios Nazaríes
 slug: alhambra-visita-nocturna
 ciudad: granada
-descripcion: Visita guiada nocturna de 1,5 horas a los Palacios Nazaríes iluminados, sin las multitudes del día. Una experiencia
-  distinta a la visita diurna.
+descripcion: Visita guiada nocturna de 1,5 horas a los Palacios Nazaríes iluminados, sin las multitudes del día. Una experiencia distinta a la visita diurna.
 slugs:
   es: alhambra-visita-nocturna
   en: alhambra-night-tour
@@ -33,9 +32,7 @@ noIncluye:
 - Propinas
 puntoEncuentro:
   texto: Paseo del Generalife, junto al acceso a la Alhambra
-  descripcionGuia: 'El punto de salida físico está en el Paseo del Generalife, junto al acceso a la Alhambra. Hay tres variantes
-    (grupo compartido en español, en inglés, o privado) y el operador confirma el punto exacto en la reserva. Llega 15 minutos
-    antes: de noche conviene localizar al grupo con luz suficiente.'
+  descripcionGuia: 'El punto de salida físico está en el Paseo del Generalife, junto al acceso a la Alhambra. Hay tres variantes (grupo compartido en español, en inglés, o privado) y el operador confirma el punto exacto en la reserva. Llega 15 minutos antes: de noche conviene localizar al grupo con luz suficiente.'
   latitud: 37.1773
   longitud: -3.5848
   zoom: 16
@@ -51,55 +48,35 @@ informacionImportante:
   - Carritos de bebé (no se permite la entrada con ellos)
   - 'Personas que necesiten accesibilidad: el acceso en silla de ruedas es muy limitado'
   aTenerEnCuenta:
-  - La visita nocturna recorre los Palacios Nazaríes y el Palacio de Carlos V; la Alcazaba y el Generalife no se visitan de
-    noche
+  - La visita nocturna recorre los Palacios Nazaríes y el Palacio de Carlos V; la Alcazaba y el Generalife no se visitan de noche
   - No se permiten maletas ni bolsas grandes, ni palos de selfi
   - No se permiten fotos con flash dentro de los Palacios Nazaríes
   - 'La duración (1,5 horas) es menor que la de las visitas diurnas: cubre menos recinto'
-accesibilidad: El acceso en silla de ruedas en esta visita nocturna es muy limitado, y no se permite la entrada con carritos
-  de bebé. Si necesitas accesibilidad, esta no es la opción adecuada; consúltalo con el operador o revisa las visitas diurnas
-  del comparador.
-politicaCancelacion: Cancelación hasta 24 horas antes con reembolso del 60 %. No es cancelación gratuita —la Alhambra no devuelve
-  las entradas al operador—, pero el porcentaje de reembolso es algo mayor que el habitual del comparador.
+accesibilidad: El acceso en silla de ruedas en esta visita nocturna es muy limitado, y no se permite la entrada con carritos de bebé. Si necesitas accesibilidad, esta no es la opción adecuada; consúltalo con el operador o revisa las visitas diurnas del comparador.
+politicaCancelacion: Cancelación hasta 24 horas antes con reembolso del 60 %. No es cancelación gratuita —la Alhambra no devuelve las entradas al operador—, pero el porcentaje de reembolso es algo mayor que el habitual del comparador.
 preguntasFrecuentes:
 - pregunta: ¿La visita nocturna sustituye a la visita de día?
-  respuesta: No, son experiencias distintas y complementarias. La nocturna recorre los Palacios Nazaríes iluminados y el Palacio
-    de Carlos V en 1,5 horas; no incluye la Alcazaba ni el Generalife, que no abren de noche. Si solo vas a visitar la Alhambra
-    una vez y quieres verla completa, elige una visita diurna; la nocturna es ideal como complemento o si buscas específicamente
-    la atmósfera de noche.
+  respuesta: No, son experiencias distintas y complementarias. La nocturna recorre los Palacios Nazaríes iluminados y el Palacio de Carlos V en 1,5 horas; no incluye la Alcazaba ni el Generalife, que no abren de noche. Si solo vas a visitar la Alhambra una vez y quieres verla completa, elige una visita diurna; la nocturna es ideal como complemento o si buscas específicamente la atmósfera de noche.
 - pregunta: ¿Qué se ve exactamente?
-  respuesta: 'El recorrido entra en los Palacios Nazaríes —las salas y patios reales iluminados— y pasa por el Palacio de
-    Carlos V. Antes, el guía hace un paseo por la muralla exterior, junto a la Puerta de la Justicia. La Alcazaba y los Jardines
-    del Generalife quedan fuera: de noche no se visitan.'
+  respuesta: 'El recorrido entra en los Palacios Nazaríes —las salas y patios reales iluminados— y pasa por el Palacio de Carlos V. Antes, el guía hace un paseo por la muralla exterior, junto a la Puerta de la Justicia. La Alcazaba y los Jardines del Generalife quedan fuera: de noche no se visitan.'
 - pregunta: ¿Por qué dura solo 1,5 horas?
-  respuesta: Porque cubre menos recinto que las visitas diurnas. De noche solo se accede a los Palacios Nazaríes y al Palacio
-    de Carlos V, así que el recorrido es más corto y concentrado. A cambio, lo haces sin las multitudes del día.
+  respuesta: Porque cubre menos recinto que las visitas diurnas. De noche solo se accede a los Palacios Nazaríes y al Palacio de Carlos V, así que el recorrido es más corto y concentrado. A cambio, lo haces sin las multitudes del día.
 - pregunta: ¿Es guía en directo o audioguía?
-  respuesta: 'Depende de la opción: hay visita con guía en directo y opción con audioguía grabada, según tus necesidades lingüísticas.
-    Para grupos de más de 7 personas se incluye sistema de radioguía. Lo eliges al reservar.'
+  respuesta: 'Depende de la opción: hay visita con guía en directo y opción con audioguía grabada, según tus necesidades lingüísticas. Para grupos de más de 7 personas se incluye sistema de radioguía. Lo eliges al reservar.'
 - pregunta: ¿Se puede ir con niños?
-  respuesta: Sí, no hay restricción de edad, y al ser una visita corta (1,5 horas) se hace llevadera. Eso sí, no se permite
-    la entrada con carritos de bebé, así que con bebés muy pequeños hay que ir en brazos o portabebés.
+  respuesta: Sí, no hay restricción de edad, y al ser una visita corta (1,5 horas) se hace llevadera. Eso sí, no se permite la entrada con carritos de bebé, así que con bebés muy pequeños hay que ir en brazos o portabebés.
 variantes:
 - visita-guiada-alhambra-generalife
 - alhambra-tour-privado
 - alhambra-grupo-reducido
-avisoReserva: 'Las entradas de la Alhambra se agotan con semanas de antelación'
-opinionEditorial: 'Esta es la única visita del comparador que cambia las reglas del juego: la Alhambra de noche. Los Palacios
-  Nazaríes iluminados, sin las multitudes del día y con una atmósfera completamente distinta. Con 4,9 sobre 5 y la distinción
-  «Originals by GetYourGuide», es de las experiencias mejor valoradas, y a 54 € el precio es razonable.
+avisoReserva: Las entradas de la Alhambra se agotan con semanas de antelación
+opinionEditorial: 'Esta es la única visita del comparador que cambia las reglas del juego: la Alhambra de noche. Los Palacios Nazaríes iluminados, sin las multitudes del día y con una atmósfera completamente distinta. Con 4,9 sobre 5 y la distinción «Originals by GetYourGuide», es de las experiencias mejor valoradas, y a 54 € el precio es razonable.
 
 
-  Pero hay que entenderla bien antes de reservar: **no es una visita completa de la Alhambra**. De noche solo se entra a los
-  Palacios Nazaríes y al Palacio de Carlos V; la Alcazaba y el Generalife están cerrados. Por eso dura 1,5 horas, la mitad
-  que una visita diurna. Si solo vas a visitar la Alhambra una vez y quieres verla entera, esta no es tu opción: elige una
-  visita de día.
+  Pero hay que entenderla bien antes de reservar: **no es una visita completa de la Alhambra**. De noche solo se entra a los Palacios Nazaríes y al Palacio de Carlos V; la Alcazaba y el Generalife están cerrados. Por eso dura 1,5 horas, la mitad que una visita diurna. Si solo vas a visitar la Alhambra una vez y quieres verla entera, esta no es tu opción: elige una visita de día.
 
 
-  Donde sí brilla es como **complemento o como experiencia en sí misma**. Si ya conoces la Alhambra de día, o si vas a estar
-  varios días en Granada, la visita nocturna a los palacios iluminados es de las cosas más memorables que se pueden hacer
-  en la ciudad. Y un apunte práctico: el acceso en silla de ruedas es muy limitado y no se permite entrar con carritos de
-  bebé, así que tenlo en cuenta si viajas con peques o necesitas accesibilidad.
+  Donde sí brilla es como **complemento o como experiencia en sí misma**. Si ya conoces la Alhambra de día, o si vas a estar varios días en Granada, la visita nocturna a los palacios iluminados es de las cosas más memorables que se pueden hacer en la ciudad. Y un apunte práctico: el acceso en silla de ruedas es muy limitado y no se permite entrar con carritos de bebé, así que tenlo en cuenta si viajas con peques o necesitas accesibilidad.
 
   '
 atraccionesRelacionadas:
@@ -111,7 +88,7 @@ keywords:
 - palacios nazaries iluminados
 - alhambra nocturna granada
 - tour nocturno alhambra
-imagen: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
+imagen: /images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp
 imagenAlt: La Alhambra de Granada iluminada al anochecer
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp
@@ -131,13 +108,13 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
   alt: Patio de los Leones iluminado de noche en los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369622-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada de fondo
+  alt: Patio de los Leones de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-34369627-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y Sierra Nevada al fondo
+  alt: Celosía de colores y yeserías en una sala de los Palacios Nazaríes
 - src: /images/actividades/granada/palacios-nazaries/pixabay-1437189-hero.webp
   alt: Detalle de los azulejos y yeserias de los Palacios Nazaries de la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829145-hero.webp
-  alt: Vistas panorámicas de Granada con la Alhambra y las montañas nevadas de Sierra Nevada
+  alt: Pórtico y estanque del Patio de los Arrayanes
 - src: /images/actividades/granada/palacios-nazaries/pexels-37387057-hero.webp
   alt: Arco con techo de mocárabes en los Palacios Nazaríes de la Alhambra.
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
@@ -150,8 +127,9 @@ publicada: true
 destacada: false
 fecha: '2026-05-14'
 guiasRelacionadas:
-  - "alhambra-como-visitar"
-  - "alhambra-que-tour-elegir"
+- alhambra-como-visitar
+- alhambra-que-tour-elegir
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Qué vas a ver

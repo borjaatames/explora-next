@@ -84,6 +84,16 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: /images/actividades/barcelona/churros/churros-con-chocolate.webp
+  alt: Churros recién hechos con una taza de chocolate para mojar
+- src: /images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp
+  alt: Fachada gótica de la basílica de Santa Maria del Mar, en el Born
+- src: /images/actividades/barcelona/ciutadella/parc-ciutadella-estany-barques.webp
+  alt: Barcas de remo en el lago del Parc de la Ciutadella, entre palmeras
+- src: /images/actividades/barcelona/costa/parc-ciutadella-cascada.webp
+  alt: Cascada monumental del Parc de la Ciutadella
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
+  alt: Puesto de jamones y embutidos ibéricos en el mercado de la Boquería
 - src: https://imgcdn.bokun.tools/ff88270c-717d-4cbe-94f8-c6293e1762ee.jpg
   alt: Familia con su guía ante un puesto de la Boquería
 - src: https://imgcdn.bokun.tools/92f48444-f4d8-4641-b085-4f9d0c0bd895.jpg
@@ -94,10 +104,8 @@ galeria:
   alt: Niño en un columpio en un parque
 - src: https://imgcdn.bokun.tools/c2c05430-1a45-4651-9a11-e95d9b90d767.jpg
   alt: Familia saltando de alegría en un parque
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
-  alt: Puesto de jamones y embutidos ibéricos en el mercado de la Boquería
 bokunProductId: 217564
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## Cómo es el paseo

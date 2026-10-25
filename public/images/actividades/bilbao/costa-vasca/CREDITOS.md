@@ -6,3 +6,7 @@
 - `biarritz-grande-plage.webp` — W. Bulach, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:00_1767_Grande_Plage%2C_Biarritz.jpg) · recortada a 1600×1200
 - `biarritz-casino.webp` — Nicolas G. Mertens, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Biarritz%E2%80%94Grande_Plage_and_Casino.jpg) · recortada a 1600×1200
 - `san-juan-de-luz-puerto.webp` — Calips, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:France_Aquitaine_Pyrenees_Atlantiques_Saint-Jean-de-Luz_Port_03.JPG) · recortada a 1600×1200
+- `hendaya-castillo-abbadia.webp` — A1AA1A · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Abbadia_-_Nord-est.jpg
+- `hendaya-dos-gemelos.webp` — Daniel VILLAFRUELA · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Hendaye-Les_Deux_Jumeaux-20120409.jpg
+- `hendaya-playa-dos-gemelos.webp` — Joxemai · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:2015_12_harroka_bizkiak.jpg
+- `txakoli-vinedos-mar.webp` — Jean Michel Etchecolonea · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Getaria_Crete_002.jpg

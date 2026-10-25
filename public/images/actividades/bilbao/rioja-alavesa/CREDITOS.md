@@ -12,3 +12,5 @@
 | rioja-alavesa-08.webp | Wikimedia Commons | Txo · File:Laguardia viñedos.jpg | CC BY-SA 4.0 |
 
 Origen: `E:\imagenes-master\_descargas-2026-10-23b\bilbao--rioja-alavesa\` (23 oct 2026).
+- `laguardia-calle-medieval.webp` — Theklan · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Guardia_-_Hirigune_historikoa_-_14.jpg
+- `laguardia-muralla.webp` — Martpan · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Laguardia_remparts.jpg

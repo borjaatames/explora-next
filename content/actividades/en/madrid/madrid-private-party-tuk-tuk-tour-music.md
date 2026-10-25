@@ -75,7 +75,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/4fcdac20-7cd3-4cc4-ab02-99455b1765ea.jpg
   alt: Tuk-tuk riding through historic Madrid
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp
-  alt: Gran Vía at night by Callao
+  alt: Plaza de Callao and the Carrión building at night
 - src: /images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp
   alt: Cibeles fountain lit up at night
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
@@ -85,7 +85,7 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-09-05'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll experience

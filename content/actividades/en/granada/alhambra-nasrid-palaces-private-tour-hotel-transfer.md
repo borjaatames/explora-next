@@ -49,7 +49,7 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: false
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
-avisoReserva: 'Alhambra tickets sell out weeks in advance'
+avisoReserva: Alhambra tickets sell out weeks in advance
 opinionEditorial: 'This is the most comfortable way to see the whole Alhambra: you''re picked up at your accommodation, the Nasrid Palaces tickets are sorted and the guide moves at your pace. Per person it costs quite a bit more than a group tour, but with 3 or more people the gap narrows a lot. Book early, because Nasrid Palaces tickets sell out.'
 preguntasFrecuentes:
 - pregunta: Is the tour private?
@@ -79,7 +79,7 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
   alt: The Court of the Lions lit up at night
 - src: /images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp
-  alt: The Alhambra above Granada with the mountains behind
+  alt: Colonnade of the Court of the Lions
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
   alt: Generalife gardens with water jets over the pool
 - src: https://imgcdn.bokun.tools/d9e5ad43-fa3e-4069-b941-dc3ade7cdba4.jpeg
@@ -103,7 +103,7 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-10-10'
-fecha_actualizacion: '2026-10-10'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you'll see

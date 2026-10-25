@@ -2,8 +2,7 @@
 titulo: Ronda from Granada — Day Trip
 slug: ronda-day-trip-from-granada
 ciudad: granada
-descripcion: Full-day trip from Granada to Ronda, the city of the gorge and the Puente Nuevo. Guided tour of the historic
-  centre, view over the gorge and free time to explore.
+descripcion: Full-day trip from Granada to Ronda, the city of the gorge and the Puente Nuevo. Guided tour of the historic centre, view over the gorge and free time to explore.
 slugs:
   en: ronda-day-trip-from-granada
   es: ronda-desde-granada
@@ -37,9 +36,7 @@ noIncluye:
 - Gratuities
 puntoEncuentro:
   texto: Discovering Spain office, Plaza de las Descalzas 3, Granada
-  descripcionGuia: The operator is Discovering Spain. Departure from central Granada. About 2 hours to Ronda (185 km). The
-    tour requires a minimum number of participants to confirm — book a few days ahead. Pickup at the office only (no hotel
-    pickup).
+  descripcionGuia: The operator is Discovering Spain. Departure from central Granada. About 2 hours to Ronda (185 km). The tour requires a minimum number of participants to confirm — book a few days ahead. Pickup at the office only (no hotel pickup).
   latitud: 36.7421
   longitud: -5.1654
   zoom: 13
@@ -60,42 +57,24 @@ informacionImportante:
   - The tour requires a minimum number of participants to confirm
   - Individual monument entries (bullring, museums) are NOT included
   - Food not included — bring money for lunch in Ronda
-  - Some reviews mention value-for-money is 3.9 / 5, slightly low — the price covers transport and guide but the extra entries
-    add up
-accesibilidad: Not recommended for people with mobility problems. Ronda's centre has cobbled streets and significant elevation
-  changes (especially near the gorge).
-politicaCancelacion: Free cancellation up to 24 hours in advance for a full refund. The operator may cancel if a minimum number
-  of participants isn't reached.
+  - Some reviews mention value-for-money is 3.9 / 5, slightly low — the price covers transport and guide but the extra entries add up
+accesibilidad: Not recommended for people with mobility problems. Ronda's centre has cobbled streets and significant elevation changes (especially near the gorge).
+politicaCancelacion: Free cancellation up to 24 hours in advance for a full refund. The operator may cancel if a minimum number of participants isn't reached.
 preguntasFrecuentes:
 - pregunta: What do you see in Ronda?
-  respuesta: The Puente Nuevo and the Tajo (the gorge of the Guadalevín river, 100 m deep) are the icons. The tour covers
-    the historic centre (Casco Antiguo and La Ciudad), with time to explore the oldest bullring in Spain, the Jardines de
-    Cuenca and the gorge viewpoints on your own. If you're particularly interested, you can pay entry to the bullring (~€8)
-    or the Casa del Rey Moro.
+  respuesta: The Puente Nuevo and the Tajo (the gorge of the Guadalevín river, 100 m deep) are the icons. The tour covers the historic centre (Casco Antiguo and La Ciudad), with time to explore the oldest bullring in Spain, the Jardines de Cuenca and the gorge viewpoints on your own. If you're particularly interested, you can pay entry to the bullring (~€8) or the Casa del Rey Moro.
 - pregunta: Why so expensive (€135)?
-  respuesta: 'Because of the transport: Ronda is 185 km from Granada, 2 hours on mountain roads. For a 7-hour day with a private
-    8-seat vehicle, official guide, insurance and free time, the price reflects the logistics. If you drive yourself, fuel
-    + tolls + parking can add up to €50-70 without a guide.'
+  respuesta: 'Because of the transport: Ronda is 185 km from Granada, 2 hours on mountain roads. For a 7-hour day with a private 8-seat vehicle, official guide, insurance and free time, the price reflects the logistics. If you drive yourself, fuel + tolls + parking can add up to €50-70 without a guide.'
 - pregunta: Why is the value for money 3.9 / 5?
-  respuesta: Probably because food and entries aren't included, and for visitors expecting an "all-in-one" it can feel light.
-    The price is justified by logistics (transport + guide) but the cultural content of the tour stays in the historic centre
-    — for more depth you need to pay extra entries. It's a question of expectations.
+  respuesta: Probably because food and entries aren't included, and for visitors expecting an "all-in-one" it can feel light. The price is justified by logistics (transport + guide) but the cultural content of the tour stays in the historic centre — for more depth you need to pay extra entries. It's a question of expectations.
 variantes: []
-opinionEditorial: 'Ronda is one of the most photogenic destinations in Andalusia: the city built on a 100-metre cliff with
-  the Puente Nuevo crossing the gorge is one of Spain''s most iconic postcards. For visitors based in Granada, getting there
-  requires 2 hours of mountain road — the organised tour sorts out the transport and logistics.
+opinionEditorial: 'Ronda is one of the most photogenic destinations in Andalusia: the city built on a 100-metre cliff with the Puente Nuevo crossing the gorge is one of Spain''s most iconic postcards. For visitors based in Granada, getting there requires 2 hours of mountain road — the organised tour sorts out the transport and logistics.
 
 
-  The price (€135) is high but coherent: 8-seat vehicle (less crowded than a big coach), official guide, insurance and free
-  time. The catch is that food and individual monument entries aren''t included — some reviews give 3.9 / 5 on value for money
-  for this reason, feeling more "all included" is missing. With the right expectations (= base transport and guide + freedom
-  to spend extra on what you want), the ratio is fair.
+  The price (€135) is high but coherent: 8-seat vehicle (less crowded than a big coach), official guide, insurance and free time. The catch is that food and individual monument entries aren''t included — some reviews give 3.9 / 5 on value for money for this reason, feeling more "all included" is missing. With the right expectations (= base transport and guide + freedom to spend extra on what you want), the ratio is fair.
 
 
-  The 34 reviews (4.5 / 5) are modest volume — the product is good but not as tested as other Granada day trips (Alpujarra
-  320, Sierra Nevada 1,718). For a traveller who''s already done the basics of Granada (Alhambra + Albayzín + flamenco) and
-  wants to leave the city for a day, Ronda is a premium option against Caminito del Rey (more outdoor) or Alpujarra (more
-  rural). Book a few days in advance.
+  The 34 reviews (4.5 / 5) are modest volume — the product is good but not as tested as other Granada day trips (Alpujarra 320, Sierra Nevada 1,718). For a traveller who''s already done the basics of Granada (Alhambra + Albayzín + flamenco) and wants to leave the city for a day, Ronda is a premium option against Caminito del Rey (more outdoor) or Alpujarra (more rural). Book a few days in advance.
 
   '
 atraccionesRelacionadas:
@@ -107,33 +86,33 @@ keywords:
 - ronda gorge day trip
 - ronda full day
 - ronda andalusia day trip
-imagen: "/images/actividades/granada/ronda/ronda-pexels-11829157.webp"
-imagenAlt: "Ronda's Puente Nuevo and the houses above the gorge"
+imagen: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
+imagenAlt: Ronda's Puente Nuevo and the houses above the gorge
 galeria:
 - src: /images/actividades/granada/ronda/ronda-pexels-15125388.webp
-  alt: "The Puente Nuevo seen from the viewpoint"
+  alt: The Puente Nuevo seen from the viewpoint
 - src: /images/actividades/granada/ronda/ronda-pexels-36623720.webp
-  alt: "The Ronda gorge seen from below"
+  alt: The Ronda gorge seen from below
 - src: /images/actividades/granada/ronda/ronda-pixabay-3372201.webp
-  alt: "Puente Nuevo over the gorge in spring"
+  alt: Puente Nuevo over the gorge in spring
 - src: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
-  alt: "Arches of Ronda's Puente Nuevo"
+  alt: Arches of Ronda's Puente Nuevo
 - src: /images/actividades/granada/ronda/ronda-pixabay-7493552.webp
-  alt: "Ronda perched above the gorge"
+  alt: Ronda perched above the gorge
 - src: /images/actividades/granada/ronda/ronda-wikimedia-ronda-view-from-puente-nuevo-5-jpg.webp
-  alt: "Parador and Puente Nuevo on the cliff"
+  alt: Parador and Puente Nuevo on the cliff
 - src: /images/actividades/granada/ronda/ronda-wikimedia-ronda-spain-puente-nuevo-de-ronda-01-jpg.webp
-  alt: "Waterfall beneath Ronda's Puente Nuevo"
+  alt: Waterfall beneath Ronda's Puente Nuevo
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-mirador-panoramico-ciudad-01-hero.webp
-  alt: "White hillside town perched on cliff edge with hanging houses overlooking deep gorge and distant Andalusian mountains"
+  alt: White hillside town perched on cliff edge with hanging houses overlooking deep gorge and distant Andalusian mountains
 - src: /images/actividades/granada/ronda-desde-granada/ronda-desde-granada-detalle-arch-mirador-03-hero.webp
-  alt: "Puente Nuevo de Ronda arco de piedra con geometría estructural vista desde abajo"
+  alt: Ronda's Puente Nuevo with houses on the edge of the gorge
 ratingProveedor: 4.5
 numeroOpiniones: 34
 publicada: true
 destacada: false
 fecha: '2026-05-16'
-fecha_actualizacion: '2026-05-16'
+fecha_actualizacion: '2026-10-25'
 ---
 
 # Ronda from Granada — Day Trip

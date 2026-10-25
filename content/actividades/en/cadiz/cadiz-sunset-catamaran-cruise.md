@@ -74,9 +74,15 @@ keywords:
 - cadiz boat trip
 - cadiz from the sea
 - cadiz sunset cruise
-imagen: /images/actividades/cadiz/mar/puesta-sol-castillo.webp
-imagenAlt: Sunset in Cádiz
+imagen: /images/actividades/cadiz/catamaran/catamaran-vela-atardecer.webp
+imagenAlt: Sailing catamaran at sunset
 galeria:
+- src: /images/actividades/cadiz/catamaran/velero-atardecer-bahia-cadiz.webp
+  alt: Sailing ship at sunset in the Bay of Cádiz with the city behind
+- src: /images/actividades/cadiz/mar/puesta-sol-castillo.webp
+  alt: Sunset in Cádiz
+- src: /images/actividades/cadiz/catamaran/copa-espumoso-a-bordo-catamaran.webp
+  alt: Glass of sparkling wine on the deck of a sailing catamaran
 - src: /images/actividades/cadiz/mar/bahia-atardecer.webp
   alt: Sunset over the Bay of Cádiz
 - src: /images/actividades/cadiz/mar/catedral-desde-mar.webp
@@ -98,7 +104,7 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-25'
 ---
 
 ## What you will see
