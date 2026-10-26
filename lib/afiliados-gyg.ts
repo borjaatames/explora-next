@@ -15,6 +15,22 @@
 /** Partner ID oficial de afiliado GYG (ver afiliacion-getyourguide.md). */
 export const GYG_PARTNER_ID = "C71NOAW";
 
+/** Origen de un enlace a GYG dentro de una ficha. */
+export type OrigenEnlaceGyg = "ficha" | "widget";
+
+/**
+ * Campaña (`cmp`) de un enlace o widget de GYG: origen, idioma y slug de la
+ * ficha, p. ej. `ficha-es-caminito-del-rey-guiado-desde-malaga`. El panel de
+ * GYG muestra este valor junto a cada reserva.
+ */
+export function campanaGyg(
+  origen: OrigenEnlaceGyg,
+  idioma: string,
+  slug: string
+): string {
+  return `${origen}-${idioma}-${slug}`;
+}
+
 /** Segmento de locale de GetYourGuide por idioma activo de la web. */
 const GYG_LOCALE: Record<"es" | "en", string> = {
   es: "es-es",
@@ -32,13 +48,16 @@ const PARAMS_AJENOS = ["utm_medium", "utm_source", "utm_campaign", "placement"];
  *  - fuerza el dominio `www.getyourguide.com`,
  *  - inserta o reemplaza el segmento de locale en la ruta (`en-us` / `es-es`),
  *  - fija nuestro `partner_id` sobrescribiendo cualquier otro,
- *  - elimina parámetros de integraciones ajenas (utm_*, placement).
+ *  - elimina parámetros de integraciones ajenas (utm_*, placement),
+ *  - añade `cmp` si se indica, para ver en el panel de GYG qué página
+ *    generó cada reserva.
  *
  * Si la URL no es parseable, se devuelve sin tocar (no rompe la web).
  */
 export function normalizarUrlGetYourGuide(
   urlBase: string,
-  idioma: "es" | "en"
+  idioma: "es" | "en",
+  cmp?: string
 ): string {
   try {
     const url = new URL(urlBase);
@@ -55,6 +74,9 @@ export function normalizarUrlGetYourGuide(
     url.searchParams.set("partner_id", GYG_PARTNER_ID);
     for (const ajeno of PARAMS_AJENOS) {
       url.searchParams.delete(ajeno);
+    }
+    if (cmp) {
+      url.searchParams.set("cmp", cmp);
     }
 
     return url.toString();

@@ -85,11 +85,14 @@ export function proveedorActivo(proveedor: ProveedorActividad): boolean {
  * para GetYourGuide fuerza el segmento de locale en la ruta (en-us /
  * es-es) y normaliza el partner_id. Sin él, GYG cae a geolocalización y
  * sirve español a visitantes de páginas en inglés.
+ *
+ * `cmp` (solo GetYourGuide) etiqueta el enlace con la página de origen.
  */
 export function construirUrlReserva(
   proveedor: ProveedorActividad,
   urlBase: string,
-  idioma: "es" | "en" = "es"
+  idioma: "es" | "en" = "es",
+  cmp?: string
 ): string {
   if (!urlBase) return "";
 
@@ -97,7 +100,7 @@ export function construirUrlReserva(
     case "civitatis":
       return construirUrlCivitatis(urlBase);
     case "getyourguide":
-      return normalizarUrlGetYourGuide(urlBase, idioma);
+      return normalizarUrlGetYourGuide(urlBase, idioma, cmp);
     case "viator":
       return construirUrlViator(normalizarUrlViator(urlBase, idioma));
     case "bokun":

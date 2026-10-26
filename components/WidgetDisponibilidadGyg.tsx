@@ -67,6 +67,8 @@ type Props = {
   fallback?: ReactNode;
   /** Bloque sobre el widget (precio «desde» y nota): el widget no los enseña. */
   cabecera?: ReactNode;
+  /** Campaña `cmp` de GYG; por defecto, la común de la prueba del widget. */
+  campana?: string;
 };
 
 type GtagWindow = Window & {
@@ -93,6 +95,7 @@ export default function WidgetDisponibilidadGyg({
   soloEn,
   fallback = null,
   cabecera = null,
+  campana = CAMPANA_WIDGET_GYG,
 }: Props) {
   const [activo, setActivo] = useState(false);
   const contenedorRef = useRef<HTMLDivElement>(null);
@@ -143,7 +146,7 @@ export default function WidgetDisponibilidadGyg({
           data-gyg-widget="availability"
           data-gyg-variant="vertical"
           data-gyg-partner-id={GYG_PARTNER_ID}
-          data-gyg-cmp={CAMPANA_WIDGET_GYG}
+          data-gyg-cmp={campana}
         >
           <span className="text-xs text-piedra-500">
             Powered by{" "}

@@ -18,6 +18,7 @@ import {
   urlActividadesDeCiudad,
 } from "@/lib/i18n/utils";
 import { construirUrlReserva, nombreProveedor } from "@/lib/afiliados";
+import { campanaGyg } from "@/lib/afiliados-gyg";
 import GaleriaActividad from "@/components/GaleriaActividad";
 import CreditosFotos from "@/components/CreditosFotos";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
@@ -130,7 +131,9 @@ export default async function ActividadPage({ params }: Props) {
   // ciudad en lugar de a la ficha individual del producto.
   const urlReservaBase = construirUrlReserva(
     actividad.proveedor,
-    actividad.urlReserva
+    actividad.urlReserva,
+    "es",
+    campanaGyg("ficha", "es", params.slug)
   );
   const nombreComercialProveedor = nombreProveedor(actividad.proveedor);
 
@@ -401,6 +404,7 @@ export default async function ActividadPage({ params }: Props) {
                   idioma="es"
                   urlReserva={urlReservaBase}
                   cabecera={precioWidget}
+                  campana={campanaGyg("widget", "es", params.slug)}
                   soloEn="movil"
                 />
               </div>
@@ -633,6 +637,7 @@ export default async function ActividadPage({ params }: Props) {
                   idioma="es"
                   urlReserva={urlReservaBase}
                   cabecera={precioWidget}
+                  campana={campanaGyg("widget", "es", params.slug)}
                   soloEn="escritorio"
                   fallback={bloqueCalendario}
                 />

@@ -22,6 +22,7 @@ import {
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 import { construirUrlReserva, nombreProveedor } from "@/lib/afiliados";
+import { campanaGyg } from "@/lib/afiliados-gyg";
 import GaleriaActividad from "@/components/GaleriaActividad";
 import CreditosFotos from "@/components/CreditosFotos";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
@@ -152,7 +153,8 @@ export default async function ActividadPage({ params }: Props) {
   const urlReservaBase = construirUrlReserva(
     actividad.proveedor,
     actividad.urlReserva,
-    idiomaProveedor
+    idiomaProveedor,
+    campanaGyg("ficha", lang, params.slug)
   );
   const nombreComercialProveedor = nombreProveedor(actividad.proveedor);
 
@@ -423,6 +425,7 @@ export default async function ActividadPage({ params }: Props) {
                   idioma={lang}
                   urlReserva={urlReservaBase}
                   cabecera={precioWidget}
+                  campana={campanaGyg("widget", lang, params.slug)}
                   soloEn="movil"
                 />
               </div>
@@ -655,6 +658,7 @@ export default async function ActividadPage({ params }: Props) {
                   idioma={lang}
                   urlReserva={urlReservaBase}
                   cabecera={precioWidget}
+                  campana={campanaGyg("widget", lang, params.slug)}
                   soloEn="escritorio"
                   fallback={bloqueCalendario}
                 />
