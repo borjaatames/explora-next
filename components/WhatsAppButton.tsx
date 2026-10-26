@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
 
 /**
@@ -14,7 +15,14 @@ import type { Idioma } from "@/lib/i18n/types";
  *
  * Posición: abajo a la derecha. En móvil se sube (bottom-24) para no tapar
  * la barra sticky de reserva (StickyReservaMovil, bottom-0, z-40).
+ *
+ * En móvil se esconde cuando el usuario baja por la página y reaparece en
+ * cuanto sube, o al llegar arriba o al final (patrón Civitatis/GYG): así no
+ * tapa precios ni botones de las tarjetas. En escritorio no se mueve.
  */
+
+// Desplazamiento mínimo para considerar que el usuario "baja" (px).
+const UMBRAL_PX = 8;
 
 // Número de WhatsApp Business en formato internacional, solo dígitos
 // (sin "+", espacios ni guiones), como exige la API de wa.me.
@@ -44,6 +52,25 @@ export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
     t.mensaje
   )}`;
 
+  const [oculto, setOculto] = useState<boolean>(false);
+
+  useEffect(() => {
+    let ultimoY = window.scrollY;
+
+    const alDesplazar = (): void => {
+      const y = window.scrollY;
+      const delta = y - ultimoY;
+      if (Math.abs(delta) < UMBRAL_PX) return;
+      const cercaDelFinal =
+        window.innerHeight + y >= document.documentElement.scrollHeight - 80;
+      setOculto(delta > 0 && y > 120 && !cercaDelFinal);
+      ultimoY = y;
+    };
+
+    window.addEventListener("scroll", alDesplazar, { passive: true });
+    return () => window.removeEventListener("scroll", alDesplazar);
+  }, []);
+
   return (
     <a
       href={href}
@@ -51,7 +78,9 @@ export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
       rel="noopener noreferrer"
       aria-label={t.aria}
       title={t.tooltip}
-      className="group fixed bottom-24 right-4 z-40 lg:bottom-6 lg:right-6 flex items-center gap-2.5 rounded-full bg-piedra-900 hover:bg-piedra-800 text-white shadow-md transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-anil-500 pl-3 pr-3 lg:pl-4 lg:pr-5 py-3"
+      className={`group fixed bottom-24 right-4 z-40 lg:bottom-6 lg:right-6 flex items-center gap-2.5 rounded-full bg-piedra-900 hover:bg-piedra-800 text-white shadow-md transition-[background-color,transform,opacity] duration-300 motion-reduce:transition-none lg:translate-y-0 lg:opacity-100 lg:pointer-events-auto ${
+        oculto ? "translate-y-[calc(100%+7rem)] opacity-0 pointer-events-none" : "translate-y-0 opacity-100"
+      } focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-anil-500 pl-3 pr-3 lg:pl-4 lg:pr-5 py-3`}
     >
       <span className="hidden lg:block w-2 h-2 rounded-full bg-anil-400" aria-hidden="true" />
       <svg
