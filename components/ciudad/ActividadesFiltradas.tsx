@@ -8,6 +8,7 @@ import type { Idioma } from "@/lib/i18n/types";
 import type { ProveedorActividad } from "@/lib/afiliados";
 import SelloProveedor from "@/components/SelloProveedor";
 import { CLAVE_FILTRO_PRIVADOS } from "@/lib/filtrosActividades";
+import { TEXTO_ETIQUETA, type EtiquetaActividad } from "@/lib/etiquetasActividad";
 
 /**
  * Datos serializables que el Server Component pasa al Client Component.
@@ -38,7 +39,11 @@ export type ActividadCardData = {
   /** Tour privado: lo recoge el botón «Privados» del filtro de tipos. */
   privada: boolean;
   destacada: boolean;
+  /** Etiqueta calculada en servidor (ver lib/etiquetasActividad.ts). */
+  etiqueta?: EtiquetaActividad;
 };
+
+type Orden = "recomendadas" | "precio" | "valoracion";
 
 /**
  * Opción del bloque de categorías en el sidebar. La key debe coincidir con
@@ -119,6 +124,7 @@ export default function ActividadesFiltradas({
   const [tagsActivos, setTagsActivos] = useState<string[]>([]);
   const [categoriasActivas, setCategoriasActivas] = useState<string[]>([]);
   const [pagina, setPagina] = useState(1);
+  const [orden, setOrden] = useState<Orden>("recomendadas");
   // Móvil: los filtros arrancan plegados para no ocupar pantalla. En escritorio
   // (lg+) el sidebar se muestra siempre, independientemente de este estado.
   const [filtrosAbiertos, setFiltrosAbiertos] = useState(false);
@@ -187,16 +193,24 @@ export default function ActividadesFiltradas({
         return pasaAtraccion && pasaCategoria;
       })
       .sort((a, b) => {
+        if (orden === "precio") return a.precioDesde - b.precioDesde;
+        if (orden === "valoracion") {
+          // Solo cuenta la nota con un mínimo de opiniones; el resto, al final.
+          const nota = (x: ActividadCardData) =>
+            (x.numeroOpiniones ?? 0) >= 10 ? x.ratingProveedor ?? 0 : 0;
+          const porNota = nota(b) - nota(a);
+          if (porNota !== 0) return porNota;
+        }
         const porResenas = (b.numeroOpiniones ?? 0) - (a.numeroOpiniones ?? 0);
         if (porResenas !== 0) return porResenas;
         return a.precioDesde - b.precioDesde;
       });
-  }, [actividades, tagsActivos, categoriasActivas]);
+  }, [actividades, tagsActivos, categoriasActivas, orden]);
 
   // Al cambiar cualquier filtro, volvemos a la primera página.
   useEffect(() => {
     setPagina(1);
-  }, [tagsActivos, categoriasActivas]);
+  }, [tagsActivos, categoriasActivas, orden]);
 
   if (actividades.length === 0) return null;
 
@@ -211,6 +225,13 @@ export default function ActividadesFiltradas({
     anterior: en ? "Previous page" : "Página anterior",
     siguiente: en ? "Next page" : "Página siguiente",
     pagina: (n: number) => (en ? `Page ${n}` : `Página ${n}`),
+  };
+
+  const txtOrden = {
+    label: en ? "Sort by" : "Ordenar por",
+    recomendadas: en ? "Recommended" : "Recomendadas",
+    precio: en ? "Price: low to high" : "Precio: de menor a mayor",
+    valoracion: en ? "Highest rated" : "Mejor valoradas",
   };
 
   const txtCategorias = locale.startsWith("de")
@@ -239,23 +260,58 @@ export default function ActividadesFiltradas({
 
   return (
     <section className="bg-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
-        <div className="grid grid-cols-1 lg:grid-cols-[220px_1fr] gap-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 md:py-16">
+        <div className="grid grid-cols-1 lg:grid-cols-[220px_1fr] gap-2 lg:gap-8">
           {chips.length > 0 || categorias.length > 0 ? (
-            <aside className="lg:border-r lg:border-piedra-200 lg:pr-6">
+            <aside className="lg:border-r lg:border-piedra-200 lg:pr-6 min-w-0">
+              <div className="hidden lg:block text-xs font-semibold text-piedra-900 uppercase tracking-wider mb-3">
+                {strings.filtrarPor}
+              </div>
+              {/* Atracciones: fila deslizable siempre visible en móvil;
+                  columna en escritorio. */}
+              {chips.length > 0 ? (
+                <>
+                  <div className="hidden lg:block text-xs text-piedra-500 uppercase tracking-wider mb-2">
+                    {strings.atracciones}
+                  </div>
+                  <div className="flex flex-nowrap overflow-x-auto -mx-4 px-4 pb-1 mb-3 lg:mx-0 lg:px-0 lg:pb-0 lg:mb-5 lg:flex-col lg:overflow-visible gap-2 [scrollbar-width:none]">
+                    {chips.map((chip) => {
+                      const activo = tagsActivos.includes(chip.tag);
+                      return (
+                        <button
+                          key={chip.tag}
+                          type="button"
+                          onClick={() => toggleTag(chip.tag)}
+                          aria-pressed={activo}
+                          className={
+                            "shrink-0 whitespace-nowrap lg:whitespace-normal text-left text-sm font-semibold px-3 py-2 rounded-full lg:rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 " +
+                            (activo
+                              ? "bg-anil-500 border-anil-500 text-white hover:bg-anil-600"
+                              : "bg-white border-piedra-300 text-piedra-900 hover:border-anil-400")
+                          }
+                        >
+                          {activo ? "✓ " : ""}
+                          {chip.label}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </>
+              ) : null}
+
               {/* Móvil: botón para plegar/desplegar los filtros (en pantalla
                   pequeña los chips ocupan mucho aunque no estén seleccionados). */}
               <button
                 type="button"
                 onClick={() => setFiltrosAbiertos((v) => !v)}
                 aria-expanded={filtrosAbiertos}
-                className="lg:hidden w-full flex items-center justify-between gap-2 mb-4 px-3 py-2 rounded-lg border border-piedra-300 bg-white text-sm font-semibold text-piedra-900 hover:border-anil-400 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500"
+                className="lg:hidden w-full flex items-center justify-between gap-2 mb-4 min-h-[44px] px-3 py-2 rounded-lg border border-piedra-300 bg-white text-sm font-semibold text-piedra-900 hover:border-anil-400 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500"
               >
                 <span className="flex items-center gap-2">
-                  {strings.filtrarPor}
-                  {totalFiltros > 0 ? (
+                  {strings.categorias}
+                  {categoriasActivas.length > 0 ? (
                     <span className="inline-flex items-center justify-center min-w-[20px] h-5 px-1.5 rounded-full bg-anil-500 text-white text-xs">
-                      {totalFiltros}
+                      {categoriasActivas.length}
                     </span>
                   ) : null}
                 </span>
@@ -277,40 +333,6 @@ export default function ActividadesFiltradas({
 
               {/* Contenido de filtros: plegable en móvil, fijo en escritorio. */}
               <div className={(filtrosAbiertos ? "block" : "hidden") + " lg:block"}>
-                <div className="hidden lg:block text-xs font-semibold text-piedra-900 uppercase tracking-wider mb-3">
-                  {strings.filtrarPor}
-                </div>
-
-              {chips.length > 0 ? (
-                <>
-                  <div className="text-xs text-piedra-500 uppercase tracking-wider mb-2">
-                    {strings.atracciones}
-                  </div>
-                  <div className="flex flex-wrap lg:flex-col gap-2 mb-5">
-                    {chips.map((chip) => {
-                      const activo = tagsActivos.includes(chip.tag);
-                      return (
-                        <button
-                          key={chip.tag}
-                          type="button"
-                          onClick={() => toggleTag(chip.tag)}
-                          aria-pressed={activo}
-                          className={
-                            "text-left text-sm font-semibold px-3 py-2 rounded-lg border transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 " +
-                            (activo
-                              ? "bg-anil-500 border-anil-500 text-white hover:bg-anil-600"
-                              : "bg-white border-piedra-300 text-piedra-900 hover:border-anil-400")
-                          }
-                        >
-                          {activo ? "✓ " : ""}
-                          {chip.label}
-                        </button>
-                      );
-                    })}
-                  </div>
-                </>
-              ) : null}
-
               {categorias.length > 0 ? (
                 <>
                   <div className="text-xs text-piedra-500 uppercase tracking-wider mb-2">
@@ -355,15 +377,30 @@ export default function ActividadesFiltradas({
           ) : null}
 
           <div ref={listaRef} className="scroll-mt-24">
-            <div className="flex flex-wrap items-baseline justify-between gap-2 mb-6">
-              <div className="text-base font-semibold text-piedra-900">
-                {contador}
-              </div>
-              {totalFiltros > 0 ? (
-                <div className="text-sm text-piedra-500">
-                  {filtrosActivosLabel}
+            <div className="flex flex-wrap items-center justify-between gap-3 mb-4 md:mb-6">
+              <div>
+                <div className="text-base font-semibold text-piedra-900">
+                  {contador}
                 </div>
-              ) : null}
+                {totalFiltros > 0 ? (
+                  <div className="text-sm text-piedra-500">
+                    {filtrosActivosLabel}
+                  </div>
+                ) : null}
+              </div>
+              <label className="flex items-center gap-2 text-sm text-piedra-600">
+                <span className="hidden sm:inline">{txtOrden.label}</span>
+                <select
+                  value={orden}
+                  onChange={(e) => setOrden(e.target.value as Orden)}
+                  aria-label={txtOrden.label}
+                  className="min-h-[40px] rounded-lg border border-piedra-300 bg-white px-3 py-2 text-sm font-semibold text-piedra-900 hover:border-anil-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
+                >
+                  <option value="recomendadas">{txtOrden.recomendadas}</option>
+                  <option value="precio">{txtOrden.precio}</option>
+                  <option value="valoracion">{txtOrden.valoracion}</option>
+                </select>
+              </label>
             </div>
 
             {filtradas.length === 0 ? (
@@ -372,7 +409,7 @@ export default function ActividadesFiltradas({
               </div>
             ) : (
               <>
-                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-0 md:gap-6 border-t border-piedra-200 md:border-0">
                   {/* Todas las tarjetas van en el HTML (para que los buscadores
                       lleguen a cada ficha); las de otras páginas se ocultan
                       con CSS y sus imágenes lazy no se descargan. */}
@@ -479,13 +516,13 @@ export default function ActividadesFiltradas({
   );
 }
 
-function CardActividad({
+export function CardActividad({
   actividad,
   strings,
   locale,
 }: {
   actividad: ActividadCardData;
-  strings: ActividadesFiltradasStrings;
+  strings: Pick<ActividadesFiltradasStrings, "desde" | "verActividad" | "cancelacionGratuita">;
   locale: string;
 }) {
   const formato = new Intl.NumberFormat(locale, {
@@ -495,69 +532,82 @@ function CardActividad({
   });
 
   const idioma: Idioma = locale.startsWith("en") ? "en" : "es";
+  const textoEtiqueta = actividad.etiqueta
+    ? TEXTO_ETIQUETA[idioma === "es" ? "es" : "en"][actividad.etiqueta]
+    : null;
+  const tieneNota =
+    typeof actividad.ratingProveedor === "number" &&
+    typeof actividad.numeroOpiniones === "number";
 
   return (
     <Link
       href={actividad.url}
       prefetch={false}
-      className="group flex flex-col w-full overflow-hidden rounded-xl border border-piedra-200 bg-white shadow-sm transition hover:border-anil-400 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
+      className="group flex w-full gap-3 border-b border-piedra-200 bg-white py-3 transition md:flex-col md:gap-0 md:overflow-hidden md:rounded-xl md:border md:py-0 md:shadow-sm hover:border-anil-400 md:hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
     >
-      {actividad.imagen ? (
-        <div className="relative aspect-[4/3] w-full overflow-hidden bg-piedra-100">
+      <div className="relative h-28 w-28 shrink-0 overflow-hidden rounded-lg bg-piedra-100 md:aspect-[4/3] md:h-auto md:w-full md:rounded-none">
+        {actividad.imagen ? (
           <Image
             src={actividad.imagen}
             alt={actividad.imagenAlt}
             fill
-            sizes="(min-width: 1280px) 25vw, (min-width: 768px) 33vw, 100vw"
+            sizes="(min-width: 1280px) 25vw, (min-width: 768px) 33vw, 112px"
             className="object-cover transition duration-300 group-hover:scale-105"
           />
-          {actividad.cancelacionGratuita ? (
-            <span className="absolute top-3 left-3 bg-azafran-500 text-piedra-900 text-xs font-semibold px-2 py-1 rounded">
-              {strings.cancelacionGratuita}
-            </span>
-          ) : null}
-        </div>
-      ) : (
-        <div className="aspect-[4/3] w-full bg-piedra-100" aria-hidden="true" />
-      )}
+        ) : null}
+        {textoEtiqueta ? (
+          <span className="absolute top-3 left-3 hidden md:inline-block bg-piedra-900 text-white text-xs font-semibold px-2 py-1 rounded">
+            {textoEtiqueta}
+          </span>
+        ) : null}
+      </div>
 
-      <div className="flex flex-1 flex-col p-5">
-        <h3 className="font-fraunces text-lg md:text-xl font-bold text-piedra-900 mb-2 group-hover:text-anil-700 transition-colors leading-tight line-clamp-2 min-h-[2.5em]">
+      <div className="flex min-w-0 flex-1 flex-col md:p-5">
+        {textoEtiqueta ? (
+          <span className="md:hidden self-start bg-piedra-900 text-white text-[11px] font-semibold px-1.5 py-0.5 rounded mb-1">
+            {textoEtiqueta}
+          </span>
+        ) : null}
+        <h3 className="text-[15px] font-semibold leading-snug md:font-fraunces md:text-xl md:font-bold text-piedra-900 mb-1 md:mb-2 group-hover:text-anil-700 transition-colors md:leading-tight line-clamp-2 md:min-h-[2.5em]">
           {actividad.titulo}
         </h3>
-        <div className="flex items-center gap-x-3 h-5 overflow-hidden whitespace-nowrap text-sm text-piedra-500 mb-4">
+        <div className="flex items-center gap-x-3 overflow-hidden whitespace-nowrap text-xs md:text-sm text-piedra-500 md:h-5 md:mb-1">
           {actividad.duracion ? (
             <span className="min-w-0 truncate">{actividad.duracion}</span>
           ) : null}
-          {typeof actividad.ratingProveedor === "number" &&
-          typeof actividad.numeroOpiniones === "number" ? (
+          {tieneNota ? (
             <span className="shrink-0">
               <span className="text-azafran-600" aria-hidden="true">
                 ★
               </span>{" "}
-              {actividad.ratingProveedor.toFixed(1)} (
-              {actividad.numeroOpiniones})
+              {actividad.ratingProveedor?.toFixed(1)} ({actividad.numeroOpiniones})
             </span>
           ) : null}
         </div>
-        <div className="mt-auto pt-4 border-t border-piedra-100">
-          <SelloProveedor
-            proveedor={actividad.proveedor}
-            idioma={idioma}
-            className="mb-3"
-          />
-          <div className="flex items-end justify-between">
-            <div>
-              <p className="text-xs uppercase tracking-wider text-piedra-400">
+        {actividad.cancelacionGratuita ? (
+          <p className="text-xs md:text-sm font-semibold text-cobre-600 mt-0.5 md:mb-3">
+            ✓ {strings.cancelacionGratuita}
+          </p>
+        ) : null}
+        <div className="mt-auto md:pt-4 md:border-t md:border-piedra-100">
+          <div className="hidden md:block mb-3">
+            <SelloProveedor proveedor={actividad.proveedor} idioma={idioma} />
+          </div>
+          <div className="flex items-end justify-end md:justify-between">
+            <div className="text-right md:text-left">
+              <p className="hidden md:block text-xs uppercase tracking-wider text-piedra-400">
                 {strings.desde}
               </p>
-              <p className="text-xl font-bold text-piedra-900">
+              <p className="text-base md:text-xl font-bold text-piedra-900">
+                <span className="md:hidden text-xs font-normal text-piedra-500">
+                  {strings.desde.toLowerCase()}{" "}
+                </span>
                 {formato.format(actividad.precioDesde)}
               </p>
             </div>
             <span
               aria-hidden="true"
-              className="text-sm font-semibold text-anil-600 group-hover:text-anil-700"
+              className="hidden md:inline text-sm font-semibold text-anil-600 group-hover:text-anil-700"
             >
               {strings.verActividad} →
             </span>

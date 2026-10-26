@@ -32,7 +32,7 @@ import DatosClave from "@/components/ficha/DatosClave";
 import NotaTripadvisor from "@/components/ficha/NotaTripadvisor";
 import ResenasTripadvisor from "@/components/ficha/ResenasTripadvisor";
 import { datosTripadvisorBokun, fuenteResenasGyg } from "@/lib/tripadvisor";
-import PlegableMovil from "@/components/ficha/PlegableMovil";
+import SeccionMovil from "@/components/ficha/SeccionMovil";
 import StickyReservaBokun from "@/components/ficha/StickyReservaBokun";
 import { ANCLA_RESERVA } from "@/lib/reservaBokun";
 import SelloProveedor from "@/components/SelloProveedor";
@@ -267,9 +267,12 @@ export default async function ActividadPage({ params }: Props) {
 
       {/* Móvil: foto primero (como Civitatis/GetYourGuide); desde md, cabecera
           y después galería, como siempre (desde md). */}
+      <section className="max-w-6xl mx-auto px-4 pb-10 md:pb-14">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-x-10">
+          <div className="lg:col-span-2 min-w-0">
       <div className="flex flex-col">
       <header className="bg-white pt-4 md:pt-8">
-        <div className="max-w-6xl mx-auto px-4">
+        <div>
           <nav aria-label="Migas de pan" className="text-sm text-piedra-500 mb-4">
             <Link href="/" className="hover:text-anil-700">
               Inicio
@@ -308,7 +311,7 @@ export default async function ActividadPage({ params }: Props) {
             )}
           </div>
 
-          <h1 className="font-fraunces text-2xl md:text-5xl font-bold text-piedra-900 mb-3 leading-tight">
+          <h1 className="font-fraunces text-2xl md:text-4xl font-bold text-piedra-900 mb-3 leading-tight">
             {actividad.titulo}
           </h1>
           <p className="text-base md:text-lg text-piedra-600 max-w-3xl leading-relaxed line-clamp-3 md:line-clamp-none">
@@ -373,7 +376,7 @@ export default async function ActividadPage({ params }: Props) {
       </header>
 
       {actividad.imagen && (
-        <div className="order-first md:order-none w-full max-w-6xl mx-auto px-4 pt-3 md:pt-8">
+        <div className="order-first md:order-none w-full pt-3 md:pt-8">
           <GaleriaActividad
             idioma="es"
             principal={{
@@ -392,9 +395,7 @@ export default async function ActividadPage({ params }: Props) {
 
       </div>
 
-      <section className="max-w-6xl mx-auto px-4 py-10 md:py-14">
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
-          <div className="lg:col-span-2 space-y-12">
+          <div className="space-y-12 pt-10 md:pt-14">
             <SelloProveedor proveedor={actividad.proveedor} idioma="es" />
 
             {tourWidget && (
@@ -459,7 +460,9 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             )}
 
+            <div className="border-t border-piedra-200 md:border-0 md:space-y-12">
             {/* 5. Qué incluye / no incluye */}
+            <SeccionMovil idioma="es" seccion="incluye" ocultarTitulo={false}>
             {(actividad.incluye.length > 0 ||
               actividad.noIncluye.length > 0) && (
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -511,21 +514,22 @@ export default async function ActividadPage({ params }: Props) {
                 )}
               </div>
             )}
+            </SeccionMovil>
 
             {/* 6. Información importante — 3 columnas */}
-            <PlegableMovil idioma="es">
+            <SeccionMovil idioma="es" seccion="info">
               <InformacionImportante idioma="es" info={actividad.informacionImportante} />
-            </PlegableMovil>
+            </SeccionMovil>
 
             {/* 7. Punto de encuentro con MAPA OSM + descripción guía */}
             {actividad.puntoEncuentro.texto && (
-              <PlegableMovil idioma="es">
+              <SeccionMovil idioma="es" seccion="encuentro">
                 <MapaPuntoEncuentro idioma="es" punto={actividad.puntoEncuentro} />
-              </PlegableMovil>
+              </SeccionMovil>
             )}
 
             {/* 8. Sobre la actividad (Markdown editorial) */}
-            <PlegableMovil idioma="es">
+            <SeccionMovil idioma="es" seccion="experiencia">
             <div>
               <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-4">
                 {dict.actividades.laExperiencia}
@@ -535,10 +539,11 @@ export default async function ActividadPage({ params }: Props) {
                 dangerouslySetInnerHTML={{ __html: actividad.contenidoHtml }}
               />
             </div>
-            </PlegableMovil>
+            </SeccionMovil>
 
             {/* 9. Accesibilidad — frase global simple */}
             {actividad.accesibilidad && (
+              <SeccionMovil idioma="es" seccion="accesibilidad">
               <div className="bg-white border border-piedra-200 rounded-lg p-6 md:p-7">
                 <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-3">
                   Accesibilidad
@@ -547,10 +552,12 @@ export default async function ActividadPage({ params }: Props) {
                   {actividad.accesibilidad}
                 </p>
               </div>
+              </SeccionMovil>
             )}
 
             {/* 11. Política de cancelación — párrafo claro */}
             {actividad.politicaCancelacion && (
+              <SeccionMovil idioma="es" seccion="cancelacion">
               <div className="bg-white border border-piedra-200 rounded-lg p-6 md:p-7">
                 <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-3">
                   Política de cancelación
@@ -559,10 +566,16 @@ export default async function ActividadPage({ params }: Props) {
                   {actividad.politicaCancelacion}
                 </p>
               </div>
+              </SeccionMovil>
             )}
 
             {/* 12. Preguntas frecuentes — sin JSON-LD por ahora */}
-            <FaqActividad idioma="es" preguntas={actividad.preguntasFrecuentes || []} />
+            {(actividad.preguntasFrecuentes?.length ?? 0) > 0 && (
+              <SeccionMovil idioma="es" seccion="faq">
+                <FaqActividad idioma="es" preguntas={actividad.preguntasFrecuentes || []} />
+              </SeccionMovil>
+            )}
+            </div>
 
             {/* 13. Guías relacionadas */}
             {guiasRelacionadas.length > 0 && (
@@ -611,6 +624,8 @@ export default async function ActividadPage({ params }: Props) {
           {/* Bókun: un solo widget. En móvil el aside se apila tras el contenido
               (la barra fija y el CTA de cabecera bajan hasta él); para afiliados
               el aside solo existe en escritorio y en móvil manda la barra sticky. */}
+          </div>
+
           <aside
             id={actividad.proveedor === "bokun" ? ANCLA_RESERVA : undefined}
             className={
@@ -619,7 +634,7 @@ export default async function ActividadPage({ params }: Props) {
                 : "hidden lg:block lg:col-span-1"
             }
           >
-            <div className="lg:sticky lg:top-24">
+            <div className="lg:sticky lg:top-24 lg:pt-8">
               {actividad.proveedor === "bokun" ? (
                 <BokunWidget
                   idioma="es"

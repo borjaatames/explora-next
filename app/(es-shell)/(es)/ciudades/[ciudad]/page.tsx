@@ -7,7 +7,8 @@ import {
   obtenerTodosLosCaminosCiudades,
 } from "@/lib/ciudades";
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
-import { obtenerListaActividadesPorCiudad } from "@/lib/actividades";
+import { obtenerActividadesParaPaginaCiudad } from "@/lib/actividades";
+import EscaparateActividades from "@/components/ciudad/EscaparateActividades";
 import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
 import GuiasDeCiudadLista from "@/components/ciudad/GuiasDeCiudadLista";
 import { slugParejaCiudad } from "@/lib/i18n/slugs";
@@ -88,14 +89,13 @@ export default async function CiudadPage({ params }: Props) {
   // esa ruta hace notFound(). Por eso ocultamos el botón aquí en vez de
   // enlazar a una página que no existe (mismo criterio que hayGuias /
   // hayAtracciones más abajo).
-  const hayActividades =
-    obtenerListaActividadesPorCiudad("es", params.ciudad).length > 0;
+  const actividadesCiudad = obtenerActividadesParaPaginaCiudad("es", params.ciudad);
+  const hayActividades = actividadesCiudad.length > 0;
   const urlGuias = urlGuiasDeCiudad("es", params.ciudad);
   const urlActividades = urlActividadesDeCiudad("es", params.ciudad);
   const urlAtracciones = urlAtraccionesDeCiudad("es", params.ciudad);
   const hayAtracciones = (ciudad.atracciones?.length ?? 0) > 0;
-  const numCards =
-    (hayGuias ? 1 : 0) + (hayActividades ? 1 : 0) + (hayAtracciones ? 1 : 0);
+  const numCards = (hayActividades ? 1 : 0) + (hayAtracciones ? 1 : 0);
   const gridClass =
     numCards === 3
       ? "grid grid-cols-1 md:grid-cols-3 gap-6"
@@ -152,14 +152,17 @@ export default async function CiudadPage({ params }: Props) {
         urlGuias={hayGuias ? urlGuias : undefined}
         urlAtracciones={hayAtracciones ? urlAtracciones : undefined}
       />
-      <DatosClaveCiudad idioma={"es"} datos={ciudad.datosClave ?? []} />
 
-      <article className="max-w-3xl mx-auto px-4 py-12 md:py-16">
-        <div
-          className="prose-guia text-justify hyphens-auto"
-          dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
+
+      {hayActividades ? (
+        <EscaparateActividades
+          idioma={"es"}
+          nombreCiudad={ciudad.nombre}
+          actividades={actividadesCiudad}
+          chips={ciudad.chipsFiltros ?? []}
+          urlActividades={urlActividades}
         />
-      </article>
+      ) : null}
 
       <GuiasDeCiudadLista
         guias={guiasDeCiudad}
@@ -169,20 +172,20 @@ export default async function CiudadPage({ params }: Props) {
         textoMinLectura="min lectura"
       />
 
+      <DatosClaveCiudad idioma={"es"} datos={ciudad.datosClave ?? []} />
+      <article className="max-w-3xl mx-auto px-4 py-10 md:py-14">
+        <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-4">
+          {"Sobre " + ciudad.nombre}
+        </h2>
+        <div
+          className="prose-guia text-justify hyphens-auto"
+          dangerouslySetInnerHTML={{ __html: ciudad.contenidoHtml }}
+        />
+      </article>
+
       <section className="bg-piedra-50 border-t border-piedra-200">
         <div className="max-w-6xl mx-auto px-4 py-12 md:py-16">
           <div className={gridClass}>
-            {hayGuias ? (
-              <CtaCiudadCard
-                href={urlGuias}
-                imagen={ciudad.imagenGuias}
-                imagenAlt={ciudad.imagenGuiasAlt}
-                titulo={"Guías de " + ciudad.nombre}
-                descripcion="Rutas con criterio y consejos honestos para planificar tu viaje."
-                cta="Ver guías"
-                acento="sky"
-              />
-            ) : null}
             {hayActividades ? (
               <CtaCiudadCard
                 href={urlActividades}

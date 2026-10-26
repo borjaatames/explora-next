@@ -67,7 +67,7 @@ export default function HeroCiudad({
           className="absolute inset-0 -z-10 bg-gradient-to-t from-piedra-900/90 via-piedra-900/40 to-piedra-900/20"
           aria-hidden="true"
         />
-        <div className="max-w-6xl mx-auto px-4 min-h-[340px] md:min-h-[440px] flex flex-col justify-end pt-16 pb-10 md:pb-12">
+        <div className="max-w-6xl mx-auto px-4 min-h-[240px] md:min-h-[380px] flex flex-col justify-end pt-12 pb-6 md:pb-10">
           <nav aria-label={t.migas} className="text-sm text-anil-100 mb-4">
             {migas.map((m, i) => (
               <span key={m.label}>
@@ -86,10 +86,10 @@ export default function HeroCiudad({
           <span className="self-start inline-block border border-white/60 text-white text-xs font-semibold uppercase tracking-wider px-2.5 py-1 rounded mb-4">
             {comunidad}
           </span>
-          <h1 className="font-fraunces text-5xl md:text-6xl font-bold leading-none mb-4">
+          <h1 className="font-fraunces text-4xl md:text-6xl font-bold leading-none mb-3 md:mb-4">
             {nombre}
           </h1>
-          <p className="text-lg md:text-xl text-anil-50 max-w-2xl leading-relaxed">
+          <p className="text-base md:text-xl text-anil-50 max-w-2xl leading-relaxed line-clamp-2 md:line-clamp-none">
             {descripcion}
           </p>
         </div>

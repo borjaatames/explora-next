@@ -1,3 +1,4 @@
+import { calcularEtiquetas } from "@/lib/etiquetasActividad";
 import type { Metadata } from "next";
 import { CLAVE_FILTRO_PRIVADOS } from "@/lib/filtrosActividades";
 import { notFound } from "next/navigation";
@@ -185,7 +186,11 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
   const actividades = obtenerActividadesParaPaginaCiudad(lang, params.ciudad);
   if (actividades.length === 0) notFound();
 
-  const cardsActividades = actividades.map(aCardData);
+  const etiquetas = calcularEtiquetas(actividades);
+  const cardsActividades = actividades.map((a) => ({
+    ...aCardData(a),
+    etiqueta: etiquetas.get(a.slug),
+  }));
   const chipsFiltros = ciudad.chipsFiltros ?? [];
   const ratingMedio = calcularRatingMedio(actividades);
   const guiasDeCiudad = obtenerGuiasDeCiudad(lang, params.ciudad);
@@ -263,7 +268,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
       />
 
-      <header className="relative isolate overflow-hidden bg-anil-500 text-white py-12 md:py-16">
+      <header className="relative isolate overflow-hidden bg-anil-500 text-white py-6 md:py-16">
         {ciudad.imagenActividades || ciudad.imagen ? (
           <>
             <Image
@@ -294,14 +299,17 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
             <span className="text-white">Activities</span>
           </nav>
 
-          <h1 className="font-fraunces text-3xl md:text-5xl font-bold mb-3 leading-tight">
+          <h1 className="font-fraunces text-2xl md:text-5xl font-bold mb-1 md:mb-3 leading-tight">
             Things to do in {ciudad.nombre}
           </h1>
-          <p className="text-lg md:text-xl text-piedra-100 max-w-3xl mb-6">
+          <p className="hidden md:block text-lg md:text-xl text-piedra-100 max-w-3xl mb-6">
             Tours, guided visits and day trips hand-picked with editorial criteria.
           </p>
 
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-x-6 gap-y-3 max-w-3xl">
+          <p className="md:hidden text-sm text-piedra-100">
+            {actividades.length} activities{ratingMedio !== null ? ` · ★ ${ratingMedio} average` : ""}
+          </p>
+          <div className="hidden md:grid md:grid-cols-4 gap-x-6 gap-y-3 max-w-3xl">
             <Metrica valor={actividades.length} etiqueta="activities" />
             <Metrica
               valor={ciudad.atracciones?.length ?? 0}

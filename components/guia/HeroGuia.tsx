@@ -98,6 +98,30 @@ export function IndiceGuia({
   entradas: ReadonlyArray<{ id: string; texto: string }>;
 }) {
   return (
+    <>
+    {/* Móvil y tableta: índice plegable encima del texto. */}
+    <details className="lg:hidden mb-8 rounded-lg border border-piedra-200 bg-white [&_summary::-webkit-details-marker]:hidden group">
+      <summary className="flex min-h-[48px] cursor-pointer list-none items-center justify-between px-4 text-base font-semibold text-piedra-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 rounded-lg">
+        <span>
+          {titulo} ({entradas.length})
+        </span>
+        <span aria-hidden="true" className="text-xl leading-none text-piedra-500 group-open:rotate-45 transition-transform">
+          +
+        </span>
+      </summary>
+      <ol className="list-decimal space-y-2 px-4 pb-4 pl-9 text-sm">
+        {entradas.map((e) => (
+          <li key={e.id}>
+            <a
+              href={`#${e.id}`}
+              className="text-anil-600 hover:text-anil-700 transition-colors leading-snug focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 rounded"
+            >
+              {e.texto}
+            </a>
+          </li>
+        ))}
+      </ol>
+    </details>
     <nav aria-label={titulo} className="hidden lg:block">
       <div className="sticky top-28 border-t-2 border-piedra-900 pt-4">
         <p className="text-xs font-bold uppercase tracking-widest text-piedra-500 mb-3">
@@ -117,5 +141,6 @@ export function IndiceGuia({
         </ol>
       </div>
     </nav>
+    </>
   );
 }
