@@ -54,25 +54,41 @@ keywords:
 - personal photoshoot barcelona
 - park guell photographer
 - gothic quarter photo session
-imagen: https://imgcdn.bokun.tools/a6b2476e-ada9-4866-b2c7-d046415f6ed4.jpg
-imagenAlt: Personal photoshoot at an iconic Barcelona location
+imagen: "/images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia11.webp"
+imagenAlt: "Portrait with the Sagrada Familia facade behind"
 galeria:
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-parcguell9.webp
+  alt: "Portrait on the mosaic bench in Park Güell"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-gothicquarter3.webp
+  alt: "Portrait seated on stone steps in the Gothic Quarter"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-parcguell6.webp
+  alt: "Portrait by the mosaic dragon in Park Güell"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-parcguell10.webp
+  alt: "Couple among bougainvillea in Park Güell"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-gothicquarter10.webp
+  alt: "Couple posing in a courtyard in the Gothic Quarter"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia1.webp
+  alt: "Marriage proposal in front of the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-parcguell11.webp
+  alt: "Couple under the stone porticoes of Park Güell"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-gothicquarter4.webp
+  alt: "Couple between Gothic arches in the Gothic Quarter"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia13.webp
+  alt: "Full-length portrait before the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-parcguell7.webp
+  alt: "Portrait among flowers in Park Güell"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-gothicquarter9.webp
+  alt: "Couple in a flowered courtyard garden in the Gothic Quarter"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-gothicquarter1.webp
+  alt: "Bride and groom in front of Barcelona Cathedral"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-parcguell5.webp
+  alt: "Couple at a Park Güell viewpoint"
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp
   alt: View of Barceloneta beach with the marina and palm trees in the background
 - src: /images/actividades/barcelona/barceloneta/barceloneta-platja-2018-06-hero.webp
   alt: Sailboat and parasailing off Barceloneta beach
 - src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
   alt: Barrio Gotico Barcelona Explore Narrow Historic Street
-- src: https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg
-  alt: Group of friends under Barcelona's Arc de Triomf
-- src: https://imgcdn.bokun.tools/3c940b4e-9a54-4f89-948e-c6b83a6315ab.jpg
-  alt: Portrait beside the Sagrada Familia
-- src: https://imgcdn.bokun.tools/071a5473-f0cd-455c-824d-195c26691b88.jpg
-  alt: Friends posing with the Sagrada Familia behind
-- src: https://imgcdn.bokun.tools/72057d2a-12e3-4cfd-9fb5-ba5cc287c966.jpg
-  alt: Couple among soap bubbles at the Sagrada Familia
-- src: https://imgcdn.bokun.tools/ea896ba5-b1a6-4bf2-a6e9-6d45f2a05d5c.jpg
-  alt: Portrait with soap bubbles in a Barcelona park
 publicada: true
 destacada: false
 fecha: '2026-09-05'

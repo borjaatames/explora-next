@@ -53,17 +53,37 @@ keywords:
 - sesion fotos privada barcelona
 - fotografo sagrada familia
 - fotografia profesional barcelona
-imagen: https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg
-imagenAlt: Sesión de fotos privada VIP en Barcelona junto a la Sagrada Familia
+imagen: "/images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia5-2.webp"
+imagenAlt: "Grupo de amigos celebrando frente a la Sagrada Familia"
 galeria:
-- src: https://imgcdn.bokun.tools/86766be2-5ed0-486e-a5c4-39025a205491.jpg
-  alt: Amigas posando con la Sagrada Familia al fondo
-- src: https://imgcdn.bokun.tools/8ee67383-b1c7-4b11-8e9f-b83c9894c7a0.jpg
-  alt: Retrato junto a la Sagrada Familia
-- src: https://imgcdn.bokun.tools/28df9fcf-8e1e-4822-8fc8-7b8509e7dccf.jpg
-  alt: Pareja en la cascada del parque de la Ciutadella
-- src: https://imgcdn.bokun.tools/1a8bd2cf-3c54-477e-858a-b4be659f64b4.jpg
-  alt: Retrato ante una portada gótica del Barrio Gótico
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamlia17.webp
+  alt: "Retrato con abanico ante la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-montjuic11.webp
+  alt: "Retrato frente al Palau Nacional de Montjuïc"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-montjuic9.webp
+  alt: "Vestido al viento frente al Palau Nacional"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-montjuic2.webp
+  alt: "Pedida de mano con Barcelona al fondo desde Montjuïc"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-laciudadela5.webp
+  alt: "Familia paseando por el Parc de la Ciutadella"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-laciudadela1.webp
+  alt: "Niña en la escultura del Parc de la Ciutadella"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-labarceloneta6.webp
+  alt: "Retrato junto al Hotel W en la Barceloneta"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-labarceloneta8.webp
+  alt: "Grupo saltando en el paseo de la Barceloneta"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-labarceloneta9.webp
+  alt: "Padre lanzando a su bebé al aire en la Barceloneta"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia3.webp
+  alt: "Pedida de mano entre árboles con la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia9.webp
+  alt: "Pareja abrazada ante la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-gothicquarter12.webp
+  alt: "Sesión en la escalinata de la Plaça del Rei"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-montjuic15.webp
+  alt: "Pareja en una escalera de azulejos de Montjuïc"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-gothicquarter11.webp
+  alt: "Retrato con vestido rojo en las escaleras de la Catedral"
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp

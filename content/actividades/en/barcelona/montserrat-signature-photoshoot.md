@@ -53,9 +53,11 @@ keywords:
 - montserrat photoshoot
 - montserrat photographer
 - montserrat day trip photos
-imagen: https://imgcdn.bokun.tools/6c42429a-d571-4e95-b5a2-17251f8e8014.jpg
-imagenAlt: Montserrat Signature private photoshoot, day trip from Barcelona
+imagen: "/images/actividades/barcelona/proveedor-wonderful-memories/wm-montserrat11.webp"
+imagenAlt: "Couple embracing before the Montserrat basilica facade"
 galeria:
+- src: https://imgcdn.bokun.tools/6c42429a-d571-4e95-b5a2-17251f8e8014.jpg
+  alt: Montserrat Signature private photoshoot, day trip from Barcelona
 - src: https://imgcdn.bokun.tools/7f15d47b-cda3-4d4a-bf8a-faec25495098.jpg
   alt: Couple embracing in the Montserrat atrium
 - src: https://imgcdn.bokun.tools/5f2d576c-0790-4c4c-8b03-9e8c80c65d64.jpg

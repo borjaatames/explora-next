@@ -52,17 +52,21 @@ keywords:
 - sesion fotos rapida barcelona
 - fotografo barcelona 20 minutos
 - fotos sagrada familia
-imagen: https://imgcdn.bokun.tools/5cafa33a-967f-406c-93dc-a55d6a13cb5d.jpg
-imagenAlt: Sesión de fotos rápida de 20 minutos en Barcelona
+imagen: "/images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamlia11.webp"
+imagenAlt: "Familia en el parque de la Sagrada Familia"
 galeria:
-- src: https://imgcdn.bokun.tools/40b8a734-bfbb-4d2c-b166-9517b9c4d354.jpg
-  alt: Pompas de jabón en una sesión de fotos frente a la Sagrada Familia
-- src: https://imgcdn.bokun.tools/966da696-a772-45b9-a42a-5be0a0fd4110.jpg
-  alt: Pareja entre pompas de jabón en la Sagrada Familia
-- src: https://imgcdn.bokun.tools/9caaaec9-b600-4e58-bc9b-dece7fb5c7b1.jpg
-  alt: Grupo de amigas bajo el Arco de Triunfo de Barcelona
-- src: https://imgcdn.bokun.tools/f49d2e55-64f9-41d2-825b-432c99c7b860.jpg
-  alt: Familia posando en una escalinata de azulejos
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia12.webp
+  alt: "Pompas de jabón en una sesión junto a la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia15.webp
+  alt: "Retrato junto al estanque frente a la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia8.webp
+  alt: "Retrato al atardecer frente a la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamlia10.webp
+  alt: "Familia sentada frente a la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia5.webp
+  alt: "Pareja con pompas de jabón y la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia10.webp
+  alt: "Pareja en el parque con la Sagrada Familia al fondo"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
   alt: Arcos del claustro de la Catedral de Barcelona y su jardín
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp

@@ -53,9 +53,11 @@ keywords:
 - sesion fotos montserrat
 - fotografo montserrat
 - excursion fotografica montserrat
-imagen: https://imgcdn.bokun.tools/6c42429a-d571-4e95-b5a2-17251f8e8014.jpg
-imagenAlt: Sesión de fotos privada Montserrat Signature, excursión desde Barcelona
+imagen: "/images/actividades/barcelona/proveedor-wonderful-memories/wm-montserrat11.webp"
+imagenAlt: "Pareja abrazada ante la fachada de la basílica de Montserrat"
 galeria:
+- src: https://imgcdn.bokun.tools/6c42429a-d571-4e95-b5a2-17251f8e8014.jpg
+  alt: Sesión de fotos privada Montserrat Signature, excursión desde Barcelona
 - src: https://imgcdn.bokun.tools/7f15d47b-cda3-4d4a-bf8a-faec25495098.jpg
   alt: Pareja abrazada en el atrio de Montserrat
 - src: https://imgcdn.bokun.tools/5f2d576c-0790-4c4c-8b03-9e8c80c65d64.jpg

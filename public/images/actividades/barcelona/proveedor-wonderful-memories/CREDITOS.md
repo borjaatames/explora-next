@@ -1,0 +1,41 @@
+# Créditos · barcelona/proveedor-wonderful-memories
+
+Fotos de Wonderful Memories (Cristina), proveedor de Bókun 117358. Las envió por WeTransfer el 27 oct 2026 a petición de ExploraSpain, solo con clientes que han dado su consentimiento para uso promocional. Crédito: «Foto: Wonderful Memories». Horizontales 1600×1200 y verticales 1200×1600, WebP calidad 80.
+
+- `wm-gothicquarter1.webp` — Novios ante la fachada de la Catedral de Barcelona. Original: «Gothicquarter1.jpg».
+- `wm-gothicquarter10.webp` — Pareja posando en un patio del Barrio Gótico. Original: «Gothicquarter10.jpg».
+- `wm-gothicquarter11.webp` — Retrato con vestido rojo en las escaleras de la Catedral. Original: «Gothicquarter11.jpg».
+- `wm-gothicquarter12.webp` — Sesión en la escalinata de la Plaça del Rei. Original: «Gothicquarter12.jpg».
+- `wm-gothicquarter3.webp` — Retrato sentada en una escalinata de piedra del Gótico. Original: «Gothicquarter3.jpg».
+- `wm-gothicquarter4.webp` — Pareja entre arcos góticos del Barrio Gótico. Original: «Gothicquarter4.jpg».
+- `wm-gothicquarter9.webp` — Pareja en un jardín con flores del Barrio Gótico. Original: «Gothicquarter9.jpg».
+- `wm-laciudadela1.webp` — Niña en la escultura del Parc de la Ciutadella. Original: «Laciudadela1.jpg».
+- `wm-laciudadela5.webp` — Familia paseando por el Parc de la Ciutadella. Original: «Laciudadela5.jpg».
+- `wm-montjuic11.webp` — Retrato frente al Palau Nacional de Montjuïc. Original: «Montjuic11.jpg».
+- `wm-montjuic15.webp` — Pareja en una escalera de azulejos de Montjuïc. Original: «Montjuic15.jpg».
+- `wm-montjuic2.webp` — Pedida de mano con Barcelona al fondo desde Montjuïc. Original: «Montjuic2.jpg».
+- `wm-montjuic9.webp` — Vestido al viento frente al Palau Nacional. Original: «Montjuic9.jpg».
+- `wm-parcguell10.webp` — Pareja entre buganvillas en el Park Güell. Original: «Parcguell10.jpg».
+- `wm-parcguell11.webp` — Pareja bajo los pórticos de piedra del Park Güell. Original: «Parcguell11.jpg».
+- `wm-parcguell5.webp` — Pareja en el mirador del Park Güell. Original: «Parcguell5.jpg».
+- `wm-parcguell6.webp` — Retrato junto al dragón de trencadís del Park Güell. Original: «Parcguell6.jpg».
+- `wm-parcguell7.webp` — Retrato entre flores en el Park Güell. Original: «Parcguell7.jpg».
+- `wm-parcguell9.webp` — Retrato en el banco de trencadís del Park Güell. Original: «Parcguell9.jpg».
+- `wm-sagradafamilia1.webp` — Pedida de mano frente a la Sagrada Familia. Original: «Sagradafamilia1.jpg».
+- `wm-sagradafamilia10.webp` — Pareja en el parque con la Sagrada Familia al fondo. Original: «Sagradafamilia10.jpg».
+- `wm-sagradafamilia11.webp` — Retrato con la fachada de la Sagrada Familia detrás. Original: «Sagradafamilia11.jpg».
+- `wm-sagradafamilia12.webp` — Pompas de jabón en una sesión junto a la Sagrada Familia. Original: «Sagradafamilia12.jpg».
+- `wm-sagradafamilia13.webp` — Retrato de cuerpo entero ante la Sagrada Familia. Original: «Sagradafamilia13.jpg».
+- `wm-sagradafamilia15.webp` — Retrato junto al estanque frente a la Sagrada Familia. Original: «Sagradafamilia15.jpg».
+- `wm-sagradafamilia3.webp` — Pedida de mano entre árboles con la Sagrada Familia. Original: «Sagradafamilia3.jpg».
+- `wm-sagradafamilia5-2.webp` — Grupo de amigos celebrando frente a la Sagrada Familia. Original: «Sagradafamilia5 (2).jpg».
+- `wm-sagradafamilia5.webp` — Pareja con pompas de jabón y la Sagrada Familia. Original: «Sagradafamilia5.jpg».
+- `wm-sagradafamilia8.webp` — Retrato al atardecer frente a la Sagrada Familia. Original: «Sagradafamilia8.jpg».
+- `wm-sagradafamilia9.webp` — Pareja abrazada ante la Sagrada Familia. Original: «Sagradafamilia9.jpg».
+- `wm-sagradafamlia10.webp` — Familia sentada frente a la Sagrada Familia. Original: «Sagradafamlia10.jpg».
+- `wm-sagradafamlia11.webp` — Familia en el parque de la Sagrada Familia. Original: «Sagradafamlia11.jpg».
+- `wm-sagradafamlia17.webp` — Retrato con abanico ante la Sagrada Familia. Original: «Sagradafamlia17.jpg».
+- `wm-labarceloneta6.webp` — Retrato junto al Hotel W en la Barceloneta. Original: «labarceloneta6.jpg».
+- `wm-labarceloneta8.webp` — Grupo saltando en el paseo de la Barceloneta. Original: «labarceloneta8.jpg».
+- `wm-labarceloneta9.webp` — Padre lanzando a su bebé al aire en la Barceloneta. Original: «labarceloneta9.jpg».
+- `wm-montserrat11.webp` — Pareja abrazada ante la fachada de la basílica de Montserrat. Original: «Montserrat11.jpg» (1080×810, sin redimensionar; el resto de fotos de Montserrat que mandaron miden 500 px y no se usan).

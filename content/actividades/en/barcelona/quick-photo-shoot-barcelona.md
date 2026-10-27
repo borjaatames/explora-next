@@ -52,17 +52,21 @@ keywords:
 - quick photoshoot barcelona
 - 20 minute photographer barcelona
 - sagrada familia photos
-imagen: https://imgcdn.bokun.tools/5cafa33a-967f-406c-93dc-a55d6a13cb5d.jpg
-imagenAlt: Quick 20-minute photo shoot in Barcelona
+imagen: "/images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamlia11.webp"
+imagenAlt: "Family in the park by the Sagrada Familia"
 galeria:
-- src: https://imgcdn.bokun.tools/40b8a734-bfbb-4d2c-b166-9517b9c4d354.jpg
-  alt: Soap bubbles during a photo shoot at the Sagrada Familia
-- src: https://imgcdn.bokun.tools/966da696-a772-45b9-a42a-5be0a0fd4110.jpg
-  alt: Couple among soap bubbles at the Sagrada Familia
-- src: https://imgcdn.bokun.tools/9caaaec9-b600-4e58-bc9b-dece7fb5c7b1.jpg
-  alt: Group of friends under Barcelona's Arc de Triomf
-- src: https://imgcdn.bokun.tools/f49d2e55-64f9-41d2-825b-432c99c7b860.jpg
-  alt: Family posing on a tiled stairway
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia12.webp
+  alt: "Soap bubbles during a shoot by the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia15.webp
+  alt: "Portrait by the pond facing the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia8.webp
+  alt: "Sunset portrait facing the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamlia10.webp
+  alt: "Family seated in front of the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia5.webp
+  alt: "Couple with soap bubbles and the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia10.webp
+  alt: "Couple in the park with the Sagrada Familia behind"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
   alt: Arches of the Barcelona Cathedral cloister and its garden
 - src: /images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp

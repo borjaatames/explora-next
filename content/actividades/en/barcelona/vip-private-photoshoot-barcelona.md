@@ -53,17 +53,37 @@ keywords:
 - private photoshoot barcelona
 - sagrada familia photographer
 - professional photography barcelona
-imagen: https://imgcdn.bokun.tools/ed6cce43-0540-4f14-9a94-1aea776337e0.jpg
-imagenAlt: VIP private photoshoot in Barcelona by the Sagrada Familia
+imagen: "/images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia5-2.webp"
+imagenAlt: "Group of friends celebrating in front of the Sagrada Familia"
 galeria:
-- src: https://imgcdn.bokun.tools/86766be2-5ed0-486e-a5c4-39025a205491.jpg
-  alt: Friends posing with the Sagrada Familia behind
-- src: https://imgcdn.bokun.tools/8ee67383-b1c7-4b11-8e9f-b83c9894c7a0.jpg
-  alt: Portrait beside the Sagrada Familia
-- src: https://imgcdn.bokun.tools/28df9fcf-8e1e-4822-8fc8-7b8509e7dccf.jpg
-  alt: Couple at the Ciutadella Park waterfall
-- src: https://imgcdn.bokun.tools/1a8bd2cf-3c54-477e-858a-b4be659f64b4.jpg
-  alt: Portrait in front of a Gothic doorway
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamlia17.webp
+  alt: "Portrait with a fan before the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-montjuic11.webp
+  alt: "Portrait in front of the Palau Nacional on Montjuïc"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-montjuic9.webp
+  alt: "Dress blowing in the wind before the Palau Nacional"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-montjuic2.webp
+  alt: "Marriage proposal with Barcelona behind, from Montjuïc"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-laciudadela5.webp
+  alt: "Family walking in Ciutadella Park"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-laciudadela1.webp
+  alt: "Girl on a sculpture in Ciutadella Park"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-labarceloneta6.webp
+  alt: "Portrait by the W Hotel in Barceloneta"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-labarceloneta8.webp
+  alt: "Group jumping on the Barceloneta promenade"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-labarceloneta9.webp
+  alt: "Father tossing his baby in the air in Barceloneta"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia3.webp
+  alt: "Proposal among trees with the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-sagradafamilia9.webp
+  alt: "Couple embracing before the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-gothicquarter12.webp
+  alt: "Shoot on the stairway of Plaça del Rei"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-montjuic15.webp
+  alt: "Couple on a tiled stairway on Montjuïc"
+- src: /images/actividades/barcelona/proveedor-wonderful-memories/wm-gothicquarter11.webp
+  alt: "Portrait in a red dress on the Cathedral steps"
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
