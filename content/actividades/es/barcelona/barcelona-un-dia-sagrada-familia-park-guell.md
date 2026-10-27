@@ -91,14 +91,28 @@ keywords:
 - sagrada familia y park guell
 - tour guiado sagrada familia barcelona
 - que ver en barcelona en un dia
-imagen: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-imagenAlt: Fachada de la Pasión de la Sagrada Familia
+imagen: "/images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-02.webp"
+imagenAlt: "Guía explicando al grupo frente a la Sagrada Familia"
 ratingProveedor: 4.9
 numeroOpiniones: 15762
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-01.webp
+  alt: "Guía haciendo una foto al grupo en el banco de trencadís del Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/lo-mejor/ble-lo-mejor-03.webp
+  alt: "Guía con el grupo en el paseo del Arco de Triunfo"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-07.webp
+  alt: "Interior de la Sagrada Familia con la luz de las vidrieras"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-04.webp
+  alt: "Grupo con la guía junto al dragón de la escalinata del Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/lo-mejor/ble-lo-mejor-01.webp
+  alt: "Visitante fotografiando el interior de la Sagrada Familia con el móvil"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-02.webp
+  alt: "Grupo charlando en el banco del Park Güell con vistas a Barcelona"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-01.webp
+  alt: "Fachada del Nacimiento de la Sagrada Familia entre árboles"
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
@@ -121,32 +135,6 @@ galeria:
   alt: Pabellones de la entrada del Park Güell con sus tejados de cerámica
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
   alt: Nave interior de la Sagrada Familia vista hacia el altar, con sus altas columnas
-- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Luz roja y naranja de las vidrieras en el interior de la Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-landmark-monument-hero-hero.webp
-  alt: Parque Güell con terrazas y mosaicos modernistas en Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: Torres de la Sagrada Familia con esculturas y andamiaje de construccion
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
-  alt: Fachada de la Sagrada Familia en Barcelona, arquitectura gótica modernista con torres ornamentadas.
-- src: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
-  alt: Mirador del Palau Nacional en Montjuïc con vistas a Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
-  alt: Luz de las vidrieras proyectada sobre las columnas de la Sagrada Familia
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-foto-91758636-hero-hero.webp
-  alt: Callejón empedrado del Barrio Gótico de Barcelona con fachadas medievales de piedra
-- src: /images/actividades/barcelona/park-guell/unsplash-aX5NLrKgRBc-hero.webp
-  alt: Banco ondulado de trencadís del Park Güell con vistas a Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
-  alt: Vidrieras azules y verdes de la Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/wikimedia-8790292-hero.webp
-  alt: Torre y pabellón de la entrada del Park Güell
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
-  alt: Fachada de la Sagrada Familia de Barcelona con torres góticas y detalles arquitectónicos ornamentales
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-vibrant-orange-bicycle-leans-hero-hero.webp
-  alt: Bicicleta naranja apoyada en calle empedrada del Barrio Gótico de Barcelona
-- src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
-  alt: Plaça d'Espanya y las torres venecianas, con el Palau Nacional (MNAC) al fondo
 bokunProductId: 674376
 fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:

@@ -91,14 +91,28 @@ keywords:
 - sagrada familia and park guell
 - sagrada familia guided tour barcelona
 - what to see in barcelona in one day
-imagen: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-imagenAlt: The Passion façade of the Sagrada Familia
+imagen: "/images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-02.webp"
+imagenAlt: "Guide talking to the group in front of the Sagrada Familia"
 ratingProveedor: 4.9
 numeroOpiniones: 15762
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-01.webp
+  alt: "Guide taking a group photo on the mosaic bench in Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/lo-mejor/ble-lo-mejor-03.webp
+  alt: "Guide with the group on the Arc de Triomf promenade"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-07.webp
+  alt: "Inside the Sagrada Familia lit by the stained glass"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-04.webp
+  alt: "Group with the guide by the dragon on the Park Güell stairway"
+- src: /images/actividades/barcelona/proveedor-ble/lo-mejor/ble-lo-mejor-01.webp
+  alt: "Visitor photographing the Sagrada Familia interior on a phone"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-02.webp
+  alt: "Group chatting on the Park Güell bench overlooking Barcelona"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-01.webp
+  alt: "Nativity facade of the Sagrada Familia through the trees"
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
@@ -121,32 +135,6 @@ galeria:
   alt: Park Güell entrance pavilions with their ceramic roofs
 - src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
   alt: Interior nave of the Sagrada Familia looking toward the altar, with its tall columns
-- src: /images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp
-  alt: Red and orange light from the stained glass inside the Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-landmark-monument-hero-hero.webp
-  alt: Park Güell's colorful mosaic terraces and architecture designed by Gaudí in Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: Towers of the Sagrada Familia with sculptures and construction scaffolding
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
-  alt: Sagrada Familia basilica exterior with intricate Gothic architecture and towering spires in Barcelona
-- src: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
-  alt: Palau Nacional viewpoint on Montjuïc overlooking Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
-  alt: Stained-glass light cast on the columns of the Sagrada Familia
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-foto-91758636-hero-hero.webp
-  alt: Gothic Quarter Barcelona, narrow medieval streets with historic stone buildings
-- src: /images/actividades/barcelona/park-guell/unsplash-aX5NLrKgRBc-hero.webp
-  alt: Park Güell's wavy trencadís bench overlooking Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
-  alt: Blue and green stained glass in the Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/wikimedia-8790292-hero.webp
-  alt: Tower and pavilion at the Park Güell entrance
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-2008-18-hero-hero.webp
-  alt: Sagrada Familia basilica with soaring Gothic towers in Barcelona, Spain
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-vibrant-orange-bicycle-leans-hero-hero.webp
-  alt: Vibrant orange bicycle leaning against a wall in Barcelona's Gothic Quarter
-- src: /images/actividades/barcelona/montjuic/pexels-16841065-hero.webp
-  alt: Plaça d'Espanya and the Venetian towers, with the Palau Nacional (MNAC) behind
 bokunProductId: 674376
 fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:

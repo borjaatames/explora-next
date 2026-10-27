@@ -57,17 +57,29 @@ keywords:
 - barcelona tapas tour
 - evening tapas crawl
 - tapas and wine barcelona
-imagen: https://imgcdn.bokun.tools/57daa70f-1adf-46ad-bf34-fda4c2c7fd7c.jpeg
-imagenAlt: Toasting with wine in a tapas bar on the Barcelona evening tour
+imagen: "/images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-11.webp"
+imagenAlt: "Group in a traditional bodega lined with bottles"
 galeria:
-- src: https://imgcdn.bokun.tools/5c1402e6-e8df-4350-9b80-3a2426849395.jpeg
-  alt: Tour group outside a tapas bar
-- src: https://imgcdn.bokun.tools/318d9bd7-7208-4d0c-a090-144ec506c897.jpeg
-  alt: Drinking wine from a porrón in a bodega
-- src: https://imgcdn.bokun.tools/0ec26797-2071-4a52-94d9-7e4c24752979.jpeg
-  alt: Plate of freshly carved Iberian ham
-- src: https://imgcdn.bokun.tools/02d48709-4a2c-4925-8bb8-3c1d734ec81e.jpeg
-  alt: Guide holding a plate of ham in a tapas bar
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-12.webp
+  alt: "Group sharing tapas at the wine-bar table"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-02.webp
+  alt: "Overhead view of ham, cheese, cured meats and wine"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-04.webp
+  alt: "Group toasting with cava alongside the guide"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-13.webp
+  alt: "Long table of tapas and wine in the wine bar"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-09.webp
+  alt: "Toasting with red wine among shelves of bottles"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-01.webp
+  alt: "Guide pouring cava for a group at a bodega table"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-05.webp
+  alt: "Guide explaining the tapas to the group over cava"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-08.webp
+  alt: "Table set for the tasting in a wine bar"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-10.webp
+  alt: "Group toasting with red wine in the wine bar"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-03.webp
+  alt: "Toasting with cava in a wood-panelled bodega"
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
   alt: Narrow street in Barcelona's Gothic Quarter at dusk
 publicada: true

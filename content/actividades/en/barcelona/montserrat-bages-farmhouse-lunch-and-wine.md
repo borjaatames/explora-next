@@ -89,31 +89,45 @@ keywords:
 - barcelona local experiences
 - montserrat premium oenology
 - montserrat authentic winery
-imagen: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
-imagenAlt: 12th-century Catalan farmhouse with vineyards in the Bages region
+imagen: "/images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-02.webp"
+imagenAlt: "Toasting with red wine among vineyards with Montserrat behind"
 galeria:
-- src: https://imgcdn.bokun.tools/385b1052-e05a-4e23-87d0-00135808437c.jpg
-  alt: Walking through the vineyards of the Bages farmhouse
-- src: https://imgcdn.bokun.tools/00de596f-5a97-4b80-94ff-826f4a96bd6f.jpg
-  alt: Guide explaining the Montserrat peaks to the group
-- src: https://imgcdn.bokun.tools/1c423c1a-f9e5-4787-8830-aec47db4d693.jpg
-  alt: Wine tasting at the farmhouse
-- src: https://imgcdn.bokun.tools/4c7590a1-fdf7-4844-930e-970e24819bb7.jpg
-  alt: Group in front of Montserrat's rock spires and monastery
-- src: https://imgcdn.bokun.tools/6bb6934b-b75c-47f1-a04f-c0d7b5b3e3f6.jpg
-  alt: Arches with statues at Montserrat monastery
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-01.webp
+  alt: "Guide and group in the square of Montserrat monastery"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-13.webp
+  alt: "Tasting room with barrels and a laid table"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-09.webp
+  alt: "Glasses and charcuterie board set for the tasting"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-06.webp
+  alt: "Visitor before La Moreneta, the Virgin of Montserrat"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-14.webp
+  alt: "Group toast beside a barrel in the vineyard"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-04.webp
+  alt: "Guide pointing at the peaks from the monastery square"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-12.webp
+  alt: "Guide showing the vineyards from a terrace"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-15.webp
+  alt: "Visitors lighting candles along the votive candle path"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-08.webp
+  alt: "Stall of cheeses and local produce at Montserrat"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-16.webp
+  alt: "Guide with the group in front of the Montserrat basilica facade"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-07.webp
+  alt: "Group taking a photo at a Montserrat viewpoint"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-11.webp
+  alt: "Group looking at the monastery and Montserrat's rock pinnacles"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-03.webp
+  alt: "Guide talking to the group on the monastery steps"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-05.webp
+  alt: "Group selfie in Montserrat monastery square"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-10.webp
+  alt: "Guide with two travellers at a viewpoint over the valley"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-17.webp
+  alt: "Group admiring the mountains from the monastery square"
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-07.webp
   alt: Panorama of Montserrat mountain with the monastery
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-03.webp
   alt: Sculptures on the Montserrat basilica facade
-- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-01.webp
-  alt: Nave of the Montserrat basilica
-- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-07.webp
-  alt: Montserrat monastery and the rack railway bridge
-- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-02.webp
-  alt: Montserrat rock formations
-- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-08.webp
-  alt: View of Montserrat monastery and its surroundings
 ratingProveedor: 4.9
 numeroOpiniones: 1130
 publicada: true

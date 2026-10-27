@@ -86,14 +86,36 @@ keywords:
 - gaudi combo barcelona
 - sagrada familia park guell skip the line
 - gaudi guided tour barcelona
-imagen: /images/actividades/barcelona/park-guell/park-guell-view-barcelona-from-showcasing-hero.webp
-imagenAlt: Park Güell trencadís bench with the pavilion tower and views of Barcelona and the sea
+imagen: "/images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-01.webp"
+imagenAlt: "Guide taking a group photo on the mosaic bench in Park Güell"
 ratingProveedor: 4.8
 numeroOpiniones: 6776
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-02.webp
+  alt: "Guide talking to the group in front of the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-02.webp
+  alt: "Group chatting on the Park Güell bench overlooking Barcelona"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-05.webp
+  alt: "Vault and tree-like columns inside the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-04.webp
+  alt: "Group with the guide by the dragon on the Park Güell stairway"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-05.webp
+  alt: "Group with the guide beside the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-07.webp
+  alt: "Inside the Sagrada Familia lit by the stained glass"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-09.webp
+  alt: "Group in the Hypostyle Room of Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-06.webp
+  alt: "Guide with the group in the square facing the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-03.webp
+  alt: "Towers of the Sagrada Familia seen from below"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-06.webp
+  alt: "Group posing on the Park Güell bench with Barcelona behind"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-03.webp
+  alt: "Entrance pavilion of Park Güell"
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero-hero.webp
   alt: Sagrada Familia basilica facade with intricate Gothic and modernist architecture in Barcelona
 - src: /images/actividades/barcelona/park-guell/park-guell-group-people-standing-front-hero-hero.webp
@@ -108,24 +130,6 @@ galeria:
   alt: Church with brown and white architecture surrounded by trees in Park Güell, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Sagrada Familia basilica in Barcelona with stunning Gothic architecture and soaring spires
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
-  alt: Illuminated Gothic-style vault inside the Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/park-guell-green-yellow-concrete-statue-hero-hero.webp
-  alt: Colorful ceramic statue at Park Güell with green and yellow mosaic details in Barcelona
-- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-mosaic-dragon-hero-hero.webp
-  alt: Colorful mosaic dragon sculpture at Park Güell entrance in Barcelona, Spain
-- src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: The Passion façade of the Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/park-guell-stunning-cityscape-barcelona-from-hero-hero.webp
-  alt: Park Güell's trencadís bench and pavilions with Barcelona behind
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
-  alt: Stained-glass light cast on the columns of the Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp
-  alt: Park Güell entrance pavilions with Barcelona behind
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
-  alt: Blue and green stained glass in the Sagrada Familia
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: Sagrada Familia basilica in Barcelona with its iconic spires and intricate architectural details
 bokunProductId: 866939
 fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:

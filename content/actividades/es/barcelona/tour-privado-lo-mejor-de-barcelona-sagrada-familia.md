@@ -47,9 +47,23 @@ keywords:
 - tour privado barcelona dia completo
 - lo mejor de barcelona privado
 - barcelona sagrada familia privado dia completo
-imagen: /images/actividades/barcelona/sagrada-familia/wikimedia-40415313-hero.webp
-imagenAlt: Panorámica de Barcelona con la Sagrada Familia y la costa mediterránea al fondo
+imagen: "/images/actividades/barcelona/proveedor-ble/lo-mejor/ble-lo-mejor-03.webp"
+imagenAlt: "Guía con el grupo en el paseo del Arco de Triunfo"
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-06.webp
+  alt: "Guía con el grupo en los jardines junto a la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-06.webp
+  alt: "Grupo posando en el banco del Park Güell con Barcelona al fondo"
+- src: /images/actividades/barcelona/proveedor-ble/lo-mejor/ble-lo-mejor-01.webp
+  alt: "Visitante fotografiando el interior de la Sagrada Familia con el móvil"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-05.webp
+  alt: "Bóveda y columnas en forma de árbol del interior de la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-03.webp
+  alt: "Guía conversando con el grupo en la plaza del Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-04.webp
+  alt: "Guía con el grupo ante la fachada del Nacimiento"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-07.webp
+  alt: "Visitantes en la entrada del Park Güell"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero-hero.webp
   alt: Fachada gótica de la Catedral de Barcelona con torres puntiagudas y rosetón central
 - src: /images/actividades/barcelona/montjuic/pexels-6437868-hero.webp
@@ -72,8 +86,6 @@ galeria:
   alt: Plaça d'Espanya y las torres venecianas, con el Palau Nacional (MNAC) al fondo
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176367-hero.webp
   alt: Interior de una torre de la Sagrada Familia con la escalera de caracol
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-hero-hero.webp
-  alt: Catedral Gótica de Barcelona con fachada medieval de piedra y arquitectura religiosa histórica
 publicada: true
 destacada: false
 fecha: '2026-06-18'

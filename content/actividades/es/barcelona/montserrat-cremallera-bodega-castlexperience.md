@@ -93,9 +93,29 @@ keywords:
 - tour montserrat castlexperience
 - montserrat virgen negra bodega
 - excursion montserrat completa
-imagen: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
-imagenAlt: Monasterio de Montserrat entre montañas rocosas en Barcelona
+imagen: "/images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-16.webp"
+imagenAlt: "Guía con el grupo ante la fachada de la basílica de Montserrat"
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-03.webp
+  alt: "Visitante ante la imagen de la Moreneta en el camarín"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-11.webp
+  alt: "Grupo contemplando el monasterio y las agujas de Montserrat"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-06.webp
+  alt: "Visitante ante la Moreneta, la Virgen de Montserrat"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-13.webp
+  alt: "Sala de cata con barricas y mesa preparada"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-07.webp
+  alt: "Interior de la basílica de Montserrat durante una misa"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-09.webp
+  alt: "Copas y tabla de embutidos preparadas para la cata"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-15.webp
+  alt: "Visitantes encendiendo velas en el camino de los exvotos"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-08.webp
+  alt: "La Escolanía de Montserrat cantando en la basílica"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-04.webp
+  alt: "Guía señalando las montañas desde la plaza del monasterio"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-06.webp
+  alt: "Monasterio de Montserrat entre las montañas visto desde arriba"
 - src: /images/actividades/barcelona/montserrat/cremallera-estacion-monasterio.webp
   alt: Tren cremallera en la estación superior, junto al monasterio de Montserrat
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
@@ -112,12 +132,6 @@ galeria:
   alt: Castillo-bodega de Oller del Mas entre viñedos, cerca de Manresa
 - src: /images/actividades/barcelona/montserrat/montserrat-stunning-view-intricate-hero-hero.webp
   alt: Vista aérea de Montserrat con formaciones rocosas irregulares y vegetación
-- src: /images/actividades/barcelona/montserrat/cata-vino-bodega-barricas.webp
-  alt: Copas servidas para una cata de vino en una bodega con barricas
-- src: /images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero.webp
-  alt: Vista aérea de Montserrat con el teleférico
-- src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero.webp
-  alt: Picos de roca de la montaña de Montserrat
 ratingProveedor: 4.8
 numeroOpiniones: 6154
 publicada: true

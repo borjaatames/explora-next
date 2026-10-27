@@ -46,9 +46,25 @@ keywords:
 - private sagrada familia park guell tour
 - private gaudi tour barcelona
 - skip the line sagrada familia and park guell
-imagen: /images/actividades/barcelona/sagrada-familia/pexels-18602899-hero.webp
-imagenAlt: Barcelona city street with historic architecture and busy pedestrian activity
+imagen: "/images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-06.webp"
+imagenAlt: "Guide with the group in the square facing the Sagrada Familia"
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-02.webp
+  alt: "Guide with the group under the stone portico in Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-04.webp
+  alt: "Guide with the group before the Nativity facade"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-10.webp
+  alt: "Group admiring the mosaic bench in Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-05.webp
+  alt: "Vault and tree-like columns inside the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-01.webp
+  alt: "Mosaic bench and Hypostyle Room of Park Güell with visitors"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-08.webp
+  alt: "Guide taking a group photo at the Sagrada Familia entrance"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-11.webp
+  alt: "Group with the guide by the entrance pavilions of Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-01.webp
+  alt: "Nativity facade of the Sagrada Familia through the trees"
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-2-hero-hero.webp
   alt: Park Güell's distinctive mosaic terrace with colorful tilework and Barcelona cityscape view
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
@@ -69,16 +85,6 @@ galeria:
   alt: Barcelona cityscape at sunset with architectural buildings and street view
 - src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero-hero.webp
   alt: Winding tree-lined pathway at Park Güell, Barcelona with architectural terraces and vegetation
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
-  alt: Illuminated Gothic-style vault inside the Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/park-guell-skyscraper-view-daytime-hero-hero.webp
-  alt: Aerial daytime view of Park Güell's terraced structures with Barcelona city skyline in background
-- src: /images/actividades/barcelona/park-guell/unsplash-qiH16d5SRxg-hero.webp
-  alt: Barcelona cityscape with modern buildings and Mediterranean architecture
-- src: /images/actividades/barcelona/sagrada-familia/pexels-16131880-hero.webp
-  alt: Barcelona city skyline with Mediterranean architecture and urban landscape
-- src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
-  alt: Barcelona's urban skyline with Gothic architecture and Mediterranean views
 publicada: false
 reemplazadaPor: best-of-barcelona-private-tour-sagrada-familia
 destacada: false

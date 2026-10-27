@@ -57,17 +57,29 @@ keywords:
 - tour de tapas barcelona
 - ruta de tapas noche
 - tapas y vino barcelona
-imagen: https://imgcdn.bokun.tools/57daa70f-1adf-46ad-bf34-fda4c2c7fd7c.jpeg
-imagenAlt: Brindis con vino en un bar de tapas durante el tour nocturno por Barcelona
+imagen: "/images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-11.webp"
+imagenAlt: "Grupo en una bodega tradicional llena de botellas"
 galeria:
-- src: https://imgcdn.bokun.tools/5c1402e6-e8df-4350-9b80-3a2426849395.jpeg
-  alt: Grupo del tour a la puerta de un bar de tapas
-- src: https://imgcdn.bokun.tools/318d9bd7-7208-4d0c-a090-144ec506c897.jpeg
-  alt: Bebiendo vino en porrón en una bodega
-- src: https://imgcdn.bokun.tools/0ec26797-2071-4a52-94d9-7e4c24752979.jpeg
-  alt: Plato de jamón ibérico recién cortado
-- src: https://imgcdn.bokun.tools/02d48709-4a2c-4925-8bb8-3c1d734ec81e.jpeg
-  alt: Guía con un plato de jamón en un bar de tapas
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-12.webp
+  alt: "Grupo compartiendo tapas en la mesa de la vinoteca"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-02.webp
+  alt: "Mesa con jamón, quesos, embutidos y vino vista desde arriba"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-04.webp
+  alt: "Grupo brindando con cava junto a la guía"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-13.webp
+  alt: "Mesa larga de tapas y vino en la vinoteca"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-09.webp
+  alt: "Brindis con vino tinto entre estanterías de botellas"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-01.webp
+  alt: "Guía sirviendo cava a un grupo en la mesa de una bodega"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-05.webp
+  alt: "Guía explicando las tapas al grupo con copas de cava"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-08.webp
+  alt: "Mesa preparada para la cata en una vinoteca"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-10.webp
+  alt: "Grupo brindando con vino tinto en la vinoteca"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-03.webp
+  alt: "Brindis con cava en una bodega con paredes de madera"
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
   alt: Calle estrecha del Barrio Gótico de Barcelona al atardecer
 publicada: true

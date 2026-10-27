@@ -91,9 +91,33 @@ keywords:
 - montserrat acceso anticipado
 - montserrat barcelona local experiences
 - tour montserrat 4 opciones
-imagen: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
-imagenAlt: Interior del monasterio benedictino de Montserrat
+imagen: "/images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-01.webp"
+imagenAlt: "Guía con el grupo en la plaza del monasterio de Montserrat"
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-03.webp
+  alt: "Visitante ante la imagen de la Moreneta en el camarín"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-04.webp
+  alt: "Guía conversando con dos viajeros en un mirador de Montserrat"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-07.webp
+  alt: "Interior de la basílica de Montserrat durante una misa"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-02.webp
+  alt: "Guía junto al mosaico de la Virgen en el camino de las velas"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-08.webp
+  alt: "La Escolanía de Montserrat cantando en la basílica"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-06.webp
+  alt: "Monasterio de Montserrat entre las montañas visto desde arriba"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-16.webp
+  alt: "Guía con el grupo ante la fachada de la basílica de Montserrat"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-11.webp
+  alt: "Grupo contemplando el monasterio y las agujas de Montserrat"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-09.webp
+  alt: "Vistas del valle desde la montaña de Montserrat"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-15.webp
+  alt: "Visitantes encendiendo velas en el camino de los exvotos"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-17.webp
+  alt: "Grupo mirando las montañas desde la plaza del monasterio"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-05.webp
+  alt: "Escultura en un nicho de piedra en Montserrat"
 - src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp
   alt: Monasterio de Montserrat entre las montañas
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
@@ -106,14 +130,6 @@ galeria:
   alt: Pasajeros en el tren cremallera con vistas a la montaña
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
   alt: Detalle de los frescos religiosos pintados en las bovedas de Montserrat
-- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-03.webp
-  alt: Acantilados de Montserrat sobre el valle del Llobregat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Bovedas goticas y vidrieras de la basilica de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Frescos del Via Crucis en el techo de la basilica de Montserrat
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
-  alt: Frescos con motivos religiosos y cruces de hierro forjado en el interior de la basilica de Montserrat
 ratingProveedor: 4.9
 numeroOpiniones: 6372
 publicada: true

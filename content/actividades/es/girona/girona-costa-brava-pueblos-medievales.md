@@ -40,32 +40,46 @@ keywords:
   - "girona costa brava pueblos medievales"
   - "excursion empordà"
   - "tour cataluña"
-imagen: "/images/actividades/girona/costa-brava/pueblos-medievales-girona-pixabay-3847277.jpg"
-imagenAlt: "Pueblo medieval de piedra del Empordà cerca de Girona"
+imagen: "/images/actividades/girona/proveedor-ble/girona/ble-girona-01.webp"
+imagenAlt: "Grupo con el guía junto a las casas de colores del Onyar, en Girona"
 
 galeria:
-- src: https://imgcdn.bokun.tools/d1d22fb3-1f2d-4ef2-bb72-0c5c5768e128.jpeg
-  alt: Excursión a Girona, Costa Brava y pueblos medievales, foto 1 de 5
-- src: https://imgcdn.bokun.tools/9618cb80-8d90-44f8-8240-5c2b8ffffea4.jpeg
-  alt: Excursión a Girona, Costa Brava y pueblos medievales, foto 2 de 5
-- src: https://imgcdn.bokun.tools/a153cdb6-cb11-44ff-8d39-d83707406b18.jpeg
-  alt: Excursión a Girona, Costa Brava y pueblos medievales, foto 3 de 5
-- src: https://imgcdn.bokun.tools/ed68d116-31ed-44f4-b723-315f9141715c.jpeg
-  alt: Excursión a Girona, Costa Brava y pueblos medievales, foto 4 de 5
-- src: https://imgcdn.bokun.tools/7a6c1bbb-f290-46ae-97a6-adcb36273b51.jpeg
-  alt: Excursión a Girona, Costa Brava y pueblos medievales, foto 5 de 5
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-02.webp
+  alt: "Guía con el grupo en la escalinata de la catedral de Girona"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-03.webp
+  alt: "Grupo cruzando el puente de hierro rojo de Girona"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-04.webp
+  alt: "Grupo descansando en unas escaleras del barrio antiguo de Girona"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-05.webp
+  alt: "Guía con el grupo junto a barcas de pescadores en una playa de la Costa Brava"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-06.webp
+  alt: "Guía en una calle blanca con buganvillas de la Costa Brava"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-07.webp
+  alt: "Grupo en un mirador sobre el mar en la Costa Brava"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-08.webp
+  alt: "Grupo mirando el mar desde unos arcos en la Costa Brava"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-09.webp
+  alt: "Guía señalando una casa de piedra con buganvillas en un pueblo medieval"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-10.webp
+  alt: "Selfi del guía con el grupo en una calle de un pueblo medieval"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-11.webp
+  alt: "Grupo con el guía en una calle empedrada con flores"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-12.webp
+  alt: "Grupo paseando por un callejón medieval cubierto de vegetación"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-13.webp
+  alt: "Grupo caminando por una calle de piedra de un pueblo medieval del Empordà"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-14.webp
+  alt: "Grupo sentado bajo los porches blancos de un pueblo de la costa"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-15.webp
+  alt: "Guía con el grupo bajo los porches frente a la playa"
+- src: /images/actividades/girona/proveedor-ble/girona/ble-girona-16.webp
+  alt: "Grupo sentado en la escalinata de la catedral de Girona"
 - src: /images/actividades/girona/costa-brava/costa-brava-girona-pixabay-6840326.jpg
   alt: Costa Brava, Girona
 - src: /images/actividades/girona/call/call-girona-hero.webp
   alt: Call jueu (juderia) de Girona
 - src: /images/actividades/girona/casas-onar/casas-onar-girona-hero.webp
   alt: Casas de colores del rio Onar, Girona
-- src: /images/actividades/girona/muralla/muralla-girona-hero.webp
-  alt: Muralla medieval de Girona
-- src: /images/actividades/girona/call-jueu/call-jueu-01.webp
-  alt: Callejón del Call judío de Girona
-- src: /images/actividades/girona/catedral-girona/catedral-girona-hero.webp
-  alt: Catedral Girona
 ratingProveedor: 4.99
 numeroOpiniones: 228
 guiasRelacionadas:

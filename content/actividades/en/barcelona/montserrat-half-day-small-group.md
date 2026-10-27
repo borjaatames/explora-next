@@ -91,9 +91,33 @@ keywords:
 - montserrat early access
 - barcelona local experiences
 - montserrat 4 options tour
-imagen: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1959-03-hero-hero.webp
-imagenAlt: Interior of the Benedictine monastery of Montserrat
+imagen: "/images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-01.webp"
+imagenAlt: "Guide and group in the square of Montserrat monastery"
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-03.webp
+  alt: "Visitor before the image of La Moreneta in the shrine"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-04.webp
+  alt: "Guide chatting with two travellers at a Montserrat viewpoint"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-07.webp
+  alt: "Interior of Montserrat basilica during mass"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-02.webp
+  alt: "Guide by the mosaic of the Virgin on the candle path"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-08.webp
+  alt: "The Montserrat Boys' Choir singing in the basilica"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-06.webp
+  alt: "Montserrat monastery among the mountains seen from above"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-16.webp
+  alt: "Guide with the group in front of the Montserrat basilica facade"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-11.webp
+  alt: "Group looking at the monastery and Montserrat's rock pinnacles"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-09.webp
+  alt: "View of the valley from Montserrat mountain"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-15.webp
+  alt: "Visitors lighting candles along the votive candle path"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-17.webp
+  alt: "Group admiring the mountains from the monastery square"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-05.webp
+  alt: "Stone sculpture in a niche at Montserrat"
 - src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp
   alt: Montserrat monastery among the mountains
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
@@ -106,14 +130,6 @@ galeria:
   alt: Passengers on the rack railway with mountain views
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-08-hero.webp
   alt: Detail of the religious frescoes painted on the vaults of Montserrat
-- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-03.webp
-  alt: Montserrat cliffs above the Llobregat valley
-- src: /images/actividades/barcelona/montserrat/montserrat-abbey-church-interiors-stained-hero-hero.webp
-  alt: Gothic vaults and stained-glass windows of the Montserrat basilica
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
-  alt: Frescoes of the Stations of the Cross on the ceiling of the Montserrat basilica
-- src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-12-hero.webp
-  alt: Religious frescoes and wrought-iron crosses inside the Montserrat basilica
 ratingProveedor: 4.9
 numeroOpiniones: 6372
 publicada: true

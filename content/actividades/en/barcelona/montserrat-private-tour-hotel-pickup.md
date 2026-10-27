@@ -93,17 +93,29 @@ keywords:
 - in out barcelona tours private
 - private montserrat tour barcelona
 - montserrat no group
-imagen: /images/actividades/barcelona/montserrat/montserrat-breathtaking-view-mountains-unique-hero.webp
-imagenAlt: Private vehicle with guide at the Montserrat monastery complex
+imagen: "/images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-11.webp"
+imagenAlt: "Group looking at the monastery and Montserrat's rock pinnacles"
 galeria:
-- src: https://imgcdn.bokun.tools/80bfa4ed-213d-478e-94ff-0010a7d96d0a.jpg
-  alt: Montserrat monastery beneath the mountains
-- src: https://imgcdn.bokun.tools/ca02199c-32ac-4dc9-9765-34b7904a543b.jpg
-  alt: Atrium of the Montserrat basilica
-- src: https://imgcdn.bokun.tools/0fa5951b-6760-4696-a43b-359ebabc050a.jpg
-  alt: Stone arches at Montserrat monastery
-- src: https://imgcdn.bokun.tools/c9807d07-0d49-414b-af01-0096c3f2eabe.jpg
-  alt: The Black Madonna (La Moreneta) in Montserrat basilica
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-03.webp
+  alt: "Guide talking to the group on the monastery steps"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-03.webp
+  alt: "Visitor before the image of La Moreneta in the shrine"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-16.webp
+  alt: "Guide with the group in front of the Montserrat basilica facade"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-07.webp
+  alt: "Interior of Montserrat basilica during mass"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-10.webp
+  alt: "Guide with two travellers at a viewpoint over the valley"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-02.webp
+  alt: "Guide by the mosaic of the Virgin on the candle path"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-07.webp
+  alt: "Group taking a photo at a Montserrat viewpoint"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-08.webp
+  alt: "The Montserrat Boys' Choir singing in the basilica"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-17.webp
+  alt: "Group admiring the mountains from the monastery square"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-06.webp
+  alt: "Montserrat monastery among the mountains seen from above"
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-01.webp
   alt: Montserrat's rock spires
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-05.webp

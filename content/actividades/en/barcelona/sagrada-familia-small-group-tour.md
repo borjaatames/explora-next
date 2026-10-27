@@ -88,14 +88,28 @@ keywords:
 - sagrada familia accessible
 - sagrada familia wheelchair
 - sagrada familia skip the line tour
-imagen: /images/actividades/barcelona/sagrada-familia/pexels-33053352-hero.webp
-imagenAlt: Towers of the Sagrada Familia seen from below
+imagen: "/images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-02.webp"
+imagenAlt: "Guide talking to the group in front of the Sagrada Familia"
 ratingProveedor: 4.7
 numeroOpiniones: 3690
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-01.webp
+  alt: "Nativity facade of the Sagrada Familia through the trees"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-05.webp
+  alt: "Vault and tree-like columns inside the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-04.webp
+  alt: "Guide with the group before the Nativity facade"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-07.webp
+  alt: "Inside the Sagrada Familia lit by the stained glass"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-03.webp
+  alt: "Towers of the Sagrada Familia seen from below"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-06.webp
+  alt: "Guide with the group in the gardens by the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-08.webp
+  alt: "Guide taking a group photo at the Sagrada Familia entrance"
 - src: /images/actividades/barcelona/sagrada-familia/fachada-nacimiento-estanque.webp
   alt: Nativity facade of the Sagrada Familia from the pond in Plaça de Gaudí
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp
@@ -118,8 +132,6 @@ galeria:
   alt: Towers of the Sagrada Familia with a construction crane, at dusk
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
   alt: Interior rose window of the Sagrada Familia with colorful stained glass
-- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Detail of the Glory facade of the Sagrada Familia with its pyramid-shaped windows
 bokunProductId: 662268
 fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:

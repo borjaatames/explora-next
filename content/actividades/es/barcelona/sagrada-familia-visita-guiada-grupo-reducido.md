@@ -88,14 +88,28 @@ keywords:
 - sagrada familia accesible
 - sagrada familia silla de ruedas
 - tour sagrada familia sin colas
-imagen: /images/actividades/barcelona/sagrada-familia/pexels-33053352-hero.webp
-imagenAlt: Torres de la Sagrada Familia vistas desde abajo
+imagen: "/images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-02.webp"
+imagenAlt: "Guía explicando al grupo frente a la Sagrada Familia"
 ratingProveedor: 4.7
 numeroOpiniones: 3690
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-01.webp
+  alt: "Fachada del Nacimiento de la Sagrada Familia entre árboles"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-05.webp
+  alt: "Bóveda y columnas en forma de árbol del interior de la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-04.webp
+  alt: "Guía con el grupo ante la fachada del Nacimiento"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-07.webp
+  alt: "Interior de la Sagrada Familia con la luz de las vidrieras"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-03.webp
+  alt: "Torres de la Sagrada Familia vistas desde abajo"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-06.webp
+  alt: "Guía con el grupo en los jardines junto a la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-08.webp
+  alt: "Guía haciendo una foto al grupo ante la entrada de la Sagrada Familia"
 - src: /images/actividades/barcelona/sagrada-familia/fachada-nacimiento-estanque.webp
   alt: Fachada del Nacimiento de la Sagrada Familia desde el estanque de la plaza de Gaudí
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp
@@ -118,8 +132,6 @@ galeria:
   alt: Torres de la Sagrada Familia con una grua de construccion, al atardecer
 - src: /images/actividades/barcelona/sagrada-familia/pexels-4946704-hero.webp
   alt: Roseton interior de la Sagrada Familia con vidrieras de colores
-- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Detalle de la fachada de la Gloria de la Sagrada Familia con sus ventanas piramidales
 bokunProductId: 662268
 fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:

@@ -86,14 +86,36 @@ keywords:
 - combo gaudi barcelona
 - entradas sin colas sagrada familia park guell
 - visita guiada gaudi barcelona
-imagen: /images/actividades/barcelona/park-guell/park-guell-view-barcelona-from-showcasing-hero.webp
-imagenAlt: Banco de trencadís del Park Güell con la torre del pabellón y vistas a Barcelona y al mar
+imagen: "/images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-01.webp"
+imagenAlt: "Guía haciendo una foto al grupo en el banco de trencadís del Park Güell"
 ratingProveedor: 4.8
 numeroOpiniones: 6776
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-02.webp
+  alt: "Guía explicando al grupo frente a la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-02.webp
+  alt: "Grupo charlando en el banco del Park Güell con vistas a Barcelona"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-05.webp
+  alt: "Bóveda y columnas en forma de árbol del interior de la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-04.webp
+  alt: "Grupo con la guía junto al dragón de la escalinata del Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-05.webp
+  alt: "Grupo con la guía junto a la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-07.webp
+  alt: "Interior de la Sagrada Familia con la luz de las vidrieras"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-09.webp
+  alt: "Grupo en la sala hipóstila del Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-06.webp
+  alt: "Guía con el grupo en la plaza frente a la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-03.webp
+  alt: "Torres de la Sagrada Familia vistas desde abajo"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-06.webp
+  alt: "Grupo posando en el banco del Park Güell con Barcelona al fondo"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-03.webp
+  alt: "Pabellón de la entrada del Park Güell"
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-holy-family-church-barcelona-hero-hero.webp
   alt: Fachada de la Sagrada Familia de Barcelona con torres ornamentadas y detalles arquitectónicos góticos modernistas
 - src: /images/actividades/barcelona/park-guell/park-guell-group-people-standing-front-hero-hero.webp
@@ -108,24 +130,6 @@ galeria:
   alt: Iglesia marrón y blanca junto a árboles en Park Güell, Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: Basílica de la Sagrada Familia de Barcelona con sus torres góticas y fachadas decoradas
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
-  alt: Bóveda gótica iluminada en el interior de la Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/park-guell-green-yellow-concrete-statue-hero-hero.webp
-  alt: Estatua de hormigón verde y amarillo en el Parque Güell de Barcelona
-- src: /images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-mosaic-dragon-hero-hero.webp
-  alt: Dragón de mosaico multicolor del Park Güell diseñado por Gaudí en Barcelona
-- src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
-  alt: Fachada de la Pasión de la Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/park-guell-stunning-cityscape-barcelona-from-hero-hero.webp
-  alt: Banco de trencadís y pabellones del Park Güell con Barcelona al fondo
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-Of49E7Z5yaE-hero.webp
-  alt: Luz de las vidrieras proyectada sobre las columnas de la Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/park-guell-foto-9050140-hero-hero.webp
-  alt: Pabellones de la entrada del Park Güell con Barcelona al fondo
-- src: /images/actividades/barcelona/sagrada-familia/unsplash-0r6iY6A1QTE-hero.webp
-  alt: Vidrieras azules y verdes de la Sagrada Familia
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-como-visitar-hero.webp
-  alt: Fachada de la Basílica de la Sagrada Familia con torres en construcción, Barcelona
 bokunProductId: 866939
 fecha_actualizacion: '2026-10-25'
 guiasRelacionadas:

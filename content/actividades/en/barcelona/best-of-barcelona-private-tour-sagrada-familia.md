@@ -47,9 +47,23 @@ keywords:
 - best of barcelona private tour
 - barcelona full day private tour
 - barcelona sagrada familia private full day
-imagen: /images/actividades/barcelona/sagrada-familia/wikimedia-40415313-hero.webp
-imagenAlt: Barcelona cityscape with historic architecture and urban landscape
+imagen: "/images/actividades/barcelona/proveedor-ble/lo-mejor/ble-lo-mejor-03.webp"
+imagenAlt: "Guide with the group on the Arc de Triomf promenade"
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-06.webp
+  alt: "Guide with the group in the gardens by the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-06.webp
+  alt: "Group posing on the Park Güell bench with Barcelona behind"
+- src: /images/actividades/barcelona/proveedor-ble/lo-mejor/ble-lo-mejor-01.webp
+  alt: "Visitor photographing the Sagrada Familia interior on a phone"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-05.webp
+  alt: "Vault and tree-like columns inside the Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-03.webp
+  alt: "Guide chatting with the group in the Park Güell square"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-04.webp
+  alt: "Guide with the group before the Nativity facade"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-07.webp
+  alt: "Visitors at the Park Güell entrance"
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero-hero.webp
   alt: Barcelona Cathedral with Gothic architecture and twin spires against blue sky
 - src: /images/actividades/barcelona/montjuic/pexels-6437868-hero.webp
@@ -72,8 +86,6 @@ galeria:
   alt: Plaça d'Espanya and the Venetian towers, with the Palau Nacional (MNAC) behind
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176367-hero.webp
   alt: Inside a Sagrada Familia tower with the spiral staircase
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-hero-hero.webp
-  alt: Gothic Quarter Barcelona Cathedral with historic stone architecture and narrow medieval streets
 publicada: true
 destacada: false
 fecha: '2026-06-18'

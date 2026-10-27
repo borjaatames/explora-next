@@ -93,9 +93,29 @@ keywords:
 - castlexperience montserrat tour
 - montserrat black madonna winery
 - complete montserrat excursion
-imagen: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
-imagenAlt: Montserrat monastery nestled among dramatic stone mountains near Barcelona, Spain
+imagen: "/images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-16.webp"
+imagenAlt: "Guide with the group in front of the Montserrat basilica facade"
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-03.webp
+  alt: "Visitor before the image of La Moreneta in the shrine"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-11.webp
+  alt: "Group looking at the monastery and Montserrat's rock pinnacles"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-06.webp
+  alt: "Visitor before La Moreneta, the Virgin of Montserrat"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-13.webp
+  alt: "Tasting room with barrels and a laid table"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-07.webp
+  alt: "Interior of Montserrat basilica during mass"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-09.webp
+  alt: "Glasses and charcuterie board set for the tasting"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-15.webp
+  alt: "Visitors lighting candles along the votive candle path"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-08.webp
+  alt: "The Montserrat Boys' Choir singing in the basilica"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat/ble-montserrat-04.webp
+  alt: "Guide pointing at the peaks from the monastery square"
+- src: /images/actividades/barcelona/proveedor-ble/montserrat-medio-dia/ble-montserrat-medio-dia-06.webp
+  alt: "Montserrat monastery among the mountains seen from above"
 - src: /images/actividades/barcelona/montserrat/cremallera-estacion-monasterio.webp
   alt: Rack railway train at the upper station, next to Montserrat monastery
 - src: /images/actividades/barcelona/montserrat/montserrat-abbeyofourladyofmontserratjf1904-07-hero-hero.webp
@@ -112,12 +132,6 @@ galeria:
   alt: Oller del Mas castle winery among vineyards, near Manresa
 - src: /images/actividades/barcelona/montserrat/montserrat-stunning-view-intricate-hero-hero.webp
   alt: Montserrat mountain range with dramatic rocky peaks and monastery nestled among cliffs near Barcelona
-- src: /images/actividades/barcelona/montserrat/cata-vino-bodega-barricas.webp
-  alt: Glasses poured for a wine tasting in a cellar with barrels
-- src: /images/actividades/barcelona/montserrat/montserrat-scenic-aerial-view-cable-car-hero.webp
-  alt: Aerial view of Montserrat with the cable car
-- src: /images/actividades/barcelona/montserrat/montserrat-captivating-landscape-rocky-peaks-hero.webp
-  alt: Rocky peaks of Montserrat mountain
 ratingProveedor: 4.8
 numeroOpiniones: 6154
 publicada: true

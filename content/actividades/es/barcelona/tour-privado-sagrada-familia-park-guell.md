@@ -46,9 +46,25 @@ keywords:
 - tour privado sagrada familia park guell
 - gaudi tour privado barcelona
 - sagrada familia y park guell sin colas
-imagen: /images/actividades/barcelona/sagrada-familia/pexels-18602899-hero.webp
-imagenAlt: Vistas panorámicas de Barcelona con edificios modernistas y montaña al fondo
+imagen: "/images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-06.webp"
+imagenAlt: "Guía con el grupo en la plaza frente a la Sagrada Familia"
 galeria:
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-02.webp
+  alt: "Guía con el grupo bajo el pórtico de piedra del Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-04.webp
+  alt: "Guía con el grupo ante la fachada del Nacimiento"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-10.webp
+  alt: "Grupo admirando el banco de trencadís del Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-05.webp
+  alt: "Bóveda y columnas en forma de árbol del interior de la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-park-guell/ble-sagrada-park-guell-01.webp
+  alt: "Banco de trencadís y sala hipóstila del Park Güell con visitantes"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-08.webp
+  alt: "Guía haciendo una foto al grupo ante la entrada de la Sagrada Familia"
+- src: /images/actividades/barcelona/proveedor-ble/park-guell/ble-park-guell-11.webp
+  alt: "Grupo con la guía junto a la entrada y los pabellones del Park Güell"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-01.webp
+  alt: "Fachada del Nacimiento de la Sagrada Familia entre árboles"
 - src: /images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-2-hero-hero.webp
   alt: Coloridas estructuras arquitectónicas del Park Güell diseñado por Gaudí en Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
@@ -69,16 +85,6 @@ galeria:
   alt: Paisaje urbano de Barcelona con arquitectura moderna y calles transitadas
 - src: /images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero-hero.webp
   alt: Camino arbolado en el Parque Güell de Barcelona con árboles a ambos lados
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero.webp
-  alt: Bóveda gótica iluminada en el interior de la Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/park-guell-skyscraper-view-daytime-hero-hero.webp
-  alt: Vista diurna del Park Güell con edificios altos de fondo, Barcelona
-- src: /images/actividades/barcelona/park-guell/unsplash-qiH16d5SRxg-hero.webp
-  alt: Vistas panorámicas de Barcelona con la Sagrada Familia al fondo y arquitectura moderna
-- src: /images/actividades/barcelona/sagrada-familia/pexels-16131880-hero.webp
-  alt: Vistas de Barcelona con edificios modernos y arquitectura urbana
-- src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176370-hero.webp
-  alt: Vista aérea de Barcelona con edificios modernistas y la Sagrada Familia al fondo
 publicada: false
 reemplazadaPor: tour-privado-lo-mejor-de-barcelona-sagrada-familia
 destacada: false

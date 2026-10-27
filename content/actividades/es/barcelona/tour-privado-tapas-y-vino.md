@@ -53,19 +53,37 @@ keywords:
 - tour privado tapas barcelona
 - ruta privada de tapas
 - tapas y vino privado
-imagen: /images/actividades/barcelona/ramblas/las-ramblas-barcelona-pedestrians-18790890265-hero.webp
-imagenAlt: La Rambla de Barcelona con viandantes al atardecer
+imagen: "/images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-01.webp"
+imagenAlt: "Guía sirviendo cava a un grupo en la mesa de una bodega"
 galeria:
-- src: https://imgcdn.bokun.tools/785ce279-6ead-4cee-93a0-55b132644eb6.jpg
-  alt: Grupo probando tapas en un bar
-- src: https://imgcdn.bokun.tools/6f3a853e-8fc2-4db4-a75f-496b39086248.jpg
-  alt: Guía con el grupo ante la catedral de Barcelona
-- src: https://imgcdn.bokun.tools/33c0cd64-31b5-4c72-8be0-f34d1463f67a.jpg
-  alt: Vermut y tapas en la barra de un bar
-- src: https://imgcdn.bokun.tools/a7e5a89d-d9af-456d-ad62-096a6a79d215.jpg
-  alt: Grupo en una bodega llena de botellas de vino
-- src: https://imgcdn.bokun.tools/aa1d2579-c6b3-4b2f-a153-785a2df06a46.jpg
-  alt: Entrada de una bodega tradicional del Barrio Gótico
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-02.webp
+  alt: "Mesa con jamón, quesos, embutidos y vino vista desde arriba"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-09.webp
+  alt: "Brindis con vino tinto entre estanterías de botellas"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-07.webp
+  alt: "Grupo caminando por una calle del casco antiguo de Barcelona"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-13.webp
+  alt: "Mesa larga de tapas y vino en la vinoteca"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-03.webp
+  alt: "Brindis con cava en una bodega con paredes de madera"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-11.webp
+  alt: "Grupo en una bodega tradicional llena de botellas"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-14.webp
+  alt: "Guía con el grupo frente al Arco de Triunfo"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-05.webp
+  alt: "Guía explicando las tapas al grupo con copas de cava"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-10.webp
+  alt: "Grupo brindando con vino tinto en la vinoteca"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-06.webp
+  alt: "Grupo paseando con la guía junto al mercado del Born"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-12.webp
+  alt: "Grupo compartiendo tapas en la mesa de la vinoteca"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-08.webp
+  alt: "Mesa preparada para la cata en una vinoteca"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-04.webp
+  alt: "Grupo brindando con cava junto a la guía"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-15.webp
+  alt: "Guía haciendo una foto al grupo en el paseo del Arco de Triunfo"
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
   alt: Puesto de jamones y embutidos ibericos en el Mercado de la Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
@@ -74,18 +92,6 @@ galeria:
   alt: Puesto de especias, ajos y guindillas secas colgando en el Mercado de la Boqueria
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
   alt: Pescado fresco (bonito) a la venta en una pescaderia del Mercado de la Boqueria
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-st-josep-barcelona-hero.webp
-  alt: El cartel de entrada de vidrieras del Mercat de Sant Josep - La Boqueria en Barcelona
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
-  alt: Expositor de golosinas de colores en un puesto de dulces del Mercado de la Boqueria
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
-  alt: Escudo de vidriera con la corona y el nombre del Mercat de Sant Josep - la Boqueria, en la entrada
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-foto-227289-hero.webp
-  alt: Puesto de frutas y verduras con guindillas colgando en el Mercado de la Boqueria
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-sant-josep-17-hero.webp
-  alt: Puesto de marisco fresco con mariscos y bogavante en el mercado de La Boqueria
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
-  alt: Variedad de aceitunas a granel en un puesto del Mercado de la Boqueria
 publicada: true
 destacada: false
 fecha: '2026-06-18'

@@ -53,19 +53,37 @@ keywords:
 - private tapas tour barcelona
 - private tapas crawl
 - private tapas and wine
-imagen: /images/actividades/barcelona/ramblas/las-ramblas-barcelona-pedestrians-18790890265-hero.webp
-imagenAlt: Barcelona's La Rambla with pedestrians at dusk
+imagen: "/images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-01.webp"
+imagenAlt: "Guide pouring cava for a group at a bodega table"
 galeria:
-- src: https://imgcdn.bokun.tools/785ce279-6ead-4cee-93a0-55b132644eb6.jpg
-  alt: Group tasting tapas in a bar
-- src: https://imgcdn.bokun.tools/6f3a853e-8fc2-4db4-a75f-496b39086248.jpg
-  alt: Guide with the group outside Barcelona Cathedral
-- src: https://imgcdn.bokun.tools/33c0cd64-31b5-4c72-8be0-f34d1463f67a.jpg
-  alt: Vermouth and tapas at a bar counter
-- src: https://imgcdn.bokun.tools/a7e5a89d-d9af-456d-ad62-096a6a79d215.jpg
-  alt: Group in a bodega lined with wine bottles
-- src: https://imgcdn.bokun.tools/aa1d2579-c6b3-4b2f-a153-785a2df06a46.jpg
-  alt: Entrance to a traditional bodega in the Gothic Quarter
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-02.webp
+  alt: "Overhead view of ham, cheese, cured meats and wine"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-09.webp
+  alt: "Toasting with red wine among shelves of bottles"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-07.webp
+  alt: "Group walking down an old-town street in Barcelona"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-13.webp
+  alt: "Long table of tapas and wine in the wine bar"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-03.webp
+  alt: "Toasting with cava in a wood-panelled bodega"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-11.webp
+  alt: "Group in a traditional bodega lined with bottles"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-14.webp
+  alt: "Guide with the group in front of the Arc de Triomf"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-05.webp
+  alt: "Guide explaining the tapas to the group over cava"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-10.webp
+  alt: "Group toasting with red wine in the wine bar"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-06.webp
+  alt: "Group walking with the guide by the Born market"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-12.webp
+  alt: "Group sharing tapas at the wine-bar table"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-08.webp
+  alt: "Table set for the tasting in a wine bar"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-04.webp
+  alt: "Group toasting with cava alongside the guide"
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-15.webp
+  alt: "Guide taking a group photo on the Arc de Triomf promenade"
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
   alt: Iberian ham and charcuterie stall at La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-hero.webp
@@ -74,18 +92,6 @@ galeria:
   alt: Spice stall with garlic and dried chili peppers hanging at La Boqueria market
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
   alt: Fresh bonito fish for sale at a fish stall in La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-st-josep-barcelona-hero.webp
-  alt: The stained-glass entrance sign of Mercat de Sant Josep - La Boqueria in Barcelona
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
-  alt: Display of colorful candy at a sweets stall in La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
-  alt: Stained-glass crest with the crown and the name of Mercat de Sant Josep - La Boqueria, at the entrance
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-foto-227289-hero.webp
-  alt: Fruit and vegetable stall with hanging chili peppers at La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-sant-josep-17-hero.webp
-  alt: Fresh seafood stall with shellfish and lobster at La Boqueria market
-- src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
-  alt: Variety of loose olives at a stall in La Boqueria market
 publicada: true
 destacada: false
 fecha: '2026-06-18'
