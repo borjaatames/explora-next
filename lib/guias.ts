@@ -477,3 +477,25 @@ export function obtenerGuiasParaFicha(
 
   return [...explicitas, ...candidatas].slice(0, limite);
 }
+
+const RE_GUIA_AGOTADAS = /entradas-agotadas|tickets-sold-out|tickets-ausverkauft/;
+
+/**
+ * Guía de «entradas agotadas» que recomienda esta ficha (la ficha figura en
+ * su `actividades`). La ficha la enlaza arriba: quien no encuentra entrada en
+ * la web oficial suele llegar a la ficha, y la guía le explica qué le queda.
+ */
+export function obtenerGuiaAgotadaParaFicha(
+  idioma: Idioma,
+  ciudad: string,
+  slugFichaEs: string | undefined
+): GuiaListItem | null {
+  if (!slugFichaEs) return null;
+  return (
+    obtenerGuiasDeCiudad(idioma, ciudad).find(
+      (g) =>
+        RE_GUIA_AGOTADAS.test(g.slug) &&
+        (g.actividades ?? []).includes(slugFichaEs)
+    ) ?? null
+  );
+}

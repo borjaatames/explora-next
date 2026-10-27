@@ -9,7 +9,7 @@ import {
   type ActividadCompleta,
 } from "@/lib/actividades";
 import { slugParejaActividad } from "@/lib/i18n/slugs";
-import { obtenerGuiasParaFicha } from "@/lib/guias";
+import { obtenerGuiasParaFicha, obtenerGuiaAgotadaParaFicha } from "@/lib/guias";
 import { getDictionary } from "@/lib/i18n/getDictionary";
 import {
   hreflangAlternates,
@@ -44,6 +44,7 @@ import BotonVolverFicha from "@/components/ficha/BotonVolverFicha";
 import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendadasGuia";
 import { obtenerParecidasConTipo } from "@/lib/recomendaciones";
 import OtrasVersiones from "@/components/ficha/OtrasVersiones";
+import AvisoEntradasAgotadas from "@/components/ficha/AvisoEntradasAgotadas";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -109,6 +110,7 @@ export default async function ActividadPage({ params }: Props) {
   const dict = getDictionary("es");
 
   const guiasRelacionadas = obtenerGuiasParaFicha("es", params.ciudad, actividad);
+  const guiaAgotada = obtenerGuiaAgotadaParaFicha("es", params.ciudad, params.slug);
 
   const parecidas = obtenerParecidasConTipo("es", params.ciudad, actividad);
   const actividadesParecidas = parecidas.actividades;
@@ -443,6 +445,10 @@ export default async function ActividadPage({ params }: Props) {
                   ))}
                 </ul>
               </div>
+            )}
+
+            {guiaAgotada && (
+              <AvisoEntradasAgotadas url={guiaAgotada.url} idioma={"es"} />
             )}
 
             {/* 3a. Otras versiones de la misma actividad */}
