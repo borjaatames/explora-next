@@ -22,7 +22,7 @@ slugs:
   es: casa-batllo-entradas-agotadas
   en: casa-batllo-tickets-sold-out
 reservasArriba: true
-respuestaCorta: 'If your time shows as sold out on **casabatllo.es**, check the other slots that day, the **Be the First** visit at 8:30 and the **night visit** (20:30 to 21:30, until 15 November). There is a box office, but it''s **dearer than the website**, so the safest options are a **resold timed ticket** (from €29) or a tour with entry included.'
+respuestaCorta: 'If your time shows as sold out on **casabatllo.es**, check the other slots that day, the **Be the First** visit at 8:30 and the **night visit** (20:30 to 21:30, until 15 November). The box office only sells the General Visit and costs **€4–15 more than the website**, so the safest options are a **resold timed ticket** (from €29) or a tour with entry included.'
 actividades:
   - casa-batllo-entrada-con-audioguia
   - casa-batllo-visita-nocturna-copa-cava-bienvenida
@@ -30,9 +30,9 @@ actividades:
   - casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi
 faq:
 - pregunta: Can I buy Casa Batlló tickets at the box office?
-  respuesta: 'Yes, the box office is open until 21:00, but Casa Batlló itself warns that tickets cost more there because of handling fees. The night visit and the Be the First visit are sold online only, so you won''t find them at the box office.'
+  respuesta: 'Only the General Visit. According to Casa Batlló, it costs **€4 to €15 more** at the box office than online. The night visit, Be the First, Magical Nights and the other experiences are sold online only.'
 - pregunta: Can I change the date or cancel my ticket?
-  respuesta: 'To change the date or time you have to contact Casa Batlló. Free cancellation only applies to some ticket types (for Magical Nights, for example, only the Gold ticket), so check the conditions before paying.'
+  respuesta: 'Only the **Platinum** ticket lets you change the date or time, through a link in Casa Batlló''s emails. With Blue, Silver or Gold you can only be helped at the box office with proof (a medical certificate or a transport delay or cancellation). Free cancellation applies to Platinum on the General and Night visits and to Gold on Magical Nights, by emailing info@casabatllo.cat before your visit.'
 - pregunta: Do children need a ticket?
   respuesta: 'Booking online, children up to 12 go free with an adult. There are discounts for 13 to 17-year-olds, students, over-65s and people with a disability.'
 - pregunta: What can I see of Casa Batlló without a ticket?
@@ -66,7 +66,7 @@ Official sales are on `casabatllo.es`, in the online tickets section. The genera
 - **Look at the options with food:** the visit with the third floor plus breakfast or tapas (*Bon Appétit*, from €59) has its own allocation.
 - **Move your day if you can:** with dynamic pricing, the same weekday a week later may also be cheaper.
 
-Before paying, check what each ticket includes: they don't all cover the same things (rooftop, immersive rooms, augmented reality tablet), and **free cancellation only applies to some**. To change the date or time you have to contact Casa Batlló.
+Before paying, check what each ticket includes: they don't all cover the same things (rooftop, immersive rooms, augmented reality tablet), and **only Platinum lets you change the date or time and cancel for free** (Gold on Magical Nights). If your plans may change, the difference is worth paying.
 
 ## 2. The night visit
 
@@ -78,7 +78,7 @@ From March to November there are also **Magical Nights**: a visit at 20:00 and a
 
 ## 3. The box office
 
-Casa Batlló has a box office in the building, open **until 21:00**, but the official site is clear that tickets **cost more there** because of handling fees. It's useful if there's still space in a slot that day, not as a plan for a sold-out day. And remember that the night visit and Be the First aren't sold at the box office.
+Casa Batlló has a box office in the building, but it **only sells the General Visit** and, according to the official site, it costs **€4 to €15 more** than online. It's useful if there's still space in a slot that day, not as a plan for a sold-out day. The night visit, Be the First and Magical Nights are sold online only.
 
 ## 4. A resold ticket or a tour with entry included
 

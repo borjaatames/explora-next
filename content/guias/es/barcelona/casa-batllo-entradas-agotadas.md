@@ -22,7 +22,7 @@ slugs:
   es: casa-batllo-entradas-agotadas
   en: casa-batllo-tickets-sold-out
 reservasArriba: true
-respuestaCorta: 'Si tu hora sale agotada en **casabatllo.es**, mira las demás franjas del día, la visita **Be the First** de las 8:30 y la **visita nocturna** (de 20:30 a 21:30, hasta el 15 de noviembre). La taquilla existe, pero es **más cara que la web**, así que lo más seguro es una **entrada de reventa con hora** (desde 29 €) o un tour que incluya la entrada.'
+respuestaCorta: 'Si tu hora sale agotada en **casabatllo.es**, mira las demás franjas del día, la visita **Be the First** de las 8:30 y la **visita nocturna** (de 20:30 a 21:30, hasta el 15 de noviembre). La taquilla solo vende la visita general y cuesta **entre 4 y 15 € más que la web**, así que lo más seguro es una **entrada de reventa con hora** (desde 29 €) o un tour que incluya la entrada.'
 actividades:
   - casa-batllo-entrada-con-audioguia
   - casa-batllo-visita-nocturna-copa-cava-bienvenida
@@ -30,9 +30,9 @@ actividades:
   - casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi
 faq:
 - pregunta: ¿Se pueden comprar entradas de la Casa Batlló en la taquilla?
-  respuesta: 'Sí, la taquilla abre hasta las 21:00, pero la propia Casa Batlló avisa de que allí la entrada sale más cara por los gastos de gestión. La visita nocturna y la visita Be the First se venden solo online, así que en taquilla no las encontrarás.'
+  respuesta: 'Solo la visita general. Según la propia Casa Batlló, en taquilla cuesta **entre 4 y 15 € más** que online. La visita nocturna, Be the First, las Noches Mágicas y el resto de experiencias se venden solo en la web.'
 - pregunta: ¿Puedo cambiar la fecha o cancelar mi entrada?
-  respuesta: 'Para cambiar la fecha o la hora tienes que ponerte en contacto con la Casa Batlló. La cancelación gratuita solo existe en algunas modalidades de entrada (en las Noches Mágicas, por ejemplo, solo en la Gold), así que mira las condiciones antes de pagar.'
+  respuesta: 'Solo la entrada **Platinum** permite cambiar la fecha o la hora, con un enlace que llega en los correos de la Casa Batlló. Con Blue, Silver o Gold solo te atienden en taquilla si llevas un justificante (médico o de retraso o cancelación del transporte). La cancelación gratuita existe en la Platinum de la visita general y de la nocturna y en la Gold de las Noches Mágicas, pidiéndola por correo a info@casabatllo.cat antes de la visita.'
 - pregunta: ¿Pagan entrada los niños?
   respuesta: 'Comprando online, los menores de 12 años entran gratis si van con un adulto. Hay descuentos para jóvenes de 13 a 17 años, estudiantes, mayores de 65 y personas con discapacidad.'
 - pregunta: ¿Qué se puede ver de la Casa Batlló sin entrada?
@@ -66,7 +66,7 @@ La venta oficial está en `casabatllo.es`, en el apartado de entradas online. La
 - **Mira las modalidades que incluyen comida:** la visita con la tercera planta y desayuno o tapas (*Bon Appétit*, desde 59 €) tiene su propio cupo.
 - **Cambia de día si puedes:** por el precio dinámico, el mismo día de la semana siguiente puede salir más barato.
 
-Antes de pagar, revisa qué incluye cada modalidad: las entradas no cubren lo mismo (azotea, salas inmersivas, tableta de realidad aumentada) y **la cancelación gratuita solo existe en algunas**. Para cambiar fecha u hora hay que escribir a la Casa Batlló.
+Antes de pagar, revisa qué incluye cada modalidad: las entradas no cubren lo mismo (azotea, salas inmersivas, tableta de realidad aumentada) y **solo la Platinum permite cambiar fecha u hora y cancelar gratis** (en las Noches Mágicas, la Gold). Si dudas de tus planes, compensa pagar la diferencia.
 
 ## 2. La visita nocturna
 
@@ -78,7 +78,7 @@ Entre marzo y noviembre hay además **Noches Mágicas**: visita a las 20:00 y co
 
 ## 3. La taquilla
 
-La Casa Batlló tiene taquilla en el propio edificio, abierta **hasta las 21:00**, pero la web oficial lo deja claro: allí **la entrada es más cara** por los gastos de gestión. Sirve si queda aforo en alguna franja del día, no como plan para un día agotado. Y recuerda que la nocturna y Be the First no se venden en taquilla.
+La Casa Batlló tiene taquilla en el propio edificio, pero allí **solo se vende la visita general** y, según la web oficial, cuesta **entre 4 y 15 € más** que online. Sirve si queda aforo en alguna franja del día, no como plan para un día agotado. La nocturna, Be the First y las Noches Mágicas solo se venden online.
 
 ## 4. Una entrada de reventa o un tour con la entrada incluida
 

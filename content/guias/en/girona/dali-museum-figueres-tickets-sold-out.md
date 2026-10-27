@@ -71,7 +71,7 @@ The Theatre-Museum has **a ticket desk at the main entrance**, on Plaça Gala i 
 When the official site has nothing left, operators usually still have places because they book their tickets ahead. You pay more than on the official site:
 
 - **Guided tour of the Theatre-Museum with entry (from €31):** the most direct option if you're already in Girona or Figueres.
-- **Day trip from Barcelona (from €69):** Girona, Figueres and Cadaqués with transport sorted. Before paying, **check that the listing includes museum entry** and how much free time you get inside.
+- **Day trip from Barcelona (from €69):** Girona, Figueres and Cadaqués with transport sorted. Museum entry is **optional**: when booking, choose the option **with Dalí Theatre-Museum entry**; without it you just get free time in Figueres. The stop lasts an hour and a half.
 
 Be wary of Figueres walks that only pass the façade without saying so.
 

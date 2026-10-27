@@ -64,7 +64,7 @@ The Mosque-Cathedral of Córdoba sells tickets by date and time, but the monumen
 The official ticket site is `tickets.mezquita-catedraldecordoba.es`, linked from `mezquita-catedraldecordoba.es`. General admission is **€15**; reduced tickets are **€12** (over-65s, students aged 15 to 26 and European Youth Card holders) or **€8** (children aged 10 to 14 and some other cases). **Children under 10** go free. If your slot shows as sold out:
 
 - **Check every time that day.** In October 2026 it opens from **10:00 to 19:00**, and a visit takes about an hour, so a later slot rarely ruins the plan.
-- **Be careful on Sundays and religious holidays.** Opening hours change for services and it closes over midday, so there are fewer slots and they fill sooner. Check the calendar on the official site, as hours change for special celebrations.
+- **Be careful on Sundays and religious holidays.** Visiting hours are fitted around Mass, so there are usually fewer slots and they fill sooner. Check the calendar on the official site, as hours change for special celebrations.
 - **Try the box office.** It's at the **Information and Reception Centre in the Patio de San Eulogio**, on the corner of Calle Torrijos and Calle Amador de los Ríos, where you also rent audio guides. Sales and entry stop **30 minutes before closing**.
 
 ## 2. The free early-morning hour

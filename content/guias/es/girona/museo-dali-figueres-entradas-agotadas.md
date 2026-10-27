@@ -71,7 +71,7 @@ El Teatro-Museo tiene **un punto de venta en el acceso principal**, en la plaza 
 Cuando la web oficial no tiene nada, los operadores suelen tener plazas porque reservan sus entradas con antelación. Pagas más que en la web oficial:
 
 - **Visita guiada al Teatro-Museo con entrada (desde 31 €):** la opción más directa si ya estás en Girona o en Figueres.
-- **Excursión de un día desde Barcelona (desde 69 €):** Girona, Figueres y Cadaqués con el transporte resuelto. Antes de pagar, **comprueba en la ficha que la entrada al museo está incluida** y cuánto tiempo libre tienes dentro.
+- **Excursión de un día desde Barcelona (desde 69 €):** Girona, Figueres y Cadaqués con el transporte resuelto. La entrada al museo es **opcional**: al reservar, elige la opción **con entrada al Teatro-Museo Dalí**; sin ella solo tienes tiempo libre en Figueres. La parada es de hora y media.
 
 Desconfía de los paseos por Figueres que solo pasan por la fachada y no lo dicen claro.
 

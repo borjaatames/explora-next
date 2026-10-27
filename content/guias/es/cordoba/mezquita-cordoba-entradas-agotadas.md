@@ -64,7 +64,7 @@ La Mezquita-Catedral de Córdoba vende entradas con fecha y hora, pero el monume
 La web oficial de venta es `tickets.mezquita-catedraldecordoba.es`, enlazada desde `mezquita-catedraldecordoba.es`. La entrada general cuesta **15 €**; la reducida, **12 €** (mayores de 65, estudiantes de 15 a 26 años y Carné Joven) u **8 €** (niños de 10 a 14 y otros casos). Los **menores de 10 años** entran gratis. Si tu franja sale agotada:
 
 - **Mira todas las horas del día.** En octubre de 2026 abre de **10:00 a 19:00**, y la visita dura en torno a una hora: una franja más tarde no suele desmontar el plan.
-- **Cuidado con los domingos y festivos.** El horario cambia por el culto y cierra a mediodía, así que hay menos franjas y se llenan antes. Compruébalo en el calendario de la web oficial, porque en celebraciones extraordinarias el horario se modifica.
+- **Cuidado con los domingos y festivos.** El horario de visita se ajusta a las misas, así que suele haber menos franjas y se llenan antes. Compruébalo en el calendario de la web oficial, porque en celebraciones extraordinarias el horario se modifica.
 - **Prueba la taquilla.** Está en el **Centro de Información y Recepción del Patio de San Eulogio**, en la calle Torrijos esquina con Amador de los Ríos. Ahí también se alquilan las audioguías. La venta y el acceso se cortan **30 minutos antes del cierre**.
 
 ## 2. La hora gratis de primera hora
