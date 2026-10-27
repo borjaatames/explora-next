@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: teide-entradas-agotadas
   en: teide-tickets-sold-out
+  de: teide-tickets-ausverkauft
 reservasArriba: true
 respuestaCorta: 'These are two separate bookings. The **cable car** (about €42 return) is sold at `volcanoteide.com`; if it is sold out, a **tour with the cable car included** solves it from €92. The **summit permit** (€15) is booked on **Tenerife ON**, which releases places **every Monday at 7:00 for the next 56 days**. If you can''t get one, a night at the **Altavista refuge** includes summit access from 6:00 to 9:00.'
 actividades:

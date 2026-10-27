@@ -78,7 +78,6 @@ imagenAlt: Two-tone arches inside the Mosque-Cathedral of Córdoba
 ratingProveedor: 5
 numeroOpiniones: 45
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

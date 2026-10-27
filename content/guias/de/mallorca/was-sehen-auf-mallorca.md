@@ -23,6 +23,13 @@ slugs:
   de: was-sehen-auf-mallorca
 reservasArriba: true
 respuestaCorta: 'In **zwei bis drei Tagen** siehst du das Wichtigste: **Palma** mit der Kathedrale (Eintritt ab 11 €), die **Serra de Tramuntana** (Valldemossa, Sóller und die Aussichtspunkte) und die Höhlen und Buchten im Osten; eine Woche bringt den Norden dazu. **Miete ein Auto** (30–60 € pro Tag) und reise im Mai–Juni oder September–Oktober.'
+opciones:
+  - ficha: catedral-palma-mallorca-entrada
+    etiqueta: Am günstigsten
+  - ficha: mallorca-vuelta-isla-tren-soller-tranvia-barco
+    etiqueta: Insel an einem Tag
+  - ficha: cuevas-del-drach-concierto-barca-desde-palma
+    etiqueta: Drachenhöhlen
 actividades:
   - formentor-barco-alcudia-faro-playa
   - catedral-palma-mallorca-entrada

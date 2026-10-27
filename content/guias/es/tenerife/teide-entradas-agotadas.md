@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: teide-entradas-agotadas
   en: teide-tickets-sold-out
+  de: teide-tickets-ausverkauft
 reservasArriba: true
 respuestaCorta: 'Son dos reservas distintas. El **teleférico** (unos 42 € ida y vuelta) se compra en `volcanoteide.com`; si está agotado, una **excursión con el teleférico incluido** te lo resuelve desde 92 €. El **permiso para la cima** (15 €) se pide en **Tenerife ON**, que abre plazas **cada lunes a las 7:00 para los 56 días siguientes**. Si no lo consigues, una noche en el **refugio de Altavista** incluye el acceso al pico de 6:00 a 9:00.'
 actividades:

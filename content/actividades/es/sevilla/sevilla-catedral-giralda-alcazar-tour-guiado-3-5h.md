@@ -155,7 +155,6 @@ numeroOpiniones: 2085
 guiasRelacionadas:
 - alcazar-de-sevilla-como-visitar
 publicada: true
-indexar: false
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-10-25'

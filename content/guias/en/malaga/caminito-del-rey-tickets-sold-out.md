@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: caminito-del-rey-entradas-agotadas
   en: caminito-del-rey-tickets-sold-out
+  de: caminito-del-rey-tickets-ausverkauft
 reservasArriba: true
 respuestaCorta: 'If the official site is sold out, check **both ticket types** (general, €10, and the official guided visit, €18) at every time slot, and bear in mind that the **north entrance box office** sells subject to availability, with no guarantee. The safest options are a **resold ticket with a guide** (from €30) or the **tour with transport from Málaga** (from €72), which already include entry.'
 actividades:

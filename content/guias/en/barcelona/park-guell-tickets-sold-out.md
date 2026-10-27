@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: park-guell-entradas-agotadas
   en: park-guell-tickets-sold-out
+  de: park-guell-tickets-ausverkauft
 reservasArriba: true
 respuestaCorta: 'Official tickets (€18) go on sale **up to three months ahead**, and capacity is **700 people every half hour**. If they are sold out, check other slots and days on the official website, try a **resale ticket** (from €21.50) or a **tour with entry included**. Even with no ticket, **most of the park is free to enter**: you only pay for the monumental zone.'
 actividades:

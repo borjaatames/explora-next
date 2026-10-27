@@ -24,6 +24,13 @@ slugs:
   de: mallorca-mit-kindern
 reservasArriba: true
 respuestaCorta: 'Alójate en el **norte (Alcúdia)**, con playas de agua poco profunda, y no intentes ver la isla entera. Los imprescindibles: el **tren de Sóller** (medio día desde el norte, desde 56 €), las **Cuevas del Drach** con concierto en barca (54 €) y el **Palma Aquarium** para un día de nubes (30,50 €).'
+opciones:
+  - ficha: tren-soller-tranvia-medio-dia-desde-el-norte
+    etiqueta: Tren de Sóller
+  - ficha: cuevas-del-drach-desde-alcudia
+    etiqueta: Cuevas del Drach
+  - ficha: palma-aquarium-entrada
+    etiqueta: Si llueve
 actividades:
   - palma-aquarium-entrada
   - tren-soller-tranvia-medio-dia-desde-el-norte

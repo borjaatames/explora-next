@@ -103,7 +103,6 @@ numeroOpiniones: 3691
 atraccionesRelacionadas:
 - teide
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

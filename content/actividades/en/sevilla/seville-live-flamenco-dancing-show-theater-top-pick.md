@@ -111,7 +111,6 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 18292
 publicada: true
-indexar: false
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-10-25'

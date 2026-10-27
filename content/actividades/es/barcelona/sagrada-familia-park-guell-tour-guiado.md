@@ -91,7 +91,6 @@ imagenAlt: "Guía haciendo una foto al grupo en el banco de trencadís del Park 
 ratingProveedor: 4.8
 numeroOpiniones: 6776
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-05-15'
 galeria:

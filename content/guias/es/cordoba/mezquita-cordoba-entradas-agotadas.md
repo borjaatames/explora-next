@@ -21,6 +21,7 @@ keywords:
 slugs:
   es: mezquita-cordoba-entradas-agotadas
   en: cordoba-mosque-tickets-sold-out
+  de: mezquita-cordoba-tickets-ausverkauft
 reservasArriba: true
 respuestaCorta: 'La Mezquita casi nunca se agota del todo: lo que vuela es la **torre campanario** (22 personas por turno), la **visita nocturna** y algunas franjas de puente. Prueba otra hora en `tickets.mezquita-catedraldecordoba.es` (15 €), la **hora gratis de lunes a sábado de 8:30 a 9:30** o un **tour con la entrada incluida**, desde 22 €.'
 actividades:

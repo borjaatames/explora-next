@@ -21,6 +21,7 @@ keywords:
 slugs:
   es: casa-batllo-entradas-agotadas
   en: casa-batllo-tickets-sold-out
+  de: casa-batllo-tickets-ausverkauft
 reservasArriba: true
 respuestaCorta: 'If your time shows as sold out on **casabatllo.es**, check the other slots that day, the **Be the First** visit at 8:30 and the **night visit** (20:30 to 21:30, until 15 November). The box office only sells the General Visit and costs **€4–15 more than the website**, so the safest options are a **resold timed ticket** (from €29) or a tour with entry included.'
 actividades:

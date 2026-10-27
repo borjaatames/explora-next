@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: palacio-real-madrid-entradas-agotadas
   en: royal-palace-madrid-tickets-sold-out
+  de: koenigspalast-madrid-tickets-ausverkauft
 reservasArriba: true
 respuestaCorta: 'La entrada general cuesta **18 €** en `tickets.patrimonionacional.es`. Si tu franja sale agotada, prueba otra hora, la **visita guiada oficial (26 €)** o la **taquilla**, que vende hasta una hora antes del cierre. Si eres ciudadano de la UE o iberoamericano, la entrada es **gratis de lunes a jueves en las dos últimas horas**, solo en taquilla. Y un **tour con la entrada incluida** te asegura la visita desde 36 €.'
 actividades:
