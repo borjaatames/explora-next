@@ -22,6 +22,11 @@ slugs:
 fecha_actualizacion: "2026-10-23"
 reservasArriba: true
 respuestaCorta: 'Both are **one-hour shows** with a full cast. **Torres Bermejas** (from €31), by Gran Vía, is bigger and lets you add tapas or a 3-course dinner. **Las Carboneras** (from €45), in a palace basement near Plaza Mayor, is more intimate and the one marked **wheelchair accessible**. Tables go by arrival order, so **arrive 20 minutes early**.'
+opciones:
+  - ficha: flamenco-tablao-las-carboneras
+    etiqueta: Most intimate
+  - ficha: flamenco-torres-bermejas-cena
+    etiqueta: Cheaper, with dinner
 actividades:
   - flamenco-tablao-las-carboneras
   - flamenco-torres-bermejas-cena

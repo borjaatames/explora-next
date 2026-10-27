@@ -23,6 +23,13 @@ slugs:
   de: flamenco-hoehle-sacromonte-welche-waehlen
 tiempo_lectura: 4
 reservasArriba: true
+opciones:
+  - ficha: flamenco-cuevas-tarantos-sacromonte
+    etiqueta: Primera vez
+  - ficha: flamenco-cueva-faraona-sacromonte
+    etiqueta: La más íntima
+  - ficha: flamenco-cueva-amayas-sacromonte
+    etiqueta: La más tradicional
 actividades:
   - flamenco-cueva-zincale-sacromonte
   - flamenco-cueva-amayas-sacromonte

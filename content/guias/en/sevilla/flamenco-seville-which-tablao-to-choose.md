@@ -22,6 +22,13 @@ slugs:
   de: flamenco-sevilla-welches-tablao-waehlen
 respuestaCorta: 'Seville''s five bookable flamenco shows all last about an hour and cost **€24–45**. Choose **Casa de la Memoria** (€24, two rows of seats) for intimacy, **Teatro Flamenco Sevilla** (€25) for the safest pick with good sightlines, and **Tablao El Arenal** (€45) if you want **dinner with the show**. All five offer **free cancellation up to 24 hours** ahead.'
 reservasArriba: true
+opciones:
+  - ficha: casa-de-la-memoria-flamenco-show-intimo-sevilla
+    etiqueta: Most intimate
+  - ficha: teatro-flamenco-sevilla-show-mas-vendido
+    etiqueta: Safest pick
+  - ficha: tablao-flamenco-el-arenal-sevilla-50-anos
+    etiqueta: With dinner
 actividades:
   - teatro-flamenco-sevilla-show-mas-vendido
   - casa-de-la-memoria-flamenco-show-intimo-sevilla

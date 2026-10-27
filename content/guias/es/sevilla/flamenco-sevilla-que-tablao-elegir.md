@@ -23,6 +23,13 @@ slugs:
   de: flamenco-sevilla-welches-tablao-waehlen
 tiempo_lectura: 3
 reservasArriba: true
+opciones:
+  - ficha: casa-de-la-memoria-flamenco-show-intimo-sevilla
+    etiqueta: El más íntimo
+  - ficha: teatro-flamenco-sevilla-show-mas-vendido
+    etiqueta: La opción segura
+  - ficha: tablao-flamenco-el-arenal-sevilla-50-anos
+    etiqueta: Con cena
 actividades:
   - teatro-flamenco-sevilla-show-mas-vendido
   - casa-de-la-memoria-flamenco-show-intimo-sevilla

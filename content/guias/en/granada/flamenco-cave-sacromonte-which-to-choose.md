@@ -22,6 +22,13 @@ slugs:
   de: flamenco-hoehle-sacromonte-welche-waehlen
 respuestaCorta: 'All four Sacromonte caves offer about an hour of gypsy zambra for **€20–28**. Pick **Los Tarantos** (€28, since 1972, drink included) for a safe first time, **La Faraona** (€20, 25 seats) for the most intimate room, and **Los Amayas** (€25, no stage or microphones, drink included) for the most traditional format. All four have **free cancellation up to 24 hours** before.'
 reservasArriba: true
+opciones:
+  - ficha: flamenco-cuevas-tarantos-sacromonte
+    etiqueta: First time
+  - ficha: flamenco-cueva-faraona-sacromonte
+    etiqueta: Most intimate
+  - ficha: flamenco-cueva-amayas-sacromonte
+    etiqueta: Most traditional
 actividades:
   - flamenco-cueva-zincale-sacromonte
   - flamenco-cueva-amayas-sacromonte

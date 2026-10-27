@@ -156,6 +156,15 @@ export function obtenerListaGuias(idioma: Idioma): GuiaListItem[] {
         slugs: fm.slugs,
         actividades: fm.actividades || [],
         faq: fm.faq,
+        respuestaCorta:
+          typeof fm.respuestaCorta === "string" && fm.respuestaCorta.trim()
+            ? fm.respuestaCorta.trim()
+            : undefined,
+        datosComprobados:
+          typeof fm.datosComprobados === "string" &&
+          /^\d{4}-\d{2}-\d{2}$/.test(fm.datosComprobados)
+            ? fm.datosComprobados
+            : undefined,
         idioma,
         tiempoLectura: calcularTiempoLectura(content),
         url: urlGuia(idioma, categoria, slug),

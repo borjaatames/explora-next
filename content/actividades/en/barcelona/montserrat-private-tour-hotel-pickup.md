@@ -133,7 +133,6 @@ galeria:
 ratingProveedor: 5.0
 numeroOpiniones: 658
 publicada: true
-indexar: false
 destacada: true
 fecha: '2026-05-15'
 bokunProductId: 674378

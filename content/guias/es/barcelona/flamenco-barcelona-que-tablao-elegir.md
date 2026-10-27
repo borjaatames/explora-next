@@ -24,6 +24,13 @@ slugs:
 tiempo_lectura: 4
 reservasArriba: true
 respuestaCorta: 'Por precio y horarios, **Teatro City Hall** (desde 25 €, cuatro pases al día). Por escenario, **Palau Dalmases** (30 €, palacio del siglo XVII en el Born). Para cenar durante el show, **Tablao de Carmen** (88 € con cena), y para cante y guitarra sin micrófonos en La Rambla, **Tablao Cordobés** (desde 48 €).'
+opciones:
+  - ficha: flamenco-en-el-teatro-city-hall-mas-vendido
+    etiqueta: Más barato
+  - ficha: palau-dalmases-flamenco-show-palacio-siglo-xvii
+    etiqueta: El más bonito
+  - ficha: tablao-de-carmen-flamenco-cena-poble-espanyol
+    etiqueta: Con cena
 actividades:
   - flamenco-en-el-teatro-city-hall-mas-vendido
   - palau-dalmases-flamenco-show-palacio-siglo-xvii

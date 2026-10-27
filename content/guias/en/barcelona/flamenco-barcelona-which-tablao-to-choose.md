@@ -23,6 +23,13 @@ slugs:
   de: flamenco-barcelona-welches-tablao-waehlen
 reservasArriba: true
 respuestaCorta: 'For price and showtimes, **Teatro City Hall** (from €25, four shows a day). For the setting, **Palau Dalmases** (€30, a 17th-century palace in El Born). To have dinner during the show, **Tablao de Carmen** (€88 with dinner), and for unamplified singing and guitar on La Rambla, **Tablao Cordobés** (from €48).'
+opciones:
+  - ficha: flamenco-en-el-teatro-city-hall-mas-vendido
+    etiqueta: Cheapest
+  - ficha: palau-dalmases-flamenco-show-palacio-siglo-xvii
+    etiqueta: Best setting
+  - ficha: tablao-de-carmen-flamenco-cena-poble-espanyol
+    etiqueta: With dinner
 actividades:
   - flamenco-en-el-teatro-city-hall-mas-vendido
   - palau-dalmases-flamenco-show-palacio-siglo-xvii
