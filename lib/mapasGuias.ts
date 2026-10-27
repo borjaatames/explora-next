@@ -31,6 +31,9 @@ const dias = (d: Record<number, Fila[]>): DiaMapa[] =>
     paradas: filas.map(p),
   }));
 
+/** Guías de un día sin títulos «Día N»: un único mapa de la ruta (`dia: 0`). */
+const ruta = (filas: Fila[]): DiaMapa[] => [{ dia: 0, paradas: filas.map(p) }];
+
 const MAPAS: Record<string, DiaMapa[]> = {
   "madrid/madrid-en-3-dias": dias({
     1: [
@@ -157,6 +160,79 @@ const MAPAS: Record<string, DiaMapa[]> = {
       ["Mercado de Colón", "Colón Market", "Markt Colón", 39.46895, -0.36836],
     ],
   }),
+  "barcelona/barcelona-en-1-dia": ruta([
+    ["Sagrada Família", "Sagrada Família", "Sagrada Família", 41.4035, 2.17443],
+    ["Casa Batlló y Passeig de Gràcia", "Casa Batlló and Passeig de Gràcia", "Casa Batlló und Passeig de Gràcia", 41.39154, 2.1647],
+    ["Barrio Gótico (Plaça de Sant Jaume)", "Gothic Quarter (Plaça de Sant Jaume)", "Gotisches Viertel (Plaça de Sant Jaume)", 41.38245, 2.1768],
+    ["El Born", "El Born", "El Born", 41.38476, 2.18281],
+    ["Park Güell", "Park Güell", "Park Güell", 41.41423, 2.15246],
+    ["Búnkers del Carmel", "Carmel Bunkers", "Bunker del Carmel", 41.41926, 2.16154],
+  ]),
+  "bilbao/bilbao-en-un-dia": ruta([
+    ["Museo Guggenheim", "Guggenheim Museum", "Guggenheim-Museum", 43.26843, -2.93406],
+    ["Puente Zubizuri", "Zubizuri Bridge", "Zubizuri-Brücke", 43.26632, -2.9278],
+    ["Casco Viejo (Catedral de Santiago)", "Old Town (Santiago Cathedral)", "Altstadt (Kathedrale Santiago)", 43.25721, -2.9237],
+    ["Plaza Nueva", "Plaza Nueva", "Plaza Nueva", 43.25901, -2.92269],
+    ["Mercado de la Ribera", "La Ribera Market", "Markt La Ribera", 43.25555, -2.92434],
+    ["Azkuna Zentroa", "Azkuna Zentroa", "Azkuna Zentroa", 43.25969, -2.93712],
+    ["Funicular de Artxanda", "Artxanda funicular", "Standseilbahn Artxanda", 43.2728, -2.92123],
+  ]),
+  "cadiz/cadiz-en-un-dia": ruta([
+    ["Catedral y Torre del Reloj", "Cathedral and Clock Tower", "Kathedrale und Uhrturm", 36.52895, -6.29532],
+    ["Teatro Romano (El Pópulo)", "Roman Theatre (El Pópulo)", "Römisches Theater (El Pópulo)", 36.52826, -6.29367],
+    ["Torre Tavira", "Torre Tavira", "Torre Tavira", 36.53196, -6.2984],
+    ["Mercado Central", "Central Market", "Zentralmarkt", 36.53041, -6.29821],
+    ["La Caleta", "La Caleta beach", "Strand La Caleta", 36.52848, -6.3065],
+    ["Castillo de San Sebastián", "San Sebastián Castle", "Burg San Sebastián", 36.52829, -6.31561],
+  ]),
+  "cordoba/cordoba-en-un-dia": ruta([
+    ["Mezquita-Catedral", "Mosque-Cathedral", "Mezquita-Kathedrale", 37.87903, -4.77945],
+    ["Judería y Sinagoga", "Jewish Quarter and Synagogue", "Judenviertel und Synagoge", 37.87981, -4.78338],
+    ["Alcázar de los Reyes Cristianos", "Alcázar of the Christian Monarchs", "Alcázar der Christlichen Könige", 37.87523, -4.78306],
+    ["Puente Romano y Calahorra", "Roman Bridge and Calahorra", "Römische Brücke und Calahorra", 37.87563, -4.77659],
+    ["Palacio de Viana", "Viana Palace", "Palast von Viana", 37.88867, -4.77432],
+  ]),
+  "girona/que-ver-en-girona-en-un-dia": ruta([
+    ["Casas del Onyar (puente de Eiffel)", "Onyar houses (Eiffel bridge)", "Häuser am Onyar (Eiffel-Brücke)", 41.98455, 2.8239],
+    ["Catedral", "Cathedral", "Kathedrale", 41.98751, 2.82627],
+    ["El Call (barrio judío)", "El Call (Jewish quarter)", "El Call (jüdisches Viertel)", 41.98601, 2.82544],
+    ["Baños Árabes", "Arab Baths", "Arabische Bäder", 41.98806, 2.8257],
+    ["Sant Pere de Galligants", "Sant Pere de Galligants", "Sant Pere de Galligants", 41.98873, 2.82661],
+    ["Paseo de la muralla", "City walls walk", "Stadtmauer-Rundgang", 41.98662, 2.82943],
+  ]),
+  "salamanca/salamanca-en-1-dia": ruta([
+    ["Plaza Mayor", "Plaza Mayor", "Plaza Mayor", 40.96503, -5.66406],
+    ["Casa de las Conchas y Clerecía", "House of Shells and Clerecía", "Muschelhaus und Clerecía", 40.96296, -5.66565],
+    ["Universidad (Edificio Histórico)", "University (Historic Building)", "Universität (historisches Gebäude)", 40.96147, -5.66733],
+    ["Catedrales Nueva y Vieja", "New and Old Cathedrals", "Neue und Alte Kathedrale", 40.96058, -5.66598],
+    ["Casa Lis", "Casa Lis", "Casa Lis", 40.9595, -5.66686],
+    ["Convento de San Esteban", "San Esteban Convent", "Kloster San Esteban", 40.96011, -5.66259],
+    ["Puente Romano", "Roman Bridge", "Römische Brücke", 40.95769, -5.67024],
+  ]),
+  "santiago-de-compostela/santiago-en-un-dia": ruta([
+    ["Plaza del Obradoiro y Catedral", "Praza do Obradoiro and Cathedral", "Praza do Obradoiro und Kathedrale", 42.8805, -8.54576],
+    ["Plaza de la Quintana", "Praza da Quintana", "Praza da Quintana", 42.88034, -8.54379],
+    ["Rúa do Franco", "Rúa do Franco", "Rúa do Franco", 42.87816, -8.54532],
+    ["Mercado de Abastos", "Abastos Market", "Markt Abastos", 42.87998, -8.54121],
+    ["San Martiño Pinario", "San Martiño Pinario", "San Martiño Pinario", 42.88213, -8.54428],
+    ["Parque de la Alameda", "Alameda Park", "Alameda-Park", 42.87787, -8.54947],
+  ]),
+  "sevilla/sevilla-en-1-dia": ruta([
+    ["Real Alcázar", "Royal Alcázar", "Königlicher Alcázar", 37.38321, -5.99018],
+    ["Catedral y Giralda", "Cathedral and Giralda", "Kathedrale und Giralda", 37.38591, -5.99314],
+    ["Plaza de España", "Plaza de España", "Plaza de España", 37.37697, -5.98694],
+    ["Puente de Triana", "Triana Bridge", "Triana-Brücke", 37.38628, -6.00243],
+    ["Mercado de Triana", "Triana Market", "Markt von Triana", 37.38575, -6.00355],
+    ["Calle Betis", "Calle Betis", "Calle Betis", 37.3833, -5.99969],
+  ]),
+  "tarragona/tarragona-en-un-dia": ruta([
+    ["Anfiteatro Romano", "Roman Amphitheatre", "Römisches Amphitheater", 41.11444, 1.25881],
+    ["Circo y Torre del Pretori", "Circus and Praetorium Tower", "Circus und Prätoriumsturm", 41.11654, 1.25801],
+    ["Catedral y Part Alta", "Cathedral and Part Alta", "Kathedrale und Part Alta", 41.11935, 1.25807],
+    ["Passeig Arqueològic (murallas)", "Archaeological Walk (walls)", "Archäologischer Spaziergang (Mauern)", 41.12037, 1.25794],
+    ["Balcó del Mediterrani", "Balcony of the Mediterranean", "Balkon des Mittelmeers", 41.11377, 1.25652],
+    ["El Serrallo", "El Serrallo", "El Serrallo", 41.11, 1.24083],
+  ]),
 };
 
 /** Mapas de una guía, a partir de su ciudad y su slug en español. */
@@ -174,11 +250,19 @@ const RE_TITULO_DIA: Partial<Record<Idioma, RegExp>> = {
   de: /^Tag\s+(\d+)\b/i,
 };
 
+/** H2 tras el que va el mapa de la ruta en las guías de un día (`dia: 0`). */
+const RE_TITULO_RUTA: Partial<Record<Idioma, RegExp>> = {
+  es: /^(La ruta|El plan)\b/i,
+  en: /\b(route|day plan)\b|^The plan\b/i,
+  de: /(Route|Tagesroute|Tagesplan|organisiert)/i,
+};
+
 const RE_TITULO = /<h([23])\b[^>]*>([\s\S]*?)<\/h\1>/g;
 
 /**
  * Inserta un trozo `mapa` justo después de cada H2 o H3 «Día N» que tenga mapa
- * (algunas guías DE agrupan los días como H3 bajo un H2 de ruta).
+ * (algunas guías DE agrupan los días como H3 bajo un H2 de ruta). El mapa de
+ * ruta (`dia: 0`) de las guías de un día va tras el H2 «La ruta / El plan».
  * Solo toca los trozos de HTML; las tarjetas de reserva quedan donde están.
  */
 export function insertarMapasPorDia(
@@ -189,6 +273,7 @@ export function insertarMapasPorDia(
   if (mapas.length === 0) return trozos;
   const porDia = new Map(mapas.map((m) => [m.dia, m] as const));
   const re = RE_TITULO_DIA[idioma] ?? /^D[ií]a\s+(\d+)\b/i;
+  const reRuta = RE_TITULO_RUTA[idioma] ?? RE_TITULO_RUTA.es!;
   const salida: TrozoGuia[] = [];
   const usados = new Set<number>();
   for (const trozo of trozos) {
@@ -200,8 +285,13 @@ export function insertarMapasPorDia(
     for (const m of trozo.html.matchAll(RE_TITULO)) {
       const texto = m[2].replace(/<[^>]+>/g, "").trim();
       const dia = re.exec(texto);
-      if (!dia) continue;
-      const mapa = porDia.get(Number(dia[1]));
+      const numero = dia
+        ? Number(dia[1])
+        : m[1] === "2" && reRuta.test(texto)
+          ? 0
+          : null;
+      if (numero === null) continue;
+      const mapa = porDia.get(numero);
       if (!mapa || usados.has(mapa.dia)) continue;
       usados.add(mapa.dia);
       const fin = (m.index ?? 0) + m[0].length;

@@ -83,6 +83,31 @@ const TEXTOS: Record<IdiomaMapa, {
   },
 };
 
+/** `dia: 0` es el mapa único de una guía de un día: textos de «ruta». */
+const TEXTOS_RUTA: Record<IdiomaMapa, typeof TEXTOS.es> = {
+  es: {
+    ver: (_d, n) => `Ver el mapa de la ruta (${n} ${n === 1 ? "parada" : "paradas"})`,
+    ocultar: () => "Ocultar el mapa de la ruta",
+    aria: () => "Mapa de la ruta",
+    google: () => "Abrir la ruta en Google Maps",
+    error: TEXTOS.es.error,
+  },
+  en: {
+    ver: (_d, n) => `Show the route map (${n} ${n === 1 ? "stop" : "stops"})`,
+    ocultar: () => "Hide the route map",
+    aria: () => "Route map",
+    google: () => "Open the route in Google Maps",
+    error: TEXTOS.en.error,
+  },
+  de: {
+    ver: (_d, n) => `Karte der Route anzeigen (${n} ${n === 1 ? "Station" : "Stationen"})`,
+    ocultar: () => "Karte der Route ausblenden",
+    aria: () => "Karte der Route",
+    google: () => "Route in Google Maps öffnen",
+    error: TEXTOS.de.error,
+  },
+};
+
 function urlGoogleMaps(paradas: ParadaMapa[]): string {
   const punto = (p: ParadaMapa) => `${p.lat},${p.lng}`;
   if (paradas.length === 1) {
@@ -107,7 +132,7 @@ function escapar(texto: string): string {
 const MQ_ESCRITORIO = "(min-width: 1024px)";
 
 export default function MapaDiaGuia({ dia, paradas, idioma }: Props) {
-  const t = TEXTOS[idioma];
+  const t = dia === 0 ? TEXTOS_RUTA[idioma] : TEXTOS[idioma];
   const bloqueRef = useRef<HTMLDivElement>(null);
   const mapaRef = useRef<HTMLDivElement>(null);
   const [abierto, setAbierto] = useState<boolean>(false);

@@ -54,7 +54,7 @@ Granada with kids goes well or badly depending on the plan. The adult version (f
 
 > **Warning:** the Albaicín slopes and the climb to the Alhambra are hard with a stroller, and the **Nasrid Palaces don't allow strollers**. There's free storage at the entrance.
 
-## The Alhambra, adapted
+## Day 1: the Alhambra, adapted
 
 The Alhambra is dense, and it tires a child's eyes long before an adult's. Focus on what works:
 
@@ -82,7 +82,7 @@ Full details in our [how to visit the Alhambra guide](/en/guides/granada/alhambr
 
 [actividad: alhambra-entrada-general]
 
-## Science Park: give it a full day
+## Day 2: Science Park, a full day
 
 The **Parque de las Ciencias** is one of Spain's best interactive museums, the most visited museum in Andalusia, and few foreign visitors know it. It covers 70,000 m² south of the centre and everything is hands-on. Budget 4–5 hours. Best for kids: the **Explora Room** (ages 3–7), the **BioDome** with live ecosystems (all ages), Journey to the Human Body (6–14), the Tropical Butterfly House (4+), 30-minute planetarium sessions (5+) and outdoor birds-of-prey shows (4+).
 
