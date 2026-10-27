@@ -4,7 +4,8 @@ descripcion: "Die schönsten Buchten und Strände Mallorcas: Es Trenc, Cala Mond
 categoria: "mallorca"
 slug: "schoenste-buchten-mallorca"
 fecha: "2026-03-29"
-fecha_actualizacion: "2026-03-29"
+fecha_actualizacion: "2026-10-28"
+datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: false
@@ -21,6 +22,13 @@ slugs:
   es: mejores-calas-mallorca
   en: best-coves-mallorca
   de: schoenste-buchten-mallorca
+opciones:
+  - ficha: calo-des-moro-barco-esnorquel
+    etiqueta: Caló des Moro
+  - ficha: formentor-barco-alcudia-faro-playa
+    etiqueta: Formentor
+  - ficha: barco-soller-sa-calobra
+    etiqueta: Sa Calobra
 actividades:
   - formentor-barco-alcudia-faro-playa
   - barco-soller-sa-calobra
@@ -69,8 +77,8 @@ Nicht alle eignen sich für dasselbe: manche sind lang und familienfreundlich, a
 ## Was wir NICHT empfehlen
 
 1. **Mittags im Sommer zu den kleinen Buchten fahren.** Ohne Parkplatz und überfüllt.
-2. **Einrichtungen bei den unberührten Buchten erwarten.** Es Trenc oder Cala Varques haben keine Strandbar; bring Wasser und Schatten mit.
-3. **Unachtsam auf die Posidonia treten.** Die Unterwasserwiesen (Weltkulturerbe) sind es, die für das kristallklare Wasser sorgen.
+2. **Einrichtungen bei den unberührten Buchten erwarten.** Es Trenc hat nur drei Kioske und Cala Varques gar keinen; bring Wasser und Schatten mit.
+3. **Unachtsam auf die Posidonia treten.** Die Unterwasserwiesen (auf den gesamten Balearen gesetzlich geschützt) sind es, die für das kristallklare Wasser sorgen.
 4. **Mit eingeschränkter Mobilität nach Caló des Moro hinabsteigen.** Es ist ein Abstieg über Felsen und Treppen.
 
 [actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]

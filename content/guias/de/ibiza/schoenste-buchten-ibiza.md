@@ -4,7 +4,8 @@ descripcion: "Die schönsten Buchten von Ibiza: Cala Comte, Cala Salada, Cala d'
 categoria: "ibiza"
 slug: "schoenste-buchten-ibiza"
 fecha: "2026-04-14"
-fecha_actualizacion: "2026-04-14"
+fecha_actualizacion: "2026-10-28"
+datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: true
@@ -19,6 +20,13 @@ slugs:
   es: mejores-calas-ibiza
   en: best-coves-ibiza
   de: schoenste-buchten-ibiza
+opciones:
+  - ficha: ruta-calas-ibiza-todo-incluido-paddle-esnorquel
+    etiqueta: Bestbewertet
+  - ficha: crucero-es-vedra-sant-antoni
+    etiqueta: Am günstigsten
+  - ficha: kayak-cuevas-cala-codolar-esnorquel
+    etiqueta: Mit dem Kajak
 actividades:
   - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
   - crucero-calas-ibiza-paddle-surf-barra-libre

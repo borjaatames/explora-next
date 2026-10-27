@@ -4,7 +4,8 @@ descripcion: "What to see in Córdoba in one day: Mosque-Cathedral, Jewish Quart
 categoria: "cordoba"
 slug: "cordoba-in-one-day"
 fecha: "2026-03-20"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: '2026-10-28'
+datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: true
@@ -21,6 +22,13 @@ slugs:
   de: cordoba-in-einem-tag
 reservasArriba: true
 respuestaCorta: 'Yes, **Córdoba works in one day**: the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are five minutes'' walk from each other. Go into the **Mosque first thing**, before the heat and the groups (skip-the-line guided tour from €32). Best from April to June or in September and October; July and August get close to 40 °C.'
+opciones:
+  - ficha: mezquita-catedral-tour-guiado-sin-colas
+    etiqueta: Mosque with a guide
+  - ficha: mezquita-juderia-tour-a-pie
+    etiqueta: Mosque and Jewish Quarter
+  - ficha: espectaculo-flamenco-tablao-cardenal
+    etiqueta: In the evening
 actividades:
   - mezquita-catedral-tour-guiado-sin-colas
   - patios-cordobeses-tour-con-entradas
@@ -33,11 +41,11 @@ actividades:
   - alcazar-reyes-cristianos-visita-guiada
 faq:
   - pregunta: "How much time do you need to see Córdoba?"
-    respuesta: "A full day is enough: the old town is compact, and the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are all five minutes from each other. The recommended route runs from 9 AM to 6:30 PM."
+    respuesta: "A full day is enough: the old town is compact, and the Mosque-Cathedral, the Jewish Quarter, the Alcázar and the Roman Bridge are all five minutes from each other. The recommended route runs from 8:30 AM to 6:30 PM."
   - pregunta: "How do you get to Córdoba by train?"
     respuesta: "By AVE high-speed train: 1h 45min from Madrid, 45 minutes from Seville, and 1 hour from Málaga. The station is a 20-minute walk from the historic centre."
   - pregunta: "What time should you enter the Mosque-Cathedral?"
-    respuesta: "First thing, right at opening (9 AM), before the heat and the tour groups arrive. Leaving it for the afternoon means long queues and a rushed visit."
+    respuesta: "First thing, before the heat and the tour groups arrive: during the free visit, Monday to Saturday from 8:30 to 9:30 AM (individual visitors only), or with a ticket right at opening, at 10 AM. Leaving it for the afternoon means long queues and a rushed visit."
   - pregunta: "What's the best time of year to visit Córdoba?"
     respuesta: "April to June, with May as the magical month because the Cruces festival, the Patios Festival and the Feria all overlap — though the city fills up and you need to book accommodation weeks ahead. In July and August, avoid midday: temperatures regularly hit 40°C/104°F."
   - pregunta: "Is Medina Azahara worth visiting from Córdoba?"
@@ -75,24 +83,24 @@ The key to Córdoba is one thing: **step into the Mosque-Cathedral first thing i
 
 ## Getting there
 
-Córdoba sits right on the **high-speed line**, which makes it perfect for a day trip: by AVE from **Madrid in 1h 45min**, from **Seville in 45 minutes** and from **Málaga in 1 hour**. The station is a 20-minute walk from the centre (or a couple of euros by taxi or bus). By car, leave the vehicle in an edge-of-centre car park —the old town is a low-emission zone and a maze of lanes— and get around on foot: the entire historic centre is walkable.
+Córdoba sits right on the **high-speed line**, which makes it perfect for a day trip: by AVE from **Madrid in 1h 45min**, from **Seville in 45 minutes** and from **Málaga in 1 hour**. The station is a 20-minute walk from the centre (or a short taxi or bus ride). By car, leave the vehicle in an edge-of-centre car park —the old town is a low-emission zone and a maze of lanes— and get around on foot: the entire historic centre is walkable.
 
 ## The one-day route, done right
 
 | Time | Activity |
 | --- | --- |
-| 9:00 — 10:30 | Mosque-Cathedral |
-| 10:30 — 12:00 | The Jewish Quarter and the Synagogue |
+| 8:30 — 9:30 | Mosque-Cathedral |
+| 9:30 — 12:00 | The Jewish Quarter and the Synagogue |
 | 12:00 — 13:00 | Alcázar of the Christian Monarchs |
 | 13:00 — 13:30 | Roman Bridge and the Calahorra |
 | 14:00 — 16:00 | Lunch in the centre |
 | 16:30 — 18:30 | Patios (Palacio de Viana) or Medina Azahara |
 
-**9:00 — Mosque-Cathedral.** First thing, before the heat and the groups. Book your ticket or a [skip-the-line guided tour](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour): the **forest of 856 columns and red-and-white arches**, with a Renaissance cathedral raised in the centre, is one of Europe's great monumental experiences. Don't miss the **mihrab**, with its gilded Byzantine mosaics, or the **Patio de los Naranjos** (Courtyard of the Orange Trees) at the entrance. Allow 1h-1h 30min. A guide makes far more sense of the two temples in one.
+**8:30 — Mosque-Cathedral.** First thing, before the heat and the groups. Book your ticket or a [skip-the-line guided tour](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour): the **forest of 856 columns and red-and-white arches**, with a Renaissance cathedral raised in the centre, is one of Europe's great monumental experiences. Don't miss the **mihrab**, with its gilded Byzantine mosaics, or the **Patio de los Naranjos** (Courtyard of the Orange Trees) at the entrance. The free visit lasts one hour (8:30-9:30 AM, Monday to Saturday); for 1h 30min or a guided tour, go in with a ticket at 10 AM and do the Jewish Quarter first. A guide makes far more sense of the two temples in one.
 
-**10:30 — The Jewish Quarter.** Leaving the Mosque, get lost in the medieval Jewish quarter: the **Calleja de las Flores** (with the Mosque tower framed at the end, the classic photo), the 14th-century **Synagogue** —one of only three preserved in Spain— and a maze of whitewashed lanes. It's for wandering with no fixed plan; in May, many houses open their patios. A [walking tour of the Jewish Quarter and the Mosque](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) links the two in one go.
+**9:30 — The Jewish Quarter.** Leaving the Mosque, get lost in the medieval Jewish quarter: the **Calleja de las Flores** (with the Mosque tower framed at the end, the classic photo), the 14th-century **Synagogue** —one of only three preserved in Spain— and a maze of whitewashed lanes. It's for wandering with no fixed plan; in May, many houses open their patios. A [walking tour of the Jewish Quarter and the Mosque](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) links the two in one go.
 
-**12:00 — Alcázar of the Christian Monarchs.** The fortress-palace where the Catholic Monarchs lived, with its towers, baths and, above all, **terraced gardens** of pools and fountains that are among the most photographed spots in the city. 1 hour.
+**12:00 — Alcázar of the Christian Monarchs.** The fortress-palace where the Catholic Monarchs lived, with its towers, baths and, above all, **terraced gardens** of pools and fountains that are among the most photographed spots in the city. Right now only the gardens can be visited: the rest of the monument is being restored. 1 hour.
 
 **13:00 — Roman Bridge and the Calahorra.** Cross the Guadalquivir on the **Roman bridge**, with the Calahorra Tower at one end and the Mosque behind: the classic image of Córdoba, especially lovely at sunset.
 

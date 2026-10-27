@@ -101,7 +101,6 @@ numeroOpiniones: 375
 atraccionesRelacionadas:
 - vedra-atardecer
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

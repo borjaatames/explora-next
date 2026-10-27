@@ -4,7 +4,8 @@ descripcion: "Was man in Córdoba an einem Tag sieht: Mezquita-Catedral, Juderí
 categoria: "cordoba"
 slug: "cordoba-in-einem-tag"
 fecha: "2026-03-20"
-fecha_actualizacion: "2026-03-20"
+fecha_actualizacion: '2026-10-28'
+datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: true
@@ -21,6 +22,13 @@ slugs:
   de: cordoba-in-einem-tag
 reservasArriba: true
 respuestaCorta: 'Ja, **Córdoba lässt sich an einem Tag sehen**: Mezquita-Catedral, Judería, Alcázar und Römische Brücke liegen fünf Gehminuten voneinander entfernt. Geh **gleich morgens in die Mezquita**, vor der Hitze und den Gruppen (Führung ohne Anstehen ab 32 €). Am besten von April bis Juni oder im September und Oktober; im Juli und August werden es fast 40 °C.'
+opciones:
+  - ficha: mezquita-catedral-tour-guiado-sin-colas
+    etiqueta: Mezquita mit Führung
+  - ficha: mezquita-juderia-tour-a-pie
+    etiqueta: Mezquita und Judenviertel
+  - ficha: espectaculo-flamenco-tablao-cardenal
+    etiqueta: Am Abend
 actividades:
   - mezquita-catedral-tour-guiado-sin-colas
   - patios-cordobeses-tour-con-entradas
@@ -53,24 +61,24 @@ Der Schlüssel zu Córdoba ist einer: **betritt die Mezquita-Catedral so früh w
 
 ## Anreise
 
-Córdoba liegt mitten an der **Hochgeschwindigkeitsstrecke**, was die Stadt ideal für einen Tagesausflug macht: mit dem AVE ab **Madrid in 1 Std. 45 Min.**, ab **Sevilla in 45 Minuten** und ab **Málaga in 1 Stunde**. Der Bahnhof liegt 20 Gehminuten vom Zentrum entfernt (oder ein paar Euro mit Taxi/Bus). Mit dem Auto solltest du am Stadtrand parken — das Zentrum ist Umweltzone und ein Labyrinth aus Gassen — und dich zu Fuß bewegen: die gesamte Altstadt lässt sich laufend erkunden.
+Córdoba liegt mitten an der **Hochgeschwindigkeitsstrecke**, was die Stadt ideal für einen Tagesausflug macht: mit dem AVE ab **Madrid in 1 Std. 45 Min.**, ab **Sevilla in 45 Minuten** und ab **Málaga in 1 Stunde**. Der Bahnhof liegt 20 Gehminuten vom Zentrum entfernt (oder eine kurze Fahrt mit Taxi/Bus). Mit dem Auto solltest du am Stadtrand parken — das Zentrum ist Umweltzone und ein Labyrinth aus Gassen — und dich zu Fuß bewegen: die gesamte Altstadt lässt sich laufend erkunden.
 
 ## Die Route für einen Tag mit Plan
 
 | Uhrzeit | Aktivität |
 | --- | --- |
-| 9:00 — 10:30 Uhr | Mezquita-Catedral |
-| 10:30 — 12:00 Uhr | Die Judería und die Synagoge |
+| 8:30 — 9:30 Uhr | Mezquita-Catedral |
+| 9:30 — 12:00 Uhr | Die Judería und die Synagoge |
 | 12:00 — 13:00 Uhr | Alcázar de los Reyes Cristianos |
 | 13:00 — 13:30 Uhr | Römische Brücke und Torre de la Calahorra |
 | 14:00 — 16:00 Uhr | Mittagessen im Zentrum |
 | 16:30 — 18:30 Uhr | Patios (Palacio de Viana) oder Medina Azahara |
 
-**9:00 Uhr — Mezquita-Catedral.** Das Erste am Tag, vor der Hitze und den Gruppen. Buche das Ticket oder eine geführte Tour mit Prioritätseinlass: der **Wald aus 856 Säulen und rot-weißen Bögen**, mit einer Renaissance-Kathedrale, die in der Mitte errichtet wurde, ist eine der großen monumentalen Erfahrungen Europas. Verpasse nicht den **Mihrab** mit seinen goldenen byzantinischen Mosaiken, noch den **Patio de los Naranjos** am Eingang. Rechne mit 1-1,5 Stunden. Mit Führung versteht man viel besser, warum es zwei Tempel in einem sind.
+**8:30 Uhr — Mezquita-Catedral.** Das Erste am Tag, vor der Hitze und den Gruppen. Buche das Ticket oder eine geführte Tour mit Prioritätseinlass: der **Wald aus 856 Säulen und rot-weißen Bögen**, mit einer Renaissance-Kathedrale, die in der Mitte errichtet wurde, ist eine der großen monumentalen Erfahrungen Europas. Verpasse nicht den **Mihrab** mit seinen goldenen byzantinischen Mosaiken, noch den **Patio de los Naranjos** am Eingang. Der kostenlose Besuch dauert eine Stunde (Montag bis Samstag 8:30-9:30 Uhr); für 1,5 Stunden oder eine Führung gehst du mit Ticket um 10:00 Uhr hinein und besuchst vorher die Judería. Mit Führung versteht man viel besser, warum es zwei Tempel in einem sind.
 
-**10:30 Uhr — Die Judería.** Wenn du die Mezquita verlässt, verlier dich im mittelalterlichen jüdischen Viertel: die **Calleja de las Flores** (mit dem Turm der Mezquita im Hintergrund, das klassische Foto), die **Synagoge** aus dem 14. Jahrhundert — eine der drei erhaltenen in Spanien — und ein Labyrinth aus weiß getünchten Gassen. Hier schlenderst du ohne Ziel; im Mai öffnen viele Häuser ihre Patios.
+**9:30 Uhr — Die Judería.** Wenn du die Mezquita verlässt, verlier dich im mittelalterlichen jüdischen Viertel: die **Calleja de las Flores** (mit dem Turm der Mezquita im Hintergrund, das klassische Foto), die **Synagoge** aus dem 14. Jahrhundert — eine der drei erhaltenen in Spanien — und ein Labyrinth aus weiß getünchten Gassen. Hier schlenderst du ohne Ziel; im Mai öffnen viele Häuser ihre Patios.
 
-**12:00 Uhr — Alcázar de los Reyes Cristianos.** Die Festungspalastanlage, in der die Katholischen Könige residierten, mit ihren Türmen, Bädern und vor allem **terrassenförmigen Gärten** mit Becken und Springbrunnen, die zu den meistfotografierten Orten der Stadt gehören. 1 Stunde.
+**12:00 Uhr — Alcázar de los Reyes Cristianos.** Die Festungspalastanlage, in der die Katholischen Könige residierten, mit ihren Türmen, Bädern und vor allem **terrassenförmigen Gärten** mit Becken und Springbrunnen, die zu den meistfotografierten Orten der Stadt gehören. Derzeit sind nur die Gärten zugänglich: der Rest des Monuments wird restauriert. 1 Stunde.
 
 **13:00 Uhr — Römische Brücke und Torre de la Calahorra.** Überquere den Guadalquivir über die **Römische Brücke**, mit dem Torre de la Calahorra an einem Ende und der Mezquita im Hintergrund: das klassische Bild von Córdoba, besonders schön bei Sonnenuntergang.
 

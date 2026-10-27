@@ -4,7 +4,8 @@ descripcion: "The best coves in Ibiza: Cala Comte, Cala Salada, Cala d'Hort and 
 categoria: "ibiza"
 slug: "best-coves-ibiza"
 fecha: "2026-04-14"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-28"
+datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: true
@@ -21,6 +22,13 @@ slugs:
   de: schoenste-buchten-ibiza
 respuestaCorta: 'The best coves in Ibiza are **Cala Comte and Cala d''Hort** in the south-west (turquoise water and the best sunsets, the latter facing Es Vedrà), **Cala Salada and Benirràs** in the wilder north, and Ses Salines in the south. Arrive **before 9:00 or after 18:00** in summer, or see them from the sea: cove-hopping boat trips start **from €52**.'
 reservasArriba: true
+opciones:
+  - ficha: ruta-calas-ibiza-todo-incluido-paddle-esnorquel
+    etiqueta: Top rated
+  - ficha: crucero-es-vedra-sant-antoni
+    etiqueta: Cheapest
+  - ficha: kayak-cuevas-cala-codolar-esnorquel
+    etiqueta: By kayak
 actividades:
   - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
   - crucero-calas-ibiza-paddle-surf-barra-libre
@@ -70,20 +78,20 @@ A boat solves the parking problem and reaches coves you can't walk to. The islan
 
 ## Getting there: parking, buses and boats
 
-- **Cala Salada and Saladeta:** from 1 May to 15 October (2026 season), the access road is controlled **from 9:30 to 17:00 every day**. Cars are let through only while the roughly 65 spaces last; motorbikes, bikes and taxis can pass. The alternative is the Can Coix car park, with a signposted path of about 500 m, or the bus from Sant Antoni bus station. There are also boats from Sant Antoni port.
+- **Cala Salada and Saladeta:** from 1 May to 15 October (2026 season), the access road is controlled **from 9:30 to 17:00 every day**. Cars are let through only while the roughly 65 spaces last; motorbikes, bikes and taxis can pass. The alternative is to leave the car at the Can Coix park-and-ride and take bus P7 (which also starts from Sant Antoni bus station). There are also boats from Sant Antoni port. From the first car park, a signposted footpath of about 500 m leads down to the beach.
 - **Cala Comte and Cala Bassa:** some car parks are private or seasonal, so check the price on arrival. Cala Bassa's fills around 10:00–11:00 in August.
 - **Benirràs:** a small dirt car park that can fill hours before sunset, especially on Sundays.
 - **Cala d'Hort:** a narrow, winding road; roadside spaces fill by mid-afternoon with sunset crowds.
-- **Without a car:** seasonal buses run to Platges de Comte, Cala Bassa, Cala Salada, Benirràs and Ses Salines (lines such as P4, P5, P7, P6, A7 and A14 in summer 2026). Numbers and timetables change by season: check alsaibiza.es on the day. For Cala d'Hort and most of the north you need a car or a boat.
+- **Without a car:** seasonal buses run to Platges de Comte, Cala Bassa, Cala Salada, Benirràs and Ses Salines (lines such as P4, P5, P7, P6, A7 and A14 in summer 2026). Numbers and timetables change by season: check alsaibiza.es on the day. Cala d'Hort is served in summer by line A13 from Sant Josep, with only six trips a day; for most of the north you need a car or a boat.
 
 ## What it costs
 
-- **Beach clubs:** at Cala Jondal, Ses Salines and Cala Bassa, front-row sun loungers cost €40–100 with a minimum spend; second and third rows, €20–30. The public sand is free.
-- **Cove beach bars:** lunch at Cala Mastella (El Bigotes: booking only, and only bullit de peix), Cala Boix or Cala Xarraca costs €25–40; at the fashionable spots, double.
+- **Beach clubs:** at Cala Jondal, Ses Salines and Cala Bassa, front-row sun loungers are expensive and often come with a minimum spend; second and third rows cost less. The public sand is free.
+- **Cove beach bars:** lunch at Cala Mastella (El Bigotes: booking only, and famous for its bullit de peix), Cala Boix or Cala Xarraca costs much less than at the fashionable spots.
 
 ## Sea, wind and jellyfish
 
-The sea is 25–27 °C from July to September. Jellyfish come with southerly winds. With a northerly, the southern coves are flat and the northern ones choppy, and vice versa: check the wind before choosing your cove.
+The sea is 25–27 °C in July and August, and around 24 °C in September. Jellyfish come with southerly winds. With a northerly, the southern coves are flat and the northern ones choppy, and vice versa: check the wind before choosing your cove.
 
 ## Where to watch the sunset
 
@@ -106,7 +114,7 @@ The sea is 25–27 °C from July to September. Jellyfish come with southerly win
 ## Common mistakes
 
 1. **Not booking the beach clubs** at Cala Jondal or Ses Salines: high minimum spend, and walk-ins get the back rows.
-2. **Parking on bends, forest tracks or private entrances** at the small coves, whose earth car parks rarely hold 50 cars.
+2. **Parking on bends, forest tracks or private entrances** at the small coves, where car parks are small and fill early.
 
 ## In one sentence
 

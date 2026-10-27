@@ -4,7 +4,8 @@ descripcion: "Madrid with kids and teens: zoo, theme park, museums that work, ou
 categoria: "madrid"
 slug: "madrid-with-kids"
 fecha: "2026-04-27"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-28"
+datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: true
@@ -22,6 +23,13 @@ slugs:
   de: madrid-mit-kindern
 reservasArriba: true
 respuestaCorta: 'The most reliable family day in Madrid is the **Zoo Aquarium** in Casa de Campo (from €20 online); with kids over 8, the **Parque de Atracciones** next door (from €24) is usually the highlight. Add the dinosaurs at the **Natural Sciences Museum** (€7) and boats in **Retiro**, and plan one big activity a day.'
+opciones:
+  - ficha: zoo-aquarium-madrid-entrada
+    etiqueta: Zoo Aquarium
+  - ficha: parque-atracciones-madrid-entrada
+    etiqueta: Ages 8 and up
+  - ficha: parque-warner-madrid-entrada
+    etiqueta: Parque Warner
 actividades:
   - zoo-aquarium-madrid-entrada
   - parque-warner-madrid-entrada
@@ -42,36 +50,36 @@ For parents of kids aged **4 to 16**: each plan with the age it works for, the p
 | Plan | Best age | Online price | Time | Getting there |
 | --- | --- | --- | --- | --- |
 | Zoo Aquarium (Casa de Campo) | 4–16 | from €20, under 3 free | Full day (5–7 h) | Metro L10 Casa de Campo + 15 min walk, or bus 33; free parking |
-| Parque de Atracciones (Casa de Campo) | 8–16 (kids' zone 4–7) | from €24; €5–10 more at the gate | Full day (6–8 h) | Same as the zoo |
-| Faunia (Vicálvaro) | 4–12 | from €17 | 4–5 h | Metro L9 Valdebernardo + 15 min walk; free parking |
-| Parque Warner (San Martín de la Vega) | 8–16 | from €33 | Full day, 45 min each way | Car or bus from Atocha |
-| Aquópolis Villanueva (summer) | 4–16 | from €20 | Morning, then a quiet afternoon | Car (45 min) or weekend bus from Moncloa |
+| Parque de Atracciones (Casa de Campo) | 8–16 (kids' zone 4–7) | from €24; much dearer at the gate | Full day (6–8 h) | Same as the zoo |
+| Faunia (Vicálvaro) | 4–12 | from €17 | 4–5 h | Metro L9 Valdebernardo + 15 min walk, or bus 71; paid parking |
+| Parque Warner (San Martín de la Vega) | 8–16 | from €33 | Full day, 45 min each way | Car, bus from Estación Sur (Méndez Álvaro), or C-3 train to Pinto + bus 413 |
+| Aquópolis Villanueva (summer) | 4–16 | from €20 | Morning, then a quiet afternoon | Car (45 min) or bus 627 from Moncloa |
 
-**Zoo Aquarium.** The most reliable plan at any age: dolphins, birds of prey, sea lions, pandas and an aquarium. Arrive at 11 AM opening; after 1 PM the animals hide from the heat. Shows run at fixed times, so plan around the schedule. Kids' menus cost €12–15, but you can bring food; there are picnic areas by the dolphinarium.
+**Zoo Aquarium.** The most reliable plan at any age: dolphins, birds of prey, sea lions, pandas and an aquarium. Arrive at 11 AM opening; after 1 PM the animals hide from the heat. Shows run at fixed times, so plan around the schedule. Restaurants are pricey, but you can bring food; there are picnic areas by the dolphinarium.
 
 [actividad: zoo-aquarium-madrid-ticket]
 
 **Parque de Atracciones.** From age 8, often the best memory of the trip. Under-8s have Nickelodeon Land (half a day). Buy online a few days ahead and avoid spring Saturdays (45-minute queues); in low season it doesn't open every day. **Don't combine it with the zoo on the same day**: they're side by side, but the exhaustion ruins both.
 
-**Faunia.** Recreated ecosystems: the night jungle (sloths, bats) and the penguins win over small children. A combined Zoo + Faunia ticket covers separate days. Best in spring and autumn.
+**Faunia.** Recreated ecosystems: the nocturnal forest and the penguins win over small children. A combined Zoo + Faunia ticket covers separate days. Best in spring and autumn.
 
 **Parque Warner.** Serious coasters (Superman, Stunt Fall; ride Superman first at opening) and a Looney Tunes area for little ones. Closed much of the winter. Worth it on a 4–5 day trip; with 2–3 days, the Parque de Atracciones gives the same thrill without the travel.
 
-**Aquópolis.** Mid-June to mid-September only (confirm dates): slides for every age, a wave pool and a lazy river.
+**Aquópolis.** June to early September only (the 2026 season closed on 6 September): slides for every age, a wave pool and a lazy river.
 
 ## Museums that work with kids
 
-- **Natural Sciences Museum** (Museo Nacional de Ciencias Naturales, Chamberí): the best in Madrid for children, with full Triceratops and Diplodocus skeletons and interactive rooms. Ages 4–12 (teens enjoy it too). €7 adults, €3.50 ages 4–14; 2–3 hours; closed Mondays.
+- **Natural Sciences Museum** (Museo Nacional de Ciencias Naturales, Chamberí): the best in Madrid for children, with full Triceratops and Diplodocus skeletons and interactive rooms. Ages 4–12 (teens enjoy it too). €7 adults, €3.50 ages 4–18, free under 4 and on Tuesdays 3–5 PM and Sundays 6:30–8 PM (except 1 July–14 September); 2–3 hours; closed Mondays unless a public holiday.
 - **Anthropology Museum** (Atocha): mummies and dioramas of world cultures; 1.5 hours. Ages 6–14. €3, free Saturdays from 2 PM and Sunday mornings.
 - **CaixaForum** (Paseo del Prado): free or cheap temporary shows (video games, science, photography). Ages 8–16; check what's on.
-- **Railway Museum** (Museo del Ferrocarril, Delicias): locomotives and carriages you can climb into. Ages 4–12. €6 adults, €3 children, free on Saturdays; the Mercado de Motores market runs the second weekend of each month.
+- **Railway Museum** (Museo del Ferrocarril, Delicias): locomotives and carriages you can climb into. Ages 4–12. €7 adults, €4 ages 4–12, free under 4; the Mercado de Motores market runs the second weekend of each month (except July and August), when regular visits are suspended.
 
 **The ones that don't:** the Prado, Reina Sofía and Thyssen don't work with under-10s (more in our [museum comparison](/en/guides/madrid/prado-vs-reina-sofia-vs-thyssen)). The exception is teenagers with an interest: 1.5 hours at the Prado for *Las Meninas*, the Black Paintings and Velázquez, then leave. The **Royal Palace** works from about age 10.
 
 ## Outdoors, free or nearly
 
-- **Retiro:** rowing boats on the lake (€4–6 per half hour, from age 4), the free Crystal Palace, free puppet shows by the lake at weekends and on holidays, bike and scooter hire, and a carousel.
-- **Madrid Río:** 30 km of bike paths along the Manzanares (BiciMAD has children's bikes from age 7), slides, a skate park and, in summer, a river beach with water games. Free.
+- **Retiro:** rowing boats on the lake (€6 on weekdays, €8 at weekends and on holidays, per boat for 45 minutes; under-14s with an adult), the Crystal Palace (closed for restoration in 2026, but visible from outside), free puppet shows near the Puerta de Alcalá at weekends, bike and scooter hire, and a carousel.
+- **Madrid Río:** 30 km of bike paths along the Manzanares (BiciMAD is for users aged 14 and over only), slides, a skate park and, in summer, a river beach with water games. Free.
 - **Casa de Campo:** woodland, a lake with boats, easy trails and picnic spots.
 - **El Capricho:** an 18th-century garden with a pond, a small temple and a Civil War bunker. Weekends and holidays only, free. Good for explorers aged 6–14.
 

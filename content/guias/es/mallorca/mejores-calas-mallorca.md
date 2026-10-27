@@ -5,7 +5,8 @@ respuestaCorta: 'Las mejores calas de Mallorca son **Es Trenc** (salvaje y de ag
 categoria: "mallorca"
 slug: "mejores-calas-mallorca"
 fecha: "2026-03-29"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-28"
+datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: false
@@ -23,6 +24,13 @@ slugs:
   en: best-coves-mallorca
   de: schoenste-buchten-mallorca
 reservasArriba: true
+opciones:
+  - ficha: calo-des-moro-barco-esnorquel
+    etiqueta: Caló des Moro
+  - ficha: formentor-barco-alcudia-faro-playa
+    etiqueta: Formentor
+  - ficha: barco-soller-sa-calobra
+    etiqueta: Sa Calobra
 actividades:
   - formentor-barco-alcudia-faro-playa
   - barco-soller-sa-calobra
@@ -64,13 +72,13 @@ No todas valen para lo mismo: unas son largas y familiares, otras pequeñas y fo
 
 ## Lo práctico: aparcar, llegar y qué llevar
 
-- **Aparcamientos:** en Es Trenc (Ses Covetes y Sa Ràpita), Cala Mondragó y Sa Calobra hay aparcamientos de pago que en julio y agosto se llenan a media mañana. Aparcar en el arcén o en caminos privados se multa.
+- **Aparcamientos:** en Es Trenc (Ses Covetes y junto a las salinas, en la carretera de la Colònia de Sant Jordi), Cala Mondragó y Sa Calobra hay aparcamientos de pago que en julio y agosto se llenan a media mañana. Aparcar en el arcén o en caminos privados se multa.
 - **Formentor (normas 2026):** del 15 de mayo al 18 de octubre, de 10:00 a 22:00, los coches particulares solo pueden llegar al aparcamiento de la playa de Formentor mientras haya plazas; cuando se llena, una barrera corta la carretera. El tramo hasta el faro queda reservado a vehículos autorizados, con multa para el resto. La alternativa es la línea 334 del TIB desde Alcúdia y Port de Pollença, o el barco desde Port de Pollença. Otra opción es la [excursión en lancha desde Alcúdia](/ciudades/mallorca/actividades/formentor-barco-alcudia-faro-playa), que llega a la playa y pasa bajo el faro.
-- **Sa Calobra sin curvas:** el barco desde Port de Sóller (desde 35 € ida y vuelta, 1 hora de travesía bajo los acantilados) evita los 12 km de la carretera más retorcida de la isla.
-- **Caló des Moro y Cala Varques:** las calles que llevan a Caló des Moro están reservadas a vehículos de residentes; se aparca a la entrada de Cala Llombards y se camina 1,5 km (20-25 minutos). A Cala Varques se llega por un camino de tierra de 15-20 minutos. En Caló des Moro la bajada final es por rocas. No son calas para carritos ni para movilidad reducida.
-- **Servicios y precios:** en las playas con servicios, dos hamacas y sombrilla cuestan 18-25 € al día; en las vírgenes no hay ni agua: lleva 2 litros por persona y una sombrilla.
+- **Sa Calobra sin curvas:** el barco desde Port de Sóller (desde 35 € ida y vuelta, unos 45-60 minutos de travesía bajo los acantilados) evita los 12 km de la carretera más retorcida de la isla.
+- **Caló des Moro y Cala Varques:** las calles que llevan a Caló des Moro están reservadas a vehículos de residentes; se aparca a la entrada de Cala Llombards y se camina 1,5 km (20-25 minutos). A Cala Varques se llega por un camino de tierra de unos 40 minutos; el atajo por fincas privadas desde la Ma-4014 ya no está permitido. En Caló des Moro la bajada final es por rocas. No son calas para carritos ni para movilidad reducida.
+- **Servicios y precios:** en las playas con servicios, dos hamacas y sombrilla cuestan 18-30 € al día; en las vírgenes no hay ni agua: lleva 2 litros por persona y una sombrilla.
 - **Agua y medusas:** el mar está a 24-27 °C de julio a septiembre y por debajo de 20 °C antes de junio. Las medusas llegan con el viento de levante; mira las banderas del socorrista y las apps de avisos antes de salir.
-- **Nudismo:** aceptado en Es Trenc (zona norte), Cala Varques y parte de Cala Mesquida.
+- **Nudismo:** aceptado en los tramos más apartados de Es Trenc, Cala Varques y parte de Cala Mesquida.
 
 ## Con o sin servicios
 
@@ -81,8 +89,8 @@ No todas valen para lo mismo: unas son largas y familiares, otras pequeñas y fo
 ## Lo que NO recomendamos
 
 1. **Ir a las calas pequeñas a mediodía en verano.** Sin aparcamiento y a rebosar.
-2. **Esperar servicios en las vírgenes.** Es Trenc o Cala Varques no tienen chiringuito; lleva agua y sombra.
-3. **Pisar la posidonia sin cuidado.** Las praderas submarinas (Patrimonio de la Humanidad) son las que dan el agua cristalina.
+2. **Esperar servicios en las vírgenes.** Es Trenc solo tiene tres quioscos y Cala Varques ninguno; lleva agua y sombra.
+3. **Pisar la posidonia sin cuidado.** Las praderas submarinas (protegidas por ley en toda Baleares) son las que dan el agua cristalina.
 4. **Bajar a Caló des Moro con movilidad reducida.** Es una bajada por rocas y escaleras.
 
 [actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]

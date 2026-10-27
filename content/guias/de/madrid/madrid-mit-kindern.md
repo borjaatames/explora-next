@@ -4,7 +4,8 @@ descripcion: "Madrid mit Kindern und Teenagern: Zoo, Freizeitpark, Museen, die b
 categoria: "madrid"
 slug: "madrid-mit-kindern"
 fecha: "2026-04-27"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-28"
+datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: true
@@ -22,6 +23,13 @@ slugs:
   en: madrid-with-kids
   de: madrid-mit-kindern
 reservasArriba: true
+opciones:
+  - ficha: zoo-aquarium-madrid-entrada
+    etiqueta: Zoo Aquarium
+  - ficha: parque-atracciones-madrid-entrada
+    etiqueta: Ab 8 Jahren
+  - ficha: parque-warner-madrid-entrada
+    etiqueta: Parque Warner
 actividades:
   - zoo-aquarium-madrid-entrada
   - parque-warner-madrid-entrada
@@ -43,7 +51,7 @@ Der Ratgeber ist nach Kategorien geordnet, nicht nach Tagen, damit du dir heraus
 
 ## Top-Plan Nummer 1: der Zoo Aquarium
 
-Der Zoo von Madrid liegt in **Casa de Campo**, 20 Minuten vom Zentrum mit der Metro. Mit fast 6.000 Tieren und 500 Arten gehören ein Delfinarium, eine Voliere, ein Reptilienhaus und ein integriertes Aquarium dazu. Er ist der zuverlässigste Plan für Kinder jeden Alters.
+Der Zoo von Madrid liegt in **Casa de Campo**, 20 Minuten vom Zentrum mit der Metro. Mit rund 3.200 Tieren aus Hunderten von Arten gehören ein Delfinarium, eine Voliere, ein Reptilienhaus und ein integriertes Aquarium dazu. Er ist der zuverlässigste Plan für Kinder jeden Alters.
 
 Die Kleinen (4–7) sind fasziniert von Delfinen, Seelöwen, Tigern und dem Panda. Die Mittleren (8–12) sind vom Delfinarium und der Greifvogelshow begeistert. Teenager (13–16) finden das anfangs vielleicht "kindisch", aber das Delfinarium überrascht sie, und das Aquarium kommt bei ihnen meist besser an als der Zoo selbst.
 
@@ -57,9 +65,9 @@ Die Kleinen (4–7) sind fasziniert von Delfinen, Seelöwen, Tigern und dem Pand
 
 Die Shows mit Delfinen, Greifvögeln und Seelöwen haben **feste Uhrzeiten**. Schau dir beim Eingang den Zeitplan an und organisiere den Besuch danach: So funktioniert der Tag deutlich besser.
 
-> **⚠️ Hinweis:** Die Restaurants im Zoo sind teuer (12–15 € pro Kindermenü). Der Zoo erlaubt eigenes Essen, und neben dem Delfinarium gibt es Picknickbereiche. Nehmt ein Picknick mit.
+> **⚠️ Hinweis:** Die Restaurants im Zoo sind teuer. Der Zoo erlaubt eigenes Essen, und neben dem Delfinarium gibt es Picknickbereiche. Nehmt ein Picknick mit.
 
-**Anreise:** Metro Linie 10 bis Casa de Campo (15 Minuten zu Fuß bis zum Eingang) oder EMT-Bus Linie 33. Mit dem Auto gibt es kostenlose Parkplätze, die mit dem Freizeitpark geteilt werden. Empfohlene Zeit: 5–7 Stunden. Es ist ein ganzer Tag.
+**Anreise:** Metro Linie 10 oder 5 bis Casa de Campo (15 Minuten zu Fuß bis zum Eingang) oder EMT-Bus Linie 33. Mit dem Auto gibt es kostenlose Parkplätze, die mit dem Freizeitpark geteilt werden. Empfohlene Zeit: 5–7 Stunden. Es ist ein ganzer Tag.
 
 ## Top-Plan Nummer 2: Parque de Atracciones Madrid
 
@@ -75,23 +83,23 @@ Kauft Tickets online mit Vorlauf, besonders an schönen Wochenenden. Wenn mögli
 
 ## Top-Plan Nummer 3: Faunia
 
-Faunia ist ein naturkundlicher Themenpark im Viertel Vicálvaro, anders als der Zoo. Der entscheidende Unterschied: Hier leben die Tiere in **nachgebauten Ökosystemen** (Dschungel, Mangrove, Polargebiet, Nachtdschungel), und die Besuche sind immersiver.
+Faunia ist ein naturkundlicher Themenpark im Viertel Vicálvaro, anders als der Zoo. Der entscheidende Unterschied: Hier leben die Tiere in **nachgebauten Ökosystemen** (Dschungel, Mangrove, Polargebiet, Nachtwald), und die Besuche sind immersiver.
 
-Die Kleinen (4–8) fasziniert der **Nachtdschungel** (Faultiere, Fledermäuse) und die **Pinguine**. Die Mittleren (8–12) begeistert der Bereich mit tropischen Vögeln und das Erlebnis, durch verschiedene Biome zu gehen. Es ist **weniger klassischer Zoo und mehr Erlebnis** — eine gute Option für Eltern, die einen anderen Plan als den Zoo suchen.
+Die Kleinen (4–8) fasziniert der **Nachtwald** und die **Pinguine**. Die Mittleren (8–12) begeistert der Bereich mit tropischen Vögeln und das Erlebnis, durch verschiedene Biome zu gehen. Es ist **weniger klassischer Zoo und mehr Erlebnis** — eine gute Option für Eltern, die einen anderen Plan als den Zoo suchen.
 
 **Preise und Öffnungszeiten:** online ab 17 €. Es gibt einen kombinierten Zoo + Faunia-Tarif mit Rabatt, wenn ihr beide an unterschiedlichen Tagen besucht. Faunia ist kleiner als der Zoo, 4–5 Stunden reichen also aus.
 
 > **⭐ Tipp:** Frühling und Herbst sind am besten. Im Sommer ist die Hitze in Madrid brutal, und die Tiere verstecken sich, sodass der Besuch viel von seinem Reiz verliert.
 
-**Anreise:** Metro Linie 9 bis Valdebernardo plus 15 Minuten zu Fuß. Mit dem Auto kostenlose Parkplätze.
+**Anreise:** Metro Linie 9 bis Valdebernardo plus 15 Minuten zu Fuß oder EMT-Bus 71 ab Manuel Becerra. Mit dem Auto gibt es einen kostenpflichtigen Parkplatz.
 
 ## Top-Plan Nummer 4: Parque Warner Madrid
 
-Etwa 25 km südlich von Madrid (San Martín de la Vega). Erreichbar mit dem Auto oder per Bus ab Atocha (45 Minuten). Themenpark mit Bereichen zu DC Comics, Looney Tunes, Hollywood und Wildem Westen, mit Fahrgeschäften für alle Altersgruppen.
+Etwa 25 km südlich von Madrid (San Martín de la Vega). Erreichbar mit dem Auto (rund 45 Minuten), per Bus ab dem Busbahnhof Estación Sur (Méndez Álvaro) oder mit der Cercanías-Linie C-3 bis Pinto und dem Bus 413. Themenpark mit Bereichen zu DC Comics, Looney Tunes, Hollywood und Wildem Westen, mit Fahrgeschäften für alle Altersgruppen.
 
 Für 8- bis 16-Jährige ist er wahrscheinlich der eindrucksvollste Plan der Reise. Er hat ernsthafte Achterbahnen (Superman, ARRJ, Stunt Fall), die Teenager begeistern, und einen großen Kinderbereich für die Kleinen. Es ist ein ganzer Tag mit frühem Aufbruch aus Madrid und Rückkehr bei Sonnenuntergang.
 
-> **⚠️ Hinweis:** Der Parque Warner ist unabhängig vom Parque de Atracciones Madrid. Verwechselt sie nicht. Und er ist teurer: online ab 33 € pro Person. Ein Teil des Winters ist geschlossen (November–März, eingeschränkte Wochenenden).
+> **⚠️ Hinweis:** Der Parque Warner ist unabhängig vom Parque de Atracciones Madrid. Verwechselt sie nicht. Und er ist teurer: online ab 33 € pro Person. Ein Teil des Winters ist geschlossen (etwa von Anfang Januar bis Ende Februar); im November und Dezember öffnet er an ausgewählten Tagen mit dem Weihnachtsprogramm.
 
 Ehrliche Empfehlung: Wenn ihr 4–5 Tage in Madrid seid, passt Warner gut hinein. Wenn ihr 2–3 Tage bleibt, gebt dem Parque de Atracciones Madrid den Vorzug (zentraler, gleiche Begeisterung, kein verlorener Logistiktag).
 
@@ -101,7 +109,7 @@ Wenn ihr Madrid zwischen **Juni und September** besucht, ist der Wasserpark Aqu�
 
 Für Teenager (13–16) sind die Top-Rutschen ein Erlebnis. Für die Mittleren (8–12) das Wellenbecken und die mittleren Rutschen. Für die Kleinen (4–7) ein Kinderbereich mit sanften Rutschen und flachen Becken.
 
-**Preise und Öffnungszeiten:** online ab 20 €. Nur im Sommer geöffnet, ungefähr vom 1. Juni bis 15. September. Mit dem Auto liegt er 45 Minuten vom Zentrum entfernt, an Wochenenden fährt ein Bus ab Moncloa.
+**Preise und Öffnungszeiten:** online ab 20 €. Nur im Sommer geöffnet, von Juni bis Anfang September (2026 war am 6. September Schluss). Mit dem Auto liegt er 45 Minuten vom Zentrum entfernt, außerdem fährt der Bus 627 ab Moncloa.
 
 > **⭐ Tipp:** Kombiniere einen Vormittag in Aquópolis mit einem ruhigen Nachmittag in Madrid. Für mehr wird die Energie nicht reichen.
 
@@ -111,15 +119,13 @@ Hier folgt etwas Gegenintuitives. Es gibt Museen in Madrid, die Kinder mehr bege
 
 ### Museen, die WIRKLICH begeistern
 
-**Museo Nacional de Ciencias Naturales** (Chamberí, Calle José Gutiérrez Abascal). Mit Abstand das beste Museum Madrids für Kinder. Es hat **echte Dinosaurier** (vollständige Skelette von Triceratops und Diplodocus), präparierte Tiere aus aller Welt, Fossilien und interaktive Ausstellungen. Ideales Alter 4–12 Jahre, auch Teenager haben Spaß daran. Preis: 7 € Erwachsene / 3,50 € Kinder 4–14 Jahre. Dauer 2–3 Stunden. Montags geschlossen.
+**Museo Nacional de Ciencias Naturales** (Chamberí, Calle José Gutiérrez Abascal). Mit Abstand das beste Museum Madrids für Kinder. Es hat **echte Dinosaurier** (vollständige Skelette von Triceratops und Diplodocus), präparierte Tiere aus aller Welt, Fossilien und interaktive Ausstellungen. Ideales Alter 4–12 Jahre, auch Teenager haben Spaß daran. Preis: 7 € Erwachsene / 3,50 € Kinder und Jugendliche 4–18 Jahre, unter 4 Jahren kostenlos. Freier Eintritt dienstags 15:00–17:00 Uhr und sonntags 18:30–20:00 Uhr (außer 1. Juli bis 14. September). Dauer 2–3 Stunden. Montags geschlossen (außer an Feiertagen).
 
 **Museo Nacional de Antropología** (Atocha). Überrascht die Eltern, weil die Kinder anbeißen: Dioramen von Völkern der Welt, Mumien, alte Instrumente und Vitrinen mit kuriosen Objekten aus allen Kulturen. Das Museum ist klein und gut verdaulich (1,5 Stunden reichen). Ideales Alter 6–14 Jahre. Preis: 3 € Erwachsene, kostenlos samstags ab 14:00 Uhr und sonntagvormittags.
 
 **CaixaForum Madrid** (Paseo del Prado). Schon das Gebäude allein beeindruckt — die vertikale Pflanzenwand außen und die schwebende Architektur. Die Wechselausstellungen sind sehr vielfältig (Videospiele, Wissenschaft, Fotografie, Kunst), und der Eintritt ist kostenlos oder sehr günstig. Ideales Alter 8–16 Jahre, je nach aktueller Ausstellung. Prüft vorher, was gerade läuft.
 
-**Museo del Ferrocarril** (Delicias, in Embajadores). Echte Züge, Waggons zum Einsteigen, alte Lokomotiven. Zugbegeisterte Kinder sind aus dem Häuschen. Wunderschönes Gebäude, ein alter Bahnhof. Ideales Alter 4–12 Jahre. Preis: 6 € Erwachsene, 3 € Kinder, samstags kostenlos. An den zweiten Wochenenden des Monats findet der **Mercado de Motores** statt, Vintage und Food Trucks, einen eigenen Besuch wert.
-
-**Cosmocaixa Alcobendas** (15 km von Madrid entfernt). Interaktives Wissenschaftsmuseum. Mit dem Auto lohnt sich der Ausflug; ohne Auto ersetzt ihr ihn durch das Naturkundemuseum.
+**Museo del Ferrocarril** (Delicias, im Bezirk Arganzuela). Echte Züge, Waggons zum Einsteigen, alte Lokomotiven. Zugbegeisterte Kinder sind aus dem Häuschen. Wunderschönes Gebäude, ein alter Bahnhof. Ideales Alter 4–12 Jahre. Preis: 7 € Erwachsene, 4 € Kinder 4–12 Jahre, unter 4 Jahren kostenlos. An den zweiten Wochenenden des Monats (außer Juli und August) findet der **Mercado de Motores** statt, Vintage und Food Trucks, einen eigenen Besuch wert; dann ist der normale Museumsbesuch nicht möglich.
 
 ### Museen, die für kleine Kinder NICHT empfohlen werden
 
@@ -133,11 +139,11 @@ Hier folgt etwas Gegenintuitives. Es gibt Museen in Madrid, die Kinder mehr bege
 
 ### Retiro-Park
 
-Der liebste Wochenendplan jeder Madrilener Familie. Der **große Teich mit den Ruderbooten** kostet 4–6 € pro 30 Minuten und ist ein Muss, wenn ihr es noch nie gemacht habt (ab 4 Jahren). Der **Kristallpalast** ist immer kostenlos, mit Wechselausstellungen. Das **Marionettentheater** bietet am Kiosk beim Teich kostenlose Kindershows an Wochenenden und Feiertagen — mit Kleinen ein Muss. Es gibt Roller- und Fahrradverleih in mehreren Bereichen sowie einen Kinderbereich mit Karussell und kleinen Fahrgeschäften.
+Der liebste Wochenendplan jeder Madrilener Familie. Der **große Teich mit den Ruderbooten** kostet 6 € unter der Woche und 8 € an Wochenenden und Feiertagen pro Boot für 45 Minuten und ist ein Muss, wenn ihr es noch nie gemacht habt (Kinder unter 14 nur mit einem Erwachsenen). Der **Kristallpalast** ist 2026 wegen Restaurierung geschlossen, die Kunstinstallation auf seiner Verhüllung sieht man aber von außen. Das **Marionettentheater** nahe der Puerta de Alcalá bietet an Wochenenden kostenlose Kindershows — mit Kleinen ein Muss. Es gibt Roller- und Fahrradverleih in mehreren Bereichen sowie einen Kinderbereich mit Karussell und kleinen Fahrgeschäften.
 
 ### Madrid Río
 
-30 km Fahrradwege entlang des Manzanares. Der beste Plan für energiegeladene Kinder: Fahrräder für die ganze Familie mieten (BiciMad funktioniert ab 7 Jahren mit Kinderrad), Rutschen und Spielplätze im ganzen Park, Skatepark und Zonen zum Skaten. Im Sommer wird ein **Flussstrand** mit Bade- und Wasserspielbereichen aufgebaut. Kostenlos.
+30 km Fahrradwege entlang des Manzanares. Der beste Plan für energiegeladene Kinder: Fahrräder für die ganze Familie mieten (BiciMAD nur für Nutzer ab 14 Jahren), Rutschen und Spielplätze im ganzen Park, Skatepark und Zonen zum Skaten. Im Sommer wird ein **Flussstrand** mit Bade- und Wasserspielbereichen aufgebaut. Kostenlos.
 
 ### Casa de Campo
 

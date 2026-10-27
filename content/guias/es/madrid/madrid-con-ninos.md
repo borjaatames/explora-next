@@ -5,7 +5,8 @@ respuestaCorta: 'El plan familiar más fiable de Madrid es el **Zoo Aquarium** d
 categoria: "madrid"
 slug: "madrid-con-ninos"
 fecha: "2026-04-27"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-28"
+datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: true
@@ -23,6 +24,13 @@ slugs:
   en: madrid-with-kids
   de: madrid-mit-kindern
 reservasArriba: true
+opciones:
+  - ficha: zoo-aquarium-madrid-entrada
+    etiqueta: Zoo Aquarium
+  - ficha: parque-atracciones-madrid-entrada
+    etiqueta: Desde 8 años
+  - ficha: parque-warner-madrid-entrada
+    etiqueta: Parque Warner
 actividades:
   - zoo-aquarium-madrid-entrada
   - parque-warner-madrid-entrada
@@ -44,34 +52,33 @@ Madrid se vive muy bien en familia: parques por toda la ciudad, fauna real a 20 
 | --- | --- | --- | --- | --- |
 | Zoo Aquarium (Casa de Campo) | 4-16 | Desde 20 €; gratis menores de 3 | Día completo (5-7 h) | Metro L10 Casa de Campo y 15 min a pie, o bus 33; parking gratis |
 | Parque de Atracciones (Casa de Campo) | 8-16 (zona infantil 4-7) | Desde 24 € | Día completo (6-8 h) | Igual que el Zoo |
-| Faunia (Vicálvaro) | 4-12 | Desde 17 € | 4-5 h | Metro L9 Valdebernardo y 15 min a pie; parking gratis |
-| Parque Warner (San Martín de la Vega) | 8-16 | Desde 33 € | Día completo, con 45 min de ida | Coche o autobús desde Atocha |
-| Aquópolis Villanueva (verano) | 4-16 | Desde 20 € | Mañana y tarde de descanso | Coche (45 min) o bus desde Moncloa los fines de semana |
+| Faunia (Vicálvaro) | 4-12 | Desde 17 € | 4-5 h | Metro L9 Valdebernardo y 15 min a pie, o bus 71; parking de pago |
+| Parque Warner (San Martín de la Vega) | 8-16 | Desde 33 € | Día completo, con 45 min de ida | Coche, autobús desde la Estación Sur (Méndez Álvaro) o Cercanías C-3 a Pinto y bus 413 |
+| Aquópolis Villanueva (verano) | 4-16 | Desde 20 € | Mañana y tarde de descanso | Coche (45 min) o bus 627 desde Moncloa |
 
-**Zoo Aquarium.** El plan más fiable a cualquier edad: delfinario, aves rapaces, leones marinos, panda y acuario. Llega a las 11:00, cuando abre; a partir de las 13:00 los animales se esconden. Los espectáculos tienen hora fija: mira el calendario al entrar y organiza la visita alrededor. Los restaurantes son caros (12-15 € el menú infantil); se puede entrar con comida y hay merenderos junto al delfinario.
+**Zoo Aquarium.** El plan más fiable a cualquier edad: delfinario, aves rapaces, leones marinos, panda y acuario. Llega a las 11:00, cuando abre; a partir de las 13:00 los animales se esconden. Los espectáculos tienen hora fija: mira el calendario al entrar y organiza la visita alrededor. Los restaurantes son caros; se puede entrar con comida y hay merenderos junto al delfinario.
 
 **Parque de Atracciones.** Para los de 8 en adelante, el mejor recuerdo del viaje; para adolescentes, mejor que cualquier museo. Los pequeños tienen Nickelodeon Land, que da para medio día. Compra online con días de antelación y evita los sábados de primavera, con colas de 45 minutos en las atracciones grandes. Cierra parte del invierno. **No lo combines con el Zoo el mismo día**: están al lado, pero el cansancio arruina los dos.
 
-**Faunia.** Ecosistemas recreados en vez de jaulas: la jungla nocturna (perezosos, murciélagos) y los pingüinos encantan a los pequeños. Hay entrada combinada con el Zoo para días distintos. En verano los animales se esconden con el calor: mejor primavera y otoño.
+**Faunia.** Ecosistemas recreados en vez de jaulas: el bosque nocturno y los pingüinos encantan a los pequeños. Hay entrada combinada con el Zoo para días distintos. En verano los animales se esconden con el calor: mejor primavera y otoño.
 
 **Parque Warner.** Montañas rusas serias (Superman, Stunt Fall) y zona infantil amplia. Es otro parque distinto del de Atracciones y más caro, y cierra buena parte del invierno. Cabe si vais 4-5 días; con 2-3, el Parque de Atracciones da el mismo entusiasmo sin perder un día en logística.
 
-**Aquópolis.** Solo de junio a mediados de septiembre: toboganes para cada edad, piscina de olas y río lento. Después no quedan fuerzas para más.
+**Aquópolis.** Solo de junio a principios de septiembre (en 2026 cerró el 6): toboganes para cada edad, piscina de olas y río lento. Después no quedan fuerzas para más.
 
 ## Museos que sí funcionan con niños
 
-- **Ciencias Naturales** (Chamberí): el mejor de Madrid para niños. Esqueletos enteros de Triceratops y Diplodocus, fauna disecada y salas interactivas. 4-12 años (los adolescentes también). 7 € adultos, 3,50 € de 4 a 14; 2-3 horas; cierra los lunes.
+- **Ciencias Naturales** (Chamberí): el mejor de Madrid para niños. Esqueletos enteros de Triceratops y Diplodocus, fauna disecada y salas interactivas. 4-12 años (los adolescentes también). 7 € adultos, 3,50 € de 4 a 18 años, gratis menores de 4 y los martes de 15:00 a 17:00 y domingos de 18:30 a 20:00 (salvo del 1 de julio al 14 de septiembre); 2-3 horas; cierra los lunes no festivos.
 - **Antropología** (Atocha): momias, maquetas de pueblos del mundo y vitrinas curiosas. Pequeño y digerible, 1 h 30. 6-14 años. 3 €, gratis sábados desde las 14:00 y domingos por la mañana.
 - **CaixaForum** (Paseo del Prado): el edificio ya impresiona y las temporales (videojuegos, ciencia, fotografía) son gratis o muy baratas. 8-16 años; mira qué hay antes de ir.
-- **Museo del Ferrocarril** (Delicias): locomotoras y vagones donde subir. 4-12 años. 6 € adultos, 3 € niños, gratis los sábados. El segundo fin de semana de cada mes se monta allí el Mercado de Motores.
-- **CosmoCaixa Alcobendas** (15 km): ciencia interactiva. Solo si vais en coche; si no, Ciencias Naturales lo sustituye.
+- **Museo del Ferrocarril** (Delicias): locomotoras y vagones donde subir. 4-12 años. 7 € adultos, 4 € de 4 a 12 años, gratis menores de 4. El segundo fin de semana de cada mes (salvo julio y agosto) se monta allí el Mercado de Motores y el museo cierra su visita normal.
 
 **Los que no:** Prado, Reina Sofía y Thyssen con menores de 10 años no funcionan ([lo explicamos en la comparativa](/guias/madrid/prado-reina-sofia-thyssen-comparativa)). La excepción son adolescentes con interés: Prado en 1 h 30, *Las Meninas*, Pinturas Negras y Velázquez, y fuera. **Palacio Real**, a partir de 10 años. **Lázaro Galdiano** y similares, no.
 
 ## Al aire libre, gratis o casi
 
-- **Retiro:** barcas en el estanque (4-6 € la media hora, desde 4 años), Palacio de Cristal gratis, teatro de marionetas gratis los fines de semana junto al estanque, bicis y patinetes de alquiler, tiovivo.
-- **Madrid Río:** 30 km de carril bici junto al Manzanares (BiciMAD tiene bici de niño desde 7 años), toboganes, skate park y, en verano, playa fluvial con juegos de agua.
+- **Retiro:** barcas en el estanque (6 € entre semana y 8 € fines de semana y festivos por barca, 45 minutos; menores de 14 con un adulto), Palacio de Cristal (cerrado por obras en 2026, se ve por fuera), teatro de títeres gratis los fines de semana junto a la Puerta de Alcalá, bicis y patinetes de alquiler, tiovivo.
+- **Madrid Río:** 30 km de carril bici junto al Manzanares (BiciMAD solo admite usuarios desde 14 años), toboganes, skate park y, en verano, playa fluvial con juegos de agua.
 - **Casa de Campo:** 1.700 hectáreas de bosque, lago con barcas y terrazas, senderos suaves desde los 5-6 años y zonas de pícnic.
 - **El Capricho:** jardín del XVIII con estanque, templete y un búnker de la Guerra Civil. Solo fines de semana y festivos, gratis. Para exploradores de 6 a 14.
 

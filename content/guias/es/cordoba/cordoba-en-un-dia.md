@@ -4,7 +4,8 @@ descripcion: "Qué ver en Córdoba en un día: Mezquita-Catedral, Judería, Alc�
 categoria: "cordoba"
 slug: "cordoba-en-un-dia"
 fecha: "2026-03-20"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-10-28'
+datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: true
@@ -21,6 +22,13 @@ slugs:
   de: cordoba-in-einem-tag
 reservasArriba: true
 respuestaCorta: 'Sí, **Córdoba se ve en un día**: la Mezquita-Catedral, la Judería, el Alcázar y el Puente Romano están a cinco minutos a pie unos de otros. Entra en la **Mezquita a primera hora**, antes del calor y los grupos (tour guiado sin colas desde 32 €). Mejor de abril a junio o en septiembre y octubre; en julio y agosto se rondan los 40 °C.'
+opciones:
+  - ficha: mezquita-catedral-tour-guiado-sin-colas
+    etiqueta: Mezquita con guía
+  - ficha: mezquita-juderia-tour-a-pie
+    etiqueta: Mezquita y Judería
+  - ficha: espectaculo-flamenco-tablao-cardenal
+    etiqueta: Por la noche
 actividades:
   - mezquita-catedral-tour-guiado-sin-colas
   - patios-cordobeses-tour-con-entradas
@@ -33,11 +41,11 @@ actividades:
   - alcazar-reyes-cristianos-visita-guiada
 faq:
   - pregunta: "¿Cuánto tiempo hace falta para ver Córdoba?"
-    respuesta: "Un día completo es suficiente: el casco histórico es compacto y la Mezquita-Catedral, la Judería, el Alcázar y el Puente Romano están a cinco minutos unos de otros. La ruta recomendada va de 9:00 a 18:30."
+    respuesta: "Un día completo es suficiente: el casco histórico es compacto y la Mezquita-Catedral, la Judería, el Alcázar y el Puente Romano están a cinco minutos unos de otros. La ruta recomendada va de 8:30 a 18:30."
   - pregunta: "¿Cómo se llega a Córdoba en tren?"
     respuesta: "En AVE, 1h 45min desde Madrid, 45 minutos desde Sevilla y 1 hora desde Málaga. La estación queda a 20 minutos andando del centro histórico."
   - pregunta: "¿A qué hora hay que entrar a la Mezquita-Catedral?"
-    respuesta: "A primera hora, nada más abrir (9:00), antes del calor y de los grupos. Dejarlo para la tarde significa colas largas y una visita con prisa."
+    respuesta: "A primera hora, antes del calor y de los grupos: en la visita gratuita de lunes a sábado de 8:30 a 9:30 (solo visitantes individuales) o nada más abrir con entrada, a las 10:00. Dejarlo para la tarde significa colas largas y una visita con prisa."
   - pregunta: "¿Cuál es la mejor época para visitar Córdoba?"
     respuesta: "Abril a junio, con mayo como mes mágico porque coinciden las Cruces, el Festival de los Patios y la Feria — aunque la ciudad se llena y hay que reservar alojamiento con semanas de antelación. En julio y agosto hay que evitar el mediodía: rondan los 40 °C."
   - pregunta: "¿Merece la pena ir a Medina Azahara desde Córdoba?"
@@ -69,16 +77,16 @@ En **AVE**: desde Madrid 1 h 45, desde Sevilla 45 minutos, desde Málaga 1 hora;
 
 | Hora | Qué |
 | --- | --- |
-| 9:00 | Mezquita-Catedral |
-| 10:30 | Judería y Sinagoga |
+| 8:30 | Mezquita-Catedral |
+| 9:30 | Judería y Sinagoga |
 | 12:00 | Alcázar de los Reyes Cristianos |
 | 13:00 | Puente Romano y Calahorra |
 | 14:00 | Comida en una taberna del centro |
 | 16:30 | Patios (Palacio de Viana) o Medina Azahara |
 
-- **Mezquita-Catedral.** El bosque de **856 columnas y arcos rojiblancos** con una catedral renacentista levantada en medio, el **mihrab** de mosaicos bizantinos dorados y el **Patio de los Naranjos**. Una hora y media; con guía se entiende el porqué de los dos templos en uno.
+- **Mezquita-Catedral.** El bosque de **856 columnas y arcos rojiblancos** con una catedral renacentista levantada en medio, el **mihrab** de mosaicos bizantinos dorados y el **Patio de los Naranjos**. La visita gratuita dura una hora (8:30-9:30); si quieres hora y media o ir con guía, entra con entrada a las 10:00 y haz antes la Judería. Con guía se entiende el porqué de los dos templos en uno.
 - **Judería.** La Calleja de las Flores con la torre al fondo (la foto clásica), la **Sinagoga** del XIV (una de las tres que quedan en España, 15 minutos) y callejas encaladas para perderse.
-- **Alcázar.** La fortaleza donde vivieron los Reyes Católicos; lo mejor, los **jardines escalonados** de estanques y surtidores. Una hora.
+- **Alcázar.** La fortaleza donde vivieron los Reyes Católicos; lo mejor, los **jardines escalonados** de estanques y surtidores (ahora mismo solo se visitan los jardines: el resto del monumento está en restauración). Una hora.
 - **Puente Romano.** Crúzalo hasta la Calahorra y mira atrás: la estampa de Córdoba, mejor aún al atardecer.
 - **Tarde.** Los doce patios del **Palacio de Viana**, abiertos todo el año; o la gran olvidada, **Medina Azahara**, la ciudad palatina de Abderramán III, Patrimonio de la Humanidad, a 8 km.
 
@@ -86,13 +94,13 @@ En **AVE**: desde Madrid 1 h 45, desde Sevilla 45 minutos, desde Málaga 1 hora;
 
 | Lugar | Precio | Horario |
 | --- | --- | --- |
-| Mezquita-Catedral | 15 € (8 € de 10 a 14 años, gratis menores de 10); torre 4 €. **Gratis L-S 8:30-9:30**, individuales por orden de llegada | L-S 10:00-19:00; domingos 8:30-11:30 y 15:00-19:00 |
-| Alcázar | 5 €, gratis menores de 14; noches de verano con luces ~10 € | Ma-D desde 8:15; cierra lunes y tardes de domingo |
-| Sinagoga | Gratis UE, 0,30 € resto | Cierra lunes |
-| Torre de la Calahorra | 4,50 €, mejor vista de la Mezquita desde la azotea | 10:00-18:00 (19:00 verano) |
+| Mezquita-Catedral | 15 € (8 € de 10 a 14 años, gratis menores de 10); torre 4 €. **Gratis L-S 8:30-9:30**, individuales por orden de llegada | L-S 10:00-19:00; domingos 8:30-11:30 y 15:00-19:00 (de noviembre a febrero cierra a las 18:00) |
+| Alcázar | 7 € (solo jardines; el resto del monumento está en restauración) | 16 sep-15 jun: Ma-V 8:15-20:15, S 9:30-17:30, D 8:15-14:15; verano Ma-D 8:15-13:00; cierra lunes |
+| Sinagoga | Gratis | Ma-D 9:00-15:00; cierra lunes |
+| Torre de la Calahorra | 4,50 €, mejor vista de la Mezquita desde la azotea | Oct y mar-may 10:00-19:00; nov-feb 10:00-18:00; jun-sep 10:00-14:00 y 16:30-20:30 |
 | Palacio de Viana | 8,50 € solo patios, 14 € combinada (patios e interior) | Cierra lunes; sep-dic Ma-S 10:00-19:00 y D 10:00-15:00; jul-ago 9:00-15:00 |
-| Medina Azahara | Gratis UE (1,50 € resto); bus turístico 9 € i/v desde Glorieta Cruz Roja a las 10:15 y 11:00; lanzadera 2,50 € en coche | Cierra lunes; 2 h 30 de visita |
-| Baños Califales | 3 €, gratis UE jueves tarde; 30 minutos junto al Alcázar | |
+| Medina Azahara | Gratis UE (1,50 € resto); bus turístico desde la Glorieta de la Cruz Roja (Paseo de la Victoria), con reserva; si vas en coche, lanzadera 3 € desde el centro de visitantes | Cierra lunes; 2 h 30 de visita |
+| Baños Califales | 7,50 € en bono con los jardines del Alcázar (7,16 € online); 30 minutos junto al Alcázar | |
 
 ## Dormir y comer
 

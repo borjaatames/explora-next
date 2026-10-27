@@ -4,7 +4,8 @@ descripcion: "The best coves and beaches in Mallorca: Es Trenc, Cala Mondragó, 
 categoria: "mallorca"
 slug: "best-coves-mallorca"
 fecha: "2026-03-29"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-28"
+datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: false
@@ -23,6 +24,13 @@ slugs:
   de: schoenste-buchten-mallorca
 respuestaCorta: 'The best coves in Mallorca are **Es Trenc** (wild, Caribbean-style), **Cala Mondragó** (natural park, ideal for families), **Caló des Moro** (tiny and photogenic) and **Sa Calobra** in the Tramuntana. In July and August arrive **before 9:00 or after 18:00**, or go by boat: the Sóller–Sa Calobra trip starts **from €35**.'
 reservasArriba: true
+opciones:
+  - ficha: calo-des-moro-barco-esnorquel
+    etiqueta: Caló des Moro
+  - ficha: formentor-barco-alcudia-faro-playa
+    etiqueta: Formentor
+  - ficha: barco-soller-sa-calobra
+    etiqueta: Sa Calobra
 actividades:
   - formentor-barco-alcudia-faro-playa
   - barco-soller-sa-calobra
@@ -61,7 +69,7 @@ Not all are for the same thing: some are long and family-friendly, others small 
 
 **Caló des Moro (south-east).** The cove of the photos: tiny, wedged between rocks, with impossible water. Beautiful but it **gets jammed**; the parking is minuscule and you climb down steps.
 
-**Sa Calobra and Cala Tuent (Tramuntana).** Spectacular coves at the foot of the mountains, at the end of the most vertiginous road on the island. Arrive early or come by boat. From Sa Calobra, the walk into the **Torrent de Pareis** gorge takes 20–30 minutes over rocks.
+**Sa Calobra and Cala Tuent (Tramuntana).** Spectacular coves at the foot of the mountains, at the end of the most vertiginous road on the island. Arrive early or come by boat. From Sa Calobra, an easy path through two rock tunnels leads to the mouth of the **Torrent de Pareis** gorge.
 
 **Playa de Muro / Alcúdia (north).** The great family beach: fine sand, long and shallow, with all the services.
 
@@ -73,15 +81,15 @@ Not all are for the same thing: some are long and family-friendly, others small 
 
 - **Formentor (2026 rules):** from 15 May to 18 October, 10:00 to 22:00, private cars may drive to the Formentor beach car park only until it is full; then a barrier closes the road. The stretch to the lighthouse is for authorised vehicles only, with fines for anyone else. The alternative is TIB bus line 334 from Alcúdia and Port de Pollença, with free parking on the Ma-2200 service road in Port de Pollença. Stopping on the road outside marked bays is also fined. Another option is the [speedboat trip from Alcúdia](/en/cities/mallorca/activities/formentor-boat-trip-alcudia-lighthouse-beach), which stops at the beach and passes below the lighthouse.
 - **Caló des Moro:** the streets leading to the cove are reserved for residents' vehicles. Park at the entrance to Cala Llombards and walk about 1.5 km (20–25 minutes); the final descent is over rocks. Not for pushchairs or reduced mobility.
-- **Sa Calobra without the bends:** the boat from Port de Sóller (1 hour under the cliffs, trips of 4–5 hours with time ashore) saves you the 12 km of the island's most twisting road.
-- **Es Trenc and Mondragó:** the car parks closest to the sand fill before 11:00 in July and August. Never leave the car on the verge or a private track.
+- **Sa Calobra without the bends:** the boat from Port de Sóller (45–60 minutes under the cliffs; depending on the return sailing, the outing takes about 4 to 7 hours) saves you the 12 km of the island's most twisting road.
+- **Es Trenc and Mondragó:** the paid car parks closest to the sand fill by late morning in July and August. Never leave the car on the verge or a private track.
 
 ## Water, prices and what to bring
 
 - **Sea temperature:** 24–27 °C from July to September; below 20 °C before June.
 - **Jellyfish** arrive with the easterly (levante) wind. Check the lifeguard flags before going in.
-- **Sun loungers:** two loungers and a parasol cost €18–25 a day on the beaches with services. On the wild ones there isn't even water: bring 2 litres per person and a parasol.
-- **Nudism** is accepted at Es Trenc (northern part), Cala Varques and part of Cala Mesquida.
+- **Sun loungers:** two loungers and a parasol cost €18–30 a day on the beaches with services. On the wild ones there isn't even water: bring 2 litres per person and a parasol.
+- **Nudism** is accepted on the quieter stretches of Es Trenc, Cala Varques and part of Cala Mesquida.
 
 ## With or without services
 
@@ -92,8 +100,8 @@ Not all are for the same thing: some are long and family-friendly, others small 
 ## What we don't recommend
 
 1. **Going to the small coves at midday in summer.** No parking and overflowing.
-2. **Expecting services at the wild ones.** Es Trenc or Cala Varques have no beach bar; bring water and shade.
-3. **Stepping carelessly on the posidonia.** The underwater meadows (a World Heritage Site) are what give the crystal-clear water.
+2. **Expecting services at the wild ones.** Es Trenc has only three kiosks and Cala Varques none; bring water and shade.
+3. **Stepping carelessly on the posidonia.** The underwater meadows (protected by law across the Balearics) are what give the crystal-clear water.
 4. **Climbing down to Caló des Moro with reduced mobility.** It's a descent over rocks and steps.
 
 [actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
