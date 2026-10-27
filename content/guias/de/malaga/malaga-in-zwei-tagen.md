@@ -5,7 +5,7 @@ categoria: "malaga"
 slug: "malaga-in-zwei-tagen"
 fecha: "2026-02-28"
 fecha_actualizacion: "2026-02-28"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 12

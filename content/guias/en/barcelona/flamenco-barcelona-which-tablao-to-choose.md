@@ -4,7 +4,7 @@ descripcion: "Barcelona has 4 separately bookable flamenco shows, from a large-c
 categoria: "barcelona"
 slug: "flamenco-barcelona-which-tablao-to-choose"
 fecha: "2026-09-06"
-autor: "Equipo ExploraSpain"
+autor: Borja
 fecha_actualizacion: "2026-10-23"
 publicada: true
 destacada: false

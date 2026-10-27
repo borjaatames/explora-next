@@ -5,7 +5,7 @@ categoria: tenerife
 slug: teide-besteigen
 fecha: '2026-10-07'
 fecha_actualizacion: "2026-10-23"
-autor: ExploraSpain Redaktion
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 9

@@ -4,7 +4,7 @@ descripcion: "Comparamos los 3 tours de tapas de Madrid: precio real, qué inclu
 categoria: "madrid"
 slug: "tapas-madrid-que-tour-elegir"
 fecha: "2026-09-20"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"

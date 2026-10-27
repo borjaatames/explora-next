@@ -5,7 +5,7 @@ categoria: girona
 slug: que-ver-en-girona-en-un-dia
 fecha: '2026-04-25'
 fecha_actualizacion: '2026-10-23'
-autor: Equipo ExploraSpain
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 4

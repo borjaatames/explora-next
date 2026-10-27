@@ -5,7 +5,7 @@ categoria: "bilbao"
 slug: "bilbao-pintxos"
 fecha: "2026-04-04"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/pintxos-bilbao.jpg"

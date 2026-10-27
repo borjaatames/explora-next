@@ -5,7 +5,7 @@ categoria: "sevilla"
 slug: "seville-holy-week"
 fecha: "2026-10-23"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain editorial team"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/semana-santa-sevilla.jpg"

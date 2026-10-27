@@ -6,7 +6,7 @@ categoria: "mallorca"
 slug: "mejores-calas-mallorca"
 fecha: "2026-03-29"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/mejores-calas-mallorca.jpg"

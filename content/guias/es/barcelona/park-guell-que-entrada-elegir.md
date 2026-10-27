@@ -4,7 +4,7 @@ descripcion: "Park Güell: entrada básica (21,50 €) o con la Casa Museo Gaud�
 categoria: "barcelona"
 slug: "park-guell-que-entrada-elegir"
 fecha: "2026-09-20"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"

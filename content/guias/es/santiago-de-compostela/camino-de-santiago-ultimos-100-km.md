@@ -6,7 +6,7 @@ categoria: "santiago-de-compostela"
 slug: "camino-de-santiago-ultimos-100-km"
 fecha: "2026-05-11"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/camino-de-santiago-ultimos-100-km.jpg"

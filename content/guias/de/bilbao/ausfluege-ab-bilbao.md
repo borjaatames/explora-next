@@ -5,7 +5,7 @@ categoria: "bilbao"
 slug: "ausfluege-ab-bilbao"
 fecha: "2026-04-26"
 fecha_actualizacion: "2026-04-26"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-bilbao.jpg"

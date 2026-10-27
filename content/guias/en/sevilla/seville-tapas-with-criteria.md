@@ -5,7 +5,7 @@ categoria: "sevilla"
 slug: "seville-tapas-with-criteria"
 fecha: "2026-04-28"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain editorial team"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-tapas-criterio.jpg"

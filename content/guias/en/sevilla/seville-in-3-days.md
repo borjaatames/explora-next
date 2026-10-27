@@ -5,7 +5,7 @@ categoria: "sevilla"
 slug: "seville-in-3-days"
 fecha: "2026-04-28"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain editorial team"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sevilla-en-3-dias.jpg"

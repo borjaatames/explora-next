@@ -5,7 +5,7 @@ categoria: girona
 slug: costa-brava-day-trips-from-girona
 fecha: '2026-05-12'
 fecha_actualizacion: "2026-10-23"
-autor: ExploraSpain Team
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 3

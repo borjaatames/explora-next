@@ -6,7 +6,7 @@ categoria: "tarragona"
 slug: "tarraco-romana-que-ver"
 fecha: "2026-04-21"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarraco-romana-que-ver.jpg"

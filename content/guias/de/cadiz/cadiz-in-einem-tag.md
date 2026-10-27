@@ -5,7 +5,7 @@ categoria: "cadiz"
 slug: "cadiz-in-einem-tag"
 fecha: "2026-04-18"
 fecha_actualizacion: "2026-04-18"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/cadiz-en-un-dia.jpg"

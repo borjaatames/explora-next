@@ -6,7 +6,7 @@ categoria: "cadiz"
 slug: "playas-cadiz-costa-de-la-luz"
 fecha: "2026-05-07"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/playas-cadiz-costa-de-la-luz.jpg"

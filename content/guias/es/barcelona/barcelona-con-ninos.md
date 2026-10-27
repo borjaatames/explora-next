@@ -6,7 +6,7 @@ categoria: "barcelona"
 slug: "barcelona-con-ninos"
 fecha: "2026-05-02"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/barcelona-con-ninos.jpg"

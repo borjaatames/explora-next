@@ -5,7 +5,7 @@ categoria: "malaga"
 slug: "caminito-del-rey-besichtigen"
 fecha: "2026-03-10"
 fecha_actualizacion: "2026-03-10"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 12

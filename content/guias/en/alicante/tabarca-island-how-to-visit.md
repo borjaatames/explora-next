@@ -5,7 +5,7 @@ categoria: "alicante"
 slug: "tabarca-island-how-to-visit"
 fecha: "2026-04-06"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/isla-de-tabarca-como-visitar.jpg"

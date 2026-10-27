@@ -5,7 +5,7 @@ categoria: madrid
 slug: toledo-or-segovia-from-madrid
 fecha: '2026-10-24'
 fecha_actualizacion: '2026-10-24'
-autor: ExploraSpain editorial team
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/guias/toledo-o-segovia-desde-madrid.jpg

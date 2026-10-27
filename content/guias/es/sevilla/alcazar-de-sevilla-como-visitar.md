@@ -5,7 +5,7 @@ categoria: sevilla
 slug: alcazar-de-sevilla-como-visitar
 fecha: '2026-04-29'
 fecha_actualizacion: "2026-10-23"
-autor: Equipo ExploraSpain
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: /images/guias/alcazar-de-sevilla-como-visitar.jpg

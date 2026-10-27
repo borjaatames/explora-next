@@ -5,7 +5,7 @@ categoria: "sevilla"
 slug: "sevilla-in-3-tagen"
 fecha: "2026-04-28"
 fecha_actualizacion: "2026-05-01"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sevilla-en-3-dias.jpg"

@@ -5,7 +5,7 @@ categoria: "bilbao"
 slug: "bilbao-in-einem-tag"
 fecha: "2026-03-13"
 fecha_actualizacion: "2026-03-13"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/bilbao-en-un-dia.jpg"

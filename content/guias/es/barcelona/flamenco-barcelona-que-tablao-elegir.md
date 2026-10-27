@@ -4,7 +4,7 @@ descripcion: "Comparamos los 4 shows de flamenco de Barcelona: precio de cada en
 categoria: "barcelona"
 slug: "flamenco-barcelona-que-tablao-elegir"
 fecha: "2026-09-06"
-autor: "Equipo ExploraSpain"
+autor: Borja
 fecha_actualizacion: "2026-10-23"
 publicada: true
 destacada: false

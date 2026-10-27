@@ -5,7 +5,7 @@ categoria: madrid
 slug: royal-palace-madrid-tickets-sold-out
 fecha: '2026-10-23'
 fecha_actualizacion: '2026-10-23'
-autor: Equipo ExploraSpain
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/guias/palacio-real-madrid-entradas-agotadas.jpg

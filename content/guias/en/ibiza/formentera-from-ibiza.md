@@ -5,7 +5,7 @@ categoria: "ibiza"
 slug: "formentera-from-ibiza"
 fecha: "2026-04-24"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 11

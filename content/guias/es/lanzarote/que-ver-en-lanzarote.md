@@ -6,7 +6,7 @@ categoria: lanzarote
 slug: que-ver-en-lanzarote
 fecha: '2026-10-24'
 fecha_actualizacion: '2026-10-24'
-autor: Equipo ExploraSpain
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 8

@@ -4,7 +4,7 @@ descripcion: "6 ways to book the Sagrada Família, from €34: audio guide, towe
 categoria: "barcelona"
 slug: "sagrada-familia-which-ticket-to-choose"
 fecha: "2026-09-20"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"

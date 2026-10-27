@@ -6,7 +6,7 @@ slug: "day-trips-from-malaga"
 fecha: "2026-04-13"
 fecha_actualizacion: "2026-10-23"
 respuestaCorta: 'The best day trips from Málaga are **Nerja and Frigiliana** (an hour by bus, caves from €15.50), **Antequera and El Torcal** (45 minutes), **Ronda** (about 2 hours by bus) and **Gibraltar** (bring a passport or EU ID). Do one per day: Ronda and Gibraltar each need a full day, and organised trips start at €35.'
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 11

@@ -20,6 +20,7 @@ type AboutCopy = {
   whatWeDo: { heading: string; lead: string; items: React.ReactNode[] };
   whyWeBuilt: { heading: string; body: React.ReactNode };
   editorial: { heading: string; body: React.ReactNode };
+  author: { heading: string; body: string };
   funding: {
     heading: string;
     lead: string;
@@ -82,6 +83,10 @@ function getCopy(lang: Idioma): AboutCopy {
             specific content and a carefully chosen activity catalog.
           </>
         ),
+      },
+      author: {
+        heading: "Who writes the guides",
+        body: "The guides are written and reviewed by Borja, who runs ExploraSpain.",
       },
       editorial: {
         heading: "Our editorial standards",
@@ -220,6 +225,10 @@ function getCopy(lang: Idioma): AboutCopy {
             Inhalten und einem sorgfältig ausgewählten Aktivitätenkatalog.
           </>
         ),
+      },
+      author: {
+        heading: "Wer die Reiseführer schreibt",
+        body: "Die Reiseführer schreibt und prüft Borja, der ExploraSpain betreibt.",
       },
       editorial: {
         heading: "Unser redaktioneller Anspruch",
@@ -360,6 +369,10 @@ function getCopy(lang: Idioma): AboutCopy {
           una oferta de actividades cuidada.
         </>
       ),
+    },
+    author: {
+      heading: "Quién escribe las guías",
+      body: "Las guías las escribe y revisa Borja, responsable de ExploraSpain.",
     },
     editorial: {
       heading: "Nuestro criterio editorial",
@@ -599,6 +612,11 @@ export default function AboutPage({ params }: { params: { lang: string } }) {
             {copy.editorial.heading}
           </h2>
           {copy.editorial.body}
+
+          <h2 id="autor" className="text-2xl md:text-3xl font-bold mt-12 mb-4">
+            {copy.author.heading}
+          </h2>
+          <p>{copy.author.body}</p>
 
           <h2 className="text-2xl md:text-3xl font-bold mt-12 mb-4">
             {copy.funding.heading}

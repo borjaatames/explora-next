@@ -5,7 +5,7 @@ categoria: "madrid"
 slug: "madrid-mit-kindern"
 fecha: "2026-04-27"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-con-ninos.jpg"

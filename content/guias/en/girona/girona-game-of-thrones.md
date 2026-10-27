@@ -5,7 +5,7 @@ categoria: girona
 slug: girona-game-of-thrones
 fecha: '2026-05-05'
 fecha_actualizacion: "2026-10-23"
-autor: ExploraSpain Team
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 3

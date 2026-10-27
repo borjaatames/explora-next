@@ -5,7 +5,7 @@ categoria: girona
 slug: escapadas-costa-brava-desde-girona
 fecha: '2026-05-12'
 fecha_actualizacion: '2026-10-23'
-autor: Equipo ExploraSpain
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 3

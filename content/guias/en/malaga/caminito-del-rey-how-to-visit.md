@@ -6,7 +6,7 @@ categoria: "malaga"
 slug: "caminito-del-rey-how-to-visit"
 fecha: "2026-03-10"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 12

@@ -5,7 +5,7 @@ categoria: malaga
 slug: caminito-del-rey-tickets-sold-out
 fecha: '2026-10-23'
 fecha_actualizacion: '2026-10-23'
-autor: Equipo ExploraSpain
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/guias/caminito-del-rey-entradas-agotadas.jpg

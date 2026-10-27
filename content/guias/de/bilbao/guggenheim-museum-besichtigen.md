@@ -5,7 +5,7 @@ categoria: "bilbao"
 slug: "guggenheim-museum-besichtigen"
 fecha: "2026-03-24"
 fecha_actualizacion: "2026-03-24"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/museo-guggenheim-como-visitar.jpg"

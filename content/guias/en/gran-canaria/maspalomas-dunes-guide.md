@@ -5,7 +5,7 @@ categoria: gran-canaria
 slug: maspalomas-dunes-guide
 fecha: '2026-10-07'
 fecha_actualizacion: "2026-10-23"
-autor: ExploraSpain Team
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 7

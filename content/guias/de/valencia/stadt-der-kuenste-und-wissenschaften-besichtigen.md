@@ -5,7 +5,7 @@ categoria: "valencia"
 slug: "stadt-der-kuenste-und-wissenschaften-besichtigen"
 fecha: "2026-03-04"
 fecha_actualizacion: "2026-03-04"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 12

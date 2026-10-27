@@ -5,7 +5,7 @@ categoria: "mallorca"
 slug: "eating-in-mallorca"
 fecha: "2026-04-20"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-mallorca.jpg"

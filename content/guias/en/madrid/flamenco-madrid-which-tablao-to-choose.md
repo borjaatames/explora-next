@@ -4,7 +4,7 @@ descripcion: "Las Carboneras or Torres Bermejas? We compare price, atmosphere, d
 categoria: "madrid"
 slug: "flamenco-madrid-which-tablao-to-choose"
 fecha: "2026-09-06"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/madrid/tablao-las-carboneras/descarga-hero.webp"

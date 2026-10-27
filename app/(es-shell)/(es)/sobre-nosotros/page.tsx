@@ -96,6 +96,13 @@ export default function SobreNosotrosPage() {
             avisarnos y lo corregimos.
           </p>
 
+          <h2 id="autor" className="text-2xl md:text-3xl font-bold mt-12 mb-4">
+            Quién escribe las guías
+          </h2>
+          <p>
+            Las guías las escribe y revisa Borja, responsable de ExploraSpain.
+          </p>
+
           <h2 className="text-2xl md:text-3xl font-bold mt-12 mb-4">
             Cómo nos financiamos
           </h2>

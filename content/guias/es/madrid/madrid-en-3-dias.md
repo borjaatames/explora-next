@@ -6,7 +6,7 @@ categoria: "madrid"
 slug: "madrid-en-3-dias"
 fecha: "2026-02-15"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-en-3-dias.jpg"

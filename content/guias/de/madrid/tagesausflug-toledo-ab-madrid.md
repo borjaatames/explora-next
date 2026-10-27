@@ -5,7 +5,7 @@ categoria: "madrid"
 slug: "tagesausflug-toledo-ab-madrid"
 fecha: "2026-04-02"
 fecha_actualizacion: "2026-05-01"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"

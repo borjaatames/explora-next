@@ -5,7 +5,7 @@ categoria: "tarragona"
 slug: "roemisches-tarraco"
 fecha: "2026-04-21"
 fecha_actualizacion: "2026-04-21"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarraco-romana-que-ver.jpg"

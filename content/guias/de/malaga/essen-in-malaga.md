@@ -5,7 +5,7 @@ categoria: "malaga"
 slug: "essen-in-malaga"
 fecha: "2026-03-21"
 fecha_actualizacion: "2026-03-21"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 10

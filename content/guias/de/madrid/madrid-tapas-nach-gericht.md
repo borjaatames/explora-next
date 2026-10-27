@@ -5,7 +5,7 @@ categoria: "madrid"
 slug: "madrid-tapas-nach-gericht"
 fecha: "2026-08-17"
 fecha_actualizacion: "2026-08-17"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/tapas-madrid-criterio.jpg"

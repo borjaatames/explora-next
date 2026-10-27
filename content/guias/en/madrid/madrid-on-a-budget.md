@@ -5,7 +5,7 @@ categoria: "madrid"
 slug: "madrid-on-a-budget"
 fecha: "2026-03-08"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain editorial team"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/madrid-gratis.jpg"

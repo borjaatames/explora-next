@@ -6,7 +6,7 @@ categoria: "tarragona"
 slug: "portaventura-world-guia"
 fecha: "2026-05-01"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/portaventura-world-guia.jpg"

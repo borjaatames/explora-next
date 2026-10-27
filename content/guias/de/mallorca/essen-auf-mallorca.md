@@ -5,7 +5,7 @@ categoria: "mallorca"
 slug: "essen-auf-mallorca"
 fecha: "2026-04-20"
 fecha_actualizacion: "2026-04-20"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-mallorca.jpg"

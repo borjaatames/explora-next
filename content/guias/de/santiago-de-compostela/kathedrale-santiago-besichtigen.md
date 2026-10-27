@@ -5,7 +5,7 @@ categoria: "santiago-de-compostela"
 slug: "kathedrale-santiago-besichtigen"
 fecha: "2026-05-18"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/catedral-de-santiago-como-visitar.jpg"

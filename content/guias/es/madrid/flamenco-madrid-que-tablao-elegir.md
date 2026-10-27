@@ -4,7 +4,7 @@ descripcion: "Madrid tiene dos tablaos de flamenco reservables directamente: Las
 categoria: "madrid"
 slug: "flamenco-madrid-que-tablao-elegir"
 fecha: "2026-09-06"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/madrid/tablao-las-carboneras/descarga-hero.webp"

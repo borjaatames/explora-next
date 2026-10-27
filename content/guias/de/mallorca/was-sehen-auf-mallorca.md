@@ -5,7 +5,7 @@ categoria: "mallorca"
 slug: "was-sehen-auf-mallorca"
 fecha: "2026-03-07"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-mallorca.jpg"

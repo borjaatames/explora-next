@@ -4,7 +4,7 @@ descripcion: "Park Güell basic ticket (€21.50) or ticket with the Gaudí Hous
 categoria: "barcelona"
 slug: "park-guell-which-ticket-to-choose"
 fecha: "2026-09-20"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"

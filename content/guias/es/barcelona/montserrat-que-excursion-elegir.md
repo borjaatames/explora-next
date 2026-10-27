@@ -6,7 +6,7 @@ categoria: "barcelona"
 slug: "montserrat-que-excursion-elegir"
 fecha: "2026-09-20"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"

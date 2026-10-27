@@ -6,7 +6,7 @@ categoria: "valencia"
 slug: "comer-en-valencia-paella"
 fecha: "2026-03-16"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 4

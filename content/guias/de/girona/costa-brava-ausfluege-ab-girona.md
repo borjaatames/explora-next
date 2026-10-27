@@ -5,7 +5,7 @@ categoria: "girona"
 slug: "costa-brava-ausfluege-ab-girona"
 fecha: "2026-05-12"
 fecha_actualizacion: "2026-05-12"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 11

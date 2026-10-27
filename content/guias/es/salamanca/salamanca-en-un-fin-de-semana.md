@@ -6,7 +6,7 @@ categoria: "salamanca"
 slug: "salamanca-en-un-fin-de-semana"
 fecha: "2026-04-29"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/salamanca-en-un-fin-de-semana.jpg"

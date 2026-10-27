@@ -6,7 +6,7 @@ categoria: tenerife
 slug: que-ver-en-tenerife
 fecha: '2026-10-07'
 fecha_actualizacion: "2026-10-23"
-autor: Equipo ExploraSpain
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 5

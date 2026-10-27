@@ -5,7 +5,7 @@ categoria: "mallorca"
 slug: "schoenste-buchten-mallorca"
 fecha: "2026-03-29"
 fecha_actualizacion: "2026-03-29"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/mejores-calas-mallorca.jpg"

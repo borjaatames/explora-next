@@ -6,7 +6,7 @@ categoria: "alicante"
 slug: "what-to-see-in-alicante"
 fecha: "2026-03-26"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-alicante.jpg"

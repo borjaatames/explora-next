@@ -4,7 +4,7 @@ descripcion: "5 Montserrat excursions from Barcelona compared, from €47: price
 categoria: "barcelona"
 slug: "montserrat-which-excursion-to-choose"
 fecha: "2026-09-20"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"

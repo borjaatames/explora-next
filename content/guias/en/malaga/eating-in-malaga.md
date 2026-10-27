@@ -5,7 +5,7 @@ categoria: "malaga"
 slug: "eating-in-malaga"
 fecha: "2026-03-21"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 10

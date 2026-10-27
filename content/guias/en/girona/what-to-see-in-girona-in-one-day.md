@@ -5,7 +5,7 @@ categoria: girona
 slug: what-to-see-in-girona-in-one-day
 fecha: '2026-04-25'
 fecha_actualizacion: "2026-10-23"
-autor: ExploraSpain Team
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 3

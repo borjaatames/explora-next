@@ -5,7 +5,7 @@ categoria: "tarragona"
 slug: "tarragona-in-einem-tag"
 fecha: "2026-04-10"
 fecha_actualizacion: "2026-04-10"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarragona-en-un-dia.jpg"

@@ -6,7 +6,7 @@ categoria: "valencia"
 slug: "ciudad-artes-ciencias-como-visitar"
 fecha: "2026-03-04"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 4

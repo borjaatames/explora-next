@@ -6,7 +6,7 @@ categoria: "sevilla"
 slug: "sevilla-en-1-dia"
 fecha: "2026-03-15"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-en-1-dia.jpg"

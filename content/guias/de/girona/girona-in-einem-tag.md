@@ -5,7 +5,7 @@ categoria: "girona"
 slug: "girona-in-einem-tag"
 fecha: "2026-04-25"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 11

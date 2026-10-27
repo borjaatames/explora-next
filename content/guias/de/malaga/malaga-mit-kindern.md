@@ -5,7 +5,7 @@ categoria: "malaga"
 slug: "malaga-mit-kindern"
 fecha: "2026-04-01"
 fecha_actualizacion: "2026-04-01"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 10

@@ -5,7 +5,7 @@ categoria: granada
 slug: alhambra-como-visitar
 fecha: '2026-05-02'
 fecha_actualizacion: '2026-10-17'
-autor: Equipo ExploraSpain
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: /images/guias/alhambra-como-visitar.jpg

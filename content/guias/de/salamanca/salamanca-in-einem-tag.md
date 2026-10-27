@@ -5,7 +5,7 @@ categoria: "salamanca"
 slug: "salamanca-in-einem-tag"
 fecha: "2026-04-28"
 fecha_actualizacion: "2026-05-02"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/salamanca-en-1-dia.jpg"

@@ -6,7 +6,7 @@ categoria: "barcelona"
 slug: "sagrada-familia-como-visitar"
 fecha: "2026-05-02"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sagrada-familia-como-visitar.jpg"

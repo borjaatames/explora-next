@@ -6,7 +6,7 @@ slug: "malaga-with-kids"
 fecha: "2026-04-01"
 fecha_actualizacion: "2026-10-23"
 respuestaCorta: 'With kids, Málaga works best mixing short doses of history with beach and animals: **La Malagueta beach** at the foot of the centre, the **Alcazaba** (free for under-16s), **Bioparc Fuengirola** (45 minutes by train, from €23 for children) and the **Benalmádena cable car**. Spring and autumn are ideal; in summer, avoid the centre between 14:00 and 18:00.'
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 10

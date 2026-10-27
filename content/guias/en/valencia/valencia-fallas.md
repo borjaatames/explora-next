@@ -5,7 +5,7 @@ categoria: "valencia"
 slug: "valencia-fallas"
 fecha: "2026-10-23"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain editorial team"
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 4

@@ -6,7 +6,7 @@ slug: "bilbao-with-kids"
 fecha: "2026-04-15"
 fecha_actualizacion: "2026-10-23"
 respuestaCorta: 'Bilbao is easy with kids: flat along the river, with the **Artxanda funicular** (3 minutes up, every 15 minutes), the free **Guggenheim sculptures** outside and family beaches at **Plentzia and Gorliz** about 40 minutes away by metro line 1. Buy a **Barik card** (€3) on arrival; one card covers the whole family on metro, tram and funicular.'
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/bilbao-con-ninos.jpg"

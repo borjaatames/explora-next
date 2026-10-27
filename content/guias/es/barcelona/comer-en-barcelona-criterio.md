@@ -6,7 +6,7 @@ categoria: "barcelona"
 slug: "comer-en-barcelona-criterio"
 fecha: "2026-04-29"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-barcelona-criterio.jpg"

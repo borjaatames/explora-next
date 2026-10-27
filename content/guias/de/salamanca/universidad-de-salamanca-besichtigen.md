@@ -5,7 +5,7 @@ categoria: "salamanca"
 slug: "universidad-de-salamanca-besichtigen"
 fecha: "2026-04-29"
 fecha_actualizacion: "2026-05-02"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/universidad-de-salamanca-como-visitar.jpg"

@@ -6,7 +6,7 @@ categoria: fuerteventura
 slug: isla-de-lobos-anreise
 fecha: '2026-10-24'
 fecha_actualizacion: '2026-10-24'
-autor: ExploraSpain Redaktion
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 6

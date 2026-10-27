@@ -6,7 +6,7 @@ categoria: "granada"
 slug: "flamenco-cueva-sacromonte-cual-elegir"
 fecha: "2026-09-06"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"

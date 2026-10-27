@@ -5,7 +5,7 @@ categoria: "mallorca"
 slug: "serra-tramuntana-soller"
 fecha: "2026-03-18"
 fecha_actualizacion: "2026-03-18"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/actividades/mallorca/soller/port-de-soller-vista.webp"

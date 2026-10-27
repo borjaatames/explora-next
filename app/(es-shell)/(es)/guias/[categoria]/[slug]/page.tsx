@@ -152,8 +152,10 @@ export default async function GuiaPage({ params }: Props) {
     datePublished: guia.fecha,
     dateModified: guia.fecha_actualizacion || guia.fecha,
     author: {
-      "@type": "Organization",
-      name: guia.autor || "ExploraSpain",
+      "@type": "Person",
+      name: guia.autor || "Borja",
+      url: `${SITE_URL}/sobre-nosotros#autor`,
+      worksFor: { "@type": "Organization", name: "ExploraSpain" },
     },
     publisher: {
       "@type": "Organization",

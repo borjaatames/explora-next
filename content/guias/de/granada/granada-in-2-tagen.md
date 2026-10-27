@@ -5,7 +5,7 @@ categoria: "granada"
 slug: "granada-in-2-tagen"
 fecha: "2026-05-19"
 fecha_actualizacion: "2026-05-02"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/granada-en-2-dias.jpg"

@@ -5,7 +5,7 @@ categoria: "cordoba"
 slug: "cordoba-in-one-day"
 fecha: "2026-03-20"
 fecha_actualizacion: "2026-10-07"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 12

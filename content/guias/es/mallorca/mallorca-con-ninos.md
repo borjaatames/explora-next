@@ -5,7 +5,7 @@ categoria: mallorca
 slug: mallorca-con-ninos
 fecha: '2026-04-09'
 fecha_actualizacion: '2026-10-17'
-autor: Equipo ExploraSpain
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/guias/mallorca-con-ninos.jpg

@@ -5,7 +5,7 @@ categoria: "granada"
 slug: "granada-con-ninos"
 fecha: "2026-05-02"
 fecha_actualizacion: '2026-10-17'
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/granada-con-ninos.jpg"

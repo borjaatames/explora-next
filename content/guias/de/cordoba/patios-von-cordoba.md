@@ -5,7 +5,7 @@ categoria: "cordoba"
 slug: "patios-von-cordoba"
 fecha: "2026-04-12"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 10

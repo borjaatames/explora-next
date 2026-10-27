@@ -5,7 +5,7 @@ categoria: tenerife
 slug: was-sehen-auf-teneriffa
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'
-autor: ExploraSpain Redaktion
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 12

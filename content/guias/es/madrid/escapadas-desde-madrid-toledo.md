@@ -6,7 +6,7 @@ categoria: "madrid"
 slug: "escapadas-desde-madrid-toledo"
 fecha: "2026-04-02"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"

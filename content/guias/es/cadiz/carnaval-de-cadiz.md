@@ -6,7 +6,7 @@ categoria: "cadiz"
 slug: "carnaval-de-cadiz"
 fecha: "2026-04-29"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/carnaval-de-cadiz.jpg"

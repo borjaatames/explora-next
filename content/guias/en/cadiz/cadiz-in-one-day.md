@@ -6,7 +6,7 @@ categoria: "cadiz"
 slug: "cadiz-in-one-day"
 fecha: "2026-04-18"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/cadiz-en-un-dia.jpg"

@@ -6,7 +6,7 @@ categoria: "valencia"
 slug: "escapadas-desde-valencia"
 fecha: "2026-04-08"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 4

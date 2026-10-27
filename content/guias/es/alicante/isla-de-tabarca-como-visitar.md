@@ -6,7 +6,7 @@ categoria: "alicante"
 slug: "isla-de-tabarca-como-visitar"
 fecha: "2026-04-06"
 fecha_actualizacion: "2026-10-23"
-autor: "Equipo ExploraSpain"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/isla-de-tabarca-como-visitar.jpg"

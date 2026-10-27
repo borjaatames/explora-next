@@ -6,7 +6,7 @@ categoria: "valencia"
 slug: "city-of-arts-sciences-how-to-visit"
 fecha: "2026-03-04"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 12

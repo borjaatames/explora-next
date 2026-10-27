@@ -6,7 +6,7 @@ categoria: gran-canaria
 slug: what-to-see-in-gran-canaria
 fecha: '2026-10-07'
 fecha_actualizacion: "2026-10-23"
-autor: ExploraSpain Team
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 11

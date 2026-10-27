@@ -5,7 +5,7 @@ categoria: "salamanca"
 slug: "salamanca-wochenendtrip"
 fecha: "2026-04-29"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/salamanca-en-un-fin-de-semana.jpg"

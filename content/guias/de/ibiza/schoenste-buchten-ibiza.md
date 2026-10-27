@@ -5,7 +5,7 @@ categoria: "ibiza"
 slug: "schoenste-buchten-ibiza"
 fecha: "2026-04-14"
 fecha_actualizacion: "2026-04-14"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 11

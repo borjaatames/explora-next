@@ -5,7 +5,7 @@ categoria: "cadiz"
 slug: "straende-costa-de-la-luz-cadiz"
 fecha: "2026-05-07"
 fecha_actualizacion: "2026-05-07"
-autor: "ExploraSpain Redaktion"
+autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/playas-cadiz-costa-de-la-luz.jpg"

@@ -5,7 +5,7 @@ categoria: "valencia"
 slug: "valencia-with-kids"
 fecha: "2026-03-27"
 fecha_actualizacion: "2026-10-07"
-autor: "ExploraSpain Team"
+autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 11

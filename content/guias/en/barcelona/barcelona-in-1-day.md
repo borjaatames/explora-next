@@ -5,7 +5,7 @@ categoria: "barcelona"
 slug: "barcelona-in-1-day"
 fecha: "2026-04-29"
 fecha_actualizacion: "2026-10-23"
-autor: "ExploraSpain editorial team"
+autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/barcelona-en-1-dia.jpg"
