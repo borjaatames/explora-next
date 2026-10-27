@@ -4,7 +4,8 @@ descripcion: 'Guía de los escenarios de Juego de Tronos en Girona: la escalinat
 categoria: girona
 slug: girona-juego-de-tronos
 fecha: '2026-05-05'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true

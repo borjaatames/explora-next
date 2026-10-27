@@ -5,7 +5,8 @@ categoria: "barcelona"
 slug: "flamenco-barcelona-que-tablao-elegir"
 fecha: "2026-09-06"
 autor: Borja
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-flamenco-bailaor-hero.webp"
@@ -59,7 +60,7 @@ Precios oficiales de cada nivel en 2026:
 - **Teatro City Hall:** Standard 25 € (sin bebida), Premium 40 € (una bebida), VIP 55 € (dos bebidas o una botella de cava o vino). El show dura una hora. No se vende comida con la entrada.
 - **Palau Dalmases:** Zona B 30 € (filas traseras, sin bebida), Zona A 40 € (filas centrales, una bebida), VIP 50 € (primeras filas, una bebida). Los niños pagan 15 €, o 20 € en VIP. Todas incluyen la galería de arte del palacio. Se pueden añadir tapas (18 €) o cena española (35 €). Show de 50-55 minutos. La Zona A es la de mejor relación calidad-precio.
 - **Tablao de Carmen:** desde 88 € con el menú Carmen de tres platos y una bebida; hay también menú de tapas y un menú superior. No existe entrada solo show. Cuenta 2-3 horas en total.
-- **Tablao Cordobés:** show y una bebida 48 €; con tapas 69 €; con bufé de más de 40 tapas y bebida ilimitada 84 €; con menú servido en el restaurante 89 €. La cena va antes del show, que dura 1 h 20.
+- **Tablao Cordobés:** show y una bebida 48 €; con tapas 69 €; con bufé de más de 40 tapas y bebida ilimitada 84 €; con menú servido en el restaurante 89 €. La cena va antes del show, que dura unos 70-75 minutos.
 
 Los cuatro tienen cancelación gratuita hasta 24 horas antes.
 
@@ -69,8 +70,8 @@ Los cuatro tienen cancelación gratuita hasta 24 horas antes.
 |---|---|---|---|
 | Teatro City Hall | 17:00, 18:45, 20:30, 22:00 | Junto a Plaça de Catalunya | Catalunya (L1/L3) |
 | Palau Dalmases | 17:30, 18:45, 20:00, 21:15 | Carrer Montcada 20, El Born, junto al Museo Picasso | Jaume I (L4) |
-| Tablao de Carmen | Turnos de 18:00 y 20:30 (shows hacia las 19:00 y las 22:00) | Dentro del Poble Espanyol, Montjuïc | Espanya y bus 150 o 13 |
-| Tablao Cordobés | Normalmente de 16:30 a 22:30, cinco sesiones | La Rambla 33-35 | Liceu (L3) |
+| Tablao de Carmen | Turnos de 18:00 y 20:30 (shows a las 18:45 y las 21:15; cierra los martes) | Dentro del Poble Espanyol, Montjuïc | Espanya y bus 150 o 13 |
+| Tablao Cordobés | Normalmente de 16:30 a 22:30, cuatro sesiones | La Rambla 33-35 | Liceu (L3) |
 
 Comprueba el horario de tu fecha al reservar. De Plaça d'Espanya al Poble Espanyol hay 15 minutos de cuesta, así que mejor el bus 150, que para en la puerta.
 

@@ -4,7 +4,8 @@ descripcion: 'The best day trips from Girona: Figueres and the Dalí Theatre-Mus
 categoria: girona
 slug: costa-brava-day-trips-from-girona
 fecha: '2026-05-12'
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -17,13 +18,13 @@ keywords:
 - besalu
 faq:
   - pregunta: "How do I get from Girona to Figueres and the Dalí Theatre-Museum without a car?"
-    respuesta: "By train: Figueres is about 40 minutes from Girona and it's the only day trip that works well on public transport. The guided tour of the Dalí Theatre-Museum costs from €31, lasts 1 hour and includes skip-the-line entry; allow 2 hours to see the whole museum. Timed tickets sell out in high season, so book a few days ahead."
+    respuesta: "By train: Figueres is 15 minutes from Girona by high-speed train (30–35 by regional train) and it's the only day trip that works well on public transport. The guided tour of the Dalí Theatre-Museum costs from €31, lasts 1 hour and includes skip-the-line entry; allow 2 hours to see the whole museum. Timed tickets sell out in high season, so book a few days ahead."
   - pregunta: "Can I get to Cadaqués from Girona without a car?"
     respuesta: "Cadaqués is 1 h 15 by car and public transport there is poor. The easiest alternative is the boat from Roses along Cap de Creus, from €27: about 3 h 30 in total, with 1 h 30 free in Cadaqués. It also spares you the 20 minutes of hairpin bends on the road from Roses."
   - pregunta: "Do I need to book Dalí's house in Portlligat?"
     respuesta: "Yes. The Portlligat House-Museum in Cadaqués can only be visited with an advance booking, in small groups entering every 10 minutes, and without one you won't get in even in low season. It isn't included in the Roses–Cadaqués boat or the Figueres Theatre-Museum tour: book it separately."
   - pregunta: "Which day trips from Girona can be combined in one day?"
-    respuesta: "Figueres and Besalú combine well: Figueres is 40 minutes by train and Besalú 45 minutes by car. Cadaqués or the Costa Brava coves, on the other hand, fill a whole day, so don't pair them with another long trip."
+    respuesta: "Figueres and Besalú combine well: Figueres is 15 minutes by high-speed train and Besalú 45 minutes by car. Cadaqués or the Costa Brava coves, on the other hand, fill a whole day, so don't pair them with another long trip."
   - pregunta: "When should I go to the coves of Begur and Calella de Palafrugell in summer?"
     respuesta: "They're about 50 minutes from Girona by car, but the car parks are small and fill up by around 10:30 in July and August. Arrive before 9:00, use the shuttle buses Begur runs in summer or go late in the afternoon, when the light is also at its best."
 slugs:
@@ -31,7 +32,7 @@ slugs:
   en: costa-brava-day-trips-from-girona
   de: costa-brava-ausfluege-ab-girona
 reservasArriba: true
-respuestaCorta: 'From Girona, the **Dalí Theatre-Museum in Figueres** is 40 minutes by train, **Besalú** 45 minutes by car and **Cadaqués** 1 h 15. Without a car, the easiest option is the train to Figueres and a guided tour of the Dalí Theatre-Museum (from €31), or a boat trip, such as Roses–Cadaqués around Cap de Creus (from €27).'
+respuestaCorta: 'From Girona, the **Dalí Theatre-Museum in Figueres** is 15 minutes by high-speed train, **Besalú** 45 minutes by car and **Cadaqués** 1 h 15. Without a car, the easiest option is the train to Figueres and a guided tour of the Dalí Theatre-Museum (from €31), or a boat trip, such as Roses–Cadaqués around Cap de Creus (from €27).'
 actividades:
   - costa-brava-kayak-esnorquel-cuevas-sagaro
   - roses-cadaques-barco-cap-de-creus
@@ -63,7 +64,7 @@ The last two leave from Barcelona, not Girona. If you're sleeping in Girona, the
 
 | Destination | From Girona | Best for |
 | --- | --- | --- |
-| Figueres | 35–40 min (train) | The Dalí Theatre-Museum |
+| Figueres | 15 min (high-speed) or 30–35 (regional) | The Dalí Theatre-Museum |
 | Cadaqués and Cap de Creus | 1h 15 min (car) | White village and Dalí's house |
 | Besalú | 45 min (car) | Medieval village and Romanesque bridge |
 | Calella de Palafrugell / Begur | 50 min (car) | Coves and fishing villages |
@@ -91,7 +92,7 @@ The last two leave from Barcelona, not Girona. If you're sleeping in Girona, the
 - **Dalí's house in Portlligat** (Cadaqués) can only be visited with advance booking, in small groups entering every 10 minutes. Collect your ticket 30 minutes before your slot or you can lose it. It closes from early January to mid-February, and backpacks and strollers aren't allowed inside.
 - **Cadaqués in summer:** the only road in is a winding one and the village closes its centre to traffic. Arrive before 10:00 or leave the car in the car park at the entrance and walk.
 - **The coves of Begur and Palafrugell** have small car parks that fill by 10:30 in July and August. Arrive by 9:00, use the shuttle buses Begur runs in summer, or go late in the afternoon, when the light is best.
-- **Empúries:** €6 (free on the first Sunday of the month and for under-16s). Bring a swimsuit: the beach is right next to the ruins.
+- **Empúries:** €7 (free on the first Sunday of the month, except July to September, and for under-16s). Bring a swimsuit: the beach is right next to the ruins.
 - **Besalú:** the bridge and the old town are free; the mikveh (medieval Jewish bath) can only be seen on the tourist office's guided tour, which is worth booking.
 
 ## Getting around

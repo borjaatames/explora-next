@@ -4,7 +4,8 @@ descripcion: "Die Alhambra in Granada mit Plan besichtigen: Tickettypen, offizie
 categoria: "granada"
 slug: "alhambra-besichtigen"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true
@@ -127,7 +128,7 @@ Die Alhambra liegt auf dem Sabikahügel oberhalb des Zentrums von Granada. **Dre
 
 | Option | Details |
 | --- | --- |
-| Kleinbus C30 / C32 | Ab Plaza Isabel la Católica, 1,40 €, alle 8 Min. |
+| Kleinbus C30 / C32 | Ab Plaza Isabel la Católica, 1,60 €, alle 8 Min. |
 | Zu Fuß von Plaza Nueva | 25–30 Min. bergauf über die Cuesta de Gomérez |
 | Taxi | 8–10 € vom Zentrum |
 

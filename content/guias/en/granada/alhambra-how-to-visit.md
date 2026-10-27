@@ -4,7 +4,8 @@ descripcion: 'How to visit the Alhambra in Granada: which visit to choose for yo
 categoria: granada
 slug: alhambra-how-to-visit
 fecha: '2026-05-02'
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true
@@ -118,7 +119,7 @@ A full visit takes **about 4 hours**.
 
 ## Getting there and opening hours
 
-- **C30 or C32 minibus** from Plaza Isabel la Católica: €1.40, every 8 minutes.
+- **C30 or C32 minibus** from Plaza Isabel la Católica: €1.60, every 8 minutes.
 - **On foot** from Plaza Nueva up the Cuesta de Gomérez: a 25-30 minute climb.
 - **Taxi** from the centre: €8-10.
 - **Summer hours** (1 April to 14 October): 8:30 to 20:00, last entry to the Nasrid Palaces at 19:00. **Winter**: 8:30 to 18:00, last entry at 17:00. Closed on 25 December and 1 January.

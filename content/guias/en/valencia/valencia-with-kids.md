@@ -4,7 +4,8 @@ descripcion: "Valencia with kids: Oceanogràfic, City of Arts, Bioparc, the beac
 categoria: "valencia"
 slug: "valencia-with-kids"
 fecha: "2026-03-27"
-fecha_actualizacion: "2026-10-07"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false

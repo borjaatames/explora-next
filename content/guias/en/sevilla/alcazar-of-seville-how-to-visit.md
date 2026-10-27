@@ -4,7 +4,8 @@ descripcion: 'How to visit the Royal Alcázar of Seville: 2026 prices, opening h
 categoria: sevilla
 slug: alcazar-of-seville-how-to-visit
 fecha: '2026-04-29'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true

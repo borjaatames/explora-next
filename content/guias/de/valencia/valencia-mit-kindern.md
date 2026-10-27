@@ -4,7 +4,8 @@ descripcion: "Ratgeber für Valencia mit Kindern: Oceanogràfic, Stadt der Küns
 categoria: "valencia"
 slug: "valencia-mit-kindern"
 fecha: "2026-03-27"
-fecha_actualizacion: "2026-03-27"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false

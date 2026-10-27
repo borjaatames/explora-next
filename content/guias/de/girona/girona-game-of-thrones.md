@@ -4,7 +4,8 @@ descripcion: "Guide zu den Game-of-Thrones-Drehorten in Girona: die Kathedralent
 categoria: "girona"
 slug: "girona-game-of-thrones"
 fecha: "2026-05-05"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true

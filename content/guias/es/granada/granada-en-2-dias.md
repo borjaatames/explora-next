@@ -5,7 +5,8 @@ respuestaCorta: 'Dos días bastan si **reservas la Alhambra con al menos tres se
 categoria: "granada"
 slug: "granada-en-2-dias"
 fecha: "2026-05-19"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true
@@ -43,7 +44,7 @@ actividades:
 
 ## Antes de nada: la entrada de la Alhambra
 
-Sácala en `tickets.alhambra-patronato.es`: **22,27 €**, con hora fija para los Palacios Nazaríes y tolerancia cero si llegas tarde. Se vende con hasta tres meses de antelación y vuela con tres semanas en primavera y otoño. Menores de 12 gratis, con ticket; piden el DNI. Si está agotada: nocturna de los Nazaríes (12,73 €) o tour guiado con cupo propio (45-65 €). Nunca en reventa. Detalle en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar).
+Sácala en `tickets.alhambra-patronato.es`: **22,27 €**, con hora fija para los Palacios Nazaríes y solo media hora de margen: si llegas más tarde, pierdes los Nazaríes. Se vende con hasta tres meses de antelación y vuela con tres semanas en primavera y otoño. Menores de 12 gratis, con ticket; piden el DNI. Si está agotada: nocturna de los Nazaríes (12,73 €) o tour guiado con cupo propio (45-65 €). Nunca en reventa. Detalle en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar).
 
 ## Cuándo ir y cómo llegar
 
@@ -73,7 +74,7 @@ Sácala en `tickets.alhambra-patronato.es`: **22,27 €**, con hora fija para lo
 
 **Tapas.** En Granada **la tapa es gratis con la bebida**: con tres cañas (1,80-2,50 €) se come. Los Diamantes (Navas, 28), pescaíto frito; Casa Julio (Hermosa, 5), boquerones; La Riviera (Elvira, 30), tapas elaboradas. Antes de las 14:00 o después de las 15:30.
 
-**Carrera del Darro y Albaicín.** La calle más bonita de Granada, con el río a un lado y la Alhambra encima; párate en el **Bañuelo** (baños árabes del XI, 5 €). Al Albaicín, andando por la Cuesta del Chapiz (25 minutos de cuesta) o en el microbús C32 desde Plaza Nueva (1,40 €).
+**Carrera del Darro y Albaicín.** La calle más bonita de Granada, con el río a un lado y la Alhambra encima; párate en el **Bañuelo** (baños árabes del XI, 5 €). Al Albaicín, andando por la Cuesta del Chapiz (25 minutos de cuesta) o en el microbús C32 desde Plaza Nueva (1,60 €).
 
 **Atardecer.** **San Nicolás** es la postal: llega 45 minutos antes. Si la multitud te lo estropea, 10 minutos más arriba está **San Cristóbal**, con la mitad de gente.
 
@@ -89,7 +90,7 @@ Sácala en `tickets.alhambra-patronato.es`: **22,27 €**, con hora fija para lo
 | 16:30-18:00 | Monasterio de la Cartuja |
 | 18:30-23:00 | Paseo y cena |
 
-**Capilla Real:** los sepulcros de los Reyes Católicos, Juana la Loca y Felipe el Hermoso, la corona y el cetro de Isabel y tablas de Memling y Botticelli. 7 €, 60 minutos. Al lado, la **Catedral** renacentista, blanca y luminosa: 7 €, con combinada. Los martes hay más gente (los granadinos entran gratis).
+**Capilla Real:** los sepulcros de los Reyes Católicos, Juana la Loca y Felipe el Hermoso, la corona y el cetro de Isabel y tablas de Memling y Botticelli. 7 €, 60 minutos. Al lado, la **Catedral** renacentista, blanca y luminosa: 7 € (10 € hasta el 28 de noviembre de 2026, por la exposición Kerygma), con combinada. Los martes hay más gente (los granadinos entran gratis).
 
 **Alcaicería, Bib-Rambla, Madraza y Corral del Carbón.** La Alcaicería es souvenir puro; en Bib-Rambla, una caña sí, comer no. La **Madraza** (oratorio nazarí) y el **Corral del Carbón** (único almacén nazarí de España) son gratis, 15 minutos cada uno.
 
@@ -101,7 +102,7 @@ Sácala en `tickets.alhambra-patronato.es`: **22,27 €**, con hora fija para lo
 
 ## Transporte
 
-Autobús urbano, 1,40 € (0,87 € con la tarjeta Credibús). Los microbuses C30, C31 y C32 suben a la Alhambra, el Albaicín y el Sacromonte desde Plaza Nueva. Si te sobra una hora, **San Jerónimo** (6 €) tiene el mejor retablo renacentista de la ciudad y ningún turista.
+Autobús urbano, 1,60 € (menos de 0,90 € con la tarjeta Credibús). Los microbuses C30, C31 y C32 suben a la Alhambra, el Albaicín y el Sacromonte desde Plaza Nueva. Si te sobra una hora, **San Jerónimo** (7 €) tiene el mejor retablo renacentista de la ciudad y ningún turista.
 
 ## Dónde dormir
 

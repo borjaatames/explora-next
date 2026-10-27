@@ -4,7 +4,8 @@ descripcion: 'Cómo visitar el Real Alcázar de Sevilla: precios 2026, horarios,
 categoria: sevilla
 slug: alcazar-de-sevilla-como-visitar
 fecha: '2026-04-29'
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true

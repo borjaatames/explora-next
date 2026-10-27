@@ -4,7 +4,8 @@ descripcion: "Granada in 2 Tagen mit Plan: Alhambra, Albaicín, Sacromonte, Zent
 categoria: "granada"
 slug: "granada-in-2-tagen"
 fecha: "2026-05-19"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true
@@ -111,7 +112,7 @@ Die Calle Navas bündelt viele der besten Theken. **Bar Los Diamantes** (Navas, 
 
 Zurück zur Plaza Nueva und Beginn der **Carrera del Darro** flussaufwärts. Wahrscheinlich die schönste Straße Granadas: der Darro links, Häuser mit Wappen, kleine Brücken, die Alhambra am rechten Hang. Die meisten überqueren sie in 10 Minuten, dabei lohnt sich ein Halt. Auf halber Strecke der **Bañuelo** (Carrera del Darro, 31), arabische Bäder aus dem 11. Jahrhundert: 5 €, Dienstag bis Sonntag, 20 Minuten Besichtigung, sehr gut erhalten. Die Straße endet am **Paseo de los Tristes**, mit der Alhambra direkt darüber.
 
-Um in den Albaicín hinaufzugehen, hast du zwei Optionen: **zu Fuß** über die Cuesta del Chapiz (20–25 Minuten steil bergauf, Aussicht wird immer besser) oder **Bus C32** ab Plaza Nueva (1,40 €, hält in 10 Minuten nahe am Mirador de San Nicolás).
+Um in den Albaicín hinaufzugehen, hast du zwei Optionen: **zu Fuß** über die Cuesta del Chapiz (20–25 Minuten steil bergauf, Aussicht wird immer besser) oder **Bus C32** ab Plaza Nueva (1,60 €, hält in 10 Minuten nahe am Mirador de San Nicolás).
 
 **19:30 – 21:00 Uhr | Mirador de San Nicolás (oder San Cristóbal)**
 
@@ -163,7 +164,7 @@ Bestelle mit Bedacht: **plato alpujarreño** (Schinken, Lendenwurst, Blutwurst, 
 
 Die wichtigste Empfehlung dieses Guides und die, die die meisten Besucher verpassen: Das **Kloster La Cartuja** liegt außerhalb des Zentrums, weshalb 80 % der Touristen es auslassen. Das ist ein Fehler. Es ist **einer der Höhepunkte des spanischen Barock**: Die 1742 fertiggestellte Sakristei ist ein Rausch aus weißem und rotem Marmor, Stuck und bemalten Gewölben. Der Tabernakel mit seiner Spiegelkammer gehört zu den hypnotischsten Dingen Andalusiens.
 
-Bus 8 ab Gran Vía (15 Minuten, 1,40 €) oder 30 Minuten zu Fuß über eine mäßige Steigung. Eintritt **7 €**. Öffnungszeiten: Sonntag bis Freitag 10:00–18:30 Uhr, Samstag 10:00–12:15 Uhr und 15:00–17:30 Uhr. Besichtigung 60–75 Minuten.
+Bus 8 ab Gran Vía (15 Minuten, 1,60 €) oder 30 Minuten zu Fuß über eine mäßige Steigung. Eintritt **7 €**. Öffnungszeiten: Sonntag bis Freitag 10:00–18:30 Uhr, Samstag 10:00–12:15 Uhr und 15:00–17:30 Uhr. Besichtigung 60–75 Minuten.
 
 **18:30 – 23:00 Uhr | Letzter Nachmittag und Abendessen**
 
@@ -209,7 +210,7 @@ Drei Grundsätze, die vor Ärger schützen:
 
 **1. Das Alhambra-Ticket nicht im Voraus buchen.** Der häufigste Fehler, wöchentlich wiederholt. Ohne die Nasridenpaläste bleibt Granada unvollständig.
 
-**2. Zu spät zur Uhrzeit der Nasridenpaläste kommen.** Null Toleranz: Ist deine Uhrzeit 10:30 Uhr, kommst du um 10:35 Uhr nicht mehr hinein. Komm 30 Minuten früher mit heruntergeladenem QR-Code.
+**2. Zu spät zur Uhrzeit der Nasridenpaläste kommen.** Nur eine halbe Stunde Spielraum: Ist deine Uhrzeit 10:30 Uhr, kommst du nach 11:00 Uhr nicht mehr hinein. Komm 30 Minuten früher mit heruntergeladenem QR-Code.
 
 **3. Mit Stadtschuhen in den Albaicín hinaufsteigen.** Gepflasterte, unebene und lange Steigungen. High Heels, dünne Sandalen oder glatte Sohlen sind keine gute Idee.
 

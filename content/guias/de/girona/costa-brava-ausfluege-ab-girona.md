@@ -4,7 +4,8 @@ descripcion: "Die besten Ausflüge ab Girona: Figueres mit dem Dalí-Theatermuse
 categoria: "girona"
 slug: "costa-brava-ausfluege-ab-girona"
 fecha: "2026-05-12"
-fecha_actualizacion: "2026-05-12"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -18,13 +19,13 @@ keywords:
   - "tagesausflüge girona"
 faq:
   - pregunta: "Wie komme ich ohne Auto von Girona nach Figueres und zum Dalí-Theatermuseum?"
-    respuesta: "Mit dem Zug: Figueres liegt etwa 40 Minuten von Girona entfernt und ist der einzige Ausflug, der mit öffentlichen Verkehrsmitteln gut klappt. Die Führung durch das Dalí-Theatermuseum kostet ab 31 €, dauert 1 Stunde und enthält den Eintritt ohne Anstehen an der Kasse; für das ganze Museum solltest du 2 Stunden einplanen. In der Saison sind die Zeitfenster-Tickets schnell weg, also reservier ein paar Tage vorher."
+    respuesta: "Mit dem Zug: Figueres liegt 15 Minuten (Schnellzug) bzw. 30–35 Minuten (Regionalzug) von Girona entfernt und ist der einzige Ausflug, der mit öffentlichen Verkehrsmitteln gut klappt. Die Führung durch das Dalí-Theatermuseum kostet ab 31 €, dauert 1 Stunde und enthält den Eintritt ohne Anstehen an der Kasse; für das ganze Museum solltest du 2 Stunden einplanen. In der Saison sind die Zeitfenster-Tickets schnell weg, also reservier ein paar Tage vorher."
   - pregunta: "Komme ich ohne Auto von Girona nach Cadaqués?"
     respuesta: "Cadaqués liegt 1 Std. 15 Min. mit dem Auto entfernt, und der öffentliche Verkehr kommt nur schlecht hin. Am bequemsten ist das Boot ab Roses um das Cap de Creus, ab 27 €: insgesamt etwa 3 Std. 30 Min., davon 1 Std. 30 Min. Freizeit in Cadaqués. So sparst du dir auch die 20 Minuten Kurven auf der Straße ab Roses."
   - pregunta: "Muss ich Dalís Haus in Portlligat reservieren?"
     respuesta: "Ja. Das Haus-Museum in Portlligat bei Cadaqués kannst du nur mit Reservierung besuchen, in kleinen Gruppen, die alle 10 Minuten eingelassen werden; ohne Termin kommst du nicht einmal in der Nebensaison hinein. Es ist weder im Boot Roses–Cadaqués noch in der Führung durch das Theatermuseum in Figueres enthalten: Reservier es separat."
   - pregunta: "Welche Ausflüge ab Girona lassen sich an einem Tag kombinieren?"
-    respuesta: "Figueres und Besalú passen gut zusammen: Figueres ist 40 Minuten mit dem Zug entfernt, Besalú 45 Minuten mit dem Auto. Cadaqués oder die Buchten der Costa Brava füllen dagegen jeweils einen ganzen Tag, kombinier sie also nicht mit einem zweiten weiten Ausflug."
+    respuesta: "Figueres und Besalú passen gut zusammen: Figueres ist 15 Minuten mit dem Schnellzug entfernt, Besalú 45 Minuten mit dem Auto. Cadaqués oder die Buchten der Costa Brava füllen dagegen jeweils einen ganzen Tag, kombinier sie also nicht mit einem zweiten weiten Ausflug."
   - pregunta: "Wann fährst du im Sommer am besten zu den Buchten von Begur und Calella de Palafrugell?"
     respuesta: "Sie liegen etwa 50 Minuten mit dem Auto von Girona entfernt, aber die Parkplätze sind klein und im Juli und August gegen 10:30 Uhr voll. Komm vor 9:00 Uhr, nimm die Shuttlebusse, die Begur im Sommer einsetzt, oder fahr am späten Nachmittag hin, wenn auch das Licht am schönsten ist."
 slugs:
@@ -32,7 +33,7 @@ slugs:
   en: costa-brava-day-trips-from-girona
   de: costa-brava-ausfluege-ab-girona
 reservasArriba: true
-respuestaCorta: 'Von Girona aus erreichst du das **Dalí-Theatermuseum in Figueres** in 40 Minuten mit dem Zug, **Besalú** in 45 Minuten mit dem Auto und **Cadaqués** in 1 h 15. Ohne Auto ist es am bequemsten, mit dem Zug nach Figueres zu fahren und die Führung durch das Dalí-Theatermuseum zu machen (ab 31 €), oder eine Bootstour wie Roses–Cadaqués um das Cap de Creus (ab 27 €).'
+respuestaCorta: 'Von Girona aus erreichst du das **Dalí-Theatermuseum in Figueres** in 15 Minuten mit dem Schnellzug, **Besalú** in 45 Minuten mit dem Auto und **Cadaqués** in 1 h 15. Ohne Auto ist es am bequemsten, mit dem Zug nach Figueres zu fahren und die Führung durch das Dalí-Theatermuseum zu machen (ab 31 €), oder eine Bootstour wie Roses–Cadaqués um das Cap de Creus (ab 27 €).'
 actividades:
   - costa-brava-kayak-esnorquel-cuevas-sagaro
   - roses-cadaques-barco-cap-de-creus
@@ -62,7 +63,7 @@ Die Region gliedert sich in drei Welten: das **Dalí-Dreieck** (Figueres-Cadaqu�
 
 ## Das Dalí-Dreieck
 
-**Figueres** beherbergt das **Dalí-Theatermuseum**, das nach dem Prado meistbesuchte Museum Spaniens und ein vom Maler selbst entworfenes Gesamtkunstwerk (40 Minuten mit dem Zug). Eine weitere Stunde entfernt liegt **Cadaqués**, das schönste weiße Dorf des Cap de Creus, sowie **Portlligat** mit dem **Haus-Museum von Dalí**. Wilde Natur erwartet dich am **Cap de Creus**, dem östlichsten Punkt der Halbinsel.
+**Figueres** beherbergt das **Dalí-Theatermuseum**, das nach dem Prado meistbesuchte Museum Spaniens und ein vom Maler selbst entworfenes Gesamtkunstwerk (15 Minuten mit dem Schnellzug). Eine weitere Stunde entfernt liegt **Cadaqués**, das schönste weiße Dorf des Cap de Creus, sowie **Portlligat** mit dem **Haus-Museum von Dalí**. Wilde Natur erwartet dich am **Cap de Creus**, dem östlichsten Punkt der Halbinsel.
 
 ## Die mittelalterlichen Dörfer
 

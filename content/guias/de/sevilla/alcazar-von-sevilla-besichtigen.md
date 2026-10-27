@@ -4,7 +4,8 @@ descripcion: "Wie man den Real Alcázar von Sevilla besichtigt: Preise 2026, Öf
 categoria: "sevilla"
 slug: "alcazar-von-sevilla-besichtigen"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true

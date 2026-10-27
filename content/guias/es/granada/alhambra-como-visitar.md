@@ -4,7 +4,8 @@ descripcion: 'Cómo visitar la Alhambra de Granada: qué visita elegir según tu
 categoria: granada
 slug: alhambra-como-visitar
 fecha: '2026-05-02'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true
@@ -107,7 +108,7 @@ La visita completa lleva **unas 4 horas**.
 
 ## Cómo llegar y horarios
 
-- **Microbús C30 o C32** desde Plaza Isabel la Católica: 1,40 €, cada 8 minutos.
+- **Microbús C30 o C32** desde Plaza Isabel la Católica: 1,60 €, cada 8 minutos.
 - **Andando** desde Plaza Nueva por la Cuesta de Gomérez: 25-30 minutos de subida.
 - **Taxi** desde el centro: 8-10 €.
 - **Horario de verano** (1 de abril a 14 de octubre): de 8:30 a 20:00, última entrada a los Nazaríes a las 19:00. **Invierno**: de 8:30 a 18:00, última entrada a las 17:00. Cierra el 25 de diciembre y el 1 de enero.

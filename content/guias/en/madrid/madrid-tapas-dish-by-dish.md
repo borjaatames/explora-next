@@ -4,7 +4,8 @@ descripcion: "Where to eat Madrid's best bravas, calamari sandwich, tortilla, to
 categoria: "madrid"
 slug: "madrid-tapas-dish-by-dish"
 fecha: "2026-08-17"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -63,7 +64,7 @@ If you only have time for seven stops in Madrid, here's the short list: **Las Br
 
 **Torreznos: El Pedrusco de Aldealcorvo.** Originally from Soria; this asador uses Iberian pork cured for two months, roasted in a wood oven and fried to order. Order them whole, not diced. Central alternative: **Casa Mortero** (Zorrilla, 9), served with patatas meneás. Both are sit-down restaurants, not bars: book at weekends.
 
-**Callos: Malacatín.** Open since **1895**, fourth generation; closed **Tuesdays**. At weekday lunchtime, order the cocido served in three courses (soup, chickpeas, meats), best broth on the 2022 Cocido Route. Portions are generous; book at weekends. Alternative: **Casa Lucio** (Cava Baja, 35), famous for huevos estrellados and with callos just as serious.
+**Callos: Malacatín.** Open since **1895**, fourth generation; open every day (Sunday to Tuesday, until 17:00 only). At weekday lunchtime, order the cocido served in three courses (soup, chickpeas, meats), best broth on the 2022 Cocido Route. Portions are generous; book at weekends. Alternative: **Casa Lucio** (Cava Baja, 35), famous for huevos estrellados and with callos just as serious.
 
 **Ham: Lhardy.** Open since **1839**, with a ground-floor counter where you eat standing: hand-carved Iberian ham, cured meats and hot consommé in a cup. To sit down with a full acorn-fed menu from Jabugo, **Cinco Jotas** has its own restaurants (Jorge Juan, Padre Damián, Santa Ana); pricier.
 

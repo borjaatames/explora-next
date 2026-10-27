@@ -5,7 +5,8 @@ categoria: "barcelona"
 slug: "flamenco-barcelona-which-tablao-to-choose"
 fecha: "2026-09-06"
 autor: Borja
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-flamenco-bailaor-hero.webp"
@@ -58,7 +59,7 @@ The "from" price is the cheapest option. Here is what you get at each level (off
 - **Teatro City Hall:** Standard €25 (no drink), Premium €40 (one drink), VIP €55 (two drinks or a bottle of cava or wine). The show lasts one hour. No food is sold with the ticket.
 - **Palau Dalmases:** Zone B €30 (back rows, no drink), Zone A €40 (middle rows, one drink), VIP €50 (front rows, one drink). Children pay €15, or €20 in VIP. All tickets include the palace art gallery. Tapas (€18) or a Spanish dinner (€35) can be added. Show of 50–55 minutes. Zone A is the best value.
 - **Tablao de Carmen:** from €88 with the three-course Carmen menu and one drink; a tapas menu and a premium Noche Estrella menu are also offered. There's no show-only ticket. Allow 2–3 hours in total.
-- **Tablao Cordobés:** show and one drink €48; with tapas €69; with a buffet of 40+ tapas and unlimited drinks €84; with a served restaurant menu €89. Dinner is served before the show, which runs 1 h 20 min.
+- **Tablao Cordobés:** show and one drink €48; with tapas €69; with a buffet of 40+ tapas and unlimited drinks €84; with a served restaurant menu €89. Dinner is served before the show, which runs about 70–75 minutes.
 
 All four offer free cancellation up to 24 hours ahead.
 
@@ -68,8 +69,8 @@ All four offer free cancellation up to 24 hours ahead.
 |---|---|---|---|
 | Teatro City Hall | 17:00, 18:45, 20:30, 22:00 | Next to Plaça de Catalunya | Catalunya (L1/L3) |
 | Palau Dalmases | 17:30, 18:45, 20:00, 21:15 | Carrer Montcada 20, El Born, by the Picasso Museum | Jaume I (L4) |
-| Tablao de Carmen | 18:00 and 20:30 seatings (shows about 19:00 and 22:00) | Inside Poble Espanyol, Montjuïc | Espanya, then bus 150 or 13 |
-| Tablao Cordobés | Usually 16:30 to 22:30, five sessions | La Rambla 33–35 | Liceu (L3) |
+| Tablao de Carmen | 18:00 and 20:30 seatings (shows at 18:45 and 21:15; closed Tuesdays) | Inside Poble Espanyol, Montjuïc | Espanya, then bus 150 or 13 |
+| Tablao Cordobés | Usually 16:30 to 22:30, four sessions | La Rambla 33–35 | Liceu (L3) |
 
 Check the exact times for your date when booking. From Plaça d'Espanya to Poble Espanyol it's a steep 15-minute walk uphill, so take bus 150, which stops at the door.
 

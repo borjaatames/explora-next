@@ -4,7 +4,8 @@ descripcion: 'Mallorca with kids: the best family beaches, Palma Aquarium, the S
 categoria: mallorca
 slug: mallorca-with-kids
 fecha: '2026-04-09'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -97,7 +98,7 @@ The Caves of Drach in Porto Cristo hold one of Europe's largest underground lake
 
 ## Other plans: what to know
 
-- **Palma Aquarium:** about 3 hours. Packed on summer and rainy days: arrive at 10:00 or after 15:00, when groups leave. Check feeding times on arrival.
+- **Palma Aquarium:** about 3 hours. Packed on summer and rainy days: arrive at opening (9:30) or after 15:00, when groups leave. Check feeding times on arrival.
 - **Glass-bottom boat from Paguera:** 2 h 30 min. Dolphin sightings are common but not guaranteed.
 - **Forestal Park:** choose the course by your child's age and height. No sandals.
 - **Western Water Park:** summer only, last entry 15:30.

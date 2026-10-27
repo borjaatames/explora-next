@@ -4,7 +4,8 @@ descripcion: 'Las mejores escapadas desde Girona: Figueres y el Teatro-Museo Dal
 categoria: girona
 slug: escapadas-costa-brava-desde-girona
 fecha: '2026-05-12'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -23,7 +24,7 @@ faq:
   - pregunta: "¿Hace falta reservar la casa de Dalí en Portlligat?"
     respuesta: "Sí. La Casa-Museo de Portlligat, en Cadaqués, solo se visita con reserva previa, en grupos reducidos que entran cada 10 minutos, y sin cita no entras ni en temporada baja. No va incluida en el barco Roses–Cadaqués ni en la visita al Teatro-Museo de Figueres: resérvala aparte."
   - pregunta: "¿Qué escapadas desde Girona se pueden combinar en un mismo día?"
-    respuesta: "Figueres y Besalú sí se combinan bien: Figueres está a 40 minutos en tren y Besalú a 45 en coche. Cadaqués o las calas de la Costa Brava, en cambio, llenan una jornada entera, así que no las juntes con otra escapada lejana."
+    respuesta: "Figueres y Besalú sí se combinan bien: Figueres está a 15 minutos en AVE (30-35 en regional) y Besalú a 45 en coche. Cadaqués o las calas de la Costa Brava, en cambio, llenan una jornada entera, así que no las juntes con otra escapada lejana."
   - pregunta: "¿Cuándo conviene ir a las calas de Begur y Calella de Palafrugell en verano?"
     respuesta: "Están a unos 50 minutos de Girona en coche, pero sus aparcamientos son pequeños y en julio y agosto se llenan hacia las 10:30. Llega antes de las 9:00, usa los autobuses lanzadera que Begur pone en verano o ve a última hora de la tarde, que además es cuando mejor luz hay."
 slugs:
@@ -31,7 +32,7 @@ slugs:
   en: costa-brava-day-trips-from-girona
   de: costa-brava-ausfluege-ab-girona
 reservasArriba: true
-respuestaCorta: 'Desde Girona tienes el **Teatro-Museo Dalí de Figueres** a 40 minutos en tren, **Besalú** a 45 en coche y **Cadaqués** a 1 h 15. Sin coche, lo más cómodo es ir en tren a Figueres y hacer la visita guiada al Teatro-Museo Dalí (desde 31 €), o un plan en barco, como Roses–Cadaqués por el Cap de Creus (desde 27 €).'
+respuestaCorta: 'Desde Girona tienes el **Teatro-Museo Dalí de Figueres** a 15 minutos en AVE (30-35 en regional), **Besalú** a 45 en coche y **Cadaqués** a 1 h 15. Sin coche, lo más cómodo es ir en tren a Figueres y hacer la visita guiada al Teatro-Museo Dalí (desde 31 €), o un plan en barco, como Roses–Cadaqués por el Cap de Creus (desde 27 €).'
 actividades:
   - costa-brava-kayak-esnorquel-cuevas-sagaro
   - roses-cadaques-barco-cap-de-creus
@@ -78,10 +79,10 @@ Las dos últimas salen de Barcelona, no de Girona. Si duermes en Girona, las que
 ## Lo que debes saber antes de salir
 
 - **El Teatro-Museo Dalí de Figueres** cuesta desde 18,50 € (2026; gratis hasta los 8 años), con entrada por franja horaria que **se agota en temporada**: resérvala en la web oficial la semana anterior. Son 2 horas; el cuadro de Lincoln y la Sala Mae West son lo que todos buscan. Está a 15 minutos a pie de la estación.
-- **La casa de Dalí en Portlligat** (Cadaqués) se visita solo con reserva previa, en grupos de 8 cada 10 minutos. Sin reserva no entras ni en temporada baja.
+- **La casa de Dalí en Portlligat** (Cadaqués) se visita solo con reserva previa, en grupos reducidos cada 10 minutos. Sin reserva no entras ni en temporada baja.
 - **Cadaqués en verano:** el único acceso es una carretera de curvas y el pueblo cierra el centro al tráfico. Llega antes de las 10:00 o deja el coche en el aparcamiento de la entrada y anda.
 - **Las calas de Begur y Palafrugell** tienen aparcamientos pequeños que se llenan a las 10:30 en julio y agosto. O llegas a las 9:00, o usas los autobuses lanzadera que Begur pone en verano, o vas a última hora de la tarde, que es cuando mejor luz hay.
-- **Empúries:** 6 € (gratis el primer domingo de mes y para menores de 16). Lleva bañador: la playa está pegada a las ruinas.
+- **Empúries:** 7 € (gratis el primer domingo de mes, salvo en julio, agosto y septiembre, y para menores de 16). Lleva bañador: la playa está pegada a las ruinas.
 - **Besalú:** el puente y el barrio son gratis; el micvé (baño judío medieval) solo se ve con la visita guiada de la oficina de turismo, que conviene reservar.
 
 ## Cómo moverte

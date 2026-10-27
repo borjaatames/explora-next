@@ -4,7 +4,8 @@ descripcion: "Ratgeber Mallorca mit Kindern: beste Familienstrände, Palma Aquar
 categoria: "mallorca"
 slug: "mallorca-mit-kindern"
 fecha: "2026-04-09"
-fecha_actualizacion: "2026-10-04"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false

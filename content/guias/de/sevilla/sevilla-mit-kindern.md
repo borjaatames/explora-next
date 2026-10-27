@@ -4,7 +4,8 @@ descripcion: "Was man in Sevilla mit Kindern verschiedener Altersgruppen unterni
 categoria: "sevilla"
 slug: "sevilla-mit-kindern"
 fecha: "2026-05-01"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -23,7 +24,7 @@ slugs:
   en: seville-with-kids
   de: sevilla-mit-kindern
 reservasArriba: true
-respuestaCorta: 'Sevilla ist **flach und kompakt** (vom Alcázar zur Plaza de España sind es 10 Minuten zu Fuß) und klappt mit Kindern sehr gut, wenn du eine Regel befolgst: **Sehenswürdigkeiten am Vormittag**, Wasser oder Park am Nachmittag, und alles mit Warteschlange vorab buchen. Bei Hitze **Isla Mágica** (4–11 Jahre, ab 27 €) oder das **Aquarium** (17 €).'
+respuestaCorta: 'Sevilla ist **flach und kompakt** (vom Alcázar zur Plaza de España sind es 10 Minuten zu Fuß) und klappt mit Kindern sehr gut, wenn du eine Regel befolgst: **Sehenswürdigkeiten am Vormittag**, Wasser oder Park am Nachmittag, und alles mit Warteschlange vorab buchen. Bei Hitze **Isla Mágica** (4–11 Jahre, ab 27 €) oder das **Aquarium** (18 € Erwachsene, 13 € Kinder von 4 bis 14).'
 actividades:
   - isla-magica-sevilla-entrada
   - acuario-sevilla-entrada

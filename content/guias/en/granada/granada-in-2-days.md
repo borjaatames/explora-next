@@ -4,7 +4,8 @@ descripcion: "Granada in 2 days: Alhambra (and what to do if it's sold out), Alb
 categoria: "granada"
 slug: "granada-in-2-days"
 fecha: "2026-05-19"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true
@@ -42,7 +43,7 @@ actividades:
 
 ## First: the Alhambra ticket
 
-Book at `tickets.alhambra-patronato.es`: **€22.27** (Nasrid Palaces, Alcazaba and Generalife). Your Nasrid slot is fixed, with zero tolerance if you're late. Tickets can be bought up to three months ahead and sell out about three weeks ahead in spring and autumn. Under-12s go free but need a ticket; ID is checked against the name.
+Book at `tickets.alhambra-patronato.es`: **€22.27** (Nasrid Palaces, Alcazaba and Generalife). Your Nasrid slot is fixed, with only half an hour's leeway: arrive later and you lose the Nasrid Palaces. Tickets can be bought up to three months ahead and sell out about three weeks ahead in spring and autumn. Under-12s go free but need a ticket; ID is checked against the name.
 
 **If it's sold out:** the **Nasrid Palaces night visit** (€12.73), often available when daytime is gone, or a **guided tour** from an authorised operator with its own allocation (€45–65). Never buy from resellers: tickets are often fake or in another name. Details in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
 
@@ -58,7 +59,7 @@ Book at `tickets.alhambra-patronato.es`: **€22.27** (Nasrid Palaces, Alcazaba 
 
 - **AVE from Madrid:** 3h 15min, from €26–30 booked 3–4 weeks ahead; the station is 25 minutes' walk from the centre or €7 by taxi. **Plane:** bus 245 to the centre, 45 minutes (€3.10); taxi €30–35. **Alsa bus:** from Málaga (1h 30min) and Seville (3h).
 - **Car:** the centre is a camera-enforced low-emission zone with automatic fines; garages cost €25–30 a day. Leave it at the hotel or San Agustín car park.
-- **Around town:** bus €1.40 (€0.87 with the Credibús card); minibuses C30, C31 and C32 run from Plaza Nueva to the Alhambra, Albaicín and Sacromonte.
+- **Around town:** bus €1.60 (under €0.90 with the Credibús card); minibuses C30, C31 and C32 run from Plaza Nueva to the Alhambra, Albaicín and Sacromonte.
 
 ## Day 1: Alhambra, Albaicín and Sacromonte
 
@@ -75,7 +76,7 @@ Book at `tickets.alhambra-patronato.es`: **€22.27** (Nasrid Palaces, Alcazaba 
 
 **Tapas.** In Granada **the tapa is free with your drink**: three beers at €1.80–2.50 and you've eaten. If a bar charges €3.50 a beer, it's touristy. Bar Los Diamantes (Navas, 28) for fried fish; Casa Julio (Calle Hermosa, 5) for fried anchovies; La Riviera (Elvira, 30) for more elaborate tapas. Arrive before 2 PM or after 3:30 PM to get a spot.
 
-**Carrera del Darro and Albaicín.** Granada's prettiest street; stop at the **Bañuelo** (11th-century Arab baths, Carrera del Darro, 31; €5, Tuesday to Sunday, 20 minutes). Up to the Albaicín via Cuesta del Chapiz (25 minutes uphill, so no smooth soles) or minibus C32 (€1.40).
+**Carrera del Darro and Albaicín.** Granada's prettiest street; stop at the **Bañuelo** (11th-century Arab baths, Carrera del Darro, 31; €5, Tuesday to Sunday, 20 minutes). Up to the Albaicín via Cuesta del Chapiz (25 minutes uphill, so no smooth soles) or minibus C32 (€1.60).
 
 **Sunset.** **Mirador de San Nicolás** is the postcard view, public and free (ignore anyone charging for it): arrive 30–45 minutes early. For half the crowd, walk 10 minutes to **San Cristóbal**.
 
@@ -99,7 +100,7 @@ Book at `tickets.alhambra-patronato.es`: **€22.27** (Nasrid Palaces, Alcazaba 
 
 **Cartuja.** Skipped by most visitors because it's outside the centre, yet the sacristy (1742) is a peak of Spanish Baroque. Bus 8 or U3 from Gran Vía (15 minutes). €7, about 60 minutes; on Saturdays it opens 10 AM – 12:15 PM and 3 – 5:30 PM.
 
-**Dinner.** Damasqueros (Realejo, tasting menu €45–55) or Mirador de Aixa, a *carmen* facing the floodlit Alhambra (€60–80). For dessert, a *pionono* at Casa Ysla. With a spare hour, **San Jerónimo Monastery** (€6) has the best Renaissance altarpiece in town and no crowds.
+**Dinner.** Damasqueros (Realejo, tasting menu €45–55) or Mirador de Aixa, a *carmen* facing the floodlit Alhambra (€60–80). For dessert, a *pionono* at Casa Ysla. With a spare hour, **San Jerónimo Monastery** (€7) has the best Renaissance altarpiece in town and no crowds.
 
 ## Where to stay
 

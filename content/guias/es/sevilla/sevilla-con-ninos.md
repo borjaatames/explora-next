@@ -4,7 +4,8 @@ descripcion: 'Qué hacer en Sevilla con niños de varias edades sin caer en lo o
 categoria: sevilla
 slug: sevilla-con-ninos
 fecha: '2026-05-01'
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -23,7 +24,7 @@ slugs:
   en: seville-with-kids
   de: sevilla-mit-kindern
 reservasArriba: true
-respuestaCorta: 'Sevilla es **plana y compacta** (del Alcázar a la Plaza de España hay 10 minutos a pie), así que funciona muy bien con niños si sigues una regla: **monumentos por la mañana**, agua o parque por la tarde y todo lo que tenga cola, comprado antes. Con calor, **Isla Mágica** (4-11 años, desde 27 €) o el **Acuario** (17 €).'
+respuestaCorta: 'Sevilla es **plana y compacta** (del Alcázar a la Plaza de España hay 10 minutos a pie), así que funciona muy bien con niños si sigues una regla: **monumentos por la mañana**, agua o parque por la tarde y todo lo que tenga cola, comprado antes. Con calor, **Isla Mágica** (4-11 años, desde 27 €) o el **Acuario** (18 € adultos, 13 € niños de 4 a 14 años).'
 actividades:
   - isla-magica-sevilla-entrada
   - acuario-sevilla-entrada

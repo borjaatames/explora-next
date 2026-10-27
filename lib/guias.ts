@@ -67,6 +67,12 @@ export type GuiaFrontmatter = {
   respuestaCorta?: string;
 
   /**
+   * Fecha (YYYY-MM-DD) en que se comprobaron precios y horarios en fuentes
+   * oficiales. Se muestra bajo la respuesta corta: «✓ Datos comprobados el…».
+   */
+  datosComprobados?: string;
+
+  /**
    * Guías de un solo monumento: bloque «Nuestras 3 opciones» bajo la
    * respuesta corta. `ficha` es el slug ES de la ficha (de la misma ciudad
    * que la guía) y `etiqueta` dice para quién es, en el idioma de la guía.
@@ -205,6 +211,11 @@ export async function obtenerGuia(
         ? fm.respuestaCorta.trim()
         : undefined,
     opciones: leerOpciones(fm.opciones),
+    datosComprobados:
+      typeof fm.datosComprobados === "string" &&
+      /^\d{4}-\d{2}-\d{2}$/.test(fm.datosComprobados)
+        ? fm.datosComprobados
+        : undefined,
     faq: fm.faq,
     idioma,
     tiempoLectura: calcularTiempoLectura(content),

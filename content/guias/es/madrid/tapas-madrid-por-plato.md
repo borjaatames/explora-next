@@ -4,7 +4,8 @@ descripcion: "Dónde comer las mejores patatas bravas, bocadillo de calamares, t
 categoria: "madrid"
 slug: "tapas-madrid-por-plato"
 fecha: "2026-08-17"
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: "2026-10-27"
+datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -62,7 +63,7 @@ Si solo tienes tiempo para siete paradas en Madrid, esta es la lista corta: **La
 
 **Torreznos: El Pedrusco de Aldealcorvo.** El torrezno es de Soria, pero Madrid lo adoptó, y este asador lo trata como a su cochinillo: ibérico curado dos meses, asado en horno de leña y frito al momento. Alternativa en el centro, **Casa Mortero** (Zorrilla, 9), con patatas meneás. Los dos son restaurantes, no barras: reserva el fin de semana.
 
-**Callos: Malacatín.** Desde 1895, cuarta generación, misma receta; cierra los martes. Si vas a mediodía entre semana, el cocido en tres vuelcos es de lo más honesto que se come en Madrid (premio al mejor caldo de la Ruta del Cocido 2022). Raciones generosas; reserva en fin de semana. Alternativa, **Casa Lucio** (Cava Baja, 35), famosa por los huevos estrellados y con unos callos igual de serios.
+**Callos: Malacatín.** Desde 1895, cuarta generación, misma receta; abre todos los días (de domingo a martes, solo hasta las 17:00). Si vas a mediodía entre semana, el cocido en tres vuelcos es de lo más honesto que se come en Madrid (premio al mejor caldo de la Ruta del Cocido 2022). Raciones generosas; reserva en fin de semana. Alternativa, **Casa Lucio** (Cava Baja, 35), famosa por los huevos estrellados y con unos callos igual de serios.
 
 **Jamón: Lhardy.** Desde 1839, con un mostrador en la planta baja donde se come de pie: jamón cortado a cuchillo, embutidos y consomé en taza. Para sentarse con carta de bellota de Jabugo, **Cinco Jotas** (Jorge Juan, Padre Damián, Santa Ana), más caro.
 
