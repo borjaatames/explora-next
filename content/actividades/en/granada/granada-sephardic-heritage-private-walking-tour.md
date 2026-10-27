@@ -72,6 +72,7 @@ keywords:
 imagen: /images/actividades/granada/realejo/cuarto-real-qubba.webp
 imagenAlt: Interior of the qubba at the Cuarto Real de Santo Domingo with Nasrid plasterwork and lattices
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

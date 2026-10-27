@@ -84,6 +84,7 @@ imagenAlt: Barricas de vino en una bodega
 ratingProveedor: 4.9
 numeroOpiniones: 53
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

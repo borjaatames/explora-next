@@ -79,6 +79,7 @@ keywords:
 imagen: /images/actividades/granada/cahorros/cahorros-puente-colgante.webp
 imagenAlt: Puente colgante de Los Cahorros sobre el desfiladero del río Monachil
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

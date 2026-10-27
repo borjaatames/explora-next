@@ -82,6 +82,7 @@ imagenAlt: Sierra Nevada nevada sobre los pueblos de la Alpujarra
 ratingProveedor: 4.8
 numeroOpiniones: 26
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

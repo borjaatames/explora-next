@@ -75,6 +75,7 @@ keywords:
 imagen: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
 imagenAlt: Two-tone arches inside the Mosque-Cathedral of Córdoba
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

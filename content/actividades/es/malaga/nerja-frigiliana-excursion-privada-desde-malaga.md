@@ -79,6 +79,7 @@ keywords:
 imagen: /images/actividades/malaga/frigiliana/frigiliana-panoramica.webp
 imagenAlt: Vista panorámica de Frigiliana hacia el mar
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

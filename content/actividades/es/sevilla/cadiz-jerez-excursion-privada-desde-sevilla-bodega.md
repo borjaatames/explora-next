@@ -76,6 +76,7 @@ keywords:
 imagen: /images/actividades/cadiz/mar/catedral-campo-sur.webp
 imagenAlt: Catedral de Cádiz sobre el Campo del Sur
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -74,6 +74,7 @@ keywords:
 imagen: /images/actividades/cordoba/patios/patios-cordoba-hero.webp
 imagenAlt: Córdoba patio with flower pots
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

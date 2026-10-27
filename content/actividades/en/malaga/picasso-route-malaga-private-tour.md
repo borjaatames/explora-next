@@ -74,6 +74,7 @@ keywords:
 imagen: /images/actividades/malaga/museo-picasso/sala-obras.webp
 imagenAlt: Visitors looking at Picasso paintings in a gallery
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

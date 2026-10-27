@@ -77,6 +77,7 @@ keywords:
 imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
 imagenAlt: Tree-like columns and vaults inside the Sagrada Familia
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -77,6 +77,7 @@ keywords:
 imagen: /images/actividades/sevilla/riotinto/riotinto-corta-atalaya.webp
 imagenAlt: Corta Atalaya open-pit mine in Minas de Riotinto, with ochre terraces and a lake at the bottom
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

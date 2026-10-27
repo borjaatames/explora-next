@@ -79,6 +79,7 @@ keywords:
 imagen: /images/actividades/cadiz/vejer-toros/toros-bravos-dehesa.webp
 imagenAlt: Toros bravos pastando en una dehesa verde con encinas
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

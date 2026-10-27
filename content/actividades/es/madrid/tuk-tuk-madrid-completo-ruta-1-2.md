@@ -82,6 +82,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/2ebd216e-98bf-40c1-a602-06fbd36e92d8.png
   alt: Tienda de lujo en la calle Serrano
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

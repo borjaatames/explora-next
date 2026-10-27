@@ -77,6 +77,7 @@ keywords:
 imagen: /images/actividades/sevilla/riotinto/riotinto-corta-atalaya.webp
 imagenAlt: Corta Atalaya en Minas de Riotinto, gigantesca mina a cielo abierto con terrazas ocres y lago al fondo
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

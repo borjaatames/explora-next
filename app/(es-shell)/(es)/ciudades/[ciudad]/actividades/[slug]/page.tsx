@@ -72,7 +72,7 @@ export async function generateMetadata({
     description: actividad.metaDescription ?? actividad.descripcion,
     keywords: actividad.keywords,
     robots: {
-      index: allowIndexing,
+      index: allowIndexing && actividad.indexar !== false,
       follow: allowIndexing,
     },
     alternates: {

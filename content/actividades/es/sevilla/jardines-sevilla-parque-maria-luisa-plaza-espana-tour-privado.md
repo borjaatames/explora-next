@@ -69,6 +69,7 @@ keywords:
 imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp
 imagenAlt: Plaza de España de Sevilla con sus dos torres y el canal
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

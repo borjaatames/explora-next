@@ -90,6 +90,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/3fe314c7-d357-4ea3-b5d1-6eb4bd777b3c.jpg
   alt: Sunset on the Doñana coast
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'

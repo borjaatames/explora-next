@@ -73,6 +73,7 @@ keywords:
 imagen: /images/actividades/granada/albaicin/albaicin-pixabay-1313240.webp
 imagenAlt: The Albaicín seen from the Alhambra
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

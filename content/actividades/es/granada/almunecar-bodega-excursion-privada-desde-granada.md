@@ -71,6 +71,7 @@ keywords:
 imagen: /images/actividades/granada/proveedor-938189/prov-bodega-barricas.webp
 imagenAlt: Barricas en la nave de crianza de la bodega
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

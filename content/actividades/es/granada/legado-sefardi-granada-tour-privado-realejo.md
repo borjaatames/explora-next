@@ -72,6 +72,7 @@ keywords:
 imagen: /images/actividades/granada/realejo/cuarto-real-qubba.webp
 imagenAlt: Interior de la qubba del Cuarto Real de Santo Domingo con yeserías y celosías nazaríes
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

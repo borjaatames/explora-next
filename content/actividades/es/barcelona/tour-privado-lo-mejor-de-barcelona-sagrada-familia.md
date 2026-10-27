@@ -87,6 +87,7 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176367-hero.webp
   alt: Interior de una torre de la Sagrada Familia con la escalera de caracol
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'

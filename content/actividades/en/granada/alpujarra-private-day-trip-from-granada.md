@@ -82,6 +82,7 @@ imagenAlt: Snow-capped Sierra Nevada above the Alpujarra villages
 ratingProveedor: 4.8
 numeroOpiniones: 26
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

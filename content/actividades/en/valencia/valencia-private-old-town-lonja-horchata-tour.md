@@ -72,6 +72,7 @@ keywords:
 imagen: /images/actividades/valencia/lonja-horchata/lonja-fachada.webp
 imagenAlt: Gothic facade of the Silk Exchange in Valencia
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

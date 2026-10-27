@@ -85,6 +85,7 @@ imagenAlt: Vaulted barrel room in a Ribera del Duero winery
 ratingProveedor: 4.9
 numeroOpiniones: 53
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

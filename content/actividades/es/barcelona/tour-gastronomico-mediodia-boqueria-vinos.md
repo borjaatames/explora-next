@@ -89,6 +89,7 @@ galeria:
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
   alt: Variedad de aceitunas a granel en un puesto del Mercado de la Boqueria
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

@@ -82,6 +82,7 @@ keywords:
 imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
 imagenAlt: Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -74,6 +74,7 @@ keywords:
 imagen: /images/actividades/granada/ubeda/ubeda-wikimedia-plaza-v-zquez-de-molina-beda-jpg.webp
 imagenAlt: Plaza Vázquez de Molina en Úbeda, con la Sacra Capilla del Salvador
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

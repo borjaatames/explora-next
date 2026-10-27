@@ -76,6 +76,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/a5a139f7-8aef-4a9f-8224-0776371c7ca7.jpg
   alt: Historic brick building in central Madrid
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'

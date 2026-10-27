@@ -272,6 +272,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const lang of IDIOMAS_ACTIVOS) {
     const actividades = obtenerListaActividades(lang);
     for (const actividad of actividades) {
+      if (actividad.indexar === false) continue;
       entries.push({
         url: `${SITE_URL}${actividad.url}`,
         lastModified: fechaDe(actividad),

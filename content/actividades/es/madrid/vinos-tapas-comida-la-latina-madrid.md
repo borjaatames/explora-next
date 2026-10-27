@@ -66,6 +66,7 @@ galeria:
 - src: /images/actividades/madrid/la-latina/la-latina-pexels-28700846.webp
   alt: Tostas y tapas para compartir
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

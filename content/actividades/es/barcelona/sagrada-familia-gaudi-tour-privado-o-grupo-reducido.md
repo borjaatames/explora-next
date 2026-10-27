@@ -82,6 +82,7 @@ imagenAlt: Fachada de la Sagrada Familia en Barcelona con sus torres ornamentada
 ratingProveedor: 4.8
 numeroOpiniones: 1387
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

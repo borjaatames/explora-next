@@ -74,6 +74,7 @@ keywords:
 imagen: /images/actividades/sevilla/merida/merida-teatro-romano.webp
 imagenAlt: Escena columnada del teatro romano de Mérida bajo un cielo azul intenso
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -82,6 +82,7 @@ keywords:
 imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
 imagenAlt: Caminito del Rey in the Gaitanes gorge
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

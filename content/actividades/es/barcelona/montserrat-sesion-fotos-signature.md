@@ -71,6 +71,7 @@ galeria:
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-09.webp
   alt: Agujas de roca de Montserrat sobre el valle
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-09-05'

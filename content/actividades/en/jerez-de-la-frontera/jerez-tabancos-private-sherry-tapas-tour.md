@@ -68,6 +68,7 @@ keywords:
 imagen: /images/actividades/jerez/tabancos/tabanco-la-pandilla.webp
 imagenAlt: Wooden bar and beamed ceiling of Tabanco La Pandilla in Jerez de la Frontera
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

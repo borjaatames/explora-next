@@ -68,6 +68,7 @@ keywords:
 imagen: /images/actividades/jerez/tabancos/tabanco-la-pandilla.webp
 imagenAlt: Barra de madera y techo de vigas del Tabanco La Pandilla en Jerez de la Frontera
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

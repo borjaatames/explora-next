@@ -70,6 +70,7 @@ keywords:
 imagen: /images/actividades/granada/abadia-sacromonte/abadia-sacromonte-exterior.webp
 imagenAlt: Edificio de la Abadía del Sacromonte entre cipreses en la ladera del monte Valparaíso
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

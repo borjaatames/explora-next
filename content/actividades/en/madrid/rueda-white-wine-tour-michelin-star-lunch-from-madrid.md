@@ -82,6 +82,7 @@ imagenAlt: DO Rueda vineyard in La Seca with its stony soil
 ratingProveedor: 4.9
 numeroOpiniones: 53
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

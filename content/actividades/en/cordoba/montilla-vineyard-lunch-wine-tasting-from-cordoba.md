@@ -68,6 +68,7 @@ keywords:
 imagen: /images/actividades/cordoba/montilla/montilla-bodega-tinajas.webp
 imagenAlt: Winery hall in Montilla with large clay tinajas
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

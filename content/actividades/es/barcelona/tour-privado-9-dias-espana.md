@@ -82,6 +82,7 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
   alt: Vista exterior de la Sagrada Familia al atardecer, con varias de sus torres
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'

@@ -81,6 +81,7 @@ keywords:
 imagen: /images/actividades/madrid/malasana/plaza-dos-de-mayo.webp
 imagenAlt: Plaza del Dos de Mayo en Malasaña, con el arco del Parque de Artillería
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

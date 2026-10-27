@@ -75,6 +75,7 @@ keywords:
 imagen: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
 imagenAlt: Arcos bicolores en el interior de la Mezquita-Catedral de Córdoba
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

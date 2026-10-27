@@ -106,6 +106,7 @@ galeria:
 - src: /images/actividades/madrid/escorial/monasterio-del-escorial-door-knocker-main-portal-monastery-hero-hero.webp
   alt: "Aldaba de bronce en la puerta principal del Monasterio de El Escorial"
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'

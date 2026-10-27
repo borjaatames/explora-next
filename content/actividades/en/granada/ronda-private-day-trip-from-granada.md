@@ -75,6 +75,7 @@ keywords:
 imagen: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
 imagenAlt: Ronda's Puente Nuevo and the houses above the gorge
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

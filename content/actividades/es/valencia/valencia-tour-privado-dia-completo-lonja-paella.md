@@ -81,6 +81,7 @@ keywords:
 imagen: /images/actividades/valencia/centro/lonja-fachada.webp
 imagenAlt: Fachada de la Lonja de la Seda de Valencia, Patrimonio de la Humanidad
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -86,6 +86,7 @@ galeria:
 - src: /images/actividades/madrid/almudena/catedral-almudena-grand-cathedral-facade-twin-towers-hero.webp
   alt: Top of the Almudena Cathedral façade between its twin towers
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-07'

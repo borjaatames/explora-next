@@ -91,6 +91,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/4f9ca748-50fc-4479-b494-0e5a817a5ba2.jpg
   alt: The Albaicín and the Alhambra
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'

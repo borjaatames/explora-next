@@ -74,6 +74,7 @@ keywords:
 imagen: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
 imagenAlt: Seville Cathedral and the Giralda
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

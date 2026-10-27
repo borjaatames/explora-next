@@ -84,6 +84,7 @@ imagenAlt: Facade of the Sagrada Familia with its towers in Barcelona
 ratingProveedor: 4.5
 numeroOpiniones: 13
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

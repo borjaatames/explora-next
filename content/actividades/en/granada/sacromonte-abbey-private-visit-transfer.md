@@ -70,6 +70,7 @@ keywords:
 imagen: /images/actividades/granada/abadia-sacromonte/abadia-sacromonte-exterior.webp
 imagenAlt: Sacromonte Abbey among cypresses on the slope of Mount Valparaíso
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

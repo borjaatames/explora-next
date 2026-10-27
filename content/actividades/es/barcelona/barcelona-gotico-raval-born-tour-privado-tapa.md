@@ -80,6 +80,7 @@ imagenAlt: Calle estrecha con balcones en el casco antiguo de Barcelona
 ratingProveedor: 4.8
 numeroOpiniones: 16
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

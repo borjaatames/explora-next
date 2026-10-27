@@ -89,6 +89,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/f3e1835e-1ab9-4382-8554-3f390037163b.jpg
   alt: Arco mudéjar del Real Alcázar
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-12'
 fecha_actualizacion: '2026-10-12'

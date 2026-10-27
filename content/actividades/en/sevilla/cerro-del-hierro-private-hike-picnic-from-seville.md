@@ -70,6 +70,7 @@ keywords:
 imagen: /images/actividades/sevilla/cerro-del-hierro/cerro-hierro-karst.webp
 imagenAlt: Karst rock pinnacles at Cerro del Hierro among reddish earth and scrub
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

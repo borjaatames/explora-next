@@ -85,6 +85,7 @@ imagenAlt: Seafood paella served on the tour
 ratingProveedor: 5.0
 numeroOpiniones: 30
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -77,6 +77,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/73cbdf92-f222-460e-ad6c-975a2d9fb464.jpg
   alt: Aplicación DaremApp con el recorrido autoguiado
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-25'

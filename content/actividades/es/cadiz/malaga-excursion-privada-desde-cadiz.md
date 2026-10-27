@@ -76,6 +76,7 @@ keywords:
 imagen: /images/actividades/malaga/alcazaba/panoramica-malaga.webp
 imagenAlt: Panorámica de Málaga desde la Alcazaba
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -79,6 +79,7 @@ keywords:
 imagen: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-19245377.webp
 imagenAlt: Caminito del Rey walkways on the rock face
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

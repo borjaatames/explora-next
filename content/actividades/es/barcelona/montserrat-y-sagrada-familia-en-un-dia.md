@@ -82,6 +82,7 @@ keywords:
 imagen: /images/actividades/barcelona/montserrat/montserrat-spain-13-hero-hero.webp
 imagenAlt: Montserrat con sus formaciones rocosas y el monasterio benedictino
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

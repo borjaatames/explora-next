@@ -74,6 +74,7 @@ keywords:
 imagen: /images/actividades/malaga/marbella/marbella-plaza-naranjos.webp
 imagenAlt: Plaza de los Naranjos de Marbella con naranjos, terrazas y casas blancas
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -83,6 +83,7 @@ imagenAlt: Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes
 ratingProveedor: 5.0
 numeroOpiniones: 4
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

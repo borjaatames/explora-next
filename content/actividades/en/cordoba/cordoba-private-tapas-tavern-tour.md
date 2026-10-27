@@ -71,6 +71,7 @@ keywords:
 imagen: /images/actividades/cordoba/gastronomia/taberna-cordoba-terraza.webp
 imagenAlt: Terrace of a tavern on a street in Córdoba's old town
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

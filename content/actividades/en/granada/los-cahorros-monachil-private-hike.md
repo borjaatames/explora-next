@@ -79,6 +79,7 @@ keywords:
 imagen: /images/actividades/granada/cahorros/cahorros-puente-colgante.webp
 imagenAlt: Los Cahorros suspension bridge over the Monachil river gorge
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

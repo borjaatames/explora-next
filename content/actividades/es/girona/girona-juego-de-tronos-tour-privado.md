@@ -101,6 +101,7 @@ galeria:
 - src: /images/actividades/girona/girona-onyar/girona-onyar-wikimedia-onyar-river-in-girona-4-jpg-02.webp
   alt: El río Onyar a su paso por Girona
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-04'

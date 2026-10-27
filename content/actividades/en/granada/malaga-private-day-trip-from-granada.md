@@ -74,6 +74,7 @@ keywords:
 imagen: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
 imagenAlt: Main facade of Málaga Cathedral
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

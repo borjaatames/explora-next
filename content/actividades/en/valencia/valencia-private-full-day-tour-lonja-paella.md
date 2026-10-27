@@ -81,6 +81,7 @@ keywords:
 imagen: /images/actividades/valencia/centro/lonja-fachada.webp
 imagenAlt: Facade of Valencia's Silk Exchange, a UNESCO World Heritage Site
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

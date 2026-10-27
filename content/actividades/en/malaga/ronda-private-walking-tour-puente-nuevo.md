@@ -78,6 +78,7 @@ keywords:
 imagen: /images/actividades/granada/ronda/ronda-pixabay-7493552.webp
 imagenAlt: Ronda perched above the gorge
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

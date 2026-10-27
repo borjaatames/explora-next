@@ -82,6 +82,7 @@ keywords:
 imagen: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
 imagenAlt: The Rock of Gibraltar seen from the town
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -78,6 +78,7 @@ keywords:
 imagen: /images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp
 imagenAlt: Facade of the Museu de les Ciències in Valencia
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

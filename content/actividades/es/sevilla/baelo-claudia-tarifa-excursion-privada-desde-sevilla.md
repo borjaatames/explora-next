@@ -72,6 +72,7 @@ keywords:
 imagen: /images/actividades/cadiz/baelo-claudia/baelo-claudia-01.webp
 imagenAlt: Ruinas romanas de Baelo Claudia junto al mar
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

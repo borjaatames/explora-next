@@ -74,6 +74,7 @@ keywords:
 imagen: /images/actividades/sevilla/merida/merida-teatro-romano.webp
 imagenAlt: Colonnaded stage of the Roman theatre of Mérida under a deep blue sky
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

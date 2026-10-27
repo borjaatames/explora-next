@@ -72,6 +72,7 @@ keywords:
 imagen: /images/actividades/valencia/lonja-horchata/lonja-fachada.webp
 imagenAlt: Fachada gótica de la Lonja de la Seda de Valencia
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

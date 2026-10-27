@@ -90,6 +90,7 @@ galeria:
 - src: /images/actividades/granada/tapas/tapas-vista-alhambra.webp
   alt: The Alhambra seen from the Albaicín
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-25'

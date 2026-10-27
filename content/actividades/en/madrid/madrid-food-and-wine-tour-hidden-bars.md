@@ -78,6 +78,7 @@ imagenAlt: Terraces on Calle Cava Baja in La Latina during the Paloma festivitie
 ratingProveedor: 5.0
 numeroOpiniones: 2
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

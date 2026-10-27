@@ -82,6 +82,7 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
   alt: Exterior view of the Sagrada Familia at dusk, with several of its towers
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'

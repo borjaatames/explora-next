@@ -82,6 +82,7 @@ keywords:
 imagen: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
 imagenAlt: Monasterio de Montserrat entre los picos rocosos de la montaña
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

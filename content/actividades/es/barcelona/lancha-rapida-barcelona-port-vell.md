@@ -99,6 +99,7 @@ galeria:
 - src: /images/actividades/barcelona/barcos/barcos-lancha-mar.webp
   alt: Lancha en el Mediterráneo frente a Barcelona
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

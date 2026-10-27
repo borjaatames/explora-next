@@ -81,6 +81,7 @@ keywords:
 imagen: /images/actividades/madrid/malasana/plaza-dos-de-mayo.webp
 imagenAlt: Plaza del Dos de Mayo in Malasaña with the old artillery park arch
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

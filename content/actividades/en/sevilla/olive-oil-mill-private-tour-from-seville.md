@@ -74,6 +74,7 @@ imagenAlt: Olive mill cellar with stainless steel tanks for olive oil
 ratingProveedor: 5.0
 numeroOpiniones: 2
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

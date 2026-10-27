@@ -77,6 +77,7 @@ keywords:
 imagen: /images/actividades/granada/gorafe/gorafe-canon-badlands.webp
 imagenAlt: Cañón de Gorafe con sus paredes de badlands y el pueblo en el fondo del valle, entre olivos
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

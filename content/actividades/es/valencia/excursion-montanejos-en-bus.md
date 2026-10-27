@@ -62,6 +62,7 @@ galeria:
 atraccionesRelacionadas:
 - excursiones
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'

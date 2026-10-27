@@ -79,6 +79,7 @@ galeria:
 - src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-06.webp
   alt: Stands of the Itálica amphitheatre
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'

@@ -70,6 +70,7 @@ galeria:
 - src: /images/actividades/madrid/retiro/retiro-palacio-cristal.webp
   alt: Palacio de Cristal en el parque del Retiro
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-09-05'

@@ -82,6 +82,7 @@ keywords:
 imagen: /images/actividades/barcelona/montserrat/montserrat-monastery-mountain-stone-nature-hero-hero.webp
 imagenAlt: Montserrat monastery among the mountain's rocky peaks
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

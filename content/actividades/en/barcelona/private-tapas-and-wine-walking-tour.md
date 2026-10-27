@@ -93,6 +93,7 @@ galeria:
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
   alt: Fresh bonito fish for sale at a fish stall in La Boqueria market
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

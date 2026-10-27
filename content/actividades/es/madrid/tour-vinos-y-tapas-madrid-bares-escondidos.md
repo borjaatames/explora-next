@@ -78,6 +78,7 @@ imagenAlt: Terrazas de la calle Cava Baja, en La Latina, durante las fiestas de 
 ratingProveedor: 5.0
 numeroOpiniones: 2
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

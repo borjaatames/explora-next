@@ -84,6 +84,7 @@ imagenAlt: Modernista building of Caves Codorníu in Sant Sadurní d'Anoia
 ratingProveedor: 4.9
 numeroOpiniones: 35
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

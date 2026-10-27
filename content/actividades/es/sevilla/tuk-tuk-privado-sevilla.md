@@ -103,6 +103,7 @@ galeria:
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
   alt: Plaza de toros de la Maestranza en Sevilla
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-05'

@@ -105,6 +105,7 @@ numeroOpiniones: 97
 atraccionesRelacionadas:
 - naturaleza
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-25'

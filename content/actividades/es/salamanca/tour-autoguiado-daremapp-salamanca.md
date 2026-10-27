@@ -78,6 +78,7 @@ atraccionesRelacionadas:
 - plaza-mayor
 - casco-historico
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-25'

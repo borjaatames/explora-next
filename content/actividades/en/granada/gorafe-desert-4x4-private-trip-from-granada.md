@@ -77,6 +77,7 @@ keywords:
 imagen: /images/actividades/granada/gorafe/gorafe-canon-badlands.webp
 imagenAlt: Gorafe canyon with badland cliffs and the village on the valley floor among olive trees
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

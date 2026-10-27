@@ -70,6 +70,7 @@ keywords:
 imagen: /images/actividades/sevilla/cerro-del-hierro/cerro-hierro-karst.webp
 imagenAlt: Agujas de roca kárstica del Cerro del Hierro entre tierra rojiza y matorral
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

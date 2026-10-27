@@ -100,6 +100,7 @@ numeroOpiniones: 1558
 atraccionesRelacionadas:
 - norte
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 fecha_actualizacion: '2026-10-24'

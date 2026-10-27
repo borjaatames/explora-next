@@ -79,6 +79,7 @@ keywords:
 imagen: /images/actividades/cadiz/vejer-toros/toros-bravos-dehesa.webp
 imagenAlt: Fighting bulls grazing in a green dehesa with holm oaks
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

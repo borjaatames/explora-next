@@ -89,6 +89,7 @@ galeria:
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-olives-oil-market-flavors-spain-hero.webp
   alt: Variety of loose olives at a stall in La Boqueria market
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

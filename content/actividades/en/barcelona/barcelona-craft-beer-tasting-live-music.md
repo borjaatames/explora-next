@@ -76,6 +76,7 @@ keywords:
 imagen: /images/actividades/barcelona/proveedor-1242119/prov-cervezas-barra.webp
 imagenAlt: Craft beers served at the bar during the tasting
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

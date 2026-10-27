@@ -131,6 +131,7 @@ galeria:
 ratingProveedor: 4.9
 numeroOpiniones: 1130
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-05-15'
 bokunProductId: 850193

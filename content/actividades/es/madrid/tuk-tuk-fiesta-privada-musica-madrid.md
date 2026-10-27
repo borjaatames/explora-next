@@ -83,6 +83,7 @@ galeria:
 - src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp
   alt: Cartel de Tío Pepe en la Puerta del Sol
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-25'

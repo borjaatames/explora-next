@@ -102,6 +102,7 @@ atraccionesRelacionadas:
 - tabarca
 - mar
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-25'

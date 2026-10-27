@@ -75,6 +75,7 @@ keywords:
 imagen: /images/actividades/barcelona/proveedor-1220934/prov-sala-caballetes.webp
 imagenAlt: Sala preparada con caballetes y lienzos para la sesión de pintura
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -70,6 +70,7 @@ keywords:
 imagen: /images/actividades/cordoba/subbetica/priego-fuente-del-rey.webp
 imagenAlt: Fuente del Rey in Priego de Córdoba with its central sculpture group
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

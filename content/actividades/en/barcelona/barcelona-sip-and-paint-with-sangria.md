@@ -75,6 +75,7 @@ keywords:
 imagen: /images/actividades/barcelona/proveedor-1220934/prov-sala-caballetes.webp
 imagenAlt: Room set up with easels and canvases for the painting session
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

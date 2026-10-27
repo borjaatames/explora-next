@@ -84,6 +84,7 @@ imagenAlt: Red wine being poured during the winery tasting
 ratingProveedor: 5.0
 numeroOpiniones: 8
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

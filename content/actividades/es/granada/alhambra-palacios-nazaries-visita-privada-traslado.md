@@ -101,6 +101,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/2a9d793e-5d95-4a7d-a574-daa60f6751c4.jpeg
   alt: Visitantes en la Alcazaba de la Alhambra
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-25'

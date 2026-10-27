@@ -98,6 +98,7 @@ galeria:
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
   alt: Sailing yacht at sunset off the Barcelona coast
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

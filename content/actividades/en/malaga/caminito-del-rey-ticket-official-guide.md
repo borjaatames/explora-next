@@ -98,6 +98,7 @@ numeroOpiniones: 16892
 atraccionesRelacionadas:
 - caminito
 publicada: true
+indexar: false
 destacada: true
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-17'

@@ -70,6 +70,7 @@ keywords:
 imagen: /images/actividades/barcelona/proveedor-872250/prov-azotea-cata-cerveza.webp
 imagenAlt: Group on the rooftop during the craft beer tasting in Barcelona
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

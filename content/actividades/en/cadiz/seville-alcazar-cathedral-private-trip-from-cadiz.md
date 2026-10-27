@@ -78,6 +78,7 @@ keywords:
 imagen: /images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp
 imagenAlt: Inner courtyard of the Royal Alcázar of Seville
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

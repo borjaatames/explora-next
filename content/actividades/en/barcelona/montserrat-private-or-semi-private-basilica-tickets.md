@@ -84,6 +84,7 @@ imagenAlt: Statue of Abbot Oliba among the greenery of Montserrat
 ratingProveedor: 4.8
 numeroOpiniones: 311
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -78,6 +78,7 @@ numeroOpiniones: 19870
 atraccionesRelacionadas:
 - otros-barcelona
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-17'

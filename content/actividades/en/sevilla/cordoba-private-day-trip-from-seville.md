@@ -85,6 +85,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/86559899-2561-4ab5-8c42-e4afbf08d611.jpeg
   alt: Bell tower of the Mosque-Cathedral among palm trees
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'

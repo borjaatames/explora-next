@@ -83,6 +83,7 @@ imagenAlt: Callejón del Barrio Gótico de Barcelona
 ratingProveedor: 5.0
 numeroOpiniones: 16
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

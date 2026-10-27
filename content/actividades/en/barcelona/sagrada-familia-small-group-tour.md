@@ -93,6 +93,7 @@ imagenAlt: "Guide talking to the group in front of the Sagrada Familia"
 ratingProveedor: 4.7
 numeroOpiniones: 3690
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-05-15'
 galeria:

@@ -80,6 +80,7 @@ imagenAlt: Narrow street with balconies in Barcelona's old town
 ratingProveedor: 4.8
 numeroOpiniones: 16
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

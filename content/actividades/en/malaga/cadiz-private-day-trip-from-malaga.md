@@ -75,6 +75,7 @@ keywords:
 imagen: /images/actividades/cadiz/centro/catedral-tejados.webp
 imagenAlt: The cathedral above Cádiz rooftops
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

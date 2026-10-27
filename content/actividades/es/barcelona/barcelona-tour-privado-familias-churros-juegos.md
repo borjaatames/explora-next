@@ -82,6 +82,7 @@ imagenAlt: La catedral de Barcelona, en el corazón del Barrio Gótico
 ratingProveedor: 4.4
 numeroOpiniones: 90
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

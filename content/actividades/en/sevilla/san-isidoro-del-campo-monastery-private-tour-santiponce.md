@@ -66,6 +66,7 @@ keywords:
 imagen: /images/actividades/sevilla/san-isidoro-del-campo/san-isidoro-fachada-naranjos.webp
 imagenAlt: Crenellated walls of the Monastery of San Isidoro del Campo with orange trees in the foreground
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

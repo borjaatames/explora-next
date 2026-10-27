@@ -82,6 +82,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/2ebd216e-98bf-40c1-a602-06fbd36e92d8.png
   alt: Luxury shop on Calle Serrano
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

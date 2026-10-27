@@ -76,6 +76,7 @@ keywords:
 imagen: /images/actividades/sevilla/setas-metropol/setas-metropol-sevilla-pasarela-giralda-hero.webp
 imagenAlt: Top walkway of Las Setas (Metropol Parasol) with the Giralda in the distance
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

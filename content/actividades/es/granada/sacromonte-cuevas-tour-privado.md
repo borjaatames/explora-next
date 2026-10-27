@@ -79,6 +79,7 @@ keywords:
 imagen: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
 imagenAlt: Casas cueva en la ladera del Sacromonte
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

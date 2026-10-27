@@ -68,6 +68,7 @@ keywords:
 imagen: /images/actividades/cordoba/montilla/montilla-bodega-tinajas.webp
 imagenAlt: Nave de bodega en Montilla con grandes tinajas de barro
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

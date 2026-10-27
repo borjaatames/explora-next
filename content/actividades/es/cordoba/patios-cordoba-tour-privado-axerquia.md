@@ -74,6 +74,7 @@ keywords:
 imagen: /images/actividades/cordoba/patios/patios-cordoba-hero.webp
 imagenAlt: Patio cordobés con macetas
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

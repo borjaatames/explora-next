@@ -74,6 +74,7 @@ imagenAlt: Bodega de una almazara con depósitos de acero inoxidable para el ace
 ratingProveedor: 5.0
 numeroOpiniones: 2
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

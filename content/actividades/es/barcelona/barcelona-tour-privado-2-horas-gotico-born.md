@@ -81,6 +81,7 @@ imagenAlt: Calles medievales del Barrio Gótico de Barcelona con la catedral al 
 ratingProveedor: 5.0
 numeroOpiniones: 15
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

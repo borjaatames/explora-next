@@ -85,6 +85,7 @@ imagenAlt: Sala de barricas abovedada de una bodega de la Ribera del Duero
 ratingProveedor: 4.9
 numeroOpiniones: 53
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

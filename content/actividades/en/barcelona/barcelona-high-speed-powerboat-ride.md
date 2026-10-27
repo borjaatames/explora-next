@@ -99,6 +99,7 @@ galeria:
 - src: /images/actividades/barcelona/barcos/barcos-lancha-mar.webp
   alt: Speedboat on the Mediterranean off Barcelona
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

@@ -77,6 +77,7 @@ keywords:
 imagen: /images/actividades/barcelona/proveedor-1220917/prov-barco-cubierta.webp
 imagenAlt: Pasajeros en la cubierta del barco frente al litoral de Barcelona
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

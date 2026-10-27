@@ -71,6 +71,7 @@ keywords:
 imagen: /images/actividades/cordoba/gastronomia/taberna-cordoba-terraza.webp
 imagenAlt: Terraza de una taberna en una calle del casco histórico de Córdoba
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

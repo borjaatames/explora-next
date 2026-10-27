@@ -77,6 +77,7 @@ keywords:
 imagen: /images/actividades/cadiz/pueblos/zahara.webp
 imagenAlt: Zahara de la Sierra bajo su castillo
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -84,6 +84,7 @@ imagenAlt: Vino tinto sirviéndose durante la cata en la bodega
 ratingProveedor: 5.0
 numeroOpiniones: 8
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

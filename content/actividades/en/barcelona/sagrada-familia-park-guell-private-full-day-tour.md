@@ -87,6 +87,7 @@ imagenAlt: Terrace with Park Güell's wavy mosaic bench and views of Barcelona a
 ratingProveedor: 4.8
 numeroOpiniones: 952
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

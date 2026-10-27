@@ -81,6 +81,7 @@ imagenAlt: Piscina con flotadores y toboganes en Western Water Park
 ratingProveedor: 4.3
 numeroOpiniones: 582
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-25'

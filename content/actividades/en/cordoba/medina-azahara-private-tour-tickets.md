@@ -74,6 +74,7 @@ keywords:
 imagen: /images/actividades/cordoba/medina-azahara/medina-azahara-cordoba-hero.webp
 imagenAlt: Ruins of the caliphal palace of Medina Azahara
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

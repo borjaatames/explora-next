@@ -82,6 +82,7 @@ imagenAlt: Copas de vino servidas sobre una mesa en una cata
 ratingProveedor: 4.9
 numeroOpiniones: 91
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

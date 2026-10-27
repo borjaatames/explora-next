@@ -95,6 +95,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/1f34a406-dff4-4231-9416-33873adb36fa.jpg
   alt: Espadaña encalada en la sierra de Aracena
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'

@@ -92,6 +92,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/01dc97d6-38e3-4a74-b35d-8908532caba9.jpg
   alt: Landscape on the White Villages route
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'

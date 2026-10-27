@@ -96,6 +96,7 @@ galeria:
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp
   alt: Velero navegando frente a la costa de Barcelona
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

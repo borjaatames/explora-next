@@ -110,6 +110,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 342
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-05-14'
 guiasRelacionadas:

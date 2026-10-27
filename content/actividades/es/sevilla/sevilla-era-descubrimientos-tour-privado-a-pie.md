@@ -75,6 +75,7 @@ keywords:
 imagen: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
 imagenAlt: Torre del Oro junto al Guadalquivir
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

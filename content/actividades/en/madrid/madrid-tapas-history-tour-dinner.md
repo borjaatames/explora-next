@@ -77,6 +77,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/fe5b3e58-86b0-4a51-b344-2dd13d027648.jpeg
   alt: Group trying tapas in the street
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

@@ -70,6 +70,7 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp
   alt: Nave vault of the Sagrada Familia with its skylights
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-25'

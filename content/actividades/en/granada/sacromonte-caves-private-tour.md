@@ -79,6 +79,7 @@ keywords:
 imagen: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
 imagenAlt: Cave houses on the Sacromonte hillside
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

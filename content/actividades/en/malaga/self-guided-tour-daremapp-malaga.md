@@ -78,6 +78,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/44ae7cbd-488b-4cdc-bf9c-ec67efae089d.jpg
   alt: DaremApp app with the self-guided route
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-09-05'

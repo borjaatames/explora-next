@@ -83,6 +83,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/9f259571-19bb-4173-8036-22ceef061d52.jpeg
   alt: Grupo de amigas junto a una estatua en el centro de Madrid
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

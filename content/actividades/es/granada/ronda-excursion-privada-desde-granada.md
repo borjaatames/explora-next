@@ -75,6 +75,7 @@ keywords:
 imagen: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
 imagenAlt: Puente Nuevo de Ronda y las casas sobre el Tajo
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

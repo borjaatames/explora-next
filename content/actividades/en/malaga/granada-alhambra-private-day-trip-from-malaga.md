@@ -78,6 +78,7 @@ keywords:
 imagen: /images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp
 imagenAlt: The Alhambra at dusk from the Albaicín
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

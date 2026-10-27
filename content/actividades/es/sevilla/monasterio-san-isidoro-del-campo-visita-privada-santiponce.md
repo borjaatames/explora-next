@@ -66,6 +66,7 @@ keywords:
 imagen: /images/actividades/sevilla/san-isidoro-del-campo/san-isidoro-fachada-naranjos.webp
 imagenAlt: Muros almenados del Monasterio de San Isidoro del Campo con naranjos en primer plano
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

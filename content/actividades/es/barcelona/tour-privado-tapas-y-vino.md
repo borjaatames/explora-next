@@ -93,6 +93,7 @@ galeria:
 - src: /images/actividades/barcelona/boqueria/mercat-boqueria-bonito-mercado-hero.webp
   alt: Pescado fresco (bonito) a la venta en una pescaderia del Mercado de la Boqueria
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

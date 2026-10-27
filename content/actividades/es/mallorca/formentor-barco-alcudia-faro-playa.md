@@ -101,6 +101,7 @@ numeroOpiniones: 1354
 atraccionesRelacionadas:
 - calas-playas
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 fecha_actualizacion: '2026-10-24'

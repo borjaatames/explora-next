@@ -79,6 +79,7 @@ imagenAlt: Ronda's Puente Nuevo over the Tajo gorge
 ratingProveedor: 5.0
 numeroOpiniones: 6
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

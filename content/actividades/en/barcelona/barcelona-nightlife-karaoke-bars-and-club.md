@@ -75,6 +75,7 @@ keywords:
 imagen: /images/actividades/barcelona/proveedor-1229842/prov-karaoke.webp
 imagenAlt: Karaoke in a Barcelona bar
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

@@ -98,6 +98,7 @@ galeria:
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
   alt: Velero al atardecer frente a la costa de Barcelona
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

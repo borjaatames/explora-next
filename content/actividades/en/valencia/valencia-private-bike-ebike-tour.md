@@ -80,6 +80,7 @@ keywords:
 imagen: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp
 imagenAlt: Valencia's City of Arts and Sciences reflected in the water
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

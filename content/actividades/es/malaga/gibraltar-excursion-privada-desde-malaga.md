@@ -84,6 +84,7 @@ keywords:
 imagen: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
 imagenAlt: Peñón de Gibraltar visto desde la ciudad
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

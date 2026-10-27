@@ -76,6 +76,7 @@ keywords:
 imagen: /images/actividades/cordoba/mezquita/bosque-arcos-bicolores.webp
 imagenAlt: Bosque de arcos bicolores de la Mezquita-Catedral de Córdoba
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

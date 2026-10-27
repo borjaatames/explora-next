@@ -80,6 +80,7 @@ galeria:
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-city-street-filled-lots-tall-hero.webp
   alt: View of Madrid's Gran Via with its historic buildings and the Torre de Madrid in the background
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

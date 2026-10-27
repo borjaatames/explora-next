@@ -83,6 +83,7 @@ galeria:
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp
   alt: Calle estrecha del Barrio Gótico de Barcelona al atardecer
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

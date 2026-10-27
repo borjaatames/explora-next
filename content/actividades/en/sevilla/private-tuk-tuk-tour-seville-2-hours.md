@@ -102,6 +102,7 @@ galeria:
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp
   alt: Tree-lined avenue in María Luisa Park
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-05'
 fecha_actualizacion: '2026-10-05'

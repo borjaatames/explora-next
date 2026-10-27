@@ -70,6 +70,7 @@ keywords:
 imagen: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
 imagenAlt: Triana Bridge over the Guadalquivir
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

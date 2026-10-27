@@ -87,6 +87,7 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/wikimedia-115176367-hero.webp
   alt: Inside a Sagrada Familia tower with the spiral staircase
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'

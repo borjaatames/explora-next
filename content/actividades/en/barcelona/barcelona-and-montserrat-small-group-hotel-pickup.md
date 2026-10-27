@@ -90,6 +90,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/d8e3dfaf-7892-4000-9c56-6dfcc30c4869.jpg
   alt: Travellers by the tour van in front of the Sagrada Família
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-12'
 fecha_actualizacion: '2026-10-12'

@@ -76,6 +76,7 @@ keywords:
 imagen: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-balcon-europa-vista-panoramica-02-hero.webp
 imagenAlt: The Balcón de Europa in Nerja
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

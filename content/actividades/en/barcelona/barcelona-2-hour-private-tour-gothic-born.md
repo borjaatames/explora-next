@@ -81,6 +81,7 @@ imagenAlt: Medieval streets of Barcelona's Gothic Quarter with the cathedral beh
 ratingProveedor: 5.0
 numeroOpiniones: 15
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

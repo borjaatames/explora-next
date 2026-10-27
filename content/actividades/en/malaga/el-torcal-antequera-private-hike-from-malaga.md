@@ -79,6 +79,7 @@ keywords:
 imagen: /images/actividades/malaga/antequera/torcal-02.webp
 imagenAlt: Karst formations of El Torcal
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

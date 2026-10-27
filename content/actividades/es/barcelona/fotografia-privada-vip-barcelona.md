@@ -71,6 +71,7 @@ galeria:
 - src: /images/actividades/barcelona/casa-mila/casa-mila-tall-building-balconies-it-hero.webp
   alt: Casa Milà bajo un cielo azul con nubes
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-10-25'

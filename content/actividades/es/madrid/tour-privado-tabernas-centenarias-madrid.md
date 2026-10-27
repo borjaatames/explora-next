@@ -85,6 +85,7 @@ galeria:
 - src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
   alt: La Plaza Mayor, en el corazón del Madrid de los Austrias
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

@@ -130,6 +130,7 @@ numeroOpiniones: 11157
 guiasRelacionadas:
 - seville-with-kids
 publicada: true
+indexar: false
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

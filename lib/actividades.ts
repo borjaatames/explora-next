@@ -218,6 +218,13 @@ export type ActividadFrontmatter = {
   // Estado
   publicada: boolean;
   destacada?: boolean;
+  /**
+   * `false` = publicada pero fuera de Google (`noindex, follow` y fuera del
+   * sitemap). Sigue en listados, guías y con su botón de reserva. Se usa para
+   * fichas que duplican a otra mejor de la misma atracción (recorte del
+   * 27 oct 2026, ver `recorte-indexacion-2026-10-27.xlsx`). Por defecto, indexable.
+   */
+  indexar?: boolean;
   fecha: string;
   /**
    * Fecha de última actualización editorial (ISO YYYY-MM-DD).

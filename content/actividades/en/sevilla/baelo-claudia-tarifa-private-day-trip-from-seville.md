@@ -72,6 +72,7 @@ keywords:
 imagen: /images/actividades/cadiz/baelo-claudia/baelo-claudia-01.webp
 imagenAlt: Roman ruins of Baelo Claudia by the sea
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

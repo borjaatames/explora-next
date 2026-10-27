@@ -86,6 +86,7 @@ keywords:
 imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
 imagenAlt: Facade of the Sagrada Familia with its towers in Barcelona
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

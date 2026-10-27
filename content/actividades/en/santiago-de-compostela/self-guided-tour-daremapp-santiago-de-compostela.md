@@ -77,6 +77,7 @@ galeria:
 atraccionesRelacionadas:
 - centro-historico
 publicada: true
+indexar: false
 destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-09-05'
