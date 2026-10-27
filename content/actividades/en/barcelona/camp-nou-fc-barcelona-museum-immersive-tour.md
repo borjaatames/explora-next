@@ -98,9 +98,25 @@ keywords:
 - fc barcelona museum
 - camp nou renovation visit
 - barca immersive exhibition
-imagen: /images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye-SCN-Sud.tmedium-hero.webp
-imagenAlt: Aerial view of the new Spotify Camp Nou
+imagen: "/images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-sala-inmersiva-360-messi.webp"
+imagenAlt: "Visitors in the 360° immersive room of the FC Barcelona museum"
 galeria:
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-sala-inmersiva-familias.webp
+  alt: "Families in the immersive room watching a league title celebration"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-pantallas-jugadores-familia.webp
+  alt: "Family using the player touchscreens in the Barça museum"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-sala-trofeos-champions.webp
+  alt: "FC Barcelona's European Cups in lit display cases"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-trofeos-champions-visitantes.webp
+  alt: "Visitors before the European Cup and the trophy cabinet"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-selfi-escudo.webp
+  alt: "Friends taking a selfie in front of the FC Barcelona crest"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-sala-balon-secciones.webp
+  alt: "Giant ball room devoted to the club's other sports sections"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-sala-la-masia.webp
+  alt: "Visitors watching the La Masia audiovisual"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-selfi-balon-socios.webp
+  alt: "Family taking a selfie by the museum's giant ball"
 - src: /images/actividades/barcelona/camp-nou/museo-barca-copas-champions.webp
   alt: Display case with the European Cups at the FC Barcelona Museum
 - src: /images/actividades/barcelona/camp-nou/unsplash-FfGoHKPTV1s-hero.webp

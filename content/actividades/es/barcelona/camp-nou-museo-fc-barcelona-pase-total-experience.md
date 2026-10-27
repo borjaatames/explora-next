@@ -100,9 +100,27 @@ keywords:
 - barca robokeeper
 - camp nou virtual dream
 - fc barcelona pase premium
-imagen: /images/actividades/barcelona/camp-nou/16979312785855-hero.webp
-imagenAlt: Vista aérea nocturna del Spotify Camp Nou iluminado
+imagen: "/images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-realidad-virtual.webp"
+imagenAlt: "Familia con gafas de realidad virtual en el museo del Barça"
 galeria:
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-sala-inmersiva-360-messi.webp
+  alt: "Visitantes en la sala inmersiva de 360° del museo del FC Barcelona"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-sala-trofeos-champions.webp
+  alt: "Las Copas de Europa del FC Barcelona en vitrinas iluminadas"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-pantallas-jugadores-familia.webp
+  alt: "Familia consultando las pantallas táctiles de jugadores en el museo del Barça"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-sala-inmersiva-familias.webp
+  alt: "Familias en la sala inmersiva viendo la celebración de una Liga"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-trofeos-champions-visitantes.webp
+  alt: "Visitantes ante la Copa de Europa y la vitrina de trofeos"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-selfi-escudo.webp
+  alt: "Amigos haciéndose un selfi ante el escudo del FC Barcelona"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-sala-balon-secciones.webp
+  alt: "Sala del balón gigante dedicada a las secciones del club"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-sala-la-masia.webp
+  alt: "Visitantes viendo el audiovisual de La Masia"
+- src: /images/actividades/barcelona/camp-nou/fcb-prensa/museo-fcb-selfi-balon-socios.webp
+  alt: "Familia haciéndose un selfi junto al balón gigante del museo"
 - src: /images/actividades/barcelona/camp-nou/museo-barca-copas-champions.webp
   alt: Vitrina con las Copas de Europa en el Museo del FC Barcelona
 - src: /images/actividades/barcelona/camp-nou/wikimedia-estatua-de-ladislao-kubala-stecz-exteriores-do-camp-nou-barcelona-b32-hero.webp
