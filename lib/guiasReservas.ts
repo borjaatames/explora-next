@@ -1,3 +1,4 @@
+import type { ParadaMapa } from "@/lib/mapasGuias";
 import { obtenerListaActividadesPorCiudad } from "./actividades";
 import type { ActividadListItem } from "./actividades";
 import type { Idioma } from "./i18n/types";
@@ -33,7 +34,8 @@ export type PosicionReserva =
 
 export type TrozoGuia =
   | { tipo: "html"; html: string }
-  | { tipo: "actividad"; slug: string };
+  | { tipo: "actividad"; slug: string }
+  | { tipo: "mapa"; dia: number; paradas: ParadaMapa[] };
 
 /**
  * Idioma en el que existen fichas para una guía. Solo hay fichas ES y EN:

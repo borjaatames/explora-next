@@ -29,6 +29,8 @@ import { anadirAnclasH2 } from "@/lib/indiceGuia";
 import ReservasGuia from "@/components/guia/ReservasGuia";
 import OpcionesGuia, { type OpcionGuia } from "@/components/guia/OpcionesGuia";
 import RespuestaCorta from "@/components/guia/RespuestaCorta";
+import MapaDiaGuia from "@/components/guia/MapaDiaGuia";
+import { insertarMapasPorDia, obtenerMapasGuia } from "@/lib/mapasGuias";
 import TarjetaReservaInline from "@/components/guia/TarjetaReservaInline";
 import CtaStickyGuia from "@/components/guia/CtaStickyGuia";
 import TrackingReservasGuia from "@/components/guia/TrackingReservasGuia";
@@ -260,9 +262,13 @@ export default async function GuiaPage({ params }: Props) {
 
   // Reservas dentro de la guía (ver lib/guiasReservas.ts).
   const fichasCiudad = indexarFichasCiudad(lang, guia.categoria);
-  const trozos = partirHtmlPorShortcodes(
-    enriquecerEnlacesFichas(htmlConAnclas, fichasCiudad, lang),
-    fichasCiudad
+  const trozos = insertarMapasPorDia(
+    partirHtmlPorShortcodes(
+      enriquecerEnlacesFichas(htmlConAnclas, fichasCiudad, lang),
+      fichasCiudad
+    ),
+    obtenerMapasGuia(guia.categoria, guia.slugs?.es),
+    lang
   );
   const opcionesGuia: OpcionGuia[] = (guia.opciones ?? []).flatMap((o) => {
     const actividad = fichasCiudad.get(o.ficha);
@@ -344,6 +350,13 @@ export default async function GuiaPage({ params }: Props) {
                 key={i}
                 className="prose-guia"
                 dangerouslySetInnerHTML={{ __html: trozo.html }}
+              />
+            ) : trozo.tipo === "mapa" ? (
+              <MapaDiaGuia
+                key={i}
+                dia={trozo.dia}
+                paradas={trozo.paradas}
+                idioma={lang === "de" ? "de" : lang === "en" ? "en" : "es"}
               />
             ) : (
               <TarjetaReservaInline
