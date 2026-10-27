@@ -76,14 +76,17 @@ html {
 .prose-guia blockquote {
   @apply border-l-4 border-azafran-400 bg-azafran-50 pl-6 pr-4 py-3 my-6 italic text-piedra-700;
 }
+/* En móvil la tabla puede desbordar (precios, nombres largos): se parte el
+   texto donde haga falta y, si aun así no cabe, la tabla hace scroll propio
+   en vez de ensanchar toda la página. */
 .prose-guia table {
-  @apply w-full my-6 border-collapse;
+  @apply block max-w-full overflow-x-auto md:table md:w-full my-6 border-collapse;
 }
 .prose-guia th {
-  @apply text-left bg-piedra-100 px-3 py-2 font-semibold border border-piedra-200;
+  @apply text-left bg-piedra-100 px-3 py-2 font-semibold border border-piedra-200 [overflow-wrap:anywhere];
 }
 .prose-guia td {
-  @apply px-3 py-2 border border-piedra-200;
+  @apply px-3 py-2 border border-piedra-200 [overflow-wrap:anywhere];
 }
 .prose-guia hr {
   @apply my-10 border-piedra-200;
