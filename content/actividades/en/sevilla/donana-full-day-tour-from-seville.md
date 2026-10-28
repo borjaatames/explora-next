@@ -72,23 +72,43 @@ keywords:
 - donana tour from seville
 - donana national park 4x4 tour
 - donana day trip
-imagen: https://imgcdn.bokun.tools/1107b3ec-a5ec-47f4-94b7-7c83a55a5bd6.jpg
-imagenAlt: Horses grazing in the Doñana marshes
+imagen: /images/actividades/sevilla/donana/rocio-marisma-caballos.webp
+imagenAlt: 'Horses grazing in the marshland in front of El Rocío village'
 galeria:
+- src: /images/actividades/sevilla/donana/marisma-caballo-amanecer.webp
+  alt: 'A horse in the Doñana marshes at dawn'
+- src: /images/actividades/sevilla/donana/rocio-marisma-aves.webp
+  alt: 'The El Rocío marsh with birds, at the gateway to Doñana'
+- src: /images/actividades/sevilla/donana/ermita-rocio.webp
+  alt: 'The El Rocío shrine, the lunch stop on the tour'
+- src: /images/actividades/sevilla/donana/todoterreno-marisma.webp
+  alt: 'A 4x4 crossing a marshland'
+- src: /images/actividades/sevilla/donana/flamencos.webp
+  alt: 'Flamingos, a common sight in the Doñana marshes'
+- src: /images/actividades/sevilla/donana/marismas-donana.webp
+  alt: 'The Doñana marshes'
+- src: /images/actividades/sevilla/donana/ermita-rocio-plaza.webp
+  alt: 'The El Rocío shrine and its sandy square'
+- src: /images/actividades/sevilla/donana/rocio-reflejo-atardecer.webp
+  alt: 'El Rocío reflected in the marsh at sunset'
+- src: /images/actividades/sevilla/donana/marismas-atardecer-grazalema.webp
+  alt: 'Sunset over the Doñana marshes with the Grazalema hills behind'
+- src: https://imgcdn.bokun.tools/1107b3ec-a5ec-47f4-94b7-7c83a55a5bd6.jpg
+  alt: 'Horses grazing in the Doñana marshes'
 - src: https://imgcdn.bokun.tools/4045f3be-4d72-48fd-b523-b0af80ec797d.jpg
-  alt: El Rocío hermitage reflected in the marsh
+  alt: 'El Rocío hermitage reflected in the marsh'
 - src: https://imgcdn.bokun.tools/0cc96fe4-9b64-45fb-b314-06d4483e6515.jpg
-  alt: Doñana's unspoilt beach with vehicle tracks
+  alt: 'Doñana''s unspoilt beach with vehicle tracks'
 - src: https://imgcdn.bokun.tools/80ef0542-ddfd-465a-978a-1cfcb2c7530e.jpg
-  alt: Scrubland landscape around Doñana
+  alt: 'Scrubland landscape around Doñana'
 - src: https://imgcdn.bokun.tools/c56c5943-91a2-4351-a7b9-b346f7ca7fcf.jpg
-  alt: Visitors looking out over the park
+  alt: 'Visitors looking out over the park'
 - src: https://imgcdn.bokun.tools/d56e52ea-a678-4221-be75-5adeeb7a7ea2.jpg
-  alt: The reddish waters of the Río Tinto
+  alt: 'The reddish waters of the Río Tinto'
 - src: https://imgcdn.bokun.tools/6d2e1649-a5d2-4b95-a927-c92d51daa8a6.jpg
-  alt: Detail of El Rocío hermitage
+  alt: 'Detail of El Rocío hermitage'
 - src: https://imgcdn.bokun.tools/3fe314c7-d357-4ea3-b5d1-6eb4bd777b3c.jpg
-  alt: Sunset on the Doñana coast
+  alt: 'Sunset on the Doñana coast'
 publicada: true
 indexar: false
 destacada: false

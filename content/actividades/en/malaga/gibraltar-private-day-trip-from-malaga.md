@@ -102,6 +102,12 @@ galeria:
   alt: 'A Barbary macaque sitting by the sea'
 - src: /images/actividades/malaga/gibraltar/playa-penon.webp
   alt: 'La Línea beach with the Rock of Gibraltar behind'
+- src: /images/actividades/malaga/gibraltar/cueva-san-miguel-auditorio.webp
+  alt: 'The natural auditorium of St Michael''s Cave in the Rock of Gibraltar'
+- src: /images/actividades/malaga/gibraltar/cueva-san-miguel-iluminada.webp
+  alt: 'Illuminated stalactites in St Michael''s Cave, Gibraltar'
+- src: /images/actividades/malaga/gibraltar/cueva-san-miguel-estalactitas.webp
+  alt: 'Stalactite formations in St Michael''s Cave, Gibraltar'
 - src: https://imgcdn.bokun.tools/06257ff6-7c9f-4078-92cc-da6c77cb9ed6.jpg
   alt: 'Barbary macaque with the Bay of Gibraltar behind'
 - src: https://imgcdn.bokun.tools/c5e74163-8ef0-4a08-8e4a-f2d2db2e7c9a.jpg

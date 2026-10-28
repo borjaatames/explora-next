@@ -79,21 +79,35 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/sevilla/merida/merida-teatro-graderio.webp
-  alt: Seating and stage of the Roman theatre of Mérida with visitors
+  alt: 'Seating and stage of the Roman theatre of Mérida with visitors'
 - src: /images/actividades/sevilla/proveedor-934218/prov-teatro-contrapicado.webp
-  alt: Columns of the Roman theatre stage in Mérida seen from below
+  alt: 'Columns of the Roman theatre stage in Mérida seen from below'
 - src: /images/actividades/sevilla/merida/merida-puente-romano.webp
-  alt: Roman bridge of Mérida over the Guadiana River with its arches reflected in the water
+  alt: 'Roman bridge of Mérida over the Guadiana River with its arches reflected in the water'
 - src: /images/actividades/sevilla/proveedor-934218/prov-arcos-romanos.webp
-  alt: Stone vaulted passage in Mérida's Roman remains
+  alt: 'Stone vaulted passage in Mérida''s Roman remains'
 - src: /images/actividades/sevilla/merida/merida-templo-diana.webp
-  alt: Temple of Diana in central Mérida with its Corinthian columns
+  alt: 'Temple of Diana in central Mérida with its Corinthian columns'
+- src: /images/actividades/sevilla/merida/merida-teatro-escena-panoramica.webp
+  alt: 'The stage front of the Roman theatre of Mérida seen from the seating'
+- src: /images/actividades/sevilla/merida/merida-teatro-cavea.webp
+  alt: 'The seating and stage of the Roman theatre of Mérida'
+- src: /images/actividades/sevilla/merida/merida-teatro-columnas.webp
+  alt: 'Columns of the stage front of the Roman theatre of Mérida'
+- src: /images/actividades/sevilla/merida/merida-templo-diana-frontal.webp
+  alt: 'The Temple of Diana in the centre of Mérida'
+- src: /images/actividades/sevilla/merida/merida-templo-diana-columnas.webp
+  alt: 'Corinthian columns of the Temple of Diana in Mérida'
+- src: /images/actividades/sevilla/merida/merida-acueducto-milagros.webp
+  alt: 'The Milagros aqueduct on the outskirts of Mérida'
+- src: /images/actividades/sevilla/merida/merida-acueducto-ciguenas.webp
+  alt: 'Stork nests on the pillars of the Milagros aqueduct'
 - src: https://imgcdn.bokun.tools/d60768e1-c4b5-456d-85f6-4a3add3d44c3.jpg
-  alt: Stage of the Roman theatre in Mérida
+  alt: 'Stage of the Roman theatre in Mérida'
 - src: https://imgcdn.bokun.tools/b0d66d2b-004a-465c-8400-d292bf8b6ea0.jpg
-  alt: Columns of the Temple of Diana in Mérida
+  alt: 'Columns of the Temple of Diana in Mérida'
 - src: https://imgcdn.bokun.tools/0e44da0c-5ecf-46a0-be29-b0767478dccf.jpg
-  alt: Travellers in a vaulted Roman passage
+  alt: 'Travellers in a vaulted Roman passage'
 bokunProductId: 934218
 fecha_actualizacion: '2026-10-24'
 privada: true

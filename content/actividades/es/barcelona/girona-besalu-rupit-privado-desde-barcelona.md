@@ -94,6 +94,22 @@ galeria:
   alt: 'Rincón del Call, el barrio judío de Girona'
 - src: /images/actividades/girona/call-jueu/call-jueu-02.webp
   alt: 'Fachada del centro judío en el Call de Girona'
+- src: /images/actividades/barcelona/girona/besalu-puente-rio.webp
+  alt: 'El puente medieval de Besalú sobre el río Fluvià'
+- src: /images/actividades/barcelona/girona/besalu-puente-arcos.webp
+  alt: 'Los arcos del puente fortificado de Besalú'
+- src: /images/actividades/barcelona/girona/besalu-vista-aerea.webp
+  alt: 'Besalú y su puente medieval vistos desde lo alto'
+- src: /images/actividades/barcelona/girona/besalu-entrada-puente.webp
+  alt: 'Entrada al puente de Besalú con el pueblo medieval al fondo'
+- src: /images/actividades/barcelona/girona/rupit-pueblo-montana.webp
+  alt: 'El pueblo de piedra de Rupit entre montañas'
+- src: /images/actividades/barcelona/girona/rupit-desde-santa-magdalena.webp
+  alt: 'Rupit visto desde la ermita de Santa Magdalena'
+- src: /images/actividades/barcelona/girona/banyoles-lago-patos.webp
+  alt: 'El lago de Banyoles con patos entre los juncos'
+- src: /images/actividades/barcelona/girona/banyoles-barcas.webp
+  alt: 'Barcas en el lago de Banyoles'
 - src: https://imgcdn.bokun.tools/71fd56f7-b30d-42b3-b9bb-13fa8ce0bf51.jpg
   alt: 'Puente románico de Besalú sobre el río con el pueblo medieval al fondo'
 - src: https://imgcdn.bokun.tools/4e0eae7a-331f-412f-a5cf-c9b43bcf7325.jpg

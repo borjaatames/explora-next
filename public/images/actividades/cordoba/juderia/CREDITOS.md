@@ -10,3 +10,6 @@
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `juderia-cordoba-unsplash-h009mqfRvTw.jpg` — Unsplash, foto h009mqfRvTw, licencia Unsplash (https://unsplash.com/photos/h009mqfRvTw)
 - `juderia-cordoba-calleja-hero.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+- `sinagoga-galeria-mujeres.webp` — José Luis Filpo Cabana · CC BY 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Sinagoga_de_C%C3%B3rdoba._Galer%C3%ADa_de_las_mujeres.jpg · recortada a 1600×1200
+- `sinagoga-inscripcion-hebreo.webp` — cruccone · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Inscripci%C3%B3n_en_hebreo_en_la_Sinagoga_de_C%C3%B3rdoba_(Espa%C3%B1a).jpg · recortada a 1600×1200
+- `sinagoga-yeserias.webp` — Shaun Dunphy · CC BY-SA 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Sinagoga_de_C%C3%B3rdoba_02.jpg · recortada a 1600×1200

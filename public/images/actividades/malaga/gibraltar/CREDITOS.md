@@ -8,3 +8,6 @@
 - `macaco.webp` — Acediscovery, CC BY 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Barbary-macaque-in-Gibraltar-2011.jpg) · recortada a 1600×1200
 - `macacos-reserva-natural.webp` — Pexels, Liisbet Luup (Licencia Pexels) — https://www.pexels.com/photo/barbary-macaques-in-gibraltar-nature-reserve-32444034/
 - `dos-macacos-descansando.webp` — Pexels, Jędrzej Koralewski (Licencia Pexels) — https://www.pexels.com/photo/two-barbary-macaques-in-gibraltar-resting-35452002/
+- `cueva-san-miguel-auditorio.webp` — John Cummings · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:St_Michael%27s_Cave,_Gibraltar_06.JPG · recortada a 1600×1200
+- `cueva-san-miguel-iluminada.webp` — John Cummings · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:St_Michael%27s_Cave,_Gibraltar_11.JPG · recortada a 1600×1200
+- `cueva-san-miguel-estalactitas.webp` — Joseph Molinari · CC BY-SA 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Lower_St._Michael_Cave,_Gibraltar.jpg · recortada a 1600×1200

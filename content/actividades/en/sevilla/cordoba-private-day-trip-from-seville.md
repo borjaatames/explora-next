@@ -82,6 +82,12 @@ galeria:
   alt: 'The Gate of Forgiveness of the Mosque-Cathedral'
 - src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-cordob-hero.webp
   alt: 'The Roman bridge and the Córdoba Mosque lit up at night'
+- src: /images/actividades/cordoba/juderia/sinagoga-galeria-mujeres.webp
+  alt: 'Plasterwork and women''s gallery in the Córdoba Synagogue'
+- src: /images/actividades/cordoba/juderia/sinagoga-inscripcion-hebreo.webp
+  alt: 'Hebrew inscription on the walls of the Córdoba Synagogue'
+- src: /images/actividades/cordoba/juderia/sinagoga-yeserias.webp
+  alt: 'Mudéjar plasterwork in the Córdoba Synagogue'
 - src: https://imgcdn.bokun.tools/6640f83f-7531-4941-933e-c92dd701b74b.jpeg
   alt: 'Calleja de las Flores with the Mosque tower behind'
 - src: https://imgcdn.bokun.tools/f8dcc7bc-9888-4500-b763-2103479631ef.jpeg

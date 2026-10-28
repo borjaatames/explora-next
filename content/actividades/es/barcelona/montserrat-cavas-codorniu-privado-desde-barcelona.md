@@ -106,6 +106,20 @@ galeria:
   alt: 'El macizo de Montserrat con el monasterio'
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-01.webp
   alt: 'Las agujas de Montserrat desde el camino de Sant Jeroni'
+- src: /images/actividades/barcelona/penedes/codorniu-nave-modernista.webp
+  alt: 'Una de las naves modernistas de las cavas Codorníu en Sant Sadurní d''Anoia'
+- src: /images/actividades/barcelona/penedes/codorniu-arcos-ladrillo.webp
+  alt: 'Arcos de ladrillo de las cavas Codorníu, obra de Puig i Cadafalch'
+- src: /images/actividades/barcelona/penedes/codorniu-jardines.webp
+  alt: 'Los jardines y naves de las cavas Codorníu'
+- src: /images/actividades/barcelona/penedes/codorniu-entrada.webp
+  alt: 'La entrada a la finca de Codorníu en Sant Sadurní d''Anoia'
+- src: /images/actividades/barcelona/penedes/vinedos-alt-penedes.webp
+  alt: 'Viñedos del Alt Penedès, la tierra del cava'
+- src: /images/actividades/barcelona/penedes/vinedos-penedes-hileras.webp
+  alt: 'Hileras de viñas en el Penedès'
+- src: /images/actividades/barcelona/penedes/vinedos-penedes-tardor.webp
+  alt: 'Viñedos del Penedès con los colores del otoño'
 - src: https://imgcdn.bokun.tools/328a1a6e-f150-4e56-8510-87ffe45b24e6.jpg
   alt: 'Edificio modernista de las cavas Codorníu bajo un cielo azul'
 - src: https://imgcdn.bokun.tools/33970ab4-543f-4b02-8485-5de25cabbb7a.jpg

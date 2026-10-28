@@ -84,15 +84,29 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/cadiz/vejer-toros/vejer-pueblo-blanco.webp
-  alt: Casas blancas de Vejer de la Frontera bajo un cielo con nubes
+  alt: 'Casas blancas de Vejer de la Frontera bajo un cielo con nubes'
 - src: /images/actividades/cadiz/vejer-toros/vejer-campina-la-janda.webp
-  alt: Campiña verde de La Janda vista desde Vejer de la Frontera
+  alt: 'Campiña verde de La Janda vista desde Vejer de la Frontera'
+- src: /images/actividades/cadiz/vejer-toros/toro-bravo-cercado.webp
+  alt: 'Un toro bravo en el cercado de una ganadería'
+- src: /images/actividades/cadiz/vejer-toros/toro-bravo-pasto.webp
+  alt: 'Un toro bravo tumbado en el pasto seco'
+- src: /images/actividades/cadiz/vejer-toros/toros-dehesa-encinas.webp
+  alt: 'Toros bravos pastando entre encinas en la dehesa'
+- src: /images/actividades/cadiz/vejer-toros/vejer-plaza-espana.webp
+  alt: 'La plaza de España de Vejer de la Frontera con su fuente de azulejos'
+- src: /images/actividades/cadiz/vejer-toros/vejer-muralla.webp
+  alt: 'La muralla medieval de Vejer de la Frontera'
+- src: /images/actividades/cadiz/vejer-toros/vejer-calle-blanca.webp
+  alt: 'Una calle de casas blancas en Vejer de la Frontera'
+- src: /images/actividades/cadiz/vejer-toros/vejer-vista-campina.webp
+  alt: 'Vista de Vejer de la Frontera sobre la campiña'
 - src: https://imgcdn.bokun.tools/1c1f613f-b22f-4f61-acab-8109c9f87390.jpeg
-  alt: Toros bravos bajo las encinas de la dehesa
+  alt: 'Toros bravos bajo las encinas de la dehesa'
 - src: https://imgcdn.bokun.tools/c9343872-e9aa-4713-a534-058088e7eb6f.jpeg
-  alt: Manada de toros en un camino de la finca
+  alt: 'Manada de toros en un camino de la finca'
 - src: https://imgcdn.bokun.tools/ec3dc5b3-5dc5-46d4-abf1-ae162f1be50f.jpeg
-  alt: Toro bravo en el campo junto a un aerogenerador
+  alt: 'Toro bravo en el campo junto a un aerogenerador'
 bokunProductId: 949572
 fecha_actualizacion: '2026-10-24'
 privada: true

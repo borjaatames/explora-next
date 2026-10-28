@@ -101,6 +101,14 @@ galeria:
   alt: 'Un sumiller sirve vino tinto en la bodega'
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
   alt: 'Copas de vino tinto preparadas para la cata'
+- src: /images/actividades/madrid/ribera-del-duero/vinedos-bodega-ribera.webp
+  alt: 'Viñedos junto a una bodega de Ribera del Duero'
+- src: /images/actividades/madrid/ribera-del-duero/bodega-valdevinas-vinedos.webp
+  alt: 'Viñedos y bodega en Langa de Duero, Ribera del Duero'
+- src: /images/actividades/madrid/ribera-del-duero/asador-horno-aranda.webp
+  alt: 'Un asador saca el lechazo del horno de leña en Aranda de Duero'
+- src: /images/actividades/madrid/ribera-del-duero/asador-comedor-aranda.webp
+  alt: 'Comedor de un asador tradicional de Aranda de Duero'
 - src: https://imgcdn.bokun.tools/eb54c372-e6ab-4122-a228-a3d5b701a6cb.jpg
   alt: 'Nave de crianza abovedada con barricas en Ribera del Duero'
 - src: https://imgcdn.bokun.tools/4d085d0a-a00d-4c1b-8684-c8806e883605.jpg

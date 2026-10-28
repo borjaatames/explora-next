@@ -102,6 +102,14 @@ galeria:
   alt: 'A historic underground cellar in Aranda de Duero'
 - src: /images/actividades/madrid/ribera-del-duero/castillo-penafiel.webp
   alt: 'Peñafiel Castle, the landmark of Ribera del Duero'
+- src: /images/actividades/madrid/ribera-del-duero/vinedos-bodega-ribera.webp
+  alt: 'Vineyards beside a Ribera del Duero winery'
+- src: /images/actividades/madrid/ribera-del-duero/bodega-valdevinas-vinedos.webp
+  alt: 'Vineyards and winery in Langa de Duero, Ribera del Duero'
+- src: /images/actividades/madrid/ribera-del-duero/asador-horno-aranda.webp
+  alt: 'A cook taking roast lamb out of the wood oven in Aranda de Duero'
+- src: /images/actividades/madrid/ribera-del-duero/asador-comedor-aranda.webp
+  alt: 'Dining room of a traditional asador in Aranda de Duero'
 - src: https://imgcdn.bokun.tools/da1a45bc-12a3-411a-9893-c9fb02f72b9a.jpg
   alt: 'Aisle of barrels in a winery''s ageing hall'
 - src: https://imgcdn.bokun.tools/a40ee82b-0c33-49aa-bd92-b71746ba2115.jpg

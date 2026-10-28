@@ -101,6 +101,14 @@ galeria:
   alt: 'A sommelier pours red wine at the winery'
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
   alt: 'Glasses of red wine ready for the tasting'
+- src: /images/actividades/madrid/ribera-del-duero/vinedos-bodega-ribera.webp
+  alt: 'Vineyards beside a Ribera del Duero winery'
+- src: /images/actividades/madrid/ribera-del-duero/bodega-valdevinas-vinedos.webp
+  alt: 'Vineyards and winery in Langa de Duero, Ribera del Duero'
+- src: /images/actividades/madrid/ribera-del-duero/asador-horno-aranda.webp
+  alt: 'A cook taking roast lamb out of the wood oven in Aranda de Duero'
+- src: /images/actividades/madrid/ribera-del-duero/asador-comedor-aranda.webp
+  alt: 'Dining room of a traditional asador in Aranda de Duero'
 - src: https://imgcdn.bokun.tools/eb54c372-e6ab-4122-a228-a3d5b701a6cb.jpg
   alt: 'Vaulted ageing cellar with barrels in Ribera del Duero'
 - src: https://imgcdn.bokun.tools/4d085d0a-a00d-4c1b-8684-c8806e883605.jpg

@@ -82,19 +82,29 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/granada/gorafe/gorafe-hoya-conquil.webp
-  alt: Hoya del Conquil ravine in Gorafe with eroded slopes and terraces
+  alt: 'Hoya del Conquil ravine in Gorafe with eroded slopes and terraces'
 - src: /images/actividades/granada/proveedor-1036173/prov-4x4-gorafe.webp
-  alt: 4x4 in the badlands of the Gorafe desert
+  alt: '4x4 in the badlands of the Gorafe desert'
 - src: /images/actividades/granada/gorafe/gorafe-dolmen-65.webp
-  alt: Dolmen 65 in the Gorafe megalithic park with its capstone
+  alt: 'Dolmen 65 in the Gorafe megalithic park with its capstone'
 - src: /images/actividades/granada/gorafe/gorafe-canon-panoramica.webp
-  alt: Panorama of the Gorafe canyon with olive groves on the valley floor
+  alt: 'Panorama of the Gorafe canyon with olive groves on the valley floor'
+- src: /images/actividades/granada/gorafe/gorafe-desierto-sierra-nevada.webp
+  alt: 'The Gorafe desert badlands with Sierra Nevada in the background'
+- src: /images/actividades/granada/gorafe/gorafe-desierto-barrancos.webp
+  alt: 'Ravines and eroded hills of the Gorafe desert'
+- src: /images/actividades/granada/gorafe/gorafe-dolmen-70-camara.webp
+  alt: 'The chamber of dolmen 70 in the Gorafe megalithic park'
+- src: /images/actividades/granada/gorafe/gorafe-dolmen-72.webp
+  alt: 'Dolmen 72 on the slopes of the Gorafe megalithic park'
+- src: /images/actividades/granada/gorafe/gorafe-dolmen-137.webp
+  alt: 'Dolmen 137 on a hilltop in the Gorafe megalithic park'
 - src: https://imgcdn.bokun.tools/4756f33d-ff97-441a-9268-1f0f8ae55b2c.png
-  alt: Reddish ravines in the Gorafe desert
+  alt: 'Reddish ravines in the Gorafe desert'
 - src: https://imgcdn.bokun.tools/9602bf73-1cc4-4234-9b21-b8883b473185.png
-  alt: Eroded clay hills in Gorafe
+  alt: 'Eroded clay hills in Gorafe'
 - src: https://imgcdn.bokun.tools/5a76b49f-2ca8-43f6-8ac1-11d5a34a8d27.png
-  alt: Layered reddish cliffs
+  alt: 'Layered reddish cliffs'
 bokunProductId: 1036173
 fecha_actualizacion: '2026-10-24'
 privada: true

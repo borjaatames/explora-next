@@ -84,15 +84,29 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/cadiz/vejer-toros/vejer-pueblo-blanco.webp
-  alt: White houses of Vejer de la Frontera under a cloudy sky
+  alt: 'White houses of Vejer de la Frontera under a cloudy sky'
 - src: /images/actividades/cadiz/vejer-toros/vejer-campina-la-janda.webp
-  alt: Green countryside of La Janda seen from Vejer de la Frontera
+  alt: 'Green countryside of La Janda seen from Vejer de la Frontera'
+- src: /images/actividades/cadiz/vejer-toros/toro-bravo-cercado.webp
+  alt: 'A fighting bull in a ranch enclosure'
+- src: /images/actividades/cadiz/vejer-toros/toro-bravo-pasto.webp
+  alt: 'A fighting bull lying in dry pasture'
+- src: /images/actividades/cadiz/vejer-toros/toros-dehesa-encinas.webp
+  alt: 'Fighting bulls grazing among holm oaks in the dehesa'
+- src: /images/actividades/cadiz/vejer-toros/vejer-plaza-espana.webp
+  alt: 'Plaza de España in Vejer de la Frontera with its tiled fountain'
+- src: /images/actividades/cadiz/vejer-toros/vejer-muralla.webp
+  alt: 'The medieval wall of Vejer de la Frontera'
+- src: /images/actividades/cadiz/vejer-toros/vejer-calle-blanca.webp
+  alt: 'A street of whitewashed houses in Vejer de la Frontera'
+- src: /images/actividades/cadiz/vejer-toros/vejer-vista-campina.webp
+  alt: 'View of Vejer de la Frontera over the countryside'
 - src: https://imgcdn.bokun.tools/1c1f613f-b22f-4f61-acab-8109c9f87390.jpeg
-  alt: Fighting bulls under the holm oaks of the dehesa
+  alt: 'Fighting bulls under the holm oaks of the dehesa'
 - src: https://imgcdn.bokun.tools/c9343872-e9aa-4713-a534-058088e7eb6f.jpeg
-  alt: A herd of bulls on a track across the ranch
+  alt: 'A herd of bulls on a track across the ranch'
 - src: https://imgcdn.bokun.tools/ec3dc5b3-5dc5-46d4-abf1-ae162f1be50f.jpeg
-  alt: A fighting bull in the field near a wind turbine
+  alt: 'A fighting bull in the field near a wind turbine'
 bokunProductId: 949572
 fecha_actualizacion: '2026-10-24'
 privada: true

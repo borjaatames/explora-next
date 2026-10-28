@@ -106,6 +106,20 @@ galeria:
   alt: 'The Montserrat massif with the monastery'
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-01.webp
   alt: 'The Montserrat pinnacles from the Sant Jeroni path'
+- src: /images/actividades/barcelona/penedes/codorniu-nave-modernista.webp
+  alt: 'One of the Modernista halls of the Codorníu cellars in Sant Sadurní d''Anoia'
+- src: /images/actividades/barcelona/penedes/codorniu-arcos-ladrillo.webp
+  alt: 'Brick arches of the Codorníu cellars, designed by Puig i Cadafalch'
+- src: /images/actividades/barcelona/penedes/codorniu-jardines.webp
+  alt: 'The gardens and halls of the Codorníu cellars'
+- src: /images/actividades/barcelona/penedes/codorniu-entrada.webp
+  alt: 'The entrance to the Codorníu estate in Sant Sadurní d''Anoia'
+- src: /images/actividades/barcelona/penedes/vinedos-alt-penedes.webp
+  alt: 'Vineyards of the Alt Penedès, the home of cava'
+- src: /images/actividades/barcelona/penedes/vinedos-penedes-hileras.webp
+  alt: 'Rows of vines in the Penedès'
+- src: /images/actividades/barcelona/penedes/vinedos-penedes-tardor.webp
+  alt: 'Penedès vineyards in autumn colours'
 - src: https://imgcdn.bokun.tools/328a1a6e-f150-4e56-8510-87ffe45b24e6.jpg
   alt: 'Art Nouveau building of the Codorníu cava cellars under a blue sky'
 - src: https://imgcdn.bokun.tools/33970ab4-543f-4b02-8485-5de25cabbb7a.jpg

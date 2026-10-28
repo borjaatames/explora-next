@@ -79,21 +79,35 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/sevilla/merida/merida-teatro-graderio.webp
-  alt: Graderío y escena del teatro romano de Mérida con visitantes
+  alt: 'Graderío y escena del teatro romano de Mérida con visitantes'
 - src: /images/actividades/sevilla/proveedor-934218/prov-teatro-contrapicado.webp
-  alt: Columnas del frente escénico del teatro romano de Mérida vistas desde abajo
+  alt: 'Columnas del frente escénico del teatro romano de Mérida vistas desde abajo'
 - src: /images/actividades/sevilla/merida/merida-puente-romano.webp
-  alt: Puente romano de Mérida sobre el río Guadiana con sus arcos reflejados en el agua
+  alt: 'Puente romano de Mérida sobre el río Guadiana con sus arcos reflejados en el agua'
 - src: /images/actividades/sevilla/proveedor-934218/prov-arcos-romanos.webp
-  alt: Pasillo abovedado de piedra en el conjunto romano de Mérida
+  alt: 'Pasillo abovedado de piedra en el conjunto romano de Mérida'
 - src: /images/actividades/sevilla/merida/merida-templo-diana.webp
-  alt: Templo de Diana en el centro de Mérida, con sus columnas corintias
+  alt: 'Templo de Diana en el centro de Mérida, con sus columnas corintias'
+- src: /images/actividades/sevilla/merida/merida-teatro-escena-panoramica.webp
+  alt: 'El frente escénico del teatro romano de Mérida visto desde el graderío'
+- src: /images/actividades/sevilla/merida/merida-teatro-cavea.webp
+  alt: 'El graderío y la escena del teatro romano de Mérida'
+- src: /images/actividades/sevilla/merida/merida-teatro-columnas.webp
+  alt: 'Columnas del frente escénico del teatro romano de Mérida'
+- src: /images/actividades/sevilla/merida/merida-templo-diana-frontal.webp
+  alt: 'El templo de Diana en el centro de Mérida'
+- src: /images/actividades/sevilla/merida/merida-templo-diana-columnas.webp
+  alt: 'Columnas corintias del templo de Diana en Mérida'
+- src: /images/actividades/sevilla/merida/merida-acueducto-milagros.webp
+  alt: 'El acueducto de los Milagros, a las afueras de Mérida'
+- src: /images/actividades/sevilla/merida/merida-acueducto-ciguenas.webp
+  alt: 'Nidos de cigüeña sobre los pilares del acueducto de los Milagros'
 - src: https://imgcdn.bokun.tools/d60768e1-c4b5-456d-85f6-4a3add3d44c3.jpg
-  alt: Escena del teatro romano de Mérida
+  alt: 'Escena del teatro romano de Mérida'
 - src: https://imgcdn.bokun.tools/b0d66d2b-004a-465c-8400-d292bf8b6ea0.jpg
-  alt: Columnas del templo de Diana en Mérida
+  alt: 'Columnas del templo de Diana en Mérida'
 - src: https://imgcdn.bokun.tools/0e44da0c-5ecf-46a0-be29-b0767478dccf.jpg
-  alt: Viajeros en una galería romana abovedada
+  alt: 'Viajeros en una galería romana abovedada'
 bokunProductId: 934218
 fecha_actualizacion: '2026-10-24'
 privada: true

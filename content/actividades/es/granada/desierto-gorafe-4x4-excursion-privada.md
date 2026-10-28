@@ -82,19 +82,29 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/granada/gorafe/gorafe-hoya-conquil.webp
-  alt: Barranco de la Hoya del Conquil en Gorafe, con laderas erosionadas y bancales
+  alt: 'Barranco de la Hoya del Conquil en Gorafe, con laderas erosionadas y bancales'
 - src: /images/actividades/granada/proveedor-1036173/prov-4x4-gorafe.webp
-  alt: Todoterreno en los badlands del desierto de Gorafe
+  alt: 'Todoterreno en los badlands del desierto de Gorafe'
 - src: /images/actividades/granada/gorafe/gorafe-dolmen-65.webp
-  alt: Dolmen 65 del parque megalítico de Gorafe, con su losa de cubierta
+  alt: 'Dolmen 65 del parque megalítico de Gorafe, con su losa de cubierta'
 - src: /images/actividades/granada/gorafe/gorafe-canon-panoramica.webp
-  alt: Panorámica del cañón de Gorafe con olivares en el fondo del valle
+  alt: 'Panorámica del cañón de Gorafe con olivares en el fondo del valle'
+- src: /images/actividades/granada/gorafe/gorafe-desierto-sierra-nevada.webp
+  alt: 'Las cárcavas del desierto de Gorafe con Sierra Nevada al fondo'
+- src: /images/actividades/granada/gorafe/gorafe-desierto-barrancos.webp
+  alt: 'Barrancos y lomas erosionadas del desierto de Gorafe'
+- src: /images/actividades/granada/gorafe/gorafe-dolmen-70-camara.webp
+  alt: 'La cámara del dolmen 70 en el parque megalítico de Gorafe'
+- src: /images/actividades/granada/gorafe/gorafe-dolmen-72.webp
+  alt: 'El dolmen 72 sobre las laderas del parque megalítico de Gorafe'
+- src: /images/actividades/granada/gorafe/gorafe-dolmen-137.webp
+  alt: 'El dolmen 137 en una loma del parque megalítico de Gorafe'
 - src: https://imgcdn.bokun.tools/4756f33d-ff97-441a-9268-1f0f8ae55b2c.png
-  alt: Barrancos de tonos rojizos en el desierto de Gorafe
+  alt: 'Barrancos de tonos rojizos en el desierto de Gorafe'
 - src: https://imgcdn.bokun.tools/9602bf73-1cc4-4234-9b21-b8883b473185.png
-  alt: Lomas de arcilla erosionadas en Gorafe
+  alt: 'Lomas de arcilla erosionadas en Gorafe'
 - src: https://imgcdn.bokun.tools/5a76b49f-2ca8-43f6-8ac1-11d5a34a8d27.png
-  alt: Paredes estratificadas de tonos rojizos
+  alt: 'Paredes estratificadas de tonos rojizos'
 bokunProductId: 1036173
 fecha_actualizacion: '2026-10-24'
 privada: true

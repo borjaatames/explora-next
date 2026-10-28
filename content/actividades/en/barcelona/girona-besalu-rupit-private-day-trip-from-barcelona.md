@@ -94,6 +94,22 @@ galeria:
   alt: 'A corner of the Call, Girona’s Jewish quarter'
 - src: /images/actividades/girona/call-jueu/call-jueu-02.webp
   alt: 'The Jewish centre façade in Girona’s Call'
+- src: /images/actividades/barcelona/girona/besalu-puente-rio.webp
+  alt: 'The medieval bridge of Besalú over the Fluvià river'
+- src: /images/actividades/barcelona/girona/besalu-puente-arcos.webp
+  alt: 'The arches of Besalú''s fortified bridge'
+- src: /images/actividades/barcelona/girona/besalu-vista-aerea.webp
+  alt: 'Besalú and its medieval bridge seen from above'
+- src: /images/actividades/barcelona/girona/besalu-entrada-puente.webp
+  alt: 'Entrance to the Besalú bridge with the medieval village behind'
+- src: /images/actividades/barcelona/girona/rupit-pueblo-montana.webp
+  alt: 'The stone village of Rupit among the mountains'
+- src: /images/actividades/barcelona/girona/rupit-desde-santa-magdalena.webp
+  alt: 'Rupit seen from the Santa Magdalena hermitage'
+- src: /images/actividades/barcelona/girona/banyoles-lago-patos.webp
+  alt: 'Lake Banyoles with ducks among the reeds'
+- src: /images/actividades/barcelona/girona/banyoles-barcas.webp
+  alt: 'Boats on Lake Banyoles'
 - src: https://imgcdn.bokun.tools/71fd56f7-b30d-42b3-b9bb-13fa8ce0bf51.jpg
   alt: 'Besalú''s Romanesque bridge over the river with the medieval town behind'
 - src: https://imgcdn.bokun.tools/4e0eae7a-331f-412f-a5cf-c9b43bcf7325.jpg

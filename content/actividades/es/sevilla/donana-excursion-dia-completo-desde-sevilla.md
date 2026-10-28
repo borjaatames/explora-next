@@ -72,23 +72,43 @@ keywords:
 - excursion doñana desde sevilla
 - parque nacional doñana tour 4x4
 - doñana el rocio excursion
-imagen: https://imgcdn.bokun.tools/1107b3ec-a5ec-47f4-94b7-7c83a55a5bd6.jpg
-imagenAlt: Caballos pastando en las marismas de Doñana
+imagen: /images/actividades/sevilla/donana/rocio-marisma-caballos.webp
+imagenAlt: 'Caballos pastando en la marisma frente a la aldea de El Rocío'
 galeria:
+- src: /images/actividades/sevilla/donana/marisma-caballo-amanecer.webp
+  alt: 'Un caballo en la marisma de Doñana al amanecer'
+- src: /images/actividades/sevilla/donana/rocio-marisma-aves.webp
+  alt: 'La marisma de El Rocío con aves, a las puertas de Doñana'
+- src: /images/actividades/sevilla/donana/ermita-rocio.webp
+  alt: 'La ermita de El Rocío, parada para comer en la excursión'
+- src: /images/actividades/sevilla/donana/todoterreno-marisma.webp
+  alt: 'Un todoterreno recorre una marisma'
+- src: /images/actividades/sevilla/donana/flamencos.webp
+  alt: 'Flamencos, habituales en las marismas de Doñana'
+- src: /images/actividades/sevilla/donana/marismas-donana.webp
+  alt: 'Las marismas de Doñana'
+- src: /images/actividades/sevilla/donana/ermita-rocio-plaza.webp
+  alt: 'La ermita de El Rocío y su plaza de arena'
+- src: /images/actividades/sevilla/donana/rocio-reflejo-atardecer.webp
+  alt: 'El Rocío reflejado en la marisma al atardecer'
+- src: /images/actividades/sevilla/donana/marismas-atardecer-grazalema.webp
+  alt: 'Atardecer en las marismas de Doñana con la sierra de Grazalema al fondo'
+- src: https://imgcdn.bokun.tools/1107b3ec-a5ec-47f4-94b7-7c83a55a5bd6.jpg
+  alt: 'Caballos pastando en las marismas de Doñana'
 - src: https://imgcdn.bokun.tools/4045f3be-4d72-48fd-b523-b0af80ec797d.jpg
-  alt: La ermita de El Rocío reflejada en la marisma
+  alt: 'La ermita de El Rocío reflejada en la marisma'
 - src: https://imgcdn.bokun.tools/0cc96fe4-9b64-45fb-b314-06d4483e6515.jpg
-  alt: Playa virgen de Doñana con huellas de vehículos
+  alt: 'Playa virgen de Doñana con huellas de vehículos'
 - src: https://imgcdn.bokun.tools/80ef0542-ddfd-465a-978a-1cfcb2c7530e.jpg
-  alt: Paisaje de monte en el entorno de Doñana
+  alt: 'Paisaje de monte en el entorno de Doñana'
 - src: https://imgcdn.bokun.tools/c56c5943-91a2-4351-a7b9-b346f7ca7fcf.jpg
-  alt: Visitantes observando el paisaje del parque
+  alt: 'Visitantes observando el paisaje del parque'
 - src: https://imgcdn.bokun.tools/d56e52ea-a678-4221-be75-5adeeb7a7ea2.jpg
-  alt: Aguas rojizas del río Tinto
+  alt: 'Aguas rojizas del río Tinto'
 - src: https://imgcdn.bokun.tools/6d2e1649-a5d2-4b95-a927-c92d51daa8a6.jpg
-  alt: Detalle de la ermita de El Rocío
+  alt: 'Detalle de la ermita de El Rocío'
 - src: https://imgcdn.bokun.tools/3fe314c7-d357-4ea3-b5d1-6eb4bd777b3c.jpg
-  alt: Atardecer en la costa de Doñana
+  alt: 'Atardecer en la costa de Doñana'
 publicada: true
 indexar: false
 destacada: false

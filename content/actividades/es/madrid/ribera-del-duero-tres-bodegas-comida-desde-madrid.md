@@ -102,6 +102,14 @@ galeria:
   alt: 'Bodega subterránea histórica en Aranda de Duero'
 - src: /images/actividades/madrid/ribera-del-duero/castillo-penafiel.webp
   alt: 'El castillo de Peñafiel, símbolo de Ribera del Duero'
+- src: /images/actividades/madrid/ribera-del-duero/vinedos-bodega-ribera.webp
+  alt: 'Viñedos junto a una bodega de Ribera del Duero'
+- src: /images/actividades/madrid/ribera-del-duero/bodega-valdevinas-vinedos.webp
+  alt: 'Viñedos y bodega en Langa de Duero, Ribera del Duero'
+- src: /images/actividades/madrid/ribera-del-duero/asador-horno-aranda.webp
+  alt: 'Un asador saca el lechazo del horno de leña en Aranda de Duero'
+- src: /images/actividades/madrid/ribera-del-duero/asador-comedor-aranda.webp
+  alt: 'Comedor de un asador tradicional de Aranda de Duero'
 - src: https://imgcdn.bokun.tools/da1a45bc-12a3-411a-9893-c9fb02f72b9a.jpg
   alt: 'Pasillo de barricas en la nave de crianza de una bodega'
 - src: https://imgcdn.bokun.tools/a40ee82b-0c33-49aa-bd92-b71746ba2115.jpg

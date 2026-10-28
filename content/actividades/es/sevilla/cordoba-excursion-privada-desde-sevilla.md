@@ -82,6 +82,12 @@ galeria:
   alt: 'La Puerta del Perdón de la Mezquita-Catedral'
 - src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-cordob-hero.webp
   alt: 'El puente romano y la Mezquita de Córdoba iluminados de noche'
+- src: /images/actividades/cordoba/juderia/sinagoga-galeria-mujeres.webp
+  alt: 'Yeserías y galería de las mujeres en la Sinagoga de Córdoba'
+- src: /images/actividades/cordoba/juderia/sinagoga-inscripcion-hebreo.webp
+  alt: 'Inscripción en hebreo en los muros de la Sinagoga de Córdoba'
+- src: /images/actividades/cordoba/juderia/sinagoga-yeserias.webp
+  alt: 'Yeserías mudéjares de la Sinagoga de Córdoba'
 - src: https://imgcdn.bokun.tools/6640f83f-7531-4941-933e-c92dd701b74b.jpeg
   alt: 'Calleja de las Flores con la torre de la Mezquita al fondo'
 - src: https://imgcdn.bokun.tools/f8dcc7bc-9888-4500-b763-2103479631ef.jpeg

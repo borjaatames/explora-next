@@ -102,6 +102,12 @@ galeria:
   alt: 'Un macaco de Berbería sentado frente al mar'
 - src: /images/actividades/malaga/gibraltar/playa-penon.webp
   alt: 'Playa de La Línea con el Peñón de Gibraltar al fondo'
+- src: /images/actividades/malaga/gibraltar/cueva-san-miguel-auditorio.webp
+  alt: 'El auditorio natural de la cueva de San Miguel, en el Peñón de Gibraltar'
+- src: /images/actividades/malaga/gibraltar/cueva-san-miguel-iluminada.webp
+  alt: 'Estalactitas iluminadas en la cueva de San Miguel de Gibraltar'
+- src: /images/actividades/malaga/gibraltar/cueva-san-miguel-estalactitas.webp
+  alt: 'Formaciones de estalactitas en la cueva de San Miguel de Gibraltar'
 - src: https://imgcdn.bokun.tools/06257ff6-7c9f-4078-92cc-da6c77cb9ed6.jpg
   alt: 'Macaco de Berbería con la bahía de Gibraltar al fondo'
 - src: https://imgcdn.bokun.tools/c5e74163-8ef0-4a08-8e4a-f2d2db2e7c9a.jpg
