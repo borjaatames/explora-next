@@ -8,7 +8,7 @@ slugs:
   en: white-villages-ronda-private-day-trip-from-seville
 duracion: 9 hours
 duracionMinutos: 540
-precioDesde: 411
+precioDesde: 389
 moneda: EUR
 idiomas:
 - es
@@ -55,7 +55,7 @@ politicaCancelacion: Free cancellation up to 24 hours before the start, with a f
 opinionEditorial: 'The White Villages route is far more enjoyable by car than by coach: you stop where you like and aren''t tied to a group. This private version costs a good deal more than a group tour, but for 3 to 6 people the flexibility is worth it. Ask when booking if you''d like to swap any of the villages.'
 preguntasFrecuentes:
 - pregunta: How much does it cost for two people?
-  respuesta: From €411 per person, €822 in total for two. For 3 people it's €966 and for 6, €1,080 in total.
+  respuesta: From €389 per person, €778 in total for two. For 3 people it's €825 and for 6, €960 in total.
 - pregunta: Which villages do you visit?
   respuesta: The suggested route includes Zahara de la Sierra, Setenil de las Bodegas, Ronda and Olvera. Since it's private, you can ask for other villages when booking, within what the logistics allow.
 - pregunta: Do you pick us up at the hotel?

@@ -8,7 +8,7 @@ slugs:
   en: white-villages-ronda-private-day-trip-from-seville
 duracion: 9 horas
 duracionMinutos: 540
-precioDesde: 411
+precioDesde: 389
 moneda: EUR
 idiomas:
 - es
@@ -55,7 +55,7 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con 
 opinionEditorial: 'La ruta de los Pueblos Blancos se disfruta mucho más en coche propio que en autobús: paras donde quieres y no vas pendiente del grupo. Esta versión privada cuesta bastante más que un tour en grupo, pero para 3 a 6 personas compensa por la flexibilidad. Pide al reservar si queréis cambiar algún pueblo.'
 preguntasFrecuentes:
 - pregunta: ¿Cuánto cuesta para dos personas?
-  respuesta: Desde 411 € por persona, 822 € en total para dos. Con 3 personas sale a 966 € y con 6, a 1.080 € en total.
+  respuesta: Desde 389 € por persona, 778 € en total para dos. Con 3 personas sale a 825 € y con 6, a 960 € en total.
 - pregunta: ¿Qué pueblos se visitan?
   respuesta: La ruta propuesta incluye Zahara de la Sierra, Setenil de las Bodegas, Ronda y Olvera. Al ser privada, puedes pedir otros pueblos al reservar, dentro de lo que permita la logística.
 - pregunta: ¿Nos recogen en el hotel?

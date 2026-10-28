@@ -93,6 +93,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/fb99bf49-e0f8-4e2f-932b-a17adf17a512.jpg
   alt: Travellers crossing Rupit's hanging bridge
 bokunProductId: 217559
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 ---

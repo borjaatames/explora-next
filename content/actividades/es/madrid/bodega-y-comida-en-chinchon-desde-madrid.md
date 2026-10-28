@@ -96,6 +96,7 @@ galeria:
 - src: /images/actividades/madrid/chinchon/pexels-36878591-hero.webp
   alt: Balcones de madera de Chinchón
 bokunProductId: 867967
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 ---
 

@@ -96,6 +96,7 @@ galeria:
 - src: /images/actividades/madrid/chinchon/pexels-36878591-hero.webp
   alt: Wooden balconies in Chinchón
 bokunProductId: 867967
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 ---
 

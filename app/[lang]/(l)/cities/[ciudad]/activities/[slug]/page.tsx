@@ -271,6 +271,32 @@ export default async function ActividadPage({ params }: Props) {
     />
   );
 
+  // Bókun: en móvil el calendario va después del contenido; las guías
+  // relacionadas (enlaces que sacan de la ficha) se pintan detrás de él.
+  const bloqueGuias = guiasRelacionadas.length > 0 ? (
+    <div className="bg-piedra-50 border border-piedra-200 rounded-lg p-6">
+      <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-4">
+        {dict.actividades.guiasRelacionadas}
+      </h2>
+      <div className="space-y-3">
+        {guiasRelacionadas.map((guia) => (
+          <Link
+            key={guia.url}
+            href={guia.url}
+            className="block group"
+          >
+            <h3 className="font-semibold text-piedra-900 group-hover:text-anil-700 transition-colors">
+              → {guia.titulo}
+            </h3>
+            <p className="text-sm text-piedra-600 mt-1">
+              {guia.descripcion}
+            </p>
+          </Link>
+        ))}
+      </div>
+    </div>
+  ) : null;
+
   return (
     <main className="min-h-screen bg-white pb-24 lg:pb-0">
       <script
@@ -605,27 +631,9 @@ export default async function ActividadPage({ params }: Props) {
             </div>
 
             {/* 13. Related guides */}
-            {guiasRelacionadas.length > 0 && (
-              <div className="bg-piedra-50 border border-piedra-200 rounded-lg p-6">
-                <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-4">
-                  {dict.actividades.guiasRelacionadas}
-                </h2>
-                <div className="space-y-3">
-                  {guiasRelacionadas.map((guia) => (
-                    <Link
-                      key={guia.url}
-                      href={guia.url}
-                      className="block group"
-                    >
-                      <h3 className="font-semibold text-piedra-900 group-hover:text-anil-700 transition-colors">
-                        → {guia.titulo}
-                      </h3>
-                      <p className="text-sm text-piedra-600 mt-1">
-                        {guia.descripcion}
-                      </p>
-                    </Link>
-                  ))}
-                </div>
+            {bloqueGuias && (
+              <div className={actividad.proveedor === "bokun" ? "hidden lg:block" : undefined}>
+                {bloqueGuias}
               </div>
             )}
 
@@ -672,6 +680,7 @@ export default async function ActividadPage({ params }: Props) {
                   ratingProveedor={actividad.ratingProveedor}
                   numeroOpiniones={actividad.numeroOpiniones}
                   minimoPersonas={actividad.minimoPersonas}
+                  pedirPersonas={actividad.bokunPedirPersonas}
                 />
               ) : tourWidget ? (
                 <WidgetDisponibilidadGyg
@@ -691,6 +700,10 @@ export default async function ActividadPage({ params }: Props) {
               </div>
             </div>
           </aside>
+
+          {actividad.proveedor === "bokun" && bloqueGuias && (
+            <div className="lg:hidden mt-8">{bloqueGuias}</div>
+          )}
         </div>
       </section>
 

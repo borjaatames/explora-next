@@ -55,6 +55,12 @@ type Props = {
   numeroOpiniones?: number;
   /** Mínimo de personas por reserva (frontmatter `minimoPersonas`). */
   minimoPersonas?: number;
+  /**
+   * El calendario de Bókun arranca con 0 o 1 persona y, por debajo del
+   * mínimo, no pinta precios (frontmatter `bokunPedirPersonas`). Se avisa
+   * encima para que no parezca que no hay fechas.
+   */
+  pedirPersonas?: boolean;
 };
 
 type BokunGlobal = {
@@ -90,20 +96,28 @@ export default function BokunWidget({
   ratingProveedor,
   numeroOpiniones,
   minimoPersonas,
+  pedirPersonas,
 }: Props) {
   const channelUuid = process.env.NEXT_PUBLIC_BOKUN_CHANNEL_UUID;
   const contenedorRef = useRef<HTMLDivElement>(null);
-  const [activo, setActivo] = useState(false);
+  const [cerca, setCerca] = useState(false);
+  const [interaccion, setInteraccion] = useState(false);
+  // En escritorio el widget está a la vista desde el principio (columna
+  // lateral): cargarlo al abrir la página metía ~2,4 s de JS y un TBT de
+  // 700-890 ms (PageSpeed escritorio 45-50, 28-10-2026). Se espera además a
+  // la primera interacción (ratón, teclado, toque o scroll), que en una
+  // visita real llega en el primer segundo.
+  const activo = cerca && interaccion;
 
   useEffect(() => {
-    if (activo) return;
+    if (cerca) return;
     const nodo = contenedorRef.current;
     if (!nodo) return;
 
     const observer = new IntersectionObserver(
       ([entrada]) => {
         if (entrada.isIntersecting) {
-          setActivo(true);
+          setCerca(true);
           observer.disconnect();
         }
       },
@@ -111,7 +125,15 @@ export default function BokunWidget({
     );
     observer.observe(nodo);
     return () => observer.disconnect();
-  }, [activo]);
+  }, [cerca]);
+
+  useEffect(() => {
+    if (interaccion) return;
+    const eventos = ["pointerdown", "pointermove", "keydown", "touchstart", "wheel", "scroll"];
+    const marcar = () => setInteraccion(true);
+    eventos.forEach((ev) => window.addEventListener(ev, marcar, { passive: true }));
+    return () => eventos.forEach((ev) => window.removeEventListener(ev, marcar));
+  }, [interaccion]);
 
   useEffect(() => {
     if (!channelUuid || !activo) return;
@@ -203,10 +225,27 @@ export default function BokunWidget({
         </div>
       )}
 
+      {pedirPersonas && (
+        <p className="mx-4 mt-3 rounded-md border border-azafran-200 bg-azafran-50 px-3 py-2 text-sm text-piedra-800">
+          {idioma === "es"
+            ? typeof minimoPersonas === "number" && minimoPersonas > 1
+              ? `Elige ${minimoPersonas} personas o más en el calendario para ver las fechas y el precio.`
+              : "Indica en el calendario cuántas personas sois para ver las fechas y el precio."
+            : typeof minimoPersonas === "number" && minimoPersonas > 1
+              ? `Choose ${minimoPersonas} or more people in the calendar to see dates and prices.`
+              : "Set the number of people in the calendar to see dates and prices."}
+        </p>
+      )}
+
       <div
         className="p-4 min-h-[560px]"
         ref={contenedorRef}
       >
+        {!activo && (
+          <p className="pt-24 text-center text-sm text-piedra-500">
+            {idioma === "es" ? "Cargando el calendario de fechas…" : "Loading the availability calendar…"}
+          </p>
+        )}
         {/* `key` con idioma+producto: fuerza a React a crear un nodo nuevo y
             limpio en cada cambio, para que Bokun lo re-hidrate con el lang
             correcto (un div ya hidratado no vuelve a leer su data-src). */}

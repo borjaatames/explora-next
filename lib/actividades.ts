@@ -141,6 +141,11 @@ export type ActividadFrontmatter = {
    * para que el visitante que llega desde un anuncio no se lleve sorpresas.
    */
   minimoPersonas?: number;
+  /**
+   * El calendario de Bókun arranca por debajo del mínimo y se ve vacío:
+   * se muestra un aviso para que el cliente elija el número de personas.
+   */
+  bokunPedirPersonas?: boolean;
   /** Actividad solo para el grupo del cliente (tour privado). Filtro «Privados». */
   privada?: boolean;
   /** El precio «desde» es por grupo, no por persona. */
@@ -595,6 +600,7 @@ function construirListItem(
     cancelacionGratuita: fm.cancelacionGratuita ?? false,
     horasCancelacion: fm.horasCancelacion,
     minimoPersonas: fm.minimoPersonas,
+    bokunPedirPersonas: fm.bokunPedirPersonas === true,
     privada: fm.privada === true,
     precioPorGrupo: fm.precioPorGrupo === true,
 

@@ -103,6 +103,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/ac231d86-cd2d-4c5f-9961-1e9833bc521e.jpg
   alt: Art Nouveau arched hall at the winery
 bokunProductId: 242957
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'
 privada: true
 ---

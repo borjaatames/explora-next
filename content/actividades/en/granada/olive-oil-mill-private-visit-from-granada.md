@@ -85,6 +85,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/d094fdfd-3238-437c-be25-17273e8b7fe4.jpeg
   alt: Freshly harvested olives pouring into a trailer
 bokunProductId: 938052
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 ---

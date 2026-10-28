@@ -94,3 +94,20 @@ html {
 .prose-guia img {
   @apply rounded-lg my-6;
 }
+
+/* Bókun inyecta #bokun-widgets-root al final del <body> (carrito flotante y
+   capa de pago). Hasta que carga su propio CSS esos nodos ocupan sitio en el
+   flujo y movían la página: CLS de 0,37-0,47 en escritorio (28-10-2026).
+   Son nodos de terceros, sin clases de Tailwind posibles: se sacan del flujo
+   desde el primer momento. */
+#bokun-widgets-root {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  z-index: 30;
+}
+#bokun-widgets-root .bokun-widgets-cart-wrapper {
+  position: fixed !important;
+}
