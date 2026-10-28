@@ -98,6 +98,12 @@ galeria:
   alt: 'The ring of the Ronda bullring, one of the oldest'
 - src: /images/actividades/malaga/setenil/vista-pueblo.webp
   alt: 'Setenil de las Bodegas, with houses under the rock'
+- src: https://imgcdn.bokun.tools/6727144e-5500-47d7-ba48-a026049e754b.jpg
+  alt: 'Ronda perched on the edge of the gorge'
+- src: https://imgcdn.bokun.tools/b7367415-33ed-4848-b068-448d075d60fb.jpg
+  alt: 'Couple of travellers in front of the Puente Nuevo'
+- src: https://imgcdn.bokun.tools/f2f49b52-c95a-426d-94da-d010f2950aad.jpg
+  alt: 'Aerial view of Ronda with its bullring and the gorge'
 bokunProductId: 860693
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -102,6 +102,16 @@ galeria:
   alt: 'Un macaco de Berbería sentado frente al mar'
 - src: /images/actividades/malaga/gibraltar/playa-penon.webp
   alt: 'Playa de La Línea con el Peñón de Gibraltar al fondo'
+- src: https://imgcdn.bokun.tools/06257ff6-7c9f-4078-92cc-da6c77cb9ed6.jpg
+  alt: 'Macaco de Berbería con la bahía de Gibraltar al fondo'
+- src: https://imgcdn.bokun.tools/c5e74163-8ef0-4a08-8e4a-f2d2db2e7c9a.jpg
+  alt: 'Visitantes en la Cueva de San Miguel iluminada'
+- src: https://imgcdn.bokun.tools/aa3284ef-3f14-4458-85bf-446031901616.jpg
+  alt: 'Viajera en un mirador de cristal sobre el mar'
+- src: https://imgcdn.bokun.tools/7a9bdb72-8148-4b4b-9cbc-e0c862fe7c91.jpg
+  alt: 'El estrecho con las montañas de África al fondo'
+- src: https://imgcdn.bokun.tools/3b1c0166-ea1f-46d3-8122-42ca689078bd.jpg
+  alt: 'Puente colgante sobre la ladera del Peñón'
 bokunProductId: 857522
 fecha_actualizacion: '2026-10-24'
 privada: true

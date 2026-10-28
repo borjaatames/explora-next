@@ -101,6 +101,12 @@ galeria:
   alt: 'A sommelier pours red wine at the winery'
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
   alt: 'Glasses of red wine ready for the tasting'
+- src: https://imgcdn.bokun.tools/eb54c372-e6ab-4122-a228-a3d5b701a6cb.jpg
+  alt: 'Vaulted ageing cellar with barrels in Ribera del Duero'
+- src: https://imgcdn.bokun.tools/4d085d0a-a00d-4c1b-8684-c8806e883605.jpg
+  alt: 'Visitor walking through a vineyard in autumn'
+- src: https://imgcdn.bokun.tools/2cc9bf18-671a-4d18-bb50-fafbb2fb8ebd.jpg
+  alt: 'Visitors by the tanks of a modern winery'
 bokunProductId: 854707
 fecha_actualizacion: '2026-10-24'
 ---

@@ -97,6 +97,12 @@ galeria:
   alt: 'The ring of the Ronda bullring, one of the oldest'
 - src: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
   alt: 'View of Ronda above the gorge'
+- src: https://imgcdn.bokun.tools/2fc6f0c3-0030-4490-a268-e15181ea9257.jpg
+  alt: 'Aerial view of Ronda above the gorge'
+- src: https://imgcdn.bokun.tools/0293e770-2531-46c2-81b6-32f00d0ea7fb.jpg
+  alt: 'Ronda''s Puente Nuevo'
+- src: https://imgcdn.bokun.tools/2ec61cb9-32e0-49bc-b3f6-c6232dbc4b3d.jpg
+  alt: 'Ronda houses on the edge of the gorge'
 bokunProductId: 878655
 fecha_actualizacion: '2026-10-24'
 privada: true

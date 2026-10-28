@@ -84,6 +84,12 @@ galeria:
   alt: 'Depósitos de acero donde reposa el aceite en la almazara'
 - src: /images/actividades/sevilla/almazara/olivar-andaluz.webp
   alt: 'Olivares andaluces hasta el horizonte'
+- src: https://imgcdn.bokun.tools/72ade224-12ef-4d72-888f-3556928d7cc8.jpeg
+  alt: 'Olivar con las cumbres de Sierra Nevada al fondo'
+- src: https://imgcdn.bokun.tools/ffbf69a6-a75f-4e61-a13d-9a24384c0519.jpeg
+  alt: 'Cata de aceite de oliva en un plato'
+- src: https://imgcdn.bokun.tools/d094fdfd-3238-437c-be25-17273e8b7fe4.jpeg
+  alt: 'Aceitunas recién recogidas cayendo al remolque'
 bokunProductId: 938052
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

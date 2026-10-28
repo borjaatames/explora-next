@@ -100,6 +100,18 @@ galeria:
   alt: 'A Barbary macaque sitting by the sea'
 - src: /images/actividades/malaga/gibraltar/playa-penon.webp
   alt: 'La Línea beach with the Rock of Gibraltar behind'
+- src: https://imgcdn.bokun.tools/5435b23e-f0a6-4da8-a2a6-afb789211186.jpg
+  alt: 'Barbary macaque with the Bay of Gibraltar behind'
+- src: https://imgcdn.bokun.tools/abd6f0bf-861c-4030-b6ee-a888c8b5a065.jpg
+  alt: 'Visitor photographing inside St Michael''s Cave'
+- src: https://imgcdn.bokun.tools/d24d7b41-cef8-4839-9aab-c5f6ff136ff5.jpg
+  alt: 'Europa Point lighthouse'
+- src: https://imgcdn.bokun.tools/f71d8e5f-2611-41f4-bf44-8efb68694f62.jpg
+  alt: 'A red telephone box in Gibraltar'
+- src: https://imgcdn.bokun.tools/16cd51c2-f606-4986-8fb4-e9b15ba5599a.jpg
+  alt: 'A macaque sitting on the Rock'
+- src: https://imgcdn.bokun.tools/e7e39a11-e309-481d-8e06-ae85547bfa6b.jpg
+  alt: 'Travellers on a road on the Rock overlooking the bay'
 bokunProductId: 972148
 fecha_actualizacion: '2026-10-24'
 privada: true

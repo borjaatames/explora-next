@@ -101,6 +101,12 @@ galeria:
   alt: 'Un sumiller sirve vino tinto en la bodega'
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
   alt: 'Copas de vino tinto preparadas para la cata'
+- src: https://imgcdn.bokun.tools/eb54c372-e6ab-4122-a228-a3d5b701a6cb.jpg
+  alt: 'Nave de crianza abovedada con barricas en Ribera del Duero'
+- src: https://imgcdn.bokun.tools/4d085d0a-a00d-4c1b-8684-c8806e883605.jpg
+  alt: 'Visitante caminando por un viñedo en otoño'
+- src: https://imgcdn.bokun.tools/2cc9bf18-671a-4d18-bb50-fafbb2fb8ebd.jpg
+  alt: 'Visitantes junto a los depósitos de una bodega moderna'
 bokunProductId: 854707
 fecha_actualizacion: '2026-10-24'
 ---

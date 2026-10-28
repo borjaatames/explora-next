@@ -102,6 +102,14 @@ galeria:
   alt: 'The Albaicín seen from the Alhambra'
 - src: /images/actividades/granada/albaicin/albaicin-wikimedia-san-gregorio-barrio-del-albaic-n-granada-jpg.webp
   alt: 'Calle San Gregorio in the Albaicín, with its tea rooms'
+- src: https://imgcdn.bokun.tools/72108f58-573b-4148-af93-49c4472e3e51.jpeg
+  alt: 'Couple looking out at the Alhambra'
+- src: https://imgcdn.bokun.tools/ad228bab-c7eb-4927-be6a-2643fbbb6b81.jpeg
+  alt: 'Group of travellers with the Alhambra behind'
+- src: https://imgcdn.bokun.tools/7c2fb6f0-c447-45df-b9ed-5ccba35a22e0.jpeg
+  alt: 'Decorated arch inside the Alhambra with a view'
+- src: https://imgcdn.bokun.tools/99a1f780-2204-4eef-9d69-07ddb5a6c65c.jpeg
+  alt: 'White lane with blue flowerpots in the Albaicín'
 bokunProductId: 936453
 fecha_actualizacion: '2026-10-24'
 privada: true

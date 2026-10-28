@@ -84,6 +84,12 @@ galeria:
   alt: 'Steel tanks where the oil rests at the mill'
 - src: /images/actividades/sevilla/almazara/olivar-andaluz.webp
   alt: 'Andalusian olive groves to the horizon'
+- src: https://imgcdn.bokun.tools/72ade224-12ef-4d72-888f-3556928d7cc8.jpeg
+  alt: 'Olive grove with the Sierra Nevada peaks behind'
+- src: https://imgcdn.bokun.tools/ffbf69a6-a75f-4e61-a13d-9a24384c0519.jpeg
+  alt: 'Olive oil tasting from a dish'
+- src: https://imgcdn.bokun.tools/d094fdfd-3238-437c-be25-17273e8b7fe4.jpeg
+  alt: 'Freshly harvested olives pouring into a trailer'
 bokunProductId: 938052
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

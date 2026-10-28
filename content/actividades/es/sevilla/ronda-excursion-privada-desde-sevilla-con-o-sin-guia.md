@@ -97,6 +97,12 @@ galeria:
   alt: 'El ruedo de la plaza de toros de Ronda, una de las más antiguas'
 - src: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
   alt: 'Vista de Ronda sobre el Tajo'
+- src: https://imgcdn.bokun.tools/2fc6f0c3-0030-4490-a268-e15181ea9257.jpg
+  alt: 'Vista aérea de Ronda sobre el Tajo'
+- src: https://imgcdn.bokun.tools/0293e770-2531-46c2-81b6-32f00d0ea7fb.jpg
+  alt: 'Puente Nuevo de Ronda'
+- src: https://imgcdn.bokun.tools/2ec61cb9-32e0-49bc-b3f6-c6232dbc4b3d.jpg
+  alt: 'Casas de Ronda al borde del Tajo'
 bokunProductId: 878655
 fecha_actualizacion: '2026-10-24'
 privada: true

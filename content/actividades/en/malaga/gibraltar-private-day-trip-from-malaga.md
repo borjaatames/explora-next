@@ -102,6 +102,16 @@ galeria:
   alt: 'A Barbary macaque sitting by the sea'
 - src: /images/actividades/malaga/gibraltar/playa-penon.webp
   alt: 'La Línea beach with the Rock of Gibraltar behind'
+- src: https://imgcdn.bokun.tools/06257ff6-7c9f-4078-92cc-da6c77cb9ed6.jpg
+  alt: 'Barbary macaque with the Bay of Gibraltar behind'
+- src: https://imgcdn.bokun.tools/c5e74163-8ef0-4a08-8e4a-f2d2db2e7c9a.jpg
+  alt: 'Visitors in the illuminated St Michael''s Cave'
+- src: https://imgcdn.bokun.tools/aa3284ef-3f14-4458-85bf-446031901616.jpg
+  alt: 'Traveller on a glass lookout above the sea'
+- src: https://imgcdn.bokun.tools/7a9bdb72-8148-4b4b-9cbc-e0c862fe7c91.jpg
+  alt: 'The Strait with the mountains of Africa in the distance'
+- src: https://imgcdn.bokun.tools/3b1c0166-ea1f-46d3-8122-42ca689078bd.jpg
+  alt: 'Suspension bridge on the slope of the Rock'
 bokunProductId: 857522
 fecha_actualizacion: '2026-10-24'
 privada: true

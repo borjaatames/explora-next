@@ -97,6 +97,10 @@ galeria:
   alt: 'Clay jars in an old winery cellar'
 - src: https://imgcdn.bokun.tools/98a77f1f-53ca-4fb6-8f08-828a7ca202ea.jpg
   alt: 'Old wooden wine press'
+- src: https://imgcdn.bokun.tools/df8b78e5-01c8-44f8-95f1-2a17395ed8db.jpg
+  alt: 'Rock-cut winery cellar'
+- src: https://imgcdn.bokun.tools/0fdd9cfa-651b-480f-a5b3-a0a95ba96ebc.jpg
+  alt: 'Smiling travellers in the winery courtyard'
 bokunProductId: 867967
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

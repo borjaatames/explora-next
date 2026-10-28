@@ -106,6 +106,12 @@ galeria:
   alt: 'El macizo de Montserrat con el monasterio'
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-01.webp
   alt: 'Las agujas de Montserrat desde el camino de Sant Jeroni'
+- src: https://imgcdn.bokun.tools/328a1a6e-f150-4e56-8510-87ffe45b24e6.jpg
+  alt: 'Edificio modernista de las cavas Codorníu bajo un cielo azul'
+- src: https://imgcdn.bokun.tools/33970ab4-543f-4b02-8485-5de25cabbb7a.jpg
+  alt: 'Galería subterránea de las cavas con botellas en rima'
+- src: https://imgcdn.bokun.tools/ac231d86-cd2d-4c5f-9961-1e9833bc521e.jpg
+  alt: 'Sala modernista de arcos en las bodegas'
 bokunProductId: 242957
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'

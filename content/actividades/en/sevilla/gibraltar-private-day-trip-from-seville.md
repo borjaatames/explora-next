@@ -101,6 +101,14 @@ galeria:
   alt: 'A Barbary macaque sitting by the sea'
 - src: /images/actividades/malaga/gibraltar/playa-penon.webp
   alt: 'La Línea beach with the Rock of Gibraltar behind'
+- src: https://imgcdn.bokun.tools/4e8bda3f-d46d-41ab-a817-ff4e2139d08b.jpg
+  alt: 'Macaque with the Bay of Gibraltar behind'
+- src: https://imgcdn.bokun.tools/55f7fdba-0de6-473c-a2c6-db40d7ba5f78.jpg
+  alt: 'Red phone box in Gibraltar'
+- src: https://imgcdn.bokun.tools/c50d6957-01d2-42cc-ae10-dbafe7715375.jpg
+  alt: 'View of Gibraltar town from the Rock'
+- src: https://imgcdn.bokun.tools/0dd2a675-defc-4f37-92e2-dd7a1fc7442e.jpg
+  alt: 'Visitor with open arms facing the sea'
 bokunProductId: 858871
 fecha_actualizacion: '2026-10-24'
 privada: true

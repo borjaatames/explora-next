@@ -106,6 +106,12 @@ galeria:
   alt: 'The Montserrat massif with the monastery'
 - src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-01.webp
   alt: 'The Montserrat pinnacles from the Sant Jeroni path'
+- src: https://imgcdn.bokun.tools/328a1a6e-f150-4e56-8510-87ffe45b24e6.jpg
+  alt: 'Art Nouveau building of the Codorníu cava cellars under a blue sky'
+- src: https://imgcdn.bokun.tools/33970ab4-543f-4b02-8485-5de25cabbb7a.jpg
+  alt: 'Underground cellar gallery with stacked bottles'
+- src: https://imgcdn.bokun.tools/ac231d86-cd2d-4c5f-9961-1e9833bc521e.jpg
+  alt: 'Art Nouveau arched hall at the winery'
 bokunProductId: 242957
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'

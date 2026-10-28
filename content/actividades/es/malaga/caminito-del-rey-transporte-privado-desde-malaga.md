@@ -100,6 +100,12 @@ galeria:
   alt: 'Visitantes en la pasarela del Caminito del Rey'
 - src: /images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp
   alt: 'Pasarelas colgadas de la pared del Desfiladero de los Gaitanes'
+- src: https://imgcdn.bokun.tools/c28712d2-68c0-49d4-b577-5302d2c7d11b.jpg
+  alt: 'Visitantes cruzando el puente colgante del Caminito del Rey'
+- src: https://imgcdn.bokun.tools/47850eb0-f0af-438e-950f-7566690c3cd2.jpg
+  alt: 'Pareja con casco en el Caminito del Rey'
+- src: https://imgcdn.bokun.tools/a1e1a91f-7d00-4aa6-869f-137d9fe2afd2.jpg
+  alt: 'Pasarela colgada de la pared del desfiladero con visitantes'
 bokunProductId: 860687
 fecha_actualizacion: '2026-10-24'
 privada: true

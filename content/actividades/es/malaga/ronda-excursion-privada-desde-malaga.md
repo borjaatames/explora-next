@@ -98,6 +98,12 @@ galeria:
   alt: 'El ruedo de la plaza de toros de Ronda, una de las más antiguas'
 - src: /images/actividades/malaga/setenil/vista-pueblo.webp
   alt: 'Setenil de las Bodegas, con casas bajo la roca'
+- src: https://imgcdn.bokun.tools/6727144e-5500-47d7-ba48-a026049e754b.jpg
+  alt: 'Ronda asomada al acantilado del Tajo'
+- src: https://imgcdn.bokun.tools/b7367415-33ed-4848-b068-448d075d60fb.jpg
+  alt: 'Pareja de viajeros ante el Puente Nuevo'
+- src: https://imgcdn.bokun.tools/f2f49b52-c95a-426d-94da-d010f2950aad.jpg
+  alt: 'Vista aérea de Ronda con su plaza de toros y el Tajo'
 bokunProductId: 860693
 fecha_actualizacion: '2026-10-24'
 privada: true

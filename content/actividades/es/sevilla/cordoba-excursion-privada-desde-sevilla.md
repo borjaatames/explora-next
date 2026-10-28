@@ -82,6 +82,18 @@ galeria:
   alt: 'La Puerta del Perdón de la Mezquita-Catedral'
 - src: /images/actividades/sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla/cordoba-excursion-dia-completo-mezquita-desde-sevilla-cordob-hero.webp
   alt: 'El puente romano y la Mezquita de Córdoba iluminados de noche'
+- src: https://imgcdn.bokun.tools/6640f83f-7531-4941-933e-c92dd701b74b.jpeg
+  alt: 'Calleja de las Flores con la torre de la Mezquita al fondo'
+- src: https://imgcdn.bokun.tools/f8dcc7bc-9888-4500-b763-2103479631ef.jpeg
+  alt: 'Patio cordobés lleno de macetas'
+- src: https://imgcdn.bokun.tools/73cdecb0-4c07-4749-8b97-3cd43effe690.jpeg
+  alt: 'Estatua de Maimónides en la Judería'
+- src: https://imgcdn.bokun.tools/d948b6c9-7e11-4ebf-898c-b672485caf31.jpeg
+  alt: 'Cúpula del mihrab de la Mezquita-Catedral'
+- src: https://imgcdn.bokun.tools/6827eefd-1f2d-4237-bf6f-801ff6c3c8a8.jpeg
+  alt: 'Callejuela encalada de la Judería'
+- src: https://imgcdn.bokun.tools/86559899-2561-4ab5-8c42-e4afbf08d611.jpeg
+  alt: 'Torre campanario de la Mezquita-Catedral entre palmeras'
 publicada: true
 indexar: false
 destacada: false

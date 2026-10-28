@@ -85,6 +85,12 @@ galeria:
   alt: 'Puestos de fruta y verdura en el Mercado de Triana'
 - src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
   alt: 'El puente de Triana al atardecer'
+- src: https://imgcdn.bokun.tools/75c1ce1a-04af-4e80-be6f-df5ff54c1839.jpg
+  alt: 'Participantes preparando platos en la clase de cocina'
+- src: https://imgcdn.bokun.tools/b9536ef1-f214-4d5e-90c7-5f5f1b7adf93.jpg
+  alt: 'Grupo en un mercado de abastos'
+- src: https://imgcdn.bokun.tools/00a38fb3-24ee-443a-86d0-d6ebba4f8592.jpg
+  alt: 'Alumnos cocinando con gorro de cocina'
 bokunProductId: 933459
 fecha_actualizacion: '2026-10-24'
 privada: true

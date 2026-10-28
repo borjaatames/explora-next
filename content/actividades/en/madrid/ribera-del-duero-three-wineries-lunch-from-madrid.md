@@ -102,6 +102,12 @@ galeria:
   alt: 'A historic underground cellar in Aranda de Duero'
 - src: /images/actividades/madrid/ribera-del-duero/castillo-penafiel.webp
   alt: 'Peñafiel Castle, the landmark of Ribera del Duero'
+- src: https://imgcdn.bokun.tools/da1a45bc-12a3-411a-9893-c9fb02f72b9a.jpg
+  alt: 'Aisle of barrels in a winery''s ageing hall'
+- src: https://imgcdn.bokun.tools/a40ee82b-0c33-49aa-bd92-b71746ba2115.jpg
+  alt: 'Visitor walking through the vineyards'
+- src: https://imgcdn.bokun.tools/108034a6-a4ac-4768-a64c-8024faead8bf.jpg
+  alt: 'Group during a tasting at a winery table'
 bokunProductId: 805387
 fecha_actualizacion: '2026-10-24'
 ---

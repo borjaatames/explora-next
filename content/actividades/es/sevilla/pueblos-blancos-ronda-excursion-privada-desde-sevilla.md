@@ -95,6 +95,10 @@ galeria:
   alt: 'Panorámica de Setenil de las Bodegas'
 - src: /images/actividades/sevilla/ronda/puente-nuevo-ronda-casas.webp
   alt: 'El Puente Nuevo de Ronda con las casas al borde del Tajo'
+- src: https://imgcdn.bokun.tools/b62e81a0-0ab2-4b32-9bce-7c248cf36ac7.jpg
+  alt: 'Pueblos Blancos de Cádiz'
+- src: https://imgcdn.bokun.tools/01dc97d6-38e3-4a74-b35d-8908532caba9.jpg
+  alt: 'Paisaje de la ruta de los Pueblos Blancos'
 publicada: true
 indexar: false
 destacada: false

@@ -102,6 +102,12 @@ galeria:
   alt: 'Bodega subterránea histórica en Aranda de Duero'
 - src: /images/actividades/madrid/ribera-del-duero/castillo-penafiel.webp
   alt: 'El castillo de Peñafiel, símbolo de Ribera del Duero'
+- src: https://imgcdn.bokun.tools/da1a45bc-12a3-411a-9893-c9fb02f72b9a.jpg
+  alt: 'Pasillo de barricas en la nave de crianza de una bodega'
+- src: https://imgcdn.bokun.tools/a40ee82b-0c33-49aa-bd92-b71746ba2115.jpg
+  alt: 'Visitante paseando entre viñedos'
+- src: https://imgcdn.bokun.tools/108034a6-a4ac-4768-a64c-8024faead8bf.jpg
+  alt: 'Grupo durante una cata en la mesa de una bodega'
 bokunProductId: 805387
 fecha_actualizacion: '2026-10-24'
 ---

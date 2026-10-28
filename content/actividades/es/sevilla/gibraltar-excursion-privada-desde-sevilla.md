@@ -101,6 +101,14 @@ galeria:
   alt: 'Un macaco de Berbería sentado frente al mar'
 - src: /images/actividades/malaga/gibraltar/playa-penon.webp
   alt: 'Playa de La Línea con el Peñón de Gibraltar al fondo'
+- src: https://imgcdn.bokun.tools/4e8bda3f-d46d-41ab-a817-ff4e2139d08b.jpg
+  alt: 'Macaco con la bahía de Gibraltar al fondo'
+- src: https://imgcdn.bokun.tools/55f7fdba-0de6-473c-a2c6-db40d7ba5f78.jpg
+  alt: 'Cabina telefónica roja en Gibraltar'
+- src: https://imgcdn.bokun.tools/c50d6957-01d2-42cc-ae10-dbafe7715375.jpg
+  alt: 'Vista de la ciudad de Gibraltar desde el Peñón'
+- src: https://imgcdn.bokun.tools/0dd2a675-defc-4f37-92e2-dd7a1fc7442e.jpg
+  alt: 'Visitante con los brazos abiertos frente al mar'
 bokunProductId: 858871
 fecha_actualizacion: '2026-10-24'
 privada: true

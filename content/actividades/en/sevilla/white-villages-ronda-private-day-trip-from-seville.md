@@ -95,6 +95,10 @@ galeria:
   alt: 'Panoramic view of Setenil de las Bodegas'
 - src: /images/actividades/sevilla/ronda/puente-nuevo-ronda-casas.webp
   alt: 'Ronda’s Puente Nuevo with houses on the edge of the gorge'
+- src: https://imgcdn.bokun.tools/b62e81a0-0ab2-4b32-9bce-7c248cf36ac7.jpg
+  alt: 'The White Villages of Cádiz'
+- src: https://imgcdn.bokun.tools/01dc97d6-38e3-4a74-b35d-8908532caba9.jpg
+  alt: 'Landscape on the White Villages route'
 publicada: true
 indexar: false
 destacada: false
