@@ -19,6 +19,7 @@ idiomas:
 - de
 proveedor: bokun
 bokunProductId: 1148439
+bokunPedirPersonas: true
 urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24

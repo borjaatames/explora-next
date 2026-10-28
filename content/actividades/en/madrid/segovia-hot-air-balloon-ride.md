@@ -15,6 +15,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 252363
+bokunPedirPersonas: true
 urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24

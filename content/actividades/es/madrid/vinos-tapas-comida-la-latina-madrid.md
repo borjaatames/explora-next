@@ -14,6 +14,7 @@ idiomas:
 - en
 proveedor: bokun
 bokunProductId: 77414
+bokunPedirPersonas: true
 urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24

@@ -100,6 +100,7 @@ galeria:
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
   alt: Vidrieras azules y verdes iluminando la nave de la Sagrada Familia
 bokunProductId: 612622
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 ---

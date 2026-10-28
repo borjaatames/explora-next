@@ -101,6 +101,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/1230ea8e-a91c-4573-bc73-ddaed04c2fee.jpg
   alt: Ciclistas junto a una fuente en un parque
 bokunProductId: 217567
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 ---

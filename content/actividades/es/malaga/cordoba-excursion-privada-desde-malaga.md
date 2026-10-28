@@ -94,6 +94,7 @@ galeria:
 - src: /images/actividades/cordoba/mezquita/puente-romano.webp
   alt: Puente Romano, Puerta del Puente y Mezquita
 bokunProductId: 1063256
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 precioPorGrupo: true

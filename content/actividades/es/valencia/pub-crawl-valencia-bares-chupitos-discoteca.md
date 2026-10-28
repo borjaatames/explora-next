@@ -99,6 +99,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/819b5591-9496-4f5f-8e87-cfe161d7de05.jpg
   alt: Selfi de grupo en un bar
 bokunProductId: 1087333
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 ---
 

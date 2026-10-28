@@ -99,6 +99,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/ce6f9e4a-17bc-400c-bb58-5b38cb8390d6.jpg
   alt: Travellers in a patio with blue flowerpots
 bokunProductId: 793769
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 precioPorGrupo: true

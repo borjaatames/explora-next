@@ -90,6 +90,7 @@ galeria:
 - src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
   alt: Cave houses on the Sacromonte hillside
 bokunProductId: 938039
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 ---

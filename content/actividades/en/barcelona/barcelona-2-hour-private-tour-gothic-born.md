@@ -108,6 +108,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/2e523bd9-6d89-4e99-b39a-a0ec369310c2.jpg
   alt: Travellers sitting by a fountain in the old town
 bokunProductId: 217563
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'
 privada: true
 ---

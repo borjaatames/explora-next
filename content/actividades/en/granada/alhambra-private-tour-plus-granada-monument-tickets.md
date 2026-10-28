@@ -102,6 +102,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/a818eda3-e627-469d-b2f4-e0b1bf391f71.jpg
   alt: Couple walking through the Generalife gardens
 bokunProductId: 793765
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 precioPorGrupo: true

@@ -108,6 +108,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/2e523bd9-6d89-4e99-b39a-a0ec369310c2.jpg
   alt: Viajeras sentadas junto a una fuente en el casco antiguo
 bokunProductId: 217563
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'
 privada: true
 ---

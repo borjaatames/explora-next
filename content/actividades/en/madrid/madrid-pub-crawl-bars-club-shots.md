@@ -19,6 +19,7 @@ idiomas:
 - pt
 proveedor: bokun
 bokunProductId: 544197
+bokunPedirPersonas: true
 numeroOpiniones: 2897
 urlReserva: ''
 cancelacionGratuita: true

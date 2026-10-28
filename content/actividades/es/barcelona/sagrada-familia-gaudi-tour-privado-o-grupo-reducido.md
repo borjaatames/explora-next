@@ -99,6 +99,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/847885e8-e69e-43ef-96c2-133899ae0ecf.jpg
   alt: Viajeros sonrientes junto a la Sagrada Familia
 bokunProductId: 217562
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 ---
 

@@ -97,6 +97,7 @@ galeria:
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-02.webp
   alt: Catedral de Málaga con su única torre
 bokunProductId: 853250
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 precioPorGrupo: true

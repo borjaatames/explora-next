@@ -102,6 +102,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/6c3e4b13-7bb4-4ae9-8815-f9e98e522d24.png
   alt: Facade of Barcelona Cathedral
 bokunProductId: 1220917
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 ---
 

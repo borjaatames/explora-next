@@ -97,6 +97,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/67710160-b202-46a8-b5e8-d62377ad2fa7.jpg
   alt: La Pedrera's inner courtyard seen from below
 bokunProductId: 245313
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 ---

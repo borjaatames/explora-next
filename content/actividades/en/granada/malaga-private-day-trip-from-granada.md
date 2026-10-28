@@ -91,6 +91,7 @@ galeria:
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-04.webp
   alt: Central nave of Málaga Cathedral
 bokunProductId: 938174
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 ---

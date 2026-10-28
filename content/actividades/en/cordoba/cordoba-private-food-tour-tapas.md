@@ -90,6 +90,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/59bd24d6-d4e6-48c9-b8cd-aa39e2a59bad.jpg
   alt: Inside a traditional Córdoba tavern
 bokunProductId: 1214469
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 precioPorGrupo: true

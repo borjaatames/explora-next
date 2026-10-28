@@ -91,6 +91,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/96bbe9da-abf4-4d20-917d-9cafad4de9bf.jpeg
   alt: White gallery room with works on display
 bokunProductId: 936430
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 ---

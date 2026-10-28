@@ -101,6 +101,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/b4d6259b-c0ea-4126-a533-7e1943bf4d12.jpg
   alt: Galería subterránea de una bodega
 bokunProductId: 874269
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 ---
 

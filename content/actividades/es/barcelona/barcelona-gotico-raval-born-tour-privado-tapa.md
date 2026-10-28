@@ -109,6 +109,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/caa06b13-5730-48fa-b4cf-a7e954bbba13.jpg
   alt: Callejón de piedra del casco antiguo de Barcelona
 bokunProductId: 217556
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'
 privada: true
 ---

@@ -93,6 +93,7 @@ galeria:
 - src: /images/actividades/cordoba/mezquita/torre-campanario.webp
   alt: Bell tower of the Mosque-Cathedral
 bokunProductId: 934216
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 ---

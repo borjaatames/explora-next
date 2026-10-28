@@ -101,6 +101,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/1c248131-d79f-4a98-91be-0d3dd1f112a7.jpg
   alt: Puesto del mercado de productores de Montserrat
 bokunProductId: 217561
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'
 ---
 

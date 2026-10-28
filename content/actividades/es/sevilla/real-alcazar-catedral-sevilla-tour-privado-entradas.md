@@ -90,6 +90,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/b9bc79b3-0d62-475d-b9f1-18858f496161.jpg
   alt: Vista de Sevilla desde lo alto de la Giralda
 bokunProductId: 793770
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 precioPorGrupo: true

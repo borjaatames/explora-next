@@ -95,6 +95,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/f661330d-1a47-46d8-96ff-5e0c374eba6b.jpg
   alt: Atardecer sobre Granada desde un mirador
 bokunProductId: 793773
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 precioPorGrupo: true

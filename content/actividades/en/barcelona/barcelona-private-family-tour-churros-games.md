@@ -107,6 +107,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/c2c05430-1a45-4651-9a11-e95d9b90d767.jpg
   alt: Family jumping for joy in a park
 bokunProductId: 217564
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'
 privada: true
 ---

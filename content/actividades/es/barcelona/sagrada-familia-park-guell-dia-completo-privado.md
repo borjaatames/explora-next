@@ -106,6 +106,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/6a528413-717c-4896-bdd6-668a2eff84df.jpg
   alt: Viajera contemplando Barcelona desde el Park Güell
 bokunProductId: 217566
+bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
 privada: true
 ---
