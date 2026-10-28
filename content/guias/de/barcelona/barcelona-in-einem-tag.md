@@ -77,11 +77,14 @@ Bei Ankunft um 9:25 Uhr in Sants:
 | 12:00 Uhr | Casa Batlló von außen und Passeig de Gràcia |
 | 12:30 Uhr | Gotisches Viertel (Kathedrale, Plaça del Rei, Sant Felip Neri) |
 | 14:00 Uhr | Mittagessen in El Born (Bar del Pla oder Bodega La Puntual) |
-| 16:00 Uhr | Metro zum Park Güell |
-| 16:30 Uhr | Park Güell (vorherige Online-Reservierung) |
-| 18:30 Uhr | Búnkers del Carmel (Sommeröffnungszeiten) |
-| 19:00 Uhr | Metro oder Taxi nach Sants |
-| 20:00 Uhr | AVE zurück nach Madrid |
+| 15:15 Uhr | Taxi (15-20 Min.) oder Metro und Bus nach El Carmel |
+| 16:00 Uhr | Búnkers del Carmel |
+| 16:45 Uhr | Zu Fuß bergab zum Park Güell (20 Min.) |
+| 17:00 Uhr | Park Güell (Online-Ticket, Zeitfenster 17:00 Uhr) |
+| 18:15 Uhr | Metro L3 von Lesseps nach Sants |
+| 19:30 Uhr | AVE zurück nach Madrid, mit Puffer |
+
+Diese Reihenfolge funktioniert das ganze Jahr: Im Winter schließen die Búnkers um 17:30 Uhr, und der letzte Einlass in den Park Güell ist um 17:30 Uhr (25. Oktober bis 6. Februar). Von April bis Oktober kannst du mit dem letzten Zug (20:00-20:30 Uhr) tauschen: Park Güell um 16:30 Uhr und Búnkers um 18:30 Uhr, im Nachmittagslicht.
 
 Rund 10 Stunden. Vier unverzichtbare Stationen (Sagrada Familia, Gotisches Viertel, Park Güell, Búnkers), ein ordentliches Essen und ein brutaler Blick über die Stadt.
 
@@ -138,9 +141,9 @@ Lauf nach **El Born** (15 Minuten zu Fuß vom Gotischen Viertel). Es ist ein Vie
 
 > **⭐ Tipp:** wenn du rechtzeitig reservierst, geh zum Bar del Pla. Wenn du keinen Tisch bekommst oder es eilig hast, geh in die Bodega La Puntual. Wenn du am Wochenende kommst, Vorsicht: Quimet & Quimet öffnet samstags nur mittags und hat sonntags geschlossen.
 
-### 5. Park Güell (16:30 Uhr, 1 Std. 30 Min.)
+### 5. Park Güell (17:00 Uhr, 1 Std. 15 Min.)
 
-Metro von El Born oder dem Gotischen Viertel bis **Lesseps (L3 grün)** und 15-20 Minuten bergauf zu Fuß. Oder die Busse **H6** bzw. **D40**, die die offizielle Website nennt, oder ein Taxi bis Carretera del Carmel 23.
+Von den Búnkers etwa **20 Minuten zu Fuß bergab** bis zum Eingang Carretera del Carmel. Reserviere das Zeitfenster um 17:00 Uhr: Im Winter ist es fast das letzte (letzter Einlass 17:30 Uhr). Danach mit der **Metro L3 ab Lesseps** (15 Minuten zu Fuß) direkt nach Sants.
 
 **Online-Ticket unerlässlich**: **18 €** allgemein. Ohne Reservierung kommst du nicht in die Zona Monumental.
 
@@ -150,15 +153,15 @@ Sehenswert im Inneren: die **Plaza de la Naturaleza** mit der geschwungenen Mosa
 
 Der Park Güell ist **nicht nur die Zona Monumental**. Der größte Teil des Parks drumherum ist frei zugänglich und kostenlos. Aber die Postkartenansicht und die Mosaike befinden sich in der Zona Monumental, die kostenpflichtig ist. Zeit: 1 Std. 30 Min., um es richtig zu erleben.
 
-### 6. Búnkers del Carmel (18:30 Uhr, 1 Std.)
+### 6. Búnkers del Carmel (16:00 Uhr, 45 Min.)
 
-Der Tagesabschluss, den kein Reiseblog empfiehlt und der die normalen Besucher von denen unterscheidet, die wissen, worauf es ankommt.
+Der Abstecher, den kein Reiseblog empfiehlt und der die normalen Besucher von denen unterscheidet, die wissen, worauf es ankommt.
 
-Du läufst vom Park Güell etwa **20 Minuten bergauf** oder nimmst ein Taxi (5-7 €). Die **Búnkers del Carmel** (offiziell "Turó de la Rovira") sind die Überreste von Flugabwehrstellungen aus dem Bürgerkrieg. Heute ist es der kostenlose 360°-Aussichtspunkt, an dem sich die Einheimischen mit ein paar Bieren und einem Sandwich treffen.
+Von El Born nimmst du ein Taxi (15-20 Minuten) oder Metro und Bus (etwa 40 Minuten). Wegen der Öffnungszeiten kommen sie im Plan vor dem Park Güell. Die **Búnkers del Carmel** (offiziell "Turó de la Rovira") sind die Überreste von Flugabwehrstellungen aus dem Bürgerkrieg. Heute ist es der kostenlose 360°-Aussichtspunkt, an dem sich die Einheimischen mit ein paar Bieren und einem Sandwich treffen.
 
 **Der beste Blick auf Barcelona, ohne Diskussion**: Du siehst die ganze Stadt, das Meer, die Sagrada Familia vor dem Horizont, den Montjuïc auf der anderen Seite.
 
-> **⭐ Tipp:** das Gelände wird im Sommer um 19:30 Uhr und im Winter um 17:30 Uhr abgesperrt, der Sonnenuntergang fällt also fast immer heraus; im Winter geh vor dem Park Güell hinauf. Bring Wasser, ein Bier und ein Sandwich mit: Oben gibt es weder Bar noch Toiletten. Es weht Wind, besonders im Herbst und Winter: eine zusätzliche Schicht einpacken.
+> **⭐ Tipp:** das Gelände wird im Sommer um 19:30 Uhr und im Winter um 17:30 Uhr abgesperrt, der Sonnenuntergang fällt also fast immer heraus; deshalb stehen sie vor dem Park Güell. Bring Wasser, ein Bier und ein Sandwich mit: Oben gibt es weder Bar noch Toiletten. Es weht Wind, besonders im Herbst und Winter: eine zusätzliche Schicht einpacken.
 
 > **⚠️ Hinweis:** die Anwohner der Gegend bitten darum, dass Besucher kein Botellón veranstalten und keinen Müll hinterlassen. Ohne Aufsehen. Das Gebiet ist Wohngegend. Und wer eingeschränkte Mobilität hat: Das ist nichts für dich, der Aufstieg ist steil.
 
@@ -204,6 +207,6 @@ Wenn du den letzten AVE verpasst (meist gegen 20:00-20:30 Uhr), sind die Optione
 
 ## In einem Satz
 
-Barcelona an einem Tag ab Madrid funktioniert, wenn du darauf verzichtest, alles zu sehen, Sagrada Familia und Park Güell im Voraus reservierst, in El Born statt in der Boquería isst und den Tag an den Búnkers del Carmel hoch über der Stadt ausklingen lässt. Das ist **viel weniger Tourist, viel mehr Barcelona**.
+Barcelona an einem Tag ab Madrid funktioniert, wenn du darauf verzichtest, alles zu sehen, Sagrada Familia und Park Güell im Voraus reservierst, in El Born statt in der Boquería isst und von den Búnkers del Carmel über die ganze Stadt schaust, bevor du zum Park Güell hinuntergehst. Das ist **viel weniger Tourist, viel mehr Barcelona**.
 
 Und wenn dich das gepackt hat, liegt die Lösung nicht darin, den Tag zu verlängern — sondern mit zwei Nächten und vollständigem Plan zurückzukommen. Alles dazu findest du in unserem Guide [Barcelona in 3 Tagen](/de/guides/barcelona/barcelona-in-3-tagen). Und wenn du dich vertiefen möchtest, wo man gut isst, ohne in Fallen zu tappen, findest du in [Essen in Barcelona](/de/guides/barcelona/essen-in-barcelona) die Orte und Gegenden, die wir einem Freund empfehlen würden.

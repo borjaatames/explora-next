@@ -1,7 +1,7 @@
 ---
 titulo: "Barcelona en 1 día desde Madrid: la escapada con criterio"
 descripcion: "Cómo aprovechar al máximo un día en Barcelona desde Madrid en AVE: Sagrada Familia, Gótico, comida en El Born, Park Güell y Búnkers del Carmel."
-respuestaCorta: 'Barcelona en un día desde Madrid es factible con disciplina: el **AVE tarda unas 3 h** (Adif mantiene la limitación de velocidad hasta final de 2026), así que saliendo hacia las 6:15 tienes unas 10 horas en la ciudad. Reserva online con días de antelación la **Sagrada Família** (26 € en la web oficial) y el **Park Güell** (18 €), recorre el Gótico, come en el Born y cierra en los **Búnkers del Carmel** (abiertos hasta las 19:30 en verano y las 17:30 en invierno).'
+respuestaCorta: 'Barcelona en un día desde Madrid es factible con disciplina: el **AVE tarda unas 3 h** (Adif mantiene la limitación de velocidad hasta final de 2026), así que saliendo hacia las 6:15 tienes unas 10 horas en la ciudad. Reserva online con días de antelación la **Sagrada Família** (26 € en la web oficial) y el **Park Güell** (18 €), recorre el Gótico, come en el Born y sube por la tarde a los **Búnkers del Carmel** (cierran a las 17:30 en invierno) para bajar andando al Park Güell y coger el tren de las 19:30.'
 categoria: "barcelona"
 slug: "barcelona-en-1-dia"
 fecha: "2026-04-29"
@@ -58,10 +58,14 @@ Barcelona en un día desde Madrid es **factible con disciplina**: el AVE tarda u
 | 11:30 | Casa Batlló por fuera y Passeig de Gràcia |
 | 12:30 | Barrio Gótico |
 | 14:00 | Comida en el Born |
-| 16:00 | Metro a Park Güell |
-| 16:30 | Park Güell (entrada reservada) |
-| 18:30 | Búnkers del Carmel (horario de verano) |
-| 19:00 | Metro o taxi a Sants |
+| 15:15 | Taxi (15-20 min) o metro y bus al Carmel |
+| 16:00 | Búnkers del Carmel |
+| 16:45 | Bajada a pie al Park Güell (20 min) |
+| 17:00 | Park Güell (entrada reservada a las 17:00) |
+| 18:15 | Metro L3 de Lesseps a Sants |
+| 19:30 | Tren de vuelta, con margen |
+
+Este orden vale todo el año: en invierno los Búnkers cierran a las 17:30 y la última entrada al Park Güell es a las 17:30 (del 25 de octubre al 6 de febrero). Entre abril y octubre, si vuelves en el último tren (20:00-20:30), puedes invertirlo: Park Güell a las 16:30 y Búnkers a las 18:30, con luz de tarde.
 
 ## Los imprescindibles
 
@@ -73,9 +77,9 @@ Barcelona en un día desde Madrid es **factible con disciplina**: el AVE tarda u
 
 **Comer en el Born (14:00).** No en la Boqueria: fotografíala y sigue (salvo El Quim, en barra y muy temprano; el Bar Pinotxo se mudó en 2023 al Mercat de Sant Antoni). A 15 minutos, **Bar del Pla** (Montcada, 2; tapas modernas, reserva imprescindible), **Bodega La Puntual** (Montcada; clásica, tortilla cremosa, sin reserva) o, si estás por Poble Sec, **Quimet & Quimet** (montaditos de pie; el sábado solo abre a mediodía y el domingo cierra).
 
-**Park Güell (16:30, 1 h 30).** Metro L3 Lesseps y 15-20 minutos de cuesta, autobús H6 o D40, o taxi hasta Carretera del Carmel 23. Zona monumental 18 €, solo online, con franja de 30 minutos para entrar: el banco ondulado, la Sala Hipóstila y el dragón. El resto del parque es gratis. Comprueba las obras de restauración en la web antes de comprar.
+**Búnkers del Carmel (16:00, 45 min).** Desde el Born, taxi de 15-20 minutos o metro y autobús (unos 40 minutos). Baterías antiaéreas de la Guerra Civil convertidas en el mirador de 360° donde quedan los de aquí: toda la ciudad, el mar y la Sagrada Família recortada. El recinto se cierra a las 19:30 en verano y a las 17:30 en invierno, así que la puesta de sol queda fuera casi siempre; por eso va antes del Park Güell. Lleva agua y una capa (hace viento); arriba no hay bar ni baños. Es zona residencial: sin ruido. Con movilidad reducida, no.
 
-**Búnkers del Carmel (18:30).** Desde el Park Güell, 20 minutos cuesta arriba o taxi (5-7 €). Baterías antiaéreas de la Guerra Civil convertidas en el mirador de 360° donde quedan los de aquí: toda la ciudad, el mar y la Sagrada Família recortada. El recinto se cierra a las 19:30 en verano y a las 17:30 en invierno, así que la puesta de sol casi siempre queda fuera; en invierno, sube antes del Park Güell. Lleva agua y una capa (hace viento); arriba no hay bar ni baños. Es zona residencial: sin ruido. Con movilidad reducida, no.
+**Park Güell (17:00, 1 h 15).** Desde los Búnkers, unos 20 minutos andando cuesta abajo hasta la entrada de Carretera del Carmel. Zona monumental 18 €, solo online, con franja de 30 minutos para entrar: reserva la de las 17:00, que en invierno es casi la última (última entrada a las 17:30). El banco ondulado, la Sala Hipóstila y el dragón; el resto del parque es gratis. Comprueba las obras de restauración en la web antes de comprar. A la salida, metro L3 en Lesseps (15 minutos andando) directo a Sants.
 
 ## Lo que se puede saltar
 
@@ -96,4 +100,4 @@ Hotel de última hora (la media en Barcelona rondó los 195 € la noche en el p
 
 ## En una frase
 
-Reservar Sagrada Família y Park Güell, comer en el Born y cerrar en los Búnkers con toda la ciudad a tus pies: mucho menos turista, mucho más Barcelona. Si te engancha, no alargues el día, vuelve con [tres días](/guias/barcelona/barcelona-en-3-dias). Para comer bien, [comer en Barcelona con criterio](/guias/barcelona/comer-en-barcelona-criterio).
+Reservar Sagrada Família y Park Güell, comer en el Born y ver toda la ciudad desde los Búnkers antes de bajar al Park Güell: mucho menos turista, mucho más Barcelona. Si te engancha, no alargues el día, vuelve con [tres días](/guias/barcelona/barcelona-en-3-dias). Para comer bien, [comer en Barcelona con criterio](/guias/barcelona/comer-en-barcelona-criterio).

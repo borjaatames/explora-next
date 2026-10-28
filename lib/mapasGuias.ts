@@ -165,8 +165,8 @@ const MAPAS: Record<string, DiaMapa[]> = {
     ["Casa Batlló y Passeig de Gràcia", "Casa Batlló and Passeig de Gràcia", "Casa Batlló und Passeig de Gràcia", 41.39154, 2.1647],
     ["Barrio Gótico (Plaça de Sant Jaume)", "Gothic Quarter (Plaça de Sant Jaume)", "Gotisches Viertel (Plaça de Sant Jaume)", 41.38245, 2.1768],
     ["El Born", "El Born", "El Born", 41.38476, 2.18281],
-    ["Park Güell", "Park Güell", "Park Güell", 41.41423, 2.15246],
     ["Búnkers del Carmel", "Carmel Bunkers", "Bunker del Carmel", 41.41926, 2.16154],
+    ["Park Güell", "Park Güell", "Park Güell", 41.41423, 2.15246],
   ]),
   "bilbao/bilbao-en-un-dia": ruta([
     ["Museo Guggenheim", "Guggenheim Museum", "Guggenheim-Museum", 43.26843, -2.93406],

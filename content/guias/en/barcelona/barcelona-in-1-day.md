@@ -22,7 +22,7 @@ slugs:
   en: barcelona-in-1-day
   de: barcelona-in-einem-tag
 reservasArriba: true
-respuestaCorta: 'Yes, with discipline: the **AVE takes about 3 hours** (Adif keeps its speed limits until the end of 2026), so a train around 6:15 AM gives you about 10 hours in the city. Book the **Sagrada Familia** (from €26) and **Park Güell** (€18) online days ahead, see the Gothic Quarter, eat in El Born and end at the **Bunkers del Carmel** (open until 7:30 PM in summer and 5:30 PM in winter).'
+respuestaCorta: 'Yes, with discipline: the **AVE takes about 3 hours** (Adif keeps its speed limits until the end of 2026), so a train around 6:15 AM gives you about 10 hours in the city. Book the **Sagrada Familia** (from €26) and **Park Güell** (€18) online days ahead, see the Gothic Quarter, eat in El Born, then go up to the **Bunkers del Carmel** in the afternoon (they close at 5:30 PM in winter) and walk down to Park Güell before the 7:30 PM train.'
 opciones:
   - ficha: entrada-sagrada-familia-audioguia
     etiqueta: Must-see
@@ -59,10 +59,14 @@ Barcelona in a day from Madrid is **doable with discipline**: the AVE takes abou
 | 11:30 AM | Casa Batlló from outside and Passeig de Gràcia |
 | 12:30 PM | Gothic Quarter |
 | 2:00 PM | Lunch in El Born |
-| 4:00 PM | Metro to Park Güell |
-| 4:30 PM | Park Güell (booked slot) |
-| 6:30 PM | Bunkers del Carmel (summer hours) |
-| 7:00 PM | Metro or taxi to Sants |
+| 3:15 PM | Taxi (15–20 min) or metro and bus to El Carmel |
+| 4:00 PM | Bunkers del Carmel |
+| 4:45 PM | Walk down to Park Güell (20 min) |
+| 5:00 PM | Park Güell (5 PM booked slot) |
+| 6:15 PM | Metro L3 from Lesseps to Sants |
+| 7:30 PM | Train back, with time to spare |
+
+This order works all year: in winter the Bunkers close at 5:30 PM and the last Park Güell entry is 5:30 PM (25 October to 6 February). From April to October, if you're taking the last train (8:00–8:30 PM), you can swap them: Park Güell at 4:30 PM and the Bunkers at 6:30 PM, in the late-afternoon light.
 
 Sleeping in Barcelona the night before? A guided day tour covers the same essentials with Sagrada Familia and Park Güell entry included; it starts at 9 AM on La Rambla, so it doesn't work off the morning train.
 
@@ -104,19 +108,19 @@ Walk down (15 min) or take the metro to Liceu or Jaume I.
 | Bodega La Puntual (Carrer Montcada) | Classic, creamy tortilla | Not needed |
 | Quimet & Quimet (Poble Sec, Carrer Poeta Cabanyes 25) | Standing, montaditos with tinned fish | No bookings; Saturday lunch only, closed Sunday |
 
-### Park Güell (4:30 PM, 1.5 h)
+### Park Güell (5 PM, 1 h 15)
 
-Metro L3 to Vallcarca and a 20-minute uphill walk (with escalators on Baixada de la Glòria), or bus 24 from Plaça de Catalunya to near the entrance.
+From the Bunkers, about 20 minutes on foot, downhill, to the Carretera del Carmel entrance. Book the 5 PM slot: in winter it's almost the last one (last entry 5:30 PM). On the way out, metro L3 at Lesseps (15 minutes' walk) runs straight to Sants.
 
 - **Monumental Zone €18, online only**, with timed entry. Without a booking you can't get in.
 - **Inside:** the wavy mosaic bench, the Hypostyle Hall (86 columns), the mosaic lizard and the Laundress Portico.
 - **Check the official site for restoration work** before buying; areas can be partly closed.
 
-### Bunkers del Carmel (6:30 PM, 1 h)
+### Bunkers del Carmel (4 PM, 45 min)
 
-From Park Güell, 20 minutes uphill or a taxi (€5–7). These Civil War anti-aircraft batteries on the Turó de la Rovira are now a free 360° viewpoint: the whole city, the sea and the Sagrada Familia.
+From El Born, a 15–20 minute taxi ride or metro and bus (about 40 minutes). These Civil War anti-aircraft batteries on the Turó de la Rovira are now a free 360° viewpoint: the whole city, the sea and the Sagrada Familia.
 
-- **The site is fenced off at 7:30 PM in summer and 5:30 PM in winter**, so sunset is almost always out; in winter, go before Park Güell. Bring water and a layer: it's windy, with no bar or toilet.
+- **The site is fenced off at 7:30 PM in summer and 5:30 PM in winter**, so sunset is almost always out; that's why they come before Park Güell. Bring water and a layer: it's windy, with no bar or toilet.
 - **It's residential**: keep the noise down. Not suitable with reduced mobility.
 
 ## What to skip on an express day
@@ -140,4 +144,4 @@ A last-minute hotel (the Barcelona average was about €195 a night in the first
 
 ## In one line
 
-Book the Sagrada Familia and Park Güell, eat in El Born and end at the Bunkers above the whole city. Then come back for [Barcelona in 3 days](/en/guides/barcelona/barcelona-in-3-days). For food, see [eating in Barcelona with criteria](/en/guides/barcelona/eating-in-barcelona-with-criteria).
+Book the Sagrada Familia and Park Güell, eat in El Born and see the whole city from the Bunkers before walking down to Park Güell. Then come back for [Barcelona in 3 days](/en/guides/barcelona/barcelona-in-3-days). For food, see [eating in Barcelona with criteria](/en/guides/barcelona/eating-in-barcelona-with-criteria).
