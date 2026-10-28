@@ -73,7 +73,7 @@ export type GuiaFrontmatter = {
   datosComprobados?: string;
 
   /**
-   * Guías de un solo monumento: bloque «Nuestras 3 opciones» bajo la
+   * Guías de un solo monumento: bloque «Nuestras N opciones» (3 o 4) bajo la
    * respuesta corta. `ficha` es el slug ES de la ficha (de la misma ciudad
    * que la guía) y `etiqueta` dice para quién es, en el idioma de la guía.
    */
@@ -92,7 +92,8 @@ function leerOpciones(valor: unknown): OpcionFrontmatter[] | undefined {
         typeof (o as Record<string, unknown>).ficha === "string" &&
         typeof (o as Record<string, unknown>).etiqueta === "string"
     )
-    .slice(0, 3);
+    // Hasta 4: los comparativos de 4 locales (flamenco Barcelona) van en 2x2.
+    .slice(0, 4);
   return opciones.length > 0 ? opciones : undefined;
 }
 
