@@ -117,8 +117,7 @@ function getCopy(lang: Idioma): AboutCopy {
             partners.
           </>,
           <>
-            <strong>Affiliate links</strong> to platforms like Viator and
-            GetYourGuide for experiences we don&rsquo;t offer directly. If
+            <strong>Affiliate links</strong> to platforms like GetYourGuide for experiences we don&rsquo;t offer directly. If
             you book through one of these links, we earn a small commission
             at no extra cost to you.
           </>,
@@ -261,8 +260,7 @@ function getCopy(lang: Idioma): AboutCopy {
             vertrauenswürdige Reisepartner.
           </>,
           <>
-            <strong>Affiliate-Links</strong> zu Plattformen wie Viator und
-            GetYourGuide für Erlebnisse, die wir nicht direkt anbieten. Wenn
+            <strong>Affiliate-Links</strong> zu Plattformen wie GetYourGuide für Erlebnisse, die wir nicht direkt anbieten. Wenn
             du über einen dieser Links buchst, erhalten wir eine kleine
             Provision, ohne Mehrkosten für dich.
           </>,
@@ -403,8 +401,7 @@ function getCopy(lang: Idioma): AboutCopy {
           confianza.
         </>,
         <>
-          <strong>Enlaces de afiliación</strong> a plataformas como Viator o
-          GetYourGuide en aquellas experiencias que no ofrecemos
+          <strong>Enlaces de afiliación</strong> a plataformas como GetYourGuide en aquellas experiencias que no ofrecemos
           directamente. Si se reserva a través de estos enlaces, recibimos
           una pequeña comisión sin coste adicional para el usuario.
         </>,

@@ -129,7 +129,7 @@ export default function AvisoLegalPage() {
           <h2>5. Enlaces de afiliación y a terceros</h2>
           <p>
             El sitio web incluye enlaces a plataformas de terceros, entre ellas
-            enlaces de afiliación (por ejemplo, a Viator, GetYourGuide o
+            enlaces de afiliación (por ejemplo, a GetYourGuide o
             similares). Cuando un usuario realiza una compra o reserva a través
             de estos enlaces, el titular puede recibir una comisión, sin que
             ello suponga ningún coste adicional para el usuario.

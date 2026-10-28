@@ -235,8 +235,7 @@ export default function CookiesPage({
 
             <h2>4. Cookies Dritter bei ausgehenden Links</h2>
             <p>
-              Die Website enthält Links zu externen Plattformen (Viator,
-              GetYourGuide oder andere). Wenn du auf diese Links klickst,
+              Die Website enthält Links zu externen Plattformen (GetYourGuide oder andere). Wenn du auf diese Links klickst,
               wirst du zu deren Websites weitergeleitet, die eigene
               Cookies verwenden und ihre eigenen Datenschutz- und
               Cookie-Richtlinien anwenden. Der Betreiber dieser Website hat
@@ -495,8 +494,7 @@ export default function CookiesPage({
 
           <h2>4. Third-party cookies on outbound links</h2>
           <p>
-            The site contains links to external platforms (Viator,
-            GetYourGuide or others). When you click these links, you will be
+            The site contains links to external platforms (GetYourGuide or others). When you click these links, you will be
             redirected to their websites, which use their own cookies and
             apply their own privacy and cookie policies. The owner of this
             site does not control or take responsibility for how these

@@ -135,7 +135,7 @@ export default function PrivacidadPage() {
               el marco Data Privacy Framework.
             </li>
             <li>
-              <strong>Plataformas de afiliación</strong> (Viator, GetYourGuide
+              <strong>Plataformas de afiliación</strong> (GetYourGuide
               u otras): al hacer clic en un enlace de afiliación, serás
               redirigido a su sitio web, que aplicará su propia política de
               privacidad.

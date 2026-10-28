@@ -116,8 +116,7 @@ export default function SobreNosotrosPage() {
               confianza.
             </li>
             <li>
-              <strong>Enlaces de afiliación</strong> a plataformas como Viator
-              o GetYourGuide en aquellas experiencias que no ofrecemos
+              <strong>Enlaces de afiliación</strong> a plataformas como GetYourGuide en aquellas experiencias que no ofrecemos
               directamente. Si se reserva a través de estos enlaces, recibimos
               una pequeña comisión sin coste adicional para el usuario.
             </li>

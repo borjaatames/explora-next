@@ -134,8 +134,7 @@ export default function CookiesPage() {
 
           <h2>4. Cookies de terceros en enlaces salientes</h2>
           <p>
-            El sitio contiene enlaces a plataformas externas (Viator,
-            GetYourGuide u otras). Al hacer clic en estos enlaces, serás
+            El sitio contiene enlaces a plataformas externas (GetYourGuide u otras). Al hacer clic en estos enlaces, serás
             redirigido a sus sitios web, que utilizan sus propias cookies y
             aplican sus propias políticas de privacidad y cookies. El titular
             de este sitio no controla ni se hace responsable del uso que dichas

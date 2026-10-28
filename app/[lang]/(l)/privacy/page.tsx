@@ -235,7 +235,7 @@ export default function PrivacyPage({
                 EU-US Data Privacy Framework abgedeckt.
               </li>
               <li>
-                <strong>Affiliate-Plattformen</strong> (Viator, GetYourGuide
+                <strong>Affiliate-Plattformen</strong> (GetYourGuide
                 oder andere): Wenn du auf einen Affiliate-Link klickst,
                 wirst du zu deren Website weitergeleitet, die ihre eigene
                 Datenschutzerklärung anwendet.
@@ -488,7 +488,7 @@ export default function PrivacyPage({
               Framework.
             </li>
             <li>
-              <strong>Affiliate platforms</strong> (Viator, GetYourGuide or
+              <strong>Affiliate platforms</strong> (GetYourGuide or
               others): when you click an affiliate link, you will be
               redirected to their website, which applies its own privacy
               policy.

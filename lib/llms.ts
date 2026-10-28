@@ -79,7 +79,7 @@ const CABECERA: string[] = [
   "> Guías de viaje de España escritas y revisadas por Borja (ExploraSpain), con tours, entradas y actividades con cancelación gratuita. Travel guides to Spain written and checked by a local editor, with tours and tickets with free cancellation. Español, English, Deutsch.",
   "",
   `- Autor y método: ${SITE_URL}/sobre-nosotros#autor. Cada guía abre con una «respuesta corta»; las que indican fecha tienen precios y horarios comprobados en las webs oficiales ese día.`,
-  "- Reservas: algunas actividades se reservan directamente en la web (calendario de reserva con pago seguro y confirmación inmediata); el resto enlaza a GetYourGuide o Viator.",
+  "- Reservas: algunas actividades se reservan directamente en la web (calendario de reserva con pago seguro y confirmación inmediata); el resto enlaza a GetYourGuide.",
   `- Versión ampliada con la respuesta corta de cada guía: ${SITE_URL}/llms-full.txt`,
   "",
 ];

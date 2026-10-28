@@ -229,8 +229,7 @@ export default function LegalNoticePage({
             <h2>5. Affiliate-Links und Links zu Dritten</h2>
             <p>
               Die Website enthält Links zu Plattformen Dritter,
-              einschließlich Affiliate-Links (zum Beispiel zu Viator,
-              GetYourGuide oder ähnlichen). Wenn ein Nutzer über diese Links
+              einschließlich Affiliate-Links (zum Beispiel zu GetYourGuide oder ähnlichen). Wenn ein Nutzer über diese Links
               einen Kauf oder eine Buchung tätigt, kann der Betreiber eine
               Provision erhalten, ohne zusätzliche Kosten für den Nutzer.
             </p>
@@ -446,7 +445,7 @@ export default function LegalNoticePage({
           <h2>5. Affiliate and third-party links</h2>
           <p>
             The website includes links to third-party platforms, including
-            affiliate links (for example, to Viator, GetYourGuide or similar).
+            affiliate links (for example, to GetYourGuide or similar).
             When a user makes a purchase or booking through these links, the
             owner may receive a commission, at no additional cost to the user.
           </p>
