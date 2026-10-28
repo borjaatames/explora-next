@@ -92,7 +92,6 @@ export function FranjaPartners({ idioma }: { idioma: Idioma }) {
         </p>
         <div className="flex items-center gap-10 opacity-70 grayscale">
           <Image src="/logos/getyourguide.svg" alt="GetYourGuide" width={47} height={40} className="h-10 w-auto" />
-          <Image src="/logos/viator.svg" alt="Viator" width={100} height={32} className="h-6 w-auto" />
           <span className="text-lg font-semibold text-piedra-500">Stripe</span>
         </div>
       </div>
