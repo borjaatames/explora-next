@@ -96,7 +96,12 @@ export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor
   }, [locationId, idioma]);
 
   return (
-    <section ref={ref} aria-labelledby={resenas.length ? "resenas-titulo" : undefined}>
+    <section
+      ref={ref}
+      id="opiniones"
+      className="scroll-mt-24"
+      aria-labelledby={resenas.length ? "resenas-titulo" : undefined}
+    >
       {resenas.length > 0 && (
         <>
           <h2 id="resenas-titulo" className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-1">

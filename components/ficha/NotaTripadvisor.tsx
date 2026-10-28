@@ -35,9 +35,13 @@ export default function NotaTripadvisor({ idioma, datos }: Props) {
       <span aria-hidden="true" className="text-piedra-400">
         ·
       </span>
-      <span>
+      {/* Enlaza a las reseñas con texto del final de la ficha (#opiniones). */}
+      <a
+        href="#opiniones"
+        className="underline decoration-piedra-300 underline-offset-2 hover:text-anil-700 hover:decoration-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded-sm"
+      >
         {es ? `${opiniones} opiniones` : `${opiniones} reviews`}
-      </span>
+      </a>
       {ranking && (
         <>
           <span aria-hidden="true" className="text-piedra-400">
