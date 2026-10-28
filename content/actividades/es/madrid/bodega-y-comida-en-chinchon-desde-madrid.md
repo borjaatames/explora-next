@@ -93,6 +93,24 @@ galeria:
   alt: 'Copas de vino tinto preparadas para la cata'
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
   alt: 'Vino tinto sirviéndose en una copa'
+- src: /images/actividades/madrid/chinchon/chinchon-plaza-iglesia.webp
+  alt: 'La plaza Mayor de Chinchón con la iglesia de la Asunción al fondo'
+- src: /images/actividades/madrid/chinchon/chinchon-plaza-balcones.webp
+  alt: 'Los balcones de madera de la plaza Mayor de Chinchón'
+- src: /images/actividades/madrid/chinchon/chinchon-plaza-noche.webp
+  alt: 'La plaza Mayor de Chinchón iluminada de noche'
+- src: /images/actividades/madrid/chinchon/chinchon-tejados.webp
+  alt: 'Tejados de Chinchón y su plaza Mayor vistos desde lo alto'
+- src: /images/actividades/madrid/chinchon/chinchon-plaza-terrazas.webp
+  alt: 'Terrazas bajo los soportales de la plaza Mayor de Chinchón'
+- src: /images/actividades/madrid/chinchon/chinchon-plaza-corredores.webp
+  alt: 'Corredores verdes de la plaza Mayor de Chinchón'
+- src: /images/actividades/madrid/chinchon/chinchon-pueblo-teatro.webp
+  alt: 'Tejados de Chinchón con la torre del teatro Lope de Vega'
+- src: /images/actividades/madrid/chinchon/chinchon-castillo-puente.webp
+  alt: 'El castillo de los Condes de Chinchón y su puente'
+- src: /images/actividades/madrid/chinchon/cueva-bodega-barricas.webp
+  alt: 'Barricas de vino en una cueva-bodega excavada en la roca'
 - src: https://imgcdn.bokun.tools/0c56f9d2-448b-4d44-a020-defe0c4ac9ea.jpg
   alt: 'Tinajas de barro en una bodega antigua'
 - src: https://imgcdn.bokun.tools/98a77f1f-53ca-4fb6-8f08-828a7ca202ea.jpg

@@ -93,6 +93,24 @@ galeria:
   alt: 'Glasses of red wine ready for the tasting'
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
   alt: 'Red wine being poured into a glass'
+- src: /images/actividades/madrid/chinchon/chinchon-plaza-iglesia.webp
+  alt: 'Chinchón''s Plaza Mayor with the Church of the Assumption behind'
+- src: /images/actividades/madrid/chinchon/chinchon-plaza-balcones.webp
+  alt: 'The wooden balconies of Chinchón''s Plaza Mayor'
+- src: /images/actividades/madrid/chinchon/chinchon-plaza-noche.webp
+  alt: 'Chinchón''s Plaza Mayor lit up at night'
+- src: /images/actividades/madrid/chinchon/chinchon-tejados.webp
+  alt: 'Chinchón''s rooftops and Plaza Mayor seen from above'
+- src: /images/actividades/madrid/chinchon/chinchon-plaza-terrazas.webp
+  alt: 'Terraces under the arcades of Chinchón''s Plaza Mayor'
+- src: /images/actividades/madrid/chinchon/chinchon-plaza-corredores.webp
+  alt: 'Green galleries of Chinchón''s Plaza Mayor'
+- src: /images/actividades/madrid/chinchon/chinchon-pueblo-teatro.webp
+  alt: 'Chinchón rooftops with the Lope de Vega theatre tower'
+- src: /images/actividades/madrid/chinchon/chinchon-castillo-puente.webp
+  alt: 'The Castle of the Counts of Chinchón and its bridge'
+- src: /images/actividades/madrid/chinchon/cueva-bodega-barricas.webp
+  alt: 'Wine barrels in a cellar cave dug into the rock'
 - src: https://imgcdn.bokun.tools/0c56f9d2-448b-4d44-a020-defe0c4ac9ea.jpg
   alt: 'Clay jars in an old winery cellar'
 - src: https://imgcdn.bokun.tools/98a77f1f-53ca-4fb6-8f08-828a7ca202ea.jpg
