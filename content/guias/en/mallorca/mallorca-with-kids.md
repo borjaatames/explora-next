@@ -23,7 +23,7 @@ slugs:
   en: mallorca-with-kids
   de: mallorca-mit-kindern
 reservasArriba: true
-respuestaCorta: 'Stay in the **north (Alcúdia)**, with shallow-water beaches, and don''t try to see the whole island. The must-dos: the **Sóller train** (half day from the north, from €56), the **Caves of Drach** with a boat concert (€54) and **Palma Aquarium** for a cloudy day (€30.50).'
+respuestaCorta: 'Stay in the **north (Alcúdia)**, with shallow-water beaches, and don''t try to see the whole island. The must-dos: the [**Sóller train**](/en/cities/mallorca/activities/soller-train-tram-half-day-from-the-north) (half day from the north, from €56), the [**Caves of Drach**](/en/cities/mallorca/activities/drach-caves-from-alcudia) with a boat concert (€54) and [**Palma Aquarium**](/en/cities/mallorca/activities/palma-aquarium-entry-ticket) for a cloudy day (€30.50).'
 opciones:
   - ficha: tren-soller-tranvia-medio-dia-desde-el-norte
     etiqueta: Sóller train

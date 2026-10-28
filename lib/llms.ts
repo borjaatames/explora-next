@@ -30,6 +30,7 @@ const RE_AGOTADAS = /entradas-agotadas|tickets-sold-out|ausverkauft/;
 
 function limpiar(texto: string): string {
   return texto
+    .replace(/\[([^\]]+)\]\((\/[^)\s]*)\)/g, "$1")
     .replace(/\*\*(.+?)\*\*/g, "$1")
     .replace(/\s+/g, " ")
     .trim();

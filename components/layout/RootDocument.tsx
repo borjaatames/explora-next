@@ -54,7 +54,10 @@ export default function RootDocument({ lang, children }: Props) {
               var interno = new URLSearchParams(window.location.search).get('interno');
               if (interno === '1') window.localStorage.setItem('exploraspain_interno', '1');
               if (interno === '0') window.localStorage.removeItem('exploraspain_interno');
-              if (window.localStorage.getItem('exploraspain_interno') === '1') {
+              // Robots de medición (PageSpeed/Lighthouse, WebPageTest, Chrome headless)
+              // abrían sesiones de 0 s que inflaban el rebote en los informes.
+              var robot = /Chrome-Lighthouse|HeadlessChrome|PTST|Speed Insights/i.test(navigator.userAgent);
+              if (robot || window.localStorage.getItem('exploraspain_interno') === '1') {
                 window['ga-disable-${gaId ?? ""}'] = true;
               }
             } catch (e) {}

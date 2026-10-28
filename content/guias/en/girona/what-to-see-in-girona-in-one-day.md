@@ -31,7 +31,7 @@ slugs:
   en: what-to-see-in-girona-in-one-day
   de: girona-in-einem-tag
 reservasArriba: true
-respuestaCorta: 'Yes, **Girona works in one day**: it''s **38 minutes from Barcelona by high-speed train** and the old town is walkable (the Cathedral, El Call, the colourful houses on the Onyar and the city walls). The Cathedral and Sant Feliu share one ticket (about €7.50, audio guide included); the walls and the Arab Baths are almost free.'
+respuestaCorta: 'Yes, **Girona works in one day**: it''s **38 minutes from Barcelona by high-speed train** and the old town is walkable (the Cathedral, El Call, the colourful houses on the Onyar and the city walls). [The Cathedral and Sant Feliu](/en/cities/girona/activities/girona-cathedral-art-museum-sant-feliu-ticket) share one ticket (about €7.50, audio guide included); the walls and the Arab Baths are almost free.'
 actividades:
   - girona-tour-a-pie-grupo-reducido
   - girona-catedral-museu-art-sant-feliu-entrada

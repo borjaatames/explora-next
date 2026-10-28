@@ -31,6 +31,8 @@ opciones:
     etiqueta: El más bonito
   - ficha: tablao-de-carmen-flamenco-cena-poble-espanyol
     etiqueta: Con cena
+  - ficha: tablao-flamenco-cordobes-cena-show-las-ramblas
+    etiqueta: Sin amplificación
 actividades:
   - flamenco-en-el-teatro-city-hall-mas-vendido
   - palau-dalmases-flamenco-show-palacio-siglo-xvii

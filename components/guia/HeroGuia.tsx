@@ -17,8 +17,10 @@ type Props = {
 /**
  * Hero editorial de guía: foto de portada a sangre con velo inferior y el
  * título encima. Sin portada, cae a un bloque piedra-900 sobrio.
- * En móvil es más bajo y compacto (descripción a 3 líneas) para que la
- * respuesta corta y el bloque de reservas asomen en la primera pantalla.
+ * En móvil solo lleva migas, etiqueta y título (la entradilla y la firma se
+ * ven desde md): así la respuesta corta y la primera opción con su botón de
+ * reserva entran en la primera pantalla. Los visitantes que llegan desde
+ * ChatGPT ya traen la respuesta y salían sin ver nada que pulsar.
  */
 export default function HeroGuia({
   etiqueta,
@@ -50,8 +52,8 @@ export default function HeroGuia({
       ) : null}
       <div
         className={
-          "max-w-6xl mx-auto px-4 flex flex-col justify-end pb-6 md:pb-12 " +
-          (imagen ? "min-h-[300px] md:min-h-[520px] pt-16 md:pt-24" : "pt-10 md:pt-16")
+          "max-w-6xl mx-auto px-4 flex flex-col justify-end pb-5 md:pb-12 " +
+          (imagen ? "min-h-[220px] md:min-h-[520px] pt-12 md:pt-24" : "pt-8 md:pt-16")
         }
       >
         <nav aria-label={migasLabel} className="text-xs md:text-sm text-anil-100 mb-3 md:mb-4 line-clamp-1 md:line-clamp-none">
@@ -71,13 +73,13 @@ export default function HeroGuia({
         <span className="self-start inline-block bg-azafran-400 text-piedra-900 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3 md:mb-4">
           {etiqueta}
         </span>
-        <h1 className="font-fraunces text-2xl md:text-5xl font-bold leading-tight max-w-4xl mb-3 md:mb-4">
+        <h1 className="font-fraunces text-2xl md:text-5xl font-bold leading-tight max-w-4xl md:mb-4">
           {titulo}
         </h1>
-        <p className="text-base md:text-xl text-anil-50 max-w-3xl leading-relaxed mb-3 md:mb-5 line-clamp-3 md:line-clamp-none">
+        <p className="hidden md:block text-xl text-anil-50 max-w-3xl leading-relaxed mb-5">
           {descripcion}
         </p>
-        <p className="text-xs md:text-sm text-anil-100 flex flex-wrap gap-x-2 gap-y-1">
+        <p className="hidden md:flex text-sm text-anil-100 flex-wrap gap-x-2 gap-y-1">
           {meta.map((m, i) => (
             <span key={`${m}-${i}`}>
               {i > 0 ? "· " : null}

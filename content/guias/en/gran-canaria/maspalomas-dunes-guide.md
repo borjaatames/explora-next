@@ -20,7 +20,7 @@ slugs:
   en: maspalomas-dunes-guide
   de: duenen-von-maspalomas
 reservasArriba: true
-respuestaCorta: 'The dunes are **free and open all day**, but they''re a Special Nature Reserve: you may only walk on the **marked paths** and along the shore. Go at **sunrise or in the last two hours of daylight**, carry water, and enter from the Playa del Inglés viewpoint or the lighthouse. The 30-minute camel ride costs from €18.'
+respuestaCorta: 'The dunes are **free and open all day**, but they''re a Special Nature Reserve: you may only walk on the **marked paths** and along the shore. Go at **sunrise or in the last two hours of daylight**, carry water, and enter from the Playa del Inglés viewpoint or the lighthouse. The [30-minute camel ride](/en/cities/gran-canaria/activities/maspalomas-dunes-camel-ride) costs from €18.'
 actividades:
   - paseo-camello-dunas-maspalomas
   - tour-gran-canaria-1-dia-desde-las-palmas

@@ -1,7 +1,7 @@
 ---
 titulo: 'What to see in Tenerife: Teide, La Laguna, Masca, Garachico and Anaga'
 descripcion: 'Tenerife guide: Teide, La Laguna, La Orotava, Garachico, Masca, Los Gigantes, Anaga and the whales of the south. How many days, where to stay and how to get around.'
-respuestaCorta: 'With **five or six days** you''ll see Tenerife''s essentials: a day for **Teide** (cable car up to 3,555 m), one for the north (La Orotava, Puerto de la Cruz and Garachico), one for La Laguna and Anaga, one for Masca and Los Gigantes, and sea time in the south. **Hire a car** for the mountains and book a whale trip: the eco-yacht from Los Cristianos costs **from €30**.'
+respuestaCorta: 'With **five or six days** you''ll see Tenerife''s essentials: a day for [**Teide**](/en/cities/tenerife/activities/teide-cable-car-tour-transfer) (cable car up to 3,555 m), one for the north (La Orotava, Puerto de la Cruz and Garachico), one for La Laguna and Anaga, one for Masca and Los Gigantes, and sea time in the south. **Hire a car** for the mountains and book a whale trip: the [eco-yacht from Los Cristianos](/en/cities/tenerife/activities/eco-yacht-whale-dolphin-watching-tenerife) costs **from €30**.'
 categoria: tenerife
 slug: what-to-see-in-tenerife
 fecha: '2026-10-07'

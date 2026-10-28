@@ -22,7 +22,7 @@ slugs:
   en: flamenco-barcelona-which-tablao-to-choose
   de: flamenco-barcelona-welches-tablao-waehlen
 reservasArriba: true
-respuestaCorta: 'For price and showtimes, **Teatro City Hall** (from €25, four shows a day). For the setting, **Palau Dalmases** (€30, a 17th-century palace in El Born). To have dinner during the show, **Tablao de Carmen** (€88 with dinner), and for unamplified singing and guitar on La Rambla, **Tablao Cordobés** (from €48).'
+respuestaCorta: 'For price and showtimes, [**Teatro City Hall**](/en/cities/barcelona/activities/flamenco-show-at-the-theater-city-hall-top-pick) (from €25, four shows a day). For the setting, [**Palau Dalmases**](/en/cities/barcelona/activities/palau-dalmases-flamenco-show-17th-century-palace) (€30, a 17th-century palace in El Born). To have dinner during the show, [**Tablao de Carmen**](/en/cities/barcelona/activities/tablao-de-carmen-flamenco-dinner-show-poble-espanyol) (€88 with dinner), and for unamplified singing and guitar on La Rambla, [**Tablao Cordobés**](/en/cities/barcelona/activities/tablao-flamenco-cordobes-dinner-show-las-ramblas) (from €48).'
 opciones:
   - ficha: flamenco-en-el-teatro-city-hall-mas-vendido
     etiqueta: Cheapest
@@ -30,6 +30,8 @@ opciones:
     etiqueta: Best setting
   - ficha: tablao-de-carmen-flamenco-cena-poble-espanyol
     etiqueta: With dinner
+  - ficha: tablao-flamenco-cordobes-cena-show-las-ramblas
+    etiqueta: Unamplified sound
 actividades:
   - flamenco-en-el-teatro-city-hall-mas-vendido
   - palau-dalmases-flamenco-show-palacio-siglo-xvii

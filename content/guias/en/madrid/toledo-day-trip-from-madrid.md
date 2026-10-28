@@ -22,7 +22,7 @@ slugs:
   en: toledo-day-trip-from-madrid
   de: tagesausflug-toledo-ab-madrid
 reservasArriba: true
-respuestaCorta: 'Take the **Avant train from Atocha (33 minutes, €22–26 return)** or drive an hour on the A-42, and arrive by 10 AM. Spend the morning on the **Cathedral (€12)**, Santo Tomé and Santa María la Blanca, the afternoon in the Jewish Quarter, and finish at the **Mirador del Valle**. The **€14 bracelet** covers seven smaller monuments.'
+respuestaCorta: 'Take the [**Avant train from Atocha (33 minutes, €22–26 return)**](/en/cities/madrid/activities/toledo-by-high-speed-train-from-madrid) or drive an hour on the A-42, and arrive by 10 AM. Spend the morning on the **Cathedral (€12)**, Santo Tomé and Santa María la Blanca, the afternoon in the Jewish Quarter, and finish at the **Mirador del Valle**. The [**€14 bracelet**](/en/cities/madrid/activities/toledo-tourist-bracelet-7-monuments) covers seven smaller monuments.'
 actividades:
   - excursion-toledo-dia-completo
   - toledo-pulsera-turistica-7-monumentos

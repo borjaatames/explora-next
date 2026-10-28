@@ -67,7 +67,7 @@ export default function OpcionesGuia({ opciones, idioma }: Props) {
           </h2>
           <p className="text-sm text-piedra-500 mt-1">{t.subtitulo}</p>
         </div>
-        <ol className={`grid grid-cols-1 gap-4 ${opciones.length === 2 ? "md:grid-cols-2" : "md:grid-cols-3"}`}>
+        <ol className={`grid grid-cols-1 gap-4 ${opciones.length % 2 === 0 ? "md:grid-cols-2" : "md:grid-cols-3"}`}>
           {opciones.map(({ etiqueta, actividad: a }) => {
             const rating = formatearRating(a, idioma);
             const opiniones = formatearOpiniones(a, idioma);
