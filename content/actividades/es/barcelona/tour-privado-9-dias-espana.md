@@ -46,7 +46,7 @@ detallesPracticos:
   mascotasPermitidas: false
 accesibilidad: No accesible para sillas de ruedas. Incluye recorridos a pie. No recomendado para personas con problemas cardiacos.
 politicaCancelacion: Cancelación gratuita hasta el inicio de la actividad, con reembolso completo.
-opinionEditorial: 'Es un "gran tour" de España resuelto de principio a fin: cuatro ciudades imprescindibles en nueve días, moviéndote en AVE (lo más cómodo entre capitales), con hoteles, desayunos, cenas y entradas ya incluidos, y guía a pie en Barcelona y Madrid. La gracia es que es privado, así que no vas pegado a un grupo de 40 personas: hay estructura pero también tiempo libre. Es una experiencia premium por grupo; para una familia o un grupo de amigos que quieren ver lo esencial de España sin organizar nada, tiene mucho sentido.'
+opinionEditorial: 'Es un "gran tour" de España resuelto de principio a fin: cuatro ciudades imprescindibles en nueve días, moviéndote en AVE (lo más cómodo entre capitales), con hoteles, desayunos, cenas y entradas ya incluidos, y guía a pie en Barcelona y Madrid. La gracia es que es privado, así que no vas pegado a un grupo de 40 personas: hay estructura pero también tiempo libre. Es una experiencia premium (el precio es por persona, mínimo 2); para una familia o un grupo de amigos que quieren ver lo esencial de España sin organizar nada, tiene mucho sentido.'
 atraccionesRelacionadas:
 - otros-barcelona
 categoria: excursionesDia
@@ -87,7 +87,8 @@ destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'
 privada: true
-precioPorGrupo: true
+precioPorGrupo: false
+minimoPersonas: 2
 ---
 
 ## Qué vas a ver

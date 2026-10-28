@@ -75,7 +75,7 @@ destacada: false
 fecha: '2026-09-05'
 fecha_actualizacion: '2026-09-05'
 privada: true
-precioPorGrupo: true
+precioPorGrupo: false
 ---
 
 ## Qué vas a probar

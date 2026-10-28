@@ -46,7 +46,7 @@ detallesPracticos:
   mascotasPermitidas: false
 accesibilidad: Not wheelchair accessible. Includes walking. Not recommended for people with heart conditions.
 politicaCancelacion: Free cancellation up to the start of the activity, with a full refund.
-opinionEditorial: 'This is a "grand tour" of Spain sorted from start to finish: four must-see cities in nine days, travelling by AVE (the most comfortable way between capitals), with hotels, breakfasts, dinners and admissions already included, and a guide on foot in Barcelona and Madrid. The point is that it''s private, so you''re not stuck to a group of 40: there''s structure but also free time. It''s a premium per-group experience; for a family or group of friends who want to see the essentials of Spain without organising anything, it makes a lot of sense.'
+opinionEditorial: 'This is a "grand tour" of Spain sorted from start to finish: four must-see cities in nine days, travelling by AVE (the most comfortable way between capitals), with hotels, breakfasts, dinners and admissions already included, and a guide on foot in Barcelona and Madrid. The point is that it''s private, so you''re not stuck to a group of 40: there''s structure but also free time. It''s a premium experience (priced per person, minimum 2); for a family or group of friends who want to see the essentials of Spain without organising anything, it makes a lot of sense.'
 atraccionesRelacionadas:
 - otros-barcelona
 categoria: excursionesDia
@@ -87,7 +87,8 @@ destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-10-25'
 privada: true
-precioPorGrupo: true
+precioPorGrupo: false
+minimoPersonas: 2
 ---
 
 ## What you'll see

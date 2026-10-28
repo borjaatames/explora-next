@@ -41,7 +41,7 @@ puntoEncuentro:
   zoom: 16
 informacionImportante:
   aTenerEnCuenta:
-  - 'Precio por grupo: 278 € a 360 € para 1 o 2 personas según la fecha; para grupos mayores el precio sube por tramos'
+  - 'Precio por grupo: 278 € a 360 € para 1 o 2 personas según la fecha; a partir de 3, unos 180 € por persona'
   - 'Reserva no reembolsable: no admite cancelación'
   - 'Lleva el pasaporte o DNI original: la Alhambra lo pide en el acceso'
   - No accesible en silla de ruedas
@@ -55,7 +55,7 @@ avisoReserva: Las entradas de la Alhambra se agotan con semanas de antelación
 opinionEditorial: 'Su punto fuerte es que el precio es por grupo: si viajas solo o en pareja, es de los tours privados de la Alhambra más asequibles, y el guía puede hacerlo en cinco idiomas. Lo que hay que tener claro antes de reservar es que no se puede cancelar, así que conviene tener las fechas cerradas.'
 preguntasFrecuentes:
 - pregunta: ¿Cuánto cuesta?
-  respuesta: El precio es por grupo. Para 1 o 2 personas va de 278 € a 360 € según la fecha; para 3 personas, desde 372 €. El precio exacto aparece en el calendario al elegir fecha y número de personas.
+  respuesta: Para 1 o 2 personas el precio es por grupo, de 278 € a 360 € según la fecha. A partir de 3 se cobra por persona, unos 180 € cada una (en noviembre de 2026, 540 € para 3 y 720 € para 4). El precio exacto aparece en el calendario al elegir fecha y número de personas.
 - pregunta: ¿Puedo reservarlo si viajo solo?
   respuesta: 'Sí. No hay mínimo de personas: una sola persona puede reservar el tour privado.'
 - pregunta: ¿Están incluidas las entradas?
@@ -97,6 +97,14 @@ fecha: '2026-10-10'
 fecha_actualizacion: '2026-10-10'
 privada: true
 precioPorGrupo: true
+# Totales de Bókun (primera fecha libre de noviembre), comprobados el 28-10-2026
+preciosGrupo:
+- personas: 2
+  total: 360
+- personas: 4
+  total: 720
+- personas: 6
+  total: 1080
 ---
 
 ## Qué vas a ver
