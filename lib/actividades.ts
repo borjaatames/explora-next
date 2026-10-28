@@ -16,6 +16,7 @@ import {
   type ProveedorActividad,
   PROVEEDORES_ACTIVOS,
 } from "./afiliados";
+import type { PrecioGrupo } from "@/lib/reservaBokun";
 
 const actividadesRoot = path.join(process.cwd(), "content", "actividades");
 
@@ -150,6 +151,12 @@ export type ActividadFrontmatter = {
   privada?: boolean;
   /** El precio «desde» es por grupo, no por persona. */
   precioPorGrupo?: boolean;
+  /**
+   * Privadas: total del grupo según cuántos sois (de los precios reales de
+   * Bókun). Sirve para enseñar el precio por persona, que es como compara
+   * quien llega de un anuncio. Ordenado de menos a más personas.
+   */
+  preciosGrupo?: PrecioGrupo[];
 
   // Vendedor
   highlights: ActividadHighlight[];
@@ -603,6 +610,7 @@ function construirListItem(
     bokunPedirPersonas: fm.bokunPedirPersonas === true,
     privada: fm.privada === true,
     precioPorGrupo: fm.precioPorGrupo === true,
+    preciosGrupo: leerPreciosGrupo(fm.preciosGrupo),
 
     highlights: fm.highlights || [],
     incluye: fm.incluye || [],
@@ -817,3 +825,19 @@ export function urlCategoriaActividadesSiExiste(
  * enlace desde el listado. Con menos, es contenido fino: `noindex, follow`.
  */
 export const MIN_FICHAS_CATEGORIA_INDEXABLE = 4;
+
+function leerPreciosGrupo(valor: unknown): PrecioGrupo[] | undefined {
+  if (!Array.isArray(valor)) return undefined;
+  const precios = valor
+    .filter(
+      (p): p is PrecioGrupo =>
+        typeof p === "object" &&
+        p !== null &&
+        typeof (p as Record<string, unknown>).personas === "number" &&
+        typeof (p as Record<string, unknown>).total === "number" &&
+        (p as PrecioGrupo).personas > 0 &&
+        (p as PrecioGrupo).total > 0
+    )
+    .sort((a, b) => a.personas - b.personas);
+  return precios.length >= 2 ? precios : undefined;
+}

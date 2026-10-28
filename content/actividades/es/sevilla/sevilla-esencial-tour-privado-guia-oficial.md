@@ -99,6 +99,14 @@ bokunProductId: 793764
 fecha_actualizacion: '2026-10-24'
 privada: true
 precioPorGrupo: true
+# Totales de Bókun (primera fecha libre de noviembre), comprobados el 28-10-2026
+preciosGrupo:
+- personas: 2
+  total: 164
+- personas: 4
+  total: 220
+- personas: 6
+  total: 204
 ---
 
 ## El recorrido

@@ -102,6 +102,14 @@ bokunProductId: 848245
 fecha_actualizacion: '2026-10-25'
 privada: true
 precioPorGrupo: true
+# Totales de Bókun (primera fecha libre de noviembre), comprobados el 28-10-2026
+preciosGrupo:
+- personas: 2
+  total: 200
+- personas: 4
+  total: 260
+- personas: 6
+  total: 330
 ---
 
 ## El recorrido

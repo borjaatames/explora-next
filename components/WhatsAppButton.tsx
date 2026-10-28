@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
 import { ANCLA_RESERVA } from "@/lib/reservaBokun";
+import { urlWhatsApp } from "@/lib/contacto";
 
 /**
  * Botón flotante de contacto por WhatsApp (click-to-chat).
@@ -28,9 +29,6 @@ import { ANCLA_RESERVA } from "@/lib/reservaBokun";
 // Desplazamiento mínimo para considerar que el usuario "baja" (px).
 const UMBRAL_PX = 8;
 
-// Número de WhatsApp Business en formato internacional, solo dígitos
-// (sin "+", espacios ni guiones), como exige la API de wa.me.
-const WHATSAPP_NUMERO = "34917647730";
 
 const DICT: Record<"es" | "en" | "de", { aria: string; tooltip: string; mensaje: string }> = {
   es: {
@@ -52,9 +50,7 @@ const DICT: Record<"es" | "en" | "de", { aria: string; tooltip: string; mensaje:
 
 export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
   const t = idioma === "es" ? DICT.es : idioma === "de" ? DICT.de : DICT.en;
-  const href = `https://wa.me/${WHATSAPP_NUMERO}?text=${encodeURIComponent(
-    t.mensaje
-  )}`;
+  const href = urlWhatsApp(t.mensaje);
 
   const [oculto, setOculto] = useState<boolean>(false);
   const [sobreReserva, setSobreReserva] = useState<boolean>(false);

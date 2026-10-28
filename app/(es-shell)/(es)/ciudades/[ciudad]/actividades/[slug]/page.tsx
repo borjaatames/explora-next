@@ -27,6 +27,7 @@ import WidgetDisponibilidadGyg from "@/components/WidgetDisponibilidadGyg";
 import PrecioDestacado from "@/components/PrecioDestacado";
 import { ANCLA_WIDGET_GYG, tourWidgetGyg } from "@/lib/gyg-widget";
 import BokunWidget from "@/components/BokunWidget";
+import ConfianzaReservaBokun from "@/components/ficha/ConfianzaReservaBokun";
 import CtaReservaBokun from "@/components/ficha/CtaReservaBokun";
 import DatosClave from "@/components/ficha/DatosClave";
 import NotaTripadvisor from "@/components/ficha/NotaTripadvisor";
@@ -297,7 +298,7 @@ export default async function ActividadPage({ params }: Props) {
           y después galería, como siempre (desde md). */}
       <section className="max-w-6xl mx-auto px-4 pb-10 md:pb-14">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-x-10">
-          <div className="lg:col-span-2 min-w-0">
+          <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 min-w-0">
       <div className="flex flex-col">
       <header className="bg-white pt-4 md:pt-8">
         <div>
@@ -400,6 +401,7 @@ export default async function ActividadPage({ params }: Props) {
               moneda={actividad.moneda}
               porGrupo={actividad.precioPorGrupo === true}
               minimoPersonas={actividad.minimoPersonas}
+              preciosGrupo={actividad.preciosGrupo}
             />
           )}
         </div>
@@ -480,6 +482,70 @@ export default async function ActividadPage({ params }: Props) {
             {guiaAgotada && (
               <AvisoEntradasAgotadas url={guiaAgotada.url} idioma={"es"} />
             )}
+          </div>
+          </div>
+
+          {/* Bókun: un solo widget. En móvil va entre las dos mitades del
+              contenido (tras «Lo más destacado»); la barra fija y el CTA de
+              cabecera bajan hasta él. Para afiliados el aside solo existe en
+              escritorio y en móvil manda la barra sticky. */}
+          <aside
+            id={actividad.proveedor === "bokun" ? ANCLA_RESERVA : undefined}
+            className={
+              actividad.proveedor === "bokun"
+                ? "mt-12 lg:mt-0 lg:col-span-1 lg:col-start-3 lg:row-start-1 lg:row-span-2 scroll-mt-24"
+                : "hidden lg:block lg:col-span-1 lg:col-start-3 lg:row-start-1 lg:row-span-2"
+            }
+          >
+            <div className="lg:sticky lg:top-24 lg:pt-8">
+              {actividad.proveedor === "bokun" ? (
+                <>
+                  <BokunWidget
+                    idioma="es"
+                    productId={actividad.bokunProductId ?? 0}
+                    precioDesde={actividad.precioDesde}
+                    moneda={actividad.moneda}
+                    porGrupo={actividad.precioPorGrupo === true}
+                    ratingProveedor={actividad.ratingProveedor}
+                    numeroOpiniones={actividad.numeroOpiniones}
+                    minimoPersonas={actividad.minimoPersonas}
+                    pedirPersonas={actividad.bokunPedirPersonas}
+                  />
+                  <ConfianzaReservaBokun
+                    idioma="es"
+                    titulo={actividad.titulo}
+                    confirmacionInmediata={actividad.detallesPracticos?.confirmacionInmediata}
+                    cancelacionGratuita={actividad.cancelacionGratuita}
+                    horasCancelacion={actividad.horasCancelacion}
+                  />
+                </>
+              ) : tourWidget ? (
+                <WidgetDisponibilidadGyg
+                  tourId={tourWidget}
+                  idioma="es"
+                  urlReserva={urlReservaBase}
+                  cabecera={precioWidget}
+                  campana={campanaGyg("widget", "es", params.slug)}
+                  soloEn="escritorio"
+                  fallback={bloqueCalendario}
+                />
+              ) : (
+                bloqueCalendario
+              )}
+              {actividad.proveedor !== "bokun" && (
+                <div className="mt-3 flex justify-center">
+                  <SelloProveedor proveedor={actividad.proveedor} idioma="es" conLogo />
+                </div>
+              )}
+            </div>
+          </aside>
+
+          {/* Segunda mitad del contenido. En móvil va DESPUÉS del aside de
+              reserva (Bókun), así el calendario queda tras «Lo más destacado»
+              (~1.000 px) en vez de al final (~3.100 px). En escritorio ocupa
+              la fila 2 de la columna izquierda y el aside abarca las dos. */}
+          <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 min-w-0">
+          <div className="space-y-12 pt-12">
 
             {/* 3a. Otras versiones de la misma actividad */}
             <OtrasVersiones idioma="es" actual={actividad} versiones={otrasVersiones} />
@@ -615,9 +681,7 @@ export default async function ActividadPage({ params }: Props) {
 
             {/* 13. Guías relacionadas */}
             {bloqueGuias && (
-              <div className={actividad.proveedor === "bokun" ? "hidden lg:block" : undefined}>
-                {bloqueGuias}
-              </div>
+              <div>{bloqueGuias}</div>
             )}
 
             {/* 13b. Reseñas reales del proveedor (Tripadvisor Content API),
@@ -641,56 +705,9 @@ export default async function ActividadPage({ params }: Props) {
             )}
           </div>
 
-          {/* Bókun: un solo widget. En móvil el aside se apila tras el contenido
-              (la barra fija y el CTA de cabecera bajan hasta él); para afiliados
-              el aside solo existe en escritorio y en móvil manda la barra sticky. */}
           </div>
 
-          <aside
-            id={actividad.proveedor === "bokun" ? ANCLA_RESERVA : undefined}
-            className={
-              actividad.proveedor === "bokun"
-                ? "lg:col-span-1 scroll-mt-24"
-                : "hidden lg:block lg:col-span-1"
-            }
-          >
-            <div className="lg:sticky lg:top-24 lg:pt-8">
-              {actividad.proveedor === "bokun" ? (
-                <BokunWidget
-                  idioma="es"
-                  productId={actividad.bokunProductId ?? 0}
-                  precioDesde={actividad.precioDesde}
-                  moneda={actividad.moneda}
-                  porGrupo={actividad.precioPorGrupo === true}
-                  ratingProveedor={actividad.ratingProveedor}
-                  numeroOpiniones={actividad.numeroOpiniones}
-                  minimoPersonas={actividad.minimoPersonas}
-                  pedirPersonas={actividad.bokunPedirPersonas}
-                />
-              ) : tourWidget ? (
-                <WidgetDisponibilidadGyg
-                  tourId={tourWidget}
-                  idioma="es"
-                  urlReserva={urlReservaBase}
-                  cabecera={precioWidget}
-                  campana={campanaGyg("widget", "es", params.slug)}
-                  soloEn="escritorio"
-                  fallback={bloqueCalendario}
-                />
-              ) : (
-                bloqueCalendario
-              )}
-              {actividad.proveedor !== "bokun" && (
-                <div className="mt-3 flex justify-center">
-                  <SelloProveedor proveedor={actividad.proveedor} idioma="es" conLogo />
-                </div>
-              )}
-            </div>
-          </aside>
 
-          {actividad.proveedor === "bokun" && bloqueGuias && (
-            <div className="lg:hidden mt-8">{bloqueGuias}</div>
-          )}
         </div>
       </section>
 

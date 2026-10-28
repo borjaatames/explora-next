@@ -3,13 +3,17 @@ import {
   ANCLA_RESERVA,
   textosPrecioBokun,
   type DatosPrecioBokun,
+  type PrecioGrupo,
 } from "@/lib/reservaBokun";
+import PreciosPorGrupo from "@/components/ficha/PreciosPorGrupo";
 
 type Props = DatosPrecioBokun & {
   idioma: Idioma;
   horasCancelacion?: number;
   cancelacionGratuita?: boolean;
   confirmacionInmediata?: boolean;
+  /** Privadas: total según el tamaño del grupo, para enseñar el precio por persona. */
+  preciosGrupo?: ReadonlyArray<PrecioGrupo>;
 };
 
 const CONFIANZA = {
@@ -42,6 +46,7 @@ export default function CtaReservaBokun({
   horasCancelacion,
   cancelacionGratuita,
   confirmacionInmediata,
+  preciosGrupo,
   ...datos
 }: Props) {
   if (!(datos.precioDesde > 0)) return null;
@@ -66,6 +71,9 @@ export default function CtaReservaBokun({
       >
         {t.verFechas} →
       </a>
+      {datos.porGrupo && (
+        <PreciosPorGrupo precios={preciosGrupo} moneda={datos.moneda} idioma={idioma} />
+      )}
       <p className="w-full text-sm text-piedra-600 flex flex-wrap gap-x-4 gap-y-1">
         {garantias.map((g) => (
           <span key={g} className="inline-flex items-center gap-1">

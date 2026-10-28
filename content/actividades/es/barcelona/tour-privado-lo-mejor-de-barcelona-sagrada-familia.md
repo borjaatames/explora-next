@@ -95,6 +95,14 @@ guiasRelacionadas:
 - sagrada-familia-que-entrada-elegir
 privada: true
 precioPorGrupo: true
+# Totales de Bókun (primera fecha libre de noviembre), comprobados el 28-10-2026
+preciosGrupo:
+- personas: 2
+  total: 658
+- personas: 4
+  total: 836
+- personas: 6
+  total: 1014
 ---
 
 ## Qué vas a ver

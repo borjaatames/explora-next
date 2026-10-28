@@ -12,6 +12,9 @@ export type DatosPrecioBokun = {
   minimoPersonas?: number;
 };
 
+/** Precio total de una privada para un tamaño de grupo (tarifa más barata de Bókun). */
+export type PrecioGrupo = { personas: number; total: number };
+
 export type TextosPrecioBokun = {
   desde: string;
   precio: string;

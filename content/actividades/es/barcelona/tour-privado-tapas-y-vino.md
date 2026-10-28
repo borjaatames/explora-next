@@ -99,6 +99,14 @@ fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'
 privada: true
 precioPorGrupo: true
+# Totales de Bókun (primera fecha libre de noviembre), comprobados el 28-10-2026
+preciosGrupo:
+- personas: 2
+  total: 298
+- personas: 4
+  total: 476
+- personas: 6
+  total: 594
 ---
 
 ## Qué vas a ver y probar

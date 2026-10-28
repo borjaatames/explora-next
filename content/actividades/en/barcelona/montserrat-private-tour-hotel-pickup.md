@@ -141,4 +141,12 @@ guiasRelacionadas:
 - montserrat-which-excursion-to-choose
 privada: true
 precioPorGrupo: true
+# Totales de Bókun (primera fecha libre de noviembre), comprobados el 28-10-2026
+preciosGrupo:
+- personas: 2
+  total: 838
+- personas: 4
+  total: 876
+- personas: 6
+  total: 894
 ---
