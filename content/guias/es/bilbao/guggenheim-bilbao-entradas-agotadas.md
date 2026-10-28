@@ -27,6 +27,7 @@ respuestaCorta: 'El Guggenheim rara vez se agota del todo: lo normal es que se l
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido
+  - guggenheim-bilbao-visita-privada-guia-entrada
 faq:
 - pregunta: ¿Se pueden comprar entradas del Guggenheim en la taquilla el mismo día?
   respuesta: 'Sí, mientras quede aforo. Las taquillas cierran media hora antes del cierre del museo, es decir, a las 18:30 en horario normal. En fines de semana, Semana Santa, verano y días de lluvia es mejor llevar la entrada comprada en la web oficial.'

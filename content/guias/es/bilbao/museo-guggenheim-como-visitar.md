@@ -26,6 +26,7 @@ reservasArriba: true
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido
+  - guggenheim-bilbao-visita-privada-guia-entrada
 ---
 
 **El Guggenheim no es solo un museo: es el edificio que cambió Bilbao.** La obra de titanio de Frank Gehry, inaugurada en 1997, transformó una ciudad industrial en un icono mundial del diseño —el famoso "efecto Guggenheim"—. Por eso la visita tiene dos partes que conviene no confundir: **el edificio y sus esculturas (gratis, por fuera)** y **las salas (de pago, por dentro)**. Esta guía te ayuda a aprovechar las dos.

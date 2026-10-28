@@ -34,6 +34,8 @@ actividades:
   - excursion-playa-catedrales-lugo-ribadeo
   - cubiertas-catedral-santiago-tour
   - tour-autoguiado-daremapp-santiago-de-compostela
+  - santiago-de-compostela-private-tour-official-guide
+  - santiago-de-compostela-private-food-tour
 ---
 
 **Santiago is easily seen in a day**, though its atmosphere invites you to stay. The old town is compact, all stone and arcades, a UNESCO World Heritage Site, and everything revolves around the **cathedral**, the goal of the Camino. This guide covers the essentials of the Galician capital and makes clear why whoever stays overnight takes home far more than the passing tourist.

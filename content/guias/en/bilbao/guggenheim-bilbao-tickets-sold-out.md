@@ -27,6 +27,7 @@ respuestaCorta: 'The Guggenheim rarely sells out completely: what usually happen
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido
+  - guggenheim-bilbao-private-tour-guide-ticket
 faq:
 - pregunta: Can I buy Guggenheim tickets at the box office on the day?
   respuesta: 'Yes, while there''s capacity left. The ticket desks close half an hour before the museum, so at 18:30 on normal days. At weekends, at Easter, in summer and on rainy days it''s better to have your ticket from the official website.'

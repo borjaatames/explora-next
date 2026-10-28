@@ -26,6 +26,7 @@ reservasArriba: true
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido
+  - guggenheim-bilbao-private-tour-guide-ticket
 ---
 
 **The Guggenheim isn't just a museum: it's the building that changed Bilbao.** Frank Gehry's titanium work, opened in 1997, turned an industrial city into a global design icon, the famous "Bilbao effect". So the visit has two parts you shouldn't confuse: **the building and its sculptures (free, outside)** and **the galleries (paid, inside)**. This guide helps you make the most of both.
