@@ -9,7 +9,7 @@ const t = copyProveedores("es");
 const canonical = `${SITE_URL}${urlProveedores("es")}`;
 
 export const metadata: Metadata = {
-  title: `${t.titulo} | ExploraSpain`,
+  title: t.titulo,
   description: t.subtitulo,
   robots: { index: allowIndexing, follow: allowIndexing },
   alternates: {

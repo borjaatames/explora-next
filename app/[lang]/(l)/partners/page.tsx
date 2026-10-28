@@ -21,7 +21,7 @@ export function generateMetadata({ params }: { params: { lang: string } }): Meta
   const canonical = `${SITE_URL}${urlProveedores(lang)}`;
 
   return {
-    title: `${t.titulo} | ExploraSpain`,
+    title: t.titulo,
     description: t.subtitulo,
     robots: { index: allowIndexing, follow: allowIndexing },
     alternates: { canonical, languages: hreflangAlternates(urlProveedores) },
