@@ -120,7 +120,8 @@ galeria:
   alt: Fachada exterior del Alcázar de Segovia con torres medievales y muros de piedra
 ratingProveedor: 4.6
 numeroOpiniones: 106
-publicada: true
+publicada: false
+reemplazadaPor: excursion-avila-segovia-con-entradas
 indexar: false
 destacada: false
 fecha: '2026-05-14'

@@ -120,7 +120,8 @@ galeria:
   alt: Alcázar of Segovia fortress exterior with towering walls and turrets against sky
 ratingProveedor: 4.6
 numeroOpiniones: 106
-publicada: true
+publicada: false
+reemplazadaPor: avila-segovia-day-trip-with-tickets
 indexar: false
 destacada: false
 fecha: '2026-05-14'
