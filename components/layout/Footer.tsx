@@ -10,6 +10,7 @@ import {
   urlCiudad,
 } from "@/lib/i18n/utils";
 import { urlListadoActividadesSiExiste } from "@/lib/actividades";
+import { urlProveedores } from "@/lib/proveedores";
 import type { Idioma } from "@/lib/i18n/types";
 
 /**
@@ -38,6 +39,7 @@ const DICT = {
     sectionWeb: "ExploraSpain",
     verTodas: "Ver todas →",
     sobreNosotros: "Sobre nosotros",
+    proveedores: "Proveedores locales",
     guias: "Guías de viaje",
     ciudades: "Ciudades",
     contacto: "Contacto",
@@ -64,6 +66,7 @@ const DICT = {
     sectionWeb: "ExploraSpain",
     verTodas: "See all →",
     sobreNosotros: "About us",
+    proveedores: "Local partners",
     guias: "Travel guides",
     ciudades: "Cities",
     contacto: "Contact",
@@ -90,6 +93,7 @@ const DICT = {
     sectionWeb: "ExploraSpain",
     verTodas: "Alle ansehen →",
     sobreNosotros: "Über uns",
+    proveedores: "Lokale Partner",
     guias: "Reiseführer",
     ciudades: "Städte",
     contacto: "Kontakt",
@@ -240,6 +244,15 @@ export default function Footer({ idioma }: Props) {
                   className="hover:text-white transition-colors"
                 >
                   {t.sobreNosotros}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href={urlProveedores(idioma)}
+                  prefetch={false}
+                  className="hover:text-white transition-colors"
+                >
+                  {t.proveedores}
                 </Link>
               </li>
               <li>

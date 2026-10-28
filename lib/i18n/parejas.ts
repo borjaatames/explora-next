@@ -122,6 +122,12 @@ function entradasFijas(): MapaParejas {
   mapa["/sobre-nosotros"] = { es: "/sobre-nosotros", en: "/en/about" };
   mapa["/en/about"] = { es: "/sobre-nosotros", en: "/en/about" };
 
+  // Proveedores locales / Local partners
+  const proveedores = Object.fromEntries(
+    IDIOMAS_ACTIVOS.map((l) => [l, l === "es" ? "/proveedores" : `/${l}/partners`])
+  );
+  for (const ruta of Object.values(proveedores)) mapa[ruta] = proveedores;
+
   return mapa;
 }
 

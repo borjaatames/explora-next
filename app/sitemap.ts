@@ -187,6 +187,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // de tocar canonicales SEO.
   const paginasFijasEs: Array<[string, number, "monthly" | "yearly"]> = [
     ["/sobre-nosotros", 0.6, "monthly"],
+    ["/proveedores", 0.4, "monthly"],
   ];
   for (const [path, priority, changeFrequency] of paginasFijasEs) {
     entries.push({
