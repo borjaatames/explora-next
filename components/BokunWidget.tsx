@@ -188,7 +188,7 @@ export default function BokunWidget({
         <span className="text-xs font-semibold tracking-wide">
           {idioma === "es" ? "Reservar tu visita" : "Book your visit"}
         </span>
-        <span className="text-[10px] opacity-90">
+        <span className="text-xs opacity-90">
           {idioma === "es" ? "Reserva directa" : "Direct booking"}
         </span>
       </div>
@@ -258,7 +258,7 @@ export default function BokunWidget({
       </div>
 
       <div className="border-t border-piedra-100 px-4 py-2.5">
-        <p className="flex items-center justify-center gap-1.5 text-[11px] text-piedra-500 text-center leading-snug">
+        <p className="flex items-center justify-center gap-1.5 text-xs text-piedra-500 text-center leading-snug">
           <svg
             width="12"
             height="12"

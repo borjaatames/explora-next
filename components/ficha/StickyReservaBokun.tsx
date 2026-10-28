@@ -75,7 +75,7 @@ export default function StickyReservaBokun({
           <span className="text-base font-bold text-piedra-900 leading-tight">
             {t.desde} {t.precio}
           </span>
-          <span className="text-xs text-piedra-500 leading-tight truncate">
+          <span className="text-xs text-piedra-500 leading-tight line-clamp-2">
             {rating && (
               <>
                 <span aria-hidden="true" className="text-azafran-500">
@@ -91,7 +91,7 @@ export default function StickyReservaBokun({
         <a
           href={`#${ANCLA_RESERVA}`}
           tabIndex={visible ? 0 : -1}
-          className="inline-flex items-center justify-center rounded-lg bg-azafran-400 hover:bg-azafran-500 px-5 py-3 text-sm font-semibold text-piedra-900 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2 whitespace-nowrap"
+          className="inline-flex items-center justify-center rounded-lg bg-azafran-400 hover:bg-azafran-500 px-4 py-3 text-sm font-semibold text-piedra-900 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2 whitespace-nowrap shrink-0"
         >
           {t.verFechas} →
         </a>

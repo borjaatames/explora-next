@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
+import { ANCLA_RESERVA } from "@/lib/reservaBokun";
 
 /**
  * Botón flotante de contacto por WhatsApp (click-to-chat).
@@ -19,6 +20,9 @@ import type { Idioma } from "@/lib/i18n/types";
  * En móvil se esconde cuando el usuario baja por la página y reaparece en
  * cuanto sube, o al llegar arriba o al final (patrón Civitatis/GYG): así no
  * tapa precios ni botones de las tarjetas. En escritorio no se mueve.
+ *
+ * En las fichas Bókun también se esconde (en móvil) mientras el calendario
+ * de reserva está en pantalla: si no, tapa la flecha de «mes siguiente».
  */
 
 // Desplazamiento mínimo para considerar que el usuario "baja" (px).
@@ -53,6 +57,18 @@ export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
   )}`;
 
   const [oculto, setOculto] = useState<boolean>(false);
+  const [sobreReserva, setSobreReserva] = useState<boolean>(false);
+
+  useEffect(() => {
+    const bloque = document.getElementById(ANCLA_RESERVA);
+    if (!bloque || typeof IntersectionObserver === "undefined") return;
+    const observer = new IntersectionObserver(
+      ([entrada]) => setSobreReserva(entrada.isIntersecting),
+      { threshold: 0 }
+    );
+    observer.observe(bloque);
+    return () => observer.disconnect();
+  }, []);
 
   useEffect(() => {
     let ultimoY = window.scrollY;
@@ -79,7 +95,7 @@ export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
       aria-label={t.aria}
       title={t.tooltip}
       className={`group fixed bottom-24 right-4 z-40 lg:bottom-6 lg:right-6 flex items-center gap-2.5 rounded-full bg-piedra-900 hover:bg-piedra-800 text-white shadow-md transition-[background-color,transform,opacity] duration-300 motion-reduce:transition-none lg:translate-y-0 lg:opacity-100 lg:pointer-events-auto ${
-        oculto ? "translate-y-[calc(100%+7rem)] opacity-0 pointer-events-none" : "translate-y-0 opacity-100"
+        oculto || sobreReserva ? "translate-y-[calc(100%+7rem)] opacity-0 pointer-events-none" : "translate-y-0 opacity-100"
       } focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-anil-500 pl-3 pr-3 lg:pl-4 lg:pr-5 py-3`}
     >
       <span className="hidden lg:block w-2 h-2 rounded-full bg-anil-400" aria-hidden="true" />

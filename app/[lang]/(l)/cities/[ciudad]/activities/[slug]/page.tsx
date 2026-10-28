@@ -337,8 +337,10 @@ export default async function ActividadPage({ params }: Props) {
             >
               Things to do
             </Link>
-            {" › "}
-            <span className="text-piedra-900">{actividad.titulo}</span>
+            <span className="hidden md:inline">
+              {" › "}
+              <span className="text-piedra-900">{actividad.titulo}</span>
+            </span>
           </nav>
 
           <div className="flex flex-wrap items-center gap-2 text-xs font-semibold uppercase tracking-wider text-piedra-600 mb-3">
@@ -367,7 +369,7 @@ export default async function ActividadPage({ params }: Props) {
             {actividad.descripcion}
           </p>
 
-          {tieneRating && (
+          {tieneRating && !tripadvisor && (
             <p className="mt-4 inline-flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-piedra-600">
               <span className="inline-flex items-center gap-1.5 font-semibold text-piedra-900">
                 <span aria-hidden="true" className="text-azafran-500 text-base">
@@ -445,7 +447,9 @@ export default async function ActividadPage({ params }: Props) {
       </div>
 
           <div className="space-y-12 pt-10 md:pt-14">
-            <SelloProveedor proveedor={actividad.proveedor} idioma={lang} />
+            {actividad.proveedor !== "bokun" && (
+              <SelloProveedor proveedor={actividad.proveedor} idioma={lang} />
+            )}
 
             {tourWidget && (
               <div className="lg:hidden">
@@ -653,7 +657,9 @@ export default async function ActividadPage({ params }: Props) {
             </p>
 
             {/* 15. Provider reference (end) */}
-            <SelloProveedor proveedor={actividad.proveedor} idioma={lang} conLogo />
+            {actividad.proveedor !== "bokun" && (
+              <SelloProveedor proveedor={actividad.proveedor} idioma={lang} conLogo />
+            )}
           </div>
 
           {/* Bókun: un solo widget. En móvil el aside se apila tras el contenido
@@ -695,9 +701,11 @@ export default async function ActividadPage({ params }: Props) {
               ) : (
                 bloqueCalendario
               )}
-              <div className="mt-3 flex justify-center">
-                <SelloProveedor proveedor={actividad.proveedor} idioma={lang} conLogo />
-              </div>
+              {actividad.proveedor !== "bokun" && (
+                <div className="mt-3 flex justify-center">
+                  <SelloProveedor proveedor={actividad.proveedor} idioma={lang} conLogo />
+                </div>
+              )}
             </div>
           </aside>
 
