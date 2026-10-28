@@ -82,6 +82,7 @@ imagen: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
 imagenAlt: Sagrada Familia of Barcelona seen from the square
 ratingProveedor: 4.6
 publicada: false
+reemplazadaPor: sagrada-familia-private-tour-guide-tickets
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

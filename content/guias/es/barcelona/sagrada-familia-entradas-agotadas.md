@@ -24,6 +24,7 @@ slugs:
 reservasArriba: true
 respuestaCorta: 'Las entradas oficiales salen **unos dos meses antes** y no hay taquilla. Si están agotadas, vuelve a mirar la web y la app (se liberan cambios y devoluciones), prueba los **códigos QR de compra** de alrededor del templo si queda aforo, o reserva un **tour con la entrada incluida**, que tiene cupo propio. La **misa internacional** de los domingos a las 9:00 es gratuita, pero no es una visita.'
 actividades:
+  - sagrada-familia-visita-privada-guia-entradas
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-visita-guiada-grupo-reducido
   - sagrada-familia-park-guell-tour-guiado

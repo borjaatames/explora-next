@@ -23,6 +23,7 @@ slugs:
   de: sagrada-familia-besichtigen
 reservasArriba: true
 actividades:
+  - sagrada-familia-visita-privada-guia-entradas
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-tour-con-torre
   - park-guell-entrada-zona-monumental

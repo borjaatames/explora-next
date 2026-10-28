@@ -82,6 +82,7 @@ imagen: /images/actividades/barcelona/sagrada-familia/pexels-18449847-hero.webp
 imagenAlt: Sagrada Familia de Barcelona vista desde la plaza
 ratingProveedor: 4.6
 publicada: false
+reemplazadaPor: sagrada-familia-visita-privada-guia-entradas
 destacada: false
 fecha: '2026-05-15'
 atraccionesRelacionadas:

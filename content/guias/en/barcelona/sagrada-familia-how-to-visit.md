@@ -23,6 +23,7 @@ slugs:
 respuestaCorta: 'Book only at **sagradafamilia.org**, **4–6 weeks ahead** (in July and August, as soon as they go on sale, about two months before): there is no ticket office. The **basic ticket with audio guide costs €26** and is enough for a first visit; towers add €10. Take the **9 AM slot** and plan 1.5–2 hours.'
 reservasArriba: true
 actividades:
+  - sagrada-familia-visita-privada-guia-entradas
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-tour-con-torre
   - park-guell-entrada-zona-monumental
