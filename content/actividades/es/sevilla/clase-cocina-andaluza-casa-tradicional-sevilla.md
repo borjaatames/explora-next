@@ -72,19 +72,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/sevilla/cocina-andaluza/gazpacho-vasitos.webp
-  alt: Vasitos de gazpacho servidos como aperitivo
+  alt: 'Vasitos de gazpacho servidos como aperitivo'
 - src: /images/actividades/sevilla/cocina-andaluza/patio-santa-cruz.webp
-  alt: Patio sevillano del barrio de Santa Cruz con fuente de azulejos y macetas con flores
+  alt: 'Patio sevillano del barrio de Santa Cruz con fuente de azulejos y macetas con flores'
 - src: /images/actividades/sevilla/cocina-andaluza/patio-regionalista.webp
-  alt: Patio sevillano de estilo regionalista con arcos, galerías y plantas
+  alt: 'Patio sevillano de estilo regionalista con arcos, galerías y plantas'
 - src: /images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp
-  alt: Puesto de frutas y verduras en un mercado de Sevilla
-- src: https://imgcdn.bokun.tools/75c1ce1a-04af-4e80-be6f-df5ff54c1839.jpg
-  alt: Participantes preparando platos en la clase de cocina
-- src: https://imgcdn.bokun.tools/b9536ef1-f214-4d5e-90c7-5f5f1b7adf93.jpg
-  alt: Grupo en un mercado de abastos
-- src: https://imgcdn.bokun.tools/00a38fb3-24ee-443a-86d0-d6ebba4f8592.jpg
-  alt: Alumnos cocinando con gorro de cocina
+  alt: 'Puesto de frutas y verduras en un mercado de Sevilla'
+- src: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-02-jpg-05.webp
+  alt: 'Entrada del Mercado de Triana en Sevilla'
+- src: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-sevilla-jpg-03.webp
+  alt: 'Puestos de fruta y verdura en el Mercado de Triana'
+- src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
+  alt: 'El puente de Triana al atardecer'
 bokunProductId: 933459
 fecha_actualizacion: '2026-10-24'
 privada: true

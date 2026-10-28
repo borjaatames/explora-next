@@ -73,17 +73,17 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/granada/almazara/olivos-sierra-nevada.webp
-  alt: Olive grove in Granada province with Sierra Nevada in the background
+  alt: 'Olive grove in Granada province with Sierra Nevada in the background'
 - src: /images/actividades/granada/almazara/almazara-centrifuga-aceite.webp
-  alt: Olive oil coming out of the centrifuge at an olive mill
+  alt: 'Olive oil coming out of the centrifuge at an olive mill'
 - src: /images/actividades/granada/almazara/aceitunas-recien-cosechadas.webp
-  alt: Freshly harvested green and purple olives ready for the mill
-- src: https://imgcdn.bokun.tools/72ade224-12ef-4d72-888f-3556928d7cc8.jpeg
-  alt: Olive grove with the Sierra Nevada peaks behind
-- src: https://imgcdn.bokun.tools/ffbf69a6-a75f-4e61-a13d-9a24384c0519.jpeg
-  alt: Olive oil tasting from a dish
-- src: https://imgcdn.bokun.tools/d094fdfd-3238-437c-be25-17273e8b7fe4.jpeg
-  alt: Freshly harvested olives pouring into a trailer
+  alt: 'Freshly harvested green and purple olives ready for the mill'
+- src: /images/actividades/sevilla/almazara/aceitunas-cosecha.webp
+  alt: 'Freshly harvested olives in cupped hands'
+- src: /images/actividades/sevilla/almazara/almazara-depositos-acero.webp
+  alt: 'Steel tanks where the oil rests at the mill'
+- src: /images/actividades/sevilla/almazara/olivar-andaluz.webp
+  alt: 'Andalusian olive groves to the horizon'
 bokunProductId: 938052
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

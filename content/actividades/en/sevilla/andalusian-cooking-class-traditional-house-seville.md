@@ -72,19 +72,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/sevilla/cocina-andaluza/gazpacho-vasitos.webp
-  alt: Small glasses of gazpacho served as an appetiser
+  alt: 'Small glasses of gazpacho served as an appetiser'
 - src: /images/actividades/sevilla/cocina-andaluza/patio-santa-cruz.webp
-  alt: Sevillian courtyard in the Santa Cruz quarter with a tiled fountain and potted flowers
+  alt: 'Sevillian courtyard in the Santa Cruz quarter with a tiled fountain and potted flowers'
 - src: /images/actividades/sevilla/cocina-andaluza/patio-regionalista.webp
-  alt: Regionalist-style Sevillian courtyard with arches, galleries and plants
+  alt: 'Regionalist-style Sevillian courtyard with arches, galleries and plants'
 - src: /images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp
-  alt: Fruit and vegetable stall at a Seville market
-- src: https://imgcdn.bokun.tools/75c1ce1a-04af-4e80-be6f-df5ff54c1839.jpg
-  alt: Participants preparing dishes at the cooking class
-- src: https://imgcdn.bokun.tools/b9536ef1-f214-4d5e-90c7-5f5f1b7adf93.jpg
-  alt: Group at a food market
-- src: https://imgcdn.bokun.tools/00a38fb3-24ee-443a-86d0-d6ebba4f8592.jpg
-  alt: Students cooking in kitchen caps
+  alt: 'Fruit and vegetable stall at a Seville market'
+- src: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-02-jpg-05.webp
+  alt: 'Entrance to the Triana Market in Seville'
+- src: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-sevilla-jpg-03.webp
+  alt: 'Fruit and vegetable stalls at the Triana Market'
+- src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
+  alt: 'The Triana bridge at sunset'
 bokunProductId: 933459
 fecha_actualizacion: '2026-10-24'
 privada: true

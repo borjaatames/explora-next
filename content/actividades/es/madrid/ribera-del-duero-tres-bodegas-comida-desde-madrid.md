@@ -89,21 +89,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/madrid/ribera-del-duero/lechazo-asado.webp
-  alt: Cocinero trinchando lechazo asado recién salido del horno
+  alt: 'Cocinero trinchando lechazo asado recién salido del horno'
 - src: /images/actividades/madrid/proveedor-805387/prov-vinedo-otono.webp
-  alt: Viñedo de Ribera del Duero con las hojas de otoño
+  alt: 'Viñedo de Ribera del Duero con las hojas de otoño'
 - src: /images/actividades/madrid/ribera-del-duero/lechazo-horno-lena.webp
-  alt: Cazuela de lechazo en el horno de leña de un asador de Aranda de Duero
+  alt: 'Cazuela de lechazo en el horno de leña de un asador de Aranda de Duero'
 - src: /images/actividades/madrid/ribera-del-duero/vinedos-desde-penafiel.webp
-  alt: Viñedos de la Ribera del Duero vistos desde el castillo de Peñafiel
+  alt: 'Viñedos de la Ribera del Duero vistos desde el castillo de Peñafiel'
 - src: /images/actividades/madrid/ribera-del-duero/sala-barricas-ribera.webp
-  alt: Sala de barricas abovedada de una bodega de la Ribera del Duero
-- src: https://imgcdn.bokun.tools/da1a45bc-12a3-411a-9893-c9fb02f72b9a.jpg
-  alt: Pasillo de barricas en la nave de crianza de una bodega
-- src: https://imgcdn.bokun.tools/a40ee82b-0c33-49aa-bd92-b71746ba2115.jpg
-  alt: Visitante paseando entre viñedos
-- src: https://imgcdn.bokun.tools/108034a6-a4ac-4768-a64c-8024faead8bf.jpg
-  alt: Grupo durante una cata en la mesa de una bodega
+  alt: 'Sala de barricas abovedada de una bodega de la Ribera del Duero'
+- src: /images/actividades/madrid/ribera-del-duero/bodega-subterranea-aranda.webp
+  alt: 'Bodega subterránea histórica en Aranda de Duero'
+- src: /images/actividades/madrid/ribera-del-duero/castillo-penafiel.webp
+  alt: 'El castillo de Peñafiel, símbolo de Ribera del Duero'
 bokunProductId: 805387
 fecha_actualizacion: '2026-10-24'
 ---

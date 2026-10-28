@@ -79,19 +79,21 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/girona/besalu-puente.webp
-  alt: Puente medieval de Besalú sobre el río Fluvià
+  alt: 'Puente medieval de Besalú sobre el río Fluvià'
 - src: /images/actividades/barcelona/girona/rupit-puente-colgante.webp
-  alt: Puente colgante de Rupit sobre la riera, junto a casas de piedra
+  alt: 'Puente colgante de Rupit sobre la riera, junto a casas de piedra'
 - src: /images/actividades/barcelona/girona/rupit-panoramica.webp
-  alt: Vista del pueblo medieval de Rupit sobre la roca
+  alt: 'Vista del pueblo medieval de Rupit sobre la roca'
 - src: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
-  alt: Puente rojo y casas de colores sobre el río Onyar en Girona
-- src: https://imgcdn.bokun.tools/71fd56f7-b30d-42b3-b9bb-13fa8ce0bf51.jpg
-  alt: Puente románico de Besalú sobre el río con el pueblo medieval al fondo
-- src: https://imgcdn.bokun.tools/4e0eae7a-331f-412f-a5cf-c9b43bcf7325.jpg
-  alt: Viajero contemplando Besalú desde la muralla
-- src: https://imgcdn.bokun.tools/fb99bf49-e0f8-4e2f-932b-a17adf17a512.jpg
-  alt: Viajeros cruzando el puente colgante de Rupit
+  alt: 'Puente rojo y casas de colores sobre el río Onyar en Girona'
+- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
+  alt: 'Los Baños Árabes de Girona'
+- src: /images/actividades/girona/call/call-girona-hero.webp
+  alt: 'Escaleras del barrio judío de Girona'
+- src: /images/actividades/girona/call-jueu/call-jueu-01.webp
+  alt: 'Rincón del Call, el barrio judío de Girona'
+- src: /images/actividades/girona/call-jueu/call-jueu-02.webp
+  alt: 'Fachada del centro judío en el Call de Girona'
 bokunProductId: 217559
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

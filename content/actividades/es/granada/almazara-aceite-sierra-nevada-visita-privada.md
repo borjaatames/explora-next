@@ -73,17 +73,17 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/granada/almazara/olivos-sierra-nevada.webp
-  alt: Olivar en la provincia de Granada con Sierra Nevada al fondo
+  alt: 'Olivar en la provincia de Granada con Sierra Nevada al fondo'
 - src: /images/actividades/granada/almazara/almazara-centrifuga-aceite.webp
-  alt: Aceite de oliva saliendo de la centrífuga en una almazara
+  alt: 'Aceite de oliva saliendo de la centrífuga en una almazara'
 - src: /images/actividades/granada/almazara/aceitunas-recien-cosechadas.webp
-  alt: Aceitunas verdes y moradas recién cosechadas listas para la almazara
-- src: https://imgcdn.bokun.tools/72ade224-12ef-4d72-888f-3556928d7cc8.jpeg
-  alt: Olivar con las cumbres de Sierra Nevada al fondo
-- src: https://imgcdn.bokun.tools/ffbf69a6-a75f-4e61-a13d-9a24384c0519.jpeg
-  alt: Cata de aceite de oliva en un plato
-- src: https://imgcdn.bokun.tools/d094fdfd-3238-437c-be25-17273e8b7fe4.jpeg
-  alt: Aceitunas recién recogidas cayendo al remolque
+  alt: 'Aceitunas verdes y moradas recién cosechadas listas para la almazara'
+- src: /images/actividades/sevilla/almazara/aceitunas-cosecha.webp
+  alt: 'Aceitunas recién cosechadas en las manos'
+- src: /images/actividades/sevilla/almazara/almazara-depositos-acero.webp
+  alt: 'Depósitos de acero donde reposa el aceite en la almazara'
+- src: /images/actividades/sevilla/almazara/olivar-andaluz.webp
+  alt: 'Olivares andaluces hasta el horizonte'
 bokunProductId: 938052
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

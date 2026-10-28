@@ -87,18 +87,20 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/4e8bda3f-d46d-41ab-a817-ff4e2139d08b.jpg
-  alt: Macaque with the Bay of Gibraltar behind
 - src: /images/actividades/malaga/gibraltar/tuneles-asedio.webp
-  alt: Great Siege Tunnels in the Rock
-- src: https://imgcdn.bokun.tools/55f7fdba-0de6-473c-a2c6-db40d7ba5f78.jpg
-  alt: Red phone box in Gibraltar
+  alt: 'Great Siege Tunnels in the Rock'
 - src: /images/actividades/malaga/gibraltar/macacos-familia.webp
-  alt: Family of macaques on the Rock of Gibraltar
-- src: https://imgcdn.bokun.tools/c50d6957-01d2-42cc-ae10-dbafe7715375.jpg
-  alt: View of Gibraltar town from the Rock
-- src: https://imgcdn.bokun.tools/0dd2a675-defc-4f37-92e2-dd7a1fc7442e.jpg
-  alt: Visitor with open arms facing the sea
+  alt: 'Family of macaques on the Rock of Gibraltar'
+- src: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
+  alt: 'The Rock of Gibraltar seen from the town'
+- src: /images/actividades/malaga/gibraltar/macacos-reserva-natural.webp
+  alt: 'Two Barbary macaques in the Upper Rock Nature Reserve'
+- src: /images/actividades/malaga/gibraltar/dos-macacos-descansando.webp
+  alt: 'Macaques resting at a Gibraltar viewpoint'
+- src: /images/actividades/malaga/gibraltar/macaco.webp
+  alt: 'A Barbary macaque sitting by the sea'
+- src: /images/actividades/malaga/gibraltar/playa-penon.webp
+  alt: 'La Línea beach with the Rock of Gibraltar behind'
 bokunProductId: 858871
 fecha_actualizacion: '2026-10-24'
 privada: true

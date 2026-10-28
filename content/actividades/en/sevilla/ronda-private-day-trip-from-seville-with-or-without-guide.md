@@ -83,18 +83,20 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/2fc6f0c3-0030-4490-a268-e15181ea9257.jpg
-  alt: Aerial view of Ronda above the gorge
 - src: /images/actividades/sevilla/ronda/vista-tajo-puente-nuevo.webp
-  alt: View of the Ronda gorge from the Puente Nuevo
-- src: https://imgcdn.bokun.tools/0293e770-2531-46c2-81b6-32f00d0ea7fb.jpg
-  alt: Ronda's Puente Nuevo
+  alt: 'View of the Ronda gorge from the Puente Nuevo'
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
-  alt: Ronda old town
-- src: https://imgcdn.bokun.tools/2ec61cb9-32e0-49bc-b3f6-c6232dbc4b3d.jpg
-  alt: Ronda houses on the edge of the gorge
+  alt: 'Ronda old town'
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp
-  alt: White houses of Ronda on the gorge edge
+  alt: 'White houses of Ronda on the gorge edge'
+- src: /images/actividades/sevilla/ronda/puente-nuevo-ronda-casas.webp
+  alt: 'Ronda’s Puente Nuevo with houses on the edge of the gorge'
+- src: /images/actividades/malaga/ronda/plaza-toros-ronda-fachada.webp
+  alt: 'Façade of the Ronda bullring'
+- src: /images/actividades/malaga/ronda/plaza-toros-ronda-ruedo.webp
+  alt: 'The ring of the Ronda bullring, one of the oldest'
+- src: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
+  alt: 'View of Ronda above the gorge'
 bokunProductId: 878655
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -79,19 +79,21 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/girona/besalu-puente.webp
-  alt: Medieval bridge of Besalú over the Fluvià river
+  alt: 'Medieval bridge of Besalú over the Fluvià river'
 - src: /images/actividades/barcelona/girona/rupit-puente-colgante.webp
-  alt: Rupit suspension bridge over the stream next to stone houses
+  alt: 'Rupit suspension bridge over the stream next to stone houses'
 - src: /images/actividades/barcelona/girona/rupit-panoramica.webp
-  alt: View of the medieval village of Rupit on its rock
+  alt: 'View of the medieval village of Rupit on its rock'
 - src: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
-  alt: Red bridge and colourful houses over the River Onyar in Girona
-- src: https://imgcdn.bokun.tools/71fd56f7-b30d-42b3-b9bb-13fa8ce0bf51.jpg
-  alt: Besalú's Romanesque bridge over the river with the medieval town behind
-- src: https://imgcdn.bokun.tools/4e0eae7a-331f-412f-a5cf-c9b43bcf7325.jpg
-  alt: Traveller looking over Besalú from the walls
-- src: https://imgcdn.bokun.tools/fb99bf49-e0f8-4e2f-932b-a17adf17a512.jpg
-  alt: Travellers crossing Rupit's hanging bridge
+  alt: 'Red bridge and colourful houses over the River Onyar in Girona'
+- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
+  alt: 'The Arab Baths in Girona'
+- src: /images/actividades/girona/call/call-girona-hero.webp
+  alt: 'Steps in Girona’s Jewish quarter'
+- src: /images/actividades/girona/call-jueu/call-jueu-01.webp
+  alt: 'A corner of the Call, Girona’s Jewish quarter'
+- src: /images/actividades/girona/call-jueu/call-jueu-02.webp
+  alt: 'The Jewish centre façade in Girona’s Call'
 bokunProductId: 217559
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

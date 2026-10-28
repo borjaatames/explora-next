@@ -85,16 +85,18 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/0c56f9d2-448b-4d44-a020-defe0c4ac9ea.jpg
-  alt: Clay jars in an old winery cellar
-- src: https://imgcdn.bokun.tools/98a77f1f-53ca-4fb6-8f08-828a7ca202ea.jpg
-  alt: Old wooden wine press
-- src: https://imgcdn.bokun.tools/df8b78e5-01c8-44f8-95f1-2a17395ed8db.jpg
-  alt: Rock-cut winery cellar
-- src: https://imgcdn.bokun.tools/0fdd9cfa-651b-480f-a5b3-a0a95ba96ebc.jpg
-  alt: Smiling travellers in the winery courtyard
 - src: /images/actividades/madrid/chinchon/pexels-36878591-hero.webp
-  alt: Wooden balconies in Chinchón
+  alt: 'Wooden balconies in Chinchón'
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp
+  alt: 'A sommelier pours red wine at the winery'
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
+  alt: 'Glasses of red wine ready for the tasting'
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
+  alt: 'Red wine being poured into a glass'
+- src: https://imgcdn.bokun.tools/0c56f9d2-448b-4d44-a020-defe0c4ac9ea.jpg
+  alt: 'Clay jars in an old winery cellar'
+- src: https://imgcdn.bokun.tools/98a77f1f-53ca-4fb6-8f08-828a7ca202ea.jpg
+  alt: 'Old wooden wine press'
 bokunProductId: 867967
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

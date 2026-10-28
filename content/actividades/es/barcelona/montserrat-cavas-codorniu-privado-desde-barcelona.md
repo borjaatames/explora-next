@@ -89,19 +89,23 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/penedes/codorniu-caves-naves.webp
-  alt: Naves de ladrillo de Puig i Cadafalch en Caves Codorníu
+  alt: 'Naves de ladrillo de Puig i Cadafalch en Caves Codorníu'
 - src: /images/actividades/barcelona/penedes/vinedos-penedes-otono.webp
-  alt: Viñedos del Penedès en otoño
+  alt: 'Viñedos del Penedès en otoño'
 - src: /images/actividades/barcelona/montserrat/montserrat-abadia.webp
-  alt: Monasterio de Montserrat al pie de las agujas de roca
+  alt: 'Monasterio de Montserrat al pie de las agujas de roca'
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Estatua del abad Oliba entre la vegetación de Montserrat
-- src: https://imgcdn.bokun.tools/328a1a6e-f150-4e56-8510-87ffe45b24e6.jpg
-  alt: Edificio modernista de las cavas Codorníu bajo un cielo azul
-- src: https://imgcdn.bokun.tools/33970ab4-543f-4b02-8485-5de25cabbb7a.jpg
-  alt: Galería subterránea de las cavas con botellas en rima
-- src: https://imgcdn.bokun.tools/ac231d86-cd2d-4c5f-9961-1e9833bc521e.jpg
-  alt: Sala modernista de arcos en las bodegas
+  alt: 'Estatua del abad Oliba entre la vegetación de Montserrat'
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-11.webp
+  alt: 'Interior de la basílica de Montserrat'
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-12.webp
+  alt: 'El camarín de la Moreneta en Montserrat'
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-07.webp
+  alt: 'El monasterio de Montserrat bajo las agujas de roca'
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-04.webp
+  alt: 'El macizo de Montserrat con el monasterio'
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-01.webp
+  alt: 'Las agujas de Montserrat desde el camino de Sant Jeroni'
 bokunProductId: 242957
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'

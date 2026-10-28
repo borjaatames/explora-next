@@ -88,20 +88,20 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/06257ff6-7c9f-4078-92cc-da6c77cb9ed6.jpg
-  alt: Macaco de Berbería con la bahía de Gibraltar al fondo
 - src: /images/actividades/malaga/gibraltar/tuneles-asedio.webp
-  alt: Túneles del Gran Asedio en el Peñón
-- src: https://imgcdn.bokun.tools/c5e74163-8ef0-4a08-8e4a-f2d2db2e7c9a.jpg
-  alt: Visitantes en la Cueva de San Miguel iluminada
-- src: https://imgcdn.bokun.tools/aa3284ef-3f14-4458-85bf-446031901616.jpg
-  alt: Viajera en un mirador de cristal sobre el mar
+  alt: 'Túneles del Gran Asedio en el Peñón'
 - src: /images/actividades/malaga/gibraltar/macacos-familia.webp
-  alt: Familia de macacos en el Peñón de Gibraltar
-- src: https://imgcdn.bokun.tools/7a9bdb72-8148-4b4b-9cbc-e0c862fe7c91.jpg
-  alt: El estrecho con las montañas de África al fondo
-- src: https://imgcdn.bokun.tools/3b1c0166-ea1f-46d3-8122-42ca689078bd.jpg
-  alt: Puente colgante sobre la ladera del Peñón
+  alt: 'Familia de macacos en el Peñón de Gibraltar'
+- src: /images/actividades/malaga/gibraltar/penon-cresta.webp
+  alt: 'La cresta del Peñón de Gibraltar sobre el mar'
+- src: /images/actividades/malaga/gibraltar/macacos-reserva-natural.webp
+  alt: 'Dos macacos de Berbería en la Reserva Natural del Peñón'
+- src: /images/actividades/malaga/gibraltar/dos-macacos-descansando.webp
+  alt: 'Macacos descansando en un mirador de Gibraltar'
+- src: /images/actividades/malaga/gibraltar/macaco.webp
+  alt: 'Un macaco de Berbería sentado frente al mar'
+- src: /images/actividades/malaga/gibraltar/playa-penon.webp
+  alt: 'Playa de La Línea con el Peñón de Gibraltar al fondo'
 bokunProductId: 857522
 fecha_actualizacion: '2026-10-24'
 privada: true

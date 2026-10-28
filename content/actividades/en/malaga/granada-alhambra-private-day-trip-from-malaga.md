@@ -82,20 +82,26 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/72108f58-573b-4148-af93-49c4472e3e51.jpeg
-  alt: Couple looking out at the Alhambra
 - src: /images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp
-  alt: Fountain of the Lions in the Nasrid Palaces
-- src: https://imgcdn.bokun.tools/ad228bab-c7eb-4927-be6a-2643fbbb6b81.jpeg
-  alt: Group of travellers with the Alhambra behind
+  alt: 'Fountain of the Lions in the Nasrid Palaces'
 - src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
-  alt: Generalife gardens of the Alhambra in Granada
-- src: https://imgcdn.bokun.tools/7c2fb6f0-c447-45df-b9ed-5ccba35a22e0.jpeg
-  alt: Decorated arch inside the Alhambra with a view
-- src: https://imgcdn.bokun.tools/99a1f780-2204-4eef-9d69-07ddb5a6c65c.jpeg
-  alt: White lane with blue flowerpots in the Albaicín
+  alt: 'Generalife gardens of the Alhambra in Granada'
 - src: /images/actividades/granada/albaicin/albaicin-pixabay-3107980.webp
-  alt: White houses of the Albaicín on the hillside
+  alt: 'White houses of the Albaicín on the hillside'
+- src: /images/actividades/granada/alhambra-granada/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp
+  alt: 'The Alhambra Alcazaba seen from above'
+- src: /images/actividades/granada/alhambra-granada/alhambra-granada-andalusia-spain-hero-hero.webp
+  alt: 'Muqarnas dome in the Nasrid Palaces'
+- src: /images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp
+  alt: 'Alhambra windows overlooking the Albaicín'
+- src: /images/actividades/granada/alhambra-granada/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp
+  alt: 'Carved arches in the Nasrid Palaces'
+- src: /images/actividades/granada/albaicin/albaicin-pexels-30359825.webp
+  alt: 'The white rooftops of Granada’s Albaicín'
+- src: /images/actividades/granada/albaicin/albaicin-pixabay-1313240.webp
+  alt: 'The Albaicín seen from the Alhambra'
+- src: /images/actividades/granada/albaicin/albaicin-wikimedia-san-gregorio-barrio-del-albaic-n-granada-jpg.webp
+  alt: 'Calle San Gregorio in the Albaicín, with its tea rooms'
 bokunProductId: 936453
 fecha_actualizacion: '2026-10-24'
 privada: true

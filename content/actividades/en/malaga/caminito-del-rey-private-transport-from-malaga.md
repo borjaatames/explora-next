@@ -86,18 +86,20 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/c28712d2-68c0-49d4-b577-5302d2c7d11b.jpg
-  alt: Visitors crossing the Caminito del Rey suspension bridge
 - src: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp
-  alt: Walkways fixed to the rock on the Caminito del Rey
-- src: https://imgcdn.bokun.tools/47850eb0-f0af-438e-950f-7566690c3cd2.jpg
-  alt: Couple in helmets on the Caminito del Rey
+  alt: 'Walkways fixed to the rock on the Caminito del Rey'
 - src: /images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp
-  alt: Full view of the Caminito del Rey canyon
-- src: https://imgcdn.bokun.tools/a1e1a91f-7d00-4aa6-869f-137d9fe2afd2.jpg
-  alt: Walkway hanging from the gorge wall with visitors
+  alt: 'Full view of the Caminito del Rey canyon'
 - src: /images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp
-  alt: Caminito del Rey suspension bridge over the river
+  alt: 'Caminito del Rey suspension bridge over the river'
+- src: /images/actividades/malaga/caminito-del-rey/desfiladero-aereo-verde.webp
+  alt: 'A Caminito del Rey walkway overlooking the valley'
+- src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
+  alt: 'The Guadalhorce river at the bottom of the gorge'
+- src: /images/actividades/malaga/caminito-del-rey/pasarela.webp
+  alt: 'Visitors on the Caminito del Rey walkway'
+- src: /images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp
+  alt: 'Walkways clinging to the wall of the Gaitanes Gorge'
 bokunProductId: 860687
 fecha_actualizacion: '2026-10-24'
 privada: true

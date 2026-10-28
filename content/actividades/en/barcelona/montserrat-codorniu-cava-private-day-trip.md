@@ -89,19 +89,23 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/penedes/codorniu-caves-naves.webp
-  alt: Puig i Cadafalch brick halls at Caves Codorníu
+  alt: 'Puig i Cadafalch brick halls at Caves Codorníu'
 - src: /images/actividades/barcelona/penedes/vinedos-penedes-otono.webp
-  alt: Penedès vineyards in autumn
+  alt: 'Penedès vineyards in autumn'
 - src: /images/actividades/barcelona/montserrat/montserrat-abadia.webp
-  alt: Montserrat Monastery at the foot of the rock pinnacles
+  alt: 'Montserrat Monastery at the foot of the rock pinnacles'
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-  alt: Statue of Abbot Oliba among the greenery of Montserrat
-- src: https://imgcdn.bokun.tools/328a1a6e-f150-4e56-8510-87ffe45b24e6.jpg
-  alt: Art Nouveau building of the Codorníu cava cellars under a blue sky
-- src: https://imgcdn.bokun.tools/33970ab4-543f-4b02-8485-5de25cabbb7a.jpg
-  alt: Underground cellar gallery with stacked bottles
-- src: https://imgcdn.bokun.tools/ac231d86-cd2d-4c5f-9961-1e9833bc521e.jpg
-  alt: Art Nouveau arched hall at the winery
+  alt: 'Statue of Abbot Oliba among the greenery of Montserrat'
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-11.webp
+  alt: 'Inside the Montserrat basilica'
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-12.webp
+  alt: 'The shrine of the Black Madonna at Montserrat'
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-07.webp
+  alt: 'Montserrat monastery beneath the rock pinnacles'
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-04.webp
+  alt: 'The Montserrat massif with the monastery'
+- src: /images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-01.webp
+  alt: 'The Montserrat pinnacles from the Sant Jeroni path'
 bokunProductId: 242957
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'

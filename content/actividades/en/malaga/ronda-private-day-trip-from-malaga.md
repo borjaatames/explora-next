@@ -82,18 +82,22 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/6727144e-5500-47d7-ba48-a026049e754b.jpg
-  alt: Ronda perched on the edge of the gorge
 - src: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
-  alt: Arches of Ronda's Puente Nuevo
-- src: https://imgcdn.bokun.tools/b7367415-33ed-4848-b068-448d075d60fb.jpg
-  alt: Couple of travellers in front of the Puente Nuevo
+  alt: 'Arches of Ronda''s Puente Nuevo'
 - src: /images/actividades/malaga/setenil/calle-casas-roca.webp
-  alt: Street in Setenil de las Bodegas with houses under the rock
-- src: https://imgcdn.bokun.tools/f2f49b52-c95a-426d-94da-d010f2950aad.jpg
-  alt: Aerial view of Ronda with its bullring and the gorge
+  alt: 'Street in Setenil de las Bodegas with houses under the rock'
 - src: /images/actividades/malaga/setenil/panoramica.webp
-  alt: Panoramic view of Setenil de las Bodegas
+  alt: 'Panoramic view of Setenil de las Bodegas'
+- src: /images/actividades/sevilla/ronda/vista-tajo-puente-nuevo.webp
+  alt: 'The Ronda gorge and the Puente Nuevo'
+- src: /images/actividades/sevilla/ronda/puente-nuevo-ronda-casas.webp
+  alt: 'Ronda’s Puente Nuevo with houses on the edge of the gorge'
+- src: /images/actividades/malaga/ronda/plaza-toros-ronda-fachada.webp
+  alt: 'Façade of the Ronda bullring'
+- src: /images/actividades/malaga/ronda/plaza-toros-ronda-ruedo.webp
+  alt: 'The ring of the Ronda bullring, one of the oldest'
+- src: /images/actividades/malaga/setenil/vista-pueblo.webp
+  alt: 'Setenil de las Bodegas, with houses under the rock'
 bokunProductId: 860693
 fecha_actualizacion: '2026-10-24'
 privada: true
