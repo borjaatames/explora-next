@@ -26,6 +26,7 @@ reservasArriba: true
 respuestaCorta: 'If the official site is sold out, the **box office at the Prince''s Gate** still sells tickets (€14) until 18:00, though capacity is limited and nothing is guaranteed. Official tickets can''t be changed or refunded, so don''t wait for cancellations: the safest options are a **resold timed ticket** (from €17.50) or a **guided tour with entry included**.'
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
+  - catedral-giralda-sevilla-visita-privada-guia-entradas
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
   - real-alcazar-catedral-sevilla-tour-privado-entradas

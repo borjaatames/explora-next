@@ -25,6 +25,7 @@ reservasArriba: true
 respuestaCorta: "Wenn die offizielle Website ausverkauft ist, hält die **Kasse am Patio de Banderas** für jedes Zeitfenster desselben Tages ein paar Tickets zurück: Sei **mindestens eine Stunde vor 9:00 Uhr** da und nimm deinen Ausweis mit. Die Website hat weder Warteliste noch Umbuchung oder Erstattung, am sichersten ist also ein **Ticket mit Uhrzeit über einen Wiederverkäufer** (ab 20 €) oder eine **Führung mit inbegriffenem Ticket**."
 actividades:
   - real-alcazar-sevilla-entrada
+  - real-alcazar-sevilla-visita-privada-guia-oficial
   - real-alcazar-sevilla-tour-guiado-skip-line
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h

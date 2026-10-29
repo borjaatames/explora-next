@@ -26,6 +26,7 @@ reservasArriba: true
 respuestaCorta: 'La entrada general cuesta **15,50 €** y la visita lleva unas 2,5-3 horas. En temporada alta la cola de taquilla **supera las 2 horas** y el aforo se agota: compra la entrada online con hora o ve con una visita que ya la incluya. Entra a las 9:30, o en verano después de las 17:00, para evitar el calor en los jardines.'
 actividades:
   - real-alcazar-sevilla-entrada
+  - real-alcazar-sevilla-visita-privada-guia-oficial
   - real-alcazar-sevilla-tour-guiado-skip-line
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h

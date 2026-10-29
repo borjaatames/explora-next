@@ -26,6 +26,7 @@ reservasArriba: true
 respuestaCorta: "Wenn die offizielle Website ausverkauft ist, verkauft die **Kasse an der Puerta del Príncipe** weiterhin Tickets (14 €) bis 18:00 Uhr, allerdings mit begrenzter Kapazität und ohne Garantie. Die offiziellen Tickets sind weder umbuchbar noch erstattbar, warte also nicht auf Stornierungen: Am sichersten ist ein **Ticket mit Uhrzeit über Wiederverkäufer** (ab 17,50 €) oder eine **Führung mit inbegriffenem Ticket**."
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
+  - catedral-giralda-sevilla-visita-privada-guia-entradas
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
   - real-alcazar-catedral-sevilla-tour-privado-entradas

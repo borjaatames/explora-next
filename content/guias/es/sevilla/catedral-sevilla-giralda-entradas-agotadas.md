@@ -26,6 +26,7 @@ reservasArriba: true
 respuestaCorta: 'Si la web oficial sale agotada, la **taquilla de la Puerta del Príncipe** sigue vendiendo entradas (14 €) hasta las 18:00, aunque con aforo limitado y sin garantía. Las entradas oficiales no admiten cambios ni devoluciones, así que no esperes cancelaciones: lo más seguro es una **entrada con hora de reventa** (desde 17,50 €) o una **visita guiada con la entrada incluida**.'
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
+  - catedral-giralda-sevilla-visita-privada-guia-entradas
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
   - real-alcazar-catedral-sevilla-tour-privado-entradas

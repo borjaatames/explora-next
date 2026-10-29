@@ -25,6 +25,7 @@ reservasArriba: true
 respuestaCorta: 'General admission is **€15.50** and the visit takes about 2.5-3 hours. In high season the ticket-office queue **tops 2 hours** and daily capacity sells out: buy a timed ticket online or go with a tour that includes it. Go in at 9:30 or, in summer, after 17:00 to avoid the heat in the gardens.'
 actividades:
   - real-alcazar-sevilla-entrada
+  - real-alcazar-sevilla-visita-privada-guia-oficial
   - real-alcazar-sevilla-tour-guiado-skip-line
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h

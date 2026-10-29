@@ -25,6 +25,7 @@ reservasArriba: true
 respuestaCorta: 'Si la web oficial sale agotada, la **taquilla del Patio de Banderas** guarda unas pocas entradas para cada franja del mismo día: llega **al menos una hora antes de las 9:00** y con tu documento. La web no tiene lista de espera ni cambios ni devoluciones, así que lo más seguro es una **entrada con hora de reventa** (desde 20 €) o una **visita guiada con la entrada incluida**.'
 actividades:
   - real-alcazar-sevilla-entrada
+  - real-alcazar-sevilla-visita-privada-guia-oficial
   - real-alcazar-sevilla-tour-guiado-skip-line
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
