@@ -43,7 +43,8 @@ import MapaPuntoEncuentro from "@/components/MapaPuntoEncuentro";
 import FaqActividad from "@/components/FaqActividad";
 import BotonVolverFicha from "@/components/ficha/BotonVolverFicha";
 import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendadasGuia";
-import { obtenerParecidasConTipo } from "@/lib/recomendaciones";
+import { obtenerParecidasConTipo, obtenerPrivadasParaGuia } from "@/lib/recomendaciones";
+import BandaVersionPrivada from "@/components/ficha/BandaVersionPrivada";
 import OtrasVersiones from "@/components/ficha/OtrasVersiones";
 import AvisoEntradasAgotadas from "@/components/ficha/AvisoEntradasAgotadas";
 
@@ -114,6 +115,17 @@ export default async function ActividadPage({ params }: Props) {
   const guiaAgotada = obtenerGuiaAgotadaParaFicha("es", params.ciudad, params.slug);
 
   const parecidas = obtenerParecidasConTipo("es", params.ciudad, actividad);
+  // Fichas en grupo: la privada equivalente, si la hay (2+ palabras de tema en común).
+  const versionPrivada =
+    actividad.privada === true
+      ? undefined
+      : obtenerPrivadasParaGuia(
+          "es",
+          params.ciudad,
+          { slug: actividad.slug, titulo: actividad.titulo, keywords: actividad.keywords },
+          1,
+          2
+        )[0];
   const actividadesParecidas = parecidas.actividades;
   const otrasVersiones = parecidas.tipo === "casiIguales" ? parecidas.actividades : [];
   const tripadvisor =
@@ -482,6 +494,8 @@ export default async function ActividadPage({ params }: Props) {
             {guiaAgotada && (
               <AvisoEntradasAgotadas url={guiaAgotada.url} idioma={"es"} />
             )}
+
+            <BandaVersionPrivada privada={versionPrivada} idioma={"es"} />
           </div>
           </div>
 

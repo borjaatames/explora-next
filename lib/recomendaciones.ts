@@ -294,7 +294,8 @@ export function obtenerPrivadasParaGuia(
   idioma: Idioma,
   ciudad: string,
   guia: GuiaReferencia,
-  limite: number = 3
+  limite: number = 3,
+  minimoPuntos: number = 1
 ): ActividadListItem[] {
   const yaEnlazadas = new Set(guia.actividades ?? []);
   // Los viajes de varios días no encajan como plan dentro de una guía de ciudad.
@@ -337,8 +338,9 @@ export function obtenerPrivadasParaGuia(
         Number(y.a.destacada ?? false) - Number(x.a.destacada ?? false)
     );
 
-  const porTema = puntuadas.filter((x) => x.puntos > 0);
+  const porTema = puntuadas.filter((x) => x.puntos >= minimoPuntos);
   if (porTema.length > 0) return porTema.slice(0, limite).map(({ a }) => a);
+  if (minimoPuntos > 1) return [];
   if (!RE_GUIA_GENERAL.test(guia.slug)) return [];
   // En una guía de escapadas solo tiene sentido ofrecer excursiones.
   const candidatas = RE_GUIA_EXCURSIONES.test(guia.slug)

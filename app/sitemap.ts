@@ -28,6 +28,11 @@ import {
 } from "@/lib/i18n/slugs";
 import type { Idioma } from "@/lib/i18n/types";
 import { rutaIndexable } from "@/lib/i18n/indexacion";
+import {
+  obtenerCiudadesConPrivadas,
+  urlHubPrivados,
+  urlPrivadasDeCiudad,
+} from "@/lib/privados";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -251,6 +256,34 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: "weekly",
         priority: 0.8,
         alternates: alternatesPara((l) => urlListadoActividadesSiExiste(l, ciudad)),
+      });
+    }
+  }
+
+  // ─── Excursiones privadas: hub y páginas por ciudad (ES/EN) ──────
+  const ciudadesPrivadas = {
+    es: new Set(obtenerCiudadesConPrivadas("es").map((c) => c.ciudad)),
+    en: new Set(obtenerCiudadesConPrivadas("en").map((c) => c.ciudad)),
+  };
+  const privadasSiExiste = (l: Idioma, ciudad: string): string | null =>
+    (l === "es" || l === "en") && ciudadesPrivadas[l].has(ciudad)
+      ? urlPrivadasDeCiudad(l, ciudad)
+      : null;
+  for (const lang of ["es", "en"] as const) {
+    entries.push({
+      url: `${SITE_URL}${urlHubPrivados(lang)}`,
+      lastModified: fechaActividades(lang),
+      changeFrequency: "weekly",
+      priority: 0.8,
+      alternates: alternatesPara((l) => (l === "es" || l === "en" ? urlHubPrivados(l) : null)),
+    });
+    for (const ciudad of Array.from(ciudadesPrivadas[lang])) {
+      entries.push({
+        url: `${SITE_URL}${urlPrivadasDeCiudad(lang, ciudad)}`,
+        lastModified: fechaActividades(lang, ciudad),
+        changeFrequency: "weekly",
+        priority: 0.8,
+        alternates: alternatesPara((l) => privadasSiExiste(l, ciudad)),
       });
     }
   }

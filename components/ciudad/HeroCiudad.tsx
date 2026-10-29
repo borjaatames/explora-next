@@ -6,9 +6,9 @@ export type MigaCiudad = { label: string; href?: string };
 export type DatoClave = { etiqueta: string; valor: string };
 
 const DICT = {
-  es: { resumen: "Resumen", actividades: "Actividades", guias: "Guías", atracciones: "Atracciones", secciones: "Secciones de", migas: "Migas de pan", datos: "Datos clave" },
-  en: { resumen: "Overview", actividades: "Activities", guias: "Guides", atracciones: "Attractions", secciones: "Sections of", migas: "Breadcrumb", datos: "Key facts" },
-  de: { resumen: "Überblick", actividades: "Aktivitäten", guias: "Reiseführer", atracciones: "Sehenswürdigkeiten", secciones: "Bereiche von", migas: "Brotkrümel", datos: "Eckdaten" },
+  es: { resumen: "Resumen", actividades: "Actividades", privadas: "Privadas", guias: "Guías", atracciones: "Atracciones", secciones: "Secciones de", migas: "Migas de pan", datos: "Datos clave" },
+  en: { resumen: "Overview", actividades: "Activities", privadas: "Private tours", guias: "Guides", atracciones: "Attractions", secciones: "Sections of", migas: "Breadcrumb", datos: "Key facts" },
+  de: { resumen: "Überblick", actividades: "Aktivitäten", privadas: "Privattouren", guias: "Reiseführer", atracciones: "Sehenswürdigkeiten", secciones: "Bereiche von", migas: "Brotkrümel", datos: "Eckdaten" },
 } as const;
 
 type Props = {
@@ -20,6 +20,8 @@ type Props = {
   imagenAlt?: string;
   migas: ReadonlyArray<MigaCiudad>;
   urlActividades?: string;
+  /** Página de excursiones privadas de la ciudad, si existe. */
+  urlPrivados?: string;
   urlGuias?: string;
   urlAtracciones?: string;
 };
@@ -39,6 +41,7 @@ export default function HeroCiudad({
   imagenAlt,
   migas,
   urlActividades,
+  urlPrivados,
   urlGuias,
   urlAtracciones,
 }: Props) {
@@ -46,6 +49,7 @@ export default function HeroCiudad({
   type Pestana = { label: string; href: string };
   const pestanas: Pestana[] = [
     urlActividades ? { label: t.actividades as string, href: urlActividades } : null,
+    urlPrivados ? { label: t.privadas as string, href: urlPrivados } : null,
     urlGuias ? { label: t.guias as string, href: urlGuias } : null,
     urlAtracciones ? { label: t.atracciones as string, href: urlAtracciones } : null,
   ].filter((p): p is Pestana => p !== null);

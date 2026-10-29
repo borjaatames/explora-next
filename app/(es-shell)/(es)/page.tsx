@@ -1,3 +1,4 @@
+import PrivadosHome from "@/components/home/PrivadosHome";
 import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
@@ -185,6 +186,8 @@ export default function HomePage() {
           </div>
         </section>
       )}
+
+      <PrivadosHome idioma={"es"} />
 
       {/* Actividades y tours destacados (debajo de los destinos) */}
       {actividadesHome.length > 0 && (

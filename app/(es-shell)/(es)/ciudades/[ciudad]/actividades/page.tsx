@@ -1,3 +1,4 @@
+import { MIN_PRIVADAS_CIUDAD, obtenerPrivadasDeCiudad, urlPrivadasDeCiudad } from "@/lib/privados";
 import { aCardData } from "@/lib/cardActividad";
 import { calcularEtiquetas } from "@/lib/etiquetasActividad";
 import type { Metadata } from "next";
@@ -151,6 +152,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
   if (actividades.length === 0) notFound();
 
   const etiquetas = calcularEtiquetas(actividades);
+  const privadasCiudad = obtenerPrivadasDeCiudad("es", params.ciudad);
   const cardsActividades = actividades.map((a) => ({
     ...aCardData(a),
     etiqueta: etiquetas.get(a.slug),
@@ -262,6 +264,14 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
               />
             ) : null}
           </div>
+          {privadasCiudad.length >= MIN_PRIVADAS_CIUDAD ? (
+            <Link
+              href={urlPrivadasDeCiudad("es", params.ciudad)}
+              className="mt-5 inline-flex items-center gap-2 rounded-lg bg-white/10 px-4 py-2 text-sm font-semibold text-white ring-1 ring-white/30 transition-colors hover:bg-white/20 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-piedra-900"
+            >
+              Ver solo las {privadasCiudad.length} excursiones privadas →
+            </Link>
+          ) : null}
         </div>
       </header>
 

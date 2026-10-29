@@ -9,10 +9,12 @@ import {
   prefijoIdioma,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
+import { urlHubPrivados } from "@/lib/privadosUrls";
 
 const DICT = {
   es: {
     inicioMenu: "Inicio",
+    privados: "Excursiones privadas",
     guias: "Guías",
     ciudades: "Ciudades",
     sobreNosotros: "Sobre nosotros",
@@ -24,6 +26,7 @@ const DICT = {
   },
   en: {
     inicioMenu: "Home",
+    privados: "Private tours",
     guias: "Guides",
     ciudades: "Cities",
     sobreNosotros: "About us",
@@ -35,6 +38,7 @@ const DICT = {
   },
   de: {
     inicioMenu: "Startseite",
+    privados: "Privattouren",
     guias: "Reiseführer",
     ciudades: "Städte",
     sobreNosotros: "Über uns",
@@ -69,6 +73,10 @@ export default function Navbar({ idioma }: Props) {
   const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
 
   const enlaces = [
+    // Sin fichas propias en alemán: el hub solo existe en ES y EN.
+    ...(idioma === "es" || idioma === "en"
+      ? [{ href: urlHubPrivados(idioma), label: t.privados as string }]
+      : []),
     { href: urlIndiceCiudades(idioma), label: t.ciudades },
     { href: urlIndiceGuias(idioma), label: t.guias },
     { href: urlSobreNosotros(idioma), label: t.sobreNosotros },
@@ -99,13 +107,13 @@ export default function Navbar({ idioma }: Props) {
           </span>
         </Link>
 
-        <nav aria-label={t.navPrincipal} className="hidden md:flex items-center gap-8">
+        <nav aria-label={t.navPrincipal} className="hidden md:flex items-center gap-4 lg:gap-8">
           {enlaces.map((e) => (
             <Link
               key={e.href}
               href={e.href}
               prefetch={false}
-              className="text-base font-semibold text-piedra-900 hover:text-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded"
+              className="whitespace-nowrap text-sm lg:text-base font-semibold text-piedra-900 hover:text-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded"
             >
               {e.label}
             </Link>
