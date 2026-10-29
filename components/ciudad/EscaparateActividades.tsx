@@ -5,17 +5,20 @@ import type { Idioma } from "@/lib/i18n/types";
 import { IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { calcularEtiquetas } from "@/lib/etiquetasActividad";
 import { aCardData } from "@/lib/cardActividad";
+import { intercalarPrivadas, porPopularidad } from "@/lib/ordenActividades";
 import { CardActividad } from "@/components/ciudad/ActividadesFiltradas";
 
 const TEXTOS = {
   es: {
-    titulo: (c: string) => `Las actividades más populares en ${c}`,
+    titulo: (c: string, conPrivadas: boolean) =>
+      conPrivadas ? `Lo más popular en ${c} y nuestras excursiones privadas` : `Las actividades más populares en ${c}`,
     todas: "Todas",
     verTodas: (n: number) => `Ver las ${n} actividades`,
     tarjeta: { desde: "Desde", verActividad: "Ver actividad", cancelacionGratuita: "Cancelación gratis" },
   },
   en: {
-    titulo: (c: string) => `Most popular things to do in ${c}`,
+    titulo: (c: string, conPrivadas: boolean) =>
+      conPrivadas ? `Most popular in ${c}, plus our private tours` : `Most popular things to do in ${c}`,
     todas: "All",
     verTodas: (n: number) => `See all ${n} activities`,
     tarjeta: { desde: "From", verActividad: "View activity", cancelacionGratuita: "Free cancellation" },
@@ -48,10 +51,11 @@ export default function EscaparateActividades({
   if (actividades.length === 0) return null;
   const t = idioma === "es" ? TEXTOS.es : TEXTOS.en;
   const etiquetas = calcularEtiquetas(actividades);
-  const top = [...actividades]
-    .sort((a, b) => (b.numeroOpiniones ?? 0) - (a.numeroOpiniones ?? 0))
-    .slice(0, MAX_ESCRITORIO)
-    .map((a) => ({ ...aCardData(a), etiqueta: etiquetas.get(a.slug) }));
+  const top = intercalarPrivadas(
+    actividades
+      .map((a) => ({ ...aCardData(a), etiqueta: etiquetas.get(a.slug) }))
+      .sort(porPopularidad)
+  ).slice(0, MAX_ESCRITORIO);
   const claseChip =
     "shrink-0 whitespace-nowrap rounded-full border px-3 py-2 text-sm font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2";
 
@@ -59,7 +63,7 @@ export default function EscaparateActividades({
     <section className="max-w-6xl mx-auto px-4 pt-8 md:pt-12">
       <div className="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-2 mb-4">
         <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900">
-          {t.titulo(nombreCiudad)}
+          {t.titulo(nombreCiudad, top.some((a) => a.privada))}
         </h2>
         <Link
           href={urlActividades}
@@ -72,7 +76,7 @@ export default function EscaparateActividades({
 
       {chips.length > 0 ? (
         <nav
-          aria-label={t.titulo(nombreCiudad)}
+          aria-label={t.titulo(nombreCiudad, top.some((a) => a.privada))}
           className="flex flex-nowrap md:flex-wrap gap-2 overflow-x-auto -mx-4 px-4 md:mx-0 md:px-0 pb-1 mb-5 [scrollbar-width:none]"
         >
           <span className={claseChip + " bg-anil-500 border-anil-500 text-white"}>

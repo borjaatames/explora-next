@@ -1,3 +1,4 @@
+import { aCardData } from "@/lib/cardActividad";
 import { calcularEtiquetas } from "@/lib/etiquetasActividad";
 import type { Metadata } from "next";
 import { CLAVE_FILTRO_PRIVADOS } from "@/lib/filtrosActividades";
@@ -124,26 +125,6 @@ const FILTROS_STRINGS_EN: ActividadesFiltradasStrings = {
   cancelacionGratuita: "Free cancellation",
 };
 
-function aCardData(a: ActividadListItem): ActividadCardData {
-  return {
-    slug: a.slug,
-    titulo: a.titulo,
-    url: a.url,
-    imagen: a.imagen,
-    imagenAlt: a.imagenAlt,
-    duracion: a.duracion,
-    precioDesde: a.precioDesde,
-    moneda: a.moneda || "EUR",
-    ratingProveedor: a.ratingProveedor,
-    numeroOpiniones: a.numeroOpiniones,
-    cancelacionGratuita: a.cancelacionGratuita,
-    atraccionesRelacionadas: a.atraccionesRelacionadas ?? [],
-    proveedor: a.proveedor,
-    categoria: a.categoria,
-    privada: a.privada === true,
-    destacada: a.destacada ?? false,
-  };
-}
 
 function categoriasPresentes(
   actividades: ActividadListItem[],

@@ -266,3 +266,83 @@ export function obtenerParecidasConTipo(
   );
   return { tipo: "mejorValoradas", actividades: mejorValoradas.slice(0, limite).map((p) => p.a) };
 }
+
+
+// =============================================================================
+// Excursiones privadas para una guía
+// -----------------------------------------------------------------------------
+// Las guías traen la mayoría de las entradas y las privadas (venta directa)
+// no recibían ningún enlace. Se eligen por tema (palabras en común entre la
+// guía y la ficha, sin genéricas ni el nombre de la ciudad). En guías de
+// itinerario o de «qué hacer / excursiones desde», si no hay coincidencia de
+// tema se muestran las privadas mejor valoradas de la ciudad.
+// =============================================================================
+
+const GENERICAS_PRIVADA = new Set([
+  "privado", "privada", "privados", "privadas", "private", "privat", "privaten",
+  "privatführung", "solo", "grupo", "dias", "days", "tage", "horas", "hours",
+  "real", "espana", "spain", "spanien", "carnaval", "guia", "guide", "guided",
+  "oficial", "official", "offiziellen", "local", "lokal",
+]);
+
+const RE_GUIA_EXCURSIONES = /(escapadas|excursiones|day-trips|ausfluege)/;
+
+const RE_GUIA_GENERAL =
+  /(-en-\d|-in-\d|dias|days|tage|que-ver|que-hacer|things-to-do|escapadas|excursiones|day-trips|ausfluege|sehenswuerdigkeiten|was-tun)/;
+
+export function obtenerPrivadasParaGuia(
+  idioma: Idioma,
+  ciudad: string,
+  guia: GuiaReferencia,
+  limite: number = 3
+): ActividadListItem[] {
+  const yaEnlazadas = new Set(guia.actividades ?? []);
+  // Los viajes de varios días no encajan como plan dentro de una guía de ciudad.
+  const UN_DIA_MINUTOS = 14 * 60;
+  const privadas = obtenerListaActividadesPorCiudad(idioma, ciudad).filter(
+    (a) =>
+      a.privada === true &&
+      !yaEnlazadas.has(a.slugs?.es ?? a.slug) &&
+      (a.duracionMinutos ?? 0) <= UN_DIA_MINUTOS &&
+      !/\d+\s*(días|dias|days|tage)\b/i.test(a.duracion ?? "")
+  );
+  if (privadas.length === 0) return [];
+
+  const limpiar = (s: Set<string>) =>
+    new Set(Array.from(s).filter((t) => !GENERICAS_PRIVADA.has(t)));
+  const tokensGuia = limpiar(
+    tokensTema([guia.slug.replace(/-/g, " "), guia.titulo, ...(guia.keywords ?? [])].join(" "), ciudad)
+  );
+
+  const puntuadas = privadas
+    .map((a) => ({
+      a,
+      puntos: comunes(
+        tokensGuia,
+        limpiar(
+          tokensTema(
+            [a.slug.replace(/-/g, " "), a.titulo, ...(a.atraccionesRelacionadas ?? [])].join(" "),
+            ciudad
+          )
+        )
+      ),
+      bokun: a.proveedor === "bokun" ? 1 : 0,
+      opiniones: a.numeroOpiniones ?? 0,
+    }))
+    .sort(
+      (x, y) =>
+        y.puntos - x.puntos ||
+        y.bokun - x.bokun ||
+        y.opiniones - x.opiniones ||
+        Number(y.a.destacada ?? false) - Number(x.a.destacada ?? false)
+    );
+
+  const porTema = puntuadas.filter((x) => x.puntos > 0);
+  if (porTema.length > 0) return porTema.slice(0, limite).map(({ a }) => a);
+  if (!RE_GUIA_GENERAL.test(guia.slug)) return [];
+  // En una guía de escapadas solo tiene sentido ofrecer excursiones.
+  const candidatas = RE_GUIA_EXCURSIONES.test(guia.slug)
+    ? puntuadas.filter((x) => x.a.categoria === "excursionesDia")
+    : puntuadas;
+  return candidatas.slice(0, limite).map(({ a }) => a);
+}

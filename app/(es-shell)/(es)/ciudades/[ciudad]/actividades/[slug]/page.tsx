@@ -519,6 +519,7 @@ export default async function ActividadPage({ params }: Props) {
                     numeroOpiniones={actividad.numeroOpiniones}
                     minimoPersonas={actividad.minimoPersonas}
                     pedirPersonas={actividad.bokunPedirPersonas}
+                    preciosGrupo={actividad.preciosGrupo}
                   />
                   <ConfianzaReservaBokun
                     idioma="es"

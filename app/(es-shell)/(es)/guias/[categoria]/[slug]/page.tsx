@@ -17,11 +17,12 @@ import {
 } from "@/lib/i18n/utils";
 import FaqActividad from "@/components/FaqActividad";
 import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendadasGuia";
-import { obtenerActividadesParaGuia } from "@/lib/recomendaciones";
+import { obtenerActividadesParaGuia, obtenerPrivadasParaGuia } from "@/lib/recomendaciones";
 import { obtenerListaCiudades } from "@/lib/ciudades";
 import HeroGuia, { IndiceGuia } from "@/components/guia/HeroGuia";
 import { anadirAnclasH2 } from "@/lib/indiceGuia";
 import ReservasGuia from "@/components/guia/ReservasGuia";
+import PrivadasGuia from "@/components/guia/PrivadasGuia";
 import OpcionesGuia, { type OpcionGuia } from "@/components/guia/OpcionesGuia";
 import RespuestaCorta from "@/components/guia/RespuestaCorta";
 import MapaDiaGuia from "@/components/guia/MapaDiaGuia";
@@ -133,6 +134,17 @@ export default async function GuiaPage({ params }: Props) {
       actividades: guia.actividades,
     },
     10
+  );
+  const privadasGuia = obtenerPrivadasParaGuia(
+    "es",
+    guia.categoria,
+    {
+      slug: guia.slug,
+      titulo: guia.titulo,
+      keywords: guia.keywords,
+      actividades: guia.actividades,
+    },
+    3
   );
   const nombreCiudad =
     obtenerListaCiudades("es").find((c) => c.slug === guia.categoria)?.nombre ??
@@ -290,6 +302,7 @@ export default async function GuiaPage({ params }: Props) {
       <RespuestaCorta texto={guia.respuestaCorta} idioma="es" comprobado={guia.datosComprobados} />
       <OpcionesGuia opciones={opcionesGuia} idioma="es" />
       <ReservasGuia actividades={reservasArriba} idioma="es" />
+      <PrivadasGuia actividades={privadasGuia} idioma="es" />
 
       <div
         className={

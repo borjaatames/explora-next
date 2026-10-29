@@ -9,6 +9,8 @@ import type { ProveedorActividad } from "@/lib/afiliados";
 import SelloProveedor from "@/components/SelloProveedor";
 import { CLAVE_FILTRO_PRIVADOS } from "@/lib/filtrosActividades";
 import { TEXTO_ETIQUETA, type EtiquetaActividad } from "@/lib/etiquetasActividad";
+import type { PrecioComparable } from "@/lib/precioComparable";
+import { intercalarPrivadas } from "@/lib/ordenActividades";
 
 /**
  * Datos serializables que el Server Component pasa al Client Component.
@@ -23,6 +25,8 @@ export type ActividadCardData = {
   imagenAlt: string;
   duracion?: string;
   precioDesde: number;
+  /** Precio por persona comparable (privadas por grupo: grupo de 4). */
+  precio: PrecioComparable;
   moneda: string;
   ratingProveedor?: number;
   numeroOpiniones?: number;
@@ -44,6 +48,7 @@ export type ActividadCardData = {
 };
 
 type Orden = "recomendadas" | "precio" | "valoracion";
+
 
 /**
  * Opción del bloque de categorías en el sidebar. La key debe coincidir con
@@ -177,7 +182,7 @@ export default function ActividadesFiltradas({
   const filtradas = useMemo(() => {
     // Orden: número de reseñas del proveedor, de mayor a menor (las fichas
     // sin dato van al final). A igualdad de reseñas, la más barata primero.
-    return actividades
+    const filtradas = actividades
       .filter((a) => {
         const pasaAtraccion =
           tagsActivos.length === 0 ||
@@ -193,7 +198,7 @@ export default function ActividadesFiltradas({
         return pasaAtraccion && pasaCategoria;
       })
       .sort((a, b) => {
-        if (orden === "precio") return a.precioDesde - b.precioDesde;
+        if (orden === "precio") return a.precio.porPersona - b.precio.porPersona;
         if (orden === "valoracion") {
           // Solo cuenta la nota con un mínimo de opiniones; el resto, al final.
           const nota = (x: ActividadCardData) =>
@@ -201,10 +206,16 @@ export default function ActividadesFiltradas({
           const porNota = nota(b) - nota(a);
           if (porNota !== 0) return porNota;
         }
+        // Sin nota publicada no puede ir por delante de lo que sí la tiene.
+        const conNota = (x: ActividadCardData) =>
+          typeof x.ratingProveedor === "number" && (x.numeroOpiniones ?? 0) > 0 ? 1 : 0;
+        const porNotaPublicada = conNota(b) - conNota(a);
+        if (porNotaPublicada !== 0) return porNotaPublicada;
         const porResenas = (b.numeroOpiniones ?? 0) - (a.numeroOpiniones ?? 0);
         if (porResenas !== 0) return porResenas;
-        return a.precioDesde - b.precioDesde;
+        return a.precio.porPersona - b.precio.porPersona;
       });
+    return orden === "recomendadas" ? intercalarPrivadas(filtradas) : filtradas;
   }, [actividades, tagsActivos, categoriasActivas, orden]);
 
   // Al cambiar cualquier filtro, volvemos a la primera página.
@@ -568,6 +579,11 @@ export function CardActividad({
             {textoEtiqueta}
           </span>
         ) : null}
+        {actividad.privada ? (
+          <span className="self-start inline-block bg-anil-50 text-anil-700 text-[11px] md:text-xs font-semibold uppercase tracking-wider px-1.5 py-0.5 md:px-2 md:py-1 rounded mb-1 md:mb-2">
+            {idioma === "es" ? "Privado · solo tu grupo" : "Private · just your group"}
+          </span>
+        ) : null}
         <h3 className="text-[15px] font-semibold leading-snug md:font-fraunces md:text-xl md:font-bold text-piedra-900 mb-1 md:mb-2 group-hover:text-anil-700 transition-colors md:leading-tight line-clamp-2 md:min-h-[2.5em]">
           {actividad.titulo}
         </h3>
@@ -602,8 +618,24 @@ export function CardActividad({
                 <span className="md:hidden text-xs font-normal text-piedra-500">
                   {strings.desde.toLowerCase()}{" "}
                 </span>
-                {formato.format(actividad.precioDesde)}
+                {formato.format(actividad.precio.porPersona)}
+                {actividad.precio.personasReferencia ? (
+                  <span className="text-xs font-normal text-piedra-500">
+                    {idioma === "es" ? "/pers." : "/person"}
+                  </span>
+                ) : null}
               </p>
+              {actividad.precio.porGrupo ? (
+                <p className="text-[11px] md:text-xs text-piedra-500">
+                  {actividad.precio.personasReferencia && actividad.precio.totalReferencia
+                    ? idioma === "es"
+                      ? `grupo de ${actividad.precio.personasReferencia}: ${formato.format(actividad.precio.totalReferencia)} en total`
+                      : `group of ${actividad.precio.personasReferencia}: ${formato.format(actividad.precio.totalReferencia)} total`
+                    : idioma === "es"
+                      ? "por grupo"
+                      : "per group"}
+                </p>
+              ) : null}
             </div>
             <span
               aria-hidden="true"

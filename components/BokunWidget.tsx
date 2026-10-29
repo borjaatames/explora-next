@@ -2,7 +2,8 @@
 
 import { useEffect, useRef, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
-import { textoUnidadBokun } from "@/lib/reservaBokun";
+import { textoUnidadBokun, type PrecioGrupo } from "@/lib/reservaBokun";
+import { precioComparable } from "@/lib/precioComparable";
 
 /**
  * Widget de reserva embebido de Bokun (tipo "Booking Calendar").
@@ -61,6 +62,8 @@ type Props = {
    * encima para que no parezca que no hay fechas.
    */
   pedirPersonas?: boolean;
+  /** Totales por tamaño de grupo (privadas por grupo). */
+  preciosGrupo?: ReadonlyArray<PrecioGrupo>;
 };
 
 type BokunGlobal = {
@@ -97,8 +100,18 @@ export default function BokunWidget({
   numeroOpiniones,
   minimoPersonas,
   pedirPersonas,
+  preciosGrupo,
 }: Props) {
   const channelUuid = process.env.NEXT_PUBLIC_BOKUN_CHANNEL_UUID;
+  const comparable = precioComparable({
+    precioDesde: precioDesde ?? 0,
+    precioPorGrupo: porGrupo,
+    preciosGrupo,
+  });
+  const formatoPrecio = new Intl.NumberFormat(
+    idioma === "es" ? "es-ES" : idioma === "de" ? "de-DE" : "en-GB",
+    { style: "currency", currency: moneda || "EUR", maximumFractionDigits: 0 }
+  );
   const contenedorRef = useRef<HTMLDivElement>(null);
   const [cerca, setCerca] = useState(false);
   const [interaccion, setInteraccion] = useState(false);
@@ -208,6 +221,15 @@ export default function BokunWidget({
           <p className="text-xs text-piedra-500">
             {textoUnidadBokun({ porGrupo: Boolean(porGrupo), minimoPersonas }, idioma)}
           </p>
+          {porGrupo && comparable.personasReferencia ? (
+            <p className="mt-1 text-sm font-semibold text-piedra-800">
+              {idioma === "es"
+                ? `Si sois ${comparable.personasReferencia}: ${formatoPrecio.format(comparable.porPersona)} por persona`
+                : idioma === "de"
+                  ? `Bei ${comparable.personasReferencia} Personen: ${formatoPrecio.format(comparable.porPersona)} pro Person`
+                  : `For ${comparable.personasReferencia} people: ${formatoPrecio.format(comparable.porPersona)} per person`}
+            </p>
+          ) : null}
           {tieneRating && (
             <div className="mt-3 inline-flex flex-wrap items-center gap-x-2 gap-y-1 rounded-md bg-azafran-50 px-2.5 py-1.5 text-sm">
               <span className="inline-flex items-center gap-1 font-semibold text-piedra-900">

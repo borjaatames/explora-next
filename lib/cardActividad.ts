@@ -1,8 +1,10 @@
 import type { ActividadListItem } from "@/lib/actividades";
 import type { ActividadCardData } from "@/components/ciudad/ActividadesFiltradas";
+import { precioComparable } from "@/lib/precioComparable";
 
 /** Datos mínimos de una actividad para pintar su tarjeta en el cliente. */
 export function aCardData(a: ActividadListItem): ActividadCardData {
+  const comparable = precioComparable(a);
   return {
     slug: a.slug,
     titulo: a.titulo,
@@ -11,6 +13,7 @@ export function aCardData(a: ActividadListItem): ActividadCardData {
     imagenAlt: a.imagenAlt,
     duracion: a.duracion,
     precioDesde: a.precioDesde,
+    precio: comparable,
     moneda: a.moneda || "EUR",
     ratingProveedor: a.ratingProveedor,
     numeroOpiniones: a.numeroOpiniones,

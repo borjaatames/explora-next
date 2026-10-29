@@ -1,5 +1,6 @@
 import type { Idioma } from "@/lib/i18n/types";
 import { formatearPrecioBokun, type PrecioGrupo } from "@/lib/reservaBokun";
+import { tramosCoherentes } from "@/lib/precioComparable";
 
 type Props = {
   precios: ReadonlyArray<PrecioGrupo> | undefined;
@@ -36,22 +37,6 @@ const TEXTOS = {
  * excursiones en grupo, que se anuncian por persona. Enseñamos el total y lo
  * que sale por persona para 2, 4 y 6 (o los tamaños que haya en Bókun).
  */
-/**
- * Algunos proveedores tienen tramos mal configurados en Bókun (p. ej. 6
- * personas más baratas que 4). Cortamos la tabla en el primer total que baja
- * para no enseñar un precio que parece un error.
- */
-function tramosCoherentes(precios: ReadonlyArray<PrecioGrupo>): PrecioGrupo[] {
-  const ordenados = [...precios].sort((a, b) => a.personas - b.personas);
-  const resultado: PrecioGrupo[] = [];
-  for (const p of ordenados) {
-    const anterior = resultado[resultado.length - 1];
-    if (anterior && p.total < anterior.total) break;
-    resultado.push(p);
-  }
-  return resultado;
-}
-
 export default function PreciosPorGrupo({ precios: preciosBrutos, moneda, idioma }: Props) {
   const precios = preciosBrutos ? tramosCoherentes(preciosBrutos) : undefined;
   if (!precios || precios.length < 2) return null;
