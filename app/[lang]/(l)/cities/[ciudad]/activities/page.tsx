@@ -213,6 +213,18 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
   const homeUrl = `${SITE_URL}${prefijoIdioma(lang) || "/"}`;
   const indiceCiudadesUrl = `${SITE_URL}${urlIndiceCiudades(lang)}`;
 
+  // Lista de las fichas del listado (ItemList para buscadores).
+  const itemListLd = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    numberOfItems: cardsActividades.length,
+    itemListElement: cardsActividades.map((a, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      url: `${SITE_URL}${a.url}`,
+      name: a.titulo,
+    })),
+  };
   const breadcrumbsLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -249,6 +261,10 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListLd) }}
       />
 
       <header className="relative isolate overflow-hidden bg-anil-500 text-white py-6 md:py-16">

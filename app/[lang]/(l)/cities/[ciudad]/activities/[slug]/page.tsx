@@ -846,11 +846,13 @@ function buildProductLd(
     : `${SITE_URL}${actividad.imagen}`;
   const ld: Record<string, unknown> = {
     "@context": "https://schema.org",
-    "@type": "Product",
+    // Venta directa (Bókun): además de producto es una excursión que vendemos
+    // nosotros; las de afiliado siguen siendo solo Product.
+    "@type": actividad.proveedor === "bokun" ? ["Product", "TouristTrip"] : "Product",
     name: actividad.titulo,
     description: actividad.descripcion,
     image: actividad.imagen ? [imagenAbsoluta] : undefined,
-    category: actividad.categoria,
+    category: getDictionary(lang).actividades.categorias[actividad.categoria] ?? actividad.categoria,
     inLanguage: lang,
     url,
     offers: {
@@ -859,7 +861,14 @@ function buildProductLd(
       priceCurrency: actividad.moneda,
       price: actividad.precioDesde,
       availability: "https://schema.org/InStock",
+      priceValidUntil: `${new Date().getFullYear()}-12-31`,
+      ...(actividad.proveedor === "bokun"
+        ? { seller: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: "ExploraSpain" } }
+        : {}),
     },
+    ...(actividad.proveedor === "bokun"
+      ? { provider: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: "ExploraSpain" } }
+      : {}),
   };
   // Sin `brand` (el operador no es la marca del producto), sin
   // `aggregateRating` (Google no admite notas recogidas en otras webs,

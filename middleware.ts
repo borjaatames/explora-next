@@ -103,6 +103,12 @@ function destinoConQuery(path: string, req: NextRequest): URL {
 
 export function middleware(req: NextRequest) {
   const { pathname } = req.nextUrl;
+
+  // Todas las rutas del sitio van en minúsculas: /CIUDADES/madrid devolvía
+  // 200 con contenido duplicado. Los archivos con punto no pasan por aquí.
+  if (/[A-Z]/.test(pathname)) {
+    return NextResponse.redirect(destinoConQuery(pathname.toLowerCase(), req), 301);
+  }
   const idiomaEnPath = extraerIdiomaDePath(pathname);
 
   // CASO 1: la URL ya lleva un código de idioma como prefijo.
