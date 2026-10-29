@@ -31,7 +31,7 @@ incluye:
 - Asistencia personalizada del operador
 noIncluye:
 - Comida y bebida
-- Traslado de vuelta a la frontera al terminar el tiempo libre
+- 'El trayecto del centro de Gibraltar a la frontera al terminar el tiempo libre (unos 20 minutos a pie); allí te espera el coche'
 - Visado (comprueba los requisitos de tu nacionalidad)
 - Propinas
 puntoEncuentro:

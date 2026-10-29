@@ -1,7 +1,7 @@
 ---
 titulo: Jerez Private Tour, City, Gastronomy and Flamenco
 slug: jerez-private-city-gastronomy-flamenco-tour
-ciudad: jerez-de-la-frontera
+ciudad: cadiz
 descripcion: Private tour of Jerez with a local guide, historic old town, a tabanco route with wine tasting and lunch, and flamenco in its authentic setting.
 slugs:
   es: tour-privado-jerez-ciudad-gastronomia-flamenco

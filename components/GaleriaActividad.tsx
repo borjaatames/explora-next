@@ -156,7 +156,12 @@ export default function GaleriaActividad({
                 alt={principal.alt}
                 fill
                 priority
-                sizes={haySecundarias ? "(max-width: 768px) 100vw, 66vw" : "100vw"}
+                // En PC la galería ocupa la columna izquierda (2/3 de max-w-6xl ≈ 740 px).
+                sizes={
+                  haySecundarias
+                    ? "(max-width: 768px) 100vw, (max-width: 1024px) 66vw, 520px"
+                    : "(max-width: 1024px) 100vw, 760px"
+                }
                 className="object-cover group-hover:scale-105 transition-transform duration-500"
               />
             </button>
@@ -205,7 +210,7 @@ export default function GaleriaActividad({
                       src={img.src}
                       alt={img.alt}
                       fill
-                      sizes="(max-width: 768px) 100vw, 33vw"
+                      sizes="(max-width: 768px) 100vw, (max-width: 1024px) 33vw, 260px"
                       // En el carrusel móvil las fotos siguientes están "en
                       // pantalla" en horizontal y Chrome las descarga a la vez
                       // que la principal: baja su prioridad para no frenar el LCP.

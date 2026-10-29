@@ -196,10 +196,10 @@ export default function BokunWidget({
       {typeof precioDesde === "number" && precioDesde > 0 && (
         <div className="px-4 pt-3">
           <p className="text-xs text-piedra-500">
-            {idioma === "es" ? "Desde" : "From"}
+            {idioma === "es" ? "Desde" : idioma === "de" ? "Ab" : "From"}
           </p>
           <p className="text-4xl font-bold text-piedra-900 mt-0.5">
-            {new Intl.NumberFormat(idioma === "es" ? "es-ES" : "en-GB", {
+            {new Intl.NumberFormat(idioma === "es" ? "es-ES" : idioma === "de" ? "de-DE" : "en-GB", {
               style: "currency",
               currency: moneda || "EUR",
               maximumFractionDigits: 0,

@@ -5,7 +5,7 @@ const DICT = {
   es: {
     titulo: "Por qué reservar con ExploraSpain",
     items: [
-      { t: "Pago 100% seguro", d: "Vía Stripe y partners oficiales" },
+      { t: "Pago 100% seguro", d: "Vía Bókun y partners oficiales" },
       { t: "Confirmación inmediata", d: "Tu entrada, en el móvil" },
       { t: "Atención al cliente", d: "Te ayudamos con tu reserva" },
       { t: "Guías independientes", d: "Sin relleno turístico" },
@@ -15,7 +15,7 @@ const DICT = {
   en: {
     titulo: "Why book with ExploraSpain",
     items: [
-      { t: "100% secure payment", d: "Via Stripe and official partners" },
+      { t: "100% secure payment", d: "Via Bókun and official partners" },
       { t: "Instant confirmation", d: "Your ticket on your phone" },
       { t: "Customer support", d: "We help you with your booking" },
       { t: "Independent guides", d: "No tourist filler" },
@@ -25,7 +25,7 @@ const DICT = {
   de: {
     titulo: "Warum mit ExploraSpain buchen",
     items: [
-      { t: "100% sichere Zahlung", d: "Über Stripe und offizielle Partner" },
+      { t: "100% sichere Zahlung", d: "Über Bókun und offizielle Partner" },
       { t: "Sofortige Bestätigung", d: "Dein Ticket auf dem Handy" },
       { t: "Kundenservice", d: "Wir helfen dir bei der Buchung" },
       { t: "Unabhängige Reiseführer", d: "Kein touristischer Fülltext" },
@@ -92,7 +92,7 @@ export function FranjaPartners({ idioma }: { idioma: Idioma }) {
         </p>
         <div className="flex items-center gap-10 opacity-70 grayscale">
           <Image src="/logos/getyourguide.svg" alt="GetYourGuide" width={47} height={40} className="h-10 w-auto" />
-          <span className="text-lg font-semibold text-piedra-500">Stripe</span>
+          <span className="text-lg font-semibold text-piedra-500">Bókun</span>
         </div>
       </div>
     </section>

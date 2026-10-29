@@ -75,6 +75,7 @@ export type Diccionario = {
     guiasRelacionadas: string;
     alternativas: string;
     avisoAfiliacion: string;
+    avisoVentaDirecta: string;
     valoracion: string;
     opiniones: string;
     categorias: {

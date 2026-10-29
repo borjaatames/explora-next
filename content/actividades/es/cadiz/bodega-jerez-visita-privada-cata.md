@@ -1,7 +1,7 @@
 ---
 titulo: 'Bodega de Jerez: visita privada con cata y colección de Picasso y Botero'
 slug: bodega-jerez-visita-privada-cata
-ciudad: jerez-de-la-frontera
+ciudad: cadiz
 descripcion: Visita guiada privada de 2 horas a una de las mayores bodegas de Jerez, con su colección privada de obras de Picasso y Botero, y cata de vinos al final.
 slugs:
   es: bodega-jerez-visita-privada-cata

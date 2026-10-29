@@ -11,6 +11,24 @@ const TEXTOS = {
   en: { titulo: "Photo credits", webOficial: "Photo courtesy of the venue (official website)", fuente: "source", foto: "Photo" },
 } as const;
 
+/** Los CREDITOS.md están en español; en EN/DE traducimos las fórmulas fijas. */
+const TRADUCCIONES_EN: ReadonlyArray<[RegExp, string]> = [
+  [/», por /g, "», by "],
+  [/\bvía\b/gi, "via"],
+  [/\bLicencia (Pexels|Pixabay|Unsplash)\b/g, "$1 License"],
+  [/\bDominio público\b/gi, "Public domain"],
+  [/\bFoto de\b/g, "Photo by"],
+  [/\bFoto del proveedor\b/gi, "Operator photo"],
+  [/\bcedida por\b/gi, "courtesy of"],
+];
+
+function textoCredito(texto: string, idioma: Idioma): string {
+  // Restos de nombres de archivo de origen («…foto_123.jpg)») que no aportan nada.
+  const limpio = texto.replace(/\S+\.(?:jpe?g|png|webp|tiff?)\)?/gi, "").replace(/\s{2,}/g, " ").trim();
+  if (idioma === "es") return limpio;
+  return TRADUCCIONES_EN.reduce((t, [re, por]) => t.replace(re, por), limpio);
+}
+
 /**
  * Créditos de las fotos de la galería (autor, licencia y fuente), leídos de
  * los CREDITOS.md en build. Las licencias CC BY / CC BY-SA exigen mostrarlos.
@@ -28,7 +46,7 @@ export default function CreditosFotos({ idioma, srcs }: Props) {
       <ol className="mt-2 space-y-1 list-decimal list-inside">
         {creditos.map((c) => (
           <li key={c.src}>
-            {idioma === "es" ? c.texto : c.texto.replace(/», por /g, "», by ")}
+            {textoCredito(c.texto, idioma)}
             {c.url && (
               <>
                 {" · "}

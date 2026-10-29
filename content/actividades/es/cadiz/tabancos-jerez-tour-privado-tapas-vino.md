@@ -1,7 +1,7 @@
 ---
 titulo: 'Tabancos de Jerez: tour privado de tapas y vino'
 slug: tabancos-jerez-tour-privado-tapas-vino
-ciudad: jerez-de-la-frontera
+ciudad: cadiz
 descripcion: 'Tour gastronómico privado de 3 horas por tres tabancos de Jerez con un experto en vino: tres tapas y tres vinos por persona, recorriendo algunos de los rincones más característicos de la ciudad.'
 slugs:
   es: tabancos-jerez-tour-privado-tapas-vino

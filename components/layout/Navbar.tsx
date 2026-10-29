@@ -92,7 +92,6 @@ export default function Navbar({ idioma }: Props) {
             alt=""
             width={32}
             height={32}
-            priority
             className="w-7 h-7 md:w-8 md:h-8"
           />
           <span className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 tracking-tight">

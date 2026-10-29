@@ -18,7 +18,7 @@ urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Transporte privado ida y vuelta desde Málaga
+- Transporte privado ida y vuelta desde tu hotel de Málaga hasta la frontera
 - Tour de 2 horas por el Peñón con transporte privado dentro de Gibraltar
 - Entradas a la Reserva Natural, la Cueva de San Miguel y los Túneles del Gran Asedio
 - Los macacos de Berbería en su zona del Peñón
@@ -34,7 +34,7 @@ incluye:
 noIncluye:
 - Comida y bebida
 - 'Visado: comprueba la documentación que necesitas para entrar en Gibraltar según tu nacionalidad'
-- Transporte de vuelta a la frontera tras el tiempo libre
+- 'El trayecto del centro de Gibraltar a la frontera tras el tiempo libre (unos 20 minutos a pie o en autobús urbano)'
 - Propinas
 puntoEncuentro:
   texto: Recogida en tu hotel o apartamento de Málaga
@@ -54,7 +54,7 @@ informacionImportante:
   aTenerEnCuenta:
   - 'Precio por grupo, no por persona: 760 € para 1 o 2 personas y 960 € para 4'
   - 'Gibraltar es territorio británico: revisa qué documentación necesitas según tu nacionalidad'
-  - Tras el tiempo libre, la vuelta hasta la frontera va por tu cuenta
+  - Tras el tiempo libre, vas por tu cuenta del centro a la frontera (unos 20 minutos a pie); allí te espera el coche
   - Los bebés no pueden ir en brazos
 accesibilidad: No es accesible en silla de ruedas ni con carrito.
 politicaCancelacion: Cancelación gratuita con reembolso íntegro si cancelas con 24 horas de antelación. Dentro de las 24 horas previas no hay reembolso.
@@ -136,11 +136,13 @@ preciosGrupo:
 
 Te recogen en tu hotel de Málaga y bajas por la Costa del Sol hasta **Gibraltar**. Allí haces un **tour de 2 horas** con transporte privado por el **Peñón**: la zona de los **macacos de Berbería**, la **Cueva de San Miguel**, con sus estalactitas y estalagmitas, y los **Túneles del Gran Asedio**, parte de la historia militar de Gibraltar.
 
-Después tienes **2 horas libres** para comer y pasear por el centro a tu aire. Al terminar vuelves a la frontera, donde te espera el transporte de vuelta a Málaga.
+Después tienes **2 horas libres** para comer y pasear por el centro a tu aire. Al terminar caminas unos 20 minutos hasta la frontera, donde te espera el coche de vuelta a Málaga.
+
+Las 8 horas se reparten así, más o menos: 1 h 45 min de carretera en cada sentido, el paso de la frontera, el tour de 2 horas y las 2 horas libres.
 
 ## Cómo funciona
 
-Es **privado** y el precio es **por grupo**: 760 € para 1 o 2 personas y 960 € para 4. Las **entradas** a la Reserva Natural, la Cueva y los Túneles van incluidas. La comida no. El paso de vuelta a la frontera tras el tiempo libre va por tu cuenta.
+Es **privado** y el precio es **por grupo**: 760 € para 1 o 2 personas y 960 € para 4. Las **entradas** a la Reserva Natural, la Cueva y los Túneles van incluidas. La comida no. Tras el tiempo libre, el paseo del centro a la frontera (unos 20 minutos) va por tu cuenta; el coche te espera allí.
 
 ## A quién se lo recomiendo
 

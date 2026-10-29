@@ -24,7 +24,7 @@ highlights:
 - The Barbary macaques on their patch of the Rock
 - 2 hours of free time for lunch and a wander
 incluye:
-- Private transport to and from Málaga
+- Private transport from your Málaga hotel to the border and back
 - Private transport in Gibraltar
 - Gibraltar Nature Reserve entry
 - St Michael's Cave entry
@@ -34,7 +34,7 @@ incluye:
 noIncluye:
 - Food and drinks
 - 'Visa: check the documents you need to enter Gibraltar for your nationality'
-- Transport back to the border after the free time
+- 'Getting from Gibraltar town back to the border after the free time (about 20 minutes on foot or by local bus)'
 - Tips
 puntoEncuentro:
   texto: Pickup from your hotel or apartment in Málaga
@@ -54,7 +54,7 @@ informacionImportante:
   aTenerEnCuenta:
   - 'Price per group, not per person: €760 for 1 or 2 people and €960 for 4'
   - 'Gibraltar is British territory: check what documents you need for your nationality'
-  - After the free time, getting back to the border is up to you
+  - After the free time, you make your own way from town to the border (about a 20-minute walk); the car waits for you there
   - Infants can't sit on laps
 accesibilidad: Not wheelchair or pushchair accessible.
 politicaCancelacion: Free cancellation with a full refund up to 24 hours before. No refund within 24 hours of the start.
@@ -136,11 +136,13 @@ preciosGrupo:
 
 You're picked up from your hotel in Málaga and head down the Costa del Sol to **Gibraltar**. There you take a **2-hour tour** of the **Rock** with private transport: the home of the **Barbary macaques**, **St Michael's Cave** with its stalactites and stalagmites, and the **Great Siege Tunnels**, part of Gibraltar's military history.
 
-Then you get **2 hours of free time** for lunch and a wander round town. Afterwards you head back to the border, where your transport to Málaga is waiting.
+Then you get **2 hours of free time** for lunch and a wander round town. Afterwards you walk about 20 minutes to the border, where your car back to Málaga is waiting.
+
+The 8 hours break down roughly like this: 1 h 45 min of driving each way, the border crossing, the 2-hour tour and the 2 hours of free time.
 
 ## How it works
 
-It's **private** and priced **per group**: €760 for 1 or 2 people and €960 for 4. **Entry** to the Nature Reserve, the Cave and the Tunnels is included. Lunch isn't. Getting back to the border after the free time is up to you.
+It's **private** and priced **per group**: €760 for 1 or 2 people and €960 for 4. **Entry** to the Nature Reserve, the Cave and the Tunnels is included. Lunch isn't. After the free time, the walk from town to the border (about 20 minutes) is up to you; the car waits for you there.
 
 ## Who it's for
 

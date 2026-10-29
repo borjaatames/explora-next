@@ -60,7 +60,7 @@ The Caminito is a **linear** route of about 7.7 km (3 km of walkways anchored to
 | Basic ticket | Access to the route (helmet included) |
 | Guided visit | With an official guide; you understand the setting better |
 | When to buy | Online, weeks/months ahead |
-| Closing days | Mondays (variable) and on strong wind or rain |
+| Closing days | Mondays, and on days of strong wind or rain |
 
 > **⭐ Tip:** tickets go on sale months ahead on the official site and vanish. Check the available Caminito dates first and **build the trip around that day**, not the other way round.
 

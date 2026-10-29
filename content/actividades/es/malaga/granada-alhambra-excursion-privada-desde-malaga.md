@@ -26,7 +26,7 @@ highlights:
 - Opción de terminar en Granada si te alojas allí
 incluye:
 - Transporte privado
-- Entradas a la Alhambra y a los Palacios Nazaríes
+- 'Entrada general a la Alhambra: Palacios Nazaríes, Alcazaba y Generalife (el Palacio de Carlos V es de acceso libre)'
 - Guía privado en la Alhambra y en el Albaicín
 noIncluye:
 - Comida

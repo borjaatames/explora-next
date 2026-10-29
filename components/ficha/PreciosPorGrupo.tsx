@@ -13,21 +13,21 @@ const TEXTOS = {
     personas: (n: number) => (n === 1 ? "1 persona" : `${n} personas`),
     porPersona: "/pers.",
     total: "total",
-    nota: "Precio total del grupo; puede variar según la fecha.",
+    nota: "En grande, lo que sale por persona; debajo, el total del grupo. Puede variar según la fecha.",
   },
   en: {
     titulo: "Price per person by group size",
     personas: (n: number) => (n === 1 ? "1 person" : `${n} people`),
     porPersona: "/person",
     total: "total",
-    nota: "Total price for the group; it may vary by date.",
+    nota: "Large figure: price per person; below: total for the group. It may vary by date.",
   },
   de: {
     titulo: "Preis pro Person nach Gruppengröße",
     personas: (n: number) => (n === 1 ? "1 Person" : `${n} Personen`),
     porPersona: "/Pers.",
     total: "gesamt",
-    nota: "Gesamtpreis für die Gruppe; kann je nach Datum variieren.",
+    nota: "Groß: Preis pro Person; darunter: Gesamtpreis der Gruppe. Kann je nach Datum variieren.",
   },
 } as const;
 
@@ -36,7 +36,24 @@ const TEXTOS = {
  * excursiones en grupo, que se anuncian por persona. Enseñamos el total y lo
  * que sale por persona para 2, 4 y 6 (o los tamaños que haya en Bókun).
  */
-export default function PreciosPorGrupo({ precios, moneda, idioma }: Props) {
+/**
+ * Algunos proveedores tienen tramos mal configurados en Bókun (p. ej. 6
+ * personas más baratas que 4). Cortamos la tabla en el primer total que baja
+ * para no enseñar un precio que parece un error.
+ */
+function tramosCoherentes(precios: ReadonlyArray<PrecioGrupo>): PrecioGrupo[] {
+  const ordenados = [...precios].sort((a, b) => a.personas - b.personas);
+  const resultado: PrecioGrupo[] = [];
+  for (const p of ordenados) {
+    const anterior = resultado[resultado.length - 1];
+    if (anterior && p.total < anterior.total) break;
+    resultado.push(p);
+  }
+  return resultado;
+}
+
+export default function PreciosPorGrupo({ precios: preciosBrutos, moneda, idioma }: Props) {
+  const precios = preciosBrutos ? tramosCoherentes(preciosBrutos) : undefined;
   if (!precios || precios.length < 2) return null;
   const t = TEXTOS[idioma === "en" || idioma === "de" ? idioma : "es"];
 

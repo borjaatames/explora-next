@@ -30,7 +30,7 @@ const DICT = {
     tagline:
       "Tours, actividades y guías editoriales para viajar por España con criterio.",
     promesaPago: "Pago 100% seguro",
-    promesaPagoSub: "Vía Stripe y partners oficiales",
+    promesaPagoSub: "Vía Bókun y partners oficiales",
     promesaConfirmacion: "Confirmación inmediata",
     promesaConfirmacionSub: "Ticket en el móvil",
     promesaSoporte: "Atención al cliente",
@@ -47,17 +47,17 @@ const DICT = {
     privacidad: "Privacidad",
     cookies: "Cookies",
     pagoSeguro: "Pago 100% seguro",
-    pagoDirecto: "Reserva directa con pago seguro vía Stripe",
+    pagoDirecto: "Reserva directa con pago seguro con tarjeta (Bókun)",
     reservaPartners: "Reservas con partners oficiales",
     direccion: "Madrid",
     disclaimerAfiliados:
-      "En las experiencias de reserva directa, el pago se procesa de forma segura con Stripe y la atención al cliente la presta ExploraSpain. En el resto, actuamos como afiliado oficial de GetYourGuide, donde se completa la reserva con cancelación gratuita.",
+      "En las experiencias de reserva directa, el pago se hace con tarjeta en la pasarela segura de Bókun y la atención al cliente la presta ExploraSpain. En el resto, actuamos como afiliado oficial de GetYourGuide, donde se completa la reserva con las condiciones de cancelación de cada actividad.",
   },
   en: {
     tagline:
       "Tours, activities and editorial guides for traveling Spain with judgment.",
     promesaPago: "100% secure payment",
-    promesaPagoSub: "Via Stripe and official partners",
+    promesaPagoSub: "Via Bókun and official partners",
     promesaConfirmacion: "Instant confirmation",
     promesaConfirmacionSub: "Mobile ticket",
     promesaSoporte: "Customer support",
@@ -74,17 +74,17 @@ const DICT = {
     privacidad: "Privacy",
     cookies: "Cookies",
     pagoSeguro: "100% secure payment",
-    pagoDirecto: "Direct booking with secure payment via Stripe",
+    pagoDirecto: "Direct booking with secure card payment (Bókun)",
     reservaPartners: "Bookings with official partners",
     direccion: "Madrid",
     disclaimerAfiliados:
-      "For direct-booking experiences, payment is securely processed by Stripe and customer support is provided by ExploraSpain. For the rest, we act as an official affiliate of GetYourGuide, where the booking is completed with free cancellation.",
+      "For direct-booking experiences, payment is made by card through Bókun's secure gateway and customer support is provided by ExploraSpain. For the rest, we act as an official affiliate of GetYourGuide, where the booking is completed under each activity's cancellation terms.",
   },
   de: {
     tagline:
       "Touren, Aktivitäten und redaktionelle Reiseführer, um Spanien mit Kompetenz zu bereisen.",
     promesaPago: "100% sichere Zahlung",
-    promesaPagoSub: "Über Stripe und offizielle Partner",
+    promesaPagoSub: "Über Bókun und offizielle Partner",
     promesaConfirmacion: "Sofortige Bestätigung",
     promesaConfirmacionSub: "Ticket auf dem Handy",
     promesaSoporte: "Kundenservice",
@@ -101,11 +101,11 @@ const DICT = {
     privacidad: "Datenschutz",
     cookies: "Cookies",
     pagoSeguro: "100% sichere Zahlung",
-    pagoDirecto: "Direktbuchung mit sicherer Zahlung über Stripe",
+    pagoDirecto: "Direktbuchung mit sicherer Kartenzahlung (Bókun)",
     reservaPartners: "Buchungen mit offiziellen Partnern",
     direccion: "Madrid",
     disclaimerAfiliados:
-      "Bei Erlebnissen mit Direktbuchung wird die Zahlung sicher über Stripe abgewickelt und der Kundenservice von ExploraSpain übernommen. Bei den übrigen Angeboten agieren wir als offizieller Partner von GetYourGuide, wo die Buchung mit kostenloser Stornierung abgeschlossen wird.",
+      "Bei Erlebnissen mit Direktbuchung erfolgt die Zahlung per Karte über das sichere Bókun-Gateway und der Kundenservice von ExploraSpain übernommen. Bei den übrigen Angeboten agieren wir als offizieller Partner von GetYourGuide, wo die Buchung zu den Stornobedingungen der jeweiligen Aktivität abgeschlossen wird.",
   },
 } as const;
 
@@ -293,7 +293,7 @@ export default function Footer({ idioma }: Props) {
             {t.pagoSeguro}
           </p>
 
-          {/* Pago directo (reservas Bokun) — procesado por Stripe */}
+          {/* Pago directo (reservas Bokun) — pasarela de Bókun */}
           <p className="text-center text-xs text-piedra-400 mb-3">
             {t.pagoDirecto}
           </p>

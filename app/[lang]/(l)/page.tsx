@@ -265,7 +265,7 @@ export default function HomePage({ params }: Props) {
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {destinosHome.map((ciudad, index) => (
+            {destinosHome.map((ciudad) => (
               <Link
                 key={ciudad.url}
                 href={
@@ -280,7 +280,6 @@ export default function HomePage({ params }: Props) {
                   fill
                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                   className="object-cover transition-transform duration-500 group-hover:scale-105"
-                  priority={index === 0}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent" />
                 <div className="absolute inset-x-0 bottom-0 p-5">

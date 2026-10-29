@@ -41,7 +41,7 @@ Der Caminito ist eine **lineare** Route von rund 7,7 km (3 km Stege, die an den 
 | Basisticket | Zugang zur Route (Helm inklusive) |
 | Geführte Besichtigung | Mit offiziellem Guide; du verstehst die Umgebung besser |
 | Wann kaufen | Online, Wochen bis Monate im Voraus |
-| Schließtage | Montags (variabel) sowie bei starkem Wind oder Regen |
+| Schließtage | Montags sowie an Tagen mit starkem Wind oder Regen |
 
 > **⭐ Tipp:** Die Tickets gehen Monate im Voraus auf der offiziellen Webseite in den Verkauf und sind schnell vergriffen. Schau dir zuerst die verfügbaren Caminito-Termine an und **plane die Reise um diesen Tag herum**, nicht umgekehrt.
 

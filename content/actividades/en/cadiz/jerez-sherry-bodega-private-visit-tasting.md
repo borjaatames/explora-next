@@ -1,7 +1,7 @@
 ---
 titulo: 'Jerez Sherry Bodega: Private Visit with Tasting and Picasso and Botero Collection'
 slug: jerez-sherry-bodega-private-visit-tasting
-ciudad: jerez-de-la-frontera
+ciudad: cadiz
 descripcion: A 2-hour private guided visit to one of Jerez's largest sherry bodegas, including its private collection of works by Picasso and Botero, with a wine tasting to finish.
 slugs:
   es: bodega-jerez-visita-privada-cata

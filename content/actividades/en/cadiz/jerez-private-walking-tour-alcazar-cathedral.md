@@ -1,7 +1,7 @@
 ---
 titulo: 'Jerez: Private Old Town Walking Tour with the Alcázar and Cathedral'
 slug: jerez-private-walking-tour-alcazar-cathedral
-ciudad: jerez-de-la-frontera
+ciudad: cadiz
 descripcion: 'A 2.5-hour private walking tour of Jerez''s historic centre with tickets to the Alcázar and the Cathedral: Calle Larga and Lancería, the Santo Domingo convent, the Domecq palace and the Gallo Azul.'
 slugs:
   es: jerez-tour-privado-a-pie-alcazar-catedral

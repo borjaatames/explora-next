@@ -24,7 +24,7 @@ highlights:
 - Nature Reserve, cave and tunnel tickets included
 - 4.9 out of 5 on Tripadvisor (15 reviews)
 incluye:
-- Private transport to and from Seville
+- Private transport from Seville to the border and back
 - Private transport in Gibraltar
 - Private guide in Gibraltar
 - Gibraltar Nature Reserve ticket
@@ -34,7 +34,7 @@ incluye:
 noIncluye:
 - Food and drink
 - Visa or entry documents for Gibraltar
-- Transfer back to the border after free time
+- 'Getting from Gibraltar town back to the border after the free time (about a 20-minute walk); the car waits for you there'
 - Tips
 puntoEncuentro:
   texto: Pickup from your hotel or apartment in Seville

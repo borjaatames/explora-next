@@ -26,7 +26,7 @@ highlights:
 - Option to finish in Granada if you're staying there
 incluye:
 - Private transport
-- Alhambra and Nasrid Palaces tickets
+- 'General Alhambra ticket: Nasrid Palaces, Alcazaba and Generalife (the Palace of Charles V is free to enter)'
 - Private guide at the Alhambra and in the Albaicín
 noIncluye:
 - Lunch

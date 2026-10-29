@@ -108,14 +108,12 @@ bokunProductId: 860693
 fecha_actualizacion: '2026-10-24'
 privada: true
 precioPorGrupo: true
-# Totales de Bókun (primera fecha libre de noviembre), comprobados el 28-10-2026
+# Totales de Bókun (opción más barata, 1-nov), comprobados el 29-10-2026. Bókun da 660 € para 6 y 720 € para 4: error del proveedor, pendiente de que lo corrija; no se muestra el 6
 preciosGrupo:
 - personas: 2
   total: 580
 - personas: 4
   total: 720
-- personas: 6
-  total: 660
 ---
 
 ## What the day is like

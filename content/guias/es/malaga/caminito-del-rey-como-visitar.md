@@ -60,7 +60,7 @@ El Caminito es un recorrido **lineal** de unos 7,7 km (3 km de pasarelas anclada
 | Entrada básica | Acceso al recorrido (casco incluido) |
 | Visita guiada | Con guía oficial; entiendes mejor el entorno |
 | Cuándo comprar | Online, con semanas/meses de antelación |
-| Días de cierre | Lunes (variable) y por viento o lluvia fuerte |
+| Días de cierre | Lunes, y los días de viento o lluvia fuerte |
 
 > **⭐ Tip:** las entradas salen a la venta con meses de antelación en la web oficial y vuelan. Mira primero las fechas disponibles del Caminito y **monta el viaje alrededor de ese día**, no al revés.
 

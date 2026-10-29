@@ -497,7 +497,16 @@ export default async function ActividadPage({ params }: Props) {
                 : "hidden lg:block lg:col-span-1 lg:col-start-3 lg:row-start-1 lg:row-span-2"
             }
           >
-            <div className="lg:sticky lg:top-24 lg:pt-8">
+            {/* Bókun crece al elegir fecha y hora: con la columna más alta que la
+                pantalla, el botón «Reservar» quedaba fuera de la vista. Se
+                limita al alto visible y desplaza por dentro. */}
+            <div
+              className={
+                actividad.proveedor === "bokun"
+                  ? "lg:sticky lg:top-24 lg:pt-8 lg:max-h-[calc(100vh-7rem)] lg:overflow-y-auto lg:overscroll-contain"
+                  : "lg:sticky lg:top-24 lg:pt-8"
+              }
+            >
               {actividad.proveedor === "bokun" ? (
                 <>
                   <BokunWidget
@@ -696,7 +705,9 @@ export default async function ActividadPage({ params }: Props) {
 
             {/* 14. Disclosure de afiliación */}
             <p className="text-xs text-piedra-500 border-t border-piedra-200 pt-6">
-              {dict.actividades.avisoAfiliacion}
+              {actividad.proveedor === "bokun"
+                ? dict.actividades.avisoVentaDirecta
+                : dict.actividades.avisoAfiliacion}
             </p>
 
             {/* 15. Referencia al proveedor (cierre) */}

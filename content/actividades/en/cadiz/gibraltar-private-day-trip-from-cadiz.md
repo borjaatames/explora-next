@@ -24,14 +24,14 @@ highlights:
 - The free-roaming Barbary macaques
 - Free time on Main Street
 incluye:
-- Private transport to and from Cádiz
+- Private transport from your Cádiz hotel to the border and back
 - Private transport inside Gibraltar
 - Private guide in Gibraltar
 - 'Tickets: Gibraltar Nature Reserve, Great Siege Tunnels, Skywalk and St Michael''s Cave'
 - Personal assistance from the operator
 noIncluye:
 - Food and drinks
-- Transport back to the border after your free time
+- 'Getting from Gibraltar town back to the border after your free time (about a 20-minute walk); the car waits for you there'
 - Visa (check the requirements for your nationality)
 - Tips
 puntoEncuentro:

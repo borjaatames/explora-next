@@ -34,7 +34,7 @@ incluye:
 noIncluye:
 - Comida y bebida
 - Visado o documentación de entrada a Gibraltar
-- Traslado de vuelta a la frontera al terminar el tiempo libre
+- 'El trayecto del centro de Gibraltar a la frontera al terminar el tiempo libre (unos 20 minutos a pie); allí te espera el coche'
 - Propinas
 puntoEncuentro:
   texto: Recogida en tu hotel o apartamento de Sevilla

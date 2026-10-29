@@ -1,7 +1,7 @@
 ---
 titulo: 'Jerez: tour privado a pie por el casco antiguo con Alcázar y Catedral'
 slug: jerez-tour-privado-a-pie-alcazar-catedral
-ciudad: jerez-de-la-frontera
+ciudad: cadiz
 descripcion: 'Tour privado a pie de 2 horas y media por el casco histórico de Jerez con entradas al Alcázar y a la Catedral: calles Larga y Lancería, convento de Santo Domingo, palacio Domecq y el Gallo Azul.'
 slugs:
   es: jerez-tour-privado-a-pie-alcazar-catedral
