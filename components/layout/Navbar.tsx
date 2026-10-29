@@ -15,6 +15,7 @@ const DICT = {
   es: {
     inicioMenu: "Inicio",
     privados: "Excursiones privadas",
+    privadosCorto: "Privadas",
     guias: "Guías",
     ciudades: "Ciudades",
     sobreNosotros: "Sobre nosotros",
@@ -27,6 +28,7 @@ const DICT = {
   en: {
     inicioMenu: "Home",
     privados: "Private tours",
+    privadosCorto: "Private",
     guias: "Guides",
     ciudades: "Cities",
     sobreNosotros: "About us",
@@ -39,6 +41,7 @@ const DICT = {
   de: {
     inicioMenu: "Startseite",
     privados: "Privattouren",
+    privadosCorto: "Privat",
     guias: "Reiseführer",
     ciudades: "Städte",
     sobreNosotros: "Über uns",
@@ -75,11 +78,12 @@ export default function Navbar({ idioma }: Props) {
   const enlaces = [
     // Sin fichas propias en alemán: el hub solo existe en ES y EN.
     ...(idioma === "es" || idioma === "en"
-      ? [{ href: urlHubPrivados(idioma), label: t.privados as string }]
+      ? [{ href: urlHubPrivados(idioma), label: t.privados as string, corto: t.privadosCorto as string }]
       : []),
-    { href: urlIndiceCiudades(idioma), label: t.ciudades },
+    { href: urlIndiceCiudades(idioma), label: t.ciudades, corto: undefined as string | undefined },
     { href: urlIndiceGuias(idioma), label: t.guias },
-    { href: urlSobreNosotros(idioma), label: t.sobreNosotros },
+    // Entre 768 y 1024 px no caben todos: «Sobre nosotros» queda en el pie y en el menú móvil.
+    { href: urlSobreNosotros(idioma), label: t.sobreNosotros, soloLg: true },
   ];
   const enlacesMovil = [
     { href: urlHome(idioma), label: t.inicioMenu },
@@ -113,9 +117,16 @@ export default function Navbar({ idioma }: Props) {
               key={e.href}
               href={e.href}
               prefetch={false}
-              className="whitespace-nowrap text-sm lg:text-base font-semibold text-piedra-900 hover:text-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded"
+              className={`${"soloLg" in e && e.soloLg ? "hidden lg:inline " : ""}whitespace-nowrap text-sm lg:text-base font-semibold text-piedra-900 hover:text-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded`}
             >
-              {e.label}
+              {e.corto ? (
+                <>
+                  <span className="lg:hidden">{e.corto}</span>
+                  <span className="hidden lg:inline">{e.label}</span>
+                </>
+              ) : (
+                e.label
+              )}
             </Link>
           ))}
         </nav>
