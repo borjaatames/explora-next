@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Política de Cookies | ExploraSpain",
+  title: "Política de Cookies",
   description:
     "Información sobre el uso de cookies en ExploraSpain, tipos de cookies utilizadas y cómo gestionarlas.",
   robots: {

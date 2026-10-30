@@ -3,7 +3,7 @@ import Link from "next/link";
 
 // Aprobadas por Borja el 30-10-2026.
 export const metadata: Metadata = {
-  title: "Condiciones de reserva | ExploraSpain",
+  title: "Condiciones de reserva",
   description:
     "Condiciones de las reservas directas en ExploraSpain: precio, pago, confirmación, cancelación, reembolsos, cambios y reclamaciones.",
   robots: {

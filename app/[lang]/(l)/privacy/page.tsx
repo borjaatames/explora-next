@@ -50,7 +50,7 @@ export async function generateMetadata({
       : "How ExploraSpain processes personal data, under GDPR and LOPDGDD.";
 
   return {
-    title: titulo,
+    title: titulo.replace(" | ExploraSpain", ""),
     description: descripcion,
     alternates: {
       canonical: canonicalUrl,

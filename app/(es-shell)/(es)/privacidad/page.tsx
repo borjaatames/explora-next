@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Política de Privacidad | ExploraSpain",
+  title: "Política de Privacidad",
   description:
     "Información sobre el tratamiento de datos personales en ExploraSpain conforme al RGPD y la LOPDGDD.",
   robots: {

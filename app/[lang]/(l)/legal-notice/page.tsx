@@ -48,7 +48,7 @@ export async function generateMetadata({
       : "Legal information about the owner of ExploraSpain.";
 
   return {
-    title: titulo,
+    title: titulo.replace(" | ExploraSpain", ""),
     description: descripcion,
     alternates: {
       canonical: canonicalUrl,

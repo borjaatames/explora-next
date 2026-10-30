@@ -49,7 +49,7 @@ export async function generateMetadata({
       : "Cookies used on ExploraSpain and how to manage them.";
 
   return {
-    title: titulo,
+    title: titulo.replace(" | ExploraSpain", ""),
     description: descripcion,
     alternates: {
       canonical: canonicalUrl,

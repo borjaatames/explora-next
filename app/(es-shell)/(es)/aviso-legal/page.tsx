@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Aviso Legal | ExploraSpain",
+  title: "Aviso Legal",
   description:
     "Información legal del titular del sitio web ExploraSpain conforme a la LSSI-CE.",
   robots: {

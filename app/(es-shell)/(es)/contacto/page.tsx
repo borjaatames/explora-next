@@ -11,7 +11,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const languages = hreflangAlternates((l) => urlContacto(l));
 
   return {
-    title: "Contacto | ExploraSpain",
+    title: "Contacto",
     description:
       "¿Dudas sobre una actividad o reserva, sugerencias o colaboraciones? Escríbenos por formulario o WhatsApp y te responderemos lo antes posible.",
     robots: {

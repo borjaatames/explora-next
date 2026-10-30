@@ -11,7 +11,7 @@ export function generateStaticParams(): { lang: string }[] {
 }
 
 export const metadata: Metadata = {
-  title: "Booking terms | ExploraSpain",
+  title: "Booking terms",
   description:
     "Terms for direct bookings on ExploraSpain: price, payment, confirmation, cancellation, refunds, changes and complaints.",
   robots: {
