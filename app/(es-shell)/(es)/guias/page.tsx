@@ -1,3 +1,4 @@
+import SeccionesTipoGuia, { tituloPorCiudad } from "@/components/guia/SeccionesTipoGuia";
 import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
@@ -81,12 +82,17 @@ export default async function GuiasHubPage() {
             Guías de viaje
           </h1>
           <p className="text-lg md:text-xl text-anil-50">
-            Cada ciudad tiene sus rutas y consejos propios. Elige por dónde empezar.
+            Excursiones, itinerarios, comparativas y qué hacer si se agotan las entradas, ciudad a ciudad.
           </p>
         </div>
       </section>
 
-      <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
+      <SeccionesTipoGuia idioma={"es"} />
+
+      <section aria-labelledby="guias-por-ciudad" className="max-w-5xl mx-auto px-4 py-12 md:py-16">
+        <h2 id="guias-por-ciudad" className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-6">
+          {tituloPorCiudad("es")}
+        </h2>
         {ciudades.length === 0 ? (
           <div className="text-center py-12 text-piedra-500 text-lg">
             Próximamente publicaremos nuestras primeras guías. Vuelve pronto.

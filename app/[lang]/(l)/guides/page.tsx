@@ -1,3 +1,4 @@
+import SeccionesTipoGuia, { tituloPorCiudad } from "@/components/guia/SeccionesTipoGuia";
 import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
@@ -150,7 +151,12 @@ export default async function GuiasHubPage({ params }: Props) {
         </div>
       </section>
 
-      <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
+      <SeccionesTipoGuia idioma={lang} />
+
+      <section aria-labelledby="guias-por-ciudad" className="max-w-5xl mx-auto px-4 py-12 md:py-16">
+        <h2 id="guias-por-ciudad" className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-6">
+          {tituloPorCiudad(lang)}
+        </h2>
         {ciudades.length === 0 ? (
           <div className="text-center py-12 text-piedra-500 text-lg">
             {strings.vacio}
