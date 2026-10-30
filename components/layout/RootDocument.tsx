@@ -1,6 +1,7 @@
 import Script from "next/script";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import Analytics from "@/components/Analytics";
+import WebVitals from "@/components/WebVitals";
 import { inter, fraunces } from "@/lib/fonts";
 import { allowIndexing } from "@/lib/rootMetadata";
 import type { Idioma } from "@/lib/i18n/types";
@@ -75,6 +76,7 @@ export default function RootDocument({ lang, children }: Props) {
       <body className="font-inter bg-white text-piedra-900 antialiased">
         {children}
         <Analytics gaId={gaId} />
+        {gaId ? <WebVitals /> : null}
         {/*
          * Vercel Speed Insights: recoge Core Web Vitals (LCP, INP, CLS,
          * FCP, TTFB) de usuarios reales en sus dispositivos reales y los

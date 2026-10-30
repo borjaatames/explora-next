@@ -421,23 +421,21 @@ export default function ActividadesFiltradas({
             ) : (
               <>
                 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-0 md:gap-6 border-t border-piedra-200 md:border-0">
-                  {/* Todas las tarjetas van en el HTML (para que los buscadores
-                      lleguen a cada ficha); las de otras páginas se ocultan
-                      con CSS y sus imágenes lazy no se descargan. */}
-                  {filtradas.map((a, i) => (
-                    <div
-                      key={a.slug}
-                      className={
-                        i >= inicioPagina && i < finPagina ? "flex" : "hidden"
-                      }
-                    >
-                      <CardActividad
-                        actividad={a}
-                        strings={strings}
-                        locale={locale}
-                      />
-                    </div>
-                  ))}
+                  {/* Todas las fichas van enlazadas en el HTML para que los
+                      buscadores lleguen a cada una, pero solo la página visible
+                      lleva la tarjeta completa: las demás, un enlace oculto
+                      (antes eran ~70 tarjetas ocultas y el HTML pesaba ~500 KB). */}
+                  {filtradas.map((a, i) =>
+                    i >= inicioPagina && i < finPagina ? (
+                      <div key={a.slug} className="flex">
+                        <CardActividad actividad={a} strings={strings} locale={locale} />
+                      </div>
+                    ) : (
+                      <Link key={a.slug} href={a.url} prefetch={false} className="hidden">
+                        {a.titulo}
+                      </Link>
+                    )
+                  )}
                 </div>
 
                 {totalPaginas > 1 ? (
