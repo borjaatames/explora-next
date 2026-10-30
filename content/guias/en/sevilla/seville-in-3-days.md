@@ -4,7 +4,7 @@ descripcion: "Seville in 3 days: Alcázar, Cathedral, Triana and Itálica, hour 
 categoria: "sevilla"
 slug: "seville-in-3-days"
 fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-10-30"
 autor: Borja
 publicada: true
 destacada: true
@@ -39,6 +39,15 @@ actividades:
   - sevilla-casa-de-pilatos-entrada-planta-baja-audioguia
   - italica-ruinas-romanas-monasterio-desde-sevilla
   - teatro-flamenco-triana-show-en-directo
+faq:
+  - pregunta: "Are 3 days enough for Seville?"
+    respuesta: "Yes, for the essentials without rushing: the Alcázar, the Cathedral and the Giralda, Santa Cruz, Plaza de España, Triana and the river, plus a third day for Itálica or slow Seville. With a fourth day you can go to Córdoba or Cádiz."
+  - pregunta: "Do I need to book the Alcázar in advance?"
+    respuesta: "Yes. Tickets are sold online with a time slot and in high season they sell out days ahead. If none are left, guided tours usually include entry."
+  - pregunta: "Is a guided tour of the Alcázar or the Cathedral worth it?"
+    respuesta: "If you want to understand what you're seeing, yes: both are huge and without context you only half see them. Privately, for 4 people, it's €52-56 per person with entry included."
+  - pregunta: "What to do in Seville when it rains or is very hot?"
+    respuesta: "Covered museums and monuments: the Fine Arts Museum, Casa de Pilatos, the Archive of the Indies or the Cathedral. In summer, be outdoors before 1 PM and after 7 PM."
 ---
 
 Three days is the right length for Seville if you know what to prioritise. With two you rush the Alcázar, the Cathedral and Triana and leave wanting more; with four or five you can add Córdoba, Cádiz or Jerez. This is the route we'd give a friend.
@@ -59,11 +68,11 @@ Three days is the right length for Seville if you know what to prioritise. With 
 
 ## Day 1: the monumental heart
 
-**9:30 AM — Real Alcázar.** Buy online days ahead (€15.50; the Cuarto Real Alto, the royal apartments, is €5.50 extra with a 25-minute guided visit) and take the first slot. By noon the queue runs 30–45 minutes and the 750-person capacity fills. Allow 2–3 hours: Patio de las Doncellas, the Hall of Ambassadors and **the full gardens**, which half of visitors miss. More in [how to visit the Alcázar](/en/guides/sevilla/alcazar-of-seville-how-to-visit).
+**9:30 AM — Real Alcázar.** Buy online days ahead (€15.50; the Cuarto Real Alto, the royal apartments, is €5.50 extra with a 25-minute guided visit) and take the first slot. By noon the queue runs 30–45 minutes and the 750-person capacity fills. Allow 2–3 hours: Patio de las Doncellas, the Hall of Ambassadors and **the full gardens**, which half of visitors miss. More in [how to visit the Alcázar](/en/guides/sevilla/alcazar-of-seville-how-to-visit). If tickets are gone or you want it explained, the [private tour with an official guide and tickets](/en/cities/sevilla/activities/royal-alcazar-seville-private-tour-official-guide) is €191 for 2 people or €222 for 4.
 
 [actividad: royal-alcazar-seville-skip-line-guided-tour]
 
-**12:30 PM — Cathedral and Giralda**, opposite. The world's largest Gothic cathedral, Columbus's tomb and a sacristy with Murillo and Zurbarán; the Giralda is climbed by ramps and has the best view of the centre. Combined ticket with the Iglesia del Salvador: €20 online (free for under-13s with an adult). Allow 1h 30min to 2 hours. Avoid the Giralda from mid-morning to noon, when the climb queue reaches 30–45 minutes.
+**12:30 PM — Cathedral and Giralda**, opposite. The world's largest Gothic cathedral, Columbus's tomb and a sacristy with Murillo and Zurbarán; the Giralda is climbed by ramps and has the best view of the centre. Combined ticket with the Iglesia del Salvador: €20 online (free for under-13s with an adult). Allow 1h 30min to 2 hours. With a guide just for your group and the Giralda included: the [private tour](/en/cities/sevilla/activities/seville-cathedral-giralda-private-tour-guide-tickets) (€184 for 2, €208 for 4). Avoid the Giralda from mid-morning to noon, when the climb queue reaches 30–45 minutes.
 
 **2 PM — Lunch.** Not on the terraces of Plaza Virgen de los Reyes or Mateos Gago: walk five minutes to the Arenal, or cross to Calle Pureza in Triana.
 
@@ -75,7 +84,7 @@ Three days is the right length for Seville if you know what to prioritise. With 
 
 **10 AM — Triana.** Walk across the **Isabel II Bridge**. See the **Mercado de Triana** (stalls and tapas bars, over the free **Castillo de San Jorge**, the former Inquisition headquarters), **Calle Betis** facing the old town, and **Santa Ana** church. Lunch in the taverns of Calle Pureza and Pagés del Corro, where Sevillians eat.
 
-**4 PM — The old town without monuments.** Plaza Nueva, Plaza del Salvador, Sierpes and Tetuán. Or the **Fine Arts Museum** (free for EU citizens, €1.50 others): Murillo, Zurbarán and Valdés Leal, almost empty.
+**4 PM — The old town without monuments.** Plaza Nueva, Plaza del Salvador, Sierpes and Tetuán. Or the **Fine Arts Museum** (free for EU citizens, €1.50 others): Murillo, Zurbarán and Valdés Leal, almost empty. With an art historian in a group of 8 at most: the [Fine Arts Museum guided tour](/en/cities/sevilla/activities/seville-fine-arts-museum-guided-tour), from €22.90.
 
 **7:30 PM — Sunset on the Guadalquivir.** Three options:
 
@@ -87,7 +96,9 @@ Three days is the right length for Seville if you know what to prioritise. With 
 
 **Option A, slow Seville:** the Fine Arts Museum, then **Casa de Pilatos** (€12; a 15th–16th-century palace with patios that rival the Alcázar's and a fraction of the crowds) and the plazas of Alfalfa and Encarnación.
 
-**Option B, Itálica:** 9 km away in Santiponce, the Roman city where emperors Trajan and Hadrian were born, with an amphitheatre for 25,000 (the Dragonpit in *Game of Thrones*) and mosaics in place. Bus M-170A from Plaza de Armas (45 minutes, €1.55) or 15 minutes by car; free for EU citizens, €1.50 for others. It takes a morning; return for a last dinner in Triana.
+**Option B, Itálica:** 9 km away in Santiponce, the Roman city where emperors Trajan and Hadrian were born, with an amphitheatre for 25,000 (the Dragonpit in *Game of Thrones*) and mosaics in place. Bus M-170A from Plaza de Armas (45 minutes, €1.55) or 15 minutes by car; free for EU citizens, €1.50 for others. It takes a morning; return for a last dinner in Triana. With a guide: a [group tour with San Isidoro monastery](/en/cities/sevilla/activities/italica-roman-ruins-medieval-monastery-from-seville) from €42 or a [2-hour private visit](/en/cities/sevilla/activities/italica-private-guided-tour-santiponce).
+
+**If you have a spare day:** Córdoba is 45 minutes away by high-speed train; all the options in [day trips from Seville](/en/guides/sevilla/day-trips-from-seville).
 
 ## Where to stay
 
@@ -101,7 +112,8 @@ Lunch is 2–4 PM and dinner 9–11:30 PM; in summer, authentic places close bet
 
 - **Horse-drawn carriages:** €45–50 per carriage, and the horses suffer in the heat.
 - **Flamenco with dinner in Santa Cruz:** weak show, worse food. For serious flamenco, Casa de la Memoria or a theatre in Triana; see [which flamenco tablao to choose](/en/guides/sevilla/flamenco-seville-which-tablao-to-choose).
-- **"Legends of Seville" night tours** and **paella** (it's Valencian).
+- **"Legends" tours in huge groups with a loudspeaker:** if the theme appeals, go small-group or private, like [Mysterious Seville at sunset](/en/cities/sevilla/activities/mysterious-seville-private-tour-sunset).
+- **Paella:** it's Valencian.
 
 **Biggest mistake:** staying in the historic centre. Without Triana you miss half of Seville.
 
