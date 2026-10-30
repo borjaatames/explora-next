@@ -110,7 +110,6 @@ Lunch is 2–4 PM and dinner 9–11:30 PM; in summer, authentic places close bet
 
 ## What we don't recommend
 
-- **Horse-drawn carriages:** €45–50 per carriage, and the horses suffer in the heat.
 - **Flamenco with dinner in Santa Cruz:** weak show, worse food. For serious flamenco, Casa de la Memoria or a theatre in Triana; see [which flamenco tablao to choose](/en/guides/sevilla/flamenco-seville-which-tablao-to-choose).
 - **"Legends" tours in huge groups with a loudspeaker:** if the theme appeals, go small-group or private, like [Mysterious Seville at sunset](/en/cities/sevilla/activities/mysterious-seville-private-tour-sunset).
 - **Paella:** it's Valencian.

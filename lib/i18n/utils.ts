@@ -180,3 +180,8 @@ export function rutasPorIdioma(
   }
   return result;
 }
+
+/** Condiciones de reserva directa: ES propia; EN y DE comparten la inglesa. */
+export function urlCondiciones(idioma: Idioma): string {
+  return idioma === "es" ? "/condiciones" : "/en/booking-terms";
+}

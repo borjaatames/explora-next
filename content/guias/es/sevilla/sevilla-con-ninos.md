@@ -86,7 +86,6 @@ Lo ideal es de **marzo a mayo** y de **mediados de septiembre a noviembre**. En 
 
 - **La Catedral entera con menores de 10.** La Giralda sí; la nave, con sus capillas barrocas y la tumba de Colón en alto, no les dice nada. Repartíos: uno dentro 30 minutos y otro en el Patio de los Naranjos, que tiene sombra.
 - **El Archivo de Indias, los Venerables y la Casa de Pilatos.** Preciosos para adultos; para niños, cero.
-- **El coche de caballos:** 45-60 € por media hora, se aburren a los 10 minutos y en verano el bienestar de los animales es discutible. Mejor un paseo por María Luisa, gratis.
 - **Los tablaos turísticos a 40 €** por persona. Si quieres flamenco con niños de más de 10 años, Casa de la Memoria (calle Cuna, 6) es sobrio, corto y de calidad.
 
 ## Dónde comer sin caer en trampas

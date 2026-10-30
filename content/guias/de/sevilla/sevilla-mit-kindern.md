@@ -232,10 +232,6 @@ Das ist, was dir andere Guides nicht sagen. Sevilla hat viel zu sehen, und mit K
 
 ❌ Beide sind für Erwachsene mit Interesse an Kunst und Architektur wunderschön. Für Kinder: null. **Wenn du 3 Tage mit Kindern in Sevilla hast, geh nicht hinein.**
 
-### Die Kutschfahrt
-
-❌ Wird dir an jeder Ecke für 45-60 € für 30-45 Minuten angeboten. **Klassische Touristenfalle.** Sehr teuer, die Kinder langweilen sich nach 10 Minuten, die Erklärungen des Kutschers sind zufällig, das Tierwohl ist fragwürdig (besonders im Sommer). Besser ein kostenloser Spaziergang durch María Luisa.
-
 ### Die "Ramblas von Sevilla" (Avenida de la Constitución zum Essen)
 
 ❌ So heißt es nicht offiziell, aber es kommt aufs Gleiche heraus. Die ganze Straße gegenüber der Kathedrale ist voller Restaurants mit **Speisekarte in 6 Sprachen, laminiertem Foto und tiefgefrorener Paella für 18 €**. Nicht einmal einen Kaffee dort trinken. Die Qualität ist schlecht, und die Preise sind doppelt so hoch. Weiter unten sage ich dir, wo es sich lohnt.

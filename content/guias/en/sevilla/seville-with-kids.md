@@ -89,7 +89,6 @@ Best from **March to May** and from **mid-September to November**. In July and A
 ## What you can skip with kids
 
 - **The whole Cathedral with under-10s.** The Giralda yes; the nave, with its Baroque chapels and Columbus's tomb up high, says nothing to them. Split up: one adult goes in for 30 minutes while the other waits in the shaded Patio de los Naranjos.
-- **Horse-drawn carriages:** €45-60 for half an hour, children are bored after 10 minutes, and in summer the animals' welfare is questionable. A walk through María Luisa is free.
 - **Tourist tablaos at €40 a head.** For flamenco with children over 10, [Casa de la Memoria](/en/cities/sevilla/activities/seville-casa-de-la-memoria-flamenco-show-intimate) (Calle Cuna, 6) is sober, short and high quality.
 
 ## Where to eat without falling into traps

@@ -1,14 +1,23 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 
-// BORRADOR pendiente de revisión por Borja y su gestor: fuera del índice y
-// sin enlazar desde el pie hasta que se apruebe.
+// Aprobadas por Borja el 30-10-2026.
 export const metadata: Metadata = {
   title: "Condiciones de reserva | ExploraSpain",
   description:
     "Condiciones de las reservas directas en ExploraSpain: precio, pago, confirmación, cancelación, reembolsos, cambios y reclamaciones.",
-  robots: { index: false, follow: true },
-  alternates: { canonical: "https://www.exploraspain.com/condiciones" },
+  robots: {
+    index: process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true",
+    follow: process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true",
+  },
+  alternates: {
+    canonical: "https://www.exploraspain.com/condiciones",
+    languages: {
+      es: "https://www.exploraspain.com/condiciones",
+      en: "https://www.exploraspain.com/en/booking-terms",
+      "x-default": "https://www.exploraspain.com/condiciones",
+    },
+  },
 };
 
 export default function CondicionesPage() {

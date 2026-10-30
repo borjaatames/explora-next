@@ -54,26 +54,25 @@ export const config = {
 };
 
 /**
- * Resuelve el idioma preferido del navegador comparando contra los idiomas
- * configurados (no solo activos). Devuelve el primero que matchee, o
- * IDIOMA_DEFECTO si no hay ninguno.
+ * Idioma de la home según el idioma principal del navegador (decisión de
+ * Borja, 30-10-2026):
+ *   - español y lenguas de España, y portugués (Portugal y Brasil, ámbito
+ *     iberoamericano) → español;
+ *   - alemán → alemán;
+ *   - cualquier otro → inglés.
+ * Sin cabecera Accept-Language → español.
  */
+const IDIOMAS_A_ESPANOL = new Set(["es", "ca", "gl", "eu", "pt"]);
+
 function detectarIdiomaNavegador(req: NextRequest): Idioma {
   const acceptLanguage = req.headers.get("accept-language");
   if (!acceptLanguage) return IDIOMA_DEFECTO;
-
-  // accept-language tipo "de-DE,de;q=0.9,en;q=0.8,es;q=0.7"
-  const idiomasPedidos = acceptLanguage
-    .split(",")
-    .map((parte) => parte.split(";")[0].trim().toLowerCase().split("-")[0]);
-
-  for (const pedido of idiomasPedidos) {
-    if ((IDIOMAS_CONFIGURADOS as readonly string[]).includes(pedido)) {
-      return pedido as Idioma;
-    }
-  }
-
-  return IDIOMA_DEFECTO;
+  // accept-language tipo "de-DE,de;q=0.9,en;q=0.8": manda el primero.
+  const principal = acceptLanguage.split(",")[0].split(";")[0].trim().toLowerCase().split("-")[0];
+  if (!principal || principal === "*") return IDIOMA_DEFECTO;
+  if (IDIOMAS_A_ESPANOL.has(principal)) return "es";
+  if (principal === "de") return "de";
+  return "en";
 }
 
 /**

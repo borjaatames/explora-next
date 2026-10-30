@@ -5,6 +5,7 @@ import {
   urlIndiceCiudades,
   urlContacto,
   urlAvisoLegal,
+  urlCondiciones,
   urlPrivacidad,
   urlCookies,
   urlCiudad,
@@ -44,6 +45,7 @@ const DICT = {
     ciudades: "Ciudades",
     contacto: "Contacto",
     avisoLegal: "Aviso legal",
+    condiciones: "Condiciones de reserva",
     privacidad: "Privacidad",
     cookies: "Cookies",
     pagoSeguro: "Pago 100% seguro",
@@ -71,6 +73,7 @@ const DICT = {
     ciudades: "Cities",
     contacto: "Contact",
     avisoLegal: "Legal notice",
+    condiciones: "Booking terms",
     privacidad: "Privacy",
     cookies: "Cookies",
     pagoSeguro: "100% secure payment",
@@ -98,6 +101,7 @@ const DICT = {
     ciudades: "Städte",
     contacto: "Kontakt",
     avisoLegal: "Impressum",
+    condiciones: "Buchungsbedingungen (EN)",
     privacidad: "Datenschutz",
     cookies: "Cookies",
     pagoSeguro: "100% sichere Zahlung",
@@ -323,6 +327,13 @@ export default function Footer({ idioma }: Props) {
               className="text-piedra-400 hover:text-white transition-colors"
             >
               {t.avisoLegal}
+            </Link>
+            <Link
+              href={urlCondiciones(idioma)}
+              prefetch={false}
+              className="text-piedra-400 hover:text-white transition-colors"
+            >
+              {t.condiciones}
             </Link>
             <Link
               href={urlPrivacidad(idioma)}

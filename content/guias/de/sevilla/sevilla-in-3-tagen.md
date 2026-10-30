@@ -260,10 +260,6 @@ Für eine durchdachte Tapas-Route Bar für Bar haben wir einen [eigenen Guide zu
 
 ## Was ich in Sevilla NICHT empfehle
 
-### Kutschfahrt (Pferdekutsche)
-
-Die klassische touristische Postkartenidee. **Teuer** (45-50 € pro Kutsche, nicht pro Person), und die Tiere leiden unter der extremen Sommerhitze. Wenn du es machst, dann außerhalb der extremen Hitzemonate. Aber ehrlich gesagt, **du brauchst es nicht**: Sevilla lässt sich besser ohne Kutsche erkunden.
-
 ### Aufstieg zur Kathedrale zur Stoßzeit
 
 Am späten Vormittag / Mittag kann die Schlange für den Aufstieg zur Giralda 30-45 Minuten dauern. **Geh früh am Tag oder zur letzten Stunde.**

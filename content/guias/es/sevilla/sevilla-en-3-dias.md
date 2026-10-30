@@ -105,7 +105,6 @@ Se come de 14:00 a 16:00 y se cena de 21:00 a 23:30; en verano, los sitios auté
 
 ## Lo que no recomendamos
 
-- **El coche de caballos:** 45-50 € por carruaje y los animales sufren el calor.
 - **La Giralda a mediodía:** 30-45 minutos de cola.
 - **El flamenco con cena en Santa Cruz:** show flojo y cena peor. Flamenco serio: [Casa de la Memoria](/ciudades/sevilla/actividades/casa-de-la-memoria-flamenco-show-intimo-sevilla) o un teatro de Triana; [qué tablao elegir](/guias/sevilla/flamenco-sevilla-que-tablao-elegir).
 - **Los tours de «leyendas» en grupos enormes con altavoz:** si te atrae el tema, mejor en grupo pequeño o en privado, como [Sevilla misteriosa al atardecer](/ciudades/sevilla/actividades/sevilla-misteriosa-tour-privado-atardecer).

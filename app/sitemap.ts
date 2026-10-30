@@ -16,6 +16,7 @@ import {
   urlIndiceGuias,
   urlIndiceCiudades,
   urlAvisoLegal,
+  urlCondiciones,
   urlPrivacidad,
   urlCookies,
   urlContacto,
@@ -155,6 +156,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }
 
   // ─── Páginas legales (todos los idiomas activos, con hreflang) ───
+  for (const lang of ["es", "en"] as const) {
+    entries.push({
+      url: `${SITE_URL}${urlCondiciones(lang)}`,
+      changeFrequency: "yearly",
+      priority: 0.3,
+      alternates: alternatesPara((l) => (l === "es" || l === "en" ? urlCondiciones(l) : null)),
+    });
+  }
   for (const lang of IDIOMAS_ACTIVOS) {
     entries.push({
       url: `${SITE_URL}${urlAvisoLegal(lang)}`,

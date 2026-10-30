@@ -1,5 +1,7 @@
 import type { Idioma } from "@/lib/i18n/types";
+import Link from "next/link";
 import { urlWhatsApp } from "@/lib/contacto";
+import { urlCondiciones } from "@/lib/i18n/utils";
 
 type Props = {
   idioma: Idioma;
@@ -19,6 +21,7 @@ const TEXTOS = {
       h ? `Cancelación gratis hasta ${h} h antes, con reembolso íntegro` : "Cancelación gratis",
     dudas: "¿Dudas antes de reservar? Escríbenos por WhatsApp",
     mensaje: (t: string) => `Hola, tengo una duda sobre «${t}».`,
+    condiciones: "Condiciones de reserva",
   },
   en: {
     cabecera: "Booking with ExploraSpain",
@@ -29,6 +32,7 @@ const TEXTOS = {
       h ? `Free cancellation up to ${h}h before, full refund` : "Free cancellation",
     dudas: "Questions before booking? Message us on WhatsApp",
     mensaje: (t: string) => `Hi, I have a question about "${t}".`,
+    condiciones: "Booking terms",
   },
   de: {
     cabecera: "Buchen bei ExploraSpain",
@@ -39,6 +43,7 @@ const TEXTOS = {
       h ? `Kostenlose Stornierung bis ${h} Std. vorher, volle Erstattung` : "Kostenlose Stornierung",
     dudas: "Fragen vor der Buchung? Schreib uns auf WhatsApp",
     mensaje: (t: string) => `Hallo, ich habe eine Frage zu „${t}“.`,
+    condiciones: "Buchungsbedingungen (EN)",
   },
 } as const;
 
@@ -83,6 +88,11 @@ export default function ConfianzaReservaBokun({
       >
         {t.dudas} →
       </a>
+      <p className="mt-2 text-xs text-piedra-500">
+        <Link href={urlCondiciones(idioma)} prefetch={false} className="underline hover:text-anil-700">
+          {t.condiciones}
+        </Link>
+      </p>
     </div>
   );
 }
