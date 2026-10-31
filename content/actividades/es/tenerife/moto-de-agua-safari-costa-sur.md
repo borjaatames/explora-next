@@ -79,11 +79,11 @@ keywords:
 - moto de agua sin carnet tenerife
 - safari moto de agua costa del silencio
 - marina san miguel moto de agua
-imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
-imagenAlt: Moto de agua sobre las olas
+imagen: /images/actividades/tenerife/motos-agua/grupo-motos-agua-ruta.webp
+imagenAlt: Grupo de motos de agua navegando en fila por mar abierto
 galeria:
-- src: /images/actividades/tenerife/motos-agua/grupo-motos-agua-ruta.webp
-  alt: Grupo de motos de agua navegando en fila por mar abierto
+- src: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
+  alt: Moto de agua sobre las olas
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
   alt: Playa de Costa Adeje con las montañas al fondo
 - src: /images/actividades/tenerife/motos-agua/montana-roja-el-medano.webp

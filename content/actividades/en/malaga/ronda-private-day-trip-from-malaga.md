@@ -75,15 +75,15 @@ keywords:
 - ronda and setenil from malaga
 - private ronda tour malaga
 - ronda guided day trip
-imagen: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
-imagenAlt: Ronda's Puente Nuevo and the houses above the gorge
+imagen: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
+imagenAlt: 'Arches of Ronda''s Puente Nuevo'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
-  alt: 'Arches of Ronda''s Puente Nuevo'
+- src: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
+  alt: Ronda's Puente Nuevo and the houses above the gorge
 - src: /images/actividades/malaga/setenil/calle-casas-roca.webp
   alt: 'Street in Setenil de las Bodegas with houses under the rock'
 - src: /images/actividades/malaga/setenil/panoramica.webp

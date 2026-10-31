@@ -83,13 +83,13 @@ keywords:
 - catamaran fondo cristal tenerife
 - delfines tenerife sur
 - excursion barco los cristianos
-imagen: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-imagenAlt: Calderones nadando en superficie frente a la costa de Tenerife
+imagen: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
+imagenAlt: Barcos amarrados en el puerto de Los Cristianos
 galeria:
 - src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
   alt: Barco de avistamiento con pasajeros junto a un grupo de calderones en Tenerife
-- src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
-  alt: Barcos amarrados en el puerto de Los Cristianos
+- src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
+  alt: Calderones nadando en superficie frente a la costa de Tenerife
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
   alt: Calderón tropical respirando en superficie
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp

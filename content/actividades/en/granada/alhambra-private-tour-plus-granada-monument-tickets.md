@@ -79,16 +79,16 @@ keywords:
 - alhambra private tour
 - granada monument tickets
 - alhambra royal chapel tickets
-imagen: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
-imagenAlt: Court of the Lions in the Nasrid Palaces
+imagen: https://imgcdn.bokun.tools/99050210-6734-4be4-8873-c7675008c167.jpg
+imagenAlt: The Court of the Myrtles reflected in its pool
 ratingProveedor: 4.9
 numeroOpiniones: 24
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/99050210-6734-4be4-8873-c7675008c167.jpg
-  alt: The Court of the Myrtles reflected in its pool
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: Court of the Lions in the Nasrid Palaces
 - src: https://imgcdn.bokun.tools/dc68bb50-8782-4ce9-84c0-48fb09432aac.jpg
   alt: Fountains of the Patio de la Acequia in the Generalife
 - src: https://imgcdn.bokun.tools/355fe27d-9565-4bcb-81af-2f4a9993d4c5.jpg

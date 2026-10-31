@@ -81,15 +81,15 @@ keywords:
 - gibraltar apes st michaels cave tour
 - gibraltar private tour malaga
 - gibraltar trip with tickets
-imagen: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
-imagenAlt: The Rock of Gibraltar seen from the town
+imagen: /images/actividades/malaga/gibraltar/tuneles-asedio.webp
+imagenAlt: 'Great Siege Tunnels in the Rock'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/malaga/gibraltar/tuneles-asedio.webp
-  alt: 'Great Siege Tunnels in the Rock'
+- src: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
+  alt: The Rock of Gibraltar seen from the town
 - src: /images/actividades/malaga/gibraltar/macacos-familia.webp
   alt: 'Family of macaques on the Rock of Gibraltar'
 - src: /images/actividades/malaga/gibraltar/penon-cresta.webp

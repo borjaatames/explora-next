@@ -67,15 +67,15 @@ keywords:
 - seville private tapas tour
 - tapas route triana
 - traditional taverns triana seville
-imagen: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-imagenAlt: Triana Bridge over the Guadalquivir
+imagen: https://imgcdn.bokun.tools/6319c4ac-da09-4f3c-a260-29e80538a2d0.jpg
+imagenAlt: Glass of wine and a tapa of meat in sauce on the bar
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/6319c4ac-da09-4f3c-a260-29e80538a2d0.jpg
-  alt: Glass of wine and a tapa of meat in sauce on the bar
+- src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
+  alt: Triana Bridge over the Guadalquivir
 - src: /images/actividades/sevilla/triana/triana-pexels-40246298.webp
   alt: Colourful houses on Calle Betis in Triana
 - src: https://imgcdn.bokun.tools/8236f07d-be67-4e29-bb18-1991868d6cdb.jpg

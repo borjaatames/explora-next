@@ -71,15 +71,15 @@ keywords:
 - tour sevilla con guia desde malaga
 - sevilla dia completo malaga
 - excursion sevilla privada
-imagen: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
-imagenAlt: Catedral de Sevilla y la Giralda
+imagen: https://imgcdn.bokun.tools/2201e4ce-7bc0-42f0-90f4-8d0702b7edb5.jpg
+imagenAlt: La Giralda vista desde abajo con viajeros
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/2201e4ce-7bc0-42f0-90f4-8d0702b7edb5.jpg
-  alt: La Giralda vista desde abajo con viajeros
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: Catedral de Sevilla y la Giralda
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
   alt: Vista amplia de la Plaza de España de Sevilla
 - src: https://imgcdn.bokun.tools/6b9acedb-4c85-4778-b40b-091bbd481fc7.jpg

@@ -59,11 +59,11 @@ keywords:
 - tour autoguiado córdoba
 - audioguía app córdoba
 - visita autoguiada córdoba
-imagen: /images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp
-imagenAlt: La Mezquita-Catedral junto al Guadalquivir
+imagen: /images/actividades/cordoba/juderia/juderia-cordoba-unsplash-h009mqfRvTw.jpg
+imagenAlt: Calle de la judería de Córdoba
 galeria:
-- src: /images/actividades/cordoba/juderia/juderia-cordoba-unsplash-h009mqfRvTw.jpg
-  alt: Calle de la judería de Córdoba
+- src: /images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp
+  alt: La Mezquita-Catedral junto al Guadalquivir
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
   alt: Torre de la Mezquita-Catedral, frente al tablao
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp

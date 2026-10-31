@@ -78,8 +78,8 @@ keywords:
 - caminito del rey day trip from seville
 - caminito del rey private transport
 - caminito del rey tickets included
-imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
-imagenAlt: Caminito del Rey walkways over the Gaitanes gorge
+imagen: https://imgcdn.bokun.tools/b6a73f80-992c-4c3e-8470-c41b4a953417.jpg
+imagenAlt: Hikers in helmets on the Caminito walkways
 ratingProveedor: 5.0
 numeroOpiniones: 4
 publicada: true
@@ -87,8 +87,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/b6a73f80-992c-4c3e-8470-c41b4a953417.jpg
-  alt: Hikers in helmets on the Caminito walkways
+- src: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
+  alt: Caminito del Rey walkways over the Gaitanes gorge
 - src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
   alt: River and gorge at the Caminito del Rey
 - src: https://imgcdn.bokun.tools/73519bc9-7446-442e-bada-23c363e267fd.jpg

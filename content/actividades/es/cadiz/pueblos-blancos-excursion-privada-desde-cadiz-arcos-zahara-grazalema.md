@@ -74,15 +74,15 @@ keywords:
 - arcos zahara grazalema excursion
 - ruta pueblos blancos cadiz con conductor
 - excursion privada desde cadiz
-imagen: /images/actividades/cadiz/pueblos/zahara.webp
-imagenAlt: Zahara de la Sierra bajo su castillo
+imagen: /images/actividades/cadiz/pueblos/arcos-frontera-pena-rio.webp
+imagenAlt: Arcos de la Frontera sobre su peña, con el río Guadalete al pie
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/cadiz/pueblos/arcos-frontera-pena-rio.webp
-  alt: Arcos de la Frontera sobre su peña, con el río Guadalete al pie
+- src: /images/actividades/cadiz/pueblos/zahara.webp
+  alt: Zahara de la Sierra bajo su castillo
 - src: /images/actividades/cadiz/pueblos/arcos-frontera-acantilado.webp
   alt: Casas blancas de Arcos de la Frontera al borde del acantilado
 - src: /images/actividades/cadiz/pueblos/zahara-embalse.webp

@@ -67,15 +67,15 @@ categoria: aventura
 keywords:
 - caminito del rey private tour
 - caminito del rey from malaga private guide
-imagen: /images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp
-imagenAlt: Caminito del Rey walkways hanging from the gorge wall
+imagen: /images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp
+imagenAlt: View of the canyon with the green Caminito del Rey bridge
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-28'
 galeria:
-- src: /images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp
-  alt: View of the canyon with the green Caminito del Rey bridge
+- src: /images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp
+  alt: Caminito del Rey walkways hanging from the gorge wall
 - src: /images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp
   alt: Suspension bridge over the Gaitanes Gorge
 - src: /images/actividades/malaga/caminito-del-rey/pasarela.webp

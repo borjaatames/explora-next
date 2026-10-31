@@ -77,11 +77,11 @@ keywords:
 - gibraltar from malaga
 - rock of gibraltar
 - gibraltar macaques
-imagen: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
-imagenAlt: The Rock of Gibraltar seen from the town
+imagen: /images/actividades/malaga/gibraltar/macacos-reserva-natural.webp
+imagenAlt: Macacos de Berberia en la reserva natural del Penon de Gibraltar
 galeria:
-- src: /images/actividades/malaga/gibraltar/macacos-reserva-natural.webp
-  alt: Macacos de Berberia en la reserva natural del Penon de Gibraltar
+- src: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
+  alt: The Rock of Gibraltar seen from the town
 - src: /images/actividades/malaga/gibraltar/dos-macacos-descansando.webp
   alt: Dos macacos descansando en el Penon de Gibraltar
 - src: /images/actividades/malaga/gibraltar/penon-cresta.webp

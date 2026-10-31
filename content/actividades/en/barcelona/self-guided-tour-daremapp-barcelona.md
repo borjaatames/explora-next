@@ -61,11 +61,11 @@ keywords:
 - self-guided barcelona tour
 - barcelona audio guide app
 - self-guided barcelona walking tour
-imagen: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
-imagenAlt: Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background
+imagen: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
+imagenAlt: Arches of the Barcelona Cathedral cloister and its garden
 galeria:
-- src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
-  alt: Arches of the Barcelona Cathedral cloister and its garden
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
+  alt: Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
   alt: Narrow street with balconies in Barcelona's old town
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp

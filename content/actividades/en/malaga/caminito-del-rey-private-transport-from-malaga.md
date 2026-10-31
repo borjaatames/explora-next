@@ -79,15 +79,15 @@ keywords:
 - caminito del rey day trip
 - caminito del rey with tickets
 - private caminito del rey
-imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
-imagenAlt: Caminito del Rey in the Gaitanes gorge
+imagen: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp
+imagenAlt: 'Walkways fixed to the rock on the Caminito del Rey'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp
-  alt: 'Walkways fixed to the rock on the Caminito del Rey'
+- src: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
+  alt: Caminito del Rey in the Gaitanes gorge
 - src: /images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp
   alt: 'Full view of the Caminito del Rey canyon'
 - src: /images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp

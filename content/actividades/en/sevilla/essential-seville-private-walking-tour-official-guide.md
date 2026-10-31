@@ -75,16 +75,16 @@ keywords:
 - private guide seville
 - seville walking tour official guide
 - private guided tour seville old town
-imagen: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
-imagenAlt: Seville Cathedral and the Giralda
+imagen: https://imgcdn.bokun.tools/dd1a7d18-ddb1-4dcc-8aa0-ed2814b683c0.jpg
+imagenAlt: Travellers on a tiled bench in Plaza de España
 ratingProveedor: 5.0
 numeroOpiniones: 22
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/dd1a7d18-ddb1-4dcc-8aa0-ed2814b683c0.jpg
-  alt: Travellers on a tiled bench in Plaza de España
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: Seville Cathedral and the Giralda
 - src: https://imgcdn.bokun.tools/30facdd2-c5c4-449e-beb6-20d98407ea17.jpg
   alt: Corner of the Santa Cruz quarter with a tiled panel
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp

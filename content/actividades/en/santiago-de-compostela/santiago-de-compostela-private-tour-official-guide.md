@@ -66,16 +66,16 @@ keywords:
 - santiago de compostela private tour
 - official guide santiago de compostela
 - santiago private walking tour
-imagen: /images/actividades/santiago-de-compostela/catedral/obradoiro-fachada.webp
-imagenAlt: Obradoiro façade of Santiago de Compostela Cathedral
+imagen: /images/actividades/santiago-de-compostela/casco/praterias.webp
+imagenAlt: Platerías Square
 publicada: true
 destacada: false
 fecha: '2026-10-28'
 galeria:
 - src: /images/actividades/santiago-de-compostela/catedral/catedral-ciudad.webp
   alt: Santiago Cathedral above the old-town rooftops
-- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: Platerías Square
+- src: /images/actividades/santiago-de-compostela/catedral/obradoiro-fachada.webp
+  alt: Obradoiro façade of Santiago de Compostela Cathedral
 - src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
   alt: Obradoiro Square with the Hostal de los Reyes Católicos
 - src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp

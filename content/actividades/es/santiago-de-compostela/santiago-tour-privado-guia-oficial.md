@@ -66,16 +66,16 @@ keywords:
 - santiago de compostela tour privado
 - guia oficial santiago de compostela
 - visita guiada privada santiago
-imagen: /images/actividades/santiago-de-compostela/catedral/obradoiro-fachada.webp
-imagenAlt: Fachada del Obradoiro de la catedral de Santiago de Compostela
+imagen: /images/actividades/santiago-de-compostela/casco/praterias.webp
+imagenAlt: Plaza de Platerías
 publicada: true
 destacada: false
 fecha: '2026-10-28'
 galeria:
 - src: /images/actividades/santiago-de-compostela/catedral/catedral-ciudad.webp
   alt: La catedral de Santiago sobre los tejados del casco histórico
-- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: Plaza de Platerías
+- src: /images/actividades/santiago-de-compostela/catedral/obradoiro-fachada.webp
+  alt: Fachada del Obradoiro de la catedral de Santiago de Compostela
 - src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
   alt: Plaza del Obradoiro con el Hostal de los Reyes Católicos
 - src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp

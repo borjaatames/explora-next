@@ -91,11 +91,11 @@ keywords:
 - tour centro madrid pequeño grupo
 - habsburgos madrid guia local
 - free tour madrid grupo pequeno
-imagen: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
-imagenAlt: Plaza Mayor de Madrid con la estatua ecuestre de Felipe III
+imagen: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp
+imagenAlt: Estatua del Oso y el Madroño en la Puerta del Sol, punto de salida del tour
 galeria:
-- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp
-  alt: Estatua del Oso y el Madroño en la Puerta del Sol, punto de salida del tour
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
+  alt: Plaza Mayor de Madrid con la estatua ecuestre de Felipe III
 - src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp
   alt: Fuente y estatua de Carlos III en la Puerta del Sol
 - src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp

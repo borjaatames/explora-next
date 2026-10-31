@@ -69,13 +69,13 @@ keywords:
 - alcazar seville tickets
 - alcazar seville skip the line
 - real alcazar entry
-imagen: /images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp
-imagenAlt: Patio interior del Real Alcazar de Sevilla
+imagen: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp
+imagenAlt: Detail of the Mudejar plasterwork of the Alcázar
 galeria:
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp
   alt: Mudejar arches of the Palace of Pedro I
-- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp
-  alt: Detail of the Mudejar plasterwork of the Alcázar
+- src: /images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp
+  alt: Patio interior del Real Alcazar de Sevilla
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-36481634.webp
   alt: Gardens of the Royal Alcázar of Seville
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp

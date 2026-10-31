@@ -78,8 +78,8 @@ keywords:
 - valencia en un dia
 - lonja de la seda y san nicolas
 - visita guiada valencia con comida
-imagen: /images/actividades/valencia/centro/lonja-fachada.webp
-imagenAlt: Fachada de la Lonja de la Seda de Valencia, Patrimonio de la Humanidad
+imagen: /images/actividades/valencia/lonja-paella/paella-valenciana.webp
+imagenAlt: Paella valenciana con pollo, judía verde y caracoles en un restaurante de Valencia
 publicada: true
 indexar: false
 destacada: false
@@ -87,8 +87,8 @@ fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/valencia/centro/mercado-central-interior.webp
   alt: Interior modernista del Mercado Central de Valencia
-- src: /images/actividades/valencia/lonja-paella/paella-valenciana.webp
-  alt: Paella valenciana con pollo, judía verde y caracoles en un restaurante de Valencia
+- src: /images/actividades/valencia/centro/lonja-fachada.webp
+  alt: Fachada de la Lonja de la Seda de Valencia, Patrimonio de la Humanidad
 - src: /images/actividades/valencia/lonja-horchata/horchata-farton.webp
   alt: Vasos de horchata con fartón en una horchatería valenciana
 - src: /images/actividades/valencia/lonja-paella/paella-fuego-lena.webp

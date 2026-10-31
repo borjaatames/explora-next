@@ -72,15 +72,15 @@ keywords:
 - cadiz guided tour from malaga
 - cadiz full day from malaga
 - private cadiz trip
-imagen: /images/actividades/cadiz/centro/catedral-tejados.webp
-imagenAlt: The cathedral above Cádiz rooftops
+imagen: https://imgcdn.bokun.tools/c0c1c3c1-7479-4259-a51b-76e5b16dc851.jpg
+imagenAlt: Cádiz Cathedral seen from the seafront
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/c0c1c3c1-7479-4259-a51b-76e5b16dc851.jpg
-  alt: Cádiz Cathedral seen from the seafront
+- src: /images/actividades/cadiz/centro/catedral-tejados.webp
+  alt: The cathedral above Cádiz rooftops
 - src: /images/actividades/cadiz/mar/caleta-balneario.webp
   alt: La Caleta beach and the old bathhouse
 - src: https://imgcdn.bokun.tools/777ac696-9df1-4765-badb-9932c37248c2.jpg

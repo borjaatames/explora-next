@@ -69,15 +69,15 @@ keywords:
 - excursion tarifa desde sevilla
 - baelo claudia y tarifa excursion
 - bolonia baelo claudia excursion privada
-imagen: /images/actividades/cadiz/baelo-claudia/baelo-claudia-01.webp
-imagenAlt: Ruinas romanas de Baelo Claudia junto al mar
+imagen: https://imgcdn.bokun.tools/538687cb-0599-4e48-9f20-03e6a8b0cec3.jpeg
+imagenAlt: Columnas de la basílica de Baelo Claudia frente al mar
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/538687cb-0599-4e48-9f20-03e6a8b0cec3.jpeg
-  alt: Columnas de la basílica de Baelo Claudia frente al mar
+- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-01.webp
+  alt: Ruinas romanas de Baelo Claudia junto al mar
 - src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-02.webp
   alt: Factoría de salazones de Baelo Claudia
 - src: https://imgcdn.bokun.tools/3a316ee4-483d-4a24-9fb7-6cf05800451c.jpeg

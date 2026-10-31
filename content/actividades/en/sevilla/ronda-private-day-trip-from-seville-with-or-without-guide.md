@@ -74,8 +74,8 @@ keywords:
 - ronda private day trip seville
 - ronda with driver from seville
 - ronda day trip from seville
-imagen: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
-imagenAlt: Ronda's Puente Nuevo over the Tajo gorge
+imagen: /images/actividades/sevilla/ronda/vista-tajo-puente-nuevo.webp
+imagenAlt: 'View of the Ronda gorge from the Puente Nuevo'
 ratingProveedor: 5.0
 numeroOpiniones: 6
 publicada: true
@@ -83,8 +83,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/sevilla/ronda/vista-tajo-puente-nuevo.webp
-  alt: 'View of the Ronda gorge from the Puente Nuevo'
+- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
+  alt: Ronda's Puente Nuevo over the Tajo gorge
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
   alt: 'Ronda old town'
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp

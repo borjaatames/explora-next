@@ -66,8 +66,8 @@ keywords:
 - guggenheim bilbao visita privada
 - guggenheim bilbao guia privado
 - visita guiada guggenheim con entrada
-imagen: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
-imagenAlt: Museo Guggenheim Bilbao junto a la ría
+imagen: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+imagenAlt: Fachada de titanio del Guggenheim
 publicada: true
 destacada: false
 fecha: '2026-10-28'
@@ -76,8 +76,8 @@ galeria:
   alt: El Guggenheim y la ría de Bilbao desde lo alto
 - src: /images/actividades/bilbao/guggenheim/maman-puente.webp
   alt: El museo con el puente de La Salve y la araña Mamá
-- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-  alt: Fachada de titanio del Guggenheim
+- src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
+  alt: Museo Guggenheim Bilbao junto a la ría
 - src: /images/actividades/bilbao/guggenheim/maman.webp
   alt: La escultura Mamá de Louise Bourgeois junto al museo
 - src: /images/actividades/bilbao/guggenheim/guggenheim-noche.webp

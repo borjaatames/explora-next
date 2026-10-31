@@ -75,16 +75,16 @@ keywords:
 - guia privado sevilla
 - sevilla a pie con guia oficial
 - visita guiada privada centro de sevilla
-imagen: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
-imagenAlt: Catedral de Sevilla y la Giralda
+imagen: https://imgcdn.bokun.tools/dd1a7d18-ddb1-4dcc-8aa0-ed2814b683c0.jpg
+imagenAlt: Viajeros en un banco de azulejos de la Plaza de España
 ratingProveedor: 5.0
 numeroOpiniones: 22
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/dd1a7d18-ddb1-4dcc-8aa0-ed2814b683c0.jpg
-  alt: Viajeros en un banco de azulejos de la Plaza de España
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: Catedral de Sevilla y la Giralda
 - src: https://imgcdn.bokun.tools/30facdd2-c5c4-449e-beb6-20d98407ea17.jpg
   alt: Rincón del barrio de Santa Cruz con un retablo de azulejos
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp

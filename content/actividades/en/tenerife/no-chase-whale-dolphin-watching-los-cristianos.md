@@ -83,13 +83,13 @@ keywords:
 - glass bottom catamaran tenerife
 - dolphins south tenerife
 - boat trip los cristianos
-imagen: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-imagenAlt: Pilot whales at the surface off the coast of Tenerife
+imagen: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
+imagenAlt: Boats moored in Los Cristianos harbour
 galeria:
 - src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
   alt: Whale-watching boat with passengers beside a pod of pilot whales in Tenerife
-- src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
-  alt: Boats moored in Los Cristianos harbour
+- src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
+  alt: Pilot whales at the surface off the coast of Tenerife
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
   alt: Short-finned pilot whale breathing at the surface
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp

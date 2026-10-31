@@ -79,11 +79,11 @@ keywords:
 - jet ski no licence tenerife
 - jet ski safari costa del silencio
 - marina san miguel jet ski
-imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
-imagenAlt: A jet ski riding the waves
+imagen: /images/actividades/tenerife/motos-agua/grupo-motos-agua-ruta.webp
+imagenAlt: Group of jet skis riding in a line on the open sea
 galeria:
-- src: /images/actividades/tenerife/motos-agua/grupo-motos-agua-ruta.webp
-  alt: Group of jet skis riding in a line on the open sea
+- src: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
+  alt: A jet ski riding the waves
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
   alt: Costa Adeje beach with the mountains behind
 - src: /images/actividades/tenerife/motos-agua/montana-roja-el-medano.webp

@@ -74,8 +74,8 @@ keywords:
 - excursion privada ronda desde sevilla
 - ronda excursion con chofer desde sevilla
 - ronda day trip sevilla
-imagen: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
-imagenAlt: Puente Nuevo de Ronda sobre el Tajo
+imagen: /images/actividades/sevilla/ronda/vista-tajo-puente-nuevo.webp
+imagenAlt: 'Vista del Tajo de Ronda desde el Puente Nuevo'
 ratingProveedor: 5.0
 numeroOpiniones: 6
 publicada: true
@@ -83,8 +83,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/sevilla/ronda/vista-tajo-puente-nuevo.webp
-  alt: 'Vista del Tajo de Ronda desde el Puente Nuevo'
+- src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
+  alt: Puente Nuevo de Ronda sobre el Tajo
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
   alt: 'Casco histórico de Ronda'
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casas-bajo-hero.webp

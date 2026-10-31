@@ -77,11 +77,11 @@ keywords:
 - gibraltar desde malaga
 - peñon de gibraltar
 - macacos gibraltar
-imagen: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
-imagenAlt: Peñón de Gibraltar visto desde la ciudad
+imagen: /images/actividades/malaga/gibraltar/macacos-reserva-natural.webp
+imagenAlt: Macacos de Berberia en la reserva natural del Penon de Gibraltar
 galeria:
-- src: /images/actividades/malaga/gibraltar/macacos-reserva-natural.webp
-  alt: Macacos de Berberia en la reserva natural del Penon de Gibraltar
+- src: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
+  alt: Peñón de Gibraltar visto desde la ciudad
 - src: /images/actividades/malaga/gibraltar/dos-macacos-descansando.webp
   alt: Dos macacos descansando en el Penon de Gibraltar
 - src: /images/actividades/malaga/gibraltar/penon-cresta.webp

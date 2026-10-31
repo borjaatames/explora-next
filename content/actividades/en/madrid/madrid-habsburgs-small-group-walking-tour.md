@@ -91,11 +91,11 @@ keywords:
 - central madrid small group tour
 - habsburg madrid local guide
 - madrid free tour small group
-imagen: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
-imagenAlt: Madrid's Plaza Mayor with the equestrian statue of Philip III
+imagen: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp
+imagenAlt: Bear and Strawberry Tree statue at Puerta del Sol, where the tour starts
 galeria:
-- src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-iconic-bear-strawberry-tree-statue-hero.webp
-  alt: Bear and Strawberry Tree statue at Puerta del Sol, where the tour starts
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
+  alt: Madrid's Plaza Mayor with the equestrian statue of Philip III
 - src: /images/actividades/madrid/puerta-sol/puerta-sol-madrid-building-spain-capital-city-hero.webp
   alt: Fountain and statue of Charles III at Puerta del Sol
 - src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp

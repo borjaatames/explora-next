@@ -104,13 +104,13 @@ keywords:
 - small group tour sevilla
 - city highlights sevilla walking
 - tour sevilla 4 9 estrellas
-imagen: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
-imagenAlt: Callejón del Agua en el barrio de Santa Cruz
+imagen: /images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp
+imagenAlt: Casas de colores del barrio de Triana junto al rio Guadalquivir
 galeria:
 - src: /images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp
   alt: Metropol Parasol (Las Setas) en Sevilla
-- src: /images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp
-  alt: Casas de colores del barrio de Triana junto al rio Guadalquivir
+- src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
+  alt: Callejón del Agua en el barrio de Santa Cruz
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp
   alt: La Giralda vista desde los muros del Real Alcázar
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-espana-2015-12-06-dd-133-135-hdr-hero.webp

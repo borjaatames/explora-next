@@ -67,15 +67,15 @@ keywords:
 - tapas sevilla tour privado
 - ruta de tapas triana
 - tabernas triana sevilla
-imagen: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-imagenAlt: Puente de Triana sobre el Guadalquivir
+imagen: https://imgcdn.bokun.tools/6319c4ac-da09-4f3c-a260-29e80538a2d0.jpg
+imagenAlt: Copa de vino y tapa de carne en salsa en la barra
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/6319c4ac-da09-4f3c-a260-29e80538a2d0.jpg
-  alt: Copa de vino y tapa de carne en salsa en la barra
+- src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
+  alt: Puente de Triana sobre el Guadalquivir
 - src: /images/actividades/sevilla/triana/triana-pexels-40246298.webp
   alt: Casas de colores de la calle Betis en Triana
 - src: https://imgcdn.bokun.tools/8236f07d-be67-4e29-bb18-1991868d6cdb.jpg

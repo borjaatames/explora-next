@@ -89,12 +89,12 @@ categoria: "toursGastronomicos"
 keywords: ["tour tapas granada", "tapas vino granada", "tour gourmet granada", "autoguiado tapas granada", "ruta tapas granada"]
 
 
-imagen: "/images/actividades/granada/wikimedia/granada-tapas-plato-05.webp"
-imagenAlt: "Vino tinto con tapas de queso y patatas en Granada"
+imagen: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero-hero.webp
+imagenAlt: "Puerta del Vino de la Alhambra de Granada al atardecer"
 
 galeria:
-  - src: "/images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero-hero.webp"
-    alt: "Puerta del Vino de la Alhambra de Granada al atardecer"
+  - src: /images/actividades/granada/wikimedia/granada-tapas-plato-05.webp
+    alt: "Vino tinto con tapas de queso y patatas en Granada"
   - src: "/images/actividades/granada/wikimedia/granada-san-nicolas-06.webp"
     alt: "Vista de Granada desde el mirador de San Nicolás"
   - src: "/images/actividades/granada/wikimedia/granada-noche-04.webp"

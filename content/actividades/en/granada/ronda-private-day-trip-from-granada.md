@@ -72,15 +72,15 @@ keywords:
 - private ronda tour
 - granada to ronda private car
 - ronda tour granada
-imagen: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
-imagenAlt: Ronda's Puente Nuevo and the houses above the gorge
+imagen: https://imgcdn.bokun.tools/a3e9afff-0a0a-48b7-a951-261b60a0fc1d.jpg
+imagenAlt: Aerial view of Ronda above the gorge
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/a3e9afff-0a0a-48b7-a951-261b60a0fc1d.jpg
-  alt: Aerial view of Ronda above the gorge
+- src: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
+  alt: Ronda's Puente Nuevo and the houses above the gorge
 - src: https://imgcdn.bokun.tools/472c87f7-1d34-494b-b4f1-d40081d6ff07.jpg
   alt: Couple in front of Ronda's Puente Nuevo
 - src: /images/actividades/granada/ronda/ronda-pixabay-7493552.webp

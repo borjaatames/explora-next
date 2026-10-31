@@ -76,16 +76,16 @@ keywords:
 - cordoba mosque private guide
 - cordoba jewish quarter tour
 - cordoba mosque and synagogue tour
-imagen: /images/actividades/cordoba/mezquita/arcos-perspectiva.webp
-imagenAlt: Perspective of red-and-white arches
+imagen: https://imgcdn.bokun.tools/4ba86944-8202-434a-8014-2da5d0648e93.jpg
+imagenAlt: The forest of two-tone arches in the Mosque-Cathedral
 ratingProveedor: 5
 numeroOpiniones: 130
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/4ba86944-8202-434a-8014-2da5d0648e93.jpg
-  alt: The forest of two-tone arches in the Mosque-Cathedral
+- src: /images/actividades/cordoba/mezquita/arcos-perspectiva.webp
+  alt: Perspective of red-and-white arches
 - src: https://imgcdn.bokun.tools/f01dc8d1-2175-45f4-a001-4cb11f59ad9b.jpg
   alt: Calleja de las Flores with the tower in the background
 - src: https://imgcdn.bokun.tools/393b890f-e597-4592-9d8a-31260cee3c1b.jpg

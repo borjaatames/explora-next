@@ -61,11 +61,11 @@ keywords:
 - tour autoguiado barcelona
 - audioguía app barcelona
 - visita autoguiada barcelona
-imagen: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
-imagenAlt: Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo
+imagen: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
+imagenAlt: Arcos del claustro de la Catedral de Barcelona y su jardín
 galeria:
-- src: /images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp
-  alt: Arcos del claustro de la Catedral de Barcelona y su jardín
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
+  alt: Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
   alt: Calle estrecha con balcones en el casco antiguo de Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp

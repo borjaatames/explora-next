@@ -75,15 +75,15 @@ keywords:
 - ronda y setenil desde malaga
 - tour ronda privado malaga
 - excursion ronda con guia
-imagen: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
-imagenAlt: Puente Nuevo de Ronda y las casas sobre el Tajo
+imagen: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
+imagenAlt: 'Arcos del Puente Nuevo de Ronda'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
-  alt: 'Arcos del Puente Nuevo de Ronda'
+- src: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
+  alt: Puente Nuevo de Ronda y las casas sobre el Tajo
 - src: /images/actividades/malaga/setenil/calle-casas-roca.webp
   alt: 'Calle de Setenil de las Bodegas con casas bajo la roca'
 - src: /images/actividades/malaga/setenil/panoramica.webp

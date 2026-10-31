@@ -72,15 +72,15 @@ keywords:
 - tour cadiz con guia desde malaga
 - cadiz dia completo malaga
 - excursion cadiz privada
-imagen: /images/actividades/cadiz/centro/catedral-tejados.webp
-imagenAlt: La catedral sobre los tejados de Cádiz
+imagen: https://imgcdn.bokun.tools/c0c1c3c1-7479-4259-a51b-76e5b16dc851.jpg
+imagenAlt: La catedral de Cádiz vista desde el paseo marítimo
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/c0c1c3c1-7479-4259-a51b-76e5b16dc851.jpg
-  alt: La catedral de Cádiz vista desde el paseo marítimo
+- src: /images/actividades/cadiz/centro/catedral-tejados.webp
+  alt: La catedral sobre los tejados de Cádiz
 - src: /images/actividades/cadiz/mar/caleta-balneario.webp
   alt: Playa de La Caleta y el balneario
 - src: https://imgcdn.bokun.tools/777ac696-9df1-4765-badb-9932c37248c2.jpg

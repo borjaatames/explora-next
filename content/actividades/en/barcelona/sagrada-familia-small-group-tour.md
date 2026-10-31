@@ -88,16 +88,16 @@ keywords:
 - sagrada familia accessible
 - sagrada familia wheelchair
 - sagrada familia skip the line tour
-imagen: "/images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-02.webp"
-imagenAlt: "Guide talking to the group in front of the Sagrada Familia"
+imagen: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-01.webp
+imagenAlt: "Nativity facade of the Sagrada Familia through the trees"
 ratingProveedor: 4.7
 numeroOpiniones: 3690
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
-- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-01.webp
-  alt: "Nativity facade of the Sagrada Familia through the trees"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-02.webp
+  alt: "Guide talking to the group in front of the Sagrada Familia"
 - src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-05.webp
   alt: "Vault and tree-like columns inside the Sagrada Familia"
 - src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-04.webp

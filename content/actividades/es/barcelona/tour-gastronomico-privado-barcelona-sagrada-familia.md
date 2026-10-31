@@ -83,15 +83,15 @@ keywords:
 - tapas y sagrada familia
 - tour privado tapas barcelona
 - sagrada familia entradas y tapas
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
-imagenAlt: Fachada de la Sagrada Familia con sus torres en Barcelona
+imagen: https://imgcdn.bokun.tools/4385db49-227b-4a9f-bb3b-3112f8a907f8.jpg
+imagenAlt: Pan con tomate y bravas con bebidas en una taberna
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/4385db49-227b-4a9f-bb3b-3112f8a907f8.jpg
-  alt: Pan con tomate y bravas con bebidas en una taberna
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
+  alt: Fachada de la Sagrada Familia con sus torres en Barcelona
 - src: https://imgcdn.bokun.tools/478bc5f6-7a31-43c2-b37a-330bab47c729.jpg
   alt: Viajeros haciéndose un selfi ante la Sagrada Familia
 - src: https://imgcdn.bokun.tools/99947dfe-05cc-46ba-ac2f-1c5ce4e793ea.jpg

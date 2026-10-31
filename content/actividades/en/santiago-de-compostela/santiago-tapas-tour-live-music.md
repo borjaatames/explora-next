@@ -74,11 +74,11 @@ keywords:
 - santiago de compostela food tour
 - where to eat in santiago
 - santiago food tour
-imagen: /images/actividades/santiago-de-compostela/tapas/pulpo.webp
-imagenAlt: A plate of pulpo á feira
+imagen: /images/actividades/santiago-de-compostela/tapas/pimientos-padron.webp
+imagenAlt: Plate of fried Padrón peppers at a tapas bar
 galeria:
-- src: /images/actividades/santiago-de-compostela/tapas/pimientos-padron.webp
-  alt: Plate of fried Padrón peppers at a tapas bar
+- src: /images/actividades/santiago-de-compostela/tapas/pulpo.webp
+  alt: A plate of pulpo á feira
 - src: /images/actividades/santiago-de-compostela/tapas/tortilla.webp
   alt: Spanish potato omelette
 - src: /images/actividades/santiago-de-compostela/tapas/mejillones.webp

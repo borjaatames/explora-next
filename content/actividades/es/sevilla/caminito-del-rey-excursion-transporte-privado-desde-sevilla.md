@@ -78,8 +78,8 @@ keywords:
 - excursion caminito del rey desde sevilla
 - caminito del rey transporte privado
 - caminito del rey entradas incluidas
-imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
-imagenAlt: Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes
+imagen: https://imgcdn.bokun.tools/b6a73f80-992c-4c3e-8470-c41b4a953417.jpg
+imagenAlt: Senderistas con casco en las pasarelas del Caminito
 ratingProveedor: 5.0
 numeroOpiniones: 4
 publicada: true
@@ -87,8 +87,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/b6a73f80-992c-4c3e-8470-c41b4a953417.jpg
-  alt: Senderistas con casco en las pasarelas del Caminito
+- src: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
+  alt: Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes
 - src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
   alt: Desfiladero de los Gaitanes desde las pasarelas
 - src: https://imgcdn.bokun.tools/73519bc9-7446-442e-bada-23c363e267fd.jpg

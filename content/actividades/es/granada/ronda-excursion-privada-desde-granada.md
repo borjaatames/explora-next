@@ -72,15 +72,15 @@ keywords:
 - tour privado ronda
 - granada ronda en coche privado
 - day trip ronda granada
-imagen: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
-imagenAlt: Puente Nuevo de Ronda y las casas sobre el Tajo
+imagen: https://imgcdn.bokun.tools/a3e9afff-0a0a-48b7-a951-261b60a0fc1d.jpg
+imagenAlt: Vista aérea de Ronda sobre el Tajo
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/a3e9afff-0a0a-48b7-a951-261b60a0fc1d.jpg
-  alt: Vista aérea de Ronda sobre el Tajo
+- src: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
+  alt: Puente Nuevo de Ronda y las casas sobre el Tajo
 - src: https://imgcdn.bokun.tools/472c87f7-1d34-494b-b4f1-d40081d6ff07.jpg
   alt: Pareja ante el Puente Nuevo de Ronda
 - src: /images/actividades/granada/ronda/ronda-pixabay-7493552.webp

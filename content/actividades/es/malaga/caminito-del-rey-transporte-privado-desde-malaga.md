@@ -79,15 +79,15 @@ keywords:
 - excursion caminito del rey
 - caminito del rey con entrada
 - caminito del rey privado
-imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
-imagenAlt: Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes
+imagen: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp
+imagenAlt: 'Pasarelas ancladas a la roca'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp
-  alt: 'Pasarelas ancladas a la roca'
+- src: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
+  alt: Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes
 - src: /images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp
   alt: 'Vista completa del cañón del Caminito del Rey'
 - src: /images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp

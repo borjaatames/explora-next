@@ -83,11 +83,11 @@ keywords:
 - off road lanzarote
 - penas del chache
 - things to do in lanzarote
-imagen: /images/actividades/lanzarote/buggy-volcanes.webp
-imagenAlt: A buggy on a dirt track among volcanoes in Lanzarote
+imagen: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
+imagenAlt: Cacti among volcanic rocks in Guatiza, northern Lanzarote
 galeria:
-- src: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
-  alt: Cacti among volcanic rocks in Guatiza, northern Lanzarote
+- src: /images/actividades/lanzarote/buggy-volcanes.webp
+  alt: A buggy on a dirt track among volcanoes in Lanzarote
 - src: /images/actividades/lanzarote/zonas/molino-jardin-cactus.webp
   alt: White windmill above the Jardín de Cactus in Guatiza
 - src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp

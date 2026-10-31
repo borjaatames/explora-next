@@ -84,11 +84,11 @@ keywords:
 - quad teide atardecer
 - quad guia de isora
 - ruta quad parque nacional teide
-imagen: /images/actividades/tenerife/quad/quad-pinar.webp
-imagenAlt: Quad levantando polvo en una pista de tierra entre pinos
+imagen: /images/actividades/tenerife/quad/quads-atardecer.webp
+imagenAlt: Dos quads con los faros encendidos al atardecer
 galeria:
-- src: /images/actividades/tenerife/quad/quads-atardecer.webp
-  alt: Dos quads con los faros encendidos al atardecer
+- src: /images/actividades/tenerife/quad/quad-pinar.webp
+  alt: Quad levantando polvo en una pista de tierra entre pinos
 - src: /images/actividades/tenerife/teide/roques-garcia-carretera.webp
   alt: Carretera junto a los Roques de García, en el Parque Nacional del Teide
 - src: /images/actividades/tenerife/teide/pico-viejo-volcan.webp

@@ -103,13 +103,13 @@ keywords:
 - barcelona top rated walking tour 4.9
 - barcelona hidden corners tour
 - barri gotic el born walking tour
-imagen: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
-imagenAlt: Pont del Bisbe, the Gothic bridge over Carrer del Bisbe
+imagen: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-hero.webp
+imagenAlt: Barcelona Cathedral spires against a blue sky
 galeria:
 - src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
   alt: Hidden alleys and medieval squares in Gothic Quarter and El Born Barcelona
-- src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-hero.webp
-  alt: Barcelona Cathedral spires against a blue sky
+- src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
+  alt: Pont del Bisbe, the Gothic bridge over Carrer del Bisbe
 - src: /images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp
   alt: Carved stone vault and lantern in the Gothic Quarter
 - src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp

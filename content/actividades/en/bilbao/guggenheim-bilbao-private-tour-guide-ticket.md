@@ -66,8 +66,8 @@ keywords:
 - guggenheim bilbao private tour
 - guggenheim bilbao private guide
 - guggenheim guided tour with ticket
-imagen: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
-imagenAlt: Guggenheim Museum Bilbao by the estuary
+imagen: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+imagenAlt: The Guggenheim's titanium façade
 publicada: true
 destacada: false
 fecha: '2026-10-28'
@@ -76,8 +76,8 @@ galeria:
   alt: The Guggenheim and the Bilbao estuary from above
 - src: /images/actividades/bilbao/guggenheim/maman-puente.webp
   alt: The museum with La Salve bridge and the Maman spider
-- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-  alt: The Guggenheim's titanium façade
+- src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
+  alt: Guggenheim Museum Bilbao by the estuary
 - src: /images/actividades/bilbao/guggenheim/maman.webp
   alt: Louise Bourgeois's Maman sculpture next to the museum
 - src: /images/actividades/bilbao/guggenheim/guggenheim-noche.webp

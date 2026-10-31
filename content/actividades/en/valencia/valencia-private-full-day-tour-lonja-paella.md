@@ -78,8 +78,8 @@ keywords:
 - valencia in a day
 - silk exchange and san nicolas
 - valencia guided tour with lunch
-imagen: /images/actividades/valencia/centro/lonja-fachada.webp
-imagenAlt: Facade of Valencia's Silk Exchange, a UNESCO World Heritage Site
+imagen: /images/actividades/valencia/lonja-paella/paella-valenciana.webp
+imagenAlt: Valencian paella with chicken, green beans and snails at a Valencia restaurant
 publicada: true
 indexar: false
 destacada: false
@@ -87,8 +87,8 @@ fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/valencia/centro/mercado-central-interior.webp
   alt: Modernist interior of Valencia's Central Market
-- src: /images/actividades/valencia/lonja-paella/paella-valenciana.webp
-  alt: Valencian paella with chicken, green beans and snails at a Valencia restaurant
+- src: /images/actividades/valencia/centro/lonja-fachada.webp
+  alt: Facade of Valencia's Silk Exchange, a UNESCO World Heritage Site
 - src: /images/actividades/valencia/lonja-horchata/horchata-farton.webp
   alt: Glasses of horchata with fartons in a Valencian horchatería
 - src: /images/actividades/valencia/lonja-paella/paella-fuego-lena.webp

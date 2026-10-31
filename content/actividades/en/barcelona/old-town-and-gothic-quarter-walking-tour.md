@@ -100,13 +100,13 @@ keywords:
 - old town barcelona walking tour
 - la rambla walking tour barcelona
 - barcelona old town spanish guide
-imagen: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
-imagenAlt: Barcelona Gothic Quarter medieval streets and Cathedral exterior
+imagen: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
+imagenAlt: Neo-Gothic bridge on Carrer del Bisbe
 galeria:
 - src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
   alt: Alley in Barcelona's Gothic Quarter
-- src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
-  alt: Neo-Gothic bridge on Carrer del Bisbe
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: Barcelona Gothic Quarter medieval streets and Cathedral exterior
 - src: /images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp
   alt: Gothic arch and street lamp in the Gothic Quarter
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp

@@ -81,15 +81,15 @@ keywords:
 - tour gibraltar monos cueva san miguel
 - gibraltar private tour malaga
 - excursion gibraltar con entradas
-imagen: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
-imagenAlt: Peñón de Gibraltar visto desde la ciudad
+imagen: /images/actividades/malaga/gibraltar/tuneles-asedio.webp
+imagenAlt: 'Túneles del Gran Asedio en el Peñón'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/malaga/gibraltar/tuneles-asedio.webp
-  alt: 'Túneles del Gran Asedio en el Peñón'
+- src: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
+  alt: Peñón de Gibraltar visto desde la ciudad
 - src: /images/actividades/malaga/gibraltar/macacos-familia.webp
   alt: 'Familia de macacos en el Peñón de Gibraltar'
 - src: /images/actividades/malaga/gibraltar/penon-cresta.webp

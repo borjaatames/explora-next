@@ -72,15 +72,15 @@ keywords:
 - mezquita cordoba desde malaga
 - tour cordoba privado
 - cordoba con guia desde malaga
-imagen: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
-imagenAlt: Arcos bicolores en el interior de la Mezquita-Catedral de Córdoba
+imagen: https://imgcdn.bokun.tools/c4835436-ff9c-493c-80b2-c79bbaa89227.jpg
+imagenAlt: Visitantes haciendo fotos en el interior de la Mezquita-Catedral
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/c4835436-ff9c-493c-80b2-c79bbaa89227.jpg
-  alt: Visitantes haciendo fotos en el interior de la Mezquita-Catedral
+- src: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
+  alt: Arcos bicolores en el interior de la Mezquita-Catedral de Córdoba
 - src: /images/actividades/cordoba/mezquita/puerta-perdon-torre.webp
   alt: Puerta del Perdón y torre campanario
 - src: https://imgcdn.bokun.tools/7602893a-f24c-4913-abf3-a7204934e979.jpg

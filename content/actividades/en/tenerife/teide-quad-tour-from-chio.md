@@ -84,11 +84,11 @@ keywords:
 - teide quad sunset
 - quad guia de isora
 - quad route teide national park
-imagen: /images/actividades/tenerife/quad/quad-pinar.webp
-imagenAlt: Quad bike kicking up dust on a dirt track through pines
+imagen: /images/actividades/tenerife/quad/quads-atardecer.webp
+imagenAlt: Two quad bikes with headlights on at dusk
 galeria:
-- src: /images/actividades/tenerife/quad/quads-atardecer.webp
-  alt: Two quad bikes with headlights on at dusk
+- src: /images/actividades/tenerife/quad/quad-pinar.webp
+  alt: Quad bike kicking up dust on a dirt track through pines
 - src: /images/actividades/tenerife/teide/roques-garcia-carretera.webp
   alt: Road beside the Roques de García in Teide National Park
 - src: /images/actividades/tenerife/teide/pico-viejo-volcan.webp

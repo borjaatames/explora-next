@@ -72,16 +72,16 @@ keywords:
 - excursion cordoba desde sevilla en tren
 - cordoba desde sevilla con guia privado
 - mezquita cordoba excursion tren
-imagen: /images/actividades/cordoba/mezquita/arcos-bosque-columnas.webp
-imagenAlt: Bosque de columnas y arcos bicolores de la Mezquita de Córdoba
+imagen: https://imgcdn.bokun.tools/7bcf05b6-3657-4a69-8ab5-28616e00823f.jpg
+imagenAlt: Arcos y columnas de la Mezquita de Córdoba
 ratingProveedor: 5.0
 numeroOpiniones: 8
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/7bcf05b6-3657-4a69-8ab5-28616e00823f.jpg
-  alt: Arcos y columnas de la Mezquita de Córdoba
+- src: /images/actividades/cordoba/mezquita/arcos-bosque-columnas.webp
+  alt: Bosque de columnas y arcos bicolores de la Mezquita de Córdoba
 - src: https://imgcdn.bokun.tools/40011c40-e146-4cff-b1cd-feb2445c84d6.jpg
   alt: Calle con flores y la torre de la Mezquita al fondo
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-dorado.webp

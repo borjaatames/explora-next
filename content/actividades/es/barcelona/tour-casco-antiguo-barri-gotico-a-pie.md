@@ -100,13 +100,13 @@ keywords:
 - casco antiguo barcelona andando
 - la rambla tour guiado
 - barcelona barri gotic español
-imagen: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
-imagenAlt: Calles medievales del Barri Gòtic y exterior de la Catedral de Barcelona
+imagen: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
+imagenAlt: Puente neogótico de la calle del Bisbe
 galeria:
 - src: /images/actividades/barcelona/barrio-gotico/pexels-20358173-hero.webp
   alt: Callejón del Barrio Gótico de Barcelona
-- src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
-  alt: Puente neogótico de la calle del Bisbe
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: Calles medievales del Barri Gòtic y exterior de la Catedral de Barcelona
 - src: /images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp
   alt: Arco gótico y farola en el Barrio Gótico
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp

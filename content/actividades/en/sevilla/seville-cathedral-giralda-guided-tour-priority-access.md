@@ -111,11 +111,11 @@ keywords:
 - seville cathedral skip line english
 - cathedral seville french guide
 - cathedral seville german guide
-imagen: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
-imagenAlt: Gilded Gothic vaults of Seville Cathedral's nave
+imagen: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+imagenAlt: Palm trees beside the Gothic walls of Seville Cathedral
 galeria:
-- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
-  alt: Palm trees beside the Gothic walls of Seville Cathedral
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
+  alt: Gilded Gothic vaults of Seville Cathedral's nave
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-34521081.webp
   alt: The Giralda bell tower framed by orange trees
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp

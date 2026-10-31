@@ -83,11 +83,11 @@ keywords:
 - ubeda baeza unesco
 - ubeda day trip granada
 - discovering spain ubeda
-imagen: /images/actividades/granada/ubeda/ubeda-wikimedia-plaza-v-zquez-de-molina-beda-jpg.webp
-imagenAlt: Plaza Vázquez de Molina in Úbeda, with the Sacra Capilla del Salvador
+imagen: /images/actividades/granada/ubeda/ubeda-pexels-35267673.webp
+imagenAlt: Renaissance courtyard of the Hospital de Santiago in Úbeda
 galeria:
-- src: /images/actividades/granada/ubeda/ubeda-pexels-35267673.webp
-  alt: Renaissance courtyard of the Hospital de Santiago in Úbeda
+- src: /images/actividades/granada/ubeda/ubeda-wikimedia-plaza-v-zquez-de-molina-beda-jpg.webp
+  alt: Plaza Vázquez de Molina in Úbeda, with the Sacra Capilla del Salvador
 - src: /images/actividades/granada/ubeda/ubeda-pixabay-1747773.webp
   alt: Carvings on the doorway of the Sacra Capilla del Salvador
 - src: /images/actividades/granada/ubeda/ubeda-wikimedia-palacio-de-v-zquez-de-molina-o-de-las-cadenas-sede.webp

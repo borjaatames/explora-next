@@ -65,11 +65,11 @@ keywords:
 - malaga cathedral tour
 - malaga cathedral tickets
 - la manquita malaga
-imagen: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
-imagenAlt: Main facade of Málaga Cathedral
+imagen: /images/actividades/malaga/catedral-malaga/catedral-malaga-02.webp
+imagenAlt: Málaga Cathedral with its single tower
 galeria:
-- src: /images/actividades/malaga/catedral-malaga/catedral-malaga-02.webp
-  alt: Málaga Cathedral with its single tower
+- src: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
+  alt: Main facade of Málaga Cathedral
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-03.webp
   alt: Carved wooden choir of Málaga Cathedral
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-04.webp

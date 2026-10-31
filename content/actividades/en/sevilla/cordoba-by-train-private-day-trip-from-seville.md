@@ -72,16 +72,16 @@ keywords:
 - cordoba day trip from seville by train
 - cordoba private guide from seville
 - mezquita cordoba train day trip
-imagen: /images/actividades/cordoba/mezquita/arcos-bosque-columnas.webp
-imagenAlt: Forest of columns and two-tone arches in the Mosque of Córdoba
+imagen: https://imgcdn.bokun.tools/7bcf05b6-3657-4a69-8ab5-28616e00823f.jpg
+imagenAlt: Arches and columns of the Mosque of Córdoba
 ratingProveedor: 5.0
 numeroOpiniones: 8
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/7bcf05b6-3657-4a69-8ab5-28616e00823f.jpg
-  alt: Arches and columns of the Mosque of Córdoba
+- src: /images/actividades/cordoba/mezquita/arcos-bosque-columnas.webp
+  alt: Forest of columns and two-tone arches in the Mosque of Córdoba
 - src: https://imgcdn.bokun.tools/40011c40-e146-4cff-b1cd-feb2445c84d6.jpg
   alt: Flower-lined street with the Mosque tower behind
 - src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-dorado.webp

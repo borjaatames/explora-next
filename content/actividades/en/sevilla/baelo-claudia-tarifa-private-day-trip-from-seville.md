@@ -69,15 +69,15 @@ keywords:
 - tarifa day trip from seville
 - baelo claudia and tarifa tour
 - bolonia baelo claudia private tour
-imagen: /images/actividades/cadiz/baelo-claudia/baelo-claudia-01.webp
-imagenAlt: Roman ruins of Baelo Claudia by the sea
+imagen: https://imgcdn.bokun.tools/538687cb-0599-4e48-9f20-03e6a8b0cec3.jpeg
+imagenAlt: Columns of the Baelo Claudia basilica facing the sea
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/538687cb-0599-4e48-9f20-03e6a8b0cec3.jpeg
-  alt: Columns of the Baelo Claudia basilica facing the sea
+- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-01.webp
+  alt: Roman ruins of Baelo Claudia by the sea
 - src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-02.webp
   alt: Fish-salting factory at Baelo Claudia
 - src: https://imgcdn.bokun.tools/3a316ee4-483d-4a24-9fb7-6cf05800451c.jpeg

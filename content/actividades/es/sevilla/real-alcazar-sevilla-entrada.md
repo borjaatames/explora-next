@@ -69,13 +69,13 @@ keywords:
 - alcazar sevilla entradas
 - alcazar sevilla sin colas
 - real alcazar tickets
-imagen: /images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp
-imagenAlt: Patio interior del Real Alcazar de Sevilla
+imagen: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp
+imagenAlt: Detalle de las yeserías mudéjares del Alcázar
 galeria:
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp
   alt: Arcos mudéjares del Palacio de Pedro I
-- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp
-  alt: Detalle de las yeserías mudéjares del Alcázar
+- src: /images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp
+  alt: Patio interior del Real Alcazar de Sevilla
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-36481634.webp
   alt: Jardines del Real Alcázar de Sevilla
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp

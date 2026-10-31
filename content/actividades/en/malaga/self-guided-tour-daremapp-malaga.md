@@ -60,11 +60,11 @@ keywords:
 - self-guided tour malaga
 - malaga audio tour
 - malaga self-guided app tour
-imagen: /images/actividades/malaga/alcazaba/panoramica-malaga.webp
-imagenAlt: Panorama of Málaga from the Alcazaba
+imagen: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
+imagenAlt: Walls of the Alcazaba of Málaga
 galeria:
-- src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
-  alt: Walls of the Alcazaba of Málaga
+- src: /images/actividades/malaga/alcazaba/panoramica-malaga.webp
+  alt: Panorama of Málaga from the Alcazaba
 - src: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp
   alt: Málaga's Roman Theatre with the Alcazaba behind
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp

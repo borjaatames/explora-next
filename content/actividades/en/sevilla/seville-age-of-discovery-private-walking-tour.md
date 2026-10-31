@@ -72,15 +72,15 @@ keywords:
 - seville gateway to the americas tour
 - magellan tour seville
 - private history walking tour seville
-imagen: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
-imagenAlt: Torre del Oro on the Guadalquivir
+imagen: https://imgcdn.bokun.tools/2ac9cb53-6f46-420d-aea7-e07412f18ec1.jpg
+imagenAlt: The Guadalquivir and the Triana riverbank
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/2ac9cb53-6f46-420d-aea7-e07412f18ec1.jpg
-  alt: The Guadalquivir and the Triana riverbank
+- src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
+  alt: Torre del Oro on the Guadalquivir
 - src: /images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp
   alt: General Archive of the Indies
 - src: https://imgcdn.bokun.tools/1ae2bfac-5c64-4be0-9710-d18b2d39f969.jpg

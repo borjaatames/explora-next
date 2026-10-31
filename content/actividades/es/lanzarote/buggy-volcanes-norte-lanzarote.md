@@ -83,11 +83,11 @@ keywords:
 - off road lanzarote
 - penas del chache
 - actividades lanzarote
-imagen: /images/actividades/lanzarote/buggy-volcanes.webp
-imagenAlt: Buggy por una pista de tierra entre volcanes en Lanzarote
+imagen: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
+imagenAlt: Cactus entre rocas volcánicas en Guatiza, al norte de Lanzarote
 galeria:
-- src: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
-  alt: Cactus entre rocas volcánicas en Guatiza, al norte de Lanzarote
+- src: /images/actividades/lanzarote/buggy-volcanes.webp
+  alt: Buggy por una pista de tierra entre volcanes en Lanzarote
 - src: /images/actividades/lanzarote/zonas/molino-jardin-cactus.webp
   alt: Molino blanco sobre el Jardín de Cactus de Guatiza
 - src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp

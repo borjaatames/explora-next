@@ -74,15 +74,15 @@ keywords:
 - arcos zahara grazalema tour
 - white villages with driver cadiz
 - private day trip from cadiz
-imagen: /images/actividades/cadiz/pueblos/zahara.webp
-imagenAlt: Zahara de la Sierra below its castle
+imagen: /images/actividades/cadiz/pueblos/arcos-frontera-pena-rio.webp
+imagenAlt: Arcos de la Frontera on its crag, with the Guadalete river below
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/cadiz/pueblos/arcos-frontera-pena-rio.webp
-  alt: Arcos de la Frontera on its crag, with the Guadalete river below
+- src: /images/actividades/cadiz/pueblos/zahara.webp
+  alt: Zahara de la Sierra below its castle
 - src: /images/actividades/cadiz/pueblos/arcos-frontera-acantilado.webp
   alt: White houses of Arcos de la Frontera on the edge of the cliff
 - src: /images/actividades/cadiz/pueblos/zahara-embalse.webp

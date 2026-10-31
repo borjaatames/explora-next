@@ -74,11 +74,11 @@ keywords:
 - ruta de tapas santiago de compostela
 - donde comer en santiago
 - tour gastronomico santiago
-imagen: /images/actividades/santiago-de-compostela/tapas/pulpo.webp
-imagenAlt: Ración de pulpo á feira
+imagen: /images/actividades/santiago-de-compostela/tapas/pimientos-padron.webp
+imagenAlt: Pimientos de Padrón
 galeria:
-- src: /images/actividades/santiago-de-compostela/tapas/pimientos-padron.webp
-  alt: Pimientos de Padrón
+- src: /images/actividades/santiago-de-compostela/tapas/pulpo.webp
+  alt: Ración de pulpo á feira
 - src: /images/actividades/santiago-de-compostela/tapas/tortilla.webp
   alt: Tortilla de patatas
 - src: /images/actividades/santiago-de-compostela/tapas/mejillones.webp

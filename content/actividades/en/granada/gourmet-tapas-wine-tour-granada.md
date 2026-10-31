@@ -65,11 +65,11 @@ keywords:
 - granada tapas crawl
 - tapas tour granada local guide
 - granada food tour
-imagen: /images/actividades/granada/wikimedia/granada-tapas-plato-05.webp
-imagenAlt: Red wine with cheese and potato tapas in Granada
+imagen: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero-hero.webp
+imagenAlt: Puerta del Vino de la Alhambra de Granada al atardecer
 galeria:
-- src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero-hero.webp
-  alt: Puerta del Vino de la Alhambra de Granada al atardecer
+- src: /images/actividades/granada/wikimedia/granada-tapas-plato-05.webp
+  alt: Red wine with cheese and potato tapas in Granada
 - src: /images/actividades/granada/wikimedia/granada-san-nicolas-06.webp
   alt: View of Granada from the San Nicolás viewpoint
 - src: /images/actividades/granada/wikimedia/granada-noche-04.webp

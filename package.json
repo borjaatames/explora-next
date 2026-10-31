@@ -5,11 +5,12 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "prebuild": "tsx scripts/audit-parejas.ts && tsx scripts/audit-enlaces-afiliados.ts",
+    "prebuild": "tsx scripts/audit-parejas.ts && tsx scripts/audit-enlaces-afiliados.ts && tsx scripts/audit-imagen-principal.ts",
     "start": "next start",
     "lint": "next lint",
     "audit:parejas": "tsx scripts/audit-parejas.ts",
     "audit:enlaces": "tsx scripts/audit-enlaces-afiliados.ts",
+    "audit:imagenes": "tsx scripts/audit-imagen-principal.ts",
     "verificar:precios": "tsx scripts/verificar-precios.ts",
     "descubrir:viator": "tsx scripts/descubrir-viator.ts",
     "indexnow": "tsx scripts/indexnow.ts"

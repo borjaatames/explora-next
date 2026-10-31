@@ -85,8 +85,8 @@ keywords:
 - enoturismo madrid
 - tour vino chinchon
 - bodegas region de madrid
-imagen: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp
-imagenAlt: Copa de vino tinto sirviéndose durante una cata en bodega
+imagen: /images/actividades/madrid/chinchon/pexels-36878591-hero.webp
+imagenAlt: Soportales y balcones de Chinchón
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp
   alt: Jamones ibéricos colgados sobre la barra de un bar
@@ -96,8 +96,8 @@ galeria:
   alt: Copas de vino en la cata
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
   alt: Barricas en una bodega
-- src: /images/actividades/madrid/chinchon/pexels-36878591-hero.webp
-  alt: Soportales y balcones de Chinchón
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp
+  alt: Copa de vino tinto sirviéndose durante una cata en bodega
 - src: /images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp
   alt: Botella de vino tinto y dos copas servidas
 - src: /images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp

@@ -59,11 +59,11 @@ keywords:
 - self-guided córdoba tour
 - córdoba audio guide app
 - self-guided córdoba walking tour
-imagen: /images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp
-imagenAlt: The Mosque-Cathedral by the Guadalquivir
+imagen: /images/actividades/cordoba/juderia/juderia-cordoba-unsplash-h009mqfRvTw.jpg
+imagenAlt: Street in Córdoba's Jewish quarter
 galeria:
-- src: /images/actividades/cordoba/juderia/juderia-cordoba-unsplash-h009mqfRvTw.jpg
-  alt: Street in Córdoba's Jewish quarter
+- src: /images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp
+  alt: The Mosque-Cathedral by the Guadalquivir
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
   alt: Mosque-Cathedral tower, opposite the tablao
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp

@@ -60,11 +60,11 @@ keywords:
 - tour autoguiado málaga
 - audioguía málaga
 - visita autoguiada málaga app
-imagen: /images/actividades/malaga/alcazaba/panoramica-malaga.webp
-imagenAlt: Panorámica de Málaga desde la Alcazaba
+imagen: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
+imagenAlt: Murallas de la Alcazaba de Málaga
 galeria:
-- src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
-  alt: Murallas de la Alcazaba de Málaga
+- src: /images/actividades/malaga/alcazaba/panoramica-malaga.webp
+  alt: Panorámica de Málaga desde la Alcazaba
 - src: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp
   alt: Teatro Romano de Málaga con la Alcazaba al fondo
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp

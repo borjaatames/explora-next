@@ -76,16 +76,16 @@ keywords:
 - mezquita cordoba guia privado
 - juderia cordoba tour
 - tour cordoba mezquita y sinagoga
-imagen: /images/actividades/cordoba/mezquita/arcos-perspectiva.webp
-imagenAlt: Perspectiva de arcos rojos y blancos
+imagen: https://imgcdn.bokun.tools/4ba86944-8202-434a-8014-2da5d0648e93.jpg
+imagenAlt: Bosque de arcos bicolores de la Mezquita-Catedral
 ratingProveedor: 5
 numeroOpiniones: 130
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/4ba86944-8202-434a-8014-2da5d0648e93.jpg
-  alt: Bosque de arcos bicolores de la Mezquita-Catedral
+- src: /images/actividades/cordoba/mezquita/arcos-perspectiva.webp
+  alt: Perspectiva de arcos rojos y blancos
 - src: https://imgcdn.bokun.tools/f01dc8d1-2175-45f4-a001-4cb11f59ad9b.jpg
   alt: Calleja de las Flores con la torre al fondo
 - src: https://imgcdn.bokun.tools/393b890f-e597-4592-9d8a-31260cee3c1b.jpg

@@ -79,16 +79,16 @@ keywords:
 - alhambra tour privado
 - entradas monumentos granada
 - alhambra capilla real entradas
-imagen: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
-imagenAlt: Patio de los Leones en los Palacios Nazaríes
+imagen: https://imgcdn.bokun.tools/99050210-6734-4be4-8873-c7675008c167.jpg
+imagenAlt: Patio de los Arrayanes reflejado en el estanque
 ratingProveedor: 4.9
 numeroOpiniones: 24
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/99050210-6734-4be4-8873-c7675008c167.jpg
-  alt: Patio de los Arrayanes reflejado en el estanque
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: Patio de los Leones en los Palacios Nazaríes
 - src: https://imgcdn.bokun.tools/dc68bb50-8782-4ce9-84c0-48fb09432aac.jpg
   alt: Fuentes del Patio de la Acequia en el Generalife
 - src: https://imgcdn.bokun.tools/355fe27d-9565-4bcb-81af-2f4a9993d4c5.jpg

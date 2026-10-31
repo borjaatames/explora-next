@@ -96,15 +96,15 @@ keywords:
 - mercado encarnacion tour
 - seville culinary tour
 - ultimate food tour seville
-imagen: /images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp
-imagenAlt: A bottle of red wine and two filled glasses
+imagen: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-sevilla-jpg-03.webp
+imagenAlt: Ham and deli stalls inside the Mercado de Triana
 galeria:
 - src: /images/actividades/sevilla/setas/setas-pexels-18536662.webp
   alt: Wooden waves of the Setas de Sevilla against the sky
 - src: /images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp
   alt: Metropol Parasol over Plaza de la Encarnación
-- src: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-sevilla-jpg-03.webp
-  alt: Ham and deli stalls inside the Mercado de Triana
+- src: /images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp
+  alt: A bottle of red wine and two filled glasses
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
   alt: Callejón del Agua in the Santa Cruz quarter
 - src: /images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp

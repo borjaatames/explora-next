@@ -71,11 +71,11 @@ keywords:
 - alhambra general admission
 - nasrid palaces ticket
 - alhambra without guide
-imagen: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
-imagenAlt: Aerial view of the Alhambra in Granada with the Sierra Nevada behind
+imagen: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+imagenAlt: Court of the Lions in the Nasrid Palaces
 galeria:
-- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
-  alt: Court of the Lions in the Nasrid Palaces
+- src: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
+  alt: Aerial view of the Alhambra in Granada with the Sierra Nevada behind
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
   alt: Wine Gate at the Alhambra of Granada
 - src: /images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp

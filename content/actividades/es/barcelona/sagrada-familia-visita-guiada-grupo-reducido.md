@@ -88,16 +88,16 @@ keywords:
 - sagrada familia accesible
 - sagrada familia silla de ruedas
 - tour sagrada familia sin colas
-imagen: "/images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-02.webp"
-imagenAlt: "Guía explicando al grupo frente a la Sagrada Familia"
+imagen: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-01.webp
+imagenAlt: "Fachada del Nacimiento de la Sagrada Familia entre árboles"
 ratingProveedor: 4.7
 numeroOpiniones: 3690
 publicada: true
 destacada: false
 fecha: '2026-05-15'
 galeria:
-- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-01.webp
-  alt: "Fachada del Nacimiento de la Sagrada Familia entre árboles"
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-02.webp
+  alt: "Guía explicando al grupo frente a la Sagrada Familia"
 - src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-05.webp
   alt: "Bóveda y columnas en forma de árbol del interior de la Sagrada Familia"
 - src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-04.webp

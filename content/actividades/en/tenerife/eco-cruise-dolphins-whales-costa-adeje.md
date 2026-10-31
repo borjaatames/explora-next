@@ -81,13 +81,13 @@ keywords:
 - boat trip puerto colon
 - eco cruise tenerife
 - whale watching tenerife with lunch
-imagen: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
-imagenAlt: Sailing boat with passengers beside pilot whales off the south coast of Tenerife
+imagen: /images/actividades/tenerife/gigantes/gigantes-mar.webp
+imagenAlt: Los Gigantes cliffs above the sea
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
   alt: Pilot whales at the surface off Tenerife
-- src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-  alt: Los Gigantes cliffs above the sea
+- src: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
+  alt: Sailing boat with passengers beside pilot whales off the south coast of Tenerife
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
   alt: Short-finned pilot whale up close
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp

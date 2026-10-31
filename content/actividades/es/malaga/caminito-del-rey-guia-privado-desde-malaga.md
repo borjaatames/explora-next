@@ -68,15 +68,15 @@ keywords:
 - caminito del rey privado
 - caminito del rey desde malaga guia privado
 - excursion privada caminito del rey
-imagen: /images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp
-imagenAlt: Pasarelas del Caminito del Rey colgadas de la pared del desfiladero
+imagen: /images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp
+imagenAlt: Vista del cañón con el puente verde del Caminito del Rey
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-28'
 galeria:
-- src: /images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp
-  alt: Vista del cañón con el puente verde del Caminito del Rey
+- src: /images/actividades/malaga/caminito-del-rey/pasarelas-turistas.webp
+  alt: Pasarelas del Caminito del Rey colgadas de la pared del desfiladero
 - src: /images/actividades/malaga/caminito-del-rey/puente-colgante-rio-verde.webp
   alt: Puente colgante sobre el desfiladero de los Gaitanes
 - src: /images/actividades/malaga/caminito-del-rey/pasarela.webp

@@ -72,15 +72,15 @@ keywords:
 - cordoba mosque from malaga
 - private cordoba tour
 - cordoba with guide from malaga
-imagen: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
-imagenAlt: Two-tone arches inside the Mosque-Cathedral of Córdoba
+imagen: https://imgcdn.bokun.tools/c4835436-ff9c-493c-80b2-c79bbaa89227.jpg
+imagenAlt: Visitors taking photos inside the Mosque-Cathedral
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/c4835436-ff9c-493c-80b2-c79bbaa89227.jpg
-  alt: Visitors taking photos inside the Mosque-Cathedral
+- src: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
+  alt: Two-tone arches inside the Mosque-Cathedral of Córdoba
 - src: /images/actividades/cordoba/mezquita/puerta-perdon-torre.webp
   alt: Door of Forgiveness and bell tower
 - src: https://imgcdn.bokun.tools/7602893a-f24c-4913-abf3-a7204934e979.jpg

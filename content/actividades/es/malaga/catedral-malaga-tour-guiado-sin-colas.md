@@ -65,11 +65,11 @@ keywords:
 - catedral de malaga visita guiada
 - catedral malaga entradas
 - la manquita
-imagen: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
-imagenAlt: Fachada principal de la catedral de Málaga
+imagen: /images/actividades/malaga/catedral-malaga/catedral-malaga-02.webp
+imagenAlt: Catedral de Málaga con su única torre
 galeria:
-- src: /images/actividades/malaga/catedral-malaga/catedral-malaga-02.webp
-  alt: Catedral de Málaga con su única torre
+- src: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
+  alt: Fachada principal de la catedral de Málaga
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-03.webp
   alt: Coro de madera tallada de la catedral de Málaga
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-04.webp

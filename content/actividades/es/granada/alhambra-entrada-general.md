@@ -71,11 +71,11 @@ keywords:
 - alhambra entrada general
 - palacios nazaries entrada
 - alhambra sin guia
-imagen: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
-imagenAlt: Vista aérea de la Alhambra de Granada con Sierra Nevada al fondo
+imagen: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
+imagenAlt: Patio de los Leones en los Palacios Nazaríes
 galeria:
-- src: /images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp
-  alt: Patio de los Leones en los Palacios Nazaríes
+- src: /images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp
+  alt: Vista aérea de la Alhambra de Granada con Sierra Nevada al fondo
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
   alt: Puerta del Vino en la Alhambra de Granada
 - src: /images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp

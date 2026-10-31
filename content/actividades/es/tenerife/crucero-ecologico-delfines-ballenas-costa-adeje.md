@@ -81,13 +81,13 @@ keywords:
 - excursion barco puerto colon
 - crucero ecologico tenerife
 - ballenas tenerife con comida
-imagen: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
-imagenAlt: Velero con pasajeros junto a calderones frente a la costa sur de Tenerife
+imagen: /images/actividades/tenerife/gigantes/gigantes-mar.webp
+imagenAlt: Acantilados de Los Gigantes sobre el mar
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
   alt: Calderones nadando en superficie frente a Tenerife
-- src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-  alt: Acantilados de Los Gigantes sobre el mar
+- src: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
+  alt: Velero con pasajeros junto a calderones frente a la costa sur de Tenerife
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
   alt: Calderón tropical de cerca
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp

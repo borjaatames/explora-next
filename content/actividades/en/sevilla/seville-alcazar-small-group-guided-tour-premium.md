@@ -105,13 +105,13 @@ keywords:
 - alcazar wheelchair accessible tour
 - alcazar private group max 10
 - seville unique experiences alcazar
-imagen: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp
-imagenAlt: Gilded ceiling of a hall in the Real Alcázar of Seville
+imagen: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
+imagenAlt: Courtyard of the Maidens in the Royal Alcázar
 galeria:
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
   alt: Baths of Doña María de Padilla in the Royal Alcázar
-- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
-  alt: Courtyard of the Maidens in the Royal Alcázar
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp
+  alt: Gilded ceiling of a hall in the Real Alcázar of Seville
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp
   alt: Mudéjar plasterwork arches in the Real Alcázar
 - src: /images/actividades/sevilla/alcazar-extra/banos-dona-maria-padilla.webp
