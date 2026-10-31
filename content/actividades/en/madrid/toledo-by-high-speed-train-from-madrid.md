@@ -105,11 +105,12 @@ galeria:
   alt: Historic streets and Gothic architecture of Toledo
 ratingProveedor: 4.8
 numeroOpiniones: 81
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-05-06'
 fecha_actualizacion: '2026-10-25'
+reemplazadaPor: toledo-full-day-from-madrid
 ---
 
 ## What you will see

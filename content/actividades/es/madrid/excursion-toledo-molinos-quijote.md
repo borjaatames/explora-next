@@ -71,7 +71,6 @@ preguntasFrecuentes:
   respuesta: El guía habla en español (o italiano). Para inglés, alemán, francés e italiano hay audios durante todo el recorrido.
 variantes:
 - excursion-toledo-dia-completo
-- excursion-toledo-ave-tren
 opinionEditorial: 'Combina lo mejor de La Mancha con Toledo en un solo día y en grupo pequeño, y se nota en las reseñas: 4,9 sobre 5. Los molinos de Consuegra son de las estampas más bonitas de España y no es fácil llegar sin coche. Es más cara que un bus grande, pero el formato lo compensa.'
 atraccionesRelacionadas:
 - toledo

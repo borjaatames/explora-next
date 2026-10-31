@@ -27,7 +27,6 @@ actividades:
   - toledo-pulsera-turistica-7-monumentos
   - toledo-catedral-visita-guiada
   - excursion-avila-segovia-con-entradas
-  - excursion-toledo-ave-tren
   - excursion-toledo-molinos-quijote
   - excursion-chinchon-aranjuez-toledo
   - excursion-alcala-henares-bodega-privada

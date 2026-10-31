@@ -105,11 +105,12 @@ galeria:
   alt: Calles historicas toledo striking view gothic architecture en Calles historicas toledo
 ratingProveedor: 4.8
 numeroOpiniones: 81
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-05-06'
 fecha_actualizacion: '2026-10-25'
+reemplazadaPor: excursion-toledo-dia-completo
 ---
 
 ## Qué vas a ver

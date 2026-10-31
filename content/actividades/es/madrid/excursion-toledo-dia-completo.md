@@ -67,7 +67,6 @@ preguntasFrecuentes:
 - pregunta: ¿A qué hora se vuelve a Madrid?
   respuesta: La excursión dura unas 8 horas en total, con aproximadamente 1 hora de trayecto en cada sentido.
 variantes:
-- excursion-toledo-ave-tren
 - excursion-toledo-segovia-alcazar
 - excursion-toledo-molinos-quijote
 opinionEditorial: 'Es la forma más completa de ver Toledo en un día desde Madrid sin preocuparte de nada: el bus, el guía y las tres entradas clave van incluidos. La Catedral sola ya justifica el viaje, y Santo Tomé con El Greco es imprescindible. Si buscas algo más rápido y en grupo pequeño, mira la opción en AVE.'

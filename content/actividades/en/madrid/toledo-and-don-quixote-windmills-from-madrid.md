@@ -71,7 +71,6 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish (or Italian). English, German, French and Italian are covered by audio throughout the tour.
 variantes:
 - toledo-full-day-from-madrid
-- toledo-by-high-speed-train-from-madrid
 opinionEditorial: 'It combines the best of La Mancha with Toledo in one day and in a small group, and the reviews show it: 4.9 out of 5. The Consuegra windmills are one of Spain''s prettiest sights and hard to reach without a car. It costs more than a big coach tour, but the format makes up for it.'
 atraccionesRelacionadas:
 - toledo

@@ -67,7 +67,6 @@ preguntasFrecuentes:
 - pregunta: How long is the day?
   respuesta: About 8 hours in total, with roughly 1 hour of travel each way.
 variantes:
-- toledo-by-high-speed-train-from-madrid
 - toledo-and-segovia-with-alcazar-from-madrid
 - toledo-and-don-quixote-windmills-from-madrid
 opinionEditorial: 'The most complete way to see Toledo in a day from Madrid without arranging anything: coach, guide and the three key tickets are all included. The Cathedral alone is worth the trip, and El Greco at Santo Tomé is a must. If you want something faster in a small group, see the high-speed train option.'

@@ -22,13 +22,12 @@ slugs:
   en: toledo-day-trip-from-madrid
   de: tagesausflug-toledo-ab-madrid
 reservasArriba: true
-respuestaCorta: 'Take the [**Avant train from Atocha (33 minutes, €22–26 return)**](/en/cities/madrid/activities/toledo-by-high-speed-train-from-madrid) or drive an hour on the A-42, and arrive by 10 AM. Spend the morning on the **Cathedral (€12)**, Santo Tomé and Santa María la Blanca, the afternoon in the Jewish Quarter, and finish at the **Mirador del Valle**. The [**€14 bracelet**](/en/cities/madrid/activities/toledo-tourist-bracelet-7-monuments) covers seven smaller monuments.'
+respuestaCorta: 'Take the **Avant train from Atocha (33 minutes, €22–26 return)** or drive an hour on the A-42, and arrive by 10 AM. Spend the morning on the **Cathedral (€12)**, Santo Tomé and Santa María la Blanca, the afternoon in the Jewish Quarter, and finish at the **Mirador del Valle**. The [**€14 bracelet**](/en/cities/madrid/activities/toledo-tourist-bracelet-7-monuments) covers seven smaller monuments.'
 actividades:
   - excursion-toledo-dia-completo
   - toledo-pulsera-turistica-7-monumentos
   - toledo-catedral-visita-guiada
   - excursion-avila-segovia-con-entradas
-  - excursion-toledo-ave-tren
   - excursion-toledo-molinos-quijote
   - excursion-chinchon-aranjuez-toledo
   - excursion-alcala-henares-bodega-privada
@@ -55,7 +54,7 @@ Seventy kilometers from Madrid sits an intact medieval city: **Toledo**, where J
 - **Alsa bus** from Plaza Elíptica: 1 hour, about **€11 return**, every 30 minutes at peak times; last return around 10 PM.
 - **Organized tour:** €45–70 with transport, guide and tickets, 8–9 hours. Worth it in a group or without a car; a couple with a car is better off alone.
 
-[actividad: toledo-by-high-speed-train-from-madrid]
+[actividad: toledo-full-day-from-madrid]
 
 ## A one-day route
 

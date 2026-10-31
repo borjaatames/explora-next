@@ -28,7 +28,6 @@ actividades:
   - excursion-toledo-segovia-alcazar
   - toledo-pulsera-turistica-7-monumentos
   - toledo-catedral-visita-guiada
-  - excursion-toledo-ave-tren
   - excursion-avila-segovia-economica
   - vuelo-globo-segovia
 faq:
