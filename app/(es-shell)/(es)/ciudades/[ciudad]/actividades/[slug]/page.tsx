@@ -357,10 +357,6 @@ export default async function ActividadPage({ params }: Props) {
           <h1 className="font-fraunces text-2xl md:text-4xl font-bold text-piedra-900 mb-3 leading-tight">
             {actividad.titulo}
           </h1>
-          <p className="text-base md:text-lg text-piedra-600 max-w-3xl leading-relaxed line-clamp-3 md:line-clamp-none">
-            {actividad.descripcion}
-          </p>
-
           {tieneRating && !tripadvisor && (
             <p className="mt-4 inline-flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-piedra-600">
               <span className="inline-flex items-center gap-1.5 font-semibold text-piedra-900">
@@ -382,45 +378,11 @@ export default async function ActividadPage({ params }: Props) {
               datos={tripadvisor}
             />
           )}
-
-          {actividad.avisoReserva && (
-            <p className="hidden md:flex mt-3 items-center gap-2 text-sm font-semibold text-azafran-900 bg-azafran-50 border border-azafran-200 rounded-lg px-3 py-2 w-fit">
-              <span aria-hidden="true" className="text-azafran-500">!</span>
-              {actividad.avisoReserva}
-            </p>
-          )}
-
-          <DatosClave
-            idioma="es"
-            titulo={actividad.titulo}
-            categoria={actividad.categoria}
-            privada={actividad.privada === true}
-            duracion={actividad.duracion}
-            idiomas={actividad.idiomas}
-            highlights={actividad.highlights}
-            cancelacionGratuita={actividad.cancelacionGratuita}
-            horasCancelacion={actividad.horasCancelacion}
-            detalles={actividad.detallesPracticos}
-          />
-
-          {actividad.proveedor === "bokun" && (
-            <CtaReservaBokun
-              cancelacionGratuita={actividad.cancelacionGratuita}
-              horasCancelacion={actividad.horasCancelacion}
-              confirmacionInmediata={actividad.detallesPracticos?.confirmacionInmediata}
-              idioma="es"
-              precioDesde={actividad.precioDesde}
-              moneda={actividad.moneda}
-              porGrupo={actividad.precioPorGrupo === true}
-              minimoPersonas={actividad.minimoPersonas}
-              preciosGrupo={actividad.preciosGrupo}
-            />
-          )}
         </div>
       </header>
 
       {actividad.imagen && (
-        <div className="order-first md:order-none w-full pt-3 md:pt-8">
+        <div className="order-first md:order-none w-full pt-3 md:pt-5">
           <GaleriaActividad
             idioma="es"
             principal={{
@@ -436,6 +398,47 @@ export default async function ActividadPage({ params }: Props) {
           />
         </div>
       )}
+
+      {/* Bajo las fotos (en PC las fotos van justo tras el título, como Civitatis) */}
+      <div className="pt-6">
+        <p className="text-base md:text-lg text-piedra-600 max-w-3xl leading-relaxed line-clamp-3 md:line-clamp-none">
+          {actividad.descripcion}
+        </p>
+
+        {actividad.avisoReserva && (
+          <p className="hidden md:flex mt-3 items-center gap-2 text-sm font-semibold text-azafran-900 bg-azafran-50 border border-azafran-200 rounded-lg px-3 py-2 w-fit">
+            <span aria-hidden="true" className="text-azafran-500">!</span>
+            {actividad.avisoReserva}
+          </p>
+        )}
+
+        <DatosClave
+          idioma="es"
+          titulo={actividad.titulo}
+          categoria={actividad.categoria}
+          privada={actividad.privada === true}
+          duracion={actividad.duracion}
+          idiomas={actividad.idiomas}
+          highlights={actividad.highlights}
+          cancelacionGratuita={actividad.cancelacionGratuita}
+          horasCancelacion={actividad.horasCancelacion}
+          detalles={actividad.detallesPracticos}
+        />
+
+        {actividad.proveedor === "bokun" && (
+          <CtaReservaBokun
+            cancelacionGratuita={actividad.cancelacionGratuita}
+            horasCancelacion={actividad.horasCancelacion}
+            confirmacionInmediata={actividad.detallesPracticos?.confirmacionInmediata}
+            idioma="es"
+            precioDesde={actividad.precioDesde}
+            moneda={actividad.moneda}
+            porGrupo={actividad.precioPorGrupo === true}
+            minimoPersonas={actividad.minimoPersonas}
+            preciosGrupo={actividad.preciosGrupo}
+          />
+        )}
+      </div>
 
       </div>
 
