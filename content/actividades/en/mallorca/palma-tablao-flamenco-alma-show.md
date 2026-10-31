@@ -62,26 +62,28 @@ keywords:
 - tablao flamenco alma
 - flamenco show mallorca
 - palma flamenco tickets
-imagen: /images/actividades/alicante/flamenco/flamenco-baile.webp
-imagenAlt: A flamenco dancer on stage
-galeria:
-- src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: A flamenco guitarist
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: A flamenco singer
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: Hand-clapping in a flamenco group
-- src: /images/actividades/alicante/flamenco/tablao.webp
-  alt: The stage of a flamenco tablao
 ratingProveedor: 4.6
 numeroOpiniones: 1683
 atraccionesRelacionadas:
 - palma
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
+imagenAlt: "Flamenco dancer in motion on a dimly lit stage (illustrative image)"
+galeria:
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-noche.webp
+  alt: "Palma Cathedral lit up at night"
+- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
+  alt: "A flamenco dancer's hands with castanets"
+- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
+  alt: "Palma seafront promenade at sunset"
+- src: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
+  alt: "A dancer twirling on stage (illustrative image)"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
+  alt: "Palma Cathedral under a pink sunset sky"
 ---
 
 ## What you will see

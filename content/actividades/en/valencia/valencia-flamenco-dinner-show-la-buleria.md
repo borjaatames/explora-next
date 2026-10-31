@@ -63,25 +63,27 @@ keywords:
 - la buleria valencia
 - dinner and show valencia
 - flamenco tablao valencia
-imagen: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
-imagenAlt: Flamenco group performing in a tablao
-galeria:
-- src: /images/actividades/alicante/flamenco/tablao.webp
-  alt: Stage of a flamenco tablao
-- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: Couple dancing flamenco
-- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: Flamenco dancer mid-performance
-- src: /images/actividades/alicante/flamenco/trajes-flamenca.webp
-  alt: Colourful flamenco dresses
 ratingProveedor: 4.8
 numeroOpiniones: 1564
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
+imagenAlt: "Flamenco dancers on stage during a flamenco show"
+galeria:
+- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
+  alt: "Flamenco singer performing on stage"
+- src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-mesa.webp
+  alt: "Assorted tapas in clay dishes on a wooden table"
+- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
+  alt: "Flamenco guitarist playing live"
+- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
+  alt: "Male flamenco dancer mid-performance on stage"
+- src: /images/actividades/valencia/noche/plaza-ayuntamiento-noche.webp
+  alt: "Valencia City Hall square lit up at night"
 ---
 
 ## What you will see

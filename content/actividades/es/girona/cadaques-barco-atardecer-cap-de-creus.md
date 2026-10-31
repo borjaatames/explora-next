@@ -71,28 +71,32 @@ keywords:
 - paseo en barco cadaques atardecer
 - excursion barco cap de creus
 - que hacer en cadaques
-imagen: /images/actividades/girona/cadaques/cadaques-bahia.webp
-imagenAlt: Bahía de Cadaqués con barcos fondeados
-galeria:
-- src: /images/actividades/girona/cadaques/cap-de-creus-costa.webp
-  alt: Costa rocosa del Cap de Creus
-- src: /images/actividades/girona/cadaques/cap-de-creus-faro.webp
-  alt: Faro del Cap de Creus
-- src: /images/actividades/girona/cap-de-creus/islote-rocas-aguas-cristalinas.webp
-  alt: Islote rocoso en aguas cristalinas del Cap de Creus
-- src: /images/actividades/girona/cap-de-creus/arco-roca-marina-mediterraneo.webp
-  alt: Arco de roca sobre el Mediterráneo
-- src: /images/actividades/girona/cadaques/cadaques-pueblo-blanco.webp
-  alt: Casas blancas de Cadaqués
 ratingProveedor: 4.4
 numeroOpiniones: 36
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-cadaques/fgi-cadaques-llaut-tradicional-bahia.webp
+imagenAlt: "Barca tradicional de vela latina fondeada en la bahía de Cadaqués"
+galeria:
+- src: /images/actividades/girona/fgi-cadaques/fgi-cadaques-hora-azul.webp
+  alt: "Cadaqués y su bahía en la hora azul, tras la puesta de sol"
+- src: /images/actividades/girona/fgi-cap-creus/fgi-cap-creus-cala-rocas.webp
+  alt: "Cala de aguas profundas entre rocas del Cap de Creus"
+- src: /images/actividades/girona/fgi-cap-creus/fgi-cap-creus-cala-faro.webp
+  alt: "Cala del Cap de Creus con el faro en lo alto"
+- src: /images/actividades/girona/fgi-cap-creus/fgi-cap-creus-costa-mar.webp
+  alt: "Costa rocosa del Parque Natural del Cap de Creus"
+- src: /images/actividades/girona/fgi-cap-creus/fgi-cadaques-roca-pueblo.webp
+  alt: "Roca en el mar frente a Cadaqués"
+- src: /images/actividades/girona/fgi-cadaques/fgi-cadaques-bahia-aerea.webp
+  alt: "Vista aérea de la bahía de Cadaqués con barcos fondeados"
+- src: /images/actividades/girona/fgi-cap-creus/fgi-cap-creus-silueta-atardecer.webp
+  alt: "Silueta de las montañas del Cap de Creus al atardecer"
 ---
 
 ## Qué vas a ver

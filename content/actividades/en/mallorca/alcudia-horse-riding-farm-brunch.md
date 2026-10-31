@@ -73,23 +73,27 @@ keywords:
 - horse riding mallorca
 - mallorca horseback tour
 - ranxo ses roques
-imagen: /images/actividades/gran-canaria/caballo/jinetes-campo-seco.webp
-imagenAlt: Riders on horseback in the countryside
-galeria:
-- src: /images/actividades/gran-canaria/caballo/caballos-canon-roca.webp
-  alt: Horses in a rocky landscape
-- src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
-  alt: Mallorcan sobrasada
-- src: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aerea.webp
-  alt: A bay in northern Mallorca from above
 ratingProveedor: 4.6
 numeroOpiniones: 1860
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-caballo-alcudia/jinetes-ladera-monte.webp
+imagenAlt: "Two riders on horseback coming down a hillside"
+galeria:
+- src: /images/actividades/mallorca/fma-caballo-alcudia/ruta-caballos-ladera.webp
+  alt: "Group of riders on a trail along a hillside"
+- src: /images/actividades/mallorca/fma-caballo-alcudia/caballo-blanco-cabeza.webp
+  alt: "Head of a white horse wearing a bridle"
+- src: /images/actividades/mallorca/fma-caballo-alcudia/caballo-prado.webp
+  alt: "Dark horse trotting across a meadow"
+- src: /images/actividades/mallorca/fma-olivar/olivo-centenario-mallorca.webp
+  alt: "Centuries-old olive tree in the Mallorcan countryside"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
+  alt: "Rocky Mediterranean coast with mountains behind"
 ---
 
 ## What you will see

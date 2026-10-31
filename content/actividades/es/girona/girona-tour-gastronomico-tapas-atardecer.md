@@ -68,27 +68,33 @@ keywords:
 - tapas girona
 - food tour girona
 - que comer en girona
-imagen: /images/actividades/barcelona/gastronomia/tapas-y-vino-mesa.webp
-imagenAlt: Mesa con tapas y vino
-galeria:
-- src: /images/actividades/girona/girona-onyar/girona-onyar-pexels-13759651.webp
-  alt: Casas de colores sobre el Onyar en Girona
-- src: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
-  alt: Mesa con tapas variadas
-- src: /images/actividades/girona/casas-onar/casas-onar-girona-hero.webp
-  alt: Fachadas del río Onyar al atardecer
-- src: /images/actividades/girona/juego-de-tronos/pujada-sant-domenec.webp
-  alt: Escalinata de Sant Domènec en el casco antiguo de Girona
 ratingProveedor: 4.9
 numeroOpiniones: 41
 atraccionesRelacionadas:
 - casco-antiguo
 - casco-medieval
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/barcelona/gastronomia/tapas-y-vino-mesa.webp
+imagenAlt: "Tapas variadas con copas de vino tinto"
+galeria:
+- src: /images/actividades/girona/fgi-girona-noche/fgi-girona-tejados-atardecer.webp
+  alt: "Tejados de Girona al atardecer con la catedral y Sant Feliu"
+- src: /images/actividades/salamanca/jamon/jamon-embutidos.webp
+  alt: "Tabla de embutidos curados"
+- src: /images/actividades/girona/fgi-girona-noche/fgi-onyar-casas-crepusculo.webp
+  alt: "Casas de colores del Onyar en el crepúsculo, con las primeras luces encendidas"
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
+  alt: "Quesos curados cortados para degustar"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Copas de vino preparadas para una cata"
+- src: /images/actividades/girona/juego-de-tronos/pujada-sant-domenec.webp
+  alt: "Escaleras de la Pujada de Sant Domènec en el Barri Vell"
+- src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
+  alt: "Pinchos sobre la barra de un bar de tapas"
 ---
 
 ## Qué vas a ver

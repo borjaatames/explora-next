@@ -71,24 +71,30 @@ keywords:
 - south tenerife zoo
 - jungle park arona
 - things to do with kids south tenerife
-imagen: /images/actividades/tenerife/loro-parque/loro-aratinga.webp
-imagenAlt: Colourful parrot on a branch
-galeria:
-- src: /images/actividades/tenerife/loro-parque/pinguinos.webp
-  alt: Penguins on the rocks
-- src: /images/actividades/tenerife/loro-siam/leon-marino-nadando.webp
-  alt: Sea lion swimming
-- src: /images/actividades/tenerife/loro-parque/caiman.webp
-  alt: Caiman in the water
 ratingProveedor: 4.5
 numeroOpiniones: 1193
 atraccionesRelacionadas:
 - parques
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tenerife/jungle-park/ftc-jungle-park-entrada-aguilas.webp
+imagenAlt: "Entrance to Las Aguilas Jungle Park in Arona, with two large eagle sculptures"
+galeria:
+- src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-cabeciblanco.webp
+  alt: "White-headed vulture in its enclosure at Jungle Park"
+- src: /images/actividades/tenerife/cristianos/montana-guaza.webp
+  alt: "Montaña de Guaza, in the municipality of Arona"
+- src: /images/actividades/tenerife/jungle-park/ftc-jaguar-tronco.webp
+  alt: "Jaguar walking along a log"
+- src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-alas.webp
+  alt: "White-headed vulture spreading its wings at Jungle Park"
+- src: /images/actividades/tenerife/jungle-park/ftc-lemur-cola-anillada.webp
+  alt: "Ring-tailed lemur sitting on a branch"
+- src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
+  alt: "Los Cristianos beach, in Arona"
 ---
 
 ## What you will see

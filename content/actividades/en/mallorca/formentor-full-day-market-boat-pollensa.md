@@ -75,28 +75,30 @@ keywords:
 - puerto pollensa formentor boat
 - sineu market tour
 - es colomer viewpoint tour
-imagen: /images/actividades/mallorca/formentor/platja-formentor-agua-turquesa.webp
-imagenAlt: Turquoise water at Formentor Beach
-galeria:
-- src: /images/actividades/mallorca/formentor/formentor-acantilados-es-colomer.webp
-  alt: Formentor cliffs from the Es Colomer viewpoint
-- src: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aerea.webp
-  alt: Aerial view of boats in Formentor bay
-- src: /images/actividades/mallorca/formentor/platja-formentor-barcos-desde-talaia.webp
-  alt: Formentor Beach with anchored boats
-- src: /images/actividades/mallorca/formentor/formentor-01.webp
-  alt: The Formentor peninsula coast
-- src: /images/actividades/mallorca/formentor/formentor-02.webp
-  alt: Formentor landscape
 ratingProveedor: 4.4
 numeroOpiniones: 328
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aerea.webp
+imagenAlt: "Boats in Formentor bay, aerial view"
+galeria:
+- src: /images/actividades/mallorca/gastronomia/sobrasada-02.webp
+  alt: "Sobrasadas at a Mallorcan market stall"
+- src: /images/actividades/mallorca/fma-formentor/cala-mallorca-barcos-fondeados.webp
+  alt: "Boats anchored in a Mallorcan cove"
+- src: /images/actividades/mallorca/formentor/platja-formentor-agua-turquesa.webp
+  alt: "Turquoise water at Formentor beach"
+- src: /images/actividades/mallorca/fma-formentor/es-colomer-islote.webp
+  alt: "Es Colomer islet from the viewpoint"
+- src: /images/actividades/mallorca/fma-formentor/carretera-formentor-curvas.webp
+  alt: "Winding road towards Cap de Formentor"
+- src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
+  alt: "Sobrasada, a typical Mallorcan cured sausage"
 ---
 
 ## What you will see

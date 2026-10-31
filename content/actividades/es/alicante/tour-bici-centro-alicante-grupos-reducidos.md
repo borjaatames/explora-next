@@ -73,28 +73,32 @@ keywords:
 - bicicleta alicante centro
 - bike tour alicante grupo reducido
 - paseo en bici alicante
-imagen: /images/actividades/alicante/centro/explanada-palmeras.webp
-imagenAlt: La Explanada de España con sus palmeras
-galeria:
-- src: /images/actividades/alicante/centro/ayuntamiento.webp
-  alt: Ayuntamiento de Alicante
-- src: /images/actividades/alicante/centro/calle-san-antonio.webp
-  alt: Calle del centro de Alicante
-- src: /images/actividades/alicante/centro/santa-cruz.webp
-  alt: Barrio de Santa Cruz
-- src: /images/actividades/alicante/costa/postiguet-paseo.webp
-  alt: Paseo junto a la playa del Postiguet
-- src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: Alicante y su puerto desde el castillo
 ratingProveedor: 4.8
 numeroOpiniones: 158
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-bici/fal-ciclista-ciudad.webp
+imagenAlt: "Ciclista paseando en bicicleta por una calle de ciudad"
+galeria:
+- src: /images/actividades/ibiza/bici/fi2-bicicletas-muro-piedra.webp
+  alt: "Bicicletas de paseo apoyadas en una pared"
+- src: /images/actividades/alicante/centro/explanada.webp
+  alt: "Paseo de la Explanada de España con su mosaico de ondas"
+- src: /images/actividades/alicante/centro/ayuntamiento.webp
+  alt: "Ayuntamiento de Alicante"
+- src: /images/actividades/alicante/centro/calle-san-antonio.webp
+  alt: "Calle con escaleras del barrio de Santa Cruz"
+- src: /images/actividades/alicante/centro/santa-maria.webp
+  alt: "Basílica de Santa María de Alicante"
+- src: /images/actividades/alicante/centro/san-nicolas-claustro.webp
+  alt: "Claustro de la concatedral de San Nicolás"
+- src: /images/actividades/alicante/fal-bici/fal-mercado-central-entrada.webp
+  alt: "Entrada del Mercado Central de Alicante"
 ---
 
 ## Qué vas a ver

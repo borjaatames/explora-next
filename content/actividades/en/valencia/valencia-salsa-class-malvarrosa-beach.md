@@ -67,23 +67,27 @@ keywords:
 - beach salsa valencia
 - dance class valencia tourists
 - things to do malvarrosa beach
-imagen: /images/actividades/valencia/mar/arenas-orilla.webp
-imagenAlt: Shoreline of a beach in Valencia
-galeria:
-- src: /images/actividades/valencia/mar/cabanyal-barcas.webp
-  alt: Boats on Cabanyal beach, next to Malvarrosa
-- src: /images/actividades/valencia/mar/luna-atardecer.webp
-  alt: Sunset over the sea in Valencia
-- src: /images/actividades/valencia/mar/veles-e-vents-atardecer.webp
-  alt: Veles e Vents building at sunset in Valencia's port
 ratingProveedor: 4.9
 numeroOpiniones: 66
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/salsa/fvc-pies-pareja-bailando.webp
+imagenAlt: "Feet of a couple dancing together"
+galeria:
+- src: /images/actividades/valencia/mar/arenas-orilla.webp
+  alt: "Shoreline of Las Arenas beach, next to Malvarrosa, in Valencia"
+- src: /images/actividades/valencia/salsa/fvc-clase-salsa-grupo.webp
+  alt: "Group salsa class with couples practising basic steps"
+- src: /images/actividades/valencia/salsa/fvc-pareja-bailando-calle.webp
+  alt: "Couple dancing beside a colourful facade"
+- src: /images/actividades/valencia/mar/cabanyal-barcas.webp
+  alt: "Boats on the sand of Cabanyal beach at sunset"
+- src: /images/actividades/valencia/salsa/fvc-pareja-salsa-escenario.webp
+  alt: "Pair of dancers performing salsa steps"
 ---
 
 ## What you will see

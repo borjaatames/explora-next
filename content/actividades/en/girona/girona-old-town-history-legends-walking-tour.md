@@ -74,29 +74,33 @@ keywords:
 - girona old town tour in english
 - girona guided tour
 - girona legends tour
-imagen: /images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp
-imagenAlt: Onyar riverside houses with Girona Cathedral behind
-galeria:
-- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
-  alt: The steps of Girona Cathedral
-- src: /images/actividades/girona/juego-de-tronos/call-escaleras.webp
-  alt: Steps in a street of Girona's Jewish Quarter
-- src: /images/actividades/girona/juego-de-tronos/banos-arabes-cupula.webp
-  alt: Dome of Girona's Arab Baths
-- src: /images/actividades/girona/juego-de-tronos/sant-pere-galligants.webp
-  alt: Sant Pere de Galligants monastery
-- src: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
-  alt: The Eiffel Bridge and colourful houses over the Onyar
 ratingProveedor: 4.8
 numeroOpiniones: 29
 atraccionesRelacionadas:
 - casco-antiguo
 - casco-medieval
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp
+imagenAlt: "The Onyar houses with Girona Cathedral behind"
+galeria:
+- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata-multitud.webp
+  alt: "The steps of Girona Cathedral"
+- src: /images/actividades/girona/fgi-girona/fgi-barri-vell-arco-escalinata.webp
+  alt: "An arch and stairway on a Barri Vell street in Girona"
+- src: /images/actividades/girona/juego-de-tronos/sant-pere-galligants.webp
+  alt: "The Sant Pere de Galligants monastery"
+- src: /images/actividades/girona/juego-de-tronos/banos-arabes-columnas.webp
+  alt: "Columns inside Girona's Arab Baths"
+- src: /images/actividades/girona/juego-de-tronos/call-escaleras.webp
+  alt: "A courtyard with stairs in Girona's Jewish Quarter"
+- src: /images/actividades/girona/fgi-girona/fgi-pont-eiffel-onyar.webp
+  alt: "The Eiffel Bridge over the Onyar river in Girona"
+- src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
+  alt: "A cobbled street beside the Girona city walls"
 ---
 
 ## What you'll see

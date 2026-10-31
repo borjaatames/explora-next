@@ -73,27 +73,31 @@ keywords:
 - valencia food tour evening
 - tapas and wine valencia
 - best food tour valencia
-imagen: /images/actividades/valencia/ruzafa/croquetas.webp
-imagenAlt: A serving of croquettes in a tapas bar
-galeria:
-- src: /images/actividades/valencia/ruzafa/gildas.webp
-  alt: Gildas served at a bar counter
-- src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
-  alt: Streets of the Carmen quarter at night
-- src: /images/actividades/valencia/ruzafa/barra-cerveceria.webp
-  alt: Bar counter in Valencia
-- src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
-  alt: Old town street in Valencia lit up at night
 ratingProveedor: 4.8
 numeroOpiniones: 714
 atraccionesRelacionadas:
 - gastronomia
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-noche.webp
+imagenAlt: "Assorted tapas in clay dishes to share"
+galeria:
+- src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
+  alt: "Street in Valencia old town at night"
+- src: /images/actividades/valencia/ruzafa/croquetas.webp
+  alt: "Homemade croquettes served as a tapa"
+- src: /images/actividades/valencia/ruzafa/barra-cerveceria.webp
+  alt: "Wooden bar counter with a glass of beer"
+- src: /images/actividades/valencia/ruzafa/gildas.webp
+  alt: "Gildas skewers of olive, chilli pepper and anchovy"
+- src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
+  alt: "El Carmen district in central Valencia, lit up at night"
+- src: /images/actividades/valencia/tapas/fvc-bar-tapas-lleno-noche.webp
+  alt: "Lively tapas bar interior at night"
 ---
 
 ## What you will see

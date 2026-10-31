@@ -79,26 +79,30 @@ keywords:
 - mallorca sea cave kayak tour
 - cliff jumping mallorca
 - mallorca multi adventure kids
-imagen: /images/actividades/ibiza/kayak-codolar/kayaks-cala-turquesa.webp
-imagenAlt: Kayaks in a cove with turquoise water
-galeria:
-- src: /images/actividades/ibiza/kayak-codolar/esnorquel-costa-rocosa.webp
-  alt: Snorkelling along a rocky coast
-- src: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
-  alt: Snorkelling in clear water in Mallorca
-- src: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aerea.webp
-  alt: Aerial view of a bay in northern Mallorca
-- src: /images/actividades/mallorca/formentor/formentor-acantilados-es-colomer.webp
-  alt: Cliffs on Mallorca's north coast
 ratingProveedor: 4.8
 numeroOpiniones: 2626
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
+imagenAlt: "Group of kayaks paddling along a rocky coast, aerial view"
+galeria:
+- src: /images/actividades/mallorca/fma-kayak-alcudia/kayaks-amarillos-acantilado.webp
+  alt: "Yellow kayaks at sea next to a rocky shoreline"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp
+  alt: "Kayak seen from inside a sea cave"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
+  alt: "Rocky Mediterranean coast with mountains behind"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
+  alt: "Person snorkelling over a rocky seabed"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
+  alt: "Two kayaks on clear turquoise water"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
+  alt: "Seabed with rocks under crystal-clear water"
 ---
 
 ## What you will see

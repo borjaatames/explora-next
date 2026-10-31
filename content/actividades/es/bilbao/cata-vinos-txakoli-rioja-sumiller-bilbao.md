@@ -63,26 +63,32 @@ keywords:
 - txakoli bilbao
 - cata vino guggenheim
 - vinos vascos bilbao
-imagen: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
-imagenAlt: Copa de txakoli
-galeria:
-- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
-  alt: Copas de vino
-- src: /images/actividades/bilbao/gastronomia/mesa-tapas.webp
-  alt: Mesa con picoteo
-- src: /images/actividades/bilbao/costa-vasca/txakoli-vinedos-mar.webp
-  alt: Viñedos de txakoli junto al mar
-- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-02.webp
-  alt: Viñedos de la Rioja Alavesa
 ratingProveedor: 4.9
 numeroOpiniones: 59
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
+imagenAlt: "Copa de txakoli blanco"
+galeria:
+- src: /images/actividades/bilbao/costa-vasca/txakoli-vinedos-mar.webp
+  alt: "Viñedos de txakoli frente al mar en Getaria"
+- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
+  alt: "Copas de vino blanco servidas en la barra"
+- src: /images/actividades/bilbao/gastronomia/gilda.webp
+  alt: "Gildas, el pintxo clásico vasco"
+- src: /images/actividades/bilbao/rioja-alavesa/fbi-uvas-tintas-cepa.webp
+  alt: "Racimos de uva tinta en una cepa"
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-02.webp
+  alt: "Barricas en un calado subterráneo de bodega"
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-01.webp
+  alt: "Viñedos de la Rioja Alavesa bajo la sierra de Cantabria"
+- src: /images/actividades/bilbao/pintxos/pintxos-queso-mermelada.webp
+  alt: "Pintxos de queso de cabra con frutos rojos"
 ---
 
 ## Qué vas a ver

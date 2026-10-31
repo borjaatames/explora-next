@@ -76,28 +76,32 @@ keywords:
 - montanejos fuente de los baños
 - salto de la novia montanejos
 - aguas termales cerca de valencia
-imagen: /images/actividades/valencia/montanejos/montanejos-fuente-banos-poza.webp
-imagenAlt: Poza de agua turquesa en la Fuente de los Baños de Montanejos
-galeria:
-- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-roca.webp
-  alt: Rocas y agua clara en la Fuente de los Baños
-- src: /images/actividades/valencia/montanejos/montanejos-mijares-banistas.webp
-  alt: Bañistas en el río Mijares a su paso por Montanejos
-- src: /images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp
-  alt: Curso alto del río Mijares entre montañas
-- src: /images/actividades/valencia/montanejos/montanejos-torre-plaza.webp
-  alt: Torre y plaza del pueblo de Montanejos
-- src: /images/actividades/valencia/montanejos/montanejos-villa-termal.webp
-  alt: Vista de Montanejos, villa termal de Castellón
 ratingProveedor: 4.8
 numeroOpiniones: 928
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/montanejos/fvc-fuente-banos-banistas.webp
+imagenAlt: "Bañistas en la Fuente de los Baños, junto al río Mijares, en Montanejos"
+galeria:
+- src: /images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp
+  alt: "Vista de Montanejos entre montañas y pinares"
+- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-roca.webp
+  alt: "Paredes de roca sobre la poza de la Fuente de los Baños"
+- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-azulejo.webp
+  alt: "Caños y azulejo de la Fuente de los Baños de Montanejos"
+- src: /images/actividades/valencia/montanejos/montanejos-mijares-banistas.webp
+  alt: "Zona de baño en el curso alto del río Mijares, en Montanejos"
+- src: /images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp
+  alt: "Cañón del río Mijares a su paso por Montanejos"
+- src: /images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp
+  alt: "Pueblo de Montanejos en el valle del Mijares"
+- src: /images/actividades/valencia/montanejos/montanejos-villa-termal.webp
+  alt: "Cartel de azulejos de Montanejos, villa termal"
 ---
 
 ## Qué vas a ver

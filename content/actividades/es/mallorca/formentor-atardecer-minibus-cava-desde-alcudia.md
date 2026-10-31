@@ -71,26 +71,28 @@ keywords:
 - excursion formentor atardecer alcudia
 - puesta de sol mallorca excursion
 - mirador es colomer atardecer
-imagen: /images/actividades/mallorca/formentor/formentor-acantilados-es-colomer.webp
-imagenAlt: Acantilados de Formentor desde el mirador Es Colomer
-galeria:
-- src: /images/actividades/mallorca/formentor/formentor-03.webp
-  alt: Costa de la península de Formentor
-- src: /images/actividades/mallorca/formentor/platja-formentor-barcos-desde-talaia.webp
-  alt: Playa de Formentor vista desde lo alto
-- src: /images/actividades/mallorca/formentor/formentor-04.webp
-  alt: Paisaje de Formentor
-- src: /images/actividades/mallorca/formentor/formentor-05.webp
-  alt: Acantilados de Formentor sobre el mar
 ratingProveedor: 4.8
 numeroOpiniones: 300
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-formentor/formentor-puesta-sol.webp
+imagenAlt: "Puesta de sol sobre los acantilados de Formentor"
+galeria:
+- src: /images/actividades/mallorca/fma-formentor/carretera-formentor-curvas.webp
+  alt: "Carretera de curvas hacia el cabo de Formentor"
+- src: /images/actividades/mallorca/fma-formentor/es-colomer-islote.webp
+  alt: "Islote de Es Colomer y acantilados de Formentor"
+- src: /images/actividades/mallorca/formentor/platja-formentor-barcos-desde-talaia.webp
+  alt: "Bahía y playa de Formentor desde la Atalaya d'Albercutx"
+- src: /images/actividades/mallorca/fma-formentor/acantilado-formentor-anochecer.webp
+  alt: "Acantilado de Formentor al anochecer"
+- src: /images/actividades/mallorca/fma-formentor/faro-formentor-carretera.webp
+  alt: "Faro de Formentor en el extremo del cabo"
 ---
 
 ## Qué vas a ver

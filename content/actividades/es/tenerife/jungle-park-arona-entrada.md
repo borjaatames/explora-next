@@ -71,24 +71,30 @@ keywords:
 - zoo tenerife sur
 - jungle park arona
 - que hacer con niños tenerife sur
-imagen: /images/actividades/tenerife/loro-parque/loro-aratinga.webp
-imagenAlt: Loro de colores sobre una rama
-galeria:
-- src: /images/actividades/tenerife/loro-parque/pinguinos.webp
-  alt: Pingüinos sobre las rocas
-- src: /images/actividades/tenerife/loro-siam/leon-marino-nadando.webp
-  alt: León marino nadando
-- src: /images/actividades/tenerife/loro-parque/caiman.webp
-  alt: Caimán en el agua
 ratingProveedor: 4.5
 numeroOpiniones: 1193
 atraccionesRelacionadas:
 - parques
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tenerife/jungle-park/ftc-jungle-park-entrada-aguilas.webp
+imagenAlt: "Entrada de Las Águilas Jungle Park, en Arona, con dos grandes esculturas de águilas"
+galeria:
+- src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-cabeciblanco.webp
+  alt: "Buitre cabeciblanco en su recinto de Jungle Park"
+- src: /images/actividades/tenerife/cristianos/montana-guaza.webp
+  alt: "Montaña de Guaza, en el municipio de Arona"
+- src: /images/actividades/tenerife/jungle-park/ftc-jaguar-tronco.webp
+  alt: "Jaguar caminando sobre un tronco"
+- src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-alas.webp
+  alt: "Buitre cabeciblanco abriendo las alas en Jungle Park"
+- src: /images/actividades/tenerife/jungle-park/ftc-lemur-cola-anillada.webp
+  alt: "Lémur de cola anillada sentado en una rama"
+- src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
+  alt: "Playa de Los Cristianos, en Arona"
 ---
 
 ## Qué vas a ver

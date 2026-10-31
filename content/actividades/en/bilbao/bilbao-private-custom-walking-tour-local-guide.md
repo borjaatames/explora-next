@@ -70,27 +70,33 @@ keywords:
 - private guide bilbao
 - bilbao private walking tour
 - custom tour bilbao
-imagen: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
-imagenAlt: Plaza Nueva in Bilbao
-galeria:
-- src: /images/actividades/bilbao/ria/zubizuri.webp
-  alt: Zubizuri footbridge over the estuary
-- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: The Guggenheim Museum by the estuary
-- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
-  alt: Arriaga Theatre
-- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
-  alt: Bilbao from Artxanda
 ratingProveedor: 4.5
 numeroOpiniones: 32
 atraccionesRelacionadas:
 - casco-viejo
 privada: true
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/casco-viejo/fbi-miradores-fachadas.webp
+imagenAlt: "Facades with glazed bay windows in Bilbao"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
+  alt: "Terraces in Bilbao's Plaza Nueva"
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-calle-gente.webp
+  alt: "Pedestrian street in Bilbao Old Town"
+- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
+  alt: "Inside Bilbao's Cathedral of Santiago"
+- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+  alt: "Arriaga Theatre by the Bilbao estuary"
+- src: /images/actividades/bilbao/casco-viejo/fbi-ensanche-edificio-historico.webp
+  alt: "Historic building and gardens in central Bilbao"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+  alt: "Titanium facade of the Guggenheim Museum Bilbao"
+- src: /images/actividades/bilbao/ria/zubizuri.webp
+  alt: "Zubizuri footbridge over the Bilbao estuary"
 ---
 
 ## What you will see

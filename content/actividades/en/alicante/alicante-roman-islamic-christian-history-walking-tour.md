@@ -68,28 +68,32 @@ keywords:
 - alicante walking tour english
 - alicante old town tour
 - alicante civil war history
-imagen: /images/actividades/alicante/centro/santa-maria.webp
-imagenAlt: The Basilica of Santa María in Alicante
-galeria:
-- src: /images/actividades/alicante/centro/explanada-palmeras.webp
-  alt: Palm trees on the Explanada
-- src: /images/actividades/alicante/centro/san-nicolas-claustro.webp
-  alt: The cloister of St Nicholas Co-Cathedral
-- src: /images/actividades/alicante/centro/ayuntamiento.webp
-  alt: Alicante City Hall
-- src: /images/actividades/alicante/centro/santa-cruz.webp
-  alt: The Santa Cruz quarter
-- src: /images/actividades/alicante/paella/mercado-central.webp
-  alt: Alicante Central Market
 ratingProveedor: 4.9
 numeroOpiniones: 81
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/centro/ayuntamiento.webp
+imagenAlt: "Baroque façade of Alicante City Hall, above remains of the old city walls"
+galeria:
+- src: /images/actividades/alicante/centro/santa-maria.webp
+  alt: "Basilica of Santa María, built on the site of the old mosque"
+- src: /images/actividades/alicante/fal-historia/fal-castillo-santa-barbara-murallas.webp
+  alt: "Walls and courtyard of Santa Bárbara Castle in Alicante"
+- src: /images/actividades/alicante/centro/san-nicolas-claustro.webp
+  alt: "Cloister of the Co-cathedral of San Nicolás"
+- src: /images/actividades/alicante/centro/santa-cruz.webp
+  alt: "Houses of the Santa Cruz quarter below the castle"
+- src: /images/actividades/alicante/centro/castillo-interior.webp
+  alt: "Stone arches inside Santa Bárbara Castle"
+- src: /images/actividades/alicante/paella/mercado-central.webp
+  alt: "Alicante Central Market building"
+- src: /images/actividades/alicante/fal-historia/fal-alicante-ciudad-castillo.webp
+  alt: "View of Alicante with Mount Benacantil and the castle"
 ---
 
 ## What you will see

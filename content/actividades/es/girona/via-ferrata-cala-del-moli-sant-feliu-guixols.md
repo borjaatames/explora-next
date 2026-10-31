@@ -79,26 +79,32 @@ keywords:
 - via ferrata sant feliu de guixols
 - via ferrata costa brava
 - actividades aventura costa brava
-imagen: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-imagenAlt: Acantilados sobre el mar en la Costa Brava
-galeria:
-- src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
-  alt: Bahía de Sant Feliu de Guíxols
-- src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
-  alt: Camino de ronda junto a los acantilados
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocas-banistas.webp
-  alt: Cala rocosa cerca de Sant Feliu de Guíxols
-- src: /images/actividades/girona/kayak-sant-feliu/cala-aguas-cristalinas.webp
-  alt: Aguas cristalinas de la Costa Brava
 ratingProveedor: 4.9
 numeroOpiniones: 326
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-escaladores-roca.webp
+imagenAlt: "Dos personas progresando por una vía ferrata en pared de roca"
+galeria:
+- src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
+  alt: "Bahía de Sant Feliu de Guíxols vista desde la costa"
+- src: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-escaladora-casco.webp
+  alt: "Escaladora con casco y arnés en una vía ferrata"
+- src: /images/actividades/girona/fgi-sant-feliu/fgi-sant-feliu-playa-puerto.webp
+  alt: "Playa y puerto deportivo de Sant Feliu de Guíxols"
+- src: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-mosquetones-cable.webp
+  alt: "Mosquetones enganchados al cable de vida de una vía ferrata"
+- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
+  alt: "Acantilados y calas de la Costa Brava"
+- src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
+  alt: "Camino de ronda junto al mar al atardecer"
+- src: /images/actividades/girona/fgi-sant-feliu/fgi-sant-feliu-barcas-playa.webp
+  alt: "Barcas de pesca en la playa de Sant Feliu de Guíxols"
 ---
 
 ## Qué vas a ver

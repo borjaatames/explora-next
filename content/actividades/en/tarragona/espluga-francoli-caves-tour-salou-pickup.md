@@ -65,24 +65,30 @@ keywords:
 - cave tour from salou
 - coves de l'espluga
 - day trips from salou with pickup
-imagen: /images/actividades/tarragona/quad/prades-atardecer.webp
-imagenAlt: The Prades mountains, where l'Espluga de Francolí lies
-galeria:
-- src: /images/actividades/tarragona/quad/montsant.webp
-  alt: Mountain ranges inland from Tarragona
-- src: /images/actividades/tarragona/quad/prades-siurana.webp
-  alt: Mountain landscape inland from Tarragona
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: The Salou coast, where the trip starts
 ratingProveedor: 4.5
 numeroOpiniones: 55
 atraccionesRelacionadas:
 - naturaleza
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/fre-coves-espluga/conjunto-font-major-espluga.webp
+imagenAlt: "Font Major complex, entrance to the l'Espluga de Francolí cave"
+galeria:
+- src: /images/actividades/tarragona/costa/puerto-cambrils.webp
+  alt: "Cambrils harbour, one of the pick-up points"
+- src: /images/actividades/tarragona/fre-coves-espluga/formaciones-roca-cueva.webp
+  alt: "Rock formations inside a cave (illustrative image)"
+- src: /images/actividades/tarragona/quad/prades-atardecer.webp
+  alt: "Prades mountains near l'Espluga de Francolí at sunset"
+- src: /images/actividades/tarragona/fre-coves-espluga/estalactitas-iluminadas.webp
+  alt: "Illuminated stalactites in a cave (illustrative image)"
+- src: /images/actividades/tarragona/priorat/fta-vinedos-cornudella-montsant.webp
+  alt: "Vineyards and the Montsant range in inland Tarragona"
+- src: /images/actividades/tarragona/fre-coves-espluga/cala-morisca-salou.webp
+  alt: "Cala Morisca on the Salou coast"
 ---
 
 ## What you will see

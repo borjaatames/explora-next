@@ -69,26 +69,30 @@ keywords:
 - tour tenerife dia completo
 - excursion icod puerto de la cruz candelaria
 - excursiones desde el sur de tenerife
-imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-imagenAlt: Acantilados de Los Gigantes sobre el Atlántico
-galeria:
-- src: /images/actividades/tenerife/icod/drago-milenario.webp
-  alt: Drago milenario de Icod de los Vinos
-- src: /images/actividades/tenerife/orotava/valle-orotava.webp
-  alt: Valle de La Orotava sobre Puerto de la Cruz
-- src: /images/actividades/tenerife/icod/parque-drago.webp
-  alt: Parque del Drago en Icod de los Vinos
-- src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
-  alt: Costa de Los Gigantes
 ratingProveedor: 4.6
 numeroOpiniones: 382
 atraccionesRelacionadas:
 - masca-gigantes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tenerife/gigantes/ftc-los-gigantes-puerto-acantilados-aerea.webp
+imagenAlt: "Vista aérea de Los Gigantes, con su puerto y los acantilados"
+galeria:
+- src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
+  alt: "Acantilados de Los Gigantes vistos desde el mar"
+- src: /images/actividades/tenerife/icod/ftc-drago-milenario-visitantes.webp
+  alt: "Drago milenario de Icod de los Vinos con visitantes a sus pies"
+- src: /images/actividades/tenerife/icod/ftc-icod-casa-balcon-canario.webp
+  alt: "Casa tradicional con balcón canario en Icod de los Vinos"
+- src: /images/actividades/tenerife/icod/ftc-drago-icod-palmera.webp
+  alt: "El Drago de Icod junto a una palmera canaria"
+- src: /images/actividades/tenerife/orotava/valle-orotava.webp
+  alt: "Valle de La Orotava bajando hasta la costa norte, donde está Puerto de la Cruz"
+- src: /images/actividades/tenerife/orotava/valle-plataneras.webp
+  alt: "Plataneras y pueblos del norte de Tenerife junto al mar"
 ---
 
 ## Qué vas a ver

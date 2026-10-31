@@ -75,28 +75,32 @@ keywords:
 - gaztelugatxe from san sebastian
 - guggenheim from san sebastian
 - dragonstone tour san sebastian
-imagen: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-islote.webp
-imagenAlt: The islet of San Juan de Gaztelugatxe
-galeria:
-- src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
-  alt: Steps up to the Gaztelugatxe hermitage
-- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: The Guggenheim Museum by the estuary
-- src: /images/actividades/bilbao/guggenheim/puppy.webp
-  alt: Puppy outside the Guggenheim
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
-  alt: Plaza Nueva in Bilbao
-- src: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
-  alt: A pintxo bar counter
 ratingProveedor: 4.7
 numeroOpiniones: 98
 atraccionesRelacionadas:
 - guggenheim
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-puente-luz-dorada.webp
+imagenAlt: "Stone bridge to San Juan de Gaztelugatxe in golden light"
+galeria:
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-sendero-costa.webp
+  alt: "Cobbled path down towards Gaztelugatxe along the coast"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-aereo.webp
+  alt: "Aerial view of San Juan de Gaztelugatxe islet"
+- src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
+  alt: "Stairway and bridge of San Juan de Gaztelugatxe"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-maman.webp
+  alt: "Guggenheim Museum Bilbao and Iberdrola Tower from across the river"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: "Plaza Nueva in Bilbao Old Town"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
+  alt: "The Guggenheim and Iberdrola Tower by the river"
+- src: /images/actividades/bilbao/ria/zubizuri.webp
+  alt: "Zubizuri footbridge over the Bilbao estuary"
 ---
 
 ## What you will see

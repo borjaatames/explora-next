@@ -78,22 +78,26 @@ keywords:
 - visita olivar cordoba
 - oleoturismo cordoba
 - almazara cordoba visita
-imagen: /images/actividades/cordoba/proveedor-937837/prov-torre-olivar.webp
-imagenAlt: Olivar en la campiña de Córdoba
-galeria:
-- src: /images/actividades/granada/almazara/olivos-sierra-nevada.webp
-  alt: Olivos en hilera en Andalucía
-- src: /images/actividades/granada/almazara/almazara-aceite-saliendo.webp
-  alt: Aceite de oliva recién extraído
-- src: /images/actividades/cordoba/gastronomia/salmorejo-cordobes.webp
-  alt: Salmorejo cordobés con aceite de oliva
 ratingProveedor: 4.9
 numeroOpiniones: 91
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/olivar/fvc-olivar-campina-andaluza.webp
+imagenAlt: "Olivares que cubren las lomas de la campiña andaluza"
+galeria:
+- src: /images/actividades/cordoba/olivar/fvc-olivares-sierra.webp
+  alt: "Olivares en hileras al pie de la sierra en Andalucía"
+- src: /images/actividades/cordoba/vinos/fvc-aceitunas-verdes-cuenco.webp
+  alt: "Cuenco de aceitunas verdes"
+- src: /images/actividades/cordoba/olivar/fvc-olivares-valle.webp
+  alt: "Valle con olivares y campos de cultivo en Andalucía"
+- src: /images/actividades/cordoba/olivar/fvc-tostada-tomate.webp
+  alt: "Tostada con tomate servida con una salsa"
+- src: /images/actividades/cordoba/olivar/fvc-mirador-olivares.webp
+  alt: "Mirador sobre un mar de olivares en Andalucía"
 ---
 
 ## Qué vas a ver

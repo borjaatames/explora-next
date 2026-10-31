@@ -73,28 +73,32 @@ keywords:
 - north gran canaria tour from maspalomas
 - arehucas distillery excursion
 - teror gran canaria tour
-imagen: /images/actividades/gran-canaria/norte/arucas-iglesia-fachada-hero.webp
-imagenAlt: The church of San Juan Bautista in Arucas
-galeria:
-- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
-  alt: The Paseo de Canarias waterfall in Firgas
-- src: /images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp
-  alt: The island tiles in Firgas
-- src: /images/actividades/gran-canaria/arehucas/barricas-ron-bodega-crianza.webp
-  alt: Rum barrels in an ageing cellar
-- src: /images/actividades/gran-canaria/arehucas/arehucas-fabrica-ron-arucas.webp
-  alt: The Arehucas rum factory in Arucas
-- src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
-  alt: Volcanic stone tower of Arucas church
 ratingProveedor: 4.5
 numeroOpiniones: 127
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/norte/fgc-iglesia-san-juan-arucas.webp
+imagenAlt: "The neo-Gothic façade of the church of San Juan Bautista in Arucas"
+galeria:
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
+  alt: "The cascade on the Paseo de Canarias in Firgas"
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp
+  alt: "Tiled benches with municipal coats of arms in Firgas"
+- src: /images/actividades/gran-canaria/norte/fgc-plaza-iglesia-arucas.webp
+  alt: "Square with café terraces in front of the church in Arucas"
+- src: /images/actividades/gran-canaria/norte/fgc-parque-municipal-arucas.webp
+  alt: "The municipal park of Arucas with a dragon tree"
+- src: /images/actividades/gran-canaria/arehucas/barricas-ron-bodega-crianza.webp
+  alt: "Rum barrels in the ageing cellar"
+- src: /images/actividades/gran-canaria/norte/fgc-calle-real-teror-balcones.webp
+  alt: "Calle Real in Teror with its wooden balconies"
+- src: /images/actividades/gran-canaria/norte/fgc-calle-teror-montanas.webp
+  alt: "A street in Teror with the northern mountains behind"
 ---
 
 ## What you will see

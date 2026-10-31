@@ -63,24 +63,30 @@ keywords:
 - marimurtra tickets
 - things to do in blanes
 - blanes botanical garden
-imagen: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-imagenAlt: Costa Brava cliff above the Mediterranean
-galeria:
-- src: /images/actividades/girona/kayak-sant-feliu/cala-aguas-cristalinas.webp
-  alt: Crystal-clear cove on the Costa Brava
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
-  alt: Rocky cove with turquoise water on the Costa Brava
-- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-05.webp
-  alt: Rocky coastline on the southern Costa Brava
 ratingProveedor: 4.7
 numeroOpiniones: 1246
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-pergola.webp
+imagenAlt: "Pergola with benches and greenery in the Marimurtra Botanical Garden"
+galeria:
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-acantilado-cala.webp
+  alt: "The Marimurtra botanical garden on the Blanes cliff above the cove"
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-flores-moradas.webp
+  alt: "Purple flowers in the Marimurtra Botanical Garden"
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-costa-desde-jardin.webp
+  alt: "The Blanes coast seen from the garden"
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-suculenta-oscura.webp
+  alt: "A dark-leaved succulent in the garden's arid section"
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-cala-desde-jardin.webp
+  alt: "A turquoise cove seen from Marimurtra"
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-vista-mar.webp
+  alt: "The Mediterranean seen from the Marimurtra Botanical Garden"
 ---
 
 ## What you'll see

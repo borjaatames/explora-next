@@ -70,24 +70,34 @@ keywords:
 - visita almazara mallorca
 - olivar algaida visita
 - experiencias gastronomicas mallorca
-imagen: /images/actividades/mallorca/ciudades/mallorca-hero.webp
-imagenAlt: Paisaje de Mallorca
-galeria:
-- src: /images/actividades/mallorca/gastronomia/sobrasada-02.webp
-  alt: Sobrasada y productos locales de Mallorca
-- src: /images/actividades/mallorca/gastronomia/palma-tapas-04.webp
-  alt: Tapas con productos locales
-- src: /images/actividades/mallorca/gastronomia/mercat-olivar-02.webp
-  alt: Productos frescos en un mercado de Mallorca
 ratingProveedor: 4.9
 numeroOpiniones: 218
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-olivar/olivar-tierra-roja-montana.webp
+imagenAlt: "Olivar de árboles viejos sobre tierra roja, con la montaña al fondo"
+galeria:
+- src: /images/actividades/granada/almazara/almazara-aceite-saliendo.webp
+  alt: "Aceite de oliva recién extraído saliendo de la almazara"
+- src: /images/actividades/mallorca/fma-olivar/olivo-centenario-mallorca.webp
+  alt: "Olivo centenario en el campo de Mallorca"
+- src: /images/actividades/granada/almazara/aceitunas-recien-cosechadas.webp
+  alt: "Aceitunas verdes y negras recién cosechadas"
+- src: /images/actividades/mallorca/fma-olivar/olivos-pared-piedra-seca.webp
+  alt: "Olivos y muro de piedra seca en Mallorca"
+- src: /images/actividades/granada/almazara/almazara-centrifuga-aceite.webp
+  alt: "Maquinaria de una almazara separando el aceite"
+- src: /images/actividades/mallorca/fma-olivar/olivos-montana-mallorca.webp
+  alt: "Olivos con la sierra de Mallorca al fondo"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-03.webp
+  alt: "Pa amb oli, pan con tomate y aceite de oliva"
+- src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
+  alt: "Sobrasada, embutido típico de Mallorca"
 ---
 
 ## Qué vas a ver

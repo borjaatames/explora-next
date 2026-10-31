@@ -69,26 +69,28 @@ keywords:
 - palma walking tour
 - palma old town walking tour
 - things to see in palma
-imagen: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
-imagenAlt: Palma Cathedral from Parc de la Mar
-galeria:
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
-  alt: Facade of Palma Cathedral
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
-  alt: Palma Cathedral reflected in the Parc de la Mar pool
-- src: /images/actividades/mallorca/gastronomia/ensaimada-01.webp
-  alt: Mallorcan ensaimada
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-atardecer.webp
-  alt: Palma Cathedral at sunset
 ratingProveedor: 4.4
 numeroOpiniones: 249
 atraccionesRelacionadas:
 - palma
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-estanque.webp
+imagenAlt: "Almudaina and Palma Cathedral by the Parc de la Mar pool"
+galeria:
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
+  alt: "Narrow street in Palma old town"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+  alt: "Palma Cathedral above the sea wall"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-paseo.webp
+  alt: "Almudaina and Cathedral seen from the seafront"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp
+  alt: "Gothic gargoyle on the facade of Palma Cathedral"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-pinaculos.webp
+  alt: "Gothic pinnacles of Palma Cathedral"
 ---
 
 ## What you will see

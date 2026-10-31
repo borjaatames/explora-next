@@ -70,26 +70,34 @@ keywords:
 - haro wineries from bilbao
 - laguardia from bilbao
 - rioja wine tour bilbao
-imagen: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-01.webp
-imagenAlt: Vineyards in Rioja Alavesa
-galeria:
-- src: /images/actividades/bilbao/rioja-alavesa/laguardia-muralla.webp
-  alt: The walls of Laguardia
-- src: /images/actividades/bilbao/rioja-alavesa/laguardia-calle-medieval.webp
-  alt: A medieval street in Laguardia
-- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-03.webp
-  alt: Vineyard landscape in Rioja Alavesa
-- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
-  alt: Glasses of red wine
 ratingProveedor: 4.4
 numeroOpiniones: 218
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/rioja-alavesa/fbi-uvas-tintas-cepa.webp
+imagenAlt: "Bunches of red grapes on the vine"
+galeria:
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-01.webp
+  alt: "Rioja Alavesa vineyards beneath the Sierra de Cantabria"
+- src: /images/actividades/bilbao/rioja-alavesa/fbi-laguardia-laguna-carralogrono.webp
+  alt: "Laguardia above the vineyards seen from Carralogroño lagoon"
+- src: /images/actividades/bilbao/rioja-alavesa/laguardia-muralla.webp
+  alt: "Medieval walls of Laguardia"
+- src: /images/actividades/bilbao/rioja-alavesa/laguardia-calle-medieval.webp
+  alt: "Medieval street in Laguardia"
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-02.webp
+  alt: "Barrels in an underground wine cellar"
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-04.webp
+  alt: "Rioja Alavesa vineyard in autumn"
+- src: /images/actividades/bilbao/rioja-alavesa/fbi-vinedo-rioja-hileras.webp
+  alt: "Rows of vines in La Rioja"
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-03.webp
+  alt: "Road through Rioja Alavesa vineyards"
 ---
 
 ## What you will see

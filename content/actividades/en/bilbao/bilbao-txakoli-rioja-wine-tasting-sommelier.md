@@ -63,26 +63,32 @@ keywords:
 - txakoli tasting bilbao
 - basque wine tasting
 - wine tasting near guggenheim
-imagen: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
-imagenAlt: A glass of txakoli
-galeria:
-- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
-  alt: Wine glasses
-- src: /images/actividades/bilbao/gastronomia/mesa-tapas.webp
-  alt: A table with nibbles
-- src: /images/actividades/bilbao/costa-vasca/txakoli-vinedos-mar.webp
-  alt: Txakoli vineyards by the sea
-- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-02.webp
-  alt: Vineyards in Rioja Alavesa
 ratingProveedor: 4.9
 numeroOpiniones: 59
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
+imagenAlt: "Glass of white txakoli"
+galeria:
+- src: /images/actividades/bilbao/costa-vasca/txakoli-vinedos-mar.webp
+  alt: "Txakoli vineyards by the sea in Getaria"
+- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
+  alt: "Glasses of white wine served at the bar"
+- src: /images/actividades/bilbao/gastronomia/gilda.webp
+  alt: "Gildas, the classic Basque pintxo"
+- src: /images/actividades/bilbao/rioja-alavesa/fbi-uvas-tintas-cepa.webp
+  alt: "Bunches of red grapes on the vine"
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-02.webp
+  alt: "Barrels in an underground wine cellar"
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-01.webp
+  alt: "Rioja Alavesa vineyards beneath the Sierra de Cantabria"
+- src: /images/actividades/bilbao/pintxos/pintxos-queso-mermelada.webp
+  alt: "Goat cheese pintxos with red berries"
 ---
 
 ## What you will see

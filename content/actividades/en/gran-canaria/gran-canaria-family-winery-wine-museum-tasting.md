@@ -66,24 +66,28 @@ keywords:
 - gran canaria wine tasting
 - santa brigida winery
 - bandama winery visit
-imagen: /images/actividades/alicante/vino/vinedos.webp
-imagenAlt: Rows of vines
-galeria:
-- src: /images/actividades/alicante/vino/barricas.webp
-  alt: Oak barrels in a winery
-- src: /images/actividades/alicante/vino/cata-copas.webp
-  alt: Glasses set out for a wine tasting
-- src: /images/actividades/alicante/vino/cata-tinto.webp
-  alt: A glass of red wine during a tasting
 ratingProveedor: 4.7
 numeroOpiniones: 142
 atraccionesRelacionadas:
 - interior
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/vino/fgc-racimos-uva-tinta-vina.webp
+imagenAlt: "Bunches of red grapes on the vine"
+galeria:
+- src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-santa-brigida.webp
+  alt: "The Bandama Caldera, next to Santa Brígida"
+- src: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
+  alt: "Oak barrels in a winery"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Glasses set out for a wine tasting"
+- src: /images/actividades/gran-canaria/vino/fgc-fondo-caldera-bandama-cultivos.webp
+  alt: "Fields and a house on the floor of the Bandama Caldera"
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
+  alt: "Glasses of red wine at a tasting"
 ---
 
 ## What you will see

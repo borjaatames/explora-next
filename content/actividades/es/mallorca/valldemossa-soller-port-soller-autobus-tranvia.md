@@ -70,29 +70,31 @@ keywords:
 - tranvia de soller excursion
 - tour tramuntana mallorca
 - port de soller excursion autobus
-imagen: /images/actividades/mallorca/valldemossa/valldemossa-02.webp
-imagenAlt: Calle de Valldemossa
-galeria:
-- src: /images/actividades/mallorca/soller/tranvia-soller-paseo.webp
-  alt: Tranvía de Sóller por el paseo
-- src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
-  alt: Bahía de Port de Sóller
-- src: /images/actividades/mallorca/valldemossa/valldemossa-03.webp
-  alt: Valldemossa en la Serra de Tramuntana
-- src: /images/actividades/mallorca/soller/tranvia-soller-calle.webp
-  alt: Tranvía de Sóller en la calle
-- src: /images/actividades/mallorca/soller/port-de-soller-puerto-barcas.webp
-  alt: Barcas en el puerto de Sóller
 ratingProveedor: 4.7
 numeroOpiniones: 827
 atraccionesRelacionadas:
 - soller-tramuntana
 - tramuntana
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-soller/tranvia-soller-calle.webp
+imagenAlt: "Tranvía de madera de Sóller por una calle de Port de Sóller"
+galeria:
+- src: /images/actividades/mallorca/fma-valldemossa/valldemossa-pueblo-montana.webp
+  alt: "Valldemossa y su cartuja entre montañas"
+- src: /images/actividades/mallorca/fma-valldemossa/casa-piedra-postigos-verdes.webp
+  alt: "Casa de piedra con postigos verdes y macetas en Valldemossa"
+- src: /images/actividades/mallorca/fma-soller/tranvia-soller-paseo.webp
+  alt: "Tranvía de Sóller por el paseo de Port de Sóller"
+- src: /images/actividades/mallorca/fma-valldemossa/patio-cartuja-valldemossa.webp
+  alt: "Patio de la Cartuja de Valldemossa"
+- src: /images/actividades/mallorca/fma-soller/port-soller-puerto-barcos.webp
+  alt: "Barcos en el puerto de Port de Sóller"
+- src: /images/actividades/mallorca/fma-soller/bahia-port-soller-paseo.webp
+  alt: "Bahía de Port de Sóller desde el paseo"
 ---
 
 ## Qué vas a ver

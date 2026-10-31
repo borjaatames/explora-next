@@ -69,27 +69,31 @@ keywords:
 - las palmas guided tour
 - las palmas private tour
 - las palmas old town
-imagen: /images/actividades/gran-canaria/vegueta/vegueta-calle.webp
-imagenAlt: A street in the historic Vegueta district
-galeria:
-- src: /images/actividades/gran-canaria/vegueta/catedral-santa-ana.webp
-  alt: Santa Ana Cathedral in Vegueta
-- src: /images/actividades/gran-canaria/vegueta/plaza-santa-ana.webp
-  alt: Plaza de Santa Ana
-- src: /images/actividades/gran-canaria/vegueta/vegueta-ermita.webp
-  alt: Hermitage in the Vegueta district
-- src: /images/actividades/gran-canaria/vegueta/vegueta-tejados.webp
-  alt: Rooftops of the Las Palmas old town
 ratingProveedor: 4.7
 numeroOpiniones: 219
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
 privada: true
+imagen: /images/actividades/gran-canaria/vegueta/fgc-calle-vegueta-terraza.webp
+imagenAlt: "Pedestrian street in the old town of Las Palmas with a café terrace"
+galeria:
+- src: /images/actividades/gran-canaria/vegueta/fgc-fachadas-colores-las-palmas.webp
+  alt: "Colourful façades in Las Palmas de Gran Canaria"
+- src: /images/actividades/gran-canaria/vegueta/plaza-santa-ana.webp
+  alt: "Plaza de Santa Ana in Vegueta"
+- src: /images/actividades/gran-canaria/vegueta/catedral-santa-ana.webp
+  alt: "Santa Ana Cathedral in Vegueta"
+- src: /images/actividades/gran-canaria/vegueta/vegueta-calle.webp
+  alt: "Cobbled street in Vegueta"
+- src: /images/actividades/gran-canaria/vegueta/vegueta-ermita.webp
+  alt: "Chapel with bougainvillea in Vegueta"
+- src: /images/actividades/gran-canaria/vegueta/fgc-catedral-lateral-jardin.webp
+  alt: "Side of Santa Ana Cathedral with its garden"
 ---
 
 ## What you will see

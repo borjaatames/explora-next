@@ -68,27 +68,33 @@ keywords:
 - palma food tour
 - tapas walking tour mallorca
 - pa amb oli palma
-imagen: /images/actividades/mallorca/gastronomia/palma-tapas-02.webp
-imagenAlt: Tapas at a bar in Palma
-galeria:
-- src: /images/actividades/mallorca/gastronomia/palma-tapas-03.webp
-  alt: Assorted tapas in Palma
-- src: /images/actividades/mallorca/gastronomia/palma-tapas-04.webp
-  alt: Sharing plates at a tapas bar
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
-  alt: Facade of Palma Cathedral
-- src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
-  alt: A tapas counter in Palma
 ratingProveedor: 4.8
 numeroOpiniones: 721
 atraccionesRelacionadas:
 - palma
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/gastronomia/palma-tapas-02.webp
+imagenAlt: "Ham tapa on bread with tomato"
+galeria:
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
+  alt: "Narrow street in Palma old town"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-pinaculos.webp
+  alt: "Gothic pinnacles of Palma Cathedral"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-03.webp
+  alt: "Pa amb oli, bread with tomato and olive oil"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-fachada-arcos.webp
+  alt: "Arcaded facade of the Almudaina Palace"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-06.webp
+  alt: "Bar counter with hams and cured meats"
+- src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
+  alt: "Sobrasada, a typical Mallorcan cured sausage"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-04.webp
+  alt: "Parc de la Mar and Palma Cathedral in the evening"
 ---
 
 ## What you will see

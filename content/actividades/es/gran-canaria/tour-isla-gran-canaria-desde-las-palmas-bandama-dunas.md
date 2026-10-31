@@ -74,30 +74,34 @@ keywords:
 - tour isla gran canaria
 - excursion caldera de bandama
 - tour pico de las nieves y dunas de maspalomas
-imagen: /images/actividades/gran-canaria/roque-nublo/pico-nieves.webp
-imagenAlt: Vistas desde el Pico de las Nieves, el punto más alto de Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-desde-pico.webp
-  alt: El Roque Nublo visto desde el Pico de las Nieves
-- src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
-  alt: San Bartolomé de Tirajana entre montañas
-- src: /images/actividades/gran-canaria/buggy/pueblo-fataga.webp
-  alt: El pueblo de Fataga
-- src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-  alt: El barranco de Fataga
-- src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
-  alt: Las dunas de Maspalomas
 ratingProveedor: 4.9
 numeroOpiniones: 1019
 atraccionesRelacionadas:
 - isla
 - interior
 - dunas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/vino/fgc-interior-caldera-bandama.webp
+imagenAlt: "La Caldera de Bandama"
+galeria:
+- src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-mar.webp
+  alt: "La Caldera de Bandama con la costa este al fondo"
+- src: /images/actividades/gran-canaria/roque-nublo/pico-nieves.webp
+  alt: "Vistas desde el Pico de las Nieves"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-pinar-cumbre-pico-nieves.webp
+  alt: "Pinares de la cumbre vistos desde el Pico de las Nieves"
+- src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
+  alt: "Pueblo de San Bartolomé de Tirajana"
+- src: /images/actividades/gran-canaria/fataga/fgc-casas-blancas-fataga.webp
+  alt: "Casas blancas de Fataga"
+- src: /images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-crestas.webp
+  alt: "Crestas de arena en las dunas de Maspalomas"
+- src: /images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-mar.webp
+  alt: "Dunas de Maspalomas junto al mar"
 ---
 
 ## Qué vas a ver

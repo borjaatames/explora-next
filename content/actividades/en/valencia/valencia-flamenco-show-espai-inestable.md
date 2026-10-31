@@ -62,26 +62,30 @@ keywords:
 - flamenco show valencia
 - valencia flamenco tickets
 - best flamenco in valencia
-imagen: /images/actividades/alicante/flamenco/flamenco-baile.webp
-imagenAlt: Flamenco dancer during a show
-galeria:
-- src: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
-  alt: Flamenco group with guitar, singing and dance
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: Flamenco singer on stage
-- src: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
-  alt: Male flamenco dancer performing
-- src: /images/actividades/alicante/flamenco/tablao.webp
-  alt: Stage of a flamenco tablao
 ratingProveedor: 4.9
 numeroOpiniones: 1859
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/flamenco/flamenco-pareja.webp
+imagenAlt: "Flamenco artists on stage during a live show"
+galeria:
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: "Flamenco guitarist playing on stage"
+- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
+  alt: "Flamenco singer performing on stage"
+- src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
+  alt: "Street in Valencia old town at night"
+- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
+  alt: "Male flamenco dancer mid-performance on stage"
+- src: /images/actividades/cordoba/flamenco/guitarrista.webp
+  alt: "Flamenco guitarist in a hat playing live"
+- src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
+  alt: "El Carmen district in central Valencia, lit up at night"
 ---
 
 ## What you will see

@@ -67,26 +67,28 @@ keywords:
 - excursion jeep costa brava
 - que hacer en tossa de mar
 - sant grau tossa de mar
-imagen: /images/actividades/girona/tossa-de-mar/tossa-de-mar-04.webp
-imagenAlt: Tossa de Mar entre el mar y la montaña
-galeria:
-- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-  alt: Acantilados de la Costa Brava sobre el mar
-- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-06.webp
-  alt: Vista de la costa de Tossa de Mar
-- src: /images/actividades/girona/tossa/tossa-de-mar-vila-vella.webp
-  alt: Vila Vella de Tossa de Mar
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
-  alt: Cala rocosa de la Costa Brava
 ratingProveedor: 4.7
 numeroOpiniones: 86
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-4x4/fgi-todoterreno-clasico-monte.webp
+imagenAlt: "Todoterreno clásico aparcado en el monte"
+galeria:
+- src: /images/actividades/girona/fgi-4x4/fgi-land-rover-clasico.webp
+  alt: "Todoterreno Land Rover clásico de los que se usan en la ruta"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-05.webp
+  alt: "Tossa de Mar y los montes que la rodean"
+- src: /images/actividades/girona/fgi-tossa/fgi-tossa-murallas-cala.webp
+  alt: "Murallas de Tossa de Mar sobre la cala"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-04.webp
+  alt: "Murallas y torre de la Vila Vella con la playa de Tossa"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-01.webp
+  alt: "Playa y Vila Vella de Tossa de Mar"
 ---
 
 ## Qué vas a ver

@@ -72,28 +72,30 @@ keywords:
 - guia privado bilbao
 - paseo con local bilbao
 - visita personalizada bilbao
-imagen: /images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp
-imagenAlt: Plaza con escaleras en el Casco Viejo de Bilbao
-galeria:
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
-  alt: Terrazas en la Plaza Nueva de Bilbao
-- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: Edificio del Casco Viejo de Bilbao
-- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-  alt: Mercado de la Ribera junto a la ría
-- src: /images/actividades/bilbao/ria/zubizuri-pasarela.webp
-  alt: Pasarela Zubizuri sobre la ría
-- src: /images/actividades/bilbao/guggenheim/maman-puente.webp
-  alt: El Guggenheim con el arco rojo del puente de La Salve
 ratingProveedor: 4.6
 numeroOpiniones: 343
 atraccionesRelacionadas:
 - casco-viejo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp
+imagenAlt: "Plaza y escaleras de Mallona en el Casco Viejo de Bilbao"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/fbi-siete-calles-fachadas.webp
+  alt: "Calle de las Siete Calles de Bilbao con fachadas de colores"
+- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
+  alt: "Calle comercial del Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
+  alt: "Mercado de la Ribera junto a la ría de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
+  alt: "Bilbao visto desde el monte Artxanda"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-iberdrola.webp
+  alt: "El Guggenheim y la Torre Iberdrola junto a la ría de Bilbao"
+- src: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
+  alt: "Barra de bar con pintxos expuestos"
 ---
 
 ## Qué vas a ver

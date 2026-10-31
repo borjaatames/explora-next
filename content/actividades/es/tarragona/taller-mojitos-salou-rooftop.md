@@ -66,24 +66,28 @@ keywords:
 - rooftop salou
 - cocteleria salou
 - que hacer en salou por la tarde
-imagen: /images/actividades/tarragona/costa/platja-llarga.webp
-imagenAlt: Platja Llarga, en Salou
-galeria:
-- src: /images/actividades/tarragona/costa/faro-salou.webp
-  alt: Faro de Salou
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: Costa del Cap de Salou
-- src: /images/actividades/tarragona/costa/punta-grossa.webp
-  alt: Punta Grossa, en la costa de Salou
 ratingProveedor: 4.8
 numeroOpiniones: 106
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/madrid/pub-crawl/camarero-preparando-copa.webp
+imagenAlt: "Camarero preparando cócteles en una barra en la azotea al anochecer"
+galeria:
+- src: /images/actividades/tarragona/fre-mojitos/costa-dorada-puesta-sol.webp
+  alt: "Puesta de sol sobre la costa de la Costa Daurada"
+- src: /images/actividades/barcelona/noche/copas-bar-noche.webp
+  alt: "Cócteles servidos en la barra de un bar"
+- src: /images/actividades/tarragona/salou/fta-paseo-salou-palmeras-anochecer.webp
+  alt: "Paseo marítimo de Salou con palmeras al anochecer"
+- src: /images/actividades/tarragona/costa/platja-llarga.webp
+  alt: "Platja Llarga de Salou"
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: "Cap de Salou sobre el Mediterráneo"
 ---
 
 ## Qué vas a ver

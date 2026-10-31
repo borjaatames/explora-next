@@ -81,32 +81,32 @@ keywords:
 - puesta de sol pico de las nieves
 - tour volcanes gran canaria
 - excursion caldera de bandama roque nublo
-imagen: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
-imagenAlt: Atardecer en el Pico de las Nieves, en Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-monolito.webp
-  alt: El monolito del Roque Nublo
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-meseta.webp
-  alt: La meseta del Roque Nublo
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-tejeda.webp
-  alt: El Roque Nublo sobre la caldera de Tejeda
-- src: /images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp
-  alt: El Roque Nublo al atardecer
-- src: /images/actividades/gran-canaria/jeep/caldera-tirajana.webp
-  alt: La caldera de Tirajana
-- src: /images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp
-  alt: Atardecer sobre un mar de nubes en las cumbres
 ratingProveedor: 4.9
 numeroOpiniones: 945
 atraccionesRelacionadas:
 - roque-nublo
 - interior
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/estrellas/fgc-atardecer-roque-nublo-pinos.webp
+imagenAlt: "Atardecer tras el Roque Nublo enmarcado por pinos"
+galeria:
+- src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-santa-brigida.webp
+  alt: "La Caldera de Bandama"
+- src: /images/actividades/gran-canaria/tejeda/fgc-caldera-tejeda-luz-dorada.webp
+  alt: "La caldera de Tejeda con el Roque Bentayga bajo la luz de la tarde"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-cielo-azul.webp
+  alt: "El Roque Nublo sobre su cresta rocosa"
+- src: /images/actividades/gran-canaria/jeep/caldera-tirajana.webp
+  alt: "La caldera de Tirajana"
+- src: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
+  alt: "Atardecer desde el Pico de las Nieves con el Teide en el horizonte"
+- src: /images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp
+  alt: "Silueta del Roque Nublo al atardecer sobre el mar de nubes"
 ---
 
 ## Qué vas a ver

@@ -80,27 +80,29 @@ keywords:
 - caldera de tirajana tour
 - fortaleza de ansite
 - excursion interior gran canaria
-imagen: /images/actividades/gran-canaria/jeep/caldera-tirajana.webp
-imagenAlt: Caldera de Tirajana, en el interior de Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
-  alt: San Bartolomé de Tirajana, junto a la caldera
-- src: /images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp
-  alt: Laderas volcánicas del sureste de Gran Canaria
-- src: /images/actividades/gran-canaria/guayadeque/casas-cueva.webp
-  alt: Casas cueva en un barranco de Gran Canaria
-- src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
-  alt: Carretera de curvas entre barrancos
 ratingProveedor: 4.7
 numeroOpiniones: 325
 atraccionesRelacionadas:
 - interior
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/jeep/caldera-tirajana.webp
+imagenAlt: "La caldera de Tirajana con sus pueblos en el fondo del valle"
+galeria:
+- src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
+  alt: "Pueblo de San Bartolomé de Tirajana entre montañas"
+- src: /images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp
+  alt: "Laderas rojizas del barranco de Guayadeque, en el sureste de Gran Canaria"
+- src: /images/actividades/gran-canaria/guayadeque/casas-cueva.webp
+  alt: "Casas cueva excavadas en la roca volcánica"
+- src: /images/actividades/gran-canaria/sureste/fgc-paredes-rojas-barranco.webp
+  alt: "Paredes de roca rojiza y palmeras en un barranco del sureste de Gran Canaria"
+- src: /images/actividades/gran-canaria/guayadeque/guayadeque-mar.webp
+  alt: "Barranco abriéndose hacia la costa este de Gran Canaria"
 ---
 
 ## Qué vas a ver

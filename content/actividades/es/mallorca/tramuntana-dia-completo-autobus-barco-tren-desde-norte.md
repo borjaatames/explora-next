@@ -74,29 +74,33 @@ keywords:
 - tren de soller desde el norte
 - vuelta a mallorca barco tren
 - excursion tramuntana alcudia
-imagen: /images/actividades/mallorca/soller/sa-calobra-aerea.webp
-imagenAlt: Vista aérea de Sa Calobra en la Serra de Tramuntana
-galeria:
-- src: /images/actividades/mallorca/soller/sa-calobra-torrent.webp
-  alt: Desembocadura del Torrent de Pareis
-- src: /images/actividades/mallorca/soller/sa-calobra-barco.webp
-  alt: Barco en la costa de Sa Calobra
-- src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
-  alt: Bahía de Port de Sóller
-- src: /images/actividades/mallorca/soller/tranvia-soller-paseo.webp
-  alt: Tranvía de Sóller por el paseo marítimo
-- src: /images/actividades/mallorca/soller/tren-soller-estacion.webp
-  alt: Tren de madera de Sóller en la estación
 ratingProveedor: 4.6
 numeroOpiniones: 656
 atraccionesRelacionadas:
 - soller-tramuntana
 - tramuntana
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/soller/sa-calobra-barco.webp
+imagenAlt: "Barco de excursión en la costa de Sa Calobra"
+galeria:
+- src: /images/actividades/mallorca/fma-tramuntana/carretera-sa-calobra-curvas.webp
+  alt: "Carretera de curvas que baja a Sa Calobra"
+- src: /images/actividades/mallorca/fma-tramuntana/torrent-pareis-playa.webp
+  alt: "Playa del Torrent de Pareis entre paredes de roca"
+- src: /images/actividades/mallorca/fma-tramuntana/torrent-pareis-desembocadura.webp
+  alt: "Desembocadura del Torrent de Pareis vista desde lo alto"
+- src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
+  alt: "Bahía de Port de Sóller desde la montaña"
+- src: /images/actividades/mallorca/fma-soller/tranvia-paseo-port-soller.webp
+  alt: "Tranvía de Sóller por el paseo marítimo de Port de Sóller"
+- src: /images/actividades/mallorca/soller/tren-soller-cocheras.webp
+  alt: "Tren de madera de Sóller en las cocheras"
+- src: /images/actividades/mallorca/fma-soller/soller-pueblo-desde-alto.webp
+  alt: "Sóller y su estación de tren desde lo alto"
 ---
 
 ## Qué vas a ver

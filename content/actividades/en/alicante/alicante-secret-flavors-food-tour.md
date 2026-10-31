@@ -68,26 +68,32 @@ keywords:
 - alicante tapas tour
 - alicante central market tour
 - things to eat in alicante
-imagen: /images/actividades/alicante/paella/mercado-central.webp
-imagenAlt: Facade of Alicante Central Market
-galeria:
-- src: /images/actividades/alicante/paella/mercado-aereo.webp
-  alt: Alicante Central Market seen from above
-- src: /images/actividades/alicante/paella/mercado-palmeras.webp
-  alt: Palm trees by the Central Market
-- src: /images/actividades/alicante/paella/tapas-tortilla.webp
-  alt: Tapas with Spanish omelette
-- src: /images/actividades/alicante/centro/explanada-palmeras.webp
-  alt: The palm-lined Explanada de España
 ratingProveedor: 4.8
 numeroOpiniones: 1767
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-gastro/fal-mercado-central-alicante.webp
+imagenAlt: "Façade of Alicante's Central Market with palm trees"
+galeria:
+- src: /images/actividades/alicante/fal-gastro/fal-puesto-verduras.webp
+  alt: "Fruit and vegetable stall at an open-air market"
+- src: /images/actividades/barcelona/tapas/pintxo-gilda-anchoas.webp
+  alt: "Pickle and anchovy skewers"
+- src: /images/actividades/alicante/paella/mercado-aereo.webp
+  alt: "Aerial view of Alicante's Central Market"
+- src: /images/actividades/alicante/fal-gastro/fal-aceitunas-verdes.webp
+  alt: "Bowl of green olives"
+- src: /images/actividades/alicante/fal-centro/fal-fachada-azulejos-tienda.webp
+  alt: "Shop front with colourful tiles in Alicante"
+- src: /images/actividades/alicante/paella/tapas-tortilla.webp
+  alt: "Spanish omelette tapas"
+- src: /images/actividades/jerez-de-la-frontera/tapas/croquetas-caseras.webp
+  alt: "Plate of homemade croquettes"
 ---
 
 ## What you will see

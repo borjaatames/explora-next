@@ -68,27 +68,33 @@ keywords:
 - girona day trip from barcelona
 - girona small group tour
 - girona half day tour
-imagen: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
-imagenAlt: Red Eiffel bridge and colourful houses on the Onyar river in Girona
-galeria:
-- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
-  alt: Arab Baths in Girona
-- src: /images/actividades/girona/call-jueu/call-jueu-01.webp
-  alt: Lane in the Jewish Quarter of Girona
-- src: /images/actividades/girona/muralla/muralla-girona-hero.webp
-  alt: Walk along the Girona city walls
-- src: /images/actividades/girona/catedral-girona/catedral-girona-01.webp
-  alt: Girona Cathedral
 ratingProveedor: 4.8
 numeroOpiniones: 60
 atraccionesRelacionadas:
 - casco-antiguo
 - casco-medieval
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-girona/fgi-onyar-casas-catedral-cielo-azul.webp
+imagenAlt: "Colourful Onyar houses with Girona Cathedral"
+galeria:
+- src: /images/actividades/girona/juego-de-tronos/banos-arabes-cupula.webp
+  alt: "The dome and columns of Girona's Arab Baths"
+- src: /images/actividades/girona/fgi-girona/fgi-call-callejon-escaleras.webp
+  alt: "Cobbled alley with steps in Girona's Jewish Quarter"
+- src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
+  alt: "Girona Cathedral seen from the city walls"
+- src: /images/actividades/girona/catedral-girona/catedral-girona-02.webp
+  alt: "The Girona Cathedral steps in afternoon light"
+- src: /images/actividades/girona/fgi-girona/fgi-catedral-girona-montanas.webp
+  alt: "Girona Cathedral with the mountains behind"
+- src: /images/actividades/girona/fgi-girona/fgi-pont-eiffel-onyar.webp
+  alt: "The Eiffel Bridge over the Onyar river in Girona"
+- src: /images/actividades/girona/juego-de-tronos/casas-onyar.webp
+  alt: "Colourful façades over the Onyar river"
 ---
 
 ## What you will see

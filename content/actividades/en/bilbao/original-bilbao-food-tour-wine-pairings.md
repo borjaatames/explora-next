@@ -68,28 +68,32 @@ keywords:
 - bilbao pintxos tour wine
 - best pintxos bilbao tour
 - bilbao tapas tour
-imagen: /images/actividades/bilbao/gastronomia/pintxos-variados.webp
-imagenAlt: Tray of assorted pintxos
-galeria:
-- src: /images/actividades/bilbao/gastronomia/barra-bar.webp
-  alt: Bar counter with pintxos
-- src: /images/actividades/bilbao/pintxos/pintxos-queso-mermelada.webp
-  alt: Cheese pintxos with jam and walnuts
-- src: /images/actividades/bilbao/gastronomia/mesa-tapas.webp
-  alt: Table with pintxos and sharing plates
-- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
-  alt: Glasses of wine
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
-  alt: Plaza Nueva in Bilbao's Old Town
 ratingProveedor: 4.9
 numeroOpiniones: 246
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/pintxos/fbi-barra-pintxos-vasca.webp
+imagenAlt: "Bar counter full of pintxos in a Basque bar"
+galeria:
+- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
+  alt: "Glasses of white wine served at the bar"
+- src: /images/actividades/bilbao/pintxos/pintxos-queso-mermelada.webp
+  alt: "Goat cheese pintxos with red berries"
+- src: /images/actividades/bilbao/casco-viejo/fbi-siete-calles-fachadas.webp
+  alt: "Street in Bilbao's Siete Calles with colourful facades"
+- src: /images/actividades/bilbao/pintxos/fbi-pintxos-tabla-madera.webp
+  alt: "Pintxos on a wooden board at a Basque bar"
+- src: /images/actividades/bilbao/gastronomia/gilda.webp
+  alt: "Gildas, the classic Basque pintxo"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: "Plaza Nueva in Bilbao Old Town"
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-noche-calle.webp
+  alt: "Bilbao Old Town street at night"
 ---
 
 ## What you will see

@@ -67,24 +67,32 @@ keywords:
 - cata de vinos el grifo lanzarote
 - visita bodega lanzarote
 - museo del vino lanzarote
-imagen: /images/actividades/lanzarote/zonas/la-geria-bodega.webp
-imagenAlt: Bodega en la zona vinícola de La Geria, Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-  alt: Viñedos sobre ceniza volcánica en La Geria
-- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
-  alt: Hoyos con muros de piedra para proteger las vides
-- src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
-  alt: Cultivos sobre terreno volcánico en Lanzarote
 ratingProveedor: 4.9
 numeroOpiniones: 374
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
+imagenAlt: "Barricas de roble en la nave de crianza de una bodega"
+galeria:
+- src: /images/actividades/lanzarote/fre-bodega-grifo/la-geria-vinedo-muros-piedra.webp
+  alt: "Viñedos de La Geria protegidos por muros de piedra volcánica"
+- src: /images/actividades/madrid/vinos-madrid/cata-vino-blanco.webp
+  alt: "Servicio de vino blanco en una cata"
+- src: /images/actividades/lanzarote/fre-bodega-grifo/la-geria-casa-blanca-vinedo.webp
+  alt: "Casa blanca entre hoyos de viña en La Geria"
+- src: /images/actividades/barcelona/vino/copas-vino-tinto-fila.webp
+  alt: "Copas de vino tinto en fila preparadas para una cata"
+- src: /images/actividades/lanzarote/la-geria/flz-racimo-uvas.webp
+  alt: "Racimo de uvas en una viña de Lanzarote"
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
+  alt: "Quesos curados de cabra"
+- src: /images/actividades/lanzarote/fre-bodega-grifo/la-geria-vinedos-volcan.webp
+  alt: "Viñedos en hoyos de ceniza a los pies de un volcán en La Geria"
 ---
 
 ## Qué vas a ver

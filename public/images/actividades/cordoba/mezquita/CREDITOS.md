@@ -20,3 +20,8 @@
 - `puente-romano.webp` — Daniel Villafruela, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:C%C3%B3rdoba-Puente_Romano-Arco_de_Felipe_II-Mezquita-20110917.jpg) · recortada a 1600×1200
 - `mihrab-mezquita.webp` — Pexels, Gu Bra (Licencia Pexels) — https://www.pexels.com/photo/the-niche-in-the-wall-of-mosque-cathedral-of-cordova-6418436/
 - `bosque-arcos-bicolores.webp` — Unsplash, Alexandra Tran (Licencia Unsplash) — https://unsplash.com/photos/the-inside-of-a-building-with-columns-and-arches-rvE_jTiejVc
+- `fvc-bosque-columnas-visitantes.webp` — Zekai Zhu, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/columns-in-the-mosque-cathedral-of-cordoba-andalusia-spain-11829257/) · recortada a 1600×1200
+- `fvc-puente-romano-mezquita-dia.webp` — Makalu, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/spain-andalusia-province-of-cordoba-7771933/) · recortada a 1600×1200
+- `fvc-arcos-crucero-cristiano.webp` — Martinvl, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mezquita-Catedral_de_C%C3%B3rdoba_-_Blending_of_Christian_and_Moorish_architecture.jpg) · recortada a 1600×1200
+- `fvc-arcos-bicolores-luz.webp` — Mike van Schoonderwalt, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/colonnade-with-arches-5504013/) · recortada a 1600×1200
+- `fvc-boveda-catedral.webp` — kallerna, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mezquita-catedral_de_C%C3%B3rdoba_interior_20.jpg) · recortada a 1600×1200

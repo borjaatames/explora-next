@@ -69,24 +69,30 @@ keywords:
 - palma de mallorca bike tour
 - cycling tour palma old town
 - palma by bike
-imagen: /images/actividades/barcelona/bici/bici-calle-casco-antiguo.webp
-imagenAlt: Bikes in an old town street
-galeria:
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
-  alt: Facade of Palma Cathedral
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
-  alt: Palma Cathedral from Parc de la Mar
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
-  alt: Palma Cathedral by the lake
 ratingProveedor: 4.6
 numeroOpiniones: 590
 atraccionesRelacionadas:
 - palma
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-bici-palma/bicicletas-calle-empedrada.webp
+imagenAlt: "Bicycles leaning against a wall on a cobbled street"
+galeria:
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+  alt: "Palma Cathedral above the sea wall"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-palmeras-catedral.webp
+  alt: "Royal Palace of La Almudaina among palm trees, with the Cathedral behind"
+- src: /images/actividades/mallorca/fma-bici-palma/bicicletas-blancas-aparcadas.webp
+  alt: "City bikes parked in a row"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
+  alt: "Narrow street in Palma old town"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-paseo.webp
+  alt: "Almudaina and Cathedral seen from the seafront"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp
+  alt: "Gothic gargoyle on the facade of Palma Cathedral"
 ---
 
 ## What you will see

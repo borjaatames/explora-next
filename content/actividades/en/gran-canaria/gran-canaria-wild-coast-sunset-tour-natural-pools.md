@@ -77,27 +77,31 @@ keywords:
 - gran canaria natural pools
 - north gran canaria tour
 - mirador del balcon sunset
-imagen: /images/actividades/gran-canaria/estrellas/atardecer-calima.webp
-imagenAlt: Sunset over the sea in Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/norte/agaete-puerto-nieves-hero.webp
-  alt: Puerto de las Nieves in Agaete
-- src: /images/actividades/gran-canaria/norte/agaete-valle-aereo-hero.webp
-  alt: Aerial view of the Agaete valley
-- src: /images/actividades/gran-canaria/norte/agaete-iglesia-hero.webp
-  alt: Agaete church
-- src: /images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp
-  alt: Sunset above the clouds in Gran Canaria
 ratingProveedor: 4.9
 numeroOpiniones: 100
 atraccionesRelacionadas:
 - isla
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/costa-norte/fgc-atardecer-atlantico-teide.webp
+imagenAlt: "Sunset over the Atlantic from the north coast of Gran Canaria, with Mount Teide on the horizon"
+galeria:
+- src: /images/actividades/gran-canaria/costa-norte/fgc-piscina-natural-roca-aerea.webp
+  alt: "Aerial view of a natural rock pool among volcanic rocks by the ocean"
+- src: /images/actividades/gran-canaria/norte/agaete-puerto-nieves-hero.webp
+  alt: "Puerto de las Nieves in Agaete, on the north-west coast of Gran Canaria"
+- src: /images/actividades/gran-canaria/costa-norte/fgc-paseo-maritimo-acantilados-agaete.webp
+  alt: "Seafront promenade below the cliffs of Agaete"
+- src: /images/actividades/gran-canaria/costa-norte/fgc-playa-piedras-agaete.webp
+  alt: "Pebble beach and white houses in Agaete"
+- src: /images/actividades/gran-canaria/costa-norte/fgc-oleaje-costa-norte-nubes.webp
+  alt: "Atlantic waves under a cloudy sky on the north coast of Gran Canaria"
+- src: /images/actividades/gran-canaria/costa-norte/fgc-orilla-atardecer-norte.webp
+  alt: "The north coast of Gran Canaria at dusk"
 ---
 
 ## What you will see

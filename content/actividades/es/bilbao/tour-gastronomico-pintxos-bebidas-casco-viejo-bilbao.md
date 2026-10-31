@@ -70,26 +70,32 @@ keywords:
 - tour pintxos bilbao
 - ruta pintxos casco viejo bilbao
 - food tour bilbao
-imagen: /images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp
-imagenAlt: Pintxos variados en una barra de Bilbao
-galeria:
-- src: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
-  alt: Barra de bar con pintxos
-- src: /images/actividades/bilbao/gastronomia/gilda.webp
-  alt: Gilda, pintxo de anchoa, guindilla y aceituna
-- src: /images/actividades/bilbao/gastronomia/pintxos-variados.webp
-  alt: Surtido de pintxos
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
-  alt: Terrazas en la Plaza Nueva
 ratingProveedor: 4.7
 numeroOpiniones: 62
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
+imagenAlt: "Barra de bar con pintxos expuestos"
+galeria:
+- src: /images/actividades/bilbao/gastronomia/pintxos-variados.webp
+  alt: "Pintxos variados de langostino y huevo"
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-noche-terrazas.webp
+  alt: "Terrazas del Casco Viejo de Bilbao por la noche"
+- src: /images/actividades/bilbao/pintxos/fbi-pintxos-vasitos.webp
+  alt: "Pintxos servidos en vasitos en la barra de un bar vasco"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
+  alt: "Terrazas en la Plaza Nueva de Bilbao"
+- src: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
+  alt: "Copa de txakoli blanco"
+- src: /images/actividades/bilbao/pintxos/fbi-gildas-patatas.webp
+  alt: "Gildas de guindilla, aceituna y anchoa sobre patatas"
+- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
+  alt: "Calle comercial del Casco Viejo de Bilbao"
 ---
 
 ## Qué vas a ver

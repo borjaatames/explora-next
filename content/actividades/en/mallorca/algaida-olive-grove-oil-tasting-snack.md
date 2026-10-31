@@ -70,24 +70,34 @@ keywords:
 - olive mill tour mallorca
 - algaida olive grove visit
 - mallorca food experiences
-imagen: /images/actividades/mallorca/ciudades/mallorca-hero.webp
-imagenAlt: Mallorca landscape
-galeria:
-- src: /images/actividades/mallorca/gastronomia/sobrasada-02.webp
-  alt: Sobrasada and local Mallorcan produce
-- src: /images/actividades/mallorca/gastronomia/palma-tapas-04.webp
-  alt: Tapas with local produce
-- src: /images/actividades/mallorca/gastronomia/mercat-olivar-02.webp
-  alt: Fresh produce at a Mallorca market
 ratingProveedor: 4.9
 numeroOpiniones: 218
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-olivar/olivar-tierra-roja-montana.webp
+imagenAlt: "Grove of old olive trees on red soil, with the mountain behind"
+galeria:
+- src: /images/actividades/granada/almazara/almazara-aceite-saliendo.webp
+  alt: "Freshly extracted olive oil pouring out at the mill"
+- src: /images/actividades/mallorca/fma-olivar/olivo-centenario-mallorca.webp
+  alt: "Centuries-old olive tree in the Mallorcan countryside"
+- src: /images/actividades/granada/almazara/aceitunas-recien-cosechadas.webp
+  alt: "Freshly harvested green and black olives"
+- src: /images/actividades/mallorca/fma-olivar/olivos-pared-piedra-seca.webp
+  alt: "Olive trees and a dry-stone wall in Mallorca"
+- src: /images/actividades/granada/almazara/almazara-centrifuga-aceite.webp
+  alt: "Olive mill machinery separating the oil"
+- src: /images/actividades/mallorca/fma-olivar/olivos-montana-mallorca.webp
+  alt: "Olive trees with the Mallorcan mountains behind"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-03.webp
+  alt: "Pa amb oli, bread with tomato and olive oil"
+- src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
+  alt: "Sobrasada, a typical Mallorcan cured sausage"
 ---
 
 ## What you will see

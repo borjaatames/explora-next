@@ -64,25 +64,29 @@ keywords:
 - salinas del carmen fuerteventura
 - fuerteventura museums
 - things to do in antigua fuerteventura
-imagen: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-imagenAlt: Majorero goat, the source of Majorero cheese
-galeria:
-- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Majorero goat
-- src: /images/actividades/fuerteventura/zonas/betancuria-iglesia.webp
-  alt: Church in central Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: Traditional street in inland Fuerteventura
-- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Wrinkled potatoes with mojo, Canarian cooking
 ratingProveedor: 4.5
 numeroOpiniones: 172
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/queso/ffv-quesos-y-vino-casero.webp
+imagenAlt: "Large wheels of artisan goat cheese"
+galeria:
+- src: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
+  alt: "Majorera goat, whose milk makes the island's cheese"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-1.webp
+  alt: "Church and square in Betancuria, inland Fuerteventura"
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
+  alt: "Cured goat cheeses"
+- src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
+  alt: "Herd of goats on a Fuerteventura hillside"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
+  alt: "View of Betancuria among the mountains"
+- src: /images/actividades/fuerteventura/cabras/ffv-pastor-majorero.webp
+  alt: "Majorero shepherd in the countryside"
 ---
 
 ## What you will see

@@ -76,29 +76,33 @@ keywords:
 - palma walking tour
 - palma tour with ensaimada
 - guided tour palma de mallorca
-imagen: /images/actividades/mallorca/catedral-palma/nave-interior.webp
-imagenAlt: The nave inside Palma Cathedral
-galeria:
-- src: /images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp
-  alt: Gaudí's canopy in Palma Cathedral
-- src: /images/actividades/mallorca/catedral-palma/roseton.webp
-  alt: Rose window of Palma Cathedral
-- src: /images/actividades/mallorca/gastronomia/ensaimada-01.webp
-  alt: A Mallorcan ensaïmada
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
-  alt: Facade of Palma Cathedral
-- src: /images/actividades/mallorca/gastronomia/ensaimada-02.webp
-  alt: Ensaïmadas at a café in Palma
 ratingProveedor: 4.8
 numeroOpiniones: 237
 atraccionesRelacionadas:
 - palma
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/catedral-palma/nave-interior.webp
+imagenAlt: "Central nave of Palma Cathedral with its columns"
+galeria:
+- src: /images/actividades/mallorca/gastronomia/ensaimada-01.webp
+  alt: "Mallorcan ensaimada dusted with sugar"
+- src: /images/actividades/mallorca/catedral-palma/roseton.webp
+  alt: "Rose window of Palma Cathedral"
+- src: /images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp
+  alt: "Gaudí's baldachin above the altar of Palma Cathedral"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-vidrieras-bovedas.webp
+  alt: "Vaults and stained glass of Palma Cathedral"
+- src: /images/actividades/mallorca/gastronomia/ensaimada-03.webp
+  alt: "Pastry shop window with ensaimadas"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+  alt: "Palma Cathedral above the sea wall"
+- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
+  alt: "Parc de la Mar and Palma Cathedral at sunset"
 ---
 
 ## What you will see

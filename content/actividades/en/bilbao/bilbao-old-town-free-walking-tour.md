@@ -67,26 +67,32 @@ keywords:
 - free tour bilbao
 - bilbao old town tour
 - bilbao walking tour english
-imagen: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
-imagenAlt: Arriaga Theatre in Bilbao
-galeria:
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
-  alt: Terraces in Plaza Nueva
-- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
-  alt: Santiago Cathedral
-- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: A street in the Seven Streets
-- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-  alt: La Ribera market by the estuary
 ratingProveedor: 4.4
 numeroOpiniones: 57
 atraccionesRelacionadas:
 - casco-viejo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/casco-viejo/fbi-siete-calles-fachadas.webp
+imagenAlt: "Street in Bilbao's Siete Calles with colourful facades"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-calle-gente.webp
+  alt: "Pedestrian street in Bilbao Old Town"
+- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
+  alt: "Inside Bilbao's Cathedral of Santiago"
+- src: /images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp
+  alt: "Square and Mallona steps in Bilbao Old Town"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: "Plaza Nueva in Bilbao Old Town"
+- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
+  alt: "La Ribera Market by the Bilbao estuary"
+- src: /images/actividades/bilbao/casco-viejo/fbi-miradores-fachadas.webp
+  alt: "Facades with glazed bay windows in Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+  alt: "Arriaga Theatre by the Bilbao estuary"
 ---
 
 ## What you will see

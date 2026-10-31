@@ -69,26 +69,30 @@ keywords:
 - tenerife full day tour
 - icod puerto de la cruz candelaria tour
 - day trips from south tenerife
-imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-imagenAlt: Los Gigantes cliffs above the Atlantic
-galeria:
-- src: /images/actividades/tenerife/icod/drago-milenario.webp
-  alt: Ancient Dragon Tree in Icod de los Vinos
-- src: /images/actividades/tenerife/orotava/valle-orotava.webp
-  alt: La Orotava Valley above Puerto de la Cruz
-- src: /images/actividades/tenerife/icod/parque-drago.webp
-  alt: Dragon Tree park in Icod de los Vinos
-- src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
-  alt: Los Gigantes coastline
 ratingProveedor: 4.6
 numeroOpiniones: 382
 atraccionesRelacionadas:
 - masca-gigantes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tenerife/gigantes/ftc-los-gigantes-puerto-acantilados-aerea.webp
+imagenAlt: "Aerial view of Los Gigantes, with its marina and cliffs"
+galeria:
+- src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
+  alt: "The Los Gigantes cliffs seen from the sea"
+- src: /images/actividades/tenerife/icod/ftc-drago-milenario-visitantes.webp
+  alt: "The thousand-year-old dragon tree of Icod de los Vinos with visitors at its base"
+- src: /images/actividades/tenerife/icod/ftc-icod-casa-balcon-canario.webp
+  alt: "Traditional house with a Canarian balcony in Icod de los Vinos"
+- src: /images/actividades/tenerife/icod/ftc-drago-icod-palmera.webp
+  alt: "The Icod dragon tree beside a Canary palm"
+- src: /images/actividades/tenerife/orotava/valle-orotava.webp
+  alt: "The Orotava Valley sloping down to the north coast, where Puerto de la Cruz lies"
+- src: /images/actividades/tenerife/orotava/valle-plataneras.webp
+  alt: "Banana plantations and towns on Tenerife's north coast"
 ---
 
 ## What you will see

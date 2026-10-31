@@ -79,28 +79,32 @@ keywords:
 - estartit snorkelling trip
 - medes islands tour
 - medes islands marine reserve
-imagen: /images/actividades/girona/medes/medes-mero-fondo-marino.webp
-imagenAlt: Grouper on the seabed of the Medes Islands
-galeria:
-- src: /images/actividades/girona/medes/medes-barco-banistas.webp
-  alt: Swimmers next to a boat at the Medes Islands
-- src: /images/actividades/girona/medes/illes-medes-islotes.webp
-  alt: The islets of the Medes Islands
-- src: /images/actividades/girona/medes/medes-entrada-cueva-marina.webp
-  alt: Entrance to a sea cave in the Medes
-- src: /images/actividades/girona/medes/medes-wikimedia-costa-brava-aerial-view-of-l-estartit-il-02.webp
-  alt: Aerial view of L'Estartit and the Medes Islands
-- src: /images/actividades/girona/medes/medes-rocas.webp
-  alt: Rocks of the Medes Islands above the sea
 ratingProveedor: 4.5
 numeroOpiniones: 1553
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/medes/medes-mero-fondo-marino.webp
+imagenAlt: "A grouper swimming on the seabed of the Medes reserve"
+galeria:
+- src: /images/actividades/girona/medes/medes-barco-banistas.webp
+  alt: "Snorkellers beside a boat at the Medes Islands"
+- src: /images/actividades/girona/fgi-mar/fgi-esnorquel-desde-arriba.webp
+  alt: "A person snorkelling in clear water, seen from above"
+- src: /images/actividades/girona/medes/illes-medes-islotes.webp
+  alt: "The Medes islets off L'Estartit"
+- src: /images/actividades/girona/medes/medes-entrada-cueva-marina.webp
+  alt: "The entrance to a sea cave in the Medes Islands"
+- src: /images/actividades/girona/medes/medes-acantilado.webp
+  alt: "A limestone cliff in the Medes Islands"
+- src: /images/actividades/girona/medes/medes-rocas.webp
+  alt: "Medes rocks and vegetation at sea level"
+- src: /images/actividades/girona/medes/medes-wikimedia-costa-brava-aerial-view-of-l-estartit-il-02.webp
+  alt: "Aerial view of L'Estartit and the Medes Islands"
 ---
 
 ## What you'll see

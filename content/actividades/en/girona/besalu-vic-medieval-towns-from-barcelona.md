@@ -72,28 +72,30 @@ keywords:
 - medieval villages catalonia tour
 - besalu and castellfollit de la roca
 - vic and besalu tour
-imagen: /images/actividades/barcelona/girona/besalu-puente.webp
-imagenAlt: Besalú's medieval bridge over the Fluvià river
-galeria:
-- src: /images/actividades/barcelona/girona/besalu-vista-aerea.webp
-  alt: Aerial view of Besalú
-- src: /images/actividades/barcelona/girona/besalu-puente-arcos.webp
-  alt: Arches of Besalú's Romanesque bridge
-- src: /images/actividades/barcelona/girona/besalu-entrada-puente.webp
-  alt: Gate tower on the Besalú bridge
-- src: /images/actividades/barcelona/girona/besalu-puente-rio.webp
-  alt: Besalú bridge seen from the river
-- src: /images/actividades/girona/costa-brava/pueblos-medievales-girona-pixabay-3847277.jpg
-  alt: Street in a medieval village in Girona province
 ratingProveedor: 4.8
 numeroOpiniones: 328
 atraccionesRelacionadas:
 - casco-medieval
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-besalu/fgi-besalu-puente-romanico-rio.webp
+imagenAlt: "The Romanesque bridge of Besalú over the Fluvià river"
+galeria:
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-torre-puerta-puente.webp
+  alt: "The fortified gate tower on the Besalú bridge"
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-plaza-mayor.webp
+  alt: "Besalú's main square with terraces"
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-casas-rio.webp
+  alt: "Medieval houses of Besalú overlooking the river"
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-puente-reflejo.webp
+  alt: "The Besalú bridge reflected in the river"
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-puente-entorno-verde.webp
+  alt: "The Besalú bridge surrounded by greenery and Garrotxa hills"
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-casa-piedra-puente.webp
+  alt: "Stone house next to the Besalú bridge"
 ---
 
 ## What you'll see

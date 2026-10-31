@@ -74,28 +74,32 @@ keywords:
 - lloret de mar y tossa de mar en barco
 - excursion tossa de mar desde barcelona
 - costa brava en barco desde barcelona
-imagen: /images/actividades/girona/tossa-de-mar/tossa-de-mar-01.webp
-imagenAlt: Tossa de Mar y su recinto amurallado junto al mar
-galeria:
-- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-02.webp
-  alt: Vista de Tossa de Mar en la Costa Brava
-- src: /images/actividades/girona/tossa/tossa-de-mar-vila-vella.webp
-  alt: Murallas de la Vila Vella de Tossa de Mar
-- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-  alt: Acantilados de la Costa Brava sobre el mar
-- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-03.webp
-  alt: Playa de Tossa de Mar
-- src: /images/actividades/girona/tossa/tossa-de-mar-pueblo.webp
-  alt: Calles del pueblo de Tossa de Mar
 ratingProveedor: 4.8
 numeroOpiniones: 1530
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-tossa/fgi-tossa-vila-vella-desde-mar.webp
+imagenAlt: "La Vila Vella de Tossa de Mar vista desde el agua"
+galeria:
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-costa-aerea.webp
+  alt: "Vista aérea de la costa de Lloret de Mar con calas y pinos"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
+  alt: "Playa principal de Lloret de Mar con rocas en primer plano"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
+  alt: "La bahía de Lloret de Mar vista desde lo alto"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-02.webp
+  alt: "La Vila Vella de Tossa de Mar sobre su cala"
+- src: /images/actividades/girona/fgi-tossa/fgi-tossa-murallas-cala.webp
+  alt: "Murallas de Tossa de Mar sobre la cala"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-08.webp
+  alt: "Vista de Tossa desde las murallas de la Vila Vella"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-07.webp
+  alt: "Calle con terrazas dentro de la Vila Vella de Tossa"
 ---
 
 ## Qué vas a ver

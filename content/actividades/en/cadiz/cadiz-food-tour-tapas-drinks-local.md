@@ -70,27 +70,35 @@ keywords:
 - cadiz tapas tour
 - tapas in cadiz with a guide
 - cadiz food walking tour
-imagen: /images/actividades/cadiz/centro/mercado-central.webp
-imagenAlt: Cádiz Central Market
-galeria:
-- src: /images/actividades/cadiz/centro/plaza-flores.webp
-  alt: Plaza de las Flores in Cádiz
-- src: /images/actividades/cadiz/centro/vista-torre-tavira.webp
-  alt: Rooftops of Cádiz seen from Torre Tavira
-- src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
-  alt: Archway in the El Pópulo quarter
-- src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
-  alt: Plaza de San Juan de Dios and the City Hall
 ratingProveedor: 4.8
 numeroOpiniones: 52
 atraccionesRelacionadas:
 - casco-antiguo
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cadiz/tapas/ftc-boquerones-fritos-canas.webp
+imagenAlt: "Fried anchovies and small beers on an Andalusian bar table"
+galeria:
+- src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
+  alt: "Plaza de San Juan de Dios, the tour's meeting point"
+- src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
+  alt: "Assorted tapas served in clay dishes"
+- src: /images/actividades/cadiz/centro/mercado-central.webp
+  alt: "Stall in the Central Market of Cádiz"
+- src: /images/actividades/jerez-de-la-frontera/tapas/croquetas-caseras.webp
+  alt: "Homemade croquettes"
+- src: /images/actividades/cadiz/centro/plaza-flores.webp
+  alt: "Café terraces on a street in central Cádiz"
+- src: /images/actividades/cadiz/tapas/ftc-plato-queso-jamon.webp
+  alt: "Plate of cured cheese and ham"
+- src: /images/actividades/jerez-de-la-frontera/tapas/aceitunas-alinadas.webp
+  alt: "Marinated olives"
+- src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
+  alt: "The Arco de los Blancos in the Pópulo quarter"
 ---
 
 ## What you will see

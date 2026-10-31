@@ -67,23 +67,27 @@ keywords:
 - salsa en la playa valencia
 - clases de baile valencia turistas
 - que hacer en la malvarrosa
-imagen: /images/actividades/valencia/mar/arenas-orilla.webp
-imagenAlt: Orilla de la playa en Valencia
-galeria:
-- src: /images/actividades/valencia/mar/cabanyal-barcas.webp
-  alt: Barcas en la playa del Cabanyal, junto a la Malvarrosa
-- src: /images/actividades/valencia/mar/luna-atardecer.webp
-  alt: Atardecer sobre el mar en Valencia
-- src: /images/actividades/valencia/mar/veles-e-vents-atardecer.webp
-  alt: Edificio Veles e Vents al atardecer en el puerto de Valencia
 ratingProveedor: 4.9
 numeroOpiniones: 66
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/salsa/fvc-pies-pareja-bailando.webp
+imagenAlt: "Pies de una pareja bailando en pareja"
+galeria:
+- src: /images/actividades/valencia/mar/arenas-orilla.webp
+  alt: "Orilla de la playa de Las Arenas, contigua a la Malvarrosa, en Valencia"
+- src: /images/actividades/valencia/salsa/fvc-clase-salsa-grupo.webp
+  alt: "Clase de salsa en grupo con parejas practicando pasos básicos"
+- src: /images/actividades/valencia/salsa/fvc-pareja-bailando-calle.webp
+  alt: "Pareja bailando junto a una fachada de colores"
+- src: /images/actividades/valencia/mar/cabanyal-barcas.webp
+  alt: "Barcas sobre la arena de la playa del Cabanyal al atardecer"
+- src: /images/actividades/valencia/salsa/fvc-pareja-salsa-escenario.webp
+  alt: "Pareja de bailarines haciendo pasos de salsa"
 ---
 
 ## Qué vas a ver

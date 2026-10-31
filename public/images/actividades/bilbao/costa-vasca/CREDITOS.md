@@ -10,3 +10,13 @@
 - `hendaya-dos-gemelos.webp` — Daniel VILLAFRUELA · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Hendaye-Les_Deux_Jumeaux-20120409.jpg
 - `hendaya-playa-dos-gemelos.webp` — Joxemai · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:2015_12_harroka_bizkiak.jpg
 - `txakoli-vinedos-mar.webp` — Jean Michel Etchecolonea · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Getaria_Crete_002.jpg
+- `fbi-loyola-cupula.webp` — Txo, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Santuario_de_loyola._C%C3%BApula_2.JPG) · recortada a 1600×1200
+- `fbi-loyola-cupula-lampara.webp` — Zarateman, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Azpeitia_-_Santuario_de_San_Ignacio_de_Loyola_04.jpg) · recortada a 1600×1200
+- `fbi-getaria-playa-raton.webp` — Jean Michel Etchecolonea, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Getaria_2009_11_21_1.JPG) · recortada a 1600×1200
+- `fbi-biarritz-roca-virgen.webp` — Ulrick Trappschuh, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/bridge-leading-to-rock-with-statue-15456325/) · recortada a 1600×1200
+- `fbi-biarritz-playa-olas.webp` — Florian Pépellin, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Biarritz-Plage.JPG) · recortada a 1600×1200
+- `fbi-biarritz-puerto-viejo.webp` — W. Bulach, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:00_3779_Seebad_Biarritz_-_Frankreich.jpg) · recortada a 1600×1200
+- `fbi-biarritz-costa-hotel.webp` — W. Bulach, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:00_1466_Biarritz_-_Frankreich.jpg) · recortada a 1600×1200
+- `fbi-san-juan-luz-puerto.webp` — José Antonio Otegui Auzmendi, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/picturesque-harbor-scene-in-saint-jean-de-luz-33762990/) · recortada a 1600×1200
+- `fbi-san-juan-luz-iglesia-puerto.webp` — No machine-readable author provided. Harrieta171 assumed (based on copyright claims)., CC BY 2.5, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Saint_Jean_de_Luz_Port_Eglise.jpg) · recortada a 1600×1200
+- `fbi-san-juan-luz-bahia.webp` — Olivier Aumage, CC BY-SA 2.0 fr, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Saint_Jean_de_Luz_002.jpg) · recortada a 1600×1200

@@ -66,22 +66,28 @@ keywords:
 - tenerife winery tour
 - tenerife wine and cheese tasting
 - tacoronte winery
-imagen: /images/actividades/tenerife/orotava/valle-orotava.webp
-imagenAlt: La Orotava Valley in north Tenerife
-galeria:
-- src: /images/actividades/tenerife/teide/teide-nordeste.webp
-  alt: Mount Teide seen from the north-east of the island
-- src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
-  alt: Mount Teide above a sea of clouds
-- src: /images/actividades/tenerife/ciudad/la-laguna-panoramica.webp
-  alt: Panoramic view of La Laguna, near El Sauzal
 ratingProveedor: 4.5
 numeroOpiniones: 533
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
+imagenAlt: "Winery aisle lined with stacked wine barrels"
+galeria:
+- src: /images/actividades/tenerife/bodega/ftc-racimos-uva-tinta-vina.webp
+  alt: "Bunches of red grapes on the vine"
+- src: /images/actividades/tenerife/bodega/ftc-seleccion-uva-vendimia.webp
+  alt: "Grapes being sorted on the winery table during harvest"
+- src: /images/actividades/tenerife/orotava/valle-orotava.webp
+  alt: "View of northern Tenerife, with the Orotava Valley and the Atlantic"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Glasses of white and red wine set out for a tasting"
+- src: /images/actividades/alicante/vino/barricas.webp
+  alt: "Ageing room with oak barrels"
+- src: /images/actividades/alicante/vino/cata-tinto.webp
+  alt: "Red wine tasting served in small carafes"
 ---
 
 ## What you will see

@@ -66,29 +66,33 @@ keywords:
 - cadiz history tour
 - cadiz guided tour
 - cadiz old town walk la caleta
-imagen: /images/actividades/cadiz/mar/caleta-balneario.webp
-imagenAlt: La Caleta bathhouse in Cádiz
-galeria:
-- src: /images/actividades/cadiz/centro/catedral-fachada.webp
-  alt: Façade of Cádiz Cathedral
-- src: /images/actividades/cadiz/mar/caleta-barcas.webp
-  alt: Fishing boats on La Caleta beach
-- src: /images/actividades/cadiz/centro/monumento-1812.webp
-  alt: Monument to the 1812 Constitution
-- src: /images/actividades/cadiz/centro/mercado-central.webp
-  alt: Cádiz Central Market
-- src: /images/actividades/cadiz/torre-tavira/torre-tavira-01.webp
-  alt: Torre Tavira in Cádiz
 ratingProveedor: 4.8
 numeroOpiniones: 20
 atraccionesRelacionadas:
 - casco-antiguo
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cadiz/mar/caleta-balneario.webp
+imagenAlt: "La Caleta beach and the La Palma bathhouse in Cádiz"
+galeria:
+- src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
+  alt: "Plaza de San Juan de Dios and Cádiz City Hall"
+- src: /images/actividades/cadiz/centro/ftc-garita-muralla-cadiz.webp
+  alt: "Stone sentry box on the Cádiz city walls"
+- src: /images/actividades/cadiz/mar/caleta-barcas.webp
+  alt: "Boats moored in La Caleta"
+- src: /images/actividades/cadiz/mar/castillo-santa-catalina.webp
+  alt: "Santa Catalina Castle beside La Caleta"
+- src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
+  alt: "San Sebastián Castle at the end of the La Caleta causeway"
+- src: /images/actividades/cadiz/centro/plaza-flores.webp
+  alt: "Street in central Cádiz by the Plaza de las Flores"
+- src: /images/actividades/cadiz/centro/mercado-central.webp
+  alt: "Fruit stall in the Central Market of Cádiz"
 ---
 
 ## What you will see

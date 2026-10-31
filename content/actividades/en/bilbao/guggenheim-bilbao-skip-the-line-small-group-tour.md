@@ -68,28 +68,32 @@ keywords:
 - guggenheim bilbao skip the line
 - guggenheim small group tour
 - guggenheim bilbao tickets with guide
-imagen: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
-imagenAlt: Guggenheim Museum Bilbao and the estuary
-galeria:
-- src: /images/actividades/bilbao/ciudades/bilbao-hero.webp
-  alt: Aerial view of the Guggenheim Museum and La Salve bridge
-- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-  alt: Titanium façade of the Guggenheim Museum
-- src: /images/actividades/bilbao/guggenheim/maman.webp
-  alt: Maman, Louise Bourgeois's spider by the museum
-- src: /images/actividades/bilbao/guggenheim/puppy.webp
-  alt: Puppy, Jeff Koons's flower sculpture
-- src: /images/actividades/bilbao/guggenheim/guggenheim-noche.webp
-  alt: The Guggenheim lit up at night
 ratingProveedor: 4.8
 numeroOpiniones: 120
 atraccionesRelacionadas:
 - guggenheim
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
+imagenAlt: "Guggenheim Museum Bilbao by the river and La Salve bridge"
+galeria:
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-jardines.webp
+  alt: "Exterior of the Guggenheim Museum Bilbao seen from the gardens"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+  alt: "Titanium facade of the Guggenheim Museum Bilbao"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-detalle.webp
+  alt: "Detail of the titanium curves on the Guggenheim facade"
+- src: /images/actividades/bilbao/guggenheim/maman.webp
+  alt: "Maman sculpture by the Guggenheim at dusk"
+- src: /images/actividades/bilbao/guggenheim/puppy-flores.webp
+  alt: "Detail of the flowers on Puppy at the Guggenheim"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-aereo-salve.webp
+  alt: "Elevated view of the Guggenheim and the red arch of La Salve bridge"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-atardecer.webp
+  alt: "The Guggenheim Bilbao lit up at dusk"
 ---
 
 ## What you will see

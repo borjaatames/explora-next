@@ -71,28 +71,32 @@ keywords:
 - visita guiada alicante centro historico
 - tour alicante en ingles
 - que ver en alicante
-imagen: /images/actividades/alicante/centro/santa-cruz-vista.webp
-imagenAlt: Vista del barrio de Santa Cruz de Alicante
-galeria:
-- src: /images/actividades/alicante/centro/explanada.webp
-  alt: La Explanada de España
-- src: /images/actividades/alicante/centro/ayuntamiento.webp
-  alt: Ayuntamiento de Alicante
-- src: /images/actividades/alicante/centro/santa-maria.webp
-  alt: Basílica de Santa María
-- src: /images/actividades/alicante/centro/santa-cruz.webp
-  alt: Casas del barrio de Santa Cruz
-- src: /images/actividades/alicante/centro/san-nicolas-interior.webp
-  alt: Interior de la concatedral de San Nicolás
 ratingProveedor: 4.9
 numeroOpiniones: 84
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/centro/calle-san-antonio.webp
+imagenAlt: "Calle con escaleras del barrio de Santa Cruz, en el casco antiguo de Alicante, con el castillo al fondo"
+galeria:
+- src: /images/actividades/alicante/centro/explanada-palmeras.webp
+  alt: "Paseo de la Explanada de España con palmeras"
+- src: /images/actividades/alicante/centro/santa-cruz-vista.webp
+  alt: "Vista de las casas del barrio de Santa Cruz"
+- src: /images/actividades/alicante/centro/santa-maria.webp
+  alt: "Basílica de Santa María, en el casco antiguo de Alicante"
+- src: /images/actividades/alicante/centro/san-nicolas-interior.webp
+  alt: "Interior de la concatedral de San Nicolás de Alicante"
+- src: /images/actividades/alicante/fal-centro/fal-fachada-azulejos-tienda.webp
+  alt: "Fachada de una tienda decorada con azulejos de colores en Alicante"
+- src: /images/actividades/alicante/centro/ayuntamiento.webp
+  alt: "Fachada barroca del Ayuntamiento de Alicante"
+- src: /images/actividades/alicante/paella/mercado-palmeras.webp
+  alt: "Fachada del Mercado Central de Alicante entre palmeras"
 ---
 
 ## Qué vas a ver

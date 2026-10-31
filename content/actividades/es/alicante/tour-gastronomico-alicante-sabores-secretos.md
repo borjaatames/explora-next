@@ -68,26 +68,32 @@ keywords:
 - food tour alicante
 - mercado central alicante tour
 - tapas alicante guiado
-imagen: /images/actividades/alicante/paella/mercado-central.webp
-imagenAlt: Fachada del Mercado Central de Alicante
-galeria:
-- src: /images/actividades/alicante/paella/mercado-aereo.webp
-  alt: El Mercado Central de Alicante visto desde arriba
-- src: /images/actividades/alicante/paella/mercado-palmeras.webp
-  alt: Palmeras junto al Mercado Central
-- src: /images/actividades/alicante/paella/tapas-tortilla.webp
-  alt: Tapas con tortilla de patatas
-- src: /images/actividades/alicante/centro/explanada-palmeras.webp
-  alt: La Explanada de España con sus palmeras
 ratingProveedor: 4.8
 numeroOpiniones: 1767
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-gastro/fal-mercado-central-alicante.webp
+imagenAlt: "Fachada del Mercado Central de Alicante con palmeras"
+galeria:
+- src: /images/actividades/alicante/fal-gastro/fal-puesto-verduras.webp
+  alt: "Puesto de verduras y hortalizas en un mercado al aire libre"
+- src: /images/actividades/barcelona/tapas/pintxo-gilda-anchoas.webp
+  alt: "Banderillas de encurtidos y anchoas"
+- src: /images/actividades/alicante/paella/mercado-aereo.webp
+  alt: "Vista aérea del Mercado Central de Alicante"
+- src: /images/actividades/alicante/fal-gastro/fal-aceitunas-verdes.webp
+  alt: "Cuenco de aceitunas verdes"
+- src: /images/actividades/alicante/fal-centro/fal-fachada-azulejos-tienda.webp
+  alt: "Fachada de una tienda con azulejos de colores en Alicante"
+- src: /images/actividades/alicante/paella/tapas-tortilla.webp
+  alt: "Tapas de tortilla de patatas"
+- src: /images/actividades/jerez-de-la-frontera/tapas/croquetas-caseras.webp
+  alt: "Plato de croquetas caseras"
 ---
 
 ## Qué vas a ver

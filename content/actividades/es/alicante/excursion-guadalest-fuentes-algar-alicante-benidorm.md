@@ -75,28 +75,32 @@ keywords:
 - fuentes del algar desde alicante
 - guadalest desde benidorm
 - excursion guadalest alicante
-imagen: /images/actividades/alicante/excursiones/algar-cascada.webp
-imagenAlt: Cascada de las Fuentes del Algar
-galeria:
-- src: /images/actividades/alicante/excursiones/algar-cascadas.webp
-  alt: Pozas y cascadas del río Algar
-- src: /images/actividades/alicante/excursiones/algar-figuera.webp
-  alt: Paraje de las Fuentes del Algar
-- src: /images/actividades/alicante/excursiones/guadalest.webp
-  alt: El pueblo de Guadalest en lo alto de la roca
-- src: /images/actividades/alicante/excursiones/guadalest-pena.webp
-  alt: La peña de Guadalest
-- src: /images/actividades/alicante/excursiones/guadalest-desde-castillo.webp
-  alt: Vistas desde el castillo de Guadalest
 ratingProveedor: 4.7
 numeroOpiniones: 1717
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/excursiones/algar-poza.webp
+imagenAlt: "Poza de agua turquesa en las Fuentes del Algar"
+galeria:
+- src: /images/actividades/valencia/excursiones/guadalest-castillo.webp
+  alt: "Castillo de Guadalest sobre la roca"
+- src: /images/actividades/alicante/fal-guadalest/fal-valle-guadalest.webp
+  alt: "Valle y embalse de Guadalest"
+- src: /images/actividades/alicante/excursiones/guadalest-desde-castillo.webp
+  alt: "Guadalest visto desde el castillo"
+- src: /images/actividades/alicante/excursiones/algar-cascada.webp
+  alt: "Cascada en las Fuentes del Algar"
+- src: /images/actividades/valencia/excursiones/algar-toll-blau.webp
+  alt: "Poza del Toll Blau en las Fuentes del Algar"
+- src: /images/actividades/alicante/excursiones/algar-figuera.webp
+  alt: "Sendero junto a una higuera en las Fuentes del Algar"
+- src: /images/actividades/alicante/excursiones/algar-cascadas.webp
+  alt: "Cascadas y pasarela en las Fuentes del Algar"
 ---
 
 ## Qué vas a ver

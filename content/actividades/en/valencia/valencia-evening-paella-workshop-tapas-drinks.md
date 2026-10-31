@@ -65,26 +65,30 @@ keywords:
 - valencia paella workshop
 - learn to cook paella valencia
 - valencia cooking class
-imagen: /images/actividades/valencia/lonja-paella/paella-valenciana.webp
-imagenAlt: Freshly made Valencian paella
-galeria:
-- src: /images/actividades/valencia/lonja-paella/paella-fuego-lena.webp
-  alt: Paella cooking over a wood fire
-- src: /images/actividades/valencia/ruzafa/croquetas.webp
-  alt: A serving of croquettes as a tapa
-- src: /images/actividades/valencia/gastronomia/paella-ruzafa-pixabay-2398845.jpg
-  alt: Paella served at a table in Valencia
-- src: /images/actividades/valencia/ruzafa/mercado-ruzafa-pimientos.webp
-  alt: Fresh peppers at Ruzafa market
 ratingProveedor: 4.9
 numeroOpiniones: 434
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/paella/fvc-paella-marisco-fuego.webp
+imagenAlt: "Seafood paella cooking over an open fire"
+galeria:
+- src: /images/actividades/valencia/ruzafa/mercado-ruzafa-pimientos.webp
+  alt: "Peppers and fresh vegetables at the Ruzafa Market"
+- src: /images/actividades/valencia/paella/fvc-paella-valenciana-paellera.webp
+  alt: "Valencian paella with chicken and green beans in its pan"
+- src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-mesa.webp
+  alt: "Assorted tapas in clay dishes on a wooden table"
+- src: /images/actividades/valencia/lonja-paella/paella-fuego-lena.webp
+  alt: "Paella over a wood fire"
+- src: /images/actividades/valencia/paella/fvc-paella-marisco-mesa.webp
+  alt: "Seafood paella with prawns and mussels served at the table"
+- src: /images/actividades/valencia/paella/fvc-paella-valenciana-detalle.webp
+  alt: "Close-up of a freshly made Valencian paella"
 ---
 
 ## What you will see

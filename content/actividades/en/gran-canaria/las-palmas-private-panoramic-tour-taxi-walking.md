@@ -71,27 +71,31 @@ keywords:
 - las palmas cruise excursion
 - things to do in las palmas de gran canaria
 - las palmas panoramic tour
-imagen: /images/actividades/gran-canaria/canteras/canteras-panoramica.webp
-imagenAlt: Panoramic view of Las Canteras and Las Palmas de Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/canteras/playa-canteras.webp
-  alt: Las Canteras beach
-- src: /images/actividades/gran-canaria/canteras/canteras-paseo.webp
-  alt: Las Canteras seafront promenade
-- src: /images/actividades/gran-canaria/vegueta/catedral-santa-ana.webp
-  alt: Santa Ana Cathedral in Vegueta
-- src: /images/actividades/gran-canaria/vegueta/vegueta-calle.webp
-  alt: A street in the Vegueta district
 ratingProveedor: 4.8
 numeroOpiniones: 37
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
 privada: true
+imagen: /images/actividades/gran-canaria/las-palmas/fgc-panoramica-las-palmas-mirador.webp
+imagenAlt: "Panoramic view of Las Palmas de Gran Canaria from a viewpoint"
+galeria:
+- src: /images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp
+  alt: "The port of Las Palmas seen from above, between palm leaves"
+- src: /images/actividades/gran-canaria/canteras/fgc-canteras-barcas-edificios.webp
+  alt: "Boats moored off Las Canteras beach"
+- src: /images/actividades/gran-canaria/canteras/canteras-panoramica.webp
+  alt: "Las Canteras beach"
+- src: /images/actividades/gran-canaria/vegueta/fgc-vegueta-desde-campanario.webp
+  alt: "Vegueta seen from the bell tower of Santa Ana Cathedral"
+- src: /images/actividades/gran-canaria/vegueta/catedral-vegueta.webp
+  alt: "Santa Ana Cathedral above the rooftops of Vegueta"
+- src: /images/actividades/gran-canaria/vegueta/plaza-santa-ana.webp
+  alt: "Plaza de Santa Ana in Vegueta"
 ---
 
 ## What you will see

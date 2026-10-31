@@ -68,27 +68,33 @@ keywords:
 - excursion girona desde barcelona
 - tour girona grupo reducido
 - girona en un dia desde barcelona
-imagen: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
-imagenAlt: Puente rojo de Eiffel y casas de colores sobre el río Onyar en Girona
-galeria:
-- src: /images/actividades/girona/banos-arabes/banos-arabes-girona-hero.webp
-  alt: Baños Árabes de Girona
-- src: /images/actividades/girona/call-jueu/call-jueu-01.webp
-  alt: Callejón del Call judío de Girona
-- src: /images/actividades/girona/muralla/muralla-girona-hero.webp
-  alt: Paseo de la muralla de Girona
-- src: /images/actividades/girona/catedral-girona/catedral-girona-01.webp
-  alt: Catedral de Girona
 ratingProveedor: 4.8
 numeroOpiniones: 60
 atraccionesRelacionadas:
 - casco-antiguo
 - casco-medieval
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-girona/fgi-onyar-casas-catedral-cielo-azul.webp
+imagenAlt: "Casas de colores del Onyar con la catedral de Girona"
+galeria:
+- src: /images/actividades/girona/juego-de-tronos/banos-arabes-cupula.webp
+  alt: "Cúpula y columnas de los Baños Árabes de Girona"
+- src: /images/actividades/girona/fgi-girona/fgi-call-callejon-escaleras.webp
+  alt: "Callejón empedrado con escaleras en el Call judío de Girona"
+- src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
+  alt: "La catedral de Girona vista desde la muralla"
+- src: /images/actividades/girona/catedral-girona/catedral-girona-02.webp
+  alt: "Escalinata de la catedral de Girona con luz de tarde"
+- src: /images/actividades/girona/fgi-girona/fgi-catedral-girona-montanas.webp
+  alt: "La catedral de Girona con las montañas al fondo"
+- src: /images/actividades/girona/fgi-girona/fgi-pont-eiffel-onyar.webp
+  alt: "Puente de Eiffel sobre el río Onyar en Girona"
+- src: /images/actividades/girona/juego-de-tronos/casas-onyar.webp
+  alt: "Fachadas de colores sobre el río Onyar"
 ---
 
 ## Qué vas a ver

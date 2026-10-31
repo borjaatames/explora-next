@@ -65,26 +65,30 @@ keywords:
 - alicante bullfighting museum
 - plaza de toros alicante tour
 - alicante museo taurino
-imagen: /images/actividades/alicante/centro/castillo-monte.webp
-imagenAlt: Santa Bárbara castle on Mount Benacantil
-galeria:
-- src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
-  alt: Santa Bárbara castle
-- src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: Alicante and its port from the castle
-- src: /images/actividades/alicante/centro/calle-san-antonio.webp
-  alt: A street in central Alicante
-- src: /images/actividades/alicante/centro/ayuntamiento.webp
-  alt: Alicante City Hall
 ratingProveedor: 4.6
 numeroOpiniones: 432
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-alicante-aerea.webp
+imagenAlt: "Aerial view of Alicante bullring"
+galeria:
+- src: /images/actividades/alicante/fal-plaza-toros/fal-corrales-visitantes.webp
+  alt: "Visitors at the pens of Alicante bullring"
+- src: /images/actividades/alicante/fal-plaza-toros/fal-reja-plaza-toros.webp
+  alt: "Wrought-iron grille at Alicante bullring"
+- src: /images/actividades/alicante/fal-plaza-toros/fal-toros-corrales.webp
+  alt: "Bulls in the pens of Alicante bullring"
+- src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-ciudad.webp
+  alt: "Alicante bullring among the city buildings"
+- src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-vista-castillo.webp
+  alt: "Alicante bullring seen from above"
+- src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
+  alt: "Santa Bárbara Castle, visible from the stands"
 ---
 
 ## What you will see

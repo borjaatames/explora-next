@@ -66,29 +66,33 @@ keywords:
 - tour cadiz historia
 - que ver en cadiz con guia
 - paseo guiado cadiz caleta
-imagen: /images/actividades/cadiz/mar/caleta-balneario.webp
-imagenAlt: Balneario de La Caleta en Cádiz
-galeria:
-- src: /images/actividades/cadiz/centro/catedral-fachada.webp
-  alt: Fachada de la catedral de Cádiz
-- src: /images/actividades/cadiz/mar/caleta-barcas.webp
-  alt: Barcas en la playa de La Caleta
-- src: /images/actividades/cadiz/centro/monumento-1812.webp
-  alt: Monumento a la Constitución de 1812
-- src: /images/actividades/cadiz/centro/mercado-central.webp
-  alt: Mercado Central de Cádiz
-- src: /images/actividades/cadiz/torre-tavira/torre-tavira-01.webp
-  alt: Torre Tavira de Cádiz
 ratingProveedor: 4.8
 numeroOpiniones: 20
 atraccionesRelacionadas:
 - casco-antiguo
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cadiz/mar/caleta-balneario.webp
+imagenAlt: "Playa de La Caleta y el balneario de La Palma, en Cádiz"
+galeria:
+- src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
+  alt: "Plaza de San Juan de Dios y el Ayuntamiento de Cádiz"
+- src: /images/actividades/cadiz/centro/ftc-garita-muralla-cadiz.webp
+  alt: "Garita de piedra sobre la muralla de Cádiz"
+- src: /images/actividades/cadiz/mar/caleta-barcas.webp
+  alt: "Barcas fondeadas en La Caleta"
+- src: /images/actividades/cadiz/mar/castillo-santa-catalina.webp
+  alt: "Castillo de Santa Catalina junto a La Caleta"
+- src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
+  alt: "Castillo de San Sebastián al final del paseo de La Caleta"
+- src: /images/actividades/cadiz/centro/plaza-flores.webp
+  alt: "Calle del centro de Cádiz junto a la plaza de las Flores"
+- src: /images/actividades/cadiz/centro/mercado-central.webp
+  alt: "Puesto de fruta en el Mercado Central de Cádiz"
 ---
 
 ## Qué vas a ver

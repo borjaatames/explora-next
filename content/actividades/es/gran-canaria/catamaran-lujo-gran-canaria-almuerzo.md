@@ -75,29 +75,31 @@ keywords:
 - excursion en barco gran canaria con comida
 - catamaran de lujo gran canaria
 - paseo en barco mogan puerto rico
-imagen: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-imagenAlt: La bahía de Puerto Rico, en el sur de Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: El puerto deportivo de Puerto Rico
-- src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: Acantilados volcánicos de la costa suroeste
-- src: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
-  alt: Kayaks junto a la costa rocosa
-- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: Peces en el fondo marino de Gran Canaria
-- src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
-  alt: La costa de Taurito
 ratingProveedor: 4.8
 numeroOpiniones: 1066
 atraccionesRelacionadas:
 - mar
 - mogan
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/catamaran/fgc-catamaran-fondeado-aguas-turquesa.webp
+imagenAlt: "Catamarán fondeado en aguas turquesa"
+galeria:
+- src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
+  alt: "El puerto de Puerto Rico de Gran Canaria, punto de salida"
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: "Costa rocosa del suroeste de Gran Canaria"
+- src: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
+  alt: "Proa de un catamarán sobre agua clara"
+- src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
+  alt: "Fondo rocoso bajo aguas cristalinas, ideal para el esnórquel"
+- src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
+  alt: "Acantilados y casas de la costa de Mogán vistos desde el mar"
+- src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
+  alt: "Vista del puerto deportivo de Puerto Rico de Gran Canaria"
 ---
 
 ## Qué vas a ver

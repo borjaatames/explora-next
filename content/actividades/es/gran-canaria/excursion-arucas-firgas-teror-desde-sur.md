@@ -73,28 +73,32 @@ keywords:
 - excursion norte gran canaria desde maspalomas
 - visita destileria arehucas excursion
 - tour teror gran canaria
-imagen: /images/actividades/gran-canaria/norte/arucas-iglesia-fachada-hero.webp
-imagenAlt: La iglesia de San Juan Bautista de Arucas
-galeria:
-- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
-  alt: La cascada del Paseo de Canarias en Firgas
-- src: /images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp
-  alt: Los azulejos de las islas en Firgas
-- src: /images/actividades/gran-canaria/arehucas/barricas-ron-bodega-crianza.webp
-  alt: Barricas de ron en una bodega de crianza
-- src: /images/actividades/gran-canaria/arehucas/arehucas-fabrica-ron-arucas.webp
-  alt: La fábrica de ron Arehucas en Arucas
-- src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
-  alt: Torre de piedra volcánica de la iglesia de Arucas
 ratingProveedor: 4.5
 numeroOpiniones: 127
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/norte/fgc-iglesia-san-juan-arucas.webp
+imagenAlt: "Fachada neogótica de la iglesia de San Juan Bautista de Arucas"
+galeria:
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
+  alt: "Cascada del Paseo de Canarias en Firgas"
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp
+  alt: "Bancos de azulejos con los escudos de los municipios en Firgas"
+- src: /images/actividades/gran-canaria/norte/fgc-plaza-iglesia-arucas.webp
+  alt: "Plaza con terrazas frente a la iglesia de Arucas"
+- src: /images/actividades/gran-canaria/norte/fgc-parque-municipal-arucas.webp
+  alt: "Parque municipal de Arucas con un drago"
+- src: /images/actividades/gran-canaria/arehucas/barricas-ron-bodega-crianza.webp
+  alt: "Barricas de ron en la bodega de crianza"
+- src: /images/actividades/gran-canaria/norte/fgc-calle-real-teror-balcones.webp
+  alt: "Calle Real de Teror con sus balcones de madera"
+- src: /images/actividades/gran-canaria/norte/fgc-calle-teror-montanas.webp
+  alt: "Calle de Teror con las montañas del norte al fondo"
 ---
 
 ## Qué vas a ver

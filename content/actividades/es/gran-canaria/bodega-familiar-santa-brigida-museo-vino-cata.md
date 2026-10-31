@@ -66,24 +66,28 @@ keywords:
 - cata de vino gran canaria
 - bodegas santa brigida
 - visita bodega bandama
-imagen: /images/actividades/alicante/vino/vinedos.webp
-imagenAlt: Hileras de viñedo
-galeria:
-- src: /images/actividades/alicante/vino/barricas.webp
-  alt: Barricas de roble en una bodega
-- src: /images/actividades/alicante/vino/cata-copas.webp
-  alt: Copas preparadas para una cata de vino
-- src: /images/actividades/alicante/vino/cata-tinto.webp
-  alt: Copa de vino tinto durante una cata
 ratingProveedor: 4.7
 numeroOpiniones: 142
 atraccionesRelacionadas:
 - interior
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/vino/fgc-racimos-uva-tinta-vina.webp
+imagenAlt: "Racimos de uva tinta en una viña"
+galeria:
+- src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-santa-brigida.webp
+  alt: "La Caldera de Bandama, junto a Santa Brígida"
+- src: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
+  alt: "Barricas de roble en una bodega"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Copas preparadas para una cata de vino"
+- src: /images/actividades/gran-canaria/vino/fgc-fondo-caldera-bandama-cultivos.webp
+  alt: "Cultivos y una casa en el fondo de la Caldera de Bandama"
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
+  alt: "Copas de vino tinto en una cata"
 ---
 
 ## Qué vas a ver

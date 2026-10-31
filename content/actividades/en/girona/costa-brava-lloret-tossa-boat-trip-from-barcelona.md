@@ -74,28 +74,32 @@ keywords:
 - lloret de mar tossa de mar boat
 - tossa de mar tour from barcelona
 - costa brava boat trip from barcelona
-imagen: /images/actividades/girona/tossa-de-mar/tossa-de-mar-01.webp
-imagenAlt: Tossa de Mar and its walled old town by the sea
-galeria:
-- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-02.webp
-  alt: View of Tossa de Mar on the Costa Brava
-- src: /images/actividades/girona/tossa/tossa-de-mar-vila-vella.webp
-  alt: The walls of Tossa de Mar's Vila Vella
-- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-  alt: Costa Brava cliffs above the sea
-- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-03.webp
-  alt: The beach at Tossa de Mar
-- src: /images/actividades/girona/tossa/tossa-de-mar-pueblo.webp
-  alt: Streets of Tossa de Mar
 ratingProveedor: 4.8
 numeroOpiniones: 1530
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-tossa/fgi-tossa-vila-vella-desde-mar.webp
+imagenAlt: "Tossa de Mar's Vila Vella seen from the water"
+galeria:
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-costa-aerea.webp
+  alt: "Aerial view of the Lloret de Mar coastline with coves and pines"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
+  alt: "Lloret de Mar main beach with rocks in the foreground"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
+  alt: "Lloret de Mar bay seen from above"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-02.webp
+  alt: "Tossa de Mar's Vila Vella above its cove"
+- src: /images/actividades/girona/fgi-tossa/fgi-tossa-murallas-cala.webp
+  alt: "Tossa de Mar walls above the cove"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-08.webp
+  alt: "View of Tossa from the Vila Vella walls"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-07.webp
+  alt: "A street with terraces inside Tossa's Vila Vella"
 ---
 
 ## What you'll see

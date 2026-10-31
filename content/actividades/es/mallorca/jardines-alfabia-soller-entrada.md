@@ -64,25 +64,31 @@ keywords:
 - jardines alfabia entradas
 - que ver cerca de soller
 - jardines mallorca tramuntana
-imagen: /images/actividades/mallorca/soller/tren-soller-anden.webp
-imagenAlt: Tren de Sóller en el andén, una forma de llegar a Alfabia
-galeria:
-- src: /images/actividades/mallorca/soller/tren-soller-estacion.webp
-  alt: Estación del tren de Sóller
-- src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
-  alt: Vista de Port de Sóller y la Tramuntana
-- src: /images/actividades/mallorca/valldemossa/valldemossa-01.webp
-  alt: Pueblo de la Serra de Tramuntana
 ratingProveedor: 4.7
 numeroOpiniones: 624
 atraccionesRelacionadas:
 - soller-tramuntana
 - tramuntana
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-alfabia/pergola-columnas-alfabia.webp
+imagenAlt: "Pérgola de columnas de piedra en los Jardines de Alfabia"
+galeria:
+- src: /images/actividades/mallorca/fma-alfabia/escalinata-palmeras-alfabia.webp
+  alt: "Escalinata entre palmeras en los Jardines de Alfabia"
+- src: /images/actividades/mallorca/fma-alfabia/patio-casa-alfabia.webp
+  alt: "Patio de la casa señorial de Alfabia bajo un plátano"
+- src: /images/actividades/mallorca/fma-alfabia/glicinia-balaustrada-alfabia.webp
+  alt: "Tronco de glicinia junto a una balaustrada de piedra en Alfabia"
+- src: /images/actividades/mallorca/fma-alfabia/huerto-citricos-tramuntana.webp
+  alt: "Huerto de cítricos de Alfabia con la Serra de Tramuntana"
+- src: /images/actividades/mallorca/fma-alfabia/limones-cajas-alfabia.webp
+  alt: "Cajas con limones a la entrada de un edificio de Alfabia"
+- src: /images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp
+  alt: "Valle de Sóller y la Serra de Tramuntana desde la carretera"
 ---
 
 ## Qué vas a ver

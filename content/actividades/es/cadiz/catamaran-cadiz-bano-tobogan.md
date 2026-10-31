@@ -69,26 +69,30 @@ keywords:
 - paseo en barco cadiz
 - catamaran bahia de cadiz tobogan
 - excursion barco cadiz verano
-imagen: /images/actividades/cadiz/catamaran/catamaran-saliendo-puerto-cadiz.webp
-imagenAlt: Catamarán saliendo del puerto de Cádiz
-galeria:
-- src: /images/actividades/cadiz/catamaran/catamaran-bahia-cadiz-navegando.webp
-  alt: Catamarán navegando por la bahía de Cádiz
-- src: /images/actividades/cadiz/mar/catedral-desde-mar.webp
-  alt: La catedral de Cádiz vista desde el mar
-- src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
-  alt: Castillo de San Sebastián junto al mar
-- src: /images/actividades/cadiz/mar/caleta-playa.webp
-  alt: Playa de La Caleta en Cádiz
 ratingProveedor: 4.4
 numeroOpiniones: 91
 atraccionesRelacionadas:
 - barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cadiz/catamaran/ftc-catamaran-vela-mar-abierto.webp
+imagenAlt: "Catamarán navegando a vela en mar abierto (imagen ilustrativa)"
+galeria:
+- src: /images/actividades/cadiz/catamaran/catamaran-saliendo-puerto-cadiz.webp
+  alt: "Embarcación saliendo del puerto de Cádiz"
+- src: /images/actividades/cadiz/catamaran/velero-catedral-cadiz.webp
+  alt: "Velero en la bahía con la Catedral de Cádiz al fondo"
+- src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
+  alt: "Persona nadando con gafas bajo el agua (imagen ilustrativa)"
+- src: /images/actividades/cadiz/mar/catedral-desde-mar.webp
+  alt: "Cádiz y su catedral vistas desde el mar"
+- src: /images/actividades/cadiz/catamaran/copa-espumoso-a-bordo-catamaran.webp
+  alt: "Copa de espumoso en la cubierta de un catamarán"
+- src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
+  alt: "Castillo de San Sebastián a la entrada de la bahía"
 ---
 
 ## Qué vas a ver

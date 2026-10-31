@@ -69,24 +69,30 @@ keywords:
 - tour bici getxo
 - puente bizkaia bici
 - que hacer en getxo
-imagen: /images/actividades/bilbao/ria/puente-bizkaia.webp
-imagenAlt: Puente Bizkaia entre Getxo y Portugalete
-galeria:
-- src: /images/actividades/bilbao/ria/puente-bizkaia-barquilla.webp
-  alt: Barquilla del Puente Bizkaia cruzando la ría
-- src: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
-  alt: Barra de bar con pintxos
-- src: /images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp
-  alt: Pintxos variados
 ratingProveedor: 4.8
 numeroOpiniones: 46
 atraccionesRelacionadas:
 - ria-miradores
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/ria/puente-bizkaia.webp
+imagenAlt: "Puente Bizkaia entre Getxo y Portugalete"
+galeria:
+- src: /images/actividades/bilbao/bici/fbi-bicis-clasicas-blancas.webp
+  alt: "Bicicletas clásicas preparadas para un paseo por la ciudad"
+- src: /images/actividades/bilbao/ria/fbi-puente-bizkaia-torre.webp
+  alt: "Torre y viga del Puente Bizkaia contra el cielo"
+- src: /images/actividades/bilbao/ria/puente-bizkaia-barquilla.webp
+  alt: "Barquilla del Puente Bizkaia sobre la ría"
+- src: /images/actividades/bilbao/ria/fbi-puente-bizkaia-barquilla-atardecer.webp
+  alt: "Barquilla del Puente Bizkaia cruzando la ría al atardecer"
+- src: /images/actividades/bilbao/pintxos/fbi-pintxos-tabla-madera.webp
+  alt: "Pintxos sobre una tabla de madera en una barra vasca"
+- src: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
+  alt: "Copa de txakoli blanco"
 ---
 
 ## Qué vas a ver

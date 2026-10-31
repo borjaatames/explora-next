@@ -71,28 +71,32 @@ keywords:
 - alicante old town tour
 - alicante guided tour english
 - what to see in alicante
-imagen: /images/actividades/alicante/centro/santa-cruz-vista.webp
-imagenAlt: View of the Santa Cruz quarter in Alicante
-galeria:
-- src: /images/actividades/alicante/centro/explanada.webp
-  alt: The Explanada de España
-- src: /images/actividades/alicante/centro/ayuntamiento.webp
-  alt: Alicante City Hall
-- src: /images/actividades/alicante/centro/santa-maria.webp
-  alt: The Basilica of Santa María
-- src: /images/actividades/alicante/centro/santa-cruz.webp
-  alt: Houses in the Santa Cruz quarter
-- src: /images/actividades/alicante/centro/san-nicolas-interior.webp
-  alt: Inside St Nicholas Co-Cathedral
 ratingProveedor: 4.9
 numeroOpiniones: 84
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/centro/calle-san-antonio.webp
+imagenAlt: "Stepped street in Alicante's Santa Cruz quarter with the castle behind"
+galeria:
+- src: /images/actividades/alicante/centro/explanada-palmeras.webp
+  alt: "Explanada de España promenade with palm trees"
+- src: /images/actividades/alicante/centro/santa-cruz-vista.webp
+  alt: "View over the houses of the Santa Cruz quarter"
+- src: /images/actividades/alicante/centro/santa-maria.webp
+  alt: "Basilica of Santa María in Alicante's old town"
+- src: /images/actividades/alicante/centro/san-nicolas-interior.webp
+  alt: "Interior of the Co-cathedral of San Nicolás in Alicante"
+- src: /images/actividades/alicante/fal-centro/fal-fachada-azulejos-tienda.webp
+  alt: "Shop front decorated with colourful tiles in Alicante"
+- src: /images/actividades/alicante/centro/ayuntamiento.webp
+  alt: "Baroque façade of Alicante City Hall"
+- src: /images/actividades/alicante/paella/mercado-palmeras.webp
+  alt: "Façade of Alicante's Central Market among palm trees"
 ---
 
 ## What you will see

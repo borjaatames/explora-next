@@ -76,30 +76,32 @@ keywords:
 - tour tejeda artenara desde maspalomas
 - excursion interior gran canaria grupo reducido
 - tour fataga tejeda
-imagen: /images/actividades/gran-canaria/roque-nublo/roque-nublo-tejeda.webp
-imagenAlt: El Roque Nublo sobre la caldera de Tejeda
-galeria:
-- src: /images/actividades/gran-canaria/buggy/pueblo-fataga.webp
-  alt: El pueblo de Fataga
-- src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-  alt: El barranco de Fataga
-- src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
-  alt: Vistas desde la Degollada de las Yeguas
-- src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
-  alt: San Bartolomé de Tirajana
-- src: /images/actividades/gran-canaria/norte/firgas-paseo-isla-azulejo-hero.webp
-  alt: Azulejo con el mapa de Gran Canaria en el norte de la isla
 ratingProveedor: 4.6
 numeroOpiniones: 834
 atraccionesRelacionadas:
 - interior
 - isla
 - roque-nublo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/fataga/fgc-fataga-pueblo-palmeral.webp
+imagenAlt: "Fataga y su palmeral, en el valle de las Mil Palmeras"
+galeria:
+- src: /images/actividades/gran-canaria/fataga/fgc-casas-blancas-fataga.webp
+  alt: "Casas blancas de Fataga en la ladera del barranco"
+- src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
+  alt: "Pueblo de San Bartolomé de Tirajana entre montañas"
+- src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
+  alt: "Mirador de la Degollada de las Yeguas"
+- src: /images/actividades/gran-canaria/tejeda/fgc-tejeda-casas-montanas.webp
+  alt: "Casas de Tejeda frente a las cumbres de Gran Canaria"
+- src: /images/actividades/gran-canaria/tejeda/fgc-flor-almendro-bentayga.webp
+  alt: "Flor de almendro con el Roque Bentayga al fondo"
+- src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
+  alt: "Plataneras en la costa norte de Gran Canaria"
 ---
 
 ## Qué vas a ver

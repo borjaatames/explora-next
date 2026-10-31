@@ -79,28 +79,32 @@ keywords:
 - esnorquel estartit
 - excursion islas medes
 - reserva marina islas medes
-imagen: /images/actividades/girona/medes/medes-mero-fondo-marino.webp
-imagenAlt: Mero en el fondo marino de las islas Medes
-galeria:
-- src: /images/actividades/girona/medes/medes-barco-banistas.webp
-  alt: Bañistas junto a un barco en las islas Medes
-- src: /images/actividades/girona/medes/illes-medes-islotes.webp
-  alt: Islotes de las islas Medes
-- src: /images/actividades/girona/medes/medes-entrada-cueva-marina.webp
-  alt: Entrada a una cueva marina en las Medes
-- src: /images/actividades/girona/medes/medes-wikimedia-costa-brava-aerial-view-of-l-estartit-il-02.webp
-  alt: Vista aérea de L'Estartit y las islas Medes
-- src: /images/actividades/girona/medes/medes-rocas.webp
-  alt: Rocas de las islas Medes sobre el mar
 ratingProveedor: 4.5
 numeroOpiniones: 1553
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/medes/medes-mero-fondo-marino.webp
+imagenAlt: "Mero nadando en el fondo marino de la reserva de las Medes"
+galeria:
+- src: /images/actividades/girona/medes/medes-barco-banistas.webp
+  alt: "Bañistas con tubo junto a un barco en las islas Medes"
+- src: /images/actividades/girona/fgi-mar/fgi-esnorquel-desde-arriba.webp
+  alt: "Persona haciendo esnórquel en aguas claras, vista desde arriba"
+- src: /images/actividades/girona/medes/illes-medes-islotes.webp
+  alt: "Islotes de las Medes frente a L'Estartit"
+- src: /images/actividades/girona/medes/medes-entrada-cueva-marina.webp
+  alt: "Entrada de una cueva marina en las islas Medes"
+- src: /images/actividades/girona/medes/medes-acantilado.webp
+  alt: "Acantilado calizo de las islas Medes"
+- src: /images/actividades/girona/medes/medes-rocas.webp
+  alt: "Rocas y vegetación de las Medes al nivel del mar"
+- src: /images/actividades/girona/medes/medes-wikimedia-costa-brava-aerial-view-of-l-estartit-il-02.webp
+  alt: "Vista aérea de L'Estartit y las islas Medes"
 ---
 
 ## Qué vas a ver

@@ -82,26 +82,30 @@ keywords:
 - cuevas marinas mallorca kayak
 - kayak cala romantica
 - esnorquel cala varques
-imagen: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
-imagenAlt: Esnórquel en aguas transparentes de la costa de Mallorca
-galeria:
-- src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-03.webp
-  alt: Cala de aguas turquesas en el este de Mallorca
-- src: /images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp
-  alt: Bañistas en una cala de Mallorca
-- src: /images/actividades/mallorca/barco-paguera/posidonia-fondo-marino-baleares.webp
-  alt: Pradera de posidonia en el fondo marino de Baleares
-- src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-05.webp
-  alt: Acantilados y agua cristalina en una cala mallorquina
 ratingProveedor: 4.9
 numeroOpiniones: 1040
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
+imagenAlt: "Dos kayaks sobre agua transparente y turquesa"
+galeria:
+- src: /images/actividades/mallorca/fma-cala-varques/cala-varques-playa.webp
+  alt: "Playa de Cala Varques, con agua turquesa y pinar"
+- src: /images/actividades/mallorca/fma-cala-varques/kayak-arco-roca.webp
+  alt: "Kayak rojo pasando bajo un arco de roca en el mar"
+- src: /images/actividades/mallorca/fma-cala-varques/cueva-acantilado-cala-varques.webp
+  alt: "Acantilado con cueva marina junto a Cala Varques"
+- src: /images/actividades/mallorca/fma-cala-varques/nadadora-esnorquel.webp
+  alt: "Nadadora con esnórquel en agua verde azulada"
+- src: /images/actividades/mallorca/fma-cala-varques/roca-oleaje-cala-varques.webp
+  alt: "Rocas y oleaje en la costa de Cala Varques"
+- src: /images/actividades/mallorca/fma-cala-varques/cala-varques-desde-pinar.webp
+  alt: "Cala Varques vista desde el pinar"
 ---
 
 ## Qué vas a ver

@@ -67,27 +67,31 @@ keywords:
 - guided bike tour cordoba spain
 - cordoba by bike
 - cordoba cycling tour
-imagen: /images/actividades/cordoba/mezquita/puente-romano.webp
-imagenAlt: Roman Bridge and Mosque of Córdoba
-galeria:
-- src: /images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp
-  alt: The Mosque by the Guadalquivir
-- src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: Whitewashed street in the Jewish Quarter
-- src: /images/actividades/cordoba/patios/patio-viana.webp
-  alt: Courtyard of the Viana Palace
-- src: /images/actividades/cordoba/mezquita/torre-campanario.webp
-  alt: Bell tower of the Mosque
 ratingProveedor: 4.8
 numeroOpiniones: 430
 atraccionesRelacionadas:
 - mezquita
 - juderia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/bici/fvc-bicis-calle-encalada.webp
+imagenAlt: "Bicycles parked by a whitewashed facade on an Andalusian street"
+galeria:
+- src: /images/actividades/cordoba/bici/fvc-puente-romano-paseantes.webp
+  alt: "People walking on the Roman Bridge with the Mosque-Cathedral behind"
+- src: /images/actividades/cordoba/mezquita/torre-campanario.webp
+  alt: "Bell tower of the Mosque-Cathedral of Córdoba"
+- src: /images/actividades/cordoba/juderia/fvc-calleja-macetas-azules.webp
+  alt: "Whitewashed alley with blue flowerpots in Córdoba old town"
+- src: /images/actividades/cordoba/bici/fvc-puente-romano-san-rafael.webp
+  alt: "San Rafael monument on the Roman Bridge of Córdoba"
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: "Calleja de las Flores with the Mosque tower in the background"
+- src: /images/actividades/cordoba/bici/fvc-calahorra-puente-reflejo.webp
+  alt: "Calahorra Tower and Roman Bridge reflected in the Guadalquivir"
 ---
 
 ## What you will see

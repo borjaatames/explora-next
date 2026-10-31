@@ -70,24 +70,32 @@ keywords:
 - excursion vigo navidad
 - alumbrado vigo excursion
 - ver luces de vigo
-imagen: /images/actividades/santiago-de-compostela/rias/bateas.webp
-imagenAlt: Bateas de mejillón en una ría gallega
-galeria:
-- src: /images/actividades/santiago-de-compostela/rias/batea.webp
-  alt: Batea de mejillón en la ría
-- src: /images/actividades/santiago-de-compostela/rias/catamaran-turistico-o-grove.webp
-  alt: Barco turístico en una ría gallega
-- src: /images/actividades/santiago-de-compostela/rias/combarro.webp
-  alt: Pueblo marinero de las Rías Baixas
 ratingProveedor: 4.6
 numeroOpiniones: 20
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/fre-navidad-vigo/guirnaldas-luces-navidad-calle.webp
+imagenAlt: "Guirnaldas de luces navideñas sobre una calle de noche (imagen ilustrativa)"
+galeria:
+- src: /images/actividades/santiago-de-compostela/noche/fsc-obradoiro-cielo-atardecer.webp
+  alt: "Plaza del Obradoiro de Santiago al atardecer, punto de salida"
+- src: /images/actividades/santiago-de-compostela/fre-navidad-vigo/ria-vigo-barco-travesia.webp
+  alt: "Barco cruzando la ría de Vigo con la ciudad al fondo"
+- src: /images/actividades/santiago-de-compostela/fre-navidad-vigo/puerto-vigo-noche.webp
+  alt: "Puerto de Vigo iluminado de noche"
+- src: /images/actividades/santiago-de-compostela/fre-navidad-vigo/tira-luces-navidad.webp
+  alt: "Tira de luces de Navidad de colores"
+- src: /images/actividades/santiago-de-compostela/fre-navidad-vigo/vigo-casco-vello-tejados.webp
+  alt: "Tejados del casco antiguo de Vigo"
+- src: /images/actividades/santiago-de-compostela/fre-navidad-vigo/vigo-plaza-centro.webp
+  alt: "Plaza peatonal en el centro de Vigo"
+- src: /images/actividades/santiago-de-compostela/fre-navidad-vigo/ria-vigo-atardecer.webp
+  alt: "Atardecer sobre la ría de Vigo"
 ---
 
 ## Qué vas a ver

@@ -69,27 +69,31 @@ keywords:
 - visita guiada las palmas de gran canaria
 - tour privado las palmas
 - triana vegueta a pie
-imagen: /images/actividades/gran-canaria/vegueta/vegueta-calle.webp
-imagenAlt: Calle del barrio histórico de Vegueta
-galeria:
-- src: /images/actividades/gran-canaria/vegueta/catedral-santa-ana.webp
-  alt: Catedral de Santa Ana, en Vegueta
-- src: /images/actividades/gran-canaria/vegueta/plaza-santa-ana.webp
-  alt: Plaza de Santa Ana
-- src: /images/actividades/gran-canaria/vegueta/vegueta-ermita.webp
-  alt: Ermita en el barrio de Vegueta
-- src: /images/actividades/gran-canaria/vegueta/vegueta-tejados.webp
-  alt: Tejados del casco antiguo de Las Palmas
 ratingProveedor: 4.7
 numeroOpiniones: 219
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
 privada: true
+imagen: /images/actividades/gran-canaria/vegueta/fgc-calle-vegueta-terraza.webp
+imagenAlt: "Calle peatonal del casco antiguo de Las Palmas con una terraza"
+galeria:
+- src: /images/actividades/gran-canaria/vegueta/fgc-fachadas-colores-las-palmas.webp
+  alt: "Fachadas de colores en Las Palmas de Gran Canaria"
+- src: /images/actividades/gran-canaria/vegueta/plaza-santa-ana.webp
+  alt: "Plaza de Santa Ana, en Vegueta"
+- src: /images/actividades/gran-canaria/vegueta/catedral-santa-ana.webp
+  alt: "Catedral de Santa Ana, en Vegueta"
+- src: /images/actividades/gran-canaria/vegueta/vegueta-calle.webp
+  alt: "Calle empedrada de Vegueta"
+- src: /images/actividades/gran-canaria/vegueta/vegueta-ermita.webp
+  alt: "Ermita con buganvillas en Vegueta"
+- src: /images/actividades/gran-canaria/vegueta/fgc-catedral-lateral-jardin.webp
+  alt: "Lateral de la catedral de Santa Ana con su jardín"
 ---
 
 ## Qué vas a ver

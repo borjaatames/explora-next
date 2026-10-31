@@ -74,28 +74,34 @@ keywords:
 - bilbao bike tour
 - family bike tour bilbao
 - bilbao electric bike
-imagen: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
-imagenAlt: Arriaga Theatre on the Bilbao estuary
-galeria:
-- src: /images/actividades/bilbao/ria/zubizuri.webp
-  alt: Zubizuri bridge over the estuary
-- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-  alt: Titanium façade of the Guggenheim Museum
-- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
-  alt: Bilbao from Mount Artxanda
-- src: /images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp
-  alt: Aerial view of the Bilbao estuary with La Salve bridge and the Guggenheim
-- src: /images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp
-  alt: Bridge over the estuary and Bilbao's historic architecture
 ratingProveedor: 4.8
 numeroOpiniones: 55
 atraccionesRelacionadas:
 - ria-miradores
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+imagenAlt: "Arriaga Theatre by the Bilbao estuary"
+galeria:
+- src: /images/actividades/bilbao/bici/fbi-carril-bici-senal.webp
+  alt: "Bike lane symbol painted on the pavement"
+- src: /images/actividades/bilbao/ria/fbi-ria-casco-viejo-reflejo.webp
+  alt: "Old Town facades reflected in the Bilbao estuary"
+- src: /images/actividades/bilbao/casco-viejo/fbi-puente-ribera-arenal.webp
+  alt: "Bridge over the estuary by La Ribera and Bilbao Old Town"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
+  alt: "Guggenheim Museum Bilbao by the river and La Salve bridge"
+- src: /images/actividades/bilbao/ria/zubizuri-pasarela.webp
+  alt: "People crossing the Zubizuri footbridge"
+- src: /images/actividades/bilbao/ria/fbi-puente-deusto-ria.webp
+  alt: "The Bilbao estuary with Deusto bridge in the distance"
+- src: /images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp
+  alt: "Aerial view of La Salve bridge and the Guggenheim"
+- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
+  alt: "Bilbao seen from Mount Artxanda"
 ---
 
 ## What you will see

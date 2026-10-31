@@ -67,26 +67,32 @@ keywords:
 - tossa de mar desde barcelona
 - jardin botanico blanes
 - costa brava con comida
-imagen: /images/actividades/girona/tossa-de-mar/tossa-de-mar-02.webp
-imagenAlt: Vila Vella de Tossa de Mar junto al mar
-galeria:
-- src: /images/actividades/girona/tossa/tossa-de-mar-vila-vella.webp
-  alt: Murallas de la Vila Vella de Tossa de Mar
-- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-05.webp
-  alt: Costa de Tossa de Mar
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocas-banistas.webp
-  alt: Bañistas en una cala rocosa de la Costa Brava
-- src: /images/actividades/girona/tossa/tossa-de-mar-pueblo.webp
-  alt: Calles de Tossa de Mar
 ratingProveedor: 4.7
 numeroOpiniones: 1261
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-acantilado-cala.webp
+imagenAlt: "El jardín botánico Marimurtra sobre el acantilado de Blanes y la cala"
+galeria:
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-pergola.webp
+  alt: "Pérgola con bancos y vegetación en el Jardín Botánico Marimurtra"
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-vista-mar.webp
+  alt: "El Mediterráneo visto desde el Jardín Botánico Marimurtra"
+- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
+  alt: "Cala rocosa de aguas turquesas en la Costa Brava"
+- src: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
+  alt: "Mesa con tapas variadas para compartir"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-02.webp
+  alt: "La Vila Vella de Tossa de Mar sobre su cala"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-04.webp
+  alt: "Murallas y torre de la Vila Vella con la playa de Tossa"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-07.webp
+  alt: "Calle con terrazas dentro de la Vila Vella de Tossa"
 ---
 
 ## Qué vas a ver

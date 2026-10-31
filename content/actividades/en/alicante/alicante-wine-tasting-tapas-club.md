@@ -63,26 +63,30 @@ keywords:
 - alicante wine and tapas
 - alicante wine tasting old town
 - things to do in alicante at night
-imagen: /images/actividades/alicante/vino/cata-copas.webp
-imagenAlt: Wine glasses set up for a tasting
-galeria:
-- src: /images/actividades/alicante/vino/cata-tinto.webp
-  alt: A glass of red wine at a tasting
-- src: /images/actividades/alicante/paella/tapas-tortilla.webp
-  alt: Tapas with Spanish omelette
-- src: /images/actividades/alicante/vino/barricas.webp
-  alt: Wine barrels
-- src: /images/actividades/alicante/centro/santa-cruz.webp
-  alt: The Santa Cruz quarter in Alicante
 ratingProveedor: 4.7
 numeroOpiniones: 183
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/gastronomia/copas-vino.webp
+imagenAlt: "Glasses of white wine served at a tasting"
+galeria:
+- src: /images/actividades/alicante/vino/cata-tinto.webp
+  alt: "Small carafes of red wine for a tasting"
+- src: /images/actividades/bilbao/gastronomia/mesa-tapas.webp
+  alt: "Table with assorted tapas in small dishes"
+- src: /images/actividades/alicante/centro/calle-san-antonio.webp
+  alt: "Old-town street in Alicante next to the Santa Cruz quarter"
+- src: /images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp
+  alt: "Tapas on bread held with cocktail sticks"
+- src: /images/actividades/alicante/vino/barricas.webp
+  alt: "Wine barrels in a cellar"
+- src: /images/actividades/alicante/vino/vinedos-paisaje.webp
+  alt: "Vineyard landscape"
 ---
 
 ## What you will see

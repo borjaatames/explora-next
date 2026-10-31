@@ -77,26 +77,28 @@ keywords:
 - ruta quad palma
 - excursion quad mallorca
 - quad tour mallorca cala
-imagen: /images/actividades/tenerife/quad/quad-pinar.webp
-imagenAlt: Quad por una pista entre pinos
-galeria:
-- src: /images/actividades/tarragona/quad/quad-camino.webp
-  alt: Quad por un camino de tierra
-- src: /images/actividades/tarragona/quad/quad-pista.webp
-  alt: Quad en una pista de montaña
-- src: /images/actividades/tenerife/quad/quads-parados-ladera.webp
-  alt: Quads aparcados en una ladera
-- src: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
-  alt: Esnórquel en una cala de Mallorca
 ratingProveedor: 4.7
 numeroOpiniones: 3102
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-quad-randa/quad-camino-tierra.webp
+imagenAlt: "Quad circulando por un camino de tierra"
+galeria:
+- src: /images/actividades/mallorca/fma-quad-randa/grupo-quads-circuito.webp
+  alt: "Grupo de quads en ruta por una pista de tierra"
+- src: /images/actividades/mallorca/fma-olivar/olivos-montana-mallorca.webp
+  alt: "Olivos con la sierra de Mallorca al fondo"
+- src: /images/actividades/mallorca/fma-quad-randa/quad-camino-bosque.webp
+  alt: "Quad por un camino entre árboles"
+- src: /images/actividades/mallorca/fma-olivar/olivos-pared-piedra-seca.webp
+  alt: "Olivos y muro de piedra seca en Mallorca"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
+  alt: "Fondo marino con rocas bajo agua cristalina"
 ---
 
 ## Qué vas a ver

@@ -63,26 +63,30 @@ keywords:
 - tablao el jaleo cordoba
 - flamenco show with dinner cordoba
 - flamenco jewish quarter cordoba
-imagen: /images/actividades/cordoba/flamenco/bailaora.webp
-imagenAlt: Flamenco dancer on stage
-galeria:
-- src: /images/actividades/cordoba/flamenco/cuadro-flamenco.webp
-  alt: Flamenco group with singing, guitar and dance
-- src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: Flamenco guitarist
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: Flamenco hand-clapping
-- src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: Street in Córdoba's Jewish Quarter
 ratingProveedor: 4.7
 numeroOpiniones: 231
 atraccionesRelacionadas:
 - espectaculos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/flamenco/bailaora.webp
+imagenAlt: "Flamenco dancer with a white shawl during a flamenco show"
+galeria:
+- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
+  alt: "Flamenco guitarist playing live"
+- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
+  alt: "Flamenco singer performing on stage"
+- src: /images/actividades/cordoba/juderia/calle-juderia.webp
+  alt: "Street in the Córdoba Jewish Quarter with the Mosque tower behind"
+- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
+  alt: "Flamenco artists on stage during a live show"
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: "Calleja de las Flores with the Mosque tower in the background"
+- src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
+  alt: "Roman Bridge and Mosque-Cathedral of Córdoba lit up at dusk"
 ---
 
 ## What you will see

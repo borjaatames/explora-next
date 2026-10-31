@@ -65,27 +65,29 @@ keywords:
 - girona night tour
 - girona mystery tour
 - things to do in girona at night
-imagen: /images/actividades/girona/juego-de-tronos/pujada-sant-domenec-arco.webp
-imagenAlt: Archway on the Sant Domènec steps in Girona old town
-galeria:
-- src: /images/actividades/girona/juego-de-tronos/call-escaleras.webp
-  alt: Steps in the Jewish Quarter of Girona
-- src: /images/actividades/girona/juego-de-tronos/sant-pere-galligants.webp
-  alt: Sant Pere de Galligants
-- src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
-  alt: Walk along the Girona city walls
-- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
-  alt: Girona Cathedral steps
 ratingProveedor: 4.9
 numeroOpiniones: 53
 atraccionesRelacionadas:
 - casco-antiguo
 - casco-medieval
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-girona-noche/fgi-onyar-anochecer-puente-rojo.webp
+imagenAlt: "The Onyar river at dusk with the lit red bridge and Girona Cathedral behind"
+galeria:
+- src: /images/actividades/girona/fgi-girona-noche/fgi-girona-tejados-atardecer.webp
+  alt: "Girona rooftops at sunset with the cathedral and Sant Feliu"
+- src: /images/actividades/girona/fgi-girona-noche/fgi-onyar-casas-crepusculo.webp
+  alt: "Colourful Onyar houses at twilight, with the first lights on"
+- src: /images/actividades/girona/fgi-girona-noche/fgi-onyar-sant-feliu-ultima-luz.webp
+  alt: "The Onyar houses and Sant Feliu bell tower in the last light of day"
+- src: /images/actividades/girona/fgi-girona-noche/fgi-onyar-reflejos-tarde.webp
+  alt: "Reflections of the Onyar houses in the late afternoon"
+- src: /images/actividades/girona/girona-onyar/girona-onyar-pixabay-1974041.webp
+  alt: "The Onyar houses lit by the setting sun"
 ---
 
 ## What you will see

@@ -72,28 +72,30 @@ keywords:
 - private guide guggenheim
 - guggenheim museum private tour
 - guggenheim bilbao guided tour
-imagen: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-imagenAlt: Titanium façade of the Guggenheim Museum Bilbao
-galeria:
-- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: Guggenheim Museum by Bilbao's estuary
-- src: /images/actividades/bilbao/guggenheim/maman.webp
-  alt: Maman, Louise Bourgeois's spider by the museum
-- src: /images/actividades/bilbao/guggenheim/puppy.webp
-  alt: Puppy, Jeff Koons's flower sculpture
-- src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
-  alt: Guggenheim Museum Bilbao and the estuary
-- src: /images/actividades/bilbao/guggenheim/guggenheim-noche.webp
-  alt: The Guggenheim lit up at night
 ratingProveedor: 4.8
 numeroOpiniones: 333
 atraccionesRelacionadas:
 - guggenheim
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/guggenheim/fbi-puppy-museo.webp
+imagenAlt: "Puppy, the flower dog, in front of the Guggenheim Museum Bilbao entrance"
+galeria:
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-fachada-norte.webp
+  alt: "North facade of the Guggenheim Museum Bilbao with its glass atrium"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
+  alt: "The Guggenheim and Iberdrola Tower by the river"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-detalle.webp
+  alt: "Detail of the titanium curves on the Guggenheim facade"
+- src: /images/actividades/bilbao/guggenheim/maman-puente.webp
+  alt: "The Guggenheim and La Salve bridge from the river"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-iberdrola.webp
+  alt: "The Guggenheim and Iberdrola Tower by the Bilbao river"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
+  alt: "View of the Guggenheim Museum Bilbao from the river"
 ---
 
 ## What you will see

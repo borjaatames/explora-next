@@ -68,28 +68,32 @@ keywords:
 - visita guiada alicante en ingles
 - tour casco antiguo alicante
 - alicante historia guerra civil
-imagen: /images/actividades/alicante/centro/santa-maria.webp
-imagenAlt: Basílica de Santa María de Alicante
-galeria:
-- src: /images/actividades/alicante/centro/explanada-palmeras.webp
-  alt: Palmeras de la Explanada
-- src: /images/actividades/alicante/centro/san-nicolas-claustro.webp
-  alt: Claustro de la concatedral de San Nicolás
-- src: /images/actividades/alicante/centro/ayuntamiento.webp
-  alt: Ayuntamiento de Alicante
-- src: /images/actividades/alicante/centro/santa-cruz.webp
-  alt: Barrio de Santa Cruz
-- src: /images/actividades/alicante/paella/mercado-central.webp
-  alt: Mercado Central de Alicante
 ratingProveedor: 4.9
 numeroOpiniones: 81
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/centro/ayuntamiento.webp
+imagenAlt: "Fachada barroca del Ayuntamiento de Alicante, bajo el que se conservan restos de las antiguas murallas"
+galeria:
+- src: /images/actividades/alicante/centro/santa-maria.webp
+  alt: "Basílica de Santa María, levantada sobre la antigua mezquita"
+- src: /images/actividades/alicante/fal-historia/fal-castillo-santa-barbara-murallas.webp
+  alt: "Murallas y patio del castillo de Santa Bárbara de Alicante"
+- src: /images/actividades/alicante/centro/san-nicolas-claustro.webp
+  alt: "Claustro de la concatedral de San Nicolás"
+- src: /images/actividades/alicante/centro/santa-cruz.webp
+  alt: "Casas del barrio de Santa Cruz al pie del castillo"
+- src: /images/actividades/alicante/centro/castillo-interior.webp
+  alt: "Arcos de piedra en el interior del castillo de Santa Bárbara"
+- src: /images/actividades/alicante/paella/mercado-central.webp
+  alt: "Edificio del Mercado Central de Alicante"
+- src: /images/actividades/alicante/fal-historia/fal-alicante-ciudad-castillo.webp
+  alt: "Vista de Alicante con el monte Benacantil y el castillo"
 ---
 
 ## Qué vas a ver

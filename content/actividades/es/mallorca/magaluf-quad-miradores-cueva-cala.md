@@ -75,24 +75,30 @@ keywords:
 - excursion quad mallorca
 - quad portals vells
 - ruta quad calvia
-imagen: /images/actividades/mallorca/barco-paguera/peguera-islote.webp
-imagenAlt: Islote frente a la costa de Calvià
-galeria:
-- src: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
-  alt: Esnórquel en aguas transparentes de Mallorca
-- src: /images/actividades/mallorca/barco-paguera/peguera-bahia.webp
-  alt: Bahía en el oeste de Mallorca
-- src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-06.webp
-  alt: Cala de aguas turquesas en Mallorca
 ratingProveedor: 4.4
 numeroOpiniones: 655
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-quad-magaluf/quad-azul-costa.webp
+imagenAlt: "Quad aparcado sobre rocas junto al mar"
+galeria:
+- src: /images/actividades/mallorca/fma-quad-magaluf/manos-manillar-quad.webp
+  alt: "Conductor al manillar de un quad por un camino de tierra"
+- src: /images/actividades/mallorca/barco-paguera/peguera-bahia.webp
+  alt: "Costa del suroeste de Mallorca desde lo alto, en la zona de Paguera"
+- src: /images/actividades/mallorca/fma-quad-magaluf/quads-pista-polvo.webp
+  alt: "Quads levantando polvo por una pista de tierra"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
+  alt: "Persona haciendo esnórquel sobre un fondo de rocas"
+- src: /images/actividades/mallorca/barco-paguera/peguera-islote.webp
+  alt: "Islote con pinos frente a la costa de Paguera"
+- src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
+  alt: "Roca en el mar rodeada de agua turquesa"
 ---
 
 ## Qué vas a ver

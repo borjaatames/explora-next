@@ -75,24 +75,30 @@ keywords:
 - mallorca quad tour
 - portals vells quad
 - calvia quad tour
-imagen: /images/actividades/mallorca/barco-paguera/peguera-islote.webp
-imagenAlt: An islet off the Calvià coast
-galeria:
-- src: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
-  alt: Snorkelling in clear Mallorca water
-- src: /images/actividades/mallorca/barco-paguera/peguera-bahia.webp
-  alt: A bay in western Mallorca
-- src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-06.webp
-  alt: A turquoise cove in Mallorca
 ratingProveedor: 4.4
 numeroOpiniones: 655
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-quad-magaluf/quad-azul-costa.webp
+imagenAlt: "Quad bike parked on rocks by the sea"
+galeria:
+- src: /images/actividades/mallorca/fma-quad-magaluf/manos-manillar-quad.webp
+  alt: "Rider at the handlebars of a quad on a dirt track"
+- src: /images/actividades/mallorca/barco-paguera/peguera-bahia.webp
+  alt: "South-west coast of Mallorca from above, near Paguera"
+- src: /images/actividades/mallorca/fma-quad-magaluf/quads-pista-polvo.webp
+  alt: "Quad bikes raising dust on a dirt trail"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
+  alt: "Person snorkelling over a rocky seabed"
+- src: /images/actividades/mallorca/barco-paguera/peguera-islote.webp
+  alt: "Pine-covered islet off the Paguera coast"
+- src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
+  alt: "Rock in the sea surrounded by turquoise water"
 ---
 
 ## What you will see

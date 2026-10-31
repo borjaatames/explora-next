@@ -67,26 +67,32 @@ keywords:
 - tossa de mar day trip
 - blanes botanical garden
 - costa brava tour with lunch
-imagen: /images/actividades/girona/tossa-de-mar/tossa-de-mar-02.webp
-imagenAlt: Tossa de Mar old town by the sea
-galeria:
-- src: /images/actividades/girona/tossa/tossa-de-mar-vila-vella.webp
-  alt: Walls of the Vila Vella in Tossa de Mar
-- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-05.webp
-  alt: Tossa de Mar coastline
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocas-banistas.webp
-  alt: Swimmers in a rocky Costa Brava cove
-- src: /images/actividades/girona/tossa/tossa-de-mar-pueblo.webp
-  alt: Streets of Tossa de Mar
 ratingProveedor: 4.7
 numeroOpiniones: 1261
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-acantilado-cala.webp
+imagenAlt: "The Marimurtra botanical garden on the Blanes cliff above the cove"
+galeria:
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-pergola.webp
+  alt: "Pergola with benches and greenery in the Marimurtra Botanical Garden"
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-vista-mar.webp
+  alt: "The Mediterranean seen from the Marimurtra Botanical Garden"
+- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
+  alt: "A rocky cove with turquoise water on the Costa Brava"
+- src: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
+  alt: "A table with assorted tapas to share"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-02.webp
+  alt: "Tossa de Mar's Vila Vella above its cove"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-04.webp
+  alt: "The Vila Vella walls and tower with Tossa beach"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-07.webp
+  alt: "A street with terraces inside Tossa's Vila Vella"
 ---
 
 ## What you will see

@@ -64,25 +64,29 @@ keywords:
 - salinas del carmen fuerteventura
 - museos fuerteventura
 - que ver en antigua fuerteventura
-imagen: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-imagenAlt: Cabra majorera, origen del queso majorero
-galeria:
-- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Cabra majorera
-- src: /images/actividades/fuerteventura/zonas/betancuria-iglesia.webp
-  alt: Iglesia en el centro de Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: Calle tradicional del interior de Fuerteventura
-- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Papas arrugadas con mojo, cocina canaria
 ratingProveedor: 4.5
 numeroOpiniones: 172
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/queso/ffv-quesos-y-vino-casero.webp
+imagenAlt: "Quesos de cabra artesanos en piezas grandes"
+galeria:
+- src: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
+  alt: "Cabra majorera, de cuya leche se hace el queso de la isla"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-1.webp
+  alt: "Iglesia y plaza de Betancuria, en el interior de Fuerteventura"
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
+  alt: "Quesos curados de cabra"
+- src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
+  alt: "Rebaño de cabras en una ladera de Fuerteventura"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
+  alt: "Vista de Betancuria entre montañas"
+- src: /images/actividades/fuerteventura/cabras/ffv-pastor-majorero.webp
+  alt: "Pastor majorero en el campo"
 ---
 
 ## Qué vas a ver

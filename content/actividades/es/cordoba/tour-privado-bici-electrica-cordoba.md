@@ -68,27 +68,31 @@ keywords:
 - alquiler bici con guia cordoba
 - tour privado cordoba bicicleta
 - cordoba en bici
-imagen: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
-imagenAlt: Puente Romano de Córdoba iluminado
-galeria:
-- src: /images/actividades/cordoba/mezquita/puente-romano.webp
-  alt: Puente Romano y Mezquita
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores
-- src: /images/actividades/cordoba/mezquita/naranjos-torre.webp
-  alt: Naranjos y torre de la Mezquita
-- src: /images/actividades/cordoba/patios/patio-macetas.webp
-  alt: Patio cordobés con macetas
 ratingProveedor: 4.8
 numeroOpiniones: 107
 atraccionesRelacionadas:
 - mezquita
 - juderia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/bici/fvc-bicicletas-blancas-aparcadas.webp
+imagenAlt: "Bicicletas de paseo aparcadas en fila"
+galeria:
+- src: /images/actividades/cordoba/bici/fvc-puente-romano-desde-calahorra.webp
+  alt: "Puente Romano y casco histórico de Córdoba vistos desde la Calahorra"
+- src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
+  alt: "Patio de los Naranjos de la Mezquita-Catedral"
+- src: /images/actividades/cordoba/juderia/calle-juderia.webp
+  alt: "Calle de la Judería de Córdoba con la torre de la Mezquita al fondo"
+- src: /images/actividades/cordoba/juderia/fvc-plaza-juderia-visitantes.webp
+  alt: "Visitantes en una plaza de la Judería de Córdoba"
+- src: /images/actividades/cordoba/alcazar/fvc-alcazar-murallas-palmeras.webp
+  alt: "Murallas del Alcázar de los Reyes Cristianos entre palmeras"
+- src: /images/actividades/cordoba/bici/fvc-mezquita-puente-rio.webp
+  alt: "Mezquita-Catedral y Puente Romano junto al Guadalquivir"
 ---
 
 ## Qué vas a ver

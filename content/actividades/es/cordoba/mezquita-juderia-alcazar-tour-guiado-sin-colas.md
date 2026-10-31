@@ -75,32 +75,38 @@ keywords:
 - visita guiada mezquita y alcazar cordoba
 - tour completo cordoba
 - mezquita cordoba sin colas guia
-imagen: /images/actividades/cordoba/mezquita/arcos-bosque-columnas.webp
-imagenAlt: Bosque de columnas y arcos de la Mezquita de Córdoba
-galeria:
-- src: /images/actividades/cordoba/mezquita/puerta-perdon.webp
-  alt: Puerta del Perdón de la Mezquita-Catedral
-- src: /images/actividades/cordoba/mezquita/mihrab-dorado.webp
-  alt: Mihrab dorado de la Mezquita
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores en la Judería
-- src: /images/actividades/cordoba/juderia/sinagoga.webp
-  alt: Interior de la Sinagoga de Córdoba
-- src: /images/actividades/cordoba/juderia/alcazar-jardines.webp
-  alt: Jardines del Alcázar de los Reyes Cristianos
-- src: /images/actividades/cordoba/juderia/alcazar-estanques.webp
-  alt: Estanques del Alcázar
 ratingProveedor: 4.6
 numeroOpiniones: 5779
 atraccionesRelacionadas:
 - mezquita
 - juderia
 - mezquita-catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/mezquita/fvc-arcos-bicolores-luz.webp
+imagenAlt: "Arcos bicolores y columnas de la sala de oración de la Mezquita-Catedral"
+galeria:
+- src: /images/actividades/cordoba/mezquita/puerta-perdon.webp
+  alt: "Puerta del Perdón, entrada al Patio de los Naranjos"
+- src: /images/actividades/cordoba/mezquita/naranjos-torre.webp
+  alt: "Torre campanario de la Mezquita-Catedral entre naranjos"
+- src: /images/actividades/cordoba/mezquita/mihrab-dorado.webp
+  alt: "Mihrab de la Mezquita-Catedral de Córdoba"
+- src: /images/actividades/cordoba/mezquita/fvc-boveda-catedral.webp
+  alt: "Bóveda renacentista de la catedral dentro de la Mezquita"
+- src: /images/actividades/cordoba/juderia/fvc-calleja-macetas-azules.webp
+  alt: "Calleja encalada con macetas azules en el casco histórico de Córdoba"
+- src: /images/actividades/cordoba/juderia/sinagoga-yeserias.webp
+  alt: "Yeserías mudéjares de la Sinagoga de Córdoba"
+- src: /images/actividades/cordoba/alcazar/fvc-jardines-estanque-flores.webp
+  alt: "Estanque y flores en los jardines del Alcázar de los Reyes Cristianos"
+- src: /images/actividades/cordoba/alcazar/fvc-jardines-torres-alcazar.webp
+  alt: "Jardines y torres del Alcázar de los Reyes Cristianos"
+- src: /images/actividades/cordoba/alcazar/fvc-paseo-cipreses-alcazar.webp
+  alt: "Paseo de cipreses en los jardines del Alcázar"
 ---
 
 ## Qué vas a ver

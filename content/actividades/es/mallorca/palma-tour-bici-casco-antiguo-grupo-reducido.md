@@ -69,24 +69,30 @@ keywords:
 - palma en bicicleta
 - bike tour palma de mallorca
 - ruta en bici casco antiguo palma
-imagen: /images/actividades/barcelona/bici/bici-calle-casco-antiguo.webp
-imagenAlt: Bicicletas en una calle de casco antiguo
-galeria:
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
-  alt: Fachada de la Catedral de Palma
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
-  alt: La Catedral de Palma desde el Parc de la Mar
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
-  alt: La Catedral de Palma junto al estanque
 ratingProveedor: 4.6
 numeroOpiniones: 590
 atraccionesRelacionadas:
 - palma
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-bici-palma/bicicletas-calle-empedrada.webp
+imagenAlt: "Bicicletas apoyadas en la pared de una calle empedrada"
+galeria:
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+  alt: "Catedral de Palma sobre la muralla del mar"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-palmeras-catedral.webp
+  alt: "Palacio Real de la Almudaina entre palmeras, con la Catedral detrás"
+- src: /images/actividades/mallorca/fma-bici-palma/bicicletas-blancas-aparcadas.webp
+  alt: "Bicicletas de paseo aparcadas en fila"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
+  alt: "Calle estrecha del casco antiguo de Palma"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-paseo.webp
+  alt: "Almudaina y Catedral vistas desde el paseo marítimo"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp
+  alt: "Gárgola gótica en la fachada de la Catedral de Palma"
 ---
 
 ## Qué vas a ver

@@ -8,3 +8,14 @@
 - `puppy-flores.webp` — Ermell, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Bilbao_Koons_Puppy_1190387efs.jpg) · recortada a 1600×1200
 - `maman.webp` — Didier Descouens, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Maman_de_Louise_Bourgeois_-_Bilbao.jpg) · recortada a 1600×1200
 - `maman-puente.webp` — José Ligero Loarte, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Museo_Guggenheim_--_2021_--_Bilbao%2C_Euskadi%2C_Espa%C3%B1a.jpg) · recortada a 1600×1200
+- `fbi-guggenheim-ria-salve.webp` — José Ligero Loarte, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Museo_Guggenheim_--_2021_--_Bilbao,_Euskadi,_Espa%C3%B1a.jpg) · recortada a 1600×1200
+- `fbi-guggenheim-jardines.webp` — Basotxerri, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Bilbao_-_Museo_Guggenheim_01.jpg) · recortada a 1600×1200
+- `fbi-guggenheim-titanio-detalle.webp` — Ermell, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Bilbao_Guggenheim_1190444.jpg) · recortada a 1600×1200
+- `fbi-guggenheim-aereo-salve.webp` — ELG21, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/museum-architecture-art-facade-4353303/) · recortada a 1600×1200
+- `fbi-guggenheim-atardecer.webp` — Руслан Кальницкий, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/building-in-bilbao-7195793/) · recortada a 1600×1200
+- `fbi-puppy-museo.webp` — Jules Verne Times Two, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:-Puppy-,_by_Jeff_Koons,_Guggenheim_Museum,_Bilbao,_Spain_(PPL1-Corrected)_julesvernex2.jpg) · recortada a 1600×1200
+- `fbi-guggenheim-fachada-norte.webp` — Jules Verne Times Two, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:North_view_of_the_Guggenheim_Museum,_Bilbao,_Spain_(PPL3-Altered)_julesvernex2.jpg) · recortada a 1600×1200
+- `fbi-guggenheim-ria-iberdrola.webp` — Jorge FernÃ¡ndez Salas, Licencia Unsplash, vía Unsplash (https://unsplash.com/photos/high-rise-building-JD7lQkhFoIA) · recortada a 1600×1200
+- `fbi-guggenheim-titanio-ria.webp` — Ermell, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Bilbao_Guggenheim_1190433.jpg) · recortada a 1600×1200
+- `fbi-guggenheim-ria-maman.webp` — davidvives90, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/building-river-modern-museum-6822814/) · recortada a 1600×1200
+- `fbi-bilbao-vista-guggenheim.webp` — ELG21, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/bridge-city-buildings-bilbao-river-7280182/) · recortada a 1600×1200

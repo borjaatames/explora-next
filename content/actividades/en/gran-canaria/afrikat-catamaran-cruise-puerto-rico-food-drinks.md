@@ -76,29 +76,31 @@ keywords:
 - puerto rico gran canaria catamaran with lunch
 - puerto rico gran canaria boat trip
 - gran canaria catamaran unlimited drinks
-imagen: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
-imagenAlt: Aerial view of Puerto Rico de Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: Puerto Rico de Gran Canaria harbour
-- src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
-  alt: Cliffs on the Mogán coast
-- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
-  alt: Rocky coastline in southwest Gran Canaria
-- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: Fish on the seabed off Gran Canaria
-- src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
-  alt: Puerto Rico de Gran Canaria at sunset
 ratingProveedor: 4.6
 numeroOpiniones: 1116
 atraccionesRelacionadas:
 - mar
 - mogan
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/catamaran/fgc-catamaranes-fondeados-orilla.webp
+imagenAlt: "Catamarans at anchor in turquoise water near the shore, seen from above"
+galeria:
+- src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
+  alt: "The marina at Puerto Rico de Gran Canaria"
+- src: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
+  alt: "Boats at anchor below volcanic cliffs"
+- src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
+  alt: "Volcanic cliffs of the south-west coast seen from the sea"
+- src: /images/actividades/gran-canaria/catamaran/fgc-esnorquel-fondo-rocoso.webp
+  alt: "Snorkelling over a rocky seabed in clear water"
+- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
+  alt: "Fish over the sandy seabed in Gran Canaria waters"
+- src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
+  alt: "The bay and beach of Puerto Rico de Gran Canaria"
 ---
 
 ## What you will see

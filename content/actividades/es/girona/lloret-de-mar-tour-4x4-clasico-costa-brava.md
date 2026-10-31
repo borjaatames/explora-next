@@ -69,26 +69,28 @@ keywords:
 - que hacer en lloret de mar
 - ruta en todoterreno costa brava
 - excursion lloret de mar tossa
-imagen: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-imagenAlt: Acantilados sobre el mar en la Costa Brava
-galeria:
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
-  alt: Cala rocosa de aguas turquesas en la Costa Brava
-- src: /images/actividades/girona/tossa/tossa-de-mar-pueblo.webp
-  alt: Tossa de Mar, vecina de Lloret
-- src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
-  alt: Camino de ronda junto al mar en la Costa Brava
-- src: /images/actividades/girona/kayak-sant-feliu/cala-aguas-cristalinas.webp
-  alt: Cala de aguas cristalinas
 ratingProveedor: 4.9
 numeroOpiniones: 540
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-4x4/fgi-land-rover-clasico.webp
+imagenAlt: "Todoterreno Land Rover clásico de los que se usan en la ruta"
+galeria:
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-costa-aerea.webp
+  alt: "Vista aérea de la costa de Lloret de Mar con calas y pinos"
+- src: /images/actividades/girona/fgi-4x4/fgi-todoterreno-clasico-monte.webp
+  alt: "Todoterreno clásico aparcado en el monte"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
+  alt: "La bahía de Lloret de Mar vista desde lo alto"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
+  alt: "Playa principal de Lloret de Mar con rocas en primer plano"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-rocas.webp
+  alt: "Playa de arena con rocas en Lloret de Mar"
 ---
 
 ## Qué vas a ver

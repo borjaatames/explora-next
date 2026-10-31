@@ -67,27 +67,31 @@ keywords:
 - alquiler bici con guia cordoba
 - cordoba en bicicleta
 - tour bicicleta mezquita cordoba
-imagen: /images/actividades/cordoba/mezquita/puente-romano.webp
-imagenAlt: Puente Romano y Mezquita de Córdoba
-galeria:
-- src: /images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp
-  alt: La Mezquita junto al Guadalquivir
-- src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: Calle blanca de la Judería
-- src: /images/actividades/cordoba/patios/patio-viana.webp
-  alt: Patio del Palacio de Viana
-- src: /images/actividades/cordoba/mezquita/torre-campanario.webp
-  alt: Torre campanario de la Mezquita
 ratingProveedor: 4.8
 numeroOpiniones: 430
 atraccionesRelacionadas:
 - mezquita
 - juderia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/bici/fvc-bicis-calle-encalada.webp
+imagenAlt: "Bicicletas aparcadas junto a una fachada encalada en una calle andaluza"
+galeria:
+- src: /images/actividades/cordoba/bici/fvc-puente-romano-paseantes.webp
+  alt: "Paseantes en el Puente Romano con la Mezquita-Catedral al fondo"
+- src: /images/actividades/cordoba/mezquita/torre-campanario.webp
+  alt: "Torre campanario de la Mezquita-Catedral de Córdoba"
+- src: /images/actividades/cordoba/juderia/fvc-calleja-macetas-azules.webp
+  alt: "Calleja encalada con macetas azules en el casco histórico de Córdoba"
+- src: /images/actividades/cordoba/bici/fvc-puente-romano-san-rafael.webp
+  alt: "Triunfo de San Rafael en el Puente Romano de Córdoba"
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: "Calleja de las Flores con la torre de la Mezquita al fondo"
+- src: /images/actividades/cordoba/bici/fvc-calahorra-puente-reflejo.webp
+  alt: "Torre de la Calahorra y Puente Romano reflejados en el Guadalquivir"
 ---
 
 ## Qué vas a ver

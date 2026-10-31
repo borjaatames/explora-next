@@ -68,28 +68,32 @@ keywords:
 - private guide bilbao
 - bilbao old town private tour
 - personalised tour bilbao
-imagen: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-imagenAlt: La Ribera market by the Bilbao estuary
-galeria:
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
-  alt: Plaza Nueva in Bilbao's Old Town
-- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
-  alt: Teatro Arriaga on the estuary
-- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
-  alt: Gothic interior of Santiago Cathedral
-- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: Building in Bilbao's Old Town
-- src: /images/actividades/bilbao/ria/ria-pasarela.webp
-  alt: Bilbao's estuary and its bridges
 ratingProveedor: 4.6
 numeroOpiniones: 133
 atraccionesRelacionadas:
 - casco-viejo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
+imagenAlt: "La Ribera Market by the Bilbao estuary"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp
+  alt: "La Ribera bridge and historic facades by the estuary"
+- src: /images/actividades/bilbao/casco-viejo/fbi-siete-calles-fachadas.webp
+  alt: "Street in Bilbao's Siete Calles with colourful facades"
+- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
+  alt: "Inside Bilbao's Cathedral of Santiago"
+- src: /images/actividades/bilbao/casco-viejo/claustro-catedral.webp
+  alt: "Cloister of Bilbao's Cathedral of Santiago"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: "Plaza Nueva in Bilbao Old Town"
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-comercio.webp
+  alt: "Traditional shop in Bilbao Old Town"
+- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+  alt: "Arriaga Theatre by the Bilbao estuary"
 ---
 
 ## What you will see

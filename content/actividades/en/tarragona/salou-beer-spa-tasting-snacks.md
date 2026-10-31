@@ -68,24 +68,30 @@ keywords:
 - salou spa for couples
 - beer bath spain
 - things to do in salou adults
-imagen: /images/actividades/tarragona/vermut/barricas-vermut.webp
-imagenAlt: Wooden barrels, like those used for the beer bath
-galeria:
-- src: /images/actividades/tarragona/vermut/vermut-grifo.webp
-  alt: A drink poured straight from the tap
-- src: /images/actividades/tarragona/costa/platja-llarga.webp
-  alt: Platja Llarga in Salou
-- src: /images/actividades/tarragona/costa/faro-salou.webp
-  alt: Salou lighthouse
 ratingProveedor: 4.7
 numeroOpiniones: 37
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/barcelona/cerveza/cata-cerveza-tabla.webp
+imagenAlt: "Tasting board with five different beer styles"
+galeria:
+- src: /images/actividades/tarragona/fre-beer-spa/salou-paseo-palmeras-anochecer.webp
+  alt: "Palm-lined promenade in Salou at dusk"
+- src: /images/actividades/barcelona/cerveza/cata-cerveza-cuatro-vasos.webp
+  alt: "Four glasses of beer for tasting"
+- src: /images/actividades/tarragona/fre-beer-spa/salou-playa-tarde.webp
+  alt: "Salou beach in the late afternoon"
+- src: /images/actividades/fuerteventura/queso/ffv-tostas-queso-higos.webp
+  alt: "Cheese and fig toasts as a snack"
+- src: /images/actividades/tarragona/costa/faro-salou.webp
+  alt: "Salou lighthouse by the sea"
+- src: /images/actividades/tarragona/fre-beer-spa/cala-morisca-salou.webp
+  alt: "Cala Morisca on the Salou coast"
 ---
 
 ## What you will see

@@ -69,26 +69,32 @@ keywords:
 - bilbao getxo en bici
 - tour bici bilbao
 - puente bizkaia en bici
-imagen: /images/actividades/bilbao/ria/puente-bizkaia-barquilla.webp
-imagenAlt: Barquilla del Puente Bizkaia cruzando la ría
-galeria:
-- src: /images/actividades/bilbao/ria/puente-bizkaia.webp
-  alt: Puente Bizkaia sobre la desembocadura de la ría
-- src: /images/actividades/bilbao/ria/ria-pasarela.webp
-  alt: Paseo junto a la ría de Bilbao
-- src: /images/actividades/bilbao/ria/barco-ria.webp
-  alt: Barco en la ría de Bilbao
-- src: /images/actividades/bilbao/ria/trainera-remeros-ria.webp
-  alt: Trainera con remeros en la ría
 ratingProveedor: 4.7
 numeroOpiniones: 22
 atraccionesRelacionadas:
 - ria-miradores
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/bici/fbi-carril-bici-senal.webp
+imagenAlt: "Señal de carril bici pintada en el pavimento"
+galeria:
+- src: /images/actividades/bilbao/ria/fbi-ria-vista-general.webp
+  alt: "Vista general de la ría de Bilbao con sus paseos arbolados"
+- src: /images/actividades/bilbao/ria/fbi-ria-edificios.webp
+  alt: "Edificios junto a la ría de Bilbao"
+- src: /images/actividades/bilbao/ria/fbi-portugalete-vista-aerea.webp
+  alt: "Portugalete y la ría vistos desde lo alto del Puente Bizkaia"
+- src: /images/actividades/bilbao/ria/puente-bizkaia.webp
+  alt: "Puente Bizkaia entre Getxo y Portugalete"
+- src: /images/actividades/bilbao/ria/fbi-puente-bizkaia-pasarela-superior.webp
+  alt: "Pasarela superior del Puente Bizkaia"
+- src: /images/actividades/bilbao/ria/fbi-puente-bizkaia-torre.webp
+  alt: "Torre y viga del Puente Bizkaia contra el cielo"
+- src: /images/actividades/bilbao/ria/fbi-puente-bizkaia-barquilla-atardecer.webp
+  alt: "Barquilla del Puente Bizkaia cruzando la ría al atardecer"
 ---
 
 ## Qué vas a ver

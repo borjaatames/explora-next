@@ -74,25 +74,31 @@ keywords:
 - excursion gaztelugatxe grupo reducido
 - ruta senderismo gaztelugatxe
 - gaztelugatxe con guia
-imagen: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-vista.webp
-imagenAlt: Vista de San Juan de Gaztelugatxe con el camino de piedra hacia la ermita
-galeria:
-- src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-islote.webp
-  alt: Islote de San Juan de Gaztelugatxe con la ermita y el puente de piedra
-- src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
-  alt: Escaleras de piedra que suben a la ermita
-- src: /images/actividades/bilbao/gaztelugatxe/ermita.webp
-  alt: Ermita de San Juan de Gaztelugatxe
-- src: /images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp
-  alt: Camino de piedra de Gaztelugatxe al atardecer
 ratingProveedor: 4.9
 numeroOpiniones: 258
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-caminata-escaleras.webp
+imagenAlt: "Caminante subiendo las escaleras de piedra de San Juan de Gaztelugatxe"
+galeria:
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-sendero-costa.webp
+  alt: "Sendero empedrado de bajada hacia Gaztelugatxe junto a la costa"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-islote-arco.webp
+  alt: "Islote de San Juan de Gaztelugatxe con su ermita y arco natural"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-puente-piedra.webp
+  alt: "Puente de piedra que une la costa con el islote de Gaztelugatxe"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-camino-acceso.webp
+  alt: "Camino de acceso y puente a San Juan de Gaztelugatxe entre acantilados"
+- src: /images/actividades/bilbao/gaztelugatxe/ermita.webp
+  alt: "Ermita de San Juan de Gaztelugatxe sobre el islote"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-costa-aketx.webp
+  alt: "Costa de Gaztelugatxe con el islote de Aketx al fondo"
+- src: /images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp
+  alt: "Camino de piedra a Gaztelugatxe al atardecer"
 ---
 
 ## Qué vas a ver

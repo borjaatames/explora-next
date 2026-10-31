@@ -70,28 +70,34 @@ keywords:
 - cordoba desde malaga en autobus
 - tour mezquita cordoba desde malaga
 - excursion de un dia a cordoba
-imagen: /images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp
-imagenAlt: Mezquita-Catedral de Córdoba junto al Guadalquivir
-galeria:
-- src: /images/actividades/cordoba/mezquita/bosque-arcos-bicolores.webp
-  alt: Arcos bicolores de la Mezquita
-- src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
-  alt: Patio de los Naranjos
-- src: /images/actividades/cordoba/juderia/sinagoga.webp
-  alt: Sinagoga de Córdoba
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores
 ratingProveedor: 4.7
 numeroOpiniones: 127
 atraccionesRelacionadas:
 - mezquita
 - juderia
 - mezquita-catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/mezquita/fvc-bosque-columnas-visitantes.webp
+imagenAlt: "Visitantes entre las columnas y arcos bicolores de la Mezquita-Catedral de Córdoba"
+galeria:
+- src: /images/actividades/cordoba/mezquita/fvc-puente-romano-mezquita-dia.webp
+  alt: "Puente Romano sobre el Guadalquivir con la Mezquita-Catedral al fondo"
+- src: /images/actividades/cordoba/mezquita/fvc-arcos-crucero-cristiano.webp
+  alt: "Arcos califales junto al crucero cristiano de la Mezquita-Catedral"
+- src: /images/actividades/cordoba/juderia/sinagoga.webp
+  alt: "Interior de la Sinagoga de Córdoba"
+- src: /images/actividades/cordoba/juderia/fvc-calleja-macetas-azules.webp
+  alt: "Calleja encalada con macetas azules en el casco histórico de Córdoba"
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: "Calleja de las Flores con la torre de la Mezquita al fondo"
+- src: /images/actividades/cordoba/juderia/fvc-plazuela-juderia.webp
+  alt: "Plazuela de la Judería de Córdoba"
+- src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
+  alt: "Patio de los Naranjos de la Mezquita-Catedral"
 ---
 
 ## Qué vas a ver

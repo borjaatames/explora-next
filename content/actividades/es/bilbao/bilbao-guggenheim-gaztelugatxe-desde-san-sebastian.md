@@ -75,28 +75,32 @@ keywords:
 - gaztelugatxe desde san sebastian
 - guggenheim desde san sebastian
 - tour rocadragon san sebastian
-imagen: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-islote.webp
-imagenAlt: Islote de San Juan de Gaztelugatxe
-galeria:
-- src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
-  alt: Escaleras de subida a la ermita de Gaztelugatxe
-- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: Museo Guggenheim junto a la ría
-- src: /images/actividades/bilbao/guggenheim/puppy.webp
-  alt: Puppy frente al Guggenheim
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
-  alt: Plaza Nueva de Bilbao
-- src: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
-  alt: Barra de pintxos
 ratingProveedor: 4.7
 numeroOpiniones: 98
 atraccionesRelacionadas:
 - guggenheim
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-puente-luz-dorada.webp
+imagenAlt: "Puente de piedra hacia San Juan de Gaztelugatxe con luz dorada"
+galeria:
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-sendero-costa.webp
+  alt: "Sendero empedrado de bajada hacia Gaztelugatxe junto a la costa"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-aereo.webp
+  alt: "Vista aérea del islote de San Juan de Gaztelugatxe"
+- src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
+  alt: "Escalinata y puente de San Juan de Gaztelugatxe"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-maman.webp
+  alt: "Museo Guggenheim Bilbao y Torre Iberdrola desde la otra orilla de la ría"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: "Plaza Nueva del Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
+  alt: "El Guggenheim y la Torre Iberdrola junto a la ría"
+- src: /images/actividades/bilbao/ria/zubizuri.webp
+  alt: "Pasarela Zubizuri sobre la ría de Bilbao"
 ---
 
 ## Qué vas a ver

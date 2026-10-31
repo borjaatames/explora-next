@@ -68,28 +68,32 @@ keywords:
 - guia privado bilbao
 - visita privada casco viejo bilbao
 - tour personalizado bilbao
-imagen: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-imagenAlt: Mercado de la Ribera junto a la ría de Bilbao
-galeria:
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
-  alt: Plaza Nueva, en el Casco Viejo de Bilbao
-- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
-  alt: Teatro Arriaga a orillas de la ría
-- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
-  alt: Interior gótico de la catedral de Santiago
-- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: Edificio del Casco Viejo de Bilbao
-- src: /images/actividades/bilbao/ria/ria-pasarela.webp
-  alt: La ría de Bilbao con sus puentes
 ratingProveedor: 4.6
 numeroOpiniones: 133
 atraccionesRelacionadas:
 - casco-viejo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
+imagenAlt: "Mercado de la Ribera junto a la ría de Bilbao"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp
+  alt: "Puente de la Ribera y fachadas históricas junto a la ría"
+- src: /images/actividades/bilbao/casco-viejo/fbi-siete-calles-fachadas.webp
+  alt: "Calle de las Siete Calles de Bilbao con fachadas de colores"
+- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
+  alt: "Interior de la catedral de Santiago de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/claustro-catedral.webp
+  alt: "Claustro de la catedral de Santiago de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: "Plaza Nueva del Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-comercio.webp
+  alt: "Comercio tradicional en el Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+  alt: "Teatro Arriaga junto a la ría de Bilbao"
 ---
 
 ## Qué vas a ver

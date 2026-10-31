@@ -75,32 +75,38 @@ keywords:
 - cordoba mosque and alcazar guided tour
 - cordoba full day walking tour
 - cordoba mosque skip the line guided
-imagen: /images/actividades/cordoba/mezquita/arcos-bosque-columnas.webp
-imagenAlt: Forest of columns and arches inside the Mosque of Córdoba
-galeria:
-- src: /images/actividades/cordoba/mezquita/puerta-perdon.webp
-  alt: Puerta del Perdón of the Mosque-Cathedral
-- src: /images/actividades/cordoba/mezquita/mihrab-dorado.webp
-  alt: Golden mihrab of the Mosque
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores in the Jewish Quarter
-- src: /images/actividades/cordoba/juderia/sinagoga.webp
-  alt: Inside the Synagogue of Córdoba
-- src: /images/actividades/cordoba/juderia/alcazar-jardines.webp
-  alt: Gardens of the Alcázar of the Christian Monarchs
-- src: /images/actividades/cordoba/juderia/alcazar-estanques.webp
-  alt: Pools in the Alcázar gardens
 ratingProveedor: 4.6
 numeroOpiniones: 5779
 atraccionesRelacionadas:
 - mezquita
 - juderia
 - mezquita-catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/mezquita/fvc-arcos-bicolores-luz.webp
+imagenAlt: "Two-tone arches and columns in the prayer hall of the Mosque-Cathedral"
+galeria:
+- src: /images/actividades/cordoba/mezquita/puerta-perdon.webp
+  alt: "Puerta del Perdón, entrance to the Courtyard of the Orange Trees"
+- src: /images/actividades/cordoba/mezquita/naranjos-torre.webp
+  alt: "Bell tower of the Mosque-Cathedral among orange trees"
+- src: /images/actividades/cordoba/mezquita/mihrab-dorado.webp
+  alt: "Mihrab of the Mosque-Cathedral of Córdoba"
+- src: /images/actividades/cordoba/mezquita/fvc-boveda-catedral.webp
+  alt: "Renaissance vault of the cathedral inside the Mosque"
+- src: /images/actividades/cordoba/juderia/fvc-calleja-macetas-azules.webp
+  alt: "Whitewashed alley with blue flowerpots in Córdoba old town"
+- src: /images/actividades/cordoba/juderia/sinagoga-yeserias.webp
+  alt: "Mudéjar plasterwork in the Córdoba Synagogue"
+- src: /images/actividades/cordoba/alcazar/fvc-jardines-estanque-flores.webp
+  alt: "Pond and flowers in the gardens of the Alcázar of the Christian Monarchs"
+- src: /images/actividades/cordoba/alcazar/fvc-jardines-torres-alcazar.webp
+  alt: "Gardens and towers of the Alcázar of the Christian Monarchs"
+- src: /images/actividades/cordoba/alcazar/fvc-paseo-cipreses-alcazar.webp
+  alt: "Cypress walk in the Alcázar gardens"
 ---
 
 ## What you will see

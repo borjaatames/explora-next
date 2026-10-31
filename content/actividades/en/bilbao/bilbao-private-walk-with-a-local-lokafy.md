@@ -72,28 +72,30 @@ keywords:
 - private guide bilbao
 - walk with a local bilbao
 - personalised tour bilbao
-imagen: /images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp
-imagenAlt: Square with steps in Bilbao's Old Town
-galeria:
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
-  alt: Terraces on Bilbao's Plaza Nueva
-- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: Building in Bilbao's Old Town
-- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-  alt: La Ribera market by the estuary
-- src: /images/actividades/bilbao/ria/zubizuri-pasarela.webp
-  alt: Zubizuri footbridge over the estuary
-- src: /images/actividades/bilbao/guggenheim/maman-puente.webp
-  alt: The Guggenheim with the red arch of La Salve bridge
 ratingProveedor: 4.6
 numeroOpiniones: 343
 atraccionesRelacionadas:
 - casco-viejo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp
+imagenAlt: "Square and Mallona steps in Bilbao Old Town"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/fbi-siete-calles-fachadas.webp
+  alt: "Street in Bilbao's Siete Calles with colourful facades"
+- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
+  alt: "Shopping street in Bilbao Old Town"
+- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
+  alt: "La Ribera Market by the Bilbao estuary"
+- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
+  alt: "Bilbao seen from Mount Artxanda"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-iberdrola.webp
+  alt: "The Guggenheim and Iberdrola Tower by the Bilbao river"
+- src: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
+  alt: "Bar counter with pintxos on display"
 ---
 
 ## What you will see

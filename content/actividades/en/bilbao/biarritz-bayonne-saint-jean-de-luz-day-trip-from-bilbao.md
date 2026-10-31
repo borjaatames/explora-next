@@ -71,25 +71,33 @@ keywords:
 - french basque country tour from bilbao
 - bayonne and biarritz tour
 - saint jean de luz day trip
-imagen: /images/actividades/bilbao/costa-vasca/biarritz-grande-plage.webp
-imagenAlt: Biarritz's Grande Plage with the casino
-galeria:
-- src: /images/actividades/bilbao/costa-vasca/biarritz-casino.webp
-  alt: Biarritz beach and casino
-- src: /images/actividades/bilbao/costa-vasca/san-juan-de-luz-puerto.webp
-  alt: Saint-Jean-de-Luz harbour with fishing boats
-- src: /images/actividades/bilbao/costa-vasca/hendaya-dos-gemelos.webp
-  alt: The Deux Jumeaux rocks off the French Basque coast
-- src: /images/actividades/bilbao/costa-vasca/hendaya-playa-dos-gemelos.webp
-  alt: Hendaye beach with the Deux Jumeaux rocks
 ratingProveedor: 4.7
 numeroOpiniones: 396
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/costa-vasca/fbi-biarritz-roca-virgen.webp
+imagenAlt: "The Rocher de la Vierge and its footbridge in Biarritz"
+galeria:
+- src: /images/actividades/bilbao/costa-vasca/fbi-biarritz-playa-olas.webp
+  alt: "Biarritz beach with Atlantic waves"
+- src: /images/actividades/bilbao/costa-vasca/biarritz-casino.webp
+  alt: "Grande Plage and casino in Biarritz"
+- src: /images/actividades/bilbao/costa-vasca/fbi-biarritz-puerto-viejo.webp
+  alt: "Biarritz old port among the rocks"
+- src: /images/actividades/bilbao/costa-vasca/fbi-biarritz-costa-hotel.webp
+  alt: "Biarritz coastline with a seafront hotel"
+- src: /images/actividades/bilbao/costa-vasca/fbi-san-juan-luz-puerto.webp
+  alt: "Boats in the harbour of Saint-Jean-de-Luz"
+- src: /images/actividades/bilbao/costa-vasca/fbi-san-juan-luz-iglesia-puerto.webp
+  alt: "Saint-Jean-de-Luz harbour with the church tower"
+- src: /images/actividades/bilbao/costa-vasca/san-juan-de-luz-puerto.webp
+  alt: "Fishing harbour of Saint-Jean-de-Luz"
+- src: /images/actividades/bilbao/costa-vasca/fbi-san-juan-luz-bahia.webp
+  alt: "Bay and beach of Saint-Jean-de-Luz"
 ---
 
 ## What you will see

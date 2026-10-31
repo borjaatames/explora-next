@@ -67,24 +67,30 @@ keywords:
 - montilla moriles wine tasting
 - wine and tapas cordoba
 - things to do in cordoba evening
-imagen: /images/actividades/cordoba/montilla/montilla-botas-crianza.webp
-imagenAlt: Ageing casks of Montilla wine
-galeria:
-- src: /images/actividades/cordoba/montilla/montilla-bodega-tinajas.webp
-  alt: Clay jars in a Montilla winery
-- src: /images/actividades/cordoba/montilla/montilla-vinedo.webp
-  alt: Vineyard in the Montilla-Moriles D.O.
-- src: /images/actividades/cordoba/gastronomia/pizarra-tapas-cordoba.webp
-  alt: Tapas board in a Córdoba tavern
-- src: /images/actividades/cordoba/gastronomia/salmorejo-jamon.webp
-  alt: Córdoba salmorejo with ham
 ratingProveedor: 4.8
 numeroOpiniones: 283
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/vinos/fvc-copa-vino-generoso-mesa.webp
+imagenAlt: "Glass of fortified wine on a wooden table"
+galeria:
+- src: /images/actividades/cordoba/montilla/montilla-botas-crianza.webp
+  alt: "Ageing casks in a Montilla winery"
+- src: /images/actividades/cordoba/vinos/fvc-copa-vino-blanco-tabla.webp
+  alt: "Glass of wine served on a wooden board"
+- src: /images/actividades/cordoba/montilla/montilla-bodega-tinajas.webp
+  alt: "Clay vats in a Montilla winery"
+- src: /images/actividades/cordoba/vinos/fvc-aceitunas-verdes-cuenco.webp
+  alt: "Bowl of green olives served as a tapa"
+- src: /images/actividades/cordoba/gastronomia/salmorejo-jamon.webp
+  alt: "Córdoba salmorejo topped with ham"
+- src: /images/actividades/cordoba/montilla/montilla-vinedo.webp
+  alt: "Vineyard in the Montilla-Moriles wine region"
+- src: /images/actividades/cordoba/gastronomia/flamenquin-cordoba.webp
+  alt: "Córdoba flamenquín with potatoes"
 ---
 
 ## What you will see

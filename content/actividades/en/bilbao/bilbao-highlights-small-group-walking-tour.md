@@ -65,26 +65,34 @@ keywords:
 - bilbao old town tour
 - bilbao small group tour
 - things to see in bilbao
-imagen: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
-imagenAlt: Plaza Nueva in Bilbao
-galeria:
-- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-  alt: La Ribera market by the estuary
-- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
-  alt: Bilbao's Santiago Cathedral
-- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: A street in Bilbao's Old Town
-- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
-  alt: Arriaga Theatre
 ratingProveedor: 4.8
 numeroOpiniones: 76
 atraccionesRelacionadas:
 - casco-viejo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/casco-viejo/fbi-puente-ribera-arenal.webp
+imagenAlt: "Bridge over the estuary by La Ribera and Bilbao Old Town"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+  alt: "Arriaga Theatre by the Bilbao estuary"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: "Plaza Nueva in Bilbao Old Town"
+- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
+  alt: "Inside Bilbao's Cathedral of Santiago"
+- src: /images/actividades/bilbao/casco-viejo/fbi-miradores-fachadas.webp
+  alt: "Facades with glazed bay windows in Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
+  alt: "La Ribera Market by the Bilbao estuary"
+- src: /images/actividades/bilbao/ria/zubizuri.webp
+  alt: "Zubizuri footbridge over the Bilbao estuary"
+- src: /images/actividades/bilbao/guggenheim/fbi-bilbao-vista-guggenheim.webp
+  alt: "View over Bilbao with the Guggenheim by the river"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
+  alt: "View of the Guggenheim Museum Bilbao from the river"
 ---
 
 ## What you will see

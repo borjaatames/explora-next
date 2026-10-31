@@ -67,26 +67,28 @@ keywords:
 - costa brava jeep tour
 - things to do in tossa de mar
 - sant grau tossa de mar
-imagen: /images/actividades/girona/tossa-de-mar/tossa-de-mar-04.webp
-imagenAlt: Tossa de Mar between the sea and the hills
-galeria:
-- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-  alt: Costa Brava cliffs above the sea
-- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-06.webp
-  alt: View of the Tossa de Mar coastline
-- src: /images/actividades/girona/tossa/tossa-de-mar-vila-vella.webp
-  alt: Tossa de Mar's Vila Vella
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
-  alt: Rocky cove on the Costa Brava
 ratingProveedor: 4.7
 numeroOpiniones: 86
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-4x4/fgi-todoterreno-clasico-monte.webp
+imagenAlt: "A classic off-roader parked in the hills"
+galeria:
+- src: /images/actividades/girona/fgi-4x4/fgi-land-rover-clasico.webp
+  alt: "A classic Land Rover off-roader of the kind used on the tour"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-05.webp
+  alt: "Tossa de Mar and the surrounding hills"
+- src: /images/actividades/girona/fgi-tossa/fgi-tossa-murallas-cala.webp
+  alt: "Tossa de Mar walls above the cove"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-04.webp
+  alt: "The Vila Vella walls and tower with Tossa beach"
+- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-01.webp
+  alt: "Tossa de Mar beach and Vila Vella"
 ---
 
 ## What you'll see

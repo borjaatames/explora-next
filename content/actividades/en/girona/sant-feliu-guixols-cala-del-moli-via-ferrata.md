@@ -79,26 +79,32 @@ keywords:
 - sant feliu de guixols via ferrata
 - costa brava via ferrata
 - costa brava adventure activities
-imagen: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-imagenAlt: Cliffs above the sea on the Costa Brava
-galeria:
-- src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
-  alt: Sant Feliu de Guíxols bay
-- src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
-  alt: Coastal path along the cliffs
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocas-banistas.webp
-  alt: Rocky cove near Sant Feliu de Guíxols
-- src: /images/actividades/girona/kayak-sant-feliu/cala-aguas-cristalinas.webp
-  alt: Clear Costa Brava water
 ratingProveedor: 4.9
 numeroOpiniones: 326
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-escaladores-roca.webp
+imagenAlt: "Two people climbing a via ferrata on a rock face"
+galeria:
+- src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
+  alt: "Sant Feliu de Guíxols bay seen from the coast"
+- src: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-escaladora-casco.webp
+  alt: "A climber with helmet and harness on a via ferrata"
+- src: /images/actividades/girona/fgi-sant-feliu/fgi-sant-feliu-playa-puerto.webp
+  alt: "Sant Feliu de Guíxols beach and marina"
+- src: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-mosquetones-cable.webp
+  alt: "Carabiners clipped to a via ferrata safety cable"
+- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
+  alt: "Costa Brava cliffs and coves"
+- src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
+  alt: "A coastal path by the sea at dusk"
+- src: /images/actividades/girona/fgi-sant-feliu/fgi-sant-feliu-barcas-playa.webp
+  alt: "Fishing boats on the beach at Sant Feliu de Guíxols"
 ---
 
 ## What you will see

@@ -79,26 +79,28 @@ keywords:
 - escalada gran canaria
 - via ferrata maspalomas
 - actividades aventura gran canaria
-imagen: /images/actividades/gran-canaria/buggy/fataga-canon.webp
-imagenAlt: Cañón rocoso en el sur de Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-  alt: Barranco de Fataga, en el interior del sur de Gran Canaria
-- src: /images/actividades/gran-canaria/buggy/fataga-montanas.webp
-  alt: Montañas del sur de Gran Canaria
-- src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
-  alt: Carretera entre barrancos del sur de Gran Canaria
-- src: /images/actividades/gran-canaria/guayadeque/barranco-guayadeque.webp
-  alt: Laderas del barranco de Guayadeque
 ratingProveedor: 4.9
 numeroOpiniones: 276
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/via-ferrata/fgc-escaladores-via-ferrata-roca.webp
+imagenAlt: "Escaladores avanzando por una vía ferrata en pared de roca"
+galeria:
+- src: /images/actividades/gran-canaria/via-ferrata/fgc-escaladora-bajo-desplome.webp
+  alt: "Escaladora con casco bajo un desplome de roca"
+- src: /images/actividades/gran-canaria/via-ferrata/fgc-mosquetones-cable-acero.webp
+  alt: "Mosquetones enganchados al cable de acero de una vía ferrata"
+- src: /images/actividades/gran-canaria/via-ferrata/fgc-barrancos-sur-gran-canaria.webp
+  alt: "Barrancos del sur de Gran Canaria"
+- src: /images/actividades/gran-canaria/via-ferrata/fgc-subida-peldanos-ferrata.webp
+  alt: "Subida por los peldaños metálicos de una vía ferrata"
+- src: /images/actividades/gran-canaria/via-ferrata/fgc-montanas-barranco-sur.webp
+  alt: "Montañas áridas de un barranco del sur de Gran Canaria"
 ---
 
 ## Qué vas a ver

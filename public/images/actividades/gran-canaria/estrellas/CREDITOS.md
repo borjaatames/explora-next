@@ -6,3 +6,4 @@
 - `atardecer-sobre-nubes.webp` — Tony Hisgett, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:View_from_Pico_de_las_Nieves_Sunset_%282284825760%29.jpg) · recortada a 1600×1200
 - `atardecer-cumbre.webp` — Victor R. Ruiz, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Sunset_Peak_-_WLE_Spain_2015.jpg) · recortada a 1600×1200
 - `via-lactea-molino.webp` — ISRZONE Photography, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Presas_molino_Windmill._Gran_Canaria._Isrzone_%2836387710035%29.jpg) · recortada a 1600×1200
+- `fgc-atardecer-roque-nublo-pinos.webp` — Rvr, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Roque_Nublo_-_Gran_Canaria_01.jpg) · recortada a 1600×1200

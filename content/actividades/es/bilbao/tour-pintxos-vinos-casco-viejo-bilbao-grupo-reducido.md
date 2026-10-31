@@ -68,30 +68,32 @@ keywords:
 - ruta pintxos casco viejo bilbao
 - tour gastronomico bilbao grupo reducido
 - pintxos y vino bilbao
-imagen: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
-imagenAlt: Barra de un bar repleta de pintxos
-galeria:
-- src: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
-  alt: Copa de txakoli
-- src: /images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp
-  alt: Pintxos variados con palillo sobre pan
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
-  alt: Terrazas en la Plaza Nueva de Bilbao
-- src: /images/actividades/bilbao/gastronomia/gilda.webp
-  alt: Gildas de guindilla, anchoa y aceituna
-- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
-  alt: Copas de vino
-- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: Calle del Casco Viejo de Bilbao
 ratingProveedor: 4.9
 numeroOpiniones: 384
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/pintxos/fbi-pintxos-tabla-madera.webp
+imagenAlt: "Pintxos sobre una tabla de madera en una barra vasca"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-calle-gente.webp
+  alt: "Calle peatonal del Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp
+  alt: "Pintxos de pimiento y queso con palillo"
+- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
+  alt: "Copas de vino blanco servidas en la barra"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
+  alt: "Terrazas en la Plaza Nueva de Bilbao"
+- src: /images/actividades/bilbao/pintxos/fbi-pintxos-vasitos.webp
+  alt: "Pintxos servidos en vasitos en la barra de un bar vasco"
+- src: /images/actividades/bilbao/gastronomia/mesa-tapas.webp
+  alt: "Mesa con raciones y pintxos para compartir"
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-noche-terrazas.webp
+  alt: "Terrazas del Casco Viejo de Bilbao por la noche"
 ---
 
 ## Qué vas a ver

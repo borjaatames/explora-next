@@ -69,26 +69,28 @@ keywords:
 - free tour palma
 - tour a pie casco antiguo palma
 - que ver en palma
-imagen: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
-imagenAlt: Catedral de Palma desde el Parc de la Mar
-galeria:
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
-  alt: Fachada de la Catedral de Palma
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
-  alt: Catedral de Palma reflejada en el estanque del Parc de la Mar
-- src: /images/actividades/mallorca/gastronomia/ensaimada-01.webp
-  alt: Ensaimada mallorquina
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-atardecer.webp
-  alt: Catedral de Palma al atardecer
 ratingProveedor: 4.4
 numeroOpiniones: 249
 atraccionesRelacionadas:
 - palma
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-estanque.webp
+imagenAlt: "Almudaina y Catedral de Palma junto al estanque del Parc de la Mar"
+galeria:
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
+  alt: "Calle estrecha del casco antiguo de Palma"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+  alt: "Catedral de Palma sobre la muralla del mar"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-paseo.webp
+  alt: "Almudaina y Catedral vistas desde el paseo marítimo"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp
+  alt: "Gárgola gótica en la fachada de la Catedral de Palma"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-pinaculos.webp
+  alt: "Pináculos góticos de la Catedral de Palma"
 ---
 
 ## Qué vas a ver

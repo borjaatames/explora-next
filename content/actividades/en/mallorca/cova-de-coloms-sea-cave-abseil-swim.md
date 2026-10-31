@@ -77,26 +77,30 @@ keywords:
 - sea cave mallorca
 - coasteering mallorca
 - abseiling mallorca cala romantica
-imagen: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
-imagenAlt: Clear water in a cove on Mallorca's east coast
-galeria:
-- src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-02.webp
-  alt: A rocky cove on Mallorca's east coast
-- src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-03.webp
-  alt: Cliffs and turquoise water in eastern Mallorca
-- src: /images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp
-  alt: Swimmers in a Mallorca cove
-- src: /images/actividades/ibiza/kayak-codolar/esnorquel-costa-rocosa.webp
-  alt: Swimming along a rocky coast
 ratingProveedor: 4.9
 numeroOpiniones: 34
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-cala-varques/cueva-acantilado-cala-varques.webp
+imagenAlt: "Cliff with a sea cave next to Cala Varques, on the east coast"
+galeria:
+- src: /images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp
+  alt: "Inside a sea cave opening onto the sea"
+- src: /images/actividades/mallorca/fma-cala-varques/nadadora-esnorquel.webp
+  alt: "Person swimming with a snorkel in blue-green water"
+- src: /images/actividades/mallorca/fma-cala-varques/costa-este-acantilados.webp
+  alt: "Low cliffs on the east coast of Mallorca"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
+  alt: "Seabed with rocks under crystal-clear water"
+- src: /images/actividades/mallorca/fma-cala-varques/roca-oleaje-cala-varques.webp
+  alt: "Rocks and surf on the Cala Varques coast"
+- src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
+  alt: "Rock in the sea surrounded by turquoise water"
 ---
 
 ## What you will see

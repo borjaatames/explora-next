@@ -69,26 +69,28 @@ keywords:
 - things to do in lloret de mar
 - costa brava jeep tour
 - lloret de mar excursion
-imagen: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-imagenAlt: Cliffs above the sea on the Costa Brava
-galeria:
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
-  alt: Rocky cove with turquoise water on the Costa Brava
-- src: /images/actividades/girona/tossa/tossa-de-mar-pueblo.webp
-  alt: Tossa de Mar, next door to Lloret
-- src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
-  alt: Coastal path by the sea on the Costa Brava
-- src: /images/actividades/girona/kayak-sant-feliu/cala-aguas-cristalinas.webp
-  alt: Clear-water cove
 ratingProveedor: 4.9
 numeroOpiniones: 540
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-4x4/fgi-land-rover-clasico.webp
+imagenAlt: "A classic Land Rover off-roader of the kind used on the tour"
+galeria:
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-costa-aerea.webp
+  alt: "Aerial view of the Lloret de Mar coastline with coves and pines"
+- src: /images/actividades/girona/fgi-4x4/fgi-todoterreno-clasico-monte.webp
+  alt: "A classic off-roader parked in the hills"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
+  alt: "Lloret de Mar bay seen from above"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
+  alt: "Lloret de Mar main beach with rocks in the foreground"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-rocas.webp
+  alt: "Sandy beach with rocks in Lloret de Mar"
 ---
 
 ## What you will see

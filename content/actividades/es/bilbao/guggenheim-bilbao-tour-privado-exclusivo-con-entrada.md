@@ -72,28 +72,30 @@ keywords:
 - guia privado guggenheim
 - tour privado museo guggenheim
 - guggenheim bilbao con guia
-imagen: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-imagenAlt: Fachada de titanio del Museo Guggenheim Bilbao
-galeria:
-- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: Museo Guggenheim junto a la ría de Bilbao
-- src: /images/actividades/bilbao/guggenheim/maman.webp
-  alt: Mamá, la araña de Louise Bourgeois junto al museo
-- src: /images/actividades/bilbao/guggenheim/puppy.webp
-  alt: Puppy, la escultura de flores de Jeff Koons
-- src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
-  alt: Museo Guggenheim Bilbao y la ría
-- src: /images/actividades/bilbao/guggenheim/guggenheim-noche.webp
-  alt: El Guggenheim iluminado de noche
 ratingProveedor: 4.8
 numeroOpiniones: 333
 atraccionesRelacionadas:
 - guggenheim
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/guggenheim/fbi-puppy-museo.webp
+imagenAlt: "Puppy, el perro de flores, ante la entrada del Museo Guggenheim Bilbao"
+galeria:
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-fachada-norte.webp
+  alt: "Fachada norte del Museo Guggenheim Bilbao con su atrio acristalado"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
+  alt: "El Guggenheim y la Torre Iberdrola junto a la ría"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-detalle.webp
+  alt: "Detalle de las curvas de titanio de la fachada del Guggenheim"
+- src: /images/actividades/bilbao/guggenheim/maman-puente.webp
+  alt: "El Guggenheim y el puente de La Salve desde la ría"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-iberdrola.webp
+  alt: "El Guggenheim y la Torre Iberdrola junto a la ría de Bilbao"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
+  alt: "Vista del Museo Guggenheim Bilbao desde la ría"
 ---
 
 ## Qué vas a ver

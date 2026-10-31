@@ -68,28 +68,32 @@ keywords:
 - food tour bilbao vino
 - mejores pintxos bilbao tour
 - ruta de pintxos bilbao
-imagen: /images/actividades/bilbao/gastronomia/pintxos-variados.webp
-imagenAlt: Bandeja de pintxos variados
-galeria:
-- src: /images/actividades/bilbao/gastronomia/barra-bar.webp
-  alt: Barra de bar con pintxos
-- src: /images/actividades/bilbao/pintxos/pintxos-queso-mermelada.webp
-  alt: Pintxos de queso con mermelada y nueces
-- src: /images/actividades/bilbao/gastronomia/mesa-tapas.webp
-  alt: Mesa con pintxos y raciones para compartir
-- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
-  alt: Copas de vino
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
-  alt: Plaza Nueva, en el Casco Viejo de Bilbao
 ratingProveedor: 4.9
 numeroOpiniones: 246
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/pintxos/fbi-barra-pintxos-vasca.webp
+imagenAlt: "Barra llena de pintxos en un bar vasco"
+galeria:
+- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
+  alt: "Copas de vino blanco servidas en la barra"
+- src: /images/actividades/bilbao/pintxos/pintxos-queso-mermelada.webp
+  alt: "Pintxos de queso de cabra con frutos rojos"
+- src: /images/actividades/bilbao/casco-viejo/fbi-siete-calles-fachadas.webp
+  alt: "Calle de las Siete Calles de Bilbao con fachadas de colores"
+- src: /images/actividades/bilbao/pintxos/fbi-pintxos-tabla-madera.webp
+  alt: "Pintxos sobre una tabla de madera en una barra vasca"
+- src: /images/actividades/bilbao/gastronomia/gilda.webp
+  alt: "Gildas, el pintxo clásico vasco"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: "Plaza Nueva del Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-noche-calle.webp
+  alt: "Calle del Casco Viejo de Bilbao de noche"
 ---
 
 ## Qué vas a ver

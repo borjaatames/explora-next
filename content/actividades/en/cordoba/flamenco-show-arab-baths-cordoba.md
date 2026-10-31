@@ -63,26 +63,30 @@ keywords:
 - la maestria flamenco cordoba
 - flamenco show cordoba
 - acoustic flamenco cordoba
-imagen: /images/actividades/cordoba/flamenco/baile-flamenco.webp
-imagenAlt: Live flamenco dancing
-galeria:
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: Flamenco guitar
-- src: /images/actividades/cordoba/flamenco/cuadro-flamenco.webp
-  alt: Live flamenco group
-- src: /images/actividades/cordoba/mezquita/arcos-interior.webp
-  alt: Caliphate-era arches in Córdoba
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores, near the baths
 ratingProveedor: 4.8
 numeroOpiniones: 32
 atraccionesRelacionadas:
 - espectaculos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+imagenAlt: "Flamenco guitarist playing on stage"
+galeria:
+- src: /images/actividades/cordoba/flamenco/bailaora.webp
+  alt: "Flamenco dancer with a white shawl during a flamenco show"
+- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
+  alt: "Male flamenco dancer mid-performance on stage"
+- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
+  alt: "Flamenco singer performing on stage"
+- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
+  alt: "Flamenco guitarist playing live"
+- src: /images/actividades/cordoba/juderia/calle-juderia.webp
+  alt: "Street in the Córdoba Jewish Quarter with the Mosque tower behind"
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: "Mosque-Cathedral tower seen from a Jewish Quarter street"
 ---
 
 ## What you will see

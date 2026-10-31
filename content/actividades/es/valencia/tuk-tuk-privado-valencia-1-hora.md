@@ -68,30 +68,34 @@ keywords:
 - tour privado tuk tuk valencia
 - tuk tuk electrico valencia
 - tour valencia 1 hora
-imagen: /images/actividades/alicante/tuk-tuk/tuk-tuk-calle-alvarez.webp
-imagenAlt: Tuk-tuk eléctrico circulando por una calle
-galeria:
-- src: /images/actividades/valencia/centro/torres-serranos.webp
-  alt: Torres de Serranos en Valencia
-- src: /images/actividades/valencia/mar/veles-e-vents.webp
-  alt: Edificio Veles e Vents en la Marina de Valencia
-- src: /images/actividades/valencia/mar/arenas-orilla.webp
-  alt: Orilla de la playa de Las Arenas
-- src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp
-  alt: Ciudad de las Artes y las Ciencias reflejada en el agua
-- src: /images/actividades/valencia/centro/mercado-colon.webp
-  alt: Mercado de Colón de Valencia
 ratingProveedor: 4.8
 numeroOpiniones: 117
 atraccionesRelacionadas:
 - centro-historico
 - ciudad-artes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
 privada: true
+imagen: /images/actividades/tenerife/tuk-tuk/ftc-tuk-tuk-detalle-frontal.webp
+imagenAlt: "Detalle de la parte delantera de un tuk-tuk (imagen ilustrativa)"
+galeria:
+- src: /images/actividades/valencia/centro/plaza-reina-micalet.webp
+  alt: "Plaza de la Reina y el Micalet en el centro de Valencia"
+- src: /images/actividades/alicante/tuk-tuk/tuk-tuk-calle-alvarez.webp
+  alt: "Tuk-tuk eléctrico aparcado en una calle empedrada (imagen ilustrativa)"
+- src: /images/actividades/valencia/centro/torres-serranos.webp
+  alt: "Torres de Serranos, antigua puerta de la muralla de Valencia"
+- src: /images/actividades/valencia/centro/mercado-central-exterior.webp
+  alt: "Fachada del Mercado Central de Valencia"
+- src: /images/actividades/valencia/turia/fvc-paseo-jardin-turia.webp
+  alt: "Paseo por el Jardín del Turia"
+- src: /images/actividades/valencia/ciudad-artes/fvc-museo-ciencias-reflejo-atardecer.webp
+  alt: "Museo de las Ciencias reflejado en el agua al atardecer"
+- src: /images/actividades/valencia/mar/arenas-orilla.webp
+  alt: "Orilla de la playa de Las Arenas en Valencia"
 ---
 
 ## Qué vas a ver

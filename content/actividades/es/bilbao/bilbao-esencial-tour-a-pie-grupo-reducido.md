@@ -65,26 +65,34 @@ keywords:
 - free tour bilbao ingles
 - casco viejo bilbao tour
 - que ver en bilbao
-imagen: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
-imagenAlt: Plaza Nueva de Bilbao
-galeria:
-- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-  alt: Mercado de la Ribera junto a la ría
-- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
-  alt: Catedral de Santiago de Bilbao
-- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: Calle del Casco Viejo de Bilbao
-- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
-  alt: Teatro Arriaga
 ratingProveedor: 4.8
 numeroOpiniones: 76
 atraccionesRelacionadas:
 - casco-viejo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/casco-viejo/fbi-puente-ribera-arenal.webp
+imagenAlt: "Puente sobre la ría junto a la Ribera y el Casco Viejo de Bilbao"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+  alt: "Teatro Arriaga junto a la ría de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: "Plaza Nueva del Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
+  alt: "Interior de la catedral de Santiago de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/fbi-miradores-fachadas.webp
+  alt: "Fachadas con miradores acristalados en Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
+  alt: "Mercado de la Ribera junto a la ría de Bilbao"
+- src: /images/actividades/bilbao/ria/zubizuri.webp
+  alt: "Pasarela Zubizuri sobre la ría de Bilbao"
+- src: /images/actividades/bilbao/guggenheim/fbi-bilbao-vista-guggenheim.webp
+  alt: "Vista de Bilbao desde lo alto con el Guggenheim junto a la ría"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
+  alt: "Vista del Museo Guggenheim Bilbao desde la ría"
 ---
 
 ## Qué vas a ver

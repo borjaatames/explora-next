@@ -71,28 +71,32 @@ keywords:
 - altea from alicante
 - guadalest and altea from benidorm
 - altea tour alicante
-imagen: /images/actividades/alicante/excursiones/altea-iglesia.webp
-imagenAlt: Church of Our Lady of Consolation with its blue domes, Altea
-galeria:
-- src: /images/actividades/alicante/excursiones/altea-calle.webp
-  alt: Whitewashed street in Altea old town
-- src: /images/actividades/alicante/excursiones/altea-bahia.webp
-  alt: Altea bay
-- src: /images/actividades/alicante/excursiones/altea-iglesia-calle.webp
-  alt: Altea street with the church behind
-- src: /images/actividades/alicante/excursiones/guadalest.webp
-  alt: Guadalest village on its rocky ridge
-- src: /images/actividades/alicante/excursiones/guadalest-campanario.webp
-  alt: Guadalest bell tower on the rock
 ratingProveedor: 4.8
 numeroOpiniones: 229
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-guadalest/fal-guadalest-pueblo-cresta.webp
+imagenAlt: "Guadalest village on its rocky ridge"
+galeria:
+- src: /images/actividades/alicante/excursiones/guadalest-campanario.webp
+  alt: "Guadalest bell tower on the rock"
+- src: /images/actividades/alicante/fal-guadalest/fal-embalse-guadalest.webp
+  alt: "Guadalest reservoir among mountains"
+- src: /images/actividades/alicante/fal-guadalest/fal-guadalest-casas.webp
+  alt: "Whitewashed houses in Guadalest"
+- src: /images/actividades/alicante/excursiones/guadalest-desde-castillo.webp
+  alt: "Guadalest seen from the castle"
+- src: /images/actividades/alicante/fal-altea/fal-altea-desde-mar.webp
+  alt: "Altea seen from the sea"
+- src: /images/actividades/alicante/fal-altea/fal-calle-flores-altea.webp
+  alt: "Flower-lined street in Altea's old town"
+- src: /images/actividades/alicante/excursiones/altea-iglesia.webp
+  alt: "Blue domes of Altea's church"
 ---
 
 ## What you will see

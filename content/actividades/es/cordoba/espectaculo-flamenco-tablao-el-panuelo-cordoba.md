@@ -63,24 +63,28 @@ keywords:
 - tablao el panuelo cordoba
 - flamenco con cena cordoba
 - espectaculo flamenco cordoba centro
-imagen: /images/actividades/cordoba/flamenco/cuadro-flamenco.webp
-imagenAlt: Cuadro flamenco en directo
-galeria:
-- src: /images/actividades/cordoba/flamenco/bailaora.webp
-  alt: Bailaora en el escenario
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: Guitarra flamenca sobre el escenario
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: Palmas flamencas
 ratingProveedor: 4.7
 numeroOpiniones: 26
 atraccionesRelacionadas:
 - espectaculos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
+imagenAlt: "Cantaora flamenca cantando en un escenario"
+galeria:
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: "Guitarrista flamenco tocando sobre el escenario"
+- src: /images/actividades/cordoba/flamenco/bailaora.webp
+  alt: "Bailaora con mantón blanco durante un espectáculo flamenco"
+- src: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
+  alt: "Bailaoras sobre el escenario durante un espectáculo flamenco"
+- src: /images/actividades/cordoba/flamenco/guitarrista.webp
+  alt: "Guitarrista flamenco con sombrero tocando en directo"
+- src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
+  alt: "Puente Romano y Mezquita-Catedral de Córdoba iluminados al anochecer"
 ---
 
 ## Qué vas a ver

@@ -71,27 +71,31 @@ keywords:
 - curso de paella mallorca
 - taller de cocina española palma
 - cooking class palma
-imagen: /images/actividades/mallorca/gastronomia/palma-tapas-01.webp
-imagenAlt: Tapas españolas servidas en Palma
-galeria:
-- src: /images/actividades/mallorca/gastronomia/palma-tapas-02.webp
-  alt: Plato de tapas en Palma
-- src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
-  alt: Sobrasada mallorquina
-- src: /images/actividades/mallorca/gastronomia/palma-tapas-03.webp
-  alt: Tapas variadas en una mesa
-- src: /images/actividades/mallorca/gastronomia/mercat-olivar-01.webp
-  alt: Puestos del Mercat de l'Olivar en Palma
 ratingProveedor: 4.9
 numeroOpiniones: 517
 atraccionesRelacionadas:
 - gastronomia
 - palma
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-cocina-palma/paella-marisco-paellera.webp
+imagenAlt: "Paella de marisco recién hecha en su paellera"
+galeria:
+- src: /images/actividades/mallorca/fma-cocina-palma/paella-cocinandose-fuego.webp
+  alt: "Paella cocinándose al fuego"
+- src: /images/actividades/sevilla/cocina-andaluza/gazpacho-vasitos.webp
+  alt: "Gazpacho servido en vasitos"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-01.webp
+  alt: "Tabla con pan con tomate, jamón, queso y aceitunas"
+- src: /images/actividades/mallorca/fma-cocina-palma/paella-gambas-almejas-brasa.webp
+  alt: "Paella con gambas y almejas sobre las brasas"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-03.webp
+  alt: "Pa amb oli, pan con tomate y aceite de oliva"
+- src: /images/actividades/mallorca/fma-cocina-palma/paella-mejillones-pimiento.webp
+  alt: "Paella con mejillones y tiras de pimiento"
 ---
 
 ## Qué vas a ver

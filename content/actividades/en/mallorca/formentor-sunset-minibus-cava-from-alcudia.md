@@ -71,26 +71,28 @@ keywords:
 - formentor sunset from alcudia
 - mallorca sunset tour
 - es colomer viewpoint sunset
-imagen: /images/actividades/mallorca/formentor/formentor-acantilados-es-colomer.webp
-imagenAlt: Formentor cliffs from the Es Colomer viewpoint
-galeria:
-- src: /images/actividades/mallorca/formentor/formentor-03.webp
-  alt: The Formentor peninsula coast
-- src: /images/actividades/mallorca/formentor/platja-formentor-barcos-desde-talaia.webp
-  alt: Formentor Beach seen from above
-- src: /images/actividades/mallorca/formentor/formentor-04.webp
-  alt: Formentor landscape
-- src: /images/actividades/mallorca/formentor/formentor-05.webp
-  alt: Formentor cliffs above the sea
 ratingProveedor: 4.8
 numeroOpiniones: 300
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-formentor/formentor-puesta-sol.webp
+imagenAlt: "Sunset over the Formentor cliffs"
+galeria:
+- src: /images/actividades/mallorca/fma-formentor/carretera-formentor-curvas.webp
+  alt: "Winding road towards Cap de Formentor"
+- src: /images/actividades/mallorca/fma-formentor/es-colomer-islote.webp
+  alt: "Es Colomer islet and the Formentor cliffs"
+- src: /images/actividades/mallorca/formentor/platja-formentor-barcos-desde-talaia.webp
+  alt: "Formentor bay and beach from the Atalaya d'Albercutx"
+- src: /images/actividades/mallorca/fma-formentor/acantilado-formentor-anochecer.webp
+  alt: "Formentor cliff at dusk"
+- src: /images/actividades/mallorca/fma-formentor/faro-formentor-carretera.webp
+  alt: "Formentor lighthouse at the tip of the cape"
 ---
 
 ## What you will see

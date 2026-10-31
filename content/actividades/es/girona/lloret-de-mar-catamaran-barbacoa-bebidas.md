@@ -76,26 +76,30 @@ keywords:
 - barco lloret de mar
 - paseo en barco costa brava
 - catamaran con barbacoa lloret
-imagen: /images/actividades/barcelona/costa/catamaran-hotel-w.webp
-imagenAlt: Catamarán navegando por el Mediterráneo
-galeria:
-- src: /images/actividades/girona/medes/medes-barco-banistas.webp
-  alt: Barco fondeado con bañistas en la Costa Brava
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
-  alt: Cala rocosa de aguas turquesas
-- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-  alt: Acantilados de la Costa Brava
-- src: /images/actividades/girona/cap-de-creus/islote-rocas-aguas-cristalinas.webp
-  alt: Islote rocoso en aguas cristalinas
 ratingProveedor: 4.6
 numeroOpiniones: 4863
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-mar/fgi-catamaran-fondeado-aguas-claras.webp
+imagenAlt: "Catamarán fondeado en aguas claras para el baño"
+galeria:
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-costa-aerea.webp
+  alt: "Vista aérea de la costa de Lloret de Mar con calas y pinos"
+- src: /images/actividades/girona/fgi-mar/fgi-nadador-tubo-fondo-rocoso.webp
+  alt: "Persona nadando con gafas y tubo sobre fondo rocoso"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-rocas.webp
+  alt: "Playa de arena con rocas en Lloret de Mar"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
+  alt: "La bahía de Lloret de Mar vista desde lo alto"
+- src: /images/actividades/girona/fgi-mar/fgi-mar-a-ras-de-agua.webp
+  alt: "El Mediterráneo a ras de agua junto a la costa rocosa"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
+  alt: "Playa principal de Lloret de Mar con rocas en primer plano"
 ---
 
 ## Qué vas a ver

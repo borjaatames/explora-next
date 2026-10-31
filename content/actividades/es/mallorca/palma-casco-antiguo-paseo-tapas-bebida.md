@@ -68,27 +68,33 @@ keywords:
 - ruta de tapas palma de mallorca
 - tour gastronomico palma
 - pa amb oli palma
-imagen: /images/actividades/mallorca/gastronomia/palma-tapas-02.webp
-imagenAlt: Tapas en un bar de Palma
-galeria:
-- src: /images/actividades/mallorca/gastronomia/palma-tapas-03.webp
-  alt: Tapas variadas en Palma
-- src: /images/actividades/mallorca/gastronomia/palma-tapas-04.webp
-  alt: Platos para compartir en un bar de tapas
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
-  alt: Fachada de la Catedral de Palma
-- src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
-  alt: Barra de tapas en Palma
 ratingProveedor: 4.8
 numeroOpiniones: 721
 atraccionesRelacionadas:
 - palma
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/gastronomia/palma-tapas-02.webp
+imagenAlt: "Tapa de jamón sobre pan con tomate"
+galeria:
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
+  alt: "Calle estrecha del casco antiguo de Palma"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-pinaculos.webp
+  alt: "Pináculos góticos de la Catedral de Palma"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-03.webp
+  alt: "Pa amb oli, pan con tomate y aceite de oliva"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-fachada-arcos.webp
+  alt: "Fachada con galería de arcos del Palacio de la Almudaina"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-06.webp
+  alt: "Mostrador de bar con jamones y embutidos"
+- src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
+  alt: "Sobrasada, embutido típico de Mallorca"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-04.webp
+  alt: "Parc de la Mar y la Catedral de Palma al caer la tarde"
 ---
 
 ## Qué vas a ver

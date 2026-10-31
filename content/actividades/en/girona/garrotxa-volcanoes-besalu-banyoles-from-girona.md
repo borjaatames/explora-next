@@ -69,26 +69,32 @@ keywords:
 - besalu day trip
 - garrotxa volcanoes tour
 - lake banyoles tour
-imagen: /images/actividades/barcelona/girona/besalu-puente.webp
-imagenAlt: Medieval bridge of Besalú over the Fluvià river
-galeria:
-- src: /images/actividades/barcelona/girona/besalu-vista-aerea.webp
-  alt: Aerial view of Besalú
-- src: /images/actividades/barcelona/girona/besalu-puente-arcos.webp
-  alt: Arches of the Besalú bridge
-- src: /images/actividades/barcelona/girona/besalu-entrada-puente.webp
-  alt: Fortified gate on the Besalú bridge
-- src: /images/actividades/girona/costa-brava/pueblos-medievales-girona-pixabay-3847277.jpg
-  alt: Medieval village in Girona province
 ratingProveedor: 4.9
 numeroOpiniones: 44
 atraccionesRelacionadas:
 - casco-medieval
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-besalu/fgi-besalu-arcos-puente-pueblo.webp
+imagenAlt: "Arches of the medieval Besalú bridge with the village behind"
+galeria:
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-paso-puente.webp
+  alt: "The cobbled walkway across the fortified Besalú bridge"
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-torre-montanas.webp
+  alt: "The Besalú bridge tower with the Garrotxa mountains"
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-arco-camino-rio.webp
+  alt: "An arch of the Besalú bridge seen from the riverside path"
+- src: /images/actividades/girona/fgi-banyoles/fgi-banyoles-pesquera-lago.webp
+  alt: "A modernist fishing pavilion on Lake Banyoles"
+- src: /images/actividades/girona/fgi-banyoles/fgi-banyoles-barcas-atardecer.webp
+  alt: "Rowing boats on Lake Banyoles at sunset"
+- src: /images/actividades/girona/fgi-banyoles/fgi-banyoles-otono-embarcadero.webp
+  alt: "A Lake Banyoles jetty with plane trees in autumn"
+- src: /images/actividades/girona/fgi-banyoles/fgi-banyoles-orilla-arbol.webp
+  alt: "The Lake Banyoles shore with reeds and mountains behind"
 ---
 
 ## What you will see

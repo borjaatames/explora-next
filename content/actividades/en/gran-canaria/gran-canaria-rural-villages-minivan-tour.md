@@ -76,30 +76,32 @@ keywords:
 - tejeda artenara tour from maspalomas
 - small group gran canaria interior tour
 - fataga tejeda tour
-imagen: /images/actividades/gran-canaria/roque-nublo/roque-nublo-tejeda.webp
-imagenAlt: Roque Nublo above the Tejeda caldera
-galeria:
-- src: /images/actividades/gran-canaria/buggy/pueblo-fataga.webp
-  alt: The village of Fataga
-- src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-  alt: The Fataga ravine
-- src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
-  alt: Views from the Degollada de las Yeguas
-- src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
-  alt: San Bartolomé de Tirajana
-- src: /images/actividades/gran-canaria/norte/firgas-paseo-isla-azulejo-hero.webp
-  alt: Tile map of Gran Canaria in the north of the island
 ratingProveedor: 4.6
 numeroOpiniones: 834
 atraccionesRelacionadas:
 - interior
 - isla
 - roque-nublo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/fataga/fgc-fataga-pueblo-palmeral.webp
+imagenAlt: "Fataga and its palm grove in the Valley of a Thousand Palms"
+galeria:
+- src: /images/actividades/gran-canaria/fataga/fgc-casas-blancas-fataga.webp
+  alt: "White houses of Fataga on the ravine slope"
+- src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
+  alt: "The village of San Bartolomé de Tirajana among mountains"
+- src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
+  alt: "The Degollada de las Yeguas viewpoint"
+- src: /images/actividades/gran-canaria/tejeda/fgc-tejeda-casas-montanas.webp
+  alt: "Houses in Tejeda facing the Gran Canaria summits"
+- src: /images/actividades/gran-canaria/tejeda/fgc-flor-almendro-bentayga.webp
+  alt: "Almond blossom with Roque Bentayga behind"
+- src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
+  alt: "Banana plantations on the north coast of Gran Canaria"
 ---
 
 ## What you will see

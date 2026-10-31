@@ -68,24 +68,30 @@ keywords:
 - spa de cerveza salou
 - spa salou pareja
 - jacuzzi de cerveza tarragona
-imagen: /images/actividades/tarragona/vermut/barricas-vermut.webp
-imagenAlt: Barricas de madera, como las que se usan para el baño de cerveza
-galeria:
-- src: /images/actividades/tarragona/vermut/vermut-grifo.webp
-  alt: Bebida servida directamente del grifo
-- src: /images/actividades/tarragona/costa/platja-llarga.webp
-  alt: Platja Llarga de Salou
-- src: /images/actividades/tarragona/costa/faro-salou.webp
-  alt: Faro de Salou
 ratingProveedor: 4.7
 numeroOpiniones: 37
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/barcelona/cerveza/cata-cerveza-tabla.webp
+imagenAlt: "Tabla de cata con cinco cervezas de distintos estilos"
+galeria:
+- src: /images/actividades/tarragona/fre-beer-spa/salou-paseo-palmeras-anochecer.webp
+  alt: "Paseo con palmeras de Salou al anochecer"
+- src: /images/actividades/barcelona/cerveza/cata-cerveza-cuatro-vasos.webp
+  alt: "Cuatro vasos de cerveza para catar"
+- src: /images/actividades/tarragona/fre-beer-spa/salou-playa-tarde.webp
+  alt: "Playa de Salou a última hora de la tarde"
+- src: /images/actividades/fuerteventura/queso/ffv-tostas-queso-higos.webp
+  alt: "Tostas de queso con higos como aperitivo"
+- src: /images/actividades/tarragona/costa/faro-salou.webp
+  alt: "Faro de Salou junto al mar"
+- src: /images/actividades/tarragona/fre-beer-spa/cala-morisca-salou.webp
+  alt: "Cala Morisca, en la costa de Salou"
 ---
 
 ## Qué vas a ver

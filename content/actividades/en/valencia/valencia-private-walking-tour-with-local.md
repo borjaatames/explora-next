@@ -72,27 +72,35 @@ keywords:
 - valencia private guide
 - valencia walking tour with a local
 - private walking tour valencia
-imagen: /images/actividades/valencia/centro/plaza-virgen.webp
-imagenAlt: Plaza de la Virgen in Valencia's old town
-galeria:
-- src: /images/actividades/valencia/centro/micalet-plaza.webp
-  alt: The Micalet bell tower seen from the square
-- src: /images/actividades/valencia/centro/mercado-central-exterior.webp
-  alt: Facade of Valencia's Central Market
-- src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
-  alt: Streets of the Carmen quarter at night
-- src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
-  alt: Serranos Towers among palm trees
 ratingProveedor: 4.8
 numeroOpiniones: 315
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
 privada: true
+imagen: /images/actividades/valencia/centro/fvc-calle-junto-mercado-central.webp
+imagenAlt: "Old town street beside the Central Market in Valencia"
+galeria:
+- src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
+  alt: "Serranos Towers in Valencia"
+- src: /images/actividades/valencia/centro/plaza-virgen.webp
+  alt: "Plaza de la Virgen in Valencia old town"
+- src: /images/actividades/valencia/centro/micalet-naranjos.webp
+  alt: "Micalet tower among orange trees"
+- src: /images/actividades/valencia/centro/fvc-mercado-central-puestos.webp
+  alt: "Stalls under the roof of Valencia Central Market"
+- src: /images/actividades/valencia/centro/lonja-naranjos.webp
+  alt: "Silk Exchange seen through orange trees"
+- src: /images/actividades/valencia/centro/palacio-dos-aguas.webp
+  alt: "Baroque facade of the Palace of the Marquis of Dos Aguas"
+- src: /images/actividades/valencia/ruzafa/calle-ruzafa.webp
+  alt: "Street in the Ruzafa district of Valencia"
+- src: /images/actividades/valencia/centro/mercado-colon.webp
+  alt: "Modernist facade of the Colón Market"
 ---
 
 ## What you will see

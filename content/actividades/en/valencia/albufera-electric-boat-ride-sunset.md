@@ -68,28 +68,32 @@ keywords:
 - albufera sunset boat
 - albufera electric boat
 - valencia lagoon sunset
-imagen: /images/actividades/valencia/albufera/albufera-puesta-sol-reflejos.webp
-imagenAlt: Sunset reflected on the Albufera lagoon
-galeria:
-- src: /images/actividades/valencia/albufera/barca-embarcadero-lago-albufera.webp
-  alt: Boat moored at a jetty on the Albufera lagoon
-- src: /images/actividades/valencia/albufera/canal-albufera-barcas-tipicas.webp
-  alt: Albufera canal with traditional boats
-- src: /images/actividades/valencia/albufera/albufera-cielo-naranja-barca.webp
-  alt: Boat on the Albufera under an orange sky
-- src: /images/actividades/valencia/albufera/muelle-barcas-tradicionales-albufera.webp
-  alt: Pier with traditional boats in the Albufera
-- src: /images/actividades/valencia/albufera/albufera-devesa-llacuna-sant-llorenc.webp
-  alt: Sant Llorenç lagoon in the Devesa of the Albufera
 ratingProveedor: 4.6
 numeroOpiniones: 1067
 atraccionesRelacionadas:
 - albufera-paella
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/albufera/fvc-proa-barca-lago-atardecer.webp
+imagenAlt: "Bow of a boat sailing on the Albufera lake at sunset"
+galeria:
+- src: /images/actividades/valencia/albufera/fvc-embarcadero-barcas-canal.webp
+  alt: "Jetty with traditional boats on an Albufera canal"
+- src: /images/actividades/valencia/albufera/canal-albufera-barcas-tipicas.webp
+  alt: "Typical boats moored on an Albufera canal"
+- src: /images/actividades/valencia/albufera/fvc-barca-amarrada-lago.webp
+  alt: "Boat moored on the open waters of the Albufera lake"
+- src: /images/actividades/valencia/albufera/fvc-garzas-arrozal.webp
+  alt: "Egrets and other birds over a rice field in the Albufera natural park"
+- src: /images/actividades/valencia/albufera/fvc-barca-muelle-puesta-sol.webp
+  alt: "Boat beside a wooden jetty during sunset at the Albufera"
+- src: /images/actividades/valencia/albufera/fvc-cielo-rojo-lago.webp
+  alt: "Red sky reflected in the Albufera lake after sunset"
+- src: /images/actividades/valencia/albufera/fvc-canal-barcas-anochecer.webp
+  alt: "Canal with traditional boats at nightfall in the Albufera"
 ---
 
 ## What you will see

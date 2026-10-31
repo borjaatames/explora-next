@@ -66,24 +66,28 @@ keywords:
 - salou rooftop bar
 - salou cocktail class
 - things to do in salou evening
-imagen: /images/actividades/tarragona/costa/platja-llarga.webp
-imagenAlt: Platja Llarga in Salou
-galeria:
-- src: /images/actividades/tarragona/costa/faro-salou.webp
-  alt: Salou lighthouse
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: Cap de Salou coastline
-- src: /images/actividades/tarragona/costa/punta-grossa.webp
-  alt: Punta Grossa on the Salou coast
 ratingProveedor: 4.8
 numeroOpiniones: 106
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/madrid/pub-crawl/camarero-preparando-copa.webp
+imagenAlt: "Bartender mixing cocktails at a rooftop bar at dusk"
+galeria:
+- src: /images/actividades/tarragona/fre-mojitos/costa-dorada-puesta-sol.webp
+  alt: "Sunset over the Costa Daurada coastline"
+- src: /images/actividades/barcelona/noche/copas-bar-noche.webp
+  alt: "Cocktails served at a bar counter"
+- src: /images/actividades/tarragona/salou/fta-paseo-salou-palmeras-anochecer.webp
+  alt: "Salou seafront with palm trees at dusk"
+- src: /images/actividades/tarragona/costa/platja-llarga.webp
+  alt: "Platja Llarga beach in Salou"
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: "Cap de Salou over the Mediterranean"
 ---
 
 ## What you will see

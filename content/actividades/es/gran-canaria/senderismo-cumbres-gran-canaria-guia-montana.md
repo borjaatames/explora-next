@@ -77,27 +77,29 @@ keywords:
 - ruta pico de las nieves
 - senderismo roque nublo grupo reducido
 - excursion de montaña gran canaria
-imagen: /images/actividades/gran-canaria/roque-nublo/roque-nublo-desde-pico.webp
-imagenAlt: El Roque Nublo visto desde la zona del Pico de las Nieves
-galeria:
-- src: /images/actividades/gran-canaria/roque-nublo/pico-nieves.webp
-  alt: El Pico de las Nieves, el punto más alto de Gran Canaria
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-teide.webp
-  alt: El Roque Nublo con el Teide al fondo
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp
-  alt: El Roque Nublo sobre un mar de nubes
-- src: /images/actividades/gran-canaria/estrellas/atardecer-cumbre.webp
-  alt: Luz de tarde en las cumbres de Gran Canaria
 ratingProveedor: 4.9
 numeroOpiniones: 417
 atraccionesRelacionadas:
 - roque-nublo
 - interior
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/roque-nublo/fgc-sendero-pinar-roque-nublo.webp
+imagenAlt: "Sendero entre pinos canarios con el Roque Nublo al fondo"
+galeria:
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-pinar-cumbre-pico-nieves.webp
+  alt: "Pinares de la cumbre vistos desde el Pico de las Nieves"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-caminantes-meseta-roque-nublo.webp
+  alt: "Caminantes en la meseta del Roque Nublo"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-teide-panorama.webp
+  alt: "El Roque Nublo con el Teide asomando sobre el mar de nubes"
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-desde-pico.webp
+  alt: "El Roque Nublo visto entre pinos desde la cumbre"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-senderistas-silueta-cumbre.webp
+  alt: "Siluetas de dos senderistas en la cumbre de Gran Canaria"
 ---
 
 ## Qué vas a ver

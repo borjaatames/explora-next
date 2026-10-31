@@ -66,24 +66,32 @@ keywords:
 - royal palace la almudaina
 - almudaina palma
 - things to do in palma
-imagen: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
-imagenAlt: Palma Cathedral from Parc de la Mar, next to the Almudaina
-galeria:
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
-  alt: Palma Cathedral reflected in the Parc de la Mar lake
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-atardecer.webp
-  alt: Palma's seafront at sunset
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
-  alt: Facade of Palma Cathedral
 ratingProveedor: 4.5
 numeroOpiniones: 1110
 atraccionesRelacionadas:
 - palma
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-almudaina/almudaina-palmeras-catedral.webp
+imagenAlt: "Royal Palace of La Almudaina among palm trees, with the Cathedral behind"
+galeria:
+- src: /images/actividades/mallorca/fma-almudaina/salon-gotico-almudaina.webp
+  alt: "Gothic hall with stone arches in the Almudaina Palace"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-fachada-arcos.webp
+  alt: "Arcaded facade of the Almudaina Palace"
+- src: /images/actividades/mallorca/fma-almudaina/comedor-oficiales-almudaina.webp
+  alt: "Officers' Dining Room in the Almudaina Palace"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-atardecer-muralla.webp
+  alt: "Almudaina Palace above the city wall at dusk"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-torre-jardines.webp
+  alt: "Almudaina Palace tower and palm gardens"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-estanque.webp
+  alt: "Almudaina and Palma Cathedral by the Parc de la Mar pool"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-paseo.webp
+  alt: "Almudaina and Cathedral seen from the seafront"
 ---
 
 ## What you will see

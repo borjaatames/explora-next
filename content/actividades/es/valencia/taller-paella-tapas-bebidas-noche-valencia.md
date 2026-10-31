@@ -65,26 +65,30 @@ keywords:
 - taller de paella valencia
 - curso de paella valencia
 - cocinar paella valenciana
-imagen: /images/actividades/valencia/lonja-paella/paella-valenciana.webp
-imagenAlt: Paella valenciana recién hecha
-galeria:
-- src: /images/actividades/valencia/lonja-paella/paella-fuego-lena.webp
-  alt: Paella cocinándose al fuego de leña
-- src: /images/actividades/valencia/ruzafa/croquetas.webp
-  alt: Ración de croquetas como tapa
-- src: /images/actividades/valencia/gastronomia/paella-ruzafa-pixabay-2398845.jpg
-  alt: Paella servida en una mesa de Valencia
-- src: /images/actividades/valencia/ruzafa/mercado-ruzafa-pimientos.webp
-  alt: Pimientos frescos en el mercado de Ruzafa
 ratingProveedor: 4.9
 numeroOpiniones: 434
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/paella/fvc-paella-marisco-fuego.webp
+imagenAlt: "Paella de marisco cocinándose a fuego vivo"
+galeria:
+- src: /images/actividades/valencia/ruzafa/mercado-ruzafa-pimientos.webp
+  alt: "Pimientos y verduras frescas en el Mercado de Ruzafa"
+- src: /images/actividades/valencia/paella/fvc-paella-valenciana-paellera.webp
+  alt: "Paella valenciana con pollo y judía verde en su paellera"
+- src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-mesa.webp
+  alt: "Tapas variadas en cazuelas de barro sobre una mesa de madera"
+- src: /images/actividades/valencia/lonja-paella/paella-fuego-lena.webp
+  alt: "Paella al fuego de leña"
+- src: /images/actividades/valencia/paella/fvc-paella-marisco-mesa.webp
+  alt: "Paella de marisco con gambas y mejillones servida en la mesa"
+- src: /images/actividades/valencia/paella/fvc-paella-valenciana-detalle.webp
+  alt: "Detalle de una paella valenciana recién hecha"
 ---
 
 ## Qué vas a ver

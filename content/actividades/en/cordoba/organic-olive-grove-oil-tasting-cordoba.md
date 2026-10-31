@@ -78,22 +78,26 @@ keywords:
 - olive grove tour cordoba
 - olive oil tour andalusia
 - cordoba olive farm visit
-imagen: /images/actividades/cordoba/proveedor-937837/prov-torre-olivar.webp
-imagenAlt: Olive grove in the Córdoba countryside
-galeria:
-- src: /images/actividades/granada/almazara/olivos-sierra-nevada.webp
-  alt: Rows of olive trees in Andalusia
-- src: /images/actividades/granada/almazara/almazara-aceite-saliendo.webp
-  alt: Freshly pressed olive oil
-- src: /images/actividades/cordoba/gastronomia/salmorejo-cordobes.webp
-  alt: Córdoba salmorejo with olive oil
 ratingProveedor: 4.9
 numeroOpiniones: 91
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/olivar/fvc-olivar-campina-andaluza.webp
+imagenAlt: "Olive groves covering the hills of the Andalusian countryside"
+galeria:
+- src: /images/actividades/cordoba/olivar/fvc-olivares-sierra.webp
+  alt: "Rows of olive groves at the foot of the mountains in Andalusia"
+- src: /images/actividades/cordoba/vinos/fvc-aceitunas-verdes-cuenco.webp
+  alt: "Bowl of green olives"
+- src: /images/actividades/cordoba/olivar/fvc-olivares-valle.webp
+  alt: "Valley with olive groves and farmland in Andalusia"
+- src: /images/actividades/cordoba/olivar/fvc-tostada-tomate.webp
+  alt: "Toast with tomato served with a dip"
+- src: /images/actividades/cordoba/olivar/fvc-mirador-olivares.webp
+  alt: "Viewpoint over a sea of olive groves in Andalusia"
 ---
 
 ## What you will see

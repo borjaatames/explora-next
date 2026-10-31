@@ -19,3 +19,5 @@
 - `plaza-reina-micalet.webp` — Francesco Crippa · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Coche_de_caballos_en_la_Plaza_de_la_Reina.jpg
 - `san-nicolas-altar-frescos.webp` — Dorieo · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Altar_mayor_de_la_Iglesia_de_San_Nicol%C3%A1s_de_Bari_y_San_Pedro_M%C3%A1rtir_02.jpg
 - `san-nicolas-boveda.webp` — Rafa Esteve · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Valencia_-_Iglesia_de_San_Nicol%C3%A1s_01_2016-03-27.jpg
+- `fvc-calle-junto-mercado-central.webp` — Isabelle K., Licencia Pexels, vía Pexels (https://www.pexels.com/photo/a-city-street-with-buildings-and-people-walking-27796191/) · recortada a 1600×1200
+- `fvc-mercado-central-puestos.webp` — Diego Delso, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mercado_Central,_Valencia,_Espa%C3%B1a,_2014-06-30,_DD_115.JPG) · recortada a 1600×1200

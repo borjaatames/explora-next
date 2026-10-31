@@ -67,26 +67,32 @@ keywords:
 - free tour bilbao ingles
 - tour gratis bilbao
 - casco viejo bilbao visita guiada
-imagen: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
-imagenAlt: Teatro Arriaga de Bilbao
-galeria:
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
-  alt: Terrazas en la Plaza Nueva
-- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
-  alt: Catedral de Santiago
-- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: Calle de las Siete Calles
-- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-  alt: Mercado de la Ribera junto a la ría
 ratingProveedor: 4.4
 numeroOpiniones: 57
 atraccionesRelacionadas:
 - casco-viejo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/casco-viejo/fbi-siete-calles-fachadas.webp
+imagenAlt: "Calle de las Siete Calles de Bilbao con fachadas de colores"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-calle-gente.webp
+  alt: "Calle peatonal del Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
+  alt: "Interior de la catedral de Santiago de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp
+  alt: "Plaza y escaleras de Mallona en el Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: "Plaza Nueva del Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
+  alt: "Mercado de la Ribera junto a la ría de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/fbi-miradores-fachadas.webp
+  alt: "Fachadas con miradores acristalados en Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+  alt: "Teatro Arriaga junto a la ría de Bilbao"
 ---
 
 ## Qué vas a ver

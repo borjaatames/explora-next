@@ -65,26 +65,30 @@ keywords:
 - museo taurino alicante
 - visita plaza toros alicante
 - entradas museo taurino alicante
-imagen: /images/actividades/alicante/centro/castillo-monte.webp
-imagenAlt: El castillo de Santa Bárbara sobre el monte Benacantil
-galeria:
-- src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
-  alt: Castillo de Santa Bárbara
-- src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: Alicante y su puerto desde el castillo
-- src: /images/actividades/alicante/centro/calle-san-antonio.webp
-  alt: Calle del centro de Alicante
-- src: /images/actividades/alicante/centro/ayuntamiento.webp
-  alt: Ayuntamiento de Alicante
 ratingProveedor: 4.6
 numeroOpiniones: 432
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-alicante-aerea.webp
+imagenAlt: "Vista aérea de la plaza de toros de Alicante"
+galeria:
+- src: /images/actividades/alicante/fal-plaza-toros/fal-corrales-visitantes.webp
+  alt: "Visitantes en los corrales de la plaza de toros de Alicante"
+- src: /images/actividades/alicante/fal-plaza-toros/fal-reja-plaza-toros.webp
+  alt: "Reja de forja en la plaza de toros de Alicante"
+- src: /images/actividades/alicante/fal-plaza-toros/fal-toros-corrales.webp
+  alt: "Toros en los corrales de la plaza de toros de Alicante"
+- src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-ciudad.webp
+  alt: "Plaza de toros de Alicante entre los edificios de la ciudad"
+- src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-vista-castillo.webp
+  alt: "Plaza de toros de Alicante vista desde lo alto"
+- src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
+  alt: "Castillo de Santa Bárbara, visible desde los tendidos"
 ---
 
 ## Qué vas a ver

@@ -68,27 +68,31 @@ keywords:
 - private bike tour cordoba
 - cordoba bike tour
 - cordoba by bike guided
-imagen: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
-imagenAlt: Córdoba's Roman Bridge lit up at night
-galeria:
-- src: /images/actividades/cordoba/mezquita/puente-romano.webp
-  alt: Roman Bridge and Mosque
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores
-- src: /images/actividades/cordoba/mezquita/naranjos-torre.webp
-  alt: Orange trees and the Mosque tower
-- src: /images/actividades/cordoba/patios/patio-macetas.webp
-  alt: Córdoba courtyard with flowerpots
 ratingProveedor: 4.8
 numeroOpiniones: 107
 atraccionesRelacionadas:
 - mezquita
 - juderia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/bici/fvc-bicicletas-blancas-aparcadas.webp
+imagenAlt: "Row of parked city bikes"
+galeria:
+- src: /images/actividades/cordoba/bici/fvc-puente-romano-desde-calahorra.webp
+  alt: "Roman Bridge and Córdoba old town seen from the Calahorra"
+- src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
+  alt: "Courtyard of the Orange Trees at the Mosque-Cathedral"
+- src: /images/actividades/cordoba/juderia/calle-juderia.webp
+  alt: "Street in the Córdoba Jewish Quarter with the Mosque tower behind"
+- src: /images/actividades/cordoba/juderia/fvc-plaza-juderia-visitantes.webp
+  alt: "Visitors in a square in the Córdoba Jewish Quarter"
+- src: /images/actividades/cordoba/alcazar/fvc-alcazar-murallas-palmeras.webp
+  alt: "Walls of the Alcázar of the Christian Monarchs among palm trees"
+- src: /images/actividades/cordoba/bici/fvc-mezquita-puente-rio.webp
+  alt: "Mosque-Cathedral and Roman Bridge by the Guadalquivir"
 ---
 
 ## What you will see

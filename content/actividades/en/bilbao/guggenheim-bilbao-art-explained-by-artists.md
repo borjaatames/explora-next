@@ -69,28 +69,30 @@ keywords:
 - guggenheim small group tour
 - guggenheim art tour
 - guggenheim tickets with guide
-imagen: /images/actividades/bilbao/guggenheim/puppy.webp
-imagenAlt: Puppy, Jeff Koons's flower sculpture outside the Guggenheim
-galeria:
-- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-  alt: Titanium façade of the Guggenheim Museum
-- src: /images/actividades/bilbao/guggenheim/maman.webp
-  alt: Maman, Louise Bourgeois's spider by the museum
-- src: /images/actividades/bilbao/guggenheim/puppy-flores.webp
-  alt: Close-up of the flowers on Jeff Koons's Puppy
-- src: /images/actividades/bilbao/guggenheim/maman-puente.webp
-  alt: The Guggenheim with the red arch of La Salve bridge
-- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: Guggenheim Museum by Bilbao's estuary
 ratingProveedor: 4.9
 numeroOpiniones: 129
 atraccionesRelacionadas:
 - guggenheim
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-ria.webp
+imagenAlt: "Titanium facade of the Guggenheim Bilbao over the pool by the river"
+galeria:
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-fachada-norte.webp
+  alt: "North facade of the Guggenheim Museum Bilbao with its glass atrium"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+  alt: "Titanium facade of the Guggenheim Museum Bilbao"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-jardines.webp
+  alt: "Exterior of the Guggenheim Museum Bilbao seen from the gardens"
+- src: /images/actividades/bilbao/guggenheim/puppy.webp
+  alt: "Puppy, the flower dog in front of the Guggenheim"
+- src: /images/actividades/bilbao/guggenheim/maman.webp
+  alt: "Maman sculpture by the Guggenheim at dusk"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
+  alt: "Guggenheim Museum Bilbao by the river and La Salve bridge"
 ---
 
 ## What you will see

@@ -70,27 +70,35 @@ keywords:
 - tour gastronomico cadiz
 - tapas cadiz guia
 - food tour cadiz
-imagen: /images/actividades/cadiz/centro/mercado-central.webp
-imagenAlt: Mercado Central de Abastos de Cádiz
-galeria:
-- src: /images/actividades/cadiz/centro/plaza-flores.webp
-  alt: Plaza de las Flores en Cádiz
-- src: /images/actividades/cadiz/centro/vista-torre-tavira.webp
-  alt: Tejados de Cádiz vistos desde la Torre Tavira
-- src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
-  alt: Arco del barrio del Pópulo
-- src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
-  alt: Plaza de San Juan de Dios con el Ayuntamiento
 ratingProveedor: 4.8
 numeroOpiniones: 52
 atraccionesRelacionadas:
 - casco-antiguo
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cadiz/tapas/ftc-boquerones-fritos-canas.webp
+imagenAlt: "Boquerones fritos y cañas en la mesa de un bar andaluz"
+galeria:
+- src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
+  alt: "Plaza de San Juan de Dios, punto de encuentro de la ruta"
+- src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
+  alt: "Tapas variadas servidas en cazuelas de barro"
+- src: /images/actividades/cadiz/centro/mercado-central.webp
+  alt: "Puesto en el Mercado Central de Cádiz"
+- src: /images/actividades/jerez-de-la-frontera/tapas/croquetas-caseras.webp
+  alt: "Croquetas caseras"
+- src: /images/actividades/cadiz/centro/plaza-flores.webp
+  alt: "Terrazas en una calle del centro de Cádiz"
+- src: /images/actividades/cadiz/tapas/ftc-plato-queso-jamon.webp
+  alt: "Plato de queso curado y jamón"
+- src: /images/actividades/jerez-de-la-frontera/tapas/aceitunas-alinadas.webp
+  alt: "Aceitunas aliñadas"
+- src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
+  alt: "Arco de los Blancos, en el barrio del Pópulo"
 ---
 
 ## Qué vas a ver

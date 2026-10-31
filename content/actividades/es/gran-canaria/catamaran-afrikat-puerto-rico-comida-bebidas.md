@@ -76,29 +76,31 @@ keywords:
 - catamaran puerto rico gran canaria comida
 - excursion barco puerto rico gran canaria
 - catamaran barra libre gran canaria
-imagen: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
-imagenAlt: Vista aérea de Puerto Rico de Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: El puerto de Puerto Rico de Gran Canaria
-- src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
-  alt: Acantilados de la costa de Mogán
-- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
-  alt: Costa rocosa del suroeste de Gran Canaria
-- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: Peces en el fondo marino de Gran Canaria
-- src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
-  alt: Puerto Rico de Gran Canaria al atardecer
 ratingProveedor: 4.6
 numeroOpiniones: 1116
 atraccionesRelacionadas:
 - mar
 - mogan
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/catamaran/fgc-catamaranes-fondeados-orilla.webp
+imagenAlt: "Catamaranes fondeados en aguas turquesa cerca de la orilla, vistos desde el aire"
+galeria:
+- src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
+  alt: "Puerto deportivo de Puerto Rico de Gran Canaria"
+- src: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
+  alt: "Barcos fondeados frente a acantilados volcánicos"
+- src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
+  alt: "Acantilados volcánicos de la costa suroeste vistos desde el mar"
+- src: /images/actividades/gran-canaria/catamaran/fgc-esnorquel-fondo-rocoso.webp
+  alt: "Esnórquel sobre un fondo de rocas en aguas claras"
+- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
+  alt: "Peces sobre el fondo arenoso en aguas de Gran Canaria"
+- src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
+  alt: "Bahía y playa de Puerto Rico de Gran Canaria"
 ---
 
 ## Qué vas a ver

@@ -62,26 +62,28 @@ keywords:
 - tablao flamenco alma
 - espectaculo flamenco mallorca
 - tablao palma
-imagen: /images/actividades/alicante/flamenco/flamenco-baile.webp
-imagenAlt: Bailaora de flamenco en el escenario
-galeria:
-- src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: Guitarrista de flamenco
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: Cantaora de flamenco
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: Palmas en un cuadro flamenco
-- src: /images/actividades/alicante/flamenco/tablao.webp
-  alt: Escenario de un tablao flamenco
 ratingProveedor: 4.6
 numeroOpiniones: 1683
 atraccionesRelacionadas:
 - palma
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
+imagenAlt: "Bailaora de flamenco en movimiento sobre un escenario en penumbra (imagen ilustrativa)"
+galeria:
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-noche.webp
+  alt: "Catedral de Palma iluminada de noche"
+- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
+  alt: "Manos de una bailaora con castañuelas"
+- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
+  alt: "Paseo marítimo de Palma al atardecer"
+- src: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
+  alt: "Giro de una bailaora sobre el escenario (imagen ilustrativa)"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
+  alt: "Catedral de Palma con el cielo rosado del atardecer"
 ---
 
 ## Qué vas a ver

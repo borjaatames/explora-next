@@ -69,29 +69,33 @@ keywords:
 - visita guiada catedral cadiz
 - barrio del populo cadiz
 - tour guiado cadiz con entradas
-imagen: /images/actividades/cadiz/centro/catedral-fachada.webp
-imagenAlt: Fachada de la catedral de Cádiz
-galeria:
-- src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
-  alt: Arco del barrio del Pópulo
-- src: /images/actividades/cadiz/centro/teatro-romano.webp
-  alt: Gradas del teatro romano de Cádiz
-- src: /images/actividades/cadiz/centro/catedral-coro.webp
-  alt: Coro de la catedral de Cádiz
-- src: /images/actividades/cadiz/centro/catedral-tejados.webp
-  alt: Cúpula de la catedral sobre los tejados de Cádiz
-- src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
-  alt: Plaza de San Juan de Dios con el Ayuntamiento
 ratingProveedor: 4.7
 numeroOpiniones: 465
 atraccionesRelacionadas:
 - casco-antiguo
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cadiz/centro/ftc-plaza-catedral-palmeras.webp
+imagenAlt: "Plaza de la Catedral de Cádiz con palmeras y terrazas"
+galeria:
+- src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
+  alt: "Arco de los Blancos, en el barrio del Pópulo"
+- src: /images/actividades/cadiz/centro/teatro-romano.webp
+  alt: "Graderío del teatro romano de Cádiz"
+- src: /images/actividades/cadiz/centro/catedral-coro.webp
+  alt: "Sillería del coro de la Catedral de Cádiz"
+- src: /images/actividades/cadiz/centro/ftc-catedral-cripta.webp
+  alt: "Cripta de la Catedral de Cádiz, con su bóveda plana de piedra"
+- src: /images/actividades/cadiz/centro/ftc-catedral-cupula-dorada.webp
+  alt: "Cúpula dorada de la Catedral de Cádiz"
+- src: /images/actividades/cadiz/centro/catedral-tejados.webp
+  alt: "La Catedral de Cádiz sobre los tejados del casco antiguo"
+- src: /images/actividades/cadiz/centro/ftc-catedral-desde-campo-sur.webp
+  alt: "La Catedral de Cádiz vista desde el mar, sobre el Campo del Sur"
 ---
 
 ## Qué vas a ver

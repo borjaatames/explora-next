@@ -63,26 +63,30 @@ keywords:
 - la maestria flamenco cordoba
 - espectaculo flamenco cordoba
 - flamenco en acustico cordoba
-imagen: /images/actividades/cordoba/flamenco/baile-flamenco.webp
-imagenAlt: Baile flamenco en directo
-galeria:
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: Guitarra flamenca
-- src: /images/actividades/cordoba/flamenco/cuadro-flamenco.webp
-  alt: Cuadro flamenco en directo
-- src: /images/actividades/cordoba/mezquita/arcos-interior.webp
-  alt: Arcos califales en Córdoba
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores, cerca de los baños
 ratingProveedor: 4.8
 numeroOpiniones: 32
 atraccionesRelacionadas:
 - espectaculos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+imagenAlt: "Guitarrista flamenco tocando sobre el escenario"
+galeria:
+- src: /images/actividades/cordoba/flamenco/bailaora.webp
+  alt: "Bailaora con mantón blanco durante un espectáculo flamenco"
+- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
+  alt: "Bailaor en pleno baile sobre el escenario"
+- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
+  alt: "Cantaora flamenca cantando en un escenario"
+- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
+  alt: "Guitarrista flamenco tocando en directo"
+- src: /images/actividades/cordoba/juderia/calle-juderia.webp
+  alt: "Calle de la Judería de Córdoba con la torre de la Mezquita al fondo"
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: "Torre de la Mezquita-Catedral vista desde una calle de la Judería"
 ---
 
 ## Qué vas a ver

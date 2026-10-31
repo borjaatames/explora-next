@@ -77,27 +77,31 @@ keywords:
 - excursion norte gran canaria naturaleza
 - piscinas naturales el puertillo
 - senderismo bosque doramas
-imagen: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
-imagenAlt: La cascada del Paseo de Canarias en Firgas
-galeria:
-- src: /images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp
-  alt: Los azulejos del Paseo de Canarias en Firgas
-- src: /images/actividades/gran-canaria/norte/firgas-paseo-isla-azulejo-hero.webp
-  alt: Azulejo con el mapa de la isla en Firgas
-- src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
-  alt: Plataneras en el norte de Gran Canaria
-- src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
-  alt: La iglesia de Arucas, cerca de El Puertillo
 ratingProveedor: 4.8
 numeroOpiniones: 283
 atraccionesRelacionadas:
 - isla
 - interior
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
+imagenAlt: "Cascada del Paseo de Canarias en Firgas"
+galeria:
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp
+  alt: "Bancos de azulejos en el Paseo de Gran Canaria de Firgas"
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-isla-azulejo-hero.webp
+  alt: "Relieve de una isla canaria en el paseo de azulejos de Firgas"
+- src: /images/actividades/gran-canaria/norte/fgc-vegetacion-barranco-flores.webp
+  alt: "Vegetación en flor en un barranco de Gran Canaria"
+- src: /images/actividades/gran-canaria/platano/plataneras.webp
+  alt: "Plataneras en una finca del norte de Gran Canaria"
+- src: /images/actividades/gran-canaria/norte/fgc-costa-norte-isleta.webp
+  alt: "La costa norte de Gran Canaria con La Isleta al fondo"
+- src: /images/actividades/gran-canaria/costa-norte/fgc-piscina-natural-roca-aerea.webp
+  alt: "Piscina natural entre rocas volcánicas junto al océano"
 ---
 
 ## Qué vas a ver

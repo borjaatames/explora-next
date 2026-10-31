@@ -77,27 +77,33 @@ keywords:
 - puerto de mogan kayak
 - gran canaria kayak
 - mogan snorkeling
-imagen: /images/actividades/gran-canaria/mogan-kayak/cueva-marina-mogan.webp
-imagenAlt: Sea cave in the volcanic cliffs near Puerto de Mogán
-galeria:
-- src: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
-  alt: Aerial view of kayaks by a rocky coastline
-- src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: Mogán's volcanic cliffs seen from the sea
-- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: Fish on the seabed off Gran Canaria
-- src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp
-  alt: Puerto de Mogán
 ratingProveedor: 4.9
 numeroOpiniones: 431
 atraccionesRelacionadas:
 - mogan
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/mogan-kayak/fgc-kayak-boca-cueva-marina.webp
+imagenAlt: "A kayak at the mouth of a sea cave"
+galeria:
+- src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp
+  alt: "Puerto de Mogán and its bay"
+- src: /images/actividades/gran-canaria/mogan-kayak/cueva-marina-mogan.webp
+  alt: "Sea cave in the Mogán cliffs"
+- src: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
+  alt: "A group of kayaks along the rocky coast seen from above"
+- src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
+  alt: "Volcanic cliffs of Mogán seen from the sea"
+- src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
+  alt: "Rocky seabed under crystal-clear water"
+- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
+  alt: "Fish over the sandy seabed in Gran Canaria waters"
+- src: /images/actividades/gran-canaria/mogan/fgc-puerto-mogan-playa-puerto.webp
+  alt: "The beach and marina of Puerto de Mogán"
 ---
 
 ## What you will see

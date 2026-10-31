@@ -68,27 +68,33 @@ keywords:
 - girona tapas tour
 - what to eat in girona
 - girona evening tour
-imagen: /images/actividades/barcelona/gastronomia/tapas-y-vino-mesa.webp
-imagenAlt: Table with tapas and wine
-galeria:
-- src: /images/actividades/girona/girona-onyar/girona-onyar-pexels-13759651.webp
-  alt: Colourful houses over the Onyar in Girona
-- src: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
-  alt: Table with assorted tapas
-- src: /images/actividades/girona/casas-onar/casas-onar-girona-hero.webp
-  alt: Onyar river facades at dusk
-- src: /images/actividades/girona/juego-de-tronos/pujada-sant-domenec.webp
-  alt: Sant Domènec steps in Girona old town
 ratingProveedor: 4.9
 numeroOpiniones: 41
 atraccionesRelacionadas:
 - casco-antiguo
 - casco-medieval
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/barcelona/gastronomia/tapas-y-vino-mesa.webp
+imagenAlt: "Assorted tapas with glasses of red wine"
+galeria:
+- src: /images/actividades/girona/fgi-girona-noche/fgi-girona-tejados-atardecer.webp
+  alt: "Girona rooftops at sunset with the cathedral and Sant Feliu"
+- src: /images/actividades/salamanca/jamon/jamon-embutidos.webp
+  alt: "A board of cured sausages"
+- src: /images/actividades/girona/fgi-girona-noche/fgi-onyar-casas-crepusculo.webp
+  alt: "Colourful Onyar houses at twilight, with the first lights on"
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
+  alt: "Cured cheeses cut for tasting"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Wine glasses set for a tasting"
+- src: /images/actividades/girona/juego-de-tronos/pujada-sant-domenec.webp
+  alt: "The Pujada de Sant Domènec steps in the Barri Vell"
+- src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
+  alt: "Pintxos on the counter of a tapas bar"
 ---
 
 ## What you will see

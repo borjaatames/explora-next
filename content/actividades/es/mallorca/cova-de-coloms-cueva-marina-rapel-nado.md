@@ -77,26 +77,30 @@ keywords:
 - cueva marina mallorca
 - coasteering mallorca
 - rapel mallorca cala romantica
-imagen: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
-imagenAlt: Agua transparente en una cala de la costa este de Mallorca
-galeria:
-- src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-02.webp
-  alt: Cala de roca en la costa este de Mallorca
-- src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-03.webp
-  alt: Acantilados y agua turquesa en el este de Mallorca
-- src: /images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp
-  alt: Bañistas en una cala de Mallorca
-- src: /images/actividades/ibiza/kayak-codolar/esnorquel-costa-rocosa.webp
-  alt: Nadando junto a una costa rocosa
 ratingProveedor: 4.9
 numeroOpiniones: 34
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-cala-varques/cueva-acantilado-cala-varques.webp
+imagenAlt: "Acantilado con cueva marina junto a Cala Varques, en la costa este"
+galeria:
+- src: /images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp
+  alt: "Interior de una cueva marina con salida al mar"
+- src: /images/actividades/mallorca/fma-cala-varques/nadadora-esnorquel.webp
+  alt: "Persona nadando con esnórquel en agua verde azulada"
+- src: /images/actividades/mallorca/fma-cala-varques/costa-este-acantilados.webp
+  alt: "Acantilados bajos de la costa este de Mallorca"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
+  alt: "Fondo marino con rocas bajo agua cristalina"
+- src: /images/actividades/mallorca/fma-cala-varques/roca-oleaje-cala-varques.webp
+  alt: "Rocas y oleaje en la costa de Cala Varques"
+- src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
+  alt: "Roca en el mar rodeada de agua turquesa"
 ---
 
 ## Qué vas a ver

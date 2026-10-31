@@ -77,26 +77,28 @@ keywords:
 - san jose caves day trip
 - underground river valencia
 - vall d'uixo caves boat
-imagen: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-18-jpg-02.webp
-imagenAlt: Navigable underground river in the San José Caves
-galeria:
-- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-19-jpg-01.webp
-  alt: Lit gallery inside the San José Caves
-- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-14-jpg-03.webp
-  alt: Rock formations over the water in the San José Caves
-- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-de-la-vall-d-uix-est-04.webp
-  alt: Inside the Sant Josep Caves in La Vall d'Uixó
-- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-07-jpg-05.webp
-  alt: Underground river beneath the cave vault
 ratingProveedor: 4.6
 numeroOpiniones: 2815
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-07-jpg-05.webp
+imagenAlt: "Boat with visitors on the underground river of the San José Caves"
+galeria:
+- src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
+  alt: "Serranos Towers in Valencia, the departure city of the trip"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-19-jpg-01.webp
+  alt: "Lit gallery of the San José Caves above the underground river"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-18-jpg-02.webp
+  alt: "Boat sailing under the rock vaults of the San José Caves"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-de-la-vall-d-uix-est-04.webp
+  alt: "Stalactite formations in the San José Caves"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-14-jpg-03.webp
+  alt: "Lit rock wall inside the San José Caves"
 ---
 
 ## What you will see

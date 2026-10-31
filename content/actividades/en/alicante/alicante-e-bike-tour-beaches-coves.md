@@ -80,26 +80,30 @@ keywords:
 - alicante bike tour
 - alicante coves
 - alicante beaches
-imagen: /images/actividades/alicante/costa/cabo-huertas.webp
-imagenAlt: The rocky coast of Cabo de las Huertas in Alicante
-galeria:
-- src: /images/actividades/alicante/costa/cabo-huertas-faro.webp
-  alt: The Cabo de las Huertas lighthouse
-- src: /images/actividades/alicante/costa/cabo-huertas-atardecer.webp
-  alt: Sunset at Cabo de las Huertas
-- src: /images/actividades/alicante/costa/postiguet-paseo.webp
-  alt: The Postiguet beach promenade
-- src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: Postiguet beach with the castle behind
 ratingProveedor: 4.7
 numeroOpiniones: 115
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-bici/fal-bicicletas-pasarela-playa.webp
+imagenAlt: "Bikes parked on a wooden boardwalk by the beach"
+galeria:
+- src: /images/actividades/alicante/costa/postiguet-paseo.webp
+  alt: "Seafront promenade by Postiguet beach"
+- src: /images/actividades/ibiza/formentera/fi1-ciclistas-camino-dunas.webp
+  alt: "Cyclists on a path through coastal scrub"
+- src: /images/actividades/alicante/costa/cabo-huertas-faro.webp
+  alt: "Cabo de las Huertas lighthouse on the Alicante coast"
+- src: /images/actividades/alicante/costa/cabo-huertas.webp
+  alt: "Rocks and coves at Cabo de las Huertas"
+- src: /images/actividades/alicante/fal-bici/fal-ciclista-ciudad.webp
+  alt: "Cyclist out for a ride"
+- src: /images/actividades/alicante/costa/cabo-huertas-atardecer.webp
+  alt: "Sunset on the rocky coast of Cabo de las Huertas"
 ---
 
 ## What you will see

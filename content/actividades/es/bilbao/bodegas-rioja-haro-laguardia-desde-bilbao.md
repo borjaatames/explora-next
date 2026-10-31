@@ -70,26 +70,34 @@ keywords:
 - bodegas haro desde bilbao
 - laguardia desde bilbao
 - tour vino rioja bilbao
-imagen: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-01.webp
-imagenAlt: Viñedos de la Rioja Alavesa
-galeria:
-- src: /images/actividades/bilbao/rioja-alavesa/laguardia-muralla.webp
-  alt: Murallas de Laguardia
-- src: /images/actividades/bilbao/rioja-alavesa/laguardia-calle-medieval.webp
-  alt: Calle medieval de Laguardia
-- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-03.webp
-  alt: Paisaje de viñedos en la Rioja Alavesa
-- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
-  alt: Copas de vino tinto
 ratingProveedor: 4.4
 numeroOpiniones: 218
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/rioja-alavesa/fbi-uvas-tintas-cepa.webp
+imagenAlt: "Racimos de uva tinta en una cepa"
+galeria:
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-01.webp
+  alt: "Viñedos de la Rioja Alavesa bajo la sierra de Cantabria"
+- src: /images/actividades/bilbao/rioja-alavesa/fbi-laguardia-laguna-carralogrono.webp
+  alt: "Laguardia sobre los viñedos vista desde la laguna de Carralogroño"
+- src: /images/actividades/bilbao/rioja-alavesa/laguardia-muralla.webp
+  alt: "Muralla medieval de Laguardia"
+- src: /images/actividades/bilbao/rioja-alavesa/laguardia-calle-medieval.webp
+  alt: "Calle medieval de Laguardia"
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-02.webp
+  alt: "Barricas en un calado subterráneo de bodega"
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-04.webp
+  alt: "Viñedo de la Rioja Alavesa en otoño"
+- src: /images/actividades/bilbao/rioja-alavesa/fbi-vinedo-rioja-hileras.webp
+  alt: "Hileras de viñedo en La Rioja"
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-03.webp
+  alt: "Carretera entre viñedos de la Rioja Alavesa"
 ---
 
 ## Qué vas a ver

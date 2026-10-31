@@ -67,28 +67,32 @@ keywords:
 - bilbao small group bike tour
 - bilbao guided cycling tour
 - bike tour bilbao guggenheim
-imagen: /images/actividades/bilbao/ria/ria-pasarela.webp
-imagenAlt: Bilbao's estuary and its bridges
-galeria:
-- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-  alt: La Ribera market by the estuary
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
-  alt: Plaza Nueva in Bilbao's Old Town
-- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: Guggenheim Museum by Bilbao's estuary
-- src: /images/actividades/bilbao/guggenheim/maman-puente.webp
-  alt: The Guggenheim with the red arch of La Salve bridge
-- src: /images/actividades/bilbao/ria/zubizuri-pasarela.webp
-  alt: Zubizuri footbridge over the estuary
 ratingProveedor: 4.8
 numeroOpiniones: 75
 atraccionesRelacionadas:
 - ria-miradores
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/bici/fbi-bicis-clasicas-blancas.webp
+imagenAlt: "Classic bikes lined up for a city ride"
+galeria:
+- src: /images/actividades/bilbao/ria/ria-pasarela.webp
+  alt: "The Bilbao estuary and La Salve bridge by the Guggenheim"
+- src: /images/actividades/bilbao/ria/fbi-paseo-ria-guggenheim.webp
+  alt: "Riverside promenade in Bilbao with the Guggenheim in the distance"
+- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
+  alt: "La Ribera Market by the Bilbao estuary"
+- src: /images/actividades/bilbao/ria/fbi-ria-paseo-arboles.webp
+  alt: "Tree-lined walkway along the Bilbao estuary"
+- src: /images/actividades/bilbao/guggenheim/puppy.webp
+  alt: "Puppy, the flower dog in front of the Guggenheim"
+- src: /images/actividades/bilbao/ria/fbi-ria-edificios.webp
+  alt: "Buildings along the Bilbao estuary"
+- src: /images/actividades/bilbao/ria/zubizuri-pasarela.webp
+  alt: "People crossing the Zubizuri footbridge"
 ---
 
 ## What you will see

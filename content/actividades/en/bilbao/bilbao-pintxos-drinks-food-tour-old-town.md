@@ -70,26 +70,32 @@ keywords:
 - bilbao pintxos tour
 - bilbao old town pintxos
 - basque food tour bilbao
-imagen: /images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp
-imagenAlt: Assorted pintxos on a Bilbao bar counter
-galeria:
-- src: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
-  alt: A bar counter with pintxos
-- src: /images/actividades/bilbao/gastronomia/gilda.webp
-  alt: A gilda, the anchovy, chilli and olive pintxo
-- src: /images/actividades/bilbao/gastronomia/pintxos-variados.webp
-  alt: A selection of pintxos
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
-  alt: Terraces in Plaza Nueva
 ratingProveedor: 4.7
 numeroOpiniones: 62
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
+imagenAlt: "Bar counter with pintxos on display"
+galeria:
+- src: /images/actividades/bilbao/gastronomia/pintxos-variados.webp
+  alt: "Assorted prawn and egg pintxos"
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-noche-terrazas.webp
+  alt: "Terraces in Bilbao Old Town at night"
+- src: /images/actividades/bilbao/pintxos/fbi-pintxos-vasitos.webp
+  alt: "Pintxos served in small glasses at a Basque bar"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
+  alt: "Terraces in Bilbao's Plaza Nueva"
+- src: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
+  alt: "Glass of white txakoli"
+- src: /images/actividades/bilbao/pintxos/fbi-gildas-patatas.webp
+  alt: "Gildas with chilli, olive and anchovy on crisps"
+- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
+  alt: "Shopping street in Bilbao Old Town"
 ---
 
 ## What you will see

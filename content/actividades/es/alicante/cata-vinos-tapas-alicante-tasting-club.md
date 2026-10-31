@@ -63,26 +63,30 @@ keywords:
 - vinos y tapas alicante
 - cata vino alicante centro
 - que hacer en alicante por la noche
-imagen: /images/actividades/alicante/vino/cata-copas.webp
-imagenAlt: Copas de vino preparadas para una cata
-galeria:
-- src: /images/actividades/alicante/vino/cata-tinto.webp
-  alt: Copa de vino tinto en una cata
-- src: /images/actividades/alicante/paella/tapas-tortilla.webp
-  alt: Tapas con tortilla de patatas
-- src: /images/actividades/alicante/vino/barricas.webp
-  alt: Barricas de vino
-- src: /images/actividades/alicante/centro/santa-cruz.webp
-  alt: Barrio de Santa Cruz de Alicante
 ratingProveedor: 4.7
 numeroOpiniones: 183
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/gastronomia/copas-vino.webp
+imagenAlt: "Copas de vino blanco servidas en una cata"
+galeria:
+- src: /images/actividades/alicante/vino/cata-tinto.webp
+  alt: "Jarritas de vino tinto para una cata"
+- src: /images/actividades/bilbao/gastronomia/mesa-tapas.webp
+  alt: "Mesa con cazuelitas de tapas variadas"
+- src: /images/actividades/alicante/centro/calle-san-antonio.webp
+  alt: "Calle del casco antiguo de Alicante junto al barrio de Santa Cruz"
+- src: /images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp
+  alt: "Tapas sobre pan pinchadas con palillo"
+- src: /images/actividades/alicante/vino/barricas.webp
+  alt: "Barricas de vino en una bodega"
+- src: /images/actividades/alicante/vino/vinedos-paisaje.webp
+  alt: "Paisaje de viñedos"
 ---
 
 ## Qué vas a ver

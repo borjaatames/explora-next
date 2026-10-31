@@ -75,29 +75,31 @@ keywords:
 - girona peratallada calella de palafrugell
 - girona small group tour
 - costa brava tour from barcelona
-imagen: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
-imagenAlt: Colourful houses above the Onyar river in Girona
-galeria:
-- src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
-  alt: Walking along Girona's city walls
-- src: /images/actividades/girona/catedral-girona/catedral-girona-01.webp
-  alt: Girona Cathedral
-- src: /images/actividades/girona/calella-pals/calella-palafrugell-costa.webp
-  alt: The coast at Calella de Palafrugell
-- src: /images/actividades/girona/calella-pals/calella-palafrugell-pueblo.webp
-  alt: Fishermen's houses in Calella de Palafrugell
-- src: /images/actividades/girona/costa-brava/pueblos-medievales-girona-pixabay-3847277.jpg
-  alt: Street in a medieval village in Girona province
 ratingProveedor: 4.9
 numeroOpiniones: 456
 atraccionesRelacionadas:
 - casco-antiguo
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
+imagenAlt: "The Onyar houses and Girona's red bridge"
+galeria:
+- src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
+  alt: "A cobbled street beside the Girona city walls"
+- src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
+  alt: "Girona Cathedral seen from the city walls"
+- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
+  alt: "The steps and façade of Girona Cathedral"
+- src: /images/actividades/girona/fgi-girona/fgi-pont-eiffel-onyar.webp
+  alt: "The Eiffel Bridge over the Onyar river in Girona"
+- src: /images/actividades/girona/calella-pals/calella-palafrugell-pueblo.webp
+  alt: "Calella de Palafrugell and its white houses by the sea"
+- src: /images/actividades/girona/calella-pals/calella-palafrugell-costa.webp
+  alt: "The Calella de Palafrugell coast among pines"
 ---
 
 ## What you'll see

@@ -75,27 +75,31 @@ keywords:
 - yate puerto rico gran canaria
 - barco mogan esnorquel
 - paseo en barco gran canaria
-imagen: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-imagenAlt: Bahía de Puerto Rico, en Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: Puerto deportivo de Puerto Rico
-- src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
-  alt: Acantilados de la costa de Mogán
-- src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
-  alt: Costa de Taurito, cerca de Mogán
-- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: Peces en el fondo marino de Gran Canaria
 ratingProveedor: 4.7
 numeroOpiniones: 896
 atraccionesRelacionadas:
 - mar
 - mogan
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/yate/fgc-yate-navegando-mar-abierto.webp
+imagenAlt: "Yate a motor navegando en mar abierto"
+galeria:
+- src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
+  alt: "Bahía y playa de Puerto Rico de Gran Canaria"
+- src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
+  alt: "Acantilados volcánicos de la costa suroeste vistos desde el mar"
+- src: /images/actividades/gran-canaria/yate/fgc-mar-azul-costa-rocosa.webp
+  alt: "Mar azul frente a una costa rocosa, a ras de agua"
+- src: /images/actividades/gran-canaria/catamaran/fgc-esnorquel-fondo-rocoso.webp
+  alt: "Esnórquel sobre un fondo de rocas en aguas claras"
+- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
+  alt: "Peces sobre el fondo arenoso en aguas de Gran Canaria"
+- src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
+  alt: "Puerto Rico de Gran Canaria al atardecer"
 ---
 
 ## Qué vas a ver

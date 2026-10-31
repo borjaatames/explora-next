@@ -75,29 +75,31 @@ keywords:
 - girona peratallada calella de palafrugell
 - excursion girona grupo reducido
 - tour costa brava desde barcelona
-imagen: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
-imagenAlt: Casas de colores sobre el río Onyar en Girona
-galeria:
-- src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
-  alt: Paseo por la muralla de Girona
-- src: /images/actividades/girona/catedral-girona/catedral-girona-01.webp
-  alt: Catedral de Girona
-- src: /images/actividades/girona/calella-pals/calella-palafrugell-costa.webp
-  alt: Costa de Calella de Palafrugell
-- src: /images/actividades/girona/calella-pals/calella-palafrugell-pueblo.webp
-  alt: Casas de pescadores de Calella de Palafrugell
-- src: /images/actividades/girona/costa-brava/pueblos-medievales-girona-pixabay-3847277.jpg
-  alt: Calle de un pueblo medieval de Girona
 ratingProveedor: 4.9
 numeroOpiniones: 456
 atraccionesRelacionadas:
 - casco-antiguo
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
+imagenAlt: "Casas del Onyar y puente rojo de Girona"
+galeria:
+- src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
+  alt: "Calle empedrada junto a la muralla de Girona"
+- src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
+  alt: "La catedral de Girona vista desde la muralla"
+- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
+  alt: "Escalinata y fachada de la catedral de Girona"
+- src: /images/actividades/girona/fgi-girona/fgi-pont-eiffel-onyar.webp
+  alt: "Puente de Eiffel sobre el río Onyar en Girona"
+- src: /images/actividades/girona/calella-pals/calella-palafrugell-pueblo.webp
+  alt: "Calella de Palafrugell y sus casas blancas junto al mar"
+- src: /images/actividades/girona/calella-pals/calella-palafrugell-costa.webp
+  alt: "Costa de Calella de Palafrugell entre pinos"
 ---
 
 ## Qué vas a ver

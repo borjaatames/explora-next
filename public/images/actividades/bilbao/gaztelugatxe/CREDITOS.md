@@ -9,3 +9,15 @@
 - `arbol-gernika.webp` — Roberto Chamoso G, CC BY-SA 3.0 es, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Arbol_de_Gernika_y_La_Tribuna._Casa_de_Juntas_de_Gernika-Gernikako_Batzarretxea._Gernika-Lumo%2C_Vizcaya-Bizkaia..JPG) · recortada a 1600×1200
 - `camino-piedra-atardecer.webp` — Pexels, Alejandro De Roa (Licencia Pexels) — https://www.pexels.com/photo/sunset-over-scenic-coastal-path-at-gaztelugatxe-29809979/
 - `mural-guernica-gernika.webp` — Rob Oo · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:We_remember_and_we_forget.jpg
+- `fbi-gaztelugatxe-puente-luz-dorada.webp` — Petr SlovÃ¡Äek, Licencia Unsplash, vía Unsplash (https://unsplash.com/photos/a-large-rock-outcropping-in-the-middle-of-a-body-of-water-XtXe6IIPsmE) · recortada a 1600×1200
+- `fbi-gaztelugatxe-sendero-costa.webp` — Jules Verne Times Two, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Access_path_to_San_Juan_de_Gaztelugatxe_hermitage,_Spain_(PPL1-Corrected_julesvernex2.jpg) · recortada a 1600×1200
+- `fbi-gaztelugatxe-aereo.webp` — Dirk Pothen, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/san-juan-de-gaztelugatxe-island-in-spain-30660001/) · recortada a 1600×1200
+- `fbi-gaztelugatxe-caminata-escaleras.webp` — Juan Pablo Serrano, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/gaztelugatxe-islet-in-basque-country-in-spain-22638638/) · recortada a 1600×1200
+- `fbi-gaztelugatxe-islote-arco.webp` — Diego Delso, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Gaztelugache,_Bermeo,_Pa%C3%ADs_Vasco,_Espa%C3%B1a,_2019-08-13,_DD_14.jpg) · recortada a 1600×1200
+- `fbi-gaztelugatxe-puente-piedra.webp` — ELG21, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/path-bridge-sea-architecture-4342242/) · recortada a 1600×1200
+- `fbi-gaztelugatxe-camino-acceso.webp` — Malenaban, CC BY-SA 3.0 es, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:San-juan-de-gaztelugatxe.jpg) · recortada a 1600×1200
+- `fbi-gaztelugatxe-costa-aketx.webp` — Jules Verne Times Two, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:South_view_of_San_Juan_de_Gaztelugatxe_hermitage,_Spain_(PPL3-Altered)_julesvernex2.jpg) · recortada a 1600×1200
+- `fbi-mundaka-puerto-barcas.webp` — Jules Verne Times Two, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Boats_at_the_Mundaka_Port,_Mundaka,_Spain_(PPL3-Altered)_julesvernex2.jpg) · recortada a 1600×1200
+- `fbi-mundaka-puerto.webp` — Juan García, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/charming-marina-scene-in-mundaka-spain-40285896/) · recortada a 1600×1200
+- `fbi-mundaka-ria-vista.webp` — Telle, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mundaka.JPG) · recortada a 1600×1200
+- `fbi-gernika-iglesia.webp` — javierAlamo, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/gernika-city-tourism-architecture-3656824/) · recortada a 1600×1200

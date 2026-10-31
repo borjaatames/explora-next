@@ -74,29 +74,33 @@ keywords:
 - soller train from the north
 - mallorca island tour boat train
 - tramuntana day trip alcudia
-imagen: /images/actividades/mallorca/soller/sa-calobra-aerea.webp
-imagenAlt: Aerial view of Sa Calobra in the Serra de Tramuntana
-galeria:
-- src: /images/actividades/mallorca/soller/sa-calobra-torrent.webp
-  alt: Mouth of the Torrent de Pareis
-- src: /images/actividades/mallorca/soller/sa-calobra-barco.webp
-  alt: A boat on the Sa Calobra coast
-- src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
-  alt: Port de Sóller bay
-- src: /images/actividades/mallorca/soller/tranvia-soller-paseo.webp
-  alt: The Sóller tram along the seafront
-- src: /images/actividades/mallorca/soller/tren-soller-estacion.webp
-  alt: The wooden Sóller train at the station
 ratingProveedor: 4.6
 numeroOpiniones: 656
 atraccionesRelacionadas:
 - soller-tramuntana
 - tramuntana
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/soller/sa-calobra-barco.webp
+imagenAlt: "Excursion boat on the Sa Calobra coast"
+galeria:
+- src: /images/actividades/mallorca/fma-tramuntana/carretera-sa-calobra-curvas.webp
+  alt: "Winding road down to Sa Calobra"
+- src: /images/actividades/mallorca/fma-tramuntana/torrent-pareis-playa.webp
+  alt: "Torrent de Pareis beach between rock walls"
+- src: /images/actividades/mallorca/fma-tramuntana/torrent-pareis-desembocadura.webp
+  alt: "Mouth of the Torrent de Pareis seen from above"
+- src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
+  alt: "Port de Sóller bay from the mountain"
+- src: /images/actividades/mallorca/fma-soller/tranvia-paseo-port-soller.webp
+  alt: "Sóller tram along the Port de Sóller seafront"
+- src: /images/actividades/mallorca/soller/tren-soller-cocheras.webp
+  alt: "Sóller wooden train at the depot"
+- src: /images/actividades/mallorca/fma-soller/soller-pueblo-desde-alto.webp
+  alt: "Sóller and its train station from above"
 ---
 
 ## What you will see

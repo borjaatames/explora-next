@@ -67,26 +67,34 @@ keywords:
 - loyola from bilbao
 - getaria from bilbao
 - basque coast tour from bilbao
-imagen: /images/actividades/bilbao/costa-vasca/getaria-puerto.webp
-imagenAlt: Getaria harbour
-galeria:
-- src: /images/actividades/bilbao/san-sebastian/concha-desde-monte-igueldo.webp
-  alt: La Concha from Mount Igueldo
-- src: /images/actividades/bilbao/san-sebastian/plaza-constitucion.webp
-  alt: Plaza de la Constitución in San Sebastián
-- src: /images/actividades/bilbao/san-sebastian/bahia-concha-isla-santa-clara.webp
-  alt: La Concha bay and Santa Clara island
-- src: /images/actividades/bilbao/costa-vasca/txakoli-vinedos-mar.webp
-  alt: Txakoli vineyards by the sea in Getaria
 ratingProveedor: 4.7
 numeroOpiniones: 155
 atraccionesRelacionadas:
 - san-sebastian
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/costa-vasca/fbi-loyola-cupula.webp
+imagenAlt: "Dome of the basilica at the Sanctuary of Loyola"
+galeria:
+- src: /images/actividades/bilbao/costa-vasca/fbi-loyola-cupula-lampara.webp
+  alt: "Inside the dome of the Sanctuary of Loyola in Azpeitia"
+- src: /images/actividades/bilbao/costa-vasca/fbi-getaria-playa-raton.webp
+  alt: "Getaria beach with the Ratón headland behind"
+- src: /images/actividades/bilbao/costa-vasca/getaria-puerto.webp
+  alt: "Getaria harbour and the Ratón headland"
+- src: /images/actividades/bilbao/costa-vasca/txakoli-vinedos-mar.webp
+  alt: "Txakoli vineyards by the sea in Getaria"
+- src: /images/actividades/bilbao/san-sebastian/concha-desde-monte-igueldo.webp
+  alt: "La Concha Bay from Mount Igueldo"
+- src: /images/actividades/bilbao/san-sebastian/plaza-constitucion.webp
+  alt: "Plaza de la Constitución in San Sebastián Old Town"
+- src: /images/actividades/bilbao/san-sebastian/barra-pintxos.webp
+  alt: "Pintxos bar counter in San Sebastián Old Town"
+- src: /images/actividades/bilbao/san-sebastian/bahia-concha-isla-santa-clara.webp
+  alt: "La Concha beach and Santa Clara island"
 ---
 
 ## What you will see

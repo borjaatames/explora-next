@@ -63,24 +63,28 @@ keywords:
 - tablao el panuelo cordoba
 - flamenco dinner show cordoba
 - cordoba flamenco show tickets
-imagen: /images/actividades/cordoba/flamenco/cuadro-flamenco.webp
-imagenAlt: Live flamenco group
-galeria:
-- src: /images/actividades/cordoba/flamenco/bailaora.webp
-  alt: Flamenco dancer on stage
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: Flamenco guitar on stage
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: Flamenco hand-clapping
 ratingProveedor: 4.7
 numeroOpiniones: 26
 atraccionesRelacionadas:
 - espectaculos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
+imagenAlt: "Flamenco singer performing on stage"
+galeria:
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: "Flamenco guitarist playing on stage"
+- src: /images/actividades/cordoba/flamenco/bailaora.webp
+  alt: "Flamenco dancer with a white shawl during a flamenco show"
+- src: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
+  alt: "Flamenco dancers on stage during a flamenco show"
+- src: /images/actividades/cordoba/flamenco/guitarrista.webp
+  alt: "Flamenco guitarist in a hat playing live"
+- src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
+  alt: "Roman Bridge and Mosque-Cathedral of Córdoba lit up at dusk"
 ---
 
 ## What you will see

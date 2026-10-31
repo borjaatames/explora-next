@@ -75,28 +75,30 @@ keywords:
 - barco puerto pollensa formentor
 - mercado de sineu excursion
 - mirador es colomer excursion
-imagen: /images/actividades/mallorca/formentor/platja-formentor-agua-turquesa.webp
-imagenAlt: Agua turquesa en la playa de Formentor
-galeria:
-- src: /images/actividades/mallorca/formentor/formentor-acantilados-es-colomer.webp
-  alt: Acantilados de Formentor desde el mirador Es Colomer
-- src: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aerea.webp
-  alt: Vista aérea de barcos en la bahía de Formentor
-- src: /images/actividades/mallorca/formentor/platja-formentor-barcos-desde-talaia.webp
-  alt: Playa de Formentor con barcos fondeados
-- src: /images/actividades/mallorca/formentor/formentor-01.webp
-  alt: Costa de la península de Formentor
-- src: /images/actividades/mallorca/formentor/formentor-02.webp
-  alt: Paisaje de Formentor
 ratingProveedor: 4.4
 numeroOpiniones: 328
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aerea.webp
+imagenAlt: "Barcos en la bahía de Formentor, vista aérea"
+galeria:
+- src: /images/actividades/mallorca/gastronomia/sobrasada-02.webp
+  alt: "Sobrasadas en un puesto de mercado mallorquín"
+- src: /images/actividades/mallorca/fma-formentor/cala-mallorca-barcos-fondeados.webp
+  alt: "Barcos fondeados en una cala de Mallorca"
+- src: /images/actividades/mallorca/formentor/platja-formentor-agua-turquesa.webp
+  alt: "Agua turquesa en la playa de Formentor"
+- src: /images/actividades/mallorca/fma-formentor/es-colomer-islote.webp
+  alt: "Islote de Es Colomer desde el mirador"
+- src: /images/actividades/mallorca/fma-formentor/carretera-formentor-curvas.webp
+  alt: "Carretera de curvas hacia el cabo de Formentor"
+- src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
+  alt: "Sobrasada, embutido típico de Mallorca"
 ---
 
 ## Qué vas a ver

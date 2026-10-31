@@ -73,27 +73,31 @@ keywords:
 - ruta de tapas valencia
 - tapas y vinos valencia
 - tour gastronomico valencia noche
-imagen: /images/actividades/valencia/ruzafa/croquetas.webp
-imagenAlt: Ración de croquetas en un bar de tapas
-galeria:
-- src: /images/actividades/valencia/ruzafa/gildas.webp
-  alt: Gildas servidas en la barra de un bar
-- src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
-  alt: Calles del barrio del Carmen de noche
-- src: /images/actividades/valencia/ruzafa/barra-cerveceria.webp
-  alt: Barra de un bar en Valencia
-- src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
-  alt: Calle del casco antiguo de Valencia iluminada por la noche
 ratingProveedor: 4.8
 numeroOpiniones: 714
 atraccionesRelacionadas:
 - gastronomia
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-noche.webp
+imagenAlt: "Tapas variadas en cazuelas de barro para compartir"
+galeria:
+- src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
+  alt: "Calle del casco antiguo de Valencia de noche"
+- src: /images/actividades/valencia/ruzafa/croquetas.webp
+  alt: "Croquetas caseras servidas como tapa"
+- src: /images/actividades/valencia/ruzafa/barra-cerveceria.webp
+  alt: "Barra de madera de un bar con una caña de cerveza"
+- src: /images/actividades/valencia/ruzafa/gildas.webp
+  alt: "Gildas de aceituna, guindilla y anchoa"
+- src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
+  alt: "Barrio del Carmen, en el centro de Valencia, iluminado de noche"
+- src: /images/actividades/valencia/tapas/fvc-bar-tapas-lleno-noche.webp
+  alt: "Interior de un bar de tapas animado por la noche"
 ---
 
 ## Qué vas a ver

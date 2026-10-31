@@ -63,24 +63,30 @@ keywords:
 - lloret de mar nightlife
 - cocktails lloret de mar
 - things to do in lloret de mar
-imagen: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
-imagenAlt: Table with assorted tapas
-galeria:
-- src: /images/actividades/barcelona/gastronomia/tapas-y-vino-mesa.webp
-  alt: Tapas served on a table
-- src: /images/actividades/girona/kayak-sant-feliu/cala-aguas-cristalinas.webp
-  alt: Costa Brava cove
-- src: /images/actividades/girona/tossa/tossa-de-mar-pueblo.webp
-  alt: Tossa de Mar, near Lloret
 ratingProveedor: 4.7
 numeroOpiniones: 26
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/barcelona/noche/copas-bar-noche.webp
+imagenAlt: "Four cocktails served on the bar"
+galeria:
+- src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp
+  alt: "A bartender preparing a drink behind the bar"
+- src: /images/actividades/barcelona/sangria/sangria-copas-fruta.webp
+  alt: "Glasses with fresh fruit"
+- src: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
+  alt: "A table with assorted tapas to share"
+- src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
+  alt: "Pintxos on the counter of a tapas bar"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
+  alt: "Lloret de Mar main beach with rocks in the foreground"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
+  alt: "Lloret de Mar bay seen from above"
 ---
 
 ## What you will see

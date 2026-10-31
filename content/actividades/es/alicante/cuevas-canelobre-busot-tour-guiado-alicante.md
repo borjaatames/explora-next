@@ -68,24 +68,28 @@ keywords:
 - canelobre desde alicante
 - excursion busot canelobre
 - cuevas alicante tour
-imagen: /images/actividades/alicante/ciudades/alicante-hero.webp
-imagenAlt: Vista de Alicante, punto de salida del tour
-galeria:
-- src: /images/actividades/alicante/centro/explanada-palmeras.webp
-  alt: La Explanada, cerca del punto de encuentro
-- src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: Alicante y su puerto desde el castillo
-- src: /images/actividades/alicante/centro/castillo-monte.webp
-  alt: El castillo de Santa Bárbara sobre el monte Benacantil
 ratingProveedor: 4.9
 numeroOpiniones: 207
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-canelobre/fal-canelobre-formaciones-iluminadas.webp
+imagenAlt: "Formaciones de las Cuevas del Canelobre iluminadas con luces de colores"
+galeria:
+- src: /images/actividades/alicante/fal-canelobre/fal-cabezon-oro-canelobre.webp
+  alt: "Sierra del Cabeçó d'Or, donde se abren las Cuevas del Canelobre"
+- src: /images/actividades/alicante/fal-canelobre/fal-canelobre-sala-estalactitas.webp
+  alt: "Estalactitas iluminadas en la gran sala del Canelobre"
+- src: /images/actividades/alicante/fal-canelobre/fal-canelobre-columnas.webp
+  alt: "Columnas y coladas en las Cuevas del Canelobre"
+- src: /images/actividades/alicante/fal-canelobre/fal-vista-busot.webp
+  alt: "Vista del paisaje desde la zona de Busot y las cuevas"
+- src: /images/actividades/alicante/fal-canelobre/fal-canelobre-estalagmita-color.webp
+  alt: "Estalagmita iluminada en las Cuevas del Canelobre"
 ---
 
 ## Qué vas a ver

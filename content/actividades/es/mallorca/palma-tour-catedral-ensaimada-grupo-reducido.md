@@ -76,29 +76,33 @@ keywords:
 - visita guiada palma de mallorca
 - tour palma con ensaimada
 - catedral de mallorca visita guiada
-imagen: /images/actividades/mallorca/catedral-palma/nave-interior.webp
-imagenAlt: Nave interior de la Catedral de Palma
-galeria:
-- src: /images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp
-  alt: Baldaquino de Gaudí en la Catedral de Palma
-- src: /images/actividades/mallorca/catedral-palma/roseton.webp
-  alt: Rosetón de la Catedral de Palma
-- src: /images/actividades/mallorca/gastronomia/ensaimada-01.webp
-  alt: Ensaimada mallorquina
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
-  alt: Fachada de la Catedral de Palma
-- src: /images/actividades/mallorca/gastronomia/ensaimada-02.webp
-  alt: Ensaimadas en un café de Palma
 ratingProveedor: 4.8
 numeroOpiniones: 237
 atraccionesRelacionadas:
 - palma
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/catedral-palma/nave-interior.webp
+imagenAlt: "Nave central de la Catedral de Palma con sus columnas"
+galeria:
+- src: /images/actividades/mallorca/gastronomia/ensaimada-01.webp
+  alt: "Ensaimada mallorquina espolvoreada con azúcar"
+- src: /images/actividades/mallorca/catedral-palma/roseton.webp
+  alt: "Rosetón de la Catedral de Palma"
+- src: /images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp
+  alt: "Baldaquino de Gaudí sobre el altar de la Catedral de Palma"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-vidrieras-bovedas.webp
+  alt: "Bóvedas y vidrieras de la Catedral de Palma"
+- src: /images/actividades/mallorca/gastronomia/ensaimada-03.webp
+  alt: "Vitrina de pastelería con ensaimadas"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+  alt: "Catedral de Palma sobre la muralla del mar"
+- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
+  alt: "Parc de la Mar y la Catedral de Palma al atardecer"
 ---
 
 ## Qué vas a ver

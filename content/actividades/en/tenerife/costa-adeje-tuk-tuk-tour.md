@@ -69,22 +69,26 @@ keywords:
 - tenerife tuk tuk tour
 - things to see in costa adeje
 - costa adeje guided tour
-imagen: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-imagenAlt: View over Costa Adeje from above
-galeria:
-- src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: Costa Adeje beach
-- src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
-  alt: Rocky coastline in Adeje
-- src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
-  alt: Los Cristianos beach, next to Costa Adeje
 ratingProveedor: 4.7
 numeroOpiniones: 625
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tenerife/tuk-tuk/ftc-tuk-tuk-junto-al-mar.webp
+imagenAlt: "Tuk tuk parked by the sea (illustrative image)"
+galeria:
+- src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
+  alt: "View of the Costa Adeje coastline with hotels and palm trees"
+- src: /images/actividades/alicante/tuk-tuk/tuk-tuk-calle-alvarez.webp
+  alt: "Open electric tuk tuk of the kind used on city tours (illustrative image)"
+- src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
+  alt: "A Costa Adeje beach with the mountains of southern Tenerife behind"
+- src: /images/actividades/tenerife/tuk-tuk/ftc-tuk-tuk-detalle-frontal.webp
+  alt: "Close-up of the front of a tuk tuk (illustrative image)"
+- src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
+  alt: "Rocky volcanic shoreline in Costa Adeje"
 ---
 
 ## What you will see

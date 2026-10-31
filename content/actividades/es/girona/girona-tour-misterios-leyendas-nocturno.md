@@ -65,27 +65,29 @@ keywords:
 - girona de noche
 - tour nocturno girona
 - misterios de girona
-imagen: /images/actividades/girona/juego-de-tronos/pujada-sant-domenec-arco.webp
-imagenAlt: Arco en la subida de Sant Domènec, en el Barri Vell de Girona
-galeria:
-- src: /images/actividades/girona/juego-de-tronos/call-escaleras.webp
-  alt: Escaleras del Call de Girona
-- src: /images/actividades/girona/juego-de-tronos/sant-pere-galligants.webp
-  alt: Sant Pere de Galligants
-- src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
-  alt: Paseo de la muralla de Girona
-- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
-  alt: Escalinata de la catedral de Girona
 ratingProveedor: 4.9
 numeroOpiniones: 53
 atraccionesRelacionadas:
 - casco-antiguo
 - casco-medieval
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-girona-noche/fgi-onyar-anochecer-puente-rojo.webp
+imagenAlt: "Río Onyar al anochecer con el puente rojo iluminado y la catedral de Girona al fondo"
+galeria:
+- src: /images/actividades/girona/fgi-girona-noche/fgi-girona-tejados-atardecer.webp
+  alt: "Tejados de Girona al atardecer con la catedral y Sant Feliu"
+- src: /images/actividades/girona/fgi-girona-noche/fgi-onyar-casas-crepusculo.webp
+  alt: "Casas de colores del Onyar en el crepúsculo, con las primeras luces encendidas"
+- src: /images/actividades/girona/fgi-girona-noche/fgi-onyar-sant-feliu-ultima-luz.webp
+  alt: "Casas del Onyar y campanario de Sant Feliu con la última luz del día"
+- src: /images/actividades/girona/fgi-girona-noche/fgi-onyar-reflejos-tarde.webp
+  alt: "Reflejos de las casas del Onyar al caer la tarde"
+- src: /images/actividades/girona/girona-onyar/girona-onyar-pixabay-1974041.webp
+  alt: "Casas del Onyar iluminadas por el sol del atardecer"
 ---
 
 ## Qué vas a ver

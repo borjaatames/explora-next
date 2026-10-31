@@ -71,25 +71,33 @@ keywords:
 - pais vasco frances desde bilbao
 - bayona y biarritz excursion
 - san juan de luz desde bilbao
-imagen: /images/actividades/bilbao/costa-vasca/biarritz-grande-plage.webp
-imagenAlt: Grande Plage de Biarritz con el casino
-galeria:
-- src: /images/actividades/bilbao/costa-vasca/biarritz-casino.webp
-  alt: Playa y casino de Biarritz
-- src: /images/actividades/bilbao/costa-vasca/san-juan-de-luz-puerto.webp
-  alt: Puerto de San Juan de Luz con barcos de pesca
-- src: /images/actividades/bilbao/costa-vasca/hendaya-dos-gemelos.webp
-  alt: Rocas de los Dos Gemelos frente a la costa vasca francesa
-- src: /images/actividades/bilbao/costa-vasca/hendaya-playa-dos-gemelos.webp
-  alt: Playa de Hendaya con las rocas de los Dos Gemelos
 ratingProveedor: 4.7
 numeroOpiniones: 396
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/costa-vasca/fbi-biarritz-roca-virgen.webp
+imagenAlt: "Roca de la Virgen y su pasarela en Biarritz"
+galeria:
+- src: /images/actividades/bilbao/costa-vasca/fbi-biarritz-playa-olas.webp
+  alt: "Playa de Biarritz con olas del Atlántico"
+- src: /images/actividades/bilbao/costa-vasca/biarritz-casino.webp
+  alt: "Grande Plage y casino de Biarritz"
+- src: /images/actividades/bilbao/costa-vasca/fbi-biarritz-puerto-viejo.webp
+  alt: "Puerto Viejo de Biarritz entre rocas"
+- src: /images/actividades/bilbao/costa-vasca/fbi-biarritz-costa-hotel.webp
+  alt: "Costa de Biarritz con hotel frente al mar"
+- src: /images/actividades/bilbao/costa-vasca/fbi-san-juan-luz-puerto.webp
+  alt: "Barcas en el puerto de San Juan de Luz"
+- src: /images/actividades/bilbao/costa-vasca/fbi-san-juan-luz-iglesia-puerto.webp
+  alt: "Puerto de San Juan de Luz con la torre de la iglesia"
+- src: /images/actividades/bilbao/costa-vasca/san-juan-de-luz-puerto.webp
+  alt: "Puerto pesquero de San Juan de Luz"
+- src: /images/actividades/bilbao/costa-vasca/fbi-san-juan-luz-bahia.webp
+  alt: "Bahía y playa de San Juan de Luz"
 ---
 
 ## Qué vas a ver

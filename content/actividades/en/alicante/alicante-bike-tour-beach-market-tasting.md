@@ -70,28 +70,32 @@ keywords:
 - alicante cycling tour
 - alicante by bike
 - guided bike tour alicante
-imagen: /images/actividades/alicante/costa/postiguet-paseo.webp
-imagenAlt: Promenade by Postiguet beach
-galeria:
-- src: /images/actividades/alicante/centro/santa-cruz.webp
-  alt: Santa Cruz quarter
-- src: /images/actividades/alicante/centro/explanada-palmeras.webp
-  alt: The palm-lined Explanada de España
-- src: /images/actividades/alicante/paella/mercado-central.webp
-  alt: Facade of the Central Market
-- src: /images/actividades/alicante/centro/santa-maria.webp
-  alt: Basilica of Santa María
-- src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: Postiguet beach below Santa Bárbara castle
 ratingProveedor: 4.8
 numeroOpiniones: 673
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/formentera/fi1-bicis-junto-dunas.webp
+imagenAlt: "Colourful bikes parked by a beach fence"
+galeria:
+- src: /images/actividades/alicante/centro/santa-cruz.webp
+  alt: "Santa Cruz quarter in Alicante's old town"
+- src: /images/actividades/alicante/centro/explanada-palmeras.webp
+  alt: "Explanada de España with palm trees"
+- src: /images/actividades/alicante/costa/postiguet-castillo.webp
+  alt: "Postiguet beach with Santa Bárbara Castle behind"
+- src: /images/actividades/alicante/fal-bici/fal-bicicletas-pasarela-playa.webp
+  alt: "Bikes parked on a wooden boardwalk by the beach"
+- src: /images/actividades/alicante/centro/vista-puerto.webp
+  alt: "Alicante port seen from the castle"
+- src: /images/actividades/alicante/centro/santa-maria.webp
+  alt: "Basilica of Santa María in Alicante"
+- src: /images/actividades/alicante/paella/mercado-palmeras.webp
+  alt: "Façade of Alicante's Central Market"
 ---
 
 ## What you will see

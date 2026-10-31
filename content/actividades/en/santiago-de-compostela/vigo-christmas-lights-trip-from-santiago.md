@@ -70,24 +70,32 @@ keywords:
 - vigo christmas trip
 - vigo christmas lights tour
 - vigo lights day trip
-imagen: /images/actividades/santiago-de-compostela/rias/bateas.webp
-imagenAlt: Mussel rafts in a Galician estuary
-galeria:
-- src: /images/actividades/santiago-de-compostela/rias/batea.webp
-  alt: A mussel raft in the estuary
-- src: /images/actividades/santiago-de-compostela/rias/catamaran-turistico-o-grove.webp
-  alt: Tourist boat on a Galician estuary
-- src: /images/actividades/santiago-de-compostela/rias/combarro.webp
-  alt: Fishing village in the Rías Baixas
 ratingProveedor: 4.6
 numeroOpiniones: 20
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/fre-navidad-vigo/guirnaldas-luces-navidad-calle.webp
+imagenAlt: "Christmas light garlands over a street at night (illustrative image)"
+galeria:
+- src: /images/actividades/santiago-de-compostela/noche/fsc-obradoiro-cielo-atardecer.webp
+  alt: "Obradoiro Square in Santiago at dusk, the departure point"
+- src: /images/actividades/santiago-de-compostela/fre-navidad-vigo/ria-vigo-barco-travesia.webp
+  alt: "Boat crossing the Vigo estuary with the city behind"
+- src: /images/actividades/santiago-de-compostela/fre-navidad-vigo/puerto-vigo-noche.webp
+  alt: "Port of Vigo lit up at night"
+- src: /images/actividades/santiago-de-compostela/fre-navidad-vigo/tira-luces-navidad.webp
+  alt: "String of colourful Christmas lights"
+- src: /images/actividades/santiago-de-compostela/fre-navidad-vigo/vigo-casco-vello-tejados.webp
+  alt: "Rooftops of Vigo's old town"
+- src: /images/actividades/santiago-de-compostela/fre-navidad-vigo/vigo-plaza-centro.webp
+  alt: "Pedestrian square in central Vigo"
+- src: /images/actividades/santiago-de-compostela/fre-navidad-vigo/ria-vigo-atardecer.webp
+  alt: "Sunset over the Vigo estuary"
 ---
 
 ## What you will see

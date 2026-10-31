@@ -74,27 +74,29 @@ keywords:
 - tejeda day trip
 - fataga gran canaria
 - gran canaria interior tour
-imagen: /images/actividades/gran-canaria/roque-nublo/roque-nublo-tejeda.webp
-imagenAlt: Roque Nublo seen from the Tejeda area
-galeria:
-- src: /images/actividades/gran-canaria/buggy/pueblo-fataga.webp
-  alt: The village of Fataga
-- src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
-  alt: Degollada de las Yeguas viewpoint
-- src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-  alt: The Fataga ravine
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-monolito.webp
-  alt: The Roque Nublo monolith
 ratingProveedor: 4.4
 numeroOpiniones: 98
 atraccionesRelacionadas:
 - interior
 - roque-nublo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/tejeda/fgc-tejeda-roque-nublo.webp
+imagenAlt: "Tejeda with Roque Nublo and Roque Bentayga on the horizon"
+galeria:
+- src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
+  alt: "The Degollada de las Yeguas viewpoint"
+- src: /images/actividades/gran-canaria/buggy/pueblo-fataga.webp
+  alt: "The village of Fataga among palm trees"
+- src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
+  alt: "Canary palms in the Fataga ravine"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-desde-tejeda.webp
+  alt: "Roque Nublo above the green slopes of Tejeda"
+- src: /images/actividades/gran-canaria/tejeda/fgc-roque-bentayga-almendros.webp
+  alt: "Almond trees in blossom in front of Roque Bentayga, in Tejeda"
 ---
 
 ## What you will see

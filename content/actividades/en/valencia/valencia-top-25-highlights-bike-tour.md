@@ -77,29 +77,33 @@ keywords:
 - bike tour valencia old town
 - valencia guided cycling tour
 - valencia e-bike tour
-imagen: /images/actividades/valencia/turia-bici/bici-roja.webp
-imagenAlt: Red bike parked in Valencia
-galeria:
-- src: /images/actividades/valencia/turia-bici/jardin-turia-aereo.webp
-  alt: Aerial view of the Turia Gardens
-- src: /images/actividades/valencia/modernista/estacion-norte-fachada.webp
-  alt: Facade of Valencia's North Station
-- src: /images/actividades/valencia/centro/lonja-fachada.webp
-  alt: Facade of the Silk Exchange
-- src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp
-  alt: Buildings of the City of Arts and Sciences
-- src: /images/actividades/valencia/turia-bici/bici-palmera.webp
-  alt: Bike next to a palm tree in Valencia
 ratingProveedor: 4.8
 numeroOpiniones: 1160
 atraccionesRelacionadas:
 - centro-historico
 - ciudad-artes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/turia-bici/bici-roja.webp
+imagenAlt: "Red bicycle parked beside a bench in Valencia"
+galeria:
+- src: /images/actividades/valencia/ruzafa/calle-ruzafa.webp
+  alt: "Street in the Ruzafa district of Valencia"
+- src: /images/actividades/valencia/centro/plaza-virgen.webp
+  alt: "Plaza de la Virgen in Valencia old town"
+- src: /images/actividades/valencia/centro/torres-serranos.webp
+  alt: "Serranos Towers, a former gate in Valencia city walls"
+- src: /images/actividades/valencia/turia/fvc-paseo-jardin-turia.webp
+  alt: "Tree-lined path in the Turia gardens"
+- src: /images/actividades/valencia/turia/fvc-bici-camino-arbolado.webp
+  alt: "Bicycle beside a tree-lined dirt path"
+- src: /images/actividades/valencia/turia/fvc-jardin-turia-palau-arts.webp
+  alt: "Turia gardens with the Palau de les Arts in the background"
+- src: /images/actividades/valencia/ciudad-artes/fvc-museo-ciencias-reflejo-atardecer.webp
+  alt: "Science Museum reflected in the water at the City of Arts and Sciences"
 ---
 
 ## What you will see

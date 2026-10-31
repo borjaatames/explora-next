@@ -74,27 +74,29 @@ keywords:
 - excursion tejeda gran canaria
 - fataga gran canaria
 - tour interior gran canaria
-imagen: /images/actividades/gran-canaria/roque-nublo/roque-nublo-tejeda.webp
-imagenAlt: El Roque Nublo visto desde la zona de Tejeda
-galeria:
-- src: /images/actividades/gran-canaria/buggy/pueblo-fataga.webp
-  alt: Pueblo de Fataga
-- src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
-  alt: Mirador de la Degollada de las Yeguas
-- src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-  alt: Barranco de Fataga
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-monolito.webp
-  alt: El monolito del Roque Nublo
 ratingProveedor: 4.4
 numeroOpiniones: 98
 atraccionesRelacionadas:
 - interior
 - roque-nublo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/tejeda/fgc-tejeda-roque-nublo.webp
+imagenAlt: "Tejeda con el Roque Nublo y el Roque Bentayga en el horizonte"
+galeria:
+- src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
+  alt: "Mirador de la Degollada de las Yeguas"
+- src: /images/actividades/gran-canaria/buggy/pueblo-fataga.webp
+  alt: "Pueblo de Fataga entre palmeras"
+- src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
+  alt: "Palmeras canarias en el barranco de Fataga"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-desde-tejeda.webp
+  alt: "El Roque Nublo sobre las laderas verdes de Tejeda"
+- src: /images/actividades/gran-canaria/tejeda/fgc-roque-bentayga-almendros.webp
+  alt: "Almendros en flor frente al Roque Bentayga, en Tejeda"
 ---
 
 ## Qué vas a ver

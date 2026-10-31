@@ -69,29 +69,33 @@ keywords:
 - cadiz cathedral guided tour
 - el populo cadiz
 - cadiz walking tour with tickets
-imagen: /images/actividades/cadiz/centro/catedral-fachada.webp
-imagenAlt: Façade of Cádiz Cathedral
-galeria:
-- src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
-  alt: Archway in the El Pópulo quarter
-- src: /images/actividades/cadiz/centro/teatro-romano.webp
-  alt: Seating of the Roman theatre in Cádiz
-- src: /images/actividades/cadiz/centro/catedral-coro.webp
-  alt: Choir stalls in Cádiz Cathedral
-- src: /images/actividades/cadiz/centro/catedral-tejados.webp
-  alt: Cathedral dome above the rooftops of Cádiz
-- src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
-  alt: Plaza de San Juan de Dios and the Town Hall
 ratingProveedor: 4.7
 numeroOpiniones: 465
 atraccionesRelacionadas:
 - casco-antiguo
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cadiz/centro/ftc-plaza-catedral-palmeras.webp
+imagenAlt: "Cathedral Square in Cádiz with palm trees and café terraces"
+galeria:
+- src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
+  alt: "The Arco de los Blancos in the Pópulo quarter"
+- src: /images/actividades/cadiz/centro/teatro-romano.webp
+  alt: "Seating tiers of the Roman theatre of Cádiz"
+- src: /images/actividades/cadiz/centro/catedral-coro.webp
+  alt: "Choir stalls of Cádiz Cathedral"
+- src: /images/actividades/cadiz/centro/ftc-catedral-cripta.webp
+  alt: "The crypt of Cádiz Cathedral, with its flat stone vault"
+- src: /images/actividades/cadiz/centro/ftc-catedral-cupula-dorada.webp
+  alt: "The golden dome of Cádiz Cathedral"
+- src: /images/actividades/cadiz/centro/catedral-tejados.webp
+  alt: "Cádiz Cathedral rising above the old town rooftops"
+- src: /images/actividades/cadiz/centro/ftc-catedral-desde-campo-sur.webp
+  alt: "Cádiz Cathedral seen from the sea, above the Campo del Sur"
 ---
 
 ## What you will see

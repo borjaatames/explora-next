@@ -85,26 +85,32 @@ keywords:
 - costa brava kayak tour
 - snorkeling costa brava
 - kayak and snorkel day trip barcelona
-imagen: /images/actividades/girona/kayak-sant-feliu/kayak-acantilados.webp
-imagenAlt: Kayaks beside the Costa Brava cliffs
-galeria:
-- src: /images/actividades/girona/kayak-sant-feliu/kayak-rojo-isla.webp
-  alt: Red kayak next to a Costa Brava islet
-- src: /images/actividades/girona/kayak-sant-feliu/cala-aguas-cristalinas.webp
-  alt: Clear-water cove on the Costa Brava
-- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-  alt: Cliff above the sea on the Costa Brava
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
-  alt: Rocky cove with turquoise water
 ratingProveedor: 4.9
 numeroOpiniones: 3184
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/kayak-sant-feliu/kayak-acantilados.webp
+imagenAlt: "A double kayak paddling along Costa Brava cliffs"
+galeria:
+- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
+  alt: "A rocky cove with turquoise water on the Costa Brava"
+- src: /images/actividades/girona/kayak-sant-feliu/kayak-rojo-isla.webp
+  alt: "A red kayak at sea off an islet"
+- src: /images/actividades/girona/fgi-mar/fgi-esnorquel-desde-arriba.webp
+  alt: "A person snorkelling in clear water, seen from above"
+- src: /images/actividades/girona/kayak-sant-feliu/cala-aguas-cristalinas.webp
+  alt: "A crystal-clear cove with boats on the Costa Brava"
+- src: /images/actividades/girona/fgi-mar/fgi-grupo-kayaks-rocas.webp
+  alt: "A group of kayaks paddling near rocks, aerial view"
+- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
+  alt: "Costa Brava cliffs and coves"
+- src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
+  alt: "Sant Feliu de Guíxols bay seen from the coast"
 ---
 
 ## What you will see

@@ -67,28 +67,32 @@ keywords:
 - bilbao en bicicleta grupo reducido
 - ruta guiada bicicleta bilbao
 - alquiler bici con guia bilbao
-imagen: /images/actividades/bilbao/ria/ria-pasarela.webp
-imagenAlt: La ría de Bilbao con sus puentes
-galeria:
-- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-  alt: Mercado de la Ribera junto a la ría
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
-  alt: Plaza Nueva, en el Casco Viejo de Bilbao
-- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: Museo Guggenheim junto a la ría de Bilbao
-- src: /images/actividades/bilbao/guggenheim/maman-puente.webp
-  alt: El Guggenheim con el arco rojo del puente de La Salve
-- src: /images/actividades/bilbao/ria/zubizuri-pasarela.webp
-  alt: Pasarela Zubizuri sobre la ría
 ratingProveedor: 4.8
 numeroOpiniones: 75
 atraccionesRelacionadas:
 - ria-miradores
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/bici/fbi-bicis-clasicas-blancas.webp
+imagenAlt: "Bicicletas clásicas preparadas para un paseo por la ciudad"
+galeria:
+- src: /images/actividades/bilbao/ria/ria-pasarela.webp
+  alt: "La ría de Bilbao y el puente de La Salve junto al Guggenheim"
+- src: /images/actividades/bilbao/ria/fbi-paseo-ria-guggenheim.webp
+  alt: "Paseo junto a la ría de Bilbao con el Guggenheim al fondo"
+- src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
+  alt: "Mercado de la Ribera junto a la ría de Bilbao"
+- src: /images/actividades/bilbao/ria/fbi-ria-paseo-arboles.webp
+  alt: "Paseo arbolado junto a la ría de Bilbao"
+- src: /images/actividades/bilbao/guggenheim/puppy.webp
+  alt: "Puppy, el perro de flores frente al Guggenheim"
+- src: /images/actividades/bilbao/ria/fbi-ria-edificios.webp
+  alt: "Edificios junto a la ría de Bilbao"
+- src: /images/actividades/bilbao/ria/zubizuri-pasarela.webp
+  alt: "Paseantes cruzando la pasarela Zubizuri"
 ---
 
 ## Qué vas a ver

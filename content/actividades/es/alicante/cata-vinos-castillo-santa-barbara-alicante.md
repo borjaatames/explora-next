@@ -65,29 +65,31 @@ keywords:
 - castillo santa barbara cata
 - vino alicante castillo
 - tapas castillo santa barbara
-imagen: /images/actividades/alicante/centro/castillo-santa-barbara.webp
-imagenAlt: Castillo de Santa Bárbara
-galeria:
-- src: /images/actividades/alicante/vino/cata-copas.webp
-  alt: Copas de vino preparadas para una cata
-- src: /images/actividades/alicante/centro/castillo-vistas.webp
-  alt: Vistas al mar desde el castillo de Santa Bárbara
-- src: /images/actividades/alicante/vino/cata-tinto.webp
-  alt: Copa de vino tinto en una cata
-- src: /images/actividades/alicante/centro/castillo-interior.webp
-  alt: Interior del castillo de Santa Bárbara
-- src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: Alicante y su puerto desde el castillo
 ratingProveedor: 4.4
 numeroOpiniones: 718
 atraccionesRelacionadas:
 - gastronomia
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/barcelona/vino/copas-vino-tinto-fila.webp
+imagenAlt: "Copas de vino tinto y blanco preparadas para una cata"
+galeria:
+- src: /images/actividades/alicante/fal-cata-castillo/fal-baluarte-castillo-mar.webp
+  alt: "Baluarte del castillo de Santa Bárbara con vistas al mar y al puerto"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Copas de vino blanco y tinto en una cata"
+- src: /images/actividades/alicante/centro/castillo-vistas.webp
+  alt: "Castillo de Santa Bárbara sobre la roca, con el mar al fondo"
+- src: /images/actividades/alicante/paella/tapas-tortilla.webp
+  alt: "Tapas de tortilla de patatas"
+- src: /images/actividades/alicante/fal-cata-castillo/fal-vista-puerto-castillo.webp
+  alt: "Vista del puerto y la playa de Alicante desde el castillo"
+- src: /images/actividades/alicante/fal-cata-castillo/fal-costa-alicante-desde-castillo.webp
+  alt: "Costa de Alicante desde las alturas del castillo"
 ---
 
 ## Qué vas a ver

@@ -76,28 +76,32 @@ keywords:
 - montanejos hot springs
 - bridal veil waterfall montanejos
 - hot springs near valencia
-imagen: /images/actividades/valencia/montanejos/montanejos-fuente-banos-poza.webp
-imagenAlt: Turquoise pool at the Fuente de los Baños in Montanejos
-galeria:
-- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-roca.webp
-  alt: Rocks and clear water at the Fuente de los Baños
-- src: /images/actividades/valencia/montanejos/montanejos-mijares-banistas.webp
-  alt: Swimmers in the Mijares river in Montanejos
-- src: /images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp
-  alt: Upper course of the Mijares river among mountains
-- src: /images/actividades/valencia/montanejos/montanejos-torre-plaza.webp
-  alt: Tower and square in the village of Montanejos
-- src: /images/actividades/valencia/montanejos/montanejos-villa-termal.webp
-  alt: View of Montanejos, a spa village in Castellón
 ratingProveedor: 4.8
 numeroOpiniones: 928
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/montanejos/fvc-fuente-banos-banistas.webp
+imagenAlt: "Bathers at the Fuente de los Baños by the Mijares river in Montanejos"
+galeria:
+- src: /images/actividades/valencia/montanejos/montanejos-pexels-5952317-hero.webp
+  alt: "View of Montanejos among mountains and pine woods"
+- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-roca.webp
+  alt: "Rock walls above the pool at the Fuente de los Baños"
+- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-azulejo.webp
+  alt: "Spouts and tile panel of the Fuente de los Baños in Montanejos"
+- src: /images/actividades/valencia/montanejos/montanejos-mijares-banistas.webp
+  alt: "Bathing area on the upper Mijares river in Montanejos"
+- src: /images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp
+  alt: "Mijares river canyon as it passes through Montanejos"
+- src: /images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp
+  alt: "Village of Montanejos in the Mijares valley"
+- src: /images/actividades/valencia/montanejos/montanejos-villa-termal.webp
+  alt: "Tile sign of Montanejos, spa village"
 ---
 
 ## What you will see

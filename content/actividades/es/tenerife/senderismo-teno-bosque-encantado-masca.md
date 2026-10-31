@@ -76,28 +76,32 @@ keywords:
 - ruta laurisilva sur tenerife
 - senderismo masca guiado
 - excursion senderismo tenerife recogida hotel
-imagen: /images/actividades/tenerife/masca/masca-teno.webp
-imagenAlt: Montañas de Teno sobre el caserío de Masca
-galeria:
-- src: /images/actividades/tenerife/anaga/anaga-03.webp
-  alt: Bosque de laurisilva con musgo
-- src: /images/actividades/tenerife/masca/masca-caserio.webp
-  alt: Caserío de Masca entre montañas
-- src: /images/actividades/tenerife/masca/barranco-masca-luz.webp
-  alt: Barranco de Masca con luz de tarde
-- src: /images/actividades/tenerife/teide/teide-canadas.webp
-  alt: El Teide sobre Las Cañadas
-- src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-  alt: Acantilados de Los Gigantes
 ratingProveedor: 4.9
 numeroOpiniones: 482
 atraccionesRelacionadas:
 - masca
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tenerife/teno/ftc-sendero-laurisilva.webp
+imagenAlt: "Sendero de tierra entre árboles de laurisilva en Tenerife"
+galeria:
+- src: /images/actividades/tenerife/teno/ftc-pinar-canario-teide.webp
+  alt: "Pinar canario con el Teide al fondo"
+- src: /images/actividades/tenerife/masca/ftc-macizo-teno-masca-panoramica.webp
+  alt: "Panorámica del macizo de Teno sobre Masca"
+- src: /images/actividades/tenerife/teno/ftc-laurisilva-troncos-musgo.webp
+  alt: "Bosque de laurisilva con troncos cubiertos de musgo"
+- src: /images/actividades/tenerife/masca/ftc-barranco-masca-luz.webp
+  alt: "Barranco de Masca a contraluz desde lo alto"
+- src: /images/actividades/tenerife/teno/ftc-laurisilva-helechos-niebla.webp
+  alt: "Helechos y musgo en un bosque de laurisilva con niebla"
+- src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-bruma.webp
+  alt: "Acantilados de Los Gigantes entre la bruma"
+- src: /images/actividades/tenerife/teno/ftc-teide-mar-nubes-pinar.webp
+  alt: "El Teide asomando sobre un mar de nubes desde el pinar"
 ---
 
 ## Qué vas a ver

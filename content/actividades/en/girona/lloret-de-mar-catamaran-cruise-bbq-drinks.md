@@ -76,26 +76,30 @@ keywords:
 - lloret de mar boat trip
 - costa brava boat trip
 - catamaran bbq lloret
-imagen: /images/actividades/barcelona/costa/catamaran-hotel-w.webp
-imagenAlt: Catamaran sailing on the Mediterranean
-galeria:
-- src: /images/actividades/girona/medes/medes-barco-banistas.webp
-  alt: Boat at anchor with swimmers on the Costa Brava
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
-  alt: Rocky cove with turquoise water
-- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-  alt: Costa Brava cliffs
-- src: /images/actividades/girona/cap-de-creus/islote-rocas-aguas-cristalinas.webp
-  alt: Rocky islet in clear water
 ratingProveedor: 4.6
 numeroOpiniones: 4863
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-mar/fgi-catamaran-fondeado-aguas-claras.webp
+imagenAlt: "A catamaran anchored in clear water for swimming"
+galeria:
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-costa-aerea.webp
+  alt: "Aerial view of the Lloret de Mar coastline with coves and pines"
+- src: /images/actividades/girona/fgi-mar/fgi-nadador-tubo-fondo-rocoso.webp
+  alt: "A person swimming with mask and snorkel over a rocky seabed"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-rocas.webp
+  alt: "Sandy beach with rocks in Lloret de Mar"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
+  alt: "Lloret de Mar bay seen from above"
+- src: /images/actividades/girona/fgi-mar/fgi-mar-a-ras-de-agua.webp
+  alt: "The sea at water level by a rocky coast"
+- src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
+  alt: "Lloret de Mar main beach with rocks in the foreground"
 ---
 
 ## What you will see

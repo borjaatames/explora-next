@@ -77,27 +77,31 @@ keywords:
 - north gran canaria nature tour
 - el puertillo natural pools
 - doramas forest hike
-imagen: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
-imagenAlt: The Paseo de Canarias waterfall in Firgas
-galeria:
-- src: /images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp
-  alt: The tiles of the Paseo de Canarias in Firgas
-- src: /images/actividades/gran-canaria/norte/firgas-paseo-isla-azulejo-hero.webp
-  alt: Tile map of the island in Firgas
-- src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
-  alt: Banana plantations in northern Gran Canaria
-- src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
-  alt: Arucas church, near El Puertillo
 ratingProveedor: 4.8
 numeroOpiniones: 283
 atraccionesRelacionadas:
 - isla
 - interior
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
+imagenAlt: "The cascade on the Paseo de Canarias in Firgas"
+galeria:
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp
+  alt: "Tiled benches on the Paseo de Gran Canaria in Firgas"
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-isla-azulejo-hero.webp
+  alt: "Relief of a Canary island on the tiled promenade in Firgas"
+- src: /images/actividades/gran-canaria/norte/fgc-vegetacion-barranco-flores.webp
+  alt: "Flowering vegetation in a Gran Canaria ravine"
+- src: /images/actividades/gran-canaria/platano/plataneras.webp
+  alt: "Banana plants on a farm in the north of Gran Canaria"
+- src: /images/actividades/gran-canaria/norte/fgc-costa-norte-isleta.webp
+  alt: "The north coast of Gran Canaria with La Isleta behind"
+- src: /images/actividades/gran-canaria/costa-norte/fgc-piscina-natural-roca-aerea.webp
+  alt: "Natural rock pool among volcanic rocks by the ocean"
 ---
 
 ## What you will see

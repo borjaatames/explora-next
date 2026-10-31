@@ -71,28 +71,32 @@ keywords:
 - cadaques sunset boat
 - cap de creus boat tour
 - things to do in cadaques
-imagen: /images/actividades/girona/cadaques/cadaques-bahia.webp
-imagenAlt: Cadaqués bay with moored boats
-galeria:
-- src: /images/actividades/girona/cadaques/cap-de-creus-costa.webp
-  alt: Rocky coastline of Cap de Creus
-- src: /images/actividades/girona/cadaques/cap-de-creus-faro.webp
-  alt: Cap de Creus lighthouse
-- src: /images/actividades/girona/cap-de-creus/islote-rocas-aguas-cristalinas.webp
-  alt: Rocky islet in the clear waters of Cap de Creus
-- src: /images/actividades/girona/cap-de-creus/arco-roca-marina-mediterraneo.webp
-  alt: Rock arch over the Mediterranean
-- src: /images/actividades/girona/cadaques/cadaques-pueblo-blanco.webp
-  alt: White houses of Cadaqués
 ratingProveedor: 4.4
 numeroOpiniones: 36
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-cadaques/fgi-cadaques-llaut-tradicional-bahia.webp
+imagenAlt: "A traditional lateen-sail boat moored in Cadaqués bay"
+galeria:
+- src: /images/actividades/girona/fgi-cadaques/fgi-cadaques-hora-azul.webp
+  alt: "Cadaqués and its bay at blue hour, after sunset"
+- src: /images/actividades/girona/fgi-cap-creus/fgi-cap-creus-cala-rocas.webp
+  alt: "A deep-water cove between the rocks of Cap de Creus"
+- src: /images/actividades/girona/fgi-cap-creus/fgi-cap-creus-cala-faro.webp
+  alt: "A Cap de Creus cove with the lighthouse above"
+- src: /images/actividades/girona/fgi-cap-creus/fgi-cap-creus-costa-mar.webp
+  alt: "The rocky coast of Cap de Creus Natural Park"
+- src: /images/actividades/girona/fgi-cap-creus/fgi-cadaques-roca-pueblo.webp
+  alt: "A rock in the sea in front of Cadaqués"
+- src: /images/actividades/girona/fgi-cadaques/fgi-cadaques-bahia-aerea.webp
+  alt: "Aerial view of Cadaqués bay with moored boats"
+- src: /images/actividades/girona/fgi-cap-creus/fgi-cap-creus-silueta-atardecer.webp
+  alt: "The silhouette of the Cap de Creus hills at sunset"
 ---
 
 ## What you'll see

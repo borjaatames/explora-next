@@ -73,24 +73,30 @@ keywords:
 - excursion calpe desde alicante
 - altea y calpe en un dia
 - excursiones desde alicante
-imagen: /images/actividades/alicante/excursiones/altea-iglesia.webp
-imagenAlt: Iglesia de cúpula azul de Altea
-galeria:
-- src: /images/actividades/alicante/excursiones/altea-bahia.webp
-  alt: Bahía de Altea vista desde el pueblo
-- src: /images/actividades/alicante/excursiones/altea-calle.webp
-  alt: Calle blanca del casco antiguo de Altea
-- src: /images/actividades/alicante/excursiones/altea-iglesia-calle.webp
-  alt: Calle de Altea con la iglesia al fondo
 ratingProveedor: 4.8
 numeroOpiniones: 154
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-calpe/fal-penon-ifach-barcos.webp
+imagenAlt: "Peñón de Ifach en Calpe con barcos fondeados"
+galeria:
+- src: /images/actividades/alicante/fal-altea/fal-calle-flores-altea.webp
+  alt: "Calle empedrada con macetas de flores en el casco antiguo de Altea"
+- src: /images/actividades/alicante/excursiones/altea-iglesia-calle.webp
+  alt: "Iglesia de cúpulas azules de Altea al final de una calle"
+- src: /images/actividades/alicante/fal-altea/fal-altea-desde-mar.webp
+  alt: "Altea vista desde el mar con su iglesia en lo alto"
+- src: /images/actividades/alicante/fal-calpe/fal-calpe-vista-alto.webp
+  alt: "Vista de Calpe y su bahía desde lo alto"
+- src: /images/actividades/alicante/fal-calpe/fal-playa-calpe-penon.webp
+  alt: "Playa de Calpe con el Peñón de Ifach"
+- src: /images/actividades/alicante/fal-calpe/fal-calpe-ciudad-penon.webp
+  alt: "Calpe y el Peñón de Ifach"
 ---
 
 ## Qué vas a ver

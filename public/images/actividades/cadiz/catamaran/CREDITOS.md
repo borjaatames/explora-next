@@ -6,3 +6,4 @@
 - `copa-espumoso-a-bordo-catamaran.webp` — Estonia Incorporated · Unsplash License · Unsplash · https://unsplash.com/photos/una-persona-sosteniendo-una-copa-de-vino-en-un-bote-JT08BNzRY0w
 - `velero-atardecer-bahia-cadiz.webp` — Stephan Leuzinger · Pexels License · Pexels · https://www.pexels.com/photo/sailing-ship-at-sunset-in-cadiz-bay-34232263/
 - `velero-catedral-cadiz.webp` — Explorando la provincia de Cádiz · Pexels License · Pexels · https://www.pexels.com/photo/sailboat-in-cadiz-harbor-with-cathedral-view-39390870/
+- `ftc-catamaran-vela-mar-abierto.webp` — Nikos Pentarakis, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/aerial-view-of-sailing-catamaran-on-open-sea-32509689/) · recortada a 1600×1200

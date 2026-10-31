@@ -81,32 +81,32 @@ keywords:
 - pico de las nieves sunset
 - gran canaria volcano tour
 - bandama caldera roque nublo tour
-imagen: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
-imagenAlt: Sunset on Pico de las Nieves, Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-monolito.webp
-  alt: The Roque Nublo monolith
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-meseta.webp
-  alt: The Roque Nublo plateau
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-tejeda.webp
-  alt: Roque Nublo above the Tejeda caldera
-- src: /images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp
-  alt: Roque Nublo at sunset
-- src: /images/actividades/gran-canaria/jeep/caldera-tirajana.webp
-  alt: The Tirajana caldera
-- src: /images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp
-  alt: Sunset over a sea of clouds in the summits
 ratingProveedor: 4.9
 numeroOpiniones: 945
 atraccionesRelacionadas:
 - roque-nublo
 - interior
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/estrellas/fgc-atardecer-roque-nublo-pinos.webp
+imagenAlt: "Sunset behind Roque Nublo framed by pine trees"
+galeria:
+- src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-santa-brigida.webp
+  alt: "The Bandama Caldera"
+- src: /images/actividades/gran-canaria/tejeda/fgc-caldera-tejeda-luz-dorada.webp
+  alt: "The Tejeda caldera with Roque Bentayga in the late-afternoon light"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-cielo-azul.webp
+  alt: "Roque Nublo on its rocky ridge"
+- src: /images/actividades/gran-canaria/jeep/caldera-tirajana.webp
+  alt: "The Tirajana caldera"
+- src: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
+  alt: "Sunset from Pico de las Nieves with Mount Teide on the horizon"
+- src: /images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp
+  alt: "Silhouette of Roque Nublo at sunset above the sea of clouds"
 ---
 
 ## What you will see

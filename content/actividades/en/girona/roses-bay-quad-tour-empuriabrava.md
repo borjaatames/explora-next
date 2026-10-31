@@ -71,27 +71,33 @@ keywords:
 - costa brava quad bike tour
 - quad empuriabrava
 - bay of roses quad excursion
-imagen: /images/actividades/tarragona/quad/quad-camino.webp
-imagenAlt: Quad bike riding along a dirt track
-galeria:
-- src: /images/actividades/tarragona/quad/quad-pista.webp
-  alt: Quad bike on a dirt trail
-- src: /images/actividades/girona/cap-de-creus/pueblo-blanco-bahia-costa-brava.webp
-  alt: White village by a bay on the northern Costa Brava
-- src: /images/actividades/girona/cap-de-creus/acantilados-costa-brava-creus.webp
-  alt: Cliffs on the northern Costa Brava
-- src: /images/actividades/tenerife/quad/quads-parados-ladera.webp
-  alt: Quad bikes parked on a hillside
 ratingProveedor: 4.9
 numeroOpiniones: 209
 atraccionesRelacionadas:
 - costa-brava
 precioPorGrupo: true
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-quad/fgi-quad-pista-tierra.webp
+imagenAlt: "A red quad bike with helmeted rider on a dirt track"
+galeria:
+- src: /images/actividades/girona/fgi-roses/fgi-badia-de-roses.webp
+  alt: "The Bay of Roses seen from above"
+- src: /images/actividades/girona/fgi-quad/fgi-quad-azul-costa.webp
+  alt: "A blue quad bike parked by the coast"
+- src: /images/actividades/girona/fgi-roses/fgi-roses-bahia-barcos.webp
+  alt: "Boats in the Bay of Roses from a hill track"
+- src: /images/actividades/girona/fgi-roses/fgi-golfo-de-roses.webp
+  alt: "The Gulf of Roses with the Empordà plain behind"
+- src: /images/actividades/girona/fgi-roses/fgi-roses-pueblo-puerto.webp
+  alt: "Roses and its harbour seen from the hills"
+- src: /images/actividades/girona/fgi-quad/fgi-quad-camino-tierra.webp
+  alt: "A quad bike riding along a dirt road"
+- src: /images/actividades/girona/fgi-roses/fgi-roses-pirineos.webp
+  alt: "Roses with the snowy Pyrenees behind"
 ---
 
 ## What you'll see

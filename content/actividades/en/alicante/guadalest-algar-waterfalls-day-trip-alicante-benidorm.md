@@ -75,28 +75,32 @@ keywords:
 - algar waterfalls from alicante
 - guadalest from benidorm
 - guadalest tour alicante
-imagen: /images/actividades/alicante/excursiones/algar-cascada.webp
-imagenAlt: Waterfall at the Algar Springs
-galeria:
-- src: /images/actividades/alicante/excursiones/algar-cascadas.webp
-  alt: Pools and waterfalls on the Algar river
-- src: /images/actividades/alicante/excursiones/algar-figuera.webp
-  alt: The Algar Springs nature area
-- src: /images/actividades/alicante/excursiones/guadalest.webp
-  alt: Guadalest village on its rocky ridge
-- src: /images/actividades/alicante/excursiones/guadalest-pena.webp
-  alt: The Guadalest crag
-- src: /images/actividades/alicante/excursiones/guadalest-desde-castillo.webp
-  alt: Views from Guadalest castle
 ratingProveedor: 4.7
 numeroOpiniones: 1717
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/excursiones/algar-poza.webp
+imagenAlt: "Turquoise pool at the Fuentes del Algar"
+galeria:
+- src: /images/actividades/valencia/excursiones/guadalest-castillo.webp
+  alt: "Guadalest castle on its rock"
+- src: /images/actividades/alicante/fal-guadalest/fal-valle-guadalest.webp
+  alt: "Guadalest valley and reservoir"
+- src: /images/actividades/alicante/excursiones/guadalest-desde-castillo.webp
+  alt: "Guadalest seen from the castle"
+- src: /images/actividades/alicante/excursiones/algar-cascada.webp
+  alt: "Waterfall at the Fuentes del Algar"
+- src: /images/actividades/valencia/excursiones/algar-toll-blau.webp
+  alt: "Toll Blau pool at the Fuentes del Algar"
+- src: /images/actividades/alicante/excursiones/algar-figuera.webp
+  alt: "Path beside a fig tree at the Fuentes del Algar"
+- src: /images/actividades/alicante/excursiones/algar-cascadas.webp
+  alt: "Waterfalls and footbridge at the Fuentes del Algar"
 ---
 
 ## What you will see

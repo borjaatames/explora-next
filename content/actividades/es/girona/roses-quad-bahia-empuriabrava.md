@@ -71,27 +71,33 @@ keywords:
 - ruta en quad costa brava
 - quad empuriabrava
 - excursion quad bahia de roses
-imagen: /images/actividades/tarragona/quad/quad-camino.webp
-imagenAlt: Quad avanzando por un camino de tierra
-galeria:
-- src: /images/actividades/tarragona/quad/quad-pista.webp
-  alt: Quad en una pista de tierra
-- src: /images/actividades/girona/cap-de-creus/pueblo-blanco-bahia-costa-brava.webp
-  alt: Pueblo blanco junto a una bahía de la Costa Brava norte
-- src: /images/actividades/girona/cap-de-creus/acantilados-costa-brava-creus.webp
-  alt: Acantilados de la Costa Brava norte
-- src: /images/actividades/tenerife/quad/quads-parados-ladera.webp
-  alt: Quads parados en una ladera
 ratingProveedor: 4.9
 numeroOpiniones: 209
 atraccionesRelacionadas:
 - costa-brava
 precioPorGrupo: true
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-quad/fgi-quad-pista-tierra.webp
+imagenAlt: "Quad rojo con piloto y casco por una pista de tierra"
+galeria:
+- src: /images/actividades/girona/fgi-roses/fgi-badia-de-roses.webp
+  alt: "La bahía de Roses vista desde lo alto"
+- src: /images/actividades/girona/fgi-quad/fgi-quad-azul-costa.webp
+  alt: "Quad azul aparcado junto a la costa"
+- src: /images/actividades/girona/fgi-roses/fgi-roses-bahia-barcos.webp
+  alt: "Barcos en la bahía de Roses desde un camino de montaña"
+- src: /images/actividades/girona/fgi-roses/fgi-golfo-de-roses.webp
+  alt: "El golfo de Roses con la llanura del Empordà al fondo"
+- src: /images/actividades/girona/fgi-roses/fgi-roses-pueblo-puerto.webp
+  alt: "Roses y su puerto vistos desde la montaña"
+- src: /images/actividades/girona/fgi-quad/fgi-quad-camino-tierra.webp
+  alt: "Quad avanzando por un camino de tierra"
+- src: /images/actividades/girona/fgi-roses/fgi-roses-pirineos.webp
+  alt: "Roses con los Pirineos nevados al fondo"
 ---
 
 ## Qué vas a ver

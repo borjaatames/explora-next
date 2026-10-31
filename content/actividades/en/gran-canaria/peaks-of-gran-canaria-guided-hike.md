@@ -77,27 +77,29 @@ keywords:
 - pico de las nieves hike
 - roque nublo small group hike
 - gran canaria mountain tour
-imagen: /images/actividades/gran-canaria/roque-nublo/roque-nublo-desde-pico.webp
-imagenAlt: Roque Nublo seen from the Pico de las Nieves area
-galeria:
-- src: /images/actividades/gran-canaria/roque-nublo/pico-nieves.webp
-  alt: Pico de las Nieves, Gran Canaria's highest point
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-teide.webp
-  alt: Roque Nublo with Teide in the background
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp
-  alt: Roque Nublo above a sea of clouds
-- src: /images/actividades/gran-canaria/estrellas/atardecer-cumbre.webp
-  alt: Late light over the Gran Canaria summits
 ratingProveedor: 4.9
 numeroOpiniones: 417
 atraccionesRelacionadas:
 - roque-nublo
 - interior
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/roque-nublo/fgc-sendero-pinar-roque-nublo.webp
+imagenAlt: "Trail through Canary pines with Roque Nublo behind"
+galeria:
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-pinar-cumbre-pico-nieves.webp
+  alt: "Summit pine forests seen from Pico de las Nieves"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-caminantes-meseta-roque-nublo.webp
+  alt: "Walkers on the plateau of Roque Nublo"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-teide-panorama.webp
+  alt: "Roque Nublo with Mount Teide rising above the sea of clouds"
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-desde-pico.webp
+  alt: "Roque Nublo seen between pines from the summit"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-senderistas-silueta-cumbre.webp
+  alt: "Silhouettes of two hikers on the summit of Gran Canaria"
 ---
 
 ## What you will see

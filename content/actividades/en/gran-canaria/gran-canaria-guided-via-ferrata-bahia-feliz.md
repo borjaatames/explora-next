@@ -79,26 +79,28 @@ keywords:
 - gran canaria climbing
 - via ferrata maspalomas
 - adventure activities gran canaria
-imagen: /images/actividades/gran-canaria/buggy/fataga-canon.webp
-imagenAlt: Rocky canyon in southern Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-  alt: Fataga ravine in the interior of southern Gran Canaria
-- src: /images/actividades/gran-canaria/buggy/fataga-montanas.webp
-  alt: Mountains of southern Gran Canaria
-- src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
-  alt: Road through the ravines of southern Gran Canaria
-- src: /images/actividades/gran-canaria/guayadeque/barranco-guayadeque.webp
-  alt: Slopes of the Guayadeque ravine
 ratingProveedor: 4.9
 numeroOpiniones: 276
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/via-ferrata/fgc-escaladores-via-ferrata-roca.webp
+imagenAlt: "Climbers making their way along a via ferrata on a rock face"
+galeria:
+- src: /images/actividades/gran-canaria/via-ferrata/fgc-escaladora-bajo-desplome.webp
+  alt: "A climber with a helmet under a rock overhang"
+- src: /images/actividades/gran-canaria/via-ferrata/fgc-mosquetones-cable-acero.webp
+  alt: "Carabiners clipped to the steel cable of a via ferrata"
+- src: /images/actividades/gran-canaria/via-ferrata/fgc-barrancos-sur-gran-canaria.webp
+  alt: "Ravines in the south of Gran Canaria"
+- src: /images/actividades/gran-canaria/via-ferrata/fgc-subida-peldanos-ferrata.webp
+  alt: "Climbing the metal rungs of a via ferrata"
+- src: /images/actividades/gran-canaria/via-ferrata/fgc-montanas-barranco-sur.webp
+  alt: "Arid mountains in a ravine in the south of Gran Canaria"
 ---
 
 ## What you will see

@@ -77,26 +77,28 @@ keywords:
 - atv tour palma
 - mallorca quad excursion
 - quad bike mallorca
-imagen: /images/actividades/tenerife/quad/quad-pinar.webp
-imagenAlt: A quad on a track through pine trees
-galeria:
-- src: /images/actividades/tarragona/quad/quad-camino.webp
-  alt: A quad on a dirt track
-- src: /images/actividades/tarragona/quad/quad-pista.webp
-  alt: A quad on a mountain track
-- src: /images/actividades/tenerife/quad/quads-parados-ladera.webp
-  alt: Quads parked on a hillside
-- src: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
-  alt: Snorkelling in a Mallorca cove
 ratingProveedor: 4.7
 numeroOpiniones: 3102
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-quad-randa/quad-camino-tierra.webp
+imagenAlt: "Quad bike riding along a dirt road"
+galeria:
+- src: /images/actividades/mallorca/fma-quad-randa/grupo-quads-circuito.webp
+  alt: "Group of quads on a dirt track"
+- src: /images/actividades/mallorca/fma-olivar/olivos-montana-mallorca.webp
+  alt: "Olive trees with the Mallorcan mountains behind"
+- src: /images/actividades/mallorca/fma-quad-randa/quad-camino-bosque.webp
+  alt: "Quad bike on a tree-lined track"
+- src: /images/actividades/mallorca/fma-olivar/olivos-pared-piedra-seca.webp
+  alt: "Olive trees and a dry-stone wall in Mallorca"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
+  alt: "Seabed with rocks under crystal-clear water"
 ---
 
 ## What you will see

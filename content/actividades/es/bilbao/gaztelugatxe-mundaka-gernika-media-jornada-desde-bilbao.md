@@ -74,29 +74,33 @@ keywords:
 - gaztelugatxe mundaka gernika
 - tour gaztelugatxe media jornada
 - gaztelugatxe con entrada
-imagen: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
-imagenAlt: Escaleras de piedra que suben a la ermita de San Juan de Gaztelugatxe
-galeria:
-- src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-islote.webp
-  alt: Islote de San Juan de Gaztelugatxe con la ermita y el puente de piedra
-- src: /images/actividades/bilbao/gaztelugatxe/ermita.webp
-  alt: Ermita de San Juan de Gaztelugatxe
-- src: /images/actividades/bilbao/gaztelugatxe/puerto-mundaka.webp
-  alt: Puerto pesquero de Mundaka
-- src: /images/actividades/bilbao/gaztelugatxe/arbol-gernika.webp
-  alt: Árbol de Gernika
-- src: /images/actividades/bilbao/gaztelugatxe/mural-guernica-gernika.webp
-  alt: Reproducción del Guernica de Picasso en Gernika
-- src: /images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp
-  alt: Camino de piedra de Gaztelugatxe al atardecer
 ratingProveedor: 4.7
 numeroOpiniones: 2501
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-islote-arco.webp
+imagenAlt: "Islote de San Juan de Gaztelugatxe con su ermita y arco natural"
+galeria:
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-camino-acceso.webp
+  alt: "Camino de acceso y puente a San Juan de Gaztelugatxe entre acantilados"
+- src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
+  alt: "Escalinata y puente de San Juan de Gaztelugatxe"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-mundaka-puerto-barcas.webp
+  alt: "Barcas en el puerto de Mundaka"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-mundaka-puerto.webp
+  alt: "Puerto de Mundaka con la torre de la iglesia al fondo"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-mundaka-ria-vista.webp
+  alt: "Vista de la ría de Urdaibai desde Mundaka"
+- src: /images/actividades/bilbao/gaztelugatxe/arbol-gernika.webp
+  alt: "Casa de Juntas y Árbol de Gernika"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gernika-iglesia.webp
+  alt: "Iglesia en el centro de Gernika"
+- src: /images/actividades/bilbao/gaztelugatxe/mural-guernica-gernika.webp
+  alt: "Reproducción en azulejo del Guernica en Gernika"
 ---
 
 ## Qué vas a ver

@@ -71,28 +71,32 @@ keywords:
 - bilbao bike tour
 - bilbao electric bike tour
 - bilbao guided bike tour
-imagen: /images/actividades/bilbao/ria/zubizuri.webp
-imagenAlt: Zubizuri bridge over the Bilbao estuary
-galeria:
-- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: Guggenheim Museum by Bilbao's estuary
-- src: /images/actividades/bilbao/ria/ria-pasarela.webp
-  alt: Bilbao's estuary and its bridges
-- src: /images/actividades/bilbao/san-mames/estadio-vista.webp
-  alt: View of San Mamés and Bilbao
-- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: Building in Bilbao's Old Town
-- src: /images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp
-  alt: Aerial view of the Bilbao estuary with La Salve bridge and the Guggenheim
 ratingProveedor: 4.7
 numeroOpiniones: 803
 atraccionesRelacionadas:
 - ria-miradores
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/bici/fbi-bici-calle-anochecer.webp
+imagenAlt: "City bike parked on a street at dusk"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+  alt: "Arriaga Theatre by the Bilbao estuary"
+- src: /images/actividades/bilbao/ria/fbi-ria-casco-viejo-reflejo.webp
+  alt: "Old Town facades reflected in the Bilbao estuary"
+- src: /images/actividades/bilbao/ria/zubizuri.webp
+  alt: "Zubizuri footbridge over the Bilbao estuary"
+- src: /images/actividades/bilbao/ria/fbi-paseo-ria-guggenheim.webp
+  alt: "Riverside promenade in Bilbao with the Guggenheim in the distance"
+- src: /images/actividades/bilbao/ria/fbi-puente-deusto-ria.webp
+  alt: "The Bilbao estuary with Deusto bridge in the distance"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: "Plaza Nueva in Bilbao Old Town"
+- src: /images/actividades/bilbao/ria/fbi-ria-vista-general.webp
+  alt: "Overview of the Bilbao estuary with its tree-lined promenades"
 ---
 
 ## What you will see

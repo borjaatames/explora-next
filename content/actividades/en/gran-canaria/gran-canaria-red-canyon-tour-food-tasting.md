@@ -80,27 +80,29 @@ keywords:
 - tirajana caldera tour
 - fortaleza de ansite
 - gran canaria interior tour
-imagen: /images/actividades/gran-canaria/jeep/caldera-tirajana.webp
-imagenAlt: The Tirajana caldera in the interior of Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
-  alt: San Bartolomé de Tirajana, beside the caldera
-- src: /images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp
-  alt: Volcanic slopes in south-east Gran Canaria
-- src: /images/actividades/gran-canaria/guayadeque/casas-cueva.webp
-  alt: Cave houses in a Gran Canaria ravine
-- src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
-  alt: Winding road through the ravines
 ratingProveedor: 4.7
 numeroOpiniones: 325
 atraccionesRelacionadas:
 - interior
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/jeep/caldera-tirajana.webp
+imagenAlt: "The Tirajana caldera with its villages on the valley floor"
+galeria:
+- src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
+  alt: "The village of San Bartolomé de Tirajana among mountains"
+- src: /images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp
+  alt: "Reddish slopes of the Guayadeque ravine in south-east Gran Canaria"
+- src: /images/actividades/gran-canaria/guayadeque/casas-cueva.webp
+  alt: "Cave houses dug into the volcanic rock"
+- src: /images/actividades/gran-canaria/sureste/fgc-paredes-rojas-barranco.webp
+  alt: "Red rock walls and palms in a ravine of south-east Gran Canaria"
+- src: /images/actividades/gran-canaria/guayadeque/guayadeque-mar.webp
+  alt: "A ravine opening towards the east coast of Gran Canaria"
 ---
 
 ## What you will see

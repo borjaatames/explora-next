@@ -69,24 +69,30 @@ keywords:
 - actividades acuaticas alicante
 - sofa hinchable lancha alicante
 - despedida alicante actividades
-imagen: /images/actividades/alicante/centro/vista-puerto.webp
-imagenAlt: El puerto de Alicante, desde donde sale la actividad
-galeria:
-- src: /images/actividades/alicante/costa/postiguet.webp
-  alt: Playa del Postiguet bajo el castillo
-- src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: El Postiguet y el monte Benacantil
-- src: /images/actividades/alicante/centro/explanada.webp
-  alt: La Explanada de España, junto al puerto
 ratingProveedor: 4.4
 numeroOpiniones: 210
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-crazy-sofa/fal-lancha-remolcando-hinchable.webp
+imagenAlt: "Lancha remolcando un hinchable en mar abierto"
+galeria:
+- src: /images/actividades/tarragona/banana/fta-lancha-remolcando-banana-aerea.webp
+  alt: "Lancha remolcando un hinchable a toda velocidad, vista aérea"
+- src: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
+  alt: "Hinchables acuáticos remolcables flotando en el mar"
+- src: /images/actividades/alicante/centro/vista-puerto.webp
+  alt: "Puerto y marina de Alicante vistos desde el castillo"
+- src: /images/actividades/ibiza/barcos/fi1-barco-navegando-estela.webp
+  alt: "Lancha navegando y dejando estela en el mar"
+- src: /images/actividades/alicante/costa/postiguet-castillo.webp
+  alt: "Playa del Postiguet con el castillo de Santa Bárbara"
+- src: /images/actividades/tarragona/banana/fta-banana-boat-arena-chalecos.webp
+  alt: "Hinchable con chalecos salvavidas en la orilla"
 ---
 
 ## Qué vas a ver

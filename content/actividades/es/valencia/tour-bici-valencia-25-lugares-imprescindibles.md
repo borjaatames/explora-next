@@ -77,29 +77,33 @@ keywords:
 - ruta en bicicleta valencia
 - bici guiada valencia
 - tour bici electrica valencia
-imagen: /images/actividades/valencia/turia-bici/bici-roja.webp
-imagenAlt: Bicicleta roja aparcada en Valencia
-galeria:
-- src: /images/actividades/valencia/turia-bici/jardin-turia-aereo.webp
-  alt: Vista aérea del jardín del Turia
-- src: /images/actividades/valencia/modernista/estacion-norte-fachada.webp
-  alt: Fachada de la Estación del Norte de Valencia
-- src: /images/actividades/valencia/centro/lonja-fachada.webp
-  alt: Fachada de la Lonja de la Seda
-- src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp
-  alt: Edificios de la Ciudad de las Artes y las Ciencias
-- src: /images/actividades/valencia/turia-bici/bici-palmera.webp
-  alt: Bicicleta junto a una palmera en Valencia
 ratingProveedor: 4.8
 numeroOpiniones: 1160
 atraccionesRelacionadas:
 - centro-historico
 - ciudad-artes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/turia-bici/bici-roja.webp
+imagenAlt: "Bicicleta roja aparcada junto a un banco en Valencia"
+galeria:
+- src: /images/actividades/valencia/ruzafa/calle-ruzafa.webp
+  alt: "Calle del barrio de Ruzafa, en Valencia"
+- src: /images/actividades/valencia/centro/plaza-virgen.webp
+  alt: "Plaza de la Virgen, en el casco antiguo de Valencia"
+- src: /images/actividades/valencia/centro/torres-serranos.webp
+  alt: "Torres de Serranos, antigua puerta de la muralla de Valencia"
+- src: /images/actividades/valencia/turia/fvc-paseo-jardin-turia.webp
+  alt: "Paseo arbolado en el jardín del Turia"
+- src: /images/actividades/valencia/turia/fvc-bici-camino-arbolado.webp
+  alt: "Bicicleta junto a un camino de tierra arbolado"
+- src: /images/actividades/valencia/turia/fvc-jardin-turia-palau-arts.webp
+  alt: "Jardín del Turia con el Palau de les Arts al fondo"
+- src: /images/actividades/valencia/ciudad-artes/fvc-museo-ciencias-reflejo-atardecer.webp
+  alt: "Museo de las Ciencias reflejado en el agua en la Ciudad de las Artes y las Ciencias"
 ---
 
 ## Qué vas a ver

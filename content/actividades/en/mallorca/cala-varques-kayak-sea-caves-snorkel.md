@@ -82,26 +82,30 @@ keywords:
 - mallorca sea cave kayak tour
 - cala romantica kayak
 - cala varques snorkeling
-imagen: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
-imagenAlt: Snorkelling in clear water on the Mallorca coast
-galeria:
-- src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-03.webp
-  alt: A turquoise cove in eastern Mallorca
-- src: /images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp
-  alt: Swimmers in a Mallorca cove
-- src: /images/actividades/mallorca/barco-paguera/posidonia-fondo-marino-baleares.webp
-  alt: Posidonia seagrass on the Balearic seabed
-- src: /images/actividades/mallorca/calo-des-moro/calo-des-moro-05.webp
-  alt: Cliffs and clear water in a Mallorcan cove
 ratingProveedor: 4.9
 numeroOpiniones: 1040
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
+imagenAlt: "Two kayaks on clear turquoise water"
+galeria:
+- src: /images/actividades/mallorca/fma-cala-varques/cala-varques-playa.webp
+  alt: "Cala Varques beach, with turquoise water and pine woods"
+- src: /images/actividades/mallorca/fma-cala-varques/kayak-arco-roca.webp
+  alt: "Red kayak passing under a rock arch at sea"
+- src: /images/actividades/mallorca/fma-cala-varques/cueva-acantilado-cala-varques.webp
+  alt: "Cliff with a sea cave next to Cala Varques"
+- src: /images/actividades/mallorca/fma-cala-varques/nadadora-esnorquel.webp
+  alt: "Snorkeller swimming in blue-green water"
+- src: /images/actividades/mallorca/fma-cala-varques/roca-oleaje-cala-varques.webp
+  alt: "Rocks and surf on the Cala Varques coast"
+- src: /images/actividades/mallorca/fma-cala-varques/cala-varques-desde-pinar.webp
+  alt: "Cala Varques seen from the pine woods"
 ---
 
 ## What you will see

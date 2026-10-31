@@ -69,26 +69,32 @@ keywords:
 - bilbao to getxo by bike
 - bilbao bike tour
 - bizkaia bridge bike
-imagen: /images/actividades/bilbao/ria/puente-bizkaia-barquilla.webp
-imagenAlt: The Bizkaia Bridge gondola crossing the estuary
-galeria:
-- src: /images/actividades/bilbao/ria/puente-bizkaia.webp
-  alt: The Bizkaia Bridge over the mouth of the estuary
-- src: /images/actividades/bilbao/ria/ria-pasarela.webp
-  alt: Riverside walk along the Bilbao estuary
-- src: /images/actividades/bilbao/ria/barco-ria.webp
-  alt: A boat on the Bilbao estuary
-- src: /images/actividades/bilbao/ria/trainera-remeros-ria.webp
-  alt: Rowers in a trainera on the estuary
 ratingProveedor: 4.7
 numeroOpiniones: 22
 atraccionesRelacionadas:
 - ria-miradores
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/bici/fbi-carril-bici-senal.webp
+imagenAlt: "Bike lane symbol painted on the pavement"
+galeria:
+- src: /images/actividades/bilbao/ria/fbi-ria-vista-general.webp
+  alt: "Overview of the Bilbao estuary with its tree-lined promenades"
+- src: /images/actividades/bilbao/ria/fbi-ria-edificios.webp
+  alt: "Buildings along the Bilbao estuary"
+- src: /images/actividades/bilbao/ria/fbi-portugalete-vista-aerea.webp
+  alt: "Portugalete and the estuary seen from the top of the Bizkaia Bridge"
+- src: /images/actividades/bilbao/ria/puente-bizkaia.webp
+  alt: "Bizkaia Bridge between Getxo and Portugalete"
+- src: /images/actividades/bilbao/ria/fbi-puente-bizkaia-pasarela-superior.webp
+  alt: "Upper walkway of the Bizkaia Bridge"
+- src: /images/actividades/bilbao/ria/fbi-puente-bizkaia-torre.webp
+  alt: "Tower and girder of the Bizkaia Bridge against the sky"
+- src: /images/actividades/bilbao/ria/fbi-puente-bizkaia-barquilla-atardecer.webp
+  alt: "Bizkaia Bridge gondola crossing the estuary at sunset"
 ---
 
 ## What you will see

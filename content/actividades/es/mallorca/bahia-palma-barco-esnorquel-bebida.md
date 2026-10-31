@@ -73,27 +73,33 @@ keywords:
 - barco bahia de palma
 - excursion barco can pastilla
 - barco con snorkel palma
-imagen: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
-imagenAlt: Barco fondeado con bañistas en una cala de Mallorca
-galeria:
-- src: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
-  alt: Esnórquel en aguas transparentes de Mallorca
-- src: /images/actividades/mallorca/barco-paguera/posidonia-fondo-marino-baleares.webp
-  alt: Pradera de posidonia en el fondo marino de Baleares
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-atardecer.webp
-  alt: Catedral de Palma frente a la bahía al atardecer
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
-  alt: Catedral de Palma desde el Parc de la Mar
 ratingProveedor: 4.4
 numeroOpiniones: 2734
 atraccionesRelacionadas:
 - palma
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-barco-bahia/catamaran-fondeado-agua-turquesa.webp
+imagenAlt: "Catamarán fondeado en agua turquesa, vista aérea"
+galeria:
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-desde-mar.webp
+  alt: "Catedral de Palma vista desde el mar"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
+  alt: "Persona haciendo esnórquel sobre un fondo de rocas"
+- src: /images/actividades/mallorca/fma-barco-bahia/catamaran-mar-abierto.webp
+  alt: "Catamarán navegando en mar abierto, vista aérea"
+- src: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
+  alt: "Barco fondeado con bañistas nadando alrededor"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+  alt: "Catedral de Palma sobre la muralla del mar"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
+  alt: "Fondo marino con rocas bajo agua cristalina"
+- src: /images/actividades/mallorca/fma-barco-bahia/catamaran-lancha-agua-verde.webp
+  alt: "Catamarán y lancha auxiliar en agua verde turquesa"
 ---
 
 ## Qué vas a ver

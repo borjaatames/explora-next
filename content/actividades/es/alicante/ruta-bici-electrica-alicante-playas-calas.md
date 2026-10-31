@@ -80,26 +80,30 @@ keywords:
 - ruta en bici alicante
 - calas alicante
 - playas alicante
-imagen: /images/actividades/alicante/costa/cabo-huertas.webp
-imagenAlt: Costa rocosa del Cabo de las Huertas, en Alicante
-galeria:
-- src: /images/actividades/alicante/costa/cabo-huertas-faro.webp
-  alt: Faro del Cabo de las Huertas
-- src: /images/actividades/alicante/costa/cabo-huertas-atardecer.webp
-  alt: Atardecer en el Cabo de las Huertas
-- src: /images/actividades/alicante/costa/postiguet-paseo.webp
-  alt: Paseo de la playa del Postiguet
-- src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: Playa del Postiguet con el castillo al fondo
 ratingProveedor: 4.7
 numeroOpiniones: 115
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-bici/fal-bicicletas-pasarela-playa.webp
+imagenAlt: "Bicicletas aparcadas en una pasarela de madera junto a la playa"
+galeria:
+- src: /images/actividades/alicante/costa/postiguet-paseo.webp
+  alt: "Paseo marítimo junto a la playa del Postiguet"
+- src: /images/actividades/ibiza/formentera/fi1-ciclistas-camino-dunas.webp
+  alt: "Ciclistas por un camino entre vegetación costera"
+- src: /images/actividades/alicante/costa/cabo-huertas-faro.webp
+  alt: "Faro del cabo de las Huertas, en la costa de Alicante"
+- src: /images/actividades/alicante/costa/cabo-huertas.webp
+  alt: "Rocas y calas del cabo de las Huertas"
+- src: /images/actividades/alicante/fal-bici/fal-ciclista-ciudad.webp
+  alt: "Ciclista paseando en bicicleta"
+- src: /images/actividades/alicante/costa/cabo-huertas-atardecer.webp
+  alt: "Atardecer en la costa rocosa del cabo de las Huertas"
 ---
 
 ## Qué vas a ver

@@ -62,26 +62,30 @@ keywords:
 - espectaculo flamenco valencia
 - tablao flamenco valencia centro
 - flamenco valencia entradas
-imagen: /images/actividades/alicante/flamenco/flamenco-baile.webp
-imagenAlt: Bailaora durante un espectáculo de flamenco
-galeria:
-- src: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
-  alt: Cuadro flamenco con guitarra, cante y baile
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: Cantaora flamenca en el escenario
-- src: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
-  alt: Bailaor flamenco en plena actuación
-- src: /images/actividades/alicante/flamenco/tablao.webp
-  alt: Escenario de un tablao flamenco
 ratingProveedor: 4.9
 numeroOpiniones: 1859
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/flamenco/flamenco-pareja.webp
+imagenAlt: "Artistas flamencos en escena durante un espectáculo en directo"
+galeria:
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: "Guitarrista flamenco tocando sobre el escenario"
+- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
+  alt: "Cantaora flamenca cantando en un escenario"
+- src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
+  alt: "Calle del casco antiguo de Valencia de noche"
+- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
+  alt: "Bailaor en pleno baile sobre el escenario"
+- src: /images/actividades/cordoba/flamenco/guitarrista.webp
+  alt: "Guitarrista flamenco con sombrero tocando en directo"
+- src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
+  alt: "Barrio del Carmen, en el centro de Valencia, iluminado de noche"
 ---
 
 ## Qué vas a ver

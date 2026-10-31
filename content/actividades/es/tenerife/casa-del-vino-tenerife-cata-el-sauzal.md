@@ -67,22 +67,28 @@ keywords:
 - cata de vinos tenerife
 - el sauzal casa del vino
 - museo del vino tenerife
-imagen: /images/actividades/tenerife/orotava/valle-orotava.webp
-imagenAlt: Valle de La Orotava, en el norte de Tenerife
-galeria:
-- src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
-  alt: El Teide sobre el mar de nubes
-- src: /images/actividades/tenerife/teide/teide-nordeste.webp
-  alt: El Teide visto desde el nordeste de la isla
-- src: /images/actividades/tenerife/ciudad/la-laguna-panoramica.webp
-  alt: Panorámica de La Laguna, cerca de El Sauzal
 ratingProveedor: 4.6
 numeroOpiniones: 477
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tenerife/casa-del-vino/ftc-cata-copas-blanco-tinto-uvas.webp
+imagenAlt: "Copa de vino blanco y copa de tinto junto a racimos de uva y una barrica"
+galeria:
+- src: /images/actividades/tenerife/orotava/valle-plataneras.webp
+  alt: "Vista del norte de Tenerife entre cultivos y el mar"
+- src: /images/actividades/tenerife/casa-del-vino/ftc-uva-tinta-hojas-vina.webp
+  alt: "Uva tinta madura entre las hojas de la vid"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Copas de vino blanco, rosado y tinto preparadas para una cata"
+- src: /images/actividades/tenerife/orotava/balcones-madera.webp
+  alt: "Casona canaria con balcones de madera tradicionales"
+- src: /images/actividades/tenerife/teide/teide-nevado.webp
+  alt: "El Teide, que se ve desde el norte de Tenerife"
+- src: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
+  alt: "Barricas de vino apiladas en una bodega"
 ---
 
 ## Qué vas a ver

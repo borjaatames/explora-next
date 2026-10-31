@@ -77,26 +77,28 @@ keywords:
 - excursion cuevas san jose
 - rio subterraneo navegable valencia
 - vall d'uixo cuevas barca
-imagen: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-18-jpg-02.webp
-imagenAlt: Río subterráneo navegable de las Cuevas de San José
-galeria:
-- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-19-jpg-01.webp
-  alt: Galería de las Cuevas de San José iluminada
-- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-14-jpg-03.webp
-  alt: Formaciones de roca sobre el agua en las Cuevas de San José
-- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-de-la-vall-d-uix-est-04.webp
-  alt: Interior de las Cuevas de Sant Josep en La Vall d'Uixó
-- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-07-jpg-05.webp
-  alt: Río subterráneo bajo la bóveda de la cueva
 ratingProveedor: 4.6
 numeroOpiniones: 2815
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-07-jpg-05.webp
+imagenAlt: "Barca con visitantes por el río subterráneo de las Cuevas de San José"
+galeria:
+- src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
+  alt: "Torres de Serranos, en Valencia, ciudad de salida de la excursión"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-19-jpg-01.webp
+  alt: "Galería iluminada de las Cuevas de San José sobre el río subterráneo"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-18-jpg-02.webp
+  alt: "Barca navegando bajo las bóvedas de roca de las Cuevas de San José"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-de-la-vall-d-uix-est-04.webp
+  alt: "Formaciones de estalactitas en las Cuevas de San José"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-14-jpg-03.webp
+  alt: "Pared de roca iluminada en el interior de las Cuevas de San José"
 ---
 
 ## Qué vas a ver

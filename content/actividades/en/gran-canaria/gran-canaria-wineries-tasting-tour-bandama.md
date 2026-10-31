@@ -68,25 +68,31 @@ keywords:
 - gran canaria wine tasting
 - gran canaria winery visit
 - bandama wine tour
-imagen: "PENDIENTE:viñedos y bodega familiar en Gran Canaria"
-imagenAlt: Vineyards at a family winery in Gran Canaria
-galeria:
-- src: "PENDIENTE:Caldera de Bandama desde el pico"
-  alt: Bandama Caldera seen from the peak
-- src: "PENDIENTE:cata de vino con quesos canarios"
-  alt: Wine tasting with Canarian cheeses
-- src: "PENDIENTE:barricas en una bodega de Gran Canaria"
-  alt: Barrels in a Gran Canaria winery
 ratingProveedor: 4.9
 numeroOpiniones: 216
 atraccionesRelacionadas:
 - interior
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
+imagenAlt: "Red wine being poured into a glass at a tasting"
+galeria:
+- src: /images/actividades/gran-canaria/vino/fgc-mirador-caldera-bandama.webp
+  alt: "View of the Bandama Caldera from the viewpoint"
+- src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-mar.webp
+  alt: "The Bandama Caldera with the east coast of Gran Canaria behind"
+- src: /images/actividades/fuerteventura/bodega/ffv-racimos-uva-vina.webp
+  alt: "Bunches of grapes on the vine"
+- src: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
+  alt: "Oak barrels in a winery"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Glasses set out for a wine tasting"
+- src: /images/actividades/gran-canaria/vino/fgc-interior-caldera-bandama.webp
+  alt: "The vegetation-covered inside of the Bandama Caldera"
 ---
 
 ## What you will see

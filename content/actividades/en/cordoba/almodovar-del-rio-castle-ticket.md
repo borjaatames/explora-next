@@ -69,22 +69,26 @@ keywords:
 - almodovar castle game of thrones
 - day trip from cordoba castle
 - almodovar del rio visit
-imagen: /images/actividades/cordoba/subbetica/zuheros-castillo.webp
-imagenAlt: Hilltop castle in the province of Córdoba
-galeria:
-- src: /images/actividades/cordoba/proveedor-937837/prov-torre-olivar.webp
-  alt: Tower among olive groves in the Córdoba countryside
-- src: /images/actividades/cordoba/proveedor-937837/prov-mirador.webp
-  alt: View from a lookout in Córdoba province
-- src: /images/actividades/cordoba/juderia/alcazar-torre.webp
-  alt: Medieval tower in Córdoba
 ratingProveedor: 4.7
 numeroOpiniones: 584
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/almodovar/fvc-castillo-almodovar-torres.webp
+imagenAlt: "Almodóvar del Río castle with its towers on the hill"
+galeria:
+- src: /images/actividades/cordoba/almodovar/fvc-castillo-cerro-pueblo.webp
+  alt: "Almodóvar del Río castle on its hill above the town"
+- src: /images/actividades/cordoba/almodovar/fvc-castillo-adelfas.webp
+  alt: "Almodóvar del Río castle seen through flowering oleanders"
+- src: /images/actividades/cordoba/almodovar/fvc-torres-murallas-pinos.webp
+  alt: "Towers and walls of Almodóvar del Río castle among pines"
+- src: /images/actividades/cordoba/almodovar/fvc-patio-armas-anochecer.webp
+  alt: "Inner courtyard of Almodóvar del Río castle at dusk"
+- src: /images/actividades/cordoba/almodovar/fvc-vitrina-piezas-medievales.webp
+  alt: "Display case of exhibits inside Almodóvar del Río castle"
 ---
 
 ## What you will see

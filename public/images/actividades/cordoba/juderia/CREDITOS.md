@@ -13,3 +13,6 @@ Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `sinagoga-galeria-mujeres.webp` — José Luis Filpo Cabana · CC BY 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Sinagoga_de_C%C3%B3rdoba._Galer%C3%ADa_de_las_mujeres.jpg · recortada a 1600×1200
 - `sinagoga-inscripcion-hebreo.webp` — cruccone · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Inscripci%C3%B3n_en_hebreo_en_la_Sinagoga_de_C%C3%B3rdoba_(Espa%C3%B1a).jpg · recortada a 1600×1200
 - `sinagoga-yeserias.webp` — Shaun Dunphy · CC BY-SA 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Sinagoga_de_C%C3%B3rdoba_02.jpg · recortada a 1600×1200
+- `fvc-calleja-macetas-azules.webp` — Jocelyn Erskine-Kellie, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/white-concrete-houses-on-the-street-8987397/) · recortada a 1600×1200
+- `fvc-plazuela-juderia.webp` — Holger Uwe Schmitt, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:%22Ein_Viertel,_das_die_reiche_j%C3%BCdische_Geschichte_Cordobas_widerspiegelt%22._03.jpg) · recortada a 1600×1200
+- `fvc-plaza-juderia-visitantes.webp` — Holger Uwe Schmitt, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:%22Ein_Viertel,_das_die_reiche_j%C3%BCdische_Geschichte_Cordobas_widerspiegelt%22._02.jpg) · recortada a 1600×1200

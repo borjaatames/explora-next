@@ -73,28 +73,32 @@ keywords:
 - alicante cycling tour small group
 - alicante city bike tour
 - bike ride alicante
-imagen: /images/actividades/alicante/centro/explanada-palmeras.webp
-imagenAlt: The palm-lined Explanada de España
-galeria:
-- src: /images/actividades/alicante/centro/ayuntamiento.webp
-  alt: Alicante City Hall
-- src: /images/actividades/alicante/centro/calle-san-antonio.webp
-  alt: A street in central Alicante
-- src: /images/actividades/alicante/centro/santa-cruz.webp
-  alt: Santa Cruz quarter
-- src: /images/actividades/alicante/costa/postiguet-paseo.webp
-  alt: Promenade by Postiguet beach
-- src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: Alicante and its port from the castle
 ratingProveedor: 4.8
 numeroOpiniones: 158
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-bici/fal-ciclista-ciudad.webp
+imagenAlt: "Cyclist riding a bike along a city street"
+galeria:
+- src: /images/actividades/ibiza/bici/fi2-bicicletas-muro-piedra.webp
+  alt: "City bikes leaning against a wall"
+- src: /images/actividades/alicante/centro/explanada.webp
+  alt: "Explanada de España promenade with its wave mosaic"
+- src: /images/actividades/alicante/centro/ayuntamiento.webp
+  alt: "Alicante City Hall"
+- src: /images/actividades/alicante/centro/calle-san-antonio.webp
+  alt: "Stepped street in the Santa Cruz quarter"
+- src: /images/actividades/alicante/centro/santa-maria.webp
+  alt: "Basilica of Santa María in Alicante"
+- src: /images/actividades/alicante/centro/san-nicolas-claustro.webp
+  alt: "Cloister of the Co-cathedral of San Nicolás"
+- src: /images/actividades/alicante/fal-bici/fal-mercado-central-entrada.webp
+  alt: "Entrance to Alicante's Central Market"
 ---
 
 ## What you will see

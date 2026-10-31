@@ -85,26 +85,32 @@ keywords:
 - excursion kayak costa brava
 - snorkel costa brava
 - kayak y snorkel desde barcelona
-imagen: /images/actividades/girona/kayak-sant-feliu/kayak-acantilados.webp
-imagenAlt: Kayaks junto a los acantilados de la Costa Brava
-galeria:
-- src: /images/actividades/girona/kayak-sant-feliu/kayak-rojo-isla.webp
-  alt: Kayak rojo junto a un islote de la Costa Brava
-- src: /images/actividades/girona/kayak-sant-feliu/cala-aguas-cristalinas.webp
-  alt: Cala de aguas cristalinas en la Costa Brava
-- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-  alt: Acantilado sobre el mar en la Costa Brava
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
-  alt: Cala rocosa de aguas turquesas
 ratingProveedor: 4.9
 numeroOpiniones: 3184
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/kayak-sant-feliu/kayak-acantilados.webp
+imagenAlt: "Kayak doble remando junto a los acantilados de la Costa Brava"
+galeria:
+- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
+  alt: "Cala rocosa de aguas turquesas en la Costa Brava"
+- src: /images/actividades/girona/kayak-sant-feliu/kayak-rojo-isla.webp
+  alt: "Kayak rojo en el mar frente a un islote"
+- src: /images/actividades/girona/fgi-mar/fgi-esnorquel-desde-arriba.webp
+  alt: "Persona haciendo esnórquel en aguas claras, vista desde arriba"
+- src: /images/actividades/girona/kayak-sant-feliu/cala-aguas-cristalinas.webp
+  alt: "Cala de aguas cristalinas con barcas en la Costa Brava"
+- src: /images/actividades/girona/fgi-mar/fgi-grupo-kayaks-rocas.webp
+  alt: "Grupo de kayaks remando junto a unas rocas, vista aérea"
+- src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
+  alt: "Acantilados y calas de la Costa Brava"
+- src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
+  alt: "Bahía de Sant Feliu de Guíxols vista desde la costa"
 ---
 
 ## Qué vas a ver

@@ -69,26 +69,32 @@ keywords:
 - besalu y castellfollit
 - volcanes de la garrotxa tour
 - lago de banyoles excursion
-imagen: /images/actividades/barcelona/girona/besalu-puente.webp
-imagenAlt: Puente medieval de Besalú sobre el río Fluvià
-galeria:
-- src: /images/actividades/barcelona/girona/besalu-vista-aerea.webp
-  alt: Vista aérea de Besalú
-- src: /images/actividades/barcelona/girona/besalu-puente-arcos.webp
-  alt: Arcos del puente de Besalú
-- src: /images/actividades/barcelona/girona/besalu-entrada-puente.webp
-  alt: Entrada fortificada del puente de Besalú
-- src: /images/actividades/girona/costa-brava/pueblos-medievales-girona-pixabay-3847277.jpg
-  alt: Pueblo medieval de la provincia de Girona
 ratingProveedor: 4.9
 numeroOpiniones: 44
 atraccionesRelacionadas:
 - casco-medieval
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-besalu/fgi-besalu-arcos-puente-pueblo.webp
+imagenAlt: "Arcos del puente medieval de Besalú con el pueblo al fondo"
+galeria:
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-paso-puente.webp
+  alt: "Paso empedrado sobre el puente fortificado de Besalú"
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-torre-montanas.webp
+  alt: "Torre del puente de Besalú con las montañas de la Garrotxa"
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-arco-camino-rio.webp
+  alt: "Arco del puente de Besalú visto desde el camino del río"
+- src: /images/actividades/girona/fgi-banyoles/fgi-banyoles-pesquera-lago.webp
+  alt: "Pesquera modernista sobre el lago de Banyoles"
+- src: /images/actividades/girona/fgi-banyoles/fgi-banyoles-barcas-atardecer.webp
+  alt: "Barcas en el lago de Banyoles al atardecer"
+- src: /images/actividades/girona/fgi-banyoles/fgi-banyoles-otono-embarcadero.webp
+  alt: "Embarcadero del lago de Banyoles con plátanos en otoño"
+- src: /images/actividades/girona/fgi-banyoles/fgi-banyoles-orilla-arbol.webp
+  alt: "Orilla del lago de Banyoles con cañas y montañas al fondo"
 ---
 
 ## Qué vas a ver

@@ -74,25 +74,31 @@ keywords:
 - gaztelugatxe small group tour
 - gaztelugatxe hike
 - gaztelugatxe guided walk
-imagen: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-vista.webp
-imagenAlt: View of San Juan de Gaztelugatxe with the stone path to the hermitage
-galeria:
-- src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-islote.webp
-  alt: San Juan de Gaztelugatxe islet with the hermitage and stone bridge
-- src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
-  alt: Stone steps climbing to the hermitage
-- src: /images/actividades/bilbao/gaztelugatxe/ermita.webp
-  alt: San Juan de Gaztelugatxe hermitage
-- src: /images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp
-  alt: Gaztelugatxe stone path at sunset
 ratingProveedor: 4.9
 numeroOpiniones: 258
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-caminata-escaleras.webp
+imagenAlt: "Hiker climbing the stone steps of San Juan de Gaztelugatxe"
+galeria:
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-sendero-costa.webp
+  alt: "Cobbled path down towards Gaztelugatxe along the coast"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-islote-arco.webp
+  alt: "San Juan de Gaztelugatxe islet with its hermitage and natural arch"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-puente-piedra.webp
+  alt: "Stone bridge linking the coast with Gaztelugatxe islet"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-camino-acceso.webp
+  alt: "Access path and bridge to San Juan de Gaztelugatxe between cliffs"
+- src: /images/actividades/bilbao/gaztelugatxe/ermita.webp
+  alt: "San Juan de Gaztelugatxe hermitage on the islet"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-costa-aketx.webp
+  alt: "Gaztelugatxe coastline with Aketx islet in the distance"
+- src: /images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp
+  alt: "Stone path to Gaztelugatxe at sunset"
 ---
 
 ## What you will see

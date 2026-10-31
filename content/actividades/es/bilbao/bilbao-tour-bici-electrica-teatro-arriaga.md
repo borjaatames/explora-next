@@ -74,28 +74,34 @@ keywords:
 - tour en bici bilbao
 - ebike bilbao familia
 - recorrido bici bilbao
-imagen: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
-imagenAlt: Teatro Arriaga a orillas de la ría de Bilbao
-galeria:
-- src: /images/actividades/bilbao/ria/zubizuri.webp
-  alt: Puente Zubizuri sobre la ría
-- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-  alt: Fachada de titanio del Museo Guggenheim
-- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
-  alt: Bilbao desde el monte Artxanda
-- src: /images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp
-  alt: Vista aérea de la ría de Bilbao con el puente de La Salve y el Guggenheim
-- src: /images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp
-  alt: Puente sobre la ría y arquitectura histórica de Bilbao
 ratingProveedor: 4.8
 numeroOpiniones: 55
 atraccionesRelacionadas:
 - ria-miradores
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+imagenAlt: "Teatro Arriaga junto a la ría de Bilbao"
+galeria:
+- src: /images/actividades/bilbao/bici/fbi-carril-bici-senal.webp
+  alt: "Señal de carril bici pintada en el pavimento"
+- src: /images/actividades/bilbao/ria/fbi-ria-casco-viejo-reflejo.webp
+  alt: "Fachadas del Casco Viejo reflejadas en la ría de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/fbi-puente-ribera-arenal.webp
+  alt: "Puente sobre la ría junto a la Ribera y el Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
+  alt: "Museo Guggenheim Bilbao junto a la ría y el puente de La Salve"
+- src: /images/actividades/bilbao/ria/zubizuri-pasarela.webp
+  alt: "Paseantes cruzando la pasarela Zubizuri"
+- src: /images/actividades/bilbao/ria/fbi-puente-deusto-ria.webp
+  alt: "La ría de Bilbao con el puente de Deusto al fondo"
+- src: /images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp
+  alt: "Vista aérea del puente de La Salve y el Guggenheim"
+- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
+  alt: "Bilbao visto desde el monte Artxanda"
 ---
 
 ## Qué vas a ver

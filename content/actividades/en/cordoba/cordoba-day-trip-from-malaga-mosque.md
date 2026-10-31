@@ -70,28 +70,34 @@ keywords:
 - malaga to cordoba tour
 - cordoba mosque tour from malaga
 - day trip to cordoba
-imagen: /images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp
-imagenAlt: Mosque-Cathedral of Córdoba by the Guadalquivir
-galeria:
-- src: /images/actividades/cordoba/mezquita/bosque-arcos-bicolores.webp
-  alt: Two-tone arches of the Mosque
-- src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
-  alt: Courtyard of the Orange Trees
-- src: /images/actividades/cordoba/juderia/sinagoga.webp
-  alt: Synagogue of Córdoba
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores
 ratingProveedor: 4.7
 numeroOpiniones: 127
 atraccionesRelacionadas:
 - mezquita
 - juderia
 - mezquita-catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/mezquita/fvc-bosque-columnas-visitantes.webp
+imagenAlt: "Visitors among the columns and two-tone arches of the Mosque-Cathedral of Córdoba"
+galeria:
+- src: /images/actividades/cordoba/mezquita/fvc-puente-romano-mezquita-dia.webp
+  alt: "Roman Bridge over the Guadalquivir with the Mosque-Cathedral behind"
+- src: /images/actividades/cordoba/mezquita/fvc-arcos-crucero-cristiano.webp
+  alt: "Caliphal arches beside the Christian transept of the Mosque-Cathedral"
+- src: /images/actividades/cordoba/juderia/sinagoga.webp
+  alt: "Interior of the Córdoba Synagogue"
+- src: /images/actividades/cordoba/juderia/fvc-calleja-macetas-azules.webp
+  alt: "Whitewashed alley with blue flowerpots in Córdoba old town"
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: "Calleja de las Flores with the Mosque tower in the background"
+- src: /images/actividades/cordoba/juderia/fvc-plazuela-juderia.webp
+  alt: "Small square in the Córdoba Jewish Quarter"
+- src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
+  alt: "Courtyard of the Orange Trees at the Mosque-Cathedral"
 ---
 
 ## What you will see

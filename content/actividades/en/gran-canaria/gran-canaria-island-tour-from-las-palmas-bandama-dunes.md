@@ -74,30 +74,34 @@ keywords:
 - gran canaria island tour
 - bandama caldera tour
 - pico de las nieves and maspalomas dunes tour
-imagen: /images/actividades/gran-canaria/roque-nublo/pico-nieves.webp
-imagenAlt: Views from Pico de las Nieves, Gran Canaria's highest point
-galeria:
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-desde-pico.webp
-  alt: Roque Nublo seen from Pico de las Nieves
-- src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
-  alt: San Bartolomé de Tirajana among the mountains
-- src: /images/actividades/gran-canaria/buggy/pueblo-fataga.webp
-  alt: The village of Fataga
-- src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-  alt: The Fataga ravine
-- src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
-  alt: The Maspalomas dunes
 ratingProveedor: 4.9
 numeroOpiniones: 1019
 atraccionesRelacionadas:
 - isla
 - interior
 - dunas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/vino/fgc-interior-caldera-bandama.webp
+imagenAlt: "The Bandama Caldera"
+galeria:
+- src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-mar.webp
+  alt: "The Bandama Caldera with the east coast behind"
+- src: /images/actividades/gran-canaria/roque-nublo/pico-nieves.webp
+  alt: "Views from Pico de las Nieves"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-pinar-cumbre-pico-nieves.webp
+  alt: "Summit pine forests seen from Pico de las Nieves"
+- src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
+  alt: "The village of San Bartolomé de Tirajana"
+- src: /images/actividades/gran-canaria/fataga/fgc-casas-blancas-fataga.webp
+  alt: "White houses of Fataga"
+- src: /images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-crestas.webp
+  alt: "Sand ridges in the Maspalomas dunes"
+- src: /images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-mar.webp
+  alt: "The Maspalomas dunes by the sea"
 ---
 
 ## What you will see

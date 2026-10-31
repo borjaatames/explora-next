@@ -66,22 +66,28 @@ keywords:
 - visita bodega tenerife
 - cata vino y queso tenerife
 - bodegas tacoronte el sauzal
-imagen: /images/actividades/tenerife/orotava/valle-orotava.webp
-imagenAlt: Valle de La Orotava, en el norte de Tenerife
-galeria:
-- src: /images/actividades/tenerife/teide/teide-nordeste.webp
-  alt: El Teide visto desde el nordeste de la isla
-- src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
-  alt: El Teide sobre el mar de nubes
-- src: /images/actividades/tenerife/ciudad/la-laguna-panoramica.webp
-  alt: Panorámica de La Laguna, cerca de El Sauzal
 ratingProveedor: 4.5
 numeroOpiniones: 533
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
+imagenAlt: "Pasillo de una bodega con barricas de vino apiladas"
+galeria:
+- src: /images/actividades/tenerife/bodega/ftc-racimos-uva-tinta-vina.webp
+  alt: "Racimos de uva tinta en una viña"
+- src: /images/actividades/tenerife/bodega/ftc-seleccion-uva-vendimia.webp
+  alt: "Selección de la uva en la mesa de la bodega durante la vendimia"
+- src: /images/actividades/tenerife/orotava/valle-orotava.webp
+  alt: "Vista del norte de Tenerife, con el valle de La Orotava y el Atlántico"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Copas de vino blanco y tinto preparadas para una cata"
+- src: /images/actividades/alicante/vino/barricas.webp
+  alt: "Sala de crianza con barricas de roble"
+- src: /images/actividades/alicante/vino/cata-tinto.webp
+  alt: "Cata de vinos tintos servidos en pequeñas jarras"
 ---
 
 ## Qué vas a ver

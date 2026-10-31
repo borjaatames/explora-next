@@ -68,25 +68,31 @@ keywords:
 - cata de vino gran canaria
 - bodegas gran canaria visita
 - tour vino bandama
-imagen: "PENDIENTE:viñedos y bodega familiar en Gran Canaria"
-imagenAlt: Viñedos de una bodega familiar en Gran Canaria
-galeria:
-- src: "PENDIENTE:Caldera de Bandama desde el pico"
-  alt: La Caldera de Bandama vista desde el pico
-- src: "PENDIENTE:cata de vino con quesos canarios"
-  alt: Cata de vino con quesos canarios
-- src: "PENDIENTE:barricas en una bodega de Gran Canaria"
-  alt: Barricas en una bodega de Gran Canaria
 ratingProveedor: 4.9
 numeroOpiniones: 216
 atraccionesRelacionadas:
 - interior
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
+imagenAlt: "Servicio de vino tinto en una copa durante una cata"
+galeria:
+- src: /images/actividades/gran-canaria/vino/fgc-mirador-caldera-bandama.webp
+  alt: "Vista de la Caldera de Bandama desde el mirador"
+- src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-mar.webp
+  alt: "La Caldera de Bandama con la costa este de Gran Canaria al fondo"
+- src: /images/actividades/fuerteventura/bodega/ffv-racimos-uva-vina.webp
+  alt: "Racimos de uva en la viña"
+- src: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
+  alt: "Barricas de roble en una bodega"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Copas preparadas para una cata de vino"
+- src: /images/actividades/gran-canaria/vino/fgc-interior-caldera-bandama.webp
+  alt: "Interior de la Caldera de Bandama cubierto de vegetación"
 ---
 
 ## Qué vas a ver

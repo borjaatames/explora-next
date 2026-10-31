@@ -11,3 +11,4 @@
 - `montanejos-mijares-banistas.webp` — Millars, CC BY-SA 3.0 es, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Curso_alto_del_Mijares_en_Montanejos_02.JPG)
 - `montanejos-torre-plaza.webp` — Enrique Íñiguez Rodríguez (Qoan), CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Montanejos._Torre_y_plaza_de_la_Iglesia.jpg)
 - `montanejos-villa-termal.webp` — Juan Emilio Prades Bel, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Montanejos,_Villa_Termal_(Comarca_Alto_Mijares,_Castell%C3%B3n).JPG)
+- `fvc-fuente-banos-banistas.webp` — Juan Emilio Prades Bel, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Fuente_de_los_Ba%C3%B1os,_r%C3%ADo_Mijares_(Montanejos,_Castell%C3%B3n).jpg) · recortada a 1600×1200

@@ -76,28 +76,32 @@ keywords:
 - laurel forest hike south tenerife
 - masca guided hike
 - tenerife hiking tour with pickup
-imagen: /images/actividades/tenerife/masca/masca-teno.webp
-imagenAlt: Teno mountains above the hamlet of Masca
-galeria:
-- src: /images/actividades/tenerife/anaga/anaga-03.webp
-  alt: Mossy laurel forest
-- src: /images/actividades/tenerife/masca/masca-caserio.webp
-  alt: The hamlet of Masca among the mountains
-- src: /images/actividades/tenerife/masca/barranco-masca-luz.webp
-  alt: Masca gorge in afternoon light
-- src: /images/actividades/tenerife/teide/teide-canadas.webp
-  alt: Mount Teide above Las Cañadas
-- src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-  alt: Los Gigantes cliffs
 ratingProveedor: 4.9
 numeroOpiniones: 482
 atraccionesRelacionadas:
 - masca
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tenerife/teno/ftc-sendero-laurisilva.webp
+imagenAlt: "Dirt trail through laurel forest in Tenerife"
+galeria:
+- src: /images/actividades/tenerife/teno/ftc-pinar-canario-teide.webp
+  alt: "Canary pine forest with Mount Teide behind"
+- src: /images/actividades/tenerife/masca/ftc-macizo-teno-masca-panoramica.webp
+  alt: "Panoramic view of the Teno massif above Masca"
+- src: /images/actividades/tenerife/teno/ftc-laurisilva-troncos-musgo.webp
+  alt: "Laurel forest with moss-covered trunks"
+- src: /images/actividades/tenerife/masca/ftc-barranco-masca-luz.webp
+  alt: "The Masca gorge backlit, seen from above"
+- src: /images/actividades/tenerife/teno/ftc-laurisilva-helechos-niebla.webp
+  alt: "Ferns and moss in a misty laurel forest"
+- src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-bruma.webp
+  alt: "The Los Gigantes cliffs in the haze"
+- src: /images/actividades/tenerife/teno/ftc-teide-mar-nubes-pinar.webp
+  alt: "Mount Teide rising above a sea of clouds, seen from the pine forest"
 ---
 
 ## What you will see

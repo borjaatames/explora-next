@@ -68,28 +68,32 @@ keywords:
 - albufera atardecer barca
 - barca electrica albufera
 - puesta de sol albufera valencia
-imagen: /images/actividades/valencia/albufera/albufera-puesta-sol-reflejos.webp
-imagenAlt: Puesta de sol con reflejos sobre el lago de la Albufera
-galeria:
-- src: /images/actividades/valencia/albufera/barca-embarcadero-lago-albufera.webp
-  alt: Barca amarrada en un embarcadero del lago de la Albufera
-- src: /images/actividades/valencia/albufera/canal-albufera-barcas-tipicas.webp
-  alt: Canal de la Albufera con barcas típicas
-- src: /images/actividades/valencia/albufera/albufera-cielo-naranja-barca.webp
-  alt: Barca en la Albufera bajo un cielo anaranjado
-- src: /images/actividades/valencia/albufera/muelle-barcas-tradicionales-albufera.webp
-  alt: Muelle con barcas tradicionales en la Albufera
-- src: /images/actividades/valencia/albufera/albufera-devesa-llacuna-sant-llorenc.webp
-  alt: Laguna de Sant Llorenç en la Devesa de la Albufera
 ratingProveedor: 4.6
 numeroOpiniones: 1067
 atraccionesRelacionadas:
 - albufera-paella
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/valencia/albufera/fvc-proa-barca-lago-atardecer.webp
+imagenAlt: "Proa de una barca navegando por el lago de la Albufera al atardecer"
+galeria:
+- src: /images/actividades/valencia/albufera/fvc-embarcadero-barcas-canal.webp
+  alt: "Embarcadero con barcas tradicionales en un canal de la Albufera"
+- src: /images/actividades/valencia/albufera/canal-albufera-barcas-tipicas.webp
+  alt: "Barcas típicas amarradas en un canal de la Albufera"
+- src: /images/actividades/valencia/albufera/fvc-barca-amarrada-lago.webp
+  alt: "Barca amarrada en las aguas abiertas del lago de la Albufera"
+- src: /images/actividades/valencia/albufera/fvc-garzas-arrozal.webp
+  alt: "Garzas y otras aves sobre un arrozal del parque natural de la Albufera"
+- src: /images/actividades/valencia/albufera/fvc-barca-muelle-puesta-sol.webp
+  alt: "Barca junto a un muelle de madera durante la puesta de sol en la Albufera"
+- src: /images/actividades/valencia/albufera/fvc-cielo-rojo-lago.webp
+  alt: "Cielo rojizo reflejado en el lago de la Albufera tras la puesta de sol"
+- src: /images/actividades/valencia/albufera/fvc-canal-barcas-anochecer.webp
+  alt: "Canal con barcas tradicionales al anochecer en la Albufera"
 ---
 
 ## Qué vas a ver

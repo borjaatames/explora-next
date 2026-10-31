@@ -73,24 +73,30 @@ keywords:
 - calpe day trip from alicante
 - altea and calpe tour
 - day trips from alicante
-imagen: /images/actividades/alicante/excursiones/altea-iglesia.webp
-imagenAlt: The blue-domed church of Altea
-galeria:
-- src: /images/actividades/alicante/excursiones/altea-bahia.webp
-  alt: Altea bay seen from the town
-- src: /images/actividades/alicante/excursiones/altea-calle.webp
-  alt: A whitewashed street in Altea old town
-- src: /images/actividades/alicante/excursiones/altea-iglesia-calle.webp
-  alt: An Altea street with the church behind
 ratingProveedor: 4.8
 numeroOpiniones: 154
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-calpe/fal-penon-ifach-barcos.webp
+imagenAlt: "Peñón de Ifach in Calpe with moored boats"
+galeria:
+- src: /images/actividades/alicante/fal-altea/fal-calle-flores-altea.webp
+  alt: "Cobbled street with flower pots in Altea's old town"
+- src: /images/actividades/alicante/excursiones/altea-iglesia-calle.webp
+  alt: "Altea's blue-domed church at the end of a street"
+- src: /images/actividades/alicante/fal-altea/fal-altea-desde-mar.webp
+  alt: "Altea seen from the sea with its church on top"
+- src: /images/actividades/alicante/fal-calpe/fal-calpe-vista-alto.webp
+  alt: "View of Calpe and its bay from above"
+- src: /images/actividades/alicante/fal-calpe/fal-playa-calpe-penon.webp
+  alt: "Calpe beach with the Peñón de Ifach"
+- src: /images/actividades/alicante/fal-calpe/fal-calpe-ciudad-penon.webp
+  alt: "Calpe and the Peñón de Ifach"
 ---
 
 ## What you will see

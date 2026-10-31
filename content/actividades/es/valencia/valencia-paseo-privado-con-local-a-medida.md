@@ -72,27 +72,35 @@ keywords:
 - guia privado valencia
 - paseo con local valencia
 - visita privada valencia a pie
-imagen: /images/actividades/valencia/centro/plaza-virgen.webp
-imagenAlt: Plaza de la Virgen en el centro histórico de Valencia
-galeria:
-- src: /images/actividades/valencia/centro/micalet-plaza.webp
-  alt: El Micalet visto desde la plaza
-- src: /images/actividades/valencia/centro/mercado-central-exterior.webp
-  alt: Fachada del Mercado Central de Valencia
-- src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
-  alt: Calles del barrio del Carmen de noche
-- src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
-  alt: Torres de Serranos entre palmeras
 ratingProveedor: 4.8
 numeroOpiniones: 315
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
 privada: true
+imagen: /images/actividades/valencia/centro/fvc-calle-junto-mercado-central.webp
+imagenAlt: "Calle del casco antiguo junto al Mercado Central de Valencia"
+galeria:
+- src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
+  alt: "Torres de Serranos, en Valencia"
+- src: /images/actividades/valencia/centro/plaza-virgen.webp
+  alt: "Plaza de la Virgen, en el casco antiguo de Valencia"
+- src: /images/actividades/valencia/centro/micalet-naranjos.webp
+  alt: "Torre del Micalet entre naranjos"
+- src: /images/actividades/valencia/centro/fvc-mercado-central-puestos.webp
+  alt: "Puestos bajo la cubierta del Mercado Central de Valencia"
+- src: /images/actividades/valencia/centro/lonja-naranjos.webp
+  alt: "Lonja de la Seda vista entre naranjos"
+- src: /images/actividades/valencia/centro/palacio-dos-aguas.webp
+  alt: "Fachada barroca del Palacio del Marqués de Dos Aguas"
+- src: /images/actividades/valencia/ruzafa/calle-ruzafa.webp
+  alt: "Calle del barrio de Ruzafa, en Valencia"
+- src: /images/actividades/valencia/centro/mercado-colon.webp
+  alt: "Fachada modernista del Mercado de Colón"
 ---
 
 ## Qué vas a ver

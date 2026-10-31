@@ -68,30 +68,34 @@ keywords:
 - private tuk tuk tour valencia
 - electric tuk tuk valencia
 - valencia 1 hour tour
-imagen: /images/actividades/alicante/tuk-tuk/tuk-tuk-calle-alvarez.webp
-imagenAlt: Electric tuk-tuk driving down a street
-galeria:
-- src: /images/actividades/valencia/centro/torres-serranos.webp
-  alt: Serranos Towers in Valencia
-- src: /images/actividades/valencia/mar/veles-e-vents.webp
-  alt: Veles e Vents building in Valencia's Marina
-- src: /images/actividades/valencia/mar/arenas-orilla.webp
-  alt: Shoreline of Las Arenas beach
-- src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp
-  alt: City of Arts and Sciences reflected in the water
-- src: /images/actividades/valencia/centro/mercado-colon.webp
-  alt: Colón Market in Valencia
 ratingProveedor: 4.8
 numeroOpiniones: 117
 atraccionesRelacionadas:
 - centro-historico
 - ciudad-artes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
 privada: true
+imagen: /images/actividades/tenerife/tuk-tuk/ftc-tuk-tuk-detalle-frontal.webp
+imagenAlt: "Close-up of the front of a tuk-tuk (illustrative image)"
+galeria:
+- src: /images/actividades/valencia/centro/plaza-reina-micalet.webp
+  alt: "Plaza de la Reina and the Micalet in central Valencia"
+- src: /images/actividades/alicante/tuk-tuk/tuk-tuk-calle-alvarez.webp
+  alt: "Electric tuk-tuk parked on a cobbled street (illustrative image)"
+- src: /images/actividades/valencia/centro/torres-serranos.webp
+  alt: "Serranos Towers, an old gate in Valencia's city walls"
+- src: /images/actividades/valencia/centro/mercado-central-exterior.webp
+  alt: "Facade of Valencia's Central Market"
+- src: /images/actividades/valencia/turia/fvc-paseo-jardin-turia.webp
+  alt: "Walk through the Turia Gardens"
+- src: /images/actividades/valencia/ciudad-artes/fvc-museo-ciencias-reflejo-atardecer.webp
+  alt: "Science Museum reflected in the water at sunset"
+- src: /images/actividades/valencia/mar/arenas-orilla.webp
+  alt: "Shoreline of Las Arenas beach in Valencia"
 ---
 
 ## What you will see

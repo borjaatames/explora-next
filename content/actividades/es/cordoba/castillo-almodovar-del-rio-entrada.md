@@ -69,22 +69,26 @@ keywords:
 - castillo almodovar juego de tronos
 - excursion desde cordoba castillo
 - almodovar del rio visita
-imagen: /images/actividades/cordoba/subbetica/zuheros-castillo.webp
-imagenAlt: Castillo sobre un cerro en la provincia de Córdoba
-galeria:
-- src: /images/actividades/cordoba/proveedor-937837/prov-torre-olivar.webp
-  alt: Torre entre olivares en la campiña cordobesa
-- src: /images/actividades/cordoba/proveedor-937837/prov-mirador.webp
-  alt: Vista desde un mirador de la provincia de Córdoba
-- src: /images/actividades/cordoba/juderia/alcazar-torre.webp
-  alt: Torre medieval en Córdoba
 ratingProveedor: 4.7
 numeroOpiniones: 584
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/almodovar/fvc-castillo-almodovar-torres.webp
+imagenAlt: "Castillo de Almodóvar del Río con sus torres sobre el cerro"
+galeria:
+- src: /images/actividades/cordoba/almodovar/fvc-castillo-cerro-pueblo.webp
+  alt: "Castillo de Almodóvar del Río sobre el cerro, con el pueblo a sus pies"
+- src: /images/actividades/cordoba/almodovar/fvc-castillo-adelfas.webp
+  alt: "Castillo de Almodóvar del Río visto entre adelfas en flor"
+- src: /images/actividades/cordoba/almodovar/fvc-torres-murallas-pinos.webp
+  alt: "Torres y murallas del castillo de Almodóvar del Río entre pinos"
+- src: /images/actividades/cordoba/almodovar/fvc-patio-armas-anochecer.webp
+  alt: "Patio interior del castillo de Almodóvar del Río al anochecer"
+- src: /images/actividades/cordoba/almodovar/fvc-vitrina-piezas-medievales.webp
+  alt: "Vitrina con piezas expuestas en el interior del castillo de Almodóvar del Río"
 ---
 
 ## Qué vas a ver

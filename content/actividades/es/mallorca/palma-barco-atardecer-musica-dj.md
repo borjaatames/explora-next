@@ -71,26 +71,30 @@ keywords:
 - sunset boat palma
 - fiesta en barco mallorca
 - barca samba palma
-imagen: /images/actividades/mallorca/catedral-palma/catedral-palma-atardecer.webp
-imagenAlt: La bahía de Palma con la Catedral al atardecer
-galeria:
-- src: /images/actividades/lanzarote/barco-atardecer/catamaran-silueta-atardecer.webp
-  alt: Silueta de un barco al atardecer
-- src: /images/actividades/ibiza/atardecer/atardecer-mar.webp
-  alt: El sol poniéndose sobre el mar
-- src: /images/actividades/lanzarote/barco-atardecer/banistas-junto-al-barco.webp
-  alt: Bañistas junto a un barco de excursión
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
-  alt: El frente marítimo de Palma
 ratingProveedor: 4.4
 numeroOpiniones: 3464
 atraccionesRelacionadas:
 - palma
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/calo-des-moro/velero-cala-llombards.webp
+imagenAlt: "Velero navegando al atardecer frente a la costa de Mallorca"
+galeria:
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
+  alt: "Catedral de Palma al atardecer reflejada en el lago del Parc de la Mar"
+- src: /images/actividades/mallorca/fma-barco-dj/velero-luz-dorada.webp
+  alt: "Velero navegando con la luz dorada de la tarde"
+- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
+  alt: "Parc de la Mar y la Catedral de Palma al atardecer"
+- src: /images/actividades/mallorca/fma-barco-dj/catamaran-vela-contraluz.webp
+  alt: "Catamarán de vela a contraluz al caer la tarde"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-cielo-naranja.webp
+  alt: "Catedral de Palma con el cielo naranja del atardecer"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-noche.webp
+  alt: "Catedral de Palma iluminada de noche"
 ---
 
 ## Qué vas a ver

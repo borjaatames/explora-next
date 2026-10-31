@@ -63,24 +63,30 @@ keywords:
 - marimurtra entradas
 - que ver en blanes
 - jardin botanico blanes
-imagen: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-imagenAlt: Acantilado de la Costa Brava sobre el Mediterráneo
-galeria:
-- src: /images/actividades/girona/kayak-sant-feliu/cala-aguas-cristalinas.webp
-  alt: Cala de aguas cristalinas en la Costa Brava
-- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
-  alt: Cala rocosa de aguas turquesas en la Costa Brava
-- src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-05.webp
-  alt: Costa rocosa de la Costa Brava sur
 ratingProveedor: 4.7
 numeroOpiniones: 1246
 atraccionesRelacionadas:
 - costa-brava
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-pergola.webp
+imagenAlt: "Pérgola con bancos y vegetación en el Jardín Botánico Marimurtra"
+galeria:
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-acantilado-cala.webp
+  alt: "El jardín botánico Marimurtra sobre el acantilado de Blanes y la cala"
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-flores-moradas.webp
+  alt: "Flores moradas en el Jardín Botánico Marimurtra"
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-costa-desde-jardin.webp
+  alt: "La costa de Blanes vista desde el jardín"
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-suculenta-oscura.webp
+  alt: "Suculenta de hojas oscuras en la zona árida del jardín"
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-cala-desde-jardin.webp
+  alt: "Cala de aguas turquesas vista desde Marimurtra"
+- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-vista-mar.webp
+  alt: "El Mediterráneo visto desde el Jardín Botánico Marimurtra"
 ---
 
 ## Qué vas a ver

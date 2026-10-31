@@ -67,26 +67,30 @@ keywords:
 - tour casco antiguo palma
 - free tour palma de mallorca
 - que ver en palma
-imagen: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
-imagenAlt: Fachada de la Catedral de Palma
-galeria:
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
-  alt: La Catedral de Palma desde el Parc de la Mar
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
-  alt: La Catedral de Palma reflejada en el estanque
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-atardecer.webp
-  alt: La Catedral de Palma al atardecer
-- src: /images/actividades/mallorca/catedral-palma/roseton.webp
-  alt: Rosetón de la Catedral de Palma
 ratingProveedor: 4.9
 numeroOpiniones: 914
 atraccionesRelacionadas:
 - palma
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+imagenAlt: "Catedral de Palma sobre la muralla del mar"
+galeria:
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
+  alt: "Calle estrecha del casco antiguo de Palma"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-fachada-arcos.webp
+  alt: "Fachada con galería de arcos del Palacio de la Almudaina"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp
+  alt: "Gárgola gótica en la fachada de la Catedral de Palma"
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-pinaculos.webp
+  alt: "Pináculos góticos de la Catedral de Palma"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-palmeras-cielo-naranja.webp
+  alt: "Palacio de la Almudaina entre palmeras con el cielo del atardecer"
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-04.webp
+  alt: "Parc de la Mar y la Catedral de Palma al caer la tarde"
 ---
 
 ## Qué vas a ver

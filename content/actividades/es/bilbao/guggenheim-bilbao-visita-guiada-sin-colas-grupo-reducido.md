@@ -68,28 +68,32 @@ keywords:
 - guggenheim bilbao sin colas
 - guggenheim grupo reducido
 - guggenheim bilbao entradas con guia
-imagen: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
-imagenAlt: Museo Guggenheim Bilbao y la ría
-galeria:
-- src: /images/actividades/bilbao/ciudades/bilbao-hero.webp
-  alt: Vista aérea del Museo Guggenheim y el puente de La Salve
-- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-  alt: Fachada de titanio del Museo Guggenheim
-- src: /images/actividades/bilbao/guggenheim/maman.webp
-  alt: Mamá, la araña de Louise Bourgeois junto al museo
-- src: /images/actividades/bilbao/guggenheim/puppy.webp
-  alt: Puppy, la escultura de flores de Jeff Koons
-- src: /images/actividades/bilbao/guggenheim/guggenheim-noche.webp
-  alt: El Guggenheim iluminado de noche
 ratingProveedor: 4.8
 numeroOpiniones: 120
 atraccionesRelacionadas:
 - guggenheim
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
+imagenAlt: "Museo Guggenheim Bilbao junto a la ría y el puente de La Salve"
+galeria:
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-jardines.webp
+  alt: "Exterior del Museo Guggenheim Bilbao visto desde los jardines"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+  alt: "Fachada de titanio del Museo Guggenheim Bilbao"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-detalle.webp
+  alt: "Detalle de las curvas de titanio de la fachada del Guggenheim"
+- src: /images/actividades/bilbao/guggenheim/maman.webp
+  alt: "Escultura Mamá junto al Guggenheim al anochecer"
+- src: /images/actividades/bilbao/guggenheim/puppy-flores.webp
+  alt: "Detalle de las flores de Puppy en el Guggenheim"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-aereo-salve.webp
+  alt: "Vista elevada del Guggenheim y el arco rojo del puente de La Salve"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-atardecer.webp
+  alt: "El Guggenheim Bilbao iluminado al atardecer"
 ---
 
 ## Qué vas a ver

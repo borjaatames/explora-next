@@ -70,27 +70,33 @@ keywords:
 - guia privado bilbao
 - visita guiada privada bilbao
 - tour a medida bilbao
-imagen: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
-imagenAlt: Plaza Nueva de Bilbao
-galeria:
-- src: /images/actividades/bilbao/ria/zubizuri.webp
-  alt: Pasarela Zubizuri sobre la ría
-- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: Museo Guggenheim junto a la ría
-- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
-  alt: Teatro Arriaga
-- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
-  alt: Bilbao desde Artxanda
 ratingProveedor: 4.5
 numeroOpiniones: 32
 atraccionesRelacionadas:
 - casco-viejo
 privada: true
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/casco-viejo/fbi-miradores-fachadas.webp
+imagenAlt: "Fachadas con miradores acristalados en Bilbao"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
+  alt: "Terrazas en la Plaza Nueva de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-calle-gente.webp
+  alt: "Calle peatonal del Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/catedral-santiago.webp
+  alt: "Interior de la catedral de Santiago de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+  alt: "Teatro Arriaga junto a la ría de Bilbao"
+- src: /images/actividades/bilbao/casco-viejo/fbi-ensanche-edificio-historico.webp
+  alt: "Edificio histórico y jardines en el centro de Bilbao"
+- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+  alt: "Fachada de titanio del Museo Guggenheim Bilbao"
+- src: /images/actividades/bilbao/ria/zubizuri.webp
+  alt: "Pasarela Zubizuri sobre la ría de Bilbao"
 ---
 
 ## Qué vas a ver

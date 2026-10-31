@@ -68,30 +68,32 @@ keywords:
 - bilbao old town food tour
 - small group food tour bilbao
 - pintxos and wine bilbao
-imagen: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
-imagenAlt: Bar counter piled with pintxos
-galeria:
-- src: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
-  alt: Glass of txakoli
-- src: /images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp
-  alt: Assorted pintxos on bread with cocktail sticks
-- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
-  alt: Terraces on Bilbao's Plaza Nueva
-- src: /images/actividades/bilbao/gastronomia/gilda.webp
-  alt: Gildas of chilli pepper, anchovy and olive
-- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
-  alt: Glasses of wine
-- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: Street in Bilbao's Old Town
 ratingProveedor: 4.9
 numeroOpiniones: 384
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/pintxos/fbi-pintxos-tabla-madera.webp
+imagenAlt: "Pintxos on a wooden board at a Basque bar"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-calle-gente.webp
+  alt: "Pedestrian street in Bilbao Old Town"
+- src: /images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp
+  alt: "Pepper and cheese pintxos on sticks"
+- src: /images/actividades/bilbao/gastronomia/copas-vino.webp
+  alt: "Glasses of white wine served at the bar"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp
+  alt: "Terraces in Bilbao's Plaza Nueva"
+- src: /images/actividades/bilbao/pintxos/fbi-pintxos-vasitos.webp
+  alt: "Pintxos served in small glasses at a Basque bar"
+- src: /images/actividades/bilbao/gastronomia/mesa-tapas.webp
+  alt: "Table with sharing plates and pintxos"
+- src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-noche-terrazas.webp
+  alt: "Terraces in Bilbao Old Town at night"
 ---
 
 ## What you will see

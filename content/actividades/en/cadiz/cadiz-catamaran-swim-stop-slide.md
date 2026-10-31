@@ -69,26 +69,30 @@ keywords:
 - cadiz boat trip
 - bay of cadiz catamaran
 - cadiz boat tour summer
-imagen: /images/actividades/cadiz/catamaran/catamaran-saliendo-puerto-cadiz.webp
-imagenAlt: Catamaran leaving the port of Cádiz
-galeria:
-- src: /images/actividades/cadiz/catamaran/catamaran-bahia-cadiz-navegando.webp
-  alt: Catamaran sailing across the Bay of Cádiz
-- src: /images/actividades/cadiz/mar/catedral-desde-mar.webp
-  alt: Cádiz Cathedral seen from the sea
-- src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
-  alt: San Sebastián Castle by the sea
-- src: /images/actividades/cadiz/mar/caleta-playa.webp
-  alt: La Caleta beach in Cádiz
 ratingProveedor: 4.4
 numeroOpiniones: 91
 atraccionesRelacionadas:
 - barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cadiz/catamaran/ftc-catamaran-vela-mar-abierto.webp
+imagenAlt: "Catamaran sailing on the open sea (illustrative image)"
+galeria:
+- src: /images/actividades/cadiz/catamaran/catamaran-saliendo-puerto-cadiz.webp
+  alt: "Boat leaving the port of Cádiz"
+- src: /images/actividades/cadiz/catamaran/velero-catedral-cadiz.webp
+  alt: "Sailing boat in the bay with Cádiz Cathedral behind"
+- src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
+  alt: "Person swimming with goggles underwater (illustrative image)"
+- src: /images/actividades/cadiz/mar/catedral-desde-mar.webp
+  alt: "Cádiz and its cathedral seen from the sea"
+- src: /images/actividades/cadiz/catamaran/copa-espumoso-a-bordo-catamaran.webp
+  alt: "Glass of sparkling wine on the deck of a catamaran"
+- src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
+  alt: "San Sebastián Castle at the mouth of the bay"
 ---
 
 ## What you will see

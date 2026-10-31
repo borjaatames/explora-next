@@ -63,26 +63,30 @@ keywords:
 - tablao el jaleo cordoba
 - espectaculo flamenco con cena cordoba
 - flamenco juderia cordoba
-imagen: /images/actividades/cordoba/flamenco/bailaora.webp
-imagenAlt: Bailaora de flamenco en el escenario
-galeria:
-- src: /images/actividades/cordoba/flamenco/cuadro-flamenco.webp
-  alt: Cuadro flamenco con cante, guitarra y baile
-- src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: Guitarrista flamenco
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: Palmas flamencas
-- src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: Calle de la Judería de Córdoba
 ratingProveedor: 4.7
 numeroOpiniones: 231
 atraccionesRelacionadas:
 - espectaculos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/flamenco/bailaora.webp
+imagenAlt: "Bailaora con mantón blanco durante un espectáculo flamenco"
+galeria:
+- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
+  alt: "Guitarrista flamenco tocando en directo"
+- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
+  alt: "Cantaora flamenca cantando en un escenario"
+- src: /images/actividades/cordoba/juderia/calle-juderia.webp
+  alt: "Calle de la Judería de Córdoba con la torre de la Mezquita al fondo"
+- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
+  alt: "Artistas flamencos en escena durante un espectáculo en directo"
+- src: /images/actividades/cordoba/juderia/calleja-flores.webp
+  alt: "Calleja de las Flores con la torre de la Mezquita al fondo"
+- src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
+  alt: "Puente Romano y Mezquita-Catedral de Córdoba iluminados al anochecer"
 ---
 
 ## Qué vas a ver

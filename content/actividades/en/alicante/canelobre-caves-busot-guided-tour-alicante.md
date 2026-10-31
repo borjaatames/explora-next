@@ -68,24 +68,28 @@ keywords:
 - canelobre caves from alicante
 - busot canelobre tour
 - caves near alicante
-imagen: /images/actividades/alicante/ciudades/alicante-hero.webp
-imagenAlt: View of Alicante, where the tour starts
-galeria:
-- src: /images/actividades/alicante/centro/explanada-palmeras.webp
-  alt: The Explanada, near the meeting point
-- src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: Alicante and its port from the castle
-- src: /images/actividades/alicante/centro/castillo-monte.webp
-  alt: Santa Bárbara castle on Mount Benacantil
 ratingProveedor: 4.9
 numeroOpiniones: 207
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-canelobre/fal-canelobre-formaciones-iluminadas.webp
+imagenAlt: "Formations in the Canelobre Caves lit with coloured lights"
+galeria:
+- src: /images/actividades/alicante/fal-canelobre/fal-cabezon-oro-canelobre.webp
+  alt: "Cabeçó d'Or range, home to the Canelobre Caves"
+- src: /images/actividades/alicante/fal-canelobre/fal-canelobre-sala-estalactitas.webp
+  alt: "Lit stalactites in the Canelobre's great chamber"
+- src: /images/actividades/alicante/fal-canelobre/fal-canelobre-columnas.webp
+  alt: "Columns and flowstone in the Canelobre Caves"
+- src: /images/actividades/alicante/fal-canelobre/fal-vista-busot.webp
+  alt: "View over the landscape from the Busot caves area"
+- src: /images/actividades/alicante/fal-canelobre/fal-canelobre-estalagmita-color.webp
+  alt: "Lit stalagmite in the Canelobre Caves"
 ---
 
 ## What you will see

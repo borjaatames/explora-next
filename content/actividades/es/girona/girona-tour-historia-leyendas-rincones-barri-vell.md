@@ -74,29 +74,33 @@ keywords:
 - free tour girona ingles
 - visita guiada girona
 - leyendas de girona
-imagen: /images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp
-imagenAlt: Casas del Onyar con la catedral de Girona al fondo
-galeria:
-- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
-  alt: Escalinata de la catedral de Girona
-- src: /images/actividades/girona/juego-de-tronos/call-escaleras.webp
-  alt: Escaleras en una calle del Call de Girona
-- src: /images/actividades/girona/juego-de-tronos/banos-arabes-cupula.webp
-  alt: Cúpula de los Baños Árabes de Girona
-- src: /images/actividades/girona/juego-de-tronos/sant-pere-galligants.webp
-  alt: Monasterio de Sant Pere de Galligants
-- src: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
-  alt: Puente de Eiffel y casas de colores sobre el Onyar
 ratingProveedor: 4.8
 numeroOpiniones: 29
 atraccionesRelacionadas:
 - casco-antiguo
 - casco-medieval
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp
+imagenAlt: "Casas del Onyar con la catedral de Girona al fondo"
+galeria:
+- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata-multitud.webp
+  alt: "Escalinata de la catedral de Girona"
+- src: /images/actividades/girona/fgi-girona/fgi-barri-vell-arco-escalinata.webp
+  alt: "Arco y escalinata en una calle del Barri Vell de Girona"
+- src: /images/actividades/girona/juego-de-tronos/sant-pere-galligants.webp
+  alt: "Monasterio de Sant Pere de Galligants"
+- src: /images/actividades/girona/juego-de-tronos/banos-arabes-columnas.webp
+  alt: "Columnas del interior de los Baños Árabes de Girona"
+- src: /images/actividades/girona/juego-de-tronos/call-escaleras.webp
+  alt: "Patio con escaleras en el Call judío de Girona"
+- src: /images/actividades/girona/fgi-girona/fgi-pont-eiffel-onyar.webp
+  alt: "Puente de Eiffel sobre el río Onyar en Girona"
+- src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
+  alt: "Calle empedrada junto a la muralla de Girona"
 ---
 
 ## Qué vas a ver

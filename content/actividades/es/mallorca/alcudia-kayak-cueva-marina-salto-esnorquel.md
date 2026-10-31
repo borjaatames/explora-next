@@ -79,26 +79,30 @@ keywords:
 - excursion kayak mallorca cueva
 - cliff jumping mallorca
 - multiaventura mallorca niños
-imagen: /images/actividades/ibiza/kayak-codolar/kayaks-cala-turquesa.webp
-imagenAlt: Kayaks en una cala de agua turquesa
-galeria:
-- src: /images/actividades/ibiza/kayak-codolar/esnorquel-costa-rocosa.webp
-  alt: Esnórquel junto a una costa rocosa
-- src: /images/actividades/mallorca/calo-des-moro/esnorquel-agua-transparente.webp
-  alt: Esnórquel en agua transparente en Mallorca
-- src: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aerea.webp
-  alt: Vista aérea de una bahía del norte de Mallorca
-- src: /images/actividades/mallorca/formentor/formentor-acantilados-es-colomer.webp
-  alt: Acantilados de la costa norte de Mallorca
 ratingProveedor: 4.8
 numeroOpiniones: 2626
 atraccionesRelacionadas:
 - calas-playas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
+imagenAlt: "Grupo de kayaks remando junto a una costa rocosa, vista aérea"
+galeria:
+- src: /images/actividades/mallorca/fma-kayak-alcudia/kayaks-amarillos-acantilado.webp
+  alt: "Kayaks amarillos en el mar junto a una costa de rocas"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp
+  alt: "Kayak visto desde el interior de una cueva marina"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
+  alt: "Costa rocosa del Mediterráneo con montañas al fondo"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
+  alt: "Persona haciendo esnórquel sobre un fondo de rocas"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
+  alt: "Dos kayaks sobre agua transparente y turquesa"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
+  alt: "Fondo marino con rocas bajo agua cristalina"
 ---
 
 ## Qué vas a ver

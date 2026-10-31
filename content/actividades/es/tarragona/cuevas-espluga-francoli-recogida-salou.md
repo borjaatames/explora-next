@@ -65,24 +65,30 @@ keywords:
 - excursion cuevas desde salou
 - coves de l'espluga
 - excursiones desde salou con recogida
-imagen: /images/actividades/tarragona/quad/prades-atardecer.webp
-imagenAlt: Montañas de Prades, la sierra donde se encuentra l'Espluga de Francolí
-galeria:
-- src: /images/actividades/tarragona/quad/montsant.webp
-  alt: Sierras del interior de Tarragona
-- src: /images/actividades/tarragona/quad/prades-siurana.webp
-  alt: Paisaje de montaña del interior de Tarragona
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: Costa de Salou, donde empieza la excursión
 ratingProveedor: 4.5
 numeroOpiniones: 55
 atraccionesRelacionadas:
 - naturaleza
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/fre-coves-espluga/conjunto-font-major-espluga.webp
+imagenAlt: "Conjunto de la Font Major, acceso a la cueva de l'Espluga de Francolí"
+galeria:
+- src: /images/actividades/tarragona/costa/puerto-cambrils.webp
+  alt: "Puerto de Cambrils, uno de los puntos de recogida"
+- src: /images/actividades/tarragona/fre-coves-espluga/formaciones-roca-cueva.webp
+  alt: "Formaciones de roca en el interior de una cueva (imagen ilustrativa)"
+- src: /images/actividades/tarragona/quad/prades-atardecer.webp
+  alt: "Montañas de Prades, cerca de l'Espluga de Francolí, al atardecer"
+- src: /images/actividades/tarragona/fre-coves-espluga/estalactitas-iluminadas.webp
+  alt: "Estalactitas iluminadas en una cueva (imagen ilustrativa)"
+- src: /images/actividades/tarragona/priorat/fta-vinedos-cornudella-montsant.webp
+  alt: "Viñedos y sierra del Montsant en el interior de Tarragona"
+- src: /images/actividades/tarragona/fre-coves-espluga/cala-morisca-salou.webp
+  alt: "Cala Morisca, en la costa de Salou"
 ---
 
 ## Qué vas a ver

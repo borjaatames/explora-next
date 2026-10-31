@@ -71,28 +71,32 @@ keywords:
 - altea desde alicante
 - guadalest y altea desde benidorm
 - excursion altea alicante
-imagen: /images/actividades/alicante/excursiones/altea-iglesia.webp
-imagenAlt: Iglesia de la Virgen del Consuelo, con sus cúpulas azules, en Altea
-galeria:
-- src: /images/actividades/alicante/excursiones/altea-calle.webp
-  alt: Calle blanca del casco antiguo de Altea
-- src: /images/actividades/alicante/excursiones/altea-bahia.webp
-  alt: La bahía de Altea
-- src: /images/actividades/alicante/excursiones/altea-iglesia-calle.webp
-  alt: Calle de Altea con la iglesia al fondo
-- src: /images/actividades/alicante/excursiones/guadalest.webp
-  alt: El pueblo de Guadalest en lo alto de la roca
-- src: /images/actividades/alicante/excursiones/guadalest-campanario.webp
-  alt: El campanario de Guadalest sobre la roca
 ratingProveedor: 4.8
 numeroOpiniones: 229
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-guadalest/fal-guadalest-pueblo-cresta.webp
+imagenAlt: "Pueblo de Guadalest sobre la cresta rocosa"
+galeria:
+- src: /images/actividades/alicante/excursiones/guadalest-campanario.webp
+  alt: "Campanario de Guadalest sobre la peña"
+- src: /images/actividades/alicante/fal-guadalest/fal-embalse-guadalest.webp
+  alt: "Embalse de Guadalest entre montañas"
+- src: /images/actividades/alicante/fal-guadalest/fal-guadalest-casas.webp
+  alt: "Casas encaladas de Guadalest"
+- src: /images/actividades/alicante/excursiones/guadalest-desde-castillo.webp
+  alt: "Guadalest visto desde el castillo"
+- src: /images/actividades/alicante/fal-altea/fal-altea-desde-mar.webp
+  alt: "Altea vista desde el mar"
+- src: /images/actividades/alicante/fal-altea/fal-calle-flores-altea.webp
+  alt: "Calle con flores en el casco antiguo de Altea"
+- src: /images/actividades/alicante/excursiones/altea-iglesia.webp
+  alt: "Cúpulas azules de la iglesia de Altea"
 ---
 
 ## Qué vas a ver

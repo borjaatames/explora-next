@@ -67,24 +67,32 @@ keywords:
 - el grifo wine tasting lanzarote
 - lanzarote winery tour
 - lanzarote wine museum
-imagen: /images/actividades/lanzarote/zonas/la-geria-bodega.webp
-imagenAlt: Winery in the La Geria wine region, Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-  alt: Vineyards on volcanic ash in La Geria
-- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
-  alt: Stone-walled pits protecting the vines
-- src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
-  alt: Crops on volcanic ground in Lanzarote
 ratingProveedor: 4.9
 numeroOpiniones: 374
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
+imagenAlt: "Oak barrels in a winery ageing cellar"
+galeria:
+- src: /images/actividades/lanzarote/fre-bodega-grifo/la-geria-vinedo-muros-piedra.webp
+  alt: "La Geria vineyards sheltered by volcanic stone walls"
+- src: /images/actividades/madrid/vinos-madrid/cata-vino-blanco.webp
+  alt: "White wine being poured at a tasting"
+- src: /images/actividades/lanzarote/fre-bodega-grifo/la-geria-casa-blanca-vinedo.webp
+  alt: "White house among vine pits in La Geria"
+- src: /images/actividades/barcelona/vino/copas-vino-tinto-fila.webp
+  alt: "Row of red wine glasses ready for a tasting"
+- src: /images/actividades/lanzarote/la-geria/flz-racimo-uvas.webp
+  alt: "Bunch of grapes on a Lanzarote vine"
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
+  alt: "Cured goat cheeses"
+- src: /images/actividades/lanzarote/fre-bodega-grifo/la-geria-vinedos-volcan.webp
+  alt: "Vines in ash pits below a volcano in La Geria"
 ---
 
 ## What you will see

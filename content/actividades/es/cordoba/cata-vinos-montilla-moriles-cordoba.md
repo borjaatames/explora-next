@@ -67,24 +67,30 @@ keywords:
 - vinos montilla moriles cata
 - cata vino cordoba tapas
 - que hacer en cordoba por la tarde
-imagen: /images/actividades/cordoba/montilla/montilla-botas-crianza.webp
-imagenAlt: Botas de crianza de vino de Montilla
-galeria:
-- src: /images/actividades/cordoba/montilla/montilla-bodega-tinajas.webp
-  alt: Tinajas de una bodega de Montilla
-- src: /images/actividades/cordoba/montilla/montilla-vinedo.webp
-  alt: Viñedo de la D.O. Montilla-Moriles
-- src: /images/actividades/cordoba/gastronomia/pizarra-tapas-cordoba.webp
-  alt: Pizarra de tapas en una taberna de Córdoba
-- src: /images/actividades/cordoba/gastronomia/salmorejo-jamon.webp
-  alt: Salmorejo cordobés con jamón
 ratingProveedor: 4.8
 numeroOpiniones: 283
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cordoba/vinos/fvc-copa-vino-generoso-mesa.webp
+imagenAlt: "Copa de vino generoso sobre una mesa de madera"
+galeria:
+- src: /images/actividades/cordoba/montilla/montilla-botas-crianza.webp
+  alt: "Botas de crianza en una bodega de Montilla"
+- src: /images/actividades/cordoba/vinos/fvc-copa-vino-blanco-tabla.webp
+  alt: "Copa de vino servida sobre una tabla de madera"
+- src: /images/actividades/cordoba/montilla/montilla-bodega-tinajas.webp
+  alt: "Tinajas de barro en una bodega de Montilla"
+- src: /images/actividades/cordoba/vinos/fvc-aceitunas-verdes-cuenco.webp
+  alt: "Cuenco de aceitunas verdes como tapa"
+- src: /images/actividades/cordoba/gastronomia/salmorejo-jamon.webp
+  alt: "Salmorejo cordobés con virutas de jamón"
+- src: /images/actividades/cordoba/montilla/montilla-vinedo.webp
+  alt: "Viñedo de la denominación Montilla-Moriles"
+- src: /images/actividades/cordoba/gastronomia/flamenquin-cordoba.webp
+  alt: "Flamenquín cordobés con patatas"
 ---
 
 ## Qué vas a ver

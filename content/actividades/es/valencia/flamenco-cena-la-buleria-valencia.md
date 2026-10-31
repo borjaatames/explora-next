@@ -63,25 +63,27 @@ keywords:
 - la buleria valencia
 - cena espectaculo valencia
 - tablao flamenco valencia
-imagen: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
-imagenAlt: Cuadro flamenco actuando en un tablao
-galeria:
-- src: /images/actividades/alicante/flamenco/tablao.webp
-  alt: Escenario de un tablao flamenco
-- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: Pareja bailando flamenco
-- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: Bailaora en plena actuación
-- src: /images/actividades/alicante/flamenco/trajes-flamenca.webp
-  alt: Trajes de flamenca de colores
 ratingProveedor: 4.8
 numeroOpiniones: 1564
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
+imagenAlt: "Bailaoras sobre el escenario durante un espectáculo flamenco"
+galeria:
+- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
+  alt: "Cantaora flamenca cantando en un escenario"
+- src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-mesa.webp
+  alt: "Tapas variadas en cazuelas de barro sobre una mesa de madera"
+- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
+  alt: "Guitarrista flamenco tocando en directo"
+- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
+  alt: "Bailaor en pleno baile sobre el escenario"
+- src: /images/actividades/valencia/noche/plaza-ayuntamiento-noche.webp
+  alt: "Plaza del Ayuntamiento de Valencia iluminada por la noche"
 ---
 
 ## Qué vas a ver

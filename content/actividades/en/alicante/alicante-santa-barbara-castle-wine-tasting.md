@@ -65,29 +65,31 @@ keywords:
 - santa barbara castle wine tasting
 - alicante castle tapas
 - wine tasting alicante castle
-imagen: /images/actividades/alicante/centro/castillo-santa-barbara.webp
-imagenAlt: Santa Bárbara castle
-galeria:
-- src: /images/actividades/alicante/vino/cata-copas.webp
-  alt: Wine glasses set out for a tasting
-- src: /images/actividades/alicante/centro/castillo-vistas.webp
-  alt: Sea views from Santa Bárbara castle
-- src: /images/actividades/alicante/vino/cata-tinto.webp
-  alt: A glass of red wine at a tasting
-- src: /images/actividades/alicante/centro/castillo-interior.webp
-  alt: Inside Santa Bárbara castle
-- src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: Alicante and its port from the castle
 ratingProveedor: 4.4
 numeroOpiniones: 718
 atraccionesRelacionadas:
 - gastronomia
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/barcelona/vino/copas-vino-tinto-fila.webp
+imagenAlt: "Glasses of red and white wine set out for a tasting"
+galeria:
+- src: /images/actividades/alicante/fal-cata-castillo/fal-baluarte-castillo-mar.webp
+  alt: "Bastion of Santa Bárbara Castle overlooking the sea and port"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Glasses of white and red wine at a tasting"
+- src: /images/actividades/alicante/centro/castillo-vistas.webp
+  alt: "Santa Bárbara Castle on its rock with the sea behind"
+- src: /images/actividades/alicante/paella/tapas-tortilla.webp
+  alt: "Spanish omelette tapas"
+- src: /images/actividades/alicante/fal-cata-castillo/fal-vista-puerto-castillo.webp
+  alt: "View of Alicante port and beach from the castle"
+- src: /images/actividades/alicante/fal-cata-castillo/fal-costa-alicante-desde-castillo.webp
+  alt: "Alicante coastline from the castle heights"
 ---
 
 ## What you will see

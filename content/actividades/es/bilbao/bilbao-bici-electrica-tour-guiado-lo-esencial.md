@@ -71,28 +71,32 @@ keywords:
 - bilbao en bicicleta
 - ebike tour bilbao
 - visita guiada bilbao bici
-imagen: /images/actividades/bilbao/ria/zubizuri.webp
-imagenAlt: Puente Zubizuri sobre la ría de Bilbao
-galeria:
-- src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: Museo Guggenheim junto a la ría de Bilbao
-- src: /images/actividades/bilbao/ria/ria-pasarela.webp
-  alt: La ría de Bilbao con sus puentes
-- src: /images/actividades/bilbao/san-mames/estadio-vista.webp
-  alt: Vista de San Mamés y Bilbao
-- src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: Edificio del Casco Viejo de Bilbao
-- src: /images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp
-  alt: Vista aérea de la ría de Bilbao con el puente de La Salve y el Guggenheim
 ratingProveedor: 4.7
 numeroOpiniones: 803
 atraccionesRelacionadas:
 - ria-miradores
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/bici/fbi-bici-calle-anochecer.webp
+imagenAlt: "Bicicleta urbana aparcada en una calle al anochecer"
+galeria:
+- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+  alt: "Teatro Arriaga junto a la ría de Bilbao"
+- src: /images/actividades/bilbao/ria/fbi-ria-casco-viejo-reflejo.webp
+  alt: "Fachadas del Casco Viejo reflejadas en la ría de Bilbao"
+- src: /images/actividades/bilbao/ria/zubizuri.webp
+  alt: "Pasarela Zubizuri sobre la ría de Bilbao"
+- src: /images/actividades/bilbao/ria/fbi-paseo-ria-guggenheim.webp
+  alt: "Paseo junto a la ría de Bilbao con el Guggenheim al fondo"
+- src: /images/actividades/bilbao/ria/fbi-puente-deusto-ria.webp
+  alt: "La ría de Bilbao con el puente de Deusto al fondo"
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: "Plaza Nueva del Casco Viejo de Bilbao"
+- src: /images/actividades/bilbao/ria/fbi-ria-vista-general.webp
+  alt: "Vista general de la ría de Bilbao con sus paseos arbolados"
 ---
 
 ## Qué vas a ver

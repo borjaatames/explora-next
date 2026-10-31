@@ -77,27 +77,33 @@ keywords:
 - kayak puerto de mogan
 - kayak gran canaria
 - esnorquel mogan
-imagen: /images/actividades/gran-canaria/mogan-kayak/cueva-marina-mogan.webp
-imagenAlt: Cueva marina en los acantilados volcánicos cerca de Puerto de Mogán
-galeria:
-- src: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
-  alt: Vista aérea de kayaks junto a una costa rocosa
-- src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: Acantilados volcánicos de Mogán vistos desde el mar
-- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: Peces en el fondo marino de Gran Canaria
-- src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp
-  alt: Puerto de Mogán
 ratingProveedor: 4.9
 numeroOpiniones: 431
 atraccionesRelacionadas:
 - mogan
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/mogan-kayak/fgc-kayak-boca-cueva-marina.webp
+imagenAlt: "Kayak en la boca de una cueva marina"
+galeria:
+- src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp
+  alt: "Puerto de Mogán y su bahía"
+- src: /images/actividades/gran-canaria/mogan-kayak/cueva-marina-mogan.webp
+  alt: "Cueva marina en los acantilados de Mogán"
+- src: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
+  alt: "Grupo de kayaks junto a la costa rocosa visto desde el aire"
+- src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
+  alt: "Acantilados volcánicos de Mogán vistos desde el mar"
+- src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
+  alt: "Fondo rocoso bajo aguas cristalinas"
+- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
+  alt: "Peces sobre el fondo arenoso en aguas de Gran Canaria"
+- src: /images/actividades/gran-canaria/mogan/fgc-puerto-mogan-playa-puerto.webp
+  alt: "Playa y puerto deportivo de Puerto de Mogán"
 ---
 
 ## Qué vas a ver

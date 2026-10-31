@@ -66,24 +66,32 @@ keywords:
 - almudaina palma
 - entradas almudaina
 - que ver en palma
-imagen: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
-imagenAlt: La Catedral de Palma desde el Parc de la Mar, junto a la Almudaina
-galeria:
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
-  alt: La Catedral de Palma reflejada en el estanque del Parc de la Mar
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-atardecer.webp
-  alt: El frente marítimo de Palma al atardecer
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp
-  alt: Fachada de la Catedral de Palma
 ratingProveedor: 4.5
 numeroOpiniones: 1110
 atraccionesRelacionadas:
 - palma
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-almudaina/almudaina-palmeras-catedral.webp
+imagenAlt: "Palacio Real de la Almudaina entre palmeras, con la Catedral detrás"
+galeria:
+- src: /images/actividades/mallorca/fma-almudaina/salon-gotico-almudaina.webp
+  alt: "Salón gótico con arcos de piedra del Palacio de la Almudaina"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-fachada-arcos.webp
+  alt: "Fachada con galería de arcos del Palacio de la Almudaina"
+- src: /images/actividades/mallorca/fma-almudaina/comedor-oficiales-almudaina.webp
+  alt: "Comedor de Oficiales del Palacio de la Almudaina"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-atardecer-muralla.webp
+  alt: "Palacio de la Almudaina sobre la muralla al atardecer"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-torre-jardines.webp
+  alt: "Torre del Palacio de la Almudaina y jardines con palmeras"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-estanque.webp
+  alt: "Almudaina y Catedral de Palma junto al estanque del Parc de la Mar"
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-paseo.webp
+  alt: "Almudaina y Catedral vistas desde el paseo marítimo"
 ---
 
 ## Qué vas a ver

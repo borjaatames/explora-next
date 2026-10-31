@@ -75,29 +75,31 @@ keywords:
 - gran canaria boat trip with lunch
 - luxury catamaran gran canaria
 - mogan boat trip
-imagen: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-imagenAlt: Puerto Rico bay in the south of Gran Canaria
-galeria:
-- src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: Puerto Rico marina
-- src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: Volcanic cliffs on the southwest coast
-- src: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
-  alt: Kayaks by the rocky coast
-- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: Fish on the seabed off Gran Canaria
-- src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
-  alt: The Taurito coastline
 ratingProveedor: 4.8
 numeroOpiniones: 1066
 atraccionesRelacionadas:
 - mar
 - mogan
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/gran-canaria/catamaran/fgc-catamaran-fondeado-aguas-turquesa.webp
+imagenAlt: "Catamaran at anchor in turquoise water"
+galeria:
+- src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
+  alt: "The harbour of Puerto Rico de Gran Canaria, the departure point"
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: "Rocky coastline in south-west Gran Canaria"
+- src: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
+  alt: "Bow of a catamaran over clear water"
+- src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
+  alt: "Rocky seabed under crystal-clear water, ideal for snorkelling"
+- src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
+  alt: "Cliffs and houses on the Mogán coast seen from the sea"
+- src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
+  alt: "View of the Puerto Rico de Gran Canaria marina"
 ---
 
 ## What you will see

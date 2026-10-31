@@ -73,23 +73,27 @@ keywords:
 - rutas a caballo mallorca
 - montar a caballo mallorca
 - ranxo ses roques
-imagen: /images/actividades/gran-canaria/caballo/jinetes-campo-seco.webp
-imagenAlt: Jinetes paseando a caballo por el campo
-galeria:
-- src: /images/actividades/gran-canaria/caballo/caballos-canon-roca.webp
-  alt: Caballos en un paisaje de roca
-- src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
-  alt: Sobrasada mallorquina
-- src: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aerea.webp
-  alt: Bahía del norte de Mallorca desde lo alto
 ratingProveedor: 4.6
 numeroOpiniones: 1860
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/mallorca/fma-caballo-alcudia/jinetes-ladera-monte.webp
+imagenAlt: "Dos jinetes a caballo bajando por una ladera de monte"
+galeria:
+- src: /images/actividades/mallorca/fma-caballo-alcudia/ruta-caballos-ladera.webp
+  alt: "Grupo de jinetes en ruta por una ladera"
+- src: /images/actividades/mallorca/fma-caballo-alcudia/caballo-blanco-cabeza.webp
+  alt: "Cabeza de un caballo blanco con cabezada"
+- src: /images/actividades/mallorca/fma-caballo-alcudia/caballo-prado.webp
+  alt: "Caballo oscuro trotando por un prado"
+- src: /images/actividades/mallorca/fma-olivar/olivo-centenario-mallorca.webp
+  alt: "Olivo centenario en el campo de Mallorca"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
+  alt: "Costa rocosa del Mediterráneo con montañas al fondo"
 ---
 
 ## Qué vas a ver

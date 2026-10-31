@@ -67,26 +67,34 @@ keywords:
 - loyola desde bilbao
 - getaria desde bilbao
 - excursion gipuzkoa desde bilbao
-imagen: /images/actividades/bilbao/costa-vasca/getaria-puerto.webp
-imagenAlt: Puerto de Getaria
-galeria:
-- src: /images/actividades/bilbao/san-sebastian/concha-desde-monte-igueldo.webp
-  alt: La Concha desde el monte Igueldo
-- src: /images/actividades/bilbao/san-sebastian/plaza-constitucion.webp
-  alt: Plaza de la Constitución de San Sebastián
-- src: /images/actividades/bilbao/san-sebastian/bahia-concha-isla-santa-clara.webp
-  alt: Bahía de la Concha con la isla de Santa Clara
-- src: /images/actividades/bilbao/costa-vasca/txakoli-vinedos-mar.webp
-  alt: Viñedos de txakoli junto al mar en Getaria
 ratingProveedor: 4.7
 numeroOpiniones: 155
 atraccionesRelacionadas:
 - san-sebastian
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/bilbao/costa-vasca/fbi-loyola-cupula.webp
+imagenAlt: "Cúpula de la basílica del Santuario de Loyola"
+galeria:
+- src: /images/actividades/bilbao/costa-vasca/fbi-loyola-cupula-lampara.webp
+  alt: "Interior de la cúpula del Santuario de Loyola en Azpeitia"
+- src: /images/actividades/bilbao/costa-vasca/fbi-getaria-playa-raton.webp
+  alt: "Playa de Getaria con el monte del Ratón al fondo"
+- src: /images/actividades/bilbao/costa-vasca/getaria-puerto.webp
+  alt: "Puerto de Getaria y el monte del Ratón"
+- src: /images/actividades/bilbao/costa-vasca/txakoli-vinedos-mar.webp
+  alt: "Viñedos de txakoli frente al mar en Getaria"
+- src: /images/actividades/bilbao/san-sebastian/concha-desde-monte-igueldo.webp
+  alt: "Bahía de La Concha desde el monte Igueldo"
+- src: /images/actividades/bilbao/san-sebastian/plaza-constitucion.webp
+  alt: "Plaza de la Constitución en la Parte Vieja de San Sebastián"
+- src: /images/actividades/bilbao/san-sebastian/barra-pintxos.webp
+  alt: "Barra de pintxos en la Parte Vieja de San Sebastián"
+- src: /images/actividades/bilbao/san-sebastian/bahia-concha-isla-santa-clara.webp
+  alt: "Playa de La Concha y la isla de Santa Clara"
 ---
 
 ## Qué vas a ver

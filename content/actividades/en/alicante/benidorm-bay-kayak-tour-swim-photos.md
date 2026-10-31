@@ -79,24 +79,32 @@ keywords:
 - kayaking benidorm
 - benidorm kayak and snorkel
 - things to do in benidorm
-imagen: /images/actividades/alicante/granadella/kayaks-cala-acantilados.webp
-imagenAlt: Kayaks in a Costa Blanca cove between cliffs
-galeria:
-- src: /images/actividades/alicante/granadella/kayaks-banistas-cala.webp
-  alt: Kayaks and swimmers in a Costa Blanca cove
-- src: /images/actividades/alicante/granadella/esnorquel-costa-rocosa.webp
-  alt: Snorkelling along a rocky shore
-- src: /images/actividades/alicante/costa/cabo-huertas.webp
-  alt: Rocky Mediterranean coast in Alicante
 ratingProveedor: 4.8
 numeroOpiniones: 100
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/fal-kayak/fal-kayak-mar-calma.webp
+imagenAlt: "Sea kayak paddling on calm water"
+galeria:
+- src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
+  alt: "Two sea kayaks on clear water"
+- src: /images/actividades/alicante/fal-kayak/fal-benidorm-bahia-rascacielos.webp
+  alt: "Benidorm bay with its skyscrapers and beach"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
+  alt: "Group of kayaks paddling near rocks"
+- src: /images/actividades/alicante/granadella/esnorquel-costa-rocosa.webp
+  alt: "Person snorkelling along a rocky coast"
+- src: /images/actividades/alicante/fal-kayak/fal-benidorm-cala-sierra-helada.webp
+  alt: "Benidorm buildings beside a cove and the mountains"
+- src: /images/actividades/alicante/fal-kayak/fal-benidorm-skyline-mar.webp
+  alt: "Benidorm skyline seen from the sea"
+- src: /images/actividades/alicante/fal-kayak/fal-gaviota-puerto-benidorm.webp
+  alt: "Seagull with the Benidorm skyline behind"
 ---
 
 ## What you will see
