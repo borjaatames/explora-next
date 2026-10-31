@@ -1,89 +1,81 @@
 ---
-titulo: 'Ibiza: esnórquel, paddle surf y cueva marina en barco'
+titulo: 'Ibiza: barco a las cuevas marinas con snorkel, paddle surf y tapas'
 slug: esnorquel-paddle-surf-cueva-marina-ibiza
 ciudad: ibiza
-descripcion: Salida en barco de 3 horas desde Sant Antoni con dos paradas de esnórquel y paddle surf en Cala Bassa y Cala Comte y visita a la mayor cueva marina de Ibiza. Bebidas incluidas. 4,7/5 con 1.435 reseñas.
+descripcion: 'Paseo en barco de 3 horas desde Sant Antoni a calas y cuevas marinas: snorkel, paddle surf y scooter submarino, con bebidas, fruta y tapas. Recogida en el hotel incluida. 4,5/5 con 49 opiniones.'
 slugs:
   es: esnorquel-paddle-surf-cueva-marina-ibiza
   en: ibiza-snorkel-paddleboard-sea-cave-boat-tour
 duracion: 3 horas
 duracionMinutos: 180
-precioDesde: 60
+precioDesde: 70
 moneda: EUR
 idiomas:
-- es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/es-es/ibiza-l276/ibiza-esnorquel-paddlesurf-playa-y-tour-por-cueva-t24697/?partner_id=C71NOAW
+urlReserva: https://www.getyourguide.com/es-es/activity-t1373373/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Esnórquel en Cala Bassa y Cala Comte
-- Paddle surf a bordo
-- La mayor cueva marina de Ibiza
-- Cerveza, sangría, vino y refrescos
-- Cancelación gratuita hasta 24 h antes
+- Calas escondidas y cuevas marinas de la costa de Sant Antoni
+- Snorkel en aguas transparentes con equipo incluido
+- Paddle surf y scooter submarino
+- Bebidas, fruta fresca y tapas a bordo
+- Recogida y regreso al hotel
 incluye:
-- Paseo en barco con capitán y guías
-- Equipo de esnórquel y tablas de paddle surf
-- Chaleco para quien no sabe nadar
-- Cerveza, sangría, vino blanco, refrescos y agua
-- Seguro
+- Paseo en barco con tripulación
+- Equipo de snorkel
+- Tablas de paddle surf
+- Scooter submarino
+- Bebidas, fruta fresca y tapas
+- Toalla y crema solar
+- Recogida y regreso al hotel
 noIncluye:
-- Recogida en el hotel
-- Comida
-- Fotografías
 - Propinas
 puntoEncuentro:
-  texto: Punto de encuentro del barco de esnórquel en el puerto de Sant Antoni de Portmany.
-  descripcionGuia: Verás la ubicación exacta en la confirmación. Llega 15 minutos antes.
-  latitud: 38.9795
-  longitud: 1.3058
+  texto: Carrer Bisbe Cardona 3, Sant Antoni de Portmany (Jet Ski Ibiza Es Vedrà)
+  descripcionGuia: 'Punto de encuentro en el local de Jet Ski Ibiza Es Vedrà Tours, Carrer Bisbe Cardona 3, en Sant Antoni. Incluye recogida y regreso al hotel: confirma la hora en el bono.'
+  latitud: 38.9805
+  longitud: 1.3045
   zoom: 16
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
-  - Bañador
-  - Toalla
+  - Bañador puesto
+  - Calzado que se pueda mojar
   noAptoPara:
-  - Personas con movilidad reducida
-  - Personas en silla de ruedas
+  - Personas que no saben nadar (para el baño)
   aTenerEnCuenta:
-  - La entrada a la cueva depende del estado del mar
-  - Las paradas pueden cambiar por viento, olas o medusas
-  - Cada parada dura unos 45 minutos
-accesibilidad: No es accesible en silla de ruedas.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
+  - Las cuevas y calas visitadas dependen del estado del mar
+  - Toalla y crema solar las pone la tripulación
+accesibilidad: No accesible en silla de ruedas.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso completo.
 preguntasFrecuentes:
-- pregunta: ¿Necesito saber hacer esnórquel?
-  respuesta: No, el equipo y las explicaciones están incluidos; hay chaleco para quien no sabe nadar.
-- pregunta: ¿Qué se ve bajo el agua?
-  respuesta: Praderas de posidonia, pulpos, peces de roca y bancos de peces.
-- pregunta: ¿Se entra siempre en la cueva?
-  respuesta: Solo si el mar lo permite.
-- pregunta: ¿Hay comida?
-  respuesta: No, solo bebidas; puedes llevar algo de picar.
-opinionEditorial: 'Si lo tuyo es meterte en el agua más que tomar el sol, este es el barco: dos buenas paradas de esnórquel y la cueva marina más grande de la isla. Muy valorado por familias.'
+- pregunta: ¿Se entra en las cuevas?
+  respuesta: El barco se acerca a las cuevas marinas y, si el mar lo permite, se puede entrar nadando o en paddle surf. Depende del estado del mar ese día.
+- pregunta: ¿Incluye recogida?
+  respuesta: 'Sí: recogida y regreso al hotel. La hora exacta viene en el bono.'
+opinionEditorial: 'Un plan de medio día muy completo para Sant Antoni: barco, cuevas, snorkel y paddle surf con tapas, y sin preocuparte del transporte.'
 guiasRelacionadas:
 - mejores-calas-ibiza
 categoria: excursionesDia
 keywords:
-- snorkel ibiza barco
-- esnorquel cala bassa
-- cueva marina ibiza
-- paddle surf ibiza
+- cuevas marinas ibiza barco
+- snorkel ibiza sant antoni
+- paddle surf ibiza barco
+- excursion barco calas ibiza
 imagen: /images/actividades/ibiza/mar/esnorquel.webp
 imagenAlt: Esnórquel sobre una pradera marina
 galeria:
-- src: "/images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp"
-  alt: "Cala de Ibiza rodeada de pinos con aguas turquesas"
-- src: "/images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp"
-  alt: "Barca varada entre rocas en una cala de Ibiza"
+- src: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
+  alt: Cala de Ibiza rodeada de pinos con aguas turquesas
+- src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
+  alt: Barca varada entre rocas en una cala de Ibiza
 - src: /images/actividades/ibiza/mar/paddle-surf-cala.webp
   alt: Paddle surf en una cala
 - src: /images/actividades/ibiza/mar/posidonia.webp
@@ -94,32 +86,26 @@ galeria:
   alt: Fondo marino con posidonia
 - src: /images/actividades/ibiza/calas/cala-bassa.webp
   alt: Cala Bassa con barcos fondeados
-ratingProveedor: 4.7
-numeroOpiniones: 1435
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
-reemplazadaPor: kayak-cuevas-cala-codolar-esnorquel
+ratingProveedor: 4.5
+numeroOpiniones: 49
+publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-31'
 ---
 
-## Qué vas a ver
+## La excursión
 
-- Fondos de **posidonia** en Cala Bassa.
-- Aguas turquesas de **Cala Comte**.
-- La **cueva marina** más grande de Ibiza.
+Tres horas en barco desde **Sant Antoni** por la costa oeste de Ibiza: calas escondidas, agua transparente y **cuevas marinas** que solo se ven desde el mar.
 
-## Cómo funciona
+## En el agua
 
-Sales de Sant Antoni, fondeas unos 45 minutos en Cala Bassa para hacer esnórquel o paddle surf, repites en Cala Comte y, si el mar lo permite, entras en la gran cueva marina antes de volver.
+- **Snorkel** con equipo incluido.
+- **Paddle surf** y un **scooter submarino** para recorrer el fondo.
+- Paradas para nadar en las calas, según el estado del mar.
 
-## A quién se lo recomiendo
+## A bordo
 
-- A **familias** y a quien le gusta el **esnórquel**.
-- A quien quiere probar el **paddle surf**.
-
-## A quién NO se lo recomiendo
-
-- A quien busca **comida incluida**.
+Bebidas, **fruta fresca y tapas**, toalla y crema solar. Incluye la recogida y el regreso al hotel.

@@ -25,9 +25,12 @@ slugs:
 opciones:
   - ficha: calo-des-moro-barco-esnorquel
     etiqueta: Caló des Moro
+  - ficha: formentor-minibus-barco-mirador-playa
+    etiqueta: Formentor
   - ficha: barco-soller-sa-calobra
     etiqueta: Sa Calobra
 actividades:
+  - formentor-minibus-barco-mirador-playa
   - barco-soller-sa-calobra
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - calo-des-moro-barco-esnorquel

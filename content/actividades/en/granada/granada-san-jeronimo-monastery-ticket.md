@@ -86,6 +86,7 @@ numeroOpiniones: 50
 atraccionesRelacionadas:
 - otros-granada
 publicada: false
+reemplazadaPor: granada-charterhouse-monastery-ticket
 indexar: false
 destacada: false
 fecha: '2026-10-23'

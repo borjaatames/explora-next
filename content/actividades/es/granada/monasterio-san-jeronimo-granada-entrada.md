@@ -86,6 +86,7 @@ numeroOpiniones: 50
 atraccionesRelacionadas:
 - otros-granada
 publicada: false
+reemplazadaPor: monasterio-cartuja-granada-entrada
 indexar: false
 destacada: false
 fecha: '2026-10-23'

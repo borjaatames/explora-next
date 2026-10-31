@@ -1,78 +1,78 @@
 ---
-titulo: 'Tabarca: excursión de snorkel guiado en la reserva marina'
+titulo: 'Santa Pola: velero a Tabarca con snorkel y puesta de sol'
 slug: snorkel-tabarca-reserva-marina
 ciudad: alicante
-descripcion: 'Excursión de snorkel con guía en la reserva marina de Tabarca: equipo incluido, dos puntos de inmersión y explicación del ecosistema de posidonia. 4,6/5 con 97 opiniones.'
+descripcion: 'Velero de 4 horas desde Santa Pola a la reserva marina de Tabarca: fondeo para nadar, snorkel y paddle surf, cata y vuelta con la puesta de sol. Grupos de hasta 11. 4,8/5 con 27 opiniones.'
 slugs:
   es: snorkel-tabarca-reserva-marina
   en: tabarca-snorkeling-tour
-duracion: 3 horas
-duracionMinutos: 180
-precioDesde: 50
+duracion: 4 horas
+duracionMinutos: 240
+precioDesde: 85
 moneda: EUR
 idiomas:
-- es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/es-es/activity-t398727/?partner_id=C71NOAW
+urlReserva: https://www.getyourguide.com/es-es/activity-t989044/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- La primera reserva marina de España, con 15 metros de visibilidad
-- 'Equipo completo incluido: neopreno, gafas, tubo y aletas'
-- Guía que conoce los mejores puntos y explica la posidonia
-- Grupos pequeños
+- Navegación en velero por la bahía de Santa Pola hasta Tabarca
+- Fondeo en la reserva marina para nadar, hacer snorkel o paddle surf
+- Copa de vino o refresco y degustación a bordo
+- Vuelta con la puesta de sol desde la proa
+- 'Grupo pequeño: hasta 11 personas'
 incluye:
-- Guía de snorkel
-- Neopreno, gafas, tubo y aletas
-- Dos puntos de inmersión en la reserva
-- Seguro
+- Velero con patrón
+- Combustible
+- Degustación de comida y una bebida
+- Tablas de paddle surf
+- Gafas de snorkel
 noIncluye:
-- Ferry o barco hasta Tabarca (según opción; consulta al reservar)
-- Comida
+- Desplazamiento hasta Santa Pola
+- Bajar a tierra en Tabarca (se fondea en la reserva)
 puntoEncuentro:
-  texto: Isla de Tabarca (punto exacto en el voucher)
-  descripcionGuia: 'Según la opción elegida, el encuentro es en el puerto de Tabarca o incluye la travesía desde Santa Pola. Comprueba el voucher: indica si debes llegar a la isla por tu cuenta.'
-  latitud: 38.1664
-  longitud: -0.479
+  texto: Marina Miramar, Puerto Deportivo de Santa Pola (Muelle Norte)
+  descripcionGuia: Salida desde el puerto deportivo Marina Miramar de Santa Pola, Muelle Norte s/n. Llega 15 minutos antes; el patrón te espera en el pantalán del velero.
+  latitud: 38.1897
+  longitud: -0.5568
   zoom: 15
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
   - Bañador puesto y toalla
-  - Protección solar resistente al agua
-  - Agua
+  - Gorra
+  - Protector solar biodegradable
   noAptoPara:
-  - Menores de 8 años
-  - Personas que no sepan nadar
+  - Personas que no saben nadar (para el baño)
   aTenerEnCuenta:
-  - La visibilidad es mejor por la mañana y con mar en calma
-  - 'En la reserva está prohibido pescar y tocar el fondo: el guía lo explica'
-  - Combina bien con el ferry desde Santa Pola si reservas la opción sin travesía
-accesibilidad: No accesible.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
+  - 'La salida depende del estado del mar: si hay mal tiempo, el patrón puede cambiar la ruta o cancelar'
+  - La hora de salida cambia según la época para llegar a la puesta de sol
+  - 'El barco fondea en la reserva: no es un ferry al pueblo de Tabarca'
+accesibilidad: 'No accesible en silla de ruedas: se sube a bordo por la pasarela del velero.'
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso completo.
 preguntasFrecuentes:
-- pregunta: ¿Qué se ve?
-  respuesta: Praderas de posidonia (la planta que hace el agua tan transparente), sargos, doradas, salpas, morenas en las grietas y, con suerte, pulpos y sepias. La reserva lleva casi 40 años sin pesca y la diferencia con el resto de la costa es evidente.
+- pregunta: ¿Se baja al pueblo de Tabarca?
+  respuesta: No. El velero fondea en la reserva marina para el baño y el snorkel. Si quieres pasear por el pueblo, mejor el ferry desde Santa Pola o el barco desde Alicante.
 - pregunta: ¿Hace falta experiencia?
-  respuesta: No. Basta con saber nadar; el guía explica el uso del equipo y acompaña al grupo. El neopreno da flotabilidad.
-- pregunta: ¿Incluye el barco a la isla?
-  respuesta: 'Depende de la opción que elijas al reservar: hay versión con travesía desde Santa Pola y versión solo snorkel para quien ya está en Tabarca. Léelo en la descripción de GetYourGuide antes de confirmar.'
-opinionEditorial: Si vas a Tabarca, el snorkel es el motivo. Con guía y equipo ves lo que por tu cuenta te pierdes (los puntos buenos no están en la playa principal) y entiendes por qué la posidonia importa. La mejor forma de aprovechar la reserva marina.
+  respuesta: No. Solo saber nadar si vas a meterte en el agua. El paddle surf y las gafas de snorkel están incluidos.
+- pregunta: ¿En qué idioma es?
+  respuesta: 'GetYourGuide lo ofrece en inglés, pero la tripulación es local. No es una visita guiada: lo importante es la navegación y el baño.'
+opinionEditorial: 'Es la forma más tranquila de disfrutar Tabarca: en velero, con poca gente y bañándote donde el ferry no para. La vuelta al atardecer es lo que la hace distinta.'
 guiasRelacionadas:
 - isla-de-tabarca-como-visitar
 - que-ver-en-alicante
 categoria: agua
 keywords:
+- velero tabarca
 - snorkel tabarca
-- tabarca snorkel excursion
-- reserva marina tabarca
-- snorkel alicante
+- paseo en velero santa pola
+- tabarca puesta de sol
 imagen: /images/actividades/alicante/tabarca/snorkel-pradera-posidonia.webp
 imagenAlt: Persona buceando con tubo sobre una pradera de posidonia en el Mediterráneo
 galeria:
@@ -96,32 +96,31 @@ galeria:
   alt: Fortificación de Tabarca vista desde el mar
 - src: /images/actividades/alicante/tabarca/faro-tabarca-campo.webp
   alt: Faro de Tabarca entre un campo de flores silvestres
-ratingProveedor: 4.6
-numeroOpiniones: 97
 atraccionesRelacionadas:
 - tabarca
 - mar
-publicada: false
+ratingProveedor: 4.8
+numeroOpiniones: 27
+publicada: true
 destacada: false
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-25'
+fecha_actualizacion: '2026-10-31'
 ---
 
 ## La excursión
 
-Tres horas de snorkel guiado en la **reserva marina de Tabarca**, protegida desde 1986. Un guía, equipo completo y dos puntos de inmersión elegidos según el estado del mar: normalmente las calas del este, hacia el faro, y los bajos del islote de la Cantera.
+Cuatro horas en **velero desde Santa Pola**. Se navega por la bahía, pasando por las playas y el cabo del faro, hasta la **reserva marina de Tabarca**, la primera de España. Allí se echa el ancla para nadar, hacer snorkel o salir en paddle surf.
 
-## Qué verás bajo el agua
+## Qué incluye
 
-- **Praderas de posidonia**: la planta marina responsable de la transparencia del agua y del oxígeno del Mediterráneo. El guía explica por qué está protegida.
-- **Peces**: sargos, doradas, salpas en bancos, serranos, castañuelas y, en las grietas, morenas. En la reserva no se pesca y los peces no huyen.
-- **Fondo rocoso**: cuevas y pasos entre rocas a 3-8 metros de profundidad, perfectos para snorkel sin bajar.
+- Patrón, combustible y velero para grupos de hasta 11 personas.
+- Gafas de snorkel y tablas de paddle surf.
+- Degustación y una copa de vino o refresco a bordo.
+
+## La vuelta
+
+El regreso se hace con la **puesta de sol** desde la proa del barco. Por eso la hora de salida cambia según la época del año: compruébala al reservar.
 
 ## Para quién es
 
-- Quien sabe nadar y quiere ver la reserva de verdad, no solo la playa principal.
-- Familias con niños desde 8 años.
-
-## Cómo encajarlo en el día
-
-Reserva la salida de la mañana (mejor visibilidad), come el caldero en el puerto y pasea por el pueblo amurallado antes de la vuelta en ferry.
+Parejas y grupos pequeños que quieren conocer Tabarca desde el mar, sin las aglomeraciones del ferry. Si lo que buscas es pasear por el pueblo amurallado, mejor el ferry.

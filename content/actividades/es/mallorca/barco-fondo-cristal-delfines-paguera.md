@@ -101,6 +101,7 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 3852
 publicada: false
+reemplazadaPor: avistamiento-delfines-alcudia
 destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-25'

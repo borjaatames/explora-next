@@ -1,89 +1,81 @@
 ---
-titulo: 'Ibiza: snorkelling, paddleboarding and sea cave boat tour'
+titulo: 'Ibiza: sea caves boat trip with snorkelling, paddleboarding and tapas'
 slug: ibiza-snorkel-paddleboard-sea-cave-boat-tour
 ciudad: ibiza
-descripcion: 3-hour boat trip from Sant Antoni with two snorkelling and paddleboarding stops at Cala Bassa and Cala Comte, plus a visit to Ibiza's largest sea cave. Drinks included. Rated 4.7/5 from 1,435 reviews.
+descripcion: '3-hour boat trip from Sant Antoni to coves and sea caves: snorkelling, paddleboarding and an underwater scooter, with drinks, fruit and tapas. Hotel pickup included. 4.5/5 from 49 reviews.'
 slugs:
   es: esnorquel-paddle-surf-cueva-marina-ibiza
   en: ibiza-snorkel-paddleboard-sea-cave-boat-tour
 duracion: 3 hours
 duracionMinutos: 180
-precioDesde: 60
+precioDesde: 70
 moneda: EUR
 idiomas:
 - en
-- es
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/es-es/ibiza-l276/ibiza-esnorquel-paddlesurf-playa-y-tour-por-cueva-t24697/?partner_id=C71NOAW
+urlReserva: https://www.getyourguide.com/activity-t1373373/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Snorkelling at Cala Bassa and Cala Comte
-- Paddleboarding from the boat
-- Ibiza's largest sea cave
-- Beer, sangria, wine and soft drinks
-- Free cancellation up to 24 hours before
+- Hidden coves and sea caves along the Sant Antoni coast
+- Snorkel in clear water with gear included
+- Paddleboards and an underwater scooter
+- Drinks, fresh fruit and tapas on board
+- Hotel pickup and drop-off
 incluye:
-- Boat trip with captain and guides
-- Snorkel gear and paddleboards
-- Life jacket for non-swimmers
-- Beer, sangria, white wine, soft drinks and water
-- Insurance
+- Boat trip with crew
+- Snorkelling gear
+- Paddleboards
+- Underwater scooter
+- Drinks, fresh fruit and tapas
+- Towel and sunscreen
+- Hotel pickup and drop-off
 noIncluye:
-- Hotel pickup
-- Food
-- Photos
 - Tips
 puntoEncuentro:
-  texto: Snorkel boat meeting point, Sant Antoni de Portmany harbour.
-  descripcionGuia: The exact spot is in your confirmation. Arrive 15 minutes early.
-  latitud: 38.9795
-  longitud: 1.3058
+  texto: Carrer Bisbe Cardona 3, Sant Antoni de Portmany (Jet Ski Ibiza Es Vedrà)
+  descripcionGuia: 'Meeting point at Jet Ski Ibiza Es Vedrà Tours, Carrer Bisbe Cardona 3, Sant Antoni. Hotel pickup and drop-off are included: check the time on your voucher.'
+  latitud: 38.9805
+  longitud: 1.3045
   zoom: 16
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
-  - Swimwear
-  - Towel
+  - Swimsuit on
+  - Shoes that can get wet
   noAptoPara:
-  - People with reduced mobility
-  - Wheelchair users
+  - Non-swimmers (for the swim)
   aTenerEnCuenta:
-  - Cave entry depends on sea conditions
-  - Stops may change due to wind, waves or jellyfish
-  - Each stop lasts about 45 minutes
+  - The caves and coves visited depend on sea conditions
+  - Towel and sunscreen are provided by the crew
 accesibilidad: Not wheelchair accessible.
 politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
-- pregunta: Do I need to know how to snorkel?
-  respuesta: No, gear and instructions are included; there are life jackets for non-swimmers.
-- pregunta: What will I see underwater?
-  respuesta: Posidonia meadows, octopus, rockfish and schools of fish.
-- pregunta: Do we always enter the cave?
-  respuesta: Only if the sea allows.
-- pregunta: Is food included?
-  respuesta: No, just drinks; you can bring snacks.
-opinionEditorial: 'If you''d rather be in the water than sunbathing, this is your boat: two great snorkel stops and the island''s largest sea cave. Very popular with families.'
+- pregunta: Do we go into the caves?
+  respuesta: The boat approaches the sea caves and, if the sea allows, you can swim or paddle in. It depends on the conditions on the day.
+- pregunta: Is pickup included?
+  respuesta: 'Yes: hotel pickup and drop-off. The exact time is on your voucher.'
+opinionEditorial: 'A very complete half-day plan in Sant Antoni: boat, caves, snorkelling and paddleboarding with tapas, and no transport to worry about.'
 guiasRelacionadas:
 - best-coves-ibiza
 categoria: excursionesDia
 keywords:
-- ibiza snorkel boat
-- snorkelling cala bassa
-- ibiza sea cave
-- ibiza paddleboarding
+- ibiza sea caves boat
+- snorkelling ibiza san antonio
+- ibiza paddleboard boat trip
+- ibiza coves boat tour
 imagen: /images/actividades/ibiza/mar/esnorquel.webp
 imagenAlt: Snorkelling over a seagrass meadow
 galeria:
-- src: "/images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp"
-  alt: "Cala de Ibiza rodeada de pinos con aguas turquesas"
-- src: "/images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp"
-  alt: "Barca varada entre rocas en una cala de Ibiza"
+- src: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
+  alt: Cala de Ibiza rodeada de pinos con aguas turquesas
+- src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
+  alt: Barca varada entre rocas en una cala de Ibiza
 - src: /images/actividades/ibiza/mar/paddle-surf-cala.webp
   alt: Stand-up paddleboarding in a cove
 - src: /images/actividades/ibiza/mar/posidonia.webp
@@ -94,32 +86,26 @@ galeria:
   alt: Seabed with posidonia
 - src: /images/actividades/ibiza/calas/cala-bassa.webp
   alt: Cala Bassa with boats at anchor
-ratingProveedor: 4.7
-numeroOpiniones: 1435
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
-reemplazadaPor: ibiza-sea-kayak-caves-snorkel-cala-codolar
+ratingProveedor: 4.5
+numeroOpiniones: 49
+publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-31'
 ---
 
-## What you will see
+## The trip
 
-- **Posidonia** meadows at Cala Bassa.
-- The turquoise water of **Cala Comte**.
-- Ibiza's largest **sea cave**.
+Three hours on a boat from **Sant Antoni** along Ibiza's west coast: hidden coves, clear water and **sea caves** you can only see from the sea.
 
-## How it works
+## In the water
 
-You leave Sant Antoni, anchor for about 45 minutes at Cala Bassa to snorkel or paddleboard, repeat at Cala Comte and, sea permitting, go into the big sea cave before heading back.
+- **Snorkelling** with gear included.
+- **Paddleboards** and an **underwater scooter** to explore the seabed.
+- Swim stops in the coves, depending on the sea.
 
-## Who I recommend it for
+## On board
 
-- **Families** and **snorkelling** fans.
-- Anyone wanting to try **paddleboarding**.
-
-## Who I don't recommend it for
-
-- Anyone wanting **food included**.
+Drinks, **fresh fruit and tapas**, towels and sunscreen. Hotel pickup and drop-off are included.

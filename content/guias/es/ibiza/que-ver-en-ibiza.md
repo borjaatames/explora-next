@@ -23,7 +23,9 @@ slugs:
 reservasArriba: true
 actividades:
   - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
+  - crucero-es-vedra-sant-antoni
   - ferry-ida-vuelta-ibiza-formentera
+  - fiesta-en-barco-ibiza-dj-sant-antoni
   - crucero-calas-ibiza-paddle-surf-barra-libre
   - barco-atardecer-ibiza-bebidas-bano
 imagen_portada: "/images/guias/que-ver-en-ibiza.jpg"
@@ -38,6 +40,7 @@ imagen_alt: "Dalt Vila, la ciudad alta de Ibiza"
 | --- | --- | --- |
 | [Ruta por calas todo incluido con comida, paddle surf y esnórquel](/ciudades/ibiza/actividades/ruta-calas-ibiza-todo-incluido-paddle-esnorquel) | 4,9★ (1.410) | 60 € |
 | [Crucero por calas con paddle surf, comida y bebidas](/ciudades/ibiza/actividades/crucero-calas-ibiza-paddle-surf-barra-libre) | 4,6★ (3.570) | 52 € |
+| [Barco a Es Vedrà, Espalmador y Formentera con comidas](/ciudades/ibiza/actividades/crucero-es-vedra-sant-antoni) | 4,1★ (1.335) | 155 € |
 | [Paseo en barco al atardecer con bebidas y baño](/ciudades/ibiza/actividades/barco-atardecer-ibiza-bebidas-bano) | 4,8★ (110) | 56 € |
 | [Billete de ferry de ida y vuelta a Formentera](/ciudades/ibiza/actividades/ferry-ida-vuelta-ibiza-formentera) | 4,7★ (322) | 55 € |
 

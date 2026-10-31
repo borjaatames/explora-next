@@ -89,6 +89,7 @@ numeroOpiniones: 1565
 atraccionesRelacionadas:
 - vedra-atardecer
 publicada: false
+reemplazadaPor: fiesta-en-barco-ibiza-dj-sant-antoni
 destacada: false
 fecha: '2026-10-23'
 fecha_actualizacion: '2026-10-23'

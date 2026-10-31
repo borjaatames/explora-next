@@ -1,78 +1,76 @@
 ---
-titulo: 'Tabarca: guided snorkelling tour in the marine reserve'
+titulo: 'Santa Pola: sailing trip to Tabarca with snorkelling and sunset'
 slug: tabarca-snorkeling-tour
 ciudad: alicante
-descripcion: 'Guided snorkelling tour in the Tabarca marine reserve: gear included, two snorkelling spots and an explanation of the seagrass ecosystem. 4.6/5 with 97 reviews.'
+descripcion: '4-hour sailboat trip from Santa Pola to the Tabarca marine reserve: anchor stop to swim, snorkel and paddleboard, a tasting on board and the return at sunset. Groups of up to 11. 4.8/5 from 27 reviews.'
 slugs:
   es: snorkel-tabarca-reserva-marina
   en: tabarca-snorkeling-tour
-duracion: 3 hours
-duracionMinutos: 180
-precioDesde: 50
+duracion: 4 hours
+duracionMinutos: 240
+precioDesde: 85
 moneda: EUR
 idiomas:
-- es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/en-us/activity-t398727/?partner_id=C71NOAW
+urlReserva: https://www.getyourguide.com/activity-t989044/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Spain's first marine reserve, with 15 metres of visibility
-- 'Full gear included: wetsuit, mask, snorkel and fins'
-- Guide who knows the best spots and explains the seagrass
-- Small groups
+- Sail across Santa Pola bay to Tabarca
+- Anchor in the marine reserve to swim, snorkel or paddleboard
+- A glass of wine or soft drink and a food tasting on board
+- Return at sunset from the bow
+- 'Small group: up to 11 people'
 incluye:
-- Snorkelling guide
-- Wetsuit, mask, snorkel and fins
-- Two snorkelling spots in the reserve
-- Insurance
+- Sailboat with skipper
+- Fuel
+- Food tasting and one drink
+- Stand-up paddleboards
+- Snorkel goggles
 noIncluye:
-- Ferry or boat to Tabarca (depending on the option; check when booking)
-- Food
+- Getting to Santa Pola
+- Going ashore on Tabarca (the boat anchors in the reserve)
 puntoEncuentro:
-  texto: Tabarca Island (exact point on your voucher)
-  descripcionGuia: 'Depending on the option chosen, the meeting point is Tabarca harbour or the tour includes the crossing from Santa Pola. Check your voucher: it says whether you need to reach the island on your own.'
-  latitud: 38.1664
-  longitud: -0.479
+  texto: Marina Miramar, Santa Pola marina (North Pier)
+  descripcionGuia: Departure from the Marina Miramar marina in Santa Pola, North Pier. Arrive 15 minutes early; the skipper meets you at the sailboat berth.
+  latitud: 38.1897
+  longitud: -0.5568
   zoom: 15
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
   - Swimsuit on and a towel
-  - Water-resistant sun protection
-  - Water
+  - Hat
+  - Biodegradable sunscreen
   noAptoPara:
-  - Children under 8
-  - Non-swimmers
+  - Non-swimmers (for the swim)
   aTenerEnCuenta:
-  - Visibility is best in the morning and in calm seas
-  - 'Fishing and touching the seabed are banned in the reserve: the guide explains'
-  - Pairs well with the Santa Pola ferry if you book the option without the crossing
-accesibilidad: Not accessible.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+  - 'Departure depends on sea conditions: in bad weather the skipper may change the route or cancel'
+  - Departure time changes with the season to catch the sunset
+  - 'The boat anchors in the reserve: it is not a ferry to Tabarca village'
+accesibilidad: 'Not wheelchair accessible: you board via the sailboat gangway.'
+politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
-- pregunta: What will I see?
-  respuesta: Seagrass meadows (the plant that makes the water so clear), bream, gilthead, salema, moray eels in the crevices and, with luck, octopus and cuttlefish. The reserve has been fishing-free for almost 40 years and the difference from the rest of the coast is obvious.
+- pregunta: Do we go ashore in Tabarca village?
+  respuesta: No. The sailboat anchors in the marine reserve for swimming and snorkelling. To walk around the village, take the ferry from Santa Pola or the boat from Alicante.
 - pregunta: Do I need experience?
-  respuesta: No. You just need to be able to swim; the guide explains the gear and accompanies the group. The wetsuit gives buoyancy.
-- pregunta: Does it include the boat to the island?
-  respuesta: 'It depends on the option you choose when booking: there is a version with the crossing from Santa Pola and a snorkel-only version for those already on Tabarca. Read the GetYourGuide description before confirming.'
-opinionEditorial: If you go to Tabarca, snorkelling is the reason. With a guide and gear you see what you would miss on your own (the good spots are not at the main beach) and understand why seagrass matters. The best way to make the most of the marine reserve.
+  respuesta: No. You only need to swim if you go in the water. Paddleboards and snorkel goggles are included.
+opinionEditorial: 'The most relaxed way to enjoy Tabarca: by sailboat, with few people, swimming where the ferry does not stop. Coming back at sunset is what makes it special.'
 guiasRelacionadas:
 - tabarca-island-how-to-visit
 - what-to-see-in-alicante
 categoria: agua
 keywords:
+- tabarca sailing trip
 - tabarca snorkelling
-- tabarca snorkel tour
-- tabarca marine reserve
-- snorkelling alicante
+- santa pola sailboat
+- tabarca sunset
 imagen: /images/actividades/alicante/tabarca/snorkel-pradera-posidonia.webp
 imagenAlt: Snorkeller swimming over a Posidonia seagrass meadow in the Mediterranean
 galeria:
@@ -96,32 +94,31 @@ galeria:
   alt: Guardia Civil patrol boat off the walls of Tabarca
 - src: /images/actividades/alicante/tabarca/faro-tabarca-campo.webp
   alt: Tabarca lighthouse among wildflower meadows
-ratingProveedor: 4.6
-numeroOpiniones: 97
 atraccionesRelacionadas:
 - tabarca
 - mar
-publicada: false
+ratingProveedor: 4.8
+numeroOpiniones: 27
+publicada: true
 destacada: false
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-25'
+fecha_actualizacion: '2026-10-31'
 ---
 
-## The tour
+## The trip
 
-Three hours of guided snorkelling in the **Tabarca marine reserve**, protected since 1986. One guide, full gear and two snorkelling spots chosen according to sea conditions: usually the eastern coves towards the lighthouse and the shallows off La Cantera islet.
+Four hours on a **sailboat from Santa Pola**. You sail across the bay, past the beaches and the lighthouse cape, to the **Tabarca marine reserve**, Spain's first. The boat anchors there so you can swim, snorkel or paddleboard.
 
-## What you'll see underwater
+## What's included
 
-- **Seagrass meadows**: the marine plant responsible for the water's clarity and the Mediterranean's oxygen. The guide explains why it is protected.
-- **Fish**: bream, gilthead, schools of salema, comber, damselfish and, in the crevices, moray eels. There is no fishing in the reserve and the fish do not flee.
-- **Rocky seabed**: caves and passages between rocks at 3-8 metres, perfect for snorkelling without diving.
+- Skipper, fuel and sailboat for groups of up to 11.
+- Snorkel goggles and paddleboards.
+- A food tasting and a glass of wine or soft drink on board.
+
+## The way back
+
+You return at **sunset**, watching it from the bow. That is why the departure time changes through the year: check it when booking.
 
 ## Who it's for
 
-- Swimmers who want to see the reserve properly, not just the main beach.
-- Families with children from 8.
-
-## Fitting it into the day
-
-Book the morning departure (best visibility), have the caldero at the harbour and walk the walled village before the ferry back.
+Couples and small groups who want to see Tabarca from the sea, away from the ferry crowds. If you want to walk around the walled village, take the ferry instead.

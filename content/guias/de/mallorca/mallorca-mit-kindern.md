@@ -37,6 +37,7 @@ actividades:
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - cuevas-del-drach-desde-alcudia
   - cuevas-del-drach-concierto-barca-desde-palma
+  - avistamiento-delfines-alcudia
   - forestal-park-mallorca-aventura
   - western-water-park-magaluf-entrada
   - marineland-mallorca-entrada
@@ -73,7 +74,7 @@ Mit Kindern schlägt der Norden (Alcúdia) den feierfreudigen Südwesten, und ru
 
 **Forestal Park.** Kletterparcours in den Bäumen nahe Palma, mit Kinderrouten, Hängebrücken und der längsten Seilrutsche der Insel. Ideal für Kinder ab etwa 6 Jahren, die sich austoben wollen.
 
-**Glasbodenboot.** Ab Paguera starten etwa zweistündige Fahrten zur Suche nach wilden Delfinen, mit Blick auf den Meeresgrund durch den Rumpf. Ein ruhiger Vormittag für jedes Alter.
+**Delfinbeobachtung.** Ab Alcúdia fahren kleine Boote mit höchstens 12 Personen frühmorgens zu den wilden Delfinen; der Anbieter garantiert mindestens 30 Minuten bei den Tieren. Ab 3 Jahren.
 
 ## Eine Woche mit der Familie (Basis Norden)
 
@@ -84,7 +85,7 @@ Mit Kindern schlägt der Norden (Alcúdia) den feierfreudigen Südwesten, und ru
 | 3 | Drachenhöhlen + Porto Cristo |
 | 4 | Palma: Kathedrale, Bellver und Palma Aquarium |
 | 5 | Wasserpark oder Marineland |
-| 6 | Cala Mondragó oder Cala Agulla (oder Glasbodenboot ab Paguera, wenn ihr im Südwesten wohnt) |
+| 6 | Cala Mondragó oder Cala Agulla (oder Delfinbeobachtung ab Alcúdia, wenn ihr im Norden wohnt) |
 
 ## Wo man mit Kindern isst
 

@@ -1,84 +1,76 @@
 ---
-titulo: 'Sant Antoni: Es Vedrà cruise with drinks and snacks'
+titulo: 'Sant Antoni: boat trip to Es Vedrà, Espalmador and Formentera with meals'
 slug: es-vedra-cruise-sant-antoni
 ciudad: ibiza
-descripcion: 3-hour cruise from Sant Antoni to the Es Vedrà islet along the southwest coast, with a swim stop near Cala d'Hort, two drinks and snacks. Rated 4.6/5 from 375 reviews.
+descripcion: 'Full-day boat trip from Sant Antoni: stop off Es Vedrà, swim at Espalmador and free time in Formentera. Breakfast, paella, dinner and open bar of beer, sangria and soft drinks. 4.1/5 from 1,335 reviews.'
 slugs:
   es: crucero-es-vedra-sant-antoni
   en: es-vedra-cruise-sant-antoni
-duracion: 3 hours
-duracionMinutos: 180
-precioDesde: 25
+duracion: 12 hours
+duracionMinutos: 720
+precioDesde: 155
 moneda: EUR
 idiomas:
 - en
-- es
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/es-es/ibiza-l276/san-antonio-tour-en-barco-a-es-vedra-con-bebidas-y-aperitivos-t1036524/?partner_id=C71NOAW
+urlReserva: https://www.getyourguide.com/activity-t214065/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Es Vedrà seen from the sea
-- Ibiza's southwest coast
-- Swim stop near Cala d'Hort
-- Two drinks and snacks
-- From €25
+- 'Three islands in a day: Ibiza, Espalmador and Formentera'
+- Stop off the islet of Es Vedrà
+- Swim at Espalmador, reachable only by boat
+- Free time in Formentera
+- Breakfast, paella, dinner and a cava toast at sunset
 incluye:
-- 3-hour boat trip
-- Stop off Es Vedrà
-- Swim stop near Cala d'Hort
-- 2 drinks per person (water, soft drink, beer or sangria)
-- Light snacks
-- Boat with shade and toilet
+- Boat with crew
+- Breakfast, lunch (paella) and dinner
+- Open bar of beer, sangria and soft drinks
+- Cava toast at sunset
+- Snorkel mask and tube
+- Paddleboards
 noIncluye:
-- Extra drinks
-- Transport to the meeting point
-- Towels and swim gear
+- Bike, scooter or car rental in Formentera (discounted)
+- Hotel pickup
 puntoEncuentro:
-  texto: Cruceros Portmany kiosk, Sant Antoni de Portmany harbour.
-  descripcionGuia: Be at the Cruceros Portmany kiosk at least 15 minutes early with your booking confirmation.
+  texto: Passeig de ses Fonts, Sant Antoni de Portmany (Excursiones-Ibiza point)
+  descripcionGuia: Departure at 10:00 from the Sant Antoni seafront, at the Excursiones-Ibiza point on Passeig de ses Fonts. Arrive 20 minutes early.
   latitud: 38.9806
-  longitud: 1.302
-  zoom: 16
+  longitud: 1.3036
+  zoom: 15
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
-  - Swimwear
-  - Towel
-  - Sunscreen
-  noAptoPara:
-  - Non-swimmers
-  - People prone to seasickness
+  - Swimsuit, towel and sunscreen
+  - Cash for Formentera
+  - A warm layer for the way back
+  noAptoPara: []
   aTenerEnCuenta:
-  - Depends on sea conditions
-  - No outside food or drink
-  - No pets
-accesibilidad: Check accessibility with the provider.
+  - 'It is a long day: about 12 hours, from 10:00 to late afternoon'
+  - The route may change with sea conditions
+  - The open bar covers beer, sangria and soft drinks
+accesibilidad: Not wheelchair accessible.
 politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
 preguntasFrecuentes:
+- pregunta: Do we go ashore in Formentera?
+  respuesta: 'Yes: there is free time in Formentera and at Espalmador. In Formentera you can rent a bike, scooter or car at a discount.'
 - pregunta: Do we land on Es Vedrà?
-  respuesta: 'No: the islet is a nature reserve, seen from the boat.'
-- pregunta: Where do we swim?
-  respuesta: In a quiet cove near Cala d'Hort.
-- pregunta: What drinks are included?
-  respuesta: Two drinks per person and light snacks.
-- pregunta: Is it good with kids?
-  respuesta: Yes, it's a comfortable boat with shade and a toilet.
-opinionEditorial: Es Vedrà is Ibiza's most magical sight and it's even more striking from the sea. At €25, with a swim and drinks, it's the cheapest way to see it properly.
+  respuesta: 'No. Es Vedrà is a protected islet: the boat gets close for views and photos, but landing is not allowed.'
+opinionEditorial: 'If you only do one boat trip in Ibiza, this one combines the best: Es Vedrà, the water at Espalmador and Formentera, with all meals included. It is pricey, but it is the whole day.'
 guiasRelacionadas:
 - what-to-see-in-ibiza
 - best-coves-ibiza
 categoria: agua
 keywords:
 - es vedra boat trip
-- es vedra from the sea
-- es vedra cruise san antonio
-- cala d'hort boat
+- formentera trip from san antonio
+- es vedra espalmador formentera
+- ibiza full day boat
 imagen: /images/actividades/ibiza/vedra/es-vedra-vedranell.webp
 imagenAlt: Es Vedrà and Es Vedranell from the sea
 galeria:
@@ -96,31 +88,26 @@ galeria:
   alt: Es Vedrà under a starry sky
 - src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
   alt: Es Vedrà through the pines
-ratingProveedor: 4.6
-numeroOpiniones: 375
 atraccionesRelacionadas:
 - vedra-atardecer
-publicada: false
+ratingProveedor: 4.1
+numeroOpiniones: 1335
+publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-31'
 ---
 
-## What you will see
+## The day
 
-- The **Es Vedrà** islet and Es Vedranell.
-- The southwest coast's **cliffs**.
-- A cove near **Cala d'Hort** for a swim.
+Twelve hours on a boat from **Sant Antoni**, leaving at 10:00 with breakfast on board. You cruise down Ibiza's west coast to **Es Vedrà**, the island's most famous islet, then on to **Espalmador** and **Formentera**.
 
-## How it works
+## The stops
 
-You leave Sant Antoni heading south along the west coast to Es Vedrà, where the boat stops for photos. On the way back you stop for a swim near Cala d'Hort.
+- **Es Vedrà:** the boat gets close for views. No landing: it is a protected area.
+- **Espalmador:** a swim in turquoise water on an island reachable only by boat. Snorkel and paddleboard gear is on board.
+- **Formentera:** free time for the beach or to rent a bike, scooter or car at a discount.
 
-## Who I recommend it for
+## Food and drinks
 
-- **Couples** and **families**.
-- Anyone wanting to see **Es Vedrà up close** on a budget.
-
-## Who I don't recommend it for
-
-- Anyone prone to **seasickness** or who can't swim.
+Breakfast, **paella** for lunch, dinner, an open bar of beer, sangria and soft drinks, and a cava toast on the way back at sunset.

@@ -31,6 +31,7 @@ opciones:
   - ficha: cuevas-del-drach-concierto-barca-desde-palma
     etiqueta: Drachenhöhlen
 actividades:
+  - formentor-minibus-barco-mirador-playa
   - catedral-palma-mallorca-entrada
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - cuevas-del-drach-concierto-barca-desde-palma

@@ -113,7 +113,7 @@ ratingProveedor: 4.5
 numeroOpiniones: 0
 
 publicada: false
-reemplazadaPor: "tour-gastronomico-granada-a-pie"
+reemplazadaPor: tour-privado-tapas-granada
 destacada: false
 fecha: "2026-05-16"
 fecha_actualizacion: "2026-05-16"

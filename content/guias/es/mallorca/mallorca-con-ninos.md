@@ -37,6 +37,7 @@ actividades:
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - cuevas-del-drach-desde-alcudia
   - cuevas-del-drach-concierto-barca-desde-palma
+  - avistamiento-delfines-alcudia
   - forestal-park-mallorca-aventura
   - western-water-park-magaluf-entrada
   - marineland-mallorca-entrada
@@ -65,6 +66,7 @@ faq:
 | Tren, tranvía y barco | [Vuelta a la isla con el tren de Sóller](/ciudades/mallorca/actividades/mallorca-vuelta-isla-tren-soller-tranvia-barco), 4,4★ (4.540) | 103 € |
 | Cuevas con concierto en barca | [Cuevas del Drach desde Alcúdia](/ciudades/mallorca/actividades/cuevas-del-drach-desde-alcudia), 4,4★ (616) | 54 € |
 | Cuevas desde Palma | [Cuevas del Drach con concierto y barca](/ciudades/mallorca/actividades/cuevas-del-drach-concierto-barca-desde-palma), 4,4★ (1.489) | 54 € |
+| Delfines en libertad | [Avistamiento de delfines desde Alcúdia](/ciudades/mallorca/actividades/avistamiento-delfines-alcudia), 4,8★ (3.435) | 90 € |
 | Aventura en los árboles | [Forestal Park](/ciudades/mallorca/actividades/forestal-park-mallorca-aventura), 4,8★ (277) | 26 € |
 | Parque acuático | [Western Water Park](/ciudades/mallorca/actividades/western-water-park-magaluf-entrada), 4,3★ (582) | 38 € |
 | Espectáculos con animales | [Marineland](/ciudades/mallorca/actividades/marineland-mallorca-entrada), 4,5★ (786) | 32 € |

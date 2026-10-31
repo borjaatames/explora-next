@@ -105,7 +105,7 @@ numeroOpiniones: 1205
 atraccionesRelacionadas:
 - mar
 publicada: false
-reemplazadaPor: "alicante-parasailing-boat-trip"
+reemplazadaPor: tabarca-snorkeling-tour
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

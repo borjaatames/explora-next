@@ -89,6 +89,7 @@ numeroOpiniones: 1565
 atraccionesRelacionadas:
 - vedra-atardecer
 publicada: false
+reemplazadaPor: ibiza-party-boat-dj-sant-antoni
 destacada: false
 fecha: '2026-10-23'
 fecha_actualizacion: '2026-10-23'

@@ -23,12 +23,15 @@ slugs:
 opciones:
   - ficha: ruta-calas-ibiza-todo-incluido-paddle-esnorquel
     etiqueta: Bestbewertet
+  - ficha: crucero-es-vedra-sant-antoni
+    etiqueta: Ganzer Tag
   - ficha: kayak-cuevas-cala-codolar-esnorquel
     etiqueta: Mit dem Kajak
 actividades:
   - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
   - crucero-calas-ibiza-paddle-surf-barra-libre
   - kayak-cuevas-cala-codolar-esnorquel
+  - crucero-es-vedra-sant-antoni
   - barco-atardecer-ibiza-bebidas-bano
 imagen_portada: "/images/guias/mejores-calas-ibiza.jpg"
 imagen_alt: "Cala Conta mit ihrer Insel auf Ibiza"

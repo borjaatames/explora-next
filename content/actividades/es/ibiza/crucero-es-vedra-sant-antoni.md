@@ -1,84 +1,76 @@
 ---
-titulo: 'Sant Antoni: crucero a Es Vedrà con bebidas y aperitivos'
+titulo: 'Sant Antoni: barco a Es Vedrà, Espalmador y Formentera con comidas'
 slug: crucero-es-vedra-sant-antoni
 ciudad: ibiza
-descripcion: Crucero de 3 horas desde Sant Antoni hasta el islote de Es Vedrà por la costa suroeste, con parada para bañarse cerca de Cala d'Hort, dos bebidas y aperitivos. 4,6/5 con 375 reseñas.
+descripcion: 'Día completo en barco desde Sant Antoni: parada frente a Es Vedrà, baño en Espalmador y tiempo libre en Formentera. Desayuno, paella, cena y barra libre de cerveza, sangría y refrescos. 4,1/5 con 1.335 opiniones.'
 slugs:
   es: crucero-es-vedra-sant-antoni
   en: es-vedra-cruise-sant-antoni
-duracion: 3 horas
-duracionMinutos: 180
-precioDesde: 25
+duracion: 12 horas
+duracionMinutos: 720
+precioDesde: 155
 moneda: EUR
 idiomas:
-- es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/es-es/ibiza-l276/san-antonio-tour-en-barco-a-es-vedra-con-bebidas-y-aperitivos-t1036524/?partner_id=C71NOAW
+urlReserva: https://www.getyourguide.com/es-es/activity-t214065/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Es Vedrà visto desde el mar
-- Costa suroeste de Ibiza
-- Parada para bañarse cerca de Cala d'Hort
-- Dos bebidas y aperitivos
-- Desde 25 €
+- 'Tres islas en un día: Ibiza, Espalmador y Formentera'
+- Parada frente al islote de Es Vedrà
+- Baño en Espalmador, solo accesible en barco
+- Tiempo libre en Formentera
+- Desayuno, paella, cena y brindis con cava al atardecer
 incluye:
-- Paseo en barco de 3 horas
-- Parada frente a Es Vedrà
-- Parada para baño cerca de Cala d'Hort
-- 2 bebidas por persona (agua, refresco, cerveza o sangría)
-- Aperitivos ligeros
-- Barco con sombra y aseo
+- Barco con tripulación
+- Desayuno, comida (paella) y cena
+- Barra libre de cerveza, sangría y refrescos
+- Brindis con cava al atardecer
+- Gafas y tubo de snorkel
+- Tablas de paddle surf
 noIncluye:
-- Bebidas adicionales
-- Transporte al punto de encuentro
-- Toallas y equipo de baño
+- Alquiler de bici, moto o coche en Formentera (con descuento)
+- Recogida en el hotel
 puntoEncuentro:
-  texto: Caseta de Cruceros Portmany, puerto de Sant Antoni de Portmany.
-  descripcionGuia: Llega a la caseta de Cruceros Portmany al menos 15 minutos antes con la confirmación de la reserva.
+  texto: Passeig de ses Fonts, Sant Antoni de Portmany (punto de Excursiones-Ibiza)
+  descripcionGuia: Salida a las 10:00 desde el paseo marítimo de Sant Antoni, en el punto de Excursiones-Ibiza del Passeig de ses Fonts. Llega 20 minutos antes.
   latitud: 38.9806
-  longitud: 1.302
-  zoom: 16
+  longitud: 1.3036
+  zoom: 15
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
 informacionImportante:
   queTraer:
-  - Bañador
-  - Toalla
-  - Crema solar
-  noAptoPara:
-  - Personas que no saben nadar
-  - Personas que se marean
+  - Bañador, toalla y crema solar
+  - Dinero para gastos en Formentera
+  - Ropa de abrigo para la vuelta
+  noAptoPara: []
   aTenerEnCuenta:
-  - Depende de las condiciones del mar
-  - No se puede subir comida ni bebida propia
-  - No se admiten mascotas
-accesibilidad: Consulta la accesibilidad con el proveedor.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
+  - 'Es un día largo: unas 12 horas, de 10:00 a última hora de la tarde'
+  - La ruta puede cambiar según el estado del mar
+  - La barra libre es de cerveza, sangría y refrescos
+accesibilidad: No accesible en silla de ruedas.
+politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso completo.
 preguntasFrecuentes:
+- pregunta: ¿Se baja en Formentera?
+  respuesta: 'Sí: hay tiempo libre en Formentera y en Espalmador. En Formentera puedes alquilar bici, moto o coche con descuento.'
 - pregunta: ¿Se desembarca en Es Vedrà?
-  respuesta: 'No: el islote es reserva natural y se contempla desde el barco.'
-- pregunta: ¿Dónde se baña uno?
-  respuesta: En una cala tranquila cerca de Cala d'Hort.
-- pregunta: ¿Qué incluye de beber?
-  respuesta: Dos bebidas por persona y aperitivos ligeros.
-- pregunta: ¿Va bien con niños?
-  respuesta: Sí, es un barco cómodo con sombra y aseo.
-opinionEditorial: Es Vedrà es la imagen más mágica de Ibiza y desde el mar impresiona todavía más. Por 25 €, con baño y bebidas, es el plan más barato para verlo bien.
+  respuesta: 'No. Es Vedrà es un islote protegido: el barco se acerca para verlo y hacer fotos, pero no se puede desembarcar.'
+opinionEditorial: 'Si solo vas a hacer un barco en Ibiza, este junta lo mejor: Es Vedrà, el agua de Espalmador y Formentera, con todas las comidas incluidas. Es caro, pero es el día entero.'
 guiasRelacionadas:
 - que-ver-en-ibiza
 - mejores-calas-ibiza
 categoria: agua
 keywords:
-- excursion barco es vedra
-- es vedra desde el mar
-- crucero es vedra san antonio
-- barco cala d'hort
+- barco es vedra
+- excursion formentera desde sant antoni
+- es vedra espalmador formentera
+- barco ibiza dia completo
 imagen: /images/actividades/ibiza/vedra/es-vedra-vedranell.webp
 imagenAlt: Es Vedrà y Es Vedranell desde el mar
 galeria:
@@ -96,31 +88,26 @@ galeria:
   alt: Es Vedrà bajo el cielo estrellado
 - src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
   alt: Es Vedrà entre pinos
-ratingProveedor: 4.6
-numeroOpiniones: 375
 atraccionesRelacionadas:
 - vedra-atardecer
-publicada: false
+ratingProveedor: 4.1
+numeroOpiniones: 1335
+publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-10-31'
 ---
 
-## Qué vas a ver
+## El día
 
-- El islote de **Es Vedrà** y Es Vedranell.
-- Los **acantilados** de la costa suroeste.
-- Una cala cerca de **Cala d'Hort** para bañarse.
+Doce horas en barco desde **Sant Antoni**, con salida a las 10:00 y desayuno a bordo. Se bordea la costa oeste de Ibiza hasta **Es Vedrà**, el islote más famoso de la isla, y se sigue hacia **Espalmador** y **Formentera**.
 
-## Cómo funciona
+## Las paradas
 
-Sales de Sant Antoni hacia el sur por la costa oeste hasta Es Vedrà, donde el barco se detiene para fotos. A la vuelta paras a bañarte cerca de Cala d'Hort.
+- **Es Vedrà:** el barco se acerca para verlo de cerca. No se desembarca, porque es un espacio protegido.
+- **Espalmador:** baño en aguas turquesa, en una isla a la que solo se llega en barco. Hay equipo de snorkel y paddle surf.
+- **Formentera:** tiempo libre para la playa o para alquilar bici, moto o coche con descuento.
 
-## A quién se lo recomiendo
+## Comidas y bebidas
 
-- A **parejas** y **familias**.
-- A quien quiere ver **Es Vedrà de cerca** por poco dinero.
-
-## A quién NO se lo recomiendo
-
-- A quien se **marea** o no sabe nadar.
+Desayuno, **paella** para comer, cena, barra libre de cerveza, sangría y refrescos, y brindis con cava a la vuelta, al atardecer.
