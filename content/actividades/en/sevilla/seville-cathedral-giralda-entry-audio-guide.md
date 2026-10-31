@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/seville-l48/cathedral-and-giralda-entry-ticket-with-audio-guide-t1014366/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Combined Cathedral + Giralda entry with downloadable mobile AUDIO GUIDE
 - 'Audio in 5 languages: English, Spanish, Italian, French, German'
@@ -72,7 +71,7 @@ informacionImportante:
   - Likely to sell out — book in advance in July-August and weekends
   - Access to the monument will be with a guide (initial accompaniment); afterwards you enjoy at your own pace
 accesibilidad: 'Seville Cathedral: WHEELCHAIR ACCESSIBLE (entry via Puerta de los Palos, adapted ramp). The GIRALDA IS NOT accessible (35 ramps with no elevator). The operator''s office on Calle Arfe 3 is ground floor with level access. If you use a wheelchair, you can collect the voucher without problems and visit the cathedral, but not the tower.'
-politicaCancelacion: 'FREE cancellation up to 24 hours before the start time — full refund. Within 24 hours: no refunds. If you don''t collect the voucher at least 1h before your access time, you may lose monument access without refund. Date changes subject to availability.'
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed. Collect the voucher at least 1 hour before your access time.'
 preguntasFrecuentes:
 - pregunta: Why do I have to collect the voucher 1h before at Calle Arfe?
   respuesta: 'The operator has a physical office on Calle Arfe 3 (4 min walking from the Cathedral) where they hand you the access ticket, help you download the audio guide if you have technical questions and explain any last-minute information (day schedules, partial closures). It''s an efficient process: arrive at the office, collect in 5 min, walk to the Cathedral and enter at your booked time. If you don''t collect the voucher at least 1h before, you may lose the monument access slot. The reason: the operator needs to activate your access to the Cathedral''s system before your booked time — it''s not a direct-sale ticket, it requires intermediate validation.'

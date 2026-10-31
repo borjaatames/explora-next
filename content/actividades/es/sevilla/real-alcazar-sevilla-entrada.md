@@ -1,8 +1,8 @@
 ---
-titulo: 'Sevilla: entrada al Real Alcázar con acceso prioritario'
+titulo: 'Sevilla: entrada al Real Alcázar'
 slug: real-alcazar-sevilla-entrada
 ciudad: sevilla
-descripcion: Entrada con hora al Real Alcázar de Sevilla, el palacio en uso más antiguo de Europa, sin hacer la cola de taquilla. 4,6/5 con 36.909 opiniones.
+descripcion: Entrada con hora al Real Alcázar de Sevilla, el palacio en uso más antiguo de Europa, comprada online para no hacer la cola de taquilla. 4,6/5 con 36.909 opiniones.
 slugs:
   es: real-alcazar-sevilla-entrada
   en: real-alcazar-seville-entry-ticket
@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t131232/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Acceso con hora al monumento más visitado de Sevilla
 - Palacio de Pedro I, Patio de las Doncellas, Salón de Embajadores
@@ -35,7 +34,7 @@ puntoEncuentro:
   zoom: 15
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
@@ -45,11 +44,12 @@ informacionImportante:
   - 'Sombrero y agua en verano: los jardines no tienen sombra'
   noAptoPara: []
   aTenerEnCuenta:
+  - 'No reembolsable y la confirmación puede tardar hasta 48 horas: reserva en cuanto sepas la fecha'
   - 'La franja horaria es estricta: llega 10-15 minutos antes'
   - Los lunes de abril a septiembre hay entrada gratuita de 18:00 a 19:00, pero las plazas se agotan al instante
   - El Cuarto Real Alto no está incluido y se vende aparte en la web oficial
 accesibilidad: La planta baja y los jardines principales son accesibles. Algunas zonas tienen escalones.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar. GetYourGuide confirma la entrada en un plazo de 48 horas.'
 preguntasFrecuentes:
 - pregunta: ¿Es mejor con guía o por libre?
   respuesta: 'Por libre funciona bien si llevas leído qué ver: el palacio se entiende por sí solo y los jardines son un paseo. Con guía ganas el contexto de la mezcla mudéjar-cristiana. Nuestra guía del Alcázar compara las opciones.'
@@ -57,7 +57,7 @@ preguntasFrecuentes:
   respuesta: 'Entre hora y media y dos horas: 45-60 minutos para los palacios y el resto para los jardines. En primavera, cuando los jardines están en flor, merece la pena alargar.'
 - pregunta: ¿Se puede combinar con la Catedral el mismo día?
   respuesta: Sí, están a 100 metros. Lo cómodo es Alcázar a primera hora y Catedral después de comer, o reservar el pack de 3 monumentos con acceso prioritario.
-avisoReserva: En temporada alta, la cola de taquilla del Alcázar supera las 2 horas
+avisoReserva: Las entradas del Alcázar se agotan con varios días de antelación, también en GetYourGuide
 opinionEditorial: El Alcázar es la visita número uno de Sevilla y la cola de taquilla en temporada pasa de la hora. Con entrada por franja entras a tu hora y te ahorras el sol. Reserva con días de antelación en primavera y Semana Santa.
 guiasRelacionadas:
 - alcazar-de-sevilla-como-visitar

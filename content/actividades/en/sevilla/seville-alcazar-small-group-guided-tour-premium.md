@@ -13,8 +13,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/seville-l48/seville-small-group-alcazar-guided-tour-entry-ticket-t491580/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - PREMIUM SMALL GROUP — maximum 10 people for a more personal and immersive experience
 - Live tour guide in ENGLISH ONLY — Spanish not offered on this product (see standard guided tour for Spanish)

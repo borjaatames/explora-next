@@ -7,7 +7,7 @@ slugs:
   en: seville-cathedral-giralda-guided-tour-priority-access
 duracion: 1 hour
 duracionMinutos: 60
-precioDesde: 40
+precioDesde: 37
 moneda: EUR
 idiomas:
 - en

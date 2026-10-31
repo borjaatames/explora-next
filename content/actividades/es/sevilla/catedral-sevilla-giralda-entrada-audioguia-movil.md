@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.es/seville-l48/cathedral-and-giralda-entry-ticket-with-audio-guide-t1014366/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Entrada combinada Catedral + Giralda con AUDIOGUÍA descargable en app móvil
 - 'Audio en 5 idiomas: español, inglés, italiano, francés, alemán'
@@ -72,7 +71,7 @@ informacionImportante:
   - Likely to sell out — reserva con antelación en julio-agosto y fines de semana
   - El acceso al monumento será con un guía (acompañamiento inicial); después disfrutas a tu ritmo
 accesibilidad: 'Catedral de Sevilla: ACCESIBLE en silla de ruedas (entrada por Puerta de los Palos, rampa adaptada). La GIRALDA NO es accesible (35 rampas sin ascensor). La oficina del operador en Calle Arfe 3 es de planta baja con acceso a nivel. Si vas en silla, puedes recoger el voucher sin problemas y visitar la catedral, pero no la torre.'
-politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes del inicio — reembolso completo. Dentro de las 24 h: sin reembolsos. Si no recoges el voucher al menos 1h antes de tu hora de acceso, puedes perder el acceso al monumento sin reembolso. Cambios de fecha sujetos a disponibilidad.'
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar. Recoge el voucher al menos 1 hora antes de tu hora de acceso.'
 preguntasFrecuentes:
 - pregunta: ¿Por qué tengo que recoger el voucher 1h antes en la Calle Arfe?
   respuesta: 'El operador tiene una oficina física en Calle Arfe 3 (a 4 min andando de la Catedral) donde te entregan el ticket de acceso, te ayudan a descargar la audioguía si tienes dudas técnicas y te explican cualquier información de última hora (horarios del día, cierres parciales). Es un proceso eficiente: llegas a la oficina, recoges en 5 min, andas hasta la Catedral y entras a tu hora reservada. Si no recoges el voucher al menos 1h antes, puedes perder el slot de acceso al monumento. La razón: el operador necesita activar tu acceso al sistema de la Catedral antes de tu hora reservada — no es un ticket de venta directa, requiere validación intermedia.'

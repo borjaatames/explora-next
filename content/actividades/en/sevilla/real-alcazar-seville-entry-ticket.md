@@ -1,8 +1,8 @@
 ---
-titulo: 'Seville: Royal Alcázar entry ticket with priority access'
+titulo: 'Seville: Royal Alcázar entry ticket'
 slug: real-alcazar-seville-entry-ticket
 ciudad: sevilla
-descripcion: Timed entry ticket to the Royal Alcázar of Seville, Europe's oldest palace still in use, skipping the box-office queue. 4.6/5 with 36,909 reviews.
+descripcion: Timed entry ticket to the Royal Alcázar of Seville, Europe's oldest palace still in use, bought online so you skip the box-office queue. 4.6/5 with 36,909 reviews.
 slugs:
   es: real-alcazar-sevilla-entrada
   en: real-alcazar-seville-entry-ticket
@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t131232/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Timed entry to Seville's most visited monument
 - Palace of Pedro I, Courtyard of the Maidens, Hall of Ambassadors
@@ -35,7 +34,7 @@ puntoEncuentro:
   zoom: 15
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
@@ -45,11 +44,12 @@ informacionImportante:
   - 'Hat and water in summer: the gardens have little shade'
   noAptoPara: []
   aTenerEnCuenta:
+  - 'Non-refundable, and confirmation can take up to 48 hours: book as soon as you know your date'
   - 'The time slot is strict: arrive 10-15 minutes early'
   - On Mondays from April to September there is free entry from 6 to 7 pm, but places vanish instantly
   - The Upper Royal Rooms are not included and are sold separately on the official website
 accesibilidad: The ground floor and main gardens are accessible. Some areas have steps.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed. GetYourGuide confirms the ticket within 48 hours.'
 preguntasFrecuentes:
 - pregunta: Guide or self-guided?
   respuesta: 'Self-guided works well if you have read up on what to see: the palace speaks for itself and the gardens are a stroll. A guide adds the context of the Mudéjar-Christian mix. Our Alcázar guide compares the options.'
@@ -57,7 +57,7 @@ preguntasFrecuentes:
   respuesta: 'Between 1.5 and 2 hours: 45-60 minutes for the palaces and the rest for the gardens. In spring, when the gardens are in bloom, it is worth lingering.'
 - pregunta: Can I combine it with the Cathedral on the same day?
   respuesta: Yes, they are 100 metres apart. The easy plan is the Alcázar first thing and the Cathedral after lunch, or book the 3-monument priority pass.
-avisoReserva: In high season, the Alcázar ticket queue tops 2 hours
+avisoReserva: Alcázar tickets usually sell out several days ahead, on GetYourGuide too
 opinionEditorial: The Alcázar is Seville's number one visit and the box-office queue in season exceeds an hour. With a timed ticket you walk in at your time and skip the sun. Book days ahead in spring and at Easter.
 guiasRelacionadas:
 - alcazar-of-seville-how-to-visit

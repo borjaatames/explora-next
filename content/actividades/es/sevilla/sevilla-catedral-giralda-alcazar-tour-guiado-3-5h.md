@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.es/seville-l48/seville-monuments-tour-t89805/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - 3,5 horas — más tiempo que el top vendido t800561 (2,5-3h) para mayor profundidad
 - 'Los 3 monumentos UNESCO en un solo tour: Catedral + Giralda + Real Alcázar'
