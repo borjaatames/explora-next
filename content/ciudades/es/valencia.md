@@ -58,6 +58,8 @@ atracciones:
 chipsFiltros:
   - { label: "Ciudad de las Artes y las Ciencias", tag: "ciudad-artes" }
   - { label: "Centro histórico (Lonja y Catedral)", tag: "centro-historico" }
+metaTitle: 'Qué ver en Valencia: imprescindibles y tours'
+metaDescription: 'Qué ver en Valencia: Ciudad de las Artes y las Ciencias, Lonja de la Seda, Catedral y Miguelete, Albufera y paella. Visitas, excursiones y guías prácticas.'
 ---
 
 Valencia es la **tercera ciudad de España** —unos 800.000 habitantes en el municipio y cerca de 1,6 millones en su área metropolitana— y la capital de la Comunidad Valenciana, asomada al **Mediterráneo** en plena Costa del Azahar.

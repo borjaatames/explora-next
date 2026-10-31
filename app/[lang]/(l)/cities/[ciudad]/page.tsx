@@ -59,8 +59,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       : ` | ${getDictionary(lang).ciudades.tituloIndice}`;
 
   return {
-    title: `${ciudad.nombre}${titleSuffix}`,
-    description: ciudad.descripcion,
+    title: ciudad.metaTitle ?? `${ciudad.nombre}${titleSuffix}`,
+    description: ciudad.metaDescription ?? ciudad.descripcion,
     keywords: ciudad.keywords,
     robots: {
       index: allowIndexing,

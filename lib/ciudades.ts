@@ -32,6 +32,10 @@ export type CiudadFrontmatter = {
   nombre: string;
   slug: string;
   descripcion: string;
+  /** Título SEO (etiqueta <title>), si debe ser distinto del H1. */
+  metaTitle?: string;
+  /** Meta descripción, si debe ser distinta de `descripcion`. */
+  metaDescription?: string;
   /**
    * Resumen breve (2-4 frases) que se muestra como sección "Sobre {ciudad}"
    * al pie de la página de actividades. Versión sintetizada del cuerpo, para
@@ -148,6 +152,8 @@ export async function obtenerCiudad(
     nombre: fm.nombre || slug,
     slug,
     descripcion: fm.descripcion || "",
+    metaTitle: fm.metaTitle,
+    metaDescription: fm.metaDescription,
     resumenActividades: fm.resumenActividades,
     comunidad: fm.comunidad || "",
     imagen: fm.imagen,

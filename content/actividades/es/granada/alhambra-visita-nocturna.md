@@ -130,6 +130,8 @@ guiasRelacionadas:
 - alhambra-como-visitar
 - alhambra-que-tour-elegir
 fecha_actualizacion: '2026-10-25'
+metaTitle: 'Visita nocturna a la Alhambra · Nazaríes · 54 €'
+metaDescription: 'Hora y media por los Palacios Nazaríes iluminados, con guía y sin las multitudes del día. 4,7★. Hay pocas plazas por noche: conviene reservar con semanas de antelación.'
 ---
 
 ## Qué vas a ver

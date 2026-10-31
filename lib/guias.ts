@@ -15,6 +15,10 @@ const guiasRoot = path.join(process.cwd(), "content", "guias");
 export type GuiaFrontmatter = {
   titulo: string;
   descripcion: string;
+  /** Título SEO (etiqueta <title>), si debe ser distinto del H1. */
+  metaTitle?: string;
+  /** Meta descripción, si debe ser distinta de `descripcion`. */
+  metaDescription?: string;
   categoria: string;
   slug: string;
   fecha: string;
@@ -143,6 +147,8 @@ export function obtenerListaGuias(idioma: Idioma): GuiaListItem[] {
       todas.push({
         titulo: fm.titulo || "Sin título",
         descripcion: fm.descripcion || "",
+    metaTitle: fm.metaTitle,
+    metaDescription: fm.metaDescription,
         categoria,
         slug,
         fecha: fm.fecha || "",
@@ -202,6 +208,8 @@ export async function obtenerGuia(
   return {
     titulo: fm.titulo || "Sin título",
     descripcion: fm.descripcion || "",
+    metaTitle: fm.metaTitle,
+    metaDescription: fm.metaDescription,
     categoria,
     slug,
     fecha: fm.fecha || "",
@@ -340,6 +348,8 @@ export function obtenerGuiasDeCiudad(
     guias.push({
       titulo: fm.titulo || "Sin título",
       descripcion: fm.descripcion || "",
+    metaTitle: fm.metaTitle,
+    metaDescription: fm.metaDescription,
       categoria: ciudad,
       slug,
       fecha: fm.fecha || "",

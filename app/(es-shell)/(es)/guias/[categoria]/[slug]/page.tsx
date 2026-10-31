@@ -67,8 +67,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     : `${SITE_URL}${imagenRelativa}`;
 
   return {
-    title: guia.titulo,
-    description: guia.descripcion,
+    title: guia.metaTitle ?? guia.titulo,
+    description: guia.metaDescription ?? guia.descripcion,
     keywords: guia.keywords,
     authors: guia.autor ? [{ name: guia.autor }] : undefined,
     robots: {

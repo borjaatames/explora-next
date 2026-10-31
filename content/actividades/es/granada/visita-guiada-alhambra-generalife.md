@@ -1,8 +1,8 @@
 ---
 titulo: Visita guiada a la Alhambra y los Palacios Nazaríes
 slug: visita-guiada-alhambra-generalife
-metaDescription: Entrada a los Palacios Nazaríes, la Alcazaba y el Generalife con guía oficial y hora reservada. 3 horas. La opción si ya no quedan entradas sueltas.
-metaTitle: Visita guiada a la Alhambra con entrada incluida
+metaDescription: 'Nazaríes, Alcazaba y Generalife en 3 horas con guía oficial y hora reservada. 4,6★ con más de 24.000 opiniones. La solución cuando no quedan entradas sueltas.'
+metaTitle: 'Visita guiada a la Alhambra con entradas · 49 €'
 ciudad: granada
 descripcion: Visita guiada de 3 horas a la Alhambra, los Palacios Nazaríes, la Alcazaba y el Generalife con acceso sin colas y guía oficial. La opción más reservada de Granada.
 slugs:

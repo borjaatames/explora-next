@@ -37,6 +37,19 @@ actividades:
   - catedral-granada-entrada
   - capilla-real-granada-entrada
   - monasterio-cartuja-granada-entrada
+metaTitle: 'Granada en 2 días: ruta con Alhambra y Albaicín'
+metaDescription: 'Itinerario de 2 días por Granada hora a hora: Alhambra (y qué hacer si no quedan entradas), Albaicín al atardecer, Sacromonte, Capilla Real y Cartuja. Precios 2026.'
+faq:
+- pregunta: '¿Son suficientes 2 días para ver Granada?'
+  respuesta: 'Sí, si los organizas bien: el primer día, Alhambra por la mañana, Albaicín al atardecer y zambra en el Sacromonte; el segundo, Capilla Real, Catedral, centro histórico y la Cartuja. Quedan fuera el Parque de las Ciencias, el Hammam y la Huerta de San Vicente.'
+- pregunta: '¿Con cuánta antelación hay que sacar la entrada de la Alhambra?'
+  respuesta: 'Se vende hasta con tres meses de antelación en la web oficial (22,27 €) y en primavera y otoño se agota con unas tres semanas. Tiene hora fija para los Palacios Nazaríes y solo media hora de margen.'
+- pregunta: '¿Qué hago si no quedan entradas para la Alhambra?'
+  respuesta: 'Mira la visita nocturna a los Palacios Nazaríes (12,73 € en la web oficial) o un tour guiado: los operadores tienen su propio cupo de entradas y suelen tener plazas cuando la venta general está agotada.'
+- pregunta: '¿Dónde ver el atardecer en Granada?'
+  respuesta: 'En el Mirador de San Nicolás, en el Albaicín: es público y gratuito, pero llega 45 minutos antes. Diez minutos más arriba, el de San Cristóbal tiene las mismas vistas con la mitad de gente.'
+- pregunta: '¿Las tapas son gratis en Granada?'
+  respuesta: 'Sí, con cada bebida te ponen una tapa gratis. Con tres cañas (de 1,80 a 2,50 € cada una) se come. Si no te la sacan, es mejor buscar otro bar.'
 ---
 
 **Granada en 2 días son justos**, pero bien organizados dan para lo esencial: Alhambra, Albaicín al atardecer, tapas gratis, Capilla Real, la Cartuja barroca y una zambra en el Sacromonte. Dejamos fuera a propósito el Parque de las Ciencias, el Hammam y la Huerta de San Vicente.

@@ -128,6 +128,8 @@ guiasRelacionadas:
 - alhambra-como-visitar
 - alhambra-que-tour-elegir
 fecha_actualizacion: '2026-10-25'
+metaTitle: 'Alhambra y Nazaríes sin colas en grupo reducido'
+metaDescription: 'Visita guiada de 3 horas en grupo reducido, con entrada prioritaria a los Palacios Nazaríes, la Alcazaba y el Generalife. Desde 53 €, 4,6★ con más de 8.600 opiniones.'
 ---
 
 ## Qué vas a ver

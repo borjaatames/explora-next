@@ -44,8 +44,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
   return {
-    title: `${ciudad.nombre} | Guía de viaje`,
-    description: ciudad.descripcion,
+    title: ciudad.metaTitle ?? `${ciudad.nombre} | Guía de viaje`,
+    description: ciudad.metaDescription ?? ciudad.descripcion,
     keywords: ciudad.keywords,
     robots: {
       index: allowIndexing,

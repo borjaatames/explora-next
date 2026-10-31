@@ -111,3 +111,5 @@ Y con la entrada oficial de **Monumentos Andalusíes** (8,48 €) visitas otros 
 ## En una frase
 
 Si la web oficial sale agotada, mira la víspera por la noche y la Granada Card, y si no hay suerte reserva una visita guiada que incluya los Palacios Nazaríes; todo lo demás lo explicamos en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar).
+
+Y para organizar el resto de la visita a la ciudad, la ruta de [Granada en 2 días](/guias/granada/granada-en-2-dias) cuadra la Alhambra con el Albaicín, el Sacromonte y la Cartuja.

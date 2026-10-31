@@ -84,3 +84,4 @@ El cuello de botella real de la Alhambra no es qué tour eliges, es conseguir fr
 - **Nocturna:** si has elegido la visita nocturna, solo se ven los Nazaríes iluminados, no la Alcazaba ni el Generalife. Es la mejor opción si no hay entradas de día o en pleno agosto.
 - **Entrada gratuita o casi:** los menores de 12 no pagan pero necesitan ticket; con la Dobla de Oro (30,48 €) ves también el Bañuelo y las casas árabes del Albaicín durante tres días.
 
+**¿Y el resto de Granada?** La ruta de [Granada en 2 días](/guias/granada/granada-en-2-dias) encaja el tour de la Alhambra con el Albaicín al atardecer, el Sacromonte y la Cartuja.
