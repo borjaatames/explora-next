@@ -16,8 +16,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t54571/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Vistas panorámicas de Barcelona desde 512 metros de altitud
 - El Avió (avión vintage de 1921, el más antiguo del mundo en funcionamiento)
@@ -55,7 +54,7 @@ informacionImportante:
   - El parque cierra con mal tiempo o viento fuerte
   - El Templo del Sagrado Corazón es de visita libre (gratuito), acceso desde el parque
 accesibilidad: Acceso limitado por el terreno en pendiente. Las atracciones principales no son accesibles en silla de ruedas.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Cómo llego al Tibidabo desde el centro?
   respuesta: Autobús T2A desde Plaça de Catalunya (30 min) → Tramvia Blau (tranvía histórico, opcional) → base del funicular → funicular hasta la cima. El funicular no está incluido en la entrada del parque.

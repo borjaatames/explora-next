@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t415156/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Wave pool, lazy river and speed slides
 - Family slides and dedicated children's area
@@ -50,7 +49,7 @@ informacionImportante:
   - Sunbeds cost extra — bring a towel or arrive early
   - Can get very crowded on weekends in July and August
 accesibilidad: Limited wheelchair access due to pool areas and slides.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: When is Aquópolis open?
   respuesta: Aquópolis is a seasonal waterpark, open from mid-June to mid-September. It is closed outside these months. Always verify exact dates with the operator before booking.

@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t400697/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Five themed areas including DC Super Heroes World and Hollywood Boulevard
 - Superman Ride — the park's signature coaster
@@ -52,7 +51,7 @@ informacionImportante:
   - The park is 50 km from Madrid; factor in travel time
   - Some areas may close in low season
 accesibilidad: Wheelchair accessible throughout the park. Some rides have restrictions.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: How far is Parque Warner from Madrid?
   respuesta: About 50 km south, roughly 45 minutes by car or bus. There are direct shuttle buses from Madrid's Estación Sur de Autobuses.

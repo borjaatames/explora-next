@@ -85,7 +85,7 @@ ratingProveedor: 4.3
 numeroOpiniones: 50
 atraccionesRelacionadas:
 - otros-granada
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-23'

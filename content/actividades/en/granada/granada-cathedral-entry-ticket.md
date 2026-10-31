@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t961733/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Spain's first Renaissance cathedral, by Diego de Siloé
 - 45-metre High Chapel with stained glass and portraits of the Catholic Monarchs
@@ -49,7 +48,7 @@ informacionImportante:
   - The Royal Chapel is next door but has its own entrance and hours
   - One hour is enough; two with the Royal Chapel
 accesibilidad: Accessible on the ground floor.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: Does it include the Royal Chapel?
   respuesta: No. They are two monuments with separate tickets and entrances, even though they adjoin. The Royal Chapel, where the Catholic Monarchs are buried, is booked separately.

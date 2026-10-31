@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t413124/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - World Heritage Site and Philip II's great building
 - 'Pantheon of Kings: 26 Spanish monarchs in a marble crypt'
@@ -36,7 +35,7 @@ puntoEncuentro:
   zoom: 15
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
@@ -51,7 +50,7 @@ informacionImportante:
   - 'The ticket office and entrance close 1 h 15 min before closing: at 4:45 PM in winter and 5:45 PM in summer'
   - The official route is one-way and takes about 2 hours
 accesibilidad: Mostly accessible; the Pantheon of Kings has stairs.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: How do I get there from Madrid?
   respuesta: By Cercanías commuter train (lines C-3 and C-8) from Atocha or Chamartín, about 55 minutes, then a 15-minute uphill walk. Or bus 661/664 from the Moncloa interchange, which stops 200 metres from the monastery.

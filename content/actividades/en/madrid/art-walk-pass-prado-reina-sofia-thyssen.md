@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t1314627/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Madrid's three essential museums on one pass
 - Saving versus three single tickets
@@ -51,7 +50,7 @@ informacionImportante:
   - The Prado and the Thyssen close some afternoons; check opening hours before planning
   - The Prado's free hours (6-8 pm) are packed; with the pass you enter at any time
 accesibilidad: All three museums are fully accessible.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: How much do I save?
   respuesta: Single tickets add up to about €41 (Prado 15, Thyssen 14, Reina Sofía 12). The pass costs €38 and saves you three box-office queues. The real saving is time more than money.

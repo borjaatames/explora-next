@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t413124/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Patrimonio de la Humanidad y el gran edificio de Felipe II
 - 'Panteón de Reyes: 26 monarcas españoles en una cripta de mármol'
@@ -36,7 +35,7 @@ puntoEncuentro:
   zoom: 15
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
   accesibleSilla: false
   edadMinima: 0
   mascotasPermitidas: false
@@ -51,7 +50,7 @@ informacionImportante:
   - 'La taquilla y el acceso cierran 1 h 15 min antes: a las 16:45 en invierno y a las 17:45 en verano'
   - El recorrido oficial es de un solo sentido y dura unas 2 horas
 accesibilidad: Accesible en su mayor parte; el Panteón de Reyes tiene escaleras.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Cómo llego desde Madrid?
   respuesta: En Cercanías (líneas C-3 y C-8) desde Atocha o Chamartín, unos 55 minutos, y 15 minutos andando cuesta arriba. O en autobús 661/664 desde el intercambiador de Moncloa, que para a 200 metros del monasterio.

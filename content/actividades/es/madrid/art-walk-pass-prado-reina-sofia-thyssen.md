@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t1314627/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Los tres museos imprescindibles de Madrid en un solo abono
 - Ahorro frente a las tres entradas sueltas
@@ -51,7 +50,7 @@ informacionImportante:
   - El Prado y el Thyssen cierran algunas tardes; comprueba horarios antes de planificar
   - Las horas gratuitas del Prado (18:00-20:00) están saturadas; con el abono entras a cualquier hora
 accesibilidad: Los tres museos son plenamente accesibles.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Cuánto ahorro?
   respuesta: Las entradas sueltas suman unos 41 € (Prado 15, Thyssen 14, Reina Sofía 12). El abono cuesta 38 € y te evita tres colas de taquilla. El ahorro real es tiempo más que dinero.

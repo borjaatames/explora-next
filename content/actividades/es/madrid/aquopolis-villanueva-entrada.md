@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t415156/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Piscina de olas gigante
 - Toboganes de alta velocidad (kamikaze)
@@ -54,7 +53,7 @@ informacionImportante:
   - Los fines de semana en agosto pueden estar muy llenos; mejor ir entre semana
   - El Kamikaze y algunos toboganes tienen restricción de estatura mínima (140 cm)
 accesibilidad: Accesible en silla de ruedas en las zonas comunes. Algunas atracciones no son accesibles.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro. Sin reembolso si el parque cierra por meteorología adversa.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Cómo llego desde Madrid en transporte público?
   respuesta: Autobús especial desde la estación de Moncloa en verano (consulta líneas de interurbano 625 o especiales de temporada). En coche unos 30 minutos por la A-6.

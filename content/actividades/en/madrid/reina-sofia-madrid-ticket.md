@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t249617/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Picasso's Guernica — the most important painting in Spain
 - Works by Salvador Dalí and Joan Miró
@@ -50,7 +49,7 @@ informacionImportante:
   - Photography is allowed in most rooms but prohibited in the Guernica room
   - The museum is huge; plan 2-3 hours minimum for the main collection
 accesibilidad: Fully wheelchair accessible with lifts throughout.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: Where is Guernica in the museum?
   respuesta: Guernica is in Room 206 on the second floor of the Sabatini Building. Head there first — it's the most visited room and gets crowded later in the day.

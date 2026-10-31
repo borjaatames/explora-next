@@ -16,7 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t115369/?partner_id=C71NOAW
 cancelacionGratuita: true
-horasCancelacion: 24
+horasCancelacion: 72
 highlights:
 - PortAventura World con 6 zonas temáticas y Dragon Khan
 - 'Ferrari Land: el único parque temático de Ferrari en Europa'
@@ -57,7 +57,7 @@ informacionImportante:
   - En verano el combo dura mínimo 2 días para aprovechar bien los tres parques
   - El ticket puede ser de días no consecutivos según la modalidad comprada
 accesibilidad: El parque es accesible para sillas de ruedas. Muchas atracciones están adaptadas.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
+politicaCancelacion: 'Cancelación gratuita hasta 72 horas antes, con reembolso completo.'
 preguntasFrecuentes:
 - pregunta: ¿Qué diferencia hay entre este combo y la entrada solo a PortAventura World?
   respuesta: Este combo añade Ferrari Land (parque temático exclusivo de Ferrari con Red Force a 180 km/h) y Caribe Aquatic Park (parque acuático). Es el ticket más completo del complejo y el más recomendable si tienes 2 o más días.

@@ -88,7 +88,7 @@ ratingProveedor: 4.6
 numeroOpiniones: 1565
 atraccionesRelacionadas:
 - vedra-atardecer
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-10-23'
 fecha_actualizacion: '2026-10-23'

@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.es/cordoba-l1689/from-seville-cordoba-trip-with-mezquita-by-high-speed-train-t979945/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - PREMIUM Small-Group MAX 8 personas — experiencia exclusiva
 - Tren AVE Sevilla → Córdoba en 45 MINUTOS (vs. 1h45min en autobús)
@@ -68,7 +67,7 @@ informacionImportante:
   - Reserva con antelación — el cupo de 8 se llena rápido en alta temporada
   - 'Combina con el tour t89625 (estándar autobús + comida) según prioridad: comodidad/exclusividad vs. precio/comida incluida'
 accesibilidad: Marcado como NO apto para silla de ruedas. La estación AVE Sevilla-Santa Justa SÍ es accesible, pero la Mezquita-Catedral y la Judería tienen suelos empedrados y desniveles puntuales. Personas con movilidad reducida que puedan caminar suelen poder manejarlo. Para accesibilidad confirmada, consultar al operador o ir por libre.
-politicaCancelacion: 'Cancelación GRATUITA hasta 24 h antes — reembolso completo. Dentro de 24h: sin reembolsos. Si pierdes el AVE, no hay reembolso ni alternativa garantizada. Llega a Santa Justa 30 min antes del tren.'
+politicaCancelacion: 'Si cancelas hasta 1 horas antes te devuelven el 70 %; después, sin reembolso.'
 preguntasFrecuentes:
 - pregunta: ¿Vale la pena pagar más por el AVE vs. el autobús (t89625)?
   respuesta: 'Depende de tu prioridad. **AVE ahorra 2 HORAS de viaje** — más tiempo en Córdoba, llegada más temprana, vuelta más temprana. **Grupo de 8** vs. 15-30 del estándar = experiencia más exclusiva. **PERO no incluye comida** (almuerzo por libre, ~€20-40 extras). Precio: ~€165 (AVE premium) vs. ~€115 (autobús estándar con comida). Diferencia ~€50. **Recomendación:** si tienes solo 1 día en Sevilla y vas a Córdoba, el AVE da más tiempo útil. Si tienes 2-3 días y la comida tradicional importa, el autobús es mejor.'

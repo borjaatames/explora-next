@@ -16,7 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t115369/?partner_id=C71NOAW
 cancelacionGratuita: true
-horasCancelacion: 24
+horasCancelacion: 72
 highlights:
 - PortAventura — one of Europe's top 5 theme parks
 - Ferrari Land — Europe's tallest vertical launch roller coaster (Red Force)
@@ -60,7 +60,7 @@ informacionImportante:
   - Caribe Aquatic Park is seasonal (typically May–September); confirm before booking
   - The direct train from Barcelona Sants makes this a viable day trip from Barcelona
 accesibilidad: Good overall accessibility. PortAventura has adapted access for all major areas. Wheelchair hire available at the entrance. Not all rides are accessible — check the park map on arrival.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Free cancellation up to 72 hours before, with a full refund.'
 preguntasFrecuentes:
 - pregunta: What is the best roller coaster at PortAventura?
   respuesta: 'Shambhala is the most impressive: Europe''s tallest hypercoaster at 76 metres. Dragon Khan is the classic — 8 inversions, and an icon of European theme parks since 1995. Furius Baco is a launch coaster reaching 135 km/h in 3 seconds.'

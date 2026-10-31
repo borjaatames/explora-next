@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t1026111/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Two of Calatrava's three buildings for under €15
 - Film on a 900 m² concave screen at the Hemisfèric
@@ -49,7 +48,7 @@ informacionImportante:
   - The Science Museum is excellent with children aged 6 to 14
   - If you plan to visit the Oceanogràfic, the 3-in-1 ticket is better value
 accesibilidad: Fully accessible.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: How does it differ from the 3-in-1 ticket?
   respuesta: This one includes the Hemisfèric and the Science Museum (€14); the 3-in-1 adds the Oceanogràfic (€46). The Oceanogràfic is the big draw, but if aquariums are not your thing, this is the right ticket.

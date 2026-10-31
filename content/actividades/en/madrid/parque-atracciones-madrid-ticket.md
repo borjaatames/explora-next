@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t402104/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Abismo — Spain's fastest free-fall tower (85 m)
 - Coaster Altair and other family rides
@@ -48,7 +47,7 @@ informacionImportante:
   - The park does not open every day in low season — check the calendar before booking
   - Abismo is the park's star attraction; expect queues in summer
 accesibilidad: Accessible paths throughout the park.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: What is Abismo?
   respuesta: Abismo is Spain's tallest free-fall tower at 85 metres. You are lifted up and then dropped in a near-vertical fall. It's the park's most popular ride and has long queues in summer.

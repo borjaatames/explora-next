@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t249617/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Guernica de Picasso (sala 206)
 - Colección de Salvador Dalí
@@ -53,7 +52,7 @@ informacionImportante:
   - Entrada gratuita para menores de 18 años y mayores de 65 con pasaporte
   - Sábados de 21h a 21h es también entrada libre para todos
 accesibilidad: Totalmente accesible. Ascensores en todo el edificio, audioguías en braille y en formato accesible.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Dónde está el Guernica de Picasso exactamente?
   respuesta: En la sala 206 del Edificio Sabatini, segunda planta. Es la primera parada que hacen todos los visitantes; hay señalización clara desde la entrada.

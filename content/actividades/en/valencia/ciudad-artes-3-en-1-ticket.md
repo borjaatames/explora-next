@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t488113/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Oceanogràfic — Europe's largest aquarium, with beluga whales and sharks
 - Hemisfèric — IMAX dome cinema with stunning visuals
@@ -51,7 +50,7 @@ informacionImportante:
   - The complex is a 20-minute bus ride from Valencia's old town
   - Plan a full day — all three attractions together need 6–8 hours
 accesibilidad: Fully wheelchair accessible throughout the complex.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: Can I visit all three in one day?
   respuesta: Yes, but it's a full day. The Oceanogràfic alone needs 3–4 hours. Start at opening and plan your Hemisfèric screening time in advance.

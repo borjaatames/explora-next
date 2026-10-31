@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t1026111/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Dos de los tres edificios de Calatrava por menos de 15 €
 - Película en pantalla cóncava de 900 m² en el Hemisfèric
@@ -49,7 +48,7 @@ informacionImportante:
   - El Museu de les Ciències es muy bueno con niños de 6 a 14 años
   - Si vas a entrar en el Oceanogràfic, la entrada combinada de los tres sale más a cuenta
 accesibilidad: Totalmente accesible.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Cuál es la diferencia con la entrada 3 en 1?
   respuesta: Esta incluye Hemisfèric y Museu de les Ciències (14 €); la 3 en 1 añade el Oceanogràfic (46 €). El Oceanogràfic es el gran reclamo, pero si no te interesan los acuarios, esta es la entrada correcta.

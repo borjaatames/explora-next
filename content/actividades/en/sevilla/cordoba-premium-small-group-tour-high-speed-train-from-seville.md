@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/cordoba-l1689/from-seville-cordoba-trip-with-mezquita-by-high-speed-train-t979945/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - PREMIUM Small-Group MAX 8 people — exclusive experience
 - AVE train Seville → Córdoba in 45 MINUTES (vs. 1h45min by bus)
@@ -68,7 +67,7 @@ informacionImportante:
   - Book in advance — 8-person capacity fills up fast in high season
   - 'Combine with tour t89625 (standard bus + meal) depending on priority: comfort/exclusivity vs. price/meal included'
 accesibilidad: Marked as NOT suitable for wheelchair. The Seville-Santa Justa AVE station IS accessible, but the Mezquita-Cathedral and Jewish Quarter have cobblestone floors and occasional level changes. People with reduced mobility who can walk usually manage. For confirmed accessibility, consult operator or go independently.
-politicaCancelacion: 'FREE cancellation up to 24 hours before — full refund. Within 24h: no refunds. If you miss the AVE, no refund or guaranteed alternative. Arrive at Santa Justa 30 min before the train.'
+politicaCancelacion: 'Cancel up to 1 hours before for a 70% refund; after that, no refund.'
 preguntasFrecuentes:
 - pregunta: Is it worth paying more for the AVE vs. the bus (t89625)?
   respuesta: 'Depends on your priority. **AVE saves 2 HOURS of travel** — more time in Córdoba, earlier arrival, earlier return. **Group of 8** vs. 15-30 of the standard = more exclusive experience. **BUT no meal included** (lunch independently, ~€20-40 extra). Price: ~€165 (AVE premium) vs. ~€115 (standard bus with meal). Difference ~€50. **Recommendation:** if you only have 1 day in Seville and go to Córdoba, AVE gives more useful time. If you have 2-3 days and traditional food matters, bus is better.'

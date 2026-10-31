@@ -23,9 +23,7 @@ slugs:
 reservasArriba: true
 actividades:
   - ruta-calas-ibiza-todo-incluido-paddle-esnorquel
-  - crucero-es-vedra-sant-antoni
   - ferry-ida-vuelta-ibiza-formentera
-  - ibiza-fiesta-en-barco-barra-libre
   - crucero-calas-ibiza-paddle-surf-barra-libre
   - barco-atardecer-ibiza-bebidas-bano
 imagen_portada: "/images/guias/que-ver-en-ibiza.jpg"
@@ -40,7 +38,6 @@ imagen_alt: "Dalt Vila, Ibiza's old upper town"
 | --- | --- | --- |
 | [All-inclusive beach hopping with lunch, paddleboarding and snorkelling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4.9★ (1,410) | €60 |
 | [Beach-hopping cruise with paddleboarding, lunch and drinks](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4.6★ (3,570) | €52 |
-| [Es Vedrà cruise with drinks and snacks](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4.6★ (375) | €25 |
 | [Sunset boat trip with drinks and swim stop](/en/cities/ibiza/activities/ibiza-sunset-boat-trip-drinks-swim) | 4.8★ (110) | €56 |
 | [Return ferry ticket to Formentera](/en/cities/ibiza/activities/ibiza-formentera-return-ferry-ticket) | 4.7★ (322) | €55 |
 

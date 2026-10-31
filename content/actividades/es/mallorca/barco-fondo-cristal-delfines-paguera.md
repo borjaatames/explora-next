@@ -100,7 +100,7 @@ galeria:
   alt: Paguera con sus hoteles y montañas al fondo
 ratingProveedor: 4.6
 numeroOpiniones: 3852
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-25'

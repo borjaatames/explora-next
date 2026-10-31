@@ -36,7 +36,6 @@ actividades:
   - catedral-granada-entrada
   - capilla-real-granada-entrada
   - monasterio-cartuja-granada-entrada
-  - monasterio-san-jeronimo-granada-entrada
 ---
 
 **Two days in Granada is tight**, but well organised it covers the essentials: the Alhambra, the Albaicín at sunset, free tapas, the Royal Chapel, the Baroque Cartuja and a zambra in Sacromonte. The Science Park, the Hammam and the Huerta de San Vicente don't fit.

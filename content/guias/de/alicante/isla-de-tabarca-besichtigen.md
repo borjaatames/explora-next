@@ -24,14 +24,11 @@ slugs:
 actividades:
   - ferry-santa-pola-tabarca
   - barco-alicante-isla-tabarca-ida-vuelta
-  - snorkel-tabarca-reserva-marina
 opciones:
   - ficha: ferry-santa-pola-tabarca
     etiqueta: Am günstigsten
   - ficha: barco-alicante-isla-tabarca-ida-vuelta
     etiqueta: Ab Alicante
-  - ficha: snorkel-tabarca-reserva-marina
-    etiqueta: Mit Schnorcheln
 ---
 
 **Tabarca ist der Ausflug, der Alicante einzigartig macht.** Die kleinste bewohnte Insel Spaniens ist zugleich **Meeresschutzgebiet** (das erste des Landes), mit kristallklarem Wasser zum Schnorcheln, einem ummauerten Dorf aus dem 18. Jahrhundert und Reisgerichten direkt am Meer. Dieser Guide erklärt dir, wie du hinkommst, was du unternehmen kannst und wie du den Tag am besten planst.
@@ -56,7 +53,6 @@ Der Schlüssel: Es ist ein Ausflug für einen **halben oder ganzen Tag**, je nac
 | --- | --- | --- | --- |
 | [Fähre ab Santa Pola](/en/cities/alicante/activities/santa-pola-tabarca-ferry) | 9 € | Hin- und Rückfahrt Santa Pola–Tabarca (rund 30 Min. pro Strecke) | Wer die kürzeste und günstigste Überfahrt will |
 | [Boot ab Alicante](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 25 € | Hin- und Rückfahrt ab dem Hafen von Alicante | Wer direkt von Alicante aus fahren will |
-| [Geführtes Schnorcheln im Meeresschutzgebiet](/en/cities/alicante/activities/tabarca-snorkeling-tour) | 50 € | Schnorchel-Guide, Neoprenanzug, Maske, Schnorchel und Flossen, zwei Spots, Versicherung; Überfahrt je nach Option | Wer das Meeresschutzgebiet unter Wasser sehen will |
 
 ## Was man sehen und tun kann
 
@@ -87,7 +83,6 @@ Das typische Gericht ist der **caldero** (Reis in Fischsud mit Felsenfisch und A
 3. **Den Schnorchel vergessen.** Es ist ein Meeresschutzgebiet: das Wasser ist das Beste an Tabarca.
 4. **Mit Schatten rechnen.** Es gibt kaum welchen; bring deinen eigenen mit.
 
-[actividad: snorkel-tabarca-reserva-marina]
 
 ## Typische Fehler
 

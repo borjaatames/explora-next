@@ -38,7 +38,7 @@ puntoEncuentro:
   zoom: 16
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
   edadMinima: 0
 informacionImportante:
   queTraer:

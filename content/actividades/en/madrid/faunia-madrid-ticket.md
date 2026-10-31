@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t402199/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Recreated ecosystems and themed areas with 152 species
 - Penguins, crocodiles, Komodo dragons and tropical birds
@@ -48,7 +47,7 @@ informacionImportante:
   - Faunia is less crowded than the Zoo Aquarium, making it a better choice for a relaxed visit
   - Opening days and hours change by season, and the park closes on some days; check the calendar on faunia.es
 accesibilidad: Fully wheelchair accessible.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: How is Faunia different from Madrid Zoo?
   respuesta: Faunia focuses on recreating full ecosystems rather than housing large collections of animals. It's smaller, less crowded and more educational. The climate-controlled indoor environments (jungle, polar pavilion) are unique.

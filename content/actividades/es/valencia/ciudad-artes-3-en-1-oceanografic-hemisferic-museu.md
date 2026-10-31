@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t488113/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - 'Oceanogràfic: el acuario más grande de Europa (45.000 animales)'
 - 'Hemisfèric: cine IMAX con pantalla hemisférica de 900 m²'
@@ -55,7 +54,7 @@ informacionImportante:
   - El Museu de les Ciències es interactivo; muy recomendable para niños de 6 a 14 años
   - En verano hay espectáculos nocturnos adicionales con coste aparte
 accesibilidad: Totalmente accesible en los tres recintos. El Oceanogràfic tiene zonas con rampas y ascensores.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Cuál es el orden recomendado para visitar los tres recintos?
   respuesta: Oceanogràfic (3-4 horas, empieza aquí cuando abre) → Hemisfèric (1 hora, comprueba horarios de proyección) → Museu de les Ciències (1-2 horas, cierra más tarde).

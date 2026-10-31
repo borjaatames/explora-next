@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t962086/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Tumbas de Isabel y Fernando, Juana la Loca y Felipe el Hermoso
 - Sepulcros de mármol de Carrara y la reja de Bartolomé de Jaén
@@ -49,7 +48,7 @@ informacionImportante:
   - Los domingos por la mañana cierra por el culto
   - 'Es pequeña: 45 minutos bastan; combínala con la Catedral'
 accesibilidad: Accesible salvo la cripta, que tiene escaleras.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Quién está enterrado aquí?
   respuesta: Los Reyes Católicos, Isabel y Fernando; su hija Juana la Loca y su marido Felipe el Hermoso; y el infante Miguel, nieto de los reyes. Los sepulcros de mármol están en la capilla y los ataúdes de plomo, en la cripta.

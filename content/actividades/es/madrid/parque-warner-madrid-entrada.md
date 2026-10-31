@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t400697/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Superman The Ride (montaña rusa de acero)
 - 'Batman: El Show del Caballero Oscuro'
@@ -53,7 +52,7 @@ informacionImportante:
   - El parque cierra en invierno algunos días; consulta el calendario antes de ir
   - Los fines de semana de temporada alta pueden superar las 2 horas de espera sin Express
 accesibilidad: Accesible en silla de ruedas. La mayoría de atracciones tienen acceso adaptado.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Cómo llego desde Madrid?
   respuesta: Autobús directo desde la estación de Conde de Casal en Madrid, unos 45 minutos. En coche por la A-4 salida km 22.

@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t961733/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - La primera catedral renacentista de España, obra de Diego de Siloé
 - Capilla Mayor de 45 metros con vidrieras y los retratos de los Reyes Católicos
@@ -49,7 +48,7 @@ informacionImportante:
   - La Capilla Real está pegada pero tiene entrada propia y horarios distintos
   - Una hora es suficiente; con la Capilla Real, dos
 accesibilidad: Accesible en planta baja.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Incluye la Capilla Real?
   respuesta: No. Son dos monumentos con entradas y accesos distintos aunque estén pegados. La Capilla Real, donde están enterrados los Reyes Católicos, se reserva aparte.

@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t962086/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Tombs of Isabella and Ferdinand, Joanna the Mad and Philip the Handsome
 - Carrara marble sepulchres and Bartolomé de Jaén's grille
@@ -49,7 +48,7 @@ informacionImportante:
   - Closed on Sunday mornings for services
   - 'It is small: 45 minutes is enough; combine it with the Cathedral'
 accesibilidad: Accessible except the crypt, which has stairs.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: Who is buried here?
   respuesta: The Catholic Monarchs, Isabella and Ferdinand; their daughter Joanna the Mad and her husband Philip the Handsome; and Prince Miguel, the monarchs' grandson. The marble sepulchres are in the chapel and the lead coffins in the crypt.

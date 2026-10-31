@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t402104/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Abismo (caída libre de 55 m)
 - Tornado (coaster de suspenso invertido)
@@ -53,7 +52,7 @@ informacionImportante:
   - La zona de agua abre solo en temporada de verano
   - En invierno el parque opera en horario reducido y puede cerrar entre semana
 accesibilidad: Accesible en silla de ruedas con caminos adaptados.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Cómo llego al Parque de Atracciones?
   respuesta: Metro L10 hasta Batán y 10 min a pie. En verano, el teleférico desde el Paseo de Rosales es una opción pintoresca.

@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/madrid-l46/madrid-entrada-al-zoo-aquarium-de-madrid-t402103/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Giant pandas — one of only a few zoos in Europe with them
 - Over 6,000 animals across 500 species
@@ -50,7 +49,7 @@ informacionImportante:
   - Dolphin and sea lion shows have fixed schedules — check the programme at the entrance
   - The zoo covers a large area; wear comfortable shoes
 accesibilidad: Fully wheelchair-accessible paths throughout the zoo.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: Does the zoo have giant pandas?
   respuesta: Yes. Madrid Zoo is one of the few in Europe with giant pandas. As of 2024, it has three pandas. The enclosure is one of the most visited spots in the zoo.

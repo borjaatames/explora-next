@@ -37,7 +37,6 @@ actividades:
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - cuevas-del-drach-desde-alcudia
   - cuevas-del-drach-concierto-barca-desde-palma
-  - barco-fondo-cristal-delfines-paguera
   - forestal-park-mallorca-aventura
   - western-water-park-magaluf-entrada
   - marineland-mallorca-entrada

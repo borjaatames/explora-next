@@ -40,7 +40,7 @@ puntoEncuentro:
   zoom: 16
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
   accesibleSilla: true
   edadMinima: 0
   mascotasPermitidas: false

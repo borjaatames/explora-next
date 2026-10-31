@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t446333/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - La columna natural más grande del mundo (32 m de altura, Guinness)
 - Salas de hasta 60 metros de altura iluminadas
@@ -51,7 +50,7 @@ informacionImportante:
   - Solo se visita un tercio de la cueva (las Galerías Turísticas); el resto está reservado a investigación
   - Las pinturas rupestres no están en el recorrido abierto al público
 accesibilidad: 'No accesible: el recorrido tiene unos 400 escalones.'
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso completo.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Cuánto dura la visita?
   respuesta: 'Unos 45 minutos siguiendo la audioguía por las Galerías Turísticas: Sala del Belén, Sala de la Cascada, Sala de los Fantasmas y Sala del Cataclismo, donde está la gran columna.'

@@ -37,7 +37,6 @@ actividades:
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - cuevas-del-drach-desde-alcudia
   - cuevas-del-drach-concierto-barca-desde-palma
-  - barco-fondo-cristal-delfines-paguera
   - forestal-park-mallorca-aventura
   - western-water-park-magaluf-entrada
   - marineland-mallorca-entrada
@@ -66,7 +65,6 @@ faq:
 | Train, tram and boat | [Island tour with the Sóller train](/en/cities/mallorca/activities/mallorca-island-tour-soller-train-tram-boat), 4.4★ (4,540) | €103 |
 | Caves with a boat concert | [Drach Caves from Alcúdia](/en/cities/mallorca/activities/drach-caves-from-alcudia), 4.4★ (616) | €54 |
 | Caves from Palma | [Drach Caves with concert and boat ride](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma), 4.4★ (1,489) | €54 |
-| Wild dolphins | [Glass-bottom boat from Paguera](/en/cities/mallorca/activities/glass-bottom-boat-dolphins-paguera), 4.6★ (3,852) | €40 |
 | Treetop adventure | [Forestal Park](/en/cities/mallorca/activities/forestal-park-mallorca-adventure), 4.8★ (277) | €26 |
 | Water park | [Western Water Park](/en/cities/mallorca/activities/western-water-park-magaluf-ticket), 4.3★ (582) | €38 |
 | Animal shows | [Marineland](/en/cities/mallorca/activities/marineland-mallorca-entry-ticket), 4.5★ (786) | €32 |

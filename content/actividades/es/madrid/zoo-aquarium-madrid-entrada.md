@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/madrid-l46/madrid-entrada-al-zoo-aquarium-de-madrid-t402103/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - Delfines y orcas en el Delfinario
 - Pandas gigantes (Bing Xing y Hua Zuiba)
@@ -54,7 +53,7 @@ informacionImportante:
   - El zoo ocupa 20 hectáreas; necesitas todo el día para verlo bien
   - En verano abre "Zoo Summer Night" con precios diferentes
 accesibilidad: Accesible en silla de ruedas. Caminos pavimentados en todo el recinto.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Cómo llego al Zoo Aquarium?
   respuesta: En metro hasta Lago (L10) y 15 min a pie, o autobús 33 desde Príncipe Pío. En coche, aparcamiento de pago junto al acceso.

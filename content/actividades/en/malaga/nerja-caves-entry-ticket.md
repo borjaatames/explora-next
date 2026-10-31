@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t446333/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - The world's largest natural column (32 m high, Guinness record)
 - Illuminated chambers up to 60 metres high
@@ -51,7 +50,7 @@ informacionImportante:
   - Only a third of the cave is visited (the Tourist Galleries); the rest is reserved for research
   - The cave paintings are not on the public route
 accesibilidad: 'Not accessible: the route has about 400 steps.'
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: How long is the visit?
   respuesta: 'About 45 minutes following the audio guide through the Tourist Galleries: Nativity Hall, Cascade Hall, Hall of the Ghosts and the Cataclysm Hall, home of the great column.'

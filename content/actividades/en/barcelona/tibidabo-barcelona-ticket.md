@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t54571/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - 360° views over Barcelona from 512 metres altitude
 - Historic rides dating back to 1901 alongside modern attractions
@@ -50,7 +49,7 @@ informacionImportante:
   - The park is as much about atmosphere and heritage as it is about rides
   - 'Getting there is part of the experience: tram + funicular journey is scenic'
 accesibilidad: Limited accessibility due to historic park infrastructure. Consult the operator.
-politicaCancelacion: Free cancellation up to 24 hours before with full refund.
+politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: Is Tibidabo open every day?
   respuesta: No. Tibidabo typically opens Thursday to Sunday during the main season and weekends only in low season. Always check the official calendar before booking. Closure on certain days is a common source of disappointment.

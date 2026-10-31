@@ -15,8 +15,7 @@ idiomas:
 - en
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t402199/?partner_id=C71NOAW
-cancelacionGratuita: true
-horasCancelacion: 24
+cancelacionGratuita: false
 highlights:
 - 'Los Polos: réplica de la Antártida con seis especies de pingüino'
 - 'La Jungla: selva tropical cubierta'
@@ -54,7 +53,7 @@ informacionImportante:
   - En verano abre "Noche en Faunia" con precio diferente
   - El parque está en el extremo este de Madrid, zona menos turística
 accesibilidad: Accesible en silla de ruedas. Recorridos adaptados en todos los ecosistemas.
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
+politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Qué diferencia a Faunia del Zoo Aquarium?
   respuesta: Faunia se centra en los ecosistemas naturales recreados (jungla, polos, manglar) y tiene un enfoque más divulgativo. El Zoo tiene más variedad de grandes mamíferos y pandas gigantes.

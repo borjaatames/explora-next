@@ -31,7 +31,6 @@ opciones:
   - ficha: cuevas-del-drach-concierto-barca-desde-palma
     etiqueta: Caves of Drach
 actividades:
-  - formentor-barco-alcudia-faro-playa
   - catedral-palma-mallorca-entrada
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - cuevas-del-drach-concierto-barca-desde-palma
