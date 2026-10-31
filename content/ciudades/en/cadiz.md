@@ -53,7 +53,6 @@ atracciones:
     imagenAlt: "Kitesurfing kites over a beach in Tarifa"
 chipsFiltros:
   - { label: "Old town", tag: "casco-antiguo" }
-  - { label: "Jerez", tag: "jerez" }
   - { label: "White villages", tag: "pueblos-blancos" }
   - { label: "Seville", tag: "sevilla" }
 ---

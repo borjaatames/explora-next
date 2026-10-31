@@ -1,7 +1,7 @@
 ---
 titulo: 'Jerez Tabancos: Private Tapas and Sherry Tour'
 slug: jerez-tabancos-private-sherry-tapas-tour
-ciudad: cadiz
+ciudad: jerez-de-la-frontera
 descripcion: 'A 3-hour private food tour of three Jerez tabancos with a wine expert: three tapas and three drinks per person, taking in some of the city''s most characterful corners.'
 slugs:
   es: tabancos-jerez-tour-privado-tapas-vino
@@ -59,6 +59,9 @@ opinionEditorial: 'Tabancos are Jerez at its most authentic: sherry casks, chalk
 
   It''s private and pricey for two (about €219 each); for four it drops to about €126. No published reviews yet.'
 categoria: toursGastronomicos
+atraccionesRelacionadas:
+- flamenco
+- bodegas
 keywords:
 - jerez tabancos
 - tabanco route jerez

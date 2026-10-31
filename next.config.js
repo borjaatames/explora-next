@@ -400,6 +400,19 @@ const nextConfig = {
       });
     }
 
+    // ── Fichas que cambian de ciudad (31 oct 2026: Jerez deja de estar dentro
+    //    de Cádiz y tiene página propia). Lista fija en lib/fichas-movidas.json.
+    const fichasMovidas = require("./lib/fichas-movidas.json");
+    for (const { idioma, slug, desde, hasta } of fichasMovidas) {
+      const base = idioma === "es" ? "/ciudades" : "/en/cities";
+      const tramo = idioma === "es" ? "actividades" : "activities";
+      redirects.push({
+        source: `${base}/${desde}/${tramo}/${slug}`,
+        destination: `${base}/${hasta}/${tramo}/${slug}`,
+        permanent: true,
+      });
+    }
+
     return redirects;
   },
 };

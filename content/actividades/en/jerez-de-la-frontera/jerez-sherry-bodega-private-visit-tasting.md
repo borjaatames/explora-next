@@ -1,7 +1,7 @@
 ---
 titulo: 'Jerez Sherry Bodega: Private Visit with Tasting and Picasso and Botero Collection'
 slug: jerez-sherry-bodega-private-visit-tasting
-ciudad: cadiz
+ciudad: jerez-de-la-frontera
 descripcion: A 2-hour private guided visit to one of Jerez's largest sherry bodegas, including its private collection of works by Picasso and Botero, with a wine tasting to finish.
 slugs:
   es: bodega-jerez-visita-privada-cata
@@ -62,6 +62,8 @@ opinionEditorial: 'Visiting a bodega is almost a must in Jerez, and doing it pri
 
   For two it''s pricey, about €188 per person; the per-person price falls with group size (about €122 for four). Getting there is up to you. No published reviews yet.'
 categoria: toursGastronomicos
+atraccionesRelacionadas:
+- bodegas
 keywords:
 - private sherry bodega visit jerez
 - real tesoro bodega tour

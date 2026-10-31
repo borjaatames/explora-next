@@ -26,6 +26,7 @@ export const ZONA_DE_CIUDAD: Readonly<Record<string, ZonaCiudades>> = {
   cordoba: "andalucia",
   malaga: "andalucia",
   cadiz: "andalucia",
+  "jerez-de-la-frontera": "andalucia",
   valencia: "mediterraneo",
   alicante: "mediterraneo",
   tarragona: "mediterraneo",

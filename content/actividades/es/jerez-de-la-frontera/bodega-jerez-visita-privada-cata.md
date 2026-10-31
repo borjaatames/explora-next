@@ -1,7 +1,7 @@
 ---
 titulo: 'Bodega de Jerez: visita privada con cata y colección de Picasso y Botero'
 slug: bodega-jerez-visita-privada-cata
-ciudad: cadiz
+ciudad: jerez-de-la-frontera
 descripcion: Visita guiada privada de 2 horas a una de las mayores bodegas de Jerez, con su colección privada de obras de Picasso y Botero, y cata de vinos al final.
 slugs:
   es: bodega-jerez-visita-privada-cata
@@ -62,6 +62,8 @@ opinionEditorial: 'Visitar una bodega es casi obligatorio en Jerez, y hacerlo en
 
   En pareja sale caro, unos 188 € por persona; el precio por persona baja con el grupo (unos 122 € si sois 4). El traslado va por tu cuenta. Aún no tiene opiniones publicadas.'
 categoria: toursGastronomicos
+atraccionesRelacionadas:
+- bodegas
 keywords:
 - visita bodega jerez privada
 - bodega real tesoro visita

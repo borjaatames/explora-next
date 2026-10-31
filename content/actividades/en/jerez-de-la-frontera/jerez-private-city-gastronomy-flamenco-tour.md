@@ -1,7 +1,7 @@
 ---
 titulo: Jerez Private Tour, City, Gastronomy and Flamenco
 slug: jerez-private-city-gastronomy-flamenco-tour
-ciudad: cadiz
+ciudad: jerez-de-la-frontera
 descripcion: Private tour of Jerez with a local guide, historic old town, a tabanco route with wine tasting and lunch, and flamenco in its authentic setting.
 slugs:
   es: tour-privado-jerez-ciudad-gastronomia-flamenco
@@ -43,6 +43,9 @@ detallesPracticos:
 politicaCancelacion: A 100% fee applies if cancelled 1 day or less before the event.
 opinionEditorial: 'Jerez is far better with someone who knows it from the inside, and this private tour nails it: the historic centre in the morning —Cathedral, Alcázar, Plaza del Arenal— and in the afternoon a route through tabancos, the old-school taverns where wine was once sold by the jug and flamenco breaks out unannounced. Tasting, lunch and a private flamenco show included. It''s premium and per group, made to experience Jerez beyond the postcards and at your own pace.'
 categoria: toursCiudad
+atraccionesRelacionadas:
+- flamenco
+- centro
 keywords:
 - jerez private tour gastronomy flamenco
 - jerez tabancos wine tasting private

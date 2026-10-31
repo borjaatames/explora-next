@@ -1,7 +1,7 @@
 ---
 titulo: 'Jerez: visita a la Yeguada de la Cartuja con exhibición'
 slug: yeguada-de-la-cartuja-jerez
-ciudad: cadiz
+ciudad: jerez-de-la-frontera
 descripcion: Visita guiada de 2,5 horas a la Yeguada de la Cartuja, cerca de Jerez, la gran reserva del caballo cartujano, con potros y yeguas en libertad y exhibición en pista. 4,8/5 con 1.073 reseñas.
 slugs:
   es: yeguada-de-la-cartuja-jerez
@@ -67,6 +67,8 @@ opinionEditorial: 'Es una de las visitas mejor valoradas de la provincia y no es
 guiasRelacionadas:
 - cadiz-en-un-dia
 categoria: visitasGuiadas
+atraccionesRelacionadas:
+- caballos
 keywords:
 - yeguada de la cartuja
 - caballo cartujano
@@ -99,8 +101,6 @@ galeria:
   alt: Picadero cubierto de la Yeguada de la Cartuja
 ratingProveedor: 4.8
 numeroOpiniones: 1073
-atraccionesRelacionadas:
-- jerez
 publicada: true
 indexar: false
 destacada: false

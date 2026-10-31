@@ -1,7 +1,7 @@
 ---
 titulo: 'Tabancos de Jerez: tour privado de tapas y vino'
 slug: tabancos-jerez-tour-privado-tapas-vino
-ciudad: cadiz
+ciudad: jerez-de-la-frontera
 descripcion: 'Tour gastronómico privado de 3 horas por tres tabancos de Jerez con un experto en vino: tres tapas y tres vinos por persona, recorriendo algunos de los rincones más característicos de la ciudad.'
 slugs:
   es: tabancos-jerez-tour-privado-tapas-vino
@@ -59,6 +59,9 @@ opinionEditorial: 'Los tabancos son el Jerez más auténtico: botas de vino, tiz
 
   Es privado y en pareja sale caro (unos 219 € por persona); en grupo de 4 baja a unos 126 €. Aún no tiene opiniones publicadas.'
 categoria: toursGastronomicos
+atraccionesRelacionadas:
+- flamenco
+- bodegas
 keywords:
 - tabancos jerez
 - ruta de tabancos jerez

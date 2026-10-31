@@ -1,7 +1,7 @@
 ---
 titulo: 'Jerez: Bodegas Fundador tour with sherry and brandy tasting'
 slug: bodegas-fundador-jerez-tasting-tour
-ciudad: cadiz
+ciudad: jerez-de-la-frontera
 descripcion: Guided visit to Bodegas Fundador, Jerez's oldest winery (1730), with the La Mezquita hall, museum and a sherry and brandy tasting. Rated 4.8/5 from 959 reviews.
 slugs:
   es: bodegas-fundador-jerez-cata
@@ -66,6 +66,9 @@ opinionEditorial: 'If you''re going to try just one sherry in your life, make it
 guiasRelacionadas:
 - cadiz-in-one-day
 categoria: toursGastronomicos
+atraccionesRelacionadas:
+- bodegas
+- centro
 keywords:
 - bodegas fundador
 - jerez winery tour
@@ -90,8 +93,6 @@ galeria:
   alt: Vine-covered lane at a Jerez winery
 ratingProveedor: 4.8
 numeroOpiniones: 959
-atraccionesRelacionadas:
-- jerez
 publicada: true
 destacada: false
 fecha: '2026-10-07'

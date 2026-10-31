@@ -1,7 +1,7 @@
 ---
 titulo: Jerez privado, ciudad, gastronomía y flamenco
 slug: tour-privado-jerez-ciudad-gastronomia-flamenco
-ciudad: cadiz
+ciudad: jerez-de-la-frontera
 descripcion: Tour privado por Jerez con guía local, casco histórico, ruta por tabancos con cata y comida, y flamenco en su ambiente auténtico.
 slugs:
   es: tour-privado-jerez-ciudad-gastronomia-flamenco
@@ -43,6 +43,9 @@ detallesPracticos:
 politicaCancelacion: Se cobra el 100% si se cancela con 1 día o menos de antelación.
 opinionEditorial: 'Jerez se disfruta mucho más con quien lo conoce de dentro, y este privado lo borda: casco histórico por la mañana —Catedral, Alcázar, Plaza del Arenal— y por la tarde una ruta por tabancos, las tabernas de toda la vida donde el vino se servía a granel y el flamenco surge sin avisar. Cata, comida y flamenco privado incluidos. Es premium y por grupo, pensado para vivir Jerez sin postales y a tu ritmo.'
 categoria: toursCiudad
+atraccionesRelacionadas:
+- flamenco
+- centro
 keywords:
 - tour privado jerez gastronomia flamenco
 - visita privada jerez tabancos cata

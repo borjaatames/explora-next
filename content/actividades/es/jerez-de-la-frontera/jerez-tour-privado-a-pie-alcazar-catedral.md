@@ -1,7 +1,7 @@
 ---
 titulo: 'Jerez: tour privado a pie por el casco antiguo con Alcázar y Catedral'
 slug: jerez-tour-privado-a-pie-alcazar-catedral
-ciudad: cadiz
+ciudad: jerez-de-la-frontera
 descripcion: 'Tour privado a pie de 2 horas y media por el casco histórico de Jerez con entradas al Alcázar y a la Catedral: calles Larga y Lancería, convento de Santo Domingo, palacio Domecq y el Gallo Azul.'
 slugs:
   es: jerez-tour-privado-a-pie-alcazar-catedral
@@ -63,6 +63,8 @@ opinionEditorial: 'Jerez se conoce por el vino, pero su casco antiguo esconde mu
 
   En pareja sale por unos 135 € por persona; en grupo de 4, unos 79 €. Aún no tiene opiniones publicadas en este tour.'
 categoria: toursCiudad
+atraccionesRelacionadas:
+- centro
 keywords:
 - tour privado jerez
 - visita guiada jerez de la frontera

@@ -1,7 +1,7 @@
 ---
 titulo: 'Jerez: tour por Bodegas Fundador con cata de jerez y brandy'
 slug: bodegas-fundador-jerez-cata
-ciudad: cadiz
+ciudad: jerez-de-la-frontera
 descripcion: Visita guiada a Bodegas Fundador, la bodega más antigua de Jerez (1730), con la nave La Mezquita, museo y cata de jerez y brandy. 4,8/5 con 959 reseñas.
 slugs:
   es: bodegas-fundador-jerez-cata
@@ -66,6 +66,9 @@ opinionEditorial: 'Si vas a probar un solo jerez en tu vida, que sea en una bode
 guiasRelacionadas:
 - cadiz-en-un-dia
 categoria: toursGastronomicos
+atraccionesRelacionadas:
+- bodegas
+- centro
 keywords:
 - bodegas fundador
 - visita bodega jerez
@@ -90,8 +93,6 @@ galeria:
   alt: Calle con parras de una bodega de Jerez
 ratingProveedor: 4.8
 numeroOpiniones: 959
-atraccionesRelacionadas:
-- jerez
 publicada: true
 destacada: false
 fecha: '2026-10-07'

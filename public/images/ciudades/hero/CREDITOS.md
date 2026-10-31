@@ -13,3 +13,4 @@
 - alicante.webp — foto de Dean Milenkovic, https://unsplash.com/photos/qqAcQNJ9gQ0
 - `lanzarote.webp` — Pexels, Uri Espinosa (Pexels License) — https://www.pexels.com/photo/375378/
 - `fuerteventura.webp` — Wikimedia Commons, Pablosievert (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Dunas_de_Corralejo.jpg
+- `jerez-de-la-frontera.webp` — Wikimedia Commons, Diego Delso (CC BY-SA 4.0) — https://commons.wikimedia.org/wiki/File:Catedral,_Jerez_de_la_Frontera,_Espa%C3%B1a,_2015-12-07,_DD_21-23_HDR.JPG

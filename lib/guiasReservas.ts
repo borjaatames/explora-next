@@ -50,14 +50,27 @@ export function idiomaFichas(idioma: Idioma): Idioma {
  * idioma de la guía como por el slug ES (que es el que usan los shortcodes y
  * el campo `actividades:` de las guías).
  */
+/**
+ * Ciudades cuyas guías pueden citar fichas de la otra (Jerez tuvo sus fichas
+ * dentro de Cádiz hasta el 31 oct 2026 y las guías de Cádiz las siguen citando).
+ * Las fichas de la propia ciudad tienen prioridad.
+ */
+const CIUDADES_VECINAS: Readonly<Record<string, readonly string[]>> = {
+  cadiz: ["jerez-de-la-frontera"],
+  "jerez-de-la-frontera": ["cadiz"],
+};
+
 export function indexarFichasCiudad(
   idioma: Idioma,
   ciudad: string
 ): Map<string, ActividadListItem> {
   const indice = new Map<string, ActividadListItem>();
-  for (const a of obtenerListaActividadesPorCiudad(idiomaFichas(idioma), ciudad)) {
-    indice.set(a.slug, a);
-    if (a.slugs?.es) indice.set(a.slugs.es, a);
+  const ciudades = [...(CIUDADES_VECINAS[ciudad] ?? []), ciudad];
+  for (const c of ciudades) {
+    for (const a of obtenerListaActividadesPorCiudad(idiomaFichas(idioma), c)) {
+      indice.set(a.slug, a);
+      if (a.slugs?.es) indice.set(a.slugs.es, a);
+    }
   }
   return indice;
 }

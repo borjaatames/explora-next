@@ -50,7 +50,6 @@ atracciones:
     imagenAlt: "Cometas de kitesurf en una playa de Tarifa"
 chipsFiltros:
   - { label: "Casco antiguo", tag: "casco-antiguo" }
-  - { label: "Jerez", tag: "jerez" }
   - { label: "Pueblos blancos", tag: "pueblos-blancos" }
   - { label: "Sevilla", tag: "sevilla" }
 ---

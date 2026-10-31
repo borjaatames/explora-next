@@ -54,7 +54,6 @@ atracciones:
     imagenAlt: "Kitesurf-Schirme über einem Strand in Tarifa"
 chipsFiltros:
   - { label: "Altstadt", tag: "casco-antiguo" }
-  - { label: "Jerez", tag: "jerez" }
   - { label: "Weiße Dörfer", tag: "pueblos-blancos" }
   - { label: "Sevilla", tag: "sevilla" }
 ---

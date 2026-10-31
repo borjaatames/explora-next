@@ -43,8 +43,8 @@ actividades:
 | [Guided walking tour of the old town](/en/cities/cadiz/activities/cadiz-guided-walking-tour) | 4.7★ (225) | €20 |
 | [Sunset catamaran cruise with cava](/en/cities/cadiz/activities/cadiz-sunset-catamaran-cruise) | 4.6★ (856) | €24.5 |
 | [Bay of Cádiz catamaran tour](/en/cities/cadiz/activities/cadiz-bay-catamaran-tour) | 4.5★ (453) | €19 |
-| [Jerez: Bodegas Fundador tour with sherry and brandy tasting](/en/cities/cadiz/activities/bodegas-fundador-jerez-tasting-tour) | 4.8★ (959) | €18 |
-| [Jerez: Yeguada de la Cartuja stud tour and show](/en/cities/cadiz/activities/yeguada-de-la-cartuja-jerez-tour) | 4.8★ (1,073) | €19.5 |
+| [Jerez: Bodegas Fundador tour with sherry and brandy tasting](/en/cities/jerez-de-la-frontera/activities/bodegas-fundador-jerez-tasting-tour) | 4.8★ (959) | €18 |
+| [Jerez: Yeguada de la Cartuja stud tour and show](/en/cities/jerez-de-la-frontera/activities/yeguada-de-la-cartuja-jerez-tour) | 4.8★ (1,073) | €19.5 |
 | [White villages of the Sierra day trip](/en/cities/cadiz/activities/white-villages-day-trip-from-cadiz) | 4.6★ (58) | €68 |
 
 The key to Cádiz isn't a monument, it's the **light** and the **sea on all four sides**. It's the "Tacita de Plata" (little silver cup), a city of wit, fry shops and sunsets at La Caleta. Whoever sees it only in passing from Seville takes home half the city; whoever stays for sunset takes home the other half, which is the best part.

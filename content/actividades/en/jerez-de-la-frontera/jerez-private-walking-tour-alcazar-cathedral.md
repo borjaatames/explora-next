@@ -1,7 +1,7 @@
 ---
 titulo: 'Jerez: Private Old Town Walking Tour with the Alcázar and Cathedral'
 slug: jerez-private-walking-tour-alcazar-cathedral
-ciudad: cadiz
+ciudad: jerez-de-la-frontera
 descripcion: 'A 2.5-hour private walking tour of Jerez''s historic centre with tickets to the Alcázar and the Cathedral: Calle Larga and Lancería, the Santo Domingo convent, the Domecq palace and the Gallo Azul.'
 slugs:
   es: jerez-tour-privado-a-pie-alcazar-catedral
@@ -63,6 +63,8 @@ opinionEditorial: 'Jerez is famous for sherry, but its old town hides much more:
 
   For two it''s about €135 per person; for four, about €79. No published reviews for this tour yet.'
 categoria: toursCiudad
+atraccionesRelacionadas:
+- centro
 keywords:
 - private tour jerez
 - jerez de la frontera guided tour
