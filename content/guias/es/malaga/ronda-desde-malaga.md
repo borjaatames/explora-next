@@ -44,7 +44,7 @@ faq:
 | --- | --- | --- | --- |
 | Coche propio o de alquiler | 1 h 45 | Gasolina y aparcamiento | Quien quiere libertad y conducir por la sierra |
 | Autobús | unas 2 h | Billete de línea regular | Viajeros sin coche y sin prisa |
-| [Excursión en grupo](/ciudades/malaga/actividades/ronda-setenil-desde-malaga) | 9 h en total | desde 44 € por persona | Solos y parejas; incluye Setenil |
+| [Excursión en grupo](/ciudades/malaga/actividades/ronda-setenil-desde-malaga) | 9 h en total | desde 34 € por persona | Solos y parejas; incluye Setenil |
 | [Excursión privada](/ciudades/malaga/actividades/ronda-excursion-privada-desde-malaga) | 8 h en total | 580 € (2) · 720 € (4) | Familias y grupos que quieren su ritmo |
 
 En tren no hay conexión directa: hay que hacer transbordo y tarda más que el autobús.

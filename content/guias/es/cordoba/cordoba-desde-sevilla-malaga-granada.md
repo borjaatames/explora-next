@@ -1,7 +1,7 @@
 ---
 titulo: "Córdoba en un día desde Sevilla, Málaga o Granada: cómo ir y qué excursión elegir"
 descripcion: "Cómo hacer Córdoba en un día desde Sevilla, Málaga o Granada: tren, coche, excursión en grupo o privada. Tiempos, precios y qué ver: Mezquita-Catedral, Judería y puente romano."
-respuestaCorta: 'Córdoba se hace muy bien en un día: desde **Sevilla** en unos **45 minutos de AVE** y desde **Málaga** en **algo menos de 1 hora** de tren de alta velocidad; desde **Granada**, unas 2 horas por carretera. Por libre basta con el tren y la entrada a la **Mezquita-Catedral**; en grupo hay excursiones desde 35 € (Málaga) o 109 € (Sevilla), y en privado desde 432 € para 2 personas saliendo de Sevilla.'
+respuestaCorta: 'Córdoba se hace muy bien en un día: desde **Sevilla** en unos **45 minutos de AVE** y desde **Málaga** en **algo menos de 1 hora** de tren de alta velocidad; desde **Granada**, unas 2 horas por carretera. Por libre basta con el tren y la entrada a la **Mezquita-Catedral**; en grupo hay excursiones desde 76 € (Málaga) o 109 € (Sevilla), y en privado desde 432 € para 2 personas saliendo de Sevilla.'
 categoria: "cordoba"
 slug: "cordoba-desde-sevilla-malaga-granada"
 fecha: "2026-10-30"
@@ -43,7 +43,7 @@ faq:
 | Desde | Tren | Coche | Excursión en grupo | Excursión privada |
 | --- | --- | --- | --- | --- |
 | Sevilla | AVE, unos 45 min | 1 h 30 | [desde 109 €](/ciudades/sevilla/actividades/cordoba-excursion-dia-completo-mezquita-desde-sevilla) · [en AVE, grupo reducido](/ciudades/sevilla/actividades/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla) | [en tren: 432 € (2) · 668 € (4)](/ciudades/sevilla/actividades/cordoba-en-tren-excursion-privada-desde-sevilla) · [en coche: desde 379 € por persona](/ciudades/sevilla/actividades/cordoba-excursion-privada-desde-sevilla) |
-| Málaga | alta velocidad, algo menos de 1 h | 1 h 50 | [desde 35 €](/ciudades/malaga/actividades/cordoba-mezquita-desde-malaga) | [750 € (2) · 920 € (4)](/ciudades/malaga/actividades/cordoba-excursion-privada-desde-malaga) |
+| Málaga | alta velocidad, algo menos de 1 h | 1 h 50 | [desde 76 €](/ciudades/malaga/actividades/cordoba-mezquita-desde-malaga) | [750 € (2) · 920 € (4)](/ciudades/malaga/actividades/cordoba-excursion-privada-desde-malaga) |
 | Granada | — | unas 2 h | — | [800 € (2) · 1.040 € (4)](/ciudades/granada/actividades/cordoba-excursion-privada-desde-granada) |
 | Cádiz | — | 2 h 30 | — | [desde 780 € (2)](/ciudades/cadiz/actividades/cordoba-excursion-privada-desde-cadiz) |
 

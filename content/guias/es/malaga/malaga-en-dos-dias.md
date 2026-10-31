@@ -45,7 +45,7 @@ imagen_alt: "Vista de Málaga desde la Alcazaba"
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
-| [Alcazaba y Teatro Romano con guía](/ciudades/malaga/actividades/alcazaba-teatro-romano-malaga-visita-guiada) | 4,7★ (7.412) | 18 € |
+| [Alcazaba y Teatro Romano con guía](/ciudades/malaga/actividades/alcazaba-teatro-romano-malaga-visita-guiada) | 4,7★ (7.412) | 13 € |
 | [Museo Picasso, entrada con audioguía](/ciudades/malaga/actividades/museo-picasso-malaga-entrada) | 4,5★ (13.842) | 13 € |
 | [Catedral, Alcazaba y Teatro con entradas](/ciudades/malaga/actividades/malaga-esencial-catedral-alcazaba-teatro) | 4,6★ (1.134) | 32,76 € |
 | [Catamarán por la bahía al atardecer](/ciudades/malaga/actividades/catamaran-malaga-atardecer) | 4,4★ (10.537) | 13 € |

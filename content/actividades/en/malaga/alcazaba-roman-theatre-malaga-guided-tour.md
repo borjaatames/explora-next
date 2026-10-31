@@ -8,7 +8,7 @@ slugs:
   en: alcazaba-roman-theatre-malaga-guided-tour
 duracion: 1 h 30 min
 duracionMinutos: 90
-precioDesde: 18
+precioDesde: 13
 moneda: EUR
 idiomas:
 - en

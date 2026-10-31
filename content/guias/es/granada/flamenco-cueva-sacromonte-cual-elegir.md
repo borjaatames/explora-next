@@ -45,7 +45,7 @@ Si has buscado "flamenco Sacromonte Granada" habrás visto que hay cuatro cuevas
 |---|---|---|---|---|
 | [Cueva del Zincalé](/ciudades/granada/actividades/flamenco-cueva-zincale-sacromonte) | 20€ | 50 min | Gestionada directamente por los artistas, formato artesanal | Quien quiere lo más cercano a "ver actuar a la familia que lo gestiona" |
 | [Cueva Los Amayas](/ciudades/granada/actividades/flamenco-cueva-amayas-sacromonte) | 25€ | 1h | Sin escenario ni megafonía, a 3 metros de los bailaores, bebida incluida | El purista: quiere el formato más tradicional, sin artificio |
-| [Cueva La Faraona](/ciudades/granada/actividades/flamenco-cueva-faraona-sacromonte) | 20€ | 1h | La más pequeña (25 plazas), a metro y medio de los artistas | El precio más bajo del grupo, sin renunciar a la cercanía |
+| [Cueva La Faraona](/ciudades/granada/actividades/flamenco-cueva-faraona-sacromonte) | 16€ | 1h | La más pequeña (25 plazas), a metro y medio de los artistas | El precio más bajo del grupo, sin renunciar a la cercanía |
 | [Cuevas Los Tarantos](/ciudades/granada/actividades/flamenco-cuevas-tarantos-sacromonte) | 28€ | 1h | Abierta desde 1972, bebida incluida, elenco amplio, 2.093 reseñas | Primera vez viendo flamenco en cueva: la opción con más margen de error |
 
 ## Cómo elegir en 30 segundos

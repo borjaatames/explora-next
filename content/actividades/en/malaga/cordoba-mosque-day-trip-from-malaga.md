@@ -8,7 +8,7 @@ slugs:
   en: cordoba-mosque-day-trip-from-malaga
 duracion: 8-9 hours
 duracionMinutos: 540
-precioDesde: 35
+precioDesde: 76
 moneda: EUR
 idiomas:
 - en
@@ -66,7 +66,7 @@ preguntasFrecuentes:
   respuesta: Yes, after the guided tour, for lunch and a stroll.
 - pregunta: Do we see the patios?
   respuesta: Only from the street in the Jewish Quarter; the Festival patios have separate tickets.
-opinionEditorial: Córdoba is a very rewarding trip from Málaga, and the Mosque alone is worth the journey. At €35 with tickets and guide included, it's one of the best-value day trips on the Costa del Sol.
+opinionEditorial: Córdoba is a very rewarding trip from Málaga, and the Mosque alone is worth the journey. At €76 with tickets and guide included, it's one of the best-value day trips on the Costa del Sol.
 guiasRelacionadas:
 - day-trips-from-malaga
 atraccionesRelacionadas:

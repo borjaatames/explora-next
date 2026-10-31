@@ -5,6 +5,7 @@ import Link from "next/link";
 import { obtenerCiudad } from "@/lib/ciudades";
 import {
   obtenerActividad,
+  obtenerListaActividadesPorCiudad,
   obtenerTodosLosCaminosActividades,
   type ActividadCompleta,
 } from "@/lib/actividades";
@@ -51,6 +52,7 @@ import { obtenerParecidasConTipo, obtenerPrivadasParaGuia } from "@/lib/recomend
 import BandaVersionPrivada from "@/components/ficha/BandaVersionPrivada";
 import OtrasVersiones from "@/components/ficha/OtrasVersiones";
 import AvisoEntradasAgotadas from "@/components/ficha/AvisoEntradasAgotadas";
+import AlternativaReserva from "@/components/ficha/AlternativaReserva";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -135,6 +137,11 @@ export default async function ActividadPage({ params }: Props) {
 
   const parecidas = obtenerParecidasConTipo(lang, params.ciudad, actividad);
   // Fichas en grupo: la privada equivalente, si la hay (2+ palabras de tema en común).
+  const alternativa = actividad.alternativa
+    ? obtenerListaActividadesPorCiudad(lang, params.ciudad).find(
+        (a) => a.slug === actividad.alternativa?.slug
+      )
+    : undefined;
   const versionPrivada =
     actividad.privada === true
       ? undefined
@@ -445,6 +452,14 @@ export default async function ActividadPage({ params }: Props) {
           horasCancelacion={actividad.horasCancelacion}
           detalles={actividad.detallesPracticos}
         />
+
+        {actividad.alternativa && (
+          <AlternativaReserva
+            alternativa={alternativa}
+            motivo={actividad.alternativa.motivo}
+            idioma={lang}
+          />
+        )}
 
         {actividad.proveedor === "bokun" && (
           <CtaReservaBokun

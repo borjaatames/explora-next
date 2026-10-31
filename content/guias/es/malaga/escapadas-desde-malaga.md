@@ -42,10 +42,10 @@ imagen_alt: "Frigiliana, pueblo blanco de la Axarquía"
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | [Caminito del Rey guiado](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga) | 4,9★ (19.083) | 72 € |
-| [Ronda y Setenil de las Bodegas](/ciudades/malaga/actividades/ronda-setenil-desde-malaga) | 4,7★ (8.742) | 44 € |
+| [Ronda y Setenil de las Bodegas](/ciudades/malaga/actividades/ronda-setenil-desde-malaga) | 4,7★ (8.742) | 34 € |
 | [Cuevas de Nerja, Nerja y Frigiliana](/ciudades/malaga/actividades/cuevas-nerja-frigiliana-desde-malaga) | 4,6★ (3.192) | 69 € |
 | [Gibraltar](/ciudades/malaga/actividades/gibraltar-desde-malaga) | 4,6★ (5.510) | 35 € |
-| [Córdoba con entrada a la Mezquita](/ciudades/malaga/actividades/cordoba-mezquita-desde-malaga) | 4,5★ (753) | 35 € |
+| [Córdoba con entrada a la Mezquita](/ciudades/malaga/actividades/cordoba-mezquita-desde-malaga) | 4,5★ (753) | 76 € |
 
 Además del **Caminito del Rey** (que merece su propia guía: [cómo visitarlo](/guias/malaga/caminito-del-rey-como-visitar)), estas son las escapadas que de verdad compensan.
 

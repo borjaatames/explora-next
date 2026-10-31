@@ -8,7 +8,7 @@ slugs:
   en: teide-quad-tour-from-chio
 duracion: 3 to 4 hours
 duracionMinutos: 180
-precioDesde: 44
+precioDesde: 55
 moneda: EUR
 idiomas:
 - en

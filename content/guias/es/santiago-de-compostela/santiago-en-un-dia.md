@@ -44,7 +44,7 @@ actividades:
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
-| [Tour por la catedral, el museo y el casco antiguo](/ciudades/santiago-de-compostela/actividades/catedral-museo-casco-antiguo-santiago) | 4,8★ (439) | 29 € |
+| [Tour por la catedral, el museo y el casco antiguo](/ciudades/santiago-de-compostela/actividades/catedral-museo-casco-antiguo-santiago) | 4,8★ (439) | 24 € |
 | [Tour a pie por el casco antiguo con guía oficial](/ciudades/santiago-de-compostela/actividades/tour-a-pie-casco-antiguo-santiago) | 4,8★ (356) | 10 € |
 | [Tour por la catedral y el museo sin colas](/ciudades/santiago-de-compostela/actividades/catedral-santiago-museo-tour-guiado) | 4,7★ (2.454) | 25 € |
 | [Tour de tapas con bebidas y música en directo](/ciudades/santiago-de-compostela/actividades/tour-tapas-santiago-musica-directo) | 4,7★ (231) | 45 € |

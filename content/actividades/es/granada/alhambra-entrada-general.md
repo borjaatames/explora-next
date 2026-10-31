@@ -104,6 +104,9 @@ publicada: true
 destacada: true
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-17'
+alternativa:
+  slug: alhambra-sin-esperas-palacios-nazaries
+  motivo: 'Las entradas generales de la Alhambra se agotan con varias semanas de antelación. Si no hay fecha para tu día, las visitas guiadas tienen su propio cupo de entradas, como esta (4,8, Nazaríes incluidos):'
 ---
 
 ## Qué incluye la entrada general

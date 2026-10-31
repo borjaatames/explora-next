@@ -8,7 +8,7 @@ slugs:
   en: santiago-cathedral-museum-old-town-tour
 duracion: 3.5 hours
 duracionMinutos: 210
-precioDesde: 29
+precioDesde: 24
 moneda: EUR
 idiomas:
 - en

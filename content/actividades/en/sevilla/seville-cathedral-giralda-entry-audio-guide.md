@@ -160,6 +160,9 @@ indexar: false
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-10-25'
+alternativa:
+  slug: seville-cathedral-giralda-entry-ticket
+  motivo: 'This ticket with audio guide costs €39 and is rated 3.9. If you just want to get in, the Cathedral and Giralda ticket starts at €17.50 (4.5 from 30,000+ reviews), with an optional audio guide:'
 ---
 
 ## What you'll see

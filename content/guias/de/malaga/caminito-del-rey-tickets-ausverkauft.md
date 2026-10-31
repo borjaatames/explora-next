@@ -48,7 +48,7 @@ Der Caminito del Rey hat eine **begrenzte Tageskapazität** und hat zwischen 201
 | Ticket mit Guide, wenn du auf eigene Faust anreist | [Caminito del Rey: Ticket mit offiziellem Guide](/en/cities/malaga/activities/caminito-del-rey-ticket-official-guide), 4,6★ (16.892) | 30 € |
 | Mit Transfer ab Málaga | [Geführte Tour mit Transfer und Ticket](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga), 4,9★ (19.083) | 72 € |
 | Plan B in der Natur | [Dolmen von Antequera und El Torcal](/en/cities/malaga/activities/antequera-dolmens-el-torcal-day-trip-from-malaga), 4,7★ (102) | 65 € |
-| Plan B mit Dörfern | [Ronda und Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga), 4,7★ (8.742) | 44 € |
+| Plan B mit Dörfern | [Ronda und Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga), 4,7★ (8.742) | 34 € |
 
 ## 1. Schau noch einmal auf die offizielle Website
 

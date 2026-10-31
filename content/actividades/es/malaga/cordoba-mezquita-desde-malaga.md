@@ -8,7 +8,7 @@ slugs:
   en: cordoba-mosque-day-trip-from-malaga
 duracion: 8-9 horas
 duracionMinutos: 540
-precioDesde: 35
+precioDesde: 76
 moneda: EUR
 idiomas:
 - es
@@ -66,7 +66,7 @@ preguntasFrecuentes:
   respuesta: Sí, después de la visita guiada, para comer y pasear.
 - pregunta: ¿Se ven los patios?
   respuesta: Solo desde la calle en la Judería; los patios del Festival tienen entrada aparte.
-opinionEditorial: Córdoba es una visita muy completa desde Málaga y la Mezquita sola ya justifica el viaje. Por 35 € con la entrada y el guía incluidos, es de las excursiones con mejor relación calidad-precio de la Costa del Sol.
+opinionEditorial: Córdoba es una visita muy completa desde Málaga y la Mezquita sola ya justifica el viaje. Por 76 € con la entrada y el guía incluidos, es de las excursiones con mejor relación calidad-precio de la Costa del Sol.
 guiasRelacionadas:
 - escapadas-desde-malaga
 atraccionesRelacionadas:

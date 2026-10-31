@@ -44,7 +44,7 @@ If you've searched "flamenco Sacromonte Granada" you'll have found four differen
 |---|---|---|---|---|
 | [Cueva del Zincalé](/en/cities/granada/activities/flamenco-show-cueva-zincale-sacromonte) | €20 | 50 min | Run directly by the performing artists, artisanal feel | Wanting the closest thing to "watching the family who runs it perform" |
 | [Cueva Los Amayas](/en/cities/granada/activities/flamenco-show-cueva-los-amayas-sacromonte) | €25 | 1h | No stage, no PA system, 3 metres from the dancers, drink included | The purist who wants the most traditional format, no staging |
-| [Cueva La Faraona](/en/cities/granada/activities/flamenco-show-cueva-la-faraona-sacromonte) | €20 | 1h | The smallest (25 seats), a metre and a half from the artists | The lowest price in the group without giving up closeness |
+| [Cueva La Faraona](/en/cities/granada/activities/flamenco-show-cueva-la-faraona-sacromonte) | €16 | 1h | The smallest (25 seats), a metre and a half from the artists | The lowest price in the group without giving up closeness |
 | [Cuevas Los Tarantos](/en/cities/granada/activities/flamenco-show-cuevas-tarantos-sacromonte) | €28 | 1h | Running since 1972, drink included, larger cast, 2,093 reviews | First time seeing flamenco in a cave: the safest bet |
 
 All four offer **free cancellation up to 24 hours before** and none includes transport.

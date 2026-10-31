@@ -59,8 +59,8 @@ La Alhambra es el monumento más visitado de España, y sus entradas se agotan c
 | --- | --- | --- |
 | La más elegida | [Visita guiada a la Alhambra y los Palacios Nazaríes](/ciudades/granada/actividades/visita-guiada-alhambra-generalife), 4,7★ (21.100 opiniones) | 49 € |
 | La más económica con guía | [Entrada y tour guiado con Palacios Nazaríes](/ciudades/granada/actividades/entrada-y-tour-guiado-alhambra), 4,7★ (3.516) | 50 € |
-| Grupo pequeño y sin colas | [Alhambra y Nazaríes sin colas en grupo reducido](/ciudades/granada/actividades/alhambra-palacios-nazaries-sin-colas), 4,7★ (8.443) | 75 € |
-| La mejor valorada | [Tour guiado con entradas](/ciudades/granada/actividades/alhambra-tour-guiado-con-entradas), 4,9★ (1.018) | 84 € |
+| Grupo pequeño y sin colas | [Alhambra y Nazaríes sin colas en grupo reducido](/ciudades/granada/actividades/alhambra-palacios-nazaries-sin-colas), 4,7★ (8.443) | 53 € |
+| La mejor valorada | [Tour guiado con entradas](/ciudades/granada/actividades/alhambra-tour-guiado-con-entradas), 4,9★ (1.018) | 99 € |
 | Algo distinto | [Visita nocturna a los Palacios Nazaríes](/ciudades/granada/actividades/alhambra-visita-nocturna), 4,9★ (288) | 54 € |
 | Ir solo vosotros | [Tour privado](/ciudades/granada/actividades/alhambra-tour-privado), 4,9★ (242) | 280 € |
 | Poco tiempo o presupuesto | [Jardines y Generalife (sin Nazaríes)](/ciudades/granada/actividades/entrada-jardines-alhambra-generalife), 4,5★ (2.256) | 17,5 € |

@@ -121,6 +121,9 @@ galeria:
 guiasRelacionadas:
 - sagrada-familia-que-entrada-elegir
 fecha_actualizacion: '2026-10-25'
+alternativa:
+  slug: sagrada-familia-visita-guiada-grupo-reducido
+  motivo: 'Las entradas y los tours de la Sagrada Familia en GetYourGuide se agotan con una o dos semanas de antelación. Si no hay fecha para tu día, esta visita en grupo reducido (4,7 con más de 3.700 reseñas) incluye la entrada sin colas y tiene su propio cupo:'
 ---
 
 ## Qué vas a ver

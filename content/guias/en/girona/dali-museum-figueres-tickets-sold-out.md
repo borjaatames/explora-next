@@ -50,7 +50,7 @@ The Dalí Theatre-Museum in Figueres sells tickets online by day and time slot, 
 | If you want… | Option | From |
 | --- | --- | --- |
 | A guide, without relying on the official site | [Dalí Theatre-Museum guided tour with entry](/en/cities/girona/activities/dali-theatre-museum-figueres-guided-tour), 4.7★ (105) | €31 |
-| To go from Barcelona with transport sorted | [Girona, Figueres and Cadaqués day trip from Barcelona](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4.7★ (2,352) | €69 |
+| To go from Barcelona with transport sorted | [Girona, Figueres and Cadaqués day trip from Barcelona](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4.7★ (2,352) | €40 |
 
 ## 1. Check the official website again
 

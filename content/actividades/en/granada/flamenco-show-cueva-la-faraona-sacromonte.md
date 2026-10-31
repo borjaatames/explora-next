@@ -8,7 +8,7 @@ slugs:
   es: flamenco-cueva-faraona-sacromonte
 duracion: 1 hour
 duracionMinutos: 60
-precioDesde: 20
+precioDesde: 16
 moneda: EUR
 idiomas:
 - es

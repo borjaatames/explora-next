@@ -7,7 +7,7 @@ slugs:
   en: ramblas-old-town-and-gaudi-houses-walking-tour
 duracion: 2.5 hours
 duracionMinutos: 150
-precioDesde: 38
+precioDesde: 27
 moneda: EUR
 idiomas:
 - en
@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: Are Casa Batlló and Casa Milà included?
   respuesta: ONLY THE EXTERIORS — you walk past them on Passeig de Gràcia and your guide explains the architecture, but you do NOT enter either house. To enter Casa Batlló, book `casa-batllo-entry-with-self-audioguide-tour` (~€34 with audio guide); for Casa Milà, book `casa-mila-la-pedrera-audio-ticket` (€25 official). Many travellers do this walking tour in the morning and then enter one of the Gaudí houses in the afternoon.
 - pregunta: What's the difference vs. t61664 (Old Town & Gothic Quarter Walking Tour)?
-  respuesta: 'Three differences: (1) ROUTE — t448358 covers Gothic Quarter + Passeig de Gràcia (Gaudí Strip) using public transport between them; t61664 stays in the Gothic Quarter only. (2) LANGUAGE — t448358 is ENGLISH ONLY; t61664 offers English + Spanish. (3) PRICE — t448358 is ~€38 (more ground covered, longer); t61664 is ~€20 (Gothic Quarter only). Choose t448358 if you want a city-overview that includes Gaudí; choose t61664 if you want Gothic Quarter depth OR Spanish guide.'
+  respuesta: 'Three differences: (1) ROUTE — t448358 covers Gothic Quarter + Passeig de Gràcia (Gaudí Strip) using public transport between them; t61664 stays in the Gothic Quarter only. (2) LANGUAGE — t448358 is ENGLISH ONLY; t61664 offers English + Spanish. (3) PRICE — t448358 is ~€27 (more ground covered, longer); t61664 is ~€20 (Gothic Quarter only). Choose t448358 if you want a city-overview that includes Gaudí; choose t61664 if you want Gothic Quarter depth OR Spanish guide.'
 - pregunta: Is the headset rental worth it?
   respuesta: Yes, especially on La Rambla and inside La Boqueria market — ambient noise can drown out the guide. €1 onsite is a small investment for a 2.5-hour tour. The headsets are wireless and compatible with most hearing aid systems.
 variantes:
@@ -83,7 +83,7 @@ opinionEditorial: 'The "two birds, one stone" walking tour for Barcelona — 271
   **Language note: this product is ENGLISH ONLY** — no Spanish-speaking guide is available. For Spanish-speaking visitors, the equivalent (smaller-route) Spanish-language alternative is t61664 «Old Town & Gothic Quarter Walking Tour» (In Out Barcelona Tours, English + Spanish, 1,582 reviews at 4.8/5, ~€20). Travellers who want both areas + Spanish guide should book t61664 for the Gothic Quarter and visit Casa Batlló / Casa Milà with their respective Spanish audio guides separately.
 
 
-  **Price comparison:** there is no "official price" for a walking tour combining Gothic Quarter + Passeig de Gràcia (it''s a public urban combination). At ~€38, this product is fair for the format — includes a small-group guide, headsets, public transportation tickets (€2 covered by the tour), and the combined route. A do-it-yourself version would cost less but lose the guide''s narrative.
+  **Price comparison:** there is no "official price" for a walking tour combining Gothic Quarter + Passeig de Gràcia (it''s a public urban combination). At ~€27, this product is fair for the format — includes a small-group guide, headsets, public transportation tickets (€2 covered by the tour), and the combined route. A do-it-yourself version would cost less but lose the guide''s narrative.
 
 
   Two operational notes: **(1)** Casa Batlló and Casa Milà are seen from the EXTERIOR only — interiors not included. Book entry tickets separately if you want interiors. **(2)** Wheelchair accessibility is operator-confirmed but realistic: the Gothic Quarter cobblestones may challenge strict wheelchair users.

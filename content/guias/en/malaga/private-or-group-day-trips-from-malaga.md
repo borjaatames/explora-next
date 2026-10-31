@@ -43,10 +43,10 @@ Coaches leave Málaga every day for Ronda, Nerja, Gibraltar or Córdoba, and alm
 
 | Day trip from Málaga | Group, per person | Private, 2 people | Private, 4 people |
 | --- | --- | --- | --- |
-| [Ronda](/en/cities/malaga/activities/ronda-private-day-trip-from-malaga) | €44 ([with Setenil](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga)) | €290 per person | €180 per person |
+| [Ronda](/en/cities/malaga/activities/ronda-private-day-trip-from-malaga) | €34 ([with Setenil](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga)) | €290 per person | €180 per person |
 | [Nerja and Frigiliana](/en/cities/malaga/activities/nerja-frigiliana-private-day-trip-from-malaga) | €69 ([group](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga)) | €350 per person | €220 per person |
 | [Gibraltar](/en/cities/malaga/activities/gibraltar-private-day-trip-from-malaga) | €35 ([group](/en/cities/malaga/activities/gibraltar-day-trip-from-malaga)) | €380 per person | €240 per person |
-| [Córdoba](/en/cities/malaga/activities/cordoba-private-day-trip-from-malaga) | €35 ([group](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga)) | €375 per person | €230 per person |
+| [Córdoba](/en/cities/malaga/activities/cordoba-private-day-trip-from-malaga) | €76 ([group](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga)) | €375 per person | €230 per person |
 | [Caminito del Rey](/en/cities/malaga/activities/caminito-del-rey-private-transport-from-malaga) | €72 ([guided group](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga)) | €305 per person | €240 per person |
 | [Cádiz](/en/cities/malaga/activities/cadiz-private-day-trip-from-malaga) | — | €366 per person | €250 per person |
 | [Granada and the Alhambra](/en/cities/malaga/activities/granada-alhambra-private-day-trip-from-malaga) | — | €397 per person | €397 per person |

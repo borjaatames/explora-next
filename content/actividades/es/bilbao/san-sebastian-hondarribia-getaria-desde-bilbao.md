@@ -8,7 +8,7 @@ slugs:
   en: san-sebastian-hondarribia-getaria-from-bilbao
 duracion: 10 horas
 duracionMinutos: 600
-precioDesde: 45
+precioDesde: 35
 moneda: EUR
 idiomas:
 - es
@@ -68,7 +68,7 @@ preguntasFrecuentes:
   respuesta: Sí, por tu cuenta y pagando la entrada aparte.
 - pregunta: ¿Hay mucho que andar?
   respuesta: Paseos cortos en cada pueblo; nada exigente.
-opinionEditorial: 'Es la forma más barata de ver lo mejor de la costa de Gipuzkoa en un día: San Sebastián, que es la estrella, y dos pueblos preciosos como Hondarribia y Getaria. El ritmo es rápido, pero por 45 € compensa de sobra.'
+opinionEditorial: 'Es la forma más barata de ver lo mejor de la costa de Gipuzkoa en un día: San Sebastián, que es la estrella, y dos pueblos preciosos como Hondarribia y Getaria. El ritmo es rápido, pero por 35 € compensa de sobra.'
 guiasRelacionadas:
 - escapadas-desde-bilbao
 atraccionesRelacionadas:

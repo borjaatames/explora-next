@@ -8,7 +8,7 @@ slugs:
   en: ronda-setenil-day-trip-from-malaga
 duracion: 9 hours
 duracionMinutos: 540
-precioDesde: 44
+precioDesde: 34
 moneda: EUR
 idiomas:
 - en

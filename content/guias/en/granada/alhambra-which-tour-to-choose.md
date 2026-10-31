@@ -55,8 +55,8 @@ These six listings describe the same route — Alcazaba, Nasrid Palaces and Gene
 | [Entry and guided tour](/en/cities/granada/activities/alhambra-entry-and-guided-tour) | €50 | The cheapest of the six. No extra padding, free time at the end |
 | [Alhambra small group tour](/en/cities/granada/activities/alhambra-small-group-tour) | €65 | Spends more time at the Generalife (close to 1 hour, more than the rest) |
 | [Generalife guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour) | €49 | Standard split across the three areas |
-| [Nasrid Palaces skip the line](/en/cities/granada/activities/alhambra-nasrid-palaces-skip-the-line) | €75 | Same route, mid-high price |
-| [Guided tour with tickets](/en/cities/granada/activities/alhambra-guided-tour-with-tickets) | €83.78 | Same route |
+| [Nasrid Palaces skip the line](/en/cities/granada/activities/alhambra-nasrid-palaces-skip-the-line) | €53 | Same route, mid-high price |
+| [Guided tour with tickets](/en/cities/granada/activities/alhambra-guided-tour-with-tickets) | €99 | Same route |
 | [Skip the wait, Nasrid Palaces](/en/cities/granada/activities/alhambra-skip-the-wait-nasrid-palaces) | €96 | The most expensive of the group, with no content difference to justify it |
 
 **Honest recommendation**: for this standard tour, what actually shapes your experience is your assigned Nasrid Palaces entry time slot (it's the same whichever operator you book through), not the operator itself. Book whichever of these is cheapest and has availability for your date — usually [Entry and guided tour](/en/cities/granada/activities/alhambra-entry-and-guided-tour) (€50) or [Generalife guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour) (€49). The one real difference we found is that [the small group tour](/en/cities/granada/activities/alhambra-small-group-tour) spends more time at the Generalife if the gardens matter more to you than the Palaces.

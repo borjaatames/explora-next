@@ -59,8 +59,8 @@ The Alhambra is Spain's most visited monument, and its tickets sell out weeks in
 | --- | --- | --- |
 | The most popular | [Alhambra and Nasrid Palaces guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4.7★ (21,100 reviews) | €49 |
 | The cheapest with a guide | [Entry and guided tour with the Nasrid Palaces](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4.7★ (3,516) | €50 |
-| Small group, no queues | [Alhambra and Nasrid Palaces skip-the-line small group](/en/cities/granada/activities/alhambra-nasrid-palaces-skip-the-line), 4.7★ (8,443) | €75 |
-| The best rated | [Guided tour with tickets](/en/cities/granada/activities/alhambra-guided-tour-with-tickets), 4.9★ (1,018) | €84 |
+| Small group, no queues | [Alhambra and Nasrid Palaces skip-the-line small group](/en/cities/granada/activities/alhambra-nasrid-palaces-skip-the-line), 4.7★ (8,443) | €53 |
+| The best rated | [Guided tour with tickets](/en/cities/granada/activities/alhambra-guided-tour-with-tickets), 4.9★ (1,018) | €99 |
 | Something different | [Night visit to the Nasrid Palaces](/en/cities/granada/activities/alhambra-night-tour), 4.9★ (288) | €54 |
 | Just your group | [Private tour](/en/cities/granada/activities/alhambra-private-tour), 4.9★ (242) | €280 |
 | Short on time or budget | [Gardens and Generalife (no Nasrid Palaces)](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4.5★ (2,256) | €17.5 |

@@ -8,7 +8,7 @@ slugs:
   es: alhambra-palacios-nazaries-sin-colas
 duracion: 3 hours
 duracionMinutos: 180
-precioDesde: 75
+precioDesde: 53
 moneda: EUR
 idiomas:
 - es
@@ -77,7 +77,7 @@ avisoReserva: Alhambra tickets sell out weeks in advance
 opinionEditorial: 'This visit sits on the middle rung of the catalogue: it costs more than the large-group option, but you join a small group with priority entry. The question isn''t whether it''s good — it is, with over 8,400 reviews and its best score precisely for the guide — but whether the smaller format is worth the price to you.
 
 
-  And here we should be clear: its weakest point in the reviews is value for money. Not because the visit falls short, but because at €75 you''re paying for the group size more than for the content, which is essentially the same as the cheaper options. If you''re travelling as a couple or in a small group and closeness with the guide is what matters, this is a good choice. If you''re on a tight budget and a group of 25-30 people doesn''t put you off, you''ll save a fair amount with another option.
+  And here we should be clear: its weakest point in the reviews is value for money. Not because the visit falls short, but because at €53 you''re paying for the group size more than for the content, which is essentially the same as the cheaper options. If you''re travelling as a couple or in a small group and closeness with the guide is what matters, this is a good choice. If you''re on a tight budget and a group of 25-30 people doesn''t put you off, you''ll save a fair amount with another option.
 
 
   One point in its favour: the information the operator gives before booking is among the most thorough in the catalogue — it makes very clear how the Nasrid Palaces time slot works and that the ticket is nominative. For a first visit to the Alhambra, that level of detail is welcome.
@@ -156,7 +156,7 @@ Entry is **priority**, so you skip the ticket-office queue. That said, the **Nas
 
 ## Who I would NOT recommend it to
 
-- If you're on a tight budget. At €75 you're paying for the group size; the [large-group guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour) covers the same for considerably less.
+- If you're on a tight budget. At €53 you're paying for the group size; the [large-group guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour) covers the same for considerably less.
 - If you need a guide in German or Italian: this option only offers Spanish, English and French.
 - If you want a visit entirely at your own pace. For that there is the [private tour](/en/cities/granada/activities/alhambra-private-tour), with a guide just for you.
 - If you need guaranteed wheelchair accessibility: the operator does not specify it and the terrain is uneven.

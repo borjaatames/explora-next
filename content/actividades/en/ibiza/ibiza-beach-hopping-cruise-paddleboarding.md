@@ -8,7 +8,7 @@ slugs:
   en: ibiza-beach-hopping-cruise-paddleboarding
 duracion: 6 hours
 duracionMinutos: 360
-precioDesde: 52
+precioDesde: 69
 moneda: EUR
 idiomas:
 - en

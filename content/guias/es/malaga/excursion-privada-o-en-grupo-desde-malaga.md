@@ -44,10 +44,10 @@ Desde Málaga salen cada día autocares a Ronda, Nerja, Gibraltar o Córdoba, y 
 
 | Excursión desde Málaga | En grupo, por persona | Privada, 2 personas | Privada, 4 personas |
 | --- | --- | --- | --- |
-| [Ronda](/ciudades/malaga/actividades/ronda-excursion-privada-desde-malaga) | 44 € ([con Setenil](/ciudades/malaga/actividades/ronda-setenil-desde-malaga)) | 290 € por persona | 180 € por persona |
+| [Ronda](/ciudades/malaga/actividades/ronda-excursion-privada-desde-malaga) | 34 € ([con Setenil](/ciudades/malaga/actividades/ronda-setenil-desde-malaga)) | 290 € por persona | 180 € por persona |
 | [Nerja y Frigiliana](/ciudades/malaga/actividades/nerja-frigiliana-excursion-privada-desde-malaga) | 69 € ([en grupo](/ciudades/malaga/actividades/cuevas-nerja-frigiliana-desde-malaga)) | 350 € por persona | 220 € por persona |
 | [Gibraltar](/ciudades/malaga/actividades/gibraltar-excursion-privada-desde-malaga) | 35 € ([en grupo](/ciudades/malaga/actividades/gibraltar-desde-malaga)) | 380 € por persona | 240 € por persona |
-| [Córdoba](/ciudades/malaga/actividades/cordoba-excursion-privada-desde-malaga) | 35 € ([en grupo](/ciudades/malaga/actividades/cordoba-mezquita-desde-malaga)) | 375 € por persona | 230 € por persona |
+| [Córdoba](/ciudades/malaga/actividades/cordoba-excursion-privada-desde-malaga) | 76 € ([en grupo](/ciudades/malaga/actividades/cordoba-mezquita-desde-malaga)) | 375 € por persona | 230 € por persona |
 | [Caminito del Rey](/ciudades/malaga/actividades/caminito-del-rey-transporte-privado-desde-malaga) | 72 € ([guiado en grupo](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga)) | 305 € por persona | 240 € por persona |
 | [Cádiz](/ciudades/malaga/actividades/cadiz-excursion-privada-desde-malaga) | — | 366 € por persona | 250 € por persona |
 | [Granada y la Alhambra](/ciudades/malaga/actividades/granada-alhambra-excursion-privada-desde-malaga) | — | 397 € por persona | 397 € por persona |

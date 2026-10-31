@@ -8,7 +8,7 @@ slugs:
   en: san-sebastian-hondarribia-getaria-from-bilbao
 duracion: 10 hours
 duracionMinutos: 600
-precioDesde: 45
+precioDesde: 35
 moneda: EUR
 idiomas:
 - en
@@ -68,7 +68,7 @@ preguntasFrecuentes:
   respuesta: Yes, on your own and paying the ticket separately.
 - pregunta: Is there much walking?
   respuesta: Short walks in each town; nothing demanding.
-opinionEditorial: 'It''s the cheapest way to see the best of the Gipuzkoa coast in a day: San Sebastián, the star, plus two lovely towns, Hondarribia and Getaria. The pace is quick, but at €45 it''s well worth it.'
+opinionEditorial: 'It''s the cheapest way to see the best of the Gipuzkoa coast in a day: San Sebastián, the star, plus two lovely towns, Hondarribia and Getaria. The pace is quick, but at €35 it''s well worth it.'
 guiasRelacionadas:
 - day-trips-from-bilbao
 atraccionesRelacionadas:

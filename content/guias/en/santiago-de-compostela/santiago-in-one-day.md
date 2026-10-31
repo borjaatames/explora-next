@@ -44,7 +44,7 @@ actividades:
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [Cathedral, museum and old town tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4.8★ (439) | €29 |
+| [Cathedral, museum and old town tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4.8★ (439) | €24 |
 | [Old town walking tour with an official guide](/en/cities/santiago-de-compostela/activities/santiago-old-town-walking-tour) | 4.8★ (356) | €10 |
 | [Skip-the-line cathedral and museum tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4.7★ (2,454) | €25 |
 | [Tapas tour with drinks and live music](/en/cities/santiago-de-compostela/activities/santiago-tapas-tour-live-music) | 4.7★ (231) | €45 |

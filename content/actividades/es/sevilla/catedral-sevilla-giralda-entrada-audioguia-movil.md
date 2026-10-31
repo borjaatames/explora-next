@@ -160,6 +160,9 @@ indexar: false
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-10-25'
+alternativa:
+  slug: catedral-sevilla-giralda-entrada-skip-line
+  motivo: 'Esta entrada con audioguía cuesta 39 € y tiene una nota de 3,9. Si solo quieres entrar, la entrada a la Catedral y la Giralda sale desde 17,50 € (4,5 con más de 30.000 opiniones), con audioguía opcional:'
 ---
 
 ## Qué vas a ver

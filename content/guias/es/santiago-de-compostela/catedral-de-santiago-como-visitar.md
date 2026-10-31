@@ -44,7 +44,7 @@ opciones:
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | [Tour por la catedral y el museo sin colas](/ciudades/santiago-de-compostela/actividades/catedral-santiago-museo-tour-guiado) | 4,7★ (2.454) | 25 € |
-| [Tour por la catedral, el museo y el casco antiguo](/ciudades/santiago-de-compostela/actividades/catedral-museo-casco-antiguo-santiago) | 4,8★ (439) | 29 € |
+| [Tour por la catedral, el museo y el casco antiguo](/ciudades/santiago-de-compostela/actividades/catedral-museo-casco-antiguo-santiago) | 4,8★ (439) | 24 € |
 | [Tour por las cubiertas de la catedral y la torre de la Carraca](/ciudades/santiago-de-compostela/actividades/cubiertas-catedral-santiago-tour) | 4,6★ (134) | 37 € |
 
 La clave: separa lo gratuito (el templo, la tumba del Apóstol) de las visitas especiales (Pórtico de la Gloria, cubiertas, museo), que requieren entrada y, a veces, reserva previa.

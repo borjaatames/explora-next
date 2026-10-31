@@ -45,7 +45,7 @@ imagen_alt: "View of Málaga from the Alcazaba"
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [Alcazaba and Roman Theatre guided tour](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4.7★ (7,412) | €18 |
+| [Alcazaba and Roman Theatre guided tour](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4.7★ (7,412) | €13 |
 | [Picasso Museum ticket with audio guide](/en/cities/malaga/activities/picasso-museum-malaga-ticket) | 4.5★ (13,842) | €13 |
 | [Cathedral, Alcazaba and Theatre with tickets](/en/cities/malaga/activities/malaga-essentials-cathedral-alcazaba-theatre) | 4.6★ (1,134) | €32.76 |
 | [Sunset catamaran in the bay](/en/cities/malaga/activities/malaga-catamaran-sunset-cruise) | 4.4★ (10,537) | €13 |

@@ -34,7 +34,7 @@ actividades:
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [PortAventura and Ferrari Land 1, 2 or 3-day ticket](/en/cities/tarragona/activities/portaventura-ferrari-land-ticket) | 4.3★ (2,697) | €55 |
+| [PortAventura and Ferrari Land 1, 2 or 3-day ticket](/en/cities/tarragona/activities/portaventura-ferrari-land-ticket) | 4.3★ (2,697) | €39 |
 | [PortAventura + Ferrari Land + Caribe Aquatic Park ticket](/en/cities/tarragona/activities/portaventura-ferrari-caribe-aquatic-ticket) | 4.4★ (711) | €76 |
 
 Which one to buy:

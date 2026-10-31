@@ -8,7 +8,7 @@ slugs:
   en: portaventura-ferrari-land-ticket
 duracion: 1-3 días
 duracionMinutos: 480
-precioDesde: 55
+precioDesde: 39
 moneda: EUR
 idiomas:
 - es

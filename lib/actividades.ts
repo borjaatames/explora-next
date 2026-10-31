@@ -195,6 +195,12 @@ export type ActividadFrontmatter = {
    * precio en escritorio.
    */
   avisoReserva?: string;
+  /**
+   * Otra ficha de la misma ciudad (slug del mismo idioma) que ofrecer cuando
+   * esta suele agotarse o hay una opción claramente mejor. `motivo` es una
+   * frase cierta y estática: nunca fechas ni plazas inventadas.
+   */
+  alternativa?: AlternativaReserva;
   guiasRelacionadas?: string[];
 
   // Categorización
@@ -260,6 +266,16 @@ export type ActividadFrontmatter = {
  * `puntoEncuentro` es siempre un objeto, los arrays nunca son undefined,
  * etc. Esto simplifica el render en el page sin defensive coding.
  */
+export type AlternativaReserva = { slug: string; motivo: string };
+
+function normalizarAlternativa(valor: unknown): AlternativaReserva | undefined {
+  if (!valor || typeof valor !== "object") return undefined;
+  const { slug, motivo } = valor as Record<string, unknown>;
+  if (typeof slug !== "string" || typeof motivo !== "string") return undefined;
+  if (!slug.trim() || !motivo.trim()) return undefined;
+  return { slug: slug.trim(), motivo: motivo.trim() };
+}
+
 export type ActividadListItem = Omit<ActividadFrontmatter, "puntoEncuentro"> & {
   idioma: Idioma;
   url: string;
@@ -629,6 +645,7 @@ function construirListItem(
       typeof fm.avisoReserva === "string" && fm.avisoReserva.trim()
         ? fm.avisoReserva.trim()
         : undefined,
+    alternativa: normalizarAlternativa(fm.alternativa),
     guiasRelacionadas: fm.guiasRelacionadas || [],
 
     categoria: (fm.categoria || "visitasGuiadas") as CategoriaActividad,

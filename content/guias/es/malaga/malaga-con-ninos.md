@@ -40,7 +40,7 @@ imagen_alt: "Lémures en el Bioparc Fuengirola"
 | --- | --- | --- |
 | [Catamarán por la bahía](/ciudades/malaga/actividades/catamaran-malaga-atardecer) | 4,4★ (10.537) | 13 € |
 | [Cuevas de Nerja y Frigiliana](/ciudades/malaga/actividades/cuevas-nerja-frigiliana-desde-malaga) | 4,6★ (3.192) | 69 € |
-| [Alcazaba y Teatro Romano con guía](/ciudades/malaga/actividades/alcazaba-teatro-romano-malaga-visita-guiada) | 4,7★ (7.412) | 18 € |
+| [Alcazaba y Teatro Romano con guía](/ciudades/malaga/actividades/alcazaba-teatro-romano-malaga-visita-guiada) | 4,7★ (7.412) | 13 € |
 | [Caminito del Rey (desde 8 años)](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga) | 4,9★ (19.083) | 72 € |
 
 La clave es alternar: una mañana de castillo o casco histórico en dosis cortas y una tarde de playa o animales. Con eso, Málaga cunde sin agobios.

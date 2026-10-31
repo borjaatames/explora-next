@@ -104,6 +104,9 @@ publicada: true
 destacada: true
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-17'
+alternativa:
+  slug: alhambra-skip-the-wait-nasrid-palaces
+  motivo: 'Alhambra general tickets sell out several weeks ahead. If your date is gone, guided tours have their own ticket allocation, like this one (4.8, Nasrid Palaces included):'
 ---
 
 ## What the general admission includes

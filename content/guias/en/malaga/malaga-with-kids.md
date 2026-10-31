@@ -41,7 +41,7 @@ imagen_alt: "Lemurs at Bioparc Fuengirola"
 | --- | --- | --- |
 | [Catamaran in the bay](/en/cities/malaga/activities/malaga-catamaran-sunset-cruise) | 4.4★ (10,537) | €13 |
 | [Nerja Caves and Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) | 4.6★ (3,192) | €69 |
-| [Alcazaba and Roman Theatre guided tour](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4.7★ (7,412) | €18 |
+| [Alcazaba and Roman Theatre guided tour](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4.7★ (7,412) | €13 |
 | [Caminito del Rey (ages 8+)](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4.9★ (19,083) | €72 |
 
 The key is to alternate: a morning of castle or old town in short doses and an afternoon of beach or animals. With that, Málaga delivers without stress.

@@ -36,7 +36,7 @@ imagen_alt: "Guadalest and its reservoir"
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [Guadalest, Altea and Algar Falls](/en/cities/valencia/activities/guadalest-altea-algar-falls-day-trip) | 4.7★ (553) | €55 |
+| [Guadalest, Altea and Algar Falls](/en/cities/valencia/activities/guadalest-altea-algar-falls-day-trip) | 4.7★ (553) | €30 |
 | [Cala Granadella Day Trip from Valencia](/en/cities/valencia/activities/cala-granadella-javea-day-trip) | — | €85 |
 | [San José Caves Day Trip from Valencia](/en/cities/valencia/activities/san-jose-caves-day-trip) | 4.6★ (785) | €55 |
 | [Montanejos by Bus Day Trip](/en/cities/valencia/activities/montanejos-by-bus-day-trip) | — | €42 |

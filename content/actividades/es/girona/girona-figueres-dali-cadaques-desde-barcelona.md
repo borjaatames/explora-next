@@ -10,7 +10,7 @@ slugs:
   en: girona-figueres-dali-cadaques-from-barcelona
 duracion: 11 horas
 duracionMinutos: 660
-precioDesde: 69
+precioDesde: 40
 moneda: EUR
 idiomas:
 - es

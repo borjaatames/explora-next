@@ -8,7 +8,7 @@ slugs:
   en: seville-bike-tour-group
 duracion: 3 hours
 duracionMinutos: 180
-precioDesde: 35
+precioDesde: 28
 moneda: EUR
 idiomas:
 - en

@@ -121,6 +121,9 @@ galeria:
 guiasRelacionadas:
 - sagrada-familia-which-ticket-to-choose
 fecha_actualizacion: '2026-10-25'
+alternativa:
+  slug: sagrada-familia-small-group-tour
+  motivo: 'Sagrada Familia tickets and tours on GetYourGuide sell out one to two weeks ahead. If your date is gone, this small-group visit (4.7 from 3,700+ reviews) includes skip-the-line entry and has its own allocation:'
 ---
 
 ## What you'll see

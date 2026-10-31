@@ -8,7 +8,7 @@ slugs:
   en: alhambra-nasrid-palaces-skip-the-line
 duracion: 3 horas
 duracionMinutos: 180
-precioDesde: 75
+precioDesde: 53
 moneda: EUR
 idiomas:
 - es
@@ -77,7 +77,7 @@ avisoReserva: Las entradas de la Alhambra se agotan con semanas de antelación
 opinionEditorial: 'Esta visita ocupa el escalón intermedio del catálogo: cuesta más que la opción de grupo grande, pero te metes en un grupo reducido con entrada prioritaria. La pregunta no es si está bien —lo está, con más de 8.400 reseñas y la mejor nota precisamente en la valoración del guía—, sino si el formato más pequeño te compensa el precio.
 
 
-  Y aquí toca ser claros: su punto más flojo en las reseñas es la relación calidad-precio. No porque la visita falle, sino porque a 75 € estás pagando por el tamaño del grupo más que por el contenido, que es básicamente el mismo que en las opciones más económicas. Si vas en pareja o en grupo pequeño y la cercanía con el guía es lo que te importa, esta es una buena elección. Si vas con presupuesto ajustado y un grupo de 25-30 personas no te frena, ahorrarás bastante con otra opción.
+  Y aquí toca ser claros: su punto más flojo en las reseñas es la relación calidad-precio. No porque la visita falle, sino porque a 53 € estás pagando por el tamaño del grupo más que por el contenido, que es básicamente el mismo que en las opciones más económicas. Si vas en pareja o en grupo pequeño y la cercanía con el guía es lo que te importa, esta es una buena elección. Si vas con presupuesto ajustado y un grupo de 25-30 personas no te frena, ahorrarás bastante con otra opción.
 
 
   Un detalle a favor: la información que da el operador antes de reservar es de las más completas del catálogo —deja muy claro cómo funciona la hora de los Palacios Nazaríes y el carácter nominativo de la entrada—. Para una primera visita a la Alhambra, ese nivel de detalle se agradece.
@@ -156,7 +156,7 @@ La entrada es **prioritaria**, así que evitas la cola de taquilla. Eso sí, la 
 
 ## A quién NO se lo recomiendo
 
-- Si vas con presupuesto ajustado. A 75 € pagas por el tamaño del grupo; la [visita guiada en grupo](/ciudades/granada/actividades/visita-guiada-alhambra-generalife) cubre lo mismo por bastante menos.
+- Si vas con presupuesto ajustado. A 53 € pagas por el tamaño del grupo; la [visita guiada en grupo](/ciudades/granada/actividades/visita-guiada-alhambra-generalife) cubre lo mismo por bastante menos.
 - Si necesitas guía en alemán o italiano: esta opción solo ofrece español, inglés y francés.
 - Si quieres una visita totalmente a tu ritmo. Para eso está el [tour privado](/ciudades/granada/actividades/alhambra-tour-privado), con guía en exclusiva.
 - Si necesitas accesibilidad garantizada en silla de ruedas: el operador no la detalla y el terreno es irregular.

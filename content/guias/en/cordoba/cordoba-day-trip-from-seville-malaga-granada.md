@@ -1,7 +1,7 @@
 ---
 titulo: "Córdoba day trip from Seville, Málaga or Granada: how to go and which tour to pick"
 descripcion: "How to do Córdoba in a day from Seville, Málaga or Granada: train, car, group or private tour. Times, prices and what to see: the Mosque-Cathedral, the Jewish Quarter and the Roman bridge."
-respuestaCorta: 'Córdoba works very well as a day trip: from **Seville** it''s about **45 minutes by high-speed train** and from **Málaga** **just under 1 hour**; from **Granada**, about 2 hours by road. On your own, the train and a **Mosque-Cathedral** ticket are enough; group tours start at €35 (Málaga) or €109 (Seville), and private trips from €432 for 2 people leaving from Seville.'
+respuestaCorta: 'Córdoba works very well as a day trip: from **Seville** it''s about **45 minutes by high-speed train** and from **Málaga** **just under 1 hour**; from **Granada**, about 2 hours by road. On your own, the train and a **Mosque-Cathedral** ticket are enough; group tours start at €76 (Málaga) or €109 (Seville), and private trips from €432 for 2 people leaving from Seville.'
 categoria: "cordoba"
 slug: "cordoba-day-trip-from-seville-malaga-granada"
 fecha: "2026-10-30"
@@ -42,7 +42,7 @@ faq:
 | From | Train | Car | Group tour | Private trip |
 | --- | --- | --- | --- | --- |
 | Seville | high-speed, about 45 min | 1 h 30 | [from €109](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) · [small group by high-speed train](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) | [by train: €432 (2) · €668 (4)](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) · [by car: from €379 per person](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) |
-| Málaga | high-speed, just under 1 h | 1 h 50 | [from €35](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga) | [€750 (2) · €920 (4)](/en/cities/malaga/activities/cordoba-private-day-trip-from-malaga) |
+| Málaga | high-speed, just under 1 h | 1 h 50 | [from €76](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga) | [€750 (2) · €920 (4)](/en/cities/malaga/activities/cordoba-private-day-trip-from-malaga) |
 | Granada | — | about 2 h | — | [€800 (2) · €1,040 (4)](/en/cities/granada/activities/cordoba-private-day-trip-from-granada) |
 | Cádiz | — | 2 h 30 | — | [from €780 (2)](/en/cities/cadiz/activities/cordoba-private-day-trip-from-cadiz) |
 

@@ -44,7 +44,7 @@ opciones:
 | Activity | Rating | From |
 | --- | --- | --- |
 | [Skip-the-line cathedral and museum tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4.7★ (2,454) | €25 |
-| [Cathedral, museum and old town tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4.8★ (439) | €29 |
+| [Cathedral, museum and old town tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4.8★ (439) | €24 |
 | [Pórtico de la Gloria, cathedral and old town tour](/en/cities/santiago-de-compostela/activities/santiago-portico-of-glory-cathedral-city-tour) | 4.8★ (206) | €40 |
 | [Cathedral rooftops and Carraca tower tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-rooftops-tour) | 4.6★ (134) | €37 |
 

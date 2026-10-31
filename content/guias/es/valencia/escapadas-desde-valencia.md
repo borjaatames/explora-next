@@ -36,7 +36,7 @@ imagen_alt: "Guadalest y su embalse"
 
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
-| [Guadalest, Altea y Fuentes del Algar](/ciudades/valencia/actividades/excursion-guadalest-altea-fuentes-algar) | 4,7★ (553) | 55 € |
+| [Guadalest, Altea y Fuentes del Algar](/ciudades/valencia/actividades/excursion-guadalest-altea-fuentes-algar) | 4,7★ (553) | 30 € |
 | [Excursión a la Cala Granadella en Jávea](/ciudades/valencia/actividades/excursion-cala-granadella-javea) | — | 85 € |
 | [Excursión a las Cuevas de San José desde Valencia](/ciudades/valencia/actividades/excursion-cuevas-de-san-jose) | 4,6★ (785) | 55 € |
 | [Excursión a Montanejos en bus](/ciudades/valencia/actividades/excursion-montanejos-en-bus) | — | 42 € |
