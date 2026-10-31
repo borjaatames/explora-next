@@ -65,24 +65,30 @@ keywords:
 - parc sama tickets
 - parc sama gardens
 - things to do in cambrils
-imagen: /images/actividades/tarragona/costa/cambrils-puerto-02.webp
-imagenAlt: Cambrils port
-galeria:
-- src: /images/actividades/tarragona/vermut/botellas-vermut.webp
-  alt: Bottles of vermouth
-- src: /images/actividades/tarragona/vermut/copa-vermut-hielo.webp
-  alt: A glass of vermouth with ice
-- src: /images/actividades/tarragona/costa/cambrils-barcas.webp
-  alt: Fishing boats in Cambrils
-- src: /images/actividades/tarragona/costa/cambrils-velero.webp
-  alt: Sailing boat off Cambrils
 ratingProveedor: 4.4
 numeroOpiniones: 406
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/parc-sama/fta-lago-puente-palmeras-parc-sama.webp
+imagenAlt: "Lake with a wooden bridge and palm trees in Parc Samà"
+galeria:
+- src: /images/actividades/tarragona/parc-sama/fta-paseo-platanos-parc-sama.webp
+  alt: "Plane-tree avenue in Parc Samà"
+- src: /images/actividades/tarragona/parc-sama/fta-lago-gruta-glorieta-parc-sama.webp
+  alt: "Lake, grotto and gazebo in Parc Samà"
+- src: /images/actividades/tarragona/parc-sama/fta-pavo-real.webp
+  alt: "Close-up of a peacock"
+- src: /images/actividades/tarragona/parc-sama/fta-vista-aerea-parc-sama.webp
+  alt: "Aerial view of Parc Samà with the palace and gardens"
+- src: /images/actividades/tarragona/parc-sama/fta-lago-rocalla-parc-sama.webp
+  alt: "Lake and rockwork in Parc Samà"
+- src: /images/actividades/tarragona/parc-sama/fta-torre-parc-sama.webp
+  alt: "Parc Samà tower among palm trees"
+- src: /images/actividades/tarragona/vermut/vermut-grifo.webp
+  alt: "Glasses of vermouth with olives"
 ---
 
 ## What you will see

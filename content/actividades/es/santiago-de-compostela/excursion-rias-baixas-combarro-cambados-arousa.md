@@ -71,30 +71,32 @@ keywords:
 - combarro cambados excursion
 - rias bajas tour
 - la toja y combarro desde santiago
-imagen: /images/actividades/santiago-de-compostela/rias/combarro.webp
-imagenAlt: Combarro y sus hórreos junto a la ría
-galeria:
-- src: /images/actividades/santiago-de-compostela/rias/combarro-horreo.webp
-  alt: Hórreo de Combarro sobre el agua
-- src: /images/actividades/santiago-de-compostela/rias/toxa-capilla.webp
-  alt: Capilla de las conchas de A Toxa
-- src: /images/actividades/santiago-de-compostela/rias/toxa-conchas.webp
-  alt: Fachada cubierta de conchas en A Toxa
-- src: /images/actividades/santiago-de-compostela/rias/cambados-fefinans.webp
-  alt: Pazo de Fefiñáns en Cambados
-- src: /images/actividades/santiago-de-compostela/rias/bateas.webp
-  alt: Bateas de mejillón en la ría
-- src: /images/actividades/santiago-de-compostela/rias/catamaran-turistico-o-grove.webp
-  alt: Catamarán turístico en las Rías Baixas
 ratingProveedor: 4.7
 numeroOpiniones: 75
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/rias/combarro.webp
+imagenAlt: "Hórreos de piedra a la orilla de la ría en Combarro"
+galeria:
+- src: /images/actividades/santiago-de-compostela/rias/fsc-combarro-calle-piedra.webp
+  alt: "Calle empedrada del casco antiguo de Combarro"
+- src: /images/actividades/santiago-de-compostela/rias/batea.webp
+  alt: "Batea de mejillón en la ría con un barco pesquero"
+- src: /images/actividades/santiago-de-compostela/rias/toxa-capilla.webp
+  alt: "Capilla de las conchas en la isla de A Toxa"
+- src: /images/actividades/santiago-de-compostela/rias/toxa-conchas.webp
+  alt: "Muro cubierto de conchas de vieira en A Toxa"
+- src: /images/actividades/santiago-de-compostela/rias/cambados-fefinans.webp
+  alt: "Pazo de Fefiñáns en Cambados"
+- src: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
+  alt: "Viñedos de albariño junto a la ría"
+- src: /images/actividades/santiago-de-compostela/rias/fsc-combarro-horreo-ria.webp
+  alt: "Hórreo de granito frente a la ría en Combarro"
 ---
 
 ## Qué vas a ver

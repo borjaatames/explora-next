@@ -79,29 +79,31 @@ keywords:
 - fuerteventura small group tour
 - fuerteventura island tour
 - ajuy caves betancuria tour
-imagen: /images/actividades/fuerteventura/zonas/cuevas-de-ajuy.webp
-imagenAlt: The Ajuy caves on Fuerteventura's west coast
-galeria:
-- src: /images/actividades/fuerteventura/zonas/betancuria-iglesia.webp
-  alt: Betancuria church
-- src: /images/actividades/fuerteventura/zonas/calderon-hondo-crater.webp
-  alt: The crater of the Calderón Hondo volcano
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
-  alt: Walking on the white dunes of Corralejo
-- src: /images/actividades/fuerteventura/zonas/sotavento-aerea.webp
-  alt: Aerial view of Sotavento beach and lagoon
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: A street in Betancuria
 ratingProveedor: 4.9
 numeroOpiniones: 260
 atraccionesRelacionadas:
 - norte
 - sur
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/ajuy/ffv-arcos-acantilado-ajuy.webp
+imagenAlt: "Arches and caves in the Ajuy cliffs"
+galeria:
+- src: /images/actividades/fuerteventura/ajuy/ffv-interior-cueva-ajuy.webp
+  alt: "Visitor inside one of the Ajuy caves"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
+  alt: "Betancuria church square with the village behind"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-borde-crater-calderon-hondo.webp
+  alt: "Rim of the Calderón Hondo crater"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-5.webp
+  alt: "Dune and blue sky in Corralejo"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-3.webp
+  alt: "Walls of the Betancuria church"
+- src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
+  alt: "Isla de Lobos seen from a beach in Corralejo"
 ---
 
 ## What you will see

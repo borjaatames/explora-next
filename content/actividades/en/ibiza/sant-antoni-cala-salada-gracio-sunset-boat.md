@@ -72,28 +72,34 @@ keywords:
 - cala salada boat trip
 - cafe del mar sunset boat
 - ibiza sunset cruise open bar
-imagen: /images/actividades/ibiza/atardecer/atardecer-mar.webp
-imagenAlt: The sun over the sea in Ibiza
-galeria:
-- src: /images/actividades/ibiza/atardecer/atardecer-paseo.webp
-  alt: Sant Antoni promenade at sunset
-- src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
-  alt: Sunset in Sant Antoni
-- src: /images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp
-  alt: Boats anchored in an Ibiza cove
-- src: /images/actividades/ibiza/mar/paddle-surf-cala.webp
-  alt: Paddleboarding on calm water
-- src: /images/actividades/ibiza/mar/esnorquel.webp
-  alt: Snorkelling over a seagrass meadow
 ratingProveedor: 4.7
 numeroOpiniones: 93
 atraccionesRelacionadas:
 - vedra-atardecer
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/calas/fi1-cala-salada-puesta-sol.webp
+imagenAlt: "Sunset at Cala Salada with sailing boats anchored in the bay"
+galeria:
+- src: /images/actividades/ibiza/sant-antoni/fi1-bahia-sant-antoni-puerto.webp
+  alt: "Sant Antoni de Portmany bay and harbour with moored boats"
+- src: /images/actividades/ibiza/calas/fi1-cala-salada-acantilado.webp
+  alt: "Cliff and clear water at Cala Salada"
+- src: /images/actividades/ibiza/calas/fi1-cala-gracio.webp
+  alt: "Cala Gració beach, near Sant Antoni"
+- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
+  alt: "Stand-up paddleboarding on the blue Mediterranean"
+- src: /images/actividades/ibiza/san-antonio/san-antonio-ibiza-hero.webp
+  alt: "Sant Antoni sunset strip terraces at dusk, seen from the sea"
+- src: /images/actividades/ibiza/atardecer/atardecer-conillera.webp
+  alt: "Sunset by Sa Conillera island, off Sant Antoni"
+- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
+  alt: "Sunset over the islets off the west coast of Ibiza"
+- src: /images/actividades/ibiza/sant-antoni/fi1-bahia-sant-antoni-noche.webp
+  alt: "Sant Antoni seafront lit up at night with the moon over the bay"
 ---
 
 ## What you will see

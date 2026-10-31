@@ -73,28 +73,32 @@ keywords:
 - cofete 4x4 tour
 - punta jandia lighthouse
 - cofete villa winter tour
-imagen: /images/actividades/fuerteventura/zonas/cofete-playa.webp
-imagenAlt: Cofete beach with the Jandía massif behind
-galeria:
-- src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
-  alt: Cofete from the viewpoint
-- src: /images/actividades/fuerteventura/zonas/villa-winter.webp
-  alt: Villa Winter in Cofete
-- src: /images/actividades/fuerteventura/zonas/cofete-montanas.webp
-  alt: Jandía mountains above Cofete
-- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: The Jandía massif
-- src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: Coastline of the Jandía peninsula
 ratingProveedor: 4.4
 numeroOpiniones: 184
 atraccionesRelacionadas:
 - sur
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/granada/sierra-nevada-4x4/todoterreno-pista-tierra.webp
+imagenAlt: "4x4 stopped on a dirt track"
+galeria:
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-pista-faro-punta-jandia.webp
+  alt: "Track to the Punta Jandía lighthouse"
+- src: /images/actividades/fuerteventura/cofete/ffv-cofete-6.webp
+  alt: "Aerial view of Cofete beach"
+- src: /images/actividades/fuerteventura/zonas/villa-winter.webp
+  alt: "Villa Winter on the Cofete hillside"
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-faro-punta-jandia-costa.webp
+  alt: "Punta Jandía lighthouse above the coast"
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-costa-punta-jandia.webp
+  alt: "Rocky coast at Punta de Jandía"
+- src: /images/actividades/fuerteventura/cofete/ffv-cofete-3.webp
+  alt: "Atlantic surf at Cofete beach"
+- src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
+  alt: "View of Cofete from the viewpoint"
 ---
 
 ## What you will see

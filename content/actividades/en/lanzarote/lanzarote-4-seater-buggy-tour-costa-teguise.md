@@ -79,26 +79,28 @@ keywords:
 - buggy tour costa teguise
 - lanzarote off road buggy north
 - family buggy tour lanzarote
-imagen: /images/actividades/lanzarote/buggy-volcanes.webp
-imagenAlt: A buggy on a dirt track among volcanoes in Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
-  alt: Cacti among volcanic rocks in Guatiza, northern Lanzarote
-- src: /images/actividades/lanzarote/zonas/carretera-volcanes.webp
-  alt: A road through the volcanoes of Lanzarote
-- src: /images/actividades/lanzarote/zonas/teguise-plaza.webp
-  alt: The main square in Teguise
-- src: /images/actividades/lanzarote/zonas/ladera-volcanica.webp
-  alt: A volcanic slope in inland Lanzarote
 ratingProveedor: 4.4
 numeroOpiniones: 719
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/buggy/flz-buggies-grupo.webp
+imagenAlt: "Group of buggies on a sandy track"
+galeria:
+- src: /images/actividades/lanzarote/zonas/teguise-calle.webp
+  alt: "Teguise street with its church"
+- src: /images/actividades/lanzarote/buggy/flz-buggy-pista-arena.webp
+  alt: "Buggy driving on a sandy track"
+- src: /images/actividades/lanzarote/famara/flz-vista-macizo.webp
+  alt: "Caleta de Famara seen from the top of the Famara massif"
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-carretera-risco.webp
+  alt: "Road along the cliffs in northern Lanzarote"
+- src: /images/actividades/lanzarote/famara/flz-risco-famara.webp
+  alt: "Famara cliffs seen from La Caleta de Famara"
 ---
 
 ## What you will see

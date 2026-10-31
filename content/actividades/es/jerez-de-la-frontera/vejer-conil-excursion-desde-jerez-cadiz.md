@@ -67,26 +67,30 @@ keywords:
 - vejer y conil desde jerez
 - excursion pueblos blancos cadiz
 - tour vejer desde cadiz
-imagen: /images/actividades/cadiz/vejer-toros/vejer-pueblo-blanco.webp
-imagenAlt: Vista de Vejer de la Frontera, pueblo blanco sobre una colina
-galeria:
-- src: /images/actividades/cadiz/vejer-toros/vejer-calle-blanca.webp
-  alt: Calle encalada en Vejer de la Frontera
-- src: /images/actividades/cadiz/vejer-toros/vejer-plaza-espana.webp
-  alt: Plaza de España de Vejer de la Frontera
-- src: /images/actividades/cadiz/vejer-toros/vejer-muralla.webp
-  alt: Muralla de Vejer de la Frontera
-- src: /images/actividades/cadiz/vejer-toros/vejer-campina-la-janda.webp
-  alt: Campiña de La Janda vista desde Vejer
-- src: /images/actividades/cadiz/vejer-toros/vejer-vista-campina.webp
-  alt: Vejer de la Frontera sobre la campiña
 ratingProveedor: 4.5
 numeroOpiniones: 36
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/cadiz/vejer-toros/vejer-plaza-espana.webp
+imagenAlt: "La plaza de España de Vejer de la Frontera con su fuente de azulejos"
+galeria:
+- src: /images/actividades/cadiz/vejer-toros/vejer-calle-blanca.webp
+  alt: "Una calle de casas blancas en Vejer de la Frontera"
+- src: /images/actividades/cadiz/vejer-toros/vejer-muralla.webp
+  alt: "La muralla medieval de Vejer de la Frontera"
+- src: /images/actividades/cadiz/vejer-toros/vejer-vista-campina.webp
+  alt: "Vista desde Vejer de la Frontera sobre la campiña"
+- src: /images/actividades/jerez-de-la-frontera/vejer-conil/puerto-conil.webp
+  alt: "Barcos amarrados en el puerto de Conil de la Frontera"
+- src: /images/actividades/jerez-de-la-frontera/vejer-conil/pasarela-playa-pueblo-blanco.webp
+  alt: "Pasarela de madera sobre la arena hacia un pueblo blanco de la costa"
+- src: /images/actividades/jerez-de-la-frontera/vejer-conil/cala-aceite-acantilados.webp
+  alt: "Cala del Aceite y acantilados de Conil de la Frontera"
+- src: /images/actividades/jerez-de-la-frontera/vejer-conil/playa-costa-cadiz.webp
+  alt: "Playa de arena fina en la costa de Cádiz"
 ---
 
 ## Qué vas a ver

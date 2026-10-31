@@ -64,27 +64,29 @@ keywords:
 - jerez sherry winery tour
 - sherry tasting jerez
 - jerez de la frontera bodega tour
-imagen: /images/actividades/jerez-de-la-frontera/centro/bodega-barricas-hero.webp
-imagenAlt: Sherry casks stacked in a Jerez winery
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp
-  alt: Glasses of sherry at a tasting
-- src: /images/actividades/cadiz/bodega/botas-arcos.webp
-  alt: Casks beneath the arches of a winery
-- src: /images/actividades/jerez/tabancos/bota-velo-flor.webp
-  alt: Sherry cask showing the flor yeast layer
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
-  alt: Bell tower of Jerez Cathedral
 ratingProveedor: 4.6
 numeroOpiniones: 393
 atraccionesRelacionadas:
 - bodegas
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/bodegas/nave-hileras-botas.webp
+imagenAlt: "Winery hall lined with rows of oak casks"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/bodegas/dos-copas-cata.webp
+  alt: "Two glasses of fortified wine ready for tasting"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/botas-viejas.webp
+  alt: "Old oak casks in a winery"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-arboles.webp
+  alt: "Dome of Jerez Cathedral framed by trees"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-naranjos.webp
+  alt: "Pedestrian Calle Larga in Jerez lined with orange trees"
+- src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
+  alt: "Vineyards on white albariza soil in the Jerez wine region"
 ---
 
 ## What you will see

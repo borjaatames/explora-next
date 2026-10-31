@@ -74,25 +74,27 @@ keywords:
 - fuerteventura farm tour
 - organic farm fuerteventura
 - things to do in fuerteventura with kids
-imagen: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-imagenAlt: Majorero goat in Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Majorero goat, a breed native to Fuerteventura
-- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Canarian wrinkled potatoes with green mojo
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: Street in Betancuria, inland Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Volcanic landscape in inland Fuerteventura
 ratingProveedor: 4.9
 numeroOpiniones: 187
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/granja-aloe/ffv-plantacion-aloe-vera.webp
+imagenAlt: "Aloe vera plants in a plantation"
+galeria:
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-finca-aloe-vera-fuerteventura.webp
+  alt: "Aloe vera farm in bloom at the foot of the Fuerteventura mountains"
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-burro-majorero.webp
+  alt: "Majorera donkey in the countryside"
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-hoja-aloe-cortada.webp
+  alt: "Cut aloe vera leaf showing its gel"
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-aloe-en-flor.webp
+  alt: "Rows of aloe in bloom"
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp
+  alt: "Rows of aloe vera in volcanic soil"
 ---
 
 ## What you will see

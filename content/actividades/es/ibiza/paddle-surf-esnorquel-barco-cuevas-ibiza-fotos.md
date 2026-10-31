@@ -75,28 +75,34 @@ keywords:
 - paddle surf san antonio ibiza
 - esnorquel ibiza cuevas
 - excursion paddle surf ibiza
-imagen: /images/actividades/ibiza/mar/paddle-surf-cala.webp
-imagenAlt: Paddle surf en aguas tranquilas de una cala
-galeria:
-- src: /images/actividades/ibiza/mar/paddle-surf.webp
-  alt: Remando de pie sobre una tabla en mar en calma
-- src: /images/actividades/ibiza/mar/cueva-marina.webp
-  alt: Esnórquel dentro de una cueva marina
-- src: /images/actividades/ibiza/mar/peces-posidonia.webp
-  alt: Peces sobre una pradera de posidonia
-- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
-  alt: Acantilados de la costa oeste de Ibiza
-- src: /images/actividades/ibiza/calas/cala-dhort.webp
-  alt: Cala d'Hort
 ratingProveedor: 4.7
 numeroOpiniones: 115
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/paddle-surf/fi2-paddle-surf-sobre-rocas.webp
+imagenAlt: "Paddle surf sobre aguas cristalinas y fondo rocoso, vista aérea"
+galeria:
+- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
+  alt: "Puerto de Sant Antoni, punto de encuentro"
+- src: /images/actividades/ibiza/paddle-surf/fi2-remando-de-pie.webp
+  alt: "Remando de pie sobre una tabla de paddle surf"
+- src: /images/actividades/ibiza/paddle-surf/fi2-tabla-paddle-vista-aerea.webp
+  alt: "Tabla de paddle surf vista desde arriba"
+- src: /images/actividades/ibiza/mar/cueva-marina.webp
+  alt: "Interior de una cueva marina abierta al mar"
+- src: /images/actividades/ibiza/paddle-surf/fi2-entrada-cueva-marina.webp
+  alt: "Entrada de una cueva marina vista desde el agua"
+- src: /images/actividades/ibiza/paddle-surf/fi2-esnorquel-buceando.webp
+  alt: "Esnórquel en aguas verdes y transparentes"
+- src: /images/actividades/ibiza/mar/peces-posidonia.webp
+  alt: "Banco de peces sobre la posidonia"
+- src: /images/actividades/ibiza/vedra/es-vedra-cala-dhort.webp
+  alt: "Es Vedrà desde Cala d'Hort"
 ---
 
 ## Qué vas a ver

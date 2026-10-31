@@ -82,28 +82,28 @@ keywords:
 - moto de agua puerto del carmen
 - jet ski lanzarote
 - excursion moto de agua papagayo
-imagen: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
-imagenAlt: Barcos en el puerto de Puerto del Carmen, Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
-  alt: Costa sur de Lanzarote junto a Papagayo
-- src: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
-  alt: Arena dorada en la playa de Papagayo
-- src: /images/actividades/lanzarote/zonas/papagayo-acantilado.webp
-  alt: Acantilados volcánicos de Papagayo
-- src: /images/actividades/lanzarote/barco-atardecer/puesta-sol-puerto-del-carmen.webp
-  alt: Puesta de sol en Puerto del Carmen
-- src: /images/actividades/lanzarote/zonas/papagayo-cala.webp
-  alt: Cala de aguas claras en Papagayo
 ratingProveedor: 4.7
 numeroOpiniones: 1081
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/moto-de-agua/flz-piloto-olas.webp
+imagenAlt: "Moto de agua navegando entre olas"
+galeria:
+- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
+  alt: "Barcos de excursión en Puerto del Carmen"
+- src: /images/actividades/lanzarote/moto-de-agua/flz-grupo-ruta.webp
+  alt: "Grupo de motos de agua en ruta por mar abierto"
+- src: /images/actividades/lanzarote/moto-de-agua/flz-motos-pantalan.webp
+  alt: "Motos de agua amarradas en un pantalán flotante"
+- src: /images/actividades/lanzarote/moto-de-agua/flz-estela.webp
+  alt: "Moto de agua dejando una estela en el mar"
+- src: /images/actividades/lanzarote/moto-de-agua/flz-atardecer.webp
+  alt: "Moto de agua en el mar al atardecer"
 ---
 
 ## Qué vas a ver

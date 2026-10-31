@@ -74,23 +74,29 @@ keywords:
 - ibiza botanical garden
 - things to do in ibiza with kids
 - plant piano ibiza
-imagen: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
-imagenAlt: Mediterranean pine woods in Ibiza with Es Vedrà in the background
-galeria:
-- src: /images/actividades/ibiza/calas/cala-bassa-pinos.webp
-  alt: Pine trees by the sea at Cala Bassa
-- src: /images/actividades/ibiza/mar/posidonia.webp
-  alt: Posidonia seagrass meadow, a Balearic marine plant
-- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
-  alt: Vegetation on the cliffs of western Ibiza
 ratingProveedor: 4.6
 numeroOpiniones: 38
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/bibo-park/fi1-piano-plantas-bibo-park.webp
+imagenAlt: "Plant piano under a wooden dome at BiBo Park Ibiza"
+galeria:
+- src: /images/actividades/ibiza/bibo-park/fi1-fotobiorreactor-bibo-park.webp
+  alt: "Microalgae photobioreactor at BiBo Park Ibiza"
+- src: /images/actividades/ibiza/bibo-park/fi1-olivo-jardin-mediterraneo.webp
+  alt: "Old olive tree in a Mediterranean plant garden"
+- src: /images/actividades/ibiza/bibo-park/fi1-romero-en-flor.webp
+  alt: "Rosemary in bloom, a typical Mediterranean scrub plant"
+- src: /images/actividades/ibiza/bibo-park/fi1-plantas-suculentas.webp
+  alt: "Columnar succulent plants in a garden"
+- src: /images/actividades/ibiza/bibo-park/fi1-ramas-romero.webp
+  alt: "Close-up of rosemary sprigs"
+- src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
+  alt: "Es Vedrà through the pines"
 ---
 
 ## What you will see

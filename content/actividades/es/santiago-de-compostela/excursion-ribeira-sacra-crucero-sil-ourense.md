@@ -67,26 +67,30 @@ keywords:
 - crucero cañon del sil
 - excursion ourense ribeira sacra
 - ribeira sacra desde santiago
-imagen: /images/actividades/santiago-de-compostela/rias/parras.webp
-imagenAlt: Parras de viñedo en Galicia
-galeria:
-- src: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
-  alt: Viñedos en Galicia
-- src: /images/actividades/santiago-de-compostela/finisterre/ponte-maceira.webp
-  alt: Río y puente de piedra en el interior de Galicia
-- src: /images/actividades/santiago-de-compostela/rias/bodega-fefinans-barricas.webp
-  alt: Barricas de vino gallego
-- src: /images/actividades/santiago-de-compostela/rias/vendimia-albarino-cambados.webp
-  alt: Vendimia en un viñedo gallego
 ratingProveedor: 4.5
 numeroOpiniones: 169
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-estela-barco-sil.webp
+imagenAlt: "Navegando en barco por el cañón del Sil"
+galeria:
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-vinedos-valle-sil.webp
+  alt: "Viñedos y valle del Sil en la Ribeira Sacra"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-canon-sil-desde-catamaran.webp
+  alt: "Paredes de roca del cañón del Sil desde el agua"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-rio-sil-panoramica.webp
+  alt: "Panorámica del río Sil entre laderas"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-meandro-sil.webp
+  alt: "Meandro del río Sil en la Ribeira Sacra"
+- src: /images/actividades/santiago-de-compostela/ourense/fsc-ourense-panoramica.webp
+  alt: "Panorámica de los tejados de Ourense"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-mirador-canon-sil.webp
+  alt: "Vista del cañón del Sil desde un mirador"
 ---
 
 ## Qué vas a ver

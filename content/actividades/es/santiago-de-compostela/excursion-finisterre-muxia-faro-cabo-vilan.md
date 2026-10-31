@@ -76,28 +76,32 @@ keywords:
 - costa da morte excursion
 - faro cabo vilan
 - muxia finisterre tour
-imagen: /images/actividades/santiago-de-compostela/finisterre/faro-fisterra.webp
-imagenAlt: Faro del cabo de Finisterre sobre el Atlántico
-galeria:
-- src: /images/actividades/santiago-de-compostela/finisterre/cabo-fisterra.webp
-  alt: Cabo de Finisterre, en la Costa da Morte
-- src: /images/actividades/santiago-de-compostela/finisterre/ezaro.webp
-  alt: Cascada del Ézaro cayendo al mar
-- src: /images/actividades/santiago-de-compostela/finisterre/muxia.webp
-  alt: Santuario da Virxe da Barca en Muxía
-- src: /images/actividades/santiago-de-compostela/finisterre/km-cero.webp
-  alt: Mojón del kilómetro cero del Camino en Finisterre
-- src: /images/actividades/santiago/finisterre/cabo-finisterre-atardecer.webp
-  alt: Atardecer en el cabo de Finisterre
 ratingProveedor: 4.7
 numeroOpiniones: 558
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-visitantes-faro-muxia.webp
+imagenAlt: "Visitantes entre las rocas junto al faro de Muxía, en la Costa da Morte"
+galeria:
+- src: /images/actividades/santiago-de-compostela/finisterre/ezaro.webp
+  alt: "Cascada del Ézaro cayendo al mar"
+- src: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-mojon-km0.webp
+  alt: "Mojón del kilómetro 0 del Camino camino del faro de Finisterre"
+- src: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-faro-fisterra-visitantes.webp
+  alt: "Visitantes ante el faro de Finisterre"
+- src: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-bota-bronce.webp
+  alt: "Bota de bronce del peregrino en el cabo de Finisterre"
+- src: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-santuario-barca.webp
+  alt: "Santuario de la Virxe da Barca de Muxía visto a través de un arco"
+- src: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-muxia-vista.webp
+  alt: "Vista del pueblo y el puerto de Muxía"
+- src: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-rocas-muxia.webp
+  alt: "Rocas de granito frente al mar en Muxía"
 ---
 
 ## Qué vas a ver

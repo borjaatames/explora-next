@@ -70,29 +70,31 @@ keywords:
 - tour privado salamanca
 - colegio fonseca salamanca visita
 - guia privado salamanca
-imagen: /images/actividades/salamanca/universidad/fachada-detalle.webp
-imagenAlt: Detalle de la fachada plateresca de la Universidad de Salamanca
-galeria:
-- src: /images/actividades/salamanca/universidad/biblioteca.webp
-  alt: Biblioteca histórica de la Universidad de Salamanca
-- src: /images/actividades/salamanca/universidad/universidad-salamanca-patio-claustro-pozo-hero.webp
-  alt: Claustro con pozo en la Universidad de Salamanca
-- src: /images/actividades/salamanca/universidad/patio-escuelas.webp
-  alt: Patio de Escuelas de la Universidad
-- src: /images/actividades/salamanca/universidad/escuelas-menores.webp
-  alt: Escuelas Menores de la Universidad de Salamanca
-- src: /images/actividades/salamanca/centro/huerto-calixto.webp
-  alt: Huerto de Calixto y Melibea en Salamanca
 ratingProveedor: 4.7
 numeroOpiniones: 20
 atraccionesRelacionadas:
 - universidad-catedrales
 - monumentos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/universidad/biblioteca.webp
+imagenAlt: "Biblioteca histórica de la Universidad de Salamanca"
+galeria:
+- src: /images/actividades/salamanca/universidad/fachada-universidad.webp
+  alt: "Fachada plateresca de la Universidad de Salamanca"
+- src: /images/actividades/salamanca/universidad/medallon-reyes.webp
+  alt: "Medallón de los Reyes Católicos en la fachada"
+- src: /images/actividades/salamanca/universidad/biblioteca-interior.webp
+  alt: "Portada interior de acceso a la biblioteca"
+- src: /images/actividades/salamanca/universidad/biblioteca-estanterias.webp
+  alt: "Estanterías y globos terráqueos de la biblioteca histórica"
+- src: /images/actividades/salamanca/universidad/patio-escuelas.webp
+  alt: "Patio de Escuelas Menores"
+- src: /images/actividades/salamanca/universidad/escuelas-menores.webp
+  alt: "Claustro de Escuelas Menores"
 ---
 
 ## Qué vas a ver

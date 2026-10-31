@@ -66,29 +66,33 @@ keywords:
 - jerez caballos y bodega desde sevilla
 - real escuela ecuestre jerez excursion
 - como bailan los caballos andaluces sevilla
-imagen: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp
-imagenAlt: Espectáculo ecuestre en Jerez de la Frontera
-galeria:
-- src: /images/actividades/cordoba/ecuestre/espectaculo-doma-caballo-blanco.webp
-  alt: Caballo blanco en un ejercicio de doma
-- src: /images/actividades/cordoba/ecuestre/doma-reverencia.webp
-  alt: Caballo andaluz haciendo la reverencia
-- src: /images/actividades/cadiz/bodega/botas-arcos.webp
-  alt: Botas de vino bajo los arcos de una bodega de Jerez
-- src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp
-  alt: Bodega de Jerez de la Frontera
-- src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
-  alt: Viñedos sobre tierra albariza en el marco de Jerez
 ratingProveedor: 4.4
 numeroOpiniones: 28
 atraccionesRelacionadas:
 - caballos
 - bodegas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/picadero-cubierto-publico.webp
+imagenAlt: "Picadero cubierto de la Real Escuela Andaluza del Arte Ecuestre con público en las gradas"
+galeria:
+- src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
+  alt: "Viñedos sobre tierra albariza en el Marco de Jerez"
+- src: /images/actividades/cadiz/bodega/calle-bodega.webp
+  alt: "Calle con parras entre las naves de una bodega de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/botas-viejas.webp
+  alt: "Botas de roble viejas en una bodega"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/dos-copas-cata.webp
+  alt: "Dos copas de vino generoso preparadas para la cata"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/palacio-recreo-cadenas.webp
+  alt: "Palacio del Recreo de las Cadenas en la Real Escuela Andaluza del Arte Ecuestre"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-andaluz-jinete-corto.webp
+  alt: "Caballo andaluz tordo montado por un jinete vestido de corto"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/picadero-vacio.webp
+  alt: "Picadero cubierto de la Real Escuela, con sus gradas y ventanas ovaladas"
 ---
 
 ## Qué vas a ver

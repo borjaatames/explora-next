@@ -77,26 +77,30 @@ keywords:
 - hiking with goats fuerteventura
 - fuerteventura hiking tour
 - unique things to do fuerteventura
-imagen: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-imagenAlt: Majorero goat in Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Majorero goat
-- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: Mountains in southern Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: Village in inland Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/cuevas-de-ajuy.webp
-  alt: Ajuy coast, in the municipality of Pájara
 ratingProveedor: 4.9
 numeroOpiniones: 195
 atraccionesRelacionadas:
 - sur
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
+imagenAlt: "Majorera goat with long horns"
+galeria:
+- src: /images/actividades/fuerteventura/cabras/ffv-cabra-en-las-rocas.webp
+  alt: "Goat on volcanic rocks"
+- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
+  alt: "Mountains in the south of Fuerteventura"
+- src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
+  alt: "Herd of goats on a hillside in Fuerteventura"
+- src: /images/actividades/fuerteventura/cabras/ffv-pastor-majorero.webp
+  alt: "Shepherd walking across the Fuerteventura countryside"
+- src: /images/actividades/fuerteventura/cabras/ffv-granja-campo-desertico.webp
+  alt: "Livestock farm in the arid Fuerteventura landscape"
+- src: /images/actividades/fuerteventura/queso/ffv-ensalada-queso-cabra.webp
+  alt: "Salad with goat cheese and figs"
 ---
 
 ## What you will see

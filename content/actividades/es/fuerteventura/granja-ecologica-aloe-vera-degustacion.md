@@ -74,25 +74,27 @@ keywords:
 - visita aloe vera fuerteventura
 - granja ecologica fuerteventura
 - que hacer en fuerteventura con niños
-imagen: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-imagenAlt: Cabra majorera en Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Cabra majorera, raza autóctona de Fuerteventura
-- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Papas arrugadas con mojo verde
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: Calle de Betancuria, en el interior de Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Paisaje volcánico del interior de Fuerteventura
 ratingProveedor: 4.9
 numeroOpiniones: 187
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/granja-aloe/ffv-plantacion-aloe-vera.webp
+imagenAlt: "Plantas de aloe vera en una plantación"
+galeria:
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-finca-aloe-vera-fuerteventura.webp
+  alt: "Finca de aloe vera en flor al pie de las montañas de Fuerteventura"
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-burro-majorero.webp
+  alt: "Burro majorero en el campo"
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-hoja-aloe-cortada.webp
+  alt: "Hoja de aloe vera cortada con su gel"
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-aloe-en-flor.webp
+  alt: "Hileras de aloe en flor"
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp
+  alt: "Hileras de aloe vera en tierra volcánica"
 ---
 
 ## Qué vas a ver

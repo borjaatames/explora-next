@@ -75,26 +75,32 @@ keywords:
 - gibraltar desde jerez de la frontera
 - tour gibraltar dia completo
 - visitar gibraltar desde cadiz
-imagen: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
-imagenAlt: El Peñón de Gibraltar visto desde la ciudad
-galeria:
-- src: /images/actividades/malaga/gibraltar/macacos-reserva-natural.webp
-  alt: Monos en la Reserva Natural del Peñón de Gibraltar
-- src: /images/actividades/malaga/gibraltar/cueva-san-miguel-iluminada.webp
-  alt: Cueva de San Miguel iluminada
-- src: /images/actividades/malaga/gibraltar/penon-cresta.webp
-  alt: Cresta del Peñón de Gibraltar
-- src: /images/actividades/malaga/gibraltar/macaco.webp
-  alt: Mono de Berbería en Gibraltar
-- src: /images/actividades/malaga/gibraltar/cueva-san-miguel-estalactitas.webp
-  alt: Estalactitas de la Cueva de San Miguel
 ratingProveedor: 4.4
 numeroOpiniones: 27
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/gibraltar/vista-cima-penon-bahia.webp
+imagenAlt: "Vista desde lo alto del Peñón de Gibraltar sobre la bahía"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/gibraltar/penon-desde-el-mar.webp
+  alt: "El Peñón de Gibraltar visto desde el mar"
+- src: /images/actividades/malaga/gibraltar/penon-cresta.webp
+  alt: "La cresta del Peñón de Gibraltar sobre el mar"
+- src: /images/actividades/malaga/gibraltar/cueva-san-miguel-auditorio.webp
+  alt: "El auditorio natural de la cueva de San Miguel, en el Peñón de Gibraltar"
+- src: /images/actividades/malaga/gibraltar/macacos-familia.webp
+  alt: "Familia de macacos en el Peñón de Gibraltar"
+- src: /images/actividades/malaga/gibraltar/tuneles-asedio.webp
+  alt: "Túneles del Gran Asedio en el Peñón"
+- src: /images/actividades/jerez-de-la-frontera/gibraltar/ciudad-puerto-desde-penon.webp
+  alt: "La ciudad y el puerto de Gibraltar vistos desde el Peñón"
+- src: /images/actividades/cadiz/tarifa/tarifa-vista-africa.webp
+  alt: "La costa de África vista desde la muralla de Tarifa"
+- src: /images/actividades/cadiz/tarifa/tarifa-castillo-guzman.webp
+  alt: "Torres del castillo de Guzmán el Bueno en Tarifa"
 ---
 
 ## Qué vas a ver

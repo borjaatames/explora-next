@@ -73,29 +73,31 @@ keywords:
 - guia privado santiago
 - visita privada catedral santiago
 - tour privado casco antiguo santiago
-imagen: /images/actividades/santiago-de-compostela/catedral/obradoiro-fachada.webp
-imagenAlt: Fachada del Obradoiro de la catedral de Santiago
-galeria:
-- src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: Rúa do Vilar en el casco antiguo
-- src: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
-  alt: Nave central de la catedral de Santiago
-- src: /images/actividades/santiago-de-compostela/casco/praterias-portada.webp
-  alt: Portada de Platerías de la catedral
-- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: Plaza de la Quintana en Santiago
-- src: /images/actividades/santiago-de-compostela/catedral/altar-mayor.webp
-  alt: Altar mayor de la catedral de Santiago
 ratingProveedor: 4.8
 numeroOpiniones: 74
 atraccionesRelacionadas:
 - centro-historico
 - catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/catedral/fsc-privado-fachada-obradoiro-cielo.webp
+imagenAlt: "Fachada barroca del Obradoiro de la catedral de Santiago"
+galeria:
+- src: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
+  alt: "Nave de la catedral de Santiago"
+- src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
+  alt: "Bóvedas del claustro, en el museo de la catedral"
+- src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
+  alt: "Rúa do Vilar en el casco antiguo"
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: "Plaza de la Quintana"
+- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
+  alt: "Plaza de Platerías"
+- src: /images/actividades/santiago-de-compostela/catedral/botafumeiro.webp
+  alt: "El botafumeiro en la catedral"
 ---
 
 ## Qué vas a ver

@@ -64,27 +64,29 @@ keywords:
 - visita bodega jerez centro
 - cata vino jerez
 - bodegas jerez de la frontera visita
-imagen: /images/actividades/jerez-de-la-frontera/centro/bodega-barricas-hero.webp
-imagenAlt: Botas de vino apiladas en una bodega de Jerez
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp
-  alt: Copas de vino de Jerez en una cata
-- src: /images/actividades/cadiz/bodega/botas-arcos.webp
-  alt: Botas bajo los arcos de una bodega
-- src: /images/actividades/jerez/tabancos/bota-velo-flor.webp
-  alt: Bota de vino con velo de flor
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
-  alt: Campanario de la catedral de Jerez
 ratingProveedor: 4.6
 numeroOpiniones: 393
 atraccionesRelacionadas:
 - bodegas
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/bodegas/nave-hileras-botas.webp
+imagenAlt: "Nave de bodega con hileras de botas de roble"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/bodegas/dos-copas-cata.webp
+  alt: "Dos copas de vino generoso preparadas para la cata"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/botas-viejas.webp
+  alt: "Botas de roble viejas en una bodega"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-arboles.webp
+  alt: "Cúpula de la Catedral de Jerez entre árboles"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-naranjos.webp
+  alt: "Calle Larga de Jerez, peatonal y con naranjos"
+- src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
+  alt: "Viñedos sobre tierra albariza en el Marco de Jerez"
 ---
 
 ## Qué vas a ver

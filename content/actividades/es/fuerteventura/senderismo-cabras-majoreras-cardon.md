@@ -77,26 +77,30 @@ keywords:
 - trekking cabras fuerteventura
 - rutas senderismo fuerteventura
 - actividades originales fuerteventura
-imagen: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-imagenAlt: Cabra majorera en Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Cabra majorera
-- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: Montañas del sur de Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: Pueblo del interior de Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/cuevas-de-ajuy.webp
-  alt: Costa de Ajuy, en el municipio de Pájara
 ratingProveedor: 4.9
 numeroOpiniones: 195
 atraccionesRelacionadas:
 - sur
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
+imagenAlt: "Cabra majorera de largos cuernos"
+galeria:
+- src: /images/actividades/fuerteventura/cabras/ffv-cabra-en-las-rocas.webp
+  alt: "Cabra sobre unas rocas volcánicas"
+- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
+  alt: "Montañas del sur de Fuerteventura"
+- src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
+  alt: "Rebaño de cabras en una ladera de Fuerteventura"
+- src: /images/actividades/fuerteventura/cabras/ffv-pastor-majorero.webp
+  alt: "Pastor caminando por el campo majorero"
+- src: /images/actividades/fuerteventura/cabras/ffv-granja-campo-desertico.webp
+  alt: "Granja ganadera en el paisaje árido de Fuerteventura"
+- src: /images/actividades/fuerteventura/queso/ffv-ensalada-queso-cabra.webp
+  alt: "Ensalada con queso de cabra e higos"
 ---
 
 ## Qué vas a ver

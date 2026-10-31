@@ -72,28 +72,34 @@ keywords:
 - cala salada barco
 - atardecer cafe del mar barco
 - paseo barco puesta de sol ibiza
-imagen: /images/actividades/ibiza/atardecer/atardecer-mar.webp
-imagenAlt: El sol sobre el mar en Ibiza
-galeria:
-- src: /images/actividades/ibiza/atardecer/atardecer-paseo.webp
-  alt: Paseo de Sant Antoni al atardecer
-- src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
-  alt: Puesta de sol en Sant Antoni
-- src: /images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp
-  alt: Barcos fondeados en una cala de Ibiza
-- src: /images/actividades/ibiza/mar/paddle-surf-cala.webp
-  alt: Paddle surf en aguas tranquilas
-- src: /images/actividades/ibiza/mar/esnorquel.webp
-  alt: Esnórquel sobre una pradera de posidonia
 ratingProveedor: 4.7
 numeroOpiniones: 93
 atraccionesRelacionadas:
 - vedra-atardecer
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/calas/fi1-cala-salada-puesta-sol.webp
+imagenAlt: "Puesta de sol en Cala Salada con veleros fondeados en la bahía"
+galeria:
+- src: /images/actividades/ibiza/sant-antoni/fi1-bahia-sant-antoni-puerto.webp
+  alt: "Bahía y puerto de Sant Antoni de Portmany con barcos fondeados"
+- src: /images/actividades/ibiza/calas/fi1-cala-salada-acantilado.webp
+  alt: "Acantilado y agua clara en Cala Salada"
+- src: /images/actividades/ibiza/calas/fi1-cala-gracio.webp
+  alt: "Playa de Cala Gració, cerca de Sant Antoni"
+- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
+  alt: "Paddle surf sobre el agua azul del Mediterráneo"
+- src: /images/actividades/ibiza/san-antonio/san-antonio-ibiza-hero.webp
+  alt: "Terrazas del paseo de las puestas de sol de Sant Antoni al atardecer, vistas desde el mar"
+- src: /images/actividades/ibiza/atardecer/atardecer-conillera.webp
+  alt: "Puesta de sol junto a la isla de Sa Conillera, frente a Sant Antoni"
+- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
+  alt: "Puesta de sol sobre los islotes frente a la costa oeste de Ibiza"
+- src: /images/actividades/ibiza/sant-antoni/fi1-bahia-sant-antoni-noche.webp
+  alt: "Paseo marítimo de Sant Antoni iluminado de noche con la luna sobre la bahía"
 ---
 
 ## Qué vas a ver

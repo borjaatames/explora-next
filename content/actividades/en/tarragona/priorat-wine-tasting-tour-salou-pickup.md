@@ -68,26 +68,32 @@ keywords:
 - priorat wine tour from salou
 - cornudella de montsant winery
 - wine tour salou hotel pickup
-imagen: /images/actividades/tarragona/quad/montsant.webp
-imagenAlt: The Montsant range near Cornudella, in the Priorat region
-galeria:
-- src: /images/actividades/tarragona/quad/prades-siurana.webp
-  alt: Mountain landscape near Siurana, in Priorat
-- src: /images/actividades/tarragona/vermut/barricas-vermut.webp
-  alt: Wooden barrels in a Tarragona cellar
-- src: /images/actividades/tarragona/vermut/cata-copa-en-mano.webp
-  alt: Tasting with a glass in hand
-- src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: Inland Tarragona mountains at sunset
 ratingProveedor: 4.7
 numeroOpiniones: 72
 atraccionesRelacionadas:
 - naturaleza
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/priorat/fta-barricas-vino-tinto-bodega.webp
+imagenAlt: "Oak barrels of red wine stacked in a winery"
+galeria:
+- src: /images/actividades/tarragona/priorat/fta-vinedos-cornudella-montsant.webp
+  alt: "Vineyards of Cornudella de Montsant"
+- src: /images/actividades/tarragona/priorat/fta-racimo-uva-tinta-otono.webp
+  alt: "Bunch of red grapes among red autumn vine leaves in the Priorat"
+- src: /images/actividades/tarragona/priorat/fta-vinedos-escaladei.webp
+  alt: "Hillside vineyards in Escaladei, Priorat"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Wine glasses set up for a tasting"
+- src: /images/actividades/tarragona/priorat/fta-vinedos-terrazas-falset.webp
+  alt: "Terraced vineyards near Falset"
+- src: /images/actividades/tarragona/priorat/fta-hoja-parra-roja.webp
+  alt: "Backlit red vine leaf in a Priorat vineyard"
+- src: /images/actividades/tarragona/priorat/fta-vinedos-camino-falset.webp
+  alt: "Track between vineyards in Falset"
 ---
 
 ## What you will see

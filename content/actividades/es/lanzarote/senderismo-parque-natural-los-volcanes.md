@@ -76,29 +76,29 @@ keywords:
 - ruta parque natural los volcanes
 - excursion a pie volcanes lanzarote
 - caminar por la lava lanzarote
-imagen: /images/actividades/lanzarote/zonas/sendero-volcan.webp
-imagenAlt: Sendero entre volcanes en Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/caldera-interior.webp
-  alt: Interior de una caldera volcánica en Lanzarote
-- src: /images/actividades/lanzarote/zonas/volcan-malpais.webp
-  alt: Malpaís de lava en Lanzarote
-- src: /images/actividades/lanzarote/zonas/ladera-volcanica.webp
-  alt: Ladera de un cono volcánico
-- src: /images/actividades/lanzarote/zonas/timanfaya-conos-rojizos.webp
-  alt: Conos volcánicos rojizos en la zona de Timanfaya
-- src: /images/actividades/lanzarote/zonas/volcan-vegetacion.webp
-  alt: Vegetación que crece sobre la lava
 ratingProveedor: 4.8
 numeroOpiniones: 432
 atraccionesRelacionadas:
 - volcanes
 - timanfaya
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/timanfaya/flz-crater-campo-lava.webp
+imagenAlt: "Cráter volcánico entre campos de lava en Lanzarote"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-cono-rojo.webp
+  alt: "Ladera de un cono volcánico rojizo en Timanfaya"
+- src: /images/actividades/lanzarote/zonas/volcan-malpais.webp
+  alt: "Volcán y malpaís en Lanzarote"
+- src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
+  alt: "Colada de lava solidificada en Timanfaya"
+- src: /images/actividades/lanzarote/zonas/sendero-volcan.webp
+  alt: "Sendero junto a un volcán en Lanzarote"
+- src: /images/actividades/lanzarote/timanfaya/flz-volcan-nubes.webp
+  alt: "Volcán rojizo bajo las nubes en Timanfaya"
 ---
 
 ## Qué vas a ver

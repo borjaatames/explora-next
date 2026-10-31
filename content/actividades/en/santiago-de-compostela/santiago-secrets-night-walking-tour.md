@@ -69,28 +69,28 @@ keywords:
 - santiago de compostela mysteries tour
 - santiago jewish quarter
 - santiago old town evening walk
-imagen: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-imagenAlt: Quintana Square beside Santiago Cathedral
-galeria:
-- src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: Arcades on Rúa do Vilar
-- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: Rúa do Franco in the old town
-- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: Praterías Square in Santiago
-- src: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp
-  alt: The cathedral seen from Quintana Square
-- src: /images/actividades/santiago-de-compostela/casco/praza-cervantes.webp
-  alt: Praza de Cervantes in the old town
 ratingProveedor: 4.9
 numeroOpiniones: 87
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/noche/fsc-obradoiro-cielo-atardecer.webp
+imagenAlt: "Obradoiro façade at nightfall under a reddish sky"
+galeria:
+- src: /images/actividades/santiago-de-compostela/noche/fsc-catedral-arco-blanco-negro.webp
+  alt: "The cathedral framed by a shadowy archway"
+- src: /images/actividades/santiago-de-compostela/cubiertas/catedral-alameda.webp
+  alt: "Santiago Cathedral in late golden light"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-porta-santa-quintana.webp
+  alt: "Outer Holy Door on Praza da Quintana"
+- src: /images/actividades/santiago-de-compostela/cubiertas/berenguela.webp
+  alt: "The Clock Tower (Berenguela) against the light"
+- src: /images/actividades/santiago-de-compostela/catedral/claustro.webp
+  alt: "Cathedral cloister arches in black and white"
 ---
 
 ## What you will see

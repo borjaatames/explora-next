@@ -87,30 +87,34 @@ keywords:
 - catamaran formentera barra libre
 - barco ibiza formentera todo incluido
 - ses illetes en barco
-imagen: /images/actividades/ibiza/formentera/ses-illetes.webp
-imagenAlt: Playa de Ses Illetes en Formentera, con agua turquesa
-galeria:
-- src: /images/actividades/ibiza/crucero-calas/barco-excursion-tobogan.webp
-  alt: Barco de excursión con tobogán fondeado en el mar
-- src: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
-  alt: Lengua de arena de Ses Illetes, en Formentera
-- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
-  alt: Paddle surf en aguas cristalinas
-- src: /images/actividades/ibiza/formentera/la-savina.webp
-  alt: Barco en el puerto de La Savina, Formentera
-- src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-01.webp
-  alt: Fiesta a bordo de un barco en Ibiza
-- src: /images/actividades/ibiza/vedra/es-vedra-puesta-sol.webp
-  alt: Puesta de sol junto a Es Vedrà
 ratingProveedor: 4.7
 numeroOpiniones: 1170
 atraccionesRelacionadas:
 - formentera
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/catamaran/fi2-catamaran-fondeado-turquesa.webp
+imagenAlt: "Catamarán fondeado en aguas turquesas"
+galeria:
+- src: /images/actividades/ibiza/formentera/fi2-barcos-fondeados-baleares-aerea.webp
+  alt: "Vista aérea de barcos fondeados entre Ibiza y Formentera"
+- src: /images/actividades/ibiza/catamaran/fi2-catamaran-vista-aerea.webp
+  alt: "Catamarán visto desde el aire sobre agua cristalina"
+- src: /images/actividades/ibiza/formentera/fi2-ses-illetes-lengua-arena.webp
+  alt: "Lengua de arena de Ses Illetes con barcos fondeados a ambos lados"
+- src: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
+  alt: "Playa de Ses Illetes, en Formentera"
+- src: /images/actividades/ibiza/formentera/migjorn.webp
+  alt: "Playa de Migjorn, en Formentera"
+- src: /images/actividades/ibiza/formentera/la-savina.webp
+  alt: "Barco de pesca en el puerto de La Savina al caer la tarde"
+- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
+  alt: "Puesta de sol sobre los islotes de la costa de Ibiza"
+- src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-04.webp
+  alt: "Bahía de Ibiza con veleros al atardecer"
 ---
 
 ## Qué vas a ver

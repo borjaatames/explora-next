@@ -76,29 +76,35 @@ keywords:
 - paseo en velero ibiza atardecer
 - barco vela san antonio ibiza
 - excursion en barco ibiza grupo reducido
-imagen: /images/actividades/ibiza/atardecer/velero-atardecer.webp
-imagenAlt: Velero navegando al atardecer en Ibiza
-galeria:
-- src: /images/actividades/ibiza/calas/cala-conta-veleros.webp
-  alt: Veleros fondeados en Cala Conta
-- src: /images/actividades/ibiza/mar/paddle-surf-cala.webp
-  alt: Paddle surf en una cala
-- src: /images/actividades/ibiza/kayak-codolar/esnorquel-costa-rocosa.webp
-  alt: Esnórquel junto a una costa rocosa
-- src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
-  alt: Puesta de sol en Sant Antoni
-- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
-  alt: Puerto de Sant Antoni
 ratingProveedor: 4.7
 numeroOpiniones: 480
 atraccionesRelacionadas:
 - vedra-atardecer
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/velero/fi2-velero-atardecer-sa-conillera.webp
+imagenAlt: "Velero navegando al atardecer frente a la isla de Sa Conillera, en Ibiza"
+galeria:
+- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
+  alt: "Barcos amarrados en el puerto de Sant Antoni"
+- src: /images/actividades/ibiza/velero/fi2-velero-fondeado-cala.webp
+  alt: "Velero fondeado en una cala de aguas turquesas"
+- src: /images/actividades/ibiza/velero/fi2-cala-bassa-barcos.webp
+  alt: "Barcos fondeados en Cala Bassa, en la costa oeste de Ibiza"
+- src: /images/actividades/ibiza/crucero-calas/paddle-surf-aguas-cristalinas.webp
+  alt: "Tabla de paddle surf sobre aguas cristalinas"
+- src: /images/actividades/ibiza/mar/esnorquel.webp
+  alt: "Esnórquel sobre una pradera de posidonia"
+- src: /images/actividades/ibiza/velero/fi2-cala-comte-veleros.webp
+  alt: "Veleros frente a los islotes de Cala Comte, en Ibiza"
+- src: /images/actividades/ibiza/velero/fi2-velero-luz-dorada.webp
+  alt: "Velero con las velas desplegadas a última hora de la tarde"
+- src: /images/actividades/ibiza/atardecer/atardecer-conillera.webp
+  alt: "Puesta de sol junto a Sa Conillera, frente a Sant Antoni"
 ---
 
 ## Qué vas a ver

@@ -72,29 +72,29 @@ keywords:
 - timanfaya and la geria tour
 - el golfo lanzarote tour
 - timanfaya tour with hotel pickup
-imagen: /images/actividades/lanzarote/timanfaya-volcanes.webp
-imagenAlt: Reddish volcanic cones in the Fire Mountains, Timanfaya
-galeria:
-- src: /images/actividades/lanzarote/zonas/timanfaya-conos-rojizos.webp
-  alt: Reddish volcanic cones in Timanfaya
-- src: /images/actividades/lanzarote/zonas/ruta-volcanes.webp
-  alt: The Volcano Route road
-- src: /images/actividades/lanzarote/zonas/el-golfo-charco-clicos.webp
-  alt: Charco de los Clicos, the green lagoon at El Golfo
-- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
-  alt: Vines planted in pits in volcanic ash at La Geria
-- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-  alt: La Geria vineyards
 ratingProveedor: 4.5
 numeroOpiniones: 793
 atraccionesRelacionadas:
 - timanfaya
 - volcanes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/timanfaya/flz-volcan-nubes.webp
+imagenAlt: "Reddish volcano under clouds in Timanfaya"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
+  alt: "Timanfaya National Park landscape with the sea behind"
+- src: /images/actividades/lanzarote/la-geria/flz-hoyos-ladera.webp
+  alt: "Stone-walled vine pits on a slope in La Geria"
+- src: /images/actividades/lanzarote/el-golfo/flz-caldera-panoramica.webp
+  alt: "Panoramic view of El Golfo crater by the ocean"
+- src: /images/actividades/lanzarote/el-golfo/flz-mirador-cuerda.webp
+  alt: "Viewpoint over Charco de los Clicos at El Golfo"
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: "Los Hervideros, lava cliffs by the sea"
 ---
 
 ## What you will see

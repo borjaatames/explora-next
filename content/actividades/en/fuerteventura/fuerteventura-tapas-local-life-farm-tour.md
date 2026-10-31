@@ -71,23 +71,29 @@ keywords:
 - majorero cheese farm visit
 - fuerteventura olive oil tasting
 - fuerteventura tapas tour
-imagen: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-imagenAlt: Majorero goat, the breed behind Fuerteventura's cheese
-galeria:
-- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Wrinkled potatoes with green mojo
-- src: /images/actividades/fuerteventura/zonas/oasis-park-cactus.webp
-  alt: Cacti in Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: A village in Fuerteventura's interior
 ratingProveedor: 4.9
 numeroOpiniones: 489
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
+imagenAlt: "Fresh goat cheese being made in a cheese dairy"
+galeria:
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
+  alt: "Aged cheeses of different sizes"
+- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
+  alt: "Wrinkled potatoes with green mojo sauce"
+- src: /images/actividades/ibiza/bibo-park/fi1-olivo-jardin-mediterraneo.webp
+  alt: "Old olive tree"
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-y-vino-casero.webp
+  alt: "Cheeses and bottles of wine on a table"
+- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
+  alt: "Majorera goat on a farm"
+- src: /images/actividades/fuerteventura/queso/ffv-tostas-queso-higos.webp
+  alt: "Cheese toasts with figs"
 ---
 
 ## What you will see

@@ -64,27 +64,31 @@ keywords:
 - visita bodega jerez cata
 - bodegas jerez de la frontera
 - cata vino jerez centro
-imagen: /images/actividades/cadiz/bodega/botas-arcos.webp
-imagenAlt: Botas de vino bajo los arcos de una bodega de Jerez
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/bodega-barricas-hero.webp
-  alt: Botas de vino apiladas en una bodega
-- src: /images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp
-  alt: Copas de vino de Jerez en una cata
-- src: /images/actividades/cadiz/bodega/patio-bodega.webp
-  alt: Patio de una bodega de Jerez
-- src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
-  alt: Viñedos sobre tierra albariza en el Marco de Jerez
 ratingProveedor: 4.6
 numeroOpiniones: 379
 atraccionesRelacionadas:
 - bodegas
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/bodegas/botas-roble-apiladas.webp
+imagenAlt: "Botas de roble apiladas en una bodega"
+galeria:
+- src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
+  alt: "Viñedos sobre tierra albariza en el Marco de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/bota-grifo-laton.webp
+  alt: "Bota de roble con grifo de latón"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-generoso.webp
+  alt: "Copa de vino generoso sobre una tabla de madera"
+- src: /images/actividades/jerez-de-la-frontera/tapas/tabla-tapas-cazuelas.webp
+  alt: "Surtido de tapas y cazuelitas de barro"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
+  alt: "Calle del casco antiguo de Jerez con ventanales y terraza"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-arboles.webp
+  alt: "Cúpula de la Catedral de Jerez entre árboles"
 ---
 
 ## Qué vas a ver

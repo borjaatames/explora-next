@@ -71,29 +71,33 @@ keywords:
 - guia privado salamanca
 - visita salamanca con local
 - paseo por salamanca a medida
-imagen: /images/actividades/salamanca/centro/casa-conchas-clerecia.webp
-imagenAlt: Casa de las Conchas y torres de la Clerecía en Salamanca
-galeria:
-- src: /images/actividades/salamanca/plaza/plaza-mayor-soportales.webp
-  alt: Soportales de la Plaza Mayor de Salamanca
-- src: /images/actividades/salamanca/centro/casa-conchas.webp
-  alt: Fachada de la Casa de las Conchas
-- src: /images/actividades/salamanca/centro/huerto-calixto.webp
-  alt: Huerto de Calixto y Melibea
-- src: /images/actividades/salamanca/rio/tormes-puente.webp
-  alt: Puente Romano sobre el Tormes
-- src: /images/actividades/salamanca/centro/clerecia.webp
-  alt: La Clerecía de Salamanca
 ratingProveedor: 4.5
 numeroOpiniones: 102
 atraccionesRelacionadas:
 - casco-historico
 - plaza-mayor
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/rio/tormes-catedral.webp
+imagenAlt: "Salamanca y sus catedrales desde la orilla del Tormes"
+galeria:
+- src: /images/actividades/salamanca/centro/puente-romano.webp
+  alt: "Puente romano de Salamanca"
+- src: /images/actividades/salamanca/centro/huerto-calixto.webp
+  alt: "Huerto de Calixto y Melibea"
+- src: /images/actividades/salamanca/centro/casa-conchas-clerecia.webp
+  alt: "Casa de las Conchas y la Clerecía"
+- src: /images/actividades/salamanca/tour-privado-local/palacio-salina.webp
+  alt: "Galería del Palacio de la Salina en Salamanca"
+- src: /images/actividades/salamanca/plaza/plaza-mayor-lluvia.webp
+  alt: "Plaza Mayor de Salamanca en un día nublado"
+- src: /images/actividades/salamanca/centro/claustro-reyes.webp
+  alt: "Claustro del Convento de San Esteban"
+- src: /images/actividades/salamanca/noche/torre-clavero.webp
+  alt: "Torre del Clavero"
 ---
 
 ## Qué vas a ver

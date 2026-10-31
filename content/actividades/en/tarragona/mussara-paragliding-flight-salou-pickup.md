@@ -68,24 +68,32 @@ keywords:
 - paragliding salou
 - la mussara paragliding
 - tandem paragliding costa dorada
-imagen: /images/actividades/tarragona/quad/prades-atardecer.webp
-imagenAlt: The Prades mountains, home to La Mussara, at sunset
-galeria:
-- src: /images/actividades/tarragona/quad/prades-siurana.webp
-  alt: Mountain landscape inland from Tarragona
-- src: /images/actividades/tarragona/quad/montsant.webp
-  alt: Mountain ranges inland from Tarragona seen from above
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: The Salou coast, where the activity starts
 ratingProveedor: 4.9
 numeroOpiniones: 27
 atraccionesRelacionadas:
 - naturaleza
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/parapente/fta-parapente-biplaza-nubes.webp
+imagenAlt: "Tandem paraglider flying among clouds"
+galeria:
+- src: /images/actividades/tarragona/quad/prades-siurana.webp
+  alt: "Prades mountains and inland Tarragona valley"
+- src: /images/actividades/tarragona/parapente/fta-piloto-pasajero-biplaza.webp
+  alt: "Pilot and passenger on a tandem paragliding flight"
+- src: /images/actividades/tarragona/quad/montsant.webp
+  alt: "Panoramic view of the inland Tarragona ranges"
+- src: /images/actividades/tarragona/parapente/fta-parapente-cielo-claro.webp
+  alt: "Tandem paraglider in flight"
+- src: /images/actividades/tarragona/parapente/fta-mirador-sierras-interior.webp
+  alt: "Viewpoint over the inland Tarragona ranges"
+- src: /images/actividades/tarragona/parapente/fta-dos-parapentes-cielo-azul.webp
+  alt: "Two paragliders flying in a blue sky"
+- src: /images/actividades/tarragona/quad/prades-atardecer.webp
+  alt: "Sunset over the Prades mountains"
 ---
 
 ## What you will see

@@ -67,25 +67,29 @@ keywords:
 - pool party ibiza
 - ruta de fiesta sant antoni
 - entradas discoteca ibiza
-imagen: /images/actividades/ibiza/ocio-nocturno/ocio-nocturno-ibiza-hero.webp
-imagenAlt: Ambiente de ocio nocturno en Ibiza
-galeria:
-- src: /images/actividades/ibiza/ocio-nocturno/ocio-nocturno-ibiza-card.webp
-  alt: Noche de fiesta en Ibiza
-- src: /images/actividades/ibiza/san-antonio/san-antonio-ibiza-hero.webp
-  alt: Sant Antoni de Portmany
-- src: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
-  alt: Bahía de Sant Antoni
-- src: /images/actividades/ibiza/atardecer/atardecer-paseo.webp
-  alt: Paseo de Sant Antoni al atardecer
 ratingProveedor: 4.8
 numeroOpiniones: 477
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/fiesta/fi2-globos-piscina.webp
+imagenAlt: "Globos de colores flotando en una piscina"
+galeria:
+- src: /images/actividades/ibiza/fiesta/fi2-paseo-sant-antoni-atardecer.webp
+  alt: "Paseo marítimo de Sant Antoni lleno de gente al atardecer"
+- src: /images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp
+  alt: "Chiringuito con vistas al mar en Ibiza"
+- src: /images/actividades/ibiza/fiesta/fi2-banistas-piscina-aerea.webp
+  alt: "Bañistas en una piscina vistos desde arriba"
+- src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
+  alt: "Puesta de sol en la bahía de Sant Antoni"
+- src: /images/actividades/ibiza/fiesta/fi2-sant-antoni-noche.webp
+  alt: "Paseo de Sant Antoni iluminado de noche"
+- src: /images/actividades/ibiza/fiesta/fi2-pista-discoteca-luces.webp
+  alt: "Pista de baile de una discoteca con bola de espejos y focos"
 ---
 
 ## Qué vas a ver

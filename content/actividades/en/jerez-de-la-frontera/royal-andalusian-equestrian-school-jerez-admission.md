@@ -72,26 +72,32 @@ keywords:
 - royal school jerez tickets
 - jerez horse training visit
 - jerez carriage museum
-imagen: /images/actividades/cadiz/yeguada/yeguas-pista.webp
-imagenAlt: Carthusian mares on display in an arena
-galeria:
-- src: /images/actividades/cadiz/yeguada/jinete-cartujano.webp
-  alt: A rider on a Carthusian horse
-- src: /images/actividades/cadiz/yeguada/enganche.webp
-  alt: Horses pulling a carriage
-- src: /images/actividades/cadiz/yeguada/potros.webp
-  alt: Carthusian colts
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-jardines-hero.webp
-  alt: Gardens of the Alcázar of Jerez
 ratingProveedor: 4.6
 numeroOpiniones: 1038
 atraccionesRelacionadas:
 - caballos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/entrenamiento-doma-pista-exterior.webp
+imagenAlt: "Dressage training with horse and rider in the outdoor arena of the Royal School in Jerez"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/doma-pista-exterior-palmeras.webp
+  alt: "Rider schooling a horse in the Royal School's outdoor arena, among palm trees"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballos-pista-exterior.webp
+  alt: "Horses and riders in the outdoor arena in front of the Royal School stables"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-tordo-cuadras.webp
+  alt: "Grey horse beside the stables"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/picadero-vacio.webp
+  alt: "Indoor arena of the Royal School, with its stands and oval windows"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-pura-raza-espanola-tordo.webp
+  alt: "Grey Pure Spanish Breed horse"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/palacio-recreo-cadenas.webp
+  alt: "Recreo de las Cadenas palace at the Royal Andalusian School of Equestrian Art"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/jardines-palmeras-real-escuela.webp
+  alt: "Palm-lined gardens beside the Royal School palace in Jerez"
 ---
 
 ## What you will see

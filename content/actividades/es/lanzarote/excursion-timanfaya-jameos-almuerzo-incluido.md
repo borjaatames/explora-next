@@ -75,29 +75,33 @@ keywords:
 - tour timanfaya y jameos del agua
 - excursion dia completo lanzarote
 - excursion la geria y el golfo
-imagen: /images/actividades/lanzarote/tour-dia-completo.webp
-imagenAlt: Paisaje de Lanzarote en una excursión de día completo por la isla
-galeria:
-- src: /images/actividades/lanzarote/zonas/el-golfo-crater.webp
-  alt: El cráter de El Golfo junto al mar
-- src: /images/actividades/lanzarote/zonas/timanfaya-montanas-del-fuego.webp
-  alt: Montañas del Fuego en Timanfaya
-- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-  alt: Viñedos de La Geria
-- src: /images/actividades/lanzarote/zonas/jameos-reflejo.webp
-  alt: Reflejo en el lago de los Jameos del Agua
-- src: /images/actividades/lanzarote/zonas/jameos-jardin.webp
-  alt: Jardín de los Jameos del Agua
 ratingProveedor: 4.5
 numeroOpiniones: 587
 atraccionesRelacionadas:
 - timanfaya
 - jameos-cueva
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/timanfaya/flz-conos-malpais.webp
+imagenAlt: "Conos volcánicos y malpaís en Timanfaya"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-cono-rojo.webp
+  alt: "Ladera de un cono volcánico rojizo en Timanfaya"
+- src: /images/actividades/lanzarote/la-geria/flz-vides-verdes.webp
+  alt: "Vides verdes en hoyos de ceniza volcánica en La Geria"
+- src: /images/actividades/lanzarote/el-golfo/flz-laguna-verde-roca-roja.webp
+  alt: "Laguna verde de El Golfo entre rocas rojizas"
+- src: /images/actividades/lanzarote/el-golfo/flz-laguna-acantilado.webp
+  alt: "Laguna verde bajo el acantilado volcánico de El Golfo"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
+  alt: "Escaleras de piedra y jardín en los Jameos del Agua"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
+  alt: "Piscina turquesa de los Jameos del Agua"
+- src: /images/actividades/lanzarote/zonas/jameos-lago-interior.webp
+  alt: "Lago interior de los Jameos del Agua"
 ---
 
 ## Qué vas a ver

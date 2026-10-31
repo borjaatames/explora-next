@@ -77,28 +77,34 @@ keywords:
 - paseo en barco tradicional ibiza
 - barco calas san antonio tapas
 - excursion barco cala comte
-imagen: /images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp
-imagenAlt: Barcos fondeados en una cala de Ibiza
-galeria:
-- src: /images/actividades/ibiza/calas/cala-conta.webp
-  alt: Aguas claras de Cala Comte
-- src: /images/actividades/ibiza/calas/cala-bassa.webp
-  alt: Cala Bassa
-- src: /images/actividades/ibiza/mar/cueva-marina.webp
-  alt: Esnórquel dentro de una cueva marina
-- src: /images/actividades/ibiza/mar/paddle-surf-cala.webp
-  alt: Paddle surf en aguas tranquilas
-- src: /images/actividades/ibiza/calas/esnorquel-cala-llenya.webp
-  alt: Esnórquel en una cala de Ibiza
 ratingProveedor: 4.7
 numeroOpiniones: 32
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/llaut/fi2-barca-tradicional-madera.webp
+imagenAlt: "Barca tradicional de madera navegando en el Mediterráneo"
+galeria:
+- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
+  alt: "Barcas amarradas en el puerto de Sant Antoni"
+- src: /images/actividades/ibiza/llaut/fi2-cala-salada.webp
+  alt: "Cala Salada, cerca de Sant Antoni"
+- src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
+  alt: "Barca de madera varada entre las rocas de una cala de Ibiza"
+- src: /images/actividades/ibiza/llaut/fi2-cala-comte.webp
+  alt: "Aguas turquesas de Cala Comte"
+- src: /images/actividades/ibiza/llaut/fi2-cala-bassa.webp
+  alt: "Barcos fondeados en Cala Bassa"
+- src: /images/actividades/ibiza/llaut/fi2-esnorquel-rocas.webp
+  alt: "Esnórquel junto a una costa rocosa"
+- src: /images/actividades/ibiza/llaut/fi2-cala-gracio.webp
+  alt: "Playa de Cala Gració, en Sant Antoni"
+- src: /images/actividades/ibiza/llaut/fi2-cala-salada-atardecer.webp
+  alt: "Puesta de sol en Cala Salada"
 ---
 
 ## Qué vas a ver

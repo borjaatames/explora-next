@@ -81,26 +81,30 @@ keywords:
 - moto de agua san antonio ibiza
 - excursion moto de agua sin licencia
 - islas margaritas ibiza
-imagen: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
-imagenAlt: Bahía de Sant Antoni, punto de salida de la excursión
-galeria:
-- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
-  alt: Islotes frente a la costa de Ibiza
-- src: /images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp
-  alt: Cala de Ibiza con barcos fondeados
-- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
-  alt: Puerto de Sant Antoni
-- src: /images/actividades/ibiza/mar/cueva-marina.webp
-  alt: Cueva marina en la costa
 ratingProveedor: 4.6
 numeroOpiniones: 313
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/moto-agua/fi2-motos-agua-junto-islote.webp
+imagenAlt: "Dos motos de agua navegando junto a un islote"
+galeria:
+- src: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
+  alt: "Bahía de Sant Antoni, punto de salida"
+- src: /images/actividades/ibiza/moto-agua/fi2-motos-agua-mar-abierto.webp
+  alt: "Motos de agua en mar abierto"
+- src: /images/actividades/ibiza/moto-agua/fi2-bahia-sant-antoni-desde-arriba.webp
+  alt: "Vista de la bahía de Sant Antoni con barcos fondeados"
+- src: /images/actividades/ibiza/moto-agua/fi2-moto-agua-olas.webp
+  alt: "Piloto con casco conduciendo una moto de agua entre olas"
+- src: /images/actividades/ibiza/moto-agua/fi2-acantilados-costa-norte.webp
+  alt: "Acantilados de la costa norte de Ibiza, cerca de Cala Salada"
+- src: /images/actividades/ibiza/moto-agua/fi2-moto-agua-estela.webp
+  alt: "Moto de agua dejando una estela de espuma"
 ---
 
 ## Qué vas a ver

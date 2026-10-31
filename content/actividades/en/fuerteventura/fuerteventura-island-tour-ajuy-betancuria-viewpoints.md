@@ -76,25 +76,29 @@ keywords:
 - betancuria ajuy tour
 - ajuy caves tour
 - fuerteventura small group tour
-imagen: /images/actividades/fuerteventura/zonas/cuevas-de-ajuy.webp
-imagenAlt: Ajuy caves by the sea
-galeria:
-- src: /images/actividades/fuerteventura/zonas/cuevas-de-ajuy.webp
-  alt: Ajuy caves
-- src: /images/actividades/fuerteventura/zonas/betancuria-iglesia.webp
-  alt: Betancuria church
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: Street in Betancuria
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Volcanic mountains in Fuerteventura
 ratingProveedor: 4.8
 numeroOpiniones: 195
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/betancuria/ffv-betancuria-1.webp
+imagenAlt: "Church of Santa María and square in Betancuria"
+galeria:
+- src: /images/actividades/fuerteventura/betancuria/ffv-puerta-municipio-betancuria.webp
+  alt: "Entrance monument to the municipality of Betancuria"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-5.webp
+  alt: "Entrance to the historic town of Betancuria"
+- src: /images/actividades/fuerteventura/ajuy/ffv-costa-ajuy.webp
+  alt: "Ajuy coastline with the black beach"
+- src: /images/actividades/fuerteventura/ajuy/ffv-acantilados-ajuy.webp
+  alt: "Ajuy cliffs above the sea"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-4.webp
+  alt: "Garden beside the Betancuria church"
+- src: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
+  alt: "Ajuy village and its black sand beach"
 ---
 
 ## What you will see

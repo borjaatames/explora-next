@@ -70,28 +70,32 @@ keywords:
 - excursion betancuria ajuy
 - tour privado fuerteventura
 - fuerteventura en un dia
-imagen: /images/actividades/fuerteventura/zonas/cuevas-de-ajuy.webp
-imagenAlt: Cuevas de Ajuy en la costa oeste de Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/zonas/betancuria-iglesia.webp
-  alt: Iglesia de Betancuria
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: Calle de Betancuria
-- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Cabra majorera, la del queso de la isla
-- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Papas arrugadas con mojo verde
 ratingProveedor: 4.7
 numeroOpiniones: 885
 atraccionesRelacionadas: []
 avisoReserva: El precio desde 350 € es por grupo de hasta 7 personas en la opción privada; la opción en grupo reducido se paga por persona.
 privada: true
 precioPorGrupo: true
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
+imagenAlt: "Pueblo de Ajuy y su playa de arena negra"
+galeria:
+- src: /images/actividades/fuerteventura/ajuy/ffv-montana-cerca-ajuy.webp
+  alt: "Montaña del interior cerca de Ajuy"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
+  alt: "Plaza de la iglesia de Betancuria con el pueblo al fondo"
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-finca-aloe-vera-fuerteventura.webp
+  alt: "Finca de aloe vera en flor al pie de las montañas de Fuerteventura"
+- src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
+  alt: "Elaboración de queso fresco de cabra en una quesería"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-6.webp
+  alt: "Rincón con árboles en Betancuria"
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp
+  alt: "Hileras de aloe vera en tierra volcánica"
 ---
 
 ## Qué vas a ver

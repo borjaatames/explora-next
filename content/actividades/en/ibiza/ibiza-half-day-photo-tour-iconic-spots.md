@@ -71,28 +71,32 @@ keywords:
 - ibiza photoshoot tour
 - ibiza viewpoints tour
 - es vedra viewpoint trip
-imagen: /images/actividades/ibiza/vedra/es-vedra-acantilados.webp
-imagenAlt: Es Vedrà seen from the cliffs
-galeria:
-- src: /images/actividades/ibiza/vedra/es-vedra-tarde.webp
-  alt: Es Vedrà in the afternoon
-- src: /images/actividades/ibiza/vedra/es-vedra-vedranell.webp
-  alt: Es Vedrà and Es Vedranell
-- src: /images/actividades/ibiza/calas/cala-conta.webp
-  alt: Cala Comte
-- src: /images/actividades/ibiza/calas/cala-conta-islote.webp
-  alt: Islet off Cala Comte
-- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
-  alt: Cliffs on Ibiza's west coast
 ratingProveedor: 4.9
 numeroOpiniones: 137
 atraccionesRelacionadas:
 - vedra-atardecer
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/miradores/fi2-fotografiando-es-vedra.webp
+imagenAlt: "Traveller, seen from behind, photographing Es Vedrà from a viewpoint"
+galeria:
+- src: /images/actividades/ibiza/miradores/fi2-mirador-pinos-costa.webp
+  alt: "Viewpoint among pines over the Ibiza coast"
+- src: /images/actividades/ibiza/vedra/es-vedra-cala-dhort.webp
+  alt: "Es Vedrà from Cala d'Hort"
+- src: /images/actividades/ibiza/miradores/fi2-torre-savinar-es-vedra.webp
+  alt: "Torre des Savinar and Es Vedrà from the cliffs"
+- src: /images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp
+  alt: "Cove with sailboats and Es Vedrà behind"
+- src: /images/actividades/ibiza/calas/cala-dhort-panoramica.webp
+  alt: "Panoramic view of Cala d'Hort"
+- src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
+  alt: "Es Vedrà through the pines"
+- src: /images/actividades/ibiza/vedra/es-vedra-puesta-sol.webp
+  alt: "Es Vedrà at sunset from the viewpoint"
 ---
 
 ## What you will see

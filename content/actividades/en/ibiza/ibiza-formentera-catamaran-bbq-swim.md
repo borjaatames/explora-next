@@ -72,28 +72,34 @@ keywords:
 - formentera boat trip from ibiza
 - ses illetes catamaran
 - formentera catamaran with lunch
-imagen: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
-imagenAlt: The sandbar at Ses Illetes, Formentera
-galeria:
-- src: /images/actividades/ibiza/formentera/ses-illetes.webp
-  alt: Turquoise water at Ses Illetes
-- src: /images/actividades/ibiza/dalt-vila/dalt-vila-desde-el-puerto.webp
-  alt: Dalt Vila seen from Ibiza port
-- src: /images/actividades/ibiza/calas/bano-desde-barco-excursion.webp
-  alt: Swimmers next to an excursion boat
-- src: /images/actividades/ibiza/mar/esnorquel.webp
-  alt: Snorkelling over a seagrass meadow
-- src: /images/actividades/ibiza/formentera/la-savina.webp
-  alt: A boat in La Savina port, Formentera
 ratingProveedor: 4.6
 numeroOpiniones: 96
 atraccionesRelacionadas:
 - formentera
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/barcos/fi1-catamaran-fondeado-aereo.webp
+imagenAlt: "Catamaran anchored in turquoise water, seen from above"
+galeria:
+- src: /images/actividades/ibiza/puerto/fi1-puerto-ibiza-faro-dalt-vila.webp
+  alt: "Ibiza harbour lighthouse with Dalt Vila behind"
+- src: /images/actividades/ibiza/barcos/fi1-catamaran-mar-abierto.webp
+  alt: "Sailing catamaran on the open sea"
+- src: /images/actividades/ibiza/formentera/formentera-pexels-33838897-hero.webp
+  alt: "Aerial view of Ses Illetes and Ses Salines Natural Park"
+- src: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
+  alt: "White sand at Ses Illetes, Formentera"
+- src: /images/actividades/ibiza/mar/posidonia.webp
+  alt: "Underwater seagrass meadow"
+- src: /images/actividades/ibiza/formentera/formentera-pexels-5096831-hero.webp
+  alt: "Clear water at Ses Illetes, Formentera"
+- src: /images/actividades/ibiza/barcos/fi1-cubierta-catamaran-aereo.webp
+  alt: "Deck of a catamaran anchored over a seagrass seabed"
+- src: /images/actividades/ibiza/atardecer/velero-atardecer.webp
+  alt: "Sailing boat at sunset in front of Es Vedrà"
 ---
 
 ## What you will see

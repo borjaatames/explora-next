@@ -70,27 +70,29 @@ keywords:
 - la geria winery tour
 - finca testeina
 - wine and chocolate lanzarote
-imagen: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-imagenAlt: Vineyards on volcanic ash in La Geria, Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
-  alt: Stone-walled pits protecting the vines in La Geria
-- src: /images/actividades/lanzarote/zonas/la-geria-bodega.webp
-  alt: Winery in the La Geria wine region
-- src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
-  alt: Crops on volcanic ground in Lanzarote
-- src: /images/actividades/lanzarote/zonas/volcan-rojo.webp
-  alt: Reddish volcanic cone in Lanzarote
 ratingProveedor: 4.8
 numeroOpiniones: 504
 atraccionesRelacionadas:
 - isla
 - volcanes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/la-geria/flz-vinedo-pie-volcan.webp
+imagenAlt: "Pit vineyard with stone walls at the foot of a volcano in La Geria"
+galeria:
+- src: /images/actividades/lanzarote/la-geria/flz-vinedo-muros-volcan.webp
+  alt: "Vineyard with volcanic stone walls in Lanzarote"
+- src: /images/actividades/lanzarote/la-geria/flz-vides-verdes.webp
+  alt: "Green vines in volcanic ash pits in La Geria"
+- src: /images/actividades/lanzarote/la-geria/flz-racimo-uvas.webp
+  alt: "Bunch of grapes on the vine"
+- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
+  alt: "Vine pits in La Geria"
+- src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
+  alt: "Rows of vine pits in La Geria seen from above"
 ---
 
 ## What you will see

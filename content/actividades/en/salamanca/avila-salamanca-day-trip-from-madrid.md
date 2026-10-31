@@ -81,31 +81,33 @@ keywords:
 - salamanca day trip from madrid
 - small group tour avila salamanca
 - madrid to salamanca tour
-imagen: /images/actividades/salamanca/universidad/fachada-universidad.webp
-imagenAlt: Plateresque façade of the University of Salamanca
-galeria:
-- src: /images/actividades/salamanca/catedral/catedral-nueva.webp
-  alt: Salamanca New Cathedral
-- src: /images/actividades/avila/avila/avila-panoramica-hero.webp
-  alt: Panoramic view of Ávila and its walls
-- src: /images/actividades/salamanca/plaza/plaza-mayor.webp
-  alt: Plaza Mayor in Salamanca
-- src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp
-  alt: Ávila Cathedral seen from the wall walk
-- src: /images/actividades/salamanca/catedral/catedral-nueva-interior.webp
-  alt: Inside Salamanca New Cathedral
-- src: /images/actividades/salamanca/universidad/patio-escuelas.webp
-  alt: Patio de Escuelas at the University of Salamanca
 ratingProveedor: 4.8
 numeroOpiniones: 117
 atraccionesRelacionadas:
 - universidad-catedrales
 - monumentos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/avila/excursion-salamanca/murallas-avila-torreones.webp
+imagenAlt: "Towers of the Ávila city walls above the meadow"
+galeria:
+- src: /images/actividades/avila/excursion-salamanca/adarve-murallas-avila.webp
+  alt: "Ávila wall towers seen from the rampart walk"
+- src: /images/actividades/avila/excursion-salamanca/catedral-avila-desde-muralla.webp
+  alt: "Ávila Cathedral rising behind the city walls"
+- src: /images/actividades/avila/excursion-salamanca/puerta-muralla-avila.webp
+  alt: "A gate in the Ávila walls flanked by two towers"
+- src: /images/actividades/salamanca/catedral/catedrales-exterior.webp
+  alt: "Dome and pinnacles of Salamanca's New Cathedral"
+- src: /images/actividades/salamanca/catedral/catedral-nueva-interior.webp
+  alt: "Central nave of Salamanca's New Cathedral"
+- src: /images/actividades/salamanca/universidad/fachada-universidad.webp
+  alt: "Plateresque facade of the University of Salamanca"
+- src: /images/actividades/salamanca/plaza/plaza-mayor-soportales.webp
+  alt: "Salamanca's Plaza Mayor and its arcades"
 ---
 
 ## What you will see

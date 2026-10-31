@@ -75,29 +75,33 @@ keywords:
 - timanfaya and jameos del agua tour
 - lanzarote full day excursion
 - la geria and el golfo tour
-imagen: /images/actividades/lanzarote/tour-dia-completo.webp
-imagenAlt: Lanzarote landscape on a full-day island tour
-galeria:
-- src: /images/actividades/lanzarote/zonas/el-golfo-crater.webp
-  alt: The El Golfo crater by the sea
-- src: /images/actividades/lanzarote/zonas/timanfaya-montanas-del-fuego.webp
-  alt: The Fire Mountains in Timanfaya
-- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-  alt: La Geria vineyards
-- src: /images/actividades/lanzarote/zonas/jameos-reflejo.webp
-  alt: Reflections on the lake at Jameos del Agua
-- src: /images/actividades/lanzarote/zonas/jameos-jardin.webp
-  alt: The garden at Jameos del Agua
 ratingProveedor: 4.5
 numeroOpiniones: 587
 atraccionesRelacionadas:
 - timanfaya
 - jameos-cueva
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/timanfaya/flz-conos-malpais.webp
+imagenAlt: "Volcanic cones and lava badlands in Timanfaya"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-cono-rojo.webp
+  alt: "Slope of a reddish volcanic cone in Timanfaya"
+- src: /images/actividades/lanzarote/la-geria/flz-vides-verdes.webp
+  alt: "Green vines in volcanic ash pits in La Geria"
+- src: /images/actividades/lanzarote/el-golfo/flz-laguna-verde-roca-roja.webp
+  alt: "El Golfo green lagoon among reddish rocks"
+- src: /images/actividades/lanzarote/el-golfo/flz-laguna-acantilado.webp
+  alt: "Green lagoon below the volcanic cliff of El Golfo"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
+  alt: "Stone steps and garden at Jameos del Agua"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
+  alt: "Turquoise pool at Jameos del Agua"
+- src: /images/actividades/lanzarote/zonas/jameos-lago-interior.webp
+  alt: "Inner lake at Jameos del Agua"
 ---
 
 ## What you will see

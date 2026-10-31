@@ -13,3 +13,5 @@
 - `bodega-fefinans-barricas.webp` — Jorge Franganillo · CC BY 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Cambados_-_Pazo_de_Fefi%C3%B1%C3%A1ns.jpg
 - `catamaran-turistico-o-grove.webp` — Luis Miguel Bugallo Sánchez (Lmbuga) · CC BY-SA 3.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Visi%C3%B3n_dous._5%C2%AA_VILL-4-1-96._Porto_do_Grove.jpg
 - `vendimia-albarino-cambados.webp` — Iago Pillado · CC BY-SA 2.5 es · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Fila_de_tractores_con_uva_agardando_para_entrar_en_Mart%C3%ADn_Codax_(dende_arriba).jpg
+- `fsc-combarro-calle-piedra.webp` — MAGICBOIRO, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/scenery-streets-urban-1590505/) · recortada a 1600×1200
+- `fsc-combarro-horreo-ria.webp` — Alberto Perdomo, CC BY 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:H%C3%B3rreo,_Combarro,_Poio_02.jpg) · recortada a 1600×1200

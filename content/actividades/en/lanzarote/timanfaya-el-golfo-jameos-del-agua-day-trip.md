@@ -77,31 +77,31 @@ keywords:
 - lanzarote full day tour
 - el golfo lanzarote tour
 - lanzarote excursions with pickup
-imagen: /images/actividades/lanzarote/timanfaya-jameos.webp
-imagenAlt: Volcanic landscape in Timanfaya, one of the stops on the tour
-galeria:
-- src: /images/actividades/lanzarote/zonas/el-golfo-charco-clicos.webp
-  alt: Charco de los Clicos, the green lagoon at El Golfo
-- src: /images/actividades/lanzarote/zonas/timanfaya-montanas-del-fuego.webp
-  alt: The Fire Mountains in Timanfaya National Park
-- src: /images/actividades/lanzarote/zonas/ruta-volcanes.webp
-  alt: The Volcano Route road in Timanfaya
-- src: /images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp
-  alt: A camel caravan on the slopes of Timanfaya
-- src: /images/actividades/lanzarote/zonas/jameos-lago-interior.webp
-  alt: The underground lake at Jameos del Agua
-- src: /images/actividades/lanzarote/zonas/jameos-piscina.webp
-  alt: The pool at Jameos del Agua
 ratingProveedor: 4.5
 numeroOpiniones: 2063
 atraccionesRelacionadas:
 - timanfaya
 - jameos-cueva
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
+imagenAlt: "Timanfaya National Park landscape with the sea behind"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
+  alt: "Solidified lava flow in Timanfaya"
+- src: /images/actividades/lanzarote/el-golfo/flz-charco-clicos.webp
+  alt: "Charco de los Clicos at El Golfo with its green lagoon"
+- src: /images/actividades/lanzarote/el-golfo/flz-laguna-playa-negra.webp
+  alt: "Green lagoon and black sand beach at El Golfo"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
+  alt: "Turquoise pool at Jameos del Agua"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-lago-reflejo.webp
+  alt: "Inner lake at Jameos del Agua reflecting the sky"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-palmeras.webp
+  alt: "White pool and palm trees at Jameos del Agua"
 ---
 
 ## What you will see

@@ -75,26 +75,32 @@ keywords:
 - jerez to gibraltar tour
 - gibraltar full day tour
 - gibraltar trip from cadiz
-imagen: /images/actividades/malaga/gibraltar/penon-desde-ciudad.webp
-imagenAlt: The Rock of Gibraltar seen from the town
-galeria:
-- src: /images/actividades/malaga/gibraltar/macacos-reserva-natural.webp
-  alt: Apes in the Gibraltar Nature Reserve
-- src: /images/actividades/malaga/gibraltar/cueva-san-miguel-iluminada.webp
-  alt: St Michael's Cave lit up
-- src: /images/actividades/malaga/gibraltar/penon-cresta.webp
-  alt: The ridge of the Rock of Gibraltar
-- src: /images/actividades/malaga/gibraltar/macaco.webp
-  alt: A Barbary ape in Gibraltar
-- src: /images/actividades/malaga/gibraltar/cueva-san-miguel-estalactitas.webp
-  alt: Stalactites in St Michael's Cave
 ratingProveedor: 4.4
 numeroOpiniones: 27
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/gibraltar/vista-cima-penon-bahia.webp
+imagenAlt: "View over the bay from the top of the Rock of Gibraltar"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/gibraltar/penon-desde-el-mar.webp
+  alt: "The Rock of Gibraltar seen from the sea"
+- src: /images/actividades/malaga/gibraltar/penon-cresta.webp
+  alt: "The ridge of the Rock of Gibraltar above the sea"
+- src: /images/actividades/malaga/gibraltar/cueva-san-miguel-auditorio.webp
+  alt: "The natural auditorium of St Michael's Cave on the Rock of Gibraltar"
+- src: /images/actividades/malaga/gibraltar/macacos-familia.webp
+  alt: "Family of macaques on the Rock of Gibraltar"
+- src: /images/actividades/malaga/gibraltar/tuneles-asedio.webp
+  alt: "Great Siege Tunnels in the Rock"
+- src: /images/actividades/jerez-de-la-frontera/gibraltar/ciudad-puerto-desde-penon.webp
+  alt: "Gibraltar town and harbour seen from the Rock"
+- src: /images/actividades/cadiz/tarifa/tarifa-vista-africa.webp
+  alt: "The African coast seen from the Tarifa town wall"
+- src: /images/actividades/cadiz/tarifa/tarifa-castillo-guzman.webp
+  alt: "Towers of Guzmán el Bueno castle in Tarifa"
 ---
 
 ## What you will see

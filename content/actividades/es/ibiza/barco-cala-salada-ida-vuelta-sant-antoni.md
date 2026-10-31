@@ -66,28 +66,32 @@ keywords:
 - como llegar a cala salada
 - barco sant antoni cala salada
 - cala salada ibiza
-imagen: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
-imagenAlt: Cala rodeada de pinos con aguas turquesa en Ibiza
-galeria:
-- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
-  alt: Puerto de Sant Antoni
-- src: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
-  alt: Bahía de Sant Antoni
-- src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
-  alt: Barca varada junto a las rocas en una cala de Ibiza
-- src: /images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp
-  alt: Chiringuito en una playa de Ibiza
-- src: /images/actividades/ibiza/mar/esnorquel.webp
-  alt: Esnórquel en aguas de Ibiza
 ratingProveedor: 4.5
 numeroOpiniones: 207
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/calas/fi1-cala-salada-barcos-embarcadero.webp
+imagenAlt: "Barcos amarrados junto a las rocas de Cala Salada, cerca de Sant Antoni"
+galeria:
+- src: /images/actividades/ibiza/sant-antoni/fi1-bahia-sant-antoni-costa.webp
+  alt: "Costa rocosa de la bahía de Sant Antoni con un islote al fondo"
+- src: /images/actividades/ibiza/calas/fi1-cala-salada-acantilado.webp
+  alt: "Acantilado y agua clara en Cala Salada"
+- src: /images/actividades/ibiza/calas/fi1-cala-aguas-turquesas-pinos.webp
+  alt: "Cala de aguas turquesas rodeada de pinos en Ibiza"
+- src: /images/actividades/ibiza/calas/fi1-cala-saladeta.webp
+  alt: "Cala Saladeta rodeada de pinos y rocas rojizas"
+- src: /images/actividades/ibiza/mar/esnorquel.webp
+  alt: "Esnórquel sobre una pradera de posidonia"
+- src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
+  alt: "Barca tradicional varada entre las rocas en Ibiza"
+- src: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
+  alt: "Cala de aguas turquesas rodeada de pinos en Ibiza"
 ---
 
 ## Qué vas a ver

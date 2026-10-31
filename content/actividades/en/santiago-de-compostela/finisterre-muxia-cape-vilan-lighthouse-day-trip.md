@@ -76,28 +76,32 @@ keywords:
 - costa da morte tour
 - cape vilan lighthouse
 - muxia finisterre tour
-imagen: /images/actividades/santiago-de-compostela/finisterre/faro-fisterra.webp
-imagenAlt: Cape Finisterre lighthouse above the Atlantic
-galeria:
-- src: /images/actividades/santiago-de-compostela/finisterre/cabo-fisterra.webp
-  alt: Cape Finisterre on the Costa da Morte
-- src: /images/actividades/santiago-de-compostela/finisterre/ezaro.webp
-  alt: Ézaro waterfall falling into the sea
-- src: /images/actividades/santiago-de-compostela/finisterre/muxia.webp
-  alt: Virxe da Barca sanctuary in Muxía
-- src: /images/actividades/santiago-de-compostela/finisterre/km-cero.webp
-  alt: The Camino's kilometre zero marker at Finisterre
-- src: /images/actividades/santiago/finisterre/cabo-finisterre-atardecer.webp
-  alt: Sunset at Cape Finisterre
 ratingProveedor: 4.7
 numeroOpiniones: 558
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-visitantes-faro-muxia.webp
+imagenAlt: "Visitors on the rocks beside Muxía lighthouse, Costa da Morte"
+galeria:
+- src: /images/actividades/santiago-de-compostela/finisterre/ezaro.webp
+  alt: "Ézaro waterfall tumbling into the sea"
+- src: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-mojon-km0.webp
+  alt: "Kilometre-zero Camino marker on the way to Finisterre lighthouse"
+- src: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-faro-fisterra-visitantes.webp
+  alt: "Visitors at Finisterre lighthouse"
+- src: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-bota-bronce.webp
+  alt: "Bronze pilgrim's boot at Cape Finisterre"
+- src: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-santuario-barca.webp
+  alt: "Virxe da Barca sanctuary in Muxía seen through an archway"
+- src: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-muxia-vista.webp
+  alt: "View of Muxía town and harbour"
+- src: /images/actividades/santiago-de-compostela/finisterre/fsc-vilan-rocas-muxia.webp
+  alt: "Granite rocks by the sea in Muxía"
 ---
 
 ## What you will see

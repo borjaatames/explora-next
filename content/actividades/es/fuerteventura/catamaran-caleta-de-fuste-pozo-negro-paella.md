@@ -67,26 +67,32 @@ keywords:
 - excursion barco caleta de fuste
 - pozo negro catamaran
 - barco con comida fuerteventura
-imagen: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-imagenAlt: Bañistas junto a un catamarán fondeado en Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-  alt: Bañistas junto al barco fondeado
-- src: /images/actividades/fuerteventura/lobos/paella-vino-a-bordo.webp
-  alt: Paella servida a bordo
-- src: /images/actividades/fuerteventura/lobos/esnorquel-fondo-rocoso.webp
-  alt: Esnórquel sobre fondo rocoso
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/comida-servida-a-bordo.webp
-  alt: Comida servida a bordo de un catamarán
 ratingProveedor: 4.7
 numeroOpiniones: 839
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaran-navegando-vela.webp
+imagenAlt: "Catamarán navegando a vela en mar abierto"
+galeria:
+- src: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaranes-en-el-mar.webp
+  alt: "Catamaranes y barcos navegando en aguas turquesas"
+- src: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaran-fondeado-aereo.webp
+  alt: "Catamarán fondeado en aguas turquesas visto desde arriba"
+- src: /images/actividades/fuerteventura/esnorquel/ffv-fondo-marino-transparente.webp
+  alt: "Fondo marino visto a través de agua transparente"
+- src: /images/actividades/fuerteventura/lobos/paella-vino-a-bordo.webp
+  alt: "Paella y vino servidos a bordo"
+- src: /images/actividades/fuerteventura/esnorquel/ffv-bano-mar-abierto.webp
+  alt: "Bañista nadando en aguas verdes vista desde arriba"
+- src: /images/actividades/fuerteventura/delfines/ffv-calderones-aletas.webp
+  alt: "Grupo de calderones nadando en la superficie"
+- src: /images/actividades/fuerteventura/catamaran-morro-jable/copa-espumoso-a-bordo-catamaran.webp
+  alt: "Brindis a bordo del catamarán"
 ---
 
 ## Qué vas a ver

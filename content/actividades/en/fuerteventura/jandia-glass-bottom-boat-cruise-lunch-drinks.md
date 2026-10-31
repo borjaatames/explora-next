@@ -74,28 +74,32 @@ keywords:
 - morro jable boat trip
 - fuerteventura dolphin boat trip
 - jandia cruise with lunch
-imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-imagenAlt: Excursion boat off the Morro Jable coast
-galeria:
-- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable beach
-- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: The Jandía coast from the sea
-- src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
-  alt: Morro Jable lighthouse
-- src: /images/actividades/fuerteventura/lobos/esnorquel-fondo-rocoso.webp
-  alt: Snorkelling over a rocky seabed
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-  alt: Swimmers next to an anchored boat
 ratingProveedor: 4.4
 numeroOpiniones: 1602
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/barco-fondo-cristal/ffv-barcas-fondo-cristal.webp
+imagenAlt: "Glass-bottom boats anchored at sea"
+galeria:
+- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
+  alt: "Coast of the Jandía peninsula"
+- src: /images/actividades/fuerteventura/delfines/ffv-delfines-mar-abierto.webp
+  alt: "Two dolphins swimming in the open sea"
+- src: /images/actividades/fuerteventura/barco-fondo-cristal/ffv-barca-fondo-cristal-orilla.webp
+  alt: "Small glass-bottom boat in turquoise water"
+- src: /images/actividades/fuerteventura/esnorquel/ffv-esnorquel-fondo-rocoso.webp
+  alt: "Person snorkelling over a rocky seabed"
+- src: /images/actividades/fuerteventura/delfines/ffv-calderones-aletas.webp
+  alt: "Pod of pilot whales swimming at the surface"
+- src: /images/actividades/fuerteventura/lobos/paella-vino-a-bordo.webp
+  alt: "Paella and wine served on board"
+- src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
+  alt: "Jandía coast from above"
 ---
 
 ## What you will see

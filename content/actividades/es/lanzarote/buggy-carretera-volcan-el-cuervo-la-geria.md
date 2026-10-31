@@ -78,26 +78,28 @@ keywords:
 - buggy puerto del carmen
 - volcan el cuervo lanzarote
 - ruta en buggy la geria
-imagen: /images/actividades/lanzarote/buggy-volcanes.webp
-imagenAlt: Buggy entre volcanes en Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/caldera-interior.webp
-  alt: Interior de una caldera volcánica en Lanzarote
-- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
-  alt: Viñas plantadas en hoyos sobre ceniza volcánica en La Geria
-- src: /images/actividades/lanzarote/zonas/carretera-volcanes.webp
-  alt: Carretera entre lava y volcanes en Lanzarote
-- src: /images/actividades/lanzarote/zonas/volcan-rojo.webp
-  alt: Volcán de tonos rojizos en Lanzarote
 ratingProveedor: 4.6
 numeroOpiniones: 729
 atraccionesRelacionadas:
 - volcanes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/buggy/flz-buggy-pista-arena.webp
+imagenAlt: "Buggy circulando por una pista de arena"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
+  alt: "Colada de lava solidificada en Timanfaya"
+- src: /images/actividades/lanzarote/zonas/carretera-volcanes.webp
+  alt: "Carretera entre volcanes en Lanzarote"
+- src: /images/actividades/lanzarote/timanfaya/flz-crater-campo-lava.webp
+  alt: "Cráter volcánico entre campos de lava en Lanzarote"
+- src: /images/actividades/lanzarote/la-geria/flz-hoyos-ladera.webp
+  alt: "Hoyos con muros de piedra en la ladera de La Geria"
+- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
+  alt: "Hoyos de viñedo en La Geria"
 ---
 
 ## Qué vas a ver

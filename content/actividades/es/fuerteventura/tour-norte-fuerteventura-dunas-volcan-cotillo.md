@@ -73,28 +73,30 @@ keywords:
 - tour dunas corralejo
 - el cotillo excursion
 - que ver en el norte de fuerteventura
-imagen: /images/actividades/fuerteventura/zonas/dunas-corralejo.webp
-imagenAlt: Dunas de Corralejo
-galeria:
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp
-  alt: Dunas de Corralejo junto al mar
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Volcanes del norte de Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/el-cotillo.webp
-  alt: El Cotillo
-- src: /images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp
-  alt: Puerto de El Cotillo
-- src: /images/actividades/fuerteventura/zonas/calderon-hondo-crater.webp
-  alt: Cráter volcánico del norte de Fuerteventura
 ratingProveedor: 4.7
 numeroOpiniones: 226
 atraccionesRelacionadas:
 - norte
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-1.webp
+imagenAlt: "Horizonte de las Dunas de Corralejo"
+galeria:
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-6.webp
+  alt: "Arbusto en lo alto de una duna de Corralejo"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-paisaje.webp
+  alt: "Paisaje volcánico desde el Calderón Hondo"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-volcanes-la-oliva.webp
+  alt: "Conos volcánicos en el norte de Fuerteventura"
+- src: /images/actividades/fuerteventura/zonas/el-cotillo.webp
+  alt: "Costa de El Cotillo"
+- src: /images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp
+  alt: "Puerto viejo de El Cotillo"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-3.webp
+  alt: "Matas sobre la arena de las Dunas de Corralejo"
 ---
 
 ## Qué vas a ver

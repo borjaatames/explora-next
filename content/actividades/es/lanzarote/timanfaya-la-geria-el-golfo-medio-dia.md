@@ -72,29 +72,29 @@ keywords:
 - tour timanfaya y la geria
 - excursion el golfo lanzarote
 - timanfaya con recogida en hotel
-imagen: /images/actividades/lanzarote/timanfaya-volcanes.webp
-imagenAlt: Conos volcánicos rojizos de las Montañas del Fuego, en Timanfaya
-galeria:
-- src: /images/actividades/lanzarote/zonas/timanfaya-conos-rojizos.webp
-  alt: Conos volcánicos rojizos en Timanfaya
-- src: /images/actividades/lanzarote/zonas/ruta-volcanes.webp
-  alt: Carretera de la Ruta de los Volcanes
-- src: /images/actividades/lanzarote/zonas/el-golfo-charco-clicos.webp
-  alt: El Charco de los Clicos, la laguna verde de El Golfo
-- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
-  alt: Viñas plantadas en hoyos sobre ceniza volcánica en La Geria
-- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-  alt: Viñedos de La Geria
 ratingProveedor: 4.5
 numeroOpiniones: 793
 atraccionesRelacionadas:
 - timanfaya
 - volcanes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/timanfaya/flz-volcan-nubes.webp
+imagenAlt: "Volcán rojizo bajo las nubes en Timanfaya"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
+  alt: "Paisaje del Parque Nacional de Timanfaya con el mar al fondo"
+- src: /images/actividades/lanzarote/la-geria/flz-hoyos-ladera.webp
+  alt: "Hoyos con muros de piedra en la ladera de La Geria"
+- src: /images/actividades/lanzarote/el-golfo/flz-caldera-panoramica.webp
+  alt: "Vista panorámica de la caldera de El Golfo junto al océano"
+- src: /images/actividades/lanzarote/el-golfo/flz-mirador-cuerda.webp
+  alt: "Mirador sobre el Charco de los Clicos en El Golfo"
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: "Los Hervideros, acantilados de lava junto al mar"
 ---
 
 ## Qué vas a ver

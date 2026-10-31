@@ -72,26 +72,32 @@ keywords:
 - royal andalusian school of equestrian art tickets
 - dancing horses jerez museum
 - jerez de la frontera horses
-imagen: /images/actividades/cadiz/yeguada/enganche.webp
-imagenAlt: Carthusian horses pulling a carriage
-galeria:
-- src: /images/actividades/cadiz/yeguada/jinete-cartujano.webp
-  alt: A rider on a Carthusian horse
-- src: /images/actividades/cadiz/yeguada/yeguas-pista.webp
-  alt: Carthusian mares on display in an arena
-- src: /images/actividades/cadiz/yeguada/yeguada-cartuja-05.webp
-  alt: Carthusian horses on an estate near Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-jardines-hero.webp
-  alt: Gardens of the Alcázar of Jerez
 ratingProveedor: 4.6
 numeroOpiniones: 1494
 atraccionesRelacionadas:
 - caballos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/picadero-caballo-espectadores.webp
+imagenAlt: "Horse and rider in the Royal School arena with spectators in the stands"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/palacio-recreo-cadenas.webp
+  alt: "Recreo de las Cadenas palace at the Royal Andalusian School of Equestrian Art"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/jardines-palmeras-real-escuela.webp
+  alt: "Palm-lined gardens beside the Royal School palace in Jerez"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/picadero-cubierto-publico.webp
+  alt: "Indoor arena of the Royal Andalusian School of Equestrian Art with spectators in the stands"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-blanco-levada.webp
+  alt: "White horse rearing on its hind legs"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/enganche-caballos-feria.webp
+  alt: "Team of grey horses pulling a decorated carriage at an Andalusian fair"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/picadero-vacio.webp
+  alt: "Indoor arena of the Royal School, with its stands and oval windows"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-andaluz-jinete-corto.webp
+  alt: "Grey Andalusian horse ridden by a rider in traditional short suit"
 ---
 
 ## What you will see

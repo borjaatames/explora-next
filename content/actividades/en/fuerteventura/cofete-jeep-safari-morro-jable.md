@@ -74,28 +74,30 @@ keywords:
 - cofete 4x4 tour
 - how to get to cofete from morro jable
 - cofete beach tour
-imagen: /images/actividades/fuerteventura/zonas/cofete-playa.webp
-imagenAlt: Cofete beach with the Jandía massif behind
-galeria:
-- src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
-  alt: Cofete seen from the viewpoint
-- src: /images/actividades/fuerteventura/zonas/cofete-montanas.webp
-  alt: Jandía mountains above Cofete
-- src: /images/actividades/fuerteventura/zonas/villa-winter.webp
-  alt: Villa Winter in Cofete
-- src: /images/actividades/fuerteventura/zonas/cofete-cresta.webp
-  alt: Mountain ridge near Cofete
-- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable beach
 ratingProveedor: 4.5
 numeroOpiniones: 2679
 atraccionesRelacionadas:
 - sur
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/jeep-cofete/ffv-cabras-junto-todoterrenos.webp
+imagenAlt: "Goats next to the 4x4s at a safari stop in Fuerteventura"
+galeria:
+- src: /images/actividades/fuerteventura/zonas/cofete-cresta.webp
+  alt: "Ridge of the Jandía mountains above Cofete"
+- src: /images/actividades/fuerteventura/cofete/ffv-cofete-1.webp
+  alt: "Cofete beach seen from the mountain"
+- src: /images/actividades/fuerteventura/zonas/villa-winter-ladera.webp
+  alt: "Villa Winter seen from the track"
+- src: /images/actividades/fuerteventura/cofete/ffv-cofete-arena-montanas.webp
+  alt: "Cofete sand at the foot of the Jandía mountains"
+- src: /images/actividades/fuerteventura/cofete/ffv-cofete-5.webp
+  alt: "Cofete beach and Montaña Aguda"
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: "Morro Jable beach"
 ---
 
 ## What you will see

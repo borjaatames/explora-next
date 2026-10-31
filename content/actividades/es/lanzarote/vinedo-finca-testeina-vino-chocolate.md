@@ -70,27 +70,29 @@ keywords:
 - bodega la geria visita
 - finca testeina
 - vino y chocolate lanzarote
-imagen: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-imagenAlt: Viñedos sobre ceniza volcánica en La Geria, Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
-  alt: Hoyos con muros de piedra para proteger las vides en La Geria
-- src: /images/actividades/lanzarote/zonas/la-geria-bodega.webp
-  alt: Bodega en la zona vinícola de La Geria
-- src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
-  alt: Cultivos sobre terreno volcánico en Lanzarote
-- src: /images/actividades/lanzarote/zonas/volcan-rojo.webp
-  alt: Cono volcánico rojizo en Lanzarote
 ratingProveedor: 4.8
 numeroOpiniones: 504
 atraccionesRelacionadas:
 - isla
 - volcanes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/la-geria/flz-vinedo-pie-volcan.webp
+imagenAlt: "Viñedo de hoyos con muros de piedra al pie de un volcán en La Geria"
+galeria:
+- src: /images/actividades/lanzarote/la-geria/flz-vinedo-muros-volcan.webp
+  alt: "Viñedo con muros de piedra volcánica en Lanzarote"
+- src: /images/actividades/lanzarote/la-geria/flz-vides-verdes.webp
+  alt: "Vides verdes en hoyos de ceniza volcánica en La Geria"
+- src: /images/actividades/lanzarote/la-geria/flz-racimo-uvas.webp
+  alt: "Racimo de uvas en la vid"
+- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
+  alt: "Hoyos de viñedo en La Geria"
+- src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
+  alt: "Hileras de hoyos con vides en La Geria vistas desde arriba"
 ---
 
 ## Qué vas a ver

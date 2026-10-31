@@ -72,26 +72,30 @@ keywords:
 - jameos del agua tour
 - north lanzarote tour
 - cueva de los verdes and jameos del agua
-imagen: /images/actividades/lanzarote/zonas/cueva-de-los-verdes.webp
-imagenAlt: The lit interior of Cueva de los Verdes
-galeria:
-- src: /images/actividades/lanzarote/zonas/cueva-de-los-verdes-galeria.webp
-  alt: A gallery in the Cueva de los Verdes lava tube
-- src: /images/actividades/lanzarote/zonas/jameos-lago-interior.webp
-  alt: The underground lake at Jameos del Agua
-- src: /images/actividades/lanzarote/zonas/jameos-piscina-palmeras.webp
-  alt: The palm-lined pool at Jameos del Agua
-- src: /images/actividades/lanzarote/zonas/jameos-jardin.webp
-  alt: The garden at Jameos del Agua
 ratingProveedor: 4.4
 numeroOpiniones: 416
 atraccionesRelacionadas:
 - jameos-cueva
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/cueva-de-los-verdes/flz-reflejo-galeria.webp
+imagenAlt: "Lit gallery of Cueva de los Verdes reflected in water"
+galeria:
+- src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-entrada-tubo.webp
+  alt: "Entrance to the lava tube of Cueva de los Verdes"
+- src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-espejo-dorado.webp
+  alt: "Golden reflections inside Cueva de los Verdes"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-lago-reflejo.webp
+  alt: "Inner lake at Jameos del Agua reflecting the sky"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
+  alt: "Turquoise pool at Jameos del Agua"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
+  alt: "Stone steps and garden at Jameos del Agua"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-sala-blanca.webp
+  alt: "White room at Jameos del Agua designed by César Manrique"
 ---
 
 ## What you will see

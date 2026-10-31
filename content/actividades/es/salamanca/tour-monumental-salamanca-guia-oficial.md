@@ -66,30 +66,34 @@ keywords:
 - visita guiada salamanca
 - free tour salamanca
 - que ver en salamanca a pie
-imagen: /images/actividades/salamanca/plaza/plaza-mayor.webp
-imagenAlt: Plaza Mayor de Salamanca
-galeria:
-- src: /images/actividades/salamanca/centro/casa-conchas.webp
-  alt: Casa de las Conchas
-- src: /images/actividades/salamanca/centro/clerecia.webp
-  alt: Edificio de La Clerecía
-- src: /images/actividades/salamanca/universidad/fachada-universidad.webp
-  alt: Fachada plateresca de la Universidad de Salamanca
-- src: /images/actividades/salamanca/catedral/catedral-nueva.webp
-  alt: Catedral Nueva de Salamanca
-- src: /images/actividades/salamanca/catedral/catedral-vieja.webp
-  alt: Catedral Vieja de Salamanca
 ratingProveedor: 4.9
 numeroOpiniones: 57
 atraccionesRelacionadas:
 - plaza-mayor
 - universidad-catedrales
 - casco-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/tour-guia-oficial/clerecia-casa-conchas.webp
+imagenAlt: "La Clerecía junto a la Casa de las Conchas"
+galeria:
+- src: /images/actividades/salamanca/plaza/plaza-mayor-ayuntamiento.webp
+  alt: "Ayuntamiento en la Plaza Mayor de Salamanca"
+- src: /images/actividades/salamanca/centro/clerecia.webp
+  alt: "Torres barrocas de la Clerecía"
+- src: /images/actividades/salamanca/universidad/medallon-reyes.webp
+  alt: "Medallón de los Reyes Católicos en la fachada de la Universidad"
+- src: /images/actividades/salamanca/universidad/escuelas-menores.webp
+  alt: "Patio de Escuelas Menores"
+- src: /images/actividades/salamanca/tour-guia-oficial/catedrales-salamanca.webp
+  alt: "Catedral Vieja y Catedral Nueva de Salamanca"
+- src: /images/actividades/salamanca/catedral/torre-del-gallo.webp
+  alt: "Torre del Gallo de la Catedral Vieja"
+- src: /images/actividades/salamanca/catedral/catedral-nueva.webp
+  alt: "Portada de la Catedral Nueva de Salamanca"
 ---
 
 ## Qué vas a ver

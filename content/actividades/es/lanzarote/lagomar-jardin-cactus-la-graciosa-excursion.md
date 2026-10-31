@@ -78,29 +78,33 @@ keywords:
 - lagomar y jardin de cactus
 - excursion lanzarote la graciosa con comida
 - tour costa a costa lanzarote
-imagen: /images/actividades/lanzarote/zonas/molino-jardin-cactus.webp
-imagenAlt: Molino del Jardín de Cactus de César Manrique
-galeria:
-- src: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
-  alt: Cactus en la zona de Guatiza, Lanzarote
-- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-puerto.webp
-  alt: Puerto de Caleta de Sebo, en La Graciosa
-- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-casas.webp
-  alt: Casas blancas de Caleta de Sebo
-- src: /images/actividades/lanzarote/zonas/la-graciosa-aerea.webp
-  alt: Vista aérea de La Graciosa
-- src: /images/actividades/lanzarote/zonas/la-graciosa-montana-amarilla.webp
-  alt: Montaña Amarilla en La Graciosa
 ratingProveedor: 4.5
 numeroOpiniones: 473
 atraccionesRelacionadas:
 - graciosa
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/lagomar/flz-arco-roca.webp
+imagenAlt: "Arco de roca y jardín de cactus en LagOmar"
+galeria:
+- src: /images/actividades/lanzarote/lagomar/flz-jardin-palmeras.webp
+  alt: "Jardín con palmeras y cactus junto a la roca en LagOmar"
+- src: /images/actividades/lanzarote/jardin-de-cactus/flz-sendero-molino.webp
+  alt: "Sendero del Jardín de Cactus con el molino al fondo"
+- src: /images/actividades/lanzarote/jardin-de-cactus/flz-estanque-cactus.webp
+  alt: "Estanque y cactus en el Jardín de Cactus de César Manrique"
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-ventanal-graciosa.webp
+  alt: "La Graciosa vista desde el ventanal del Mirador del Río"
+- src: /images/actividades/lanzarote/la-graciosa/flz-caleta-sebo-aerea.webp
+  alt: "Caleta de Sebo y su puerto en La Graciosa vistos desde lo alto"
+- src: /images/actividades/lanzarote/la-graciosa/flz-playa-turquesa.webp
+  alt: "Playa de aguas turquesa en La Graciosa"
+- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-paseo.webp
+  alt: "Paseo de Caleta de Sebo en La Graciosa"
 ---
 
 ## Qué vas a ver

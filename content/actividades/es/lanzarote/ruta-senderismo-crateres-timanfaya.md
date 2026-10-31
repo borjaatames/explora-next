@@ -69,29 +69,29 @@ keywords:
 - ruta a pie volcanes lanzarote
 - excursion caminando timanfaya
 - trekking lanzarote volcanes
-imagen: /images/actividades/lanzarote/zonas/sendero-volcan.webp
-imagenAlt: Sendero por la cresta de un volcán en Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/senderismo-volcanes.webp
-  alt: Senderistas caminando entre conos volcánicos en Lanzarote
-- src: /images/actividades/lanzarote/zonas/caldera-interior.webp
-  alt: Interior de una caldera volcánica en Timanfaya
-- src: /images/actividades/lanzarote/zonas/timanfaya-lava.webp
-  alt: Campo de lava en Timanfaya
-- src: /images/actividades/lanzarote/zonas/volcan-malpais.webp
-  alt: Volcán sobre el malpaís de Timanfaya
-- src: /images/actividades/lanzarote/zonas/ladera-volcanica.webp
-  alt: Ladera volcánica en el entorno de Timanfaya
 ratingProveedor: 4.8
 numeroOpiniones: 1561
 atraccionesRelacionadas:
 - timanfaya
 - volcanes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/timanfaya/flz-interior-crater.webp
+imagenAlt: "Interior de un cráter volcánico en Timanfaya"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
+  alt: "Colada de lava solidificada en Timanfaya"
+- src: /images/actividades/lanzarote/zonas/sendero-volcan.webp
+  alt: "Sendero junto a un volcán en Lanzarote"
+- src: /images/actividades/lanzarote/timanfaya/flz-crater-campo-lava.webp
+  alt: "Cráter volcánico entre campos de lava en Lanzarote"
+- src: /images/actividades/lanzarote/zonas/ruta-volcanes.webp
+  alt: "Carretera entre paisajes volcánicos de Lanzarote"
+- src: /images/actividades/lanzarote/timanfaya/flz-cono-rojo.webp
+  alt: "Ladera de un cono volcánico rojizo en Timanfaya"
 ---
 
 ## Qué vas a ver

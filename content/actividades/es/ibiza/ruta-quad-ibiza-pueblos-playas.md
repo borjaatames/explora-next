@@ -77,25 +77,31 @@ keywords:
 - excursion en quad ibiza
 - ruta quad ibiza
 - alquiler quad ibiza con guia
-imagen: /images/actividades/ibiza/calas/cala-tarida-rocas.webp
-imagenAlt: Costa rocosa junto a Cala Tarida, en Ibiza
-galeria:
-- src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
-  alt: Es Vedrà entre pinos
-- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
-  alt: Acantilados de la costa oeste de Ibiza
-- src: /images/actividades/ibiza/calas/cala-dhort.webp
-  alt: Cala d'Hort
-- src: /images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp
-  alt: Chiringuito en una playa de Ibiza
 ratingProveedor: 4.7
 numeroOpiniones: 236
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/quad/fi2-quad-junto-al-mar.webp
+imagenAlt: "Quad aparcado en un camino de tierra junto al mar"
+galeria:
+- src: /images/actividades/ibiza/quad/fi2-quad-camino-tierra.webp
+  alt: "Conductor en quad por un camino de tierra"
+- src: /images/actividades/ibiza/quad/fi2-cala-tarida.webp
+  alt: "Vista de Cala Tarida, en la costa oeste de Ibiza"
+- src: /images/actividades/ibiza/quad/fi2-quad-pinar.webp
+  alt: "Quad por un camino entre árboles"
+- src: /images/actividades/ibiza/quad/fi2-casetas-pescadores.webp
+  alt: "Casetas de pescadores en la costa de Ibiza"
+- src: /images/actividades/ibiza/quad/fi2-grupo-quads.webp
+  alt: "Grupo de quads en ruta"
+- src: /images/actividades/ibiza/quad/fi2-cala-nova.webp
+  alt: "Costa de Cala Nova, en Ibiza"
+- src: /images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp
+  alt: "Chiringuito con vistas a una cala de Ibiza"
 ---
 
 ## Qué vas a ver

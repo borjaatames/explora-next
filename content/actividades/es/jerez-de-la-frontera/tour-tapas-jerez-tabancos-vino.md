@@ -69,29 +69,33 @@ keywords:
 - ruta tabancos jerez
 - tapas y vino jerez guia
 - tabancos jerez de la frontera
-imagen: /images/actividades/jerez/tabancos/tabanco-la-pandilla.webp
-imagenAlt: Interior de un tabanco en Jerez de la Frontera
-galeria:
-- src: /images/actividades/jerez/tabancos/tabanco-arco-ladrillo.webp
-  alt: Tabanco con arco de ladrillo en Jerez
-- src: /images/actividades/jerez/tabancos/tabanco-bota-firmada.webp
-  alt: Bota firmada en un tabanco de Jerez
-- src: /images/actividades/jerez/tabancos/bota-velo-flor.webp
-  alt: Bota de vino con velo de flor
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
-  alt: Campanario de la catedral de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp
-  alt: Copas de vino de Jerez en una cata
 ratingProveedor: 4.5
 numeroOpiniones: 175
 atraccionesRelacionadas:
 - bodegas
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez/tabancos/tabanco-bota-firmada.webp
+imagenAlt: "Bota de vino de Jerez firmada en un tabanco lleno de clientes"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-terrazas.webp
+  alt: "Terrazas y fachadas amarillas en la calle Larga de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
+  alt: "Tapas variadas en cazuelas de barro sobre una mesa de madera"
+- src: /images/actividades/jerez/tabancos/bota-velo-flor.webp
+  alt: "Bota de jerez abierta que muestra el velo de flor sobre el vino"
+- src: /images/actividades/jerez-de-la-frontera/tapas/aceitunas-alinadas.webp
+  alt: "Aceitunas aliñadas, tapa típica andaluza"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
+  alt: "Copa de vino ambarino sobre una mesa de madera"
+- src: /images/actividades/jerez-de-la-frontera/tapas/tosta-lomo.webp
+  alt: "Tosta de lomo, una tapa habitual en la provincia de Cádiz"
+- src: /images/actividades/jerez-de-la-frontera/tapas/croquetas-caseras.webp
+  alt: "Croquetas caseras recién fritas"
 ---
 
 ## Qué vas a ver

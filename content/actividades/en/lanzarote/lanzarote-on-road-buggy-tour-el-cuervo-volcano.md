@@ -78,26 +78,28 @@ keywords:
 - puerto del carmen buggy
 - el cuervo volcano lanzarote
 - la geria buggy tour
-imagen: /images/actividades/lanzarote/buggy-volcanes.webp
-imagenAlt: A buggy among volcanoes in Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/caldera-interior.webp
-  alt: Inside a volcanic caldera in Lanzarote
-- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
-  alt: Vines planted in pits in volcanic ash at La Geria
-- src: /images/actividades/lanzarote/zonas/carretera-volcanes.webp
-  alt: A road between lava and volcanoes in Lanzarote
-- src: /images/actividades/lanzarote/zonas/volcan-rojo.webp
-  alt: A reddish volcano in Lanzarote
 ratingProveedor: 4.6
 numeroOpiniones: 729
 atraccionesRelacionadas:
 - volcanes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/buggy/flz-buggy-pista-arena.webp
+imagenAlt: "Buggy driving on a sandy track"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
+  alt: "Solidified lava flow in Timanfaya"
+- src: /images/actividades/lanzarote/zonas/carretera-volcanes.webp
+  alt: "Road through volcanoes in Lanzarote"
+- src: /images/actividades/lanzarote/timanfaya/flz-crater-campo-lava.webp
+  alt: "Volcanic crater among lava fields in Lanzarote"
+- src: /images/actividades/lanzarote/la-geria/flz-hoyos-ladera.webp
+  alt: "Stone-walled vine pits on a slope in La Geria"
+- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
+  alt: "Vine pits in La Geria"
 ---
 
 ## What you will see

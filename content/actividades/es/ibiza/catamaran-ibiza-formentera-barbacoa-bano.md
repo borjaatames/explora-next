@@ -72,28 +72,34 @@ keywords:
 - excursion formentera desde ibiza barco
 - ses illetes catamaran
 - barco a formentera con comida
-imagen: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
-imagenAlt: Lengua de arena de Ses Illetes, en Formentera
-galeria:
-- src: /images/actividades/ibiza/formentera/ses-illetes.webp
-  alt: Aguas turquesas de Ses Illetes
-- src: /images/actividades/ibiza/dalt-vila/dalt-vila-desde-el-puerto.webp
-  alt: Dalt Vila vista desde el puerto de Ibiza
-- src: /images/actividades/ibiza/calas/bano-desde-barco-excursion.webp
-  alt: Bañistas nadando junto a un barco de excursión
-- src: /images/actividades/ibiza/mar/esnorquel.webp
-  alt: Esnórquel sobre una pradera de posidonia
-- src: /images/actividades/ibiza/formentera/la-savina.webp
-  alt: Barco en el puerto de La Savina, Formentera
 ratingProveedor: 4.6
 numeroOpiniones: 96
 atraccionesRelacionadas:
 - formentera
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/barcos/fi1-catamaran-fondeado-aereo.webp
+imagenAlt: "Catamarán fondeado en agua turquesa, visto desde el aire"
+galeria:
+- src: /images/actividades/ibiza/puerto/fi1-puerto-ibiza-faro-dalt-vila.webp
+  alt: "Faro del puerto de Ibiza con Dalt Vila al fondo"
+- src: /images/actividades/ibiza/barcos/fi1-catamaran-mar-abierto.webp
+  alt: "Catamarán de vela en mar abierto"
+- src: /images/actividades/ibiza/formentera/formentera-pexels-33838897-hero.webp
+  alt: "Vista aérea de Ses Illetes y el Parque Natural de Ses Salines"
+- src: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
+  alt: "Arena blanca de Ses Illetes, en Formentera"
+- src: /images/actividades/ibiza/mar/posidonia.webp
+  alt: "Pradera de posidonia bajo el agua"
+- src: /images/actividades/ibiza/formentera/formentera-pexels-5096831-hero.webp
+  alt: "Agua transparente de Ses Illetes, en Formentera"
+- src: /images/actividades/ibiza/barcos/fi1-cubierta-catamaran-aereo.webp
+  alt: "Cubierta de un catamarán fondeado sobre fondo de posidonia"
+- src: /images/actividades/ibiza/atardecer/velero-atardecer.webp
+  alt: "Velero al atardecer frente a Es Vedrà"
 ---
 
 ## Qué vas a ver

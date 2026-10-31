@@ -82,28 +82,28 @@ keywords:
 - jet ski puerto del carmen
 - lanzarote jet ski tour
 - jet ski papagayo
-imagen: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
-imagenAlt: Boats in the harbour of Puerto del Carmen, Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
-  alt: Lanzarote's south coast near Papagayo
-- src: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
-  alt: Golden sand on Papagayo beach
-- src: /images/actividades/lanzarote/zonas/papagayo-acantilado.webp
-  alt: Volcanic cliffs at Papagayo
-- src: /images/actividades/lanzarote/barco-atardecer/puesta-sol-puerto-del-carmen.webp
-  alt: Sunset in Puerto del Carmen
-- src: /images/actividades/lanzarote/zonas/papagayo-cala.webp
-  alt: Clear-water cove at Papagayo
 ratingProveedor: 4.7
 numeroOpiniones: 1081
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/moto-de-agua/flz-piloto-olas.webp
+imagenAlt: "Jet ski riding through waves"
+galeria:
+- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
+  alt: "Excursion boats in Puerto del Carmen"
+- src: /images/actividades/lanzarote/moto-de-agua/flz-grupo-ruta.webp
+  alt: "Group of jet skis on an open-sea route"
+- src: /images/actividades/lanzarote/moto-de-agua/flz-motos-pantalan.webp
+  alt: "Jet skis moored at a floating dock"
+- src: /images/actividades/lanzarote/moto-de-agua/flz-estela.webp
+  alt: "Jet ski leaving a wake on the sea"
+- src: /images/actividades/lanzarote/moto-de-agua/flz-atardecer.webp
+  alt: "Jet ski at sea at sunset"
 ---
 
 ## What you will see

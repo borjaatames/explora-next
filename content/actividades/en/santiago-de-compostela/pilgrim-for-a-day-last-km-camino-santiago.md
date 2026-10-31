@@ -72,27 +72,29 @@ keywords:
 - walk the last km of the camino
 - monte do gozo walk
 - camino de santiago one day walk
-imagen: /images/actividades/santiago-de-compostela/casco/peregrinos.webp
-imagenAlt: Pilgrims in Santiago de Compostela
-galeria:
-- src: /images/actividades/santiago-de-compostela/catedral/obradoiro-fachada.webp
-  alt: The Obradoiro facade, the pilgrims' finish line
-- src: /images/actividades/santiago-de-compostela/catedral/catedral-torres.webp
-  alt: Towers of Santiago Cathedral
-- src: /images/actividades/santiago-de-compostela/catedral/catedral-ciudad.webp
-  alt: The cathedral above the city rooftops
-- src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
-  alt: Praza do Obradoiro
 ratingProveedor: 4.8
 numeroOpiniones: 47
 atraccionesRelacionadas:
 - centro-historico
 - catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/camino/fsc-peregrinos-sendero-bosque.webp
+imagenAlt: "Pilgrims with backpacks walking a woodland trail"
+galeria:
+- src: /images/actividades/santiago-de-compostela/camino/fsc-mojon-concha-flecha.webp
+  alt: "Granite Camino waymarker with the scallop shell and yellow arrow"
+- src: /images/actividades/santiago-de-compostela/camino/fsc-concha-camino-piedra.webp
+  alt: "Camino de Santiago scallop shell set in stone"
+- src: /images/actividades/santiago-de-compostela/casco/peregrinos.webp
+  alt: "Pilgrims arriving through the streets of Santiago's old town"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-praza-obradoiro-alto.webp
+  alt: "Praza do Obradoiro seen from above"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-obradoiro-visitantes.webp
+  alt: "Arriving at Praza do Obradoiro in front of the cathedral"
 ---
 
 ## What you will see

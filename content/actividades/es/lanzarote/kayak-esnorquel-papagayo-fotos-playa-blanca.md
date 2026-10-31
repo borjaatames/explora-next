@@ -71,28 +71,30 @@ keywords:
 - kayak playa blanca
 - snorkel papagayo lanzarote
 - excursion kayak lanzarote
-imagen: /images/actividades/lanzarote/kayak-papagayo.webp
-imagenAlt: Kayaks en el agua turquesa de la bahía de Papagayo
-galeria:
-- src: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
-  alt: Playa de arena dorada y agua tranquila en Papagayo
-- src: /images/actividades/lanzarote/zonas/papagayo-acantilado.webp
-  alt: Acantilados sobre la costa de Papagayo
-- src: /images/actividades/lanzarote/zonas/papagayo-banistas.webp
-  alt: Bañistas en una cala de Papagayo
-- src: /images/actividades/lanzarote/zonas/papagayo-cala.webp
-  alt: Cala de agua turquesa en Papagayo
-- src: /images/actividades/lanzarote/zonas/playa-blanca.webp
-  alt: Costa de Playa Blanca
 ratingProveedor: 4.8
 numeroOpiniones: 516
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
+imagenAlt: "Persona haciendo esnórquel vista desde arriba"
+galeria:
+- src: /images/actividades/lanzarote/kayak-papagayo.webp
+  alt: "Kayak rojo en la orilla de una playa de arena blanca"
+- src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
+  alt: "Playa de Papagayo con cielo de nubes"
+- src: /images/actividades/lanzarote/snorkel/flz-fondo-rocoso.webp
+  alt: "Fondo rocoso visto a través del agua clara"
+- src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
+  alt: "Cala de aguas turquesa en Papagayo"
+- src: /images/actividades/lanzarote/zonas/playa-blanca.webp
+  alt: "Playa Blanca, en el sur de Lanzarote"
+- src: /images/actividades/lanzarote/papagayo/flz-playas-veleros.webp
+  alt: "Playas de Papagayo con veleros fondeados"
 ---
 
 ## Qué vas a ver

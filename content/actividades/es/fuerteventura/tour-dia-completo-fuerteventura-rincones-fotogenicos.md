@@ -79,29 +79,31 @@ keywords:
 - tour fuerteventura grupo reducido
 - que ver en fuerteventura en un dia
 - excursion ajuy betancuria dunas
-imagen: /images/actividades/fuerteventura/zonas/cuevas-de-ajuy.webp
-imagenAlt: Las cuevas de Ajuy en la costa oeste de Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/zonas/betancuria-iglesia.webp
-  alt: La iglesia de Betancuria
-- src: /images/actividades/fuerteventura/zonas/calderon-hondo-crater.webp
-  alt: El cráter del volcán Calderón Hondo
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
-  alt: Paseo por las dunas blancas de Corralejo
-- src: /images/actividades/fuerteventura/zonas/sotavento-aerea.webp
-  alt: Vista aérea de la playa y la laguna de Sotavento
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: Una calle de Betancuria
 ratingProveedor: 4.9
 numeroOpiniones: 260
 atraccionesRelacionadas:
 - norte
 - sur
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/ajuy/ffv-arcos-acantilado-ajuy.webp
+imagenAlt: "Arcos y cuevas en el acantilado de Ajuy"
+galeria:
+- src: /images/actividades/fuerteventura/ajuy/ffv-interior-cueva-ajuy.webp
+  alt: "Visitante dentro de una de las cuevas de Ajuy"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
+  alt: "Plaza de la iglesia de Betancuria con el pueblo al fondo"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-borde-crater-calderon-hondo.webp
+  alt: "Borde del cráter del Calderón Hondo"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-5.webp
+  alt: "Duna y cielo azul en Corralejo"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-3.webp
+  alt: "Muros de la iglesia de Betancuria"
+- src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
+  alt: "La Isla de Lobos vista desde una playa de Corralejo"
 ---
 
 ## Qué vas a ver

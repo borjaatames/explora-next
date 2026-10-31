@@ -71,32 +71,30 @@ keywords:
 - tour lanzarote dia completo
 - excursion norte y sur lanzarote
 - cueva de los verdes excursion
-imagen: /images/actividades/lanzarote/zonas/cueva-de-los-verdes.webp
-imagenAlt: Interior iluminado de la Cueva de los Verdes
-galeria:
-- src: /images/actividades/lanzarote/zonas/timanfaya-montanas-del-fuego.webp
-  alt: Las Montañas del Fuego de Timanfaya
-- src: /images/actividades/lanzarote/zonas/cueva-de-los-verdes-galeria.webp
-  alt: Galería volcánica de la Cueva de los Verdes
-- src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp
-  alt: La Graciosa vista desde los riscos del Mirador del Río
-- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-  alt: Viñedos de La Geria
-- src: /images/actividades/lanzarote/zonas/el-golfo-charco-clicos.webp
-  alt: El Charco de los Clicos, la laguna verde de El Golfo
-- src: /images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp
-  alt: Caravana de camellos en las laderas de Timanfaya
 ratingProveedor: 4.5
 numeroOpiniones: 55
 atraccionesRelacionadas:
 - timanfaya
 - jameos-cueva
 - volcanes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/timanfaya/flz-montanas-colores.webp
+imagenAlt: "Montañas volcánicas de tonos rojizos y ocres en Timanfaya"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-interior-crater.webp
+  alt: "Interior de un cráter volcánico en Timanfaya"
+- src: /images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp
+  alt: "Caravana de camellos en Timanfaya"
+- src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-tubo-iluminado.webp
+  alt: "Tubo volcánico iluminado en la Cueva de los Verdes"
+- src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-galeria-ocre.webp
+  alt: "Galería de tonos ocres en la Cueva de los Verdes"
+- src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-entrada-tubo.webp
+  alt: "Entrada al tubo volcánico de la Cueva de los Verdes"
 ---
 
 ## Qué vas a ver

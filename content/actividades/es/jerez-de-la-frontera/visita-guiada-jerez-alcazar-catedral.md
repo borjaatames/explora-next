@@ -69,28 +69,30 @@ keywords:
 - alcazar de jerez visita guiada
 - catedral de jerez entradas
 - que ver en jerez de la frontera tour
-imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp
-imagenAlt: Entrada al Alcázar de Jerez
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp
-  alt: Baños árabes del Alcázar de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-jardines-hero.webp
-  alt: Jardines del Alcázar de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-hero.webp
-  alt: Cúpula de la Catedral de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
-  alt: Campanario de la Catedral de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-techo-hero.webp
-  alt: Bóveda de los baños árabes del Alcázar
 ratingProveedor: 4.7
 numeroOpiniones: 45
 atraccionesRelacionadas:
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-arqueologicos.webp
+imagenAlt: "Restos arqueológicos y pasarela de madera en el recinto del Alcázar de Jerez"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-cupula.webp
+  alt: "Cúpula con lucernarios estrellados de los baños árabes del Alcázar de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-noria.webp
+  alt: "Restos de las antiguas instalaciones y la noria del Alcázar de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-cielo-azul.webp
+  alt: "Cúpula y balaustradas de la Catedral de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
+  alt: "Campanario de la Catedral de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-fachadas.webp
+  alt: "Fachadas blancas y amarillas con balcones en la calle Larga de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/esquina-iglesia-historica.webp
+  alt: "Esquina de una iglesia histórica en el casco antiguo de Jerez"
 ---
 
 ## Qué vas a ver

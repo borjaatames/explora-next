@@ -71,26 +71,32 @@ keywords:
 - janubio salt flats tour
 - things to do in yaiza lanzarote
 - lanzarote sea salt
-imagen: /images/actividades/lanzarote/zonas/los-hervideros.webp
-imagenAlt: Volcanic coastline at Los Hervideros, next to the Janubio Salt Flats
-galeria:
-- src: /images/actividades/lanzarote/zonas/los-hervideros-cueva.webp
-  alt: Sea-battered lava caves at Los Hervideros
-- src: /images/actividades/lanzarote/zonas/el-golfo-charco-clicos.webp
-  alt: Charco de los Clicos in El Golfo
-- src: /images/actividades/lanzarote/zonas/el-golfo-crater.webp
-  alt: El Golfo crater by the sea
-- src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
-  alt: White houses by the sea in Lanzarote
 ratingProveedor: 4.7
 numeroOpiniones: 316
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/salinas-de-janubio/flz-vista-aerea.webp
+imagenAlt: "Aerial view of the Salinas de Janubio by the lagoon"
+galeria:
+- src: /images/actividades/lanzarote/salinas-de-janubio/flz-estatua-salineros.webp
+  alt: "Salt workers sculpture by the Salinas de Janubio"
+- src: /images/actividades/lanzarote/salinas-de-janubio/flz-cuadriculas-laguna.webp
+  alt: "Salt pans grid by the Janubio lagoon"
+- src: /images/actividades/lanzarote/salinas-de-janubio/flz-estanques.webp
+  alt: "Evaporation ponds at the Salinas de Janubio"
+- src: /images/actividades/lanzarote/salinas-de-janubio/flz-cristalizadores.webp
+  alt: "Salt crystallising pans with volcanic stone walls"
+- src: /images/actividades/lanzarote/salinas-de-janubio/flz-canal-agua.webp
+  alt: "Water channel between the pans at the Salinas de Janubio"
+- src: /images/actividades/lanzarote/salinas-de-janubio/flz-panoramica.webp
+  alt: "Panorama of the Salinas de Janubio and lagoon"
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: "Los Hervideros, lava cliffs by the sea"
 ---
 
 ## What you will see

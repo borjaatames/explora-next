@@ -67,26 +67,32 @@ keywords:
 - caleta de fuste boat trip
 - pozo negro catamaran
 - fuerteventura boat trip with lunch
-imagen: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-imagenAlt: Swimmers next to a catamaran anchored off Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-  alt: Swimmers next to the anchored boat
-- src: /images/actividades/fuerteventura/lobos/paella-vino-a-bordo.webp
-  alt: Paella served on board
-- src: /images/actividades/fuerteventura/lobos/esnorquel-fondo-rocoso.webp
-  alt: Snorkelling over a rocky seabed
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/comida-servida-a-bordo.webp
-  alt: Food served on board a catamaran
 ratingProveedor: 4.7
 numeroOpiniones: 839
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaran-navegando-vela.webp
+imagenAlt: "Catamaran under sail on the open sea"
+galeria:
+- src: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaranes-en-el-mar.webp
+  alt: "Catamarans and boats sailing in turquoise water"
+- src: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaran-fondeado-aereo.webp
+  alt: "Catamaran anchored in turquoise water seen from above"
+- src: /images/actividades/fuerteventura/esnorquel/ffv-fondo-marino-transparente.webp
+  alt: "Seabed seen through clear water"
+- src: /images/actividades/fuerteventura/lobos/paella-vino-a-bordo.webp
+  alt: "Paella and wine served on board"
+- src: /images/actividades/fuerteventura/esnorquel/ffv-bano-mar-abierto.webp
+  alt: "Swimmer in green water seen from above"
+- src: /images/actividades/fuerteventura/delfines/ffv-calderones-aletas.webp
+  alt: "Pod of pilot whales swimming at the surface"
+- src: /images/actividades/fuerteventura/catamaran-morro-jable/copa-espumoso-a-bordo-catamaran.webp
+  alt: "A toast on board the catamaran"
 ---
 
 ## What you will see

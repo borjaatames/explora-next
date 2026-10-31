@@ -20,3 +20,14 @@
 - `bano-desde-barco-excursion.webp` — Ayşegül Aytören · Pexels License · Pexels · https://www.pexels.com/photo/people-swimming-at-sea-13353070/
 - `esnorquel-cala-llenya.webp` — Sferrerb · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Snorkel_Cala_Llenya.jpg
 - `paddle-surf-mar-azul.webp` — Earth Photart · Pexels License · Pexels · https://www.pexels.com/photo/aerial-view-of-paddleboarder-on-clear-blue-waters-38350450/
+- `fi1-cala-salada-puesta-sol.webp` — Aabrilru, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Puesta_de_Sol_en_Cala_Salada.jpg) · recortada a 1600×1200
+- `fi1-cala-salada-acantilado.webp` — Kelly.ibiza, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cala_salada.JPG) · recortada a 1600×1200
+- `fi1-cala-gracio.webp` — Ajuntament de Sant Antoni, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:20679_Cala_Gracio.jpg) · recortada a 1600×1200
+- `fi1-costa-ibiza-agua-cristalina.webp` — Dirk Pothen, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/stunning-coastal-view-of-ibiza-beach-32305035/) · recortada a 1600×1200
+- `fi1-cala-conta-playa-islote.webp` — stavros1, CC BY 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cala_Conta_17_May_2011.JPG) · recortada a 1600×1200
+- `fi1-cala-conta-islote-rocas.webp` — anibal amaro, CC BY 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cala_Conta_3_-_panoramio.jpg) · recortada a 1600×1200
+- `fi1-cala-salada-barcos-embarcadero.webp` — Coniferous (talk) (Uploads), CC BY 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cala_Salada,_near_Sant_Antoni.jpg) · recortada a 1600×1200
+- `fi1-cala-aguas-turquesas-pinos.webp` — Philip Larson from McLean, VA, US, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ibiza_Spain_(2663965500).jpg) · recortada a 1600×1200
+- `fi1-cala-saladeta.webp` — Enrique Ayesta Perojo, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Eivissa_-_Cala_Saladeta.jpg) · recortada a 1600×1200
+- `fi1-cala-conta-rocas-agua-clara.webp` — anibal amaro, CC BY 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cala_Conta_1_-_panoramio.jpg) · recortada a 1600×1200
+- `fi1-casetas-varadero-costa-ibiza.webp` — Raymond Petrik, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/rustic-fishermen-s-sheds-on-ibiza-coastline-29040529/) · recortada a 1600×1200

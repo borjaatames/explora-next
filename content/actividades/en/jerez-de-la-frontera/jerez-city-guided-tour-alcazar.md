@@ -72,28 +72,30 @@ keywords:
 - jerez de la frontera city tour
 - things to do in jerez
 - alcazar of jerez tickets
-imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp
-imagenAlt: Entrance to the Alcázar of Jerez
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp
-  alt: Arab baths in the Alcázar of Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-techo-hero.webp
-  alt: Vaulted ceiling with skylights in the Alcázar's Arab baths
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-jardines-hero.webp
-  alt: Gardens of the Alcázar of Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-hero.webp
-  alt: Dome of Jerez Cathedral
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
-  alt: Jerez Cathedral at night
 ratingProveedor: 4.6
 numeroOpiniones: 191
 atraccionesRelacionadas:
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.webp
+imagenAlt: "Entrance gate to the Alcazar of Jerez in the Almohad wall"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-cupula.webp
+  alt: "Star-shaped skylights in the dome of the Arab baths at the Alcazar of Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-noria.webp
+  alt: "Remains of old structures and the waterwheel at the Alcazar of Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-arqueologicos.webp
+  alt: "Archaeological remains and wooden walkway inside the Alcazar of Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-arboles.webp
+  alt: "Dome of Jerez Cathedral framed by trees"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-terrazas.webp
+  alt: "Terraces and yellow facades on Calle Larga in Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
+  alt: "Old town street in Jerez with large windows and a terrace"
 ---
 
 ## What you will see

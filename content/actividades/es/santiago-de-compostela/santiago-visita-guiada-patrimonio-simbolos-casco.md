@@ -67,28 +67,30 @@ keywords:
 - tour casco antiguo santiago
 - historia de santiago de compostela visita
 - visita patrimonio santiago
-imagen: /images/actividades/santiago-de-compostela/casco/alameda.webp
-imagenAlt: Paseo de la Alameda de Santiago de Compostela
-galeria:
-- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: Rúa do Franco
-- src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: Rúa do Vilar en el casco histórico
-- src: /images/actividades/santiago-de-compostela/casco/praterias-portada.webp
-  alt: Portada románica de Platerías
-- src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
-  alt: Plaza del Obradoiro
-- src: /images/actividades/santiago-de-compostela/casco/praza-cervantes.webp
-  alt: Praza de Cervantes
 ratingProveedor: 4.4
 numeroOpiniones: 45
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-escudo-concha-obradoiro.webp
+imagenAlt: "Escudo con la concha de vieira y verja en la fachada del Obradoiro"
+galeria:
+- src: /images/actividades/santiago-de-compostela/casco/alameda.webp
+  alt: "Paseo de la Alameda, punto de partida de la visita"
+- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
+  alt: "Rúa do Franco en el casco histórico"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-timpano-raxoi.webp
+  alt: "Tímpano con escudo del Pazo de Raxoi en el Obradoiro"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-pazo-xelmirez-obradoiro.webp
+  alt: "Pazo de Xelmírez en la plaza del Obradoiro"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-ornamento-escudo.webp
+  alt: "Ornamento con escudo en la fachada del Obradoiro"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-obradoiro-hostal.webp
+  alt: "Plaza del Obradoiro con el Hostal dos Reis Católicos"
 ---
 
 ## Qué vas a ver

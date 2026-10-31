@@ -75,28 +75,34 @@ keywords:
 - sup tour ibiza
 - snorkelling ibiza caves
 - san antonio paddle board tour
-imagen: /images/actividades/ibiza/mar/paddle-surf-cala.webp
-imagenAlt: Paddleboarding on the calm water of a cove
-galeria:
-- src: /images/actividades/ibiza/mar/paddle-surf.webp
-  alt: Stand-up paddling on a calm sea
-- src: /images/actividades/ibiza/mar/cueva-marina.webp
-  alt: Snorkelling inside a sea cave
-- src: /images/actividades/ibiza/mar/peces-posidonia.webp
-  alt: Fish over a seagrass meadow
-- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
-  alt: Cliffs on Ibiza's west coast
-- src: /images/actividades/ibiza/calas/cala-dhort.webp
-  alt: Cala d'Hort
 ratingProveedor: 4.7
 numeroOpiniones: 115
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/paddle-surf/fi2-paddle-surf-sobre-rocas.webp
+imagenAlt: "Paddleboarding over clear water and a rocky seabed, aerial view"
+galeria:
+- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
+  alt: "Sant Antoni harbour, the meeting point"
+- src: /images/actividades/ibiza/paddle-surf/fi2-remando-de-pie.webp
+  alt: "Stand-up paddling on a paddleboard"
+- src: /images/actividades/ibiza/paddle-surf/fi2-tabla-paddle-vista-aerea.webp
+  alt: "Paddleboard seen from above"
+- src: /images/actividades/ibiza/mar/cueva-marina.webp
+  alt: "Inside a sea cave open to the sea"
+- src: /images/actividades/ibiza/paddle-surf/fi2-entrada-cueva-marina.webp
+  alt: "Sea cave entrance seen from the water"
+- src: /images/actividades/ibiza/paddle-surf/fi2-esnorquel-buceando.webp
+  alt: "Snorkelling in clear green water"
+- src: /images/actividades/ibiza/mar/peces-posidonia.webp
+  alt: "School of fish over posidonia seagrass"
+- src: /images/actividades/ibiza/vedra/es-vedra-cala-dhort.webp
+  alt: "Es Vedrà from Cala d'Hort"
 ---
 
 ## What you will see

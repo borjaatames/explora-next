@@ -76,24 +76,30 @@ keywords:
 - things to do with kids in salou
 - salou karting for kids
 - salou family activities
-imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
-imagenAlt: A buggy on a dirt track
-galeria:
-- src: /images/actividades/tarragona/quad/quad-pista.webp
-  alt: Off-road vehicles on a forest track
-- src: /images/actividades/tarragona/quad/quad-camino.webp
-  alt: An off-road vehicle on a dirt road
-- src: /images/actividades/tarragona/costa/faro-salou.webp
-  alt: Salou lighthouse
 ratingProveedor: 4.8
 numeroOpiniones: 119
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/buggy-ninos/fta-buggy-amarillo-terreno-arena.webp
+imagenAlt: "Yellow buggy parked on sandy scrubland"
+galeria:
+- src: /images/actividades/tarragona/buggy-ninos/fta-buggy-conductor-casco.webp
+  alt: "Helmeted driver at the wheel of a buggy on sand"
+- src: /images/actividades/tarragona/salou/fta-paseo-salou-palmeras-anochecer.webp
+  alt: "Palm trees on the Salou seafront at dusk"
+- src: /images/actividades/tarragona/buggy-ninos/fta-buggy-barro-salpicando.webp
+  alt: "Buggy splashing through a mud puddle"
+- src: /images/actividades/tarragona/costa/platja-llarga.webp
+  alt: "Platja Llarga in Salou seen through pine trees"
+- src: /images/actividades/tarragona/buggy-ninos/fta-buggy-pista-tierra-roja.webp
+  alt: "Buggy with a helmeted driver on a reddish dirt track"
+- src: /images/actividades/tarragona/costa/faro-salou.webp
+  alt: "Salou lighthouse"
 ---
 
 ## What you will see

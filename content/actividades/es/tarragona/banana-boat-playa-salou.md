@@ -67,24 +67,32 @@ keywords:
 - actividades acuaticas salou
 - banana boat costa dorada
 - que hacer en salou con niños
-imagen: /images/actividades/tarragona/costa/platja-llarga.webp
-imagenAlt: Platja Llarga de Salou con el mar en calma
-galeria:
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: El Cap de Salou desde el mar
-- src: /images/actividades/tarragona/costa/faro-salou.webp
-  alt: Faro de Salou
-- src: /images/actividades/tarragona/costa/punta-grossa.webp
-  alt: Costa rocosa de Punta Grossa, en Salou
 ratingProveedor: 4.6
 numeroOpiniones: 69
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/banana/fta-lancha-remolcando-banana-aerea.webp
+imagenAlt: "Lancha remolcando un banana boat en mar abierto, vista aérea"
+galeria:
+- src: /images/actividades/tarragona/salou/fta-paseo-salou-palmeras-anochecer.webp
+  alt: "Palmeras del paseo marítimo junto a la playa de Salou al anochecer"
+- src: /images/actividades/tarragona/banana/fta-banana-boat-arena-chalecos.webp
+  alt: "Banana boat hinchable con chalecos salvavidas sobre la arena"
+- src: /images/actividades/tarragona/banana/fta-moto-agua-remolcando-banana.webp
+  alt: "Embarcación remolcando un banana boat junto a la orilla"
+- src: /images/actividades/tarragona/costa/platja-llarga.webp
+  alt: "Platja Llarga de Salou vista entre pinos"
+- src: /images/actividades/tarragona/banana/fta-grupo-banana-boat-salpicando.webp
+  alt: "Grupo con chalecos salvavidas a bordo de un banana boat"
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: "Mar abierto frente a las rocas del Cap de Salou"
+- src: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
+  alt: "Banana boats hinchables flotando en agua turquesa"
 ---
 
 ## Qué vas a ver

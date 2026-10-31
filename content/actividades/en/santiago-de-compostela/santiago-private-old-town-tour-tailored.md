@@ -73,19 +73,6 @@ keywords:
 - private guide santiago de compostela
 - santiago private walking tour
 - official guide santiago de compostela
-imagen: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
-imagenAlt: The Obradoiro facade of Santiago Cathedral
-galeria:
-- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: Rúa do Franco in Santiago's old town
-- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: Praterías Square
-- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: Quintana Square by the cathedral
-- src: /images/actividades/santiago-de-compostela/casco/praza-cervantes.webp
-  alt: Praza de Cervantes
-- src: /images/actividades/santiago-de-compostela/casco/alameda.webp
-  alt: The Alameda promenade in Santiago
 ratingProveedor: 4.6
 numeroOpiniones: 62
 atraccionesRelacionadas:
@@ -94,11 +81,26 @@ atraccionesRelacionadas:
 privada: true
 precioPorGrupo: true
 avisoReserva: 'The price is per group: from €100 for a group of up to 4 people. For groups of more than 4 (up to 20), check the price when booking.'
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/catedral/fsc-completa-fachada-obradoiro-plaza.webp
+imagenAlt: "Visitors in Praza do Obradoiro before the cathedral façade"
+galeria:
+- src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
+  alt: "Arcades on Rúa do Vilar"
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: "Praza da Quintana"
+- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
+  alt: "Platerías façade of the cathedral"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-pazo-xelmirez-obradoiro.webp
+  alt: "Xelmírez Palace beside Praza do Obradoiro"
+- src: /images/actividades/santiago-de-compostela/casco/alameda.webp
+  alt: "Alameda park"
+- src: /images/actividades/santiago-de-compostela/casco/mercado-abastos.webp
+  alt: "Santiago's Mercado de Abastos"
 ---
 
 ## What you will see

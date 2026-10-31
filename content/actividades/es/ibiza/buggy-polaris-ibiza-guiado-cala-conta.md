@@ -78,25 +78,31 @@ keywords:
 - tour buggy ibiza
 - excursion buggy san antonio ibiza
 - buggy cala conta
-imagen: /images/actividades/ibiza/calas/cala-conta.webp
-imagenAlt: Cala Conta, en la costa oeste de Ibiza
-galeria:
-- src: /images/actividades/ibiza/calas/cala-conta-islote.webp
-  alt: Islote frente a Cala Conta
-- src: /images/actividades/ibiza/calas/cala-conta-veleros.webp
-  alt: Veleros fondeados en Cala Conta
-- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
-  alt: Acantilados de la costa oeste de Ibiza
-- src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
-  alt: Pinar con Es Vedrà al fondo
 ratingProveedor: 4.8
 numeroOpiniones: 116
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/buggy/fi1-buggy-polaris-playa.webp
+imagenAlt: "Buggy Polaris aparcado junto al mar"
+galeria:
+- src: /images/actividades/ibiza/buggy/fi1-buggy-pista-tierra-roja.webp
+  alt: "Buggy con piloto y casco por una pista de tierra roja"
+- src: /images/actividades/ibiza/calas/fi1-cala-conta-playa-islote.webp
+  alt: "Playa de Cala Conta con su islote frente a la orilla"
+- src: /images/actividades/ibiza/calas/cala-conta-olas.webp
+  alt: "Olas en la playa de Cala Conta"
+- src: /images/actividades/ibiza/miradores/fi1-mirador-pinos-mar.webp
+  alt: "Mirador entre pinos sobre el mar en la costa de Ibiza"
+- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
+  alt: "Acantilados de la costa oeste de Ibiza"
+- src: /images/actividades/ibiza/buggy/fi1-buggy-camino-costa.webp
+  alt: "Buggy aparcado en un camino de tierra junto a la costa"
+- src: /images/actividades/ibiza/calas/fi1-cala-conta-rocas-agua-clara.webp
+  alt: "Rocas y agua cristalina en Cala Conta"
 ---
 
 ## Qué vas a ver

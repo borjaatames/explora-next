@@ -72,27 +72,29 @@ keywords:
 - ultimos kilometros camino de santiago
 - monte do gozo a pie
 - caminar camino de santiago un dia
-imagen: /images/actividades/santiago-de-compostela/casco/peregrinos.webp
-imagenAlt: Peregrinos en Santiago de Compostela
-galeria:
-- src: /images/actividades/santiago-de-compostela/catedral/obradoiro-fachada.webp
-  alt: Fachada del Obradoiro, meta de los peregrinos
-- src: /images/actividades/santiago-de-compostela/catedral/catedral-torres.webp
-  alt: Torres de la catedral de Santiago
-- src: /images/actividades/santiago-de-compostela/catedral/catedral-ciudad.webp
-  alt: La catedral sobre los tejados de la ciudad
-- src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
-  alt: Plaza del Obradoiro
 ratingProveedor: 4.8
 numeroOpiniones: 47
 atraccionesRelacionadas:
 - centro-historico
 - catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/camino/fsc-peregrinos-sendero-bosque.webp
+imagenAlt: "Peregrinos con mochila caminando por un sendero entre árboles"
+galeria:
+- src: /images/actividades/santiago-de-compostela/camino/fsc-mojon-concha-flecha.webp
+  alt: "Mojón de granito del Camino con la concha y la flecha amarilla"
+- src: /images/actividades/santiago-de-compostela/camino/fsc-concha-camino-piedra.webp
+  alt: "Concha del Camino de Santiago grabada en la piedra"
+- src: /images/actividades/santiago-de-compostela/casco/peregrinos.webp
+  alt: "Peregrinos llegando por las calles del casco antiguo de Santiago"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-praza-obradoiro-alto.webp
+  alt: "Praza do Obradoiro vista desde lo alto"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-obradoiro-visitantes.webp
+  alt: "Llegada a la plaza del Obradoiro frente a la catedral"
 ---
 
 ## Qué vas a ver

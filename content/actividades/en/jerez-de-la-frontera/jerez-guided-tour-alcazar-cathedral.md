@@ -69,28 +69,30 @@ keywords:
 - alcazar of jerez tour
 - jerez cathedral tickets
 - things to do in jerez de la frontera
-imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp
-imagenAlt: Entrance to the Alcázar of Jerez
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp
-  alt: Arab baths in the Alcázar of Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-jardines-hero.webp
-  alt: Gardens of the Alcázar of Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-hero.webp
-  alt: Dome of Jerez Cathedral
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
-  alt: Bell tower of Jerez Cathedral
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-techo-hero.webp
-  alt: Vaulted ceiling of the Alcázar's Arab baths
 ratingProveedor: 4.7
 numeroOpiniones: 45
 atraccionesRelacionadas:
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-arqueologicos.webp
+imagenAlt: "Archaeological remains and wooden walkway inside the Alcazar of Jerez"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-cupula.webp
+  alt: "Star-shaped skylights in the dome of the Arab baths at the Alcazar of Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-noria.webp
+  alt: "Remains of old structures and the waterwheel at the Alcazar of Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-cielo-azul.webp
+  alt: "Dome and balustrades of Jerez Cathedral"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
+  alt: "Bell tower of Jerez Cathedral"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-fachadas.webp
+  alt: "White and yellow facades with balconies on Calle Larga in Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/esquina-iglesia-historica.webp
+  alt: "Corner of a historic church in Jerez old town"
 ---
 
 ## What you will see

@@ -63,23 +63,29 @@ keywords:
 - lagomar lanzarote tickets
 - omar sharif house lanzarote
 - things to see in teguise
-imagen: /images/actividades/lanzarote/zonas/teguise-calle.webp
-imagenAlt: A street in Teguise, the municipality where LagOmar is located
-galeria:
-- src: /images/actividades/lanzarote/zonas/teguise-plaza.webp
-  alt: The main square in Teguise
-- src: /images/actividades/lanzarote/zonas/casa-tradicional-verde.webp
-  alt: A traditional Lanzarote house
-- src: /images/actividades/lanzarote/zonas/volcan-vegetacion.webp
-  alt: Volcanic landscape in Lanzarote
 ratingProveedor: 4.7
 numeroOpiniones: 1266
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/lagomar/flz-piscina.webp
+imagenAlt: "LagOmar pool surrounded by volcanic rock"
+galeria:
+- src: /images/actividades/lanzarote/lagomar/flz-terraza-roca.webp
+  alt: "Terrace and white door carved into the rock at LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-pared-cuevas.webp
+  alt: "Rock wall with caves and a white door at LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-tunel-blanco.webp
+  alt: "White tunnel carved into the rock at LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-arco-roca.webp
+  alt: "Rock arch and cactus garden at LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-jardin-palmeras.webp
+  alt: "Garden with palms and cacti by the rock at LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-muros-blancos.webp
+  alt: "White walls and plants on the rock at LagOmar"
 ---
 
 ## What you will see

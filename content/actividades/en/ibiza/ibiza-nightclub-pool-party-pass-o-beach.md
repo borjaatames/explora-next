@@ -71,25 +71,29 @@ keywords:
 - o beach ibiza tickets
 - ibiza pool party tickets
 - ibiza nightlife
-imagen: /images/actividades/ibiza/ocio-nocturno/ocio-nocturno-ibiza-hero.webp
-imagenAlt: Nightlife atmosphere in Ibiza
-galeria:
-- src: /images/actividades/ibiza/san-antonio/san-antonio-ibiza-hero.webp
-  alt: Sant Antoni de Portmany, Ibiza
-- src: /images/actividades/ibiza/atardecer/atardecer-paseo.webp
-  alt: Sant Antoni promenade at sunset
-- src: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
-  alt: Sant Antoni bay
-- src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-02.webp
-  alt: People partying in Ibiza
 ratingProveedor: 4.8
 numeroOpiniones: 111
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/fiesta/fi2-pista-discoteca-luces.webp
+imagenAlt: "Nightclub dance floor with mirror ball and lights"
+galeria:
+- src: /images/actividades/ibiza/fiesta/fi2-globos-piscina.webp
+  alt: "Colourful balloons floating in a pool"
+- src: /images/actividades/ibiza/fiesta/fi2-banistas-piscina-aerea.webp
+  alt: "Swimmers in a pool seen from above"
+- src: /images/actividades/ibiza/fiesta/fi2-paseo-sant-antoni-atardecer.webp
+  alt: "Sant Antoni seafront busy at sunset"
+- src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
+  alt: "Sunset over Sant Antoni bay"
+- src: /images/actividades/ibiza/fiesta/fi2-sant-antoni-noche.webp
+  alt: "Sant Antoni promenade lit up at night"
+- src: /images/actividades/ibiza/bici/fi2-dalt-vila-noche-puerto.webp
+  alt: "Dalt Vila lit up at night from the harbour"
 ---
 
 ## What you will see

@@ -69,28 +69,28 @@ keywords:
 - misterios de santiago de compostela
 - juderia santiago de compostela
 - ruta nocturna casco antiguo santiago
-imagen: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-imagenAlt: Plaza de la Quintana, junto a la catedral de Santiago
-galeria:
-- src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: Soportales de la Rúa do Vilar
-- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: Rúa do Franco en el casco antiguo
-- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: Plaza de Platerías en Santiago
-- src: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp
-  alt: La catedral vista desde la Quintana
-- src: /images/actividades/santiago-de-compostela/casco/praza-cervantes.webp
-  alt: Praza de Cervantes en el casco antiguo
 ratingProveedor: 4.9
 numeroOpiniones: 87
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/noche/fsc-obradoiro-cielo-atardecer.webp
+imagenAlt: "Fachada del Obradoiro al anochecer con el cielo rojizo"
+galeria:
+- src: /images/actividades/santiago-de-compostela/noche/fsc-catedral-arco-blanco-negro.webp
+  alt: "La catedral enmarcada por un arco en penumbra"
+- src: /images/actividades/santiago-de-compostela/cubiertas/catedral-alameda.webp
+  alt: "Catedral de Santiago con la luz dorada de última hora"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-porta-santa-quintana.webp
+  alt: "Puerta Santa exterior en la plaza de la Quintana"
+- src: /images/actividades/santiago-de-compostela/cubiertas/berenguela.webp
+  alt: "Torre del Reloj o Berenguela a contraluz"
+- src: /images/actividades/santiago-de-compostela/catedral/claustro.webp
+  alt: "Arcos del claustro de la catedral en blanco y negro"
 ---
 
 ## Qué vas a ver

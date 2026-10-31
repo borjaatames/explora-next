@@ -68,28 +68,32 @@ keywords:
 - cala conta boat trip
 - san antonio boat trip open bar
 - ibiza coves boat tour
-imagen: /images/actividades/ibiza/calas/cala-conta-islote.webp
-imagenAlt: Cala Conta and its islet off the Ibiza coast
-galeria:
-- src: /images/actividades/ibiza/calas/cala-bassa.webp
-  alt: Cala Bassa
-- src: /images/actividades/ibiza/calas/cala-conta-calita.webp
-  alt: One of the small coves at Cala Conta
-- src: /images/actividades/ibiza/calas/bano-desde-barco-excursion.webp
-  alt: Swimmers next to an excursion boat
-- src: /images/actividades/ibiza/mar/paddle-surf-cala.webp
-  alt: Paddleboarding on calm water
-- src: /images/actividades/ibiza/mar/cueva-marina.webp
-  alt: Snorkelling in a sea cave
 ratingProveedor: 4.6
 numeroOpiniones: 155
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/barcos/fi1-barcos-fondeados-cala-bassa.webp
+imagenAlt: "Boats anchored in the turquoise water of Cala Bassa"
+galeria:
+- src: /images/actividades/ibiza/sant-antoni/fi1-bahia-sant-antoni-puerto.webp
+  alt: "Sant Antoni de Portmany bay and harbour with moored boats"
+- src: /images/actividades/ibiza/calas/fi1-cala-conta-playa-islote.webp
+  alt: "Cala Conta beach with its islet just offshore"
+- src: /images/actividades/ibiza/mar/cueva-marina.webp
+  alt: "Sea cave with water flowing under the rock"
+- src: /images/actividades/ibiza/calas/fi1-cala-conta-islote-rocas.webp
+  alt: "Islet off the rocks of Cala Conta on Ibiza west coast"
+- src: /images/actividades/ibiza/calas/cala-bassa.webp
+  alt: "Boats anchored at Cala Bassa"
+- src: /images/actividades/ibiza/mar/esnorquel.webp
+  alt: "Snorkelling over a seagrass meadow"
+- src: /images/actividades/ibiza/mar/fi1-paddle-surf-aereo.webp
+  alt: "Stand-up paddleboarding at sea seen from above"
 ---
 
 ## What you will see

@@ -69,28 +69,32 @@ keywords:
 - san antonio boat trip
 - ibiza snorkelling boat trip
 - sunset cruise ibiza
-imagen: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
-imagenAlt: Sunset in Sant Antoni de Portmany
-galeria:
-- src: /images/actividades/ibiza/calas/cala-bassa.webp
-  alt: Cala Bassa on Ibiza's west coast
-- src: /images/actividades/ibiza/calas/cala-conta.webp
-  alt: Clear water at Cala Comte
-- src: /images/actividades/ibiza/mar/kayak-cala.webp
-  alt: Kayaking in a clear-water cove
-- src: /images/actividades/ibiza/mar/esnorquel.webp
-  alt: Snorkelling over a seagrass meadow
-- src: /images/actividades/ibiza/atardecer/atardecer-conillera.webp
-  alt: Sunset by Sa Conillera
 ratingProveedor: 4.7
 numeroOpiniones: 145
 atraccionesRelacionadas:
 - vedra-atardecer
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/fiesta-barco/fiesta-barco-04.webp
+imagenAlt: "Boats anchored in an Ibiza cove at sunset"
+galeria:
+- src: /images/actividades/ibiza/sant-antoni/fi1-sant-antoni-vista-bahia.webp
+  alt: "View of Sant Antoni and its bay full of boats from the hillside"
+- src: /images/actividades/ibiza/calas/fi1-costa-ibiza-agua-cristalina.webp
+  alt: "Crystal-clear water over a rocky seabed on the Ibiza coast"
+- src: /images/actividades/ibiza/kayak-codolar/kayaks-cala-turquesa.webp
+  alt: "Kayaks in the turquoise water of an Ibiza cove"
+- src: /images/actividades/ibiza/mar/fi1-salmonete-fondo-cala-gracio.webp
+  alt: "Red mullet on the seabed at Cala Gració, seen while snorkelling"
+- src: /images/actividades/ibiza/mar/fi1-paddle-surf-fondo-rocas.webp
+  alt: "Stand-up paddleboarding over clear water and a rocky seabed"
+- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
+  alt: "Sunset over the islets off the west coast of Ibiza"
+- src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
+  alt: "Sunset from Sant Antoni bay"
 ---
 
 ## What you will see

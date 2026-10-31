@@ -76,24 +76,32 @@ keywords:
 - buceo salou
 - buceo sin titulacion tarragona
 - submarinismo costa dorada
-imagen: /images/actividades/tarragona/costa/punta-grossa.webp
-imagenAlt: Costa rocosa de Punta Grossa, en Salou
-galeria:
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: El Cap de Salou y sus calas
-- src: /images/actividades/tarragona/costa/catamaran-bano-mar-abierto.webp
-  alt: Gente bañándose en mar abierto frente a la Costa Dorada
-- src: /images/actividades/tarragona/costa/platja-llarga.webp
-  alt: Platja Llarga de Salou
 ratingProveedor: 4.8
 numeroOpiniones: 46
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/buceo/fta-buceador-roca-submarina.webp
+imagenAlt: "Buceador con equipo completo nadando junto a una pared de roca submarina"
+galeria:
+- src: /images/actividades/tarragona/buceo/fta-buceador-superficie-barcos.webp
+  alt: "Buceador en la superficie del mar con barcas al fondo"
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: "Costa rocosa del Cap de Salou"
+- src: /images/actividades/tarragona/buceo/fta-buceadores-fondo-burbujas.webp
+  alt: "Grupo de buceadores descendiendo sobre un fondo marino"
+- src: /images/actividades/tarragona/buceo/fta-banco-peces-fondo-mediterraneo.webp
+  alt: "Banco de peces sobre un fondo rocoso del Mediterráneo"
+- src: /images/actividades/tarragona/costa/punta-grossa.webp
+  alt: "Mirador de Punta Grossa sobre el mar en Salou"
+- src: /images/actividades/tarragona/buceo/fta-morena-entre-rocas.webp
+  alt: "Morena asomando entre las rocas del fondo marino"
+- src: /images/actividades/tarragona/buceo/fta-aleta-buceo-mar.webp
+  alt: "Aleta de buceo amarilla asomando sobre el mar"
 ---
 
 ## Qué vas a ver

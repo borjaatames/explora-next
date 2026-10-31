@@ -84,30 +84,34 @@ keywords:
 - ibiza formentera catamaran
 - formentera boat trip with lunch
 - ses illetes from ibiza
-imagen: /images/actividades/ibiza/crucero-calas/barco-excursion-tobogan.webp
-imagenAlt: Excursion boat with a waterslide anchored in turquoise water
-galeria:
-- src: /images/actividades/ibiza/formentera/ses-illetes.webp
-  alt: Ses Illetes beach in Formentera
-- src: /images/actividades/ibiza/crucero-calas/esnorquel-bajo-el-agua-ibiza.webp
-  alt: Snorkelling underwater
-- src: /images/actividades/ibiza/formentera/la-savina.webp
-  alt: La Savina harbour, Formentera
-- src: /images/actividades/ibiza/formentera/bici-illetes.webp
-  alt: Bicycle on Ses Illetes beach
-- src: /images/actividades/ibiza/formentera/migjorn.webp
-  alt: Migjorn beach, Formentera
-- src: /images/actividades/ibiza/formentera/ferry-trasmapi-dalt-vila.webp
-  alt: Ferry arriving in Ibiza with Dalt Vila behind
 ratingProveedor: 4.7
 numeroOpiniones: 226
 atraccionesRelacionadas:
 - formentera
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/catamaran/fi2-catamaran-navegando-aerea.webp
+imagenAlt: "Catamaran seen from above at sea"
+galeria:
+- src: /images/actividades/ibiza/catamaran/fi2-catamaranes-fondeados-costa.webp
+  alt: "Two catamarans anchored off a clear-water shore"
+- src: /images/actividades/ibiza/formentera/fi2-ses-illetes-aerea.webp
+  alt: "Aerial view of Ses Illetes and Espalmador, Formentera"
+- src: /images/actividades/ibiza/formentera/ses-illetes.webp
+  alt: "Boats anchored off Ses Illetes"
+- src: /images/actividades/ibiza/formentera/fi2-bano-aguas-formentera.webp
+  alt: "Swimmers in Formentera's clear water"
+- src: /images/actividades/ibiza/formentera/bici-illetes.webp
+  alt: "Bicycle by the beach in Formentera"
+- src: /images/actividades/ibiza/formentera/la-savina.webp
+  alt: "La Savina harbour, Formentera"
+- src: /images/actividades/ibiza/formentera/estacion-maritima.webp
+  alt: "Ibiza ferry terminal, where the ferries arrive"
+- src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-03.webp
+  alt: "Dalt Vila and Ibiza harbour at dusk"
 ---
 
 ## What you will see

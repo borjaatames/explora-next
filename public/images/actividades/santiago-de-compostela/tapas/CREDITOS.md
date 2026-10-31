@@ -8,3 +8,4 @@
 - `tortilla.webp` — Juan Emilio Prades Bel, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tortilla_Espa%C3%B1ola.jpg) · recortada a 1600×1200
 - `mejillones.webp` — Tamorlan, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Mejillones_-_Cazuela.JPG) · recortada a 1600×1200
 - `pimientos-cerveza.webp` — Takeaway, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Pimientos_de_Padr%C3%B3n_Madrid_2010_0709.jpg) · recortada a 1600×1200
+- `fsc-cata-quesos-curados-surtido.webp` — VMonte13, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/cheeses-sheep-cheese-cheese-3373604/) · recortada a 1600×1200

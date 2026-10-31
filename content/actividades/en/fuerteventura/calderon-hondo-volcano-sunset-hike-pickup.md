@@ -69,28 +69,30 @@ keywords:
 - fuerteventura sunset tour
 - fuerteventura volcano hike
 - calderon hondo hike
-imagen: /images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp
-imagenAlt: Rim of the Calderón Hondo crater
-galeria:
-- src: /images/actividades/fuerteventura/zonas/calderon-hondo-crater.webp
-  alt: Inside the Calderón Hondo crater
-- src: /images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp
-  alt: Trail along the rim of Calderón Hondo
-- src: /images/actividades/fuerteventura/calderonhondo.webp
-  alt: Calderón Hondo volcano, northern Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Volcanoes in northern Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-atardecer.webp
-  alt: Sunset in northern Fuerteventura with Lobos in the background
 ratingProveedor: 4.7
 numeroOpiniones: 152
 atraccionesRelacionadas:
 - norte
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/calderon-hondo/ffv-atardecer-borde-crater.webp
+imagenAlt: "Hiker watching the sunset from the rim of a volcanic crater"
+galeria:
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-ladera.webp
+  alt: "Slope of Calderón Hondo above the lava field"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-crater-calderon-hondo.webp
+  alt: "Calderón Hondo crater with other volcanoes behind"
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: "Volcanoes in the north of Fuerteventura"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-interior-crater-calderon-hondo.webp
+  alt: "Inside the Calderón Hondo crater"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-4.webp
+  alt: "Afternoon light over the Corralejo Dunes"
+- src: /images/actividades/fuerteventura/zonas/cielo-estrellado-volcan.webp
+  alt: "Starry sky over a volcano at nightfall"
 ---
 
 ## What you will see

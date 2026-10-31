@@ -60,27 +60,29 @@ keywords:
 - puro arte jerez flamenco
 - espectaculo flamenco jerez con cena
 - flamenco jerez de la frontera entradas
-imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-imagenAlt: Tablao flamenco en Jerez de la Frontera
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-bailaora-hero.webp
-  alt: Bailaora de flamenco en escena
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: Público ante un espectáculo flamenco
-- src: /images/actividades/jerez-de-la-frontera/centro/bodega-barricas-hero.webp
-  alt: Barricas en una bodega de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
-  alt: Catedral de Jerez de noche
 ratingProveedor: 4.6
 numeroOpiniones: 348
 atraccionesRelacionadas:
 - flamenco
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
+imagenAlt: "Bailaora de flamenco girando sobre el escenario, con la falda en movimiento"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
+  alt: "Manos de una bailaora sujetando castañuelas"
+- src: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
+  alt: "Bailaora con falda de volantes bailando con luz tenue"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-generoso.webp
+  alt: "Copa de vino generoso sobre una tabla de madera"
+- src: /images/actividades/jerez-de-la-frontera/tapas/tabla-tapas-cazuelas.webp
+  alt: "Surtido de tapas y cazuelitas de barro"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
+  alt: "Catedral de Jerez y su torre iluminadas de noche"
 ---
 
 ## Qué vas a ver

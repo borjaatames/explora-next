@@ -77,28 +77,32 @@ keywords:
 - san antonio boat trip open bar
 - ibiza secret coves
 - cala comte boat trip
-imagen: /images/actividades/ibiza/calas/cala-conta-calita.webp
-imagenAlt: A small turquoise cove at Cala Comte
-galeria:
-- src: /images/actividades/ibiza/calas/cala-bassa-pinos.webp
-  alt: Cala Bassa among the pines
-- src: /images/actividades/ibiza/mar/kayak-turquesa.webp
-  alt: Sea kayaks on turquoise water
-- src: /images/actividades/ibiza/mar/cueva-marina.webp
-  alt: Snorkelling inside a sea cave
-- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
-  alt: Paddleboarding on blue sea
-- src: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
-  alt: A cove with pines and turquoise water
 ratingProveedor: 4.8
 numeroOpiniones: 80
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/barcos/fi1-barco-fondeado-cala-acantilados.webp
+imagenAlt: "Boat anchored in a turquoise cove between cliffs"
+galeria:
+- src: /images/actividades/ibiza/calas/fi1-cala-conta-rocas-agua-clara.webp
+  alt: "Rocks and crystal-clear water at Cala Conta"
+- src: /images/actividades/ibiza/calas/fi1-cala-salada-acantilado.webp
+  alt: "Cliff and clear water at Cala Salada"
+- src: /images/actividades/ibiza/calas/cala-bassa-pinos.webp
+  alt: "Cala Bassa through the pines with anchored boats"
+- src: /images/actividades/ibiza/mar/fi1-arco-roca-mar.webp
+  alt: "Natural rock arch over the Mediterranean Sea"
+- src: /images/actividades/ibiza/mar/fi1-kayak-arco-roca.webp
+  alt: "Kayak passing under a rock arch over the sea"
+- src: /images/actividades/ibiza/mar/fi1-paddle-surf-orilla.webp
+  alt: "Stand-up paddleboarding along a vegetated shoreline"
+- src: /images/actividades/ibiza/calas/fi1-casetas-varadero-costa-ibiza.webp
+  alt: "Traditional fishermen boat sheds on the Ibiza coast"
 ---
 
 ## What you will see

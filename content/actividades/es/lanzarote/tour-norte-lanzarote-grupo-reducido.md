@@ -73,28 +73,28 @@ keywords:
 - excursion norte lanzarote grupo reducido
 - miradores norte lanzarote
 - valle de haria excursion
-imagen: /images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp
-imagenAlt: Vista del norte de Lanzarote desde un mirador
-galeria:
-- src: /images/actividades/lanzarote/zonas/la-graciosa-desde-famara.webp
-  alt: La Graciosa vista desde los riscos del norte de Lanzarote
-- src: /images/actividades/lanzarote/zonas/casa-tradicional-verde.webp
-  alt: Casa tradicional lanzaroteña
-- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-  alt: Viñedos sobre ceniza volcánica en La Geria
-- src: /images/actividades/lanzarote/zonas/volcan-malpais.webp
-  alt: Malpaís de lava volcánica en Lanzarote
-- src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp
-  alt: Vista de La Graciosa desde el norte de Lanzarote
 ratingProveedor: 4.7
 numeroOpiniones: 174
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/famara/flz-vista-macizo.webp
+imagenAlt: "Caleta de Famara vista desde lo alto del macizo de Famara"
+galeria:
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-carretera-risco.webp
+  alt: "Carretera junto al risco en el norte de Lanzarote"
+- src: /images/actividades/lanzarote/famara/flz-risco-famara.webp
+  alt: "Risco de Famara visto desde La Caleta de Famara"
+- src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
+  alt: "Cultivos sobre ceniza volcánica en Lanzarote"
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-costa-playa.webp
+  alt: "Costa norte de Lanzarote vista desde el Mirador del Río"
+- src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-paisaje-norte.webp
+  alt: "Paisaje volcánico del norte de Lanzarote junto a la Cueva de los Verdes"
 ---
 
 ## Qué vas a ver

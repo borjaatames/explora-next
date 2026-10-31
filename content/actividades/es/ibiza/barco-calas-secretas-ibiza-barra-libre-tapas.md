@@ -77,28 +77,32 @@ keywords:
 - barco barra libre san antonio
 - calas secretas ibiza barco
 - cala comte barco
-imagen: /images/actividades/ibiza/calas/cala-conta-calita.webp
-imagenAlt: Calita de agua turquesa en Cala Comte
-galeria:
-- src: /images/actividades/ibiza/calas/cala-bassa-pinos.webp
-  alt: Cala Bassa entre pinos
-- src: /images/actividades/ibiza/mar/kayak-turquesa.webp
-  alt: Kayaks de mar en aguas turquesas
-- src: /images/actividades/ibiza/mar/cueva-marina.webp
-  alt: Esnórquel dentro de una cueva marina
-- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
-  alt: Paddle surf en el mar azul
-- src: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
-  alt: Cala con pinos y aguas turquesas
 ratingProveedor: 4.8
 numeroOpiniones: 80
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/barcos/fi1-barco-fondeado-cala-acantilados.webp
+imagenAlt: "Barco fondeado en una cala de agua turquesa entre acantilados"
+galeria:
+- src: /images/actividades/ibiza/calas/fi1-cala-conta-rocas-agua-clara.webp
+  alt: "Rocas y agua cristalina en Cala Conta"
+- src: /images/actividades/ibiza/calas/fi1-cala-salada-acantilado.webp
+  alt: "Acantilado y agua clara en Cala Salada"
+- src: /images/actividades/ibiza/calas/cala-bassa-pinos.webp
+  alt: "Cala Bassa entre pinos con barcos fondeados"
+- src: /images/actividades/ibiza/mar/fi1-arco-roca-mar.webp
+  alt: "Arco de roca natural sobre el mar Mediterráneo"
+- src: /images/actividades/ibiza/mar/fi1-kayak-arco-roca.webp
+  alt: "Kayak pasando bajo un arco de roca sobre el mar"
+- src: /images/actividades/ibiza/mar/fi1-paddle-surf-orilla.webp
+  alt: "Paddle surf junto a una orilla con vegetación"
+- src: /images/actividades/ibiza/calas/fi1-casetas-varadero-costa-ibiza.webp
+  alt: "Casetas varadero de pescadores en la costa de Ibiza"
 ---
 
 ## Qué vas a ver

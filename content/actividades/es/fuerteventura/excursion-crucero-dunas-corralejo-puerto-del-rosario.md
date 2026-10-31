@@ -65,26 +65,32 @@ keywords:
 - puerto del rosario excursion
 - dunas de corralejo excursion
 - escala crucero fuerteventura que hacer
-imagen: /images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp
-imagenAlt: Dunas de Corralejo con Lobos y Lanzarote en el horizonte
-galeria:
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
-  alt: Paseo por las dunas blancas de Corralejo
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-arena.webp
-  alt: Arena y matorral en las Dunas de Corralejo
-- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
-  alt: Bahía de Corralejo con Lobos al fondo
-- src: /images/actividades/fuerteventura/corralejo/corralejo-calle-de-la-iglesia.webp
-  alt: Calle de la Iglesia, la calle peatonal del casco antiguo de Corralejo
 ratingProveedor: 4.6
 numeroOpiniones: 352
 atraccionesRelacionadas:
 - norte
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-2.webp
+imagenAlt: "Montaña y duna en las Dunas de Corralejo"
+galeria:
+- src: /images/actividades/fuerteventura/corralejo/ffv-puerto-deportivo-corralejo.webp
+  alt: "Barcos en el puerto de Corralejo"
+- src: /images/actividades/fuerteventura/corralejo/corralejo-calle-de-la-iglesia.webp
+  alt: "Calle de la Iglesia en Corralejo"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-3.webp
+  alt: "Matas sobre la arena de las Dunas de Corralejo"
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: "Bahía de Corralejo"
+- src: /images/actividades/fuerteventura/isla-lobos/ffv-castillos-arena-lobos.webp
+  alt: "Castillos de arena en la playa con la Isla de Lobos al fondo"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-5.webp
+  alt: "Duna y cielo azul en Corralejo"
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
+  alt: "Barcos en el puerto de Corralejo"
 ---
 
 ## Qué vas a ver

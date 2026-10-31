@@ -68,28 +68,30 @@ keywords:
 - cata quesos gallegos
 - vino y queso santiago
 - actividades gastronomicas santiago de compostela
-imagen: /images/actividades/santiago-de-compostela/tapas/queso-tetilla.webp
-imagenAlt: Queso tetilla gallego
-galeria:
-- src: /images/actividades/santiago-de-compostela/rias/bodega-fefinans-barricas.webp
-  alt: Barricas en una bodega gallega
-- src: /images/actividades/santiago-de-compostela/tapas/bar-gallego.webp
-  alt: Interior de un bar en Santiago
-- src: /images/actividades/santiago-de-compostela/tapas/escaparate.webp
-  alt: Escaparate de productos gallegos en Santiago
-- src: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
-  alt: Viñedos de albariño en Galicia
-- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: Rúa do Franco, calle de bares del casco antiguo
 ratingProveedor: 4.8
 numeroOpiniones: 56
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/tapas/queso-tetilla.webp
+imagenAlt: "Queso de tetilla gallego con denominación de origen"
+galeria:
+- src: /images/actividades/santiago-de-compostela/tapas/fsc-cata-quesos-curados-surtido.webp
+  alt: "Surtido de quesos curados de distintos tamaños"
+- src: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
+  alt: "Viñedos de albariño en las Rías Baixas"
+- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
+  alt: "Rúa do Franco, calle de bares y restaurantes del casco antiguo de Santiago"
+- src: /images/actividades/santiago-de-compostela/rias/parras.webp
+  alt: "Parras de vid sobre pilares de granito en Galicia"
+- src: /images/actividades/santiago-de-compostela/tapas/bar-gallego.webp
+  alt: "Interior de un bar tradicional gallego con barricas"
+- src: /images/actividades/santiago-de-compostela/rias/vendimia-albarino-cambados.webp
+  alt: "Cajas de uva albariño recién vendimiada"
 ---
 
 ## Qué vas a ver

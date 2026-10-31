@@ -73,28 +73,30 @@ keywords:
 - excursion 4x4 jandia
 - el puertito de la cruz excursion
 - tour cofete todoterreno
-imagen: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
-imagenAlt: Vista de la playa de Cofete desde el mirador
-galeria:
-- src: /images/actividades/fuerteventura/zonas/cofete-playa.webp
-  alt: Playa de Cofete
-- src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: Costa de la península de Jandía
-- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: Macizo de Jandía
-- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: Litoral salvaje de Jandía
-- src: /images/actividades/fuerteventura/zonas/villa-winter-ladera.webp
-  alt: La Villa Winter en la ladera sobre Cofete
 ratingProveedor: 4.7
 numeroOpiniones: 265
 atraccionesRelacionadas:
 - sur
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/safari-4x4/ffv-todoterreno-pista-tierra.webp
+imagenAlt: "Todoterreno por una pista de tierra entre montañas"
+galeria:
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-faro-punta-jandia.webp
+  alt: "Faro de Punta Jandía"
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-linterna-faro-oleaje.webp
+  alt: "Linterna del faro de Punta Jandía sobre el oleaje"
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-costa-punta-jandia.webp
+  alt: "Costa rocosa de Punta de Jandía"
+- src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
+  alt: "Vista de Cofete desde el mirador"
+- src: /images/actividades/fuerteventura/cofete/ffv-cofete-4.webp
+  alt: "Nubes sobre la playa de Cofete"
+- src: /images/actividades/fuerteventura/zonas/villa-winter.webp
+  alt: "Villa Winter en la ladera de Cofete"
 ---
 
 ## Qué vas a ver

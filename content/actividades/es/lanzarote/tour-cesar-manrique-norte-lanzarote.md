@@ -73,31 +73,33 @@ keywords:
 - excursion jameos del agua mirador del rio
 - jardin de cactus lanzarote excursion
 - fundacion cesar manrique visita
-imagen: /images/actividades/lanzarote/zonas/jameos-piscina.webp
-imagenAlt: La piscina blanca de los Jameos del Agua, diseñada por César Manrique
-galeria:
-- src: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
-  alt: Cactus entre rocas volcánicas en Guatiza, junto al Jardín de Cactus
-- src: /images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp
-  alt: Vista desde el Mirador del Río
-- src: /images/actividades/lanzarote/zonas/jameos-lago-interior.webp
-  alt: El lago interior de los Jameos del Agua
-- src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp
-  alt: La Graciosa vista desde el Mirador del Río
-- src: /images/actividades/lanzarote/zonas/jameos-jardin.webp
-  alt: Jardín volcánico de los Jameos del Agua
-- src: /images/actividades/lanzarote/zonas/molino-jardin-cactus.webp
-  alt: Molino del Jardín de Cactus
 ratingProveedor: 4.6
 numeroOpiniones: 232
 atraccionesRelacionadas:
 - jameos-cueva
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-burbuja-amarilla.webp
+imagenAlt: "Burbuja volcánica amarilla de la Fundación César Manrique"
+galeria:
+- src: /images/actividades/lanzarote/jardin-de-cactus/flz-anfiteatro.webp
+  alt: "Vista del anfiteatro del Jardín de Cactus en Guatiza"
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-terraza-barandilla.webp
+  alt: "Terraza del Mirador del Río sobre el estrecho de La Graciosa"
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-interior-cafeteria.webp
+  alt: "Interior del Mirador del Río, obra de César Manrique"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
+  alt: "Piscina turquesa de los Jameos del Agua"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
+  alt: "Escaleras de piedra y jardín en los Jameos del Agua"
+- src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-burbuja-roja.webp
+  alt: "Burbuja roja de la Fundación César Manrique"
+- src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-jardin-estanque.webp
+  alt: "Jardín con estanque en la Fundación César Manrique"
 ---
 
 ## Qué vas a ver

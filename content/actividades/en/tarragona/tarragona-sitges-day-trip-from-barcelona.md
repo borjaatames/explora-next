@@ -71,28 +71,34 @@ keywords:
 - tarragona and sitges in one day
 - sitges day trip from barcelona
 - roman tarragona tour from barcelona
-imagen: /images/actividades/tarragona/romana/anfiteatro.webp
-imagenAlt: Tarragona's Roman amphitheatre by the sea
-galeria:
-- src: /images/actividades/tarragona/romana/anfiteatro-gradas.webp
-  alt: Stands of Tarragona's Roman amphitheatre
-- src: /images/actividades/tarragona/romana/circo-romano.webp
-  alt: Remains of Tarragona's Roman circus
-- src: /images/actividades/tarragona/romana/muralla-romana.webp
-  alt: Tarragona's Roman walls
-- src: /images/actividades/tarragona/romana/bovedas-circo.webp
-  alt: Vaults of the Roman circus
-- src: /images/actividades/tarragona/romana/plaza-del-rei.webp
-  alt: Plaça del Rei in Tarragona's Old Town
 ratingProveedor: 4.8
 numeroOpiniones: 604
 atraccionesRelacionadas:
 - tarraco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/tarragona-sitges/fta-anfiteatro-tarragona-mar.webp
+imagenAlt: "Roman amphitheatre of Tarragona by the sea"
+galeria:
+- src: /images/actividades/tarragona/tarragona-sitges/fta-gradas-anfiteatro-tarragona.webp
+  alt: "Seating of the Roman amphitheatre in Tarragona"
+- src: /images/actividades/tarragona/romana/circo-romano-cabecera.webp
+  alt: "Head of the Roman circus in Tarragona"
+- src: /images/actividades/tarragona/romana/bovedas-circo.webp
+  alt: "Vaults of the Roman circus in Tarragona"
+- src: /images/actividades/tarragona/catedral/catedral.webp
+  alt: "Tarragona Cathedral in the old town"
+- src: /images/actividades/tarragona/tarragona-sitges/fta-sitges-aerea-atardecer.webp
+  alt: "Aerial view of Sitges and its church by the sea at sunset"
+- src: /images/actividades/tarragona/tarragona-sitges/fta-paseo-maritimo-sitges.webp
+  alt: "Sitges seafront and beach with Sant Bartomeu church"
+- src: /images/actividades/tarragona/tarragona-sitges/fta-playa-sant-sebastia-sitges.webp
+  alt: "Sant Sebastià beach and the old town of Sitges"
+- src: /images/actividades/tarragona/tarragona-sitges/fta-vista-sitges-costa.webp
+  alt: "View of Sitges and its coastline from above"
 ---
 
 ## What you will see

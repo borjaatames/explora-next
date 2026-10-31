@@ -66,28 +66,32 @@ keywords:
 - how to get to cala salada
 - san antonio to cala salada boat
 - cala salada ibiza
-imagen: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
-imagenAlt: A pine-fringed cove with turquoise water in Ibiza
-galeria:
-- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
-  alt: Sant Antoni harbour
-- src: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
-  alt: Sant Antoni bay
-- src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
-  alt: A boat pulled up on the rocks in an Ibiza cove
-- src: /images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp
-  alt: A beach bar in Ibiza
-- src: /images/actividades/ibiza/mar/esnorquel.webp
-  alt: Snorkelling in Ibiza's waters
 ratingProveedor: 4.5
 numeroOpiniones: 207
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/calas/fi1-cala-salada-barcos-embarcadero.webp
+imagenAlt: "Boats moored by the rocks at Cala Salada, near Sant Antoni"
+galeria:
+- src: /images/actividades/ibiza/sant-antoni/fi1-bahia-sant-antoni-costa.webp
+  alt: "Rocky shore of Sant Antoni bay with an islet in the distance"
+- src: /images/actividades/ibiza/calas/fi1-cala-salada-acantilado.webp
+  alt: "Cliff and clear water at Cala Salada"
+- src: /images/actividades/ibiza/calas/fi1-cala-aguas-turquesas-pinos.webp
+  alt: "Turquoise cove surrounded by pine trees in Ibiza"
+- src: /images/actividades/ibiza/calas/fi1-cala-saladeta.webp
+  alt: "Cala Saladeta surrounded by pine trees and reddish rocks"
+- src: /images/actividades/ibiza/mar/esnorquel.webp
+  alt: "Snorkelling over a seagrass meadow"
+- src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
+  alt: "Traditional boat hauled up on the rocks in Ibiza"
+- src: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
+  alt: "Turquoise cove surrounded by pine trees in Ibiza"
 ---
 
 ## What you will see

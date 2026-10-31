@@ -76,26 +76,32 @@ keywords:
 - cambrils catamaran
 - cambrils boat trip
 - salou catamaran with lunch
-imagen: /images/actividades/tarragona/costa/catamaran-pasajeros-cubierta.webp
-imagenAlt: Passengers on the deck of a catamaran
-galeria:
-- src: /images/actividades/tarragona/costa/catamaran-bano-mar-abierto.webp
-  alt: Catamaran at anchor with people swimming around it
-- src: /images/actividades/tarragona/costa/catamaranes-puerto-cambrils.webp
-  alt: Catamarans moored in Cambrils port
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: Cliffs of Cap de Salou
-- src: /images/actividades/tarragona/costa/cambrils-puerto-01.webp
-  alt: Cambrils port
 ratingProveedor: 4.5
 numeroOpiniones: 1311
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/catamaran-barbacoa/fta-catamaran-vela-mar-abierto.webp
+imagenAlt: "Sailing catamaran cruising on the open sea"
+galeria:
+- src: /images/actividades/tarragona/catamaran-barbacoa/fta-puerto-cambrils-paseo.webp
+  alt: "Cambrils harbour with the seafront behind"
+- src: /images/actividades/tarragona/costa/catamaran-vela-puerto-cambrils.webp
+  alt: "Catamaran moored in Cambrils harbour"
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: "Open sea off Cap de Salou"
+- src: /images/actividades/tarragona/costa/catamaran-pasajeros-cubierta.webp
+  alt: "Passengers on the deck of an anchored catamaran"
+- src: /images/actividades/tarragona/costa/punta-grossa.webp
+  alt: "Punta Grossa viewpoint over the sea"
+- src: /images/actividades/tarragona/costa/catamaran-bano-mar-abierto.webp
+  alt: "Swimmers beside a catamaran anchored at sea"
+- src: /images/actividades/tarragona/catamaran-barbacoa/fta-barcas-puerto-cambrils.webp
+  alt: "Boats moored in Cambrils harbour"
 ---
 
 ## What you will see

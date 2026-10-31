@@ -71,28 +71,30 @@ keywords:
 - kayak playa blanca
 - papagayo snorkel lanzarote
 - lanzarote kayak tour
-imagen: /images/actividades/lanzarote/kayak-papagayo.webp
-imagenAlt: Kayaks on the turquoise water of Papagayo bay
-galeria:
-- src: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
-  alt: Golden sand and calm water at Papagayo
-- src: /images/actividades/lanzarote/zonas/papagayo-acantilado.webp
-  alt: Cliffs above the Papagayo coast
-- src: /images/actividades/lanzarote/zonas/papagayo-banistas.webp
-  alt: Swimmers in a Papagayo cove
-- src: /images/actividades/lanzarote/zonas/papagayo-cala.webp
-  alt: A turquoise cove at Papagayo
-- src: /images/actividades/lanzarote/zonas/playa-blanca.webp
-  alt: The Playa Blanca coastline
 ratingProveedor: 4.8
 numeroOpiniones: 516
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
+imagenAlt: "Person snorkelling seen from above"
+galeria:
+- src: /images/actividades/lanzarote/kayak-papagayo.webp
+  alt: "Red kayak on a white sand beach"
+- src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
+  alt: "Papagayo beach under a cloudy sky"
+- src: /images/actividades/lanzarote/snorkel/flz-fondo-rocoso.webp
+  alt: "Rocky seabed seen through clear water"
+- src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
+  alt: "Turquoise-water cove at Papagayo"
+- src: /images/actividades/lanzarote/zonas/playa-blanca.webp
+  alt: "Playa Blanca in southern Lanzarote"
+- src: /images/actividades/lanzarote/papagayo/flz-playas-veleros.webp
+  alt: "Papagayo beaches with anchored sailing boats"
 ---
 
 ## What you will see

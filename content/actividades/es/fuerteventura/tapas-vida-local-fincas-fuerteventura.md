@@ -71,23 +71,29 @@ keywords:
 - queseria queso majorero visita
 - cata aceite fuerteventura
 - excursion tapas fuerteventura
-imagen: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-imagenAlt: Cabra majorera, la raza del queso de Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Papas arrugadas con mojo verde
-- src: /images/actividades/fuerteventura/zonas/oasis-park-cactus.webp
-  alt: Cactus en Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: Pueblo del interior de Fuerteventura
 ratingProveedor: 4.9
 numeroOpiniones: 489
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
+imagenAlt: "Elaboración de queso fresco de cabra en una quesería"
+galeria:
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
+  alt: "Quesos curados de distintos tamaños"
+- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
+  alt: "Papas arrugadas con mojo verde"
+- src: /images/actividades/ibiza/bibo-park/fi1-olivo-jardin-mediterraneo.webp
+  alt: "Olivo centenario"
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-y-vino-casero.webp
+  alt: "Quesos y botellas de vino en una mesa"
+- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
+  alt: "Cabra majorera en una finca"
+- src: /images/actividades/fuerteventura/queso/ffv-tostas-queso-higos.webp
+  alt: "Tostas de queso con higos"
 ---
 
 ## Qué vas a ver

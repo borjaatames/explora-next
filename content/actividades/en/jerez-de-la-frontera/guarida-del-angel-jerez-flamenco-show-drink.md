@@ -61,26 +61,28 @@ keywords:
 - jerez flamenco show san miguel
 - flamenco show tickets jerez
 - jerez de la frontera flamenco tablao
-imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-bailaora-hero.webp
-imagenAlt: A flamenco dancer at a tablao in Jerez
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-  alt: A flamenco tablao stage
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: Audience enjoying a flamenco show
-- src: /images/actividades/jerez/tabancos/bota-velo-flor.webp
-  alt: A sherry cask
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
-  alt: Jerez Cathedral at night
 ratingProveedor: 4.7
 numeroOpiniones: 138
 atraccionesRelacionadas:
 - flamenco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-movimiento-escenario.webp
+imagenAlt: "Flamenco dancer in motion on a dark stage"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/centro/monumento-lola-flores.webp
+  alt: "Lola Flores monument in the San Miguel quarter of Jerez"
+- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
+  alt: "Dancer's hands holding castanets"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
+  alt: "Glass of amber wine on a wooden table"
+- src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
+  alt: "Assorted tapas in clay dishes on a wooden table"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-noche.webp
+  alt: "Dome of Jerez Cathedral lit up at night"
 ---
 
 ## What you will see

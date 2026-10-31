@@ -64,27 +64,31 @@ keywords:
 - jerez winery tour tasting
 - sherry bodega tour jerez
 - jerez de la frontera wine tasting
-imagen: /images/actividades/cadiz/bodega/botas-arcos.webp
-imagenAlt: Sherry casks beneath the arches of a Jerez winery
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/bodega-barricas-hero.webp
-  alt: Sherry casks stacked in a winery
-- src: /images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp
-  alt: Glasses of sherry at a tasting
-- src: /images/actividades/cadiz/bodega/patio-bodega.webp
-  alt: Courtyard of a Jerez winery
-- src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
-  alt: Vineyards on albariza soil in the Jerez area
 ratingProveedor: 4.6
 numeroOpiniones: 379
 atraccionesRelacionadas:
 - bodegas
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/bodegas/botas-roble-apiladas.webp
+imagenAlt: "Oak casks stacked in a winery"
+galeria:
+- src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
+  alt: "Vineyards on white albariza soil in the Jerez wine region"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/bota-grifo-laton.webp
+  alt: "Oak cask with a brass tap"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-generoso.webp
+  alt: "Glass of fortified wine on a wooden board"
+- src: /images/actividades/jerez-de-la-frontera/tapas/tabla-tapas-cazuelas.webp
+  alt: "Selection of tapas in small clay dishes"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
+  alt: "Old town street in Jerez with large windows and a terrace"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-arboles.webp
+  alt: "Dome of Jerez Cathedral framed by trees"
 ---
 
 ## What you will see

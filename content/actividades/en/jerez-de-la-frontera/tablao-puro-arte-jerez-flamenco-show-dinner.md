@@ -60,27 +60,29 @@ keywords:
 - tablao puro arte jerez
 - flamenco show with dinner jerez
 - jerez de la frontera flamenco tickets
-imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-imagenAlt: Flamenco tablao in Jerez de la Frontera
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-bailaora-hero.webp
-  alt: A flamenco dancer on stage
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: Audience at a flamenco show
-- src: /images/actividades/jerez-de-la-frontera/centro/bodega-barricas-hero.webp
-  alt: Casks in a Jerez bodega
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
-  alt: Jerez Cathedral at night
 ratingProveedor: 4.6
 numeroOpiniones: 348
 atraccionesRelacionadas:
 - flamenco
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
+imagenAlt: "Flamenco dancer spinning on stage, her skirt in motion"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
+  alt: "Dancer's hands holding castanets"
+- src: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
+  alt: "Dancer in a ruffled skirt dancing in dim light"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-generoso.webp
+  alt: "Glass of fortified wine on a wooden board"
+- src: /images/actividades/jerez-de-la-frontera/tapas/tabla-tapas-cazuelas.webp
+  alt: "Selection of tapas in small clay dishes"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
+  alt: "Jerez Cathedral and its bell tower lit up at night"
 ---
 
 ## What you will see

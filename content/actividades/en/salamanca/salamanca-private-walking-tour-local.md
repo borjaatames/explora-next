@@ -71,29 +71,33 @@ keywords:
 - private guide salamanca
 - salamanca tour with a local
 - salamanca walking tour private
-imagen: /images/actividades/salamanca/centro/casa-conchas-clerecia.webp
-imagenAlt: Casa de las Conchas and the towers of La Clerecía in Salamanca
-galeria:
-- src: /images/actividades/salamanca/plaza/plaza-mayor-soportales.webp
-  alt: Arcades of Salamanca's Plaza Mayor
-- src: /images/actividades/salamanca/centro/casa-conchas.webp
-  alt: Façade of the Casa de las Conchas
-- src: /images/actividades/salamanca/centro/huerto-calixto.webp
-  alt: Garden of Calisto and Melibea
-- src: /images/actividades/salamanca/rio/tormes-puente.webp
-  alt: Roman Bridge over the Tormes
-- src: /images/actividades/salamanca/centro/clerecia.webp
-  alt: La Clerecía in Salamanca
 ratingProveedor: 4.5
 numeroOpiniones: 102
 atraccionesRelacionadas:
 - casco-historico
 - plaza-mayor
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/rio/tormes-catedral.webp
+imagenAlt: "Salamanca and its cathedrals from the Tormes riverbank"
+galeria:
+- src: /images/actividades/salamanca/centro/puente-romano.webp
+  alt: "Salamanca's Roman bridge"
+- src: /images/actividades/salamanca/centro/huerto-calixto.webp
+  alt: "Calixto and Melibea garden"
+- src: /images/actividades/salamanca/centro/casa-conchas-clerecia.webp
+  alt: "Casa de las Conchas and the Clerecía"
+- src: /images/actividades/salamanca/tour-privado-local/palacio-salina.webp
+  alt: "Gallery of the Palacio de la Salina in Salamanca"
+- src: /images/actividades/salamanca/plaza/plaza-mayor-lluvia.webp
+  alt: "Salamanca's Plaza Mayor on a cloudy day"
+- src: /images/actividades/salamanca/centro/claustro-reyes.webp
+  alt: "Cloister of the San Esteban Convent"
+- src: /images/actividades/salamanca/noche/torre-clavero.webp
+  alt: "Torre del Clavero"
 ---
 
 ## What you will see

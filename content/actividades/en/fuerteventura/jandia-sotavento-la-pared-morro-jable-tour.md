@@ -71,28 +71,32 @@ keywords:
 - jandia peninsula tour
 - la pared fuerteventura tour
 - morro jable excursion
-imagen: /images/actividades/fuerteventura/zonas/sotavento-aerea.webp
-imagenAlt: Aerial view of Sotavento beach and lagoon
-galeria:
-- src: /images/actividades/fuerteventura/zonas/sotavento-laguna.webp
-  alt: The Sotavento lagoon in Jandía
-- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: Jandía's windward coast
-- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable and Matorral beach from the hillside
-- src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
-  alt: Morro Jable lighthouse
-- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: The Jandía massif with clouds over the peaks
 ratingProveedor: 4.6
 numeroOpiniones: 150
 atraccionesRelacionadas:
 - sur
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/sotavento/ffv-laguna-sotavento-aerea.webp
+imagenAlt: "Aerial view of the lagoon at Sotavento beach"
+galeria:
+- src: /images/actividades/fuerteventura/la-pared/ffv-playa-viejo-rey.webp
+  alt: "Viejo Rey beach below the cliffs of La Pared"
+- src: /images/actividades/fuerteventura/la-pared/ffv-costa-oeste-oleaje.webp
+  alt: "Waves on the west coast of Fuerteventura"
+- src: /images/actividades/fuerteventura/sotavento/ffv-laguna-aguas-turquesas.webp
+  alt: "Turquoise water and sandbanks on the Jandía coast"
+- src: /images/actividades/fuerteventura/sotavento/ffv-playa-sotavento.webp
+  alt: "Sotavento beach from above"
+- src: /images/actividades/fuerteventura/morro-jable/ffv-playa-morro-jable.webp
+  alt: "Morro Jable beach"
+- src: /images/actividades/fuerteventura/sotavento/ffv-orilla-sotavento.webp
+  alt: "Shoreline of Sotavento beach with mountains behind"
+- src: /images/actividades/fuerteventura/morro-jable/ffv-faro-morro-jable.webp
+  alt: "Morro Jable lighthouse"
 ---
 
 ## What you will see

@@ -76,24 +76,32 @@ keywords:
 - scuba diving salou
 - discover scuba tarragona
 - diving costa dorada beginners
-imagen: /images/actividades/tarragona/costa/punta-grossa.webp
-imagenAlt: Rocky coastline at Punta Grossa, Salou
-galeria:
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: Cap de Salou and its coves
-- src: /images/actividades/tarragona/costa/catamaran-bano-mar-abierto.webp
-  alt: People swimming in open water off the Costa Dorada
-- src: /images/actividades/tarragona/costa/platja-llarga.webp
-  alt: Platja Llarga in Salou
 ratingProveedor: 4.8
 numeroOpiniones: 46
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/buceo/fta-buceador-roca-submarina.webp
+imagenAlt: "Scuba diver in full gear swimming by an underwater rock wall"
+galeria:
+- src: /images/actividades/tarragona/buceo/fta-buceador-superficie-barcos.webp
+  alt: "Diver at the sea surface with boats in the background"
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: "Rocky coast of Cap de Salou"
+- src: /images/actividades/tarragona/buceo/fta-buceadores-fondo-burbujas.webp
+  alt: "Group of divers descending over the seabed"
+- src: /images/actividades/tarragona/buceo/fta-banco-peces-fondo-mediterraneo.webp
+  alt: "School of fish over a rocky Mediterranean seabed"
+- src: /images/actividades/tarragona/costa/punta-grossa.webp
+  alt: "Punta Grossa viewpoint over the sea in Salou"
+- src: /images/actividades/tarragona/buceo/fta-morena-entre-rocas.webp
+  alt: "Moray eel peeking out between rocks on the seabed"
+- src: /images/actividades/tarragona/buceo/fta-aleta-buceo-mar.webp
+  alt: "Yellow diving fin sticking out of the sea"
 ---
 
 ## What you will see

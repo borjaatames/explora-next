@@ -74,26 +74,32 @@ keywords:
 - dolphin watching fuerteventura
 - morro jable boat trip
 - fuerteventura snorkelling boat trip
-imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-imagenAlt: Dolphins swimming beside a boat off Morro Jable
-galeria:
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-  alt: Swimmers in the water beside an anchored boat
-- src: /images/actividades/fuerteventura/lobos/esnorquel-fondo-rocoso.webp
-  alt: A swimmer snorkelling over a rocky seabed
-- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable and Matorral beach from the hillside
-- src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: The Jandía coast with the lighthouse in the background
 ratingProveedor: 4.7
 numeroOpiniones: 1224
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/velero/ffv-velero-navegando.webp
+imagenAlt: "Sailing boat under full sail"
+galeria:
+- src: /images/actividades/fuerteventura/delfines/ffv-delfines-nadando.webp
+  alt: "Dolphins swimming near the sea surface"
+- src: /images/actividades/fuerteventura/morro-jable/ffv-faro-morro-jable.webp
+  alt: "Morro Jable lighthouse"
+- src: /images/actividades/fuerteventura/velero/ffv-velero-mar-azul.webp
+  alt: "Sailing boat heeling over the sea"
+- src: /images/actividades/fuerteventura/esnorquel/ffv-esnorquel-fondo-rocoso.webp
+  alt: "Person snorkelling over a rocky seabed"
+- src: /images/actividades/fuerteventura/delfines/ffv-calderones-aletas.webp
+  alt: "Pod of pilot whales swimming at the surface"
+- src: /images/actividades/fuerteventura/morro-jable/ffv-catamaranes-playa-morro-jable.webp
+  alt: "Sailing catamarans on the beach at Morro Jable"
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: "Morro Jable beach"
 ---
 
 ## What you will see

@@ -72,28 +72,30 @@ keywords:
 - tour jerez de la frontera alcazar
 - que ver en jerez
 - alcazar de jerez entradas
-imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp
-imagenAlt: Entrada al Alcázar de Jerez
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp
-  alt: Baños árabes del Alcázar de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-techo-hero.webp
-  alt: Bóveda con lucernarios de los baños árabes del Alcázar
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-jardines-hero.webp
-  alt: Jardines del Alcázar de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-hero.webp
-  alt: Cúpula de la catedral de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
-  alt: La catedral de Jerez de noche
 ratingProveedor: 4.6
 numeroOpiniones: 191
 atraccionesRelacionadas:
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.webp
+imagenAlt: "Puerta de entrada al Alcázar de Jerez en la muralla almohade"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-cupula.webp
+  alt: "Cúpula con lucernarios estrellados de los baños árabes del Alcázar de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-noria.webp
+  alt: "Restos de las antiguas instalaciones y la noria del Alcázar de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-arqueologicos.webp
+  alt: "Restos arqueológicos y pasarela de madera en el recinto del Alcázar de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-arboles.webp
+  alt: "Cúpula de la Catedral de Jerez entre árboles"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-terrazas.webp
+  alt: "Terrazas y fachadas amarillas en la calle Larga de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
+  alt: "Calle del casco antiguo de Jerez con ventanales y terraza"
 ---
 
 ## Qué vas a ver

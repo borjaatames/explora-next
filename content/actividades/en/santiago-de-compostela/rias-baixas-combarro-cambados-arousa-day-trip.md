@@ -71,30 +71,32 @@ keywords:
 - combarro cambados tour
 - rias baixas tour
 - la toja combarro from santiago
-imagen: /images/actividades/santiago-de-compostela/rias/combarro.webp
-imagenAlt: Combarro and its granaries by the estuary
-galeria:
-- src: /images/actividades/santiago-de-compostela/rias/combarro-horreo.webp
-  alt: A Combarro granary over the water
-- src: /images/actividades/santiago-de-compostela/rias/toxa-capilla.webp
-  alt: The shell chapel on A Toxa
-- src: /images/actividades/santiago-de-compostela/rias/toxa-conchas.webp
-  alt: A shell-covered facade on A Toxa
-- src: /images/actividades/santiago-de-compostela/rias/cambados-fefinans.webp
-  alt: Fefiñáns manor in Cambados
-- src: /images/actividades/santiago-de-compostela/rias/bateas.webp
-  alt: Mussel rafts in the estuary
-- src: /images/actividades/santiago-de-compostela/rias/catamaran-turistico-o-grove.webp
-  alt: Tourist catamaran in the Rías Baixas
 ratingProveedor: 4.7
 numeroOpiniones: 75
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/rias/combarro.webp
+imagenAlt: "Stone granaries on the waterfront in Combarro"
+galeria:
+- src: /images/actividades/santiago-de-compostela/rias/fsc-combarro-calle-piedra.webp
+  alt: "Cobbled lane in Combarro's old quarter"
+- src: /images/actividades/santiago-de-compostela/rias/batea.webp
+  alt: "Mussel raft in the estuary with a fishing boat"
+- src: /images/actividades/santiago-de-compostela/rias/toxa-capilla.webp
+  alt: "Shell-covered chapel on A Toxa island"
+- src: /images/actividades/santiago-de-compostela/rias/toxa-conchas.webp
+  alt: "Wall covered in scallop shells on A Toxa"
+- src: /images/actividades/santiago-de-compostela/rias/cambados-fefinans.webp
+  alt: "Fefiñáns manor house in Cambados"
+- src: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
+  alt: "Albariño vineyards by the estuary"
+- src: /images/actividades/santiago-de-compostela/rias/fsc-combarro-horreo-ria.webp
+  alt: "Granite granary facing the estuary in Combarro"
 ---
 
 ## What you will see

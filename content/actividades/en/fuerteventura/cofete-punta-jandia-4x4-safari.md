@@ -73,28 +73,30 @@ keywords:
 - jandia 4x4 tour
 - el puertito de la cruz trip
 - cofete off road tour
-imagen: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
-imagenAlt: Cofete beach seen from the viewpoint
-galeria:
-- src: /images/actividades/fuerteventura/zonas/cofete-playa.webp
-  alt: Cofete beach
-- src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: Coastline of the Jandía peninsula
-- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: The Jandía massif
-- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: Jandía's wild shoreline
-- src: /images/actividades/fuerteventura/zonas/villa-winter-ladera.webp
-  alt: Villa Winter on the hillside above Cofete
 ratingProveedor: 4.7
 numeroOpiniones: 265
 atraccionesRelacionadas:
 - sur
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/safari-4x4/ffv-todoterreno-pista-tierra.webp
+imagenAlt: "4x4 driving along a dirt track among mountains"
+galeria:
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-faro-punta-jandia.webp
+  alt: "Punta Jandía lighthouse"
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-linterna-faro-oleaje.webp
+  alt: "Lantern of the Punta Jandía lighthouse above the waves"
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-costa-punta-jandia.webp
+  alt: "Rocky coast at Punta de Jandía"
+- src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
+  alt: "View of Cofete from the viewpoint"
+- src: /images/actividades/fuerteventura/cofete/ffv-cofete-4.webp
+  alt: "Clouds over Cofete beach"
+- src: /images/actividades/fuerteventura/zonas/villa-winter.webp
+  alt: "Villa Winter on the Cofete hillside"
 ---
 
 ## What you will see

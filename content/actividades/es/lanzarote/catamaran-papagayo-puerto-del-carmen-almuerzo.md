@@ -81,28 +81,30 @@ keywords:
 - excursion barco papagayo puerto del carmen
 - catamaran puerto del carmen comida
 - barco playas de papagayo
-imagen: /images/actividades/lanzarote/barco-atardecer/catamaran-silueta-atardecer.webp
-imagenAlt: Catamarán navegando frente a la costa de Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
-  alt: Arena dorada en la playa de Papagayo
-- src: /images/actividades/lanzarote/barco-atardecer/banistas-junto-al-barco.webp
-  alt: Bañistas junto a un barco fondeado en Lanzarote
-- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
-  alt: Costa sur de Lanzarote junto a Papagayo
-- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
-  alt: Barcos de excursión en el puerto de Puerto del Carmen
-- src: /images/actividades/lanzarote/zonas/papagayo-cala.webp
-  alt: Cala de aguas claras en Papagayo
 ratingProveedor: 4.4
 numeroOpiniones: 1143
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
+imagenAlt: "Catamarán fondeado con su lancha auxiliar en aguas turquesa"
+galeria:
+- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
+  alt: "Barcos de excursión en Puerto del Carmen"
+- src: /images/actividades/lanzarote/papagayo/flz-playa-dorada-turquesa.webp
+  alt: "Playa de arena dorada y aguas turquesa en Papagayo"
+- src: /images/actividades/lanzarote/catamaran/flz-proa-agua-cristalina.webp
+  alt: "Proa de un catamarán sobre agua cristalina"
+- src: /images/actividades/lanzarote/papagayo/flz-costa-montana.webp
+  alt: "Costa de Papagayo con montañas volcánicas al fondo"
+- src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
+  alt: "Cala de aguas turquesa en Papagayo"
+- src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
+  alt: "Oleaje en la orilla de una playa de Papagayo"
 ---
 
 ## Qué vas a ver

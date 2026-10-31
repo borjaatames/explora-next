@@ -73,28 +73,28 @@ keywords:
 - lanzarote small group tour
 - north lanzarote viewpoints
 - haria valley tour
-imagen: /images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp
-imagenAlt: View of northern Lanzarote from a viewpoint
-galeria:
-- src: /images/actividades/lanzarote/zonas/la-graciosa-desde-famara.webp
-  alt: La Graciosa seen from the northern cliffs of Lanzarote
-- src: /images/actividades/lanzarote/zonas/casa-tradicional-verde.webp
-  alt: Traditional Lanzarote house
-- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-  alt: Vineyards on volcanic ash in La Geria
-- src: /images/actividades/lanzarote/zonas/volcan-malpais.webp
-  alt: Volcanic lava field in Lanzarote
-- src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp
-  alt: View of La Graciosa from northern Lanzarote
 ratingProveedor: 4.7
 numeroOpiniones: 174
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/famara/flz-vista-macizo.webp
+imagenAlt: "Caleta de Famara seen from the top of the Famara massif"
+galeria:
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-carretera-risco.webp
+  alt: "Road along the cliffs in northern Lanzarote"
+- src: /images/actividades/lanzarote/famara/flz-risco-famara.webp
+  alt: "Famara cliffs seen from La Caleta de Famara"
+- src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
+  alt: "Crops on volcanic ash in Lanzarote"
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-costa-playa.webp
+  alt: "Northern Lanzarote coast seen from Mirador del Río"
+- src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-paisaje-norte.webp
+  alt: "Volcanic landscape in northern Lanzarote near Cueva de los Verdes"
 ---
 
 ## What you will see

@@ -71,28 +71,32 @@ keywords:
 - san antonio beach boat tour
 - ibiza boat tour caves
 - sant antoni boat trip
-imagen: /images/actividades/ibiza/mar/cueva-marina.webp
-imagenAlt: Snorkelling inside a sea cave
-galeria:
-- src: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
-  alt: Sant Antoni bay
-- src: /images/actividades/ibiza/calas/cala-tarida.webp
-  alt: Cala Tarida
-- src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
-  alt: A small boat beached on rocks in Ibiza
-- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
-  alt: Paddleboarding on blue sea
-- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
-  alt: Islets off the Ibiza coast
 ratingProveedor: 4.5
 numeroOpiniones: 60
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/barcos/fi1-barco-navegando-estela.webp
+imagenAlt: "Motor boat cruising the Mediterranean and leaving a wake"
+galeria:
+- src: /images/actividades/ibiza/sant-antoni/fi1-bahia-sant-antoni-rocas.webp
+  alt: "Rocky shoreline of Sant Antoni bay with the Ibiza coast behind"
+- src: /images/actividades/ibiza/mar/cueva-marina.webp
+  alt: "Sea cave with water flowing under the rock"
+- src: /images/actividades/ibiza/calas/fi1-cala-conta-islote-rocas.webp
+  alt: "Islet off the rocks of Cala Conta on Ibiza west coast"
+- src: /images/actividades/ibiza/mar/fi1-roca-agua-turquesa.webp
+  alt: "Rock in turquoise water, ideal for snorkelling"
+- src: /images/actividades/ibiza/mar/fi1-fondo-rocoso-agua-clara.webp
+  alt: "Rocky seabed seen through clear water"
+- src: /images/actividades/ibiza/mar/peces-posidonia.webp
+  alt: "School of fish over seagrass"
+- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
+  alt: "Stand-up paddleboarding on the blue Mediterranean"
 ---
 
 ## What you will see

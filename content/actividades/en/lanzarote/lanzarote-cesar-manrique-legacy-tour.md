@@ -73,31 +73,33 @@ keywords:
 - jameos del agua mirador del rio tour
 - lanzarote cactus garden tour
 - cesar manrique foundation visit
-imagen: /images/actividades/lanzarote/zonas/jameos-piscina.webp
-imagenAlt: The white pool at Jameos del Agua, designed by César Manrique
-galeria:
-- src: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
-  alt: Cacti among volcanic rocks in Guatiza, by the Cactus Garden
-- src: /images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp
-  alt: The view from Mirador del Río
-- src: /images/actividades/lanzarote/zonas/jameos-lago-interior.webp
-  alt: The inner lake at Jameos del Agua
-- src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp
-  alt: La Graciosa seen from Mirador del Río
-- src: /images/actividades/lanzarote/zonas/jameos-jardin.webp
-  alt: Volcanic garden at Jameos del Agua
-- src: /images/actividades/lanzarote/zonas/molino-jardin-cactus.webp
-  alt: The windmill at the Cactus Garden
 ratingProveedor: 4.6
 numeroOpiniones: 232
 atraccionesRelacionadas:
 - jameos-cueva
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-burbuja-amarilla.webp
+imagenAlt: "Yellow volcanic bubble at the César Manrique Foundation"
+galeria:
+- src: /images/actividades/lanzarote/jardin-de-cactus/flz-anfiteatro.webp
+  alt: "View of the Jardín de Cactus amphitheatre in Guatiza"
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-terraza-barandilla.webp
+  alt: "Mirador del Río terrace above the La Graciosa strait"
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-interior-cafeteria.webp
+  alt: "Interior of Mirador del Río, a César Manrique work"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
+  alt: "Turquoise pool at Jameos del Agua"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
+  alt: "Stone steps and garden at Jameos del Agua"
+- src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-burbuja-roja.webp
+  alt: "Red bubble at the César Manrique Foundation"
+- src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-jardin-estanque.webp
+  alt: "Garden with pond at the César Manrique Foundation"
 ---
 
 ## What you will see

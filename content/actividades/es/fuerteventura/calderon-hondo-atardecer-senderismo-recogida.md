@@ -69,28 +69,30 @@ keywords:
 - puesta de sol fuerteventura
 - excursion volcan fuerteventura
 - senderismo calderon hondo
-imagen: /images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp
-imagenAlt: Borde del cráter del Calderón Hondo
-galeria:
-- src: /images/actividades/fuerteventura/zonas/calderon-hondo-crater.webp
-  alt: Interior del cráter del Calderón Hondo
-- src: /images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp
-  alt: Sendero por el borde del Calderón Hondo
-- src: /images/actividades/fuerteventura/calderonhondo.webp
-  alt: Volcán Calderón Hondo, en el norte de Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Volcanes del norte de Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-atardecer.webp
-  alt: Atardecer en el norte de Fuerteventura con Lobos al fondo
 ratingProveedor: 4.7
 numeroOpiniones: 152
 atraccionesRelacionadas:
 - norte
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/calderon-hondo/ffv-atardecer-borde-crater.webp
+imagenAlt: "Senderista contemplando el atardecer desde el borde de un cráter volcánico"
+galeria:
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-ladera.webp
+  alt: "Ladera del Calderón Hondo sobre el malpaís"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-crater-calderon-hondo.webp
+  alt: "Cráter del Calderón Hondo con otros volcanes al fondo"
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: "Volcanes del norte de Fuerteventura"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-interior-crater-calderon-hondo.webp
+  alt: "Interior del cráter del Calderón Hondo"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-4.webp
+  alt: "Luz de la tarde en las Dunas de Corralejo"
+- src: /images/actividades/fuerteventura/zonas/cielo-estrellado-volcan.webp
+  alt: "Cielo estrellado sobre un volcán al anochecer"
 ---
 
 ## Qué vas a ver

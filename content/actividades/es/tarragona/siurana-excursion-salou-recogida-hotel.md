@@ -72,22 +72,32 @@ keywords:
 - siurana pueblo medieval
 - excursiones desde salou
 - que ver cerca de salou
-imagen: /images/actividades/tarragona/quad/prades-siurana.webp
-imagenAlt: Montañas de Prades y Siurana
-galeria:
-- src: /images/actividades/tarragona/quad/montsant.webp
-  alt: Cornudella de Montsant y las montañas de Prades
-- src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: Montañas de Prades al atardecer
 ratingProveedor: 4.8
 numeroOpiniones: 327
 atraccionesRelacionadas:
 - naturaleza
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/siurana/fta-iglesia-santa-maria-siurana-pantano.webp
+imagenAlt: "Iglesia de Santa Maria de Siurana sobre el acantilado y el pantano"
+galeria:
+- src: /images/actividades/tarragona/siurana/fta-pantano-siurana-nublado.webp
+  alt: "Pantano de Siurana entre montañas en un día nublado"
+- src: /images/actividades/tarragona/siurana/fta-casas-piedra-campanario-siurana.webp
+  alt: "Casas de piedra y campanario en el pueblo de Siurana"
+- src: /images/actividades/tarragona/siurana/fta-calle-empedrada-siurana.webp
+  alt: "Calle empedrada con casas de piedra en Siurana"
+- src: /images/actividades/tarragona/siurana/fta-pantano-iglesia-siurana.webp
+  alt: "Iglesia románica de Siurana con el pantano al fondo"
+- src: /images/actividades/tarragona/siurana/fta-ruinas-castillo-siurana.webp
+  alt: "Restos del castillo de Siurana al borde del acantilado"
+- src: /images/actividades/tarragona/siurana/fta-panoramica-siurana.webp
+  alt: "Panorámica del pueblo de Siurana sobre la roca"
+- src: /images/actividades/tarragona/siurana/fta-acantilados-siurana.webp
+  alt: "Acantilados y bosques alrededor de Siurana"
 ---
 
 ## Qué vas a ver

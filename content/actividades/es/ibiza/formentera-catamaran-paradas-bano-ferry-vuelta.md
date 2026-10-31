@@ -84,30 +84,34 @@ keywords:
 - catamaran ibiza formentera
 - barco formentera con comida
 - ses illetes desde ibiza
-imagen: /images/actividades/ibiza/crucero-calas/barco-excursion-tobogan.webp
-imagenAlt: Barco de excursión con tobogán fondeado en aguas turquesa
-galeria:
-- src: /images/actividades/ibiza/formentera/ses-illetes.webp
-  alt: Playa de Ses Illetes en Formentera
-- src: /images/actividades/ibiza/crucero-calas/esnorquel-bajo-el-agua-ibiza.webp
-  alt: Esnórquel bajo el agua
-- src: /images/actividades/ibiza/formentera/la-savina.webp
-  alt: Puerto de La Savina, en Formentera
-- src: /images/actividades/ibiza/formentera/bici-illetes.webp
-  alt: Bicicleta en la playa de Ses Illetes
-- src: /images/actividades/ibiza/formentera/migjorn.webp
-  alt: Playa de Migjorn, en Formentera
-- src: /images/actividades/ibiza/formentera/ferry-trasmapi-dalt-vila.webp
-  alt: Ferry llegando a Ibiza con Dalt Vila al fondo
 ratingProveedor: 4.7
 numeroOpiniones: 226
 atraccionesRelacionadas:
 - formentera
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/catamaran/fi2-catamaran-navegando-aerea.webp
+imagenAlt: "Catamarán visto desde el aire en mar abierto"
+galeria:
+- src: /images/actividades/ibiza/catamaran/fi2-catamaranes-fondeados-costa.webp
+  alt: "Dos catamaranes fondeados junto a una costa de aguas claras"
+- src: /images/actividades/ibiza/formentera/fi2-ses-illetes-aerea.webp
+  alt: "Vista aérea de Ses Illetes y Espalmador, en Formentera"
+- src: /images/actividades/ibiza/formentera/ses-illetes.webp
+  alt: "Barcos fondeados frente a Ses Illetes"
+- src: /images/actividades/ibiza/formentera/fi2-bano-aguas-formentera.webp
+  alt: "Bañistas en las aguas transparentes de Formentera"
+- src: /images/actividades/ibiza/formentera/bici-illetes.webp
+  alt: "Bicicleta junto a la playa en Formentera"
+- src: /images/actividades/ibiza/formentera/la-savina.webp
+  alt: "Puerto de La Savina, en Formentera"
+- src: /images/actividades/ibiza/formentera/estacion-maritima.webp
+  alt: "Estación marítima del puerto de Ibiza, llegada de los ferris"
+- src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-03.webp
+  alt: "Dalt Vila y el puerto de Ibiza al atardecer"
 ---
 
 ## Qué vas a ver

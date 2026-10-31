@@ -78,29 +78,33 @@ keywords:
 - lagomar and cactus garden
 - lanzarote la graciosa tour with lunch
 - lanzarote coast to coast tour
-imagen: /images/actividades/lanzarote/zonas/molino-jardin-cactus.webp
-imagenAlt: Windmill at César Manrique's Cactus Garden
-galeria:
-- src: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
-  alt: Cacti in the Guatiza area, Lanzarote
-- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-puerto.webp
-  alt: Caleta de Sebo harbour on La Graciosa
-- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-casas.webp
-  alt: White houses in Caleta de Sebo
-- src: /images/actividades/lanzarote/zonas/la-graciosa-aerea.webp
-  alt: Aerial view of La Graciosa
-- src: /images/actividades/lanzarote/zonas/la-graciosa-montana-amarilla.webp
-  alt: Montaña Amarilla on La Graciosa
 ratingProveedor: 4.5
 numeroOpiniones: 473
 atraccionesRelacionadas:
 - graciosa
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/lagomar/flz-arco-roca.webp
+imagenAlt: "Rock arch and cactus garden at LagOmar"
+galeria:
+- src: /images/actividades/lanzarote/lagomar/flz-jardin-palmeras.webp
+  alt: "Garden with palms and cacti by the rock at LagOmar"
+- src: /images/actividades/lanzarote/jardin-de-cactus/flz-sendero-molino.webp
+  alt: "Jardín de Cactus path with the windmill behind"
+- src: /images/actividades/lanzarote/jardin-de-cactus/flz-estanque-cactus.webp
+  alt: "Pond and cacti at the Jardín de Cactus by César Manrique"
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-ventanal-graciosa.webp
+  alt: "La Graciosa seen through the Mirador del Río window"
+- src: /images/actividades/lanzarote/la-graciosa/flz-caleta-sebo-aerea.webp
+  alt: "Caleta de Sebo and its harbour on La Graciosa seen from above"
+- src: /images/actividades/lanzarote/la-graciosa/flz-playa-turquesa.webp
+  alt: "Turquoise-water beach on La Graciosa"
+- src: /images/actividades/lanzarote/zonas/caleta-de-sebo-paseo.webp
+  alt: "Caleta de Sebo seafront on La Graciosa"
 ---
 
 ## What you will see

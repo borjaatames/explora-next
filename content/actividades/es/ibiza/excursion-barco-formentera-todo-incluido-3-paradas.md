@@ -83,27 +83,31 @@ keywords:
 - barco formentera todo incluido
 - ses illetes en barco
 - excursion barco ibiza formentera
-imagen: /images/actividades/ibiza/formentera/ses-illetes.webp
-imagenAlt: Aguas turquesa de Ses Illetes, en Formentera
-galeria:
-- src: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
-  alt: Lengua de arena de Ses Illetes
-- src: /images/actividades/ibiza/crucero-calas/paddle-surf-aguas-cristalinas.webp
-  alt: Paddle surf en aguas cristalinas
-- src: /images/actividades/ibiza/crucero-calas/esnorquel-bajo-el-agua-ibiza.webp
-  alt: Esnórquel bajo el agua
-- src: /images/actividades/ibiza/formentera/la-savina.webp
-  alt: Puerto de La Savina, en Formentera
-- src: /images/actividades/ibiza/formentera/bici-illetes.webp
-  alt: Bicicleta junto a Ses Illetes
 ratingProveedor: 4.7
 numeroOpiniones: 2200
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/formentera/fi1-barcos-fondeados-espalmador-illetes.webp
+imagenAlt: "Barcos fondeados entre Espalmador y Ses Illetes, en Formentera"
+galeria:
+- src: /images/actividades/ibiza/formentera/fi1-ses-illetes-aereo.webp
+  alt: "Lengua de arena de Ses Illetes entre aguas turquesas con barcos"
+- src: /images/actividades/ibiza/formentera/formentera-pexels-5096831-hero.webp
+  alt: "Agua transparente de Ses Illetes, en Formentera"
+- src: /images/actividades/ibiza/barcos/fi1-velero-agua-turquesa-aereo.webp
+  alt: "Velero fondeado en agua turquesa, visto desde el aire"
+- src: /images/actividades/ibiza/mar/fi1-paddle-surf-aereo.webp
+  alt: "Paddle surf en el mar visto desde el aire"
+- src: /images/actividades/ibiza/formentera/la-savina.webp
+  alt: "Barco de pesca en el puerto de La Savina, Formentera"
+- src: /images/actividades/ibiza/formentera/fi1-es-calo-varaderos-aereo.webp
+  alt: "Varaderos de madera de Es Caló de Sant Agustí, en Formentera"
+- src: /images/actividades/ibiza/formentera/migjorn.webp
+  alt: "Playa de Migjorn, en Formentera"
 ---
 
 ## Qué vas a ver

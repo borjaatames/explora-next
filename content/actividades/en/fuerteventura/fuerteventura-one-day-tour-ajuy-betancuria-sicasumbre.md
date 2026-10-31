@@ -76,25 +76,29 @@ keywords:
 - fuerteventura one day tour
 - sicasumbre viewpoint tour
 - fuerteventura island tour small group
-imagen: /images/actividades/fuerteventura/zonas/cuevas-de-ajuy.webp
-imagenAlt: Ajuy caves by the sea
-galeria:
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: A street in Betancuria
-- src: /images/actividades/fuerteventura/zonas/betancuria-iglesia.webp
-  alt: Betancuria church
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo.webp
-  alt: Corralejo dunes
-- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: Mountains in southern Fuerteventura
 ratingProveedor: 4.7
 numeroOpiniones: 269
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/ajuy/ffv-interior-cueva-ajuy.webp
+imagenAlt: "Visitor inside one of the Ajuy caves"
+galeria:
+- src: /images/actividades/fuerteventura/betancuria/ffv-puerta-municipio-betancuria.webp
+  alt: "Entrance monument to the municipality of Betancuria"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-1.webp
+  alt: "Church of Santa María and square in Betancuria"
+- src: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
+  alt: "Ajuy village and its black sand beach"
+- src: /images/actividades/fuerteventura/ajuy/ffv-caleta-negra-ajuy.webp
+  alt: "Caleta Negra and the Ajuy caves"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-4.webp
+  alt: "Garden beside the Betancuria church"
+- src: /images/actividades/fuerteventura/zonas/via-lactea-fuerteventura.webp
+  alt: "The Milky Way over Fuerteventura"
 ---
 
 ## What you will see

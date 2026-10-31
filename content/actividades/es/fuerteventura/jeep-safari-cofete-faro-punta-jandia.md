@@ -73,28 +73,32 @@ keywords:
 - excursion cofete 4x4
 - faro punta jandia
 - cofete villa winter excursion
-imagen: /images/actividades/fuerteventura/zonas/cofete-playa.webp
-imagenAlt: Playa de Cofete con el macizo de Jandía detrás
-galeria:
-- src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
-  alt: Vista de Cofete desde el mirador
-- src: /images/actividades/fuerteventura/zonas/villa-winter.webp
-  alt: Villa Winter, en Cofete
-- src: /images/actividades/fuerteventura/zonas/cofete-montanas.webp
-  alt: Montañas de Jandía sobre Cofete
-- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: Macizo de Jandía
-- src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: Costa de la península de Jandía
 ratingProveedor: 4.4
 numeroOpiniones: 184
 atraccionesRelacionadas:
 - sur
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/granada/sierra-nevada-4x4/todoterreno-pista-tierra.webp
+imagenAlt: "Todoterreno parado en una pista de tierra"
+galeria:
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-pista-faro-punta-jandia.webp
+  alt: "Pista hacia el faro de Punta Jandía"
+- src: /images/actividades/fuerteventura/cofete/ffv-cofete-6.webp
+  alt: "Vista aérea de la playa de Cofete"
+- src: /images/actividades/fuerteventura/zonas/villa-winter.webp
+  alt: "Villa Winter en la ladera de Cofete"
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-faro-punta-jandia-costa.webp
+  alt: "Faro de Punta Jandía sobre la costa"
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-costa-punta-jandia.webp
+  alt: "Costa rocosa de Punta de Jandía"
+- src: /images/actividades/fuerteventura/cofete/ffv-cofete-3.webp
+  alt: "Oleaje del Atlántico en la playa de Cofete"
+- src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
+  alt: "Vista de Cofete desde el mirador"
 ---
 
 ## Qué vas a ver

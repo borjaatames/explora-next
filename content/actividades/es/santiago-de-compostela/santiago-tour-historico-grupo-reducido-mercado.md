@@ -71,28 +71,30 @@ keywords:
 - tour casco antiguo santiago
 - visita guiada santiago grupo reducido
 - que ver en santiago de compostela tour
-imagen: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-imagenAlt: Rúa do Vilar en el casco histórico de Santiago
-galeria:
-- src: /images/actividades/santiago-de-compostela/catedral/obradoiro-fachada.webp
-  alt: Fachada del Obradoiro de la catedral
-- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: Plaza de la Quintana
-- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: Plaza de Platerías
-- src: /images/actividades/santiago-de-compostela/casco/mercado-abastos.webp
-  alt: Mercado de Abastos de Santiago
-- src: /images/actividades/santiago-de-compostela/casco/alameda.webp
-  alt: Paseo de la Alameda
 ratingProveedor: 4.9
 numeroOpiniones: 30
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/casco/praza-cervantes.webp
+imagenAlt: "Grupo de visitantes con guía en una plaza del casco antiguo de Santiago"
+galeria:
+- src: /images/actividades/santiago-de-compostela/casco/alameda.webp
+  alt: "Paseo de la Alameda de Santiago"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-reducido-obradoiro-muro.webp
+  alt: "Visitantes en la plaza del Obradoiro ante la catedral"
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: "Escalinata de la plaza de la Quintana"
+- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
+  alt: "Fachada de Platerías de la catedral de Santiago"
+- src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
+  alt: "Soportales de la rúa do Vilar"
+- src: /images/actividades/santiago-de-compostela/casco/mercado-abastos.webp
+  alt: "Puestos de verdura en el Mercado de Abastos de Santiago"
 ---
 
 ## Qué vas a ver

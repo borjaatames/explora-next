@@ -76,28 +76,28 @@ keywords:
 - ruta la geria lanzarote
 - cata vino la geria
 - excursion viñedos lanzarote
-imagen: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-imagenAlt: Viñedos de La Geria en hoyos de ceniza volcánica
-galeria:
-- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
-  alt: Hoyos con muros de piedra para las viñas en La Geria
-- src: /images/actividades/lanzarote/zonas/la-geria-bodega.webp
-  alt: Viñedos de La Geria al pie de los volcanes
-- src: /images/actividades/lanzarote/zonas/sendero-volcan.webp
-  alt: Sendero por la cresta de un volcán en Lanzarote
-- src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
-  alt: Cultivos sobre la lava en Lanzarote
-- src: /images/actividades/lanzarote/zonas/valle-volcanico.webp
-  alt: Valle volcánico en el interior de Lanzarote
 ratingProveedor: 4.9
 numeroOpiniones: 218
 atraccionesRelacionadas:
 - volcanes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/la-geria/flz-sendero-vinedos.webp
+imagenAlt: "Caminante por un sendero entre los viñedos de hoyos de La Geria"
+galeria:
+- src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
+  alt: "Hileras de hoyos con vides en La Geria vistas desde arriba"
+- src: /images/actividades/lanzarote/la-geria/flz-vinedo-muros-volcan.webp
+  alt: "Viñedo con muros de piedra volcánica en Lanzarote"
+- src: /images/actividades/lanzarote/la-geria/flz-hoyos-ladera.webp
+  alt: "Hoyos con muros de piedra en la ladera de La Geria"
+- src: /images/actividades/lanzarote/zonas/la-geria-bodega.webp
+  alt: "Viñedos de La Geria bajo un volcán"
+- src: /images/actividades/lanzarote/la-geria/flz-vides-verdes.webp
+  alt: "Vides verdes en hoyos de ceniza volcánica en La Geria"
 ---
 
 ## Qué vas a ver

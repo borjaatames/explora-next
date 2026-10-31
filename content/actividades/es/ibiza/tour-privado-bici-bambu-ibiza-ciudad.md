@@ -68,23 +68,31 @@ keywords:
 - ibiza ciudad en bicicleta
 - tour privado ibiza
 - que ver en eivissa
-imagen: /images/actividades/ibiza/dalt-vila/dalt-vila-ibiza-hero.webp
-imagenAlt: Casas blancas de Dalt Vila, el casco antiguo de Ibiza
-galeria:
-- src: /images/actividades/ibiza/dalt-vila/dalt-vila-desde-el-puerto.webp
-  alt: Dalt Vila vista desde el puerto de Ibiza
-- src: /images/actividades/ibiza/formentera/ferry-trasmapi-dalt-vila.webp
-  alt: Puerto de Ibiza con Dalt Vila al fondo
-- src: /images/actividades/ibiza/ciudades/ibiza-hero.webp
-  alt: Vista de Ibiza
 ratingProveedor: 4.4
 numeroOpiniones: 54
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/bici/fi2-bicicletas-muro-piedra.webp
+imagenAlt: "Bicicletas apoyadas en un muro de piedra"
+galeria:
+- src: /images/actividades/ibiza/bici/fi2-murallas-dalt-vila-puerto.webp
+  alt: "Murallas de Dalt Vila con el puerto de Ibiza al fondo"
+- src: /images/actividades/ibiza/bici/fi2-rampa-murallas-dalt-vila.webp
+  alt: "Camino junto a las murallas de Dalt Vila"
+- src: /images/actividades/ibiza/bici/fi2-calle-dalt-vila.webp
+  alt: "Calle empedrada de Dalt Vila"
+- src: /images/actividades/ibiza/bici/fi2-catedral-dalt-vila.webp
+  alt: "Casas blancas de Dalt Vila bajo la catedral"
+- src: /images/actividades/ibiza/bici/fi2-faro-puerto-ibiza.webp
+  alt: "Faro del puerto de Ibiza con Dalt Vila al fondo"
+- src: /images/actividades/ibiza/bici/fi2-puerto-casco-antiguo.webp
+  alt: "Puerto de Ibiza y el casco antiguo"
+- src: /images/actividades/ibiza/bici/fi2-dalt-vila-noche-puerto.webp
+  alt: "Dalt Vila iluminada de noche desde el puerto"
 ---
 
 ## Qué vas a ver

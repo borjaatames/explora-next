@@ -71,28 +71,30 @@ keywords:
 - santiago old town tour
 - small group tour santiago
 - santiago guided walk
-imagen: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-imagenAlt: Rúa do Vilar in Santiago's old town
-galeria:
-- src: /images/actividades/santiago-de-compostela/catedral/obradoiro-fachada.webp
-  alt: The Obradoiro facade of the cathedral
-- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: Quintana Square
-- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: Praterías Square
-- src: /images/actividades/santiago-de-compostela/casco/mercado-abastos.webp
-  alt: Mercado de Abastos in Santiago
-- src: /images/actividades/santiago-de-compostela/casco/alameda.webp
-  alt: The Alameda promenade
 ratingProveedor: 4.9
 numeroOpiniones: 30
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/casco/praza-cervantes.webp
+imagenAlt: "Guided group of visitors in a square in Santiago's old town"
+galeria:
+- src: /images/actividades/santiago-de-compostela/casco/alameda.webp
+  alt: "Alameda park in Santiago"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-reducido-obradoiro-muro.webp
+  alt: "Visitors in Praza do Obradoiro before the cathedral"
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: "Steps of Praza da Quintana"
+- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
+  alt: "Platerías façade of Santiago Cathedral"
+- src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
+  alt: "Arcades on Rúa do Vilar"
+- src: /images/actividades/santiago-de-compostela/casco/mercado-abastos.webp
+  alt: "Vegetable stalls at Santiago's Mercado de Abastos"
 ---
 
 ## What you will see

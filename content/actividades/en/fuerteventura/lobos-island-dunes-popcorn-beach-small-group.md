@@ -75,29 +75,31 @@ keywords:
 - lobos island tour with hotel pickup
 - popcorn beach fuerteventura
 - lobos island and corralejo dunes tour
-imagen: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
-imagenAlt: Aerial view of Lobos Island
-galeria:
-- src: /images/actividades/fuerteventura/lobos/playa-la-concha-lobos.webp
-  alt: La Concha beach on Lobos Island, with its turquoise lagoon
-- src: /images/actividades/fuerteventura/zonas/montana-caldera-lobos.webp
-  alt: La Caldera mountain on Lobos Island
-- src: /images/actividades/fuerteventura/lobos/esnorquel-fondo-rocoso.webp
-  alt: A swimmer snorkelling over a rocky seabed
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
-  alt: Walking on the white dunes of Corralejo
-- src: /images/actividades/fuerteventura/ferry-lobos.webp
-  alt: Passenger ferry between Corralejo and Lobos Island
 ratingProveedor: 4.8
 numeroOpiniones: 30
 atraccionesRelacionadas:
 - isla-lobos
 - lobos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/isla-lobos/ffv-barcas-laguna-isla-lobos.webp
+imagenAlt: "Boats in the turquoise water of Isla de Lobos"
+galeria:
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
+  alt: "Corralejo harbour, departure point for the Lobos ferry"
+- src: /images/actividades/fuerteventura/lobos/playa-la-concha-lobos.webp
+  alt: "La Concha beach on Isla de Lobos"
+- src: /images/actividades/fuerteventura/zonas/montana-caldera-lobos.webp
+  alt: "La Caldera mountain on Isla de Lobos"
+- src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
+  alt: "Isla de Lobos seen from a beach in Corralejo"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-1.webp
+  alt: "Horizon over the Corralejo Dunes"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-6.webp
+  alt: "Shrub on top of a dune in Corralejo"
 ---
 
 ## What you will see

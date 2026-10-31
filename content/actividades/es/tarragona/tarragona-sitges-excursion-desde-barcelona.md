@@ -71,28 +71,34 @@ keywords:
 - tarragona y sitges en un dia
 - excursion sitges desde barcelona
 - tour tarragona romana desde barcelona
-imagen: /images/actividades/tarragona/romana/anfiteatro.webp
-imagenAlt: Anfiteatro romano de Tarragona junto al mar
-galeria:
-- src: /images/actividades/tarragona/romana/anfiteatro-gradas.webp
-  alt: Gradas del anfiteatro romano de Tarragona
-- src: /images/actividades/tarragona/romana/circo-romano.webp
-  alt: Restos del circo romano de Tarragona
-- src: /images/actividades/tarragona/romana/muralla-romana.webp
-  alt: Muralla romana de Tarragona
-- src: /images/actividades/tarragona/romana/bovedas-circo.webp
-  alt: Bóvedas del circo romano
-- src: /images/actividades/tarragona/romana/plaza-del-rei.webp
-  alt: Plaça del Rei, en el casco antiguo de Tarragona
 ratingProveedor: 4.8
 numeroOpiniones: 604
 atraccionesRelacionadas:
 - tarraco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/tarragona-sitges/fta-anfiteatro-tarragona-mar.webp
+imagenAlt: "Anfiteatro romano de Tarragona junto al mar"
+galeria:
+- src: /images/actividades/tarragona/tarragona-sitges/fta-gradas-anfiteatro-tarragona.webp
+  alt: "Gradas del anfiteatro romano de Tarragona"
+- src: /images/actividades/tarragona/romana/circo-romano-cabecera.webp
+  alt: "Cabecera del circo romano de Tarragona"
+- src: /images/actividades/tarragona/romana/bovedas-circo.webp
+  alt: "Bóvedas del circo romano de Tarragona"
+- src: /images/actividades/tarragona/catedral/catedral.webp
+  alt: "Catedral de Tarragona en el casco antiguo"
+- src: /images/actividades/tarragona/tarragona-sitges/fta-sitges-aerea-atardecer.webp
+  alt: "Vista aérea de Sitges y su iglesia junto al mar al atardecer"
+- src: /images/actividades/tarragona/tarragona-sitges/fta-paseo-maritimo-sitges.webp
+  alt: "Paseo marítimo y playa de Sitges con la iglesia de Sant Bartomeu"
+- src: /images/actividades/tarragona/tarragona-sitges/fta-playa-sant-sebastia-sitges.webp
+  alt: "Playa de Sant Sebastià y casco antiguo de Sitges"
+- src: /images/actividades/tarragona/tarragona-sitges/fta-vista-sitges-costa.webp
+  alt: "Vista de Sitges y su costa desde lo alto"
 ---
 
 ## Qué vas a ver

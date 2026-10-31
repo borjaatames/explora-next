@@ -67,24 +67,32 @@ keywords:
 - salou water sports
 - banana boat costa dorada
 - things to do in salou with kids
-imagen: /images/actividades/tarragona/costa/platja-llarga.webp
-imagenAlt: Platja Llarga in Salou with a calm sea
-galeria:
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: Cap de Salou seen from the sea
-- src: /images/actividades/tarragona/costa/faro-salou.webp
-  alt: Salou lighthouse
-- src: /images/actividades/tarragona/costa/punta-grossa.webp
-  alt: Rocky coastline at Punta Grossa, Salou
 ratingProveedor: 4.6
 numeroOpiniones: 69
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/banana/fta-lancha-remolcando-banana-aerea.webp
+imagenAlt: "Speedboat towing a banana boat on the open sea, aerial view"
+galeria:
+- src: /images/actividades/tarragona/salou/fta-paseo-salou-palmeras-anochecer.webp
+  alt: "Palm trees on the seafront by Salou beach at dusk"
+- src: /images/actividades/tarragona/banana/fta-banana-boat-arena-chalecos.webp
+  alt: "Inflatable banana boat with life jackets on the sand"
+- src: /images/actividades/tarragona/banana/fta-moto-agua-remolcando-banana.webp
+  alt: "Watercraft towing a banana boat near the shore"
+- src: /images/actividades/tarragona/costa/platja-llarga.webp
+  alt: "Platja Llarga in Salou seen through pine trees"
+- src: /images/actividades/tarragona/banana/fta-grupo-banana-boat-salpicando.webp
+  alt: "Group in life jackets riding a banana boat"
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: "Open sea off the rocks of Cap de Salou"
+- src: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
+  alt: "Inflatable banana boats floating in turquoise water"
 ---
 
 ## What you will see

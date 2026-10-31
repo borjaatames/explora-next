@@ -83,27 +83,31 @@ keywords:
 - formentera boat trip all inclusive
 - ses illetes boat trip
 - ibiza to formentera boat tour
-imagen: /images/actividades/ibiza/formentera/ses-illetes.webp
-imagenAlt: Turquoise water at Ses Illetes, Formentera
-galeria:
-- src: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
-  alt: The sandy spit at Ses Illetes
-- src: /images/actividades/ibiza/crucero-calas/paddle-surf-aguas-cristalinas.webp
-  alt: Paddleboarding in clear water
-- src: /images/actividades/ibiza/crucero-calas/esnorquel-bajo-el-agua-ibiza.webp
-  alt: Snorkelling underwater
-- src: /images/actividades/ibiza/formentera/la-savina.webp
-  alt: La Savina harbour, Formentera
-- src: /images/actividades/ibiza/formentera/bici-illetes.webp
-  alt: A bicycle by Ses Illetes
 ratingProveedor: 4.7
 numeroOpiniones: 2200
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/formentera/fi1-barcos-fondeados-espalmador-illetes.webp
+imagenAlt: "Boats anchored between Espalmador and Ses Illetes, Formentera"
+galeria:
+- src: /images/actividades/ibiza/formentera/fi1-ses-illetes-aereo.webp
+  alt: "Ses Illetes sand spit between turquoise waters with boats"
+- src: /images/actividades/ibiza/formentera/formentera-pexels-5096831-hero.webp
+  alt: "Clear water at Ses Illetes, Formentera"
+- src: /images/actividades/ibiza/barcos/fi1-velero-agua-turquesa-aereo.webp
+  alt: "Sailing boat anchored in turquoise water, seen from above"
+- src: /images/actividades/ibiza/mar/fi1-paddle-surf-aereo.webp
+  alt: "Stand-up paddleboarding at sea seen from above"
+- src: /images/actividades/ibiza/formentera/la-savina.webp
+  alt: "Fishing boat in La Savina harbour, Formentera"
+- src: /images/actividades/ibiza/formentera/fi1-es-calo-varaderos-aereo.webp
+  alt: "Wooden boat slipways at Es Caló de Sant Agustí, Formentera"
+- src: /images/actividades/ibiza/formentera/migjorn.webp
+  alt: "Migjorn beach, Formentera"
 ---
 
 ## What you will see

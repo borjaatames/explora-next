@@ -66,30 +66,34 @@ keywords:
 - salamanca official guide tour
 - salamanca city tour
 - things to see in salamanca
-imagen: /images/actividades/salamanca/plaza/plaza-mayor.webp
-imagenAlt: Plaza Mayor in Salamanca
-galeria:
-- src: /images/actividades/salamanca/centro/casa-conchas.webp
-  alt: Casa de las Conchas
-- src: /images/actividades/salamanca/centro/clerecia.webp
-  alt: La Clerecía building
-- src: /images/actividades/salamanca/universidad/fachada-universidad.webp
-  alt: Plateresque façade of the University of Salamanca
-- src: /images/actividades/salamanca/catedral/catedral-nueva.webp
-  alt: Salamanca's New Cathedral
-- src: /images/actividades/salamanca/catedral/catedral-vieja.webp
-  alt: Salamanca's Old Cathedral
 ratingProveedor: 4.9
 numeroOpiniones: 57
 atraccionesRelacionadas:
 - plaza-mayor
 - universidad-catedrales
 - casco-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/tour-guia-oficial/clerecia-casa-conchas.webp
+imagenAlt: "The Clerecía next to the Casa de las Conchas"
+galeria:
+- src: /images/actividades/salamanca/plaza/plaza-mayor-ayuntamiento.webp
+  alt: "City Hall on Salamanca's Plaza Mayor"
+- src: /images/actividades/salamanca/centro/clerecia.webp
+  alt: "Baroque towers of the Clerecía"
+- src: /images/actividades/salamanca/universidad/medallon-reyes.webp
+  alt: "Catholic Monarchs medallion on the University facade"
+- src: /images/actividades/salamanca/universidad/escuelas-menores.webp
+  alt: "Escuelas Menores courtyard"
+- src: /images/actividades/salamanca/tour-guia-oficial/catedrales-salamanca.webp
+  alt: "Salamanca's Old and New Cathedrals"
+- src: /images/actividades/salamanca/catedral/torre-del-gallo.webp
+  alt: "Torre del Gallo of the Old Cathedral"
+- src: /images/actividades/salamanca/catedral/catedral-nueva.webp
+  alt: "Main portal of Salamanca's New Cathedral"
 ---
 
 ## What you will see

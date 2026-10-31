@@ -65,24 +65,30 @@ keywords:
 - parc sama entradas
 - jardines parc sama
 - que hacer en cambrils
-imagen: /images/actividades/tarragona/costa/cambrils-puerto-02.webp
-imagenAlt: Puerto de Cambrils
-galeria:
-- src: /images/actividades/tarragona/vermut/botellas-vermut.webp
-  alt: Botellas de vermut
-- src: /images/actividades/tarragona/vermut/copa-vermut-hielo.webp
-  alt: Copa de vermut con hielo
-- src: /images/actividades/tarragona/costa/cambrils-barcas.webp
-  alt: Barcas de pesca en Cambrils
-- src: /images/actividades/tarragona/costa/cambrils-velero.webp
-  alt: Velero frente a Cambrils
 ratingProveedor: 4.4
 numeroOpiniones: 406
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/parc-sama/fta-lago-puente-palmeras-parc-sama.webp
+imagenAlt: "Lago con puente de madera y palmeras en el Parc Samà"
+galeria:
+- src: /images/actividades/tarragona/parc-sama/fta-paseo-platanos-parc-sama.webp
+  alt: "Paseo de plátanos en el Parc Samà"
+- src: /images/actividades/tarragona/parc-sama/fta-lago-gruta-glorieta-parc-sama.webp
+  alt: "Lago, gruta y glorieta del Parc Samà"
+- src: /images/actividades/tarragona/parc-sama/fta-pavo-real.webp
+  alt: "Pavo real en primer plano"
+- src: /images/actividades/tarragona/parc-sama/fta-vista-aerea-parc-sama.webp
+  alt: "Vista aérea del Parc Samà con el palacio y los jardines"
+- src: /images/actividades/tarragona/parc-sama/fta-lago-rocalla-parc-sama.webp
+  alt: "Lago y rocalla del Parc Samà"
+- src: /images/actividades/tarragona/parc-sama/fta-torre-parc-sama.webp
+  alt: "Torre del Parc Samà entre palmeras"
+- src: /images/actividades/tarragona/vermut/vermut-grifo.webp
+  alt: "Vasos de vermut con aceitunas"
 ---
 
 ## Qué vas a ver

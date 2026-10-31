@@ -80,23 +80,29 @@ keywords:
 - buggy fuerteventura
 - excursion buggy fuerteventura
 - que hacer en caleta de fuste
-imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
-imagenAlt: Buggy por una pista de tierra en Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Cabra majorera, la raza autóctona con cuya leche se elabora el queso majorero
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Conos volcánicos en Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: Costa de Fuerteventura
 ratingProveedor: 4.7
 numeroOpiniones: 774
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/buggy/ffv-buggy-pista-tierra-roja.webp
+imagenAlt: "Buggy por una pista de tierra rojiza"
+galeria:
+- src: /images/actividades/fuerteventura/buggy/ffv-tres-buggies-arena.webp
+  alt: "Tres buggies en fila sobre la arena"
+- src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
+  alt: "Rebaño de cabras en una ladera de Fuerteventura"
+- src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
+  alt: "Elaboración de queso fresco de cabra en una quesería"
+- src: /images/actividades/fuerteventura/buggy/ffv-buggy-junto-al-mar.webp
+  alt: "Buggy aparcado en la arena junto al mar"
+- src: /images/actividades/fuerteventura/la-pared/ffv-costa-oeste-oleaje.webp
+  alt: "Oleaje en la costa oeste de Fuerteventura"
+- src: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
+  alt: "Cabra majorera de largos cuernos"
 ---
 
 ## Qué vas a ver

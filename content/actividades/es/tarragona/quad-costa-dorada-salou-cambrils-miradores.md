@@ -77,27 +77,33 @@ keywords:
 - ruta en quad cambrils
 - quad costa dorada
 - excursion quad salou con recogida
-imagen: /images/actividades/tarragona/quad/quad-pista.webp
-imagenAlt: Quad avanzando por una pista de tierra
-galeria:
-- src: /images/actividades/tarragona/quad/quad-camino.webp
-  alt: Quad por un camino rural
-- src: /images/actividades/tarragona/quad/quad-barro.webp
-  alt: Quad en un tramo de tierra y barro
-- src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: Montañas del interior de Tarragona al atardecer
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: El Cap de Salou visto desde la costa
 ratingProveedor: 4.6
 numeroOpiniones: 52
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
 precioPorGrupo: true
+imagen: /images/actividades/tarragona/quad-miradores/fta-quads-pista-polvo.webp
+imagenAlt: "Quads levantando polvo en una pista de tierra"
+galeria:
+- src: /images/actividades/tarragona/quad/prades-siurana.webp
+  alt: "Montañas de Prades desde un mirador del interior"
+- src: /images/actividades/tarragona/quad-miradores/fta-quad-camino-rocoso.webp
+  alt: "Conductor en quad por un camino de tierra junto a rocas"
+- src: /images/actividades/tarragona/quad/montsant.webp
+  alt: "Vista desde un mirador sobre las sierras del interior"
+- src: /images/actividades/tarragona/quad-miradores/fta-quad-sendero-matorral.webp
+  alt: "Quad recorriendo un sendero entre matorral"
+- src: /images/actividades/tarragona/quad-miradores/fta-quad-camino-bosque.webp
+  alt: "Quad por un camino de tierra en el bosque"
+- src: /images/actividades/tarragona/quad/prades-atardecer.webp
+  alt: "Atardecer en las montañas de Prades"
+- src: /images/actividades/tarragona/quad-miradores/fta-grupo-quads-pista.webp
+  alt: "Grupo de quads en una pista de tierra"
 ---
 
 ## Qué vas a ver

@@ -63,26 +63,30 @@ keywords:
 - palacio de monterrey tickets
 - monterrey palace tour
 - house of alba salamanca
-imagen: /images/actividades/salamanca/centro/palacio-monterrey.webp
-imagenAlt: Façade of the Monterrey Palace in Salamanca
-galeria:
-- src: /images/actividades/salamanca/centro/cielo-salamanca.webp
-  alt: Salamanca's towers against the sky
-- src: /images/actividades/salamanca/centro/clerecia-cupula.webp
-  alt: Dome of La Clerecía
-- src: /images/actividades/salamanca/centro/san-esteban.webp
-  alt: Convent of San Esteban
-- src: /images/actividades/salamanca/plaza/plaza-mayor.webp
-  alt: Plaza Mayor in Salamanca
 ratingProveedor: 4.4
 numeroOpiniones: 81
 atraccionesRelacionadas:
 - monumentos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/palacio-monterrey/fachada-palacio-monterrey.webp
+imagenAlt: "Renaissance facade of Monterrey Palace in Salamanca"
+galeria:
+- src: /images/actividades/salamanca/palacio-monterrey/palacio-monterrey-esquina.webp
+  alt: "Monterrey Palace seen from the corner with its tower"
+- src: /images/actividades/salamanca/palacio-monterrey/torre-palacio-monterrey.webp
+  alt: "Tower of Monterrey Palace"
+- src: /images/actividades/salamanca/palacio-monterrey/cresteria-palacio-monterrey.webp
+  alt: "Renaissance cresting of Monterrey Palace"
+- src: /images/actividades/salamanca/palacio-monterrey/galeria-palacio-monterrey.webp
+  alt: "Arched gallery and tower of Monterrey Palace"
+- src: /images/actividades/salamanca/palacio-monterrey/grabado-palacio-monterrey-1844.webp
+  alt: "1844 engraving of Monterrey Palace"
+- src: /images/actividades/salamanca/palacio-monterrey/palacio-monterrey-nocturna.webp
+  alt: "Monterrey Palace lit up at night"
 ---
 
 ## What you will see

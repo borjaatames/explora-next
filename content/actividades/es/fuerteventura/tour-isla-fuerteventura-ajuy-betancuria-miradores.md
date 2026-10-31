@@ -76,25 +76,29 @@ keywords:
 - tour betancuria ajuy
 - cuevas de ajuy excursion
 - tour isla fuerteventura grupo reducido
-imagen: /images/actividades/fuerteventura/zonas/cuevas-de-ajuy.webp
-imagenAlt: Cuevas de Ajuy junto al mar
-galeria:
-- src: /images/actividades/fuerteventura/zonas/cuevas-de-ajuy.webp
-  alt: Cuevas de Ajuy
-- src: /images/actividades/fuerteventura/zonas/betancuria-iglesia.webp
-  alt: Iglesia de Betancuria
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: Calle de Betancuria
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Montañas volcánicas de Fuerteventura
 ratingProveedor: 4.8
 numeroOpiniones: 195
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/betancuria/ffv-betancuria-1.webp
+imagenAlt: "Iglesia de Santa María y plaza de Betancuria"
+galeria:
+- src: /images/actividades/fuerteventura/betancuria/ffv-puerta-municipio-betancuria.webp
+  alt: "Monumento de entrada al municipio de Betancuria"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-5.webp
+  alt: "Entrada a la villa histórica de Betancuria"
+- src: /images/actividades/fuerteventura/ajuy/ffv-costa-ajuy.webp
+  alt: "Costa de Ajuy con la playa negra"
+- src: /images/actividades/fuerteventura/ajuy/ffv-acantilados-ajuy.webp
+  alt: "Acantilados de Ajuy sobre el mar"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-4.webp
+  alt: "Jardín junto a la iglesia de Betancuria"
+- src: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
+  alt: "Pueblo de Ajuy y su playa de arena negra"
 ---
 
 ## Qué vas a ver

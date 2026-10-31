@@ -76,29 +76,35 @@ keywords:
 - ibiza sunset sailing
 - sant antoni sailboat tour
 - small group boat trip ibiza
-imagen: /images/actividades/ibiza/atardecer/velero-atardecer.webp
-imagenAlt: Sailing boat at sunset in Ibiza
-galeria:
-- src: /images/actividades/ibiza/calas/cala-conta-veleros.webp
-  alt: Sailing boats anchored at Cala Conta
-- src: /images/actividades/ibiza/mar/paddle-surf-cala.webp
-  alt: Paddleboarding in a cove
-- src: /images/actividades/ibiza/kayak-codolar/esnorquel-costa-rocosa.webp
-  alt: Snorkelling along a rocky shore
-- src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
-  alt: Sunset in Sant Antoni
-- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
-  alt: Sant Antoni harbour
 ratingProveedor: 4.7
 numeroOpiniones: 480
 atraccionesRelacionadas:
 - vedra-atardecer
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/velero/fi2-velero-atardecer-sa-conillera.webp
+imagenAlt: "Sailboat at sunset off Sa Conillera island, Ibiza"
+galeria:
+- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
+  alt: "Boats moored in Sant Antoni harbour"
+- src: /images/actividades/ibiza/velero/fi2-velero-fondeado-cala.webp
+  alt: "Sailboat anchored in a turquoise cove"
+- src: /images/actividades/ibiza/velero/fi2-cala-bassa-barcos.webp
+  alt: "Boats anchored at Cala Bassa on Ibiza's west coast"
+- src: /images/actividades/ibiza/crucero-calas/paddle-surf-aguas-cristalinas.webp
+  alt: "Paddleboard on crystal-clear water"
+- src: /images/actividades/ibiza/mar/esnorquel.webp
+  alt: "Snorkelling over a posidonia meadow"
+- src: /images/actividades/ibiza/velero/fi2-cala-comte-veleros.webp
+  alt: "Sailboats off the islets of Cala Comte, Ibiza"
+- src: /images/actividades/ibiza/velero/fi2-velero-luz-dorada.webp
+  alt: "Sailboat under full sail in the late afternoon light"
+- src: /images/actividades/ibiza/atardecer/atardecer-conillera.webp
+  alt: "Sunset by Sa Conillera, off Sant Antoni"
 ---
 
 ## What you will see

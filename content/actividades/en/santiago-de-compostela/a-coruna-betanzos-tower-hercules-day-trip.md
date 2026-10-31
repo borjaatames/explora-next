@@ -70,24 +70,30 @@ keywords:
 - betanzos and a coruna tour
 - tower of hercules tour
 - a coruna tour from santiago
-imagen: /images/actividades/santiago-de-compostela/tapas/tortilla.webp
-imagenAlt: Galician potato omelette
-galeria:
-- src: /images/actividades/santiago-de-compostela/tapas/bar-gallego.webp
-  alt: The counter of a Galician bar
-- src: /images/actividades/santiago-de-compostela/tapas/escaparate.webp
-  alt: A shop window of Galician produce
-- src: /images/actividades/santiago-de-compostela/tapas/pulpo.webp
-  alt: Galician-style octopus
 ratingProveedor: 4.4
 numeroOpiniones: 49
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/coruna/fsc-torre-hercules-visitantes-breogan.webp
+imagenAlt: "Visitors on the path to the Tower of Hercules beside the Breogán statue"
+galeria:
+- src: /images/actividades/santiago-de-compostela/tapas/tortilla.webp
+  alt: "Juicy Spanish potato omelette on a bar counter"
+- src: /images/actividades/santiago-de-compostela/coruna/fsc-torre-hercules-costa.webp
+  alt: "The Tower of Hercules above the A Coruña coastline"
+- src: /images/actividades/santiago-de-compostela/coruna/fsc-galerias-marina.webp
+  alt: "Glazed galleries on Avenida de la Marina in A Coruña"
+- src: /images/actividades/santiago-de-compostela/coruna/fsc-maria-pita-ayuntamiento.webp
+  alt: "City Hall on María Pita square, A Coruña"
+- src: /images/actividades/santiago-de-compostela/coruna/fsc-puerto-deportivo.webp
+  alt: "A Coruña marina with the glazed galleries behind"
+- src: /images/actividades/santiago-de-compostela/coruna/fsc-costa-torre-hercules.webp
+  alt: "Rocky coastline with the Tower of Hercules in the distance"
 ---
 
 ## What you will see

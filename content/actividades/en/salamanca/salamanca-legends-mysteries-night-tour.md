@@ -72,28 +72,30 @@ keywords:
 - salamanca night tour
 - salamanca ghost tour
 - cave of salamanca
-imagen: /images/actividades/salamanca/noche/plaza-mayor-noche.webp
-imagenAlt: Salamanca's Plaza Mayor lit up at night
-galeria:
-- src: /images/actividades/salamanca/noche/cueva-salamanca.webp
-  alt: Cave of Salamanca
-- src: /images/actividades/salamanca/centro/huerto-calixto.webp
-  alt: Garden of Calisto and Melibea
-- src: /images/actividades/salamanca/noche/torre-clavero.webp
-  alt: Torre del Clavero
-- src: /images/actividades/salamanca/centro/calle-noche.webp
-  alt: A street in central Salamanca at night
-- src: /images/actividades/salamanca/noche/plaza-mayor-soportales-noche.webp
-  alt: Plaza Mayor arcades at night
 ratingProveedor: 4.8
 numeroOpiniones: 32
 atraccionesRelacionadas:
 - casco-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/centro/calle-noche.webp
+imagenAlt: "Old-town street in Salamanca at night with a lit tower in the background"
+galeria:
+- src: /images/actividades/salamanca/noche/plaza-mayor-noche-gente.webp
+  alt: "Salamanca's Plaza Mayor lit up at night"
+- src: /images/actividades/salamanca/noche/plaza-mayor-soportales-noche.webp
+  alt: "Arcades of Salamanca's Plaza Mayor at night"
+- src: /images/actividades/salamanca/leyendas-nocturno/palacio-monterrey-noche.webp
+  alt: "Monterrey Palace lit up at night"
+- src: /images/actividades/salamanca/catedral/catedral-desde-clerecia.webp
+  alt: "Salamanca's cathedrals lit up at dusk"
+- src: /images/actividades/salamanca/leyendas-nocturno/cresteria-monterrey-noche.webp
+  alt: "Tower and cresting of Monterrey Palace at night"
+- src: /images/actividades/salamanca/centro/puente-romano-noche.webp
+  alt: "Salamanca's Roman bridge lit up at night"
 ---
 
 ## What you will see

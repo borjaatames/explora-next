@@ -68,28 +68,32 @@ keywords:
 - excursion barco cala conta
 - barco san antonio barra libre
 - excursion calas ibiza barco
-imagen: /images/actividades/ibiza/calas/cala-conta-islote.webp
-imagenAlt: Cala Conta y su islote frente a la costa de Ibiza
-galeria:
-- src: /images/actividades/ibiza/calas/cala-bassa.webp
-  alt: Cala Bassa
-- src: /images/actividades/ibiza/calas/cala-conta-calita.webp
-  alt: Una de las calitas de Cala Conta
-- src: /images/actividades/ibiza/calas/bano-desde-barco-excursion.webp
-  alt: Bañistas nadando junto a un barco de excursión
-- src: /images/actividades/ibiza/mar/paddle-surf-cala.webp
-  alt: Paddle surf en aguas tranquilas
-- src: /images/actividades/ibiza/mar/cueva-marina.webp
-  alt: Esnórquel en una cueva marina
 ratingProveedor: 4.6
 numeroOpiniones: 155
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/barcos/fi1-barcos-fondeados-cala-bassa.webp
+imagenAlt: "Barcos fondeados en el agua turquesa de Cala Bassa"
+galeria:
+- src: /images/actividades/ibiza/sant-antoni/fi1-bahia-sant-antoni-puerto.webp
+  alt: "Bahía y puerto de Sant Antoni de Portmany con barcos fondeados"
+- src: /images/actividades/ibiza/calas/fi1-cala-conta-playa-islote.webp
+  alt: "Playa de Cala Conta con su islote frente a la orilla"
+- src: /images/actividades/ibiza/mar/cueva-marina.webp
+  alt: "Cueva marina con el agua entrando bajo la roca"
+- src: /images/actividades/ibiza/calas/fi1-cala-conta-islote-rocas.webp
+  alt: "Islote frente a las rocas de Cala Conta, en la costa oeste de Ibiza"
+- src: /images/actividades/ibiza/calas/cala-bassa.webp
+  alt: "Barcos fondeados en Cala Bassa"
+- src: /images/actividades/ibiza/mar/esnorquel.webp
+  alt: "Esnórquel sobre una pradera de posidonia"
+- src: /images/actividades/ibiza/mar/fi1-paddle-surf-aereo.webp
+  alt: "Paddle surf en el mar visto desde el aire"
 ---
 
 ## Qué vas a ver

@@ -72,30 +72,34 @@ keywords:
 - private guide salamanca
 - salamanca private walking tour
 - salamanca family tour
-imagen: /images/actividades/salamanca/universidad/fachada-universidad.webp
-imagenAlt: Façade of the University of Salamanca
-galeria:
-- src: /images/actividades/salamanca/plaza/plaza-mayor-ayuntamiento.webp
-  alt: Town hall on Salamanca's Plaza Mayor
-- src: /images/actividades/salamanca/centro/casa-conchas.webp
-  alt: Casa de las Conchas
-- src: /images/actividades/salamanca/catedral/catedrales-exterior.webp
-  alt: Exterior of Salamanca's cathedrals
-- src: /images/actividades/salamanca/universidad/patio-escuelas.webp
-  alt: Patio de Escuelas at the University
-- src: /images/actividades/salamanca/centro/puente-romano.webp
-  alt: Salamanca's Roman Bridge
 ratingProveedor: 4.9
 numeroOpiniones: 35
 atraccionesRelacionadas:
 - plaza-mayor
 - universidad-catedrales
 - casco-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/tour-privado-monumentos/catedrales-salamanca-exterior.webp
+imagenAlt: "Tower and dome of Salamanca's cathedrals"
+galeria:
+- src: /images/actividades/salamanca/plaza/plaza-mayor.webp
+  alt: "Salamanca's Plaza Mayor"
+- src: /images/actividades/salamanca/centro/casa-conchas.webp
+  alt: "Facade of the Casa de las Conchas"
+- src: /images/actividades/salamanca/universidad/fachada-detalle.webp
+  alt: "Detail of the University's plateresque facade"
+- src: /images/actividades/salamanca/tour-privado-monumentos/cupula-clerecia.webp
+  alt: "Clerecía dome above Salamanca's rooftops"
+- src: /images/actividades/salamanca/catedral/catedral-nueva-torre.webp
+  alt: "Salamanca's New Cathedral from Plaza de Anaya"
+- src: /images/actividades/salamanca/centro/palacio-monterrey.webp
+  alt: "Monterrey Palace"
+- src: /images/actividades/salamanca/centro/san-esteban.webp
+  alt: "Cloister of the San Esteban Convent"
 ---
 
 ## What you will see

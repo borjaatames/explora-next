@@ -73,29 +73,31 @@ keywords:
 - private guide santiago
 - santiago cathedral private tour
 - private walking tour santiago old town
-imagen: /images/actividades/santiago-de-compostela/catedral/obradoiro-fachada.webp
-imagenAlt: The Obradoiro facade of Santiago Cathedral
-galeria:
-- src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: Rúa do Vilar in the old town
-- src: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
-  alt: The nave of Santiago Cathedral
-- src: /images/actividades/santiago-de-compostela/casco/praterias-portada.webp
-  alt: The Praterías doorway of the cathedral
-- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: Quintana Square in Santiago
-- src: /images/actividades/santiago-de-compostela/catedral/altar-mayor.webp
-  alt: High altar of Santiago Cathedral
 ratingProveedor: 4.8
 numeroOpiniones: 74
 atraccionesRelacionadas:
 - centro-historico
 - catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/catedral/fsc-privado-fachada-obradoiro-cielo.webp
+imagenAlt: "Baroque Obradoiro façade of Santiago Cathedral"
+galeria:
+- src: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
+  alt: "Nave of Santiago Cathedral"
+- src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
+  alt: "Cloister vaults in the cathedral museum"
+- src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
+  alt: "Rúa do Vilar in the old town"
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: "Praza da Quintana"
+- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
+  alt: "Praza das Praterías"
+- src: /images/actividades/santiago-de-compostela/catedral/botafumeiro.webp
+  alt: "The botafumeiro in the cathedral"
 ---
 
 ## What you will see

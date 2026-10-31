@@ -80,23 +80,29 @@ keywords:
 - fuerteventura buggy tour
 - buggy safari fuerteventura
 - things to do in caleta de fuste
-imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
-imagenAlt: A buggy on a dirt track in Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Majorera goat, the native breed whose milk is used for Majorero cheese
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Volcanic cones in Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: Fuerteventura coastline
 ratingProveedor: 4.7
 numeroOpiniones: 774
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/buggy/ffv-buggy-pista-tierra-roja.webp
+imagenAlt: "Buggy on a reddish dirt track"
+galeria:
+- src: /images/actividades/fuerteventura/buggy/ffv-tres-buggies-arena.webp
+  alt: "Three buggies in a row on the sand"
+- src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
+  alt: "Herd of goats on a hillside in Fuerteventura"
+- src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
+  alt: "Fresh goat cheese being made in a cheese dairy"
+- src: /images/actividades/fuerteventura/buggy/ffv-buggy-junto-al-mar.webp
+  alt: "Buggy parked on the sand by the sea"
+- src: /images/actividades/fuerteventura/la-pared/ffv-costa-oeste-oleaje.webp
+  alt: "Waves on the west coast of Fuerteventura"
+- src: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
+  alt: "Majorera goat with long horns"
 ---
 
 ## What you will see

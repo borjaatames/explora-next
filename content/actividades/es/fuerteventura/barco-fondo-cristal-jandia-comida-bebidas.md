@@ -74,28 +74,32 @@ keywords:
 - excursion barco morro jable
 - delfines fuerteventura barco
 - crucero jandia comida
-imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-imagenAlt: Barco de excursión en la costa de Morro Jable
-galeria:
-- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Playa de Morro Jable
-- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: Costa de Jandía desde el mar
-- src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
-  alt: Faro de Morro Jable
-- src: /images/actividades/fuerteventura/lobos/esnorquel-fondo-rocoso.webp
-  alt: Esnórquel sobre fondo rocoso
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-  alt: Bañistas junto a un barco fondeado
 ratingProveedor: 4.4
 numeroOpiniones: 1602
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/barco-fondo-cristal/ffv-barcas-fondo-cristal.webp
+imagenAlt: "Barcas con fondo de cristal fondeadas en el mar"
+galeria:
+- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
+  alt: "Costa de la península de Jandía"
+- src: /images/actividades/fuerteventura/delfines/ffv-delfines-mar-abierto.webp
+  alt: "Dos delfines nadando en mar abierto"
+- src: /images/actividades/fuerteventura/barco-fondo-cristal/ffv-barca-fondo-cristal-orilla.webp
+  alt: "Pequeño barco con fondo de cristal en aguas turquesas"
+- src: /images/actividades/fuerteventura/esnorquel/ffv-esnorquel-fondo-rocoso.webp
+  alt: "Persona haciendo esnórquel sobre un fondo rocoso"
+- src: /images/actividades/fuerteventura/delfines/ffv-calderones-aletas.webp
+  alt: "Grupo de calderones nadando en la superficie"
+- src: /images/actividades/fuerteventura/lobos/paella-vino-a-bordo.webp
+  alt: "Paella y vino servidos a bordo"
+- src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
+  alt: "Costa de Jandía desde lo alto"
 ---
 
 ## Qué vas a ver

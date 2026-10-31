@@ -75,29 +75,31 @@ keywords:
 - isla de lobos con recogida hotel
 - popcorn beach fuerteventura
 - excursion lobos y dunas corralejo
-imagen: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
-imagenAlt: Vista aérea de la Isla de Lobos
-galeria:
-- src: /images/actividades/fuerteventura/lobos/playa-la-concha-lobos.webp
-  alt: Playa de La Concha en la Isla de Lobos, con su laguna de agua turquesa
-- src: /images/actividades/fuerteventura/zonas/montana-caldera-lobos.webp
-  alt: La montaña de La Caldera en la Isla de Lobos
-- src: /images/actividades/fuerteventura/lobos/esnorquel-fondo-rocoso.webp
-  alt: Bañista haciendo esnórquel sobre un fondo rocoso
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
-  alt: Paseo por las dunas blancas de Corralejo
-- src: /images/actividades/fuerteventura/ferry-lobos.webp
-  alt: Ferri de pasajeros entre Corralejo y la Isla de Lobos
 ratingProveedor: 4.8
 numeroOpiniones: 30
 atraccionesRelacionadas:
 - isla-lobos
 - lobos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/isla-lobos/ffv-barcas-laguna-isla-lobos.webp
+imagenAlt: "Barcas en las aguas turquesas de la Isla de Lobos"
+galeria:
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
+  alt: "Puerto de Corralejo, salida del ferri a Lobos"
+- src: /images/actividades/fuerteventura/lobos/playa-la-concha-lobos.webp
+  alt: "Playa de La Concha en la Isla de Lobos"
+- src: /images/actividades/fuerteventura/zonas/montana-caldera-lobos.webp
+  alt: "Montaña de La Caldera en la Isla de Lobos"
+- src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
+  alt: "La Isla de Lobos vista desde una playa de Corralejo"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-1.webp
+  alt: "Horizonte de las Dunas de Corralejo"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-6.webp
+  alt: "Arbusto en lo alto de una duna de Corralejo"
 ---
 
 ## Qué vas a ver

@@ -71,28 +71,32 @@ keywords:
 - sesion de fotos ibiza
 - miradores de ibiza tour
 - es vedra mirador excursion
-imagen: /images/actividades/ibiza/vedra/es-vedra-acantilados.webp
-imagenAlt: Es Vedrà visto desde los acantilados
-galeria:
-- src: /images/actividades/ibiza/vedra/es-vedra-tarde.webp
-  alt: Es Vedrà por la tarde
-- src: /images/actividades/ibiza/vedra/es-vedra-vedranell.webp
-  alt: Es Vedrà y Es Vedranell
-- src: /images/actividades/ibiza/calas/cala-conta.webp
-  alt: Cala Comte
-- src: /images/actividades/ibiza/calas/cala-conta-islote.webp
-  alt: Islote frente a Cala Comte
-- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
-  alt: Acantilados de la costa oeste de Ibiza
 ratingProveedor: 4.9
 numeroOpiniones: 137
 atraccionesRelacionadas:
 - vedra-atardecer
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/miradores/fi2-fotografiando-es-vedra.webp
+imagenAlt: "Viajera de espaldas fotografiando Es Vedrà desde un mirador"
+galeria:
+- src: /images/actividades/ibiza/miradores/fi2-mirador-pinos-costa.webp
+  alt: "Mirador entre pinos sobre la costa de Ibiza"
+- src: /images/actividades/ibiza/vedra/es-vedra-cala-dhort.webp
+  alt: "Es Vedrà desde Cala d'Hort"
+- src: /images/actividades/ibiza/miradores/fi2-torre-savinar-es-vedra.webp
+  alt: "Torre des Savinar y Es Vedrà desde los acantilados"
+- src: /images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp
+  alt: "Cala con veleros y Es Vedrà al fondo"
+- src: /images/actividades/ibiza/calas/cala-dhort-panoramica.webp
+  alt: "Vista panorámica de Cala d'Hort"
+- src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
+  alt: "Es Vedrà entre pinos"
+- src: /images/actividades/ibiza/vedra/es-vedra-puesta-sol.webp
+  alt: "Es Vedrà al atardecer desde el mirador"
 ---
 
 ## Qué vas a ver

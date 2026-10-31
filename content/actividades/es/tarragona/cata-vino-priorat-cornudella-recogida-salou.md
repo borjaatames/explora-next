@@ -68,26 +68,32 @@ keywords:
 - excursion priorat desde salou
 - bodega cornudella de montsant
 - visita bodega priorat con recogida
-imagen: /images/actividades/tarragona/quad/montsant.webp
-imagenAlt: Sierra del Montsant, junto a Cornudella, en la comarca del Priorat
-galeria:
-- src: /images/actividades/tarragona/quad/prades-siurana.webp
-  alt: Paisaje de montaña junto a Siurana, en el Priorat
-- src: /images/actividades/tarragona/vermut/barricas-vermut.webp
-  alt: Barricas de madera en una bodega de Tarragona
-- src: /images/actividades/tarragona/vermut/cata-copa-en-mano.webp
-  alt: Cata con una copa en la mano
-- src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: Montañas del interior de Tarragona al atardecer
 ratingProveedor: 4.7
 numeroOpiniones: 72
 atraccionesRelacionadas:
 - naturaleza
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/priorat/fta-barricas-vino-tinto-bodega.webp
+imagenAlt: "Barricas de roble con vino tinto apiladas en una bodega"
+galeria:
+- src: /images/actividades/tarragona/priorat/fta-vinedos-cornudella-montsant.webp
+  alt: "Viñedos de Cornudella de Montsant"
+- src: /images/actividades/tarragona/priorat/fta-racimo-uva-tinta-otono.webp
+  alt: "Racimo de uva tinta entre hojas de parra rojas en otoño en el Priorat"
+- src: /images/actividades/tarragona/priorat/fta-vinedos-escaladei.webp
+  alt: "Viñedos en ladera en Escaladei, en el Priorat"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Copas de vino preparadas para una cata"
+- src: /images/actividades/tarragona/priorat/fta-vinedos-terrazas-falset.webp
+  alt: "Viñedos en terrazas cerca de Falset"
+- src: /images/actividades/tarragona/priorat/fta-hoja-parra-roja.webp
+  alt: "Hoja de parra roja a contraluz en un viñedo del Priorat"
+- src: /images/actividades/tarragona/priorat/fta-vinedos-camino-falset.webp
+  alt: "Camino entre viñedos de Falset"
 ---
 
 ## Qué vas a ver

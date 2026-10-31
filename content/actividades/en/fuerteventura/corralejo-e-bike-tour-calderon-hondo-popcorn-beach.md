@@ -79,26 +79,30 @@ keywords:
 - fuerteventura electric bike tour
 - calderon hondo bike
 - things to do in corralejo
-imagen: /images/actividades/fuerteventura/zonas/calderon-hondo-crater.webp
-imagenAlt: The crater of the Calderón Hondo volcano
-galeria:
-- src: /images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp
-  alt: The rim of the Calderón Hondo crater
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Volcanic cones in northern Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-arena.webp
-  alt: Sand and scrub in the Corralejo Dunes
-- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
-  alt: Corralejo bay with Lobos in the background
 ratingProveedor: 4.8
 numeroOpiniones: 224
 atraccionesRelacionadas:
 - norte
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/madrid/ebike/ciclista-bicicleta-electrica-paseo.webp
+imagenAlt: "Cyclist on an e-bike with the sea behind"
+galeria:
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: "Volcanoes in the north of Fuerteventura"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-borde-crater-calderon-hondo.webp
+  alt: "Rim of the Calderón Hondo crater"
+- src: /images/actividades/madrid/ebike/bicicletas-electricas-aparcadas.webp
+  alt: "Parked e-bikes"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-volcanes-la-oliva.webp
+  alt: "Volcanic cones in the north of Fuerteventura"
+- src: /images/actividades/fuerteventura/ebike/ffv-ciclistas-carretera-matorral.webp
+  alt: "Cyclists on a road through coastal scrub"
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: "Corralejo bay"
 ---
 
 ## What you will see

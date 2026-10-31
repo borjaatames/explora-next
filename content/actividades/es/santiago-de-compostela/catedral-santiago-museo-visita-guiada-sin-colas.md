@@ -69,28 +69,30 @@ keywords:
 - museo catedral santiago entradas
 - catedral de santiago sin colas
 - tour catedral santiago de compostela
-imagen: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
-imagenAlt: Nave central de la catedral de Santiago de Compostela
-galeria:
-- src: /images/actividades/santiago-de-compostela/catedral/altar-mayor.webp
-  alt: Altar mayor de la catedral de Santiago
-- src: /images/actividades/santiago-de-compostela/catedral/claustro.webp
-  alt: Claustro de la catedral de Santiago
-- src: /images/actividades/santiago-de-compostela/catedral/botafumeiro.webp
-  alt: El botafumeiro en la catedral
-- src: /images/actividades/santiago-de-compostela/catedral/cupula.webp
-  alt: Cúpula del crucero de la catedral
-- src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
-  alt: Fachada del Obradoiro de la catedral
 ratingProveedor: 4.7
 numeroOpiniones: 569
 atraccionesRelacionadas:
 - catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/catedral/altar-mayor.webp
+imagenAlt: "Altar mayor barroco de la catedral de Santiago"
+galeria:
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-obradoiro-visitantes.webp
+  alt: "Visitantes en la plaza del Obradoiro frente a la catedral de Santiago"
+- src: /images/actividades/santiago-de-compostela/catedral/tribuna.webp
+  alt: "Tribuna románica sobre la nave de la catedral"
+- src: /images/actividades/santiago-de-compostela/catedral/botafumeiro-vuelo.webp
+  alt: "Tiraboleiros moviendo el botafumeiro en la catedral"
+- src: /images/actividades/santiago-de-compostela/catedral/cupula.webp
+  alt: "Cúpula del crucero de la catedral de Santiago"
+- src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
+  alt: "Bóvedas góticas del claustro de la catedral"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-timpano-praterias.webp
+  alt: "Tímpano románico de la fachada de Platerías de la catedral"
 ---
 
 ## Qué vas a ver

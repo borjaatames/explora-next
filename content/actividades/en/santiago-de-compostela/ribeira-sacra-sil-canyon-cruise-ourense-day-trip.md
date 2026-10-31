@@ -67,26 +67,30 @@ keywords:
 - sil canyon cruise
 - ourense ribeira sacra day trip
 - ribeira sacra from santiago
-imagen: /images/actividades/santiago-de-compostela/rias/parras.webp
-imagenAlt: Vine pergolas in Galicia
-galeria:
-- src: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
-  alt: Vineyards in Galicia
-- src: /images/actividades/santiago-de-compostela/finisterre/ponte-maceira.webp
-  alt: River and stone bridge in inland Galicia
-- src: /images/actividades/santiago-de-compostela/rias/bodega-fefinans-barricas.webp
-  alt: Barrels of Galician wine
-- src: /images/actividades/santiago-de-compostela/rias/vendimia-albarino-cambados.webp
-  alt: Grape harvest in a Galician vineyard
 ratingProveedor: 4.5
 numeroOpiniones: 169
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-estela-barco-sil.webp
+imagenAlt: "Cruising by boat through the Sil canyon"
+galeria:
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-vinedos-valle-sil.webp
+  alt: "Vineyards and the Sil valley in the Ribeira Sacra"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-canon-sil-desde-catamaran.webp
+  alt: "Rock walls of the Sil canyon from the water"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-rio-sil-panoramica.webp
+  alt: "Panorama of the River Sil between hillsides"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-meandro-sil.webp
+  alt: "Meander of the River Sil in the Ribeira Sacra"
+- src: /images/actividades/santiago-de-compostela/ourense/fsc-ourense-panoramica.webp
+  alt: "Panorama over the rooftops of Ourense"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-mirador-canon-sil.webp
+  alt: "View of the Sil canyon from a viewpoint"
 ---
 
 ## What you will see

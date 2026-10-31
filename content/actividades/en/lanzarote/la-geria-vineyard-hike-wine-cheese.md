@@ -76,28 +76,28 @@ keywords:
 - la geria walking tour
 - la geria wine tasting
 - lanzarote vineyard tour
-imagen: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-imagenAlt: La Geria vines growing in volcanic ash pits
-galeria:
-- src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
-  alt: Stone-walled pits for vines in La Geria
-- src: /images/actividades/lanzarote/zonas/la-geria-bodega.webp
-  alt: La Geria vineyards at the foot of the volcanoes
-- src: /images/actividades/lanzarote/zonas/sendero-volcan.webp
-  alt: A trail along a volcano ridge in Lanzarote
-- src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
-  alt: Crops growing on lava in Lanzarote
-- src: /images/actividades/lanzarote/zonas/valle-volcanico.webp
-  alt: A volcanic valley in inland Lanzarote
 ratingProveedor: 4.9
 numeroOpiniones: 218
 atraccionesRelacionadas:
 - volcanes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/la-geria/flz-sendero-vinedos.webp
+imagenAlt: "Hiker on a path among the pit vineyards of La Geria"
+galeria:
+- src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
+  alt: "Rows of vine pits in La Geria seen from above"
+- src: /images/actividades/lanzarote/la-geria/flz-vinedo-muros-volcan.webp
+  alt: "Vineyard with volcanic stone walls in Lanzarote"
+- src: /images/actividades/lanzarote/la-geria/flz-hoyos-ladera.webp
+  alt: "Stone-walled vine pits on a slope in La Geria"
+- src: /images/actividades/lanzarote/zonas/la-geria-bodega.webp
+  alt: "La Geria vineyards below a volcano"
+- src: /images/actividades/lanzarote/la-geria/flz-vides-verdes.webp
+  alt: "Green vines in volcanic ash pits in La Geria"
 ---
 
 ## What you will see

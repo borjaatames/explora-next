@@ -71,32 +71,30 @@ keywords:
 - lanzarote full day tour
 - north and south lanzarote tour
 - cueva de los verdes excursion
-imagen: /images/actividades/lanzarote/zonas/cueva-de-los-verdes.webp
-imagenAlt: The lit interior of Cueva de los Verdes
-galeria:
-- src: /images/actividades/lanzarote/zonas/timanfaya-montanas-del-fuego.webp
-  alt: The Fire Mountains of Timanfaya
-- src: /images/actividades/lanzarote/zonas/cueva-de-los-verdes-galeria.webp
-  alt: A volcanic gallery inside Cueva de los Verdes
-- src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp
-  alt: La Graciosa seen from the cliffs at Mirador del Río
-- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-  alt: La Geria vineyards
-- src: /images/actividades/lanzarote/zonas/el-golfo-charco-clicos.webp
-  alt: Charco de los Clicos, the green lagoon at El Golfo
-- src: /images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp
-  alt: A camel caravan on the slopes of Timanfaya
 ratingProveedor: 4.5
 numeroOpiniones: 55
 atraccionesRelacionadas:
 - timanfaya
 - jameos-cueva
 - volcanes
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/timanfaya/flz-montanas-colores.webp
+imagenAlt: "Red and ochre volcanic mountains in Timanfaya"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-interior-crater.webp
+  alt: "Inside a volcanic crater in Timanfaya"
+- src: /images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp
+  alt: "Camel caravan in Timanfaya"
+- src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-tubo-iluminado.webp
+  alt: "Illuminated lava tube in Cueva de los Verdes"
+- src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-galeria-ocre.webp
+  alt: "Ochre-toned gallery in Cueva de los Verdes"
+- src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-entrada-tubo.webp
+  alt: "Entrance to the lava tube of Cueva de los Verdes"
 ---
 
 ## What you will see

@@ -63,23 +63,29 @@ keywords:
 - lagomar lanzarote entradas
 - casa omar sharif lanzarote
 - que ver en teguise
-imagen: /images/actividades/lanzarote/zonas/teguise-calle.webp
-imagenAlt: Calle de Teguise, el municipio donde se encuentra LagOmar
-galeria:
-- src: /images/actividades/lanzarote/zonas/teguise-plaza.webp
-  alt: Plaza de Teguise
-- src: /images/actividades/lanzarote/zonas/casa-tradicional-verde.webp
-  alt: Casa tradicional lanzaroteña
-- src: /images/actividades/lanzarote/zonas/volcan-vegetacion.webp
-  alt: Paisaje volcánico de Lanzarote
 ratingProveedor: 4.7
 numeroOpiniones: 1266
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/lagomar/flz-piscina.webp
+imagenAlt: "Piscina de LagOmar rodeada de roca volcánica"
+galeria:
+- src: /images/actividades/lanzarote/lagomar/flz-terraza-roca.webp
+  alt: "Terraza y puerta blanca excavadas en la roca en LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-pared-cuevas.webp
+  alt: "Pared de roca con cuevas y puerta blanca en LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-tunel-blanco.webp
+  alt: "Túnel blanco excavado en la roca en LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-arco-roca.webp
+  alt: "Arco de roca y jardín de cactus en LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-jardin-palmeras.webp
+  alt: "Jardín con palmeras y cactus junto a la roca en LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-muros-blancos.webp
+  alt: "Muros blancos y vegetación sobre la roca en LagOmar"
 ---
 
 ## Qué vas a ver

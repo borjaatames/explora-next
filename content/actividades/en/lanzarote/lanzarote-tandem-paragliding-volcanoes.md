@@ -80,27 +80,29 @@ keywords:
 - tandem paragliding lanzarote
 - paragliding over volcanoes lanzarote
 - lanzarote paragliding flight
-imagen: /images/actividades/lanzarote/zonas/volcan-rojo.webp
-imagenAlt: A reddish volcano slope in Lanzarote, like those seen from the air
-galeria:
-- src: /images/actividades/lanzarote/zonas/la-graciosa-desde-famara.webp
-  alt: La Graciosa seen from the Famara cliffs
-- src: /images/actividades/lanzarote/zonas/valle-volcanico.webp
-  alt: A volcanic valley in inland Lanzarote
-- src: /images/actividades/lanzarote/zonas/el-golfo-crater.webp
-  alt: The El Golfo crater by the Atlantic
-- src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
-  alt: White houses by the sea in Lanzarote
 ratingProveedor: 4.9
 numeroOpiniones: 205
 atraccionesRelacionadas:
 - volcanes
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/parapente/flz-biplaza-nubes.webp
+imagenAlt: "Tandem paraglider among clouds"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-montanas-colores.webp
+  alt: "Red and ochre volcanic mountains in Timanfaya"
+- src: /images/actividades/lanzarote/parapente/flz-biplaza-cielo-claro.webp
+  alt: "Tandem paraglider flying in a clear sky"
+- src: /images/actividades/lanzarote/famara/flz-risco-famara.webp
+  alt: "Famara cliffs seen from La Caleta de Famara"
+- src: /images/actividades/lanzarote/parapente/flz-dos-velas.webp
+  alt: "Two paragliders flying together"
+- src: /images/actividades/lanzarote/zonas/valle-volcanico.webp
+  alt: "Volcanic valley in Lanzarote"
 ---
 
 ## What you will see

@@ -70,24 +70,30 @@ keywords:
 - betanzos y a coruña excursion
 - torre de hercules excursion
 - a coruña y betanzos tour
-imagen: /images/actividades/santiago-de-compostela/tapas/tortilla.webp
-imagenAlt: Tortilla de patatas gallega
-galeria:
-- src: /images/actividades/santiago-de-compostela/tapas/bar-gallego.webp
-  alt: Barra de un bar gallego
-- src: /images/actividades/santiago-de-compostela/tapas/escaparate.webp
-  alt: Escaparate de productos gallegos
-- src: /images/actividades/santiago-de-compostela/tapas/pulpo.webp
-  alt: Pulpo a la gallega
 ratingProveedor: 4.4
 numeroOpiniones: 49
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/coruna/fsc-torre-hercules-visitantes-breogan.webp
+imagenAlt: "Visitantes en el camino a la Torre de Hércules junto a la estatua de Breogán"
+galeria:
+- src: /images/actividades/santiago-de-compostela/tapas/tortilla.webp
+  alt: "Tortilla de patatas jugosa en la barra de un bar"
+- src: /images/actividades/santiago-de-compostela/coruna/fsc-torre-hercules-costa.webp
+  alt: "La Torre de Hércules sobre la costa de A Coruña"
+- src: /images/actividades/santiago-de-compostela/coruna/fsc-galerias-marina.webp
+  alt: "Galerías acristaladas de la avenida de la Marina en A Coruña"
+- src: /images/actividades/santiago-de-compostela/coruna/fsc-maria-pita-ayuntamiento.webp
+  alt: "Ayuntamiento en la plaza de María Pita, A Coruña"
+- src: /images/actividades/santiago-de-compostela/coruna/fsc-puerto-deportivo.webp
+  alt: "Puerto deportivo de A Coruña con las galerías al fondo"
+- src: /images/actividades/santiago-de-compostela/coruna/fsc-costa-torre-hercules.webp
+  alt: "Costa rocosa con la Torre de Hércules al fondo"
 ---
 
 ## Qué vas a ver

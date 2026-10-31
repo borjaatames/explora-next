@@ -67,26 +67,30 @@ keywords:
 - cata de vino fuerteventura
 - bodega conatvs
 - vino majorero
-imagen: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-imagenAlt: Cabra majorera, de cuya leche se hace el queso majorero
-galeria:
-- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Cabra majorera, base del queso majorero
-- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Papas arrugadas con mojo, cocina canaria
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Volcanes del norte de Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/el-cotillo.webp
-  alt: El Cotillo, en el municipio de La Oliva
 ratingProveedor: 4.8
 numeroOpiniones: 195
 atraccionesRelacionadas:
 - norte
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/vino/cata-tinto.webp
+imagenAlt: "Cata de vinos tintos servidos en jarritas"
+galeria:
+- src: /images/actividades/fuerteventura/bodega/ffv-racimos-uva-vina.webp
+  alt: "Racimos de uva tinta en la viña"
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: "Volcanes del norte de Fuerteventura"
+- src: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
+  alt: "Barricas de vino apiladas en una bodega"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-volcanes-la-oliva.webp
+  alt: "Conos volcánicos en el norte de Fuerteventura"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Copas de vino preparadas para la cata"
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
+  alt: "Quesos curados de distintos tamaños"
 ---
 
 ## Qué vas a ver

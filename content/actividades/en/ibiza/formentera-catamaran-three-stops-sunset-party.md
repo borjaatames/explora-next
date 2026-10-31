@@ -87,30 +87,34 @@ keywords:
 - formentera catamaran open bar
 - ibiza formentera boat trip all inclusive
 - ses illetes boat trip
-imagen: /images/actividades/ibiza/formentera/ses-illetes.webp
-imagenAlt: Ses Illetes beach in Formentera with turquoise water
-galeria:
-- src: /images/actividades/ibiza/crucero-calas/barco-excursion-tobogan.webp
-  alt: Excursion boat with a waterslide anchored at sea
-- src: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
-  alt: The sandy spit of Ses Illetes, Formentera
-- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
-  alt: Paddleboarding on crystal-clear water
-- src: /images/actividades/ibiza/formentera/la-savina.webp
-  alt: Boat in La Savina harbour, Formentera
-- src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-01.webp
-  alt: Party on board a boat in Ibiza
-- src: /images/actividades/ibiza/vedra/es-vedra-puesta-sol.webp
-  alt: Sunset next to Es Vedrà
 ratingProveedor: 4.7
 numeroOpiniones: 1170
 atraccionesRelacionadas:
 - formentera
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/catamaran/fi2-catamaran-fondeado-turquesa.webp
+imagenAlt: "Catamaran anchored in turquoise water"
+galeria:
+- src: /images/actividades/ibiza/formentera/fi2-barcos-fondeados-baleares-aerea.webp
+  alt: "Aerial view of boats anchored between Ibiza and Formentera"
+- src: /images/actividades/ibiza/catamaran/fi2-catamaran-vista-aerea.webp
+  alt: "Catamaran seen from above on clear water"
+- src: /images/actividades/ibiza/formentera/fi2-ses-illetes-lengua-arena.webp
+  alt: "Ses Illetes sandbar with boats anchored on both sides"
+- src: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
+  alt: "Ses Illetes beach, Formentera"
+- src: /images/actividades/ibiza/formentera/migjorn.webp
+  alt: "Migjorn beach, Formentera"
+- src: /images/actividades/ibiza/formentera/la-savina.webp
+  alt: "Fishing boat in La Savina harbour in the late afternoon"
+- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
+  alt: "Sunset over the islets off Ibiza"
+- src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-04.webp
+  alt: "Ibiza bay with sailboats at sunset"
 ---
 
 ## What you will see

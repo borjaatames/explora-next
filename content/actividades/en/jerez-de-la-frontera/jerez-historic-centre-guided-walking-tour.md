@@ -72,26 +72,30 @@ keywords:
 - jerez de la frontera guided tour
 - things to see in jerez old town
 - jerez historic centre tour
-imagen: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-hero.webp
-imagenAlt: Dome of Jerez Cathedral
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
-  alt: Bell tower of Jerez Cathedral
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp
-  alt: Entrance to the Alcázar of Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
-  alt: Jerez Cathedral at night
-- src: /images/actividades/jerez-de-la-frontera/centro/bodega-fachada-hero.webp
-  alt: Façade of a winery in central Jerez
 ratingProveedor: 4.6
 numeroOpiniones: 296
 atraccionesRelacionadas:
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/centro/catedral-fachada-principal.webp
+imagenAlt: "Main facade of Jerez Cathedral"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/centro/esquina-iglesia-historica.webp
+  alt: "Corner of a historic church in Jerez old town"
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.webp
+  alt: "Entrance gate to the Alcazar of Jerez in the Almohad wall"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-fachadas.webp
+  alt: "White and yellow facades with balconies on Calle Larga in Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/fachada-iglesia-historica.webp
+  alt: "Baroque facade of a historic church in Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
+  alt: "Old town street in Jerez with large windows and a terrace"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-yeserias.webp
+  alt: "Decorative plasterwork on a building facade on Calle Larga"
 ---
 
 ## What you will see

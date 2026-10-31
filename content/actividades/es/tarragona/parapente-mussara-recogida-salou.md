@@ -68,24 +68,32 @@ keywords:
 - parapente salou
 - vuelo parapente la mussara
 - parapente biplaza costa dorada
-imagen: /images/actividades/tarragona/quad/prades-atardecer.webp
-imagenAlt: Montañas de Prades, donde se encuentra la Mussara, al atardecer
-galeria:
-- src: /images/actividades/tarragona/quad/prades-siurana.webp
-  alt: Paisaje de montaña del interior de Tarragona
-- src: /images/actividades/tarragona/quad/montsant.webp
-  alt: Sierras del interior de Tarragona vistas desde lo alto
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: Costa de Salou, donde empieza la actividad
 ratingProveedor: 4.9
 numeroOpiniones: 27
 atraccionesRelacionadas:
 - naturaleza
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/parapente/fta-parapente-biplaza-nubes.webp
+imagenAlt: "Parapente biplaza volando entre nubes"
+galeria:
+- src: /images/actividades/tarragona/quad/prades-siurana.webp
+  alt: "Montañas de Prades y valle del interior de Tarragona"
+- src: /images/actividades/tarragona/parapente/fta-piloto-pasajero-biplaza.webp
+  alt: "Piloto y pasajero en un vuelo de parapente biplaza"
+- src: /images/actividades/tarragona/quad/montsant.webp
+  alt: "Vista panorámica de las sierras del interior de Tarragona"
+- src: /images/actividades/tarragona/parapente/fta-parapente-cielo-claro.webp
+  alt: "Parapente biplaza en vuelo"
+- src: /images/actividades/tarragona/parapente/fta-mirador-sierras-interior.webp
+  alt: "Mirador sobre las sierras del interior de Tarragona"
+- src: /images/actividades/tarragona/parapente/fta-dos-parapentes-cielo-azul.webp
+  alt: "Dos parapentes volando en el cielo azul"
+- src: /images/actividades/tarragona/quad/prades-atardecer.webp
+  alt: "Atardecer en las montañas de Prades"
 ---
 
 ## Qué vas a ver

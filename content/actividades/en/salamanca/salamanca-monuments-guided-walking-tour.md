@@ -71,32 +71,34 @@ keywords:
 - salamanca walking tour
 - salamanca monuments tour
 - things to see in salamanca with a guide
-imagen: /images/actividades/salamanca/plaza/plaza-mayor-ayuntamiento.webp
-imagenAlt: Salamanca's Plaza Mayor with the City Hall building
-galeria:
-- src: /images/actividades/salamanca/centro/casa-conchas.webp
-  alt: Façade of the Casa de las Conchas
-- src: /images/actividades/salamanca/centro/clerecia.webp
-  alt: Towers of the Clerecía in Salamanca
-- src: /images/actividades/salamanca/centro/cielo-salamanca.webp
-  alt: The Sky of Salamanca painting
-- src: /images/actividades/salamanca/universidad/patio-escuelas.webp
-  alt: Patio de Escuelas at the University
-- src: /images/actividades/salamanca/catedral/catedrales-exterior.webp
-  alt: Exterior of Salamanca's cathedrals
-- src: /images/actividades/salamanca/plaza/plaza-mayor-soportales.webp
-  alt: Arcades of Salamanca's Plaza Mayor
 ratingProveedor: 4.7
 numeroOpiniones: 93
 atraccionesRelacionadas:
 - plaza-mayor
 - universidad-catedrales
 - casco-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/tour-pie-monumentos/patio-clerecia.webp
+imagenAlt: "Baroque courtyard of the Clerecía with its towers"
+galeria:
+- src: /images/actividades/salamanca/plaza/plaza-mayor-soportales.webp
+  alt: "Salamanca's Plaza Mayor and its arcades"
+- src: /images/actividades/salamanca/centro/casa-conchas.webp
+  alt: "Facade of the Casa de las Conchas"
+- src: /images/actividades/salamanca/universidad/patio-escuelas.webp
+  alt: "Escuelas Menores courtyard at the University of Salamanca"
+- src: /images/actividades/salamanca/centro/cielo-salamanca.webp
+  alt: "The Sky of Salamanca ceiling painting"
+- src: /images/actividades/salamanca/catedral/catedral-vieja.webp
+  alt: "Interior of Salamanca's Old Cathedral"
+- src: /images/actividades/salamanca/catedral/catedral-nueva.webp
+  alt: "Main portal of Salamanca's New Cathedral"
+- src: /images/actividades/salamanca/catedral/catedral-nueva-interior.webp
+  alt: "Central nave of Salamanca's New Cathedral"
 ---
 
 ## What you will see

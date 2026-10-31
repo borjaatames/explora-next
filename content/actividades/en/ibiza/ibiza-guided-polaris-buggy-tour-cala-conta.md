@@ -78,25 +78,31 @@ keywords:
 - buggy ibiza
 - san antonio ibiza buggy
 - cala conta buggy
-imagen: /images/actividades/ibiza/calas/cala-conta.webp
-imagenAlt: Cala Conta on Ibiza's west coast
-galeria:
-- src: /images/actividades/ibiza/calas/cala-conta-islote.webp
-  alt: Islet off Cala Conta
-- src: /images/actividades/ibiza/calas/cala-conta-veleros.webp
-  alt: Sailing boats anchored at Cala Conta
-- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
-  alt: Cliffs on Ibiza's west coast
-- src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
-  alt: Pine woods with Es Vedrà in the background
 ratingProveedor: 4.8
 numeroOpiniones: 116
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/buggy/fi1-buggy-polaris-playa.webp
+imagenAlt: "Polaris buggy parked by the sea"
+galeria:
+- src: /images/actividades/ibiza/buggy/fi1-buggy-pista-tierra-roja.webp
+  alt: "Buggy with a helmeted driver on a red dirt track"
+- src: /images/actividades/ibiza/calas/fi1-cala-conta-playa-islote.webp
+  alt: "Cala Conta beach with its islet just offshore"
+- src: /images/actividades/ibiza/calas/cala-conta-olas.webp
+  alt: "Waves on Cala Conta beach"
+- src: /images/actividades/ibiza/miradores/fi1-mirador-pinos-mar.webp
+  alt: "Viewpoint among pine trees over the sea on the Ibiza coast"
+- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
+  alt: "Cliffs on the west coast of Ibiza"
+- src: /images/actividades/ibiza/buggy/fi1-buggy-camino-costa.webp
+  alt: "Buggy parked on a dirt track by the coast"
+- src: /images/actividades/ibiza/calas/fi1-cala-conta-rocas-agua-clara.webp
+  alt: "Rocks and crystal-clear water at Cala Conta"
 ---
 
 ## What you will see

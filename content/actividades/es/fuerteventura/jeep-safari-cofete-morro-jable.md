@@ -74,28 +74,30 @@ keywords:
 - excursion cofete 4x4
 - como ir a cofete desde morro jable
 - tour playa de cofete
-imagen: /images/actividades/fuerteventura/zonas/cofete-playa.webp
-imagenAlt: Playa de Cofete con el macizo de Jandía detrás
-galeria:
-- src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
-  alt: Vista de Cofete desde el mirador
-- src: /images/actividades/fuerteventura/zonas/cofete-montanas.webp
-  alt: Montañas de Jandía sobre Cofete
-- src: /images/actividades/fuerteventura/zonas/villa-winter.webp
-  alt: La Villa Winter en Cofete
-- src: /images/actividades/fuerteventura/zonas/cofete-cresta.webp
-  alt: Cresta montañosa junto a Cofete
-- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Playa de Morro Jable
 ratingProveedor: 4.5
 numeroOpiniones: 2679
 atraccionesRelacionadas:
 - sur
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/jeep-cofete/ffv-cabras-junto-todoterrenos.webp
+imagenAlt: "Cabras junto a los todoterrenos en una parada del safari por Fuerteventura"
+galeria:
+- src: /images/actividades/fuerteventura/zonas/cofete-cresta.webp
+  alt: "Cresta de las montañas de Jandía sobre Cofete"
+- src: /images/actividades/fuerteventura/cofete/ffv-cofete-1.webp
+  alt: "Playa de Cofete vista desde la montaña"
+- src: /images/actividades/fuerteventura/zonas/villa-winter-ladera.webp
+  alt: "Villa Winter vista desde la pista"
+- src: /images/actividades/fuerteventura/cofete/ffv-cofete-arena-montanas.webp
+  alt: "Arena de Cofete al pie de las montañas de Jandía"
+- src: /images/actividades/fuerteventura/cofete/ffv-cofete-5.webp
+  alt: "Playa de Cofete y la Montaña Aguda"
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: "Playa de Morro Jable"
 ---
 
 ## Qué vas a ver

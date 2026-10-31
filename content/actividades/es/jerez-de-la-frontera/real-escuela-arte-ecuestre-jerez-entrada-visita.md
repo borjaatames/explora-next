@@ -72,26 +72,32 @@ keywords:
 - entradas real escuela ecuestre jerez
 - entrenamiento caballos jerez
 - museo carruajes jerez
-imagen: /images/actividades/cadiz/yeguada/yeguas-pista.webp
-imagenAlt: Yeguas cartujanas en exhibición en pista
-galeria:
-- src: /images/actividades/cadiz/yeguada/jinete-cartujano.webp
-  alt: Jinete sobre un caballo cartujano
-- src: /images/actividades/cadiz/yeguada/enganche.webp
-  alt: Enganche de caballos con carruaje
-- src: /images/actividades/cadiz/yeguada/potros.webp
-  alt: Potros cartujanos
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-jardines-hero.webp
-  alt: Jardines del Alcázar de Jerez
 ratingProveedor: 4.6
 numeroOpiniones: 1038
 atraccionesRelacionadas:
 - caballos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/entrenamiento-doma-pista-exterior.webp
+imagenAlt: "Entrenamiento de doma con caballo y jinete en la pista exterior de la Real Escuela de Jerez"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/doma-pista-exterior-palmeras.webp
+  alt: "Jinete trabajando doma en la pista exterior de la Real Escuela, entre palmeras"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballos-pista-exterior.webp
+  alt: "Caballos y jinetes en la pista exterior frente a las cuadras de la Real Escuela"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-tordo-cuadras.webp
+  alt: "Caballo tordo junto a las cuadras"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/picadero-vacio.webp
+  alt: "Picadero cubierto de la Real Escuela, con sus gradas y ventanas ovaladas"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-pura-raza-espanola-tordo.webp
+  alt: "Caballo de pura raza española de capa torda"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/palacio-recreo-cadenas.webp
+  alt: "Palacio del Recreo de las Cadenas en la Real Escuela Andaluza del Arte Ecuestre"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/jardines-palmeras-real-escuela.webp
+  alt: "Jardines con palmeras junto al palacio de la Real Escuela, en Jerez"
 ---
 
 ## Qué vas a ver

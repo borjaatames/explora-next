@@ -66,29 +66,33 @@ keywords:
 - seville to jerez horse show tour
 - royal andalusian school of equestrian art tour
 - sherry tasting tour from seville
-imagen: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp
-imagenAlt: Equestrian show in Jerez de la Frontera
-galeria:
-- src: /images/actividades/cordoba/ecuestre/espectaculo-doma-caballo-blanco.webp
-  alt: A white horse performing a dressage exercise
-- src: /images/actividades/cordoba/ecuestre/doma-reverencia.webp
-  alt: An Andalusian horse taking a bow
-- src: /images/actividades/cadiz/bodega/botas-arcos.webp
-  alt: Sherry casks under the arches of a Jerez bodega
-- src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp
-  alt: A bodega in Jerez de la Frontera
-- src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
-  alt: Vineyards on white albariza soil around Jerez
 ratingProveedor: 4.4
 numeroOpiniones: 28
 atraccionesRelacionadas:
 - caballos
 - bodegas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/picadero-cubierto-publico.webp
+imagenAlt: "Indoor arena of the Royal Andalusian School of Equestrian Art with spectators in the stands"
+galeria:
+- src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
+  alt: "Vineyards on white albariza soil in the Jerez wine region"
+- src: /images/actividades/cadiz/bodega/calle-bodega.webp
+  alt: "Vine-covered lane between the halls of a Jerez winery"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/botas-viejas.webp
+  alt: "Old oak casks in a winery"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/dos-copas-cata.webp
+  alt: "Two glasses of fortified wine ready for tasting"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/palacio-recreo-cadenas.webp
+  alt: "Recreo de las Cadenas palace at the Royal Andalusian School of Equestrian Art"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-andaluz-jinete-corto.webp
+  alt: "Grey Andalusian horse ridden by a rider in traditional short suit"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/picadero-vacio.webp
+  alt: "Indoor arena of the Royal School, with its stands and oval windows"
 ---
 
 ## What you will see

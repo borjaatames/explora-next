@@ -76,25 +76,31 @@ keywords:
 - tour buggy ibiza
 - buggy todoterreno ibiza
 - excursion off road ibiza
-imagen: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
-imagenAlt: Acantilados de la costa oeste de Ibiza
-galeria:
-- src: /images/actividades/ibiza/vedra/es-vedra-acantilados.webp
-  alt: Acantilados frente a Es Vedrà
-- src: /images/actividades/ibiza/calas/cala-tarida-rocas.webp
-  alt: Rocas y agua clara en Cala Tarida
-- src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
-  alt: Pinar con Es Vedrà al fondo
-- src: /images/actividades/ibiza/calas/cala-dhort-panoramica.webp
-  alt: Vista panorámica de Cala d'Hort
 ratingProveedor: 4.7
 numeroOpiniones: 34
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/buggy/fi1-buggies-todoterreno-ruta.webp
+imagenAlt: "Grupo de buggies todoterreno en ruta por un camino entre árboles"
+galeria:
+- src: /images/actividades/ibiza/buggy/fi1-buggy-pista-tierra-roja.webp
+  alt: "Buggy con piloto y casco por una pista de tierra roja"
+- src: /images/actividades/ibiza/miradores/fi1-mirador-torre-savinar-es-vedra.webp
+  alt: "Torre des Savinar y Es Vedrà desde los acantilados del suroeste de Ibiza"
+- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
+  alt: "Acantilados de la costa oeste de Ibiza"
+- src: /images/actividades/ibiza/buggy/fi1-buggy-camino-costa.webp
+  alt: "Buggy aparcado en un camino de tierra junto a la costa"
+- src: /images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-03.webp
+  alt: "Cala Codolar, en la costa oeste de Ibiza"
+- src: /images/actividades/ibiza/miradores/fi1-acantilados-mar-azul.webp
+  alt: "Acantilados y mar azul vistos desde un mirador"
+- src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
+  alt: "Es Vedrà entre pinos"
 ---
 
 ## Qué vas a ver

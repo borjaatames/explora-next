@@ -77,27 +77,33 @@ keywords:
 - atv tour cambrils
 - quad bike costa dorada
 - salou atv tour hotel pickup
-imagen: /images/actividades/tarragona/quad/quad-pista.webp
-imagenAlt: ATV riding along a dirt track
-galeria:
-- src: /images/actividades/tarragona/quad/quad-camino.webp
-  alt: ATV on a country track
-- src: /images/actividades/tarragona/quad/quad-barro.webp
-  alt: ATV on a muddy dirt section
-- src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: Inland Tarragona mountains at sunset
-- src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: Cap de Salou seen from the coast
 ratingProveedor: 4.6
 numeroOpiniones: 52
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
 precioPorGrupo: true
+imagen: /images/actividades/tarragona/quad-miradores/fta-quads-pista-polvo.webp
+imagenAlt: "Quads kicking up dust on a dirt track"
+galeria:
+- src: /images/actividades/tarragona/quad/prades-siurana.webp
+  alt: "Prades mountains from an inland viewpoint"
+- src: /images/actividades/tarragona/quad-miradores/fta-quad-camino-rocoso.webp
+  alt: "Rider on a quad on a dirt road by rocks"
+- src: /images/actividades/tarragona/quad/montsant.webp
+  alt: "View from a viewpoint over the inland ranges"
+- src: /images/actividades/tarragona/quad-miradores/fta-quad-sendero-matorral.webp
+  alt: "Quad riding a trail through scrubland"
+- src: /images/actividades/tarragona/quad-miradores/fta-quad-camino-bosque.webp
+  alt: "Quad on a forest dirt road"
+- src: /images/actividades/tarragona/quad/prades-atardecer.webp
+  alt: "Sunset over the Prades mountains"
+- src: /images/actividades/tarragona/quad-miradores/fta-grupo-quads-pista.webp
+  alt: "Group of quads on a dirt track"
 ---
 
 ## What you will see

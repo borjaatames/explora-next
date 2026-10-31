@@ -71,28 +71,32 @@ keywords:
 - tour jandia fuerteventura
 - la pared fuerteventura excursion
 - morro jable excursion
-imagen: /images/actividades/fuerteventura/zonas/sotavento-aerea.webp
-imagenAlt: Vista aérea de la playa y la laguna de Sotavento
-galeria:
-- src: /images/actividades/fuerteventura/zonas/sotavento-laguna.webp
-  alt: La laguna de Sotavento en Jandía
-- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: La costa de barlovento de Jandía
-- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable y la playa del Matorral desde la montaña
-- src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
-  alt: El faro de Morro Jable
-- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: El macizo de Jandía con nubes en las cumbres
 ratingProveedor: 4.6
 numeroOpiniones: 150
 atraccionesRelacionadas:
 - sur
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/sotavento/ffv-laguna-sotavento-aerea.webp
+imagenAlt: "Vista aérea de la laguna de la playa de Sotavento"
+galeria:
+- src: /images/actividades/fuerteventura/la-pared/ffv-playa-viejo-rey.webp
+  alt: "Playa del Viejo Rey bajo los acantilados de La Pared"
+- src: /images/actividades/fuerteventura/la-pared/ffv-costa-oeste-oleaje.webp
+  alt: "Oleaje en la costa oeste de Fuerteventura"
+- src: /images/actividades/fuerteventura/sotavento/ffv-laguna-aguas-turquesas.webp
+  alt: "Aguas turquesas y bancos de arena en la costa de Jandía"
+- src: /images/actividades/fuerteventura/sotavento/ffv-playa-sotavento.webp
+  alt: "Playa de Sotavento desde lo alto"
+- src: /images/actividades/fuerteventura/morro-jable/ffv-playa-morro-jable.webp
+  alt: "Playa de Morro Jable"
+- src: /images/actividades/fuerteventura/sotavento/ffv-orilla-sotavento.webp
+  alt: "Orilla de la playa de Sotavento con montañas al fondo"
+- src: /images/actividades/fuerteventura/morro-jable/ffv-faro-morro-jable.webp
+  alt: "Faro de Morro Jable"
 ---
 
 ## Qué vas a ver

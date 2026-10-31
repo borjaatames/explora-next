@@ -74,28 +74,30 @@ keywords:
 - catamaran puerto calero
 - barco papagayo lanzarote
 - excursion catamaran lanzarote
-imagen: /images/actividades/lanzarote/minicrucero-papagayo.webp
-imagenAlt: Catamarán fondeado en una cala de Papagayo
-galeria:
-- src: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
-  alt: Playa de arena dorada y agua tranquila en Papagayo
-- src: /images/actividades/lanzarote/barco-atardecer/banistas-junto-al-barco.webp
-  alt: Bañistas junto a un barco fondeado
-- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
-  alt: Costa sur de Lanzarote hacia Papagayo
-- src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
-  alt: Cala entre rocas en Papagayo
-- src: /images/actividades/lanzarote/zonas/papagayo-orilla.webp
-  alt: Orilla de agua turquesa en Papagayo
 ratingProveedor: 4.8
 numeroOpiniones: 437
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/catamaran/flz-cenital-turquesa.webp
+imagenAlt: "Catamarán visto desde arriba sobre aguas turquesa"
+galeria:
+- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+  alt: "Cala de Papagayo vista desde el acantilado"
+- src: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
+  alt: "Catamarán con redes en la proa visto desde arriba"
+- src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
+  alt: "Playa de Papagayo con cielo de nubes"
+- src: /images/actividades/lanzarote/catamaran/flz-fondeado-aguas-claras.webp
+  alt: "Catamarán fondeado en aguas claras"
+- src: /images/actividades/lanzarote/papagayo/flz-playa-promontorio.webp
+  alt: "Playa de Papagayo bajo su promontorio rocoso"
+- src: /images/actividades/lanzarote/papagayo/flz-acantilados-playa.webp
+  alt: "Acantilados y playa en las Playas de Papagayo"
 ---
 
 ## Qué vas a ver

@@ -72,26 +72,32 @@ keywords:
 - real escuela ecuestre jerez entradas
 - como bailan los caballos andaluces museo
 - caballos jerez de la frontera
-imagen: /images/actividades/cadiz/yeguada/enganche.webp
-imagenAlt: Enganche de caballos cartujanos con carruaje
-galeria:
-- src: /images/actividades/cadiz/yeguada/jinete-cartujano.webp
-  alt: Jinete sobre un caballo cartujano
-- src: /images/actividades/cadiz/yeguada/yeguas-pista.webp
-  alt: Yeguas cartujanas en exhibición en pista
-- src: /images/actividades/cadiz/yeguada/yeguada-cartuja-05.webp
-  alt: Caballos cartujanos en una finca de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-jardines-hero.webp
-  alt: Jardines del Alcázar de Jerez
 ratingProveedor: 4.6
 numeroOpiniones: 1494
 atraccionesRelacionadas:
 - caballos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/picadero-caballo-espectadores.webp
+imagenAlt: "Caballo y jinete en el picadero de la Real Escuela con espectadores en las gradas"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/palacio-recreo-cadenas.webp
+  alt: "Palacio del Recreo de las Cadenas en la Real Escuela Andaluza del Arte Ecuestre"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/jardines-palmeras-real-escuela.webp
+  alt: "Jardines con palmeras junto al palacio de la Real Escuela, en Jerez"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/picadero-cubierto-publico.webp
+  alt: "Picadero cubierto de la Real Escuela Andaluza del Arte Ecuestre con público en las gradas"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-blanco-levada.webp
+  alt: "Caballo blanco alzado sobre las patas traseras"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/enganche-caballos-feria.webp
+  alt: "Enganche de caballos tordos con carruaje engalanado en una feria andaluza"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/picadero-vacio.webp
+  alt: "Picadero cubierto de la Real Escuela, con sus gradas y ventanas ovaladas"
+- src: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-andaluz-jinete-corto.webp
+  alt: "Caballo andaluz tordo montado por un jinete vestido de corto"
 ---
 
 ## Qué vas a ver

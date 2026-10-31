@@ -70,28 +70,32 @@ keywords:
 - betancuria ajuy tour
 - private tour fuerteventura
 - fuerteventura in one day
-imagen: /images/actividades/fuerteventura/zonas/cuevas-de-ajuy.webp
-imagenAlt: Ajuy caves on Fuerteventura's west coast
-galeria:
-- src: /images/actividades/fuerteventura/zonas/betancuria-iglesia.webp
-  alt: Betancuria church
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: A street in Betancuria
-- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Majorero goat, source of the island's cheese
-- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Wrinkled potatoes with green mojo
 ratingProveedor: 4.7
 numeroOpiniones: 885
 atraccionesRelacionadas: []
 avisoReserva: The from-price of €350 is per group of up to 7 people on the private option; the small-group option is paid per person.
 privada: true
 precioPorGrupo: true
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
+imagenAlt: "Ajuy village and its black sand beach"
+galeria:
+- src: /images/actividades/fuerteventura/ajuy/ffv-montana-cerca-ajuy.webp
+  alt: "Inland mountain near Ajuy"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
+  alt: "Betancuria church square with the village behind"
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-finca-aloe-vera-fuerteventura.webp
+  alt: "Aloe vera farm in bloom at the foot of the Fuerteventura mountains"
+- src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
+  alt: "Fresh goat cheese being made in a cheese dairy"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-6.webp
+  alt: "Tree-shaded corner in Betancuria"
+- src: /images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp
+  alt: "Rows of aloe vera in volcanic soil"
 ---
 
 ## What you will see

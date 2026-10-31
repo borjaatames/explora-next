@@ -67,28 +67,34 @@ keywords:
 - santiago cathedral rooftop tour
 - santiago cathedral complete tour
 - santiago cathedral museum and roofs
-imagen: /images/actividades/santiago-de-compostela/catedral/portico-gloria.webp
-imagenAlt: The Portico of Glory in Santiago Cathedral
-galeria:
-- src: /images/actividades/santiago-de-compostela/catedral/portico-pantocrator.webp
-  alt: Christ in Majesty on the Portico of Glory
-- src: /images/actividades/santiago-de-compostela/cubiertas/cubiertas-tejados.webp
-  alt: Stepped stone roofs of the cathedral
-- src: /images/actividades/santiago-de-compostela/cubiertas/obradoiro-desde-arriba.webp
-  alt: Obradoiro Square seen from the rooftops
-- src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
-  alt: Vaults of the cathedral cloister
-- src: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
-  alt: The nave of Santiago Cathedral
 ratingProveedor: 4.5
 numeroOpiniones: 81
 atraccionesRelacionadas:
 - catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/cubiertas/obradoiro-desde-arriba.webp
+imagenAlt: "Obradoiro towers seen from the rooftops of Santiago Cathedral"
+galeria:
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-completa-fachada-obradoiro-plaza.webp
+  alt: "Obradoiro façade of Santiago Cathedral with visitors in the square"
+- src: /images/actividades/santiago-de-compostela/catedral/portico-pantocrator.webp
+  alt: "Christ in Majesty on the Portico of Glory"
+- src: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
+  alt: "Romanesque nave of Santiago Cathedral"
+- src: /images/actividades/santiago-de-compostela/catedral/botafumeiro.webp
+  alt: "The botafumeiro hanging in the cathedral transept"
+- src: /images/actividades/santiago-de-compostela/catedral/claustro.webp
+  alt: "Cloister of Santiago Cathedral, part of the museum"
+- src: /images/actividades/santiago-de-compostela/cubiertas/cubiertas-tejados.webp
+  alt: "Walking on the stone rooftops of the cathedral"
+- src: /images/actividades/santiago-de-compostela/cubiertas/campanas.webp
+  alt: "Bells in one of the cathedral towers"
+- src: /images/actividades/santiago-de-compostela/cubiertas/tejados-ciudad.webp
+  alt: "Rooftops of Santiago's old town from the cathedral roofs"
 ---
 
 ## What you will see

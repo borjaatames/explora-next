@@ -67,28 +67,34 @@ keywords:
 - cubiertas catedral santiago
 - visita completa catedral santiago
 - catedral santiago museo y cubiertas
-imagen: /images/actividades/santiago-de-compostela/catedral/portico-gloria.webp
-imagenAlt: El Pórtico de la Gloria de la catedral de Santiago
-galeria:
-- src: /images/actividades/santiago-de-compostela/catedral/portico-pantocrator.webp
-  alt: Pantocrátor del Pórtico de la Gloria
-- src: /images/actividades/santiago-de-compostela/cubiertas/cubiertas-tejados.webp
-  alt: Tejados escalonados de las cubiertas de la catedral
-- src: /images/actividades/santiago-de-compostela/cubiertas/obradoiro-desde-arriba.webp
-  alt: La plaza del Obradoiro vista desde las cubiertas
-- src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
-  alt: Bóvedas del claustro de la catedral
-- src: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
-  alt: Nave central de la catedral de Santiago
 ratingProveedor: 4.5
 numeroOpiniones: 81
 atraccionesRelacionadas:
 - catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/cubiertas/obradoiro-desde-arriba.webp
+imagenAlt: "Torres del Obradoiro vistas desde las cubiertas de la catedral de Santiago"
+galeria:
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-completa-fachada-obradoiro-plaza.webp
+  alt: "Fachada del Obradoiro de la catedral de Santiago con visitantes en la plaza"
+- src: /images/actividades/santiago-de-compostela/catedral/portico-pantocrator.webp
+  alt: "Pantocrátor del Pórtico de la Gloria"
+- src: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
+  alt: "Nave central románica de la catedral de Santiago"
+- src: /images/actividades/santiago-de-compostela/catedral/botafumeiro.webp
+  alt: "El botafumeiro colgado en el crucero de la catedral"
+- src: /images/actividades/santiago-de-compostela/catedral/claustro.webp
+  alt: "Claustro de la catedral de Santiago, parte del museo"
+- src: /images/actividades/santiago-de-compostela/cubiertas/cubiertas-tejados.webp
+  alt: "Paseo por las cubiertas de piedra de la catedral"
+- src: /images/actividades/santiago-de-compostela/cubiertas/campanas.webp
+  alt: "Campanas de una de las torres de la catedral"
+- src: /images/actividades/santiago-de-compostela/cubiertas/tejados-ciudad.webp
+  alt: "Tejados del casco antiguo de Santiago desde las cubiertas"
 ---
 
 ## Qué vas a ver

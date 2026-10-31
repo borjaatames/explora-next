@@ -71,24 +71,28 @@ keywords:
 - cañon del sil barco
 - catamaran rio sil
 - ribeira sacra tour
-imagen: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
-imagenAlt: Viñedos en Galicia
-galeria:
-- src: /images/actividades/santiago-de-compostela/rias/parras.webp
-  alt: Parras en un viñedo gallego
-- src: /images/actividades/santiago-de-compostela/rias/catamaran-turistico-o-grove.webp
-  alt: Barco turístico en una ría gallega
-- src: /images/actividades/santiago-de-compostela/finisterre/horreo-carnota.webp
-  alt: Hórreo tradicional gallego
 ratingProveedor: 4.4
 numeroOpiniones: 30
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-canon-sil-desde-catamaran.webp
+imagenAlt: "Paredes del cañón del Sil vistas desde el catamarán"
+galeria:
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-mirador-canon-sil.webp
+  alt: "Vista del cañón del Sil desde un mirador"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-meandro-sil.webp
+  alt: "Meandro del río Sil en la Ribeira Sacra"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-vinedos-bancales-sil.webp
+  alt: "Viñedos en bancales sobre el río Sil"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-estela-barco-sil.webp
+  alt: "Estela del barco navegando por el cañón del Sil"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-laderas-ribeira-sacra.webp
+  alt: "Laderas de la Ribeira Sacra sobre el Sil"
 ---
 
 ## Qué vas a ver

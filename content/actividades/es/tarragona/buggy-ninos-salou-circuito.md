@@ -76,24 +76,30 @@ keywords:
 - actividades niños salou
 - karts niños salou
 - que hacer con niños en salou
-imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
-imagenAlt: Buggy en un camino de tierra
-galeria:
-- src: /images/actividades/tarragona/quad/quad-pista.webp
-  alt: Vehículos todoterreno en una pista forestal
-- src: /images/actividades/tarragona/quad/quad-camino.webp
-  alt: Vehículo todoterreno en un camino de tierra
-- src: /images/actividades/tarragona/costa/faro-salou.webp
-  alt: Faro de Salou
 ratingProveedor: 4.8
 numeroOpiniones: 119
 atraccionesRelacionadas:
 - costa
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/buggy-ninos/fta-buggy-amarillo-terreno-arena.webp
+imagenAlt: "Buggy amarillo aparcado en un terreno de arena y matorral"
+galeria:
+- src: /images/actividades/tarragona/buggy-ninos/fta-buggy-conductor-casco.webp
+  alt: "Conductor con casco al volante de un buggy sobre la arena"
+- src: /images/actividades/tarragona/salou/fta-paseo-salou-palmeras-anochecer.webp
+  alt: "Palmeras del paseo marítimo de Salou al anochecer"
+- src: /images/actividades/tarragona/buggy-ninos/fta-buggy-barro-salpicando.webp
+  alt: "Buggy atravesando un charco de barro"
+- src: /images/actividades/tarragona/costa/platja-llarga.webp
+  alt: "Platja Llarga de Salou vista entre pinos"
+- src: /images/actividades/tarragona/buggy-ninos/fta-buggy-pista-tierra-roja.webp
+  alt: "Buggy con conductor con casco en una pista de tierra rojiza"
+- src: /images/actividades/tarragona/costa/faro-salou.webp
+  alt: "Faro de Salou"
 ---
 
 ## Qué vas a ver

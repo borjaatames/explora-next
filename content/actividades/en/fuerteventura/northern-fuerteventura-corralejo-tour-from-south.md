@@ -72,28 +72,30 @@ keywords:
 - corralejo tour from costa calma
 - calderon hondo tour
 - popcorn beach fuerteventura tour
-imagen: /images/actividades/fuerteventura/zonas/dunas-corralejo.webp
-imagenAlt: Corralejo dunes in northern Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/zonas/calderon-hondo-crater.webp
-  alt: Calderón Hondo crater
-- src: /images/actividades/fuerteventura/zonas/el-cotillo.webp
-  alt: El Cotillo coastline
-- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
-  alt: Corralejo bay
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Volcanoes of northern Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp
-  alt: Corralejo dunes by the sea
 ratingProveedor: 4.8
 numeroOpiniones: 1159
 atraccionesRelacionadas:
 - norte
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-4.webp
+imagenAlt: "Afternoon light over the Corralejo Dunes"
+galeria:
+- src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
+  alt: "Isla de Lobos seen from a beach in Corralejo"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-crater-calderon-hondo.webp
+  alt: "Calderón Hondo crater with other volcanoes behind"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-3.webp
+  alt: "Shrubs on the sand of the Corralejo Dunes"
+- src: /images/actividades/fuerteventura/zonas/el-cotillo.webp
+  alt: "El Cotillo coastline"
+- src: /images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp
+  alt: "Old harbour at El Cotillo"
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: "Corralejo bay"
 ---
 
 ## What you will see

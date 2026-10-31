@@ -81,26 +81,30 @@ keywords:
 - jet ski san antonio ibiza
 - jet ski tour no licence
 - margalides islands ibiza
-imagen: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
-imagenAlt: Sant Antoni bay, where the tour starts
-galeria:
-- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
-  alt: Islets off the Ibiza coast
-- src: /images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp
-  alt: Ibiza cove with anchored boats
-- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
-  alt: Sant Antoni harbour
-- src: /images/actividades/ibiza/mar/cueva-marina.webp
-  alt: Sea cave on the coast
 ratingProveedor: 4.6
 numeroOpiniones: 313
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/moto-agua/fi2-motos-agua-junto-islote.webp
+imagenAlt: "Two jet skis riding near an islet"
+galeria:
+- src: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
+  alt: "Sant Antoni bay, the starting point"
+- src: /images/actividades/ibiza/moto-agua/fi2-motos-agua-mar-abierto.webp
+  alt: "Jet skis on the open sea"
+- src: /images/actividades/ibiza/moto-agua/fi2-bahia-sant-antoni-desde-arriba.webp
+  alt: "View of Sant Antoni bay with anchored boats"
+- src: /images/actividades/ibiza/moto-agua/fi2-moto-agua-olas.webp
+  alt: "Helmeted rider on a jet ski in the waves"
+- src: /images/actividades/ibiza/moto-agua/fi2-acantilados-costa-norte.webp
+  alt: "Cliffs on Ibiza's north coast near Cala Salada"
+- src: /images/actividades/ibiza/moto-agua/fi2-moto-agua-estela.webp
+  alt: "Jet ski leaving a trail of foam"
 ---
 
 ## What you will see

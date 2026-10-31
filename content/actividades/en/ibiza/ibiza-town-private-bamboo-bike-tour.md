@@ -68,23 +68,31 @@ keywords:
 - ibiza town by bike
 - private tour ibiza
 - things to see in ibiza town
-imagen: /images/actividades/ibiza/dalt-vila/dalt-vila-ibiza-hero.webp
-imagenAlt: White houses of Dalt Vila, Ibiza's old town
-galeria:
-- src: /images/actividades/ibiza/dalt-vila/dalt-vila-desde-el-puerto.webp
-  alt: Dalt Vila seen from Ibiza harbour
-- src: /images/actividades/ibiza/formentera/ferry-trasmapi-dalt-vila.webp
-  alt: Ibiza harbour with Dalt Vila behind
-- src: /images/actividades/ibiza/ciudades/ibiza-hero.webp
-  alt: View of Ibiza
 ratingProveedor: 4.4
 numeroOpiniones: 54
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/bici/fi2-bicicletas-muro-piedra.webp
+imagenAlt: "Bicycles leaning against a stone wall"
+galeria:
+- src: /images/actividades/ibiza/bici/fi2-murallas-dalt-vila-puerto.webp
+  alt: "Dalt Vila walls with Ibiza harbour behind"
+- src: /images/actividades/ibiza/bici/fi2-rampa-murallas-dalt-vila.webp
+  alt: "Path along the Dalt Vila walls"
+- src: /images/actividades/ibiza/bici/fi2-calle-dalt-vila.webp
+  alt: "Cobbled street in Dalt Vila"
+- src: /images/actividades/ibiza/bici/fi2-catedral-dalt-vila.webp
+  alt: "White houses of Dalt Vila below the cathedral"
+- src: /images/actividades/ibiza/bici/fi2-faro-puerto-ibiza.webp
+  alt: "Ibiza harbour lighthouse with Dalt Vila behind"
+- src: /images/actividades/ibiza/bici/fi2-puerto-casco-antiguo.webp
+  alt: "Ibiza harbour and the old town"
+- src: /images/actividades/ibiza/bici/fi2-dalt-vila-noche-puerto.webp
+  alt: "Dalt Vila lit up at night from the harbour"
 ---
 
 ## What you will see

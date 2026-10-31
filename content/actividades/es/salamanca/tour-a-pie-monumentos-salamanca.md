@@ -71,32 +71,34 @@ keywords:
 - tour a pie salamanca
 - free tour salamanca monumentos
 - que ver en salamanca guia
-imagen: /images/actividades/salamanca/plaza/plaza-mayor-ayuntamiento.webp
-imagenAlt: Plaza Mayor de Salamanca con el edificio del Ayuntamiento
-galeria:
-- src: /images/actividades/salamanca/centro/casa-conchas.webp
-  alt: Fachada de la Casa de las Conchas
-- src: /images/actividades/salamanca/centro/clerecia.webp
-  alt: Torres de la Clerecía de Salamanca
-- src: /images/actividades/salamanca/centro/cielo-salamanca.webp
-  alt: Pintura del Cielo de Salamanca
-- src: /images/actividades/salamanca/universidad/patio-escuelas.webp
-  alt: Patio de Escuelas de la Universidad
-- src: /images/actividades/salamanca/catedral/catedrales-exterior.webp
-  alt: Exterior de las catedrales de Salamanca
-- src: /images/actividades/salamanca/plaza/plaza-mayor-soportales.webp
-  alt: Soportales de la Plaza Mayor de Salamanca
 ratingProveedor: 4.7
 numeroOpiniones: 93
 atraccionesRelacionadas:
 - plaza-mayor
 - universidad-catedrales
 - casco-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/tour-pie-monumentos/patio-clerecia.webp
+imagenAlt: "Patio barroco de la Clerecía con sus torres"
+galeria:
+- src: /images/actividades/salamanca/plaza/plaza-mayor-soportales.webp
+  alt: "Plaza Mayor de Salamanca con sus soportales"
+- src: /images/actividades/salamanca/centro/casa-conchas.webp
+  alt: "Fachada de la Casa de las Conchas"
+- src: /images/actividades/salamanca/universidad/patio-escuelas.webp
+  alt: "Patio de Escuelas Menores de la Universidad de Salamanca"
+- src: /images/actividades/salamanca/centro/cielo-salamanca.webp
+  alt: "Pintura del Cielo de Salamanca"
+- src: /images/actividades/salamanca/catedral/catedral-vieja.webp
+  alt: "Interior de la Catedral Vieja de Salamanca"
+- src: /images/actividades/salamanca/catedral/catedral-nueva.webp
+  alt: "Portada de la Catedral Nueva de Salamanca"
+- src: /images/actividades/salamanca/catedral/catedral-nueva-interior.webp
+  alt: "Nave central de la Catedral Nueva de Salamanca"
 ---
 
 ## Qué vas a ver

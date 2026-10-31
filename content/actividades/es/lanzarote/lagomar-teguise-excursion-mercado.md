@@ -71,26 +71,28 @@ keywords:
 - lagomar lanzarote
 - mercado de teguise domingo
 - casa omar sharif lanzarote
-imagen: /images/actividades/lanzarote/zonas/teguise-plaza.webp
-imagenAlt: Plaza de Teguise, la antigua capital de Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/teguise-calle.webp
-  alt: Calle empedrada de Teguise
-- src: /images/actividades/lanzarote/zonas/casa-tradicional-verde.webp
-  alt: Casa tradicional lanzaroteña con carpintería verde
-- src: /images/actividades/lanzarote/zonas/volcan-malpais.webp
-  alt: Roca volcánica del malpaís de Lanzarote
-- src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
-  alt: Casas blancas tradicionales en Lanzarote
 ratingProveedor: 4.6
 numeroOpiniones: 265
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/lagomar/flz-pared-cuevas.webp
+imagenAlt: "Pared de roca con cuevas y puerta blanca en LagOmar"
+galeria:
+- src: /images/actividades/lanzarote/lagomar/flz-piscina.webp
+  alt: "Piscina de LagOmar rodeada de roca volcánica"
+- src: /images/actividades/lanzarote/lagomar/flz-muros-blancos.webp
+  alt: "Muros blancos y vegetación sobre la roca en LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-tunel-blanco.webp
+  alt: "Túnel blanco excavado en la roca en LagOmar"
+- src: /images/actividades/lanzarote/zonas/teguise-plaza.webp
+  alt: "Plaza de Teguise"
+- src: /images/actividades/lanzarote/zonas/teguise-calle.webp
+  alt: "Calle de Teguise con su iglesia"
 ---
 
 ## Qué vas a ver

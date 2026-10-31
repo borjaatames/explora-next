@@ -66,29 +66,31 @@ keywords:
 - tour a pie santiago de compostela
 - plazas catedral santiago visita
 - santiago old town tour english
-imagen: /images/actividades/santiago-de-compostela/casco/praterias-portada.webp
-imagenAlt: Portada de Platerías de la catedral de Santiago
-galeria:
-- src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
-  alt: Plaza del Obradoiro
-- src: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp
-  alt: La catedral desde la plaza de la Quintana
-- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: Rúa do Franco
-- src: /images/actividades/santiago-de-compostela/cubiertas/tejados-ciudad.webp
-  alt: Tejados del casco histórico de Santiago
-- src: /images/actividades/santiago-de-compostela/catedral/catedral-ciudad.webp
-  alt: La catedral sobre la ciudad
 ratingProveedor: 4.8
 numeroOpiniones: 25
 atraccionesRelacionadas:
 - centro-historico
 - catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/catedral/fsc-ingles-mirador-catedral-tejados.webp
+imagenAlt: "Torres de la catedral de Santiago sobre los tejados, vistas desde un mirador"
+galeria:
+- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
+  alt: "Plaza de Platerías y fachada sur de la catedral"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-praza-obradoiro-alto.webp
+  alt: "Praza do Obradoiro vista desde lo alto"
+- src: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp
+  alt: "Plaza de la Quintana junto a la cabecera de la catedral"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-porta-santa-quintana.webp
+  alt: "Detalle de la Puerta Santa exterior en la Quintana"
+- src: /images/actividades/santiago-de-compostela/casco/praterias-portada.webp
+  alt: "Relieves románicos de la portada de Platerías"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-ingles-catedral-skyline.webp
+  alt: "Silueta de la catedral de Santiago sobre la ciudad"
 ---
 
 ## Qué vas a ver

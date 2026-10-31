@@ -66,29 +66,31 @@ keywords:
 - santiago old town tour
 - santiago cathedral squares tour
 - santiago guided walk
-imagen: /images/actividades/santiago-de-compostela/casco/praterias-portada.webp
-imagenAlt: The Praterías doorway of Santiago Cathedral
-galeria:
-- src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
-  alt: Praza do Obradoiro
-- src: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp
-  alt: The cathedral from Quintana Square
-- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: Rúa do Franco
-- src: /images/actividades/santiago-de-compostela/cubiertas/tejados-ciudad.webp
-  alt: Rooftops of Santiago's old town
-- src: /images/actividades/santiago-de-compostela/catedral/catedral-ciudad.webp
-  alt: The cathedral above the city
 ratingProveedor: 4.8
 numeroOpiniones: 25
 atraccionesRelacionadas:
 - centro-historico
 - catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/catedral/fsc-ingles-mirador-catedral-tejados.webp
+imagenAlt: "Santiago Cathedral towers above the rooftops, seen from a viewpoint"
+galeria:
+- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
+  alt: "Praza das Praterías and the cathedral's south façade"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-praza-obradoiro-alto.webp
+  alt: "Praza do Obradoiro seen from above"
+- src: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp
+  alt: "Praza da Quintana beside the cathedral apse"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-porta-santa-quintana.webp
+  alt: "Detail of the outer Holy Door on Praza da Quintana"
+- src: /images/actividades/santiago-de-compostela/casco/praterias-portada.webp
+  alt: "Romanesque reliefs on the Platerías doorway"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-ingles-catedral-skyline.webp
+  alt: "Skyline of Santiago Cathedral above the city"
 ---
 
 ## What you will see

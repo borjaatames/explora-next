@@ -63,26 +63,30 @@ keywords:
 - entradas palacio monterrey
 - palacio monterrey visita
 - casa de alba salamanca
-imagen: /images/actividades/salamanca/centro/palacio-monterrey.webp
-imagenAlt: Fachada del Palacio de Monterrey en Salamanca
-galeria:
-- src: /images/actividades/salamanca/centro/cielo-salamanca.webp
-  alt: Torres de Salamanca recortadas en el cielo
-- src: /images/actividades/salamanca/centro/clerecia-cupula.webp
-  alt: Cúpula de La Clerecía
-- src: /images/actividades/salamanca/centro/san-esteban.webp
-  alt: Convento de San Esteban
-- src: /images/actividades/salamanca/plaza/plaza-mayor.webp
-  alt: Plaza Mayor de Salamanca
 ratingProveedor: 4.4
 numeroOpiniones: 81
 atraccionesRelacionadas:
 - monumentos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/palacio-monterrey/fachada-palacio-monterrey.webp
+imagenAlt: "Fachada renacentista del Palacio de Monterrey en Salamanca"
+galeria:
+- src: /images/actividades/salamanca/palacio-monterrey/palacio-monterrey-esquina.webp
+  alt: "Palacio de Monterrey visto desde la esquina con su torre"
+- src: /images/actividades/salamanca/palacio-monterrey/torre-palacio-monterrey.webp
+  alt: "Torre del Palacio de Monterrey"
+- src: /images/actividades/salamanca/palacio-monterrey/cresteria-palacio-monterrey.webp
+  alt: "Crestería renacentista del Palacio de Monterrey"
+- src: /images/actividades/salamanca/palacio-monterrey/galeria-palacio-monterrey.webp
+  alt: "Galería de arcos y torre del Palacio de Monterrey"
+- src: /images/actividades/salamanca/palacio-monterrey/grabado-palacio-monterrey-1844.webp
+  alt: "Grabado del Palacio de Monterrey publicado en 1844"
+- src: /images/actividades/salamanca/palacio-monterrey/palacio-monterrey-nocturna.webp
+  alt: "Palacio de Monterrey iluminado de noche"
 ---
 
 ## Qué vas a ver

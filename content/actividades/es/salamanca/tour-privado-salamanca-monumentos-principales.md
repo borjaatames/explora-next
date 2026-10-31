@@ -72,30 +72,34 @@ keywords:
 - guia privado salamanca
 - visita guiada privada salamanca
 - tour salamanca familia
-imagen: /images/actividades/salamanca/universidad/fachada-universidad.webp
-imagenAlt: Fachada de la Universidad de Salamanca
-galeria:
-- src: /images/actividades/salamanca/plaza/plaza-mayor-ayuntamiento.webp
-  alt: Ayuntamiento en la Plaza Mayor de Salamanca
-- src: /images/actividades/salamanca/centro/casa-conchas.webp
-  alt: Casa de las Conchas
-- src: /images/actividades/salamanca/catedral/catedrales-exterior.webp
-  alt: Exterior de las catedrales de Salamanca
-- src: /images/actividades/salamanca/universidad/patio-escuelas.webp
-  alt: Patio de Escuelas de la Universidad
-- src: /images/actividades/salamanca/centro/puente-romano.webp
-  alt: Puente Romano de Salamanca
 ratingProveedor: 4.9
 numeroOpiniones: 35
 atraccionesRelacionadas:
 - plaza-mayor
 - universidad-catedrales
 - casco-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/tour-privado-monumentos/catedrales-salamanca-exterior.webp
+imagenAlt: "Torre y cúpula de las catedrales de Salamanca"
+galeria:
+- src: /images/actividades/salamanca/plaza/plaza-mayor.webp
+  alt: "Plaza Mayor de Salamanca"
+- src: /images/actividades/salamanca/centro/casa-conchas.webp
+  alt: "Fachada de la Casa de las Conchas"
+- src: /images/actividades/salamanca/universidad/fachada-detalle.webp
+  alt: "Detalle de la fachada plateresca de la Universidad"
+- src: /images/actividades/salamanca/tour-privado-monumentos/cupula-clerecia.webp
+  alt: "Cúpula de la Clerecía sobre los tejados de Salamanca"
+- src: /images/actividades/salamanca/catedral/catedral-nueva-torre.webp
+  alt: "Catedral Nueva de Salamanca desde la plaza de Anaya"
+- src: /images/actividades/salamanca/centro/palacio-monterrey.webp
+  alt: "Palacio de Monterrey"
+- src: /images/actividades/salamanca/centro/san-esteban.webp
+  alt: "Claustro del Convento de San Esteban"
 ---
 
 ## Qué vas a ver

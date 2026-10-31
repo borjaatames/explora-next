@@ -76,25 +76,31 @@ keywords:
 - buggy ibiza
 - off road buggy ibiza
 - ibiza off road tour
-imagen: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
-imagenAlt: Cliffs on Ibiza's west coast
-galeria:
-- src: /images/actividades/ibiza/vedra/es-vedra-acantilados.webp
-  alt: Cliffs facing Es Vedrà
-- src: /images/actividades/ibiza/calas/cala-tarida-rocas.webp
-  alt: Rocks and clear water at Cala Tarida
-- src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
-  alt: Pine woods with Es Vedrà in the background
-- src: /images/actividades/ibiza/calas/cala-dhort-panoramica.webp
-  alt: Panoramic view of Cala d'Hort
 ratingProveedor: 4.7
 numeroOpiniones: 34
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/buggy/fi1-buggies-todoterreno-ruta.webp
+imagenAlt: "Group of off-road buggies driving along a tree-lined track"
+galeria:
+- src: /images/actividades/ibiza/buggy/fi1-buggy-pista-tierra-roja.webp
+  alt: "Buggy with a helmeted driver on a red dirt track"
+- src: /images/actividades/ibiza/miradores/fi1-mirador-torre-savinar-es-vedra.webp
+  alt: "Torre des Savinar and Es Vedrà from the south-west cliffs of Ibiza"
+- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
+  alt: "Cliffs on the west coast of Ibiza"
+- src: /images/actividades/ibiza/buggy/fi1-buggy-camino-costa.webp
+  alt: "Buggy parked on a dirt track by the coast"
+- src: /images/actividades/ibiza/cala-codolar/cala-codolar-ibiza-03.webp
+  alt: "Cala Codolar on the west coast of Ibiza"
+- src: /images/actividades/ibiza/miradores/fi1-acantilados-mar-azul.webp
+  alt: "Cliffs and blue sea seen from a viewpoint"
+- src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
+  alt: "Es Vedrà through the pines"
 ---
 
 ## What you will see

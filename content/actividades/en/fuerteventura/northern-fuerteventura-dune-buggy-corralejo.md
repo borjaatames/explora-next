@@ -75,28 +75,32 @@ keywords:
 - fuerteventura dune buggy
 - buggy excursion fuerteventura
 - buggy tour north fuerteventura
-imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
-imagenAlt: A buggy on a track in northern Fuerteventura
-galeria:
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Volcanoes of northern Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp
-  alt: Rim of Calderón Hondo crater in the north
-- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
-  alt: Corralejo bay
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-arena.webp
-  alt: Sand and landscape in the north of the island
 ratingProveedor: 4.5
 numeroOpiniones: 1284
 atraccionesRelacionadas:
 - norte
 avisoReserva: The price is per buggy, not per person. Choose the model (white, red or 4-seat family) when booking.
 precioPorGrupo: true
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/buggy/ffv-buggy-corralejo-polvo.webp
+imagenAlt: "Buggy kicking up dust on a dirt track in Corralejo"
+galeria:
+- src: /images/actividades/fuerteventura/buggy-corralejo.webp
+  alt: "Buggies lined up for the tour"
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: "Volcanoes in the north of Fuerteventura"
+- src: /images/actividades/fuerteventura/buggy/ffv-buggy-saltando-arena.webp
+  alt: "Buggy kicking up sand on a track"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-paisaje.webp
+  alt: "Volcanic landscape from Calderón Hondo"
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: "Corralejo bay"
+- src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
+  alt: "Isla de Lobos seen from a beach in Corralejo"
 ---
 
 ## What you will see

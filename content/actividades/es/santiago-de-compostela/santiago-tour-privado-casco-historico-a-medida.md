@@ -73,19 +73,6 @@ keywords:
 - guia privado santiago de compostela
 - visita guiada privada santiago
 - guia oficial santiago de compostela
-imagen: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
-imagenAlt: Fachada del Obradoiro de la catedral de Santiago
-galeria:
-- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: Rúa do Franco en el casco histórico de Santiago
-- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: Plaza de Platerías
-- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: Plaza de la Quintana junto a la catedral
-- src: /images/actividades/santiago-de-compostela/casco/praza-cervantes.webp
-  alt: Praza de Cervantes
-- src: /images/actividades/santiago-de-compostela/casco/alameda.webp
-  alt: Paseo de la Alameda de Santiago
 ratingProveedor: 4.6
 numeroOpiniones: 62
 atraccionesRelacionadas:
@@ -94,11 +81,26 @@ atraccionesRelacionadas:
 privada: true
 precioPorGrupo: true
 avisoReserva: 'El precio es por grupo: desde 100 € para un grupo de hasta 4 personas. Para grupos de más de 4 personas (hasta 20), consulta el precio al reservar.'
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/catedral/fsc-completa-fachada-obradoiro-plaza.webp
+imagenAlt: "Visitantes en la plaza del Obradoiro ante la fachada de la catedral"
+galeria:
+- src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
+  alt: "Soportales de la rúa do Vilar"
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: "Plaza de la Quintana"
+- src: /images/actividades/santiago-de-compostela/casco/praterias.webp
+  alt: "Fachada de Platerías de la catedral"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-pazo-xelmirez-obradoiro.webp
+  alt: "Pazo de Xelmírez junto a la plaza del Obradoiro"
+- src: /images/actividades/santiago-de-compostela/casco/alameda.webp
+  alt: "Paseo de la Alameda"
+- src: /images/actividades/santiago-de-compostela/casco/mercado-abastos.webp
+  alt: "Mercado de Abastos de Santiago"
 ---
 
 ## Qué vas a ver

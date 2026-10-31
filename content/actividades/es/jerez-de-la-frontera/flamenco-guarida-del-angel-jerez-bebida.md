@@ -61,26 +61,28 @@ keywords:
 - flamenco jerez barrio san miguel
 - espectaculo flamenco jerez entradas
 - tablao flamenco jerez de la frontera
-imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-bailaora-hero.webp
-imagenAlt: Bailaora de flamenco en un tablao de Jerez
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-  alt: Escenario de un tablao flamenco
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: Público disfrutando de un espectáculo flamenco
-- src: /images/actividades/jerez/tabancos/bota-velo-flor.webp
-  alt: Bota de vino de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
-  alt: Catedral de Jerez de noche
 ratingProveedor: 4.7
 numeroOpiniones: 138
 atraccionesRelacionadas:
 - flamenco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-movimiento-escenario.webp
+imagenAlt: "Bailaora de flamenco en movimiento sobre un escenario a oscuras"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/centro/monumento-lola-flores.webp
+  alt: "Monumento a Lola Flores en el barrio de San Miguel de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
+  alt: "Manos de una bailaora sujetando castañuelas"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
+  alt: "Copa de vino ambarino sobre una mesa de madera"
+- src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
+  alt: "Tapas variadas en cazuelas de barro sobre una mesa de madera"
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-noche.webp
+  alt: "Cúpula de la Catedral de Jerez iluminada de noche"
 ---
 
 ## Qué vas a ver

@@ -77,25 +77,31 @@ keywords:
 - quad bike ibiza
 - atv tour ibiza
 - guided quad excursion ibiza
-imagen: /images/actividades/ibiza/calas/cala-tarida-rocas.webp
-imagenAlt: Rocky coast by Cala Tarida, Ibiza
-galeria:
-- src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
-  alt: Es Vedrà through the pines
-- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
-  alt: Cliffs on Ibiza's west coast
-- src: /images/actividades/ibiza/calas/cala-dhort.webp
-  alt: Cala d'Hort
-- src: /images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp
-  alt: A beach bar in Ibiza
 ratingProveedor: 4.7
 numeroOpiniones: 236
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/quad/fi2-quad-junto-al-mar.webp
+imagenAlt: "Quad bike parked on a dirt track by the sea"
+galeria:
+- src: /images/actividades/ibiza/quad/fi2-quad-camino-tierra.webp
+  alt: "Rider on a quad along a dirt track"
+- src: /images/actividades/ibiza/quad/fi2-cala-tarida.webp
+  alt: "View of Cala Tarida on Ibiza's west coast"
+- src: /images/actividades/ibiza/quad/fi2-quad-pinar.webp
+  alt: "Quad on a track through the trees"
+- src: /images/actividades/ibiza/quad/fi2-casetas-pescadores.webp
+  alt: "Fishermen's huts on the Ibiza coast"
+- src: /images/actividades/ibiza/quad/fi2-grupo-quads.webp
+  alt: "Group of quads on a ride"
+- src: /images/actividades/ibiza/quad/fi2-cala-nova.webp
+  alt: "Cala Nova coastline, Ibiza"
+- src: /images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp
+  alt: "Beach bar overlooking an Ibiza cove"
 ---
 
 ## What you will see

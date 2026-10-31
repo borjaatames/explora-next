@@ -74,26 +74,32 @@ keywords:
 - avistamiento delfines fuerteventura
 - excursion barco morro jable
 - esnorquel fuerteventura barco
-imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-imagenAlt: Delfines nadando junto a un barco frente a Morro Jable
-galeria:
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-  alt: Bañistas nadando junto a un barco fondeado
-- src: /images/actividades/fuerteventura/lobos/esnorquel-fondo-rocoso.webp
-  alt: Bañista haciendo esnórquel sobre un fondo rocoso
-- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable y la playa del Matorral desde la montaña
-- src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: La costa de Jandía con el faro al fondo
 ratingProveedor: 4.7
 numeroOpiniones: 1224
 atraccionesRelacionadas:
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/velero/ffv-velero-navegando.webp
+imagenAlt: "Velero navegando con las velas desplegadas"
+galeria:
+- src: /images/actividades/fuerteventura/delfines/ffv-delfines-nadando.webp
+  alt: "Delfines nadando junto a la superficie del mar"
+- src: /images/actividades/fuerteventura/morro-jable/ffv-faro-morro-jable.webp
+  alt: "Faro de Morro Jable"
+- src: /images/actividades/fuerteventura/velero/ffv-velero-mar-azul.webp
+  alt: "Velero escorado sobre el mar"
+- src: /images/actividades/fuerteventura/esnorquel/ffv-esnorquel-fondo-rocoso.webp
+  alt: "Persona haciendo esnórquel sobre un fondo rocoso"
+- src: /images/actividades/fuerteventura/delfines/ffv-calderones-aletas.webp
+  alt: "Grupo de calderones nadando en la superficie"
+- src: /images/actividades/fuerteventura/morro-jable/ffv-catamaranes-playa-morro-jable.webp
+  alt: "Catamaranes de vela en la playa de Morro Jable"
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: "Playa de Morro Jable"
 ---
 
 ## Qué vas a ver

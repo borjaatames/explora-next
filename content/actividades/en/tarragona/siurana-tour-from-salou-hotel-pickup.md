@@ -72,22 +72,32 @@ keywords:
 - siurana medieval village
 - excursions from salou
 - day trips near salou
-imagen: /images/actividades/tarragona/quad/prades-siurana.webp
-imagenAlt: Prades mountains and Siurana
-galeria:
-- src: /images/actividades/tarragona/quad/montsant.webp
-  alt: Cornudella de Montsant and the Prades mountains
-- src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: The Prades mountains at sunset
 ratingProveedor: 4.8
 numeroOpiniones: 327
 atraccionesRelacionadas:
 - naturaleza
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/tarragona/siurana/fta-iglesia-santa-maria-siurana-pantano.webp
+imagenAlt: "Santa Maria church in Siurana on the cliff above the reservoir"
+galeria:
+- src: /images/actividades/tarragona/siurana/fta-pantano-siurana-nublado.webp
+  alt: "Siurana reservoir among mountains on a cloudy day"
+- src: /images/actividades/tarragona/siurana/fta-casas-piedra-campanario-siurana.webp
+  alt: "Stone houses and bell tower in the village of Siurana"
+- src: /images/actividades/tarragona/siurana/fta-calle-empedrada-siurana.webp
+  alt: "Cobbled street with stone houses in Siurana"
+- src: /images/actividades/tarragona/siurana/fta-pantano-iglesia-siurana.webp
+  alt: "Romanesque church of Siurana with the reservoir behind"
+- src: /images/actividades/tarragona/siurana/fta-ruinas-castillo-siurana.webp
+  alt: "Remains of Siurana castle on the cliff edge"
+- src: /images/actividades/tarragona/siurana/fta-panoramica-siurana.webp
+  alt: "Panorama of Siurana village on its rock"
+- src: /images/actividades/tarragona/siurana/fta-acantilados-siurana.webp
+  alt: "Cliffs and forests around Siurana"
 ---
 
 ## What you will see

@@ -69,29 +69,31 @@ keywords:
 - tour nocturno santiago de compostela
 - leyendas santiago de compostela
 - cena gallega santiago
-imagen: /images/actividades/santiago-de-compostela/tapas/pulpo.webp
-imagenAlt: Pulpo a la gallega
-galeria:
-- src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: Rúa do Vilar en el casco histórico
-- src: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp
-  alt: La catedral desde la Quintana
-- src: /images/actividades/santiago-de-compostela/tapas/bar-gallego.webp
-  alt: Barra de un bar gallego
-- src: /images/actividades/santiago-de-compostela/tapas/mejillones.webp
-  alt: Mejillones gallegos
-- src: /images/actividades/santiago-de-compostela/tapas/queso-tetilla.webp
-  alt: Queso tetilla
 ratingProveedor: 4.9
 numeroOpiniones: 26
 atraccionesRelacionadas:
 - gastronomia
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/noche/fsc-queimada-llama-azul.webp
+imagenAlt: "Queimada ardiendo con llama azul en su cuenco de barro"
+galeria:
+- src: /images/actividades/santiago-de-compostela/noche/fsc-obradoiro-cielo-atardecer.webp
+  alt: "Fachada del Obradoiro bajo un cielo rojizo de atardecer"
+- src: /images/actividades/santiago-de-compostela/noche/fsc-catedral-arco-blanco-negro.webp
+  alt: "La catedral de Santiago enmarcada por un arco en penumbra"
+- src: /images/actividades/santiago-de-compostela/tapas/pulpo.webp
+  alt: "Pulpo a la gallega con pimentón"
+- src: /images/actividades/santiago-de-compostela/tapas/pimientos-padron.webp
+  alt: "Plato de pimientos de Padrón"
+- src: /images/actividades/santiago-de-compostela/tapas/mejillones.webp
+  alt: "Mejillones gallegos en cazuela de barro"
+- src: /images/actividades/santiago-de-compostela/noche/fsc-queimada-cuenco-naranja.webp
+  alt: "Cuenco de queimada con cáscaras de naranja y granos de café"
 ---
 
 ## Qué vas a ver

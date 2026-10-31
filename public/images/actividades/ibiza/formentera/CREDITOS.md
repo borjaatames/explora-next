@@ -18,3 +18,13 @@ Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `ibiza-formentera-05.webp` — Foto del proveedor de la actividad, del catálogo de Bókun
 - `ferry-rapido-llegando-ibiza.webp` — Charles from Port Chester, New York · CC BY 2.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Fast_ferry_from_the_island_Formentera_arriving_at_the_port_of_Ibiza,_Illes_Balears,_Espa%C3%B1a_(53986551152).jpg
 - `ferry-trasmapi-dalt-vila.webp` — Ericxx19 · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Castavi_jet.jpg
+- `fi2-barcos-fondeados-baleares-aerea.webp` — Pedro  Slinger, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/aerial-view-of-boats-in-balearic-islands-waters-33838878/) · recortada a 1600×1200
+- `fi2-ses-illetes-lengua-arena.webp` — ionut dobre, Licencia Unsplash, vía Unsplash (https://unsplash.com/photos/narrow-sandy-land-bridge-between-turquoise-waters-with-boats-qoAR4wuNC_k) · recortada a 1600×1200
+- `fi2-ses-illetes-aerea.webp` — Pedro  Slinger, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/aerial-view-of-idyllic-shores-in-formentera-spain-33838897/) · recortada a 1600×1200
+- `fi2-bano-aguas-formentera.webp` — Domenico Bandiera, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/people-swimming-in-the-beach-5096831/) · recortada a 1600×1200
+- `fi1-barcos-fondeados-espalmador-illetes.webp` — Pedro  Slinger, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/aerial-view-of-boats-in-balearic-islands-waters-33838878/) · recortada a 1600×1200
+- `fi1-ses-illetes-aereo.webp` — ionut dobre, Licencia Unsplash, vía Unsplash (https://unsplash.com/photos/narrow-sandy-land-bridge-between-turquoise-waters-with-boats-qoAR4wuNC_k) · recortada a 1600×1200
+- `fi1-es-calo-varaderos-aereo.webp` — Andreas Geissler, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/aerial-view-of-es-calo-de-sant-agusti-coastal-area-37330772/) · recortada a 1600×1200
+- `fi1-ciclistas-camino-dunas.webp` — Rachel Claire, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/people-riding-bicycle-on-the-road-6762334/) · recortada a 1600×1200
+- `fi1-lagartija-pitiusa.webp` — Gerhard_Romero, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/lizard-reptile-ibiza-formentera-7958131/) · recortada a 1600×1200
+- `fi1-bicis-junto-dunas.webp` — Bogdan Dada, Licencia Unsplash, vía Unsplash (https://unsplash.com/photos/four-assorted-color-commuter-bikes-near-hill-at-daytime-yoxSzcRuGzU) · recortada a 1600×1200

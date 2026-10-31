@@ -74,23 +74,29 @@ keywords:
 - jardin botanico ibiza
 - que hacer en ibiza con niños
 - piano de plantas ibiza
-imagen: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
-imagenAlt: Pinar mediterráneo de Ibiza con Es Vedrà al fondo
-galeria:
-- src: /images/actividades/ibiza/calas/cala-bassa-pinos.webp
-  alt: Pinos junto al mar en Cala Bassa
-- src: /images/actividades/ibiza/mar/posidonia.webp
-  alt: Pradera de posidonia, planta marina de Baleares
-- src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
-  alt: Vegetación sobre los acantilados del oeste de Ibiza
 ratingProveedor: 4.6
 numeroOpiniones: 38
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/bibo-park/fi1-piano-plantas-bibo-park.webp
+imagenAlt: "Piano de plantas bajo una cúpula de madera en el BiBo Park de Ibiza"
+galeria:
+- src: /images/actividades/ibiza/bibo-park/fi1-fotobiorreactor-bibo-park.webp
+  alt: "Fotobiorreactor de microalgas en el BiBo Park de Ibiza"
+- src: /images/actividades/ibiza/bibo-park/fi1-olivo-jardin-mediterraneo.webp
+  alt: "Olivo centenario en un jardín de plantas mediterráneas"
+- src: /images/actividades/ibiza/bibo-park/fi1-romero-en-flor.webp
+  alt: "Romero en flor, planta típica del monte mediterráneo"
+- src: /images/actividades/ibiza/bibo-park/fi1-plantas-suculentas.webp
+  alt: "Plantas suculentas de tallo columnar en un jardín"
+- src: /images/actividades/ibiza/bibo-park/fi1-ramas-romero.webp
+  alt: "Ramas de romero en primer plano"
+- src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
+  alt: "Es Vedrà entre pinos"
 ---
 
 ## Qué vas a ver

@@ -77,31 +77,31 @@ keywords:
 - tour lanzarote dia completo
 - excursion el golfo lanzarote
 - excursiones lanzarote con recogida
-imagen: /images/actividades/lanzarote/timanfaya-jameos.webp
-imagenAlt: Paisaje volcánico de Timanfaya, una de las paradas de la excursión
-galeria:
-- src: /images/actividades/lanzarote/zonas/el-golfo-charco-clicos.webp
-  alt: El Charco de los Clicos, la laguna verde de El Golfo
-- src: /images/actividades/lanzarote/zonas/timanfaya-montanas-del-fuego.webp
-  alt: Montañas del Fuego en el Parque Nacional de Timanfaya
-- src: /images/actividades/lanzarote/zonas/ruta-volcanes.webp
-  alt: Carretera de la Ruta de los Volcanes en Timanfaya
-- src: /images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp
-  alt: Caravana de camellos en las laderas de Timanfaya
-- src: /images/actividades/lanzarote/zonas/jameos-lago-interior.webp
-  alt: Lago interior de los Jameos del Agua
-- src: /images/actividades/lanzarote/zonas/jameos-piscina.webp
-  alt: Piscina de los Jameos del Agua
 ratingProveedor: 4.5
 numeroOpiniones: 2063
 atraccionesRelacionadas:
 - timanfaya
 - jameos-cueva
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
+imagenAlt: "Paisaje del Parque Nacional de Timanfaya con el mar al fondo"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
+  alt: "Colada de lava solidificada en Timanfaya"
+- src: /images/actividades/lanzarote/el-golfo/flz-charco-clicos.webp
+  alt: "Charco de los Clicos en El Golfo, con su laguna verde"
+- src: /images/actividades/lanzarote/el-golfo/flz-laguna-playa-negra.webp
+  alt: "Laguna verde y playa de arena negra en El Golfo"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
+  alt: "Piscina turquesa de los Jameos del Agua"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-lago-reflejo.webp
+  alt: "Lago interior de los Jameos del Agua reflejando el cielo"
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-palmeras.webp
+  alt: "Piscina blanca y palmeras en los Jameos del Agua"
 ---
 
 ## Qué vas a ver

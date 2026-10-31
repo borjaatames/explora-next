@@ -70,29 +70,31 @@ keywords:
 - salamanca private tour
 - fonseca college salamanca visit
 - private guide salamanca
-imagen: /images/actividades/salamanca/universidad/fachada-detalle.webp
-imagenAlt: Detail of the University of Salamanca's Plateresque façade
-galeria:
-- src: /images/actividades/salamanca/universidad/biblioteca.webp
-  alt: Historic library of the University of Salamanca
-- src: /images/actividades/salamanca/universidad/universidad-salamanca-patio-claustro-pozo-hero.webp
-  alt: Cloister with a well at the University of Salamanca
-- src: /images/actividades/salamanca/universidad/patio-escuelas.webp
-  alt: Patio de Escuelas at the University
-- src: /images/actividades/salamanca/universidad/escuelas-menores.webp
-  alt: Escuelas Menores of the University of Salamanca
-- src: /images/actividades/salamanca/centro/huerto-calixto.webp
-  alt: Huerto de Calixto y Melibea garden in Salamanca
 ratingProveedor: 4.7
 numeroOpiniones: 20
 atraccionesRelacionadas:
 - universidad-catedrales
 - monumentos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/universidad/biblioteca.webp
+imagenAlt: "Historic library of the University of Salamanca"
+galeria:
+- src: /images/actividades/salamanca/universidad/fachada-universidad.webp
+  alt: "Plateresque facade of the University of Salamanca"
+- src: /images/actividades/salamanca/universidad/medallon-reyes.webp
+  alt: "Catholic Monarchs medallion on the facade"
+- src: /images/actividades/salamanca/universidad/biblioteca-interior.webp
+  alt: "Inner doorway leading to the library"
+- src: /images/actividades/salamanca/universidad/biblioteca-estanterias.webp
+  alt: "Shelves and globes in the historic library"
+- src: /images/actividades/salamanca/universidad/patio-escuelas.webp
+  alt: "Escuelas Menores courtyard"
+- src: /images/actividades/salamanca/universidad/escuelas-menores.webp
+  alt: "Escuelas Menores cloister"
 ---
 
 ## What you will see

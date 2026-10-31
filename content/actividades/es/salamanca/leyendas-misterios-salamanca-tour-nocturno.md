@@ -72,28 +72,30 @@ keywords:
 - tour nocturno salamanca
 - ruta de misterio salamanca
 - cueva de salamanca visita
-imagen: /images/actividades/salamanca/noche/plaza-mayor-noche.webp
-imagenAlt: Plaza Mayor de Salamanca iluminada de noche
-galeria:
-- src: /images/actividades/salamanca/noche/cueva-salamanca.webp
-  alt: Cueva de Salamanca
-- src: /images/actividades/salamanca/centro/huerto-calixto.webp
-  alt: Huerto de Calixto y Melibea
-- src: /images/actividades/salamanca/noche/torre-clavero.webp
-  alt: Torre del Clavero
-- src: /images/actividades/salamanca/centro/calle-noche.webp
-  alt: Calle del centro de Salamanca de noche
-- src: /images/actividades/salamanca/noche/plaza-mayor-soportales-noche.webp
-  alt: Soportales de la Plaza Mayor de noche
 ratingProveedor: 4.8
 numeroOpiniones: 32
 atraccionesRelacionadas:
 - casco-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/salamanca/centro/calle-noche.webp
+imagenAlt: "Calle del casco antiguo de Salamanca de noche con una torre iluminada al fondo"
+galeria:
+- src: /images/actividades/salamanca/noche/plaza-mayor-noche-gente.webp
+  alt: "Plaza Mayor de Salamanca iluminada por la noche"
+- src: /images/actividades/salamanca/noche/plaza-mayor-soportales-noche.webp
+  alt: "Soportales de la Plaza Mayor de Salamanca de noche"
+- src: /images/actividades/salamanca/leyendas-nocturno/palacio-monterrey-noche.webp
+  alt: "Palacio de Monterrey iluminado de noche"
+- src: /images/actividades/salamanca/catedral/catedral-desde-clerecia.webp
+  alt: "Catedrales de Salamanca iluminadas al anochecer"
+- src: /images/actividades/salamanca/leyendas-nocturno/cresteria-monterrey-noche.webp
+  alt: "Torre y crestería del Palacio de Monterrey de noche"
+- src: /images/actividades/salamanca/centro/puente-romano-noche.webp
+  alt: "Puente romano de Salamanca iluminado de noche"
 ---
 
 ## Qué vas a ver

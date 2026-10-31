@@ -69,29 +69,33 @@ keywords:
 - jerez tabanco tour
 - sherry and tapas tour jerez
 - tabancos jerez de la frontera
-imagen: /images/actividades/jerez/tabancos/tabanco-la-pandilla.webp
-imagenAlt: Inside a tabanco in Jerez de la Frontera
-galeria:
-- src: /images/actividades/jerez/tabancos/tabanco-arco-ladrillo.webp
-  alt: A tabanco with a brick arch in Jerez
-- src: /images/actividades/jerez/tabancos/tabanco-bota-firmada.webp
-  alt: A signed cask in a Jerez tabanco
-- src: /images/actividades/jerez/tabancos/bota-velo-flor.webp
-  alt: A sherry cask showing the flor yeast layer
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
-  alt: Bell tower of Jerez Cathedral
-- src: /images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp
-  alt: Glasses of sherry at a tasting
 ratingProveedor: 4.5
 numeroOpiniones: 175
 atraccionesRelacionadas:
 - bodegas
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez/tabancos/tabanco-bota-firmada.webp
+imagenAlt: "Signed sherry cask in a busy Jerez tabanco"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-terrazas.webp
+  alt: "Terraces and yellow facades on Calle Larga in Jerez"
+- src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
+  alt: "Assorted tapas in clay dishes on a wooden table"
+- src: /images/actividades/jerez/tabancos/bota-velo-flor.webp
+  alt: "Open sherry cask showing the flor yeast layer on the wine"
+- src: /images/actividades/jerez-de-la-frontera/tapas/aceitunas-alinadas.webp
+  alt: "Marinated olives, a typical Andalusian tapa"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
+  alt: "Glass of amber wine on a wooden table"
+- src: /images/actividades/jerez-de-la-frontera/tapas/tosta-lomo.webp
+  alt: "Pork loin toast, a common tapa in Cádiz province"
+- src: /images/actividades/jerez-de-la-frontera/tapas/croquetas-caseras.webp
+  alt: "Freshly fried homemade croquettes"
 ---
 
 ## What you will see

@@ -76,25 +76,29 @@ keywords:
 - tour fuerteventura un dia
 - mirador sicasumbre excursion
 - tour interior fuerteventura
-imagen: /images/actividades/fuerteventura/zonas/cuevas-de-ajuy.webp
-imagenAlt: Cuevas de Ajuy junto al mar
-galeria:
-- src: /images/actividades/fuerteventura/zonas/betancuria-calle.webp
-  alt: Calle de Betancuria
-- src: /images/actividades/fuerteventura/zonas/betancuria-iglesia.webp
-  alt: Iglesia de Betancuria
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo.webp
-  alt: Dunas de Corralejo
-- src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: Montañas del sur de Fuerteventura
 ratingProveedor: 4.7
 numeroOpiniones: 269
 atraccionesRelacionadas: []
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/ajuy/ffv-interior-cueva-ajuy.webp
+imagenAlt: "Visitante dentro de una de las cuevas de Ajuy"
+galeria:
+- src: /images/actividades/fuerteventura/betancuria/ffv-puerta-municipio-betancuria.webp
+  alt: "Monumento de entrada al municipio de Betancuria"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-1.webp
+  alt: "Iglesia de Santa María y plaza de Betancuria"
+- src: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
+  alt: "Pueblo de Ajuy y su playa de arena negra"
+- src: /images/actividades/fuerteventura/ajuy/ffv-caleta-negra-ajuy.webp
+  alt: "Caleta Negra y las cuevas de Ajuy"
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-4.webp
+  alt: "Jardín junto a la iglesia de Betancuria"
+- src: /images/actividades/fuerteventura/zonas/via-lactea-fuerteventura.webp
+  alt: "Vía Láctea sobre Fuerteventura"
 ---
 
 ## Qué vas a ver

@@ -71,26 +71,32 @@ keywords:
 - salinas de janubio visita guiada
 - que ver en yaiza lanzarote
 - flor de sal lanzarote
-imagen: /images/actividades/lanzarote/zonas/los-hervideros.webp
-imagenAlt: Costa volcánica de Los Hervideros, junto a las Salinas de Janubio
-galeria:
-- src: /images/actividades/lanzarote/zonas/los-hervideros-cueva.webp
-  alt: Cuevas de lava batidas por el mar en Los Hervideros
-- src: /images/actividades/lanzarote/zonas/el-golfo-charco-clicos.webp
-  alt: Charco de los Clicos en El Golfo
-- src: /images/actividades/lanzarote/zonas/el-golfo-crater.webp
-  alt: Cráter de El Golfo junto al mar
-- src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
-  alt: Casas blancas junto al mar en Lanzarote
 ratingProveedor: 4.7
 numeroOpiniones: 316
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/salinas-de-janubio/flz-vista-aerea.webp
+imagenAlt: "Vista aérea de las Salinas de Janubio junto a la laguna"
+galeria:
+- src: /images/actividades/lanzarote/salinas-de-janubio/flz-estatua-salineros.webp
+  alt: "Escultura de salineros junto a las Salinas de Janubio"
+- src: /images/actividades/lanzarote/salinas-de-janubio/flz-cuadriculas-laguna.webp
+  alt: "Cuadrículas de las salinas junto al agua de la laguna de Janubio"
+- src: /images/actividades/lanzarote/salinas-de-janubio/flz-estanques.webp
+  alt: "Estanques de evaporación de las Salinas de Janubio"
+- src: /images/actividades/lanzarote/salinas-de-janubio/flz-cristalizadores.webp
+  alt: "Cristalizadores de sal con muros de piedra volcánica"
+- src: /images/actividades/lanzarote/salinas-de-janubio/flz-canal-agua.webp
+  alt: "Canal de agua entre las balsas de las Salinas de Janubio"
+- src: /images/actividades/lanzarote/salinas-de-janubio/flz-panoramica.webp
+  alt: "Panorámica de las Salinas de Janubio y su laguna"
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: "Los Hervideros, acantilados de lava junto al mar"
 ---
 
 ## Qué vas a ver

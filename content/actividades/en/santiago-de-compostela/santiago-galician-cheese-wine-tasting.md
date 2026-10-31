@@ -68,28 +68,30 @@ keywords:
 - galician cheese tasting
 - cheese and wine santiago
 - food experiences santiago de compostela
-imagen: /images/actividades/santiago-de-compostela/tapas/queso-tetilla.webp
-imagenAlt: Galician tetilla cheese
-galeria:
-- src: /images/actividades/santiago-de-compostela/rias/bodega-fefinans-barricas.webp
-  alt: Barrels in a Galician winery
-- src: /images/actividades/santiago-de-compostela/tapas/bar-gallego.webp
-  alt: Inside a bar in Santiago
-- src: /images/actividades/santiago-de-compostela/tapas/escaparate.webp
-  alt: Shop window with Galician produce in Santiago
-- src: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
-  alt: Albariño vineyards in Galicia
-- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: Rúa do Franco, the old town's bar street
 ratingProveedor: 4.8
 numeroOpiniones: 56
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/tapas/queso-tetilla.webp
+imagenAlt: "Galician tetilla cheese with protected designation of origin"
+galeria:
+- src: /images/actividades/santiago-de-compostela/tapas/fsc-cata-quesos-curados-surtido.webp
+  alt: "Assortment of aged cheeses of various sizes"
+- src: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
+  alt: "Albariño vineyards in the Rías Baixas"
+- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
+  alt: "Rúa do Franco, a street of bars and restaurants in Santiago's old town"
+- src: /images/actividades/santiago-de-compostela/rias/parras.webp
+  alt: "Grapevines trained on granite pillars in Galicia"
+- src: /images/actividades/santiago-de-compostela/tapas/bar-gallego.webp
+  alt: "Inside a traditional Galician bar with barrels"
+- src: /images/actividades/santiago-de-compostela/rias/vendimia-albarino-cambados.webp
+  alt: "Crates of freshly harvested Albariño grapes"
 ---
 
 ## What you will see

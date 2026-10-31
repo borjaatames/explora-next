@@ -72,26 +72,30 @@ keywords:
 - visita guiada jerez
 - que ver en jerez centro historico
 - tour a pie jerez
-imagen: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-hero.webp
-imagenAlt: Cúpula de la catedral de Jerez
-galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
-  alt: Campanario de la catedral de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp
-  alt: Entrada al Alcázar de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-nocturna-hero.webp
-  alt: La catedral de Jerez de noche
-- src: /images/actividades/jerez-de-la-frontera/centro/bodega-fachada-hero.webp
-  alt: Fachada de una bodega en el centro de Jerez
 ratingProveedor: 4.6
 numeroOpiniones: 296
 atraccionesRelacionadas:
 - centro
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/jerez-de-la-frontera/centro/catedral-fachada-principal.webp
+imagenAlt: "Fachada principal de la Catedral de Jerez"
+galeria:
+- src: /images/actividades/jerez-de-la-frontera/centro/esquina-iglesia-historica.webp
+  alt: "Esquina de una iglesia histórica en el casco antiguo de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.webp
+  alt: "Puerta de entrada al Alcázar de Jerez en la muralla almohade"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-fachadas.webp
+  alt: "Fachadas blancas y amarillas con balcones en la calle Larga de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/fachada-iglesia-historica.webp
+  alt: "Fachada barroca de una iglesia histórica de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
+  alt: "Calle del casco antiguo de Jerez con ventanales y terraza"
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-yeserias.webp
+  alt: "Yeserías decorativas en la fachada de un edificio de la calle Larga"
 ---
 
 ## Qué vas a ver

@@ -71,24 +71,28 @@ keywords:
 - sil canyon boat trip
 - ribeira sacra tour
 - sil river cruise
-imagen: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
-imagenAlt: Vineyards in Galicia
-galeria:
-- src: /images/actividades/santiago-de-compostela/rias/parras.webp
-  alt: Vines in a Galician vineyard
-- src: /images/actividades/santiago-de-compostela/rias/catamaran-turistico-o-grove.webp
-  alt: Tourist boat on a Galician estuary
-- src: /images/actividades/santiago-de-compostela/finisterre/horreo-carnota.webp
-  alt: Traditional Galician granary
 ratingProveedor: 4.4
 numeroOpiniones: 30
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-canon-sil-desde-catamaran.webp
+imagenAlt: "Walls of the Sil canyon seen from the catamaran"
+galeria:
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-mirador-canon-sil.webp
+  alt: "View of the Sil canyon from a viewpoint"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-meandro-sil.webp
+  alt: "Meander of the River Sil in the Ribeira Sacra"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-vinedos-bancales-sil.webp
+  alt: "Terraced vineyards above the River Sil"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-estela-barco-sil.webp
+  alt: "Boat wake while cruising the Sil canyon"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-laderas-ribeira-sacra.webp
+  alt: "Ribeira Sacra hillsides above the Sil"
 ---
 
 ## What you will see

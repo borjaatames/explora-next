@@ -69,28 +69,30 @@ keywords:
 - santiago cathedral museum tickets
 - santiago cathedral skip the line
 - santiago de compostela cathedral tour
-imagen: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
-imagenAlt: The nave of Santiago de Compostela Cathedral
-galeria:
-- src: /images/actividades/santiago-de-compostela/catedral/altar-mayor.webp
-  alt: High altar of Santiago Cathedral
-- src: /images/actividades/santiago-de-compostela/catedral/claustro.webp
-  alt: Cloister of Santiago Cathedral
-- src: /images/actividades/santiago-de-compostela/catedral/botafumeiro.webp
-  alt: The botafumeiro inside the cathedral
-- src: /images/actividades/santiago-de-compostela/catedral/cupula.webp
-  alt: Dome over the cathedral crossing
-- src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
-  alt: The Obradoiro facade of the cathedral
 ratingProveedor: 4.7
 numeroOpiniones: 569
 atraccionesRelacionadas:
 - catedral
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/santiago-de-compostela/catedral/altar-mayor.webp
+imagenAlt: "Baroque high altar of Santiago Cathedral"
+galeria:
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-obradoiro-visitantes.webp
+  alt: "Visitors in Praza do Obradoiro in front of Santiago Cathedral"
+- src: /images/actividades/santiago-de-compostela/catedral/tribuna.webp
+  alt: "Romanesque gallery above the cathedral nave"
+- src: /images/actividades/santiago-de-compostela/catedral/botafumeiro-vuelo.webp
+  alt: "Tiraboleiros swinging the botafumeiro in the cathedral"
+- src: /images/actividades/santiago-de-compostela/catedral/cupula.webp
+  alt: "Dome over the transept of Santiago Cathedral"
+- src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
+  alt: "Gothic vaults of the cathedral cloister"
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-timpano-praterias.webp
+  alt: "Romanesque tympanum on the Platerías façade of the cathedral"
 ---
 
 ## What you will see

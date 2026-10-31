@@ -81,31 +81,33 @@ keywords:
 - salamanca desde madrid en un dia
 - tour avila salamanca grupo reducido
 - excursion salamanca desde madrid
-imagen: /images/actividades/salamanca/universidad/fachada-universidad.webp
-imagenAlt: Fachada plateresca de la Universidad de Salamanca
-galeria:
-- src: /images/actividades/salamanca/catedral/catedral-nueva.webp
-  alt: Catedral Nueva de Salamanca
-- src: /images/actividades/avila/avila/avila-panoramica-hero.webp
-  alt: Vista panorámica de Ávila y sus murallas
-- src: /images/actividades/salamanca/plaza/plaza-mayor.webp
-  alt: Plaza Mayor de Salamanca
-- src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp
-  alt: Catedral de Ávila desde el adarve de la muralla
-- src: /images/actividades/salamanca/catedral/catedral-nueva-interior.webp
-  alt: Interior de la Catedral Nueva de Salamanca
-- src: /images/actividades/salamanca/universidad/patio-escuelas.webp
-  alt: Patio de Escuelas de la Universidad de Salamanca
 ratingProveedor: 4.8
 numeroOpiniones: 117
 atraccionesRelacionadas:
 - universidad-catedrales
 - monumentos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/avila/excursion-salamanca/murallas-avila-torreones.webp
+imagenAlt: "Torreones de las murallas de Ávila sobre la pradera"
+galeria:
+- src: /images/actividades/avila/excursion-salamanca/adarve-murallas-avila.webp
+  alt: "Lienzo y torres de la muralla de Ávila vistos desde el adarve"
+- src: /images/actividades/avila/excursion-salamanca/catedral-avila-desde-muralla.webp
+  alt: "Catedral de Ávila asomando tras la muralla"
+- src: /images/actividades/avila/excursion-salamanca/puerta-muralla-avila.webp
+  alt: "Puerta de la muralla de Ávila flanqueada por dos torres"
+- src: /images/actividades/salamanca/catedral/catedrales-exterior.webp
+  alt: "Cúpula y torres de la Catedral Nueva de Salamanca"
+- src: /images/actividades/salamanca/catedral/catedral-nueva-interior.webp
+  alt: "Nave central de la Catedral Nueva de Salamanca"
+- src: /images/actividades/salamanca/universidad/fachada-universidad.webp
+  alt: "Fachada plateresca de la Universidad de Salamanca"
+- src: /images/actividades/salamanca/plaza/plaza-mayor-soportales.webp
+  alt: "Plaza Mayor de Salamanca con sus soportales"
 ---
 
 ## Qué vas a ver

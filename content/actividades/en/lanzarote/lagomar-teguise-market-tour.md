@@ -71,26 +71,28 @@ keywords:
 - lagomar lanzarote
 - teguise sunday market
 - omar sharif house lanzarote
-imagen: /images/actividades/lanzarote/zonas/teguise-plaza.webp
-imagenAlt: The main square in Teguise, Lanzarote's old capital
-galeria:
-- src: /images/actividades/lanzarote/zonas/teguise-calle.webp
-  alt: A cobbled street in Teguise
-- src: /images/actividades/lanzarote/zonas/casa-tradicional-verde.webp
-  alt: A traditional Lanzarote house with green woodwork
-- src: /images/actividades/lanzarote/zonas/volcan-malpais.webp
-  alt: Volcanic badlands rock in Lanzarote
-- src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
-  alt: Traditional white houses in Lanzarote
 ratingProveedor: 4.6
 numeroOpiniones: 265
 atraccionesRelacionadas:
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/lagomar/flz-pared-cuevas.webp
+imagenAlt: "Rock wall with caves and a white door at LagOmar"
+galeria:
+- src: /images/actividades/lanzarote/lagomar/flz-piscina.webp
+  alt: "LagOmar pool surrounded by volcanic rock"
+- src: /images/actividades/lanzarote/lagomar/flz-muros-blancos.webp
+  alt: "White walls and plants on the rock at LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-tunel-blanco.webp
+  alt: "White tunnel carved into the rock at LagOmar"
+- src: /images/actividades/lanzarote/zonas/teguise-plaza.webp
+  alt: "Teguise square"
+- src: /images/actividades/lanzarote/zonas/teguise-calle.webp
+  alt: "Teguise street with its church"
 ---
 
 ## What you will see

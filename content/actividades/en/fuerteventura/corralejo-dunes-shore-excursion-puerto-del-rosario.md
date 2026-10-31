@@ -65,26 +65,32 @@ keywords:
 - puerto del rosario cruise excursion
 - corralejo dunes tour
 - fuerteventura cruise stop things to do
-imagen: /images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp
-imagenAlt: Corralejo Dunes with Lobos and Lanzarote on the horizon
-galeria:
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
-  alt: Walking on the white dunes of Corralejo
-- src: /images/actividades/fuerteventura/zonas/dunas-corralejo-arena.webp
-  alt: Sand and scrub in the Corralejo Dunes
-- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
-  alt: Corralejo bay with Lobos in the background
-- src: /images/actividades/fuerteventura/corralejo/corralejo-calle-de-la-iglesia.webp
-  alt: Calle de la Iglesia, the pedestrian street in Corralejo's old town
 ratingProveedor: 4.6
 numeroOpiniones: 352
 atraccionesRelacionadas:
 - norte
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-2.webp
+imagenAlt: "Mountain and dune in the Corralejo Dunes"
+galeria:
+- src: /images/actividades/fuerteventura/corralejo/ffv-puerto-deportivo-corralejo.webp
+  alt: "Boats in Corralejo harbour"
+- src: /images/actividades/fuerteventura/corralejo/corralejo-calle-de-la-iglesia.webp
+  alt: "Calle de la Iglesia in Corralejo"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-3.webp
+  alt: "Shrubs on the sand of the Corralejo Dunes"
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: "Corralejo bay"
+- src: /images/actividades/fuerteventura/isla-lobos/ffv-castillos-arena-lobos.webp
+  alt: "Sandcastles on the beach with Isla de Lobos behind"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-5.webp
+  alt: "Dune and blue sky in Corralejo"
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
+  alt: "Boats in Corralejo harbour"
 ---
 
 ## What you will see

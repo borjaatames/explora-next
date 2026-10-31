@@ -71,28 +71,32 @@ keywords:
 - barco san antonio playas
 - tour en barco ibiza cuevas
 - paseo en barco sant antoni
-imagen: /images/actividades/ibiza/mar/cueva-marina.webp
-imagenAlt: Esnórquel dentro de una cueva marina
-galeria:
-- src: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
-  alt: Bahía de Sant Antoni
-- src: /images/actividades/ibiza/calas/cala-tarida.webp
-  alt: Cala Tarida
-- src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
-  alt: Barca varada entre rocas en Ibiza
-- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
-  alt: Paddle surf en el mar azul
-- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
-  alt: Islotes frente a la costa de Ibiza
 ratingProveedor: 4.5
 numeroOpiniones: 60
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/barcos/fi1-barco-navegando-estela.webp
+imagenAlt: "Barco a motor navegando por el Mediterráneo y dejando su estela"
+galeria:
+- src: /images/actividades/ibiza/sant-antoni/fi1-bahia-sant-antoni-rocas.webp
+  alt: "Orilla rocosa de la bahía de Sant Antoni con la costa de Ibiza al fondo"
+- src: /images/actividades/ibiza/mar/cueva-marina.webp
+  alt: "Cueva marina con el agua entrando bajo la roca"
+- src: /images/actividades/ibiza/calas/fi1-cala-conta-islote-rocas.webp
+  alt: "Islote frente a las rocas de Cala Conta, en la costa oeste de Ibiza"
+- src: /images/actividades/ibiza/mar/fi1-roca-agua-turquesa.webp
+  alt: "Roca en agua turquesa, ideal para hacer esnórquel"
+- src: /images/actividades/ibiza/mar/fi1-fondo-rocoso-agua-clara.webp
+  alt: "Fondo rocoso visto a través del agua clara"
+- src: /images/actividades/ibiza/mar/peces-posidonia.webp
+  alt: "Banco de peces sobre la posidonia"
+- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
+  alt: "Paddle surf sobre el agua azul del Mediterráneo"
 ---
 
 ## Qué vas a ver

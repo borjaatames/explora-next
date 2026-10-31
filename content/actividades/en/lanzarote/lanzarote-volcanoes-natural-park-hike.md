@@ -76,29 +76,29 @@ keywords:
 - los volcanes natural park hike
 - lanzarote hiking tour
 - walk on lava lanzarote
-imagen: /images/actividades/lanzarote/zonas/sendero-volcan.webp
-imagenAlt: Trail between volcanoes in Lanzarote
-galeria:
-- src: /images/actividades/lanzarote/zonas/caldera-interior.webp
-  alt: Inside a volcanic caldera in Lanzarote
-- src: /images/actividades/lanzarote/zonas/volcan-malpais.webp
-  alt: Lava field in Lanzarote
-- src: /images/actividades/lanzarote/zonas/ladera-volcanica.webp
-  alt: Slope of a volcanic cone
-- src: /images/actividades/lanzarote/zonas/timanfaya-conos-rojizos.webp
-  alt: Reddish volcanic cones in the Timanfaya area
-- src: /images/actividades/lanzarote/zonas/volcan-vegetacion.webp
-  alt: Vegetation growing on the lava
 ratingProveedor: 4.8
 numeroOpiniones: 432
 atraccionesRelacionadas:
 - volcanes
 - timanfaya
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/timanfaya/flz-crater-campo-lava.webp
+imagenAlt: "Volcanic crater among lava fields in Lanzarote"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-cono-rojo.webp
+  alt: "Slope of a reddish volcanic cone in Timanfaya"
+- src: /images/actividades/lanzarote/zonas/volcan-malpais.webp
+  alt: "Volcano and lava badlands in Lanzarote"
+- src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
+  alt: "Solidified lava flow in Timanfaya"
+- src: /images/actividades/lanzarote/zonas/sendero-volcan.webp
+  alt: "Trail by a volcano in Lanzarote"
+- src: /images/actividades/lanzarote/timanfaya/flz-volcan-nubes.webp
+  alt: "Reddish volcano under clouds in Timanfaya"
 ---
 
 ## What you will see

@@ -69,28 +69,32 @@ keywords:
 - excursion barco san antonio ibiza
 - barco esnorquel ibiza
 - paseo en barco ibiza atardecer
-imagen: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
-imagenAlt: Puesta de sol en Sant Antoni de Portmany
-galeria:
-- src: /images/actividades/ibiza/calas/cala-bassa.webp
-  alt: Cala Bassa, en la costa oeste de Ibiza
-- src: /images/actividades/ibiza/calas/cala-conta.webp
-  alt: Aguas claras de Cala Comte
-- src: /images/actividades/ibiza/mar/kayak-cala.webp
-  alt: Kayak en una cala de agua transparente
-- src: /images/actividades/ibiza/mar/esnorquel.webp
-  alt: Esnórquel sobre una pradera de posidonia
-- src: /images/actividades/ibiza/atardecer/atardecer-conillera.webp
-  alt: Puesta de sol junto a Sa Conillera
 ratingProveedor: 4.7
 numeroOpiniones: 145
 atraccionesRelacionadas:
 - vedra-atardecer
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/fiesta-barco/fiesta-barco-04.webp
+imagenAlt: "Barcos fondeados en una cala de Ibiza al atardecer"
+galeria:
+- src: /images/actividades/ibiza/sant-antoni/fi1-sant-antoni-vista-bahia.webp
+  alt: "Vista de Sant Antoni y su bahía llena de barcos desde la colina"
+- src: /images/actividades/ibiza/calas/fi1-costa-ibiza-agua-cristalina.webp
+  alt: "Agua cristalina sobre fondo de roca en la costa de Ibiza"
+- src: /images/actividades/ibiza/kayak-codolar/kayaks-cala-turquesa.webp
+  alt: "Kayaks en el agua turquesa de una cala de Ibiza"
+- src: /images/actividades/ibiza/mar/fi1-salmonete-fondo-cala-gracio.webp
+  alt: "Salmonete sobre el fondo marino de Cala Gració, visto haciendo esnórquel"
+- src: /images/actividades/ibiza/mar/fi1-paddle-surf-fondo-rocas.webp
+  alt: "Paddle surf sobre agua transparente y fondo de rocas"
+- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
+  alt: "Puesta de sol sobre los islotes frente a la costa oeste de Ibiza"
+- src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
+  alt: "Puesta de sol desde la bahía de Sant Antoni"
 ---
 
 ## Qué vas a ver

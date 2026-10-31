@@ -67,26 +67,30 @@ keywords:
 - wine tasting fuerteventura
 - conatvs winery
 - fuerteventura wine tour
-imagen: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-imagenAlt: Majorero goat, whose milk is used for Majorero cheese
-galeria:
-- src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Majorero goat, the source of Majorero cheese
-- src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Wrinkled potatoes with mojo, Canarian cooking
-- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Volcanoes in northern Fuerteventura
-- src: /images/actividades/fuerteventura/zonas/el-cotillo.webp
-  alt: El Cotillo, in the municipality of La Oliva
 ratingProveedor: 4.8
 numeroOpiniones: 195
 atraccionesRelacionadas:
 - norte
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/alicante/vino/cata-tinto.webp
+imagenAlt: "Red wine tasting served in small carafes"
+galeria:
+- src: /images/actividades/fuerteventura/bodega/ffv-racimos-uva-vina.webp
+  alt: "Bunches of red grapes on the vine"
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: "Volcanoes in the north of Fuerteventura"
+- src: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
+  alt: "Wine barrels stacked in a winery"
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-volcanes-la-oliva.webp
+  alt: "Volcanic cones in the north of Fuerteventura"
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: "Wine glasses set out for a tasting"
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
+  alt: "Aged cheeses of different sizes"
 ---
 
 ## What you will see

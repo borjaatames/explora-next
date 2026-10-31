@@ -80,27 +80,29 @@ keywords:
 - parapente biplaza lanzarote
 - volar en parapente lanzarote
 - vuelo en parapente sobre volcanes
-imagen: /images/actividades/lanzarote/zonas/volcan-rojo.webp
-imagenAlt: Ladera de un volcán rojizo de Lanzarote, como las que se ven desde el aire
-galeria:
-- src: /images/actividades/lanzarote/zonas/la-graciosa-desde-famara.webp
-  alt: La Graciosa vista desde los riscos de Famara
-- src: /images/actividades/lanzarote/zonas/valle-volcanico.webp
-  alt: Valle volcánico en el interior de Lanzarote
-- src: /images/actividades/lanzarote/zonas/el-golfo-crater.webp
-  alt: Cráter de El Golfo junto al Atlántico
-- src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
-  alt: Casas blancas junto al mar en Lanzarote
 ratingProveedor: 4.9
 numeroOpiniones: 205
 atraccionesRelacionadas:
 - volcanes
 - isla
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/lanzarote/parapente/flz-biplaza-nubes.webp
+imagenAlt: "Parapente biplaza entre nubes"
+galeria:
+- src: /images/actividades/lanzarote/timanfaya/flz-montanas-colores.webp
+  alt: "Montañas volcánicas de tonos rojizos y ocres en Timanfaya"
+- src: /images/actividades/lanzarote/parapente/flz-biplaza-cielo-claro.webp
+  alt: "Parapente biplaza volando en un cielo claro"
+- src: /images/actividades/lanzarote/famara/flz-risco-famara.webp
+  alt: "Risco de Famara visto desde La Caleta de Famara"
+- src: /images/actividades/lanzarote/parapente/flz-dos-velas.webp
+  alt: "Dos parapentes volando a la vez"
+- src: /images/actividades/lanzarote/zonas/valle-volcanico.webp
+  alt: "Valle volcánico en Lanzarote"
 ---
 
 ## Qué vas a ver

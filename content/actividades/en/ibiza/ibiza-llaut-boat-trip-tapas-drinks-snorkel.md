@@ -77,28 +77,34 @@ keywords:
 - traditional boat trip ibiza
 - san antonio boat trip tapas
 - cala comte boat trip
-imagen: /images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp
-imagenAlt: Boats anchored in an Ibiza cove
-galeria:
-- src: /images/actividades/ibiza/calas/cala-conta.webp
-  alt: Clear water at Cala Comte
-- src: /images/actividades/ibiza/calas/cala-bassa.webp
-  alt: Cala Bassa
-- src: /images/actividades/ibiza/mar/cueva-marina.webp
-  alt: Snorkelling inside a sea cave
-- src: /images/actividades/ibiza/mar/paddle-surf-cala.webp
-  alt: Paddleboarding on calm water
-- src: /images/actividades/ibiza/calas/esnorquel-cala-llenya.webp
-  alt: Snorkelling in an Ibiza cove
 ratingProveedor: 4.7
 numeroOpiniones: 32
 atraccionesRelacionadas:
 - calas-barco
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/llaut/fi2-barca-tradicional-madera.webp
+imagenAlt: "Traditional wooden boat on the Mediterranean"
+galeria:
+- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
+  alt: "Boats moored in Sant Antoni harbour"
+- src: /images/actividades/ibiza/llaut/fi2-cala-salada.webp
+  alt: "Cala Salada, near Sant Antoni"
+- src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
+  alt: "Wooden boat hauled up on the rocks of an Ibiza cove"
+- src: /images/actividades/ibiza/llaut/fi2-cala-comte.webp
+  alt: "Turquoise water at Cala Comte"
+- src: /images/actividades/ibiza/llaut/fi2-cala-bassa.webp
+  alt: "Boats anchored at Cala Bassa"
+- src: /images/actividades/ibiza/llaut/fi2-esnorquel-rocas.webp
+  alt: "Snorkelling along a rocky shore"
+- src: /images/actividades/ibiza/llaut/fi2-cala-gracio.webp
+  alt: "Cala Gració beach, Sant Antoni"
+- src: /images/actividades/ibiza/llaut/fi2-cala-salada-atardecer.webp
+  alt: "Sunset at Cala Salada"
 ---
 
 ## What you will see

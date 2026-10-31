@@ -68,28 +68,34 @@ keywords:
 - formentera e-bike rental
 - formentera by bike
 - formentera day trip from ibiza
-imagen: /images/actividades/ibiza/formentera/bici-illetes.webp
-imagenAlt: A bicycle parked by Ses Illetes beach, Formentera
-galeria:
-- src: /images/actividades/ibiza/formentera/ferry-rapido-llegando-ibiza.webp
-  alt: A fast ferry arriving at Ibiza port
-- src: /images/actividades/ibiza/formentera/la-savina.webp
-  alt: La Savina port, Formentera
-- src: /images/actividades/ibiza/formentera/ses-illetes.webp
-  alt: Ses Illetes beach
-- src: /images/actividades/ibiza/formentera/migjorn.webp
-  alt: Migjorn beach
-- src: /images/actividades/ibiza/formentera/mal-pas.webp
-  alt: Mal Pas beach, Formentera
 ratingProveedor: 4.5
 numeroOpiniones: 127
 atraccionesRelacionadas:
 - formentera
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+imagen: /images/actividades/ibiza/formentera/bici-illetes.webp
+imagenAlt: "Bicycle parked by Ses Illetes beach, Formentera"
+galeria:
+- src: /images/actividades/ibiza/formentera/estacion-maritima.webp
+  alt: "Formentera ferry terminal in Ibiza harbour"
+- src: /images/actividades/ibiza/formentera/ferry-rapido-llegando-ibiza.webp
+  alt: "Formentera Lines fast ferry arriving at Ibiza harbour"
+- src: /images/actividades/ibiza/formentera/la-savina.webp
+  alt: "Fishing boat in La Savina harbour, Formentera"
+- src: /images/actividades/ibiza/formentera/fi1-ciclistas-camino-dunas.webp
+  alt: "Cyclists on a path between dunes and coastal scrub"
+- src: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
+  alt: "White sand at Ses Illetes, Formentera"
+- src: /images/actividades/ibiza/formentera/fi1-lagartija-pitiusa.webp
+  alt: "Ibiza wall lizard, endemic to Ibiza and Formentera"
+- src: /images/actividades/ibiza/formentera/migjorn.webp
+  alt: "Migjorn beach, Formentera"
+- src: /images/actividades/ibiza/formentera/fi1-bicis-junto-dunas.webp
+  alt: "Bicycles parked next to a dune"
 ---
 
 ## What you will see
