@@ -20,6 +20,7 @@ keywords:
 slugs:
   es: navidad-madrid
   en: christmas-in-madrid
+  de: weihnachten-madrid
 reservasArriba: true
 respuestaCorta: 'The lights go on in **late November** and stay up until Epiphany (6 January), at more than 250 spots across the city. The must-dos: the **Plaza Mayor Christmas market**, **Cortylandia** on Calle Preciados, seeing the lights on the **Naviluz** bus or by tuk-tuk, and the **Three Kings Parade** on 5 January. Go on a weekday: on December Saturdays the centre grinds to a halt.'
 actividades:
@@ -56,7 +57,7 @@ This year there are more than **250 lit-up spots** and 14 million LEDs, includin
 - **Naviluz:** an open-top bus, about 50 minutes, leaving every hour from 18:00 to 22:00, and cheaper from 21:00. Book at naviluz.es; tickets **can't be changed or cancelled**, not even if it rains. No service on 24 and 31 December or 5 January.
 - **By private tuk-tuk:** an hour and a half for up to 4 people, with no queuing in the cold. It's open-air, so wrap up.
 
-[actividad: madrid-christmas-lights-tuk-tuk-tour]
+[actividad: tuk-tuk-luces-navidad-madrid]
 
 ## A December evening, done right
 
@@ -68,7 +69,7 @@ This year there are more than **250 lit-up spots** and 14 million LEDs, includin
 
 If you'd rather not walk that much in the cold, the **night panoramic bus** covers the route for you, with a guide.
 
-[actividad: madrid-big-bus-panoramic-night-tour]
+[actividad: madrid-big-bus-night-tour]
 
 ## Three traditions you won't see on postcards
 
