@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { obtenerCiudad } from "@/lib/ciudades";
-import { obtenerCiudadesConGuias, obtenerListaGuias } from "@/lib/guias";
+import { idiomaTieneGuias, obtenerCiudadesConGuias } from "@/lib/guias";
 import {
   esIdiomaActivo,
   IDIOMAS_ACTIVOS,
@@ -26,9 +26,9 @@ type Props = {
   params: { lang: string };
 };
 
-/** FR/IT/PT no tienen guías: su hub no se genera ni se enlaza en hreflang. */
+/** Sin guías publicadas en el idioma, su hub no se genera ni se enlaza en hreflang. */
 function tieneGuias(lang: Idioma): boolean {
-  return obtenerListaGuias(lang).length > 0;
+  return idiomaTieneGuias(lang);
 }
 
 export function generateStaticParams() {
@@ -43,32 +43,62 @@ type Strings = {
   cta: string;
 };
 
-function getStrings(lang: Idioma): Strings {
-  if (lang === "en") {
-    return {
-      hubSubtitulo: "Each city has its own routes and advice. Pick where to start.",
-      vacio: "We'll publish our first guides soon. Check back shortly.",
-      contadorUno: "1 guide",
-      contadorN: (n) => `${n} guides`,
-      cta: "View guides",
-    };
-  }
-  if (lang === "de") {
-    return {
-      hubSubtitulo: "Jede Stadt hat ihre eigenen Routen und Tipps. Wähle, wo du beginnen möchtest.",
-      vacio: "Wir veröffentlichen bald unsere ersten Reiseführer. Schau bald wieder vorbei.",
-      contadorUno: "1 Reiseführer",
-      contadorN: (n) => `${n} Reiseführer`,
-      cta: "Reiseführer ansehen",
-    };
-  }
-  return {
+const STRINGS: Record<Idioma, Strings> = {
+  es: {
     hubSubtitulo: "Cada ciudad tiene sus rutas y consejos propios. Elige por dónde empezar.",
     vacio: "Próximamente publicaremos nuestras primeras guías. Vuelve pronto.",
     contadorUno: "1 guía",
     contadorN: (n) => `${n} guías`,
     cta: "Ver guías",
-  };
+  },
+  en: {
+    hubSubtitulo: "Each city has its own routes and advice. Pick where to start.",
+    vacio: "We'll publish our first guides soon. Check back shortly.",
+    contadorUno: "1 guide",
+    contadorN: (n) => `${n} guides`,
+    cta: "View guides",
+  },
+  de: {
+    hubSubtitulo: "Jede Stadt hat ihre eigenen Routen und Tipps. Wähle, wo du beginnen möchtest.",
+    vacio: "Wir veröffentlichen bald unsere ersten Reiseführer. Schau bald wieder vorbei.",
+    contadorUno: "1 Reiseführer",
+    contadorN: (n) => `${n} Reiseführer`,
+    cta: "Reiseführer ansehen",
+  },
+  fr: {
+    hubSubtitulo: "Chaque ville a ses propres itinéraires et conseils. Choisissez par où commencer.",
+    vacio: "Nous publierons bientôt nos premiers guides. Revenez très vite.",
+    contadorUno: "1 guide",
+    contadorN: (n) => `${n} guides`,
+    cta: "Voir les guides",
+  },
+  it: {
+    hubSubtitulo: "Ogni città ha i suoi itinerari e consigli. Scegli da dove iniziare.",
+    vacio: "Pubblicheremo presto le nostre prime guide. Torna a trovarci.",
+    contadorUno: "1 guida",
+    contadorN: (n) => `${n} guide`,
+    cta: "Vedi le guide",
+  },
+  pt: {
+    hubSubtitulo: "Cada cidade tem os seus próprios roteiros e conselhos. Escolha por onde começar.",
+    vacio: "Em breve publicaremos os nossos primeiros guias. Volte em breve.",
+    contadorUno: "1 guia",
+    contadorN: (n) => `${n} guias`,
+    cta: "Ver guias",
+  },
+};
+
+const ARIA_MIGAS: Record<Idioma, string> = {
+  es: "Migas de pan",
+  en: "Breadcrumb",
+  de: "Brotkrumen",
+  fr: "Fil d’Ariane",
+  it: "Percorso di navigazione",
+  pt: "Navegação estrutural",
+};
+
+function getStrings(lang: Idioma): Strings {
+  return STRINGS[lang];
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -141,7 +171,7 @@ export default async function GuiasHubPage({ params }: Props) {
     <main className="min-h-screen bg-white">
       <section className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <nav aria-label="Breadcrumb" className="text-sm text-anil-100 mb-4">
+          <nav aria-label={ARIA_MIGAS[lang]} className="text-sm text-anil-100 mb-4">
             <Link href={prefijoIdioma(lang) || "/"} className="hover:text-white">
               {dict.navegacion.inicio}
             </Link>

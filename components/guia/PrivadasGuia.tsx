@@ -40,9 +40,46 @@ const TEXTOS = {
     cta: "Termine ansehen",
     aria: "Passende Privattouren",
   },
-} as const;
+  fr: {
+    titulo: "En privé, rien qu’avec votre groupe",
+    subtitulo: "Prise en charge à votre hébergement, à votre rythme et sans inconnus. Réservation directe auprès de nous.",
+    porPersona: "/pers.",
+    grupo: (n: number, total: string) => `groupe de ${n} : ${total} au total`,
+    porGrupo: "par groupe",
+    desde: "à partir de",
+    cta: "Voir les dates",
+    aria: "Excursions privées associées",
+  },
+  it: {
+    titulo: "In privato, solo con il tuo gruppo",
+    subtitulo: "Prelievo presso il tuo alloggio, al tuo ritmo e senza sconosciuti. Prenotazione diretta con noi.",
+    porPersona: "/pers.",
+    grupo: (n: number, total: string) => `gruppo di ${n}: ${total} in totale`,
+    porGrupo: "per gruppo",
+    desde: "da",
+    cta: "Vedi le date",
+    aria: "Escursioni private correlate",
+  },
+  pt: {
+    titulo: "Em privado, só com o seu grupo",
+    subtitulo: "Recolha no alojamento, ao seu ritmo e sem desconhecidos. Reserva direta connosco.",
+    porPersona: "/pess.",
+    grupo: (n: number, total: string) => `grupo de ${n}: ${total} no total`,
+    porGrupo: "por grupo",
+    desde: "desde",
+    cta: "Ver datas",
+    aria: "Excursões privadas relacionadas",
+  },
+} as const satisfies Record<Idioma, unknown>;
 
-const LOCALE: Record<string, string> = { es: "es-ES", en: "en-GB", de: "de-DE" };
+const LOCALE: Record<Idioma, string> = {
+  es: "es-ES",
+  en: "en-GB",
+  de: "de-DE",
+  fr: "fr-FR",
+  it: "it-IT",
+  pt: "pt-PT",
+};
 
 /**
  * Bloque de excursiones privadas (venta directa) dentro de una guía, con el
@@ -50,7 +87,7 @@ const LOCALE: Record<string, string> = { es: "es-ES", en: "en-GB", de: "de-DE" }
  */
 export default function PrivadasGuia({ actividades, idioma }: Props) {
   if (actividades.length === 0) return null;
-  const t = idioma === "en" ? TEXTOS.en : idioma === "de" ? TEXTOS.de : TEXTOS.es;
+  const t = TEXTOS[idioma];
 
   return (
     <section aria-label={t.aria} className="border-b border-piedra-200">
@@ -59,7 +96,7 @@ export default function PrivadasGuia({ actividades, idioma }: Props) {
         <p className="mt-1 mb-4 text-sm text-piedra-600">{t.subtitulo}</p>
         <ul className="grid grid-cols-1 gap-3">
           {actividades.map((a) => {
-            const formato = new Intl.NumberFormat(LOCALE[idioma] ?? "es-ES", {
+            const formato = new Intl.NumberFormat(LOCALE[idioma], {
               style: "currency",
               currency: a.moneda || "EUR",
               maximumFractionDigits: 0,

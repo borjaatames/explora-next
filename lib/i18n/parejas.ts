@@ -14,11 +14,16 @@ import {
   urlContacto,
   urlCookies,
   urlGuia,
+  urlGuiasDeCiudad,
   urlIndiceCiudades,
   urlIndiceGuias,
   urlPrivacidad,
 } from "./utils";
-import { obtenerListaGuias, obtenerTodosLosCaminos } from "../guias";
+import {
+  idiomasConGuias,
+  obtenerCiudadesConGuias,
+  obtenerTodosLosCaminos,
+} from "../guias";
 import { obtenerTodosLosCaminosCiudades } from "../ciudades";
 import {
   obtenerCiudadesConActividades,
@@ -89,9 +94,8 @@ function construirEntrada(
  */
 function entradasFijas(): MapaParejas {
   const mapa: MapaParejas = {};
-  // FR/IT/PT no tienen guías: su hub no existe y no debe ser pareja de nadie.
-  const idiomasConGuias = IDIOMAS_ACTIVOS.filter((l) => obtenerListaGuias(l).length > 0);
-  const hubGuias = Object.fromEntries(idiomasConGuias.map((l) => [l, urlIndiceGuias(l)]));
+  // El hub de guías solo existe (y es pareja) en los idiomas con alguna guía publicada.
+  const hubGuias = Object.fromEntries(idiomasConGuias().map((l) => [l, urlIndiceGuias(l)]));
   for (const ruta of Object.values(hubGuias)) mapa[ruta] = hubGuias;
 
   for (const idioma of IDIOMAS_ACTIVOS) {
@@ -171,6 +175,21 @@ function generarMapa(): MapaParejas {
       const url = urlActividadesDeCiudad(idioma, ciudad);
       const [k, v] = construirEntrada(url, idioma, (destino) =>
         urlListadoActividadesSiExiste(destino, ciudad)
+      );
+      mapa[k] = v;
+    }
+  }
+
+  // Guías de cada ciudad: pareja en los idiomas con guías en esa ciudad.
+  const ciudadesConGuias = new Map(
+    IDIOMAS_ACTIVOS.map(
+      (l) => [l, new Set(obtenerCiudadesConGuias(l).map((c) => c.ciudad))] as const
+    )
+  );
+  for (const idioma of IDIOMAS_ACTIVOS) {
+    for (const ciudad of Array.from(ciudadesConGuias.get(idioma) ?? [])) {
+      const [k, v] = construirEntrada(urlGuiasDeCiudad(idioma, ciudad), idioma, (destino) =>
+        ciudadesConGuias.get(destino)?.has(ciudad) ? urlGuiasDeCiudad(destino, ciudad) : null
       );
       mapa[k] = v;
     }

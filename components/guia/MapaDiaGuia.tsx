@@ -2,8 +2,9 @@
 
 import { useEffect, useRef, useState } from "react";
 import type { ParadaMapa } from "@/lib/mapasGuias";
+import type { Idioma } from "@/lib/i18n/types";
 
-type IdiomaMapa = "es" | "en" | "de";
+type IdiomaMapa = Idioma;
 
 type Props = {
   dia: number;
@@ -81,6 +82,27 @@ const TEXTOS: Record<IdiomaMapa, {
     google: (d) => `Tag ${d} in Google Maps öffnen`,
     error: "Die Karte konnte nicht geladen werden.",
   },
+  fr: {
+    ver: (d, n) => `Voir la carte du jour ${d} (${n} ${n === 1 ? "étape" : "étapes"})`,
+    ocultar: (d) => `Masquer la carte du jour ${d}`,
+    aria: (d) => `Carte du jour ${d}`,
+    google: (d) => `Ouvrir le jour ${d} dans Google Maps`,
+    error: "Impossible de charger la carte.",
+  },
+  it: {
+    ver: (d, n) => `Vedi la mappa del giorno ${d} (${n} ${n === 1 ? "tappa" : "tappe"})`,
+    ocultar: (d) => `Nascondi la mappa del giorno ${d}`,
+    aria: (d) => `Mappa del giorno ${d}`,
+    google: (d) => `Apri il giorno ${d} in Google Maps`,
+    error: "Non è stato possibile caricare la mappa.",
+  },
+  pt: {
+    ver: (d, n) => `Ver o mapa do dia ${d} (${n} ${n === 1 ? "paragem" : "paragens"})`,
+    ocultar: (d) => `Ocultar o mapa do dia ${d}`,
+    aria: (d) => `Mapa do dia ${d}`,
+    google: (d) => `Abrir o dia ${d} no Google Maps`,
+    error: "Não foi possível carregar o mapa.",
+  },
 };
 
 /** `dia: 0` es el mapa único de una guía de un día: textos de «ruta». */
@@ -105,6 +127,27 @@ const TEXTOS_RUTA: Record<IdiomaMapa, typeof TEXTOS.es> = {
     aria: () => "Karte der Route",
     google: () => "Route in Google Maps öffnen",
     error: TEXTOS.de.error,
+  },
+  fr: {
+    ver: (_d, n) => `Voir la carte de l’itinéraire (${n} ${n === 1 ? "étape" : "étapes"})`,
+    ocultar: () => "Masquer la carte de l’itinéraire",
+    aria: () => "Carte de l’itinéraire",
+    google: () => "Ouvrir l’itinéraire dans Google Maps",
+    error: TEXTOS.fr.error,
+  },
+  it: {
+    ver: (_d, n) => `Vedi la mappa del percorso (${n} ${n === 1 ? "tappa" : "tappe"})`,
+    ocultar: () => "Nascondi la mappa del percorso",
+    aria: () => "Mappa del percorso",
+    google: () => "Apri il percorso in Google Maps",
+    error: TEXTOS.it.error,
+  },
+  pt: {
+    ver: (_d, n) => `Ver o mapa do roteiro (${n} ${n === 1 ? "paragem" : "paragens"})`,
+    ocultar: () => "Ocultar o mapa do roteiro",
+    aria: () => "Mapa do roteiro",
+    google: () => "Abrir o roteiro no Google Maps",
+    error: TEXTOS.pt.error,
   },
 };
 

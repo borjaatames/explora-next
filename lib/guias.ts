@@ -505,7 +505,7 @@ export function obtenerGuiaAgotadaParaFicha(
   return (
     obtenerGuiasDeCiudad(idioma, ciudad).find(
       (g) =>
-        RE_GUIA_AGOTADAS.test(g.slug) &&
+        (RE_GUIA_AGOTADAS.test(g.slug) || RE_GUIA_AGOTADAS.test(g.slugs?.es ?? "")) &&
         ((g.actividades ?? []).includes(slugFichaEs) ||
           (g.opciones ?? []).some((o) => o.ficha === slugFichaEs))
     ) ?? null
@@ -526,13 +526,38 @@ export function obtenerComparativaPrivadaParaFicha(
   slugFichaEs: string | undefined
 ): GuiaListItem | null {
   if (!slugFichaEs) return null;
-  const comparativas = obtenerGuiasDeCiudad(idioma, ciudad).filter((g) =>
-    RE_GUIA_PRIVADA_O_GRUPO.test(g.slug)
+  // FR/IT/PT: el patrón se busca también en `slugs.es` (slug de la guía ES).
+  const comparativas = obtenerGuiasDeCiudad(idioma, ciudad).filter(
+    (g) => RE_GUIA_PRIVADA_O_GRUPO.test(g.slug) || RE_GUIA_PRIVADA_O_GRUPO.test(g.slugs?.es ?? "")
   );
   const cita = comparativas.find(
     (g) =>
       (g.actividades ?? []).includes(slugFichaEs) ||
       (g.opciones ?? []).some((o) => o.ficha === slugFichaEs)
   );
-  return cita ?? comparativas.find((g) => /privada-o-en-grupo|private-or-group/.test(g.slug)) ?? null;
+  return (
+    cita ??
+    comparativas.find((g) => /privada-o-en-grupo|private-or-group/.test(`${g.slug} ${g.slugs?.es ?? ""}`)) ??
+    null
+  );
+}
+
+const cacheIdiomaTieneGuias = new Map<Idioma, boolean>();
+
+/**
+ * ¿Hay al menos una guía publicada en este idioma? Decide si se enlaza el
+ * hub de guías (menú, pie, 404, portada…). Memoizado: lo consultan el Navbar
+ * y el Footer en cada página del build.
+ */
+export function idiomaTieneGuias(idioma: Idioma): boolean {
+  const cache = cacheIdiomaTieneGuias.get(idioma);
+  if (cache !== undefined) return cache;
+  const tiene = obtenerListaGuias(idioma).length > 0;
+  cacheIdiomaTieneGuias.set(idioma, tiene);
+  return tiene;
+}
+
+/** Idiomas activos con al menos una guía publicada. */
+export function idiomasConGuias(): Idioma[] {
+  return IDIOMAS_ACTIVOS.filter((l) => idiomaTieneGuias(l));
 }

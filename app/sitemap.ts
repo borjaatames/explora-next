@@ -138,7 +138,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       alternates: alternatesPara((l) => prefijoIdioma(l) || "/"),
     });
 
-    // Índice de guías (solo idiomas con guías: FR/IT/PT no tienen)
+    // Índice de guías (solo idiomas con alguna guía publicada)
     if (tieneGuias(lang)) {
       entries.push({
         url: `${SITE_URL}${urlIndiceGuias(lang)}`,
@@ -305,6 +305,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }
 
   // ─── Listados de guías por ciudad ────────────────────────────────
+  // Solo existen (y son pareja) en los idiomas con guías en esa ciudad.
+  const ciudadesConGuiasPorIdioma = new Map(
+    IDIOMAS_ACTIVOS.map(
+      (l) => [l, new Set(obtenerCiudadesConGuias(l).map((c) => c.ciudad))] as const
+    )
+  );
+  const guiasDeCiudadSiExiste = (l: Idioma, ciudad: string): string | null =>
+    ciudadesConGuiasPorIdioma.get(l as IdiomaActivo)?.has(ciudad)
+      ? urlGuiasDeCiudad(l, ciudad)
+      : null;
   for (const lang of IDIOMAS_ACTIVOS) {
     const ciudadesConGuias = obtenerCiudadesConGuias(lang);
     for (const { ciudad } of ciudadesConGuias) {
@@ -313,7 +323,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: fechaGuias(lang, ciudad),
         changeFrequency: "weekly",
         priority: 0.8,
-        alternates: alternatesPara((l) => urlGuiasDeCiudad(l, ciudad)),
+        alternates: alternatesPara((l) => guiasDeCiudadSiExiste(l, ciudad)),
       });
     }
   }
@@ -344,7 +354,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }
 
   // Fuera las URLs con noindex (alemán salvo islas y fichas; en FR/IT/PT todo
-  // salvo home, fichas y listados): ver lib/i18n/indexacion.ts.
+  // salvo home, fichas, listados y guías): ver lib/i18n/indexacion.ts.
   return entries.filter((e) =>
     rutaIndexable(e.url.slice(SITE_URL.length) || "/")
   );

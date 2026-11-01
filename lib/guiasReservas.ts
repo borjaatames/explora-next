@@ -39,7 +39,7 @@ export type TrozoGuia =
   | { tipo: "mapa"; dia: number; paradas: ParadaMapa[] };
 
 /**
- * Idioma base de las fichas de una guía. Las guías que no son ES/EN (hoy, DE)
+ * Idioma base de las fichas de una guía. Las guías que no son ES/EN (DE, FR, IT, PT)
  * parten de las fichas EN (hay muchas más) y `preferirFichasDe` cambia por la
  * versión en el idioma de la guía las que la tienen (actividades que se hacen
  * en ese idioma).

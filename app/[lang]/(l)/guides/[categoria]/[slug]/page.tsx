@@ -24,6 +24,7 @@ import FaqActividad from "@/components/FaqActividad";
 import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendadasGuia";
 import { obtenerActividadesParaGuia, obtenerPrivadasParaGuia } from "@/lib/recomendaciones";
 import { obtenerListaCiudades } from "@/lib/ciudades";
+import { urlListadoActividadesSiExiste } from "@/lib/actividades";
 import HeroGuia, { IndiceGuia } from "@/components/guia/HeroGuia";
 import { anadirAnclasH2 } from "@/lib/indiceGuia";
 import ReservasGuia from "@/components/guia/ReservasGuia";
@@ -49,18 +50,26 @@ import {
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
-/**
- * Labels de breadcrumb por idioma. Se usan tanto en el BreadcrumbList
- * JSON-LD como en el <nav aria-label> visible (cuando se renderice).
- * Hoy solo EN está activo; al añadir DE/FR/IT/PT, completar este mapa.
- */
-const BREADCRUMB_LABELS: Record<Idioma, { home: string; guias: string }> = {
-  es: { home: "Inicio", guias: "Guías" },
-  en: { home: "Home", guias: "Guides" },
-  de: { home: "Home", guias: "Guides" },
-  fr: { home: "Home", guias: "Guides" },
-  it: { home: "Home", guias: "Guides" },
-  pt: { home: "Home", guias: "Guides" },
+/** Textos propios de la página de guía (el resto sale del diccionario). */
+const TEXTOS: Record<
+  Idioma,
+  {
+    /** Migas del BreadcrumbList JSON-LD. */
+    home: string;
+    guias: string;
+    /** aria-label del <nav> de migas visible. */
+    migas: string;
+    indice: string;
+    stickyDesde: string;
+    stickyCta: string;
+  }
+> = {
+  es: { home: "Inicio", guias: "Guías", migas: "Migas de pan", indice: "En esta guía", stickyDesde: "desde", stickyCta: "Reservar" },
+  en: { home: "Home", guias: "Guides", migas: "Breadcrumb", indice: "In this guide", stickyDesde: "from", stickyCta: "Book" },
+  de: { home: "Startseite", guias: "Reiseführer", migas: "Brotkrümel", indice: "In diesem Reiseführer", stickyDesde: "ab", stickyCta: "Buchen" },
+  fr: { home: "Accueil", guias: "Guides", migas: "Fil d’Ariane", indice: "Dans ce guide", stickyDesde: "à partir de", stickyCta: "Réserver" },
+  it: { home: "Home", guias: "Guide", migas: "Percorso di navigazione", indice: "In questa guida", stickyDesde: "da", stickyCta: "Prenota" },
+  pt: { home: "Início", guias: "Guias", migas: "Navegação estrutural", indice: "Neste guia", stickyDesde: "desde", stickyCta: "Reservar" },
 };
 
 type Props = {
@@ -160,7 +169,8 @@ export default async function GuiaPage({ params }: Props) {
     3
   );
 
-  // Las guías DE parten de las fichas EN y usan la versión DE cuando existe.
+  // Las guías DE/FR/IT/PT parten de las fichas EN y usan la versión en su
+  // idioma cuando existe (ver `preferirFichasDe`).
   const actividadesRecomendadas = preferirFichasDe(lang, obtenerActividadesParaGuia(
     idiomaFichas(lang),
     guia.categoria,
@@ -194,7 +204,8 @@ export default async function GuiaPage({ params }: Props) {
     ? imagenRelativa
     : `${SITE_URL}${imagenRelativa}`;
 
-  const breadcrumbs = BREADCRUMB_LABELS[lang];
+  const t = TEXTOS[lang];
+  const breadcrumbs = t;
   // En `app/[lang]/*`, `lang` nunca es "es" (generateStaticParams filtra el
   // idioma por defecto en LangLayout). TS lo detecta como comparación
   // inalcanzable, por eso construimos la URL prefijada directamente.
@@ -204,6 +215,7 @@ export default async function GuiaPage({ params }: Props) {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: guia.titulo,
+    inLanguage: IDIOMA_LOCALE[lang],
     description: guia.descripcion,
     image: imagenAbsoluta,
     datePublished: guia.fecha,
@@ -299,10 +311,6 @@ export default async function GuiaPage({ params }: Props) {
     reservasArriba[0] ??
     fichasCiudad.get(slugsInline(trozos)[0] ?? "") ??
     actividadesRecomendadas[0];
-  const textosSticky =
-    lang === "de"
-      ? { desde: "ab", cta: "Buchen" }
-      : { desde: "from", cta: "Book" };
 
   return (
     <main className="min-h-screen bg-white">
@@ -327,7 +335,7 @@ export default async function GuiaPage({ params }: Props) {
         descripcion={guia.descripcion}
         imagen={guia.imagen_portada}
         imagenAlt={guia.imagen_alt}
-        migasLabel={lang === "de" ? "Brotkrümel" : "Breadcrumb"}
+        migasLabel={t.migas}
         migas={[
           { label: dict.navegacion.inicio, href: prefijoIdioma(lang) || "/" },
           { label: dict.navegacion.guias, href: urlIndiceGuias(lang) },
@@ -353,7 +361,7 @@ export default async function GuiaPage({ params }: Props) {
       >
         {indice.length > 2 && (
           <IndiceGuia
-            titulo={lang === "de" ? "In diesem Reiseführer" : "In this guide"}
+            titulo={t.indice}
             entradas={indice}
           />
         )}
@@ -370,7 +378,7 @@ export default async function GuiaPage({ params }: Props) {
                 key={i}
                 dia={trozo.dia}
                 paradas={trozo.paradas}
-                idioma={lang === "de" ? "de" : lang === "en" ? "en" : "es"}
+                idioma={lang}
               />
             ) : (
               <TarjetaReservaInline
@@ -392,7 +400,10 @@ export default async function GuiaPage({ params }: Props) {
         actividades={actividadesCarrusel}
         idioma={lang}
         nombreCiudad={nombreCiudad}
-        urlTodas={urlActividadesDeCiudad(idiomaFichas(lang), guia.categoria)}
+        urlTodas={
+          urlListadoActividadesSiExiste(lang, guia.categoria) ??
+          urlActividadesDeCiudad(idiomaFichas(lang), guia.categoria)
+        }
       />
 
       {relacionadas.length > 0 && (
@@ -437,8 +448,8 @@ export default async function GuiaPage({ params }: Props) {
           slugEs={actividadSticky.slugs?.es ?? actividadSticky.slug}
           precio={formatearPrecio(actividadSticky, lang)}
           rating={formatearRating(actividadSticky, lang)}
-          textoDesde={textosSticky.desde}
-          textoCta={textosSticky.cta}
+          textoDesde={t.stickyDesde}
+          textoCta={t.stickyCta}
         />
       )}
       <TrackingReservasGuia

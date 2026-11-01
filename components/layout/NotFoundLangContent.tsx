@@ -13,7 +13,6 @@ type Strings = {
   titulo: string;
   descripcion: string;
   volver: string;
-  /** Vacío en los idiomas sin guías (FR/IT/PT): no se pinta el enlace. */
   verGuias: string;
   verCiudades: string;
   destinos: string;
@@ -76,7 +75,7 @@ const STRINGS: Record<Idioma, Strings> = {
     descripcion:
       "Le lien est peut-être obsolète, ou l’activité que vous cherchiez n’est plus disponible. Nous proposons toujours des activités dans toute l’Espagne : commencez ici.",
     volver: "Retour à l’accueil",
-    verGuias: "",
+    verGuias: "Voir tous les guides →",
     verCiudades: "Voir toutes les villes →",
     destinos: "Destinations les plus complètes",
     ciudades: [
@@ -92,7 +91,7 @@ const STRINGS: Record<Idioma, Strings> = {
     descripcion:
       "Il link potrebbe essere obsoleto, oppure l’attività che cercavi non è più disponibile. Abbiamo comunque attività in tutta la Spagna: inizia da qui.",
     volver: "Torna alla home",
-    verGuias: "",
+    verGuias: "Vedi tutte le guide →",
     verCiudades: "Vedi tutte le città →",
     destinos: "Destinazioni con più contenuti",
     ciudades: [
@@ -108,7 +107,7 @@ const STRINGS: Record<Idioma, Strings> = {
     descripcion:
       "A ligação pode estar desatualizada ou a atividade que procurava já não está disponível. Continuamos a ter atividades por toda a Espanha: comece por aqui.",
     volver: "Voltar ao início",
-    verGuias: "",
+    verGuias: "Ver todos os guias →",
     verCiudades: "Ver todas as cidades →",
     destinos: "Destinos com mais conteúdo",
     ciudades: [
@@ -122,6 +121,14 @@ const STRINGS: Record<Idioma, Strings> = {
 
 const IDIOMA_FALLBACK: Idioma = IDIOMA_DEFECTO;
 
+type Props = {
+  /**
+   * Idiomas con al menos una guía publicada. Lo calcula el servidor
+   * (not-found.tsx lee `content/`); sin guías no se pinta el enlace al hub.
+   */
+  idiomasConGuias: ReadonlyArray<Idioma>;
+};
+
 /**
  * Detecta el idioma real leyendo la URL con usePathname() (mismo patrón
  * que components/layout/LanguageSwitcher.tsx), porque not-found.tsx no
@@ -130,7 +137,7 @@ const IDIOMA_FALLBACK: Idioma = IDIOMA_DEFECTO;
  * /esto-no-existe, que cae en app/[lang]/(l)/[...resto]), muestra el
  * texto en español, igual que el marco que pinta app/[lang]/layout.tsx.
  */
-export default function NotFoundLangContent() {
+export default function NotFoundLangContent({ idiomasConGuias }: Props) {
   const pathname = usePathname() || "/";
   const primerSegmento = pathname.split("/").filter(Boolean)[0];
   const idioma: Idioma =
@@ -163,7 +170,7 @@ export default function NotFoundLangContent() {
           >
             {t.volver}
           </Link>
-          {t.verGuias ? (
+          {idiomasConGuias.includes(idioma) ? (
             <Link
               href={urlIndiceGuias(idioma)}
               className="inline-flex items-center text-anil-600 hover:text-anil-700 font-medium transition-colors"

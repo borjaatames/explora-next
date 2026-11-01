@@ -15,6 +15,7 @@ import { urlProveedores } from "@/lib/proveedores";
 import { urlPlanificador } from "@/lib/planificador";
 import { urlCruceros } from "@/lib/descubrir";
 import type { Idioma } from "@/lib/i18n/types";
+import { idiomaTieneGuias } from "@/lib/guias";
 
 /**
  * Footer del sitio. Estructura:
@@ -244,8 +245,8 @@ type Props = {
 
 export default function Footer({ idioma }: Props) {
   const t = DICT[idioma];
-  // Guías, planificador y cruceros solo existen en ES/EN (guías también en DE).
-  const hayGuias = idioma === "es" || idioma === "en" || idioma === "de";
+  // Guías: solo si el idioma tiene alguna publicada. Planificador y cruceros solo existen en ES/EN.
+  const hayGuias = idiomaTieneGuias(idioma);
   const hayPlanYCruceros = idioma === "es" || idioma === "en";
   const year = new Date().getFullYear();
 

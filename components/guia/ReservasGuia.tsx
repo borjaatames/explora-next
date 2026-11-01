@@ -39,12 +39,34 @@ const TEXTOS = {
     cta: "Buchen",
     aria: "Empfohlene Buchungen",
   },
-} as const;
+  fr: {
+    titulo: "Ce qu’il vaut mieux réserver avant de partir",
+    subtitulo: (n: number) =>
+      n === 1 ? "La réservation clé de ce guide" : `Les ${n} réservations clés de ce guide`,
+    cancelacion: "annulation gratuite",
+    cta: "Réserver",
+    aria: "Réservations recommandées",
+  },
+  it: {
+    titulo: "Cosa conviene prenotare prima di partire",
+    subtitulo: (n: number) =>
+      n === 1 ? "La prenotazione chiave di questa guida" : `Le ${n} prenotazioni chiave di questa guida`,
+    cancelacion: "cancellazione gratuita",
+    cta: "Prenota",
+    aria: "Prenotazioni consigliate",
+  },
+  pt: {
+    titulo: "O que convém reservar antes de ir",
+    subtitulo: (n: number) =>
+      n === 1 ? "A reserva essencial deste guia" : `As ${n} reservas essenciais deste guia`,
+    cancelacion: "cancelamento gratuito",
+    cta: "Reservar",
+    aria: "Reservas recomendadas",
+  },
+} as const satisfies Record<Idioma, unknown>;
 
 function textos(idioma: Idioma) {
-  if (idioma === "en") return TEXTOS.en;
-  if (idioma === "de") return TEXTOS.de;
-  return TEXTOS.es;
+  return TEXTOS[idioma];
 }
 
 /**

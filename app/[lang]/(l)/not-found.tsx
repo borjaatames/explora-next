@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import NotFoundLangContent from "@/components/layout/NotFoundLangContent";
+import { idiomasConGuias } from "@/lib/guias";
 
 /**
  * 404 del shell no-español (vive dentro de app/[lang]/, que hoy sirve
@@ -35,5 +36,5 @@ export const metadata: Metadata = {
 };
 
 export default function NotFoundLang() {
-  return <NotFoundLangContent />;
+  return <NotFoundLangContent idiomasConGuias={idiomasConGuias()} />;
 }

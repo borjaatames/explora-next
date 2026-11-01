@@ -4,7 +4,7 @@ import { obtenerListaGuias } from "@/lib/guias";
 import { obtenerListaCiudades } from "@/lib/ciudades";
 import { agruparPorTipo, ORDEN_TIPOS, type TipoGuia } from "@/lib/tiposGuia";
 
-const TEXTOS: Record<"es" | "en" | "de", Record<TipoGuia, { titulo: string; sub: string }> & { porCiudad: string }> = {
+const TEXTOS: Record<Idioma, Record<TipoGuia, { titulo: string; sub: string }> & { porCiudad: string }> = {
   es: {
     excursiones: { titulo: "Excursiones de un día", sub: "Cómo ir, cuánto cuesta y si compensa en grupo o en privado." },
     agotadas: { titulo: "Entradas agotadas: qué hacer", sub: "Alternativas reales cuando no quedan entradas para los monumentos más buscados." },
@@ -29,17 +29,41 @@ const TEXTOS: Record<"es" | "en" | "de", Record<TipoGuia, { titulo: string; sub:
     comoVisitar: { titulo: "Besichtigen", sub: "Öffnungszeiten, Preise und Tipps zu den großen Sehenswürdigkeiten." },
     porCiudad: "Reiseführer nach Stadt",
   },
+  fr: {
+    excursiones: { titulo: "Excursions d’une journée", sub: "Comment s’y rendre, combien ça coûte et s’il vaut mieux partir en groupe ou en privé." },
+    agotadas: { titulo: "Billets épuisés : que faire", sub: "De vraies alternatives quand il n’y a plus de billets pour les monuments les plus demandés." },
+    itinerarios: { titulo: "Itinéraires de 1 à 3 jours", sub: "Que voir et dans quel ordre pour profiter au mieux de votre temps." },
+    elegir: { titulo: "Lequel choisir", sub: "Comparatifs de visites, de tablaos et de billets pour décider vite." },
+    comoVisitar: { titulo: "Comment visiter", sub: "Horaires, prix et conseils pour les grands monuments." },
+    porCiudad: "Guides par ville",
+  },
+  it: {
+    excursiones: { titulo: "Escursioni di un giorno", sub: "Come arrivare, quanto costa e se conviene in gruppo o in privato." },
+    agotadas: { titulo: "Biglietti esauriti: cosa fare", sub: "Alternative concrete quando i biglietti per i monumenti più richiesti sono finiti." },
+    itinerarios: { titulo: "Itinerari da 1 a 3 giorni", sub: "Cosa vedere e in che ordine per sfruttare al meglio il tempo." },
+    elegir: { titulo: "Quale scegliere", sub: "Confronti tra tour, tablao e biglietti per decidere in fretta." },
+    comoVisitar: { titulo: "Come visitare", sub: "Orari, prezzi e consigli per i grandi monumenti." },
+    porCiudad: "Guide per città",
+  },
+  pt: {
+    excursiones: { titulo: "Excursões de um dia", sub: "Como ir, quanto custa e se compensa em grupo ou em privado." },
+    agotadas: { titulo: "Bilhetes esgotados: o que fazer", sub: "Alternativas reais quando já não há bilhetes para os monumentos mais procurados." },
+    itinerarios: { titulo: "Roteiros de 1 a 3 dias", sub: "O que ver e por que ordem para aproveitar bem o tempo." },
+    elegir: { titulo: "Qual escolher", sub: "Comparações de tours, tablaos e bilhetes para decidir depressa." },
+    comoVisitar: { titulo: "Como visitar", sub: "Horários, preços e conselhos para os grandes monumentos." },
+    porCiudad: "Guias por cidade",
+  },
 };
 
 const MAX_POR_TIPO = 12;
 
 export function tituloPorCiudad(idioma: Idioma): string {
-  return (TEXTOS[idioma as "es" | "en" | "de"] ?? TEXTOS.es).porCiudad;
+  return TEXTOS[idioma].porCiudad;
 }
 
 /** Secciones del índice de guías por tipo, antes de la rejilla de ciudades. */
 export default function SeccionesTipoGuia({ idioma }: { idioma: Idioma }) {
-  const t = TEXTOS[idioma as "es" | "en" | "de"] ?? TEXTOS.es;
+  const t = TEXTOS[idioma];
   const nombres = new Map(obtenerListaCiudades(idioma).map((c) => [c.slug, c.nombre]));
   const grupos = agruparPorTipo(
     obtenerListaGuias(idioma).sort((a, b) =>

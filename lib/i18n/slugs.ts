@@ -135,14 +135,48 @@ export function slugParejaGuia(
   );
   const slugs = leerSlugsDelFrontmatter(fullPath);
   const slugDestino = slugs?.[idiomaDestino];
-  if (!slugDestino) return null;
-  const destino = path.join(
-    guiasRoot,
-    idiomaDestino,
-    categoria,
-    `${slugDestino}.md`
+  if (slugDestino) {
+    const destino = path.join(
+      guiasRoot,
+      idiomaDestino,
+      categoria,
+      `${slugDestino}.md`
+    );
+    if (fs.existsSync(destino)) return slugDestino;
+  }
+  if (!fs.existsSync(fullPath)) return null;
+  // Búsqueda inversa (mismo criterio que en las fichas): las guías FR/IT/PT
+  // declaran sus parejas ES/EN, pero las ES/EN no siempre llevan el slug del
+  // idioma nuevo. Se busca en el idioma destino la guía que apunta a esta.
+  const claveEs = idiomaActual === "es" ? slugActual : slugs?.es;
+  const pareja = guiasConSlugs(idiomaDestino, categoria).find(
+    (g) =>
+      g.slugs?.[idiomaActual] === slugActual ||
+      (claveEs !== undefined &&
+        (idiomaDestino === "es" ? g.slug === claveEs : g.slugs?.es === claveEs))
   );
-  return fs.existsSync(destino) ? slugDestino : null;
+  return pareja?.slug ?? null;
+}
+
+const cacheGuiasConSlugs = new Map<string, FichaConSlugs[]>();
+
+/** Slugs de las guías (`.md`) de una ciudad en un idioma, con caché por build. */
+function guiasConSlugs(idioma: Idioma, categoria: string): FichaConSlugs[] {
+  const clave = `${idioma}/${categoria}`;
+  const enCache = cacheGuiasConSlugs.get(clave);
+  if (enCache) return enCache;
+  const dir = path.join(guiasRoot, idioma, categoria);
+  const guias: FichaConSlugs[] = fs.existsSync(dir)
+    ? fs
+        .readdirSync(dir)
+        .filter((f) => f.endsWith(".md") && !f.startsWith("_"))
+        .map((f) => ({
+          slug: f.replace(/\.md$/, ""),
+          slugs: leerSlugsDelFrontmatter(path.join(dir, f)),
+        }))
+    : [];
+  cacheGuiasConSlugs.set(clave, guias);
+  return guias;
 }
 
 /**

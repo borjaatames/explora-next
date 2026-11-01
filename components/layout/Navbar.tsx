@@ -115,6 +115,8 @@ function urlSobreNosotros(idioma: Idioma): string {
 
 type Props = {
   idioma: Idioma;
+  /** El idioma tiene al menos una guía publicada (lo calcula `NavbarServer`). */
+  hayGuias: boolean;
 };
 
 /**
@@ -124,7 +126,7 @@ type Props = {
  * `NavbarMobileMenu`, una isla Client mínima. El `LanguageSwitcher`
  * también es Client pero se monta como isla independiente.
  */
-export default function Navbar({ idioma }: Props) {
+export default function Navbar({ idioma, hayGuias }: Props) {
   const t = DICT[idioma];
 
   const enlaces = [
@@ -133,8 +135,7 @@ export default function Navbar({ idioma }: Props) {
       ? [{ href: urlHubPrivados(idioma), label: t.privados as string, corto: t.privadosCorto as string }]
       : []),
     { href: urlIndiceCiudades(idioma), label: t.ciudades, corto: undefined as string | undefined },
-    // Sin guías en FR/IT/PT.
-    ...(idioma === "es" || idioma === "en" || idioma === "de"
+    ...(hayGuias
       ? [{ href: urlIndiceGuias(idioma), label: t.guias as string }]
       : []),
     // El planificador solo existe en ES y EN.

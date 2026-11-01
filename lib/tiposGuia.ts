@@ -2,7 +2,8 @@ import type { GuiaListItem } from "@/lib/guias";
 
 /**
  * Tipos de guía para el índice /guias. Se deducen del slug (ES, EN y DE),
- * así que una guía nueva entra sola en su sección si sigue el patrón.
+ * así que una guía nueva entra sola en su sección si sigue el patrón. Las
+ * guías FR/IT/PT se clasifican por su `slugs.es` (la guía ES de la que salen).
  */
 export type TipoGuia = "excursiones" | "agotadas" | "itinerarios" | "elegir" | "comoVisitar";
 
@@ -30,7 +31,7 @@ export function agruparPorTipo(guias: GuiaListItem[]): Record<TipoGuia, GuiaList
     comoVisitar: [],
   };
   for (const g of guias) {
-    const tipo = tipoDeGuia(g.slug);
+    const tipo = (g.slugs?.es ? tipoDeGuia(g.slugs.es) : null) ?? tipoDeGuia(g.slug);
     if (tipo) grupos[tipo].push(g);
   }
   return grupos;

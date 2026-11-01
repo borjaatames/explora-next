@@ -35,12 +35,31 @@ const TEXTOS = {
     cancelacion: "Kostenlose Stornierung",
     cta: "Verfügbarkeit prüfen",
   },
-} as const;
+  fr: {
+    etiqueta: "Réservation recommandée",
+    desde: "à partir de",
+    opiniones: "avis",
+    cancelacion: "Annulation gratuite",
+    cta: "Voir les disponibilités",
+  },
+  it: {
+    etiqueta: "Prenotazione consigliata",
+    desde: "da",
+    opiniones: "recensioni",
+    cancelacion: "Cancellazione gratuita",
+    cta: "Verifica disponibilità",
+  },
+  pt: {
+    etiqueta: "Reserva recomendada",
+    desde: "desde",
+    opiniones: "avaliações",
+    cancelacion: "Cancelamento gratuito",
+    cta: "Ver disponibilidade",
+  },
+} as const satisfies Record<Idioma, unknown>;
 
 function textos(idioma: Idioma) {
-  if (idioma === "en") return TEXTOS.en;
-  if (idioma === "de") return TEXTOS.de;
-  return TEXTOS.es;
+  return TEXTOS[idioma];
 }
 
 /**

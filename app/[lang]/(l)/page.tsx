@@ -219,11 +219,6 @@ function getCopy(lang: Exclude<Idioma, "es">): Copy {
   return COPY[lang];
 }
 
-/** En FR/IT/PT no hay guías: la sección no se pinta. */
-function tieneGuias(lang: Idioma): boolean {
-  return lang === "es" || lang === "en" || lang === "de";
-}
-
 export function generateStaticParams(): Array<{ lang: Idioma }> {
   return IDIOMAS_ACTIVOS.filter((l) => l !== "es").map((lang) => ({ lang }));
 }
@@ -276,7 +271,8 @@ export default function HomePage({ params }: Props) {
   const copy = getCopy(lang);
   const locale = IDIOMA_LOCALE[lang];
   const dict = getDictionary(lang);
-  const guias = tieneGuias(lang) ? obtenerGuiasDestacadas(lang, 6) : [];
+  // Sin guías publicadas en el idioma, la lista sale vacía y la sección no se pinta.
+  const guias = obtenerGuiasDestacadas(lang, 6);
   const ciudades = obtenerListaCiudades(lang);
 
   // Mapa slug -> nombre de ciudad para etiquetar las tarjetas.

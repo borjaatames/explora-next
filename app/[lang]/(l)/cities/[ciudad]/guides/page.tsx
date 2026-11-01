@@ -50,30 +50,66 @@ type Strings = {
   guias: string;
 };
 
-function getStrings(lang: Idioma, nombreCiudad: string): Strings {
-  if (lang === "en") {
-    return {
-      titulo: `Guides for ${nombreCiudad}`,
-      descripcion: `Honest itineraries and practical advice to explore ${nombreCiudad} without the tourist clichés.`,
-      volver: `See activities in ${nombreCiudad} →`,
-      guias: "Guides",
-    };
-  }
-  if (lang === "de") {
-    return {
-      titulo: `Reiseführer für ${nombreCiudad}`,
-      descripcion: `Ehrliche Routen und praktische Tipps, um ${nombreCiudad} ohne Touristenklischees zu entdecken.`,
-      volver: `Aktivitäten in ${nombreCiudad} ansehen →`,
-      guias: "Reiseführer",
-    };
-  }
-  return {
-    titulo: `Guías de ${nombreCiudad}`,
-    descripcion: `Rutas con criterio y consejos prácticos para conocer ${nombreCiudad} sin postales.`,
-    volver: `Ver actividades en ${nombreCiudad} →`,
+const STRINGS: Record<Idioma, (nombreCiudad: string) => Strings> = {
+  es: (c) => ({
+    titulo: `Guías de ${c}`,
+    descripcion: `Rutas con criterio y consejos prácticos para conocer ${c} sin postales.`,
+    volver: `Ver actividades en ${c} →`,
     guias: "Guías",
-  };
+  }),
+  en: (c) => ({
+    titulo: `Guides for ${c}`,
+    descripcion: `Honest itineraries and practical advice to explore ${c} without the tourist clichés.`,
+    volver: `See activities in ${c} →`,
+    guias: "Guides",
+  }),
+  de: (c) => ({
+    titulo: `Reiseführer für ${c}`,
+    descripcion: `Ehrliche Routen und praktische Tipps, um ${c} ohne Touristenklischees zu entdecken.`,
+    volver: `Aktivitäten in ${c} ansehen →`,
+    guias: "Reiseführer",
+  }),
+  fr: (c) => ({
+    titulo: `Guides de ${c}`,
+    descripcion: `Des itinéraires honnêtes et des conseils pratiques pour découvrir ${c} loin des clichés touristiques.`,
+    volver: `Voir les activités à ${c} →`,
+    guias: "Guides",
+  }),
+  it: (c) => ({
+    titulo: `Guide di ${c}`,
+    descripcion: `Itinerari onesti e consigli pratici per scoprire ${c} senza i soliti cliché turistici.`,
+    volver: `Vedi le attività a ${c} →`,
+    guias: "Guide",
+  }),
+  pt: (c) => ({
+    titulo: `Guias de ${c}`,
+    descripcion: `Roteiros honestos e conselhos práticos para conhecer ${c} sem os clichés turísticos.`,
+    volver: `Ver atividades em ${c} →`,
+    guias: "Guias",
+  }),
+};
+
+function getStrings(lang: Idioma, nombreCiudad: string): Strings {
+  return STRINGS[lang](nombreCiudad);
 }
+
+const NO_ENCONTRADA: Record<Idioma, string> = {
+  es: "Página no encontrada",
+  en: "Page not found",
+  de: "Seite nicht gefunden",
+  fr: "Page introuvable",
+  it: "Pagina non trovata",
+  pt: "Página não encontrada",
+};
+
+const ARIA_MIGAS: Record<Idioma, string> = {
+  es: "Migas de pan",
+  en: "Breadcrumb",
+  de: "Brotkrumen",
+  fr: "Fil d’Ariane",
+  it: "Percorso di navigazione",
+  pt: "Navegação estrutural",
+};
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!esIdiomaActivo(params.lang) || params.lang === "es") {
@@ -86,7 +122,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Mismo criterio que el componente de página (más abajo): sin guías
   // para este idioma+ciudad, la página hace notFound().
   if (obtenerGuiasDeCiudad(lang, params.ciudad).length === 0) {
-    return { title: lang === "de" ? "Seite nicht gefunden" : "Page not found", robots: { index: false, follow: false } };
+    return { title: NO_ENCONTRADA[lang], robots: { index: false, follow: false } };
   }
 
   const url = `${SITE_URL}${urlGuiasDeCiudad(lang, params.ciudad)}`;
@@ -105,7 +141,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       canonical: url,
       languages: hreflangAlternates((l) => {
         const slugPareja = slugParejaCiudad(lang, params.ciudad, l);
-        return slugPareja ? urlGuiasDeCiudad(l, slugPareja) : null;
+        // Solo los idiomas con guías publicadas en esta ciudad.
+        return slugPareja && obtenerGuiasDeCiudad(l, slugPareja).length > 0
+          ? urlGuiasDeCiudad(l, slugPareja)
+          : null;
       }),
     },
     openGraph: {
@@ -158,7 +197,7 @@ export default async function GuiasDeCiudadPage({ params }: Props) {
 
       <header className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <nav aria-label="Breadcrumb" className="text-sm text-anil-100 mb-4">
+          <nav aria-label={ARIA_MIGAS[lang]} className="text-sm text-anil-100 mb-4">
             <Link href={prefijoIdioma(lang) || "/"} className="hover:text-white">
               {dict.navegacion.inicio}
             </Link>

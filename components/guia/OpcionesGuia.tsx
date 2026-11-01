@@ -40,12 +40,31 @@ const TEXTOS = {
     cta: "Verfügbarkeit prüfen",
     aria: "Empfohlene Buchungsoptionen",
   },
-} as const;
+  fr: {
+    titulo: (n: number) => `Nos ${n} options`,
+    subtitulo: "Choisissez selon votre budget et votre façon de visiter",
+    cancelacion: "Annulation gratuite",
+    cta: "Voir les disponibilités",
+    aria: "Options recommandées à réserver",
+  },
+  it: {
+    titulo: (n: number) => `Le nostre ${n} opzioni`,
+    subtitulo: "Scegli in base al budget e a come vuoi visitarlo",
+    cancelacion: "Cancellazione gratuita",
+    cta: "Verifica disponibilità",
+    aria: "Opzioni consigliate da prenotare",
+  },
+  pt: {
+    titulo: (n: number) => `As nossas ${n} opções`,
+    subtitulo: "Escolha consoante o orçamento e a forma como quer visitar",
+    cancelacion: "Cancelamento gratuito",
+    cta: "Ver disponibilidade",
+    aria: "Opções recomendadas para reservar",
+  },
+} as const satisfies Record<Idioma, unknown>;
 
 function textos(idioma: Idioma) {
-  if (idioma === "en") return TEXTOS.en;
-  if (idioma === "de") return TEXTOS.de;
-  return TEXTOS.es;
+  return TEXTOS[idioma];
 }
 
 /**
