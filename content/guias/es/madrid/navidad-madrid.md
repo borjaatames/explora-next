@@ -23,6 +23,8 @@ slugs:
   es: navidad-madrid
   en: christmas-in-madrid
   de: weihnachten-madrid
+  it: natale-a-madrid
+  pt: natal-em-madrid
 reservasArriba: true
 respuestaCorta: 'Las luces se encienden a **finales de noviembre** y siguen hasta Reyes, en más de 250 puntos de la ciudad. Lo imprescindible: el **mercadillo de la Plaza Mayor**, **Cortylandia** en Preciados, ver las luces en **Naviluz** o en tuk-tuk y la **Cabalgata de Reyes** del 5 de enero. Ve entre semana: los sábados de diciembre el centro se colapsa.'
 actividades:

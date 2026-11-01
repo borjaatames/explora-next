@@ -24,6 +24,8 @@ slugs:
   es: navidad-barcelona
   en: christmas-in-barcelona
   de: weihnachten-barcelona
+  it: natale-a-barcellona
+  pt: natal-em-barcelona
 reservasArriba: true
 respuestaCorta: "Barcelona is **European Capital of Christmas 2026** and is stretching its lights across **130 km of streets**. The essentials: the **Santa Llúcia Christmas market** by the cathedral (28 November to 23 December in 2025), the light show on **Plaça Sant Jaume**, the **free New Year's Eve show at Montjuïc's Magic Fountain** and the **Three Kings Parade on 5 January** from 18:00. Heads-up: **26 December (Sant Esteve) is also a public holiday** in Catalonia."
 faq:

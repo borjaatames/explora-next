@@ -20,6 +20,9 @@ slugs:
   es: salamanca-en-1-dia
   en: salamanca-in-1-day
   de: salamanca-in-einem-tag
+  fr: salamanque-en-1-jour
+  it: salamanca-in-1-giorno
+  pt: salamanca-num-dia
 reservasArriba: true
 respuestaCorta: 'Yes, Salamanca **works in one day**: the major monuments are 5–10 minutes apart on foot. Do **Plaza Mayor, La Clerecía towers, the University, both cathedrals and the Roman Bridge at sunset**, eat on Calle Van Dyck rather than the plaza, and stay until 9 PM to see the stone lit up. A local-guide walking tour starts at €17.'
 actividades:

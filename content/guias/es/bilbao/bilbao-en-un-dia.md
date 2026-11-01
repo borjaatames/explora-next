@@ -22,6 +22,7 @@ slugs:
   es: bilbao-en-un-dia
   en: bilbao-in-one-day
   de: bilbao-in-einem-tag
+  it: bilbao-in-un-giorno
 reservasArriba: true
 actividades:
   - tour-a-pie-casco-viejo-bilbao

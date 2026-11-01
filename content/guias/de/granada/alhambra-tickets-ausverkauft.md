@@ -21,6 +21,7 @@ slugs:
   es: alhambra-entradas-agotadas
   en: alhambra-tickets-sold-out
   de: alhambra-tickets-ausverkauft
+  fr: alhambra-billets-complets
 reservasArriba: true
 respuestaCorta: "Wenn die offizielle Website ausverkauft ist, schau **am Vorabend zwischen 20:00 und 22:00 Uhr** nach, wenn manchmal Last-Minute-Tickets auftauchen, und prüf die **Granada Card**, die ein eigenes Kontingent hat. Wenn du kein Glück hast, sichert dir eine **Führung mit inkludiertem Ticket** die Nasridenpaläste; der **Nachtbesuch** und das Ticket für **Gärten und Generalife** haben meist mehr Plätze."
 actividades:

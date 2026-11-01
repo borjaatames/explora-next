@@ -24,6 +24,7 @@ slugs:
   es: puerto-palma-cruceros-que-hacer
   en: palma-cruise-port-guide
   de: palma-kreuzfahrt-landgang
+  fr: port-croisiere-palma-guide
 reservasArriba: true
 respuestaCorta: "Cruise ships dock at the **Poniente quay** (terminals 1 to 4, about 3 km from the cathedral) or the **Dique del Oeste** (terminals 5 and 6, about 4-5 km). Get into town on **EMT bus line 1 (€2)**, by taxi (**around €11-15**) or on a 40-minute seafront walk from Poniente. **4-6 hours** covers the cathedral and the old town; with **8 hours or more** you can ride the **Sóller train** or visit Valldemossa."
 faq:

@@ -22,6 +22,8 @@ slugs:
   es: tarraco-romana-que-ver
   en: roman-tarraco-guide
   de: roemisches-tarraco
+  fr: tarraco-romaine-que-voir
+  pt: tarraco-romana-o-que-ver
 reservasArriba: true
 actividades:
   - tour-tarraco-romana-a-pie

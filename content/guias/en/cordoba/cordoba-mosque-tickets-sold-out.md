@@ -22,6 +22,8 @@ slugs:
   es: mezquita-cordoba-entradas-agotadas
   en: cordoba-mosque-tickets-sold-out
   de: mezquita-cordoba-tickets-ausverkauft
+  fr: mosquee-cordoue-billets-epuises
+  it: moschea-cordova-biglietti-esauriti
 reservasArriba: true
 respuestaCorta: 'The Mezquita itself rarely sells out completely: what goes first is the **bell tower** (22 people per slot), the **night visit** and some slots on holiday weekends. Try another time on `tickets.mezquita-catedraldecordoba.es` (€15), the **free hour from Monday to Saturday, 8:30 to 9:30**, or a **tour with entry included**, from €22.'
 actividades:

@@ -22,6 +22,7 @@ slugs:
   es: museo-guggenheim-como-visitar
   en: guggenheim-museum-how-to-visit
   de: guggenheim-museum-besichtigen
+  pt: museu-guggenheim-como-visitar
 reservasArriba: true
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada

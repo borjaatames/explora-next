@@ -22,6 +22,9 @@ slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
+  fr: alhambra-comment-la-visiter
+  it: alhambra-come-visitarla
+  pt: alhambra-como-visitar
 reservasArriba: true
 respuestaCorta: 'Die offiziellen Tickets (22,27 €) gibt es **bis zu drei Monate im Voraus**, und die Vormittage sind Wochen vorher ausverkauft. **Wenn keine mehr da sind**, sichert dir eine Führung mit Ticket die Nasridenpaläste zu fester Uhrzeit. Plane etwa 4 Stunden ein und komm rechtzeitig: Für die Nasridenpaläste hast du nur 30 Minuten Spielraum.'
 actividades:

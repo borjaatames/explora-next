@@ -21,6 +21,7 @@ keywords:
 slugs:
   es: excursion-privada-o-en-grupo-desde-barcelona
   en: private-or-group-day-trip-from-barcelona
+  pt: excursao-privada-ou-em-grupo-desde-barcelona
 reservasArriba: false
 respuestaCorta: 'For **1 or 2 people**, a **group tour** is far cheaper: Montserrat from **€47** (or **€59** in a small group) against **€419 per person** privately. But the private Montserrat price barely rises with group size (€838 for 2, €894 for 6), so with **6 people** it comes to **€149 each**, the same as the 12-person small group with hotel pickup. With **4**, private is around **€186-219** per person. If you are 5 or 6, do the sums: it is the one destination where private catches up with the group tour.'
 faq:

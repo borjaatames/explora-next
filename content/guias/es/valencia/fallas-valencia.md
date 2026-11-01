@@ -18,6 +18,9 @@ keywords:
 slugs:
   es: fallas-valencia
   en: valencia-fallas
+  fr: fallas-de-valence
+  it: fallas-di-valencia
+  pt: fallas-de-valencia
 reservasArriba: true
 respuestaCorta: 'Las Fallas de 2027 van del **1 al 19 de marzo**, y los días grandes son del **lunes 15 al viernes 19**. La **mascletà** es todos los días a las 14:00 en la plaza del Ayuntamiento, gratis. El 15 y el 16 se plantan los monumentos, el 17 y el 18 es la Ofrenda de flores y el 19 por la noche arden todas las fallas en la **cremà**. Casi todo es gratis: lo caro es el hotel, así que resérvalo ya.'
 actividades:

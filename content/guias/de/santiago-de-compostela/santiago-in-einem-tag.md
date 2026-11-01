@@ -21,6 +21,7 @@ slugs:
   es: santiago-en-un-dia
   en: santiago-in-one-day
   de: santiago-in-einem-tag
+  pt: santiago-de-compostela-num-dia
 reservasArriba: true
 actividades:
   - santiago-portico-gloria-catedral-tour

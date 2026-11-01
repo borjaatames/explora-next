@@ -19,6 +19,8 @@ slugs:
   es: subir-al-teide
   en: climbing-mount-teide
   de: teide-besteigen
+  fr: ascension-du-teide
+  it: salire-sul-teide
 reservasArriba: true
 respuestaCorta: 'The **cable car** (€42 return as of 2026) climbs in under 8 minutes to **La Rambleta (3,555 m)**, where two viewpoint trails need no permit. The last 160 m to the **3,715 m summit** need a **time-slot permit on Tenerife ON** (€15 for visitors from outside the Canaries). A tour with cable car ticket and transfer starts at €92.'
 actividades:

@@ -24,6 +24,7 @@ slugs:
   es: puerto-valencia-cruceros-que-hacer
   en: valencia-cruise-port-guide
   de: valencia-kreuzfahrt-landgang
+  pt: porto-de-valencia-cruzeiros
 reservasArriba: true
 respuestaCorta: 'Kreuzfahrtschiffe liegen am **Passagierterminal Trasmed** an der Nordeinfahrt des Hafens, **etwa 5 km von der Altstadt**: Zu Fuß ist das keine Option. Am praktischsten ist ein **Taxi** (15-20 Minuten, etwa 12-15 €) oder der Shuttle deiner Reederei; der **EMT-Stadtbus** (Linien 4 und 95, **2 €**) fährt von einer Haltestelle 10 Gehminuten entfernt. In **4 Stunden** schaffst du Mercado Central, Lonja und Kathedrale; mit 8 kommen die Stadt der Künste und Wissenschaften oder eine Paella am Strand dazu.'
 faq:

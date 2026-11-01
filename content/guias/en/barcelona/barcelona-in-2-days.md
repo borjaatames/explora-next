@@ -22,6 +22,7 @@ keywords:
 slugs:
   es: barcelona-en-2-dias
   en: barcelona-in-2-days
+  pt: barcelona-em-2-dias
 reservasArriba: true
 respuestaCorta: 'Split the city in two: **day 1 for Gaudí** (Sagrada Família first thing, €26 on the official site; Passeig de Gràcia with one house inside, Gràcia and **Park Güell** late afternoon, €18) and **day 2 for old Barcelona and the sea** (Gothic Quarter, Born, Barceloneta and sunset on Montjuïc). Book the Sagrada Família and Park Güell **at least a week ahead**.'
 faq:

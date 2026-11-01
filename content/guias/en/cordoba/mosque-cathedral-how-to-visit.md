@@ -19,6 +19,8 @@ slugs:
   es: mezquita-catedral-como-visitar
   en: mosque-cathedral-how-to-visit
   de: mezquita-catedral-besichtigen
+  fr: mosquee-cathedrale-cordoue-comment-la-visiter
+  it: moschea-cattedrale-cordova-come-visitarla
 respuestaCorta: 'The Mosque-Cathedral costs **€15** (free under 10) and is **free Monday to Saturday from 8:30 to 9:30**, for individual visitors only. Go first thing, allow **1–1.5 hours** and cover shoulders and knees. On Sundays worship closes it between 11:30 and 15:00. A skip-the-line guided tour with the bell tower costs from €32.'
 reservasArriba: true
 actividades:

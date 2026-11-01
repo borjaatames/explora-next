@@ -22,6 +22,9 @@ slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit
   de: alhambra-besichtigen
+  fr: alhambra-comment-la-visiter
+  it: alhambra-come-visitarla
+  pt: alhambra-como-visitar
 reservasArriba: true
 respuestaCorta: 'Las entradas oficiales (22,27 €) salen **hasta tres meses antes** y las mañanas se agotan con semanas de antelación. **Si ya no quedan**, una visita guiada que incluya la entrada te asegura los Palacios Nazaríes con hora reservada. Cuenta con unas 4 horas y llega con tiempo: a los Nazaríes solo hay 30 minutos de margen.'
 actividades:

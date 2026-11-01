@@ -19,6 +19,8 @@ slugs:
   es: mezquita-catedral-como-visitar
   en: mosque-cathedral-how-to-visit
   de: mezquita-catedral-besichtigen
+  fr: mosquee-cathedrale-cordoue-comment-la-visiter
+  it: moschea-cattedrale-cordova-come-visitarla
 actividades:
   - mezquita-catedral-tour-guiado-sin-colas
   - mezquita-catedral-entrada-audioguia

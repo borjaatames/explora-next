@@ -24,6 +24,8 @@ slugs:
   es: navidad-barcelona
   en: christmas-in-barcelona
   de: weihnachten-barcelona
+  it: natale-a-barcellona
+  pt: natal-em-barcelona
 reservasArriba: true
 respuestaCorta: 'Barcelona es **Capital Europea de la Navidad 2026** y amplía las luces a **130 km de calles**. Lo imprescindible: la **Fira de Santa Llúcia** frente a la catedral (del 28 de noviembre al 23 de diciembre en 2025), la proyección de la **Plaça Sant Jaume**, las **campanadas gratis ante la Font Màgica de Montjuïc** y la **Cabalgata del 5 de enero** desde las 18:00. Ojo: el **26 de diciembre (Sant Esteve) también es festivo** en Cataluña.'
 faq:

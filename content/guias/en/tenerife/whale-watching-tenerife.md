@@ -19,6 +19,8 @@ slugs:
   es: avistamiento-ballenas-tenerife
   en: whale-watching-tenerife
   de: walbeobachtung-teneriffa
+  it: avvistamento-balene-tenerife
+  pt: observacao-de-baleias-em-tenerife
 reservasArriba: true
 respuestaCorta: 'You can see **short-finned pilot whales and bottlenose dolphins all year**, because they live between Tenerife and La Gomera. Boats leave from **Los Cristianos, Puerto Colón and Los Gigantes**; pick one flying the yellow **Barco Azul** flag of an authorised operator. The 1.5-hour eco-yacht trip from Los Cristianos starts at €30.'
 actividades:

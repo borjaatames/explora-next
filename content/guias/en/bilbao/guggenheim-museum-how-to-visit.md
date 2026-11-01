@@ -21,6 +21,7 @@ slugs:
   es: museo-guggenheim-como-visitar
   en: guggenheim-museum-how-to-visit
   de: guggenheim-museum-besichtigen
+  pt: museu-guggenheim-como-visitar
 respuestaCorta: 'The outside is free: **Puppy, Maman and Gehry''s titanium** are best seen at sunset. Inside, allow **2-2.5 hours** and head for Richard Serra''s *The Matter of Time*. Adult tickets cost **€12-18 depending on the exhibitions on view** (under-18s free, audio guide included); book a timed slot online. Closed most Mondays.'
 reservasArriba: true
 actividades:

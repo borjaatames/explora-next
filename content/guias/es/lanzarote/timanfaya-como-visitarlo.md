@@ -19,6 +19,7 @@ slugs:
   es: timanfaya-como-visitarlo
   en: visiting-timanfaya
   de: timanfaya-besuchen
+  fr: visiter-timanfaya
 reservasArriba: true
 respuestaCorta: 'La entrada a las **Montañas del Fuego** cuesta **30 €** (gratis hasta 6 años) y **solo se vende online**, con fecha y hora: no hay taquilla y fuera de tu franja no vale. Incluye la **Ruta de los Volcanes** en guagua, de unos 35-40 minutos, y las demostraciones geotérmicas del Islote de Hilario. Puedes llegar en **tu coche** hasta el aparcamiento, pero no recorrer el parque por libre. Sin coche, la excursión de medio día con entrada sale desde 59 €.'
 actividades:

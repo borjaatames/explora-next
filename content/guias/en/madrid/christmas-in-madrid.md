@@ -21,6 +21,8 @@ slugs:
   es: navidad-madrid
   en: christmas-in-madrid
   de: weihnachten-madrid
+  it: natale-a-madrid
+  pt: natal-em-madrid
 reservasArriba: true
 respuestaCorta: 'The lights go on in **late November** and stay up until Epiphany (6 January), at more than 250 spots across the city. The must-dos: the **Plaza Mayor Christmas market**, **Cortylandia** on Calle Preciados, seeing the lights on the **Naviluz** bus or by tuk-tuk, and the **Three Kings Parade** on 5 January. Go on a weekday: on December Saturdays the centre grinds to a halt.'
 actividades:

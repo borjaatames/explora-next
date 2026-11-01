@@ -24,6 +24,8 @@ slugs:
   es: navidad-barcelona
   en: christmas-in-barcelona
   de: weihnachten-barcelona
+  it: natale-a-barcellona
+  pt: natal-em-barcelona
 reservasArriba: true
 respuestaCorta: "Barcelona ist **Europäische Weihnachtshauptstadt 2026** und beleuchtet **130 km Straßen**. Das Wichtigste: der **Weihnachtsmarkt Santa Llúcia** vor der Kathedrale (2025 vom 28. November bis 23. Dezember), die Lichtprojektion auf der **Plaça Sant Jaume**, die **kostenlose Silvestershow am Magischen Brunnen des Montjuïc** und der **Dreikönigsumzug am 5. Januar** ab 18:00 Uhr. Achtung: Der **26. Dezember (Sant Esteve) ist in Katalonien ebenfalls Feiertag**."
 faq:

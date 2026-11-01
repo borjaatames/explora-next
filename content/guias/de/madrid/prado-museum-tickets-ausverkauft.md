@@ -22,6 +22,7 @@ slugs:
   es: museo-del-prado-entradas-agotadas
   en: prado-museum-tickets-sold-out
   de: prado-museum-tickets-ausverkauft
+  it: museo-del-prado-biglietti-esauriti
 reservasArriba: true
 respuestaCorta: "Der Prado ist fast nie komplett ausverkauft: Meist ist nur **ein bestimmtes Zeitfenster** voll oder die Schlange zur Gratisstunde ist riesig. Probier eine andere Uhrzeit auf `entradas.museodelprado.es` (**15 €**) oder kauf an der **Kasse an der Puerta de Goya**. Wenn du nichts riskieren willst, sichert dir ein **Ticket mit Uhrzeit über einen Wiederverkäufer** (ab 18 €) oder eine **Führung mit Ticket** den Eintritt."
 actividades:

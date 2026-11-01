@@ -21,6 +21,9 @@ keywords:
 slugs:
   es: tuk-tuk-bus-turistico-o-free-tour-madrid
   en: tuk-tuk-hop-on-hop-off-or-free-tour-madrid
+  fr: tuk-tuk-bus-touristique-ou-free-tour-madrid
+  it: tuk-tuk-bus-turistico-o-free-tour-madrid
+  pt: tuk-tuk-autocarro-turistico-ou-free-tour-madrid
 reservasArriba: false
 respuestaCorta: 'En **pareja con poco presupuesto**, el **free tour** (pagas la propina que quieras; la media que da Guruwalk es de **10-20 €** por persona) o un tour a pie en grupo reducido por **29,95 €**. Si vas a estar **todo el día** saltando de museo en museo, el **bus turístico** (**29,70 €**, 24 horas, 3 rutas). Si sois **3 o 4**, el **tuk tuk privado** sale más barato que el bus: **79 €** por vehículo de hasta 4 personas (1 h 15 min), es decir, **19,75 € por persona** siendo 4. Ojo: el tuk tuk lleva audioguía, no guía en directo.'
 faq:

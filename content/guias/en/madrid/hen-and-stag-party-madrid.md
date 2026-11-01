@@ -22,6 +22,7 @@ keywords:
 slugs:
   es: despedida-de-soltera-madrid
   en: hen-and-stag-party-madrid
+  pt: despedida-de-solteira-madrid
 reservasArriba: true
 respuestaCorta: "The three plans that work best for a hen or stag do in Madrid are the **private party tuk-tuk playing your own music** (€150 per tuk-tuk, 1 h 30 min), the **paella and sangria workshop** a few steps from Sol (€64 per person, 3 hours) and, for the night, a **pub crawl** through three bars and a club with a free shot at each stop (€19 per person, 5 hours). If there are more than eight of you, book two or three weeks ahead and check the dress code: sportswear will not get you into the night-time venues."
 faq:

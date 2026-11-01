@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: granada-en-1-dia
   en: granada-in-1-day
+  fr: grenade-en-1-jour
+  it: granada-in-1-giorno
+  pt: granada-num-dia
 reservasArriba: true
 respuestaCorta: 'One day in Granada covers **the Alhambra in the morning** (€22.27, with a fixed Nasrid Palaces time slot that sells out weeks ahead), **free tapas** with every drink, the **Royal Chapel** (€7) and the Carrera del Darro in the afternoon, **sunset at the Mirador de San Nicolás** and a zambra in the Sacromonte caves. Without an Alhambra ticket the plan falls apart: book it before the train.'
 faq:

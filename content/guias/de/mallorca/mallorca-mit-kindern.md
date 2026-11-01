@@ -22,6 +22,7 @@ slugs:
   es: mallorca-con-ninos
   en: mallorca-with-kids
   de: mallorca-mit-kindern
+  fr: majorque-avec-des-enfants
 reservasArriba: true
 respuestaCorta: 'Wohnt im **Norden (Alcúdia)** mit seinen flachen Stränden und versucht nicht, die ganze Insel zu sehen. Das Muss: der **Zug nach Sóller** (halber Tag ab dem Norden, ab 56 €), die **Drachenhöhlen** mit Konzert im Boot (54 €) und das **Palma Aquarium** für einen bewölkten Tag (30,50 €).'
 opciones:

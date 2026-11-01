@@ -21,6 +21,9 @@ slugs:
   es: salamanca-en-1-dia
   en: salamanca-in-1-day
   de: salamanca-in-einem-tag
+  fr: salamanque-en-1-jour
+  it: salamanca-in-1-giorno
+  pt: salamanca-num-dia
 reservasArriba: true
 actividades:
   - tour-a-pie-salamanca-guia-local

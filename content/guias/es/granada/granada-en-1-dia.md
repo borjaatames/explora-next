@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: granada-en-1-dia
   en: granada-in-1-day
+  fr: grenade-en-1-jour
+  it: granada-in-1-giorno
+  pt: granada-num-dia
 reservasArriba: true
 respuestaCorta: 'Un día en Granada da para **la Alhambra por la mañana** (entrada de 22,27 € con hora fija para los Palacios Nazaríes, que se agota con semanas), **tapas gratis** con cada caña, la **Capilla Real** (7 €) y la Carrera del Darro por la tarde, el **atardecer en el mirador de San Nicolás** y una zambra en el Sacromonte. Sin la entrada de la Alhambra, el plan cambia: resérvala antes que el tren.'
 faq:

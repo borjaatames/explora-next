@@ -21,6 +21,9 @@ keywords:
 slugs:
   es: tuk-tuk-bus-turistico-o-free-tour-madrid
   en: tuk-tuk-hop-on-hop-off-or-free-tour-madrid
+  fr: tuk-tuk-bus-touristique-ou-free-tour-madrid
+  it: tuk-tuk-bus-turistico-o-free-tour-madrid
+  pt: tuk-tuk-autocarro-turistico-ou-free-tour-madrid
 reservasArriba: false
 respuestaCorta: 'For a **couple on a budget**, a **free walking tour** (you tip what you like; Guruwalk puts the average at **€10-20** per person) or a small-group walking tour for **€29.95**. If you''ll spend **the whole day** hopping between museums, the **hop-on hop-off bus** (**€29.70**, 24 hours, 3 routes). If there are **3 or 4** of you, a **private tuk tuk** is cheaper than the bus: **€79** per vehicle for up to 4 people (1 h 15 min), which is **€19.75 each** for four. Note: the tuk tuk has an audio guide, not a live guide.'
 faq:

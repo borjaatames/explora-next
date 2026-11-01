@@ -21,6 +21,7 @@ slugs:
   es: alhambra-entradas-agotadas
   en: alhambra-tickets-sold-out
   de: alhambra-tickets-ausverkauft
+  fr: alhambra-billets-complets
 reservasArriba: true
 respuestaCorta: 'Si la web oficial sale agotada, mira **la víspera entre las 20:00 y las 22:00**, cuando a veces salen entradas de última hora, y consulta la **Granada Card**, que tiene cupo propio. Si no hay suerte, una **visita guiada con la entrada incluida** te asegura los Palacios Nazaríes; la **visita nocturna** y la entrada de **Jardines y Generalife** suelen tener más plazas.'
 actividades:

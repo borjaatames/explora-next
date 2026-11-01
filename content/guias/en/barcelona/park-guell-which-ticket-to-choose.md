@@ -19,6 +19,7 @@ slugs:
   es: park-guell-que-entrada-elegir
   en: park-guell-which-ticket-to-choose
   de: park-guell-welches-ticket-waehlen
+  pt: park-guell-que-bilhete-escolher
 fecha_actualizacion: "2026-10-23"
 reservasArriba: true
 respuestaCorta: 'If you only want the monumental zone (the dragon stairway, the Hypostyle Hall and the serpentine bench), the **basic ticket from €21.50** is enough. For €6.50 more, the **ticket with the Gaudí House Museum** (€28) adds the house where the architect lived. Neither includes a guide and **neither can be cancelled**: book only once your timing is fixed.'

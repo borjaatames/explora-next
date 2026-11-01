@@ -22,6 +22,7 @@ keywords:
 slugs:
   es: madrid-toledo-segovia-en-4-dias
   en: madrid-toledo-segovia-4-days
+  it: madrid-toledo-segovia-in-4-giorni
 reservasArriba: true
 respuestaCorta: 'Duerme las cuatro noches en Madrid y reparte así: **día 1, Madrid histórico** (Palacio Real, 18 €); **día 2, Prado** (15 €) y Retiro; **día 3, Toledo** (Avant desde Atocha en 33 minutos, 22-26 € ida y vuelta; Catedral 12 €), y **día 4, Segovia** (Avant desde Chamartín en unos 30 minutos más bus urbano; Alcázar 7 € o 10 € con torre). Compra los trenes con días: los primeros de la mañana se llenan.'
 faq:

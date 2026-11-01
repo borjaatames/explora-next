@@ -19,6 +19,7 @@ slugs:
   es: malaga-en-dos-dias
   en: malaga-in-two-days
   de: malaga-in-zwei-tagen
+  it: malaga-in-due-giorni
 reservasArriba: true
 respuestaCorta: 'Spend **day one in the old town**: the Alcazaba and Gibralfaro (€10 combined), the Cathedral rooftops, the Picasso Museum and sunset with a sardine espeto at La Malagueta. Give **day two to the Caminito del Rey**, which **sells out weeks ahead**, or to Nerja, Ronda or Antequera. A guided Caminito tour from Málaga starts at €72.'
 actividades:

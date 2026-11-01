@@ -18,6 +18,9 @@ keywords:
 slugs:
   es: fallas-valencia
   en: valencia-fallas
+  fr: fallas-de-valence
+  it: fallas-di-valencia
+  pt: fallas-de-valencia
 reservasArriba: true
 respuestaCorta: 'Fallas 2027 runs from **1 to 19 March**, and the big days are **Monday 15 to Friday 19**. The **mascletà** is every day at 14:00 in Plaza del Ayuntamiento, and it''s free. On the 15th and 16th the monuments go up, on the 17th and 18th comes the Flower Offering, and on the night of the 19th every falla burns in the **cremà**. Almost everything is free: what''s expensive is the hotel, so book it now.'
 actividades:

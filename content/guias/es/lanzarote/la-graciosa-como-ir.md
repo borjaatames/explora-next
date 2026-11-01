@@ -19,6 +19,7 @@ slugs:
   es: la-graciosa-como-ir
   en: how-to-get-to-la-graciosa
   de: la-graciosa-anreise
+  fr: comment-aller-a-la-graciosa
 reservasArriba: true
 respuestaCorta: 'Se va en **ferri desde Órzola**, en el norte de Lanzarote, con **Líneas Romero** o **Biosfera Express**: unos **25 minutos** de travesía y **29 € ida y vuelta** por adulto no residente con Biosfera (Romero, desde 28 €). En la isla **no hay coches de alquiler ni asfalto**: te mueves a pie, en bici o en taxi 4x4. Si prefieres no organizar nada, la excursión en catamarán con ferri, almuerzo y baño sale desde 66 €.'
 actividades:

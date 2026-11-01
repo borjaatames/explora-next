@@ -20,6 +20,9 @@ slugs:
   es: que-ver-en-tenerife
   en: what-to-see-in-tenerife
   de: was-sehen-auf-teneriffa
+  fr: que-voir-a-tenerife
+  it: cosa-vedere-a-tenerife
+  pt: o-que-ver-em-tenerife
 reservasArriba: true
 actividades:
   - teide-teleferico-traslado

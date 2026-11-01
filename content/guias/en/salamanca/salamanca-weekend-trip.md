@@ -20,6 +20,7 @@ slugs:
   es: salamanca-en-un-fin-de-semana
   en: salamanca-weekend-trip
   de: salamanca-wochenendtrip
+  pt: salamanca-num-fim-de-semana
 reservasArriba: true
 respuestaCorta: 'Two days is the right length for Salamanca. Do **the big monuments on Saturday** (Plaza Mayor, La Clerecía, the University, both cathedrals), the Roman Bridge at sunset and **Saturday night**, when the city lights up; keep Sunday for Casa Lis, Unamuno''s house or **one** town trip. A local-guide walking tour starts at €17.'
 actividades:

@@ -21,6 +21,7 @@ slugs:
   es: cadiz-en-un-dia
   en: cadiz-in-one-day
   de: cadiz-in-einem-tag
+  it: cadice-in-un-giorno
 reservasArriba: true
 actividades:
   - tour-guiado-cadiz-centro

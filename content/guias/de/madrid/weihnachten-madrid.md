@@ -22,6 +22,8 @@ slugs:
   es: navidad-madrid
   en: christmas-in-madrid
   de: weihnachten-madrid
+  it: natale-a-madrid
+  pt: natal-em-madrid
 reservasArriba: true
 respuestaCorta: "Die Lichter gehen **Ende November** an und bleiben bis Dreikönig (6. Januar), an über 250 Orten der Stadt. Pflichtprogramm: der **Weihnachtsmarkt auf der Plaza Mayor**, **Cortylandia** in der Calle Preciados, die Lichter im **Naviluz**-Bus oder im Tuk-Tuk und der **Dreikönigsumzug** am 5. Januar. Geh unter der Woche hin: An Dezember-Samstagen geht im Zentrum nichts mehr."
 faq:

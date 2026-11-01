@@ -22,6 +22,8 @@ keywords:
 slugs:
   es: madrid-en-1-dia
   en: madrid-in-1-day
+  it: madrid-in-1-giorno
+  pt: madrid-num-dia
 reservasArriba: true
 respuestaCorta: 'En un día, Madrid se hace **a pie y de este a oeste**: **Prado a las 10:00** (15 €, 2 h 30), Barrio de las Letras y comida en Huertas, **Sol y Plaza Mayor**, **Palacio Real** por la tarde (18 €; gratis para la UE de lunes a jueves en las dos últimas horas) y **atardecer en el Templo de Debod**. Son unos 5 km de paseo y solo hace falta reservar el Prado.'
 faq:

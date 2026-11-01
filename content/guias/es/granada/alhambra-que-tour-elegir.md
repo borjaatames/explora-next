@@ -21,6 +21,8 @@ slugs:
   es: alhambra-que-tour-elegir
   en: alhambra-which-tour-to-choose
   de: alhambra-welche-tour-waehlen
+  fr: alhambra-quelle-visite-choisir
+  it: alhambra-quale-tour-scegliere
 tiempo_lectura: 3
 reservasArriba: true
 actividades:

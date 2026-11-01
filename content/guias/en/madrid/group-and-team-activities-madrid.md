@@ -22,6 +22,8 @@ keywords:
 slugs:
   es: actividades-grupos-empresas-madrid
   en: group-and-team-activities-madrid
+  it: attivita-gruppi-aziende-madrid
+  pt: atividades-para-grupos-e-empresas-madrid
 reservasArriba: true
 respuestaCorta: "For a group of six in Madrid, the best value per head is a **private walking tour of Gran Vía** (€300 for the group, €50 each), **private tuk-tuks around the historic centre** (€79 per tuk-tuk for up to 4: €158 for 8 people and €237 for 10) and, as a day trip, **El Escorial and Cuelgamuros privately** with pick-up, an official guide and tickets (€1,920 for 6, €320 each). For a team dinner, the **private tour of century-old taverns** costs €127 per person with two drinks and two tapas."
 faq:

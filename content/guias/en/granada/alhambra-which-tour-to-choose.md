@@ -20,6 +20,8 @@ slugs:
   es: alhambra-que-tour-elegir
   en: alhambra-which-tour-to-choose
   de: alhambra-welche-tour-waehlen
+  fr: alhambra-quelle-visite-choisir
+  it: alhambra-quale-tour-scegliere
 respuestaCorta: 'Six of the Alhambra tours on sale are **the same 3-hour route** (Alcazaba, Nasrid Palaces, Generalife) priced €50–96, so book the cheapest one with a slot on your date, usually **Entry and guided tour from €50**. Only the **night tour**, the **private tour** and the **gardens-only ticket** are genuinely different. Book weeks ahead: Nasrid Palaces slots sell out.'
 reservasArriba: true
 actividades:

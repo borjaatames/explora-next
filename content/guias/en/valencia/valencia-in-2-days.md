@@ -19,6 +19,7 @@ slugs:
   es: valencia-en-2-dias
   en: valencia-in-2-days
   de: valencia-in-2-tagen
+  pt: valencia-em-2-dias
 reservasArriba: true
 respuestaCorta: 'Spend **day one on the old town** (Central Market, Silk Exchange, Cathedral and Miguelete, El Carmen) and the **City of Arts and Sciences** in the afternoon; **day two in La Albufera** for a boat ride and a real paella in El Palmar at lunchtime, then Malvarrosa beach. Oceanogràfic tickets start at €37; book ahead in high season.'
 actividades:

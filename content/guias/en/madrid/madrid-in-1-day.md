@@ -22,6 +22,8 @@ keywords:
 slugs:
   es: madrid-en-1-dia
   en: madrid-in-1-day
+  it: madrid-in-1-giorno
+  pt: madrid-num-dia
 reservasArriba: true
 respuestaCorta: 'In one day, do Madrid **on foot, east to west**: **the Prado at 10:00** (€15, 2 h 30), the Barrio de las Letras and lunch near Huertas, **Sol and Plaza Mayor**, the **Royal Palace** in the afternoon (€18; free for EU citizens Monday to Thursday in the last two hours) and **sunset at the Temple of Debod**. It''s about 5 km of walking and only the Prado needs booking.'
 faq:
