@@ -12,6 +12,7 @@ import {
 } from "@/lib/i18n/utils";
 import { urlListadoActividadesSiExiste } from "@/lib/actividades";
 import { urlProveedores } from "@/lib/proveedores";
+import { urlPlanificador } from "@/lib/planificador";
 import type { Idioma } from "@/lib/i18n/types";
 
 /**
@@ -42,6 +43,7 @@ const DICT = {
     sobreNosotros: "Sobre nosotros",
     proveedores: "Proveedores locales",
     guias: "Guías de viaje",
+    planificador: "Planificador de viaje",
     ciudades: "Ciudades",
     contacto: "Contacto",
     avisoLegal: "Aviso legal",
@@ -70,6 +72,7 @@ const DICT = {
     sobreNosotros: "About us",
     proveedores: "Local partners",
     guias: "Travel guides",
+    planificador: "Trip planner",
     ciudades: "Cities",
     contacto: "Contact",
     avisoLegal: "Legal notice",
@@ -98,6 +101,7 @@ const DICT = {
     sobreNosotros: "Über uns",
     proveedores: "Lokale Partner",
     guias: "Reiseführer",
+    planificador: "Reiseplaner",
     ciudades: "Städte",
     contacto: "Kontakt",
     avisoLegal: "Impressum",
@@ -268,6 +272,17 @@ export default function Footer({ idioma }: Props) {
                   {t.guias}
                 </Link>
               </li>
+              {idioma !== "de" ? (
+                <li>
+                  <Link
+                    href={urlPlanificador(idioma)}
+                    prefetch={false}
+                    className="hover:text-white transition-colors"
+                  >
+                    {t.planificador}
+                  </Link>
+                </li>
+              ) : null}
               <li>
                 <Link
                   href={urlIndiceCiudades(idioma)}
