@@ -323,14 +323,25 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
               />
             ) : null}
           </div>
-          {lang === "en" && privadasCiudad.length >= MIN_PRIVADAS_CIUDAD ? (
-            <Link
-              href={urlPrivadasDeCiudad("en", params.ciudad)}
-              className="mt-5 inline-flex items-center gap-2 rounded-lg bg-white/10 px-4 py-2 text-sm font-semibold text-white ring-1 ring-white/30 transition-colors hover:bg-white/20 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-piedra-900"
-            >
-              See only the {privadasCiudad.length} private tours →
-            </Link>
-          ) : null}
+          <div className="mt-5 flex flex-wrap gap-3">
+            {lang === "en" && privadasCiudad.length >= MIN_PRIVADAS_CIUDAD ? (
+              <Link
+                href={urlPrivadasDeCiudad("en", params.ciudad)}
+                className="inline-flex items-center gap-2 rounded-lg bg-white/10 px-4 py-2 text-sm font-semibold text-white ring-1 ring-white/30 transition-colors hover:bg-white/20 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-piedra-900"
+              >
+                See only the {privadasCiudad.length} private tours →
+              </Link>
+            ) : null}
+            {lang === "en" ? (
+              <Link
+                href={`/en/planner?city=${params.ciudad}`}
+                prefetch={false}
+                className="inline-flex items-center gap-2 rounded-lg bg-white/10 px-4 py-2 text-sm font-semibold text-white ring-1 ring-white/30 transition-colors hover:bg-white/20 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-piedra-900"
+              >
+                Not sure what to pick? Try the planner →
+              </Link>
+            ) : null}
+          </div>
         </div>
       </header>
 
