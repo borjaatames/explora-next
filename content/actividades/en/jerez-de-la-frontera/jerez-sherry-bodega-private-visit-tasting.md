@@ -6,6 +6,7 @@ descripcion: A 2-hour private guided visit to one of Jerez's largest sherry bode
 slugs:
   es: bodega-jerez-visita-privada-cata
   en: jerez-sherry-bodega-private-visit-tasting
+  fr: jerez-bodega-xeres-visite-privee-degustation
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 188

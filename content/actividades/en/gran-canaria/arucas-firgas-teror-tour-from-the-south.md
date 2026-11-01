@@ -7,6 +7,8 @@ slugs:
   es: excursion-arucas-firgas-teror-desde-sur
   en: arucas-firgas-teror-tour-from-the-south
   de: arucas-firgas-teror-tagesausflug-ab-dem-sueden
+  fr: excursion-arucas-firgas-teror-depuis-le-sud
+  it: escursione-arucas-firgas-teror-dal-sud
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 52

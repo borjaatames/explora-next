@@ -6,6 +6,7 @@ descripcion: Excursión de 9 horas en minivan desde Barcelona, con un máximo de
 slugs:
   es: girona-peratallada-calella-grupo-reducido-desde-barcelona
   en: girona-peratallada-calella-small-group-from-barcelona
+  it: da-barcellona-girona-peratallada-calella-piccolo-gruppo
 duracion: 9 horas
 duracionMinutos: 540
 precioDesde: 95

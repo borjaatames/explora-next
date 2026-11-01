@@ -7,6 +7,8 @@ slugs:
   es: tour-teide-masca-icod-garachico
   en: tenerife-teide-masca-icod-garachico-tour
   de: teneriffa-teide-masca-icod-garachico-tour
+  fr: tenerife-excursion-teide-masca-icod-garachico
+  it: tour-teide-masca-icod-garachico
 duracion: 9 horas
 duracionMinutos: 540
 precioDesde: 58

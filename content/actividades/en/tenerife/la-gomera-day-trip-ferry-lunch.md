@@ -7,6 +7,7 @@ slugs:
   es: excursion-la-gomera-ferri-almuerzo
   en: la-gomera-day-trip-ferry-lunch
   de: la-gomera-tagesausflug-faehre-mittagessen
+  fr: excursion-la-gomera-ferry-dejeuner
 duracion: 10 hours
 duracionMinutos: 600
 precioDesde: 110

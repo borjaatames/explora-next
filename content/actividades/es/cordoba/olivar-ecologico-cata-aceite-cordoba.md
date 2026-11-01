@@ -6,6 +6,7 @@ descripcion: Visita de 2 horas a un olivar ecológico familiar a 25 minutos de C
 slugs:
   es: olivar-ecologico-cata-aceite-cordoba
   en: organic-olive-grove-oil-tasting-cordoba
+  fr: cordoue-oliveraie-bio-degustation-huile
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 39

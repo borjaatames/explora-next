@@ -6,6 +6,7 @@ descripcion: A three-hour evening walk through four neighbourhood bars and resta
 slugs:
   es: tour-tapas-bebidas-noche-valencia
   en: valencia-evening-tapas-drinks-tour
+  fr: valence-tour-tapas-boissons-soiree
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 69

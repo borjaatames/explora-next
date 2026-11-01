@@ -6,6 +6,7 @@ descripcion: Full-day trip with pickup combining LagOmar and the Cactus Garden w
 slugs:
   es: lagomar-jardin-cactus-la-graciosa-excursion
   en: lagomar-cactus-garden-la-graciosa-day-trip
+  fr: lagomar-jardin-de-cactus-la-graciosa-excursion-journee
 duracion: 7 hours
 duracionMinutos: 420
 precioDesde: 82

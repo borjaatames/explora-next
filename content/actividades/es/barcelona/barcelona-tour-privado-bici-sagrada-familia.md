@@ -6,6 +6,8 @@ descripcion: Tour privado de 3 horas en bicicleta o bici eléctrica por el moder
 slugs:
   es: barcelona-tour-privado-bici-sagrada-familia
   en: barcelona-private-bike-tour-sagrada-familia
+  it: barcellona-tour-privato-in-bici-sagrada-familia
+  pt: barcelona-tour-privado-bicicleta-sagrada-familia
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 117

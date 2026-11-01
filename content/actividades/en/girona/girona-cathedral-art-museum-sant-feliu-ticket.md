@@ -6,6 +6,7 @@ descripcion: Combined ticket to Girona Cathedral (with the cloister and the Tape
 slugs:
   es: girona-catedral-museu-art-sant-feliu-entrada
   en: girona-cathedral-art-museum-sant-feliu-ticket
+  fr: gerone-billet-cathedrale-musee-art-sant-feliu
 duracion: Valid for 48 hours
 duracionMinutos: 180
 precioDesde: 12

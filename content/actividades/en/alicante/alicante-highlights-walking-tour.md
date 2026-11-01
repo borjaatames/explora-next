@@ -6,6 +6,8 @@ descripcion: '2-hour guided walking tour of Alicante: the Explanada de España, 
 slugs:
   es: tour-a-pie-alicante-imprescindibles
   en: alicante-highlights-walking-tour
+  fr: alicante-visite-guidee-incontournables
+  it: alicante-tour-a-piedi-luoghi-imperdibili
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 27

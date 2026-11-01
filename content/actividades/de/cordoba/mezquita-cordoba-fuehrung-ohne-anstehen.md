@@ -7,6 +7,8 @@ slugs:
   es: mezquita-catedral-tour-guiado-sin-colas
   en: mosque-cathedral-skip-the-line-guided-tour
   de: mezquita-cordoba-fuehrung-ohne-anstehen
+  fr: mosquee-cathedrale-visite-guidee-coupe-file
+  it: moschea-cattedrale-visita-guidata-salta-fila
 duracion: 75 Minuten – 1,5 Stunden
 duracionMinutos: 90
 precioDesde: 32

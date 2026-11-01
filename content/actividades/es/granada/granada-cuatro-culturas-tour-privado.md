@@ -7,6 +7,9 @@ slugs:
   es: granada-cuatro-culturas-tour-privado
   en: granada-four-cultures-private-walking-tour
   de: granada-vier-kulturen-privater-rundgang
+  fr: grenade-visite-privee-quatre-cultures-albaicin-sacromonte
+  it: granada-quattro-culture-tour-privato-a-piedi
+  pt: granada-quatro-culturas-tour-privado-a-pe
 duracion: 2 o 3 horas, según la opción
 duracionMinutos: 120
 precioDesde: 180

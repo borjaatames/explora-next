@@ -7,6 +7,7 @@ slugs:
   es: tour-cesar-manrique-norte-lanzarote
   en: lanzarote-cesar-manrique-legacy-tour
   de: lanzarote-cesar-manrique-tour-norden
+  fr: lanzarote-circuit-heritage-cesar-manrique-nord
 duracion: 8 Stunden
 duracionMinutos: 480
 precioDesde: 83

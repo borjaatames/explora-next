@@ -7,6 +7,9 @@ slugs:
   es: tuk-tuk-bernabeu-milla-oro-madrid
   en: tuk-tuk-bernabeu-golden-mile-madrid
   de: madrid-private-tuk-tuk-tour-bernabeu-goldene-meile
+  fr: madrid-tuk-tuk-prive-bernabeu-mile-d-or
+  it: tuk-tuk-privato-bernabeu-miglio-d-oro-madrid
+  pt: madrid-tuk-tuk-privado-bernabeu-milha-de-ouro
 duracion: 1 hour 15 minutes
 duracionMinutos: 75
 precioDesde: 79

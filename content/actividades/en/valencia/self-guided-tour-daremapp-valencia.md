@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-valencia
   en: self-guided-tour-daremapp-valencia
   de: valencia-audioguide-tour-daremapp-app
+  fr: valence-visite-audioguidee-daremapp
+  it: audioguida-valencia-app-daremapp
+  pt: tour-autoguiado-daremapp-valencia
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 5

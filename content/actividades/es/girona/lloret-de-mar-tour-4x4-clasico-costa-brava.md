@@ -6,6 +6,7 @@ descripcion: Ruta de 2 horas en un Land Rover Santana clásico entre Lloret de M
 slugs:
   es: lloret-de-mar-tour-4x4-clasico-costa-brava
   en: lloret-de-mar-vintage-4x4-tour-costa-brava
+  fr: lloret-de-mar-excursion-4x4-vintage-costa-brava
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 35

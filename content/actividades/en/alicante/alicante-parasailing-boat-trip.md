@@ -6,6 +6,7 @@ descripcion: Speedboat ride along the Alicante coast with music and a 15-minute 
 slugs:
   en: alicante-parasailing-boat-trip
   es: parasailing-alicante-paseo-barco
+  fr: alicante-parachute-ascensionnel-balade-bateau
 duracion: 1.5 hours
 duracionMinutos: 90
 precioDesde: 65

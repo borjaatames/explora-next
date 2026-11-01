@@ -6,6 +6,7 @@ descripcion: 'A full day in Barcelona with a private guide: Gothic Quarter, La B
 slugs:
   es: sagrada-familia-park-guell-dia-completo-privado
   en: sagrada-familia-park-guell-private-full-day-tour
+  it: sagrada-familia-park-guell-giornata-intera-tour-privato
 duracion: 6 hours 30 minutes
 duracionMinutos: 390
 precioDesde: 196

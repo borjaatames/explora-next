@@ -6,6 +6,8 @@ descripcion: A 4-hour sailing trip from Sant Antoni in a group of up to 10 or pr
 slugs:
   es: velero-ibiza-mediodia-atardecer-barra-libre
   en: ibiza-sailing-yacht-midday-sunset-open-bar
+  fr: ibiza-voilier-midi-coucher-soleil-open-bar
+  pt: ibiza-passeio-veleiro-meio-dia-por-do-sol-bar-aberto
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 95

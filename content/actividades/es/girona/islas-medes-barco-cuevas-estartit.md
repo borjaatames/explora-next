@@ -6,6 +6,7 @@ descripcion: 'Paseo guiado de 1,5 horas desde L''Estartit por la reserva marina 
 slugs:
   es: islas-medes-barco-cuevas-estartit
   en: medes-islands-boat-trip-caves-estartit
+  fr: iles-medes-sortie-en-bateau-grottes-estartit
 duracion: 1 h 30 min
 duracionMinutos: 90
 precioDesde: 24

@@ -6,6 +6,7 @@ descripcion: 3-hour trip from Salou, Cambrils or La Pineda through the Priorat m
 slugs:
   es: cata-vino-priorat-cornudella-recogida-salou
   en: priorat-wine-tasting-tour-salou-pickup
+  fr: priorat-degustation-vins-cornudella-prise-en-charge-salou
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 44

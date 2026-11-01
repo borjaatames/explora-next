@@ -7,6 +7,8 @@ slugs:
   es: la-graciosa-catamaran-almuerzo
   en: la-graciosa-catamaran-cruise-lunch
   de: la-graciosa-katamaran-ausflug-mit-mittagessen
+  fr: la-graciosa-croisiere-catamaran-dejeuner
+  it: la-graciosa-crociera-catamarano-pranzo
 duracion: 6 hours
 duracionMinutos: 360
 precioDesde: 66

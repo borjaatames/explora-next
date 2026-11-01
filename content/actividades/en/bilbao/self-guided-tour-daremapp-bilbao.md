@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-bilbao
   en: self-guided-tour-daremapp-bilbao
   de: bilbao-audioguide-tour-daremapp-app
+  fr: bilbao-visite-autoguidee-daremapp
+  it: bilbao-tour-autoguidato-app-daremapp
+  pt: tour-autoguiado-daremapp-bilbao
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 5.0

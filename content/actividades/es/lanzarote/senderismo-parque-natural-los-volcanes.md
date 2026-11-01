@@ -6,6 +6,7 @@ descripcion: Ruta guiada de unos 8 km y 3 horas por el Parque Natural de Los Vol
 slugs:
   es: senderismo-parque-natural-los-volcanes
   en: lanzarote-volcanoes-natural-park-hike
+  fr: lanzarote-randonnee-guidee-parc-naturel-los-volcanes
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 44

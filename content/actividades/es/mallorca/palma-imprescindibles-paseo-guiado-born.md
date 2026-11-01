@@ -7,6 +7,7 @@ slugs:
   es: palma-imprescindibles-paseo-guiado-born
   en: palma-must-see-guided-walking-tour-born
   de: palma-highlights-stadtfuehrung-ab-born
+  fr: palma-visite-guidee-incontournables-depuis-le-born
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 33

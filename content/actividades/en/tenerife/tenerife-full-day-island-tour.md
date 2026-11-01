@@ -7,6 +7,7 @@ slugs:
   es: excursion-vuelta-isla-tenerife-dia-completo
   en: tenerife-full-day-island-tour
   de: teneriffa-inselrundfahrt-ganztags
+  fr: tenerife-tour-de-l-ile-journee-complete
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 57

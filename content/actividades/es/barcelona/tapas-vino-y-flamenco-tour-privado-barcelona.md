@@ -7,6 +7,9 @@ slugs:
   es: tapas-vino-y-flamenco-tour-privado-barcelona
   en: barcelona-private-tapas-wine-flamenco-tour
   de: barcelona-tapas-wein-flamenco-privattour
+  fr: barcelona-visite-privee-tapas-vin-flamenco
+  it: barcellona-tour-privato-tapas-vino-flamenco
+  pt: barcelona-tour-privado-tapas-vinho-flamenco
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 114

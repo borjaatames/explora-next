@@ -6,6 +6,7 @@ descripcion: Excursión guiada en grupo de 8 a los dólmenes de Menga, Viera y E
 slugs:
   es: antequera-dolmenes-torcal-excursion-desde-malaga
   en: antequera-dolmens-el-torcal-day-trip-from-malaga
+  fr: excursion-dolmens-antequera-el-torcal-depuis-malaga
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 65

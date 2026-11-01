@@ -6,6 +6,7 @@ descripcion: Private 2 h 10 min walk through Madrid's oldest taverns and restaur
 slugs:
   es: tour-privado-tabernas-centenarias-madrid
   en: madrid-oldest-taverns-private-tour
+  it: madrid-tour-privato-taverne-storiche
 duracion: 2 hours 10 minutes
 duracionMinutos: 130
 precioDesde: 127

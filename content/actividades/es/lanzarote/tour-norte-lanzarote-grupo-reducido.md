@@ -6,6 +6,7 @@ descripcion: Tour de 5 horas en grupo de máximo 8 personas por el norte de Lanz
 slugs:
   es: tour-norte-lanzarote-grupo-reducido
   en: northern-lanzarote-small-group-tour
+  fr: nord-de-lanzarote-excursion-petit-groupe
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 64

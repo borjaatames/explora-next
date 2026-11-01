@@ -6,6 +6,7 @@ descripcion: Excursión guiada de 3 horas desde Salou, Cambrils o La Pineda al p
 slugs:
   es: siurana-excursion-salou-recogida-hotel
   en: siurana-tour-from-salou-hotel-pickup
+  fr: siurana-excursion-depuis-salou-prise-en-charge-hotel
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 39

@@ -6,6 +6,7 @@ descripcion: Excursión de un día desde Alicante a las cascadas de las Fuentes 
 slugs:
   es: excursion-guadalest-altea-algar-desde-alicante
   en: guadalest-altea-algar-day-trip-from-alicante
+  fr: excursion-guadalest-altea-algar-depuis-alicante
 duracion: 11 horas
 duracionMinutos: 660
 precioDesde: 47

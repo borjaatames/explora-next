@@ -6,6 +6,7 @@ descripcion: 2.5-hour food tour of three Santiago bars with three Galician tapas
 slugs:
   es: tour-tapas-santiago-musica-directo
   en: santiago-tapas-tour-live-music
+  fr: santiago-tour-tapas-musique-live
 duracion: 2.5 hours
 duracionMinutos: 150
 precioDesde: 45

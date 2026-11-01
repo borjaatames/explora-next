@@ -6,6 +6,9 @@ descripcion: 'A 5.5-hour trip to Montserrat by car with a local guide: monastery
 slugs:
   es: montserrat-privado-o-semiprivado-entradas-basilica
   en: montserrat-private-or-semi-private-basilica-tickets
+  fr: montserrat-voiture-guide-prive-semi-prive-basilique
+  it: montserrat-tour-privato-o-semiprivato-biglietti-basilica
+  pt: montserrat-privado-ou-semiprivado-bilhetes-basilica
 duracion: 5 hours 30 minutes
 duracionMinutos: 330
 precioDesde: 121

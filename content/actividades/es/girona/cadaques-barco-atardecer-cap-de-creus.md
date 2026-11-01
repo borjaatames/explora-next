@@ -6,6 +6,7 @@ descripcion: Salida de 2 horas al atardecer en un barco histórico desde el puer
 slugs:
   es: cadaques-barco-atardecer-cap-de-creus
   en: cadaques-sunset-boat-trip-cap-de-creus
+  fr: cadaques-sortie-en-bateau-coucher-de-soleil-cap-de-creus
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 35

@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-malaga
   en: self-guided-tour-daremapp-malaga
   de: malaga-audiotour-daremapp-app
+  fr: malaga-visite-audioguidee-autonome-daremapp
+  it: audioguida-malaga-app-daremapp
+  pt: tour-autoguiado-daremapp-malaga
 duracion: 2 Stunden
 duracionMinutos: 120
 precioDesde: 10

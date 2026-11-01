@@ -6,6 +6,7 @@ descripcion: Tour guiado de 2 horas por el Parque del Retiro en bici eléctrica 
 slugs:
   es: magic-retiro-park-bike-tour
   en: magic-retiro-park-bike-tour
+  fr: parc-du-retiro-visite-guidee-velo
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 29

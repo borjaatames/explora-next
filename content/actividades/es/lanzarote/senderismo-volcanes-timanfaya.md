@@ -6,6 +6,7 @@ descripcion: Ruta circular guiada de unos 8 km y 3 horas sobre coladas de lava j
 slugs:
   es: senderismo-volcanes-timanfaya
   en: timanfaya-volcano-hike
+  it: trekking-vulcani-timanfaya
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 47

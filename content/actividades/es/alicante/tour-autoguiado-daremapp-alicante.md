@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-alicante
   en: self-guided-tour-daremapp-alicante
   de: alicante-selbstgefuehrte-tour-daremapp
+  fr: alicante-visite-autoguidee-daremapp
+  it: alicante-tour-autoguidato-app-daremapp
+  pt: tour-autoguiado-daremapp-alicante
 duracion: 2 horas 30 minutos
 duracionMinutos: 150
 precioDesde: 5.0

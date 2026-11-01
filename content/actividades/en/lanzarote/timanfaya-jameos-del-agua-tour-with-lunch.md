@@ -7,6 +7,7 @@ slugs:
   es: excursion-timanfaya-jameos-almuerzo-incluido
   en: timanfaya-jameos-del-agua-tour-with-lunch
   de: lanzarote-timanfaya-jameos-del-agua-tour-mit-mittagessen
+  fr: lanzarote-excursion-timanfaya-jameos-del-agua-dejeuner
 duracion: 9 hours
 duracionMinutos: 540
 precioDesde: 95

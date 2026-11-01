@@ -6,6 +6,7 @@ descripcion: A 3-hour small-group guided tour of the Alhambra and Nasrid Palaces
 slugs:
   en: alhambra-nasrid-palaces-skip-the-line
   es: alhambra-palacios-nazaries-sin-colas
+  fr: alhambra-palais-nasrides-coupe-file-petit-groupe
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 53

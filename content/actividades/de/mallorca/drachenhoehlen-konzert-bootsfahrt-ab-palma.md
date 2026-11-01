@@ -7,6 +7,7 @@ slugs:
   es: cuevas-del-drach-concierto-barca-desde-palma
   en: drach-caves-concert-boat-from-palma
   de: drachenhoehlen-konzert-bootsfahrt-ab-palma
+  fr: grottes-du-drach-concert-barque-depuis-palma
 duracion: 5 Stunden
 duracionMinutos: 300
 precioDesde: 54

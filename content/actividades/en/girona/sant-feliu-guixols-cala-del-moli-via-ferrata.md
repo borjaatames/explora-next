@@ -6,6 +6,8 @@ descripcion: 3-hour activity with a certified guide on the Cala del Molí via fe
 slugs:
   es: via-ferrata-cala-del-moli-sant-feliu-guixols
   en: sant-feliu-guixols-cala-del-moli-via-ferrata
+  fr: sant-feliu-de-guixols-via-ferrata-cala-del-moli
+  it: sant-feliu-guixols-via-ferrata-cala-del-moli
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 40

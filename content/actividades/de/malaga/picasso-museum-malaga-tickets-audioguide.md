@@ -7,6 +7,8 @@ slugs:
   es: museo-picasso-malaga-entrada
   en: picasso-museum-malaga-ticket
   de: picasso-museum-malaga-tickets-audioguide
+  fr: billet-musee-picasso-malaga-audioguide
+  it: biglietto-museo-picasso-malaga
 duracion: 1 Tag gültig
 duracionMinutos: 120
 precioDesde: 13

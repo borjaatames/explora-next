@@ -7,6 +7,8 @@ slugs:
   es: barcelona-cata-de-vinos-azotea
   en: barcelona-rooftop-wine-tasting
   de: barcelona-weinprobe-dachterrasse
+  fr: barcelona-degustation-vins-rooftop
+  it: barcellona-degustazione-vini-in-terrazza
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 48

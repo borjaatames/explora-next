@@ -6,6 +6,8 @@ descripcion: Paseo en barco de 3 horas y media desde Sant Antoni por Cala Salada
 slugs:
   es: barco-atardecer-cala-salada-cala-gracio-sant-antoni
   en: sant-antoni-cala-salada-gracio-sunset-boat
+  fr: sant-antoni-bateau-coucher-soleil-cala-salada-cala-gracio
+  it: sant-antoni-barca-tramonto-cala-salada-gracio
 duracion: 3 horas 30 minutos
 duracionMinutos: 210
 precioDesde: 80

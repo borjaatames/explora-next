@@ -6,6 +6,8 @@ descripcion: Tour privado a pie de hora y media por lo imprescindible de Salaman
 slugs:
   es: tour-privado-salamanca-monumentos-principales
   en: salamanca-private-tour-main-sights
+  fr: salamanque-visite-privee-principaux-monuments
+  it: tour-privato-salamanca-monumenti-principali
 duracion: 1 hora 30 minutos
 duracionMinutos: 90
 precioDesde: 150

@@ -6,6 +6,7 @@ descripcion: Excursión de 3 horas desde Salou, Cambrils o La Pineda por las mon
 slugs:
   es: cata-vino-priorat-cornudella-recogida-salou
   en: priorat-wine-tasting-tour-salou-pickup
+  fr: priorat-degustation-vins-cornudella-prise-en-charge-salou
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 44

@@ -7,6 +7,8 @@ slugs:
   es: tour-tuk-tuk-valencia-centro-playas
   en: valencia-tuk-tuk-tour-old-town-beaches
   de: valencia-tuk-tuk-tour-altstadt-straende
+  fr: valence-tuk-tuk-vieille-ville-plages-cite-des-arts
+  it: tour-in-tuk-tuk-valencia-centro-spiagge
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 40

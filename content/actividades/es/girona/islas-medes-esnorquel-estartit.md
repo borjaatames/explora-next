@@ -6,6 +6,7 @@ descripcion: Salida de 2 horas y media desde L'Estartit en barco pequeño para h
 slugs:
   es: islas-medes-esnorquel-estartit
   en: medes-islands-snorkelling-trip-estartit
+  fr: iles-medes-snorkeling-reserve-marine-estartit
 duracion: 2 horas 30 minutos
 duracionMinutos: 150
 precioDesde: 39

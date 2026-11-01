@@ -6,6 +6,8 @@ descripcion: 'A 2-hour private walking tour for newcomers: the Gothic Quarter, P
 slugs:
   es: barcelona-tour-privado-2-horas-gotico-born
   en: barcelona-2-hour-private-tour-gothic-born
+  fr: barcelona-visite-privee-2-heures-gothique-born
+  it: barcellona-tour-privato-2-ore-gotico-born
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 54

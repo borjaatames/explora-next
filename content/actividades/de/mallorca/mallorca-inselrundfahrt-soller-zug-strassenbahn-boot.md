@@ -7,6 +7,8 @@ slugs:
   es: mallorca-vuelta-isla-tren-soller-tranvia-barco
   en: mallorca-island-tour-soller-train-tram-boat
   de: mallorca-inselrundfahrt-soller-zug-strassenbahn-boot
+  fr: majorque-tour-ile-train-soller-tramway-bateau
+  it: giro-maiorca-treno-soller-tram-barca
 duracion: 8 Stunden
 duracionMinutos: 480
 precioDesde: 103

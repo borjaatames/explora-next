@@ -6,6 +6,7 @@ descripcion: Visita guiada de 3 horas a la Alhambra y los Palacios Nazaríes en 
 slugs:
   es: alhambra-palacios-nazaries-sin-colas
   en: alhambra-nasrid-palaces-skip-the-line
+  fr: alhambra-palais-nasrides-coupe-file-petit-groupe
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 53

@@ -7,6 +7,7 @@ slugs:
   es: jeep-safari-sur-gran-canaria
   en: southern-gran-canaria-jeep-safari
   de: gran-canaria-jeepsafari-im-sueden
+  it: jeep-safari-sud-gran-canaria
 duracion: 5 Stunden
 duracionMinutos: 300
 precioDesde: 69

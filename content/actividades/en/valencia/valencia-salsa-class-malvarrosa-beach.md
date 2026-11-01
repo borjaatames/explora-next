@@ -6,6 +6,7 @@ descripcion: A one-hour salsa class for all levels next to Malvarrosa Beach, wit
 slugs:
   es: clase-salsa-playa-malvarrosa-valencia
   en: valencia-salsa-class-malvarrosa-beach
+  it: lezione-salsa-spiaggia-malvarrosa-valencia
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 14

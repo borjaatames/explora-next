@@ -6,6 +6,8 @@ descripcion: Tour privado de 2 horas por Santiago con guía local en cuatro idio
 slugs:
   es: tour-privado-santiago-catedral-casco-antiguo
   en: santiago-private-tour-cathedral-old-town
+  it: tour-privato-santiago-cattedrale-centro-storico
+  pt: santiago-tour-privado-catedral-centro-historico
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 52

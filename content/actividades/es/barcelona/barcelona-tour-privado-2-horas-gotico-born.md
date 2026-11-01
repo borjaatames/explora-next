@@ -6,6 +6,8 @@ descripcion: 'Tour privado a pie de 2 horas para recién llegados: Barrio Gótic
 slugs:
   es: barcelona-tour-privado-2-horas-gotico-born
   en: barcelona-2-hour-private-tour-gothic-born
+  fr: barcelona-visite-privee-2-heures-gothique-born
+  it: barcellona-tour-privato-2-ore-gotico-born
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 54

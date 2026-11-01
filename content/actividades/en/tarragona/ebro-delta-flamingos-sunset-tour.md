@@ -6,6 +6,7 @@ descripcion: 'Guided sunset birdwatching in the Ebro Delta Natural Park: the Rie
 slugs:
   es: flamencos-delta-del-ebro-atardecer
   en: ebro-delta-flamingos-sunset-tour
+  fr: delta-de-l-ebre-flamants-roses-coucher-de-soleil
 duracion: 2.5 hours
 duracionMinutos: 150
 precioDesde: 40

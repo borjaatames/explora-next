@@ -6,6 +6,8 @@ descripcion: A 3-hour private bike or e-bike tour of Barcelona's Art Nouveau (Ca
 slugs:
   es: barcelona-tour-privado-bici-sagrada-familia
   en: barcelona-private-bike-tour-sagrada-familia
+  it: barcellona-tour-privato-in-bici-sagrada-familia
+  pt: barcelona-tour-privado-bicicleta-sagrada-familia
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 117

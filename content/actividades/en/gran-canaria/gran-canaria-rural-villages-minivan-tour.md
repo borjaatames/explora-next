@@ -7,6 +7,8 @@ slugs:
   es: tour-pueblos-rurales-gran-canaria-minivan
   en: gran-canaria-rural-villages-minivan-tour
   de: gran-canaria-bergdoerfer-tour-im-minivan
+  fr: gran-canaria-excursion-villages-ruraux-minibus
+  it: tour-paesi-rurali-gran-canaria-minivan
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 79

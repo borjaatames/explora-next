@@ -6,6 +6,7 @@ descripcion: Entrada sin colas a la catedral de Tarragona, de los siglos XII y X
 slugs:
   es: catedral-tarragona-entrada-audioguia
   en: tarragona-cathedral-ticket-audio-guide
+  fr: tarragone-billet-cathedrale-audioguide
 duracion: 1 día (visita de 1 hora)
 duracionMinutos: 60
 precioDesde: 12.5

@@ -7,6 +7,7 @@ slugs:
   es: bilbao-paseo-privado-con-local-lokafy
   en: bilbao-private-walk-with-a-local-lokafy
   de: bilbao-privater-spaziergang-mit-einheimischen
+  fr: bilbao-balade-privee-avec-un-habitant-lokafy
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 48

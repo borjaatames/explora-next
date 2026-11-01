@@ -6,6 +6,9 @@ descripcion: Visita guiada de 2 horas por la catedral de Santiago y su museo, co
 slugs:
   es: catedral-santiago-museo-visita-guiada-sin-colas
   en: santiago-cathedral-museum-skip-line-tour
+  fr: santiago-visite-guidee-cathedrale-musee-coupe-file
+  it: visita-guidata-cattedrale-santiago-museo-salta-fila
+  pt: santiago-visita-guiada-catedral-museu-sem-filas
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 23

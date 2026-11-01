@@ -6,6 +6,7 @@ descripcion: Ruta guiada en quad o buggy biplaza por pistas y caminos de los alr
 slugs:
   es: quad-safari-salou-recogida-hotel
   en: salou-guided-quad-safari-hotel-pickup
+  fr: salou-safari-quad-guide-prise-en-charge-hotel
 duracion: 1 o 2 horas
 duracionMinutos: 120
 precioDesde: 90

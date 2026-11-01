@@ -6,6 +6,9 @@ descripcion: 'Excursión de 5 h 30 min a Montserrat en coche con guía local: mo
 slugs:
   es: montserrat-privado-o-semiprivado-entradas-basilica
   en: montserrat-private-or-semi-private-basilica-tickets
+  fr: montserrat-voiture-guide-prive-semi-prive-basilique
+  it: montserrat-tour-privato-o-semiprivato-biglietti-basilica
+  pt: montserrat-privado-ou-semiprivado-bilhetes-basilica
 duracion: 5 horas y 30 minutos
 duracionMinutos: 330
 precioDesde: 121

@@ -6,6 +6,7 @@ descripcion: 9-hour minivan day trip from Barcelona with up to 7 people, with gu
 slugs:
   es: girona-peratallada-calella-grupo-reducido-desde-barcelona
   en: girona-peratallada-calella-small-group-from-barcelona
+  it: da-barcellona-girona-peratallada-calella-piccolo-gruppo
 duracion: 9 hours
 duracionMinutos: 540
 precioDesde: 95

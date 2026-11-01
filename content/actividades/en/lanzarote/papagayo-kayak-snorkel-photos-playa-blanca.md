@@ -6,6 +6,7 @@ descripcion: 3.5-hour guided kayak trip from Playa Blanca to Papagayo beach, wit
 slugs:
   es: kayak-esnorquel-papagayo-fotos-playa-blanca
   en: papagayo-kayak-snorkel-photos-playa-blanca
+  fr: papagayo-kayak-snorkeling-photos-playa-blanca
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 45

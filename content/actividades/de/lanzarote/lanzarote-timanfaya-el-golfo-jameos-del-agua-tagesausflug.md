@@ -7,6 +7,8 @@ slugs:
   es: excursion-timanfaya-el-golfo-jameos-del-agua
   en: timanfaya-el-golfo-jameos-del-agua-day-trip
   de: lanzarote-timanfaya-el-golfo-jameos-del-agua-tagesausflug
+  fr: lanzarote-excursion-timanfaya-el-golfo-jameos-del-agua
+  it: escursione-timanfaya-el-golfo-jameos-del-agua
 duracion: 8 Stunden
 duracionMinutos: 480
 precioDesde: 87

@@ -6,6 +6,7 @@ descripcion: Excursión de 5 horas en barco boutique por Cala Comte, Cala Bassa 
 slugs:
   es: ruta-calas-ibiza-todo-incluido-paddle-esnorquel
   en: ibiza-all-inclusive-beach-hopper-paddle-snorkel
+  it: ibiza-giro-cale-tutto-incluso-paddle-snorkeling
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 60

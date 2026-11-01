@@ -6,6 +6,8 @@ descripcion: Primera inmersión hasta 12 m con monitor PADI para cada 2 personas
 slugs:
   es: buceo-esnorquel-tortugas-costa-adeje
   en: scuba-snorkel-turtles-costa-adeje
+  fr: costa-adeje-bapteme-plongee-snorkeling-tortues
+  it: battesimo-sub-snorkeling-tartarughe-costa-adeje
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 75

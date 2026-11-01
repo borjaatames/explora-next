@@ -6,6 +6,9 @@ descripcion: 'An 8-hour private trip from Barcelona with hotel pickup: the Art N
 slugs:
   es: montserrat-cavas-codorniu-privado-desde-barcelona
   en: montserrat-codorniu-cava-private-day-trip
+  fr: montserrat-caves-codorniu-excursion-privee
+  it: montserrat-cantine-codorniu-tour-privato-da-barcellona
+  pt: montserrat-caves-codorniu-excursao-privada
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 317

@@ -6,6 +6,7 @@ descripcion: '2.5-hour guided walk through Corralejo, from El Campanario to the 
 slugs:
   es: tour-a-pie-corralejo-degustaciones
   en: corralejo-walking-tour-tastings
+  fr: corralejo-visite-a-pied-degustations-produits-locaux
 duracion: 2.5 hours
 duracionMinutos: 150
 precioDesde: 18

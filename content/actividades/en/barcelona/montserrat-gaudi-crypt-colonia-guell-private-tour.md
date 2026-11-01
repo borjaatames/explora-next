@@ -6,6 +6,9 @@ descripcion: 'A 7-hour private trip by car from Barcelona: Gaudí''s crypt at Co
 slugs:
   es: montserrat-cripta-gaudi-colonia-guell-privado
   en: montserrat-gaudi-crypt-colonia-guell-private-tour
+  fr: montserrat-crypte-gaudi-colonia-guell-visite-privee
+  it: montserrat-cripta-gaudi-colonia-guell-tour-privato
+  pt: montserrat-cripta-gaudi-colonia-guell-tour-privado
 duracion: 7 hours
 duracionMinutos: 420
 precioDesde: 286

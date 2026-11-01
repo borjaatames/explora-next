@@ -6,6 +6,8 @@ descripcion: Full day by boat from Playa d'en Bossa with swim stops at Espalmado
 slugs:
   es: excursion-barco-formentera-todo-incluido-3-paradas
   en: formentera-all-inclusive-boat-day-trip-3-stops
+  fr: excursion-bateau-formentera-tout-compris-3-arrets
+  it: escursione-barca-formentera-tutto-incluso-3-soste
 duracion: 10 hours
 duracionMinutos: 600
 precioDesde: 110

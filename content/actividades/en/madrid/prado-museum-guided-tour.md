@@ -6,6 +6,8 @@ descripcion: 1.5-2 hour guided tour of the Prado's masterpieces (Velázquez, Goy
 slugs:
   es: museo-prado-visita-guiada
   en: prado-museum-guided-tour
+  fr: musee-du-prado-visite-guidee-billet-inclus
+  it: museo-del-prado-visita-guidata
 duracion: 1.5 - 2 hours
 duracionMinutos: 105
 precioDesde: 49

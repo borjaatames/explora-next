@@ -6,6 +6,7 @@ descripcion: Ruta guiada en buggy de 2-3 horas desde Costa Teguise por las cante
 slugs:
   es: buggy-volcanes-norte-lanzarote
   en: lanzarote-off-road-buggy-tour
+  fr: lanzarote-excursion-buggy-tout-terrain-nord-volcanique
 duracion: 2-3 horas
 duracionMinutos: 150
 precioDesde: 150

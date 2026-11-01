@@ -6,6 +6,8 @@ descripcion: Actividad de 3 horas con guía titulado para recorrer la vía ferra
 slugs:
   es: via-ferrata-cala-del-moli-sant-feliu-guixols
   en: sant-feliu-guixols-cala-del-moli-via-ferrata
+  fr: sant-feliu-de-guixols-via-ferrata-cala-del-moli
+  it: sant-feliu-guixols-via-ferrata-cala-del-moli
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 40

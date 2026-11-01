@@ -6,6 +6,7 @@ descripcion: Ruta en barco de 3 horas desde Sant Antoni por Cala Gracioneta, Cal
 slugs:
   es: barco-calas-secretas-ibiza-barra-libre-tapas
   en: ibiza-secret-coves-boat-tour-open-bar-tapas
+  it: ibiza-tour-barca-cale-segrete-open-bar-tapas
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 80

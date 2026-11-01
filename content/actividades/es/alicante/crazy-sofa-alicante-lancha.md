@@ -6,6 +6,7 @@ descripcion: Paseo en crazy sofa, un sofá hinchable de 6 plazas remolcado a tod
 slugs:
   es: crazy-sofa-alicante-lancha
   en: alicante-crazy-sofa-boat-ride
+  fr: alicante-crazy-sofa-bateau-port
 duracion: 1 día (validez de la reserva)
 duracionMinutos: 1440
 precioDesde: 25

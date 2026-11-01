@@ -6,6 +6,8 @@ descripcion: Tour privado a pie de 1 hora y 30 minutos por la Universidad de Sal
 slugs:
   es: universidad-salamanca-colegios-tour-privado
   en: university-salamanca-colleges-private-tour
+  fr: universite-de-salamanque-visite-privee-colleges
+  it: tour-privato-universita-salamanca-collegi
 duracion: 1 hora 30 minutos
 duracionMinutos: 90
 precioDesde: 150

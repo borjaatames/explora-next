@@ -6,6 +6,7 @@ descripcion: Ruta guiada nocturna de 3 horas al cráter del Calderón Hondo, cer
 slugs:
   es: calderon-hondo-volcan-estrellas
   en: calderon-hondo-volcano-stargazing-tour
+  it: vulcano-calderon-hondo-notturno-stelle
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 45

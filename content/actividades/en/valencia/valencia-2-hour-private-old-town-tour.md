@@ -6,6 +6,7 @@ descripcion: 'A 2-hour private walking tour of central Valencia: Plaza de Manise
 slugs:
   es: valencia-tour-privado-2-horas-centro-historico
   en: valencia-2-hour-private-old-town-tour
+  pt: valencia-tour-privado-2-horas-centro-historico
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 48

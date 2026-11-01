@@ -6,6 +6,7 @@ descripcion: Tour guiado de 3 horas por la Alhambra, los Palacios Nazaríes, la 
 slugs:
   es: alhambra-tour-guiado-con-entradas
   en: alhambra-guided-tour-with-tickets
+  fr: alhambra-visite-guidee-palais-nasrides-avec-billets
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 99

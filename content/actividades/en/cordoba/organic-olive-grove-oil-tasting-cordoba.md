@@ -6,6 +6,7 @@ descripcion: A 2-hour visit to a family-run organic olive grove 25 minutes from 
 slugs:
   es: olivar-ecologico-cata-aceite-cordoba
   en: organic-olive-grove-oil-tasting-cordoba
+  fr: cordoue-oliveraie-bio-degustation-huile
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 39

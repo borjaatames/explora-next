@@ -6,6 +6,7 @@ descripcion: Tour a pie de 2 horas por el Madrid de los Austrias en grupo reduci
 slugs:
   es: walking-tour-habsburgos-grupo-reducido
   en: madrid-habsburgs-small-group-walking-tour
+  fr: madrid-des-habsbourg-visite-guidee-petit-groupe
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 29.95

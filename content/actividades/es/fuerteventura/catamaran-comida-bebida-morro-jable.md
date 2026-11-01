@@ -7,6 +7,7 @@ slugs:
   es: catamaran-comida-bebida-morro-jable
   en: morro-jable-catamaran-lunch-drinks
   de: morro-jable-katamaran-mit-essen-und-getraenken
+  fr: morro-jable-catamaran-repas-boissons
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 79

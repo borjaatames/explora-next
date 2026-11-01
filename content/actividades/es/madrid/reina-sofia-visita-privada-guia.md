@@ -6,6 +6,7 @@ descripcion: 'Visita privada de 2 horas al Museo Reina Sofía con guía oficial 
 slugs:
   es: reina-sofia-visita-privada-guia
   en: reina-sofia-museum-private-tour
+  it: museo-reina-sofia-tour-privato-guida
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 124

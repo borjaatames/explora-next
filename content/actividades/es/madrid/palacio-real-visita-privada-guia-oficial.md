@@ -6,6 +6,7 @@ descripcion: Visita privada de 2 h 30 min al Palacio Real de Madrid con guía of
 slugs:
   es: palacio-real-visita-privada-guia-oficial
   en: royal-palace-madrid-private-tour
+  it: palazzo-reale-madrid-tour-privato-guida-ufficiale
 duracion: 2 horas y 30 minutos
 duracionMinutos: 150
 precioDesde: 141

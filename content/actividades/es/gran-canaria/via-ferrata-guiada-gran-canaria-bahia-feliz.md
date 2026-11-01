@@ -6,6 +6,7 @@ descripcion: Vía ferrata de 4 horas cerca de Bahía Feliz con guía, en grupo d
 slugs:
   es: via-ferrata-guiada-gran-canaria-bahia-feliz
   en: gran-canaria-guided-via-ferrata-bahia-feliz
+  it: via-ferrata-guidata-gran-canaria-bahia-feliz
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 70

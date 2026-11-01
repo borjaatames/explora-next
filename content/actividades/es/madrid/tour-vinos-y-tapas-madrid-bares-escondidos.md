@@ -6,6 +6,7 @@ descripcion: 'Tour de 3 horas en grupo pequeño diseñado por un Spanish Wine Sc
 slugs:
   es: tour-vinos-y-tapas-madrid-bares-escondidos
   en: madrid-food-and-wine-tour-hidden-bars
+  it: madrid-tour-vini-tapas-bar-nascosti
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 90

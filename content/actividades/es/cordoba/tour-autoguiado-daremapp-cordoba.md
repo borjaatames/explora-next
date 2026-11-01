@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-cordoba
   en: self-guided-tour-daremapp-cordoba
   de: cordoba-audiotour-daremapp-app
+  fr: cordoue-visite-autoguidee-application-daremapp
+  it: tour-autoguidato-cordova-app-daremapp
+  pt: tour-autoguiado-daremapp-cordoba
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 10.0

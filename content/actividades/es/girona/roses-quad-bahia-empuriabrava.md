@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 1 hora en quad por la bahía de Roses, de Empuriabra
 slugs:
   es: roses-quad-bahia-empuriabrava
   en: roses-bay-quad-tour-empuriabrava
+  fr: roses-excursion-quad-baie-empuriabrava
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 119

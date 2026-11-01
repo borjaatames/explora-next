@@ -7,6 +7,9 @@ slugs:
   es: tuk-tuk-madrid-completo-ruta-1-2
   en: complete-madrid-tuk-tuk-tour
   de: madrid-komplett-private-tuk-tuk-tour
+  fr: madrid-complet-tuk-tuk-prive
+  it: madrid-completa-tuk-tuk-privato-percorsi-1-2
+  pt: madrid-completa-tuk-tuk-privado
 duracion: 2 hours 15 minutes
 duracionMinutos: 135
 precioDesde: 129

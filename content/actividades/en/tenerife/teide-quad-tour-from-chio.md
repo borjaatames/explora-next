@@ -6,6 +6,8 @@ descripcion: Guided quad ride from Chío (Guía de Isora) up to Teide National P
 slugs:
   es: quad-teide-desde-chio
   en: teide-quad-tour-from-chio
+  fr: teide-en-quad-depuis-chio
+  it: quad-teide-da-chio
 duracion: 3 to 4 hours
 duracionMinutos: 180
 precioDesde: 55

@@ -7,6 +7,8 @@ slugs:
   es: forestal-park-mallorca-aventura
   en: forestal-park-mallorca-adventure
   de: forestal-park-mallorca-kletterpark
+  fr: forestal-park-majorque-parcours-accrobranche
+  it: forestal-park-maiorca-parco-avventura
 duracion: 1 Tag gültig
 duracionMinutos: 180
 precioDesde: 26

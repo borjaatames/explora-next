@@ -6,6 +6,7 @@ descripcion: '110-minute night walking tour through dark Madrid: stories of the 
 slugs:
   es: madrid-tour-nocturno-inquisicion-leyendas
   en: madrid-spanish-inquisition-ghost-tour
+  it: madrid-tour-notturno-inquisizione-fantasmi-leggende
 duracion: 110 minutes
 duracionMinutos: 110
 precioDesde: 18

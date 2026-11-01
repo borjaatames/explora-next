@@ -6,6 +6,8 @@ descripcion: Tour guiado a pie de 2,5 horas por la Mezquita-Catedral y la Juder√
 slugs:
   es: mezquita-juderia-tour-a-pie
   en: mosque-jewish-quarter-walking-tour
+  fr: cordoue-visite-guidee-mosquee-juiverie-billets
+  it: tour-a-piedi-mezquita-juderia-cordoba
 duracion: 2,5 horas
 duracionMinutos: 150
 precioDesde: 34

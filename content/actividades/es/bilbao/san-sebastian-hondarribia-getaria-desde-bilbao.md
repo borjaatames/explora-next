@@ -6,6 +6,7 @@ descripcion: 'Excursión de un día desde Bilbao por la costa vasca: Hendaya, en
 slugs:
   es: san-sebastian-hondarribia-getaria-desde-bilbao
   en: san-sebastian-hondarribia-getaria-from-bilbao
+  it: san-sebastian-hondarribia-getaria-escursione-da-bilbao
 duracion: 10 horas
 duracionMinutos: 600
 precioDesde: 35

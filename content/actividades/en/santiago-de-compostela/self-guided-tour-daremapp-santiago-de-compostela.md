@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-santiago-de-compostela
   en: self-guided-tour-daremapp-santiago-de-compostela
   de: santiago-de-compostela-audioguide-tour-daremapp-app
+  fr: santiago-de-compostela-visite-audioguidee-daremapp
+  it: audioguida-santiago-de-compostela-app-daremapp
+  pt: tour-autoguiado-daremapp-santiago-de-compostela
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 5

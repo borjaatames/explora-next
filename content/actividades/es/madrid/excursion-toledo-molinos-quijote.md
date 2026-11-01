@@ -7,6 +7,8 @@ slugs:
   es: excursion-toledo-molinos-quijote
   en: toledo-and-don-quixote-windmills-from-madrid
   de: toledo-don-quijote-windmuehlen-ausflug-ab-madrid
+  fr: excursion-tolede-moulins-don-quichotte-depuis-madrid
+  it: toledo-mulini-don-chisciotte-da-madrid
 duracion: 10 horas
 duracionMinutos: 600
 precioDesde: 125

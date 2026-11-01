@@ -7,6 +7,7 @@ slugs:
   es: formentor-dia-completo-mercado-barco-pollenca
   en: formentor-full-day-market-boat-pollensa
   de: formentor-tagesausflug-markt-boot-pollenca
+  fr: formentor-excursion-journee-marche-bateau-pollenca
 duracion: 8 horas
 duracionMinutos: 480
 precioDesde: 59

@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-madrid
   en: self-guided-tour-daremapp-madrid
   de: madrid-audiotour-auf-eigene-faust-daremapp
+  fr: madrid-visite-audioguidee-autonome-daremapp
+  it: tour-autoguidato-daremapp-madrid
+  pt: tour-autoguiado-daremapp-madrid
 duracion: Unbegrenzter Zugang zu mehr als 10 Stunden Inhalt
 duracionMinutos: 600
 precioDesde: 10

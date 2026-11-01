@@ -6,6 +6,7 @@ descripcion: '1-hour guided tour of the Dalí Theatre-Museum in Figueres with sk
 slugs:
   es: teatro-museo-dali-figueres-visita-guiada
   en: dali-theatre-museum-figueres-guided-tour
+  fr: figueres-visite-guidee-theatre-musee-dali-billets
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 31

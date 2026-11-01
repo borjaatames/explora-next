@@ -7,6 +7,7 @@ slugs:
   es: jeep-safari-cofete-morro-jable
   en: cofete-jeep-safari-morro-jable
   de: cofete-jeep-safari-ab-morro-jable
+  it: jeep-safari-spiaggia-cofete-morro-jable
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 65

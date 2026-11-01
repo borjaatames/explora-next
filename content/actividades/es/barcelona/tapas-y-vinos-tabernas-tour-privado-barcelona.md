@@ -6,6 +6,8 @@ descripcion: 'Tour privado de 3 horas por cinco bares y tabernas tradicionales d
 slugs:
   es: tapas-y-vinos-tabernas-tour-privado-barcelona
   en: barcelona-private-tapas-wine-taverns-tour
+  fr: barcelona-visite-privee-tapas-vin-tavernes
+  pt: barcelona-tour-privado-tapas-vinho-tascas
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 129

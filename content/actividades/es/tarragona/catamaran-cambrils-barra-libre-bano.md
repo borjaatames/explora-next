@@ -6,6 +6,7 @@ descripcion: Paseo de 3 horas en catamarán desde Cambrils por la Costa Dorada, 
 slugs:
   es: catamaran-cambrils-barra-libre-bano
   en: cambrils-catamaran-open-bar-swim
+  fr: cambrils-sortie-catamaran-open-bar-baignade
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 35

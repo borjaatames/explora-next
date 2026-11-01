@@ -6,6 +6,8 @@ descripcion: 2-hour guided walk through Alicante's old town with a licensed loca
 slugs:
   es: tour-a-pie-centro-historico-alicante-2-horas
   en: alicante-historic-centre-walking-tour-2-hours
+  fr: alicante-visite-guidee-centre-historique-2-heures
+  it: alicante-tour-a-piedi-centro-storico-2-ore
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 16

@@ -6,6 +6,7 @@ descripcion: 3-hour catamaran trip from Cambrils along the Costa Daurada, with a
 slugs:
   es: catamaran-cambrils-barra-libre-bano
   en: cambrils-catamaran-open-bar-swim
+  fr: cambrils-sortie-catamaran-open-bar-baignade
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 35

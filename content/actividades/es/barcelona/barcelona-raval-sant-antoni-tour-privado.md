@@ -6,6 +6,8 @@ descripcion: 'Tour privado a pie de 3 horas por la Barcelona de los locales: el 
 slugs:
   es: barcelona-raval-sant-antoni-tour-privado
   en: barcelona-raval-sant-antoni-private-tour
+  fr: barcelona-visite-privee-raval-sant-antoni
+  it: barcellona-tour-privato-raval-sant-antoni
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 66

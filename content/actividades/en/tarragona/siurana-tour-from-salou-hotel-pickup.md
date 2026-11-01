@@ -6,6 +6,7 @@ descripcion: 3-hour guided trip from Salou, Cambrils or La Pineda to the medieva
 slugs:
   es: siurana-excursion-salou-recogida-hotel
   en: siurana-tour-from-salou-hotel-pickup
+  fr: siurana-excursion-depuis-salou-prise-en-charge-hotel
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 39

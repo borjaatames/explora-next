@@ -6,6 +6,7 @@ descripcion: 2-hour guided tour of Retiro Park by electric or traditional bike, 
 slugs:
   es: magic-retiro-park-bike-tour
   en: magic-retiro-park-bike-tour
+  fr: parc-du-retiro-visite-guidee-velo
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 29

@@ -7,6 +7,7 @@ slugs:
   es: buggy-barrancos-gran-canaria
   en: gran-canaria-off-road-buggy-tour
   de: gran-canaria-buggy-tour-offroad-schluchten
+  fr: gran-canaria-excursion-buggy-tout-terrain-ravins
 duracion: 2-2,5 horas
 duracionMinutos: 135
 precioDesde: 65

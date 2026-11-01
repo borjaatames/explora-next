@@ -6,6 +6,8 @@ descripcion: Paseo guiado de 2 horas por el casco antiguo de Alicante con guía 
 slugs:
   es: tour-a-pie-centro-historico-alicante-2-horas
   en: alicante-historic-centre-walking-tour-2-hours
+  fr: alicante-visite-guidee-centre-historique-2-heures
+  it: alicante-tour-a-piedi-centro-storico-2-ore
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 16

@@ -6,6 +6,8 @@ descripcion: 1 hour 30 minute private walking tour of the University of Salamanc
 slugs:
   es: universidad-salamanca-colegios-tour-privado
   en: university-salamanca-colleges-private-tour
+  fr: universite-de-salamanque-visite-privee-colleges
+  it: tour-privato-universita-salamanca-collegi
 duracion: 1 hour 30 minutes
 duracionMinutos: 90
 precioDesde: 150

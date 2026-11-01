@@ -6,6 +6,7 @@ descripcion: 'Entry to the Athletic Club museum and a tour of San Mamés stadium
 slugs:
   es: san-mames-museo-estadio-athletic
   en: san-mames-stadium-museum-tour
+  fr: san-mames-visite-stade-musee-athletic
 duracion: Valid 1 day
 duracionMinutos: 90
 precioDesde: 16.5

@@ -6,6 +6,7 @@ descripcion: 2.5-hour guided bike ride through central Alicante at an easy pace,
 slugs:
   es: tour-bici-centro-alicante-grupos-reducidos
   en: alicante-city-center-bike-tour-small-group
+  fr: alicante-visite-velo-centre-ville-petit-groupe
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 35

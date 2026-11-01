@@ -6,6 +6,9 @@ descripcion: 'Excursión privada de 7 horas en coche desde Barcelona: cripta de 
 slugs:
   es: montserrat-cripta-gaudi-colonia-guell-privado
   en: montserrat-gaudi-crypt-colonia-guell-private-tour
+  fr: montserrat-crypte-gaudi-colonia-guell-visite-privee
+  it: montserrat-cripta-gaudi-colonia-guell-tour-privato
+  pt: montserrat-cripta-gaudi-colonia-guell-tour-privado
 duracion: 7 horas
 duracionMinutos: 420
 precioDesde: 286

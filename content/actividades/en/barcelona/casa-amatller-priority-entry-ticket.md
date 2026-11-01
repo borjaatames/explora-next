@@ -7,6 +7,8 @@ slugs:
   es: casa-amatller-entrada-videoguia
   en: casa-amatller-priority-entry-ticket
   de: casa-amatller-ticket-bevorzugter-einlass
+  fr: casa-amatller-billet-entree-prioritaire
+  it: casa-amatller-biglietto-ingresso-prioritario
 duracion: About 45 minutes
 duracionMinutos: 45
 precioDesde: 18

@@ -6,6 +6,7 @@ descripcion: 'Salida guiada de observación de aves al atardecer en el Parque Na
 slugs:
   es: flamencos-delta-del-ebro-atardecer
   en: ebro-delta-flamingos-sunset-tour
+  fr: delta-de-l-ebre-flamants-roses-coucher-de-soleil
 duracion: 2,5 horas
 duracionMinutos: 150
 precioDesde: 40

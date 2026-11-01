@@ -6,6 +6,7 @@ descripcion: Paseo guiado en bicicleta de 2 horas y media por el centro de Alica
 slugs:
   es: tour-bici-centro-alicante-grupos-reducidos
   en: alicante-city-center-bike-tour-small-group
+  fr: alicante-visite-velo-centre-ville-petit-groupe
 duracion: 2 horas 30 minutos
 duracionMinutos: 150
 precioDesde: 35

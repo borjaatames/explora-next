@@ -7,6 +7,8 @@ slugs:
   es: tour-tuk-tuk-alicante-castillos-playas
   en: alicante-tuk-tuk-tour-castles-beaches
   de: alicante-tuk-tuk-tour-burgen-straende
+  it: alicante-tour-in-tuk-tuk-castelli-spiagge
+  pt: tour-tuk-tuk-alicante-castelos-praias
 duracion: 1,5 horas
 duracionMinutos: 90
 precioDesde: 50

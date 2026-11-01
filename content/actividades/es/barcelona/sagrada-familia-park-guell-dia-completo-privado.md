@@ -6,6 +6,7 @@ descripcion: 'Día completo con guía privado por Barcelona: Gótico, Boquería,
 slugs:
   es: sagrada-familia-park-guell-dia-completo-privado
   en: sagrada-familia-park-guell-private-full-day-tour
+  it: sagrada-familia-park-guell-giornata-intera-tour-privato
 duracion: 6 horas y 30 minutos
 duracionMinutos: 390
 precioDesde: 196

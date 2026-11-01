@@ -7,6 +7,8 @@ slugs:
   es: buggy-caleta-de-fuste-queseria-salinas
   en: caleta-de-fuste-buggy-tour-cheese-farm
   de: caleta-de-fuste-buggy-tour-kaeserei
+  fr: caleta-de-fuste-excursion-buggy-fromagerie-salines
+  it: caleta-de-fuste-tour-buggy-caseificio-saline
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 70

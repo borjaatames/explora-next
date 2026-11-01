@@ -6,6 +6,8 @@ descripcion: 'A 3-hour private walking tour of Barcelona''s three medieval quart
 slugs:
   es: barcelona-gotico-raval-born-tour-privado-tapa
   en: barcelona-gothic-raval-born-private-tour-tapa
+  fr: barcelona-visite-privee-gothique-raval-born-tapa
+  it: barcellona-tour-privato-gotico-raval-born-tapa
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 75

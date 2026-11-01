@@ -6,6 +6,7 @@ descripcion: A 3.5-hour guided tour linking the Mosque-Cathedral, the Jewish Qua
 slugs:
   es: mezquita-juderia-alcazar-tour-guiado-sin-colas
   en: mosque-jewish-quarter-alcazar-skip-line-tour
+  fr: cordoue-visite-guidee-mosquee-juiverie-alcazar-coupe-file
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 49

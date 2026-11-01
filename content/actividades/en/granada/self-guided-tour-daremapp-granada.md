@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-granada
   en: self-guided-tour-daremapp-granada
   de: granada-tour-auf-eigene-faust-daremapp
+  fr: grenade-visite-autoguidee-application-daremapp
+  it: tour-autoguidato-granada-app-daremapp
+  pt: tour-autoguiado-daremapp-granada
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 10.0

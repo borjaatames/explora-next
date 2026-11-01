@@ -6,6 +6,8 @@ descripcion: 90-minute private walking tour of Salamanca's must-sees with a prof
 slugs:
   es: tour-privado-salamanca-monumentos-principales
   en: salamanca-private-tour-main-sights
+  fr: salamanque-visite-privee-principaux-monuments
+  it: tour-privato-salamanca-monumenti-principali
 duracion: 1 hour 30 minutes
 duracionMinutos: 90
 precioDesde: 150

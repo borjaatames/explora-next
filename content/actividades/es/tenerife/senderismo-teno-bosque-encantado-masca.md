@@ -6,6 +6,8 @@ descripcion: 'Ruta guiada de 5 horas por el Parque Rural de Teno en grupo de has
 slugs:
   es: senderismo-teno-bosque-encantado-masca
   en: teno-enchanted-forest-hike-above-masca
+  fr: teno-randonnee-foret-enchantee-masca
+  it: trekking-teno-bosco-incantato-masca
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 89

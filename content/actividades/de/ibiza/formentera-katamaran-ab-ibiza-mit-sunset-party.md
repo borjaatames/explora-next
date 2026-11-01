@@ -7,6 +7,9 @@ slugs:
   es: formentera-catamaran-tres-paradas-fiesta-atardecer
   en: formentera-catamaran-three-stops-sunset-party
   de: formentera-katamaran-ab-ibiza-mit-sunset-party
+  fr: catamaran-formentera-3-arrets-fete-coucher-soleil
+  it: formentera-catamarano-3-soste-festa-tramonto
+  pt: formentera-catamara-tres-paragens-festa-por-do-sol
 duracion: 12 Stunden
 duracionMinutos: 720
 precioDesde: 99

@@ -6,6 +6,7 @@ descripcion: Crazy sofa ride, a 6-seat inflatable sofa towed at speed by a power
 slugs:
   es: crazy-sofa-alicante-lancha
   en: alicante-crazy-sofa-boat-ride
+  fr: alicante-crazy-sofa-bateau-port
 duracion: 1 day (booking validity)
 duracionMinutos: 1440
 precioDesde: 25

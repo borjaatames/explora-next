@@ -6,6 +6,7 @@ descripcion: 2.5-hour trip from L'Estartit on a small boat for 50 minutes of gui
 slugs:
   es: islas-medes-esnorquel-estartit
   en: medes-islands-snorkelling-trip-estartit
+  fr: iles-medes-snorkeling-reserve-marine-estartit
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 39

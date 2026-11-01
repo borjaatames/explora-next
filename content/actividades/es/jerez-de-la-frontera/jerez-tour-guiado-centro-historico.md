@@ -6,6 +6,7 @@ descripcion: Paseo guiado de dos horas desde la plaza del Arenal por el barrio d
 slugs:
   es: jerez-tour-guiado-centro-historico
   en: jerez-historic-centre-guided-walking-tour
+  fr: jerez-visite-guidee-a-pied-centre-historique
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 22

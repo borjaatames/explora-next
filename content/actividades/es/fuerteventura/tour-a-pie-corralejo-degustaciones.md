@@ -6,6 +6,7 @@ descripcion: 'Paseo guiado de 2,5 horas por Corralejo, del Campanario al casco a
 slugs:
   es: tour-a-pie-corralejo-degustaciones
   en: corralejo-walking-tour-tastings
+  fr: corralejo-visite-a-pied-degustations-produits-locaux
 duracion: 2,5 horas
 duracionMinutos: 150
 precioDesde: 18

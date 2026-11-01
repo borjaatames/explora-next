@@ -6,6 +6,7 @@ descripcion: Full-day trip from Valencia to Montanejos with four natural stops, 
 slugs:
   es: montanejos-aguas-termales-casa-privada-valencia
   en: montanejos-hot-springs-private-guesthouse
+  fr: montanejos-sources-chaudes-maison-privee-depuis-valence
 duracion: 7 hours 45 minutes
 duracionMinutos: 465
 precioDesde: 89

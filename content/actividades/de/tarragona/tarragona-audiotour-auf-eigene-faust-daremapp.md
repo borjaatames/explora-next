@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-tarragona
   en: self-guided-tour-daremapp-tarragona
   de: tarragona-audiotour-auf-eigene-faust-daremapp
+  fr: tarragone-visite-audioguidee-daremapp
+  it: audioguida-tarragona-app-daremapp
+  pt: tour-autoguiado-daremapp-tarragona
 duracion: 2 Stunden
 duracionMinutos: 120
 precioDesde: 5

@@ -7,6 +7,8 @@ slugs:
   es: alhambra-tour-privado
   en: alhambra-private-tour
   de: alhambra-privatfuehrung
+  fr: visite-privee-alhambra-palais-nasrides
+  it: alhambra-tour-privato
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 280

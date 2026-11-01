@@ -6,6 +6,9 @@ descripcion: 3-hour guided kayak route along the volcanic coast of Los Cristiano
 slugs:
   es: kayak-esnorquel-los-cristianos
   en: los-cristianos-kayak-snorkel-tour
+  fr: los-cristianos-kayak-snorkeling-photos-offertes
+  it: kayak-snorkeling-los-cristianos
+  pt: los-cristianos-kayak-snorkel
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 23

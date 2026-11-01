@@ -7,6 +7,9 @@ slugs:
   es: tuk-tuk-centro-historico-gran-via-madrid
   en: tuk-tuk-historic-centre-gran-via-madrid
   de: madrid-private-tuk-tuk-tour-altstadt-gran-via
+  fr: madrid-tuk-tuk-prive-centre-historique-gran-via
+  it: tuk-tuk-privato-centro-storico-gran-via-madrid
+  pt: madrid-tuk-tuk-privado-centro-historico-gran-via
 duracion: 1 hora y 15 minutos
 duracionMinutos: 75
 precioDesde: 79

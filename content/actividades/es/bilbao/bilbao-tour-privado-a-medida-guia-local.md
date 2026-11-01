@@ -6,6 +6,7 @@ descripcion: 'Tour privado de 2 horas por Bilbao con un guía local que adapta l
 slugs:
   es: bilbao-tour-privado-a-medida-guia-local
   en: bilbao-private-custom-walking-tour-local-guide
+  fr: bilbao-visite-privee-sur-mesure-guide-local
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 45

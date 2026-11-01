@@ -7,6 +7,9 @@ slugs:
   es: tuk-tuk-luces-navidad-madrid
   en: madrid-christmas-lights-tuk-tuk-tour
   de: madrid-weihnachtsbeleuchtung-private-tuk-tuk-tour
+  fr: madrid-illuminations-noel-tuk-tuk-prive
+  it: madrid-luci-di-natale-tuk-tuk-privato
+  pt: madrid-luzes-natal-tuk-tuk-privado
 duracion: 1 hour 30 minutes
 duracionMinutos: 90
 precioDesde: 99

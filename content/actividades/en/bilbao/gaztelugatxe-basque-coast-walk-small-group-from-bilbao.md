@@ -7,6 +7,7 @@ slugs:
   es: gaztelugatxe-caminata-costa-grupo-reducido-desde-bilbao
   en: gaztelugatxe-basque-coast-walk-small-group-from-bilbao
   de: gaztelugatxe-wanderung-kleingruppe-ab-bilbao
+  it: gaztelugatxe-escursione-costa-basca-piccolo-gruppo-da-bilbao
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 70

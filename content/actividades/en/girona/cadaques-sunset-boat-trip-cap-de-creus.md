@@ -6,6 +6,7 @@ descripcion: 2-hour evening trip on a historic boat from Cadaqués harbour to Ca
 slugs:
   es: cadaques-barco-atardecer-cap-de-creus
   en: cadaques-sunset-boat-trip-cap-de-creus
+  fr: cadaques-sortie-en-bateau-coucher-de-soleil-cap-de-creus
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 35

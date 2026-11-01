@@ -6,6 +6,7 @@ descripcion: 'Tour privado a pie de 2 horas por el centro de Valencia: plazas de
 slugs:
   es: valencia-tour-privado-2-horas-centro-historico
   en: valencia-2-hour-private-old-town-tour
+  pt: valencia-tour-privado-2-horas-centro-historico
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 48

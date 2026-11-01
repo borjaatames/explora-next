@@ -7,6 +7,7 @@ slugs:
   es: excursion-avila-salamanca-desde-madrid
   en: avila-salamanca-day-trip-from-madrid
   de: avila-salamanca-tagesausflug-ab-madrid
+  pt: excursao-avila-salamanca-desde-madrid
 duracion: 11 horas
 duracionMinutos: 660
 precioDesde: 149

@@ -7,6 +7,8 @@ slugs:
   es: excursion-fataga-tejeda-roque-nublo-desde-sur
   en: fataga-tejeda-roque-nublo-day-trip-from-south
   de: fataga-tejeda-roque-nublo-tagesausflug-ab-dem-sueden
+  fr: excursion-fataga-tejeda-roque-nublo-depuis-le-sud
+  it: escursione-fataga-tejeda-roque-nublo-dal-sud
 duracion: 7 Stunden
 duracionMinutos: 420
 precioDesde: 47

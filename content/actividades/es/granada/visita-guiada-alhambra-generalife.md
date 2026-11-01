@@ -9,6 +9,8 @@ slugs:
   es: visita-guiada-alhambra-generalife
   en: alhambra-generalife-guided-tour
   de: alhambra-generalife-fuehrung
+  fr: visite-guidee-alhambra-palais-nasrides-generalife
+  it: visita-guidata-alhambra-generalife
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 49

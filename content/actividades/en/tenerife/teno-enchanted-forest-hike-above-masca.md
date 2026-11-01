@@ -6,6 +6,8 @@ descripcion: '5-hour guided hike in Teno Rural Park for groups of up to 8: pine 
 slugs:
   es: senderismo-teno-bosque-encantado-masca
   en: teno-enchanted-forest-hike-above-masca
+  fr: teno-randonnee-foret-enchantee-masca
+  it: trekking-teno-bosco-incantato-masca
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 89

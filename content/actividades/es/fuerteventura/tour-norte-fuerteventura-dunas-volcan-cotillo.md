@@ -6,6 +6,7 @@ descripcion: Excursión de 5 horas en minibús y grupo de hasta 8 personas por e
 slugs:
   es: tour-norte-fuerteventura-dunas-volcan-cotillo
   en: northern-fuerteventura-dunes-volcano-el-cotillo-tour
+  it: tour-nord-fuerteventura-dune-vulcano-el-cotillo
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 65

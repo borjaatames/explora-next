@@ -6,6 +6,8 @@ descripcion: 'A 3-hour private walking tour of locals'' Barcelona: multicultural
 slugs:
   es: barcelona-raval-sant-antoni-tour-privado
   en: barcelona-raval-sant-antoni-private-tour
+  fr: barcelona-visite-privee-raval-sant-antoni
+  it: barcellona-tour-privato-raval-sant-antoni
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 66

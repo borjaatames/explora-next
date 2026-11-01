@@ -7,6 +7,8 @@ slugs:
   es: guggenheim-bilbao-tour-privado-exclusivo-con-entrada
   en: guggenheim-bilbao-exclusive-private-tour-ticket
   de: guggenheim-bilbao-private-fuehrung-mit-ticket
+  fr: guggenheim-bilbao-visite-privee-avec-billet
+  it: guggenheim-bilbao-tour-privato-con-biglietto
 duracion: 1 hora 30 minutos
 duracionMinutos: 90
 precioDesde: 230

@@ -7,6 +7,8 @@ slugs:
   es: teide-teleferico-traslado
   en: teide-cable-car-tour-transfer
   de: teide-ausflug-seilbahn-transfer
+  fr: teide-excursion-telepherique-transfert
+  it: escursione-teide-funivia-trasferimento
 duracion: 7 hours
 duracionMinutos: 420
 precioDesde: 92

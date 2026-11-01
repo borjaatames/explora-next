@@ -7,6 +7,9 @@ slugs:
   es: tour-gastronomico-privado-barcelona-tapas-churros
   en: barcelona-private-food-tour-tapas-churros
   de: barcelona-food-tour-privat-tapas-churros
+  fr: barcelona-visite-gastronomique-privee-tapas-churros
+  it: barcellona-tour-gastronomico-privato-tapas-churros
+  pt: barcelona-tour-gastronomico-privado-tapas-churros
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 128

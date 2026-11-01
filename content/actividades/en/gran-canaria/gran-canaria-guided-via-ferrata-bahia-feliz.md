@@ -6,6 +6,7 @@ descripcion: A 4-hour guided via ferrata near Bahía Feliz for up to 8 people, m
 slugs:
   es: via-ferrata-guiada-gran-canaria-bahia-feliz
   en: gran-canaria-guided-via-ferrata-bahia-feliz
+  it: via-ferrata-guidata-gran-canaria-bahia-feliz
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 70

@@ -7,6 +7,8 @@ slugs:
   en: alhambra-skip-the-wait-nasrid-palaces
   es: alhambra-sin-esperas-palacios-nazaries
   de: alhambra-nasridenpalaeste-fuehrung-ohne-warten
+  fr: visite-guidee-alhambra-sans-attente-palais-nasrides
+  it: alhambra-palazzi-nasridi-visita-guidata-senza-attese
 duracion: 3–4,5 Stunden
 duracionMinutos: 180
 precioDesde: 96

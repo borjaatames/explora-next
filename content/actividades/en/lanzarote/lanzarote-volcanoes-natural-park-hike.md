@@ -6,6 +6,7 @@ descripcion: Guided 8 km, three-hour hike through Los Volcanes Natural Park, cli
 slugs:
   es: senderismo-parque-natural-los-volcanes
   en: lanzarote-volcanoes-natural-park-hike
+  fr: lanzarote-randonnee-guidee-parc-naturel-los-volcanes
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 44

@@ -6,6 +6,7 @@ descripcion: Private 2 h 30 min tour of the Royal Palace of Madrid with an offic
 slugs:
   es: palacio-real-visita-privada-guia-oficial
   en: royal-palace-madrid-private-tour
+  it: palazzo-reale-madrid-tour-privato-guida-ufficiale
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 141

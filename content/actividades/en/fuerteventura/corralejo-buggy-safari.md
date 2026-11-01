@@ -6,6 +6,8 @@ descripcion: 2.5-hour guided buggy tour on dirt tracks in northern Fuerteventura
 slugs:
   es: buggy-safari-corralejo
   en: corralejo-buggy-safari
+  fr: corralejo-safari-buggy-pistes-volcans
+  it: corralejo-buggy-safari-piste-vulcani
 duracion: 2.5 hours
 duracionMinutos: 150
 precioDesde: 60

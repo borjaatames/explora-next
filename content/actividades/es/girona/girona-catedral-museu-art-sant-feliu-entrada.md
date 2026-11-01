@@ -6,6 +6,7 @@ descripcion: Entrada combinada a la catedral de Girona (con el claustro y el Tap
 slugs:
   es: girona-catedral-museu-art-sant-feliu-entrada
   en: girona-cathedral-art-museum-sant-feliu-ticket
+  fr: gerone-billet-cathedrale-musee-art-sant-feliu
 duracion: Válida 48 horas
 duracionMinutos: 180
 precioDesde: 12

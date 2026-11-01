@@ -7,6 +7,9 @@ slugs:
   es: catedrales-salamanca-entrada-audioguia
   en: salamanca-cathedrals-ticket-audio-guide
   de: salamanca-kathedralen-ticket-audioguide
+  fr: salamanque-billet-cathedrales-audioguide
+  it: biglietto-cattedrali-salamanca-audioguida
+  pt: salamanca-bilhete-catedrais-audioguia
 duracion: 1 día (visita de 1,5 horas)
 duracionMinutos: 90
 precioDesde: 10

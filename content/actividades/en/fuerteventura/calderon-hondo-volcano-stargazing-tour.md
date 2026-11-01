@@ -6,6 +6,7 @@ descripcion: 3-hour guided night walk to the crater of Calderón Hondo near Laja
 slugs:
   es: calderon-hondo-volcan-estrellas
   en: calderon-hondo-volcano-stargazing-tour
+  it: vulcano-calderon-hondo-notturno-stelle
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 45

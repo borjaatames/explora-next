@@ -7,6 +7,9 @@ slugs:
   es: pub-crawl-madrid-bares-chupitos
   en: madrid-pub-crawl-bars-club-shots
   de: madrid-kneipentour-bars-club-shots
+  fr: madrid-tournee-des-bars-boite-de-nuit-shots
+  it: madrid-pub-crawl-bar-discoteca-shot
+  pt: madrid-pub-crawl-bares-discoteca-shots
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 19

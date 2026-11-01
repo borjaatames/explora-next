@@ -7,6 +7,8 @@ slugs:
   es: cuevas-san-jose-barca-guia-desde-valencia
   en: san-jose-caves-boat-guide-from-valencia
   de: cuevas-de-san-jose-bootsfahrt-ab-valencia
+  fr: grottes-san-jose-excursion-barque-guide-depuis-valence
+  it: grotte-san-jose-giro-in-barca-da-valencia
 duracion: 4 Stunden
 duracionMinutos: 240
 precioDesde: 49

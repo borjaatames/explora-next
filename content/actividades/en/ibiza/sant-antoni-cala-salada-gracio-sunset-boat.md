@@ -6,6 +6,8 @@ descripcion: 3.5-hour boat trip from Sant Antoni past Cala Salada, Cala Gració 
 slugs:
   es: barco-atardecer-cala-salada-cala-gracio-sant-antoni
   en: sant-antoni-cala-salada-gracio-sunset-boat
+  fr: sant-antoni-bateau-coucher-soleil-cala-salada-cala-gracio
+  it: sant-antoni-barca-tramonto-cala-salada-gracio
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 80

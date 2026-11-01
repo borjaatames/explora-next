@@ -6,6 +6,7 @@ descripcion: Excursión de día completo desde Valencia a Montanejos con cuatro 
 slugs:
   es: montanejos-aguas-termales-casa-privada-valencia
   en: montanejos-hot-springs-private-guesthouse
+  fr: montanejos-sources-chaudes-maison-privee-depuis-valence
 duracion: 7 horas 45 minutos
 duracionMinutos: 465
 precioDesde: 89

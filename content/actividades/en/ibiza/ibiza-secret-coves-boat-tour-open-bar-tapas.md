@@ -6,6 +6,7 @@ descripcion: 3-hour guided boat tour from Sant Antoni to Cala Gracioneta, Cala C
 slugs:
   es: barco-calas-secretas-ibiza-barra-libre-tapas
   en: ibiza-secret-coves-boat-tour-open-bar-tapas
+  it: ibiza-tour-barca-cale-segrete-open-bar-tapas
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 80

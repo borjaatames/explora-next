@@ -6,6 +6,7 @@ descripcion: Guided small-group trip (max. 8) to the Menga, Viera and El Romeral
 slugs:
   es: antequera-dolmenes-torcal-excursion-desde-malaga
   en: antequera-dolmens-el-torcal-day-trip-from-malaga
+  fr: excursion-dolmens-antequera-el-torcal-depuis-malaga
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 65

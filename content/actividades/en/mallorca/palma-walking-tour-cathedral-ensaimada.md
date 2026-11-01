@@ -7,6 +7,7 @@ slugs:
   es: palma-tour-catedral-ensaimada-grupo-reducido
   en: palma-walking-tour-cathedral-ensaimada
   de: palma-rundgang-kathedrale-ensaimada
+  fr: palma-visite-guidee-cathedrale-ensaimada
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 39

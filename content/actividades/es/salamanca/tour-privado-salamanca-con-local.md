@@ -6,6 +6,7 @@ descripcion: Paseo privado de 2 horas por Salamanca con un vecino de la ciudad q
 slugs:
   es: tour-privado-salamanca-con-local
   en: salamanca-private-walking-tour-local
+  fr: salamanque-visite-privee-a-pied-avec-un-local
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 48

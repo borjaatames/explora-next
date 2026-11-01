@@ -6,6 +6,7 @@ descripcion: A guided circular route of about 8 km and 3 hours over lava flows b
 slugs:
   es: senderismo-volcanes-timanfaya
   en: timanfaya-volcano-hike
+  it: trekking-vulcani-timanfaya
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 47

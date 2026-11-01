@@ -6,6 +6,7 @@ descripcion: Paseo de 3 horas por la Barcelona de Gaudí con guía local (La Ped
 slugs:
   es: sagrada-familia-gaudi-tour-privado-o-grupo-reducido
   en: sagrada-familia-gaudi-private-or-small-group-tour
+  it: sagrada-familia-gaudi-tour-privato-o-piccolo-gruppo
 duracion: 3 horas y 45 minutos
 duracionMinutos: 225
 precioDesde: 91

@@ -7,6 +7,9 @@ slugs:
   es: tour-gastronomico-privado-barcelona-sagrada-familia
   en: barcelona-private-food-tour-sagrada-familia-tickets
   de: barcelona-food-tour-privat-sagrada-familia-tickets
+  fr: barcelona-visite-gastronomique-privee-sagrada-familia
+  it: barcellona-tour-gastronomico-privato-sagrada-familia
+  pt: barcelona-tour-gastronomico-privado-bilhetes-sagrada-familia
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 186

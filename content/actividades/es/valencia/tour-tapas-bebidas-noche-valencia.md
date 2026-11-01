@@ -6,6 +6,7 @@ descripcion: Ruta de tres horas al caer la tarde por cuatro bares y restaurantes
 slugs:
   es: tour-tapas-bebidas-noche-valencia
   en: valencia-evening-tapas-drinks-tour
+  fr: valence-tour-tapas-boissons-soiree
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 69

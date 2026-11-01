@@ -6,6 +6,7 @@ descripcion: 'Tour nocturno a pie de 110 minutos por el Madrid oscuro: historias
 slugs:
   es: madrid-tour-nocturno-inquisicion-leyendas
   en: madrid-spanish-inquisition-ghost-tour
+  it: madrid-tour-notturno-inquisizione-fantasmi-leggende
 duracion: 110 minutos
 duracionMinutos: 110
 precioDesde: 18

@@ -7,6 +7,7 @@ slugs:
   es: timanfaya-la-geria-el-golfo-medio-dia
   en: timanfaya-la-geria-half-day-tour
   de: lanzarote-timanfaya-la-geria-el-golfo-halbtagestour
+  fr: lanzarote-timanfaya-la-geria-el-golfo-demi-journee
 duracion: 5 Stunden 30 Minuten
 duracionMinutos: 330
 precioDesde: 63

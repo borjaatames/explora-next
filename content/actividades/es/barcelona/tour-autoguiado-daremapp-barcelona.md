@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-barcelona
   en: self-guided-tour-daremapp-barcelona
   de: barcelona-tour-auf-eigene-faust-daremapp
+  fr: barcelona-visite-autoguidee-daremapp
+  it: barcellona-tour-autoguidato-app-daremapp
+  pt: tour-autoguiado-daremapp-barcelona
 duracion: Más de 4 horas
 duracionMinutos: 480
 precioDesde: 10.0

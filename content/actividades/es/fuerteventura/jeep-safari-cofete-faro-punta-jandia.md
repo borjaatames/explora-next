@@ -7,6 +7,7 @@ slugs:
   es: jeep-safari-cofete-faro-punta-jandia
   en: cofete-punta-jandia-lighthouse-jeep-safari
   de: cofete-leuchtturm-punta-jandia-jeep-safari
+  it: jeep-safari-cofete-faro-punta-jandia
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 85

@@ -6,6 +6,7 @@ descripcion: Day trip from Alicante to the Fuentes del Algar waterfalls (entry i
 slugs:
   es: excursion-guadalest-altea-algar-desde-alicante
   en: guadalest-altea-algar-day-trip-from-alicante
+  fr: excursion-guadalest-altea-algar-depuis-alicante
 duracion: 11 hours
 duracionMinutos: 660
 precioDesde: 47

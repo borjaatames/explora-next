@@ -7,6 +7,7 @@ slugs:
   es: cartuja-valldemossa-entrada-audioguia
   en: valldemossa-charterhouse-ticket-audio-guide
   de: valldemossa-kartause-tickets-audioguide
+  fr: valldemossa-billet-chartreuse-audioguide
 duracion: Etwa 1 Stunde
 duracionMinutos: 60
 precioDesde: 12.5

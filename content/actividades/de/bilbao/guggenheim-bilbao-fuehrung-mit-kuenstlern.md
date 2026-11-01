@@ -7,6 +7,7 @@ slugs:
   es: guggenheim-bilbao-arte-explicado-por-artistas
   en: guggenheim-bilbao-art-explained-by-artists
   de: guggenheim-bilbao-fuehrung-mit-kuenstlern
+  fr: guggenheim-bilbao-art-explique-par-des-artistes
 duracion: 1 Stunde 30 Minuten
 duracionMinutos: 90
 precioDesde: 90

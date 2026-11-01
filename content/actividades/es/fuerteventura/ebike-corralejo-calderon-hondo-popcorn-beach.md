@@ -7,6 +7,8 @@ slugs:
   es: ebike-corralejo-calderon-hondo-popcorn-beach
   en: corralejo-e-bike-tour-calderon-hondo-popcorn-beach
   de: corralejo-e-bike-tour-calderon-hondo-popcorn-beach
+  fr: corralejo-velo-electrique-calderon-hondo-popcorn-beach
+  it: corralejo-tour-e-bike-calderon-hondo-popcorn-beach
 duracion: 3 horas 30 minutos
 duracionMinutos: 210
 precioDesde: 59

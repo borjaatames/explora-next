@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 4 horas y unos 8,5 km por La Geria, la zona vinícol
 slugs:
   es: senderismo-la-geria-vino-queso
   en: la-geria-vineyard-hike-wine-cheese
+  fr: la-geria-randonnee-vignobles-degustation-vin-fromage
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 47

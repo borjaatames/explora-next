@@ -7,6 +7,8 @@ slugs:
   es: submarino-puerto-calero-lanzarote
   en: lanzarote-submarine-dive-puerto-calero
   de: lanzarote-u-boot-tauchfahrt-puerto-calero
+  fr: lanzarote-plongee-sous-marin-puerto-calero
+  it: lanzarote-sottomarino-puerto-calero
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 65

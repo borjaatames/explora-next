@@ -7,6 +7,8 @@ slugs:
   es: barco-fondo-cristal-jandia-comida-bebidas
   en: jandia-glass-bottom-boat-cruise-lunch-drinks
   de: jandia-glasbodenboot-mit-mittagessen
+  fr: jandia-bateau-fond-de-verre-dejeuner-boissons
+  it: jandia-barca-fondo-vetro-pranzo-bevande
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 75

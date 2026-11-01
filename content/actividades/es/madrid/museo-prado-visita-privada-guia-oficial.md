@@ -6,6 +6,7 @@ descripcion: 'Visita privada de 3 horas al Museo del Prado con guía oficial y e
 slugs:
   es: museo-prado-visita-privada-guia-oficial
   en: prado-museum-private-tour-official-guide
+  it: museo-del-prado-tour-privato-guida-ufficiale
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 146

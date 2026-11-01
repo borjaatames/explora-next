@@ -6,6 +6,8 @@ descripcion: Visita guiada de 1,5-2 horas por las obras maestras del Prado (Vel√
 slugs:
   es: museo-prado-visita-guiada
   en: prado-museum-guided-tour
+  fr: musee-du-prado-visite-guidee-billet-inclus
+  it: museo-del-prado-visita-guidata
 duracion: 1,5 - 2 horas
 duracionMinutos: 105
 precioDesde: 49

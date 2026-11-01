@@ -6,6 +6,7 @@ descripcion: 1.5-hour guided visit to Málaga's Roman Theatre and Alcazaba with 
 slugs:
   es: alcazaba-teatro-romano-malaga-visita-guiada
   en: alcazaba-roman-theatre-malaga-guided-tour
+  it: malaga-visita-guidata-alcazaba-teatro-romano
 duracion: 1 h 30 min
 duracionMinutos: 90
 precioDesde: 13

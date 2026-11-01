@@ -6,6 +6,7 @@ descripcion: A 3-hour walk through Gaudí's Barcelona with a local guide (La Ped
 slugs:
   es: sagrada-familia-gaudi-tour-privado-o-grupo-reducido
   en: sagrada-familia-gaudi-private-or-small-group-tour
+  it: sagrada-familia-gaudi-tour-privato-o-piccolo-gruppo
 duracion: 3 hours 45 minutes
 duracionMinutos: 225
 precioDesde: 91

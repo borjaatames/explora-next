@@ -7,6 +7,9 @@ slugs:
   es: formentera-catamaran-paradas-bano-ferry-vuelta
   en: formentera-catamaran-swim-stops-return-ferry
   de: formentera-katamaran-ab-ibiza-mit-badestopps-und-faehre
+  fr: catamaran-formentera-baignades-open-bar-retour-ferry
+  it: formentera-catamarano-soste-bagno-traghetto-ritorno
+  pt: formentera-catamara-paragens-banho-ferry-regresso
 duracion: 10 horas
 duracionMinutos: 600
 precioDesde: 89

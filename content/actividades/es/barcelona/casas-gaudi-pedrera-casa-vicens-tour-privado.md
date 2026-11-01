@@ -6,6 +6,8 @@ descripcion: 'Tour privado de 4 horas por la Barcelona de Gaudí con un guía ex
 slugs:
   es: casas-gaudi-pedrera-casa-vicens-tour-privado
   en: gaudi-houses-pedrera-casa-vicens-private-tour
+  fr: maisons-gaudi-pedrera-casa-vicens-visite-privee
+  it: case-gaudi-pedrera-casa-vicens-tour-privato
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 156

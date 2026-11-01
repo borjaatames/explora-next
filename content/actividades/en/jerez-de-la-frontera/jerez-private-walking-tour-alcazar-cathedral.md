@@ -6,6 +6,7 @@ descripcion: 'A 2.5-hour private walking tour of Jerez''s historic centre with t
 slugs:
   es: jerez-tour-privado-a-pie-alcazar-catedral
   en: jerez-private-walking-tour-alcazar-cathedral
+  fr: jerez-visite-privee-a-pied-alcazar-cathedrale
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 135

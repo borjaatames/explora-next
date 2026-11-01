@@ -6,6 +6,7 @@ descripcion: 'Tour privado por el centro de Málaga: calle Larios, la Catedral, 
 slugs:
   es: malaga-esencial-tour-privado
   en: essential-malaga-private-tour
+  fr: malaga-essentiel-visite-privee-guide-local
 duracion: 2 o 3 horas, según la opción
 duracionMinutos: 120
 precioDesde: 200

@@ -6,6 +6,7 @@ descripcion: 'Private 2 h 15 min walking tour of central Madrid with a local gui
 slugs:
   es: paseo-privado-madrid-secretos-imprescindibles
   en: madrid-private-walking-tour-secrets
+  it: madrid-tour-privato-a-piedi-segreti
 duracion: 2 hours 15 minutes
 duracionMinutos: 135
 precioDesde: 115

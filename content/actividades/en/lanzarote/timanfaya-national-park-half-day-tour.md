@@ -6,6 +6,7 @@ descripcion: 'Half-day trip to Timanfaya National Park with entry included: the 
 slugs:
   es: timanfaya-tour-medio-dia
   en: timanfaya-national-park-half-day-tour
+  fr: lanzarote-excursion-parc-national-timanfaya-demi-journee
 duracion: 4-6 hours
 duracionMinutos: 300
 precioDesde: 59

@@ -6,6 +6,7 @@ descripcion: 'Paseo privado a pie de 2 h 15 min por el centro de Madrid con guí
 slugs:
   es: paseo-privado-madrid-secretos-imprescindibles
   en: madrid-private-walking-tour-secrets
+  it: madrid-tour-privato-a-piedi-segreti
 duracion: 2 horas y 15 minutos
 duracionMinutos: 135
 precioDesde: 115

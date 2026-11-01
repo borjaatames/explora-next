@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-sevilla
   en: self-guided-tour-daremapp-sevilla
   de: sevilla-audiotour-daremapp-app
+  fr: seville-visite-audioguidee-daremapp
+  it: audioguida-siviglia-app-daremapp
+  pt: tour-autoguiado-daremapp-sevilha
 duracion: 3 Stunden
 duracionMinutos: 180
 precioDesde: 10

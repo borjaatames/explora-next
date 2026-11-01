@@ -6,6 +6,7 @@ descripcion: 2.5-hour guided quad excursion along coastal tracks, traditional vi
 slugs:
   es: ruta-quad-ibiza-pueblos-playas
   en: ibiza-quad-tour-villages-beaches
+  fr: ibiza-excursion-quad-villages-plages
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 90

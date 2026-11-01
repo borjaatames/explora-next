@@ -7,6 +7,8 @@ slugs:
   es: parapente-biplaza-volcanes-lanzarote
   en: lanzarote-tandem-paragliding-volcanoes
   de: lanzarote-tandem-paragliding-vulkane
+  fr: lanzarote-parapente-biplace-volcans
+  it: lanzarote-parapendio-biposto-vulcani
 duracion: 20 minutes
 duracionMinutos: 20
 precioDesde: 120

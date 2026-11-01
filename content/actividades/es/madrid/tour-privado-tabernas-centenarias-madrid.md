@@ -6,6 +6,7 @@ descripcion: Paseo privado de 2 h 10 min por las tabernas y restaurantes más an
 slugs:
   es: tour-privado-tabernas-centenarias-madrid
   en: madrid-oldest-taverns-private-tour
+  it: madrid-tour-privato-taverne-storiche
 duracion: 2 horas y 10 minutos
 duracionMinutos: 130
 precioDesde: 127

@@ -6,6 +6,7 @@ descripcion: 2-hour walking tour of Habsburg Madrid in a small group (maximum 10
 slugs:
   es: walking-tour-habsburgos-grupo-reducido
   en: madrid-habsburgs-small-group-walking-tour
+  fr: madrid-des-habsbourg-visite-guidee-petit-groupe
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 29.95

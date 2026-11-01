@@ -6,6 +6,9 @@ descripcion: 'Tour privado de 3 horas por la Alhambra con entradas sin colas: Ge
 slugs:
   es: alhambra-palacios-nazaries-tour-privado-sin-colas
   en: alhambra-nasrid-palaces-private-tour-skip-the-line
+  fr: alhambra-palais-nasrides-visite-privee-coupe-file
+  it: alhambra-palazzi-nasridi-tour-privato-salta-fila
+  pt: alhambra-palacios-nasridas-tour-privado-sem-filas
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 278

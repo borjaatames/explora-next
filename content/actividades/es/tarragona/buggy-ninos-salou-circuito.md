@@ -6,6 +6,8 @@ descripcion: Experiencia de 20 minutos para que niños a partir de 8 años condu
 slugs:
   es: buggy-ninos-salou-circuito
   en: salou-kids-buggy-driving-experience
+  fr: salou-buggy-enfants-circuit-securise
+  it: salou-buggy-per-bambini-circuito
 duracion: 20 minutos
 duracionMinutos: 20
 precioDesde: 60

@@ -6,6 +6,8 @@ descripcion: Ruta guiada en quad desde Chío (Guía de Isora) hasta el Parque Na
 slugs:
   es: quad-teide-desde-chio
   en: teide-quad-tour-from-chio
+  fr: teide-en-quad-depuis-chio
+  it: quad-teide-da-chio
 duracion: 3 a 4 horas
 duracionMinutos: 180
 precioDesde: 55

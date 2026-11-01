@@ -6,6 +6,7 @@ descripcion: Tour gastronómico de 2,5 horas por tres bares de Santiago con tres
 slugs:
   es: tour-tapas-santiago-musica-directo
   en: santiago-tapas-tour-live-music
+  fr: santiago-tour-tapas-musique-live
 duracion: 2,5 horas
 duracionMinutos: 150
 precioDesde: 45

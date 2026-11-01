@@ -6,6 +6,7 @@ descripcion: 'A 4-hour night out in Valencia: three bars or pubs and a big night
 slugs:
   es: pub-crawl-valencia-bares-chupitos-discoteca
   en: valencia-pub-crawl-bars-free-shots-club
+  it: pub-crawl-valencia-bar-shot-discoteca
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 16.99

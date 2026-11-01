@@ -7,6 +7,9 @@ slugs:
   es: quad-teide-desde-arona
   en: teide-quad-tour-from-arona
   de: teide-quad-tour-ab-arona
+  fr: teide-en-quad-depuis-arona
+  it: quad-teide-da-arona
+  pt: teide-moto-4-desde-arona
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 60

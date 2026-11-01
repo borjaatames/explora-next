@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 3 horas y media en kayak desde Playa Blanca hasta la
 slugs:
   es: kayak-esnorquel-papagayo-fotos-playa-blanca
   en: papagayo-kayak-snorkel-photos-playa-blanca
+  fr: papagayo-kayak-snorkeling-photos-playa-blanca
 duracion: 3 horas 30 minutos
 duracionMinutos: 210
 precioDesde: 45

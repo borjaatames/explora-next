@@ -6,6 +6,7 @@ descripcion: Paseo en lancha por la costa de Alicante con música y vuelo en par
 slugs:
   en: alicante-parasailing-boat-trip
   es: parasailing-alicante-paseo-barco
+  fr: alicante-parachute-ascensionnel-balade-bateau
 duracion: 1,5 horas
 duracionMinutos: 90
 precioDesde: 65

@@ -6,6 +6,7 @@ descripcion: Two-hour guided walk from Plaza del Arenal through the San Miguel q
 slugs:
   es: jerez-tour-guiado-centro-historico
   en: jerez-historic-centre-guided-walking-tour
+  fr: jerez-visite-guidee-a-pied-centre-historique
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 22

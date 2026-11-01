@@ -6,6 +6,7 @@ descripcion: 'Day trip from Bilbao along the Basque coast: Hendaye in France, Ho
 slugs:
   es: san-sebastian-hondarribia-getaria-desde-bilbao
   en: san-sebastian-hondarribia-getaria-from-bilbao
+  it: san-sebastian-hondarribia-getaria-escursione-da-bilbao
 duracion: 10 hours
 duracionMinutos: 600
 precioDesde: 35

@@ -6,6 +6,7 @@ descripcion: 2-hour guided tour of Jerez's Alcázar and Cathedral with tickets i
 slugs:
   es: visita-guiada-jerez-alcazar-catedral
   en: jerez-guided-tour-alcazar-cathedral
+  fr: jerez-visite-guidee-alcazar-cathedrale
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 31

@@ -6,6 +6,7 @@ descripcion: Three-hour guided hike to the Calderón Hondo crater to watch the s
 slugs:
   es: calderon-hondo-atardecer-senderismo-recogida
   en: calderon-hondo-volcano-sunset-hike-pickup
+  it: escursione-tramonto-calderon-hondo-prelievo
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 49

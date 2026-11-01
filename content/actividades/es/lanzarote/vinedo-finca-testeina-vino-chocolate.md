@@ -6,6 +6,7 @@ descripcion: Visita guiada de hora y media a un viñedo al pie del volcán Teste
 slugs:
   es: vinedo-finca-testeina-vino-chocolate
   en: finca-testeina-vineyard-wine-chocolate-tasting
+  fr: finca-testeina-vignoble-degustation-vin-chocolat
 duracion: 1 hora 30 minutos
 duracionMinutos: 90
 precioDesde: 24

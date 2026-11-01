@@ -7,6 +7,7 @@ slugs:
   es: timanfaya-jameos-cueva-de-los-verdes
   en: timanfaya-jameos-cueva-de-los-verdes-tour
   de: lanzarote-timanfaya-jameos-cueva-de-los-verdes-tour
+  fr: lanzarote-excursion-timanfaya-jameos-cueva-de-los-verdes
 duracion: 9 horas
 duracionMinutos: 540
 precioDesde: 89

@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-cadiz
   en: self-guided-tour-daremapp-cadiz
   de: cadiz-audiotour-daremapp-app
+  fr: cadiz-visite-autoguidee-daremapp
+  it: cadice-tour-autoguidato-app-daremapp
+  pt: tour-autoguiado-daremapp-cadiz
 duracion: 4 Stunden 30 Minuten
 duracionMinutos: 270
 precioDesde: 5.0

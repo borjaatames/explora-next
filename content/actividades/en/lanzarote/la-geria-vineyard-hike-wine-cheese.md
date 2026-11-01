@@ -6,6 +6,7 @@ descripcion: 4-hour guided hike of about 8.5 km through La Geria, Lanzarote's vo
 slugs:
   es: senderismo-la-geria-vino-queso
   en: la-geria-vineyard-hike-wine-cheese
+  fr: la-geria-randonnee-vignobles-degustation-vin-fromage
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 47

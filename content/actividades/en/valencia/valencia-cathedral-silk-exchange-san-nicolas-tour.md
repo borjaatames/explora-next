@@ -7,6 +7,9 @@ slugs:
   es: tour-catedral-lonja-san-nicolas-valencia
   en: valencia-cathedral-silk-exchange-san-nicolas-tour
   de: valencia-kathedrale-seidenboerse-san-nicolas-fuehrung
+  fr: valence-visite-cathedrale-lonja-san-nicolas
+  it: visita-guidata-cattedrale-lonja-san-nicolas-valencia
+  pt: valencia-visita-guiada-catedral-lonja-san-nicolas
 duracion: 3-4 hours
 duracionMinutos: 210
 precioDesde: 49

@@ -6,6 +6,8 @@ descripcion: A 3.5-hour guided kayak route around Papagayo bay with a snorkellin
 slugs:
   es: kayak-esnorquel-papagayo
   en: papagayo-kayak-snorkel-tour
+  fr: lanzarote-kayak-snorkeling-plage-papagayo
+  it: tour-kayak-snorkeling-papagayo
 duracion: 3.5 hours
 duracionMinutos: 210
 precioDesde: 45

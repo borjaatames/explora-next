@@ -6,6 +6,7 @@ descripcion: A 3-hour guided tour of the Alhambra, the Nasrid Palaces, the Alcaz
 slugs:
   en: alhambra-guided-tour-with-tickets
   es: alhambra-tour-guiado-con-entradas
+  fr: alhambra-visite-guidee-palais-nasrides-avec-billets
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 99

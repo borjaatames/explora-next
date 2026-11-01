@@ -7,6 +7,8 @@ slugs:
   es: barcelona-tour-privado-familias-churros-juegos
   en: barcelona-private-family-tour-churros-games
   de: barcelona-familien-privattour-churros-spiele
+  it: barcellona-tour-privato-famiglie-churros-giochi
+  pt: barcelona-tour-privado-familias-churros-jogos
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 76

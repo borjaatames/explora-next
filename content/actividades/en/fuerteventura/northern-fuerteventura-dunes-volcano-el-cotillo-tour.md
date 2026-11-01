@@ -6,6 +6,7 @@ descripcion: Five-hour minibus trip in a group of up to 8 around the north of th
 slugs:
   es: tour-norte-fuerteventura-dunas-volcan-cotillo
   en: northern-fuerteventura-dunes-volcano-el-cotillo-tour
+  it: tour-nord-fuerteventura-dune-vulcano-el-cotillo
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 65

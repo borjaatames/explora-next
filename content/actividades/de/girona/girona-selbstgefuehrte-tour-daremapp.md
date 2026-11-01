@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-girona
   en: self-guided-tour-daremapp-girona
   de: girona-selbstgefuehrte-tour-daremapp
+  fr: gerone-visite-autoguidee-application-daremapp
+  it: tour-autoguidato-girona-app-daremapp
+  pt: tour-autoguiado-daremapp-girona
 duracion: 1 Stunde 30 Minuten
 duracionMinutos: 90
 precioDesde: 5.0

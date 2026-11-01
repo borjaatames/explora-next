@@ -6,6 +6,9 @@ descripcion: Guggenheim Museum Bilbao tour in a group of at most 8, with an offi
 slugs:
   es: guggenheim-bilbao-vip-grupo-reducido
   en: guggenheim-bilbao-vip-small-group-tour
+  fr: guggenheim-bilbao-visite-vip-petit-groupe
+  it: guggenheim-bilbao-tour-vip-piccolo-gruppo
+  pt: guggenheim-bilbao-visita-vip-grupo-reduzido
 duracion: 2-2.5 hours
 duracionMinutos: 150
 precioDesde: 95

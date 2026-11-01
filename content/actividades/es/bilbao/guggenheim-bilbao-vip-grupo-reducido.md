@@ -6,6 +6,9 @@ descripcion: Visita al Museo Guggenheim Bilbao en grupo de máximo 8 personas, c
 slugs:
   es: guggenheim-bilbao-vip-grupo-reducido
   en: guggenheim-bilbao-vip-small-group-tour
+  fr: guggenheim-bilbao-visite-vip-petit-groupe
+  it: guggenheim-bilbao-tour-vip-piccolo-gruppo
+  pt: guggenheim-bilbao-visita-vip-grupo-reduzido
 duracion: 2-2,5 horas
 duracionMinutos: 150
 precioDesde: 95

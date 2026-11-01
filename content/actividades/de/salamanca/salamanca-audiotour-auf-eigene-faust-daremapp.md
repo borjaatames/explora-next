@@ -7,6 +7,9 @@ slugs:
   es: tour-autoguiado-daremapp-salamanca
   en: self-guided-tour-daremapp-salamanca
   de: salamanca-audiotour-auf-eigene-faust-daremapp
+  fr: salamanque-visite-audioguidee-autonome-daremapp
+  it: audioguida-salamanca-app-daremapp
+  pt: tour-autoguiado-daremapp-salamanca
 duracion: 3 Stunden
 duracionMinutos: 180
 precioDesde: 5

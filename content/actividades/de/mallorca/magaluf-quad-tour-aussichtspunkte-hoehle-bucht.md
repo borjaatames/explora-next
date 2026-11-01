@@ -7,6 +7,7 @@ slugs:
   es: magaluf-quad-miradores-cueva-cala
   en: magaluf-quad-tour-viewpoints-cave-cove
   de: magaluf-quad-tour-aussichtspunkte-hoehle-bucht
+  fr: magaluf-randonnee-quad-belvederes-grotte-crique
 duracion: 2 Stunden 30 Minuten
 duracionMinutos: 150
 precioDesde: 49

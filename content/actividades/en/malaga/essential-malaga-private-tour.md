@@ -6,6 +6,7 @@ descripcion: 'Private walking tour of central Málaga: Calle Larios, the Cathedr
 slugs:
   es: malaga-esencial-tour-privado
   en: essential-malaga-private-tour
+  fr: malaga-essentiel-visite-privee-guide-local
 duracion: 2 or 3 hours, depending on the option
 duracionMinutos: 120
 precioDesde: 200

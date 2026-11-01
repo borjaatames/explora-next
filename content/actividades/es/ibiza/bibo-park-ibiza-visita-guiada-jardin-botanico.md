@@ -7,6 +7,8 @@ slugs:
   es: bibo-park-ibiza-visita-guiada-jardin-botanico
   en: bibo-park-ibiza-botanical-garden-guided-tour
   de: bibo-park-ibiza-botanischer-garten-fuehrung
+  fr: bibo-park-ibiza-visite-guidee-jardin-botanique
+  it: bibo-park-ibiza-visita-guidata-giardino-botanico
 duracion: 50 minutos
 duracionMinutos: 50
 precioDesde: 19
