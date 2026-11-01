@@ -13,6 +13,7 @@ import {
 import { urlListadoActividadesSiExiste } from "@/lib/actividades";
 import { urlProveedores } from "@/lib/proveedores";
 import { urlPlanificador } from "@/lib/planificador";
+import { urlCruceros } from "@/lib/descubrir";
 import type { Idioma } from "@/lib/i18n/types";
 
 /**
@@ -44,6 +45,7 @@ const DICT = {
     proveedores: "Proveedores locales",
     guias: "Guías de viaje",
     planificador: "Planificador de viaje",
+    cruceros: "Excursiones en crucero",
     ciudades: "Ciudades",
     contacto: "Contacto",
     avisoLegal: "Aviso legal",
@@ -73,6 +75,7 @@ const DICT = {
     proveedores: "Local partners",
     guias: "Travel guides",
     planificador: "Trip planner",
+    cruceros: "Cruise excursions",
     ciudades: "Cities",
     contacto: "Contact",
     avisoLegal: "Legal notice",
@@ -102,6 +105,7 @@ const DICT = {
     proveedores: "Lokale Partner",
     guias: "Reiseführer",
     planificador: "Reiseplaner",
+    cruceros: "Kreuzfahrt-Ausflüge",
     ciudades: "Städte",
     contacto: "Kontakt",
     avisoLegal: "Impressum",
@@ -280,6 +284,17 @@ export default function Footer({ idioma }: Props) {
                     className="hover:text-white transition-colors"
                   >
                     {t.planificador}
+                  </Link>
+                </li>
+              ) : null}
+              {idioma !== "de" ? (
+                <li>
+                  <Link
+                    href={urlCruceros(idioma)}
+                    prefetch={false}
+                    className="hover:text-white transition-colors"
+                  >
+                    {t.cruceros}
                   </Link>
                 </li>
               ) : null}

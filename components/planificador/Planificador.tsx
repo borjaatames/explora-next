@@ -117,6 +117,8 @@ const CLASE_CHIP =
 const CHIP_ACTIVO = "border-anil-600 bg-anil-600 text-white";
 const CHIP_INACTIVO = "border-piedra-300 bg-white text-piedra-900 hover:border-anil-400";
 
+const ACOMPANANTES_VALIDOS: ReadonlyArray<Acompanantes> = ["pareja", "familia", "amigos", "grupo"];
+
 type Estado = "inicio" | "cargando" | "listo" | "error";
 
 export default function Planificador({
@@ -140,8 +142,13 @@ export default function Planificador({
 
   // Ciudad preseleccionable por URL (?ciudad=sevilla o ?city=seville-slug).
   useEffect(() => {
-    if (ciudadInicial) return;
     const p = new URLSearchParams(window.location.search);
+    // «Con quién» preseleccionable (?con=familia / ?with=familia) desde la portada.
+    const con = p.get("con") ?? p.get("with");
+    if (con && (ACOMPANANTES_VALIDOS as ReadonlyArray<string>).includes(con)) {
+      setAcompanantes(con as Acompanantes);
+    }
+    if (ciudadInicial) return;
     const desdeUrl = p.get("ciudad") ?? p.get("city");
     if (desdeUrl && ciudades.some((c) => c.slug === desdeUrl)) setCiudad(desdeUrl);
   }, [ciudadInicial, ciudades]);

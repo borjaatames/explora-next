@@ -10,7 +10,7 @@ import {
   type ActividadCompleta,
 } from "@/lib/actividades";
 import { slugParejaActividad } from "@/lib/i18n/slugs";
-import { obtenerGuiasParaFicha, obtenerGuiaAgotadaParaFicha } from "@/lib/guias";
+import { obtenerGuiasParaFicha, obtenerGuiaAgotadaParaFicha, obtenerComparativaPrivadaParaFicha } from "@/lib/guias";
 import { getDictionary } from "@/lib/i18n/getDictionary";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
 import {
@@ -51,7 +51,7 @@ import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendad
 import { obtenerParecidasConTipo, obtenerPrivadasParaGuia } from "@/lib/recomendaciones";
 import BandaVersionPrivada from "@/components/ficha/BandaVersionPrivada";
 import OtrasVersiones from "@/components/ficha/OtrasVersiones";
-import AvisoEntradasAgotadas from "@/components/ficha/AvisoEntradasAgotadas";
+import AvisoEntradasAgotadas, { AvisoComparativaPrivada } from "@/components/ficha/AvisoEntradasAgotadas";
 import AlternativaReserva from "@/components/ficha/AlternativaReserva";
 
 const SITE_URL =
@@ -134,6 +134,9 @@ export default async function ActividadPage({ params }: Props) {
 
   const guiasRelacionadas = obtenerGuiasParaFicha(lang, params.ciudad, actividad);
   const guiaAgotada = obtenerGuiaAgotadaParaFicha(lang, params.ciudad, actividad.slugs?.es);
+  const comparativaPrivada = actividad.privada === true
+    ? obtenerComparativaPrivadaParaFicha(lang, params.ciudad, actividad.slugs?.es)
+    : null;
 
   const parecidas = obtenerParecidasConTipo(lang, params.ciudad, actividad);
   // Fichas en grupo: la privada equivalente, si la hay (2+ palabras de tema en común).
@@ -532,6 +535,10 @@ export default async function ActividadPage({ params }: Props) {
 
             {guiaAgotada && (
               <AvisoEntradasAgotadas url={guiaAgotada.url} idioma={lang} />
+            )}
+
+            {comparativaPrivada && (
+              <AvisoComparativaPrivada url={comparativaPrivada.url} idioma={lang} />
             )}
 
             <BandaVersionPrivada privada={versionPrivada} idioma={lang} />

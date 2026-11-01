@@ -203,6 +203,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ["/sobre-nosotros", 0.6, "monthly"],
     ["/proveedores", 0.4, "monthly"],
     ["/planificador", 0.6, "monthly"],
+    ["/cruceros", 0.6, "monthly"],
+    ["/en/cruise-excursions", 0.6, "monthly"],
   ];
   for (const [path, priority, changeFrequency] of paginasFijasEs) {
     entries.push({

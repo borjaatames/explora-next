@@ -506,7 +506,33 @@ export function obtenerGuiaAgotadaParaFicha(
     obtenerGuiasDeCiudad(idioma, ciudad).find(
       (g) =>
         RE_GUIA_AGOTADAS.test(g.slug) &&
-        (g.actividades ?? []).includes(slugFichaEs)
+        ((g.actividades ?? []).includes(slugFichaEs) ||
+          (g.opciones ?? []).some((o) => o.ficha === slugFichaEs))
     ) ?? null
   );
+}
+
+const RE_GUIA_PRIVADA_O_GRUPO =
+  /privada-o-en-grupo|private-or-group|por-libre-grupo-o-privado|independent-group-or-private/;
+
+/**
+ * Comparativa «privada o en grupo» para una ficha privada: primero la que
+ * cita la ficha (p. ej. la del Caminito del Rey) y, si no, la general de la
+ * ciudad (`excursion-privada-o-en-grupo-desde-…`).
+ */
+export function obtenerComparativaPrivadaParaFicha(
+  idioma: Idioma,
+  ciudad: string,
+  slugFichaEs: string | undefined
+): GuiaListItem | null {
+  if (!slugFichaEs) return null;
+  const comparativas = obtenerGuiasDeCiudad(idioma, ciudad).filter((g) =>
+    RE_GUIA_PRIVADA_O_GRUPO.test(g.slug)
+  );
+  const cita = comparativas.find(
+    (g) =>
+      (g.actividades ?? []).includes(slugFichaEs) ||
+      (g.opciones ?? []).some((o) => o.ficha === slugFichaEs)
+  );
+  return cita ?? comparativas.find((g) => /privada-o-en-grupo|private-or-group/.test(g.slug)) ?? null;
 }

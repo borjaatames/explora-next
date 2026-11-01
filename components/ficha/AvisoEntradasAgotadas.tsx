@@ -33,3 +33,25 @@ export default function AvisoEntradasAgotadas({ url, idioma }: Props) {
     </p>
   );
 }
+
+const TEXTOS_PRIVADA: Partial<Record<Idioma, { pregunta: string; enlace: string }>> = {
+  es: { pregunta: "¿Privada o en grupo?", enlace: "Compara el precio por persona" },
+  en: { pregunta: "Private or group tour?", enlace: "Compare the price per person" },
+};
+
+/** Aviso en la ficha privada que enlaza a la comparativa «privada o en grupo» de su ciudad. */
+export function AvisoComparativaPrivada({ url, idioma }: Props) {
+  const t = TEXTOS_PRIVADA[idioma];
+  if (!t) return null;
+  return (
+    <p className="flex flex-wrap items-center gap-x-2 gap-y-1 bg-anil-50 border border-anil-200 rounded-lg px-4 py-3 text-sm text-piedra-800">
+      <span className="font-semibold">{t.pregunta}</span>
+      <Link
+        href={url}
+        className="font-semibold text-anil-700 hover:text-anil-600 underline underline-offset-2 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded"
+      >
+        {t.enlace} →
+      </Link>
+    </p>
+  );
+}

@@ -10,6 +10,7 @@ import {
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 import { urlHubPrivados } from "@/lib/privadosUrls";
+import { urlPlanificador } from "@/lib/planificador";
 
 const DICT = {
   es: {
@@ -17,6 +18,8 @@ const DICT = {
     privados: "Excursiones privadas",
     privadosCorto: "Privadas",
     guias: "Guías",
+    planifica: "Planifica tu viaje",
+    planificaCorto: "Planifica",
     ciudades: "Ciudades",
     sobreNosotros: "Sobre nosotros",
     contacto: "Contacto",
@@ -30,6 +33,8 @@ const DICT = {
     privados: "Private tours",
     privadosCorto: "Private",
     guias: "Guides",
+    planifica: "Plan your trip",
+    planificaCorto: "Planner",
     ciudades: "Cities",
     sobreNosotros: "About us",
     contacto: "Contact",
@@ -43,6 +48,8 @@ const DICT = {
     privados: "Privattouren",
     privadosCorto: "Privat",
     guias: "Reiseführer",
+    planifica: "",
+    planificaCorto: "",
     ciudades: "Städte",
     sobreNosotros: "Über uns",
     contacto: "Kontakt",
@@ -82,7 +89,11 @@ export default function Navbar({ idioma }: Props) {
       : []),
     { href: urlIndiceCiudades(idioma), label: t.ciudades, corto: undefined as string | undefined },
     { href: urlIndiceGuias(idioma), label: t.guias },
-    // Entre 768 y 1024 px no caben todos: «Sobre nosotros» queda en el pie y en el menú móvil.
+    // El planificador solo existe en ES y EN.
+    ...(idioma === "es" || idioma === "en"
+      ? [{ href: urlPlanificador(idioma), label: t.planifica as string, corto: t.planificaCorto as string }]
+      : []),
+    // Por debajo de 1280 px no caben todos: «Sobre nosotros» queda en el pie y en el menú móvil.
     { href: urlSobreNosotros(idioma), label: t.sobreNosotros, soloLg: true },
   ];
   const enlacesMovil = [
@@ -117,7 +128,7 @@ export default function Navbar({ idioma }: Props) {
               key={e.href}
               href={e.href}
               prefetch={false}
-              className={`${"soloLg" in e && e.soloLg ? "hidden lg:inline " : ""}whitespace-nowrap text-sm lg:text-base font-semibold text-piedra-900 hover:text-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded`}
+              className={`${"soloLg" in e && e.soloLg ? "hidden xl:inline " : ""}whitespace-nowrap text-sm lg:text-base font-semibold text-piedra-900 hover:text-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded`}
             >
               {e.corto ? (
                 <>

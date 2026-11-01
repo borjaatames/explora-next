@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import BuscadorDestino, { type OpcionDestino } from "./BuscadorDestino";
 import type { Idioma } from "@/lib/i18n/types";
+import { urlPlanificador } from "@/lib/planificador";
 
 const DICT = {
   es: {
@@ -13,6 +14,7 @@ const DICT = {
     placeholder: "Madrid, Granada, Tenerife…",
     boton: "Buscar",
     verDestinos: "O explora todos los destinos",
+    planificador: "¿No sabes qué hacer? Prueba el planificador",
   },
   en: {
     antetitulo: "Local experts · Secure booking",
@@ -23,6 +25,7 @@ const DICT = {
     placeholder: "Madrid, Granada, Tenerife…",
     boton: "Search",
     verDestinos: "Or browse all destinations",
+    planificador: "Not sure what to do? Try the trip planner",
   },
   de: {
     antetitulo: "Lokale Experten · Sichere Buchung",
@@ -33,6 +36,7 @@ const DICT = {
     placeholder: "Madrid, Granada, Teneriffa…",
     boton: "Suchen",
     verDestinos: "Oder alle Reiseziele ansehen",
+    planificador: null,
   },
 } as const;
 
@@ -83,13 +87,24 @@ export default function HeroHome({
           placeholder={t.placeholder}
           boton={t.boton}
         />
-        <Link
-          href={anclaDestinos}
-      prefetch={false}
-          className="inline-flex items-center mt-5 text-sm font-semibold text-anil-100 hover:text-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-piedra-900 rounded"
-        >
-          {t.verDestinos} →
-        </Link>
+        <div className="mt-5 flex flex-wrap gap-x-6 gap-y-2">
+          <Link
+            href={anclaDestinos}
+            prefetch={false}
+            className="inline-flex items-center text-sm font-semibold text-anil-100 hover:text-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-piedra-900 rounded"
+          >
+            {t.verDestinos} →
+          </Link>
+          {t.planificador && (idioma === "es" || idioma === "en") && (
+            <Link
+              href={urlPlanificador(idioma)}
+              prefetch={false}
+              className="inline-flex items-center text-sm font-semibold text-azafran-300 hover:text-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-piedra-900 rounded"
+            >
+              {t.planificador} →
+            </Link>
+          )}
+        </div>
       </div>
     </section>
   );

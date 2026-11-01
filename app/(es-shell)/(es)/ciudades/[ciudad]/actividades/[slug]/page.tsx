@@ -10,7 +10,7 @@ import {
   type ActividadCompleta,
 } from "@/lib/actividades";
 import { slugParejaActividad } from "@/lib/i18n/slugs";
-import { obtenerGuiasParaFicha, obtenerGuiaAgotadaParaFicha } from "@/lib/guias";
+import { obtenerGuiasParaFicha, obtenerGuiaAgotadaParaFicha, obtenerComparativaPrivadaParaFicha } from "@/lib/guias";
 import { getDictionary } from "@/lib/i18n/getDictionary";
 import {
   hreflangAlternates,
@@ -47,7 +47,7 @@ import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendad
 import { obtenerParecidasConTipo, obtenerPrivadasParaGuia } from "@/lib/recomendaciones";
 import BandaVersionPrivada from "@/components/ficha/BandaVersionPrivada";
 import OtrasVersiones from "@/components/ficha/OtrasVersiones";
-import AvisoEntradasAgotadas from "@/components/ficha/AvisoEntradasAgotadas";
+import AvisoEntradasAgotadas, { AvisoComparativaPrivada } from "@/components/ficha/AvisoEntradasAgotadas";
 import AlternativaReserva from "@/components/ficha/AlternativaReserva";
 
 const SITE_URL =
@@ -115,6 +115,9 @@ export default async function ActividadPage({ params }: Props) {
 
   const guiasRelacionadas = obtenerGuiasParaFicha("es", params.ciudad, actividad);
   const guiaAgotada = obtenerGuiaAgotadaParaFicha("es", params.ciudad, params.slug);
+  const comparativaPrivada = actividad.privada === true
+    ? obtenerComparativaPrivadaParaFicha("es", params.ciudad, params.slug)
+    : null;
 
   const parecidas = obtenerParecidasConTipo("es", params.ciudad, actividad);
   // Fichas en grupo: la privada equivalente, si la hay (2+ palabras de tema en común).
@@ -511,6 +514,10 @@ export default async function ActividadPage({ params }: Props) {
 
             {guiaAgotada && (
               <AvisoEntradasAgotadas url={guiaAgotada.url} idioma={"es"} />
+            )}
+
+            {comparativaPrivada && (
+              <AvisoComparativaPrivada url={comparativaPrivada.url} idioma={"es"} />
             )}
 
             <BandaVersionPrivada privada={versionPrivada} idioma={"es"} />

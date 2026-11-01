@@ -131,6 +131,8 @@ function entradasFijas(): MapaParejas {
   // Planificador de actividades (solo ES/EN)
   const planificador = { es: "/planificador", en: "/en/planner" };
   for (const ruta of Object.values(planificador)) mapa[ruta] = planificador;
+  const cruceros = { es: "/cruceros", en: "/en/cruise-excursions" };
+  for (const ruta of Object.values(cruceros)) mapa[ruta] = cruceros;
 
   return mapa;
 }

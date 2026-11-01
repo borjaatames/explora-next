@@ -1,3 +1,4 @@
+import { FranjaNavidad, ConQuienViajas, RutasPorDias, FranjaCruceros } from "@/components/home/SeccionesPlan";
 import PrivadosHome from "@/components/home/PrivadosHome";
 import type { Metadata } from "next";
 import Link from "next/link";
@@ -132,6 +133,7 @@ export default function HomePage() {
         anclaDestinos="#destinos"
       />
       <FranjaConfianza idioma={"es"} />
+      <FranjaNavidad idioma={"es"} />
 
       {/* Principales destinos */}
       {destinosHome.length > 0 && (
@@ -186,6 +188,8 @@ export default function HomePage() {
           </div>
         </section>
       )}
+
+      <ConQuienViajas idioma={"es"} />
 
       <PrivadosHome idioma={"es"} />
 
@@ -327,6 +331,8 @@ export default function HomePage() {
           </div>
         </section>
       )}
+      <RutasPorDias idioma={"es"} />
+      <FranjaCruceros idioma={"es"} />
       <FranjaPartners idioma={"es"} />
     </main>
   );

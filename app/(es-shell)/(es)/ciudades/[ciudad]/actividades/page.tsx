@@ -1,3 +1,4 @@
+import { BotonesGuiasCiudad, PlanificaCiudad } from "@/components/ciudad/PlanCiudad";
 import { MIN_PRIVADAS_CIUDAD, obtenerPrivadasDeCiudad, urlPrivadasDeCiudad } from "@/lib/privados";
 import { aCardData } from "@/lib/cardActividad";
 import { calcularEtiquetas } from "@/lib/etiquetasActividad";
@@ -296,6 +297,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
             >
               ¿No sabes qué elegir? Usa el planificador →
             </Link>
+            <BotonesGuiasCiudad idioma={"es"} ciudad={params.ciudad} />
           </div>
         </div>
       </header>
@@ -308,6 +310,8 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         locale="es-ES"
         enlacesCategorias={enlacesCategorias}
       />
+
+      <PlanificaCiudad idioma={"es"} ciudad={params.ciudad} />
 
       {/* Texto introductorio de la ciudad, como contexto secundario al pie de
           la página de actividades (la ficha de actividades es ahora la entrada
