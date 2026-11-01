@@ -89,6 +89,8 @@ galeria:
   alt: "Inner courtyard of Almodóvar del Río castle at dusk"
 - src: /images/actividades/cordoba/almodovar/fvc-vitrina-piezas-medievales.webp
   alt: "Display case of exhibits inside Almodóvar del Río castle"
+- src: /images/actividades/cordoba/almodovar/x-almodovar-wikimedia-02.webp
+  alt: "Castillo de Almodóvar del Río sobre su cerro"
 ---
 
 ## What you will see

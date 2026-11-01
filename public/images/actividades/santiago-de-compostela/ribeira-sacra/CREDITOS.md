@@ -8,3 +8,4 @@
 - `fsc-laderas-ribeira-sacra.webp` — eladinocabanelas, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/ribeira-sacra-sil-landscape-river-191089/) · recortada a 1600×1200
 - `fsc-vinedos-valle-sil.webp` — Tanja Freibott, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ca%C3%B1%C3%B3n_del_Sil_003.jpg) · recortada a 1600×1200
 - `fsc-rio-sil-panoramica.webp` — Tanja Freibott, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Ca%C3%B1%C3%B3n_del_Sil_001.jpg) · recortada a 1600×1200
+- `x-ribeira-sacra-pexels-16664200.webp` — Javier Balseiro, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/a-view-of-a-river-and-mountains-from-a-high-vantage-point-16664200/) · recortada a 1600×1200

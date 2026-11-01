@@ -94,6 +94,8 @@ galeria:
   alt: "Olivo centenario en el campo de Mallorca"
 - src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
   alt: "Costa rocosa del Mediterráneo con montañas al fondo"
+- src: /images/actividades/mallorca/fma-caballo-alcudia/x-tramuntana-era-del-cosconar.webp
+  alt: "Paisaje de la Serra de Tramuntana, en Mallorca"
 ---
 
 ## Qué vas a ver

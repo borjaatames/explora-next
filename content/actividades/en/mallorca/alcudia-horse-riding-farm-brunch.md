@@ -94,6 +94,8 @@ galeria:
   alt: "Centuries-old olive tree in the Mallorcan countryside"
 - src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
   alt: "Rocky Mediterranean coast with mountains behind"
+- src: /images/actividades/mallorca/fma-caballo-alcudia/x-tramuntana-era-del-cosconar.webp
+  alt: "Serra de Tramuntana landscape, Mallorca"
 ---
 
 ## What you will see

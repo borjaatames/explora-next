@@ -84,6 +84,10 @@ galeria:
   alt: "A dancer twirling on stage (illustrative image)"
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
   alt: "Palma Cathedral under a pink sunset sky"
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: "Bailaora con mantón y guitarrista en un espectáculo flamenco"
+- src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
+  alt: "Bailaora flamenca en blanco y negro"
 ---
 
 ## What you will see

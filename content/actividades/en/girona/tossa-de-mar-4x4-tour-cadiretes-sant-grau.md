@@ -89,6 +89,10 @@ galeria:
   alt: "The Vila Vella walls and tower with Tossa beach"
 - src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-01.webp
   alt: "Tossa de Mar beach and Vila Vella"
+- src: /images/actividades/girona/fgi-tossa/fgi-tossa-vila-vella-desde-mar.webp
+  alt: "La Vila Vella de Tossa de Mar vista desde el agua"
+- src: /images/actividades/girona/fgi-4x4/x-4x4-pixabay-1627117.webp
+  alt: "Todoterreno clásico blanco"
 ---
 
 ## What you'll see

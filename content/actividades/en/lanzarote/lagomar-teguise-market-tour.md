@@ -93,6 +93,10 @@ galeria:
   alt: "Teguise square"
 - src: /images/actividades/lanzarote/zonas/teguise-calle.webp
   alt: "Teguise street with its church"
+- src: /images/actividades/lanzarote/lagomar/flz-jardin-palmeras.webp
+  alt: "Jardín con palmeras y cactus junto a la roca en LagOmar"
+- src: /images/actividades/lanzarote/lagomar/flz-terraza-roca.webp
+  alt: "Terraza y puerta blanca excavadas en la roca en LagOmar"
 ---
 
 ## What you will see

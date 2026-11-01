@@ -95,6 +95,10 @@ galeria:
   alt: "Costa norte de Lanzarote vista desde el Mirador del Río"
 - src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-paisaje-norte.webp
   alt: "Paisaje volcánico del norte de Lanzarote junto a la Cueva de los Verdes"
+- src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-espejo-dorado.webp
+  alt: "Reflejos dorados en el interior de la Cueva de los Verdes"
+- src: /images/actividades/lanzarote/famara/x-mirador-rio-pixabay-2463157.webp
+  alt: "La Graciosa vista desde el Mirador del Río"
 ---
 
 ## Qué vas a ver

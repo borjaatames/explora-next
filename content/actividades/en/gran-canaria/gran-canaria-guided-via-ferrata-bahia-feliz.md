@@ -101,6 +101,8 @@ galeria:
   alt: "Climbing the metal rungs of a via ferrata"
 - src: /images/actividades/gran-canaria/via-ferrata/fgc-montanas-barranco-sur.webp
   alt: "Arid mountains in a ravine in the south of Gran Canaria"
+- src: /images/actividades/gran-canaria/via-ferrata/x-via-ferrata-pexels-11034345.webp
+  alt: "Escaladores en una vía ferrata"
 ---
 
 ## What you will see

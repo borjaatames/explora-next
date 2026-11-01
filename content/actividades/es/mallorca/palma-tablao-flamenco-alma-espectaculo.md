@@ -84,6 +84,10 @@ galeria:
   alt: "Giro de una bailaora sobre el escenario (imagen ilustrativa)"
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
   alt: "Catedral de Palma con el cielo rosado del atardecer"
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: "Bailaora con mantón y guitarrista en un espectáculo flamenco"
+- src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
+  alt: "Bailaora flamenca en blanco y negro"
 ---
 
 ## Qué vas a ver

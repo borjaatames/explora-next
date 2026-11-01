@@ -91,6 +91,10 @@ galeria:
   alt: "Lloret de Mar main beach with rocks in the foreground"
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-rocas.webp
   alt: "Sandy beach with rocks in Lloret de Mar"
+- src: /images/actividades/girona/fgi-4x4/x-4x4-pixabay-1627117.webp
+  alt: "Todoterreno clásico blanco"
+- src: /images/actividades/girona/fgi-4x4/x-lloret-wikimedia-01.webp
+  alt: "Costa de Lloret de Mar"
 ---
 
 ## What you will see

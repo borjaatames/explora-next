@@ -6,3 +6,4 @@
 - `ffv-hoja-aloe-cortada.webp` — Ingoldfranziska, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/aloe-aloe-vera-life-health-plant-2163120/) · recortada a 1600×1200
 - `ffv-aloe-en-flor.webp` — Tomas Anunziata, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/plantation-with-blooming-aloe-on-clear-day-412038/) · recortada a 1600×1200
 - `ffv-hileras-aloe-vera.webp` — lucianalopezrec, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/aloe-vera-plantations-floors-2202708/) · recortada a 1600×1200
+- `x-aloe-pexels-6223420.webp` — Nikita Belokhonov, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/lush-aloe-vera-growing-in-bush-6223420/) · recortada a 1600×1200

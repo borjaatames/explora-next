@@ -84,6 +84,10 @@ galeria:
   alt: "Bailaor en pleno baile sobre el escenario"
 - src: /images/actividades/valencia/noche/plaza-ayuntamiento-noche.webp
   alt: "Plaza del Ayuntamiento de Valencia iluminada por la noche"
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: "Guitarrista flamenco tocando sobre el escenario"
+- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
+  alt: "Artistas flamencos en escena durante un espectáculo en directo"
 ---
 
 ## Qué vas a ver

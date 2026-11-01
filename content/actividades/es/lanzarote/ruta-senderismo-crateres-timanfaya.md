@@ -92,6 +92,10 @@ galeria:
   alt: "Carretera entre paisajes volcánicos de Lanzarote"
 - src: /images/actividades/lanzarote/timanfaya/flz-cono-rojo.webp
   alt: "Ladera de un cono volcánico rojizo en Timanfaya"
+- src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
+  alt: "Paisaje del Parque Nacional de Timanfaya con el mar al fondo"
+- src: /images/actividades/lanzarote/timanfaya/flz-volcan-nubes.webp
+  alt: "Volcán rojizo bajo las nubes en Timanfaya"
 ---
 
 ## Qué vas a ver

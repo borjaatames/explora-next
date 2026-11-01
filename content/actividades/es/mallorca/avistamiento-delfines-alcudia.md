@@ -86,6 +86,10 @@ galeria:
   alt: Barcos fondeados en una bahía del norte de Mallorca
 - src: /images/actividades/mallorca/formentor/platja-formentor-agua-turquesa.webp
   alt: Agua turquesa en una playa del norte de Mallorca
+- src: /images/actividades/mallorca/barco-paguera/barco-fondo-cristal-amarrado.webp
+  alt: "Barco con fondo de cristal amarrado en el puerto"
+- src: /images/actividades/mallorca/barco-paguera/barco-fondo-cristal.webp
+  alt: "Foto de la actividad"
 atraccionesRelacionadas:
 - calas-playas
 ratingProveedor: 4.8

@@ -89,6 +89,8 @@ galeria:
   alt: "Detalle de la parte delantera de un tuk tuk (imagen ilustrativa)"
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
   alt: "Costa rocosa volcánica en Costa Adeje"
+- src: /images/actividades/alicante/tuk-tuk/tuk-tuk-alicante-mirador.webp
+  alt: "Tuk tuk turístico eléctrico aparcado en un mirador de Alicante"
 ---
 
 ## Qué vas a ver

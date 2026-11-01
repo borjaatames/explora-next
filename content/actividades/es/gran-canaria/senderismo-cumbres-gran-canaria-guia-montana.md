@@ -98,6 +98,12 @@ galeria:
   alt: "El Roque Nublo con el Teide asomando sobre el mar de nubes"
 - src: /images/actividades/gran-canaria/roque-nublo/fgc-senderistas-silueta-cumbre.webp
   alt: "Siluetas de dos senderistas en la cumbre de Gran Canaria"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-desde-tejeda.webp
+  alt: "El Roque Nublo sobre las laderas verdes de Tejeda"
+- src: /images/actividades/gran-canaria/roque-nublo/pico-nieves.webp
+  alt: "Pico de las Nieves, el techo de Gran Canaria"
+- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp
+  alt: "Mar de nubes sobre las cumbres"
 ---
 
 ## Qué vas a ver

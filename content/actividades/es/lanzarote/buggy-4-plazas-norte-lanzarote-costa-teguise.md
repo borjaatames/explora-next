@@ -101,6 +101,10 @@ galeria:
   alt: "Carretera junto al risco en el norte de Lanzarote"
 - src: /images/actividades/lanzarote/famara/flz-risco-famara.webp
   alt: "Risco de Famara visto desde La Caleta de Famara"
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-costa-playa.webp
+  alt: "Costa norte de Lanzarote vista desde el Mirador del Río"
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-terraza-barandilla.webp
+  alt: "Terraza del Mirador del Río sobre el estrecho de La Graciosa"
 ---
 
 ## Qué vas a ver

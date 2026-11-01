@@ -6,3 +6,4 @@
 - `fgc-barrancos-sur-gran-canaria.webp` — H. Zell, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Barranco_de_Fataga_01.jpg) · recortada a 1600×1200
 - `fgc-subida-peldanos-ferrata.webp` — StasiekStachu, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/climbing-woman-climber-via-ferratas-7852741/) · recortada a 1600×1200
 - `fgc-montanas-barranco-sur.webp` — H. Zell, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Barranco_de_Fataga_04.JPG) · recortada a 1600×1200
+- `x-via-ferrata-pexels-11034345.webp` — Susanne Jutzeler, suju-foto, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/people-climbing-on-ladder-in-mountain-landscape-11034345/) · recortada a 1600×1200

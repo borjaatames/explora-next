@@ -99,6 +99,10 @@ galeria:
   alt: "Olive trees and a dry-stone wall in Mallorca"
 - src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
   alt: "Seabed with rocks under crystal-clear water"
+- src: /images/actividades/mallorca/fma-quad-randa/x-quad-wikimedia-01.webp
+  alt: "Quads aparcados"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
+  alt: "Costa rocosa del Mediterráneo con montañas al fondo"
 ---
 
 ## What you will see

@@ -85,6 +85,10 @@ galeria:
   alt: "Flamenco guitarist in a hat playing live"
 - src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
   alt: "Roman Bridge and Mosque-Cathedral of Córdoba lit up at dusk"
+- src: /images/actividades/cordoba/flamenco/baile-flamenco.webp
+  alt: "Foto de la actividad"
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: "Bailaora con mantón y guitarrista en un espectáculo flamenco"
 ---
 
 ## What you will see

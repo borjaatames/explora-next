@@ -87,6 +87,10 @@ galeria:
   alt: "Calle Larga de Jerez, peatonal y con naranjos"
 - src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
   alt: "Viñedos sobre tierra albariza en el Marco de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp
+  alt: "Cata de vinos de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/bodegas/botas-roble-apiladas.webp
+  alt: "Botas de roble apiladas en una bodega"
 ---
 
 ## Qué vas a ver

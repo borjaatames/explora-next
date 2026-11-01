@@ -83,6 +83,10 @@ galeria:
   alt: "Tapas variadas en cazuelas de barro sobre una mesa de madera"
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-noche.webp
   alt: "Cúpula de la Catedral de Jerez iluminada de noche"
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
+  alt: "Público disfrutando de un espectáculo flamenco en Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: "Músicos en directo en un tablao flamenco de Jerez"
 ---
 
 ## Qué vas a ver

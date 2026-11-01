@@ -99,6 +99,10 @@ galeria:
   alt: "Stalactite formations in the San José Caves"
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-14-jpg-03.webp
   alt: "Lit rock wall inside the San José Caves"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-27790724-card.webp
+  alt: "Foto de la actividad"
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-6877687-card.webp
+  alt: "Foto de la actividad"
 ---
 
 ## What you will see

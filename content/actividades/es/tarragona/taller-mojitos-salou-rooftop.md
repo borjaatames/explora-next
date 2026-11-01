@@ -88,6 +88,8 @@ galeria:
   alt: "Platja Llarga de Salou"
 - src: /images/actividades/tarragona/costa/cap-salou.webp
   alt: "Cap de Salou sobre el Mediterráneo"
+- src: /images/actividades/barcelona/noche/barcelona-noche-torre-glories.webp
+  alt: "Barcelona iluminada de noche con la Torre Glòries"
 ---
 
 ## Qué vas a ver

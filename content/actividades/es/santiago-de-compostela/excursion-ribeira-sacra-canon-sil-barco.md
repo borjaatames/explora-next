@@ -93,6 +93,8 @@ galeria:
   alt: "Estela del barco navegando por el cañón del Sil"
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-laderas-ribeira-sacra.webp
   alt: "Laderas de la Ribeira Sacra sobre el Sil"
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/x-ribeira-sacra-pexels-16664200.webp
+  alt: "El cañón del Sil desde lo alto"
 ---
 
 ## Qué vas a ver

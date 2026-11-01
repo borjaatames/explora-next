@@ -103,6 +103,10 @@ galeria:
   alt: "Red rock walls and palms in a ravine of south-east Gran Canaria"
 - src: /images/actividades/gran-canaria/guayadeque/guayadeque-mar.webp
   alt: "A ravine opening towards the east coast of Gran Canaria"
+- src: /images/actividades/gran-canaria/guayadeque/cueva-bermeja.webp
+  alt: "Cueva Bermeja, ermita de San Bartolomé en Guayadeque"
+- src: /images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp
+  alt: "Paisaje del este de Gran Canaria"
 ---
 
 ## What you will see

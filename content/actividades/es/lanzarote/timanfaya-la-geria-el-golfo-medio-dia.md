@@ -95,6 +95,8 @@ galeria:
   alt: "Mirador sobre el Charco de los Clicos en El Golfo"
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
   alt: "Los Hervideros, acantilados de lava junto al mar"
+- src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
+  alt: "Hileras de hoyos con vides en La Geria vistas desde arriba"
 ---
 
 ## Qué vas a ver

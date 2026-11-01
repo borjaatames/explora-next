@@ -95,6 +95,8 @@ galeria:
   alt: "Viewpoint over Charco de los Clicos at El Golfo"
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
   alt: "Los Hervideros, lava cliffs by the sea"
+- src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
+  alt: "Hileras de hoyos con vides en La Geria vistas desde arriba"
 ---
 
 ## What you will see

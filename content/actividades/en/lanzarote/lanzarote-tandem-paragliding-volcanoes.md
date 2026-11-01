@@ -103,6 +103,10 @@ galeria:
   alt: "Two paragliders flying together"
 - src: /images/actividades/lanzarote/zonas/valle-volcanico.webp
   alt: "Volcanic valley in Lanzarote"
+- src: /images/actividades/lanzarote/parapente/x-parapente-pixabay-5292803.webp
+  alt: "Vuelo en parapente biplaza"
+- src: /images/actividades/lanzarote/parapente/x-parapente-wikimedia-01.webp
+  alt: "Parapentista preparando el despegue en la montaña"
 ---
 
 ## What you will see

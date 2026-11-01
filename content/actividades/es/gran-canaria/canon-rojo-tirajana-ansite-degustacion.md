@@ -103,6 +103,10 @@ galeria:
   alt: "Paredes de roca rojiza y palmeras en un barranco del sureste de Gran Canaria"
 - src: /images/actividades/gran-canaria/guayadeque/guayadeque-mar.webp
   alt: "Barranco abriéndose hacia la costa este de Gran Canaria"
+- src: /images/actividades/gran-canaria/guayadeque/cueva-bermeja.webp
+  alt: "Cueva Bermeja, ermita de San Bartolomé en Guayadeque"
+- src: /images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp
+  alt: "Paisaje del este de Gran Canaria"
 ---
 
 ## Qué vas a ver

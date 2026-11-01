@@ -7,3 +7,4 @@
 - `flamenco-cuadro.webp` — János Korom, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Flamenco_Show_480DSC_0293_%2849924869683%29.jpg) · recortada a 1600×1200
 - `tablao.webp` — Noeliv, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Espect%C3%A1culo_flamenco_en_Tablao_Flamenco_El_Arenal.jpg) · recortada a 1600×1200
 - `trajes-flamenca.webp` — Benjamín Núñez González, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Tablao_flamenco_del_Palacio_de_las_Due%C3%B1as%2C_Sevilla%2C_Espa%C3%B1a%2C_2016_02.JPG) · recortada a 1600×1200
+- `x-flamenco-pixabay-594272.webp` — 691806, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/flamenco-dance-latino-spanish-594272/) · recortada a 1600×1200

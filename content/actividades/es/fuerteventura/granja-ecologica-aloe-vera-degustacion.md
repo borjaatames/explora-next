@@ -95,6 +95,8 @@ galeria:
   alt: "Hileras de aloe en flor"
 - src: /images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp
   alt: "Hileras de aloe vera en tierra volcánica"
+- src: /images/actividades/fuerteventura/granja-aloe/x-aloe-pexels-6223420.webp
+  alt: "Hojas de aloe vera"
 ---
 
 ## Qué vas a ver

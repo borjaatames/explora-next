@@ -88,6 +88,10 @@ galeria:
   alt: "Barcas sobre la arena de la playa del Cabanyal al atardecer"
 - src: /images/actividades/valencia/salsa/fvc-pareja-salsa-escenario.webp
   alt: "Pareja de bailarines haciendo pasos de salsa"
+- src: /images/actividades/valencia/salsa/x-salsa-pexels-2188012.webp
+  alt: "Pareja bailando"
+- src: /images/actividades/valencia/salsa/x-salsa-pixabay-929815.webp
+  alt: "Pareja de baile"
 ---
 
 ## Qué vas a ver

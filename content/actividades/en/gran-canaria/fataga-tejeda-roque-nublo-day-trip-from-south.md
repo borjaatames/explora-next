@@ -97,6 +97,10 @@ galeria:
   alt: "Roque Nublo above the green slopes of Tejeda"
 - src: /images/actividades/gran-canaria/tejeda/fgc-roque-bentayga-almendros.webp
   alt: "Almond trees in blossom in front of Roque Bentayga, in Tejeda"
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-caminantes-meseta-roque-nublo.webp
+  alt: "Caminantes en la meseta del Roque Nublo"
+- src: /images/actividades/gran-canaria/tejeda/x-fataga-wikimedia-03.webp
+  alt: "Pueblo de las cumbres de Gran Canaria"
 ---
 
 ## What you will see

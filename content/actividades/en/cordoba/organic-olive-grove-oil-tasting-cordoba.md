@@ -98,6 +98,10 @@ galeria:
   alt: "Toast with tomato served with a dip"
 - src: /images/actividades/cordoba/olivar/fvc-mirador-olivares.webp
   alt: "Viewpoint over a sea of olive groves in Andalusia"
+- src: /images/actividades/cordoba/olivar/x-olivar-pexels-29749216.webp
+  alt: "Olivares en la campiña cordobesa"
+- src: /images/actividades/cordoba/olivar/x-olivar-pixabay-4547787.webp
+  alt: "Olivar con la sierra al fondo"
 ---
 
 ## What you will see

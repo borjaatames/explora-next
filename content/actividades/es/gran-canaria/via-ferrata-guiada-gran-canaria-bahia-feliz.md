@@ -101,6 +101,8 @@ galeria:
   alt: "Subida por los peldaños metálicos de una vía ferrata"
 - src: /images/actividades/gran-canaria/via-ferrata/fgc-montanas-barranco-sur.webp
   alt: "Montañas áridas de un barranco del sur de Gran Canaria"
+- src: /images/actividades/gran-canaria/via-ferrata/x-via-ferrata-pexels-11034345.webp
+  alt: "Escaladores en una vía ferrata"
 ---
 
 ## Qué vas a ver

@@ -100,6 +100,8 @@ galeria:
   alt: "Stone-walled vine pits on a slope in La Geria"
 - src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
   alt: "Vine pits in La Geria"
+- src: /images/actividades/lanzarote/la-geria/flz-vinedo-pie-volcan.webp
+  alt: "Viñedo de hoyos con muros de piedra al pie de un volcán en La Geria"
 ---
 
 ## What you will see

@@ -85,6 +85,10 @@ galeria:
   alt: "Guitarrista flamenco con sombrero tocando en directo"
 - src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
   alt: "Puente Romano y Mezquita-Catedral de Córdoba iluminados al anochecer"
+- src: /images/actividades/cordoba/flamenco/baile-flamenco.webp
+  alt: "Foto de la actividad"
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: "Bailaora con mantón y guitarrista en un espectáculo flamenco"
 ---
 
 ## Qué vas a ver

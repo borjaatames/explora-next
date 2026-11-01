@@ -90,6 +90,8 @@ galeria:
   alt: "View over the landscape from the Busot caves area"
 - src: /images/actividades/alicante/fal-canelobre/fal-canelobre-estalagmita-color.webp
   alt: "Lit stalagmite in the Canelobre Caves"
+- src: /images/actividades/alicante/fal-canelobre/x-canelobre-pexels-16455426.webp
+  alt: "Formaciones de roca en la Cueva del Canelobre"
 ---
 
 ## What you will see

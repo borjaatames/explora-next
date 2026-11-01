@@ -95,6 +95,10 @@ galeria:
   alt: "Praza do Obradoiro vista desde lo alto"
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-obradoiro-visitantes.webp
   alt: "Llegada a la plaza del Obradoiro frente a la catedral"
+- src: /images/actividades/santiago-de-compostela/camino/x-peregrino-pexels-39801964.webp
+  alt: "Caminantes con mochila por un sendero entre árboles"
+- src: /images/actividades/santiago-de-compostela/camino/x-peregrino-pixabay-3306920.webp
+  alt: "Mojón del Camino de Santiago"
 ---
 
 ## Qué vas a ver

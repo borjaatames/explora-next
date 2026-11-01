@@ -88,6 +88,10 @@ galeria:
   alt: "Cultivos y una casa en el fondo de la Caldera de Bandama"
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
   alt: "Copas de vino tinto en una cata"
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-card.webp
+  alt: "Foto de la actividad"
+- src: /images/actividades/gran-canaria/vino/x-bandama-wikimedia-02.webp
+  alt: "Caldera de Bandama"
 ---
 
 ## Qué vas a ver

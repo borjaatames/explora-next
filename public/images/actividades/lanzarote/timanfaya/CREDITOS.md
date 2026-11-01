@@ -8,3 +8,4 @@
 - `flz-conos-malpais.webp` — Mihai Vlasceanu, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/lanzarote-s-volcanic-landscape-in-timanfaya-36955230/) · recortada a 1600×1200
 - `flz-cono-rojo.webp` — H. Zell, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Timanfaya_-_Lanzarote_08.jpg) · recortada a 1600×1200
 - `flz-volcan-nubes.webp` — H. Zell, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Timanfaya_-_Lanzarote_17.jpg) · recortada a 1600×1200
+- `x-cueva-verdes-wikimedia-02.webp` — Luis Miguel Bugallo Sánchez (Lmbuga), CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Cueva_de_los_Verdes_-_Lanzarote_-_CV01.jpg) · recortada a 1600×1200

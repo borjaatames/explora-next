@@ -89,6 +89,10 @@ galeria:
   alt: "Copas de vino preparadas para la cata"
 - src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
   alt: "Quesos curados de distintos tamaños"
+- src: /images/actividades/alicante/vino/barricas-filas.webp
+  alt: "Filas de barricas"
+- src: /images/actividades/alicante/vino/barricas.webp
+  alt: "Barricas de vino en una bodega"
 ---
 
 ## Qué vas a ver

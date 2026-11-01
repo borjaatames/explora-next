@@ -99,6 +99,10 @@ galeria:
   alt: "Olivos y muro de piedra seca en Mallorca"
 - src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
   alt: "Fondo marino con rocas bajo agua cristalina"
+- src: /images/actividades/mallorca/fma-quad-randa/x-quad-wikimedia-01.webp
+  alt: "Quads aparcados"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
+  alt: "Costa rocosa del Mediterráneo con montañas al fondo"
 ---
 
 ## Qué vas a ver

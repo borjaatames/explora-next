@@ -83,6 +83,10 @@ galeria:
   alt: "Surtido de tapas y cazuelitas de barro"
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
   alt: "Catedral de Jerez y su torre iluminadas de noche"
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: "Músicos en directo en un tablao flamenco de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
+  alt: "Público disfrutando de un espectáculo flamenco en Jerez"
 ---
 
 ## Qué vas a ver

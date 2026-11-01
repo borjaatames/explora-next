@@ -99,6 +99,10 @@ galeria:
   alt: "Trail by a volcano in Lanzarote"
 - src: /images/actividades/lanzarote/timanfaya/flz-volcan-nubes.webp
   alt: "Reddish volcano under clouds in Timanfaya"
+- src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
+  alt: "Paisaje del Parque Nacional de Timanfaya con el mar al fondo"
+- src: /images/actividades/lanzarote/timanfaya/flz-interior-crater.webp
+  alt: "Interior de un cráter volcánico en Timanfaya"
 ---
 
 ## What you will see

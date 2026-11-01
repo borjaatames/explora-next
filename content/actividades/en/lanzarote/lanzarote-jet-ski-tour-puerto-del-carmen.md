@@ -104,6 +104,10 @@ galeria:
   alt: "Jet ski leaving a wake on the sea"
 - src: /images/actividades/lanzarote/moto-de-agua/flz-atardecer.webp
   alt: "Jet ski at sea at sunset"
+- src: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-unsplash-od2nj8ulz8m.webp
+  alt: "Moto de agua vista desde el manillar"
+- src: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
+  alt: "Piloto en moto de agua"
 ---
 
 ## What you will see

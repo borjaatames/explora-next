@@ -91,6 +91,10 @@ galeria:
   alt: "Torre del Reloj o Berenguela a contraluz"
 - src: /images/actividades/santiago-de-compostela/catedral/claustro.webp
   alt: "Arcos del claustro de la catedral en blanco y negro"
+- src: /images/actividades/santiago-de-compostela/noche/x-catedral-unsplash-9vsyheygwi.webp
+  alt: "Fachada del Obradoiro al atardecer"
+- src: /images/actividades/santiago-de-compostela/catedral/botafumeiro-vuelo.webp
+  alt: "Tiraboleiros preparando el botafumeiro"
 ---
 
 ## Qué vas a ver

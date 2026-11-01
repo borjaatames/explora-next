@@ -104,6 +104,10 @@ galeria:
   alt: "Moto de agua dejando una estela en el mar"
 - src: /images/actividades/lanzarote/moto-de-agua/flz-atardecer.webp
   alt: "Moto de agua en el mar al atardecer"
+- src: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-unsplash-od2nj8ulz8m.webp
+  alt: "Moto de agua vista desde el manillar"
+- src: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
+  alt: "Piloto en moto de agua"
 ---
 
 ## Qué vas a ver

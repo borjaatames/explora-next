@@ -83,6 +83,10 @@ galeria:
   alt: "Assorted tapas in clay dishes on a wooden table"
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-noche.webp
   alt: "Dome of Jerez Cathedral lit up at night"
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
+  alt: "Público disfrutando de un espectáculo flamenco en Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: "Músicos en directo en un tablao flamenco de Jerez"
 ---
 
 ## What you will see

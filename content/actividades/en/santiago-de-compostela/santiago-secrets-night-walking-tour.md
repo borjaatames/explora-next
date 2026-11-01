@@ -91,6 +91,10 @@ galeria:
   alt: "The Clock Tower (Berenguela) against the light"
 - src: /images/actividades/santiago-de-compostela/catedral/claustro.webp
   alt: "Cathedral cloister arches in black and white"
+- src: /images/actividades/santiago-de-compostela/noche/x-catedral-unsplash-9vsyheygwi.webp
+  alt: "Fachada del Obradoiro al atardecer"
+- src: /images/actividades/santiago-de-compostela/catedral/botafumeiro-vuelo.webp
+  alt: "Tiraboleiros preparando el botafumeiro"
 ---
 
 ## What you will see

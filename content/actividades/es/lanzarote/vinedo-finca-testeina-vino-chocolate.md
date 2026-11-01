@@ -93,6 +93,10 @@ galeria:
   alt: "Hoyos de viñedo en La Geria"
 - src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
   alt: "Hileras de hoyos con vides en La Geria vistas desde arriba"
+- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
+  alt: "Foto de la actividad"
+- src: /images/actividades/lanzarote/la-geria/x-bodega-pexels-21765231.webp
+  alt: "Viñedo en Canarias"
 ---
 
 ## Qué vas a ver

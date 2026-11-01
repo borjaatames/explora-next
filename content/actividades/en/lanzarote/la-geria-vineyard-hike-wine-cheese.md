@@ -98,6 +98,10 @@ galeria:
   alt: "La Geria vineyards below a volcano"
 - src: /images/actividades/lanzarote/la-geria/flz-vides-verdes.webp
   alt: "Green vines in volcanic ash pits in La Geria"
+- src: /images/actividades/lanzarote/la-geria/flz-racimo-uvas.webp
+  alt: "Racimo de uvas en una viña de Lanzarote"
+- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
+  alt: "Foto de la actividad"
 ---
 
 ## What you will see

@@ -89,6 +89,8 @@ galeria:
   alt: "Patio interior del castillo de Almodóvar del Río al anochecer"
 - src: /images/actividades/cordoba/almodovar/fvc-vitrina-piezas-medievales.webp
   alt: "Vitrina con piezas expuestas en el interior del castillo de Almodóvar del Río"
+- src: /images/actividades/cordoba/almodovar/x-almodovar-wikimedia-02.webp
+  alt: "Castillo de Almodóvar del Río sobre su cerro"
 ---
 
 ## Qué vas a ver

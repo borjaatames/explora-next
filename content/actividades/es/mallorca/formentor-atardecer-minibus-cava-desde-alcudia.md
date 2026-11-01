@@ -93,6 +93,10 @@ galeria:
   alt: "Acantilado de Formentor al anochecer"
 - src: /images/actividades/mallorca/fma-formentor/faro-formentor-carretera.webp
   alt: "Faro de Formentor en el extremo del cabo"
+- src: /images/actividades/mallorca/fma-formentor/cala-mallorca-barcos-fondeados.webp
+  alt: "Barcos fondeados en una cala de Mallorca"
+- src: /images/actividades/mallorca/formentor/formentor-02.webp
+  alt: "Faro del Cap de Formentor en lo alto del acantilado"
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en marzo de 2027.'
 ---
 

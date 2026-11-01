@@ -83,6 +83,10 @@ galeria:
   alt: "Selection of tapas in small clay dishes"
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
   alt: "Jerez Cathedral and its bell tower lit up at night"
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: "Músicos en directo en un tablao flamenco de Jerez"
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
+  alt: "Público disfrutando de un espectáculo flamenco en Jerez"
 ---
 
 ## What you will see

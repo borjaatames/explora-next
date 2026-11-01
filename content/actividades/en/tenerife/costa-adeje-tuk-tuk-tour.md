@@ -89,6 +89,8 @@ galeria:
   alt: "Close-up of the front of a tuk tuk (illustrative image)"
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
   alt: "Rocky volcanic shoreline in Costa Adeje"
+- src: /images/actividades/alicante/tuk-tuk/tuk-tuk-alicante-mirador.webp
+  alt: "Tuk tuk turístico eléctrico aparcado en un mirador de Alicante"
 ---
 
 ## What you will see

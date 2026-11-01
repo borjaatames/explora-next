@@ -100,6 +100,8 @@ galeria:
   alt: "Hoyos con muros de piedra en la ladera de La Geria"
 - src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
   alt: "Hoyos de viñedo en La Geria"
+- src: /images/actividades/lanzarote/la-geria/flz-vinedo-pie-volcan.webp
+  alt: "Viñedo de hoyos con muros de piedra al pie de un volcán en La Geria"
 ---
 
 ## Qué vas a ver

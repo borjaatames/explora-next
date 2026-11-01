@@ -91,6 +91,10 @@ galeria:
   alt: "Gárgola gótica en la fachada de la Catedral de Palma"
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-pinaculos.webp
   alt: "Pináculos góticos de la Catedral de Palma"
+- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
+  alt: "Parc de la Mar y la Catedral de Palma al atardecer"
+- src: /images/actividades/mallorca/fma-almudaina/x-catedral-wikimedia-01.webp
+  alt: "Interior de la Catedral de Palma"
 ---
 
 ## Qué vas a ver

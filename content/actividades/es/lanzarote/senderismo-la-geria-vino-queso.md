@@ -98,6 +98,10 @@ galeria:
   alt: "Viñedos de La Geria bajo un volcán"
 - src: /images/actividades/lanzarote/la-geria/flz-vides-verdes.webp
   alt: "Vides verdes en hoyos de ceniza volcánica en La Geria"
+- src: /images/actividades/lanzarote/la-geria/flz-racimo-uvas.webp
+  alt: "Racimo de uvas en una viña de Lanzarote"
+- src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
+  alt: "Foto de la actividad"
 ---
 
 ## Qué vas a ver

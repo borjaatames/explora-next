@@ -90,6 +90,8 @@ galeria:
   alt: "Vista del paisaje desde la zona de Busot y las cuevas"
 - src: /images/actividades/alicante/fal-canelobre/fal-canelobre-estalagmita-color.webp
   alt: "Estalagmita iluminada en las Cuevas del Canelobre"
+- src: /images/actividades/alicante/fal-canelobre/x-canelobre-pexels-16455426.webp
+  alt: "Formaciones de roca en la Cueva del Canelobre"
 ---
 
 ## Qué vas a ver

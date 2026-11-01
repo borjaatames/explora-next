@@ -84,6 +84,10 @@ galeria:
   alt: "Male flamenco dancer mid-performance on stage"
 - src: /images/actividades/valencia/noche/plaza-ayuntamiento-noche.webp
   alt: "Valencia City Hall square lit up at night"
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: "Guitarrista flamenco tocando sobre el escenario"
+- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
+  alt: "Artistas flamencos en escena durante un espectáculo en directo"
 ---
 
 ## What you will see
