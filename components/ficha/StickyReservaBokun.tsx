@@ -2,11 +2,21 @@
 
 import { useEffect, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
+import { IDIOMA_LOCALE } from "@/lib/i18n/config";
 import {
   ANCLA_RESERVA,
   textosPrecioBokun,
   type DatosPrecioBokun,
 } from "@/lib/reservaBokun";
+
+const ARIA_RESERVAR: Record<Idioma, string> = {
+  es: "Reservar actividad",
+  en: "Book activity",
+  de: "Aktivität buchen",
+  fr: "Réserver l'activité",
+  it: "Prenota l'attività",
+  pt: "Reservar atividade",
+};
 
 type Props = DatosPrecioBokun & {
   idioma: Idioma;
@@ -47,7 +57,7 @@ export default function StickyReservaBokun({
   if (!(datos.precioDesde > 0)) return null;
   const t = textosPrecioBokun(datos, idioma);
   const visible = !reservaVisible;
-  const locale = idioma === "es" ? "es-ES" : idioma === "de" ? "de-DE" : "en-GB";
+  const locale = idioma === "en" ? "en-GB" : IDIOMA_LOCALE[idioma];
   const rating =
     typeof ratingProveedor === "number" && (numeroOpiniones ?? 0) > 0
       ? `${ratingProveedor.toLocaleString(locale, {
@@ -62,7 +72,7 @@ export default function StickyReservaBokun({
         visible ? "translate-y-0" : "translate-y-full"
       }`}
       role="region"
-      aria-label={idioma === "es" ? "Reservar actividad" : idioma === "de" ? "Aktivität buchen" : "Book activity"}
+      aria-label={ARIA_RESERVAR[idioma]}
       aria-hidden={!visible}
     >
       {aviso && (

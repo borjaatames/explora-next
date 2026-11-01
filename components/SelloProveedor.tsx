@@ -33,6 +33,24 @@ type Props = {
   className?: string;
 };
 
+const PAGO_SEGURO: Record<Idioma, string> = {
+  es: "Pago seguro",
+  en: "Secure payment",
+  de: "Sichere Zahlung",
+  fr: "Paiement sécurisé",
+  it: "Pagamento sicuro",
+  pt: "Pagamento seguro",
+};
+
+const OFRECIDA_POR: Record<Idioma, string> = {
+  es: "Ofrecida por",
+  en: "Offered by",
+  de: "Angeboten von",
+  fr: "Proposée par",
+  it: "Offerta da",
+  pt: "Oferecida por",
+};
+
 function SelloPagoSeguro({
   idioma,
   className,
@@ -40,8 +58,7 @@ function SelloPagoSeguro({
   idioma: Idioma;
   className?: string;
 }) {
-  const texto =
-    idioma === "es" ? "Pago seguro" : idioma === "de" ? "Sichere Zahlung" : "Secure payment";
+  const texto = PAGO_SEGURO[idioma];
   return (
     <div
       className={`inline-flex items-center gap-1.5 text-xs font-medium text-piedra-600 ${
@@ -81,8 +98,7 @@ export default function SelloProveedor({
     return <SelloPagoSeguro idioma={idioma} className={className} />;
   }
 
-  const texto =
-    idioma === "es" ? "Ofrecida por" : idioma === "de" ? "Angeboten von" : "Offered by";
+  const texto = OFRECIDA_POR[idioma];
   const nombre = nombreProveedor(proveedor);
 
   return (

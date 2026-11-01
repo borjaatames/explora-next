@@ -3,7 +3,7 @@ import NotFoundLangContent from "@/components/layout/NotFoundLangContent";
 
 /**
  * 404 del shell no-español (vive dentro de app/[lang]/, que hoy sirve
- * "en" y "de" — generateStaticParams de LangLayout expone
+ * "en", "de", "fr", "it" y "pt" — generateStaticParams de LangLayout expone
  * IDIOMAS_ACTIVOS sin "es" — y cualquier idioma activo futuro sin
  * tocar este archivo).
  *

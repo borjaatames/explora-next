@@ -20,11 +20,14 @@ export const CIUDADES_DE_INDEXABLES: ReadonlySet<string> = new Set([
 
 /** `ruta` es un path absoluto del sitio, sin dominio (p. ej. `/de/guides/mallorca/x`). */
 export function rutaIndexable(ruta: string): boolean {
-  if (ruta !== "/de" && !ruta.startsWith("/de/")) return true;
-  if (ruta === "/de") return true;
-  // Fichas DE (solo las actividades que se hacen en alemán) y sus listados:
-  // contenido propio en alemán, indexable en todas las ciudades.
-  if (/^\/de\/cities\/[^/]+\/activities(?:\/[^/]+)?$/.test(ruta)) return true;
+  const idioma = /^\/(de|fr|it|pt)(?:\/|$)/.exec(ruta)?.[1];
+  if (!idioma) return true;
+  if (ruta === `/${idioma}`) return true;
+  // Fichas (solo las actividades que se hacen en ese idioma) y sus listados:
+  // contenido propio, indexable en todas las ciudades.
+  if (/^\/[a-z]{2}\/cities\/[^/]+\/activities(?:\/(?:c\/)?[^/]+)?$/.test(ruta)) return true;
+  // FR/IT/PT solo tienen fichas: el resto (ciudad, legales…) no se indexa.
+  if (idioma !== "de") return false;
   const m = /^\/de\/(?:guides|cities)\/([^/]+)/.exec(ruta);
   return m !== null && CIUDADES_DE_INDEXABLES.has(m[1]);
 }

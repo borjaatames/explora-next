@@ -64,16 +64,56 @@ export function slugParejaActividad(
   );
   const slugs = leerSlugsDelFrontmatter(fullPath);
   const slugDestino = slugs?.[idiomaDestino];
-  if (!slugDestino) return null;
   // El frontmatter puede declarar una pareja que aún no está escrita:
   // sin archivo destino, no hay pareja (evita hreflang y enlaces 404).
-  const destino = path.join(
-    actividadesRoot,
-    idiomaDestino,
-    ciudad,
-    `${slugDestino}.md`
+  if (slugDestino) {
+    const destino = path.join(
+      actividadesRoot,
+      idiomaDestino,
+      ciudad,
+      `${slugDestino}.md`
+    );
+    if (fs.existsSync(destino)) return slugDestino;
+  }
+  if (!fs.existsSync(fullPath)) return null;
+  // Búsqueda inversa: las fichas nuevas (p. ej. FR/IT/PT) declaran sus
+  // parejas ES/EN, pero las fichas ES/EN no siempre se actualizan con el
+  // slug del idioma nuevo. Se busca en el idioma destino la ficha que apunta
+  // a esta (por el slug del idioma actual o por la clave común `slugs.es`).
+  const claveEs = idiomaActual === "es" ? slugActual : slugs?.es;
+  const pareja = fichasConSlugs(idiomaDestino, ciudad).find(
+    (f) =>
+      f.slugs?.[idiomaActual] === slugActual ||
+      (claveEs !== undefined &&
+        (idiomaDestino === "es" ? f.slug === claveEs : f.slugs?.es === claveEs))
   );
-  return fs.existsSync(destino) ? slugDestino : null;
+  return pareja?.slug ?? null;
+}
+
+type FichaConSlugs = {
+  slug: string;
+  slugs: Partial<Record<Idioma, string>> | null;
+};
+
+const cacheFichasConSlugs = new Map<string, FichaConSlugs[]>();
+
+/** Slugs de las fichas (`.md`) de una ciudad en un idioma, con caché por build. */
+function fichasConSlugs(idioma: Idioma, ciudad: string): FichaConSlugs[] {
+  const clave = `${idioma}/${ciudad}`;
+  const enCache = cacheFichasConSlugs.get(clave);
+  if (enCache) return enCache;
+  const dir = path.join(actividadesRoot, idioma, ciudad);
+  const fichas: FichaConSlugs[] = fs.existsSync(dir)
+    ? fs
+        .readdirSync(dir)
+        .filter((f) => f.endsWith(".md") && !f.startsWith("_"))
+        .map((f) => ({
+          slug: f.replace(/\.md$/, ""),
+          slugs: leerSlugsDelFrontmatter(path.join(dir, f)),
+        }))
+    : [];
+  cacheFichasConSlugs.set(clave, fichas);
+  return fichas;
 }
 
 /**

@@ -38,6 +38,7 @@ type Textos = {
   principalesSub: string;
   ver: string;
   vacio: string;
+  ariaMigas: string;
 };
 
 const DICT: Readonly<Record<Idioma, Textos>> = {
@@ -52,6 +53,7 @@ const DICT: Readonly<Record<Idioma, Textos>> = {
     principalesSub: "Las ciudades con más actividades y guías.",
     ver: "Ver",
     vacio: "Próximamente publicaremos guías de las principales ciudades.",
+    ariaMigas: "Migas de pan",
   },
   en: {
     inicio: "Home",
@@ -64,6 +66,7 @@ const DICT: Readonly<Record<Idioma, Textos>> = {
     principalesSub: "The cities with the most activities and guides.",
     ver: "Explore",
     vacio: "Guides to the main cities are coming soon.",
+    ariaMigas: "Breadcrumb",
   },
   de: {
     inicio: "Start",
@@ -76,42 +79,46 @@ const DICT: Readonly<Record<Idioma, Textos>> = {
     principalesSub: "Die Städte mit den meisten Aktivitäten und Reiseführern.",
     ver: "Ansehen",
     vacio: "Reiseführer zu den wichtigsten Städten folgen in Kürze.",
+    ariaMigas: "Brotkrümelnavigation",
   },
   fr: {
     inicio: "Accueil",
-    titulo: "Villes d'Espagne",
-    subtitulo: "Nos guides, tours et activités pour chaque ville.",
+    titulo: "Villes d’Espagne",
+    subtitulo: "Visites, tours et activités sélectionnés pour chaque ville.",
     destinos: "destinations",
     actividades: "activités",
     guias: "guides maison",
     principales: "Destinations principales",
-    principalesSub: "Les villes avec le plus d'activités et de guides.",
+    principalesSub: "Les villes qui proposent le plus d’activités.",
     ver: "Voir",
-    vacio: "Les guides des principales villes arrivent bientôt.",
+    vacio: "Les activités des principales villes arrivent bientôt.",
+    ariaMigas: "Fil d’Ariane",
   },
   it: {
     inicio: "Home",
     titulo: "Città della Spagna",
-    subtitulo: "Guide proprie, tour e attività per ogni città.",
+    subtitulo: "Visite, tour e attività selezionati per ogni città.",
     destinos: "destinazioni",
     actividades: "attività",
     guias: "guide proprie",
     principales: "Destinazioni principali",
-    principalesSub: "Le città con più attività e guide.",
+    principalesSub: "Le città con più attività.",
     ver: "Vedi",
-    vacio: "Le guide delle principali città arrivano presto.",
+    vacio: "Le attività delle principali città arriveranno presto.",
+    ariaMigas: "Percorso di navigazione",
   },
   pt: {
     inicio: "Início",
     titulo: "Cidades de Espanha",
-    subtitulo: "Guias próprios, tours e atividades para cada cidade.",
+    subtitulo: "Visitas, tours e atividades selecionados para cada cidade.",
     destinos: "destinos",
     actividades: "atividades",
     guias: "guias próprios",
     principales: "Destinos principais",
-    principalesSub: "As cidades com mais atividades e guias.",
+    principalesSub: "As cidades com mais atividades.",
     ver: "Ver",
-    vacio: "Em breve publicaremos guias das principais cidades.",
+    vacio: "Em breve publicaremos atividades das principais cidades.",
+    ariaMigas: "Navegação estrutural",
   },
 };
 
@@ -304,7 +311,7 @@ export default function IndiceCiudades({
 
       <header className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-5xl mx-auto px-4">
-          <nav aria-label="Migas de pan" className="text-sm text-anil-100 mb-4">
+          <nav aria-label={t.ariaMigas} className="text-sm text-anil-100 mb-4">
             <Link href={prefijoIdioma(idioma) || "/"}
       prefetch={false} className="hover:text-white">
               {t.inicio}

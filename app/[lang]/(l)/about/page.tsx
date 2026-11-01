@@ -6,7 +6,7 @@ import {
   IDIOMA_LOCALE,
   esIdiomaActivo,
 } from "@/lib/i18n/config";
-import { hreflangAlternates, urlContacto } from "@/lib/i18n/utils";
+import { hreflangAlternates, urlContacto, urlIndiceCiudades } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 
 type AboutCopy = {
@@ -316,6 +316,438 @@ function getCopy(lang: Idioma): AboutCopy {
       },
       breadcrumbHome: "Startseite",
       breadcrumbSelf: "Über uns",
+    };
+  }
+
+  if (lang === "fr") {
+    return {
+      metaTitle: "À propos d’ExploraSpain | Qui sommes-nous",
+      metaDescription:
+        "ExploraSpain est un projet de SKYWARD PARTNERS, S.L. : des visites et activités sélectionnées dans toute l’Espagne et des guides éditoriaux honnêtes, sans blabla, avec de vrais avis.",
+      ogTitle: "À propos d’ExploraSpain",
+      ogDescription:
+        "Un projet de SKYWARD PARTNERS, S.L. Visites, activités et guides éditoriaux honnêtes pour voyager en Espagne.",
+      heroTitle: "À propos d’ExploraSpain",
+      heroSubtitle:
+        "Des visites, des activités et des conseils honnêtes pour découvrir l’Espagne.",
+      intro: (
+        <>
+          ExploraSpain est un projet de{" "}
+          <strong>SKYWARD PARTNERS, S.L.</strong> qui propose des visites et
+          des activités dans les principales villes d’Espagne, ainsi que des
+          contenus éditoriaux indépendants sur les voyages dans le pays.
+        </>
+      ),
+      whatWeDo: {
+        heading: "Ce que nous faisons",
+        lead: "Deux choses, avec la même exigence :",
+        items: [
+          <>
+            <strong>Visites et expériences</strong> : nous sélectionnons des
+            activités dans les principales villes d’Espagne et les mettons à
+            la disposition des voyageurs. Nous privilégions les expériences
+            qui ont une vraie valeur plutôt que de tout lister.
+          </>,
+          <>
+            <strong>Guides éditoriaux</strong> : des itinéraires réfléchis,
+            des recommandations honnêtes et des conseils pratiques pour vous
+            aider à décider ce qui mérite votre temps, vos jours et votre
+            budget &mdash; sans listes interminables ni tourisme de carte
+            postale.
+          </>,
+        ],
+      },
+      whyWeBuilt: {
+        heading: "Pourquoi ce projet",
+        body: (
+          <>
+            Les informations sur ce qu’il faut voir en Espagne ne manquent
+            pas. Il y en a très peu sur{" "}
+            <strong>ce qui en vaut vraiment la peine</strong>, selon le
+            nombre de jours dont vous disposez, ce qui vous intéresse
+            réellement et ce que vous souhaitez dépenser. ExploraSpain comble
+            ce manque avec des contenus concrets et un catalogue d’activités
+            choisi avec soin.
+          </>
+        ),
+      },
+      author: {
+        heading: "Qui rédige les guides",
+        body: "Les guides sont rédigés et relus par Borja, responsable d’ExploraSpain.",
+      },
+      editorial: {
+        heading: "Notre ligne éditoriale",
+        body: (
+          <>
+            <p>
+              Nous sommes concrets et nous disons les choses clairement. Si
+              quelque chose n’en vaut pas la peine, nous le disons. Si deux
+              options se valent, nous le disons aussi. Une recommandation
+              argumentée est plus utile qu’une liste où tout semble aussi
+              important.
+            </p>
+            <p>
+              Les informations pratiques (prix, horaires, durées) sont
+              vérifiées auprès de sources officielles avant publication. Si
+              quelque chose change et que nous le remarquons, nous mettons à
+              jour. Si un lecteur repère une erreur, il peut nous la signaler
+              et nous la corrigeons.
+            </p>
+          </>
+        ),
+      },
+      funding: {
+        heading: "Comment nous gagnons de l’argent",
+        lead: "ExploraSpain génère des revenus de deux façons :",
+        items: [
+          <>
+            <strong>La vente de visites et d’activités</strong> dans les
+            villes où nous opérons, directement ou via des partenaires de
+            voyage de confiance.
+          </>,
+          <>
+            <strong>Des liens d’affiliation</strong> vers des plateformes
+            comme GetYourGuide pour les expériences que nous ne proposons pas
+            directement. Si vous réservez via l’un de ces liens, nous
+            touchons une petite commission sans aucun surcoût pour vous.
+          </>,
+        ],
+        body: (
+          <>
+            Notre modèle de revenus n’influence pas nos recommandations. Une
+            activité est recommandée parce qu’elle a du sens pour votre
+            voyage, pas parce qu’elle rapporte une commission plus élevée. Si
+            quelque chose n’en vaut pas la peine, nous le disons &mdash; même
+            si cela figure dans notre flux d’affiliation ou dans notre propre
+            catalogue.
+          </>
+        ),
+      },
+      company: {
+        heading: "Informations sur l’entreprise",
+        body: (
+          <>
+            ExploraSpain est exploité par SKYWARD PARTNERS, S.L., NIF
+            B26629576, dont le siège social est situé Calle Castelló 117,
+            28006 Madrid, Espagne. Pour toutes les informations légales,
+            consultez les{" "}
+            <Link href={`/${lang}/legal-notice`}>mentions légales</Link>.
+          </>
+        ),
+      },
+      contact: {
+        heading: "Contact",
+        body: (
+          <>
+            Pour toute suggestion, correction, collaboration ou proposition,
+            écrivez-nous à{" "}
+            <a
+              href="mailto:contacto@exploraspain.com"
+              className="font-semibold"
+              aria-label="Écrivez-nous à contacto@exploraspain.com"
+            >
+              contacto@exploraspain.com
+            </a>{" "}
+            ou rendez-vous sur{" "}
+            <Link href={urlContacto(lang)} className="font-semibold">
+              la page de contact
+            </Link>
+            .
+          </>
+        ),
+      },
+      cta: {
+        heading: "Commencez ici",
+        body: "Parcourez les villes pour découvrir les activités que nous avons sélectionnées.",
+        button: "Voir toutes les villes →",
+        href: urlIndiceCiudades(lang),
+      },
+      breadcrumbHome: "Accueil",
+      breadcrumbSelf: "À propos",
+    };
+  }
+
+  if (lang === "it") {
+    return {
+      metaTitle: "Chi siamo | ExploraSpain",
+      metaDescription:
+        "ExploraSpain è un progetto di SKYWARD PARTNERS, S.L.: tour e attività selezionati in tutta la Spagna e guide editoriali oneste, senza fronzoli e con opinioni sincere.",
+      ogTitle: "Chi è ExploraSpain",
+      ogDescription:
+        "Un progetto di SKYWARD PARTNERS, S.L. Tour, attività e guide editoriali oneste per viaggiare in Spagna.",
+      heroTitle: "Chi è ExploraSpain",
+      heroSubtitle:
+        "Tour, attività e consigli onesti per scoprire la Spagna.",
+      intro: (
+        <>
+          ExploraSpain è un progetto di{" "}
+          <strong>SKYWARD PARTNERS, S.L.</strong> che offre tour e attività
+          nelle principali città della Spagna, insieme a contenuti editoriali
+          indipendenti su come viaggiare nel Paese.
+        </>
+      ),
+      whatWeDo: {
+        heading: "Cosa facciamo",
+        lead: "Due cose, entrambe con lo stesso criterio:",
+        items: [
+          <>
+            <strong>Tour ed esperienze</strong>: selezioniamo attività nelle
+            principali città spagnole e le mettiamo a disposizione dei
+            viaggiatori. Diamo priorità alle esperienze con un valore reale,
+            invece di elencare tutto ciò che esiste.
+          </>,
+          <>
+            <strong>Guide editoriali</strong>: itinerari ragionati,
+            consigli onesti e informazioni pratiche per aiutarti a decidere
+            cosa vale il tuo tempo, i tuoi giorni e il tuo budget &mdash;
+            senza liste infinite né turismo da cartolina.
+          </>,
+        ],
+      },
+      whyWeBuilt: {
+        heading: "Perché esiste",
+        body: (
+          <>
+            Le informazioni su cosa vedere in Spagna non mancano. Ce ne sono
+            pochissime su{" "}
+            <strong>cosa vale davvero la pena</strong>, in base a quanti
+            giorni hai, a cosa ti interessa davvero e a quanto vuoi spendere.
+            ExploraSpain colma questa lacuna con contenuti concreti e un
+            catalogo di attività scelto con cura.
+          </>
+        ),
+      },
+      author: {
+        heading: "Chi scrive le guide",
+        body: "Le guide sono scritte e revisionate da Borja, responsabile di ExploraSpain.",
+      },
+      editorial: {
+        heading: "Il nostro criterio editoriale",
+        body: (
+          <>
+            <p>
+              Siamo concreti e diciamo le cose chiaramente. Se qualcosa non
+              vale la pena, lo diciamo. Se due opzioni si equivalgono, lo
+              diciamo lo stesso. Un consiglio motivato è più utile di una
+              lista in cui tutto sembra ugualmente importante.
+            </p>
+            <p>
+              Le informazioni pratiche (prezzi, orari, durate) vengono
+              verificate su fonti ufficiali prima della pubblicazione. Se
+              qualcosa cambia e ce ne accorgiamo, aggiorniamo. Se un lettore
+              trova un errore, può segnalarcelo e lo correggiamo.
+            </p>
+          </>
+        ),
+      },
+      funding: {
+        heading: "Come ci finanziamo",
+        lead: "ExploraSpain genera entrate in due modi:",
+        items: [
+          <>
+            <strong>Vendita di tour e attività</strong> nelle città in cui
+            operiamo, direttamente o tramite partner turistici affidabili.
+          </>,
+          <>
+            <strong>Link di affiliazione</strong> a piattaforme come
+            GetYourGuide per le esperienze che non offriamo direttamente. Se
+            prenoti tramite uno di questi link, riceviamo una piccola
+            commissione senza alcun costo aggiuntivo per te.
+          </>,
+        ],
+        body: (
+          <>
+            Il nostro modello di guadagno non condiziona i consigli
+            editoriali. Un’attività viene consigliata perché ha senso per il
+            tuo viaggio, non perché paga una commissione più alta. Se
+            qualcosa non vale la pena, lo diciamo &mdash; anche se è nel
+            nostro feed di affiliazione o nel nostro catalogo.
+          </>
+        ),
+      },
+      company: {
+        heading: "Informazioni sull’azienda",
+        body: (
+          <>
+            ExploraSpain è gestito da SKYWARD PARTNERS, S.L., codice fiscale
+            B26629576, con sede legale in Calle Castelló 117, 28006 Madrid,
+            Spagna. Per tutti i dettagli legali, consulta le{" "}
+            <Link href={`/${lang}/legal-notice`}>note legali</Link>.
+          </>
+        ),
+      },
+      contact: {
+        heading: "Contatti",
+        body: (
+          <>
+            Per suggerimenti, correzioni, collaborazioni o proposte,
+            scrivici a{" "}
+            <a
+              href="mailto:contacto@exploraspain.com"
+              className="font-semibold"
+              aria-label="Scrivici a contacto@exploraspain.com"
+            >
+              contacto@exploraspain.com
+            </a>{" "}
+            oppure visita{" "}
+            <Link href={urlContacto(lang)} className="font-semibold">
+              la pagina dei contatti
+            </Link>
+            .
+          </>
+        ),
+      },
+      cta: {
+        heading: "Inizia da qui",
+        body: "Esplora le città per scoprire le attività che abbiamo selezionato.",
+        button: "Vedi tutte le città →",
+        href: urlIndiceCiudades(lang),
+      },
+      breadcrumbHome: "Home",
+      breadcrumbSelf: "Chi siamo",
+    };
+  }
+
+  if (lang === "pt") {
+    return {
+      metaTitle: "Sobre a ExploraSpain | Quem somos",
+      metaDescription:
+        "A ExploraSpain é um projeto da SKYWARD PARTNERS, S.L.: tours e atividades selecionados em toda a Espanha e guias editoriais honestos, sem rodeios e com opiniões sinceras.",
+      ogTitle: "Sobre a ExploraSpain",
+      ogDescription:
+        "Um projeto da SKYWARD PARTNERS, S.L. Tours, atividades e guias editoriais honestos para viajar por Espanha.",
+      heroTitle: "Sobre a ExploraSpain",
+      heroSubtitle:
+        "Tours, atividades e conselhos honestos para conhecer Espanha.",
+      intro: (
+        <>
+          A ExploraSpain é um projeto da{" "}
+          <strong>SKYWARD PARTNERS, S.L.</strong> que oferece tours e
+          atividades nas principais cidades de Espanha, a par de conteúdo
+          editorial independente sobre viagens pelo país.
+        </>
+      ),
+      whatWeDo: {
+        heading: "O que fazemos",
+        lead: "Duas coisas, ambas com o mesmo critério:",
+        items: [
+          <>
+            <strong>Tours e experiências</strong>: selecionamos atividades
+            nas principais cidades espanholas e colocamo-las à disposição dos
+            viajantes. Damos prioridade a experiências com valor real, em vez
+            de listar tudo o que existe.
+          </>,
+          <>
+            <strong>Guias editoriais</strong>: roteiros pensados,
+            recomendações honestas e conselhos práticos para que cada
+            viajante possa decidir o que merece o seu tempo, os seus dias e o
+            seu orçamento &mdash; sem listas intermináveis nem turismo de
+            postal.
+          </>,
+        ],
+      },
+      whyWeBuilt: {
+        heading: "Porque existimos",
+        body: (
+          <>
+            Não falta informação sobre o que visitar em Espanha. Há muito
+            pouca sobre{" "}
+            <strong>o que realmente vale a pena</strong>, consoante os dias
+            disponíveis, o que interessa de verdade e o orçamento de cada
+            um. A ExploraSpain preenche essa lacuna com conteúdo concreto e
+            uma oferta de atividades cuidada.
+          </>
+        ),
+      },
+      author: {
+        heading: "Quem escreve os guias",
+        body: "Os guias são escritos e revistos por Borja, responsável pela ExploraSpain.",
+      },
+      editorial: {
+        heading: "O nosso critério editorial",
+        body: (
+          <>
+            <p>
+              Somos concretos e dizemos as coisas com clareza. Se algo não
+              vale a pena, dizemo-lo. Se duas opções são equivalentes,
+              também. Uma recomendação fundamentada é mais útil do que uma
+              lista em que tudo parece igualmente importante.
+            </p>
+            <p>
+              Os dados práticos (preços, horários, durações) são verificados
+              em fontes oficiais antes de publicar. Se algo muda e damos por
+              isso, atualizamos. Se um leitor detetar um erro, pode
+              avisar-nos e corrigimo-lo.
+            </p>
+          </>
+        ),
+      },
+      funding: {
+        heading: "Como nos financiamos",
+        lead: "A ExploraSpain gera receitas de duas formas:",
+        items: [
+          <>
+            <strong>Venda de tours e atividades</strong> nas cidades onde
+            operamos, diretamente ou através de parceiros turísticos de
+            confiança.
+          </>,
+          <>
+            <strong>Ligações de afiliação</strong> a plataformas como a
+            GetYourGuide nas experiências que não oferecemos diretamente. Se
+            reservar através destas ligações, recebemos uma pequena comissão
+            sem qualquer custo adicional para si.
+          </>,
+        ],
+        body: (
+          <>
+            O modelo de receitas não condiciona as recomendações editoriais.
+            Uma atividade é recomendada porque faz sentido para a viagem do
+            leitor, não por pagar mais comissão. Se algo não vale a pena,
+            dizemo-lo &mdash; mesmo que esteja disponível para afiliação ou
+            no nosso catálogo.
+          </>
+        ),
+      },
+      company: {
+        heading: "Informação da empresa",
+        body: (
+          <>
+            A ExploraSpain é operada pela SKYWARD PARTNERS, S.L., NIF
+            B26629576, com sede social na Calle Castelló 117, 28006 Madrid,
+            Espanha. Para os dados legais completos, consulte o{" "}
+            <Link href={`/${lang}/legal-notice`}>aviso legal</Link>.
+          </>
+        ),
+      },
+      contact: {
+        heading: "Contacto",
+        body: (
+          <>
+            Para sugestões, correções, colaborações ou propostas, escreva-nos
+            para{" "}
+            <a
+              href="mailto:contacto@exploraspain.com"
+              className="font-semibold"
+              aria-label="Escreva-nos para contacto@exploraspain.com"
+            >
+              contacto@exploraspain.com
+            </a>{" "}
+            ou visite{" "}
+            <Link href={urlContacto(lang)} className="font-semibold">
+              a página de contacto
+            </Link>
+            .
+          </>
+        ),
+      },
+      cta: {
+        heading: "Comece por aqui",
+        body: "Percorra as cidades para descobrir as atividades que selecionámos.",
+        button: "Ver todas as cidades →",
+        href: urlIndiceCiudades(lang),
+      },
+      breadcrumbHome: "Início",
+      breadcrumbSelf: "Sobre nós",
     };
   }
 

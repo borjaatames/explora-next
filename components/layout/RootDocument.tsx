@@ -17,7 +17,7 @@ type Props = {
 /**
  * Documento HTML común (<html>, <head>, <body>) de los dos layouts raíz:
  *   - app/(es-shell)/layout.tsx → lang="es"
- *   - app/[lang]/layout.tsx     → lang="en" | "de"
+ *   - app/[lang]/layout.tsx     → lang="en" | "de" | "fr" | "it" | "pt"
  *
  * Al tener un layout raíz por idioma, `<html lang>` sale correcto en el
  * HTML estático (SSG) sin JS ni headers().

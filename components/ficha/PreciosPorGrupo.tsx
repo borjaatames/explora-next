@@ -30,7 +30,28 @@ const TEXTOS = {
     total: "gesamt",
     nota: "Groß: Preis pro Person; darunter: Gesamtpreis der Gruppe. Kann je nach Datum variieren.",
   },
-} as const;
+  fr: {
+    titulo: "Prix par personne selon la taille du groupe",
+    personas: (n: number) => (n === 1 ? "1 personne" : `${n} personnes`),
+    porPersona: "/pers.",
+    total: "au total",
+    nota: "En grand : le prix par personne ; en dessous : le total pour le groupe. Il peut varier selon la date.",
+  },
+  it: {
+    titulo: "Prezzo a persona in base a quanti siete",
+    personas: (n: number) => (n === 1 ? "1 persona" : `${n} persone`),
+    porPersona: "/pers.",
+    total: "in totale",
+    nota: "In grande il prezzo a persona; sotto, il totale per il gruppo. Può variare in base alla data.",
+  },
+  pt: {
+    titulo: "Preço por pessoa consoante o tamanho do grupo",
+    personas: (n: number) => (n === 1 ? "1 pessoa" : `${n} pessoas`),
+    porPersona: "/pess.",
+    total: "no total",
+    nota: "Em destaque, o preço por pessoa; por baixo, o total do grupo. Pode variar consoante a data.",
+  },
+} as const satisfies Record<Idioma, unknown>;
 
 /**
  * Privadas con precio por grupo: quien llega desde un anuncio compara con
@@ -40,7 +61,7 @@ const TEXTOS = {
 export default function PreciosPorGrupo({ precios: preciosBrutos, moneda, idioma }: Props) {
   const precios = preciosBrutos ? tramosCoherentes(preciosBrutos) : undefined;
   if (!precios || precios.length < 2) return null;
-  const t = TEXTOS[idioma === "en" || idioma === "de" ? idioma : "es"];
+  const t = TEXTOS[idioma];
 
   return (
     <div className="w-full rounded-lg border border-piedra-200 bg-white p-3">

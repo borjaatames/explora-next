@@ -9,7 +9,10 @@ const DICT = {
   es: { resumen: "Resumen", actividades: "Actividades", privadas: "Privadas", guias: "Guías", atracciones: "Atracciones", secciones: "Secciones de", migas: "Migas de pan", datos: "Datos clave" },
   en: { resumen: "Overview", actividades: "Activities", privadas: "Private tours", guias: "Guides", atracciones: "Attractions", secciones: "Sections of", migas: "Breadcrumb", datos: "Key facts" },
   de: { resumen: "Überblick", actividades: "Aktivitäten", privadas: "Privattouren", guias: "Reiseführer", atracciones: "Sehenswürdigkeiten", secciones: "Bereiche von", migas: "Brotkrümel", datos: "Eckdaten" },
-} as const;
+  fr: { resumen: "Aperçu", actividades: "Activités", privadas: "Visites privées", guias: "Guides", atracciones: "Sites à voir", secciones: "Rubriques de", migas: "Fil d'Ariane", datos: "Chiffres clés" },
+  it: { resumen: "Panoramica", actividades: "Attività", privadas: "Tour privati", guias: "Guide", atracciones: "Attrazioni", secciones: "Sezioni di", migas: "Percorso di navigazione", datos: "Dati principali" },
+  pt: { resumen: "Resumo", actividades: "Atividades", privadas: "Tours privados", guias: "Guias", atracciones: "Atrações", secciones: "Secções de", migas: "Navegação estrutural", datos: "Dados principais" },
+} as const satisfies Record<Idioma, Record<string, string>>;
 
 type Props = {
   idioma: Idioma;
@@ -45,7 +48,7 @@ export default function HeroCiudad({
   urlGuias,
   urlAtracciones,
 }: Props) {
-  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
+  const t = DICT[idioma];
   type Pestana = { label: string; href: string };
   const pestanas: Pestana[] = [
     urlActividades ? { label: t.actividades as string, href: urlActividades } : null,
@@ -136,7 +139,7 @@ export function DatosClaveCiudad({
   datos: ReadonlyArray<DatoClave>;
 }) {
   if (datos.length === 0) return null;
-  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
+  const t = DICT[idioma];
   return (
     <section aria-label={t.datos} className="max-w-3xl mx-auto px-4 pt-10 md:pt-12">
       <dl className="grid grid-cols-2 md:grid-cols-4 gap-x-6 gap-y-5 border border-piedra-200 rounded-xl p-5 md:p-6">

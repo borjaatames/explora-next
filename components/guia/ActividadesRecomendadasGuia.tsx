@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import type { ActividadListItem } from "@/lib/actividades";
 import type { Idioma } from "@/lib/i18n/types";
+import { IDIOMA_LOCALE } from "@/lib/i18n/config";
 
 type Props = {
   actividades: ActividadListItem[];
@@ -20,11 +21,9 @@ type Textos = {
   desde: string;
   opiniones: string;
   verTodas: (ciudad: string) => string;
-  localePrecio: string;
-  localeNumero: string;
 };
 
-const TEXTOS: Record<"es" | "en" | "de", Textos> = {
+const TEXTOS: Record<Idioma, Textos> = {
   es: {
     etiqueta: "Planifica tu visita",
     titulo: (c) => `Actividades recomendadas en ${c}`,
@@ -33,8 +32,6 @@ const TEXTOS: Record<"es" | "en" | "de", Textos> = {
     desde: "Desde",
     opiniones: "opiniones",
     verTodas: (c) => `Ver todas las actividades en ${c} →`,
-    localePrecio: "es-ES",
-    localeNumero: "es-ES",
   },
   en: {
     etiqueta: "Plan your visit",
@@ -44,8 +41,6 @@ const TEXTOS: Record<"es" | "en" | "de", Textos> = {
     desde: "From",
     opiniones: "reviews",
     verTodas: (c) => `See all activities in ${c} →`,
-    localePrecio: "en-US",
-    localeNumero: "en-US",
   },
   de: {
     etiqueta: "Besuch planen",
@@ -55,12 +50,37 @@ const TEXTOS: Record<"es" | "en" | "de", Textos> = {
     desde: "Ab",
     opiniones: "Bewertungen",
     verTodas: (c) => `Alle Aktivitäten in ${c} ansehen →`,
-    localePrecio: "de-DE",
-    localeNumero: "de-DE",
+  },
+  fr: {
+    etiqueta: "Préparez votre visite",
+    titulo: (c) => `Activités recommandées à ${c}`,
+    subtitulo: "Les expériences les mieux notées, sélectionnées par notre rédaction.",
+    deslizar: "Faites défiler pour en voir plus →",
+    desde: "À partir de",
+    opiniones: "avis",
+    verTodas: (c) => `Voir toutes les activités à ${c} →`,
+  },
+  it: {
+    etiqueta: "Pianifica la tua visita",
+    titulo: (c) => `Attività consigliate a ${c}`,
+    subtitulo: "Le esperienze più apprezzate, selezionate dalla nostra redazione.",
+    deslizar: "Scorri per vederne altre →",
+    desde: "Da",
+    opiniones: "recensioni",
+    verTodas: (c) => `Vedi tutte le attività a ${c} →`,
+  },
+  pt: {
+    etiqueta: "Planeie a sua visita",
+    titulo: (c) => `Atividades recomendadas em ${c}`,
+    subtitulo: "As experiências mais bem avaliadas, selecionadas pela nossa redação.",
+    deslizar: "Deslize para ver mais →",
+    desde: "Desde",
+    opiniones: "avaliações",
+    verTodas: (c) => `Ver todas as atividades em ${c} →`,
   },
 };
 
-const TEXTOS_FICHA: Record<"es" | "en" | "de", Pick<Textos, "etiqueta" | "titulo" | "subtitulo">> = {
+const TEXTOS_FICHA: Record<Idioma, Pick<Textos, "etiqueta" | "titulo" | "subtitulo">> = {
   es: {
     etiqueta: "Alternativas",
     titulo: (c) => `Otras actividades parecidas en ${c}`,
@@ -76,13 +96,27 @@ const TEXTOS_FICHA: Record<"es" | "en" | "de", Pick<Textos, "etiqueta" | "titulo
     titulo: (c) => `Ähnliche Aktivitäten in ${c}`,
     subtitulo: "Gut bewertete Optionen, falls diese nicht zu deinen Plänen passt.",
   },
+  fr: {
+    etiqueta: "Alternatives",
+    titulo: (c) => `Activités similaires à ${c}`,
+    subtitulo: "Des options bien notées, au cas où celle-ci ne conviendrait pas à vos projets.",
+  },
+  it: {
+    etiqueta: "Alternative",
+    titulo: (c) => `Attività simili a ${c}`,
+    subtitulo: "Opzioni con buone recensioni, nel caso questa non si adatti ai tuoi piani.",
+  },
+  pt: {
+    etiqueta: "Alternativas",
+    titulo: (c) => `Atividades semelhantes em ${c}`,
+    subtitulo: "Opções bem avaliadas, caso esta não se adapte aos seus planos.",
+  },
 };
 
 function textos(idioma: Idioma, variante: "guia" | "ficha" = "guia"): Textos {
-  const clave = idioma === "en" || idioma === "de" ? idioma : "es";
   return variante === "ficha"
-    ? { ...TEXTOS[clave], ...TEXTOS_FICHA[clave] }
-    : TEXTOS[clave];
+    ? { ...TEXTOS[idioma], ...TEXTOS_FICHA[idioma] }
+    : TEXTOS[idioma];
 }
 
 /**
@@ -120,7 +154,7 @@ export default function ActividadesRecomendadasGuia({
         <ul className="flex gap-4 overflow-x-auto snap-x snap-mandatory -mx-4 px-4 pb-4 scrollbar-hide">
           {actividades.map((actividad) => (
             <li key={actividad.url} className="relative flex-none w-64 snap-start">
-              <TarjetaActividad actividad={actividad} t={t} />
+              <TarjetaActividad actividad={actividad} t={t} locale={IDIOMA_LOCALE[idioma]} />
             </li>
           ))}
         </ul>
@@ -145,11 +179,13 @@ export default function ActividadesRecomendadasGuia({
 function TarjetaActividad({
   actividad,
   t,
+  locale,
 }: {
   actividad: ActividadListItem;
   t: Textos;
+  locale: string;
 }) {
-  const precio = new Intl.NumberFormat(t.localePrecio, {
+  const precio = new Intl.NumberFormat(locale, {
     style: "currency",
     currency: actividad.moneda,
     maximumFractionDigits: 0,
@@ -157,7 +193,7 @@ function TarjetaActividad({
 
   const rating =
     actividad.ratingProveedor !== undefined
-      ? actividad.ratingProveedor.toLocaleString(t.localeNumero, {
+      ? actividad.ratingProveedor.toLocaleString(locale, {
           minimumFractionDigits: 1,
           maximumFractionDigits: 1,
         })
@@ -198,7 +234,7 @@ function TarjetaActividad({
               {actividad.numeroOpiniones ? (
                 <>
                   {" "}
-                  ({actividad.numeroOpiniones.toLocaleString(t.localeNumero)}{" "}
+                  ({actividad.numeroOpiniones.toLocaleString(locale)}{" "}
                   <span className="sr-only">{t.opiniones}</span>)
                 </>
               ) : null}

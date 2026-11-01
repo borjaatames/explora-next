@@ -47,7 +47,125 @@ type Copy = {
   backToHome: string;
 };
 
+const COPY_FR_IT_PT: Record<"fr" | "it" | "pt", Copy> = {
+  fr: {
+    metaTitle: "Contact | ExploraSpain",
+    metaDescription:
+      "Une question sur une activité ou une réservation, une suggestion ou un partenariat ? Écrivez-nous via le formulaire ou WhatsApp : nous vous répondrons dans les meilleurs délais.",
+    ogDescription:
+      "Contactez l’équipe d’ExploraSpain pour vos suggestions, corrections ou partenariats.",
+    breadcrumbHome: "Accueil",
+    breadcrumbContact: "Contact",
+    heroTitle: "Contact",
+    heroSubtitle:
+      "Questions, suggestions, corrections, partenariats. Nous lisons tout.",
+    whatsappHeading: "Une question rapide ? Écrivez-nous sur WhatsApp",
+    whatsappBody:
+      "Une aide directe pour les activités et les réservations. Nous vous répondrons dans les meilleurs délais.",
+    whatsappPrefill:
+      "Bonjour, j’ai une question sur les expériences d’ExploraSpain.",
+    writeHeading: "Écrivez-nous directement",
+    writeBody:
+      "Remplissez le formulaire et nous vous répondrons dans les meilleurs délais.",
+    errorHeading: "Vous avez repéré une erreur ?",
+    errorBody:
+      "Prix obsolètes, horaires modifiés, détail inexact : signalez-le-nous et nous le corrigerons. Indiquez l’URL de la page et le problème constaté.",
+    suggestionHeading: "Une suggestion ?",
+    suggestionBody:
+      "S’il vous manque une destination, une activité ou une recommandation précise, dites-le-nous. Les meilleures idées viennent de ceux qui voyagent vraiment.",
+    partnershipsHeading: "Partenariats ?",
+    partnershipsBody:
+      "Presse, médias, partenaires touristiques, propositions éditoriales. Expliquez-nous brièvement qui vous êtes et ce que vous proposez.",
+    bookingsHeading: "Réservations et visites ?",
+    bookingsBody:
+      "Pour toute question sur une activité, une modification ou un problème de réservation, indiquez dans votre message le numéro de réservation et la date de l’activité.",
+    companyInfoLabel: "Informations sur l’entreprise :",
+    companyLegalLine:
+      "SKYWARD PARTNERS, S.L. · NIF B26629576 · Calle Castelló 117, 28006 Madrid, Espagne.",
+    moreInfoPrefix: "Plus d’informations dans les",
+    legalNoticeLink: "mentions légales",
+    backToHome: "← Retour à l’accueil",
+  },
+  it: {
+    metaTitle: "Contatti | ExploraSpain",
+    metaDescription:
+      "Domande su un’attività o una prenotazione, suggerimenti o collaborazioni? Scrivici tramite il modulo o WhatsApp e ti risponderemo il prima possibile.",
+    ogDescription:
+      "Contatta il team di ExploraSpain per suggerimenti, correzioni o collaborazioni.",
+    breadcrumbHome: "Home",
+    breadcrumbContact: "Contatti",
+    heroTitle: "Contatti",
+    heroSubtitle:
+      "Domande, suggerimenti, correzioni, collaborazioni. Leggiamo tutto.",
+    whatsappHeading: "Una domanda veloce? Scrivici su WhatsApp",
+    whatsappBody:
+      "Aiuto diretto su attività e prenotazioni. Ti risponderemo il prima possibile.",
+    whatsappPrefill: "Ciao, ho una domanda sulle esperienze di ExploraSpain.",
+    writeHeading: "Scrivici direttamente",
+    writeBody: "Compila il modulo e ti risponderemo il prima possibile.",
+    errorHeading: "Hai trovato un errore?",
+    errorBody:
+      "Prezzi non aggiornati, orari cambiati, un dettaglio impreciso: segnalacelo e lo correggiamo. Indica l’URL della pagina e il problema.",
+    suggestionHeading: "Un suggerimento?",
+    suggestionBody:
+      "Se ti manca una destinazione, un’attività o un consiglio specifico, diccelo. Le idee migliori arrivano da chi viaggia davvero.",
+    partnershipsHeading: "Collaborazioni?",
+    partnershipsBody:
+      "Stampa, media, partner turistici, proposte editoriali. Raccontaci in breve chi sei e cosa proponi.",
+    bookingsHeading: "Prenotazioni e tour?",
+    bookingsBody:
+      "Per domande su attività, modifiche o problemi con una prenotazione, indica nel messaggio il numero di prenotazione e la data dell’attività.",
+    companyInfoLabel: "Informazioni sull’azienda:",
+    companyLegalLine:
+      "SKYWARD PARTNERS, S.L. · Codice fiscale (NIF) B26629576 · Calle Castelló 117, 28006 Madrid, Spagna.",
+    moreInfoPrefix: "Maggiori informazioni nelle",
+    legalNoticeLink: "note legali",
+    backToHome: "← Torna alla home",
+  },
+  pt: {
+    metaTitle: "Contacto | ExploraSpain",
+    metaDescription:
+      "Dúvidas sobre uma atividade ou reserva, sugestões ou parcerias? Escreva-nos através do formulário ou do WhatsApp e responderemos o mais rapidamente possível.",
+    ogDescription:
+      "Contacte a equipa da ExploraSpain para sugestões, correções ou parcerias.",
+    breadcrumbHome: "Início",
+    breadcrumbContact: "Contacto",
+    heroTitle: "Contacto",
+    heroSubtitle:
+      "Dúvidas, sugestões, correções, parcerias. Lemos tudo.",
+    whatsappHeading: "Uma dúvida rápida? Escreva-nos no WhatsApp",
+    whatsappBody:
+      "Ajuda direta com atividades e reservas. Responderemos o mais rapidamente possível.",
+    whatsappPrefill:
+      "Olá, tenho uma questão sobre as experiências da ExploraSpain.",
+    writeHeading: "Escreva-nos diretamente",
+    writeBody:
+      "Preencha o formulário e responderemos o mais rapidamente possível.",
+    errorHeading: "Encontrou um erro?",
+    errorBody:
+      "Preços desatualizados, horários alterados, um detalhe impreciso: avise-nos e corrigimos. Indique o URL da página e o problema.",
+    suggestionHeading: "Tem uma sugestão?",
+    suggestionBody:
+      "Se lhe falta um destino, uma atividade ou uma recomendação concreta, diga-nos. As melhores ideias vêm de quem viaja de verdade.",
+    partnershipsHeading: "Parcerias?",
+    partnershipsBody:
+      "Imprensa, meios de comunicação, parceiros turísticos, propostas editoriais. Explique-nos brevemente quem é e o que propõe.",
+    bookingsHeading: "Reservas e tours?",
+    bookingsBody:
+      "Para questões sobre atividades, alterações ou problemas com uma reserva, indique na mensagem o número da reserva e a data da atividade.",
+    companyInfoLabel: "Informação da empresa:",
+    companyLegalLine:
+      "SKYWARD PARTNERS, S.L. · NIF B26629576 · Calle Castelló 117, 28006 Madrid, Espanha.",
+    moreInfoPrefix: "Mais informações no",
+    legalNoticeLink: "aviso legal",
+    backToHome: "← Voltar ao início",
+  },
+};
+
 function getCopy(lang: Idioma): Copy {
+  if (lang === "fr" || lang === "it" || lang === "pt") {
+    return COPY_FR_IT_PT[lang];
+  }
   if (lang === "de") {
     return {
       metaTitle: "Kontakt | ExploraSpain",

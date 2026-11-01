@@ -33,12 +33,25 @@ const DICT = {
     desde: "Ab",
     localePrecio: "de-DE",
   },
-} as const;
+  fr: {
+    deslizar: "Faites glisser pour voir plus →",
+    desde: "À partir de",
+    localePrecio: "fr-FR",
+  },
+  it: {
+    deslizar: "Scorri per vedere altro →",
+    desde: "Da",
+    localePrecio: "it-IT",
+  },
+  pt: {
+    deslizar: "Deslize para ver mais →",
+    desde: "Desde",
+    localePrecio: "pt-PT",
+  },
+} as const satisfies Record<Idioma, { deslizar: string; desde: string; localePrecio: string }>;
 
-function textosCarrusel(idioma: Idioma): (typeof DICT)[keyof typeof DICT] {
-  if (idioma === "en") return DICT.en;
-  if (idioma === "de") return DICT.de;
-  return DICT.es;
+function textosCarrusel(idioma: Idioma): (typeof DICT)[Idioma] {
+  return DICT[idioma];
 }
 
 /**

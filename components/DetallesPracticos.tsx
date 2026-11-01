@@ -45,7 +45,7 @@ type Strings = {
  * mantener cada componente autocontenido. Si en el futuro se activan más
  * idiomas, se añaden aquí — el tipo `Strings` garantiza paridad de claves.
  */
-const DICT: Record<"es" | "en" | "de", Strings> = {
+const DICT: Record<Idioma, Strings> = {
   es: {
     titulo: "Detalles prácticos",
     duracion: "Duración",
@@ -73,6 +73,10 @@ const DICT: Record<"es" | "en" | "de", Strings> = {
       de: "Alemán",
       it: "Italiano",
       pt: "Portugués",
+      ca: "Catalán",
+      nl: "Neerlandés",
+      ru: "Ruso",
+      zh: "Chino",
     },
   },
   en: {
@@ -102,6 +106,10 @@ const DICT: Record<"es" | "en" | "de", Strings> = {
       de: "German",
       it: "Italian",
       pt: "Portuguese",
+      ca: "Catalan",
+      nl: "Dutch",
+      ru: "Russian",
+      zh: "Chinese",
     },
   },
   de: {
@@ -131,19 +139,115 @@ const DICT: Record<"es" | "en" | "de", Strings> = {
       de: "Deutsch",
       it: "Italienisch",
       pt: "Portugiesisch",
+      ca: "Katalanisch",
+      nl: "Niederländisch",
+      ru: "Russisch",
+      zh: "Chinesisch",
+    },
+  },
+  fr: {
+    titulo: "Informations pratiques",
+    duracion: "Durée",
+    idiomasGuia: "Langues du guide",
+    ticketMovil: "Billet sur mobile",
+    ticketMovilValor: "Pas besoin d'imprimer",
+    confirmacion: "Confirmation immédiate",
+    confirmacionValor: "Dès la réservation",
+    accesibleSilla: "Accessible en fauteuil roulant",
+    accesibleSillaSi: "Oui · à signaler lors de la réservation",
+    accesibleSillaNo: "Non",
+    edadMinima: "Âge minimum",
+    edadSinRestriccion: "Aucune restriction",
+    edadAnios: (n: number) => `${n} ans`,
+    mascotas: "Animaux",
+    mascotasSi: "Acceptés",
+    mascotasNo: "Non acceptés",
+    cancelacion: "Annulation",
+    cancelacionConHoras: (h: number) => `Gratuite jusqu'à ${h} h avant`,
+    cancelacionGratuita: "Annulation gratuite",
+    nombresIdioma: {
+      es: "Espagnol",
+      en: "Anglais",
+      fr: "Français",
+      de: "Allemand",
+      it: "Italien",
+      pt: "Portugais",
+      ca: "Catalan",
+      nl: "Néerlandais",
+      ru: "Russe",
+      zh: "Chinois",
+    },
+  },
+  it: {
+    titulo: "Informazioni pratiche",
+    duracion: "Durata",
+    idiomasGuia: "Lingue della guida",
+    ticketMovil: "Biglietto sul cellulare",
+    ticketMovilValor: "Non serve stamparlo",
+    confirmacion: "Conferma immediata",
+    confirmacionValor: "Subito dopo la prenotazione",
+    accesibleSilla: "Accessibile in sedia a rotelle",
+    accesibleSillaSi: "Sì · segnalalo al momento della prenotazione",
+    accesibleSillaNo: "No",
+    edadMinima: "Età minima",
+    edadSinRestriccion: "Nessuna restrizione",
+    edadAnios: (n: number) => `${n} anni`,
+    mascotas: "Animali",
+    mascotasSi: "Ammessi",
+    mascotasNo: "Non ammessi",
+    cancelacion: "Cancellazione",
+    cancelacionConHoras: (h: number) => `Gratuita fino a ${h} ore prima`,
+    cancelacionGratuita: "Cancellazione gratuita",
+    nombresIdioma: {
+      es: "Spagnolo",
+      en: "Inglese",
+      fr: "Francese",
+      de: "Tedesco",
+      it: "Italiano",
+      pt: "Portoghese",
+      ca: "Catalano",
+      nl: "Olandese",
+      ru: "Russo",
+      zh: "Cinese",
+    },
+  },
+  pt: {
+    titulo: "Informações práticas",
+    duracion: "Duração",
+    idiomasGuia: "Idiomas do guia",
+    ticketMovil: "Bilhete no telemóvel",
+    ticketMovilValor: "Não é preciso imprimir",
+    confirmacion: "Confirmação imediata",
+    confirmacionValor: "Logo após a reserva",
+    accesibleSilla: "Acessível em cadeira de rodas",
+    accesibleSillaSi: "Sim · indique-o ao reservar",
+    accesibleSillaNo: "Não",
+    edadMinima: "Idade mínima",
+    edadSinRestriccion: "Sem restrições",
+    edadAnios: (n: number) => `${n} anos`,
+    mascotas: "Animais de estimação",
+    mascotasSi: "Permitidos",
+    mascotasNo: "Não permitidos",
+    cancelacion: "Cancelamento",
+    cancelacionConHoras: (h: number) => `Gratuito até ${h} h antes`,
+    cancelacionGratuita: "Cancelamento gratuito",
+    nombresIdioma: {
+      es: "Espanhol",
+      en: "Inglês",
+      fr: "Francês",
+      de: "Alemão",
+      it: "Italiano",
+      pt: "Português",
+      ca: "Catalão",
+      nl: "Neerlandês",
+      ru: "Russo",
+      zh: "Chinês",
     },
   },
 };
 
-/**
- * Selector defensivo: si llega un idioma no cubierto en `DICT` (caso futuro
- * cuando se activen DE/FR/IT/PT antes de añadir sus traducciones aquí),
- * cae a inglés en vez de romper el render.
- */
 function dictFor(idioma: Idioma): Strings {
-  if (idioma === "es") return DICT.es;
-  if (idioma === "de") return DICT.de;
-  return DICT.en;
+  return DICT[idioma];
 }
 
 function formatearIdiomas(

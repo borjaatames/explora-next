@@ -18,9 +18,13 @@ import {
   urlIndiceGuias,
   urlPrivacidad,
 } from "./utils";
-import { obtenerTodosLosCaminos } from "../guias";
+import { obtenerListaGuias, obtenerTodosLosCaminos } from "../guias";
 import { obtenerTodosLosCaminosCiudades } from "../ciudades";
-import { obtenerTodosLosCaminosActividades } from "../actividades";
+import {
+  obtenerCiudadesConActividades,
+  obtenerTodosLosCaminosActividades,
+  urlListadoActividadesSiExiste,
+} from "../actividades";
 
 /**
  * Mapa de URL del sitio → URLs pareja en cada idioma activo.
@@ -85,6 +89,10 @@ function construirEntrada(
  */
 function entradasFijas(): MapaParejas {
   const mapa: MapaParejas = {};
+  // FR/IT/PT no tienen guías: su hub no existe y no debe ser pareja de nadie.
+  const idiomasConGuias = IDIOMAS_ACTIVOS.filter((l) => obtenerListaGuias(l).length > 0);
+  const hubGuias = Object.fromEntries(idiomasConGuias.map((l) => [l, urlIndiceGuias(l)]));
+  for (const ruta of Object.values(hubGuias)) mapa[ruta] = hubGuias;
 
   for (const idioma of IDIOMAS_ACTIVOS) {
     // Home
@@ -94,9 +102,6 @@ function entradasFijas(): MapaParejas {
     );
 
     // Hubs
-    mapa[urlIndiceGuias(idioma)] = Object.fromEntries(
-      IDIOMAS_ACTIVOS.map((l) => [l, urlIndiceGuias(l)])
-    );
     mapa[urlIndiceCiudades(idioma)] = Object.fromEntries(
       IDIOMAS_ACTIVOS.map((l) => [l, urlIndiceCiudades(l)])
     );
@@ -119,8 +124,10 @@ function entradasFijas(): MapaParejas {
   // Sobre-nosotros / About: el slug NO está en URL_SEGMENTS, está hardcoded
   // en utils ad-hoc. Mantener aquí el mapeo manual hasta que se mueva al
   // sistema unificado de URL_SEGMENTS.
-  mapa["/sobre-nosotros"] = { es: "/sobre-nosotros", en: "/en/about" };
-  mapa["/en/about"] = { es: "/sobre-nosotros", en: "/en/about" };
+  const sobreNosotros = Object.fromEntries(
+    IDIOMAS_ACTIVOS.map((l) => [l, l === "es" ? "/sobre-nosotros" : `/${l}/about`])
+  );
+  for (const ruta of Object.values(sobreNosotros)) mapa[ruta] = sobreNosotros;
 
   // Proveedores locales / Local partners
   const proveedores = Object.fromEntries(
@@ -155,15 +162,18 @@ function generarMapa(): MapaParejas {
     mapa[k] = v;
   }
 
-  // Listado de actividades por ciudad. La pareja existe si la ciudad
-  // existe en el idioma destino (mismo slug invariante de ciudad).
-  for (const { idioma, ciudad } of obtenerTodosLosCaminosCiudades()) {
-    const url = urlActividadesDeCiudad(idioma, ciudad);
-    const [k, v] = construirEntrada(url, idioma, (destino) => {
-      const slugCiudad = slugParejaCiudad(idioma, ciudad, destino);
-      return slugCiudad ? urlActividadesDeCiudad(destino, slugCiudad) : null;
-    });
-    mapa[k] = v;
+  // Listado de actividades por ciudad: existe (y es pareja) en cada idioma
+  // con al menos una ficha publicada en esa ciudad, haya o no página de
+  // ciudad en ese idioma (FR/IT/PT pueden tener fichas sin guía de ciudad).
+  // Mismo criterio que el sitemap y el generateStaticParams del listado.
+  for (const idioma of IDIOMAS_ACTIVOS) {
+    for (const ciudad of obtenerCiudadesConActividades(idioma)) {
+      const url = urlActividadesDeCiudad(idioma, ciudad);
+      const [k, v] = construirEntrada(url, idioma, (destino) =>
+        urlListadoActividadesSiExiste(destino, ciudad)
+      );
+      mapa[k] = v;
+    }
   }
 
   // Guías

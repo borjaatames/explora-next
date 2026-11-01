@@ -47,6 +47,58 @@ const LABEL_CATEGORIA: Record<CategoriaActividad, string> = {
 };
 
 /**
+ * Copy de las landings de categoría en los idiomas cuyas fichas son solo las
+ * que se hacen en ese idioma (DE/FR/IT/PT): el título lo dice explícitamente.
+ */
+const TEXTOS_CATEGORIA_IDIOMA: Record<
+  "de" | "fr" | "it" | "pt",
+  { en: (c: string) => string; desde: (c: string) => string; enIdioma: string; descripcion: string }
+> = {
+  de: {
+    en: (c) => `in ${c}`,
+    desde: (c) => `ab ${c}`,
+    enIdioma: "auf Deutsch",
+    descripcion: "mit deutschsprachigem Guide, Audioguide oder App, von unserer Redaktion ausgewählt.",
+  },
+  fr: {
+    en: (c) => `à ${c}`,
+    desde: (c) => `au départ de ${c}`,
+    enIdioma: "en français",
+    descripcion: "avec guide francophone, audioguide ou application, sélectionnées par notre rédaction.",
+  },
+  it: {
+    en: (c) => `a ${c}`,
+    desde: (c) => `da ${c}`,
+    enIdioma: "in italiano",
+    descripcion: "con guida in italiano, audioguida o app, selezionate dalla nostra redazione.",
+  },
+  pt: {
+    en: (c) => `em ${c}`,
+    desde: (c) => `a partir de ${c}`,
+    enIdioma: "em português",
+    descripcion: "com guia em português, audioguia ou aplicação, selecionadas pela nossa redação.",
+  },
+};
+
+const MIGA_ACTIVIDADES: Record<Idioma, string> = {
+  es: "Actividades",
+  en: "Things to do",
+  de: "Aktivitäten",
+  fr: "Activités",
+  it: "Attività",
+  pt: "Atividades",
+};
+
+const ARIA_MIGAS: Record<Idioma, string> = {
+  es: "Migas de pan",
+  en: "Breadcrumb",
+  de: "Brotkrümel",
+  fr: "Fil d'Ariane",
+  it: "Percorso di navigazione",
+  pt: "Navegação estrutural",
+};
+
+/**
  * Builds editorial copy (h1, description, meta) for a given category.
  * Special case `excursionesDia`: "Day trips from {city}" reads more
  * naturally than "Day trips in {city}".
@@ -56,12 +108,13 @@ function textosCategoria(
   nombreCiudad: string,
   lang: Idioma = "en"
 ): { titulo: string; descripcion: string } {
-  if (lang === "de") {
-    const label = getDictionary("de").actividades.categorias[categoria];
-    const ort = categoria === "excursionesDia" ? `ab ${nombreCiudad}` : `in ${nombreCiudad}`;
+  if (lang === "de" || lang === "fr" || lang === "it" || lang === "pt") {
+    const label = getDictionary(lang).actividades.categorias[categoria];
+    const t = TEXTOS_CATEGORIA_IDIOMA[lang];
+    const lugar = categoria === "excursionesDia" ? t.desde(nombreCiudad) : t.en(nombreCiudad);
     return {
-      titulo: `${label} ${ort} auf Deutsch`,
-      descripcion: `${label} ${ort} mit deutschsprachigem Guide, Audioguide oder App, von unserer Redaktion ausgewählt.`,
+      titulo: `${label} ${lugar} ${t.enIdioma}`,
+      descripcion: `${label} ${lugar} ${t.descripcion}`,
     };
   }
   const label = LABEL_CATEGORIA[categoria];
@@ -199,7 +252,7 @@ export default async function ActividadesCategoriaPage({ params }: Props) {
       {
         "@type": "ListItem",
         position: 3,
-        name: lang === "de" ? "Aktivitäten" : "Things to do",
+        name: MIGA_ACTIVIDADES[lang],
         item: `${SITE_URL}${urlIndice}`,
       },
       {
@@ -235,7 +288,7 @@ export default async function ActividadesCategoriaPage({ params }: Props) {
 
       <header className="border-b border-piedra-200 bg-piedra-50">
         <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-24">
-          <nav aria-label="Breadcrumb" className="mb-6 text-sm text-piedra-500">
+          <nav aria-label={ARIA_MIGAS[lang]} className="mb-6 text-sm text-piedra-500">
             <ol className="flex flex-wrap items-center gap-x-2">
               <li>
                 <Link href={prefijoIdioma(lang) || "/"} className="hover:text-piedra-700">
@@ -251,7 +304,7 @@ export default async function ActividadesCategoriaPage({ params }: Props) {
               <li aria-hidden="true">/</li>
               <li>
                 <Link href={urlIndice} className="hover:text-piedra-700">
-                  {lang === "de" ? "Aktivitäten" : "Things to do"}
+                  {MIGA_ACTIVIDADES[lang]}
                 </Link>
               </li>
               <li aria-hidden="true">/</li>
@@ -328,8 +381,11 @@ function TarjetaActividad({
           {typeof actividad.ratingProveedor === "number" &&
           typeof actividad.numeroOpiniones === "number" ? (
             <span>
-              {actividad.ratingProveedor.toFixed(1)} ★ (
-              {actividad.numeroOpiniones})
+              {actividad.ratingProveedor.toLocaleString(IDIOMA_LOCALE[lang], {
+                minimumFractionDigits: 1,
+                maximumFractionDigits: 1,
+              })}{" "}
+              ★ ({actividad.numeroOpiniones.toLocaleString(IDIOMA_LOCALE[lang])})
             </span>
           ) : null}
         </div>

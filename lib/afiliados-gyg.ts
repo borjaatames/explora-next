@@ -32,11 +32,17 @@ export function campanaGyg(
 }
 
 /** Segmento de locale de GetYourGuide por idioma activo de la web. */
-const GYG_LOCALE: Record<"es" | "en" | "de", string> = {
+const GYG_LOCALE: Record<IdiomaGyg, string> = {
   es: "es-es",
   en: "en-us",
   de: "de-de",
+  fr: "fr-fr",
+  it: "it-it",
+  pt: "pt-pt",
 };
+
+/** Idiomas de la web que GetYourGuide sirve con su propio locale. */
+export type IdiomaGyg = "es" | "en" | "de" | "fr" | "it" | "pt";
 
 /** Detecta un segmento de locale GYG tipo "en-us", "es-es", "fr-fr"… */
 const GYG_LOCALE_SEGMENT = /^[a-z]{2}-[a-z]{2}$/;
@@ -57,7 +63,7 @@ const PARAMS_AJENOS = ["utm_medium", "utm_source", "utm_campaign", "placement"];
  */
 export function normalizarUrlGetYourGuide(
   urlBase: string,
-  idioma: "es" | "en" | "de",
+  idioma: IdiomaGyg,
   cmp?: string
 ): string {
   try {

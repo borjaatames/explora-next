@@ -54,7 +54,7 @@ type Strings = {
   locale: string;
 };
 
-const DICT: Record<"es" | "en" | "de", Strings> = {
+const DICT: Record<Idioma, Strings> = {
   es: {
     ariaBarra: "Reservar actividad",
     ariaModal: "Selección de fecha",
@@ -76,12 +76,31 @@ const DICT: Record<"es" | "en" | "de", Strings> = {
     ariaCerrar: "Schließen",
     locale: "de-DE",
   },
+  fr: {
+    ariaBarra: "Réserver l'activité",
+    ariaModal: "Choix de la date",
+    headerModal: "Réservez votre visite",
+    ariaCerrar: "Fermer",
+    locale: "fr-FR",
+  },
+  it: {
+    ariaBarra: "Prenota l'attività",
+    ariaModal: "Scelta della data",
+    headerModal: "Prenota la tua visita",
+    ariaCerrar: "Chiudi",
+    locale: "it-IT",
+  },
+  pt: {
+    ariaBarra: "Reservar atividade",
+    ariaModal: "Seleção de data",
+    headerModal: "Reserve a sua visita",
+    ariaCerrar: "Fechar",
+    locale: "pt-PT",
+  },
 };
 
 function dictFor(idioma: Idioma): Strings {
-  if (idioma === "es") return DICT.es;
-  if (idioma === "de") return DICT.de;
-  return DICT.en;
+  return DICT[idioma];
 }
 
 /**

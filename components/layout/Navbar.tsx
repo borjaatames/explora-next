@@ -58,7 +58,52 @@ const DICT = {
     cerrarMenu: "Menü schließen",
     navPrincipal: "Hauptnavigation",
   },
-} as const;
+  fr: {
+    inicioMenu: "Accueil",
+    privados: "Excursions privées",
+    privadosCorto: "Privées",
+    guias: "Guides",
+    planifica: "",
+    planificaCorto: "",
+    ciudades: "Villes",
+    sobreNosotros: "À propos",
+    contacto: "Contact",
+    inicio: "ExploraSpain - Accueil",
+    abrirMenu: "Ouvrir le menu",
+    cerrarMenu: "Fermer le menu",
+    navPrincipal: "Navigation principale",
+  },
+  it: {
+    inicioMenu: "Home",
+    privados: "Escursioni private",
+    privadosCorto: "Private",
+    guias: "Guide",
+    planifica: "",
+    planificaCorto: "",
+    ciudades: "Città",
+    sobreNosotros: "Chi siamo",
+    contacto: "Contatti",
+    inicio: "ExploraSpain - Home",
+    abrirMenu: "Apri il menu",
+    cerrarMenu: "Chiudi il menu",
+    navPrincipal: "Navigazione principale",
+  },
+  pt: {
+    inicioMenu: "Início",
+    privados: "Excursões privadas",
+    privadosCorto: "Privadas",
+    guias: "Guias",
+    planifica: "",
+    planificaCorto: "",
+    ciudades: "Cidades",
+    sobreNosotros: "Sobre nós",
+    contacto: "Contacto",
+    inicio: "ExploraSpain - Início",
+    abrirMenu: "Abrir menu",
+    cerrarMenu: "Fechar menu",
+    navPrincipal: "Navegação principal",
+  },
+} as const satisfies Record<Idioma, Record<string, string>>;
 
 function urlHome(idioma: Idioma): string {
   return prefijoIdioma(idioma) || "/";
@@ -80,7 +125,7 @@ type Props = {
  * también es Client pero se monta como isla independiente.
  */
 export default function Navbar({ idioma }: Props) {
-  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
+  const t = DICT[idioma];
 
   const enlaces = [
     // Sin fichas propias en alemán: el hub solo existe en ES y EN.
@@ -88,7 +133,10 @@ export default function Navbar({ idioma }: Props) {
       ? [{ href: urlHubPrivados(idioma), label: t.privados as string, corto: t.privadosCorto as string }]
       : []),
     { href: urlIndiceCiudades(idioma), label: t.ciudades, corto: undefined as string | undefined },
-    { href: urlIndiceGuias(idioma), label: t.guias },
+    // Sin guías en FR/IT/PT.
+    ...(idioma === "es" || idioma === "en" || idioma === "de"
+      ? [{ href: urlIndiceGuias(idioma), label: t.guias as string }]
+      : []),
     // El planificador solo existe en ES y EN.
     ...(idioma === "es" || idioma === "en"
       ? [{ href: urlPlanificador(idioma), label: t.planifica as string, corto: t.planificaCorto as string }]

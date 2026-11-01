@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
+import { IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { textoUnidadBokun, type PrecioGrupo } from "@/lib/reservaBokun";
 import { precioComparable } from "@/lib/precioComparable";
 
@@ -90,6 +91,108 @@ function asegurarLoader(channelUuid: string): boolean {
   return false;
 }
 
+type TextosWidget = {
+  noDisponible: string;
+  unaOpinion: string;
+  opiniones: string;
+  cabecera: string;
+  directa: string;
+  desde: string;
+  porPersonaGrupo: (personas: number, precio: string) => string;
+  elegirMinimo: (minimo: number) => string;
+  indicarPersonas: string;
+  cargando: string;
+  sinJs: string;
+  pagoSeguro: string;
+};
+
+const TEXTOS: Record<Idioma, TextosWidget> = {
+  es: {
+    noDisponible: "Reserva temporalmente no disponible.",
+    unaOpinion: "1 opinión",
+    opiniones: "opiniones",
+    cabecera: "Reservar tu visita",
+    directa: "Reserva directa",
+    desde: "Desde",
+    porPersonaGrupo: (n, p) => `Si sois ${n}: ${p} por persona`,
+    elegirMinimo: (m) => `Elige ${m} personas o más en el calendario para ver las fechas y el precio.`,
+    indicarPersonas: "Indica en el calendario cuántas personas sois para ver las fechas y el precio.",
+    cargando: "Cargando el calendario de fechas…",
+    sinJs: "Habilita JavaScript en tu navegador para reservar.",
+    pagoSeguro: "Pago 100% seguro · Confirmación inmediata",
+  },
+  en: {
+    noDisponible: "Booking temporarily unavailable.",
+    unaOpinion: "1 review",
+    opiniones: "reviews",
+    cabecera: "Book your visit",
+    directa: "Direct booking",
+    desde: "From",
+    porPersonaGrupo: (n, p) => `For ${n} people: ${p} per person`,
+    elegirMinimo: (m) => `Choose ${m} or more people in the calendar to see dates and prices.`,
+    indicarPersonas: "Set the number of people in the calendar to see dates and prices.",
+    cargando: "Loading the availability calendar…",
+    sinJs: "Please enable JavaScript in your browser to book.",
+    pagoSeguro: "100% secure payment · Instant confirmation",
+  },
+  de: {
+    noDisponible: "Buchung vorübergehend nicht verfügbar.",
+    unaOpinion: "1 Bewertung",
+    opiniones: "Bewertungen",
+    cabecera: "Deinen Besuch buchen",
+    directa: "Direkt buchen",
+    desde: "Ab",
+    porPersonaGrupo: (n, p) => `Bei ${n} Personen: ${p} pro Person`,
+    elegirMinimo: (m) => `Wähle im Kalender ${m} oder mehr Personen, um Termine und Preise zu sehen.`,
+    indicarPersonas: "Gib im Kalender an, wie viele Personen ihr seid, um Termine und Preise zu sehen.",
+    cargando: "Verfügbarkeitskalender wird geladen…",
+    sinJs: "Aktiviere JavaScript in deinem Browser, um zu buchen.",
+    pagoSeguro: "100 % sichere Zahlung · Sofortige Bestätigung",
+  },
+  fr: {
+    noDisponible: "Réservation temporairement indisponible.",
+    unaOpinion: "1 avis",
+    opiniones: "avis",
+    cabecera: "Réservez votre visite",
+    directa: "Réservation directe",
+    desde: "À partir de",
+    porPersonaGrupo: (n, p) => `Pour ${n} personnes : ${p} par personne`,
+    elegirMinimo: (m) => `Choisissez ${m} personnes ou plus dans le calendrier pour voir les dates et le prix.`,
+    indicarPersonas: "Indiquez dans le calendrier combien de personnes vous êtes pour voir les dates et le prix.",
+    cargando: "Chargement du calendrier des disponibilités…",
+    sinJs: "Activez JavaScript dans votre navigateur pour réserver.",
+    pagoSeguro: "Paiement 100 % sécurisé · Confirmation immédiate",
+  },
+  it: {
+    noDisponible: "Prenotazione temporaneamente non disponibile.",
+    unaOpinion: "1 recensione",
+    opiniones: "recensioni",
+    cabecera: "Prenota la tua visita",
+    directa: "Prenotazione diretta",
+    desde: "Da",
+    porPersonaGrupo: (n, p) => `Se siete in ${n}: ${p} a persona`,
+    elegirMinimo: (m) => `Scegli ${m} o più persone nel calendario per vedere le date e il prezzo.`,
+    indicarPersonas: "Indica nel calendario quante persone siete per vedere le date e il prezzo.",
+    cargando: "Caricamento del calendario delle disponibilità…",
+    sinJs: "Attiva JavaScript nel browser per prenotare.",
+    pagoSeguro: "Pagamento sicuro al 100% · Conferma immediata",
+  },
+  pt: {
+    noDisponible: "Reserva temporariamente indisponível.",
+    unaOpinion: "1 avaliação",
+    opiniones: "avaliações",
+    cabecera: "Reserve a sua visita",
+    directa: "Reserva direta",
+    desde: "Desde",
+    porPersonaGrupo: (n, p) => `Para ${n} pessoas: ${p} por pessoa`,
+    elegirMinimo: (m) => `Escolha ${m} ou mais pessoas no calendário para ver as datas e o preço.`,
+    indicarPersonas: "Indique no calendário quantas pessoas são para ver as datas e o preço.",
+    cargando: "A carregar o calendário de disponibilidade…",
+    sinJs: "Ative o JavaScript no seu navegador para reservar.",
+    pagoSeguro: "Pagamento 100% seguro · Confirmação imediata",
+  },
+};
+
 export default function BokunWidget({
   productId,
   idioma,
@@ -108,10 +211,13 @@ export default function BokunWidget({
     precioPorGrupo: porGrupo,
     preciosGrupo,
   });
-  const formatoPrecio = new Intl.NumberFormat(
-    idioma === "es" ? "es-ES" : idioma === "de" ? "de-DE" : "en-GB",
-    { style: "currency", currency: moneda || "EUR", maximumFractionDigits: 0 }
-  );
+  const t = TEXTOS[idioma];
+  const localeNota = idioma === "en" ? "en-GB" : IDIOMA_LOCALE[idioma];
+  const formatoPrecio = new Intl.NumberFormat(localeNota, {
+    style: "currency",
+    currency: moneda || "EUR",
+    maximumFractionDigits: 0,
+  });
   const contenedorRef = useRef<HTMLDivElement>(null);
   const [cerca, setCerca] = useState(false);
   const [interaccion, setInteraccion] = useState(false);
@@ -168,18 +274,13 @@ export default function BokunWidget({
   if (!channelUuid) {
     return (
       <div className="bg-white border border-piedra-200 rounded-lg p-5 text-sm text-piedra-500">
-        {idioma === "es"
-          ? "Reserva temporalmente no disponible."
-          : idioma === "de"
-            ? "Buchung vorübergehend nicht verfügbar."
-            : "Booking temporarily unavailable."}
+        {t.noDisponible}
       </div>
     );
   }
 
   const dataSrc = `${WIDGET_BASE}/${channelUuid}/experience-calendar/${productId}?lang=${idioma}`;
 
-  const localeNota = idioma === "es" ? "es-ES" : idioma === "de" ? "de-DE" : "en-GB";
   const tieneRating =
     typeof ratingProveedor === "number" &&
     typeof numeroOpiniones === "number" &&
@@ -190,48 +291,34 @@ export default function BokunWidget({
   });
   const ratingOpiniones =
     numeroOpiniones === 1
-      ? idioma === "es"
-        ? "1 opinión"
-        : idioma === "de"
-          ? "1 Bewertung"
-          : "1 review"
-      : `${(numeroOpiniones ?? 0).toLocaleString(localeNota)} ${
-          idioma === "es" ? "opiniones" : idioma === "de" ? "Bewertungen" : "reviews"
-        }`;
+      ? t.unaOpinion
+      : `${(numeroOpiniones ?? 0).toLocaleString(localeNota)} ${t.opiniones}`;
 
   return (
     <div className="bg-white border border-piedra-200 rounded-lg shadow-sm overflow-hidden">
       <div className="bg-anil-500 text-white px-4 py-2 flex items-center justify-between">
         <span className="text-xs font-semibold tracking-wide">
-          {idioma === "es" ? "Reservar tu visita" : idioma === "de" ? "Deinen Besuch buchen" : "Book your visit"}
+          {t.cabecera}
         </span>
         <span className="text-xs opacity-90">
-          {idioma === "es" ? "Reserva directa" : idioma === "de" ? "Direkt buchen" : "Direct booking"}
+          {t.directa}
         </span>
       </div>
 
       {typeof precioDesde === "number" && precioDesde > 0 && (
         <div className="px-4 pt-3">
           <p className="text-xs text-piedra-500">
-            {idioma === "es" ? "Desde" : idioma === "de" ? "Ab" : "From"}
+            {t.desde}
           </p>
           <p className="text-4xl font-bold text-piedra-900 mt-0.5">
-            {new Intl.NumberFormat(idioma === "es" ? "es-ES" : idioma === "de" ? "de-DE" : "en-GB", {
-              style: "currency",
-              currency: moneda || "EUR",
-              maximumFractionDigits: 0,
-            }).format(precioDesde)}
+            {formatoPrecio.format(precioDesde)}
           </p>
           <p className="text-xs text-piedra-500">
             {textoUnidadBokun({ porGrupo: Boolean(porGrupo), minimoPersonas }, idioma)}
           </p>
           {porGrupo && comparable.personasReferencia ? (
             <p className="mt-1 text-sm font-semibold text-piedra-800">
-              {idioma === "es"
-                ? `Si sois ${comparable.personasReferencia}: ${formatoPrecio.format(comparable.porPersona)} por persona`
-                : idioma === "de"
-                  ? `Bei ${comparable.personasReferencia} Personen: ${formatoPrecio.format(comparable.porPersona)} pro Person`
-                  : `For ${comparable.personasReferencia} people: ${formatoPrecio.format(comparable.porPersona)} per person`}
+              {t.porPersonaGrupo(comparable.personasReferencia, formatoPrecio.format(comparable.porPersona))}
             </p>
           ) : null}
           {tieneRating && (
@@ -253,17 +340,9 @@ export default function BokunWidget({
 
       {pedirPersonas && (
         <p className="mx-4 mt-3 rounded-md border border-azafran-200 bg-azafran-50 px-3 py-2 text-sm text-piedra-800">
-          {idioma === "es"
-            ? typeof minimoPersonas === "number" && minimoPersonas > 1
-              ? `Elige ${minimoPersonas} personas o más en el calendario para ver las fechas y el precio.`
-              : "Indica en el calendario cuántas personas sois para ver las fechas y el precio."
-            : idioma === "de"
-              ? typeof minimoPersonas === "number" && minimoPersonas > 1
-                ? `Wähle im Kalender ${minimoPersonas} oder mehr Personen, um Termine und Preise zu sehen.`
-                : "Gib im Kalender an, wie viele Personen ihr seid, um Termine und Preise zu sehen."
-            : typeof minimoPersonas === "number" && minimoPersonas > 1
-              ? `Choose ${minimoPersonas} or more people in the calendar to see dates and prices.`
-              : "Set the number of people in the calendar to see dates and prices."}
+          {typeof minimoPersonas === "number" && minimoPersonas > 1
+            ? t.elegirMinimo(minimoPersonas)
+            : t.indicarPersonas}
         </p>
       )}
 
@@ -273,7 +352,7 @@ export default function BokunWidget({
       >
         {!activo && (
           <p className="pt-24 text-center text-sm text-piedra-500">
-            {idioma === "es" ? "Cargando el calendario de fechas…" : idioma === "de" ? "Verfügbarkeitskalender wird geladen…" : "Loading the availability calendar…"}
+            {t.cargando}
           </p>
         )}
         {/* `key` con idioma+producto: fuerza a React a crear un nodo nuevo y
@@ -281,9 +360,7 @@ export default function BokunWidget({
             correcto (un div ya hidratado no vuelve a leer su data-src). */}
         <div key={`${productId}-${idioma}`} className="bokunWidget" data-src={dataSrc} />
         <noscript>
-          {idioma === "es"
-            ? "Habilita JavaScript en tu navegador para reservar."
-            : "Please enable JavaScript in your browser to book."}
+          {t.sinJs}
         </noscript>
       </div>
 
@@ -304,9 +381,7 @@ export default function BokunWidget({
             <rect x="3" y="11" width="18" height="11" rx="2" ry="2" />
             <path d="M7 11V7a5 5 0 0 1 10 0v4" />
           </svg>
-          {idioma === "es"
-            ? "Pago 100% seguro · Confirmación inmediata"
-            : "100% secure payment · Instant confirmation"}
+          {t.pagoSeguro}
         </p>
       </div>
     </div>

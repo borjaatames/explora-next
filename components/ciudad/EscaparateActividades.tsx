@@ -23,7 +23,35 @@ const TEXTOS = {
     verTodas: (n: number) => `See all ${n} activities`,
     tarjeta: { desde: "From", verActividad: "View activity", cancelacionGratuita: "Free cancellation" },
   },
-} as const;
+  de: {
+    titulo: (c: string, conPrivadas: boolean) =>
+      conPrivadas ? `Am beliebtesten in ${c} und unsere Privattouren` : `Die beliebtesten Aktivitäten in ${c}`,
+    todas: "Alle",
+    verTodas: (n: number) => `Alle ${n} Aktivitäten ansehen`,
+    tarjeta: { desde: "Ab", verActividad: "Aktivität ansehen", cancelacionGratuita: "Kostenlose Stornierung" },
+  },
+  fr: {
+    titulo: (c: string, conPrivadas: boolean) =>
+      conPrivadas ? `Les plus populaires à ${c} et nos visites privées` : `Les activités les plus populaires à ${c}`,
+    todas: "Toutes",
+    verTodas: (n: number) => `Voir les ${n} activités`,
+    tarjeta: { desde: "À partir de", verActividad: "Voir l'activité", cancelacionGratuita: "Annulation gratuite" },
+  },
+  it: {
+    titulo: (c: string, conPrivadas: boolean) =>
+      conPrivadas ? `Le più popolari a ${c} e i nostri tour privati` : `Le attività più popolari a ${c}`,
+    todas: "Tutte",
+    verTodas: (n: number) => `Vedi tutte le ${n} attività`,
+    tarjeta: { desde: "Da", verActividad: "Vedi l'attività", cancelacionGratuita: "Cancellazione gratuita" },
+  },
+  pt: {
+    titulo: (c: string, conPrivadas: boolean) =>
+      conPrivadas ? `O mais popular em ${c} e os nossos tours privados` : `As atividades mais populares em ${c}`,
+    todas: "Todas",
+    verTodas: (n: number) => `Ver as ${n} atividades`,
+    tarjeta: { desde: "Desde", verActividad: "Ver atividade", cancelacionGratuita: "Cancelamento gratuito" },
+  },
+} as const satisfies Record<Idioma, unknown>;
 
 /** Tarjetas visibles: 8 en escritorio (dos filas de 4) y 6 en móvil. */
 const MAX_ESCRITORIO = 8;
@@ -49,7 +77,7 @@ export default function EscaparateActividades({
   urlActividades,
 }: Props) {
   if (actividades.length === 0) return null;
-  const t = idioma === "es" ? TEXTOS.es : TEXTOS.en;
+  const t = TEXTOS[idioma];
   const etiquetas = calcularEtiquetas(actividades);
   const top = intercalarPrivadas(
     actividades

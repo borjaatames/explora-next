@@ -1,4 +1,4 @@
-import AktivitaetenDeutschHome from "@/components/home/AktivitaetenDeutschHome";
+import ActividadesIdiomaHome from "@/components/home/ActividadesIdiomaHome";
 import { FranjaNavidad, ConQuienViajas, RutasPorDias, FranjaCruceros } from "@/components/home/SeccionesPlan";
 import PrivadosHome from "@/components/home/PrivadosHome";
 import type { Metadata } from "next";
@@ -72,39 +72,8 @@ type Copy = {
   seeAllGuides: string;
 };
 
-function getCopy(lang: Idioma): Copy {
-  if (lang === "de") {
-    return {
-      metaTitle: "ExploraSpain · Reiseführer, Touren & Aktivitäten Spanien",
-      metaDescription:
-        "Reiseführer, Touren und Aktivitäten für Spanien mit den besten Tipps von lokalen Experten: Madrid, Barcelona, Sevilla, Granada und mehr. Kostenlose Stornierung und vertrauenswürdige Partner.",
-      ogDescription:
-        "Reiseführer, Touren und Aktivitäten für Spanien mit den besten Tipps von lokalen Experten. Kostenlose Stornierung und Buchung über vertrauenswürdige Partner.",
-      websiteJsonLdDescription:
-        "Reiseführer, Touren und Aktivitäten für Spanien mit den besten Tipps von lokalen Experten: buche mit kostenloser Stornierung und vertrauenswürdigen Partnern.",
-      heroTitle:
-        "Reiseführer, Touren und Aktivitäten für Spanien, mit den besten Tipps von lokalen Experten",
-      heroSubtitle:
-        "Direkte und sichere Buchung von Touren und Aktivitäten in ganz Spanien — kein touristischer Fülltext, nur das, was sich wirklich lohnt.",
-      exploreDestinos: "Reiseziele entdecken",
-      seeActivitiesCta: "Beliebte Aktivitäten ansehen",
-      topDestinosHeading: "Top-Reiseziele",
-      topDestinosSubheading:
-        "Wähle deine Stadt und entdecke die besten Aktivitäten in jeder von ihnen.",
-      seeAllCities: "Alle Städte ansehen →",
-      featuredActHeading: "Beliebte Aktivitäten",
-      featuredActSubheading:
-        "Das Beste aus jeder Stadt: kostenlose Stornierung und sofortige Bestätigung.",
-      freeCancellation: "Kostenlose Stornierung",
-      fromLabel: "Ab",
-      viewActivity: "Aktivität ansehen →",
-      guidesHeading: "Reiseführer für bessere Reisen",
-      guidesSubheading:
-        "Praktische Tipps und Routen mit Kriterium, bevor du buchst.",
-      seeAllGuides: "Alle Reiseführer ansehen →",
-    };
-  }
-  return {
+const COPY: Record<Exclude<Idioma, "es">, Copy> = {
+  en: {
     metaTitle: "ExploraSpain · Spain Travel Guides, Tours & Activities",
     metaDescription:
       "Spain travel guides, tours and activities with the best advice from local experts: Madrid, Barcelona, Seville, Granada and more. Free cancellation and trusted partners.",
@@ -131,7 +100,128 @@ function getCopy(lang: Idioma): Copy {
     guidesHeading: "Guides to travel better",
     guidesSubheading: "Practical tips and routes with judgment before you book.",
     seeAllGuides: "See all guides →",
-  };
+  },
+  de: {
+    metaTitle: "ExploraSpain · Reiseführer, Touren & Aktivitäten Spanien",
+    metaDescription:
+      "Reiseführer, Touren und Aktivitäten für Spanien mit den besten Tipps von lokalen Experten: Madrid, Barcelona, Sevilla, Granada und mehr. Kostenlose Stornierung und vertrauenswürdige Partner.",
+    ogDescription:
+      "Reiseführer, Touren und Aktivitäten für Spanien mit den besten Tipps von lokalen Experten. Kostenlose Stornierung und Buchung über vertrauenswürdige Partner.",
+    websiteJsonLdDescription:
+      "Reiseführer, Touren und Aktivitäten für Spanien mit den besten Tipps von lokalen Experten: buche mit kostenloser Stornierung und vertrauenswürdigen Partnern.",
+    heroTitle:
+      "Reiseführer, Touren und Aktivitäten für Spanien, mit den besten Tipps von lokalen Experten",
+    heroSubtitle:
+      "Direkte und sichere Buchung von Touren und Aktivitäten in ganz Spanien — kein touristischer Fülltext, nur das, was sich wirklich lohnt.",
+    exploreDestinos: "Reiseziele entdecken",
+    seeActivitiesCta: "Beliebte Aktivitäten ansehen",
+    topDestinosHeading: "Top-Reiseziele",
+    topDestinosSubheading:
+      "Wähle deine Stadt und entdecke die besten Aktivitäten in jeder von ihnen.",
+    seeAllCities: "Alle Städte ansehen →",
+    featuredActHeading: "Beliebte Aktivitäten",
+    featuredActSubheading:
+      "Das Beste aus jeder Stadt: kostenlose Stornierung und sofortige Bestätigung.",
+    freeCancellation: "Kostenlose Stornierung",
+    fromLabel: "Ab",
+    viewActivity: "Aktivität ansehen →",
+    guidesHeading: "Reiseführer für bessere Reisen",
+    guidesSubheading:
+      "Praktische Tipps und Routen mit Kriterium, bevor du buchst.",
+    seeAllGuides: "Alle Reiseführer ansehen →",
+  },
+  fr: {
+    metaTitle: "ExploraSpain · Visites et activités en Espagne",
+    metaDescription:
+      "Visites, excursions et activités en Espagne sélectionnées par des experts locaux : Madrid, Barcelone, Séville, Grenade et plus encore. Réservation sécurisée et partenaires de confiance.",
+    ogDescription:
+      "Visites, excursions et activités en Espagne sélectionnées par des experts locaux. Réservation sécurisée auprès de partenaires de confiance.",
+    websiteJsonLdDescription:
+      "Visites, excursions et activités en Espagne sélectionnées par des experts locaux : réservez en toute sécurité auprès de partenaires de confiance.",
+    heroTitle:
+      "Visites et activités en Espagne, sélectionnées par des experts locaux",
+    heroSubtitle:
+      "Réservation directe et sécurisée de visites et d’activités dans toute l’Espagne — sans remplissage touristique, uniquement ce qui en vaut vraiment la peine.",
+    exploreDestinos: "Découvrir les destinations",
+    seeActivitiesCta: "Voir les activités à la une",
+    topDestinosHeading: "Destinations phares",
+    topDestinosSubheading:
+      "Choisissez votre ville et découvrez ses meilleures activités.",
+    seeAllCities: "Voir toutes les villes →",
+    featuredActHeading: "Activités à la une",
+    featuredActSubheading:
+      "Le meilleur de chaque ville : annulation gratuite et confirmation immédiate.",
+    freeCancellation: "Annulation gratuite",
+    fromLabel: "À partir de",
+    viewActivity: "Voir l’activité →",
+    guidesHeading: "Des guides pour mieux voyager",
+    guidesSubheading: "Conseils pratiques et itinéraires réfléchis avant de réserver.",
+    seeAllGuides: "Voir tous les guides →",
+  },
+  it: {
+    metaTitle: "ExploraSpain · Tour e attività in Spagna",
+    metaDescription:
+      "Tour, escursioni e attività in Spagna selezionati da esperti locali: Madrid, Barcellona, Siviglia, Granada e molto altro. Prenotazione sicura e partner affidabili.",
+    ogDescription:
+      "Tour, escursioni e attività in Spagna selezionati da esperti locali. Prenotazione sicura tramite partner affidabili.",
+    websiteJsonLdDescription:
+      "Tour, escursioni e attività in Spagna selezionati da esperti locali: prenota in sicurezza con partner affidabili.",
+    heroTitle: "Tour e attività in Spagna, selezionati da esperti locali",
+    heroSubtitle:
+      "Prenotazione diretta e sicura di tour e attività in tutta la Spagna — niente riempitivi turistici, solo ciò che vale davvero la pena.",
+    exploreDestinos: "Scopri le destinazioni",
+    seeActivitiesCta: "Vedi le attività in evidenza",
+    topDestinosHeading: "Destinazioni top",
+    topDestinosSubheading:
+      "Scegli la tua città e scopri le sue migliori attività.",
+    seeAllCities: "Vedi tutte le città →",
+    featuredActHeading: "Attività in evidenza",
+    featuredActSubheading:
+      "Il meglio di ogni città: cancellazione gratuita e conferma immediata.",
+    freeCancellation: "Cancellazione gratuita",
+    fromLabel: "Da",
+    viewActivity: "Vedi l’attività →",
+    guidesHeading: "Guide per viaggiare meglio",
+    guidesSubheading: "Consigli pratici e itinerari ragionati prima di prenotare.",
+    seeAllGuides: "Vedi tutte le guide →",
+  },
+  pt: {
+    metaTitle: "ExploraSpain · Tours e atividades em Espanha",
+    metaDescription:
+      "Tours, excursões e atividades em Espanha selecionados por especialistas locais: Madrid, Barcelona, Sevilha, Granada e muito mais. Reserva segura e parceiros de confiança.",
+    ogDescription:
+      "Tours, excursões e atividades em Espanha selecionados por especialistas locais. Reserva segura através de parceiros de confiança.",
+    websiteJsonLdDescription:
+      "Tours, excursões e atividades em Espanha selecionados por especialistas locais: reserve em segurança com parceiros de confiança.",
+    heroTitle:
+      "Tours e atividades em Espanha, selecionados por especialistas locais",
+    heroSubtitle:
+      "Reserva direta e segura de tours e atividades em toda a Espanha — sem enchimento turístico, apenas o que realmente vale a pena.",
+    exploreDestinos: "Explorar destinos",
+    seeActivitiesCta: "Ver atividades em destaque",
+    topDestinosHeading: "Destinos em destaque",
+    topDestinosSubheading:
+      "Escolha a sua cidade e descubra as melhores atividades de cada uma.",
+    seeAllCities: "Ver todas as cidades →",
+    featuredActHeading: "Atividades em destaque",
+    featuredActSubheading:
+      "O melhor de cada cidade: cancelamento gratuito e confirmação imediata.",
+    freeCancellation: "Cancelamento gratuito",
+    fromLabel: "Desde",
+    viewActivity: "Ver atividade →",
+    guidesHeading: "Guias para viajar melhor",
+    guidesSubheading: "Conselhos práticos e roteiros pensados antes de reservar.",
+    seeAllGuides: "Ver todos os guias →",
+  },
+};
+
+function getCopy(lang: Exclude<Idioma, "es">): Copy {
+  return COPY[lang];
+}
+
+/** En FR/IT/PT no hay guías: la sección no se pinta. */
+function tieneGuias(lang: Idioma): boolean {
+  return lang === "es" || lang === "en" || lang === "de";
 }
 
 export function generateStaticParams(): Array<{ lang: Idioma }> {
@@ -182,11 +272,11 @@ export default function HomePage({ params }: Props) {
     notFound();
   }
 
-  const lang: Idioma = params.lang;
+  const lang: Exclude<Idioma, "es"> = params.lang;
   const copy = getCopy(lang);
   const locale = IDIOMA_LOCALE[lang];
   const dict = getDictionary(lang);
-  const guias = obtenerGuiasDestacadas(lang, 6);
+  const guias = tieneGuias(lang) ? obtenerGuiasDestacadas(lang, 6) : [];
   const ciudades = obtenerListaCiudades(lang);
 
   // Mapa slug -> nombre de ciudad para etiquetar las tarjetas.
@@ -310,7 +400,7 @@ export default function HomePage({ params }: Props) {
       )}
 
       {/* Featured activities and tours (below destinations) */}
-      <AktivitaetenDeutschHome idioma={lang} />
+      <ActividadesIdiomaHome idioma={lang} />
       <ConQuienViajas idioma={lang} />
 
       <PrivadosHome idioma={lang} />

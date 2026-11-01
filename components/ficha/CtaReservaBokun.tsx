@@ -32,6 +32,21 @@ const CONFIANZA = {
     confirmacion: "Sofortige Bestätigung",
     pago: "Sichere Zahlung",
   },
+  fr: {
+    cancelacion: (h?: number) => (h ? `Annulation gratuite jusqu'à ${h} h avant` : "Annulation gratuite"),
+    confirmacion: "Confirmation immédiate",
+    pago: "Paiement sécurisé",
+  },
+  it: {
+    cancelacion: (h?: number) => (h ? `Cancellazione gratuita fino a ${h} ore prima` : "Cancellazione gratuita"),
+    confirmacion: "Conferma immediata",
+    pago: "Pagamento sicuro",
+  },
+  pt: {
+    cancelacion: (h?: number) => (h ? `Cancelamento gratuito até ${h} h antes` : "Cancelamento gratuito"),
+    confirmacion: "Confirmação imediata",
+    pago: "Pagamento seguro",
+  },
 } as const;
 
 /**
@@ -51,7 +66,7 @@ export default function CtaReservaBokun({
 }: Props) {
   if (!(datos.precioDesde > 0)) return null;
   const t = textosPrecioBokun(datos, idioma);
-  const c = CONFIANZA[idioma === "en" || idioma === "de" ? idioma : "es"];
+  const c = CONFIANZA[idioma];
   const garantias = [
     ...(cancelacionGratuita ? [c.cancelacion(horasCancelacion)] : []),
     ...(confirmacionInmediata ? [c.confirmacion] : []),

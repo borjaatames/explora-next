@@ -51,7 +51,7 @@ type Strings = {
   locale: string;
 };
 
-const DICT: Record<"es" | "en" | "de", Strings> = {
+const DICT: Record<Idioma, Strings> = {
   es: {
     headerReservar: "Reservar tu visita",
     via: "vía",
@@ -136,12 +136,94 @@ const DICT: Record<"es" | "en" | "de", Strings> = {
     diasSemana: ["M", "D", "M", "D", "F", "S", "S"],
     locale: "de-DE",
   },
+  fr: {
+    headerReservar: "Réservez votre visite",
+    via: "via",
+    compruebaDisponibilidad: "Vérifiez les disponibilités",
+    mesAnterior: "Mois précédent",
+    mesSiguiente: "Mois suivant",
+    enProveedorConfirma: (p: string) =>
+      `Vous confirmerez la date, le nombre de voyageurs et la disponibilité sur ${p}.`,
+    ariaDia: (d: number, m: string) => `${d} ${m.toLowerCase()}`,
+    opinionSingular: "1 avis",
+    opinionPlural: "avis",
+    meses: [
+      "Janvier",
+      "Février",
+      "Mars",
+      "Avril",
+      "Mai",
+      "Juin",
+      "Juillet",
+      "Août",
+      "Septembre",
+      "Octobre",
+      "Novembre",
+      "Décembre",
+    ],
+    diasSemana: ["L", "M", "M", "J", "V", "S", "D"],
+    locale: "fr-FR",
+  },
+  it: {
+    headerReservar: "Prenota la tua visita",
+    via: "tramite",
+    compruebaDisponibilidad: "Verifica la disponibilità",
+    mesAnterior: "Mese precedente",
+    mesSiguiente: "Mese successivo",
+    enProveedorConfirma: (p: string) =>
+      `Su ${p} confermi data, numero di viaggiatori e disponibilità.`,
+    ariaDia: (d: number, m: string) => `${d} ${m.toLowerCase()}`,
+    opinionSingular: "1 recensione",
+    opinionPlural: "recensioni",
+    meses: [
+      "Gennaio",
+      "Febbraio",
+      "Marzo",
+      "Aprile",
+      "Maggio",
+      "Giugno",
+      "Luglio",
+      "Agosto",
+      "Settembre",
+      "Ottobre",
+      "Novembre",
+      "Dicembre",
+    ],
+    diasSemana: ["L", "M", "M", "G", "V", "S", "D"],
+    locale: "it-IT",
+  },
+  pt: {
+    headerReservar: "Reserve a sua visita",
+    via: "via",
+    compruebaDisponibilidad: "Verifique a disponibilidade",
+    mesAnterior: "Mês anterior",
+    mesSiguiente: "Mês seguinte",
+    enProveedorConfirma: (p: string) =>
+      `Na ${p} confirma a data, o número de viajantes e a disponibilidade.`,
+    ariaDia: (d: number, m: string) => `${d} de ${m.toLowerCase()}`,
+    opinionSingular: "1 avaliação",
+    opinionPlural: "avaliações",
+    meses: [
+      "Janeiro",
+      "Fevereiro",
+      "Março",
+      "Abril",
+      "Maio",
+      "Junho",
+      "Julho",
+      "Agosto",
+      "Setembro",
+      "Outubro",
+      "Novembro",
+      "Dezembro",
+    ],
+    diasSemana: ["S", "T", "Q", "Q", "S", "S", "D"],
+    locale: "pt-PT",
+  },
 };
 
 function dictFor(idioma: Idioma): Strings {
-  if (idioma === "es") return DICT.es;
-  if (idioma === "de") return DICT.de;
-  return DICT.en;
+  return DICT[idioma];
 }
 
 /**

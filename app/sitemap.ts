@@ -110,6 +110,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const actividadesPorIdioma = new Map(
     IDIOMAS_ACTIVOS.map((l) => [l, obtenerListaActividades(l)] as const)
   );
+  const tieneGuias = (lang: Idioma): boolean =>
+    (guiasPorIdioma.get(lang as IdiomaActivo) ?? []).length > 0;
   const fechaGuias = (lang: IdiomaActivo, ciudad?: string) =>
     masReciente(
       (guiasPorIdioma.get(lang) ?? [])
@@ -136,14 +138,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       alternates: alternatesPara((l) => prefijoIdioma(l) || "/"),
     });
 
-    // Índice de guías
-    entries.push({
-      url: `${SITE_URL}${urlIndiceGuias(lang)}`,
-      lastModified: fechaGuias(lang),
-      changeFrequency: "weekly",
-      priority: 0.9,
-      alternates: alternatesPara((l) => urlIndiceGuias(l)),
-    });
+    // Índice de guías (solo idiomas con guías: FR/IT/PT no tienen)
+    if (tieneGuias(lang)) {
+      entries.push({
+        url: `${SITE_URL}${urlIndiceGuias(lang)}`,
+        lastModified: fechaGuias(lang),
+        changeFrequency: "weekly",
+        priority: 0.9,
+        alternates: alternatesPara((l) => (tieneGuias(l) ? urlIndiceGuias(l) : null)),
+      });
+    }
 
     // Índice de ciudades
     entries.push({
@@ -339,7 +343,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // Fuera las URLs con noindex (alemán salvo islas): ver lib/i18n/indexacion.ts.
+  // Fuera las URLs con noindex (alemán salvo islas y fichas; en FR/IT/PT todo
+  // salvo home, fichas y listados): ver lib/i18n/indexacion.ts.
   return entries.filter((e) =>
     rutaIndexable(e.url.slice(SITE_URL.length) || "/")
   );

@@ -88,6 +88,37 @@ const CATEGORIAS_DE: Record<string, string> = {
   "Sights & Landmarks": "Sehenswürdigkeiten",
 };
 
+const CATEGORIAS_FR: Record<string, string> = {
+  Tours: "visites guidées",
+  "Food & Drink": "gastronomie",
+  Nightlife: "vie nocturne",
+  "Boat Tours & Water Sports": "excursions en bateau et sports nautiques",
+  "Outdoor Activities": "activités de plein air",
+  "Sights & Landmarks": "sites et monuments",
+};
+
+const CATEGORIAS_IT: Record<string, string> = {
+  Tours: "tour",
+  "Food & Drink": "cibo e bevande",
+  Nightlife: "vita notturna",
+  "Boat Tours & Water Sports": "giri in barca e sport acquatici",
+  "Outdoor Activities": "attività all'aperto",
+  "Sights & Landmarks": "attrazioni e monumenti",
+};
+
+const CATEGORIAS_PT: Record<string, string> = {
+  Tours: "tours",
+  "Food & Drink": "gastronomia",
+  Nightlife: "vida noturna",
+  "Boat Tours & Water Sports": "passeios de barco e desportos aquáticos",
+  "Outdoor Activities": "atividades ao ar livre",
+  "Sights & Landmarks": "pontos de interesse",
+};
+
+const LUGARES_FR: Record<string, string> = { Seville: "Séville", "Eivissa (Ibiza)": "Ibiza" };
+const LUGARES_IT: Record<string, string> = { Seville: "Siviglia", "Eivissa (Ibiza)": "Ibiza" };
+const LUGARES_PT: Record<string, string> = { Seville: "Sevilha", "Eivissa (Ibiza)": "Ibiza" };
+
 /** «n.º 14 de 606 en gastronomía en Barcelona» / «#14 of 606 food & drink in Barcelona». */
 export function textoRankingTripadvisor(
   r: RankingTripadvisor | undefined,
@@ -103,6 +134,21 @@ export function textoRankingTripadvisor(
   if (idioma === "de") {
     const cat = CATEGORIAS_DE[r.categoria] ?? r.categoria;
     return `Nr. ${r.posicion} von ${r.total.toLocaleString("de-DE")} ${cat} in ${r.lugar}`;
+  }
+  if (idioma === "fr") {
+    const cat = CATEGORIAS_FR[r.categoria] ?? r.categoria.toLowerCase();
+    const lugar = LUGARES_FR[r.lugar] ?? r.lugar;
+    return `n° ${r.posicion} sur ${r.total.toLocaleString("fr-FR")} (${cat}) à ${lugar}`;
+  }
+  if (idioma === "it") {
+    const cat = CATEGORIAS_IT[r.categoria] ?? r.categoria.toLowerCase();
+    const lugar = LUGARES_IT[r.lugar] ?? r.lugar;
+    return `n. ${r.posicion} di ${r.total.toLocaleString("it-IT")} (${cat}) a ${lugar}`;
+  }
+  if (idioma === "pt") {
+    const cat = CATEGORIAS_PT[r.categoria] ?? r.categoria.toLowerCase();
+    const lugar = LUGARES_PT[r.lugar] ?? r.lugar;
+    return `n.º ${r.posicion} de ${r.total.toLocaleString("pt-PT")} em ${cat} em ${lugar}`;
   }
   const total = r.total.toLocaleString("en-GB");
   const cat = CATEGORIAS_EN[r.categoria] ?? r.categoria.toLowerCase();

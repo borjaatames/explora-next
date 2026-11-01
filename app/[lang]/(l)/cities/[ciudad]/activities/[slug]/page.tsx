@@ -61,8 +61,19 @@ type Props = {
   params: { lang: string; ciudad: string; slug: string };
 };
 
-const TEXTOS_FICHA = {
+type TextosFicha = {
+  inicio: string;
+  ciudades: string;
+  queHacer: string;
+  accesibilidad: string;
+  cancelacion: string;
+  verMas: (c: string) => string;
+  ariaMigas: string;
+};
+
+const TEXTOS_FICHA: Record<Exclude<Idioma, "es">, TextosFicha> = {
   en: {
+    ariaMigas: "Breadcrumb",
     inicio: "Home",
     ciudades: "Cities",
     queHacer: "Things to do",
@@ -71,6 +82,7 @@ const TEXTOS_FICHA = {
     verMas: (c: string) => `← See more things to do in ${c}`,
   },
   de: {
+    ariaMigas: "Brotkrümel",
     inicio: "Startseite",
     ciudades: "Städte",
     queHacer: "Aktivitäten",
@@ -78,7 +90,34 @@ const TEXTOS_FICHA = {
     cancelacion: "Stornierungsbedingungen",
     verMas: (c: string) => `← Weitere Aktivitäten auf Deutsch in ${c}`,
   },
-} as const;
+  fr: {
+    ariaMigas: "Fil d'Ariane",
+    inicio: "Accueil",
+    ciudades: "Villes",
+    queHacer: "Activités",
+    accesibilidad: "Accessibilité",
+    cancelacion: "Conditions d'annulation",
+    verMas: (c: string) => `← Plus d'activités en français à ${c}`,
+  },
+  it: {
+    ariaMigas: "Percorso di navigazione",
+    inicio: "Home",
+    ciudades: "Città",
+    queHacer: "Attività",
+    accesibilidad: "Accessibilità",
+    cancelacion: "Politica di cancellazione",
+    verMas: (c: string) => `← Altre attività in italiano a ${c}`,
+  },
+  pt: {
+    ariaMigas: "Navegação estrutural",
+    inicio: "Início",
+    ciudades: "Cidades",
+    queHacer: "Atividades",
+    accesibilidad: "Acessibilidade",
+    cancelacion: "Política de cancelamento",
+    verMas: (c: string) => `← Mais atividades em português em ${c}`,
+  },
+};
 
 /**
  * Genera rutas para todas las (idioma, ciudad, slug) de actividades
@@ -150,7 +189,7 @@ export default async function ActividadPage({ params }: Props) {
   if (!ciudad || !actividad) notFound();
 
   const dict = getDictionary(lang);
-  const tx = TEXTOS_FICHA[lang === "de" ? "de" : "en"];
+  const tx = TEXTOS_FICHA[lang];
 
   const guiasRelacionadas = obtenerGuiasParaFicha(lang, params.ciudad, actividad);
   const guiaAgotada = obtenerGuiaAgotadaParaFicha(lang, params.ciudad, actividad.slugs?.es);
@@ -187,7 +226,7 @@ export default async function ActividadPage({ params }: Props) {
   // se genera hoy para lang="en" (sin contenido de actividades en otros
   // idiomas), pero acotamos el tipo aquí explícitamente para no ensanchar
   // la firma de esas funciones con idiomas que el proveedor no entiende.
-  const idiomaProveedor: "es" | "en" | "de" = lang === "en" ? "en" : lang === "de" ? "de" : "es";
+  const idiomaProveedor: Idioma = lang;
   const precioDesdeFinal = actividad.precioDesde;
   const precio = new Intl.NumberFormat(IDIOMA_LOCALE[lang], {
     style: "currency",
@@ -365,7 +404,7 @@ export default async function ActividadPage({ params }: Props) {
       <div className="flex flex-col">
       <header className="bg-white pt-4 md:pt-8">
         <div>
-          <nav aria-label="Breadcrumb" className="text-sm text-piedra-500 mb-4">
+          <nav aria-label={tx.ariaMigas} className="text-sm text-piedra-500 mb-4">
             <Link href={prefijoIdioma(lang) || "/"} className="hover:text-anil-700">
               {tx.inicio}
             </Link>

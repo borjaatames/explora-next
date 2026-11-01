@@ -51,12 +51,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const url = `${SITE_URL}${ciudad.url}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
-  const titleSuffix =
-    lang === "en"
-      ? " | Travel guide"
-      : lang === "de"
-      ? " | Reiseführer"
-      : ` | ${getDictionary(lang).ciudades.tituloIndice}`;
+  const titleSuffix = SUFIJO_TITULO[lang] ?? ` | ${getDictionary(lang).ciudades.tituloIndice}`;
 
   return {
     title: ciudad.metaTitle ?? `${ciudad.nombre}${titleSuffix}`,
@@ -100,6 +95,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
+const SUFIJO_TITULO: Partial<Record<Idioma, string>> = {
+  en: " | Travel guide",
+  de: " | Reiseführer",
+  fr: " | Guide de voyage",
+  it: " | Guida di viaggio",
+  pt: " | Guia de viagem",
+};
+
+const SOBRE_CIUDAD: Partial<Record<Idioma, (nombre: string) => string>> = {
+  en: (n) => `About ${n}`,
+  de: (n) => `Über ${n}`,
+  fr: (n) => `À propos de ${n}`,
+  it: (n) => `Su ${n}`,
+  pt: (n) => `Sobre ${n}`,
+};
+
 type Strings = {
   guiasTitulo: string;
   guiasDescripcion: string;
@@ -115,40 +126,78 @@ type Strings = {
   atraccionesCta: string;
 };
 
-function getStrings(lang: Idioma, nombreCiudad: string): Strings {
-  if (lang === "en") {
-    return {
-      guiasTitulo: `Guides for ${nombreCiudad}`,
-      guiasDescripcion: "Honest itineraries and practical advice to plan your trip with intent.",
-      guiasCta: "View guides",
-      guiasListaTitulo: `${nombreCiudad} travel guides`,
-      guiasVerTodas: `All guides for ${nombreCiudad}`,
-      minLectura: "min read",
-      actividadesTitulo: `Things to do in ${nombreCiudad}`,
-      actividadesDescripcion: "Hand-picked tours and experiences. Free cancellation included.",
-      actividadesCta: "View activities",
-      atraccionesTitulo: `Attractions in ${nombreCiudad}`,
-      atraccionesDescripcion: "The must-see sights of the city, with photos and context.",
-      atraccionesCta: "View attractions",
-    };
-  }
-  if (lang === "de") {
-    return {
-      guiasTitulo: `Reiseführer für ${nombreCiudad}`,
-      guiasDescripcion: "Ehrliche Routen und praktische Tipps, um deine Reise gezielt zu planen.",
-      guiasCta: "Reiseführer ansehen",
-      guiasListaTitulo: `Reiseführer für ${nombreCiudad}`,
-      guiasVerTodas: `Alle Reiseführer für ${nombreCiudad}`,
-      minLectura: "Min. Lesezeit",
-      actividadesTitulo: `Aktivitäten in ${nombreCiudad}`,
-      actividadesDescripcion: "Handverlesene Touren und Erlebnisse. Kostenlose Stornierung inklusive.",
-      actividadesCta: "Aktivitäten ansehen",
-      atraccionesTitulo: `Sehenswürdigkeiten in ${nombreCiudad}`,
-      atraccionesDescripcion: "Die wichtigsten Sehenswürdigkeiten der Stadt, mit Fotos und Hintergrundinfos.",
-      atraccionesCta: "Sehenswürdigkeiten ansehen",
-    };
-  }
-  return {
+const STRINGS: Record<Idioma, (nombreCiudad: string) => Strings> = {
+  en: (nombreCiudad) => ({
+    guiasTitulo: `Guides for ${nombreCiudad}`,
+    guiasDescripcion: "Honest itineraries and practical advice to plan your trip with intent.",
+    guiasCta: "View guides",
+    guiasListaTitulo: `${nombreCiudad} travel guides`,
+    guiasVerTodas: `All guides for ${nombreCiudad}`,
+    minLectura: "min read",
+    actividadesTitulo: `Things to do in ${nombreCiudad}`,
+    actividadesDescripcion: "Hand-picked tours and experiences. Free cancellation included.",
+    actividadesCta: "View activities",
+    atraccionesTitulo: `Attractions in ${nombreCiudad}`,
+    atraccionesDescripcion: "The must-see sights of the city, with photos and context.",
+    atraccionesCta: "View attractions",
+  }),
+  de: (nombreCiudad) => ({
+    guiasTitulo: `Reiseführer für ${nombreCiudad}`,
+    guiasDescripcion: "Ehrliche Routen und praktische Tipps, um deine Reise gezielt zu planen.",
+    guiasCta: "Reiseführer ansehen",
+    guiasListaTitulo: `Reiseführer für ${nombreCiudad}`,
+    guiasVerTodas: `Alle Reiseführer für ${nombreCiudad}`,
+    minLectura: "Min. Lesezeit",
+    actividadesTitulo: `Aktivitäten in ${nombreCiudad}`,
+    actividadesDescripcion: "Handverlesene Touren und Erlebnisse. Kostenlose Stornierung inklusive.",
+    actividadesCta: "Aktivitäten ansehen",
+    atraccionesTitulo: `Sehenswürdigkeiten in ${nombreCiudad}`,
+    atraccionesDescripcion: "Die wichtigsten Sehenswürdigkeiten der Stadt, mit Fotos und Hintergrundinfos.",
+    atraccionesCta: "Sehenswürdigkeiten ansehen",
+  }),
+  fr: (nombreCiudad) => ({
+    guiasTitulo: `Guides de ${nombreCiudad}`,
+    guiasDescripcion: "Des itinéraires honnêtes et des conseils pratiques pour bien préparer votre voyage.",
+    guiasCta: "Voir les guides",
+    guiasListaTitulo: `Guides de voyage de ${nombreCiudad}`,
+    guiasVerTodas: `Tous les guides de ${nombreCiudad}`,
+    minLectura: "min de lecture",
+    actividadesTitulo: `Activités à ${nombreCiudad}`,
+    actividadesDescripcion: "Visites et expériences sélectionnées avec soin. Annulation gratuite incluse.",
+    actividadesCta: "Voir les activités",
+    atraccionesTitulo: `Sites à voir à ${nombreCiudad}`,
+    atraccionesDescripcion: "Les incontournables de la ville, avec photos et contexte.",
+    atraccionesCta: "Voir les sites",
+  }),
+  it: (nombreCiudad) => ({
+    guiasTitulo: `Guide di ${nombreCiudad}`,
+    guiasDescripcion: "Itinerari onesti e consigli pratici per organizzare il tuo viaggio con criterio.",
+    guiasCta: "Vedi le guide",
+    guiasListaTitulo: `Guide di viaggio di ${nombreCiudad}`,
+    guiasVerTodas: `Tutte le guide di ${nombreCiudad}`,
+    minLectura: "min di lettura",
+    actividadesTitulo: `Attività a ${nombreCiudad}`,
+    actividadesDescripcion: "Tour ed esperienze selezionati con cura. Cancellazione gratuita inclusa.",
+    actividadesCta: "Vedi le attività",
+    atraccionesTitulo: `Attrazioni di ${nombreCiudad}`,
+    atraccionesDescripcion: "Le tappe imperdibili della città, con foto e contesto.",
+    atraccionesCta: "Vedi le attrazioni",
+  }),
+  pt: (nombreCiudad) => ({
+    guiasTitulo: `Guias de ${nombreCiudad}`,
+    guiasDescripcion: "Roteiros honestos e conselhos práticos para planear a sua viagem com critério.",
+    guiasCta: "Ver guias",
+    guiasListaTitulo: `Guias de viagem de ${nombreCiudad}`,
+    guiasVerTodas: `Todos os guias de ${nombreCiudad}`,
+    minLectura: "min de leitura",
+    actividadesTitulo: `Atividades em ${nombreCiudad}`,
+    actividadesDescripcion: "Tours e experiências selecionados com critério. Cancelamento gratuito incluído.",
+    actividadesCta: "Ver atividades",
+    atraccionesTitulo: `Atrações de ${nombreCiudad}`,
+    atraccionesDescripcion: "O imperdível da cidade, com fotos e contexto.",
+    atraccionesCta: "Ver atrações",
+  }),
+  es: (nombreCiudad) => ({
     guiasTitulo: `Guías de ${nombreCiudad}`,
     guiasDescripcion: "Rutas con criterio y consejos honestos para planificar tu viaje.",
     guiasCta: "Ver guías",
@@ -161,7 +210,11 @@ function getStrings(lang: Idioma, nombreCiudad: string): Strings {
     atraccionesTitulo: `Atracciones de ${nombreCiudad}`,
     atraccionesDescripcion: "Lo imprescindible que ver en la ciudad, con foto y contexto.",
     atraccionesCta: "Ver atracciones",
-  };
+  }),
+};
+
+function getStrings(lang: Idioma, nombreCiudad: string): Strings {
+  return STRINGS[lang](nombreCiudad);
 }
 
 export default async function CiudadPage({ params }: Props) {
@@ -271,7 +324,7 @@ export default async function CiudadPage({ params }: Props) {
       <DatosClaveCiudad idioma={lang} datos={ciudad.datosClave ?? []} />
       <article className="max-w-3xl mx-auto px-4 py-10 md:py-14">
         <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-4">
-          {lang === "en" ? `About ${ciudad.nombre}` : lang === "de" ? `Über ${ciudad.nombre}` : ciudad.nombre}
+          {SOBRE_CIUDAD[lang]?.(ciudad.nombre) ?? ciudad.nombre}
         </h2>
         <div
           className="prose-guia text-justify hyphens-auto"

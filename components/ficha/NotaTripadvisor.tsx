@@ -1,6 +1,16 @@
 import type { DatosTripadvisor } from "@/lib/tripadvisor";
 import { textoRankingTripadvisor } from "@/lib/tripadvisor";
 import type { Idioma } from "@/lib/i18n/types";
+import { IDIOMA_LOCALE } from "@/lib/i18n/config";
+
+const OPINIONES: Record<Idioma, string> = {
+  es: "opiniones",
+  en: "reviews",
+  de: "Bewertungen",
+  fr: "avis",
+  it: "recensioni",
+  pt: "avaliações",
+};
 
 type Props = {
   idioma: Idioma;
@@ -14,8 +24,7 @@ type Props = {
  */
 export default function NotaTripadvisor({ idioma, datos }: Props) {
   if (!datos) return null;
-  const es = idioma === "es";
-  const locale = es ? "es-ES" : idioma === "de" ? "de-DE" : "en-GB";
+  const locale = idioma === "en" ? "en-GB" : IDIOMA_LOCALE[idioma];
   const nota = datos.rating.toLocaleString(locale, {
     minimumFractionDigits: 1,
     maximumFractionDigits: 1,
@@ -40,7 +49,7 @@ export default function NotaTripadvisor({ idioma, datos }: Props) {
         href="#opiniones"
         className="underline decoration-piedra-300 underline-offset-2 hover:text-anil-700 hover:decoration-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded-sm"
       >
-        {es ? `${opiniones} opiniones` : idioma === "de" ? `${opiniones} Bewertungen` : `${opiniones} reviews`}
+        {`${opiniones} ${OPINIONES[idioma]}`}
       </a>
       {ranking && (
         <>

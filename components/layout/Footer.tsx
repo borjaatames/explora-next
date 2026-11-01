@@ -119,23 +119,112 @@ const DICT = {
     disclaimerAfiliados:
       "Bei Erlebnissen mit Direktbuchung erfolgt die Zahlung per Karte über das sichere Bókun-Gateway und der Kundenservice von ExploraSpain übernommen. Bei den übrigen Angeboten agieren wir als offizieller Partner von GetYourGuide, wo die Buchung zu den Stornobedingungen der jeweiligen Aktivität abgeschlossen wird.",
   },
-} as const;
+  fr: {
+    tagline:
+      "Visites, activités et guides éditoriaux pour voyager en Espagne en connaissance de cause.",
+    promesaPago: "Paiement 100 % sécurisé",
+    promesaPagoSub: "Via Bókun et des partenaires officiels",
+    promesaConfirmacion: "Confirmation immédiate",
+    promesaConfirmacionSub: "Billet sur votre mobile",
+    promesaSoporte: "Service client",
+    promesaSoporteSub: "Nous vous aidons pour votre réservation",
+    sectionDestinos: "Destinations phares",
+    sectionWeb: "ExploraSpain",
+    verTodas: "Tout voir →",
+    sobreNosotros: "À propos",
+    proveedores: "Partenaires locaux",
+    guias: "Guides de voyage",
+    planificador: "Planificateur de voyage",
+    cruceros: "Excursions en croisière",
+    ciudades: "Villes",
+    contacto: "Contact",
+    avisoLegal: "Mentions légales",
+    condiciones: "Conditions de réservation (EN)",
+    privacidad: "Confidentialité",
+    cookies: "Cookies",
+    pagoSeguro: "Paiement 100 % sécurisé",
+    pagoDirecto: "Réservation directe avec paiement sécurisé par carte (Bókun)",
+    reservaPartners: "Réservations avec des partenaires officiels",
+    direccion: "Madrid",
+    disclaimerAfiliados:
+      "Pour les expériences en réservation directe, le paiement se fait par carte via la passerelle sécurisée de Bókun et le service client est assuré par ExploraSpain. Pour les autres, nous agissons en tant qu’affilié officiel de GetYourGuide, où la réservation est finalisée selon les conditions d’annulation de chaque activité.",
+  },
+  it: {
+    tagline:
+      "Tour, attività e guide editoriali per viaggiare in Spagna con criterio.",
+    promesaPago: "Pagamento sicuro al 100%",
+    promesaPagoSub: "Tramite Bókun e partner ufficiali",
+    promesaConfirmacion: "Conferma immediata",
+    promesaConfirmacionSub: "Biglietto sul cellulare",
+    promesaSoporte: "Assistenza clienti",
+    promesaSoporteSub: "Ti aiutiamo con la tua prenotazione",
+    sectionDestinos: "Destinazioni top",
+    sectionWeb: "ExploraSpain",
+    verTodas: "Vedi tutte →",
+    sobreNosotros: "Chi siamo",
+    proveedores: "Partner locali",
+    guias: "Guide di viaggio",
+    planificador: "Pianificatore di viaggio",
+    cruceros: "Escursioni in crociera",
+    ciudades: "Città",
+    contacto: "Contatti",
+    avisoLegal: "Note legali",
+    condiciones: "Condizioni di prenotazione (EN)",
+    privacidad: "Privacy",
+    cookies: "Cookie",
+    pagoSeguro: "Pagamento sicuro al 100%",
+    pagoDirecto: "Prenotazione diretta con pagamento sicuro con carta (Bókun)",
+    reservaPartners: "Prenotazioni con partner ufficiali",
+    direccion: "Madrid",
+    disclaimerAfiliados:
+      "Per le esperienze con prenotazione diretta, il pagamento avviene con carta tramite il gateway sicuro di Bókun e l’assistenza clienti è fornita da ExploraSpain. Per le altre, agiamo come affiliato ufficiale di GetYourGuide, dove la prenotazione si completa alle condizioni di cancellazione di ciascuna attività.",
+  },
+  pt: {
+    tagline:
+      "Tours, atividades e guias editoriais para viajar por Espanha com critério.",
+    promesaPago: "Pagamento 100% seguro",
+    promesaPagoSub: "Via Bókun e parceiros oficiais",
+    promesaConfirmacion: "Confirmação imediata",
+    promesaConfirmacionSub: "Bilhete no telemóvel",
+    promesaSoporte: "Apoio ao cliente",
+    promesaSoporteSub: "Ajudamos com a sua reserva",
+    sectionDestinos: "Destinos em destaque",
+    sectionWeb: "ExploraSpain",
+    verTodas: "Ver todas →",
+    sobreNosotros: "Sobre nós",
+    proveedores: "Parceiros locais",
+    guias: "Guias de viagem",
+    planificador: "Planeador de viagem",
+    cruceros: "Excursões de cruzeiro",
+    ciudades: "Cidades",
+    contacto: "Contacto",
+    avisoLegal: "Aviso legal",
+    condiciones: "Condições de reserva (EN)",
+    privacidad: "Privacidade",
+    cookies: "Cookies",
+    pagoSeguro: "Pagamento 100% seguro",
+    pagoDirecto: "Reserva direta com pagamento seguro com cartão (Bókun)",
+    reservaPartners: "Reservas com parceiros oficiais",
+    direccion: "Madrid",
+    disclaimerAfiliados:
+      "Nas experiências de reserva direta, o pagamento é feito com cartão no portal seguro da Bókun e o apoio ao cliente é prestado pela ExploraSpain. Nas restantes, atuamos como afiliado oficial da GetYourGuide, onde a reserva é concluída com as condições de cancelamento de cada atividade.",
+  },
+} as const satisfies Record<Idioma, Record<string, string>>;
 
-/** Ciudades destacadas en el footer. Slug -> nombre ES/EN/DE. */
+/** Ciudades destacadas en el footer. Slug -> nombre por idioma (por defecto el ES). */
 const CIUDADES_TOP: ReadonlyArray<{
   slug: string;
   nombreEs: string;
-  nombreEn: string;
-  nombreDe: string;
+  nombres?: Partial<Record<Idioma, string>>;
 }> = [
-  { slug: "madrid", nombreEs: "Madrid", nombreEn: "Madrid", nombreDe: "Madrid" },
-  { slug: "barcelona", nombreEs: "Barcelona", nombreEn: "Barcelona", nombreDe: "Barcelona" },
-  { slug: "sevilla", nombreEs: "Sevilla", nombreEn: "Seville", nombreDe: "Sevilla" },
-  { slug: "granada", nombreEs: "Granada", nombreEn: "Granada", nombreDe: "Granada" },
-  { slug: "valencia", nombreEs: "Valencia", nombreEn: "Valencia", nombreDe: "Valencia" },
-  { slug: "malaga", nombreEs: "Málaga", nombreEn: "Málaga", nombreDe: "Málaga" },
-  { slug: "cordoba", nombreEs: "Córdoba", nombreEn: "Cordoba", nombreDe: "Córdoba" },
-  { slug: "girona", nombreEs: "Girona", nombreEn: "Girona", nombreDe: "Girona" },
+  { slug: "madrid", nombreEs: "Madrid" },
+  { slug: "barcelona", nombreEs: "Barcelona" },
+  { slug: "sevilla", nombreEs: "Sevilla", nombres: { en: "Seville", fr: "Séville", it: "Siviglia", pt: "Sevilha" } },
+  { slug: "granada", nombreEs: "Granada", nombres: { fr: "Grenade" } },
+  { slug: "valencia", nombreEs: "Valencia", nombres: { fr: "Valence", pt: "Valência" } },
+  { slug: "malaga", nombreEs: "Málaga", nombres: { fr: "Malaga", it: "Malaga" } },
+  { slug: "cordoba", nombreEs: "Córdoba", nombres: { en: "Cordoba", fr: "Cordoue", it: "Cordova", pt: "Córdova" } },
+  { slug: "girona", nombreEs: "Girona", nombres: { fr: "Gérone" } },
 ];
 
 function urlAbout(idioma: Idioma): string {
@@ -144,11 +233,9 @@ function urlAbout(idioma: Idioma): string {
 
 function nombreCiudadTop(
   idioma: Idioma,
-  c: { nombreEs: string; nombreEn: string; nombreDe: string }
+  c: { nombreEs: string; nombres?: Partial<Record<Idioma, string>> }
 ): string {
-  if (idioma === "en") return c.nombreEn;
-  if (idioma === "de") return c.nombreDe;
-  return c.nombreEs;
+  return c.nombres?.[idioma] ?? c.nombreEs;
 }
 
 type Props = {
@@ -156,7 +243,10 @@ type Props = {
 };
 
 export default function Footer({ idioma }: Props) {
-  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
+  const t = DICT[idioma];
+  // Guías, planificador y cruceros solo existen en ES/EN (guías también en DE).
+  const hayGuias = idioma === "es" || idioma === "en" || idioma === "de";
+  const hayPlanYCruceros = idioma === "es" || idioma === "en";
   const year = new Date().getFullYear();
 
   return (
@@ -267,16 +357,18 @@ export default function Footer({ idioma }: Props) {
                   {t.proveedores}
                 </Link>
               </li>
-              <li>
-                <Link
-                  href={urlIndiceGuias(idioma)}
+              {hayGuias ? (
+                <li>
+                  <Link
+                    href={urlIndiceGuias(idioma)}
                     prefetch={false}
-                  className="hover:text-white transition-colors"
-                >
-                  {t.guias}
-                </Link>
-              </li>
-              {idioma !== "de" ? (
+                    className="hover:text-white transition-colors"
+                  >
+                    {t.guias}
+                  </Link>
+                </li>
+              ) : null}
+              {hayPlanYCruceros ? (
                 <li>
                   <Link
                     href={urlPlanificador(idioma)}
@@ -287,7 +379,7 @@ export default function Footer({ idioma }: Props) {
                   </Link>
                 </li>
               ) : null}
-              {idioma !== "de" ? (
+              {hayPlanYCruceros ? (
                 <li>
                   <Link
                     href={urlCruceros(idioma)}

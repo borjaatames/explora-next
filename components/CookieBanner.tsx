@@ -41,7 +41,37 @@ const DICT = {
     rechazar: "Ablehnen",
     aceptar: "Akzeptieren",
   },
-} as const;
+  fr: {
+    titulo: "Nous utilisons des cookies pour comprendre comment le site est utilisé",
+    texto:
+      "Mesure d’audience avec Google Analytics 4. Nous ne vendons pas vos données. Plus d’informations dans notre",
+    politicaCookies: "Politique de cookies",
+    politicaPrivacidad: "Confidentialité",
+    y: "et",
+    rechazar: "Refuser",
+    aceptar: "Accepter",
+  },
+  it: {
+    titulo: "Usiamo i cookie per capire come viene utilizzato il sito",
+    texto:
+      "Analisi con Google Analytics 4. Non vendiamo i tuoi dati. Maggiori informazioni in",
+    politicaCookies: "Cookie policy",
+    politicaPrivacidad: "Privacy",
+    y: "e",
+    rechazar: "Rifiuta",
+    aceptar: "Accetta",
+  },
+  pt: {
+    titulo: "Usamos cookies para perceber como o site é utilizado",
+    texto:
+      "Análise com o Google Analytics 4. Não vendemos os seus dados. Mais informações em",
+    politicaCookies: "Política de cookies",
+    politicaPrivacidad: "Privacidade",
+    y: "e",
+    rechazar: "Rejeitar",
+    aceptar: "Aceitar",
+  },
+} as const satisfies Record<Idioma, Record<string, string>>;
 
 type Props = {
   idioma: Idioma;
@@ -60,7 +90,7 @@ type Props = {
  *   - GA4 NO carga hasta que se pulsa "Aceptar" (lo gestiona Analytics.tsx).
  */
 export default function CookieBanner({ idioma }: Props) {
-  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
+  const t = DICT[idioma];
 
   const [visible, setVisible] = useState(false);
   const bannerRef = useRef<HTMLDivElement>(null);

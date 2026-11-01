@@ -27,7 +27,7 @@ type Textos = {
   idiomas: Record<string, string>;
 };
 
-const TEXTOS: Record<"es" | "en" | "de", Textos> = {
+const TEXTOS: Record<Idioma, Textos> = {
   es: {
     aria: "Datos clave de la actividad",
     cancelacion: (h) => (h ? `Cancelación gratis hasta ${h} h antes` : "Cancelación gratis"),
@@ -60,6 +60,39 @@ const TEXTOS: Record<"es" | "en" | "de", Textos> = {
     movil: "Handy-Ticket",
     confirmacion: "Sofortige Bestätigung",
     idiomas: { es: "Spanisch", en: "Englisch", fr: "Französisch", de: "Deutsch", it: "Italienisch", pt: "Portugiesisch", ca: "Katalanisch", nl: "Niederländisch" },
+  },
+  fr: {
+    aria: "L'essentiel de l'activité",
+    cancelacion: (h) => (h ? `Annulation gratuite jusqu'à ${h} h avant` : "Annulation gratuite"),
+    privada: "Privé : uniquement votre groupe",
+    grupoReducido: "Petit groupe",
+    sinColas: "Accès coupe-file",
+    movilConfirmacion: "Billet sur mobile et confirmation immédiate",
+    movil: "Billet sur mobile",
+    confirmacion: "Confirmation immédiate",
+    idiomas: { es: "Espagnol", en: "Anglais", fr: "Français", de: "Allemand", it: "Italien", pt: "Portugais", ca: "Catalan", nl: "Néerlandais" },
+  },
+  it: {
+    aria: "Informazioni principali sull'attività",
+    cancelacion: (h) => (h ? `Cancellazione gratuita fino a ${h} ore prima` : "Cancellazione gratuita"),
+    privada: "Privato: solo il tuo gruppo",
+    grupoReducido: "Piccolo gruppo",
+    sinColas: "Ingresso salta fila",
+    movilConfirmacion: "Biglietto sul cellulare e conferma immediata",
+    movil: "Biglietto sul cellulare",
+    confirmacion: "Conferma immediata",
+    idiomas: { es: "Spagnolo", en: "Inglese", fr: "Francese", de: "Tedesco", it: "Italiano", pt: "Portoghese", ca: "Catalano", nl: "Olandese" },
+  },
+  pt: {
+    aria: "Dados principais da atividade",
+    cancelacion: (h) => (h ? `Cancelamento gratuito até ${h} h antes` : "Cancelamento gratuito"),
+    privada: "Privado: apenas o seu grupo",
+    grupoReducido: "Grupo reduzido",
+    sinColas: "Acesso sem filas",
+    movilConfirmacion: "Bilhete no telemóvel e confirmação imediata",
+    movil: "Bilhete no telemóvel",
+    confirmacion: "Confirmação imediata",
+    idiomas: { es: "Espanhol", en: "Inglês", fr: "Francês", de: "Alemão", it: "Italiano", pt: "Português", ca: "Catalão", nl: "Neerlandês" },
   },
 };
 
@@ -111,12 +144,15 @@ export default function DatosClave({
   horasCancelacion,
   detalles,
 }: Props) {
-  const t = idioma === "es" ? TEXTOS.es : idioma === "de" ? TEXTOS.de : TEXTOS.en;
+  const t = TEXTOS[idioma];
   const textoActividad = [titulo, ...highlights].join(" ");
 
-  // En alemán, «Deutsch» primero: es lo que ha venido a buscar quien lee la ficha.
+  // En DE/FR/IT/PT, el idioma de la página primero: es lo que ha venido a buscar quien lee la ficha.
+  const primeroIdiomaPagina = idioma === "de" || idioma === "fr" || idioma === "it" || idioma === "pt";
   const idiomasOrden =
-    idioma === "de" && idiomas.includes("de") ? ["de", ...idiomas.filter((c) => c !== "de")] : idiomas;
+    primeroIdiomaPagina && idiomas.includes(idioma)
+      ? [idioma, ...idiomas.filter((c) => c !== idioma)]
+      : idiomas;
   const nombresIdiomas = idiomasOrden.map((c) => t.idiomas[c] ?? c.toUpperCase());
   const idiomasTexto =
     nombresIdiomas.length > 3

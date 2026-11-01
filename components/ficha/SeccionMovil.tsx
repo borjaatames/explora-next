@@ -12,7 +12,7 @@ export type SeccionFicha =
   | "cancelacion"
   | "faq";
 
-const TITULOS: Record<"es" | "en" | "de", Record<SeccionFicha, string>> = {
+const TITULOS: Record<Idioma, Record<SeccionFicha, string>> = {
   es: {
     incluye: "Qué incluye y qué no",
     info: "Información importante",
@@ -40,6 +40,33 @@ const TITULOS: Record<"es" | "en" | "de", Record<SeccionFicha, string>> = {
     cancelacion: "Stornierungsbedingungen",
     faq: "Häufige Fragen",
   },
+  fr: {
+    incluye: "Ce qui est inclus",
+    info: "Informations importantes",
+    encuentro: "Point de rendez-vous",
+    experiencia: "L'expérience",
+    accesibilidad: "Accessibilité",
+    cancelacion: "Conditions d'annulation",
+    faq: "Questions fréquentes",
+  },
+  it: {
+    incluye: "Cosa è incluso",
+    info: "Informazioni importanti",
+    encuentro: "Punto d'incontro",
+    experiencia: "L'esperienza",
+    accesibilidad: "Accessibilità",
+    cancelacion: "Politica di cancellazione",
+    faq: "Domande frequenti",
+  },
+  pt: {
+    incluye: "O que está incluído",
+    info: "Informações importantes",
+    encuentro: "Ponto de encontro",
+    experiencia: "A experiência",
+    accesibilidad: "Acessibilidade",
+    cancelacion: "Política de cancelamento",
+    faq: "Perguntas frequentes",
+  },
 };
 
 type Props = {
@@ -64,7 +91,7 @@ export default function SeccionMovil({
 }: Props) {
   const [abierto, setAbierto] = useState(false);
   const id = useId();
-  const titulo = (idioma === "es" ? TITULOS.es : idioma === "de" ? TITULOS.de : TITULOS.en)[seccion];
+  const titulo = TITULOS[idioma][seccion];
 
   return (
     <div className="border-b border-piedra-200 md:border-0">

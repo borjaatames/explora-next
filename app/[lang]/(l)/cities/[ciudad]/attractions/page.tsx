@@ -28,6 +28,73 @@ type Props = {
   params: { lang: string; ciudad: string };
 };
 
+type TextosAtracciones = {
+  noEncontrada: string;
+  titulo: (ciudad: string) => string;
+  descripcion: (ciudad: string, lista: string) => string;
+  subtitulo: (ciudad: string) => string;
+  migaAtracciones: string;
+  verActividades: (ciudad: string) => string;
+  ariaMigas: string;
+};
+
+const TEXTOS: Record<Idioma, TextosAtracciones> = {
+  es: {
+    noEncontrada: "Página no encontrada",
+    titulo: (c) => `Las mejores atracciones de ${c}`,
+    descripcion: (c, l) => `Lo imprescindible que ver en ${c}: ${l}.`,
+    subtitulo: (c) => `Lo imprescindible que ver en ${c}, con foto y contexto.`,
+    migaAtracciones: "Atracciones",
+    verActividades: (c) => `Ver actividades en ${c} →`,
+    ariaMigas: "Migas de pan",
+  },
+  en: {
+    noEncontrada: "Page not found",
+    titulo: (c) => `Top attractions in ${c}`,
+    descripcion: (c, l) => `What you can't miss in ${c}: ${l}.`,
+    subtitulo: (c) => `What you can't miss in ${c}, with photos and context.`,
+    migaAtracciones: "Attractions",
+    verActividades: (c) => `See activities in ${c} →`,
+    ariaMigas: "Breadcrumb",
+  },
+  de: {
+    noEncontrada: "Seite nicht gefunden",
+    titulo: (c) => `Die besten Sehenswürdigkeiten in ${c}`,
+    descripcion: (c, l) => `Was man in ${c} nicht verpassen sollte: ${l}.`,
+    subtitulo: (c) => `Was man in ${c} nicht verpassen sollte, mit Fotos und Hintergrundinfos.`,
+    migaAtracciones: "Sehenswürdigkeiten",
+    verActividades: (c) => `Aktivitäten in ${c} ansehen →`,
+    ariaMigas: "Brotkrümel",
+  },
+  fr: {
+    noEncontrada: "Page introuvable",
+    titulo: (c) => `Les plus beaux sites à voir à ${c}`,
+    descripcion: (c, l) => `Les incontournables de ${c} : ${l}.`,
+    subtitulo: (c) => `Les incontournables de ${c}, avec photos et contexte.`,
+    migaAtracciones: "Sites à voir",
+    verActividades: (c) => `Voir les activités à ${c} →`,
+    ariaMigas: "Fil d'Ariane",
+  },
+  it: {
+    noEncontrada: "Pagina non trovata",
+    titulo: (c) => `Le migliori attrazioni di ${c}`,
+    descripcion: (c, l) => `Cosa non perdere a ${c}: ${l}.`,
+    subtitulo: (c) => `Cosa non perdere a ${c}, con foto e contesto.`,
+    migaAtracciones: "Attrazioni",
+    verActividades: (c) => `Vedi le attività a ${c} →`,
+    ariaMigas: "Percorso di navigazione",
+  },
+  pt: {
+    noEncontrada: "Página não encontrada",
+    titulo: (c) => `As melhores atrações de ${c}`,
+    descripcion: (c, l) => `O que não pode perder em ${c}: ${l}.`,
+    subtitulo: (c) => `O que não pode perder em ${c}, com fotos e contexto.`,
+    migaAtracciones: "Atrações",
+    verActividades: (c) => `Ver atividades em ${c} →`,
+    ariaMigas: "Navegação estrutural",
+  },
+};
+
 export async function generateStaticParams() {
   return obtenerTodosLosCaminosCiudades()
     .filter((c) => c.idioma !== "es")
@@ -45,22 +112,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Mismo criterio que el componente de página (más abajo): sin
   // atracciones para este idioma+ciudad, la página hace notFound().
   if ((ciudad.atracciones ?? []).length === 0) {
-    return { title: lang === "de" ? "Seite nicht gefunden" : "Page not found", robots: { index: false, follow: false } };
+    return { title: TEXTOS[lang].noEncontrada, robots: { index: false, follow: false } };
   }
 
   const url = `${SITE_URL}${urlAtraccionesDeCiudad(lang, params.ciudad)}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
-  const titulo = lang === "en"
-    ? `Top attractions in ${ciudad.nombre}`
-    : lang === "de"
-    ? `Die besten Sehenswürdigkeiten in ${ciudad.nombre}`
-    : `Las mejores atracciones de ${ciudad.nombre}`;
+  const t = TEXTOS[lang];
+  const titulo = t.titulo(ciudad.nombre);
   const lista = (ciudad.atracciones ?? []).map((a) => a.nombre).slice(0, 5).join(", ");
-  const descripcion = lang === "en"
-    ? `What you can't miss in ${ciudad.nombre}: ${lista}.`
-    : lang === "de"
-    ? `Was man in ${ciudad.nombre} nicht verpassen sollte: ${lista}.`
-    : `Lo imprescindible que ver en ${ciudad.nombre}: ${lista}.`;
+  const descripcion = t.descripcion(ciudad.nombre, lista);
 
   return {
     title: titulo,
@@ -107,23 +167,11 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
   const ciudadUrl = `${SITE_URL}${ciudad.url}`;
   const atraccionesUrl = `${SITE_URL}${urlAtraccionesDeCiudad(lang, params.ciudad)}`;
 
-  const titulo = lang === "en"
-    ? `Top attractions in ${ciudad.nombre}`
-    : lang === "de"
-    ? `Die besten Sehenswürdigkeiten in ${ciudad.nombre}`
-    : `Las mejores atracciones de ${ciudad.nombre}`;
-  const subtitulo = lang === "en"
-    ? `What you can't miss in ${ciudad.nombre}, with photos and context.`
-    : lang === "de"
-    ? `Was man in ${ciudad.nombre} nicht verpassen sollte, mit Fotos und Hintergrundinfos.`
-    : `Lo imprescindible que ver en ${ciudad.nombre}, con foto y contexto.`;
-  const breadcrumbAtracciones =
-    lang === "en" ? "Attractions" : lang === "de" ? "Sehenswürdigkeiten" : "Atracciones";
-  const verActividades = lang === "en"
-    ? `See activities in ${ciudad.nombre} →`
-    : lang === "de"
-    ? `Aktivitäten in ${ciudad.nombre} ansehen →`
-    : `Ver actividades en ${ciudad.nombre} →`;
+  const t = TEXTOS[lang];
+  const titulo = t.titulo(ciudad.nombre);
+  const subtitulo = t.subtitulo(ciudad.nombre);
+  const breadcrumbAtracciones = t.migaAtracciones;
+  const verActividades = t.verActividades(ciudad.nombre);
 
   const breadcrumbsLd = {
     "@context": "https://schema.org",
@@ -145,7 +193,7 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
 
       <header className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <nav aria-label="Breadcrumb" className="text-sm text-anil-100 mb-4">
+          <nav aria-label={t.ariaMigas} className="text-sm text-anil-100 mb-4">
             <Link href={prefijoIdioma(lang) || "/"} className="hover:text-white">
               {dict.navegacion.inicio}
             </Link>

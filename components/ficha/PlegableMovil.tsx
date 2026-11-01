@@ -12,7 +12,10 @@ const TEXTOS = {
   es: { mas: "Ver más", menos: "Ver menos" },
   en: { mas: "Show more", menos: "Show less" },
   de: { mas: "Mehr anzeigen", menos: "Weniger anzeigen" },
-} as const;
+  fr: { mas: "Voir plus", menos: "Voir moins" },
+  it: { mas: "Mostra di più", menos: "Mostra meno" },
+  pt: { mas: "Ver mais", menos: "Ver menos" },
+} as const satisfies Record<Idioma, { mas: string; menos: string }>;
 
 /**
  * En móvil muestra el principio de la sección (unos 176 px) con un
@@ -21,7 +24,7 @@ const TEXTOS = {
  */
 export default function PlegableMovil({ idioma, children }: Props) {
   const [abierto, setAbierto] = useState(false);
-  const t = idioma === "es" ? TEXTOS.es : idioma === "de" ? TEXTOS.de : TEXTOS.en;
+  const t = TEXTOS[idioma];
 
   return (
     <div>

@@ -2,6 +2,7 @@ import type { ParadaMapa } from "@/lib/mapasGuias";
 import { obtenerListaActividadesPorCiudad } from "./actividades";
 import type { ActividadListItem } from "./actividades";
 import type { Idioma } from "./i18n/types";
+import { IDIOMA_LOCALE } from "./i18n/config";
 
 // =============================================================================
 // Reservas dentro de una guía editorial
@@ -38,9 +39,10 @@ export type TrozoGuia =
   | { tipo: "mapa"; dia: number; paradas: ParadaMapa[] };
 
 /**
- * Idioma base de las fichas de una guía. Las guías DE parten de las fichas EN
- * (hay muchas más) y `preferirFichasDe` cambia por su versión alemana las que
- * la tienen (actividades que se hacen en alemán).
+ * Idioma base de las fichas de una guía. Las guías que no son ES/EN (hoy, DE)
+ * parten de las fichas EN (hay muchas más) y `preferirFichasDe` cambia por la
+ * versión en el idioma de la guía las que la tienen (actividades que se hacen
+ * en ese idioma).
  */
 export function idiomaFichas(idioma: Idioma): Idioma {
   return idioma === "es" ? "es" : "en";
@@ -72,8 +74,8 @@ export function indexarFichasCiudad(
       indice.set(a.slug, a);
       if (a.slugs?.es) indice.set(a.slugs.es, a);
     }
-    if (idioma === "de") {
-      for (const a of obtenerListaActividadesPorCiudad("de", c)) {
+    if (idioma !== idiomaFichas(idioma)) {
+      for (const a of obtenerListaActividadesPorCiudad(idioma, c)) {
         indice.set(a.slug, a);
         if (a.slugs?.es) indice.set(a.slugs.es, a);
         if (a.slugs?.en) indice.set(a.slugs.en, a);
@@ -84,20 +86,21 @@ export function indexarFichasCiudad(
 }
 
 /**
- * En alemán, cambia cada ficha EN por su versión DE cuando existe (misma
- * `slugs.es`). En ES/EN devuelve la lista tal cual.
+ * En los idiomas que no son ES/EN, cambia cada ficha EN por su versión en el
+ * idioma de la guía cuando existe (misma `slugs.es`). En ES/EN devuelve la
+ * lista tal cual.
  */
 export function preferirFichasDe(
   idioma: Idioma,
   lista: ActividadListItem[]
 ): ActividadListItem[] {
-  if (idioma !== "de") return lista;
+  if (idioma === idiomaFichas(idioma)) return lista;
   const porCiudad = new Map<string, Map<string, ActividadListItem>>();
   const fichaDe = (a: ActividadListItem): ActividadListItem | undefined => {
     let mapa = porCiudad.get(a.ciudad);
     if (!mapa) {
       mapa = new Map(
-        obtenerListaActividadesPorCiudad("de", a.ciudad).map((d) => [d.slugs?.es ?? d.slug, d])
+        obtenerListaActividadesPorCiudad(idioma, a.ciudad).map((d) => [d.slugs?.es ?? d.slug, d])
       );
       porCiudad.set(a.ciudad, mapa);
     }
@@ -134,13 +137,11 @@ export function slugsInline(trozos: TrozoGuia[]): string[] {
   return trozos.flatMap((t) => (t.tipo === "actividad" ? [t.slug] : []));
 }
 
-const LOCALE: Record<string, string> = { es: "es-ES", en: "en-US", de: "de-DE" };
-
 export function formatearPrecio(
   a: Pick<ActividadListItem, "precioDesde" | "moneda">,
   idioma: Idioma
 ): string {
-  return new Intl.NumberFormat(LOCALE[idioma] ?? "es-ES", {
+  return new Intl.NumberFormat(IDIOMA_LOCALE[idioma], {
     style: "currency",
     currency: a.moneda,
     maximumFractionDigits: 0,
@@ -152,7 +153,7 @@ export function formatearRating(
   idioma: Idioma
 ): string | null {
   if (a.ratingProveedor === undefined) return null;
-  return a.ratingProveedor.toLocaleString(LOCALE[idioma] ?? "es-ES", {
+  return a.ratingProveedor.toLocaleString(IDIOMA_LOCALE[idioma], {
     minimumFractionDigits: 1,
     maximumFractionDigits: 1,
   });
@@ -163,12 +164,12 @@ export function formatearOpiniones(
   idioma: Idioma
 ): string | null {
   if (!a.numeroOpiniones) return null;
-  return a.numeroOpiniones.toLocaleString(LOCALE[idioma] ?? "es-ES");
+  return a.numeroOpiniones.toLocaleString(IDIOMA_LOCALE[idioma]);
 }
 
-// Enlaces internos a fichas en cualquiera de los tres idiomas activos.
+// Enlaces internos a fichas en cualquiera de los idiomas activos.
 const RE_ENLACE_FICHA =
-  /<a href="(\/ciudades\/[^/"]+\/actividades\/([a-z0-9-]+)|\/(?:en|de)\/cities\/[^/"]+\/activities\/([a-z0-9-]+))">([\s\S]*?)<\/a>/g;
+  /<a href="(\/ciudades\/[^/"]+\/actividades\/([a-z0-9-]+)|\/(?:en|de|fr|it|pt)\/cities\/[^/"]+\/activities\/([a-z0-9-]+))">([\s\S]*?)<\/a>/g;
 
 /**
  * Añade a cada enlace a una ficha publicada:
@@ -211,10 +212,13 @@ export function enriquecerEnlacesFichas(
     .join("");
 }
 
-const TEXTO_BOTON_TABLA: Record<string, string> = {
+const TEXTO_BOTON_TABLA: Record<Idioma, string> = {
   es: "Reservar",
   en: "Book",
   de: "Buchen",
+  fr: "Réserver",
+  it: "Prenota",
+  pt: "Reservar",
 };
 
 // `!` porque `.prose-guia a` (globals.css) tiene más especificidad que las utilidades.
@@ -226,7 +230,7 @@ const CLASES_BOTON_TABLA =
  * añade al final un botón «Reservar» hacia la misma ficha. Un botón por celda.
  */
 function anadirBotonesTabla(tabla: string, idioma: Idioma): string {
-  const texto = TEXTO_BOTON_TABLA[idioma] ?? TEXTO_BOTON_TABLA.es;
+  const texto = TEXTO_BOTON_TABLA[idioma];
   return tabla.replace(/(<td[^>]*>)([\s\S]*?)(<\/td>)/g, (celda: string, apertura: string, contenido: string, cierre: string) => {
     const m = contenido.match(/<a href="([^"]+)" data-reserva="tabla" data-ficha="([^"]+)">/);
     if (!m) return celda;

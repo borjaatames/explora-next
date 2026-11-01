@@ -45,6 +45,39 @@ const TEXTOS = {
     mensaje: (t: string) => `Hallo, ich habe eine Frage zu „${t}“.`,
     condiciones: "Buchungsbedingungen (EN)",
   },
+  fr: {
+    cabecera: "Réserver avec ExploraSpain",
+    empresa: "Entreprise espagnole : Skyward Partners S.L., Madrid",
+    pago: "Paiement par carte sur la plateforme sécurisée de Bókun ; nous ne voyons jamais vos données de paiement",
+    confirmacion: "Confirmation immédiate par e-mail",
+    cancelacion: (h?: number) =>
+      h ? `Annulation gratuite jusqu'à ${h} h avant, remboursement intégral` : "Annulation gratuite",
+    dudas: "Une question avant de réserver ? Écrivez-nous sur WhatsApp",
+    mensaje: (t: string) => `Bonjour, j'ai une question sur « ${t} ».`,
+    condiciones: "Conditions de réservation (EN)",
+  },
+  it: {
+    cabecera: "Prenota con ExploraSpain",
+    empresa: "Azienda spagnola: Skyward Partners S.L., Madrid",
+    pago: "Pagamento con carta sul checkout sicuro di Bókun; non vediamo mai i tuoi dati di pagamento",
+    confirmacion: "Conferma immediata via e-mail",
+    cancelacion: (h?: number) =>
+      h ? `Cancellazione gratuita fino a ${h} ore prima, con rimborso completo` : "Cancellazione gratuita",
+    dudas: "Dubbi prima di prenotare? Scrivici su WhatsApp",
+    mensaje: (t: string) => `Ciao, ho una domanda su «${t}».`,
+    condiciones: "Condizioni di prenotazione (EN)",
+  },
+  pt: {
+    cabecera: "Reservar com a ExploraSpain",
+    empresa: "Empresa espanhola: Skyward Partners S.L., Madrid",
+    pago: "Pagamento com cartão na plataforma segura da Bókun; não vemos os seus dados de pagamento",
+    confirmacion: "Confirmação imediata por e-mail",
+    cancelacion: (h?: number) =>
+      h ? `Cancelamento gratuito até ${h} h antes, com reembolso total` : "Cancelamento gratuito",
+    dudas: "Dúvidas antes de reservar? Escreva-nos pelo WhatsApp",
+    mensaje: (t: string) => `Olá, tenho uma dúvida sobre «${t}».`,
+    condiciones: "Condições de reserva (EN)",
+  },
 } as const;
 
 /**
@@ -59,7 +92,7 @@ export default function ConfianzaReservaBokun({
   cancelacionGratuita,
   horasCancelacion,
 }: Props) {
-  const t = TEXTOS[idioma === "en" || idioma === "de" ? idioma : "es"];
+  const t = TEXTOS[idioma];
   const puntos = [
     t.empresa,
     t.pago,

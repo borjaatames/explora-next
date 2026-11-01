@@ -10,16 +10,17 @@ type Strings = {
   titulo: string;
 };
 
-const DICT: Record<"es" | "en" | "de", Strings> = {
+const DICT: Record<Idioma, Strings> = {
   es: { titulo: "Preguntas frecuentes" },
   en: { titulo: "Frequently asked questions" },
   de: { titulo: "Häufige Fragen" },
+  fr: { titulo: "Questions fréquentes" },
+  it: { titulo: "Domande frequenti" },
+  pt: { titulo: "Perguntas frequentes" },
 };
 
 function dictFor(idioma: Idioma): Strings {
-  if (idioma === "es") return DICT.es;
-  if (idioma === "de") return DICT.de;
-  return DICT.en;
+  return DICT[idioma];
 }
 
 /**

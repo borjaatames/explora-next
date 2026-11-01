@@ -30,7 +30,7 @@ import { urlWhatsApp } from "@/lib/contacto";
 const UMBRAL_PX = 8;
 
 
-const DICT: Record<"es" | "en" | "de", { aria: string; tooltip: string; mensaje: string }> = {
+const DICT: Record<Idioma, { aria: string; tooltip: string; mensaje: string }> = {
   es: {
     aria: "Contactar por WhatsApp",
     tooltip: "Hablar con un experto",
@@ -46,10 +46,25 @@ const DICT: Record<"es" | "en" | "de", { aria: string; tooltip: string; mensaje:
     tooltip: "Mit einem Experten sprechen",
     mensaje: "Hallo, ich habe eine Frage zu den Erlebnissen von ExploraSpain.",
   },
+  fr: {
+    aria: "Nous contacter sur WhatsApp",
+    tooltip: "Parler à un expert",
+    mensaje: "Bonjour, j’ai une question sur les expériences d’ExploraSpain.",
+  },
+  it: {
+    aria: "Contattaci su WhatsApp",
+    tooltip: "Parla con un esperto",
+    mensaje: "Ciao, ho una domanda sulle esperienze di ExploraSpain.",
+  },
+  pt: {
+    aria: "Contactar por WhatsApp",
+    tooltip: "Falar com um especialista",
+    mensaje: "Olá, tenho uma questão sobre as experiências da ExploraSpain.",
+  },
 };
 
 export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
-  const t = idioma === "es" ? DICT.es : idioma === "de" ? DICT.de : DICT.en;
+  const t = DICT[idioma];
   const href = urlWhatsApp(t.mensaje);
 
   const [oculto, setOculto] = useState<boolean>(false);

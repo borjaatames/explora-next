@@ -40,7 +40,28 @@ const TEXTOS = {
     desde: "ab",
     ver: "Ansehen",
   },
-} as const;
+  fr: {
+    titulo: "Autres versions de cette activité",
+    subtitulo: "Même activité, autre format ou autre prix.",
+    estaFicha: "Vous êtes ici",
+    desde: "à partir de",
+    ver: "Voir",
+  },
+  it: {
+    titulo: "Altre versioni di questa attività",
+    subtitulo: "Stessa attività, formato o prezzo diverso.",
+    estaFicha: "Sei qui",
+    desde: "da",
+    ver: "Vedi",
+  },
+  pt: {
+    titulo: "Outras versões desta atividade",
+    subtitulo: "A mesma atividade, com outro formato ou preço.",
+    estaFicha: "Está aqui",
+    desde: "desde",
+    ver: "Ver",
+  },
+} as const satisfies Record<Idioma, unknown>;
 
 /**
  * Comparador corto de variantes de la misma actividad (patrón de Civitatis,
@@ -49,7 +70,7 @@ const TEXTOS = {
  */
 export default function OtrasVersiones({ idioma, actual, versiones }: Props) {
   if (versiones.length === 0) return null;
-  const t = idioma === "es" ? TEXTOS.es : idioma === "de" ? TEXTOS.de : TEXTOS.en;
+  const t = TEXTOS[idioma];
   const filas = versiones.slice(0, 3);
 
   const meta = (a: Actual) => {

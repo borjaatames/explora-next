@@ -38,7 +38,40 @@ const DICT = {
     verDestinos: "Oder alle Reiseziele ansehen",
     planificador: null,
   },
-} as const;
+  fr: {
+    antetitulo: "Experts locaux · Réservation sécurisée",
+    titulo: "Visites et activités en Espagne, choisies avec soin",
+    subtitulo:
+      "Des activités sélectionnées, des conseils d’experts locaux et une réservation sécurisée, au même endroit.",
+    etiqueta: "Où allez-vous ?",
+    placeholder: "Madrid, Grenade, Tenerife…",
+    boton: "Rechercher",
+    verDestinos: "Ou parcourez toutes les destinations",
+    planificador: null,
+  },
+  it: {
+    antetitulo: "Esperti locali · Prenotazione sicura",
+    titulo: "Tour e attività in Spagna, scelti con cura",
+    subtitulo:
+      "Attività selezionate, consigli di esperti locali e prenotazione sicura in un unico posto.",
+    etiqueta: "Dove vai?",
+    placeholder: "Madrid, Granada, Tenerife…",
+    boton: "Cerca",
+    verDestinos: "Oppure esplora tutte le destinazioni",
+    planificador: null,
+  },
+  pt: {
+    antetitulo: "Especialistas locais · Reserva segura",
+    titulo: "Tours e atividades em Espanha, escolhidos com critério",
+    subtitulo:
+      "Atividades selecionadas, conselhos de especialistas locais e reserva segura num só lugar.",
+    etiqueta: "Para onde vai?",
+    placeholder: "Madrid, Granada, Tenerife…",
+    boton: "Pesquisar",
+    verDestinos: "Ou explore todos os destinos",
+    planificador: null,
+  },
+} as const satisfies Record<Idioma, Record<string, string | null>>;
 
 type Props = {
   idioma: Idioma;
@@ -53,7 +86,7 @@ export default function HeroHome({
   urlTodos,
   anclaDestinos,
 }: Props) {
-  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
+  const t = DICT[idioma];
 
   return (
     <section className="relative isolate overflow-hidden text-white">

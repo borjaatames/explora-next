@@ -38,7 +38,7 @@ type Strings = {
   fotos: (n: number) => string;
 };
 
-const DICT: Record<"es" | "en" | "de", Strings> = {
+const DICT: Record<Idioma, Strings> = {
   es: {
     selloLargo: "Recomendado por la redacción",
     selloCorto: "Recomendado",
@@ -63,12 +63,34 @@ const DICT: Record<"es" | "en" | "de", Strings> = {
     verFotosRestantes: (n: number) => `Die restlichen ${n} Fotos ansehen`,
     fotos: (n: number) => `+${n} Fotos`,
   },
+  fr: {
+    selloLargo: "Coup de cœur de la rédaction",
+    selloCorto: "Recommandé",
+    selloAriaLabel: "Coup de cœur de la rédaction",
+    abrirGaleriaEn: (alt: string) => `Ouvrir la galerie sur ${alt}`,
+    verFotosRestantes: (n: number) => `Voir les ${n} photos restantes`,
+    fotos: (n: number) => `+${n} photos`,
+  },
+  it: {
+    selloLargo: "Consigliato dalla redazione",
+    selloCorto: "Consigliato",
+    selloAriaLabel: "Consigliato dalla redazione",
+    abrirGaleriaEn: (alt: string) => `Apri la galleria su ${alt}`,
+    verFotosRestantes: (n: number) => `Vedi le altre ${n} foto`,
+    fotos: (n: number) => `+${n} foto`,
+  },
+  pt: {
+    selloLargo: "Recomendado pela redação",
+    selloCorto: "Recomendado",
+    selloAriaLabel: "Recomendado pela redação",
+    abrirGaleriaEn: (alt: string) => `Abrir a galeria em ${alt}`,
+    verFotosRestantes: (n: number) => `Ver as restantes ${n} fotos`,
+    fotos: (n: number) => `+${n} fotos`,
+  },
 };
 
 function dictFor(idioma: Idioma): Strings {
-  if (idioma === "es") return DICT.es;
-  if (idioma === "de") return DICT.de;
-  return DICT.en;
+  return DICT[idioma];
 }
 
 /**

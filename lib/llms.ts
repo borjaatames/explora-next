@@ -1,6 +1,9 @@
 import { obtenerListaCiudades } from "@/lib/ciudades";
 import { obtenerListaGuias, type GuiaListItem } from "@/lib/guias";
-import { obtenerListaActividadesPorCiudad } from "@/lib/actividades";
+import {
+  obtenerCiudadesConActividades,
+  obtenerListaActividadesPorCiudad,
+} from "@/lib/actividades";
 import { urlActividadesDeCiudad } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 
@@ -24,6 +27,13 @@ const SECCIONES: ReadonlyArray<{ idioma: Idioma; titulo: string }> = [
   { idioma: "es", titulo: "Guías en español" },
   { idioma: "en", titulo: "English guides" },
   { idioma: "de", titulo: "Reiseführer auf Deutsch" },
+];
+
+/** Idiomas sin guías: solo fichas de actividades (las que se hacen en ese idioma). */
+const SECCIONES_SOLO_FICHAS: ReadonlyArray<{ idioma: Idioma; titulo: string; prefijo: string }> = [
+  { idioma: "fr", titulo: "Activités en français", prefijo: "Activités à" },
+  { idioma: "it", titulo: "Attività in italiano", prefijo: "Attività a" },
+  { idioma: "pt", titulo: "Atividades em português", prefijo: "Atividades em" },
 ];
 
 const RE_AGOTADAS = /entradas-agotadas|tickets-sold-out|ausverkauft/;
@@ -129,6 +139,21 @@ export function generarLlmsTxt(): string {
         ""
       );
     }
+  }
+
+  const nombresEs = nombresCiudades("es");
+  for (const { idioma, titulo, prefijo } of SECCIONES_SOLO_FICHAS) {
+    const ciudadesIdioma = obtenerCiudadesConActividades(idioma);
+    if (ciudadesIdioma.length === 0) continue;
+    const nombres = nombresCiudades(idioma);
+    partes.push(
+      `## ${titulo}`,
+      "",
+      ...ciudadesIdioma.map((c) =>
+        enlace(`${prefijo} ${nombres.get(c) ?? nombresEs.get(c) ?? c}`, urlActividadesDeCiudad(idioma, c))
+      ),
+      ""
+    );
   }
 
   partes.push(

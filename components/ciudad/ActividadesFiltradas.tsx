@@ -230,27 +230,10 @@ export default function ActividadesFiltradas({
   const inicioPagina = (paginaSegura - 1) * POR_PAGINA;
   const finPagina = paginaSegura * POR_PAGINA;
 
-  const en = locale.startsWith("en");
-  const de = locale.startsWith("de");
-  const txtPaginacion = {
-    nav: de ? "Seitennavigation" : en ? "Pagination" : "Paginación",
-    anterior: de ? "Vorherige Seite" : en ? "Previous page" : "Página anterior",
-    siguiente: de ? "Nächste Seite" : en ? "Next page" : "Página siguiente",
-    pagina: (n: number) => (de ? `Seite ${n}` : en ? `Page ${n}` : `Página ${n}`),
-  };
-
-  const txtOrden = {
-    label: de ? "Sortieren nach" : en ? "Sort by" : "Ordenar por",
-    recomendadas: de ? "Empfohlen" : en ? "Recommended" : "Recomendadas",
-    precio: de ? "Preis: aufsteigend" : en ? "Price: low to high" : "Precio: de menor a mayor",
-    valoracion: de ? "Beste Bewertung" : en ? "Highest rated" : "Mejor valoradas",
-  };
-
-  const txtCategorias = locale.startsWith("de")
-    ? "Nach Kategorie entdecken"
-    : en
-      ? "Browse by category"
-      : "Explorar por categoría";
+  const textosUi = TEXTOS_UI[idiomaDesdeLocale(locale)];
+  const txtPaginacion = textosUi.paginacion;
+  const txtOrden = textosUi.orden;
+  const txtCategorias = textosUi.categorias;
 
   const irAPagina = (p: number) => {
     const destino = Math.min(Math.max(1, p), totalPaginas);
@@ -526,6 +509,68 @@ export default function ActividadesFiltradas({
   );
 }
 
+/** Idioma de la página a partir del locale de `Intl` que recibe el componente. */
+function idiomaDesdeLocale(locale: string): Idioma {
+  const prefijo = locale.slice(0, 2).toLowerCase();
+  const conocidos: readonly Idioma[] = ["en", "de", "fr", "it", "pt"];
+  return conocidos.find((c) => c === prefijo) ?? "es";
+}
+
+type TextosListadoUi = {
+  paginacion: { nav: string; anterior: string; siguiente: string; pagina: (n: number) => string };
+  orden: { label: string; recomendadas: string; precio: string; valoracion: string };
+  categorias: string;
+};
+
+const TEXTOS_UI: Record<Idioma, TextosListadoUi> = {
+  es: {
+    paginacion: { nav: "Paginación", anterior: "Página anterior", siguiente: "Página siguiente", pagina: (n) => `Página ${n}` },
+    orden: { label: "Ordenar por", recomendadas: "Recomendadas", precio: "Precio: de menor a mayor", valoracion: "Mejor valoradas" },
+    categorias: "Explorar por categoría",
+  },
+  en: {
+    paginacion: { nav: "Pagination", anterior: "Previous page", siguiente: "Next page", pagina: (n) => `Page ${n}` },
+    orden: { label: "Sort by", recomendadas: "Recommended", precio: "Price: low to high", valoracion: "Highest rated" },
+    categorias: "Browse by category",
+  },
+  de: {
+    paginacion: { nav: "Seitennavigation", anterior: "Vorherige Seite", siguiente: "Nächste Seite", pagina: (n) => `Seite ${n}` },
+    orden: { label: "Sortieren nach", recomendadas: "Empfohlen", precio: "Preis: aufsteigend", valoracion: "Beste Bewertung" },
+    categorias: "Nach Kategorie entdecken",
+  },
+  fr: {
+    paginacion: { nav: "Pagination", anterior: "Page précédente", siguiente: "Page suivante", pagina: (n) => `Page ${n}` },
+    orden: { label: "Trier par", recomendadas: "Recommandées", precio: "Prix : du moins cher au plus cher", valoracion: "Les mieux notées" },
+    categorias: "Explorer par catégorie",
+  },
+  it: {
+    paginacion: { nav: "Paginazione", anterior: "Pagina precedente", siguiente: "Pagina successiva", pagina: (n) => `Pagina ${n}` },
+    orden: { label: "Ordina per", recomendadas: "Consigliate", precio: "Prezzo: dal più basso", valoracion: "Più votate" },
+    categorias: "Esplora per categoria",
+  },
+  pt: {
+    paginacion: { nav: "Paginação", anterior: "Página anterior", siguiente: "Página seguinte", pagina: (n) => `Página ${n}` },
+    orden: { label: "Ordenar por", recomendadas: "Recomendadas", precio: "Preço: do mais baixo ao mais alto", valoracion: "Mais bem avaliadas" },
+    categorias: "Explorar por categoria",
+  },
+};
+
+type TextosCard = {
+  privada: string;
+  porPersona: string;
+  grupoTotal: (personas: number, total: string) => string;
+  porGrupo: string;
+};
+
+const TEXTOS_CARD: Record<Idioma, TextosCard> = {
+  es: { privada: "Privado · solo tu grupo", porPersona: "/pers.", grupoTotal: (n, t) => `grupo de ${n}: ${t} en total`, porGrupo: "por grupo" },
+  en: { privada: "Private · just your group", porPersona: "/person", grupoTotal: (n, t) => `group of ${n}: ${t} total`, porGrupo: "per group" },
+  de: { privada: "Privat · nur deine Gruppe", porPersona: "/Pers.", grupoTotal: (n, t) => `Gruppe von ${n}: ${t} insgesamt`, porGrupo: "pro Gruppe" },
+  fr: { privada: "Privé · uniquement votre groupe", porPersona: "/pers.", grupoTotal: (n, t) => `groupe de ${n} : ${t} au total`, porGrupo: "par groupe" },
+  it: { privada: "Privato · solo il tuo gruppo", porPersona: "/pers.", grupoTotal: (n, t) => `gruppo di ${n}: ${t} in totale`, porGrupo: "a gruppo" },
+  pt: { privada: "Privado · apenas o seu grupo", porPersona: "/pess.", grupoTotal: (n, t) => `grupo de ${n}: ${t} no total`, porGrupo: "por grupo" },
+};
+
 export function CardActividad({
   actividad,
   strings,
@@ -541,10 +586,9 @@ export function CardActividad({
     maximumFractionDigits: 0,
   });
 
-  const idioma: Idioma = locale.startsWith("en") ? "en" : locale.startsWith("de") ? "de" : "es";
-  const textoEtiqueta = actividad.etiqueta
-    ? TEXTO_ETIQUETA[idioma === "es" ? "es" : idioma === "de" ? "de" : "en"][actividad.etiqueta]
-    : null;
+  const idioma = idiomaDesdeLocale(locale);
+  const tc = TEXTOS_CARD[idioma];
+  const textoEtiqueta = actividad.etiqueta ? TEXTO_ETIQUETA[idioma][actividad.etiqueta] : null;
   const tieneNota =
     typeof actividad.ratingProveedor === "number" &&
     typeof actividad.numeroOpiniones === "number";
@@ -580,7 +624,7 @@ export function CardActividad({
         ) : null}
         {actividad.privada ? (
           <span className="self-start inline-block bg-anil-50 text-anil-700 text-[11px] md:text-xs font-semibold uppercase tracking-wider px-1.5 py-0.5 md:px-2 md:py-1 rounded mb-1 md:mb-2">
-            {idioma === "es" ? "Privado · solo tu grupo" : idioma === "de" ? "Privat · nur deine Gruppe" : "Private · just your group"}
+            {tc.privada}
           </span>
         ) : null}
         <h3 className="text-[15px] font-semibold leading-snug md:font-fraunces md:text-xl md:font-bold text-piedra-900 mb-1 md:mb-2 group-hover:text-anil-700 transition-colors md:leading-tight line-clamp-2 md:min-h-[2.5em]">
@@ -620,23 +664,18 @@ export function CardActividad({
                 {formato.format(actividad.precio.porPersona)}
                 {actividad.precio.personasReferencia ? (
                   <span className="text-xs font-normal text-piedra-500">
-                    {idioma === "es" ? "/pers." : idioma === "de" ? "/Pers." : "/person"}
+                    {tc.porPersona}
                   </span>
                 ) : null}
               </p>
               {actividad.precio.porGrupo ? (
                 <p className="text-[11px] md:text-xs text-piedra-500">
                   {actividad.precio.personasReferencia && actividad.precio.totalReferencia
-                    ? idioma === "es"
-                      ? `grupo de ${actividad.precio.personasReferencia}: ${formato.format(actividad.precio.totalReferencia)} en total`
-                      : idioma === "de"
-                      ? `Gruppe von ${actividad.precio.personasReferencia}: ${formato.format(actividad.precio.totalReferencia)} insgesamt`
-                      : `group of ${actividad.precio.personasReferencia}: ${formato.format(actividad.precio.totalReferencia)} total`
-                    : idioma === "es"
-                      ? "por grupo"
-                      : idioma === "de"
-                      ? "pro Gruppe"
-                      : "per group"}
+                    ? tc.grupoTotal(
+                        actividad.precio.personasReferencia,
+                        formato.format(actividad.precio.totalReferencia)
+                      )
+                    : tc.porGrupo}
                 </p>
               ) : null}
             </div>

@@ -1,4 +1,5 @@
 import type { Idioma } from "@/lib/i18n/types";
+import { IDIOMA_LOCALE } from "@/lib/i18n/config";
 
 /** Ancla del bloque de reserva Bókun en la ficha (CTA de cabecera y barra móvil). */
 export const ANCLA_RESERVA = "reservar";
@@ -22,8 +23,63 @@ export type TextosPrecioBokun = {
   verFechas: string;
 };
 
-function esEspanol(idioma: Idioma): boolean {
-  return idioma === "es";
+const TEXTOS: Record<
+  Idioma,
+  {
+    desde: string;
+    porGrupo: string;
+    porPersona: string;
+    minimo: (n: number) => string;
+    verFechas: string;
+  }
+> = {
+  es: {
+    desde: "Desde",
+    porGrupo: "por grupo",
+    porPersona: "por persona",
+    minimo: (n) => `mínimo ${n}`,
+    verFechas: "Ver fechas disponibles",
+  },
+  en: {
+    desde: "From",
+    porGrupo: "per group",
+    porPersona: "per person",
+    minimo: (n) => `min. ${n} people`,
+    verFechas: "Check availability",
+  },
+  de: {
+    desde: "Ab",
+    porGrupo: "pro Gruppe",
+    porPersona: "pro Person",
+    minimo: (n) => `mind. ${n} Personen`,
+    verFechas: "Verfügbare Termine ansehen",
+  },
+  fr: {
+    desde: "À partir de",
+    porGrupo: "par groupe",
+    porPersona: "par personne",
+    minimo: (n) => `min. ${n} personnes`,
+    verFechas: "Voir les disponibilités",
+  },
+  it: {
+    desde: "Da",
+    porGrupo: "a gruppo",
+    porPersona: "a persona",
+    minimo: (n) => `min. ${n} persone`,
+    verFechas: "Vedi le date disponibili",
+  },
+  pt: {
+    desde: "Desde",
+    porGrupo: "por grupo",
+    porPersona: "por pessoa",
+    minimo: (n) => `mín. ${n} pessoas`,
+    verFechas: "Ver datas disponíveis",
+  },
+};
+
+/** Locale de precios: en inglés se mantiene en-GB (formato europeo de la web). */
+function localePrecio(idioma: Idioma): string {
+  return idioma === "en" ? "en-GB" : IDIOMA_LOCALE[idioma];
 }
 
 export function formatearPrecioBokun(
@@ -31,7 +87,7 @@ export function formatearPrecioBokun(
   moneda: string | undefined,
   idioma: Idioma
 ): string {
-  return new Intl.NumberFormat(esEspanol(idioma) ? "es-ES" : idioma === "de" ? "de-DE" : "en-GB", {
+  return new Intl.NumberFormat(localePrecio(idioma), {
     style: "currency",
     currency: moneda || "EUR",
     maximumFractionDigits: 0,
@@ -43,25 +99,22 @@ export function textoUnidadBokun(
   datos: Pick<DatosPrecioBokun, "porGrupo" | "minimoPersonas">,
   idioma: Idioma
 ): string {
-  const es = esEspanol(idioma);
-  const de = idioma === "de";
-  if (datos.porGrupo) return es ? "por grupo" : de ? "pro Gruppe" : "per group";
-  const base = es ? "por persona" : de ? "pro Person" : "per person";
+  const t = TEXTOS[idioma];
+  if (datos.porGrupo) return t.porGrupo;
   const minimo = datos.minimoPersonas;
-  if (typeof minimo !== "number" || minimo < 2) return base;
-  if (de) return `${base} · mind. ${minimo} Personen`;
-  return es ? `${base} · mínimo ${minimo}` : `${base} · min. ${minimo} people`;
+  if (typeof minimo !== "number" || minimo < 2) return t.porPersona;
+  return `${t.porPersona} · ${t.minimo(minimo)}`;
 }
 
 export function textosPrecioBokun(
   datos: DatosPrecioBokun,
   idioma: Idioma
 ): TextosPrecioBokun {
-  const es = esEspanol(idioma);
+  const t = TEXTOS[idioma];
   return {
-    desde: es ? "Desde" : idioma === "de" ? "Ab" : "From",
+    desde: t.desde,
     precio: formatearPrecioBokun(datos.precioDesde, datos.moneda, idioma),
     unidad: textoUnidadBokun(datos, idioma),
-    verFechas: es ? "Ver fechas disponibles" : idioma === "de" ? "Verfügbare Termine ansehen" : "Check availability",
+    verFechas: t.verFechas,
   };
 }

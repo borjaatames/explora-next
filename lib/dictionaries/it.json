@@ -1,68 +1,68 @@
 {
   "meta": {
     "sitioNombre": "ExploraSpain",
-    "sitioDescripcion": "Guías honestas y prácticas para viajar por España"
+    "sitioDescripcion": "Guide di viaggio oneste e pratiche per scoprire la Spagna"
   },
   "navegacion": {
-    "inicio": "Inicio",
-    "guias": "Guías",
-    "ciudades": "Ciudades",
-    "sobreNosotros": "Sobre nosotros",
-    "contacto": "Contacto",
-    "abrirMenu": "Abrir menú",
-    "cerrarMenu": "Cerrar menú",
-    "cambiarIdioma": "Cambiar idioma"
+    "inicio": "Home",
+    "guias": "Guide",
+    "ciudades": "Città",
+    "sobreNosotros": "Chi siamo",
+    "contacto": "Contatti",
+    "abrirMenu": "Apri il menu",
+    "cerrarMenu": "Chiudi il menu",
+    "cambiarIdioma": "Cambia lingua"
   },
   "home": {
-    "heroTitulo": "Guías honestas para viajar por España",
-    "heroSubtitulo": "Sin frases huecas, con datos prácticos y criterio.",
-    "ctaExplorar": "Explorar guías",
-    "seccionGuiasDestacadas": "Guías destacadas",
-    "seccionCiudades": "Ciudades",
-    "verTodas": "Ver todas"
+    "heroTitulo": "Guide di viaggio oneste sulla Spagna",
+    "heroSubtitulo": "Niente fronzoli. Opinioni sincere. Informazioni pratiche che ti servono davvero.",
+    "ctaExplorar": "Scopri le guide",
+    "seccionGuiasDestacadas": "Guide in evidenza",
+    "seccionCiudades": "Città",
+    "verTodas": "Vedi tutto"
   },
   "guias": {
-    "tituloIndice": "Guías",
-    "descripcionIndice": "Itinerarios y consejos prácticos para viajar por España con criterio.",
-    "minutosLectura": "min de lectura",
-    "publicadoEl": "Publicado el",
-    "autorPor": "Por",
-    "relacionadas": "Otras guías que pueden interesarte",
-    "volverAGuias": "Volver a guías"
+    "tituloIndice": "Guide",
+    "descripcionIndice": "Itinerari e consigli pratici per viaggiare in Spagna con sicurezza.",
+    "minutosLectura": "min di lettura",
+    "publicadoEl": "Pubblicato il",
+    "autorPor": "Di",
+    "relacionadas": "Potrebbe interessarti anche",
+    "volverAGuias": "Torna alle guide"
   },
   "ciudades": {
-    "tituloIndice": "Ciudades",
-    "descripcionIndice": "Las ciudades imprescindibles de España, con guías propias.",
-    "verCiudad": "Ver ciudad",
-    "guiasDeCiudad": "Guías de esta ciudad",
-    "volverACiudades": "Volver a ciudades"
+    "tituloIndice": "Città",
+    "descripcionIndice": "Le città imperdibili della Spagna, ognuna con le sue attività e i suoi consigli.",
+    "verCiudad": "Scopri la città",
+    "guiasDeCiudad": "Guide di questa città",
+    "volverACiudades": "Torna alle città"
   },
   "actividades": {
-    "tituloIndiceCiudad": "Actividades en {ciudad}",
-    "descripcionIndiceCiudad": "Selección honesta de tours y experiencias. Sin postureo, con criterio editorial.",
-    "verActividad": "Ver actividad",
-    "actividadesEnCiudad": "Actividades en esta ciudad",
-    "desde": "Desde",
-    "porPersona": "por persona",
-    "duracion": "Duración",
-    "idiomas": "Idiomas",
-    "cancelacionGratuita": "Cancelación gratuita",
-    "cancelacionHorasAntes": "Cancela hasta {horas}h antes",
-    "sinColas": "Acceso sin colas",
-    "reservar": "Reservar",
-    "viaProveedor": "vía",
-    "highlights": "Lo más destacado",
-    "nuestraOpinion": "Nuestra opinión",
-    "queIncluye": "Qué incluye",
-    "queNoIncluye": "Qué no incluye",
-    "puntoEncuentro": "Punto de encuentro",
-    "laExperiencia": "La experiencia",
-    "guiasRelacionadas": "Lee también en nuestras guías",
-    "alternativas": "Alternativas que te pueden encajar",
-    "avisoAfiliacion": "Si reservas a través de esta página, recibimos una pequeña comisión sin coste extra para ti. Solo recomendamos lo que creemos que merece la pena.",
-    "avisoVentaDirecta": "Direct booking with ExploraSpain: the activity is run by a local operator we have selected, you pay by card through Bókun's secure gateway, and we look after you before and after booking.",
-    "valoracion": "Valoración",
-    "opiniones": "opiniones",
+    "tituloIndiceCiudad": "Cosa fare a {ciudad}",
+    "descripcionIndiceCiudad": "Una selezione accurata di tour ed esperienze. Niente riempitivi: solo ciò che consiglieremmo davvero.",
+    "verActividad": "Vedi l’attività",
+    "actividadesEnCiudad": "Cosa fare in questa città",
+    "desde": "Da",
+    "porPersona": "a persona",
+    "duracion": "Durata",
+    "idiomas": "Lingue",
+    "cancelacionGratuita": "Cancellazione gratuita",
+    "cancelacionHorasAntes": "Cancellazione gratuita fino a {horas} ore prima",
+    "sinColas": "Accesso salta fila",
+    "reservar": "Prenota",
+    "viaProveedor": "tramite",
+    "highlights": "Punti salienti",
+    "nuestraOpinion": "La nostra opinione",
+    "queIncluye": "Cosa è incluso",
+    "queNoIncluye": "Non incluso",
+    "puntoEncuentro": "Punto d’incontro",
+    "laExperiencia": "L’esperienza",
+    "guiasRelacionadas": "Da leggere anche nelle nostre guide",
+    "alternativas": "Potresti anche considerare",
+    "avisoAfiliacion": "Se prenoti da questa pagina, riceviamo una piccola commissione senza alcun costo aggiuntivo per te. Consigliamo solo ciò che riteniamo valga davvero la pena.",
+    "avisoVentaDirecta": "Prenotazione diretta con ExploraSpain: l’attività è gestita da un operatore locale che abbiamo selezionato, paghi con carta tramite il gateway sicuro di Bókun e ti assistiamo noi prima e dopo la prenotazione.",
+    "valoracion": "Valutazione",
+    "opiniones": "recensioni",
     "categorias": {
       "visitasGuiadas": "Visite guidate",
       "entradas": "Biglietti",
@@ -77,18 +77,18 @@
       "talleres": "Laboratori ed esperienze",
       "privados": "Privati"
     },
-    "faqEnCiudad": "Preguntas frecuentes sobre actividades en {ciudad}"
+    "faqEnCiudad": "Domande frequenti su cosa fare a {ciudad}"
   },
   "footer": {
-    "derechos": "Todos los derechos reservados",
-    "avisoLegal": "Aviso legal",
-    "privacidad": "Privacidad",
-    "cookies": "Cookies",
-    "operadoPor": "Operado por SKYWARD PARTNERS, S.L."
+    "derechos": "Tutti i diritti riservati",
+    "avisoLegal": "Note legali",
+    "privacidad": "Privacy",
+    "cookies": "Cookie",
+    "operadoPor": "Gestito da SKYWARD PARTNERS, S.L."
   },
   "comun": {
-    "cargando": "Cargando…",
-    "error": "Algo ha ido mal",
-    "leerMas": "Leer más"
+    "cargando": "Caricamento…",
+    "error": "Si è verificato un errore",
+    "leerMas": "Leggi di più"
   }
 }

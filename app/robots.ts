@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { IDIOMAS_ACTIVOS, IDIOMA_DEFECTO } from "@/lib/i18n/config";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -11,8 +12,8 @@ const SITE_URL =
  * - En preview / desarrollo: bloqueamos todo el sitio para evitar que Google
  *   indexe URLs de Vercel preview o de localhost.
  *
- * Las landings SEM van con noindex en todos los idiomas activos. Cuando se
- * activen DE/FR/IT/PT, añadir aquí una entrada `/<idioma>/sem/` por idioma.
+ * Las landings SEM van con noindex en todos los idiomas activos: una entrada
+ * `/<idioma>/sem/` por idioma (sin prefijo en español).
  */
 export default function robots(): MetadataRoute.Robots {
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
@@ -31,7 +32,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: [
           "/api/",
           "/sem/",
-          "/en/sem/",
+          ...IDIOMAS_ACTIVOS.filter((l) => l !== IDIOMA_DEFECTO).map((l) => `/${l}/sem/`),
           "/admin/",
           "/*.backup$",
           "/*?*utm_",

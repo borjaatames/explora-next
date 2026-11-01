@@ -16,6 +16,18 @@ const TEXTOS: Partial<Record<Idioma, { pregunta: string; enlace: string }>> = {
     pregunta: "Auf der offiziellen Website ausverkauft?",
     enlace: "Diese Optionen bleiben dir",
   },
+  fr: {
+    pregunta: "Complet sur le site officiel ?",
+    enlace: "Voir les options restantes",
+  },
+  it: {
+    pregunta: "Biglietti esauriti sul sito ufficiale?",
+    enlace: "Guarda le opzioni rimaste",
+  },
+  pt: {
+    pregunta: "Bilhetes esgotados no site oficial?",
+    enlace: "Veja as opções disponíveis",
+  },
 };
 
 /** Aviso en la ficha que enlaza a la guía de «entradas agotadas» de su monumento. */

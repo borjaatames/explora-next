@@ -20,9 +20,10 @@ type CopyProveedores = Readonly<{
   sumarseBoton: string;
   inicio: string;
   migas: string;
+  ariaMigas: string;
 }>;
 
-export const COPY_PROVEEDORES: Readonly<Record<"es" | "en" | "de", CopyProveedores>> = {
+export const COPY_PROVEEDORES: Readonly<Record<Idioma, CopyProveedores>> = {
   es: {
     titulo: "Proveedores locales con los que trabajamos",
     subtitulo: "Las empresas que organizan muchas de las actividades que vendemos en ExploraSpain.",
@@ -37,6 +38,7 @@ export const COPY_PROVEEDORES: Readonly<Record<"es" | "en" | "de", CopyProveedor
     sumarseBoton: "Contactar",
     inicio: "Inicio",
     migas: "Proveedores locales",
+    ariaMigas: "Migas de pan",
   },
   en: {
     titulo: "Local partners we work with",
@@ -52,6 +54,7 @@ export const COPY_PROVEEDORES: Readonly<Record<"es" | "en" | "de", CopyProveedor
     sumarseBoton: "Contact us",
     inicio: "Home",
     migas: "Local partners",
+    ariaMigas: "Breadcrumb",
   },
   de: {
     titulo: "Lokale Partner, mit denen wir arbeiten",
@@ -67,13 +70,60 @@ export const COPY_PROVEEDORES: Readonly<Record<"es" | "en" | "de", CopyProveedor
     sumarseBoton: "Kontakt",
     inicio: "Startseite",
     migas: "Lokale Partner",
+    ariaMigas: "Brotkrümelnavigation",
+  },
+  fr: {
+    titulo: "Les partenaires locaux avec qui nous travaillons",
+    subtitulo: "Les entreprises qui organisent une grande partie des activités que nous proposons sur ExploraSpain.",
+    intro:
+      "Beaucoup des expériences de notre site sont organisées par des entreprises locales. Découvrez-les ici et visitez leur site web.",
+    visitarWeb: "Visiter leur site",
+    ciudades: "Où elles opèrent",
+    nuestrasActividades: "Leurs activités sur ExploraSpain",
+    sumarseTitulo: "Vous êtes un prestataire qui travaille avec nous ?",
+    sumarseTexto:
+      "Si nous vendons vos activités et que vous souhaitez apparaître sur cette page, écrivez-nous et nous vous ajouterons.",
+    sumarseBoton: "Nous contacter",
+    inicio: "Accueil",
+    migas: "Partenaires locaux",
+    ariaMigas: "Fil d’Ariane",
+  },
+  it: {
+    titulo: "I partner locali con cui lavoriamo",
+    subtitulo: "Le aziende che organizzano molte delle attività che vendiamo su ExploraSpain.",
+    intro:
+      "Molte delle esperienze del nostro sito sono organizzate da aziende locali. Qui puoi conoscerle e visitare il loro sito web.",
+    visitarWeb: "Visita il loro sito",
+    ciudades: "Dove operano",
+    nuestrasActividades: "Le loro attività su ExploraSpain",
+    sumarseTitulo: "Sei un fornitore che lavora con noi?",
+    sumarseTexto:
+      "Se vendiamo le tue attività e vuoi comparire in questa pagina, scrivici e ti aggiungiamo.",
+    sumarseBoton: "Contattaci",
+    inicio: "Home",
+    migas: "Partner locali",
+    ariaMigas: "Percorso di navigazione",
+  },
+  pt: {
+    titulo: "Os parceiros locais com quem trabalhamos",
+    subtitulo: "As empresas que organizam muitas das atividades que vendemos na ExploraSpain.",
+    intro:
+      "Muitas das experiências do nosso site são organizadas por empresas locais. Aqui pode conhecê-las e visitar o respetivo site.",
+    visitarWeb: "Visitar o site",
+    ciudades: "Onde atuam",
+    nuestrasActividades: "As suas atividades na ExploraSpain",
+    sumarseTitulo: "É fornecedor e trabalha connosco?",
+    sumarseTexto:
+      "Se vendemos as suas atividades e pretende aparecer nesta página, escreva-nos e acrescentamo-lo.",
+    sumarseBoton: "Contactar",
+    inicio: "Início",
+    migas: "Parceiros locais",
+    ariaMigas: "Navegação estrutural",
   },
 };
 
 export function copyProveedores(idioma: Idioma): CopyProveedores {
-  if (idioma === "en") return COPY_PROVEEDORES.en;
-  if (idioma === "de") return COPY_PROVEEDORES.de;
-  return COPY_PROVEEDORES.es;
+  return COPY_PROVEEDORES[idioma];
 }
 
 type Props = Readonly<{ idioma: Idioma; siteUrl: string }>;
@@ -101,7 +151,7 @@ export default function PaginaProveedores({ idioma, siteUrl }: Props) {
 
       <header className="bg-anil-500 text-white py-12 md:py-16">
         <div className="max-w-3xl mx-auto px-4">
-          <nav aria-label={idioma === "es" ? "Migas de pan" : "Breadcrumb"} className="text-sm text-anil-100 mb-4">
+          <nav aria-label={t.ariaMigas} className="text-sm text-anil-100 mb-4">
             <Link href={urlInicio} className="hover:text-white">
               {t.inicio}
             </Link>

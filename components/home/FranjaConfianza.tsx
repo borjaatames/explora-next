@@ -32,7 +32,37 @@ const DICT = {
     ],
     partners: "Buchungen über offizielle Partner",
   },
-} as const;
+  fr: {
+    titulo: "Pourquoi réserver avec ExploraSpain",
+    items: [
+      { t: "Paiement 100 % sécurisé", d: "Via Bókun et des partenaires officiels" },
+      { t: "Confirmation immédiate", d: "Votre billet sur votre mobile" },
+      { t: "Service client", d: "Nous vous aidons pour votre réservation" },
+      { t: "Sélection indépendante", d: "Sans remplissage touristique" },
+    ],
+    partners: "Réservations via des partenaires officiels",
+  },
+  it: {
+    titulo: "Perché prenotare con ExploraSpain",
+    items: [
+      { t: "Pagamento sicuro al 100%", d: "Tramite Bókun e partner ufficiali" },
+      { t: "Conferma immediata", d: "Il tuo biglietto sul cellulare" },
+      { t: "Assistenza clienti", d: "Ti aiutiamo con la tua prenotazione" },
+      { t: "Selezione indipendente", d: "Niente riempitivi turistici" },
+    ],
+    partners: "Prenotazioni tramite partner ufficiali",
+  },
+  pt: {
+    titulo: "Porquê reservar com a ExploraSpain",
+    items: [
+      { t: "Pagamento 100% seguro", d: "Via Bókun e parceiros oficiais" },
+      { t: "Confirmação imediata", d: "O seu bilhete no telemóvel" },
+      { t: "Apoio ao cliente", d: "Ajudamos com a sua reserva" },
+      { t: "Seleção independente", d: "Sem enchimento turístico" },
+    ],
+    partners: "Reservas através de parceiros oficiais",
+  },
+} as const satisfies Record<Idioma, { titulo: string; items: ReadonlyArray<{ t: string; d: string }>; partners: string }>;
 
 const ICONOS: ReadonlyArray<JSX.Element> = [
   <path key="l" d="M7 11V7a5 5 0 0110 0v4M5 11h14v10H5z" />,
@@ -46,7 +76,7 @@ const ICONOS: ReadonlyArray<JSX.Element> = [
  * sin cifras inventadas. Server Component puro.
  */
 export default function FranjaConfianza({ idioma }: { idioma: Idioma }) {
-  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
+  const t = DICT[idioma];
 
   return (
     <section aria-label={t.titulo}>
@@ -82,7 +112,7 @@ export default function FranjaConfianza({ idioma }: { idioma: Idioma }) {
 
 /** Fila de partners, al final de la home (justo antes del footer). */
 export function FranjaPartners({ idioma }: { idioma: Idioma }) {
-  const t = DICT[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
+  const t = DICT[idioma];
 
   return (
     <section aria-label={t.partners} className="bg-piedra-50 border-t border-piedra-200">

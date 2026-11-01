@@ -1,3 +1,5 @@
+import type { Idioma } from "@/lib/i18n/types";
+
 /**
  * Etiquetas de las tarjetas de actividad («Más popular», «Elección
  * ExploraSpain», «Nueva»). Tienen que ser ciertas y escasas: como mucho
@@ -70,8 +72,11 @@ export function calcularEtiquetas(
   return etiquetas;
 }
 
-export const TEXTO_ETIQUETA: Record<"es" | "en" | "de", Record<EtiquetaActividad, string>> = {
+export const TEXTO_ETIQUETA: Record<Idioma, Record<EtiquetaActividad, string>> = {
   es: { popular: "Más popular", eleccion: "Elección ExploraSpain", nueva: "Nueva" },
   en: { popular: "Most popular", eleccion: "ExploraSpain pick", nueva: "New" },
   de: { popular: "Sehr beliebt", eleccion: "ExploraSpain-Tipp", nueva: "Neu" },
+  fr: { popular: "Très populaire", eleccion: "Choix ExploraSpain", nueva: "Nouveau" },
+  it: { popular: "Più popolare", eleccion: "Scelta ExploraSpain", nueva: "Novità" },
+  pt: { popular: "Mais popular", eleccion: "Escolha ExploraSpain", nueva: "Novo" },
 };

@@ -18,7 +18,7 @@ type Strings = {
   aTenerEnCuenta: string;
 };
 
-const DICT: Record<"es" | "en" | "de", Strings> = {
+const DICT: Record<Idioma, Strings> = {
   es: {
     titulo: "Información importante",
     queTraer: "Qué traer",
@@ -37,12 +37,28 @@ const DICT: Record<"es" | "en" | "de", Strings> = {
     noAptoPara: "Nicht geeignet für",
     aTenerEnCuenta: "Bitte beachten",
   },
+  fr: {
+    titulo: "Bon à savoir",
+    queTraer: "À emporter",
+    noAptoPara: "Déconseillé aux",
+    aTenerEnCuenta: "À noter",
+  },
+  it: {
+    titulo: "Da sapere",
+    queTraer: "Cosa portare",
+    noAptoPara: "Non adatto a",
+    aTenerEnCuenta: "Da tenere presente",
+  },
+  pt: {
+    titulo: "Informações importantes",
+    queTraer: "O que levar",
+    noAptoPara: "Não recomendado para",
+    aTenerEnCuenta: "A ter em conta",
+  },
 };
 
 function dictFor(idioma: Idioma): Strings {
-  if (idioma === "es") return DICT.es;
-  if (idioma === "de") return DICT.de;
-  return DICT.en;
+  return DICT[idioma];
 }
 
 /**

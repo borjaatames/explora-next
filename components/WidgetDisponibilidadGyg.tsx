@@ -29,10 +29,13 @@ const SCRIPT_SRC = "https://widget.getyourguide.com/dist/pa.umd.production.min.j
 const MARGEN_CARGA = "600px 0px";
 const MQ_ESCRITORIO = "(min-width: 1024px)";
 
-const LOCALE: Partial<Record<Idioma, string>> = {
+const LOCALE: Record<Idioma, string> = {
   es: "es-ES",
   en: "en-US",
   de: "de-DE",
+  fr: "fr-FR",
+  it: "it-IT",
+  pt: "pt-PT",
 };
 
 type Textos = { titulo: string; noCarga: string; verEnGyg: string };
@@ -43,7 +46,7 @@ const TEXTOS_EN: Textos = {
   verEnGyg: "View on GetYourGuide →",
 };
 
-const TEXTOS: Partial<Record<Idioma, Textos>> = {
+const TEXTOS: Record<Idioma, Textos> = {
   es: {
     titulo: "Elige fecha y personas",
     noCarga: "¿No carga el calendario?",
@@ -54,6 +57,21 @@ const TEXTOS: Partial<Record<Idioma, Textos>> = {
     titulo: "Datum und Personen wählen",
     noCarga: "Kalender lädt nicht?",
     verEnGyg: "Auf GetYourGuide ansehen →",
+  },
+  fr: {
+    titulo: "Choisissez la date et le nombre de voyageurs",
+    noCarga: "Le calendrier ne se charge pas ?",
+    verEnGyg: "Voir sur GetYourGuide →",
+  },
+  it: {
+    titulo: "Scegli data e persone",
+    noCarga: "Il calendario non si carica?",
+    verEnGyg: "Vedi su GetYourGuide →",
+  },
+  pt: {
+    titulo: "Escolha a data e o número de pessoas",
+    noCarga: "O calendário não carrega?",
+    verEnGyg: "Ver no GetYourGuide →",
   },
 };
 
@@ -99,7 +117,7 @@ export default function WidgetDisponibilidadGyg({
 }: Props) {
   const [activo, setActivo] = useState(false);
   const contenedorRef = useRef<HTMLDivElement>(null);
-  const t = TEXTOS[idioma] ?? TEXTOS_EN;
+  const t = TEXTOS[idioma];
 
   useEffect(() => {
     const mq = window.matchMedia(MQ_ESCRITORIO);
@@ -141,7 +159,7 @@ export default function WidgetDisponibilidadGyg({
         <div
           data-gyg-href="https://widget.getyourguide.com/default/availability.frame"
           data-gyg-tour-id={tourId}
-          data-gyg-locale-code={LOCALE[idioma] ?? "en-US"}
+          data-gyg-locale-code={LOCALE[idioma]}
           data-gyg-currency="EUR"
           data-gyg-widget="availability"
           data-gyg-variant="vertical"

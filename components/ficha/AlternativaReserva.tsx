@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { ActividadListItem } from "@/lib/actividades";
 import type { Idioma } from "@/lib/i18n/types";
+import { IDIOMA_LOCALE } from "@/lib/i18n/config";
 import { precioComparable } from "@/lib/precioComparable";
 
 type Props = {
@@ -9,12 +10,15 @@ type Props = {
   idioma: Idioma;
 };
 
-const LOCALE: Record<string, string> = { es: "es-ES", en: "en-GB", de: "de-DE" };
+const LOCALE: Record<Idioma, string> = { ...IDIOMA_LOCALE, en: "en-GB" };
 
-const TEXTOS: Partial<Record<Idioma, { etiqueta: string; ver: string; desde: string; persona: string; grupo: string }>> = {
+const TEXTOS: Record<Idioma, { etiqueta: string; ver: string; desde: string; persona: string; grupo: string }> = {
   es: { etiqueta: "Alternativa", ver: "Ver esta opción →", desde: "desde", persona: "/pers.", grupo: "por grupo" },
   en: { etiqueta: "Alternative", ver: "See this option →", desde: "from", persona: " per person", grupo: "per group" },
   de: { etiqueta: "Alternative", ver: "Diese Option ansehen →", desde: "ab", persona: " pro Person", grupo: "pro Gruppe" },
+  fr: { etiqueta: "Alternative", ver: "Voir cette option →", desde: "à partir de", persona: " par personne", grupo: "par groupe" },
+  it: { etiqueta: "Alternativa", ver: "Vedi questa opzione →", desde: "da", persona: " a persona", grupo: "a gruppo" },
+  pt: { etiqueta: "Alternativa", ver: "Ver esta opção →", desde: "desde", persona: " por pessoa", grupo: "por grupo" },
 };
 
 /**
@@ -25,9 +29,9 @@ const TEXTOS: Partial<Record<Idioma, { etiqueta: string; ver: string; desde: str
  */
 export default function AlternativaReserva({ alternativa, motivo, idioma }: Props) {
   if (!alternativa) return null;
-  const t = TEXTOS[idioma] ?? TEXTOS.en!;
+  const t = TEXTOS[idioma];
   const precio = precioComparable(alternativa);
-  const formato = new Intl.NumberFormat(LOCALE[idioma] ?? "es-ES", {
+  const formato = new Intl.NumberFormat(LOCALE[idioma], {
     style: "currency",
     currency: alternativa.moneda || "EUR",
     maximumFractionDigits: 0,

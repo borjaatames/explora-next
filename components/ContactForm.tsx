@@ -49,12 +49,45 @@ const T = {
     subject: "Neue Nachricht von ExploraSpain",
     sinConfig: "Schreib uns direkt an:",
   },
-} as const;
+  fr: {
+    nombre: "Nom",
+    email: "Votre e-mail",
+    mensaje: "Message",
+    enviar: "Envoyer le message",
+    enviando: "Envoi en cours…",
+    ok: "Merci ! Nous avons bien reçu votre message et vous répondrons dans les meilleurs délais.",
+    error: "L’envoi a échoué. Veuillez réessayer ou nous écrire à contacto@exploraspain.com.",
+    subject: "Nouveau message depuis ExploraSpain (FR)",
+    sinConfig: "Écrivez-nous directement à :",
+  },
+  it: {
+    nombre: "Nome",
+    email: "La tua email",
+    mensaje: "Messaggio",
+    enviar: "Invia messaggio",
+    enviando: "Invio in corso…",
+    ok: "Grazie! Abbiamo ricevuto il tuo messaggio e ti risponderemo il prima possibile.",
+    error: "Invio non riuscito. Riprova o scrivici a contacto@exploraspain.com.",
+    subject: "Nuovo messaggio da ExploraSpain (IT)",
+    sinConfig: "Scrivici direttamente a:",
+  },
+  pt: {
+    nombre: "Nome",
+    email: "O seu e-mail",
+    mensaje: "Mensagem",
+    enviar: "Enviar mensagem",
+    enviando: "A enviar…",
+    ok: "Obrigado! Recebemos a sua mensagem e responderemos o mais rapidamente possível.",
+    error: "Não foi possível enviar. Tente novamente ou escreva-nos para contacto@exploraspain.com.",
+    subject: "Nova mensagem da ExploraSpain (PT)",
+    sinConfig: "Escreva-nos diretamente para:",
+  },
+} as const satisfies Record<Idioma, Record<string, string>>;
 
 type Estado = "idle" | "sending" | "ok" | "error";
 
 export default function ContactForm({ idioma }: { idioma: Idioma }) {
-  const t = T[idioma === "en" ? "en" : idioma === "de" ? "de" : "es"];
+  const t = T[idioma];
   const accessKey = process.env.NEXT_PUBLIC_WEB3FORMS_KEY;
   const [estado, setEstado] = useState<Estado>("idle");
 

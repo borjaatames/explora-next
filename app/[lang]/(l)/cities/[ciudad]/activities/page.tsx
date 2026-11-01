@@ -80,7 +80,7 @@ export async function generateMetadata({
   // actividades para este idioma+ciudad, la página hace notFound() y el
   // <title>/robots deben reflejarlo, no anunciar contenido inexistente.
   if (obtenerListaActividadesPorCiudad(lang, params.ciudad).length === 0) {
-    return { title: lang === "de" ? "Seite nicht gefunden" : "Page not found", robots: { index: false, follow: false } };
+    return { title: textosListado(lang).noEncontrada, robots: { index: false, follow: false } };
   }
 
   const tl = textosListado(lang);
@@ -114,6 +114,8 @@ export async function generateMetadata({
 }
 
 type TextosListado = {
+  noEncontrada: string;
+  ariaMigas: string;
   titulo: (c: string) => string;
   descripcionMeta: (c: string) => string;
   subtitulo: string;
@@ -135,8 +137,10 @@ type TextosListado = {
   filtros: ActividadesFiltradasStrings;
 };
 
-const TEXTOS_LISTADO: Record<"en" | "de", TextosListado> = {
+const TEXTOS_LISTADO: Record<Exclude<Idioma, "es">, TextosListado> = {
   en: {
+    noEncontrada: "Page not found",
+    ariaMigas: "Breadcrumb",
     titulo: (c) => `Things to do in ${c}`,
     descripcionMeta: (c) => `Tours, guided visits and day trips in ${c}. Hand-picked with editorial criteria.`,
     subtitulo: "Tours, guided visits and day trips hand-picked with editorial criteria.",
@@ -171,6 +175,8 @@ const TEXTOS_LISTADO: Record<"en" | "de", TextosListado> = {
     },
   },
   de: {
+    noEncontrada: "Seite nicht gefunden",
+    ariaMigas: "Brotkrümel",
     titulo: (c) => `Aktivitäten in ${c} auf Deutsch`,
     descripcionMeta: (c) =>
       `Touren, Führungen und Ausflüge in ${c} mit deutschsprachigem Guide, Audioguide oder App. Von unserer Redaktion ausgewählt.`,
@@ -205,10 +211,121 @@ const TEXTOS_LISTADO: Record<"en" | "de", TextosListado> = {
       cancelacionGratuita: "Kostenlose Stornierung",
     },
   },
+  fr: {
+    noEncontrada: "Page introuvable",
+    ariaMigas: "Fil d'Ariane",
+    titulo: (c) => `Activités à ${c} en français`,
+    descripcionMeta: (c) =>
+      `Visites, excursions et visites guidées à ${c} avec guide francophone, audioguide ou application. Sélectionnées par notre rédaction.`,
+    subtitulo: "Visites, excursions et visites guidées également proposées en français, sélectionnées par notre rédaction.",
+    actividades: "activités",
+    atracciones: "sites à voir",
+    guias: "guides",
+    valoracionMedia: "note moyenne",
+    media: "en moyenne",
+    migaActividades: "Activités",
+    vistaDe: "Vue de ",
+    sobre: (c) => `À propos de ${c}`,
+    sigue: (c) => `Continuez à découvrir ${c}`,
+    guiasDe: (c) => `Guides de ${c}`,
+    guiasDescripcion: "Des itinéraires honnêtes et des conseils pratiques pour préparer votre voyage.",
+    verGuias: "Voir les guides",
+    atraccionesDe: (c) => `Sites à voir à ${c}`,
+    atraccionesDescripcion: "Les incontournables de la ville, avec photos et contexte.",
+    verAtracciones: "Voir les sites",
+    filtros: {
+      filtrarPor: "Filtrer par",
+      atracciones: "Sites à voir",
+      categorias: "Catégories",
+      limpiarFiltros: "Effacer les filtres",
+      actividadesUna: "1 activité",
+      actividadesPlural: "{n} activités",
+      filtrosActivosUno: "1 filtre actif",
+      filtrosActivosPlural: "{n} filtres actifs",
+      desde: "À partir de",
+      verActividad: "Voir l'activité",
+      sinResultados: "Aucune activité ne correspond à ces filtres. Essayez d'en retirer quelques-uns.",
+      cancelacionGratuita: "Annulation gratuite",
+    },
+  },
+  it: {
+    noEncontrada: "Pagina non trovata",
+    ariaMigas: "Percorso di navigazione",
+    titulo: (c) => `Attività a ${c} in italiano`,
+    descripcionMeta: (c) =>
+      `Tour, visite guidate ed escursioni a ${c} con guida in italiano, audioguida o app. Selezionati dalla nostra redazione.`,
+    subtitulo: "Tour, visite guidate ed escursioni disponibili anche in italiano, selezionati dalla nostra redazione.",
+    actividades: "attività",
+    atracciones: "attrazioni",
+    guias: "guide",
+    valoracionMedia: "valutazione media",
+    media: "di media",
+    migaActividades: "Attività",
+    vistaDe: "Veduta di ",
+    sobre: (c) => `Su ${c}`,
+    sigue: (c) => `Continua a scoprire ${c}`,
+    guiasDe: (c) => `Guide di ${c}`,
+    guiasDescripcion: "Itinerari onesti e consigli pratici per organizzare il tuo viaggio.",
+    verGuias: "Vedi le guide",
+    atraccionesDe: (c) => `Attrazioni di ${c}`,
+    atraccionesDescripcion: "Le tappe imperdibili della città, con foto e contesto.",
+    verAtracciones: "Vedi le attrazioni",
+    filtros: {
+      filtrarPor: "Filtra per",
+      atracciones: "Attrazioni",
+      categorias: "Categorie",
+      limpiarFiltros: "Rimuovi i filtri",
+      actividadesUna: "1 attività",
+      actividadesPlural: "{n} attività",
+      filtrosActivosUno: "1 filtro attivo",
+      filtrosActivosPlural: "{n} filtri attivi",
+      desde: "Da",
+      verActividad: "Vedi l'attività",
+      sinResultados: "Nessuna attività corrisponde a questi filtri. Prova a toglierne qualcuno.",
+      cancelacionGratuita: "Cancellazione gratuita",
+    },
+  },
+  pt: {
+    noEncontrada: "Página não encontrada",
+    ariaMigas: "Navegação estrutural",
+    titulo: (c) => `Atividades em ${c} em português`,
+    descripcionMeta: (c) =>
+      `Tours, visitas guiadas e excursões em ${c} com guia em português, audioguia ou aplicação. Selecionados pela nossa redação.`,
+    subtitulo: "Tours, visitas guiadas e excursões também disponíveis em português, selecionados pela nossa redação.",
+    actividades: "atividades",
+    atracciones: "atrações",
+    guias: "guias",
+    valoracionMedia: "avaliação média",
+    media: "de média",
+    migaActividades: "Atividades",
+    vistaDe: "Vista de ",
+    sobre: (c) => `Sobre ${c}`,
+    sigue: (c) => `Continue a descobrir ${c}`,
+    guiasDe: (c) => `Guias de ${c}`,
+    guiasDescripcion: "Roteiros honestos e conselhos práticos para planear a sua viagem.",
+    verGuias: "Ver guias",
+    atraccionesDe: (c) => `Atrações de ${c}`,
+    atraccionesDescripcion: "O imperdível da cidade, com fotos e contexto.",
+    verAtracciones: "Ver atrações",
+    filtros: {
+      filtrarPor: "Filtrar por",
+      atracciones: "Atrações",
+      categorias: "Categorias",
+      limpiarFiltros: "Limpar filtros",
+      actividadesUna: "1 atividade",
+      actividadesPlural: "{n} atividades",
+      filtrosActivosUno: "1 filtro ativo",
+      filtrosActivosPlural: "{n} filtros ativos",
+      desde: "Desde",
+      verActividad: "Ver atividade",
+      sinResultados: "Nenhuma atividade corresponde a estes filtros. Experimente remover alguns.",
+      cancelacionGratuita: "Cancelamento gratuito",
+    },
+  },
 };
 
 function textosListado(lang: Idioma): TextosListado {
-  return lang === "de" ? TEXTOS_LISTADO.de : TEXTOS_LISTADO.en;
+  return lang === "es" ? TEXTOS_LISTADO.en : TEXTOS_LISTADO[lang];
 }
 
 
@@ -368,7 +485,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
           </>
         ) : null}
         <div className="relative max-w-5xl mx-auto px-4">
-          <nav aria-label="Breadcrumb" className="text-sm text-piedra-200 mb-4">
+          <nav aria-label={tl.ariaMigas} className="text-sm text-piedra-200 mb-4">
             <Link href={prefijoIdioma(lang) || "/"} className="hover:text-white">
               {dict.navegacion.inicio}
             </Link>
@@ -392,7 +509,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
           </p>
 
           <p className="md:hidden text-sm text-piedra-100">
-            {actividades.length} {tl.actividades}{ratingMedio !== null ? ` · ★ ${ratingMedio} ${tl.media}` : ""}
+            {actividades.length} {tl.actividades}{ratingMedio !== null ? ` · ★ ${ratingMedio.toLocaleString(IDIOMA_LOCALE[lang])} ${tl.media}` : ""}
           </p>
           <div className="hidden md:grid md:grid-cols-4 gap-x-6 gap-y-3 max-w-3xl">
             <Metrica valor={actividades.length} etiqueta={tl.actividades} />
@@ -400,10 +517,10 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
               valor={ciudad.atracciones?.length ?? 0}
               etiqueta={tl.atracciones}
             />
-            <Metrica valor={guiasDeCiudad.length} etiqueta={tl.guias} />
+            {hayGuias ? <Metrica valor={guiasDeCiudad.length} etiqueta={tl.guias} /> : null}
             {ratingMedio !== null ? (
               <Metrica
-                valor={ratingMedio}
+                valor={ratingMedio.toLocaleString(IDIOMA_LOCALE[lang])}
                 etiqueta={tl.valoracionMedia}
                 sufijo=" / 5"
               />
@@ -532,7 +649,7 @@ function Metrica({
   etiqueta,
   sufijo,
 }: {
-  valor: number;
+  valor: number | string;
   etiqueta: string;
   sufijo?: string;
 }) {

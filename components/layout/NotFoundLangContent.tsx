@@ -13,18 +13,15 @@ type Strings = {
   titulo: string;
   descripcion: string;
   volver: string;
+  /** Vacío en los idiomas sin guías (FR/IT/PT): no se pinta el enlace. */
   verGuias: string;
   verCiudades: string;
   destinos: string;
   ciudades: CiudadDestacada[];
 };
 
-/**
- * Textos del 404 por idioma. Añadir una entrada aquí es todo lo que
- * hace falta cuando se active fr/it/pt en IDIOMAS_ACTIVOS — no hay que
- * tocar el resto del componente.
- */
-const STRINGS: Partial<Record<Idioma, Strings>> = {
+/** Textos del 404 por idioma. */
+const STRINGS: Record<Idioma, Strings> = {
   es: {
     errorLabel: "Error 404",
     titulo: "Esta página no existe (o ya no)",
@@ -73,6 +70,54 @@ const STRINGS: Partial<Record<Idioma, Strings>> = {
       { slug: "granada", nombre: "Granada" },
     ],
   },
+  fr: {
+    errorLabel: "Erreur 404",
+    titulo: "Cette page n’existe pas (ou plus)",
+    descripcion:
+      "Le lien est peut-être obsolète, ou l’activité que vous cherchiez n’est plus disponible. Nous proposons toujours des activités dans toute l’Espagne : commencez ici.",
+    volver: "Retour à l’accueil",
+    verGuias: "",
+    verCiudades: "Voir toutes les villes →",
+    destinos: "Destinations les plus complètes",
+    ciudades: [
+      { slug: "madrid", nombre: "Madrid" },
+      { slug: "barcelona", nombre: "Barcelone" },
+      { slug: "sevilla", nombre: "Séville" },
+      { slug: "granada", nombre: "Grenade" },
+    ],
+  },
+  it: {
+    errorLabel: "Errore 404",
+    titulo: "Questa pagina non esiste (o non più)",
+    descripcion:
+      "Il link potrebbe essere obsoleto, oppure l’attività che cercavi non è più disponibile. Abbiamo comunque attività in tutta la Spagna: inizia da qui.",
+    volver: "Torna alla home",
+    verGuias: "",
+    verCiudades: "Vedi tutte le città →",
+    destinos: "Destinazioni con più contenuti",
+    ciudades: [
+      { slug: "madrid", nombre: "Madrid" },
+      { slug: "barcelona", nombre: "Barcellona" },
+      { slug: "sevilla", nombre: "Siviglia" },
+      { slug: "granada", nombre: "Granada" },
+    ],
+  },
+  pt: {
+    errorLabel: "Erro 404",
+    titulo: "Esta página não existe (ou já não existe)",
+    descripcion:
+      "A ligação pode estar desatualizada ou a atividade que procurava já não está disponível. Continuamos a ter atividades por toda a Espanha: comece por aqui.",
+    volver: "Voltar ao início",
+    verGuias: "",
+    verCiudades: "Ver todas as cidades →",
+    destinos: "Destinos com mais conteúdo",
+    ciudades: [
+      { slug: "madrid", nombre: "Madrid" },
+      { slug: "barcelona", nombre: "Barcelona" },
+      { slug: "sevilla", nombre: "Sevilha" },
+      { slug: "granada", nombre: "Granada" },
+    ],
+  },
 };
 
 const IDIOMA_FALLBACK: Idioma = IDIOMA_DEFECTO;
@@ -95,7 +140,7 @@ export default function NotFoundLangContent() {
       ? primerSegmento
       : IDIOMA_FALLBACK;
 
-  const t = STRINGS[idioma] ?? STRINGS[IDIOMA_FALLBACK]!;
+  const t = STRINGS[idioma];
   const homeHref = idioma === IDIOMA_DEFECTO ? "/" : `/${idioma}`;
 
   return (
@@ -118,12 +163,14 @@ export default function NotFoundLangContent() {
           >
             {t.volver}
           </Link>
-          <Link
-            href={urlIndiceGuias(idioma)}
-            className="inline-flex items-center text-anil-600 hover:text-anil-700 font-medium transition-colors"
-          >
-            {t.verGuias}
-          </Link>
+          {t.verGuias ? (
+            <Link
+              href={urlIndiceGuias(idioma)}
+              className="inline-flex items-center text-anil-600 hover:text-anil-700 font-medium transition-colors"
+            >
+              {t.verGuias}
+            </Link>
+          ) : null}
           <Link
             href={urlIndiceCiudades(idioma)}
             className="inline-flex items-center text-anil-600 hover:text-anil-700 font-medium transition-colors"

@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { obtenerCiudad } from "@/lib/ciudades";
-import { obtenerCiudadesConGuias } from "@/lib/guias";
+import { obtenerCiudadesConGuias, obtenerListaGuias } from "@/lib/guias";
 import {
   esIdiomaActivo,
   IDIOMAS_ACTIVOS,
@@ -26,8 +26,13 @@ type Props = {
   params: { lang: string };
 };
 
+/** FR/IT/PT no tienen guías: su hub no se genera ni se enlaza en hreflang. */
+function tieneGuias(lang: Idioma): boolean {
+  return obtenerListaGuias(lang).length > 0;
+}
+
 export function generateStaticParams() {
-  return IDIOMAS_ACTIVOS.filter((l) => l !== "es").map((lang) => ({ lang }));
+  return IDIOMAS_ACTIVOS.filter((l) => l !== "es" && tieneGuias(l)).map((lang) => ({ lang }));
 }
 
 type Strings = {
@@ -67,7 +72,7 @@ function getStrings(lang: Idioma): Strings {
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  if (!esIdiomaActivo(params.lang) || params.lang === "es") {
+  if (!esIdiomaActivo(params.lang) || params.lang === "es" || !tieneGuias(params.lang)) {
     return { title: "Not found" };
   }
   const lang: Idioma = params.lang;
@@ -78,7 +83,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: dict.guias.descripcionIndice,
     alternates: {
       canonical,
-      languages: hreflangAlternates((l) => urlIndiceGuias(l)),
+      languages: hreflangAlternates((l) => (tieneGuias(l) ? urlIndiceGuias(l) : null)),
     },
     openGraph: {
       type: "website",
@@ -123,7 +128,7 @@ async function obtenerHubCiudades(lang: Idioma): Promise<CiudadConDatos[]> {
 }
 
 export default async function GuiasHubPage({ params }: Props) {
-  if (!esIdiomaActivo(params.lang) || params.lang === "es") {
+  if (!esIdiomaActivo(params.lang) || params.lang === "es" || !tieneGuias(params.lang)) {
     notFound();
   }
 

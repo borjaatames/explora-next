@@ -1,3 +1,4 @@
+import type { IdiomaGyg } from "./afiliados-gyg";
 /**
  * Configuración centralizada de los 3 programas de afiliados con los
  * que trabajamos: Civitatis, GetYourGuide y Viator.
@@ -91,7 +92,7 @@ export function proveedorActivo(proveedor: ProveedorActividad): boolean {
 export function construirUrlReserva(
   proveedor: ProveedorActividad,
   urlBase: string,
-  idioma: "es" | "en" | "de" = "es",
+  idioma: IdiomaGyg = "es",
   cmp?: string
 ): string {
   if (!urlBase) return "";
@@ -102,8 +103,8 @@ export function construirUrlReserva(
     case "getyourguide":
       return normalizarUrlGetYourGuide(urlBase, idioma, cmp);
     case "viator":
-      // Viator no tiene versión alemana para afiliados: en DE, la inglesa.
-      return construirUrlViator(normalizarUrlViator(urlBase, idioma === "de" ? "en" : idioma));
+      // Viator solo tiene ES/EN para afiliados: el resto de idiomas, la inglesa.
+      return construirUrlViator(normalizarUrlViator(urlBase, idioma === "es" ? "es" : "en"));
     case "bokun":
       // Revendedor: no hay URL externa de reserva. El widget embebido
       // (calendario Bokun) gestiona disponibilidad, reserva y pago dentro
