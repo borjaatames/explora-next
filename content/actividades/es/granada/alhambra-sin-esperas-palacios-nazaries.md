@@ -6,6 +6,7 @@ descripcion: 'Visita guiada a la Alhambra y los Palacios Nazaríes con entrada r
 slugs:
   es: alhambra-sin-esperas-palacios-nazaries
   en: alhambra-skip-the-wait-nasrid-palaces
+  de: alhambra-nasridenpalaeste-fuehrung-ohne-warten
 duracion: 3 – 4,5 horas
 duracionMinutos: 180
 precioDesde: 96

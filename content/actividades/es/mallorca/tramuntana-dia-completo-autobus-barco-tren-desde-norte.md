@@ -6,6 +6,7 @@ descripcion: Excursión guiada de 9 horas desde Alcúdia que combina autocar has
 slugs:
   es: tramuntana-dia-completo-autobus-barco-tren-desde-norte
   en: tramuntana-full-day-bus-boat-train-from-north
+  de: tramuntana-tagesausflug-bus-boot-zug-ab-norden
 duracion: 9 horas
 duracionMinutos: 540
 precioDesde: 98

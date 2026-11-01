@@ -6,6 +6,7 @@ descripcion: Excursión gastronómica de 5 horas desde Costa Calma a una queser�
 slugs:
   es: tapas-vida-local-fincas-fuerteventura
   en: fuerteventura-tapas-local-life-farm-tour
+  de: fuerteventura-tapas-fincas-tour
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 85

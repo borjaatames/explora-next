@@ -6,6 +6,7 @@ descripcion: '7 to 10 km hike near Pico de las Nieves and Roque Nublo with an in
 slugs:
   es: senderismo-cumbres-gran-canaria-guia-montana
   en: peaks-of-gran-canaria-guided-hike
+  de: gran-canaria-gipfelwanderung-mit-bergfuehrer
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 70

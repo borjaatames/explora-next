@@ -6,6 +6,7 @@ descripcion: A half-day trip from Valencia to the San José Caves in La Vall d'U
 slugs:
   es: cuevas-san-jose-barca-guia-desde-valencia
   en: san-jose-caves-boat-guide-from-valencia
+  de: cuevas-de-san-jose-bootsfahrt-ab-valencia
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 49

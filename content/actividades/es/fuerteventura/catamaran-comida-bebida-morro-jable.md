@@ -6,6 +6,7 @@ descripcion: Travesía de 4 horas en el catamarán Magic Select desde Morro Jabl
 slugs:
   es: catamaran-comida-bebida-morro-jable
   en: morro-jable-catamaran-lunch-drinks
+  de: morro-jable-katamaran-mit-essen-und-getraenken
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 79

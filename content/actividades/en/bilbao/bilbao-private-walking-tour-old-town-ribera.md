@@ -6,6 +6,7 @@ descripcion: '2-hour private walk around Bilbao with a local guide: Plaza Moyúa
 slugs:
   es: bilbao-tour-privado-a-pie-casco-viejo-ribera
   en: bilbao-private-walking-tour-old-town-ribera
+  de: bilbao-private-altstadtfuehrung-ribera
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 36

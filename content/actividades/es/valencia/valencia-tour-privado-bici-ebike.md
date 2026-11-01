@@ -6,6 +6,7 @@ descripcion: 'Tour privado de 3 h 30 min en bicicleta o bici eléctrica: Torres 
 slugs:
   es: valencia-tour-privado-bici-ebike
   en: valencia-private-bike-ebike-tour
+  de: valencia-private-fahrradtour-e-bike
 duracion: 3 horas y 30 minutos
 duracionMinutos: 210
 precioDesde: 83

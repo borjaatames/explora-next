@@ -6,6 +6,7 @@ descripcion: 3-hour guided kayak tour from Cala Romántica to the Cala Varques r
 slugs:
   es: cala-varques-kayak-cuevas-marinas-esnorquel
   en: cala-varques-kayak-sea-caves-snorkel
+  de: cala-varques-kajaktour-meereshoehlen-schnorcheln
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 67

@@ -6,6 +6,7 @@ descripcion: 'Self-guided Córdoba audio tour via the DareMapp app: no physical 
 slugs:
   es: tour-autoguiado-daremapp-cordoba
   en: self-guided-tour-daremapp-cordoba
+  de: cordoba-audiotour-daremapp-app
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 10.0

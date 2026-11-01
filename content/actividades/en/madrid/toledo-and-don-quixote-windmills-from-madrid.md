@@ -6,6 +6,7 @@ descripcion: 10-hour small-group day trip from Madrid to the Consuegra windmills
 slugs:
   en: toledo-and-don-quixote-windmills-from-madrid
   es: excursion-toledo-molinos-quijote
+  de: toledo-don-quijote-windmuehlen-ausflug-ab-madrid
 duracion: 10 hours
 duracionMinutos: 600
 precioDesde: 125

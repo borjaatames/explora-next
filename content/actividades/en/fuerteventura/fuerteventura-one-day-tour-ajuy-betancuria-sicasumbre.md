@@ -6,6 +6,7 @@ descripcion: 6-hour minibus tour for up to 8 people through Betancuria Rural Par
 slugs:
   es: fuerteventura-en-un-dia-ajuy-betancuria-sicasumbre
   en: fuerteventura-one-day-tour-ajuy-betancuria-sicasumbre
+  de: fuerteventura-tagestour-ajuy-betancuria-sicasumbre
 duracion: 6 hours
 duracionMinutos: 360
 precioDesde: 79

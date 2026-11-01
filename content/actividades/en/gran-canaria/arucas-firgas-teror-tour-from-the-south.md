@@ -6,6 +6,7 @@ descripcion: '8-hour coach trip from southern Gran Canaria to the northern villa
 slugs:
   es: excursion-arucas-firgas-teror-desde-sur
   en: arucas-firgas-teror-tour-from-the-south
+  de: arucas-firgas-teror-tagesausflug-ab-dem-sueden
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 52

@@ -6,6 +6,7 @@ descripcion: 'Excursión de 9 horas con las tres entradas incluidas: Ruta de los
 slugs:
   es: timanfaya-jameos-cueva-de-los-verdes
   en: timanfaya-jameos-cueva-de-los-verdes-tour
+  de: lanzarote-timanfaya-jameos-cueva-de-los-verdes-tour
 duracion: 9 horas
 duracionMinutos: 540
 precioDesde: 89

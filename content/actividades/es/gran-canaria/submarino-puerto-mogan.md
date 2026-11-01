@@ -6,6 +6,7 @@ descripcion: 'Inmersión de 40 minutos en submarino frente a Puerto de Mogán: p
 slugs:
   es: submarino-puerto-mogan
   en: puerto-de-mogan-submarine-tour
+  de: puerto-de-mogan-u-boot-tour
 duracion: 40 minutos
 duracionMinutos: 40
 precioDesde: 38

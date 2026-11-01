@@ -6,6 +6,7 @@ descripcion: Recorrido de un día en minibús por el centro y el oeste de la isl
 slugs:
   es: tour-isla-fuerteventura-minibus
   en: fuerteventura-island-tour-minibus
+  de: fuerteventura-inselrundfahrt-im-minibus
 duracion: 6 horas
 duracionMinutos: 360
 precioDesde: 350

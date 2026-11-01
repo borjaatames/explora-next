@@ -6,6 +6,7 @@ descripcion: 3-hour minibus tour from Alcúdia, in a group of up to 8, through t
 slugs:
   es: formentor-atardecer-minibus-cava-desde-alcudia
   en: formentor-sunset-minibus-cava-from-alcudia
+  de: formentor-sonnenuntergang-minibus-cava-ab-alcudia
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 65

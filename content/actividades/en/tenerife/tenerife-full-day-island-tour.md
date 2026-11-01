@@ -6,6 +6,7 @@ descripcion: '8-hour guided tour with pickup in south Tenerife: the Los Gigantes
 slugs:
   es: excursion-vuelta-isla-tenerife-dia-completo
   en: tenerife-full-day-island-tour
+  de: teneriffa-inselrundfahrt-ganztags
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 57

@@ -6,6 +6,7 @@ descripcion: Tour privado de 3 horas para familias por La Rambla, la Boquería, 
 slugs:
   es: barcelona-tour-privado-familias-churros-juegos
   en: barcelona-private-family-tour-churros-games
+  de: barcelona-familien-privattour-churros-spiele
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 76

@@ -6,6 +6,7 @@ descripcion: 7 to 8-hour coach tour covering the south and north of the island i
 slugs:
   es: excursion-timanfaya-el-golfo-jameos-del-agua
   en: timanfaya-el-golfo-jameos-del-agua-day-trip
+  de: lanzarote-timanfaya-el-golfo-jameos-del-agua-tagesausflug
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 87

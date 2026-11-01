@@ -6,6 +6,7 @@ descripcion: 'A 9-hour trip with all three tickets included: the Volcano Route i
 slugs:
   es: timanfaya-jameos-cueva-de-los-verdes
   en: timanfaya-jameos-cueva-de-los-verdes-tour
+  de: lanzarote-timanfaya-jameos-cueva-de-los-verdes-tour
 duracion: 9 hours
 duracionMinutos: 540
 precioDesde: 89

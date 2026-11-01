@@ -6,6 +6,7 @@ descripcion: 'Private 1 h 30 min electric tuk-tuk tour of Madrid''s Christmas li
 slugs:
   es: tuk-tuk-luces-navidad-madrid
   en: madrid-christmas-lights-tuk-tuk-tour
+  de: madrid-weihnachtsbeleuchtung-private-tuk-tuk-tour
 duracion: 1 hour 30 minutes
 duracionMinutos: 90
 precioDesde: 99

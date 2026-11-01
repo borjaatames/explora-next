@@ -6,6 +6,7 @@ descripcion: 'Tour privado de 4 horas: cinco tabernas y bares tradicionales con 
 slugs:
   es: tour-gastronomico-privado-barcelona-sagrada-familia
   en: barcelona-private-food-tour-sagrada-familia-tickets
+  de: barcelona-food-tour-privat-sagrada-familia-tickets
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 186

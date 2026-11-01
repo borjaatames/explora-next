@@ -6,6 +6,7 @@ descripcion: 'Descubre Sevilla a tu ritmo con la audioguía autoguiada DareMapp:
 slugs:
   es: tour-autoguiado-daremapp-sevilla
   en: self-guided-tour-daremapp-sevilla
+  de: sevilla-audiotour-daremapp-app
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 10

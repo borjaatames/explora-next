@@ -6,6 +6,7 @@ descripcion: 'Guided tour of the Alhambra and Nasrid Palaces with fast entry, in
 slugs:
   en: alhambra-skip-the-wait-nasrid-palaces
   es: alhambra-sin-esperas-palacios-nazaries
+  de: alhambra-nasridenpalaeste-fuehrung-ohne-warten
 duracion: 3 – 4.5 hours
 duracionMinutos: 180
 precioDesde: 96

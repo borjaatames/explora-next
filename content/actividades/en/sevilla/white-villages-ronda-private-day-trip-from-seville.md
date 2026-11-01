@@ -6,6 +6,7 @@ descripcion: 'Private 9-hour day trip from Seville through the White Villages: Z
 slugs:
   es: pueblos-blancos-ronda-excursion-privada-desde-sevilla
   en: white-villages-ronda-private-day-trip-from-seville
+  de: weisse-doerfer-ronda-privattour-ab-sevilla
 duracion: 9 hours
 duracionMinutos: 540
 precioDesde: 389

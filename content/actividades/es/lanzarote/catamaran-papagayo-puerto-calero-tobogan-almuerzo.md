@@ -6,6 +6,7 @@ descripcion: Travesía de 4 horas en catamarán de vela desde Puerto Calero hast
 slugs:
   es: catamaran-papagayo-puerto-calero-tobogan-almuerzo
   en: papagayo-catamaran-puerto-calero-slide-lunch
+  de: papagayo-katamaran-ab-puerto-calero-mit-rutsche
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 85

@@ -6,6 +6,7 @@ descripcion: 'Audioguía autoguiada por Bilbao vía app DareMapp: sin guía fís
 slugs:
   es: tour-autoguiado-daremapp-bilbao
   en: self-guided-tour-daremapp-bilbao
+  de: bilbao-audioguide-tour-daremapp-app
 duracion: 3 horas 30 minutos
 duracionMinutos: 210
 precioDesde: 5.0

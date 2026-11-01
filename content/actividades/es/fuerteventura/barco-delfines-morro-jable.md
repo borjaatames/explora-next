@@ -6,6 +6,7 @@ descripcion: Paseo de 2 horas en el barco Magic Dolphin desde el puerto de Morro
 slugs:
   es: barco-delfines-morro-jable
   en: morro-jable-dolphin-whale-boat-trip
+  de: morro-jable-delfinbeobachtung-bootstour
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 49

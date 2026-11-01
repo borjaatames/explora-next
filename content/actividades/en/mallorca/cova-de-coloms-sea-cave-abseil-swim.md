@@ -6,6 +6,7 @@ descripcion: 4-hour adventure on Mallorca's east coast from Cala Romàntica, wit
 slugs:
   es: cova-de-coloms-cueva-marina-rapel-nado
   en: cova-de-coloms-sea-cave-abseil-swim
+  de: cova-de-coloms-meereshoehle-abseilen-schwimmen
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 69

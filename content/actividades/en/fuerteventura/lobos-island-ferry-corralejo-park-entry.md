@@ -6,6 +6,7 @@ descripcion: Return ferry ticket from Corralejo to Lobos Island with natural par
 slugs:
   es: ferry-isla-lobos-corralejo-entrada
   en: lobos-island-ferry-corralejo-park-entry
+  de: isla-de-lobos-faehre-ab-corralejo
 duracion: Ticket valid for 1 day
 duracionMinutos: 240
 precioDesde: 17

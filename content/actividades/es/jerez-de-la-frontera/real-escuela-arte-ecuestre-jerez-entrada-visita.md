@@ -6,6 +6,7 @@ descripcion: Recorrido guiado por la Real Escuela de Jerez con caballerizas, gua
 slugs:
   es: real-escuela-arte-ecuestre-jerez-entrada-visita
   en: royal-andalusian-equestrian-school-jerez-admission
+  de: jerez-koenigliche-reitschule-eintritt-fuehrung
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 16

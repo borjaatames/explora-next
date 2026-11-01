@@ -6,6 +6,7 @@ descripcion: Excursión guiada de 9 horas en autobús de sur a norte, con entrad
 slugs:
   es: excursion-timanfaya-jameos-almuerzo-incluido
   en: timanfaya-jameos-del-agua-tour-with-lunch
+  de: lanzarote-timanfaya-jameos-del-agua-tour-mit-mittagessen
 duracion: 9 horas
 duracionMinutos: 540
 precioDesde: 95

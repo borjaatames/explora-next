@@ -6,6 +6,7 @@ descripcion: Tour de 2 horas en tuk tuk eléctrico por el centro histórico, el 
 slugs:
   es: tour-tuk-tuk-valencia-centro-playas
   en: valencia-tuk-tuk-tour-old-town-beaches
+  de: valencia-tuk-tuk-tour-altstadt-straende
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 40

@@ -6,6 +6,7 @@ descripcion: Excursión de 6 horas en minibús con grupo de máximo 8 personas p
 slugs:
   es: fuerteventura-en-un-dia-ajuy-betancuria-sicasumbre
   en: fuerteventura-one-day-tour-ajuy-betancuria-sicasumbre
+  de: fuerteventura-tagestour-ajuy-betancuria-sicasumbre
 duracion: 6 horas
 duracionMinutos: 360
 precioDesde: 79

@@ -6,6 +6,7 @@ descripcion: Excursión guiada de 8 horas con recogida por las grandes obras de 
 slugs:
   es: tour-cesar-manrique-norte-lanzarote
   en: lanzarote-cesar-manrique-legacy-tour
+  de: lanzarote-cesar-manrique-tour-norden
 duracion: 8 horas
 duracionMinutos: 480
 precioDesde: 83

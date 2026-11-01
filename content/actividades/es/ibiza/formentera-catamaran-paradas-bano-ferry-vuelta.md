@@ -6,6 +6,7 @@ descripcion: Mañana en catamarán de Ibiza a Formentera con baños en Espalmado
 slugs:
   es: formentera-catamaran-paradas-bano-ferry-vuelta
   en: formentera-catamaran-swim-stops-return-ferry
+  de: formentera-katamaran-ab-ibiza-mit-badestopps-und-faehre
 duracion: 10 horas
 duracionMinutos: 600
 precioDesde: 89

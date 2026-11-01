@@ -6,6 +6,7 @@ descripcion: Full-day catamaran trip from Ibiza to Formentera with swims at Espa
 slugs:
   es: formentera-catamaran-tres-paradas-fiesta-atardecer
   en: formentera-catamaran-three-stops-sunset-party
+  de: formentera-katamaran-ab-ibiza-mit-sunset-party
 duracion: 12 hours
 duracionMinutos: 720
 precioDesde: 99

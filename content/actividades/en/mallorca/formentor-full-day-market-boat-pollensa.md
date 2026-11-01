@@ -6,6 +6,7 @@ descripcion: 8-hour guided tour of northern Mallorca with pickup, the Sineu or A
 slugs:
   es: formentor-dia-completo-mercado-barco-pollenca
   en: formentor-full-day-market-boat-pollensa
+  de: formentor-tagesausflug-markt-boot-pollenca
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 59

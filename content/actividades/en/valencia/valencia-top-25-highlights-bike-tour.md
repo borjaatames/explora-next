@@ -6,6 +6,7 @@ descripcion: A two-and-a-half-hour bike tour of more than 25 Valencia spots, fro
 slugs:
   es: tour-bici-valencia-25-lugares-imprescindibles
   en: valencia-top-25-highlights-bike-tour
+  de: valencia-fahrradtour-25-highlights
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 26

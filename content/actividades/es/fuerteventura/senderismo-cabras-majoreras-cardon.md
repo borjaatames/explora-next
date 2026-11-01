@@ -6,6 +6,7 @@ descripcion: Caminata guiada de 3 horas y media y 6 km junto a cinco cabras majo
 slugs:
   es: senderismo-cabras-majoreras-cardon
   en: guided-goat-trekking-el-cardon
+  de: fuerteventura-ziegen-trekking-el-cardon
 duracion: 3 horas 30 minutos
 duracionMinutos: 210
 precioDesde: 59

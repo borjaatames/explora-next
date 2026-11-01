@@ -6,6 +6,7 @@ descripcion: 'Full-day trip with pickup in southern Mallorca: coach through the 
 slugs:
   es: mallorca-vuelta-isla-tren-soller-tranvia-barco
   en: mallorca-island-tour-soller-train-tram-boat
+  de: mallorca-inselrundfahrt-soller-zug-strassenbahn-boot
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 103

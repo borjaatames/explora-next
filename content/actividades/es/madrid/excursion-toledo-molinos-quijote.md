@@ -6,6 +6,7 @@ descripcion: Excursión de 10 horas desde Madrid a los molinos de Consuegra y a 
 slugs:
   es: excursion-toledo-molinos-quijote
   en: toledo-and-don-quixote-windmills-from-madrid
+  de: toledo-don-quijote-windmuehlen-ausflug-ab-madrid
 duracion: 10 horas
 duracionMinutos: 600
 precioDesde: 125

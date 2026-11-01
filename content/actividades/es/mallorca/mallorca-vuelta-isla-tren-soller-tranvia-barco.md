@@ -6,6 +6,7 @@ descripcion: 'Excursión de día completo con recogida en el sur de Mallorca: au
 slugs:
   es: mallorca-vuelta-isla-tren-soller-tranvia-barco
   en: mallorca-island-tour-soller-train-tram-boat
+  de: mallorca-inselrundfahrt-soller-zug-strassenbahn-boot
 duracion: 8 horas
 duracionMinutos: 480
 precioDesde: 103

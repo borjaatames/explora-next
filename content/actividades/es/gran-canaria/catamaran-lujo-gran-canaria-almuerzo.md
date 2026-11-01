@@ -6,6 +6,7 @@ descripcion: 'Crucero de 4 horas y media desde Puerto Rico por la costa suroeste
 slugs:
   es: catamaran-lujo-gran-canaria-almuerzo
   en: gran-canaria-luxury-catamaran-cruise-lunch
+  de: gran-canaria-luxus-katamaran-mit-mittagessen
 duracion: 4 horas 30 minutos
 duracionMinutos: 270
 precioDesde: 84

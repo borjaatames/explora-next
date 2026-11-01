@@ -6,6 +6,7 @@ descripcion: 'Half day with pickup in Alcúdia, Port de Pollença, Can Picafort 
 slugs:
   es: tren-soller-tranvia-medio-dia-desde-el-norte
   en: soller-train-tram-half-day-from-the-north
+  de: soller-zug-strassenbahn-halbtagestour-ab-norden
 duracion: 5-6 hours
 duracionMinutos: 330
 precioDesde: 56

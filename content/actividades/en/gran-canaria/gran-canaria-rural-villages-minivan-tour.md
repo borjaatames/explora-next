@@ -6,6 +6,7 @@ descripcion: '8-hour south-to-north tour in an 8-seat minivan with a guide-drive
 slugs:
   es: tour-pueblos-rurales-gran-canaria-minivan
   en: gran-canaria-rural-villages-minivan-tour
+  de: gran-canaria-bergdoerfer-tour-im-minivan
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 79

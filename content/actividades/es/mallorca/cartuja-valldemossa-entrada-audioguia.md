@@ -6,6 +6,7 @@ descripcion: 'Entrada a la Real Cartuja de Valldemossa con audioguía en el móv
 slugs:
   es: cartuja-valldemossa-entrada-audioguia
   en: valldemossa-charterhouse-ticket-audio-guide
+  de: valldemossa-kartause-tickets-audioguide
 duracion: 1 hora aproximadamente
 duracionMinutos: 60
 precioDesde: 12.5

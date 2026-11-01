@@ -6,6 +6,7 @@ descripcion: 30-minute guided camel ride through the Maspalomas Dunes, on a comf
 slugs:
   es: paseo-camello-dunas-maspalomas
   en: maspalomas-dunes-camel-ride
+  de: maspalomas-kamelreiten-duenen
 duracion: 30 minutes
 duracionMinutos: 30
 precioDesde: 18

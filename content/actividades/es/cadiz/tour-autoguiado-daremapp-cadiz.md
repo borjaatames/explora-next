@@ -6,6 +6,7 @@ descripcion: 'Audioguía autoguiada por Cádiz vía app DareMapp: sin guía fís
 slugs:
   es: tour-autoguiado-daremapp-cadiz
   en: self-guided-tour-daremapp-cadiz
+  de: cadiz-audiotour-daremapp-app
 duracion: 4 horas 30 minutos
 duracionMinutos: 270
 precioDesde: 5.0

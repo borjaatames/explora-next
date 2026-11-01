@@ -6,6 +6,7 @@ descripcion: 'Entrada al Centre Pompidou Málaga, «El Cubo» del puerto: unas 7
 slugs:
   es: centre-pompidou-malaga-entrada
   en: centre-pompidou-malaga-ticket
+  de: centre-pompidou-malaga-tickets
 duracion: 1 h 30 aproximadamente
 duracionMinutos: 90
 precioDesde: 9

@@ -6,6 +6,7 @@ descripcion: Salida de 3 horas y media en velero desde Morro Jable para buscar d
 slugs:
   es: velero-morro-jable-delfines-esnorquel
   en: morro-jable-sailing-dolphins-snorkelling
+  de: morro-jable-segeltoern-delfine-schnorcheln
 duracion: 3 horas 30 minutos
 duracionMinutos: 210
 precioDesde: 88

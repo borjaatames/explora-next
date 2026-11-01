@@ -6,6 +6,7 @@ descripcion: 2-hour guided walk through Salamanca's monuments in a group of up t
 slugs:
   es: tour-a-pie-monumentos-salamanca
   en: salamanca-monuments-guided-walking-tour
+  de: salamanca-stadtfuehrung-zu-fuss-monumente
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 25

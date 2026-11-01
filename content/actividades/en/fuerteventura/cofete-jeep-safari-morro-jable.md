@@ -6,6 +6,7 @@ descripcion: 3-hour shared 4x4 safari from Morro Jable along the Cofete track, w
 slugs:
   es: jeep-safari-cofete-morro-jable
   en: cofete-jeep-safari-morro-jable
+  de: cofete-jeep-safari-ab-morro-jable
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 65

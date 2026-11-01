@@ -6,6 +6,7 @@ descripcion: 8-hour guided day trip with pickup to César Manrique's key works i
 slugs:
   es: tour-cesar-manrique-norte-lanzarote
   en: lanzarote-cesar-manrique-legacy-tour
+  de: lanzarote-cesar-manrique-tour-norden
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 83

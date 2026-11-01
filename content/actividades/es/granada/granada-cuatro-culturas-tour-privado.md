@@ -6,6 +6,7 @@ descripcion: 'Tour privado a pie de 2 o 3 horas por los tres barrios más antigu
 slugs:
   es: granada-cuatro-culturas-tour-privado
   en: granada-four-cultures-private-walking-tour
+  de: granada-vier-kulturen-privater-rundgang
 duracion: 2 o 3 horas, según la opción
 duracionMinutos: 120
 precioDesde: 180

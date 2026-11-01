@@ -6,6 +6,7 @@ descripcion: Guided walking tour of Valencia's old town with entry to the cathed
 slugs:
   es: tour-catedral-lonja-san-nicolas-valencia
   en: valencia-cathedral-silk-exchange-san-nicolas-tour
+  de: valencia-kathedrale-seidenboerse-san-nicolas-fuehrung
 duracion: 3-4 hours
 duracionMinutos: 210
 precioDesde: 49

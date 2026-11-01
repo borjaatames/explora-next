@@ -6,6 +6,7 @@ descripcion: A 7-hour coach trip from the south via the Degollada de las Yeguas,
 slugs:
   es: excursion-fataga-tejeda-roque-nublo-desde-sur
   en: fataga-tejeda-roque-nublo-day-trip-from-south
+  de: fataga-tejeda-roque-nublo-tagesausflug-ab-dem-sueden
 duracion: 7 hours
 duracionMinutos: 420
 precioDesde: 47

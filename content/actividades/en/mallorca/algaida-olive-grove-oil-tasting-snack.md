@@ -6,6 +6,7 @@ descripcion: 2-hour guided visit to the Treurer estate in Algaida, with the mill
 slugs:
   es: algaida-olivar-cata-aceite-almuerzo
   en: algaida-olive-grove-oil-tasting-snack
+  de: algaida-olivenhain-olivenoel-verkostung
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 50

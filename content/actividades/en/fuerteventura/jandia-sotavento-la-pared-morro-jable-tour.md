@@ -6,6 +6,7 @@ descripcion: Half-day tour of the Jandía peninsula for up to 8 people, with a w
 slugs:
   es: excursion-jandia-sotavento-la-pared-morro-jable
   en: jandia-sotavento-la-pared-morro-jable-tour
+  de: jandia-sotavento-la-pared-morro-jable-ausflug
 duracion: 4 hours 30 minutes
 duracionMinutos: 270
 precioDesde: 49

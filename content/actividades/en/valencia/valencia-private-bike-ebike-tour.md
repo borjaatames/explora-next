@@ -6,6 +6,7 @@ descripcion: 'A 3.5-hour private bike or e-bike tour: the Serranos Towers, Plaza
 slugs:
   es: valencia-tour-privado-bici-ebike
   en: valencia-private-bike-ebike-tour
+  de: valencia-private-fahrradtour-e-bike
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 83

@@ -6,6 +6,7 @@ descripcion: Hora y media en catamarán con visión submarina desde Los Cristian
 slugs:
   es: ballenas-delfines-sin-persecucion-los-cristianos
   en: no-chase-whale-dolphin-watching-los-cristianos
+  de: los-cristianos-wal-delfin-beobachtung-ohne-verfolgung
 duracion: 1,5 horas
 duracionMinutos: 90
 precioDesde: 28

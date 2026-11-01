@@ -6,6 +6,7 @@ descripcion: 'Circuitos de aventura entre los árboles cerca de Palma: más de 9
 slugs:
   es: forestal-park-mallorca-aventura
   en: forestal-park-mallorca-adventure
+  de: forestal-park-mallorca-kletterpark
 duracion: Válida 1 día
 duracionMinutos: 180
 precioDesde: 26

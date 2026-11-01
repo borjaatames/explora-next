@@ -6,6 +6,7 @@ descripcion: 'Tour guiado en bicicleta por Salamanca: orillas del Tormes, puente
 slugs:
   es: tour-bici-salamanca-panoramico
   en: salamanca-guided-bike-tour
+  de: salamanca-fahrradtour-mit-guide
 duracion: 2-2,5 horas
 duracionMinutos: 135
 precioDesde: 25

@@ -6,6 +6,7 @@ descripcion: 'Explore Seville at your own pace with the DareMapp self-guided aud
 slugs:
   es: tour-autoguiado-daremapp-sevilla
   en: self-guided-tour-daremapp-sevilla
+  de: sevilla-audiotour-daremapp-app
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 10

@@ -6,6 +6,7 @@ descripcion: 'Tour privado de 1 h 30 min en tuk-tuk eléctrico por las luces de 
 slugs:
   es: tuk-tuk-luces-navidad-madrid
   en: madrid-christmas-lights-tuk-tuk-tour
+  de: madrid-weihnachtsbeleuchtung-private-tuk-tuk-tour
 duracion: 1 hora y 30 minutos
 duracionMinutos: 90
 precioDesde: 99

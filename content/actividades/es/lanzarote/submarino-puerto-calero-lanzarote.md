@@ -6,6 +6,7 @@ descripcion: Una hora en un submarino real que baja hasta 30 m frente a Puerto C
 slugs:
   es: submarino-puerto-calero-lanzarote
   en: lanzarote-submarine-dive-puerto-calero
+  de: lanzarote-u-boot-tauchfahrt-puerto-calero
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 65

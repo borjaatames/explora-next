@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 2 horas y media en quad automático desde Torrenova,
 slugs:
   es: magaluf-quad-miradores-cueva-cala
   en: magaluf-quad-tour-viewpoints-cave-cove
+  de: magaluf-quad-tour-aussichtspunkte-hoehle-bucht
 duracion: 2 horas 30 minutos
 duracionMinutos: 150
 precioDesde: 49

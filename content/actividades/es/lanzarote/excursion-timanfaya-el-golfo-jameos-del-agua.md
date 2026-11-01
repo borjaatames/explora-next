@@ -6,6 +6,7 @@ descripcion: Excursión en autobús de 7 a 8 horas que une el sur y el norte de 
 slugs:
   es: excursion-timanfaya-el-golfo-jameos-del-agua
   en: timanfaya-el-golfo-jameos-del-agua-day-trip
+  de: lanzarote-timanfaya-el-golfo-jameos-del-agua-tagesausflug
 duracion: 8 horas
 duracionMinutos: 480
 precioDesde: 87

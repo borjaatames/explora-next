@@ -6,6 +6,7 @@ descripcion: Guided visit to Jerez's Royal School covering the stables, tack roo
 slugs:
   es: real-escuela-arte-ecuestre-jerez-entrada-visita
   en: royal-andalusian-equestrian-school-jerez-admission
+  de: jerez-koenigliche-reitschule-eintritt-fuehrung
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 16

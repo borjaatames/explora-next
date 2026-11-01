@@ -6,6 +6,7 @@ descripcion: A 3-hour private tour of the Gothic Quarter and El Born with a loca
 slugs:
   es: tapas-vino-y-flamenco-tour-privado-barcelona
   en: barcelona-private-tapas-wine-flamenco-tour
+  de: barcelona-tapas-wein-flamenco-privattour
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 114

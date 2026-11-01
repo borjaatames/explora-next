@@ -6,6 +6,7 @@ descripcion: 'A 3-hour private tour of five bars and food stops in Poble-sec, El
 slugs:
   es: tour-gastronomico-privado-barcelona-tapas-churros
   en: barcelona-private-food-tour-tapas-churros
+  de: barcelona-food-tour-privat-tapas-churros
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 128

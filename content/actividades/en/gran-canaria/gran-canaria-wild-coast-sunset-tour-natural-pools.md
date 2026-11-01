@@ -6,6 +6,7 @@ descripcion: A 9-hour small-group trip along the natural pools and cliffs of nor
 slugs:
   es: atardecer-costa-norte-gran-canaria-piscinas-naturales
   en: gran-canaria-wild-coast-sunset-tour-natural-pools
+  de: gran-canaria-nordkueste-sonnenuntergang-naturpools
 duracion: 9 hours
 duracionMinutos: 540
 precioDesde: 92

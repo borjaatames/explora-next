@@ -6,6 +6,7 @@ descripcion: Paseo guiado de 1 hora 45 minutos por el casco antiguo de Palma, co
 slugs:
   es: palma-visita-guiada-casco-antiguo
   en: palma-old-town-guided-walking-tour
+  de: palma-altstadt-fuehrung
 duracion: 1 hora 45 minutos
 duracionMinutos: 105
 precioDesde: 39

@@ -6,6 +6,7 @@ descripcion: Entrada con visita guiada de unos 50 minutos al BiBo Park de Sant R
 slugs:
   es: bibo-park-ibiza-visita-guiada-jardin-botanico
   en: bibo-park-ibiza-botanical-garden-guided-tour
+  de: bibo-park-ibiza-botanischer-garten-fuehrung
 duracion: 50 minutos
 duracionMinutos: 50
 precioDesde: 19

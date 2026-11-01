@@ -6,6 +6,7 @@ descripcion: 'A 4-hour private tour: five traditional taverns and bars with tapa
 slugs:
   es: tour-gastronomico-privado-barcelona-sagrada-familia
   en: barcelona-private-food-tour-sagrada-familia-tickets
+  de: barcelona-food-tour-privat-sagrada-familia-tickets
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 186

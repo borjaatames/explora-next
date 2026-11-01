@@ -6,6 +6,7 @@ descripcion: Casa Amatller, Puig i Cadafalch's house on the Block of Discord, wi
 slugs:
   es: casa-amatller-entrada-videoguia
   en: casa-amatller-priority-entry-ticket
+  de: casa-amatller-ticket-bevorzugter-einlass
 duracion: About 45 minutes
 duracionMinutos: 45
 precioDesde: 18

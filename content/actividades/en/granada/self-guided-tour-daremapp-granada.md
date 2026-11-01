@@ -6,6 +6,7 @@ descripcion: 'Self-guided Granada audio tour via the DareMapp app: no physical g
 slugs:
   es: tour-autoguiado-daremapp-granada
   en: self-guided-tour-daremapp-granada
+  de: granada-tour-auf-eigene-faust-daremapp
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 10.0

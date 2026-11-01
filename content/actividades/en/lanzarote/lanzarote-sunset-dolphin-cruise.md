@@ -6,6 +6,7 @@ descripcion: A 2-hour sunset catamaran trip from Puerto del Carmen, with a welco
 slugs:
   es: barco-atardecer-delfines-puerto-del-carmen
   en: lanzarote-sunset-dolphin-cruise
+  de: lanzarote-sonnenuntergang-bootstour-delfine
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 53

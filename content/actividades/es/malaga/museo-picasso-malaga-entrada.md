@@ -6,6 +6,7 @@ descripcion: 'Entrada oficial al Museo Picasso Málaga, en el Palacio de Buenavi
 slugs:
   es: museo-picasso-malaga-entrada
   en: picasso-museum-malaga-ticket
+  de: picasso-museum-malaga-tickets-audioguide
 duracion: Válida 1 día
 duracionMinutos: 120
 precioDesde: 13

@@ -6,6 +6,7 @@ descripcion: Half-day trip from Palma to the Drach Caves with skip-the-ticket-li
 slugs:
   es: cuevas-del-drach-concierto-barca-desde-palma
   en: drach-caves-concert-boat-from-palma
+  de: drachenhoehlen-konzert-bootsfahrt-ab-palma
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 54

@@ -6,6 +6,7 @@ descripcion: 'Medio día en Formentor sin coche: minibús panorámico con guía,
 slugs:
   es: formentor-minibus-barco-mirador-playa
   en: formentor-minibus-boat-tour-viewpoint-beach
+  de: formentor-minibus-boot-tour-aussichtspunkt-strand
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 45

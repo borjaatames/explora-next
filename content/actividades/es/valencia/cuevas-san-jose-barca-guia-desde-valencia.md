@@ -6,6 +6,7 @@ descripcion: Excursión de medio día desde Valencia a las Cuevas de San José, 
 slugs:
   es: cuevas-san-jose-barca-guia-desde-valencia
   en: san-jose-caves-boat-guide-from-valencia
+  de: cuevas-de-san-jose-bootsfahrt-ab-valencia
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 49

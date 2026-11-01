@@ -6,6 +6,7 @@ descripcion: One-hour guided tour of the Arehucas distillery in Arucas, with its
 slugs:
   es: destileria-ron-arehucas-tour-cata
   en: arehucas-rum-distillery-tour-tasting
+  de: arucas-arehucas-rumdestillerie-fuehrung-verkostung
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 13

@@ -6,6 +6,7 @@ descripcion: 'Paseo en barco por la ría de Bilbao desde el muelle de Pío Baroj
 slugs:
   es: barco-ria-bilbao-portugalete
   en: bilbao-estuary-boat-tour-portugalete
+  de: bilbao-bootsfahrt-ria-portugalete
 duracion: 1-2 horas
 duracionMinutos: 60
 precioDesde: 15

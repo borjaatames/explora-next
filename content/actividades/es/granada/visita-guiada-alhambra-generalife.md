@@ -8,6 +8,7 @@ descripcion: Visita guiada de 3 horas a la Alhambra, los Palacios Nazaríes, la 
 slugs:
   es: visita-guiada-alhambra-generalife
   en: alhambra-generalife-guided-tour
+  de: alhambra-generalife-fuehrung
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 49

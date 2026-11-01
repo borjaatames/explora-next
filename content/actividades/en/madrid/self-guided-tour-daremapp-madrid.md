@@ -6,6 +6,7 @@ descripcion: 'Explore Madrid at your own pace with the DareMapp self-guided audi
 slugs:
   es: tour-autoguiado-daremapp-madrid
   en: self-guided-tour-daremapp-madrid
+  de: madrid-audiotour-auf-eigene-faust-daremapp
 duracion: Unlimited access to over 10 hours of content
 duracionMinutos: 600
 precioDesde: 10

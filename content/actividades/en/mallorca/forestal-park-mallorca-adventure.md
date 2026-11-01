@@ -6,6 +6,7 @@ descripcion: 'Treetop adventure courses near Palma: over 90 challenges, rope bri
 slugs:
   es: forestal-park-mallorca-aventura
   en: forestal-park-mallorca-adventure
+  de: forestal-park-mallorca-kletterpark
 duracion: Valid 1 day
 duracionMinutos: 180
 precioDesde: 26

@@ -6,6 +6,7 @@ descripcion: Vuelo en parapente biplaza con piloto titulado sobre los volcanes, 
 slugs:
   es: parapente-biplaza-volcanes-lanzarote
   en: lanzarote-tandem-paragliding-volcanoes
+  de: lanzarote-tandem-paragliding-vulkane
 duracion: 20 minutos
 duracionMinutos: 20
 precioDesde: 120

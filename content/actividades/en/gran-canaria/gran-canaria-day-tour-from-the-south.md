@@ -6,6 +6,7 @@ descripcion: '8-hour coach tour from the south: Arucas, Firgas, Valleseco, Cruz 
 slugs:
   es: tour-gran-canaria-1-dia-desde-sur
   en: gran-canaria-day-tour-from-the-south
+  de: gran-canaria-inselrundfahrt-ab-mogan-maspalomas
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 44

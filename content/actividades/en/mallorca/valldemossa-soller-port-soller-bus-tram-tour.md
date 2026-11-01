@@ -6,6 +6,7 @@ descripcion: 6-hour guided coach trip through the Serra de Tramuntana, stopping 
 slugs:
   es: valldemossa-soller-port-soller-autobus-tranvia
   en: valldemossa-soller-port-soller-bus-tram-tour
+  de: valldemossa-soller-port-de-soller-bus-strassenbahn
 duracion: 6 hours
 duracionMinutos: 360
 precioDesde: 49

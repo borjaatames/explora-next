@@ -6,6 +6,7 @@ descripcion: Entrada a la Catedral Nueva y la Catedral Vieja de Salamanca, con c
 slugs:
   es: catedrales-salamanca-entrada-audioguia
   en: salamanca-cathedrals-ticket-audio-guide
+  de: salamanca-kathedralen-ticket-audioguide
 duracion: 1 día (visita de 1,5 horas)
 duracionMinutos: 90
 precioDesde: 10

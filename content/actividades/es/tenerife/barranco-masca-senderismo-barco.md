@@ -6,6 +6,7 @@ descripcion: Descenso guiado de 5 km por el Barranco de Masca hasta una cala baj
 slugs:
   es: barranco-masca-senderismo-barco
   en: masca-gorge-hike-boat-trip
+  de: masca-schlucht-wanderung-bootsfahrt
 duracion: 6 horas
 duracionMinutos: 360
 precioDesde: 145

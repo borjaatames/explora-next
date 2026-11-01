@@ -6,6 +6,7 @@ descripcion: A 3-hour private family tour along La Rambla, La Boqueria, the Goth
 slugs:
   es: barcelona-tour-privado-familias-churros-juegos
   en: barcelona-private-family-tour-churros-games
+  de: barcelona-familien-privattour-churros-spiele
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 76

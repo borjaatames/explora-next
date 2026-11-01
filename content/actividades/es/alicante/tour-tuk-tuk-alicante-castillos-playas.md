@@ -6,6 +6,7 @@ descripcion: 'Tour privado de 1,5 horas en tuk tuk por Alicante: casco antiguo, 
 slugs:
   es: tour-tuk-tuk-alicante-castillos-playas
   en: alicante-tuk-tuk-tour-castles-beaches
+  de: alicante-tuk-tuk-tour-burgen-straende
 duracion: 1,5 horas
 duracionMinutos: 90
 precioDesde: 50

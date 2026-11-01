@@ -6,6 +6,7 @@ descripcion: Casa Amatller, la casa de Puig i Cadafalch en la Manzana de la Disc
 slugs:
   es: casa-amatller-entrada-videoguia
   en: casa-amatller-priority-entry-ticket
+  de: casa-amatller-ticket-bevorzugter-einlass
 duracion: Unos 45 minutos
 duracionMinutos: 45
 precioDesde: 18

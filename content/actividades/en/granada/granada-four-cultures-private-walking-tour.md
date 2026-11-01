@@ -6,6 +6,7 @@ descripcion: 'A private 2- or 3-hour walk through Granada''s three oldest quarte
 slugs:
   es: granada-cuatro-culturas-tour-privado
   en: granada-four-cultures-private-walking-tour
+  de: granada-vier-kulturen-privater-rundgang
 duracion: 2 or 3 hours, depending on the option
 duracionMinutos: 120
 precioDesde: 180

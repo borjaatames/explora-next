@@ -6,6 +6,7 @@ descripcion: A 3-hour private tour of the Alhambra, the Nasrid Palaces, the Alca
 slugs:
   en: alhambra-private-tour
   es: alhambra-tour-privado
+  de: alhambra-privatfuehrung
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 280

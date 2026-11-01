@@ -6,6 +6,7 @@ descripcion: Paseo de 2 horas en catamarán al atardecer desde Puerto del Carmen
 slugs:
   es: barco-atardecer-delfines-puerto-del-carmen
   en: lanzarote-sunset-dolphin-cruise
+  de: lanzarote-sonnenuntergang-bootstour-delfine
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 53

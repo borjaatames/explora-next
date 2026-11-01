@@ -6,6 +6,7 @@ descripcion: Madrid pub crawl through 3 bars and a nightclub in the city centre,
 slugs:
   es: pub-crawl-madrid-bares-chupitos
   en: madrid-pub-crawl-bars-club-shots
+  de: madrid-kneipentour-bars-club-shots
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 19

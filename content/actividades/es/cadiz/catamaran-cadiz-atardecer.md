@@ -6,6 +6,7 @@ descripcion: Paseo de 1,5 horas en catamarán por la bahía de Cádiz al atardec
 slugs:
   es: catamaran-cadiz-atardecer
   en: cadiz-sunset-catamaran-cruise
+  de: cadiz-katamaran-sonnenuntergang-cava
 duracion: 1,5 horas
 duracionMinutos: 90
 precioDesde: 24.5

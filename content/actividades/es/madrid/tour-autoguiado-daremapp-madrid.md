@@ -6,6 +6,7 @@ descripcion: 'Descubre Madrid a tu ritmo con la audioguía autoguiada DareMapp: 
 slugs:
   es: tour-autoguiado-daremapp-madrid
   en: self-guided-tour-daremapp-madrid
+  de: madrid-audiotour-auf-eigene-faust-daremapp
 duracion: Acceso ilimitado a más de 10 horas de contenido
 duracionMinutos: 600
 precioDesde: 10

@@ -6,6 +6,7 @@ descripcion: 'Descubre Tarragona a tu ritmo con la audioguía autoguiada DareMap
 slugs:
   es: tour-autoguiado-daremapp-tarragona
   en: self-guided-tour-daremapp-tarragona
+  de: tarragona-audiotour-auf-eigene-faust-daremapp
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 5

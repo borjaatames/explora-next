@@ -6,6 +6,7 @@ descripcion: 'Roughly 2-hour guided buggy route on dirt tracks in southern Gran 
 slugs:
   es: buggy-barrancos-gran-canaria
   en: gran-canaria-off-road-buggy-tour
+  de: gran-canaria-buggy-tour-offroad-schluchten
 duracion: 2-2.5 hours
 duracionMinutos: 135
 precioDesde: 65

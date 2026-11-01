@@ -6,6 +6,7 @@ descripcion: Excursión guiada de día completo por el Parque Nacional del Teide
 slugs:
   es: tour-teide-masca-icod-garachico
   en: tenerife-teide-masca-icod-garachico-tour
+  de: teneriffa-teide-masca-icod-garachico-tour
 duracion: 9 horas
 duracionMinutos: 540
 precioDesde: 58

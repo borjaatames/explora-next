@@ -6,6 +6,7 @@ descripcion: 'Ruta de senderismo de 7 a 10 km junto al Pico de las Nieves y el R
 slugs:
   es: senderismo-cumbres-gran-canaria-guia-montana
   en: peaks-of-gran-canaria-guided-hike
+  de: gran-canaria-gipfelwanderung-mit-bergfuehrer
 duracion: 8 horas
 duracionMinutos: 480
 precioDesde: 70

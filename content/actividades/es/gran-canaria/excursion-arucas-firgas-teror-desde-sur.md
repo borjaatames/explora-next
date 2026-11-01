@@ -6,6 +6,7 @@ descripcion: 'Excursión de 8 horas en autobús desde el sur de Gran Canaria a l
 slugs:
   es: excursion-arucas-firgas-teror-desde-sur
   en: arucas-firgas-teror-tour-from-the-south
+  de: arucas-firgas-teror-tagesausflug-ab-dem-sueden
 duracion: 8 horas
 duracionMinutos: 480
 precioDesde: 52

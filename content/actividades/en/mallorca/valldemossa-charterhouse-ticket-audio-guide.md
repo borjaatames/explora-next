@@ -6,6 +6,7 @@ descripcion: 'Entry to the Royal Charterhouse of Valldemossa with an audio guide
 slugs:
   es: cartuja-valldemossa-entrada-audioguia
   en: valldemossa-charterhouse-ticket-audio-guide
+  de: valldemossa-kartause-tickets-audioguide
 duracion: About 1 hour
 duracionMinutos: 60
 precioDesde: 12.5

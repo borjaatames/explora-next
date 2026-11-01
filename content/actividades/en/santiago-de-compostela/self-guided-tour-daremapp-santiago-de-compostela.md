@@ -6,6 +6,7 @@ descripcion: 'Explore Santiago de Compostela at your own pace with the DareMapp 
 slugs:
   es: tour-autoguiado-daremapp-santiago-de-compostela
   en: self-guided-tour-daremapp-santiago-de-compostela
+  de: santiago-de-compostela-audioguide-tour-daremapp-app
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 5

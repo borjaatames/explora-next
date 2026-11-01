@@ -6,6 +6,7 @@ descripcion: 1.5-hour sunset catamaran cruise around the Bay of Cádiz, with a g
 slugs:
   es: catamaran-cadiz-atardecer
   en: cadiz-sunset-catamaran-cruise
+  de: cadiz-katamaran-sonnenuntergang-cava
 duracion: 1.5 hours
 duracionMinutos: 90
 precioDesde: 24.5

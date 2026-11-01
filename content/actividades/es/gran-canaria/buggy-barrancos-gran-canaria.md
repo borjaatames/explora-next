@@ -6,6 +6,7 @@ descripcion: 'Ruta guiada en buggy de unas 2 horas por pistas de tierra del sur 
 slugs:
   es: buggy-barrancos-gran-canaria
   en: gran-canaria-off-road-buggy-tour
+  de: gran-canaria-buggy-tour-offroad-schluchten
 duracion: 2-2,5 horas
 duracionMinutos: 135
 precioDesde: 65

@@ -6,6 +6,7 @@ descripcion: 'Private 2 h 15 min electric tuk-tuk tour linking historic and mode
 slugs:
   es: tuk-tuk-madrid-completo-ruta-1-2
   en: complete-madrid-tuk-tuk-tour
+  de: madrid-komplett-private-tuk-tuk-tour
 duracion: 2 hours 15 minutes
 duracionMinutos: 135
 precioDesde: 129

@@ -6,6 +6,7 @@ descripcion: 4-hour sailing catamaran trip from Puerto Calero to the Papagayo be
 slugs:
   es: catamaran-papagayo-puerto-calero-tobogan-almuerzo
   en: papagayo-catamaran-puerto-calero-slide-lunch
+  de: papagayo-katamaran-ab-puerto-calero-mit-rutsche
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 85

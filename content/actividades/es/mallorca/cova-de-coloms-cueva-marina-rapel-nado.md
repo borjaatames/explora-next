@@ -6,6 +6,7 @@ descripcion: Aventura de 4 horas en la costa este de Mallorca desde Cala Romànt
 slugs:
   es: cova-de-coloms-cueva-marina-rapel-nado
   en: cova-de-coloms-sea-cave-abseil-swim
+  de: cova-de-coloms-meereshoehle-abseilen-schwimmen
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 69

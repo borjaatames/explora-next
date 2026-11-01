@@ -6,6 +6,7 @@ descripcion: 'Self-guided Barcelona audio tour via the DareMapp app: no physical
 slugs:
   es: tour-autoguiado-daremapp-barcelona
   en: self-guided-tour-daremapp-barcelona
+  de: barcelona-tour-auf-eigene-faust-daremapp
 duracion: More than 4 hours
 duracionMinutos: 480
 precioDesde: 10.0

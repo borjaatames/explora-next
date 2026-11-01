@@ -6,6 +6,7 @@ descripcion: Día completo en catamarán de Ibiza a Formentera con baños en Esp
 slugs:
   es: formentera-catamaran-tres-paradas-fiesta-atardecer
   en: formentera-catamaran-three-stops-sunset-party
+  de: formentera-katamaran-ab-ibiza-mit-sunset-party
 duracion: 12 horas
 duracionMinutos: 720
 precioDesde: 99

@@ -6,6 +6,7 @@ descripcion: '75-minute catamaran tour around the Bay of Cádiz with audio guide
 slugs:
   es: catamaran-bahia-de-cadiz
   en: cadiz-bay-catamaran-tour
+  de: cadiz-katamaran-tour-bucht
 duracion: 75 minutes
 duracionMinutos: 75
 precioDesde: 19

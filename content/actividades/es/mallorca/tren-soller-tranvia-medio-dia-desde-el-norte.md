@@ -6,6 +6,7 @@ descripcion: 'Medio día con recogida en Alcúdia, Port de Pollença, Can Picafo
 slugs:
   es: tren-soller-tranvia-medio-dia-desde-el-norte
   en: soller-train-tram-half-day-from-the-north
+  de: soller-zug-strassenbahn-halbtagestour-ab-norden
 duracion: 5-6 horas
 duracionMinutos: 330
 precioDesde: 56

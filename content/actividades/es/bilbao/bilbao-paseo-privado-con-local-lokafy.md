@@ -6,6 +6,7 @@ descripcion: 'Paseo privado de 2 horas por Bilbao con un vecino de la ciudad que
 slugs:
   es: bilbao-paseo-privado-con-local-lokafy
   en: bilbao-private-walk-with-a-local-lokafy
+  de: bilbao-privater-spaziergang-mit-einheimischen
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 48

@@ -6,6 +6,7 @@ descripcion: 1- or 2-hour horse ride from the El Salobre ranch on volcanic track
 slugs:
   es: paseo-caballo-ruta-volcanica-gran-canaria
   en: gran-canaria-volcanic-horse-riding
+  de: gran-canaria-reiten-vulkanlandschaft
 duracion: 1-2 hours
 duracionMinutos: 60
 precioDesde: 38

@@ -6,6 +6,7 @@ descripcion: Excursión de 7 horas en autocar desde el sur por la Degollada de l
 slugs:
   es: excursion-fataga-tejeda-roque-nublo-desde-sur
   en: fataga-tejeda-roque-nublo-day-trip-from-south
+  de: fataga-tejeda-roque-nublo-tagesausflug-ab-dem-sueden
 duracion: 7 horas
 duracionMinutos: 420
 precioDesde: 47

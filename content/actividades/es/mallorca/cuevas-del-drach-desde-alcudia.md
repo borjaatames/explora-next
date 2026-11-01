@@ -6,6 +6,7 @@ descripcion: 'Medio día desde Alcúdia y el norte de Mallorca a las Cuevas del 
 slugs:
   es: cuevas-del-drach-desde-alcudia
   en: drach-caves-from-alcudia
+  de: drachenhoehlen-ausflug-ab-alcudia
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 54

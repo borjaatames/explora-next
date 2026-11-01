@@ -6,6 +6,7 @@ descripcion: 'Excursión de 5 horas en jeep 4x4 por pistas del interior sur de G
 slugs:
   es: jeep-safari-sur-gran-canaria
   en: southern-gran-canaria-jeep-safari
+  de: gran-canaria-jeepsafari-im-sueden
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 69

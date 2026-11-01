@@ -6,6 +6,7 @@ descripcion: 'Boat trip on Bilbao''s estuary from the Pío Baroja pier: in 1 hou
 slugs:
   es: barco-ria-bilbao-portugalete
   en: bilbao-estuary-boat-tour-portugalete
+  de: bilbao-bootsfahrt-ria-portugalete
 duracion: 1-2 hours
 duracionMinutos: 60
 precioDesde: 15

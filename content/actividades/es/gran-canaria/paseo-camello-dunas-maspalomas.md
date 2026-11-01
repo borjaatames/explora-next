@@ -6,6 +6,7 @@ descripcion: Paseo guiado de 30 minutos en camello por las Dunas de Maspalomas, 
 slugs:
   es: paseo-camello-dunas-maspalomas
   en: maspalomas-dunes-camel-ride
+  de: maspalomas-kamelreiten-duenen
 duracion: 30 minutos
 duracionMinutos: 30
 precioDesde: 18

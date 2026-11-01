@@ -6,6 +6,7 @@ descripcion: 'Tour a pie de 2 horas por el Casco Viejo de Bilbao en grupo de has
 slugs:
   es: bilbao-esencial-tour-a-pie-grupo-reducido
   en: bilbao-highlights-small-group-walking-tour
+  de: bilbao-altstadt-rundgang-kleingruppe
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 31

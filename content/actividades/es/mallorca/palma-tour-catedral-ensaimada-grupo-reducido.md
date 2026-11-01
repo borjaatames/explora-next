@@ -6,6 +6,7 @@ descripcion: Tour a pie de 2 horas 30 minutos por Palma en grupo de hasta 15 per
 slugs:
   es: palma-tour-catedral-ensaimada-grupo-reducido
   en: palma-walking-tour-cathedral-ensaimada
+  de: palma-rundgang-kathedrale-ensaimada
 duracion: 2 horas 30 minutos
 duracionMinutos: 150
 precioDesde: 39

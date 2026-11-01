@@ -6,6 +6,7 @@ descripcion: '1.5-hour private tuk tuk tour of Alicante: old town, Santa Bárbar
 slugs:
   es: tour-tuk-tuk-alicante-castillos-playas
   en: alicante-tuk-tuk-tour-castles-beaches
+  de: alicante-tuk-tuk-tour-burgen-straende
 duracion: 1.5 hours
 duracionMinutos: 90
 precioDesde: 50

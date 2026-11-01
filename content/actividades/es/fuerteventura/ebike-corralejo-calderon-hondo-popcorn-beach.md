@@ -6,6 +6,7 @@ descripcion: Ruta de 3 horas y media en bici eléctrica de ruedas anchas desde C
 slugs:
   es: ebike-corralejo-calderon-hondo-popcorn-beach
   en: corralejo-e-bike-tour-calderon-hondo-popcorn-beach
+  de: corralejo-e-bike-tour-calderon-hondo-popcorn-beach
 duracion: 3 horas 30 minutos
 duracionMinutos: 210
 precioDesde: 59

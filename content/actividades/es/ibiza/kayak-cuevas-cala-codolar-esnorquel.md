@@ -6,6 +6,7 @@ descripcion: Tour guiado en kayak desde Cala Codolar por acantilados, cuevas y c
 slugs:
   es: kayak-cuevas-cala-codolar-esnorquel
   en: ibiza-sea-kayak-caves-snorkel-cala-codolar
+  de: ibiza-kajaktour-hoehlen-schnorcheln-cala-codolar
 duracion: 2,5-3 horas
 duracionMinutos: 165
 precioDesde: 50

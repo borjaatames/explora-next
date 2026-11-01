@@ -6,6 +6,7 @@ descripcion: Guided tour of Córdoba's Mosque-Cathedral with an official guide, 
 slugs:
   es: mezquita-catedral-tour-guiado-sin-colas
   en: mosque-cathedral-skip-the-line-guided-tour
+  de: mezquita-cordoba-fuehrung-ohne-anstehen
 duracion: 75 minutes - 1.5 hours
 duracionMinutos: 90
 precioDesde: 32

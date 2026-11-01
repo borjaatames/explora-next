@@ -6,6 +6,7 @@ descripcion: Guided on-road quad ride from Arona up to about 2,100 m in Teide Na
 slugs:
   es: quad-teide-desde-arona
   en: teide-quad-tour-from-arona
+  de: teide-quad-tour-ab-arona
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 60

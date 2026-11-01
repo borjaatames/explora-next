@@ -6,6 +6,7 @@ descripcion: Guided walk of about 75 minutes through Palma's old town, ending at
 slugs:
   es: palma-casco-antiguo-paseo-tapas-bebida
   en: palma-old-town-walk-tapas-drink
+  de: palma-altstadt-rundgang-tapas-getraenk
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 89

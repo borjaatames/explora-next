@@ -6,6 +6,7 @@ descripcion: Ruta de 3 horas conduciendo tu propio buggy automático por pistas 
 slugs:
   es: buggy-caleta-de-fuste-queseria-salinas
   en: caleta-de-fuste-buggy-tour-cheese-farm
+  de: caleta-de-fuste-buggy-tour-kaeserei
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 70

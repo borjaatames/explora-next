@@ -6,6 +6,7 @@ descripcion: Billete de ferri de ida y vuelta de Corralejo a la Isla de Lobos co
 slugs:
   es: ferry-isla-lobos-corralejo-entrada
   en: lobos-island-ferry-corralejo-park-entry
+  de: isla-de-lobos-faehre-ab-corralejo
 duracion: Billete válido 1 día
 duracionMinutos: 240
 precioDesde: 17

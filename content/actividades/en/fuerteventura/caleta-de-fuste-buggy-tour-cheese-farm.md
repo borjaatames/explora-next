@@ -6,6 +6,7 @@ descripcion: 3-hour tour driving your own automatic buggy along inland and coast
 slugs:
   es: buggy-caleta-de-fuste-queseria-salinas
   en: caleta-de-fuste-buggy-tour-cheese-farm
+  de: caleta-de-fuste-buggy-tour-kaeserei
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 70

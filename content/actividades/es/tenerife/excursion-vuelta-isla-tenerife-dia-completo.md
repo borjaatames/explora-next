@@ -6,6 +6,7 @@ descripcion: 'Excursión guiada de 8 horas con recogida en el sur de Tenerife: a
 slugs:
   es: excursion-vuelta-isla-tenerife-dia-completo
   en: tenerife-full-day-island-tour
+  de: teneriffa-inselrundfahrt-ganztags
 duracion: 8 horas
 duracionMinutos: 480
 precioDesde: 57

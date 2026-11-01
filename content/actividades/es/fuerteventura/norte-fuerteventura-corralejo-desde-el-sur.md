@@ -6,6 +6,7 @@ descripcion: Excursión de 7 horas en grupo de máximo 8 personas desde Costa Ca
 slugs:
   es: norte-fuerteventura-corralejo-desde-el-sur
   en: northern-fuerteventura-corralejo-tour-from-south
+  de: fuerteventura-norden-corralejo-tour-ab-sueden
 duracion: 7 horas
 duracionMinutos: 420
 precioDesde: 77

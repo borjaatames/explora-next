@@ -6,6 +6,7 @@ descripcion: 'Excursión de 8 horas de sur a norte en minivan de 8 plazas con gu
 slugs:
   es: tour-pueblos-rurales-gran-canaria-minivan
   en: gran-canaria-rural-villages-minivan-tour
+  de: gran-canaria-bergdoerfer-tour-im-minivan
 duracion: 8 horas
 duracionMinutos: 480
 precioDesde: 79

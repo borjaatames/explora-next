@@ -6,6 +6,7 @@ descripcion: Three-and-a-half-hour, 6 km guided hike with five tame Majorero goa
 slugs:
   es: senderismo-cabras-majoreras-cardon
   en: guided-goat-trekking-el-cardon
+  de: fuerteventura-ziegen-trekking-el-cardon
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 59

@@ -6,6 +6,7 @@ descripcion: 2-hour electric tuk tuk tour of the old town, the harbour, Malvarro
 slugs:
   es: tour-tuk-tuk-valencia-centro-playas
   en: valencia-tuk-tuk-tour-old-town-beaches
+  de: valencia-tuk-tuk-tour-altstadt-straende
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 40

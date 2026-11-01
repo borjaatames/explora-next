@@ -6,6 +6,7 @@ descripcion: 4-hour trip on the Magic Select catamaran from Morro Jable along th
 slugs:
   es: catamaran-comida-bebida-morro-jable
   en: morro-jable-catamaran-lunch-drinks
+  de: morro-jable-katamaran-mit-essen-und-getraenken
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 79

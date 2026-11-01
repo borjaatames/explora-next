@@ -6,6 +6,7 @@ descripcion: Media jornada por la península de Jandía en grupo de hasta 8 pers
 slugs:
   es: excursion-jandia-sotavento-la-pared-morro-jable
   en: jandia-sotavento-la-pared-morro-jable-tour
+  de: jandia-sotavento-la-pared-morro-jable-ausflug
 duracion: 4 horas 30 minutos
 duracionMinutos: 270
 precioDesde: 49

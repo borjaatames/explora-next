@@ -6,6 +6,7 @@ descripcion: Excursión de 9 horas en grupo reducido por las piscinas naturales 
 slugs:
   es: atardecer-costa-norte-gran-canaria-piscinas-naturales
   en: gran-canaria-wild-coast-sunset-tour-natural-pools
+  de: gran-canaria-nordkueste-sonnenuntergang-naturpools
 duracion: 9 horas
 duracionMinutos: 540
 precioDesde: 92

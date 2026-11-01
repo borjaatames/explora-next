@@ -6,6 +6,7 @@ descripcion: '40-minute submarine dive off Puerto de Mogán: shipwrecks, fish an
 slugs:
   es: submarino-puerto-mogan
   en: puerto-de-mogan-submarine-tour
+  de: puerto-de-mogan-u-boot-tour
 duracion: 40 minutes
 duracionMinutos: 40
 precioDesde: 38

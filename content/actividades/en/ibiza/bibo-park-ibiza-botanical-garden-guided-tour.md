@@ -6,6 +6,7 @@ descripcion: Entry with a guided visit of around 50 minutes to BiBo Park in Sant
 slugs:
   es: bibo-park-ibiza-visita-guiada-jardin-botanico
   en: bibo-park-ibiza-botanical-garden-guided-tour
+  de: bibo-park-ibiza-botanischer-garten-fuehrung
 duracion: 50 minutes
 duracionMinutos: 50
 precioDesde: 19

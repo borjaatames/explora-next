@@ -6,6 +6,7 @@ descripcion: 90-minute trip from Los Cristianos on a catamaran with underwater v
 slugs:
   es: ballenas-delfines-sin-persecucion-los-cristianos
   en: no-chase-whale-dolphin-watching-los-cristianos
+  de: los-cristianos-wal-delfin-beobachtung-ohne-verfolgung
 duracion: 1.5 hours
 duracionMinutos: 90
 precioDesde: 28

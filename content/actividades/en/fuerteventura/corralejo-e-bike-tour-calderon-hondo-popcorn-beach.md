@@ -6,6 +6,7 @@ descripcion: 3.5-hour fat-tyre e-bike tour from Corralejo through the northern v
 slugs:
   es: ebike-corralejo-calderon-hondo-popcorn-beach
   en: corralejo-e-bike-tour-calderon-hondo-popcorn-beach
+  de: corralejo-e-bike-tour-calderon-hondo-popcorn-beach
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 59

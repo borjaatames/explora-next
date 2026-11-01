@@ -6,6 +6,7 @@ descripcion: 3-hour food walk through Palma with convent sweets, panades, sobras
 slugs:
   es: palma-tour-gastronomico-casco-antiguo
   en: palma-old-town-food-walking-tour
+  de: palma-altstadt-food-tour
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 65

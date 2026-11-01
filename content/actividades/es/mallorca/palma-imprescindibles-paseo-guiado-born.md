@@ -6,6 +6,7 @@ descripcion: Paseo guiado de 2 horas por el casco antiguo de Palma desde el Pass
 slugs:
   es: palma-imprescindibles-paseo-guiado-born
   en: palma-must-see-guided-walking-tour-born
+  de: palma-highlights-stadtfuehrung-ab-born
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 33

@@ -6,6 +6,7 @@ descripcion: 9-hour guided trip from Alcúdia combining a coach to Sa Calobra, a
 slugs:
   es: tramuntana-dia-completo-autobus-barco-tren-desde-norte
   en: tramuntana-full-day-bus-boat-train-from-north
+  de: tramuntana-tagesausflug-bus-boot-zug-ab-norden
 duracion: 9 hours
 duracionMinutos: 540
 precioDesde: 98

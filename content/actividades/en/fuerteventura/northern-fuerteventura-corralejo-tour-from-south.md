@@ -6,6 +6,7 @@ descripcion: 7-hour trip for up to 8 people from Costa Calma to the north of the
 slugs:
   es: norte-fuerteventura-corralejo-desde-el-sur
   en: northern-fuerteventura-corralejo-tour-from-south
+  de: fuerteventura-norden-corralejo-tour-ab-sueden
 duracion: 7 hours
 duracionMinutos: 420
 precioDesde: 77

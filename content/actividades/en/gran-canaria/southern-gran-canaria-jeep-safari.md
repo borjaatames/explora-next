@@ -6,6 +6,7 @@ descripcion: '5-hour 4x4 jeep trip on tracks through Gran Canaria''s southern in
 slugs:
   es: jeep-safari-sur-gran-canaria
   en: southern-gran-canaria-jeep-safari
+  de: gran-canaria-jeepsafari-im-sueden
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 69

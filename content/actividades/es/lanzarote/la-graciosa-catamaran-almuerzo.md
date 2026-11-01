@@ -6,6 +6,7 @@ descripcion: 'Excursión de 6 horas con Líneas Romero: ferri desde Órzola, rat
 slugs:
   es: la-graciosa-catamaran-almuerzo
   en: la-graciosa-catamaran-cruise-lunch
+  de: la-graciosa-katamaran-ausflug-mit-mittagessen
 duracion: 6 horas
 duracionMinutos: 360
 precioDesde: 66

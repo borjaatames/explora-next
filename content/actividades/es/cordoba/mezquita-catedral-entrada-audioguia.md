@@ -6,6 +6,7 @@ descripcion: Entrada electrónica a la Mezquita-Catedral de Córdoba con audiogu
 slugs:
   es: mezquita-catedral-entrada-audioguia
   en: mosque-cathedral-ticket-audio-guide
+  de: mezquita-cordoba-tickets-audioguide
 duracion: 1 día (visita de 1,5 horas)
 duracionMinutos: 90
 precioDesde: 22

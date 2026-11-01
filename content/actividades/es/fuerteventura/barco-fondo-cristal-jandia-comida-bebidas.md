@@ -6,6 +6,7 @@ descripcion: Crucero de 4 horas en el Odysee 3, un barco con fondo de cristal, p
 slugs:
   es: barco-fondo-cristal-jandia-comida-bebidas
   en: jandia-glass-bottom-boat-cruise-lunch-drinks
+  de: jandia-glasbodenboot-mit-mittagessen
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 75

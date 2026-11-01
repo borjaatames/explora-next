@@ -8,6 +8,7 @@ descripcion: A 3-hour guided tour of the Alhambra, the Nasrid Palaces, the Alcaz
 slugs:
   en: alhambra-generalife-guided-tour
   es: visita-guiada-alhambra-generalife
+  de: alhambra-generalife-fuehrung
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 49

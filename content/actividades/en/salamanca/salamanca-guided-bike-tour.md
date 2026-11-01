@@ -6,6 +6,7 @@ descripcion: 'Guided bike tour of Salamanca: the Tormes riverside, the Roman bri
 slugs:
   es: tour-bici-salamanca-panoramico
   en: salamanca-guided-bike-tour
+  de: salamanca-fahrradtour-mit-guide
 duracion: 2-2.5 hours
 duracionMinutos: 135
 precioDesde: 25

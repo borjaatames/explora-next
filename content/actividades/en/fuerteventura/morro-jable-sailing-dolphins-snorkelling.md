@@ -6,6 +6,7 @@ descripcion: 3.5-hour sailing trip from Morro Jable looking for dolphins and wha
 slugs:
   es: velero-morro-jable-delfines-esnorquel
   en: morro-jable-sailing-dolphins-snorkelling
+  de: morro-jable-segeltoern-delfine-schnorcheln
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 88

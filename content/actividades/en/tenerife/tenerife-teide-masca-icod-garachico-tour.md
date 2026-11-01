@@ -6,6 +6,7 @@ descripcion: Full-day guided trip to Teide National Park and the Roques de Garc√
 slugs:
   es: tour-teide-masca-icod-garachico
   en: tenerife-teide-masca-icod-garachico-tour
+  de: teneriffa-teide-masca-icod-garachico-tour
 duracion: 9 hours
 duracionMinutos: 540
 precioDesde: 58

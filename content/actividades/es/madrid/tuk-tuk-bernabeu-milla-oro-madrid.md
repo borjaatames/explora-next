@@ -6,6 +6,7 @@ descripcion: 'Tour privado de 1 h 15 min en tuk-tuk eléctrico por el Madrid mod
 slugs:
   es: tuk-tuk-bernabeu-milla-oro-madrid
   en: tuk-tuk-bernabeu-golden-mile-madrid
+  de: madrid-private-tuk-tuk-tour-bernabeu-goldene-meile
 duracion: 1 hora y 15 minutos
 duracionMinutos: 75
 precioDesde: 79

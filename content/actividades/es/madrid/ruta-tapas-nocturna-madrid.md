@@ -5,6 +5,7 @@ ciudad: madrid
 descripcion: Ruta de tapas nocturna de 2,5 horas por tres bares tradicionales de Madrid con guía local. Anécdotas e historia del tapeo, también en alemán.
 slugs:
   es: ruta-tapas-nocturna-madrid
+  de: madrid-tapas-tour-am-abend
 duracion: 2 horas 30 minutos
 duracionMinutos: 150
 precioDesde: 35

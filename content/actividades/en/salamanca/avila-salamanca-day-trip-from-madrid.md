@@ -6,6 +6,7 @@ descripcion: 11-hour trip from Madrid in a group of up to 8 to visit Salamanca's
 slugs:
   es: excursion-avila-salamanca-desde-madrid
   en: avila-salamanca-day-trip-from-madrid
+  de: avila-salamanca-tagesausflug-ab-madrid
 duracion: 11 hours
 duracionMinutos: 660
 precioDesde: 149

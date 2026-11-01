@@ -6,6 +6,7 @@ descripcion: 9-hour guided coach tour from south to north, with Timanfaya entry,
 slugs:
   es: excursion-timanfaya-jameos-almuerzo-incluido
   en: timanfaya-jameos-del-agua-tour-with-lunch
+  de: lanzarote-timanfaya-jameos-del-agua-tour-mit-mittagessen
 duracion: 9 hours
 duracionMinutos: 540
 precioDesde: 95

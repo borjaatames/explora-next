@@ -6,6 +6,7 @@ descripcion: Excursión de 11 horas desde Madrid en grupo de máximo 8 personas 
 slugs:
   es: excursion-avila-salamanca-desde-madrid
   en: avila-salamanca-day-trip-from-madrid
+  de: avila-salamanca-tagesausflug-ab-madrid
 duracion: 11 horas
 duracionMinutos: 660
 precioDesde: 149

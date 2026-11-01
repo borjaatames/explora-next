@@ -6,6 +6,7 @@ descripcion: Tour guiado a pie por el centro histórico de Valencia con entradas
 slugs:
   es: tour-catedral-lonja-san-nicolas-valencia
   en: valencia-cathedral-silk-exchange-san-nicolas-tour
+  de: valencia-kathedrale-seidenboerse-san-nicolas-fuehrung
 duracion: 3-4 horas
 duracionMinutos: 210
 precioDesde: 49

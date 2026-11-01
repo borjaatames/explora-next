@@ -6,6 +6,7 @@ descripcion: 'Excursión de 8 horas y media desde Sevilla al Parque Nacional de 
 slugs:
   es: donana-excursion-dia-completo-desde-sevilla
   en: donana-full-day-tour-from-seville
+  de: donana-tagestour-ab-sevilla
 duracion: 8 horas y 30 minutos
 duracionMinutos: 510
 precioDesde: 476

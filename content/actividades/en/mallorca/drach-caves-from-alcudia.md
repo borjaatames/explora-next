@@ -6,6 +6,7 @@ descripcion: 'Half day from Alcúdia and northern Mallorca to the Drach Caves: t
 slugs:
   es: cuevas-del-drach-desde-alcudia
   en: drach-caves-from-alcudia
+  de: drachenhoehlen-ausflug-ab-alcudia
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 54

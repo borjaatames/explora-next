@@ -6,6 +6,7 @@ descripcion: Day tour by minibus through the centre and west of the island, with
 slugs:
   es: tour-isla-fuerteventura-minibus
   en: fuerteventura-island-tour-minibus
+  de: fuerteventura-inselrundfahrt-im-minibus
 duracion: 6 hours
 duracionMinutos: 360
 precioDesde: 350

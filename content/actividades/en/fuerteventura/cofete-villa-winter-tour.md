@@ -6,6 +6,7 @@ descripcion: '4-hour tour for a maximum of 8 people from Jandía along the Cofet
 slugs:
   es: tour-cofete-villa-winter
   en: cofete-villa-winter-tour
+  de: cofete-villa-winter-tour
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 57

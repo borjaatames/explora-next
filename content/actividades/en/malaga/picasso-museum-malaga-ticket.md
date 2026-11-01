@@ -6,6 +6,7 @@ descripcion: 'Official ticket to the Picasso Museum Málaga in the Buenavista Pa
 slugs:
   es: museo-picasso-malaga-entrada
   en: picasso-museum-malaga-ticket
+  de: picasso-museum-malaga-tickets-audioguide
 duracion: Valid 1 day
 duracionMinutos: 120
 precioDesde: 13

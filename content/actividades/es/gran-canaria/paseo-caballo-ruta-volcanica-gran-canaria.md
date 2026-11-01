@@ -6,6 +6,7 @@ descripcion: Paseo a caballo de 1 o 2 horas desde el rancho de El Salobre por pi
 slugs:
   es: paseo-caballo-ruta-volcanica-gran-canaria
   en: gran-canaria-volcanic-horse-riding
+  de: gran-canaria-reiten-vulkanlandschaft
 duracion: 1-2 horas
 duracionMinutos: 60
 precioDesde: 38

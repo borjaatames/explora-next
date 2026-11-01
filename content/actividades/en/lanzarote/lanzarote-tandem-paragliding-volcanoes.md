@@ -6,6 +6,7 @@ descripcion: Tandem paragliding flight with a licensed pilot over Lanzarote's vo
 slugs:
   es: parapente-biplaza-volcanes-lanzarote
   en: lanzarote-tandem-paragliding-volcanoes
+  de: lanzarote-tandem-paragliding-vulkane
 duracion: 20 minutes
 duracionMinutos: 20
 precioDesde: 120

@@ -6,6 +6,7 @@ descripcion: 1 hour 45 minute guided walk through Palma's old town, seeing the C
 slugs:
   es: palma-visita-guiada-casco-antiguo
   en: palma-old-town-guided-walking-tour
+  de: palma-altstadt-fuehrung
 duracion: 1 hour 45 minutes
 duracionMinutos: 105
 precioDesde: 39

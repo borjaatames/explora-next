@@ -6,6 +6,7 @@ descripcion: 'Descubre Salamanca a tu ritmo con la audioguía autoguiada DareMap
 slugs:
   es: tour-autoguiado-daremapp-salamanca
   en: self-guided-tour-daremapp-salamanca
+  de: salamanca-audiotour-auf-eigene-faust-daremapp
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 5

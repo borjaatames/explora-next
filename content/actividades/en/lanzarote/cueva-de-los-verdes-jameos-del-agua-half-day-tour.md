@@ -6,6 +6,7 @@ descripcion: 5-hour coach tour of northern Lanzarote with tickets to Cueva de lo
 slugs:
   es: cueva-de-los-verdes-jameos-del-agua-medio-dia
   en: cueva-de-los-verdes-jameos-del-agua-half-day-tour
+  de: lanzarote-cueva-de-los-verdes-jameos-del-agua-halbtagestour
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 63

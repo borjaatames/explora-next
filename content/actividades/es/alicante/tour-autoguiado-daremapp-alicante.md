@@ -6,6 +6,7 @@ descripcion: 'Audioguía autoguiada por Alicante vía app DareMapp: sin guía f�
 slugs:
   es: tour-autoguiado-daremapp-alicante
   en: self-guided-tour-daremapp-alicante
+  de: alicante-selbstgefuehrte-tour-daremapp
 duracion: 2 horas 30 minutos
 duracionMinutos: 150
 precioDesde: 5.0

@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 3 horas en kayak desde Cala Romántica hasta la rese
 slugs:
   es: cala-varques-kayak-cuevas-marinas-esnorquel
   en: cala-varques-kayak-sea-caves-snorkel
+  de: cala-varques-kajaktour-meereshoehlen-schnorcheln
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 67

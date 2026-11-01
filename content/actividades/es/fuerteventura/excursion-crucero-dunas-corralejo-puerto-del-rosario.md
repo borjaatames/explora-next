@@ -6,6 +6,7 @@ descripcion: Excursión de 5 horas para pasajeros de crucero que sale del puerto
 slugs:
   es: excursion-crucero-dunas-corralejo-puerto-del-rosario
   en: corralejo-dunes-shore-excursion-puerto-del-rosario
+  de: corralejo-duenen-landausflug-ab-puerto-del-rosario
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 22

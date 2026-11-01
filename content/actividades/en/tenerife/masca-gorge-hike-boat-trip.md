@@ -6,6 +6,7 @@ descripcion: Guided 5 km descent of the Masca Gorge to a cove beneath the Los Gi
 slugs:
   es: barranco-masca-senderismo-barco
   en: masca-gorge-hike-boat-trip
+  de: masca-schlucht-wanderung-bootsfahrt
 duracion: 6 hours
 duracionMinutos: 360
 precioDesde: 145

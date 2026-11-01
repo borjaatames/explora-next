@@ -6,6 +6,7 @@ descripcion: 'Descubre Valencia a tu ritmo con la audioguía autoguiada DareMapp
 slugs:
   es: tour-autoguiado-daremapp-valencia
   en: self-guided-tour-daremapp-valencia
+  de: valencia-audioguide-tour-daremapp-app
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 5

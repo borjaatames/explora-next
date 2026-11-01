@@ -6,6 +6,7 @@ descripcion: Visita guiada de 2 horas a la finca Treurer, en Algaida, con almaza
 slugs:
   es: algaida-olivar-cata-aceite-almuerzo
   en: algaida-olive-grove-oil-tasting-snack
+  de: algaida-olivenhain-olivenoel-verkostung
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 50

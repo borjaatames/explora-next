@@ -6,6 +6,7 @@ descripcion: 'Descubre Santiago de Compostela a tu ritmo con la audioguía autog
 slugs:
   es: tour-autoguiado-daremapp-santiago-de-compostela
   en: self-guided-tour-daremapp-santiago-de-compostela
+  de: santiago-de-compostela-audioguide-tour-daremapp-app
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 5

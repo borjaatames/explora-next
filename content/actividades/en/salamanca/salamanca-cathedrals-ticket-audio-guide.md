@@ -6,6 +6,7 @@ descripcion: Entry to Salamanca's New and Old Cathedrals, with the cloister, cha
 slugs:
   es: catedrales-salamanca-entrada-audioguia
   en: salamanca-cathedrals-ticket-audio-guide
+  de: salamanca-kathedralen-ticket-audioguide
 duracion: 1 day (1.5-hour visit)
 duracionMinutos: 90
 precioDesde: 10

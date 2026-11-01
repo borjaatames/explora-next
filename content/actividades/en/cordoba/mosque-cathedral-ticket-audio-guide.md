@@ -6,6 +6,7 @@ descripcion: E-ticket for Córdoba's Mosque-Cathedral with a downloadable audio 
 slugs:
   es: mezquita-catedral-entrada-audioguia
   en: mosque-cathedral-ticket-audio-guide
+  de: mezquita-cordoba-tickets-audioguide
 duracion: 1 day (1.5-hour visit)
 duracionMinutos: 90
 precioDesde: 22

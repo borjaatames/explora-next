@@ -6,6 +6,7 @@ descripcion: 5.5-hour coach tour with Timanfaya entry, geothermal demonstrations
 slugs:
   es: timanfaya-la-geria-el-golfo-medio-dia
   en: timanfaya-la-geria-half-day-tour
+  de: lanzarote-timanfaya-la-geria-el-golfo-halbtagestour
 duracion: 5 hours 30 minutes
 duracionMinutos: 330
 precioDesde: 63

@@ -6,6 +6,7 @@ descripcion: Visita guiada de hora y media por el Guggenheim Bilbao en grupo de 
 slugs:
   es: guggenheim-bilbao-arte-explicado-por-artistas
   en: guggenheim-bilbao-art-explained-by-artists
+  de: guggenheim-bilbao-fuehrung-mit-kuenstlern
 duracion: 1 hora 30 minutos
 duracionMinutos: 90
 precioDesde: 90

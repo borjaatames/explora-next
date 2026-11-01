@@ -6,6 +6,7 @@ descripcion: 'Descubre Málaga a tu ritmo con la audioguía autoguiada DareMapp:
 slugs:
   es: tour-autoguiado-daremapp-malaga
   en: self-guided-tour-daremapp-malaga
+  de: malaga-audiotour-daremapp-app
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 10

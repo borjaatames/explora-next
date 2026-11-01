@@ -6,6 +6,7 @@ descripcion: Day trip to Teide National Park with hotel pickup, an official guid
 slugs:
   es: teide-teleferico-traslado
   en: teide-cable-car-tour-transfer
+  de: teide-ausflug-seilbahn-transfer
 duracion: 7 hours
 duracionMinutos: 420
 precioDesde: 92

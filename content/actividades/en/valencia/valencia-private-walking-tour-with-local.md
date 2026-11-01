@@ -6,6 +6,7 @@ descripcion: A two-hour private walk with a Valencia local who shapes the route 
 slugs:
   es: valencia-paseo-privado-con-local-a-medida
   en: valencia-private-walking-tour-with-local
+  de: valencia-privater-rundgang-mit-einheimischen
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 48

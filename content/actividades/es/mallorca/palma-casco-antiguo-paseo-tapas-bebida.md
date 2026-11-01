@@ -6,6 +6,7 @@ descripcion: Paseo guiado de unos 75 minutos por el casco antiguo de Palma que t
 slugs:
   es: palma-casco-antiguo-paseo-tapas-bebida
   en: palma-old-town-walk-tapas-drink
+  de: palma-altstadt-rundgang-tapas-getraenk
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 89

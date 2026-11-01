@@ -6,6 +6,7 @@ descripcion: 'Ruta de pub crawl por el centro de Madrid: 3 bares y una discoteca
 slugs:
   es: pub-crawl-madrid-bares-chupitos
   en: madrid-pub-crawl-bars-club-shots
+  de: madrid-kneipentour-bars-club-shots
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 19

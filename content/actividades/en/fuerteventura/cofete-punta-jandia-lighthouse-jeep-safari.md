@@ -6,6 +6,7 @@ descripcion: Five-hour 4x4 trip along the dirt tracks of the Jandía peninsula, 
 slugs:
   es: jeep-safari-cofete-faro-punta-jandia
   en: cofete-punta-jandia-lighthouse-jeep-safari
+  de: cofete-leuchtturm-punta-jandia-jeep-safari
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 85

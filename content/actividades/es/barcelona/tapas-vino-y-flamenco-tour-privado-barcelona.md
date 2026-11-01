@@ -6,6 +6,7 @@ descripcion: Tour privado de 3 horas por el Barrio Gótico y el Born con guía l
 slugs:
   es: tapas-vino-y-flamenco-tour-privado-barcelona
   en: barcelona-private-tapas-wine-flamenco-tour
+  de: barcelona-tapas-wein-flamenco-privattour
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 114

@@ -6,6 +6,7 @@ descripcion: Excursión de 5 horas en autobús por el norte de Lanzarote con ent
 slugs:
   es: cueva-de-los-verdes-jameos-del-agua-medio-dia
   en: cueva-de-los-verdes-jameos-del-agua-half-day-tour
+  de: lanzarote-cueva-de-los-verdes-jameos-del-agua-halbtagestour
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 63

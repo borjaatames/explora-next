@@ -6,6 +6,7 @@ descripcion: 'Excursión de 8 horas en autobús desde el sur: Arucas, Firgas, Cr
 slugs:
   es: tour-gran-canaria-1-dia-desde-sur
   en: gran-canaria-day-tour-from-the-south
+  de: gran-canaria-inselrundfahrt-ab-mogan-maspalomas
 duracion: 8 horas
 duracionMinutos: 480
 precioDesde: 44

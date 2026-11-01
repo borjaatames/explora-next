@@ -6,6 +6,7 @@ descripcion: Excursión de día al Parque Nacional del Teide con recogida en hot
 slugs:
   es: teide-teleferico-traslado
   en: teide-cable-car-tour-transfer
+  de: teide-ausflug-seilbahn-transfer
 duracion: 7 horas
 duracionMinutos: 420
 precioDesde: 92

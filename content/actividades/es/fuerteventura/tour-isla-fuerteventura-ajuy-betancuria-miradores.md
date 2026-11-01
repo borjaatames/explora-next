@@ -6,6 +6,7 @@ descripcion: Excursión de 6 horas en minibús con grupo de máximo 8 personas q
 slugs:
   es: tour-isla-fuerteventura-ajuy-betancuria-miradores
   en: fuerteventura-island-tour-ajuy-betancuria-viewpoints
+  de: fuerteventura-inselrundfahrt-ajuy-betancuria-aussichtspunkte
 duracion: 6 horas
 duracionMinutos: 360
 precioDesde: 80

@@ -6,6 +6,7 @@ descripcion: Four-hour cruise on the Odysee 3, a glass-bottom boat, along the Ja
 slugs:
   es: barco-fondo-cristal-jandia-comida-bebidas
   en: jandia-glass-bottom-boat-cruise-lunch-drinks
+  de: jandia-glasbodenboot-mit-mittagessen
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 75

@@ -6,6 +6,7 @@ descripcion: 'Explore Malaga at your own pace with the DareMapp self-guided audi
 slugs:
   es: tour-autoguiado-daremapp-malaga
   en: self-guided-tour-daremapp-malaga
+  de: malaga-audiotour-daremapp-app
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 10

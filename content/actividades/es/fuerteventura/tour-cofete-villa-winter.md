@@ -6,6 +6,7 @@ descripcion: 'Excursión de 4 horas en grupo de máximo 8 personas desde Jandía
 slugs:
   es: tour-cofete-villa-winter
   en: cofete-villa-winter-tour
+  de: cofete-villa-winter-tour
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 57

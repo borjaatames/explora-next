@@ -6,6 +6,7 @@ descripcion: Tour gastronómico de 3 horas por Palma con dulces de convento, pan
 slugs:
   es: palma-tour-gastronomico-casco-antiguo
   en: palma-old-town-food-walking-tour
+  de: palma-altstadt-food-tour
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 65

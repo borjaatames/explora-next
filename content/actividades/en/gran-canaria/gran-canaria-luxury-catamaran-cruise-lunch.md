@@ -6,6 +6,7 @@ descripcion: '4.5-hour cruise from Puerto Rico along the southwest coast on a 20
 slugs:
   es: catamaran-lujo-gran-canaria-almuerzo
   en: gran-canaria-luxury-catamaran-cruise-lunch
+  de: gran-canaria-luxus-katamaran-mit-mittagessen
 duracion: 4 hours 30 minutes
 duracionMinutos: 270
 precioDesde: 84

@@ -6,6 +6,7 @@ descripcion: A morning catamaran trip from Ibiza to Formentera with swims at Esp
 slugs:
   es: formentera-catamaran-paradas-bano-ferry-vuelta
   en: formentera-catamaran-swim-stops-return-ferry
+  de: formentera-katamaran-ab-ibiza-mit-badestopps-und-faehre
 duracion: 10 hours
 duracionMinutos: 600
 precioDesde: 89

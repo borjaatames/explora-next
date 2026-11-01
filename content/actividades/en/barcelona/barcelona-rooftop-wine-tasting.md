@@ -6,6 +6,7 @@ descripcion: 'A 2-hour guided tasting on a central Barcelona rooftop: 6 Spanish 
 slugs:
   es: barcelona-cata-de-vinos-azotea
   en: barcelona-rooftop-wine-tasting
+  de: barcelona-weinprobe-dachterrasse
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 48

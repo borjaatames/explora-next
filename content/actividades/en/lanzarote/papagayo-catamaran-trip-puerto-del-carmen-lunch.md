@@ -6,6 +6,7 @@ descripcion: Sailing catamaran trip from Puerto del Carmen to the Papagayo coast
 slugs:
   es: catamaran-papagayo-puerto-del-carmen-almuerzo
   en: papagayo-catamaran-trip-puerto-del-carmen-lunch
+  de: puerto-del-carmen-katamaran-papagayo-mit-mittagessen
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 66

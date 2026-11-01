@@ -6,6 +6,7 @@ descripcion: 2-hour trip on the Magic Dolphin from Morro Jable harbour to look f
 slugs:
   es: barco-delfines-morro-jable
   en: morro-jable-dolphin-whale-boat-trip
+  de: morro-jable-delfinbeobachtung-bootstour
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 49

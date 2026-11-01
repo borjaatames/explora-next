@@ -6,6 +6,7 @@ descripcion: 'Audioguía autoguiada por Girona vía app DareMapp: sin guía fís
 slugs:
   es: tour-autoguiado-daremapp-girona
   en: self-guided-tour-daremapp-girona
+  de: girona-selbstgefuehrte-tour-daremapp
 duracion: 1 hora 30 minutos
 duracionMinutos: 90
 precioDesde: 5.0

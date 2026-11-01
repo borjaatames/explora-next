@@ -6,6 +6,7 @@ descripcion: Tour privado de 3 horas por la Alhambra, los Palacios Nazaríes, la
 slugs:
   es: alhambra-tour-privado
   en: alhambra-private-tour
+  de: alhambra-privatfuehrung
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 280

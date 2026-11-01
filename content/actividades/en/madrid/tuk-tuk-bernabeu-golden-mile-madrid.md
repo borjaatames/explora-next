@@ -6,6 +6,7 @@ descripcion: 'Private 1 h 15 min electric tuk-tuk tour of modern Madrid: Cibeles
 slugs:
   es: tuk-tuk-bernabeu-milla-oro-madrid
   en: tuk-tuk-bernabeu-golden-mile-madrid
+  de: madrid-private-tuk-tuk-tour-bernabeu-goldene-meile
 duracion: 1 hour 15 minutes
 duracionMinutos: 75
 precioDesde: 79

@@ -6,6 +6,7 @@ descripcion: 90-minute private guided tour of the Guggenheim Museum Bilbao, just
 slugs:
   es: guggenheim-bilbao-tour-privado-exclusivo-con-entrada
   en: guggenheim-bilbao-exclusive-private-tour-ticket
+  de: guggenheim-bilbao-private-fuehrung-mit-ticket
 duracion: 1 hour 30 minutes
 duracionMinutos: 90
 precioDesde: 230

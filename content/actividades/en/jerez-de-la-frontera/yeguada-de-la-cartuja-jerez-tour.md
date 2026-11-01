@@ -6,6 +6,7 @@ descripcion: 2.5-hour guided visit to the Yeguada de la Cartuja near Jerez, home
 slugs:
   es: yeguada-de-la-cartuja-jerez
   en: yeguada-de-la-cartuja-jerez-tour
+  de: jerez-yeguada-de-la-cartuja-gestuet-fuehrung-show
 duracion: 2.5 hours
 duracionMinutos: 150
 precioDesde: 19.5

@@ -6,6 +6,7 @@ descripcion: Día completo en La Gomera con ferri desde Los Cristianos, guía of
 slugs:
   es: excursion-la-gomera-ferri-almuerzo
   en: la-gomera-day-trip-ferry-lunch
+  de: la-gomera-tagesausflug-faehre-mittagessen
 duracion: 10 horas
 duracionMinutos: 600
 precioDesde: 110

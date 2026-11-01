@@ -6,6 +6,7 @@ descripcion: Safari de 3 horas en 4x4 compartido desde Morro Jable por la pista 
 slugs:
   es: jeep-safari-cofete-morro-jable
   en: cofete-jeep-safari-morro-jable
+  de: cofete-jeep-safari-ab-morro-jable
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 65

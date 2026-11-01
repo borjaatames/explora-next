@@ -6,6 +6,7 @@ descripcion: Travesía en catamarán de vela desde Puerto del Carmen hasta la co
 slugs:
   es: catamaran-papagayo-puerto-del-carmen-almuerzo
   en: papagayo-catamaran-trip-puerto-del-carmen-lunch
+  de: puerto-del-carmen-katamaran-papagayo-mit-mittagessen
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 66

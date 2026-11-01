@@ -6,6 +6,7 @@ descripcion: 5-hour food trip from Costa Calma to a majorero goat cheese farm an
 slugs:
   es: tapas-vida-local-fincas-fuerteventura
   en: fuerteventura-tapas-local-life-farm-tour
+  de: fuerteventura-tapas-fincas-tour
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 85

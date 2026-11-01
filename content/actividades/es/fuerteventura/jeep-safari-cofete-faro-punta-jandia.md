@@ -6,6 +6,7 @@ descripcion: Excursión de 5 horas en 4x4 por las pistas de la península de Jan
 slugs:
   es: jeep-safari-cofete-faro-punta-jandia
   en: cofete-punta-jandia-lighthouse-jeep-safari
+  de: cofete-leuchtturm-punta-jandia-jeep-safari
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 85

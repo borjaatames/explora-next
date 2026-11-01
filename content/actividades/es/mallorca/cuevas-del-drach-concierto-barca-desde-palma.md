@@ -6,6 +6,7 @@ descripcion: Excursión de medio día desde Palma a las Cuevas del Drach con ent
 slugs:
   es: cuevas-del-drach-concierto-barca-desde-palma
   en: drach-caves-concert-boat-from-palma
+  de: drachenhoehlen-konzert-bootsfahrt-ab-palma
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 54

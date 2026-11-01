@@ -6,6 +6,7 @@ descripcion: 3.5-hour trip from Bilbao to San Juan de Gaztelugatxe by van in a g
 slugs:
   es: gaztelugatxe-caminata-costa-grupo-reducido-desde-bilbao
   en: gaztelugatxe-basque-coast-walk-small-group-from-bilbao
+  de: gaztelugatxe-wanderung-kleingruppe-ab-bilbao
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 70

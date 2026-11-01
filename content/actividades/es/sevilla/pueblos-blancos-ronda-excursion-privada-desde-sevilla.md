@@ -6,6 +6,7 @@ descripcion: 'Excursión privada de 9 horas desde Sevilla por los Pueblos Blanco
 slugs:
   es: pueblos-blancos-ronda-excursion-privada-desde-sevilla
   en: white-villages-ronda-private-day-trip-from-seville
+  de: weisse-doerfer-ronda-privattour-ab-sevilla
 duracion: 9 horas
 duracionMinutos: 540
 precioDesde: 389

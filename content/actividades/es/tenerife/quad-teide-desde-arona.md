@@ -6,6 +6,7 @@ descripcion: Ruta guiada en quad por carretera desde Arona hasta unos 2.100 m en
 slugs:
   es: quad-teide-desde-arona
   en: teide-quad-tour-from-arona
+  de: teide-quad-tour-ab-arona
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 60

@@ -6,6 +6,7 @@ descripcion: 'Cata guiada de 2 horas en una azotea del centro de Barcelona: 6 vi
 slugs:
   es: barcelona-cata-de-vinos-azotea
   en: barcelona-rooftop-wine-tasting
+  de: barcelona-weinprobe-dachterrasse
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 48

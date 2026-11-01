@@ -6,6 +6,7 @@ descripcion: 'Tour de 75 minutos en catamarán por la bahía de Cádiz con audio
 slugs:
   es: catamaran-bahia-de-cadiz
   en: cadiz-bay-catamaran-tour
+  de: cadiz-katamaran-tour-bucht
 duracion: 75 minutos
 duracionMinutos: 75
 precioDesde: 19

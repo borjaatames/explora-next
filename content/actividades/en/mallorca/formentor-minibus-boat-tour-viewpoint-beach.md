@@ -6,6 +6,7 @@ descripcion: 'Half a day in Formentor without a car: panoramic minibus with a gu
 slugs:
   es: formentor-minibus-barco-mirador-playa
   en: formentor-minibus-boat-tour-viewpoint-beach
+  de: formentor-minibus-boot-tour-aussichtspunkt-strand
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 45

@@ -6,6 +6,7 @@ descripcion: "2-hour walking tour of Bilbao's Old Town in a group of up to 8: Sa
 slugs:
   es: bilbao-esencial-tour-a-pie-grupo-reducido
   en: bilbao-highlights-small-group-walking-tour
+  de: bilbao-altstadt-rundgang-kleingruppe
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 31

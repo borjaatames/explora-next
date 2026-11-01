@@ -6,6 +6,7 @@ descripcion: 'Private 1 h 15 min electric tuk-tuk tour of historic Madrid: Royal
 slugs:
   es: tuk-tuk-centro-historico-gran-via-madrid
   en: tuk-tuk-historic-centre-gran-via-madrid
+  de: madrid-private-tuk-tuk-tour-altstadt-gran-via
 duracion: 1 hour 15 minutes
 duracionMinutos: 75
 precioDesde: 79

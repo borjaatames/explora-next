@@ -6,6 +6,7 @@ descripcion: Six-hour minibus trip in a group of up to 8 across the island, with
 slugs:
   es: tour-isla-fuerteventura-ajuy-betancuria-miradores
   en: fuerteventura-island-tour-ajuy-betancuria-viewpoints
+  de: fuerteventura-inselrundfahrt-ajuy-betancuria-aussichtspunkte
 duracion: 6 hours
 duracionMinutos: 360
 precioDesde: 80

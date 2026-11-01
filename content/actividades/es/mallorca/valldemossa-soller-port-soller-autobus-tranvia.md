@@ -6,6 +6,7 @@ descripcion: Excursión de 6 horas por la Serra de Tramuntana con guía, en auto
 slugs:
   es: valldemossa-soller-port-soller-autobus-tranvia
   en: valldemossa-soller-port-soller-bus-tram-tour
+  de: valldemossa-soller-port-de-soller-bus-strassenbahn
 duracion: 6 horas
 duracionMinutos: 360
 precioDesde: 49

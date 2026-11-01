@@ -6,6 +6,7 @@ descripcion: Boat trip from Roses to Cadaqués along the Cap de Creus coast, wit
 slugs:
   es: roses-cadaques-barco-cap-de-creus
   en: roses-cadaques-boat-trip-cap-de-creus
+  de: roses-cadaques-bootsausflug-cap-de-creus
 duracion: 3 h 30 min
 duracionMinutos: 210
 precioDesde: 27

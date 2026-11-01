@@ -6,6 +6,7 @@ descripcion: 90-minute guided tour of the Guggenheim Bilbao in a group of up to 
 slugs:
   es: guggenheim-bilbao-arte-explicado-por-artistas
   en: guggenheim-bilbao-art-explained-by-artists
+  de: guggenheim-bilbao-fuehrung-mit-kuenstlern
 duracion: 1 hour 30 minutes
 duracionMinutos: 90
 precioDesde: 90

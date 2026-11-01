@@ -6,6 +6,7 @@ descripcion: Excursión de 3 horas en minibús desde Alcúdia, en grupo de hasta
 slugs:
   es: formentor-atardecer-minibus-cava-desde-alcudia
   en: formentor-sunset-minibus-cava-from-alcudia
+  de: formentor-sonnenuntergang-minibus-cava-ab-alcudia
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 65

@@ -6,6 +6,7 @@ descripcion: 'An 8.5-hour trip from Seville to Doñana National Park: a 4x4 tour
 slugs:
   es: donana-excursion-dia-completo-desde-sevilla
   en: donana-full-day-tour-from-seville
+  de: donana-tagestour-ab-sevilla
 duracion: 8 hours 30 minutes
 duracionMinutos: 510
 precioDesde: 476

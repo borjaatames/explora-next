@@ -6,6 +6,7 @@ descripcion: '2-hour private walk around Bilbao with a resident who tailors the 
 slugs:
   es: bilbao-paseo-privado-con-local-lokafy
   en: bilbao-private-walk-with-a-local-lokafy
+  de: bilbao-privater-spaziergang-mit-einheimischen
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 48
