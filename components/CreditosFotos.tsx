@@ -9,6 +9,7 @@ interface Props {
 const TEXTOS = {
   es: { titulo: "Créditos de las fotos", webOficial: "Foto cedida por el establecimiento (web oficial)", fuente: "fuente", foto: "Foto" },
   en: { titulo: "Photo credits", webOficial: "Photo courtesy of the venue (official website)", fuente: "source", foto: "Photo" },
+  de: { titulo: "Bildnachweise", webOficial: "Foto mit freundlicher Genehmigung des Anbieters (offizielle Website)", fuente: "Quelle", foto: "Foto" },
 } as const;
 
 /** Los CREDITOS.md están en español; en EN/DE traducimos las fórmulas fijas. */
@@ -22,10 +23,21 @@ const TRADUCCIONES_EN: ReadonlyArray<[RegExp, string]> = [
   [/\bcedida por\b/gi, "courtesy of"],
 ];
 
+const TRADUCCIONES_DE: ReadonlyArray<[RegExp, string]> = [
+  [/», por /g, "», von "],
+  [/\bvía\b/gi, "über"],
+  [/\bLicencia (Pexels|Pixabay|Unsplash)\b/g, "$1-Lizenz"],
+  [/\bDominio público\b/gi, "Gemeinfrei"],
+  [/\bFoto de\b/g, "Foto von"],
+  [/\bFoto del proveedor\b/gi, "Foto des Anbieters"],
+  [/\bcedida por\b/gi, "mit freundlicher Genehmigung von"],
+];
+
 function textoCredito(texto: string, idioma: Idioma): string {
   // Restos de nombres de archivo de origen («…foto_123.jpg)») que no aportan nada.
   const limpio = texto.replace(/\S+\.(?:jpe?g|png|webp|tiff?)\)?/gi, "").replace(/\s{2,}/g, " ").trim();
   if (idioma === "es") return limpio;
+  if (idioma === "de") return TRADUCCIONES_DE.reduce((t, [re, por]) => t.replace(re, por), limpio);
   return TRADUCCIONES_EN.reduce((t, [re, por]) => t.replace(re, por), limpio);
 }
 
@@ -34,7 +46,7 @@ function textoCredito(texto: string, idioma: Idioma): string {
  * los CREDITOS.md en build. Las licencias CC BY / CC BY-SA exigen mostrarlos.
  */
 export default function CreditosFotos({ idioma, srcs }: Props) {
-  const t = idioma === "es" ? TEXTOS.es : TEXTOS.en;
+  const t = idioma === "es" ? TEXTOS.es : idioma === "de" ? TEXTOS.de : TEXTOS.en;
   const creditos = getCreditosFotos(srcs, { webOficial: t.webOficial, fuente: t.fuente });
   if (creditos.length === 0) return null;
 

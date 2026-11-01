@@ -40,6 +40,7 @@ import {
   formatearPrecio,
   formatearRating,
   idiomaFichas,
+  preferirFichasDe,
   indexarFichasCiudad,
   partirHtmlPorShortcodes,
   slugsInline,
@@ -159,8 +160,8 @@ export default async function GuiaPage({ params }: Props) {
     3
   );
 
-  // Las guías DE usan las fichas EN (no hay fichas DE); ver idiomaFichas.
-  const actividadesRecomendadas = obtenerActividadesParaGuia(
+  // Las guías DE parten de las fichas EN y usan la versión DE cuando existe.
+  const actividadesRecomendadas = preferirFichasDe(lang, obtenerActividadesParaGuia(
     idiomaFichas(lang),
     guia.categoria,
     {
@@ -170,8 +171,8 @@ export default async function GuiaPage({ params }: Props) {
       actividades: guia.actividades,
     },
     10
-  );
-  const privadasGuia = obtenerPrivadasParaGuia(
+  ));
+  const privadasGuia = preferirFichasDe(lang, obtenerPrivadasParaGuia(
     idiomaFichas(lang),
     guia.categoria,
     {
@@ -181,7 +182,7 @@ export default async function GuiaPage({ params }: Props) {
       actividades: guia.actividades,
     },
     3
-  );
+  ));
   const nombreCiudad =
     obtenerListaCiudades(lang).find((c) => c.slug === guia.categoria)?.nombre ??
     guia.categoria.charAt(0).toUpperCase() + guia.categoria.slice(1);

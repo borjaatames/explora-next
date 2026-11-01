@@ -11,6 +11,7 @@ type Props = {
 const TEXTOS = {
   es: { mas: "Ver más", menos: "Ver menos" },
   en: { mas: "Show more", menos: "Show less" },
+  de: { mas: "Mehr anzeigen", menos: "Weniger anzeigen" },
 } as const;
 
 /**
@@ -20,7 +21,7 @@ const TEXTOS = {
  */
 export default function PlegableMovil({ idioma, children }: Props) {
   const [abierto, setAbierto] = useState(false);
-  const t = idioma === "es" ? TEXTOS.es : TEXTOS.en;
+  const t = idioma === "es" ? TEXTOS.es : idioma === "de" ? TEXTOS.de : TEXTOS.en;
 
   return (
     <div>

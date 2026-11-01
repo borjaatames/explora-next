@@ -31,7 +31,7 @@ export function formatearPrecioBokun(
   moneda: string | undefined,
   idioma: Idioma
 ): string {
-  return new Intl.NumberFormat(esEspanol(idioma) ? "es-ES" : "en-GB", {
+  return new Intl.NumberFormat(esEspanol(idioma) ? "es-ES" : idioma === "de" ? "de-DE" : "en-GB", {
     style: "currency",
     currency: moneda || "EUR",
     maximumFractionDigits: 0,
@@ -44,10 +44,12 @@ export function textoUnidadBokun(
   idioma: Idioma
 ): string {
   const es = esEspanol(idioma);
-  if (datos.porGrupo) return es ? "por grupo" : "per group";
-  const base = es ? "por persona" : "per person";
+  const de = idioma === "de";
+  if (datos.porGrupo) return es ? "por grupo" : de ? "pro Gruppe" : "per group";
+  const base = es ? "por persona" : de ? "pro Person" : "per person";
   const minimo = datos.minimoPersonas;
   if (typeof minimo !== "number" || minimo < 2) return base;
+  if (de) return `${base} · mind. ${minimo} Personen`;
   return es ? `${base} · mínimo ${minimo}` : `${base} · min. ${minimo} people`;
 }
 
@@ -57,9 +59,9 @@ export function textosPrecioBokun(
 ): TextosPrecioBokun {
   const es = esEspanol(idioma);
   return {
-    desde: es ? "Desde" : "From",
+    desde: es ? "Desde" : idioma === "de" ? "Ab" : "From",
     precio: formatearPrecioBokun(datos.precioDesde, datos.moneda, idioma),
     unidad: textoUnidadBokun(datos, idioma),
-    verFechas: es ? "Ver fechas disponibles" : "Check availability",
+    verFechas: es ? "Ver fechas disponibles" : idioma === "de" ? "Verfügbare Termine ansehen" : "Check availability",
   };
 }

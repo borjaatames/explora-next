@@ -231,18 +231,19 @@ export default function ActividadesFiltradas({
   const finPagina = paginaSegura * POR_PAGINA;
 
   const en = locale.startsWith("en");
+  const de = locale.startsWith("de");
   const txtPaginacion = {
-    nav: en ? "Pagination" : "Paginación",
-    anterior: en ? "Previous page" : "Página anterior",
-    siguiente: en ? "Next page" : "Página siguiente",
-    pagina: (n: number) => (en ? `Page ${n}` : `Página ${n}`),
+    nav: de ? "Seitennavigation" : en ? "Pagination" : "Paginación",
+    anterior: de ? "Vorherige Seite" : en ? "Previous page" : "Página anterior",
+    siguiente: de ? "Nächste Seite" : en ? "Next page" : "Página siguiente",
+    pagina: (n: number) => (de ? `Seite ${n}` : en ? `Page ${n}` : `Página ${n}`),
   };
 
   const txtOrden = {
-    label: en ? "Sort by" : "Ordenar por",
-    recomendadas: en ? "Recommended" : "Recomendadas",
-    precio: en ? "Price: low to high" : "Precio: de menor a mayor",
-    valoracion: en ? "Highest rated" : "Mejor valoradas",
+    label: de ? "Sortieren nach" : en ? "Sort by" : "Ordenar por",
+    recomendadas: de ? "Empfohlen" : en ? "Recommended" : "Recomendadas",
+    precio: de ? "Preis: aufsteigend" : en ? "Price: low to high" : "Precio: de menor a mayor",
+    valoracion: de ? "Beste Bewertung" : en ? "Highest rated" : "Mejor valoradas",
   };
 
   const txtCategorias = locale.startsWith("de")
@@ -540,9 +541,9 @@ export function CardActividad({
     maximumFractionDigits: 0,
   });
 
-  const idioma: Idioma = locale.startsWith("en") ? "en" : "es";
+  const idioma: Idioma = locale.startsWith("en") ? "en" : locale.startsWith("de") ? "de" : "es";
   const textoEtiqueta = actividad.etiqueta
-    ? TEXTO_ETIQUETA[idioma === "es" ? "es" : "en"][actividad.etiqueta]
+    ? TEXTO_ETIQUETA[idioma === "es" ? "es" : idioma === "de" ? "de" : "en"][actividad.etiqueta]
     : null;
   const tieneNota =
     typeof actividad.ratingProveedor === "number" &&
@@ -579,7 +580,7 @@ export function CardActividad({
         ) : null}
         {actividad.privada ? (
           <span className="self-start inline-block bg-anil-50 text-anil-700 text-[11px] md:text-xs font-semibold uppercase tracking-wider px-1.5 py-0.5 md:px-2 md:py-1 rounded mb-1 md:mb-2">
-            {idioma === "es" ? "Privado · solo tu grupo" : "Private · just your group"}
+            {idioma === "es" ? "Privado · solo tu grupo" : idioma === "de" ? "Privat · nur deine Gruppe" : "Private · just your group"}
           </span>
         ) : null}
         <h3 className="text-[15px] font-semibold leading-snug md:font-fraunces md:text-xl md:font-bold text-piedra-900 mb-1 md:mb-2 group-hover:text-anil-700 transition-colors md:leading-tight line-clamp-2 md:min-h-[2.5em]">
@@ -594,7 +595,7 @@ export function CardActividad({
               <span className="text-azafran-600" aria-hidden="true">
                 ★
               </span>{" "}
-              {actividad.ratingProveedor?.toFixed(1)} ({actividad.numeroOpiniones})
+              {actividad.ratingProveedor?.toLocaleString(locale, { minimumFractionDigits: 1, maximumFractionDigits: 1 })} ({actividad.numeroOpiniones?.toLocaleString(locale)})
             </span>
           ) : null}
         </div>
@@ -619,7 +620,7 @@ export function CardActividad({
                 {formato.format(actividad.precio.porPersona)}
                 {actividad.precio.personasReferencia ? (
                   <span className="text-xs font-normal text-piedra-500">
-                    {idioma === "es" ? "/pers." : "/person"}
+                    {idioma === "es" ? "/pers." : idioma === "de" ? "/Pers." : "/person"}
                   </span>
                 ) : null}
               </p>
@@ -628,9 +629,13 @@ export function CardActividad({
                   {actividad.precio.personasReferencia && actividad.precio.totalReferencia
                     ? idioma === "es"
                       ? `grupo de ${actividad.precio.personasReferencia}: ${formato.format(actividad.precio.totalReferencia)} en total`
+                      : idioma === "de"
+                      ? `Gruppe von ${actividad.precio.personasReferencia}: ${formato.format(actividad.precio.totalReferencia)} insgesamt`
                       : `group of ${actividad.precio.personasReferencia}: ${formato.format(actividad.precio.totalReferencia)} total`
                     : idioma === "es"
                       ? "por grupo"
+                      : idioma === "de"
+                      ? "pro Gruppe"
                       : "per group"}
                 </p>
               ) : null}

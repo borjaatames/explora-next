@@ -61,6 +61,25 @@ type Props = {
   params: { lang: string; ciudad: string; slug: string };
 };
 
+const TEXTOS_FICHA = {
+  en: {
+    inicio: "Home",
+    ciudades: "Cities",
+    queHacer: "Things to do",
+    accesibilidad: "Accessibility",
+    cancelacion: "Cancellation policy",
+    verMas: (c: string) => `← See more things to do in ${c}`,
+  },
+  de: {
+    inicio: "Startseite",
+    ciudades: "Städte",
+    queHacer: "Aktivitäten",
+    accesibilidad: "Barrierefreiheit",
+    cancelacion: "Stornierungsbedingungen",
+    verMas: (c: string) => `← Weitere Aktivitäten auf Deutsch in ${c}`,
+  },
+} as const;
+
 /**
  * Genera rutas para todas las (idioma, ciudad, slug) de actividades
  * publicadas en idiomas activos != es. Hoy solo `en` tiene contenido de
@@ -131,6 +150,7 @@ export default async function ActividadPage({ params }: Props) {
   if (!ciudad || !actividad) notFound();
 
   const dict = getDictionary(lang);
+  const tx = TEXTOS_FICHA[lang === "de" ? "de" : "en"];
 
   const guiasRelacionadas = obtenerGuiasParaFicha(lang, params.ciudad, actividad);
   const guiaAgotada = obtenerGuiaAgotadaParaFicha(lang, params.ciudad, actividad.slugs?.es);
@@ -167,7 +187,7 @@ export default async function ActividadPage({ params }: Props) {
   // se genera hoy para lang="en" (sin contenido de actividades en otros
   // idiomas), pero acotamos el tipo aquí explícitamente para no ensanchar
   // la firma de esas funciones con idiomas que el proveedor no entiende.
-  const idiomaProveedor: "es" | "en" = lang === "en" ? "en" : "es";
+  const idiomaProveedor: "es" | "en" | "de" = lang === "en" ? "en" : lang === "de" ? "de" : "es";
   const precioDesdeFinal = actividad.precioDesde;
   const precio = new Intl.NumberFormat(IDIOMA_LOCALE[lang], {
     style: "currency",
@@ -192,11 +212,11 @@ export default async function ActividadPage({ params }: Props) {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: homeUrl },
+      { "@type": "ListItem", position: 1, name: tx.inicio, item: homeUrl },
       {
         "@type": "ListItem",
         position: 2,
-        name: "Cities",
+        name: tx.ciudades,
         item: indiceCiudadesUrl,
       },
       {
@@ -208,7 +228,7 @@ export default async function ActividadPage({ params }: Props) {
       {
         "@type": "ListItem",
         position: 4,
-        name: "Things to do",
+        name: tx.queHacer,
         item: `${SITE_URL}${urlActividadesDeCiudad(lang, params.ciudad)}`,
       },
       { "@type": "ListItem", position: 5, name: actividad.titulo, item: url },
@@ -347,7 +367,7 @@ export default async function ActividadPage({ params }: Props) {
         <div>
           <nav aria-label="Breadcrumb" className="text-sm text-piedra-500 mb-4">
             <Link href={prefijoIdioma(lang) || "/"} className="hover:text-anil-700">
-              Home
+              {tx.inicio}
             </Link>
             {" › "}
             <Link href={ciudad.url} className="hover:text-anil-700">
@@ -358,7 +378,7 @@ export default async function ActividadPage({ params }: Props) {
               href={urlActividadesDeCiudad(lang, params.ciudad)}
               className="hover:text-anil-700"
             >
-              Things to do
+              {tx.queHacer}
             </Link>
             <span className="hidden md:inline">
               {" › "}
@@ -718,7 +738,7 @@ export default async function ActividadPage({ params }: Props) {
               <SeccionMovil idioma={lang} seccion="accesibilidad">
               <div className="bg-white border border-piedra-200 rounded-lg p-6 md:p-7">
                 <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-3">
-                  Accessibility
+                  {tx.accesibilidad}
                 </h2>
                 <p className="text-piedra-700 leading-relaxed">
                   {actividad.accesibilidad}
@@ -732,7 +752,7 @@ export default async function ActividadPage({ params }: Props) {
               <SeccionMovil idioma={lang} seccion="cancelacion">
               <div className="bg-white border border-piedra-200 rounded-lg p-6 md:p-7">
                 <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900 mb-3">
-                  Cancellation policy
+                  {tx.cancelacion}
                 </h2>
                 <p className="text-piedra-700 leading-relaxed">
                   {actividad.politicaCancelacion}
@@ -805,7 +825,7 @@ export default async function ActividadPage({ params }: Props) {
               ? `${urlActividadesDeCiudad(lang, params.ciudad)}?atraccion=${actividad.atraccionesRelacionadas[0]}`
               : urlActividadesDeCiudad(lang, params.ciudad)
           }
-          textoActividadesCiudad={`← See more things to do in ${ciudad.nombre}`}
+          textoActividadesCiudad={tx.verMas(ciudad.nombre)}
         />
       </div>
 

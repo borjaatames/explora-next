@@ -33,6 +33,13 @@ const TEXTOS = {
     desde: "from",
     ver: "View",
   },
+  de: {
+    titulo: "Andere Varianten dieser Aktivität",
+    subtitulo: "Gleiche Aktivität, anderes Format oder anderer Preis.",
+    estaFicha: "Du bist hier",
+    desde: "ab",
+    ver: "Ansehen",
+  },
 } as const;
 
 /**
@@ -42,7 +49,7 @@ const TEXTOS = {
  */
 export default function OtrasVersiones({ idioma, actual, versiones }: Props) {
   if (versiones.length === 0) return null;
-  const t = idioma === "es" ? TEXTOS.es : TEXTOS.en;
+  const t = idioma === "es" ? TEXTOS.es : idioma === "de" ? TEXTOS.de : TEXTOS.en;
   const filas = versiones.slice(0, 3);
 
   const meta = (a: Actual) => {

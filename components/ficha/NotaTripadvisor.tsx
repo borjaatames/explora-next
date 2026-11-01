@@ -15,7 +15,7 @@ type Props = {
 export default function NotaTripadvisor({ idioma, datos }: Props) {
   if (!datos) return null;
   const es = idioma === "es";
-  const locale = es ? "es-ES" : "en-GB";
+  const locale = es ? "es-ES" : idioma === "de" ? "de-DE" : "en-GB";
   const nota = datos.rating.toLocaleString(locale, {
     minimumFractionDigits: 1,
     maximumFractionDigits: 1,
@@ -40,7 +40,7 @@ export default function NotaTripadvisor({ idioma, datos }: Props) {
         href="#opiniones"
         className="underline decoration-piedra-300 underline-offset-2 hover:text-anil-700 hover:decoration-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded-sm"
       >
-        {es ? `${opiniones} opiniones` : `${opiniones} reviews`}
+        {es ? `${opiniones} opiniones` : idioma === "de" ? `${opiniones} Bewertungen` : `${opiniones} reviews`}
       </a>
       {ranking && (
         <>

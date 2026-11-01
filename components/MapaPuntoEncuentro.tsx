@@ -14,7 +14,7 @@ type Strings = {
   verMapa: string;
 };
 
-const DICT: Record<"es" | "en", Strings> = {
+const DICT: Record<"es" | "en" | "de", Strings> = {
   es: {
     titulo: "Punto de encuentro",
     mapaDe: (lugar: string) => `Mapa de ${lugar}`,
@@ -27,10 +27,17 @@ const DICT: Record<"es" | "en", Strings> = {
     abrirGoogleMaps: "Open in Google Maps ↗",
     verMapa: "Show map",
   },
+  de: {
+    titulo: "Treffpunkt",
+    mapaDe: (lugar: string) => `Karte von ${lugar}`,
+    abrirGoogleMaps: "In Google Maps öffnen ↗",
+    verMapa: "Karte anzeigen",
+  },
 };
 
 function dictFor(idioma: Idioma): Strings {
   if (idioma === "es") return DICT.es;
+  if (idioma === "de") return DICT.de;
   return DICT.en;
 }
 

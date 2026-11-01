@@ -45,7 +45,7 @@ type Strings = {
  * mantener cada componente autocontenido. Si en el futuro se activan más
  * idiomas, se añaden aquí — el tipo `Strings` garantiza paridad de claves.
  */
-const DICT: Record<"es" | "en", Strings> = {
+const DICT: Record<"es" | "en" | "de", Strings> = {
   es: {
     titulo: "Detalles prácticos",
     duracion: "Duración",
@@ -104,6 +104,35 @@ const DICT: Record<"es" | "en", Strings> = {
       pt: "Portuguese",
     },
   },
+  de: {
+    titulo: "Praktische Infos",
+    duracion: "Dauer",
+    idiomasGuia: "Sprachen",
+    ticketMovil: "Handy-Ticket",
+    ticketMovilValor: "Kein Ausdruck nötig",
+    confirmacion: "Sofortige Bestätigung",
+    confirmacionValor: "Direkt nach der Buchung",
+    accesibleSilla: "Rollstuhlgerecht",
+    accesibleSillaSi: "Ja · bei der Buchung angeben",
+    accesibleSillaNo: "Nein",
+    edadMinima: "Mindestalter",
+    edadSinRestriccion: "Keine Einschränkung",
+    edadAnios: (n: number) => `ab ${n} Jahren`,
+    mascotas: "Haustiere",
+    mascotasSi: "Erlaubt",
+    mascotasNo: "Nicht erlaubt",
+    cancelacion: "Stornierung",
+    cancelacionConHoras: (h: number) => `Kostenlos bis ${h} Std. vorher`,
+    cancelacionGratuita: "Kostenlose Stornierung",
+    nombresIdioma: {
+      es: "Spanisch",
+      en: "Englisch",
+      fr: "Französisch",
+      de: "Deutsch",
+      it: "Italienisch",
+      pt: "Portugiesisch",
+    },
+  },
 };
 
 /**
@@ -113,6 +142,7 @@ const DICT: Record<"es" | "en", Strings> = {
  */
 function dictFor(idioma: Idioma): Strings {
   if (idioma === "es") return DICT.es;
+  if (idioma === "de") return DICT.de;
   return DICT.en;
 }
 

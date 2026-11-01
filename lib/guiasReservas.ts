@@ -38,8 +38,9 @@ export type TrozoGuia =
   | { tipo: "mapa"; dia: number; paradas: ParadaMapa[] };
 
 /**
- * Idioma en el que existen fichas para una guía. Solo hay fichas ES y EN:
- * las guías DE ofrecen las fichas EN (mejor una ficha en inglés que ninguna).
+ * Idioma base de las fichas de una guía. Las guías DE parten de las fichas EN
+ * (hay muchas más) y `preferirFichasDe` cambia por su versión alemana las que
+ * la tienen (actividades que se hacen en alemán).
  */
 export function idiomaFichas(idioma: Idioma): Idioma {
   return idioma === "es" ? "es" : "en";
@@ -71,8 +72,38 @@ export function indexarFichasCiudad(
       indice.set(a.slug, a);
       if (a.slugs?.es) indice.set(a.slugs.es, a);
     }
+    if (idioma === "de") {
+      for (const a of obtenerListaActividadesPorCiudad("de", c)) {
+        indice.set(a.slug, a);
+        if (a.slugs?.es) indice.set(a.slugs.es, a);
+        if (a.slugs?.en) indice.set(a.slugs.en, a);
+      }
+    }
   }
   return indice;
+}
+
+/**
+ * En alemán, cambia cada ficha EN por su versión DE cuando existe (misma
+ * `slugs.es`). En ES/EN devuelve la lista tal cual.
+ */
+export function preferirFichasDe(
+  idioma: Idioma,
+  lista: ActividadListItem[]
+): ActividadListItem[] {
+  if (idioma !== "de") return lista;
+  const porCiudad = new Map<string, Map<string, ActividadListItem>>();
+  const fichaDe = (a: ActividadListItem): ActividadListItem | undefined => {
+    let mapa = porCiudad.get(a.ciudad);
+    if (!mapa) {
+      mapa = new Map(
+        obtenerListaActividadesPorCiudad("de", a.ciudad).map((d) => [d.slugs?.es ?? d.slug, d])
+      );
+      porCiudad.set(a.ciudad, mapa);
+    }
+    return mapa.get(a.slugs?.es ?? a.slug);
+  };
+  return lista.map((a) => fichaDe(a) ?? a);
 }
 
 const RE_SHORTCODE = /<p>\s*\[actividad:\s*([a-z0-9-]+)\s*\]\s*<\/p>/g;

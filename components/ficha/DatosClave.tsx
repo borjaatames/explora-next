@@ -27,7 +27,7 @@ type Textos = {
   idiomas: Record<string, string>;
 };
 
-const TEXTOS: Record<"es" | "en", Textos> = {
+const TEXTOS: Record<"es" | "en" | "de", Textos> = {
   es: {
     aria: "Datos clave de la actividad",
     cancelacion: (h) => (h ? `Cancelación gratis hasta ${h} h antes` : "Cancelación gratis"),
@@ -49,6 +49,17 @@ const TEXTOS: Record<"es" | "en", Textos> = {
     movil: "Mobile ticket",
     confirmacion: "Instant confirmation",
     idiomas: { es: "Spanish", en: "English", fr: "French", de: "German", it: "Italian", pt: "Portuguese" },
+  },
+  de: {
+    aria: "Das Wichtigste zur Aktivität",
+    cancelacion: (h) => (h ? `Kostenlose Stornierung bis ${h} Std. vorher` : "Kostenlose Stornierung"),
+    privada: "Privat: nur deine Gruppe",
+    grupoReducido: "Kleingruppe",
+    sinColas: "Ohne Anstehen",
+    movilConfirmacion: "Handy-Ticket und sofortige Bestätigung",
+    movil: "Handy-Ticket",
+    confirmacion: "Sofortige Bestätigung",
+    idiomas: { es: "Spanisch", en: "Englisch", fr: "Französisch", de: "Deutsch", it: "Italienisch", pt: "Portugiesisch", ca: "Katalanisch", nl: "Niederländisch" },
   },
 };
 
@@ -100,10 +111,13 @@ export default function DatosClave({
   horasCancelacion,
   detalles,
 }: Props) {
-  const t = idioma === "es" ? TEXTOS.es : TEXTOS.en;
+  const t = idioma === "es" ? TEXTOS.es : idioma === "de" ? TEXTOS.de : TEXTOS.en;
   const textoActividad = [titulo, ...highlights].join(" ");
 
-  const nombresIdiomas = idiomas.map((c) => t.idiomas[c] ?? c.toUpperCase());
+  // En alemán, «Deutsch» primero: es lo que ha venido a buscar quien lee la ficha.
+  const idiomasOrden =
+    idioma === "de" && idiomas.includes("de") ? ["de", ...idiomas.filter((c) => c !== "de")] : idiomas;
+  const nombresIdiomas = idiomasOrden.map((c) => t.idiomas[c] ?? c.toUpperCase());
   const idiomasTexto =
     nombresIdiomas.length > 3
       ? `${nombresIdiomas.slice(0, 3).join(", ")} +${nombresIdiomas.length - 3}`

@@ -32,9 +32,10 @@ export function campanaGyg(
 }
 
 /** Segmento de locale de GetYourGuide por idioma activo de la web. */
-const GYG_LOCALE: Record<"es" | "en", string> = {
+const GYG_LOCALE: Record<"es" | "en" | "de", string> = {
   es: "es-es",
   en: "en-us",
+  de: "de-de",
 };
 
 /** Detecta un segmento de locale GYG tipo "en-us", "es-es", "fr-fr"… */
@@ -56,7 +57,7 @@ const PARAMS_AJENOS = ["utm_medium", "utm_source", "utm_campaign", "placement"];
  */
 export function normalizarUrlGetYourGuide(
   urlBase: string,
-  idioma: "es" | "en",
+  idioma: "es" | "en" | "de",
   cmp?: string
 ): string {
   try {

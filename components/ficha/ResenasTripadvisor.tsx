@@ -27,6 +27,14 @@ const TEXTOS = {
     mas: "More on Tripadvisor",
     locale: "en-GB",
   },
+  de: {
+    titulo: "Das sagen Reisende",
+    subtitulo: "Bewertungen von",
+    en: "auf Tripadvisor",
+    leer: "Auf Tripadvisor lesen",
+    mas: "Mehr auf Tripadvisor",
+    locale: "de-DE",
+  },
 } as const;
 
 type Gtag = (comando: "event", nombre: string, parametros: Record<string, unknown>) => void;
@@ -44,7 +52,7 @@ function urlProveedor(urlResena: string | undefined): string | null {
  * clave o no hay reseñas, no pinta nada.
  */
 export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor }: Props) {
-  const t = idioma === "es" ? TEXTOS.es : TEXTOS.en;
+  const t = idioma === "es" ? TEXTOS.es : idioma === "de" ? TEXTOS.de : TEXTOS.en;
   const ref = useRef<HTMLElement>(null);
   const [resenas, setResenas] = useState<ResenaTripadvisor[]>([]);
 

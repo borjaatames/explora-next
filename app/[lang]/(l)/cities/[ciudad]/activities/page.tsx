@@ -83,8 +83,9 @@ export async function generateMetadata({
     return { title: lang === "de" ? "Seite nicht gefunden" : "Page not found", robots: { index: false, follow: false } };
   }
 
-  const titulo = `Things to do in ${ciudad.nombre}`;
-  const descripcion = `Tours, guided visits and day trips in ${ciudad.nombre}. Hand-picked with editorial criteria.`;
+  const tl = textosListado(lang);
+  const titulo = tl.titulo(ciudad.nombre);
+  const descripcion = tl.descripcionMeta(ciudad.nombre);
   const url = `${SITE_URL}${urlActividadesDeCiudad(lang, params.ciudad)}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
@@ -112,20 +113,103 @@ export async function generateMetadata({
   };
 }
 
-const FILTROS_STRINGS_EN: ActividadesFiltradasStrings = {
-  filtrarPor: "Filter by",
-  atracciones: "Attractions",
-  categorias: "Categories",
-  limpiarFiltros: "Clear filters",
-  actividadesUna: "1 activity",
-  actividadesPlural: "{n} activities",
-  filtrosActivosUno: "1 active filter",
-  filtrosActivosPlural: "{n} active filters",
-  desde: "From",
-  verActividad: "View activity",
-  sinResultados: "No activities match these filters. Try removing some.",
-  cancelacionGratuita: "Free cancellation",
+type TextosListado = {
+  titulo: (c: string) => string;
+  descripcionMeta: (c: string) => string;
+  subtitulo: string;
+  actividades: string;
+  atracciones: string;
+  guias: string;
+  valoracionMedia: string;
+  media: string;
+  migaActividades: string;
+  vistaDe: string;
+  sobre: (c: string) => string;
+  sigue: (c: string) => string;
+  guiasDe: (c: string) => string;
+  guiasDescripcion: string;
+  verGuias: string;
+  atraccionesDe: (c: string) => string;
+  atraccionesDescripcion: string;
+  verAtracciones: string;
+  filtros: ActividadesFiltradasStrings;
 };
+
+const TEXTOS_LISTADO: Record<"en" | "de", TextosListado> = {
+  en: {
+    titulo: (c) => `Things to do in ${c}`,
+    descripcionMeta: (c) => `Tours, guided visits and day trips in ${c}. Hand-picked with editorial criteria.`,
+    subtitulo: "Tours, guided visits and day trips hand-picked with editorial criteria.",
+    actividades: "activities",
+    atracciones: "attractions",
+    guias: "guides",
+    valoracionMedia: "average rating",
+    media: "average",
+    migaActividades: "Activities",
+    vistaDe: "View of ",
+    sobre: (c) => `About ${c}`,
+    sigue: (c) => `Keep exploring ${c}`,
+    guiasDe: (c) => `Guides for ${c}`,
+    guiasDescripcion: "Honest itineraries and practical advice to plan your trip with intent.",
+    verGuias: "View guides",
+    atraccionesDe: (c) => `Attractions in ${c}`,
+    atraccionesDescripcion: "The must-see sights of the city, with photos and context.",
+    verAtracciones: "View attractions",
+    filtros: {
+      filtrarPor: "Filter by",
+      atracciones: "Attractions",
+      categorias: "Categories",
+      limpiarFiltros: "Clear filters",
+      actividadesUna: "1 activity",
+      actividadesPlural: "{n} activities",
+      filtrosActivosUno: "1 active filter",
+      filtrosActivosPlural: "{n} active filters",
+      desde: "From",
+      verActividad: "View activity",
+      sinResultados: "No activities match these filters. Try removing some.",
+      cancelacionGratuita: "Free cancellation",
+    },
+  },
+  de: {
+    titulo: (c) => `Aktivitäten in ${c} auf Deutsch`,
+    descripcionMeta: (c) =>
+      `Touren, Führungen und Ausflüge in ${c} mit deutschsprachigem Guide, Audioguide oder App. Von unserer Redaktion ausgewählt.`,
+    subtitulo: "Touren, Führungen und Ausflüge, die auch auf Deutsch angeboten werden, von unserer Redaktion ausgewählt.",
+    actividades: "Aktivitäten",
+    atracciones: "Sehenswürdigkeiten",
+    guias: "Reiseführer",
+    valoracionMedia: "Durchschnittsbewertung",
+    media: "Durchschnitt",
+    migaActividades: "Aktivitäten",
+    vistaDe: "Blick auf ",
+    sobre: (c) => `Über ${c}`,
+    sigue: (c) => `Mehr über ${c}`,
+    guiasDe: (c) => `Reiseführer für ${c}`,
+    guiasDescripcion: "Ehrliche Routen und praktische Tipps, um deine Reise zu planen.",
+    verGuias: "Reiseführer ansehen",
+    atraccionesDe: (c) => `Sehenswürdigkeiten in ${c}`,
+    atraccionesDescripcion: "Was du in der Stadt gesehen haben musst, mit Fotos und Hintergrund.",
+    verAtracciones: "Sehenswürdigkeiten ansehen",
+    filtros: {
+      filtrarPor: "Filtern nach",
+      atracciones: "Sehenswürdigkeiten",
+      categorias: "Kategorien",
+      limpiarFiltros: "Filter zurücksetzen",
+      actividadesUna: "1 Aktivität",
+      actividadesPlural: "{n} Aktivitäten",
+      filtrosActivosUno: "1 aktiver Filter",
+      filtrosActivosPlural: "{n} aktive Filter",
+      desde: "Ab",
+      verActividad: "Aktivität ansehen",
+      sinResultados: "Keine Aktivitäten passen zu diesen Filtern. Entferne einige davon.",
+      cancelacionGratuita: "Kostenlose Stornierung",
+    },
+  },
+};
+
+function textosListado(lang: Idioma): TextosListado {
+  return lang === "de" ? TEXTOS_LISTADO.de : TEXTOS_LISTADO.en;
+}
 
 
 function categoriasPresentes(
@@ -194,6 +278,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
       (img) => img && img !== imagenCabecera
     );
   const dict = getDictionary(lang);
+  const tl = textosListado(lang);
   const categorias = categoriasPresentes(
     actividades,
     dict.actividades.categorias
@@ -251,7 +336,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
       {
         "@type": "ListItem",
         position: 4,
-        name: "Activities",
+        name: tl.migaActividades,
         item: `${SITE_URL}${urlActividadesDeCiudad(lang, params.ciudad)}`,
       },
     ],
@@ -296,30 +381,30 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
               {ciudad.nombre}
             </Link>
             {" › "}
-            <span className="text-white">Activities</span>
+            <span className="text-white">{tl.migaActividades}</span>
           </nav>
 
           <h1 className="font-fraunces text-2xl md:text-5xl font-bold mb-1 md:mb-3 leading-tight">
-            Things to do in {ciudad.nombre}
+            {tl.titulo(ciudad.nombre)}
           </h1>
           <p className="hidden md:block text-lg md:text-xl text-piedra-100 max-w-3xl mb-6">
-            Tours, guided visits and day trips hand-picked with editorial criteria.
+            {tl.subtitulo}
           </p>
 
           <p className="md:hidden text-sm text-piedra-100">
-            {actividades.length} activities{ratingMedio !== null ? ` · ★ ${ratingMedio} average` : ""}
+            {actividades.length} {tl.actividades}{ratingMedio !== null ? ` · ★ ${ratingMedio} ${tl.media}` : ""}
           </p>
           <div className="hidden md:grid md:grid-cols-4 gap-x-6 gap-y-3 max-w-3xl">
-            <Metrica valor={actividades.length} etiqueta="activities" />
+            <Metrica valor={actividades.length} etiqueta={tl.actividades} />
             <Metrica
               valor={ciudad.atracciones?.length ?? 0}
-              etiqueta="attractions"
+              etiqueta={tl.atracciones}
             />
-            <Metrica valor={guiasDeCiudad.length} etiqueta="guides" />
+            <Metrica valor={guiasDeCiudad.length} etiqueta={tl.guias} />
             {ratingMedio !== null ? (
               <Metrica
                 valor={ratingMedio}
-                etiqueta="average rating"
+                etiqueta={tl.valoracionMedia}
                 sufijo=" / 5"
               />
             ) : null}
@@ -351,7 +436,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         actividades={cardsActividades}
         chips={chipsFiltros}
         categorias={categorias}
-        strings={FILTROS_STRINGS_EN}
+        strings={tl.filtros}
         locale={IDIOMA_LOCALE[lang]}
         enlacesCategorias={enlacesCategorias}
       />
@@ -374,7 +459,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
                   <div className="relative aspect-[4/3] w-full overflow-hidden rounded-xl bg-piedra-100 shadow-sm">
                     <Image
                       src={imagenSobre}
-                      alt={ciudad.imagenResumenAlt || "View of " + ciudad.nombre}
+                      alt={ciudad.imagenResumenAlt || tl.vistaDe + ciudad.nombre}
                       fill
                       sizes="(max-width: 768px) 100vw, 50vw"
                       className="object-cover"
@@ -383,7 +468,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
                 ) : null}
                 <div>
                   <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-4">
-                    About {ciudad.nombre}
+                    {tl.sobre(ciudad.nombre)}
                   </h2>
                   <p className="text-piedra-600 text-base md:text-lg leading-relaxed">
                     {ciudad.resumenActividades}
@@ -393,7 +478,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
             ) : (
               <article className="max-w-3xl">
                 <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-6">
-                  About {ciudad.nombre}
+                  {tl.sobre(ciudad.nombre)}
                 </h2>
                 <div
                   className="prose-guia text-justify hyphens-auto"
@@ -410,7 +495,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
       {hayExtras ? (
         <section className="max-w-6xl mx-auto px-4 pb-12 md:pb-16">
           <h2 className="font-fraunces text-2xl md:text-3xl font-bold text-piedra-900 mb-6">
-            Keep exploring {ciudad.nombre}
+            {tl.sigue(ciudad.nombre)}
           </h2>
           <div className={gridExtras}>
             {hayGuias ? (
@@ -418,9 +503,9 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
                 href={urlGuias}
                 imagen={ciudad.imagenGuias}
                 imagenAlt={ciudad.imagenGuiasAlt}
-                titulo={"Guides for " + ciudad.nombre}
-                descripcion="Honest itineraries and practical advice to plan your trip with intent."
-                cta="View guides"
+                titulo={tl.guiasDe(ciudad.nombre)}
+                descripcion={tl.guiasDescripcion}
+                cta={tl.verGuias}
                 acento="sky"
               />
             ) : null}
@@ -429,9 +514,9 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
                 href={urlAtracciones}
                 imagen={ciudad.imagenAtracciones}
                 imagenAlt={ciudad.imagenAtraccionesAlt}
-                titulo={"Attractions in " + ciudad.nombre}
-                descripcion="The must-see sights of the city, with photos and context."
-                cta="View attractions"
+                titulo={tl.atraccionesDe(ciudad.nombre)}
+                descripcion={tl.atraccionesDescripcion}
+                cta={tl.verAtracciones}
                 acento="slate"
               />
             ) : null}

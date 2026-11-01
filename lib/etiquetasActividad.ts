@@ -70,7 +70,8 @@ export function calcularEtiquetas(
   return etiquetas;
 }
 
-export const TEXTO_ETIQUETA: Record<"es" | "en", Record<EtiquetaActividad, string>> = {
+export const TEXTO_ETIQUETA: Record<"es" | "en" | "de", Record<EtiquetaActividad, string>> = {
   es: { popular: "Más popular", eleccion: "Elección ExploraSpain", nueva: "Nueva" },
   en: { popular: "Most popular", eleccion: "ExploraSpain pick", nueva: "New" },
+  de: { popular: "Sehr beliebt", eleccion: "ExploraSpain-Tipp", nueva: "Neu" },
 };

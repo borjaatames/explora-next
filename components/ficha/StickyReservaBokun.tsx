@@ -47,7 +47,7 @@ export default function StickyReservaBokun({
   if (!(datos.precioDesde > 0)) return null;
   const t = textosPrecioBokun(datos, idioma);
   const visible = !reservaVisible;
-  const locale = idioma === "es" ? "es-ES" : "en-GB";
+  const locale = idioma === "es" ? "es-ES" : idioma === "de" ? "de-DE" : "en-GB";
   const rating =
     typeof ratingProveedor === "number" && (numeroOpiniones ?? 0) > 0
       ? `${ratingProveedor.toLocaleString(locale, {
@@ -62,7 +62,7 @@ export default function StickyReservaBokun({
         visible ? "translate-y-0" : "translate-y-full"
       }`}
       role="region"
-      aria-label={idioma === "es" ? "Reservar actividad" : "Book activity"}
+      aria-label={idioma === "es" ? "Reservar actividad" : idioma === "de" ? "Aktivität buchen" : "Book activity"}
       aria-hidden={!visible}
     >
       {aviso && (

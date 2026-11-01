@@ -53,8 +53,17 @@ const LABEL_CATEGORIA: Record<CategoriaActividad, string> = {
  */
 function textosCategoria(
   categoria: CategoriaActividad,
-  nombreCiudad: string
+  nombreCiudad: string,
+  lang: Idioma = "en"
 ): { titulo: string; descripcion: string } {
+  if (lang === "de") {
+    const label = getDictionary("de").actividades.categorias[categoria];
+    const ort = categoria === "excursionesDia" ? `ab ${nombreCiudad}` : `in ${nombreCiudad}`;
+    return {
+      titulo: `${label} ${ort} auf Deutsch`,
+      descripcion: `${label} ${ort} mit deutschsprachigem Guide, Audioguide oder App, von unserer Redaktion ausgewählt.`,
+    };
+  }
   const label = LABEL_CATEGORIA[categoria];
   const preposicion =
     categoria === "excursionesDia"
@@ -104,7 +113,7 @@ export async function generateMetadata({
   const categoria = categoriaDesdeUrl(params.categoria);
   if (!categoria) return { title: "Category not found" };
 
-  const { titulo, descripcion } = textosCategoria(categoria, ciudad.nombre);
+  const { titulo, descripcion } = textosCategoria(categoria, ciudad.nombre, lang);
   const url = `${SITE_URL}${urlActividadesDeCiudadPorCategoria(
     lang,
     params.ciudad,
@@ -162,7 +171,7 @@ export default async function ActividadesCategoriaPage({ params }: Props) {
   const dict = getDictionary(lang);
   const labelCategoria = dict.actividades.categorias[categoria];
   const { titulo: tituloPagina, descripcion: descripcionPagina } =
-    textosCategoria(categoria, ciudad.nombre);
+    textosCategoria(categoria, ciudad.nombre, lang);
 
   const urlIndice = urlActividadesDeCiudad(lang, params.ciudad);
   const urlCategoria = urlActividadesDeCiudadPorCategoria(
@@ -190,7 +199,7 @@ export default async function ActividadesCategoriaPage({ params }: Props) {
       {
         "@type": "ListItem",
         position: 3,
-        name: "Things to do",
+        name: lang === "de" ? "Aktivitäten" : "Things to do",
         item: `${SITE_URL}${urlIndice}`,
       },
       {
@@ -242,7 +251,7 @@ export default async function ActividadesCategoriaPage({ params }: Props) {
               <li aria-hidden="true">/</li>
               <li>
                 <Link href={urlIndice} className="hover:text-piedra-700">
-                  Things to do
+                  {lang === "de" ? "Aktivitäten" : "Things to do"}
                 </Link>
               </li>
               <li aria-hidden="true">/</li>

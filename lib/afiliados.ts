@@ -91,7 +91,7 @@ export function proveedorActivo(proveedor: ProveedorActividad): boolean {
 export function construirUrlReserva(
   proveedor: ProveedorActividad,
   urlBase: string,
-  idioma: "es" | "en" = "es",
+  idioma: "es" | "en" | "de" = "es",
   cmp?: string
 ): string {
   if (!urlBase) return "";
@@ -102,7 +102,8 @@ export function construirUrlReserva(
     case "getyourguide":
       return normalizarUrlGetYourGuide(urlBase, idioma, cmp);
     case "viator":
-      return construirUrlViator(normalizarUrlViator(urlBase, idioma));
+      // Viator no tiene versión alemana para afiliados: en DE, la inglesa.
+      return construirUrlViator(normalizarUrlViator(urlBase, idioma === "de" ? "en" : idioma));
     case "bokun":
       // Revendedor: no hay URL externa de reserva. El widget embebido
       // (calendario Bokun) gestiona disponibilidad, reserva y pago dentro

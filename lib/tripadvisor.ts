@@ -79,6 +79,15 @@ const CATEGORIAS_EN: Record<string, string> = {
   "Sights & Landmarks": "sights & landmarks",
 };
 
+const CATEGORIAS_DE: Record<string, string> = {
+  Tours: "Touren",
+  "Food & Drink": "Essen & Trinken",
+  Nightlife: "Nachtleben",
+  "Boat Tours & Water Sports": "Bootstouren & Wassersport",
+  "Outdoor Activities": "Outdoor-Aktivitäten",
+  "Sights & Landmarks": "Sehenswürdigkeiten",
+};
+
 /** «n.º 14 de 606 en gastronomía en Barcelona» / «#14 of 606 food & drink in Barcelona». */
 export function textoRankingTripadvisor(
   r: RankingTripadvisor | undefined,
@@ -90,6 +99,10 @@ export function textoRankingTripadvisor(
     const cat = CATEGORIAS_ES[r.categoria] ?? r.categoria.toLowerCase();
     const lugar = LUGARES_ES[r.lugar] ?? r.lugar;
     return `n.º ${r.posicion} de ${total} en ${cat} en ${lugar}`;
+  }
+  if (idioma === "de") {
+    const cat = CATEGORIAS_DE[r.categoria] ?? r.categoria;
+    return `Nr. ${r.posicion} von ${r.total.toLocaleString("de-DE")} ${cat} in ${r.lugar}`;
   }
   const total = r.total.toLocaleString("en-GB");
   const cat = CATEGORIAS_EN[r.categoria] ?? r.categoria.toLowerCase();

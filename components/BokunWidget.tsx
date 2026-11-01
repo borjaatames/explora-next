@@ -170,14 +170,16 @@ export default function BokunWidget({
       <div className="bg-white border border-piedra-200 rounded-lg p-5 text-sm text-piedra-500">
         {idioma === "es"
           ? "Reserva temporalmente no disponible."
-          : "Booking temporarily unavailable."}
+          : idioma === "de"
+            ? "Buchung vorübergehend nicht verfügbar."
+            : "Booking temporarily unavailable."}
       </div>
     );
   }
 
   const dataSrc = `${WIDGET_BASE}/${channelUuid}/experience-calendar/${productId}?lang=${idioma}`;
 
-  const localeNota = idioma === "es" ? "es-ES" : "en-GB";
+  const localeNota = idioma === "es" ? "es-ES" : idioma === "de" ? "de-DE" : "en-GB";
   const tieneRating =
     typeof ratingProveedor === "number" &&
     typeof numeroOpiniones === "number" &&
@@ -190,19 +192,21 @@ export default function BokunWidget({
     numeroOpiniones === 1
       ? idioma === "es"
         ? "1 opinión"
-        : "1 review"
+        : idioma === "de"
+          ? "1 Bewertung"
+          : "1 review"
       : `${(numeroOpiniones ?? 0).toLocaleString(localeNota)} ${
-          idioma === "es" ? "opiniones" : "reviews"
+          idioma === "es" ? "opiniones" : idioma === "de" ? "Bewertungen" : "reviews"
         }`;
 
   return (
     <div className="bg-white border border-piedra-200 rounded-lg shadow-sm overflow-hidden">
       <div className="bg-anil-500 text-white px-4 py-2 flex items-center justify-between">
         <span className="text-xs font-semibold tracking-wide">
-          {idioma === "es" ? "Reservar tu visita" : "Book your visit"}
+          {idioma === "es" ? "Reservar tu visita" : idioma === "de" ? "Deinen Besuch buchen" : "Book your visit"}
         </span>
         <span className="text-xs opacity-90">
-          {idioma === "es" ? "Reserva directa" : "Direct booking"}
+          {idioma === "es" ? "Reserva directa" : idioma === "de" ? "Direkt buchen" : "Direct booking"}
         </span>
       </div>
 
@@ -253,6 +257,10 @@ export default function BokunWidget({
             ? typeof minimoPersonas === "number" && minimoPersonas > 1
               ? `Elige ${minimoPersonas} personas o más en el calendario para ver las fechas y el precio.`
               : "Indica en el calendario cuántas personas sois para ver las fechas y el precio."
+            : idioma === "de"
+              ? typeof minimoPersonas === "number" && minimoPersonas > 1
+                ? `Wähle im Kalender ${minimoPersonas} oder mehr Personen, um Termine und Preise zu sehen.`
+                : "Gib im Kalender an, wie viele Personen ihr seid, um Termine und Preise zu sehen."
             : typeof minimoPersonas === "number" && minimoPersonas > 1
               ? `Choose ${minimoPersonas} or more people in the calendar to see dates and prices.`
               : "Set the number of people in the calendar to see dates and prices."}
@@ -265,7 +273,7 @@ export default function BokunWidget({
       >
         {!activo && (
           <p className="pt-24 text-center text-sm text-piedra-500">
-            {idioma === "es" ? "Cargando el calendario de fechas…" : "Loading the availability calendar…"}
+            {idioma === "es" ? "Cargando el calendario de fechas…" : idioma === "de" ? "Verfügbarkeitskalender wird geladen…" : "Loading the availability calendar…"}
           </p>
         )}
         {/* `key` con idioma+producto: fuerza a React a crear un nodo nuevo y

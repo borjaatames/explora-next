@@ -12,7 +12,7 @@ export type SeccionFicha =
   | "cancelacion"
   | "faq";
 
-const TITULOS: Record<"es" | "en", Record<SeccionFicha, string>> = {
+const TITULOS: Record<"es" | "en" | "de", Record<SeccionFicha, string>> = {
   es: {
     incluye: "Qué incluye y qué no",
     info: "Información importante",
@@ -30,6 +30,15 @@ const TITULOS: Record<"es" | "en", Record<SeccionFicha, string>> = {
     accesibilidad: "Accessibility",
     cancelacion: "Cancellation policy",
     faq: "FAQs",
+  },
+  de: {
+    incluye: "Leistungen",
+    info: "Wichtige Informationen",
+    encuentro: "Treffpunkt",
+    experiencia: "Das Erlebnis",
+    accesibilidad: "Barrierefreiheit",
+    cancelacion: "Stornierungsbedingungen",
+    faq: "Häufige Fragen",
   },
 };
 
@@ -55,7 +64,7 @@ export default function SeccionMovil({
 }: Props) {
   const [abierto, setAbierto] = useState(false);
   const id = useId();
-  const titulo = (idioma === "es" ? TITULOS.es : TITULOS.en)[seccion];
+  const titulo = (idioma === "es" ? TITULOS.es : idioma === "de" ? TITULOS.de : TITULOS.en)[seccion];
 
   return (
     <div className="border-b border-piedra-200 md:border-0">

@@ -51,7 +51,7 @@ type Strings = {
   locale: string;
 };
 
-const DICT: Record<"es" | "en", Strings> = {
+const DICT: Record<"es" | "en" | "de", Strings> = {
   es: {
     headerReservar: "Reservar tu visita",
     via: "vía",
@@ -108,10 +108,39 @@ const DICT: Record<"es" | "en", Strings> = {
     diasSemana: ["M", "T", "W", "T", "F", "S", "S"],
     locale: "en-US",
   },
+  de: {
+    headerReservar: "Deinen Besuch buchen",
+    via: "über",
+    compruebaDisponibilidad: "Verfügbarkeit prüfen",
+    mesAnterior: "Vorheriger Monat",
+    mesSiguiente: "Nächster Monat",
+    enProveedorConfirma: (p: string) =>
+      `Datum, Teilnehmer und Verfügbarkeit bestätigst du bei ${p}.`,
+    ariaDia: (d: number, m: string) => `${d}. ${m}`,
+    opinionSingular: "1 Bewertung",
+    opinionPlural: "Bewertungen",
+    meses: [
+      "Januar",
+      "Februar",
+      "März",
+      "April",
+      "Mai",
+      "Juni",
+      "Juli",
+      "August",
+      "September",
+      "Oktober",
+      "November",
+      "Dezember",
+    ],
+    diasSemana: ["M", "D", "M", "D", "F", "S", "S"],
+    locale: "de-DE",
+  },
 };
 
 function dictFor(idioma: Idioma): Strings {
   if (idioma === "es") return DICT.es;
+  if (idioma === "de") return DICT.de;
   return DICT.en;
 }
 
