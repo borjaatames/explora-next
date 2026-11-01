@@ -4,8 +4,8 @@ descripcion: "Málaga with kids: beaches, the Alcazaba, Bioparc Fuengirola, the 
 categoria: "malaga"
 slug: "malaga-with-kids"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-10-23"
-respuestaCorta: 'With kids, Málaga works best mixing short doses of history with beach and animals: **La Malagueta beach** at the foot of the centre, the **Alcazaba** (free for under-16s), **Bioparc Fuengirola** (45 minutes by train, from €23 for children) and the **Benalmádena cable car**. Spring and autumn are ideal; in summer, avoid the centre between 14:00 and 18:00.'
+fecha_actualizacion: "2026-11-01"
+respuestaCorta: 'With kids, Málaga works best mixing short doses of history with beach and animals: **La Malagueta beach** at the foot of the centre, the **Alcazaba** (free for everyone on Sunday afternoons), **Bioparc Fuengirola** (45 minutes by train, from €23 for children) and the **Benalmádena cable car**. Spring and autumn are ideal; in summer, avoid the centre between 14:00 and 18:00.'
 autor: Borja
 publicada: true
 destacada: false
@@ -71,7 +71,7 @@ The key is to alternate: a morning of castle or old town in short doses and an a
 
 ## Practical: prices, transport and timings
 
-- **Alcazaba and Gibralfaro:** combined ticket €5.50 (€3.50 each separately), free for under-16s and **free for everyone on Sundays from 14:00** (as of 2026). **Bus 35** goes up to Gibralfaro from the Alameda (about every 45 minutes); walking down the Paseo de Don Juan Temboury takes 20 pleasant minutes with views.
+- **Alcazaba and Gibralfaro:** combined ticket €10 (€7 each separately; reduced €5 and €3) and **free for everyone on Sundays from 14:00** (as of 2026). **Bus 35** goes up to Gibralfaro from the Alameda (about every 45 minutes); walking down the Paseo de Don Juan Temboury takes 20 pleasant minutes with views.
 - **Bioparc Fuengirola:** €29.50 adults and €23 children aged 3–9 in 2026; under-3s free. Cercanías C-1 from María Zambrano or Centro-Alameda to Fuengirola (about 45 minutes), then a 10-minute walk. Opens at 10:00 all year; in July and August it stays open until 23:00, so an evening visit beats the heat.
 - **Benalmádena cable car:** return from €12.90 adults and €9.90 children online, €4–5 more at the box office. Cercanías to Arroyo de la Miel, then a 10-minute walk. The birds-of-prey displays at the top run at set times: check when you buy.
 - **Nerja Caves:** from €15.50 per adult, free for under-6s; 45 minutes inside at 19 °C, so pack a light layer.

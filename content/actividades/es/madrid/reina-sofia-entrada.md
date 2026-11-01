@@ -17,7 +17,7 @@ proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t249617/?partner_id=C71NOAW
 cancelacionGratuita: false
 highlights:
-- Guernica de Picasso (sala 206)
+- Guernica de Picasso (segunda planta del Edificio Sabatini)
 - Colección de Salvador Dalí
 - Obras de Joan Miró y Juan Gris
 - Entrada sin esperas en taquilla
@@ -47,17 +47,17 @@ informacionImportante:
   - Cámara sin flash (se permite fotografiar sin trípode)
   noAptoPara: []
   aTenerEnCuenta:
-  - El Guernica está en la sala 206 del Edificio Sabatini (2ª planta); es el primer punto imprescindible
-  - Los lunes el museo abre de 10h a 14h (gratis en esa franja pero con más aglomeración)
+  - El Guernica está en la segunda planta del Edificio Sabatini; es el primer punto imprescindible
+  - El museo cierra los martes
   - Entrada gratuita para menores de 18 años y mayores de 65 con pasaporte
-  - Sábados de 21h a 21h es también entrada libre para todos
+  - Entrada gratis los lunes y de miércoles a sábado de 19:00 a 21:00, y los domingos de 12:30 a 14:30 (con más cola)
 accesibilidad: Totalmente accesible. Ascensores en todo el edificio, audioguías en braille y en formato accesible.
 politicaCancelacion: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
 preguntasFrecuentes:
 - pregunta: ¿Dónde está el Guernica de Picasso exactamente?
-  respuesta: En la sala 206 del Edificio Sabatini, segunda planta. Es la primera parada que hacen todos los visitantes; hay señalización clara desde la entrada.
+  respuesta: En la segunda planta del Edificio Sabatini. Es la primera parada que hacen todos los visitantes; hay señalización clara desde la entrada.
 - pregunta: ¿Cuándo es la entrada gratuita al Reina Sofía?
-  respuesta: De lunes a sábado de 19h a 21h, los domingos todo el día y los días festivos nacionales. El truco es que esas franjas son las más concurridas.
+  respuesta: Los lunes y de miércoles a sábado de 19:00 a 21:00, y los domingos de 12:30 a 14:30 (los martes cierra). También es gratis algunos días señalados, como el 18 de abril, el 18 de mayo, el 12 de octubre y el 6 de diciembre. Son las franjas con más cola.
 - pregunta: ¿Qué diferencia hay con las visitas guiadas del Reina Sofía?
   respuesta: Esta entrada te deja explorar a tu ritmo. Las visitas guiadas incluyen un experto que contextualiza el Guernica y la colección; ideales si quieres profundizar sin estudiar antes.
 opinionEditorial: El Reina Sofía es el museo más importante de España del siglo XX y el Guernica su obra cumbre. La entrada base te da acceso a toda la colección permanente a un precio razonable. Si no conoces bien el contexto histórico del Guernica, considera una visita guiada; si ya lo conoces, la entrada sola es suficiente para disfrutar a tu ritmo.

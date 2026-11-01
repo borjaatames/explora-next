@@ -1,11 +1,11 @@
 ---
 titulo: "Málaga en dos días: ruta con criterio entre museos y mar"
 descripcion: "Qué ver en Málaga en dos días: Alcazaba, Catedral, Museo Picasso, Caminito del Rey y playas. Ruta hora a hora, dónde comer, dónde dormir y qué evitar."
-respuestaCorta: 'Dedica el **primer día al casco histórico**: Alcazaba y Gibralfaro (5,50 € la entrada conjunta), las cubiertas de la Catedral, el Museo Picasso y un espeto al atardecer en la Malagueta. El **segundo, al Caminito del Rey**, que **se agota con semanas de antelación**, o a Nerja, Ronda o Antequera. El tour guiado al Caminito desde Málaga sale desde 72 €.'
+respuestaCorta: 'Dedica el **primer día al casco histórico**: Alcazaba y Gibralfaro (10 € la entrada conjunta), las cubiertas de la Catedral, el Museo Picasso y un espeto al atardecer en la Malagueta. El **segundo, al Caminito del Rey**, que **se agota con semanas de antelación**, o a Nerja, Ronda o Antequera. El tour guiado al Caminito desde Málaga sale desde 72 €.'
 categoria: "malaga"
 slug: "malaga-en-dos-dias"
 fecha: "2026-02-28"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true
@@ -85,8 +85,8 @@ El **Caminito del Rey**, a una hora en Cercanías o coche, es una pasarela colga
 
 | Lugar | Precio | Horario |
 | --- | --- | --- |
-| Alcazaba + Gibralfaro | 5,50 € conjunta (3,50 € cada una); gratis domingos desde las 14:00 | 9:00-20:00 verano, hasta 18:00 invierno |
-| Museo Picasso | 12 € con audioguía; gratis menores de 16 y los dos últimos domingos de mes desde las 16:00 | 10:00-19:00 (20:00 verano) |
+| Alcazaba + Gibralfaro | 10 € conjunta (7 € cada una); gratis domingos desde las 14:00 | 9:00-20:00 verano, hasta 18:00 invierno |
+| Museo Picasso | 13 € con audioguía; gratis menores de 17 y todos los domingos en las dos últimas horas | 10:00-18:00 (19:00 primavera y otoño, 20:00 julio y agosto) |
 | Casa Natal · Pompidou · Carmen Thyssen | 4 € · 9 € (cierra martes) · 10 € (cierra lunes) | |
 | Catedral | 10 € con audioguía; cubiertas, 10 € más con guía; gratis menores de 13 | Cierra domingos por la mañana |
 | Teatro Romano | Gratis | Cierra lunes |

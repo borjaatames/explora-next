@@ -4,7 +4,7 @@ descripcion: "What to see in Málaga in two days: Alcazaba, Cathedral, Picasso M
 categoria: "malaga"
 slug: "malaga-in-two-days"
 fecha: "2026-02-28"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true
@@ -20,7 +20,7 @@ slugs:
   en: malaga-in-two-days
   de: malaga-in-zwei-tagen
 reservasArriba: true
-respuestaCorta: 'Spend **day one in the old town**: the Alcazaba and Gibralfaro (€5.50 combined), the Cathedral rooftops, the Picasso Museum and sunset with a sardine espeto at La Malagueta. Give **day two to the Caminito del Rey**, which **sells out weeks ahead**, or to Nerja, Ronda or Antequera. A guided Caminito tour from Málaga starts at €72.'
+respuestaCorta: 'Spend **day one in the old town**: the Alcazaba and Gibralfaro (€10 combined), the Cathedral rooftops, the Picasso Museum and sunset with a sardine espeto at La Malagueta. Give **day two to the Caminito del Rey**, which **sells out weeks ahead**, or to Nerja, Ronda or Antequera. A guided Caminito tour from Málaga starts at €72.'
 actividades:
   - alcazaba-teatro-romano-malaga-visita-guiada
   - museo-picasso-malaga-entrada
@@ -99,8 +99,8 @@ imagen_alt: "View of Málaga from the Alcazaba"
 
 | Place | Price | Hours / notes |
 | --- | --- | --- |
-| Alcazaba + Gibralfaro | €5.50 combined (€3.50 each); free Sundays from 14:00 | 9:00–20:00 summer, to 18:00 winter |
-| Picasso Museum | €12 with audio guide; free under-16s and the last two Sundays of the month from 16:00 | 10:00–19:00 (20:00 summer) |
+| Alcazaba + Gibralfaro | €10 combined (€7 each); free Sundays from 14:00 | 9:00–20:00 summer, to 18:00 winter |
+| Picasso Museum | €13 with audio guide; free for under-17s and every Sunday for the last two hours | 10:00–18:00 (19:00 spring and autumn, 20:00 July and August) |
 | Picasso Birthplace · Pompidou · Carmen Thyssen | €4 · €9 (closed Tuesdays) · €10 (closed Mondays) | |
 | Cathedral | €10 with audio guide; rooftops €10 extra with guide; free under-13s | Closed Sunday mornings |
 | Roman Theatre | Free | Closed Mondays |

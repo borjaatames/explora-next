@@ -45,16 +45,16 @@ informacionImportante:
   noAptoPara: []
   aTenerEnCuenta:
   - The museum is free on certain evenings and Sundays; check the website if budget is a concern
-  - Guernica is in Room 206 on the second floor — head there first to see it before the crowds arrive
+  - Guernica is on the second floor of the Sabatini Building — head there first to see it before the crowds arrive
   - Photography is allowed in most rooms but prohibited in the Guernica room
   - The museum is huge; plan 2-3 hours minimum for the main collection
 accesibilidad: Fully wheelchair accessible with lifts throughout.
 politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: Where is Guernica in the museum?
-  respuesta: Guernica is in Room 206 on the second floor of the Sabatini Building. Head there first — it's the most visited room and gets crowded later in the day.
+  respuesta: Guernica is on the second floor of the Sabatini Building. Head there first — it's the most visited room and gets crowded later in the day.
 - pregunta: Is the Reina Sofía free?
-  respuesta: The permanent collection is free Monday–Friday from 7 PM to 9 PM and on Sundays from 1:30 PM to 7 PM. This ticket gives you skip-the-line access during paid hours, which includes the full day.
+  respuesta: Entry is free on Mondays and from Wednesday to Saturday from 7 PM to 9 PM, and on Sundays from 12:30 PM to 2:30 PM (the museum is closed on Tuesdays). This ticket gives you skip-the-line access during paid hours, which includes the full day.
 opinionEditorial: The Reina Sofía is non-negotiable in Madrid. Guernica alone — Picasso's haunting masterpiece painted in 1937 — makes it one of the great artistic pilgrimages in the world. Budget 2–3 hours for the main collection.
 guiasRelacionadas:
 - prado-vs-reina-sofia-vs-thyssen
@@ -104,7 +104,7 @@ fecha_actualizacion: '2026-10-17'
 The **Museo Reina Sofía** houses Spain's national collection of 20th and 21st-century art — one of the finest modern art museums in the world.
 
 ### Guernica
-Pablo Picasso's **Guernica** (1937) is one of the most important paintings of the 20th century. Created as a response to the Nazi bombing of the Basque town of Guernica during the Spanish Civil War, it has become a universal symbol against war. It is displayed in its own room (206) on the second floor.
+Pablo Picasso's **Guernica** (1937) is one of the most important paintings of the 20th century. Created as a response to the Nazi bombing of the Basque town of Guernica during the Spanish Civil War, it has become a universal symbol against war. It is displayed in its own room on the second floor of the Sabatini Building.
 
 ### The wider collection
 Beyond Guernica, the museum holds exceptional works by:
