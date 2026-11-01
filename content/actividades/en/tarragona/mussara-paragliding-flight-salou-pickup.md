@@ -77,13 +77,13 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/tarragona/parapente/fta-parapente-biplaza-nubes.webp
-imagenAlt: "Tandem paraglider flying among clouds"
+imagen: /images/actividades/tarragona/parapente/fta-piloto-pasajero-biplaza.webp
+imagenAlt: "Pilot and passenger on a tandem paragliding flight"
 galeria:
 - src: /images/actividades/tarragona/quad/prades-siurana.webp
   alt: "Prades mountains and inland Tarragona valley"
-- src: /images/actividades/tarragona/parapente/fta-piloto-pasajero-biplaza.webp
-  alt: "Pilot and passenger on a tandem paragliding flight"
+- src: /images/actividades/tarragona/parapente/fta-parapente-biplaza-nubes.webp
+  alt: "Tandem paraglider flying among clouds"
 - src: /images/actividades/tarragona/quad/montsant.webp
   alt: "Panoramic view of the inland Tarragona ranges"
 - src: /images/actividades/tarragona/parapente/fta-parapente-cielo-claro.webp

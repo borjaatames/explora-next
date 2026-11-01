@@ -93,6 +93,7 @@ galeria:
   alt: "Copa de espumoso en la cubierta de un catamarán"
 - src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
   alt: "Castillo de San Sebastián a la entrada de la bahía"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en junio de 2027.'
 ---
 
 ## Qué vas a ver

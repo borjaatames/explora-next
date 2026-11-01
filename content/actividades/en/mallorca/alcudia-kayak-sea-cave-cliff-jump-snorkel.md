@@ -88,11 +88,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
-imagenAlt: "Group of kayaks paddling along a rocky coast, aerial view"
+imagen: /images/actividades/mallorca/fma-kayak-alcudia/kayaks-amarillos-acantilado.webp
+imagenAlt: "Yellow kayaks at sea next to a rocky shoreline"
 galeria:
-- src: /images/actividades/mallorca/fma-kayak-alcudia/kayaks-amarillos-acantilado.webp
-  alt: "Yellow kayaks at sea next to a rocky shoreline"
+- src: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
+  alt: "Group of kayaks paddling along a rocky coast, aerial view"
 - src: /images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp
   alt: "Kayak seen from inside a sea cave"
 - src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
@@ -103,6 +103,7 @@ galeria:
   alt: "Two kayaks on clear turquoise water"
 - src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
   alt: "Seabed with rocks under crystal-clear water"
+avisoReserva: 'Seasonal activity: the next available dates start in April 2027.'
 ---
 
 ## What you will see

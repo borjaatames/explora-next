@@ -94,6 +94,7 @@ galeria:
   alt: "Paseo de Sant Antoni iluminado de noche"
 - src: /images/actividades/ibiza/bici/fi2-dalt-vila-noche-puerto.webp
   alt: "Dalt Vila iluminada de noche desde el puerto"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## Qué vas a ver

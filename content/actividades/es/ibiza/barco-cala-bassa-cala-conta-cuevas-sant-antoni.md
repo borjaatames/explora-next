@@ -94,6 +94,7 @@ galeria:
   alt: "Esnórquel sobre una pradera de posidonia"
 - src: /images/actividades/ibiza/mar/fi1-paddle-surf-aereo.webp
   alt: "Paddle surf en el mar visto desde el aire"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## Qué vas a ver

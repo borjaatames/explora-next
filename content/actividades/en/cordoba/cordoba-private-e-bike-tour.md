@@ -78,11 +78,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/cordoba/bici/fvc-bicicletas-blancas-aparcadas.webp
-imagenAlt: "Row of parked city bikes"
+imagen: /images/actividades/cordoba/bici/fvc-puente-romano-desde-calahorra.webp
+imagenAlt: "Roman Bridge and Córdoba old town seen from the Calahorra"
 galeria:
-- src: /images/actividades/cordoba/bici/fvc-puente-romano-desde-calahorra.webp
-  alt: "Roman Bridge and Córdoba old town seen from the Calahorra"
+- src: /images/actividades/cordoba/bici/fvc-bicicletas-blancas-aparcadas.webp
+  alt: "Row of parked city bikes"
 - src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
   alt: "Courtyard of the Orange Trees at the Mosque-Cathedral"
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp

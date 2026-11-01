@@ -99,6 +99,7 @@ galeria:
   alt: "Winding road towards Cap de Formentor"
 - src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
   alt: "Sobrasada, a typical Mallorcan cured sausage"
+avisoReserva: 'Seasonal activity: the next available dates start in April 2027.'
 ---
 
 ## What you will see

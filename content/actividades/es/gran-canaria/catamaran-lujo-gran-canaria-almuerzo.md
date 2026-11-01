@@ -85,21 +85,19 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/catamaran/fgc-catamaran-fondeado-aguas-turquesa.webp
-imagenAlt: "Catamarán fondeado en aguas turquesa"
+imagen: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
+imagenAlt: "Proa de un catamarán sobre agua clara"
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: "El puerto de Puerto Rico de Gran Canaria, punto de salida"
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
   alt: "Costa rocosa del suroeste de Gran Canaria"
-- src: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
-  alt: "Proa de un catamarán sobre agua clara"
+- src: /images/actividades/gran-canaria/catamaran/fgc-catamaran-fondeado-aguas-turquesa.webp
+  alt: "Catamarán fondeado en aguas turquesa"
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: "Fondo rocoso bajo aguas cristalinas, ideal para el esnórquel"
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
   alt: "Acantilados y casas de la costa de Mogán vistos desde el mar"
-- src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
-  alt: "Vista del puerto deportivo de Puerto Rico de Gran Canaria"
 ---
 
 ## Qué vas a ver

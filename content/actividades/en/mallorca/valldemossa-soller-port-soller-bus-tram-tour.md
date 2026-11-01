@@ -95,6 +95,7 @@ galeria:
   alt: "Boats in the harbour of Port de Sóller"
 - src: /images/actividades/mallorca/fma-soller/bahia-port-soller-paseo.webp
   alt: "Port de Sóller bay from the promenade"
+avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 ---
 
 ## What you will see

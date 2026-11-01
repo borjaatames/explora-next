@@ -74,8 +74,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/tarragona/fre-coves-espluga/conjunto-font-major-espluga.webp
-imagenAlt: "Font Major complex, entrance to the l'Espluga de Francolí cave"
+imagen: /images/actividades/tarragona/fre-coves-espluga/estalactitas-iluminadas.webp
+imagenAlt: "Illuminated stalactites in a cave (illustrative image)"
 galeria:
 - src: /images/actividades/tarragona/costa/puerto-cambrils.webp
   alt: "Cambrils harbour, one of the pick-up points"
@@ -83,8 +83,8 @@ galeria:
   alt: "Rock formations inside a cave (illustrative image)"
 - src: /images/actividades/tarragona/quad/prades-atardecer.webp
   alt: "Prades mountains near l'Espluga de Francolí at sunset"
-- src: /images/actividades/tarragona/fre-coves-espluga/estalactitas-iluminadas.webp
-  alt: "Illuminated stalactites in a cave (illustrative image)"
+- src: /images/actividades/tarragona/fre-coves-espluga/conjunto-font-major-espluga.webp
+  alt: "Font Major complex, entrance to the l'Espluga de Francolí cave"
 - src: /images/actividades/tarragona/priorat/fta-vinedos-cornudella-montsant.webp
   alt: "Vineyards and the Montsant range in inland Tarragona"
 - src: /images/actividades/tarragona/fre-coves-espluga/cala-morisca-salou.webp

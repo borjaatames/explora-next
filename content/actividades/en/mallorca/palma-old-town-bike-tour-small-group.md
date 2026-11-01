@@ -78,8 +78,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/mallorca/fma-bici-palma/bicicletas-calle-empedrada.webp
-imagenAlt: "Bicycles leaning against a wall on a cobbled street"
+imagen: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-paseo.webp
+imagenAlt: "Almudaina and Cathedral seen from the seafront"
 galeria:
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
   alt: "Palma Cathedral above the sea wall"
@@ -89,8 +89,8 @@ galeria:
   alt: "City bikes parked in a row"
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
   alt: "Narrow street in Palma old town"
-- src: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-paseo.webp
-  alt: "Almudaina and Cathedral seen from the seafront"
+- src: /images/actividades/mallorca/fma-bici-palma/bicicletas-calle-empedrada.webp
+  alt: "Bicycles leaning against a wall on a cobbled street"
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp
   alt: "Gothic gargoyle on the facade of Palma Cathedral"
 ---

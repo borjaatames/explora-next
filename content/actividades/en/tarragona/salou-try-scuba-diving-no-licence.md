@@ -85,11 +85,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/tarragona/buceo/fta-buceador-roca-submarina.webp
-imagenAlt: "Scuba diver in full gear swimming by an underwater rock wall"
+imagen: /images/actividades/tarragona/buceo/fta-buceador-superficie-barcos.webp
+imagenAlt: "Diver at the sea surface with boats in the background"
 galeria:
-- src: /images/actividades/tarragona/buceo/fta-buceador-superficie-barcos.webp
-  alt: "Diver at the sea surface with boats in the background"
+- src: /images/actividades/tarragona/buceo/fta-buceador-roca-submarina.webp
+  alt: "Scuba diver in full gear swimming by an underwater rock wall"
 - src: /images/actividades/tarragona/costa/cap-salou.webp
   alt: "Rocky coast of Cap de Salou"
 - src: /images/actividades/tarragona/buceo/fta-buceadores-fondo-burbujas.webp

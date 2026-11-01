@@ -103,6 +103,7 @@ galeria:
   alt: "Stand-up paddleboarding along a vegetated shoreline"
 - src: /images/actividades/ibiza/calas/fi1-casetas-varadero-costa-ibiza.webp
   alt: "Traditional fishermen boat sheds on the Ibiza coast"
+avisoReserva: 'Seasonal activity: the next available dates start in April 2027.'
 ---
 
 ## What you will see

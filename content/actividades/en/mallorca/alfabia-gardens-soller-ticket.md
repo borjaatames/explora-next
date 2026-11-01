@@ -89,6 +89,7 @@ galeria:
   alt: "Crates of lemons at the door of an Alfabia building"
 - src: /images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp
   alt: "Sóller valley and the Serra de Tramuntana from the road"
+avisoReserva: 'Seasonal activity: the next available dates start in February 2027.'
 ---
 
 ## What you will see

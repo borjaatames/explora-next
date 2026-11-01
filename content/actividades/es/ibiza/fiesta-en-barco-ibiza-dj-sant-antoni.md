@@ -92,6 +92,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## La fiesta

@@ -106,6 +106,7 @@ galeria:
   alt: "Rocas y oleaje en la costa de Cala Varques"
 - src: /images/actividades/mallorca/fma-cala-varques/cala-varques-desde-pinar.webp
   alt: "Cala Varques vista desde el pinar"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## Qué vas a ver

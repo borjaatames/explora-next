@@ -76,11 +76,11 @@ keywords:
 - caminito del rey entry guide
 - caminito del rey without transport
 - caminito del rey booking
-imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
-imagenAlt: Caminito del Rey walkways above the Gaitanes Gorge
+imagen: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
+imagenAlt: Gaitanes Gorge from the walkways
 galeria:
-- src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
-  alt: Gaitanes Gorge from the walkways
+- src: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
+  alt: Caminito del Rey walkways above the Gaitanes Gorge
 - src: /images/actividades/malaga/caminito-del-rey/garganta.webp
   alt: The Guadalhorce river gorge
 - src: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp

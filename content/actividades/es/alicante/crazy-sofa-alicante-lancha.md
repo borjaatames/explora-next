@@ -78,13 +78,13 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/fal-crazy-sofa/fal-lancha-remolcando-hinchable.webp
-imagenAlt: "Lancha remolcando un hinchable en mar abierto"
+imagen: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
+imagenAlt: "Hinchables acuáticos remolcables flotando en el mar"
 galeria:
 - src: /images/actividades/tarragona/banana/fta-lancha-remolcando-banana-aerea.webp
   alt: "Lancha remolcando un hinchable a toda velocidad, vista aérea"
-- src: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
-  alt: "Hinchables acuáticos remolcables flotando en el mar"
+- src: /images/actividades/alicante/fal-crazy-sofa/fal-lancha-remolcando-hinchable.webp
+  alt: "Lancha remolcando un hinchable en mar abierto"
 - src: /images/actividades/alicante/centro/vista-puerto.webp
   alt: "Puerto y marina de Alicante vistos desde el castillo"
 - src: /images/actividades/ibiza/barcos/fi1-barco-navegando-estela.webp

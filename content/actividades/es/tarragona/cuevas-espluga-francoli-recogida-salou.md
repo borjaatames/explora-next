@@ -74,8 +74,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/tarragona/fre-coves-espluga/conjunto-font-major-espluga.webp
-imagenAlt: "Conjunto de la Font Major, acceso a la cueva de l'Espluga de Francolí"
+imagen: /images/actividades/tarragona/fre-coves-espluga/estalactitas-iluminadas.webp
+imagenAlt: "Estalactitas iluminadas en una cueva (imagen ilustrativa)"
 galeria:
 - src: /images/actividades/tarragona/costa/puerto-cambrils.webp
   alt: "Puerto de Cambrils, uno de los puntos de recogida"
@@ -83,8 +83,8 @@ galeria:
   alt: "Formaciones de roca en el interior de una cueva (imagen ilustrativa)"
 - src: /images/actividades/tarragona/quad/prades-atardecer.webp
   alt: "Montañas de Prades, cerca de l'Espluga de Francolí, al atardecer"
-- src: /images/actividades/tarragona/fre-coves-espluga/estalactitas-iluminadas.webp
-  alt: "Estalactitas iluminadas en una cueva (imagen ilustrativa)"
+- src: /images/actividades/tarragona/fre-coves-espluga/conjunto-font-major-espluga.webp
+  alt: "Conjunto de la Font Major, acceso a la cueva de l'Espluga de Francolí"
 - src: /images/actividades/tarragona/priorat/fta-vinedos-cornudella-montsant.webp
   alt: "Viñedos y sierra del Montsant en el interior de Tarragona"
 - src: /images/actividades/tarragona/fre-coves-espluga/cala-morisca-salou.webp

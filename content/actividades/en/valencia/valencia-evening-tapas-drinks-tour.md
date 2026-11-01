@@ -83,8 +83,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-noche.webp
-imagenAlt: "Assorted tapas in clay dishes to share"
+imagen: /images/actividades/valencia/tapas/fvc-bar-tapas-lleno-noche.webp
+imagenAlt: "Lively tapas bar interior at night"
 galeria:
 - src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
   alt: "Street in Valencia old town at night"
@@ -96,8 +96,8 @@ galeria:
   alt: "Gildas skewers of olive, chilli pepper and anchovy"
 - src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
   alt: "El Carmen district in central Valencia, lit up at night"
-- src: /images/actividades/valencia/tapas/fvc-bar-tapas-lleno-noche.webp
-  alt: "Lively tapas bar interior at night"
+- src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-noche.webp
+  alt: "Assorted tapas in clay dishes to share"
 ---
 
 ## What you will see

@@ -84,11 +84,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/mallorca/fma-quad-magaluf/quad-azul-costa.webp
-imagenAlt: "Quad aparcado sobre rocas junto al mar"
+imagen: /images/actividades/mallorca/fma-quad-magaluf/manos-manillar-quad.webp
+imagenAlt: "Conductor al manillar de un quad por un camino de tierra"
 galeria:
-- src: /images/actividades/mallorca/fma-quad-magaluf/manos-manillar-quad.webp
-  alt: "Conductor al manillar de un quad por un camino de tierra"
+- src: /images/actividades/mallorca/fma-quad-magaluf/quad-azul-costa.webp
+  alt: "Quad aparcado sobre rocas junto al mar"
 - src: /images/actividades/mallorca/barco-paguera/peguera-bahia.webp
   alt: "Costa del suroeste de Mallorca desde lo alto, en la zona de Paguera"
 - src: /images/actividades/mallorca/fma-quad-magaluf/quads-pista-polvo.webp

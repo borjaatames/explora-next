@@ -68,7 +68,7 @@ numeroOpiniones: 59
 atraccionesRelacionadas:
 - bodegas
 - centro
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'
@@ -86,6 +86,7 @@ galeria:
   alt: "Esquina de una iglesia histórica en el casco antiguo de Jerez"
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-cielo-azul.webp
   alt: "Cúpula y balaustradas de la Catedral de Jerez"
+reemplazadaPor: bodega-cayetano-del-pino-jerez-visita-cata
 ---
 
 ## Qué vas a ver

@@ -65,13 +65,13 @@ keywords:
 - excursion privada cordoba desde sevilla
 - cordoba desde sevilla con guia
 - mezquita cordoba tour privado
-imagen: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-interior-columnas-ar-hero.webp
-imagenAlt: Arcos bicolores y columnas de la Mezquita-Catedral de Córdoba
+imagen: /images/actividades/cordoba/juderia/calleja-flores.webp
+imagenAlt: 'Calleja de las Flores con macetas azules'
 galeria:
 - src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp
   alt: 'El Puente Romano y la Mezquita sobre el Guadalquivir'
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: 'Calleja de las Flores con macetas azules'
+- src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-interior-columnas-ar-hero.webp
+  alt: Arcos bicolores y columnas de la Mezquita-Catedral de Córdoba
 - src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
   alt: 'El Patio de los Naranjos de la Mezquita-Catedral de Córdoba'
 - src: /images/actividades/cordoba/mezquita/bosque-arcos-bicolores.webp

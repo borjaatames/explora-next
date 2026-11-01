@@ -101,6 +101,7 @@ galeria:
   alt: "Tren de madera de Sóller en las cocheras"
 - src: /images/actividades/mallorca/fma-soller/soller-pueblo-desde-alto.webp
   alt: "Sóller y su estación de tren desde lo alto"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en marzo de 2027.'
 ---
 
 ## Qué vas a ver

@@ -73,13 +73,13 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
-imagenAlt: "Pasillo de una bodega con barricas de vino apiladas"
+imagen: /images/actividades/tenerife/bodega/ftc-seleccion-uva-vendimia.webp
+imagenAlt: "Selección de la uva en la mesa de la bodega durante la vendimia"
 galeria:
 - src: /images/actividades/tenerife/bodega/ftc-racimos-uva-tinta-vina.webp
   alt: "Racimos de uva tinta en una viña"
-- src: /images/actividades/tenerife/bodega/ftc-seleccion-uva-vendimia.webp
-  alt: "Selección de la uva en la mesa de la bodega durante la vendimia"
+- src: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
+  alt: "Pasillo de una bodega con barricas de vino apiladas"
 - src: /images/actividades/tenerife/orotava/valle-orotava.webp
   alt: "Vista del norte de Tenerife, con el valle de La Orotava y el Atlántico"
 - src: /images/actividades/alicante/vino/cata-copas.webp

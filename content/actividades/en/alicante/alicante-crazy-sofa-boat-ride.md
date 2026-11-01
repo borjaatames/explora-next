@@ -78,13 +78,13 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/fal-crazy-sofa/fal-lancha-remolcando-hinchable.webp
-imagenAlt: "Boat towing an inflatable on the open sea"
+imagen: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
+imagenAlt: "Towable water inflatables floating in the sea"
 galeria:
 - src: /images/actividades/tarragona/banana/fta-lancha-remolcando-banana-aerea.webp
   alt: "Speedboat towing an inflatable at full speed, aerial view"
-- src: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
-  alt: "Towable water inflatables floating in the sea"
+- src: /images/actividades/alicante/fal-crazy-sofa/fal-lancha-remolcando-hinchable.webp
+  alt: "Boat towing an inflatable on the open sea"
 - src: /images/actividades/alicante/centro/vista-puerto.webp
   alt: "Alicante port and marina seen from the castle"
 - src: /images/actividades/ibiza/barcos/fi1-barco-navegando-estela.webp

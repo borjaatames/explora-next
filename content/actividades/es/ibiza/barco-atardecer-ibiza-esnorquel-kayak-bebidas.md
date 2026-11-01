@@ -95,6 +95,7 @@ galeria:
   alt: "Puesta de sol sobre los islotes frente a la costa oeste de Ibiza"
 - src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
   alt: "Puesta de sol desde la bahía de Sant Antoni"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en abril de 2027.'
 ---
 
 ## Qué vas a ver

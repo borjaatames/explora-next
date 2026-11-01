@@ -83,8 +83,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-noche.webp
-imagenAlt: "Tapas variadas en cazuelas de barro para compartir"
+imagen: /images/actividades/valencia/tapas/fvc-bar-tapas-lleno-noche.webp
+imagenAlt: "Interior de un bar de tapas animado por la noche"
 galeria:
 - src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
   alt: "Calle del casco antiguo de Valencia de noche"
@@ -96,8 +96,8 @@ galeria:
   alt: "Gildas de aceituna, guindilla y anchoa"
 - src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
   alt: "Barrio del Carmen, en el centro de Valencia, iluminado de noche"
-- src: /images/actividades/valencia/tapas/fvc-bar-tapas-lleno-noche.webp
-  alt: "Interior de un bar de tapas animado por la noche"
+- src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-noche.webp
+  alt: "Tapas variadas en cazuelas de barro para compartir"
 ---
 
 ## Qué vas a ver

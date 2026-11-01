@@ -77,13 +77,13 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/tarragona/parapente/fta-parapente-biplaza-nubes.webp
-imagenAlt: "Parapente biplaza volando entre nubes"
+imagen: /images/actividades/tarragona/parapente/fta-piloto-pasajero-biplaza.webp
+imagenAlt: "Piloto y pasajero en un vuelo de parapente biplaza"
 galeria:
 - src: /images/actividades/tarragona/quad/prades-siurana.webp
   alt: "Montañas de Prades y valle del interior de Tarragona"
-- src: /images/actividades/tarragona/parapente/fta-piloto-pasajero-biplaza.webp
-  alt: "Piloto y pasajero en un vuelo de parapente biplaza"
+- src: /images/actividades/tarragona/parapente/fta-parapente-biplaza-nubes.webp
+  alt: "Parapente biplaza volando entre nubes"
 - src: /images/actividades/tarragona/quad/montsant.webp
   alt: "Vista panorámica de las sierras del interior de Tarragona"
 - src: /images/actividades/tarragona/parapente/fta-parapente-cielo-claro.webp

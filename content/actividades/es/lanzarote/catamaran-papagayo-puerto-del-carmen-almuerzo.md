@@ -90,11 +90,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
-imagenAlt: "Catamarán fondeado con su lancha auxiliar en aguas turquesa"
+imagen: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
+imagenAlt: "Barcos de excursión en Puerto del Carmen"
 galeria:
-- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
-  alt: "Barcos de excursión en Puerto del Carmen"
+- src: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
+  alt: "Catamarán fondeado con su lancha auxiliar en aguas turquesa"
 - src: /images/actividades/lanzarote/papagayo/flz-playa-dorada-turquesa.webp
   alt: "Playa de arena dorada y aguas turquesa en Papagayo"
 - src: /images/actividades/lanzarote/catamaran/flz-proa-agua-cristalina.webp

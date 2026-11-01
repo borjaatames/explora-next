@@ -75,15 +75,15 @@ keywords:
 - paseo en barco malaga
 - catamaran malaga atardecer
 - barco malaga
-imagen: /images/actividades/malaga/catamaran/catamaran-malaga-atardecer.webp
-imagenAlt: Catamarán navegando al atardecer frente a Málaga
+imagen: /images/actividades/malaga/catamaran/catamaran-pasajeros.webp
+imagenAlt: Catamarán con pasajeros visto desde arriba
 galeria:
 - src: /images/actividades/malaga/muelle-uno/muelle-uno-vista.webp
   alt: Muelle Uno en el puerto de Málaga
 - src: /images/actividades/malaga/catamaran/catamaran-vela.webp
   alt: Catamarán de vela navegando en mar abierto
-- src: /images/actividades/malaga/catamaran/catamaran-pasajeros.webp
-  alt: Catamarán con pasajeros visto desde arriba
+- src: /images/actividades/malaga/catamaran/catamaran-malaga-atardecer.webp
+  alt: Catamarán navegando al atardecer frente a Málaga
 - src: /images/actividades/malaga/muelle-uno/paseo-farola.webp
   alt: Paseo de la Farola y el puerto de Málaga desde el Muelle Uno
 - src: /images/actividades/malaga/catamaran/catamaran-puesta-sol.webp

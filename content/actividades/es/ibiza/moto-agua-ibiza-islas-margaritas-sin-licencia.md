@@ -8,7 +8,7 @@ slugs:
   en: ibiza-jet-ski-tour-margalides-no-licence
 duracion: 1 hora
 duracionMinutos: 60
-precioDesde: 72
+precioDesde: 90
 moneda: EUR
 idiomas:
 - es

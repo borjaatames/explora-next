@@ -97,8 +97,6 @@ galeria:
   alt: "Borde del cráter del Calderón Hondo"
 - src: /images/actividades/madrid/ebike/bicicletas-electricas-aparcadas.webp
   alt: "Bicicletas eléctricas aparcadas"
-- src: /images/actividades/fuerteventura/calderon-hondo/ffv-volcanes-la-oliva.webp
-  alt: "Conos volcánicos en el norte de Fuerteventura"
 - src: /images/actividades/fuerteventura/ebike/ffv-ciclistas-carretera-matorral.webp
   alt: "Ciclistas por una carretera entre matorral costero"
 - src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp

@@ -8,7 +8,7 @@ slugs:
   en: gaztelugatxe-mundaka-gernika-half-day-tour-from-bilbao
 duracion: 6 hours
 duracionMinutos: 360
-precioDesde: 41
+precioDesde: 69
 moneda: EUR
 idiomas:
 - en
@@ -82,13 +82,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-islote-arco.webp
-imagenAlt: "San Juan de Gaztelugatxe islet with its hermitage and natural arch"
+imagen: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-camino-acceso.webp
+imagenAlt: "Access path and bridge to San Juan de Gaztelugatxe between cliffs"
 galeria:
-- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-camino-acceso.webp
-  alt: "Access path and bridge to San Juan de Gaztelugatxe between cliffs"
-- src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp
-  alt: "Stairway and bridge of San Juan de Gaztelugatxe"
+- src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-islote-arco.webp
+  alt: "San Juan de Gaztelugatxe islet with its hermitage and natural arch"
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-mundaka-puerto-barcas.webp
   alt: "Boats in Mundaka harbour"
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-mundaka-puerto.webp

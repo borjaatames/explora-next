@@ -111,6 +111,7 @@ galeria:
   alt: "Costa Brava cliffs and coves"
 - src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
   alt: "Sant Feliu de Guíxols bay seen from the coast"
+avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 
 ## What you will see

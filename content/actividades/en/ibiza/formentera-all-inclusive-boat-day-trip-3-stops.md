@@ -108,6 +108,7 @@ galeria:
   alt: "Wooden boat slipways at Es Caló de Sant Agustí, Formentera"
 - src: /images/actividades/ibiza/formentera/migjorn.webp
   alt: "Migjorn beach, Formentera"
+avisoReserva: 'Seasonal activity: the next available dates start in July 2027.'
 ---
 
 ## What you will see

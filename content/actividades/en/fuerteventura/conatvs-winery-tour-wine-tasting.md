@@ -85,8 +85,6 @@ galeria:
   alt: "Volcanoes in the north of Fuerteventura"
 - src: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
   alt: "Wine barrels stacked in a winery"
-- src: /images/actividades/fuerteventura/calderon-hondo/ffv-volcanes-la-oliva.webp
-  alt: "Volcanic cones in the north of Fuerteventura"
 - src: /images/actividades/alicante/vino/cata-copas.webp
   alt: "Wine glasses set out for a tasting"
 - src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp

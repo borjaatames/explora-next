@@ -93,6 +93,7 @@ galeria:
   alt: "Mar abierto frente a las rocas del Cap de Salou"
 - src: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
   alt: "Banana boats hinchables flotando en agua turquesa"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en febrero de 2027.'
 ---
 
 ## Qué vas a ver

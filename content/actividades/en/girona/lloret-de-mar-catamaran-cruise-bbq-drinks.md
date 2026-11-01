@@ -100,6 +100,7 @@ galeria:
   alt: "The sea at water level by a rocky coast"
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
   alt: "Lloret de Mar main beach with rocks in the foreground"
+avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 
 ## What you will see

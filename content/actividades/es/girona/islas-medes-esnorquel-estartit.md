@@ -105,6 +105,7 @@ galeria:
   alt: "Rocas y vegetación de las Medes al nivel del mar"
 - src: /images/actividades/girona/medes/medes-wikimedia-costa-brava-aerial-view-of-l-estartit-il-02.webp
   alt: "Vista aérea de L'Estartit y las islas Medes"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en abril de 2027.'
 ---
 
 ## Qué vas a ver

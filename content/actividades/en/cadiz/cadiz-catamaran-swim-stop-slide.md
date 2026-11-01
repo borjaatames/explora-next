@@ -93,6 +93,7 @@ galeria:
   alt: "Glass of sparkling wine on the deck of a catamaran"
 - src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
   alt: "San Sebastián Castle at the mouth of the bay"
+avisoReserva: 'Seasonal activity: the next available dates start in June 2027.'
 ---
 
 ## What you will see

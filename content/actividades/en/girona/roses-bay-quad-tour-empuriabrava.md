@@ -52,7 +52,7 @@ informacionImportante:
   - Sandals and flip-flops are not allowed
 accesibilidad: Not wheelchair accessible.
 politicaCancelacion: Free cancellation up to 24 hours before, with a full refund.
-avisoReserva: The price is per quad, for a group of up to 2 people.
+avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 preguntasFrecuentes:
 - pregunta: Is the price per person?
   respuesta: No, it's per quad for up to 2 people.

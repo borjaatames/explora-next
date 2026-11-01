@@ -97,8 +97,6 @@ galeria:
   alt: "Rim of the Calderón Hondo crater"
 - src: /images/actividades/madrid/ebike/bicicletas-electricas-aparcadas.webp
   alt: "Parked e-bikes"
-- src: /images/actividades/fuerteventura/calderon-hondo/ffv-volcanes-la-oliva.webp
-  alt: "Volcanic cones in the north of Fuerteventura"
 - src: /images/actividades/fuerteventura/ebike/ffv-ciclistas-carretera-matorral.webp
   alt: "Cyclists on a road through coastal scrub"
 - src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp

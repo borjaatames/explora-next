@@ -112,6 +112,7 @@ galeria:
   alt: "Estación marítima del puerto de Ibiza, llegada de los ferris"
 - src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-03.webp
   alt: "Dalt Vila y el puerto de Ibiza al atardecer"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en abril de 2027.'
 ---
 
 ## Qué vas a ver

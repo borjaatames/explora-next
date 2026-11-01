@@ -100,6 +100,7 @@ galeria:
   alt: "Puesta de sol sobre los islotes frente a la costa oeste de Ibiza"
 - src: /images/actividades/ibiza/sant-antoni/fi1-bahia-sant-antoni-noche.webp
   alt: "Paseo marítimo de Sant Antoni iluminado de noche con la luna sobre la bahía"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## Qué vas a ver

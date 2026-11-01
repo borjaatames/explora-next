@@ -96,8 +96,6 @@ galeria:
   alt: "Caminantes en la meseta del Roque Nublo"
 - src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-teide-panorama.webp
   alt: "El Roque Nublo con el Teide asomando sobre el mar de nubes"
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-desde-pico.webp
-  alt: "El Roque Nublo visto entre pinos desde la cumbre"
 - src: /images/actividades/gran-canaria/roque-nublo/fgc-senderistas-silueta-cumbre.webp
   alt: "Siluetas de dos senderistas en la cumbre de Gran Canaria"
 ---

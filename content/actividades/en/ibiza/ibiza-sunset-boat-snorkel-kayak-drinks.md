@@ -95,6 +95,7 @@ galeria:
   alt: "Sunset over the islets off the west coast of Ibiza"
 - src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
   alt: "Sunset from Sant Antoni bay"
+avisoReserva: 'Seasonal activity: the next available dates start in April 2027.'
 ---
 
 ## What you will see

@@ -91,6 +91,7 @@ galeria:
   alt: "Panorama over the rooftops of Ourense"
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-mirador-canon-sil.webp
   alt: "View of the Sil canyon from a viewpoint"
+avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 ---
 
 ## What you will see

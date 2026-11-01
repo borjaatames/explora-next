@@ -82,8 +82,6 @@ imagenAlt: "Bow of a boat sailing on the Albufera lake at sunset"
 galeria:
 - src: /images/actividades/valencia/albufera/fvc-embarcadero-barcas-canal.webp
   alt: "Jetty with traditional boats on an Albufera canal"
-- src: /images/actividades/valencia/albufera/canal-albufera-barcas-tipicas.webp
-  alt: "Typical boats moored on an Albufera canal"
 - src: /images/actividades/valencia/albufera/fvc-barca-amarrada-lago.webp
   alt: "Boat moored on the open waters of the Albufera lake"
 - src: /images/actividades/valencia/albufera/fvc-garzas-arrozal.webp

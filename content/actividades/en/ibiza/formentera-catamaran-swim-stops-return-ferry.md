@@ -112,6 +112,7 @@ galeria:
   alt: "Ibiza ferry terminal, where the ferries arrive"
 - src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-03.webp
   alt: "Dalt Vila and Ibiza harbour at dusk"
+avisoReserva: 'Seasonal activity: the next available dates start in April 2027.'
 ---
 
 ## What you will see

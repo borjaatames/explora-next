@@ -100,6 +100,7 @@ galeria:
   alt: "View of Tossa from the Vila Vella walls"
 - src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-07.webp
   alt: "A street with terraces inside Tossa's Vila Vella"
+avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 
 ## What you'll see

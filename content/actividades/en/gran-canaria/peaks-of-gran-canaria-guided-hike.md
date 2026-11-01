@@ -96,8 +96,6 @@ galeria:
   alt: "Walkers on the plateau of Roque Nublo"
 - src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-teide-panorama.webp
   alt: "Roque Nublo with Mount Teide rising above the sea of clouds"
-- src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-desde-pico.webp
-  alt: "Roque Nublo seen between pines from the summit"
 - src: /images/actividades/gran-canaria/roque-nublo/fgc-senderistas-silueta-cumbre.webp
   alt: "Silhouettes of two hikers on the summit of Gran Canaria"
 ---

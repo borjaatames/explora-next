@@ -95,8 +95,6 @@ galeria:
   alt: "Sant Feliu de Guíxols bay seen from the coast"
 - src: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-escaladora-casco.webp
   alt: "A climber with helmet and harness on a via ferrata"
-- src: /images/actividades/girona/fgi-sant-feliu/fgi-sant-feliu-playa-puerto.webp
-  alt: "Sant Feliu de Guíxols beach and marina"
 - src: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-mosquetones-cable.webp
   alt: "Carabiners clipped to a via ferrata safety cable"
 - src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp

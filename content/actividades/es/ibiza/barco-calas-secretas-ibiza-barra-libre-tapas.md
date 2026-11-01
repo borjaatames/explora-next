@@ -103,6 +103,7 @@ galeria:
   alt: "Paddle surf junto a una orilla con vegetación"
 - src: /images/actividades/ibiza/calas/fi1-casetas-varadero-costa-ibiza.webp
   alt: "Casetas varadero de pescadores en la costa de Ibiza"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en abril de 2027.'
 ---
 
 ## Qué vas a ver

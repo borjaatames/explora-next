@@ -73,14 +73,14 @@ keywords:
 - sagrada familia private guide
 - private tour sagrada familia with tickets
 - sagrada familia shore excursion private
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp
-imagenAlt: Façade of the Sagrada Familia in Barcelona
+imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp
+imagenAlt: Vault of the Sagrada Familia's central nave
 publicada: true
 destacada: false
 fecha: '2026-10-28'
 galeria:
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp
-  alt: Vault of the Sagrada Familia's central nave
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp
+  alt: Façade of the Sagrada Familia in Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-facade-hero.webp
   alt: Detail of the sculpted façade
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero.webp

@@ -115,6 +115,7 @@ galeria:
   alt: "Puesta de sol sobre los islotes de la costa de Ibiza"
 - src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-04.webp
   alt: "Bahía de Ibiza con veleros al atardecer"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en abril de 2027.'
 ---
 
 ## Qué vas a ver

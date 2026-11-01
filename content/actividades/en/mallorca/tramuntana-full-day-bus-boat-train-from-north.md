@@ -101,6 +101,7 @@ galeria:
   alt: "Sóller wooden train at the depot"
 - src: /images/actividades/mallorca/fma-soller/soller-pueblo-desde-alto.webp
   alt: "Sóller and its train station from above"
+avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 ---
 
 ## What you will see

@@ -73,13 +73,13 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
-imagenAlt: "Winery aisle lined with stacked wine barrels"
+imagen: /images/actividades/tenerife/bodega/ftc-seleccion-uva-vendimia.webp
+imagenAlt: "Grapes being sorted on the winery table during harvest"
 galeria:
 - src: /images/actividades/tenerife/bodega/ftc-racimos-uva-tinta-vina.webp
   alt: "Bunches of red grapes on the vine"
-- src: /images/actividades/tenerife/bodega/ftc-seleccion-uva-vendimia.webp
-  alt: "Grapes being sorted on the winery table during harvest"
+- src: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
+  alt: "Winery aisle lined with stacked wine barrels"
 - src: /images/actividades/tenerife/orotava/valle-orotava.webp
   alt: "View of northern Tenerife, with the Orotava Valley and the Atlantic"
 - src: /images/actividades/alicante/vino/cata-copas.webp

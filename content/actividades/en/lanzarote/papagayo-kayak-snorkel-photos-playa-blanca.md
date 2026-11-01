@@ -80,17 +80,17 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
-imagenAlt: "Person snorkelling seen from above"
+imagen: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
+imagenAlt: "Turquoise-water cove at Papagayo"
 galeria:
-- src: /images/actividades/lanzarote/kayak-papagayo.webp
-  alt: "Red kayak on a white sand beach"
+- src: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
+  alt: "Person snorkelling seen from above"
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
   alt: "Papagayo beach under a cloudy sky"
 - src: /images/actividades/lanzarote/snorkel/flz-fondo-rocoso.webp
   alt: "Rocky seabed seen through clear water"
-- src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
-  alt: "Turquoise-water cove at Papagayo"
+- src: /images/actividades/lanzarote/kayak-papagayo.webp
+  alt: "Red kayak on a white sand beach"
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
   alt: "Playa Blanca in southern Lanzarote"
 - src: /images/actividades/lanzarote/papagayo/flz-playas-veleros.webp

@@ -74,11 +74,11 @@ keywords:
 - tour de tapas granada
 - tapas y vino granada
 - food tour granada
-imagen: /images/actividades/granada/wikimedia/granada-tapas-plato-05.webp
-imagenAlt: Vino tinto con tapas de queso y patatas en Granada
+imagen: /images/actividades/granada/wikimedia/granada-calle-navas-02.webp
+imagenAlt: Calle Navas, la calle de bares de tapas del centro de Granada
 galeria:
-- src: /images/actividades/granada/wikimedia/granada-calle-navas-02.webp
-  alt: Calle Navas, la calle de bares de tapas del centro de Granada
+- src: /images/actividades/granada/wikimedia/granada-tapas-plato-05.webp
+  alt: Vino tinto con tapas de queso y patatas en Granada
 - src: /images/actividades/granada/wikimedia/granada-bib-rambla-04.webp
   alt: Plaza Bib-Rambla con la catedral de Granada al fondo
 - src: /images/actividades/granada/wikimedia/granada-tapas-plato-03.webp

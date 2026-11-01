@@ -93,6 +93,7 @@ galeria:
   alt: "Open sea off the rocks of Cap de Salou"
 - src: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
   alt: "Inflatable banana boats floating in turquoise water"
+avisoReserva: 'Seasonal activity: the next available dates start in February 2027.'
 ---
 
 ## What you will see

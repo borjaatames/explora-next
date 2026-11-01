@@ -97,6 +97,7 @@ galeria:
   alt: "School of fish over seagrass"
 - src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
   alt: "Stand-up paddleboarding on the blue Mediterranean"
+avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 
 ## What you will see

@@ -17,7 +17,7 @@ proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t422024/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-avisoReserva: 'Entry to LagOmar depends on the option you choose: check whether it is included before paying. The Teguise market is on Sundays only.'
+avisoReserva: 'Seasonal activity: the next available dates start in July 2027.'
 highlights:
 - Guided visit to LagOmar, a house built into the lava
 - The Omar Sharif legend linked to the house

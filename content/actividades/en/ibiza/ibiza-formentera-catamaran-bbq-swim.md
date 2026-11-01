@@ -100,6 +100,7 @@ galeria:
   alt: "Deck of a catamaran anchored over a seagrass seabed"
 - src: /images/actividades/ibiza/atardecer/velero-atardecer.webp
   alt: "Sailing boat at sunset in front of Es Vedrà"
+avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 
 ## What you will see

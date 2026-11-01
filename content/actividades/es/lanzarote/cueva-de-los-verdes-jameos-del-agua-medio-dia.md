@@ -96,6 +96,7 @@ galeria:
   alt: "Escaleras de piedra y jardín en los Jameos del Agua"
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-sala-blanca.webp
   alt: "Sala blanca de los Jameos del Agua diseñada por César Manrique"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en enero de 2027.'
 ---
 
 ## Qué vas a ver

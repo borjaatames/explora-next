@@ -84,11 +84,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/mallorca/fma-quad-magaluf/quad-azul-costa.webp
-imagenAlt: "Quad bike parked on rocks by the sea"
+imagen: /images/actividades/mallorca/fma-quad-magaluf/manos-manillar-quad.webp
+imagenAlt: "Rider at the handlebars of a quad on a dirt track"
 galeria:
-- src: /images/actividades/mallorca/fma-quad-magaluf/manos-manillar-quad.webp
-  alt: "Rider at the handlebars of a quad on a dirt track"
+- src: /images/actividades/mallorca/fma-quad-magaluf/quad-azul-costa.webp
+  alt: "Quad bike parked on rocks by the sea"
 - src: /images/actividades/mallorca/barco-paguera/peguera-bahia.webp
   alt: "South-west coast of Mallorca from above, near Paguera"
 - src: /images/actividades/mallorca/fma-quad-magaluf/quads-pista-polvo.webp

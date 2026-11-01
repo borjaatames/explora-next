@@ -85,8 +85,6 @@ galeria:
   alt: "Volcanes del norte de Fuerteventura"
 - src: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
   alt: "Barricas de vino apiladas en una bodega"
-- src: /images/actividades/fuerteventura/calderon-hondo/ffv-volcanes-la-oliva.webp
-  alt: "Conos volcánicos en el norte de Fuerteventura"
 - src: /images/actividades/alicante/vino/cata-copas.webp
   alt: "Copas de vino preparadas para la cata"
 - src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp

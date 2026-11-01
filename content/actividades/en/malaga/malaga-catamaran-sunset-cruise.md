@@ -75,15 +75,15 @@ keywords:
 - malaga boat trip
 - malaga sunset cruise
 - boat malaga
-imagen: /images/actividades/malaga/catamaran/catamaran-malaga-atardecer.webp
-imagenAlt: Catamaran sailing at sunset off Málaga
+imagen: /images/actividades/malaga/catamaran/catamaran-pasajeros.webp
+imagenAlt: Catamaran with passengers seen from above
 galeria:
 - src: /images/actividades/malaga/muelle-uno/muelle-uno-vista.webp
   alt: Muelle Uno in the port of Málaga
 - src: /images/actividades/malaga/catamaran/catamaran-vela.webp
   alt: Sailing catamaran on open sea
-- src: /images/actividades/malaga/catamaran/catamaran-pasajeros.webp
-  alt: Catamaran with passengers seen from above
+- src: /images/actividades/malaga/catamaran/catamaran-malaga-atardecer.webp
+  alt: Catamaran sailing at sunset off Málaga
 - src: /images/actividades/malaga/muelle-uno/paseo-farola.webp
   alt: Paseo de la Farola and Málaga port from Muelle Uno
 - src: /images/actividades/malaga/catamaran/catamaran-puesta-sol.webp

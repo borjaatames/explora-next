@@ -96,6 +96,7 @@ galeria:
   alt: "Stone steps and garden at Jameos del Agua"
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-sala-blanca.webp
   alt: "White room at Jameos del Agua designed by César Manrique"
+avisoReserva: 'Seasonal activity: the next available dates start in January 2027.'
 ---
 
 ## What you will see

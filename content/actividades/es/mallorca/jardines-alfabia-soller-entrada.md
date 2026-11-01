@@ -89,6 +89,7 @@ galeria:
   alt: "Cajas con limones a la entrada de un edificio de Alfabia"
 - src: /images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp
   alt: "Valle de Sóller y la Serra de Tramuntana desde la carretera"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en febrero de 2027.'
 ---
 
 ## Qué vas a ver

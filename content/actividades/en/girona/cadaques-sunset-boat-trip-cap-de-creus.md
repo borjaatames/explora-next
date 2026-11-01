@@ -97,6 +97,7 @@ galeria:
   alt: "Aerial view of Cadaqués bay with moored boats"
 - src: /images/actividades/girona/fgi-cap-creus/fgi-cap-creus-silueta-atardecer.webp
   alt: "The silhouette of the Cap de Creus hills at sunset"
+avisoReserva: 'Seasonal activity: the next available dates start in January 2027.'
 ---
 
 ## What you'll see

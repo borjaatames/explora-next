@@ -73,14 +73,14 @@ keywords:
 - tour privado sagrada familia
 - sagrada familia guia privado
 - visita guiada privada sagrada familia con entradas
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp
-imagenAlt: Fachada de la Sagrada Familia de Barcelona
+imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp
+imagenAlt: Bóveda de la nave central de la Sagrada Familia
 publicada: true
 destacada: false
 fecha: '2026-10-28'
 galeria:
-- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp
-  alt: Bóveda de la nave central de la Sagrada Familia
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-impressive-view-basilica-barcelona-hero.webp
+  alt: Fachada de la Sagrada Familia de Barcelona
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-stunning-view-intricate-facade-hero.webp
   alt: Detalle de la fachada esculpida
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero.webp

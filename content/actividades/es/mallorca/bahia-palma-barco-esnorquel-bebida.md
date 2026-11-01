@@ -83,11 +83,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/mallorca/fma-barco-bahia/catamaran-fondeado-agua-turquesa.webp
-imagenAlt: "Catamarán fondeado en agua turquesa, vista aérea"
+imagen: /images/actividades/mallorca/fma-palma/catedral-palma-desde-mar.webp
+imagenAlt: "Catedral de Palma vista desde el mar"
 galeria:
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-desde-mar.webp
-  alt: "Catedral de Palma vista desde el mar"
+- src: /images/actividades/mallorca/fma-barco-bahia/catamaran-fondeado-agua-turquesa.webp
+  alt: "Catamarán fondeado en agua turquesa, vista aérea"
 - src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
   alt: "Persona haciendo esnórquel sobre un fondo de rocas"
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-mar-abierto.webp
@@ -100,6 +100,7 @@ galeria:
   alt: "Fondo marino con rocas bajo agua cristalina"
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-lancha-agua-verde.webp
   alt: "Catamarán y lancha auxiliar en agua verde turquesa"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en marzo de 2027.'
 ---
 
 ## Qué vas a ver

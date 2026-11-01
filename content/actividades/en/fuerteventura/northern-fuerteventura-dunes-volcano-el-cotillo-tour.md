@@ -82,8 +82,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-1.webp
-imagenAlt: "Horizon over the Corralejo Dunes"
+imagen: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-3.webp
+imagenAlt: "Shrubs on the sand of the Corralejo Dunes"
 galeria:
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-6.webp
   alt: "Shrub on top of a dune in Corralejo"
@@ -95,8 +95,8 @@ galeria:
   alt: "El Cotillo coastline"
 - src: /images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp
   alt: "Old harbour at El Cotillo"
-- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-3.webp
-  alt: "Shrubs on the sand of the Corralejo Dunes"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-1.webp
+  alt: "Horizon over the Corralejo Dunes"
 ---
 
 ## What you will see

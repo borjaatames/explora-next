@@ -100,6 +100,7 @@ galeria:
   alt: "Sunset over the islets off the west coast of Ibiza"
 - src: /images/actividades/ibiza/sant-antoni/fi1-bahia-sant-antoni-noche.webp
   alt: "Sant Antoni seafront lit up at night with the moon over the bay"
+avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 
 ## What you will see

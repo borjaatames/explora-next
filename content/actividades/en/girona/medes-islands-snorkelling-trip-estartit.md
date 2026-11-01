@@ -105,6 +105,7 @@ galeria:
   alt: "Medes rocks and vegetation at sea level"
 - src: /images/actividades/girona/medes/medes-wikimedia-costa-brava-aerial-view-of-l-estartit-il-02.webp
   alt: "Aerial view of L'Estartit and the Medes Islands"
+avisoReserva: 'Seasonal activity: the next available dates start in April 2027.'
 ---
 
 ## What you'll see

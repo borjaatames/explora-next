@@ -102,8 +102,6 @@ galeria:
   alt: "Fondo rocoso bajo aguas cristalinas"
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
   alt: "Peces sobre el fondo arenoso en aguas de Gran Canaria"
-- src: /images/actividades/gran-canaria/mogan/fgc-puerto-mogan-playa-puerto.webp
-  alt: "Playa y puerto deportivo de Puerto de Mogán"
 ---
 
 ## Qué vas a ver

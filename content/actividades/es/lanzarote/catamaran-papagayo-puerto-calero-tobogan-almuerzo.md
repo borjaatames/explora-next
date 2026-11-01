@@ -83,11 +83,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/catamaran/flz-cenital-turquesa.webp
-imagenAlt: "Catamarán visto desde arriba sobre aguas turquesa"
+imagen: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+imagenAlt: "Cala de Papagayo vista desde el acantilado"
 galeria:
-- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
-  alt: "Cala de Papagayo vista desde el acantilado"
+- src: /images/actividades/lanzarote/catamaran/flz-cenital-turquesa.webp
+  alt: "Catamarán visto desde arriba sobre aguas turquesa"
 - src: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
   alt: "Catamarán con redes en la proa visto desde arriba"
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp

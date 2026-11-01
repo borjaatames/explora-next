@@ -93,6 +93,7 @@ galeria:
   alt: "Acantilado de Formentor al anochecer"
 - src: /images/actividades/mallorca/fma-formentor/faro-formentor-carretera.webp
   alt: "Faro de Formentor en el extremo del cabo"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en marzo de 2027.'
 ---
 
 ## Qué vas a ver

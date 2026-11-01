@@ -67,7 +67,7 @@ keywords:
 ratingProveedor: 4.5
 numeroOpiniones: 172
 atraccionesRelacionadas: []
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'

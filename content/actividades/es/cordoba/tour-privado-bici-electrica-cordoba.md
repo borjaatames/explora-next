@@ -78,11 +78,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/cordoba/bici/fvc-bicicletas-blancas-aparcadas.webp
-imagenAlt: "Bicicletas de paseo aparcadas en fila"
+imagen: /images/actividades/cordoba/bici/fvc-puente-romano-desde-calahorra.webp
+imagenAlt: "Puente Romano y casco histórico de Córdoba vistos desde la Calahorra"
 galeria:
-- src: /images/actividades/cordoba/bici/fvc-puente-romano-desde-calahorra.webp
-  alt: "Puente Romano y casco histórico de Córdoba vistos desde la Calahorra"
+- src: /images/actividades/cordoba/bici/fvc-bicicletas-blancas-aparcadas.webp
+  alt: "Bicicletas de paseo aparcadas en fila"
 - src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
   alt: "Patio de los Naranjos de la Mezquita-Catedral"
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp

@@ -100,6 +100,7 @@ galeria:
   alt: "Vista de Tossa desde las murallas de la Vila Vella"
 - src: /images/actividades/girona/tossa-de-mar/tossa-de-mar-07.webp
   alt: "Calle con terrazas dentro de la Vila Vella de Tossa"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## Qué vas a ver

@@ -66,13 +66,13 @@ keywords:
 - catedral granada entradas
 - catedral granada audioguia
 - que ver en granada catedral
-imagen: /images/actividades/granada/catedral/granada-catedral-04.webp
-imagenAlt: Fachada de la Catedral de Granada
+imagen: /images/actividades/granada/catedral/granada-catedral-01.webp
+imagenAlt: Capilla de Nuestra Señora de las Angustias, Catedral de Granada
 galeria:
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
   alt: Fachada principal de la Catedral de Granada, obra de Alonso Cano
-- src: /images/actividades/granada/catedral/granada-catedral-01.webp
-  alt: Capilla de Nuestra Señora de las Angustias, Catedral de Granada
+- src: /images/actividades/granada/catedral/granada-catedral-04.webp
+  alt: Fachada de la Catedral de Granada
 - src: /images/actividades/granada/catedral/granada-catedral-02.webp
   alt: Interior de la Catedral de Granada
 - src: /images/actividades/granada/catedral/granada-catedral-06.webp

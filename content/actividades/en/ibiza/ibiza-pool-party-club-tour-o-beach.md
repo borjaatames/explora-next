@@ -90,6 +90,7 @@ galeria:
   alt: "Sant Antoni promenade lit up at night"
 - src: /images/actividades/ibiza/fiesta/fi2-pista-discoteca-luces.webp
   alt: "Nightclub dance floor with mirror ball and lights"
+avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 
 ## What you will see

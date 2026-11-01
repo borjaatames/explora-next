@@ -88,11 +88,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/via-ferrata/fgc-escaladores-via-ferrata-roca.webp
-imagenAlt: "Climbers making their way along a via ferrata on a rock face"
+imagen: /images/actividades/gran-canaria/via-ferrata/fgc-escaladora-bajo-desplome.webp
+imagenAlt: "A climber with a helmet under a rock overhang"
 galeria:
-- src: /images/actividades/gran-canaria/via-ferrata/fgc-escaladora-bajo-desplome.webp
-  alt: "A climber with a helmet under a rock overhang"
+- src: /images/actividades/gran-canaria/via-ferrata/fgc-escaladores-via-ferrata-roca.webp
+  alt: "Climbers making their way along a via ferrata on a rock face"
 - src: /images/actividades/gran-canaria/via-ferrata/fgc-mosquetones-cable-acero.webp
   alt: "Carabiners clipped to the steel cable of a via ferrata"
 - src: /images/actividades/gran-canaria/via-ferrata/fgc-barrancos-sur-gran-canaria.webp

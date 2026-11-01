@@ -102,6 +102,7 @@ galeria:
   alt: "La costa norte de Gran Canaria con La Isleta al fondo"
 - src: /images/actividades/gran-canaria/costa-norte/fgc-piscina-natural-roca-aerea.webp
   alt: "Piscina natural entre rocas volcánicas junto al océano"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en marzo de 2027.'
 ---
 
 ## Qué vas a ver

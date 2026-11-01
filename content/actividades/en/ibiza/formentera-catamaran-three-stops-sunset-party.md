@@ -115,6 +115,7 @@ galeria:
   alt: "Sunset over the islets off Ibiza"
 - src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-04.webp
   alt: "Ibiza bay with sailboats at sunset"
+avisoReserva: 'Seasonal activity: the next available dates start in April 2027.'
 ---
 
 ## What you will see

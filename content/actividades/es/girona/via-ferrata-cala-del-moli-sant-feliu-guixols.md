@@ -95,8 +95,6 @@ galeria:
   alt: "Bahía de Sant Feliu de Guíxols vista desde la costa"
 - src: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-escaladora-casco.webp
   alt: "Escaladora con casco y arnés en una vía ferrata"
-- src: /images/actividades/girona/fgi-sant-feliu/fgi-sant-feliu-playa-puerto.webp
-  alt: "Playa y puerto deportivo de Sant Feliu de Guíxols"
 - src: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-mosquetones-cable.webp
   alt: "Mosquetones enganchados al cable de vida de una vía ferrata"
 - src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp

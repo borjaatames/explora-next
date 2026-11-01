@@ -97,6 +97,7 @@ galeria:
   alt: "Banco de peces sobre la posidonia"
 - src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
   alt: "Paddle surf sobre el agua azul del Mediterráneo"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## Qué vas a ver

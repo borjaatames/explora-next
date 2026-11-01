@@ -94,6 +94,7 @@ galeria:
   alt: "Sant Antoni promenade lit up at night"
 - src: /images/actividades/ibiza/bici/fi2-dalt-vila-noche-puerto.webp
   alt: "Dalt Vila lit up at night from the harbour"
+avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 
 ## What you will see

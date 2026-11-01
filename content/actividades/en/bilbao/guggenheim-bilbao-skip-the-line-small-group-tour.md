@@ -77,11 +77,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
-imagenAlt: "Guggenheim Museum Bilbao by the river and La Salve bridge"
+imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-jardines.webp
+imagenAlt: "Exterior of the Guggenheim Museum Bilbao seen from the gardens"
 galeria:
-- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-jardines.webp
-  alt: "Exterior of the Guggenheim Museum Bilbao seen from the gardens"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
+  alt: "Guggenheim Museum Bilbao by the river and La Salve bridge"
 - src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
   alt: "Titanium facade of the Guggenheim Museum Bilbao"
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-detalle.webp

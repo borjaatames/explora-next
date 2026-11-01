@@ -76,11 +76,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaran-navegando-vela.webp
-imagenAlt: "Catamaran under sail on the open sea"
+imagen: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaranes-en-el-mar.webp
+imagenAlt: "Catamarans and boats sailing in turquoise water"
 galeria:
-- src: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaranes-en-el-mar.webp
-  alt: "Catamarans and boats sailing in turquoise water"
+- src: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaran-navegando-vela.webp
+  alt: "Catamaran under sail on the open sea"
 - src: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaran-fondeado-aereo.webp
   alt: "Catamaran anchored in turquoise water seen from above"
 - src: /images/actividades/fuerteventura/esnorquel/ffv-fondo-marino-transparente.webp

@@ -105,6 +105,7 @@ galeria:
   alt: "Cala Gració beach, Sant Antoni"
 - src: /images/actividades/ibiza/llaut/fi2-cala-salada-atardecer.webp
   alt: "Sunset at Cala Salada"
+avisoReserva: 'Seasonal activity: the next available dates start in April 2027.'
 ---
 
 ## What you will see

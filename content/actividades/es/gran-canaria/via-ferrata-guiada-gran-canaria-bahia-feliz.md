@@ -88,11 +88,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/via-ferrata/fgc-escaladores-via-ferrata-roca.webp
-imagenAlt: "Escaladores avanzando por una vía ferrata en pared de roca"
+imagen: /images/actividades/gran-canaria/via-ferrata/fgc-escaladora-bajo-desplome.webp
+imagenAlt: "Escaladora con casco bajo un desplome de roca"
 galeria:
-- src: /images/actividades/gran-canaria/via-ferrata/fgc-escaladora-bajo-desplome.webp
-  alt: "Escaladora con casco bajo un desplome de roca"
+- src: /images/actividades/gran-canaria/via-ferrata/fgc-escaladores-via-ferrata-roca.webp
+  alt: "Escaladores avanzando por una vía ferrata en pared de roca"
 - src: /images/actividades/gran-canaria/via-ferrata/fgc-mosquetones-cable-acero.webp
   alt: "Mosquetones enganchados al cable de acero de una vía ferrata"
 - src: /images/actividades/gran-canaria/via-ferrata/fgc-barrancos-sur-gran-canaria.webp

@@ -105,6 +105,7 @@ galeria:
   alt: "Playa de Cala Gració, en Sant Antoni"
 - src: /images/actividades/ibiza/llaut/fi2-cala-salada-atardecer.webp
   alt: "Puesta de sol en Cala Salada"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en abril de 2027.'
 ---
 
 ## Qué vas a ver

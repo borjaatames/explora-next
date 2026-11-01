@@ -76,11 +76,11 @@ keywords:
 - caminito del rey entrada guia
 - caminito del rey sin transporte
 - caminito del rey tickets
-imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
-imagenAlt: Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes
+imagen: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
+imagenAlt: Desfiladero de los Gaitanes desde las pasarelas
 galeria:
-- src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
-  alt: Desfiladero de los Gaitanes desde las pasarelas
+- src: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
+  alt: Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes
 - src: /images/actividades/malaga/caminito-del-rey/garganta.webp
   alt: La garganta del río Guadalhorce
 - src: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp

@@ -92,6 +92,7 @@ galeria:
   alt: "Traditional boat hauled up on the rocks in Ibiza"
 - src: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
   alt: "Turquoise cove surrounded by pine trees in Ibiza"
+avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 
 ## What you will see

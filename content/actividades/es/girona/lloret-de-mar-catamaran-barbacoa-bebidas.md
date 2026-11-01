@@ -100,6 +100,7 @@ galeria:
   alt: "El Mediterráneo a ras de agua junto a la costa rocosa"
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
   alt: "Playa principal de Lloret de Mar con rocas en primer plano"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## Qué vas a ver

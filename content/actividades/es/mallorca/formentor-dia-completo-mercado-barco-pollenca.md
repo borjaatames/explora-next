@@ -99,6 +99,7 @@ galeria:
   alt: "Carretera de curvas hacia el cabo de Formentor"
 - src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
   alt: "Sobrasada, embutido típico de Mallorca"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en abril de 2027.'
 ---
 
 ## Qué vas a ver

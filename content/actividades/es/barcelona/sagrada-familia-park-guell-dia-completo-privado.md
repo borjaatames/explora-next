@@ -82,8 +82,8 @@ keywords:
 - sagrada familia y park guell en un dia
 - guia privado barcelona
 - tour barcelona con entradas
-imagen: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
-imagenAlt: Terraza con el banco ondulado de mosaico del Park Güell y vistas de Barcelona y el mar al fondo
+imagen: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp
+imagenAlt: El dragón de mosaico en la escalinata de entrada del Park Güell
 ratingProveedor: 4.8
 numeroOpiniones: 952
 publicada: true
@@ -95,8 +95,8 @@ galeria:
   alt: Grupo del tour ante la fachada de la Sagrada Familia
 - src: https://imgcdn.bokun.tools/66d435c2-5ead-47f0-bf25-530c7e8ef76f.jpg
   alt: Columnas y vidrieras iluminadas en el interior de la Sagrada Familia
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero-hero.webp
-  alt: El dragón de mosaico en la escalinata de entrada del Park Güell
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
+  alt: Terraza con el banco ondulado de mosaico del Park Güell y vistas de Barcelona y el mar al fondo
 - src: https://imgcdn.bokun.tools/c6c6edcc-55e7-4a01-875c-568bc55c7c77.jpg
   alt: Viajeros en el pórtico de columnas inclinadas del Park Güell
 - src: https://imgcdn.bokun.tools/3cf55353-718f-4498-b82b-9f2475694830.jpg

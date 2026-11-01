@@ -8,7 +8,7 @@ slugs:
   en: san-jose-caves-boat-guide-from-valencia
 duracion: 4 hours
 duracionMinutos: 240
-precioDesde: 69
+precioDesde: 49
 moneda: EUR
 idiomas:
 - fr

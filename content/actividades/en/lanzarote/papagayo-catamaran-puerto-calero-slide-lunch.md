@@ -83,11 +83,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/catamaran/flz-cenital-turquesa.webp
-imagenAlt: "Catamaran seen from above over turquoise water"
+imagen: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+imagenAlt: "Papagayo cove seen from the cliff"
 galeria:
-- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
-  alt: "Papagayo cove seen from the cliff"
+- src: /images/actividades/lanzarote/catamaran/flz-cenital-turquesa.webp
+  alt: "Catamaran seen from above over turquoise water"
 - src: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
   alt: "Catamaran with bow nets seen from above"
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp

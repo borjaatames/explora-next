@@ -82,8 +82,6 @@ imagenAlt: "Proa de una barca navegando por el lago de la Albufera al atardecer"
 galeria:
 - src: /images/actividades/valencia/albufera/fvc-embarcadero-barcas-canal.webp
   alt: "Embarcadero con barcas tradicionales en un canal de la Albufera"
-- src: /images/actividades/valencia/albufera/canal-albufera-barcas-tipicas.webp
-  alt: "Barcas típicas amarradas en un canal de la Albufera"
 - src: /images/actividades/valencia/albufera/fvc-barca-amarrada-lago.webp
   alt: "Barca amarrada en las aguas abiertas del lago de la Albufera"
 - src: /images/actividades/valencia/albufera/fvc-garzas-arrozal.webp

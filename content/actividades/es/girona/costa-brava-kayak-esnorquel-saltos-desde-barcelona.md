@@ -111,6 +111,7 @@ galeria:
   alt: "Acantilados y calas de la Costa Brava"
 - src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
   alt: "Bahía de Sant Feliu de Guíxols vista desde la costa"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## Qué vas a ver

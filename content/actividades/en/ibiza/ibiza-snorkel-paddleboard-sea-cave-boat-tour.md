@@ -69,11 +69,11 @@ keywords:
 - snorkelling ibiza san antonio
 - ibiza paddleboard boat trip
 - ibiza coves boat tour
-imagen: /images/actividades/ibiza/mar/esnorquel.webp
-imagenAlt: Snorkelling over a seagrass meadow
+imagen: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
+imagenAlt: Cala de Ibiza rodeada de pinos con aguas turquesas
 galeria:
-- src: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
-  alt: Cala de Ibiza rodeada de pinos con aguas turquesas
+- src: /images/actividades/ibiza/mar/esnorquel.webp
+  alt: Snorkelling over a seagrass meadow
 - src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
   alt: Barca varada entre rocas en una cala de Ibiza
 - src: /images/actividades/ibiza/mar/paddle-surf-cala.webp

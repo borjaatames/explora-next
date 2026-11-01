@@ -94,6 +94,7 @@ galeria:
   alt: "Snorkelling over a seagrass meadow"
 - src: /images/actividades/ibiza/mar/fi1-paddle-surf-aereo.webp
   alt: "Stand-up paddleboarding at sea seen from above"
+avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 
 ## What you will see

@@ -69,11 +69,11 @@ keywords:
 - snorkel ibiza sant antoni
 - paddle surf ibiza barco
 - excursion barco calas ibiza
-imagen: /images/actividades/ibiza/mar/esnorquel.webp
-imagenAlt: Esnórquel sobre una pradera marina
+imagen: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
+imagenAlt: Cala de Ibiza rodeada de pinos con aguas turquesas
 galeria:
-- src: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
-  alt: Cala de Ibiza rodeada de pinos con aguas turquesas
+- src: /images/actividades/ibiza/mar/esnorquel.webp
+  alt: Esnórquel sobre una pradera marina
 - src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
   alt: Barca varada entre rocas en una cala de Ibiza
 - src: /images/actividades/ibiza/mar/paddle-surf-cala.webp

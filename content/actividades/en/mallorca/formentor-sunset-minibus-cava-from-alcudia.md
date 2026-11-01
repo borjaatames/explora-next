@@ -93,6 +93,7 @@ galeria:
   alt: "Formentor cliff at dusk"
 - src: /images/actividades/mallorca/fma-formentor/faro-formentor-carretera.webp
   alt: "Formentor lighthouse at the tip of the cape"
+avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 ---
 
 ## What you will see

@@ -77,11 +77,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
-imagenAlt: "Museo Guggenheim Bilbao junto a la ría y el puente de La Salve"
+imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-jardines.webp
+imagenAlt: "Exterior del Museo Guggenheim Bilbao visto desde los jardines"
 galeria:
-- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-jardines.webp
-  alt: "Exterior del Museo Guggenheim Bilbao visto desde los jardines"
+- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
+  alt: "Museo Guggenheim Bilbao junto a la ría y el puente de La Salve"
 - src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
   alt: "Fachada de titanio del Museo Guggenheim Bilbao"
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-detalle.webp

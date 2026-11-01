@@ -85,21 +85,19 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/catamaran/fgc-catamaran-fondeado-aguas-turquesa.webp
-imagenAlt: "Catamaran at anchor in turquoise water"
+imagen: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
+imagenAlt: "Bow of a catamaran over clear water"
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: "The harbour of Puerto Rico de Gran Canaria, the departure point"
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
   alt: "Rocky coastline in south-west Gran Canaria"
-- src: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
-  alt: "Bow of a catamaran over clear water"
+- src: /images/actividades/gran-canaria/catamaran/fgc-catamaran-fondeado-aguas-turquesa.webp
+  alt: "Catamaran at anchor in turquoise water"
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: "Rocky seabed under crystal-clear water, ideal for snorkelling"
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
   alt: "Cliffs and houses on the Mogán coast seen from the sea"
-- src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
-  alt: "View of the Puerto Rico de Gran Canaria marina"
 ---
 
 ## What you will see

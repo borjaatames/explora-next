@@ -91,6 +91,7 @@ galeria:
   alt: "Panorámica de los tejados de Ourense"
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-mirador-canon-sil.webp
   alt: "Vista del cañón del Sil desde un mirador"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en marzo de 2027.'
 ---
 
 ## Qué vas a ver

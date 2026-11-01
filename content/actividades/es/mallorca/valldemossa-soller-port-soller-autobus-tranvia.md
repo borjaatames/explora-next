@@ -95,6 +95,7 @@ galeria:
   alt: "Barcos en el puerto de Port de Sóller"
 - src: /images/actividades/mallorca/fma-soller/bahia-port-soller-paseo.webp
   alt: "Bahía de Port de Sóller desde el paseo"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en marzo de 2027.'
 ---
 
 ## Qué vas a ver

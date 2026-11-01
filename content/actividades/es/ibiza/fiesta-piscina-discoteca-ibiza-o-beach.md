@@ -90,6 +90,7 @@ galeria:
   alt: "Paseo de Sant Antoni iluminado de noche"
 - src: /images/actividades/ibiza/fiesta/fi2-pista-discoteca-luces.webp
   alt: "Pista de baile de una discoteca con bola de espejos y focos"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## Qué vas a ver

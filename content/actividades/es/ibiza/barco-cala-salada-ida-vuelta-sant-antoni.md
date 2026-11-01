@@ -92,6 +92,7 @@ galeria:
   alt: "Barca tradicional varada entre las rocas en Ibiza"
 - src: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
   alt: "Cala de aguas turquesas rodeada de pinos en Ibiza"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## Qué vas a ver

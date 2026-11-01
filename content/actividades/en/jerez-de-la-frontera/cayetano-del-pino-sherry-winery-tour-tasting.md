@@ -68,7 +68,7 @@ numeroOpiniones: 59
 atraccionesRelacionadas:
 - bodegas
 - centro
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'
@@ -86,6 +86,7 @@ galeria:
   alt: "Corner of a historic church in Jerez old town"
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-cielo-azul.webp
   alt: "Dome and balustrades of Jerez Cathedral"
+reemplazadaPor: cayetano-del-pino-sherry-winery-jerez-tasting
 ---
 
 ## What you will see

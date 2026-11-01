@@ -102,6 +102,7 @@ galeria:
   alt: "Oleaje del Atlántico bajo un cielo de nubes en la costa norte de Gran Canaria"
 - src: /images/actividades/gran-canaria/costa-norte/fgc-orilla-atardecer-norte.webp
   alt: "Orilla de la costa norte de Gran Canaria al caer la tarde"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## Qué vas a ver

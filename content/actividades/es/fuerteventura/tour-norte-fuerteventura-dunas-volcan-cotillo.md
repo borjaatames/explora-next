@@ -82,8 +82,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-1.webp
-imagenAlt: "Horizonte de las Dunas de Corralejo"
+imagen: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-3.webp
+imagenAlt: "Matas sobre la arena de las Dunas de Corralejo"
 galeria:
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-6.webp
   alt: "Arbusto en lo alto de una duna de Corralejo"
@@ -95,8 +95,8 @@ galeria:
   alt: "Costa de El Cotillo"
 - src: /images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp
   alt: "Puerto viejo de El Cotillo"
-- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-3.webp
-  alt: "Matas sobre la arena de las Dunas de Corralejo"
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-1.webp
+  alt: "Horizonte de las Dunas de Corralejo"
 ---
 
 ## Qué vas a ver

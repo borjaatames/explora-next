@@ -108,6 +108,7 @@ galeria:
   alt: "Varaderos de madera de Es Caló de Sant Agustí, en Formentera"
 - src: /images/actividades/ibiza/formentera/migjorn.webp
   alt: "Playa de Migjorn, en Formentera"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en julio de 2027.'
 ---
 
 ## Qué vas a ver

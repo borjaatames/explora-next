@@ -97,6 +97,7 @@ galeria:
   alt: "Vista aérea de la bahía de Cadaqués con barcos fondeados"
 - src: /images/actividades/girona/fgi-cap-creus/fgi-cap-creus-silueta-atardecer.webp
   alt: "Silueta de las montañas del Cap de Creus al atardecer"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en enero de 2027.'
 ---
 
 ## Qué vas a ver

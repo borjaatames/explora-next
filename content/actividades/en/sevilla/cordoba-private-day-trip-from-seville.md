@@ -65,13 +65,13 @@ keywords:
 - cordoba private day trip from seville
 - cordoba tour from seville
 - cordoba mosque private tour
-imagen: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-interior-columnas-ar-hero.webp
-imagenAlt: Two-tone arches and columns of the Córdoba Mosque-Cathedral
+imagen: /images/actividades/cordoba/juderia/calleja-flores.webp
+imagenAlt: 'Calleja de las Flores with blue flowerpots'
 galeria:
 - src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-rio-puente-romano-panorama-02-hero.webp
   alt: 'The Roman Bridge and the Mosque over the Guadalquivir'
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: 'Calleja de las Flores with blue flowerpots'
+- src: /images/actividades/granada/cordoba-mezquita-desde-granada/cordoba-mezquita-desde-granada-mezquita-interior-columnas-ar-hero.webp
+  alt: Two-tone arches and columns of the Córdoba Mosque-Cathedral
 - src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
   alt: 'The Courtyard of the Orange Trees at the Córdoba Mosque-Cathedral'
 - src: /images/actividades/cordoba/mezquita/bosque-arcos-bicolores.webp

@@ -83,11 +83,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/mallorca/fma-barco-bahia/catamaran-fondeado-agua-turquesa.webp
-imagenAlt: "Catamaran anchored in turquoise water, aerial view"
+imagen: /images/actividades/mallorca/fma-palma/catedral-palma-desde-mar.webp
+imagenAlt: "Palma Cathedral seen from the sea"
 galeria:
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-desde-mar.webp
-  alt: "Palma Cathedral seen from the sea"
+- src: /images/actividades/mallorca/fma-barco-bahia/catamaran-fondeado-agua-turquesa.webp
+  alt: "Catamaran anchored in turquoise water, aerial view"
 - src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
   alt: "Person snorkelling over a rocky seabed"
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-mar-abierto.webp
@@ -100,6 +100,7 @@ galeria:
   alt: "Seabed with rocks under crystal-clear water"
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-lancha-agua-verde.webp
   alt: "Catamaran and tender on green-turquoise water"
+avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 ---
 
 ## What you will see

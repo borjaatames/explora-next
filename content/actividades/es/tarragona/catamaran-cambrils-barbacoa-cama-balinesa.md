@@ -80,13 +80,13 @@ ratingProveedor: 4.5
 numeroOpiniones: 1311
 atraccionesRelacionadas:
 - costa
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/tarragona/catamaran-barbacoa/fta-catamaran-vela-mar-abierto.webp
-imagenAlt: "Catamarán de vela navegando en mar abierto"
+imagen: /images/actividades/tarragona/costa/catamaran-pasajeros-cubierta.webp
+imagenAlt: "Pasajeros en la cubierta de un catamarán fondeado"
 galeria:
 - src: /images/actividades/tarragona/catamaran-barbacoa/fta-puerto-cambrils-paseo.webp
   alt: "Puerto de Cambrils con el paseo marítimo al fondo"
@@ -94,8 +94,8 @@ galeria:
   alt: "Catamarán amarrado en el puerto de Cambrils"
 - src: /images/actividades/tarragona/costa/cap-salou.webp
   alt: "Mar abierto frente al Cap de Salou"
-- src: /images/actividades/tarragona/costa/catamaran-pasajeros-cubierta.webp
-  alt: "Pasajeros en la cubierta de un catamarán fondeado"
+- src: /images/actividades/tarragona/catamaran-barbacoa/fta-catamaran-vela-mar-abierto.webp
+  alt: "Catamarán de vela navegando en mar abierto"
 - src: /images/actividades/tarragona/costa/punta-grossa.webp
   alt: "Mirador de Punta Grossa sobre el mar"
 - src: /images/actividades/tarragona/costa/catamaran-bano-mar-abierto.webp

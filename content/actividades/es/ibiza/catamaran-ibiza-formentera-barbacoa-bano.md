@@ -100,6 +100,7 @@ galeria:
   alt: "Cubierta de un catamarán fondeado sobre fondo de posidonia"
 - src: /images/actividades/ibiza/atardecer/velero-atardecer.webp
   alt: "Velero al atardecer frente a Es Vedrà"
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 
 ## Qué vas a ver

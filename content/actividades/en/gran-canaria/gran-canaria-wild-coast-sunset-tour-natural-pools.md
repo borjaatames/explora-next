@@ -102,6 +102,7 @@ galeria:
   alt: "Atlantic waves under a cloudy sky on the north coast of Gran Canaria"
 - src: /images/actividades/gran-canaria/costa-norte/fgc-orilla-atardecer-norte.webp
   alt: "The north coast of Gran Canaria at dusk"
+avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 
 ## What you will see

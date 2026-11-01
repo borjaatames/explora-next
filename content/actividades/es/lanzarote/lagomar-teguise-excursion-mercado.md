@@ -17,7 +17,7 @@ proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t422024/?partner_id=C71NOAW
 cancelacionGratuita: true
 horasCancelacion: 24
-avisoReserva: 'La entrada a LagOmar depende de la opción que elijas: revisa si está incluida antes de pagar. El mercado de Teguise es solo los domingos.'
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en julio de 2027.'
 highlights:
 - Visita guiada a LagOmar, una casa integrada en la lava
 - La leyenda de Omar Sharif ligada a la casa

@@ -102,6 +102,7 @@ galeria:
   alt: "The north coast of Gran Canaria with La Isleta behind"
 - src: /images/actividades/gran-canaria/costa-norte/fgc-piscina-natural-roca-aerea.webp
   alt: "Natural rock pool among volcanic rocks by the ocean"
+avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 ---
 
 ## What you will see

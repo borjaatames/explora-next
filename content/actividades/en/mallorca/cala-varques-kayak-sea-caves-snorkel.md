@@ -106,6 +106,7 @@ galeria:
   alt: "Rocks and surf on the Cala Varques coast"
 - src: /images/actividades/mallorca/fma-cala-varques/cala-varques-desde-pinar.webp
   alt: "Cala Varques seen from the pine woods"
+avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 
 ## What you will see

@@ -52,7 +52,7 @@ informacionImportante:
   - No se permiten sandalias ni chanclas
 accesibilidad: No es accesible en silla de ruedas.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.
-avisoReserva: El precio es por quad, para un grupo de hasta 2 personas.
+avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en marzo de 2027.'
 preguntasFrecuentes:
 - pregunta: ¿El precio es por persona?
   respuesta: No, es por quad para hasta 2 personas.

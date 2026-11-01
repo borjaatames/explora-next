@@ -102,8 +102,6 @@ galeria:
   alt: "Rocky seabed under crystal-clear water"
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
   alt: "Fish over the sandy seabed in Gran Canaria waters"
-- src: /images/actividades/gran-canaria/mogan/fgc-puerto-mogan-playa-puerto.webp
-  alt: "The beach and marina of Puerto de Mogán"
 ---
 
 ## What you will see
