@@ -68,6 +68,48 @@ export const PROVEEDORES_LOCALES: ReadonlyArray<ProveedorLocal> = [
       },
     ],
   },
+  {
+    id: "show-me-barcelona",
+    nombre: "Show Me Barcelona",
+    // URL indicada por Show Me Barcelona (Mofie) el 01-11-2026.
+    web: "https://showmebarcelona.co",
+    ciudades: {
+      es: "Barcelona",
+      en: "Barcelona",
+      de: "Barcelona",
+    },
+    descripcion: {
+      es: "Experiencias sociales en Barcelona: paseo en barco y a pie, tapas con paella y sangría, bici y tapas, sip & paint, catas de cerveza y noche de karaoke.",
+      en: "Social experiences in Barcelona: boat cruise and walking tour, tapas with paella and sangria, bike and tapas, sip & paint, beer tastings and a karaoke night out.",
+      de: "Gesellige Erlebnisse in Barcelona: Bootsfahrt mit Stadtrundgang, Tapas mit Paella und Sangria, Rad und Tapas, Sip & Paint, Bierverkostung und Karaoke-Nacht.",
+    },
+    actividades: [
+      {
+        ciudad: "barcelona",
+        slugEs: "barcelona-paseo-en-barco-y-tour-guiado-a-pie",
+        slugEn: "barcelona-boat-cruise-and-guided-walking-tour",
+        nombre: { es: "Barco y paseo a pie", en: "Boat cruise and walking tour", de: "Bootsfahrt und Rundgang" },
+      },
+      {
+        ciudad: "barcelona",
+        slugEs: "barcelona-tour-tapas-paella-sangria-casco-antiguo",
+        slugEn: "barcelona-tapas-tour-paella-sangria-old-town",
+        nombre: { es: "Tapas, paella y sangría", en: "Tapas, paella and sangria", de: "Tapas, Paella und Sangria" },
+      },
+      {
+        ciudad: "barcelona",
+        slugEs: "barcelona-tour-en-bici-y-tapas",
+        slugEn: "barcelona-social-bike-tour-and-tapas",
+        nombre: { es: "Bici y tapas", en: "Bike and tapas", de: "Rad und Tapas" },
+      },
+      {
+        ciudad: "barcelona",
+        slugEs: "barcelona-sip-and-paint-sangria",
+        slugEn: "barcelona-sip-and-paint-with-sangria",
+        nombre: { es: "Sip & Paint", en: "Sip & Paint", de: "Sip & Paint" },
+      },
+    ],
+  },
 ];
 
 /** Ruta de la página de proveedores en cada idioma. */
