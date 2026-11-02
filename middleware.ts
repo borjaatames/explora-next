@@ -54,15 +54,15 @@ export const config = {
 };
 
 /**
- * Idioma de la home según el idioma principal del navegador (decisión de
- * Borja, 30-10-2026):
- *   - español y lenguas de España, y portugués (Portugal y Brasil, ámbito
- *     iberoamericano) → español;
- *   - alemán → alemán;
+ * Idioma de la home según el idioma principal del navegador:
+ *   - español y lenguas de España → español;
+ *   - alemán, francés, italiano y portugués (Portugal y Brasil) → su idioma
+ *     (decisión de Borja, 2-11-2026; antes FR/IT iban a inglés y PT a español);
  *   - cualquier otro → inglés.
  * Sin cabecera Accept-Language → español.
  */
-const IDIOMAS_A_ESPANOL = new Set(["es", "ca", "gl", "eu", "pt"]);
+const IDIOMAS_A_ESPANOL = new Set(["es", "ca", "gl", "eu"]);
+const IDIOMAS_PROPIOS: ReadonlySet<string> = new Set(["de", "fr", "it", "pt"]);
 
 function detectarIdiomaNavegador(req: NextRequest): Idioma {
   const acceptLanguage = req.headers.get("accept-language");
@@ -71,7 +71,7 @@ function detectarIdiomaNavegador(req: NextRequest): Idioma {
   const principal = acceptLanguage.split(",")[0].split(";")[0].trim().toLowerCase().split("-")[0];
   if (!principal || principal === "*") return IDIOMA_DEFECTO;
   if (IDIOMAS_A_ESPANOL.has(principal)) return "es";
-  if (principal === "de") return "de";
+  if (IDIOMAS_PROPIOS.has(principal)) return principal as Idioma;
   return "en";
 }
 
