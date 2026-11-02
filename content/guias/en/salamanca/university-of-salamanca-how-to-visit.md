@@ -20,6 +20,9 @@ slugs:
   es: universidad-de-salamanca-como-visitar
   en: university-of-salamanca-how-to-visit
   de: universidad-de-salamanca-besichtigen
+  fr: universite-de-salamanque-comment-la-visiter
+  it: universita-di-salamanca-come-visitarla
+  pt: universidade-de-salamanca-como-visitar
 reservasArriba: true
 respuestaCorta: 'Entry to the **Edificio Histórico costs €10** (€5 reduced) and is **free on Monday afternoons**, though the queue is long and entry isn''t guaranteed. The Plateresque façade with the frog and the **Cielo de Salamanca** are free. Allow **2.5 hours**; the Historic Library is seen only through glass. A guided tour with ticket starts at €12.'
 actividades:

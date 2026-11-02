@@ -23,6 +23,7 @@ slugs:
   de: straende-costa-de-la-luz-cadiz
   fr: plages-cadix-costa-de-la-luz
   it: spiagge-cadice-costa-de-la-luz
+  pt: praias-de-cadis-costa-de-la-luz
 actividades:
   - catamaran-cadiz-atardecer
   - avistamiento-delfines-trafalgar-barbate

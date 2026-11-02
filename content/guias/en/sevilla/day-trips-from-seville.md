@@ -20,6 +20,9 @@ keywords:
 slugs:
   es: excursiones-desde-sevilla
   en: day-trips-from-seville
+  fr: excursions-depuis-seville
+  it: escursioni-da-siviglia
+  pt: excursoes-a-partir-de-sevilha
 reservasArriba: true
 actividades:
   - pueblos-blancos-ronda-excursion-dia-desde-sevilla

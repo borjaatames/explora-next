@@ -22,6 +22,9 @@ slugs:
   es: comer-en-mallorca
   en: eating-in-mallorca
   de: essen-auf-mallorca
+  fr: ou-manger-a-majorque
+  it: dove-mangiare-a-maiorca
+  pt: comer-em-maiorca
 actividades:
   - palma-tour-gastronomico-casco-antiguo
   - palma-ruta-gourmet-vino-tapas-autoguiada

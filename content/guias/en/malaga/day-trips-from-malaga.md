@@ -20,6 +20,9 @@ slugs:
   es: escapadas-desde-malaga
   en: day-trips-from-malaga
   de: ausfluege-ab-malaga
+  fr: escapades-depuis-malaga
+  it: gite-da-malaga
+  pt: escapadinhas-desde-malaga
 reservasArriba: true
 actividades:
   - caminito-del-rey-guiado-desde-malaga

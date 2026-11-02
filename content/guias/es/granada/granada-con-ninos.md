@@ -21,6 +21,9 @@ slugs:
   es: granada-con-ninos
   en: granada-with-kids
   de: granada-mit-kindern
+  fr: grenade-avec-des-enfants
+  it: granada-con-bambini
+  pt: granada-com-criancas
 reservasArriba: true
 respuestaCorta: 'Granada funciona con niños si recortas: **Alhambra parcial** (Generalife, Alcazaba y dos o tres salas de los Nazaríes), el **Parque de las Ciencias** y el Albaicín de día, nunca al mediodía de verano. Ojo: los **Palacios Nazaríes no admiten carritos** (hay consigna gratuita y mochilas portabebés en préstamo).'
 actividades:

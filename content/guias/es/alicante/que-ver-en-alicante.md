@@ -23,6 +23,7 @@ slugs:
   en: what-to-see-in-alicante
   de: was-sehen-in-alicante
   fr: que-voir-a-alicante
+  it: cosa-vedere-ad-alicante
   pt: o-que-ver-em-alicante
 reservasArriba: true
 actividades:

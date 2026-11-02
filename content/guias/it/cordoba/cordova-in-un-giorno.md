@@ -20,8 +20,9 @@ slugs:
   es: cordoba-en-un-dia
   en: cordoba-in-one-day
   de: cordoba-in-einem-tag
-  it: cordova-in-un-giorno
   fr: cordoue-en-une-journee
+  it: cordova-in-un-giorno
+  pt: cordova-num-dia
 reservasArriba: true
 respuestaCorta: 'Sì, **Cordova si vede in un giorno**: la Moschea-cattedrale, il quartiere ebraico, l''Alcázar e il Ponte Romano sono a cinque minuti a piedi l''uno dall''altro. Entra nella **Moschea a prima ora**, prima del caldo e dei gruppi (tour guidato salta-fila da 32 €). Il periodo migliore va da aprile a giugno o a settembre e ottobre; a luglio e agosto si sfiorano i 40 °C.'
 opciones:

@@ -24,6 +24,8 @@ slugs:
   es: bernabeu-tour-entradas-agotadas
   en: bernabeu-stadium-tour-tickets-sold-out
   de: bernabeu-stadion-tour-tickets-ausverkauft
+  fr: visite-bernabeu-billets-epuises
+  it: tour-bernabeu-biglietti-esauriti
   pt: tour-bernabeu-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'O **Tour Bernabéu Classic** custa **37 € online** e **40 € na bilheteira** no site oficial do Real Madrid (`realmadrid.com`), com horário fixo e sem trocas nem reembolsos. Se o seu horário estiver esgotado, experimente o bilhete **Flexible Time** (44 €), válido a qualquer hora do dia escolhido, ou o **Guided Tour** (56 €), que tem lugares próprios. Antes de mais, verifique se há **jogo**: em dia de jogo o tour fecha 5,5 horas antes do início e os balneários e os bancos de suplentes ficam fechados.'

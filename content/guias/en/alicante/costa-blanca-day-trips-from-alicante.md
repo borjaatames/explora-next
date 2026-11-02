@@ -22,6 +22,9 @@ slugs:
   es: escapadas-costa-blanca-desde-alicante
   en: costa-blanca-day-trips-from-alicante
   de: costa-blanca-ausfluege-ab-alicante
+  fr: excursions-costa-blanca-depuis-alicante
+  it: gite-costa-blanca-da-alicante
+  pt: escapadinhas-costa-blanca-a-partir-de-alicante
 reservasArriba: true
 actividades:
   - excursion-guadalest-altea-algar-desde-alicante

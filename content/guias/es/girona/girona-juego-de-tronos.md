@@ -31,6 +31,9 @@ slugs:
   es: girona-juego-de-tronos
   en: girona-game-of-thrones
   de: girona-game-of-thrones
+  fr: gerone-game-of-thrones-lieux-de-tournage
+  it: girona-trono-di-spade
+  pt: girona-guerra-dos-tronos
 reservasArriba: true
 respuestaCorta: 'Girona fue **Braavos y Desembarco del Rey** en la sexta temporada. Los escenarios (la escalinata de la Catedral, El Call, Sant Pere de Galligants, las casas del Onyar) están a cinco minutos entre sí: se ven a pie en una mañana y sin pagar nada. Con guía, el **tour en grupo reducido** (4,9★, desde 35 €) compara cada escena con el lugar real en un iPad.'
 actividades:

@@ -22,8 +22,9 @@ keywords:
 slugs:
   es: madrid-en-1-dia
   en: madrid-in-1-day
-  pt: madrid-num-dia
+  fr: madrid-en-1-jour
   it: madrid-in-1-giorno
+  pt: madrid-num-dia
 reservasArriba: true
 respuestaCorta: "Num dia, faça Madrid **a pé, de leste para oeste**: **o Prado às 10h00** (15 €, 2h30), o Barrio de las Letras e almoço perto de Huertas, **Sol e a Plaza Mayor**, o **Palácio Real** à tarde (18 €; gratuito para cidadãos da UE de segunda a quinta-feira nas duas últimas horas) e **o pôr do sol no Templo de Debod**. São cerca de 5 km a pé e só o Prado precisa de reserva."
 faq:

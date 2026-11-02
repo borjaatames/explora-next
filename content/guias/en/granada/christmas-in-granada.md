@@ -24,6 +24,9 @@ slugs:
   es: navidad-granada
   en: christmas-in-granada
   de: weihnachten-granada
+  fr: noel-a-grenade
+  it: natale-a-granada
+  pt: natal-em-granada
 reservasArriba: true
 respuestaCorta: "The lights go on in **late November** (the 29th in 2025) and stay up until 7 January, with a **light and carol show on Plaza del Carmen at 19:00, 20:00 and 21:00**. The **Alhambra** opens 8:30 to 18:00 in winter and **closes only on 25 December and 1 January**; its Christmas tickets go fast. Plus: **Sierra Nevada** about 30 km away (it opened on 29 November in 2025), the **Three Kings Parade** on 5 January at 17:00 and **2 January**, the Día de la Toma, when the **Alcazaba is free** so you can ring the Torre de la Vela bell."
 faq:

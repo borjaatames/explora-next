@@ -21,8 +21,9 @@ slugs:
   es: teide-entradas-agotadas
   en: teide-tickets-sold-out
   de: teide-tickets-ausverkauft
-  it: teide-biglietti-esauriti
   fr: teide-billets-complets
+  it: teide-biglietti-esauriti
+  pt: teide-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Sono due prenotazioni separate. La **funivia** (circa 42 € andata e ritorno) si vende su `volcanoteide.com`; se è esaurita, un **tour con funivia inclusa** risolve il problema da 92 €. Il **permesso per la vetta** (15 €) si prenota su **Tenerife ON**, che libera i posti **ogni lunedì alle 7:00 per i 56 giorni successivi**. Se non riesci a ottenerlo, una notte al **rifugio di Altavista** include l''accesso alla vetta dalle 6:00 alle 9:00.'
 actividades:

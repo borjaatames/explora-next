@@ -24,6 +24,9 @@ slugs:
   es: puerto-tenerife-cruceros-que-hacer
   en: tenerife-cruise-port-guide
   de: teneriffa-kreuzfahrt-landgang
+  fr: port-de-tenerife-escale-croisiere
+  it: porto-crociere-tenerife-cosa-fare
+  pt: porto-de-tenerife-cruzeiros-o-que-fazer
 reservasArriba: true
 respuestaCorta: "Cruise ships dock at **Santa Cruz port**, on the Muelle Sur or Muelle de Enlace, a **10-20 minute walk** from Plaza de España, so you don't need a shuttle. With 4 hours, see **Santa Cruz and La Laguna** by **tram (€1.35, about 40 min)**. With 6 hours, add the **Anaga** forest. **Mount Teide** is **1 hr 15 min** away on mountain roads: only go with **8 hours or more**, and accept that the cable car can close in high winds."
 faq:

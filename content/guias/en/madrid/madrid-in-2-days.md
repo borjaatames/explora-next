@@ -22,7 +22,9 @@ keywords:
 slugs:
   es: madrid-en-2-dias
   en: madrid-in-2-days
+  fr: madrid-en-2-jours
   it: madrid-in-2-giorni
+  pt: madrid-em-2-dias
 reservasArriba: true
 respuestaCorta: '**Day 1** is historic Madrid: the **Royal Palace at 10:00** (€18), Plaza Mayor, lunch in La Latina, the **Gran Vía** and sunset at the **Temple of Debod**, with the evening in Malasaña. **Day 2** is art: the **Prado at 10:00** (€15), the **Retiro**, the **Reina Sofía** (€12, closed Tuesdays; free 19:00-21:00) and flamenco or century-old taverns at night. Book the Prado and the palace a couple of days ahead.'
 faq:

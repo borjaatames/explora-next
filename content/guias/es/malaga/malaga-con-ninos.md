@@ -20,6 +20,9 @@ slugs:
   es: malaga-con-ninos
   en: malaga-with-kids
   de: malaga-mit-kindern
+  fr: malaga-avec-des-enfants
+  it: malaga-con-bambini
+  pt: malaga-com-criancas
 reservasArriba: true
 actividades:
   - catamaran-malaga-atardecer

@@ -21,8 +21,9 @@ slugs:
   es: tarraco-romana-que-ver
   en: roman-tarraco-guide
   de: roemisches-tarraco
-  pt: tarraco-romana-o-que-ver
   fr: tarraco-romaine-que-voir
+  it: tarraco-romana-cosa-vedere
+  pt: tarraco-romana-o-que-ver
 reservasArriba: true
 respuestaCorta: 'A Tarraco romana vê-se a pé em **meio dia**: o anfiteatro junto ao mar, o circo e a Torre do Pretório, o fórum e as muralhas. O **bilhete conjunto de 15 €** inclui cinco recintos (cada um custa 5 € em separado), e os menores de 12 anos não pagam. **Todos os recintos municipais fecham às segundas-feiras**, e o aqueduto de Les Ferreres, a 4 km, é gratuito.'
 actividades:

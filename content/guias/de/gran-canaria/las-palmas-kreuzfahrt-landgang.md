@@ -24,6 +24,9 @@ slugs:
   es: puerto-las-palmas-cruceros-que-hacer
   en: las-palmas-cruise-port-guide
   de: las-palmas-kreuzfahrt-landgang
+  fr: port-croisiere-las-palmas-que-faire
+  it: porto-crociere-las-palmas-guida
+  pt: porto-de-las-palmas-cruzeiros
 reservasArriba: true
 respuestaCorta: "Kreuzfahrtschiffe legen am **Muelle de Santa Catalina** mitten in der Stadt an: Der Parque de Santa Catalina ist wenige Minuten entfernt, der **Strand Las Canteras 10-15 Minuten zu Fuß**. Die Altstadt **Vegueta** liegt etwa 4-5 km entfernt: **Stadtbus Linie 1 (1,40 €)** oder **Taxi (etwa 8-10 €)**. In 4-6 Stunden siehst du Vegueta und Las Canteras; **Roque Nublo** oder **Maspalomas** lohnen sich erst ab **8 Stunden**."
 faq:

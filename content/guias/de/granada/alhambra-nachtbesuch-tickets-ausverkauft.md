@@ -24,6 +24,9 @@ slugs:
   es: alhambra-nocturna-entradas-agotadas
   en: alhambra-night-visit-tickets-sold-out
   de: alhambra-nachtbesuch-tickets-ausverkauft
+  fr: alhambra-visite-nocturne-billets-epuises
+  it: alhambra-di-notte-biglietti-esauriti
+  pt: alhambra-visita-noturna-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Der **Nachtbesuch der Nasridenpaläste** kostet **12,73 €** auf der offiziellen Website (`tickets.alhambra-patronato.es`). Vom 15. Oktober bis 31. März gibt es ihn nur **freitags und samstags von 20 bis 21:30 Uhr**, vom 1. April bis 14. Oktober **dienstags bis samstags von 22 bis 23:30 Uhr**. Ist er ausverkauft, probier das Ticket **Alhambra Experiencias** (22,27 €), die **Granada Card 24h** (50 €) mit eigenem Kontingent oder die **Abendkasse**, die eine Stunde vorher öffnet. Sicher klappt es mit einer **geführten Nachttour mit inbegriffenem Ticket** ab 54 €.'
 actividades:

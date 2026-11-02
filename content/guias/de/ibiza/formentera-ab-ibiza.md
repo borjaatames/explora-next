@@ -19,6 +19,9 @@ slugs:
   es: formentera-desde-ibiza
   en: formentera-from-ibiza
   de: formentera-ab-ibiza
+  fr: formentera-depuis-ibiza
+  it: formentera-da-ibiza
+  pt: formentera-desde-ibiza
 actividades:
   - ferry-ida-vuelta-ibiza-formentera
 imagen_portada: "/images/guias/formentera-desde-ibiza.jpg"

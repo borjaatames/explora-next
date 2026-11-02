@@ -21,6 +21,9 @@ slugs:
   es: flamenco-barcelona-que-tablao-elegir
   en: flamenco-barcelona-which-tablao-to-choose
   de: flamenco-barcelona-welches-tablao-waehlen
+  fr: flamenco-barcelone-quel-tablao-choisir
+  it: flamenco-barcellona-quale-tablao-scegliere
+  pt: flamenco-barcelona-que-tablao-escolher
 tiempo_lectura: 4
 reservasArriba: true
 respuestaCorta: 'Por precio y horarios, **Teatro City Hall** (desde 25 €, cuatro pases al día). Por escenario, **Palau Dalmases** (30 €, palacio del siglo XVII en el Born). Para cenar durante el show, **Tablao de Carmen** (88 € con cena), y para cante y guitarra sin micrófonos en La Rambla, **Tablao Cordobés** (desde 48 €).'

@@ -21,6 +21,9 @@ slugs:
   es: portaventura-world-guia
   en: portaventura-world-guide
   de: portaventura-world-guide
+  fr: portaventura-world-guide-de-visite
+  it: portaventura-world-guida
+  pt: portaventura-world-guia-de-visita
 reservasArriba: true
 actividades:
   - portaventura-ferrari-caribe-aquatic-entrada

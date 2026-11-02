@@ -20,6 +20,9 @@ keywords:
 slugs:
   es: feria-de-abril-sevilla
   en: seville-april-fair
+  fr: feria-de-abril-seville
+  it: feria-de-abril-siviglia
+  pt: feira-de-abril-de-sevilha
 reservasArriba: true
 respuestaCorta: 'En 2027 será, a falta de confirmación oficial, del **lunes 12** (pescaíto y alumbrado a medianoche) al **domingo 18 de abril** (fuegos artificiales). Casi todas las casetas son privadas, pero las **casetas de distrito** y la **municipal** están abiertas a todo el mundo. Ve de día, entre las 14:00 y las 19:00, para ver el paseo de caballos, y llega en metro: en coche es imposible.'
 actividades:

@@ -21,6 +21,9 @@ slugs:
   es: palacio-real-madrid-entradas-agotadas
   en: royal-palace-madrid-tickets-sold-out
   de: koenigspalast-madrid-tickets-ausverkauft
+  fr: palais-royal-madrid-billets-epuises
+  it: palazzo-reale-madrid-biglietti-esauriti
+  pt: palacio-real-madrid-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Das reguläre Ticket kostet **18 €** auf `tickets.patrimonionacional.es`. Wenn dein Zeitfenster ausverkauft ist, probier eine andere Uhrzeit, die **offizielle Führung (26 €)** oder die **Kasse**, die bis eine Stunde vor Schließung verkauft. Wenn du Bürger der EU oder Iberoamerikas bist, ist der Eintritt **montags bis donnerstags in den letzten zwei Stunden kostenlos**, nur an der Kasse. Und eine **Tour mit inbegriffenem Ticket** sichert dir den Besuch ab 36 €."
 actividades:

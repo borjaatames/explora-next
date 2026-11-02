@@ -19,6 +19,8 @@ slugs:
   es: valencia-en-2-dias
   en: valencia-in-2-days
   de: valencia-in-2-tagen
+  fr: valence-en-2-jours
+  it: valencia-in-2-giorni
   pt: valencia-em-2-dias
 reservasArriba: true
 respuestaCorta: 'Dedique o **primeiro dia ao centro histórico** (Mercado Central, Lonja da Seda, Catedral e Miguelete, El Carmen) e à **Cidade das Artes e das Ciências** à tarde; o **segundo dia a La Albufera**, com passeio de barco e uma paelha a sério em El Palmar ao almoço, e depois a praia da Malvarrosa. Os bilhetes do Oceanogràfic custam desde 37 €; reserve com antecedência na época alta.'

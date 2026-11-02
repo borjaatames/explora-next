@@ -24,6 +24,7 @@ slugs:
   de: mezquita-cordoba-tickets-ausverkauft
   fr: mosquee-cordoue-billets-epuises
   it: moschea-cordova-biglietti-esauriti
+  pt: mesquita-de-cordova-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Die Mezquita ist fast nie komplett ausverkauft: Knapp werden vor allem der **Glockenturm** (22 Personen pro Durchgang), der **Nachtbesuch** und einzelne Zeitfenster an Brückentagen. Probier eine andere Uhrzeit auf `tickets.mezquita-catedraldecordoba.es` (15 €), die **kostenlose Stunde von Montag bis Samstag von 8:30 bis 9:30 Uhr** oder eine **Tour mit inkludiertem Ticket** ab 22 €."
 actividades:

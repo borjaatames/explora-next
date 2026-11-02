@@ -20,6 +20,8 @@ slugs:
   en: how-to-get-to-la-graciosa
   de: la-graciosa-anreise
   fr: comment-aller-a-la-graciosa
+  it: la-graciosa-come-arrivare
+  pt: como-ir-a-la-graciosa
 reservasArriba: true
 respuestaCorta: 'Du fährst mit der **Fähre ab Órzola** im Norden Lanzarotes, mit **Líneas Romero** oder **Biosfera Express**: rund **25 Minuten** Überfahrt und **29 € hin und zurück** pro Erwachsenem ohne Wohnsitz auf den Kanaren bei Biosfera (Romero ab 28 €). Auf der Insel gibt es **keine Mietwagen und keinen Asphalt**: Du bist zu Fuß, mit dem Rad oder im 4x4-Taxi unterwegs. Wer nichts selbst planen will, bucht den Katamaranausflug mit Fähre, Mittagessen und Baden ab 66 €.'
 actividades:

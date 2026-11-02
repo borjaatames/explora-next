@@ -22,6 +22,9 @@ slugs:
   es: catedral-sevilla-giralda-entradas-agotadas
   en: seville-cathedral-giralda-tickets-sold-out
   de: kathedrale-sevilla-giralda-tickets-ausverkauft
+  fr: cathedrale-de-seville-giralda-billets-epuises
+  it: cattedrale-siviglia-giralda-biglietti-esauriti
+  pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'If the official site is sold out, the **box office at the Prince''s Gate** still sells tickets (€14) until 18:00, though capacity is limited and nothing is guaranteed. Official tickets can''t be changed or refunded, so don''t wait for cancellations: the safest options are a **resold timed ticket** (from €17.50) or a **guided tour with entry included**.'
 actividades:

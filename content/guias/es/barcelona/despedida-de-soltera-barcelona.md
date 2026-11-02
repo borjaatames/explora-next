@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: despedida-de-soltera-barcelona
   en: hen-and-stag-party-barcelona
+  fr: evjf-evg-barcelone-idees-et-regles
+  it: addio-al-nubilato-barcellona
+  pt: despedida-de-solteira-barcelona
 reservasArriba: true
 respuestaCorta: 'Para una despedida en Barcelona, lo que mejor funciona es la **cata de cerveza solo para vuestro grupo en una azotea** del Passeig de Gràcia (55 € por persona, 2 horas), el **sip & paint con sangría a voluntad** (19 € por persona, 2 h 30 min) y, fuera del invierno, la **boat party en catamarán con DJ** (53,10 € por persona, con 4 bebidas y entrada a una discoteca). Ojo con las normas: desde el 29 de octubre de 2025 las rutas organizadas de bares para beber están prohibidas en toda la ciudad, y desde febrero de 2026 se multan los complementos de contenido sexual en la calle.'
 faq:

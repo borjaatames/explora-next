@@ -22,6 +22,9 @@ slugs:
   es: la-pedrera-entradas-agotadas
   en: la-pedrera-tickets-sold-out
   de: la-pedrera-tickets-ausverkauft
+  fr: la-pedrera-billets-epuises
+  it: la-pedrera-biglietti-esauriti
+  pt: la-pedrera-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Wenn deine Uhrzeit auf **lapedrera.com** ausverkauft ist, schau dir die anderen Zeitfenster des Tages an, das Ticket **Open Date** (45 €, ohne Datum und Uhrzeit, 6 Monate gültig), den Besuch **Sunrise** um 8:00 Uhr und die abendliche **Night Experience**. Es gibt eine Kasse, aber manche Tarife sind dort **teurer als online** – am sichersten ist daher ein **Ticket mit fester Uhrzeit über Wiederverkäufer** (ab 29 €) oder eine Tour mit inkludiertem Ticket."
 actividades:

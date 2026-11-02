@@ -24,6 +24,9 @@ slugs:
   es: puerto-cadiz-cruceros-que-hacer
   en: cadiz-cruise-port-guide
   de: cadiz-kreuzfahrt-landgang
+  fr: port-croisiere-cadix-que-faire
+  it: porto-crociere-cadice-guida
+  pt: porto-de-cadis-cruzeiros
 reservasArriba: true
 respuestaCorta: 'In Cádiz legt das Schiff **5 Gehminuten von der Altstadt** entfernt an: Du brauchst weder Shuttle noch Bus oder Taxi. Mit **4-6 Stunden** bleib in Cádiz (Kathedrale, Torre Tavira, El Pópulo und La Caleta). **Sevilla** liegt **1 Std. 30 Min.** entfernt und lohnt sich nur mit **8 Stunden oder mehr** an Land: Mit dem Zug auf eigene Faust trägst du das Risiko, das Schiff zu verpassen; mit einem **Ausflug ab Hafen** (ab 119 €) oder einer **privaten Tour** (ab 600 € pro Gruppe) richtet sich der Anbieter nach der Liegezeit.'
 faq:

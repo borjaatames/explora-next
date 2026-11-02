@@ -19,6 +19,9 @@ slugs:
   es: flamenco-madrid-que-tablao-elegir
   en: flamenco-madrid-which-tablao-to-choose
   de: flamenco-madrid-welches-tablao-waehlen
+  fr: flamenco-madrid-quel-tablao-choisir
+  it: flamenco-madrid-quale-tablao-scegliere
+  pt: flamenco-madrid-que-tablao-escolher
 tiempo_lectura: 4
 fecha_actualizacion: "2026-10-23"
 reservasArriba: true

@@ -19,6 +19,9 @@ keywords:
 slugs:
   es: semana-santa-sevilla
   en: seville-holy-week
+  fr: semaine-sainte-a-seville
+  it: settimana-santa-siviglia
+  pt: semana-santa-de-sevilha
 reservasArriba: true
 respuestaCorta: 'It runs from **21 to 28 March 2027**, and the big night, the **Madrugá**, is from Thursday 25 into Friday 26. About 70 brotherhoods process, and all of them pass along the **Carrera Oficial** (Campana, Sierpes, Plaza de San Francisco, Avenida and the Cathedral). Chairs are sold by season pass, so the practical way to see it is on the street, in the neighbourhoods, or from a rented balcony. Book your hotel now: it''s the most expensive week of the year.'
 actividades:

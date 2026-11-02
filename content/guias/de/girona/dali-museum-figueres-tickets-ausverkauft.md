@@ -22,6 +22,9 @@ slugs:
   es: museo-dali-figueres-entradas-agotadas
   en: dali-museum-figueres-tickets-sold-out
   de: dali-museum-figueres-tickets-ausverkauft
+  fr: musee-dali-figueres-billets-epuises
+  it: museo-dali-figueres-biglietti-esauriti
+  pt: museu-dali-figueres-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Das reguläre Ticket kostet **ab 18,50 €** auf `tickets.salvador-dali.org`, und die Verfügbarkeit hängt von der Kapazität des Museums ab. Wenn dein Tag ausverkauft ist, probier andere Zeitfenster und Tage oder die **Führung mit inkludiertem Ticket** (ab 31 €). Offizielle Tickets können aus Gründen, die nicht beim Museum liegen, **weder umgebucht noch erstattet werden** – rechne also nicht mit frei werdenden Stornierungen."
 actividades:

@@ -21,6 +21,9 @@ slugs:
   es: montserrat-que-excursion-elegir
   en: montserrat-which-excursion-to-choose
   de: montserrat-welche-tour-waehlen
+  fr: montserrat-quelle-excursion-choisir
+  it: montserrat-quale-escursione-scegliere
+  pt: montserrat-que-excursao-escolher
 tiempo_lectura: 3
 reservasArriba: true
 actividades:

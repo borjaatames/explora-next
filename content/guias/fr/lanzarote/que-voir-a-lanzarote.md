@@ -23,6 +23,7 @@ slugs:
   de: was-sehen-auf-lanzarote
   fr: que-voir-a-lanzarote
   it: cosa-vedere-a-lanzarote
+  pt: o-que-ver-em-lanzarote
 reservasArriba: true
 actividades:
   - timanfaya-jameos-cueva-de-los-verdes

@@ -21,6 +21,9 @@ slugs:
   es: flamenco-cueva-sacromonte-cual-elegir
   en: flamenco-cave-sacromonte-which-to-choose
   de: flamenco-hoehle-sacromonte-welche-waehlen
+  fr: flamenco-grotte-sacromonte-laquelle-choisir
+  it: flamenco-in-grotta-sacromonte-quale-scegliere
+  pt: flamenco-gruta-sacromonte-qual-escolher
 tiempo_lectura: 4
 reservasArriba: true
 opciones:

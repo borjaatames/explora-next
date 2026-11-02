@@ -21,6 +21,9 @@ slugs:
   es: comer-en-valencia-paella
   en: eating-in-valencia-paella
   de: paella-in-valencia
+  fr: ou-manger-une-vraie-paella-a-valence
+  it: mangiare-a-valencia-paella
+  pt: comer-em-valencia-paella
 actividades:
   - cata-cerveza-artesanal-tapas-ruzafa
 imagen_portada: "/images/guias/comer-en-valencia-paella.jpg"

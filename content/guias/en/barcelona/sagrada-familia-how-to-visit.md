@@ -20,6 +20,8 @@ slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit
   de: sagrada-familia-besichtigen
+  fr: sagrada-familia-comment-la-visiter
+  it: sagrada-familia-come-visitarla
   pt: sagrada-familia-como-visitar
 respuestaCorta: 'Book only at **sagradafamilia.org**, **4–6 weeks ahead** (in July and August, as soon as they go on sale, about two months before): there is no ticket office. The **basic ticket with audio guide costs €26** and is enough for a first visit; towers add €10. Take the **9 AM slot** and plan 1.5–2 hours.'
 reservasArriba: true

@@ -21,6 +21,9 @@ slugs:
   es: camino-de-santiago-ultimos-100-km
   en: camino-de-santiago-last-100-km
   de: jakobsweg-letzte-100-km
+  fr: chemin-de-compostelle-derniers-100-km
+  it: cammino-di-santiago-ultimi-100-km
+  pt: caminho-de-santiago-ultimos-100-km
 reservasArriba: true
 respuestaCorta: 'To earn the Compostela you must walk **at least the last 100 km** to Santiago (200 km by bike) and collect **two stamps a day** on your credential. Most people start in **Sarria**, 114 km and five stages away, which takes 5–7 days. The Compostela itself is **free** at the Pilgrim''s Office; the optional distance certificate costs €3.'
 actividades:

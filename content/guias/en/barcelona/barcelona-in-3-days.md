@@ -21,6 +21,9 @@ slugs:
   es: barcelona-en-3-dias
   en: barcelona-in-3-days
   de: barcelona-in-3-tagen
+  fr: barcelone-en-3-jours
+  it: barcellona-in-3-giorni
+  pt: barcelona-em-3-dias
 reservasArriba: true
 respuestaCorta: 'Three days is the right length for a first visit: **day one Sagrada Familia and Casa Batlló**, day two Park Güell, Gràcia and sunset at the **Bunkers del Carmel**, day three the Gothic Quarter, El Born and Montjuïc. Book Sagrada Familia (from €26) and Park Güell (€18) **weeks ahead**: in high season both sell out up to 60 days before.'
 actividades:

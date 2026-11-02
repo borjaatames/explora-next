@@ -22,7 +22,9 @@ keywords:
 slugs:
   es: planes-en-pareja-madrid
   en: romantic-things-to-do-in-madrid
+  fr: que-faire-en-couple-a-madrid
   it: cose-romantiche-da-fare-a-madrid
+  pt: planos-a-dois-em-madrid
 reservasArriba: true
 respuestaCorta: "The three things we most recommend for couples in Madrid are **flamenco at Las Carboneras**, a small venue in Habsburg Madrid with a drink included (€45 per person), the **private tour of century-old taverns** with two drinks and two tapas each (€127 per person) and, for a special occasion, a **hot-air balloon flight over Segovia** with breakfast and cava (€205 per person). For something quiet and alcohol-free, the **private picnic** with ham, cheeses and 0.0% sparkling wine costs €70 per person."
 faq:

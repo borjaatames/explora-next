@@ -23,6 +23,9 @@ slugs:
   es: navidad-sevilla
   en: christmas-in-seville
   de: weihnachten-sevilla
+  fr: noel-a-seville
+  it: natale-a-siviglia
+  pt: natal-em-sevilha
 reservasArriba: true
 respuestaCorta: "Die Lichter gehen **Ende November** an (2025 am 29.), in rund **300 Straßen**, und ab diesem Tag läuft an der Rathausfassade eine **kostenlose Lichtprojektion auf der Plaza de San Francisco**, von **18:30 bis 23:00 Uhr**. Nicht verpassen: den **Krippenmarkt** an der Kathedrale, **Klostergebäck**, eine **Zambomba** und den **Dreikönigsumzug** am Nachmittag des 5. Januar. Der **Alcázar ist am 25. Dezember sowie am 1. und 6. Januar geschlossen**."
 faq:

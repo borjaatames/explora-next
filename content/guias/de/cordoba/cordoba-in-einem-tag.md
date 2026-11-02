@@ -22,6 +22,7 @@ slugs:
   de: cordoba-in-einem-tag
   fr: cordoue-en-une-journee
   it: cordova-in-un-giorno
+  pt: cordova-num-dia
 reservasArriba: true
 respuestaCorta: 'Ja, **Córdoba lässt sich an einem Tag sehen**: Mezquita-Catedral, Judería, Alcázar und Römische Brücke liegen fünf Gehminuten voneinander entfernt. Geh **gleich morgens in die Mezquita**, vor der Hitze und den Gruppen (Führung ohne Anstehen ab 32 €). Am besten von April bis Juni oder im September und Oktober; im Juli und August werden es fast 40 °C.'
 opciones:

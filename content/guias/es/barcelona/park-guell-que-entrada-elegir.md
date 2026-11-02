@@ -19,6 +19,8 @@ slugs:
   es: park-guell-que-entrada-elegir
   en: park-guell-which-ticket-to-choose
   de: park-guell-welches-ticket-waehlen
+  fr: park-guell-quel-billet-choisir
+  it: park-guell-quale-biglietto-scegliere
   pt: park-guell-que-bilhete-escolher
 tiempo_lectura: 4
 fecha_actualizacion: "2026-10-23"

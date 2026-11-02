@@ -23,6 +23,7 @@ slugs:
   de: teide-tickets-ausverkauft
   fr: teide-billets-complets
   it: teide-biglietti-esauriti
+  pt: teide-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Das sind zwei getrennte Reservierungen. Die **Seilbahn** (etwa 42 € hin und zurück) kaufst du auf `volcanoteide.com`; wenn sie ausverkauft ist, löst ein **Ausflug mit inbegriffener Seilbahn** das Problem ab 92 €. Die **Gipfelgenehmigung** (15 €) beantragst du bei **Tenerife ON**, das **jeden Montag um 7:00 Uhr Plätze für die folgenden 56 Tage** freigibt. Wenn du keine bekommst, schließt eine Nacht in der **Altavista-Hütte** den Zugang zum Gipfel von 6:00 bis 9:00 Uhr ein."
 actividades:

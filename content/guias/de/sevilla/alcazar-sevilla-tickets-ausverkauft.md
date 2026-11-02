@@ -21,6 +21,9 @@ slugs:
   es: alcazar-de-sevilla-entradas-agotadas
   en: alcazar-of-seville-tickets-sold-out
   de: alcazar-sevilla-tickets-ausverkauft
+  fr: alcazar-de-seville-billets-epuises
+  it: alcazar-siviglia-biglietti-esauriti
+  pt: alcazar-de-sevilha-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Wenn die offizielle Website ausverkauft ist, hält die **Kasse am Patio de Banderas** für jedes Zeitfenster desselben Tages ein paar Tickets zurück: Sei **mindestens eine Stunde vor 9:00 Uhr** da und nimm deinen Ausweis mit. Die Website hat weder Warteliste noch Umbuchung oder Erstattung, am sichersten ist also ein **Ticket mit Uhrzeit über einen Wiederverkäufer** (ab 20 €) oder eine **Führung mit inbegriffenem Ticket**."
 actividades:

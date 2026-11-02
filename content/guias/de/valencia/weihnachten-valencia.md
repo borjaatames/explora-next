@@ -23,6 +23,9 @@ slugs:
   es: navidad-valencia
   en: christmas-in-valencia
   de: weihnachten-valencia
+  fr: noel-a-valence
+  it: natale-a-valencia
+  pt: natal-em-valencia
 reservasArriba: true
 respuestaCorta: "Weihnachten in Valencia dreht sich um die **Plaza del Ayuntamiento**: Einschalten mit Feuerwerk Ende November (2025 am 21.), **kostenlose Feuerwerk-Musik-Shows jeden Samstag um 18:30 Uhr**, ein 25 Meter hoher Baum und die städtische Krippe. Fünf Minuten entfernt liegt der **Kunsthandwerksmarkt auf der Plaza de la Reina** (2025 vom 29. November bis 6. Januar). Mit Kindern: **Expojove** vom **26. Dezember 2026 bis 4. Januar 2027**, ab 3 €. Der **Dreikönigsumzug** startet am 5. Januar um 17:30 Uhr."
 faq:

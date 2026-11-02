@@ -19,6 +19,9 @@ keywords:
 slugs:
   es: feria-de-abril-sevilla
   en: seville-april-fair
+  fr: feria-de-abril-seville
+  it: feria-de-abril-siviglia
+  pt: feira-de-abril-de-sevilha
 reservasArriba: true
 respuestaCorta: 'In 2027 it should run, pending official confirmation, from **Monday 12** (the pescaíto dinner and the lights going on at midnight) to **Sunday 18 April** (fireworks). Almost all casetas are private, but the **district casetas** and the **municipal one** are open to everyone. Go in the daytime, between 14:00 and 19:00, to see the horse parade, and take the metro: by car it''s impossible.'
 actividades:

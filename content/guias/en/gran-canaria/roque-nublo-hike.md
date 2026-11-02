@@ -19,6 +19,9 @@ slugs:
   es: roque-nublo-como-subir
   en: roque-nublo-hike
   de: roque-nublo-wanderung
+  fr: roque-nublo-comment-monter
+  it: roque-nublo-come-salire
+  pt: roque-nublo-como-subir
 reservasArriba: true
 respuestaCorta: 'Between **9:00 and 17:00 you need a time-slot booking** at reservasroquenublo.com, and the old La Goleta car park is closed: park at **Cruz de Los Llanos** and take the shuttle bus. From the trailhead it''s about **3 km return, 1–1.5 hours**. Without a car, the [day tour from Las Palmas](/en/cities/gran-canaria/activities/roque-nublo-pico-de-las-nieves-tour-from-las-palmas) starts at €48.'
 actividades:

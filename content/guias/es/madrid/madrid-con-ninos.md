@@ -23,6 +23,9 @@ slugs:
   es: madrid-con-ninos
   en: madrid-with-kids
   de: madrid-mit-kindern
+  fr: madrid-avec-des-enfants
+  it: madrid-con-bambini
+  pt: madrid-com-criancas
 reservasArriba: true
 opciones:
   - ficha: zoo-aquarium-madrid-entrada

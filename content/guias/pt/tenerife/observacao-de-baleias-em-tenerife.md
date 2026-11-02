@@ -19,8 +19,9 @@ slugs:
   es: avistamiento-ballenas-tenerife
   en: whale-watching-tenerife
   de: walbeobachtung-teneriffa
-  pt: observacao-de-baleias-em-tenerife
+  fr: observation-des-baleines-a-tenerife
   it: avvistamento-balene-tenerife
+  pt: observacao-de-baleias-em-tenerife
 reservasArriba: true
 respuestaCorta: 'Pode ver **baleias-piloto-de-aleta-curta e golfinhos-roazes durante todo o ano**, porque vivem entre Tenerife e La Gomera. Os barcos partem de **Los Cristianos, Puerto Colón e Los Gigantes**; escolha um que exiba a bandeira amarela **Barco Azul** de operador autorizado. O passeio de 1h30 em iate ecológico a partir de Los Cristianos custa desde 30 €.'
 actividades:

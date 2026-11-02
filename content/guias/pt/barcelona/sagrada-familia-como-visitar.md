@@ -20,6 +20,8 @@ slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit
   de: sagrada-familia-besichtigen
+  fr: sagrada-familia-comment-la-visiter
+  it: sagrada-familia-come-visitarla
   pt: sagrada-familia-como-visitar
 respuestaCorta: 'Reserve apenas em **sagradafamilia.org**, com **4–6 semanas de antecedência** (em julho e agosto, assim que abrem as vendas, cerca de dois meses antes): não há bilheteira. O **bilhete básico com audioguia custa 26 €** e chega para uma primeira visita; as torres acrescentam 10 €. Escolha o **horário das 9h00** e conte com 1h30–2 horas.'
 reservasArriba: true

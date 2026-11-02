@@ -19,6 +19,9 @@ slugs:
   es: patios-de-cordoba
   en: cordoba-patios
   de: patios-von-cordoba
+  fr: patios-de-cordoue
+  it: patios-di-cordova
+  pt: patios-de-cordova
 respuestaCorta: 'The **Patio Festival** runs for two weeks in early May (4–17 May in 2026): private houses open their courtyards **free**, from 11:00 to 14:00 and 18:00 to 22:00. Go first thing or in the evening. The rest of the year, the **Viana Palace** has 12 patios (from €8.50), and a **guided tour of five San Basilio patios** costs from €19.'
 reservasArriba: true
 actividades:

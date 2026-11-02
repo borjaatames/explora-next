@@ -21,6 +21,7 @@ slugs:
   de: teide-besteigen
   fr: ascension-du-teide
   it: salire-sul-teide
+  pt: subir-ao-teide
 reservasArriba: true
 respuestaCorta: 'El **teleférico** (42 € ida y vuelta en 2026) sube en menos de 8 minutos a **La Rambleta (3.555 m)**, donde hay dos senderos a miradores sin permiso. Los últimos 160 m hasta la **cima (3.715 m)** exigen un **permiso con franja horaria en Tenerife ON** (15 € para quien no reside en Canarias). La excursión con teleférico y traslado sale desde 92 €.'
 actividades:

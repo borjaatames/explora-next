@@ -24,8 +24,9 @@ slugs:
   es: museo-picasso-malaga-entradas-agotadas
   en: picasso-museum-malaga-tickets-sold-out
   de: picasso-museum-malaga-tickets-ausverkauft
-  it: museo-picasso-malaga-biglietti-esauriti
   fr: musee-picasso-malaga-billets-epuises
+  it: museo-picasso-malaga-biglietti-esauriti
+  pt: museu-picasso-malaga-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Il biglietto del Museo Picasso di Malaga costa **13 €** (ridotto 11 €) sul sito ufficiale (`tickets.museopicassomalaga.org`) e include un''audioguida sul telefono. Se online è esaurito, è il museo stesso a dire che puoi comprarlo anche in **biglietteria** quando c''è poca gente. L''ingresso è **gratuito la domenica nelle ultime due ore** (da novembre a febbraio, **16:00-18:00**) e, per una visita senza rischi, la **ruta Picasso privata** include l''ingresso al museo e alla sua casa natale.'
 actividades:

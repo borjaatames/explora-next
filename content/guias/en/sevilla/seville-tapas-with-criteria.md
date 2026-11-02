@@ -21,6 +21,9 @@ slugs:
   es: sevilla-tapas-criterio
   en: seville-tapas-with-criteria
   de: tapas-in-sevilla
+  fr: ou-manger-des-tapas-a-seville
+  it: tapas-a-siviglia-dove-mangiare
+  pt: tapas-em-sevilha-onde-comer
 reservasArriba: true
 respuestaCorta: 'Skip the bars around the Cathedral and eat in three areas: **Arenal** (Bodeguita Casablanca, Arenal Ventura, Antonio Romero), **Triana** (Casa Diego, Trianilla, Blanca Paloma) and the centre (Casa Morales, Manolo Cateca). Tapas cost **€2.50–4** and a five-tapa dinner with three drinks runs €18–25 per person. Go at **1:30–3:30 PM or 8:30–11 PM** and order in rounds.'
 actividades:

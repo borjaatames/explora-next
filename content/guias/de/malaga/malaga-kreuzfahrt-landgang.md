@@ -24,6 +24,9 @@ slugs:
   es: puerto-malaga-cruceros-que-hacer
   en: malaga-cruise-port-guide
   de: malaga-kreuzfahrt-landgang
+  fr: port-de-malaga-escale-croisiere
+  it: porto-di-malaga-crociera-cosa-fare
+  pt: porto-de-malaga-cruzeiros-o-que-fazer
 reservasArriba: true
 respuestaCorta: 'Große Schiffe legen am **Muelle de Levante** an, rund **2-2,5 km von der Altstadt**: 25-30 Minuten zu Fuß am Muelle Uno entlang, mit dem **Shuttlebus zur Plaza de la Marina** (etwa 5 € hin und zurück) oder mit dem Taxi (**mindestens 9,45 €** ab Terminal). In **4 Stunden** schaffst du Alcazaba, Römisches Theater und Kathedrale. Die **Alhambra** lohnt sich nur mit **8 Stunden oder mehr** an Land und einem Ausflug, der sich nach der Liegezeit richtet.'
 faq:

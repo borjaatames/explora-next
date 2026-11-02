@@ -22,6 +22,9 @@ slugs:
   es: sevilla-en-3-dias
   en: seville-in-3-days
   de: sevilla-in-3-tagen
+  fr: seville-en-3-jours
+  it: siviglia-in-3-giorni
+  pt: sevilha-em-3-dias
 reservasArriba: true
 actividades:
   - real-alcazar-sevilla-entrada

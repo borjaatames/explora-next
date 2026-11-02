@@ -19,6 +19,7 @@ slugs:
   es: avistamiento-ballenas-tenerife
   en: whale-watching-tenerife
   de: walbeobachtung-teneriffa
+  fr: observation-des-baleines-a-tenerife
   it: avvistamento-balene-tenerife
   pt: observacao-de-baleias-em-tenerife
 reservasArriba: true

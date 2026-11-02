@@ -20,8 +20,9 @@ slugs:
   es: alhambra-que-tour-elegir
   en: alhambra-which-tour-to-choose
   de: alhambra-welche-tour-waehlen
-  it: alhambra-quale-tour-scegliere
   fr: alhambra-quelle-visite-choisir
+  it: alhambra-quale-tour-scegliere
+  pt: alhambra-que-tour-escolher
 respuestaCorta: 'Sei dei tour dell''Alhambra in vendita sono **lo stesso percorso di 3 ore** (Alcazaba, Palazzi Nasridi, Generalife) a prezzi tra 50 e 96 €, quindi prenota il più economico con posti nella tua data, di solito **Ingresso e visita guidata da 50 €**. Solo la **visita notturna**, il **tour privato** e il **biglietto per i soli giardini** sono davvero diversi. Prenota con settimane di anticipo: le fasce orarie dei Palazzi Nasridi si esauriscono.'
 reservasArriba: true
 actividades:

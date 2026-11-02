@@ -20,6 +20,8 @@ slugs:
   en: visiting-timanfaya
   de: timanfaya-besuchen
   fr: visiter-timanfaya
+  it: timanfaya-come-visitarlo
+  pt: timanfaya-como-visitar
 reservasArriba: true
 respuestaCorta: 'Das Ticket für die **Feuerberge** kostet **30 €** (bis 6 Jahre gratis) und gibt es **nur online**, mit Datum und Uhrzeit: Es gibt keine Kasse, und außerhalb deines Zeitfensters gilt es nicht. Enthalten sind die **Vulkanroute** im Bus, rund 35-40 Minuten, und die Geothermie-Vorführungen am Islote de Hilario. Mit dem **eigenen Auto** kommst du bis zum Parkplatz, durch den Park fahren darfst du aber nicht. Ohne Auto kostet der Halbtagesausflug mit Ticket ab 59 €.'
 actividades:

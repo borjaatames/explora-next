@@ -22,6 +22,9 @@ slugs:
   es: museo-picasso-barcelona-entradas-agotadas
   en: picasso-museum-barcelona-tickets-sold-out
   de: picasso-museum-barcelona-tickets-ausverkauft
+  fr: musee-picasso-barcelone-billets-epuises
+  it: museo-picasso-barcellona-biglietti-esauriti
+  pt: museu-picasso-barcelona-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Das Museu Picasso hat eine begrenzte Kapazität, und die **kostenlosen** Plätze sind im Nu weg, aber das reguläre Ticket ist selten den ganzen Tag ausverkauft. Schau auf der offiziellen Website `museupicassobcn.cat` nach anderen Uhrzeiten (**12 €** online, 13 € an der Kasse) oder probier es an der **Kasse in der Carrer de Montcada**. Wenn du kein Risiko eingehen willst, sichert dir eine **Führung ohne Anstehen** (ab 37 €) den Eintritt."
 actividades:

@@ -22,6 +22,9 @@ slugs:
   es: la-pedrera-entradas-agotadas
   en: la-pedrera-tickets-sold-out
   de: la-pedrera-tickets-ausverkauft
+  fr: la-pedrera-billets-epuises
+  it: la-pedrera-biglietti-esauriti
+  pt: la-pedrera-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Si tu hora sale agotada en **lapedrera.com**, mira las demás franjas del día, la entrada **Open Date** (45 €, sin fecha ni hora y válida 6 meses), la visita **Sunrise** de las 8:00 y la **Night Experience** de la noche. La taquilla existe, pero algunas tarifas son **más caras que online**, así que lo más seguro es una **entrada de reventa con hora** (desde 29 €) o un tour que incluya la entrada.'
 actividades:

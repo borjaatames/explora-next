@@ -21,6 +21,9 @@ keywords:
 slugs:
   es: tuk-tuk-coche-caballos-o-bus-turistico-sevilla
   en: tuk-tuk-horse-carriage-or-bus-tour-seville
+  fr: tuk-tuk-caleche-ou-bus-touristique-seville
+  it: tuk-tuk-carrozza-o-bus-turistico-siviglia
+  pt: tuk-tuk-charrete-ou-autocarro-turistico-sevilha
 reservasArriba: false
 respuestaCorta: 'Si sois **4**, el **tuk tuk privado** es lo más barato y cómodo: **99 €** por una hora para los cuatro, **24,75 € por persona**, con conductor-guía. En **pareja con poco presupuesto**, el **bus turístico** (**28 €** por persona, 24 horas, con dos tours a pie incluidos) o un tour a pie. El **coche de caballos** es el más caro (**298 €** el privado de 1 h 30 min con guía, hasta 4 personas) y lo eliges por la experiencia, no por el precio.'
 faq:

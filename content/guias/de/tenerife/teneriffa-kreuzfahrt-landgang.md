@@ -24,6 +24,9 @@ slugs:
   es: puerto-tenerife-cruceros-que-hacer
   en: tenerife-cruise-port-guide
   de: teneriffa-kreuzfahrt-landgang
+  fr: port-de-tenerife-escale-croisiere
+  it: porto-crociere-tenerife-cosa-fare
+  pt: porto-de-tenerife-cruzeiros-o-que-fazer
 reservasArriba: true
 respuestaCorta: "Kreuzfahrtschiffe legen im **Hafen von Santa Cruz** an, am Muelle Sur oder am Muelle de Enlace, **10-20 Minuten zu Fuß** von der Plaza de España: Einen Shuttle brauchst du nicht. In 4 Stunden siehst du **Santa Cruz und La Laguna** mit der **Straßenbahn (1,35 €, etwa 40 Min.)**. In 6 Stunden kommt der Wald von **Anaga** dazu. Der **Teide** liegt **1 Std. 15 Min.** über Bergstraßen entfernt: nur ab **8 Stunden** Liegezeit und mit dem Risiko, dass die Seilbahn bei Wind schließt."
 faq:

@@ -24,6 +24,9 @@ slugs:
   es: navidad-valencia
   en: christmas-in-valencia
   de: weihnachten-valencia
+  fr: noel-a-valence
+  it: natale-a-valencia
+  pt: natal-em-valencia
 reservasArriba: true
 respuestaCorta: "Christmas in Valencia revolves around **Plaza del Ayuntamiento**: a switch-on with fireworks in late November (the 21st in 2025), **free firework-and-music shows every Saturday at 18:30**, a 25-metre tree and the city nativity scene. Five minutes away is the **Plaza de la Reina crafts market** (29 November to 6 January in 2025). With kids, **Expojove** runs from **26 December 2026 to 4 January 2027**, from €3. The **Three Kings Parade** sets off on 5 January at 17:30."
 faq:

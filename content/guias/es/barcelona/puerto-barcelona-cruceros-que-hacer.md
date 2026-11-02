@@ -24,7 +24,9 @@ slugs:
   es: puerto-barcelona-cruceros-que-hacer
   en: barcelona-cruise-port-guide
   de: barcelona-kreuzfahrt-landgang
+  fr: port-croisiere-barcelone-que-faire
   it: porto-crociere-barcellona-guida
+  pt: porto-de-barcelona-cruzeiros
 reservasArriba: true
 respuestaCorta: 'Casi todos los barcos atracan en el **Moll Adossat**, a **25-45 minutos a pie** del monumento a Colón. Lo más práctico es el **Cruise Bus** (el antiguo Portbus T3): **3,50 € el trayecto o 5 € el billete de día**, y en unos 5 minutos estás al pie de la Rambla. La **Sagrada Família** queda a unos 3 km de Colón: 20-25 minutos en metro o un taxi desde el barco por unos 20-25 €. Con **4 horas**, Gótico y Rambla o solo la Sagrada Família con entrada reservada; **Montserrat**, solo con 8-9 horas.'
 faq:

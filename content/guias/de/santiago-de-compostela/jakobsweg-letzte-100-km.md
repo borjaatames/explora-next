@@ -21,6 +21,9 @@ slugs:
   es: camino-de-santiago-ultimos-100-km
   en: camino-de-santiago-last-100-km
   de: jakobsweg-letzte-100-km
+  fr: chemin-de-compostelle-derniers-100-km
+  it: cammino-di-santiago-ultimi-100-km
+  pt: caminho-de-santiago-ultimos-100-km
 actividades:
   - tour-a-pie-casco-antiguo-santiago
   - catedral-santiago-museo-tour-guiado

@@ -25,6 +25,8 @@ slugs:
   en: palma-cruise-port-guide
   de: palma-kreuzfahrt-landgang
   fr: port-croisiere-palma-guide
+  it: porto-crociere-palma-cosa-fare
+  pt: porto-de-palma-cruzeiros-o-que-fazer
 reservasArriba: true
 respuestaCorta: "Kreuzfahrtschiffe legen am **Muelle de Poniente** (Terminals 1 bis 4, etwa 3 km bis zur Kathedrale) oder am **Dique del Oeste** (Terminals 5 und 6, etwa 4-5 km) an. In die Stadt kommst du mit dem **EMT-Bus Linie 1 (2 €)**, mit dem Taxi (**etwa 11-15 €**) oder von Poniente aus in 40 Minuten zu Fuß. In **4-6 Stunden** schaffst du Kathedrale und Altstadt; ab **8 Stunden** auch den **Zug nach Sóller** oder Valldemossa."
 faq:

@@ -21,6 +21,9 @@ slugs:
   es: catedral-de-santiago-como-visitar
   en: santiago-cathedral-how-to-visit
   de: kathedrale-santiago-besichtigen
+  fr: cathedrale-de-saint-jacques-comment-la-visiter
+  it: cattedrale-di-santiago-come-visitarla
+  pt: catedral-de-santiago-como-visitar
 actividades:
   - santiago-portico-gloria-catedral-tour
   - catedral-santiago-museo-tour-guiado

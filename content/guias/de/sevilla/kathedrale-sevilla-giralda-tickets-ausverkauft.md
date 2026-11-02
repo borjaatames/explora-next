@@ -22,6 +22,9 @@ slugs:
   es: catedral-sevilla-giralda-entradas-agotadas
   en: seville-cathedral-giralda-tickets-sold-out
   de: kathedrale-sevilla-giralda-tickets-ausverkauft
+  fr: cathedrale-de-seville-giralda-billets-epuises
+  it: cattedrale-siviglia-giralda-biglietti-esauriti
+  pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Wenn die offizielle Website ausverkauft ist, verkauft die **Kasse an der Puerta del Príncipe** weiterhin Tickets (14 €) bis 18:00 Uhr, allerdings mit begrenzter Kapazität und ohne Garantie. Die offiziellen Tickets sind weder umbuchbar noch erstattbar, warte also nicht auf Stornierungen: Am sichersten ist ein **Ticket mit Uhrzeit über Wiederverkäufer** (ab 17,50 €) oder eine **Führung mit inbegriffenem Ticket**."
 actividades:

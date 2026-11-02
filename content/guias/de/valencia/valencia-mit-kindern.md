@@ -20,6 +20,9 @@ slugs:
   es: valencia-con-ninos
   en: valencia-with-kids
   de: valencia-mit-kindern
+  fr: valence-avec-des-enfants
+  it: valencia-con-bambini
+  pt: valencia-com-criancas
 reservasArriba: true
 respuestaCorta: 'Valencia ist **flach, sicher und hat einen Stadtstrand**. Die zwei Highlights sind das **Oceanogràfic**, Europas größtes Aquarium (ab 37 €), und der **Bioparc** (29,50 €); dazwischen mit dem Rad durch den **Turia-Park**, neun Kilometer ohne Autos. Die Altstadt in kleinen Dosen. Am besten von März bis Juni.'
 actividades:

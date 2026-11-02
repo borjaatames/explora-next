@@ -1,0 +1,76 @@
+---
+titulo: "Montserrat a partir de Barcelona: que excursão escolher (comparação)"
+descripcion: "Há 5 excursões a Montserrat que se podem reservar a partir de Barcelona, de uma sessão fotográfica de 1 hora a um dia inteiro com almoço e harmonização de vinhos. Comparamos preço, duração e o que inclui cada uma."
+respuestaCorta: 'Com meio dia, o **grupo pequeno desde 59 €** chega ao mosteiro antes das multidões. Para o dia inteiro, a **CastlExperience desde 47 €** (6-10 horas, com adega) é a opção mais barata, e a **masia do Bages (desde 109 €)** junta almoço com harmonização de vinhos. Por conta própria, o bilhete **Trans Montserrat** de comboio e cremalheira custa desde 50 €.'
+categoria: "barcelona"
+slug: "montserrat-que-excursao-escolher"
+fecha: "2026-09-20"
+fecha_actualizacion: "2026-10-23"
+autor: Borja
+publicada: true
+destacada: false
+imagen_portada: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"
+imagen_alt: "Mosteiro de Montserrat entre as montanhas, perto de Barcelona"
+keywords:
+  - "montserrat que excursão escolher"
+  - "melhor excursão a montserrat a partir de barcelona"
+  - "montserrat comparação de tours"
+  - "montserrat meio dia ou dia inteiro"
+  - "montserrat tour privado preço"
+slugs:
+  es: montserrat-que-excursion-elegir
+  en: montserrat-which-excursion-to-choose
+  de: montserrat-welche-tour-waehlen
+  fr: montserrat-quelle-excursion-choisir
+  it: montserrat-quale-escursione-scegliere
+  pt: montserrat-que-excursao-escolher
+tiempo_lectura: 3
+reservasArriba: true
+actividades:
+  - montserrat-medio-dia-grupo-pequeno
+  - montserrat-cremallera-bodega-castlexperience
+  - montserrat-masia-bages-almuerzo-vinos
+  - montserrat-sesion-fotos-signature
+  - montserrat-tour-privado-recogida-hotel
+opciones:
+  - ficha: montserrat-cremallera-bodega-castlexperience
+    etiqueta: A mais barata
+  - ficha: montserrat-medio-dia-grupo-pequeno
+    etiqueta: Grupo pequeno
+  - ficha: montserrat-masia-bages-almuerzo-vinos
+    etiqueta: Com almoço e vinho
+---
+
+Montserrat pode visitar-se a partir de Barcelona de cinco formas muito diferentes entre si. Não se trata de fichas quase idênticas a competir pelo mesmo, mas de durações e orçamentos que vão de uma sessão fotográfica de uma hora a um dia inteiro com almoço e harmonização de vinhos.
+
+## Que excursão escolher?
+
+| Opção | Preço desde | Duração | Formato | Ideal para |
+|---|---|---|---|---|
+| [Meio dia em grupo pequeno personalizado](/en/cities/barcelona/activities/montserrat-half-day-small-group) | 59 € | 5h30 | Grupo pequeno, 4 variantes à escolha | Quem tem meio dia e quer chegar antes das multidões |
+| [Cremalheira, Virgem Negra e adega (CastlExperience)](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | 47 € | 6-10 h | Flexível, em grupo | Quem quer o dia inteiro mais económico |
+| [Masia do Bages com almoço e harmonização](/en/cities/barcelona/activities/montserrat-bages-farmhouse-lunch-and-wine) | 109 € | 9 h | Premium, em grupo | Quem quer juntar uma experiência gastronómica de nível |
+| [Sessão fotográfica Montserrat Signature](/en/cities/barcelona/activities/montserrat-signature-photoshoot) | 180 € | 1 h | Privada, fotográfica | Quem procura fotografias profissionais, não uma visita guiada |
+| [Tour privado com recolha no hotel](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | 838 € | 5 h | Privado, só o seu grupo | Quem quer veículo e guia em exclusivo, sem partilhar com ninguém |
+
+## Como escolher em 30 segundos
+
+- **Só tem meio dia:** grupo pequeno personalizado (59 €), com acesso antecipado ao mosteiro antes das multidões.
+- **Orçamento apertado:** o curioso é que a opção de dia inteiro (47 €, 6-10 horas) sai mais barata do que a de meio dia; compensa se tiver tempo de sobra.
+- **Quer uma experiência gastronómica de nível:** masia do Bages com harmonização (109 €), inclui almoço de 3 pratos com seleção de um escanção.
+- **Procura fotografias profissionais, não uma visita guiada:** sessão Signature (180 €), inclui 30 fotografias digitais editadas.
+- **Quer ir sem partilhar o grupo com ninguém:** tour privado com recolha no hotel (838 € por grupo), veículo e guia em exclusivo.
+
+## O que deve saber antes de ir
+
+- **Também se pode ir por conta própria:** comboio R5 dos FGC a partir da Plaça Espanya até Monistrol de Montserrat (1 hora) e depois a cremalheira, ou até Aeri de Montserrat e o teleférico. O bilhete combinado Trans Montserrat (metro, comboio, cremalheira ou teleférico e os funiculares de Sant Joan e Santa Cova) custa desde 50 € em 2026, e o Tot Montserrat, que junta museu e refeição, desde 71,50 €. Os tours ganham em comodidade e explicações, não em preço.
+- **A Moreneta** visita-se de graça, por um corredor lateral da basílica, das 8h00 às 10h30 e das 12h00 às 18h25. A fila é de 30-60 minutos na época alta; os tours de acesso antecipado evitam-na.
+- **A Escolania** costuma cantar o Salve e o Virolai às 13h00 de segunda a sexta e na missa das 11h00 aos domingos; normalmente não canta aos sábados. É preciso reservar, e o calendário muda com feriados e digressões do coro: confirme em escolania.cat e escolha uma excursão que lá esteja a essa hora.
+- **Os funiculares:** o de Sant Joan sobe aos trilhos com vistas (10 minutos e depois uma caminhada fácil de 1 hora até à ermida); o de Santa Cova desce à gruta da Virgem. Estão incluídos no Trans Montserrat, mas não na maioria dos tours; fecham com vento forte.
+- **Clima:** na montanha estão menos 5-8 graus do que em Barcelona e há nevoeiro frequente de manhã. Leve uma camada extra, mesmo no verão.
+- **Comida:** a cafetaria self-service é cara e fraca. Compre o mató com mel e os queijos no mercadinho dos agricultores junto à praça, ou coma no regresso.
+- **Tempo necessário:** meio dia se só quiser a basílica e a Moreneta; o dia inteiro se subir a Sant Joan.
+
+## O que ter em conta ao reservar
+
+Nem todas sobem de cremalheira: o meio dia em grupo pequeno vai de autocarro direto ao mosteiro; a CastlExperience inclui a cremalheira só nas opções que o indicam; a masia do Bages sobe de autocarro e desce de cremalheira; a sessão fotográfica não inclui transporte, e o privado vai em veículo próprio. O acesso à Virgem Negra (a Moreneta) é opcional ou está incluído consoante a opção: convém verificá-lo na ficha concreta antes de reservar, se for o motivo principal da viagem. Na época alta convém reservar com antecedência, sobretudo as opções de grupo pequeno e as privadas.

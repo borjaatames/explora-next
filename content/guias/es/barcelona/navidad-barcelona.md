@@ -24,6 +24,7 @@ slugs:
   es: navidad-barcelona
   en: christmas-in-barcelona
   de: weihnachten-barcelona
+  fr: noel-a-barcelone
   it: natale-a-barcellona
   pt: natal-em-barcelona
 reservasArriba: true

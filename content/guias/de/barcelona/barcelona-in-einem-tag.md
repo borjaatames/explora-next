@@ -22,6 +22,9 @@ slugs:
   es: barcelona-en-1-dia
   en: barcelona-in-1-day
   de: barcelona-in-einem-tag
+  fr: barcelone-en-1-jour-depuis-madrid
+  it: barcellona-in-1-giorno
+  pt: barcelona-num-dia
 reservasArriba: true
 opciones:
   - ficha: entrada-sagrada-familia-audioguia

@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: andalucia-en-7-dias
   en: andalusia-7-day-itinerary
+  fr: andalousie-en-7-jours
+  it: andalusia-in-7-giorni
+  pt: andaluzia-em-7-dias
 reservasArriba: true
 respuestaCorta: 'The route that works best by train: **2 nights in Seville, 1 in Córdoba, 2 in Granada and 2 in Málaga**, with Ronda as a day trip on the last day. The hops are short (Seville-Córdoba **about 45 minutes**, Córdoba-Granada **1 h 30**, Granada-Málaga **1 h 18** on the direct Avant), and only two things need booking weeks ahead: **the Alhambra (€22.27)** and the **Real Alcázar (€15.50)**.'
 faq:

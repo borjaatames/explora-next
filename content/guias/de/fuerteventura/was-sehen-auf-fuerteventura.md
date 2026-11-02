@@ -22,6 +22,7 @@ slugs:
   de: was-sehen-auf-fuerteventura
   fr: que-voir-a-fuerteventura
   it: cosa-vedere-a-fuerteventura
+  pt: o-que-ver-em-fuerteventura
 reservasArriba: true
 actividades:
   - catamaran-isla-lobos-corralejo

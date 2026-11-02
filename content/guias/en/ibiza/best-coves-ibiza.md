@@ -20,6 +20,9 @@ slugs:
   es: mejores-calas-ibiza
   en: best-coves-ibiza
   de: schoenste-buchten-ibiza
+  fr: plus-belles-criques-d-ibiza
+  it: calette-piu-belle-di-ibiza
+  pt: melhores-calas-de-ibiza
 respuestaCorta: 'The best coves in Ibiza are **Cala Comte and Cala d''Hort** in the south-west (turquoise water and the best sunsets, the latter facing Es Vedrà), **Cala Salada and Benirràs** in the wilder north, and Ses Salines in the south. Arrive **before 9:00 or after 18:00** in summer, or see them from the sea: cove-hopping boat trips start **from €52**.'
 reservasArriba: true
 opciones:

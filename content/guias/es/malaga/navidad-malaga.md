@@ -24,6 +24,9 @@ slugs:
   es: navidad-malaga
   en: christmas-in-malaga
   de: weihnachten-malaga
+  fr: noel-a-malaga
+  it: natale-a-malaga
+  pt: natal-em-malaga
 reservasArriba: true
 respuestaCorta: 'El espectáculo de luz y sonido de **calle Larios** tiene tres pases diarios, a las **18:30, 20:30 y 22:00**, desde el encendido de finales de noviembre (el 28 en 2025) hasta el 4 de enero, salvo el **24 y el 31 de diciembre**. A dos minutos, la **Catedral** tiene su propio mapping a las 19:00, 20:30 y 22:00. Completa con el **mercadillo del Paseo del Parque**, el **belén del Ayuntamiento** y la **Cabalgata del 5 de enero** a las 18:00. Y con 17 °C de máxima media en diciembre, el paseo por la playa es plan.'
 faq:

@@ -20,6 +20,8 @@ slugs:
   en: visiting-timanfaya
   de: timanfaya-besuchen
   fr: visiter-timanfaya
+  it: timanfaya-come-visitarlo
+  pt: timanfaya-como-visitar
 reservasArriba: true
 respuestaCorta: 'Le billet des **Montagnes de Feu** coûte **30 €** (gratuit jusqu''à 6 ans) et est **vendu uniquement en ligne**, pour une date et une heure précises : il n''y a pas de guichet et il n''est pas valable en dehors de votre créneau. Il comprend la **Route des Volcans** en autocar, d''environ 35-40 minutes, et les démonstrations géothermiques de l''Islote de Hilario. Vous pouvez venir avec **votre propre voiture** jusqu''au parking, mais vous ne pouvez pas parcourir le parc par vos propres moyens. Sans voiture, l''excursion d''une demi-journée avec entrée est à partir de 59 €.'
 actividades:

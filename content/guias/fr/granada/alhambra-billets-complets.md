@@ -22,6 +22,8 @@ slugs:
   en: alhambra-tickets-sold-out
   de: alhambra-tickets-ausverkauft
   fr: alhambra-billets-complets
+  it: alhambra-biglietti-esauriti
+  pt: alhambra-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Si le site officiel affiche complet, consultez-le **la veille entre 20 h et 22 h**, quand des billets de dernière minute apparaissent parfois, et essayez la **Granada Card**, qui dispose de son propre contingent. À défaut, une **visite guidée avec entrée incluse** garantit l''accès aux palais nasrides ; la **visite nocturne** et le billet **Jardins et Generalife** ont généralement plus de disponibilités.'
 actividades:

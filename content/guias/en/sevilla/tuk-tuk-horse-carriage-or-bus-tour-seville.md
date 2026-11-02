@@ -21,6 +21,9 @@ keywords:
 slugs:
   es: tuk-tuk-coche-caballos-o-bus-turistico-sevilla
   en: tuk-tuk-horse-carriage-or-bus-tour-seville
+  fr: tuk-tuk-caleche-ou-bus-touristique-seville
+  it: tuk-tuk-carrozza-o-bus-turistico-siviglia
+  pt: tuk-tuk-charrete-ou-autocarro-turistico-sevilha
 reservasArriba: false
 respuestaCorta: 'If there are **4** of you, a **private tuk tuk** is the cheapest and most comfortable option: **€99** for an hour for all four, **€24.75 each**, with a local driver-guide. For a **couple on a budget**, the **hop-on hop-off bus** (**€28** per person, 24 hours, two walking tours included) or a walking tour. The **horse carriage** is the priciest (**€298** for the private 90-minute ride with a guide, up to 4 people): you choose it for the experience, not the price.'
 faq:

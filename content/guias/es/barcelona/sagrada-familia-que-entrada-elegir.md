@@ -21,6 +21,9 @@ slugs:
   es: sagrada-familia-que-entrada-elegir
   en: sagrada-familia-which-ticket-to-choose
   de: sagrada-familia-welches-ticket-waehlen
+  fr: sagrada-familia-quel-billet-choisir
+  it: sagrada-familia-quale-biglietto-scegliere
+  pt: sagrada-familia-que-bilhete-escolher
 tiempo_lectura: 4
 reservasArriba: true
 actividades:

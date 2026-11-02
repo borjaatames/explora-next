@@ -21,6 +21,9 @@ slugs:
   es: carnaval-de-cadiz
   en: cadiz-carnival
   de: karneval-von-cadiz
+  fr: carnaval-de-cadix
+  it: carnevale-di-cadice
+  pt: carnaval-de-cadis
 reservasArriba: true
 respuestaCorta: 'The 2027 Cádiz Carnival runs from **Thursday 4 to Sunday 14 February**, with the **Falla contest final on Friday 5 February**. The street carnival, with groups singing satirical songs in La Viña and El Pópulo, is **free**. What sells out is accommodation: **book months ahead** or stay in Jerez, El Puerto or San Fernando and come in by train.'
 actividades:

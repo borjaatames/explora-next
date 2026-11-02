@@ -21,8 +21,9 @@ slugs:
   es: navidad-madrid
   en: christmas-in-madrid
   de: weihnachten-madrid
-  pt: natal-em-madrid
+  fr: noel-a-madrid
   it: natale-a-madrid
+  pt: natal-em-madrid
 reservasArriba: true
 respuestaCorta: "As luzes acendem-se no **final de novembro** e ficam até ao Dia de Reis (6 de janeiro), em mais de 250 pontos da cidade. O imprescindível: o **mercado de Natal da Plaza Mayor**, o **Cortylandia** na Calle Preciados, ver as luzes no autocarro **Naviluz** ou de tuk-tuk e a **Cavalgada dos Reis Magos** a 5 de janeiro. Vá num dia de semana: aos sábados de dezembro o centro fica parado."
 actividades:

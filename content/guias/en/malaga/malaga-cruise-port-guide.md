@@ -24,6 +24,9 @@ slugs:
   es: puerto-malaga-cruceros-que-hacer
   en: malaga-cruise-port-guide
   de: malaga-kreuzfahrt-landgang
+  fr: port-de-malaga-escale-croisiere
+  it: porto-di-malaga-crociera-cosa-fare
+  pt: porto-de-malaga-cruzeiros-o-que-fazer
 reservasArriba: true
 respuestaCorta: 'Big ships dock at the **Levante pier**, about **2-2.5 km from the old town**: a 25-30 minute walk past Muelle Uno, the **shuttle bus to Plaza de la Marina** (around €5 return) or a taxi (**€9.45 minimum** from the terminal). **Four hours** is enough for the Alcazaba, the Roman Theatre and the Cathedral. The **Alhambra** is only worth it with **8 hours or more** ashore and a tour that works around your ship''s timetable.'
 faq:

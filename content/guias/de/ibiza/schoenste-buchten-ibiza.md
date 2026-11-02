@@ -20,6 +20,9 @@ slugs:
   es: mejores-calas-ibiza
   en: best-coves-ibiza
   de: schoenste-buchten-ibiza
+  fr: plus-belles-criques-d-ibiza
+  it: calette-piu-belle-di-ibiza
+  pt: melhores-calas-de-ibiza
 opciones:
   - ficha: ruta-calas-ibiza-todo-incluido-paddle-esnorquel
     etiqueta: Bestbewertet

@@ -23,6 +23,9 @@ slugs:
   es: granada-en-2-dias
   en: granada-in-2-days
   de: granada-in-2-tagen
+  fr: grenade-en-2-jours
+  it: granada-in-2-giorni
+  pt: granada-em-2-dias
 reservasArriba: true
 actividades:
   - alhambra-entrada-general

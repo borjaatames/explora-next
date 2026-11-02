@@ -21,6 +21,9 @@ slugs:
   es: comer-en-barcelona-criterio
   en: eating-in-barcelona-with-criteria
   de: essen-in-barcelona
+  fr: ou-manger-a-barcelone-tapas-vermouth
+  it: dove-mangiare-a-barcellona
+  pt: onde-comer-em-barcelona
 respuestaCorta: 'Eat where Barcelonans eat: **Sant Antoni, El Born, Gràcia and Poble Sec**, never on Las Ramblas. Order **tap vermouth** at midday on weekends, bombas, pa amb tomàquet and fideuà rather than paella or sangria, and book Bar Cañete, Cal Pep and Bar del Pla days ahead. Dinner starts at **8:30 PM**.'
 reservasArriba: true
 actividades:

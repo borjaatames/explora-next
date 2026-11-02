@@ -21,6 +21,8 @@ slugs:
   es: salamanca-en-un-fin-de-semana
   en: salamanca-weekend-trip
   de: salamanca-wochenendtrip
+  fr: salamanque-en-un-week-end
+  it: salamanca-in-un-fine-settimana
   pt: salamanca-num-fim-de-semana
 reservasArriba: true
 actividades:

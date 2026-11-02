@@ -21,6 +21,7 @@ slugs:
   de: teide-besteigen
   fr: ascension-du-teide
   it: salire-sul-teide
+  pt: subir-ao-teide
 reservasArriba: true
 respuestaCorta: 'Die **Seilbahn** (42 € hin und zurück, Stand 2026) fährt in unter 8 Minuten nach **La Rambleta (3.555 m)**, wo zwei Wege zu Aussichtspunkten ohne Genehmigung offen sind. Für die letzten 160 m zum **Gipfel (3.715 m)** brauchst du eine **Genehmigung mit Zeitfenster über Tenerife ON** (15 € für Besucher von außerhalb der Kanaren). Der Ausflug mit Seilbahnticket und Transfer kostet ab 92 €.'
 actividades:

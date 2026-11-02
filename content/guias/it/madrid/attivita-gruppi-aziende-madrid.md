@@ -22,6 +22,7 @@ keywords:
 slugs:
   es: actividades-grupos-empresas-madrid
   en: group-and-team-activities-madrid
+  fr: activites-groupes-entreprises-madrid
   it: attivita-gruppi-aziende-madrid
   pt: atividades-para-grupos-e-empresas-madrid
 reservasArriba: true

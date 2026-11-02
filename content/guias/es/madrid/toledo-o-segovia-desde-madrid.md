@@ -20,6 +20,9 @@ keywords:
 slugs:
   es: toledo-o-segovia-desde-madrid
   en: toledo-or-segovia-from-madrid
+  fr: tolede-ou-segovie-depuis-madrid
+  it: toledo-o-segovia-da-madrid
+  pt: toledo-ou-segovia-desde-madrid
 reservasArriba: true
 respuestaCorta: 'Si solo tienes un día y es tu primer viaje, **elige Toledo**: hay más que ver y es una ciudad entera de tres culturas, con la Catedral y El Greco. **Elige Segovia** si vas en verano, si te apetece un día más tranquilo y gastronómico, o si viajas con niños: acueducto, Catedral y Alcázar se ven en medio día. Las dos están a **unos 30 minutos en tren** (Avant desde Atocha o desde Chamartín).'
 actividades:

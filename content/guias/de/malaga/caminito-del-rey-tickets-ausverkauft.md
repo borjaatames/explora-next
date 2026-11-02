@@ -21,6 +21,9 @@ slugs:
   es: caminito-del-rey-entradas-agotadas
   en: caminito-del-rey-tickets-sold-out
   de: caminito-del-rey-tickets-ausverkauft
+  fr: caminito-del-rey-billets-epuises
+  it: caminito-del-rey-biglietti-esauriti
+  pt: caminito-del-rey-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Wenn die offizielle Website ausverkauft ist, schau dir **beide Varianten** (reguläres Ticket, 10 €, und offizielle Führung, 18 €) zu allen Uhrzeiten des Tages an, und denk daran, dass die **Kasse am Nordeingang** je nach Verfügbarkeit verkauft, ohne Garantie. Am sichersten ist ein **Ticket mit Guide über einen Wiederverkäufer** (ab 30 €) oder die **Tour mit Transfer ab Málaga** (ab 72 €), bei denen das Ticket schon inbegriffen ist."
 actividades:

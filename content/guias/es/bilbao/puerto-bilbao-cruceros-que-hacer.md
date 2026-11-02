@@ -24,6 +24,9 @@ slugs:
   es: puerto-bilbao-cruceros-que-hacer
   en: bilbao-cruise-port-guide
   de: bilbao-kreuzfahrt-landgang
+  fr: port-croisiere-bilbao-getxo-que-faire
+  it: porto-crociere-bilbao-guida
+  pt: porto-de-bilbau-cruzeiros
 reservasArriba: true
 respuestaCorta: "Los cruceros de Bilbao atracan en la **terminal de Getxo**, junto al puerto deportivo y la playa de Ereaga, a **12-15 km del centro**. Para ir a Bilbao: lanzadera de la naviera, **metro línea 1** desde Gobela o Neguri (a 1 km andando, **unos 20-25 min** hasta Moyua) o taxi (**unos 35 €**). Con 4 horas te da para el **Guggenheim** o el **Puente Bizkaia**; con 6-8, para los dos y el Casco Viejo. **El Guggenheim cierra los lunes** fuera del verano."
 faq:

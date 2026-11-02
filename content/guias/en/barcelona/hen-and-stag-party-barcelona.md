@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: despedida-de-soltera-barcelona
   en: hen-and-stag-party-barcelona
+  fr: evjf-evg-barcelone-idees-et-regles
+  it: addio-al-nubilato-barcellona
+  pt: despedida-de-solteira-barcelona
 reservasArriba: true
 respuestaCorta: "For a hen or stag do in Barcelona, the best bets are the **rooftop beer tasting for private groups only** on Passeig de Gràcia (€55 per person, 2 hours), **sip and paint with free-flowing sangria** (€19 per person, 2 h 30 min) and, outside winter, the **catamaran boat party with a DJ** (€53.10 per person, with 4 drinks and club entry). Mind the rules: since 29 October 2025 organised bar crawls are banned across the whole city, and since February 2026 sexual-themed accessories in the street can get you fined."
 faq:

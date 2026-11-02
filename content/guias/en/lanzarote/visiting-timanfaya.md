@@ -20,6 +20,8 @@ slugs:
   en: visiting-timanfaya
   de: timanfaya-besuchen
   fr: visiter-timanfaya
+  it: timanfaya-come-visitarlo
+  pt: timanfaya-como-visitar
 reservasArriba: true
 respuestaCorta: 'The **Fire Mountains** ticket costs **€30** (free up to age 6) and is **sold online only**, for a set date and time: there''s no ticket office and it isn''t valid outside your slot. It includes the **Volcano Route** by coach, about 35-40 minutes, and the geothermal demonstrations at Islote de Hilario. You can drive **your own car** to the car park, but you can''t tour the park on your own. Without a car, the half-day tour with entry starts at €59.'
 actividades:

@@ -21,6 +21,9 @@ slugs:
   es: escapadas-desde-bilbao
   en: day-trips-from-bilbao
   de: ausfluege-ab-bilbao
+  fr: excursions-depuis-bilbao
+  it: gite-da-bilbao
+  pt: escapadinhas-a-partir-de-bilbau
 reservasArriba: true
 respuestaCorta: 'La escapada estrella es **San Juan de Gaztelugatxe** (45 min): la entrada es gratis pero en temporada alta exige **reserva por franja horaria** (a diario del 15 de junio al 20 de septiembre, Semana Santa, puentes y muchos fines de semana). Combínala con Bermeo, Mundaka y Gernika en una excursión desde 45 €. **San Sebastián** está a una hora y se hace bien en el día, por libre o con tour (desde 45 €).'
 actividades:

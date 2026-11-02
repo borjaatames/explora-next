@@ -24,6 +24,9 @@ slugs:
   es: museo-reina-sofia-entradas-agotadas
   en: reina-sofia-museum-tickets-sold-out
   de: reina-sofia-museum-tickets-ausverkauft
+  fr: musee-reina-sofia-billets-epuises
+  it: museo-reina-sofia-biglietti-esauriti
+  pt: museu-reina-sofia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Das reguläre Ticket kostet **12 €** auf der offiziellen Website (`entradas.museoreinasofia.es`) und gilt für ein festes Zeitfenster. Ist deins ausverkauft, probier eine andere Uhrzeit am selben Tag oder die **Kasse**, die bis 30 Minuten vor Schließung verkauft. Am schnellsten weg sind die **freien Stunden** (montags und mittwochs bis samstags **19-21 Uhr**, sonntags **12:30-14:30 Uhr**), für die du trotzdem ein Gratisticket reservieren musst. Sicher klappt es mit einer **Führung mit inbegriffenem Eintritt** ab 29 €.'
 actividades:

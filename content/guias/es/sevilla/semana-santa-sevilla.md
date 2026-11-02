@@ -20,6 +20,9 @@ keywords:
 slugs:
   es: semana-santa-sevilla
   en: seville-holy-week
+  fr: semaine-sainte-a-seville
+  it: settimana-santa-siviglia
+  pt: semana-santa-de-sevilha
 reservasArriba: true
 respuestaCorta: 'Es del **21 al 28 de marzo de 2027**, y la noche grande, la **Madrugá**, es la del jueves 25 al viernes 26. Salen unas 70 hermandades y todas pasan por la **Carrera Oficial** (Campana, Sierpes, Plaza de San Francisco, Avenida y Catedral). Las sillas van por abono, así que lo práctico es verla en la calle, por los barrios, o alquilar un balcón. Reserva el hotel ya: es la semana más cara del año.'
 actividades:

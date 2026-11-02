@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: caminito-del-rey-por-libre-grupo-o-privado
   en: caminito-del-rey-independent-group-or-private
+  fr: caminito-del-rey-seul-en-groupe-ou-prive
+  it: caminito-del-rey-da-soli-in-gruppo-o-privato
+  pt: caminito-del-rey-por-conta-propria-grupo-ou-privado
 reservasArriba: true
 respuestaCorta: 'Si tienes **coche y consigues entrada**, ve **por libre**: **10 €** la entrada general (o **18 €** con guía oficial) más **2,50 €** de lanzadera. Sin coche, el **tour en grupo desde Málaga** por **72 €** (autobús, entrada y guía oficial) es la mejor relación calidad-precio y además te resuelve la entrada. El **privado** cuesta **396 € por persona siendo 2** y baja a **156 € siendo 6**: nunca alcanza al grupo, pero compensa en familias de 4-6 que quieren recogida en el hotel y guía solo para ellas.'
 faq:

@@ -20,6 +20,9 @@ slugs:
   es: ciudad-artes-ciencias-como-visitar
   en: city-of-arts-sciences-how-to-visit
   de: stadt-der-kuenste-und-wissenschaften-besichtigen
+  fr: cite-des-arts-et-des-sciences-comment-la-visiter
+  it: citta-delle-arti-e-delle-scienze-come-visitarla
+  pt: cidade-das-artes-e-das-ciencias-como-visitar
 reservasArriba: true
 actividades:
   - ciudad-artes-3-en-1-oceanografic-hemisferic-museu

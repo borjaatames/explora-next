@@ -20,6 +20,9 @@ keywords:
 slugs:
   es: alhambra-o-alcazar-de-sevilla
   en: alhambra-or-alcazar-of-seville
+  fr: alhambra-ou-alcazar-de-seville
+  it: alhambra-o-alcazar-di-siviglia
+  pt: alhambra-ou-alcazar-de-sevilha
 reservasArriba: true
 respuestaCorta: 'If your trip takes in both cities and you can only do one, **pick the Alhambra**: it is bigger, its Nasrid core is the original rather than the echo, and nothing else is quite like it. It costs more (**€22.27** vs **€15.50**), takes **about 4 hours** and has to be booked **weeks ahead**. If your trip is Seville without Granada, or you only have half a day, the **Royal Alcázar** (2.5–3 hours) is no consolation prize.'
 actividades:

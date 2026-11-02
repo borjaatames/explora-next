@@ -20,6 +20,9 @@ slugs:
   es: sevilla-en-1-dia
   en: seville-in-1-day
   de: sevilla-in-einem-tag
+  fr: seville-en-1-jour
+  it: siviglia-in-1-giorno
+  pt: sevilha-num-dia-a-partir-de-madrid
 reservasArriba: true
 respuestaCorta: 'Yes: take the **first AVE from Madrid (around 7 AM, in Seville by 9:30)** and walk the four essentials: the **Royal Alcázar at 10 AM** with an online ticket, the Cathedral and Giralda, Plaza de España in the afternoon and **Triana at sunset**, then the 9:30 PM train back. Return trains cost from €55–60 booked ahead; Alcázar timed tickets from €20.'
 actividades:

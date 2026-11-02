@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: sevilla-en-2-dias
   en: seville-in-2-days
+  fr: seville-en-2-jours
+  it: siviglia-in-2-giorni
+  pt: sevilha-em-2-dias
 reservasArriba: true
 respuestaCorta: '**Day 1** is for the monuments: the **Real Alcázar at 9:30** (€15.50 online, book days ahead), the **Cathedral and Giralda** (€13 online), Santa Cruz and **Plaza de España** at sunset, with flamenco at night. **Day 2** is **Triana**, the river and the Seville without queues: Casa de Pilatos or the Fine Arts Museum and Las Setas at sundown. All of it on foot.'
 faq:

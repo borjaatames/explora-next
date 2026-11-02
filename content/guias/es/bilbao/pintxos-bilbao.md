@@ -22,6 +22,9 @@ slugs:
   es: pintxos-bilbao
   en: bilbao-pintxos
   de: pintxos-in-bilbao
+  fr: pintxos-a-bilbao-guide-du-txikiteo
+  it: pintxos-a-bilbao
+  pt: pintxos-em-bilbau
 reservasArriba: true
 actividades:
   - tour-pintxos-bilbao-vino

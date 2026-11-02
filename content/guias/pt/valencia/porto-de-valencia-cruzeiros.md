@@ -24,6 +24,8 @@ slugs:
   es: puerto-valencia-cruceros-que-hacer
   en: valencia-cruise-port-guide
   de: valencia-kreuzfahrt-landgang
+  fr: port-de-valence-escale-croisiere
+  it: porto-crociere-valencia-cosa-fare
   pt: porto-de-valencia-cruzeiros
 reservasArriba: true
 respuestaCorta: 'Os navios de cruzeiro atracam junto ao **terminal de passageiros da Trasmed**, na entrada norte do porto, **a cerca de 5 km do centro histórico**, por isso ir a pé não é realista. As opções mais fáceis são o **táxi** (15-20 minutos, cerca de 12-15 €) ou o shuttle da sua companhia de cruzeiros; o **autocarro urbano da EMT** (linhas 4 e 95, **2 €**) sai de uma paragem a 10 minutos a pé. **Quatro horas** chegam para o Mercado Central, La Lonja e a Catedral; com 8, acrescente a Cidade das Artes e das Ciências ou uma paella na praia.'

@@ -24,6 +24,8 @@ slugs:
   en: palma-cruise-port-guide
   de: palma-kreuzfahrt-landgang
   fr: port-croisiere-palma-guide
+  it: porto-crociere-palma-cosa-fare
+  pt: porto-de-palma-cruzeiros-o-que-fazer
 reservasArriba: true
 respuestaCorta: "Les navires de croisière accostent au **quai de Poniente** (terminaux 1 à 4, à environ 3 km de la cathédrale) ou au **Dique del Oeste** (terminaux 5 et 6, à environ 4-5 km). Rejoignez le centre avec la **ligne 1 du bus EMT (2 €)**, en taxi (**environ 11-15 €**) ou par une promenade de 40 minutes en bord de mer depuis Poniente. **4 à 6 heures** suffisent pour la cathédrale et la vieille ville ; avec **8 heures ou plus**, vous pouvez prendre le **train de Sóller** ou visiter Valldemossa."
 faq:

@@ -22,6 +22,9 @@ slugs:
   es: la-pedrera-entradas-agotadas
   en: la-pedrera-tickets-sold-out
   de: la-pedrera-tickets-ausverkauft
+  fr: la-pedrera-billets-epuises
+  it: la-pedrera-biglietti-esauriti
+  pt: la-pedrera-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'If your time shows as sold out on **lapedrera.com**, check the other slots that day, the **Open Date** ticket (€45, no date or time, valid for 6 months), the **Sunrise** visit at 8:00 and the evening **Night Experience**. There is a box office, but some rates are **dearer than online**, so the safest options are a **resold timed ticket** (from €29) or a tour with entry included.'
 actividades:

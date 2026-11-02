@@ -22,6 +22,8 @@ slugs:
   en: what-to-see-in-mallorca
   de: was-sehen-auf-mallorca
   fr: que-voir-a-majorque
+  it: cosa-vedere-a-maiorca
+  pt: o-que-ver-em-maiorca
 reservasArriba: true
 respuestaCorta: "**Deux ou trois jours** suffisent pour l'essentiel : **Palma** et [sa cathédrale](/en/cities/mallorca/activities/palma-cathedral-mallorca-ticket) (billets à partir de 11 €), la [**Serra de Tramuntana**](/fr/cities/mallorca/activities/majorque-tour-ile-train-soller-tramway-bateau) (Valldemossa, Sóller et les belvédères) et les grottes et criques de l'est ; une semaine permet d'ajouter le nord. **Louez une voiture** (30–60 € par jour) et partez en mai–juin ou en septembre–octobre."
 opciones:

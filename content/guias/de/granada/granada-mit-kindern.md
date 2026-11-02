@@ -21,6 +21,9 @@ slugs:
   es: granada-con-ninos
   en: granada-with-kids
   de: granada-mit-kindern
+  fr: grenade-avec-des-enfants
+  it: granada-con-bambini
+  pt: granada-com-criancas
 reservasArriba: true
 respuestaCorta: 'Granada klappt mit Kindern, wenn du kürzt: **nur ein Teil der Alhambra** (Generalife, Alcazaba und zwei, drei Säle der Nasridenpaläste), der **Parque de las Ciencias** und der Albaicín tagsüber, nie in der Mittagshitze im Sommer. Achtung: **Kinderwagen sind in den Nasridenpalästen nicht erlaubt** (kostenlose Garderobe und Babytragen zum Ausleihen).'
 actividades:

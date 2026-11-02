@@ -22,8 +22,9 @@ slugs:
   es: tarragona-en-un-dia
   en: tarragona-in-one-day
   de: tarragona-in-einem-tag
-  pt: tarragona-num-dia
   fr: tarragone-en-un-jour
+  it: tarragona-in-un-giorno
+  pt: tarragona-num-dia
 reservasArriba: true
 actividades:
   - tour-tarraco-romana-a-pie

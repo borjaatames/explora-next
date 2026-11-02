@@ -19,6 +19,9 @@ slugs:
   es: formentera-desde-ibiza
   en: formentera-from-ibiza
   de: formentera-ab-ibiza
+  fr: formentera-depuis-ibiza
+  it: formentera-da-ibiza
+  pt: formentera-desde-ibiza
 respuestaCorta: 'To visit Formentera from Ibiza, take a **fast ferry from Ibiza port to La Savina** (about 30 minutes; return tickets **from €55** with an open return), then rent a scooter or bike. Give it a **full day**: Ses Illetes in the morning, lunch in Es Pujols or Migjorn and sunset at a lighthouse before the last ferry.'
 reservasArriba: true
 actividades:

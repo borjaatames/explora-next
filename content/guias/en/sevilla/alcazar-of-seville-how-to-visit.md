@@ -21,6 +21,8 @@ slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit
   de: alcazar-von-sevilla-besichtigen
+  fr: real-alcazar-de-seville-comment-le-visiter
+  it: real-alcazar-di-siviglia-come-visitarlo
   pt: alcazar-de-sevilha-como-visitar
 reservasArriba: true
 respuestaCorta: 'General admission is **€15.50** and the visit takes about 2.5-3 hours. In high season the ticket-office queue **tops 2 hours** and daily capacity sells out: buy a timed ticket online or go with a tour that includes it. Go in at 9:30 or, in summer, after 17:00 to avoid the heat in the gardens.'

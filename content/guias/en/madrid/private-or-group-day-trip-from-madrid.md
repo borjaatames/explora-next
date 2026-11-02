@@ -21,6 +21,9 @@ keywords:
 slugs:
   es: excursion-privada-o-en-grupo-desde-madrid
   en: private-or-group-day-trip-from-madrid
+  fr: excursion-privee-ou-en-groupe-depuis-madrid
+  it: escursione-privata-o-di-gruppo-da-madrid
+  pt: excursao-privada-ou-em-grupo-desde-madrid
 reservasArriba: false
 respuestaCorta: 'From Madrid, **the group tour almost always wins**: Toledo and Segovia together from **€41**, Toledo with tickets from **€79** and El Escorial with the Valley of Cuelgamuros from **€62** per person. The **private El Escorial trip** costs **€820 for 2** (€410 each) and is still **€320 each for 6**, so it never gets near the group price. Go private only if you need hotel pickup and your own pace (older travellers, limited mobility); for freedom without the cost, Toledo and Segovia are about 30 minutes away by train.'
 faq:

@@ -24,6 +24,9 @@ slugs:
   es: alhambra-nocturna-entradas-agotadas
   en: alhambra-night-visit-tickets-sold-out
   de: alhambra-nachtbesuch-tickets-ausverkauft
+  fr: alhambra-visite-nocturne-billets-epuises
+  it: alhambra-di-notte-biglietti-esauriti
+  pt: alhambra-visita-noturna-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'La **visita nocturna a los Palacios Nazaríes** cuesta **12,73 €** en la web oficial (`tickets.alhambra-patronato.es`) y del 15 de octubre al 31 de marzo solo hay **viernes y sábado, de 20:00 a 21:30**; del 1 de abril al 14 de octubre, **de martes a sábado, de 22:00 a 23:30**. Si sale agotada, mira la **Alhambra Experiencias** (22,27 €), la **Granada Card 24 h** (50 €), que tiene cupo propio, o la **taquilla nocturna**, que abre una hora antes. La opción segura es una **visita guiada nocturna con la entrada incluida**, desde 54 €.'
 actividades:

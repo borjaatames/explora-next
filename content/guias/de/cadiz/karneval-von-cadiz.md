@@ -21,6 +21,9 @@ slugs:
   es: carnaval-de-cadiz
   en: cadiz-carnival
   de: karneval-von-cadiz
+  fr: carnaval-de-cadix
+  it: carnevale-di-cadice
+  pt: carnaval-de-cadis
 actividades:
   - tour-guiado-cadiz-centro
   - torre-tavira-catedral-cadiz-visita-guiada

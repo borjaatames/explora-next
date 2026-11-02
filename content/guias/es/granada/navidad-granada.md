@@ -24,6 +24,9 @@ slugs:
   es: navidad-granada
   en: christmas-in-granada
   de: weihnachten-granada
+  fr: noel-a-grenade
+  it: natale-a-granada
+  pt: natal-em-granada
 reservasArriba: true
 respuestaCorta: 'Las luces se encienden a **finales de noviembre** (el 29 en 2025) y siguen hasta el 7 de enero, con un **espectáculo de luz y villancicos en la Plaza del Carmen a las 19:00, 20:00 y 21:00**. La **Alhambra** abre en invierno de 8:30 a 18:00 y **cierra solo el 25 de diciembre y el 1 de enero**; sus entradas de Navidad vuelan. Además: **Sierra Nevada** a unos 30 km (abrió el 29 de noviembre en 2025), la **Cabalgata** del 5 de enero a las 17:00 y el **2 de enero**, Día de la Toma, con la **Alcazaba gratis** para tocar la campana de la Torre de la Vela.'
 faq:

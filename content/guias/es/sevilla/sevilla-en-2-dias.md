@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: sevilla-en-2-dias
   en: seville-in-2-days
+  fr: seville-en-2-jours
+  it: siviglia-in-2-giorni
+  pt: sevilha-em-2-dias
 reservasArriba: true
 respuestaCorta: 'El **día 1** es el monumental: **Real Alcázar a las 9:30** (15,50 € online, resérvalo con días), **Catedral y Giralda** (13 € online), Santa Cruz y la **Plaza de España** al atardecer, con flamenco por la noche. El **día 2**, **Triana**, el río y la Sevilla sin colas: Casa de Pilatos o Bellas Artes y las Setas al caer el sol. Todo se hace a pie.'
 faq:

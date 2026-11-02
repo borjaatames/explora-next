@@ -22,7 +22,9 @@ keywords:
 slugs:
   es: planes-en-pareja-madrid
   en: romantic-things-to-do-in-madrid
+  fr: que-faire-en-couple-a-madrid
   it: cose-romantiche-da-fare-a-madrid
+  pt: planos-a-dois-em-madrid
 reservasArriba: true
 respuestaCorta: 'Los tres planes en pareja que más recomendamos en Madrid son el **flamenco en Las Carboneras**, un tablao pequeño en el Madrid de los Austrias con bebida incluida (45 € por persona), el **paseo privado por las tabernas centenarias** con dos consumiciones y dos tapas cada uno (127 € por persona) y, para una ocasión especial, el **vuelo en globo sobre Segovia** con desayuno y cava (205 € por persona). Si buscáis algo tranquilo y sin alcohol, el **picnic privado** con jamón, quesos y espumoso 0,0 % cuesta 70 € por persona.'
 faq:

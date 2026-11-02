@@ -21,6 +21,7 @@ slugs:
   es: navidad-madrid
   en: christmas-in-madrid
   de: weihnachten-madrid
+  fr: noel-a-madrid
   it: natale-a-madrid
   pt: natal-em-madrid
 reservasArriba: true

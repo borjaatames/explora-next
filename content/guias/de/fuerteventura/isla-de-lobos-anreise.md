@@ -22,6 +22,7 @@ slugs:
   de: isla-de-lobos-anreise
   fr: ile-de-lobos-comment-y-aller
   it: isola-di-lobos-come-arrivare
+  pt: ilha-de-lobos-como-ir
 reservasArriba: true
 actividades:
   - ferry-isla-lobos-corralejo-entrada

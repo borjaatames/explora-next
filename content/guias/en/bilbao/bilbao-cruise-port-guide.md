@@ -24,6 +24,9 @@ slugs:
   es: puerto-bilbao-cruceros-que-hacer
   en: bilbao-cruise-port-guide
   de: bilbao-kreuzfahrt-landgang
+  fr: port-croisiere-bilbao-getxo-que-faire
+  it: porto-crociere-bilbao-guida
+  pt: porto-de-bilbau-cruzeiros
 reservasArriba: true
 respuestaCorta: "Cruise ships calling at Bilbao dock at the **Getxo cruise terminal**, next to the marina and Ereaga beach, **12-15 km from the city centre**. To reach Bilbao: your cruise line's shuttle, **metro line 1** from Gobela or Neguri (a 1 km walk, then **about 20-25 min** to Moyua) or a taxi (**about €35**). Four hours is enough for the **Guggenheim** or the **Bizkaia Bridge**; 6-8 hours for both plus the Old Town. **The Guggenheim is closed on Mondays** outside summer."
 faq:

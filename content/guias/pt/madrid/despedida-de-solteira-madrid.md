@@ -22,6 +22,8 @@ keywords:
 slugs:
   es: despedida-de-soltera-madrid
   en: hen-and-stag-party-madrid
+  fr: enterrement-vie-de-jeune-fille-madrid
+  it: addio-al-nubilato-madrid
   pt: despedida-de-solteira-madrid
 reservasArriba: true
 respuestaCorta: "Os três planos que melhor funcionam numa despedida de solteira ou solteiro em Madrid são o **tuk-tuk de festa privado com a vossa própria música** (150 € por tuk-tuk, 1h30), o **workshop de paella e sangria** a poucos passos de Sol (64 € por pessoa, 3 horas) e, para a noite, um **pub crawl** por três bares e uma discoteca com um shot grátis em cada paragem (19 € por pessoa, 5 horas). Se forem mais de oito, reservem com duas ou três semanas de antecedência e confirmem o código de vestuário: com roupa desportiva não se entra nos locais noturnos."

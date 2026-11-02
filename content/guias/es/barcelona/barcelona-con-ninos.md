@@ -22,6 +22,9 @@ slugs:
   es: barcelona-con-ninos
   en: barcelona-with-kids
   de: barcelona-mit-kindern
+  fr: barcelone-avec-des-enfants
+  it: barcellona-con-bambini
+  pt: barcelona-com-criancas
 reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia

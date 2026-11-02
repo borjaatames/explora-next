@@ -19,6 +19,9 @@ slugs:
   es: sagrada-familia-que-entrada-elegir
   en: sagrada-familia-which-ticket-to-choose
   de: sagrada-familia-welches-ticket-waehlen
+  fr: sagrada-familia-quel-billet-choisir
+  it: sagrada-familia-quale-biglietto-scegliere
+  pt: sagrada-familia-que-bilhete-escolher
 fecha_actualizacion: "2026-10-23"
 reservasArriba: true
 respuestaCorta: 'For the basilica alone, the **audio-guide ticket from €34** is the cheapest bookable option; the **guided tour with tower access (€75)** is the only one that goes up a tower. To add Park Güell without losing the whole day, the **4-hour guided combo (€104)** covers both. Book weeks ahead: entry is by timed slot and **only sold online**.'

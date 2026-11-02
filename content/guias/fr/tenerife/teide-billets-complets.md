@@ -23,6 +23,7 @@ slugs:
   de: teide-tickets-ausverkauft
   fr: teide-billets-complets
   it: teide-biglietti-esauriti
+  pt: teide-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Ce sont deux réservations distinctes. Le **téléphérique** (environ 42 € aller-retour) est vendu sur `volcanoteide.com` ; s''il est complet, une **excursion avec téléphérique inclus** règle le problème à partir de 92 €. Le **permis du sommet** (15 €) se réserve sur **Tenerife ON**, qui libère des places **chaque lundi à 7 h pour les 56 jours suivants**. Si vous n''en obtenez pas, une nuit au **refuge d''Altavista** inclut l''accès au sommet de 6 h à 9 h.'
 actividades:

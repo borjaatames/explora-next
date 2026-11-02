@@ -22,6 +22,7 @@ slugs:
   en: tarragona-in-one-day
   de: tarragona-in-einem-tag
   fr: tarragone-en-un-jour
+  it: tarragona-in-un-giorno
   pt: tarragona-num-dia
 reservasArriba: true
 actividades:

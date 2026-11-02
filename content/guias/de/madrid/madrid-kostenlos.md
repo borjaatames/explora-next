@@ -21,6 +21,9 @@ slugs:
   es: madrid-gratis
   en: madrid-on-a-budget
   de: madrid-kostenlos
+  fr: madrid-gratuit
+  it: madrid-gratis-cosa-fare-senza-spendere
+  pt: madrid-gratis
 reservasArriba: true
 actividades:
   - museo-prado-entrada

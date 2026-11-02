@@ -21,6 +21,9 @@ slugs:
   es: flamenco-sevilla-que-tablao-elegir
   en: flamenco-seville-which-tablao-to-choose
   de: flamenco-sevilla-welches-tablao-waehlen
+  fr: flamenco-seville-quel-tablao-choisir
+  it: flamenco-siviglia-quale-tablao-scegliere
+  pt: flamenco-em-sevilha-que-tablao-escolher
 tiempo_lectura: 3
 reservasArriba: true
 opciones:

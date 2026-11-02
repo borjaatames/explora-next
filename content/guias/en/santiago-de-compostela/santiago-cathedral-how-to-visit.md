@@ -21,6 +21,9 @@ slugs:
   es: catedral-de-santiago-como-visitar
   en: santiago-cathedral-how-to-visit
   de: kathedrale-santiago-besichtigen
+  fr: cathedrale-de-saint-jacques-comment-la-visiter
+  it: cattedrale-di-santiago-come-visitarla
+  pt: catedral-de-santiago-como-visitar
 reservasArriba: true
 respuestaCorta: 'Entering Santiago Cathedral is **free, daily from 7:00 to 21:00**, through the Platerías door. What you pay for are the timed visits: the **Pórtico de la Gloria**, the **rooftops** and the museum, which sell out in summer (guided tours from €25). Since 16 October 2026 the **Pilgrim''s Masses are held in the nearby church of San Agustín** while the main chapel is under works.'
 actividades:

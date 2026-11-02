@@ -21,6 +21,9 @@ slugs:
   es: universidad-de-salamanca-como-visitar
   en: university-of-salamanca-how-to-visit
   de: universidad-de-salamanca-besichtigen
+  fr: universite-de-salamanque-comment-la-visiter
+  it: universita-di-salamanca-come-visitarla
+  pt: universidade-de-salamanca-como-visitar
 actividades:
   - universidad-salamanca-visita-guiada
   - tour-a-pie-salamanca-guia-local

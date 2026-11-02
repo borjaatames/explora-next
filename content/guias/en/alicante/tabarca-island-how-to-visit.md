@@ -21,6 +21,9 @@ slugs:
   es: isla-de-tabarca-como-visitar
   en: tabarca-island-how-to-visit
   de: isla-de-tabarca-besichtigen
+  fr: ile-de-tabarca-comment-la-visiter
+  it: isola-di-tabarca-come-visitarla
+  pt: ilha-de-tabarca-como-visitar
 respuestaCorta: 'To visit Tabarca, take the boat from **Alicante port** (about 1 hour; return **from €25**) or the shorter ferry from **Santa Pola** (about 30 minutes; **from €9**). Plan 4–5 hours on the island for the walled village, a swim with snorkel in the marine reserve and a caldero lunch, and check the last boat back before you go.'
 reservasArriba: true
 actividades:

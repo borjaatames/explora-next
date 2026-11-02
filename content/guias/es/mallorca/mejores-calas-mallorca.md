@@ -23,6 +23,9 @@ slugs:
   es: mejores-calas-mallorca
   en: best-coves-mallorca
   de: schoenste-buchten-mallorca
+  fr: plus-belles-criques-de-majorque
+  it: migliori-calette-maiorca
+  pt: melhores-enseadas-de-maiorca
 reservasArriba: true
 opciones:
   - ficha: calo-des-moro-barco-esnorquel

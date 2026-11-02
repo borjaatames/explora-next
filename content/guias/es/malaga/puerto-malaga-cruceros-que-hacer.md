@@ -24,6 +24,9 @@ slugs:
   es: puerto-malaga-cruceros-que-hacer
   en: malaga-cruise-port-guide
   de: malaga-kreuzfahrt-landgang
+  fr: port-de-malaga-escale-croisiere
+  it: porto-di-malaga-crociera-cosa-fare
+  pt: porto-de-malaga-cruzeiros-o-que-fazer
 reservasArriba: true
 respuestaCorta: 'Los barcos grandes atracan en el **muelle de Levante**, a unos **2-2,5 km del centro**: son 25-30 minutos a pie por el Muelle Uno, la **lanzadera hasta la plaza de la Marina** (unos 5 € ida y vuelta) o un taxi (**mínimo 9,45 €** desde la terminal). Con **4 horas** ves la Alcazaba, el Teatro Romano y la Catedral. La **Alhambra** solo compensa si tienes **8 horas o más** en tierra y una excursión que se ajuste a la hora del barco.'
 faq:

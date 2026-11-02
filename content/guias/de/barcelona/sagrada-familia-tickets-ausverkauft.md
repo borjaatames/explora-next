@@ -21,6 +21,9 @@ slugs:
   es: sagrada-familia-entradas-agotadas
   en: sagrada-familia-tickets-sold-out
   de: sagrada-familia-tickets-ausverkauft
+  fr: sagrada-familia-billets-epuises
+  it: sagrada-familia-biglietti-esauriti
+  pt: sagrada-familia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Die offiziellen Tickets werden **etwa zwei Monate im Voraus** freigeschaltet, eine Kasse gibt es nicht. Wenn sie ausverkauft sind, schau erneut auf der Website und in der App nach (Umbuchungen und Rückgaben werden wieder frei), probier die **QR-Codes zum Kauf** rund um die Basilika, falls noch Kapazität frei ist, oder buche eine **Tour mit inkludiertem Ticket**, die ein eigenes Kontingent hat. Die **internationale Messe** sonntags um 9:00 Uhr ist kostenlos, aber keine Besichtigung."
 actividades:

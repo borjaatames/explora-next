@@ -19,8 +19,9 @@ slugs:
   es: subir-al-teide
   en: climbing-mount-teide
   de: teide-besteigen
-  it: salire-sul-teide
   fr: ascension-du-teide
+  it: salire-sul-teide
+  pt: subir-ao-teide
 reservasArriba: true
 respuestaCorta: 'La **funivia** (42 € andata e ritorno, dati 2026) sale in meno di 8 minuti fino a **La Rambleta (3.555 m)**, dove due sentieri panoramici non richiedono permesso. Gli ultimi 160 m fino alla **vetta a 3.715 m** richiedono un **permesso a fasce orarie su Tenerife ON** (15 € per i visitatori non residenti alle Canarie). Un tour con biglietto della funivia e transfer parte da 92 €.'
 actividades:

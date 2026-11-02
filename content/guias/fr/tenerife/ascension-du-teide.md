@@ -21,6 +21,7 @@ slugs:
   de: teide-besteigen
   fr: ascension-du-teide
   it: salire-sul-teide
+  pt: subir-ao-teide
 reservasArriba: true
 respuestaCorta: 'Le **téléphérique** (42 € aller-retour en 2026) monte en moins de 8 minutes jusqu''à **La Rambleta (3 555 m)**, où deux sentiers vers des belvédères ne nécessitent pas de permis. Les 160 derniers mètres jusqu''au **sommet à 3 715 m** exigent un **permis avec créneau horaire sur Tenerife ON** (15 € pour les visiteurs non résidents des Canaries). Une excursion avec billet de téléphérique et transfert est à partir de 92 €.'
 actividades:

@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: planes-en-pareja-sevilla
   en: romantic-things-to-do-in-seville
+  fr: seville-en-amoureux
+  it: cose-romantiche-da-fare-a-siviglia
+  pt: o-que-fazer-em-sevilha-a-dois
 reservasArriba: true
 respuestaCorta: 'Los tres planes en pareja más especiales de Sevilla son el **tour privado por las azoteas al atardecer**, que termina en las Setas con un cóctel (192 € por persona, 384 € los dos), el **paseo privado en coche de caballos con guía** (298 € por coche, 1 h 30 min) y un **espectáculo de flamenco íntimo** como el de la Casa de la Memoria (24 € por persona). Si el presupuesto es ajustado, el mirador de las Setas por libre (16 €) y un crucero por el Guadalquivir con bebida (25 €) dan un atardecer igual de bonito por mucho menos.'
 faq:

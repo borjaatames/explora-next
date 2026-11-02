@@ -20,6 +20,9 @@ slugs:
   es: dunas-de-maspalomas
   en: maspalomas-dunes-guide
   de: duenen-von-maspalomas
+  fr: dunes-de-maspalomas-comment-les-visiter
+  it: dune-di-maspalomas
+  pt: dunas-de-maspalomas-como-visitar
 reservasArriba: true
 actividades:
   - paseo-camello-dunas-maspalomas

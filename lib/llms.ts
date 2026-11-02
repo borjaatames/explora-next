@@ -27,9 +27,12 @@ const SECCIONES: ReadonlyArray<{ idioma: Idioma; titulo: string }> = [
   { idioma: "es", titulo: "Guías en español" },
   { idioma: "en", titulo: "English guides" },
   { idioma: "de", titulo: "Reiseführer auf Deutsch" },
+  { idioma: "fr", titulo: "Guides en français" },
+  { idioma: "it", titulo: "Guide in italiano" },
+  { idioma: "pt", titulo: "Guias em português" },
 ];
 
-/** Idiomas sin guías: solo fichas de actividades (las que se hacen en ese idioma). */
+/** Listado de fichas de actividades por ciudad en los idiomas nuevos (además de sus guías). */
 const SECCIONES_SOLO_FICHAS: ReadonlyArray<{ idioma: Idioma; titulo: string; prefijo: string }> = [
   { idioma: "fr", titulo: "Activités en français", prefijo: "Activités à" },
   { idioma: "it", titulo: "Attività in italiano", prefijo: "Attività a" },
@@ -37,6 +40,11 @@ const SECCIONES_SOLO_FICHAS: ReadonlyArray<{ idioma: Idioma; titulo: string; pre
 ];
 
 const RE_AGOTADAS = /entradas-agotadas|tickets-sold-out|ausverkauft/;
+
+/** FR/IT/PT usan slugs propios: la guía es de entradas agotadas si su versión ES lo es. */
+function esGuiaAgotadas(g: GuiaListItem): boolean {
+  return RE_AGOTADAS.test(g.slug) || RE_AGOTADAS.test(g.slugs?.es ?? "");
+}
 
 function limpiar(texto: string): string {
   return texto
@@ -76,6 +84,9 @@ const TEXTO_COMPROBADO: Partial<Record<Idioma, string>> = {
   es: "precios y horarios comprobados el",
   en: "prices and opening hours checked on",
   de: "Preise und Öffnungszeiten geprüft am",
+  fr: "prix et horaires vérifiés le",
+  it: "prezzi e orari verificati il",
+  pt: "preços e horários verificados em",
 };
 
 function sufijoComprobado(g: GuiaListItem): string {
@@ -87,7 +98,7 @@ function sufijoComprobado(g: GuiaListItem): string {
 const CABECERA: string[] = [
   "# ExploraSpain",
   "",
-  "> Guías de viaje de España escritas y revisadas por Borja (ExploraSpain), con tours, entradas y actividades con cancelación gratuita. Travel guides to Spain written and checked by a local editor, with tours and tickets with free cancellation. Español, English, Deutsch.",
+  "> Guías de viaje de España escritas y revisadas por Borja (ExploraSpain), con tours, entradas y actividades con cancelación gratuita. Travel guides to Spain written and checked by a local editor, with tours and tickets with free cancellation. Español, English, Deutsch, Français, Italiano, Português.",
   "",
   `- Autor y método: ${SITE_URL}/sobre-nosotros#autor. Cada guía abre con una «respuesta corta»; las que indican fecha tienen precios y horarios comprobados en las webs oficiales ese día.`,
   "- Reservas: algunas actividades se reservan directamente en la web (calendario de reserva con pago seguro y confirmación inmediata); el resto enlaza a GetYourGuide.",
@@ -100,7 +111,7 @@ export function generarLlmsTxt(): string {
   const partes: string[] = [...CABECERA];
 
   const agotadas = SECCIONES.flatMap(({ idioma }) =>
-    obtenerListaGuias(idioma).filter((g) => RE_AGOTADAS.test(g.slug))
+    obtenerListaGuias(idioma).filter(esGuiaAgotadas)
   );
   if (agotadas.length > 0) {
     partes.push(
@@ -127,7 +138,7 @@ export function generarLlmsTxt(): string {
 
   for (const { idioma, titulo } of SECCIONES) {
     const guias = obtenerListaGuias(idioma).filter(
-      (g) => !RE_AGOTADAS.test(g.slug)
+      (g) => !esGuiaAgotadas(g)
     );
     if (guias.length === 0) continue;
     partes.push(`## ${titulo}`, "");

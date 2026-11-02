@@ -24,6 +24,9 @@ slugs:
   es: museo-reina-sofia-entradas-agotadas
   en: reina-sofia-museum-tickets-sold-out
   de: reina-sofia-museum-tickets-ausverkauft
+  fr: musee-reina-sofia-billets-epuises
+  it: museo-reina-sofia-biglietti-esauriti
+  pt: museu-reina-sofia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'La entrada general cuesta **12 €** en la web oficial (`entradas.museoreinasofia.es`) y se compra con hora; si tu franja sale agotada, prueba otra hora del mismo día o la **taquilla**, que vende hasta 30 minutos antes del cierre. Lo que más se agota son las **horas gratis** (lunes y de miércoles a sábado de **19:00 a 21:00**; domingos de **12:30 a 14:30**), que también exigen reservar entrada. Si quieres ir a tiro hecho, una **visita guiada con la entrada incluida** cuesta desde 29 €.'
 actividades:

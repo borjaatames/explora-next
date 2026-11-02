@@ -23,6 +23,9 @@ keywords:
 slugs:
   es: tapas-madrid-por-plato
   en: madrid-tapas-dish-by-dish
+  fr: meilleures-tapas-de-madrid-plat-par-plat
+  it: tapas-madrid-piatto-per-piatto
+  pt: tapas-madrid-prato-a-prato
 reservasArriba: true
 respuestaCorta: 'The short list: **patatas bravas** at Las Bravas, **calamari sandwich** at El Brillante, **tortilla** at Casa Dani, **torreznos** at El Pedrusco de Aldealcorvo, **callos** at Malacatín, **ham** at Lhardy and **croquetas** at Casa Julio. A crawl of four or five bars costs **€25–35 per person**; bars fill up from 13:30 to 15:30 and from 21:00 to 23:00.'
 actividades:

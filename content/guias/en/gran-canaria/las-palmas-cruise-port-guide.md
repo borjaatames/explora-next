@@ -24,6 +24,9 @@ slugs:
   es: puerto-las-palmas-cruceros-que-hacer
   en: las-palmas-cruise-port-guide
   de: las-palmas-kreuzfahrt-landgang
+  fr: port-croisiere-las-palmas-que-faire
+  it: porto-crociere-las-palmas-guida
+  pt: porto-de-las-palmas-cruzeiros
 reservasArriba: true
 respuestaCorta: "Cruise ships dock at the **Santa Catalina quay**, right in the city: Santa Catalina park is a few minutes away and **Las Canteras beach a 10-15 minute walk**. The historic **Vegueta** quarter is about 4-5 km away: **city bus line 1 (€1.40)** or a **taxi (about €8-10)**. 4-6 hours covers Vegueta and Las Canteras; **Roque Nublo** or **Maspalomas** only make sense with **8 hours or more**."
 faq:

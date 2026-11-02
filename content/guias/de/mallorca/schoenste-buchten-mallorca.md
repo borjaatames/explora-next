@@ -22,6 +22,9 @@ slugs:
   es: mejores-calas-mallorca
   en: best-coves-mallorca
   de: schoenste-buchten-mallorca
+  fr: plus-belles-criques-de-majorque
+  it: migliori-calette-maiorca
+  pt: melhores-enseadas-de-maiorca
 opciones:
   - ficha: calo-des-moro-barco-esnorquel
     etiqueta: Caló des Moro

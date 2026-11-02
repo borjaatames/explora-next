@@ -21,6 +21,9 @@ slugs:
   es: palacio-real-madrid-entradas-agotadas
   en: royal-palace-madrid-tickets-sold-out
   de: koenigspalast-madrid-tickets-ausverkauft
+  fr: palais-royal-madrid-billets-epuises
+  it: palazzo-reale-madrid-biglietti-esauriti
+  pt: palacio-real-madrid-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'General admission costs **€18** on `tickets.patrimonionacional.es`. If your slot is sold out, try another time, the **official guided visit (€26)** or the **ticket office**, which sells until an hour before closing. EU and Latin American citizens get in **free Monday to Thursday in the last two hours**, at the ticket office only. A **tour with entry included** secures your visit from €36.'
 actividades:

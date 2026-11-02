@@ -21,6 +21,9 @@ keywords:
 slugs:
   es: excursion-privada-o-en-grupo-desde-sevilla
   en: private-or-group-day-trip-from-seville
+  fr: excursion-privee-ou-en-groupe-depuis-seville
+  it: escursione-privata-o-di-gruppo-da-siviglia
+  pt: excursao-privada-ou-em-grupo-desde-sevilha
 reservasArriba: false
 respuestaCorta: 'For **1 or 2 people**, a **group tour** wins easily: Córdoba from **€109** and Ronda with the white villages from **€47** per person, against **€216-435** per person privately. With **4 people**, private drops to **€167-290** each and with **6**, to **€125-230**. From Seville a private trip **never becomes cheaper** than the group tour to the same place; you pay for hotel pickup, your own timing and not sharing. It makes sense with children, older travellers or parties of 5-6.'
 faq:

@@ -21,6 +21,8 @@ slugs:
   es: santiago-en-un-dia
   en: santiago-in-one-day
   de: santiago-in-einem-tag
+  fr: saint-jacques-de-compostelle-en-un-jour
+  it: santiago-di-compostela-in-un-giorno
   pt: santiago-de-compostela-num-dia
 reservasArriba: true
 actividades:

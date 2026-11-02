@@ -20,6 +20,9 @@ keywords:
 slugs:
   es: alhambra-o-alcazar-de-sevilla
   en: alhambra-or-alcazar-of-seville
+  fr: alhambra-ou-alcazar-de-seville
+  it: alhambra-o-alcazar-di-siviglia
+  pt: alhambra-ou-alcazar-de-sevilha
 reservasArriba: true
 respuestaCorta: 'Si solo puedes ver uno y vas a estar en las dos ciudades, **elige la Alhambra**: es más grande, más antigua en su núcleo nazarí y no tiene equivalente. Pero cuesta más (**22,27 €** frente a **15,50 €**), pide **unas 4 horas** y hay que reservarla **con semanas de antelación**. Si tu viaje es Sevilla y no Granada, o tienes medio día, el **Real Alcázar** (2,5-3 horas) no es un premio de consolación.'
 actividades:

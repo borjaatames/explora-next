@@ -20,6 +20,9 @@ keywords:
 slugs:
   es: toledo-o-segovia-desde-madrid
   en: toledo-or-segovia-from-madrid
+  fr: tolede-ou-segovie-depuis-madrid
+  it: toledo-o-segovia-da-madrid
+  pt: toledo-ou-segovia-desde-madrid
 reservasArriba: true
 respuestaCorta: 'If you only have one day and it''s your first trip, **pick Toledo**: there''s more to see, and the whole city is a monument to its three cultures, with the cathedral and El Greco. **Pick Segovia** in summer, if you want a slower day built around a long lunch, or if you''re travelling with kids: the aqueduct, cathedral and Alcázar fit into half a day. Both are **about 30 minutes by train** (Avant from Atocha or Chamartín).'
 actividades:

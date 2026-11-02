@@ -24,6 +24,9 @@ slugs:
   es: navidad-malaga
   en: christmas-in-malaga
   de: weihnachten-malaga
+  fr: noel-a-malaga
+  it: natale-a-malaga
+  pt: natal-em-malaga
 reservasArriba: true
 respuestaCorta: "Die Licht- und Musikshow in der **Calle Larios** läuft dreimal täglich, um **18:30, 20:30 und 22:00 Uhr**, vom Einschalten Ende November (2025 am 28.) bis zum 4. Januar, außer am **24. und 31. Dezember**. Zwei Minuten entfernt zeigt die **Kathedrale** eine eigene Projektion um 19:00, 20:30 und 22:00 Uhr. Dazu der **Weihnachtsmarkt am Paseo del Parque**, die **Krippe im Rathaus** und der **Dreikönigsumzug am 5. Januar** um 18:00 Uhr. Und bei 17 °C Durchschnittshöchstwert im Dezember ist ein Strandspaziergang drin."
 faq:

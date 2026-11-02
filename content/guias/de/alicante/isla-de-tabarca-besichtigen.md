@@ -21,6 +21,9 @@ slugs:
   es: isla-de-tabarca-como-visitar
   en: tabarca-island-how-to-visit
   de: isla-de-tabarca-besichtigen
+  fr: ile-de-tabarca-comment-la-visiter
+  it: isola-di-tabarca-come-visitarla
+  pt: ilha-de-tabarca-como-visitar
 actividades:
   - ferry-santa-pola-tabarca
   - barco-alicante-isla-tabarca-ida-vuelta

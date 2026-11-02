@@ -20,6 +20,9 @@ slugs:
   es: sevilla-en-3-dias
   en: seville-in-3-days
   de: sevilla-in-3-tagen
+  fr: seville-en-3-jours
+  it: siviglia-in-3-giorni
+  pt: sevilha-em-3-dias
 reservasArriba: true
 respuestaCorta: 'Three days lets you see Seville at a calm pace: **day one the Real Alcázar** (€15.50 online, book days ahead), the Cathedral and Giralda, and sunset at Plaza de España; **day two Triana** and the river at sunset; day three a slow day in town or the **Roman ruins of Itálica**, 9 km away. The best months are March to May and October to November.'
 actividades:

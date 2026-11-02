@@ -21,6 +21,9 @@ slugs:
   es: escapadas-desde-bilbao
   en: day-trips-from-bilbao
   de: ausfluege-ab-bilbao
+  fr: excursions-depuis-bilbao
+  it: gite-da-bilbao
+  pt: escapadinhas-a-partir-de-bilbau
 reservasArriba: true
 respuestaCorta: 'Der Ausflug schlechthin ist **San Juan de Gaztelugatxe** (45 Min.): Der Eintritt ist frei, in der Hochsaison aber nur mit **Reservierung für ein Zeitfenster** (täglich vom 15. Juni bis 20. September, dazu Ostern, Brückentage und viele Wochenenden). Kombiniere ihn mit Bermeo, Mundaka und Gernika auf einer Tour ab 45 €. **San Sebastián** liegt eine Stunde entfernt und klappt gut als Tagesausflug, auf eigene Faust oder mit Tour (ab 45 €).'
 actividades:

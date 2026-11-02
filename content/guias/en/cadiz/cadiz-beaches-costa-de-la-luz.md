@@ -23,6 +23,7 @@ slugs:
   de: straende-costa-de-la-luz-cadiz
   fr: plages-cadix-costa-de-la-luz
   it: spiagge-cadice-costa-de-la-luz
+  pt: praias-de-cadis-costa-de-la-luz
 respuestaCorta: 'The best beaches of Cádiz are **La Caleta** and La Victoria in the city, and on the Costa de la Luz **Bolonia** (dune and Roman ruins), **Zahara de los Atunes**, Los Caños de Meca, El Palmar and Tarifa. Choose by the wind: with **poniente** any open beach works; with strong **levante**, pick a sheltered cove. Sunset catamaran trips from Cádiz start **from €24.50**.'
 reservasArriba: true
 actividades:

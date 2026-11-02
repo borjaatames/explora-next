@@ -31,6 +31,9 @@ slugs:
   es: girona-juego-de-tronos
   en: girona-game-of-thrones
   de: girona-game-of-thrones
+  fr: gerone-game-of-thrones-lieux-de-tournage
+  it: girona-trono-di-spade
+  pt: girona-guerra-dos-tronos
 reservasArriba: true
 respuestaCorta: 'Girona war in der sechsten Staffel **Braavos und Königsmund**. Die Drehorte (die Kathedralentreppe, El Call, Sant Pere de Galligants, die Häuser am Onyar) liegen fünf Minuten voneinander entfernt: Du siehst sie zu Fuß an einem Vormittag, kostenlos. Mit Guide vergleicht die **Kleingruppentour** (4,9★, ab 35 €) jede Szene auf einem iPad mit dem echten Ort.'
 actividades:

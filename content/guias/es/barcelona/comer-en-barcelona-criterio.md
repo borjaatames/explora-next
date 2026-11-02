@@ -23,6 +23,9 @@ slugs:
   es: comer-en-barcelona-criterio
   en: eating-in-barcelona-with-criteria
   de: essen-in-barcelona
+  fr: ou-manger-a-barcelone-tapas-vermouth
+  it: dove-mangiare-a-barcellona
+  pt: onde-comer-em-barcelona
 reservasArriba: true
 actividades:
   - tour-gastronomico-mediodia-boqueria-vinos

@@ -24,7 +24,9 @@ slugs:
   es: puerto-barcelona-cruceros-que-hacer
   en: barcelona-cruise-port-guide
   de: barcelona-kreuzfahrt-landgang
+  fr: port-croisiere-barcelone-que-faire
   it: porto-crociere-barcellona-guida
+  pt: porto-de-barcelona-cruzeiros
 reservasArriba: true
 respuestaCorta: "La maggior parte delle navi attracca al **Moll Adossat**, a **25-45 minuti a piedi** dal Monumento a Colombo. Il modo più semplice per uscire è il **Cruise Bus** (l'ex Portbus T3): **3,50 € solo andata o 5 € il biglietto giornaliero**, e in circa 5 minuti sei in fondo alla Rambla. La **Sagrada Família** è a circa 3 km da Colombo: 20-25 minuti in metro, oppure circa 20-25 € in taxi dalla nave. Con **4 ore**, fai il Quartiere Gotico e la Rambla oppure solo la Sagrada Família con biglietto prenotato; **Montserrat** solo con 8-9 ore."
 faq:

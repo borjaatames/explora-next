@@ -22,6 +22,9 @@ slugs:
   es: sevilla-en-1-dia
   en: seville-in-1-day
   de: sevilla-in-einem-tag
+  fr: seville-en-1-jour
+  it: siviglia-in-1-giorno
+  pt: sevilha-num-dia-a-partir-de-madrid
 reservasArriba: true
 actividades:
   - real-alcazar-sevilla-entrada

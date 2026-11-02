@@ -19,6 +19,9 @@ slugs:
   es: caminito-del-rey-como-visitar
   en: caminito-del-rey-how-to-visit
   de: caminito-del-rey-besichtigen
+  fr: caminito-del-rey-comment-le-visiter
+  it: caminito-del-rey-come-visitarlo
+  pt: caminito-del-rey-como-visitar
 actividades:
   - caminito-del-rey-entrada-guia-oficial
   - caminito-del-rey-guiado-desde-malaga

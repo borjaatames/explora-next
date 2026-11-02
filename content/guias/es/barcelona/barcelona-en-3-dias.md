@@ -23,6 +23,9 @@ slugs:
   es: barcelona-en-3-dias
   en: barcelona-in-3-days
   de: barcelona-in-3-tagen
+  fr: barcelone-en-3-jours
+  it: barcellona-in-3-giorni
+  pt: barcelona-em-3-dias
 reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia

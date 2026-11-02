@@ -21,6 +21,7 @@ slugs:
   de: mezquita-catedral-besichtigen
   fr: mosquee-cathedrale-cordoue-comment-la-visiter
   it: moschea-cattedrale-cordova-come-visitarla
+  pt: mesquita-catedral-de-cordova-como-visitar
 respuestaCorta: 'La Mosquée-cathédrale coûte **15 €** (gratuit pour les moins de 10 ans) et est **gratuite du lundi au samedi de 8 h 30 à 9 h 30**, uniquement pour les visiteurs individuels. Allez-y dès l''ouverture, prévoyez **1 h à 1 h 30** et couvrez épaules et genoux. Le dimanche, le culte la ferme entre 11 h 30 et 15 h. Une visite guidée coupe-file avec le clocher coûte à partir de 32 €.'
 reservasArriba: true
 actividades:

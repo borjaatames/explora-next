@@ -21,6 +21,9 @@ slugs:
   es: barcelona-en-1-dia
   en: barcelona-in-1-day
   de: barcelona-in-einem-tag
+  fr: barcelone-en-1-jour-depuis-madrid
+  it: barcellona-in-1-giorno
+  pt: barcelona-num-dia
 reservasArriba: true
 respuestaCorta: 'Yes, with discipline: the **AVE takes about 3 hours** (Adif keeps its speed limits until the end of 2026), so a train around 6:15 AM gives you about 10 hours in the city. Book the **Sagrada Familia** (from €26) and **Park Güell** (€18) online days ahead, see the Gothic Quarter, eat in El Born, then go up to the **Bunkers del Carmel** in the afternoon (they close at 5:30 PM in winter) and walk down to Park Güell before the 7:30 PM train.'
 opciones:

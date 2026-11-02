@@ -22,6 +22,7 @@ slugs:
   de: alhambra-welche-tour-waehlen
   fr: alhambra-quelle-visite-choisir
   it: alhambra-quale-tour-scegliere
+  pt: alhambra-que-tour-escolher
 respuestaCorta: 'Six des visites de l''Alhambra en vente suivent **le même parcours de 3 heures** (Alcazaba, palais nasrides, Generalife) pour un prix de 50 à 96 € : réservez donc la moins chère qui a un créneau à votre date, généralement **Entrée et visite guidée à partir de 50 €**. Seules la **visite de nuit**, la **visite privée** et le **billet jardins seuls** sont vraiment différents. Réservez plusieurs semaines à l''avance : les créneaux des palais nasrides s''épuisent.'
 reservasArriba: true
 actividades:

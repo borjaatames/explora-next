@@ -21,6 +21,8 @@ slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit
   de: sagrada-familia-besichtigen
+  fr: sagrada-familia-comment-la-visiter
+  it: sagrada-familia-come-visitarla
   pt: sagrada-familia-como-visitar
 reservasArriba: true
 actividades:

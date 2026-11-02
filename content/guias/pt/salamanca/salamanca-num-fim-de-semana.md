@@ -20,6 +20,8 @@ slugs:
   es: salamanca-en-un-fin-de-semana
   en: salamanca-weekend-trip
   de: salamanca-wochenendtrip
+  fr: salamanque-en-un-week-end
+  it: salamanca-in-un-fine-settimana
   pt: salamanca-num-fim-de-semana
 reservasArriba: true
 respuestaCorta: "Dois dias é a duração certa para Salamanca. Faça **os grandes monumentos no sábado** (Plaza Mayor, La Clerecía, a Universidade, as duas catedrais), a Ponte Romana ao pôr do sol e **a noite de sábado**, quando a cidade se ilumina; reserve o domingo para a Casa Lis, a casa de Unamuno ou **uma** escapadinha a uma vila. Um passeio a pé com guia local custa a partir de 17 €."

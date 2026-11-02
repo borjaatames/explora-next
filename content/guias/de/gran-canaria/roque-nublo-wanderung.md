@@ -19,6 +19,9 @@ slugs:
   es: roque-nublo-como-subir
   en: roque-nublo-hike
   de: roque-nublo-wanderung
+  fr: roque-nublo-comment-monter
+  it: roque-nublo-come-salire
+  pt: roque-nublo-como-subir
 reservasArriba: true
 respuestaCorta: 'Zwischen **9:00 und 17:00 Uhr brauchst du eine Reservierung mit Zeitfenster** auf reservasroquenublo.com, und der alte Parkplatz La Goleta ist geschlossen: Park in **Cruz de Los Llanos** oder Tejeda und nimm den Shuttlebus. Ab dem Startpunkt sind es etwa **3 km hin und zurück, 1–1,5 Stunden**. Ohne Auto kostet der Ausflug ab Las Palmas ab 48 €.'
 actividades:

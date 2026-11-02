@@ -19,6 +19,9 @@ slugs:
   es: flamenco-madrid-que-tablao-elegir
   en: flamenco-madrid-which-tablao-to-choose
   de: flamenco-madrid-welches-tablao-waehlen
+  fr: flamenco-madrid-quel-tablao-choisir
+  it: flamenco-madrid-quale-tablao-scegliere
+  pt: flamenco-madrid-que-tablao-escolher
 fecha_actualizacion: "2026-10-23"
 reservasArriba: true
 respuestaCorta: 'Both are **one-hour shows** with a full cast. **Torres Bermejas** (from €31), by Gran Vía, is bigger and lets you add tapas or a 3-course dinner. **Las Carboneras** (from €45), in a palace basement near Plaza Mayor, is more intimate and the one marked **wheelchair accessible**. Tables go by arrival order, so **arrive 20 minutes early**.'

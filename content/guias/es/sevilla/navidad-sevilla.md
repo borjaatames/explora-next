@@ -24,6 +24,9 @@ slugs:
   es: navidad-sevilla
   en: christmas-in-seville
   de: weihnachten-sevilla
+  fr: noel-a-seville
+  it: natale-a-siviglia
+  pt: natal-em-sevilha
 reservasArriba: true
 respuestaCorta: 'Las luces se encienden a **finales de noviembre** (el 29 en 2025) en unas **300 calles**, y desde ese día la fachada del Ayuntamiento acoge un **mapping gratuito en la Plaza de San Francisco**, con pases de **18:30 a 23:00**. Lo imprescindible: la **Feria del Belén** junto a la Catedral, los **dulces de convento**, una **zambomba** y la **Cabalgata del Ateneo** el 5 de enero por la tarde. El **Alcázar cierra el 25 de diciembre y el 1 y el 6 de enero**.'
 faq:

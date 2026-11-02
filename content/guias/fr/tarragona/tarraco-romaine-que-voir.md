@@ -22,6 +22,7 @@ slugs:
   en: roman-tarraco-guide
   de: roemisches-tarraco
   fr: tarraco-romaine-que-voir
+  it: tarraco-romana-cosa-vedere
   pt: tarraco-romana-o-que-ver
 reservasArriba: true
 respuestaCorta: "La Tarraco romaine se visite à pied en **une demi-journée** : l'amphithéâtre au bord de la mer, le cirque et la tour du Prétoire, le forum et les remparts. Le **billet combiné à 15 €** donne accès à cinq sites (5 € chacun séparément), et les moins de 12 ans entrent gratuitement. **Tous les sites municipaux ferment le lundi**, et l'aqueduc des Ferreres, à 4 km, est gratuit."

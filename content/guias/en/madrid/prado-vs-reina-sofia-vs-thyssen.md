@@ -20,6 +20,9 @@ slugs:
   es: prado-reina-sofia-thyssen-comparativa
   en: prado-vs-reina-sofia-vs-thyssen
   de: prado-reina-sofia-thyssen-vergleich
+  fr: prado-reina-sofia-ou-thyssen
+  it: prado-reina-sofia-o-thyssen-quale-scegliere
+  pt: prado-reina-sofia-ou-thyssen-qual-escolher
 reservasArriba: true
 respuestaCorta: 'If you only have time for one, **go to the Prado** (€15, 2–3 hours; enter at 10 AM). With time for two, **add the Thyssen** (€14) for its range from Gothic to Pop Art and its Impressionists. Leave the **Reina Sofía** (€12) for 20th-century fans or a short Guernica visit.'
 actividades:

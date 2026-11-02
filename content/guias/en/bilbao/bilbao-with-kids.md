@@ -23,6 +23,8 @@ slugs:
   en: bilbao-with-kids
   de: bilbao-mit-kindern
   fr: bilbao-avec-des-enfants
+  it: bilbao-con-bambini
+  pt: bilbau-com-criancas
 reservasArriba: true
 actividades:
   - barco-ria-bilbao-portugalete

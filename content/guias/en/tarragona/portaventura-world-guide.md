@@ -21,6 +21,9 @@ slugs:
   es: portaventura-world-guia
   en: portaventura-world-guide
   de: portaventura-world-guide
+  fr: portaventura-world-guide-de-visite
+  it: portaventura-world-guida
+  pt: portaventura-world-guia-de-visita
 reservasArriba: true
 respuestaCorta: 'PortAventura World has three parks: **PortAventura Park**, **Ferrari Land** and the summer-only **Caribe Aquatic Park**. Plan **one day per park**; a ticket for PortAventura plus one Ferrari Land entry starts at **€55**. The 2026 season ends with Christmas, from **20 November 2026 to 6 January 2027**, and the park has its own train station 10 minutes from Tarragona.'
 actividades:

@@ -20,6 +20,9 @@ slugs:
   es: patios-de-cordoba
   en: cordoba-patios
   de: patios-von-cordoba
+  fr: patios-de-cordoue
+  it: patios-di-cordova
+  pt: patios-de-cordova
 reservasArriba: true
 actividades:
   - patios-cordobeses-tour-con-entradas

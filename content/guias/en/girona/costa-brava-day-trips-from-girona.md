@@ -32,6 +32,8 @@ slugs:
   en: costa-brava-day-trips-from-girona
   de: costa-brava-ausfluege-ab-girona
   fr: excursions-costa-brava-depuis-gerone
+  it: gite-costa-brava-da-girona
+  pt: escapadinhas-costa-brava-a-partir-de-girona
 reservasArriba: true
 respuestaCorta: 'From Girona, the **Dalí Theatre-Museum in Figueres** is 15 minutes by high-speed train, **Besalú** 45 minutes by car and **Cadaqués** 1 h 15. Without a car, the easiest option is the train to Figueres and a guided tour of the Dalí Theatre-Museum (from €31), or a boat trip, such as Roses–Cadaqués around Cap de Creus (from €27).'
 actividades:

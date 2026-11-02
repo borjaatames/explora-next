@@ -20,6 +20,8 @@ slugs:
   en: how-to-get-to-la-graciosa
   de: la-graciosa-anreise
   fr: comment-aller-a-la-graciosa
+  it: la-graciosa-come-arrivare
+  pt: como-ir-a-la-graciosa
 reservasArriba: true
 respuestaCorta: 'You get there by **ferry from Órzola**, at Lanzarote''s northern tip, with **Líneas Romero** or **Biosfera Express**: about **25 minutes** across and **€29 return** per non-resident adult with Biosfera (Romero from €28). On the island **there are no hire cars and no tarmac**: you get around on foot, by bike or by 4x4 taxi. If you''d rather not plan anything, the catamaran trip with ferry, lunch and swimming starts at €66.'
 actividades:

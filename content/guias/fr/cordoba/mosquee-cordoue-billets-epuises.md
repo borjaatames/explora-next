@@ -24,6 +24,7 @@ slugs:
   de: mezquita-cordoba-tickets-ausverkauft
   fr: mosquee-cordoue-billets-epuises
   it: moschea-cordova-biglietti-esauriti
+  pt: mesquita-de-cordova-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'La Mosquée elle-même est rarement complète : ce qui part en premier, c''est le **clocher** (22 personnes par créneau), la **visite de nuit** et certains créneaux lors des week-ends fériés. Essayez un autre horaire sur `tickets.mezquita-catedraldecordoba.es` (15 €), l''**heure gratuite du lundi au samedi, de 8 h 30 à 9 h 30**, ou une **visite avec entrée incluse**, à partir de 22 €.'
 actividades:

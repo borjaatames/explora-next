@@ -25,6 +25,8 @@ slugs:
   en: palma-cruise-port-guide
   de: palma-kreuzfahrt-landgang
   fr: port-croisiere-palma-guide
+  it: porto-crociere-palma-cosa-fare
+  pt: porto-de-palma-cruzeiros-o-que-fazer
 reservasArriba: true
 respuestaCorta: "Los cruceros atracan en el **Muelle de Poniente** (estaciones 1 a 4, a unos 3 km de la Catedral) o en el **Dique del Oeste** (estaciones 5 y 6, a unos 4-5 km). Al centro llegas en el **bus EMT línea 1 (2 €)**, en taxi (**unos 11-15 €**) o andando 40 minutos desde Poniente por el Paseo Marítimo. Con **4-6 horas** ves la Catedral y el casco antiguo; con **8 horas o más** te da para el **tren de Sóller** o Valldemossa."
 faq:

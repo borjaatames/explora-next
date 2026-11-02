@@ -21,6 +21,9 @@ keywords:
 slugs:
   es: excursion-privada-o-en-grupo-desde-sevilla
   en: private-or-group-day-trip-from-seville
+  fr: excursion-privee-ou-en-groupe-depuis-seville
+  it: escursione-privata-o-di-gruppo-da-siviglia
+  pt: excursao-privada-ou-em-grupo-desde-sevilha
 reservasArriba: false
 respuestaCorta: 'Si sois **1 o 2**, la excursión **en grupo** gana por goleada: Córdoba desde **109 €** y Ronda con los pueblos blancos desde **47 €** por persona, frente a **216-435 €** por persona en privado. Con **4 personas**, el privado baja a **167-290 €** por cabeza y con **6**, a **125-230 €**. En Sevilla el privado **nunca llega a ser más barato** que el grupo en el mismo destino; se paga por la recogida en el hotel, el horario propio y no compartir. Compensa con niños, mayores o grupos de 5-6.'
 faq:

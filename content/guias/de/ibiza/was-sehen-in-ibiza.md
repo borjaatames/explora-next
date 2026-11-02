@@ -19,6 +19,9 @@ slugs:
   es: que-ver-en-ibiza
   en: what-to-see-in-ibiza
   de: was-sehen-in-ibiza
+  fr: que-voir-a-ibiza
+  it: cosa-vedere-a-ibiza
+  pt: o-que-ver-em-ibiza
 reservasArriba: true
 actividades:
   - ruta-calas-ibiza-todo-incluido-paddle-esnorquel

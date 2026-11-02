@@ -22,7 +22,9 @@ keywords:
 slugs:
   es: planes-en-pareja-madrid
   en: romantic-things-to-do-in-madrid
+  fr: que-faire-en-couple-a-madrid
   it: cose-romantiche-da-fare-a-madrid
+  pt: planos-a-dois-em-madrid
 reservasArriba: true
 respuestaCorta: "Le tre cose che consigliamo di più alle coppie a Madrid sono il **flamenco a Las Carboneras**, un piccolo locale nella Madrid degli Asburgo con una consumazione inclusa (45 € a persona), il **tour privato delle taverne centenarie** con due bevande e due tapas a testa (127 € a persona) e, per un'occasione speciale, un **volo in mongolfiera su Segovia** con colazione e cava (205 € a persona). Per qualcosa di tranquillo e analcolico, il **picnic privato** con prosciutto, formaggi e spumante 0,0% costa 70 € a persona."
 faq:

@@ -21,6 +21,8 @@ slugs:
   en: cofete-villa-winter-how-to-get-there
   de: cofete-villa-winter-anreise
   fr: cofete-villa-winter-comment-y-aller
+  it: cofete-villa-winter-come-arrivare
+  pt: cofete-villa-winter-como-chegar
 reservasArriba: true
 actividades:
   - tour-cofete-villa-winter

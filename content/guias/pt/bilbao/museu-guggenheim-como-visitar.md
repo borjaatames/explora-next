@@ -21,6 +21,8 @@ slugs:
   es: museo-guggenheim-como-visitar
   en: guggenheim-museum-how-to-visit
   de: guggenheim-museum-besichtigen
+  fr: musee-guggenheim-bilbao-comment-le-visiter
+  it: museo-guggenheim-come-visitarlo
   pt: museu-guggenheim-como-visitar
 respuestaCorta: 'O exterior é gratuito: **o Puppy, a Maman e o titânio de Gehry** veem-se melhor ao pôr do sol. No interior, conte com **2-2,5 horas** e vá direto a *The Matter of Time*, de Richard Serra. O bilhete de adulto custa **12-18 € consoante as exposições patentes** (menores de 18 grátis, audioguia incluído); reserve online um horário marcado. Fecha na maioria das segundas-feiras.'
 reservasArriba: true

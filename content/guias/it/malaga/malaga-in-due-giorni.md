@@ -19,7 +19,9 @@ slugs:
   es: malaga-en-dos-dias
   en: malaga-in-two-days
   de: malaga-in-zwei-tagen
+  fr: malaga-en-deux-jours
   it: malaga-in-due-giorni
+  pt: malaga-em-2-dias
 reservasArriba: true
 respuestaCorta: 'Dedica **il primo giorno al centro storico**: Alcazaba e Gibralfaro (10 € combinato), i tetti della Cattedrale, il Museo Picasso e il tramonto con uno spiedo di sardine alla Malagueta. Dedica **il secondo giorno al Caminito del Rey**, che **si esaurisce con settimane di anticipo**, oppure a Nerja, Ronda o Antequera. Un tour guidato al Caminito da Malaga parte da 72 €.'
 actividades:

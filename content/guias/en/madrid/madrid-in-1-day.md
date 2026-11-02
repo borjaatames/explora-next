@@ -22,6 +22,7 @@ keywords:
 slugs:
   es: madrid-en-1-dia
   en: madrid-in-1-day
+  fr: madrid-en-1-jour
   it: madrid-in-1-giorno
   pt: madrid-num-dia
 reservasArriba: true

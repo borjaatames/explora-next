@@ -20,6 +20,9 @@ slugs:
   es: comer-en-malaga
   en: eating-in-malaga
   de: essen-in-malaga
+  fr: ou-manger-a-malaga
+  it: dove-mangiare-a-malaga
+  pt: onde-comer-em-malaga
 actividades:
   - malaga-tour-vino-tapas
   - malaga-taller-tapas-mercado-atarazanas

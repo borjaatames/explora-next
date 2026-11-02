@@ -24,6 +24,9 @@ slugs:
   es: puerto-las-palmas-cruceros-que-hacer
   en: las-palmas-cruise-port-guide
   de: las-palmas-kreuzfahrt-landgang
+  fr: port-croisiere-las-palmas-que-faire
+  it: porto-crociere-las-palmas-guida
+  pt: porto-de-las-palmas-cruzeiros
 reservasArriba: true
 respuestaCorta: "Los cruceros atracan en el **Muelle de Santa Catalina**, en plena ciudad: el parque de Santa Catalina está a pocos minutos y la **playa de Las Canteras a 10-15 minutos a pie**. El casco histórico de **Vegueta** queda a unos 4-5 km: **guagua municipal línea 1 (1,40 €)** o **taxi (unos 8-10 €)**. Con 4-6 horas ves Vegueta y Las Canteras; el **Roque Nublo** o **Maspalomas** solo compensan con **8 horas o más**."
 faq:

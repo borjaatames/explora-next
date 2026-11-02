@@ -20,6 +20,9 @@ slugs:
   es: barcelona-con-ninos
   en: barcelona-with-kids
   de: barcelona-mit-kindern
+  fr: barcelone-avec-des-enfants
+  it: barcellona-con-bambini
+  pt: barcelona-com-criancas
 respuestaCorta: 'With kids, plan **two big things a day at most** and build the trip around **CosmoCaixa** (€8, free for under-16s) and **Tibidabo** (€35 adults, €14 for kids 90–120 cm), plus the aquarium and the beach. Take Sagrada Familia only with kids over 7, use the metro, and keep away from Las Ramblas.'
 reservasArriba: true
 actividades:

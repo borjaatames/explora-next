@@ -17,6 +17,9 @@ keywords:
 slugs:
   es: excursion-privada-o-en-grupo-desde-malaga
   en: private-or-group-day-trips-from-malaga
+  fr: excursion-privee-ou-en-groupe-depuis-malaga
+  it: escursione-privata-o-di-gruppo-da-malaga
+  pt: excursao-privada-ou-em-grupo-desde-malaga
 reservasArriba: false
 actividades:
   - ronda-setenil-desde-malaga

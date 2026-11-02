@@ -24,6 +24,8 @@ slugs:
   es: puerto-valencia-cruceros-que-hacer
   en: valencia-cruise-port-guide
   de: valencia-kreuzfahrt-landgang
+  fr: port-de-valence-escale-croisiere
+  it: porto-crociere-valencia-cosa-fare
   pt: porto-de-valencia-cruzeiros
 reservasArriba: true
 respuestaCorta: 'Cruise ships berth by the **Trasmed passenger terminal** at the north entrance of the port, **about 5 km from the old town**, so walking in isn''t realistic. The easiest options are a **taxi** (15-20 minutes, about €12-15) or your cruise line''s shuttle; the **EMT city bus** (lines 4 and 95, **€2**) leaves from a stop 10 minutes'' walk away. **Four hours** covers the Central Market, La Lonja and the Cathedral; with 8, add the City of Arts and Sciences or paella on the beach.'

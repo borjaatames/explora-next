@@ -24,6 +24,9 @@ slugs:
   es: puerto-cadiz-cruceros-que-hacer
   en: cadiz-cruise-port-guide
   de: cadiz-kreuzfahrt-landgang
+  fr: port-croisiere-cadix-que-faire
+  it: porto-crociere-cadice-guida
+  pt: porto-de-cadis-cruzeiros
 reservasArriba: true
 respuestaCorta: 'In Cádiz the ship docks **a 5-minute walk from the old town**, so you don''t need a shuttle, bus or taxi. With **4-6 hours**, stay in Cádiz (Cathedral, Torre Tavira, El Pópulo and La Caleta). **Seville** is **1 h 30 by road** and only worth it with **8 hours or more** ashore: by train on your own, the risk of missing the ship is yours; with a **port-pickup shore excursion** (from €119) or a **private trip** (from €600 per group), the operator works to the ship''s timetable.'
 faq:

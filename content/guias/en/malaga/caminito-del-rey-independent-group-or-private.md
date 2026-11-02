@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: caminito-del-rey-por-libre-grupo-o-privado
   en: caminito-del-rey-independent-group-or-private
+  fr: caminito-del-rey-seul-en-groupe-ou-prive
+  it: caminito-del-rey-da-soli-in-gruppo-o-privato
+  pt: caminito-del-rey-por-conta-propria-grupo-ou-privado
 reservasArriba: true
 respuestaCorta: 'If you have **a car and can get a ticket**, go **independently**: **€10** for general entry (or **€18** with an official guide) plus **€2.50** for the shuttle bus. Without a car, the **group tour from Málaga** at **€72** (coach, ticket and official guide) is the best value and solves the ticket problem too. **Private** costs **€396 per person for 2** and falls to **€156 for 6**: it never reaches the group price, but it pays off for families of 4-6 who want hotel pickup and a guide to themselves.'
 faq:

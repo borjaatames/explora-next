@@ -20,6 +20,9 @@ slugs:
   es: que-ver-en-gran-canaria
   en: what-to-see-in-gran-canaria
   de: was-sehen-auf-gran-canaria
+  fr: que-voir-a-grande-canarie
+  it: cosa-vedere-a-gran-canaria
+  pt: o-que-ver-em-gran-canaria
 reservasArriba: true
 actividades:
   - destileria-ron-arehucas-tour-cata

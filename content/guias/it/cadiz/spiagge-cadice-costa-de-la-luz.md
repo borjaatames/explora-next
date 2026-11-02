@@ -21,8 +21,9 @@ slugs:
   es: playas-cadiz-costa-de-la-luz
   en: cadiz-beaches-costa-de-la-luz
   de: straende-costa-de-la-luz-cadiz
-  it: spiagge-cadice-costa-de-la-luz
   fr: plages-cadix-costa-de-la-luz
+  it: spiagge-cadice-costa-de-la-luz
+  pt: praias-de-cadis-costa-de-la-luz
 respuestaCorta: 'Le migliori spiagge di Cadice sono **La Caleta** e La Victoria in città e, sulla Costa de la Luz, **Bolonia** (duna e rovine romane), **Zahara de los Atunes**, Los Caños de Meca, El Palmar e Tarifa. Scegli in base al vento: con il **poniente** va bene qualsiasi spiaggia aperta; con il **levante** forte, meglio una caletta riparata. Le uscite in catamarano al tramonto da Cadice partono **da 24,50 €**.'
 reservasArriba: true
 actividades:

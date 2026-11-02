@@ -22,6 +22,9 @@ slugs:
   es: sevilla-tapas-criterio
   en: seville-tapas-with-criteria
   de: tapas-in-sevilla
+  fr: ou-manger-des-tapas-a-seville
+  it: tapas-a-siviglia-dove-mangiare
+  pt: tapas-em-sevilha-onde-comer
 reservasArriba: true
 actividades:
   - sevilla-tapas-tour-triana-cruzando-rio

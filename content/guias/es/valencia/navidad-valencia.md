@@ -24,6 +24,9 @@ slugs:
   es: navidad-valencia
   en: christmas-in-valencia
   de: weihnachten-valencia
+  fr: noel-a-valence
+  it: natale-a-valencia
+  pt: natal-em-valencia
 reservasArriba: true
 respuestaCorta: 'La Navidad valenciana gira en torno a la **Plaza del Ayuntamiento**: encendido con pólvora a finales de noviembre (el 21 en 2025), **piromusicales gratis cada sábado a las 18:30**, árbol de 25 metros y belén municipal. A cinco minutos, la **Feria de Artesanía de la Plaza de la Reina** (del 29 de noviembre al 6 de enero en 2025). Con niños, **Expojove** va del **26 de diciembre de 2026 al 4 de enero de 2027**, desde 3 €. La **Cabalgata** sale el 5 de enero a las 17:30.'
 faq:

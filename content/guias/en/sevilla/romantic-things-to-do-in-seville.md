@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: planes-en-pareja-sevilla
   en: romantic-things-to-do-in-seville
+  fr: seville-en-amoureux
+  it: cose-romantiche-da-fare-a-siviglia
+  pt: o-que-fazer-em-sevilha-a-dois
 reservasArriba: true
 respuestaCorta: "The three most special things to do as a couple in Seville are the **private sunset rooftop tour**, ending at the Setas with a cocktail (€192 per person, €384 for two), the **private horse-drawn carriage ride with a guide** (€298 per carriage, 1 h 30 min) and an **intimate flamenco show** such as Casa de la Memoria (€24 per person). On a tighter budget, the Setas viewpoint on your own (€16) and a Guadalquivir cruise with a drink (€25) give you an equally lovely sunset for far less."
 faq:

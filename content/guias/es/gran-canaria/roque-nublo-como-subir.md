@@ -19,6 +19,9 @@ slugs:
   es: roque-nublo-como-subir
   en: roque-nublo-hike
   de: roque-nublo-wanderung
+  fr: roque-nublo-comment-monter
+  it: roque-nublo-come-salire
+  pt: roque-nublo-como-subir
 reservasArriba: true
 respuestaCorta: 'Entre las **9:00 y las 17:00 hace falta reservar turno** en reservasroquenublo.com, y el antiguo aparcamiento de La Goleta está cerrado: aparca en **Cruz de Los Llanos** o en Tejeda y sube en la guagua lanzadera. Desde el inicio del sendero son unos **3 km ida y vuelta, 1-1,5 horas**. Sin coche, la excursión desde Las Palmas al Roque Nublo, el Pico de las Nieves y Tejeda sale desde 48 €.'
 actividades:

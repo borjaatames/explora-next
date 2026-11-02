@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: despedida-de-soltera-sevilla
   en: hen-and-stag-party-seville
+  fr: enterrement-de-vie-de-jeune-fille-seville
+  it: addio-al-nubilato-siviglia
+  pt: despedida-de-solteira-sevilha
 reservasArriba: true
 respuestaCorta: "For a hen or stag do in Seville, the three best options are the **private flamenco and tapas tour in Triana** (€720 for 6, about €120 each, with a show, tapas and 4 drinks per person), the **private electric tuk tuk** (€99 for up to 4, 1 hour) and a **flamenco show** from €24 per person. Since 2024, local police can fine anyone in the street in underwear or with genital-shaped accessories up to €750."
 faq:

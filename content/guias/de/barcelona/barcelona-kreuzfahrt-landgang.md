@@ -24,7 +24,9 @@ slugs:
   es: puerto-barcelona-cruceros-que-hacer
   en: barcelona-cruise-port-guide
   de: barcelona-kreuzfahrt-landgang
+  fr: port-croisiere-barcelone-que-faire
   it: porto-crociere-barcellona-guida
+  pt: porto-de-barcelona-cruzeiros
 reservasArriba: true
 respuestaCorta: 'Fast alle Schiffe legen am **Moll Adossat** an, **25-45 Minuten zu Fuß** von der Kolumbus-Säule. Am einfachsten ist der **Cruise Bus** (früher Portbus T3): **3,50 € pro Fahrt oder 5 € für das Tagesticket**, und nach etwa 5 Minuten stehst du am unteren Ende der Rambla. Die **Sagrada Família** liegt etwa 3 km von der Kolumbus-Säule: 20-25 Minuten mit der Metro oder rund 20-25 € mit dem Taxi ab Schiff. Mit **4 Stunden** schaffst du Gotisches Viertel und Rambla oder nur die Sagrada Família mit vorab gebuchtem Ticket; **Montserrat** nur mit 8-9 Stunden.'
 faq:

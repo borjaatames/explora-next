@@ -22,6 +22,9 @@ keywords:
 slugs:
   es: despedida-de-soltera-sevilla
   en: hen-and-stag-party-seville
+  fr: enterrement-de-vie-de-jeune-fille-seville
+  it: addio-al-nubilato-siviglia
+  pt: despedida-de-solteira-sevilha
 reservasArriba: true
 respuestaCorta: 'Para una despedida en Sevilla, las tres opciones que mejor funcionan son el **tour privado de flamenco y tapas en Triana** (720 € para 6, unos 120 € por persona, con espectáculo, tapas y 4 bebidas cada uno), el **tuk tuk eléctrico privado** (99 € hasta 4 personas, 1 hora) y un **espectáculo de flamenco** desde 24 € por persona. Desde 2024, la Policía Local puede multar con hasta 750 € a quien vaya por la calle en ropa interior o con complementos de forma genital.'
 faq:

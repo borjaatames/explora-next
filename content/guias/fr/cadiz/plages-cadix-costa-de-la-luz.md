@@ -23,6 +23,7 @@ slugs:
   de: straende-costa-de-la-luz-cadiz
   fr: plages-cadix-costa-de-la-luz
   it: spiagge-cadice-costa-de-la-luz
+  pt: praias-de-cadis-costa-de-la-luz
 respuestaCorta: 'Les meilleures plages de Cadix sont **La Caleta** et La Victoria en ville et, sur la Costa de la Luz, **Bolonia** (dune et ruines romaines), **Zahara de los Atunes**, Los Caños de Meca, El Palmar et Tarifa. Choisissez selon le vent : par **poniente**, n''importe quelle plage ouverte convient ; par fort **levante**, préférez une crique abritée. Les sorties en catamaran au coucher du soleil depuis Cadix sont **à partir de 24,50 €**.'
 reservasArriba: true
 actividades:

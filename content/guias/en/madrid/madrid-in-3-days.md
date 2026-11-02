@@ -20,6 +20,9 @@ slugs:
   es: madrid-en-3-dias
   en: madrid-in-3-days
   de: madrid-in-3-tagen
+  fr: madrid-en-3-jours
+  it: madrid-in-3-giorni
+  pt: madrid-em-3-dias
 reservasArriba: true
 respuestaCorta: 'Spend **day 1 on the Prado** (€15, go at 10:00), the Barrio de las Letras and sunset at Debod; **day 2 at El Escorial and the Valley of Cuelgamuros** (Cercanías C-3, closed Mondays); **day 3 in Retiro and Chamberí**, with the Reina Sofía if you still have energy. Book the Prado online to skip the queue.'
 actividades:

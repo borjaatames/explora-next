@@ -19,6 +19,9 @@ keywords:
 slugs:
   es: cordoba-desde-sevilla-malaga-granada
   en: cordoba-day-trip-from-seville-malaga-granada
+  fr: cordoue-depuis-seville-malaga-grenade
+  it: cordova-da-siviglia-malaga-granada
+  pt: cordova-a-partir-de-sevilha-malaga-granada
 reservasArriba: false
 actividades:
   - mezquita-juderia-cordoba-tour-privado

@@ -22,6 +22,7 @@ slugs:
   de: cordoba-in-einem-tag
   fr: cordoue-en-une-journee
   it: cordova-in-un-giorno
+  pt: cordova-num-dia
 reservasArriba: true
 respuestaCorta: "Oui, **Cordoue se visite en une journée** : la Mosquée-cathédrale, le quartier juif, l'Alcazar et le pont romain sont à cinq minutes à pied les uns des autres. Entrez dans la **Mosquée à la première heure**, avant la chaleur et les groupes (visite guidée coupe-file à partir de 32 €). Le mieux, d'avril à juin ou en septembre et octobre ; en juillet et en août, on frôle les 40 °C."
 opciones:

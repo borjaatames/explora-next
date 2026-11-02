@@ -24,8 +24,9 @@ slugs:
   es: navidad-barcelona
   en: christmas-in-barcelona
   de: weihnachten-barcelona
-  pt: natal-em-barcelona
+  fr: noel-a-barcelone
   it: natale-a-barcellona
+  pt: natal-em-barcelona
 reservasArriba: true
 respuestaCorta: "Barcelona é **Capital Europeia do Natal 2026** e estende as luzes por **130 km de ruas**. O essencial: a **feira de Natal de Santa Llúcia** junto à catedral (de 28 de novembro a 23 de dezembro em 2025), o espetáculo de luz na **Plaça Sant Jaume**, o **espetáculo gratuito de passagem de ano na Fonte Mágica de Montjuïc** e a **Cavalgada de Reis a 5 de janeiro** a partir das 18h00. Atenção: **o dia 26 de dezembro (Sant Esteve) também é feriado** na Catalunha."
 faq:

@@ -18,6 +18,9 @@ keywords:
 slugs:
   es: ronda-desde-malaga
   en: ronda-from-malaga
+  fr: ronda-depuis-malaga
+  it: ronda-da-malaga
+  pt: ronda-a-partir-de-malaga
 reservasArriba: true
 actividades:
   - ronda-setenil-desde-malaga

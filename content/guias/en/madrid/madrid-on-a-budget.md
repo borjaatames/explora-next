@@ -21,6 +21,9 @@ slugs:
   es: madrid-gratis
   en: madrid-on-a-budget
   de: madrid-kostenlos
+  fr: madrid-gratuit
+  it: madrid-gratis-cosa-fare-senza-spendere
+  pt: madrid-gratis
 reservasArriba: true
 respuestaCorta: 'The **Prado is free Mon–Sat 6–8 PM** (Sun 5–7 PM), the **Reina Sofía 7–9 PM** most evenings and the Thyssen on Monday afternoons. Templo de Debod, Faro de Moncloa, Retiro, Madrid Río and El Capricho cost nothing. If you pay for one thing, make it the **Prado at 10 AM (€15)**, with the museum almost empty.'
 actividades:

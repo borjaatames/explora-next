@@ -24,6 +24,9 @@ slugs:
   es: puerto-tenerife-cruceros-que-hacer
   en: tenerife-cruise-port-guide
   de: teneriffa-kreuzfahrt-landgang
+  fr: port-de-tenerife-escale-croisiere
+  it: porto-crociere-tenerife-cosa-fare
+  pt: porto-de-tenerife-cruzeiros-o-que-fazer
 reservasArriba: true
 respuestaCorta: "Los cruceros atracan en el **puerto de Santa Cruz**, en el Muelle Sur o el de Enlace, a **10-20 minutos a pie** de la Plaza de España: no necesitas lanzadera. Con 4 horas ve **Santa Cruz y La Laguna** en el **tranvía (1,35 €, unos 40 min)**. Con 6 horas, el bosque de **Anaga**. El **Teide** está a **1 h 15 min** por carretera de montaña: solo con **8 horas o más** y asumiendo que el teleférico puede cerrar por viento."
 faq:

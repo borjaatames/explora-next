@@ -20,6 +20,8 @@ slugs:
   es: valencia-en-2-dias
   en: valencia-in-2-days
   de: valencia-in-2-tagen
+  fr: valence-en-2-jours
+  it: valencia-in-2-giorni
   pt: valencia-em-2-dias
 reservasArriba: true
 actividades:

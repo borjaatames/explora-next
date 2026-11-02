@@ -23,6 +23,9 @@ keywords:
 slugs:
   es: tapas-madrid-por-plato
   en: madrid-tapas-dish-by-dish
+  fr: meilleures-tapas-de-madrid-plat-par-plat
+  it: tapas-madrid-piatto-per-piatto
+  pt: tapas-madrid-prato-a-prato
 reservasArriba: true
 respuestaCorta: 'La lista corta: **bravas** en Las Bravas, **bocadillo de calamares** en El Brillante, **tortilla** en Casa Dani, **torreznos** en El Pedrusco de Aldealcorvo, **callos** en Malacatín, **jamón** en Lhardy y **croquetas** en Casa Julio. Una ruta de cuatro o cinco bares sale por **25-35 € por persona**; las barras se llenan de 13:30 a 15:30 y de 21:00 a 23:00.'
 actividades:

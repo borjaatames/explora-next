@@ -21,6 +21,9 @@ keywords:
 slugs:
   es: excursion-privada-o-en-grupo-desde-granada
   en: private-or-group-day-trip-from-granada
+  fr: excursion-privee-ou-en-groupe-depuis-grenade
+  it: escursione-privata-o-di-gruppo-da-granada
+  pt: excursao-privada-ou-em-grupo-desde-granada
 reservasArriba: false
 respuestaCorta: 'Para **1 o 2 personas**, el **grupo** es más barato: la Alpujarra desde **71 €** y Ronda, el Caminito del Rey o Úbeda y Baeza desde **135 €** por persona, frente a **270-400 €** en privado. Con **4**, el privado baja a **200-260 €** por cabeza, y con **6**, a **150-200 €**. Granada es la ciudad andaluza donde el privado más se acerca al grupo: con 6 personas, el **Caminito del Rey privado sale a 150 €**, solo 15 € más que el tour en grupo.'
 faq:

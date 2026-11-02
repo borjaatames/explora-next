@@ -22,8 +22,9 @@ slugs:
   es: mezquita-cordoba-entradas-agotadas
   en: cordoba-mosque-tickets-sold-out
   de: mezquita-cordoba-tickets-ausverkauft
-  it: moschea-cordova-biglietti-esauriti
   fr: mosquee-cordoue-billets-epuises
+  it: moschea-cordova-biglietti-esauriti
+  pt: mesquita-de-cordova-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'La Mezquita in sé raramente va esaurita del tutto: quello che finisce prima è il **campanile** (22 persone per turno), la **visita notturna** e alcuni orari nei ponti festivi. Prova un altro orario su `tickets.mezquita-catedraldecordoba.es` (15 €), l''**ora gratuita da lunedì a sabato, dalle 8:30 alle 9:30**, o un **tour con ingresso incluso**, da 22 €.'
 actividades:

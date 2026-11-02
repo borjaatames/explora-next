@@ -24,7 +24,9 @@ slugs:
   es: puerto-barcelona-cruceros-que-hacer
   en: barcelona-cruise-port-guide
   de: barcelona-kreuzfahrt-landgang
+  fr: port-croisiere-barcelone-que-faire
   it: porto-crociere-barcellona-guida
+  pt: porto-de-barcelona-cruzeiros
 reservasArriba: true
 respuestaCorta: 'Most ships dock at the **Moll Adossat**, a **25-45 minute walk** from the Columbus Monument. The easiest way out is the **Cruise Bus** (the old T3 Portbus): **€3.50 one way or €5 for a day ticket**, and about 5 minutes later you''re at the bottom of La Rambla. The **Sagrada Família** is about 3 km from Columbus: 20-25 minutes by metro, or roughly €20-25 by taxi from the ship. With **4 hours**, do the Gothic Quarter and La Rambla or just the Sagrada Família with a pre-booked ticket; **Montserrat** only with 8-9 hours.'
 faq:

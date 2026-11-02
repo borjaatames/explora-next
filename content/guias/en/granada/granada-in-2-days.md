@@ -21,6 +21,9 @@ slugs:
   es: granada-en-2-dias
   en: granada-in-2-days
   de: granada-in-2-tagen
+  fr: grenade-en-2-jours
+  it: granada-in-2-giorni
+  pt: granada-em-2-dias
 reservasArriba: true
 respuestaCorta: 'Two days is enough if you **book the Alhambra 3–4 weeks ahead** (€22.27 on the official site) and split the city in two: day one is the Alhambra in the morning, the Albaicín at sunset and a **zambra in Sacromonte**; day two is the Royal Chapel, the Cathedral and the **Baroque Cartuja**. If daytime tickets are gone, the Nasrid Palaces night visit (€12.73) often still has space.'
 actividades:

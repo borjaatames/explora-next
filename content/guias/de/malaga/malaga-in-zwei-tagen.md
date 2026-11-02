@@ -19,7 +19,9 @@ slugs:
   es: malaga-en-dos-dias
   en: malaga-in-two-days
   de: malaga-in-zwei-tagen
+  fr: malaga-en-deux-jours
   it: malaga-in-due-giorni
+  pt: malaga-em-2-dias
 reservasArriba: true
 actividades:
   - alcazaba-teatro-romano-malaga-visita-guiada

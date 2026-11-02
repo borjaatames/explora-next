@@ -23,6 +23,9 @@ slugs:
   es: navidad-sevilla
   en: christmas-in-seville
   de: weihnachten-sevilla
+  fr: noel-a-seville
+  it: natale-a-siviglia
+  pt: natal-em-sevilha
 reservasArriba: true
 respuestaCorta: "The lights go on in **late November** (the 29th in 2025) across some **300 streets**, and from that day the City Hall façade hosts a **free projection show on Plaza de San Francisco**, running from **18:30 to 23:00**. The must-dos: the **nativity fair** by the cathedral, **convent sweets**, a **zambomba** and the **Three Kings Parade** on the afternoon of 5 January. The **Alcázar is closed on 25 December and on 1 and 6 January**."
 faq:

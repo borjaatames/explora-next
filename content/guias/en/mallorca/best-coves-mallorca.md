@@ -22,6 +22,9 @@ slugs:
   es: mejores-calas-mallorca
   en: best-coves-mallorca
   de: schoenste-buchten-mallorca
+  fr: plus-belles-criques-de-majorque
+  it: migliori-calette-maiorca
+  pt: melhores-enseadas-de-maiorca
 respuestaCorta: 'The best coves in Mallorca are **Es Trenc** (wild, Caribbean-style), **Cala Mondragó** (natural park, ideal for families), **Caló des Moro** (tiny and photogenic) and **Sa Calobra** in the Tramuntana. In July and August arrive **before 9:00 or after 18:00**, or go by boat: the Sóller–Sa Calobra trip starts **from €35**.'
 reservasArriba: true
 opciones:

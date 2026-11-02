@@ -17,6 +17,9 @@ keywords:
   - "donde hacer ruta de tapas en madrid"
 slugs:
   es: tapas-madrid-que-tour-elegir
+  fr: visite-tapas-madrid-laquelle-choisir
+  it: tour-tapas-madrid-quale-scegliere
+  pt: tapas-madrid-que-tour-escolher
 tiempo_lectura: 4
 fecha_actualizacion: "2026-10-24"
 reservasArriba: true

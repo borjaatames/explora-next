@@ -22,6 +22,9 @@ slugs:
   es: prado-reina-sofia-thyssen-comparativa
   en: prado-vs-reina-sofia-vs-thyssen
   de: prado-reina-sofia-thyssen-vergleich
+  fr: prado-reina-sofia-ou-thyssen
+  it: prado-reina-sofia-o-thyssen-quale-scegliere
+  pt: prado-reina-sofia-ou-thyssen-qual-escolher
 reservasArriba: true
 actividades:
   - art-walk-pass-prado-reina-sofia-thyssen

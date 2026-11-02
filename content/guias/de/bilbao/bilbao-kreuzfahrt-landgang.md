@@ -24,6 +24,9 @@ slugs:
   es: puerto-bilbao-cruceros-que-hacer
   en: bilbao-cruise-port-guide
   de: bilbao-kreuzfahrt-landgang
+  fr: port-croisiere-bilbao-getxo-que-faire
+  it: porto-crociere-bilbao-guida
+  pt: porto-de-bilbau-cruzeiros
 reservasArriba: true
 respuestaCorta: "Kreuzfahrtschiffe für Bilbao legen am **Kreuzfahrtterminal Getxo** an, neben dem Jachthafen und dem Strand von Ereaga, **12-15 km vom Zentrum**. Nach Bilbao kommst du mit dem Shuttle der Reederei, mit der **Metro-Linie 1** ab Gobela oder Neguri (1 km zu Fuß, dann **etwa 20-25 Min.** bis Moyua) oder mit dem Taxi (**etwa 35 €**). In 4 Stunden schaffst du das **Guggenheim** oder die **Puente Bizkaia**, in 6-8 Stunden beides plus Altstadt. **Montags ist das Guggenheim außerhalb des Sommers geschlossen.**"
 faq:
