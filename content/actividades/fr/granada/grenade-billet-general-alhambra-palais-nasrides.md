@@ -107,7 +107,7 @@ destacada: true
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-17'
 alternativa:
-  slug: alhambra-sin-esperas-palacios-nazaries
+  slug: visite-guidee-alhambra-sans-attente-palais-nasrides
   motivo: 'Les billets généraux de l''Alhambra sont épuisés plusieurs semaines à l''avance. S''il n''y a plus de date pour votre jour, les visites guidées disposent de leur propre quota de billets, comme celle-ci (4,8, palais nasrides inclus) :'
 ---
 
