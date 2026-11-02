@@ -6,6 +6,9 @@ descripcion: Dos horas en kayak por el Guadalquivir, pasando por la Torre del Or
 slugs:
   es: kayak-guadalquivir-sevilla-alquiler
   en: guadalquivir-kayak-rental-seville
+  fr: seville-location-kayak-guadalquivir
+  it: siviglia-kayak-sul-guadalquivir
+  pt: caiaque-guadalquivir-sevilha-aluguer
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 17

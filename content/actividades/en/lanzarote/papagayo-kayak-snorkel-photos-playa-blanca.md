@@ -7,6 +7,7 @@ slugs:
   es: kayak-esnorquel-papagayo-fotos-playa-blanca
   en: papagayo-kayak-snorkel-photos-playa-blanca
   fr: papagayo-kayak-snorkeling-photos-playa-blanca
+  pt: papagayo-caiaque-snorkel-fotografias-playa-blanca
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 45

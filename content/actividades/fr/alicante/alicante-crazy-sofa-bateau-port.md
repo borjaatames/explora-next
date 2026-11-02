@@ -7,6 +7,8 @@ slugs:
   es: crazy-sofa-alicante-lancha
   en: alicante-crazy-sofa-boat-ride
   fr: alicante-crazy-sofa-bateau-port
+  it: alicante-crazy-sofa-trainato-da-motoscafo
+  pt: alicante-crazy-sofa-lancha
 duracion: 1 jour (validité de la réservation)
 duracionMinutos: 1440
 precioDesde: 25

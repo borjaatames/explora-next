@@ -6,6 +6,9 @@ descripcion: Seville Cathedral + Giralda entry with downloadable mobile app audi
 slugs:
   es: catedral-sevilla-giralda-entrada-audioguia-movil
   en: seville-cathedral-giralda-entry-audio-guide
+  fr: seville-billet-cathedrale-giralda-audioguide-mobile
+  it: siviglia-biglietto-cattedrale-giralda-audioguida-app
+  pt: catedral-sevilha-giralda-bilhete-audioguia-telemovel
 duracion: 1 day (visit ~75 min)
 duracionMinutos: 75
 precioDesde: 39

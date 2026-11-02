@@ -4,8 +4,11 @@ slug: flamenco-show-teatro-sensaciones-granada
 ciudad: granada
 descripcion: One-hour flamenco show at Teatro Flamenco Granada (Plaza Campo del Príncipe). Theatre format with seating, drink included in General tickets, wheelchair accessible and host in 5 languages.
 slugs:
-  en: flamenco-show-teatro-sensaciones-granada
   es: flamenco-teatro-sensaciones-granada
+  en: flamenco-show-teatro-sensaciones-granada
+  fr: grenade-spectacle-flamenco-sensaciones-teatro-flamenco
+  it: granada-spettacolo-flamenco-sensaciones-teatro-flamenco
+  pt: espetaculo-flamenco-sensaciones-teatro-flamenco-granada
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 20

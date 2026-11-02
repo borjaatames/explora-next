@@ -6,6 +6,8 @@ descripcion: Entry to the Huerto del Cura in Elche, a botanical garden inside th
 slugs:
   es: huerto-del-cura-elche-entrada
   en: huerto-del-cura-elche-ticket
+  it: elche-biglietto-huerto-del-cura
+  pt: elche-huerto-del-cura-bilhete
 duracion: About 1 hour
 duracionMinutos: 60
 precioDesde: 7

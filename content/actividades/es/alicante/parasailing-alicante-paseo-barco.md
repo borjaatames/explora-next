@@ -4,9 +4,11 @@ slug: parasailing-alicante-paseo-barco
 ciudad: alicante
 descripcion: Paseo en lancha por la costa de Alicante con música y vuelo en parasailing de 15 minutos a unos 150 metros de altura, en grupos de hasta 5 personas por paravela.
 slugs:
-  en: alicante-parasailing-boat-trip
   es: parasailing-alicante-paseo-barco
+  en: alicante-parasailing-boat-trip
   fr: alicante-parachute-ascensionnel-balade-bateau
+  it: alicante-giro-in-barca-parasailing-con-bevanda
+  pt: alicante-parasailing-passeio-de-barco
 duracion: 1,5 horas
 duracionMinutos: 90
 precioDesde: 65

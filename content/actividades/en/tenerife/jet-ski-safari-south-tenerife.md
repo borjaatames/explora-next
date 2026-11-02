@@ -6,6 +6,7 @@ descripcion: 'Guided jet ski safari from Marina San Miguel along the south coast
 slugs:
   es: moto-de-agua-safari-costa-sur
   en: jet-ski-safari-south-tenerife
+  pt: safari-mota-de-agua-costa-sul-tenerife
 duracion: 40 minutes or 1 hour
 duracionMinutos: 40
 precioDesde: 32

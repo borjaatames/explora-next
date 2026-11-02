@@ -6,6 +6,9 @@ descripcion: An hour of live flamenco by award-winning artists at Tablao El Jale
 slugs:
   es: espectaculo-flamenco-tablao-el-jaleo-cordoba
   en: flamenco-show-tablao-el-jaleo-cordoba
+  fr: cordoue-spectacle-flamenco-tablao-el-jaleo-diner
+  it: cordova-flamenco-tablao-el-jaleo-cena-opzionale
+  pt: cordova-flamenco-tablao-el-jaleo-jantar
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 30

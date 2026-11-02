@@ -6,6 +6,9 @@ descripcion: Entrada general a la Alhambra con acceso a los Palacios Nazaríes, 
 slugs:
   es: alhambra-entrada-general
   en: alhambra-general-admission-ticket
+  fr: grenade-billet-general-alhambra-palais-nasrides
+  it: granada-biglietto-alhambra-palazzi-nasridi
+  pt: alhambra-bilhete-geral-palacios-nasridas
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 28

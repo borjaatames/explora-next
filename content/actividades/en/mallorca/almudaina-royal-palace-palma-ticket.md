@@ -6,6 +6,8 @@ descripcion: Self-guided entry to the Royal Palace of La Almudaina, an official 
 slugs:
   es: palacio-almudaina-palma-entrada
   en: almudaina-royal-palace-palma-ticket
+  it: palma-biglietto-palazzo-reale-almudaina
+  pt: palacio-real-almudaina-palma-bilhete
 duracion: 1-2 hours
 duracionMinutos: 90
 precioDesde: 11

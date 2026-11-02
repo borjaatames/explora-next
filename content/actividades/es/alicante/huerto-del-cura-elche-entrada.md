@@ -6,6 +6,8 @@ descripcion: Entrada al Huerto del Cura de Elche, jardín botánico dentro del P
 slugs:
   es: huerto-del-cura-elche-entrada
   en: huerto-del-cura-elche-ticket
+  it: elche-biglietto-huerto-del-cura
+  pt: elche-huerto-del-cura-bilhete
 duracion: 1 hora aproximadamente
 duracionMinutos: 60
 precioDesde: 7

@@ -6,6 +6,9 @@ descripcion: 3-hour boat trip from Barbate to spot dolphins and whales off Cape 
 slugs:
   es: avistamiento-delfines-trafalgar-barbate
   en: dolphin-whale-watching-trafalgar-barbate
+  fr: barbate-observation-dauphins-baleines-cap-trafalgar
+  it: barbate-avvistamento-delfini-balene-capo-trafalgar
+  pt: barbate-observacao-golfinhos-baleias-trafalgar
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 50

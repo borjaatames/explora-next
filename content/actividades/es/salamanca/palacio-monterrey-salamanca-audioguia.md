@@ -6,6 +6,7 @@ descripcion: Entrada al Palacio de Monterrey, propiedad de la Casa de Alba, con 
 slugs:
   es: palacio-monterrey-salamanca-audioguia
   en: monterrey-palace-salamanca-audio-guide-tour
+  it: salamanca-palazzo-di-monterrey-audioguida
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 7

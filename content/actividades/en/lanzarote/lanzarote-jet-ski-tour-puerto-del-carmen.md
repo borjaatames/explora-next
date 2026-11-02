@@ -7,6 +7,7 @@ slugs:
   es: moto-de-agua-puerto-del-carmen-lanzarote
   en: lanzarote-jet-ski-tour-puerto-del-carmen
   fr: puerto-del-carmen-excursion-jet-ski-lanzarote
+  pt: puerto-del-carmen-tour-mota-de-agua-costa-lanzarote
 duracion: 20 minutes - 2 hours
 duracionMinutos: 20
 precioDesde: 70

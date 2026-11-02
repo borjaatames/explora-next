@@ -6,6 +6,7 @@ descripcion: 3-hour small-group sunset boat trip along the Ibiza coast, with col
 slugs:
   es: barco-atardecer-ibiza-bebidas-bano
   en: ibiza-sunset-boat-trip-drinks-swim
+  pt: ibiza-passeio-barco-por-do-sol-bebidas-banho
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 70

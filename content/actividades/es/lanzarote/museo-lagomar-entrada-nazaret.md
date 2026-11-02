@@ -6,6 +6,7 @@ descripcion: Entrada al Museo LagOmar, en Nazaret, una antigua cantera volcánic
 slugs:
   es: museo-lagomar-entrada-nazaret
   en: lagomar-museum-ticket-nazaret
+  pt: lanzarote-bilhete-museu-lagomar-nazaret
 duracion: 45 minutos
 duracionMinutos: 45
 precioDesde: 10

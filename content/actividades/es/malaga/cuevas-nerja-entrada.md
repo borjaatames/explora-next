@@ -6,6 +6,9 @@ descripcion: 'Entrada a la Cueva de Nerja con audioguía: la columna de estalact
 slugs:
   es: cuevas-nerja-entrada
   en: nerja-caves-entry-ticket
+  fr: grotte-de-nerja-billet-audioguide
+  it: biglietto-grotta-di-nerja-audioguida
+  pt: gruta-de-nerja-bilhete-audioguia
 duracion: 45 minutos
 duracionMinutos: 45
 precioDesde: 15.5

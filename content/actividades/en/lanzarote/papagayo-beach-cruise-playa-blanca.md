@@ -6,6 +6,7 @@ descripcion: A Líneas Romero catamaran from Playa Blanca to Papagayo bay, with 
 slugs:
   es: minicrucero-papagayo-playa-blanca
   en: papagayo-beach-cruise-playa-blanca
+  pt: playa-blanca-minicruzeiro-papagayo-banho
 duracion: 1.5-3 hours
 duracionMinutos: 120
 precioDesde: 35

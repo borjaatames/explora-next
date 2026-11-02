@@ -6,6 +6,7 @@ descripcion: Entry to the Monterrey Palace, owned by the House of Alba, with an 
 slugs:
   es: palacio-monterrey-salamanca-audioguia
   en: monterrey-palace-salamanca-audio-guide-tour
+  it: salamanca-palazzo-di-monterrey-audioguida
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 7

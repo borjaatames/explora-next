@@ -6,6 +6,7 @@ descripcion: Barco privado solo para tu grupo (1 a 6 personas) desde Las Galleta
 slugs:
   es: avistamiento-cetaceos-barco-privado-las-galletas
   en: private-whale-watching-boat-las-galletas-tenerife
+  pt: observacao-cetaceos-barco-privado-las-galletas
 duracion: 2 o 3 horas
 duracionMinutos: 120
 precioDesde: 450

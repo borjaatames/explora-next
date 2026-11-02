@@ -6,6 +6,9 @@ descripcion: Espectáculo de flamenco de 1 hora en el patio Ecija del s. XVIII d
 slugs:
   es: museo-baile-flamenco-puro-show-sevilla
   en: seville-puro-flamenco-show-dance-museum
+  fr: seville-spectacle-puro-flamenco-musee-baile-flamenco
+  it: siviglia-puro-flamenco-museo-del-baile-flamenco
+  pt: espetaculo-puro-flamenco-museu-baile-flamenco-sevilha
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 33

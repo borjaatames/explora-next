@@ -6,6 +6,7 @@ descripcion: '1-day ticket to Jungle Park in Arona: 75,000 m² of jungle with 40
 slugs:
   es: jungle-park-arona-entrada
   en: jungle-park-arona-ticket
+  pt: jungle-park-arona-bilhete-zoo
 duracion: 1 day
 duracionMinutos: 360
 precioDesde: 36

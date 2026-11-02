@@ -6,6 +6,8 @@ descripcion: Excursión en barco de 2 h 30 desde Cala Figuera a Caló des Moro y
 slugs:
   es: calo-des-moro-barco-esnorquel
   en: calo-des-moro-boat-trip-snorkeling
+  it: escursione-in-barca-calo-des-moro-snorkeling
+  pt: maiorca-excursao-barco-calo-des-moro-snorkel
 duracion: 2 h 30
 duracionMinutos: 150
 precioDesde: 45

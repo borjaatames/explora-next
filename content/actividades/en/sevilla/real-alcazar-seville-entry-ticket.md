@@ -6,6 +6,9 @@ descripcion: Timed entry ticket to the Royal Alcázar of Seville, Europe's oldes
 slugs:
   es: real-alcazar-sevilla-entrada
   en: real-alcazar-seville-entry-ticket
+  fr: seville-billet-real-alcazar
+  it: siviglia-biglietto-real-alcazar
+  pt: real-alcazar-sevilha-bilhete-entrada
 duracion: 1.5-2 hours
 duracionMinutos: 105
 precioDesde: 20

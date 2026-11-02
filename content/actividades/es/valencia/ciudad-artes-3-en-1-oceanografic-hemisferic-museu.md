@@ -6,6 +6,7 @@ descripcion: 'Entrada combinada a los tres grandes atractivos de la Ciudad de la
 slugs:
   es: ciudad-artes-3-en-1-oceanografic-hemisferic-museu
   en: ciudad-artes-3-en-1-ticket
+  pt: cidade-artes-ciencias-bilhete-3-em-1-oceanografic
 duracion: 1 día completo
 duracionMinutos: 600
 precioDesde: 46

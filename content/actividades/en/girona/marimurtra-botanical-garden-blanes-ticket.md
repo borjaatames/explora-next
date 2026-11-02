@@ -6,6 +6,8 @@ descripcion: Entry ticket to the Marimurtra Botanical Garden in Blanes, with ove
 slugs:
   es: jardin-botanico-marimurtra-blanes-entrada
   en: marimurtra-botanical-garden-blanes-ticket
+  it: blanes-biglietto-giardino-botanico-marimurtra
+  pt: blanes-jardim-botanico-marimurtra-bilhete
 duracion: Valid 1 day
 duracionMinutos: 120
 precioDesde: 10

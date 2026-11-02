@@ -7,8 +7,9 @@ slugs:
   es: barco-ria-bilbao-portugalete
   en: bilbao-estuary-boat-tour-portugalete
   de: bilbao-bootsfahrt-ria-portugalete
-  it: bilbao-giro-in-barca-ria-portugalete
   fr: bilbao-balade-bateau-ria-portugalete
+  it: bilbao-giro-in-barca-ria-portugalete
+  pt: bilbau-passeio-barco-ria-portugalete
 duracion: 1-2 ore
 duracionMinutos: 60
 precioDesde: 15

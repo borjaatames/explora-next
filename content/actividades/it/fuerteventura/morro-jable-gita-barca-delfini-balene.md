@@ -7,8 +7,9 @@ slugs:
   es: barco-delfines-morro-jable
   en: morro-jable-dolphin-whale-boat-trip
   de: morro-jable-delfinbeobachtung-bootstour
-  it: morro-jable-gita-barca-delfini-balene
   fr: morro-jable-observation-dauphins-baleines-bateau
+  it: morro-jable-gita-barca-delfini-balene
+  pt: morro-jable-barco-golfinhos-bebidas-banho
 duracion: 2 ore
 duracionMinutos: 120
 precioDesde: 49

@@ -6,6 +6,8 @@ descripcion: Entry to the Alfabia Gardens, at the foot of the Serra de Tramuntan
 slugs:
   es: jardines-alfabia-soller-entrada
   en: alfabia-gardens-soller-ticket
+  it: soller-biglietto-giardini-di-alfabia
+  pt: soller-bilhete-jardins-de-alfabia
 duracion: Valid 1 day
 duracionMinutos: 90
 precioDesde: 10

@@ -6,6 +6,7 @@ descripcion: Return fast-ferry ticket between Ibiza port and La Savina (Formente
 slugs:
   es: ferry-ida-vuelta-ibiza-formentera
   en: ibiza-formentera-return-ferry-ticket
+  pt: ibiza-bilhete-ferry-ida-volta-formentera
 duracion: 30 minutes each way
 duracionMinutos: 30
 precioDesde: 55

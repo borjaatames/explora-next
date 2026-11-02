@@ -8,6 +8,7 @@ slugs:
   en: basilica-san-juan-de-dios-ticket-audio-guide
   de: basilika-san-juan-de-dios-ticket-audioguide
   fr: basilique-san-juan-de-dios-billet-audioguide
+  it: granada-biglietto-basilica-san-juan-de-dios-audioguida
   pt: basilica-san-juan-de-dios-bilhete-audioguia
 duracion: Etwa 1 Stunde
 duracionMinutos: 60

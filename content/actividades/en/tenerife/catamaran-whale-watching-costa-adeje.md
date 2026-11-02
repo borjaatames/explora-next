@@ -6,6 +6,7 @@ descripcion: Catamaran whale and dolphin watching trip from Costa Adeje, the sou
 slugs:
   es: catamaran-avistamiento-ballenas-costa-adeje
   en: catamaran-whale-watching-costa-adeje
+  pt: catamara-observacao-baleias-costa-adeje
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 35

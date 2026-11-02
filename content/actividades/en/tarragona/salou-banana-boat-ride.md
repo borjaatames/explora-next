@@ -6,6 +6,8 @@ descripcion: 15 minutes on a banana boat towed by a speedboat off Salou beach, w
 slugs:
   es: banana-boat-playa-salou
   en: salou-banana-boat-ride
+  it: salou-giro-in-banana-boat-in-spiaggia
+  pt: banana-boat-praia-salou
 duracion: 15 minutes
 duracionMinutos: 15
 precioDesde: 15

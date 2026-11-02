@@ -6,6 +6,9 @@ descripcion: 'Entry to Granada''s Charterhouse with an audio guide on your phone
 slugs:
   es: monasterio-cartuja-granada-entrada
   en: granada-charterhouse-monastery-ticket
+  fr: grenade-billet-monastere-chartreuse
+  it: granada-biglietto-monastero-della-certosa
+  pt: mosteiro-cartuxa-granada-bilhete
 duracion: About 1 hour
 duracionMinutos: 75
 precioDesde: 10

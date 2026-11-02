@@ -6,6 +6,7 @@ descripcion: 2.5-hour boat trip from Sant Antoni along Ibiza's north or west coa
 slugs:
   es: barco-playas-cuevas-ibiza-sant-antoni
   en: ibiza-beach-cave-boat-tour-sant-antoni
+  pt: ibiza-barco-praias-grutas-sant-antoni
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 100

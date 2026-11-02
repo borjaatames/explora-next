@@ -6,6 +6,7 @@ descripcion: Catamarán de vela de 3 o 5 horas desde Puerto Colón por la franja
 slugs:
   es: crucero-ecologico-delfines-ballenas-costa-adeje
   en: eco-cruise-dolphins-whales-costa-adeje
+  pt: cruzeiro-ecologico-golfinhos-baleias-costa-adeje
 duracion: 3 o 5 horas
 duracionMinutos: 180
 precioDesde: 47

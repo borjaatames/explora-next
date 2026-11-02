@@ -6,6 +6,9 @@ descripcion: 1-hour flamenco show at Teatro Flamenco Sevilla (Calle Cuna 15, his
 slugs:
   es: teatro-flamenco-sevilla-show-mas-vendido
   en: seville-live-flamenco-dancing-show-theater-top-pick
+  fr: seville-spectacle-teatro-flamenco-sevilla-le-plus-reserve
+  it: siviglia-spettacolo-teatro-flamenco-sevilla
+  pt: teatro-flamenco-sevilha-espetaculo-mais-vendido
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 25

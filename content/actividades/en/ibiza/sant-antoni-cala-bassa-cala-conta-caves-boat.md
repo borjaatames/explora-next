@@ -6,6 +6,7 @@ descripcion: 3.5-hour boat trip from Sant Antoni to Cala Conta and Cala Bassa, w
 slugs:
   es: barco-cala-bassa-cala-conta-cuevas-sant-antoni
   en: sant-antoni-cala-bassa-cala-conta-caves-boat
+  pt: sant-antoni-barco-cala-bassa-cala-conta-grutas
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 80

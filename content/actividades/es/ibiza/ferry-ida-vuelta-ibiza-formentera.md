@@ -6,6 +6,7 @@ descripcion: Billete de ferry rápido de ida y vuelta entre el puerto de Ibiza y
 slugs:
   es: ferry-ida-vuelta-ibiza-formentera
   en: ibiza-formentera-return-ferry-ticket
+  pt: ibiza-bilhete-ferry-ida-volta-formentera
 duracion: 30 minutos por trayecto
 duracionMinutos: 30
 precioDesde: 55

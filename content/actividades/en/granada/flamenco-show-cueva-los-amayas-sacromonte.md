@@ -4,8 +4,11 @@ slug: flamenco-show-cueva-los-amayas-sacromonte
 ciudad: granada
 descripcion: One-hour flamenco show at Cueva Los Amayas, a gypsy zambra in the Sacromonte for 60 people, with no stage or PA system. Drink included and views of the Generalife and Alhambra.
 slugs:
-  en: flamenco-show-cueva-los-amayas-sacromonte
   es: flamenco-cueva-amayas-sacromonte
+  en: flamenco-show-cueva-los-amayas-sacromonte
+  fr: grenade-flamenco-grotte-los-amayas-sacromonte
+  it: granada-flamenco-grotta-los-amayas-sacromonte
+  pt: flamenco-gruta-los-amayas-sacromonte-granada
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 25

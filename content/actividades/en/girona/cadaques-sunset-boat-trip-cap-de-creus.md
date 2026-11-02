@@ -7,6 +7,8 @@ slugs:
   es: cadaques-barco-atardecer-cap-de-creus
   en: cadaques-sunset-boat-trip-cap-de-creus
   fr: cadaques-sortie-en-bateau-coucher-de-soleil-cap-de-creus
+  it: cadaques-giro-in-barca-tramonto-cap-de-creus
+  pt: cadaques-barco-por-do-sol-cap-de-creus
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 35

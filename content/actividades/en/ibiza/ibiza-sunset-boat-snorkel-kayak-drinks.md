@@ -6,6 +6,7 @@ descripcion: 3-hour trip on a classic wooden-decked boat along Ibiza's west coas
 slugs:
   es: barco-atardecer-ibiza-esnorquel-kayak-bebidas
   en: ibiza-sunset-boat-snorkel-kayak-drinks
+  pt: ibiza-barco-por-do-sol-snorkel-caiaque-bebidas
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 80

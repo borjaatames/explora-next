@@ -7,6 +7,7 @@ slugs:
   es: san-mames-museo-estadio-athletic
   en: san-mames-stadium-museum-tour
   fr: san-mames-visite-stade-musee-athletic
+  pt: bilbau-san-mames-museu-estadio-athletic
 duracion: Válida 1 día
 duracionMinutos: 90
 precioDesde: 16.5

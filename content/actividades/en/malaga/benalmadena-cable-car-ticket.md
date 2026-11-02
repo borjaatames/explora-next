@@ -6,6 +6,9 @@ descripcion: Benalmádena cable car to the top of Mount Calamorro (771 m), with 
 slugs:
   es: teleferico-benalmadena-billete
   en: benalmadena-cable-car-ticket
+  fr: benalmadena-billet-telepherique-mont-calamorro
+  it: benalmadena-biglietto-funivia-monte-calamorro
+  pt: benalmadena-bilhete-teleferico-monte-calamorro
 duracion: 1-2 hours
 duracionMinutos: 120
 precioDesde: 17

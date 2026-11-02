@@ -6,6 +6,9 @@ descripcion: Ticket to explore Almodóvar del Río Castle at your own pace, a hi
 slugs:
   es: castillo-almodovar-del-rio-entrada
   en: almodovar-del-rio-castle-ticket
+  fr: cordoue-billet-chateau-almodovar-del-rio
+  it: cordova-biglietto-castello-almodovar-del-rio
+  pt: almodovar-del-rio-castelo-bilhete
 duracion: Valid 1 day (self-guided, at your own pace)
 duracionMinutos: 60
 precioDesde: 11

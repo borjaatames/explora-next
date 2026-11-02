@@ -6,6 +6,9 @@ descripcion: Crucero panorámico de 1 hora por el Guadalquivir en barco eco-sost
 slugs:
   es: sevilla-1-hora-guadalquivir-eco-crucero
   en: seville-1-hour-guadalquivir-eco-cruise
+  fr: seville-croisiere-eco-1-heure-guadalquivir
+  it: siviglia-crociera-eco-1-ora-guadalquivir
+  pt: sevilha-cruzeiro-eco-1-hora-guadalquivir
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 16.5

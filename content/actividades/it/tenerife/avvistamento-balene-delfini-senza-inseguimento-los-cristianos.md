@@ -7,8 +7,9 @@ slugs:
   es: ballenas-delfines-sin-persecucion-los-cristianos
   en: no-chase-whale-dolphin-watching-los-cristianos
   de: los-cristianos-wal-delfin-beobachtung-ohne-verfolgung
-  it: avvistamento-balene-delfini-senza-inseguimento-los-cristianos
   fr: los-cristianos-baleines-dauphins-sans-poursuite
+  it: avvistamento-balene-delfini-senza-inseguimento-los-cristianos
+  pt: baleias-golfinhos-sem-perseguicao-los-cristianos
 duracion: 1 ora e 30 minuti
 duracionMinutos: 90
 precioDesde: 28

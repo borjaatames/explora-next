@@ -6,6 +6,9 @@ descripcion: Entrada a la Catedral de Granada, la gran catedral renacentista de 
 slugs:
   es: catedral-granada-entrada
   en: granada-cathedral-entry-ticket
+  fr: grenade-billet-cathedrale-audioguide
+  it: granada-biglietto-cattedrale-audioguida
+  pt: catedral-granada-bilhete-audioguia
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 10

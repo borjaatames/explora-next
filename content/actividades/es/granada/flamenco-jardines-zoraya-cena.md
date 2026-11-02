@@ -4,8 +4,11 @@ slug: flamenco-jardines-zoraya-cena
 ciudad: granada
 descripcion: Pack de cena andaluza + espectáculo flamenco de una hora en los Jardines de Zoraya, en el Albayzín. Menú mediterráneo, opciones para dietas especiales y aire acondicionado en sala.
 slugs:
-  en: flamenco-show-jardines-zoraya-dinner
   es: flamenco-jardines-zoraya-cena
+  en: flamenco-show-jardines-zoraya-dinner
+  fr: grenade-diner-spectacle-flamenco-jardines-de-zoraya
+  it: granada-flamenco-con-cena-jardines-de-zoraya-albayzin
+  pt: espetaculo-flamenco-jantar-jardines-zoraya-albaicin
 duracion: 2,5 horas
 duracionMinutos: 150
 precioDesde: 54

@@ -6,8 +6,9 @@ descripcion: Escursione in barca di 3 ore e mezza da Sant Antoni lungo Cala Sala
 slugs:
   es: barco-atardecer-cala-salada-cala-gracio-sant-antoni
   en: sant-antoni-cala-salada-gracio-sunset-boat
-  it: sant-antoni-barca-tramonto-cala-salada-gracio
   fr: sant-antoni-bateau-coucher-soleil-cala-salada-cala-gracio
+  it: sant-antoni-barca-tramonto-cala-salada-gracio
+  pt: sant-antoni-barco-por-do-sol-cala-salada-cala-gracio
 duracion: 3 ore e 30 minuti
 duracionMinutos: 210
 precioDesde: 80

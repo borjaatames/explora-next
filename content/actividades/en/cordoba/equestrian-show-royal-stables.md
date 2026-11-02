@@ -6,6 +6,9 @@ descripcion: 'Ticket to the Andalusian horse and flamenco show at Córdoba''s 16
 slugs:
   es: espectaculo-ecuestre-caballerizas-reales
   en: equestrian-show-royal-stables
+  fr: cordoue-spectacle-equestre-caballerizas-reales
+  it: cordova-spettacolo-equestre-caballerizas-reales
+  pt: cordova-espetaculo-equestre-caballerizas-reales
 duracion: 70 minutes
 duracionMinutos: 70
 precioDesde: 18.5

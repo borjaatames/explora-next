@@ -6,6 +6,7 @@ descripcion: Salida de 4 horas en yate desde Puerto Rico hacia Mogán con 12 pas
 slugs:
   es: yate-compartido-gran-canaria-comida-esnorquel
   en: gran-canaria-shared-yacht-trip-lunch-snorkeling
+  pt: gran-canaria-iate-partilhado-bar-aberto-snorkel
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 68

@@ -6,6 +6,9 @@ descripcion: 'Entry to Seville''s Museum of Illusions: optical illusions, hologr
 slugs:
   es: museo-ilusiones-sevilla-entrada
   en: museum-of-illusions-seville-ticket
+  fr: seville-billet-musee-des-illusions
+  it: biglietto-museo-delle-illusioni-siviglia
+  pt: museu-das-ilusoes-sevilha-bilhete
 duracion: Valid 1 day
 duracionMinutos: 75
 precioDesde: 15

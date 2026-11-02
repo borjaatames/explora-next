@@ -4,8 +4,11 @@ slug: flamenco-show-cuevas-tarantos-sacromonte
 ciudad: granada
 descripcion: One-hour flamenco show at Cuevas Los Tarantos, a gypsy cave-house in Sacromonte running since 1972. One drink included and the option of dinner beforehand at your own cost.
 slugs:
-  en: flamenco-show-cuevas-tarantos-sacromonte
   es: flamenco-cuevas-tarantos-sacromonte
+  en: flamenco-show-cuevas-tarantos-sacromonte
+  fr: grenade-flamenco-cuevas-los-tarantos-sacromonte
+  it: granada-flamenco-cuevas-los-tarantos-sacromonte
+  pt: flamenco-grutas-los-tarantos-sacromonte-granada
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 28

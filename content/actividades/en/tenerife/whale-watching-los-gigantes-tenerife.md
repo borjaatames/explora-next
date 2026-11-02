@@ -6,6 +6,7 @@ descripcion: Whale and dolphin watching boat trip from Los Gigantes, departing b
 slugs:
   es: ballenas-los-gigantes-tenerife
   en: whale-watching-los-gigantes-tenerife
+  pt: observacao-baleias-los-gigantes-tenerife
 duracion: 2-3 hours
 duracionMinutos: 150
 precioDesde: 28

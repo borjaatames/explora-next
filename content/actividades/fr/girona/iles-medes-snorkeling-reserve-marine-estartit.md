@@ -7,6 +7,8 @@ slugs:
   es: islas-medes-esnorquel-estartit
   en: medes-islands-snorkelling-trip-estartit
   fr: iles-medes-snorkeling-reserve-marine-estartit
+  it: isole-medes-escursione-snorkeling-riserva-marina-estartit
+  pt: ilhas-medes-snorkel-estartit
 duracion: 2 h 30 min
 duracionMinutos: 150
 precioDesde: 39

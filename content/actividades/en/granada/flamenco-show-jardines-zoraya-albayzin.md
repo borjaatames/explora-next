@@ -4,8 +4,11 @@ slug: flamenco-show-jardines-zoraya-albayzin
 ciudad: granada
 descripcion: Live flamenco show at Jardines de Zoraya, an Albayzín tablao 2 minutes from the Mirador de San Nicolás. Two female dancers, a singer and a guitarist, with the option of dinner before.
 slugs:
-  en: flamenco-show-jardines-zoraya-albayzin
   es: flamenco-jardines-zoraya-albayzin
+  en: flamenco-show-jardines-zoraya-albayzin
+  fr: grenade-spectacle-flamenco-albaicin-jardines-de-zoraya
+  it: granada-flamenco-albayzin-jardines-de-zoraya
+  pt: espetaculo-flamenco-albaicin-jardines-zoraya
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 19

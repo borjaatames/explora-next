@@ -8,6 +8,8 @@ slugs:
   en: valldemossa-charterhouse-ticket-audio-guide
   de: valldemossa-kartause-tickets-audioguide
   fr: valldemossa-billet-chartreuse-audioguide
+  it: valldemossa-biglietto-certosa-audioguida
+  pt: valldemossa-bilhete-real-cartuxa-audioguia
 duracion: 1 hora aproximadamente
 duracionMinutos: 60
 precioDesde: 12.5

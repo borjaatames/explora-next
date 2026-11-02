@@ -8,6 +8,7 @@ slugs:
   en: los-gigantes-sailing-whale-watching-snorkel
   de: los-gigantes-segeltoern-wale-delfine
   fr: los-gigantes-voilier-baleines-dauphins
+  pt: veleiro-los-gigantes-baleias-golfinhos-snorkel
 duracion: 3 Stunden
 duracionMinutos: 180
 precioDesde: 75

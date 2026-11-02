@@ -6,6 +6,7 @@ descripcion: 3- or 5-hour sailing catamaran trip from Puerto Colón through the 
 slugs:
   es: crucero-ecologico-delfines-ballenas-costa-adeje
   en: eco-cruise-dolphins-whales-costa-adeje
+  pt: cruzeiro-ecologico-golfinhos-baleias-costa-adeje
 duracion: 3 or 5 hours
 duracionMinutos: 180
 precioDesde: 47

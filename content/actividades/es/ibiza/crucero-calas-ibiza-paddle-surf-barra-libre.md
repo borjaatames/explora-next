@@ -6,6 +6,7 @@ descripcion: Crucero de 6 horas desde Sant Antoni con paradas de una hora en Cal
 slugs:
   es: crucero-calas-ibiza-paddle-surf-barra-libre
   en: ibiza-beach-hopping-cruise-paddleboarding
+  pt: ibiza-cruzeiro-enseadas-paddle-surf-almoco-bebidas
 duracion: 6 horas
 duracionMinutos: 360
 precioDesde: 69

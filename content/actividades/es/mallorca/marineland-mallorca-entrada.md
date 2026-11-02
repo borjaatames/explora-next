@@ -6,6 +6,8 @@ descripcion: 'Entrada a Marineland Mallorca, en Costa d''en Blanes: espectáculo
 slugs:
   es: marineland-mallorca-entrada
   en: marineland-mallorca-entry-ticket
+  it: biglietto-marineland-maiorca
+  pt: marineland-maiorca-bilhete
 duracion: Válida 1 día
 duracionMinutos: 240
 precioDesde: 32

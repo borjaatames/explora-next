@@ -9,6 +9,7 @@ slugs:
   de: cadiz-katamaran-tour-bucht
   fr: cadiz-balade-catamaran-baie
   it: cadice-giro-in-catamarano-baia
+  pt: cadis-passeio-catamara-baia
 duracion: 75 minutes
 duracionMinutos: 75
 precioDesde: 19

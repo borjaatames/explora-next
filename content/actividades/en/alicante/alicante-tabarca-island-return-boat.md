@@ -6,6 +6,8 @@ descripcion: Return boat from Alicante port to Tabarca island, with a glass bott
 slugs:
   es: barco-alicante-isla-tabarca-ida-vuelta
   en: alicante-tabarca-island-return-boat
+  it: alicante-barca-andata-ritorno-isola-tabarca
+  pt: alicante-barco-ilha-tabarca-ida-volta
 duracion: 6 hours
 duracionMinutos: 360
 precioDesde: 25

@@ -6,6 +6,9 @@ descripcion: Entrada a los 12 patios y el jardín del Palacio de Viana, el mejor
 slugs:
   es: palacio-viana-patios-entrada
   en: palacio-de-viana-patios-ticket
+  fr: cordoue-billet-12-patios-palais-de-viana
+  it: cordova-biglietto-12-patios-palacio-de-viana
+  pt: cordova-palacio-de-viana-patios-bilhete
 duracion: 1 hora aproximadamente
 duracionMinutos: 60
 precioDesde: 8.5

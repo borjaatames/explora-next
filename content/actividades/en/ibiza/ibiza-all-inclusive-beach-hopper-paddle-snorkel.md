@@ -7,6 +7,7 @@ slugs:
   es: ruta-calas-ibiza-todo-incluido-paddle-esnorquel
   en: ibiza-all-inclusive-beach-hopper-paddle-snorkel
   it: ibiza-giro-cale-tutto-incluso-paddle-snorkeling
+  pt: ibiza-rota-enseadas-tudo-incluido-paddle-snorkel
 duracion: 5 hours
 duracionMinutos: 300
 precioDesde: 60

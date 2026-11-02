@@ -7,6 +7,7 @@ slugs:
   es: barco-calas-secretas-ibiza-barra-libre-tapas
   en: ibiza-secret-coves-boat-tour-open-bar-tapas
   it: ibiza-tour-barca-cale-segrete-open-bar-tapas
+  pt: ibiza-barco-enseadas-secretas-bar-aberto-tapas
 duracion: 3 ore
 duracionMinutos: 180
 precioDesde: 80

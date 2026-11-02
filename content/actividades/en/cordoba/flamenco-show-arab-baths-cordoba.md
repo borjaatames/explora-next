@@ -6,6 +6,9 @@ descripcion: A one-hour unamplified flamenco show inside the 10th-century Arab B
 slugs:
   es: flamenco-banos-arabes-santa-maria-cordoba
   en: flamenco-show-arab-baths-cordoba
+  fr: cordoue-flamenco-bains-arabes-santa-maria
+  it: cordova-flamenco-bagni-arabi-santa-maria
+  pt: cordova-flamenco-banhos-arabes-santa-maria
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 36

@@ -9,6 +9,7 @@ slugs:
   de: lanzarote-sonnenuntergang-bootstour-delfine
   fr: lanzarote-bateau-coucher-soleil-dauphins-puerto-del-carmen
   it: lanzarote-barca-tramonto-delfini
+  pt: lanzarote-barco-por-do-sol-golfinhos-puerto-del-carmen
 duracion: 2 Stunden
 duracionMinutos: 120
 precioDesde: 53

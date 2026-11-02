@@ -6,6 +6,9 @@ descripcion: Entrada con hora al Real Alcázar de Sevilla, el palacio en uso má
 slugs:
   es: real-alcazar-sevilla-entrada
   en: real-alcazar-seville-entry-ticket
+  fr: seville-billet-real-alcazar
+  it: siviglia-biglietto-real-alcazar
+  pt: real-alcazar-sevilha-bilhete-entrada
 duracion: 1,5-2 horas
 duracionMinutos: 105
 precioDesde: 20

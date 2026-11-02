@@ -6,6 +6,7 @@ descripcion: 'Full-day boat trip from Sant Antoni: stop off Es Vedrà, swim at E
 slugs:
   es: crucero-es-vedra-sant-antoni
   en: es-vedra-cruise-sant-antoni
+  pt: sant-antoni-barco-es-vedra-espalmador-formentera-refeicoes
 duracion: 12 hours
 duracionMinutos: 720
 precioDesde: 155

@@ -8,6 +8,7 @@ slugs:
   en: eco-yacht-whale-dolphin-watching-tenerife
   fr: los-cristianos-observation-baleines-dauphins-eco-yacht
   it: avvistamento-balene-delfini-yacht-ecologico-los-cristianos
+  pt: observacao-baleias-golfinhos-iate-ecologico-los-cristianos
 duracion: 1.5 hours
 duracionMinutos: 90
 precioDesde: 30

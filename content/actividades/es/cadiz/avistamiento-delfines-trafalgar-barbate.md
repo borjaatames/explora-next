@@ -6,6 +6,9 @@ descripcion: Salida en barco de 3 horas desde Barbate para avistar delfines y ba
 slugs:
   es: avistamiento-delfines-trafalgar-barbate
   en: dolphin-whale-watching-trafalgar-barbate
+  fr: barbate-observation-dauphins-baleines-cap-trafalgar
+  it: barbate-avvistamento-delfini-balene-capo-trafalgar
+  pt: barbate-observacao-golfinhos-baleias-trafalgar
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 50

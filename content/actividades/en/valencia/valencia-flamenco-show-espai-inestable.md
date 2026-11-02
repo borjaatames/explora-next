@@ -6,6 +6,7 @@ descripcion: A one-hour live flamenco show with guitar, singing, hand-clapping a
 slugs:
   es: flamenco-espai-inestable-centro-valencia
   en: valencia-flamenco-show-espai-inestable
+  pt: flamenco-espai-inestable-centro-valencia
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 21

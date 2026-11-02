@@ -6,6 +6,7 @@ descripcion: Billete de barco de ida y vuelta desde el puerto de Sant Antoni a C
 slugs:
   es: barco-cala-salada-ida-vuelta-sant-antoni
   en: sant-antoni-cala-salada-return-boat
+  pt: sant-antoni-barco-ida-volta-cala-salada
 duracion: 30 minutos por trayecto
 duracionMinutos: 30
 precioDesde: 12

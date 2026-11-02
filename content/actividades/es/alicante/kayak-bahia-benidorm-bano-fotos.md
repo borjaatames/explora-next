@@ -6,6 +6,8 @@ descripcion: Ruta guiada en kayak de 2 horas y media por la costa de Benidorm en
 slugs:
   es: kayak-bahia-benidorm-bano-fotos
   en: benidorm-bay-kayak-tour-swim-photos
+  it: benidorm-kayak-nella-baia-bagno-foto
+  pt: benidorm-caiaque-baia-banho-fotos
 duracion: 2 horas 30 minutos
 duracionMinutos: 150
 precioDesde: 49

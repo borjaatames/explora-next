@@ -6,6 +6,8 @@ descripcion: Entrada sin guía al Palacio Real de la Almudaina, residencia ofici
 slugs:
   es: palacio-almudaina-palma-entrada
   en: almudaina-royal-palace-palma-ticket
+  it: palma-biglietto-palazzo-reale-almudaina
+  pt: palacio-real-almudaina-palma-bilhete
 duracion: 1-2 horas
 duracionMinutos: 90
 precioDesde: 11

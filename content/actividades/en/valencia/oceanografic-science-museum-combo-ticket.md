@@ -6,6 +6,7 @@ descripcion: Combo ticket for the Oceanogràfic and the Science Museum at the Ci
 slugs:
   es: oceanografic-museo-ciencias-entrada-combinada
   en: oceanografic-science-museum-combo-ticket
+  pt: oceanografic-museu-ciencias-bilhete-combinado
 duracion: 1 day
 duracionMinutos: 360
 precioDesde: 39

@@ -6,6 +6,9 @@ descripcion: 'Entry to the Seville Aquarium by the Guadalquivir: 40 tanks, over 
 slugs:
   es: acuario-sevilla-entrada
   en: seville-aquarium-ticket
+  fr: seville-billet-aquarium
+  it: biglietto-acquario-di-siviglia
+  pt: aquario-sevilha-bilhete-entrada
 duracion: Valid 1 day
 duracionMinutos: 90
 precioDesde: 17

@@ -7,6 +7,8 @@ slugs:
   es: catamaran-cambrils-barra-libre-bano
   en: cambrils-catamaran-open-bar-swim
   fr: cambrils-sortie-catamaran-open-bar-baignade
+  it: cambrils-catamarano-open-bar-pranzo-bagno
+  pt: catamara-cambrils-bar-aberto-banho
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 35

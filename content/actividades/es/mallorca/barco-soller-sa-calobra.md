@@ -6,6 +6,8 @@ descripcion: 'Excursión en barco desde Port de Sóller hasta Sa Calobra y el To
 slugs:
   es: barco-soller-sa-calobra
   en: boat-soller-sa-calobra
+  it: barca-port-de-soller-sa-calobra-torrent-de-pareis
+  pt: maiorca-barco-port-de-soller-sa-calobra-torrent-de-pareis
 duracion: Medio día (4-5 h)
 duracionMinutos: 270
 precioDesde: 35

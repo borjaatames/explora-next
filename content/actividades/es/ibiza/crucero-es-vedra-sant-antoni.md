@@ -6,6 +6,7 @@ descripcion: 'D√≠a completo en barco desde Sant Antoni: parada frente a Es Vedr√
 slugs:
   es: crucero-es-vedra-sant-antoni
   en: es-vedra-cruise-sant-antoni
+  pt: sant-antoni-barco-es-vedra-espalmador-formentera-refeicoes
 duracion: 12 horas
 duracionMinutos: 720
 precioDesde: 155

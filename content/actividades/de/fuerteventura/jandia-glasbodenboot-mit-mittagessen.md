@@ -9,6 +9,7 @@ slugs:
   de: jandia-glasbodenboot-mit-mittagessen
   fr: jandia-bateau-fond-de-verre-dejeuner-boissons
   it: jandia-barca-fondo-vetro-pranzo-bevande
+  pt: jandia-barco-fundo-de-vidro-almoco-bebidas
 duracion: 4 Stunden
 duracionMinutos: 240
 precioDesde: 75

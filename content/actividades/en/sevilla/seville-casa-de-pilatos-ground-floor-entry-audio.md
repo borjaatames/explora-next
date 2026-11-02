@@ -6,6 +6,9 @@ descripcion: Entry ticket to Casa de Pilatos in Seville with a downloadable audi
 slugs:
   es: sevilla-casa-de-pilatos-entrada-planta-baja-audioguia
   en: seville-casa-de-pilatos-ground-floor-entry-audio
+  fr: seville-billet-casa-de-pilatos-rez-de-chaussee-audioguide
+  it: siviglia-biglietto-casa-de-pilatos-audioguida
+  pt: sevilha-casa-de-pilatos-bilhete-res-do-chao-audioguia
 duracion: 1 day (estimated visit 60-75 min)
 duracionMinutos: 75
 precioDesde: 12

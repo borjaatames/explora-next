@@ -6,6 +6,9 @@ descripcion: 'Entrada al parque temático Isla Mágica de Sevilla, con opción d
 slugs:
   es: isla-magica-sevilla-entrada
   en: isla-magica-seville-ticket
+  fr: isla-magica-seville-billet-parc-aquatique-option
+  it: biglietto-isla-magica-siviglia-agua-magica
+  pt: isla-magica-sevilha-bilhete-agua-magica
 duracion: Válida 1 día
 duracionMinutos: 480
 precioDesde: 27

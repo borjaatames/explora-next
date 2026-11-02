@@ -6,6 +6,7 @@ descripcion: Combined ticket for the Hemisfèric (IMAX cinema and planetarium) a
 slugs:
   es: hemisferic-museu-ciencies-entrada
   en: hemisferic-science-museum-combo-ticket
+  pt: hemisferic-museu-ciencies-bilhete-combinado
 duracion: 3-4 hours
 duracionMinutos: 210
 precioDesde: 14

@@ -6,6 +6,7 @@ descripcion: Salida de 4 horas en el catamarán Obycat desde el puerto de Caleta
 slugs:
   es: catamaran-caleta-de-fuste-pozo-negro-paella
   en: caleta-de-fuste-catamaran-pozo-negro-paella
+  pt: caleta-de-fuste-catamara-pozo-negro-paella
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 64

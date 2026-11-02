@@ -6,6 +6,7 @@ descripcion: Entrada combinada al Oceanogràfic y al Museo de las Ciencias de la
 slugs:
   es: oceanografic-museo-ciencias-entrada-combinada
   en: oceanografic-science-museum-combo-ticket
+  pt: oceanografic-museu-ciencias-bilhete-combinado
 duracion: 1 día
 duracionMinutos: 360
 precioDesde: 39

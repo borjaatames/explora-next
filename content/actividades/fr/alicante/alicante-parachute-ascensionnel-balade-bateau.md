@@ -4,9 +4,11 @@ slug: alicante-parachute-ascensionnel-balade-bateau
 ciudad: alicante
 descripcion: Balade en bateau à moteur le long de la côte d'Alicante en musique et vol de 15 minutes en parachute ascensionnel à environ 150 mètres, jusqu'à 5 personnes par voile.
 slugs:
-  en: alicante-parasailing-boat-trip
   es: parasailing-alicante-paseo-barco
+  en: alicante-parasailing-boat-trip
   fr: alicante-parachute-ascensionnel-balade-bateau
+  it: alicante-giro-in-barca-parasailing-con-bevanda
+  pt: alicante-parasailing-passeio-de-barco
 duracion: 1 h 30 min
 duracionMinutos: 90
 precioDesde: 65

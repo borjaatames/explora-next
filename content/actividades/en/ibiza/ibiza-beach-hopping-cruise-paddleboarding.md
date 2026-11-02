@@ -6,6 +6,7 @@ descripcion: 6-hour cruise from Sant Antoni with an hour each at Cala Bassa and 
 slugs:
   es: crucero-calas-ibiza-paddle-surf-barra-libre
   en: ibiza-beach-hopping-cruise-paddleboarding
+  pt: ibiza-cruzeiro-enseadas-paddle-surf-almoco-bebidas
 duracion: 6 hours
 duracionMinutos: 360
 precioDesde: 69

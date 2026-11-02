@@ -6,6 +6,9 @@ descripcion: 1-hour flamenco show at Teatro Flamenco Triana — in the historic 
 slugs:
   es: teatro-flamenco-triana-show-en-directo
   en: seville-flamenco-show-teatro-flamenco-triana
+  fr: seville-spectacle-flamenco-teatro-flamenco-triana
+  it: siviglia-spettacolo-flamenco-teatro-triana
+  pt: teatro-flamenco-triana-espetaculo-ao-vivo
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 25

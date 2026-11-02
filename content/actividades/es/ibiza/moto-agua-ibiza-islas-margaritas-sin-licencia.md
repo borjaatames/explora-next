@@ -6,6 +6,7 @@ descripcion: Excursión guiada de 1 hora en moto de agua desde la bahía de Sant
 slugs:
   es: moto-agua-ibiza-islas-margaritas-sin-licencia
   en: ibiza-jet-ski-tour-margalides-no-licence
+  pt: ibiza-mota-de-agua-ilhas-margalides-sem-carta
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 90

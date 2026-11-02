@@ -6,6 +6,9 @@ descripcion: 'Caminito del Rey entry ticket with official guide and helmet inclu
 slugs:
   es: caminito-del-rey-entrada-guia-oficial
   en: caminito-del-rey-ticket-official-guide
+  fr: caminito-del-rey-billet-guide-officiel-sans-transport
+  it: caminito-del-rey-biglietto-guida-ufficiale
+  pt: caminito-del-rey-bilhete-guia-oficial-sem-transporte
 duracion: 3-4 hours
 duracionMinutos: 210
 precioDesde: 30

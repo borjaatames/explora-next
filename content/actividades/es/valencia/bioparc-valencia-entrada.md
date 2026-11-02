@@ -6,6 +6,7 @@ descripcion: Entrada al Bioparc Valencia, el zoo de inmersión que recrea la sab
 slugs:
   es: bioparc-valencia-entrada
   en: bioparc-valencia-ticket
+  pt: bioparc-valencia-bilhete
 duracion: 1 día (visita de 3-4 horas)
 duracionMinutos: 240
 precioDesde: 29.5

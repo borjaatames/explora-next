@@ -9,6 +9,7 @@ slugs:
   de: teneriffa-u-boot-tauchgang-50-minuten
   fr: tenerife-plongee-sous-marin-50-minutes
   it: tenerife-immersione-sottomarino-50-minuti
+  pt: submarino-tenerife-imersao-50-minutos
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 61

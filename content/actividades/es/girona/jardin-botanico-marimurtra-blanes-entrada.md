@@ -6,6 +6,8 @@ descripcion: Entrada al Jardín Botánico Marimurtra de Blanes, con más de 3.00
 slugs:
   es: jardin-botanico-marimurtra-blanes-entrada
   en: marimurtra-botanical-garden-blanes-ticket
+  it: blanes-biglietto-giardino-botanico-marimurtra
+  pt: blanes-jardim-botanico-marimurtra-bilhete
 duracion: Válida 1 día
 duracionMinutos: 120
 precioDesde: 10

@@ -6,6 +6,7 @@ descripcion: Entry to Bioparc Valencia, the immersion zoo that recreates the sav
 slugs:
   es: bioparc-valencia-entrada
   en: bioparc-valencia-ticket
+  pt: bioparc-valencia-bilhete
 duracion: 1 day (3-4 hour visit)
 duracionMinutos: 240
 precioDesde: 29.5

@@ -7,6 +7,8 @@ slugs:
   es: catedral-tarragona-entrada-audioguia
   en: tarragona-cathedral-ticket-audio-guide
   fr: tarragone-billet-cathedrale-audioguide
+  it: biglietto-cattedrale-di-tarragona-audioguida
+  pt: catedral-tarragona-bilhete-audioguia
 duracion: 1 día (visita de 1 hora)
 duracionMinutos: 60
 precioDesde: 12.5

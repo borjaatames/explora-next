@@ -6,6 +6,8 @@ descripcion: Espectáculo de flamenco en directo de 1 hora en el Tablao Flamenco
 slugs:
   es: palma-tablao-flamenco-alma-espectaculo
   en: palma-tablao-flamenco-alma-show
+  it: palma-spettacolo-flamenco-tablao-alma
+  pt: palma-espetaculo-flamenco-tablao-alma
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 35

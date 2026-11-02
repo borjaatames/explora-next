@@ -6,6 +6,7 @@ descripcion: Paseo de 3 horas en un barco clásico de cubierta de madera por la 
 slugs:
   es: barco-atardecer-ibiza-esnorquel-kayak-bebidas
   en: ibiza-sunset-boat-snorkel-kayak-drinks
+  pt: ibiza-barco-por-do-sol-snorkel-caiaque-bebidas
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 80

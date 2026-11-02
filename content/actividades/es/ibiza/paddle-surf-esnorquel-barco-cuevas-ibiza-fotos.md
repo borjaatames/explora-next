@@ -6,6 +6,7 @@ descripcion: 'Excursión de 3 horas por la costa oeste de Ibiza con barco de apo
 slugs:
   es: paddle-surf-esnorquel-barco-cuevas-ibiza-fotos
   en: ibiza-sup-snorkel-boat-tour-caves-photos
+  pt: ibiza-paddle-surf-snorkel-barco-grutas-fotografias
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 75

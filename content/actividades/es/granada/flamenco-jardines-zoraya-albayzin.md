@@ -4,8 +4,11 @@ slug: flamenco-jardines-zoraya-albayzin
 ciudad: granada
 descripcion: Espectáculo flamenco en directo en los Jardines de Zoraya, un tablao del Albayzín a 2 minutos del mirador de San Nicolás. Dos bailaoras, cantaor y guitarrista, con opción de cena previa.
 slugs:
-  en: flamenco-show-jardines-zoraya-albayzin
   es: flamenco-jardines-zoraya-albayzin
+  en: flamenco-show-jardines-zoraya-albayzin
+  fr: grenade-spectacle-flamenco-albaicin-jardines-de-zoraya
+  it: granada-flamenco-albayzin-jardines-de-zoraya
+  pt: espetaculo-flamenco-albaicin-jardines-zoraya
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 19

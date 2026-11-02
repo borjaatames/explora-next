@@ -9,6 +9,7 @@ slugs:
   de: morro-jable-delfin-walbeobachtung-schnorcheln
   fr: morro-jable-dauphins-baleines-snorkeling
   it: morro-jable-delfini-balene-snorkeling
+  pt: morro-jable-golfinhos-baleias-lancha-snorkel
 duracion: 2 Stunden
 duracionMinutos: 120
 precioDesde: 50

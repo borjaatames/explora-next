@@ -6,6 +6,8 @@ descripcion: 'Official 1, 2 or 3-day PortAventura Park ticket with one Ferrari L
 slugs:
   es: portaventura-ferrari-land-entrada
   en: portaventura-ferrari-land-ticket
+  it: salou-biglietto-portaventura-ferrari-land-1-3-giorni
+  pt: portaventura-ferrari-land-bilhete-1-2-3-dias
 duracion: 1-3 days
 duracionMinutos: 480
 precioDesde: 39

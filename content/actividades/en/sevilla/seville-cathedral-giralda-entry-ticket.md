@@ -6,6 +6,9 @@ descripcion: Combined skip-the-line entry to Seville Cathedral and the Giralda t
 slugs:
   es: catedral-sevilla-giralda-entrada-skip-line
   en: seville-cathedral-giralda-entry-ticket
+  fr: seville-billet-cathedrale-giralda-coupe-file-audio-option
+  it: siviglia-biglietto-cattedrale-giralda-salta-fila
+  pt: catedral-sevilha-giralda-bilhete-sem-filas
 duracion: 1 day (estimated visit 75 min)
 duracionMinutos: 75
 precioDesde: 17.5

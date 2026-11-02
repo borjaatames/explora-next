@@ -6,6 +6,7 @@ descripcion: 'Tour guiado de 4 horas en kayak por la costa de Mogán: cuevas vol
 slugs:
   es: kayak-cuevas-esnorquel-mogan
   en: mogan-sea-caves-kayak-snorkel-tour
+  pt: mogan-caiaque-grutas-marinhas-snorkel
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 65

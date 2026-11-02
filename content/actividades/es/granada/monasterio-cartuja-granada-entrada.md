@@ -6,6 +6,9 @@ descripcion: 'Entrada a la Cartuja de Granada con audioguía en el móvil: la sa
 slugs:
   es: monasterio-cartuja-granada-entrada
   en: granada-charterhouse-monastery-ticket
+  fr: grenade-billet-monastere-chartreuse
+  it: granada-biglietto-monastero-della-certosa
+  pt: mosteiro-cartuxa-granada-bilhete
 duracion: 1 hora aproximadamente
 duracionMinutos: 75
 precioDesde: 10

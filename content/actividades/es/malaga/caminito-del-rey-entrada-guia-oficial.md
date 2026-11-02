@@ -6,6 +6,9 @@ descripcion: 'Entrada al Caminito del Rey con guía oficial y casco incluido, si
 slugs:
   es: caminito-del-rey-entrada-guia-oficial
   en: caminito-del-rey-ticket-official-guide
+  fr: caminito-del-rey-billet-guide-officiel-sans-transport
+  it: caminito-del-rey-biglietto-guida-ufficiale
+  pt: caminito-del-rey-bilhete-guia-oficial-sem-transporte
 duracion: 3-4 horas
 duracionMinutos: 210
 precioDesde: 30

@@ -6,6 +6,8 @@ descripcion: Entrada a La Seu, la catedral gótica de Palma de Mallorca, con la 
 slugs:
   es: catedral-palma-mallorca-entrada
   en: palma-cathedral-mallorca-ticket
+  it: biglietto-cattedrale-di-palma-la-seu
+  pt: palma-de-maiorca-bilhete-catedral-la-seu
 duracion: 1-2 horas
 duracionMinutos: 90
 precioDesde: 11

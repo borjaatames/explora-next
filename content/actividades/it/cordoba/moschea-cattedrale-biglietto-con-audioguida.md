@@ -7,8 +7,9 @@ slugs:
   es: mezquita-catedral-entrada-audioguia
   en: mosque-cathedral-ticket-audio-guide
   de: mezquita-cordoba-tickets-audioguide
-  it: moschea-cattedrale-biglietto-con-audioguida
   fr: mosquee-cathedrale-billet-audioguide
+  it: moschea-cattedrale-biglietto-con-audioguida
+  pt: cordova-mesquita-catedral-bilhete-audioguia
 duracion: 1 giorno (visita di 1 ora e 30 minuti)
 duracionMinutos: 90
 precioDesde: 22

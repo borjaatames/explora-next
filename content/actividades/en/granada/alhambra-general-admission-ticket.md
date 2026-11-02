@@ -6,6 +6,9 @@ descripcion: General admission ticket to the Alhambra with access to the Nasrid 
 slugs:
   es: alhambra-entrada-general
   en: alhambra-general-admission-ticket
+  fr: grenade-billet-general-alhambra-palais-nasrides
+  it: granada-biglietto-alhambra-palazzi-nasridi
+  pt: alhambra-bilhete-geral-palacios-nasridas
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 28

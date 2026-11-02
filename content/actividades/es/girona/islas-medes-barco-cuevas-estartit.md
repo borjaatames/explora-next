@@ -7,6 +7,8 @@ slugs:
   es: islas-medes-barco-cuevas-estartit
   en: medes-islands-boat-trip-caves-estartit
   fr: iles-medes-sortie-en-bateau-grottes-estartit
+  it: isole-medes-giro-in-barca-grotte-estartit
+  pt: ilhas-medes-barco-grutas-estartit
 duracion: 1 h 30 min
 duracionMinutos: 90
 precioDesde: 24

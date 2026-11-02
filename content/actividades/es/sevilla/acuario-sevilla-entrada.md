@@ -6,6 +6,9 @@ descripcion: 'Entrada al Acuario de Sevilla, junto al Guadalquivir: 40 acuarios,
 slugs:
   es: acuario-sevilla-entrada
   en: seville-aquarium-ticket
+  fr: seville-billet-aquarium
+  it: biglietto-acquario-di-siviglia
+  pt: aquario-sevilha-bilhete-entrada
 duracion: Válida 1 día
 duracionMinutos: 90
 precioDesde: 17

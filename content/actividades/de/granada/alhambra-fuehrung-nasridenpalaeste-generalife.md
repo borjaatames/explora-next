@@ -7,6 +7,8 @@ slugs:
   es: alhambra-tour-guiado-nazaries-generalife-alcazaba
   en: alhambra-guided-tour-nasrid-palaces-generalife-alcazaba
   de: alhambra-fuehrung-nasridenpalaeste-generalife
+  fr: alhambra-visite-guidee-nasrides-alcazaba-generalife-billets
+  it: granada-alhambra-visita-guidata-nasridi-alcazaba-generalife
 duracion: 3 Stunden
 duracionMinutos: 180
 precioDesde: 55

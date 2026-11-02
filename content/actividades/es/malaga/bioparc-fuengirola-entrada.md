@@ -6,6 +6,9 @@ descripcion: 'Entrada al Bioparc Fuengirola: más de 200 especies en cuatro háb
 slugs:
   es: bioparc-fuengirola-entrada
   en: bioparc-fuengirola-ticket
+  fr: fuengirola-billet-bioparc
+  it: biglietto-bioparc-fuengirola
+  pt: fuengirola-bilhete-bioparc
 duracion: Medio día
 duracionMinutos: 240
 precioDesde: 29.5

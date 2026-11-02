@@ -6,6 +6,7 @@ descripcion: 'Entry to Oasis Wildlife Fuerteventura (formerly Oasis Park) in La 
 slugs:
   es: oasis-wildlife-fuerteventura-entrada
   en: oasis-wildlife-fuerteventura-ticket
+  pt: fuerteventura-oasis-wildlife-bilhete
 duracion: Ticket valid for 1 day
 duracionMinutos: 300
 precioDesde: 42

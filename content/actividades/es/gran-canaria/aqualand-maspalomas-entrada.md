@@ -6,6 +6,7 @@ descripcion: 'Entrada de 1 día a Aqualand Maspalomas, el mayor parque acuático
 slugs:
   es: aqualand-maspalomas-entrada
   en: aqualand-maspalomas-ticket
+  pt: maspalomas-aqualand-bilhete
 duracion: Entrada válida 1 día
 precioDesde: 41
 moneda: EUR

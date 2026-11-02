@@ -6,6 +6,7 @@ descripcion: Entrada a Palmitos Park, el parque zoobotánico del sur de Gran Can
 slugs:
   es: palmitos-park-gran-canaria-entrada
   en: palmitos-park-gran-canaria-ticket
+  pt: gran-canaria-palmitos-park-bilhete
 duracion: 1 día
 duracionMinutos: 360
 precioDesde: 39

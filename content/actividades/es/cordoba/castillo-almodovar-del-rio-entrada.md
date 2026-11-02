@@ -6,6 +6,9 @@ descripcion: Entrada para recorrer por libre el castillo de Almodóvar del Río,
 slugs:
   es: castillo-almodovar-del-rio-entrada
   en: almodovar-del-rio-castle-ticket
+  fr: cordoue-billet-chateau-almodovar-del-rio
+  it: cordova-biglietto-castello-almodovar-del-rio
+  pt: almodovar-del-rio-castelo-bilhete
 duracion: Entrada válida 1 día (visita libre a tu ritmo)
 duracionMinutos: 60
 precioDesde: 11

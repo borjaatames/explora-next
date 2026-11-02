@@ -8,6 +8,7 @@ slugs:
   en: morro-jable-catamaran-lunch-drinks
   de: morro-jable-katamaran-mit-essen-und-getraenken
   fr: morro-jable-catamaran-repas-boissons
+  pt: morro-jable-catamara-magic-select-almoco-bebidas
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 79

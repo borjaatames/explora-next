@@ -6,6 +6,7 @@ descripcion: 'Crucero de 4 horas y media desde Puerto Rico por la costa suroeste
 slugs:
   es: catamaran-afrikat-puerto-rico-comida-bebidas
   en: afrikat-catamaran-cruise-puerto-rico-food-drinks
+  pt: puerto-rico-catamara-afrikat-almoco-bebidas
 duracion: 4 horas 30 minutos
 duracionMinutos: 270
 precioDesde: 77

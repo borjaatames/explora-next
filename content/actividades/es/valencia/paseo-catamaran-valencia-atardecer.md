@@ -6,6 +6,7 @@ descripcion: Paseo en catamarán de dos pisos por la costa de Valencia, de día 
 slugs:
   es: paseo-catamaran-valencia-atardecer
   en: valencia-catamaran-sunset-cruise
+  pt: passeio-catamara-valencia-por-do-sol
 duracion: 50 minutos - 1,5 horas
 duracionMinutos: 90
 precioDesde: 15

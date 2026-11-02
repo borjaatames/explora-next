@@ -4,8 +4,11 @@ slug: flamenco-show-cueva-la-faraona-sacromonte
 ciudad: granada
 descripcion: One-hour flamenco show at Cueva La Faraona, a Sacromonte cave with capacity for only 25 people. Intimate, family-run atmosphere managed directly by the cave.
 slugs:
-  en: flamenco-show-cueva-la-faraona-sacromonte
   es: flamenco-cueva-faraona-sacromonte
+  en: flamenco-show-cueva-la-faraona-sacromonte
+  fr: grenade-flamenco-grotte-la-faraona-sacromonte
+  it: granada-flamenco-grotta-la-faraona-sacromonte
+  pt: flamenco-gruta-la-faraona-sacromonte-granada
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 16

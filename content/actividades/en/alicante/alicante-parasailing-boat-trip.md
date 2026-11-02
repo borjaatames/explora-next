@@ -4,9 +4,11 @@ slug: alicante-parasailing-boat-trip
 ciudad: alicante
 descripcion: Speedboat ride along the Alicante coast with music and a 15-minute parasailing flight at about 150 metres, in groups of up to 5 people per parasail.
 slugs:
-  en: alicante-parasailing-boat-trip
   es: parasailing-alicante-paseo-barco
+  en: alicante-parasailing-boat-trip
   fr: alicante-parachute-ascensionnel-balade-bateau
+  it: alicante-giro-in-barca-parasailing-con-bevanda
+  pt: alicante-parasailing-passeio-de-barco
 duracion: 1.5 hours
 duracionMinutos: 90
 precioDesde: 65

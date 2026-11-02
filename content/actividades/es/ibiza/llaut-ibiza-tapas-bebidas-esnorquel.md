@@ -6,6 +6,7 @@ descripcion: Paseo de 3 horas en un llaüt tradicional ibicenco desde Sant Anton
 slugs:
   es: llaut-ibiza-tapas-bebidas-esnorquel
   en: ibiza-llaut-boat-trip-tapas-drinks-snorkel
+  pt: ibiza-passeio-llaut-tradicional-tapas-bebidas-snorkel
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 70

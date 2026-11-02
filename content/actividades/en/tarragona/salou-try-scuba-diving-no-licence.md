@@ -6,6 +6,8 @@ descripcion: 1 hour 30 minute first dive in Salou, in shallow water with an inst
 slugs:
   es: bautismo-buceo-salou-sin-titulacion
   en: salou-try-scuba-diving-no-licence
+  it: salou-battesimo-subacqueo-con-istruttore
+  pt: batismo-mergulho-salou-sem-certificacao
 duracion: 1 hour 30 minutes
 duracionMinutos: 90
 precioDesde: 125

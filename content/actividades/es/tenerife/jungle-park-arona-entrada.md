@@ -6,6 +6,7 @@ descripcion: 'Entrada de un día a Jungle Park, en Arona: 75.000 m² de selva co
 slugs:
   es: jungle-park-arona-entrada
   en: jungle-park-arona-ticket
+  pt: jungle-park-arona-bilhete-zoo
 duracion: 1 día
 duracionMinutos: 360
 precioDesde: 36

@@ -6,6 +6,8 @@ descripcion: Live flamenco show with singing, guitar and dance at Tablao El Ment
 slugs:
   es: flamenco-alicante-tablao-el-mentidero
   en: alicante-flamenco-show-el-mentidero
+  it: alicante-spettacolo-flamenco-el-mentidero-tapas
+  pt: alicante-flamenco-tablao-el-mentidero-tapas
 duracion: 1-2.5 hours
 duracionMinutos: 90
 precioDesde: 15

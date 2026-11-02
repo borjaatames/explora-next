@@ -6,6 +6,8 @@ descripcion: 'Entrada al parque de atracciones de Benidorm con temática mediter
 slugs:
   es: terra-mitica-benidorm-entrada
   en: terra-mitica-benidorm-ticket
+  it: benidorm-biglietto-terra-mitica
+  pt: benidorm-terra-mitica-bilhete
 duracion: 1 día completo
 duracionMinutos: 480
 precioDesde: 29

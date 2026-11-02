@@ -9,6 +9,7 @@ slugs:
   de: bilbao-bootsfahrt-ria-portugalete
   fr: bilbao-balade-bateau-ria-portugalete
   it: bilbao-giro-in-barca-ria-portugalete
+  pt: bilbau-passeio-barco-ria-portugalete
 duracion: 1 à 2 heures
 duracionMinutos: 60
 precioDesde: 15

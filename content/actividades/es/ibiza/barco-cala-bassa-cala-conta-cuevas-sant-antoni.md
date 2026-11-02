@@ -6,6 +6,7 @@ descripcion: Excursión en barco de 3 horas y media desde Sant Antoni a Cala Con
 slugs:
   es: barco-cala-bassa-cala-conta-cuevas-sant-antoni
   en: sant-antoni-cala-bassa-cala-conta-caves-boat
+  pt: sant-antoni-barco-cala-bassa-cala-conta-grutas
 duracion: 3 horas 30 minutos
 duracionMinutos: 210
 precioDesde: 80

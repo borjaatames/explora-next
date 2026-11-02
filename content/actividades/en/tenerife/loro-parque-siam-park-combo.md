@@ -6,6 +6,7 @@ descripcion: Combined ticket for Loro Parque (best zoo in Europe) and Siam Park 
 slugs:
   es: loro-parque-siam-park-combinado
   en: loro-parque-siam-park-combo
+  pt: loro-parque-siam-park-bilhete-combinado
 duracion: 2 days
 duracionMinutos: 960
 precioDesde: 78

@@ -6,6 +6,7 @@ descripcion: A 45-minute electric boat ride (one hour at sunset) through the can
 slugs:
   es: albufera-paseo-barca-electrica-atardecer
   en: albufera-electric-boat-ride-sunset
+  pt: albufera-passeio-barco-eletrico-por-do-sol
 duracion: 45 minutes
 duracionMinutos: 45
 precioDesde: 4.9

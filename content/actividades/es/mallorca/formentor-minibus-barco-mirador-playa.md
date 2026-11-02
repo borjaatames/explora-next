@@ -7,6 +7,8 @@ slugs:
   es: formentor-minibus-barco-mirador-playa
   en: formentor-minibus-boat-tour-viewpoint-beach
   de: formentor-minibus-boot-tour-aussichtspunkt-strand
+  it: formentor-minibus-barca-belvedere-spiaggia
+  pt: maiorca-formentor-minibus-barco-miradouro-praia
 duracion: 5 horas
 duracionMinutos: 300
 precioDesde: 45

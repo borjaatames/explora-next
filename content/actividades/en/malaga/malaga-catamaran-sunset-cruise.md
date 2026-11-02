@@ -6,6 +6,9 @@ descripcion: Catamaran cruise around Málaga bay from the port, with chill-out m
 slugs:
   es: catamaran-malaga-atardecer
   en: malaga-catamaran-sunset-cruise
+  fr: malaga-balade-catamaran-baie-coucher-soleil
+  it: malaga-giro-in-catamarano-al-tramonto
+  pt: malaga-passeio-catamara-baia-por-do-sol
 duracion: 1-2 hours
 duracionMinutos: 90
 precioDesde: 13

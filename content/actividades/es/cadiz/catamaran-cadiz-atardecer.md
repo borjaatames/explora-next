@@ -9,6 +9,7 @@ slugs:
   de: cadiz-katamaran-sonnenuntergang-cava
   fr: cadiz-croisiere-catamaran-coucher-soleil
   it: cadice-crociera-in-catamarano-al-tramonto
+  pt: cadis-catamara-por-do-sol-cava
 duracion: 1,5 horas
 duracionMinutos: 90
 precioDesde: 24.5

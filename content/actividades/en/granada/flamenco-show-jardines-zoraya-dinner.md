@@ -4,8 +4,11 @@ slug: flamenco-show-jardines-zoraya-dinner
 ciudad: granada
 descripcion: Andalusian dinner + 1-hour flamenco show package at Jardines de Zoraya in the Albayzín. Mediterranean menu, options for special diets and air-conditioned room.
 slugs:
-  en: flamenco-show-jardines-zoraya-dinner
   es: flamenco-jardines-zoraya-cena
+  en: flamenco-show-jardines-zoraya-dinner
+  fr: grenade-diner-spectacle-flamenco-jardines-de-zoraya
+  it: granada-flamenco-con-cena-jardines-de-zoraya-albayzin
+  pt: espetaculo-flamenco-jantar-jardines-zoraya-albaicin
 duracion: 2.5 hours
 duracionMinutos: 150
 precioDesde: 54

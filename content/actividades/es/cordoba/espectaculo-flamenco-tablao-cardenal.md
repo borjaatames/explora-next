@@ -6,6 +6,9 @@ descripcion: Espectáculo de flamenco de 80 minutos con 7 artistas, tres de ello
 slugs:
   es: espectaculo-flamenco-tablao-cardenal
   en: flamenco-show-tablao-cardenal
+  fr: cordoue-spectacle-flamenco-tablao-cardenal-boisson
+  it: cordova-spettacolo-flamenco-tablao-cardenal-bevanda
+  pt: cordova-flamenco-tablao-cardenal-bebida
 duracion: 80 minutos
 duracionMinutos: 80
 precioDesde: 25

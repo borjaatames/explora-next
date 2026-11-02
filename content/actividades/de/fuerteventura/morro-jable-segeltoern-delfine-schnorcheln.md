@@ -7,6 +7,7 @@ slugs:
   es: velero-morro-jable-delfines-esnorquel
   en: morro-jable-sailing-dolphins-snorkelling
   de: morro-jable-segeltoern-delfine-schnorcheln
+  pt: morro-jable-veleiro-golfinhos-snorkel
 duracion: 3 Stunden 30 Minuten
 duracionMinutos: 210
 precioDesde: 88

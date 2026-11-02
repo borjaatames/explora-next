@@ -4,8 +4,11 @@ slug: alhambra-gardens-generalife-skip-line-ticket
 ciudad: granada
 descripcion: Skip-the-line ticket to the Alhambra Gardens, Generalife, Palace of Charles V and Alcazaba. Budget version without access to the Nasrid Palaces. Includes a €4 booking fee.
 slugs:
-  en: alhambra-gardens-generalife-skip-line-ticket
   es: entrada-jardines-alhambra-generalife
+  en: alhambra-gardens-generalife-skip-line-ticket
+  fr: billet-jardins-alhambra-generalife-sans-palais-nasrides
+  it: biglietto-giardini-alhambra-generalife-senza-palazzi-nasridi
+  pt: bilhete-jardins-alhambra-generalife-sem-palacios-nasridas
 duracion: 1 day
 duracionMinutos: 480
 precioDesde: 17.5

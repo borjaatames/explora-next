@@ -6,6 +6,7 @@ descripcion: Entry to LagOmar Museum in Nazaret, a former volcanic quarry turned
 slugs:
   es: museo-lagomar-entrada-nazaret
   en: lagomar-museum-ticket-nazaret
+  pt: lanzarote-bilhete-museu-lagomar-nazaret
 duracion: 45 minutes
 duracionMinutos: 45
 precioDesde: 10

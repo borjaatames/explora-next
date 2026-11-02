@@ -6,6 +6,9 @@ descripcion: Teleférico de Benalmádena hasta la cima del monte Calamorro (771 
 slugs:
   es: teleferico-benalmadena-billete
   en: benalmadena-cable-car-ticket
+  fr: benalmadena-billet-telepherique-mont-calamorro
+  it: benalmadena-biglietto-funivia-monte-calamorro
+  pt: benalmadena-bilhete-teleferico-monte-calamorro
 duracion: 1-2 horas
 duracionMinutos: 120
 precioDesde: 17

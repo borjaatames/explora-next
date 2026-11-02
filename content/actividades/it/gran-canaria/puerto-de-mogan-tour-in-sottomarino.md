@@ -7,8 +7,9 @@ slugs:
   es: submarino-puerto-mogan
   en: puerto-de-mogan-submarine-tour
   de: puerto-de-mogan-u-boot-tour
-  it: puerto-de-mogan-tour-in-sottomarino
   fr: puerto-de-mogan-excursion-en-sous-marin
+  it: puerto-de-mogan-tour-in-sottomarino
+  pt: puerto-de-mogan-passeio-submarino
 duracion: 40 minuti
 duracionMinutos: 40
 precioDesde: 38

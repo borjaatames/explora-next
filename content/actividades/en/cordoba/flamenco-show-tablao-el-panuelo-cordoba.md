@@ -6,6 +6,9 @@ descripcion: Live flamenco Tuesday to Sunday at 9 pm at Tablao El Pañuelo, with
 slugs:
   es: espectaculo-flamenco-tablao-el-panuelo-cordoba
   en: flamenco-show-tablao-el-panuelo-cordoba
+  fr: cordoue-spectacle-flamenco-tablao-el-panuelo
+  it: cordova-spettacolo-flamenco-tablao-el-panuelo
+  pt: cordova-flamenco-tablao-el-panuelo
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 25

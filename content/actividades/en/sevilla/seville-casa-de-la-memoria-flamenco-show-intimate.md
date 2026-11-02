@@ -6,6 +6,9 @@ descripcion: 1-hour flamenco show at Casa de la Memoria in Seville — tradition
 slugs:
   es: casa-de-la-memoria-flamenco-show-intimo-sevilla
   en: seville-casa-de-la-memoria-flamenco-show-intimate
+  fr: seville-casa-de-la-memoria-spectacle-flamenco-intimiste
+  it: siviglia-casa-de-la-memoria-spettacolo-flamenco-intimo
+  pt: casa-de-la-memoria-espetaculo-flamenco-intimo-sevilha
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 24

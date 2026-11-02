@@ -6,6 +6,8 @@ descripcion: Boat trip from Sóller port to Sa Calobra, one of the most spectacu
 slugs:
   es: barco-soller-sa-calobra
   en: boat-soller-sa-calobra
+  it: barca-port-de-soller-sa-calobra-torrent-de-pareis
+  pt: maiorca-barco-port-de-soller-sa-calobra-torrent-de-pareis
 duracion: 4-5 hours
 duracionMinutos: 270
 precioDesde: 35

@@ -6,6 +6,9 @@ descripcion: Entry ticket to the Royal Chapel of Granada, mausoleum of the Catho
 slugs:
   es: capilla-real-granada-entrada
   en: royal-chapel-granada-entry-ticket
+  fr: grenade-billet-chapelle-royale-audioguide
+  it: granada-biglietto-cappella-reale-audioguida
+  pt: capela-real-granada-bilhete-audioguia
 duracion: 45 minutes
 duracionMinutos: 45
 precioDesde: 10

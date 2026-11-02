@@ -7,6 +7,8 @@ slugs:
   es: catedral-giralda-alcazar-sevilla-tour-guiado-entradas
   en: seville-cathedral-giralda-alcazar-guided-tour-tickets
   de: sevilla-kathedrale-giralda-alcazar-fuehrung
+  fr: seville-visite-guidee-cathedrale-giralda-alcazar-billets-inclus
+  it: siviglia-cattedrale-giralda-alcazar-visita-guidata-biglietti
 duracion: 2 h 30 min
 duracionMinutos: 150
 precioDesde: 54

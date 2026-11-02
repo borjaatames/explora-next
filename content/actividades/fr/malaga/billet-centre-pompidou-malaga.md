@@ -9,6 +9,7 @@ slugs:
   de: centre-pompidou-malaga-tickets
   fr: billet-centre-pompidou-malaga
   it: biglietto-centre-pompidou-malaga
+  pt: malaga-bilhete-centre-pompidou
 duracion: Environ 1 h 30
 duracionMinutos: 90
 precioDesde: 9

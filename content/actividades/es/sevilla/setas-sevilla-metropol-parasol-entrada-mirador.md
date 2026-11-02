@@ -6,6 +6,9 @@ descripcion: Entrada a las Setas de Sevilla (Metropol Parasol) con acceso al mir
 slugs:
   es: setas-sevilla-metropol-parasol-entrada-mirador
   en: seville-setas-metropol-parasol-entry-ticket-viewpoint
+  fr: seville-billet-setas-metropol-parasol-belvedere
+  it: siviglia-biglietto-setas-metropol-parasol-belvedere
+  pt: setas-sevilha-metropol-parasol-bilhete-miradouro
 duracion: 40 minutos (visita válida 2 días desde 1ª activación)
 duracionMinutos: 40
 precioDesde: 16

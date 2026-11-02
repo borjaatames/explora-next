@@ -4,8 +4,11 @@ slug: flamenco-show-cueva-zincale-sacromonte
 ciudad: granada
 descripcion: 50-minute flamenco show at Cueva del Zincalé, a Sacromonte cave run by local artists. Gypsy zambra format, intimate and close-up atmosphere.
 slugs:
-  en: flamenco-show-cueva-zincale-sacromonte
   es: flamenco-cueva-zincale-sacromonte
+  en: flamenco-show-cueva-zincale-sacromonte
+  fr: grenade-flamenco-grotte-zincale-sacromonte
+  it: granada-flamenco-grotta-zincale-sacromonte
+  pt: flamenco-gruta-zincale-sacromonte-granada
 duracion: 50 minutes
 duracionMinutos: 50
 precioDesde: 20

@@ -6,6 +6,8 @@ descripcion: Guided kayak trip down the Ebro from Móra la Nova to Miravet, belo
 slugs:
   es: kayak-rio-ebro-miravet
   en: ebro-river-kayak-tour-miravet
+  it: kayak-sul-fiume-ebro-fino-a-miravet
+  pt: caiaque-rio-ebro-miravet
 duracion: 2.5 hours
 duracionMinutos: 150
 precioDesde: 35

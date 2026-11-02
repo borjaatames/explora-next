@@ -4,8 +4,11 @@ slug: flamenco-show-alborea-granada
 ciudad: granada
 descripcion: One-hour flamenco show with reserved seating at Tablao La Alboreá in central Granada. Option to add a glass of wine and Iberian platter. The most-reviewed in the catalogue with 5,481 ratings.
 slugs:
-  en: flamenco-show-alborea-granada
   es: flamenco-alborea-granada
+  en: flamenco-show-alborea-granada
+  fr: grenade-spectacle-flamenco-la-alborea-centre
+  it: granada-spettacolo-flamenco-la-alborea-centro
+  pt: espetaculo-flamenco-la-alborea-centro-granada
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 18

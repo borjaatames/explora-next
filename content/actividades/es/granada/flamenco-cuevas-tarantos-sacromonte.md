@@ -4,8 +4,11 @@ slug: flamenco-cuevas-tarantos-sacromonte
 ciudad: granada
 descripcion: Espectáculo flamenco de una hora en Cuevas Los Tarantos, una casa-cueva gitana del Sacromonte funcionando desde 1972. Una bebida incluida y posibilidad de cena previa por cuenta propia.
 slugs:
-  en: flamenco-show-cuevas-tarantos-sacromonte
   es: flamenco-cuevas-tarantos-sacromonte
+  en: flamenco-show-cuevas-tarantos-sacromonte
+  fr: grenade-flamenco-cuevas-los-tarantos-sacromonte
+  it: granada-flamenco-cuevas-los-tarantos-sacromonte
+  pt: flamenco-grutas-los-tarantos-sacromonte-granada
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 28

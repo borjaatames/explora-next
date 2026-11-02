@@ -6,6 +6,8 @@ descripcion: Espectáculo flamenco de una hora en La Guarida del Ángel, una cas
 slugs:
   es: flamenco-guarida-del-angel-jerez-bebida
   en: guarida-del-angel-jerez-flamenco-show-drink
+  fr: jerez-spectacle-flamenco-guarida-del-angel-boisson
+  it: jerez-flamenco-guarida-del-angel-con-bevanda
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 28

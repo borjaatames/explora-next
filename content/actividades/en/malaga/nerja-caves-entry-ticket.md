@@ -6,6 +6,9 @@ descripcion: 'Entry ticket to the Nerja Caves with audio guide: the world''s lar
 slugs:
   es: cuevas-nerja-entrada
   en: nerja-caves-entry-ticket
+  fr: grotte-de-nerja-billet-audioguide
+  it: biglietto-grotta-di-nerja-audioguida
+  pt: gruta-de-nerja-bilhete-audioguia
 duracion: 45 minutes
 duracionMinutos: 45
 precioDesde: 15.5

@@ -6,6 +6,7 @@ descripcion: 'Excursión de medio día en catamarán: avistamiento de ballenas y
 slugs:
   es: catamaran-ballenas-buffet-tenerife
   en: catamaran-whale-watching-buffet-tenerife
+  pt: catamara-baleias-buffet-tenerife
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 63

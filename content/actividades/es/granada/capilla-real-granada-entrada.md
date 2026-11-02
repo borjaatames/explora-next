@@ -6,6 +6,9 @@ descripcion: Entrada a la Capilla Real de Granada, mausoleo de los Reyes Católi
 slugs:
   es: capilla-real-granada-entrada
   en: royal-chapel-granada-entry-ticket
+  fr: grenade-billet-chapelle-royale-audioguide
+  it: granada-biglietto-cappella-reale-audioguida
+  pt: capela-real-granada-bilhete-audioguia
 duracion: 45 minutos
 duracionMinutos: 45
 precioDesde: 10

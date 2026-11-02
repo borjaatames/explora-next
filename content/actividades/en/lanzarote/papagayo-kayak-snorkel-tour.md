@@ -8,6 +8,7 @@ slugs:
   en: papagayo-kayak-snorkel-tour
   fr: lanzarote-kayak-snorkeling-plage-papagayo
   it: tour-kayak-snorkeling-papagayo
+  pt: lanzarote-caiaque-snorkel-praia-papagayo
 duracion: 3.5 hours
 duracionMinutos: 210
 precioDesde: 45

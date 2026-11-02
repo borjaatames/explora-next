@@ -6,6 +6,8 @@ descripcion: Entry to Parc Samà, the 19th-century Romantic garden near Cambrils
 slugs:
   es: parc-sama-cambrils-entrada
   en: parc-sama-cambrils-entry-ticket
+  it: cambrils-biglietto-parc-sama
+  pt: parc-sama-cambrils-bilhete
 duracion: 1 day
 duracionMinutos: 180
 precioDesde: 12

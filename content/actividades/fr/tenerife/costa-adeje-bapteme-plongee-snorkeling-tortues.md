@@ -8,6 +8,7 @@ slugs:
   en: scuba-snorkel-turtles-costa-adeje
   fr: costa-adeje-bapteme-plongee-snorkeling-tortues
   it: battesimo-sub-snorkeling-tartarughe-costa-adeje
+  pt: batismo-mergulho-snorkel-tartarugas-costa-adeje
 duracion: 3 heures
 duracionMinutos: 180
 precioDesde: 75

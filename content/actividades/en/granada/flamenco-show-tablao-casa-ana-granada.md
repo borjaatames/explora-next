@@ -4,8 +4,11 @@ slug: flamenco-show-tablao-casa-ana-granada
 ciudad: granada
 descripcion: Live flamenco show at Tablao Casa Ana, right in Granada's historic centre. Curtain, dynamic lighting and immersive sound. Intangible Cultural Heritage of Humanity (UNESCO).
 slugs:
-  en: flamenco-show-tablao-casa-ana-granada
   es: flamenco-tablao-casa-ana-granada
+  en: flamenco-show-tablao-casa-ana-granada
+  fr: grenade-spectacle-flamenco-traditionnel-tablao-casa-ana
+  it: granada-spettacolo-flamenco-tradizionale-tablao-casa-ana
+  pt: espetaculo-flamenco-tradicional-tablao-casa-ana-granada
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 18

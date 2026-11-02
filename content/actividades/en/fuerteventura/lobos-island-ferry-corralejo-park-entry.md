@@ -9,6 +9,7 @@ slugs:
   de: isla-de-lobos-faehre-ab-corralejo
   fr: corralejo-ferry-aller-retour-ile-de-lobos
   it: traghetto-isola-di-lobos-corralejo-ingresso-parco
+  pt: corralejo-ferry-ilha-de-lobos-ida-volta
 duracion: Ticket valid for 1 day
 duracionMinutos: 240
 precioDesde: 17

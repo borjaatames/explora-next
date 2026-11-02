@@ -6,6 +6,7 @@ descripcion: Dos horas en lancha desde el puerto de Los Gigantes para buscar cal
 slugs:
   es: ballenas-delfines-los-gigantes-bano-masca
   en: los-gigantes-whale-watching-masca-swim
+  pt: baleias-golfinhos-los-gigantes-banho-masca
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 28

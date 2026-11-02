@@ -6,6 +6,7 @@ descripcion: Entrada al Oceanogràfic de Valencia, el mayor acuario de Europa, c
 slugs:
   es: oceanografic-valencia-entrada
   en: oceanografic-valencia-ticket
+  pt: oceanografic-valencia-bilhete
 duracion: 1 día (visita de 3-4 horas)
 duracionMinutos: 240
 precioDesde: 37

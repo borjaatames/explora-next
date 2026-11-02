@@ -6,6 +6,8 @@ descripcion: 'Official entry ticket to Palma Aquarium, next to Playa de Palma: t
 slugs:
   es: palma-aquarium-entrada
   en: palma-aquarium-entry-ticket
+  it: biglietto-palma-aquarium
+  pt: palma-aquarium-bilhete-entrada
 duracion: Valid 1 day
 duracionMinutos: 180
 precioDesde: 30.5

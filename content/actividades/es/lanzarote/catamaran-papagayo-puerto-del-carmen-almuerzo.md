@@ -9,6 +9,7 @@ slugs:
   de: puerto-del-carmen-katamaran-papagayo-mit-mittagessen
   fr: puerto-del-carmen-catamaran-plages-papagayo-dejeuner
   it: catamarano-papagayo-puerto-del-carmen-pranzo
+  pt: puerto-del-carmen-catamara-praias-papagayo-almoco-bar-aberto
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 66

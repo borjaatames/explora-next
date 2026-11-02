@@ -6,6 +6,7 @@ descripcion: Tour guiado en moto de agua de 30 a 60 minutos desde Puerto Rico po
 slugs:
   es: moto-de-agua-puerto-rico-gran-canaria
   en: puerto-rico-gran-canaria-jet-ski-tour
+  pt: puerto-rico-gran-canaria-mota-de-agua
 duracion: 30-60 minutos
 duracionMinutos: 30
 precioDesde: 70

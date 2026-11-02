@@ -4,8 +4,11 @@ slug: flamenco-alborea-granada
 ciudad: granada
 descripcion: Espectáculo flamenco de una hora con asientos reservados en el Tablao La Alboreá, en el centro de Granada. Opción de añadir copa de vino y surtido ibérico. El más reseñado del catálogo con 5.481 valoraciones.
 slugs:
-  en: flamenco-show-alborea-granada
   es: flamenco-alborea-granada
+  en: flamenco-show-alborea-granada
+  fr: grenade-spectacle-flamenco-la-alborea-centre
+  it: granada-spettacolo-flamenco-la-alborea-centro
+  pt: espetaculo-flamenco-la-alborea-centro-granada
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 18

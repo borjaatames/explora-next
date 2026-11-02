@@ -6,6 +6,9 @@ descripcion: 'Entry to Bioparc Fuengirola: over 200 species in four habitats wit
 slugs:
   es: bioparc-fuengirola-entrada
   en: bioparc-fuengirola-ticket
+  fr: fuengirola-billet-bioparc
+  it: biglietto-bioparc-fuengirola
+  pt: fuengirola-bilhete-bioparc
 duracion: Half a day
 duracionMinutos: 240
 precioDesde: 29.5

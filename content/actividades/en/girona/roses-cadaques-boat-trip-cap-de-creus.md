@@ -9,6 +9,7 @@ slugs:
   de: roses-cadaques-bootsausflug-cap-de-creus
   fr: roses-cadaques-en-bateau-cap-de-creus
   it: roses-cadaques-in-barca-cap-de-creus
+  pt: roses-cadaques-barco-cap-de-creus
 duracion: 3 h 30 min
 duracionMinutos: 210
 precioDesde: 27

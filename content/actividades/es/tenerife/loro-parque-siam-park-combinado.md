@@ -6,6 +6,7 @@ descripcion: 'Entrada combinada al mejor zoo de Europa (Loro Parque) y al mejor 
 slugs:
   es: loro-parque-siam-park-combinado
   en: loro-parque-siam-park-combo
+  pt: loro-parque-siam-park-bilhete-combinado
 duracion: 2 días
 duracionMinutos: 1080
 precioDesde: 78

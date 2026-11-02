@@ -6,6 +6,8 @@ descripcion: 'Entry to Western Water Park in Magaluf, the Wild West water park: 
 slugs:
   es: western-water-park-magaluf-entrada
   en: western-water-park-magaluf-ticket
+  it: biglietto-western-water-park-magaluf
+  pt: western-water-park-magaluf-bilhete
 duracion: Valid 1 day
 duracionMinutos: 360
 precioDesde: 38

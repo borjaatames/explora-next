@@ -6,6 +6,8 @@ descripcion: Skip-the-line entry to Palma Cathedral (La Seu), one of the most sp
 slugs:
   es: catedral-palma-mallorca-entrada
   en: palma-cathedral-mallorca-ticket
+  it: biglietto-cattedrale-di-palma-la-seu
+  pt: palma-de-maiorca-bilhete-catedral-la-seu
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 11
