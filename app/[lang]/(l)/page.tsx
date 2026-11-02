@@ -9,7 +9,9 @@ import { obtenerGuiasDestacadas } from "@/lib/guias";
 import { obtenerListaCiudades } from "@/lib/ciudades";
 import {
   obtenerActividadesHome,
+  obtenerListaActividades,
   urlListadoActividadesSiExiste,
+  type ActividadListItem,
 } from "@/lib/actividades";
 import {
   IDIOMAS_ACTIVOS,
@@ -253,6 +255,49 @@ export async function generateMetadata({
   };
 }
 
+const MIN_ACTIVIDADES_HOME = 8;
+const MAX_POR_CIUDAD_HOME = 2;
+
+/** Destacadas primero; luego nota ponderada por volumen de opiniones. */
+function puntuacionActividad(a: ActividadListItem): number {
+  const nota = a.ratingProveedor ?? 0;
+  return nota * Math.log10(1 + (a.numeroOpiniones ?? 0));
+}
+
+/**
+ * DE/FR/IT/PT: la selección curada (slugs ES) apenas tiene gemelas en estos
+ * idiomas. Se completa hasta 8 con las mejores fichas del idioma, sin
+ * repetir y con un máximo de 2 por ciudad (contando las curadas).
+ */
+function completarActividadesHome(
+  lang: Exclude<Idioma, "es">,
+  curadas: ActividadListItem[]
+): ActividadListItem[] {
+  if (lang === "en" || curadas.length >= MIN_ACTIVIDADES_HOME) return curadas;
+  const resultado = [...curadas];
+  const vistas = new Set(curadas.map((a) => a.url));
+  const porCiudad = new Map<string, number>();
+  for (const a of curadas) porCiudad.set(a.ciudad, (porCiudad.get(a.ciudad) ?? 0) + 1);
+
+  const candidatas = obtenerListaActividades(lang).sort(
+    (a, b) => puntuacionActividad(b) - puntuacionActividad(a)
+  );
+  // Dos pasadas: primero una por ciudad (para que no salgan solo islas) y,
+  // si aún faltan, una segunda por ciudad.
+  for (const tope of [1, MAX_POR_CIUDAD_HOME]) {
+    for (const a of candidatas) {
+      if (resultado.length >= MIN_ACTIVIDADES_HOME) break;
+      if (vistas.has(a.url)) continue;
+      const n = porCiudad.get(a.ciudad) ?? 0;
+      if (n >= tope) continue;
+      resultado.push(a);
+      vistas.add(a.url);
+      porCiudad.set(a.ciudad, n + 1);
+    }
+  }
+  return resultado;
+}
+
 /** Formatea un precio en EUR sin decimales para el locale dado. */
 function formatearPrecio(precio: number, moneda: string, locale: string): string {
   return new Intl.NumberFormat(locale, {
@@ -286,7 +331,9 @@ export default function HomePage({ params }: Props) {
 
   // Actividades estrella de la home: las que promocionamos en Google Ads.
   // Selección curada en lib/actividades.ts (obtenerActividadesHome).
-  const actividadesHome = obtenerActividadesHome(lang);
+  const actividadesHome = completarActividadesHome(lang, obtenerActividadesHome(lang));
+  // EN conserva el formato y la etiqueta de siempre; el resto, formato local.
+  const formatoLocal = lang !== "en";
 
   const websiteJsonLd = {
     "@context": "https://schema.org",
@@ -455,7 +502,12 @@ export default function HomePage({ params }: Props) {
                           <span className="text-azafran-600" aria-hidden="true">
                             ★
                           </span>{" "}
-                          {a.ratingProveedor.toFixed(1)} ({a.numeroOpiniones})
+                          {formatoLocal
+                            ? `${a.ratingProveedor.toLocaleString(locale, {
+                                minimumFractionDigits: 1,
+                                maximumFractionDigits: 1,
+                              })} (${a.numeroOpiniones.toLocaleString(locale)})`
+                            : <>{a.ratingProveedor.toFixed(1)} ({a.numeroOpiniones})</>}
                         </span>
                       ) : null}
                     </div>
@@ -516,7 +568,9 @@ export default function HomePage({ params }: Props) {
                 className="group block border border-piedra-200 rounded-lg p-6 hover:border-anil-400 hover:shadow-md transition-all"
               >
                 <span className="inline-block bg-anil-100 text-anil-700 text-xs font-semibold uppercase tracking-wider px-2 py-1 rounded mb-3">
-                  {guia.categoria}
+                  {formatoLocal
+                    ? nombrePorCiudad.get(guia.categoria) ?? guia.categoria
+                    : guia.categoria}
                 </span>
                 <h3 className="font-fraunces text-lg font-bold text-piedra-900 mb-2 group-hover:text-anil-700 transition-colors">
                   {guia.titulo}

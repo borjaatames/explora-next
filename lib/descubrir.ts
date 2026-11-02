@@ -1,4 +1,4 @@
-import { obtenerGuiasDeCiudad, type GuiaListItem } from "./guias";
+import { obtenerGuiasDeCiudad, obtenerListaGuias, type GuiaListItem } from "./guias";
 import { obtenerListaActividadesPorCiudad, type ActividadListItem } from "./actividades";
 import { obtenerListaCiudades } from "./ciudades";
 import type { Idioma } from "./i18n/types";
@@ -31,15 +31,24 @@ export function esGuiaDeTipo(slug: string, tipo: TipoGuiaPlan): boolean {
   return PATRONES[tipo].test(slug);
 }
 
+/**
+ * Slug con el que se reconoce el tipo de una guía. ES y EN usan el suyo; en
+ * el resto de idiomas los slugs no siguen los patrones, así que se mira el
+ * de la gemela española (`slugs.es`).
+ */
+export function slugTipoGuia(g: GuiaListItem): string {
+  return g.idioma === "es" || g.idioma === "en" ? g.slug : g.slugs?.es ?? g.slug;
+}
+
 export function guiasDeTipo(
   idioma: Idioma,
   ciudad: string,
   tipo: TipoGuiaPlan
 ): GuiaListItem[] {
-  return obtenerGuiasDeCiudad(idioma, ciudad).filter((g) => esGuiaDeTipo(g.slug, tipo));
+  return obtenerGuiasDeCiudad(idioma, ciudad).filter((g) => esGuiaDeTipo(slugTipoGuia(g), tipo));
 }
 
-/** Guía publicada de una ciudad por su slug ES (en EN/DE, la gemela vía `slugs.es`). */
+/** Guía publicada de una ciudad por su slug ES (en el resto de idiomas, la gemela vía `slugs.es`). */
 export function guiaPorSlugEs(
   idioma: Idioma,
   ciudad: string,
@@ -107,6 +116,7 @@ export const EXCURSIONES_DESDE_PUERTO: ReadonlyArray<{ ciudad: string; slugEs: s
 
 export type GuiaPuerto = { ciudad: string; puerto: string; guia: GuiaListItem };
 
+/** Puertos con guía en el idioma. Fuera de ES/EN se usa el nombre local (topónimo español). */
 export function guiasDePuertos(idioma: Idioma): GuiaPuerto[] {
   const clave = idioma === "en" ? "en" : "es";
   return PUERTOS_CRUCERO.flatMap(({ ciudad, puerto }) => {
@@ -117,4 +127,21 @@ export function guiasDePuertos(idioma: Idioma): GuiaPuerto[] {
 
 export function urlCruceros(idioma: Idioma): string {
   return idioma === "en" ? "/en/cruise-excursions" : "/cruceros";
+}
+
+/** Guías de un tipo en todas las ciudades del idioma (`categoria` = ciudad). */
+export function guiasDeTipoEnIdioma(idioma: Idioma, tipo: TipoGuiaPlan): GuiaListItem[] {
+  return obtenerListaGuias(idioma).filter((g) => esGuiaDeTipo(slugTipoGuia(g), tipo));
+}
+
+const NUMEROS_RUTA: Record<string, number> = {
+  un: 1, una: 1, one: 1, dos: 2, two: 2, tres: 3, three: 3,
+};
+
+/** Días de una guía-itinerario, sacados de su slug (o del ES fuera de ES/EN). */
+export function diasDeRuta(g: GuiaListItem): number | null {
+  const m = slugTipoGuia(g).match(/(?:^|-)(\d+|un|una|one|dos|two|tres|three)-(?:dias?|days?)(?:-|$)/);
+  if (!m) return null;
+  const n = /^\d+$/.test(m[1]) ? Number(m[1]) : NUMEROS_RUTA[m[1]];
+  return n && n > 0 ? n : null;
 }

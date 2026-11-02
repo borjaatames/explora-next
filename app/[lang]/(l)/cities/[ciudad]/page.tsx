@@ -11,6 +11,9 @@ import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import { obtenerActividadesParaPaginaCiudad } from "@/lib/actividades";
 import EscaparateActividades from "@/components/ciudad/EscaparateActividades";
 import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
+import MasActividadesEnIngles, {
+  esIdiomaCatalogoParcial,
+} from "@/components/ciudad/MasActividadesEnIngles";
 import GuiasDeCiudadLista from "@/components/ciudad/GuiasDeCiudadLista";
 import { slugParejaCiudad } from "@/lib/i18n/slugs";
 import { esIdiomaActivo, IDIOMA_LOCALE } from "@/lib/i18n/config";
@@ -94,6 +97,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
   };
 }
+
+/** Con menos fichas en el idioma, la página de ciudad añade las de inglés. */
+const MIN_FICHAS_SIN_COMPLETAR = 6;
 
 const SUFIJO_TITULO: Partial<Record<Idioma, string>> = {
   en: " | Travel guide",
@@ -310,6 +316,16 @@ export default async function CiudadPage({ params }: Props) {
           actividades={actividadesCiudad}
           chips={ciudad.chipsFiltros ?? []}
           urlActividades={urlActividades}
+        />
+      ) : null}
+
+      {/* Catálogo corto en el idioma: se completa con las fichas en inglés. */}
+      {esIdiomaCatalogoParcial(lang) && actividadesCiudad.length < MIN_FICHAS_SIN_COMPLETAR ? (
+        <MasActividadesEnIngles
+          idioma={lang}
+          ciudad={params.ciudad}
+          nombreCiudad={ciudad.nombre}
+          max={4}
         />
       ) : null}
 

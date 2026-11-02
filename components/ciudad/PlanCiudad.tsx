@@ -9,11 +9,14 @@ const CLASE_BOTON =
 const T_BOTONES = {
   es: { navidad: "Navidad en la ciudad", crucero: "¿Llegas en crucero?" },
   en: { navidad: "Christmas in the city", crucero: "Arriving by cruise ship?" },
-} as const;
+  de: { navidad: "Weihnachten in der Stadt", crucero: "Mit dem Kreuzfahrtschiff?" },
+  fr: { navidad: "Noël en ville", crucero: "Vous arrivez en croisière ?" },
+  it: { navidad: "Natale in città", crucero: "Arrivi in crociera?" },
+  pt: { navidad: "Natal na cidade", crucero: "Chega de cruzeiro?" },
+} as const satisfies Record<Idioma, unknown>;
 
 /** Botones de la cabecera de ciudad: Navidad (en temporada) y guía del puerto. */
 export function BotonesGuiasCiudad({ idioma, ciudad }: { idioma: Idioma; ciudad: string }) {
-  if (idioma !== "es" && idioma !== "en") return null;
   const t = T_BOTONES[idioma];
   const navidad = enTemporadaNavidad() ? guiasDeTipo(idioma, ciudad, "navidad")[0] : undefined;
   const crucero = guiasDeTipo(idioma, ciudad, "crucero")[0];
@@ -33,21 +36,57 @@ export function BotonesGuiasCiudad({ idioma, ciudad }: { idioma: Idioma; ciudad:
   );
 }
 
-const GRUPOS: ReadonlyArray<{ tipo: TipoGuiaPlan; titulo: { es: string; en: string } }> = [
-  { tipo: "itinerario", titulo: { es: "Rutas por días", en: "Itineraries" } },
-  { tipo: "comparativa", titulo: { es: "¿Qué opción compensa?", en: "Which option is worth it?" } },
-  { tipo: "ocasion", titulo: { es: "Según con quién vas", en: "Depending on who you're with" } },
-  { tipo: "familia", titulo: { es: "Con niños", en: "With kids" } },
+const GRUPOS: ReadonlyArray<{ tipo: TipoGuiaPlan; titulo: Record<Idioma, string> }> = [
+  {
+    tipo: "itinerario",
+    titulo: {
+      es: "Rutas por días",
+      en: "Itineraries",
+      de: "Routen nach Tagen",
+      fr: "Itinéraires",
+      it: "Itinerari",
+      pt: "Roteiros",
+    },
+  },
+  {
+    tipo: "comparativa",
+    titulo: {
+      es: "¿Qué opción compensa?",
+      en: "Which option is worth it?",
+      de: "Welche Option lohnt sich?",
+      fr: "Quelle option choisir ?",
+      it: "Quale opzione conviene?",
+      pt: "Que opção compensa?",
+    },
+  },
+  {
+    tipo: "ocasion",
+    titulo: {
+      es: "Según con quién vas",
+      en: "Depending on who you're with",
+      de: "Je nachdem, mit wem du reist",
+      fr: "Selon avec qui vous voyagez",
+      it: "A seconda di con chi viaggi",
+      pt: "Conforme com quem viaja",
+    },
+  },
+  {
+    tipo: "familia",
+    titulo: { es: "Con niños", en: "With kids", de: "Mit Kindern", fr: "Avec des enfants", it: "Con bambini", pt: "Com crianças" },
+  },
 ];
 
 const T_BLOQUE = {
   es: { titulo: "Planifica tu viaje", subtitulo: "Itinerarios, comparativas de precio y planes según con quién viajas." },
   en: { titulo: "Plan your trip", subtitulo: "Itineraries, price comparisons and plans for whoever you're travelling with." },
-} as const;
+  de: { titulo: "Plane deine Reise", subtitulo: "Reiserouten, Preisvergleiche und Pläne je nachdem, mit wem du reist." },
+  fr: { titulo: "Préparez votre voyage", subtitulo: "Itinéraires, comparatifs de prix et idées selon avec qui vous voyagez." },
+  it: { titulo: "Organizza il tuo viaggio", subtitulo: "Itinerari, confronti di prezzo e idee a seconda di con chi viaggi." },
+  pt: { titulo: "Planeie a sua viagem", subtitulo: "Roteiros, comparações de preço e planos conforme com quem viaja." },
+} as const satisfies Record<Idioma, unknown>;
 
 /** Bloque de la página de ciudad con sus guías de planificación. */
 export function PlanificaCiudad({ idioma, ciudad }: { idioma: Idioma; ciudad: string }) {
-  if (idioma !== "es" && idioma !== "en") return null;
   const t = T_BLOQUE[idioma];
   const vistas = new Set<string>();
   const grupos = GRUPOS.map((g) => {

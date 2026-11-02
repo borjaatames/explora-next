@@ -33,6 +33,9 @@ import {
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
+import MasActividadesEnIngles, {
+  esIdiomaCatalogoParcial,
+} from "@/components/ciudad/MasActividadesEnIngles";
 import ActividadesFiltradas, {
   type ActividadCardData,
   type ActividadesFiltradasStrings,
@@ -557,6 +560,15 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
         locale={IDIOMA_LOCALE[lang]}
         enlacesCategorias={enlacesCategorias}
       />
+
+      {esIdiomaCatalogoParcial(lang) ? (
+        <MasActividadesEnIngles
+          idioma={lang}
+          ciudad={params.ciudad}
+          nombreCiudad={ciudad.nombre}
+          max={12}
+        />
+      ) : null}
 
       <PlanificaCiudad idioma={lang} ciudad={params.ciudad} />
 
