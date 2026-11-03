@@ -1,21 +1,23 @@
 ---
-titulo: "Girona und Game of Thrones: die Drehorte und wie man sie sieht"
-descripcion: "Guide zu den Game-of-Thrones-Drehorten in Girona: die Kathedralentreppe, El Call als Braavos, Sant Pere de Galligants und mehr. Route zu Fuß und Tipps."
+titulo: "Game of Thrones in Girona: alle Drehorte und eine Route zu Fuß"
+descripcion: "Game of Thrones Drehorte in Girona: Kathedralentreppe, El Call als Braavos, Sant Pere de Galligants. Route zu Fuß in 2 Stunden; Kleingruppentour ab 35 €."
+metaTitle: "Game of Thrones Girona: Drehorte & Tour"
 categoria: "girona"
 slug: "girona-game-of-thrones"
 fecha: "2026-05-05"
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 10
 keywords:
-  - "girona game of thrones"
-  - "game of thrones drehorte girona"
+  - "game of thrones girona"
+  - "girona game of thrones drehorte"
+  - "game of thrones drehorte spanien"
   - "braavos girona"
-  - "kathedrale girona game of thrones"
-  - "game of thrones drehort spanien"
+  - "girona kathedrale treppe"
+  - "game of thrones tour girona"
 faq:
   - pregunta: "Welche Game-of-Thrones-Drehorte gibt es in Girona?"
     respuesta: "Girona war Drehort der sechsten Staffel, gedreht 2015. Die wichtigsten sind die Kathedralentreppe (die Große Septe von Baelor in Königsmund), El Call als Braavos, die Pujada de Sant Domènec, wo Arya stürzt, Sant Pere de Galligants, die Pont de Pedra mit den Häusern am Onyar und die Stadtmauer am Passeig Arqueològic."
@@ -35,7 +37,7 @@ slugs:
   it: girona-trono-di-spade
   pt: girona-guerra-dos-tronos
 reservasArriba: true
-respuestaCorta: 'Girona war in der sechsten Staffel **Braavos und Königsmund**. Die Drehorte (die Kathedralentreppe, El Call, Sant Pere de Galligants, die Häuser am Onyar) liegen fünf Minuten voneinander entfernt: Du siehst sie zu Fuß an einem Vormittag, kostenlos. Mit Guide vergleicht die **Kleingruppentour** (4,9★, ab 35 €) jede Szene auf einem iPad mit dem echten Ort.'
+respuestaCorta: 'Girona war in der sechsten Staffel **Braavos und Königsmund**. Die Drehorte (die Kathedralentreppe, El Call, Sant Pere de Galligants, die Häuser am Onyar) liegen fünf Minuten voneinander entfernt: Du siehst sie zu Fuß an einem Vormittag und ohne etwas zu bezahlen. Mit Guide vergleicht die **Kleingruppentour** (4,9★, ab 35 €) jede Szene auf einem iPad mit dem echten Ort.'
 actividades:
   - girona-juego-de-tronos-tour-grupo-reducido
   - girona-juego-de-tronos-tour-privado
@@ -46,54 +48,67 @@ imagen_portada: "/images/guias/girona-juego-de-tronos.jpg"
 imagen_alt: "Die Treppe der Kathedrale von Girona"
 ---
 
-**Girona wurde in der sechsten Staffel von Game of Thrones zur Filmkulisse, gedreht 2015 (ausgestrahlt 2016)**, und seine mittelalterliche Altstadt passt so gut, dass du die Drehorte sofort wiedererkennen wirst. Die Stadt spielte **Braavos** und **King's Landing**, und heute ist sie einer der beliebtesten Stopps für Fans der Serie. Dieser Guide versammelt die realen Drehorte, wie man sie zu Fuß verbindet und worauf man achten sollte.
+**Girona war Drehort der sechsten Staffel von Game of Thrones, gedreht 2015.** Die Altstadt spielte Braavos, Königsmund und Altsass, und alle Drehorte liegen fünf Minuten voneinander entfernt: Die Route schaffst du zu Fuß an einem Vormittag und ohne etwas zu bezahlen.
 
-Das Beste daran: Alle Drehorte liegen in der Altstadt, nur fünf Minuten voneinander entfernt, sodass sich die Route an einem Vormittag zu Fuß erledigen lässt. Und es sind wunderschöne Orte für sich, egal ob man die Serie kennt oder nicht.
+## Game-of-Thrones-Touren
 
-## Die wichtigsten Drehorte
+| Plan | Aktivität | Ab |
+| --- | --- | --- |
+| Am besten bewertet | [Game-of-Thrones-Tour in kleiner Gruppe](/en/cities/girona/activities/girona-game-of-thrones-small-group-tour), 4,9★ (951) | 35 € |
+| Nur für deine Gruppe | [Private Game-of-Thrones-Tour](/en/cities/girona/activities/girona-game-of-thrones-private-tour), Preis pro Gruppe | 260 € |
+| Geschichte Gironas und Drehorte | [Rundgang durch das Barri Vell](/en/cities/girona/activities/girona-walking-tour-small-group), 4,8★ (826) | 35 € |
+| Die Kathedrale von innen | [Kathedrale, Museu d'Art und Sant Feliu](/en/cities/girona/activities/girona-cathedral-art-museum-sant-feliu-ticket), 4,5★ (195) | 12 € |
 
-- **Kathedralentreppe.** Die 90 barocken Stufen waren der **Große Septon von Baelor** aus King's Landing. Der ikonischste Girona-Drehort der Serie.
-- **El Call (jüdisches Viertel).** Seine mittelalterlichen Gassen spielten **Braavos**, wo Arya umherstreift. Eines der am besten erhaltenen jüdischen Viertel Europas.
-- **Sant Pere de Galligants.** Das romanische Kloster trat ebenfalls als Braavos auf.
-- **Carrer de Sant Llorenç / Pujada de Sant Domènec.** Straßen und Treppen, die du aus Aryas Verfolgungsjagden wiedererkennst.
-- **Pont de Pedra und der Fluss Onyar.** Die Brücke und die bunten Häuser, zu sehen in Braavos-Szenen.
-- **Passeig Arqueològic (die Stadtmauer).** Mauern, die in mehreren Sequenzen als Kulisse dienten.
+Bei der Kleingruppentour hat der Guide ein iPad dabei, um jede Szene mit dem echten Ort zu vergleichen.
 
 [actividad: girona-juego-de-tronos-tour-grupo-reducido]
+
+## Welche Tour du wählen solltest
+
+- **Du bist Fan und ihr seid zu zweit oder allein:** die Kleingruppentour. Zwei Stunden, höchstens 10 Personen, und der Guide zeigt dir vor Ort jede Szene auf dem iPad. Das ist wichtig, weil viele Ecken für die Serie digital bearbeitet wurden und allein schwer wiederzuerkennen sind.
+- **Ihr seid eine Familie oder eine Gruppe ab vier Personen:** die Privattour. Die 260 € gelten pro Gruppe (bis 8 Personen), pro Kopf kostet es also ähnlich viel wie die Kleingruppentour. Gleicher Anbieter, gleiche Route, 2 Std. 30 Min., in eurem Tempo. Sie ist neu und hat noch keine eigenen Bewertungen.
+- **Dich interessiert Girona mehr als die Serie:** der Rundgang durch das Barri Vell. Das sind 2 Std. 30 Min. Geschichte (die Stadtmauer, die Kathedrale, El Call, die Eiffel-Brücke), und unterwegs kommst du an mehreren Drehorten vorbei.
+
+Alle drei starten an der Plaça de Sant Feliu, 15 Minuten zu Fuß vom Bahnhof, und bleiben draußen: Eintritte in Baudenkmäler sind nicht enthalten. Keine ist rollstuhlgerecht.
+
+## Die Drehorte
+
+- **Kathedralentreppe:** das Äußere der Großen Septe von Baelor in Königsmund. Hier reitet Jaime Lennister mit dem Heer der Tyrells hinauf.
+- **El Call (jüdisches Viertel):** die Gassen von Braavos, durch die Arya flieht.
+- **Pujada de Sant Domènec:** die Treppe, auf der Arya, verfolgt von der Heimatlosen, in eine Kiste Orangen stürzt.
+- **Sant Pere de Galligants:** das Kloster, das die Zitadelle von Altsass spielte, wo Sam und Goldy ankommen.
+- **Pont de Pedra und die Häuser am Onyar:** Szenen aus Braavos.
+- **Passeig Arqueològic:** die Stadtmauer, Hintergrund mehrerer Sequenzen.
+
+## Was du vor dem Besuch wissen solltest
+
+- **Die Drehorte sind öffentliche Straßen:** Du zahlst nichts, um sie zu sehen, außer du gehst in die Kathedrale (gemeinsames Ticket mit Sant Feliu, 7,50 € im Jahr 2026, mit Audioguide), in die Arabischen Bäder (ein paar Euro) oder nach Sant Pere de Galligants, heute Archäologisches Museum Kataloniens (ebenfalls ein paar Euro).
+- **Die ganze Route zu Fuß dauert 2 Stunden** in Ruhe, in einem Radius von 500 Metern. Die Treppen der Pujada de Sant Domènec und der Aufstieg zur Stadtmauer sind steil: Mit Kinderwagen oder eingeschränkter Mobilität lässt du diese beiden aus.
+- **Die Kathedralentreppe** (90 Stufen, die Große Septe) füllt sich ab 11:00 Uhr mit Gruppen. Für das Foto ohne Menschen: vor 9:30 Uhr oder nach 19:00 Uhr.
+- **Nicht alles wurde in Girona gedreht:** Die Braavos-Szenen mischen Girona mit Šibenik (Kroatien). Wenn du einen Drehort nicht findest, liegt er wahrscheinlich nicht hier.
+- **Wenn du in Barcelona übernachtest,** bringt dich der AVE in 38 Minuten hin, und der Bahnhof liegt 15 Minuten zu Fuß vom ersten Drehort. Das klappt an einem Vormittag, und der Nachmittag bleibt für die Stadt.
+
+[actividad: girona-juego-de-tronos-tour-privado]
 
 ## Route zu Fuß
 
 | Reihenfolge | Station |
 | --- | --- |
 | 1 | Pont de Pedra und die Häuser am Onyar |
-| 2 | El Call (jüdisches Viertel) |
+| 2 | El Call und Plaça dels Jurats |
 | 3 | Treppe und Kathedrale |
 | 4 | Pujada de Sant Domènec |
-| 5 | Sant Pere de Galligants |
+| 5 | Arabische Bäder und Sant Pere de Galligants |
 | 6 | Passeig Arqueològic (Stadtmauer) |
 
-> **⭐ Tipp:** Es gibt **thematische Führungen** zu Game of Thrones, bei denen jede Szene mit Fotos vom Dreh verortet wird; wenn du großer Fan bist, lohnen sie sich. Wenn du auf eigene Faust unterwegs bist, lade dir vorher eine Karte der Drehorte herunter.
+Wenn du um 9:00 Uhr startest, bist du vor den Gruppen an der Treppe und am späten Vormittag auf der Stadtmauer.
 
-## Wie du es kombinierst
+## Fehler, die du vermeiden solltest
 
-Die Drehort-Route überschneidet sich fast vollständig mit dem normalen Altstadtrundgang, sodass du beides zugleich machen kannst. Wir verknüpfen sie mit [Girona an einem Tag](/de/guides/girona/girona-in-einem-tag): dieselben Orte, doppelte Lesart.
+1. **Mittags hingehen:** Die Treppe ist voll, und auf den Fotos sind hundert Leute.
+2. **Auf eigene Faust ohne Karte der Drehorte losgehen:** Ohne die Screenshots aus der Serie neben dir sind die Szenen schwer zuzuordnen. Bei der Kleingruppentour hat der Guide ein iPad mit jeder Einstellung dabei.
+3. **Szenen suchen, die nicht hier gedreht wurden:** Braavos ist halb Girona, halb Kroatien.
+4. **In El Call laut sein oder posieren:** Es ist ein bewohntes Viertel mit engen Gassen. Respektiere die Ruhe.
+5. **Nur bei den Drehorten bleiben:** Die Kathedrale von innen, El Call und die Stadtmauer sind genauso viel wert wie die Serie.
 
-## Was wir NICHT empfehlen
-
-1. **Nur wegen der Serienfotos kommen.** Girona ist viel mehr als eine Filmkulisse; genieße auch seine Geschichte.
-2. **Die Treppe im Sommer mittags hochsteigen.** Viele Menschen und Hitze; geh früh am Tag.
-3. **Die Anwohner stören.** El Call ist ein bewohntes Viertel; respektiere die Ruhe und die Hauseingänge.
-
-[actividad: girona-juego-de-tronos-tour-privado]
-
-## Typische Fehler
-
-> **⚠️ Hinweis:** die Fehler, die wir am häufigsten sehen.
-
-1. **Ohne Karte der Drehorte losziehen.** Ohne Anhaltspunkte fällt es schwer, die Szenen zu verorten.
-2. **Girona mit anderen spanischen Drehorten verwechseln.** Die Serie drehte auch in Peñíscola, Sevilla oder den Bardenas; nicht alles ist Girona.
-3. **Es mit Zeitdruck angehen.** Es lohnt sich, stehen zu bleiben: Jede Szene ist zugleich ein Baudenkmal.
-
-## In einem Satz
-
-Girona und Game of Thrones bedeutet, Braavos und den Großen Septon von Baelor durch eine mittelalterliche Altstadt zu erkunden, die gleichzeitig Filmkulisse und Baudenkmal ist. Eine Fußroute, die den Besuch von [Girona an einem Tag](/de/guides/girona/girona-in-einem-tag) bereichert.
+Die Route deckt sich fast vollständig mit [Girona an einem Tag](/de/guides/girona/girona-in-einem-tag).

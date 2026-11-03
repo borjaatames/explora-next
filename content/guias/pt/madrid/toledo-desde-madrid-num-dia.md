@@ -14,7 +14,6 @@ imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
 imagen_alt: "O Alcázar de Toledo sobre o centro histórico"
 tiempo_lectura: 4
 keywords:
-  - 'o que ver em toledo'
   - 'o que ver em toledo num dia'
   - 'toledo num dia'
   - 'excursão a toledo a partir de madrid'
@@ -40,7 +39,7 @@ actividades:
   - tour-privado-escorial-monasterio-real
 ---
 
-A 70 km de Madrid há uma cidade medieval intacta: **Toledo**, onde judeus, muçulmanos e cristãos conviveram durante séculos e deixaram a sua marca na pedra. Ao contrário do Escorial (um monumento) ou de Segóvia (um aqueduto e um alcázar), Toledo é uma cidade inteira transformada em museu, Património da Humanidade no seu conjunto, e vê-se num dia. Este é o roteiro que recomendaríamos a um amigo: o que vale a pena, o que se salta e os erros de quem chega a correr.
+A 70 km de Madrid há uma cidade medieval intacta: **Toledo**, onde judeus, muçulmanos e cristãos conviveram durante séculos e deixaram a sua marca na pedra. Ao contrário do Escorial (um monumento) ou de Segóvia (um aqueduto e um alcázar), Toledo é uma cidade inteira transformada em museu, Património da Humanidade no seu conjunto, e vê-se num dia. Este é o roteiro que recomendaríamos a um amigo: o que vale a pena, o que se salta e os erros de quem chega a correr. Se quiser a lista completa do que ver em Toledo, com preços e horários de cada monumento, leia [o que ver em Toledo](/pt/guides/madrid/o-que-ver-em-toledo).
 
 ## Quando ir
 
@@ -55,7 +54,7 @@ A 70 km de Madrid há uma cidade medieval intacta: **Toledo**, onde judeus, muç
 ## Como chegar
 
 - **Avant a partir de Atocha:** 33 minutos, partidas de hora a hora a partir das 6h50 e último regresso por volta das 21h30; 22-26 € ida e volta. Os primeiros comboios esgotam: reserve. A estação fica a 20 minutos a pé do centro histórico, a subir; autocarro 5 ou táxi (6-8 €). Horários e preços do comboio, em [comboio Madrid–Toledo](/pt/guides/madrid/comboio-madrid-toledo).
-- **Carro:** 1 hora pela A-42 (grátis) ou pela AP-41 (portagem). É a única opção que permite parar no **Mirador del Valle**. Não se entra no centro histórico: controlo por matrícula e multa. Estacione em **Safont** (1 € por hora, ou grátis comprovando consumo nas lojas aderentes), junto às escadas rolantes que sobem ao centro, ou no do Cardenal, junto à Puerta de Bisagra.
+- **Carro:** 1 hora pela A-42 (grátis) ou pela AP-41 (portagem). É a única opção que permite parar no **Mirador del Valle**. Não se entra no centro histórico: controlo por matrícula e multa. Estacione em **Safont** (0,40 € por hora para não residentes, a tarifa regulada mais barata de Toledo segundo a câmara municipal), junto às escadas rolantes que sobem ao centro, ou no do Cardenal, junto à Puerta de Bisagra.
 - **Autocarro Alsa** a partir da Plaza Elíptica: 1 hora, cerca de 11 € ida e volta, a cada 30 minutos nas horas de ponta.
 - **Excursão organizada:** 45-70 € com transporte, guia e bilhetes, 8-9 horas. Compensa em grupo ou sem carro; em casal com carro, não.
 

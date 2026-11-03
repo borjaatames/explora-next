@@ -1,7 +1,7 @@
 ---
-titulo: 'Entradas Museo del Prado: precio, horario gratis y si se agotan'
+titulo: 'Entradas Museo del Prado: precio, taquilla y qué hacer si se agotan'
 descripcion: 'Entradas Museo del Prado: 15 € la general y gratis de lunes a sábado de 18:00 a 20:00 (domingos, de 17:00 a 19:00). Qué hacer si tu franja sale agotada.'
-metaTitle: 'Entradas Museo del Prado: precio y gratis'
+metaTitle: 'Entradas Museo del Prado: precio y horario'
 categoria: madrid
 slug: museo-del-prado-entradas-agotadas
 fecha: '2026-10-27'
@@ -15,9 +15,9 @@ imagen_alt: Fachada del Museo del Prado en el paseo del Prado, con la puerta de 
 tiempo_lectura: 4
 keywords:
   - 'entradas museo del prado'
-  - 'museo del prado gratis'
+  - 'taquilla museo del prado'
   - 'precio entrada museo del prado'
-  - 'museo del prado horario gratis'
+  - 'horario museo del prado'
   - 'entradas museo del prado agotadas'
   - 'cola museo del prado'
 slugs:
@@ -79,6 +79,8 @@ No cuentes con que se liberen plazas a última hora: si una franja te interesa, 
 Las taquillas están junto a la **puerta de Goya**, en el lado norte del edificio, y venden al mismo precio que la web. Si ya llevas la entrada en el móvil, entras por la **puerta de los Jerónimos**, sin pasar por taquilla. En temporada alta la cola crece a media mañana: ve a la apertura o a primera hora de la tarde.
 
 ## 3. La entrada gratuita y El Prado de noche
+
+Si solo quieres entrar gratis: en [Museo del Prado gratis](/guias/madrid/museo-del-prado-gratis) tienes el horario, quién entra gratis siempre, a qué hora ponerte a la cola y qué ver en esas dos horas.
 
 La colección permanente es **gratis las dos últimas horas de cada día**: de lunes a sábado de **18:00 a 20:00** y domingos y festivos de **17:00 a 19:00**. Las exposiciones temporales no son gratis en esas horas, pero cuestan la mitad. La entrada cierra **media hora antes del cierre**, así que en la práctica tienes hora y media.
 

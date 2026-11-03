@@ -21,6 +21,7 @@ keywords:
   - espanha de comboio
   - madrid sevilha granada barcelona de comboio
   - espanha em 10 dias sem carro
+ciudadesFichas: [sevilla, cordoba, granada, barcelona, malaga, valencia]
 slugs:
   es: ruta-por-espana-en-10-dias
   en: spain-itinerary-10-days

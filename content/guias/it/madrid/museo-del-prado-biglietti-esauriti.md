@@ -1,7 +1,7 @@
 ---
-titulo: 'Museo del Prado biglietti: prezzo, ingresso gratuito e cosa fare se esauriti'
+titulo: 'Museo del Prado biglietti: prezzo, biglietteria e cosa fare se esauriti'
 descripcion: 'Museo del Prado biglietti: 15 € online e gratis nelle ultime due ore di ogni giorno. Cosa fare se la tua fascia è esaurita o la coda gratuita è infinita.'
-metaTitle: 'Museo del Prado biglietti: prezzo e gratis'
+metaTitle: 'Museo del Prado biglietti: prezzo e orari'
 categoria: madrid
 slug: museo-del-prado-biglietti-esauriti
 fecha: '2026-10-27'
@@ -16,8 +16,8 @@ tiempo_lectura: 4
 keywords:
 - museo del prado biglietti
 - museo del prado prezzo
-- museo del prado gratis
-- museo del prado ingresso gratuito orari
+- museo del prado orari
+- museo del prado biglietteria
 - museo del prado biglietti esauriti
 - museo del prado coda
 slugs:
@@ -79,6 +79,8 @@ Non contare su posti liberati all'ultimo minuto: se una fascia ti va bene, compr
 La biglietteria è accanto alla **Porta di Goya**, sul lato nord dell'edificio, e ha gli stessi prezzi del sito. Se hai già il biglietto sul telefono, entri dalla **Porta dei Jerónimos** e salti la biglietteria. In alta stagione la coda si forma a metà mattina: vai all'apertura o nel primo pomeriggio.
 
 ## 3. Ingresso gratuito ed El Prado de noche
+
+Se vuoi solo entrare gratis: in [Museo del Prado gratis](/it/guides/madrid/museo-del-prado-gratis-orari) trovi gli orari, chi entra sempre gratis, quando metterti in coda e cosa vedere in quelle due ore.
 
 La collezione permanente è **gratuita nelle ultime due ore di ogni giorno**: da lunedì a sabato **18:00–20:00**, domenica e festivi **17:00–19:00**. Le mostre temporanee non sono gratuite in quelle ore, ma costano la metà. L'ingresso chiude **mezz'ora prima della chiusura**, quindi in pratica hai un'ora e mezza.
 

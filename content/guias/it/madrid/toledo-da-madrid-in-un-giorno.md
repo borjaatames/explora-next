@@ -14,7 +14,6 @@ imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
 imagen_alt: "L'Alcázar di Toledo sopra il centro storico"
 tiempo_lectura: 4
 keywords:
-- cosa vedere a toledo
 - cosa vedere a toledo in un giorno
 - toledo in un giorno
 - gita a toledo da madrid
@@ -40,7 +39,7 @@ actividades:
   - tour-privado-escorial-monasterio-real
 ---
 
-A 70 km da Madrid c'è una città medievale intatta: **Toledo**, dove ebrei, musulmani e cristiani convissero per secoli e lasciarono la loro impronta nella pietra. Rispetto all'Escorial (un monumento) o a Segovia (un acquedotto e un alcázar), Toledo è un'intera città trasformata in museo, Patrimonio dell'Umanità nel suo insieme, e si vede in un giorno. Questo è l'itinerario che consiglieremmo a un amico: ciò che vale la pena, ciò che si salta e gli errori di chi arriva di corsa.
+A 70 km da Madrid c'è una città medievale intatta: **Toledo**, dove ebrei, musulmani e cristiani convissero per secoli e lasciarono la loro impronta nella pietra. Rispetto all'Escorial (un monumento) o a Segovia (un acquedotto e un alcázar), Toledo è un'intera città trasformata in museo, Patrimonio dell'Umanità nel suo insieme, e si vede in un giorno. Questo è l'itinerario che consiglieremmo a un amico: ciò che vale la pena, ciò che si salta e gli errori di chi arriva di corsa. Se vuoi la lista completa di cosa vedere a Toledo, con prezzi e orari di ogni monumento, leggi [cosa vedere a Toledo](/it/guides/madrid/cosa-vedere-a-toledo).
 
 ## Quando andare
 
@@ -55,7 +54,7 @@ A 70 km da Madrid c'è una città medievale intatta: **Toledo**, dove ebrei, mus
 ## Come arrivare
 
 - **Avant da Atocha:** 33 minuti, partenze ogni ora dalle 6:50 e ultimo ritorno verso le 21:30; 22-26 € andata e ritorno. I primi treni si esauriscono: prenota. La stazione è a 20 minuti a piedi dal centro storico, in salita; autobus 5 o taxi (6-8 €). Orari e prezzi del treno, in [treno Madrid–Toledo](/it/guides/madrid/treno-madrid-toledo).
-- **Auto:** 1 ora per la A-42 (gratuita) o la AP-41 (a pedaggio). È l'unico mezzo che permette di fermarsi al **Mirador del Valle**. Nel centro storico non si entra: controllo targhe e multa. Parcheggia a **Safont** (1 € l'ora, o gratis dimostrando una consumazione nei negozi aderenti), vicino alle scale mobili che salgono al centro, o in quello del Cardenal, vicino alla Puerta de Bisagra.
+- **Auto:** 1 ora per la A-42 (gratuita) o la AP-41 (a pedaggio). È l'unico mezzo che permette di fermarsi al **Mirador del Valle**. Nel centro storico non si entra: controllo targhe e multa. Parcheggia a **Safont** (0,40 € l'ora per i non residenti, la tariffa regolamentata più economica di Toledo secondo il Comune), vicino alle scale mobili che salgono al centro, o in quello del Cardenal, vicino alla Puerta de Bisagra.
 - **Autobus Alsa** da Plaza Elíptica: 1 ora, circa 11 € andata e ritorno, ogni 30 minuti nelle ore di punta.
 - **Escursione organizzata:** 45-70 € con trasporto, guida e ingressi, 8-9 ore. Conviene in gruppo o senza auto; in coppia con l'auto, no.
 
@@ -72,7 +71,7 @@ A 70 km da Madrid c'è una città medievale intatta: **Toledo**, dove ebrei, mus
 
 **Mattina: la trinità classica.** La **Cattedrale** (12 €, 1 h 30; biglietto online su `catedralprimada.es` per saltare 30-45 minuti di coda): la Custodia di Arfe, il Transparente, la sacrestia con i Greco e la cappella mozarabica. **Santo Tomé** (una sola sala e una sola opera, *La sepoltura del conte di Orgaz*; 30 minuti). **Santa María la Blanca**, sinagoga del XII secolo con colonne bianche e archi a ferro di cavallo. Se preferisci le tre culture in concentrato: **Mezquita del Cristo de la Luz** (X secolo), **Sinagoga del Tránsito e Museo Sefardí** (3 €) e Cattedrale.
 
-**Il braccialetto turistico** (14 €) dà accesso a sette monumenti minori che costano 4 € ciascuno (Santo Tomé, Santa María la Blanca, Cristo de la Luz, San Juan de los Reyes, El Salvador, i Gesuiti e la Collegiata): dal quarto in poi conviene.
+**Il braccialetto turistico** (14 €) dà accesso a sette monumenti minori che costano 4 € ciascuno (Santo Tomé, Santa María la Blanca, Cristo de la Luz, San Juan de los Reyes, El Salvador, i Gesuiti e il Colegio de Doncellas Nobles): dal quarto in poi conviene.
 
 **Pranzo.** Non a Zocodover con il menù in otto lingue. In calle de la Sillería e Plaza de Padilla, taverne con menù del giorno da 12-18 €: guancia brasata, pernice in umido, formaggio manchego. Il **marzapane**, a Santo Tomé o, meglio, alla ruota delle Comendadoras o delle Concepcionistas, da suore che non vedi.
 

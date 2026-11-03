@@ -65,10 +65,19 @@ const CIUDADES_VECINAS: Readonly<Record<string, readonly string[]>> = {
 
 export function indexarFichasCiudad(
   idioma: Idioma,
-  ciudad: string
+  ciudad: string,
+  ciudadesExtra: readonly string[] = []
 ): Map<string, ActividadListItem> {
   const indice = new Map<string, ActividadListItem>();
-  const ciudades = [...(CIUDADES_VECINAS[ciudad] ?? []), ciudad];
+  // Orden: extras y vecinas primero, la propia ciudad al final para que sus
+  // fichas ganen si un slug coincide.
+  const ciudades = [
+    ...new Set([
+      ...ciudadesExtra.filter((c) => c !== ciudad),
+      ...(CIUDADES_VECINAS[ciudad] ?? []),
+      ciudad,
+    ]),
+  ];
   for (const c of ciudades) {
     for (const a of obtenerListaActividadesPorCiudad(idiomaFichas(idioma), c)) {
       indice.set(a.slug, a);

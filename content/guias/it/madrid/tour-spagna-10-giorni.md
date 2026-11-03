@@ -21,6 +21,7 @@ keywords:
   - tour spagna in treno
   - cosa vedere in spagna in 10 giorni
   - spagna senza auto
+ciudadesFichas: [sevilla, cordoba, granada, barcelona, malaga, valencia]
 slugs:
   es: ruta-por-espana-en-10-dias
   en: spain-itinerary-10-days

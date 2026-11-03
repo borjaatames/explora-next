@@ -21,6 +21,7 @@ keywords:
   - 'que voir en espagne en 10 jours'
   - 'espagne en train'
   - 'circuit espagne sans voiture'
+ciudadesFichas: [sevilla, cordoba, granada, barcelona, malaga, valencia]
 slugs:
   es: ruta-por-espana-en-10-dias
   en: spain-itinerary-10-days

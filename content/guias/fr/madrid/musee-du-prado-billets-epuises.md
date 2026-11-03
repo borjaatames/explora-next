@@ -1,7 +1,7 @@
 ---
-titulo: 'Billet musée du Prado : prix, heures gratuites et si c''est complet'
+titulo: 'Billet musée du Prado : prix, guichet et que faire si c''est complet'
 descripcion: 'Billet musée du Prado : 15 € en ligne, gratuit de 18 h à 20 h du lundi au samedi (17 h à 19 h le dimanche) et que faire si votre créneau est complet.'
-metaTitle: 'Billet musée du Prado : prix et gratuité'
+metaTitle: 'Billet musée du Prado : prix et horaires'
 categoria: madrid
 slug: musee-du-prado-billets-epuises
 fecha: '2026-10-27'
@@ -17,8 +17,8 @@ keywords:
   - 'musée du prado billet'
   - 'billet musée du prado'
   - 'musée du prado prix'
-  - 'musée du prado gratuit'
-  - 'musée du prado heures gratuites'
+  - 'musée du prado horaires'
+  - 'guichet musée du prado'
   - 'file d''attente musée du prado'
   - 'billets musée du prado épuisés'
 slugs:
@@ -80,6 +80,8 @@ Ne comptez pas sur des places libérées à la dernière minute : si un créneau
 Les guichets se trouvent près de la **porte de Goya**, du côté nord du bâtiment, et vendent au même prix que le site. Si vous avez déjà le billet sur votre téléphone, vous entrez par la **porte des Jerónimos**, sans passer par le guichet. En haute saison, la file s'allonge en milieu de matinée : allez-y à l'ouverture ou en début d'après-midi.
 
 ## 3. L'entrée gratuite et El Prado de noche
+
+Si vous voulez seulement entrer gratuitement : notre guide [musée du Prado gratuit](/fr/guides/madrid/musee-du-prado-gratuit) détaille les horaires, qui entre toujours gratuitement, quand faire la file et que voir en deux heures.
 
 La collection permanente est **gratuite pendant les deux dernières heures de chaque journée** : du lundi au samedi de **18 h à 20 h** et les dimanches et jours fériés de **17 h à 19 h**. Les expositions temporaires ne sont pas gratuites pendant ces heures, mais elles coûtent moitié prix. L'entrée ferme **une demi-heure avant la fermeture** : en pratique, vous avez une heure et demie.
 

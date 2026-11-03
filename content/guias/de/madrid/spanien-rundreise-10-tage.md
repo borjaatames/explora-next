@@ -21,6 +21,7 @@ keywords:
   - spanien rundreise route
   - madrid sevilla granada barcelona zug
   - spanien städtereise 10 tage
+ciudadesFichas: [sevilla, cordoba, granada, barcelona, malaga, valencia]
 slugs:
   es: ruta-por-espana-en-10-dias
   en: spain-itinerary-10-days

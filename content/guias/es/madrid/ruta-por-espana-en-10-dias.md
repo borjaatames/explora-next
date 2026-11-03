@@ -21,6 +21,7 @@ keywords:
   - "ruta por españa en tren"
   - "madrid sevilla granada barcelona en tren"
   - "españa en 10 días sin coche"
+ciudadesFichas: [sevilla, cordoba, granada, barcelona, malaga, valencia]
 slugs:
   es: ruta-por-espana-en-10-dias
   en: spain-itinerary-10-days

@@ -179,6 +179,7 @@ export default async function GuiaPage({ params }: Props) {
       titulo: guia.titulo,
       keywords: guia.keywords,
       actividades: guia.actividades,
+      ciudadesFichas: guia.ciudadesFichas,
     },
     10
   ));
@@ -190,6 +191,7 @@ export default async function GuiaPage({ params }: Props) {
       titulo: guia.titulo,
       keywords: guia.keywords,
       actividades: guia.actividades,
+      ciudadesFichas: guia.ciudadesFichas,
     },
     3
   ));
@@ -286,7 +288,7 @@ export default async function GuiaPage({ params }: Props) {
   const { html: htmlConAnclas, indice } = anadirAnclasH2(guia.contenidoHtml);
 
   // Reservas dentro de la guía (ver lib/guiasReservas.ts).
-  const fichasCiudad = indexarFichasCiudad(lang, guia.categoria);
+  const fichasCiudad = indexarFichasCiudad(lang, guia.categoria, guia.ciudadesFichas);
   const trozos = insertarMapasPorDia(
     partirHtmlPorShortcodes(
       enriquecerEnlacesFichas(htmlConAnclas, fichasCiudad, lang),

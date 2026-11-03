@@ -21,6 +21,7 @@ keywords:
   - "spain itinerary without a car"
   - "first time in spain 10 days"
   - "madrid seville granada barcelona by train"
+ciudadesFichas: [sevilla, cordoba, granada, barcelona, malaga, valencia]
 slugs:
   es: ruta-por-espana-en-10-dias
   en: spain-itinerary-10-days

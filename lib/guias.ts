@@ -55,6 +55,13 @@ export type GuiaFrontmatter = {
   actividades?: string[];
 
   /**
+   * Guías de varias ciudades (p. ej. «España en 10 días»): otras ciudades
+   * cuyas fichas puede citar la guía en `actividades:`, `opciones:` y
+   * shortcodes, además de las de su `categoria`.
+   */
+  ciudadesFichas?: string[];
+
+  /**
    * Guías de itinerario ("X en 3 días", "con niños", "qué ver en"): muestra
    * bajo el hero el bloque "Lo que conviene reservar antes de ir" con las
    * 4 primeras fichas de `actividades`. Las guías de un solo sitio usan en
@@ -223,6 +230,9 @@ export async function obtenerGuia(
     keywords: fm.keywords || [],
     slugs: fm.slugs,
     actividades: fm.actividades || [],
+    ciudadesFichas: Array.isArray(fm.ciudadesFichas)
+      ? fm.ciudadesFichas.filter((c: unknown): c is string => typeof c === "string")
+      : undefined,
     reservasArriba: fm.reservasArriba === true,
     respuestaCorta:
       typeof fm.respuestaCorta === "string" && fm.respuestaCorta.trim()

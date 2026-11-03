@@ -1,7 +1,7 @@
 ---
-titulo: 'Museu do Prado bilhetes: preço, horário grátis e se esgotarem'
+titulo: 'Museu do Prado bilhetes: preço, bilheteira e se esgotarem'
 descripcion: 'Museu do Prado bilhetes: 15 € online ou na bilheteira, grátis de segunda a sábado das 18h00 às 20h00 e ao domingo das 17h00 às 19h00. E se esgotar.'
-metaTitle: 'Museu do Prado: bilhetes, preço e hora grátis'
+metaTitle: 'Museu do Prado bilhetes: preço e horário'
 categoria: madrid
 slug: museu-do-prado-bilhetes-esgotados
 fecha: '2026-10-27'
@@ -16,8 +16,8 @@ tiempo_lectura: 4
 keywords:
   - 'museu do prado bilhetes'
   - 'museu do prado preço'
-  - 'museu do prado grátis'
-  - 'museu do prado horário gratuito'
+  - 'museu do prado horário'
+  - 'bilheteira museu do prado'
   - 'fila museu do prado'
   - 'bilhetes museu do prado esgotados'
 slugs:
@@ -79,6 +79,8 @@ Não conte com a libertação de lugares à última hora: se um horário lhe int
 As bilheteiras ficam junto à **porta de Goya**, no lado norte do edifício, e vendem ao mesmo preço que o site. Se já tiver o bilhete no telemóvel, entra pela **porta de los Jerónimos**, sem passar pela bilheteira. Na época alta a fila cresce a meio da manhã: vá à abertura ou ao início da tarde.
 
 ## 3. A entrada gratuita e El Prado de noche
+
+Se só quer entrar grátis: em [Museu do Prado grátis](/pt/guides/madrid/museu-do-prado-gratis) tem o horário, quem entra sempre grátis, a que horas ir para a fila e o que ver nessas duas horas.
 
 A coleção permanente é **grátis nas duas últimas horas de cada dia**: de segunda a sábado das **18h00 às 20h00** e aos domingos e feriados das **17h00 às 19h00**. As exposições temporárias não são grátis nessas horas, mas custam metade. A entrada fecha **meia hora antes do encerramento**, por isso na prática tem hora e meia.
 

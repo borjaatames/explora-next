@@ -124,7 +124,7 @@ Compra i treni sul sito di Renfe appena hai le date: i prezzi bassi spariscono m
 
 ## Giorno 6: Granada → Malaga
 
-Mattinata tranquilla a Granada (il Realejo o il Monasterio de la Cartuja, 7 €) e **Avant diretto per Malaga** dopo pranzo: 1 h 18. **Pomeriggio:** **Alcazaba e Gibralfaro** (5,50 € il biglietto congiunto), il Teatro Romano dall'esterno e la Cattedrale (10 € con audioguida). **Sera:** espetos di sardine alla Malagueta o a Pedregalejo.
+Mattinata tranquilla a Granada (il Realejo o il Monasterio de la Cartuja, 7 €) e **Avant diretto per Malaga** dopo pranzo: 1 h 18. **Pomeriggio:** **Alcazaba e Gibralfaro** (10 € il biglietto congiunto), il Teatro Romano dall'esterno e la Cattedrale (10 € con audioguida). **Sera:** espetos di sardine alla Malagueta o a Pedregalejo.
 
 **Dove dormire a Malaga:** il **centro storico** o il **Soho**, a 15 minuti a piedi dalla stazione María Zambrano. La Malagueta se vuoi la spiaggia sotto casa.
 

@@ -1,7 +1,7 @@
 ---
-titulo: 'Prado Museum tickets: price, free hours and what to do if sold out'
+titulo: 'Prado Museum tickets: price, box office and what to do if sold out'
 descripcion: 'Prado Museum tickets cost €15 online. Free entry the last two hours daily (18:00-20:00, Sundays 17:00-19:00), how to beat the queue and what to do if sold out.'
-metaTitle: 'Prado Museum tickets: price and free hours'
+metaTitle: 'Prado Museum tickets: price and opening hours'
 categoria: madrid
 slug: prado-museum-tickets-sold-out
 fecha: '2026-10-27'
@@ -16,8 +16,8 @@ tiempo_lectura: 4
 keywords:
   - 'prado museum tickets'
   - 'prado museum tickets price'
-  - 'prado museum free entry'
-  - 'prado museum free hours'
+  - 'prado museum box office'
+  - 'prado museum opening hours'
   - 'prado museum queue'
   - 'prado museum tickets sold out'
 slugs:
@@ -79,6 +79,8 @@ Don't count on places being released at the last minute: if a slot suits you, bu
 The box office is next to the **Goya Gate**, on the north side of the building, and charges the same as the website. If you already have your ticket on your phone, you go in through the **Jerónimos Gate** and skip the box office. In high season the queue builds by mid-morning: go at opening time or in the early afternoon.
 
 ## 3. Free entry and El Prado de noche
+
+If you only want to get in free: [Prado Museum free hours](/en/guides/madrid/prado-museum-free-entry) covers the times, who always gets in free, when to join the queue and what to see in those two hours.
 
 The permanent collection is **free for the last two hours of every day**: Monday to Saturday **18:00 to 20:00**, Sundays and public holidays **17:00 to 19:00**. Temporary exhibitions aren't free during those hours, but they're half price. Entry closes **half an hour before closing**, so in practice you get an hour and a half.
 

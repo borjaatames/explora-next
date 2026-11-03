@@ -14,12 +14,10 @@ imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
 imagen_alt: "L'Alcazar de Tolède dominant le centre historique"
 tiempo_lectura: 4
 keywords:
-  - 'que voir à tolède'
   - 'que voir à tolède en une journée'
   - 'tolède en une journée'
   - 'excursion tolède depuis madrid'
   - 'tolède depuis madrid'
-  - 'visiter tolède'
 slugs:
   es: escapadas-desde-madrid-toledo
   en: toledo-day-trip-from-madrid
@@ -40,7 +38,7 @@ actividades:
   - tour-privado-escorial-monasterio-real
 ---
 
-À 70 km de Madrid se trouve une ville médiévale intacte : **Tolède**, où juifs, musulmans et chrétiens ont cohabité pendant des siècles et ont laissé leur empreinte dans la pierre. Face à l'Escurial (un monument) ou à Ségovie (un aqueduc et un alcazar), Tolède est une ville entière transformée en musée, classée dans son ensemble au patrimoine mondial, et elle se visite en une journée. Voici l'itinéraire que nous recommanderions à un ami : ce qui vaut la peine, ce qu'on peut sauter et les erreurs de ceux qui arrivent en courant.
+À 70 km de Madrid se trouve une ville médiévale intacte : **Tolède**, où juifs, musulmans et chrétiens ont cohabité pendant des siècles et ont laissé leur empreinte dans la pierre. Face à l'Escurial (un monument) ou à Ségovie (un aqueduc et un alcazar), Tolède est une ville entière transformée en musée, classée dans son ensemble au patrimoine mondial, et elle se visite en une journée. Voici l'itinéraire que nous recommanderions à un ami : ce qui vaut la peine, ce qu'on peut sauter et les erreurs de ceux qui arrivent en courant. Pour la liste complète de ce qu'il faut voir à Tolède, avec les prix et horaires de chaque monument, lisez [visiter Tolède : que voir](/fr/guides/madrid/que-voir-a-tolede).
 
 ## Quand y aller
 
@@ -55,7 +53,7 @@ actividades:
 ## Comment y aller
 
 - **Avant depuis Atocha :** 33 minutes, départs toutes les heures dès 6 h 50 et dernier retour vers 21 h 30 ; 22-26 € aller-retour. Les premiers trains sont complets : réservez. La gare est à 20 minutes à pied du centre historique, en montée ; bus 5 ou taxi (6-8 €). Horaires et prix du train dans notre guide [train Madrid–Tolède](/fr/guides/madrid/train-madrid-tolede).
-- **Voiture :** 1 heure par l'A-42 (gratuite) ou l'AP-41 (à péage). C'est la seule option qui permet de s'arrêter au **Mirador del Valle**. On n'entre pas dans le centre historique : contrôle par plaque d'immatriculation et amende. Garez-vous au parking **Safont** (1 € l'heure, ou gratuit sur justificatif d'achat dans les commerces partenaires), à côté des escalators qui montent au centre, ou à celui du Cardenal, près de la Puerta de Bisagra.
+- **Voiture :** 1 heure par l'A-42 (gratuite) ou l'AP-41 (à péage). C'est la seule option qui permet de s'arrêter au **Mirador del Valle**. On n'entre pas dans le centre historique : contrôle par plaque d'immatriculation et amende. Garez-vous au parking **Safont** (0,40 € l'heure pour les non-résidents, le tarif réglementé le moins cher de Tolède selon la mairie), à côté des escalators qui montent au centre, ou à celui du Cardenal, près de la Puerta de Bisagra.
 - **Bus Alsa** depuis Plaza Elíptica : 1 heure, environ 11 € aller-retour, toutes les 30 minutes aux heures de pointe.
 - **Excursion organisée :** 45-70 € avec transport, guide et billets, 8-9 heures. Rentable en groupe ou sans voiture ; en couple avec une voiture, non.
 
@@ -72,7 +70,7 @@ actividades:
 
 **Le matin : le trio classique.** La **cathédrale** (12 €, 1 h 30 ; billet en ligne sur `catedralprimada.es` pour éviter 30-45 minutes de file) : l'ostensoir d'Arfe, le Transparente, la sacristie avec les Greco et la chapelle mozarabe. **Santo Tomé** (une seule salle et une seule œuvre, *L'Enterrement du comte d'Orgaz* ; 30 minutes). **Santa María la Blanca**, une synagogue du XIIe siècle aux colonnes blanches et aux arcs outrepassés. Si vous préférez les trois cultures en concentré : **mosquée du Cristo de la Luz** (Xe siècle), **synagogue du Tránsito et Musée séfarade** (3 €) et cathédrale.
 
-**Le bracelet touristique** (14 €) donne accès à sept petits monuments qui coûtent 4 € chacun (Santo Tomé, Santa María la Blanca, Cristo de la Luz, San Juan de los Reyes, El Salvador, les Jésuites et la collégiale) : il est rentable dès le quatrième.
+**Le bracelet touristique** (14 €) donne accès à sept petits monuments qui coûtent 4 € chacun (Santo Tomé, Santa María la Blanca, Cristo de la Luz, San Juan de los Reyes, El Salvador, les Jésuites et le Colegio de Doncellas Nobles) : il est rentable dès le quatrième.
 
 **Manger.** Pas sur la place Zocodover avec un menu en huit langues. Dans la calle de la Sillería et sur la Plaza de Padilla, des tavernes proposent un menu du jour à 12-18 € : joue de porc, perdrix à l'étouffée, fromage manchego. Le **massepain**, à Santo Tomé ou, mieux, au tour des Comendadoras ou des Concepcionistas, auprès de religieuses que vous ne voyez pas.
 

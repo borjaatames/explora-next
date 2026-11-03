@@ -16,7 +16,6 @@ keywords:
   - 'toledo day trip from madrid'
   - 'toledo in one day'
   - 'what to see in toledo in one day'
-  - 'things to do in toledo'
   - 'toledo one day itinerary'
   - 'day trips from madrid'
 slugs:
@@ -40,7 +39,7 @@ actividades:
   - tour-privado-escorial-monasterio-real
 ---
 
-Seventy kilometers from Madrid sits an intact medieval city: **Toledo**, where Jews, Muslims and Christians lived side by side for centuries and left their mark in stone. El Escorial is one monument and Segovia an aqueduct plus an alcázar; Toledo is a whole city listed by UNESCO, and you can see it well in one day. Here's the route, what to skip and the usual mistakes.
+Seventy kilometers from Madrid sits an intact medieval city: **Toledo**, where Jews, Muslims and Christians lived side by side for centuries and left their mark in stone. El Escorial is one monument and Segovia an aqueduct plus an alcázar; Toledo is a whole city listed by UNESCO, and you can see it well in one day. Here's the route, what to skip and the usual mistakes. If you want the full list of things to do in Toledo, with prices and opening hours for each sight, see [things to do in Toledo](/en/guides/madrid/things-to-do-in-toledo).
 
 ## When to go
 
@@ -55,7 +54,7 @@ Seventy kilometers from Madrid sits an intact medieval city: **Toledo**, where J
 ## How to get there
 
 - **Avant high-speed train from Atocha:** 33 minutes, roughly hourly from about 6:50 AM, last return around 9:30 PM; **€22–26 return**. Early trains sell out, so book on Renfe. Toledo station is a 20-minute uphill walk from the old town; take bus 5 or a taxi (€6–8). Timetables and fares are in our [Madrid to Toledo train guide](/en/guides/madrid/madrid-to-toledo-train).
-- **Car:** 1 hour on the A-42 (free) or AP-41 (toll). It's the only way to stop easily at the **Mirador del Valle**. Don't drive into the old town: access is controlled by number plate and fines are steep. Park at **Safont** (€1/hour, or free if you validate a purchase at participating shops), next to the free escalators up to the old town, or at **Cardenal**, by the Puerta de Bisagra.
+- **Car:** 1 hour on the A-42 (free) or AP-41 (toll). It's the only way to stop easily at the **Mirador del Valle**. Don't drive into the old town: access is controlled by number plate and fines are steep. Park at **Safont** (€0.40/hour for non-residents, the cheapest regulated rate in Toledo according to the city council), next to the free escalators up to the old town, or at **Cardenal**, by the Puerta de Bisagra.
 - **Alsa bus** from Plaza Elíptica: 1 hour, about **€11 return**, every 30 minutes at peak times; last return around 10 PM.
 - **Organized tour:** €45–70 with transport, guide and tickets, 8–9 hours. Worth it in a group or without a car; a couple with a car is better off alone.
 

@@ -16,7 +16,6 @@ tiempo_lectura: 4
 keywords:
   - 'qué ver en toledo en un día'
   - 'toledo en un día'
-  - 'qué ver en toledo'
   - 'excursión a toledo desde madrid'
   - 'toledo desde madrid'
   - 'escapadas desde madrid'
@@ -40,7 +39,7 @@ actividades:
   - tour-privado-escorial-monasterio-real
 ---
 
-A 70 km de Madrid hay una ciudad medieval intacta: **Toledo**, donde judíos, musulmanes y cristianos convivieron durante siglos y dejaron su huella en piedra. Frente a El Escorial (un monumento) o Segovia (un acueducto y un alcázar), Toledo es una ciudad entera convertida en museo, Patrimonio de la Humanidad en conjunto, y se ve en un día. Esta es la ruta que recomendaríamos a un amigo: lo que merece la pena, lo que se salta y los errores del que llega corriendo.
+A 70 km de Madrid hay una ciudad medieval intacta: **Toledo**, donde judíos, musulmanes y cristianos convivieron durante siglos y dejaron su huella en piedra. Frente a El Escorial (un monumento) o Segovia (un acueducto y un alcázar), Toledo es una ciudad entera convertida en museo, Patrimonio de la Humanidad en conjunto, y se ve en un día. Esta es la ruta que recomendaríamos a un amigo: lo que merece la pena, lo que se salta y los errores del que llega corriendo. Si quieres la lista completa de qué ver en Toledo, con precio y horario de cada monumento, está en [qué ver en Toledo: 15 sitios con precios](/guias/madrid/que-ver-en-toledo).
 
 ## Cuándo ir
 
@@ -55,7 +54,7 @@ A 70 km de Madrid hay una ciudad medieval intacta: **Toledo**, donde judíos, mu
 ## Cómo llegar
 
 - **Avant desde Atocha:** 33 minutos, salidas cada hora desde las 6:50 y último regreso sobre las 21:30; 22-26 € ida y vuelta. Los primeros trenes se agotan: reserva. La estación está a 20 minutos a pie del casco, cuesta arriba; autobús 5 o taxi (6-8 €). Horarios y precios del tren, en [tren Madrid–Toledo](/guias/madrid/tren-madrid-toledo).
-- **Coche:** 1 hora por la A-42 (gratis) o la AP-41 (peaje). Lo único que permite parar en el **Mirador del Valle**. No se entra al casco: control por matrícula y multa. Aparca en **Safont** (1 € la hora, o gratis acreditando consumo en comercios adheridos), junto a las escaleras mecánicas que suben al casco, o en el del Cardenal, junto a la Puerta de Bisagra.
+- **Coche:** 1 hora por la A-42 (gratis) o la AP-41 (peaje). Lo único que permite parar en el **Mirador del Valle**. No se entra al casco: control por matrícula y multa. Aparca en **Safont** (0,40 € la hora para no empadronados, la tarifa más barata de la ORA de Toledo según el Ayuntamiento), junto a las escaleras mecánicas que suben al casco, o en el del Cardenal, junto a la Puerta de Bisagra.
 - **Autobús Alsa** desde Plaza Elíptica: 1 hora, unos 11 € ida y vuelta, cada 30 minutos en hora punta.
 - **Excursión organizada:** 45-70 € con transporte, guía y entradas, 8-9 horas. Compensa en grupo o sin coche; en pareja con coche, no.
 
@@ -72,7 +71,7 @@ A 70 km de Madrid hay una ciudad medieval intacta: **Toledo**, donde judíos, mu
 
 **Mañana: la trinidad clásica.** La **Catedral** (12 €, 1 h 30; entrada online en `catedralprimada.es` para saltarte 30-45 minutos de cola): la Custodia de Arfe, el Transparente, la sacristía con los Grecos y la capilla mozárabe. **Santo Tomé** (una sola sala y una sola obra, *El entierro del señor de Orgaz*; 30 minutos). **Santa María la Blanca**, sinagoga del XII con columnas blancas y arcos de herradura. Si prefieres las tres culturas en concentrado: **Mezquita del Cristo de la Luz** (siglo X), **Sinagoga del Tránsito y Museo Sefardí** (3 €) y Catedral.
 
-**La pulsera turística** (14 €) da acceso a siete monumentos pequeños que cuestan 4 € cada uno (Santo Tomé, Santa María la Blanca, Cristo de la Luz, San Juan de los Reyes, El Salvador, los Jesuitas y la Colegiata): a partir del cuarto compensa.
+**La pulsera turística** (14 €) da acceso a siete monumentos pequeños que cuestan 4 € cada uno (Santo Tomé, Santa María la Blanca, Cristo de la Luz, San Juan de los Reyes, El Salvador, los Jesuitas y el Colegio de Doncellas Nobles): a partir del cuarto compensa.
 
 **Comer.** No en Zocodover con menú en ocho idiomas. En la calle de la Sillería y la Plaza de Padilla, tabernas con menú del día de 12-18 €: carrillera, perdiz estofada, queso manchego. El **mazapán**, en Santo Tomé o, mejor, en el torno de las Comendadoras o las Concepcionistas, a monjas que no ves.
 

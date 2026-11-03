@@ -132,6 +132,7 @@ export default async function GuiaPage({ params }: Props) {
       titulo: guia.titulo,
       keywords: guia.keywords,
       actividades: guia.actividades,
+      ciudadesFichas: guia.ciudadesFichas,
     },
     10
   );
@@ -143,6 +144,7 @@ export default async function GuiaPage({ params }: Props) {
       titulo: guia.titulo,
       keywords: guia.keywords,
       actividades: guia.actividades,
+      ciudadesFichas: guia.ciudadesFichas,
     },
     3
   );
@@ -233,7 +235,7 @@ export default async function GuiaPage({ params }: Props) {
   // Reservas dentro de la guía: fichas de la ciudad indexadas por slug,
   // tarjetas inline (shortcodes), píldoras en enlaces, bloque superior,
   // carrusel sin repetir lo ya ofrecido y barra sticky en móvil.
-  const fichasCiudad = indexarFichasCiudad("es", guia.categoria);
+  const fichasCiudad = indexarFichasCiudad("es", guia.categoria, guia.ciudadesFichas);
   const trozos = insertarMapasPorDia(
     partirHtmlPorShortcodes(
       enriquecerEnlacesFichas(htmlConAnclas, fichasCiudad, "es"),

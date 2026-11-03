@@ -1,10 +1,12 @@
 ---
-titulo: "Guggenheim-Museum Bilbao: So besichtigst du es (Tickets und Tipps)"
-descripcion: "Besuchsguide für das Guggenheim in Bilbao: Tickets und Öffnungszeiten, was man innen und außen sieht (Puppy, Maman, Serra), wie viel Zeit einplanen und die besten Tipps."
+titulo: "Guggenheim Bilbao: Tickets, Öffnungszeiten und Tipps für den Besuch"
+descripcion: "Guggenheim Bilbao besuchen: Tickets 12–18 € (unter 18 gratis), Öffnungszeiten, Puppy und Maman draußen gratis, Serra innen. Plane 2–2,5 Stunden ein."
+metaTitle: "Guggenheim Bilbao: Tickets und Tipps"
+respuestaCorta: 'Draußen ist alles gratis: **Puppy, Maman und Gehrys Titanfassade** wirken am schönsten bei Sonnenuntergang. Drinnen solltest du **2–2,5 Stunden** einplanen und gezielt zu Richard Serras *Die Materie der Zeit* gehen. Das reguläre Ticket kostet **je nach Ausstellung 12 bis 18 €** (unter 18 Jahren gratis, Audioguide inklusive) und wird online mit Zeitfenster gekauft. Montags geschlossen, außer im Juli, August und an Brückentagen.'
 categoria: "bilbao"
 slug: "guggenheim-museum-besichtigen"
 fecha: "2026-03-24"
-fecha_actualizacion: "2026-03-24"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -12,9 +14,10 @@ imagen_portada: "/images/guias/museo-guggenheim-como-visitar.jpg"
 imagen_alt: "Das Guggenheim-Museum an der Flussmündung von Bilbao"
 tiempo_lectura: 11
 keywords:
-  - "guggenheim museum bilbao"
-  - "guggenheim tickets"
-  - "guggenheim besichtigen"
+  - "guggenheim bilbao"
+  - "guggenheim bilbao tickets"
+  - "guggenheim bilbao öffnungszeiten"
+  - "guggenheim museum bilbao eintritt"
   - "puppy bilbao"
   - "richard serra guggenheim"
 slugs:
@@ -27,65 +30,71 @@ slugs:
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido
+reservasArriba: true
 ---
 
-**Das Guggenheim ist nicht nur ein Museum: Es ist das Gebäude, das Bilbao veränderte.** Frank Gehrys Titanbau, 1997 eröffnet, verwandelte eine Industriestadt in eine weltweite Design-Ikone – den berühmten „Bilbao-Effekt“. Deshalb hat der Besuch zwei Teile, die man nicht verwechseln sollte: **das Gebäude und seine Skulpturen (kostenlos, von außen)** und **die Ausstellungssäle (kostenpflichtig, im Inneren)**. Dieser Guide hilft dir, beides optimal zu nutzen.
+**Das Guggenheim ist nicht nur ein Museum: Es ist das Gebäude, das Bilbao verändert hat.** Frank Gehrys Titanbau, eröffnet 1997, machte aus einer Industriestadt eine weltweite Ikone des Designs – der berühmte „Guggenheim-Effekt“. Deshalb hat der Besuch zwei Teile, die man nicht verwechseln sollte: **das Gebäude und seine Skulpturen (gratis, draußen)** und **die Ausstellungsräume (kostenpflichtig, drinnen)**. Dieser Guide hilft dir, beides gut zu nutzen.
 
-Die goldene Regel: Selbst wenn du nicht hineingehst, lohnt sich allein das Äußere die Reise. Und wenn du hineingehst, konzentrier dich auf das, was wirklich zählt, statt „alles sehen zu wollen“.
+## Führungen durch das Guggenheim
 
-## Was man von außen sieht (kostenlos)
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Guggenheim mit Guide und Ticket (auf Spanisch)](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) | 4,9★ (182) | 49 € |
+| [Guggenheim VIP in kleiner Gruppe (10 Sprachen)](/en/cities/bilbao/activities/guggenheim-bilbao-vip-small-group-tour) | 4,5★ (763) | 95 € |
 
-Das Gebäude selbst, das sich in der Ría spiegelt, ist die Attraktion. Rundherum, ohne Eintritt:
+Die goldene Regel: Auch wenn du nicht hineingehst, lohnt sich schon das Äußere. Und wenn du hineingehst, konzentriere dich auf das, was wirklich zählt, statt „alles sehen“ zu wollen.
 
-- **„Puppy“**, der riesige Blumenhund von Jeff Koons, am Haupteingang.
-- **„Maman“**, die Bronzespinne von Louise Bourgeois, an der Ría.
-- **„Tulips“** von Koons und **„Tall Tree & the Eye“** von Anish Kapoor.
-- Der **Feuerbrunnen** von Yves Klein und die **Nebelskulptur** von Fujiko Nakaya, die das Gebäude zu bestimmten Zeiten einhüllt.
+## Was du draußen sehen kannst (gratis)
 
-> **⭐ Tipp:** Die beste Zeit für das Äußere ist der **Sonnenuntergang**, wenn sich das Titan golden färbt und sich die Farben im Wasser spiegeln. Das ist das Foto, das alle suchen.
+Das Gebäude selbst, das sich in der Ría spiegelt, ist die Attraktion. Rundherum, ganz ohne Eintritt:
 
-## Was man im Inneren sieht
+- **„Puppy“**, Jeff Koons’ riesiger Blumenhund, am Haupteingang.
+- **„Maman“**, Louise Bourgeois’ Bronzespinne, direkt an der Ría.
+- **„Tulips“** von Koons und **„Tall Tree & The Eye“** von Anish Kapoor.
+- Der **Feuerbrunnen** von Yves Klein und die **Nebelskulptur** von Fujiko Nakaya, die das Gebäude zu bestimmten Uhrzeiten einhüllt.
 
-Wenn du hineingehst, priorisiere:
+> **⭐ Tipp:** Die beste Zeit für das Äußere ist der **Sonnenuntergang**, wenn sich das Titan golden färbt und die Farben im Wasser spiegeln. Das ist das Foto, das alle suchen.
 
-- **„The Matter of Time“ von Richard Serra**, im Erdgeschoss: riesige Platten aus gebogenem Stahl, durch die man hindurchgeht. Das ist das unverzichtbare Hauptwerk der Sammlung und das beeindruckendste.
-- Das **Atrium**, der spektakuläre, 50 Meter hohe zentrale Leerraum.
-- Die **Wechselausstellungen**, die rotieren und meist auf höchstem Niveau sind (schau vor dem Besuch ins Programm; sie können den Ausschlag für den Besuch geben).
+## Was du drinnen sehen solltest
 
-Rechne mit **2 bis 2,5 Stunden** im Inneren. Der Audioguide ist im Ticket enthalten und lohnt sich.
+Wenn du hineingehst, setze diese Prioritäten:
+
+- **„Die Materie der Zeit“ (The Matter of Time) von Richard Serra** im Erdgeschoss: riesige gebogene Stahlplatten, durch die man hindurchgeht. Das ist das wichtigste Werk der Dauerausstellung und das beeindruckendste.
+- Das **Atrium**, der spektakuläre, 50 Meter hohe Lichthof in der Mitte.
+- Die **Wechselausstellungen**, die regelmäßig wechseln und meist erstklassig sind (schau vorher ins Programm; sie können den Ausschlag für den Besuch geben).
+
+Plane drinnen **2–2,5 Stunden** ein. Der Audioguide ist inklusive und lohnt sich.
 
 ## Tickets und Öffnungszeiten
 
-| Angabe | Detail |
-| --- | --- |
-| Eintritt | Für Erwachsene kostenpflichtig; **unter 18 Jahren kostenlos** |
-| Audioguide | Im Ticket enthalten |
-| Reservierung | Online empfohlen, um Warteschlangen zu vermeiden |
-| Schließtag | Montag (außer im August und an Feiertagen, dann täglich geöffnet) |
-
-> **⚠️ Hinweis:** In der Hochsaison und an Wochenenden gibt es Warteschlangen an der Kasse. Kauf das Ticket **online** mit Zeitfenster und geh direkt hinein.
+- **Reguläres Ticket:** je nach laufenden Ausstellungen zwischen 12 und 18 € (12 € im Oktober 2026; Audioguide inklusive); ermäßigt für Studierende und Menschen über 65; **unter 18 Jahren gratis**. Du kaufst es online mit Zeitfenster und gehst ohne Warteschlange hinein; die Kasse funktioniert auch, hat in der Saison aber Wartezeiten.
+- **Öffnungszeiten:** Dienstag bis Sonntag von 10:00 bis 19:00 Uhr, im Sommer bis 20:00 Uhr. **Montags geschlossen**, außer im Juli, August und an Brückentagen; am 25. Dezember und 1. Januar immer geschlossen.
+- **Beste Zeit:** früh am Morgen unter der Woche oder ab 17:00 Uhr; samstags zur Mittagszeit ist am meisten los.
+- **Garderobe:** kostenlos und Pflicht für Rucksäcke und Regenschirme. Mit Kinderwagen darfst du hinein.
+- **Nebel und Feuer:** Nakayas Nebelskulptur wird zu festen Zeiten aktiviert (frag am Infoschalter, meist einmal pro Stunde), und Kleins Feuerbrunnen wird bei Einbruch der Dunkelheit entzündet. Schau sie dir vom Fußgängersteg an der Ría aus an.
+- **Anreise:** Metrostation Moyua (L1 und L2) und 7 Minuten zu Fuß, oder Straßenbahn mit Haltestelle Guggenheim direkt vor der Tür. Von der Altstadt aus sind es 20 Minuten zu Fuß an der Ría entlang.
 
 [actividad: guggenheim-bilbao-visita-guiada-entrada]
 
-## Wie man es kombiniert
+## So kombinierst du den Besuch
 
-Das Guggenheim liegt im Ensanche, an der Ría, einen Spaziergang von der Altstadt entfernt. Fünf Minuten entfernt liegt das **Museo de Bellas Artes** (Museum der Schönen Künste), exzellent und deutlich weniger besucht: Wenn du Kunst magst, ist es die perfekte Ergänzung. Wir setzen es als ersten Stopp in [Bilbao an einem Tag](/de/guides/bilbao/bilbao-in-einem-tag) ein.
+Das Guggenheim liegt im Ensanche direkt an der Ría, nur einen Spaziergang von der Altstadt (Casco Viejo) entfernt. Fünf Minuten weiter liegt das **Museo de Bellas Artes**, ausgezeichnet und viel weniger besucht: Wenn du Kunst magst, ist es die perfekte Ergänzung. In [Bilbao an einem Tag](/de/guides/bilbao/bilbao-in-einem-tag) haben wir das Guggenheim als erste Station eingeplant.
 
 ## Was wir NICHT empfehlen
 
-1. **Denken, man müsse hineingehen, um es zu genießen.** Das Äußere und die Skulpturen sind kostenlos und spektakulär.
-2. **Das Ticket in der Hochsaison an der Kasse kaufen.** Unnötige Warteschlange; online buchen.
-3. **Versuchen, „alles zu sehen“ in Eile.** Konzentrier dich auf Serra, das Atrium und die Wechselausstellung, die dich interessiert.
+1. **Glauben, man müsse hineingehen, um es zu genießen.** Das Äußere und die Skulpturen sind gratis und spektakulär.
+2. **Das Ticket in der Saison an der Kasse kaufen.** Unnötige Warteschlange; buche online.
+3. **In Eile versuchen, „alles zu sehen“.** Konzentriere dich auf Serra, das Atrium und die Wechselausstellung, die dich interessiert.
 4. **An einem Montag hingehen**, ohne den Kalender zu prüfen (meist geschlossen).
 
 ## Typische Fehler
 
 > **⚠️ Hinweis:** die Fehler, die wir am häufigsten sehen.
 
-1. **Die Wechselausstellung nicht prüfen.** Sie kann das Beste am Besuch sein oder dich nicht interessieren; informier dich vorher.
-2. **Das Museum der Schönen Künste aus Zeitmangel auslassen.** Es liegt direkt nebenan und lohnt sich sehr.
-3. **Vergessen, dass Minderjährige kostenlos eintreten.** Kauf in der Familie keine unnötigen Tickets.
+1. **Sich die Wechselausstellung nicht vorher ansehen.** Sie kann das Beste am Besuch sein oder dich gar nicht interessieren; informiere dich vorher.
+2. **Das Bellas Artes aus Zeitmangel auslassen.** Es liegt gleich nebenan und lohnt sich sehr.
+3. **Vergessen, dass Minderjährige gratis hineinkommen.** Bezahle als Familie keine unnötigen Tickets.
 
 ## In einem Satz
 
-Das Guggenheim genießt man draußen kostenlos – Puppy, Maman und das Titan bei Sonnenuntergang – und drinnen mit Auswahl, wobei Serras „The Matter of Time“ das große Muss ist. Es ist das Herzstück jedes Besuchs in [Bilbao](/de/guides/bilbao/bilbao-in-einem-tag).
+Das Guggenheim genießt du draußen gratis – Puppy, Maman und das Titan im Abendlicht – und drinnen mit klaren Prioritäten, mit Serras „Die Materie der Zeit“ als Höhepunkt. Es ist das Herz jedes Besuchs in [Bilbao](/de/guides/bilbao/bilbao-in-einem-tag).

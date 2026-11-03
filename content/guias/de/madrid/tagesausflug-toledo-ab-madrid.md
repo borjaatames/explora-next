@@ -13,7 +13,6 @@ imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
 imagen_alt: "Alcázar von Toledo über der Altstadt"
 tiempo_lectura: 11
 keywords:
-  - 'toledo sehenswürdigkeiten'
   - 'toledo an einem tag'
   - 'tagesausflug toledo'
   - 'toledo ab madrid'
@@ -42,7 +41,7 @@ actividades:
 
 70 km von Madrid entfernt liegt eine unversehrte mittelalterliche Stadt. Keine Nachbildung, kein Freizeitpark, keine Postkarte: Es ist **Toledo**, die einzige europäische Stadt, in der Juden, Muslime und Christen jahrhundertelang zusammenlebten und jeweils ihre Spuren im Stein hinterließen. Und man kann alles an einem Tag sehen.
 
-Dieser Ratgeber richtet sich an alle, die einen freien Tag ab Madrid haben und ihn gut nutzen wollen. Es ist keine endlose Liste von Sehenswürdigkeiten: Es ist die Route mit Anspruch, die ich einem Freund empfehlen würde, mit dem, was sich wirklich lohnt, was man auslassen kann, und den typischen Fehlern derjenigen, die überstürzt nach Toledo kommen.
+Dieser Ratgeber richtet sich an alle, die einen freien Tag ab Madrid haben und ihn gut nutzen wollen. Es ist keine endlose Liste von Sehenswürdigkeiten: Es ist die Route mit Anspruch, die ich einem Freund empfehlen würde, mit dem, was sich wirklich lohnt, was man auslassen kann, und den typischen Fehlern derjenigen, die überstürzt nach Toledo kommen. Die vollständige Liste der Toledo Sehenswürdigkeiten mit Preisen und Öffnungszeiten findest du in [Toledo Sehenswürdigkeiten](/de/guides/madrid/toledo-sehenswuerdigkeiten).
 
 ## Warum Toledo der beste Ausflug ab Madrid ist
 
@@ -80,7 +79,7 @@ Empfohlen, wenn du im Zentrum Madrids wohnst und Zeit sparen willst.
 
 **Genau 1 Stunde** über die A-42 (die direkteste) oder die AP-41 (mautpflichtig). Beide erreichen Toledo in ähnlicher Zeit. Die Vorteile: Du kannst am **Mirador del Valle** halten (der beste Blick auf die Stadt, praktisch unmöglich ohne Auto) und aufbrechen, wann du willst. Die Nachteile: Parken in der Altstadt ist **unmöglich und verboten**. Du musst außerhalb parken und hinaufgehen.
 
-Wichtige Parkplätze: **Safont** (kostenlos, wenn du dich als Besucher mit Mindestkonsum in teilnehmenden Geschäften ausweist, sonst 1 €/Stunde; direkt bei den Rolltreppen, die zur Altstadt hochführen), **Cardenal** (bei der Puerta de Bisagra) und der Parkplatz am **Bahnhof** (wenn du Auto und Gehen kombinierst).
+Wichtige Parkplätze: **Safont** (0,40 € pro Stunde für Besucher ohne Wohnsitz in Toledo, laut Stadtverwaltung der günstigste Tarif der Parkzonen; direkt bei den Rolltreppen, die zur Altstadt hochführen), **Cardenal** (bei der Puerta de Bisagra) und der Parkplatz am **Bahnhof** (wenn du Auto und Gehen kombinierst).
 
 > **⚠️ Hinweis:** Versuch nicht, mit dem Auto in die Altstadt zu fahren. Die Straßen sind mittelalterlich, es gibt eine Zufahrtskontrolle per Kennzeichen, und das Bußgeld ist erheblich. Parke unten und geh mit der Rolltreppe oder zu Fuß hinauf.
 

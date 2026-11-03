@@ -25,6 +25,8 @@ type GuiaReferencia = {
   titulo: string;
   keywords?: string[];
   actividades?: string[];
+  /** Otras ciudades cuyas fichas puede citar la guía (guías multi-ciudad). */
+  ciudadesFichas?: string[];
 };
 
 function puntosAfinidad(
@@ -52,7 +54,12 @@ export function obtenerActividadesParaGuia(
   guia: GuiaReferencia,
   limite: number = 6
 ): ActividadListItem[] {
-  const actividades = obtenerListaActividadesPorCiudad(idioma, ciudad);
+  const actividades = [
+    ...obtenerListaActividadesPorCiudad(idioma, ciudad),
+    ...(guia.ciudadesFichas ?? [])
+      .filter((c) => c !== ciudad)
+      .flatMap((c) => obtenerListaActividadesPorCiudad(idioma, c)),
+  ];
   if (actividades.length === 0) return [];
 
   if (guia.actividades && guia.actividades.length > 0) {

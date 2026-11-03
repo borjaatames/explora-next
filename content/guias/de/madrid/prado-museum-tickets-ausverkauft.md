@@ -1,7 +1,7 @@
 ---
-titulo: 'Prado Museum Tickets: Preis, Gratisstunden und was tun, wenn ausverkauft'
+titulo: 'Prado Museum Tickets: Preis, Kasse und was tun, wenn ausverkauft'
 descripcion: 'Prado Museum Tickets: 15 € online oder an der Kasse, gratis Mo-Sa 18-20 Uhr und So 17-19 Uhr. Was tun, wenn dein Zeitfenster voll oder die Schlange zu lang ist.'
-metaTitle: 'Prado Museum Tickets: Preis und Gratiszeiten'
+metaTitle: 'Prado Museum Tickets: Preis und Tipps'
 categoria: madrid
 slug: prado-museum-tickets-ausverkauft
 fecha: '2026-10-27'
@@ -17,7 +17,7 @@ keywords:
   - 'prado museum tickets'
   - 'prado museum eintritt'
   - 'prado museum preis'
-  - 'prado museum kostenlos'
+  - 'prado museum öffnungszeiten'
   - 'prado tickets ausverkauft'
   - 'prado museum schlange'
   - 'prado madrid tickets'
@@ -80,6 +80,8 @@ Verlass dich nicht darauf, dass kurzfristig noch Plätze frei werden: Wenn dich 
 Die Kassen liegen neben der **Puerta de Goya** an der Nordseite des Gebäudes und verkaufen zum gleichen Preis wie die Website. Wenn du dein Ticket schon auf dem Handy hast, gehst du durch die **Puerta de los Jerónimos** hinein, ohne an der Kasse vorbeizumüssen. In der Hochsaison wird die Schlange am späten Vormittag lang: Komm zur Öffnung oder am frühen Nachmittag.
 
 ## 3. Freier Eintritt und El Prado de noche
+
+Wenn du nur gratis reinwillst: Unter [Prado kostenlos](/de/guides/madrid/prado-museum-kostenlos) findest du die Gratiszeiten, wer immer gratis reinkommt, wann du dich anstellen solltest und was du in den zwei Stunden siehst.
 
 Die Dauerausstellung ist **in den letzten zwei Stunden jedes Tages kostenlos**: Montag bis Samstag von **18:00 bis 20:00 Uhr**, sonntags und feiertags von **17:00 bis 19:00 Uhr**. Sonderausstellungen sind in dieser Zeit nicht gratis, kosten aber nur die Hälfte. Der Einlass endet **eine halbe Stunde vor Schließung**, praktisch hast du also anderthalb Stunden.
 

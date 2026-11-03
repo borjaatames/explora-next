@@ -1,22 +1,24 @@
 ---
-titulo: "Ausflüge ab Girona: Costa Brava, Cadaqués und Figueres (Dalí)"
-descripcion: "Die besten Ausflüge ab Girona: Figueres mit dem Dalí-Theatermuseum, Cadaqués, Besalú, Tossa de Mar und die Buchten der Costa Brava. Anreise und Sehenswürdigkeiten."
+titulo: "Costa Brava Ausflüge ab Girona: Cadaqués, Figueres (Dalí) und Buchten"
+descripcion: "Costa Brava Ausflüge ab Girona: Dalí-Museum in Figueres (15 Min. Zug), Cadaqués, Besalú, Tossa de Mar und die Buchten von Begur. Anreise, Preise ab 18,50 €."
+metaTitle: "Costa Brava Ausflüge ab Girona"
 categoria: "girona"
 slug: "costa-brava-ausfluege-ab-girona"
 fecha: "2026-05-12"
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
 tiempo_lectura: 11
 keywords:
+  - "costa brava ausflüge"
   - "ausflüge ab girona"
-  - "costa brava"
   - "cadaqués"
-  - "dalí theatermuseum figueres"
+  - "dalí museum figueres"
   - "besalú"
-  - "tagesausflüge girona"
+  - "costa brava schönste buchten"
+  - "tossa de mar"
 faq:
   - pregunta: "Wie komme ich ohne Auto von Girona nach Figueres und zum Dalí-Theatermuseum?"
     respuesta: "Mit dem Zug: Figueres liegt 15 Minuten (Schnellzug) bzw. 30–35 Minuten (Regionalzug) von Girona entfernt und ist der einzige Ausflug, der mit öffentlichen Verkehrsmitteln gut klappt. Die Führung durch das Dalí-Theatermuseum kostet ab 31 €, dauert 1 Stunde und enthält den Eintritt ohne Anstehen an der Kasse; für das ganze Museum solltest du 2 Stunden einplanen. In der Saison sind die Zeitfenster-Tickets schnell weg, also reservier ein paar Tage vorher."
@@ -36,7 +38,7 @@ slugs:
   it: gite-costa-brava-da-girona
   pt: escapadinhas-costa-brava-a-partir-de-girona
 reservasArriba: true
-respuestaCorta: 'Von Girona aus erreichst du das **Dalí-Theatermuseum in Figueres** in 15 Minuten mit dem Schnellzug, **Besalú** in 45 Minuten mit dem Auto und **Cadaqués** in 1 h 15. Ohne Auto ist es am bequemsten, mit dem Zug nach Figueres zu fahren und die Führung durch das Dalí-Theatermuseum zu machen (ab 31 €), oder eine Bootstour wie Roses–Cadaqués um das Cap de Creus (ab 27 €).'
+respuestaCorta: 'Von Girona aus erreichst du das **Dalí-Theatermuseum in Figueres** in 15 Minuten mit dem AVE (30–35 mit dem Regionalzug), **Besalú** in 45 Minuten mit dem Auto und **Cadaqués** in 1 Std. 15 Min. Ohne Auto ist es am bequemsten, mit dem Zug nach Figueres zu fahren und die Führung durch das Dalí-Theatermuseum zu machen (ab 31 €), oder einen Ausflug per Boot zu wählen, etwa Roses–Cadaqués um das Cap de Creus (ab 27 €).'
 actividades:
   - costa-brava-kayak-esnorquel-cuevas-sagaro
   - roses-cadaques-barco-cap-de-creus
@@ -49,56 +51,56 @@ imagen_portada: "/images/guias/escapadas-costa-brava-desde-girona.jpg"
 imagen_alt: "Die Vila Vella von Tossa de Mar über dem Strand"
 ---
 
-**Girona ist die beste Basis, um den Nordosten Kataloniens zu entdecken.** In weniger als einer Stunde erreichst du die schönsten Buchten der Costa Brava, das Universum Dalís in Figueres und Cadaqués, mittelalterliche Dörfer wie aus dem Bilderbuch und griechisch-römische Ruinen. Dieser Guide ordnet die besten Ausflüge danach, wie viel Zeit du hast und wie du hinkommst, mit dem Zug oder dem Auto.
+**Girona ist der beste Ausgangspunkt für die Costa Brava.** In weniger als einer Stunde erreichst du Dalís Figueres und Cadaqués, mittelalterliche Dörfer wie Besalú und die schönsten Buchten der ganzen Küste. Hier findest du die organisierten Touren und die Ziele, die du auf eigene Faust machen kannst.
 
-Die Region gliedert sich in drei Welten: das **Dalí-Dreieck** (Figueres-Cadaqués-Portlligat), die **mittelalterlichen Dörfer** im Landesinneren und die **Buchten** an der Küste. Wähle je nach Tag.
+## Ausflüge mit allem organisiert
 
-## Die besten Ausflüge
+| Plan | Aktivität | Ab |
+| --- | --- | --- |
+| Buchten und Höhlen im Kajak | [Kajak und Schnorcheln in S'Agaró](/en/cities/girona/activities/costa-brava-kayak-snorkel-sea-caves-sagaro), 4,7★ (1.393) | 34 € |
+| Cadaqués über das Meer | [Boot von Roses nach Cadaqués um das Cap de Creus](/de/cities/girona/activities/roses-cadaques-bootsausflug-cap-de-creus), 4,5★ (414) | 27 € |
+| Medes-Inseln | [Boot zu den Medes-Inseln ab L'Estartit](/en/cities/girona/activities/medes-islands-boat-trip-caves-estartit), 4,6★ (634) | 24 € |
+| Dalí-Museum mit Guide | [Führung durch das Dalí-Theatermuseum](/en/cities/girona/activities/dali-theatre-museum-figueres-guided-tour), 4,7★ (105) | 31 € |
+| Wenn du in Barcelona übernachtest | [Girona, Figueres, Dalí und Cadaqués an einem Tag](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4,7★ (2.352) | 40 € |
+| Ab Barcelona, kleine Gruppe | [Girona, Pals und Calella de Palafrugell in kleiner Gruppe](/en/cities/girona/activities/girona-costa-brava-small-group-hotel-pickup), 4,8★ (2.096) | 98,5 € |
+| Tossa de Mar ab Barcelona | [Tossa de Mar und die Costa Brava an einem Tag](/en/cities/girona/activities/tossa-de-mar-costa-brava-day-trip-from-barcelona), 4,9★ (596) | 39 € |
 
-| Ziel | Entfernung | Ideal für |
+Die letzten beiden starten in Barcelona, nicht in Girona. Wenn du in Girona übernachtest, passen für dich das Kajak, die Boote und die Führung im Dalí-Museum.
+
+## Ausflüge auf eigene Faust
+
+| Ziel | Ab Girona | Ideal für |
 | --- | --- | --- |
 | Figueres | 40 Min. (Zug) | Das Dalí-Theatermuseum |
 | Cadaqués und Cap de Creus | 1 Std. 15 Min. (Auto) | Weißes Dorf und Dalís Haus |
 | Besalú | 45 Min. (Auto) | Mittelalterliches Dorf und romanische Brücke |
-| Calella de Palafrugell / Begur | 50 Min. (Auto) | Buchten und Fischerortskern |
+| Calella de Palafrugell / Begur | 50 Min. (Auto) | Buchten und Fischerort |
 | Tossa de Mar | 1 Std. (Auto) | Ummauerte Altstadt direkt am Meer |
 | Empúries (L'Escala) | 50 Min. (Auto) | Griechische und römische Ruinen |
 
-## Das Dalí-Dreieck
+- **Dalí:** Das Theatermuseum in Figueres, Cadaqués und das Haus in Portlligat ergänzen sich gegenseitig.
+- **Mittelalterliche Dörfer:** Besalú, Pals und Peratallada.
+- **Buchten:** Calella de Palafrugell, Llafranc, Tamariu und die Buchten von Begur (Sa Riera, Aiguablava).
 
-**Figueres** beherbergt das **Dalí-Theatermuseum**, das nach dem Prado meistbesuchte Museum Spaniens und ein vom Maler selbst entworfenes Gesamtkunstwerk (15 Minuten mit dem Schnellzug). Eine weitere Stunde entfernt liegt **Cadaqués**, das schönste weiße Dorf des Cap de Creus, sowie **Portlligat** mit dem **Haus-Museum von Dalí**. Wilde Natur erwartet dich am **Cap de Creus**, dem östlichsten Punkt der Halbinsel.
+## Was du vor der Abfahrt wissen solltest
 
-## Die mittelalterlichen Dörfer
+- **Das Dalí-Theatermuseum in Figueres** kostet ab 18,50 € (2026; gratis bis 8 Jahre), mit Tickets für Zeitfenster, die **in der Saison ausverkauft sind**: Reservier sie in der Woche davor auf der offiziellen Website. Plane 2 Stunden ein; das Lincoln-Bild und der Mae-West-Saal sind das, was alle sehen wollen. Das Museum liegt 15 Minuten zu Fuß vom Bahnhof.
+- **Dalís Haus in Portlligat** (Cadaqués) kannst du nur mit Reservierung besuchen, in kleinen Gruppen alle 10 Minuten. Ohne Reservierung kommst du nicht einmal in der Nebensaison hinein.
+- **Cadaqués im Sommer:** Die einzige Zufahrt ist eine kurvige Straße, und das Zentrum ist für den Verkehr gesperrt. Komm vor 10:00 Uhr oder lass das Auto auf dem Parkplatz am Ortseingang und geh zu Fuß.
+- **Die Buchten von Begur und Palafrugell** haben kleine Parkplätze, die im Juli und August um 10:30 Uhr voll sind. Entweder kommst du um 9:00 Uhr, nimmst die Shuttlebusse, die Begur im Sommer einsetzt, oder fährst am späten Nachmittag hin, wenn das Licht am schönsten ist.
+- **Empúries:** 7 € (gratis am ersten Sonntag im Monat, außer im Juli, August und September, und für Kinder unter 16 Jahren). Nimm Badesachen mit: Der Strand liegt direkt neben den Ruinen.
+- **Besalú:** Brücke und Viertel sind gratis; das Mikwe (mittelalterliches jüdisches Ritualbad) siehst du nur mit der Führung des Tourismusbüros, die du am besten reservierst.
 
-**Besalú** mit seiner befestigten romanischen Brücke und seinem jüdischen Viertel gehört zu den am besten erhaltenen mittelalterlichen Dörfern Kataloniens. Nur einen Katzensprung entfernt liegen **Pals** und **Peratallada**, aus goldenem Stein mit bezaubernden Gassen.
+## So bewegst du dich fort
 
-## Die Buchten der Costa Brava
+Figueres erreichst du mit dem Zug. Für Cadaqués, die Dörfer und die Buchten brauchst du ein Auto oder einen organisierten Ausflug: Der öffentliche Verkehr kommt dort nur schlecht hin.
 
-**Calella de Palafrugell**, **Llafranc** und **Tamariu** sind drei malerische Fischerbuchten; **Begur** krönt die Region mit Buchten wie Sa Riera und Aiguablava. **Tossa de Mar** ergänzt seinen Strand mit einer mittelalterlichen **Stadtmauer** über dem Meer.
+## Fehler, die du vermeiden solltest
 
-## Empúries
+1. **Das Dalí-Museum und das Haus in Portlligat nicht reservieren:** Beide sind in der Saison ausgebucht, und das zweite lässt niemanden ohne Termin hinein.
+2. **Zwei weit entfernte Ausflüge am selben Tag einplanen:** Cadaqués oder die Buchten füllen schon einen ganzen Tag; Figueres und Besalú lassen sich dagegen gut kombinieren.
+3. **Im August mittags zu den Buchten fahren:** Es gibt keine Parkplätze; fahr früh oder spät.
+4. **Sich an der Küste auf den öffentlichen Verkehr verlassen:** Nach Figueres fährt der Zug, aber nach Cadaqués, Begur oder Besalú kommst du mit dem Auto oder mit einem organisierten Ausflug.
+5. **Mit Kindern, denen schnell übel wird, nach Cadaqués fahren:** Ab Roses sind es 20 Minuten Kurven. Das Boot ab Roses umgeht die Straße und fährt am Cap de Creus vorbei.
 
-In L'Escala vereinen die Ruinen von **Empúries** eine **griechische und römische** Stadt direkt am Meer: eine der bedeutendsten archäologischen Stätten der Halbinsel, inklusive Bademöglichkeit gleich nebenan.
-
-## Wie du dich fortbewegst
-
-**Figueres** und ein Teil der Küste lassen sich mit dem **Zug** erreichen; für **Cadaqués**, die **mittelalterlichen Dörfer** und die **Buchten** gibt dir das **Auto** deutlich mehr Freiheit (der öffentliche Verkehr erreicht das Cap de Creus und die Buchtenküste nur schlecht).
-
-## Was wir NICHT empfehlen
-
-1. **Zwei weit entfernte Ausflüge am selben Tag machen.** Cadaqués oder die Buchten füllen jeweils einen ganzen Tag.
-2. **Im August mittags zu den kleinen Buchten fahren.** Kaum Parkplätze; fahr früh los.
-3. **Mit Zeitdruck nach Cadaqués fahren.** Die Bergstraße ist langsam und schön; nimm sie dir in Ruhe vor.
-4. **Empúries auslassen, wenn dich Geschichte interessiert.** Wird unterschätzt.
-
-## Typische Fehler
-
-> **⚠️ Hinweis:** die Fehler, die wir am häufigsten sehen.
-
-1. **Das Dalí-Theatermuseum nicht reservieren** in der Saison: es ist schnell ausgebucht.
-2. **Figueres ohne Cadaqués/Portlligat besuchen**, wenn dich Dalí interessiert: beide ergänzen sich.
-3. **Die Straße zum Cap de Creus unterschätzen.** Kurven und im Sommer schwierige Parkplatzsuche.
-
-## In einem Satz
-
-Von Girona aus erreichst du in weniger als einer Stunde das Dalí-Universum von Figueres und Cadaqués, mittelalterliche Dörfer wie Besalú und die Buchten der Costa Brava: drei verschiedene Welten in Ausflugsreichweite. Eine gute Ergänzung ist [Girona an einem Tag](/de/guides/girona/girona-in-einem-tag).
+Für die Stadt selbst lies [Girona an einem Tag](/de/guides/girona/girona-in-einem-tag).

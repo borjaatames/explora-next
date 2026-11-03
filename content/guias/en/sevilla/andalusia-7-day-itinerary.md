@@ -124,7 +124,7 @@ Book trains on Renfe's website as soon as your dates are fixed: cheap fares disa
 
 ## Day 6: Granada → Málaga
 
-A slow morning in Granada (the Realejo or the Cartuja monastery, €7) and the **direct Avant to Málaga** after lunch: 1 h 18. **Afternoon:** the **Alcazaba and Gibralfaro** (€5.50 combined), the Roman Theatre from outside and the Cathedral (€10 with audio guide). **Evening:** sardine espetos on the Malagueta or in Pedregalejo.
+A slow morning in Granada (the Realejo or the Cartuja monastery, €7) and the **direct Avant to Málaga** after lunch: 1 h 18. **Afternoon:** the **Alcazaba and Gibralfaro** (€10 combined), the Roman Theatre from outside and the Cathedral (€10 with audio guide). **Evening:** sardine espetos on the Malagueta or in Pedregalejo.
 
 **Where to stay in Málaga:** the **historic centre** or **Soho**, 15 minutes' walk from María Zambrano station. The Malagueta if you want the beach on your doorstep.
 

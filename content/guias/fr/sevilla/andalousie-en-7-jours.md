@@ -124,7 +124,7 @@ Achetez les trains sur le site de la Renfe dès que vous avez vos dates : les pe
 
 ## Jour 6: Grenade → Malaga
 
-Matinée tranquille à Grenade (le Realejo ou le monastère de la Cartuja, 7 €) et **Avant direct pour Malaga** après le déjeuner : 1 h 18. **Après-midi :** **Alcazaba et Gibralfaro** (5,50 € le billet combiné), le théâtre romain depuis l'extérieur et la cathédrale (10 € avec audioguide). **Soirée :** espetos de sardines à la Malagueta ou à Pedregalejo.
+Matinée tranquille à Grenade (le Realejo ou le monastère de la Cartuja, 7 €) et **Avant direct pour Malaga** après le déjeuner : 1 h 18. **Après-midi :** **Alcazaba et Gibralfaro** (10 € le billet combiné), le théâtre romain depuis l'extérieur et la cathédrale (10 € avec audioguide). **Soirée :** espetos de sardines à la Malagueta ou à Pedregalejo.
 
 **Où dormir à Malaga :** le **centre historique** ou le **Soho**, à 15 minutes à pied de la gare María Zambrano. La Malagueta si vous voulez la plage devant la porte.
 
