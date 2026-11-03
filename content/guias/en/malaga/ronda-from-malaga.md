@@ -1,11 +1,11 @@
 ---
 titulo: "Ronda from Málaga: by car, bus, group tour or private trip"
 descripcion: "How to get from Málaga to Ronda for a day: car, bus, train, group or private tour. Times, prices, what to see in Ronda and how to combine it with Setenil."
-respuestaCorta: 'Ronda is **about 100 km from Málaga, 1 h 45 by car**. By **bus** it takes about 2 hours and there''s no direct train. The simplest way without a car is a **group tour** (from €44, with Setenil de las Bodegas); **privately**, from €580 for 2 people or €720 for 4. One day is enough for the gorge, the Puente Nuevo and the old town.'
+respuestaCorta: 'Ronda is **about 100 km from Málaga, 1 h 45 by car**. By **bus** it takes about 2 hours and there''s no direct train. The simplest way without a car is a **group tour** (from €34, with Setenil de las Bodegas); **privately**, from €580 for 2 people or €720 for 4. One day is enough for the gorge, the Puente Nuevo and the old town.'
 categoria: "malaga"
 slug: "ronda-from-malaga"
 fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -34,7 +34,7 @@ faq:
   - pregunta: "Is Ronda worth a day trip from Málaga?"
     respuesta: "Yes. The gorge and the Puente Nuevo take half a day, and with the rest you can explore the old town or add Setenil de las Bodegas."
   - pregunta: "Group or private tour?"
-    respuesta: "For 1 or 2 people, the group tour (from €44). For 4 or more, the private trip works out at about €180 per person with pickup from your accommodation and your own timing."
+    respuesta: "For 1 or 2 people, the group tour (from €34). For 4 or more, the private trip works out at about €180 per person with pickup from your accommodation and your own timing."
   - pregunta: "Can I visit Ronda with children?"
     respuesta: "Yes, although the gorge viewpoints are very high and the old-town streets are steep: a baby carrier works better than a pushchair."
 ---
@@ -60,7 +60,7 @@ There's no direct train: you have to change, and it takes longer than the bus.
 - **The Arab Baths**, next to the Puente Viejo.
 - If you have time, **Setenil de las Bodegas**, the village of houses under the rock, 20 minutes away.
 
-If you go on your own and want someone to tell you the story, the [2-hour private walking tour of Ronda](/en/cities/malaga/activities/ronda-private-walking-tour-puente-nuevo) costs €200 for 2 people or €260 for 4.
+If you go on your own and want someone to tell you the story, the [2-hour private walking tour of Ronda](/en/cities/malaga/activities/ronda-private-walking-tour-puente-nuevo) costs €200 for 2 people or €260 for 4. The full route, stop by stop, is in [Ronda in one day](/en/guides/malaga/ronda-in-one-day).
 
 ## The private trip from Málaga, in detail
 

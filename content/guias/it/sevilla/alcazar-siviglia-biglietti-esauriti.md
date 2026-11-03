@@ -1,10 +1,11 @@
 ---
-titulo: 'Biglietti dell''Alcázar di Siviglia esauriti: cosa fare e quali opzioni restano'
-descripcion: 'Se il sito ufficiale del Real Alcázar non ha biglietti: la biglietteria del giorno stesso, i lunedì gratis, i biglietti con orario dei rivenditori, le visite guidate con ingresso e cosa vedere senza biglietto.'
+titulo: 'Biglietti Alcázar di Siviglia esauriti: cosa fare e quali opzioni restano'
+descripcion: 'Biglietti Alcázar di Siviglia esauriti? La biglietteria tiene pochi posti del giorno stesso, il lunedì c''è un''ora gratis, poi rivendita e tour.'
+metaTitle: 'Alcázar Siviglia biglietti esauriti: che fare'
 categoria: sevilla
 slug: alcazar-siviglia-biglietti-esauriti
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/alcazar-de-sevilla-entradas-agotadas.jpg
 imagen_alt: Patio de las Doncellas del Real Alcázar di Siviglia, con i suoi archi mudéjar e il giardino ribassato
 tiempo_lectura: 4
 keywords:
-- biglietti alcázar siviglia esauriti
-- alcázar siviglia senza biglietti
-- biglietti alcázar siviglia ultimo minuto
-- alcázar siviglia biglietteria stesso giorno
-- alcázar siviglia esaurito cosa fare
+- biglietti alcazar siviglia esauriti
+- alcazar siviglia senza biglietti
+- biglietti alcazar siviglia ultimo minuto
+- alcazar siviglia biglietteria stesso giorno
+- alcazar siviglia gratis lunedì
+- alcazar siviglia esaurito cosa fare
 slugs:
   es: alcazar-de-sevilla-entradas-agotadas
   en: alcazar-of-seville-tickets-sold-out

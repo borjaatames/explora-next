@@ -1,11 +1,11 @@
 ---
-titulo: 'Alhambra night visit sold out: times, prices and the options left'
-descripcion: 'Alhambra night visit sold out? Days and times for the Nasrid Palaces and Generalife at night, official prices (€12.73 and €8.48), Granada Card and tours.'
-metaTitle: 'Alhambra night visit sold out: times and options'
+titulo: 'Alhambra at night: night visit tickets, times, prices and if sold out'
+descripcion: 'Alhambra night visit: Nasrid Palaces €12.73, Generalife €8.48. Fridays and Saturdays in winter, Tuesday to Saturday in summer, and what to do if it is sold out.'
+metaTitle: 'Alhambra at night: tickets, times, prices'
 categoria: granada
 slug: alhambra-night-visit-tickets-sold-out
 fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha_actualizacion: '2026-11-03'
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true
@@ -14,12 +14,13 @@ imagen_portada: /images/actividades/granada/mirador-san-nicolas/mirador-san-nico
 imagen_alt: The Alhambra at dusk seen from the Mirador de San Nicolás, with the Palace of Charles V and Sierra Nevada behind
 tiempo_lectura: 5
 keywords:
-- alhambra night visit sold out
-- alhambra night tour tickets
-- alhambra at night opening times
-- nasrid palaces night visit price
-- generalife night visit
-- alhambra experiences ticket
+  - 'alhambra at night'
+  - 'alhambra night visit'
+  - 'alhambra night tour'
+  - 'alhambra night tickets'
+  - 'nasrid palaces night visit'
+  - 'generalife night visit'
+  - 'alhambra night visit sold out'
 slugs:
   es: alhambra-nocturna-entradas-agotadas
   en: alhambra-night-visit-tickets-sold-out

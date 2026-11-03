@@ -1,21 +1,23 @@
 ---
-titulo: "Mezquita-Catedral de Córdoba: cómo visitarla (entradas y consejos)"
-descripcion: "Guía para visitar la Mezquita-Catedral de Córdoba: entradas y horario gratis, qué ver (bosque de columnas, mihrab, Patio de los Naranjos), torre y mejores trucos."
+titulo: 'Mezquita de Córdoba: entradas, horario gratis y visita guiada'
+descripcion: 'Entradas Mezquita de Córdoba: 15 € y gratis de lunes a sábado de 8:30 a 9:30. Horario, torre campanario (4 €), visita guiada desde 32 € y qué ver dentro.'
+metaTitle: 'Mezquita de Córdoba: entradas y visita guiada'
 respuestaCorta: 'La Mezquita-Catedral cuesta **15 €** (gratis menores de 10) y es **gratis de lunes a sábado de 8:30 a 9:30**, solo para visitantes individuales. Ve a primera hora, calcula **1-1 h 30** y lleva los hombros cubiertos; los domingos el culto la cierra de 11:30 a 15:00. El **tour guiado sin colas con campanario** cuesta desde 32 €.'
 categoria: "cordoba"
 slug: "mezquita-catedral-como-visitar"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 3
 keywords:
-  - "mezquita de córdoba"
-  - "mezquita catedral entradas"
-  - "cómo visitar la mezquita de córdoba"
-  - "mihrab córdoba"
-  - "patio de los naranjos"
+  - 'mezquita de córdoba'
+  - 'entradas mezquita córdoba'
+  - 'visita guiada mezquita córdoba'
+  - 'precio entrada mezquita córdoba'
+  - 'mezquita córdoba horario'
+  - 'mezquita córdoba gratis'
 slugs:
   es: mezquita-catedral-como-visitar
   en: mosque-cathedral-how-to-visit

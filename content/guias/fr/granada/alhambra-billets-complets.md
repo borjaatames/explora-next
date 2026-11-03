@@ -1,10 +1,11 @@
 ---
-titulo: 'Billets pour l''Alhambra complets : que faire et les options qui restent'
-descripcion: 'Si le site officiel de l''Alhambra n''a plus de billets : remises en vente de dernière minute, la Granada Card, la visite nocturne, les visites guidées avec entrée et que voir sans billet.'
+titulo: 'Billets Alhambra complets : que faire et les options qui restent'
+descripcion: 'Billets Alhambra complets ? Dernière minute la veille entre 20 h et 22 h, Granada Card, visite nocturne et visites guidées avec entrée incluse.'
+metaTitle: 'Billets Alhambra complets : que faire'
 categoria: granada
 slug: alhambra-billets-complets
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/alhambra-entradas-agotadas.jpg
 imagen_alt: Cour des Lions dans les palais nasrides de l'Alhambra
 tiempo_lectura: 4
 keywords:
-- billets alhambra complets
-- alhambra plus de billets
-- billets alhambra derniere minute
-- alhambra complet que faire
-- granada card alhambra
+  - 'billets alhambra complets'
+  - 'alhambra complet'
+  - 'billets alhambra épuisés'
+  - 'billet alhambra dernière minute'
+  - 'granada card alhambra'
+  - 'alhambra sans billet'
 slugs:
   es: alhambra-entradas-agotadas
   en: alhambra-tickets-sold-out

@@ -4,7 +4,7 @@ descripcion: "4 giorni con base a Madrid: 2 in città (Palazzo Reale, Prado, Ret
 categoria: "madrid"
 slug: "madrid-toledo-segovia-in-4-giorni"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -94,7 +94,7 @@ Quattro giorni con un'unica base a Madrid sono il modo più semplice per vedere 
 
 ## Giorno 3: Toledo
 
-**8:30-9:30 — Avant da Atocha** (33 minuti; partenze ogni ora dalle 6:50). La stazione di Toledo è a 20 minuti di salita a piedi dal centro storico: prendi il bus 5 o un taxi (6-8 €). Niente treno? Il pullman Alsa da Plaza Elíptica impiega 1 ora (circa 11 € andata e ritorno).
+**8:30-9:30 — Avant da Atocha** (33 minuti; partenze ogni ora dalle 6:50). La stazione di Toledo è a 20 minuti di salita a piedi dal centro storico: prendi il bus 5 o un taxi (6-8 €); orari e prezzi del treno in [treno Madrid–Toledo](/it/guides/madrid/treno-madrid-toledo). Niente treno? Il pullman Alsa da Plaza Elíptica impiega 1 ora (circa 11 € andata e ritorno).
 
 **10:00 — Cattedrale Primaziale** (12 €, 1 h 30; da lunedì a sabato dalle 10:00 alle 18:30, ultimo ingresso alle 18:00): l'ostensorio di Arfe, il Transparente e la sacrestia piena di El Greco. Poi **Santo Tomé** (*La sepoltura del conte di Orgaz*, 30 minuti) e **Santa María la Blanca**. Il **braccialetto turistico** (14 €) copre sette monumenti che costano 4 € l'uno e conviene dal quarto in poi:
 
@@ -122,7 +122,7 @@ Se preferisci avere tutto organizzato, l'escursione di un giorno intero include 
 
 **14:30 — Maialino arrosto (cochinillo)**, il motivo per cui tanti madrileni continuano a tornare. Prenota nel fine settimana.
 
-**Pomeriggio:** riscendi con calma verso l'acquedotto passando per il quartiere dei Caballeros o l'antico quartiere ebraico e torna a Madrid senza fretta. Segovia si trova a circa 1.000 metri: porta un cappotto da ottobre ad aprile.
+**Pomeriggio:** riscendi con calma verso l'acquedotto passando per il quartiere dei Caballeros o l'antico quartiere ebraico e torna a Madrid senza fretta. Segovia si trova a circa 1.000 metri: porta un cappotto da ottobre ad aprile. Più tappe e tempi di visita in [cosa vedere a Segovia in un giorno](/it/guides/madrid/cosa-vedere-a-segovia-in-un-giorno).
 
 Per non dover pianificare nulla, il tour di Ávila e Segovia con biglietti copre entrambe le città murate e l'Alcázar in un giorno; per qualcosa di diverso, c'è un [volo in mongolfiera su Segovia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) all'alba con colazione e cava (da 205 €).
 

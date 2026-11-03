@@ -1,10 +1,11 @@
 ---
-titulo: "Real Alcázar von Sevilla: wie man ihn richtig besichtigt (ehrlicher Guide 2026)"
-descripcion: "Wie man den Real Alcázar von Sevilla besichtigt: Preise 2026, Öffnungszeiten, was man drinnen sieht, Patio de las Doncellas, Salón de Embajadores, Gärten und typische Fehler."
+titulo: 'Alcázar Sevilla Tickets: Preis, Öffnungszeiten und wie du ihn richtig besichtigst'
+descripcion: 'Alcázar Sevilla Tickets: 15,50 € regulär, ab 9:30 Uhr geöffnet, Besuch 2,5-3 Stunden. In der Hochsaison über 2 Stunden Schlange an der Kasse. Beste Uhrzeit.'
+metaTitle: 'Alcázar Sevilla Tickets: Preis und Tipps 2026'
 categoria: "sevilla"
 slug: "alcazar-von-sevilla-besichtigen"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -13,11 +14,13 @@ imagen_portada: "/images/guias/alcazar-de-sevilla-como-visitar.jpg"
 imagen_alt: "Innenhof des Real Alcázar von Sevilla"
 tiempo_lectura: 11
 keywords:
-  - "real alcázar sevilla"
-  - "alcázar sevilla besichtigen"
-  - "eintritt alcázar sevilla"
-  - "cuarto real alto alcázar"
-  - "gärten alcázar sevilla"
+  - 'alcazar sevilla tickets'
+  - 'real alcázar sevilla'
+  - 'alcázar sevilla eintritt'
+  - 'alcázar sevilla preis'
+  - 'alcázar sevilla öffnungszeiten'
+  - 'alcázar sevilla führung'
+  - 'alcázar sevilla besichtigen'
 slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit

@@ -4,7 +4,7 @@ descripcion: "Madrid in 3 days, with judgment: the Prado, El Escorial, the Valle
 categoria: "madrid"
 slug: "madrid-in-3-days"
 fecha: "2026-02-15"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -121,4 +121,4 @@ Skipping Cuelgamuros? Head back to Madrid for a free afternoon.
 
 ## In one line
 
-Prado, El Escorial and Chamberí: imperial Spain and lived-in Madrid. With children, see [Madrid with kids](/en/guides/madrid/madrid-with-kids); with a spare day, go to [Toledo](/en/guides/madrid/toledo-day-trip-from-madrid).
+Prado, El Escorial and Chamberí: imperial Spain and lived-in Madrid. With children, see [Madrid with kids](/en/guides/madrid/madrid-with-kids); with a spare day, go to [Toledo](/en/guides/madrid/toledo-day-trip-from-madrid), [Segovia](/en/guides/madrid/segovia-day-trip-from-madrid) or [Ávila](/en/guides/madrid/avila-day-trip-from-madrid).

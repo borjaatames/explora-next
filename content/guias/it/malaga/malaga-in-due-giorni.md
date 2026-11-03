@@ -4,7 +4,8 @@ descripcion: "Cosa vedere a Malaga in due giorni: Alcazaba, Cattedrale, Museo Pi
 categoria: "malaga"
 slug: "malaga-in-due-giorni"
 fecha: "2026-02-28"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
+datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -23,7 +24,7 @@ slugs:
   it: malaga-in-due-giorni
   pt: malaga-em-2-dias
 reservasArriba: true
-respuestaCorta: 'Dedica **il primo giorno al centro storico**: Alcazaba e Gibralfaro (10 € combinato), i tetti della Cattedrale, il Museo Picasso e il tramonto con uno spiedo di sardine alla Malagueta. Dedica **il secondo giorno al Caminito del Rey**, che **si esaurisce con settimane di anticipo**, oppure a Nerja, Ronda o Antequera. Un tour guidato al Caminito da Malaga parte da 72 €.'
+respuestaCorta: 'Dedica **il primo giorno al centro storico**: Alcazaba e Gibralfaro (10 € combinato), la Cattedrale, il Museo Picasso e il tramonto con uno spiedo di sardine alla Malagueta. Dedica **il secondo giorno al Caminito del Rey**, che **si esaurisce con settimane di anticipo**, oppure a Nerja, Ronda o Antequera. Un tour guidato al Caminito da Malaga parte da 72 €.'
 actividades:
   - alcazaba-teatro-romano-malaga-visita-guiada
   - museo-picasso-malaga-entrada
@@ -42,7 +43,7 @@ imagen_portada: "/images/guias/malaga-en-dos-dias.jpg"
 imagen_alt: "Veduta di Malaga dall'Alcazaba"
 ---
 
-**Due giorni a Malaga rendono molto.** Il centro storico è compatto, pianeggiante e pedonale, quindi in 48 ore ci stanno l'Alcazaba, il Museo Picasso, la Cattedrale, la spiaggia e, se prenoti in anticipo, il Caminito del Rey. In quindici anni è passata da porta di transito verso la Costa del Sol a città con più di trenta musei.
+**Due giorni a Malaga rendono molto.** Il centro storico è compatto, pianeggiante e pedonale, quindi in 48 ore ci stanno l'Alcazaba, il Museo Picasso, la Cattedrale, la spiaggia e, se prenoti in anticipo, il Caminito del Rey. In quindici anni è passata da porta di transito verso la Costa del Sol a città con più di trenta musei. Se hai un solo giorno, o arrivi in crociera, la versione condensata è in [cosa vedere a Malaga in un giorno](/it/guides/malaga/cosa-vedere-a-malaga-in-un-giorno).
 
 ## Prenota l'essenziale
 
@@ -71,7 +72,7 @@ imagen_alt: "Veduta di Malaga dall'Alcazaba"
 | --- | --- |
 | 9:30 | Alcazaba e Teatro Romano |
 | 11:00 | Castello di Gibralfaro (panorama) |
-| 12:30 | Cattedrale e tetti |
+| 12:30 | Cattedrale |
 | 14:00 | Pranzo: Mercato di Atarazanas, Calle Carretería |
 | 16:30 | Museo Picasso e Plaza de la Merced |
 | 19:30 | Muelle Uno e tramonto alla Malagueta |
@@ -82,7 +83,7 @@ imagen_alt: "Veduta di Malaga dall'Alcazaba"
 
 **11:00 — Castello di Gibralfaro.** Sali lungo le mura, o prendi l'**autobus 35** se fa caldo, fino al castello collegato all'Alcazaba: la miglior vista sul porto, sull'arena e sul mare. Mezz'ora lassù basta; evita la salita senz'ombra a mezzogiorno d'estate.
 
-**12:30 — Cattedrale.** È conosciuta come *La Manquita* ("la monca") perché una delle sue torri non fu mai terminata. Il pezzo forte è la **visita ai tetti**, camminando sulla copertura con vista a 360°.
+**12:30 — Cattedrale.** È conosciuta come *La Manquita* ("la monca") perché una delle sue torri non fu mai terminata. La **visita ai tetti** è sospesa per i lavori al tetto, presumibilmente fino alla fine del 2027. Per la vista a 360°, sali invece al castello o al belvedere di Gibralfaro.
 
 **14:00 — Pranzo.** Pesce fritto e tapas nel **Mercato di Atarazanas**, in stile modernista, o nelle taverne di Calle Carretería. Bevi un bicchiere di **vino dolce di Malaga** in una bodega storica.
 
@@ -105,7 +106,7 @@ imagen_alt: "Veduta di Malaga dall'Alcazaba"
 | Alcazaba + Gibralfaro | 10 € combinato (7 € ciascuno); gratis la domenica dalle 14:00 | 9:00–20:00 in estate, fino alle 18:00 in inverno |
 | Museo Picasso | 13 € con audioguida; gratis per i minori di 17 anni e ogni domenica nelle ultime due ore | 10:00–18:00 (19:00 in primavera e autunno, 20:00 a luglio e agosto) |
 | Casa Natale di Picasso · Pompidou · Carmen Thyssen | 4 € · 9 € (chiuso il martedì) · 10 € (chiuso il lunedì) | |
-| Cattedrale | 10 € con audioguida; tetti 10 € in più con guida; gratis sotto i 13 anni | Chiusa la domenica mattina |
+| Cattedrale | 10 € con audioguida; gratis sotto i 13 anni | Chiusa la domenica mattina |
 | Teatro Romano | Gratis | Chiuso il lunedì |
 | Caminito del Rey | 10 € senza guida, 18 € con guida, solo online; navetta 2,50 € | Treno fino a El Chorro, 45 min |
 | Trasporti | Autobus 1,40 €; treno C-1 per Torremolinos e Fuengirola 3,60 €, ogni 20 min | Mercato di Atarazanas lun–sab 8:00–15:00 |

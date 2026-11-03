@@ -1,11 +1,12 @@
 ---
-titulo: "Toledo da Madrid in 1 giorno: gita nella città delle tre culture"
-descripcion: "Toledo in un giorno da Madrid: cosa visitare con criterio, come arrivare (auto, AVE, autobus), cosa evitare e perché è la gita migliore vicino a Madrid."
+titulo: 'Cosa vedere a Toledo in un giorno: la gita da Madrid nella città delle tre culture'
+descripcion: 'Cosa vedere a Toledo in un giorno da Madrid: Cattedrale (12 €), Santo Tomé, la Judería e il Mirador del Valle. Itinerario con criterio ed errori da evitare.'
+metaTitle: 'Cosa vedere a Toledo in un giorno da Madrid'
 respuestaCorta: 'Prendi l''**Avant da Atocha (33 minuti, 22-26 € andata e ritorno)** o guida un''ora per la A-42, e arriva alle 10:00. Dedica la mattina alla **Cattedrale (12 €)**, a Santo Tomé e a Santa María la Blanca, il pomeriggio alla Judería e chiudi al **Mirador del Valle**. Il **braccialetto turistico da 14 €** copre sette monumenti minori.'
 categoria: "madrid"
 slug: "toledo-da-madrid-in-un-giorno"
 fecha: "2026-04-02"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
 imagen_alt: "L'Alcázar di Toledo sopra il centro storico"
 tiempo_lectura: 4
 keywords:
-  - "gite da madrid"
-  - "toledo in un giorno"
-  - "toledo da madrid"
-  - "cosa vedere a toledo in un giorno"
-  - "come andare a toledo da madrid"
+- cosa vedere a toledo
+- cosa vedere a toledo in un giorno
+- toledo in un giorno
+- gita a toledo da madrid
+- escursione a toledo da madrid
+- toledo da madrid
 slugs:
   es: escapadas-desde-madrid-toledo
   en: toledo-day-trip-from-madrid
@@ -52,7 +54,7 @@ A 70 km da Madrid c'è una città medievale intatta: **Toledo**, dove ebrei, mus
 
 ## Come arrivare
 
-- **Avant da Atocha:** 33 minuti, partenze ogni ora dalle 6:50 e ultimo ritorno verso le 21:30; 22-26 € andata e ritorno. I primi treni si esauriscono: prenota. La stazione è a 20 minuti a piedi dal centro storico, in salita; autobus 5 o taxi (6-8 €).
+- **Avant da Atocha:** 33 minuti, partenze ogni ora dalle 6:50 e ultimo ritorno verso le 21:30; 22-26 € andata e ritorno. I primi treni si esauriscono: prenota. La stazione è a 20 minuti a piedi dal centro storico, in salita; autobus 5 o taxi (6-8 €). Orari e prezzi del treno, in [treno Madrid–Toledo](/it/guides/madrid/treno-madrid-toledo).
 - **Auto:** 1 ora per la A-42 (gratuita) o la AP-41 (a pedaggio). È l'unico mezzo che permette di fermarsi al **Mirador del Valle**. Nel centro storico non si entra: controllo targhe e multa. Parcheggia a **Safont** (1 € l'ora, o gratis dimostrando una consumazione nei negozi aderenti), vicino alle scale mobili che salgono al centro, o in quello del Cardenal, vicino alla Puerta de Bisagra.
 - **Autobus Alsa** da Plaza Elíptica: 1 ora, circa 11 € andata e ritorno, ogni 30 minuti nelle ore di punta.
 - **Escursione organizzata:** 45-70 € con trasporto, guida e ingressi, 8-9 ore. Conviene in gruppo o senza auto; in coppia con l'auto, no.
@@ -100,7 +102,7 @@ Toledo di notte, senza gli escursionisti, è un'altra città. Centro storico (pa
 
 ## Altre gite a un'ora
 
-**L'Escorial e il Valle de Cuelgamuros** (in [Madrid in 3 giorni](/it/guides/madrid/madrid-in-3-giorni)), **Segovia** (acquedotto, alcázar e maialino arrosto), **Aranjuez** (palazzo e giardini, in primavera), **Ávila** (le mura, più fredda) e **Alcalá de Henares** (Cervantes, meno visitata). Ma con un solo giorno, Toledo. Se sei indeciso con Segovia, in [Toledo o Segovia?](/it/guides/madrid/toledo-o-segovia-da-madrid) confrontiamo le due gite punto per punto.
+**L'Escorial e il Valle de Cuelgamuros** (in [Madrid in 3 giorni](/it/guides/madrid/madrid-in-3-giorni)), **Segovia** (acquedotto, alcázar e maialino arrosto; l'itinerario in [cosa vedere a Segovia in un giorno](/it/guides/madrid/cosa-vedere-a-segovia-in-un-giorno)), **Aranjuez** (palazzo e giardini, in primavera), **Ávila** (le mura, più fredda; vedi [cosa vedere ad Ávila in un giorno](/it/guides/madrid/cosa-vedere-ad-avila-in-un-giorno)) e **Alcalá de Henares** (Cervantes, meno visitata). Ma con un solo giorno, Toledo. Se sei indeciso con Segovia, in [Toledo o Segovia?](/it/guides/madrid/toledo-o-segovia-da-madrid) confrontiamo le due gite punto per punto.
 
 ## In una frase
 

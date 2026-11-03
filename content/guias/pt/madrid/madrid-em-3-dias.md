@@ -5,7 +5,7 @@ respuestaCorta: 'Dedique o **dia 1 ao Prado** (15 €, às 10h00), ao Barrio de 
 categoria: "madrid"
 slug: "madrid-em-3-dias"
 fecha: "2026-02-15"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -99,4 +99,4 @@ O dia que torna diferente este roteiro: a menos de uma hora, dois monumentos que
 
 ## Numa frase
 
-Prado, Escorial e Chamberí: a Madrid de Filipe II, a Espanha imperial e a Madrid vivida. Não tente ver tudo; fique com cinco coisas que o emocionem e deixe o resto para o regresso. Com crianças, [Madrid com crianças](/pt/guides/madrid/madrid-com-criancas); se lhe sobrar um dia, [Toledo](/pt/guides/madrid/toledo-desde-madrid-num-dia).
+Prado, Escorial e Chamberí: a Madrid de Filipe II, a Espanha imperial e a Madrid vivida. Não tente ver tudo; fique com cinco coisas que o emocionem e deixe o resto para o regresso. Com crianças, [Madrid com crianças](/pt/guides/madrid/madrid-com-criancas); se lhe sobrar um dia, [Toledo](/pt/guides/madrid/toledo-desde-madrid-num-dia), [Segóvia](/pt/guides/madrid/o-que-ver-em-segovia-num-dia) ou [Ávila](/pt/guides/madrid/o-que-ver-em-avila-num-dia).

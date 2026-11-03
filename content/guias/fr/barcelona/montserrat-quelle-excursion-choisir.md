@@ -1,22 +1,24 @@
 ---
-titulo: "Montserrat depuis Barcelone : quelle excursion choisir (comparatif)"
-descripcion: "Il existe 5 excursions à Montserrat réservables depuis Barcelone, d'une séance photo d'1 heure à une journée complète avec déjeuner et accord mets-vins. Nous comparons le prix, la durée et ce qu'inclut chacune."
+titulo: 'Excursion à Montserrat depuis Barcelone : laquelle choisir (comparatif)'
+descripcion: 'Excursion à Montserrat depuis Barcelone : 5 options comparées, de la demi-journée en petit groupe (dès 59 €) à la journée avec déjeuner (dès 109 €).'
+metaTitle: 'Excursion Montserrat depuis Barcelone'
 respuestaCorta: 'Avec une demi-journée, le **petit groupe à partir de 59 €** arrive au monastère avant la foule. Pour la journée complète, **CastlExperience à partir de 47 €** (6-10 heures, avec cave) est l''option la moins chère, et la **masia du Bages (à partir de 109 €)** ajoute un déjeuner avec accord mets-vins. Par vos propres moyens, le billet **Trans Montserrat** train et crémaillère coûte à partir de 50 €.'
 categoria: "barcelona"
 slug: "montserrat-quelle-excursion-choisir"
 fecha: "2026-09-20"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"
 imagen_alt: "Le monastère de Montserrat au milieu des montagnes, près de Barcelone"
 keywords:
-  - "montserrat quelle excursion choisir"
-  - "meilleure excursion montserrat depuis barcelone"
-  - "montserrat comparatif excursions"
-  - "montserrat demi-journee ou journee complete"
-  - "montserrat visite privee prix"
+  - 'montserrat depuis barcelone'
+  - 'excursion montserrat depuis barcelone'
+  - 'excursion montserrat'
+  - 'montserrat demi-journée'
+  - 'montserrat journée complète'
+  - 'excursion montserrat prix'
 slugs:
   es: montserrat-que-excursion-elegir
   en: montserrat-which-excursion-to-choose
@@ -63,7 +65,7 @@ Montserrat peut se visiter depuis Barcelone de cinq façons très différentes �
 
 ## Ce qu'il faut savoir avant d'y aller
 
-- **On peut aussi y aller par ses propres moyens :** train R5 des FGC depuis Plaça Espanya jusqu'à Monistrol de Montserrat (1 heure), puis la crémaillère, ou jusqu'à Aeri de Montserrat et le téléphérique. Le billet combiné Trans Montserrat (métro, train, crémaillère ou téléphérique et les funiculaires de Sant Joan et de la Santa Cova) coûte à partir de 50 € en 2026, et le Tot Montserrat, qui ajoute le musée et un repas, à partir de 71,50 €. Les visites guidées l'emportent en confort et en explications, pas en prix.
+- **On peut aussi y aller par ses propres moyens :** train R5 des FGC depuis Plaça Espanya jusqu'à Monistrol de Montserrat (1 heure), puis la crémaillère, ou jusqu'à Aeri de Montserrat et le téléphérique. Le billet combiné Trans Montserrat (métro, train, crémaillère ou téléphérique et les funiculaires de Sant Joan et de la Santa Cova) coûte à partir de 50 € en 2026, et le Tot Montserrat, qui ajoute le musée et un repas, à partir de 71,50 €. Les visites guidées l'emportent en confort et en explications, pas en prix. Horaires, billets et itinéraire à choisir, étape par étape, dans [aller à Montserrat depuis Barcelone](/fr/guides/barcelona/aller-a-montserrat-depuis-barcelone).
 - **La Moreneta** se visite gratuitement, par un couloir latéral de la basilique, de 8 h à 10 h 30 et de 12 h à 18 h 25. La file d'attente est de 30-60 minutes en saison ; les visites avec accès anticipé l'évitent.
 - **L'Escolania** chante généralement le Salve et le Virolai à 13 h du lundi au vendredi et pendant la messe de 11 h le dimanche ; normalement, elle ne chante pas le samedi. Il faut réserver, et le calendrier change avec les jours fériés et les tournées du chœur : confirmez-le sur escolania.cat et choisissez une excursion qui soit sur place à cette heure-là.
 - **Les funiculaires :** celui de Sant Joan monte vers les sentiers avec vue (10 minutes, puis une marche facile d'1 heure jusqu'à l'ermitage) ; celui de la Santa Cova descend vers la grotte de la Vierge. Ils sont inclus dans le Trans Montserrat, mais pas dans la plupart des visites ; ils ferment par vent fort.

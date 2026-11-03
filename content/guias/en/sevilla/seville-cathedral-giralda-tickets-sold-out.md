@@ -1,10 +1,11 @@
 ---
-titulo: 'Seville Cathedral and Giralda tickets sold out: what to do and the options left'
-descripcion: 'If the official Cathedral website has no tickets: the Prince''s Gate box office, free Sunday entry, the rooftop tour, resold timed tickets and what to see without a ticket.'
+titulo: 'Seville Cathedral tickets: Giralda, prices and what to do if sold out'
+descripcion: 'Seville Cathedral tickets, Giralda included, cost €13 online or €14 at the box office. How to buy, free Sunday entry, the rooftop tour and options if sold out.'
+metaTitle: 'Seville Cathedral tickets: price and Giralda'
 categoria: sevilla
 slug: seville-cathedral-giralda-tickets-sold-out
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/catedral-sevilla-giralda-entradas-agotadas.jpg
 imagen_alt: The Giralda and the Gothic facade of Seville Cathedral seen from Plaza Virgen de los Reyes
 tiempo_lectura: 4
 keywords:
-- seville cathedral tickets sold out
-- seville cathedral no tickets
-- giralda tickets sold out
-- seville cathedral same day tickets
-- seville cathedral sold out what to do
+  - 'seville cathedral tickets'
+  - 'seville cathedral tickets price'
+  - 'giralda tickets'
+  - 'seville cathedral free entry'
+  - 'seville cathedral rooftop tour'
+  - 'seville cathedral tickets sold out'
 slugs:
   es: catedral-sevilla-giralda-entradas-agotadas
   en: seville-cathedral-giralda-tickets-sold-out

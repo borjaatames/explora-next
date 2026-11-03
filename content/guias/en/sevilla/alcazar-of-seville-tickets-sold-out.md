@@ -1,10 +1,11 @@
 ---
-titulo: 'Alcázar of Seville tickets sold out: what to do and the options left'
-descripcion: 'If the official Royal Alcázar website has no tickets: same-day box office sales, free Mondays, resold timed tickets, guided tours with entry and what to see without a ticket.'
+titulo: 'Alcázar of Seville tickets sold out: what to do and what still works'
+descripcion: 'Alcázar Seville tickets sold out? The Patio de Banderas box office keeps a few per slot on the day. Or try the free Monday hour, resale from €20 or a tour.'
+metaTitle: 'Alcázar Seville sold out: what to do'
 categoria: sevilla
 slug: alcazar-of-seville-tickets-sold-out
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/alcazar-de-sevilla-entradas-agotadas.jpg
 imagen_alt: Patio de las Doncellas in the Royal Alcázar of Seville, with its Mudéjar arches and sunken garden
 tiempo_lectura: 4
 keywords:
-- alcazar seville tickets sold out
-- alcazar seville no tickets
-- alcazar seville last minute tickets
-- alcazar seville same day tickets
-- alcazar seville sold out what to do
+  - 'alcazar seville tickets sold out'
+  - 'alcazar seville sold out'
+  - 'alcazar seville last minute tickets'
+  - 'alcazar seville same day tickets'
+  - 'alcazar seville free monday'
+  - 'alcazar seville tour with tickets'
 slugs:
   es: alcazar-de-sevilla-entradas-agotadas
   en: alcazar-of-seville-tickets-sold-out

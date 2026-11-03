@@ -1,10 +1,11 @@
 ---
-titulo: 'Billets du musée du Prado épuisés ou files interminables : que faire'
-descripcion: 'Si votre créneau au Prado est complet ou si la file de l''heure gratuite fait peur : d''autres horaires sur le site officiel, le guichet, l''entrée gratuite, El Prado de noche, le pass Paseo del Arte et les visites guidées avec billet.'
+titulo: 'Billet musée du Prado : prix, heures gratuites et si c''est complet'
+descripcion: 'Billet musée du Prado : 15 € en ligne, gratuit de 18 h à 20 h du lundi au samedi (17 h à 19 h le dimanche) et que faire si votre créneau est complet.'
+metaTitle: 'Billet musée du Prado : prix et gratuité'
 categoria: madrid
 slug: musee-du-prado-billets-epuises
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,13 @@ imagen_portada: /images/guias/museo-del-prado-entradas-agotadas.jpg
 imagen_alt: La façade du musée du Prado sur le Paseo del Prado, avec la porte de Velázquez et la statue du peintre
 tiempo_lectura: 4
 keywords:
-- billets musee du prado epuises
-- musee du prado sans billet
-- file d'attente musee du prado
-- musee du prado billets derniere minute
-- musee du prado gratuit file
+  - 'musée du prado billet'
+  - 'billet musée du prado'
+  - 'musée du prado prix'
+  - 'musée du prado gratuit'
+  - 'musée du prado heures gratuites'
+  - 'file d''attente musée du prado'
+  - 'billets musée du prado épuisés'
 slugs:
   es: museo-del-prado-entradas-agotadas
   en: prado-museum-tickets-sold-out

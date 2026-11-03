@@ -1,10 +1,11 @@
 ---
-titulo: 'Billets de la cathédrale de Séville et de la Giralda épuisés : que faire et quelles options restent'
-descripcion: 'Si le site officiel de la cathédrale n''a plus de billets : le guichet de la Puerta del Príncipe, la visite gratuite du dimanche, les toits, les billets horodatés revendus et ce qu''on voit sans billet.'
+titulo: 'Billet cathédrale de Séville et Giralda : prix, achat et si c''est complet'
+descripcion: 'Billet cathédrale de Séville et Giralda : 13 € en ligne, 14 € au guichet de la Puerta del Príncipe. Comment l''acheter et que faire si c''est complet.'
+metaTitle: 'Billet cathédrale de Séville et Giralda'
 categoria: sevilla
 slug: cathedrale-de-seville-giralda-billets-epuises
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/catedral-sevilla-giralda-entradas-agotadas.jpg
 imagen_alt: La Giralda et la façade gothique de la cathédrale de Séville vues depuis la Plaza Virgen de los Reyes
 tiempo_lectura: 4
 keywords:
-- billets cathédrale séville épuisés
-- cathédrale séville sans billet
-- billets giralda épuisés
-- cathédrale séville guichet le jour même
-- cathédrale séville complète que faire
+  - 'billet cathédrale séville'
+  - 'cathédrale séville prix'
+  - 'billet giralda'
+  - 'cathédrale de séville giralda'
+  - 'cathédrale séville guichet'
+  - 'billets cathédrale séville épuisés'
 slugs:
   es: catedral-sevilla-giralda-entradas-agotadas
   en: seville-cathedral-giralda-tickets-sold-out

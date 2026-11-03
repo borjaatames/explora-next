@@ -1,10 +1,11 @@
 ---
-titulo: 'Real Alcázar de Séville : comment le visiter (guide honnête 2026)'
-descripcion: 'Comment visiter le Real Alcázar de Séville : prix 2026, horaires, que voir à l''intérieur, Patio de las Doncellas, Salón de Embajadores, jardins et erreurs fréquentes.'
+titulo: 'Billet Alcázar de Séville : prix 2026 et comment le visiter'
+descripcion: 'Billet Real Alcázar de Séville : 15,50 € plein tarif, 2 h 30 à 3 h de visite. Horaires, que voir à l''intérieur, jardins, visite guidée et erreurs fréquentes.'
+metaTitle: 'Billet Alcázar de Séville : prix et visite'
 categoria: sevilla
 slug: real-alcazar-de-seville-comment-le-visiter
 fecha: '2026-04-29'
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/alcazar-de-sevilla-como-visitar.jpg
 imagen_alt: "Patio intérieur du Real Alcázar de Séville"
 tiempo_lectura: 3
 keywords:
-- real alcázar séville
-- comment visiter l'alcázar de séville
-- billets alcázar séville
-- cuarto real alto alcázar
-- jardins alcázar séville
+  - 'billet alcazar séville'
+  - 'real alcázar séville'
+  - 'alcazar séville prix'
+  - 'visiter l''alcazar de séville'
+  - 'alcazar séville horaires'
+  - 'visite guidée alcazar séville'
 slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit

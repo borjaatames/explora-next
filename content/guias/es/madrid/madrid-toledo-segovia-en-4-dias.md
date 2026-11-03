@@ -4,7 +4,7 @@ descripcion: "4 días con base en Madrid: 2 de ciudad (Palacio Real, Prado, Reti
 categoria: "madrid"
 slug: "madrid-toledo-segovia-en-4-dias"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -94,7 +94,7 @@ Cuatro días con base fija en Madrid es la forma más cómoda de ver tres ciudad
 
 ## Día 3: Toledo
 
-**8:30-9:30 — Avant desde Atocha** (33 minutos; salidas cada hora desde las 6:50). La estación de Toledo queda a 20 minutos a pie del casco, cuesta arriba: coge el autobús 5 o un taxi (6-8 €). Sin tren, autobús de Alsa desde Plaza Elíptica (1 hora, unos 11 € ida y vuelta).
+**8:30-9:30 — Avant desde Atocha** (33 minutos; salidas cada hora desde las 6:50). La estación de Toledo queda a 20 minutos a pie del casco, cuesta arriba: coge el autobús 5 o un taxi (6-8 €); horarios y precios del tren, en [tren Madrid–Toledo](/guias/madrid/tren-madrid-toledo). Sin tren, autobús de Alsa desde Plaza Elíptica (1 hora, unos 11 € ida y vuelta).
 
 **10:00 — Catedral Primada** (12 €, 1 h 30; de lunes a sábado de 10:00 a 18:30, último acceso a las 18:00): la Custodia de Arfe, el Transparente y la sacristía con los Grecos. Después, **Santo Tomé** (*El entierro del señor de Orgaz*, 30 minutos) y **Santa María la Blanca**. La **pulsera turística** (14 €) da entrada a siete monumentos de 4 € cada uno y compensa a partir del cuarto:
 
@@ -122,7 +122,7 @@ Si prefieres ir con todo resuelto, la excursión de día completo incluye bus, g
 
 **14:30 — Cochinillo asado**, la razón por la que muchos madrileños vuelven a Segovia. Reserva si es fin de semana.
 
-**Tarde:** baja por el barrio de los Caballeros o la judería hasta el acueducto y vuelve a Madrid sin prisa. Segovia está a unos 1.000 metros: lleva abrigo de octubre a abril.
+**Tarde:** baja por el barrio de los Caballeros o la judería hasta el acueducto y vuelve a Madrid sin prisa. Segovia está a unos 1.000 metros: lleva abrigo de octubre a abril. Más paradas y tiempos de visita en [qué ver en Segovia en un día](/guias/madrid/que-ver-en-segovia-en-un-dia).
 
 Para quien no quiere organizar nada, la excursión de Ávila y Segovia con entradas incluye las dos murallas y el Alcázar en el mismo día; y para algo distinto, el [vuelo en globo sobre Segovia](/ciudades/madrid/actividades/vuelo-globo-segovia) al amanecer, con desayuno y cava (desde 205 €).
 

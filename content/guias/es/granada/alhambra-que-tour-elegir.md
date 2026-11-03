@@ -1,22 +1,24 @@
 ---
-titulo: "Alhambra: qué tour elegir (y por qué la mayoría son el mismo tour a distinto precio)"
-descripcion: "Hay más de media docena de tours guiados a la Alhambra listados por separado. Comparamos cuáles son en realidad el mismo recorrido y cuáles sí son distintos: nocturna, privado y entrada solo a jardines."
+titulo: 'Visita guiada Alhambra: qué tour elegir (y cuáles son el mismo)'
+descripcion: 'Visita guiada a la Alhambra: seis de los tours son el mismo recorrido de 3 horas, de 50 a 96 €. Cuál reservar y cuándo compensan la nocturna o el tour privado.'
+metaTitle: 'Visita guiada Alhambra: qué tour elegir'
 respuestaCorta: 'Seis de los tours son **el mismo recorrido de 3 horas** (Alcazaba, Palacios Nazaríes y Generalife) a precios de 50 a 96 €, así que reserva el más barato con plaza en tu fecha, normalmente **Entrada y tour guiado desde 50 €**. Solo la **visita nocturna**, el **tour privado** y la entrada a los jardines son de verdad distintos. Reserva con semanas: las franjas de los Nazaríes se agotan.'
 categoria: "granada"
 slug: "alhambra-que-tour-elegir"
 fecha: "2026-09-06"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp"
 imagen_alt: "Arco de mocárabes con inscripciones árabes en los Palacios Nazaríes de la Alhambra"
 keywords:
-  - "alhambra que tour elegir"
-  - "mejor tour alhambra"
-  - "alhambra tour guiado comparativa"
-  - "alhambra entradas oficiales"
-  - "alhambra visita nocturna o de dia"
+  - 'visita guiada alhambra'
+  - 'tour alhambra'
+  - 'mejor tour alhambra'
+  - 'visita guiada alhambra precio'
+  - 'guía alhambra'
+  - 'alhambra tour privado'
 slugs:
   es: alhambra-que-tour-elegir
   en: alhambra-which-tour-to-choose

@@ -5,7 +5,7 @@ respuestaCorta: 'As melhores escapadinhas de um dia a partir de Málaga são **N
 categoria: "malaga"
 slug: "escapadinhas-desde-malaga"
 fecha: "2026-04-13"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -73,7 +73,7 @@ A 45 minutos, **Antequera** guarda os **dólmenes** pré-históricos (Patrimóni
 
 ## Ronda
 
-A uma hora e três quartos, **Ronda** é a joia serrana: uma cidade partida pelo **Tajo**, uma ravina de 100 metros atravessada pela **Puente Nuevo**, com uma das praças de touros mais antigas de Espanha. Uma das imagens mais famosas do país.
+A uma hora e três quartos, **Ronda** é a joia serrana: uma cidade partida pelo **Tajo**, uma ravina de 100 metros atravessada pela **Puente Nuevo**, com uma das praças de touros mais antigas de Espanha. Uma das imagens mais famosas do país. O que ver e por que ordem, em [o que ver em Ronda num dia](/pt/guides/malaga/o-que-ver-em-ronda-num-dia).
 
 ## Mijas, Marbella e a costa
 

@@ -1,6 +1,7 @@
 ---
-titulo: "Flamenco à Madrid : Las Carboneras ou Torres Bermejas, lequel choisir ?"
-descripcion: "Madrid compte deux tablaos de flamenco réservables directement : Las Carboneras et Torres Bermejas. Nous comparons le format, le prix et l'ambiance pour vous aider à choisir."
+titulo: 'Flamenco à Madrid : quel tablao choisir, Las Carboneras ou Torres Bermejas'
+descripcion: 'Flamenco à Madrid : Las Carboneras (dès 45 €, boisson incluse) ou Torres Bermejas (dès 31 €, dîner possible). Deux spectacles d''une heure comparés.'
+metaTitle: 'Flamenco Madrid : quel tablao choisir'
 categoria: "madrid"
 slug: "flamenco-madrid-quel-tablao-choisir"
 fecha: "2026-09-06"
@@ -10,11 +11,12 @@ destacada: false
 imagen_portada: "/images/actividades/madrid/tablao-las-carboneras/descarga-hero.webp"
 imagen_alt: "Intérieur d'un tablao de flamenco à Madrid avec une troupe d'artistes sur scène"
 keywords:
-  - "flamenco madrid quel tablao choisir"
-  - "las carboneras ou torres bermejas"
-  - "meilleur tablao flamenco madrid"
-  - "flamenco madrid comparatif"
-  - "ou voir du flamenco a madrid"
+  - 'flamenco madrid'
+  - 'tablao flamenco madrid'
+  - 'meilleur tablao flamenco madrid'
+  - 'spectacle flamenco madrid'
+  - 'las carboneras madrid'
+  - 'torres bermejas madrid'
 slugs:
   es: flamenco-madrid-que-tablao-elegir
   en: flamenco-madrid-which-tablao-to-choose
@@ -23,7 +25,7 @@ slugs:
   it: flamenco-madrid-quale-tablao-scegliere
   pt: flamenco-madrid-que-tablao-escolher
 tiempo_lectura: 4
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 reservasArriba: true
 respuestaCorta: 'Pour un tablao intimiste dans le Madrid des Habsbourg, **Las Carboneras** (à partir de 45 €, avec boisson, 4,7/5). Pour payer moins, avoir plus de séances et la possibilité de dîner sur place, **Torres Bermejas** (à partir de 31 €, près de la Gran Vía). Les deux proposent des spectacles d''**une heure** avec annulation gratuite jusqu''à 24 heures avant ; seul Las Carboneras est accessible en fauteuil roulant.'
 opciones:

@@ -1,6 +1,7 @@
 ---
-titulo: "Park Güell: qué entrada elegir (comparativa)"
-descripcion: "Park Güell: entrada básica (21,50 €) o con la Casa Museo Gaudí (28 €). Qué incluye cada una, horarios, cómo llegar y qué saber antes de reservar."
+titulo: 'Entradas Park Güell: precio y qué entrada elegir'
+descripcion: 'Entradas Park Güell: la oficial cuesta 18 € y las reservables, 21,50 € la básica o 28 € con la Casa Museo Gaudí. Qué incluye cada una, horarios y cuál elegir.'
+metaTitle: 'Entradas Park Güell: precio y cuál elegir'
 categoria: "barcelona"
 slug: "park-guell-que-entrada-elegir"
 fecha: "2026-09-20"
@@ -10,11 +11,12 @@ destacada: false
 imagen_portada: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"
 imagen_alt: "Mosaicos y arquitectura de Gaudí en el Park Güell de Barcelona"
 keywords:
-  - "park guell que entrada elegir"
-  - "mejor entrada park guell"
-  - "park guell comparativa"
-  - "park guell con guia o sin guia"
-  - "park guell precio entrada"
+  - 'entradas park guell'
+  - 'precio entrada park guell'
+  - 'park guell casa museo gaudí'
+  - 'park guell zona monumental'
+  - 'park guell tour guiado'
+  - 'qué entrada elegir park guell'
 slugs:
   es: park-guell-que-entrada-elegir
   en: park-guell-which-ticket-to-choose
@@ -23,7 +25,7 @@ slugs:
   it: park-guell-quale-biglietto-scegliere
   pt: park-guell-que-bilhete-escolher
 tiempo_lectura: 4
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 reservasArriba: true
 respuestaCorta: 'Si solo quieres ver la zona monumental (el dragón, la Sala Hipóstila y el banco ondulado), basta la **entrada básica desde 21,50 €**. Por 6,50 € más, la **entrada con la Casa Museo Gaudí** (28 €) suma la casa donde vivió el arquitecto. Ninguna incluye guía y **ninguna se puede cancelar**: reserva solo cuando tengas la hora clara.'
 actividades:

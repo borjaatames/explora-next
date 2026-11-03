@@ -4,7 +4,7 @@ descripcion: 'Toledo or Segovia from Madrid: train and bus times and prices, wha
 categoria: madrid
 slug: toledo-or-segovia-from-madrid
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -85,7 +85,7 @@ Segovia unfolds in a straight line, and that's half its charm. You arrive at the
 - **Lunch:** roast suckling pig (*cochinillo*) is why so many Madrileños keep coming back. Book a table at weekends.
 - **Climate:** at around 1,000 metres, summer evenings cool down; winter is properly cold.
 
-Five or six hours cover the essentials and a relaxed lunch, which is why Segovia is so often paired with Ávila, as on the [Ávila and Segovia day trip with tickets included](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). And if you want the aqueduct, cathedral and Alcázar in one view, a [hot-air balloon ride over Segovia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) is the most memorable way to do it.
+Five or six hours cover the essentials and a relaxed lunch (the step-by-step route is in our [Segovia day trip from Madrid](/en/guides/madrid/segovia-day-trip-from-madrid) guide), which is why Segovia is so often paired with [Ávila](/en/guides/madrid/avila-day-trip-from-madrid), as on the [Ávila and Segovia day trip with tickets included](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). And if you want the aqueduct, cathedral and Alcázar in one view, a [hot-air balloon ride over Segovia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) is the most memorable way to do it.
 
 [actividad: excursion-avila-segovia-con-entradas]
 

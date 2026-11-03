@@ -1,22 +1,24 @@
 ---
-titulo: "Flamenco à Séville : quel tablao choisir (comparatif des 5 spectacles)"
-descripcion: "Séville compte 5 spectacles de flamenco réservables séparément, chacun dans un lieu différent. Nous comparons prix, format et ambiance pour que vous choisissiez celui qui vous correspond vraiment."
+titulo: 'Flamenco à Séville : quel spectacle et quel tablao choisir (5 comparés)'
+descripcion: 'Flamenco à Séville : 5 spectacles comparés, de 24 à 45 €, d''environ une heure. Casa de la Memoria, Teatro Flamenco ou Tablao El Arenal : lequel vous correspond.'
+metaTitle: 'Flamenco Séville : quel spectacle choisir'
 respuestaCorta: 'Les cinq spectacles de flamenco réservables à Séville durent environ une heure et coûtent **entre 24 et 45 €**. Choisissez la **Casa de la Memoria** (24 €, deux rangs seulement) si vous cherchez l''intimité, le **Teatro Flamenco Sevilla** (25 €) comme option la plus sûre avec une bonne visibilité, et le **Tablao El Arenal** (45 €) si vous voulez dîner pendant le spectacle. Tous offrent l''annulation gratuite jusqu''à 24 heures avant.'
 categoria: "sevilla"
 slug: "flamenco-seville-quel-tablao-choisir"
 fecha: "2026-09-06"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaora-contraluz.webp"
 imagen_alt: "Danseuse de flamenco en plein mouvement pendant un spectacle à Séville"
 keywords:
-  - "flamenco séville quel tablao choisir"
-  - "meilleur spectacle flamenco séville"
-  - "flamenco séville comparatif"
-  - "où voir du flamenco à séville"
-  - "tablao flamenco séville prix"
+  - 'flamenco séville'
+  - 'spectacle flamenco séville'
+  - 'tablao flamenco séville'
+  - 'meilleur spectacle flamenco séville'
+  - 'flamenco séville prix'
+  - 'où voir du flamenco à séville'
 slugs:
   es: flamenco-sevilla-que-tablao-elegir
   en: flamenco-seville-which-tablao-to-choose

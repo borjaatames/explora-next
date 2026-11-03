@@ -1,10 +1,11 @@
 ---
-titulo: 'Sagrada Familia tickets sold out: what to do'
-descripcion: 'If the official Sagrada Familia website has no tickets: when they are released, the on-site QR codes, tours with their own allocation, the masses and what to see outside.'
+titulo: 'Sagrada Familia tickets sold out: what to do and what still works'
+descripcion: 'Sagrada Familia tickets sold out? They go on sale about two months ahead and there is no ticket office. Try on-site QR codes, tours with entry or the free mass.'
+metaTitle: 'Sagrada Familia sold out: what to do'
 categoria: barcelona
 slug: sagrada-familia-tickets-sold-out
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/sagrada-familia-entradas-agotadas.jpg
 imagen_alt: Nativity facade of the Sagrada Familia in Barcelona
 tiempo_lectura: 4
 keywords:
-- sagrada familia tickets sold out
-- sagrada familia no tickets
-- sagrada familia last minute tickets
-- sagrada familia sold out what to do
-- sagrada familia mass
+  - 'sagrada familia tickets sold out'
+  - 'sagrada familia sold out'
+  - 'sagrada familia last minute tickets'
+  - 'sagrada familia no tickets available'
+  - 'sagrada familia tour with tickets'
+  - 'sagrada familia mass'
 slugs:
   es: sagrada-familia-entradas-agotadas
   en: sagrada-familia-tickets-sold-out

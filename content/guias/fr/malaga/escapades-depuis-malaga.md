@@ -5,7 +5,7 @@ respuestaCorta: 'Les meilleures escapades d''une journée depuis Malaga sont **N
 categoria: "malaga"
 slug: "escapades-depuis-malaga"
 fecha: "2026-04-13"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -73,7 +73,7 @@ En plus du **Caminito del Rey** (qui mérite son propre guide : [comment le visi
 
 ## Ronda
 
-À une heure trois quarts, **Ronda** est le joyau de la sierra : une ville coupée en deux par le **Tajo**, un ravin de 100 mètres enjambé par le **Puente Nuevo**, avec l'une des plus anciennes arènes d'Espagne. L'une des images les plus célèbres du pays.
+À une heure trois quarts, **Ronda** est le joyau de la sierra : une ville coupée en deux par le **Tajo**, un ravin de 100 mètres enjambé par le **Puente Nuevo**, avec l'une des plus anciennes arènes d'Espagne. L'une des images les plus célèbres du pays. Que voir sur place et dans quel ordre : [que voir à Ronda en une journée](/fr/guides/malaga/que-voir-a-ronda-en-une-journee).
 
 ## Mijas, Marbella et la côte
 

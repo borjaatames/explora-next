@@ -1,10 +1,11 @@
 ---
-titulo: 'Biglietti per la Sagrada Família esauriti: cosa fare'
-descripcion: 'Se il sito ufficiale della Sagrada Família non ha biglietti: quando escono, i codici QR del tempio, i tour con contingente proprio, le messe e cosa vedere da fuori.'
+titulo: 'Biglietti Sagrada Família esauriti: cosa fare e quali opzioni restano'
+descripcion: 'Biglietti Sagrada Família esauriti? Escono circa due mesi prima e non c''è biglietteria: posti liberati, codici QR, tour con ingresso e la messa delle 9:00.'
+metaTitle: 'Sagrada Família biglietti esauriti: cosa fare'
 categoria: barcelona
 slug: sagrada-familia-biglietti-esauriti
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,9 +14,10 @@ imagen_alt: Facciata della Natività della Sagrada Família di Barcellona
 tiempo_lectura: 4
 keywords:
 - biglietti sagrada familia esauriti
-- sagrada familia senza biglietti
 - sagrada familia biglietti ultimo minuto
+- sagrada familia senza biglietti
 - sagrada familia esaurita cosa fare
+- tour sagrada familia con ingresso
 - messa sagrada familia
 slugs:
   es: sagrada-familia-entradas-agotadas

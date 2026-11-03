@@ -1,21 +1,23 @@
 ---
-titulo: "Mesquita-Catedral de Córdova: como visitá-la (bilhetes e dicas)"
-descripcion: "Guia para visitar a Mesquita-Catedral de Córdova: bilhetes e horário gratuito, o que ver (floresta de colunas, mihrab, Patio de los Naranjos), torre e os melhores truques."
+titulo: 'Mesquita de Córdova: bilhetes, horário grátis e visita guiada'
+descripcion: 'Mesquita de Córdova: bilhete de 15 €, entrada grátis de segunda a sábado das 8h30 às 9h30, quanto tempo leva, o que ver e a visita guiada com torre desde 32 €.'
+metaTitle: 'Mesquita de Córdova: bilhetes e visita guiada'
 respuestaCorta: 'A Mesquita-Catedral custa **15 €** (grátis para menores de 10) e é **gratuita de segunda a sábado das 8h30 às 9h30**, só para visitantes individuais. Vá logo de manhã, conte com **1-1h30** e leve os ombros tapados; aos domingos o culto fecha-a das 11h30 às 15h00. O **tour guiado sem filas com campanário** custa desde 32 €.'
 categoria: "cordoba"
 slug: "mesquita-catedral-de-cordova-como-visitar"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 3
 keywords:
-  - "mesquita de córdova"
-  - "mesquita-catedral bilhetes"
-  - "como visitar a mesquita de córdova"
-  - "mihrab córdova"
-  - "patio de los naranjos"
+  - 'mesquita de córdova'
+  - 'mesquita de córdova bilhetes'
+  - 'mesquita de córdova horário'
+  - 'mesquita de córdova preço'
+  - 'visita guiada mesquita de córdova'
+  - 'mesquita de córdova grátis'
 slugs:
   es: mezquita-catedral-como-visitar
   en: mosque-cathedral-how-to-visit

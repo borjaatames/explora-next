@@ -4,7 +4,7 @@ descripcion: "4 jours avec Madrid pour base : 2 jours en ville (Palais royal, Pr
 categoria: "madrid"
 slug: "madrid-tolede-segovie-en-4-jours"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -94,7 +94,7 @@ Quatre jours avec Madrid pour base fixe, c'est la façon la plus confortable de 
 
 ## Jour 3: Tolède
 
-**8 h 30-9 h 30 — Avant depuis Atocha** (33 minutes ; départs toutes les heures dès 6 h 50). La gare de Tolède est à 20 minutes à pied du centre historique, en montée : prenez le bus 5 ou un taxi (6-8 €). Sans train, le bus Alsa depuis Plaza Elíptica (1 heure, environ 11 € aller-retour).
+**8 h 30-9 h 30 — Avant depuis Atocha** (33 minutes ; départs toutes les heures dès 6 h 50). La gare de Tolède est à 20 minutes à pied du centre historique, en montée : prenez le bus 5 ou un taxi (6-8 €) ; horaires et prix du train dans [train Madrid–Tolède](/fr/guides/madrid/train-madrid-tolede). Sans train, le bus Alsa depuis Plaza Elíptica (1 heure, environ 11 € aller-retour).
 
 **10 h — Cathédrale primatiale** (12 €, 1 h 30 ; du lundi au samedi de 10 h à 18 h 30, dernier accès à 18 h) : l'ostensoir d'Arfe, le Transparente et la sacristie avec les Greco. Ensuite, **Santo Tomé** (*L'Enterrement du comte d'Orgaz*, 30 minutes) et **Santa María la Blanca**. Le **bracelet touristique** (14 €) donne accès à sept monuments à 4 € chacun et devient rentable dès le quatrième :
 
@@ -122,7 +122,7 @@ Si vous préférez que tout soit organisé, l'excursion à la journée comprend 
 
 **14 h 30 — Cochon de lait rôti**, la raison pour laquelle beaucoup de Madrilènes reviennent à Ségovie. Réservez si c'est le week-end.
 
-**L'après-midi :** redescendez par le quartier des Caballeros ou le quartier juif jusqu'à l'aqueduc et rentrez à Madrid sans vous presser. Ségovie est à environ 1 000 mètres d'altitude : prenez un manteau d'octobre à avril.
+**L'après-midi :** redescendez par le quartier des Caballeros ou le quartier juif jusqu'à l'aqueduc et rentrez à Madrid sans vous presser. Ségovie est à environ 1 000 mètres d'altitude : prenez un manteau d'octobre à avril. Plus d'étapes et de temps de visite dans [que voir à Ségovie en une journée](/fr/guides/madrid/que-voir-a-segovie-en-une-journee).
 
 Pour ceux qui ne veulent rien organiser, l'excursion Ávila et Ségovie avec billets inclut les deux enceintes et l'Alcazar dans la même journée ; et pour quelque chose de différent, le [vol en montgolfière au-dessus de Ségovie](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) au lever du soleil, avec petit-déjeuner et cava (à partir de 205 €).
 

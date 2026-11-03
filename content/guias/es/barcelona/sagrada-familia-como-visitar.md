@@ -1,11 +1,12 @@
 ---
 titulo: "Sagrada Familia: cómo visitarla bien (entradas y errores)"
 descripcion: "Cómo visitar la Sagrada Familia: precios oficiales 2026, qué torre subir, Hora del Silencio, Año Gaudí, código de vestimenta y errores típicos."
+metaTitle: 'Cómo visitar la Sagrada Familia: consejos'
 respuestaCorta: 'Compra solo en **sagradafamilia.org** y con **4-6 semanas de antelación** (en julio y agosto, en cuanto salgan, unos dos meses antes): no hay taquilla. La **entrada básica con audioguía cuesta 26 €** y basta para una primera visita; con torre, 36 €. Reserva la **franja de las 9:00**, la Hora del Silencio, y calcula entre 1 h 30 y 2 horas dentro.'
 categoria: "barcelona"
 slug: "sagrada-familia-como-visitar"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -13,11 +14,12 @@ imagen_portada: "/images/guias/sagrada-familia-como-visitar.jpg"
 imagen_alt: Basílica de la Sagrada Familia de Barcelona con impresionante vista frontal de sus torres y fachada
 tiempo_lectura: 4
 keywords:
-  - "sagrada familia cómo visitar"
-  - "entradas sagrada familia"
-  - "precio sagrada familia"
-  - "torres sagrada familia"
-  - "año gaudí 2026"
+  - 'visitar la sagrada familia'
+  - 'sagrada familia cómo visitar'
+  - 'qué torre subir sagrada familia'
+  - 'sagrada familia horario'
+  - 'hora del silencio sagrada familia'
+  - 'año gaudí 2026'
 slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit

@@ -1,10 +1,11 @@
 ---
-titulo: 'Billets de la Sagrada Família épuisés : que faire'
-descripcion: 'Si le site officiel de la Sagrada Família n''a plus de billets : quand ils sont mis en vente, les QR codes autour de la basilique, les visites avec quota propre, les messes et ce que l''on voit de l''extérieur.'
+titulo: 'Billets Sagrada Família épuisés : que faire et quelles options restent'
+descripcion: 'Billets Sagrada Família épuisés ? Vente environ deux mois avant, QR codes autour de la basilique, visites avec entrée incluse et messe gratuite du dimanche.'
+metaTitle: 'Billets Sagrada Família épuisés : que faire'
 categoria: barcelona
 slug: sagrada-familia-billets-epuises
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/sagrada-familia-entradas-agotadas.jpg
 imagen_alt: La façade de la Nativité de la Sagrada Família à Barcelone
 tiempo_lectura: 4
 keywords:
-- billets sagrada familia epuises
-- sagrada familia sans billet
-- billets sagrada familia derniere minute
-- sagrada familia complet que faire
-- messe sagrada familia
+  - 'billets sagrada familia épuisés'
+  - 'sagrada familia complet'
+  - 'billet sagrada familia dernière minute'
+  - 'sagrada familia sans billet'
+  - 'visite sagrada familia billet inclus'
+  - 'messe sagrada familia'
 slugs:
   es: sagrada-familia-entradas-agotadas
   en: sagrada-familia-tickets-sold-out

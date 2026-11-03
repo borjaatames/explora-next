@@ -1,21 +1,23 @@
 ---
-titulo: "Caminito del Rey: come visitarlo (biglietti, accesso e consigli)"
-descripcion: "Guida per visitare il Caminito del Rey da Malaga: come ottenere i biglietti, come arrivare in treno o in auto, durata, difficoltà e cosa portare. Tutto quello che ti serve."
+titulo: 'Caminito del Rey: biglietti, come arrivare e consigli per la visita'
+descripcion: 'Caminito del Rey: biglietti da 10 € (18 € con guida) da prenotare settimane prima, come arrivare in treno o in auto, 7,7 km in 3-4 ore. Chiuso il lunedì.'
+metaTitle: 'Caminito del Rey: biglietti e come arrivare'
 respuestaCorta: '**Compra il biglietto sul sito ufficiale con settimane o mesi di anticipo** (10 € per conto proprio, 18 € con guida ufficiale, più 2,50 € di bus navetta): senza non si entra. Sono **7,7 km lineari in 3-4 ore**, da nord a sud, quasi senza dislivello ma non adatti a chi soffre di vertigini; **chiude il lunedì** e non ammette minori di 8 anni. Con trasporto da Malaga, da 72 €.'
 categoria: "malaga"
 slug: "caminito-del-rey-come-visitarlo"
 fecha: "2026-03-10"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 4
 keywords:
-  - "caminito del rey"
-  - "caminito del rey biglietti"
-  - "caminito del rey da malaga"
-  - "come visitare il caminito del rey"
-  - "el chorro"
+- caminito del rey
+- caminito del rey biglietti
+- caminito del rey come arrivare
+- caminito del rey da malaga
+- caminito del rey tour
+- caminito del rey prezzo
 slugs:
   es: caminito-del-rey-como-visitar
   en: caminito-del-rey-how-to-visit

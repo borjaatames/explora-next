@@ -4,7 +4,7 @@ descripcion: "Ruta de 7 días por Andalucía en tren: 2 noches en Sevilla, 1 en 
 categoria: "sevilla"
 slug: "andalucia-en-7-dias"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -167,4 +167,4 @@ Granada abarata mucho la comida: la tapa va gratis con la bebida. Sevilla y Mál
 
 ## En una frase
 
-Cuatro ciudades unidas por trenes de menos de hora y media, dos entradas compradas con tiempo y una noche en cada sitio que de verdad lo merece: así siete días por Andalucía se disfrutan en lugar de sufrirse. Si te sobra un día, Cádiz y Jerez desde Sevilla, en [excursiones desde Sevilla](/guias/sevilla/excursiones-desde-sevilla).
+Cuatro ciudades unidas por trenes de menos de hora y media, dos entradas compradas con tiempo y una noche en cada sitio que de verdad lo merece: así siete días por Andalucía se disfrutan en lugar de sufrirse. Si te sobra un día, Cádiz y Jerez desde Sevilla, en [excursiones desde Sevilla](/guias/sevilla/excursiones-desde-sevilla); y si tienes diez días y quieres sumar Madrid, Toledo y Barcelona, mira la [ruta por España en 10 días](/guias/madrid/ruta-por-espana-en-10-dias).

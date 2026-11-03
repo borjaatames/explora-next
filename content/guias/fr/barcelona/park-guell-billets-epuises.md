@@ -1,10 +1,11 @@
 ---
-titulo: 'Billets du Park Güell épuisés : que faire et quelles options restent'
-descripcion: 'Si le site officiel du Park Güell n''a plus de billets : quand ils sont mis en vente, comment changer de créneau, les billets de revente, les visites avec l''entrée incluse et la partie gratuite du parc.'
+titulo: 'Billets Park Güell épuisés : que faire et quelles options restent'
+descripcion: 'Billets Park Güell épuisés ? Vente jusqu''à 3 mois avant, 700 places par demi-heure, revente dès 21,50 €, visites avec entrée et partie gratuite du parc.'
+metaTitle: 'Billets Park Güell épuisés : que faire'
 categoria: barcelona
 slug: park-guell-billets-epuises
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/park-guell-entradas-agotadas.jpg
 imagen_alt: Le banc ondulé en trencadís sur la place de la Nature du Park Güell
 tiempo_lectura: 4
 keywords:
-- billets park guell epuises
-- park guell sans billet
-- billets park guell derniere minute
-- park guell complet que faire
-- park guell gratuit
+  - 'billets park guell épuisés'
+  - 'park guell complet'
+  - 'billet park guell dernière minute'
+  - 'park guell sans billet'
+  - 'park guell gratuit'
+  - 'park guell zone gratuite'
 slugs:
   es: park-guell-entradas-agotadas
   en: park-guell-tickets-sold-out

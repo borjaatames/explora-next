@@ -1,10 +1,11 @@
 ---
-titulo: 'Alhambra: como visitá-la sem ficar sem bilhete'
-descripcion: 'Como visitar a Alhambra de Granada: que visita escolher para a sua viagem, o horário dos Palácios Nasridas, o que ver lá dentro e os erros a evitar.'
+titulo: 'Bilhetes Alhambra: preço, tipos e como visitá-la'
+descripcion: 'Bilhetes Alhambra: o geral custa 22,27 € e sai até três meses antes. Que visita escolher, o horário dos Palácios Nasridas, quanto tempo leva e erros a evitar.'
+metaTitle: 'Bilhetes Alhambra: preço e como comprar'
 categoria: granada
 slug: alhambra-como-visitar
 fecha: '2026-05-02'
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -12,11 +13,12 @@ destacada: true
 imagen_portada: /images/guias/alhambra-como-visitar.jpg
 imagen_alt: Vista aérea da Alhambra de Granada com as suas torres sobre a cidade
 keywords:
-- como visitar a alhambra
-- visita guiada alhambra
-- bilhetes alhambra esgotados
-- palácios nasridas
-- alhambra granada bilhetes
+  - 'bilhetes alhambra'
+  - 'alhambra bilhetes preço'
+  - 'comprar bilhetes alhambra'
+  - 'como visitar a alhambra'
+  - 'palácios nasridas bilhetes'
+  - 'alhambra granada bilhetes'
 slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit

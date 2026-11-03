@@ -1,10 +1,11 @@
 ---
-titulo: 'Bilhetes do Palácio Real de Madrid esgotados: o que fazer'
-descripcion: 'Se o site oficial do Palácio Real não tiver bilhetes: a bilheteira, a visita guiada oficial, a entrada gratuita da tarde, os tours com bilhete incluído e o que ver por fora.'
+titulo: 'Bilhetes Palácio Real de Madrid: preço, entrada grátis e se esgotarem'
+descripcion: 'Bilhetes do Palácio Real de Madrid: 18 € online, visita guiada por 26 € e entrada grátis para cidadãos da UE nas duas últimas horas. E se estiver esgotado.'
+metaTitle: 'Bilhetes Palácio Real Madrid: preço e grátis'
 categoria: madrid
 slug: palacio-real-madrid-bilhetes-esgotados
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/palacio-real-madrid-entradas-agotadas.jpg
 imagen_alt: Fachada sul do Palácio Real de Madrid vista da Plaza de la Armería
 tiempo_lectura: 4
 keywords:
-- bilhetes palácio real esgotados
-- palácio real madrid sem bilhetes
-- palácio real bilhetes última hora
-- palácio real grátis
-- bilheteira palácio real madrid
+  - 'bilhetes palácio real madrid'
+  - 'palácio real madrid preço'
+  - 'palácio real madrid grátis'
+  - 'visita guiada palácio real madrid'
+  - 'palácio real madrid horário'
+  - 'bilhetes palácio real esgotados'
 slugs:
   es: palacio-real-madrid-entradas-agotadas
   en: royal-palace-madrid-tickets-sold-out

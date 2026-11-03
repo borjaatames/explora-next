@@ -1,11 +1,12 @@
 ---
 titulo: "Málaga em dois dias: roteiro com critério entre museus e mar"
 descripcion: "O que ver em Málaga em dois dias: Alcazaba, Catedral, Museu Picasso, Caminito del Rey e praias. Roteiro hora a hora, onde comer, onde dormir e o que evitar."
-respuestaCorta: 'Dedique o **primeiro dia ao centro histórico**: Alcazaba e Gibralfaro (10 € o bilhete conjunto), os telhados da Catedral, o Museu Picasso e um espeto ao pôr do sol na Malagueta. O **segundo, ao Caminito del Rey**, que **esgota com semanas de antecedência**, ou a Nerja, Ronda ou Antequera. O tour guiado ao Caminito a partir de Málaga custa desde 72 €.'
+respuestaCorta: 'Dedique o **primeiro dia ao centro histórico**: Alcazaba e Gibralfaro (10 € o bilhete conjunto), a Catedral, o Museu Picasso e um espeto ao pôr do sol na Malagueta. O **segundo, ao Caminito del Rey**, que **esgota com semanas de antecedência**, ou a Nerja, Ronda ou Antequera. O tour guiado ao Caminito a partir de Málaga custa desde 72 €.'
 categoria: "malaga"
 slug: "malaga-em-2-dias"
 fecha: "2026-02-28"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
+datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -42,7 +43,7 @@ imagen_portada: "/images/guias/malaga-en-dos-dias.jpg"
 imagen_alt: "Vista de Málaga a partir da Alcazaba"
 ---
 
-**Málaga em dois dias rende muito.** O centro histórico é compacto, plano e pedonal, por isso em 48 horas cabem a Alcazaba, o Picasso, a Catedral, a praia e, se se organizar, o Caminito del Rey. A armadilha é tratá-la só como aeroporto e praia: quem se vai embora tendo visto apenas a Malagueta perdeu a outra metade de uma cidade que em quinze anos passou de porta de passagem a capital cultural com mais de trinta museus.
+**Málaga em dois dias rende muito.** O centro histórico é compacto, plano e pedonal, por isso em 48 horas cabem a Alcazaba, o Picasso, a Catedral, a praia e, se se organizar, o Caminito del Rey. A armadilha é tratá-la só como aeroporto e praia: quem se vai embora tendo visto apenas a Malagueta perdeu a outra metade de uma cidade que em quinze anos passou de porta de passagem a capital cultural com mais de trinta museus. Se só tiver um dia, ou chegar de cruzeiro, a versão condensada está em [o que ver em Málaga num dia](/pt/guides/malaga/o-que-ver-em-malaga-num-dia).
 
 ## Reserve o principal
 
@@ -67,14 +68,14 @@ O **AVE** chega de Madrid em 2h20, de Córdova em 1h e de Sevilha em menos de 2h
 | --- | --- |
 | 9h30 | Alcazaba e Teatro Romano |
 | 11h00 | Castelo de Gibralfaro |
-| 12h30 | Catedral e telhados |
+| 12h30 | Catedral |
 | 14h00 | Almoço: Atarazanas, Carretería |
 | 16h30 | Museu Picasso e plaza de la Merced |
 | 19h30 | Muelle Uno e pôr do sol na Malagueta |
 
 - **Alcazaba:** a fortaleza palaciana andaluz mais bem conservada de Espanha, com pátios e jardins em socalcos sobre a cidade; aos seus pés, o **Teatro Romano**, que se vê de fora em cinco minutos. Uma hora e um quarto.
 - **Gibralfaro:** suba pela muralha, ou no autocarro 35 se o calor apertar, para a melhor vista do porto, da praça de touros e do mar. Meia hora.
-- **A Catedral**, «la Manquita» porque lhe falta uma torre: o melhor é a visita aos **telhados**, caminhando pela cobertura com vistas de 360°.
+- **A Catedral**, «la Manquita» porque lhe falta uma torre: a visita aos **telhados** está suspensa pelas obras do telhado até, previsivelmente, ao final de 2027. Para vistas de 360°, o plano é o castelo ou o miradouro de Gibralfaro.
 - **Museu Picasso**, mais de 200 obras no palácio de Buenavista e, a cinco minutos, a **Casa Natal** na Merced. Se quiser mais museus: Pompidou (o Cubo), Carmen Thyssen, Colección del Ruso.
 - **Muelle Uno e a Malagueta:** o porto reconvertido e um espeto de sardinhas num chiringuito ao pôr do sol, o programa mais malaguenho que existe.
 
@@ -91,7 +92,7 @@ O **Caminito del Rey**, a uma hora de Cercanías ou de carro, é um passadiço s
 | Alcazaba + Gibralfaro | 10 € conjunto (7 € cada); grátis aos domingos a partir das 14h00 | 9h00-20h00 verão, até às 18h00 inverno |
 | Museu Picasso | 13 € com audioguia; grátis para menores de 17 e para todos aos domingos nas duas últimas horas | 10h00-18h00 (19h00 primavera e outono, 20h00 julho e agosto) |
 | Casa Natal · Pompidou · Carmen Thyssen | 4 € · 9 € (fecha à terça) · 10 € (fecha à segunda) | |
-| Catedral | 10 € com audioguia; telhados, mais 10 € com guia; grátis para menores de 13 | Fecha aos domingos de manhã |
+| Catedral | 10 € com audioguia; grátis para menores de 13 | Fecha aos domingos de manhã |
 | Teatro Romano | Grátis | Fecha à segunda |
 | Caminito del Rey | 10 € por conta própria, 18 € com guia, só online; autocarro de ligação 2,50 € | Comboio para El Chorro, 45 min |
 | Transportes | Autocarro 1,40 €; C-1 para Torremolinos-Fuengirola 3,60 € a cada 20 min | Mercado de Atarazanas, 2.ª-sáb. 8h00-15h00 |

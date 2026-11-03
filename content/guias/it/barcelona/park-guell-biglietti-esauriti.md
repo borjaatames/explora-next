@@ -1,10 +1,11 @@
 ---
-titulo: 'Biglietti per il Park Güell esauriti: cosa fare e quali opzioni restano'
-descripcion: 'Se il sito ufficiale del Park Güell non ha biglietti: quando escono, come cambiare fascia oraria, i biglietti in rivendita, i tour con ingresso incluso e la parte del parco che è gratuita.'
+titulo: 'Biglietti Park Güell esauriti: cosa fare e quali opzioni restano'
+descripcion: 'Biglietti Park Güell esauriti? L''ufficiale (18 €) ha 700 posti ogni mezz''ora: prova altre fasce, la rivendita da 21,50 €, un tour o la zona gratuita.'
+metaTitle: 'Park Güell biglietti esauriti: cosa fare'
 categoria: barcelona
 slug: park-guell-biglietti-esauriti
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,10 +14,11 @@ imagen_alt: Panchina ondulata in trencadís sulla piazza della Natura del Park G
 tiempo_lectura: 4
 keywords:
 - biglietti park guell esauriti
-- park guell senza biglietti
 - park guell biglietti ultimo minuto
+- park guell senza biglietti
 - park guell esaurito cosa fare
 - park guell gratis
+- tour park guell con ingresso
 slugs:
   es: park-guell-entradas-agotadas
   en: park-guell-tickets-sold-out

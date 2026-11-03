@@ -1,10 +1,11 @@
 ---
-titulo: 'Prado Museum tickets sold out or huge queues: what to do'
-descripcion: 'If your Prado time slot is sold out or the free-hours queue looks hopeless: other times on the official site, the box office, free entry, El Prado de noche, the Paseo del Arte card and guided tours with entry.'
+titulo: 'Prado Museum tickets: price, free hours and what to do if sold out'
+descripcion: 'Prado Museum tickets cost €15 online. Free entry the last two hours daily (18:00-20:00, Sundays 17:00-19:00), how to beat the queue and what to do if sold out.'
+metaTitle: 'Prado Museum tickets: price and free hours'
 categoria: madrid
 slug: prado-museum-tickets-sold-out
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/museo-del-prado-entradas-agotadas.jpg
 imagen_alt: Façade of the Prado Museum on the Paseo del Prado, with the Velázquez Gate and the statue of the painter
 tiempo_lectura: 4
 keywords:
-- prado museum tickets sold out
-- prado museum no tickets
-- prado museum queue
-- prado museum last minute tickets
-- prado museum free entry queue
+  - 'prado museum tickets'
+  - 'prado museum tickets price'
+  - 'prado museum free entry'
+  - 'prado museum free hours'
+  - 'prado museum queue'
+  - 'prado museum tickets sold out'
 slugs:
   es: museo-del-prado-entradas-agotadas
   en: prado-museum-tickets-sold-out

@@ -4,7 +4,7 @@ descripcion: 'Tolède ou Ségovie depuis Madrid : train et bus avec durées et p
 categoria: madrid
 slug: tolede-ou-segovie-depuis-madrid
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -85,7 +85,7 @@ Ségovie se parcourt en ligne droite, et cela fait partie de son charme : vous a
 - **Le repas :** le cochon de lait rôti est la raison pour laquelle beaucoup de Madrilènes reviennent à Ségovie. Réservez une table si vous y allez le week-end.
 - **Le climat :** à environ 1 000 mètres d'altitude, il fait frais le soir en été ; en hiver, il fait vraiment froid.
 
-En cinq ou six heures, vous voyez l'essentiel sans vous presser et vous déjeunez tranquillement. C'est pourquoi Ségovie est si souvent associée à Ávila dans la même excursion, comme dans [Ávila et Ségovie avec billets inclus](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). Et si vous voulez voir l'aqueduc, la cathédrale et l'Alcazar d'un seul coup d'œil, le [vol en montgolfière au-dessus de Ségovie](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) est la manière la plus mémorable.
+En cinq ou six heures, vous voyez l'essentiel sans vous presser et vous déjeunez tranquillement ; l'itinéraire pas à pas est dans [que voir à Ségovie en une journée](/fr/guides/madrid/que-voir-a-segovie-en-une-journee). C'est pourquoi Ségovie est si souvent associée à [Ávila](/fr/guides/madrid/que-voir-a-avila-en-une-journee) dans la même excursion, comme dans [Ávila et Ségovie avec billets inclus](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). Et si vous voulez voir l'aqueduc, la cathédrale et l'Alcazar d'un seul coup d'œil, le [vol en montgolfière au-dessus de Ségovie](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) est la manière la plus mémorable.
 
 [actividad: excursion-avila-segovia-con-entradas]
 

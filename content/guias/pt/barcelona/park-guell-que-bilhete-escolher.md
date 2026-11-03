@@ -1,6 +1,7 @@
 ---
-titulo: "Park Güell: que bilhete escolher"
-descripcion: "Bilhete básico do Park Güell (21,50 €) ou bilhete com a Casa-Museu Gaudí (28 €)? O que inclui cada um, regras da entrada com hora marcada, horários e como chegar."
+titulo: 'Bilhetes Park Güell: preço e qual escolher'
+descripcion: 'Bilhetes Park Güell: básico desde 21,50 € ou com a Casa-Museu Gaudí por 28 €. O que inclui cada um, a entrada com hora marcada, os horários e como chegar.'
+metaTitle: 'Bilhetes Park Güell: preço e qual escolher'
 categoria: "barcelona"
 slug: "park-guell-que-bilhete-escolher"
 fecha: "2026-09-20"
@@ -10,11 +11,12 @@ destacada: false
 imagen_portada: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"
 imagen_alt: "Mosaicos e arquitetura de Gaudí no Park Güell, Barcelona"
 keywords:
-  - "park güell que bilhete escolher"
-  - "bilhetes park güell"
-  - "park güell preço"
-  - "park güell com guia ou sem guia"
-  - "casa-museu gaudí park güell"
+  - 'bilhetes park guell'
+  - 'park güell preço'
+  - 'park guell entrada'
+  - 'park güell casa-museu gaudí'
+  - 'park güell com guia'
+  - 'park güell horário'
 slugs:
   es: park-guell-que-entrada-elegir
   en: park-guell-which-ticket-to-choose
@@ -22,7 +24,7 @@ slugs:
   fr: park-guell-quel-billet-choisir
   it: park-guell-quale-biglietto-scegliere
   pt: park-guell-que-bilhete-escolher
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 reservasArriba: true
 respuestaCorta: 'Se só quiser a zona monumental (a escadaria do dragão, a Sala Hipóstila e o banco ondulante), chega o **bilhete básico desde 21,50 €**. Por mais 6,50 €, o **bilhete com a Casa-Museu Gaudí** (28 €) acrescenta a casa onde o arquiteto viveu. Nenhum inclui guia e **nenhum pode ser cancelado**: reserve só quando tiver os horários definidos.'
 actividades:

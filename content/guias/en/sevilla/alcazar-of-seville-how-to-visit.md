@@ -1,10 +1,11 @@
 ---
-titulo: 'Royal Alcázar of Seville: how to visit (honest 2026 guide)'
-descripcion: 'How to visit the Royal Alcázar of Seville: 2026 prices, opening hours, what to see inside, Patio de las Doncellas, Hall of Ambassadors, gardens, and common mistakes.'
+titulo: 'Real Alcázar Seville tickets: prices, hours and how to visit'
+descripcion: 'Real Alcázar Seville tickets cost €15.50 and daily capacity sells out in high season. Opening hours, best time to go, what to see inside and guided tours.'
+metaTitle: 'Real Alcázar Seville tickets: price and hours'
 categoria: sevilla
 slug: alcazar-of-seville-how-to-visit
 fecha: '2026-04-29'
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -12,11 +13,12 @@ destacada: true
 imagen_portada: /images/guias/alcazar-de-sevilla-como-visitar.jpg
 imagen_alt: "Patio interior del Real Alcazar de Sevilla"
 keywords:
-- royal alcazar seville
-- how to visit alcazar seville
-- alcazar seville tickets
-- cuarto real alto alcazar
-- alcazar seville gardens
+  - 'real alcazar seville tickets'
+  - 'alcazar seville tickets price'
+  - 'alcazar seville opening hours'
+  - 'how to visit alcazar seville'
+  - 'alcazar seville guided tour'
+  - 'royal alcazar seville'
 slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit

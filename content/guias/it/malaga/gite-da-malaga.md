@@ -5,7 +5,7 @@ respuestaCorta: 'Le migliori gite di un giorno da Malaga sono **Nerja e Frigilia
 categoria: "malaga"
 slug: "gite-da-malaga"
 fecha: "2026-04-13"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -73,7 +73,7 @@ A 45 minuti, **Antequera** custodisce i **dolmen** preistorici (Patrimonio dell'
 
 ## Ronda
 
-A un'ora e tre quarti, **Ronda** è il gioiello della sierra: una città spaccata dal **Tajo**, un burrone di 100 metri attraversato dal **Puente Nuevo**, con una delle arene più antiche di Spagna. Una delle immagini più famose del paese.
+A un'ora e tre quarti, **Ronda** è il gioiello della sierra: una città spaccata dal **Tajo**, un burrone di 100 metri attraversato dal **Puente Nuevo**, con una delle arene più antiche di Spagna. Una delle immagini più famose del paese. Cosa vedere e in che ordine, in [cosa vedere a Ronda in un giorno](/it/guides/malaga/cosa-vedere-a-ronda-in-un-giorno).
 
 ## Mijas, Marbella e la costa
 

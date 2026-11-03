@@ -1,20 +1,23 @@
 ---
-titulo: "Mezquita-Catedral von Córdoba: wie man sie besichtigt (Tickets und Tipps)"
-descripcion: "Guide zum Besuch der Mezquita-Catedral von Córdoba: Tickets und kostenloser Zeitraum, was man sieht (Säulenwald, Mihrab, Patio de los Naranjos), Turm und beste Tricks."
+titulo: 'Mezquita Córdoba: Tickets, Führung und Tipps für den Besuch'
+descripcion: 'Mezquita Córdoba Tickets: 15 € regulär, gratis Mo-Sa von 8:30 bis 9:30 Uhr, Glockenturm 4 €. Führung oder Audioguide, Säulenwald, Mihrab und die besten Tipps.'
+metaTitle: 'Mezquita Córdoba: Tickets, Preise, Führung'
 categoria: "cordoba"
 slug: "mezquita-catedral-besichtigen"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 12
 keywords:
-  - "mezquita von córdoba"
-  - "mezquita catedral tickets"
-  - "wie besucht man die mezquita von córdoba"
-  - "mihrab córdoba"
-  - "patio de los naranjos"
+  - 'mezquita córdoba tickets'
+  - 'mezquita córdoba führung'
+  - 'mezquita córdoba eintritt'
+  - 'mezquita córdoba preis'
+  - 'mezquita córdoba kostenlos'
+  - 'mezquita catedral córdoba'
+  - 'mihrab córdoba'
 slugs:
   es: mezquita-catedral-como-visitar
   en: mosque-cathedral-how-to-visit

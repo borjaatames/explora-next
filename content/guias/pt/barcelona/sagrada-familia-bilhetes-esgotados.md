@@ -1,10 +1,11 @@
 ---
-titulo: 'Bilhetes da Sagrada Família esgotados: o que fazer'
-descripcion: 'Se o site oficial da Sagrada Família não tem bilhetes: quando são postos à venda, os códigos QR do templo, os tours com quota própria, as missas e o que ver por fora.'
+titulo: 'Bilhetes Sagrada Família esgotados: o que fazer'
+descripcion: 'Bilhetes da Sagrada Família esgotados? Saem cerca de dois meses antes e não há bilheteira. Veja os códigos QR, os tours com quota própria e a missa grátis.'
+metaTitle: 'Bilhetes Sagrada Família esgotados: e agora?'
 categoria: barcelona
 slug: sagrada-familia-bilhetes-esgotados
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/sagrada-familia-entradas-agotadas.jpg
 imagen_alt: Fachada do Nascimento da Sagrada Família de Barcelona
 tiempo_lectura: 4
 keywords:
-- bilhetes sagrada família esgotados
-- sagrada família sem bilhetes
-- sagrada família bilhetes última hora
-- sagrada família esgotada o que fazer
-- missa sagrada família
+  - 'bilhetes sagrada família esgotados'
+  - 'sagrada família sem bilhetes'
+  - 'sagrada família bilhetes última hora'
+  - 'sagrada família esgotada o que fazer'
+  - 'tour sagrada família com bilhete'
+  - 'missa sagrada família'
 slugs:
   es: sagrada-familia-entradas-agotadas
   en: sagrada-familia-tickets-sold-out

@@ -1,10 +1,11 @@
 ---
-titulo: 'Entradas del Alcázar de Sevilla agotadas: qué hacer y qué opciones quedan'
-descripcion: 'Si la web oficial del Real Alcázar no tiene entradas: la taquilla del mismo día, los lunes gratis, las entradas con hora de reventa, las visitas guiadas con entrada y qué ver sin entrada.'
+titulo: 'Entradas Alcázar de Sevilla agotadas: qué hacer y qué opciones quedan'
+descripcion: 'Entradas del Alcázar de Sevilla agotadas: la taquilla guarda plazas del mismo día, los lunes hay una hora gratis y hay entradas con hora de reventa desde 20 €.'
+metaTitle: 'Entradas Alcázar Sevilla agotadas: qué hacer'
 categoria: sevilla
 slug: alcazar-de-sevilla-entradas-agotadas
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,11 @@ imagen_portada: /images/guias/alcazar-de-sevilla-entradas-agotadas.jpg
 imagen_alt: Patio de las Doncellas del Real Alcázar de Sevilla, con sus arcos mudéjares y el jardín hundido
 tiempo_lectura: 4
 keywords:
-- entradas alcázar sevilla agotadas
-- alcázar sevilla sin entradas
-- entradas alcázar sevilla última hora
-- alcázar sevilla taquilla mismo día
-- alcázar sevilla agotado qué hacer
+  - 'entradas alcázar sevilla agotadas'
+  - 'alcázar sevilla sin entradas'
+  - 'alcázar sevilla taquilla mismo día'
+  - 'alcázar sevilla lunes gratis'
+  - 'entradas alcázar sevilla última hora'
 slugs:
   es: alcazar-de-sevilla-entradas-agotadas
   en: alcazar-of-seville-tickets-sold-out

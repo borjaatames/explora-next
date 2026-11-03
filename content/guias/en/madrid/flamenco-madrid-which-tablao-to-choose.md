@@ -1,6 +1,7 @@
 ---
-titulo: "Flamenco in Madrid: Las Carboneras or Torres Bermejas?"
-descripcion: "Las Carboneras or Torres Bermejas? We compare price, atmosphere, dinner options, seating and accessibility of Madrid's two bookable flamenco tablaos."
+titulo: 'Best flamenco show in Madrid: Las Carboneras or Torres Bermejas?'
+descripcion: 'Best flamenco show in Madrid? Torres Bermejas (from €31, dinner option) vs Las Carboneras (from €45, more intimate): price, seating, atmosphere and access.'
+metaTitle: 'Best flamenco show Madrid: 2 tablaos compared'
 categoria: "madrid"
 slug: "flamenco-madrid-which-tablao-to-choose"
 fecha: "2026-09-06"
@@ -10,11 +11,12 @@ destacada: false
 imagen_portada: "/images/actividades/madrid/tablao-las-carboneras/descarga-hero.webp"
 imagen_alt: "Interior of a Madrid flamenco tablao with a live cast of performers"
 keywords:
-  - "flamenco madrid which tablao to choose"
-  - "las carboneras vs torres bermejas"
-  - "best flamenco tablao madrid"
-  - "madrid flamenco comparison"
-  - "where to see flamenco in madrid"
+  - 'best flamenco show madrid'
+  - 'flamenco show madrid'
+  - 'flamenco madrid'
+  - 'flamenco tablao madrid'
+  - 'las carboneras vs torres bermejas'
+  - 'flamenco dinner show madrid'
 slugs:
   es: flamenco-madrid-que-tablao-elegir
   en: flamenco-madrid-which-tablao-to-choose
@@ -22,7 +24,7 @@ slugs:
   fr: flamenco-madrid-quel-tablao-choisir
   it: flamenco-madrid-quale-tablao-scegliere
   pt: flamenco-madrid-que-tablao-escolher
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 reservasArriba: true
 respuestaCorta: 'Both are **one-hour shows** with a full cast. **Torres Bermejas** (from €31), by Gran Vía, is bigger and lets you add tapas or a 3-course dinner. **Las Carboneras** (from €45), in a palace basement near Plaza Mayor, is more intimate and the one marked **wheelchair accessible**. Tables go by arrival order, so **arrive 20 minutes early**.'
 opciones:

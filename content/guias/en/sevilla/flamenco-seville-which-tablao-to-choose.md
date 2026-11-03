@@ -1,21 +1,23 @@
 ---
-titulo: "Flamenco in Seville: which tablao to choose (comparing all 5 shows)"
-descripcion: "Seville's 5 bookable flamenco shows compared: price (€25–48), format, showtimes and atmosphere, so you can pick the one that actually fits you."
+titulo: 'Flamenco show in Seville: the 5 venues compared, and which is best for you'
+descripcion: 'Flamenco shows in Seville compared: five venues at €24-45, all about an hour. Which is best for intimacy, sightlines or dinner, with showtimes and atmosphere.'
+metaTitle: 'Flamenco show Seville: all 5 compared'
 categoria: "sevilla"
 slug: "flamenco-seville-which-tablao-to-choose"
 fecha: "2026-09-06"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaora-contraluz.webp"
 imagen_alt: "Flamenco dancer mid-movement during a live show in Seville"
 keywords:
-  - "flamenco seville which show to choose"
-  - "best flamenco show seville"
-  - "seville flamenco comparison"
-  - "where to see flamenco in seville"
-  - "flamenco tablao seville price"
+  - 'flamenco show seville'
+  - 'best flamenco show seville'
+  - 'flamenco seville'
+  - 'flamenco tablao seville'
+  - 'flamenco dinner show seville'
+  - 'where to see flamenco in seville'
 slugs:
   es: flamenco-sevilla-que-tablao-elegir
   en: flamenco-seville-which-tablao-to-choose

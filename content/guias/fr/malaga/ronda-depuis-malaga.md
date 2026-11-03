@@ -1,11 +1,11 @@
 ---
 titulo: "Ronda depuis Malaga : y aller en voiture, en bus, en excursion ou en privé"
 descripcion: "Comment aller de Malaga à Ronda en une journée : voiture, bus, train, excursion en groupe ou privée. Durées, prix, que voir à Ronda et comment la combiner avec Setenil."
-respuestaCorta: 'Ronda se trouve à **environ 100 km de Malaga, soit 1 h 45 en voiture**. En **bus**, comptez environ 2 heures, et il n''y a pas de train direct. Le plus simple sans voiture est une **excursion en groupe** (à partir de 44 €, avec Setenil de las Bodegas) ; en **privé**, à partir de 580 € pour 2 personnes ou 720 € pour 4. Une journée suffit pour le Tajo, le Puente Nuevo et la vieille ville.'
+respuestaCorta: 'Ronda se trouve à **environ 100 km de Malaga, soit 1 h 45 en voiture**. En **bus**, comptez environ 2 heures, et il n''y a pas de train direct. Le plus simple sans voiture est une **excursion en groupe** (à partir de 34 €, avec Setenil de las Bodegas) ; en **privé**, à partir de 580 € pour 2 personnes ou 720 € pour 4. Une journée suffit pour le Tajo, le Puente Nuevo et la vieille ville.'
 categoria: "malaga"
 slug: "ronda-depuis-malaga"
 fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -34,7 +34,7 @@ faq:
   - pregunta: "Vaut-il la peine d'aller à Ronda en une journée depuis Malaga ?"
     respuesta: "Oui. Le Tajo et le Puente Nuevo se voient en une demi-journée, et le reste du temps vous permet de parcourir la vieille ville ou d'ajouter Setenil de las Bodegas."
   - pregunta: "Quelle excursion choisir, en groupe ou privée ?"
-    respuesta: "Pour 1 ou 2 personnes, celle en groupe (à partir de 44 €). À partir de 4, la privée revient à environ 180 € par personne avec prise en charge à l'hébergement et horaires libres."
+    respuesta: "Pour 1 ou 2 personnes, celle en groupe (à partir de 34 €). À partir de 4, la privée revient à environ 180 € par personne avec prise en charge à l'hébergement et horaires libres."
   - pregunta: "Peut-on aller à Ronda avec des enfants ?"
     respuesta: "Oui, même si les belvédères du Tajo sont très hauts et que les rues de la vieille ville sont en pente : mieux vaut un porte-bébé qu'une poussette."
 ---
@@ -60,7 +60,7 @@ En train, il n'y a pas de liaison directe : il faut changer et c'est plus long q
 - **Les bains arabes**, à côté du Puente Viejo.
 - S'il vous reste du temps, **Setenil de las Bodegas**, le village aux maisons sous la roche, à 20 minutes.
 
-Si vous y allez par vos propres moyens et voulez qu'on vous raconte la ville, le [tour privé à pied de 2 heures dans Ronda](/en/cities/malaga/activities/ronda-private-walking-tour-puente-nuevo) coûte 200 € pour 2 personnes ou 260 € pour 4.
+Si vous y allez par vos propres moyens et voulez qu'on vous raconte la ville, le [tour privé à pied de 2 heures dans Ronda](/en/cities/malaga/activities/ronda-private-walking-tour-puente-nuevo) coûte 200 € pour 2 personnes ou 260 € pour 4. L'itinéraire complet, étape par étape, est dans [que voir à Ronda en une journée](/fr/guides/malaga/que-voir-a-ronda-en-une-journee).
 
 ## L'excursion privée depuis Malaga, en détail
 

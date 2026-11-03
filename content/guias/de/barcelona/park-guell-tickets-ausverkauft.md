@@ -1,10 +1,11 @@
 ---
-titulo: "Park Güell Tickets ausverkauft: was du tun kannst und welche Optionen bleiben"
-descripcion: "Die offizielle Website des Park Güell hat keine Tickets mehr? Wann neue freigeschaltet werden, wie du das Zeitfenster wechselst, Tickets über Wiederverkäufer, Touren mit Ticket und der kostenlose Teil des Parks."
+titulo: 'Park Güell Tickets ausverkauft: was du tun kannst und welche Optionen bleiben'
+descripcion: 'Park Güell Tickets ausverkauft? Offiziell 18 € für 700 Personen pro halbe Stunde. Andere Zeitfenster, Wiederverkäufer ab 21,50 €, Touren und der Gratisbereich.'
+metaTitle: 'Park Güell Tickets ausverkauft: was tun?'
 categoria: barcelona
 slug: park-guell-tickets-ausverkauft
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/park-guell-entradas-agotadas.jpg
 imagen_alt: "Geschwungene Trencadís-Bank auf der Plaça de la Natura im Park Güell"
 tiempo_lectura: 4
 keywords:
-  - "park guell tickets ausverkauft"
-  - "park guell keine tickets mehr"
-  - "park guell tickets kurzfristig"
-  - "park guell ausverkauft was tun"
-  - "park guell kostenlos"
+  - 'park güell tickets ausverkauft'
+  - 'park güell tickets'
+  - 'park guell eintritt'
+  - 'park güell tickets kurzfristig'
+  - 'park güell keine tickets mehr'
+  - 'park güell kostenlos'
 slugs:
   es: park-guell-entradas-agotadas
   en: park-guell-tickets-sold-out

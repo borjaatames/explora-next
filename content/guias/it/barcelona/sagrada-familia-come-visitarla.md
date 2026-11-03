@@ -1,11 +1,12 @@
 ---
 titulo: "Sagrada Família: come visitarla bene (biglietti ed errori)"
 descripcion: "Come visitare la Sagrada Família: prezzi ufficiali 2026, su quale torre salire, Ora del Silenzio, Anno Gaudí, dress code ed errori tipici."
+metaTitle: 'Visitare la Sagrada Família: consigli'
 respuestaCorta: 'Compra solo su **sagradafamilia.org** e con **4-6 settimane di anticipo** (a luglio e agosto, appena escono, circa due mesi prima): non c''è biglietteria. Il **biglietto base con audioguida costa 26 €** e basta per una prima visita; con torre, 36 €. Prenota la **fascia delle 9:00**, l''Ora del Silenzio, e calcola tra 1 h 30 e 2 ore all''interno.'
 categoria: "barcelona"
 slug: "sagrada-familia-come-visitarla"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -13,11 +14,12 @@ imagen_portada: "/images/guias/sagrada-familia-como-visitar.jpg"
 imagen_alt: Basilica della Sagrada Família di Barcellona con un'impressionante vista frontale delle torri e della facciata
 tiempo_lectura: 4
 keywords:
-  - "sagrada familia come visitarla"
-  - "biglietti sagrada familia"
-  - "prezzo sagrada familia"
-  - "torri sagrada familia"
-  - "anno gaudí 2026"
+  - 'visitare la sagrada familia'
+  - 'sagrada familia come visitarla'
+  - 'quale torre sagrada familia'
+  - 'sagrada familia orari'
+  - 'sagrada familia dress code'
+  - 'anno gaudí 2026'
 slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit

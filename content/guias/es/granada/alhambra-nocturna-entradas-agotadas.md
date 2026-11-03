@@ -1,11 +1,11 @@
 ---
-titulo: 'Visita nocturna a la Alhambra agotada: horarios, precios y qué opciones quedan'
-descripcion: 'Si la Alhambra de noche sale agotada: días y horarios de la nocturna de Nazaríes y Generalife, precios oficiales (12,73 € y 8,48 €), Granada Card y tours.'
-metaTitle: 'Alhambra nocturna agotada: horarios y opciones'
+titulo: 'Entradas Alhambra nocturna: horarios, precio y si se agotan'
+descripcion: 'Entradas Alhambra nocturna: los Palacios Nazaríes de noche cuestan 12,73 € y en invierno solo hay viernes y sábado. Horarios, Generalife de noche y si se agota.'
+metaTitle: 'Alhambra nocturna: entradas, horario y precio'
 categoria: granada
 slug: alhambra-nocturna-entradas-agotadas
 fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha_actualizacion: '2026-11-03'
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true
@@ -14,12 +14,13 @@ imagen_portada: /images/actividades/granada/mirador-san-nicolas/mirador-san-nico
 imagen_alt: La Alhambra al atardecer vista desde el mirador de San Nicolás, con el Palacio de Carlos V y Sierra Nevada al fondo
 tiempo_lectura: 5
 keywords:
-- alhambra nocturna entradas agotadas
-- visita nocturna alhambra
-- alhambra de noche horario
-- visita nocturna palacios nazaríes precio
-- generalife de noche
-- alhambra experiencias
+  - 'entradas alhambra nocturna'
+  - 'alhambra nocturna'
+  - 'visitar la alhambra de noche'
+  - 'visita nocturna palacios nazaríes'
+  - 'alhambra nocturna horario'
+  - 'generalife de noche'
+  - 'alhambra nocturna agotada'
 slugs:
   es: alhambra-nocturna-entradas-agotadas
   en: alhambra-night-visit-tickets-sold-out

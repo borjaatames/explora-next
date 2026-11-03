@@ -1,10 +1,11 @@
 ---
-titulo: "Alhambra: So besichtigst du sie richtig (Preise, Tickets und Fallstricke)"
-descripcion: "Die Alhambra in Granada mit Plan besichtigen: Tickettypen, offizielle Preise 2026, Uhrzeit für die Nasridenpaläste, typische Fehler."
+titulo: 'Alhambra Tickets: Preise, Tickettypen und so besichtigst du sie richtig'
+descripcion: 'Alhambra Tickets 2026: offizieller Preis 22,27 €, Verkauf bis zu drei Monate im Voraus, Uhrzeit für die Nasridenpaläste und was tun, wenn alles ausgebucht ist.'
+metaTitle: 'Alhambra Tickets 2026: Preise und Tickettypen'
 categoria: "granada"
 slug: "alhambra-besichtigen"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -13,11 +14,12 @@ imagen_portada: "/images/guias/alhambra-como-visitar.jpg"
 imagen_alt: "Luftaufnahme der Alhambra in Granada mit der Sierra Nevada im Hintergrund"
 tiempo_lectura: 14
 keywords:
-  - "alhambra besichtigen"
-  - "alhambra tickets"
-  - "alhambra preis"
-  - "nasridenpaläste"
-  - "alhambra granada"
+  - 'alhambra tickets'
+  - 'alhambra tickets preis'
+  - 'alhambra eintrittskarten'
+  - 'alhambra besichtigen'
+  - 'nasridenpaläste tickets'
+  - 'alhambra granada'
 slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit

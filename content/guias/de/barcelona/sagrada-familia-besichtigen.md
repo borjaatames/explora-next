@@ -1,10 +1,11 @@
 ---
-titulo: "Sagrada Familia: wie man sie richtig besichtigt (Tickets und Fehler)"
-descripcion: "Wie man die Sagrada Familia richtig besichtigt: offizielle Preise 2026, welchen Turm man besteigen sollte, Stunde der Stille, Gaudí-Jahr, Kleiderordnung und typische Fehler."
+titulo: 'Sagrada Familia Tickets und Besichtigung: offizielle Preise 2026, welcher Turm und typische Fehler'
+descripcion: 'Sagrada Familia Tickets: offizielle Preise 2026 (26 €, mit Turm 36 €), wann buchen, welcher Turm, Stunde der Stille, Kleiderordnung und typische Fehler.'
+metaTitle: 'Sagrada Familia Tickets: Preise und Tipps'
 categoria: "barcelona"
 slug: "sagrada-familia-besichtigen"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -12,11 +13,12 @@ imagen_portada: "/images/guias/sagrada-familia-como-visitar.jpg"
 imagen_alt: "Türme und Fassade der Sagrada Família in Barcelona"
 tiempo_lectura: 14
 keywords:
-  - "sagrada familia besichtigen"
-  - "sagrada familia tickets"
-  - "sagrada familia preis"
-  - "sagrada familia türme"
-  - "gaudí-jahr 2026"
+  - 'sagrada familia tickets'
+  - 'sagrada familia eintritt'
+  - 'sagrada familia tickets preis'
+  - 'sagrada familia besichtigen'
+  - 'sagrada familia türme'
+  - 'gaudí-jahr 2026'
 slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit

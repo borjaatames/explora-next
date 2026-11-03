@@ -4,7 +4,8 @@ descripcion: "Was man in Málaga in zwei Tagen sehen sollte: Alcazaba, Kathedral
 categoria: "malaga"
 slug: "malaga-in-zwei-tagen"
 fecha: "2026-02-28"
-fecha_actualizacion: "2026-02-28"
+fecha_actualizacion: '2026-11-03'
+datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -41,7 +42,7 @@ imagen_portada: "/images/guias/malaga-en-dos-dias.jpg"
 imagen_alt: "Blick auf Málaga von der Alcazaba"
 ---
 
-**Zwei Tage in Málaga bringen sehr viel.** Die Altstadt ist kompakt, flach und zu Fuß gut zu erkunden, sodass in gut verteilten 48 Stunden die Sehenswürdigkeiten, die Museen, der Strand und, wenn man es organisiert, auch der Caminito del Rey Platz finden. Dieser Guide trennt das Unverzichtbare vom Verzichtbaren und geht davon aus, dass du die Stadt verstehen willst, nicht nur die Sonne genießen. Málaga hat sich in fünfzehn Jahren vom reinen Durchgangstor zur Costa del Sol zu einer Kulturhauptstadt mit mehr als dreißig Museen entwickelt, und das merkt man.
+**Zwei Tage in Málaga bringen sehr viel.** Die Altstadt ist kompakt, flach und zu Fuß gut zu erkunden, sodass in gut verteilten 48 Stunden die Sehenswürdigkeiten, die Museen, der Strand und, wenn man es organisiert, auch der Caminito del Rey Platz finden. Dieser Guide trennt das Unverzichtbare vom Verzichtbaren und geht davon aus, dass du die Stadt verstehen willst, nicht nur die Sonne genießen. Málaga hat sich in fünfzehn Jahren vom reinen Durchgangstor zur Costa del Sol zu einer Kulturhauptstadt mit mehr als dreißig Museen entwickelt, und das merkt man. Hast du nur einen Tag oder kommst mit dem Kreuzfahrtschiff, findest du die kompakte Version in [Málaga an einem Tag](/de/guides/malaga/malaga-sehenswuerdigkeiten-an-einem-tag).
 
 Die Falle bei Málaga ist, die Stadt nur als Flughafen und Strand zu behandeln. Wer nur La Malagueta gesehen hat, hat die andere Hälfte verpasst: die Alcazaba, die über dem Römischen Theater thront, das Museo Picasso, die Kathedrale und eine fußgängerfreundliche Altstadt, die zu einer der angenehmsten im Süden geworden ist. Zwei Tage reichen genau für beide Seiten.
 
@@ -73,7 +74,7 @@ Vor Ort erkundet man das Zentrum **zu Fuß**: Es ist flach und fast durchgehend 
 | --- | --- |
 | 9:30 | Alcazaba und Römisches Theater |
 | 11:00 | Burg Gibralfaro (Aussicht) |
-| 12:30 | Kathedrale und Dachterrassen |
+| 12:30 | Kathedrale |
 | 14:00 | Mittagessen im Zentrum |
 | 16:30 | Museo Picasso und Plaza de la Merced |
 | 19:30 | Muelle Uno und Sonnenuntergang an der Malagueta |
@@ -82,7 +83,7 @@ Vor Ort erkundet man das Zentrum **zu Fuß**: Es ist flach und fast durchgehend 
 
 **11:00 — Burg Gibralfaro.** Über die Stadtmauer hinauf (oder mit dem Bus 35, wenn es zu heiß ist) erreichst du die **Burg**, die mit der Alcazaba verbunden ist und die besten Ausblicke auf den Hafen, die Stierkampfarena und das Meer bietet. Eine halbe Stunde oben, und die Aussicht ist den Anstieg wert.
 
-**12:30 — Kathedrale.** Steig hinunter zur **Kathedrale**, bekannt als *La Manquita* ("die Einarmige"), weil einer ihrer beiden Türme nie fertiggestellt wurde. Das Highlight ist der **Besuch der Dachterrassen**: Man geht über das Dach mit 360°-Ausblick. Buche das Kombiticket.
+**12:30 — Kathedrale.** Steig hinunter zur **Kathedrale**, bekannt als *La Manquita* ("die Einarmige"), weil einer ihrer beiden Türme nie fertiggestellt wurde. Der **Besuch der Dachterrassen** ist wegen der Bauarbeiten am Dach ausgesetzt, voraussichtlich bis Ende 2027. Den 360°-Ausblick bekommst du stattdessen auf der Burg Gibralfaro oder am Mirador de Gibralfaro.
 
 **14:00 — Mittagessen.** Tapas und frittierter Fisch im Zentrum: der **Mercado de Atarazanas** (Modernisme-Architektur mit spektakulärem Buntglasfenster) und die Tavernen der Calle Carretería. Ein Glas **süßer Málaga-Wein** in einer historischen Bodega ist die perfekte Pause.
 

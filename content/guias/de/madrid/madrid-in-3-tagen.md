@@ -4,7 +4,7 @@ descripcion: "Madrid in 3 Tagen mit Anspruch: Prado, El Escorial, Valle de Cuelg
 categoria: "madrid"
 slug: "madrid-in-3-tagen"
 fecha: "2026-02-15"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -209,6 +209,6 @@ Die Tablaos im Zentrum sind auf Express-Touristen ausgerichtet: überhöhte Prei
 
 ## Persönliches Fazit
 
-Müsste ich diese Route auf einen Satz reduzieren: **Prado plus El Escorial plus Chamberí**. Damit hast du das Madrid Philipps II., das imperiale Spanien und das gelebte Madrid. Der Rest ist gut ausgewählte Ergänzung.
+Müsste ich diese Route auf einen Satz reduzieren: **Prado plus El Escorial plus Chamberí**. Damit hast du das Madrid Philipps II., das imperiale Spanien und das gelebte Madrid. Der Rest ist gut ausgewählte Ergänzung. Hast du einen vierten Tag, lohnt sich ein Ausflug nach [Segovia](/de/guides/madrid/segovia-sehenswuerdigkeiten-tagesausflug) oder [Ávila](/de/guides/madrid/avila-sehenswuerdigkeiten-tagesausflug).
 
 Und zum Schluss der Rat, den ich meinen europäischen Freunden immer gebe: Versuch nicht, alles zu sehen. Madrid ist nicht in 3 Tagen fertig, auch nicht in 10. Behalte fünf oder sechs Dinge im Kopf, die dich wirklich berühren, und lass den Rest für den nächsten Besuch. **Du kommst wieder.**

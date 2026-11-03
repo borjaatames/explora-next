@@ -1,22 +1,24 @@
 ---
-titulo: "Sagrada Família: quale biglietto o tour scegliere (confronto)"
-descripcion: "La Sagrada Família ha 6 opzioni prenotabili separatamente: 3 dedicate solo alla basilica e 3 che la abbinano al Park Güell o ad altri monumenti di Barcellona. Confrontiamo prezzo e cosa include ciascuna."
+titulo: 'Biglietti Sagrada Família: prezzi 2026 e quale scegliere'
+descripcion: 'Biglietti Sagrada Família: l''ufficiale costa 26 € (36 € con torre), opzioni prenotabili da 34 €. Confrontiamo torri, tour guidati e combinati con il Park Güell.'
+metaTitle: 'Biglietti Sagrada Família: prezzi e opzioni'
 respuestaCorta: 'Per la sola basilica, il **biglietto con audioguida da 34 €** è l''opzione prenotabile più economica, e il **tour guidato con torre (da 75 €)** è l''unico che sale su una torre. Per aggiungere il Park Güell senza perdere la giornata, il **combinato guidato di 4 ore (da 104 €)** copre entrambi. Prenota con settimane di anticipo: l''ingresso è a fasce e **non si vende in biglietteria**.'
 categoria: "barcelona"
 slug: "sagrada-familia-quale-biglietto-scegliere"
 fecha: "2026-09-20"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"
 imagen_alt: "Facciata e interno della basilica della Sagrada Família a Barcellona"
 keywords:
-  - "sagrada familia quale biglietto scegliere"
-  - "miglior biglietto sagrada familia"
-  - "sagrada familia confronto"
-  - "sagrada familia con torre o senza torre"
-  - "sagrada familia e park guell insieme"
+- biglietti sagrada familia
+- sagrada familia prezzo biglietto
+- biglietti sagrada familia con torre
+- sagrada familia visita guidata
+- sagrada familia quale biglietto scegliere
+- sagrada familia e park guell insieme
 slugs:
   es: sagrada-familia-que-entrada-elegir
   en: sagrada-familia-which-ticket-to-choose
@@ -42,7 +44,7 @@ opciones:
     etiqueta: Gruppo ridotto
 ---
 
-La Sagrada Família si può prenotare in sette modi diversi. Se vuoi visitare solo la basilica, ci sono tre opzioni che vanno dal biglietto con audioguida alla salita su una torre. Se vuoi abbinarla al Park Güell o ad altri punti di Barcellona, ce ne sono altre quattro, e non tutte includono le stesse cose, quindi vale la pena guardare bene cosa aggiunge ciascuna prima di prenotare.
+I biglietti per la Sagrada Família si possono prenotare in sette modi diversi. Se vuoi visitare solo la basilica, ci sono tre opzioni che vanno dal biglietto con audioguida alla salita su una torre. Se vuoi abbinarla al Park Güell o ad altri punti di Barcellona, ce ne sono altre quattro, e non tutte includono le stesse cose, quindi vale la pena guardare bene cosa aggiunge ciascuna prima di prenotare.
 
 ## Quale biglietto scegliere?
 

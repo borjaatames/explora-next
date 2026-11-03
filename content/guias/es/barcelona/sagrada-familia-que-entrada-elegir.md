@@ -1,22 +1,24 @@
 ---
-titulo: "Sagrada Família: qué entrada o tour elegir (comparativa)"
-descripcion: "La Sagrada Família tiene 6 opciones reservables por separado: 3 centradas solo en la basílica y 3 que la combinan con Park Güell u otros monumentos de Barcelona. Comparamos precio y qué incluye cada una."
+titulo: 'Entradas Sagrada Familia 2026: precio y cuál elegir'
+descripcion: 'Entradas Sagrada Familia: la oficial con audioguía, 26 €; con torre, 36 €. Comparamos las 7 opciones reservables, del tour guiado al combinado con Park Güell.'
+metaTitle: 'Entradas Sagrada Familia 2026: precio y tipos'
 respuestaCorta: 'Para la basílica sola, la **entrada con audioguía desde 34 €** es la opción reservable más barata, y el **tour guiado con torre (desde 75 €)** es el único que sube a una torre. Para sumar el Park Güell sin perder el día, el **combinado guiado de 4 horas (desde 104 €)** cubre ambos. Reserva con semanas: la entrada va por franja y **no se vende en taquilla**.'
 categoria: "barcelona"
 slug: "sagrada-familia-que-entrada-elegir"
 fecha: "2026-09-20"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"
 imagen_alt: "Fachada e interior de la basílica de la Sagrada Família en Barcelona"
 keywords:
-  - "sagrada familia que entrada elegir"
-  - "mejor entrada sagrada familia"
-  - "sagrada familia comparativa"
-  - "sagrada familia con torre o sin torre"
-  - "sagrada familia y park guell juntos"
+  - 'entradas sagrada familia'
+  - 'precio entrada sagrada familia'
+  - 'sagrada familia entrada con torre'
+  - 'tipos de entrada sagrada familia'
+  - 'visita guiada sagrada familia'
+  - 'sagrada familia y park guell juntos'
 slugs:
   es: sagrada-familia-que-entrada-elegir
   en: sagrada-familia-which-ticket-to-choose

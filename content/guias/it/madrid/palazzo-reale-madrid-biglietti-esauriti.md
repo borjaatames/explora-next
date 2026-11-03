@@ -1,10 +1,11 @@
 ---
-titulo: 'Biglietti del Palazzo Reale di Madrid esauriti: cosa fare'
-descripcion: 'Se il sito ufficiale del Palazzo Reale non ha biglietti: la biglietteria, la visita guidata ufficiale, l''ingresso gratuito del pomeriggio, i tour con ingresso incluso e cosa vedere da fuori.'
+titulo: 'Palazzo Reale di Madrid biglietti: prezzo, ingresso gratuito e cosa fare se esauriti'
+descripcion: 'Palazzo Reale di Madrid biglietti: 18 € sul sito ufficiale, 26 € con visita guidata, gratis per cittadini UE nelle ultime due ore. E cosa fare se sono esauriti.'
+metaTitle: 'Palazzo Reale Madrid biglietti: prezzo 2026'
 categoria: madrid
 slug: palazzo-reale-madrid-biglietti-esauriti
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,10 +13,11 @@ imagen_portada: /images/guias/palacio-real-madrid-entradas-agotadas.jpg
 imagen_alt: La facciata sud del Palazzo Reale di Madrid dalla plaza de la Armería
 tiempo_lectura: 4
 keywords:
+- palazzo reale madrid biglietti
+- palazzo reale madrid prezzo
+- palazzo reale madrid gratis
+- palazzo reale madrid visita guidata
 - biglietti palazzo reale esauriti
-- palazzo reale madrid senza biglietti
-- palazzo reale biglietti ultimo minuto
-- palazzo reale gratis
 - biglietteria palazzo reale madrid
 slugs:
   es: palacio-real-madrid-entradas-agotadas

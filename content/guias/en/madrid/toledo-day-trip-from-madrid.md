@@ -1,10 +1,11 @@
 ---
-titulo: "Toledo from Madrid in one day: a three-cultures day trip"
-descripcion: "Toledo in a day from Madrid: train, car or bus, a timed route, ticket prices, the 7-monument bracelet, where to eat and what to skip."
+titulo: 'Toledo day trip from Madrid: what to see in one day'
+descripcion: 'Toledo day trip from Madrid: what to see in one day, a timed route from the Cathedral (€12) to the Jewish Quarter, the €14 bracelet and where to eat.'
+metaTitle: 'Toledo day trip from Madrid: one-day route'
 categoria: "madrid"
 slug: "toledo-day-trip-from-madrid"
 fecha: "2026-04-02"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
 imagen_alt: The Alcázar of Toledo, Spain
 tiempo_lectura: 5
 keywords:
-  - "toledo day trip"
-  - "toledo from madrid"
-  - "what to see in toledo in a day"
-  - "how to get to toledo from madrid"
-  - "day trips from madrid"
+  - 'toledo day trip from madrid'
+  - 'toledo in one day'
+  - 'what to see in toledo in one day'
+  - 'things to do in toledo'
+  - 'toledo one day itinerary'
+  - 'day trips from madrid'
 slugs:
   es: escapadas-desde-madrid-toledo
   en: toledo-day-trip-from-madrid
@@ -52,7 +54,7 @@ Seventy kilometers from Madrid sits an intact medieval city: **Toledo**, where J
 
 ## How to get there
 
-- **Avant high-speed train from Atocha:** 33 minutes, roughly hourly from about 6:50 AM, last return around 9:30 PM; **€22–26 return**. Early trains sell out, so book on Renfe. Toledo station is a 20-minute uphill walk from the old town; take bus 5 or a taxi (€6–8).
+- **Avant high-speed train from Atocha:** 33 minutes, roughly hourly from about 6:50 AM, last return around 9:30 PM; **€22–26 return**. Early trains sell out, so book on Renfe. Toledo station is a 20-minute uphill walk from the old town; take bus 5 or a taxi (€6–8). Timetables and fares are in our [Madrid to Toledo train guide](/en/guides/madrid/madrid-to-toledo-train).
 - **Car:** 1 hour on the A-42 (free) or AP-41 (toll). It's the only way to stop easily at the **Mirador del Valle**. Don't drive into the old town: access is controlled by number plate and fines are steep. Park at **Safont** (€1/hour, or free if you validate a purchase at participating shops), next to the free escalators up to the old town, or at **Cardenal**, by the Puerta de Bisagra.
 - **Alsa bus** from Plaza Elíptica: 1 hour, about **€11 return**, every 30 minutes at peak times; last return around 10 PM.
 - **Organized tour:** €45–70 with transport, guide and tickets, 8–9 hours. Worth it in a group or without a car; a couple with a car is better off alone.
@@ -103,4 +105,4 @@ Toledo empties once the day-trippers leave. Stay in the **old town** (parador an
 
 ## Other day trips within an hour
 
-**El Escorial and the Valley of Cuelgamuros** (see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days)), **Segovia** (aqueduct, alcázar, roast suckling pig), **Aranjuez** (royal palace and gardens, best in spring), **Ávila** (intact walls, colder) and **Alcalá de Henares** (Cervantes' birthplace, fewer visitors). With only one day, choose Toledo. Still torn between Toledo and Segovia? [Toledo or Segovia?](/en/guides/madrid/toledo-or-segovia-from-madrid) compares the two trips side by side.
+**El Escorial and the Valley of Cuelgamuros** (see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days)), **Segovia** (aqueduct, alcázar, roast suckling pig; see our [Segovia day trip](/en/guides/madrid/segovia-day-trip-from-madrid) route), **Aranjuez** (royal palace and gardens, best in spring), **Ávila** (intact walls, colder; see the [Ávila day trip](/en/guides/madrid/avila-day-trip-from-madrid)) and **Alcalá de Henares** (Cervantes' birthplace, fewer visitors). With only one day, choose Toledo. Still torn between Toledo and Segovia? [Toledo or Segovia?](/en/guides/madrid/toledo-or-segovia-from-madrid) compares the two trips side by side.

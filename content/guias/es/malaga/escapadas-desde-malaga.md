@@ -5,7 +5,7 @@ respuestaCorta: 'Las mejores escapadas de un día desde Málaga son **Nerja y Fr
 categoria: "malaga"
 slug: "escapadas-desde-malaga"
 fecha: "2026-04-13"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -73,7 +73,7 @@ A 45 minutos, **Antequera** guarda los **dólmenes** prehistóricos (Patrimonio 
 
 ## Ronda
 
-A hora y tres cuartos, **Ronda** es la joya serrana: una ciudad partida por el **Tajo**, un barranco de 100 metros cruzado por el **Puente Nuevo**, con una de las plazas de toros más antiguas de España. Una de las estampas más famosas del país.
+A hora y tres cuartos, **Ronda** es la joya serrana: una ciudad partida por el **Tajo**, un barranco de 100 metros cruzado por el **Puente Nuevo**, con una de las plazas de toros más antiguas de España. Una de las estampas más famosas del país. Qué ver allí y en qué orden, en [qué ver en Ronda en un día](/guias/malaga/que-ver-en-ronda-en-un-dia).
 
 ## Mijas, Marbella y la costa
 

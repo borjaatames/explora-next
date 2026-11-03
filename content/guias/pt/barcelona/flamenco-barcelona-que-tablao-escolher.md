@@ -1,22 +1,24 @@
 ---
-titulo: "Flamenco em Barcelona: que tablao escolher (comparação dos 4 espetáculos)"
-descripcion: "Comparamos os 4 espetáculos de flamenco de Barcelona: preço de cada bilhete, horários, jantar, crianças e acessibilidade. De 25 € num teatro a 88 € com jantar."
+titulo: 'Flamenco em Barcelona: que tablao escolher (4 espetáculos comparados)'
+descripcion: 'Flamenco em Barcelona: comparamos os 4 espetáculos, de 25 € no Teatro City Hall a 88 € com jantar no Tablao de Carmen. Horários, crianças e acessibilidade.'
+metaTitle: 'Flamenco em Barcelona: que tablao escolher'
 categoria: "barcelona"
 slug: "flamenco-barcelona-que-tablao-escolher"
 fecha: "2026-09-06"
 autor: Borja
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-flamenco-bailaor-hero.webp"
 imagen_alt: "Bailarino de flamenco em pleno espetáculo num tablao de Barcelona"
 keywords:
-  - "flamenco barcelona que tablao escolher"
-  - "melhor espetáculo de flamenco barcelona"
-  - "flamenco barcelona comparação"
-  - "onde ver flamenco em barcelona"
-  - "tablao flamenco barcelona preço"
+  - 'flamenco barcelona'
+  - 'espetáculo flamenco barcelona'
+  - 'melhor tablao flamenco barcelona'
+  - 'flamenco barcelona preço'
+  - 'onde ver flamenco em barcelona'
+  - 'tablao cordobés barcelona'
 slugs:
   es: flamenco-barcelona-que-tablao-elegir
   en: flamenco-barcelona-which-tablao-to-choose

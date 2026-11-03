@@ -1,10 +1,11 @@
 ---
-titulo: 'Billets du Palais royal de Madrid épuisés : que faire'
-descripcion: 'Si le site officiel du Palais royal n''a plus de billets : le guichet, la visite guidée officielle, l''entrée gratuite en fin de journée, les visites avec billet inclus et ce qu''on voit de l''extérieur.'
+titulo: 'Billet Palais royal de Madrid : prix, entrée gratuite et si c''est complet'
+descripcion: 'Palais royal de Madrid : billet à 18 € en ligne, visite guidée officielle 26 €, gratuit du lundi au jeudi en fin de journée (UE) et que faire si c''est complet.'
+metaTitle: 'Palais royal Madrid billet : prix et gratuité'
 categoria: madrid
 slug: palais-royal-madrid-billets-epuises
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/palacio-real-madrid-entradas-agotadas.jpg
 imagen_alt: La façade sud du Palais royal de Madrid vue depuis la place de l'Armería
 tiempo_lectura: 4
 keywords:
-- billets palais royal madrid epuises
-- palais royal madrid sans billet
-- palais royal billets derniere minute
-- palais royal madrid gratuit
-- guichet palais royal madrid
+  - 'palais royal madrid billet'
+  - 'billet palais royal madrid'
+  - 'palais royal madrid prix'
+  - 'palais royal madrid gratuit'
+  - 'visite guidée palais royal madrid'
+  - 'billets palais royal madrid épuisés'
 slugs:
   es: palacio-real-madrid-entradas-agotadas
   en: royal-palace-madrid-tickets-sold-out

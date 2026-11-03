@@ -4,7 +4,7 @@ descripcion: 'Toledo o Segovia desde Madrid: tren y autobús con tiempos y preci
 categoria: madrid
 slug: toledo-o-segovia-desde-madrid
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -85,7 +85,7 @@ Segovia se recorre en línea recta, y eso es parte de su encanto: llegas al **ac
 - **La comida:** el cochinillo asado es la razón por la que muchos madrileños vuelven a Segovia. Reserva mesa si vas en fin de semana.
 - **El clima:** a unos 1.000 metros de altitud, en verano refresca al atardecer; en invierno hace frío de verdad.
 
-Con cinco o seis horas ves lo esencial sin prisas y comes con calma. Por eso Segovia se combina tan a menudo con Ávila en la misma excursión, como en [Ávila y Segovia con entradas incluidas](/ciudades/madrid/actividades/excursion-avila-segovia-con-entradas). Y si quieres ver acueducto, Catedral y Alcázar a la vez, el [vuelo en globo sobre Segovia](/ciudades/madrid/actividades/vuelo-globo-segovia) es la manera más memorable.
+Con cinco o seis horas ves lo esencial sin prisas y comes con calma; la ruta paso a paso está en [qué ver en Segovia en un día](/guias/madrid/que-ver-en-segovia-en-un-dia). Por eso Segovia se combina tan a menudo con [Ávila](/guias/madrid/que-ver-en-avila-en-un-dia) en la misma excursión, como en [Ávila y Segovia con entradas incluidas](/ciudades/madrid/actividades/excursion-avila-segovia-con-entradas). Y si quieres ver acueducto, Catedral y Alcázar a la vez, el [vuelo en globo sobre Segovia](/ciudades/madrid/actividades/vuelo-globo-segovia) es la manera más memorable.
 
 [actividad: excursion-avila-segovia-con-entradas]
 

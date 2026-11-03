@@ -1,11 +1,11 @@
 ---
-titulo: 'Visite nocturne de l''Alhambra complète : horaires, prix et options restantes'
-descripcion: 'Si l''Alhambra de nuit affiche complet : jours et horaires des visites nocturnes des palais nasrides et du Generalife, prix officiels (12,73 € et 8,48 €), Granada Card et visites guidées.'
-metaTitle: 'Alhambra de nuit complète : horaires et options'
+titulo: 'Alhambra de nuit : billets, horaires et prix de la visite nocturne'
+descripcion: 'Alhambra de nuit : visite nocturne des palais nasrides à 12,73 € et du Generalife à 8,48 €, jours et horaires selon la saison, et que faire si c''est complet.'
+metaTitle: 'Alhambra de nuit : billets, horaires et prix'
 categoria: granada
 slug: alhambra-visite-nocturne-billets-epuises
 fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha_actualizacion: '2026-11-03'
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true
@@ -14,12 +14,13 @@ imagen_portada: /images/actividades/granada/mirador-san-nicolas/mirador-san-nico
 imagen_alt: L'Alhambra au coucher du soleil vue depuis le Mirador de San Nicolás, avec le palais de Charles Quint et la Sierra Nevada en arrière-plan
 tiempo_lectura: 5
 keywords:
-- alhambra visite nocturne complet
-- visite nocturne alhambra
-- alhambra de nuit horaires
-- visite nocturne palais nasrides prix
-- generalife de nuit
-- alhambra experiencias
+  - 'alhambra de nuit'
+  - 'visite nocturne alhambra'
+  - 'billet alhambra de nuit'
+  - 'alhambra de nuit horaires'
+  - 'visite nocturne palais nasrides prix'
+  - 'generalife de nuit'
+  - 'alhambra visite nocturne complet'
 slugs:
   es: alhambra-nocturna-entradas-agotadas
   en: alhambra-night-visit-tickets-sold-out

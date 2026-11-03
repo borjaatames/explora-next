@@ -4,7 +4,7 @@ descripcion: "4 dias com base em Madrid: 2 de cidade (Palácio Real, Prado, Reti
 categoria: "madrid"
 slug: "madrid-toledo-segovia-em-4-dias"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -94,7 +94,7 @@ Quatro dias com base fixa em Madrid é a forma mais cómoda de ver três cidades
 
 ## Dia 3: Toledo
 
-**8h30-9h30 — Avant a partir de Atocha** (33 minutos; partidas de hora a hora desde as 6h50). A estação de Toledo fica a 20 minutos a pé do centro histórico, a subir: apanhe o autocarro 5 ou um táxi (6-8 €). Sem comboio, autocarro da Alsa a partir da Plaza Elíptica (1 hora, cerca de 11 € ida e volta).
+**8h30-9h30 — Avant a partir de Atocha** (33 minutos; partidas de hora a hora desde as 6h50). A estação de Toledo fica a 20 minutos a pé do centro histórico, a subir: apanhe o autocarro 5 ou um táxi (6-8 €); horários e preços do comboio em [comboio Madrid–Toledo](/pt/guides/madrid/comboio-madrid-toledo). Sem comboio, autocarro da Alsa a partir da Plaza Elíptica (1 hora, cerca de 11 € ida e volta).
 
 **10h00 — Catedral Primaz** (12 €, 1h30; de segunda a sábado das 10h00 às 18h30, último acesso às 18h00): a Custódia de Arfe, o Transparente e a sacristia com os Grecos. Depois, **Santo Tomé** (*O Enterro do Conde de Orgaz*, 30 minutos) e **Santa María la Blanca**. A **pulseira turística** (14 €) dá entrada em sete monumentos de 4 € cada e compensa a partir do quarto:
 
@@ -122,7 +122,7 @@ Se preferir ir com tudo resolvido, a excursão de dia inteiro inclui autocarro, 
 
 **14h30 — Leitão assado**, a razão pela qual muitos madrilenos voltam a Segóvia. Reserve se for fim de semana.
 
-**Tarde:** desça pelo bairro de los Caballeros ou pela judiaria até ao aqueduto e regresse a Madrid sem pressa. Segóvia fica a cerca de 1.000 metros: leve agasalho de outubro a abril.
+**Tarde:** desça pelo bairro de los Caballeros ou pela judiaria até ao aqueduto e regresse a Madrid sem pressa. Segóvia fica a cerca de 1.000 metros: leve agasalho de outubro a abril. Mais paragens e tempos de visita em [o que ver em Segóvia num dia](/pt/guides/madrid/o-que-ver-em-segovia-num-dia).
 
 Para quem não quer organizar nada, a excursão de Ávila e Segóvia com bilhetes inclui as duas muralhas e o Alcázar no mesmo dia; e, para algo diferente, o [voo de balão sobre Segóvia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) ao amanhecer, com pequeno-almoço e cava (desde 205 €).
 

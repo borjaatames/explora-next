@@ -1,10 +1,11 @@
 ---
-titulo: 'Park Güell tickets sold out: what to do and the options left'
-descripcion: 'If the official Park Güell website has no tickets: when they go on sale, changing your slot, resale tickets, tours with entry included and the part of the park that is free.'
+titulo: 'Park Güell tickets sold out: what to do and the free part of the park'
+descripcion: 'Park Güell tickets sold out? Official tickets (€18) go on sale up to three months ahead. Try other slots, resale from €21.50, tours with entry or the free zone.'
+metaTitle: 'Park Güell tickets sold out: what to do'
 categoria: barcelona
 slug: park-guell-tickets-sold-out
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/park-guell-entradas-agotadas.jpg
 imagen_alt: Serpentine trencadís bench on the Nature Square at Park Güell
 tiempo_lectura: 4
 keywords:
-- park guell tickets sold out
-- park guell no tickets
-- park guell last minute tickets
-- park guell sold out what to do
-- park guell free
+  - 'park guell tickets sold out'
+  - 'park guell sold out'
+  - 'park guell last minute tickets'
+  - 'park guell free entry'
+  - 'park guell free area'
+  - 'park guell tour with tickets'
 slugs:
   es: park-guell-entradas-agotadas
   en: park-guell-tickets-sold-out

@@ -1,10 +1,11 @@
 ---
-titulo: 'Real Alcázar de Sevilla: cómo visitarlo (guía honesta 2026)'
-descripcion: 'Cómo visitar el Real Alcázar de Sevilla: precios 2026, horarios, qué ver dentro, Patio de las Doncellas, Salón de Embajadores, jardines y errores típicos.'
+titulo: 'Entradas Real Alcázar de Sevilla: precio y cómo visitarlo (2026)'
+descripcion: 'Entradas Real Alcázar de Sevilla: 15,50 € la general y gratis los lunes a última hora. Horarios 2026, qué ver dentro, cuánto tiempo hace falta y si ir con guía.'
+metaTitle: 'Entradas Alcázar Sevilla: precio y horarios'
 categoria: sevilla
 slug: alcazar-de-sevilla-como-visitar
 fecha: '2026-04-29'
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/alcazar-de-sevilla-como-visitar.jpg
 imagen_alt: "Patio interior del Real Alcazar de Sevilla"
 tiempo_lectura: 3
 keywords:
-- real alcázar sevilla
-- cómo visitar alcázar sevilla
-- entradas alcázar sevilla
-- cuarto real alto alcázar
-- jardines alcázar sevilla
+  - 'entradas alcázar sevilla'
+  - 'real alcázar sevilla'
+  - 'precio entrada alcázar sevilla'
+  - 'horario alcázar sevilla'
+  - 'alcázar sevilla visita guiada'
+  - 'jardines alcázar sevilla'
 slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit

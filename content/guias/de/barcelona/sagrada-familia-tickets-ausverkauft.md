@@ -1,10 +1,11 @@
 ---
-titulo: "Sagrada Familia Tickets ausverkauft: was du jetzt tun kannst"
-descripcion: "Die offizielle Website der Sagrada Familia hat keine Tickets mehr? Wann neue freigeschaltet werden, die QR-Codes an der Basilika, Touren mit eigenem Kontingent, die Messen und was du von außen siehst."
+titulo: 'Sagrada Familia Tickets ausverkauft: was du jetzt noch tun kannst'
+descripcion: 'Sagrada Familia Tickets ausverkauft? Neue Tickets kommen etwa zwei Monate vorher, dazu QR-Codes vor Ort, Touren mit eigenem Kontingent und die Messe um 9 Uhr.'
+metaTitle: 'Sagrada Familia Tickets ausverkauft: was tun?'
 categoria: barcelona
 slug: sagrada-familia-tickets-ausverkauft
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,13 @@ imagen_portada: /images/guias/sagrada-familia-entradas-agotadas.jpg
 imagen_alt: "Geburt-Christi-Fassade der Sagrada Familia in Barcelona"
 tiempo_lectura: 4
 keywords:
-  - "sagrada familia tickets ausverkauft"
-  - "sagrada familia keine tickets mehr"
-  - "sagrada familia tickets kurzfristig"
-  - "sagrada familia ausverkauft was tun"
-  - "sagrada familia messe"
+  - 'sagrada familia tickets ausverkauft'
+  - 'sagrada familia tickets'
+  - 'sagrada familia eintritt'
+  - 'sagrada familia tickets kurzfristig'
+  - 'sagrada familia keine tickets mehr'
+  - 'sagrada familia tour mit ticket'
+  - 'sagrada familia messe'
 slugs:
   es: sagrada-familia-entradas-agotadas
   en: sagrada-familia-tickets-sold-out

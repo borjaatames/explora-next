@@ -1,11 +1,11 @@
 ---
-titulo: 'Visita noturna à Alhambra esgotada: horários, preços e que opções restam'
-descripcion: 'Se a Alhambra à noite aparecer esgotada: dias e horários da noturna dos Nasridas e do Generalife, preços oficiais (12,73 € e 8,48 €), Granada Card e tours.'
-metaTitle: 'Alhambra noturna esgotada: horários e opções'
+titulo: 'Alhambra à noite: horários, preços e o que fazer se estiver esgotada'
+descripcion: 'Visita noturna à Alhambra: dias e horários dos Nasridas e do Generalife à noite, preço oficial de 12,73 € e que opções restam se aparecer esgotada.'
+metaTitle: 'Alhambra à noite: horários, preço e bilhetes'
 categoria: granada
 slug: alhambra-visita-noturna-bilhetes-esgotados
 fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha_actualizacion: '2026-11-03'
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true
@@ -14,12 +14,13 @@ imagen_portada: /images/actividades/granada/mirador-san-nicolas/mirador-san-nico
 imagen_alt: A Alhambra ao entardecer vista do miradouro de San Nicolás, com o Palácio de Carlos V e a Serra Nevada ao fundo
 tiempo_lectura: 5
 keywords:
-- alhambra noturna bilhetes esgotados
-- visita noturna alhambra
-- alhambra à noite horário
-- visita noturna palácios nasridas preço
-- generalife à noite
-- alhambra experiências
+  - 'alhambra à noite'
+  - 'visita noturna alhambra'
+  - 'alhambra noturna bilhetes'
+  - 'alhambra noturna horário'
+  - 'visita noturna palácios nasridas preço'
+  - 'generalife à noite'
+  - 'alhambra noturna esgotada'
 slugs:
   es: alhambra-nocturna-entradas-agotadas
   en: alhambra-night-visit-tickets-sold-out

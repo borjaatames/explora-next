@@ -1,20 +1,22 @@
 ---
-titulo: "Mosquée-cathédrale de Cordoue : comment la visiter (billets et conseils)"
-descripcion: "Comment visiter la Mosquée-cathédrale de Cordoue : prix 2026, le créneau gratuit de 8 h 30, les horaires du dimanche, le clocher, que voir à l'intérieur et quelle visite réserver."
+titulo: 'Mosquée de Cordoue : billet, visite guidée et horaires pour la visiter'
+descripcion: 'Mosquée de Cordoue : billet à 15 €, entrée gratuite du lundi au samedi de 8 h 30 à 9 h 30, horaires du dimanche, clocher et visite guidée dès 32 €.'
+metaTitle: 'Mosquée de Cordoue : billet et visite guidée'
 categoria: "cordoba"
 slug: "mosquee-cathedrale-cordoue-comment-la-visiter"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 4
 keywords:
-  - "mosquée de cordoue"
-  - "billets mosquée-cathédrale de cordoue"
-  - "comment visiter la mosquée de cordoue"
-  - "mihrab de cordoue"
-  - "cour des orangers cordoue"
+  - 'mosquée de cordoue'
+  - 'billet mosquée de cordoue'
+  - 'visite guidée mosquée de cordoue'
+  - 'mosquée cathédrale cordoue horaires'
+  - 'mosquée de cordoue prix'
+  - 'mosquée de cordoue gratuit'
 slugs:
   es: mezquita-catedral-como-visitar
   en: mosque-cathedral-how-to-visit

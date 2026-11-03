@@ -1,10 +1,11 @@
 ---
-titulo: 'Bilhetes do Park Güell esgotados: o que fazer e que opções restam'
-descripcion: 'Se o site oficial do Park Güell não tem bilhetes: quando são postos à venda, como mudar de horário, os bilhetes de revenda, os tours com entrada incluída e a parte do parque que é gratuita.'
+titulo: 'Bilhetes Park Güell esgotados: o que fazer e que opções restam'
+descripcion: 'Bilhetes do Park Güell esgotados? Saem até três meses antes, com 700 lugares por meia hora. Veja outros horários, revenda, tours com entrada e a zona gratuita.'
+metaTitle: 'Bilhetes Park Güell esgotados: o que fazer'
 categoria: barcelona
 slug: park-guell-bilhetes-esgotados
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/park-guell-entradas-agotadas.jpg
 imagen_alt: Banco ondulado de trencadís na praça da Natureza do Park Güell
 tiempo_lectura: 4
 keywords:
-- bilhetes park guell esgotados
-- park guell sem bilhetes
-- park guell bilhetes última hora
-- park guell esgotado o que fazer
-- park guell grátis
+  - 'bilhetes park guell esgotados'
+  - 'park guell sem bilhetes'
+  - 'park guell bilhetes última hora'
+  - 'park guell esgotado o que fazer'
+  - 'park guell grátis'
+  - 'park guell zona gratuita'
 slugs:
   es: park-guell-entradas-agotadas
   en: park-guell-tickets-sold-out

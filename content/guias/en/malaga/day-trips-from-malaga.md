@@ -4,7 +4,7 @@ descripcion: "The best day trips from Málaga: Ronda, Nerja and Frigiliana, Ante
 categoria: "malaga"
 slug: "day-trips-from-malaga"
 fecha: "2026-04-13"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 respuestaCorta: 'The best day trips from Málaga are **Nerja and Frigiliana** (an hour by bus, caves from €15.50), **Antequera and El Torcal** (45 minutes), **Ronda** (about 2 hours by bus) and **Gibraltar** (bring a passport or EU ID). Do one per day: Ronda and Gibraltar each need a full day, and organised trips start at €35.'
 autor: Borja
 publicada: true
@@ -77,7 +77,7 @@ Forty-five minutes away, **Antequera** holds the prehistoric **dolmens** (a UNES
 
 ## Ronda
 
-An hour and three quarters away, **Ronda** is the mountain jewel: a city split by **El Tajo**, a 100-metre gorge crossed by the **Puente Nuevo**, with one of the oldest bullrings in Spain. One of the most famous images in the country.
+An hour and three quarters away, **Ronda** is the mountain jewel: a city split by **El Tajo**, a 100-metre gorge crossed by the **Puente Nuevo**, with one of the oldest bullrings in Spain. One of the most famous images in the country. What to see there and in what order is in [Ronda in one day](/en/guides/malaga/ronda-in-one-day).
 
 ## Mijas, Marbella and the coast
 

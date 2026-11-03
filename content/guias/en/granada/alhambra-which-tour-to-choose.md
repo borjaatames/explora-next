@@ -1,21 +1,23 @@
 ---
-titulo: "Alhambra: which tour to choose (and why most of them are the same tour at a different price)"
-descripcion: "Most Alhambra guided tours are the same 3-hour route at €50–96. We show which listings are identical and which are different: night, private, gardens only."
+titulo: 'Alhambra guided tour: which one to book (most are the same tour)'
+descripcion: 'Most Alhambra guided tours are the same 3-hour route at €50-96. Which listings are identical, which really differ (night, private, gardens) and the one to book.'
+metaTitle: 'Alhambra guided tour: which one to book'
 categoria: "granada"
 slug: "alhambra-which-tour-to-choose"
 fecha: "2026-09-06"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp"
 imagen_alt: "Muqarnas archway with Arabic inscriptions in the Nasrid Palaces of the Alhambra"
 keywords:
-  - "alhambra which tour to choose"
-  - "best alhambra tour"
-  - "alhambra guided tour comparison"
-  - "alhambra official tickets"
-  - "alhambra night tour or day tour"
+  - 'alhambra guided tour'
+  - 'alhambra tour'
+  - 'best alhambra tour'
+  - 'alhambra guided tour price'
+  - 'alhambra tour with tickets'
+  - 'alhambra private tour'
 slugs:
   es: alhambra-que-tour-elegir
   en: alhambra-which-tour-to-choose

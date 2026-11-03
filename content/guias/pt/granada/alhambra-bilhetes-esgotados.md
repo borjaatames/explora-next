@@ -1,10 +1,11 @@
 ---
-titulo: 'Bilhetes da Alhambra esgotados: o que fazer e que opções restam'
-descripcion: 'Se o site oficial da Alhambra não tiver bilhetes: os de última hora, o Granada Card, a visita noturna, as visitas guiadas com bilhete e o que ver sem bilhete.'
+titulo: 'Bilhetes Alhambra esgotados: o que fazer e que opções restam'
+descripcion: 'Bilhetes Alhambra esgotados? Veja na véspera, entre as 20h00 e as 22h00, a quota do Granada Card, a visita noturna e as visitas guiadas com bilhete incluído.'
+metaTitle: 'Bilhetes Alhambra esgotados: o que fazer'
 categoria: granada
 slug: alhambra-bilhetes-esgotados
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/alhambra-entradas-agotadas.jpg
 imagen_alt: Pátio dos Leões nos Palácios Nasridas da Alhambra
 tiempo_lectura: 4
 keywords:
-- bilhetes alhambra esgotados
-- alhambra sem bilhetes
-- bilhetes alhambra última hora
-- alhambra esgotada o que fazer
-- granada card alhambra
+  - 'bilhetes alhambra esgotados'
+  - 'alhambra sem bilhetes'
+  - 'bilhetes alhambra última hora'
+  - 'alhambra esgotada o que fazer'
+  - 'granada card alhambra'
+  - 'alhambra bilheteira'
 slugs:
   es: alhambra-entradas-agotadas
   en: alhambra-tickets-sold-out

@@ -1,10 +1,11 @@
 ---
-titulo: "Alcázar von Sevilla Tickets ausverkauft: was tun und welche Optionen bleiben"
-descripcion: "Wenn die offizielle Website des Real Alcázar keine Tickets mehr hat: die Tageskasse, die kostenlosen Montage, Tickets mit Uhrzeit über Wiederverkäufer, Führungen mit Ticket und was du ohne Ticket sehen kannst."
+titulo: 'Alcázar Sevilla Tickets ausverkauft: was tun und welche Optionen bleiben'
+descripcion: 'Alcázar Sevilla Tickets ausverkauft? Die Kasse am Patio de Banderas hält Tickets für denselben Tag zurück. Dazu Gratisstunde am Montag und Führungen mit Ticket.'
+metaTitle: 'Alcázar Sevilla Tickets ausverkauft: was tun?'
 categoria: sevilla
 slug: alcazar-sevilla-tickets-ausverkauft
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/alcazar-de-sevilla-entradas-agotadas.jpg
 imagen_alt: "Patio de las Doncellas im Real Alcázar von Sevilla mit seinen Mudéjar-Bögen und dem abgesenkten Garten"
 tiempo_lectura: 4
 keywords:
-- "alcazar sevilla tickets ausverkauft"
-- "alcazar sevilla tickets"
-- "alcazar sevilla tageskasse"
-- "alcazar sevilla tickets kurzfristig"
-- "alcazar sevilla kostenlos"
+  - 'alcazar sevilla tickets ausverkauft'
+  - 'alcazar sevilla tageskasse'
+  - 'alcazar sevilla tickets kurzfristig'
+  - 'alcazar sevilla keine tickets mehr'
+  - 'alcazar sevilla kostenlos'
+  - 'alcazar sevilla führung mit ticket'
 slugs:
   es: alcazar-de-sevilla-entradas-agotadas
   en: alcazar-of-seville-tickets-sold-out

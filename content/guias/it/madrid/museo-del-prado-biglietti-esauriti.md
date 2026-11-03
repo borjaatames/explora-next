@@ -1,10 +1,11 @@
 ---
-titulo: 'Museo del Prado biglietti esauriti o code enormi: cosa fare'
-descripcion: 'Se la tua fascia oraria al Prado è esaurita o la coda dell''ingresso gratuito sembra infinita: altri orari sul sito ufficiale, biglietteria, ingresso gratis, El Prado de noche, Paseo del Arte e visite guidate con ingresso.'
+titulo: 'Museo del Prado biglietti: prezzo, ingresso gratuito e cosa fare se esauriti'
+descripcion: 'Museo del Prado biglietti: 15 € online e gratis nelle ultime due ore di ogni giorno. Cosa fare se la tua fascia è esaurita o la coda gratuita è infinita.'
+metaTitle: 'Museo del Prado biglietti: prezzo e gratis'
 categoria: madrid
 slug: museo-del-prado-biglietti-esauriti
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/museo-del-prado-entradas-agotadas.jpg
 imagen_alt: Facciata del Museo del Prado sul Paseo del Prado, con la Porta di Velázquez e la statua del pittore
 tiempo_lectura: 4
 keywords:
-- museo del prado biglietti esauriti
 - museo del prado biglietti
+- museo del prado prezzo
+- museo del prado gratis
+- museo del prado ingresso gratuito orari
+- museo del prado biglietti esauriti
 - museo del prado coda
-- museo del prado ingresso gratuito
-- museo del prado biglietti ultimo minuto
 slugs:
   es: museo-del-prado-entradas-agotadas
   en: prado-museum-tickets-sold-out

@@ -4,7 +4,7 @@ descripcion: "A 7-day Andalusia itinerary by train: 2 nights in Seville, 1 in C�
 categoria: "sevilla"
 slug: "andalusia-7-day-itinerary"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -167,4 +167,4 @@ Granada is the cheap city for food, as tapas come free with drinks. Seville and 
 
 ## In a nutshell
 
-Four cities linked by trains of under 90 minutes, two tickets booked well ahead and a night in each place that deserves one: that's how a week in Andalusia is enjoyed rather than endured. With a spare day, add Cádiz and Jerez from Seville; see [day trips from Seville](/en/guides/sevilla/day-trips-from-seville).
+Four cities linked by trains of under 90 minutes, two tickets booked well ahead and a night in each place that deserves one: that's how a week in Andalusia is enjoyed rather than endured. With a spare day, add Cádiz and Jerez from Seville; see [day trips from Seville](/en/guides/sevilla/day-trips-from-seville). With ten days and Madrid, Toledo and Barcelona on the wish list, follow our [10-day Spain itinerary](/en/guides/madrid/spain-itinerary-10-days).

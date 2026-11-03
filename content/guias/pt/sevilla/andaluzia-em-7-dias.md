@@ -4,7 +4,7 @@ descripcion: "Roteiro de 7 dias pela Andaluzia de comboio: 2 noites em Sevilha, 
 categoria: "sevilla"
 slug: "andaluzia-em-7-dias"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -167,4 +167,4 @@ Granada torna a comida muito mais barata: a tapa vem grátis com a bebida. Sevil
 
 ## Numa frase
 
-Quatro cidades ligadas por comboios de menos de hora e meia, dois bilhetes comprados com tempo e uma noite em cada sítio que realmente o merece: assim, sete dias pela Andaluzia desfrutam-se em vez de se sofrerem. Se lhe sobrar um dia, Cádis e Jerez a partir de Sevilha, em [excursões a partir de Sevilha](/pt/guides/sevilla/excursoes-a-partir-de-sevilha).
+Quatro cidades ligadas por comboios de menos de hora e meia, dois bilhetes comprados com tempo e uma noite em cada sítio que realmente o merece: assim, sete dias pela Andaluzia desfrutam-se em vez de se sofrerem. Se lhe sobrar um dia, Cádis e Jerez a partir de Sevilha, em [excursões a partir de Sevilha](/pt/guides/sevilla/excursoes-a-partir-de-sevilha); e se tiver dez dias e quiser juntar Madrid, Toledo e Barcelona, veja o [roteiro por Espanha em 10 dias](/pt/guides/madrid/roteiro-espanha-10-dias).

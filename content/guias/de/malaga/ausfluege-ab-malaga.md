@@ -4,7 +4,7 @@ descripcion: "Die besten Tagesausflüge ab Málaga: Ronda, Nerja und Frigiliana,
 categoria: "malaga"
 slug: "ausfluege-ab-malaga"
 fecha: "2026-04-13"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -62,7 +62,7 @@ Eine Stunde entlang der Küste hat **Nerja** den **Balcón de Europa** (Aussicht
 
 ## Ronda
 
-Eindreiviertel Stunden entfernt ist **Ronda** das Juwel des Berglands: eine Stadt, geteilt durch **El Tajo**, eine 100 Meter tiefe Schlucht, überspannt von der **Puente Nuevo**, mit einer der ältesten Stierkampfarenen Spaniens. Eines der berühmtesten Bilder des Landes.
+Eindreiviertel Stunden entfernt ist **Ronda** das Juwel des Berglands: eine Stadt, geteilt durch **El Tajo**, eine 100 Meter tiefe Schlucht, überspannt von der **Puente Nuevo**, mit einer der ältesten Stierkampfarenen Spaniens. Eines der berühmtesten Bilder des Landes. Was du dort in welcher Reihenfolge sehen solltest, steht in [Ronda an einem Tag](/de/guides/malaga/ronda-sehenswuerdigkeiten-an-einem-tag).
 
 ## Mijas, Marbella und die Küste
 

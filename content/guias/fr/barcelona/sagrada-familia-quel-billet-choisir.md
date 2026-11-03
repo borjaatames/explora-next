@@ -1,22 +1,24 @@
 ---
-titulo: "Sagrada Família : quel billet ou quelle visite choisir (comparatif)"
-descripcion: "La Sagrada Família propose 6 options réservables séparément : 3 consacrées uniquement à la basilique et 3 qui la combinent avec le Park Güell ou d'autres monuments de Barcelone. Nous comparons le prix et ce qu'inclut chacune."
+titulo: 'Billet Sagrada Família : prix 2026 et quelle visite choisir'
+descripcion: 'Billet Sagrada Família : prix 2026 des 6 options, de 34 € avec audioguide à 75 € avec montée à une tour. Ce qu''inclut chacune et laquelle réserver.'
+metaTitle: 'Billet Sagrada Família : prix et options'
 respuestaCorta: 'Pour la basilique seule, le **billet avec audioguide à partir de 34 €** est l''option réservable la moins chère, et la **visite guidée avec tour (à partir de 75 €)** est la seule qui monte à une tour. Pour ajouter le Park Güell sans y passer la journée, le **combiné guidé de 4 heures (à partir de 104 €)** couvre les deux. Réservez des semaines à l''avance : l''entrée se fait par créneau et **aucun billet n''est vendu au guichet**.'
 categoria: "barcelona"
 slug: "sagrada-familia-quel-billet-choisir"
 fecha: "2026-09-20"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"
 imagen_alt: "La façade et l'intérieur de la basilique de la Sagrada Família à Barcelone"
 keywords:
-  - "sagrada familia quel billet choisir"
-  - "meilleur billet sagrada familia"
-  - "sagrada familia comparatif"
-  - "sagrada familia avec ou sans tour"
-  - "sagrada familia et park guell ensemble"
+  - 'billet sagrada familia'
+  - 'sagrada familia prix'
+  - 'prix billet sagrada familia'
+  - 'sagrada familia tours'
+  - 'visite guidée sagrada familia'
+  - 'sagrada familia quel billet choisir'
 slugs:
   es: sagrada-familia-que-entrada-elegir
   en: sagrada-familia-which-ticket-to-choose

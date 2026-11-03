@@ -1,10 +1,11 @@
 ---
-titulo: 'Bilhetes do Alcázar de Sevilha esgotados: o que fazer e que opções restam'
-descripcion: 'Se o site oficial do Real Alcázar não tiver bilhetes: a bilheteira do próprio dia, as segundas-feiras grátis, os bilhetes com hora de revenda, as visitas guiadas com entrada e o que ver sem bilhete.'
+titulo: 'Bilhetes Alcázar de Sevilha esgotados: o que fazer e que opções restam'
+descripcion: 'Bilhetes do Alcázar de Sevilha esgotados? A bilheteira do Patio de Banderas guarda bilhetes para o próprio dia, há segundas grátis, revenda desde 20 € e tours.'
+metaTitle: 'Alcázar de Sevilha esgotado: o que fazer'
 categoria: sevilla
 slug: alcazar-de-sevilha-bilhetes-esgotados
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/alcazar-de-sevilla-entradas-agotadas.jpg
 imagen_alt: Pátio das Donzelas do Real Alcázar de Sevilha, com os seus arcos mudéjares e o jardim rebaixado
 tiempo_lectura: 4
 keywords:
-- bilhetes alcázar sevilha esgotados
-- alcázar sevilha sem bilhetes
-- bilhetes alcázar sevilha última hora
-- alcázar sevilha bilheteira no próprio dia
-- alcázar sevilha esgotado o que fazer
+  - 'bilhetes alcázar sevilha esgotados'
+  - 'alcázar sevilha sem bilhetes'
+  - 'alcázar sevilha bilhetes última hora'
+  - 'alcázar sevilha bilheteira'
+  - 'alcázar sevilha segunda-feira grátis'
+  - 'alcázar sevilha esgotado o que fazer'
 slugs:
   es: alcazar-de-sevilla-entradas-agotadas
   en: alcazar-of-seville-tickets-sold-out

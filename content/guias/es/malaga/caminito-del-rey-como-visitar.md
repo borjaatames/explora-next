@@ -1,21 +1,24 @@
 ---
-titulo: "Caminito del Rey: cómo visitarlo (entradas, acceso y consejos)"
-descripcion: "Guía para visitar el Caminito del Rey desde Málaga: cómo conseguir entradas, cómo llegar en tren o coche, duración, dificultad y qué llevar. Todo lo que necesitas."
+titulo: 'Caminito del Rey: entradas, cómo llegar y consejos'
+descripcion: 'Caminito del Rey: entradas desde 10 € en la web oficial, cómo llegar desde Málaga en tren o en coche, 7,7 km en 3-4 horas, cierre de los lunes y qué llevar.'
+metaTitle: 'Caminito del Rey: entradas y cómo llegar'
 respuestaCorta: '**Compra la entrada en la web oficial con semanas o meses de antelación** (10 € por libre, 18 € con guía oficial, más 2,50 € de bus lanzadera): sin ella no se entra. Son **7,7 km lineales en 3-4 horas**, de norte a sur, sin apenas desnivel pero no aptos para el vértigo; **cierra los lunes** y no admite menores de 8 años. Con transporte desde Málaga, desde 72 €.'
 categoria: "malaga"
 slug: "caminito-del-rey-como-visitar"
 fecha: "2026-03-10"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 4
 keywords:
-  - "caminito del rey"
-  - "caminito del rey entradas"
-  - "caminito del rey desde málaga"
-  - "cómo visitar el caminito del rey"
-  - "el chorro"
+  - 'caminito del rey'
+  - 'caminito del rey entradas'
+  - 'caminito del rey cómo llegar'
+  - 'cómo llegar al caminito del rey'
+  - 'caminito del rey desde málaga'
+  - 'caminito del rey tour'
+  - 'caminito del rey precio'
 slugs:
   es: caminito-del-rey-como-visitar
   en: caminito-del-rey-how-to-visit

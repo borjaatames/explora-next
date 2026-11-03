@@ -1,10 +1,11 @@
 ---
-titulo: 'Alhambra : comment la visiter sans rester sans billet'
-descripcion: 'Comment visiter l''Alhambra de Grenade : quelle visite choisir selon votre voyage, le créneau des palais nasrides, que voir à l''intérieur et les erreurs à éviter.'
+titulo: 'Billet Alhambra : prix, palais nasrides et comment visiter l''Alhambra'
+descripcion: 'Billet Alhambra : 22,27 € sur le site officiel, en vente jusqu''à 3 mois avant. Créneau des palais nasrides, 4 h de visite et comment visiter l''Alhambra.'
+metaTitle: 'Billet Alhambra : prix et comment la visiter'
 categoria: granada
 slug: alhambra-comment-la-visiter
 fecha: '2026-05-02'
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -12,11 +13,13 @@ destacada: true
 imagen_portada: /images/guias/alhambra-como-visitar.jpg
 imagen_alt: Vue aérienne de l'Alhambra de Grenade et de ses tours au-dessus de la ville
 keywords:
-- comment visiter l'alhambra
-- visite guidée alhambra
-- billets alhambra complets
-- palais nasrides
-- billet alhambra grenade
+  - 'billet alhambra'
+  - 'visiter l''alhambra'
+  - 'prix billet alhambra'
+  - 'billet alhambra grenade'
+  - 'billet palais nasrides'
+  - 'comment visiter l''alhambra'
+  - 'alhambra grenade'
 slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit

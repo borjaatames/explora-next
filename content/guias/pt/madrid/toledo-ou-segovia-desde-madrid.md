@@ -4,7 +4,7 @@ descripcion: 'Toledo ou Segóvia a partir de Madrid: comboio e autocarro com tem
 categoria: madrid
 slug: toledo-ou-segovia-desde-madrid
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -85,7 +85,7 @@ Segóvia percorre-se em linha reta, e isso faz parte do seu encanto: chega ao **
 - **A comida:** o leitão assado é a razão pela qual muitos madrilenos voltam a Segóvia. Reserve mesa se for ao fim de semana.
 - **O clima:** a cerca de 1.000 metros de altitude, no verão refresca ao fim da tarde; no inverno faz frio a sério.
 
-Com cinco ou seis horas vê o essencial sem pressas e almoça com calma. Por isso Segóvia combina-se tantas vezes com Ávila na mesma excursão, como em [Ávila e Segóvia com bilhetes incluídos](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). E se quiser ver o aqueduto, a Catedral e o Alcázar ao mesmo tempo, o [voo de balão sobre Segóvia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) é a forma mais memorável.
+Com cinco ou seis horas vê o essencial sem pressas e almoça com calma; o roteiro passo a passo está em [o que ver em Segóvia num dia](/pt/guides/madrid/o-que-ver-em-segovia-num-dia). Por isso Segóvia combina-se tantas vezes com [Ávila](/pt/guides/madrid/o-que-ver-em-avila-num-dia) na mesma excursão, como em [Ávila e Segóvia com bilhetes incluídos](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). E se quiser ver o aqueduto, a Catedral e o Alcázar ao mesmo tempo, o [voo de balão sobre Segóvia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) é a forma mais memorável.
 
 [actividad: excursion-avila-segovia-con-entradas]
 

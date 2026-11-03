@@ -1,20 +1,22 @@
 ---
-titulo: "Mosque-Cathedral of Córdoba: how to visit it (tickets and tips)"
-descripcion: "How to visit the Mosque-Cathedral of Córdoba: 2026 prices, the free 8:30 slot, Sunday hours, the bell tower, what to see inside and which tour to book."
+titulo: 'Mezquita Córdoba tickets: prices, free hour and guided tours'
+descripcion: 'Mezquita Córdoba tickets cost €15, and entry is free Monday to Saturday 8:30-9:30. Sunday hours, the bell tower, what to see inside and guided tours from €32.'
+metaTitle: 'Mezquita Córdoba tickets and guided tours'
 categoria: "cordoba"
 slug: "mosque-cathedral-how-to-visit"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 4
 keywords:
-  - "mosque of cordoba"
-  - "mosque cathedral tickets"
-  - "how to visit the mosque of cordoba"
-  - "cordoba mihrab"
-  - "courtyard of the orange trees"
+  - 'mezquita cordoba tickets'
+  - 'mosque of cordoba tickets'
+  - 'mezquita cordoba guided tour'
+  - 'mezquita cordoba free entry'
+  - 'mosque cathedral cordoba opening hours'
+  - 'mosque of cordoba bell tower'
 slugs:
   es: mezquita-catedral-como-visitar
   en: mosque-cathedral-how-to-visit

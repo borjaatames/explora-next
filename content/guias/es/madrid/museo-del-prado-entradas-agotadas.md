@@ -1,10 +1,11 @@
 ---
-titulo: 'Entradas del Museo del Prado agotadas o colas enormes: qué hacer'
-descripcion: 'Si tu franja del Prado sale agotada o la cola de la hora gratis da miedo: otras horas en la web oficial, la taquilla, la entrada gratuita, El Prado de noche, el abono Paseo del Arte y las visitas guiadas con entrada.'
+titulo: 'Entradas Museo del Prado: precio, horario gratis y si se agotan'
+descripcion: 'Entradas Museo del Prado: 15 € la general y gratis de lunes a sábado de 18:00 a 20:00 (domingos, de 17:00 a 19:00). Qué hacer si tu franja sale agotada.'
+metaTitle: 'Entradas Museo del Prado: precio y gratis'
 categoria: madrid
 slug: museo-del-prado-entradas-agotadas
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/museo-del-prado-entradas-agotadas.jpg
 imagen_alt: Fachada del Museo del Prado en el paseo del Prado, con la puerta de Velázquez y la estatua del pintor
 tiempo_lectura: 4
 keywords:
-- entradas museo del prado agotadas
-- museo del prado sin entradas
-- cola museo del prado
-- museo del prado entradas última hora
-- museo del prado gratis cola
+  - 'entradas museo del prado'
+  - 'museo del prado gratis'
+  - 'precio entrada museo del prado'
+  - 'museo del prado horario gratis'
+  - 'entradas museo del prado agotadas'
+  - 'cola museo del prado'
 slugs:
   es: museo-del-prado-entradas-agotadas
   en: prado-museum-tickets-sold-out

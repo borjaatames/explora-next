@@ -1,22 +1,24 @@
 ---
-titulo: "Montserrat a partir de Barcelona: que excursão escolher (comparação)"
-descripcion: "Há 5 excursões a Montserrat que se podem reservar a partir de Barcelona, de uma sessão fotográfica de 1 hora a um dia inteiro com almoço e harmonização de vinhos. Comparamos preço, duração e o que inclui cada uma."
+titulo: 'Excursão a Montserrat a partir de Barcelona: qual escolher'
+descripcion: 'Excursão a Montserrat a partir de Barcelona: meio dia em grupo pequeno desde 59 €, dia inteiro com adega desde 47 € ou com almoço desde 109 €. Comparamos as 5.'
+metaTitle: 'Excursão a Montserrat: qual escolher'
 respuestaCorta: 'Com meio dia, o **grupo pequeno desde 59 €** chega ao mosteiro antes das multidões. Para o dia inteiro, a **CastlExperience desde 47 €** (6-10 horas, com adega) é a opção mais barata, e a **masia do Bages (desde 109 €)** junta almoço com harmonização de vinhos. Por conta própria, o bilhete **Trans Montserrat** de comboio e cremalheira custa desde 50 €.'
 categoria: "barcelona"
 slug: "montserrat-que-excursao-escolher"
 fecha: "2026-09-20"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"
 imagen_alt: "Mosteiro de Montserrat entre as montanhas, perto de Barcelona"
 keywords:
-  - "montserrat que excursão escolher"
-  - "melhor excursão a montserrat a partir de barcelona"
-  - "montserrat comparação de tours"
-  - "montserrat meio dia ou dia inteiro"
-  - "montserrat tour privado preço"
+  - 'excursão montserrat'
+  - 'excursão a montserrat a partir de barcelona'
+  - 'montserrat desde barcelona'
+  - 'tour montserrat'
+  - 'montserrat meio dia'
+  - 'montserrat tour privado'
 slugs:
   es: montserrat-que-excursion-elegir
   en: montserrat-which-excursion-to-choose
@@ -63,7 +65,7 @@ Montserrat pode visitar-se a partir de Barcelona de cinco formas muito diferente
 
 ## O que deve saber antes de ir
 
-- **Também se pode ir por conta própria:** comboio R5 dos FGC a partir da Plaça Espanya até Monistrol de Montserrat (1 hora) e depois a cremalheira, ou até Aeri de Montserrat e o teleférico. O bilhete combinado Trans Montserrat (metro, comboio, cremalheira ou teleférico e os funiculares de Sant Joan e Santa Cova) custa desde 50 € em 2026, e o Tot Montserrat, que junta museu e refeição, desde 71,50 €. Os tours ganham em comodidade e explicações, não em preço.
+- **Também se pode ir por conta própria:** comboio R5 dos FGC a partir da Plaça Espanya até Monistrol de Montserrat (1 hora) e depois a cremalheira, ou até Aeri de Montserrat e o teleférico. O bilhete combinado Trans Montserrat (metro, comboio, cremalheira ou teleférico e os funiculares de Sant Joan e Santa Cova) custa desde 50 € em 2026, e o Tot Montserrat, que junta museu e refeição, desde 71,50 €. Os tours ganham em comodidade e explicações, não em preço. Horários, bilhetes e que percurso escolher, passo a passo, em [como chegar a Montserrat desde Barcelona](/pt/guides/barcelona/como-chegar-a-montserrat-desde-barcelona).
 - **A Moreneta** visita-se de graça, por um corredor lateral da basílica, das 8h00 às 10h30 e das 12h00 às 18h25. A fila é de 30-60 minutos na época alta; os tours de acesso antecipado evitam-na.
 - **A Escolania** costuma cantar o Salve e o Virolai às 13h00 de segunda a sexta e na missa das 11h00 aos domingos; normalmente não canta aos sábados. É preciso reservar, e o calendário muda com feriados e digressões do coro: confirme em escolania.cat e escolha uma excursão que lá esteja a essa hora.
 - **Os funiculares:** o de Sant Joan sobe aos trilhos com vistas (10 minutos e depois uma caminhada fácil de 1 hora até à ermida); o de Santa Cova desce à gruta da Virgem. Estão incluídos no Trans Montserrat, mas não na maioria dos tours; fecham com vento forte.

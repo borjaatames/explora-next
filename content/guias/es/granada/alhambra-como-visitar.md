@@ -1,10 +1,11 @@
 ---
-titulo: 'Alhambra: cómo visitarla sin quedarte sin entrada'
-descripcion: 'Cómo visitar la Alhambra de Granada: qué visita elegir según tu viaje, la hora de los Palacios Nazaríes, qué ver dentro y los errores que hay que evitar.'
+titulo: 'Entradas Alhambra: precio, tipos y cómo comprarlas'
+descripcion: 'Entradas Alhambra: la general cuesta 22,27 € e incluye los Palacios Nazaríes. Tipos, cuándo salen, cómo comprarlas y cómo no perder tu hora en los Nazaríes.'
+metaTitle: 'Entradas Alhambra 2026: precio y cómo comprar'
 categoria: granada
 slug: alhambra-como-visitar
 fecha: '2026-05-02'
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/alhambra-como-visitar.jpg
 imagen_alt: Vista aérea de la Alhambra de Granada con Sierra Nevada al fondo
 tiempo_lectura: 4
 keywords:
-- alhambra cómo visitar
-- visita guiada alhambra
-- entradas alhambra agotadas
-- palacios nazaríes
-- tour alhambra
+  - 'entradas alhambra'
+  - 'precio entrada alhambra'
+  - 'palacios nazaríes entradas'
+  - 'comprar entradas alhambra'
+  - 'tipos de entrada alhambra'
+  - 'cómo visitar la alhambra'
 slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit

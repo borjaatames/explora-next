@@ -1,21 +1,23 @@
 ---
 titulo: "Sagrada Familia: how to visit it well (tickets and mistakes)"
 descripcion: "How to visit Sagrada Familia: 2026 official prices, which tower to climb, Hour of Silence, Gaudí Year, dress code, and common mistakes."
+metaTitle: 'Visiting Sagrada Familia: tips and mistakes'
 categoria: "barcelona"
 slug: "sagrada-familia-how-to-visit"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sagrada-familia-como-visitar.jpg"
 imagen_alt: Sagrada Familia basilica front facade with towering spires, Barcelona
 keywords:
-  - "sagrada familia how to visit"
-  - "sagrada familia tickets"
-  - "sagrada familia price"
-  - "sagrada familia towers"
-  - "gaudi year 2026"
+  - 'visiting sagrada familia'
+  - 'sagrada familia tips'
+  - 'which sagrada familia tower'
+  - 'sagrada familia opening hours'
+  - 'sagrada familia dress code'
+  - 'gaudi year 2026'
 slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit

@@ -1,21 +1,23 @@
 ---
 titulo: "Sagrada Família: como visitá-la bem (bilhetes e erros a evitar)"
 descripcion: "Como visitar a Sagrada Família: preços oficiais de 2026, que torre subir, a Hora do Silêncio, o Ano Gaudí, código de vestuário e erros comuns."
+metaTitle: 'Visitar a Sagrada Família: dicas e erros'
 categoria: "barcelona"
 slug: "sagrada-familia-como-visitar"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sagrada-familia-como-visitar.jpg"
 imagen_alt: Fachada principal da basílica da Sagrada Família com as suas torres altíssimas, Barcelona
 keywords:
-  - "sagrada família como visitar"
-  - "bilhetes sagrada família"
-  - "sagrada família preço"
-  - "torres sagrada família"
-  - "ano gaudí 2026"
+  - 'visitar a sagrada familia'
+  - 'sagrada família como visitar'
+  - 'que torre subir sagrada família'
+  - 'sagrada família horário'
+  - 'sagrada família dicas'
+  - 'ano gaudí 2026'
 slugs:
   es: sagrada-familia-como-visitar
   en: sagrada-familia-how-to-visit

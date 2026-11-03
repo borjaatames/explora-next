@@ -1,11 +1,11 @@
 ---
 titulo: "Ronda a partir de Málaga: como ir de carro, autocarro, tour ou em privado"
 descripcion: "Como ir de Málaga a Ronda num dia: carro, autocarro, comboio, excursão em grupo ou privada. Tempos, preços, o que ver em Ronda e como combiná-la com Setenil."
-respuestaCorta: 'Ronda fica a **cerca de 100 km de Málaga, 1h45 de carro**. De **autocarro** são cerca de 2 horas e não há comboio direto. A forma mais simples sem carro é uma **excursão em grupo** (desde 44 €, com Setenil de las Bodegas); em **privado**, desde 580 € para 2 pessoas ou 720 € para 4. Um dia chega para o Tajo, a Puente Nuevo e o centro histórico.'
+respuestaCorta: 'Ronda fica a **cerca de 100 km de Málaga, 1h45 de carro**. De **autocarro** são cerca de 2 horas e não há comboio direto. A forma mais simples sem carro é uma **excursão em grupo** (desde 34 €, com Setenil de las Bodegas); em **privado**, desde 580 € para 2 pessoas ou 720 € para 4. Um dia chega para o Tajo, a Puente Nuevo e o centro histórico.'
 categoria: "malaga"
 slug: "ronda-a-partir-de-malaga"
 fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -34,7 +34,7 @@ faq:
   - pregunta: "Vale a pena ir a Ronda num dia a partir de Málaga?"
     respuesta: "Sim. O Tajo e a Puente Nuevo veem-se em meio dia, e com o resto pode percorrer o centro histórico ou juntar Setenil de las Bodegas."
   - pregunta: "Que excursão escolher, em grupo ou privada?"
-    respuesta: "Para 1 ou 2 pessoas, a de grupo (desde 44 €). Para 4 ou mais, a privada fica a cerca de 180 € por pessoa, com recolha no alojamento e horário livre."
+    respuesta: "Para 1 ou 2 pessoas, a de grupo (desde 34 €). Para 4 ou mais, a privada fica a cerca de 180 € por pessoa, com recolha no alojamento e horário livre."
   - pregunta: "Pode-se ir a Ronda com crianças?"
     respuesta: "Sim, embora os miradouros do Tajo sejam muito altos e as ruas do centro histórico íngremes: melhor com mochila porta-bebés do que com carrinho."
 ---
@@ -60,7 +60,7 @@ De comboio não há ligação direta: é preciso fazer transbordo e demora mais 
 - **Os Banhos Árabes**, junto à Puente Viejo.
 - Se sobrar tempo, **Setenil de las Bodegas**, a vila das casas debaixo da rocha, a 20 minutos.
 
-Se forem por conta própria e quiserem que alguém vos conte a história, o [tour privado a pé de 2 horas por Ronda](/en/cities/malaga/activities/ronda-private-walking-tour-puente-nuevo) custa 200 € para 2 pessoas ou 260 € para 4.
+Se forem por conta própria e quiserem que alguém vos conte a história, o [tour privado a pé de 2 horas por Ronda](/en/cities/malaga/activities/ronda-private-walking-tour-puente-nuevo) custa 200 € para 2 pessoas ou 260 € para 4. O roteiro completo, paragem a paragem, está em [o que ver em Ronda num dia](/pt/guides/malaga/o-que-ver-em-ronda-num-dia).
 
 ## A excursão privada a partir de Málaga, em detalhe
 

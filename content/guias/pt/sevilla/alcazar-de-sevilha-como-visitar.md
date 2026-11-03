@@ -1,10 +1,11 @@
 ---
-titulo: 'Real Alcázar de Sevilha: como visitá-lo (guia honesto 2026)'
-descripcion: 'Como visitar o Real Alcázar de Sevilha: preços de 2026, horários, o que ver lá dentro, o Pátio das Donzelas, a Sala dos Embaixadores, os jardins e erros comuns.'
+titulo: 'Bilhetes Real Alcázar de Sevilha: preço e como visitá-lo (2026)'
+descripcion: 'Bilhetes do Real Alcázar de Sevilha: 15,50 € e 2h30-3 horas de visita. Horários, como evitar a fila de 2 horas, o que ver lá dentro e quando ir com guia.'
+metaTitle: 'Alcázar de Sevilha bilhetes: preço e visita'
 categoria: sevilla
 slug: alcazar-de-sevilha-como-visitar
 fecha: '2026-04-29'
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -12,11 +13,12 @@ destacada: true
 imagen_portada: /images/guias/alcazar-de-sevilla-como-visitar.jpg
 imagen_alt: "Pátio interior do Real Alcázar de Sevilha"
 keywords:
-- real alcázar de sevilha
-- como visitar o alcázar de sevilha
-- bilhetes alcázar de sevilha
-- alcázar de sevilha preço
-- jardins do alcázar de sevilha
+  - 'bilhetes alcázar de sevilha'
+  - 'alcázar sevilha bilhetes'
+  - 'real alcázar de sevilha preço'
+  - 'alcázar de sevilha horário'
+  - 'visita guiada alcázar sevilha'
+  - 'como visitar o alcázar de sevilha'
 slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit

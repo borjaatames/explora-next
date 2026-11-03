@@ -1,10 +1,11 @@
 ---
-titulo: 'Royal Palace of Madrid tickets sold out: what to do'
-descripcion: 'If the official Royal Palace website has no tickets: the ticket office, the official guided visit, free afternoon entry, tours with entry included and what to see outside.'
+titulo: 'Royal Palace Madrid tickets: price, free entry and what to do if sold out'
+descripcion: 'Royal Palace Madrid tickets: €18, or €26 with a guided visit. Free last two hours Mon-Thu for EU and Latin American citizens, and what to do if sold out.'
+metaTitle: 'Royal Palace Madrid tickets and free entry'
 categoria: madrid
 slug: royal-palace-madrid-tickets-sold-out
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/palacio-real-madrid-entradas-agotadas.jpg
 imagen_alt: South facade of the Royal Palace of Madrid from the Plaza de la Armería
 tiempo_lectura: 4
 keywords:
-- royal palace madrid tickets sold out
-- royal palace madrid no tickets
-- royal palace madrid last minute tickets
-- royal palace madrid free entry
-- royal palace madrid ticket office
+  - 'royal palace madrid tickets'
+  - 'royal palace madrid tickets price'
+  - 'royal palace madrid free entry'
+  - 'royal palace madrid guided tour'
+  - 'royal palace madrid ticket office'
+  - 'royal palace madrid tickets sold out'
 slugs:
   es: palacio-real-madrid-entradas-agotadas
   en: royal-palace-madrid-tickets-sold-out

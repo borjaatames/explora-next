@@ -1,10 +1,11 @@
 ---
-titulo: 'Entradas del Park Güell agotadas: qué hacer y qué opciones quedan'
-descripcion: 'Si la web oficial del Park Güell no tiene entradas: cuándo salen, cómo cambiar de franja, las entradas de reventa, los tours con la entrada incluida y la parte del parque que es gratis.'
+titulo: 'Entradas Park Güell agotadas: qué hacer y qué opciones quedan'
+descripcion: 'Entradas del Park Güell agotadas: salen hasta tres meses antes y hay 700 plazas cada media hora. Otras franjas, reventa desde 21,50 €, tours y la zona gratis.'
+metaTitle: 'Entradas Park Güell agotadas: qué hacer'
 categoria: barcelona
 slug: park-guell-entradas-agotadas
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/park-guell-entradas-agotadas.jpg
 imagen_alt: Banco ondulado de trencadís en la plaza de la Naturaleza del Park Güell
 tiempo_lectura: 4
 keywords:
-- entradas park guell agotadas
-- park guell sin entradas
-- park guell entradas última hora
-- park guell agotado qué hacer
-- park guell gratis
+  - 'entradas park guell agotadas'
+  - 'park guell sin entradas'
+  - 'entradas park guell última hora'
+  - 'park guell gratis'
+  - 'park guell zona gratuita'
+  - 'park guell tour con entrada'
 slugs:
   es: park-guell-entradas-agotadas
   en: park-guell-tickets-sold-out

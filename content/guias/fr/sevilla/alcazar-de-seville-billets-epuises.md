@@ -1,10 +1,11 @@
 ---
-titulo: 'Billets de l''Alcázar de Séville épuisés : que faire et quelles options restent'
-descripcion: 'Si le site officiel du Real Alcázar n''a plus de billets : le guichet le jour même, les lundis gratuits, les billets horodatés revendus, les visites guidées avec entrée et ce qu''on voit sans billet.'
+titulo: 'Billets Alcázar de Séville épuisés : que faire et quelles options restent'
+descripcion: 'Billets Alcázar de Séville épuisés ? Guichet du Patio de Banderas le jour même, heure gratuite le lundi, revente dès 20 € et visites guidées avec entrée.'
+metaTitle: 'Billets Alcázar Séville épuisés : que faire'
 categoria: sevilla
 slug: alcazar-de-seville-billets-epuises
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/alcazar-de-sevilla-entradas-agotadas.jpg
 imagen_alt: Patio de las Doncellas du Real Alcázar de Séville, avec ses arcs mudéjars et son jardin en contrebas
 tiempo_lectura: 4
 keywords:
-- billets alcázar séville épuisés
-- alcázar séville sans billet
-- billets alcázar séville dernière minute
-- alcázar séville guichet le jour même
-- alcázar séville complet que faire
+  - 'billets alcazar séville épuisés'
+  - 'alcazar séville complet'
+  - 'alcazar séville sans billet'
+  - 'billet alcazar séville dernière minute'
+  - 'alcazar séville gratuit lundi'
+  - 'alcazar séville guichet'
 slugs:
   es: alcazar-de-sevilla-entradas-agotadas
   en: alcazar-of-seville-tickets-sold-out

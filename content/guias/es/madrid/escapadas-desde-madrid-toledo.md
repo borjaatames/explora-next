@@ -1,11 +1,12 @@
 ---
-titulo: "Toledo desde Madrid en 1 día: escapada de tres culturas"
-descripcion: "Toledo en un día desde Madrid: qué visitar con criterio, cómo llegar (coche, AVE, autobús), qué evitar y por qué es la mejor escapada cerca de Madrid."
+titulo: 'Qué ver en Toledo en un día: ruta desde Madrid'
+descripcion: 'Qué ver en Toledo en un día: la Catedral, Santo Tomé, la Judería y el Mirador del Valle. Ruta desde Madrid con el Avant (33 minutos) y qué evitar.'
+metaTitle: 'Qué ver en Toledo en un día desde Madrid'
 respuestaCorta: 'Coge el **Avant desde Atocha (33 minutos, 22-26 € ida y vuelta)** o conduce una hora por la A-42, y llega a las 10:00. Dedica la mañana a la **Catedral (12 €)**, Santo Tomé y Santa María la Blanca, la tarde a la Judería y cierra en el **Mirador del Valle**. La **pulsera turística de 14 €** cubre siete monumentos pequeños.'
 categoria: "madrid"
 slug: "escapadas-desde-madrid-toledo"
 fecha: "2026-04-02"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
 imagen_alt: "El Alcázar de Toledo sobre el casco histórico"
 tiempo_lectura: 4
 keywords:
-  - "escapadas desde madrid"
-  - "toledo en un día"
-  - "toledo desde madrid"
-  - "qué ver en toledo en un día"
-  - "cómo ir a toledo desde madrid"
+  - 'qué ver en toledo en un día'
+  - 'toledo en un día'
+  - 'qué ver en toledo'
+  - 'excursión a toledo desde madrid'
+  - 'toledo desde madrid'
+  - 'escapadas desde madrid'
 slugs:
   es: escapadas-desde-madrid-toledo
   en: toledo-day-trip-from-madrid
@@ -52,7 +54,7 @@ A 70 km de Madrid hay una ciudad medieval intacta: **Toledo**, donde judíos, mu
 
 ## Cómo llegar
 
-- **Avant desde Atocha:** 33 minutos, salidas cada hora desde las 6:50 y último regreso sobre las 21:30; 22-26 € ida y vuelta. Los primeros trenes se agotan: reserva. La estación está a 20 minutos a pie del casco, cuesta arriba; autobús 5 o taxi (6-8 €).
+- **Avant desde Atocha:** 33 minutos, salidas cada hora desde las 6:50 y último regreso sobre las 21:30; 22-26 € ida y vuelta. Los primeros trenes se agotan: reserva. La estación está a 20 minutos a pie del casco, cuesta arriba; autobús 5 o taxi (6-8 €). Horarios y precios del tren, en [tren Madrid–Toledo](/guias/madrid/tren-madrid-toledo).
 - **Coche:** 1 hora por la A-42 (gratis) o la AP-41 (peaje). Lo único que permite parar en el **Mirador del Valle**. No se entra al casco: control por matrícula y multa. Aparca en **Safont** (1 € la hora, o gratis acreditando consumo en comercios adheridos), junto a las escaleras mecánicas que suben al casco, o en el del Cardenal, junto a la Puerta de Bisagra.
 - **Autobús Alsa** desde Plaza Elíptica: 1 hora, unos 11 € ida y vuelta, cada 30 minutos en hora punta.
 - **Excursión organizada:** 45-70 € con transporte, guía y entradas, 8-9 horas. Compensa en grupo o sin coche; en pareja con coche, no.
@@ -100,7 +102,7 @@ Toledo de noche, sin los excursionistas, es otra ciudad. Casco histórico (parad
 
 ## Otras escapadas a una hora
 
-**El Escorial y el Valle de Cuelgamuros** (en [Madrid en 3 días](/guias/madrid/madrid-en-3-dias)), **Segovia** (acueducto, alcázar y cochinillo), **Aranjuez** (palacio y jardines, en primavera), **Ávila** (la muralla, más fría) y **Alcalá de Henares** (Cervantes, menos visitada). Pero con un solo día, Toledo. Si dudas con Segovia, en [¿Toledo o Segovia?](/guias/madrid/toledo-o-segovia-desde-madrid) comparamos las dos excursiones punto por punto.
+**El Escorial y el Valle de Cuelgamuros** (en [Madrid en 3 días](/guias/madrid/madrid-en-3-dias)), **Segovia** (acueducto, alcázar y cochinillo; la ruta, en [qué ver en Segovia en un día](/guias/madrid/que-ver-en-segovia-en-un-dia)), **Aranjuez** (palacio y jardines, en primavera), **Ávila** (la muralla, más fría; ver [qué ver en Ávila en un día](/guias/madrid/que-ver-en-avila-en-un-dia)) y **Alcalá de Henares** (Cervantes, menos visitada). Pero con un solo día, Toledo. Si dudas con Segovia, en [¿Toledo o Segovia?](/guias/madrid/toledo-o-segovia-desde-madrid) comparamos las dos excursiones punto por punto.
 
 ## En una frase
 

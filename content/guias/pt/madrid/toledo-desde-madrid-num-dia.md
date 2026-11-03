@@ -1,11 +1,12 @@
 ---
-titulo: "Toledo a partir de Madrid num dia: escapadinha das três culturas"
-descripcion: "Toledo num dia a partir de Madrid: o que visitar com critério, como chegar (carro, AVE, autocarro), o que evitar e porque é a melhor escapadinha perto de Madrid."
+titulo: 'O que ver em Toledo num dia: escapadinha a partir de Madrid'
+descripcion: 'O que ver em Toledo num dia: a Catedral (12 €), Santo Tomé, a Judiaria e o Mirador del Valle, com a pulseira turística de 14 € e Madrid a 33 minutos de Avant.'
+metaTitle: 'O que ver em Toledo num dia desde Madrid'
 respuestaCorta: 'Apanhe o **Avant em Atocha (33 minutos, 22-26 € ida e volta)** ou conduza uma hora pela A-42, e chegue às 10h00. Dedique a manhã à **Catedral (12 €)**, Santo Tomé e Santa María la Blanca, a tarde à Judiaria e termine no **Mirador del Valle**. A **pulseira turística de 14 €** cobre sete monumentos pequenos.'
 categoria: "madrid"
 slug: "toledo-desde-madrid-num-dia"
 fecha: "2026-04-02"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
 imagen_alt: "O Alcázar de Toledo sobre o centro histórico"
 tiempo_lectura: 4
 keywords:
-  - "escapadinhas a partir de madrid"
-  - "toledo num dia"
-  - "toledo a partir de madrid"
-  - "o que ver em toledo num dia"
-  - "como ir de madrid a toledo"
+  - 'o que ver em toledo'
+  - 'o que ver em toledo num dia'
+  - 'toledo num dia'
+  - 'excursão a toledo a partir de madrid'
+  - 'toledo a partir de madrid'
+  - 'pulseira turística toledo'
 slugs:
   es: escapadas-desde-madrid-toledo
   en: toledo-day-trip-from-madrid
@@ -52,7 +54,7 @@ A 70 km de Madrid há uma cidade medieval intacta: **Toledo**, onde judeus, muç
 
 ## Como chegar
 
-- **Avant a partir de Atocha:** 33 minutos, partidas de hora a hora a partir das 6h50 e último regresso por volta das 21h30; 22-26 € ida e volta. Os primeiros comboios esgotam: reserve. A estação fica a 20 minutos a pé do centro histórico, a subir; autocarro 5 ou táxi (6-8 €).
+- **Avant a partir de Atocha:** 33 minutos, partidas de hora a hora a partir das 6h50 e último regresso por volta das 21h30; 22-26 € ida e volta. Os primeiros comboios esgotam: reserve. A estação fica a 20 minutos a pé do centro histórico, a subir; autocarro 5 ou táxi (6-8 €). Horários e preços do comboio, em [comboio Madrid–Toledo](/pt/guides/madrid/comboio-madrid-toledo).
 - **Carro:** 1 hora pela A-42 (grátis) ou pela AP-41 (portagem). É a única opção que permite parar no **Mirador del Valle**. Não se entra no centro histórico: controlo por matrícula e multa. Estacione em **Safont** (1 € por hora, ou grátis comprovando consumo nas lojas aderentes), junto às escadas rolantes que sobem ao centro, ou no do Cardenal, junto à Puerta de Bisagra.
 - **Autocarro Alsa** a partir da Plaza Elíptica: 1 hora, cerca de 11 € ida e volta, a cada 30 minutos nas horas de ponta.
 - **Excursão organizada:** 45-70 € com transporte, guia e bilhetes, 8-9 horas. Compensa em grupo ou sem carro; em casal com carro, não.
@@ -100,7 +102,7 @@ Toledo à noite, sem os excursionistas, é outra cidade. Centro histórico (pous
 
 ## Outras escapadinhas a uma hora
 
-**O Escorial e o Valle de Cuelgamuros** (em [Madrid em 3 dias](/pt/guides/madrid/madrid-em-3-dias)), **Segóvia** (aqueduto, alcázar e leitão), **Aranjuez** (palácio e jardins, na primavera), **Ávila** (a muralha, mais fria) e **Alcalá de Henares** (Cervantes, menos visitada). Mas com um só dia, Toledo. Se hesitar com Segóvia, em [Toledo ou Segóvia?](/pt/guides/madrid/toledo-ou-segovia-desde-madrid) comparamos as duas excursões ponto por ponto.
+**O Escorial e o Valle de Cuelgamuros** (em [Madrid em 3 dias](/pt/guides/madrid/madrid-em-3-dias)), **Segóvia** (aqueduto, alcázar e leitão; o roteiro em [o que ver em Segóvia num dia](/pt/guides/madrid/o-que-ver-em-segovia-num-dia)), **Aranjuez** (palácio e jardins, na primavera), **Ávila** (a muralha, mais fria; veja [o que ver em Ávila num dia](/pt/guides/madrid/o-que-ver-em-avila-num-dia)) e **Alcalá de Henares** (Cervantes, menos visitada). Mas com um só dia, Toledo. Se hesitar com Segóvia, em [Toledo ou Segóvia?](/pt/guides/madrid/toledo-ou-segovia-desde-madrid) comparamos as duas excursões ponto por ponto.
 
 ## Numa frase
 

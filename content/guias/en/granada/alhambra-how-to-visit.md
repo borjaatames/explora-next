@@ -1,10 +1,11 @@
 ---
-titulo: 'Alhambra: how to visit without missing out on tickets'
-descripcion: 'How to visit the Alhambra in Granada: which visit to choose for your trip, the Nasrid Palaces time slot, what to see inside and the mistakes to avoid.'
+titulo: 'Alhambra tickets: prices, ticket types and how to visit'
+descripcion: 'Alhambra tickets cost €22.27 on the official site and sell out weeks ahead. Ticket types and prices, the Nasrid Palaces slot, tours with entry and how to visit.'
+metaTitle: 'Alhambra tickets: prices, types, how to buy'
 categoria: granada
 slug: alhambra-how-to-visit
 fecha: '2026-05-02'
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -12,11 +13,13 @@ destacada: true
 imagen_portada: /images/guias/alhambra-como-visitar.jpg
 imagen_alt: Aerial view of the Alhambra of Granada with its towers above the city
 keywords:
-- how to visit the alhambra
-- alhambra guided tour
-- alhambra tickets sold out
-- nasrid palaces
-- alhambra tour
+  - 'alhambra tickets'
+  - 'alhambra tickets price'
+  - 'alhambra official tickets'
+  - 'nasrid palaces tickets'
+  - 'alhambra ticket types'
+  - 'how to visit the alhambra'
+  - 'how to buy alhambra tickets'
 slugs:
   es: alhambra-como-visitar
   en: alhambra-how-to-visit

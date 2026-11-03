@@ -1,10 +1,11 @@
 ---
-titulo: 'Bilhetes da Catedral de Sevilha e da Giralda esgotados: o que fazer e que opções restam'
-descripcion: 'Se o site oficial da Catedral não tiver bilhetes: a bilheteira da Puerta del Príncipe, a visita gratuita de domingo, as coberturas, os bilhetes com hora de revenda e o que ver sem bilhete.'
+titulo: 'Catedral de Sevilha bilhetes: preço, Giralda e se esgotarem'
+descripcion: 'Catedral de Sevilha bilhetes: 13 € online e 14 € na bilheteira, com a Giralda incluída. Domingos grátis, visita às coberturas e o que fazer se estiver esgotado.'
+metaTitle: 'Catedral de Sevilha bilhetes: preço e Giralda'
 categoria: sevilla
 slug: catedral-de-sevilha-giralda-bilhetes-esgotados
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/catedral-sevilla-giralda-entradas-agotadas.jpg
 imagen_alt: A Giralda e a fachada gótica da Catedral de Sevilha vistas da Plaza Virgen de los Reyes
 tiempo_lectura: 4
 keywords:
-- bilhetes catedral sevilha esgotados
-- catedral sevilha sem bilhetes
-- bilhetes giralda esgotados
-- catedral sevilha bilheteira no próprio dia
-- catedral sevilha esgotada o que fazer
+  - 'catedral sevilha bilhetes'
+  - 'catedral de sevilha preço'
+  - 'bilhetes giralda'
+  - 'catedral sevilha grátis domingo'
+  - 'catedral sevilha bilheteira'
+  - 'bilhetes catedral sevilha esgotados'
 slugs:
   es: catedral-sevilla-giralda-entradas-agotadas
   en: seville-cathedral-giralda-tickets-sold-out

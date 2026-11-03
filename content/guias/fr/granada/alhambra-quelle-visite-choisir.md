@@ -1,21 +1,23 @@
 ---
-titulo: "Alhambra : quelle visite choisir (et pourquoi la plupart sont la même visite à un prix différent)"
-descripcion: "La plupart des visites guidées de l'Alhambra suivent le même parcours de 3 heures, entre 50 et 96 €. Nous vous montrons lesquelles sont identiques et lesquelles sont différentes : de nuit, privée, jardins seuls."
+titulo: 'Visite guidée de l''Alhambra : laquelle choisir (la plupart sont la même)'
+descripcion: 'Visite guidée de l''Alhambra : six visites suivent le même parcours de 3 h, de 50 à 96 €. Lesquelles se valent et lesquelles changent : nuit, privée, jardins.'
+metaTitle: 'Visite guidée Alhambra : laquelle choisir'
 categoria: "granada"
 slug: "alhambra-quelle-visite-choisir"
 fecha: "2026-09-06"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/granada/palacios-nazaries/pexels-11049684-hero.webp"
 imagen_alt: "Arc à muqarnas orné d'inscriptions arabes dans les palais nasrides de l'Alhambra"
 keywords:
-  - "alhambra quelle visite choisir"
-  - "meilleure visite guidée alhambra"
-  - "comparatif visites guidées alhambra"
-  - "billets officiels alhambra"
-  - "alhambra visite de nuit ou de jour"
+  - 'visite guidée alhambra'
+  - 'visite alhambra avec guide'
+  - 'visite guidée alhambra prix'
+  - 'alhambra visite privée'
+  - 'guide alhambra grenade'
+  - 'alhambra quelle visite choisir'
 slugs:
   es: alhambra-que-tour-elegir
   en: alhambra-which-tour-to-choose

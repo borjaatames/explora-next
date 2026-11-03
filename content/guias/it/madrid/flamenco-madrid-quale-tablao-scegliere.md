@@ -1,6 +1,7 @@
 ---
-titulo: "Flamenco a Madrid: Las Carboneras o Torres Bermejas, quale scegliere?"
-descripcion: "Madrid ha due tablaos di flamenco prenotabili direttamente: Las Carboneras e Torres Bermejas. Confrontiamo formato, prezzo e atmosfera per aiutarti a decidere."
+titulo: 'Flamenco a Madrid: miglior tablao tra Las Carboneras e Torres Bermejas'
+descripcion: 'Flamenco a Madrid: Las Carboneras (da 45 €, con bevanda) o Torres Bermejas (da 31 €, con cena possibile). Spettacoli di un''ora: formato e atmosfera a confronto.'
+metaTitle: 'Flamenco a Madrid: quale tablao scegliere'
 categoria: "madrid"
 slug: "flamenco-madrid-quale-tablao-scegliere"
 fecha: "2026-09-06"
@@ -10,11 +11,12 @@ destacada: false
 imagen_portada: "/images/actividades/madrid/tablao-las-carboneras/descarga-hero.webp"
 imagen_alt: "Interno di un tablao di flamenco a Madrid con un gruppo di artisti dal vivo"
 keywords:
-  - "flamenco madrid quale tablao scegliere"
-  - "las carboneras o torres bermejas"
-  - "miglior tablao flamenco madrid"
-  - "flamenco madrid confronto"
-  - "dove vedere il flamenco a madrid"
+- flamenco madrid
+- miglior tablao flamenco madrid
+- spettacolo flamenco madrid
+- las carboneras o torres bermejas
+- tablao flamenco madrid prezzo
+- flamenco madrid con cena
 slugs:
   es: flamenco-madrid-que-tablao-elegir
   en: flamenco-madrid-which-tablao-to-choose
@@ -23,7 +25,7 @@ slugs:
   it: flamenco-madrid-quale-tablao-scegliere
   pt: flamenco-madrid-que-tablao-escolher
 tiempo_lectura: 4
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 reservasArriba: true
 respuestaCorta: 'Per un tablao intimo nel Madrid de los Austrias, **Las Carboneras** (da 45 €, con bevanda, 4,7/5). Per spendere meno, avere più spettacoli e la possibilità di cenare nello stesso posto, **Torres Bermejas** (da 31 €, vicino alla Gran Vía). Entrambi sono spettacoli di **un''ora** con cancellazione gratuita fino a 24 ore prima; solo Las Carboneras è accessibile in sedia a rotelle.'
 opciones:

@@ -4,7 +4,7 @@ descripcion: "4 days based in Madrid: 2 in the city (Royal Palace, Prado, Retiro
 categoria: "madrid"
 slug: "madrid-toledo-segovia-4-days"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -94,7 +94,7 @@ Four days from a single base in Madrid is the easiest way to see three World Her
 
 ## Day 3: Toledo
 
-**8:30-9:30 — Avant from Atocha** (33 minutes; hourly departures from 6:50). Toledo station is 20 minutes' uphill walk from the old town: take bus 5 or a taxi (€6-8). No train? The Alsa coach from Plaza Elíptica takes 1 hour (about €11 return).
+**8:30-9:30 — Avant from Atocha** (33 minutes; hourly departures from 6:50). Toledo station is 20 minutes' uphill walk from the old town: take bus 5 or a taxi (€6-8); timetables and fares are in our [Madrid to Toledo train](/en/guides/madrid/madrid-to-toledo-train) guide. No train? The Alsa coach from Plaza Elíptica takes 1 hour (about €11 return).
 
 **10:00 — Primate Cathedral** (€12, 1 h 30; Monday to Saturday 10:00-18:30, last entry 18:00): Arfe's monstrance, the Transparente and the sacristy hung with El Grecos. Then **Santo Tomé** (*The Burial of the Count of Orgaz*, 30 minutes) and **Santa María la Blanca**. The **tourist wristband** (€14) covers seven sights that cost €4 each and pays off from the fourth:
 
@@ -122,7 +122,7 @@ If you'd rather have it all arranged, the full-day tour includes coach, guide an
 
 **14:30 — Roast suckling pig (cochinillo)**, the reason many Madrileños keep coming back. Book at weekends.
 
-**Afternoon:** wander back down through the Caballeros quarter or the old Jewish quarter to the aqueduct and return to Madrid at leisure. Segovia sits at around 1,000 metres: bring a coat from October to April.
+**Afternoon:** wander back down through the Caballeros quarter or the old Jewish quarter to the aqueduct and return to Madrid at leisure. Segovia sits at around 1,000 metres: bring a coat from October to April. More stops and visiting times in our [Segovia day trip from Madrid](/en/guides/madrid/segovia-day-trip-from-madrid).
 
 For no planning at all, the Ávila and Segovia tour with tickets covers both walled cities and the Alcázar in one day; for something different, there's a sunrise [hot-air balloon flight over Segovia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) with breakfast and cava (from €205).
 

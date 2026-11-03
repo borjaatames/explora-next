@@ -4,7 +4,8 @@ descripcion: "What to see in Málaga in two days: Alcazaba, Cathedral, Picasso M
 categoria: "malaga"
 slug: "malaga-in-two-days"
 fecha: "2026-02-28"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
+datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -23,7 +24,7 @@ slugs:
   it: malaga-in-due-giorni
   pt: malaga-em-2-dias
 reservasArriba: true
-respuestaCorta: 'Spend **day one in the old town**: the Alcazaba and Gibralfaro (€10 combined), the Cathedral rooftops, the Picasso Museum and sunset with a sardine espeto at La Malagueta. Give **day two to the Caminito del Rey**, which **sells out weeks ahead**, or to Nerja, Ronda or Antequera. A guided Caminito tour from Málaga starts at €72.'
+respuestaCorta: 'Spend **day one in the old town**: the Alcazaba and Gibralfaro (€10 combined), the Cathedral, the Picasso Museum and sunset with a sardine espeto at La Malagueta. Give **day two to the Caminito del Rey**, which **sells out weeks ahead**, or to Nerja, Ronda or Antequera. A guided Caminito tour from Málaga starts at €72.'
 actividades:
   - alcazaba-teatro-romano-malaga-visita-guiada
   - museo-picasso-malaga-entrada
@@ -42,7 +43,7 @@ imagen_portada: "/images/guias/malaga-en-dos-dias.jpg"
 imagen_alt: "View of Málaga from the Alcazaba"
 ---
 
-**Two days in Málaga go a long way.** The old town is compact, flat and pedestrian, so 48 hours cover the Alcazaba, the Picasso Museum, the Cathedral, the beach and, if you book ahead, the Caminito del Rey. In fifteen years it has gone from transit gate to the Costa del Sol to a city with more than thirty museums.
+**Two days in Málaga go a long way.** The old town is compact, flat and pedestrian, so 48 hours cover the Alcazaba, the Picasso Museum, the Cathedral, the beach and, if you book ahead, the Caminito del Rey. In fifteen years it has gone from transit gate to the Costa del Sol to a city with more than thirty museums. If you only have one day, or you're arriving on a cruise, the condensed version is [Málaga in one day](/en/guides/malaga/malaga-in-one-day).
 
 ## Book the essentials
 
@@ -71,7 +72,7 @@ imagen_alt: "View of Málaga from the Alcazaba"
 | --- | --- |
 | 9:30 | Alcazaba and Roman Theatre |
 | 11:00 | Gibralfaro Castle (views) |
-| 12:30 | Cathedral and rooftops |
+| 12:30 | Cathedral |
 | 14:00 | Lunch: Atarazanas Market, Calle Carretería |
 | 16:30 | Picasso Museum and Plaza de la Merced |
 | 19:30 | Muelle Uno and sunset at La Malagueta |
@@ -82,7 +83,7 @@ imagen_alt: "View of Málaga from the Alcazaba"
 
 **11:00 — Gibralfaro Castle.** Climb the rampart, or take **bus 35** if it's hot, to the castle joined to the Alcazaba: the best views of the port, the bullring and the sea. Half an hour up top is enough; avoid the shadeless climb at midday in summer.
 
-**12:30 — Cathedral.** Known as *La Manquita* ("the one-armed lady") because one of its towers was never finished. The highlight is the **rooftop visit**, walking along the roof with 360° views.
+**12:30 — Cathedral.** Known as *La Manquita* ("the one-armed lady") because one of its towers was never finished. The **rooftop visit** is suspended while the roof is rebuilt, probably until the end of 2027. For 360° views, head to Gibralfaro Castle or the Gibralfaro viewpoint instead.
 
 **14:00 — Lunch.** Fried fish and tapas at the Modernista **Atarazanas Market** or in the taverns of Calle Carretería. Have a glass of **sweet Málaga wine** in a historic bodega.
 
@@ -105,7 +106,7 @@ imagen_alt: "View of Málaga from the Alcazaba"
 | Alcazaba + Gibralfaro | €10 combined (€7 each); free Sundays from 14:00 | 9:00–20:00 summer, to 18:00 winter |
 | Picasso Museum | €13 with audio guide; free for under-17s and every Sunday for the last two hours | 10:00–18:00 (19:00 spring and autumn, 20:00 July and August) |
 | Picasso Birthplace · Pompidou · Carmen Thyssen | €4 · €9 (closed Tuesdays) · €10 (closed Mondays) | |
-| Cathedral | €10 with audio guide; rooftops €10 extra with guide; free under-13s | Closed Sunday mornings |
+| Cathedral | €10 with audio guide; free under-13s | Closed Sunday mornings |
 | Roman Theatre | Free | Closed Mondays |
 | Caminito del Rey | €10 self-guided, €18 with guide, online only; shuttle €2.50 | Train to El Chorro, 45 min |
 | Transport | Bus €1.40; C-1 train to Torremolinos and Fuengirola €3.60, every 20 min | Atarazanas Market Mon–Sat 8:00–15:00 |

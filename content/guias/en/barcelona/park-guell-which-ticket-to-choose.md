@@ -1,6 +1,7 @@
 ---
-titulo: "Park Güell: which ticket to choose"
-descripcion: "Park Güell basic ticket (€21.50) or ticket with the Gaudí House Museum (€28)? What each includes, timed-entry rules, hours and how to get there."
+titulo: 'Park Güell tickets: prices, what each includes and which to buy'
+descripcion: 'Park Güell tickets: €18 on the official site, €21.50 skip-the-line or €28 with the Gaudí House Museum. Timed entry, no cancellations, and which one to buy.'
+metaTitle: 'Park Güell tickets: prices and which to buy'
 categoria: "barcelona"
 slug: "park-guell-which-ticket-to-choose"
 fecha: "2026-09-20"
@@ -10,11 +11,12 @@ destacada: false
 imagen_portada: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"
 imagen_alt: "Gaudí's mosaics and architecture at Park Güell, Barcelona"
 keywords:
-  - "park guell which ticket to choose"
-  - "best park guell ticket"
-  - "park guell comparison"
-  - "park guell guided or self guided"
-  - "park guell ticket price"
+  - 'park guell tickets'
+  - 'park guell tickets price'
+  - 'park guell official tickets'
+  - 'park guell skip the line'
+  - 'park guell gaudi house museum ticket'
+  - 'park guell and sagrada familia tour'
 slugs:
   es: park-guell-que-entrada-elegir
   en: park-guell-which-ticket-to-choose
@@ -22,7 +24,7 @@ slugs:
   fr: park-guell-quel-billet-choisir
   it: park-guell-quale-biglietto-scegliere
   pt: park-guell-que-bilhete-escolher
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 reservasArriba: true
 respuestaCorta: 'If you only want the monumental zone (the dragon stairway, the Hypostyle Hall and the serpentine bench), the **basic ticket from €21.50** is enough. For €6.50 more, the **ticket with the Gaudí House Museum** (€28) adds the house where the architect lived. Neither includes a guide and **neither can be cancelled**: book only once your timing is fixed.'
 actividades:

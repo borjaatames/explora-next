@@ -1,10 +1,11 @@
 ---
-titulo: 'Biglietti della Cattedrale di Siviglia e della Giralda esauriti: cosa fare e quali opzioni restano'
-descripcion: 'Se il sito ufficiale della Cattedrale non ha biglietti: la biglietteria della Puerta del Príncipe, la visita gratuita della domenica, i tetti, i biglietti con orario dei rivenditori e cosa vedere senza biglietto.'
+titulo: 'Cattedrale di Siviglia biglietti: prezzo, Giralda e cosa fare se esauriti'
+descripcion: 'Cattedrale di Siviglia biglietti: 13 € online e 14 € in biglietteria, Giralda inclusa. La visita gratuita della domenica e cosa fare se sono esauriti.'
+metaTitle: 'Cattedrale Siviglia biglietti: prezzo e orari'
 categoria: sevilla
 slug: cattedrale-siviglia-giralda-biglietti-esauriti
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/catedral-sevilla-giralda-entradas-agotadas.jpg
 imagen_alt: La Giralda e la facciata gotica della Cattedrale di Siviglia viste da Plaza Virgen de los Reyes
 tiempo_lectura: 4
 keywords:
-- biglietti cattedrale siviglia esauriti
-- cattedrale siviglia senza biglietti
-- biglietti giralda esauriti
-- cattedrale siviglia biglietteria stesso giorno
-- cattedrale siviglia esaurita cosa fare
+- cattedrale siviglia biglietti
+- cattedrale siviglia prezzo
+- biglietti giralda
+- cattedrale siviglia gratis
+- cattedrale siviglia biglietti esauriti
+- cattedrale siviglia biglietteria
 slugs:
   es: catedral-sevilla-giralda-entradas-agotadas
   en: seville-cathedral-giralda-tickets-sold-out

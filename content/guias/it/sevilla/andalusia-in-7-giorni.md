@@ -4,7 +4,7 @@ descripcion: "Itinerario di 7 giorni in Andalusia in treno: 2 notti a Siviglia, 
 categoria: "sevilla"
 slug: "andalusia-in-7-giorni"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -167,4 +167,4 @@ Granada abbassa molto la spesa per mangiare: la tapa è gratis con la bevanda. S
 
 ## In una frase
 
-Quattro città unite da treni di meno di un'ora e mezza, due biglietti acquistati per tempo e una notte in ogni posto che lo merita davvero: così sette giorni in Andalusia si godono invece di subirli. Se ti avanza un giorno, Cadice e Jerez da Siviglia, in [escursioni da Siviglia](/it/guides/sevilla/escursioni-da-siviglia).
+Quattro città unite da treni di meno di un'ora e mezza, due biglietti acquistati per tempo e una notte in ogni posto che lo merita davvero: così sette giorni in Andalusia si godono invece di subirli. Se ti avanza un giorno, Cadice e Jerez da Siviglia, in [escursioni da Siviglia](/it/guides/sevilla/escursioni-da-siviglia); e se hai dieci giorni e vuoi aggiungere Madrid, Toledo e Barcellona, segui il nostro [tour della Spagna in 10 giorni](/it/guides/madrid/tour-spagna-10-giorni).

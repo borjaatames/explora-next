@@ -4,7 +4,7 @@ descripcion: "Itinéraire de 7 jours en Andalousie en train : 2 nuits à Sévill
 categoria: "sevilla"
 slug: "andalousie-en-7-jours"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -167,4 +167,4 @@ Grenade fait beaucoup baisser le budget repas : la tapa est offerte avec la bois
 
 ## En une phrase
 
-Quatre villes reliées par des trains de moins d'une heure et demie, deux billets achetés à l'avance et une nuit dans chaque endroit qui le mérite vraiment : c'est ainsi que sept jours en Andalousie se savourent au lieu de se subir. S'il vous reste un jour, Cadix et Jerez depuis Séville, dans [excursions depuis Séville](/fr/guides/sevilla/excursions-depuis-seville).
+Quatre villes reliées par des trains de moins d'une heure et demie, deux billets achetés à l'avance et une nuit dans chaque endroit qui le mérite vraiment : c'est ainsi que sept jours en Andalousie se savourent au lieu de se subir. S'il vous reste un jour, Cadix et Jerez depuis Séville, dans [excursions depuis Séville](/fr/guides/sevilla/excursions-depuis-seville) ; et avec dix jours pour ajouter Madrid, Tolède et Barcelone, suivez notre [road trip en Espagne en 10 jours](/fr/guides/madrid/road-trip-espagne-10-jours).

@@ -1,10 +1,11 @@
 ---
-titulo: "Kathedrale von Sevilla und Giralda Tickets ausverkauft: was tun und welche Optionen bleiben"
-descripcion: "Wenn die offizielle Website der Kathedrale keine Tickets mehr hat: die Kasse an der Puerta del Príncipe, der kostenlose Besuch am Sonntag, die Dächer, Tickets mit Uhrzeit über Wiederverkäufer und was du ohne Ticket sehen kannst."
+titulo: 'Kathedrale Sevilla Tickets: Preis, Giralda und was tun, wenn ausverkauft'
+descripcion: 'Kathedrale Sevilla Tickets mit Giralda: 14 € an der Kasse an der Puerta del Príncipe, über Wiederverkäufer ab 17,50 €. Und was tun, wenn alles ausverkauft ist.'
+metaTitle: 'Kathedrale Sevilla Tickets: Preis und Giralda'
 categoria: sevilla
 slug: kathedrale-sevilla-giralda-tickets-ausverkauft
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/catedral-sevilla-giralda-entradas-agotadas.jpg
 imagen_alt: "Die Giralda und die gotische Fassade der Kathedrale von Sevilla, von der Plaza Virgen de los Reyes aus gesehen"
 tiempo_lectura: 4
 keywords:
-  - "kathedrale sevilla tickets ausverkauft"
-  - "kathedrale sevilla keine tickets mehr"
-  - "giralda tickets ausverkauft"
-  - "kathedrale sevilla tickets vor ort"
-  - "kathedrale sevilla kostenlos"
+  - 'kathedrale sevilla tickets'
+  - 'giralda tickets'
+  - 'kathedrale sevilla eintritt'
+  - 'kathedrale sevilla preis'
+  - 'kathedrale sevilla tickets ausverkauft'
+  - 'kathedrale sevilla kostenlos'
 slugs:
   es: catedral-sevilla-giralda-entradas-agotadas
   en: seville-cathedral-giralda-tickets-sold-out

@@ -1,22 +1,24 @@
 ---
-titulo: "Flamenco a Siviglia: quale tablao scegliere (confronto tra i 5 spettacoli)"
-descripcion: "Siviglia ha 5 spettacoli di flamenco prenotabili separatamente, ognuno in un locale diverso. Confrontiamo prezzo, formato e atmosfera perché tu scelga quello che fa davvero per te."
+titulo: 'Spettacolo flamenco a Siviglia: quale tablao scegliere (5 a confronto)'
+descripcion: 'Spettacolo flamenco a Siviglia: i 5 tablaos prenotabili, da 24 a 45 €, per prezzo, formato e atmosfera. Circa un''ora, cancellazione gratis fino a 24 h.'
+metaTitle: 'Spettacolo flamenco Siviglia: quale scegliere'
 respuestaCorta: 'I cinque spettacoli di flamenco prenotabili a Siviglia durano circa un''ora e costano **tra 24 e 45 €**. Scegli **Casa de la Memoria** (24 €, solo due file) se cerchi intimità, il **Teatro Flamenco Sevilla** (25 €) come opzione più sicura e con buona visibilità, e il **Tablao El Arenal** (45 €) se vuoi cenare durante lo spettacolo. Tutti hanno la cancellazione gratuita fino a 24 ore prima.'
 categoria: "sevilla"
 slug: "flamenco-siviglia-quale-tablao-scegliere"
 fecha: "2026-09-06"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/sevilla/teatro-flamenco-sevilla/teatro-flamenco-sevilla-bailaora-contraluz.webp"
 imagen_alt: "Ballerina di flamenco in pieno movimento durante uno spettacolo a Siviglia"
 keywords:
-  - "flamenco siviglia quale tablao scegliere"
-  - "miglior spettacolo flamenco siviglia"
-  - "flamenco siviglia confronto"
-  - "dove vedere il flamenco a siviglia"
-  - "tablao flamenco siviglia prezzo"
+- spettacolo flamenco siviglia
+- flamenco siviglia
+- miglior tablao flamenco siviglia
+- tablao flamenco siviglia prezzo
+- dove vedere il flamenco a siviglia
+- flamenco siviglia con cena
 slugs:
   es: flamenco-sevilla-que-tablao-elegir
   en: flamenco-seville-which-tablao-to-choose

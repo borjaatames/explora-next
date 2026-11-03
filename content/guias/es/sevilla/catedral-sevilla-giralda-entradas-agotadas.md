@@ -1,10 +1,11 @@
 ---
-titulo: 'Entradas de la Catedral de Sevilla y la Giralda agotadas: qué hacer y qué opciones quedan'
-descripcion: 'Si la web oficial de la Catedral no tiene entradas: la taquilla de la Puerta del Príncipe, la visita gratuita de los domingos, las cubiertas, las entradas con hora de reventa y qué ver sin entrada.'
+titulo: 'Entradas Catedral de Sevilla y Giralda: precio, cómo comprar y si se agotan'
+descripcion: 'Entradas Catedral de Sevilla: 13 € online y 14 € en taquilla, con la subida a la Giralda incluida. Horarios, domingos gratis y qué hacer si se agotan.'
+metaTitle: 'Entradas Catedral Sevilla y Giralda: precio'
 categoria: sevilla
 slug: catedral-sevilla-giralda-entradas-agotadas
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/catedral-sevilla-giralda-entradas-agotadas.jpg
 imagen_alt: La Giralda y la fachada gótica de la Catedral de Sevilla vistas desde la Plaza Virgen de los Reyes
 tiempo_lectura: 4
 keywords:
-- entradas catedral sevilla agotadas
-- catedral sevilla sin entradas
-- entradas giralda agotadas
-- catedral sevilla taquilla mismo día
-- catedral sevilla agotada qué hacer
+  - 'entradas catedral de sevilla'
+  - 'precio entrada catedral sevilla'
+  - 'entradas giralda'
+  - 'catedral sevilla gratis domingo'
+  - 'catedral sevilla taquilla'
+  - 'entradas catedral sevilla agotadas'
 slugs:
   es: catedral-sevilla-giralda-entradas-agotadas
   en: seville-cathedral-giralda-tickets-sold-out

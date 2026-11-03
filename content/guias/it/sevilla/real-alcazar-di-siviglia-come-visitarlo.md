@@ -1,10 +1,11 @@
 ---
-titulo: 'Real Alcázar di Siviglia: come visitarlo (guida onesta 2026)'
-descripcion: 'Come visitare il Real Alcázar di Siviglia: prezzi 2026, orari, cosa vedere all''interno, Patio de las Doncellas, Salón de Embajadores, giardini ed errori tipici.'
+titulo: 'Alcázar di Siviglia biglietti: prezzo e come visitarlo (guida onesta 2026)'
+descripcion: 'Alcázar di Siviglia biglietti: 15,50 € l''intero, 2,5-3 ore di visita e code oltre le 2 ore in alta stagione. Orari, cosa vedere, i giardini e le visite guidate.'
+metaTitle: 'Alcázar Siviglia biglietti: prezzo e visita'
 categoria: sevilla
 slug: real-alcazar-di-siviglia-come-visitarlo
 fecha: '2026-04-29'
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/alcazar-de-sevilla-como-visitar.jpg
 imagen_alt: "Cortile interno del Real Alcázar di Siviglia"
 tiempo_lectura: 3
 keywords:
-- real alcázar siviglia
-- come visitare alcázar siviglia
-- biglietti alcázar siviglia
-- cuarto real alto alcázar
-- giardini alcázar siviglia
+- alcazar siviglia biglietti
+- real alcazar siviglia prezzo
+- 'come visitare l''alcazar di siviglia'
+- alcazar siviglia orari
+- alcazar siviglia visita guidata
+- giardini alcazar siviglia
 slugs:
   es: alcazar-de-sevilla-como-visitar
   en: alcazar-of-seville-how-to-visit

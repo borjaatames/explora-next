@@ -1,10 +1,11 @@
 ---
-titulo: "Alhambra Tickets ausverkauft: was du tun kannst und welche Optionen bleiben"
-descripcion: "Die offizielle Website der Alhambra hat keine Tickets mehr? Last-Minute-Tickets, die Granada Card, der Nachtbesuch, Führungen mit Ticket und was du ohne Ticket siehst."
+titulo: 'Alhambra Tickets ausverkauft: was du tun kannst und welche Optionen bleiben'
+descripcion: 'Alhambra Tickets ausverkauft? Last-Minute-Tickets am Vorabend von 20 bis 22 Uhr, Granada Card, Nachtbesuch und Führungen mit Ticket für die Nasridenpaläste.'
+metaTitle: 'Alhambra Tickets ausverkauft: was tun?'
 categoria: granada
 slug: alhambra-tickets-ausverkauft
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/alhambra-entradas-agotadas.jpg
 imagen_alt: "Löwenhof in den Nasridenpalästen der Alhambra"
 tiempo_lectura: 4
 keywords:
-  - "alhambra tickets ausverkauft"
-  - "alhambra keine tickets mehr"
-  - "alhambra tickets kurzfristig"
-  - "alhambra ausverkauft was tun"
-  - "granada card alhambra"
+  - 'alhambra tickets ausverkauft'
+  - 'alhambra keine tickets mehr'
+  - 'alhambra tickets kurzfristig'
+  - 'alhambra last minute tickets'
+  - 'granada card alhambra'
+  - 'alhambra führung mit ticket'
 slugs:
   es: alhambra-entradas-agotadas
   en: alhambra-tickets-sold-out

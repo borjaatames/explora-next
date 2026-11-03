@@ -1,10 +1,11 @@
 ---
-titulo: 'Entradas de la Alhambra agotadas: qué hacer y qué opciones quedan'
-descripcion: 'Si la web oficial de la Alhambra no tiene entradas: las de última hora, la Granada Card, la visita nocturna, las visitas guiadas con entrada y qué ver sin entrada.'
+titulo: 'Entradas Alhambra agotadas: qué hacer y qué opciones quedan'
+descripcion: 'Entradas de la Alhambra agotadas: a veces salen la víspera, de 20:00 a 22:00. Además, la Granada Card, la nocturna y las visitas guiadas con entrada.'
+metaTitle: 'Entradas Alhambra agotadas: qué hacer'
 categoria: granada
 slug: alhambra-entradas-agotadas
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/alhambra-entradas-agotadas.jpg
 imagen_alt: Patio de los Leones en los Palacios Nazaríes de la Alhambra
 tiempo_lectura: 4
 keywords:
-- entradas alhambra agotadas
-- alhambra sin entradas
-- entradas alhambra última hora
-- alhambra entradas agotadas qué hacer
-- granada card alhambra
+  - 'entradas alhambra agotadas'
+  - 'alhambra sin entradas'
+  - 'entradas alhambra última hora'
+  - 'granada card alhambra'
+  - 'alhambra agotada qué hacer'
+  - 'alhambra taquilla mismo día'
 slugs:
   es: alhambra-entradas-agotadas
   en: alhambra-tickets-sold-out

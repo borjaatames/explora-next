@@ -1,22 +1,25 @@
 ---
-titulo: "Flamenco in Barcelona: which tablao to choose (comparing all 4 shows)"
-descripcion: "Barcelona has 4 separately bookable flamenco shows, from a large-capacity theater to a 17th-century baroque palace. We compare price, format and atmosphere."
+titulo: 'Flamenco show in Barcelona: the 4 tablaos compared'
+descripcion: 'Flamenco shows in Barcelona compared: City Hall from €25, Palau Dalmases €30, Tablao Cordobés from €48 and Tablao de Carmen €88 with dinner. Which to pick.'
+metaTitle: 'Flamenco show Barcelona: the 4 compared'
 categoria: "barcelona"
 slug: "flamenco-barcelona-which-tablao-to-choose"
 fecha: "2026-09-06"
 autor: Borja
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/flamenco-en-el-teatro-city-hall-mas-vendido/flamenco-en-el-teatro-city-hall-mas-vendido-flamenco-bailaor-hero.webp"
 imagen_alt: "Flamenco dancer mid-performance at a Barcelona tablao"
 keywords:
-  - "flamenco barcelona which show to choose"
-  - "best flamenco show barcelona"
-  - "barcelona flamenco comparison"
-  - "where to see flamenco in barcelona"
-  - "flamenco tablao barcelona price"
+  - 'flamenco show barcelona'
+  - 'best flamenco show barcelona'
+  - 'flamenco barcelona'
+  - 'flamenco tablao barcelona'
+  - 'flamenco dinner show barcelona'
+  - 'palau dalmases flamenco'
+  - 'tablao cordobes barcelona'
 slugs:
   es: flamenco-barcelona-que-tablao-elegir
   en: flamenco-barcelona-which-tablao-to-choose

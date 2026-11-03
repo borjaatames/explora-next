@@ -1,6 +1,7 @@
 ---
-titulo: "Park Güell: quale biglietto scegliere (confronto)"
-descripcion: "Park Güell: biglietto base (21,50 €) o con la Casa Museo Gaudí (28 €). Cosa include ciascuno, orari, come arrivare e cosa sapere prima di prenotare."
+titulo: 'Biglietti Park Güell: prezzi e quale scegliere'
+descripcion: 'Biglietti Park Güell: il base da 21,50 € per la zona monumentale o quello con la Casa Museo Gaudí da 28 €. Cosa include ciascuno, orari e come arrivare.'
+metaTitle: 'Biglietti Park Güell: prezzi e confronto'
 categoria: "barcelona"
 slug: "park-guell-quale-biglietto-scegliere"
 fecha: "2026-09-20"
@@ -10,11 +11,12 @@ destacada: false
 imagen_portada: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"
 imagen_alt: "Mosaici e architettura di Gaudí nel Park Güell di Barcellona"
 keywords:
-  - "park guell quale biglietto scegliere"
-  - "miglior biglietto park guell"
-  - "park guell confronto"
-  - "park guell con guida o senza guida"
-  - "park guell prezzo biglietto"
+- biglietti park guell
+- park guell prezzo biglietto
+- park guell quale biglietto scegliere
+- park guell casa museo gaudi
+- park guell orari
+- park guell con guida o senza guida
 slugs:
   es: park-guell-que-entrada-elegir
   en: park-guell-which-ticket-to-choose
@@ -23,7 +25,7 @@ slugs:
   it: park-guell-quale-biglietto-scegliere
   pt: park-guell-que-bilhete-escolher
 tiempo_lectura: 4
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 reservasArriba: true
 respuestaCorta: 'Se vuoi vedere solo la zona monumentale (il drago, la Sala Ipostila e la panchina ondulata), basta il **biglietto base da 21,50 €**. Con 6,50 € in più, il **biglietto con la Casa Museo Gaudí** (28 €) aggiunge la casa in cui visse l''architetto. Nessuno dei due include la guida e **nessuno si può cancellare**: prenota solo quando hai chiaro l''orario.'
 actividades:

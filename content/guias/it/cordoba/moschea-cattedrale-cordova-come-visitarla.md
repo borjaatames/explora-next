@@ -1,20 +1,22 @@
 ---
-titulo: "Moschea-cattedrale di Cordova: come visitarla (biglietti e consigli)"
-descripcion: "Come visitare la Moschea-cattedrale di Cordova: prezzi 2026, la fascia gratuita delle 8:30, orari della domenica, il campanile, cosa vedere all'interno e quale tour prenotare."
+titulo: 'Moschea di Cordova: biglietti, orari e visita guidata'
+descripcion: 'Moschea di Cordova: biglietto da 15 €, ingresso gratuito da lunedì a sabato dalle 8:30 alle 9:30, orari della domenica, campanile e visita guidata da 32 €.'
+metaTitle: 'Moschea di Cordova: biglietti, orari e tour'
 categoria: "cordoba"
 slug: "moschea-cattedrale-cordova-come-visitarla"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 4
 keywords:
-  - "moschea di cordova"
-  - "moschea cattedrale cordova biglietti"
-  - "come visitare la moschea di cordova"
-  - "mezquita cordova orari"
-  - "moschea di cordova ingresso gratuito"
+- moschea di cordova
+- moschea di cordova biglietti
+- visita guidata moschea cordova
+- moschea cordova orari
+- moschea cordova ingresso gratuito
+- moschea cattedrale cordova prezzo
 slugs:
   es: mezquita-catedral-como-visitar
   en: mosque-cathedral-how-to-visit

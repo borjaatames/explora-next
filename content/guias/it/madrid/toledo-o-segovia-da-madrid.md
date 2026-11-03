@@ -4,7 +4,7 @@ descripcion: 'Toledo o Segovia da Madrid: treno e autobus con tempi e prezzi, co
 categoria: madrid
 slug: toledo-o-segovia-da-madrid
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -85,7 +85,7 @@ Segovia si percorre in linea retta, e questo fa parte del suo fascino: arrivi al
 - **Il cibo:** il maialino arrosto è il motivo per cui molti madrileni tornano a Segovia. Prenota un tavolo se vai nel fine settimana.
 - **Il clima:** a circa 1.000 metri di altitudine, d'estate al tramonto rinfresca; in inverno fa freddo davvero.
 
-In cinque o sei ore vedi l'essenziale senza fretta e pranzi con calma. Per questo Segovia si abbina così spesso ad Ávila nella stessa escursione, come in [Ávila e Segovia con ingressi inclusi](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). E se vuoi vedere acquedotto, Cattedrale e Alcázar tutti insieme, il [volo in mongolfiera su Segovia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) è il modo più memorabile.
+In cinque o sei ore vedi l'essenziale senza fretta e pranzi con calma; l'itinerario passo per passo è in [cosa vedere a Segovia in un giorno](/it/guides/madrid/cosa-vedere-a-segovia-in-un-giorno). Per questo Segovia si abbina così spesso ad [Ávila](/it/guides/madrid/cosa-vedere-ad-avila-in-un-giorno) nella stessa escursione, come in [Ávila e Segovia con ingressi inclusi](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). E se vuoi vedere acquedotto, Cattedrale e Alcázar tutti insieme, il [volo in mongolfiera su Segovia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) è il modo più memorabile.
 
 [actividad: excursion-avila-segovia-con-entradas]
 

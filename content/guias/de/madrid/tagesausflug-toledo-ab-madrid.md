@@ -1,10 +1,11 @@
 ---
-titulo: "Toledo ab Madrid in 1 Tag: ein Ausflug durch drei Kulturen"
-descripcion: "Toledo in einem Tag ab Madrid: was mit Anspruch besichtigen, wie man hinkommt (Auto, AVE, Bus), was man meiden sollte und warum es der beste Ausflug bei Madrid ist."
+titulo: 'Toledo Sehenswürdigkeiten an einem Tag: Tagesausflug ab Madrid'
+descripcion: 'Toledo Sehenswürdigkeiten an einem Tag: Kathedrale, Santo Tomé, Synagogen und Mirador del Valle. Mit dem Avant 33 Minuten ab Madrid. Route und typische Fehler.'
+metaTitle: 'Toledo Sehenswürdigkeiten an einem Tag'
 categoria: "madrid"
 slug: "tagesausflug-toledo-ab-madrid"
 fecha: "2026-04-02"
-fecha_actualizacion: "2026-05-01"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,13 @@ imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
 imagen_alt: "Alcázar von Toledo über der Altstadt"
 tiempo_lectura: 11
 keywords:
-  - "tagesausflug toledo"
-  - "toledo ab madrid"
-  - "was in toledo an einem tag sehen"
-  - "wie kommt man von madrid nach toledo"
-  - "ausflüge ab madrid"
+  - 'toledo sehenswürdigkeiten'
+  - 'toledo an einem tag'
+  - 'tagesausflug toledo'
+  - 'toledo ab madrid'
+  - 'ausflug toledo ab madrid'
+  - 'was in toledo sehen'
+  - 'ausflüge ab madrid'
 slugs:
   es: escapadas-desde-madrid-toledo
   en: toledo-day-trip-from-madrid
@@ -69,7 +72,7 @@ Vier Möglichkeiten, geordnet nach Geschwindigkeit und Komfort:
 
 ### 1. AVE / Avant (die schnellste)
 
-**33 Minuten** von Madrid Atocha nach Toledo. Ohne Zwischenstopp. Der bequemste, planbarste und schnellste Zug. Abfahrten etwa jede Stunde ab Atocha; erster Zug gegen 6:50 Uhr, letzte Rückfahrt nach Madrid gegen 21:30 Uhr. Hin- und Rückfahrt zwischen **22 und 26 €**, je nach Vorlaufzeit. Reserviere auf der Renfe-Website — die frühen Züge sind schnell ausgebucht.
+**33 Minuten** von Madrid Atocha nach Toledo. Ohne Zwischenstopp. Der bequemste, planbarste und schnellste Zug. Abfahrten etwa jede Stunde ab Atocha; erster Zug gegen 6:50 Uhr, letzte Rückfahrt nach Madrid gegen 21:30 Uhr. Hin- und Rückfahrt zwischen **22 und 26 €**, je nach Vorlaufzeit. Reserviere auf der Renfe-Website — die frühen Züge sind schnell ausgebucht. Fahrpläne und Preise im Detail findest du in unserem Ratgeber zum [Zug Madrid–Toledo](/de/guides/madrid/zug-madrid-toledo).
 
 Empfohlen, wenn du im Zentrum Madrids wohnst und Zeit sparen willst.
 
@@ -189,9 +192,9 @@ Empfohlene Viertel: die **Altstadt** (Paradores, Boutique-Hotels in mittelalterl
 Wenn dir Toledo gefallen hat und du wieder einen freien Tag hast, weitere Optionen in einer Stunde Entfernung:
 
 - **El Escorial und Valle de Cuelgamuros**: ausführlich behandelt in [Madrid in 3 Tagen](/de/guides/madrid/madrid-in-3-tagen). Philipp II. und das imperiale Spanien.
-- **Segovia**: das römische Aquädukt, der märchenhafte Alcázar und ein legendäres Spanferkel. Perfekte Kombination aus Geschichte und Gastronomie.
+- **Segovia**: das römische Aquädukt, der märchenhafte Alcázar und ein legendäres Spanferkel. Perfekte Kombination aus Geschichte und Gastronomie. Die Route steht in [Segovia an einem Tag](/de/guides/madrid/segovia-sehenswuerdigkeiten-tagesausflug).
 - **Aranjuez**: königlicher Palast der Bourbonen, Gärten im Stil von Versailles auf Spanisch. Besonders schön im Frühling.
-- **Ávila**: unversehrte mittelalterliche Stadtmauer, Santa Teresa, solide kastilische Küche. Kühler.
+- **Ávila**: unversehrte mittelalterliche Stadtmauer, Santa Teresa, solide kastilische Küche. Kühler. Mehr dazu in [Ávila an einem Tag](/de/guides/madrid/avila-sehenswuerdigkeiten-tagesausflug).
 - **Alcalá de Henares**: Universitätsstadt, Geburtshaus von Cervantes. Näher gelegen und weniger besucht.
 
 Jede verdient ihren eigenen Ratgeber. Aber Toledo bleibt, wenn du nur einen Tag hast, **die beste Wahl**.

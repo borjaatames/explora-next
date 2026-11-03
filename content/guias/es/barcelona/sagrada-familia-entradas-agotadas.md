@@ -1,10 +1,11 @@
 ---
-titulo: 'Entradas de la Sagrada Familia agotadas: qué hacer'
-descripcion: 'Si la web oficial de la Sagrada Familia no tiene entradas: cuándo salen, los códigos QR del templo, los tours con cupo propio, las misas y qué ver por fuera.'
+titulo: 'Entradas Sagrada Familia agotadas: qué opciones quedan'
+descripcion: 'Entradas de la Sagrada Familia agotadas: salen unos dos meses antes y no hay taquilla. Qué hacer: códigos QR, tours con cupo propio y la misa de las 9:00.'
+metaTitle: 'Entradas Sagrada Familia agotadas: qué hacer'
 categoria: barcelona
 slug: sagrada-familia-entradas-agotadas
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/sagrada-familia-entradas-agotadas.jpg
 imagen_alt: Fachada del Nacimiento de la Sagrada Familia de Barcelona
 tiempo_lectura: 4
 keywords:
-- entradas sagrada familia agotadas
-- sagrada familia sin entradas
-- sagrada familia entradas última hora
-- sagrada familia agotada qué hacer
-- misa sagrada familia
+  - 'entradas sagrada familia agotadas'
+  - 'sagrada familia sin entradas'
+  - 'entradas sagrada familia última hora'
+  - 'sagrada familia tour con entrada'
+  - 'sagrada familia taquilla'
+  - 'misa sagrada familia'
 slugs:
   es: sagrada-familia-entradas-agotadas
   en: sagrada-familia-tickets-sold-out

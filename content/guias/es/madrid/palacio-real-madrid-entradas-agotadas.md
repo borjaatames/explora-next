@@ -1,10 +1,11 @@
 ---
-titulo: 'Entradas del Palacio Real de Madrid agotadas: qué hacer'
-descripcion: 'Si la web oficial del Palacio Real no tiene entradas: la taquilla, la visita guiada oficial, la entrada gratuita de la tarde, los tours con entrada incluida y qué ver por fuera.'
+titulo: 'Entradas Palacio Real de Madrid: precio, horario gratis y si se agotan'
+descripcion: 'Entradas Palacio Real de Madrid: 18 € la general y gratis de lunes a jueves las dos últimas horas para UE e Iberoamérica. Qué hacer si tu franja se agota.'
+metaTitle: 'Entradas Palacio Real Madrid: precio y gratis'
 categoria: madrid
 slug: palacio-real-madrid-entradas-agotadas
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/palacio-real-madrid-entradas-agotadas.jpg
 imagen_alt: Fachada sur del Palacio Real de Madrid desde la plaza de la Armería
 tiempo_lectura: 4
 keywords:
-- entradas palacio real agotadas
-- palacio real madrid sin entradas
-- palacio real entradas última hora
-- palacio real gratis
-- taquilla palacio real madrid
+  - 'entradas palacio real madrid'
+  - 'precio entrada palacio real'
+  - 'palacio real madrid gratis'
+  - 'palacio real madrid visita guiada'
+  - 'entradas palacio real agotadas'
+  - 'taquilla palacio real madrid'
 slugs:
   es: palacio-real-madrid-entradas-agotadas
   en: royal-palace-madrid-tickets-sold-out

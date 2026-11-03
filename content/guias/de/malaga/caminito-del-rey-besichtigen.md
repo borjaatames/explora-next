@@ -1,20 +1,23 @@
 ---
-titulo: "Caminito del Rey besichtigen: Tickets, Anreise und Tipps"
-descripcion: "So besuchst du den Caminito del Rey von Málaga aus: Tickets bekommen, Anreise mit Zug oder Auto, Dauer, Schwierigkeitsgrad und was du mitnehmen solltest. Alles, was du wissen musst."
+titulo: 'Caminito del Rey: Tickets, Anreise und Tipps für die Wanderung'
+descripcion: 'Caminito del Rey ab Málaga: Tickets rechtzeitig buchen, Anreise per Zug in 40-50 Minuten oder mit dem Auto, 7,7 km in 3-4 Stunden und was du mitnehmen solltest.'
+metaTitle: 'Caminito del Rey: Tickets, Anreise, Tipps'
 categoria: "malaga"
 slug: "caminito-del-rey-besichtigen"
 fecha: "2026-03-10"
-fecha_actualizacion: "2026-03-10"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
 tiempo_lectura: 12
 keywords:
-  - "caminito del rey"
-  - "caminito del rey tickets"
-  - "caminito del rey ab málaga"
-  - "caminito del rey besichtigen"
-  - "el chorro"
+  - 'caminito del rey'
+  - 'caminito del rey tickets'
+  - 'caminito del rey anreise'
+  - 'caminito del rey ab málaga'
+  - 'caminito del rey wanderung'
+  - 'caminito del rey tour'
+  - 'el chorro'
 slugs:
   es: caminito-del-rey-como-visitar
   en: caminito-del-rey-how-to-visit

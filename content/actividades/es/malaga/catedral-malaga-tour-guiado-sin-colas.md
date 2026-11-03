@@ -25,8 +25,7 @@ highlights:
 incluye:
 - Guía
 - Entrada sin colas a la catedral
-noIncluye:
-- Subida a las cubiertas
+noIncluye: []
 puntoEncuentro:
   texto: Catedral de Málaga, centro histórico
   descripcionGuia: 'El punto exacto depende de la opción reservada: revisa el bono. Si llegas tarde, pierdes el tour y la entrada.'
@@ -54,7 +53,7 @@ preguntasFrecuentes:
 - pregunta: ¿Por qué «La Manquita»?
   respuesta: 'Porque solo tiene una torre: la segunda se quedó sin terminar. El guía cuenta las versiones de por qué se paró la obra.'
 - pregunta: ¿Incluye las cubiertas?
-  respuesta: No, la subida a las cubiertas es una visita aparte.
+  respuesta: No. Además, las cubiertas están cerradas por las obras del tejado hasta, previsiblemente, finales de 2027.
 - pregunta: ¿Cuánto dura?
   respuesta: Hora y media.
 opinionEditorial: 'La mejor nota de las visitas de Málaga y con razón: el guía hace entender una catedral que por libre es solo grande. Por 24 € con la entrada, buena compra.'

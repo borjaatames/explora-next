@@ -1,10 +1,11 @@
 ---
-titulo: 'Bilhetes do Museu do Prado esgotados ou filas enormes: o que fazer'
-descripcion: 'Se o seu horário no Prado aparecer esgotado ou a fila da hora grátis assustar: outras horas no site oficial, a bilheteira, a entrada gratuita, El Prado de noche, o passe Paseo del Arte e as visitas guiadas com bilhete.'
+titulo: 'Museu do Prado bilhetes: preço, horário grátis e se esgotarem'
+descripcion: 'Museu do Prado bilhetes: 15 € online ou na bilheteira, grátis de segunda a sábado das 18h00 às 20h00 e ao domingo das 17h00 às 19h00. E se esgotar.'
+metaTitle: 'Museu do Prado: bilhetes, preço e hora grátis'
 categoria: madrid
 slug: museu-do-prado-bilhetes-esgotados
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: /images/guias/museo-del-prado-entradas-agotadas.jpg
 imagen_alt: Fachada do Museu do Prado no Paseo del Prado, com a porta de Velázquez e a estátua do pintor
 tiempo_lectura: 4
 keywords:
-- bilhetes museu do prado esgotados
-- museu do prado sem bilhetes
-- fila museu do prado
-- museu do prado bilhetes última hora
-- museu do prado grátis fila
+  - 'museu do prado bilhetes'
+  - 'museu do prado preço'
+  - 'museu do prado grátis'
+  - 'museu do prado horário gratuito'
+  - 'fila museu do prado'
+  - 'bilhetes museu do prado esgotados'
 slugs:
   es: museo-del-prado-entradas-agotadas
   en: prado-museum-tickets-sold-out

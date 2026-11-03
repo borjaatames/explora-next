@@ -1,11 +1,12 @@
 ---
 titulo: "Malaga en deux jours : un itinéraire réfléchi entre musées et mer"
 descripcion: "Que voir à Malaga en deux jours : Alcazaba, cathédrale, musée Picasso, Caminito del Rey et plages. Itinéraire heure par heure, où manger, où dormir et ce qu'il faut éviter."
-respuestaCorta: 'Consacrez la **première journée au centre historique** : Alcazaba et Gibralfaro (10 € le billet combiné), les toits de la cathédrale, le musée Picasso et un espeto au coucher du soleil à la Malagueta. La **seconde, au Caminito del Rey**, qui **est complet des semaines à l''avance**, ou à Nerja, Ronda ou Antequera. La visite guidée du Caminito au départ de Malaga commence à 72 €.'
+respuestaCorta: 'Consacrez la **première journée au centre historique** : Alcazaba et Gibralfaro (10 € le billet combiné), la cathédrale, le musée Picasso et un espeto au coucher du soleil à la Malagueta. La **seconde, au Caminito del Rey**, qui **est complet des semaines à l''avance**, ou à Nerja, Ronda ou Antequera. La visite guidée du Caminito au départ de Malaga commence à 72 €.'
 categoria: "malaga"
 slug: "malaga-en-deux-jours"
 fecha: "2026-02-28"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-03'
+datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -42,7 +43,7 @@ imagen_portada: "/images/guias/malaga-en-dos-dias.jpg"
 imagen_alt: "Vue de Malaga depuis l'Alcazaba"
 ---
 
-**Deux jours à Malaga, c'est très rentable.** Le centre historique est compact, plat et piéton : en 48 heures, on y fait tenir l'Alcazaba, le musée Picasso, la cathédrale, la plage et, en s'organisant bien, le Caminito del Rey. Le piège, c'est de ne la voir que comme un aéroport et une plage : qui repart sans avoir vu autre chose que la Malagueta a manqué l'autre moitié d'une ville qui, en quinze ans, est passée de simple ville de transit à capitale culturelle avec plus de trente musées.
+**Deux jours à Malaga, c'est très rentable.** Le centre historique est compact, plat et piéton : en 48 heures, on y fait tenir l'Alcazaba, le musée Picasso, la cathédrale, la plage et, en s'organisant bien, le Caminito del Rey. Le piège, c'est de ne la voir que comme un aéroport et une plage : qui repart sans avoir vu autre chose que la Malagueta a manqué l'autre moitié d'une ville qui, en quinze ans, est passée de simple ville de transit à capitale culturelle avec plus de trente musées. Si vous n'avez qu'une journée, ou si vous arrivez en croisière, la version condensée est dans [que voir à Malaga en une journée](/fr/guides/malaga/que-voir-a-malaga-en-une-journee).
 
 ## Réservez l'essentiel
 
@@ -67,14 +68,14 @@ L'**AVE** arrive de Madrid en 2 h 20, de Cordoue en 1 h et de Séville en moins 
 | --- | --- |
 | 9 h 30 | Alcazaba et théâtre romain |
 | 11 h | Château de Gibralfaro |
-| 12 h 30 | Cathédrale et toits |
+| 12 h 30 | Cathédrale |
 | 14 h | Déjeuner : Atarazanas, Carretería |
 | 16 h 30 | Musée Picasso et plaza de la Merced |
 | 19 h 30 | Muelle Uno et coucher de soleil à la Malagueta |
 
 - **Alcazaba :** la forteresse-palais andalouse la mieux conservée d'Espagne, avec des patios et des jardins en terrasses au-dessus de la ville ; à ses pieds, le **théâtre romain**, qui se voit de l'extérieur en cinq minutes. Une heure et quart.
 - **Gibralfaro :** montez le long de la muraille, ou en bus 35 s'il fait trop chaud, pour la meilleure vue sur le port, les arènes et la mer. Une demi-heure.
-- **La cathédrale**, surnommée « la Manquita » (la manchote) parce qu'il lui manque une tour : le mieux est la visite des **toits**, où l'on marche sur la couverture avec une vue à 360°.
+- **La cathédrale**, surnommée « la Manquita » (la manchote) parce qu'il lui manque une tour : la visite des **toits** est suspendue pendant les travaux de la toiture, sans doute jusqu'à fin 2027. Pour une vue à 360°, montez plutôt au château ou au mirador de Gibralfaro.
 - **Musée Picasso**, plus de 200 œuvres dans le palais de Buenavista, et à cinq minutes la **maison natale** sur la Merced. Si vous voulez plus de musées : Pompidou (le Cube), Carmen Thyssen, Collection du Musée russe.
 - **Muelle Uno et la Malagueta :** le port réaménagé et un espeto de sardines dans un chiringuito au coucher du soleil, le programme le plus malaguène qui soit.
 
@@ -91,7 +92,7 @@ Le **Caminito del Rey**, à une heure en train de banlieue ou en voiture, est un
 | Alcazaba + Gibralfaro | 10 € le billet combiné (7 € chacun) ; gratuit le dimanche à partir de 14 h | 9 h-20 h en été, jusqu'à 18 h en hiver |
 | Musée Picasso | 13 € avec audioguide ; gratuit pour les moins de 17 ans et pour tous le dimanche pendant les deux dernières heures | 10 h-18 h (19 h au printemps et en automne, 20 h en juillet et août) |
 | Maison natale · Pompidou · Carmen Thyssen | 4 € · 9 € (fermé le mardi) · 10 € (fermé le lundi) | |
-| Cathédrale | 10 € avec audioguide ; toits, 10 € de plus avec guide ; gratuit pour les moins de 13 ans | Fermée le dimanche matin |
+| Cathédrale | 10 € avec audioguide ; gratuit pour les moins de 13 ans | Fermée le dimanche matin |
 | Théâtre romain | Gratuit | Fermé le lundi |
 | Caminito del Rey | 10 € en visite libre, 18 € avec guide, uniquement en ligne ; navette 2,50 € | Train jusqu'à El Chorro, 45 min |
 | Transports | Bus 1,40 € ; C-1 vers Torremolinos-Fuengirola 3,60 €, toutes les 20 min | Marché d'Atarazanas, du lundi au samedi 8 h-15 h |

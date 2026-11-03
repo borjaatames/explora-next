@@ -1,10 +1,11 @@
 ---
-titulo: 'Biglietti dell''Alhambra esauriti: cosa fare e quali opzioni restano'
-descripcion: 'Se il sito ufficiale dell''Alhambra non ha biglietti: quelli dell''ultimo minuto, la Granada Card, la visita notturna, le visite guidate con ingresso e cosa vedere senza biglietto.'
+titulo: 'Biglietti Alhambra esauriti: cosa fare e quali opzioni restano'
+descripcion: 'Biglietti Alhambra esauriti? Prova la sera prima tra le 20:00 e le 22:00, la Granada Card, la notturna, i tour con ingresso e cosa si vede senza biglietto.'
+metaTitle: 'Alhambra biglietti esauriti: cosa fare'
 categoria: granada
 slug: alhambra-biglietti-esauriti
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,10 +14,11 @@ imagen_alt: Il Cortile dei Leoni nei Palazzi Nasridi dell'Alhambra
 tiempo_lectura: 4
 keywords:
 - biglietti alhambra esauriti
-- alhambra senza biglietti
 - biglietti alhambra ultimo minuto
+- alhambra senza biglietti
 - alhambra biglietti esauriti cosa fare
 - granada card alhambra
+- alhambra tour con ingresso
 slugs:
   es: alhambra-entradas-agotadas
   en: alhambra-tickets-sold-out

@@ -1,11 +1,11 @@
 ---
-titulo: 'Alhambra Nachtbesuch ausverkauft: Zeiten, Preise und was du tun kannst'
-descripcion: 'Alhambra-Nachtbesuch ausverkauft? Tage und Zeiten für Nasridenpaläste und Generalife bei Nacht, offizielle Preise (12,73 € und 8,48 €), Granada Card und Touren.'
-metaTitle: 'Alhambra Nachtbesuch ausverkauft: Zeiten und Optionen'
+titulo: 'Alhambra bei Nacht: Tickets, Zeiten, Preise und was tun, wenn ausverkauft'
+descripcion: 'Alhambra bei Nacht: Nasridenpaläste für 12,73 €, im Winter nur freitags und samstags von 20 bis 21:30 Uhr. Generalife bei Nacht, Abendkasse und Touren.'
+metaTitle: 'Alhambra bei Nacht: Tickets, Zeiten, Preise'
 categoria: granada
 slug: alhambra-nachtbesuch-tickets-ausverkauft
 fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha_actualizacion: '2026-11-03'
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true
@@ -14,12 +14,13 @@ imagen_portada: /images/actividades/granada/mirador-san-nicolas/mirador-san-nico
 imagen_alt: Die Alhambra in der Abenddämmerung vom Mirador de San Nicolás aus, mit dem Palast Karls V. und der Sierra Nevada im Hintergrund
 tiempo_lectura: 5
 keywords:
-- alhambra nachtbesuch ausverkauft
-- alhambra bei nacht tickets
-- alhambra nachts öffnungszeiten
-- nasridenpaläste nachtbesuch preis
-- generalife bei nacht
-- alhambra experiencias ticket
+  - 'alhambra bei nacht'
+  - 'alhambra nachtbesuch'
+  - 'alhambra bei nacht tickets'
+  - 'alhambra nachts öffnungszeiten'
+  - 'nasridenpaläste nachtbesuch preis'
+  - 'generalife bei nacht'
+  - 'alhambra nachtbesuch ausverkauft'
 slugs:
   es: alhambra-nocturna-entradas-agotadas
   en: alhambra-night-visit-tickets-sold-out

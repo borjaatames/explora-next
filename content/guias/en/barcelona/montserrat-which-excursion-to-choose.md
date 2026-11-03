@@ -1,6 +1,7 @@
 ---
-titulo: "Montserrat from Barcelona: which excursion to choose"
-descripcion: "5 Montserrat excursions from Barcelona compared, from €47: price, duration, rack railway, Black Madonna access, and how to go on your own."
+titulo: 'Montserrat day trip from Barcelona: which tour to choose'
+descripcion: 'Montserrat day trips from Barcelona compared: half day from €59, full day with winery from €47, lunch or private tours, or go alone: Trans Montserrat from €50.'
+metaTitle: 'Montserrat day trip from Barcelona: tours'
 categoria: "barcelona"
 slug: "montserrat-which-excursion-to-choose"
 fecha: "2026-09-20"
@@ -10,11 +11,12 @@ destacada: false
 imagen_portada: "/images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero.webp"
 imagen_alt: "Montserrat monastery nestled in the mountains near Barcelona"
 keywords:
-  - "montserrat which excursion to choose"
-  - "best montserrat tour from barcelona"
-  - "montserrat tour comparison"
-  - "montserrat half day or full day"
-  - "montserrat private tour price"
+  - 'montserrat day trip from barcelona'
+  - 'montserrat tour from barcelona'
+  - 'best montserrat tour'
+  - 'montserrat half day tour'
+  - 'montserrat private tour'
+  - 'montserrat excursion from barcelona'
 slugs:
   es: montserrat-que-excursion-elegir
   en: montserrat-which-excursion-to-choose
@@ -22,7 +24,7 @@ slugs:
   fr: montserrat-quelle-excursion-choisir
   it: montserrat-quale-escursione-scegliere
   pt: montserrat-que-excursao-escolher
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 reservasArriba: true
 respuestaCorta: 'With half a day, the **small-group tour from €59** gets you to the monastery before the crowds. With a full day, the **CastlExperience trip from €47** (6–10 hours, with a winery) is the cheapest option, and the **Bages farmhouse day (€109)** adds a sommelier-paired lunch. On your own, the **Trans Montserrat** train-and-rack-railway ticket costs from €50.'
 actividades:
@@ -78,7 +80,7 @@ Montserrat can be visited from Barcelona five very different ways — this isn't
 
 ## Doing it on your own
 
-You don't need a tour to get there. Take the FGC R5 train from Plaça Espanya to Monistrol de Montserrat (about an hour), then the rack railway up (about 20 minutes). The **Trans Montserrat** ticket covers metro, train, rack railway, the Sant Joan and Santa Cova funiculars and direct access to the Virgin's throne, from €50 as of 2026; **Tot Montserrat** adds the museum and a buffet lunch, from €71.50. Tours win on comfort and explanation, not on price.
+You don't need a tour to get there. Take the FGC R5 train from Plaça Espanya to Monistrol de Montserrat (about an hour), then the rack railway up (about 20 minutes). The **Trans Montserrat** ticket covers metro, train, rack railway, the Sant Joan and Santa Cova funiculars and direct access to the Virgin's throne, from €50 as of 2026; **Tot Montserrat** adds the museum and a buffet lunch, from €71.50. Tours win on comfort and explanation, not on price. Timetables, tickets and which route to pick are in [how to get to Montserrat from Barcelona](/en/guides/barcelona/how-to-get-to-montserrat-from-barcelona).
 
 ## Things to know before you go
 

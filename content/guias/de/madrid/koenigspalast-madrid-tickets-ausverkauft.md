@@ -1,10 +1,11 @@
 ---
-titulo: "Königspalast Madrid Tickets ausverkauft: was tun?"
-descripcion: "Wenn die offizielle Website des Königspalasts keine Tickets mehr hat: die Kasse, die offizielle Führung, der freie Eintritt am Nachmittag, Touren mit inbegriffenem Ticket und was du von außen sehen kannst."
+titulo: 'Königspalast Madrid Tickets: Preis, freier Eintritt und was tun, wenn ausverkauft'
+descripcion: 'Königspalast Madrid Tickets: 18 € online, offizielle Führung 26 €, Kasse bis eine Stunde vor Schluss und für EU-Bürger Mo-Do in den letzten zwei Stunden gratis.'
+metaTitle: 'Königspalast Madrid Tickets: Preis & Tipps'
 categoria: madrid
 slug: koenigspalast-madrid-tickets-ausverkauft
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,13 @@ imagen_portada: /images/guias/palacio-real-madrid-entradas-agotadas.jpg
 imagen_alt: "Südfassade des Königspalasts von Madrid von der Plaza de la Armería aus"
 tiempo_lectura: 4
 keywords:
-- "königspalast madrid tickets ausverkauft"
-- "königspalast madrid tickets"
-- "königspalast madrid kostenlos"
-- "palacio real madrid tickets"
-- "königspalast madrid kasse"
+  - 'königspalast madrid tickets'
+  - 'königspalast madrid eintritt'
+  - 'königspalast madrid preis'
+  - 'königspalast madrid kostenlos'
+  - 'palacio real madrid tickets'
+  - 'königspalast madrid führung'
+  - 'königspalast madrid tickets ausverkauft'
 slugs:
   es: palacio-real-madrid-entradas-agotadas
   en: royal-palace-madrid-tickets-sold-out

@@ -1,10 +1,11 @@
 ---
-titulo: "Prado-Tickets ausverkauft oder riesige Schlangen: was tun?"
-descripcion: "Wenn dein Zeitfenster im Prado ausverkauft ist oder die Schlange zur Gratisstunde abschreckt: andere Uhrzeiten auf der offiziellen Website, die Kasse, der freie Eintritt, El Prado de noche, der Paseo-del-Arte-Pass und Führungen mit Ticket."
+titulo: 'Prado Museum Tickets: Preis, Gratisstunden und was tun, wenn ausverkauft'
+descripcion: 'Prado Museum Tickets: 15 € online oder an der Kasse, gratis Mo-Sa 18-20 Uhr und So 17-19 Uhr. Was tun, wenn dein Zeitfenster voll oder die Schlange zu lang ist.'
+metaTitle: 'Prado Museum Tickets: Preis und Gratiszeiten'
 categoria: madrid
 slug: prado-museum-tickets-ausverkauft
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,13 @@ imagen_portada: /images/guias/museo-del-prado-entradas-agotadas.jpg
 imagen_alt: "Fassade des Prado-Museums am Paseo del Prado mit der Puerta de Velázquez und der Statue des Malers"
 tiempo_lectura: 4
 keywords:
-- "prado tickets ausverkauft"
-- "prado museum tickets"
-- "prado museum schlange"
-- "prado museum kostenlos"
-- "prado madrid tickets kurzfristig"
+  - 'prado museum tickets'
+  - 'prado museum eintritt'
+  - 'prado museum preis'
+  - 'prado museum kostenlos'
+  - 'prado tickets ausverkauft'
+  - 'prado museum schlange'
+  - 'prado madrid tickets'
 slugs:
   es: museo-del-prado-entradas-agotadas
   en: prado-museum-tickets-sold-out

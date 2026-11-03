@@ -1,10 +1,11 @@
 ---
-titulo: 'Alhambra tickets sold out: what to do and the options left'
-descripcion: 'If the official Alhambra website has no tickets: last-minute releases, the Granada Card, the night visit, guided tours with entry and what to see without a ticket.'
+titulo: 'Alhambra tickets sold out: last-minute releases and other options'
+descripcion: 'Alhambra tickets sold out? Check the evening before, 20:00-22:00, for releases, then try the Granada Card, the night visit or a guided tour with entry included.'
+metaTitle: 'Alhambra tickets sold out: what to do'
 categoria: granada
 slug: alhambra-tickets-sold-out
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -12,11 +13,12 @@ imagen_portada: /images/guias/alhambra-entradas-agotadas.jpg
 imagen_alt: Court of the Lions in the Nasrid Palaces of the Alhambra
 tiempo_lectura: 4
 keywords:
-- alhambra tickets sold out
-- alhambra no tickets
-- alhambra last minute tickets
-- alhambra sold out what to do
-- granada card alhambra
+  - 'alhambra tickets sold out'
+  - 'alhambra sold out'
+  - 'alhambra last minute tickets'
+  - 'alhambra no tickets available'
+  - 'granada card alhambra'
+  - 'alhambra tour with tickets'
 slugs:
   es: alhambra-entradas-agotadas
   en: alhambra-tickets-sold-out

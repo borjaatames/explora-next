@@ -1,11 +1,12 @@
 ---
-titulo: "Tolède depuis Madrid en 1 jour : escapade dans la ville des trois cultures"
-descripcion: "Tolède en une journée depuis Madrid : que visiter avec discernement, comment y aller (voiture, AVE, bus), quoi éviter et pourquoi c'est la meilleure escapade près de Madrid."
+titulo: 'Que voir à Tolède en une journée depuis Madrid'
+descripcion: 'Que voir à Tolède en une journée depuis Madrid : cathédrale (12 €), Santo Tomé, quartier juif et Mirador del Valle, avec un itinéraire réaliste.'
+metaTitle: 'Que voir à Tolède en un jour depuis Madrid'
 respuestaCorta: 'Prenez l''**Avant depuis Atocha (33 minutes, 22-26 € aller-retour)** ou roulez une heure par l''A-42, et arrivez à 10 h. Consacrez la matinée à la **cathédrale (12 €)**, à Santo Tomé et à Santa María la Blanca, l''après-midi au quartier juif, et terminez au **Mirador del Valle**. Le **bracelet touristique à 14 €** donne accès à sept petits monuments.'
 categoria: "madrid"
 slug: "tolede-depuis-madrid-en-une-journee"
 fecha: "2026-04-02"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -13,11 +14,12 @@ imagen_portada: "/images/guias/escapadas-desde-madrid-toledo.jpg"
 imagen_alt: "L'Alcazar de Tolède dominant le centre historique"
 tiempo_lectura: 4
 keywords:
-  - "escapades depuis madrid"
-  - "tolede en une journee"
-  - "tolede depuis madrid"
-  - "que voir a tolede en une journee"
-  - "comment aller a tolede depuis madrid"
+  - 'que voir à tolède'
+  - 'que voir à tolède en une journée'
+  - 'tolède en une journée'
+  - 'excursion tolède depuis madrid'
+  - 'tolède depuis madrid'
+  - 'visiter tolède'
 slugs:
   es: escapadas-desde-madrid-toledo
   en: toledo-day-trip-from-madrid
@@ -52,7 +54,7 @@ actividades:
 
 ## Comment y aller
 
-- **Avant depuis Atocha :** 33 minutes, départs toutes les heures dès 6 h 50 et dernier retour vers 21 h 30 ; 22-26 € aller-retour. Les premiers trains sont complets : réservez. La gare est à 20 minutes à pied du centre historique, en montée ; bus 5 ou taxi (6-8 €).
+- **Avant depuis Atocha :** 33 minutes, départs toutes les heures dès 6 h 50 et dernier retour vers 21 h 30 ; 22-26 € aller-retour. Les premiers trains sont complets : réservez. La gare est à 20 minutes à pied du centre historique, en montée ; bus 5 ou taxi (6-8 €). Horaires et prix du train dans notre guide [train Madrid–Tolède](/fr/guides/madrid/train-madrid-tolede).
 - **Voiture :** 1 heure par l'A-42 (gratuite) ou l'AP-41 (à péage). C'est la seule option qui permet de s'arrêter au **Mirador del Valle**. On n'entre pas dans le centre historique : contrôle par plaque d'immatriculation et amende. Garez-vous au parking **Safont** (1 € l'heure, ou gratuit sur justificatif d'achat dans les commerces partenaires), à côté des escalators qui montent au centre, ou à celui du Cardenal, près de la Puerta de Bisagra.
 - **Bus Alsa** depuis Plaza Elíptica : 1 heure, environ 11 € aller-retour, toutes les 30 minutes aux heures de pointe.
 - **Excursion organisée :** 45-70 € avec transport, guide et billets, 8-9 heures. Rentable en groupe ou sans voiture ; en couple avec une voiture, non.
@@ -100,7 +102,7 @@ Tolède la nuit, sans les excursionnistes, est une autre ville. Le centre histor
 
 ## Autres escapades à une heure
 
-**L'Escurial et la vallée de Cuelgamuros** (dans [Madrid en 3 jours](/fr/guides/madrid/madrid-en-3-jours)), **Ségovie** (aqueduc, alcazar et cochon de lait), **Aranjuez** (palais et jardins, au printemps), **Ávila** (les remparts, plus froide) et **Alcalá de Henares** (Cervantes, moins visitée). Mais avec une seule journée, Tolède. Si vous hésitez avec Ségovie, nous comparons les deux excursions point par point dans [Tolède ou Ségovie ?](/fr/guides/madrid/tolede-ou-segovie-depuis-madrid).
+**L'Escurial et la vallée de Cuelgamuros** (dans [Madrid en 3 jours](/fr/guides/madrid/madrid-en-3-jours)), **Ségovie** (aqueduc, alcazar et cochon de lait ; l'itinéraire dans [que voir à Ségovie en une journée](/fr/guides/madrid/que-voir-a-segovie-en-une-journee)), **Aranjuez** (palais et jardins, au printemps), **Ávila** (les remparts, plus froide ; voir [que voir à Ávila en une journée](/fr/guides/madrid/que-voir-a-avila-en-une-journee)) et **Alcalá de Henares** (Cervantes, moins visitée). Mais avec une seule journée, Tolède. Si vous hésitez avec Ségovie, nous comparons les deux excursions point par point dans [Tolède ou Ségovie ?](/fr/guides/madrid/tolede-ou-segovie-depuis-madrid).
 
 ## En une phrase
 
