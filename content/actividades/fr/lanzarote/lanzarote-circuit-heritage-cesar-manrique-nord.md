@@ -96,8 +96,6 @@ galeria:
   alt: "Piscine turquoise des Jameos del Agua"
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
   alt: "Escaliers en pierre et jardin aux Jameos del Agua"
-- src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-burbuja-roja.webp
-  alt: "Bulle rouge à la Fondation César Manrique"
 - src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-jardin-estanque.webp
   alt: "Jardin avec bassin à la Fondation César Manrique"
 ---

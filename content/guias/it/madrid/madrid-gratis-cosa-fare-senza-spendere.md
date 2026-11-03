@@ -9,8 +9,8 @@ fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
-imagen_portada: "/images/guias/madrid-gratis.jpg"
-imagen_alt: "Sala di scultura del Reina Sofía"
+imagen_portada: "/images/actividades/madrid/retiro/retiro-estanque-barcas.webp"
+imagen_alt: "Barche sul laghetto del Retiro"
 tiempo_lectura: 4
 keywords:
   - "madrid gratis"

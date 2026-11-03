@@ -59,18 +59,8 @@ imagenAlt: Ingresso dell'Edificio Sabatini del Museo Reina Sofía con le sue tor
 galeria:
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
   alt: L'Edificio Sabatini illuminato di notte
-- src: /images/actividades/madrid/reina-sofia-obras/museo-reina-sofia-obras-museum-4252011522-hero.webp
-  alt: Sala di pittura moderna al Reina Sofía
-- src: /images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Visitatori in una sala del Museo Reina Sofía
-- src: /images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp
-  alt: Sala di sculture con luce calda al Reina Sofía
-- src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Gruppo scolastico davanti a un dipinto astratto al Reina Sofía
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp
   alt: Lunga galleria bianca del Museo Reina Sofía
-- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Scultura nel giardino del Museo Reina Sofía
 - src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
   alt: La torre dell'ascensore in vetro del Reina Sofía vista da una strada vicina
 publicada: true

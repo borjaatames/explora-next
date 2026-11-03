@@ -72,8 +72,6 @@ galeria:
   alt: Palau Nacional, home of the MNAC, on Montjuïc
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-02.webp
   alt: The Fundació Joan Miró building
-- src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-04.webp
-  alt: Fundació Miró gallery with sculptures
 - src: /images/actividades/barcelona/mnac/mnac-interior-cupula.webp
   alt: Interior dome of the Palau Nacional
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp

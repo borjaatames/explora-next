@@ -8,8 +8,8 @@ fecha_actualizacion: "2026-05-01"
 autor: Borja
 publicada: true
 destacada: false
-imagen_portada: "/images/guias/madrid-gratis.jpg"
-imagen_alt: "Skulpturensaal im Museo Reina Sofía"
+imagen_portada: "/images/actividades/madrid/retiro/retiro-estanque-barcas.webp"
+imagen_alt: "Ruderboote auf dem Retiro-Teich."
 tiempo_lectura: 11
 keywords:
   - "madrid kostenlos"

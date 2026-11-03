@@ -90,19 +90,11 @@ keywords:
 - reina sofia skip line
 - reina sofia museum guide madrid
 - reina sofia bilingual tour
-imagen: /images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp
-imagenAlt: Visitors in a gallery of the Museo Reina Sofía
+imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
+imagenAlt: 'Visitors at the entrance of the Museo Reina Sofía, by its glass lift towers'
 galeria:
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero.webp
-  alt: Museo Reina Sofía de Madrid
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
   alt: Museo Reina Sofía façade at night, with its glass lift towers
-- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Cloister garden of the Museo Reina Sofía
-- src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Group listening to an explanation in front of a work
-- src: /images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp
-  alt: Sculpture gallery at the Reina Sofía
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp
   alt: Permanent collection gallery
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp

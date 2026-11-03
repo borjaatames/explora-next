@@ -90,19 +90,11 @@ keywords:
 - reina sofia entrada sin colas
 - museo reina sofia madrid guia
 - reina sofia bilingue tour
-imagen: /images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp
-imagenAlt: Visitantes en una sala del Museo Reina Sofía
+imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
+imagenAlt: 'Visitantes en la entrada del Museo Reina Sofía, junto a sus ascensores de cristal'
 galeria:
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero.webp
-  alt: Museo Reina Sofía de Madrid
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
   alt: Fachada del Museo Reina Sofía de noche, con sus ascensores de cristal
-- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Jardín del claustro del Museo Reina Sofía
-- src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Grupo escuchando la explicación ante una obra
-- src: /images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp
-  alt: Sala de escultura del Reina Sofía
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp
   alt: Galería de la colección permanente
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp

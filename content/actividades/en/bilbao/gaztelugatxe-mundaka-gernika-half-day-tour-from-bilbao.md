@@ -97,8 +97,6 @@ galeria:
   alt: "Assembly House and Tree of Gernika"
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-gernika-iglesia.webp
   alt: "Church in central Gernika"
-- src: /images/actividades/bilbao/gaztelugatxe/mural-guernica-gernika.webp
-  alt: "Tile reproduction of Guernica in Gernika"
 ---
 
 ## What you will see

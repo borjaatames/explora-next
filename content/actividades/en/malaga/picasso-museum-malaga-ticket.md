@@ -91,8 +91,6 @@ galeria:
   alt: Main facade of Málaga Cathedral
 - src: /images/actividades/malaga/museo-picasso/patio-flores.webp
   alt: Flower-filled courtyard at the Picasso Museum Málaga
-- src: /images/actividades/malaga/museo-picasso/sala-obras.webp
-  alt: Visitors looking at Picasso paintings in a gallery
 - src: /images/actividades/malaga/museo-picasso/fachada-museo.webp
   alt: Façade with the Picasso Museum Málaga sign
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp

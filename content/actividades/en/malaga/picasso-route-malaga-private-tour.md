@@ -71,8 +71,8 @@ keywords:
 - picasso birthplace tour
 - private picasso tour malaga
 - picasso museum with guide
-imagen: /images/actividades/malaga/museo-picasso/sala-obras.webp
-imagenAlt: Visitors looking at Picasso paintings in a gallery
+imagen: https://imgcdn.bokun.tools/a6f0dfad-e4b5-4a98-923d-99a6b288d508.jpeg
+imagenAlt: 'Inside the Church of Santiago in Málaga'
 publicada: true
 indexar: false
 destacada: false

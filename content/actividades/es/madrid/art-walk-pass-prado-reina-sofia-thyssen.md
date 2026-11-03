@@ -81,8 +81,6 @@ galeria:
   alt: Edificio Villanueva del Museo del Prado
 - src: /images/actividades/madrid/thyssen/thyssen-fachada-paseo-prado-hero.webp
   alt: Museo Thyssen-Bornemisza en el Paseo del Prado
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero.webp
-  alt: Museo Reina Sofía de Madrid
 - src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-02-hero.webp
   alt: Puerta de Velázquez del Museo del Prado
 - src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-museum-architecture-art-hero.webp

@@ -98,8 +98,6 @@ galeria:
   alt: "Türkisfarbener Pool in den Jameos del Agua"
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
   alt: "Steintreppe und Garten in den Jameos del Agua"
-- src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-burbuja-roja.webp
-  alt: "Rote Vulkanblase in der Fundación César Manrique"
 - src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-jardin-estanque.webp
   alt: "Garten mit Teich in der Fundación César Manrique"
 ---

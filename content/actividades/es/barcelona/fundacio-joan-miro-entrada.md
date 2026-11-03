@@ -72,8 +72,6 @@ galeria:
   alt: Edificio blanco de la Fundació Miró, obra de Josep Lluís Sert
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-03.webp
   alt: Entrada de la Fundació Joan Miró en Montjuïc
-- src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-04.webp
-  alt: Sala de la Fundació Miró con esculturas del artista
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-05.webp
   alt: Patios y lucernarios de la Fundació Miró
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-06.webp

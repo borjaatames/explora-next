@@ -71,8 +71,8 @@ keywords:
 - casa natal picasso visita
 - tour picasso privado malaga
 - museo picasso con guia
-imagen: /images/actividades/malaga/museo-picasso/sala-obras.webp
-imagenAlt: Visitantes ante cuadros de Picasso en una sala del museo
+imagen: https://imgcdn.bokun.tools/a6f0dfad-e4b5-4a98-923d-99a6b288d508.jpeg
+imagenAlt: 'Interior de la iglesia de Santiago de Málaga'
 publicada: true
 indexar: false
 destacada: false

@@ -59,18 +59,8 @@ imagenAlt: Entrance to the Sabatini Building of the Reina Sofía Museum with its
 galeria:
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
   alt: The Sabatini Building lit up at night
-- src: /images/actividades/madrid/reina-sofia-obras/museo-reina-sofia-obras-museum-4252011522-hero.webp
-  alt: Gallery of modern paintings at the Reina Sofía
-- src: /images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Visitors in a gallery of the Reina Sofía Museum
-- src: /images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp
-  alt: Sculpture room with warm lighting at the Reina Sofía
-- src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
-  alt: School group in front of an abstract painting at the Reina Sofía
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp
   alt: Long white gallery of the Reina Sofía Museum
-- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Sculpture in the garden of the Reina Sofía Museum
 - src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
   alt: Glass lift tower of the Reina Sofía from a nearby street
 publicada: true

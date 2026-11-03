@@ -97,8 +97,6 @@ galeria:
   alt: "Casa de Juntas y Árbol de Gernika"
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-gernika-iglesia.webp
   alt: "Iglesia en el centro de Gernika"
-- src: /images/actividades/bilbao/gaztelugatxe/mural-guernica-gernika.webp
-  alt: "Reproducción en azulejo del Guernica en Gernika"
 ---
 
 ## Qué vas a ver

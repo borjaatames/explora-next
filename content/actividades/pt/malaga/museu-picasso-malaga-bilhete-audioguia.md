@@ -89,8 +89,6 @@ galeria:
   alt: Fachada principal da catedral de Málaga
 - src: /images/actividades/malaga/museo-picasso/patio-flores.webp
   alt: Pátio com flores do Museu Picasso Málaga
-- src: /images/actividades/malaga/museo-picasso/sala-obras.webp
-  alt: Visitantes diante de quadros de Picasso numa sala do museu
 - src: /images/actividades/malaga/museo-picasso/fachada-museo.webp
   alt: Fachada com o nome do Museu Picasso Málaga
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp

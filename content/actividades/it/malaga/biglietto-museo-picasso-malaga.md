@@ -89,8 +89,6 @@ galeria:
   alt: Facciata principale della Cattedrale di Málaga
 - src: /images/actividades/malaga/museo-picasso/patio-flores.webp
   alt: Cortile fiorito del Museo Picasso Málaga
-- src: /images/actividades/malaga/museo-picasso/sala-obras.webp
-  alt: Visitatori che osservano dipinti di Picasso in una sala
 - src: /images/actividades/malaga/museo-picasso/fachada-museo.webp
   alt: Facciata con l'insegna del Museo Picasso Málaga
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp

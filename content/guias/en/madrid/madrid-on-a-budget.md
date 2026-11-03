@@ -8,8 +8,8 @@ fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
-imagen_portada: "/images/guias/madrid-gratis.jpg"
-imagen_alt: Sculpture room with warm lighting at the Reina Sofía
+imagen_portada: "/images/actividades/madrid/retiro/retiro-estanque-barcas.webp"
+imagen_alt: "Rowing boats on the Retiro lake"
 tiempo_lectura: 5
 keywords:
   - "madrid free"

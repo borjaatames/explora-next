@@ -91,8 +91,6 @@ galeria:
   alt: Hauptfassade der Kathedrale von Málaga
 - src: /images/actividades/malaga/museo-picasso/patio-flores.webp
   alt: Blumengeschmückter Innenhof im Museo Picasso Málaga
-- src: /images/actividades/malaga/museo-picasso/sala-obras.webp
-  alt: Besucher betrachten Gemälde von Picasso in einem Ausstellungssaal
 - src: /images/actividades/malaga/museo-picasso/fachada-museo.webp
   alt: Fassade mit dem Schild des Museo Picasso Málaga
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp

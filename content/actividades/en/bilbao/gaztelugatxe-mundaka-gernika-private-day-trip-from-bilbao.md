@@ -86,8 +86,6 @@ galeria:
   alt: Bermeo fishing harbour
 - src: /images/actividades/bilbao/gaztelugatxe/arbol-gernika.webp
   alt: The Tree of Gernika by the Assembly House
-- src: /images/actividades/bilbao/gaztelugatxe/mural-guernica-gernika.webp
-  alt: Mural of Picasso's Guernica in Gernika
 - src: https://imgcdn.bokun.tools/8511fbf5-a452-4191-9439-00bbcee3900d.jpg
   alt: Stops on the Bizkaia coast trip (provider photo)
 - src: https://imgcdn.bokun.tools/b7a38a45-852b-4f89-87ce-fcd38618ffbe.jpg

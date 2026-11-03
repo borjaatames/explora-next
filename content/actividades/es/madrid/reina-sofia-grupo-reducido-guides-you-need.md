@@ -93,18 +93,8 @@ keywords:
 imagen: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
 imagenAlt: Fachada del Museo Reina Sofía de noche, con sus ascensores de cristal
 galeria:
-- src: /images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Visitantes en una sala del Reina Sofía
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero-hero.webp
-  alt: Sala de arte contemporáneo del museo
-- src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Grupo escuchando la explicación ante una obra
-- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Jardín del claustro del Museo Reina Sofía
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp
   alt: Galería de la colección permanente
-- src: /images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp
-  alt: Sala de escultura del Reina Sofía
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
   alt: Entrada del Museo Reina Sofía
 - src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp

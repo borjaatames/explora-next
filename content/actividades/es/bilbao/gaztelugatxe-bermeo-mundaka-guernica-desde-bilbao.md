@@ -81,8 +81,6 @@ keywords:
 imagen: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-islote.webp
 imagenAlt: Islote de San Juan de Gaztelugatxe con la ermita y el puente de piedra
 galeria:
-- src: /images/actividades/bilbao/gaztelugatxe/mural-guernica-gernika.webp
-  alt: Mural de azulejos del Guernica de Picasso en Gernika
 - src: /images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp
   alt: Camino de piedra de San Juan de Gaztelugatxe al atardecer
 - src: /images/actividades/bilbao/costa-vasca/txakoli-vinedos-mar.webp

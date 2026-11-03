@@ -66,21 +66,13 @@ keywords:
 - reina sofia guernica
 - modern art madrid museum
 - picasso guernica madrid
-imagen: /images/actividades/madrid/reina-sofia/wikimedia-museo-reina-sofia-madrid-4485081030-hero.webp
-imagenAlt: Sculpture room with warm lighting at the Reina Sofía
+imagen: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
+imagenAlt: 'Glass lift tower of the Reina Sofía from a nearby street'
 galeria:
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-museum-4252011522-hero.webp
-  alt: Museo Reina Sofía de Madrid
-- src: /images/actividades/madrid/reina-sofia/wikimedia-visitors-in-gallery-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Visitors in a gallery of the Reina Sofía Museum
 - src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
   alt: Glass lift tower of the Reina Sofía from a nearby street
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
   alt: Museo Reina Sofía de Madrid
-- src: /images/actividades/madrid/reina-sofia/wikimedia-children-and-teachers-by-abstract-painting-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Visitors in front of an abstract work at the Reina Sofía Museum
-- src: /images/actividades/madrid/reina-sofia/wikimedia-garden-of-museo-reina-sofia-madrid-spain-hero.webp
-  alt: Inner garden of the Sabatini building, Reina Sofía
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
   alt: Glass lifts on the facade of the Reina Sofía Museum
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
