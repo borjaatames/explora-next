@@ -65,7 +65,7 @@ Precios y horarios comprobados el 3 de noviembre de 2026 en las webs oficiales (
 
 | Sitio | Precio | Tiempo | ¿Imprescindible? |
 | --- | --- | --- | --- |
-| Catedral Primada | 12 € | 1 h 30 | Sí |
+| [Catedral Primada](/guias/madrid/catedral-de-toledo-entradas) | 12 € | 1 h 30 | Sí |
 | Santo Tomé (El Greco) | 4 € o pulsera | 20-30 min | Sí |
 | Sinagoga del Tránsito y Museo Sefardí | 3 € | 45 min | Sí |
 | Santa María la Blanca | 4 € o pulsera | 15-20 min | Sí |

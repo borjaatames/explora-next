@@ -65,7 +65,7 @@ Oltre al **Caminito del Rey** (che merita una guida a sé: [come visitarlo](/it/
 
 ## Nerja e Frigiliana
 
-A un'ora lungo la costa, **Nerja** ha il **Balcón de Europa** (belvedere sul Mediterraneo) e le spettacolari **Grotte di Nerja**, con formazioni gigantesche. A 10 minuti, **Frigiliana**, uno dei paesi bianchi più belli di Spagna, con vie ripide e fiori. Una giornata perfetta che unisce grotta, spiaggia e paese.
+A un'ora lungo la costa, **Nerja** ha il **Balcón de Europa** (belvedere sul Mediterraneo) e le spettacolari **[Grotte di Nerja](/it/guides/malaga/grotta-di-nerja-biglietti)**, con formazioni gigantesche. A 10 minuti, **Frigiliana**, uno dei paesi bianchi più belli di Spagna, con vie ripide e fiori. Una giornata perfetta che unisce grotta, spiaggia e paese.
 
 ## Antequera ed El Torcal
 

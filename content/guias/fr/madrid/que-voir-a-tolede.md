@@ -65,7 +65,7 @@ Prix et horaires vérifiés le 3 novembre 2026 sur les sites officiels (cathédr
 
 | Site | Prix | Durée | Incontournable ? |
 | --- | --- | --- | --- |
-| Cathédrale primatiale | 12 € | 1 h 30 | Oui |
+| [Cathédrale](/fr/guides/madrid/cathedrale-de-tolede-billets) primatiale | 12 € | 1 h 30 | Oui |
 | Santo Tomé (le Greco) | 4 € ou bracelet | 20-30 min | Oui |
 | Synagogue du Tránsito et musée séfarade | 3 € | 45 min | Oui |
 | Santa María la Blanca | 4 € ou bracelet | 15-20 min | Oui |

@@ -74,7 +74,7 @@ Le **parc national du Teide**, classé au patrimoine mondial, entoure le volcan 
 
 ## Le nord : La Orotava, Puerto de la Cruz, Icod et Garachico
 
-**La Orotava** est la ville seigneuriale de l'île, avec la Casa de los Balcones et des vues sur la vallée. **Puerto de la Cruz** associe front de mer, piscines du Lago Martiánez et **Loro Parque**. **Icod de los Vinos** abrite le **Drago Milenario**, et **Garachico**, en partie ensevelie par l'éruption de 1706, conserve son centre historique et les piscines naturelles de lave d'**El Caletón**.
+**La Orotava** est la ville seigneuriale de l'île, avec la Casa de los Balcones et des vues sur la vallée. **Puerto de la Cruz** associe front de mer, piscines du Lago Martiánez et **[Loro Parque](/fr/guides/tenerife/loro-parque-billets-prix)**. **Icod de los Vinos** abrite le **Drago Milenario**, et **Garachico**, en partie ensevelie par l'éruption de 1706, conserve son centre historique et les piscines naturelles de lave d'**El Caletón**.
 
 ## La Laguna et Anaga
 
@@ -86,7 +86,7 @@ La route de **Masca** est l'une des plus spectaculaires des Canaries. Depuis le 
 
 ## Le sud et la mer
 
-**Costa Adeje, Las Américas et Los Cristianos** concentrent les plages, les hôtels et la plupart des départs en bateau. **Globicéphales et dauphins** vivent entre Tenerife et La Gomera toute l'année : les observations sont donc quasi certaines. Lisez notre [guide d'observation des baleines](/en/guides/tenerife/whale-watching-tenerife). Pour les familles, **Siam Park** est l'un des meilleurs parcs aquatiques d'Europe.
+**Costa Adeje, Las Américas et Los Cristianos** concentrent les plages, les hôtels et la plupart des départs en bateau. **Globicéphales et dauphins** vivent entre Tenerife et La Gomera toute l'année : les observations sont donc quasi certaines. Lisez notre [guide d'observation des baleines](/en/guides/tenerife/whale-watching-tenerife). Pour les familles, **[Siam Park](/fr/guides/tenerife/siam-park-billets-prix)** est l'un des meilleurs parcs aquatiques d'Europe.
 
 ## Se déplacer
 

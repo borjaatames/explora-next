@@ -73,7 +73,7 @@ With **five or six days** you'll see the essentials: a day for **Teide**, one fo
 
 ## The north: La Orotava, Puerto de la Cruz, Icod and Garachico
 
-**La Orotava** is the island's stately town, with the Casa de los Balcones and views over the valley. **Puerto de la Cruz** combines a seafront, the Lago Martiánez pools and **Loro Parque**. **Icod de los Vinos** has the **Drago Milenario**, and **Garachico**, partly buried by the 1706 eruption, keeps its historic centre and the natural lava pools of **El Caletón**.
+**La Orotava** is the island's stately town, with the Casa de los Balcones and views over the valley. **Puerto de la Cruz** combines a seafront, the Lago Martiánez pools and **[Loro Parque](/en/guides/tenerife/loro-parque-tickets-prices)**. **Icod de los Vinos** has the **Drago Milenario**, and **Garachico**, partly buried by the 1706 eruption, keeps its historic centre and the natural lava pools of **El Caletón**.
 
 ## La Laguna and Anaga
 
@@ -85,7 +85,7 @@ The road to **Masca** is one of the most spectacular in the Canaries. From the h
 
 ## The south and the sea
 
-**Costa Adeje, Las Américas and Los Cristianos** have the beaches, hotels and most boat departures. **Pilot whales and dolphins** live between Tenerife and La Gomera all year, so sightings are almost certain. Read our [whale-watching guide](/en/guides/tenerife/whale-watching-tenerife). For families, **Siam Park** is one of Europe's best water parks.
+**Costa Adeje, Las Américas and Los Cristianos** have the beaches, hotels and most boat departures. **Pilot whales and dolphins** live between Tenerife and La Gomera all year, so sightings are almost certain. Read our [whale-watching guide](/en/guides/tenerife/whale-watching-tenerife). For families, **[Siam Park](/en/guides/tenerife/siam-park-tickets-prices)** is one of Europe's best water parks.
 
 ## Getting around
 

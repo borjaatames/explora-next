@@ -75,7 +75,7 @@ Achtung: Viele Hotels und Ausflüge auf Teneriffa liegen im **Süden** (Costa Ad
 | --- | --- |
 | **4 Stunden** | **Santa Cruz** zu Fuß (Plaza de España, Auditorio, Markt Nuestra Señora de África) und mit der **Straßenbahn nach La Laguna**, UNESCO-Welterbe, für Altstadt und Kathedrale. |
 | **6 Stunden** | Vormittags La Laguna, nachmittags **Anaga**: Taxi nach Cruz del Carmen oder die geführte Wanderung durch den Lorbeerwald. Alternativ eine Weinprobe in der Casa del Vino in El Sauzal oder der Strand Las Teresitas. |
-| **8 Stunden oder mehr** | **Der Teide** mit Seilbahn, oder der Norden: **Loro Parque** in Puerto de la Cruz, etwa 40 Minuten über die Autobahn. |
+| **8 Stunden oder mehr** | **Der Teide** mit Seilbahn, oder der Norden: **[Loro Parque](/de/guides/tenerife/loro-parque-tickets-preise)** in Puerto de la Cruz, etwa 40 Minuten über die Autobahn. |
 
 ### La Laguna und Anaga
 

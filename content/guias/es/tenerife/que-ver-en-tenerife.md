@@ -73,7 +73,7 @@ El **Parque Nacional del Teide**, Patrimonio de la Humanidad, rodea el volcán d
 
 ## El norte: La Orotava, Puerto de la Cruz, Icod y Garachico
 
-**La Orotava** es la villa señorial de la isla, con la Casa de los Balcones y vistas al valle. **Puerto de la Cruz** combina paseo marítimo, las piscinas del Lago Martiánez y **Loro Parque**. En **Icod de los Vinos** está el **Drago Milenario**, y **Garachico**, sepultado en parte por la erupción de 1706, conserva su casco histórico y las piscinas naturales de lava de **El Caletón**.
+**La Orotava** es la villa señorial de la isla, con la Casa de los Balcones y vistas al valle. **Puerto de la Cruz** combina paseo marítimo, las piscinas del Lago Martiánez y **[Loro Parque](/guias/tenerife/loro-parque-entradas-precios)**. En **Icod de los Vinos** está el **Drago Milenario**, y **Garachico**, sepultado en parte por la erupción de 1706, conserva su casco histórico y las piscinas naturales de lava de **El Caletón**.
 
 ## La Laguna y Anaga
 
@@ -85,7 +85,7 @@ La carretera a **Masca** es una de las más espectaculares de Canarias. Desde el
 
 ## El sur y el mar
 
-**Costa Adeje, Las Américas y Los Cristianos** concentran playas, hoteles y la mayoría de salidas en barco. Entre Tenerife y La Gomera viven **calderones y delfines** todo el año, así que el avistamiento es casi seguro. Lee nuestra [guía para ver ballenas en Tenerife](/guias/tenerife/avistamiento-ballenas-tenerife). Para familias, **Siam Park** es uno de los mejores parques acuáticos de Europa.
+**Costa Adeje, Las Américas y Los Cristianos** concentran playas, hoteles y la mayoría de salidas en barco. Entre Tenerife y La Gomera viven **calderones y delfines** todo el año, así que el avistamiento es casi seguro. Lee nuestra [guía para ver ballenas en Tenerife](/guias/tenerife/avistamiento-ballenas-tenerife). Para familias, **[Siam Park](/guias/tenerife/siam-park-entradas-precios)** es uno de los mejores parques acuáticos de Europa.
 
 ## Lo práctico: coche, distancias y precios
 

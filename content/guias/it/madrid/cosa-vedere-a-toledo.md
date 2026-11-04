@@ -64,7 +64,7 @@ Prezzi e orari verificati il 3 novembre 2026 sui siti ufficiali (Cattedrale prim
 
 | Luogo | Prezzo | Tempo | Da non perdere? |
 | --- | --- | --- | --- |
-| Cattedrale primaziale | 12 € | 1 h 30 | Sì |
+| [Cattedrale](/it/guides/madrid/cattedrale-di-toledo-biglietti) primaziale | 12 € | 1 h 30 | Sì |
 | Santo Tomé (El Greco) | 4 € o braccialetto | 20-30 min | Sì |
 | Sinagoga del Tránsito e Museo Sefardita | 3 € | 45 min | Sì |
 | Santa María la Blanca | 4 € o braccialetto | 15-20 min | Sì |

@@ -68,7 +68,7 @@ Neben dem **Caminito del Rey**, der einen eigenen Guide verdient ([so besuchst d
 
 ## Nerja und Frigiliana
 
-Eine Stunde an der Küste entlang liegt **Nerja** mit dem **Balcón de Europa** (einem Aussichtspunkt über dem Mittelmeer) und den spektakulären **Höhlen von Nerja** mit riesigen Tropfsteinformationen. 10 Minuten weiter liegt **Frigiliana**, eines der schönsten weißen Dörfer Spaniens, mit steilen Gassen und Blumen. Ein runder Tag, der Höhle, Strand und Dorf verbindet.
+Eine Stunde an der Küste entlang liegt **Nerja** mit dem **Balcón de Europa** (einem Aussichtspunkt über dem Mittelmeer) und den spektakulären **[Höhlen von Nerja](/de/guides/malaga/hoehle-von-nerja-tickets)** mit riesigen Tropfsteinformationen. 10 Minuten weiter liegt **Frigiliana**, eines der schönsten weißen Dörfer Spaniens, mit steilen Gassen und Blumen. Ein runder Tag, der Höhle, Strand und Dorf verbindet.
 
 ## Antequera und El Torcal
 

@@ -64,7 +64,7 @@ Preços e horários confirmados a 3 de novembro de 2026 nos sites oficiais (Cate
 
 | Local | Preço | Tempo | Essencial? |
 | --- | --- | --- | --- |
-| Catedral Primaz | 12 € | 1 h 30 | Sim |
+| [Catedral](/pt/guides/madrid/catedral-de-toledo-bilhetes) Primaz | 12 € | 1 h 30 | Sim |
 | Santo Tomé (El Greco) | 4 € ou pulseira | 20-30 min | Sim |
 | Sinagoga do Tránsito e Museu Sefardita | 3 € | 45 min | Sim |
 | Santa María la Blanca | 4 € ou pulseira | 15-20 min | Sim |

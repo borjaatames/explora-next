@@ -65,7 +65,7 @@ Prices and hours checked on 3 November 2026 on the official websites (Primate Ca
 
 | Sight | Price | Time | Must-see? |
 | --- | --- | --- | --- |
-| Primate Cathedral | €12 | 1 h 30 | Yes |
+| [Primate Cathedral](/en/guides/madrid/toledo-cathedral-tickets) | €12 | 1 h 30 | Yes |
 | Santo Tomé (El Greco) | €4 or bracelet | 20–30 min | Yes |
 | El Tránsito Synagogue and Sephardic Museum | €3 | 45 min | Yes |
 | Santa María la Blanca | €4 or bracelet | 15–20 min | Yes |

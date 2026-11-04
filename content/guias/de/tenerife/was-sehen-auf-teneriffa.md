@@ -61,7 +61,7 @@ Der **Teide-Nationalpark**, UNESCO-Welterbe, umgibt den 3.715 m hohen Vulkan. Fa
 
 ## Der Norden: La Orotava, Puerto de la Cruz, Icod und Garachico
 
-**La Orotava** ist der vornehme Ort der Insel, mit der Casa de los Balcones und Blick über das Tal. **Puerto de la Cruz** verbindet Promenade, die Meerwasserbecken des Lago Martiánez und den **Loro Parque**. In **Icod de los Vinos** steht der **Drago Milenario**, und **Garachico**, teilweise vom Ausbruch 1706 verschüttet, bewahrt seine Altstadt und die natürlichen Lavabecken von **El Caletón**.
+**La Orotava** ist der vornehme Ort der Insel, mit der Casa de los Balcones und Blick über das Tal. **Puerto de la Cruz** verbindet Promenade, die Meerwasserbecken des Lago Martiánez und den **[Loro Parque](/de/guides/tenerife/loro-parque-tickets-preise)**. In **Icod de los Vinos** steht der **Drago Milenario**, und **Garachico**, teilweise vom Ausbruch 1706 verschüttet, bewahrt seine Altstadt und die natürlichen Lavabecken von **El Caletón**.
 
 ## La Laguna und Anaga
 
@@ -73,7 +73,7 @@ Die Straße nach **Masca** gehört zu den spektakulärsten der Kanaren. Vom Weil
 
 ## Der Süden und das Meer
 
-**Costa Adeje, Las Américas und Los Cristianos** bündeln Strände, Hotels und die meisten Bootstouren. Zwischen Teneriffa und La Gomera leben das ganze Jahr **Grindwale und Delfine**, Sichtungen sind also fast sicher. Lies unseren [Guide zur Walbeobachtung](/de/guides/tenerife/walbeobachtung-teneriffa). Für Familien ist der **Siam Park** einer der besten Wasserparks Europas.
+**Costa Adeje, Las Américas und Los Cristianos** bündeln Strände, Hotels und die meisten Bootstouren. Zwischen Teneriffa und La Gomera leben das ganze Jahr **Grindwale und Delfine**, Sichtungen sind also fast sicher. Lies unseren [Guide zur Walbeobachtung](/de/guides/tenerife/walbeobachtung-teneriffa). Für Familien ist der **[Siam Park](/de/guides/tenerife/siam-park-tickets-preise)** einer der besten Wasserparks Europas.
 
 ## Fortbewegung
 

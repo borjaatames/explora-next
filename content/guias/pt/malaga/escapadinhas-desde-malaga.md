@@ -65,7 +65,7 @@ Além do **Caminito del Rey** (que merece o seu próprio guia: [como visitá-lo]
 
 ## Nerja e Frigiliana
 
-A uma hora pela costa, **Nerja** tem o **Balcón de Europa** (miradouro sobre o Mediterrâneo) e as espetaculares **Grutas de Nerja**, com formações gigantescas. A 10 minutos, **Frigiliana**, uma das aldeias brancas mais bonitas de Espanha, de ruas íngremes e flores. Um dia redondo que combina gruta, praia e aldeia.
+A uma hora pela costa, **Nerja** tem o **Balcón de Europa** (miradouro sobre o Mediterrâneo) e as espetaculares **[Grutas de Nerja](/pt/guides/malaga/gruta-de-nerja-bilhetes)**, com formações gigantescas. A 10 minutos, **Frigiliana**, uma das aldeias brancas mais bonitas de Espanha, de ruas íngremes e flores. Um dia redondo que combina gruta, praia e aldeia.
 
 ## Antequera e El Torcal
 

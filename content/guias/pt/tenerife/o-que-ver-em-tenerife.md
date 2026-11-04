@@ -73,7 +73,7 @@ O **Parque Nacional do Teide**, Património Mundial, rodeia o vulcão de 3715 m.
 
 ## O norte: La Orotava, Puerto de la Cruz, Icod e Garachico
 
-**La Orotava** é a vila senhorial da ilha, com a Casa de los Balcones e vistas sobre o vale. **Puerto de la Cruz** combina passeio marítimo, as piscinas do Lago Martiánez e o **Loro Parque**. **Icod de los Vinos** tem o **Drago Milenario**, e **Garachico**, parcialmente soterrado pela erupção de 1706, conserva o seu centro histórico e as piscinas naturais de lava de **El Caletón**.
+**La Orotava** é a vila senhorial da ilha, com a Casa de los Balcones e vistas sobre o vale. **Puerto de la Cruz** combina passeio marítimo, as piscinas do Lago Martiánez e o **[Loro Parque](/pt/guides/tenerife/loro-parque-bilhetes-precos)**. **Icod de los Vinos** tem o **Drago Milenario**, e **Garachico**, parcialmente soterrado pela erupção de 1706, conserva o seu centro histórico e as piscinas naturais de lava de **El Caletón**.
 
 ## La Laguna e Anaga
 
@@ -85,7 +85,7 @@ A estrada para **Masca** é uma das mais espetaculares das Canárias. A partir d
 
 ## O sul e o mar
 
-**Costa Adeje, Las Américas e Los Cristianos** concentram as praias, os hotéis e a maioria das saídas de barco. **Baleias-piloto e golfinhos** vivem entre Tenerife e La Gomera todo o ano, por isso os avistamentos são quase garantidos. Leia o nosso [guia para ver baleias](/pt/guides/tenerife/observacao-de-baleias-em-tenerife). Para famílias, o **Siam Park** é um dos melhores parques aquáticos da Europa.
+**Costa Adeje, Las Américas e Los Cristianos** concentram as praias, os hotéis e a maioria das saídas de barco. **Baleias-piloto e golfinhos** vivem entre Tenerife e La Gomera todo o ano, por isso os avistamentos são quase garantidos. Leia o nosso [guia para ver baleias](/pt/guides/tenerife/observacao-de-baleias-em-tenerife). Para famílias, o **[Siam Park](/pt/guides/tenerife/siam-park-bilhetes-precos)** é um dos melhores parques aquáticos da Europa.
 
 ## Como se deslocar
 

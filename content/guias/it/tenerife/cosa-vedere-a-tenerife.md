@@ -73,7 +73,7 @@ Il **Parco Nazionale del Teide**, Patrimonio dell'Umanità, circonda il vulcano 
 
 ## Il nord: La Orotava, Puerto de la Cruz, Icod e Garachico
 
-**La Orotava** è il paese signorile dell'isola, con la Casa de los Balcones e la vista sulla valle. **Puerto de la Cruz** unisce lungomare, le piscine del Lago Martiánez e il **Loro Parque**. **Icod de los Vinos** ha il **Drago Milenario**, e **Garachico**, in parte sepolta dall'eruzione del 1706, conserva il centro storico e le piscine naturali di lava de **El Caletón**.
+**La Orotava** è il paese signorile dell'isola, con la Casa de los Balcones e la vista sulla valle. **Puerto de la Cruz** unisce lungomare, le piscine del Lago Martiánez e il **[Loro Parque](/it/guides/tenerife/loro-parque-biglietti-prezzi)**. **Icod de los Vinos** ha il **Drago Milenario**, e **Garachico**, in parte sepolta dall'eruzione del 1706, conserva il centro storico e le piscine naturali di lava de **El Caletón**.
 
 ## La Laguna e Anaga
 
@@ -85,7 +85,7 @@ La strada per **Masca** è una delle più spettacolari delle Canarie. Dal borgo,
 
 ## Il sud e il mare
 
-**Costa Adeje, Las Américas e Los Cristianos** concentrano spiagge, hotel e la maggior parte delle partenze in barca. **Globicefali e delfini** vivono tra Tenerife e La Gomera tutto l'anno, quindi gli avvistamenti sono quasi sicuri. Leggi la nostra [guida all'avvistamento delle balene](/it/guides/tenerife/avvistamento-balene-tenerife). Per le famiglie, il **Siam Park** è uno dei migliori parchi acquatici d'Europa.
+**Costa Adeje, Las Américas e Los Cristianos** concentrano spiagge, hotel e la maggior parte delle partenze in barca. **Globicefali e delfini** vivono tra Tenerife e La Gomera tutto l'anno, quindi gli avvistamenti sono quasi sicuri. Leggi la nostra [guida all'avvistamento delle balene](/it/guides/tenerife/avvistamento-balene-tenerife). Per le famiglie, il **[Siam Park](/it/guides/tenerife/siam-park-biglietti-prezzi)** è uno dei migliori parchi acquatici d'Europa.
 
 ## Come spostarsi
 

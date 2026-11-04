@@ -75,7 +75,7 @@ Attention : beaucoup d'hôtels et d'excursions de Tenerife se trouvent dans le *
 | --- | --- |
 | **4 heures** | **Santa Cruz** à pied (Plaza de España, Auditorio, marché de Nuestra Señora de África) et **tramway pour La Laguna**, classée au patrimoine mondial, pour flâner dans son centre historique et voir la cathédrale. |
 | **6 heures** | La Laguna le matin et **Anaga** l'après-midi : taxi jusqu'à Cruz del Carmen ou randonnée guidée dans la laurisilva. Alternative : dégustation à la Casa del Vino d'El Sauzal ou plage de Las Teresitas. |
-| **8 heures ou plus** | **Le Teide** avec le téléphérique, ou le nord : **Loro Parque** à Puerto de la Cruz, à environ 40 minutes par l'autoroute. |
+| **8 heures ou plus** | **Le Teide** avec le téléphérique, ou le nord : **[Loro Parque](/fr/guides/tenerife/loro-parque-billets-prix)** à Puerto de la Cruz, à environ 40 minutes par l'autoroute. |
 
 ### La Laguna et Anaga
 

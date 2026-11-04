@@ -75,7 +75,7 @@ One thing to watch: many Tenerife hotels and tours are in the **south** (Costa A
 | --- | --- |
 | **4 hours** | **Santa Cruz** on foot (Plaza de España, the Auditorium, the Nuestra Señora de África market) and the **tram to La Laguna**, a UNESCO World Heritage Site, for its old streets and cathedral. |
 | **6 hours** | La Laguna in the morning and **Anaga** in the afternoon: a taxi to Cruz del Carmen or the guided laurel forest walk. Or a wine tasting at the Casa del Vino in El Sauzal, or Las Teresitas beach. |
-| **8 hours or more** | **Mount Teide** with the cable car, or the north: **Loro Parque** in Puerto de la Cruz, about 40 minutes by motorway. |
+| **8 hours or more** | **Mount Teide** with the cable car, or the north: **[Loro Parque](/en/guides/tenerife/loro-parque-tickets-prices)** in Puerto de la Cruz, about 40 minutes by motorway. |
 
 ### La Laguna and Anaga
 

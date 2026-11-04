@@ -65,7 +65,7 @@ Besides the **Caminito del Rey** (which deserves its own guide: [how to visit it
 
 ## Nerja and Frigiliana
 
-An hour along the coast, **Nerja** has the **Balcón de Europa** (a viewpoint over the Mediterranean) and the spectacular **Nerja Caves**, with giant formations. Ten minutes away, **Frigiliana**, one of the prettiest white villages in Spain, of steep streets and flowers. A perfect day combining cave, beach and village.
+An hour along the coast, **Nerja** has the **Balcón de Europa** (a viewpoint over the Mediterranean) and the spectacular **[Nerja Caves](/en/guides/malaga/nerja-caves-tickets)**, with giant formations. Ten minutes away, **Frigiliana**, one of the prettiest white villages in Spain, of steep streets and flowers. A perfect day combining cave, beach and village.
 
 Book the caves for the first slot (10:00), have lunch in Frigiliana and finish at the Balcón de Europa. Going by car or bus, buy the timed cave ticket on its own; the organised trip bundles everything.
 

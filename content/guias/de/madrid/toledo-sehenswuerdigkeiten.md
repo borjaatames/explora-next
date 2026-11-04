@@ -65,7 +65,7 @@ Preise und Öffnungszeiten am 3. November 2026 auf den offiziellen Websites gepr
 
 | Ort | Preis | Zeit | Pflicht? |
 | --- | --- | --- | --- |
-| Kathedrale | 12 € | 1 Std. 30 | Ja |
+| [Kathedrale](/de/guides/madrid/kathedrale-toledo-tickets) | 12 € | 1 Std. 30 | Ja |
 | Santo Tomé (El Greco) | 4 € oder Armband | 20–30 Min. | Ja |
 | Synagoge El Tránsito und Sephardisches Museum | 3 € | 45 Min. | Ja |
 | Santa María la Blanca | 4 € oder Armband | 15–20 Min. | Ja |

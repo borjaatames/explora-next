@@ -65,7 +65,7 @@ Además del **Caminito del Rey** (que merece su propia guía: [cómo visitarlo](
 
 ## Nerja y Frigiliana
 
-A una hora por la costa, **Nerja** tiene el **Balcón de Europa** (mirador sobre el Mediterráneo) y las espectaculares **Cuevas de Nerja**, con formaciones gigantescas. A 10 minutos, **Frigiliana**, uno de los pueblos blancos más bonitos de España, de calles empinadas y flores. Día redondo que combina cueva, playa y pueblo.
+A una hora por la costa, **Nerja** tiene el **Balcón de Europa** (mirador sobre el Mediterráneo) y las espectaculares **[Cuevas de Nerja](/guias/malaga/cueva-de-nerja-entradas)**, con formaciones gigantescas. A 10 minutos, **Frigiliana**, uno de los pueblos blancos más bonitos de España, de calles empinadas y flores. Día redondo que combina cueva, playa y pueblo.
 
 ## Antequera y El Torcal
 

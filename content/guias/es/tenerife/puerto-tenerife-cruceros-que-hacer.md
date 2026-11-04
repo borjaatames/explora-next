@@ -75,7 +75,7 @@ Ojo: muchos hoteles y excursiones de Tenerife están en el **sur** (Costa Adeje,
 | --- | --- |
 | **4 horas** | **Santa Cruz** a pie (Plaza de España, Auditorio, Mercado de Nuestra Señora de África) y **tranvía a La Laguna**, Patrimonio de la Humanidad, para pasear su casco y la catedral. |
 | **6 horas** | La Laguna por la mañana y **Anaga** por la tarde: taxi a Cruz del Carmen o la ruta guiada por la laurisilva. Alternativa: cata en la Casa del Vino de El Sauzal o playa de Las Teresitas. |
-| **8 horas o más** | **El Teide** con teleférico, o el norte: **Loro Parque** en Puerto de la Cruz, a unos 40 minutos por autopista. |
+| **8 horas o más** | **El Teide** con teleférico, o el norte: **[Loro Parque](/guias/tenerife/loro-parque-entradas-precios)** en Puerto de la Cruz, a unos 40 minutos por autopista. |
 
 ### La Laguna y Anaga
 

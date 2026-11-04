@@ -65,7 +65,7 @@ En plus du **Caminito del Rey** (qui mérite son propre guide : [comment le visi
 
 ## Nerja et Frigiliana
 
-À une heure par la côte, **Nerja** possède le **Balcón de Europa** (belvédère sur la Méditerranée) et les spectaculaires **grottes de Nerja**, aux formations gigantesques. À 10 minutes, **Frigiliana**, l'un des plus beaux villages blancs d'Espagne, aux ruelles escarpées et fleuries. Une journée parfaite qui combine grotte, plage et village.
+À une heure par la côte, **Nerja** possède le **Balcón de Europa** (belvédère sur la Méditerranée) et les spectaculaires **[grottes de Nerja](/fr/guides/malaga/grotte-de-nerja-billets)**, aux formations gigantesques. À 10 minutes, **Frigiliana**, l'un des plus beaux villages blancs d'Espagne, aux ruelles escarpées et fleuries. Une journée parfaite qui combine grotte, plage et village.
 
 ## Antequera et El Torcal
 
