@@ -82,7 +82,19 @@ keywords:
 - maspalomas water slides
 imagen: /images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp
 imagenAlt: Slides and pool at Aqualand Maspalomas
-galeria: null
+galeria:
+- src: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
+  alt: "Aerial view of the big wave pool at Aqualand Maspalomas"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
+  alt: "Large tube slides at Aqualand Maspalomas among Mayan-style ruins"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
+  alt: "Polynesia kids area with slides and a tipping water bucket"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-tornado.webp
+  alt: "Riders in the green funnel of the Tornado slide"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-discovery-beach.webp
+  alt: "Swimmers in the Discovery Beach wave pool"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-skull-bay.webp
+  alt: "Children running through the water in the Skull Bay kids area"
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:

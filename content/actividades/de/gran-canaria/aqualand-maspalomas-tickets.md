@@ -82,7 +82,19 @@ keywords:
 - rutschen maspalomas
 imagen: /images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp
 imagenAlt: Rutschen und Becken im Aqualand Maspalomas
-galeria: null
+galeria:
+- src: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
+  alt: "Luftaufnahme des großen Wellenbeckens im Aqualand Maspalomas"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
+  alt: "Große Röhrenrutschen im Aqualand Maspalomas zwischen Ruinen im Maya-Stil"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
+  alt: "Kinderbereich Polynesia mit Rutschen und Wasserkübel"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-tornado.webp
+  alt: "Badegäste im grünen Trichter der Rutsche Tornado"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-discovery-beach.webp
+  alt: "Badegäste im Wellenbecken Discovery Beach"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-skull-bay.webp
+  alt: "Kinder laufen im Kinderbereich Skull Bay durchs Wasser"
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:

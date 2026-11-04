@@ -83,7 +83,19 @@ keywords:
 - cosa fare a maspalomas
 imagen: /images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp
 imagenAlt: Scivoli e piscina di Aqualand Maspalomas
-galeria: null
+galeria:
+- src: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
+  alt: "Vista aerea della grande piscina a onde di Aqualand Maspalomas"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
+  alt: "Grandi scivoli a tubo di Aqualand Maspalomas tra rovine in stile maya"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
+  alt: "Area bambini Polynesia con scivoli e secchio d’acqua"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-tornado.webp
+  alt: "Bagnanti nell’imbuto verde dello scivolo Tornado"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-discovery-beach.webp
+  alt: "Bagnanti nella piscina a onde Discovery Beach"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-skull-bay.webp
+  alt: "Bambini che corrono nell’acqua nell’area Skull Bay"
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:

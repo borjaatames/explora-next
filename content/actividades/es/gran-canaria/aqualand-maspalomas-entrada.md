@@ -82,7 +82,19 @@ keywords:
 - toboganes maspalomas
 imagen: /images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp
 imagenAlt: Toboganes y piscina de Aqualand Maspalomas
-galeria: null
+galeria:
+- src: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
+  alt: "Vista aérea de la gran piscina de olas de Aqualand Maspalomas"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
+  alt: "Grandes toboganes de tubo de Aqualand Maspalomas entre ruinas de inspiración maya"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
+  alt: "Zona infantil Polynesia con toboganes y cubo de agua"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-tornado.webp
+  alt: "Bañistas en el embudo verde del tobogán Tornado"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-discovery-beach.webp
+  alt: "Bañistas en la piscina de olas Discovery Beach"
+- src: /images/actividades/gran-canaria/aqualand/aqualand-skull-bay.webp
+  alt: "Niños corriendo por el agua en la zona infantil Skull Bay"
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:
