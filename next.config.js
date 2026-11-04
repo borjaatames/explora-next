@@ -220,7 +220,12 @@ const nextConfig = {
         pathname: "/**",
       },
     ],
-    formats: ["image/avif", "image/webp"],
+    // Solo WebP: AVIF duplicaba las transformaciones (y el coste) para un ahorro
+    // de peso pequeño, porque las fotos locales ya son WebP 1600×1200.
+    formats: ["image/webp"],
+    // 30 días en la caché de imágenes optimizadas (el valor por defecto de Next 14
+    // es 60 s y obliga a re-transformar). Las fotos nuevas usan nombres nuevos.
+    minimumCacheTTL: 2592000,
   },
   async redirects() {
     const redirects = [];
