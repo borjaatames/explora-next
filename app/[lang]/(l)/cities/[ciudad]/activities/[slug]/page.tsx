@@ -53,6 +53,7 @@ import BandaVersionPrivada from "@/components/ficha/BandaVersionPrivada";
 import OtrasVersiones from "@/components/ficha/OtrasVersiones";
 import AvisoEntradasAgotadas, { AvisoComparativaPrivada } from "@/components/ficha/AvisoEntradasAgotadas";
 import AlternativaReserva from "@/components/ficha/AlternativaReserva";
+import { tituloSeoGuia } from "@/lib/tituloSeo";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -146,7 +147,7 @@ export async function generateMetadata({
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
   return {
-    title: actividad.metaTitle ?? actividad.titulo,
+    title: tituloSeoGuia(actividad.titulo, actividad.metaTitle),
     description: actividad.metaDescription ?? actividad.descripcion,
     keywords: actividad.keywords,
     robots: {

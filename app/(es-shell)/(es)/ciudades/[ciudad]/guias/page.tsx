@@ -14,6 +14,7 @@ import {
   urlCiudad,
   urlGuiasDeCiudad,
 } from "@/lib/i18n/utils";
+import { ampliarDescripcion, resumenActividades, resumenGuias } from "@/lib/metaDescripcion";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -39,12 +40,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const url = `${SITE_URL}${urlGuiasDeCiudad("es", params.ciudad)}`;
   const titulo = `Guías de ${ciudad.nombre}`;
   const descripcion = `Rutas con criterio y consejos prácticos para visitar ${ciudad.nombre} sin postureo turístico.`;
+  const metaDescripcion = ampliarDescripcion(descripcion, [
+    resumenGuias("es", obtenerGuiasDeCiudad("es", params.ciudad)),
+  ]);
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
   return {
     // Sin sufijo manual: el template "%s | ExploraSpain" del RootLayout ya lo añade.
     title: titulo,
-    description: descripcion,
+    description: metaDescripcion,
     robots: {
       index: allowIndexing,
       follow: allowIndexing,
@@ -60,7 +64,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "website",
       url,
       title: `${titulo} | ExploraSpain`,
-      description: descripcion,
+      description: metaDescripcion,
       siteName: "ExploraSpain",
       locale: "es_ES",
     },

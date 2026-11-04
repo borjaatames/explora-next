@@ -38,6 +38,7 @@ import {
   partirHtmlPorShortcodes,
   slugsInline,
 } from "@/lib/guiasReservas";
+import { tituloSeoGuia } from "@/lib/tituloSeo";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -67,7 +68,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     : `${SITE_URL}${imagenRelativa}`;
 
   return {
-    title: guia.metaTitle ?? guia.titulo,
+    title: tituloSeoGuia(guia.titulo, guia.metaTitle),
     description: guia.metaDescription ?? guia.descripcion,
     keywords: guia.keywords,
     authors: guia.autor ? [{ name: guia.autor }] : undefined,

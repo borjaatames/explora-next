@@ -42,6 +42,7 @@ import ActividadesFiltradas, {
   type CategoriaOpcion,
   type EnlaceCategoria,
 } from "@/components/ciudad/ActividadesFiltradas";
+import { ampliarDescripcion, resumenActividades, resumenGuias } from "@/lib/metaDescripcion";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -89,12 +90,15 @@ export async function generateMetadata({
   const tl = textosListado(lang);
   const titulo = tl.titulo(ciudad.nombre);
   const descripcion = tl.descripcionMeta(ciudad.nombre);
+  const metaDescripcion = ampliarDescripcion(descripcion, [
+    resumenActividades(lang, obtenerListaActividadesPorCiudad(lang, params.ciudad)),
+  ]);
   const url = `${SITE_URL}${urlActividadesDeCiudad(lang, params.ciudad)}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
   return {
     title: titulo,
-    description: descripcion,
+    description: metaDescripcion,
     robots: {
       index: allowIndexing,
       follow: allowIndexing,
@@ -109,7 +113,7 @@ export async function generateMetadata({
       type: "website",
       url,
       title: `${titulo} | ExploraSpain`,
-      description: descripcion,
+      description: metaDescripcion,
       siteName: "ExploraSpain",
       locale: IDIOMA_LOCALE[lang],
     },

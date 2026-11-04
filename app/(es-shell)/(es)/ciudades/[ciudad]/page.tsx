@@ -8,7 +8,7 @@ import {
   obtenerTodosLosCaminosCiudades,
 } from "@/lib/ciudades";
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
-import { obtenerActividadesParaPaginaCiudad } from "@/lib/actividades";
+import { obtenerActividadesParaPaginaCiudad, obtenerListaActividadesPorCiudad } from "@/lib/actividades";
 import EscaparateActividades from "@/components/ciudad/EscaparateActividades";
 import CtaCiudadCard from "@/components/ciudad/CtaCiudadCard";
 import GuiasDeCiudadLista from "@/components/ciudad/GuiasDeCiudadLista";
@@ -22,6 +22,7 @@ import {
   urlGuiasDeCiudad,
 } from "@/lib/i18n/utils";
 import HeroCiudad, { DatosClaveCiudad } from "@/components/ciudad/HeroCiudad";
+import { ampliarDescripcion, resumenActividades, resumenGuias } from "@/lib/metaDescripcion";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -41,11 +42,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!ciudad) return { title: "Ciudad no encontrada" };
 
   const url = `${SITE_URL}${ciudad.url}`;
+  const metaDescripcion = ciudad.metaDescription ?? ampliarDescripcion(ciudad.descripcion, [
+    resumenActividades("es", obtenerListaActividadesPorCiudad("es", params.ciudad)),
+    resumenGuias("es", obtenerGuiasDeCiudad("es", params.ciudad)),
+  ]);
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
 
   return {
     title: ciudad.metaTitle ?? `${ciudad.nombre} | Guía de viaje`,
-    description: ciudad.metaDescription ?? ciudad.descripcion,
+    description: metaDescripcion,
     keywords: ciudad.keywords,
     robots: {
       index: allowIndexing,
@@ -62,7 +67,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "website",
       url,
       title: `${ciudad.nombre} | ExploraSpain`,
-      description: ciudad.descripcion,
+      description: metaDescripcion,
       siteName: "ExploraSpain",
       locale: "es_ES",
       ...(ciudad.imagen

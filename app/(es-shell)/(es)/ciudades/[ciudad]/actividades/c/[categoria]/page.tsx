@@ -20,6 +20,7 @@ import {
   urlActividadesDeCiudadPorCategoria,
 } from "@/lib/i18n/utils";
 import SelloProveedor from "@/components/SelloProveedor";
+import { ampliarDescripcion, resumenActividades, resumenGuias } from "@/lib/metaDescripcion";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -92,6 +93,9 @@ export async function generateMetadata({
   if (!categoria) return { title: "Categoría no encontrada" };
 
   const { titulo, descripcion } = textosCategoria(categoria, ciudad.nombre);
+  const metaDescripcion = ampliarDescripcion(descripcion, [
+    resumenActividades("es", obtenerActividadesDeCiudadPorCategoria("es", params.ciudad, categoria)),
+  ]);
   const url = `${SITE_URL}${urlActividadesDeCiudadPorCategoria(
     "es",
     params.ciudad,
@@ -106,7 +110,7 @@ export async function generateMetadata({
 
   return {
     title: titulo,
-    description: descripcion,
+    description: metaDescripcion,
     robots: {
       index: allowIndexing && suficientes,
       follow: allowIndexing,
@@ -121,7 +125,7 @@ export async function generateMetadata({
       type: "website",
       url,
       title: `${titulo} | ExploraSpain`,
-      description: descripcion,
+      description: metaDescripcion,
       siteName: "ExploraSpain",
       locale: "es_ES",
     },

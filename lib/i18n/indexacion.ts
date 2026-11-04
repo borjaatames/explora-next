@@ -16,6 +16,8 @@
  * Sin dependencias de Node: lo importa el middleware (Edge runtime).
  */
 export const CIUDADES_DE_INDEXABLES: ReadonlySet<string> = new Set([
+  "/de/guides/madrid/kathedrale-toledo-tickets",
+  "/de/guides/malaga/hoehle-von-nerja-tickets",
   "mallorca",
   "tenerife",
   "gran-canaria",
