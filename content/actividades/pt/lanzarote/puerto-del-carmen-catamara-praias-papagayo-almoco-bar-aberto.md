@@ -107,6 +107,7 @@ galeria:
   alt: "Enseada de águas turquesa em Papagayo"
 - src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
   alt: "Ondulação na margem de uma praia de Papagayo"
+avisoReserva: "A tripulação ou o guia fala inglês, espanhol, francês, italiano e alemão: não há explicações em português."
 ---
 
 ## O que vai ver

@@ -77,9 +77,9 @@ imagen: /images/actividades/sevilla/museo-ilusiones/tunel-geometrico.webp
 imagenAlt: Tunnel with a green and black geometric pattern creating an optical illusion
 galeria:
 - src: /images/actividades/sevilla/museo-ilusiones/estatua-jardin-parque-sevilla.webp
-  alt: Estatua en jardín del Parque de María Luisa, Sevilla
+  alt: "Statue in a garden of María Luisa Park, Seville"
 - src: /images/actividades/sevilla/museo-ilusiones/torre-sevilla-arquitectura.webp
-  alt: Torre Sevilla, rascacielos moderno de la capital andaluza
+  alt: "Torre Sevilla, the modern skyscraper of the Andalusian capital"
 - src: /images/actividades/sevilla/museo-ilusiones/sala-rayas.webp
   alt: Person holding a ball in a spiral-striped room
 - src: /images/actividades/sevilla/museo-ilusiones/espejo-infinito.webp

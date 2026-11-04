@@ -88,7 +88,7 @@ galeria:
 - src: /images/actividades/bilbao/ria/puente-la-salve-guggenheim-aereo.webp
   alt: Aerial view of the Bilbao estuary with La Salve bridge and the Guggenheim
 - src: /images/actividades/bilbao/ria/trainera-remeros-ria.webp
-  alt: Remeros en una trainera sobre la ria de Bilbao
+  alt: "Rowers in a trainera boat on the Bilbao estuary"
 - src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
   alt: Guggenheim Museum by Bilbao's estuary
 - src: /images/actividades/bilbao/ria/zubizuri.webp

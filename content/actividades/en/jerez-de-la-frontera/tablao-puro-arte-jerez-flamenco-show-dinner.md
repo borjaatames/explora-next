@@ -88,9 +88,9 @@ galeria:
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
   alt: "Jerez Cathedral and its bell tower lit up at night"
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-  alt: "Músicos en directo en un tablao flamenco de Jerez"
+  alt: "Live musicians at a flamenco tablao in Jerez"
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: "Público disfrutando de un espectáculo flamenco en Jerez"
+  alt: "Audience enjoying a flamenco show in Jerez"
 ---
 
 ## What you will see

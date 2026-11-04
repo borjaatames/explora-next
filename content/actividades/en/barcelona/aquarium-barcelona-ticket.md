@@ -30,7 +30,7 @@ incluye:
 - Full aquarium entry
 noIncluye:
 - Guided tours (extra)
-- Diving experience (extra)
+- Shark cage dive (optional, €175, ages 8+)
 puntoEncuentro:
   texto: L'Aquàrium de Barcelona, Moll d'Espanya del Port Vell, Barcelona
   descripcionGuia: The aquarium is at Port Vell, a 10-minute walk from Las Ramblas or the Columbus monument. Metro line 3 to Drassanes, or line 4 to Barceloneta.
@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: How long does the aquarium take?
   respuesta: Plan 2–3 hours for a comfortable visit. The shark tunnel is the centrepiece but there are 35 fish tanks in total, plus the interactive Explora! area for children.
 - pregunta: Can you dive with the sharks?
-  respuesta: Yes, the aquarium offers a "Shark Experience" dive for certified divers (extra cost, booked separately). One of the few places in Europe to dive with sharks in controlled conditions.
+  respuesta: "Yes, with the shark cage dive in the shark tank: no diving qualification or experience is needed, the minimum age is 8 and it costs €175 per person (equipment, insurance, instruction and admission for you and one companion included). It lasts 2 hours, with up to 4 people per session, and is booked on the Aquàrium's website."
 opinionEditorial: Barcelona's aquarium is strong on atmosphere — the 80-metre shark tunnel is genuinely impressive — though the overall collection is smaller than Valencia's Oceanogràfic. Worth it for the tunnel experience alone.
 guiasRelacionadas:
 - barcelona-with-kids

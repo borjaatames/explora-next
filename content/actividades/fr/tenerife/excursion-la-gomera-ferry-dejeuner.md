@@ -110,6 +110,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 fecha_actualizacion: '2026-10-25'
+avisoReserva: "Le français n'est proposé que certains jours, selon le point de départ (sud ou Puerto de la Cruz) ; l'espagnol et l'anglais sont assurés tous les jours. Vérifiez la langue à votre date avant de réserver."
 ---
 
 ## Ce que vous verrez

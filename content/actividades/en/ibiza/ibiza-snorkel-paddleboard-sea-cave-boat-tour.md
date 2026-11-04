@@ -70,12 +70,12 @@ keywords:
 - ibiza paddleboard boat trip
 - ibiza coves boat tour
 imagen: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
-imagenAlt: Cala de Ibiza rodeada de pinos con aguas turquesas
+imagenAlt: "Ibiza cove surrounded by pine trees with turquoise water"
 galeria:
 - src: /images/actividades/ibiza/mar/esnorquel.webp
   alt: Snorkelling over a seagrass meadow
 - src: /images/actividades/ibiza/calas/barca-varada-rocas-ibiza.webp
-  alt: Barca varada entre rocas en una cala de Ibiza
+  alt: "Boat pulled up between rocks in an Ibiza cove"
 - src: /images/actividades/ibiza/mar/paddle-surf-cala.webp
   alt: Stand-up paddleboarding in a cove
 - src: /images/actividades/ibiza/mar/posidonia.webp

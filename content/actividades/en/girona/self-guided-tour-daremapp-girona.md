@@ -70,7 +70,7 @@ imagen: /images/actividades/girona/girona-onyar/girona-onyar-wikimedia-onyar-riv
 imagenAlt: The Onyar river flowing through Girona
 galeria:
 - src: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
-  alt: Puente rojo y casas de colores sobre el rio Onyar en Girona
+  alt: "Red bridge and colourful houses on the Onyar in Girona"
 - src: /images/actividades/girona/girona-onyar/girona-onyar-pexels-13759651.webp
   alt: Colourful Onyar houses reflected in the river
 - src: /images/actividades/girona/girona-catedral/girona-catedral-unsplash-LPmbgEpVIn8.webp

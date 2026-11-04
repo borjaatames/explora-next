@@ -79,7 +79,7 @@ imagen: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
 imagenAlt: Plaza Nueva in Bilbao's Old Town
 galeria:
 - src: /images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp
-  alt: Plaza con escaleras en el Casco Viejo de Bilbao
+  alt: "Square with steps in Bilbao's Old Town"
 - src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
   alt: La Ribera market by the estuary
 - src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp

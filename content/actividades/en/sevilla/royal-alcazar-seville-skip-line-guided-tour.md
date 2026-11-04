@@ -118,9 +118,9 @@ imagen: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.we
 imagenAlt: Baths of Doña María de Padilla in the Royal Alcázar
 galeria:
 - src: /images/actividades/sevilla/alcazar-extra/patio-doncellas-alcazar.webp
-  alt: Patio interior del Real Alcazar de Sevilla
+  alt: "Inner courtyard of the Real Alcázar in Seville"
 - src: /images/actividades/sevilla/alcazar-extra/banos-dona-maria-padilla.webp
-  alt: Banos de Dona Maria de Padilla en el Real Alcazar de Sevilla
+  alt: "Baths of Doña María de Padilla in the Real Alcázar of Seville"
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
   alt: Courtyard of the Maidens in the Royal Alcázar
 - src: /images/actividades/sevilla/wikimedia/sevilla-alcazar-jardines-01.webp

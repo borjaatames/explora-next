@@ -55,7 +55,7 @@ informacionImportante:
   aTenerEnCuenta:
   - Cada entrada es válida para un día diferente; coordina cuál va primero
   - El Tower of Power (tobogán de caída libre desde 28 m) tiene restricción de edad y estado de salud
-  - El show de orcas en Loro Parque es solo demostrativo (no espectáculo de circo); muy recomendable
+  - Las sesiones con orcas y delfines de Loro Parque son polémicas por tratarse de animales en cautividad; decide tú si quieres verlas
   - El bus gratuito de Loro Parque desde Puerto de la Cruz facilita mucho la visita
 accesibilidad: Ambos parques son accesibles en silla de ruedas. Siam Park tiene algunas atracciones con restricciones.
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: ¿Cuánto ahorro con la entrada combinada?
   respuesta: Normalmente entre 15 y 25€ frente a comprar las entradas por separado, dependiendo de la temporada. Comprueba el precio de cada entrada individual antes de decidir.
 - pregunta: ¿Loro Parque es un zoo o un circo?
-  respuesta: Es un zoo de conservación premiado internacionalmente. Los shows de orcas y delfines son demostraciones de comportamiento natural en cautividad, no espectáculos de circo al uso. Loro Parque es socio de numerosos proyectos de conservación en libertad.
+  respuesta: Loro Parque se presenta como un zoo de conservación y financia proyectos en libertad a través de Loro Parque Fundación. Tiene sesiones con orcas y delfines que el parque llama demostraciones de comportamiento; mantener cetáceos en cautividad es un tema polémico, así que decide tú si quieres verlas.
 opinionEditorial: El combo Loro Parque + Siam Park es la excursión estrella de Tenerife y no decepciona. Loro Parque tiene la colección de animales más impresionante de Europa y Siam Park el mejor diseño temático de todos los parques acuáticos españoles. Si tienes dos días libres en Tenerife, esta es la inversión perfecta.
 guiasRelacionadas:
 - que-ver-en-tenerife
@@ -106,7 +106,7 @@ Este combo incluye entrada a los **dos mejores parques de Tenerife** —y posibl
 
 ### Loro Parque (día 1)
 El **mejor zoo de Europa** según TripAdvisor varios años consecutivos. Destacan:
-- **Orca Ocean:** el mayor tanque de orcas de Europa con demostraciones de comportamiento.
+- **Orca Ocean:** la instalación de las orcas, con sesiones de demostración.
 - **Gorilla Island:** isla con la mayor colonia de gorilas de piso bajo de Europa.
 - **Penguin Island:** zona refrigerada con 200 pingüinos de rey.
 - **Loro Parque** (la sección de loros): 350 especies de psitácidas, la mayor colección del mundo.

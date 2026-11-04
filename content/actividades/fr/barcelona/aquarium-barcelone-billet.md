@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: Est-ce le meilleur aquarium d’Espagne ?
   respuesta: C’est l’un des meilleurs pour la faune méditerranéenne. Pour la faune océanique et tropicale, l’Oceanogràfic de Valence est plus grand et plus varié.
 - pregunta: Peut-on plonger avec les requins ?
-  respuesta: Oui, une activité spéciale de plongée dans le bassin des requins existe (payante, sur réservation). Renseignez-vous auprès de l’aquarium sur les conditions requises.
+  respuesta: "Oui, avec la plongée en cage dans le bassin des requins : aucun diplôme ni expérience de plongée n’est nécessaire, l’âge minimum est de 8 ans et elle coûte 175 € par personne (équipement, assurance, formation et entrée pour vous et un accompagnateur compris). Elle dure 2 heures, avec 4 personnes maximum par séance, et se réserve sur le site de l’Aquàrium."
 opinionEditorial: 'L’Aquàrium de Barcelone possède le plus beau tunnel à requins d’Espagne : 80 mètres de verre entourés de requins-taureaux et de raies, sans équivalent dans la péninsule. Sa collection méditerranéenne est unique au monde. Elle vaut le détour malgré un prix élevé ; achetez en ligne pour éviter la queue au guichet.'
 guiasRelacionadas:
 - barcelone-avec-des-enfants

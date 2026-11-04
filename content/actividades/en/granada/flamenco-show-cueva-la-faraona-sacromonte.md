@@ -77,7 +77,7 @@ opinionEditorial: 'Of the Sacromonte caves, this is the smallest: just 25 seats.
   What you lose: a drink (Los Amayas includes one), review volume (503 versus 1,107 at Los Amayas or 2,093 at Los Tarantos) and an English option. The show is run only in Spanish, which isn''t a problem for the dancing and singing but does limit the possible explanations between numbers. If you''re travelling with non-Spanish-speaking guests, a central tablao with English commentary is better.
 
 
-  At €18 it''s the cheapest cave option. The 4.7 rating with GetYourGuide''s «Best rated» distinction and the operator''s track record (the cave itself, no middlemen) make it a safe bet for travellers who value the intimate format over seating comfort. Wear comfortable shoes: the walk from the centre up to number 53 of the Camino del Sacromonte is uphill.
+  From €16 it''s the cheapest cave option. The 4.7 rating with GetYourGuide''s «Best rated» distinction and the operator''s track record (the cave itself, no middlemen) make it a safe bet for travellers who value the intimate format over seating comfort. Wear comfortable shoes: the walk from the centre up to number 53 of the Camino del Sacromonte is uphill.
 
   '
 atraccionesRelacionadas:

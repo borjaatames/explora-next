@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/valencia/ciudad-artes-ciencias/hemisféric-nubes-ciudad-artes.webp
   alt: Hemisfèric de Valencia con nubes sobre la Ciudad de las Artes
 - src: /images/actividades/valencia/ciudad-artes-ciencias/oceanarium-edificio-blanco-valencia.webp
-  alt: Edificio del Oceanarium de Valencia, diseño de Santiago Calatrava
+  alt: Edificio del Oceanogràfic de Valencia, con la cubierta diseñada por Félix Candela
 - src: /images/actividades/valencia/oceanografic/oceanografic-entrada.webp
   alt: Entrada del Oceanogràfic de Valencia
 - src: /images/actividades/valencia/oceanografic/beluga.webp

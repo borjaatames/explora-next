@@ -98,6 +98,7 @@ publicada: true
 destacada: true
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-23'
+avisoReserva: "A tripulação ou o guia fala espanhol e inglês: não há explicações em português."
 ---
 
 ## O que vai ver

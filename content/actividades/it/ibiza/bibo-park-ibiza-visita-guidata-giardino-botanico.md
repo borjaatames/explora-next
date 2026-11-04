@@ -98,6 +98,7 @@ galeria:
   alt: "Primo piano di rametti di rosmarino"
 - src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
   alt: "Es Vedrà tra i pini"
+avisoReserva: "La visita guidata non è in italiano (inglese, spagnolo, francese o tedesco, a seconda della disponibilità). In italiano c'è l'audioguida gratuita tramite QR."
 ---
 
 ## Cosa vedrai

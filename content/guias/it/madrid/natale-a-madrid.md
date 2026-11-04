@@ -4,7 +4,7 @@ descripcion: "Natale a Madrid 2026: quando si accendono le luci, il mercatino di
 categoria: "madrid"
 slug: "natale-a-madrid"
 fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: true
@@ -25,7 +25,7 @@ slugs:
   it: natale-a-madrid
   pt: natal-em-madrid
 reservasArriba: true
-respuestaCorta: "Le luci si accendono **a fine novembre** e restano fino all'Epifania (6 gennaio), in oltre 250 punti della città. Da non perdere: il **mercatino di Natale di Plaza Mayor**, **Cortylandia** in Calle Preciados, le luci viste dal bus **Naviluz** o in tuk-tuk e la **Cabalgata dei Re Magi** il 5 gennaio. Vai in un giorno feriale: il sabato di dicembre il centro si blocca."
+respuestaCorta: "Le luci si accendono **sabato 21 novembre** in Plaza de Cibeles e restano fino al 6 gennaio, in oltre 250 punti della città. Da non perdere: il **mercatino di Natale di Plaza Mayor**, **Cortylandia** in Calle Preciados, le luci viste dal bus **Naviluz** o in tuk-tuk e la **Cabalgata dei Re Magi** il 5 gennaio. Vai in un giorno feriale: il sabato di dicembre il centro si blocca."
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour
@@ -38,7 +38,7 @@ actividades:
 
 | Cosa | Dove | Quando | Prezzo |
 | --- | --- | --- | --- |
-| Luci di Natale | Centro e tutti i 21 distretti | Fine novembre – 6 gennaio | Gratis |
+| Luci di Natale | Centro e tutti i 21 distretti (accensione a Cibeles) | 21 novembre 2026 – 6 gennaio 2027 | Gratis |
 | Presepe della Real Casa de Correos | Puerta del Sol | Fine novembre – 6 gennaio | Gratis |
 | Mercatino di Natale | Plaza Mayor | Fine novembre – 31 dicembre | Gratis |
 | Cortylandia | El Corte Inglés, Calle Preciados | Fine novembre – 5 gennaio | Gratis |
@@ -50,7 +50,7 @@ actividades:
 | Rintocchi di Capodanno | Puerta del Sol | 31 dicembre | Gratis, posti limitati |
 | Cabalgata dei Re Magi | Castellana – Cibeles | 5 gennaio, dalle 18:00 | Gratis |
 
-Il Comune conferma le date esatte a novembre; quelle non ancora ufficiali sono dell'ultima edizione. Aggiorneremo questa guida appena usciranno le date del 2026.
+**Confermato (4 novembre 2026):** il Comune accende le luci sabato 21 novembre con un evento in Plaza de Cibeles, e restano accese fino al 6 gennaio 2027. L'orario dell'accensione non è ancora stato annunciato. Le altre date sono dell'ultima edizione finché non esce il programma 2026.
 
 ## Vedere le luci
 

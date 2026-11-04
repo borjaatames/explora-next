@@ -112,6 +112,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 fecha_actualizacion: '2026-10-25'
+avisoReserva: "Deutsch gibt es nur an manchen Tagen und je nach Abfahrtsort (Süden oder Puerto de la Cruz); Spanisch und Englisch täglich. Prüfe die Sprache an deinem Datum vor der Buchung."
 ---
 
 ## Was du siehst

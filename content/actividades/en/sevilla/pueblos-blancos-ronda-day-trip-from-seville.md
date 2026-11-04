@@ -113,9 +113,9 @@ imagen: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-se
 imagenAlt: Puente Nuevo of Ronda spanning deep Tajo gorge with three stone arches and dramatic cliff landscape
 galeria:
 - src: /images/actividades/sevilla/ronda/puente-nuevo-ronda-casas.webp
-  alt: Puente Nuevo de Ronda sobre el Tajo
+  alt: "Ronda's Puente Nuevo over the Tajo gorge"
 - src: /images/actividades/sevilla/ronda/vista-tajo-puente-nuevo.webp
-  alt: Vista del Tajo de Ronda desde el Puente Nuevo
+  alt: "The Tajo gorge in Ronda from the Puente Nuevo"
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-zahara-sie-hero.webp
   alt: White village crowned by its castle
 - src: /images/actividades/granada/ronda/ronda-pixabay-3372201.webp

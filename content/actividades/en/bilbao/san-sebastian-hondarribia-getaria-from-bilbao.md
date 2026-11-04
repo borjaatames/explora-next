@@ -86,7 +86,7 @@ galeria:
 - src: /images/actividades/bilbao/costa-vasca/hendaya-playa-dos-gemelos.webp
   alt: Hendaye beach with the Deux Jumeaux rocks behind
 - src: /images/actividades/bilbao/san-sebastian/concha-desde-monte-igueldo.webp
-  alt: Playa de la Concha vista desde el monte, San Sebastian
+  alt: "La Concha beach from the hill, San Sebastián"
 - src: /images/actividades/bilbao/costa-vasca/hendaya-dos-gemelos.webp
   alt: The Deux Jumeaux rocks off the Hendaye coast
 - src: /images/actividades/bilbao/costa-vasca/hondarribia-marina.webp

@@ -99,6 +99,7 @@ galeria:
   alt: "Praia de Papagayo sob o seu promontório rochoso"
 - src: /images/actividades/lanzarote/papagayo/flz-acantilados-playa.webp
   alt: "Falésias e praia nas Playas de Papagayo"
+avisoReserva: "A tripulação ou o guia fala inglês, francês, alemão e espanhol: não há explicações em português."
 ---
 
 ## O que vai ver

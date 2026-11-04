@@ -112,6 +112,7 @@ destacada: false
 fecha: '2026-05-06'
 bokunProductId: 762702
 fecha_actualizacion: '2026-10-25'
+avisoReserva: "Der Guide spricht Spanisch (oder Italienisch). Auf Deutsch gibt es die Erklärungen nur als Audio während der Tour."
 ---
 
 ## Was du siehst

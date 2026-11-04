@@ -101,6 +101,7 @@ galeria:
   alt: "Fundo rochoso sob águas cristalinas"
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
   alt: "Peixes sobre o fundo arenoso em águas de Gran Canária"
+avisoReserva: "A tripulação ou o guia fala espanhol e inglês: não há explicações em português."
 ---
 
 ## O que vai ver

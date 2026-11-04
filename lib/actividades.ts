@@ -237,6 +237,11 @@ export type ActividadFrontmatter = {
   publicada: boolean;
   destacada?: boolean;
   /**
+   * Entre las que más reservas nos han dado (panel de GYG / Bókun). Se marca a
+   * mano y solo con ventas reales: muestra la etiqueta «Lo más reservado».
+   */
+  masReservado?: boolean;
+  /**
    * `false` = publicada pero fuera de Google (`noindex, follow` y fuera del
    * sitemap). Sigue en listados, guías y con su botón de reserva. Se usa para
    * fichas que duplican a otra mejor de la misma atracción (recorte del
@@ -663,6 +668,7 @@ function construirListItem(
 
     publicada: true,
     destacada: fm.destacada || false,
+    masReservado: fm.masReservado === true,
     fecha: fm.fecha || "",
     fecha_actualizacion: fm.fecha_actualizacion,
     slugs: fm.slugs,

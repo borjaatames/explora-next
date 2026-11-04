@@ -96,6 +96,7 @@ galeria:
   alt: "Praia do Postiguet com o castelo de Santa Bárbara"
 - src: /images/actividades/tarragona/banana/fta-banana-boat-arena-chalecos.webp
   alt: "Insuflável com coletes salva-vidas na beira-mar"
+avisoReserva: "A tripulação ou o guia fala inglês, francês e espanhol: não há explicações em português."
 ---
 
 ## O que vai ver

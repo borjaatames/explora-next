@@ -99,7 +99,7 @@ imagenAlt: "Rooftop view over Madrid"
 
 galeria:
   - src: "/images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp"
-    alt: "Cata de vinos en bodega de la Comunidad de Madrid"
+    alt: "Wine tasting at a winery in the Madrid region"
   - src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-busy-street-scene-spanish-flags-hero.webp"
     alt: Plaza de Cibeles and the Palacio de Comunicaciones
   - src: "/images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp"

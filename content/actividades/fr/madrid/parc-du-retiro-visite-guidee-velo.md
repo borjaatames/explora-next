@@ -128,6 +128,7 @@ indexar: false
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
+avisoReserva: "Visite en français uniquement du mercredi au dimanche, sous réserve de disponibilité : vérifiez la langue de votre créneau avant de réserver."
 ---
 
 ## Ce que vous verrez

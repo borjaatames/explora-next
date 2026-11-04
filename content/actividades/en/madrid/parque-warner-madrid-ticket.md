@@ -23,7 +23,7 @@ cancelacionGratuita: false
 highlights:
 - Five themed areas including DC Super Heroes World and Hollywood Boulevard
 - Superman Ride — the park's signature coaster
-- Batman Gotham City coaster and Stunt Arena live shows
+- 'Batman: Gotham City Escape coaster and live shows'
 - Warner Bros film and TV sets atmosphere
 incluye:
 - Full-day entry to Parque Warner
@@ -58,7 +58,7 @@ accesibilidad: Wheelchair accessible throughout the park. Some rides have restri
 politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: How far is Parque Warner from Madrid?
-  respuesta: About 50 km south, roughly 45 minutes by car or bus. There are direct shuttle buses from Madrid's Estación Sur de Autobuses.
+  respuesta: About 35 km south, roughly 45 minutes by car or bus. There are direct shuttle buses from Madrid's Estación Sur de Autobuses.
 - pregunta: What's the best ride?
   respuesta: Superman Ride is the park's most popular coaster. Batman Gotham City is more intense. Both have long queues in peak season — arrive at opening.
 opinionEditorial: Parque Warner is one of Spain's best theme parks, on par with PortAventura for ride quality. The DC and Warner Bros theming is well executed, and the stunt shows are genuinely impressive. A full day well spent.
@@ -98,7 +98,7 @@ fecha_actualizacion: '2026-10-17'
 
 ## What you'll see
 
-**Parque Warner** is one of Spain's top theme parks, located 50 km south of Madrid. Divided into **five themed areas** inspired by Warner Bros films and DC comics.
+**Parque Warner** is one of Spain's top theme parks, located about 35 km south of Madrid. Divided into **five themed areas** inspired by Warner Bros films and DC comics.
 
 ### DC Super Heroes World
 Home to **Superman Ride**, the park's signature steel coaster reaching 100 km/h. Also houses the Batman Gotham City ride.

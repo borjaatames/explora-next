@@ -79,7 +79,7 @@ preguntasFrecuentes:
 - pregunta: What's the difference vs. the other 4 major flamenco venues in Seville?
   respuesta: '**Tablao El Arenal (this):** 50 years of history, 17th-c. building next to Maestranza, dinner option, 4.9/5, from €45. RECOMMENDED if you value tradition + dinner + historic architecture. **Teatro Flamenco Sevilla:** Large central theater, maximum volume (18,292 reviews), from €25. RECOMMENDED if you want most booked + affordable + central. **Casa de la Memoria:** 16th-c. patio + 2 rows, MAXIMUM INTIMACY, 13,526 reviews 4.8/5, from €26. RECOMMENDED if you value maximum intimacy. **Museo del Baile Flamenco:** 18th-c. Ecija patio + Cristina Hoyos, 6,456 reviews 4.8/5, from €32. RECOMMENDED if you value iconic artistic quality. **Teatro Flamenco Triana:** Theater in gypsy cradle neighborhood, 4,363 reviews 4.7/5, from €25. RECOMMENDED if you want gypsy neighborhood atmosphere.'
 - pregunta: Is the dinner option worth it?
-  respuesta: 'Depends on your appetite and evening plan. **Typical options** (verify when booking): show + drink only (€48) · tapas + show (~€60-65) · à la carte menu + show (~€80-90). **ADVANTAGES of dining at El Arenal:** (1) Convenience — everything in one place, no commuting. (2) **Cumulative atmosphere** — dinner creates atmosphere for the show. (3) Well-executed traditional Sevillian cuisine. **DISADVANTAGES:** Seville has top gastronomy in authentic tapas bars 5-10 min walking (Bar Las Teresas, Las Columnas, El Rinconcillo) worth it in their own right. If your dinner has experiential component and you want to discover gastronomic Seville, better dine outside + show only (€48). If you want everything in one place and a hassle-free evening, El Arenal with dinner.'
+  respuesta: 'Depends on your appetite and evening plan. **Typical options** (verify when booking): show + drink only (€45) · tapas + show (~€60-65) · à la carte menu + show (~€80-90). **ADVANTAGES of dining at El Arenal:** (1) Convenience — everything in one place, no commuting. (2) **Cumulative atmosphere** — dinner creates atmosphere for the show. (3) Well-executed traditional Sevillian cuisine. **DISADVANTAGES:** Seville has top gastronomy in authentic tapas bars 5-10 min walking (Bar Las Teresas, Las Columnas, El Rinconcillo) worth it in their own right. If your dinner has experiential component and you want to discover gastronomic Seville, better dine outside + show only (€45). If you want everything in one place and a hassle-free evening, El Arenal with dinner.'
 - pregunta: Why does it only have 22 reviews if it's been open 50 years?
   respuesta: The 22 reviews on GetYourGuide correspond to a NEW product listed on the GYG platform. The **tablao itself has decades of operation** with thousands of reviews on TripAdvisor and other platforms — Tablao Flamenco El Arenal is a Sevillian establishment consolidated since the 70s. The low number of reviews on GYG does NOT reflect the tablao's quality or experience; it simply reflects that the GYG product is relatively recent. The 4.9/5 rating over 22 verified GYG reviews, combined with the establishment's historical reputation, backs it as a consistent quality option.
 - pregunta: Can I combine with a visit to the Maestranza Bullring?
@@ -154,12 +154,12 @@ A **1-hour flamenco show at Tablao El Arenal** — 50 years of history in a rest
 - **Consistent quality flamenco ensemble** — dancers, singers, guitarists with professional experience. The tablao was founded by a dancer in the 70s, which explains the artistic rigor maintained over 5 decades.
 - **Structured 1-hour show** — alegrías, soleá, bulerías, tangos, fandangos. Program varies by artists of the night.
 - **RESTAURANT-style layout with tables** — more intimate and relaxed than tiered theater, but less intimate than Casa de la Memoria (2 rows in patio). Allows comfortable serving of tapas and dinner.
-- **3 options to choose:** Show + Drink Only (€48), Tapas + Show (€65), À la Carte Menu + Show (€85).
+- **3 options to choose:** Show + Drink Only (€45), Tapas + Show (€65), À la Carte Menu + Show (€85).
 - **Iconic location:** next to the Maestranza Bullring, in Barrio El Arenal. Combine with guided Maestranza visit in the afternoon.
 
 ## How it works
 
-**Book your date, session and option** (Show Only €48 / Tapas + Show €65 / Menu + Show €85). Communicate dietary allergies with 48h+ notice.
+**Book your date, session and option** (Show Only €45 / Tapas + Show €65 / Menu + Show €85). Communicate dietary allergies with 48h+ notice.
 
 **Arrive 20-30 min early** at Tablao El Arenal (Barrio El Arenal, next to the Maestranza). Verify exact address in the voucher.
 

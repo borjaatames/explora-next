@@ -88,9 +88,9 @@ galeria:
 - src: /images/actividades/valencia/mar/arenas-orilla.webp
   alt: Sunlight reflecting on Las Arenas beach
 - src: /images/actividades/valencia/centro/lonja-fachada.webp
-  alt: Fachada de la Lonja de la Seda de Valencia, Patrimonio UNESCO
+  alt: "Façade of Valencia's Silk Exchange, a UNESCO World Heritage Site"
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
-  alt: Plaza de la Virgen de Valencia con la Catedral al fondo
+  alt: "Plaza de la Virgen in Valencia with the Cathedral behind"
 - src: /images/actividades/valencia/centro/micalet-plaza.webp
   alt: The Micalet from Plaza de la Reina
 - src: /images/actividades/valencia/centro/mercado-colon.webp

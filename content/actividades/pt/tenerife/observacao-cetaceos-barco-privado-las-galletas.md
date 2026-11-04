@@ -111,6 +111,7 @@ fecha: '2026-10-20'
 fecha_actualizacion: '2026-10-23'
 privada: true
 precioPorGrupo: true
+avisoReserva: "A tripulação ou o guia fala espanhol e inglês: não há explicações em português."
 ---
 
 ## O que vai viver

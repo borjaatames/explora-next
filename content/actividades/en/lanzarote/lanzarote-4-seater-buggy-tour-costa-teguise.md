@@ -104,9 +104,9 @@ galeria:
 - src: /images/actividades/lanzarote/famara/flz-risco-famara.webp
   alt: "Famara cliffs seen from La Caleta de Famara"
 - src: /images/actividades/lanzarote/mirador-del-rio/flz-costa-playa.webp
-  alt: "Costa norte de Lanzarote vista desde el Mirador del Río"
+  alt: "Lanzarote's north coast from the Mirador del Río"
 - src: /images/actividades/lanzarote/mirador-del-rio/flz-terraza-barandilla.webp
-  alt: "Terraza del Mirador del Río sobre el estrecho de La Graciosa"
+  alt: "Terrace of the Mirador del Río over the strait to La Graciosa"
 ---
 
 ## What you will see

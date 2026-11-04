@@ -6,7 +6,7 @@ respuestaCorta: 'Coge el **Avant desde Atocha (33 minutos, 22-26 € ida y vuelt
 categoria: "madrid"
 slug: "escapadas-desde-madrid-toledo"
 fecha: "2026-04-02"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: false
@@ -57,6 +57,19 @@ A 70 km de Madrid hay una ciudad medieval intacta: **Toledo**, donde judíos, mu
 - **Coche:** 1 hora por la A-42 (gratis) o la AP-41 (peaje). Lo único que permite parar en el **Mirador del Valle**. No se entra al casco: control por matrícula y multa. Aparca en **Safont** (0,40 € la hora para no empadronados, la tarifa más barata de la ORA de Toledo según el Ayuntamiento), junto a las escaleras mecánicas que suben al casco, o en el del Cardenal, junto a la Puerta de Bisagra.
 - **Autobús Alsa** desde Plaza Elíptica: 1 hora, unos 11 € ida y vuelta, cada 30 minutos en hora punta.
 - **Excursión organizada:** 45-70 € con transporte, guía y entradas, 8-9 horas. Compensa en grupo o sin coche; en pareja con coche, no.
+
+## Horarios y precios 2026
+
+| Qué | Horario | Precio |
+| --- | --- | --- |
+| Tren Avant Atocha–Toledo | 33 min, aprox. cada hora; último de Madrid a las 20:45 (de domingo a jueves), vuelta hacia las 21:30 | 13-16 € por trayecto, 22-26 € ida y vuelta |
+| Autobús Alsa desde Plaza Elíptica | 50 min el directo | Desde 6,55 € por trayecto |
+| Catedral | Lunes a sábado 10:00-18:30; domingos 14:00-18:30; último acceso media hora antes | 12 € |
+| Alcázar (Museo del Ejército) | 10:00-17:00, último acceso 16:30; cierra los lunes | 5 €; gratis los miércoles |
+| Santo Tomé (*El Entierro del Conde de Orgaz*) | 10:00-18:45 del 1 de marzo al 15 de octubre; 10:00-17:45 el resto del año | 4 € |
+| Pulsera turística | 7 monumentos (Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, los Jesuitas, El Salvador y Doncellas Nobles), una entrada en cada uno, válida 7 días | 14 € (no incluye la Catedral ni el Alcázar) |
+
+*Datos comprobados en noviembre de 2026 en las webs oficiales de la Catedral Primada, el Museo del Ejército, Santo Tomé y Toledo Monumental; el tren y el autobús, según Renfe y Alsa. La web de Santo Tomé todavía indica 12 € para la pulsera; en taquilla y en Toledo Monumental cuesta 14 €.*
 
 ## La ruta de un día
 

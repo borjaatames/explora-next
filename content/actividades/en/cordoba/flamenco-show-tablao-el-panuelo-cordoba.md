@@ -90,9 +90,9 @@ galeria:
 - src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
   alt: "Roman Bridge and Mosque-Cathedral of Córdoba lit up at dusk"
 - src: /images/actividades/cordoba/flamenco/baile-flamenco.webp
-  alt: "Foto de la actividad"
+  alt: "Photo of the activity"
 - src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-  alt: "Bailaora con mantón y guitarrista en un espectáculo flamenco"
+  alt: "Flamenco dancer with a shawl and a guitarist during a show"
 ---
 
 ## What you will see

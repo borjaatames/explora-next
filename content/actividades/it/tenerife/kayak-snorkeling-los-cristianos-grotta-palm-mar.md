@@ -106,6 +106,7 @@ publicada: true
 destacada: false
 fecha: '2026-11-02'
 fecha_actualizacion: '2026-11-02'
+avisoReserva: "Le guide vengono assegnate in base alla disponibilità: la guida in italiano non è garantita. Scrivi all'operatore su WhatsApp prima del giorno per chiederla."
 ---
 
 ## Cosa vedrai

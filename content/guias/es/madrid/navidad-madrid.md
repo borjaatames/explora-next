@@ -4,7 +4,7 @@ descripcion: "Navidad en Madrid 2026: cuándo se encienden las luces, mercadillo
 categoria: "madrid"
 slug: "navidad-madrid"
 fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: true
@@ -27,7 +27,7 @@ slugs:
   it: natale-a-madrid
   pt: natal-em-madrid
 reservasArriba: true
-respuestaCorta: 'Las luces se encienden a **finales de noviembre** y siguen hasta Reyes, en más de 250 puntos de la ciudad. Lo imprescindible: el **mercadillo de la Plaza Mayor**, **Cortylandia** en Preciados, ver las luces en **Naviluz** o en tuk-tuk y la **Cabalgata de Reyes** del 5 de enero. Ve entre semana: los sábados de diciembre el centro se colapsa.'
+respuestaCorta: 'Las luces se encienden el **sábado 21 de noviembre** en Cibeles y siguen hasta el 6 de enero, en más de 250 puntos de la ciudad. Lo imprescindible: el **mercadillo de la Plaza Mayor**, **Cortylandia** en Preciados, ver las luces en **Naviluz** o en tuk-tuk y la **Cabalgata de Reyes** del 5 de enero. Ve entre semana: los sábados de diciembre el centro se colapsa.'
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour
@@ -41,7 +41,7 @@ actividades:
 
 | Qué | Dónde | Cuándo | Precio |
 | --- | --- | --- | --- |
-| Luces de Navidad | Centro y los 21 distritos | Finales de noviembre – Reyes | Gratis |
+| Luces de Navidad | Centro y los 21 distritos (encendido en Cibeles) | 21 de noviembre de 2026 – 6 de enero de 2027 | Gratis |
 | Belén de la Real Casa de Correos | Puerta del Sol | Finales de noviembre – 6 de enero | Gratis |
 | Mercadillo navideño | Plaza Mayor | Finales de noviembre – 31 de diciembre | Gratis |
 | Cortylandia | El Corte Inglés de Preciados | Finales de noviembre – 5 de enero | Gratis |
@@ -53,7 +53,7 @@ actividades:
 | Campanadas | Puerta del Sol | 31 de diciembre | Gratis, con aforo |
 | Cabalgata de Reyes | Castellana – Cibeles | 5 de enero, desde las 18:00 | Gratis |
 
-El Ayuntamiento confirma las fechas exactas en noviembre; las que no son oficiales todavía son las de la última edición. Actualizaremos la guía en cuanto salgan las de 2026.
+**Confirmado (4 de noviembre de 2026):** el Ayuntamiento enciende las luces el sábado 21 de noviembre con un acto en la plaza de Cibeles, y el alumbrado dura hasta el 6 de enero de 2027. La hora del encendido está pendiente de confirmar por el Ayuntamiento. El resto de fechas son las de la última edición hasta que salga el programa de 2026.
 
 ## Ver las luces
 

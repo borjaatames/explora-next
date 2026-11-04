@@ -87,7 +87,7 @@ galeria:
 - src: /images/actividades/cadiz/centro/mercado-central.webp
   alt: Stalls at Cádiz Central Market
 - src: /images/actividades/cadiz/centro/plaza-flores.webp
-  alt: Plaza de las Flores
+  alt: "Plaza de las Flores square"
 - src: /images/actividades/cadiz/centro/catedral-tejados.webp
   alt: The cathedral above Cádiz rooftops
 - src: /images/actividades/cadiz/centro/catedral-coro.webp

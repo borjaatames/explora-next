@@ -2,7 +2,7 @@
 titulo: 'Madrid: bilhete para o Parque de Atracciones'
 slug: parque-de-atracciones-madrid-bilhete
 ciudad: madrid
-descripcion: 'Bilhete para o Parque de Atracciones de Madrid, na Casa de Campo: mais de 45 atrações, com montanhas-russas, torre de queda de 55 m e zona infantil.'
+descripcion: 'Bilhete para o Parque de Atracciones de Madrid, na Casa de Campo: mais de 45 atrações, com montanhas-russas, torre de queda de 63 m e zona infantil.'
 slugs:
   es: parque-atracciones-madrid-entrada
   en: parque-atracciones-madrid-ticket
@@ -21,7 +21,7 @@ proveedor: getyourguide
 urlReserva: 'https://www.getyourguide.com/es-es/activity-t402104/?partner_id=C71NOAW'
 cancelacionGratuita: false
 highlights:
-- Abismo, queda livre de 55 metros
+- Abismo, montanha-russa com subida vertical e até 105 km/h
 - Tornado, montanha-russa suspensa e invertida
 - Zona infantil com mais de 15 atrações
 - Zona aquática (aberta no verão)
@@ -52,7 +52,7 @@ informacionImportante:
   - Fato de banho se for no verão (zona aquática)
   noAptoPara: []
   aTenerEnCuenta:
-  - As atrações mais radicais exigem altura mínima (140 cm no Abismo e no Tornado)
+  - As atrações mais radicais exigem altura mínima (consulta a de cada atração no site do parque)
   - A zona aquática só abre no verão
   - No inverno o horário é reduzido e o parque fecha alguns dias úteis
 accesibilidad: Acessível em cadeira de rodas, com percursos adaptados.
@@ -103,9 +103,9 @@ O Parque de Atracciones de Madrid funciona desde **1969** e hoje tem **mais de 4
 
 ## As atrações principais
 
-- **Abismo:** queda livre de 55 metros, a mais alta do parque.
+- **Abismo:** montanha-russa com subida a 90 graus, saca-rolhas e até 105 km/h.
 - **Tornado:** montanha-russa invertida de aço com loopings.
-- **La Lanzadera:** lançamento para cima e queda livre.
+- **La Lanzadera:** torre de queda livre de 63 metros.
 - **Zona infantil:** mais de 15 atrações para os mais pequenos.
 
 ## Para quem o recomendo

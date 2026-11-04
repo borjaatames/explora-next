@@ -6,7 +6,7 @@ respuestaCorta: '**Book the ticket weeks or months ahead**: it isn''t sold at th
 categoria: "malaga"
 slug: "caminito-del-rey-how-to-visit"
 fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: true
@@ -75,6 +75,19 @@ If the official site is already sold out, [what to do when Caminito del Rey tick
 [actividad: caminito-del-rey-entrada-guia-oficial]
 
 ## Prices, opening hours and ages
+
+| Item | 2026 details |
+| --- | --- |
+| General ticket | €10 (up to 10 per purchase), with a fixed entry time |
+| Official guided visit | €18, groups of up to 30, in Spanish and English |
+| Shuttle bus between the two entrances | €2.50; every 30 minutes from 8:30 to 16:30, from the south side |
+| Parking | €2 per day |
+| Entry times | From 9:00 to 14:50 or 17:20, depending on the season |
+| Minimum age | 8 (bring ID or a family book) |
+| Train from Málaga | Renfe to El Chorro–Caminito del Rey: about 50 minutes, from about €5 one way |
+| Car from Málaga | 59 km, just over 50 minutes |
+
+*Checked in November 2026 on the official website, caminitodelrey.info; train details from Renfe and Omio.*
 
 - **General ticket:** €10 on your own and €18 with the official guided visit, always on the official website and with a fixed entry time. The **shuttle bus** between the south entrance (El Chorro) and the north one (Ardales) costs €2.50 and is best bought with the ticket.
 - **Opening hours:** Tuesday to Sunday, with entries every half hour from 9:00 until early afternoon (later in summer). **Closed on Mondays** and on days of strong wind or heavy rain, when you can move your ticket to another date from your personal area, subject to availability.

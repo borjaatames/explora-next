@@ -89,7 +89,7 @@ galeria:
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
   alt: "Glasses of red wine at a tasting"
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-card.webp
-  alt: "Foto de la actividad"
+  alt: "Photo of the activity"
 - src: /images/actividades/gran-canaria/vino/x-bandama-wikimedia-02.webp
   alt: "Caldera de Bandama"
 ---

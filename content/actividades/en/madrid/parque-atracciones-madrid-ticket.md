@@ -21,7 +21,7 @@ proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t402104/?partner_id=C71NOAW
 cancelacionGratuita: false
 highlights:
-- Abismo — Spain's fastest free-fall tower (85 m)
+- Abismo — a roller coaster with a vertical climb and speeds of up to 105 km/h
 - Coaster Altair and other family rides
 - Located in the scenic Casa de Campo park
 - Rides for children aged 2 and up
@@ -54,7 +54,7 @@ accesibilidad: Accessible paths throughout the park.
 politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: What is Abismo?
-  respuesta: Abismo is Spain's tallest free-fall tower at 85 metres. You are lifted up and then dropped in a near-vertical fall. It's the park's most popular ride and has long queues in summer.
+  respuesta: Abismo is a roller coaster that climbs a 90-degree lift, ends with a corkscrew and reaches 105 km/h. It's one of the park's most popular rides and has long queues in summer.
 opinionEditorial: Madrid's local theme park — less glamorous than Parque Warner, more accessible and great value for a half-day. Abismo alone is worth the visit.
 guiasRelacionadas:
 - madrid-with-kids
@@ -91,7 +91,7 @@ fecha_actualizacion: '2026-10-17'
 Madrid's own theme park, inside the **Casa de Campo** park, with rides for all ages.
 
 ### Abismo
-Spain's tallest free-fall tower — 85 metres of vertical drop. The park's signature attraction and its most popular ride.
+A roller coaster with a 90-degree climb, a corkscrew and speeds of up to 105 km/h. One of the park's signature rides. For a pure free fall, La Lanzadera drops 63 metres.
 
 ### Family rides
 Several coasters, a log flume, and numerous rides suitable for younger children make this a genuinely all-ages park.

@@ -122,4 +122,10 @@ The middle ground if you want a live guide just for you: the [private Gran Vía 
 4. **Expecting a guide in the tuk tuk.** It's an audio guide; the driver doesn't guide.
 5. **Sitting on the top deck at midday in summer** without a hat or water.
 
+## At Christmas: the lights tuk tuk
+
+While the lights are on (**21 November to 6 January**), there is an evening version of the private tuk tuk that tours them, with dates in the booking calendar: an hour and a half for up to 4 people, with no queuing in the cold. It's open-sided, so bring a coat. The rest of the season's plans are in [Christmas in Madrid](/en/guides/madrid/christmas-in-madrid).
+
+[actividad: tuk-tuk-luces-navidad-madrid]
+
 To plan the rest of your stay, see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days) and, to spend as little as possible, [Madrid on a budget](/en/guides/madrid/madrid-on-a-budget).

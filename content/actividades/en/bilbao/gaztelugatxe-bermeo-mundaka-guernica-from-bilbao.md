@@ -82,7 +82,7 @@ imagen: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-islote.webp
 imagenAlt: San Juan de Gaztelugatxe islet with the hermitage and the stone bridge
 galeria:
 - src: /images/actividades/bilbao/gaztelugatxe/camino-piedra-atardecer.webp
-  alt: Camino de piedra de San Juan de Gaztelugatxe al atardecer
+  alt: "Stone path to San Juan de Gaztelugatxe at sunset"
 - src: /images/actividades/bilbao/costa-vasca/txakoli-vinedos-mar.webp
   alt: Txakoli vineyards by the Bay of Biscay on the Basque coast
 - src: /images/actividades/bilbao/gaztelugatxe/gaztelugatxe-escaleras.webp

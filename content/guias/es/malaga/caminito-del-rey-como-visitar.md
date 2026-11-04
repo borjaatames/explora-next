@@ -6,7 +6,7 @@ respuestaCorta: '**Compra la entrada en la web oficial con semanas o meses de an
 categoria: "malaga"
 slug: "caminito-del-rey-como-visitar"
 fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: true
@@ -75,6 +75,19 @@ Si la web oficial ya sale agotada, en [qué hacer si las entradas del Caminito d
 [actividad: caminito-del-rey-entrada-guia-oficial]
 
 ## Precios, horarios y edades
+
+| Concepto | Dato 2026 |
+| --- | --- |
+| Entrada general | 10 € (máximo 10 por compra), con hora fija de entrada |
+| Visita guiada oficial | 18 €, grupos de hasta 30, en español e inglés |
+| Bus lanzadera entre accesos | 2,50 €; cada 30 minutos de 8:30 a 16:30, desde la zona sur |
+| Aparcamiento | 2 € al día |
+| Horario de entrada | De 9:00 a 14:50 o 17:20, según la temporada |
+| Edad mínima | 8 años (lleva el DNI o el libro de familia) |
+| Tren desde Málaga | Renfe hasta El Chorro–Caminito del Rey: unos 50 minutos, desde unos 5 € por trayecto |
+| Coche desde Málaga | 59 km, algo más de 50 minutos |
+
+*Datos comprobados en noviembre de 2026 en la web oficial, caminitodelrey.info; el tren, en Renfe y Omio.*
 
 - **Entrada general:** 10 € por libre y 18 € con visita guiada oficial, siempre en la web oficial y con hora fija de entrada. El **bus lanzadera** entre la entrada sur (El Chorro) y la norte (Ardales) cuesta 2,50 € y conviene comprarlo con la entrada.
 - **Horarios:** de martes a domingo, con entradas cada media hora desde las 9:00 hasta primera hora de la tarde (más tarde en verano). **Cierra los lunes** y los días de viento fuerte o lluvia intensa, y entonces puedes cambiar la entrada a otra fecha desde tu área personal, según disponibilidad.

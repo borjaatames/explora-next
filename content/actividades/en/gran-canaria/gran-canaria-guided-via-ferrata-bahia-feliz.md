@@ -103,7 +103,7 @@ galeria:
 - src: /images/actividades/gran-canaria/via-ferrata/fgc-montanas-barranco-sur.webp
   alt: "Arid mountains in a ravine in the south of Gran Canaria"
 - src: /images/actividades/gran-canaria/via-ferrata/x-via-ferrata-pexels-11034345.webp
-  alt: "Escaladores en una vía ferrata"
+  alt: "Climbers on a via ferrata"
 ---
 
 ## What you will see

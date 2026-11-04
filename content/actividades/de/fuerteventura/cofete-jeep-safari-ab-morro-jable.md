@@ -82,6 +82,7 @@ numeroOpiniones: 2679
 atraccionesRelacionadas:
 - sur
 publicada: true
+masReservado: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'

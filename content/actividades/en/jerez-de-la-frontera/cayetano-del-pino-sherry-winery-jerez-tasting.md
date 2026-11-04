@@ -88,9 +88,9 @@ galeria:
 - src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
   alt: "Vineyards on white albariza soil in the Jerez wine region"
 - src: /images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp
-  alt: "Cata de vinos de Jerez"
+  alt: "Sherry tasting"
 - src: /images/actividades/jerez-de-la-frontera/bodegas/botas-roble-apiladas.webp
-  alt: "Botas de roble apiladas en una bodega"
+  alt: "Stacked oak casks in a winery"
 ---
 
 ## What you will see

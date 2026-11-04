@@ -98,6 +98,7 @@ galeria:
   alt: "Gros plan sur des brins de romarin"
 - src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
   alt: "Es Vedrà entre les pins"
+avisoReserva: "La visite en français dépend du guide disponible à votre arrivée. Sinon, vous avez l'audioguide gratuit en français."
 ---
 
 ## Ce que vous verrez

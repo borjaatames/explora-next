@@ -122,4 +122,10 @@ Le compromis si vous voulez un guide en personne rien que pour vous : la [visite
 4. **S'attendre à un guide dans le tuk-tuk.** C'est un audioguide ; le chauffeur ne fait pas de visite guidée.
 5. **S'installer sur l'impériale à midi en été** sans chapeau ni eau.
 
+## À Noël : le tuk-tuk des illuminations
+
+Pendant les illuminations (du **21 novembre au 6 janvier**), une version nocturne du tuk-tuk privé en fait le tour, avec les dates dans le calendrier de réservation : une heure et demie pour 4 personnes maximum, sans faire la queue dans le froid. Il est ouvert, prévoyez un manteau. Les autres idées pour cette période sont dans [Noël à Madrid](/fr/guides/madrid/noel-a-madrid).
+
+[actividad: tuk-tuk-luces-navidad-madrid]
+
 Pour organiser le reste de votre séjour, consultez [Madrid en 3 jours](/en/guides/madrid/madrid-in-3-days) et, pour dépenser le moins possible, [Madrid pas cher](/en/guides/madrid/madrid-on-a-budget).

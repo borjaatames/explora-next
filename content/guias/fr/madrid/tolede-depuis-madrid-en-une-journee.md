@@ -6,7 +6,7 @@ respuestaCorta: 'Prenez l''**Avant depuis Atocha (33 minutes, 22-26 € aller-re
 categoria: "madrid"
 slug: "tolede-depuis-madrid-en-une-journee"
 fecha: "2026-04-02"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: false
@@ -56,6 +56,19 @@ actividades:
 - **Voiture :** 1 heure par l'A-42 (gratuite) ou l'AP-41 (à péage). C'est la seule option qui permet de s'arrêter au **Mirador del Valle**. On n'entre pas dans le centre historique : contrôle par plaque d'immatriculation et amende. Garez-vous au parking **Safont** (0,40 € l'heure pour les non-résidents, le tarif réglementé le moins cher de Tolède selon la mairie), à côté des escalators qui montent au centre, ou à celui du Cardenal, près de la Puerta de Bisagra.
 - **Bus Alsa** depuis Plaza Elíptica : 1 heure, environ 11 € aller-retour, toutes les 30 minutes aux heures de pointe.
 - **Excursion organisée :** 45-70 € avec transport, guide et billets, 8-9 heures. Rentable en groupe ou sans voiture ; en couple avec une voiture, non.
+
+## Horaires et prix 2026
+
+| Quoi | Horaires | Prix |
+| --- | --- | --- |
+| Train Avant Atocha–Tolède | 33 min, environ toutes les heures ; dernier départ de Madrid à 20 h 45 (du dimanche au jeudi), dernier retour vers 21 h 30 | 13-16 € l'aller, 22-26 € l'aller-retour |
+| Bus Alsa depuis Plaza Elíptica | 50 min en direct | À partir de 6,55 € l'aller |
+| Cathédrale | Du lundi au samedi 10 h-18 h 30 ; dimanche 14 h-18 h 30 ; dernier accès une demi-heure avant | 12 € |
+| Alcázar (musée de l'Armée) | 10 h-17 h, dernier accès 16 h 30 ; fermé le lundi | 5 € ; gratuit le mercredi |
+| Santo Tomé (*L'Enterrement du comte d'Orgaz*) | 10 h-18 h 45 du 1er mars au 15 octobre ; 10 h-17 h 45 le reste de l'année | 4 € |
+| Bracelet touristique | 7 monuments (Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, l'église des Jésuites, El Salvador et Doncellas Nobles), une entrée chacun, valable 7 jours | 14 € (sans la cathédrale ni l'Alcázar) |
+
+*Données vérifiées en novembre 2026 sur les sites officiels de la cathédrale, le musée de l'Armée, Santo Tomé et Toledo Monumental ; train et bus d'après Renfe et Alsa. Le site de Santo Tomé indique encore 12 € pour le bracelet ; au guichet et sur Toledo Monumental, il coûte 14 €.*
 
 ## L'itinéraire d'une journée
 

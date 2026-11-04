@@ -77,7 +77,7 @@ opinionEditorial: 'Das grutas do Sacromonte, esta é a mais pequena: apenas 25 l
   O que perde: a bebida (Los Amayas inclui-a), o volume de avaliações (503 face a 1.107 de Los Amayas ou 2.093 de Los Tarantos) e a opção em inglês. O espetáculo é feito apenas em espanhol, o que não é problema para o baile e o cante, mas limita as eventuais explicações entre números. Se viajar com pessoas que não falam espanhol, é melhor um tablao no centro com explicações em inglês.
 
 
-  A 18 € é a opção de gruta mais barata. A classificação de 4,7 com a distinção «Mais bem avaliados» do GetYourGuide e o percurso do operador (a própria gruta, sem intermediários) tornam-na uma aposta segura para quem valoriza o formato intimista acima do conforto de uma plateia. Convém ir com calçado confortável: o caminho desde o centro até ao número 53 do Camino del Sacromonte é a subir.
+  Desde 16 € é a opção de gruta mais barata. A classificação de 4,7 com a distinção «Mais bem avaliados» do GetYourGuide e o percurso do operador (a própria gruta, sem intermediários) tornam-na uma aposta segura para quem valoriza o formato intimista acima do conforto de uma plateia. Convém ir com calçado confortável: o caminho desde o centro até ao número 53 do Camino del Sacromonte é a subir.
 
   '
 atraccionesRelacionadas:

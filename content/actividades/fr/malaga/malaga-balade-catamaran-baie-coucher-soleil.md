@@ -98,6 +98,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-04'
+avisoReserva: "L'équipage ou le guide parle espagnol et anglais : il n'y a pas d'explications en français."
 ---
 
 ## Ce que vous allez voir

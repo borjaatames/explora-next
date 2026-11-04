@@ -102,11 +102,11 @@ galeria:
   - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp"
     alt: "A bottle of red wine and two filled glasses"
   - src: "/images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp"
-    alt: "Plaza santa ana madrid 26159833570 en Plaza santa ana"
+    alt: "Plaza de Santa Ana in Madrid"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-breaking-cheesy-hero.webp"
     alt: "Close-up of a hand breaking a cheesy croquette, showcasing melted cheese filling."
   - src: "/images/actividades/madrid/fuente-neptuno/fuente-neptuno-madrid-plaza-canovas-castillo-espana-2017-hero.webp"
-    alt: "Fuente de Neptuno, Plaza de Cánovas del Castillo, Madrid, España,"
+    alt: "Neptune Fountain in Plaza de Cánovas del Castillo, Madrid"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-person-pouring-red-wine-into-glass-hero.webp"
     alt: "Tapas madrid person pouring red wine into glass en Tapas"
   - src: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
@@ -114,7 +114,7 @@ galeria:
   - src: "/images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp"
     alt: "Iberian hams hanging above a bar counter"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
-    alt: "Tapas madrid jamon iberico tapa en Tapas"
+    alt: "Tapa of Iberian ham in Madrid"
 ratingProveedor: 5.0
 numeroOpiniones: 96
 

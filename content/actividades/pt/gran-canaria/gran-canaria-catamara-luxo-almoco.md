@@ -103,6 +103,7 @@ galeria:
   alt: "Catamarãs fundeados em águas turquesa perto da costa, vistos do ar"
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
   alt: "Veleiros atracados numa marina"
+avisoReserva: "A tripulação ou o guia fala inglês, espanhol, alemão e francês: não há explicações em português."
 ---
 
 ## O que vai ver

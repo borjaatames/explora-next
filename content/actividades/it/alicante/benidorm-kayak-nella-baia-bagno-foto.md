@@ -105,6 +105,7 @@ galeria:
   alt: "Skyline di Benidorm visto dal mare"
 - src: /images/actividades/alicante/fal-kayak/fal-gaviota-puerto-benidorm.webp
   alt: "Gabbiano con lo skyline di Benidorm sullo sfondo"
+avisoReserva: "L'equipaggio o la guida parla inglese e spagnolo: non ci sono spiegazioni in italiano."
 ---
 
 ## Cosa vedrai

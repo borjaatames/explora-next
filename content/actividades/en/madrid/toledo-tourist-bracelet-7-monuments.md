@@ -88,7 +88,7 @@ galeria:
 - src: /images/actividades/madrid/monasterio-san-juan-reyes-toledo/monasterio-san-juan-reyes-toledo-iglesia-espana-hero.webp
   alt: Gothic facade of the Monastery of San Juan de los Reyes
 - src: /images/actividades/madrid/calles-historicas-toledo/calles-historicas-toledo-bridge-7-hero.webp
-  alt: Puente histórico sobre el río Tajo en Toledo, Patrimonio de la Humanidad
+  alt: "Historic bridge over the Tagus in Toledo, a World Heritage city"
 - src: /images/actividades/madrid/iglesia-santo-tome-toledo/iglesia-santo-tome-toledo-espana-hero.webp
   alt: Church of Santo Tomé, home of The Burial of the Count of Orgaz
 - src: /images/actividades/madrid/toledo/callejon-vista-alcazar.webp

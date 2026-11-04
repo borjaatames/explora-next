@@ -105,9 +105,9 @@ galeria:
 - src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
   alt: "Corralejo bay"
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-atardecer-borde-crater.webp
-  alt: "Senderista contemplando el atardecer desde el borde de un cráter volcánico"
+  alt: "Hiker watching the sunset from the rim of a volcanic crater"
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-paisaje.webp
-  alt: "Paisaje volcánico desde el Calderón Hondo"
+  alt: "Volcanic landscape from Calderón Hondo"
 ---
 
 ## What you will see

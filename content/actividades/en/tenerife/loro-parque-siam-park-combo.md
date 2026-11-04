@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: Do I have to use both parks on the same day?
   respuesta: No. The combo ticket gives you one day at each park, which you can use on different days within the validity period. Check the ticket terms when you book for the exact validity window.
 - pregunta: Is Loro Parque ethical?
-  respuesta: Loro Parque maintains its own conservation foundation (Loro Parque Fundación) and funds conservation programmes for wild parrots worldwide. The orca programme has been controversial; visitors should form their own view. The overall quality of the animal facilities is among the highest in any European zoo.
+  respuesta: Loro Parque maintains its own conservation foundation (Loro Parque Fundación) and funds conservation programmes for wild parrots worldwide. The orca programme has been controversial; visitors should form their own view.
 opinionEditorial: Two parks consistently ranked number one in the world in their categories. The combo ticket is excellent value — Tenerife is one of the few places on earth where you can combine both on a single trip.
 guiasRelacionadas:
 - what-to-see-in-tenerife
@@ -109,7 +109,7 @@ This combo ticket gets you into the **two parks that share the title of "best in
 Located in Puerto de la Cruz on the north coast, **Loro Parque** started as a parrot collection in 1972 and has grown into one of the finest zoos in the world.
 
 **Highlights:**
-- **Orca Ocean** — a spectacular show with orcas in a 6-million-litre oceanarium
+- **Orca Ocean** — the orca facility, with demonstration sessions
 - **PlanetPenguin** — the largest penguin facility in Europe
 - **Gorilla Island** — western lowland gorillas in a naturalistic habitat
 - **Shark Tunnel** — walk through a transparent tunnel surrounded by sharks

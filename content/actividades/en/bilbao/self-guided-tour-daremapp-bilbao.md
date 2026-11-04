@@ -69,7 +69,7 @@ imagen: /images/actividades/bilbao/guggenheim/maman-puente.webp
 imagenAlt: The Guggenheim with the red arch of La Salve bridge
 galeria:
 - src: /images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp
-  alt: Puente sobre la ria y arquitectura historica de Bilbao
+  alt: "Bridge over the estuary and historic architecture in Bilbao"
 - src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
   alt: Bilbao from Mount Artxanda
 - src: /images/actividades/bilbao/guggenheim/maman.webp

@@ -90,15 +90,15 @@ imagen: /images/actividades/girona/cadaques/cadaques-bahia.webp
 imagenAlt: Cadaqués bay with moored boats and the white village behind
 galeria:
 - src: /images/actividades/girona/cap-de-creus/costa-rocosa-cadaques-vista-aerea.webp
-  alt: Costa rocosa de Cadaqués vista desde el aire, Cap de Creus
+  alt: "Aerial view of the rocky coast at Cadaqués, Cap de Creus"
 - src: /images/actividades/girona/cap-de-creus/cabo-creus-formacion-rocosa.webp
-  alt: Formación rocosa del Cabo de Creus, Costa Brava
+  alt: "Rock formation at Cap de Creus, Costa Brava"
 - src: /images/actividades/girona/cap-de-creus/cadaques-pueblo-desde-altura.webp
-  alt: Cadaqués visto desde las alturas, pueblo blanco frente al mar
+  alt: "Cadaqués from above, a white village by the sea"
 - src: /images/actividades/girona/cap-de-creus/acantilados-costa-brava-creus.webp
-  alt: Acantilados del Cap de Creus con el mar Mediterráneo
+  alt: "Cliffs of Cap de Creus above the Mediterranean"
 - src: /images/actividades/girona/cap-de-creus/islote-rocas-aguas-cristalinas.webp
-  alt: Islote entre rocas y aguas cristalinas del Cap de Creus
+  alt: "Islet among rocks and clear water at Cap de Creus"
 - src: /images/actividades/girona/cadaques/cap-de-creus-faro.webp
   alt: Cap de Creus lighthouse on the rocks
 - src: /images/actividades/girona/cadaques/cap-de-creus-costa.webp

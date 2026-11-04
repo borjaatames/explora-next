@@ -23,10 +23,10 @@ urlReserva: https://www.getyourguide.com/es-es/activity-t54571/?partner_id=C71NO
 cancelacionGratuita: false
 highlights:
 - Des vues panoramiques sur Barcelone depuis 512 mètres d’altitude
-- L’Avió, un avion de 1921, l’un des plus anciens manèges en service au monde
-- Atalaya, une tour panoramique avec vue à 360° sur la ville
-- Le Museu d’Autòmates et ses 200 automates historiques
-- La zone Megàland et ses attractions modernes
+- L’Avió, réplique de 1928 de l’avion du premier vol Madrid-Barcelone, symbole du parc
+- Talaia, un bras panoramique de 1921 avec vue à 360° sur la ville
+- Le Museu d’Autòmats et ses automates historiques (le plus ancien date de 1880)
+- Des attractions modernes comme la tour de chute Merlí (50 m, 2024)
 incluye:
 - Entrée au parc d’attractions du Tibidabo
 - Accès libre à toutes les attractions incluses selon le type de billet
@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: Le parc est-il ouvert tous les jours ?
   respuesta: Non. En basse saison (automne, hiver et printemps), le Tibidabo n’ouvre que le week-end et les jours fériés. En été, il ouvre aussi en semaine. Consultez le calendrier officiel avant d’acheter.
 - pregunta: Qu’est-ce que l’Avió ?
-  respuesta: Une réplique d’avion de 1921 montée sur un bras pivotant qui tourne au-dessus de la ville. C’est l’attraction la plus célèbre et la plus photographiée du parc, et l’une des plus anciennes encore en service au monde.
+  respuesta: Une réplique de 1928 de l’avion du premier vol commercial Madrid-Barcelone, suspendue à un bras pivotant qui tourne au-dessus de la ville. C’est l’attraction la plus célèbre et la plus photographiée du parc.
 opinionEditorial: 'Le Tibidabo est unique : ce n’est ni le parc le plus moderne ni le plus grand, mais il a quelque chose qu’aucun autre n’a. Son mélange de nostalgie (l’Avió, le Museu d’Autòmates), d’architecture moderniste et de vues imprenables sur Barcelone le rend inimitable. Le prix est élevé ; vérifiez le calendrier d’ouverture avant d’y aller.'
 guiasRelacionadas:
 - barcelone-avec-des-enfants
@@ -109,10 +109,10 @@ Le **parc d’attractions du Tibidabo** se trouve au sommet de la **Collserola**
 
 ## Les attractions les plus singulières
 
-- **L’Avió** : un avion de 1921 monté sur un bras pivotant qui tourne au-dessus de la ville, avec des vues incroyables. L’image la plus emblématique du parc.
-- **Atalaya** : une tour panoramique qui vous hisse au-dessus de la ville pour un panorama absolu.
-- **Museu d’Autòmates** : plus de 200 automates des XIXe et XXe siècles, une collection unique.
-- **Zone Megàland** : des attractions modernes à sensations.
+- **L’Avió** : une réplique de 1928 d’avion suspendue à un bras pivotant qui tourne au-dessus de la ville, avec des vues incroyables. L’image la plus emblématique du parc.
+- **Talaia** : un bras panoramique de 1921 qui vous hisse au-dessus de la ville pour un panorama absolu.
+- **Museu d’Autòmats** : des automates historiques des XIXe et XXe siècles ; le plus ancien date de 1880.
+- **Merlí** : une tour de chute de 50 mètres ouverte en 2024, pour les amateurs de sensations.
 
 ## Le temple du Sacré-Cœur
 

@@ -100,9 +100,9 @@ galeria:
 - src: /images/actividades/lanzarote/la-geria/flz-vides-verdes.webp
   alt: "Green vines in volcanic ash pits in La Geria"
 - src: /images/actividades/lanzarote/la-geria/flz-racimo-uvas.webp
-  alt: "Racimo de uvas en una viña de Lanzarote"
+  alt: "Bunch of grapes in a Lanzarote vineyard"
 - src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-  alt: "Foto de la actividad"
+  alt: "Photo of the activity"
 ---
 
 ## What you will see

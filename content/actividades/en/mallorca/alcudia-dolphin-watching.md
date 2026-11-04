@@ -89,9 +89,9 @@ galeria:
 - src: /images/actividades/mallorca/formentor/platja-formentor-agua-turquesa.webp
   alt: Turquoise water at a beach in north Mallorca
 - src: /images/actividades/mallorca/barco-paguera/barco-fondo-cristal-amarrado.webp
-  alt: "Barco con fondo de cristal amarrado en el puerto"
+  alt: "Glass-bottom boat moored in the harbour"
 - src: /images/actividades/mallorca/barco-paguera/barco-fondo-cristal.webp
-  alt: "Foto de la actividad"
+  alt: "Photo of the activity"
 atraccionesRelacionadas:
 - calas-playas
 ratingProveedor: 4.8

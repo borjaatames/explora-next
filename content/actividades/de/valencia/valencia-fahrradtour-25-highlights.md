@@ -105,6 +105,7 @@ galeria:
   alt: "Turia-Gärten mit dem Palau de les Arts im Hintergrund"
 - src: /images/actividades/valencia/ciudad-artes/fvc-museo-ciencias-reflejo-atardecer.webp
   alt: "Das Wissenschaftsmuseum spiegelt sich im Wasser der Stadt der Künste und Wissenschaften"
+avisoReserva: "Wenn du weniger als 24 Stunden vorher buchst, ist ein deutschsprachiger Guide nicht garantiert."
 ---
 
 ## Was du siehst

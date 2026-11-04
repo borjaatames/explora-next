@@ -100,9 +100,9 @@ galeria:
 - src: /images/actividades/cordoba/olivar/fvc-mirador-olivares.webp
   alt: "Viewpoint over a sea of olive groves in Andalusia"
 - src: /images/actividades/cordoba/olivar/x-olivar-pexels-29749216.webp
-  alt: "Olivares en la campiña cordobesa"
+  alt: "Olive groves in the Córdoba countryside"
 - src: /images/actividades/cordoba/olivar/x-olivar-pixabay-4547787.webp
-  alt: "Olivar con la sierra al fondo"
+  alt: "Olive grove with the hills behind"
 ---
 
 ## What you will see

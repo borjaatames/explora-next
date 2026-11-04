@@ -105,6 +105,7 @@ galeria:
   alt: "Skyline de Benidorm visto do mar"
 - src: /images/actividades/alicante/fal-kayak/fal-gaviota-puerto-benidorm.webp
   alt: "Gaivota com o skyline de Benidorm ao fundo"
+avisoReserva: "A tripulação ou o guia fala inglês e espanhol: não há explicações em português."
 ---
 
 ## O que vai ver

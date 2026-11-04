@@ -90,7 +90,7 @@ galeria:
 - src: /images/actividades/valencia/ciudad-artes-ciencias/hemisféric-nubes-ciudad-artes.webp
   alt: Hemisfèric de Valência com nuvens sobre a Cidade das Artes
 - src: /images/actividades/valencia/ciudad-artes-ciencias/oceanarium-edificio-blanco-valencia.webp
-  alt: Edifício do Oceanário de Valência, desenho de Santiago Calatrava
+  alt: Edifício do Oceanogràfic de Valência, com a cobertura desenhada por Félix Candela
 - src: /images/actividades/valencia/oceanografic/oceanografic-entrada.webp
   alt: Entrada do Oceanogràfic de Valência
 - src: /images/actividades/valencia/oceanografic/beluga.webp

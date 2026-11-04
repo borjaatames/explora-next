@@ -112,6 +112,7 @@ destacada: false
 fecha: '2026-05-06'
 bokunProductId: 762702
 fecha_actualizacion: '2026-10-25'
+avisoReserva: "Le guide parle espagnol (ou italien). En français, les explications sont uniquement en audio pendant l'excursion."
 ---
 
 ## Ce que vous verrez

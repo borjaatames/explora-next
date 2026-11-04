@@ -94,6 +94,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-31'
+avisoReserva: "A tripulação ou o guia fala inglês: não há explicações em português."
 ---
 
 ## O dia

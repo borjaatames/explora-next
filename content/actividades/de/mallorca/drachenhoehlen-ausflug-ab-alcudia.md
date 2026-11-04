@@ -105,6 +105,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-04'
+avisoReserva: "Donnerstags am Nachmittag spricht der Guide kein Deutsch. Wenn du die Erklärungen auf Deutsch möchtest, wähle einen anderen Termin."
 ---
 
 ## Was du siehst

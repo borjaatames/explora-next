@@ -102,6 +102,7 @@ galeria:
   alt: "Cardume de peixes sobre a posidónia"
 - src: /images/actividades/ibiza/vedra/es-vedra-cala-dhort.webp
   alt: "Es Vedrà visto de Cala d'Hort"
+avisoReserva: "A tripulação ou o guia fala inglês e espanhol: não há explicações em português."
 ---
 
 ## O que vai ver

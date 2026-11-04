@@ -69,7 +69,7 @@ imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.we
 imagenAlt: Rowing boats on the Plaza de España canal
 galeria:
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp
-  alt: Fachada de la Real Maestranza de Sevilla
+  alt: "Façade of the Real Maestranza bullring in Seville"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
   alt: Seville Cathedral façade among palm trees
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp

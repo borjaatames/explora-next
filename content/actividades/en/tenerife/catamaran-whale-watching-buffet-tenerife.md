@@ -75,7 +75,7 @@ imagen: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
 imagenAlt: Pilot whale surfacing close to a catamaran off the coast of Tenerife
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Calderones tropicales (ballenas piloto) en las aguas de Tenerife
+  alt: "Short-finned pilot whales in the waters off Tenerife"
 - src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
   alt: A pilot whale calf in Tenerife
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp

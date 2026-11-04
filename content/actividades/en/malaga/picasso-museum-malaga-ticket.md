@@ -96,7 +96,7 @@ galeria:
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp
   alt: Málaga Cathedral façade, a few steps from the museum
 - src: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
-  alt: Alcazaba Malaga Vista
+  alt: "View of the Alcazaba in Málaga"
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp
   alt: Málaga Cathedral, near the Picasso Museum
 - src: /images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp

@@ -6,7 +6,7 @@ respuestaCorta: 'Apanhe o **Avant em Atocha (33 minutos, 22-26 € ida e volta)*
 categoria: "madrid"
 slug: "toledo-desde-madrid-num-dia"
 fecha: "2026-04-02"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: false
@@ -57,6 +57,19 @@ A 70 km de Madrid há uma cidade medieval intacta: **Toledo**, onde judeus, muç
 - **Carro:** 1 hora pela A-42 (grátis) ou pela AP-41 (portagem). É a única opção que permite parar no **Mirador del Valle**. Não se entra no centro histórico: controlo por matrícula e multa. Estacione em **Safont** (0,40 € por hora para não residentes, a tarifa regulada mais barata de Toledo segundo a câmara municipal), junto às escadas rolantes que sobem ao centro, ou no do Cardenal, junto à Puerta de Bisagra.
 - **Autocarro Alsa** a partir da Plaza Elíptica: 1 hora, cerca de 11 € ida e volta, a cada 30 minutos nas horas de ponta.
 - **Excursão organizada:** 45-70 € com transporte, guia e bilhetes, 8-9 horas. Compensa em grupo ou sem carro; em casal com carro, não.
+
+## Horários e preços 2026
+
+| O quê | Horário | Preço |
+| --- | --- | --- |
+| Comboio Avant Atocha–Toledo | 33 min, aprox. de hora a hora; último de Madrid às 20:45 (de domingo a quinta), último regresso por volta das 21:30 | 13-16 € por trajeto, 22-26 € ida e volta |
+| Autocarro Alsa desde Plaza Elíptica | 50 min o direto | Desde 6,55 € por trajeto |
+| Catedral | Segunda a sábado 10:00-18:30; domingo 14:00-18:30; último acesso meia hora antes | 12 € |
+| Alcázar (Museu do Exército) | 10:00-17:00, último acesso 16:30; fecha à segunda | 5 €; grátis à quarta |
+| Santo Tomé (*O Enterro do Conde de Orgaz*) | 10:00-18:45 de 1 de março a 15 de outubro; 10:00-17:45 no resto do ano | 4 € |
+| Pulseira turística | 7 monumentos (Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, igreja dos Jesuítas, El Salvador e Doncellas Nobles), uma entrada em cada, válida 7 dias | 14 € (não inclui a Catedral nem o Alcázar) |
+
+*Dados verificados em novembro de 2026 nos sites oficiais da Catedral, Museu do Exército, Santo Tomé e Toledo Monumental; comboio e autocarro segundo a Renfe e a Alsa. O site de Santo Tomé ainda indica 12 € para a pulseira; na bilheteira e na Toledo Monumental custa 14 €.*
 
 ## O roteiro de um dia
 

@@ -84,7 +84,7 @@ imagen: /images/actividades/cordoba/mezquita/arcos-bosque-columnas.webp
 imagenAlt: Forest of columns and two-tone arches in the Mosque
 galeria:
 - src: /images/actividades/cordoba/mezquita/bosque-arcos-bicolores.webp
-  alt: Bosque de arcos bicolores de la Mezquita-Catedral de Cordoba
+  alt: "Forest of two-tone arches in the Mosque-Cathedral of Córdoba"
 - src: /images/actividades/cordoba/mezquita/arcos-lamparas.webp
   alt: Mosque arches with hanging lamps
 - src: /images/actividades/cordoba/mezquita/mihrab.webp

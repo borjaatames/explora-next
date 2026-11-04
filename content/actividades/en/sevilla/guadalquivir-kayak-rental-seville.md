@@ -90,7 +90,7 @@ galeria:
 - src: /images/actividades/sevilla/kayak-guadalquivir/guadalquivir-sevilla-aerea.webp
   alt: Vista aérea del río Guadalquivir a su paso por Sevilla
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-sevilla-orilla.webp
-  alt: Torre Sevilla en la orilla del Guadalquivir, ruta de kayak
+  alt: "Torre Sevilla on the bank of the Guadalquivir, on the kayak route"
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-rio.webp
   alt: Torre del Oro by the Guadalquivir in Seville
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-noche.webp

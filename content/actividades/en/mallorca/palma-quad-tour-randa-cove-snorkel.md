@@ -102,7 +102,7 @@ galeria:
 - src: /images/actividades/mallorca/fma-quad-randa/x-quad-wikimedia-01.webp
   alt: "Quads aparcados"
 - src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
-  alt: "Costa rocosa del Mediterráneo con montañas al fondo"
+  alt: "Rocky Mediterranean coast with mountains behind"
 ---
 
 ## What you will see

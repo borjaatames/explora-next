@@ -122,4 +122,10 @@ La via di mezzo se vuoi una guida dal vivo solo per te: il [tour privato della G
 4. **Aspettarsi una guida nel tuk tuk.** È un'audioguida; l'autista non fa da guida.
 5. **Sedersi al piano superiore a mezzogiorno d'estate** senza cappello né acqua.
 
+## A Natale: il tuk tuk delle luci
+
+Mentre le luci sono accese (dal **21 novembre al 6 gennaio**), c'è una versione serale del tuk tuk privato che le percorre, con le date nel calendario di prenotazione: un'ora e mezza per un massimo di 4 persone, senza code al freddo. È aperto, quindi porta un cappotto. Gli altri programmi del periodo sono in [Natale a Madrid](/it/guides/madrid/natale-a-madrid).
+
+[actividad: tuk-tuk-luces-navidad-madrid]
+
 Per organizzare il resto del soggiorno, leggi [Madrid in 3 giorni](/en/guides/madrid/madrid-in-3-days) e, per spendere il meno possibile, [Madrid low cost](/en/guides/madrid/madrid-on-a-budget).

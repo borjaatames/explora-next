@@ -98,7 +98,7 @@ galeria:
 - src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-paisaje-norte.webp
   alt: "Paisaje volcánico del norte de Lanzarote junto a la Cueva de los Verdes"
 - src: /images/actividades/lanzarote/timanfaya/x-cueva-verdes-wikimedia-02.webp
-  alt: "Cartel de la Cueva de los Verdes"
+  alt: "Sign at the Cueva de los Verdes"
 ---
 
 ## What you will see

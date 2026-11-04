@@ -73,9 +73,9 @@ imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
 imagenAlt: Los Gigantes cliffs rising from the sea, Tenerife
 galeria:
 - src: /images/actividades/tenerife/gigantes/costa-acantilado-velero.webp
-  alt: Costa y acantilado vistos desde un barco de avistamiento
+  alt: "Coast and cliffs seen from a whale-watching boat"
 - src: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
-  alt: Delfin nadando en la superficie del mar
+  alt: "Dolphin swimming at the surface"
 - src: /images/actividades/tenerife/gigantes/gigantes-pueblo.webp
   alt: Village of Los Gigantes in Tenerife
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp

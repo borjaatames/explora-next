@@ -97,6 +97,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
+avisoReserva: "L'equipaggio o la guida parla spagnolo e inglese: non ci sono spiegazioni in italiano."
 ---
 
 ## L'escursione

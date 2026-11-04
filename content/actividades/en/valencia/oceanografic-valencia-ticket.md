@@ -80,19 +80,19 @@ imagen: /images/actividades/valencia/oceanografic/oceanografic-nenufar.webp
 imagenAlt: The water-lily-shaped Oceanogràfic building
 galeria:
 - src: /images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp
-  alt: Arquitectura del Oceanogràfic de Valencia, Ciudad de las Artes
+  alt: "Architecture of the Oceanogràfic, City of Arts and Sciences, Valencia"
 - src: /images/actividades/valencia/ciudad-artes-ciencias/hemisféric-ciudad-artes-valencia.webp
-  alt: El Hemisfèric de la Ciudad de las Artes y Ciencias de Valencia
+  alt: "The Hemisfèric at Valencia's City of Arts and Sciences"
 - src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp
-  alt: Exterior de la Ciudad de las Artes y Ciencias de Valencia
+  alt: "Exterior of Valencia's City of Arts and Sciences"
 - src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp
-  alt: Ciudad de las Artes y Ciencias de Valencia reflejada en el agua
+  alt: "Valencia's City of Arts and Sciences reflected in the water"
 - src: /images/actividades/valencia/ciudad-artes-ciencias/arquitectura-moderna-ciudad-artes.webp
-  alt: Arquitectura moderna simétrica de la Ciudad de las Artes y Ciencias
+  alt: "Symmetrical modern architecture at the City of Arts and Sciences"
 - src: /images/actividades/valencia/ciudad-artes-ciencias/hemisféric-nubes-ciudad-artes.webp
-  alt: Hemisfèric de Valencia con nubes sobre la Ciudad de las Artes
+  alt: "The Hemisfèric in Valencia with clouds over the City of Arts and Sciences"
 - src: /images/actividades/valencia/ciudad-artes-ciencias/oceanarium-edificio-blanco-valencia.webp
-  alt: Edificio del Oceanarium de Valencia, diseño de Santiago Calatrava
+  alt: The Oceanogràfic building in Valencia, with its roof designed by Félix Candela
 - src: /images/actividades/valencia/oceanografic/oceanografic-entrada.webp
   alt: Entrance to the Oceanogràfic in Valencia
 - src: /images/actividades/valencia/oceanografic/beluga.webp

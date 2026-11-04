@@ -101,6 +101,7 @@ galeria:
   alt: "Paella e vinho servidos a bordo"
 - src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
   alt: "Costa de Jandía vista do alto"
+avisoReserva: "A tripulação ou o guia fala inglês, alemão, francês, espanhol, polaco e italiano: não há explicações em português."
 ---
 
 ## O que vai ver

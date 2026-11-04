@@ -21,8 +21,8 @@ proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t402104/?partner_id=C71NOAW
 cancelacionGratuita: false
 highlights:
-- Abismo (caída libre de 55 m)
-- Tornado (coaster de suspenso invertido)
+- Abismo (montaña rusa con subida vertical y 105 km/h)
+- Tornado (montaña rusa invertida con loopings)
 - Zona infantil con más de 15 atracciones
 - Zona de agua (abierta en verano)
 - Espectáculos y actuaciones en temporada alta
@@ -52,7 +52,7 @@ informacionImportante:
   - Bañador si vas en verano (zona de agua)
   noAptoPara: []
   aTenerEnCuenta:
-  - El parque tiene restricciones de altura en las atracciones de adrenalina (mínimo 140 cm para Abismo y Tornado)
+  - El parque tiene restricciones de altura en las atracciones de adrenalina (consulta la altura mínima de cada una en la web del parque)
   - La zona de agua abre solo en temporada de verano
   - En invierno el parque opera en horario reducido y puede cerrar entre semana
 accesibilidad: Accesible en silla de ruedas con caminos adaptados.
@@ -101,9 +101,9 @@ El Parque de Atracciones de Madrid lleva funcionando desde **1969** y ha crecido
 
 ## Las atracciones estrella
 
-- **Abismo:** caída libre de 55 metros, la más alta del parque.
+- **Abismo:** montaña rusa con subida a 90 grados, sacacorchos y hasta 105 km/h.
 - **Tornado:** coaster invertido de acero con loopings.
-- **La Lanzadera:** catapulta hacia arriba y caída libre.
+- **La Lanzadera:** torre de caída libre de 63 metros.
 - **Zona Infantil:** más de 15 atracciones para los más pequeños.
 
 ## A quién se lo recomiendo

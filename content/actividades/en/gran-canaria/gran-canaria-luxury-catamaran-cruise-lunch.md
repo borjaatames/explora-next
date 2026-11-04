@@ -102,9 +102,9 @@ galeria:
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
   alt: "Cliffs and houses on the Mogán coast seen from the sea"
 - src: /images/actividades/gran-canaria/catamaran/fgc-catamaranes-fondeados-orilla.webp
-  alt: "Catamaranes fondeados en aguas turquesa cerca de la orilla, vistos desde el aire"
+  alt: "Aerial view of catamarans anchored in turquoise water near the shore"
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
-  alt: "Veleros amarrados en un puerto deportivo"
+  alt: "Sailing boats moored in a marina"
 ---
 
 ## What you will see

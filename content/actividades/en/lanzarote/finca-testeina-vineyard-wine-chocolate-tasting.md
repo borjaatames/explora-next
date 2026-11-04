@@ -95,9 +95,9 @@ galeria:
 - src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
   alt: "Rows of vine pits in La Geria seen from above"
 - src: /images/actividades/lanzarote/zonas/la-geria-vinedos.webp
-  alt: "Foto de la actividad"
+  alt: "Photo of the activity"
 - src: /images/actividades/lanzarote/la-geria/x-bodega-pexels-21765231.webp
-  alt: "Viñedo en Canarias"
+  alt: "Vineyard in the Canary Islands"
 ---
 
 ## What you will see

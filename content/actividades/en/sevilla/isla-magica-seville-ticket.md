@@ -86,9 +86,9 @@ imagen: /images/actividades/sevilla/isla-magica/isla-magica-iguazu.webp
 imagenAlt: Iguazú water ride at Isla Mágica, Seville
 galeria:
 - src: /images/actividades/sevilla/isla-magica/isla-magica-parque-tematico.webp
-  alt: Zona temática de Isla Mágica con castillo y atracciones coloridas
+  alt: "Themed area of Isla Mágica with a castle and colourful rides"
 - src: /images/actividades/sevilla/isla-magica/guadalquivir-isla-magica-sevilla.webp
-  alt: Vista aérea del río Guadalquivir con el parque Isla Mágica en Sevilla
+  alt: "Aerial view of the Guadalquivir with the Isla Mágica park in Seville"
 - src: /images/actividades/sevilla/isla-magica/isla-magica-entrada.webp
   alt: Entrance to Isla Mágica park in Seville
 - src: /images/actividades/sevilla/isla-magica/isla-magica-puerto.webp

@@ -91,7 +91,7 @@ imagen: /images/actividades/granada/wikimedia/granada-capilla-real-08.webp
 imagenAlt: The Royal Chapel of Granada seen from the street
 galeria:
 - src: /images/actividades/granada/capilla-real/decoracion-fachada-escudo.webp
-  alt: Escudos y decoración isabelina en la fachada de la Capilla Real de Granada
+  alt: "Coats of arms and Isabelline decoration on the façade of Granada's Royal Chapel"
 - src: /images/actividades/granada/wikimedia/granada-san-nicolas-06.webp
   alt: View of Granada from the San Nicolás viewpoint
 - src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp

@@ -89,9 +89,9 @@ galeria:
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
   alt: "Palma Cathedral under a pink sunset sky"
 - src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-  alt: "Bailaora con mantón y guitarrista en un espectáculo flamenco"
+  alt: "Flamenco dancer with a shawl and a guitarist during a show"
 - src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
-  alt: "Bailaora flamenca en blanco y negro"
+  alt: "Flamenco dancer in black and white"
 ---
 
 ## What you will see

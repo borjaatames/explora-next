@@ -95,6 +95,7 @@ galeria:
   alt: "Playa Blanca, no sul de Lanzarote"
 - src: /images/actividades/lanzarote/papagayo/flz-playas-veleros.webp
   alt: "Praias de Papagayo com veleiros fundeados"
+avisoReserva: "A tripulação ou o guia fala espanhol, inglês e francês: não há explicações em português."
 ---
 
 ## O que vai ver

@@ -88,9 +88,9 @@ galeria:
 - src: /images/actividades/tenerife/observatorio/observatorio-teide-07.webp
   alt: Observatory telescopes with Mount Teide behind
 - src: /images/actividades/tenerife/teide/canadas-lava.webp
-  alt: Paisaje volcánico de las Cañadas del Teide al atardecer
+  alt: "Volcanic landscape of Las Cañadas del Teide at sunset"
 - src: /images/actividades/tenerife/teide/canadas-panoramica.webp
-  alt: Las Cañadas del Teide
+  alt: "The Las Cañadas caldera on Teide"
 - src: /images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp
   alt: Sunset over the sea of clouds
 - src: /images/actividades/tenerife/teide/teide-mar-nubes.webp

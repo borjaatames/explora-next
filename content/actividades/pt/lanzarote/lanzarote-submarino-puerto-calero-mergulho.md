@@ -106,6 +106,7 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 fecha_actualizacion: '2026-10-24'
+avisoReserva: "A tripulação ou o guia fala espanhol, inglês, alemão, francês, italiano, neerlandês, finlandês, norueguês, polaco e checo: não há explicações em português."
 ---
 
 ## O que vai ver

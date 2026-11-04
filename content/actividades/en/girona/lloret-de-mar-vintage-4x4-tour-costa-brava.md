@@ -95,7 +95,7 @@ galeria:
 - src: /images/actividades/girona/fgi-4x4/x-4x4-pixabay-1627117.webp
   alt: "Todoterreno clásico blanco"
 - src: /images/actividades/girona/fgi-4x4/x-lloret-wikimedia-01.webp
-  alt: "Costa de Lloret de Mar"
+  alt: "The coast at Lloret de Mar"
 ---
 
 ## What you will see

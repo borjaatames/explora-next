@@ -75,7 +75,7 @@ imagen: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
 imagenAlt: Walled village of Tabarca Island seen from the sea
 galeria:
 - src: /images/actividades/alicante/tabarca/torre-san-jose-tabarca.webp
-  alt: Torre de San Jose en la isla de Tabarca
+  alt: "San José tower on Tabarca Island"
 - src: /images/actividades/alicante/tabarca/tabarca-playa.webp
   alt: Rocky cove on Tabarca with the lighthouse behind and a gull
 - src: /images/actividades/alicante/tabarca/faro-tabarca.webp

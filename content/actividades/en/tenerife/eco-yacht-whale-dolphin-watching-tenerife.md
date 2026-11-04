@@ -88,7 +88,7 @@ imagen: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
 imagenAlt: Pilot whales off the Tenerife coast
 galeria:
 - src: /images/actividades/tenerife/cetaceos/ballena-nadando-superficie.webp
-  alt: Ballena nadando cerca de la superficie del mar
+  alt: "Whale swimming near the surface"
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
   alt: A short-finned pilot whale breathing at the surface
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos.webp

@@ -79,10 +79,10 @@ keywords:
 - nerja and frigiliana
 - frigiliana from malaga
 imagen: /images/actividades/malaga/cuevas-nerja/estalactitas-sala-iluminada.webp
-imagenAlt: Estalactitas iluminadas en una sala de la Cueva de Nerja
+imagenAlt: "Lit stalactites in a chamber of the Nerja Caves"
 galeria:
 - src: /images/actividades/malaga/frigiliana/calle-andaluza-frigiliana.webp
-  alt: Calle encalada con macetas en Frigiliana
+  alt: "Whitewashed street with flowerpots in Frigiliana"
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-nerja-interior-cue-hero.webp
   alt: Inside the Nerja Cave with stalactites
 - src: /images/actividades/malaga/frigiliana/frigiliana-calle.webp
@@ -96,6 +96,7 @@ galeria:
 ratingProveedor: 4.6
 numeroOpiniones: 3192
 publicada: true
+masReservado: true
 destacada: true
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-04'

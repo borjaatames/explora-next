@@ -90,9 +90,9 @@ galeria:
 - src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
   alt: "Aged cheeses of different sizes"
 - src: /images/actividades/alicante/vino/barricas-filas.webp
-  alt: "Filas de barricas"
+  alt: "Rows of barrels"
 - src: /images/actividades/alicante/vino/barricas.webp
-  alt: "Barricas de vino en una bodega"
+  alt: "Wine barrels in a winery"
 ---
 
 ## What you will see

@@ -110,7 +110,7 @@ imagen: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-04.webp
 imagenAlt: Main courtyard of the Casa de Pilatos
 galeria:
 - src: /images/actividades/sevilla/casa-pilatos/casa-pilatos-patio-central.webp
-  alt: Patio central de la Casa de Pilatos de Sevilla con fuente y jardín
+  alt: "Main courtyard of the Casa de Pilatos in Seville, with fountain and garden"
 - src: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-01.webp
   alt: Tiled gallery with statues at the Casa de Pilatos
 - src: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-03.webp

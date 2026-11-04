@@ -94,9 +94,9 @@ galeria:
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-pinaculos.webp
   alt: "Gothic pinnacles of Palma Cathedral"
 - src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
-  alt: "Parc de la Mar y la Catedral de Palma al atardecer"
+  alt: "Parc de la Mar and Palma Cathedral at sunset"
 - src: /images/actividades/mallorca/fma-almudaina/x-catedral-wikimedia-01.webp
-  alt: "Interior de la Catedral de Palma"
+  alt: "Inside Palma Cathedral"
 ---
 
 ## What you will see

@@ -75,9 +75,9 @@ imagen: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-
 imagenAlt: Interior of the Nerja Caves with their formations
 galeria:
 - src: /images/actividades/malaga/cuevas-nerja/estalactitas-sala-iluminada.webp
-  alt: Estalactitas iluminadas en una sala de la Cueva de Nerja
+  alt: "Lit stalactites in a chamber of the Nerja Caves"
 - src: /images/actividades/malaga/cuevas-nerja/formaciones-estalactitas-detalle.webp
-  alt: Detalle de formaciones de estalactitas en la Cueva de Nerja
+  alt: "Close-up of stalactites in the Nerja Caves"
 - src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-nerja-playa-costera-03-hero.webp
   alt: Coastal beach of Nerja
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-nerja-interior-cue-hero.webp

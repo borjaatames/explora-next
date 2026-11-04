@@ -100,15 +100,15 @@ galeria:
   - src: "/images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp"
     alt: "San Miguel Market"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp"
-    alt: "Tapas madrid jamon iberico tapa en Tapas"
+    alt: "Tapa of Iberian ham in Madrid"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp"
     alt: "A bottle of red wine and two filled glasses"
   - src: "/images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp"
-    alt: "Plaza santa ana madrid 26159833570 en Plaza santa ana"
+    alt: "Plaza de Santa Ana in Madrid"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-22-hero.webp"
-    alt: "Bocadillo de calamares 22"
+    alt: "Fried squid sandwich (bocadillo de calamares)"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-variety-colorful-drinks-including-hero.webp"
-    alt: "Tapas madrid variety colorful drinks including en Tapas"
+    alt: "Assorted tapas and colourful drinks in Madrid"
 ratingProveedor: 4.8
 numeroOpiniones: 182
 

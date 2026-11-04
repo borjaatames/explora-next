@@ -90,7 +90,7 @@ galeria:
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
   alt: Volcanic cliffs near Puerto de Mogán seen from the sea
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
-  alt: Costa rocosa de Mogan, Gran Canaria
+  alt: "Rocky coast at Mogán, Gran Canaria"
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
   alt: Salema and sea bream underwater off the coast of Gran Canaria
 - src: /images/actividades/gran-canaria/mogan/mogan-playa.webp

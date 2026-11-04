@@ -4,7 +4,7 @@ descripcion: 'Toledo o Segovia da Madrid: treno e autobus con tempi e prezzi, co
 categoria: madrid
 slug: toledo-o-segovia-da-madrid
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: false
@@ -114,6 +114,19 @@ In cinque o sei ore vedi l'essenziale senza fretta e pranzi con calma; l'itinera
 ## E tutte e due nello stesso giorno?
 
 Si può fare con un'escursione organizzata come [Segovia e Toledo in un giorno con l'Alcázar](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid): è economica e molto apprezzata, ma sono circa 12 ore con due di autobus tra le città, e la visita di ciascuna resta corta. Se hai due giorni, fanne una al giorno. Se ne hai solo uno, scegli e goditela bene.
+
+## Altre gite di un giorno da Madrid (2026)
+
+| Destinazione | Come arrivare | Tempo necessario | Prezzo indicativo | Ideale per |
+| --- | --- | --- | --- | --- |
+| Toledo | Avant da Atocha (33 min) o autobus Alsa da Plaza Elíptica (50 min il diretto) | Un giorno intero | Treno 22-26 € andata e ritorno; Cattedrale 12 € | Storia, El Greco e le tre culture |
+| Segovia | Avant o AVE da Chamartín (circa 25-30 min) più bus urbano; o autobus Avanza da Moncloa (1 h 15) | Una mezza giornata lunga | Treno da circa 7-14 € a tratta secondo l'anticipo; bus circa 5 €; Alcázar 7 € | Acquedotto, Alcázar e maialino, senza salite dure |
+| Ávila | Treno regionale da Príncipe Pío o Chamartín (1 h 20-1 h 40) o autobus Jiménez Dorado (1 h 30) | Un giorno | 10-13 € a tratta; mura 8 € | Le mura medievali per intero |
+| El Escorial | Cercanías C-3 da Atocha o Chamartín (1 h) o autobus 661/664 da Moncloa (50 min) | Mezza giornata | Treno 8,50 € andata e ritorno; Monastero 14 € | Il monastero di Filippo II; chiuso il lunedì |
+| Aranjuez | Cercanías C-3 da Atocha o Chamartín (circa 35-45 min) | Mezza giornata | Treno da 5 €; Palazzo Reale 9 € | Palazzo e giardini, meglio in primavera |
+| Cuenca | AVE, Avant o Avlo da Atocha (circa 55-65 min) | Un giorno intero | Da circa 7 € con Avlo; di solito 30-40 € a tratta | Le Case Sospese e la gola dell'Huécar |
+
+*Dati verificati a novembre 2026: biglietti di El Escorial e Aranjuez secondo le tariffe ufficiali di Patrimonio Nacional (BOE del 15 ottobre 2025); treni e autobus secondo Renfe, gli operatori e Omio, con prezzi che cambiano in base all'anticipo.*
 
 ## In una frase
 

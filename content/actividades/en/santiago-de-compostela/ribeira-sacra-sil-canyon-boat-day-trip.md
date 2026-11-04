@@ -94,7 +94,7 @@ galeria:
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-laderas-ribeira-sacra.webp
   alt: "Ribeira Sacra hillsides above the Sil"
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/x-ribeira-sacra-pexels-16664200.webp
-  alt: "El cañón del Sil desde lo alto"
+  alt: "The Sil canyon from above"
 ---
 
 ## What you will see

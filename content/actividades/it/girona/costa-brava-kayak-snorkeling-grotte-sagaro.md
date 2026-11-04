@@ -111,6 +111,7 @@ publicada: true
 destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-04'
+avisoReserva: "L'equipaggio o la guida parla spagnolo, inglese e catalano: non ci sono spiegazioni in italiano."
 ---
 
 ## Cosa farai

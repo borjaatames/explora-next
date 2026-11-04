@@ -21,7 +21,7 @@ proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t402104/?partner_id=C71NOAW
 cancelacionGratuita: false
 highlights:
-- Abismo (chute libre de 55 m)
+- Abismo (montagnes russes avec montée verticale et 105 km/h)
 - Tornado (montagnes russes inversées)
 - Zone enfants avec plus de 15 attractions
 - Zone aquatique (ouverte en été)
@@ -52,7 +52,7 @@ informacionImportante:
   - Un maillot de bain en été (zone aquatique)
   noAptoPara: []
   aTenerEnCuenta:
-  - Taille minimale de 140 cm pour les attractions à sensations comme Abismo et Tornado
+  - 'Taille minimale pour les attractions à sensations : vérifiez celle de chaque attraction sur le site du parc'
   - La zone aquatique n’ouvre qu’en été
   - En hiver, horaires réduits et fermeture possible en semaine
 accesibilidad: Accessible en fauteuil roulant, avec des allées adaptées.
@@ -102,9 +102,9 @@ Le Parque de Atracciones de Madrid existe depuis **1969** et propose aujourd’h
 
 ## Les attractions phares
 
-- **Abismo** : une chute libre de 55 mètres, la plus haute du parc.
+- **Abismo** : des montagnes russes avec montée à 90 degrés, tire-bouchon et jusqu’à 105 km/h.
 - **Tornado** : des montagnes russes inversées en acier avec loopings.
-- **La Lanzadera** : une catapulte vers le haut suivie d’une chute libre.
+- **La Lanzadera** : une tour de chute libre de 63 mètres.
 - **Zone enfants** : plus de 15 attractions pour les plus petits.
 
 ## Pour qui ?

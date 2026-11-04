@@ -2,7 +2,7 @@
 titulo: 'Madrid: bilhete para o Parque Warner'
 slug: parque-warner-madrid-bilhete
 ciudad: madrid
-descripcion: 'Bilhete para o Parque Warner Madrid: cinco áreas temáticas Warner e DC, montanhas-russas, torre de queda de 62 m e espetáculos. A 35 km de Madrid.'
+descripcion: 'Bilhete para o Parque Warner Madrid: cinco áreas temáticas Warner e DC, montanhas-russas, a montanha-russa do Batman e espetáculos. A 35 km de Madrid.'
 slugs:
   es: parque-warner-madrid-entrada
   en: parque-warner-madrid-ticket
@@ -108,7 +108,7 @@ O Parque Warner Madrid reúne **cinco áreas temáticas** inspiradas no universo
 ## As atrações principais
 
 - **Superman: La Atracción de Acero:** montanha-russa de aço de alta velocidade, a mais famosa do parque.
-- **Stunt Fall:** queda de 62 metros.
+- **Stunt Fall:** montanha-russa tipo boomerang invertido, das mais intensas do parque.
 - **Coaster Express:** montanha-russa de madeira na área Old West.
 - **Río Bravo:** descida na água, ideal no verão.
 

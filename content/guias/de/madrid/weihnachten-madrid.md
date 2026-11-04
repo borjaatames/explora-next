@@ -4,7 +4,7 @@ descripcion: "Weihnachten in Madrid 2026: wann die Lichter angehen, Plaza Mayor,
 categoria: "madrid"
 slug: "weihnachten-madrid"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: false
@@ -26,7 +26,7 @@ slugs:
   it: natale-a-madrid
   pt: natal-em-madrid
 reservasArriba: true
-respuestaCorta: "Die Lichter gehen **Ende November** an und bleiben bis Dreikönig (6. Januar), an über 250 Orten der Stadt. Pflichtprogramm: der **Weihnachtsmarkt auf der Plaza Mayor**, **Cortylandia** in der Calle Preciados, die Lichter im **Naviluz**-Bus oder im Tuk-Tuk und der **Dreikönigsumzug** am 5. Januar. Geh unter der Woche hin: An Dezember-Samstagen geht im Zentrum nichts mehr."
+respuestaCorta: "Die Lichter gehen am **Samstag, 21. November**, an der Plaza de Cibeles an und bleiben bis zum 6. Januar, an über 250 Orten der Stadt. Pflichtprogramm: der **Weihnachtsmarkt auf der Plaza Mayor**, **Cortylandia** in der Calle Preciados, die Lichter im **Naviluz**-Bus oder im Tuk-Tuk und der **Dreikönigsumzug** am 5. Januar. Geh unter der Woche hin: An Dezember-Samstagen geht im Zentrum nichts mehr."
 faq:
   - pregunta: "Wann gehen die Weihnachtslichter in Madrid an?"
     respuesta: "Ende November; das genaue Datum gibt die Stadt im November bekannt. Die Beleuchtung bleibt bis Dreikönig und umfasst über 250 Orte in allen 21 Bezirken."
@@ -48,7 +48,7 @@ actividades:
 
 | Was | Wo | Wann | Preis |
 | --- | --- | --- | --- |
-| Weihnachtsbeleuchtung | Zentrum und alle 21 Bezirke | Ende November – Dreikönig | Kostenlos |
+| Weihnachtsbeleuchtung | Zentrum und alle 21 Bezirke (Einschalten an der Cibeles) | 21. November 2026 – 6. Januar 2027 | Kostenlos |
 | Krippe der Real Casa de Correos | Puerta del Sol | Ende November – 6. Januar | Kostenlos |
 | Weihnachtsmarkt | Plaza Mayor | Ende November – 31. Dezember | Kostenlos |
 | Cortylandia | El Corte Inglés, Calle Preciados | Ende November – 5. Januar | Kostenlos |
@@ -60,7 +60,7 @@ actividades:
 | Glockenschläge an Silvester | Puerta del Sol | 31. Dezember | Kostenlos, begrenzt |
 | Dreikönigsumzug | Castellana – Cibeles | 5. Januar, ab 18:00 Uhr | Kostenlos |
 
-Die genauen Termine bestätigt die Stadt im November; was noch nicht offiziell ist, stammt aus der letzten Ausgabe. Sobald die Daten für 2026 feststehen, aktualisieren wir den Artikel.
+**Bestätigt (4. November 2026):** Die Stadt schaltet die Lichter am Samstag, 21. November, mit einer Feier auf der Plaza de Cibeles ein; die Beleuchtung bleibt bis zum 6. Januar 2027. Die Uhrzeit steht noch nicht fest. Die übrigen Termine stammen aus der letzten Ausgabe, bis das Programm für 2026 erscheint.
 
 ## Die Lichter sehen
 

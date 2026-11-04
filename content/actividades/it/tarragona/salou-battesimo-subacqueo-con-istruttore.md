@@ -102,6 +102,7 @@ galeria:
   alt: "Murena che si affaccia tra le rocce del fondale"
 - src: /images/actividades/tarragona/buceo/fta-aleta-buceo-mar.webp
   alt: "Pinna da sub gialla che spunta dal mare"
+avisoReserva: "L'equipaggio o la guida parla spagnolo, inglese e catalano: non ci sono spiegazioni in italiano."
 ---
 
 ## Cosa vedrai

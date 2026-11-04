@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: Ist es das beste Aquarium Spaniens?
   respuesta: Für Mittelmeerfauna gehört es zu den besten. Für tropische Ozeanfauna ist das Oceanogràfic in Valencia größer und vielseitiger.
 - pregunta: Kann ich mit den Haien tauchen?
-  respuesta: Ja, es gibt eine spezielle Tauchaktivität im Haibecken (separater Preis, Voranmeldung nötig). Die Bedingungen erfahren Sie bei der Buchung direkt beim Aquarium.
+  respuesta: "Ja, beim Käfigtauchen im Haibecken: Du brauchst keinen Tauchschein und keine Taucherfahrung, das Mindestalter ist 8 Jahre und es kostet 175 € pro Person (inklusive Ausrüstung, Versicherung, Einweisung und Eintritt für dich und eine Begleitperson). Es dauert 2 Stunden, mit höchstens 4 Personen pro Termin, und wird auf der Website des Aquàrium gebucht."
 opinionEditorial: 'Das Aquàrium de Barcelona hat einen der eindrucksvollsten Haitunnel Spaniens: 80 Meter Glas, umgeben von Sandtigerhaien und Rochen. Die Mittelmeer-Sammlung ist einzigartig. Der Besuch lohnt sich trotz des höheren Preises; kaufen Sie online und umgehen Sie die Schlangen an der Kasse.'
 guiasRelacionadas:
 - barcelona-mit-kindern

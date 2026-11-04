@@ -99,7 +99,7 @@ imagenAlt: "Plaza Mayor, Madrid"
 
 galeria:
   - src: "/images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp"
-    alt: "Croquetas de jamón y tapas tradicionales madrileñas"
+    alt: "Ham croquettes and traditional Madrid tapas"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp"
     alt: "Spanish cured meats and drinks"
   - src: "/images/actividades/madrid/tapas/tapas-madrid-patagonia-churros-hot-chocolate-hero.webp"

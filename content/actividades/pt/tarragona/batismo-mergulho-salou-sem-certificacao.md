@@ -104,6 +104,7 @@ galeria:
   alt: "Moreia a espreitar entre as rochas do fundo marinho"
 - src: /images/actividades/tarragona/buceo/fta-aleta-buceo-mar.webp
   alt: "Barbatana de mergulho amarela a sair do mar"
+avisoReserva: "A tripulação ou o guia fala espanhol, inglês e catalão: não há explicações em português."
 ---
 
 ## O que vai ver

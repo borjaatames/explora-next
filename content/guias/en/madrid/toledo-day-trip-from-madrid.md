@@ -5,7 +5,7 @@ metaTitle: 'Toledo day trip from Madrid: one-day route'
 categoria: "madrid"
 slug: "toledo-day-trip-from-madrid"
 fecha: "2026-04-02"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: false
@@ -59,6 +59,19 @@ Seventy kilometers from Madrid sits an intact medieval city: **Toledo**, where J
 - **Organized tour:** €45–70 with transport, guide and tickets, 8–9 hours. Worth it in a group or without a car; a couple with a car is better off alone.
 
 [actividad: toledo-full-day-from-madrid]
+
+## Opening hours and prices 2026
+
+| What | Hours | Price |
+| --- | --- | --- |
+| Avant train Atocha–Toledo | 33 min, roughly every hour; last from Madrid at 20:45 (Sunday to Thursday), last back around 21:30 | €13-16 one way, €22-26 return |
+| Alsa bus from Plaza Elíptica | 50 min direct | From €6.55 one way |
+| Cathedral | Monday to Saturday 10:00-18:30; Sunday 14:00-18:30; last entry half an hour before closing | €12 |
+| Alcázar (Army Museum) | 10:00-17:00, last entry 16:30; closed on Mondays | €5; free on Wednesdays |
+| Santo Tomé (*The Burial of the Count of Orgaz*) | 10:00-18:45 from 1 March to 15 October; 10:00-17:45 the rest of the year | €4 |
+| Tourist wristband | 7 monuments (Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, the Jesuit church, El Salvador and Doncellas Nobles), one entry each, valid 7 days | €14 (excludes the Cathedral and the Alcázar) |
+
+*Checked in November 2026 on the official websites of the Cathedral, the Army Museum, Santo Tomé and Toledo Monumental; train and bus details from Renfe and Alsa. The Santo Tomé website still shows €12 for the wristband; at the ticket office and on Toledo Monumental it costs €14.*
 
 ## A one-day route
 

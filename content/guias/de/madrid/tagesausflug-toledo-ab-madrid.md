@@ -5,7 +5,7 @@ metaTitle: 'Toledo Sehenswürdigkeiten an einem Tag'
 categoria: "madrid"
 slug: "tagesausflug-toledo-ab-madrid"
 fecha: "2026-04-02"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: false
@@ -90,6 +90,19 @@ Wichtige Parkplätze: **Safont** (0,40 € pro Stunde für Besucher ohne Wohnsit
 ### 4. Organisierter Ausflug mit Reiseleitung
 
 Es gibt Dutzende Ausflüge ab Madrid, die Transport, offizielle Reiseleitung und Eintritte kombinieren. Sie kosten meist **45–70 €** pro Person und dauern 8–9 Stunden. Sie lohnen sich, wenn du in einer Gruppe reist und euch jemand alles erklären soll, wenn ihr kein Auto habt und die Logistik euch überfordert, oder wenn ihr den Tag maximal nutzen wollt, ohne Zeit mit Entscheidungen zu verlieren. Sie lohnen sich nicht, wenn ihr als Paar mit Auto unterwegs seid und euch selbst organisiert — die Freiheit, sich im eigenen Tempo zu bewegen, ist wertvoller.
+
+## Öffnungszeiten und Preise 2026
+
+| Was | Zeiten | Preis |
+| --- | --- | --- |
+| Avant-Zug Atocha–Toledo | 33 Min., etwa stündlich; letzter ab Madrid um 20:45 (Sonntag bis Donnerstag), letzte Rückfahrt gegen 21:30 | 13-16 € pro Strecke, 22-26 € hin und zurück |
+| Alsa-Bus ab Plaza Elíptica | 50 Min. direkt | Ab 6,55 € pro Strecke |
+| Kathedrale | Montag bis Samstag 10:00-18:30; Sonntag 14:00-18:30; letzter Einlass eine halbe Stunde vorher | 12 € |
+| Alcázar (Heeresmuseum) | 10:00-17:00, letzter Einlass 16:30; montags geschlossen | 5 €; mittwochs kostenlos |
+| Santo Tomé (*Das Begräbnis des Grafen von Orgaz*) | 10:00-18:45 vom 1. März bis 15. Oktober; sonst 10:00-17:45 | 4 € |
+| Touristenarmband | 7 Monumente (Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, Jesuitenkirche, El Salvador und Doncellas Nobles), je ein Eintritt, 7 Tage gültig | 14 € (ohne Kathedrale und Alcázar) |
+
+*Geprüft im November 2026 auf den offiziellen Websites der Kathedrale, des Heeresmuseums, von Santo Tomé und Toledo Monumental; Zug und Bus laut Renfe und Alsa. Die Website von Santo Tomé nennt für das Armband noch 12 €; an der Kasse und bei Toledo Monumental kostet es 14 €.*
 
 ## Die Tagesroute mit Anspruch
 

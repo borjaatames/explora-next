@@ -33,7 +33,7 @@ incluye:
 - Acceso a todos los tanques y zona Explora
 noIncluye:
 - Comida y bebida
-- Inmersión con tiburones (actividad opcional de pago)
+- Inmersión en jaula con tiburones (opcional, 175 €, desde 8 años)
 - Audioguía
 puntoEncuentro:
   texto: Aquàrium de Barcelona, Moll d'Espanya del Port Vell, 5, 08039 Barcelona.
@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: ¿Es el mejor acuario de España?
   respuesta: Es uno de los mejores en fauna mediterránea. Para fauna oceánica tropical, el Oceanogràfic de Valencia es más grande y variado.
 - pregunta: ¿Puedo bañarme con los tiburones?
-  respuesta: Sí, hay una actividad especial de buceo en el tanque de tiburones (con precio aparte y reserva previa). Requiere no saber bucear para hacerla con equipo de superficie.
+  respuesta: "Sí, con la inmersión en jaula en el tanque de los tiburones: no hace falta titulación ni saber bucear, la edad mínima es 8 años y cuesta 175 € por persona (incluye equipo, seguro, formación y la entrada para ti y un acompañante). Dura 2 horas, con un máximo de 4 personas por sesión, y se reserva en la web del Aquàrium."
 opinionEditorial: 'El Aquàrium de Barcelona tiene el mejor túnel de tiburones de España: 80 metros de cristal rodeado de arena tiger sharks y rayas manta, sin rival en la Península. La colección mediterránea es única en el mundo. Merece la pena aunque el precio sea elevado; compra online y te evitas las colas de taquilla.'
 guiasRelacionadas:
 - barcelona-con-ninos

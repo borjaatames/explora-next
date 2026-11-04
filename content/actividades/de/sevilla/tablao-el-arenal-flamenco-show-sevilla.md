@@ -80,7 +80,7 @@ preguntasFrecuentes:
 - pregunta: Was unterscheidet es von den anderen großen Flamenco-Shows in Sevilla?
   respuesta: '**Tablao El Arenal:** 50 Jahre Geschichte, Gebäude aus dem 17. Jh. an der Maestranza, Abendessen-Option, 4,9/5. **Teatro Flamenco Sevilla:** großes, zentrales Theater mit den meisten Bewertungen, ab 25 €. **Casa de la Memoria:** Innenhof aus dem 16. Jh. mit nur zwei Reihen, maximale Nähe. **Museo del Baile Flamenco:** Innenhof aus dem 18. Jh. und Choreografien von Cristina Hoyos. **Teatro Flamenco Triana:** Theater im traditionellen Flamenco-Viertel Triana, ab 25 €.'
 - pregunta: Lohnt sich die Abendessen-Option?
-  respuesta: 'Das hängt von Ihrem Abendplan ab. Typische Optionen (bei der Buchung prüfen): nur Show mit Getränk (48 €), Tapas mit Show (ca. 65 €), À-la-carte-Menü mit Show (ca. 85 €). Vorteile: alles an einem Ort und eine Atmosphäre, die sich bis zur Show aufbaut. Nachteil: In 5–10 Minuten Entfernung liegen hervorragende Tapas-Bars wie Las Teresas, Las Columnas oder El Rinconcillo. Wer Sevillas Küche entdecken möchte, isst besser auswärts und bucht nur die Show.'
+  respuesta: 'Das hängt von Ihrem Abendplan ab. Typische Optionen (bei der Buchung prüfen): nur Show mit Getränk (45 €), Tapas mit Show (ca. 65 €), À-la-carte-Menü mit Show (ca. 85 €). Vorteile: alles an einem Ort und eine Atmosphäre, die sich bis zur Show aufbaut. Nachteil: In 5–10 Minuten Entfernung liegen hervorragende Tapas-Bars wie Las Teresas, Las Columnas oder El Rinconcillo. Wer Sevillas Küche entdecken möchte, isst besser auswärts und bucht nur die Show.'
 - pregunta: Warum hat es nur 22 Bewertungen, wenn es seit 50 Jahren besteht?
   respuesta: Die 22 Bewertungen beziehen sich auf ein neues Angebot bei GetYourGuide. Das Tablao selbst ist seit den 1970er-Jahren in Betrieb und hat auf anderen Plattformen tausende Bewertungen. Die geringe Zahl sagt also nichts über die Qualität aus; die 4,9/5 zusammen mit dem historischen Ruf sprechen für eine verlässliche Wahl.
 - pregunta: Kann ich es mit einem Besuch der Maestranza kombinieren?
@@ -144,7 +144,7 @@ Eine **einstündige Flamenco-Show im Tablao El Arenal** – 50 Jahre Geschichte 
 - **Konstante künstlerische Qualität** – Tänzer, Sänger und Gitarristen mit professioneller Erfahrung. Die Gründung durch eine Tänzerin prägt den Anspruch seit fünf Jahrzehnten.
 - **Eine Stunde Programm** – Alegrías, Soleá, Bulerías, Tangos, Fandangos, je nach Besetzung.
 - **Restaurant-Layout mit Tischen** – entspannter als ein Theater und ideal, um Tapas oder ein Abendessen zu servieren.
-- **Drei Optionen:** nur Show + Getränk (48 €), Tapas + Show (65 €), À-la-carte-Menü + Show (85 €).
+- **Drei Optionen:** nur Show + Getränk (45 €), Tapas + Show (65 €), À-la-carte-Menü + Show (85 €).
 - **Ikonische Lage** neben der Maestranza – gut mit einer Führung durch die Arena am Nachmittag kombinierbar.
 
 ## So funktioniert es

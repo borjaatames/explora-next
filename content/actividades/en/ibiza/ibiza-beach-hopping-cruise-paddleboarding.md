@@ -83,11 +83,11 @@ galeria:
 - src: /images/actividades/ibiza/crucero-calas/paddle-surf-aguas-cristalinas.webp
   alt: Stand-up paddle boarder on clear water with the seabed visible below
 - src: /images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp
-  alt: Islote de Es Vedra visto desde la costa de Ibiza
+  alt: "Es Vedrà islet from the coast of Ibiza"
 - src: /images/actividades/ibiza/crucero-calas/esnorquel-bajo-el-agua-ibiza.webp
   alt: Swimmer with goggles diving underwater in Ibiza
 - src: /images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp
-  alt: Cala de Ibiza con barcos fondeados en aguas azules
+  alt: "Ibiza cove with boats anchored in blue water"
 - src: /images/actividades/ibiza/crucero-calas/paella-a-bordo-barco.webp
   alt: Plates of paella served on a boat deck table
 - src: /images/actividades/ibiza/calas/cala-conta.webp

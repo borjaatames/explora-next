@@ -100,6 +100,7 @@ galeria:
   alt: "Steintreppe und Garten in den Jameos del Agua"
 - src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-jardin-estanque.webp
   alt: "Garten mit Teich in der Fundación César Manrique"
+avisoReserva: "Die Sprache des Guides wechselt je nach Tag: Prüfe vor der Buchung, ob an deinem Datum Deutsch angeboten wird."
 ---
 
 ## Was du siehst

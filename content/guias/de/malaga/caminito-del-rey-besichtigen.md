@@ -5,7 +5,7 @@ metaTitle: 'Caminito del Rey: Tickets, Anreise, Tipps'
 categoria: "malaga"
 slug: "caminito-del-rey-besichtigen"
 fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: true
@@ -52,6 +52,21 @@ Der Caminito ist eine **lineare** Route von rund 7,7 km (3 km Stege, die an den 
 > **⭐ Tipp:** Die Tickets gehen Monate im Voraus auf der offiziellen Webseite in den Verkauf und sind schnell vergriffen. Schau dir zuerst die verfügbaren Caminito-Termine an und **plane die Reise um diesen Tag herum**, nicht umgekehrt.
 
 [actividad: caminito-del-rey-entrada-guia-oficial]
+
+## Preise und Zeiten 2026 auf einen Blick
+
+| Punkt | Stand 2026 |
+| --- | --- |
+| Normales Ticket | 10 € (höchstens 10 pro Kauf), mit fester Einlasszeit |
+| Offizielle Führung | 18 €, Gruppen bis 30 Personen, auf Spanisch und Englisch |
+| Shuttlebus zwischen den Eingängen | 2,50 €; alle 30 Minuten von 8:30 bis 16:30, ab der Südseite |
+| Parken | 2 € pro Tag |
+| Einlass | Von 9:00 bis 14:50 oder 17:20, je nach Saison |
+| Mindestalter | 8 Jahre (Ausweis mitbringen) |
+| Zug ab Málaga | Renfe bis El Chorro–Caminito del Rey: etwa 50 Minuten, ab etwa 5 € pro Strecke |
+| Auto ab Málaga | 59 km, gut 50 Minuten |
+
+*Geprüft im November 2026 auf der offiziellen Website caminitodelrey.info; Zugdaten von Renfe und Omio.*
 
 ## Anreise ab Málaga
 

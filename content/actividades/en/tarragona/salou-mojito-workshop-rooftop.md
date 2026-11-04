@@ -89,7 +89,7 @@ galeria:
 - src: /images/actividades/tarragona/costa/cap-salou.webp
   alt: "Cap de Salou over the Mediterranean"
 - src: /images/actividades/barcelona/noche/barcelona-noche-torre-glories.webp
-  alt: "Barcelona iluminada de noche con la Torre Glòries"
+  alt: "Barcelona lit up at night with the Torre Glòries"
 ---
 
 ## What you will see

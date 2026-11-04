@@ -52,7 +52,7 @@ informacionImportante:
   - Badesachen im Sommer (Wasserbereich)
   noAptoPara: []
   aTenerEnCuenta:
-  - Für die Adrenalin-Fahrgeschäfte gibt es Mindestgrößen (140 cm für Abismo und Tornado)
+  - Für die Adrenalin-Fahrgeschäfte gibt es Mindestgrößen (Angaben je Fahrgeschäft auf der Website des Parks)
   - Der Wasserbereich öffnet nur im Sommer
   - Im Winter gelten verkürzte Öffnungszeiten, und unter der Woche kann der Park geschlossen sein
 accesibilidad: Rollstuhlgerecht mit angepassten Wegen.
@@ -104,7 +104,7 @@ Der Parque de Atracciones de Madrid ist seit **1969** in Betrieb und bietet heut
 
 - **Abismo:** Achterbahn mit steilen Abfahrten, eine der intensivsten des Parks.
 - **Tornado:** hängende Stahlachterbahn mit Loopings.
-- **La Lanzadera:** Freifallturm mit Katapultstart.
+- **La Lanzadera:** 63 Meter hoher Freifallturm.
 - **Kinderbereich:** über 15 Fahrgeschäfte für die Kleinsten.
 
 ## Für wen es sich lohnt

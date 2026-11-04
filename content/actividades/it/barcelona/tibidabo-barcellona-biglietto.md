@@ -23,10 +23,10 @@ urlReserva: 'https://www.getyourguide.com/es-es/activity-t54571/?partner_id=C71N
 cancelacionGratuita: false
 highlights:
 - Viste panoramiche su Barcellona da 512 metri di altitudine
-- L'Avió, aereo d'epoca del 1921, tra le giostre più antiche ancora in funzione
-- Atalaya, torre panoramica con vista a 360° sulla città
-- Museu d'Autòmates con 200 automi storici
-- Zona Megàland con attrazioni moderne
+- L'Avió, replica del 1928 dell'aereo del primo volo Madrid-Barcellona, simbolo del parco
+- Talaia, braccio panoramico del 1921 con vista a 360° sulla città
+- Museu d'Autòmats con automi storici (il più antico è del 1880)
+- Attrazioni moderne come la torre di caduta Merlí (50 m, 2024)
 incluye:
 - Ingresso al Parco divertimenti del Tibidabo
 - Accesso libero alle attrazioni incluse nel tipo di biglietto
@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: Il parco è aperto tutti i giorni?
   respuesta: No. In bassa stagione (autunno, inverno e primavera) apre solo nei fine settimana e nei festivi; in estate anche durante la settimana. Controlla il calendario sul sito ufficiale prima di comprare.
 - pregunta: Cos'è l'Avió?
-  respuesta: Un aereo del 1921 montato su un braccio girevole che vola sopra la città. È l'attrazione più famosa del parco e una delle più antiche al mondo ancora in funzione.
+  respuesta: Una replica del 1928 dell'aereo del primo volo commerciale Madrid-Barcellona, appesa a un braccio girevole che vola sopra la città. È l'attrazione più famosa del parco.
 opinionEditorial: 'Il Tibidabo è unico: non è il parco più moderno né il più grande, ma ha qualcosa che nessun altro ha. La nostalgia dell''Avió e del Museu d''Autòmates, l''architettura modernista e la vista assoluta su Barcellona lo rendono irripetibile. Il prezzo è alto: controlla il calendario di apertura prima di andare.'
 guiasRelacionadas:
 - barcellona-con-bambini
@@ -108,10 +108,10 @@ Il **Parco divertimenti del Tibidabo** è sulla cima della **Collserola**, a 512
 
 ## Le attrazioni più speciali
 
-- **L'Avió:** aereo del 1921 su un braccio girevole che gira sopra la città. È l'immagine simbolo del parco.
-- **Atalaya:** torre che ti solleva sopra la città per una panoramica assoluta.
-- **Museu d'Autòmates:** oltre 200 automi dei secoli XIX e XX.
-- **Zona Megàland:** attrazioni moderne e più adrenaliniche.
+- **L'Avió:** replica del 1928 di un aereo su un braccio girevole che gira sopra la città. È l'immagine simbolo del parco.
+- **Talaia:** braccio panoramico del 1921 che ti solleva sopra la città per una panoramica assoluta.
+- **Museu d'Autòmats:** automi storici dei secoli XIX e XX; il più antico è del 1880.
+- **Merlí:** torre di caduta di 50 metri aperta nel 2024, per chi cerca adrenalina.
 
 ## Il Tempio del Sacro Cuore
 

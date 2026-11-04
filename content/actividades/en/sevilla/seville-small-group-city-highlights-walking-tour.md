@@ -105,10 +105,10 @@ keywords:
 - city highlights seville walking
 - seville tour 4 9 stars
 imagen: /images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp
-imagenAlt: Casas de colores del barrio de Triana junto al rio Guadalquivir
+imagenAlt: "Colourful houses of Triana by the Guadalquivir"
 galeria:
 - src: /images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp
-  alt: Metropol Parasol (Las Setas) en Sevilla
+  alt: "Metropol Parasol (Las Setas) in Seville"
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
   alt: Callejón del Agua in the Santa Cruz quarter
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp

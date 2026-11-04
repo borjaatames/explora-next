@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/valencia/ciudad-artes-ciencias/hemisféric-nubes-ciudad-artes.webp
   alt: L’Hemisfèric sous les nuages, Cité des Arts
 - src: /images/actividades/valencia/ciudad-artes-ciencias/oceanarium-edificio-blanco-valencia.webp
-  alt: Bâtiment de l’Oceanarium de Valence, signé Santiago Calatrava
+  alt: Le bâtiment de l’Oceanogràfic de Valence, avec sa toiture conçue par Félix Candela
 - src: /images/actividades/valencia/oceanografic/oceanografic-entrada.webp
   alt: Entrée de l’Oceanogràfic de Valence
 - src: /images/actividades/valencia/oceanografic/beluga.webp

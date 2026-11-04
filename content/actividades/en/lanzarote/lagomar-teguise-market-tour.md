@@ -96,7 +96,7 @@ galeria:
 - src: /images/actividades/lanzarote/lagomar/flz-jardin-palmeras.webp
   alt: "Jardín con palmeras y cactus junto a la roca en LagOmar"
 - src: /images/actividades/lanzarote/lagomar/flz-terraza-roca.webp
-  alt: "Terraza y puerta blanca excavadas en la roca en LagOmar"
+  alt: "Terrace and white door carved into the rock at LagOmar"
 ---
 
 ## What you will see

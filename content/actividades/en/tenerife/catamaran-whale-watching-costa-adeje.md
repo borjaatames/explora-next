@@ -73,7 +73,7 @@ imagen: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
 imagenAlt: A catamaran sailing off the coast of Tenerife
 galeria:
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
-  alt: Costa de Los Cristianos con el Atlántico al fondo, base de catamaranes en Tenerife
+  alt: "Los Cristianos coast with the Atlantic behind, the catamaran base in Tenerife"
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
   alt: A pilot whale surfacing to breathe
 - src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp

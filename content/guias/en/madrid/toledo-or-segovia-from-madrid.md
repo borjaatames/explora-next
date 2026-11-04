@@ -4,7 +4,7 @@ descripcion: 'Toledo or Segovia from Madrid: train and bus times and prices, wha
 categoria: madrid
 slug: toledo-or-segovia-from-madrid
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: false
@@ -114,6 +114,19 @@ Five or six hours cover the essentials and a relaxed lunch (the step-by-step rou
 ## What about both in one day?
 
 You can, on an organised tour such as [Segovia and Toledo in one day with the Alcázar](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid). It's cheap and well reviewed, but it's about 12 hours with two of them on the coach between cities, and each visit ends up short. If you have two days, do one each day. If you have one, choose and enjoy it properly.
+
+## Other day trips from Madrid (2026)
+
+| Destination | How to get there | Time needed | Approximate price | Best for |
+| --- | --- | --- | --- | --- |
+| Toledo | Avant from Atocha (33 min) or Alsa bus from Plaza Elíptica (50 min direct) | A full day | Train €22-26 return; Cathedral €12 | History, El Greco and the three cultures |
+| Segovia | Avant or AVE from Chamartín (about 25-30 min) plus city bus; or Avanza bus from Moncloa (1 h 15) | A long half day | Train from about €7-14 one way depending on how early you book; bus about €5; Alcázar €7 | Aqueduct, Alcázar and suckling pig, no steep hills |
+| Ávila | Regional train from Príncipe Pío or Chamartín (1 h 20-1 h 40) or Jiménez Dorado bus (1 h 30) | A day | €10-13 one way; walls €8 | Walking the full medieval walls |
+| El Escorial | Cercanías C-3 from Atocha or Chamartín (1 h) or bus 661/664 from Moncloa (50 min) | Half a day | Train €8.50 return; Monastery €14 | Philip II's monastery; closed on Mondays |
+| Aranjuez | Cercanías C-3 from Atocha or Chamartín (about 35-45 min) | Half a day | Train from €5; Royal Palace €9 | Palace and gardens, best in spring |
+| Cuenca | AVE, Avant or Avlo from Atocha (about 55-65 min) | A full day | From about €7 on Avlo; usually €30-40 one way | The Hanging Houses and the Huécar gorge |
+
+*Checked in November 2026: El Escorial and Aranjuez tickets from Patrimonio Nacional's official rates (BOE, 15 October 2025); train and bus details from Renfe, the operators and Omio, with fares that change depending on how early you book.*
 
 ## The short version
 

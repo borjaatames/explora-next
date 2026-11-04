@@ -107,6 +107,7 @@ galeria:
   alt: "Cala dalle acque turchesi a Papagayo"
 - src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
   alt: "Onde sulla riva di una spiaggia di Papagayo"
+avisoReserva: "Guida in italiano solo su richiesta: di solito l'equipaggio parla spagnolo e inglese. Se vuoi le spiegazioni in italiano, chiedilo all'operatore dopo la prenotazione."
 ---
 
 ## Cosa vedrai

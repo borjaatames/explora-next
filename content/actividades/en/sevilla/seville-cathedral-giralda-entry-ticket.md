@@ -119,19 +119,19 @@ imagen: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-07.webp
 imagenAlt: Choir and nave of Seville Cathedral
 galeria:
 - src: /images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-plaza.webp
-  alt: Catedral de Sevilla y la Giralda desde la Plaza Virgen de los Reyes
+  alt: "Seville Cathedral and the Giralda from Plaza Virgen de los Reyes"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-panoramica.webp
   alt: Domes of Seville Cathedral and the Giralda
 - src: /images/actividades/sevilla/catedral-giralda/giralda-catedral-sevilla-dia.webp
-  alt: Catedral y Giralda de Sevilla en un día despejado
+  alt: "Seville Cathedral and the Giralda on a clear day"
 - src: /images/actividades/sevilla/catedral-giralda/giralda-torre-catedral-sevilla.webp
-  alt: La Giralda, torre campanario de la Catedral de Sevilla
+  alt: "The Giralda, bell tower of Seville Cathedral"
 - src: /images/actividades/sevilla/catedral-giralda/giralda-torre-cielo-azul.webp
-  alt: Torre de la Giralda de Sevilla bajo cielo azul
+  alt: "Seville's Giralda tower under a blue sky"
 - src: /images/actividades/sevilla/catedral-giralda/catedral-sevilla-exterior-dia.webp
-  alt: Fachada exterior de la Catedral de Sevilla en día soleado
+  alt: "Exterior of Seville Cathedral on a sunny day"
 - src: /images/actividades/sevilla/catedral-giralda/giralda-detalle-arquitectura.webp
-  alt: La Giralda de Sevilla con detalle de su arquitectura mudéjar
+  alt: "Seville's Giralda, with detail of its Mudéjar architecture"
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-06.webp
   alt: Interior of Seville Cathedral
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-3484729.webp

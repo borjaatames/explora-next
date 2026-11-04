@@ -6,7 +6,7 @@ respuestaCorta: '**Compre o bilhete no site oficial com semanas ou meses de ante
 categoria: "malaga"
 slug: "caminito-del-rey-como-visitar"
 fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: true
@@ -75,6 +75,19 @@ Se o site oficial já aparecer esgotado, em [o que fazer se os bilhetes do Camin
 [actividad: caminito-del-rey-entrada-guia-oficial]
 
 ## Preços, horários e idades
+
+| Item | Dados de 2026 |
+| --- | --- |
+| Bilhete geral | 10 € (máximo 10 por compra), com hora de entrada fixa |
+| Visita guiada oficial | 18 €, grupos até 30 pessoas, em espanhol e inglês |
+| Autocarro entre os dois acessos | 2,50 €; a cada 30 minutos das 8:30 às 16:30, a partir da zona sul |
+| Estacionamento | 2 € por dia |
+| Horário de entrada | Das 9:00 às 14:50 ou 17:20, conforme a época |
+| Idade mínima | 8 anos (leve um documento de identificação) |
+| Comboio desde Málaga | Renfe até El Chorro–Caminito del Rey: cerca de 50 minutos, desde cerca de 5 € por trajeto |
+| Carro desde Málaga | 59 km, pouco mais de 50 minutos |
+
+*Dados verificados em novembro de 2026 no site oficial, caminitodelrey.info; o comboio, na Renfe e na Omio.*
 
 - **Bilhete geral:** 10 € por conta própria e 18 € com visita guiada oficial, sempre no site oficial e com hora fixa de entrada. O **autocarro de ligação** entre a entrada sul (El Chorro) e a norte (Ardales) custa 2,50 € e convém comprá-lo com o bilhete.
 - **Horários:** de terça a domingo, com entradas a cada meia hora a partir das 9h00 até ao início da tarde (mais tarde no verão). **Fecha às segundas** e nos dias de vento forte ou chuva intensa, e nesse caso pode mudar o bilhete para outra data na sua área pessoal, consoante a disponibilidade.

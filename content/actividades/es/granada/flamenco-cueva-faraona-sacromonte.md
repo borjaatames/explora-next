@@ -77,7 +77,7 @@ opinionEditorial: 'De las cuevas del Sacromonte, esta es la más pequeña: solo 
   Lo que pierdes: bebida (los Amayas la incluye), volumen de reseñas (503 frente a 1.107 de Los Amayas o 2.093 de Los Tarantos) y opción en inglés. El espectáculo se hace solo en español, lo cual no es problema para el baile y el cante pero sí limita las posibles explicaciones entre tablas. Si viajas con público no hispanohablante, mejor un tablao en el centro con explicaciones en inglés.
 
 
-  A 18 € es la opción más barata de cueva. El rating 4,7 con la distinción «Mejor valorados» de GetYourGuide y la trayectoria del operador (la propia cueva, sin intermediarios) hacen que sea una apuesta segura para quien valore el formato íntimo por encima del confort de butaca. Conviene ir con calzado cómodo: el camino desde el centro hasta el número 53 del Camino del Sacromonte es cuesta arriba.
+  Desde 16 € es la opción más barata de cueva. El rating 4,7 con la distinción «Mejor valorados» de GetYourGuide y la trayectoria del operador (la propia cueva, sin intermediarios) hacen que sea una apuesta segura para quien valore el formato íntimo por encima del confort de butaca. Conviene ir con calzado cómodo: el camino desde el centro hasta el número 53 del Camino del Sacromonte es cuesta arriba.
 
   '
 atraccionesRelacionadas:

@@ -21,8 +21,8 @@ proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/madrid-l46/madrid-entrada-al-zoo-aquarium-de-madrid-t402103/?partner_id=C71NOAW
 cancelacionGratuita: false
 highlights:
-- Delfines y orcas en el Delfinario
-- Pandas gigantes (Bing Xing y Hua Zuiba)
+- Exhibición de delfines en el Delfinario
+- Pandas gigantes (Jin Xi y Zhu Yu, llegados en 2024)
 - Aquarium con tiburones y rayas
 - Espectáculo de rapaces (Aves de Presa)
 - Más de 2.000 animales de 500 especies
@@ -105,7 +105,7 @@ fecha_actualizacion: '2026-10-17'
 
 ## Qué vas a ver
 
-El Zoo Aquarium de Madrid ocupa **20 hectáreas** en la Casa de Campo y reúne más de **2.000 animales de 500 especies**. Los grandes imanes son los **pandas gigantes** (los únicos en España), el **Delfinario** con actuaciones de delfines y orcas, y el **Aquarium** con tiburones, rayas y criaturas del mar profundo.
+El Zoo Aquarium de Madrid ocupa **20 hectáreas** en la Casa de Campo y reúne más de **2.000 animales de 500 especies**. Los grandes imanes son los **pandas gigantes** (los únicos en España), el **Delfinario** con exhibiciones de delfines, y el **Aquarium** con tiburones, rayas y criaturas del mar profundo.
 
 ## Espectáculos incluidos
 

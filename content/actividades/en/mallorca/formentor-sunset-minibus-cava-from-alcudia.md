@@ -95,9 +95,9 @@ galeria:
 - src: /images/actividades/mallorca/fma-formentor/faro-formentor-carretera.webp
   alt: "Formentor lighthouse at the tip of the cape"
 - src: /images/actividades/mallorca/fma-formentor/cala-mallorca-barcos-fondeados.webp
-  alt: "Barcos fondeados en una cala de Mallorca"
+  alt: "Boats anchored in a Mallorca cove"
 - src: /images/actividades/mallorca/formentor/formentor-02.webp
-  alt: "Faro del Cap de Formentor en lo alto del acantilado"
+  alt: "Cap de Formentor lighthouse on top of the cliff"
 avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 ---
 

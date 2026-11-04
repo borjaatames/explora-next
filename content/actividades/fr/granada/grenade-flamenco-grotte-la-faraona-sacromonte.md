@@ -77,7 +77,7 @@ opinionEditorial: 'Parmi les grottes du Sacromonte, c''est la plus petite : seul
   Ce que vous perdez : la boisson (Los Amayas l''inclut), le volume d''avis (503 contre 1 107 pour Los Amayas ou 2 093 pour Los Tarantos) et l''option en anglais. Le spectacle se fait uniquement en espagnol, ce qui n''est pas un problème pour la danse et le chant, mais limite les éventuelles explications entre les morceaux. Si vous voyagez avec des personnes non hispanophones, mieux vaut un tablao du centre avec des explications en anglais.
 
 
-  À 18 €, c''est l''option de grotte la moins chère. La note de 4,7 avec la distinction « Les mieux notés » de GetYourGuide et l''expérience de l''opérateur (la grotte elle-même, sans intermédiaires) en font un choix sûr pour qui préfère le format intimiste au confort d''un fauteuil. Prévoyez des chaussures confortables : le chemin depuis le centre jusqu''au numéro 53 du Camino del Sacromonte est en montée.
+  À partir de 16 €, c''est l''option de grotte la moins chère. La note de 4,7 avec la distinction « Les mieux notés » de GetYourGuide et l''expérience de l''opérateur (la grotte elle-même, sans intermédiaires) en font un choix sûr pour qui préfère le format intimiste au confort d''un fauteuil. Prévoyez des chaussures confortables : le chemin depuis le centre jusqu''au numéro 53 du Camino del Sacromonte est en montée.
 
   '
 atraccionesRelacionadas:

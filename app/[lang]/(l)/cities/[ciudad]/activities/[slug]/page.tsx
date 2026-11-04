@@ -482,6 +482,7 @@ export default async function ActividadPage({ params }: Props) {
             }}
             galeria={actividad.galeria}
             destacada={actividad.destacada}
+            masReservado={actividad.masReservado}
           />
           <CreditosFotos
             idioma={lang}

@@ -111,7 +111,7 @@ galeria:
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-barrio-santa-cruz-n-hero.webp
   alt: Old-town street lit at night with lantern lights
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-bailaora-escena-pri-hero.webp
-  alt: Espectáculo de flamenco en el Teatro Flamenco de Sevilla
+  alt: "Flamenco show at Teatro Flamenco Sevilla"
 ratingProveedor: 4.7
 numeroOpiniones: 18292
 publicada: true

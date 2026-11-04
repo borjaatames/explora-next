@@ -97,9 +97,9 @@ galeria:
 - src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-paisaje-norte.webp
   alt: "Volcanic landscape in northern Lanzarote near Cueva de los Verdes"
 - src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-espejo-dorado.webp
-  alt: "Reflejos dorados en el interior de la Cueva de los Verdes"
+  alt: "Golden reflections inside the Cueva de los Verdes"
 - src: /images/actividades/lanzarote/famara/x-mirador-rio-pixabay-2463157.webp
-  alt: "La Graciosa vista desde el Mirador del Río"
+  alt: "La Graciosa from the Mirador del Río"
 ---
 
 ## What you will see

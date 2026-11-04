@@ -92,9 +92,9 @@ galeria:
 - src: /images/actividades/santiago-de-compostela/catedral/claustro.webp
   alt: "Cathedral cloister arches in black and white"
 - src: /images/actividades/santiago-de-compostela/noche/x-catedral-unsplash-9vsyheygwi.webp
-  alt: "Fachada del Obradoiro al atardecer"
+  alt: "The Obradoiro façade at sunset"
 - src: /images/actividades/santiago-de-compostela/catedral/botafumeiro-vuelo.webp
-  alt: "Tiraboleiros preparando el botafumeiro"
+  alt: "Tiraboleiros preparing the botafumeiro"
 ---
 
 ## What you will see

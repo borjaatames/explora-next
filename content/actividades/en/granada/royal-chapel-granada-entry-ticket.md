@@ -83,13 +83,13 @@ galeria:
 - src: /images/actividades/granada/capilla-real/capilla-real-retablo-mayor.webp
   alt: Gilded main altarpiece of the Royal Chapel of Granada
 - src: /images/actividades/granada/capilla-real/decoracion-fachada-escudo.webp
-  alt: Escudo de los Reyes Catolicos en la fachada de la Capilla Real
+  alt: "Coat of arms of the Catholic Monarchs on the Royal Chapel façade"
 - src: /images/actividades/granada/capilla-real/galeria-lonja-balcones.webp
-  alt: Galeria de balcones de la Lonja de la Capilla Real de Granada
+  alt: "Balcony gallery of the Lonja next to Granada's Royal Chapel"
 - src: /images/actividades/granada/capilla-real/portada-gotica-pinaculos.webp
-  alt: Portada gotica con pinaculos de la Capilla Real de Granada
+  alt: "Gothic doorway with pinnacles of Granada's Royal Chapel"
 - src: /images/actividades/granada/capilla-real/fachada-lateral-cresteria.webp
-  alt: Fachada lateral con cresteria gotica de la Capilla Real
+  alt: "Side façade of the Royal Chapel with its Gothic cresting"
 - src: /images/actividades/granada/catedral/granada-catedral-04.webp
   alt: The Cathedral, adjoining the Royal Chapel
 - src: /images/actividades/granada/catedral/granada-catedral-06.webp

@@ -85,7 +85,7 @@ imagen: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
 imagenAlt: Sunset from Pico de las Nieves with Roque Nublo and Bentayga
 galeria:
 - src: /images/actividades/gran-canaria/cumbres-estrellas/atardecer-silueta-montanas.webp
-  alt: Silueta de montanas al atardecer en Gran Canaria
+  alt: "Mountain silhouettes at sunset in Gran Canaria"
 - src: /images/actividades/gran-canaria/estrellas/via-lactea-molino.webp
   alt: The Milky Way over a windmill in Gran Canaria
 - src: /images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp

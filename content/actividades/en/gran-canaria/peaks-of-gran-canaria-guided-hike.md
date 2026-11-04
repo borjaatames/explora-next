@@ -100,11 +100,11 @@ galeria:
 - src: /images/actividades/gran-canaria/roque-nublo/fgc-senderistas-silueta-cumbre.webp
   alt: "Silhouettes of two hikers on the summit of Gran Canaria"
 - src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-desde-tejeda.webp
-  alt: "El Roque Nublo sobre las laderas verdes de Tejeda"
+  alt: "Roque Nublo above the green slopes of Tejeda"
 - src: /images/actividades/gran-canaria/roque-nublo/pico-nieves.webp
-  alt: "Pico de las Nieves, el techo de Gran Canaria"
+  alt: "Pico de las Nieves, the highest point in Gran Canaria"
 - src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp
-  alt: "Mar de nubes sobre las cumbres"
+  alt: "Sea of clouds over the summits"
 ---
 
 ## What you will see

@@ -87,7 +87,7 @@ galeria:
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-puente-nue-hero.webp
   alt: Ronda's Puente Nuevo over the gorge
 - src: /images/actividades/sevilla/ronda/vista-tajo-puente-nuevo.webp
-  alt: Vista del Tajo de Ronda desde el Puente Nuevo
+  alt: "The Tajo gorge in Ronda from the Puente Nuevo"
 - src: /images/actividades/malaga/setenil/vista-pueblo.webp
   alt: View of Setenil de las Bodegas
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-paisaje-pu-hero.webp

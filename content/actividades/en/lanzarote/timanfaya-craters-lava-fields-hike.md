@@ -93,9 +93,9 @@ galeria:
 - src: /images/actividades/lanzarote/timanfaya/flz-cono-rojo.webp
   alt: "Slope of a reddish volcanic cone in Timanfaya"
 - src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
-  alt: "Paisaje del Parque Nacional de Timanfaya con el mar al fondo"
+  alt: "Timanfaya National Park with the sea behind"
 - src: /images/actividades/lanzarote/timanfaya/flz-volcan-nubes.webp
-  alt: "Volcán rojizo bajo las nubes en Timanfaya"
+  alt: "Reddish volcano under the clouds in Timanfaya"
 ---
 
 ## What you will see

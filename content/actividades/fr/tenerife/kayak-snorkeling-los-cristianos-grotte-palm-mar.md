@@ -106,6 +106,7 @@ publicada: true
 destacada: false
 fecha: '2026-11-02'
 fecha_actualizacion: '2026-11-02'
+avisoReserva: "Les guides sont attribués selon les disponibilités : un guide francophone n'est pas garanti. Écrivez à l'opérateur par WhatsApp avant le jour pour le demander."
 ---
 
 ## Ce que vous verrez

@@ -86,7 +86,7 @@ imagen: /images/actividades/girona/calella-pals/calella-palafrugell-pueblo.webp
 imagenAlt: White houses of Calella de Palafrugell facing the sea
 galeria:
 - src: /images/actividades/girona/cap-de-creus/pueblo-blanco-bahia-costa-brava.webp
-  alt: Pueblo blanco de la Costa Brava en una bahía tranquila
+  alt: "White Costa Brava village on a calm bay"
 - src: /images/actividades/girona/ciudades/girona-hero.webp
   alt: Girona with the cathedral and the Onyar houses
 - src: /images/actividades/girona/call/call-girona-hero.webp

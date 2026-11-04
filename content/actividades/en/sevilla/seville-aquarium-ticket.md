@@ -79,9 +79,9 @@ imagen: /images/actividades/sevilla/acuario-sevilla/acuario-sevilla-siluetas.web
 imagenAlt: Family watching fish in a large tank at the Seville Aquarium
 galeria:
 - src: /images/actividades/sevilla/acuario-sevilla/museo-artes-sevilla-muelle.webp
-  alt: Edificio histórico de Sevilla cerca del Muelle de las Delicias
+  alt: "Historic building in Seville near the Muelle de las Delicias"
 - src: /images/actividades/sevilla/acuario-sevilla/boveda-mudejar-arcos-sevilla.webp
-  alt: Bóvedas mudéjares con arcos dorados y reflejo en el agua, Sevilla
+  alt: "Mudéjar vaults with golden arches reflected in the water, Seville"
 - src: /images/actividades/sevilla/acuario-sevilla/acuario-sevilla-tunel.webp
   alt: Glass underwater tunnel at the Seville Aquarium
 - src: /images/actividades/sevilla/acuario-sevilla/acuario-sevilla-tanque.webp

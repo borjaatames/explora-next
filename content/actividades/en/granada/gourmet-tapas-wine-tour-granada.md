@@ -66,7 +66,7 @@ keywords:
 - tapas tour granada local guide
 - granada food tour
 imagen: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero-hero.webp
-imagenAlt: Puerta del Vino de la Alhambra de Granada al atardecer
+imagenAlt: "The Puerta del Vino at the Alhambra at sunset"
 galeria:
 - src: /images/actividades/granada/wikimedia/granada-tapas-plato-05.webp
   alt: Red wine with cheese and potato tapas in Granada

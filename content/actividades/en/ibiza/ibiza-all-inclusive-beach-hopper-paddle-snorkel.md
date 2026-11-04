@@ -85,7 +85,7 @@ galeria:
 - src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
   alt: Person stand-up paddleboarding in blue Mediterranean water
 - src: /images/actividades/ibiza/calas/cala-pinos-aguas-turquesas.webp
-  alt: Cala de Ibiza rodeada de pinos con aguas turquesas
+  alt: "Ibiza cove surrounded by pine trees with turquoise water"
 - src: /images/actividades/ibiza/calas/esnorquel-cala-llenya.webp
   alt: Snorkellers in the clear water of Cala Llenya, Ibiza
 - src: /images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp

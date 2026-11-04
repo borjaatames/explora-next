@@ -106,6 +106,7 @@ publicada: true
 destacada: false
 fecha: '2026-11-02'
 fecha_actualizacion: '2026-11-02'
+avisoReserva: "Os guias são atribuídos conforme a disponibilidade: um guia em português não é garantido. Escreve ao operador pelo WhatsApp antes do dia para o pedir."
 ---
 
 ## O que vai ver

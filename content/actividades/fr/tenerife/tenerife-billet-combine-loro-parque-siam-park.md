@@ -55,7 +55,7 @@ informacionImportante:
   aTenerEnCuenta:
   - Chaque billet est valable pour un jour différent ; décidez lequel visiter en premier
   - La Tower of Power (chute libre de 28 m) est soumise à des restrictions d’âge et de santé
-  - Le spectacle des orques de Loro Parque est une démonstration de comportements
+  - Les séances avec orques et dauphins de Loro Parque font débat, car il s’agit d’animaux en captivité ; à vous de décider si vous voulez y assister
   - Le bus gratuit de Loro Parque depuis Puerto de la Cruz facilite beaucoup la visite
 accesibilidad: Les deux parcs sont accessibles en fauteuil roulant. Certaines attractions de Siam Park ont des restrictions.
 politicaCancelacion: Annulation gratuite jusqu’à 24 heures avant, avec remboursement intégral.
@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: Combien économise-t-on avec le billet combiné ?
   respuesta: En général entre 15 et 25 € par rapport aux billets séparés, selon la saison. Comparez avec le prix de chaque billet avant de décider.
 - pregunta: Loro Parque est-il un zoo ou un cirque ?
-  respuesta: C’est un zoo de conservation primé à l’international. Les spectacles d’orques et de dauphins sont des démonstrations de comportements naturels en captivité, pas des numéros de cirque. Loro Parque participe à de nombreux projets de conservation en milieu naturel.
+  respuesta: Loro Parque se présente comme un zoo de conservation et finance des projets en milieu naturel via la Loro Parque Fundación. Il propose des séances avec orques et dauphins qu’il appelle démonstrations de comportements ; garder des cétacés en captivité fait débat, à vous de décider si vous voulez y assister.
 opinionEditorial: Le combiné Loro Parque + Siam Park est l’excursion phare de Tenerife et ne déçoit pas. Loro Parque possède l’une des collections animales les plus impressionnantes d’Europe et Siam Park la meilleure thématisation des parcs aquatiques espagnols. Si vous avez deux jours libres à Tenerife, c’est l’achat idéal.
 guiasRelacionadas:
 - que-voir-a-tenerife
@@ -108,7 +108,7 @@ Ce combiné comprend l’entrée aux **deux plus grands parcs de Tenerife**, et 
 
 Élu **meilleur zoo d’Europe** par TripAdvisor plusieurs années de suite. À ne pas manquer :
 
-- **Orca Ocean** : le plus grand bassin d’orques d’Europe, avec des démonstrations de comportements.
+- **Orca Ocean** : l’installation des orques, avec des séances de démonstration.
 - **Gorilla Island** : une île dédiée aux gorilles des plaines.
 - **Planet Penguin** : une zone réfrigérée avec des manchots royaux.
 - **Les perroquets** : environ 350 espèces de psittacidés, la plus grande collection au monde.

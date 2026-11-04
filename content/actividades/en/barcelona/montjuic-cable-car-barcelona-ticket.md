@@ -90,7 +90,7 @@ galeria:
 - src: /images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-04.webp
   alt: Cabins climbing towards Montjuïc Castle
 - src: /images/actividades/barcelona/barceloneta/barceloneta-view-barcelona-beach-iconic-hotel-hero.webp
-  alt: Playa de la Barceloneta con el hotel Arts al fondo, Barcelona
+  alt: "Barceloneta beach with the Hotel Arts behind, Barcelona"
 - src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
   alt: Palau Nacional (MNAC) on the slopes of Montjuïc
 ratingProveedor: 4.5

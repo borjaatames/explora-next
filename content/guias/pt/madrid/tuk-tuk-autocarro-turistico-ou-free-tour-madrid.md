@@ -122,4 +122,10 @@ O meio-termo se quiser um guia ao vivo só para si: a [visita privada à Gran V�
 4. **Esperar um guia no tuk tuk.** É um audioguia; o condutor não faz de guia.
 5. **Sentar-se no andar de cima ao meio-dia no verão** sem chapéu nem água.
 
+## No Natal: o tuk tuk das luzes
+
+Enquanto as luzes estão acesas (de **21 de novembro a 6 de janeiro**), há uma versão noturna do tuk tuk privado que as percorre, com as datas no calendário de reserva: hora e meia para até 4 pessoas, sem filas ao frio. É aberto, por isso leve casaco. Os restantes planos dessa época estão em [Natal em Madrid](/pt/guides/madrid/natal-em-madrid).
+
+[actividad: tuk-tuk-luces-navidad-madrid]
+
 Para planear o resto da estadia, veja [Madrid em 3 dias](/en/guides/madrid/madrid-in-3-days) e, para gastar o mínimo possível, [Madrid low cost](/en/guides/madrid/madrid-on-a-budget).

@@ -82,19 +82,19 @@ imagen: /images/actividades/valencia/excursiones/guadalest-castillo.webp
 imagenAlt: Guadalest rock and bell tower
 galeria:
 - src: /images/actividades/valencia/guadalest/valle-guadalest-embalse-turquesa.webp
-  alt: Valle y embalse turquesa de Guadalest, Alicante
+  alt: "Valley and turquoise reservoir of Guadalest, Alicante"
 - src: /images/actividades/valencia/guadalest/embalse-guadalest-panoramica.webp
-  alt: Panorámica del embalse de Guadalest con agua azul-turquesa
+  alt: "Panorama of the turquoise Guadalest reservoir"
 - src: /images/actividades/valencia/guadalest/guadalest-embalse-vista-aerea.webp
-  alt: Vista aérea del embalse de Guadalest y sus montañas
+  alt: "Aerial view of the Guadalest reservoir and its mountains"
 - src: /images/actividades/valencia/guadalest/guadalest-montanas-paisaje.webp
-  alt: Paisaje de montañas y embalse de Guadalest, Alicante
+  alt: "Mountains and the Guadalest reservoir, Alicante"
 - src: /images/actividades/valencia/guadalest/embalse-guadalest-aguas-azules.webp
-  alt: Aguas azules del embalse de Guadalest en la provincia de Valencia
+  alt: "Blue water of the Guadalest reservoir"
 - src: /images/actividades/valencia/guadalest/guadalest-lago-naturaleza.webp
-  alt: Lago de Guadalest rodeado de naturaleza montañosa
+  alt: "Guadalest reservoir surrounded by mountains"
 - src: /images/actividades/valencia/guadalest/rio-bosque-colinas-interior-alicante.webp
-  alt: Río y bosque entre colinas del interior de Alicante
+  alt: "River and woodland among the hills of inland Alicante"
 - src: /images/actividades/valencia/excursiones/guadalest-pueblo.webp
   alt: The village of Guadalest on the mountain
 - src: /images/actividades/valencia/excursiones/guadalest-embalse.webp

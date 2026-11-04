@@ -81,7 +81,7 @@ imagen: /images/actividades/gran-canaria/mar/calderones-grupo.webp
 imagenAlt: A pod of pilot whales in the Canary Atlantic
 galeria:
 - src: /images/actividades/gran-canaria/delfines-catamaran/delfines-nadando-superficie.webp
-  alt: Delfines nadando en la superficie del mar
+  alt: "Dolphins swimming at the surface"
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: Puerto Rico de Gran Canaria marina
 - src: /images/actividades/gran-canaria/mar/calderon-tropical.webp

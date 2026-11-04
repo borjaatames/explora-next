@@ -94,6 +94,7 @@ galeria:
   alt: "Spiaggia del Postiguet con il castello di Santa Bárbara"
 - src: /images/actividades/tarragona/banana/fta-banana-boat-arena-chalecos.webp
   alt: "Gonfiabile con giubbotti di salvataggio sulla riva"
+avisoReserva: "L'equipaggio o la guida parla inglese, francese e spagnolo: non ci sono spiegazioni in italiano."
 ---
 
 ## Cosa vedrai

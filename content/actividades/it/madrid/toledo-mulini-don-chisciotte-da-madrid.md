@@ -112,6 +112,7 @@ destacada: false
 fecha: '2026-05-06'
 bokunProductId: 762702
 fecha_actualizacion: '2026-10-25'
+avisoReserva: "La guida parla spagnolo (o italiano, a seconda del gruppo): se non c'è la guida in italiano, hai l'audio in italiano per tutto il tour."
 ---
 
 ## Cosa vedrai

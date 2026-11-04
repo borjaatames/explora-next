@@ -77,11 +77,11 @@ galeria:
 - src: /images/actividades/cordoba/ecuestre/espectaculo-bailaora-caballo-noche.webp
   alt: Flamenco dancer and rider in the Caballerizas Reales arena
 - src: /images/actividades/cordoba/caballerizas/caballo-negro-cuadra.webp
-  alt: Caballo negro en una cuadra
+  alt: "Black horse in a stable"
 - src: /images/actividades/cordoba/ecuestre/espectaculo-bailaora-caballo.webp
   alt: Flamenco dancer beside a horse in the Caballerizas Reales arena
 - src: /images/actividades/cordoba/caballerizas/caballo-palomino-picadero.webp
-  alt: Caballo palomino en un picadero cubierto
+  alt: "Palomino horse in an indoor riding arena"
 - src: /images/actividades/cordoba/ecuestre/espectaculo-doma-caballo-blanco.webp
   alt: Dressage rider on a white horse in the Caballerizas Reales arena
 - src: /images/actividades/cordoba/ecuestre/caballerizas-interior.webp

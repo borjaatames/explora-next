@@ -66,7 +66,7 @@ imagen: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.we
 imagenAlt: The cathedral from Praza da Quintana
 galeria:
 - src: /images/actividades/santiago-de-compostela/catedral/portico-gloria.webp
-  alt: Pórtico de la Gloria de la Catedral de Santiago de Compostela
+  alt: "The Pórtico de la Gloria of Santiago de Compostela Cathedral"
 - src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
   alt: Praza do Obradoiro
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp

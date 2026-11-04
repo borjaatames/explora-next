@@ -89,7 +89,7 @@ imagen: /images/actividades/tenerife/teleferico/teleferico-subida.webp
 imagenAlt: The cable car climbing Teide's slope
 galeria:
 - src: /images/actividades/tenerife/teide/crater-teide-las-canadas.webp
-  alt: Crater del Teide y Las Canadas, Tenerife
+  alt: "Teide crater and Las Cañadas, Tenerife"
 - src: /images/actividades/tenerife/teleferico/teleferico-cabina.webp
   alt: A Teide cable car cabin
 - src: /images/actividades/tenerife/teleferico/estacion-superior.webp
@@ -107,6 +107,7 @@ numeroOpiniones: 6121
 atraccionesRelacionadas:
 - teide
 publicada: true
+masReservado: true
 destacada: true
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-23'

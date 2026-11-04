@@ -99,6 +99,7 @@ galeria:
   alt: "Peixes sobre o fundo arenoso em águas de Gran Canária"
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: "Puerto Rico de Gran Canaria ao entardecer"
+avisoReserva: "A tripulação ou o guia fala inglês e espanhol: não há explicações em português."
 ---
 
 ## O que vai ver

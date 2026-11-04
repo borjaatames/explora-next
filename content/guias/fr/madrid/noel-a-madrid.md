@@ -4,7 +4,7 @@ descripcion: "Noël à Madrid 2026 : quand s'allument les illuminations, le marc
 categoria: "madrid"
 slug: "noel-a-madrid"
 fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: true
@@ -27,7 +27,7 @@ slugs:
   it: natale-a-madrid
   pt: natal-em-madrid
 reservasArriba: true
-respuestaCorta: 'Les illuminations s''allument **fin novembre** et restent jusqu''à l''Épiphanie, sur plus de 250 sites de la ville. L''incontournable : le **marché de la Plaza Mayor**, **Cortylandia** dans la rue Preciados, les illuminations à bord de **Naviluz** ou en tuk-tuk et la **Cavalcade des Rois** du 5 janvier. Allez-y en semaine : les samedis de décembre, le centre est saturé.'
+respuestaCorta: 'Les illuminations s''allument le **samedi 21 novembre** à Cibeles et restent jusqu''au 6 janvier, sur plus de 250 sites de la ville. L''incontournable : le **marché de la Plaza Mayor**, **Cortylandia** dans la rue Preciados, les illuminations à bord de **Naviluz** ou en tuk-tuk et la **Cavalcade des Rois** du 5 janvier. Allez-y en semaine : les samedis de décembre, le centre est saturé.'
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour
@@ -41,7 +41,7 @@ actividades:
 
 | Quoi | Où | Quand | Prix |
 | --- | --- | --- | --- |
-| Illuminations de Noël | Centre et les 21 arrondissements | Fin novembre – Épiphanie | Gratuit |
+| Illuminations de Noël | Centre et les 21 arrondissements (allumage à Cibeles) | 21 novembre 2026 – 6 janvier 2027 | Gratuit |
 | Crèche de la Real Casa de Correos | Puerta del Sol | Fin novembre – 6 janvier | Gratuit |
 | Marché de Noël | Plaza Mayor | Fin novembre – 31 décembre | Gratuit |
 | Cortylandia | El Corte Inglés de Preciados | Fin novembre – 5 janvier | Gratuit |
@@ -53,7 +53,7 @@ actividades:
 | Douze coups de minuit | Puerta del Sol | 31 décembre | Gratuit, places limitées |
 | Cavalcade des Rois | Castellana – Cibeles | 5 janvier, à partir de 18 h | Gratuit |
 
-La mairie confirme les dates exactes en novembre ; celles qui ne sont pas encore officielles sont celles de la dernière édition. Nous mettrons le guide à jour dès la publication des dates 2026.
+**Confirmé (4 novembre 2026) :** la mairie allume les illuminations le samedi 21 novembre lors d'une cérémonie place de Cibeles, et elles restent jusqu'au 6 janvier 2027. L'heure de l'allumage n'est pas encore annoncée. Les autres dates sont celles de la dernière édition en attendant le programme 2026.
 
 ## Voir les illuminations
 

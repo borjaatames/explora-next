@@ -23,10 +23,10 @@ urlReserva: https://www.getyourguide.com/es-es/activity-t54571/?partner_id=C71NO
 cancelacionGratuita: false
 highlights:
 - Vistas panorámicas de Barcelona desde 512 metros de altitud
-- El Avió (avión vintage de 1921, el más antiguo del mundo en funcionamiento)
-- Atalaya (torre de caída libre con vistas de 360° sobre la ciudad)
-- Museu d'Autòmates (200 máquinas automáticas históricas)
-- Zona Megàland con atracciones modernas
+- El Avió (réplica de 1928 del primer vuelo Madrid-Barcelona, el símbolo del parque)
+- Talaia (brazo mirador de 1921 con vistas de 360° sobre la ciudad)
+- Museu d'Autòmats (autómatas históricos desde 1880)
+- Atracciones modernas como la torre de caída Merlí (50 m, 2024)
 incluye:
 - Entrada al Parque de Atracciones Tibidabo
 - Acceso libre a todas las atracciones incluidas en el tipo de entrada
@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: ¿El parque abre todos los días?
   respuesta: No. En temporada baja (otoño, invierno y primavera) el Tibidabo abre solo fines de semana y festivos. En verano también abre entre semana. Consulta el calendario en la web oficial antes de comprar.
 - pregunta: ¿Qué es El Avió?
-  respuesta: Un avión Fokker de 1921 montado sobre un brazo giratorio que da vueltas sobre la ciudad. Es la atracción más famosa y fotografiada del parque; una de las más antiguas del mundo en funcionamiento.
+  respuesta: Una réplica de 1928 del avión del primer vuelo comercial Madrid-Barcelona, colgada de un brazo giratorio que da vueltas sobre la ciudad. Es la atracción más famosa y fotografiada del parque.
 opinionEditorial: 'El Tibidabo es único: no es el parque de atracciones más moderno ni el más grande, pero tiene algo que no tiene ningún otro parque del mundo. Su combinación de nostalgia (el Avió, el Museu d''Autòmates), arquitectura modernista y vistas absolutas sobre Barcelona lo hacen irrepetible. El precio es elevado; comprueba el calendario de apertura antes de ir.'
 guiasRelacionadas:
 - barcelona-con-ninos
@@ -109,10 +109,10 @@ El **Parque de Atracciones Tibidabo** está en la cima de la **Collserola**, a 5
 
 ## Las atracciones más especiales
 
-- **El Avió:** avión Fokker de 1921 montado sobre un brazo giratorio; da vueltas sobre la ciudad con vistas increíbles. La imagen más icónica del parque.
-- **Atalaya:** torre de caída libre sobre la ciudad. En lo alto tienes panorámicas absolutas.
-- **Museu d'Autòmates:** colección de más de 200 máquinas automáticas de los siglos XIX y XX; único en el mundo.
-- **Zona Megàland:** atracciones de adrenalina modernas.
+- **El Avió:** réplica de 1928 del avión del primer vuelo Madrid-Barcelona, colgada de un brazo giratorio; da vueltas sobre la ciudad con vistas increíbles. La imagen más icónica del parque.
+- **Talaia:** brazo mirador de 1921 que te eleva sobre la ciudad. En lo alto tienes panorámicas absolutas.
+- **Museu d'Autòmats:** colección de autómatas históricos de los siglos XIX y XX; el más antiguo es de 1880.
+- **Merlí:** torre de caída de 50 metros, abierta en 2024, para los que buscan adrenalina.
 
 ## El Templo del Sagrado Corazón
 

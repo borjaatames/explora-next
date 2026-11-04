@@ -4,7 +4,7 @@ descripcion: 'Tolède ou Ségovie depuis Madrid : train et bus avec durées et p
 categoria: madrid
 slug: tolede-ou-segovie-depuis-madrid
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: false
@@ -114,6 +114,19 @@ En cinq ou six heures, vous voyez l'essentiel sans vous presser et vous déjeune
 ## Et les deux le même jour ?
 
 C'est possible avec une excursion organisée comme [Ségovie et Tolède en un jour avec l'Alcazar](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid) : elle est bon marché et très bien notée, mais cela fait environ 12 heures, dont deux de bus entre les villes, et la visite de chacune est trop courte. Si vous avez deux jours, faites-en une par jour. Si vous n'en avez qu'un, choisissez et profitez-en bien.
+
+## Autres excursions d'une journée depuis Madrid (2026)
+
+| Destination | Comment y aller | Temps nécessaire | Prix approximatif | Idéal pour |
+| --- | --- | --- | --- | --- |
+| Tolède | Avant depuis Atocha (33 min) ou bus Alsa depuis Plaza Elíptica (50 min en direct) | Une journée entière | Train 22-26 € aller-retour ; cathédrale 12 € | L'histoire, le Greco et les trois cultures |
+| Ségovie | Avant ou AVE depuis Chamartín (environ 25-30 min) puis bus urbain ; ou bus Avanza depuis Moncloa (1 h 15) | Une longue demi-journée | Train à partir d'environ 7-14 € l'aller selon l'anticipation ; bus environ 5 € ; Alcázar 7 € | Aqueduc, Alcázar et cochon de lait, sans fortes côtes |
+| Ávila | Train régional depuis Príncipe Pío ou Chamartín (1 h 20-1 h 40) ou bus Jiménez Dorado (1 h 30) | Une journée | 10-13 € l'aller ; remparts 8 € | Les remparts médiévaux en entier |
+| El Escorial | Cercanías C-3 depuis Atocha ou Chamartín (1 h) ou bus 661/664 depuis Moncloa (50 min) | Une demi-journée | Train 8,50 € aller-retour ; monastère 14 € | Le monastère de Philippe II ; fermé le lundi |
+| Aranjuez | Cercanías C-3 depuis Atocha ou Chamartín (environ 35-45 min) | Une demi-journée | Train à partir de 5 € ; palais royal 9 € | Palais et jardins, idéal au printemps |
+| Cuenca | AVE, Avant ou Avlo depuis Atocha (environ 55-65 min) | Une journée entière | À partir d'environ 7 € en Avlo ; en général 30-40 € l'aller | Les maisons suspendues et les gorges du Huécar |
+
+*Données vérifiées en novembre 2026 : entrées d'El Escorial et d'Aranjuez selon les tarifs officiels de Patrimonio Nacional (BOE du 15 octobre 2025) ; train et bus d'après Renfe, les opérateurs et Omio, avec des prix qui varient selon l'anticipation.*
 
 ## En une phrase
 

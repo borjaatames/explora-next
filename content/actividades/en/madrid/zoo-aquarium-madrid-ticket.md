@@ -56,7 +56,7 @@ accesibilidad: Fully wheelchair-accessible paths throughout the zoo.
 politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
 preguntasFrecuentes:
 - pregunta: Does the zoo have giant pandas?
-  respuesta: Yes. Madrid Zoo is one of the few in Europe with giant pandas. As of 2024, it has three pandas. The enclosure is one of the most visited spots in the zoo.
+  respuesta: Yes. Madrid Zoo is one of the few in Europe with giant pandas. Since 2024 it has a pair of giant pandas, Jin Xi and Zhu Yu. The enclosure is one of the most visited spots in the zoo.
 - pregunta: Are there dolphin shows?
   respuesta: Yes. The dolphinarium shows are included in the standard ticket. Check the daily schedule at the entrance as times vary.
 opinionEditorial: Madrid Zoo is the best family day out in the Spanish capital. The giant pandas alone are worth the visit, but the sheer variety of species — over 6,000 animals — keeps adults as engaged as the children.

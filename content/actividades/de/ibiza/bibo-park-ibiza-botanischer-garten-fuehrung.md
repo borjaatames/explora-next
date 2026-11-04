@@ -100,6 +100,7 @@ galeria:
   alt: "Rosmarinzweige in Nahaufnahme"
 - src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
   alt: "Es Vedrà zwischen Pinien"
+avisoReserva: "Ob die Führung auf Deutsch stattfindet, hängt davon ab, welcher Guide bei deiner Ankunft frei ist. Sonst hast du den kostenlosen Audioguide auf Deutsch."
 ---
 
 ## Was du siehst

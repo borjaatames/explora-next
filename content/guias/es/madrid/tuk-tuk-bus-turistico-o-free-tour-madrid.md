@@ -122,4 +122,10 @@ El punto medio si queréis guía en directo solo para vosotros: la [Gran Vía en
 4. **Esperar un guía en el tuk tuk.** Es audioguía; el conductor no hace de guía.
 5. **Subir al piso de arriba del bus a mediodía en verano** sin gorra ni agua.
 
+## En Navidad: el tuk tuk de las luces
+
+Mientras están encendidas las luces (del **21 de noviembre al 6 de enero**), hay una versión nocturna del tuk tuk privado que las recorre, con fechas en el calendario de reserva: hora y media para hasta 4 personas, sin colas al frío. Va abierto, así que lleva abrigo. El resto de planes de esas fechas están en [Navidad en Madrid](/guias/madrid/navidad-madrid).
+
+[actividad: tuk-tuk-luces-navidad-madrid]
+
 Para organizar el resto de la visita, mira [Madrid en 3 días](/guias/madrid/madrid-en-3-dias) y, si quieres gastar lo mínimo, [Madrid gratis](/guias/madrid/madrid-gratis).

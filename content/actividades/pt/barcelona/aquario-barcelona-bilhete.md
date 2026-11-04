@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: É o melhor aquário de Espanha?
   respuesta: É um dos melhores em fauna mediterrânica. Para fauna oceânica e tropical, o Oceanogràfic de Valência é maior e mais variado.
 - pregunta: Posso mergulhar com os tubarões?
-  respuesta: Sim, há uma atividade especial de mergulho no tanque dos tubarões, com preço à parte e reserva prévia.
+  respuesta: "Sim, com o mergulho em jaula no tanque dos tubarões: não é preciso certificado nem experiência de mergulho, a idade mínima é 8 anos e custa 175 € por pessoa (inclui equipamento, seguro, formação e entrada para ti e um acompanhante). Dura 2 horas, com um máximo de 4 pessoas por sessão, e reserva-se no site do Aquàrium."
 opinionEditorial: 'O Aquàrium de Barcelona tem o túnel de tubarões mais espetacular de Espanha: 80 metros de vidro rodeados de tubarões-touro e raias. A coleção mediterrânica é única. Vale a pena, mesmo com um preço alto: compre online e evita a fila da bilheteira.'
 guiasRelacionadas:
 - barcelona-com-criancas

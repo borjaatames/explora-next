@@ -103,7 +103,7 @@ galeria:
 - src: /images/actividades/ibiza/cala-codolar/ibiza-costa-oeste-acantilados.webp
   alt: Cliffs on the west coast of Ibiza near Cala Codolar
 - src: /images/actividades/ibiza/calas/cala-ibiza-barcos-fondeados.webp
-  alt: Cala de Ibiza con barcos fondeados en aguas azules
+  alt: "Ibiza cove with boats anchored in blue water"
 ratingProveedor: 4.8
 numeroOpiniones: 333
 atraccionesRelacionadas:

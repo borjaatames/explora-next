@@ -4,7 +4,7 @@ descripcion: "Natal em Madrid 2026: quando se acendem as luzes, o mercado da Pla
 categoria: "madrid"
 slug: "natal-em-madrid"
 fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: true
@@ -25,7 +25,7 @@ slugs:
   it: natale-a-madrid
   pt: natal-em-madrid
 reservasArriba: true
-respuestaCorta: "As luzes acendem-se no **final de novembro** e ficam até ao Dia de Reis (6 de janeiro), em mais de 250 pontos da cidade. O imprescindível: o **mercado de Natal da Plaza Mayor**, o **Cortylandia** na Calle Preciados, ver as luzes no autocarro **Naviluz** ou de tuk-tuk e a **Cavalgada dos Reis Magos** a 5 de janeiro. Vá num dia de semana: aos sábados de dezembro o centro fica parado."
+respuestaCorta: "As luzes acendem-se no **sábado, 21 de novembro**, na Plaza de Cibeles e ficam até 6 de janeiro, em mais de 250 pontos da cidade. O imprescindível: o **mercado de Natal da Plaza Mayor**, o **Cortylandia** na Calle Preciados, ver as luzes no autocarro **Naviluz** ou de tuk-tuk e a **Cavalgada dos Reis Magos** a 5 de janeiro. Vá num dia de semana: aos sábados de dezembro o centro fica parado."
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour
@@ -38,7 +38,7 @@ actividades:
 
 | O quê | Onde | Quando | Preço |
 | --- | --- | --- | --- |
-| Luzes de Natal | Centro e os 21 distritos | Final de novembro – 6 de janeiro | Gratuito |
+| Luzes de Natal | Centro e os 21 distritos (acendimento em Cibeles) | 21 de novembro de 2026 – 6 de janeiro de 2027 | Gratuito |
 | Presépio da Real Casa de Correos | Puerta del Sol | Final de novembro – 6 de janeiro | Gratuito |
 | Mercado de Natal | Plaza Mayor | Final de novembro – 31 de dezembro | Gratuito |
 | Cortylandia | El Corte Inglés, Calle Preciados | Final de novembro – 5 de janeiro | Gratuito |
@@ -50,7 +50,7 @@ actividades:
 | Badaladas da passagem de ano | Puerta del Sol | 31 de dezembro | Gratuito, lotação limitada |
 | Cavalgada dos Reis Magos | Castellana – Cibeles | 5 de janeiro, a partir das 18h00 | Gratuito |
 
-A Câmara confirma as datas exatas em novembro; as que ainda não são oficiais são da última edição. Atualizaremos este guia assim que saírem as datas de 2026.
+**Confirmado (4 de novembro de 2026):** a Câmara acende as luzes no sábado, 21 de novembro, com um evento na Plaza de Cibeles, e ficam acesas até 6 de janeiro de 2027. A hora do acendimento ainda não foi anunciada. As restantes datas são da última edição até sair o programa de 2026.
 
 ## Ver as luzes
 

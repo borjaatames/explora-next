@@ -27,12 +27,15 @@ type Props = {
   galeria?: ImagenGaleria[];
   /** Si true, muestra el sello "Recomendado por la redacción" en la esquina. */
   destacada?: boolean;
+  /** Si true, el sello dice «Lo más reservado» (tiene prioridad sobre `destacada`). */
+  masReservado?: boolean;
 };
 
 type Strings = {
   selloLargo: string;
   selloCorto: string;
   selloAriaLabel: string;
+  selloReservado: string;
   abrirGaleriaEn: (alt: string) => string;
   verFotosRestantes: (n: number) => string;
   fotos: (n: number) => string;
@@ -43,6 +46,7 @@ const DICT: Record<Idioma, Strings> = {
     selloLargo: "Recomendado por la redacción",
     selloCorto: "Recomendado",
     selloAriaLabel: "Recomendado por la redacción",
+    selloReservado: "Lo más reservado",
     abrirGaleriaEn: (alt: string) => `Abrir galería en ${alt}`,
     verFotosRestantes: (n: number) => `Ver las ${n} fotos restantes`,
     fotos: (n: number) => `+${n} fotos`,
@@ -51,6 +55,7 @@ const DICT: Record<Idioma, Strings> = {
     selloLargo: "Editor's pick",
     selloCorto: "Editor's pick",
     selloAriaLabel: "Editor's pick",
+    selloReservado: "Most booked",
     abrirGaleriaEn: (alt: string) => `Open gallery at ${alt}`,
     verFotosRestantes: (n: number) => `See the remaining ${n} photos`,
     fotos: (n: number) => `+${n} photos`,
@@ -59,6 +64,7 @@ const DICT: Record<Idioma, Strings> = {
     selloLargo: "Empfehlung der Redaktion",
     selloCorto: "Empfohlen",
     selloAriaLabel: "Empfehlung der Redaktion",
+    selloReservado: "Am meisten gebucht",
     abrirGaleriaEn: (alt: string) => `Galerie öffnen bei ${alt}`,
     verFotosRestantes: (n: number) => `Die restlichen ${n} Fotos ansehen`,
     fotos: (n: number) => `+${n} Fotos`,
@@ -67,6 +73,7 @@ const DICT: Record<Idioma, Strings> = {
     selloLargo: "Coup de cœur de la rédaction",
     selloCorto: "Recommandé",
     selloAriaLabel: "Coup de cœur de la rédaction",
+    selloReservado: "Le plus réservé",
     abrirGaleriaEn: (alt: string) => `Ouvrir la galerie sur ${alt}`,
     verFotosRestantes: (n: number) => `Voir les ${n} photos restantes`,
     fotos: (n: number) => `+${n} photos`,
@@ -75,6 +82,7 @@ const DICT: Record<Idioma, Strings> = {
     selloLargo: "Consigliato dalla redazione",
     selloCorto: "Consigliato",
     selloAriaLabel: "Consigliato dalla redazione",
+    selloReservado: "Il più prenotato",
     abrirGaleriaEn: (alt: string) => `Apri la galleria su ${alt}`,
     verFotosRestantes: (n: number) => `Vedi le altre ${n} foto`,
     fotos: (n: number) => `+${n} foto`,
@@ -83,6 +91,7 @@ const DICT: Record<Idioma, Strings> = {
     selloLargo: "Recomendado pela redação",
     selloCorto: "Recomendado",
     selloAriaLabel: "Recomendado pela redação",
+    selloReservado: "O mais reservado",
     abrirGaleriaEn: (alt: string) => `Abrir a galeria em ${alt}`,
     verFotosRestantes: (n: number) => `Ver as restantes ${n} fotos`,
     fotos: (n: number) => `+${n} fotos`,
@@ -119,6 +128,7 @@ export default function GaleriaActividad({
   principal,
   galeria = [],
   destacada = false,
+  masReservado = false,
 }: Props) {
   const t = dictFor(idioma);
   const [abierto, setAbierto] = useState(false);
@@ -197,8 +207,15 @@ export default function GaleriaActividad({
               />
             </button>
 
-            {/* Sello editorial: solo si destacada */}
-            {destacada && (
+            {/* Sello: «Lo más reservado» (ventas reales) o el editorial si destacada */}
+            {masReservado ? (
+              <div className="absolute top-3 left-3 md:top-4 md:left-4 inline-flex items-center gap-2 bg-piedra-900 text-white text-xs font-semibold px-3 py-2 rounded-md shadow-md pointer-events-none select-none">
+                <span aria-hidden="true" className="text-azafran-400 text-base leading-none">
+                  ★
+                </span>
+                <span>{t.selloReservado}</span>
+              </div>
+            ) : destacada && (
               <div
                 className="absolute top-3 left-3 md:top-4 md:left-4 inline-flex items-center gap-2 bg-piedra-900 text-white text-xs font-semibold px-3 py-2 rounded-md shadow-md pointer-events-none select-none"
                 aria-label={t.selloAriaLabel}

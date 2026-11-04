@@ -89,7 +89,7 @@ galeria:
 - src: /images/actividades/girona/girona-onyar/girona-onyar-pixabay-1974041.webp
   alt: "The Onyar houses lit by the setting sun"
 - src: /images/actividades/girona/girona-onyar/girona-onyar-pexels-13759651.webp
-  alt: "Casas de colores del Onyar reflejadas en el río"
+  alt: "Colourful houses on the Onyar reflected in the river"
 - src: /images/actividades/girona/girona-onyar/girona-onyar-wikimedia-onyar-river-in-girona-4-jpg-02.webp
   alt: "El río Onyar a su paso por Girona"
 ---

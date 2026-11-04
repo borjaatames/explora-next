@@ -80,10 +80,10 @@ keywords:
 - seville by bike with kids
 - cycling tour seville
 imagen: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
-imagenAlt: Puente de Triana iluminado al atardecer
+imagenAlt: "Triana Bridge lit up at dusk"
 galeria:
 - src: /images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp
-  alt: Puesto de frutas y verduras en el Mercado de Triana
+  alt: "Fruit and vegetable stall at the Triana Market"
 - src: /images/actividades/sevilla/bici-sevilla/ciclista-sevilla.webp
   alt: Cyclist in front of San Telmo Palace in Seville
 - src: /images/actividades/sevilla/bici-sevilla/carril-bici-palmera.webp

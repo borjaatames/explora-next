@@ -99,6 +99,7 @@ galeria:
   alt: "Catamarãs à vela na praia de Morro Jable"
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: "Praia de Morro Jable"
+avisoReserva: "A tripulação ou o guia fala inglês, espanhol e alemão: não há explicações em português."
 ---
 
 ## O que vai ver

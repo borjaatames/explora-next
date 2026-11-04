@@ -96,7 +96,7 @@ galeria:
 - src: /images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp
   alt: "Rows of aloe vera in volcanic soil"
 - src: /images/actividades/fuerteventura/granja-aloe/x-aloe-pexels-6223420.webp
-  alt: "Hojas de aloe vera"
+  alt: "Aloe vera leaves"
 ---
 
 ## What you will see

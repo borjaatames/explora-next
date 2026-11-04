@@ -98,6 +98,7 @@ galeria:
   alt: "Escaliers en pierre et jardin aux Jameos del Agua"
 - src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-jardin-estanque.webp
   alt: "Jardin avec bassin à la Fondation César Manrique"
+avisoReserva: "La langue du guide change selon le jour : vérifiez avant de réserver que le français est proposé à votre date."
 ---
 
 ## Ce que vous verrez

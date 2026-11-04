@@ -5,6 +5,8 @@ import type { Idioma } from "@/lib/i18n/types";
  * ExploraSpain», «Nueva»). Tienen que ser ciertas y escasas: como mucho
  * TOPE_POR_ETIQUETA por ciudad, y cada actividad lleva una sola.
  *
+ *  - reservado: las que más reservas nos han dado (`masReservado: true`,
+ *    marcado a mano con ventas reales). Va primero y no cuenta para el tope.
  *  - popular: las que más opiniones tienen en la ciudad (mínimo 500).
  *  - eleccion: destacadas por nosotros (`destacada: true`), las mejor valoradas.
  *  - nueva: publicadas en los últimos DIAS_NUEVA días, las mejor valoradas.
@@ -12,11 +14,12 @@ import type { Idioma } from "@/lib/i18n/types";
  * Se calcula en build (SSG): «Nueva» caduca sola en el siguiente despliegue.
  */
 
-export type EtiquetaActividad = "popular" | "eleccion" | "nueva";
+export type EtiquetaActividad = "reservado" | "popular" | "eleccion" | "nueva";
 
 export type DatosEtiqueta = {
   slug: string;
   destacada?: boolean;
+  masReservado?: boolean;
   fecha?: string;
   ratingProveedor?: number;
   numeroOpiniones?: number;
@@ -51,6 +54,9 @@ export function calcularEtiquetas(
       .forEach((a) => etiquetas.set(a.slug, etiqueta));
   };
 
+  actividades
+    .filter((a) => a.masReservado === true)
+    .forEach((a) => etiquetas.set(a.slug, "reservado"));
   asignar(
     actividades
       .filter((a) => (a.numeroOpiniones ?? 0) >= MIN_OPINIONES_POPULAR)
@@ -73,10 +79,10 @@ export function calcularEtiquetas(
 }
 
 export const TEXTO_ETIQUETA: Record<Idioma, Record<EtiquetaActividad, string>> = {
-  es: { popular: "Más popular", eleccion: "Elección ExploraSpain", nueva: "Nueva" },
-  en: { popular: "Most popular", eleccion: "ExploraSpain pick", nueva: "New" },
-  de: { popular: "Sehr beliebt", eleccion: "ExploraSpain-Tipp", nueva: "Neu" },
-  fr: { popular: "Très populaire", eleccion: "Choix ExploraSpain", nueva: "Nouveau" },
-  it: { popular: "Più popolare", eleccion: "Scelta ExploraSpain", nueva: "Novità" },
-  pt: { popular: "Mais popular", eleccion: "Escolha ExploraSpain", nueva: "Novo" },
+  es: { reservado: "Lo más reservado", popular: "Más popular", eleccion: "Elección ExploraSpain", nueva: "Nueva" },
+  en: { reservado: "Most booked", popular: "Most popular", eleccion: "ExploraSpain pick", nueva: "New" },
+  de: { reservado: "Am meisten gebucht", popular: "Sehr beliebt", eleccion: "ExploraSpain-Tipp", nueva: "Neu" },
+  fr: { reservado: "Le plus réservé", popular: "Très populaire", eleccion: "Choix ExploraSpain", nueva: "Nouveau" },
+  it: { reservado: "Il più prenotato", popular: "Più popolare", eleccion: "Scelta ExploraSpain", nueva: "Novità" },
+  pt: { reservado: "O mais reservado", popular: "Mais popular", eleccion: "Escolha ExploraSpain", nueva: "Novo" },
 };

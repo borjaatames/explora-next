@@ -75,7 +75,7 @@ imagen: /images/actividades/cordoba/patios/patio-macetas.webp
 imagenAlt: Córdoba courtyard with walls full of flowerpots
 galeria:
 - src: /images/actividades/cordoba/patios/patio-macetas-azules-flores.webp
-  alt: Patio cordobes con macetas azules y flores en las paredes
+  alt: "Córdoba patio with blue flowerpots and flowers on the walls"
 - src: /images/actividades/cordoba/patios/patio-festival.webp
   alt: Courtyard in bloom during the Patios Festival
 - src: /images/actividades/cordoba/patios/patio-escalera.webp

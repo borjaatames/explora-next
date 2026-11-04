@@ -6,7 +6,7 @@ respuestaCorta: 'Prendi l''**Avant da Atocha (33 minuti, 22-26 € andata e rito
 categoria: "madrid"
 slug: "toledo-da-madrid-in-un-giorno"
 fecha: "2026-04-02"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: false
@@ -57,6 +57,19 @@ A 70 km da Madrid c'è una città medievale intatta: **Toledo**, dove ebrei, mus
 - **Auto:** 1 ora per la A-42 (gratuita) o la AP-41 (a pedaggio). È l'unico mezzo che permette di fermarsi al **Mirador del Valle**. Nel centro storico non si entra: controllo targhe e multa. Parcheggia a **Safont** (0,40 € l'ora per i non residenti, la tariffa regolamentata più economica di Toledo secondo il Comune), vicino alle scale mobili che salgono al centro, o in quello del Cardenal, vicino alla Puerta de Bisagra.
 - **Autobus Alsa** da Plaza Elíptica: 1 ora, circa 11 € andata e ritorno, ogni 30 minuti nelle ore di punta.
 - **Escursione organizzata:** 45-70 € con trasporto, guida e ingressi, 8-9 ore. Conviene in gruppo o senza auto; in coppia con l'auto, no.
+
+## Orari e prezzi 2026
+
+| Cosa | Orari | Prezzo |
+| --- | --- | --- |
+| Treno Avant Atocha–Toledo | 33 min, circa ogni ora; ultimo da Madrid alle 20:45 (da domenica a giovedì), ultimo ritorno verso le 21:30 | 13-16 € a tratta, 22-26 € andata e ritorno |
+| Autobus Alsa da Plaza Elíptica | 50 min il diretto | Da 6,55 € a tratta |
+| Cattedrale | Da lunedì a sabato 10:00-18:30; domenica 14:00-18:30; ultimo ingresso mezz'ora prima | 12 € |
+| Alcázar (Museo dell'Esercito) | 10:00-17:00, ultimo ingresso 16:30; chiuso il lunedì | 5 €; gratis il mercoledì |
+| Santo Tomé (*La sepoltura del conte di Orgaz*) | 10:00-18:45 dal 1° marzo al 15 ottobre; 10:00-17:45 nel resto dell'anno | 4 € |
+| Braccialetto turistico | 7 monumenti (Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, chiesa dei Gesuiti, El Salvador e Doncellas Nobles), un ingresso ciascuno, valido 7 giorni | 14 € (esclusi Cattedrale e Alcázar) |
+
+*Dati verificati a novembre 2026 sui siti ufficiali della Cattedrale, del Museo dell'Esercito, di Santo Tomé e di Toledo Monumental; treno e autobus secondo Renfe e Alsa. Il sito di Santo Tomé indica ancora 12 € per il braccialetto; in biglietteria e su Toledo Monumental costa 14 €.*
 
 ## L'itinerario di un giorno
 

@@ -4,7 +4,7 @@ descripcion: "Christmas in Madrid 2026: when the lights go on, the Plaza Mayor m
 categoria: "madrid"
 slug: "christmas-in-madrid"
 fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: true
@@ -25,7 +25,7 @@ slugs:
   it: natale-a-madrid
   pt: natal-em-madrid
 reservasArriba: true
-respuestaCorta: 'The lights go on in **late November** and stay up until Epiphany (6 January), at more than 250 spots across the city. The must-dos: the **Plaza Mayor Christmas market**, **Cortylandia** on Calle Preciados, seeing the lights on the **Naviluz** bus or by tuk-tuk, and the **Three Kings Parade** on 5 January. Go on a weekday: on December Saturdays the centre grinds to a halt.'
+respuestaCorta: 'The lights go on on **Saturday 21 November** at Cibeles and stay up until 6 January, at more than 250 spots across the city. The must-dos: the **Plaza Mayor Christmas market**, **Cortylandia** on Calle Preciados, seeing the lights on the **Naviluz** bus or by tuk-tuk, and the **Three Kings Parade** on 5 January. Go on a weekday: on December Saturdays the centre grinds to a halt.'
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour
@@ -38,7 +38,7 @@ actividades:
 
 | What | Where | When | Price |
 | --- | --- | --- | --- |
-| Christmas lights | City centre and all 21 districts | Late November – 6 January | Free |
+| Christmas lights | City centre and all 21 districts (switch-on at Cibeles) | 21 November 2026 – 6 January 2027 | Free |
 | Nativity scene at the Real Casa de Correos | Puerta del Sol | Late November – 6 January | Free |
 | Christmas market | Plaza Mayor | Late November – 31 December | Free |
 | Cortylandia | El Corte Inglés, Calle Preciados | Late November – 5 January | Free |
@@ -50,7 +50,7 @@ actividades:
 | New Year's Eve chimes | Puerta del Sol | 31 December | Free, capacity-limited |
 | Three Kings Parade | Castellana – Cibeles | 5 January, from 18:00 | Free |
 
-The city confirms the exact dates in November; any that aren't official yet are from the last edition. We'll update this guide as soon as the 2026 dates are out.
+**Confirmed (4 November 2026):** the city switches the lights on on Saturday 21 November with an event in Plaza de Cibeles, and they stay on until 6 January 2027. The time of the switch-on has not been announced yet. The other dates are from the last edition until the 2026 programme is out.
 
 ## Seeing the lights
 

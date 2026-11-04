@@ -4,7 +4,7 @@ descripcion: 'Toledo o Segovia desde Madrid: tren y autobús con tiempos y preci
 categoria: madrid
 slug: toledo-o-segovia-desde-madrid
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: false
@@ -114,6 +114,19 @@ Con cinco o seis horas ves lo esencial sin prisas y comes con calma; la ruta pas
 ## ¿Y las dos en el mismo día?
 
 Se puede con una excursión organizada como [Segovia y Toledo en un día con el Alcázar](/ciudades/madrid/actividades/excursion-toledo-segovia-alcazar): es barata y muy valorada, pero son unas 12 horas con dos de autobús entre ciudades, y la visita de cada una se queda corta. Si tienes dos días, haz una cada día. Si solo tienes uno, elige y disfrútala bien.
+
+## Otras excursiones de un día desde Madrid (2026)
+
+| Destino | Cómo ir | Tiempo necesario | Precio aproximado | Ideal para |
+| --- | --- | --- | --- | --- |
+| Toledo | Avant desde Atocha (33 min) o autobús Alsa desde Plaza Elíptica (50 min el directo) | Un día entero | Tren 22-26 € ida y vuelta; Catedral 12 € | Historia, Greco y las tres culturas |
+| Segovia | Avant o AVE desde Chamartín (unos 25-30 min) y bus urbano; o autobús Avanza desde Moncloa (1 h 15) | Medio día largo | Tren desde unos 7-14 € por trayecto según la antelación; bus unos 5 €; Alcázar 7 € | Acueducto, Alcázar y cochinillo, sin cuestas duras |
+| Ávila | Media Distancia desde Príncipe Pío o Chamartín (1 h 20-1 h 40) o autobús Jiménez Dorado (1 h 30) | Un día | 10-13 € por trayecto; muralla 8 € | La muralla medieval entera |
+| El Escorial | Cercanías C-3 desde Atocha o Chamartín (1 h) o autobús 661/664 desde Moncloa (50 min) | Medio día | Tren 8,50 € ida y vuelta; Monasterio 14 € | Felipe II y el monasterio; cierra los lunes |
+| Aranjuez | Cercanías C-3 desde Atocha o Chamartín (unos 35-45 min) | Medio día | Tren desde 5 €; Palacio Real 9 € | Palacio y jardines, mejor en primavera |
+| Cuenca | AVE, Avant o Avlo desde Atocha (unos 55-65 min) | Un día entero | Desde unos 7 € en Avlo; lo normal, 30-40 € por trayecto | Las Casas Colgadas y la hoz del Huécar |
+
+*Datos comprobados en noviembre de 2026: entradas de El Escorial y Aranjuez según las tarifas de Patrimonio Nacional (BOE del 15 de octubre de 2025); tren y autobús según Renfe, los operadores y Omio, con precios que cambian con la antelación.*
 
 ## En una frase
 

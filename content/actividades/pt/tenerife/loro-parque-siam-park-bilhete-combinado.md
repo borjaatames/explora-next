@@ -55,7 +55,7 @@ informacionImportante:
   aTenerEnCuenta:
   - Cada bilhete é válido para um dia diferente; combine qual vai primeiro
   - A Tower of Power (escorrega de queda livre de 28 m) tem restrições de idade e estado de saúde
-  - O espetáculo de orcas no Loro Parque é apenas demonstrativo (não é um espetáculo de circo); muito recomendável
+  - As sessões com orcas e golfinhos do Loro Parque são polémicas por se tratar de animais em cativeiro; decide tu se as queres ver
   - O autocarro gratuito do Loro Parque a partir de Puerto de la Cruz facilita muito a visita
 accesibilidad: Ambos os parques são acessíveis em cadeira de rodas. O Siam Park tem algumas atrações com restrições.
 politicaCancelacion: Cancelamento gratuito até 24 horas antes, com reembolso total.
@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: Quanto poupo com o bilhete combinado?
   respuesta: Normalmente entre 15 e 25 € face à compra dos bilhetes em separado, consoante a época. Verifique o preço de cada bilhete individual antes de decidir.
 - pregunta: O Loro Parque é um jardim zoológico ou um circo?
-  respuesta: É um jardim zoológico de conservação premiado internacionalmente. Os espetáculos de orcas e golfinhos são demonstrações de comportamento natural em cativeiro, não espetáculos de circo convencionais. O Loro Parque é parceiro de numerosos projetos de conservação em liberdade.
+  respuesta: O Loro Parque apresenta-se como um jardim zoológico de conservação e financia projetos em liberdade através da Loro Parque Fundación. Tem sessões com orcas e golfinhos a que chama demonstrações de comportamento; manter cetáceos em cativeiro é um tema polémico, por isso decide tu se as queres ver.
 opinionEditorial: O combinado Loro Parque + Siam Park é a excursão de eleição de Tenerife e não desilude. O Loro Parque tem a coleção de animais mais impressionante da Europa e o Siam Park o melhor design temático de todos os parques aquáticos espanhóis. Se tem dois dias livres em Tenerife, este é o investimento perfeito.
 guiasRelacionadas:
 - o-que-ver-em-tenerife
@@ -106,7 +106,7 @@ Este combinado inclui entrada nos **dois melhores parques de Tenerife** — e po
 
 ### Loro Parque (dia 1)
 O **melhor jardim zoológico da Europa** segundo o TripAdvisor durante vários anos consecutivos. Destaques:
-- **Orca Ocean:** o maior tanque de orcas da Europa, com demonstrações de comportamento.
+- **Orca Ocean:** a instalação das orcas, com sessões de demonstração.
 - **Gorilla Island:** ilha com a maior colónia de gorilas-ocidentais-das-terras-baixas da Europa.
 - **Penguin Island:** zona refrigerada com 200 pinguins-rei.
 - **Loro Parque** (a secção dos papagaios): 350 espécies de psitacídeos, a maior coleção do mundo.

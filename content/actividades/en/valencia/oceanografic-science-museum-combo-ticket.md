@@ -85,11 +85,11 @@ galeria:
 - src: /images/actividades/valencia/oceanografic/oceanografic-tiburon.webp
   alt: Sand tiger shark in the Oceanogràfic's ocean tank
 - src: /images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp
-  alt: Arquitectura del Oceanogràfic de Valencia en la Ciudad de las Artes
+  alt: "Architecture of the Oceanogràfic in Valencia's City of Arts and Sciences"
 - src: /images/actividades/valencia/oceanografic/oceanografic-leon-marino.webp
   alt: Sea lion on a rock at the Oceanogràfic
 - src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp
-  alt: Exterior de la Ciudad de las Artes y Ciencias de Valencia
+  alt: "Exterior of Valencia's City of Arts and Sciences"
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-interior-sala.webp
   alt: The great interior hall of the Science Museum with its exhibits
 - src: /images/actividades/valencia/museo-ciencias/hemisferic-dia.webp

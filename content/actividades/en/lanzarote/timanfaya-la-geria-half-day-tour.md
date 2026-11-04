@@ -98,7 +98,7 @@ galeria:
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
   alt: "Los Hervideros, lava cliffs by the sea"
 - src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
-  alt: "Hileras de hoyos con vides en La Geria vistas desde arriba"
+  alt: "Rows of vine pits in La Geria seen from above"
 ---
 
 ## What you will see

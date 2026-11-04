@@ -49,7 +49,7 @@ imagen: /images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp
 imagenAlt: Landscape of eastern Gran Canaria
 galeria:
 - src: /images/actividades/gran-canaria/tufia/pueblo-pesquero-tufia-panoramica.webp
-  alt: Vista panoramica del pueblo pesquero de Tufia, Gran Canaria
+  alt: "Panoramic view of the fishing village of Tufia, Gran Canaria"
 - src: /images/actividades/gran-canaria/tufia/casas-blancas-bahia-tufia.webp
   alt: Casas blancas junto a la bahia de Tufia, Gran Canaria
 - src: /images/actividades/gran-canaria/guayadeque/barranco-guayadeque.webp

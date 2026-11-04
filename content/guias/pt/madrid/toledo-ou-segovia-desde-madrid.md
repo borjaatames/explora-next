@@ -4,7 +4,7 @@ descripcion: 'Toledo ou Segóvia a partir de Madrid: comboio e autocarro com tem
 categoria: madrid
 slug: toledo-ou-segovia-desde-madrid
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: false
@@ -114,6 +114,19 @@ Com cinco ou seis horas vê o essencial sem pressas e almoça com calma; o rotei
 ## E as duas no mesmo dia?
 
 É possível com uma excursão organizada como [Segóvia e Toledo num dia com o Alcázar](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid): é barata e muito bem avaliada, mas são cerca de 12 horas com duas de autocarro entre cidades, e a visita a cada uma fica curta. Se tiver dois dias, faça uma em cada dia. Se só tiver um, escolha e aproveite-a bem.
+
+## Outras excursões de um dia a partir de Madrid (2026)
+
+| Destino | Como ir | Tempo necessário | Preço aproximado | Ideal para |
+| --- | --- | --- | --- | --- |
+| Toledo | Avant desde Atocha (33 min) ou autocarro Alsa desde Plaza Elíptica (50 min o direto) | Um dia inteiro | Comboio 22-26 € ida e volta; Catedral 12 € | História, El Greco e as três culturas |
+| Segóvia | Avant ou AVE desde Chamartín (cerca de 25-30 min) e autocarro urbano; ou autocarro Avanza desde Moncloa (1 h 15) | Meio dia longo | Comboio desde cerca de 7-14 € por trajeto conforme a antecedência; autocarro cerca de 5 €; Alcázar 7 € | Aqueduto, Alcázar e leitão, sem subidas duras |
+| Ávila | Comboio regional desde Príncipe Pío ou Chamartín (1 h 20-1 h 40) ou autocarro Jiménez Dorado (1 h 30) | Um dia | 10-13 € por trajeto; muralha 8 € | A muralha medieval inteira |
+| El Escorial | Cercanías C-3 desde Atocha ou Chamartín (1 h) ou autocarro 661/664 desde Moncloa (50 min) | Meio dia | Comboio 8,50 € ida e volta; Mosteiro 14 € | O mosteiro de Filipe II; fecha à segunda |
+| Aranjuez | Cercanías C-3 desde Atocha ou Chamartín (cerca de 35-45 min) | Meio dia | Comboio desde 5 €; Palácio Real 9 € | Palácio e jardins, melhor na primavera |
+| Cuenca | AVE, Avant ou Avlo desde Atocha (cerca de 55-65 min) | Um dia inteiro | Desde cerca de 7 € no Avlo; normalmente 30-40 € por trajeto | As Casas Suspensas e o desfiladeiro do Huécar |
+
+*Dados verificados em novembro de 2026: bilhetes de El Escorial e Aranjuez segundo as tarifas oficiais do Patrimonio Nacional (BOE de 15 de outubro de 2025); comboio e autocarro segundo a Renfe, os operadores e a Omio, com preços que variam com a antecedência.*
 
 ## Numa frase
 

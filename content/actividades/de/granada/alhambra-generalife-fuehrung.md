@@ -130,6 +130,7 @@ galeria:
 ratingProveedor: 4.7
 numeroOpiniones: 21100
 publicada: true
+masReservado: true
 destacada: false
 fecha: '2026-05-14'
 guiasRelacionadas:
