@@ -864,6 +864,8 @@ function buildProductLd(
       priceCurrency: actividad.moneda,
       price: actividad.precioDesde,
       availability: "https://schema.org/InStock",
+      // Mismo año natural que priceValidUntil (Search Console lo pide en fichas de comerciantes).
+      validFrom: `${new Date().getFullYear()}-01-01`,
       priceValidUntil: `${new Date().getFullYear()}-12-31`,
       ...(actividad.proveedor === "bokun"
         ? { seller: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: "ExploraSpain" } }
