@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-mallorca.jpg"
 imagen_alt: "Kathedrale von Palma (La Seu) über der Bucht"
-tiempo_lectura: 13
+tiempo_lectura: 6
 keywords:
   - "was sehen auf mallorca"
   - "mallorca in einer woche"

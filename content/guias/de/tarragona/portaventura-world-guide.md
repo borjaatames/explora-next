@@ -12,7 +12,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/portaventura-world-guia.jpg"
 imagen_alt: "Achterbahnen Shambhala und Dragon Khan in PortAventura Park"
-tiempo_lectura: 11
+tiempo_lectura: 5
 keywords:
   - "portaventura"
   - "portaventura tickets"

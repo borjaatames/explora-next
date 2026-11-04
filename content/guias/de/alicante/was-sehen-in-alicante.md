@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-alicante.jpg"
 imagen_alt: "Weiße Häuser im Viertel Santa Cruz unterhalb der Burg"
-tiempo_lectura: 11
+tiempo_lectura: 6
 keywords:
   - "was sehen in alicante"
   - "alicante an einem tag"

@@ -10,7 +10,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/catedral-de-santiago-como-visitar.jpg"
 imagen_alt: "Pórtico de la Gloria in der Kathedrale von Santiago de Compostela"
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "kathedrale von santiago"
   - "pórtico de la gloria"

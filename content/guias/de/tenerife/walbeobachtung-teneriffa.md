@@ -8,7 +8,7 @@ fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 8
+tiempo_lectura: 2
 keywords:
 - walbeobachtung teneriffa
 - delfine teneriffa

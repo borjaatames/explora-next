@@ -12,7 +12,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/isla-de-tabarca-como-visitar.jpg"
 imagen_alt: "Ummauertes Dorf der Insel Tabarca vom Meer aus"
-tiempo_lectura: 11
+tiempo_lectura: 5
 keywords:
   - "insel tabarca"
   - "tabarca ab alicante"

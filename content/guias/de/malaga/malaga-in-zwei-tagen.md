@@ -9,7 +9,7 @@ datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 8
 keywords:
   - "málaga in zwei tagen"
   - "was sehen in málaga"

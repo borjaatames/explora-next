@@ -144,6 +144,9 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
+alternativa:
+  slug: seville-cathedral-giralda-alcazar-guided-tour-tickets
+  motivo: 'If your date is sold out, try the Cathedral, Giralda and Alcázar guided tour: its time slots, especially the private-guide option, often have space sooner.'
 ---
 
 ## What you'll see

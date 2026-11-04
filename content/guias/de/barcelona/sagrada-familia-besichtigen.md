@@ -11,7 +11,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/sagrada-familia-como-visitar.jpg"
 imagen_alt: "Türme und Fassade der Sagrada Família in Barcelona"
-tiempo_lectura: 14
+tiempo_lectura: 10
 keywords:
   - 'sagrada familia tickets'
   - 'sagrada familia eintritt'

@@ -12,7 +12,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/pintxos-bilbao.jpg"
 imagen_alt: "Gildas mit Peperoni, Sardelle und Olive"
-tiempo_lectura: 10
+tiempo_lectura: 4
 keywords:
   - "pintxos bilbao"
   - "bilbao pintxos bars"

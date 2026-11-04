@@ -8,7 +8,7 @@ fecha_actualizacion: '2026-10-07'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 7
+tiempo_lectura: 2
 keywords:
 - dünen von maspalomas
 - anfahrt dünen maspalomas

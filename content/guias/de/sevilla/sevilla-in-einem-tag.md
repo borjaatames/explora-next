@@ -10,7 +10,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-en-1-dia.jpg"
 imagen_alt: "Kanal und Nordturm der Plaza de España in Sevilla"
-tiempo_lectura: 12
+tiempo_lectura: 10
 keywords:
   - "sevilla in einem tag"
   - "sevilla tagesausflug ab madrid"

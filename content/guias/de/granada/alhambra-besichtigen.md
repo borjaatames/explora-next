@@ -12,7 +12,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/alhambra-como-visitar.jpg"
 imagen_alt: "Luftaufnahme der Alhambra in Granada mit der Sierra Nevada im Hintergrund"
-tiempo_lectura: 14
+tiempo_lectura: 12
 keywords:
   - 'alhambra tickets'
   - 'alhambra tickets preis'

@@ -12,7 +12,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-costa-blanca-desde-alicante.jpg"
 imagen_alt: "Das Dorf Guadalest auf seinem Felsen"
-tiempo_lectura: 11
+tiempo_lectura: 5
 keywords:
   - "ausflüge ab alicante"
   - "costa blanca ausflüge"

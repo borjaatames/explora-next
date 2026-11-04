@@ -11,7 +11,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/mallorca-con-ninos.jpg"
 imagen_alt: "Wasserrutschen in einem Wasserpark auf Mallorca"
-tiempo_lectura: 11
+tiempo_lectura: 3
 keywords:
   - "mallorca mit kindern"
   - "mallorca mit familie"

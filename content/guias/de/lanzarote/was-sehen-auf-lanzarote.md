@@ -9,7 +9,7 @@ fecha_actualizacion: '2026-10-24'
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 8
+tiempo_lectura: 6
 keywords:
 - was sehen auf lanzarote
 - lanzarote in 4 tagen

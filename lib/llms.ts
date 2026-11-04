@@ -6,6 +6,7 @@ import {
 } from "@/lib/actividades";
 import { urlActividadesDeCiudad } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
+import { rutaIndexable } from "@/lib/i18n/indexacion";
 
 /**
  * Generadores de /llms.txt y /llms-full.txt (propuesta llmstxt.org).
@@ -106,12 +107,41 @@ const CABECERA: string[] = [
   "",
 ];
 
+/** Guías de un idioma que Google puede indexar (en DE solo una parte). */
+function guiasPublicables(idioma: Idioma): GuiaListItem[] {
+  return obtenerListaGuias(idioma).filter((g) => rutaIndexable(g.url));
+}
+
+/** Última fecha de la guía: actualización si la hay, si no publicación. */
+function fechaGuia(g: GuiaListItem): string {
+  return [g.fecha_actualizacion ?? "", g.fecha].sort().pop() ?? "";
+}
+
+const MAX_NOVEDADES = 20;
+
 export function generarLlmsTxt(): string {
   const ciudades = obtenerListaCiudades("es");
   const partes: string[] = [...CABECERA];
 
+  // Lo más reciente primero: los asistentes priorizan fuentes con fecha.
+  const novedades = (["es", "en"] as const).flatMap((idioma) =>
+    guiasPublicables(idioma)
+      .sort((a, b) => fechaGuia(b).localeCompare(fechaGuia(a)))
+      .slice(0, MAX_NOVEDADES / 2)
+  );
+  if (novedades.length > 0) {
+    partes.push(
+      "## Novedades / Latest guides",
+      "",
+      ...novedades.map((g) =>
+        enlace(g.titulo, g.url, `${g.descripcion} (${fechaGuia(g)})`)
+      ),
+      ""
+    );
+  }
+
   const agotadas = SECCIONES.flatMap(({ idioma }) =>
-    obtenerListaGuias(idioma).filter(esGuiaAgotadas)
+    guiasPublicables(idioma).filter(esGuiaAgotadas)
   );
   if (agotadas.length > 0) {
     partes.push(
@@ -137,7 +167,7 @@ export function generarLlmsTxt(): string {
   );
 
   for (const { idioma, titulo } of SECCIONES) {
-    const guias = obtenerListaGuias(idioma).filter(
+    const guias = guiasPublicables(idioma).filter(
       (g) => !esGuiaAgotadas(g)
     );
     if (guias.length === 0) continue;
@@ -180,7 +210,7 @@ export function generarLlmsTxt(): string {
 export function generarLlmsFullTxt(): string {
   const partes: string[] = [...CABECERA];
   for (const { idioma, titulo } of SECCIONES) {
-    const guias = obtenerListaGuias(idioma);
+    const guias = guiasPublicables(idioma);
     if (guias.length === 0) continue;
     partes.push(`## ${titulo}`, "");
     for (const [ciudad, lista] of agruparPorCiudad(guias, idioma)) {

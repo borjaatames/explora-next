@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/bilbao-en-un-dia.jpg"
 imagen_alt: "Plaza Nueva in der Altstadt von Bilbao"
-tiempo_lectura: 11
+tiempo_lectura: 5
 keywords:
   - "was sieht man in bilbao"
   - "bilbao an einem tag"

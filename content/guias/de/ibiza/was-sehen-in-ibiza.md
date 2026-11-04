@@ -8,7 +8,7 @@ fecha_actualizacion: "2026-04-03"
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 6
 keywords:
   - "was sehen in ibiza"
   - "ibiza in zwei tagen"

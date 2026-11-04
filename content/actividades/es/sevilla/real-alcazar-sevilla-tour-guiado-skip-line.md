@@ -144,6 +144,9 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
+alternativa:
+  slug: catedral-giralda-alcazar-sevilla-tour-guiado-entradas
+  motivo: 'Si no quedan entradas para tu fecha, prueba el tour de Catedral, Giralda y Alcázar con guía: sus horarios, sobre todo los de guía privado, suelen tener plazas antes.'
 ---
 
 ## Qué vas a ver

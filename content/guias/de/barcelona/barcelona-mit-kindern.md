@@ -10,7 +10,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/barcelona-con-ninos.jpg"
 imagen_alt: "Freizeitpark Tibidabo mit Barcelona im Hintergrund"
-tiempo_lectura: 13
+tiempo_lectura: 9
 keywords:
   - "barcelona mit kindern"
   - "was tun in barcelona mit kindern"

@@ -11,7 +11,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-bilbao.jpg"
 imagen_alt: "San Juan de Gaztelugatxe mit Kapelle und Steinbrücke"
-tiempo_lectura: 11
+tiempo_lectura: 5
 keywords:
   - "ausflüge ab bilbao"
   - "gaztelugatxe"

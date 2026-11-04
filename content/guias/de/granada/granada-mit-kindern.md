@@ -10,7 +10,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/granada-con-ninos.jpg"
 imagen_alt: "Gärten des Generalife in Granada"
-tiempo_lectura: 13
+tiempo_lectura: 10
 keywords:
   - "granada mit kindern"
   - "was tun in granada mit kindern"

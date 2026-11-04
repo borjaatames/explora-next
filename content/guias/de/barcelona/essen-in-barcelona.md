@@ -10,7 +10,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-barcelona-criterio.jpg"
 imagen_alt: "Süßigkeitenstand im Mercat de la Boqueria"
-tiempo_lectura: 14
+tiempo_lectura: 10
 keywords:
   - "essen in barcelona"
   - "wo essen in barcelona"

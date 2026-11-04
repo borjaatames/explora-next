@@ -10,7 +10,7 @@ fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 10
+tiempo_lectura: 4
 keywords:
   - "essen in málaga"
   - "málaga restaurants tipps"

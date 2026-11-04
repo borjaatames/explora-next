@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/actividades/mallorca/soller/port-de-soller-vista.webp"
 imagen_alt: "Port de Sóller und seine Bucht von der Serra de Tramuntana aus gesehen"
-tiempo_lectura: 12
+tiempo_lectura: 4
 keywords:
   - "serra de tramuntana"
   - "zug von sóller"

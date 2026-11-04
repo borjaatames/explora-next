@@ -8,7 +8,7 @@ fecha_actualizacion: '2026-10-24'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 6
+tiempo_lectura: 4
 keywords:
 - la graciosa
 - la graciosa anreise

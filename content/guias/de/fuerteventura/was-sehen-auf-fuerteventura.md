@@ -9,7 +9,7 @@ fecha_actualizacion: '2026-10-24'
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 7
+tiempo_lectura: 5
 keywords:
 - was sehen auf fuerteventura
 - fuerteventura in 5 tagen

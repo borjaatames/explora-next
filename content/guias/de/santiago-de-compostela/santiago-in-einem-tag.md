@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/santiago-en-un-dia.jpg"
 imagen_alt: "Die Plaza del Obradoiro vor der Kathedrale"
-tiempo_lectura: 11
+tiempo_lectura: 5
 keywords:
   - "was sieht man in santiago de compostela"
   - "santiago an einem tag"

@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarragona-en-un-dia.jpg"
 imagen_alt: "Die Kathedrale von Tarragona"
-tiempo_lectura: 11
+tiempo_lectura: 5
 keywords:
   - "was sehen in tarragona"
   - "tarragona in einem tag"

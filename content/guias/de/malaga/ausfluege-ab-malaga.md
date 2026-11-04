@@ -10,7 +10,7 @@ fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 11
+tiempo_lectura: 5
 keywords:
   - "ausflüge ab málaga"
   - "málaga tagesausflüge"

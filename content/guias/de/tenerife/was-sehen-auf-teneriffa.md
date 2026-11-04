@@ -8,7 +8,7 @@ fecha_actualizacion: '2026-10-07'
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 3
 keywords:
 - was sehen auf teneriffa
 - teneriffa in 5 tagen

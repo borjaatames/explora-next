@@ -10,7 +10,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-tapas-criterio.jpg"
 imagen_alt: "Tapas in Tonschalen auf einem Tisch in Sevilla"
-tiempo_lectura: 11
+tiempo_lectura: 14
 keywords:
   - "tapas sevilla"
   - "wo tapas essen in sevilla"

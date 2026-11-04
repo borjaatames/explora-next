@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, type MouseEvent } from "react";
 import type { Idioma } from "@/lib/i18n/types";
 import { ANCLA_RESERVA } from "@/lib/reservaBokun";
 import { urlWhatsApp } from "@/lib/contacto";
@@ -30,42 +30,65 @@ import { urlWhatsApp } from "@/lib/contacto";
 const UMBRAL_PX = 8;
 
 
-const DICT: Record<Idioma, { aria: string; tooltip: string; mensaje: string }> = {
+const DICT: Record<
+  Idioma,
+  { aria: string; tooltip: string; mensaje: string; sobre: string }
+> = {
   es: {
     aria: "Contactar por WhatsApp",
     tooltip: "Hablar con un experto",
     mensaje: "Hola, tengo una consulta sobre las experiencias de ExploraSpain.",
+    sobre: "Hola, tengo una consulta sobre:",
   },
   en: {
     aria: "Contact us on WhatsApp",
     tooltip: "Talk to an expert",
     mensaje: "Hi, I have a question about ExploraSpain's experiences.",
+    sobre: "Hi, I have a question about:",
   },
   de: {
     aria: "Über WhatsApp kontaktieren",
     tooltip: "Mit einem Experten sprechen",
     mensaje: "Hallo, ich habe eine Frage zu den Erlebnissen von ExploraSpain.",
+    sobre: "Hallo, ich habe eine Frage zu:",
   },
   fr: {
     aria: "Nous contacter sur WhatsApp",
     tooltip: "Parler à un expert",
     mensaje: "Bonjour, j’ai une question sur les expériences d’ExploraSpain.",
+    sobre: "Bonjour, j’ai une question sur :",
   },
   it: {
     aria: "Contattaci su WhatsApp",
     tooltip: "Parla con un esperto",
     mensaje: "Ciao, ho una domanda sulle esperienze di ExploraSpain.",
+    sobre: "Ciao, ho una domanda su:",
   },
   pt: {
     aria: "Contactar por WhatsApp",
     tooltip: "Falar com um especialista",
     mensaje: "Olá, tenho uma questão sobre as experiências da ExploraSpain.",
+    sobre: "Olá, tenho uma questão sobre:",
   },
 };
 
 export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
   const t = DICT[idioma];
   const href = urlWhatsApp(t.mensaje);
+
+  /**
+   * Al pulsar, el mensaje incluye la página que estaba viendo el cliente
+   * (título H1 y URL) para saber de qué actividad pregunta. En la portada,
+   * o si la página no tiene H1, se queda el mensaje genérico.
+   */
+  const alPulsar = (evento: MouseEvent<HTMLAnchorElement>): void => {
+    const titulo = document.querySelector("main h1, h1")?.textContent?.trim();
+    const ruta = window.location.pathname;
+    const esPortada = ruta === "/" || /^\/[a-z]{2}\/?$/.test(ruta);
+    if (!titulo || esPortada) return;
+    const url = `${window.location.origin}${ruta}`;
+    evento.currentTarget.href = urlWhatsApp(`${t.sobre} ${titulo}\n${url}`);
+  };
 
   const [oculto, setOculto] = useState<boolean>(false);
   const [sobreReserva, setSobreReserva] = useState<boolean>(false);
@@ -101,6 +124,7 @@ export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
   return (
     <a
       href={href}
+      onClick={alPulsar}
       target="_blank"
       rel="noopener noreferrer"
       aria-label={t.aria}

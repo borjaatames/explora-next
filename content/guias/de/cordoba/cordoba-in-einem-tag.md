@@ -9,7 +9,7 @@ datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 6
 keywords:
   - "córdoba an einem tag"
   - "was sehen in córdoba"

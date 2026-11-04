@@ -12,7 +12,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/museo-guggenheim-como-visitar.jpg"
 imagen_alt: "Das Guggenheim-Museum an der Flussmündung von Bilbao"
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "guggenheim bilbao"
   - "guggenheim bilbao tickets"

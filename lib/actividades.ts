@@ -419,8 +419,9 @@ const SLUGS_ACTIVIDADES_HOME: ReadonlyArray<{ ciudad: string; slug: string }> = 
   { ciudad: "barcelona", slug: "entrada-sagrada-familia-audioguia" },
   { ciudad: "granada", slug: "visita-guiada-alhambra-generalife" },
   { ciudad: "madrid", slug: "museo-prado-entrada" },
-  { ciudad: "barcelona", slug: "park-guell-entrada-zona-monumental" },
-  { ciudad: "madrid", slug: "bernabeu-ticket-acceso" },
+  // Lo que más se reserva en GYG (oct-nov 2026): Caminito del Rey y Teide.
+  { ciudad: "malaga", slug: "caminito-del-rey-guiado-desde-malaga" },
+  { ciudad: "tenerife", slug: "teide-teleferico-traslado" },
   { ciudad: "sevilla", slug: "sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar" },
   { ciudad: "madrid", slug: "excursion-toledo-segovia-alcazar" },
   { ciudad: "sevilla", slug: "teatro-flamenco-sevilla-show-mas-vendido" },

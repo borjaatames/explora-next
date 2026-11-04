@@ -12,7 +12,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarraco-romana-que-ver.jpg"
 imagen_alt: "Das römische Amphitheater von Tarragona am Meer"
-tiempo_lectura: 12
+tiempo_lectura: 4
 keywords:
   - "tarragona römische ruinen"
   - "tarraco römisch"

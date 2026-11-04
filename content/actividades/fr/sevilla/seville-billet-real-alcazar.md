@@ -60,7 +60,7 @@ preguntasFrecuentes:
   respuesta: 'Entre une heure et demie et deux heures : 45 à 60 minutes pour les palais et le reste pour les jardins. Au printemps, quand les jardins sont en fleurs, cela vaut la peine de prolonger.'
 - pregunta: Peut-on le combiner avec la cathédrale le même jour ?
   respuesta: Oui, ils sont à 100 mètres l'un de l'autre. Le plus pratique est l'Alcázar à la première heure et la cathédrale après le déjeuner, ou de réserver la formule 3 monuments avec accès prioritaire.
-avisoReserva: Les billets de l'Alcázar sont épuisés plusieurs jours à l'avance, y compris sur GetYourGuide
+avisoReserva: Les billets de l'Alcázar sont épuisés plusieurs jours à l'avance, y compris sur GetYourGuide. S’il n’en reste plus, le guichet du Patio de Banderas vend des billets pour le jour même, en nombre limité par créneau.
 opinionEditorial: L'Alcázar est la visite numéro un de Séville et, en saison, la file au guichet dépasse l'heure. Avec un billet horodaté, vous entrez à votre heure et évitez le soleil. Réservez plusieurs jours à l'avance au printemps et pendant la Semaine sainte.
 categoria: entradas
 keywords:
@@ -98,6 +98,9 @@ publicada: true
 destacada: true
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-17'
+alternativa:
+  slug: seville-visite-guidee-cathedrale-giralda-alcazar-billets-inclus
+  motivo: 'Si votre date est complète, essayez la visite guidée Cathédrale, Giralda et Alcázar : ses créneaux, surtout l’option avec guide privé, ont souvent de la place plus tôt.'
 ---
 
 ## Ce que vous verrez

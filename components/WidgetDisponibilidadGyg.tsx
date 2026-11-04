@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState, type ReactNode } from "react";
+import { campanaConCanal } from "@/lib/canalVisita";
 import type { Idioma } from "@/lib/i18n/types";
 import {
   ANCLA_WIDGET_GYG,
@@ -164,7 +165,7 @@ export default function WidgetDisponibilidadGyg({
           data-gyg-widget="availability"
           data-gyg-variant="vertical"
           data-gyg-partner-id={GYG_PARTNER_ID}
-          data-gyg-cmp={campana}
+          data-gyg-cmp={campanaConCanal(campana)}
         >
           <span className="text-xs text-piedra-500">
             Powered by{" "}

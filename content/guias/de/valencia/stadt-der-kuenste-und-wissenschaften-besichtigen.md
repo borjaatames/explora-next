@@ -8,7 +8,7 @@ fecha_actualizacion: "2026-03-04"
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 4
 keywords:
   - "stadt der künste und wissenschaften"
   - "oceanogràfic tickets"

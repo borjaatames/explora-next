@@ -11,7 +11,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/granada-en-2-dias.jpg"
 imagen_alt: "Morgendämmerung am Palast Karls V. innerhalb der Alhambra"
-tiempo_lectura: 14
+tiempo_lectura: 16
 keywords:
   - "granada in 2 tagen"
   - "was sehen in granada"

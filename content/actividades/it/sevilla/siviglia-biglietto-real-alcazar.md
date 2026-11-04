@@ -60,7 +60,7 @@ preguntasFrecuentes:
   respuesta: 'Tra un''ora e mezza e due ore: 45-60 minuti per i palazzi e il resto per i giardini. In primavera, quando i giardini sono in fiore, vale la pena trattenersi di più.'
 - pregunta: Si può abbinare alla Cattedrale nello stesso giorno?
   respuesta: Sì, sono a 100 metri l'uno dall'altra. La cosa più comoda è l'Alcázar a prima ora e la Cattedrale dopo pranzo, oppure prenotare il pacchetto di 3 monumenti con accesso prioritario.
-avisoReserva: I biglietti per l'Alcázar si esauriscono con diversi giorni di anticipo, anche su GetYourGuide
+avisoReserva: I biglietti per l'Alcázar si esauriscono con diversi giorni di anticipo, anche su GetYourGuide. Se sono esauriti, la biglietteria del Patio de Banderas vende biglietti per il giorno stesso, con posti limitati per fascia oraria.
 opinionEditorial: L'Alcázar è la visita numero uno di Siviglia e in alta stagione la coda in biglietteria supera l'ora. Con il biglietto a fascia oraria entri al tuo orario e ti risparmi il sole. Prenota con qualche giorno di anticipo in primavera e durante la Settimana Santa.
 categoria: entradas
 keywords:
@@ -98,6 +98,9 @@ publicada: true
 destacada: true
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-17'
+alternativa:
+  slug: siviglia-cattedrale-giralda-alcazar-visita-guidata-biglietti
+  motivo: 'Se la tua data è esaurita, prova la visita guidata Cattedrale, Giralda e Alcázar: i suoi orari, soprattutto l’opzione con guida privata, hanno spesso posti prima.'
 ---
 
 ## Cosa vedrai

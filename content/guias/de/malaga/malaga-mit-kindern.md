@@ -10,7 +10,7 @@ fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 10
+tiempo_lectura: 5
 keywords:
   - "málaga mit kindern"
   - "málaga familienurlaub"

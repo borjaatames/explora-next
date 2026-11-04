@@ -12,7 +12,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/carnaval-de-cadiz.jpg"
 imagen_alt: "Fassade der Kathedrale von Cádiz"
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "karneval cádiz"
   - "karneval cádiz 2027"

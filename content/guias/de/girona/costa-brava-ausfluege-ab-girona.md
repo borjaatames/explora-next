@@ -10,7 +10,7 @@ datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "costa brava ausflüge"
   - "ausflüge ab girona"

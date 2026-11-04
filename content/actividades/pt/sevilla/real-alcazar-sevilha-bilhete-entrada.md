@@ -60,7 +60,7 @@ preguntasFrecuentes:
   respuesta: 'Entre hora e meia e duas horas: 45-60 minutos para os palácios e o resto para os jardins. Na primavera, quando os jardins estão em flor, vale a pena prolongar.'
 - pregunta: Pode combinar-se com a Catedral no mesmo dia?
   respuesta: Sim, ficam a 100 metros. O mais cómodo é o Alcázar logo de manhã e a Catedral depois de almoço, ou reservar o pack de 3 monumentos com acesso prioritário.
-avisoReserva: Os bilhetes do Alcázar esgotam com vários dias de antecedência, também no GetYourGuide
+avisoReserva: Os bilhetes do Alcázar esgotam com vários dias de antecedência, também no GetYourGuide. Se esgotarem, a bilheteira do Patio de Banderas vende bilhetes para o próprio dia, com lugares limitados por horário.
 opinionEditorial: O Alcázar é a visita número um de Sevilha e a fila da bilheteira na época alta passa de uma hora. Com bilhete com horário marcado entra à sua hora e poupa-se ao sol. Reserve com dias de antecedência na primavera e na Semana Santa.
 guiasRelacionadas:
 - alcazar-de-sevilha-como-visitar

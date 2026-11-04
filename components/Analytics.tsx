@@ -7,6 +7,7 @@ import {
   COOKIE_CONSENT_EVENT,
   emitirConsentGtag,
 } from "@/lib/cookies";
+import { registrarCanalVisita, etiquetarEnlacesGyg } from "@/lib/canalVisita";
 
 type Props = {
   /**
@@ -34,6 +35,12 @@ type Props = {
  * Google modela conversiones agregadas (clave para Google Ads).
  */
 export default function Analytics({ gaId }: Props) {
+  // Canal de llegada (ia, ads, google, dir…) para la etiqueta `cmp` de GYG.
+  useEffect(() => {
+    registrarCanalVisita();
+    return etiquetarEnlacesGyg();
+  }, []);
+
   useEffect(() => {
     // Sincroniza el consent al cargar: si el usuario ya había decidido en
     // una sesión anterior, gtag debe saberlo. Si está en "pending", el

@@ -12,7 +12,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/camino-de-santiago-ultimos-100-km.jpg"
 imagen_alt: "Rúa do Franco mit der Kathedrale von Santiago im Hintergrund"
-tiempo_lectura: 12
+tiempo_lectura: 6
 keywords:
   - "jakobsweg letzte 100 km"
   - "jakobsweg ab sarria"

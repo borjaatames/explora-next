@@ -60,7 +60,7 @@ preguntasFrecuentes:
   respuesta: 'Between 1.5 and 2 hours: 45-60 minutes for the palaces and the rest for the gardens. In spring, when the gardens are in bloom, it is worth lingering.'
 - pregunta: Can I combine it with the Cathedral on the same day?
   respuesta: Yes, they are 100 metres apart. The easy plan is the Alcázar first thing and the Cathedral after lunch, or book the 3-monument priority pass.
-avisoReserva: Alcázar tickets usually sell out several days ahead, on GetYourGuide too
+avisoReserva: Alcázar tickets usually sell out several days ahead, on GetYourGuide too. If none are left, the Patio de Banderas ticket office sells same-day tickets, with limited places per time slot.
 opinionEditorial: The Alcázar is Seville's number one visit and the box-office queue in season exceeds an hour. With a timed ticket you walk in at your time and skip the sun. Book days ahead in spring and at Easter.
 guiasRelacionadas:
 - alcazar-of-seville-how-to-visit
@@ -102,6 +102,9 @@ publicada: true
 destacada: true
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-17'
+alternativa:
+  slug: seville-cathedral-giralda-alcazar-guided-tour-tickets
+  motivo: 'If your date is sold out, try the Cathedral, Giralda and Alcázar guided tour: its time slots, especially the private-guide option, often have space sooner.'
 ---
 
 ## What you'll see

@@ -12,7 +12,7 @@ publicada: true
 destacada: false
 imagen_portada: /images/actividades/granada/ronda/ronda-wikimedia-ronda-spain-puente-nuevo-de-ronda-01-jpg.webp
 imagen_alt: Die Brücke Puente Nuevo in Ronda über der Schlucht El Tajo, von unten gesehen
-tiempo_lectura: 6
+tiempo_lectura: 4
 keywords:
   - ronda sehenswürdigkeiten
   - ronda an einem tag

@@ -10,7 +10,7 @@ publicada: true
 destacada: true
 imagen_portada: "/images/guias/cadiz-en-un-dia.jpg"
 imagen_alt: "Die Dächer von Cádiz vom Torre Tavira aus"
-tiempo_lectura: 11
+tiempo_lectura: 6
 keywords:
   - "was sieht man in cadiz"
   - "cadiz an einem tag"

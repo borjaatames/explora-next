@@ -10,7 +10,7 @@ datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 10
+tiempo_lectura: 4
 keywords:
   - "game of thrones girona"
   - "girona game of thrones drehorte"

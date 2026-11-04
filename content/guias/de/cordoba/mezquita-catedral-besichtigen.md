@@ -9,7 +9,7 @@ fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 4
 keywords:
   - 'mezquita córdoba tickets'
   - 'mezquita córdoba führung'

@@ -11,7 +11,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/sevilla-con-ninos.jpg"
 imagen_alt: "Wasserattraktion Iguazú im Freizeitpark Isla Mágica"
-tiempo_lectura: 14
+tiempo_lectura: 19
 keywords:
   - "sevilla mit kindern"
   - "was tun in sevilla mit kindern"

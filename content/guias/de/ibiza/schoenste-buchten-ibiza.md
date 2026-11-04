@@ -11,7 +11,7 @@ datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 11
+tiempo_lectura: 5
 keywords:
   - "ibiza schönste buchten"
   - "ibiza buchten"

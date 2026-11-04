@@ -8,7 +8,7 @@ fecha_actualizacion: '2026-10-07'
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
 - was sehen auf gran canaria
 - gran canaria in 4 tagen

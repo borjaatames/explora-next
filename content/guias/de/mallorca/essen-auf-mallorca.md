@@ -10,7 +10,7 @@ publicada: true
 destacada: false
 imagen_portada: "/images/guias/comer-en-mallorca.jpg"
 imagen_alt: "Ensaimadas in der Auslage einer Bäckerei auf Mallorca"
-tiempo_lectura: 10
+tiempo_lectura: 2
 keywords:
   - "essen auf mallorca"
   - "ensaïmada"

@@ -8,7 +8,7 @@ fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 7
+tiempo_lectura: 4
 keywords:
 - roque nublo
 - roque nublo wanderung
