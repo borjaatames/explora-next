@@ -6,6 +6,7 @@ descripcion: 'Billet pour la cathédrale de Séville et la Giralda avec audiogui
 slugs:
   es: catedral-sevilla-giralda-entrada-audioguia-movil
   en: seville-cathedral-giralda-entry-audio-guide
+  de: sevilla-kathedrale-giralda-ticket-audioguide-app
   fr: seville-billet-cathedrale-giralda-audioguide-mobile
   it: siviglia-biglietto-cattedrale-giralda-audioguida-app
   pt: catedral-sevilha-giralda-bilhete-audioguia-telemovel
