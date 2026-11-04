@@ -67,9 +67,10 @@ A 70 km de Madrid há uma cidade medieval intacta: **Toledo**, onde judeus, muç
 | Catedral | Segunda a sábado 10:00-18:30; domingo 14:00-18:30; último acesso meia hora antes | 12 € |
 | Alcázar (Museu do Exército) | 10:00-17:00, último acesso 16:30; fecha à segunda | 5 €; grátis à quarta |
 | Santo Tomé (*O Enterro do Conde de Orgaz*) | 10:00-18:45 de 1 de março a 15 de outubro; 10:00-17:45 no resto do ano | 4 € |
+| Sinagoga do Tránsito (Museu Sefardita) | De terça a sábado 9h30-20h00; domingos e feriados 10h00-15h00; encerra à segunda | 3 €; grátis aos sábados a partir das 14h00 e aos domingos |
 | Pulseira turística | 7 monumentos (Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, igreja dos Jesuítas, El Salvador e Doncellas Nobles), uma entrada em cada, válida 7 dias | 14 € (não inclui a Catedral nem o Alcázar) |
 
-*Dados verificados em novembro de 2026 nos sites oficiais da Catedral, Museu do Exército, Santo Tomé e Toledo Monumental; comboio e autocarro segundo a Renfe e a Alsa. O site de Santo Tomé ainda indica 12 € para a pulseira; na bilheteira e na Toledo Monumental custa 14 €.*
+*Dados verificados em novembro de 2026 nos sites oficiais da Catedral, Museu do Exército, Santo Tomé e Toledo Monumental; comboio e autocarro segundo a Renfe e a Alsa.*
 
 ## O roteiro de um dia
 

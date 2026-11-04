@@ -66,9 +66,10 @@ actividades:
 | Cathédrale | Du lundi au samedi 10 h-18 h 30 ; dimanche 14 h-18 h 30 ; dernier accès une demi-heure avant | 12 € |
 | Alcázar (musée de l'Armée) | 10 h-17 h, dernier accès 16 h 30 ; fermé le lundi | 5 € ; gratuit le mercredi |
 | Santo Tomé (*L'Enterrement du comte d'Orgaz*) | 10 h-18 h 45 du 1er mars au 15 octobre ; 10 h-17 h 45 le reste de l'année | 4 € |
+| Synagogue du Tránsito (Musée séfarade) | Du mardi au samedi 9 h 30-20 h ; dimanches et jours fériés 10 h-15 h ; fermé le lundi | 3 € ; gratuit le samedi à partir de 14 h et le dimanche |
 | Bracelet touristique | 7 monuments (Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, l'église des Jésuites, El Salvador et Doncellas Nobles), une entrée chacun, valable 7 jours | 14 € (sans la cathédrale ni l'Alcázar) |
 
-*Données vérifiées en novembre 2026 sur les sites officiels de la cathédrale, le musée de l'Armée, Santo Tomé et Toledo Monumental ; train et bus d'après Renfe et Alsa. Le site de Santo Tomé indique encore 12 € pour le bracelet ; au guichet et sur Toledo Monumental, il coûte 14 €.*
+*Données vérifiées en novembre 2026 sur les sites officiels de la cathédrale, le musée de l'Armée, Santo Tomé et Toledo Monumental ; train et bus d'après Renfe et Alsa.*
 
 ## L'itinéraire d'une journée
 

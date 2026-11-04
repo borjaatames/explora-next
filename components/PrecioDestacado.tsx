@@ -2,6 +2,8 @@ type Props = {
   textoDesde: string;
   precio: string;
   textoPorPersona: string;
+  /** Precio orientativo en otra moneda ya formateado (p. ej. «≈ $67 approx.»). */
+  aproximado?: string;
   /** Nota media ya formateada (p. ej. "4,1"); sin ella no se pinta la caja. */
   rating?: string;
   /** Nº de opiniones ya formateado con su palabra (p. ej. "1.532 opiniones"). */
@@ -17,6 +19,7 @@ export default function PrecioDestacado({
   textoDesde,
   precio,
   textoPorPersona,
+  aproximado,
   rating,
   opiniones,
 }: Props) {
@@ -26,6 +29,7 @@ export default function PrecioDestacado({
         <p className="text-xs text-piedra-500">{textoDesde}</p>
         <p className="text-3xl font-bold leading-tight text-piedra-900">{precio}</p>
         <p className="text-xs text-piedra-500">{textoPorPersona}</p>
+        {aproximado ? <p className="mt-0.5 text-xs text-piedra-500">{aproximado}</p> : null}
       </div>
       {rating ? (
         <p className="inline-flex items-center gap-1.5 rounded-md bg-azafran-50 px-2.5 py-1.5 text-sm">

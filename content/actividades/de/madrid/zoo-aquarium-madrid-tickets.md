@@ -2,7 +2,7 @@
 titulo: 'Madrid: Ticket für den Zoo Aquarium de Madrid'
 slug: zoo-aquarium-madrid-tickets
 ciudad: madrid
-descripcion: 'Ticket für den Zoo Aquarium de Madrid in der Casa de Campo: über 2.000 Tiere, Delfin-Show und Große Pandas. Ideal mit Kindern. 4,6/5 bei 2.153 Bewertungen.'
+descripcion: 'Ticket für den Zoo Aquarium de Madrid in der Casa de Campo: über 1.300 Tiere, Große Pandas und Aquarium. Ideal mit Kindern. 4,6/5 bei 2.153 Bewertungen.'
 slugs:
   es: zoo-aquarium-madrid-entrada
   en: zoo-aquarium-madrid-ticket
@@ -21,11 +21,11 @@ proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/madrid-l46/madrid-entrada-al-zoo-aquarium-de-madrid-t402103/?partner_id=C71NOAW
 cancelacionGratuita: false
 highlights:
-- Delfine im Delfinarium
+- Seelöwen-Vorführung
 - Große Pandas
 - Aquarium mit Haien und Rochen
 - Greifvogel-Show
-- Über 2.000 Tiere aus 500 Arten
+- Über 1.300 Tiere aus 333 Arten
 incluye:
 - Eintritt in den Zoo Aquarium de Madrid
 - Zugang zu allen inbegriffenen Shows
@@ -63,11 +63,11 @@ preguntasFrecuentes:
   respuesta: Mit der Metro bis Lago (L10) und 15 Minuten zu Fuß oder mit dem Bus 33 ab Príncipe Pío. Mit dem Auto gibt es einen kostenpflichtigen Parkplatz am Eingang.
 - pregunta: Wie viel Zeit brauche ich?
   respuesta: Mindestens 5–6 Stunden für die wichtigsten Shows und Bereiche. Mit kleinen Kindern einen ganzen Tag.
-- pregunta: Sind Aquarium und Delfinarium inbegriffen?
-  respuesta: Ja, der Eintritt umfasst alle Bereiche des Zoos sowie die Standard-Shows im Delfinarium und die Greifvogel-Show.
+- pregunta: Gibt es Delfine?
+  respuesta: "Nein. Der Zoo hat seine Delfine im Januar 2025 in einen anderen Park gebracht; eine Delfin-Show gibt es nicht mehr. Der Eintritt umfasst das Aquarium sowie die Vorführungen mit Seelöwen, Greifvögeln und exotischen Vögeln."
 - pregunta: Gibt es Ermäßigungen für Kinder?
   respuesta: Kinder unter 3 Jahren haben freien Eintritt, für Kinder von 3 bis 7 Jahren gibt es ermäßigte Preise. Gruppen- und Familienrabatte finden Sie auf der offiziellen Website.
-opinionEditorial: 'Der Zoo Aquarium de Madrid vereint klassischen Zoo, Meeresaquarium und Shows auf einem Gelände in der Casa de Campo. Die Großen Pandas und das Delfinarium sind die großen Publikumsmagneten, doch auch die Primaten und die Greifvögel lohnen den Besuch. Kaufen Sie im Voraus: Die Ersparnis ist gering, aber Sie umgehen in der Hochsaison die Schlangen.'
+opinionEditorial: 'Der Zoo Aquarium de Madrid vereint klassischen Zoo, Meeresaquarium und Shows auf einem Gelände in der Casa de Campo. Die Großen Pandas und das Aquarium sind die großen Publikumsmagneten, doch auch die Primaten und die Greifvögel lohnen den Besuch. Kaufen Sie im Voraus: Die Ersparnis ist gering, aber Sie umgehen in der Hochsaison die Schlangen.'
 guiasRelacionadas:
 - madrid-mit-kindern
 categoria: parques
@@ -76,15 +76,13 @@ keywords:
 - zoo madrid tickets
 - zoo madrid preis
 - zoo madrid pandas
-imagen: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
-imagenAlt: Delfin-Show im Zoo Aquarium de Madrid
+imagen: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
+imagenAlt: Große Pandas im Zoo Aquarium de Madrid
 galeria:
 - src: /images/actividades/madrid/zoo-aquarium/zoo-iguana.webp
   alt: Nashornleguan im Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-tortugas.webp
   alt: Pantherschildkröten in ihrem Gehege im Zoo
-- src: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
-  alt: Große Pandas im Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-flamencos-pelicano.webp
   alt: Flamingos und Pelikan im Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-dromedario.webp
@@ -105,11 +103,11 @@ fecha_actualizacion: '2026-11-04'
 
 ## Was Sie sehen
 
-Der Zoo Aquarium de Madrid erstreckt sich über **20 Hektar** in der Casa de Campo und beherbergt über **2.000 Tiere aus 500 Arten**. Die großen Attraktionen sind die **Großen Pandas**, das **Delfinarium** mit Delfin-Vorführungen und das **Aquarium** mit Haien, Rochen und Tiefseebewohnern.
+Der Zoo Aquarium de Madrid erstreckt sich über **20 Hektar** in der Casa de Campo und beherbergt über **1.300 Tiere aus 333 Arten**. Die großen Attraktionen sind die **Großen Pandas** und das **Aquarium** mit Haien, Rochen und Tiefseebewohnern.
 
 ## Inbegriffene Shows
 
-- **Delfinarium:** die beliebteste Show; prüfen Sie die Zeiten bei der Ankunft.
+- **Seelöwen:** Vorführung mit festen Zeiten; prüfen Sie sie bei der Ankunft. Seit Januar 2025 gibt es keine Delfine mehr.
 - **Greifvögel:** Raubvögel im Freiflug über den Köpfen der Besucher.
 
 ## Für wen es sich lohnt

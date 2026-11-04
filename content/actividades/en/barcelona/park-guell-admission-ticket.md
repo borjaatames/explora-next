@@ -8,7 +8,7 @@ slugs:
   en: park-guell-admission-ticket
 duracion: Self-guided (typical visit 1.5-2 hours)
 duracionMinutos: 90
-precioDesde: 21.5
+precioDesde: 22
 moneda: EUR
 idiomas:
 - es

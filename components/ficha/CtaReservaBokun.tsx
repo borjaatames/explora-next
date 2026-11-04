@@ -6,6 +6,7 @@ import {
   type PrecioGrupo,
 } from "@/lib/reservaBokun";
 import PreciosPorGrupo from "@/components/ficha/PreciosPorGrupo";
+import { precioAproximado } from "@/lib/monedaAproximada";
 
 type Props = DatosPrecioBokun & {
   idioma: Idioma;
@@ -66,6 +67,10 @@ export default function CtaReservaBokun({
 }: Props) {
   if (!(datos.precioDesde > 0)) return null;
   const t = textosPrecioBokun(datos, idioma);
+  // Solo en precio por persona: en privadas el importe mostrado se calcula por grupo.
+  const aproximado = datos.porGrupo
+    ? undefined
+    : precioAproximado(idioma, datos.precioDesde, datos.moneda);
   const c = CONFIANZA[idioma];
   const garantias = [
     ...(cancelacionGratuita ? [c.cancelacion(horasCancelacion)] : []),
@@ -79,6 +84,9 @@ export default function CtaReservaBokun({
         <span className="text-sm text-piedra-500">{t.desde} </span>
         <span className="text-2xl font-bold">{t.precio}</span>
         <span className="text-sm text-piedra-500"> {t.unidad}</span>
+        {aproximado ? (
+          <span className="block text-xs text-piedra-500">{aproximado}</span>
+        ) : null}
       </p>
       <a
         href={`#${ANCLA_RESERVA}`}

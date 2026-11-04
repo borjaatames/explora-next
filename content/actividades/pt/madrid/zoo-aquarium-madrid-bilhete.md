@@ -2,7 +2,7 @@
 titulo: 'Madrid: bilhete para o Zoo Aquarium de Madrid'
 slug: zoo-aquarium-madrid-bilhete
 ciudad: madrid
-descripcion: 'Bilhete para o Zoo Aquarium de Madrid, na Casa de Campo: pandas-gigantes, delfinário, aquário com tubarões e espetáculo de aves de rapina. Mais de 2.000 animais.'
+descripcion: 'Bilhete para o Zoo Aquarium de Madrid, na Casa de Campo: pandas-gigantes, aquário com tubarões e exibições de leões-marinhos e aves de rapina. Mais de 1.300 animais.'
 slugs:
   es: zoo-aquarium-madrid-entrada
   en: zoo-aquarium-madrid-ticket
@@ -21,11 +21,11 @@ proveedor: getyourguide
 urlReserva: 'https://www.getyourguide.com/es-es/madrid-l46/madrid-entrada-al-zoo-aquarium-de-madrid-t402103/?partner_id=C71NOAW'
 cancelacionGratuita: false
 highlights:
-- Espetáculo de golfinhos no Delfinário
+- Exibição de leões-marinhos
 - Pandas-gigantes, os únicos em Espanha
 - Aquário com tubarões e raias
 - Espetáculo de aves de rapina em voo
-- Mais de 2.000 animais de 500 espécies
+- Mais de 1.300 animais de 333 espécies
 incluye:
 - Entrada no Zoo Aquarium de Madrid
 - Acesso a todos os espetáculos incluídos
@@ -63,11 +63,11 @@ preguntasFrecuentes:
   respuesta: De metro até Lago (L10) e depois 15 minutos a pé, ou de autocarro 33 desde Príncipe Pío. De carro, há estacionamento pago junto à entrada.
 - pregunta: Quanto tempo preciso?
   respuesta: Pelo menos 5-6 horas para os espetáculos principais e as zonas mais importantes. Um dia inteiro com crianças pequenas.
-- pregunta: O aquário e o Delfinário estão incluídos?
-  respuesta: Sim, o bilhete inclui todas as zonas do zoo e os espetáculos normais do Delfinário e das aves de rapina.
+- pregunta: Há golfinhos?
+  respuesta: "Não. O zoo transferiu os seus golfinhos para outro parque em janeiro de 2025 e já não há espetáculo de golfinhos. O bilhete inclui o aquário e as exibições de leões-marinhos, aves de rapina e aves exóticas."
 - pregunta: Há descontos para crianças?
   respuesta: Menores de 3 anos entram grátis e dos 3 aos 7 anos há preço reduzido. Consulte no site oficial os descontos para grupos e famílias.
-opinionEditorial: O Zoo Aquarium de Madrid junta zoo clássico, aquário e espetáculos num único recinto na Casa de Campo. Os pandas-gigantes e o Delfinário são os grandes chamarizes, mas os primatas e as aves de rapina também merecem a visita. Comprar com antecedência poupa pouco, mas evita filas na época alta.
+opinionEditorial: O Zoo Aquarium de Madrid junta zoo clássico, aquário e espetáculos num único recinto na Casa de Campo. Os pandas-gigantes e o aquário são os grandes chamarizes, mas os primatas e as aves de rapina também merecem a visita. Comprar com antecedência poupa pouco, mas evita filas na época alta.
 guiasRelacionadas:
 - madrid-com-criancas
 categoria: parques
@@ -76,16 +76,13 @@ keywords:
 - zoo aquarium madrid
 - pandas zoo madrid
 - madrid com crianças
-- delfinário madrid
-imagen: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
-imagenAlt: Espetáculo de golfinhos no Zoo Aquarium de Madrid
+imagen: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
+imagenAlt: Pandas-gigantes no Zoo Aquarium de Madrid
 galeria:
 - src: /images/actividades/madrid/zoo-aquarium/zoo-iguana.webp
   alt: Iguana-rinoceronte no Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-tortugas.webp
   alt: Tartarugas-leopardo no seu recinto
-- src: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
-  alt: Pandas-gigantes no Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-flamencos-pelicano.webp
   alt: Flamingos e pelicano no Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-dromedario.webp
@@ -101,16 +98,16 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-11-05'
 ---
 
 ## O que vai ver
 
-O Zoo Aquarium de Madrid ocupa **20 hectares** na Casa de Campo e reúne mais de **2.000 animais de 500 espécies**. As grandes atrações são os **pandas-gigantes** (os únicos em Espanha), o **Delfinário** e o **aquário** com tubarões, raias e criaturas do mar profundo.
+O Zoo Aquarium de Madrid ocupa **20 hectares** na Casa de Campo e reúne mais de **1.300 animais de 333 espécies**. As grandes atrações são os **pandas-gigantes** (os únicos em Espanha) e o **aquário** com tubarões, raias e criaturas do mar profundo.
 
 ## Espetáculos incluídos
 
-- **Delfinário:** o espetáculo mais concorrido; confirme os horários à chegada.
+- **Leões-marinhos:** exibição com horários fixos; confirme à chegada. Desde janeiro de 2025 já não há golfinhos.
 - **Aves de rapina:** aves em voo livre sobre o público.
 - **Dinossauros:** zona de réplicas animatrónicas.
 

@@ -19,6 +19,8 @@ type Props = {
   /** Moneda ISO (ej. "EUR") asociada a `valorEstimado`. */
   monedaEstimada?: string;
   precioPorPersona: string;
+  /** Precio orientativo en otra moneda ya formateado (p. ej. «≈ $67 approx.»). */
+  precioAproximado?: string;
   duracion: string;
   idiomas: string[];
   cancelacionGratuita?: boolean;
@@ -249,6 +251,7 @@ export default function CalendarioReserva({
   valorEstimado,
   monedaEstimada,
   precioPorPersona,
+  precioAproximado,
   duracion,
   idiomas,
   cancelacionGratuita,
@@ -393,6 +396,9 @@ export default function CalendarioReserva({
         <p className="text-xs text-piedra-500">{textoDesde}</p>
         <p className="text-4xl font-bold text-piedra-900 mt-0.5">{precio}</p>
         <p className="text-xs text-piedra-500">{textoPorPersona}</p>
+        {precioAproximado ? (
+          <p className="mt-0.5 text-xs text-piedra-500">{precioAproximado}</p>
+        ) : null}
 
         {tieneRating && (
           <div className="mt-3 inline-flex flex-wrap items-center gap-x-2 gap-y-1 rounded-md bg-azafran-50 px-2.5 py-1.5 text-sm">

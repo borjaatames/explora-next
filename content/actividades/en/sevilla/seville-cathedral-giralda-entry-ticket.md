@@ -11,7 +11,7 @@ slugs:
   pt: catedral-sevilha-giralda-bilhete-sem-filas
 duracion: 1 day (estimated visit 75 min)
 duracionMinutos: 75
-precioDesde: 17.5
+precioDesde: 18
 moneda: EUR
 idiomas:
 - es
@@ -97,7 +97,7 @@ variantes:
 opinionEditorial: 'The **skip-the-line entry to Seville Cathedral and the Giralda** — the most used ticket for visiting the largest Gothic cathedral in the world without going through ticket office queues. The Cathedral of Santa María de la Sede, built between 1248 and 1507 on the site of the former Almohad mosque, houses the tomb of Christopher Columbus, works by Goya, Murillo and Zurbarán, and the largest altarpiece in the world. The Giralda — the 105-metre Islamic minaret converted to a Christian bell tower — is climbed via 35 wide ramps designed for horsemen to ride up, making it exceptionally accessible vs. other towers of the same period.
 
 
-  **Price comparison:** from ~€17.5-22 (depending on option and season) versus ~€14-19 on the official website. The difference (~€3-5) covers multilingual GYG support, consolidated skip-the-line and 48h advance confirmation. If your visit is on a Monday, prioritize the **FREE official entry** (Mondays 2:30-3:30 PM with advance booking) — save money and the experience is identical.
+  **Price comparison:** from ~€18-22 (depending on option and season) versus ~€14-19 on the official website. The difference (~€3-5) covers multilingual GYG support, consolidated skip-the-line and 48h advance confirmation. If your visit is on a Monday, prioritize the **FREE official entry** (Mondays 2:30-3:30 PM with advance booking) — save money and the experience is identical.
 
 
   **Three critical points to understand before booking:** **(1)** this ticket is **NON-REFUNDABLE** — verify date and time before confirming (main limitation vs. other products with 24h cancellation). **(2)** Giralda climb is NOT wheelchair accessible (35 ramps, ~95 m accumulated). The cathedral IS accessible. **(3)** respectful attire mandatory (shoulders and knees covered; no sleeveless shirts) — if you come in light summer clothes, bring a sarong or light jacket.

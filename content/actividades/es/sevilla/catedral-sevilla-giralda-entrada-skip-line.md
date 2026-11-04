@@ -11,7 +11,7 @@ slugs:
   pt: catedral-sevilha-giralda-bilhete-sem-filas
 duracion: 1 día (visita estimada 75 min)
 duracionMinutos: 75
-precioDesde: 17.5
+precioDesde: 18
 moneda: EUR
 idiomas:
 - es

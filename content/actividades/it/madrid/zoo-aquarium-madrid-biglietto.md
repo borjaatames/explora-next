@@ -2,7 +2,7 @@
 titulo: 'Madrid: biglietto per lo Zoo Aquarium de Madrid'
 slug: zoo-aquarium-madrid-biglietto
 ciudad: madrid
-descripcion: 'Biglietto per lo Zoo Aquarium de Madrid, nella Casa de Campo: panda giganti, delfinario, acquario con squali e spettacolo di rapaci. Oltre 2.000 animali.'
+descripcion: 'Biglietto per lo Zoo Aquarium de Madrid, nella Casa de Campo: panda giganti, acquario con squali e spettacoli di leoni marini e rapaci. Oltre 1.300 animali.'
 slugs:
   es: zoo-aquarium-madrid-entrada
   en: zoo-aquarium-madrid-ticket
@@ -21,11 +21,11 @@ proveedor: getyourguide
 urlReserva: 'https://www.getyourguide.com/es-es/madrid-l46/madrid-entrada-al-zoo-aquarium-de-madrid-t402103/?partner_id=C71NOAW'
 cancelacionGratuita: false
 highlights:
-- Spettacolo dei delfini nel Delfinario
+- Esibizione dei leoni marini
 - Panda giganti, gli unici in Spagna
 - Acquario con squali e razze
 - Spettacolo di rapaci in volo
-- Oltre 2.000 animali di 500 specie
+- Oltre 1.300 animali di 333 specie
 incluye:
 - Ingresso allo Zoo Aquarium de Madrid
 - Accesso a tutti gli spettacoli inclusi
@@ -63,11 +63,11 @@ preguntasFrecuentes:
   respuesta: In metro fino a Lago (L10) e poi 15 minuti a piedi, oppure con l'autobus 33 da Príncipe Pío. In auto c'è un parcheggio a pagamento accanto all'ingresso.
 - pregunta: Quanto tempo serve?
   respuesta: Almeno 5-6 ore per gli spettacoli principali e le zone chiave. Una giornata intera con bambini piccoli.
-- pregunta: Acquario e Delfinario sono inclusi?
-  respuesta: Sì, il biglietto include tutte le zone dello zoo e gli spettacoli standard del Delfinario e dei rapaci.
+- pregunta: Ci sono i delfini?
+  respuesta: "No. Lo zoo ha trasferito i suoi delfini in un altro parco a gennaio 2025: non c'è più lo spettacolo dei delfini. Il biglietto include l'acquario e le esibizioni di leoni marini, rapaci e uccelli esotici."
 - pregunta: Ci sono sconti per i bambini?
   respuesta: Sotto i 3 anni si entra gratis e dai 3 ai 7 anni c'è un prezzo ridotto. Controlla sul sito ufficiale gli sconti per gruppi e famiglie.
-opinionEditorial: Lo Zoo Aquarium de Madrid riunisce zoo classico, acquario e spettacoli in un unico parco nella Casa de Campo. Panda giganti e Delfinario sono le grandi attrazioni, ma meritano anche i primati e i rapaci. Comprare in anticipo fa risparmiare poco, però eviti le code in alta stagione.
+opinionEditorial: Lo Zoo Aquarium de Madrid riunisce zoo classico, acquario e spettacoli in un unico parco nella Casa de Campo. Panda giganti e acquario sono le grandi attrazioni, ma meritano anche i primati e i rapaci. Comprare in anticipo fa risparmiare poco, però eviti le code in alta stagione.
 guiasRelacionadas:
 - madrid-con-bambini
 categoria: parques
@@ -76,16 +76,13 @@ keywords:
 - zoo aquarium madrid
 - panda madrid zoo
 - madrid con bambini
-- delfinario madrid
-imagen: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
-imagenAlt: Spettacolo dei delfini allo Zoo Aquarium de Madrid
+imagen: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
+imagenAlt: Panda giganti allo Zoo Aquarium de Madrid
 galeria:
 - src: /images/actividades/madrid/zoo-aquarium/zoo-iguana.webp
   alt: Iguana rinoceronte allo Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-tortugas.webp
   alt: Tartarughe leopardo nel loro recinto
-- src: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
-  alt: Panda giganti allo Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-flamencos-pelicano.webp
   alt: Fenicotteri e pellicano allo Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-dromedario.webp
@@ -101,16 +98,16 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-11-05'
 ---
 
 ## Cosa vedrai
 
-Lo Zoo Aquarium de Madrid occupa **20 ettari** nella Casa de Campo e ospita oltre **2.000 animali di 500 specie**. Le grandi attrazioni sono i **panda giganti** (gli unici in Spagna), il **Delfinario** e l'**acquario** con squali, razze e creature degli abissi.
+Lo Zoo Aquarium de Madrid occupa **20 ettari** nella Casa de Campo e ospita oltre **1.300 animali di 333 specie**. Le grandi attrazioni sono i **panda giganti** (gli unici in Spagna) e l'**acquario** con squali, razze e creature degli abissi.
 
 ## Spettacoli inclusi
 
-- **Delfinario:** lo spettacolo più seguito; controlla gli orari all'arrivo.
+- **Leoni marini:** esibizione a orari fissi; controllali all'arrivo. Da gennaio 2025 non ci sono più delfini.
 - **Rapaci:** uccelli in volo libero sopra il pubblico.
 - **Dinosauri:** zona di riproduzioni animatroniche.
 

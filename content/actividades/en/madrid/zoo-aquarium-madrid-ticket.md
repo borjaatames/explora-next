@@ -2,7 +2,7 @@
 titulo: 'Madrid: Zoo Aquarium skip-the-line ticket'
 slug: zoo-aquarium-madrid-ticket
 ciudad: madrid
-descripcion: Skip-the-line ticket to Madrid Zoo Aquarium, home to more than 6,000 animals including giant pandas. 4.6/5 stars with 2,153 reviews.
+descripcion: Skip-the-line ticket to Madrid Zoo Aquarium, home to more than 1,300 animals including giant pandas. 4.6/5 stars with 2,153 reviews.
 slugs:
   es: zoo-aquarium-madrid-entrada
   en: zoo-aquarium-madrid-ticket
@@ -22,8 +22,8 @@ urlReserva: https://www.getyourguide.com/en-us/madrid-l46/madrid-entrada-al-zoo-
 cancelacionGratuita: false
 highlights:
 - Giant pandas — one of only a few zoos in Europe with them
-- Over 6,000 animals across 500 species
-- Dolphin and sea lion shows included
+- Over 1,300 animals across 333 species
+- Sea lion and bird of prey exhibitions included
 - Skip-the-line entry; show ticket on mobile
 incluye:
 - Skip-the-line zoo entry (1 day)
@@ -50,7 +50,7 @@ informacionImportante:
   noAptoPara: []
   aTenerEnCuenta:
   - Giant panda enclosure can be very crowded; visit first thing in the morning
-  - Dolphin and sea lion shows have fixed schedules — check the programme at the entrance
+  - Sea lion and bird exhibitions have fixed schedules — check the programme at the entrance
   - The zoo covers a large area; wear comfortable shoes
 accesibilidad: Fully wheelchair-accessible paths throughout the zoo.
 politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or changed.'
@@ -58,8 +58,8 @@ preguntasFrecuentes:
 - pregunta: Does the zoo have giant pandas?
   respuesta: Yes. Madrid Zoo is one of the few in Europe with giant pandas. Since 2024 it has a pair of giant pandas, Jin Xi and Zhu Yu. The enclosure is one of the most visited spots in the zoo.
 - pregunta: Are there dolphin shows?
-  respuesta: Yes. The dolphinarium shows are included in the standard ticket. Check the daily schedule at the entrance as times vary.
-opinionEditorial: Madrid Zoo is the best family day out in the Spanish capital. The giant pandas alone are worth the visit, but the sheer variety of species — over 6,000 animals — keeps adults as engaged as the children.
+  respuesta: "No. The zoo moved its dolphins to another park in January 2025, so there is no dolphin show. The ticket includes the aquarium and the sea lion, bird of prey and exotic bird exhibitions."
+opinionEditorial: Madrid Zoo is the best family day out in the Spanish capital. The giant pandas alone are worth the visit, but the variety of species — over 1,300 animals — keeps adults as engaged as the children.
 guiasRelacionadas:
 - madrid-with-kids
 categoria: parques
@@ -68,15 +68,13 @@ keywords:
 - zoo aquarium madrid
 - madrid zoo giant pandas
 - madrid zoo skip the line
-imagen: /images/actividades/madrid/zoo-aquarium/zoo-delfinario.webp
-imagenAlt: Dolphin show at Zoo Aquarium de Madrid
+imagen: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
+imagenAlt: Giant pandas at Zoo Aquarium de Madrid
 galeria:
 - src: /images/actividades/madrid/zoo-aquarium/zoo-iguana.webp
   alt: Rhinoceros iguana at Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-tortugas.webp
   alt: Leopard tortoises in their enclosure at the zoo
-- src: /images/actividades/madrid/zoo-aquarium/zoo-pandas.webp
-  alt: Giant pandas at Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-flamencos-pelicano.webp
   alt: Flamingos and a pelican at Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-dromedario.webp
@@ -92,18 +90,18 @@ atraccionesRelacionadas:
 publicada: true
 destacada: false
 fecha: '2026-10-17'
-fecha_actualizacion: '2026-10-17'
+fecha_actualizacion: '2026-11-05'
 ---
 
 ## What you'll see
 
-Madrid Zoo Aquarium is one of Spain's finest zoos, home to **over 6,000 animals across 500 species** set in the leafy Casa de Campo park.
+Madrid Zoo Aquarium is one of Spain's finest zoos, home to **over 1,300 animals across 333 species** set in the leafy Casa de Campo park.
 
 ### Giant pandas
 The zoo's signature attraction: one of only a handful of European zoos with **giant pandas in residence**. The panda enclosure is well designed and usually allows good close-up views.
 
-### Dolphinarium and sea lion show
-Both shows are included in the ticket. The dolphinarium seats several hundred visitors and the shows are popular — arrive early to get a good seat.
+### Sea lion and bird of prey exhibitions
+Both are included in the ticket and run at fixed times — check the programme at the entrance. Since January 2025 the zoo no longer has dolphins.
 
 ### The aquarium section
 Tropical fish, sharks, rays and fascinating invertebrates make up the aquarium wing — a good option for the hottest part of the day.

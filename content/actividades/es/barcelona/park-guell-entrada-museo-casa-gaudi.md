@@ -116,6 +116,10 @@ publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
+avisoReserva: 'A 5 de noviembre, GetYourGuide no tiene fechas para este combinado después del 8 de noviembre. Si no encuentras la tuya, la entrada solo a la zona monumental del Park Güell sí tiene plazas casi todos los días.'
+alternativa:
+  slug: park-guell-entrada-zona-monumental
+  motivo: 'Si no hay fechas para el combinado con la Casa Museo Gaudí, la entrada a la zona monumental del Park Güell (22 €) sí tiene plazas casi todos los días:'
 guiasRelacionadas:
 - park-guell-que-entrada-elegir
 ---

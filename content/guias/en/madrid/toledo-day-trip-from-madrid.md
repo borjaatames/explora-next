@@ -69,9 +69,10 @@ Seventy kilometers from Madrid sits an intact medieval city: **Toledo**, where J
 | Cathedral | Monday to Saturday 10:00-18:30; Sunday 14:00-18:30; last entry half an hour before closing | €12 |
 | Alcázar (Army Museum) | 10:00-17:00, last entry 16:30; closed on Mondays | €5; free on Wednesdays |
 | Santo Tomé (*The Burial of the Count of Orgaz*) | 10:00-18:45 from 1 March to 15 October; 10:00-17:45 the rest of the year | €4 |
+| El Tránsito Synagogue (Sephardic Museum) | Tuesday to Saturday 9:30-20:00; Sundays and holidays 10:00-15:00; closed Mondays | €3; free on Saturdays from 14:00 and on Sundays |
 | Tourist wristband | 7 monuments (Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, the Jesuit church, El Salvador and Doncellas Nobles), one entry each, valid 7 days | €14 (excludes the Cathedral and the Alcázar) |
 
-*Checked in November 2026 on the official websites of the Cathedral, the Army Museum, Santo Tomé and Toledo Monumental; train and bus details from Renfe and Alsa. The Santo Tomé website still shows €12 for the wristband; at the ticket office and on Toledo Monumental it costs €14.*
+*Checked in November 2026 on the official websites of the Cathedral, the Army Museum, Santo Tomé and Toledo Monumental; train and bus details from Renfe and Alsa.*
 
 ## A one-day route
 

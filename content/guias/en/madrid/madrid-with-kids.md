@@ -10,7 +10,7 @@ autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-con-ninos.jpg"
-imagen_alt: "Dolphin show at Zoo Aquarium de Madrid"
+imagen_alt: "Dolphin show at Zoo Aquarium de Madrid, before the dolphins were moved in 2025"
 keywords:
   - "madrid with kids"
   - "things to do in madrid with kids"
@@ -58,7 +58,7 @@ For parents of kids aged **4 to 16**: each plan with the age it works for, the p
 | Parque Warner (San Martín de la Vega) | 8–16 | from €33 | Full day, 45 min each way | Car, bus from Estación Sur (Méndez Álvaro), or C-3 train to Pinto + bus 413 |
 | Aquópolis Villanueva (summer) | 4–16 | from €20 | Morning, then a quiet afternoon | Car (45 min) or bus 627 from Moncloa |
 
-**Zoo Aquarium.** The most reliable plan at any age: dolphins, birds of prey, sea lions, pandas and an aquarium. Arrive at 11 AM opening; after 1 PM the animals hide from the heat. Shows run at fixed times, so plan around the schedule. Restaurants are pricey, but you can bring food; there are picnic areas by the dolphinarium.
+**Zoo Aquarium.** The most reliable plan at any age: birds of prey, sea lions, pandas and an aquarium (the dolphins were moved to another park in January 2025). Arrive at 11 AM opening; after 1 PM the animals hide from the heat. Shows run at fixed times, so plan around the schedule. Restaurants are pricey, but you can bring food; there are picnic areas by the former dolphinarium.
 
 [actividad: zoo-aquarium-madrid-ticket]
 

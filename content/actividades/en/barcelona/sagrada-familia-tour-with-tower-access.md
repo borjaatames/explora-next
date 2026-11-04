@@ -8,7 +8,7 @@ slugs:
   es: sagrada-familia-tour-con-torre
 duracion: 1h 30min - 2h
 duracionMinutos: 90
-precioDesde: 75
+precioDesde: 66
 moneda: EUR
 idiomas:
 - es

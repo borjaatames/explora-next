@@ -11,7 +11,7 @@ autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-con-ninos.jpg"
-imagen_alt: "Spectacle de dauphins au Zoo Aquarium de Madrid"
+imagen_alt: "Spectacle de dauphins au Zoo Aquarium de Madrid, avant leur transfert en 2025"
 tiempo_lectura: 5
 keywords:
   - "madrid avec des enfants"
@@ -59,7 +59,7 @@ Madrid se vit très bien en famille : des parcs dans toute la ville, de vrais an
 | Parque Warner (San Martín de la Vega) | 8-16 | À partir de 33 € | Journée complète, avec 45 min de trajet aller | Voiture, bus depuis la gare routière Estación Sur (Méndez Álvaro) ou Cercanías C-3 jusqu'à Pinto puis bus 413 |
 | Aquópolis Villanueva (été) | 4-16 | À partir de 20 € | Matinée, et après-midi de repos | Voiture (45 min) ou bus 627 depuis Moncloa |
 
-**Zoo Aquarium.** L'activité la plus sûre à tout âge : delphinarium, rapaces, otaries, panda et aquarium. Arrivez à 11 h, à l'ouverture ; à partir de 13 h, les animaux se cachent. Les spectacles ont des horaires fixes : regardez le programme en entrant et organisez la visite autour. Les restaurants sont chers ; on peut entrer avec son repas et il y a des aires de pique-nique près du delphinarium.
+**Zoo Aquarium.** L'activité la plus sûre à tout âge : rapaces, otaries, pandas et aquarium (les dauphins ont été transférés dans un autre parc en janvier 2025). Arrivez à 11 h, à l'ouverture ; à partir de 13 h, les animaux se cachent. Les spectacles ont des horaires fixes : regardez le programme en entrant et organisez la visite autour. Les restaurants sont chers ; on peut entrer avec son repas et il y a des aires de pique-nique près de l'ancien delphinarium.
 
 **Parque de Atracciones.** Pour les 8 ans et plus, le meilleur souvenir du voyage ; pour les ados, mieux que n'importe quel musée. Les petits ont Nickelodeon Land, de quoi occuper une demi-journée. Achetez en ligne quelques jours avant et évitez les samedis de printemps, avec 45 minutes d'attente aux grandes attractions. Il ferme une partie de l'hiver. **Ne le combinez pas avec le zoo le même jour** : ils sont côte à côte, mais la fatigue gâche les deux.
 

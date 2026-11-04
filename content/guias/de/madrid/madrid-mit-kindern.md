@@ -10,7 +10,7 @@ autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-con-ninos.jpg"
-imagen_alt: "Delfinshow im Zoo Aquarium de Madrid"
+imagen_alt: "Delfinshow im Zoo Aquarium de Madrid, bevor die Delfine 2025 umzogen"
 tiempo_lectura: 11
 keywords:
   - "madrid mit kindern"
@@ -54,9 +54,9 @@ Der Ratgeber ist nach Kategorien geordnet, nicht nach Tagen, damit du dir heraus
 
 ## Top-Plan Nummer 1: der Zoo Aquarium
 
-Der Zoo von Madrid liegt in **Casa de Campo**, 20 Minuten vom Zentrum mit der Metro. Mit rund 3.200 Tieren aus Hunderten von Arten gehören ein Delfinarium, eine Voliere, ein Reptilienhaus und ein integriertes Aquarium dazu. Er ist der zuverlässigste Plan für Kinder jeden Alters.
+Der Zoo von Madrid liegt in **Casa de Campo**, 20 Minuten vom Zentrum mit der Metro. Mit über 1.300 Tieren aus 333 Arten gehören eine Voliere, ein Reptilienhaus und ein integriertes Aquarium dazu. Die Delfine wurden im Januar 2025 in einen anderen Park gebracht. Er ist der zuverlässigste Plan für Kinder jeden Alters.
 
-Die Kleinen (4–7) sind fasziniert von Delfinen, Seelöwen, Tigern und dem Panda. Die Mittleren (8–12) sind vom Delfinarium und der Greifvogelshow begeistert. Teenager (13–16) finden das anfangs vielleicht "kindisch", aber das Delfinarium überrascht sie, und das Aquarium kommt bei ihnen meist besser an als der Zoo selbst.
+Die Kleinen (4–7) sind fasziniert von Seelöwen, Tigern und den Pandas. Die Mittleren (8–12) sind von der Seelöwen- und der Greifvogelshow begeistert. Teenager (13–16) finden das anfangs vielleicht "kindisch", aber das Aquarium kommt bei ihnen meist besser an als der Zoo selbst.
 
 **Preise und Öffnungszeiten (2026):**
 
@@ -66,9 +66,9 @@ Die Kleinen (4–7) sind fasziniert von Delfinen, Seelöwen, Tigern und dem Pand
 
 > **⭐ Tipp:** Komm um 11:00 Uhr zur Öffnung. In den ersten Stunden ist weniger los, und die Tiere sind aktiver. Ab 13:00 Uhr flaut es ab (Hitze, Tiersiesta).
 
-Die Shows mit Delfinen, Greifvögeln und Seelöwen haben **feste Uhrzeiten**. Schau dir beim Eingang den Zeitplan an und organisiere den Besuch danach: So funktioniert der Tag deutlich besser.
+Die Shows mit Greifvögeln und Seelöwen haben **feste Uhrzeiten**. Schau dir beim Eingang den Zeitplan an und organisiere den Besuch danach: So funktioniert der Tag deutlich besser.
 
-> **⚠️ Hinweis:** Die Restaurants im Zoo sind teuer. Der Zoo erlaubt eigenes Essen, und neben dem Delfinarium gibt es Picknickbereiche. Nehmt ein Picknick mit.
+> **⚠️ Hinweis:** Die Restaurants im Zoo sind teuer. Der Zoo erlaubt eigenes Essen, und neben dem ehemaligen Delfinarium gibt es Picknickbereiche. Nehmt ein Picknick mit.
 
 **Anreise:** Metro Linie 10 oder 5 bis Casa de Campo (15 Minuten zu Fuß bis zum Eingang) oder EMT-Bus Linie 33. Mit dem Auto gibt es kostenlose Parkplätze, die mit dem Freizeitpark geteilt werden. Empfohlene Zeit: 5–7 Stunden. Es ist ein ganzer Tag.
 

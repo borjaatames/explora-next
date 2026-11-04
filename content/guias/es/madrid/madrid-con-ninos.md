@@ -11,7 +11,7 @@ autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-con-ninos.jpg"
-imagen_alt: "Espectáculo de delfines en el Zoo Aquarium de Madrid"
+imagen_alt: "Exhibición de delfines en el Zoo Aquarium de Madrid, antes de su traslado en 2025"
 tiempo_lectura: 5
 keywords:
   - "madrid con niños"
@@ -59,7 +59,7 @@ Madrid se vive muy bien en familia: parques por toda la ciudad, fauna real a 20 
 | Parque Warner (San Martín de la Vega) | 8-16 | Desde 33 € | Día completo, con 45 min de ida | Coche, autobús desde la Estación Sur (Méndez Álvaro) o Cercanías C-3 a Pinto y bus 413 |
 | Aquópolis Villanueva (verano) | 4-16 | Desde 20 € | Mañana y tarde de descanso | Coche (45 min) o bus 627 desde Moncloa |
 
-**Zoo Aquarium.** El plan más fiable a cualquier edad: delfinario, aves rapaces, leones marinos, panda y acuario. Llega a las 11:00, cuando abre; a partir de las 13:00 los animales se esconden. Los espectáculos tienen hora fija: mira el calendario al entrar y organiza la visita alrededor. Los restaurantes son caros; se puede entrar con comida y hay merenderos junto al delfinario.
+**Zoo Aquarium.** El plan más fiable a cualquier edad: aves rapaces, leones marinos, pandas y acuario (los delfines se trasladaron a otro parque en enero de 2025). Llega a las 11:00, cuando abre; a partir de las 13:00 los animales se esconden. Los espectáculos tienen hora fija: mira el calendario al entrar y organiza la visita alrededor. Los restaurantes son caros; se puede entrar con comida y hay merenderos junto al antiguo delfinario.
 
 **Parque de Atracciones.** Para los de 8 en adelante, el mejor recuerdo del viaje; para adolescentes, mejor que cualquier museo. Los pequeños tienen Nickelodeon Land, que da para medio día. Compra online con días de antelación y evita los sábados de primavera, con colas de 45 minutos en las atracciones grandes. Cierra parte del invierno. **No lo combines con el Zoo el mismo día**: están al lado, pero el cansancio arruina los dos.
 

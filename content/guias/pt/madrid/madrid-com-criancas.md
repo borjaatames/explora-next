@@ -11,7 +11,7 @@ autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/madrid-con-ninos.jpg"
-imagen_alt: "Espetáculo de golfinhos no Zoo Aquarium de Madrid"
+imagen_alt: "Espetáculo de golfinhos no Zoo Aquarium de Madrid, antes da sua transferência em 2025"
 tiempo_lectura: 5
 keywords:
   - "madrid com crianças"
@@ -59,7 +59,7 @@ Madrid vive-se muito bem em família: parques por toda a cidade, fauna real a 20
 | Parque Warner (San Martín de la Vega) | 8-16 | Desde 33 € | Dia inteiro, com 45 min de ida | Carro, autocarro a partir da Estación Sur (Méndez Álvaro) ou Cercanías C-3 até Pinto e autocarro 413 |
 | Aquópolis Villanueva (verão) | 4-16 | Desde 20 € | Manhã e tarde de descanso | Carro (45 min) ou autocarro 627 a partir de Moncloa |
 
-**Zoo Aquarium.** O programa mais fiável em qualquer idade: golfinário, aves de rapina, leões-marinhos, panda e aquário. Chegue às 11h00, quando abre; a partir das 13h00 os animais escondem-se. Os espetáculos têm hora fixa: veja o calendário à entrada e organize a visita à volta deles. Os restaurantes são caros; pode-se entrar com comida e há zonas de merenda junto ao golfinário.
+**Zoo Aquarium.** O programa mais fiável em qualquer idade: aves de rapina, leões-marinhos, pandas e aquário (os golfinhos foram transferidos para outro parque em janeiro de 2025). Chegue às 11h00, quando abre; a partir das 13h00 os animais escondem-se. Os espetáculos têm hora fixa: veja o calendário à entrada e organize a visita à volta deles. Os restaurantes são caros; pode-se entrar com comida e há zonas de merenda junto ao antigo golfinário.
 
 **Parque de Atracciones.** Para os de 8 anos ou mais, a melhor recordação da viagem; para adolescentes, melhor do que qualquer museu. Os pequenos têm a Nickelodeon Land, que dá para meio dia. Compre online com dias de antecedência e evite os sábados de primavera, com filas de 45 minutos nas atrações grandes. Fecha parte do inverno. **Não o combine com o Zoo no mesmo dia**: ficam ao lado, mas o cansaço estraga os dois.
 

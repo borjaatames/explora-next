@@ -30,6 +30,7 @@ import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
 import WidgetDisponibilidadGyg from "@/components/WidgetDisponibilidadGyg";
 import PrecioDestacado from "@/components/PrecioDestacado";
+import { precioAproximado } from "@/lib/monedaAproximada";
 import { ANCLA_WIDGET_GYG, tourWidgetGyg } from "@/lib/gyg-widget";
 import BokunWidget from "@/components/BokunWidget";
 import ConfianzaReservaBokun from "@/components/ficha/ConfianzaReservaBokun";
@@ -322,6 +323,7 @@ export default async function ActividadPage({ params }: Props) {
       textoDesde={dict.actividades.desde}
       precio={precio}
       textoPorPersona={dict.actividades.porPersona}
+      aproximado={precioAproximado(lang, precioDesdeFinal, actividad.moneda)}
       rating={tieneRating ? ratingTextoValor : undefined}
       opiniones={tieneRating ? ratingTextoOpiniones : undefined}
     />
@@ -334,6 +336,7 @@ export default async function ActividadPage({ params }: Props) {
       valorEstimado={precioDesdeFinal}
       monedaEstimada={actividad.moneda}
       precioPorPersona={dict.actividades.porPersona}
+      precioAproximado={precioAproximado(lang, precioDesdeFinal, actividad.moneda)}
       duracion={actividad.duracion}
       idiomas={actividad.idiomas}
       cancelacionGratuita={actividad.cancelacionGratuita}

@@ -116,6 +116,10 @@ publicada: true
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
+avisoReserva: 'As of 5 November, GetYourGuide has no dates for this combo after 8 November. If yours is not available, the Park Güell monumental zone ticket on its own has space almost every day.'
+alternativa:
+  slug: park-guell-admission-ticket
+  motivo: 'If there are no dates for the combo with the Gaudí House Museum, the Park Güell monumental zone ticket (€22) has space almost every day:'
 guiasRelacionadas:
 - park-guell-which-ticket-to-choose
 ---
