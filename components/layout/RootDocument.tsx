@@ -1,5 +1,6 @@
 import Script from "next/script";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import AnaliticaVercel from "@/components/AnaliticaVercel";
 import Analytics from "@/components/Analytics";
 import WebVitals from "@/components/WebVitals";
 import { inter, fraunces } from "@/lib/fonts";
@@ -88,6 +89,8 @@ export default function RootDocument({ lang, children }: Props) {
          * no contaminar las métricas con tráfico interno.
          */}
         {allowIndexing && <SpeedInsights />}
+        {/* Visitas sin cookies (incluye a quien rechaza el banner). */}
+        {allowIndexing && <AnaliticaVercel />}
       </body>
     </html>
   );
