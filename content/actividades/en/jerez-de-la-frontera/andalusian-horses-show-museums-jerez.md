@@ -6,8 +6,10 @@ descripcion: Combined ticket to the "How the Andalusian Horses Dance" show and t
 slugs:
   es: caballos-andaluces-espectaculo-museos-jerez
   en: andalusian-horses-show-museums-jerez
+  de: jerez-pferdeshow-und-museen-reitschule
   fr: jerez-spectacle-chevaux-andalous-musees-ecole-royale
   it: jerez-spettacolo-cavalli-andalusi-musei-real-escuela
+  pt: cavalos-andaluzes-espetaculo-museus-jerez
 duracion: 3 hours 30 minutes
 duracionMinutos: 210
 precioDesde: 32

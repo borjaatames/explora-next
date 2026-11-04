@@ -6,6 +6,7 @@ descripcion: Espectáculo flamenco de 1 hora en la Casa de la Memoria de Sevilla
 slugs:
   es: casa-de-la-memoria-flamenco-show-intimo-sevilla
   en: seville-casa-de-la-memoria-flamenco-show-intimate
+  de: casa-de-la-memoria-flamenco-show-sevilla
   fr: seville-casa-de-la-memoria-spectacle-flamenco-intimiste
   it: siviglia-casa-de-la-memoria-spettacolo-flamenco-intimo
   pt: casa-de-la-memoria-espetaculo-flamenco-intimo-sevilha

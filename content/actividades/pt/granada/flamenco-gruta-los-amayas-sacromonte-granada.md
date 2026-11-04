@@ -6,6 +6,7 @@ descripcion: Espetáculo de flamenco de uma hora na Cueva Los Amayas, uma zambra
 slugs:
   es: flamenco-cueva-amayas-sacromonte
   en: flamenco-show-cueva-los-amayas-sacromonte
+  de: sacromonte-flamenco-cueva-los-amayas
   fr: grenade-flamenco-grotte-los-amayas-sacromonte
   it: granada-flamenco-grotta-los-amayas-sacromonte
   pt: flamenco-gruta-los-amayas-sacromonte-granada

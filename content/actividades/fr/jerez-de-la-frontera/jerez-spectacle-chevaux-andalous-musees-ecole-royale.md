@@ -6,8 +6,10 @@ descripcion: Billet combiné pour le spectacle « Comment dansent les chevaux an
 slugs:
   es: caballos-andaluces-espectaculo-museos-jerez
   en: andalusian-horses-show-museums-jerez
+  de: jerez-pferdeshow-und-museen-reitschule
   fr: jerez-spectacle-chevaux-andalous-musees-ecole-royale
   it: jerez-spettacolo-cavalli-andalusi-musei-real-escuela
+  pt: cavalos-andaluzes-espetaculo-museus-jerez
 duracion: 3 heures 30 minutes
 duracionMinutos: 210
 precioDesde: 32

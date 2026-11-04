@@ -6,6 +6,10 @@ descripcion: 'Live 50-55 minute flamenco show at Palau Dalmases, a 17th-century 
 slugs:
   es: palau-dalmases-flamenco-show-palacio-siglo-xvii
   en: palau-dalmases-flamenco-show-17th-century-palace
+  de: palau-dalmases-flamenco-show-barcelona
+  fr: barcelone-palau-dalmases-spectacle-flamenco-palais
+  it: palau-dalmases-flamenco-palazzo-barcellona
+  pt: palau-dalmases-flamenco-palacio-barcelona
 duracion: 50 - 55 minutes
 duracionMinutos: 55
 precioDesde: 30

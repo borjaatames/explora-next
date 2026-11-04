@@ -6,6 +6,7 @@ descripcion: Espectáculo flamenco en directo en los Jardines de Zoraya, un tabl
 slugs:
   es: flamenco-jardines-zoraya-albayzin
   en: flamenco-show-jardines-zoraya-albayzin
+  de: albaicin-flamenco-jardines-de-zoraya
   fr: grenade-spectacle-flamenco-albaicin-jardines-de-zoraya
   it: granada-flamenco-albayzin-jardines-de-zoraya
   pt: espetaculo-flamenco-albaicin-jardines-zoraya

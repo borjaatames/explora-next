@@ -6,8 +6,10 @@ descripcion: Espectáculo flamenco de una hora con cinco artistas en el Tablao P
 slugs:
   es: tablao-puro-arte-jerez-flamenco-cena
   en: tablao-puro-arte-jerez-flamenco-show-dinner
+  de: jerez-flamenco-show-tablao-puro-arte
   fr: jerez-spectacle-flamenco-tablao-puro-arte-menu
   it: jerez-flamenco-tablao-puro-arte-con-cena
+  pt: tablao-puro-arte-jerez-flamenco-jantar
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 35

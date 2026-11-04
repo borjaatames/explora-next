@@ -6,6 +6,7 @@ descripcion: Espectáculo flamenco de una hora en el Teatro Flamenco Granada (Pl
 slugs:
   es: flamenco-teatro-sensaciones-granada
   en: flamenco-show-teatro-sensaciones-granada
+  de: granada-flamenco-show-sensaciones-teatro
   fr: grenade-spectacle-flamenco-sensaciones-teatro-flamenco
   it: granada-spettacolo-flamenco-sensaciones-teatro-flamenco
   pt: espetaculo-flamenco-sensaciones-teatro-flamenco-granada

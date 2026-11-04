@@ -6,6 +6,7 @@ descripcion: Spectacle de flamenco en direct au Tablao Casa Ana, en plein centre
 slugs:
   es: flamenco-tablao-casa-ana-granada
   en: flamenco-show-tablao-casa-ana-granada
+  de: granada-flamenco-tablao-casa-ana
   fr: grenade-spectacle-flamenco-traditionnel-tablao-casa-ana
   it: granada-spettacolo-flamenco-tradizionale-tablao-casa-ana
   pt: espetaculo-flamenco-tradicional-tablao-casa-ana-granada

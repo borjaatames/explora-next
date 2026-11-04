@@ -6,6 +6,10 @@ descripcion: Entry to Tibidabo, Barcelona's historic hilltop amusement park with
 slugs:
   es: tibidabo-barcelona-entrada
   en: tibidabo-barcelona-ticket
+  de: tibidabo-freizeitpark-barcelona-tickets
+  fr: tibidabo-barcelone-parc-attractions-billet
+  it: tibidabo-barcellona-biglietto
+  pt: tibidabo-barcelona-bilhete
 duracion: 1 day
 duracionMinutos: 360
 precioDesde: 39

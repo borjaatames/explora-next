@@ -6,6 +6,8 @@ descripcion: Skip-the-queue ticket to Terra Mítica, Benidorm's big theme park w
 slugs:
   es: terra-mitica-benidorm-entrada
   en: terra-mitica-benidorm-ticket
+  de: terra-mitica-benidorm-tickets
+  fr: terra-mitica-benidorm-billet
   it: benidorm-biglietto-terra-mitica
   pt: benidorm-terra-mitica-bilhete
 duracion: Full day

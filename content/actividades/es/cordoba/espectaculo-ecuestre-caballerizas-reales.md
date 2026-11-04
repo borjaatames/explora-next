@@ -6,6 +6,7 @@ descripcion: 'Entrada al espectáculo de caballo andaluz y flamenco en las Cabal
 slugs:
   es: espectaculo-ecuestre-caballerizas-reales
   en: equestrian-show-royal-stables
+  de: pferdeshow-caballerizas-reales-cordoba
   fr: cordoue-spectacle-equestre-caballerizas-reales
   it: cordova-spettacolo-equestre-caballerizas-reales
   pt: cordova-espetaculo-equestre-caballerizas-reales

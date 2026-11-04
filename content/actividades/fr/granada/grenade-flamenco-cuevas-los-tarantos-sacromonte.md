@@ -6,6 +6,7 @@ descripcion: Spectacle de flamenco d'une heure aux Cuevas Los Tarantos, une mais
 slugs:
   es: flamenco-cuevas-tarantos-sacromonte
   en: flamenco-show-cuevas-tarantos-sacromonte
+  de: sacromonte-flamenco-cuevas-los-tarantos
   fr: grenade-flamenco-cuevas-los-tarantos-sacromonte
   it: granada-flamenco-cuevas-los-tarantos-sacromonte
   pt: flamenco-grutas-los-tarantos-sacromonte-granada

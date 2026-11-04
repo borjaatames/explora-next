@@ -6,6 +6,8 @@ descripcion: 'Bilhete para o Marineland Mallorca, em Costa d''en Blanes: espetá
 slugs:
   es: marineland-mallorca-entrada
   en: marineland-mallorca-entry-ticket
+  de: marineland-mallorca-tickets
+  fr: marineland-majorque-billet
   it: biglietto-marineland-maiorca
   pt: marineland-maiorca-bilhete
 duracion: Válido 1 dia

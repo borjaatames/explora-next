@@ -6,6 +6,10 @@ descripcion: 'Espectáculo de flamenco con opción de cena en el Tablao Cordobé
 slugs:
   es: tablao-flamenco-cordobes-cena-show-las-ramblas
   en: tablao-flamenco-cordobes-dinner-show-las-ramblas
+  de: tablao-cordobes-flamenco-show-rambla
+  fr: barcelone-tablao-cordobes-diner-spectacle-flamenco-rambla
+  it: tablao-cordobes-flamenco-cena-rambla
+  pt: tablao-cordobes-flamenco-jantar-ramblas
 duracion: 70 - 135 minutos
 duracionMinutos: 90
 precioDesde: 48

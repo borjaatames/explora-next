@@ -6,6 +6,9 @@ descripcion: 'Bilhete para o Oasis Wildlife Fuerteventura (antigo Oasis Park), e
 slugs:
   es: oasis-wildlife-fuerteventura-entrada
   en: oasis-wildlife-fuerteventura-ticket
+  de: oasis-wildlife-fuerteventura-tickets
+  fr: oasis-wildlife-fuerteventura-billet
+  it: oasis-wildlife-fuerteventura-biglietto
   pt: fuerteventura-oasis-wildlife-bilhete
 duracion: Bilhete válido 1 dia
 duracionMinutos: 300

@@ -6,6 +6,9 @@ descripcion: '1-day ticket to Aqualand Maspalomas, Gran Canaria''s largest water
 slugs:
   es: aqualand-maspalomas-entrada
   en: aqualand-maspalomas-ticket
+  de: aqualand-maspalomas-tickets
+  fr: aqualand-maspalomas-billet
+  it: aqualand-maspalomas-biglietto
   pt: maspalomas-aqualand-bilhete
 duracion: Ticket valid for 1 day
 precioDesde: 41

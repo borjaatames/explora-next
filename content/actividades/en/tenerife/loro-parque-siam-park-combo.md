@@ -6,6 +6,9 @@ descripcion: Combined ticket for Loro Parque (best zoo in Europe) and Siam Park 
 slugs:
   es: loro-parque-siam-park-combinado
   en: loro-parque-siam-park-combo
+  de: loro-parque-siam-park-kombiticket
+  fr: tenerife-billet-combine-loro-parque-siam-park
+  it: loro-parque-siam-park-biglietto-combinato
   pt: loro-parque-siam-park-bilhete-combinado
 duracion: 2 days
 duracionMinutos: 960

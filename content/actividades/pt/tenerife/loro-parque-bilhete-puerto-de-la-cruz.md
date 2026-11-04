@@ -6,6 +6,9 @@ descripcion: 'Bilhete de um dia para o Loro Parque, em Puerto de la Cruz: papaga
 slugs:
   es: loro-parque-entradas
   en: loro-parque-tickets
+  de: loro-parque-tickets
+  fr: loro-parque-tenerife-billet
+  it: loro-parque-tenerife-biglietto
   pt: loro-parque-bilhete-puerto-de-la-cruz
 duracion: 1 dia
 duracionMinutos: 480

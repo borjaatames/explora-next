@@ -6,6 +6,9 @@ descripcion: 'Entrada de un día a Loro Parque, en Puerto de la Cruz: loros, pin
 slugs:
   es: loro-parque-entradas
   en: loro-parque-tickets
+  de: loro-parque-tickets
+  fr: loro-parque-tenerife-billet
+  it: loro-parque-tenerife-biglietto
   pt: loro-parque-bilhete-puerto-de-la-cruz
 duracion: 1 día
 duracionMinutos: 480

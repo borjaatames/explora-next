@@ -6,6 +6,8 @@ descripcion: 'Entry ticket to Marineland Mallorca in Costa d''en Blanes: dolphin
 slugs:
   es: marineland-mallorca-entrada
   en: marineland-mallorca-entry-ticket
+  de: marineland-mallorca-tickets
+  fr: marineland-majorque-billet
   it: biglietto-marineland-maiorca
   pt: marineland-maiorca-bilhete
 duracion: Valid 1 day

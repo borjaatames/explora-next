@@ -6,6 +6,9 @@ descripcion: Entry to Palmitos Park, Gran Canaria's best zoological and botanica
 slugs:
   es: palmitos-park-gran-canaria-entrada
   en: palmitos-park-gran-canaria-ticket
+  de: palmitos-park-tickets
+  fr: palmitos-park-gran-canaria-billet
+  it: palmitos-park-gran-canaria-biglietto
   pt: gran-canaria-palmitos-park-bilhete
 duracion: Full day
 duracionMinutos: 360

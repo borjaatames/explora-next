@@ -6,6 +6,10 @@ descripcion: Entrada al Aquàrium de Barcelona con el famoso túnel submarino de
 slugs:
   es: aquarium-barcelona-entrada
   en: aquarium-barcelona-ticket
+  de: aquarium-barcelona-tickets
+  fr: aquarium-barcelone-billet
+  it: acquario-barcellona-biglietto
+  pt: aquario-barcelona-bilhete
 duracion: 2-3 horas
 duracionMinutos: 150
 precioDesde: 30

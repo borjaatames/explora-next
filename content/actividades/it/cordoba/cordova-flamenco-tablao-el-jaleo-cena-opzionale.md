@@ -6,6 +6,7 @@ descripcion: Un'ora di flamenco dal vivo con artisti premiati al Tablao El Jaleo
 slugs:
   es: espectaculo-flamenco-tablao-el-jaleo-cordoba
   en: flamenco-show-tablao-el-jaleo-cordoba
+  de: flamenco-show-tablao-el-jaleo-cordoba
   fr: cordoue-spectacle-flamenco-tablao-el-jaleo-diner
   it: cordova-flamenco-tablao-el-jaleo-cena-opzionale
   pt: cordova-flamenco-tablao-el-jaleo-jantar

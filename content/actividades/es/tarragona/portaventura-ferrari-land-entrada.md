@@ -6,6 +6,8 @@ descripcion: 'Entrada oficial a PortAventura Park de 1, 2 o 3 días con un acces
 slugs:
   es: portaventura-ferrari-land-entrada
   en: portaventura-ferrari-land-ticket
+  de: portaventura-ferrari-land-tickets
+  fr: salou-portaventura-ferrari-land-billet-1-2-3-jours
   it: salou-biglietto-portaventura-ferrari-land-1-3-giorni
   pt: portaventura-ferrari-land-bilhete-1-2-3-dias
 duracion: 1-3 días

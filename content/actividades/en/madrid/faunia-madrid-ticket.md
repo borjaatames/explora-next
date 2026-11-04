@@ -6,6 +6,10 @@ descripcion: 'Entry to Faunia, Madrid''s ecological theme park with recreated ec
 slugs:
   es: faunia-madrid-entrada
   en: faunia-madrid-ticket
+  de: faunia-madrid-tickets
+  fr: faunia-madrid-billet
+  it: faunia-madrid-biglietto
+  pt: faunia-madrid-bilhete
 duracion: 1 day
 duracionMinutos: 360
 precioDesde: 17

@@ -6,8 +6,10 @@ descripcion: Entrada combinada al espectáculo «Cómo bailan los caballos andal
 slugs:
   es: caballos-andaluces-espectaculo-museos-jerez
   en: andalusian-horses-show-museums-jerez
+  de: jerez-pferdeshow-und-museen-reitschule
   fr: jerez-spectacle-chevaux-andalous-musees-ecole-royale
   it: jerez-spettacolo-cavalli-andalusi-musei-real-escuela
+  pt: cavalos-andaluzes-espetaculo-museus-jerez
 duracion: 3 horas 30 minutos
 duracionMinutos: 210
 precioDesde: 32

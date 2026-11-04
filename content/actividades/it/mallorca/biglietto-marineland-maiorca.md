@@ -6,6 +6,8 @@ descripcion: 'Biglietto per Marineland Maiorca, a Costa d''en Blanes: spettacoli
 slugs:
   es: marineland-mallorca-entrada
   en: marineland-mallorca-entry-ticket
+  de: marineland-mallorca-tickets
+  fr: marineland-majorque-billet
   it: biglietto-marineland-maiorca
   pt: marineland-maiorca-bilhete
 duracion: Valido 1 giorno

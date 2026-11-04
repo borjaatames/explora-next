@@ -6,6 +6,10 @@ descripcion: Skip-the-line ticket to Parque Warner Madrid, the DC and Looney Tun
 slugs:
   es: parque-warner-madrid-entrada
   en: parque-warner-madrid-ticket
+  de: parque-warner-madrid-tickets
+  fr: parque-warner-madrid-billet
+  it: parque-warner-madrid-biglietto
+  pt: parque-warner-madrid-bilhete
 duracion: 1 day
 duracionMinutos: 480
 precioDesde: 33

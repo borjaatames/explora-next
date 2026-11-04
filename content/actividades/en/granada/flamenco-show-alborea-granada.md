@@ -6,6 +6,7 @@ descripcion: One-hour flamenco show with reserved seating at Tablao La Alboreá 
 slugs:
   es: flamenco-alborea-granada
   en: flamenco-show-alborea-granada
+  de: granada-flamenco-show-alborea
   fr: grenade-spectacle-flamenco-la-alborea-centre
   it: granada-spettacolo-flamenco-la-alborea-centro
   pt: espetaculo-flamenco-la-alborea-centro-granada

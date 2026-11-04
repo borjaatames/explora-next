@@ -6,8 +6,10 @@ descripcion: Billet pour le ballet équestre de l'École royale andalouse d'art 
 slugs:
   es: como-bailan-caballos-andaluces-jerez-espectaculo
   en: how-andalusian-horses-dance-jerez-show
+  de: jerez-pferdeshow-wie-andalusische-pferde-tanzen
   fr: jerez-spectacle-comment-dansent-chevaux-andalous
   it: jerez-spettacolo-come-ballano-i-cavalli-andalusi
+  pt: como-dancam-cavalos-andaluzes-jerez-espetaculo
 duracion: 1 heure 30 minutes
 duracionMinutos: 90
 precioDesde: 27

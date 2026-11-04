@@ -6,6 +6,8 @@ descripcion: Espectáculo de flamenco en directo con cante, guitarra y baile en 
 slugs:
   es: flamenco-alicante-tablao-el-mentidero
   en: alicante-flamenco-show-el-mentidero
+  de: flamenco-show-el-mentidero-alicante
+  fr: alicante-spectacle-flamenco-el-mentidero-tapas
   it: alicante-spettacolo-flamenco-el-mentidero-tapas
   pt: alicante-flamenco-tablao-el-mentidero-tapas
 duracion: 1-2,5 horas

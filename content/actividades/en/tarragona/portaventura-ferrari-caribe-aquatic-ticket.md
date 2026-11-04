@@ -6,6 +6,8 @@ descripcion: 'Three-park combo ticket: PortAventura World theme park, Ferrari La
 slugs:
   es: portaventura-ferrari-caribe-aquatic-entrada
   en: portaventura-ferrari-caribe-aquatic-ticket
+  de: portaventura-ferrari-land-caribe-aquatic-kombiticket
+  fr: portaventura-ferrari-land-caribe-aquatic-billet-combine
   it: biglietto-portaventura-ferrari-land-caribe-aquatic
   pt: portaventura-ferrari-land-caribe-aquatic-bilhete
 duracion: 1-3 days

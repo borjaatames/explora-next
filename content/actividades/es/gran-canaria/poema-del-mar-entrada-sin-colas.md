@@ -6,6 +6,9 @@ descripcion: 'Entrada sin colas al acuario Poema del Mar de Las Palmas: 35 ecosi
 slugs:
   es: poema-del-mar-entrada-sin-colas
   en: poema-del-mar-aquarium-ticket
+  de: poema-del-mar-aquarium-tickets
+  fr: poema-del-mar-aquarium-billet-coupe-file
+  it: poema-del-mar-acquario-biglietto
   pt: las-palmas-aquario-poema-del-mar-bilhete-sem-filas
 duracion: Entrada válida 1 día
 precioDesde: 29

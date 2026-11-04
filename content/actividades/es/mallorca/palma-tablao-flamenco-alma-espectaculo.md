@@ -6,6 +6,8 @@ descripcion: Espectáculo de flamenco en directo de 1 hora en el Tablao Flamenco
 slugs:
   es: palma-tablao-flamenco-alma-espectaculo
   en: palma-tablao-flamenco-alma-show
+  de: palma-flamenco-show-tablao-alma
+  fr: palma-spectacle-flamenco-tablao-alma
   it: palma-spettacolo-flamenco-tablao-alma
   pt: palma-espetaculo-flamenco-tablao-alma
 duracion: 1 hora

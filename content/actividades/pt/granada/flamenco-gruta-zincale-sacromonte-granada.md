@@ -6,6 +6,7 @@ descripcion: Espetáculo de flamenco de 50 minutos na Cueva del Zincalé, uma gr
 slugs:
   es: flamenco-cueva-zincale-sacromonte
   en: flamenco-show-cueva-zincale-sacromonte
+  de: sacromonte-flamenco-cueva-zincale
   fr: grenade-flamenco-grotte-zincale-sacromonte
   it: granada-flamenco-grotta-zincale-sacromonte
   pt: flamenco-gruta-zincale-sacromonte-granada

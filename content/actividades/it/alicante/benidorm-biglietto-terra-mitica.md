@@ -6,6 +6,8 @@ descripcion: 'Ingresso al parco divertimenti di Benidorm a tema mediterraneo: Gr
 slugs:
   es: terra-mitica-benidorm-entrada
   en: terra-mitica-benidorm-ticket
+  de: terra-mitica-benidorm-tickets
+  fr: terra-mitica-benidorm-billet
   it: benidorm-biglietto-terra-mitica
   pt: benidorm-terra-mitica-bilhete
 duracion: 1 giornata intera

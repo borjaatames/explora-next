@@ -6,6 +6,10 @@ descripcion: Entry ticket to Aquópolis Villanueva de la Cañada, Madrid's most 
 slugs:
   es: aquopolis-villanueva-entrada
   en: aquopolis-villanueva-ticket
+  de: aquopolis-villanueva-tickets
+  fr: aquopolis-villanueva-de-la-canada-billet
+  it: aquopolis-villanueva-madrid-biglietto
+  pt: aquopolis-villanueva-madrid-bilhete
 duracion: 1 day
 duracionMinutos: 360
 precioDesde: 20

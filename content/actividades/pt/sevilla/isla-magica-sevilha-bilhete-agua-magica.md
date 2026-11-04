@@ -6,6 +6,7 @@ descripcion: 'Bilhete para o parque temático Isla Mágica de Sevilha, com opç�
 slugs:
   es: isla-magica-sevilla-entrada
   en: isla-magica-seville-ticket
+  de: isla-magica-sevilla-tickets
   fr: isla-magica-seville-billet-parc-aquatique-option
   it: biglietto-isla-magica-siviglia-agua-magica
   pt: isla-magica-sevilha-bilhete-agua-magica

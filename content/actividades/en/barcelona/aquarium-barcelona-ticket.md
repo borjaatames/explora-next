@@ -6,6 +6,10 @@ descripcion: Entry to L'Aquàrium de Barcelona, one of Europe's largest aquarium
 slugs:
   es: aquarium-barcelona-entrada
   en: aquarium-barcelona-ticket
+  de: aquarium-barcelona-tickets
+  fr: aquarium-barcelone-billet
+  it: acquario-barcellona-biglietto
+  pt: aquario-barcelona-bilhete
 duracion: 2-3 hours
 duracionMinutos: 150
 precioDesde: 30

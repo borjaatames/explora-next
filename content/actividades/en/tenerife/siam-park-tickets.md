@@ -6,6 +6,9 @@ descripcion: Full-day ticket to Siam Park, the water park themed on the ancient 
 slugs:
   es: siam-park-entradas
   en: siam-park-tickets
+  de: siam-park-tickets
+  fr: siam-park-tenerife-billet
+  it: siam-park-tenerife-biglietto
   pt: siam-park-bilhete-parque-aquatico-tenerife
 duracion: 1 day
 duracionMinutos: 480

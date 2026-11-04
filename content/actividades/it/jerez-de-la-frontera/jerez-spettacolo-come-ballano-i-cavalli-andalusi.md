@@ -6,8 +6,10 @@ descripcion: Ingresso al balletto equestre della Real Escuela Andaluza del Arte 
 slugs:
   es: como-bailan-caballos-andaluces-jerez-espectaculo
   en: how-andalusian-horses-dance-jerez-show
+  de: jerez-pferdeshow-wie-andalusische-pferde-tanzen
   fr: jerez-spectacle-comment-dansent-chevaux-andalous
   it: jerez-spettacolo-come-ballano-i-cavalli-andalusi
+  pt: como-dancam-cavalos-andaluzes-jerez-espetaculo
 duracion: 1 ora e 30 minuti
 duracionMinutos: 90
 precioDesde: 27

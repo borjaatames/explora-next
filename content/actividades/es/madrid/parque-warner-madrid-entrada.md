@@ -6,6 +6,10 @@ descripcion: Entrada a Parque Warner Madrid con las atracciones de DC Comics, Lo
 slugs:
   es: parque-warner-madrid-entrada
   en: parque-warner-madrid-ticket
+  de: parque-warner-madrid-tickets
+  fr: parque-warner-madrid-billet
+  it: parque-warner-madrid-biglietto
+  pt: parque-warner-madrid-bilhete
 duracion: 1 día (8-10 h)
 duracionMinutos: 540
 precioDesde: 33

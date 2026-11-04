@@ -6,6 +6,7 @@ descripcion: Spectacle de flamenco d'une heure au Teatro Flamenco Triana — dan
 slugs:
   es: teatro-flamenco-triana-show-en-directo
   en: seville-flamenco-show-teatro-flamenco-triana
+  de: teatro-flamenco-triana-show-tickets
   fr: seville-spectacle-flamenco-teatro-flamenco-triana
   it: siviglia-spettacolo-flamenco-teatro-triana
   pt: teatro-flamenco-triana-espetaculo-ao-vivo

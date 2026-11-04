@@ -6,6 +6,10 @@ descripcion: Espectáculo flamenco de 1 hora en el Tablao Torres Bermejas (abier
 slugs:
   es: flamenco-torres-bermejas-cena
   en: flamenco-torres-bermejas-dining-options
+  de: flamenco-show-torres-bermejas-madrid
+  fr: madrid-spectacle-flamenco-torres-bermejas-diner
+  it: torres-bermejas-flamenco-cena-madrid
+  pt: torres-bermejas-flamenco-jantar-madrid
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 31

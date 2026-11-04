@@ -6,6 +6,7 @@ descripcion: Spectacle de flamenco au Tablao El Arenal — 50 ans d'histoire à 
 slugs:
   es: tablao-flamenco-el-arenal-sevilla-50-anos
   en: seville-flamenco-show-tablao-el-arenal-historic
+  de: tablao-el-arenal-flamenco-show-sevilla
   fr: seville-tablao-flamenco-el-arenal-50-ans-maestranza
   it: siviglia-tablao-flamenco-el-arenal-maestranza
   pt: tablao-flamenco-el-arenal-sevilha-50-anos

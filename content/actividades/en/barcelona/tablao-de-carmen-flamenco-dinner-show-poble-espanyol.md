@@ -6,6 +6,10 @@ descripcion: Flamenco show with dinner at Tablao de Carmen, inside Poble Espanyo
 slugs:
   es: tablao-de-carmen-flamenco-cena-poble-espanyol
   en: tablao-de-carmen-flamenco-dinner-show-poble-espanyol
+  de: tablao-de-carmen-flamenco-dinner-show-barcelona
+  fr: barcelone-tablao-de-carmen-diner-spectacle-flamenco-poble-espanyol
+  it: tablao-de-carmen-flamenco-cena-barcellona
+  pt: tablao-de-carmen-flamenco-jantar-barcelona
 duracion: 1 hour (show) — total with dinner ~3 hours
 duracionMinutos: 60
 precioDesde: 88

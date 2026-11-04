@@ -6,6 +6,7 @@ descripcion: Espectáculo flamenco de 1 hora en el Teatro Flamenco Triana — en
 slugs:
   es: teatro-flamenco-triana-show-en-directo
   en: seville-flamenco-show-teatro-flamenco-triana
+  de: teatro-flamenco-triana-show-tickets
   fr: seville-spectacle-flamenco-teatro-flamenco-triana
   it: siviglia-spettacolo-flamenco-teatro-triana
   pt: teatro-flamenco-triana-espetaculo-ao-vivo

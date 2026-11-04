@@ -6,6 +6,7 @@ descripcion: A one-hour unamplified flamenco show inside the 10th-century Arab B
 slugs:
   es: flamenco-banos-arabes-santa-maria-cordoba
   en: flamenco-show-arab-baths-cordoba
+  de: flamenco-arabische-baeder-santa-maria-cordoba
   fr: cordoue-flamenco-bains-arabes-santa-maria
   it: cordova-flamenco-bagni-arabi-santa-maria
   pt: cordova-flamenco-banhos-arabes-santa-maria

@@ -6,6 +6,7 @@ descripcion: Spettacolo di flamenco di 80 minuti con 7 artisti, tre dei quali vi
 slugs:
   es: espectaculo-flamenco-tablao-cardenal
   en: flamenco-show-tablao-cardenal
+  de: flamenco-show-tablao-cardenal-cordoba
   fr: cordoue-spectacle-flamenco-tablao-cardenal-boisson
   it: cordova-spettacolo-flamenco-tablao-cardenal-bevanda
   pt: cordova-flamenco-tablao-cardenal-bebida

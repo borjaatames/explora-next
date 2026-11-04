@@ -6,6 +6,7 @@ descripcion: Espectáculo flamenco de una hora en la Cueva La Faraona, una cueva
 slugs:
   es: flamenco-cueva-faraona-sacromonte
   en: flamenco-show-cueva-la-faraona-sacromonte
+  de: sacromonte-flamenco-cueva-la-faraona
   fr: grenade-flamenco-grotte-la-faraona-sacromonte
   it: granada-flamenco-grotta-la-faraona-sacromonte
   pt: flamenco-gruta-la-faraona-sacromonte-granada

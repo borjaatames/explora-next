@@ -6,6 +6,10 @@ descripcion: Entrada al Parque de Atracciones de Madrid en la Casa de Campo con 
 slugs:
   es: parque-atracciones-madrid-entrada
   en: parque-atracciones-madrid-ticket
+  de: parque-de-atracciones-madrid-tickets
+  fr: parc-attractions-madrid-billet
+  it: parque-de-atracciones-madrid-biglietto
+  pt: parque-de-atracciones-madrid-bilhete
 duracion: 1 día (6-8 h)
 duracionMinutos: 420
 precioDesde: 24

@@ -6,6 +6,9 @@ descripcion: 'Combined ticket to Valencia''s three main attractions at the City 
 slugs:
   es: ciudad-artes-3-en-1-oceanografic-hemisferic-museu
   en: ciudad-artes-3-en-1-ticket
+  de: stadt-der-kuenste-3-in-1-ticket
+  fr: valence-billet-3-en-1-oceanografic-hemisferic-musee-sciences
+  it: citta-arti-scienze-valencia-biglietto-3-in-1
   pt: cidade-artes-ciencias-bilhete-3-em-1-oceanografic
 duracion: 1 full day
 duracionMinutos: 480

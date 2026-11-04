@@ -6,6 +6,9 @@ descripcion: Entrada combinada al Oceanogràfic y al Museo de las Ciencias de la
 slugs:
   es: oceanografic-museo-ciencias-entrada-combinada
   en: oceanografic-science-museum-combo-ticket
+  de: oceanografic-wissenschaftsmuseum-kombiticket
+  fr: valence-billet-combine-oceanografic-musee-sciences
+  it: oceanografic-museo-scienze-valencia-biglietto
   pt: oceanografic-museu-ciencias-bilhete-combinado
 duracion: 1 día
 duracionMinutos: 360

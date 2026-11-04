@@ -6,6 +6,10 @@ descripcion: Entrada a Faunia, el parque de naturaleza y ciencia de Madrid con 1
 slugs:
   es: faunia-madrid-entrada
   en: faunia-madrid-ticket
+  de: faunia-madrid-tickets
+  fr: faunia-madrid-billet
+  it: faunia-madrid-biglietto
+  pt: faunia-madrid-bilhete
 duracion: 4-6 horas
 duracionMinutos: 300
 precioDesde: 17

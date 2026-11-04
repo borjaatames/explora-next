@@ -6,6 +6,7 @@ descripcion: Espectáculo de flamenco de 1 hora y media en la Cueva La Rocío, u
 slugs:
   es: flamenco-cueva-la-rocio-sacromonte
   en: flamenco-show-cueva-la-rocio-sacromonte
+  de: sacromonte-flamenco-cueva-la-rocio
   fr: grenade-flamenco-grotte-la-rocio-sacromonte
   it: granada-flamenco-grotta-la-rocio-sacromonte
   pt: flamenco-gruta-la-rocio-sacromonte-granada

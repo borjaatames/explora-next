@@ -6,6 +6,10 @@ descripcion: Entrada al Parque de Atracciones del Tibidabo, en la colina más al
 slugs:
   es: tibidabo-barcelona-entrada
   en: tibidabo-barcelona-ticket
+  de: tibidabo-freizeitpark-barcelona-tickets
+  fr: tibidabo-barcelone-parc-attractions-billet
+  it: tibidabo-barcellona-biglietto
+  pt: tibidabo-barcelona-bilhete
 duracion: 1 día (4-6 h)
 duracionMinutos: 300
 precioDesde: 39

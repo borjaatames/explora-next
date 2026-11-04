@@ -6,6 +6,10 @@ descripcion: 1-hour flamenco show at Barcelona's City Hall Theatre — the MOST 
 slugs:
   es: flamenco-en-el-teatro-city-hall-mas-vendido
   en: flamenco-show-at-the-theater-city-hall-top-pick
+  de: flamenco-show-city-hall-theatre-barcelona
+  fr: barcelone-spectacle-flamenco-theatre-city-hall
+  it: flamenco-teatro-city-hall-barcellona
+  pt: flamenco-teatro-city-hall-barcelona
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 25

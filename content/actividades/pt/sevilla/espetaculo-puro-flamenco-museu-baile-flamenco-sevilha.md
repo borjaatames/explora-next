@@ -6,6 +6,7 @@ descripcion: Espetáculo de flamenco de 1 hora no pátio Écija do séc. XVIII d
 slugs:
   es: museo-baile-flamenco-puro-show-sevilla
   en: seville-puro-flamenco-show-dance-museum
+  de: museo-baile-flamenco-show-sevilla
   fr: seville-spectacle-puro-flamenco-musee-baile-flamenco
   it: siviglia-puro-flamenco-museo-del-baile-flamenco
   pt: espetaculo-puro-flamenco-museu-baile-flamenco-sevilha

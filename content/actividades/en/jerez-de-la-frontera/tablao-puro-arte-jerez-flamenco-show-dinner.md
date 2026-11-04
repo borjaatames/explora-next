@@ -6,8 +6,10 @@ descripcion: One-hour flamenco show with five artists at Tablao Puro Arte, a 173
 slugs:
   es: tablao-puro-arte-jerez-flamenco-cena
   en: tablao-puro-arte-jerez-flamenco-show-dinner
+  de: jerez-flamenco-show-tablao-puro-arte
   fr: jerez-spectacle-flamenco-tablao-puro-arte-menu
   it: jerez-flamenco-tablao-puro-arte-con-cena
+  pt: tablao-puro-arte-jerez-flamenco-jantar
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 35

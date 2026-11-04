@@ -6,6 +6,9 @@ descripcion: 'One-day ticket to Loro Parque in Puerto de la Cruz: parrots, pengu
 slugs:
   es: loro-parque-entradas
   en: loro-parque-tickets
+  de: loro-parque-tickets
+  fr: loro-parque-tenerife-billet
+  it: loro-parque-tenerife-biglietto
   pt: loro-parque-bilhete-puerto-de-la-cruz
 duracion: 1 day
 duracionMinutos: 480

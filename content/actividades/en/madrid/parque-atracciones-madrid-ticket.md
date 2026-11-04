@@ -6,6 +6,10 @@ descripcion: Entry ticket to Madrid's historic Parque de Atracciones, in the Cas
 slugs:
   es: parque-atracciones-madrid-entrada
   en: parque-atracciones-madrid-ticket
+  de: parque-de-atracciones-madrid-tickets
+  fr: parc-attractions-madrid-billet
+  it: parque-de-atracciones-madrid-biglietto
+  pt: parque-de-atracciones-madrid-bilhete
 duracion: 1 day
 duracionMinutos: 360
 precioDesde: 24

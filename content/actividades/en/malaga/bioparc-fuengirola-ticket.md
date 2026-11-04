@@ -6,6 +6,7 @@ descripcion: 'Entry to Bioparc Fuengirola: over 200 species in four habitats wit
 slugs:
   es: bioparc-fuengirola-entrada
   en: bioparc-fuengirola-ticket
+  de: bioparc-fuengirola-tickets
   fr: fuengirola-billet-bioparc
   it: biglietto-bioparc-fuengirola
   pt: fuengirola-bilhete-bioparc

@@ -6,6 +6,7 @@ descripcion: Flamenco ao vivo de terça a domingo às 21h00 no Tablao El Pañuel
 slugs:
   es: espectaculo-flamenco-tablao-el-panuelo-cordoba
   en: flamenco-show-tablao-el-panuelo-cordoba
+  de: flamenco-show-tablao-el-panuelo-cordoba
   fr: cordoue-spectacle-flamenco-tablao-el-panuelo
   it: cordova-spettacolo-flamenco-tablao-el-panuelo
   pt: cordova-flamenco-tablao-el-panuelo

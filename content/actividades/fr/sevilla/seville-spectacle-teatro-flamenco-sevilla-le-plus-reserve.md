@@ -6,6 +6,7 @@ descripcion: Spectacle de flamenco d'une heure au Teatro Flamenco Sevilla (Calle
 slugs:
   es: teatro-flamenco-sevilla-show-mas-vendido
   en: seville-live-flamenco-dancing-show-theater-top-pick
+  de: teatro-flamenco-sevilla-show-tickets
   fr: seville-spectacle-teatro-flamenco-sevilla-le-plus-reserve
   it: siviglia-spettacolo-teatro-flamenco-sevilla
   pt: teatro-flamenco-sevilha-espetaculo-mais-vendido

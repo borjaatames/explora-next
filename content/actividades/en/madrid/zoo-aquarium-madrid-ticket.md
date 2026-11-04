@@ -6,6 +6,10 @@ descripcion: Skip-the-line ticket to Madrid Zoo Aquarium, home to more than 6,00
 slugs:
   es: zoo-aquarium-madrid-entrada
   en: zoo-aquarium-madrid-ticket
+  de: zoo-aquarium-madrid-tickets
+  fr: zoo-aquarium-madrid-billet
+  it: zoo-aquarium-madrid-biglietto
+  pt: zoo-aquarium-madrid-bilhete
 duracion: 1 day
 duracionMinutos: 360
 precioDesde: 20

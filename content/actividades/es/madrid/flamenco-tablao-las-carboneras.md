@@ -6,6 +6,10 @@ descripcion: Show flamenco de 1 hora en el Tablao Las Carboneras, en pleno barri
 slugs:
   es: flamenco-tablao-las-carboneras
   en: flamenco-tablao-las-carboneras
+  de: flamenco-tablao-las-carboneras-madrid
+  fr: madrid-spectacle-flamenco-tablao-las-carboneras
+  it: tablao-las-carboneras-flamenco-madrid
+  pt: tablao-las-carboneras-flamenco-madrid
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 45

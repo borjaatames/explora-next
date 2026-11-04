@@ -6,6 +6,7 @@ descripcion: 'Biglietto per il Bioparc Fuengirola: oltre 200 specie in quattro h
 slugs:
   es: bioparc-fuengirola-entrada
   en: bioparc-fuengirola-ticket
+  de: bioparc-fuengirola-tickets
   fr: fuengirola-billet-bioparc
   it: biglietto-bioparc-fuengirola
   pt: fuengirola-bilhete-bioparc

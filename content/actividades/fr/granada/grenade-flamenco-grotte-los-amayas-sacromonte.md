@@ -6,6 +6,7 @@ descripcion: Spectacle de flamenco d'une heure dans la grotte Los Amayas, une za
 slugs:
   es: flamenco-cueva-amayas-sacromonte
   en: flamenco-show-cueva-los-amayas-sacromonte
+  de: sacromonte-flamenco-cueva-los-amayas
   fr: grenade-flamenco-grotte-los-amayas-sacromonte
   it: granada-flamenco-grotta-los-amayas-sacromonte
   pt: flamenco-gruta-los-amayas-sacromonte-granada

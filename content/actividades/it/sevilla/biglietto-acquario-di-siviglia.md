@@ -6,6 +6,7 @@ descripcion: 'Biglietto per l''Acquario di Siviglia, sul Guadalquivir: 40 vasche
 slugs:
   es: acuario-sevilla-entrada
   en: seville-aquarium-ticket
+  de: aquarium-sevilla-tickets
   fr: seville-billet-aquarium
   it: biglietto-acquario-di-siviglia
   pt: aquario-sevilha-bilhete-entrada

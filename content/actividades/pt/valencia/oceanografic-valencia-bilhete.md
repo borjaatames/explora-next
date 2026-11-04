@@ -6,6 +6,9 @@ descripcion: Bilhete para o Oceanogràfic de Valência, o maior aquário da Euro
 slugs:
   es: oceanografic-valencia-entrada
   en: oceanografic-valencia-ticket
+  de: oceanografic-valencia-tickets
+  fr: oceanografic-valence-billet
+  it: oceanografic-valencia-biglietto
   pt: oceanografic-valencia-bilhete
 duracion: 1 dia (visita de 3-4 horas)
 duracionMinutos: 240

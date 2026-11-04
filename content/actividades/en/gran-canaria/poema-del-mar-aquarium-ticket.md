@@ -6,6 +6,9 @@ descripcion: 'Skip-the-line ticket to the Poema del Mar aquarium in Las Palmas: 
 slugs:
   es: poema-del-mar-entrada-sin-colas
   en: poema-del-mar-aquarium-ticket
+  de: poema-del-mar-aquarium-tickets
+  fr: poema-del-mar-aquarium-billet-coupe-file
+  it: poema-del-mar-acquario-biglietto
   pt: las-palmas-aquario-poema-del-mar-bilhete-sem-filas
 duracion: Ticket valid for 1 day
 precioDesde: 29

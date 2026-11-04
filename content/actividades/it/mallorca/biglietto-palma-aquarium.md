@@ -6,6 +6,8 @@ descripcion: 'Biglietto ufficiale per il Palma Aquarium, accanto a Playa de Palm
 slugs:
   es: palma-aquarium-entrada
   en: palma-aquarium-entry-ticket
+  de: palma-aquarium-tickets
+  fr: palma-aquarium-billet
   it: biglietto-palma-aquarium
   pt: palma-aquarium-bilhete-entrada
 duracion: Valido 1 giorno

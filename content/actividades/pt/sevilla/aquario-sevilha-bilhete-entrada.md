@@ -6,6 +6,7 @@ descripcion: 'Bilhete para o Aqu√°rio de Sevilha, junto ao Guadalquivir: 40 aqu√
 slugs:
   es: acuario-sevilla-entrada
   en: seville-aquarium-ticket
+  de: aquarium-sevilla-tickets
   fr: seville-billet-aquarium
   it: biglietto-acquario-di-siviglia
   pt: aquario-sevilha-bilhete-entrada

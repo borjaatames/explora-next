@@ -6,6 +6,9 @@ descripcion: Bilhete para o Bioparc Valencia, o jardim zoológico de imersão qu
 slugs:
   es: bioparc-valencia-entrada
   en: bioparc-valencia-ticket
+  de: bioparc-valencia-tickets
+  fr: bioparc-valence-billet
+  it: bioparc-valencia-biglietto
   pt: bioparc-valencia-bilhete
 duracion: 1 dia (visita de 3-4 horas)
 duracionMinutos: 240

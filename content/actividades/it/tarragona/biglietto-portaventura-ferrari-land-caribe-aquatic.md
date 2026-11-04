@@ -6,6 +6,8 @@ descripcion: 'Biglietto combinato per il complesso di parchi di Port Aventura: P
 slugs:
   es: portaventura-ferrari-caribe-aquatic-entrada
   en: portaventura-ferrari-caribe-aquatic-ticket
+  de: portaventura-ferrari-land-caribe-aquatic-kombiticket
+  fr: portaventura-ferrari-land-caribe-aquatic-billet-combine
   it: biglietto-portaventura-ferrari-land-caribe-aquatic
   pt: portaventura-ferrari-land-caribe-aquatic-bilhete
 duracion: 2-3 giorni

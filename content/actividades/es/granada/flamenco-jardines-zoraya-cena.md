@@ -6,6 +6,7 @@ descripcion: Pack de cena andaluza + espectáculo flamenco de una hora en los Ja
 slugs:
   es: flamenco-jardines-zoraya-cena
   en: flamenco-show-jardines-zoraya-dinner
+  de: albaicin-flamenco-jardines-de-zoraya-abendessen
   fr: grenade-diner-spectacle-flamenco-jardines-de-zoraya
   it: granada-flamenco-con-cena-jardines-de-zoraya-albayzin
   pt: espetaculo-flamenco-jantar-jardines-zoraya-albaicin

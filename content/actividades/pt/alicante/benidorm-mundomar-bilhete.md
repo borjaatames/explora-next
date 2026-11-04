@@ -6,6 +6,8 @@ descripcion: Bilhete para o parque marinho e zoológico de Benidorm com golfinho
 slugs:
   es: mundomar-benidorm-entrada
   en: mundomar-benidorm-ticket
+  de: mundomar-benidorm-tickets
+  fr: mundomar-benidorm-billet
   it: benidorm-biglietto-mundomar-delfini
   pt: benidorm-mundomar-bilhete
 duracion: 1 dia

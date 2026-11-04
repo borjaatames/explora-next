@@ -6,6 +6,8 @@ descripcion: 'Biglietto per il Western Water Park di Magaluf, il parco acquatico
 slugs:
   es: western-water-park-magaluf-entrada
   en: western-water-park-magaluf-ticket
+  de: western-water-park-magaluf-tickets
+  fr: western-water-park-magaluf-billet
   it: biglietto-western-water-park-magaluf
   pt: western-water-park-magaluf-bilhete
 duracion: Valido 1 giorno

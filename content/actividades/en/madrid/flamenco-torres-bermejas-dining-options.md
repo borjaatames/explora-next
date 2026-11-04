@@ -6,6 +6,10 @@ descripcion: 1-hour flamenco show at Tablao Torres Bermejas (opened in 1960, Alh
 slugs:
   es: flamenco-torres-bermejas-cena
   en: flamenco-torres-bermejas-dining-options
+  de: flamenco-show-torres-bermejas-madrid
+  fr: madrid-spectacle-flamenco-torres-bermejas-diner
+  it: torres-bermejas-flamenco-cena-madrid
+  pt: torres-bermejas-flamenco-jantar-madrid
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 31

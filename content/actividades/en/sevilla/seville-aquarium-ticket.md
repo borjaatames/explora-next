@@ -6,6 +6,7 @@ descripcion: 'Entry to the Seville Aquarium by the Guadalquivir: 40 tanks, over 
 slugs:
   es: acuario-sevilla-entrada
   en: seville-aquarium-ticket
+  de: aquarium-sevilla-tickets
   fr: seville-billet-aquarium
   it: biglietto-acquario-di-siviglia
   pt: aquario-sevilha-bilhete-entrada

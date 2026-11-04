@@ -16,8 +16,6 @@
  * Sin dependencias de Node: lo importa el middleware (Edge runtime).
  */
 export const CIUDADES_DE_INDEXABLES: ReadonlySet<string> = new Set([
-  "/de/guides/madrid/kathedrale-toledo-tickets",
-  "/de/guides/malaga/hoehle-von-nerja-tickets",
   "mallorca",
   "tenerife",
   "gran-canaria",
@@ -31,6 +29,8 @@ export const CIUDADES_DE_INDEXABLES: ReadonlySet<string> = new Set([
  * Para abrir otra guía DE, añade aquí su ruta.
  */
 export const GUIAS_DE_INDEXABLES: ReadonlySet<string> = new Set([
+  "/de/guides/madrid/kathedrale-toledo-tickets",
+  "/de/guides/malaga/hoehle-von-nerja-tickets",
   "/de/guides/alicante/costa-blanca-ausfluege-ab-alicante",
   "/de/guides/alicante/isla-de-tabarca-besichtigen",
   "/de/guides/alicante/was-sehen-in-alicante",

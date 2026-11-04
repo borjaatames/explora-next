@@ -6,6 +6,9 @@ descripcion: Noite de flamenco no tablao La Bulería com jantar mediterrânico e
 slugs:
   es: flamenco-cena-la-buleria-valencia
   en: valencia-flamenco-dinner-show-la-buleria
+  de: flamenco-dinner-show-la-buleria-valencia
+  fr: valence-diner-spectacle-flamenco-la-buleria
+  it: flamenco-cena-la-buleria-valencia
   pt: flamenco-com-jantar-la-buleria-valencia
 duracion: 5 horas
 duracionMinutos: 300

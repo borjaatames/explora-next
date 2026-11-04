@@ -6,6 +6,9 @@ descripcion: Espectáculo de flamenco de una hora con guitarra, cante, palmas y 
 slugs:
   es: flamenco-espai-inestable-centro-valencia
   en: valencia-flamenco-show-espai-inestable
+  de: flamenco-show-espai-inestable-valencia
+  fr: valence-spectacle-flamenco-espai-inestable
+  it: flamenco-espai-inestable-valencia
   pt: flamenco-espai-inestable-centro-valencia
 duracion: 1 hora
 duracionMinutos: 60

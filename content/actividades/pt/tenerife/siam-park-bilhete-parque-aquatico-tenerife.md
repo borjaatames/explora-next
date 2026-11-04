@@ -6,6 +6,9 @@ descripcion: Bilhete de dia completo para o Siam Park, o parque aquático temát
 slugs:
   es: siam-park-entradas
   en: siam-park-tickets
+  de: siam-park-tickets
+  fr: siam-park-tenerife-billet
+  it: siam-park-tenerife-biglietto
   pt: siam-park-bilhete-parque-aquatico-tenerife
 duracion: 1 dia
 duracionMinutos: 480

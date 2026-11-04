@@ -6,6 +6,8 @@ descripcion: Ingresso al parco marino e zoologico di Benidorm con delfini, leoni
 slugs:
   es: mundomar-benidorm-entrada
   en: mundomar-benidorm-ticket
+  de: mundomar-benidorm-tickets
+  fr: mundomar-benidorm-billet
   it: benidorm-biglietto-mundomar-delfini
   pt: benidorm-mundomar-bilhete
 duracion: 1 giorno
