@@ -172,6 +172,54 @@ export const PROVEEDORES_LOCALES: ReadonlyArray<ProveedorLocal> = [
       },
     ],
   },
+  {
+    id: "ventana-a-la-cultura",
+    nombre: "Ventana a la Cultura",
+    // URL indicada por Ventana a la Cultura (Jaime) el 05-11-2026.
+    web: "https://www.ventanacultura.com/home.html",
+    ciudades: {
+      es: "Madrid",
+      en: "Madrid",
+      de: "Madrid",
+      fr: "Madrid",
+      it: "Madrid",
+      pt: "Madrid",
+    },
+    descripcion: {
+      es: "Visitas privadas por Madrid con guía oficial en español, inglés o italiano: museos del Prado y Reina Sofía, tabernas centenarias y el Madrid de siempre.",
+      en: "Private tours of Madrid with an official guide in English, Spanish or Italian: the Prado and Reina Sofía museums, century-old taverns and classic Madrid.",
+      de: "Private Führungen durch Madrid mit offiziellem Guide auf Englisch, Spanisch oder Italienisch: Prado, Reina Sofía, traditionsreiche Tavernen und das klassische Madrid.",
+      fr: "Visites privées de Madrid avec un guide officiel en anglais, espagnol ou italien : musées du Prado et Reina Sofía, tavernes centenaires et Madrid incontournable.",
+      it: "Visite private di Madrid con guida ufficiale in italiano, inglese o spagnolo: musei del Prado e Reina Sofía, taverne centenarie e la Madrid di sempre.",
+      pt: "Visitas privadas por Madrid com guia oficial em inglês, espanhol ou italiano: museus do Prado e Reina Sofía, tabernas centenárias e a Madrid clássica.",
+    },
+    actividades: [
+      {
+        ciudad: "madrid",
+        slugEs: "museo-prado-visita-privada-guia-oficial",
+        slugEn: "prado-museum-private-tour-official-guide",
+        nombre: { es: "Museo del Prado", en: "Prado Museum", de: "Prado-Museum", fr: "Musée du Prado", it: "Museo del Prado", pt: "Museu do Prado" },
+      },
+      {
+        ciudad: "madrid",
+        slugEs: "reina-sofia-visita-privada-guia",
+        slugEn: "reina-sofia-museum-private-tour",
+        nombre: { es: "Museo Reina Sofía", en: "Reina Sofía Museum", de: "Museum Reina Sofía", fr: "Musée Reina Sofía", it: "Museo Reina Sofía", pt: "Museu Reina Sofía" },
+      },
+      {
+        ciudad: "madrid",
+        slugEs: "tour-privado-tabernas-centenarias-madrid",
+        slugEn: "madrid-oldest-taverns-private-tour",
+        nombre: { es: "Tabernas centenarias", en: "Century-old taverns", de: "Traditionstavernen", fr: "Tavernes centenaires", it: "Taverne centenarie", pt: "Tabernas centenárias" },
+      },
+      {
+        ciudad: "madrid",
+        slugEs: "paseo-privado-madrid-secretos-imprescindibles",
+        slugEn: "madrid-private-walking-tour-secrets",
+        nombre: { es: "Paseo por Madrid", en: "Madrid walking tour", de: "Stadtrundgang Madrid", fr: "Balade dans Madrid", it: "Passeggiata per Madrid", pt: "Passeio por Madrid" },
+      },
+    ],
+  },
 ];
 
 /** Ruta de la página de proveedores en cada idioma. */
