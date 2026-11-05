@@ -136,6 +136,42 @@ export const PROVEEDORES_LOCALES: ReadonlyArray<ProveedorLocal> = [
       },
     ],
   },
+  {
+    id: "city-tuk-tuk-sevilla",
+    nombre: "City Tuk Tuk Sevilla",
+    // URL indicada por City Tuk Tuk (Anika Smith) el 05-11-2026.
+    web: "https://citytuktuk.com",
+    ciudades: {
+      es: "Sevilla",
+      en: "Seville",
+      de: "Sevilla",
+      fr: "Séville",
+      it: "Siviglia",
+      pt: "Sevilha",
+    },
+    descripcion: {
+      es: "Tours privados en tuk tuk eléctrico por Sevilla, de 1 y 2 horas, con guía local en español, inglés o francés.",
+      en: "Private electric tuk tuk tours of Seville, 1 or 2 hours, with a local guide in English, Spanish or French.",
+      de: "Private Touren im Elektro-Tuk-Tuk durch Sevilla, 1 oder 2 Stunden, mit lokalem Guide auf Englisch, Spanisch oder Französisch.",
+      fr: "Visites privées de Séville en tuk-tuk électrique, d'une ou deux heures, avec un guide local en français, anglais ou espagnol.",
+      it: "Tour privati di Siviglia in tuk tuk elettrico, di 1 o 2 ore, con guida locale in inglese, spagnolo o francese.",
+      pt: "Visitas privadas de Sevilha em tuk tuk elétrico, de 1 ou 2 horas, com guia local em inglês, espanhol ou francês.",
+    },
+    actividades: [
+      {
+        ciudad: "sevilla",
+        slugEs: "tuk-tuk-privado-sevilla",
+        slugEn: "private-tuk-tuk-tour-seville",
+        nombre: { es: "Tuk tuk 1 hora", en: "1-hour tuk tuk tour", de: "Tuk Tuk 1 Stunde", fr: "Tuk-tuk 1 heure", it: "Tuk tuk 1 ora", pt: "Tuk tuk 1 hora" },
+      },
+      {
+        ciudad: "sevilla",
+        slugEs: "tuk-tuk-privado-sevilla-2-horas",
+        slugEn: "private-tuk-tuk-tour-seville-2-hours",
+        nombre: { es: "Tuk tuk 2 horas", en: "2-hour tuk tuk tour", de: "Tuk Tuk 2 Stunden", fr: "Tuk-tuk 2 heures", it: "Tuk tuk 2 ore", pt: "Tuk tuk 2 horas" },
+      },
+    ],
+  },
 ];
 
 /** Ruta de la página de proveedores en cada idioma. */
