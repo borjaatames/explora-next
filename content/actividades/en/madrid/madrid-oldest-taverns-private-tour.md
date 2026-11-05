@@ -54,37 +54,33 @@ keywords:
 - madrid oldest taverns
 - madrid tavern tour
 - world's oldest restaurant
-imagen: /images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp
-imagenAlt: Wood-panelled interior of a traditional Madrid tavern
+imagen: /images/actividades/madrid/proveedor-ventana-cultura/taberna-malacatin-fachada.webp
+imagenAlt: "Front of Malacatín tavern, with its wooden door and painted sign"
 galeria:
-- src: /images/actividades/madrid/tabernas-centenarias/unsplash-barra-madera-antigua.webp
-  alt: Old wooden bar lined with bottles and stools
+- src: /images/actividades/madrid/proveedor-ventana-cultura/taberna-barra-centenaria.webp
+  alt: "Wooden bar of a century-old tavern with bottles and jugs hanging from the ceiling"
 - src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-villa-rosa-tablao-hero.webp
-  alt: Tiled façade of Villa Rosa, a historic venue near Plaza de Santa Ana
-- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-bar-hawaiano-plaza-santa-ana-rainy-hero.webp
-  alt: Old tavern façade lit up at night in the centre of Madrid
+  alt: "Tiled façade of Villa Rosa, a historic venue near Plaza de Santa Ana"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/taberna-bodega-botelleros.webp
+  alt: "Vaulted cellar with racks full of wine bottles beneath a tavern"
 - src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp
-  alt: Waiter pouring wine behind the bar
+  alt: "Waiter pouring wine behind the bar"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/taberna-escalera-bodega.webp
+  alt: "Stairs cut into the rock leading down to a tavern cellar"
 - src: /images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp
-  alt: Hams hanging over the bar of a Madrid tavern
-- src: /images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp
-  alt: A caña with a tapa on a zinc counter
+  alt: "Hams hanging over the bar of a Madrid tavern"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/taberna-caja-registradora.webp
+  alt: "Antique engraved metal cash register on a tavern bar"
 - src: /images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp
-  alt: Plate of ham croquettes
-- src: /images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp
-  alt: Patatas bravas, a classic Madrid tapa
-- src: /images/actividades/madrid/tapas/tapas-madrid-tortilla-patatas-corte-transversal-hero.webp
-  alt: Slice of Spanish omelette
-- src: /images/actividades/madrid/tapas/tapas-madrid-jamon-cutter-cutting-iberian-court-hero.webp
-  alt: Carving Iberian ham by hand
-- src: /images/actividades/madrid/tapas/tapas-madrid-person-pouring-red-wine-into-glass-hero.webp
-  alt: Pouring a glass of red wine
-- src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp
-  alt: Squid sandwich with a beer
+  alt: "Plate of ham croquettes"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/lhardy-fachada-antigua.webp
+  alt: "Old black-and-white photograph of the Lhardy shopfront"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/lhardy-salon-japones.webp
+  alt: "The Japanese Room at Lhardy, with laid tables and period lamps"
 - src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-discover-quaint-street-classic-hero.webp
-  alt: Narrow street in old Madrid
+  alt: "Narrow street in old Madrid"
 - src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
-  alt: Plaza Mayor, in the heart of the old town
+  alt: "Plaza Mayor, in the heart of the old town"
 publicada: true
 indexar: false
 destacada: false

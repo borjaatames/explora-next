@@ -54,37 +54,33 @@ keywords:
 - tabernas centenarias madrid
 - tour tabernas madrid
 - restaurante más antiguo del mundo
-imagen: /images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp
-imagenAlt: Interior de madera de una taberna tradicional de Madrid
+imagen: /images/actividades/madrid/proveedor-ventana-cultura/taberna-malacatin-fachada.webp
+imagenAlt: "Fachada de la taberna Malacatín, con su puerta de madera y el nombre pintado en la pared"
 galeria:
-- src: /images/actividades/madrid/tabernas-centenarias/unsplash-barra-madera-antigua.webp
-  alt: Barra antigua de madera con botellas y taburetes
+- src: /images/actividades/madrid/proveedor-ventana-cultura/taberna-barra-centenaria.webp
+  alt: "Barra de madera de una taberna centenaria con botellas y jarras colgadas del techo"
 - src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-villa-rosa-tablao-hero.webp
-  alt: Fachada de azulejos de Villa Rosa, un local histórico junto a la Plaza de Santa Ana
-- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-bar-hawaiano-plaza-santa-ana-rainy-hero.webp
-  alt: Fachada de una taberna antigua iluminada de noche en el centro de Madrid
+  alt: "Fachada de azulejos de Villa Rosa, un local histórico junto a la Plaza de Santa Ana"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/taberna-bodega-botelleros.webp
+  alt: "Bodega abovedada con botelleros llenos de vino bajo una taberna"
 - src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp
-  alt: Camarero sirviendo vino en la barra
+  alt: "Camarero sirviendo vino en la barra"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/taberna-escalera-bodega.webp
+  alt: "Escalera excavada en la roca que baja a la bodega de una taberna"
 - src: /images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp
-  alt: Jamones colgados sobre la barra de una taberna madrileña
-- src: /images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp
-  alt: Una caña con su tapa en una barra de zinc
+  alt: "Jamones colgados sobre la barra de una taberna madrileña"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/taberna-caja-registradora.webp
+  alt: "Antigua caja registradora de metal labrado en la barra de una taberna"
 - src: /images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp
-  alt: Ración de croquetas de jamón
-- src: /images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp
-  alt: Patatas bravas, un clásico de las tabernas de Madrid
-- src: /images/actividades/madrid/tapas/tapas-madrid-tortilla-patatas-corte-transversal-hero.webp
-  alt: Pincho de tortilla de patatas
-- src: /images/actividades/madrid/tapas/tapas-madrid-jamon-cutter-cutting-iberian-court-hero.webp
-  alt: Corte de jamón ibérico a cuchillo
-- src: /images/actividades/madrid/tapas/tapas-madrid-person-pouring-red-wine-into-glass-hero.webp
-  alt: Sirviendo una copa de vino tinto
-- src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp
-  alt: Bocadillo de calamares con una caña
+  alt: "Ración de croquetas de jamón"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/lhardy-fachada-antigua.webp
+  alt: "Fotografía antigua en blanco y negro de la fachada de Lhardy"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/lhardy-salon-japones.webp
+  alt: "Salón Japonés de Lhardy, con mesas vestidas y lámparas de época"
 - src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-discover-quaint-street-classic-hero.webp
-  alt: Calle estrecha del Madrid antiguo
+  alt: "Calle estrecha del Madrid antiguo"
 - src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
-  alt: La Plaza Mayor, en el corazón del Madrid de los Austrias
+  alt: "La Plaza Mayor, en el corazón del Madrid de los Austrias"
 publicada: true
 indexar: false
 destacada: false

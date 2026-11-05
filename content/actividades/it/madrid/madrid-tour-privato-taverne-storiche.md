@@ -54,37 +54,33 @@ keywords:
 - taverne storiche madrid
 - tour delle taverne madrid
 - ristorante più antico del mondo madrid
-imagen: /images/actividades/madrid/tapas/tapas-madrid-interior-bar-stools-glass-cups-hero.webp
-imagenAlt: Interno rivestito in legno di una taverna tradizionale di Madrid
+imagen: /images/actividades/madrid/proveedor-ventana-cultura/taberna-malacatin-fachada.webp
+imagenAlt: "Facciata della taverna Malacatín, con la porta in legno e l'insegna dipinta"
 galeria:
-- src: /images/actividades/madrid/tabernas-centenarias/unsplash-barra-madera-antigua.webp
-  alt: Vecchio bancone in legno con bottiglie e sgabelli
+- src: /images/actividades/madrid/proveedor-ventana-cultura/taberna-barra-centenaria.webp
+  alt: "Bancone in legno di una taverna centenaria con bottiglie e brocche appese al soffitto"
 - src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-villa-rosa-tablao-hero.webp
-  alt: La facciata di azulejos di Villa Rosa, locale storico vicino a Plaza de Santa Ana
-- src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-bar-hawaiano-plaza-santa-ana-rainy-hero.webp
-  alt: Facciata di una vecchia taverna illuminata di notte nel centro di Madrid
+  alt: "La facciata di azulejos di Villa Rosa, locale storico vicino a Plaza de Santa Ana"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/taberna-bodega-botelleros.webp
+  alt: "Cantina a volta con rastrelliere piene di bottiglie di vino sotto una taverna"
 - src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp
-  alt: Cameriere che versa il vino dietro il bancone
+  alt: "Cameriere che versa il vino dietro il bancone"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/taberna-escalera-bodega.webp
+  alt: "Scala scavata nella roccia che scende alla cantina di una taverna"
 - src: /images/actividades/madrid/tapas/tapas-madrid-liquors-meats-photo-hero.webp
-  alt: Prosciutti appesi sopra il bancone di una taverna di Madrid
-- src: /images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp
-  alt: Una caña con una tapa su un bancone di zinco
+  alt: "Prosciutti appesi sopra il bancone di una taverna di Madrid"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/taberna-caja-registradora.webp
+  alt: "Antico registratore di cassa in metallo lavorato sul bancone di una taverna"
 - src: /images/actividades/madrid/tapas/tapas-madrid-20250720-croquetas-jamon-hero.webp
-  alt: Piatto di crocchette di prosciutto
-- src: /images/actividades/madrid/tapas/tapas-madrid-patatas-bravas-2011-hero.webp
-  alt: Patatas bravas, una tapa classica di Madrid
-- src: /images/actividades/madrid/tapas/tapas-madrid-tortilla-patatas-corte-transversal-hero.webp
-  alt: Fetta di tortilla di patate
-- src: /images/actividades/madrid/tapas/tapas-madrid-jamon-cutter-cutting-iberian-court-hero.webp
-  alt: Taglio a mano del prosciutto iberico
-- src: /images/actividades/madrid/tapas/tapas-madrid-person-pouring-red-wine-into-glass-hero.webp
-  alt: Un bicchiere di vino rosso mentre viene versato
-- src: /images/actividades/madrid/tapas/tapas-madrid-bocadillo-calamares-cana-hero.webp
-  alt: Panino con i calamari e una birra
+  alt: "Piatto di crocchette di prosciutto"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/lhardy-fachada-antigua.webp
+  alt: "Vecchia fotografia in bianco e nero della facciata di Lhardy"
+- src: /images/actividades/madrid/proveedor-ventana-cultura/lhardy-salon-japones.webp
+  alt: "Il Salone Giapponese di Lhardy, con tavoli apparecchiati e lampade d'epoca"
 - src: /images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-discover-quaint-street-classic-hero.webp
-  alt: Stradina della vecchia Madrid
+  alt: "Stradina della vecchia Madrid"
 - src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
-  alt: Plaza Mayor, nel cuore del centro storico
+  alt: "Plaza Mayor, nel cuore del centro storico"
 publicada: true
 indexar: false
 destacada: false
