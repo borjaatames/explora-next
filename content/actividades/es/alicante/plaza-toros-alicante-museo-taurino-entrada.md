@@ -6,6 +6,8 @@ descripcion: 'Entrada con audioguía a la plaza de toros de Alicante, del siglo 
 slugs:
   es: plaza-toros-alicante-museo-taurino-entrada
   en: alicante-bullring-bullfighting-museum-ticket
+  de: alicante-stierkampfarena-museum-ticket
+  fr: alicante-billet-arenes-musee-taurin
   it: alicante-biglietto-arena-corride-museo-taurino
   pt: alicante-praca-de-touros-museu-taurino-bilhete
 duracion: 1 hora

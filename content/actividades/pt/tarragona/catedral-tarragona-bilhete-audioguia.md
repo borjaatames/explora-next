@@ -6,6 +6,7 @@ descripcion: Bilhete sem filas para a catedral de Tarragona, dos séculos XII e 
 slugs:
   es: catedral-tarragona-entrada-audioguia
   en: tarragona-cathedral-ticket-audio-guide
+  de: tarragona-kathedrale-ticket-audioguide
   fr: tarragone-billet-cathedrale-audioguide
   it: biglietto-cattedrale-di-tarragona-audioguida
   pt: catedral-tarragona-bilhete-audioguia

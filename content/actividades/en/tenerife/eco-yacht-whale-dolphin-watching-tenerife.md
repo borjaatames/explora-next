@@ -6,6 +6,7 @@ descripcion: 1.5-hour trip from Los Cristianos on the Travelin' Lady, an eco-yac
 slugs:
   es: avistamiento-ballenas-delfines-yate-ecologico
   en: eco-yacht-whale-dolphin-watching-tenerife
+  de: los-cristianos-wale-delfine-oeko-yacht
   fr: los-cristianos-observation-baleines-dauphins-eco-yacht
   it: avvistamento-balene-delfini-yacht-ecologico-los-cristianos
   pt: observacao-baleias-golfinhos-iate-ecologico-los-cristianos

@@ -6,6 +6,7 @@ descripcion: First dive to 12 m with one PADI instructor per 2 people, plus snor
 slugs:
   es: buceo-esnorquel-tortugas-costa-adeje
   en: scuba-snorkel-turtles-costa-adeje
+  de: costa-adeje-schnuppertauchen-schildkroeten
   fr: costa-adeje-bapteme-plongee-snorkeling-tortues
   it: battesimo-sub-snorkeling-tartarughe-costa-adeje
   pt: batismo-mergulho-snorkel-tartarugas-costa-adeje

@@ -6,6 +6,9 @@ descripcion: Catamaran cruise from Puerto Rico de Gran Canaria looking for dolph
 slugs:
   es: catamaran-delfines-esnorquel-gran-canaria
   en: gran-canaria-dolphin-catamaran-snorkeling
+  de: gran-canaria-delfine-katamaran-schnorcheln
+  fr: grande-canarie-catamaran-dauphins-snorkeling
+  it: gran-canaria-catamarano-delfini-snorkeling
   pt: gran-canaria-catamara-golfinhos-baleias-snorkel
 duracion: 3.5 hours
 duracionMinutos: 210

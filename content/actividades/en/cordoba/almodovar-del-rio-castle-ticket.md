@@ -6,6 +6,7 @@ descripcion: Ticket to explore Almodóvar del Río Castle at your own pace, a hi
 slugs:
   es: castillo-almodovar-del-rio-entrada
   en: almodovar-del-rio-castle-ticket
+  de: cordoba-burg-almodovar-del-rio-ticket
   fr: cordoue-billet-chateau-almodovar-del-rio
   it: cordova-biglietto-castello-almodovar-del-rio
   pt: almodovar-del-rio-castelo-bilhete

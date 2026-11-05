@@ -6,6 +6,9 @@ descripcion: Excursión en barco desde el puerto de Los Gigantes para ver ballen
 slugs:
   es: ballenas-los-gigantes-tenerife
   en: whale-watching-los-gigantes-tenerife
+  de: teneriffa-walbeobachtung-los-gigantes
+  fr: tenerife-observation-baleines-los-gigantes
+  it: avvistamento-balene-los-gigantes-tenerife
   pt: observacao-baleias-los-gigantes-tenerife
 duracion: 2-3 horas
 duracionMinutos: 150

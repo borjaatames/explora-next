@@ -6,6 +6,10 @@ descripcion: Ticket de ida y vuelta en el teleférico de Montjuïc renovado. Vis
 slugs:
   es: teleferico-montjuic-barcelona-ticket
   en: montjuic-cable-car-barcelona-ticket
+  de: barcelona-seilbahn-montjuic-ticket
+  fr: barcelone-telepherique-montjuic-billet
+  it: funivia-montjuic-barcellona-biglietto
+  pt: teleferico-montjuic-barcelona-bilhete
 duracion: 1-2 horas
 duracionMinutos: 90
 precioDesde: 19

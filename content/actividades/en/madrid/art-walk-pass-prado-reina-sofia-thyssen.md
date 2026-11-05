@@ -6,6 +6,10 @@ descripcion: 'Pass for the three great museums of the Paseo del Arte: Prado, Rei
 slugs:
   es: art-walk-pass-prado-reina-sofia-thyssen
   en: art-walk-pass-prado-reina-sofia-thyssen
+  de: madrid-paseo-del-arte-pass-prado-reina-sofia-thyssen
+  fr: madrid-pass-paseo-del-arte-prado-reina-sofia-thyssen
+  it: paseo-del-arte-pass-prado-reina-sofia-thyssen
+  pt: paseo-del-arte-passe-prado-reina-sofia-thyssen
 duracion: Valid 1 year
 duracionMinutos: 480
 precioDesde: 38

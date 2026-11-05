@@ -6,6 +6,10 @@ descripcion: Official entry to the Bernabéu Tour (1.5 hours) with access to dre
 slugs:
   es: bernabeu-ticket-acceso
   en: bernabeu-entry-ticket
+  de: madrid-bernabeu-tour-ticket
+  fr: stade-bernabeu-billet-officiel-tour
+  it: bernabeu-biglietto-ingresso
+  pt: bernabeu-bilhete-tour-oficial
 duracion: 1.5 hours
 duracionMinutos: 90
 precioDesde: 37

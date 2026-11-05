@@ -6,6 +6,7 @@ descripcion: Entrada con hora al Real Alcázar de Sevilla, el palacio en uso má
 slugs:
   es: real-alcazar-sevilla-entrada
   en: real-alcazar-seville-entry-ticket
+  de: sevilla-real-alcazar-ticket
   fr: seville-billet-real-alcazar
   it: siviglia-biglietto-real-alcazar
   pt: real-alcazar-sevilha-bilhete-entrada

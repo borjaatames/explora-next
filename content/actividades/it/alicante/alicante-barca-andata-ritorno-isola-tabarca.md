@@ -6,6 +6,8 @@ descripcion: Barca andata e ritorno dal porto di Alicante all'isola di Tabarca, 
 slugs:
   es: barco-alicante-isla-tabarca-ida-vuelta
   en: alicante-tabarca-island-return-boat
+  de: alicante-boot-tabarca-hin-zurueck
+  fr: alicante-bateau-aller-retour-ile-tabarca
   it: alicante-barca-andata-ritorno-isola-tabarca
   pt: alicante-barco-ilha-tabarca-ida-volta
 duracion: 6 ore

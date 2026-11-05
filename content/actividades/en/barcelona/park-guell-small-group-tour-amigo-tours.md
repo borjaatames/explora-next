@@ -101,15 +101,15 @@ imagenAlt: "Park Güell in Barcelona, mosaics on the main terrace"
 
 galeria:
 - src: https://imgcdn.bokun.tools/8a3d0598-2129-4487-b7d6-3f9f88458539.jpg
-  alt: Park Güell small-group tour, photo 1 of 5
+  alt: "Group under the stone portico in Park Güell"
 - src: https://imgcdn.bokun.tools/0f0faecc-ef76-49ac-9bab-5eb956b73a0a.jpg
-  alt: Park Güell small-group tour, photo 2 of 5
+  alt: "Stone viaduct among the trees in Park Güell"
 - src: https://imgcdn.bokun.tools/82ca9757-6ad1-4e64-87ae-945c6852778a.jpg
-  alt: Park Güell small-group tour, photo 3 of 5
+  alt: "Visitors on the mosaic bench in Park Güell"
 - src: https://imgcdn.bokun.tools/a80d266d-6cf1-412e-adb9-23e449164587.jpg
-  alt: Park Güell small-group tour, photo 4 of 5
+  alt: "Park Güell gardens among the pines"
 - src: https://imgcdn.bokun.tools/ae027a47-7d7e-4d2e-ac19-51e28495207d.jpg
-  alt: Park Güell small-group tour, photo 5 of 5
+  alt: "Visitor photographing Park Güell"
 - src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
   alt: Terrace with Park Guell's wavy mosaic bench and views of Barcelona and the sea in the background
 - src: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp

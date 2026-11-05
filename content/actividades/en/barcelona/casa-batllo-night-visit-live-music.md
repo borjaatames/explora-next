@@ -6,6 +6,10 @@ descripcion: 2-hour night visit to Casa Batlló with self-guided audio tour and 
 slugs:
   es: casa-batllo-visita-nocturna-musica-en-vivo
   en: casa-batllo-night-visit-live-music
+  de: barcelona-casa-batllo-nachtbesuch-livemusik
+  fr: casa-batllo-visite-nocturne-musique-live
+  it: casa-batllo-visita-notturna-musica-dal-vivo
+  pt: casa-batllo-visita-noturna-musica-ao-vivo
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 59

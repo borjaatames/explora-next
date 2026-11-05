@@ -6,6 +6,8 @@ descripcion: Entrada al Parc Samà, el jardín romántico del siglo XIX junto a 
 slugs:
   es: parc-sama-cambrils-entrada
   en: parc-sama-cambrils-entry-ticket
+  de: cambrils-parc-sama-ticket
+  fr: cambrils-billet-parc-sama
   it: cambrils-biglietto-parc-sama
   pt: parc-sama-cambrils-bilhete
 duracion: 1 día

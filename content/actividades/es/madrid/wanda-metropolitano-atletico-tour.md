@@ -6,6 +6,10 @@ descripcion: Entrada al estadio del Atlético de Madrid (Riyadh Air Metropolitan
 slugs:
   es: wanda-metropolitano-atletico-tour
   en: wanda-metropolitano-atletico-tour
+  de: madrid-atletico-stadion-metropolitano
+  fr: atletico-madrid-stade-metropolitano-visite
+  it: metropolitano-atletico-tour-stadio
+  pt: metropolitano-atletico-madrid-tour-estadio
 duracion: 1,5 horas
 duracionMinutos: 90
 precioDesde: 25

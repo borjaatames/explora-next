@@ -6,6 +6,10 @@ descripcion: 'Night visit to Casa Batlló with audio guide and a welcome glass o
 slugs:
   es: casa-batllo-visita-nocturna-copa-cava-bienvenida
   en: casa-batllo-night-visit-welcome-drink
+  de: barcelona-casa-batllo-nachtbesuch-begruessungsgetraenk
+  fr: casa-batllo-visite-nocturne-boisson
+  it: casa-batllo-visita-notturna-cava
+  pt: casa-batllo-visita-noturna-bebida-de-boas-vindas
 duracion: 75 minutes - 1 day
 duracionMinutos: 75
 precioDesde: 29

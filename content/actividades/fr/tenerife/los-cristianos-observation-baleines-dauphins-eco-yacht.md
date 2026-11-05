@@ -6,6 +6,7 @@ descripcion: Sortie d'1 h 30 depuis Los Cristianos à bord du Travelin' Lady, un
 slugs:
   es: avistamiento-ballenas-delfines-yate-ecologico
   en: eco-yacht-whale-dolphin-watching-tenerife
+  de: los-cristianos-wale-delfine-oeko-yacht
   fr: los-cristianos-observation-baleines-dauphins-eco-yacht
   it: avvistamento-balene-delfini-yacht-ecologico-los-cristianos
   pt: observacao-baleias-golfinhos-iate-ecologico-los-cristianos

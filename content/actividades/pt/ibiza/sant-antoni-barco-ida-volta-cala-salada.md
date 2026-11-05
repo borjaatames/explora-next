@@ -6,6 +6,9 @@ descripcion: Bilhete de barco de ida e volta do porto de Sant Antoni a Cala Sala
 slugs:
   es: barco-cala-salada-ida-vuelta-sant-antoni
   en: sant-antoni-cala-salada-return-boat
+  de: sant-antoni-boot-cala-salada-hin-zurueck
+  fr: sant-antoni-bateau-aller-retour-cala-salada
+  it: sant-antoni-barca-andata-ritorno-cala-salada
   pt: sant-antoni-barco-ida-volta-cala-salada
 duracion: 30 minutos por trajeto
 duracionMinutos: 30

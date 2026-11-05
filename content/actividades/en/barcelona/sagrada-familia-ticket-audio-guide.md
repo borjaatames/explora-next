@@ -4,8 +4,12 @@ slug: sagrada-familia-ticket-audio-guide
 ciudad: barcelona
 descripcion: Access to Gaudí's basilica with an audio guide included in 16 languages, at your own pace. The simplest, most affordable way to visit the Sagrada Familia.
 slugs:
-  en: sagrada-familia-ticket-audio-guide
   es: entrada-sagrada-familia-audioguia
+  en: sagrada-familia-ticket-audio-guide
+  de: barcelona-sagrada-familia-ticket-audioguide
+  fr: sagrada-familia-billet-audioguide
+  it: sagrada-familia-biglietto-audioguida
+  pt: sagrada-familia-bilhete-audioguia
 duracion: 1-2 h (at your own pace)
 duracionMinutos: 90
 precioDesde: 34

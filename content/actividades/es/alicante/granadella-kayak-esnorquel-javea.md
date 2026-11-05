@@ -6,6 +6,8 @@ descripcion: Ruta guiada de 2 h 30 en kayak desde la cala Granadella hasta Cala 
 slugs:
   es: granadella-kayak-esnorquel-javea
   en: granadella-kayak-snorkeling-javea
+  de: javea-granadella-kajak-schnorcheln
+  fr: javea-kayak-snorkeling-granadella
   it: javea-kayak-snorkeling-cala-granadella
   pt: javea-granadella-caiaque-snorkel
 duracion: 2 h 30

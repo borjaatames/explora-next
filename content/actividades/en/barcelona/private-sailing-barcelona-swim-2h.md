@@ -40,6 +40,7 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+avisoReserva: 'Sailing season: the supplier opens dates in spring. If the calendar shows no days, check again later.'
 informacionImportante:
   queTraer:
   - Towel and swimwear (there is time to swim)
@@ -67,15 +68,15 @@ imagen: /images/actividades/barcelona/barcos/barcos-veleros-puerto.webp
 imagenAlt: Sailboats moored in Barcelona harbour
 galeria:
 - src: https://imgcdn.bokun.tools/9724d5c3-0dda-4cab-a28d-11b71f9ef903.jpg
-  alt: Private sailing in Barcelona with a swim, photo 1 of 5
+  alt: "Sailboat with dark sails at sea"
 - src: https://imgcdn.bokun.tools/125dc4d5-7bd9-425c-8dd1-a6dcbc32db74.jpg
-  alt: Private sailing in Barcelona with a swim, photo 2 of 5
+  alt: "Sailboat moored in Barcelona's marina"
 - src: https://imgcdn.bokun.tools/64b4b831-44cb-48e2-9dfe-250e8b64df85.jpg
-  alt: Private sailing in Barcelona with a swim, photo 3 of 5
+  alt: "Group of friends with snacks aboard the sailboat"
 - src: https://imgcdn.bokun.tools/29957db4-554e-452e-b43d-c8a0ee126d2f.jpg
-  alt: Private sailing in Barcelona with a swim, photo 4 of 5
+  alt: "Silhouettes at the helm of a sailboat at sunset"
 - src: https://imgcdn.bokun.tools/8b948181-0930-4854-8d9f-4ee17e682a17.jpg
-  alt: Private sailing in Barcelona with a swim, photo 5 of 5
+  alt: "Woman on the boat with Barcelona's port behind"
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-02.webp
   alt: Private sailboat moored in the Barcelona marina with the crew aboard
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-03.webp
@@ -94,8 +95,7 @@ galeria:
   alt: Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-01.webp
   alt: Private sailboat off the Barcelona coast
-publicada: false
-reemplazadaPor: barcelona-small-group-sailing-cruise
+publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

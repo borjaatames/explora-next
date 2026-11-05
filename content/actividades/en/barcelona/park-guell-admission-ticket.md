@@ -6,6 +6,10 @@ descripcion: 'Timed-entry ticket to the monumental zone of Park Güell — Barce
 slugs:
   es: park-guell-entrada-zona-monumental
   en: park-guell-admission-ticket
+  de: barcelona-park-guell-ticket-monumentale-zone
+  fr: park-guell-billet-zone-monumentale
+  it: park-guell-biglietto-zona-monumentale
+  pt: park-guell-bilhete-zona-monumental
 duracion: Self-guided (typical visit 1.5-2 hours)
 duracionMinutos: 90
 precioDesde: 22

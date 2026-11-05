@@ -6,6 +6,7 @@ descripcion: Teleférico de Benalmádena até ao cume do monte Calamorro (771 m)
 slugs:
   es: teleferico-benalmadena-billete
   en: benalmadena-cable-car-ticket
+  de: benalmadena-seilbahn-ticket-calamorro
   fr: benalmadena-billet-telepherique-mont-calamorro
   it: benalmadena-biglietto-funivia-monte-calamorro
   pt: benalmadena-bilhete-teleferico-monte-calamorro

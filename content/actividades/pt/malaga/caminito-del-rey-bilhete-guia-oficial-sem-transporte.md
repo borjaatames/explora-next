@@ -6,6 +6,7 @@ descripcion: 'Bilhete para o Caminito del Rey com guia oficial e capacete inclu√
 slugs:
   es: caminito-del-rey-entrada-guia-oficial
   en: caminito-del-rey-ticket-official-guide
+  de: caminito-del-rey-ticket-offizieller-guide
   fr: caminito-del-rey-billet-guide-officiel-sans-transport
   it: caminito-del-rey-biglietto-guida-ufficiale
   pt: caminito-del-rey-bilhete-guia-oficial-sem-transporte

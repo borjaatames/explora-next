@@ -80,14 +80,10 @@ imagenAlt: Delfine im Delfinarium des Palmitos Park, Gran Canaria
 galeria:
 - src: /images/actividades/gran-canaria/palmitos-park/aguila-calva.webp
   alt: Weißkopfseeadler bei der Greifvogelvorführung im Palmitos Park
-- src: /images/actividades/gran-canaria/palmitos-park/barranco.webp
-  alt: Der Palmitos Park in seiner Schlucht im Süden Gran Canarias
 - src: /images/actividades/gran-canaria/palmitos-park/palmeral.webp
   alt: Palmenhain und Hänge der Schlucht im Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/jabiru.webp
   alt: Afrikanischer Sattelstorch im Palmitos Park
-- src: /images/actividades/gran-canaria/palmitos-park/guacamayos-amazonicos-rama.webp
-  alt: Aras aus dem Amazonas auf einem Ast im Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/guacamayo-azul-amarillo.webp
   alt: Blau-gelber Ara im Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp

@@ -6,6 +6,9 @@ descripcion: Passeio de 3 horas num barco clássico com convés de madeira pela 
 slugs:
   es: barco-atardecer-ibiza-esnorquel-kayak-bebidas
   en: ibiza-sunset-boat-snorkel-kayak-drinks
+  de: ibiza-sonnenuntergang-boot-schnorcheln-kajak
+  fr: ibiza-bateau-coucher-soleil-snorkeling-kayak
+  it: ibiza-barca-tramonto-snorkeling-kayak-bevande
   pt: ibiza-barco-por-do-sol-snorkel-caiaque-bebidas
 duracion: 3 horas
 duracionMinutos: 180

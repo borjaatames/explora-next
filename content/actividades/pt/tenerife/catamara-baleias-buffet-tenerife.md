@@ -6,6 +6,9 @@ descripcion: 'Excursão de meio dia em catamarã: observação de baleias e golf
 slugs:
   es: catamaran-ballenas-buffet-tenerife
   en: catamaran-whale-watching-buffet-tenerife
+  de: teneriffa-katamaran-walbeobachtung-buffet
+  fr: tenerife-catamaran-baleines-dejeuner-buffet
+  it: catamarano-balene-buffet-tenerife
   pt: catamara-baleias-buffet-tenerife
 duracion: 4 horas
 duracionMinutos: 240

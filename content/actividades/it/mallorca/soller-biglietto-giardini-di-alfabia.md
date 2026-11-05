@@ -6,6 +6,8 @@ descripcion: Biglietto per i Giardini di Alfabia, ai piedi della Serra de Tramun
 slugs:
   es: jardines-alfabia-soller-entrada
   en: alfabia-gardens-soller-ticket
+  de: soller-gaerten-alfabia-ticket
+  fr: soller-billet-jardins-alfabia
   it: soller-biglietto-giardini-di-alfabia
   pt: soller-bilhete-jardins-de-alfabia
 duracion: Valido 1 giorno

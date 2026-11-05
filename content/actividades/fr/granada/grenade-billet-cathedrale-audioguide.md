@@ -6,6 +6,7 @@ descripcion: Billet pour la cathédrale de Grenade, la grande cathédrale Renais
 slugs:
   es: catedral-granada-entrada
   en: granada-cathedral-entry-ticket
+  de: granada-kathedrale-ticket-audioguide
   fr: grenade-billet-cathedrale-audioguide
   it: granada-biglietto-cattedrale-audioguida
   pt: catedral-granada-bilhete-audioguia

@@ -6,6 +6,9 @@ descripcion: Passeio num catamarã de dois pisos pela costa de Valência, de dia
 slugs:
   es: paseo-catamaran-valencia-atardecer
   en: valencia-catamaran-sunset-cruise
+  de: valencia-katamaran-sonnenuntergang-getraenk
+  fr: valence-catamaran-coucher-soleil-boisson
+  it: valencia-giro-catamarano-tramonto
   pt: passeio-catamara-valencia-por-do-sol
 duracion: 50 minutos - 1,5 horas
 duracionMinutos: 90

@@ -6,6 +6,7 @@ descripcion: Sortie en bateau de 3 h 30 depuis Sant Antoni vers Cala Salada, Cal
 slugs:
   es: barco-atardecer-cala-salada-cala-gracio-sant-antoni
   en: sant-antoni-cala-salada-gracio-sunset-boat
+  de: sant-antoni-sonnenuntergang-boot-cala-salada
   fr: sant-antoni-bateau-coucher-soleil-cala-salada-cala-gracio
   it: sant-antoni-barca-tramonto-cala-salada-gracio
   pt: sant-antoni-barco-por-do-sol-cala-salada-cala-gracio

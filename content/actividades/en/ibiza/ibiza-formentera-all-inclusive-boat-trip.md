@@ -8,7 +8,7 @@ slugs:
   en: ibiza-formentera-all-inclusive-boat-trip
 duracion: "Up to 12 hours"
 duracionMinutos: 720
-precioDesde: 89.1
+precioDesde: 99
 moneda: EUR
 idiomas:
 - es
@@ -43,6 +43,7 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: "Full refund if you cancel at least 1 day before the start."
+avisoReserva: 'Season April to October: dates available from April 2027.'
 informacionImportante:
   queTraer:
   - Towel and swimwear
@@ -72,15 +73,15 @@ imagen: "/images/actividades/ibiza/formentera/ibiza-formentera-01.webp"
 imagenAlt: "Boat off the turquoise waters of Formentera"
 galeria:
   - src: "https://imgcdn.bokun.tools/d1b64079-063a-48f2-a640-10582c340940.jpeg"
-    alt: "Ibiza–Formentera all-inclusive boat trip, photo 1 of 5"
+    alt: "Aerial view of a catamaran in turquoise water"
   - src: "https://imgcdn.bokun.tools/0e31727a-1bb1-4858-98ce-7995a854640f.jpeg"
-    alt: "Ibiza–Formentera all-inclusive boat trip, photo 2 of 5"
+    alt: "Boat deck with Ibiza's Dalt Vila in the background"
   - src: "https://imgcdn.bokun.tools/4da6f196-fa54-42f1-baf8-83de547dada2.jpeg"
-    alt: "Ibiza–Formentera all-inclusive boat trip, photo 3 of 5"
+    alt: "Person diving into turquoise water from the boat"
   - src: "https://imgcdn.bokun.tools/2881056d-e230-42cb-b2d5-cf88b813a363.jpeg"
-    alt: "Ibiza–Formentera all-inclusive boat trip, photo 4 of 5"
+    alt: "Swimmer in clear turquoise water"
   - src: "https://imgcdn.bokun.tools/6da2d7b6-5568-41ad-8dc7-3cea064efa36.jpeg"
-    alt: "Ibiza–Formentera all-inclusive boat trip, photo 5 of 5"
+    alt: "Woman on the boat deck with the sea and sailboats behind"
   - src: "/images/actividades/ibiza/formentera/ibiza-formentera-02.webp"
     alt: "Turquoise beaches of Formentera"
   - src: "/images/actividades/ibiza/formentera/ibiza-formentera-03.webp"
@@ -95,8 +96,7 @@ galeria:
     alt: "Es Vedra islet, Ibiza"
 atraccionesRelacionadas:
   - formentera
-publicada: false
-reemplazadaPor: ibiza-formentera-return-ferry-ticket
+publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

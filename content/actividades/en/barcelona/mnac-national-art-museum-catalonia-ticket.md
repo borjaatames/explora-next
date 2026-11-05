@@ -6,6 +6,10 @@ descripcion: 'Entry ticket to the MNAC in the Palau Nacional on Montjuïc: the w
 slugs:
   es: mnac-museu-nacional-art-catalunya-entrada
   en: mnac-national-art-museum-catalonia-ticket
+  de: barcelona-mnac-ticket
+  fr: barcelone-billet-mnac-musee-national-art-catalogne
+  it: mnac-museo-nazionale-arte-catalogna-biglietto
+  pt: mnac-museu-nacional-arte-catalunha-bilhete
 duracion: 2-3 hours
 duracionMinutos: 150
 precioDesde: 12

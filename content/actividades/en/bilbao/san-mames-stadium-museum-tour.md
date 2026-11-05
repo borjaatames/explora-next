@@ -6,7 +6,9 @@ descripcion: 'Entry to the Athletic Club museum and a tour of San Mamés stadium
 slugs:
   es: san-mames-museo-estadio-athletic
   en: san-mames-stadium-museum-tour
+  de: bilbao-san-mames-museum-stadiontour
   fr: san-mames-visite-stade-musee-athletic
+  it: san-mames-museo-stadio-athletic
   pt: bilbau-san-mames-museu-estadio-athletic
 duracion: Valid 1 day
 duracionMinutos: 90

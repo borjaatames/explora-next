@@ -6,7 +6,9 @@ descripcion: Ruta guiada en moto de agua desde Puerto del Carmen por la costa vo
 slugs:
   es: moto-de-agua-puerto-del-carmen-lanzarote
   en: lanzarote-jet-ski-tour-puerto-del-carmen
+  de: puerto-del-carmen-jetski-tour
   fr: puerto-del-carmen-excursion-jet-ski-lanzarote
+  it: puerto-del-carmen-tour-moto-acqua-costa-lanzarote
   pt: puerto-del-carmen-tour-mota-de-agua-costa-lanzarote
 duracion: 20 minutos - 2 horas
 duracionMinutos: 20

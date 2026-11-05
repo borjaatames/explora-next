@@ -6,6 +6,10 @@ descripcion: 'Entry to the Fundació Joan Miró on Montjuïc: the most complete 
 slugs:
   es: fundacio-joan-miro-entrada
   en: fundacio-joan-miro-ticket
+  de: barcelona-fundacio-joan-miro-ticket
+  fr: barcelone-billet-fondation-joan-miro
+  it: fondazione-joan-miro-biglietto
+  pt: fundacao-joan-miro-bilhete
 duracion: About 2 hours
 duracionMinutos: 120
 precioDesde: 18

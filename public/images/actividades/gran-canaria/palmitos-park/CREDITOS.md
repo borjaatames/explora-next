@@ -10,5 +10,6 @@
 
 Origen local: `E:\imagenes-master\_descargas-2026-10-17\gran-canaria--palmitos-park\` (copias en `E:\imagenes-master\gran-canaria\palmitos-park\`).
 - `guacamayo-azul-amarillo.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
-- `guacamayos-amazonicos-rama.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
 - `loro-gris-jardin.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
+
+> 5-11-2026: Palmitos Park (Aspro) pidió retirar `barranco.webp` y `guacamayos-amazonicos-rama.webp`. Ya no se usan en ninguna ficha. Las fotos de su web son de libre uso para promocionar el parque.

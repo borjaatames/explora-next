@@ -6,6 +6,7 @@ descripcion: 'Tour privado a pie de 1 h 30 por el centro histórico de Sevilla a
 slugs:
   es: sevilla-misteriosa-tour-privado-atardecer
   en: mysterious-seville-private-tour-sunset
+  it: siviglia-misteriosa-tour-privato-tramonto
 duracion: 1 hora y 30 minutos
 duracionMinutos: 90
 precioDesde: 125

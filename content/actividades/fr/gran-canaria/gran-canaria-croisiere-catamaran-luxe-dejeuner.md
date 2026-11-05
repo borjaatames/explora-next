@@ -8,6 +8,7 @@ slugs:
   en: gran-canaria-luxury-catamaran-cruise-lunch
   de: gran-canaria-luxus-katamaran-mit-mittagessen
   fr: gran-canaria-croisiere-catamaran-luxe-dejeuner
+  it: gran-canaria-catamarano-lusso-pranzo
   pt: gran-canaria-catamara-luxo-almoco
 duracion: 4 h 30 min
 duracionMinutos: 270

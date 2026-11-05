@@ -6,6 +6,7 @@ descripcion: Bilhete combinado para a catedral de Girona (com o claustro e a Tap
 slugs:
   es: girona-catedral-museu-art-sant-feliu-entrada
   en: girona-cathedral-art-museum-sant-feliu-ticket
+  de: girona-kathedrale-kunstmuseum-sant-feliu-ticket
   fr: gerone-billet-cathedrale-musee-art-sant-feliu
   it: girona-biglietto-cattedrale-museu-art-sant-feliu
   pt: girona-catedral-museu-art-sant-feliu-bilhete

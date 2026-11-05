@@ -6,6 +6,7 @@ descripcion: 'Sortie guidée en bateau d''1 h 30 au départ de L''Estartit dans 
 slugs:
   es: islas-medes-barco-cuevas-estartit
   en: medes-islands-boat-trip-caves-estartit
+  de: medes-inseln-bootsfahrt-hoehlen-estartit
   fr: iles-medes-sortie-en-bateau-grottes-estartit
   it: isole-medes-giro-in-barca-grotte-estartit
   pt: ilhas-medes-barco-grutas-estartit

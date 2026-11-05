@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 3 horas en kayak por la costa volcánica de Los Cris
 slugs:
   es: kayak-esnorquel-los-cristianos
   en: los-cristianos-kayak-snorkel-tour
+  de: los-cristianos-kajak-schnorcheln-fotos
   fr: los-cristianos-kayak-snorkeling-photos-offertes
   it: kayak-snorkeling-los-cristianos
   pt: los-cristianos-kayak-snorkel

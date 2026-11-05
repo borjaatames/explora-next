@@ -6,7 +6,9 @@ descripcion: Rota guiada de 3 horas e meia de caiaque de Playa Blanca até à pr
 slugs:
   es: kayak-esnorquel-papagayo-fotos-playa-blanca
   en: papagayo-kayak-snorkel-photos-playa-blanca
+  de: papagayo-kajak-schnorcheln-playa-blanca
   fr: papagayo-kayak-snorkeling-photos-playa-blanca
+  it: papagayo-kayak-snorkeling-foto-playa-blanca
   pt: papagayo-caiaque-snorkel-fotografias-playa-blanca
 duracion: 3 horas e 30 minutos
 duracionMinutos: 210

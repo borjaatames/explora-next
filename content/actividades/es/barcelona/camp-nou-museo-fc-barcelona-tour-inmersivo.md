@@ -6,6 +6,10 @@ descripcion: Ticket oficial al Museo FC Barcelona con el Barça Immersive Tour d
 slugs:
   es: camp-nou-museo-fc-barcelona-tour-inmersivo
   en: camp-nou-fc-barcelona-museum-immersive-tour
+  de: barcelona-camp-nou-museum-barca-immersive-tour
+  fr: camp-nou-musee-fc-barcelone-visite-immersive
+  it: camp-nou-museo-fc-barcellona-tour-immersivo
+  pt: camp-nou-museu-fc-barcelona-tour-imersivo
 duracion: 1,5 - 2 horas (visita libre)
 duracionMinutos: 90
 precioDesde: 30.1

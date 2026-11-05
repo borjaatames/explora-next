@@ -6,6 +6,8 @@ descripcion: Giro in barca di 2 ore e mezza nella baia di Palma, da Can Pastilla
 slugs:
   es: bahia-palma-barco-esnorquel-bebida
   en: palma-bay-boat-trip-snorkel-drink
+  de: bucht-von-palma-bootsfahrt-schnorcheln-getraenk
+  fr: baie-de-palma-bateau-snorkeling-boisson
   it: baia-di-palma-giro-in-barca-snorkeling-bevanda
   pt: baia-de-palma-passeio-barco-snorkel-bebida
 duracion: 2 ore e 30 minuti

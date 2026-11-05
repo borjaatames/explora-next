@@ -6,6 +6,9 @@ descripcion: Excursão guiada de 1 hora de mota de água a partir da baía de Sa
 slugs:
   es: moto-agua-ibiza-islas-margaritas-sin-licencia
   en: ibiza-jet-ski-tour-margalides-no-licence
+  de: ibiza-jetski-tour-margalides-ohne-fuehrerschein
+  fr: ibiza-jet-ski-iles-margalides-sans-permis
+  it: ibiza-moto-acqua-isole-margalides-senza-patente
   pt: ibiza-mota-de-agua-ilhas-margalides-sem-carta
 duracion: 1 hora
 duracionMinutos: 60

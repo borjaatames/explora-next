@@ -6,6 +6,7 @@ descripcion: Uscita in barca di 3 ore da Barbate per avvistare delfini e balene 
 slugs:
   es: avistamiento-delfines-trafalgar-barbate
   en: dolphin-whale-watching-trafalgar-barbate
+  de: barbate-delfine-wale-trafalgar
   fr: barbate-observation-dauphins-baleines-cap-trafalgar
   it: barbate-avvistamento-delfini-balene-capo-trafalgar
   pt: barbate-observacao-golfinhos-baleias-trafalgar

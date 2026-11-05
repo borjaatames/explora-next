@@ -6,6 +6,9 @@ descripcion: A private boat just for your group (1 to 6 people) from Las Galleta
 slugs:
   es: avistamiento-cetaceos-barco-privado-las-galletas
   en: private-whale-watching-boat-las-galletas-tenerife
+  de: las-galletas-privates-boot-walbeobachtung
+  fr: las-galletas-bateau-prive-baleines-dauphins
+  it: las-galletas-barca-privata-avvistamento-cetacei
   pt: observacao-cetaceos-barco-privado-las-galletas
 duracion: 2 or 3 hours
 duracionMinutos: 120

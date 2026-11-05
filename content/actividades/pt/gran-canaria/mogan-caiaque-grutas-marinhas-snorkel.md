@@ -6,6 +6,9 @@ descripcion: 'Passeio guiado de 4 horas de caiaque pela costa de Mogán: grutas 
 slugs:
   es: kayak-cuevas-esnorquel-mogan
   en: mogan-sea-caves-kayak-snorkel-tour
+  de: mogan-kajak-hoehlen-schnorcheln
+  fr: mogan-kayak-grottes-marines-snorkeling
+  it: mogan-kayak-grotte-marine-snorkeling
   pt: mogan-caiaque-grutas-marinhas-snorkel
 duracion: 4 horas
 duracionMinutos: 240

@@ -6,6 +6,7 @@ descripcion: 'Paseo guiado de 1,5 horas desde L''Estartit por la reserva marina 
 slugs:
   es: islas-medes-barco-cuevas-estartit
   en: medes-islands-boat-trip-caves-estartit
+  de: medes-inseln-bootsfahrt-hoehlen-estartit
   fr: iles-medes-sortie-en-bateau-grottes-estartit
   it: isole-medes-giro-in-barca-grotte-estartit
   pt: ilhas-medes-barco-grutas-estartit

@@ -6,6 +6,8 @@ descripcion: 2-hour guided kayak and snorkel tour through coves, sea caves and c
 slugs:
   es: costa-brava-kayak-esnorquel-cuevas-sagaro
   en: costa-brava-kayak-snorkel-sea-caves-sagaro
+  de: costa-brava-kajak-schnorcheln-hoehlen-sagaro
+  fr: costa-brava-kayak-snorkeling-grottes-sagaro
   it: costa-brava-kayak-snorkeling-grotte-sagaro
   pt: costa-brava-caiaque-snorkel-grutas-sagaro
 duracion: 2 hours

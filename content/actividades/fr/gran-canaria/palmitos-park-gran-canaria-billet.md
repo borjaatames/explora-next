@@ -80,14 +80,10 @@ imagenAlt: Dauphins au delphinarium de Palmitos Park, Gran Canaria
 galeria:
 - src: /images/actividades/gran-canaria/palmitos-park/aguila-calva.webp
   alt: Pygargue à tête blanche lors du spectacle de rapaces de Palmitos Park
-- src: /images/actividades/gran-canaria/palmitos-park/barranco.webp
-  alt: Palmitos Park dans son ravin du sud de Gran Canaria
 - src: /images/actividades/gran-canaria/palmitos-park/palmeral.webp
   alt: Palmeraie et versants du ravin à Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/jabiru.webp
   alt: Jabiru d’Afrique à Palmitos Park
-- src: /images/actividades/gran-canaria/palmitos-park/guacamayos-amazonicos-rama.webp
-  alt: Aras amazoniens perchés sur une branche à Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/guacamayo-azul-amarillo.webp
   alt: Ara bleu et jaune à Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp

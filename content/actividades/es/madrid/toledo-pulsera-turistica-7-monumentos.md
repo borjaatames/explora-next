@@ -6,6 +6,10 @@ descripcion: Pulsera turística de Toledo con entrada a 7 monumentos (Santo Tom�
 slugs:
   es: toledo-pulsera-turistica-7-monumentos
   en: toledo-tourist-bracelet-7-monuments
+  de: toledo-touristenarmband-7-monumente
+  fr: tolede-bracelet-touristique-7-monuments
+  it: toledo-braccialetto-turistico-7-monumenti
+  pt: toledo-pulseira-turistica-7-monumentos
 duracion: 1-2 días
 duracionMinutos: 480
 precioDesde: 14

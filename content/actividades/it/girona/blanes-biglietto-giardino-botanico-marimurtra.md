@@ -6,6 +6,8 @@ descripcion: Ingresso al Giardino Botanico Marimurtra di Blanes, con oltre 3.000
 slugs:
   es: jardin-botanico-marimurtra-blanes-entrada
   en: marimurtra-botanical-garden-blanes-ticket
+  de: blanes-botanischer-garten-marimurtra-ticket
+  fr: blanes-billet-jardin-botanique-marimurtra
   it: blanes-biglietto-giardino-botanico-marimurtra
   pt: blanes-jardim-botanico-marimurtra-bilhete
 duracion: Valido 1 giorno

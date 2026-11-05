@@ -6,6 +6,9 @@ descripcion: Ruta guiada de 3 horas en kayak doble por el sistema de cuevas de M
 slugs:
   es: kayak-aventura-cuevas-saltos-puerto-mogan
   en: puerto-de-mogan-adventure-kayak-caves-snorkeling
+  de: puerto-de-mogan-abenteuer-kajak-hoehlen
+  fr: puerto-de-mogan-kayak-aventure-grottes-sauts
+  it: puerto-de-mogan-kayak-avventura-grotte-tuffi
   pt: puerto-de-mogan-caiaque-aventura-grutas-saltos
 duracion: 3 horas
 duracionMinutos: 180

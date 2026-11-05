@@ -6,6 +6,10 @@ descripcion: Entrada sin colas al Museo Reina Sofía, hogar del Guernica de Pica
 slugs:
   es: reina-sofia-entrada
   en: reina-sofia-madrid-ticket
+  de: madrid-reina-sofia-ticket-ohne-anstehen
+  fr: madrid-billet-coupe-file-musee-reina-sofia
+  it: museo-reina-sofia-biglietto
+  pt: museu-reina-sofia-bilhete
 duracion: 2-3 horas
 duracionMinutos: 150
 precioDesde: 12

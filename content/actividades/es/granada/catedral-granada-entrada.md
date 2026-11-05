@@ -6,6 +6,7 @@ descripcion: Entrada a la Catedral de Granada, la gran catedral renacentista de 
 slugs:
   es: catedral-granada-entrada
   en: granada-cathedral-entry-ticket
+  de: granada-kathedrale-ticket-audioguide
   fr: grenade-billet-cathedrale-audioguide
   it: granada-biglietto-cattedrale-audioguida
   pt: catedral-granada-bilhete-audioguia

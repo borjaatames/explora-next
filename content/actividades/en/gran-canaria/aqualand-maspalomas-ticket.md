@@ -25,7 +25,6 @@ highlights:
 - The Anaconda slide and the water maze
 - Children's Paradise for the little ones
 - Polynesia area and gardens
-- Optional sea lion experience
 incluye:
 - 1-day park entry
 - Use of all slides
@@ -34,7 +33,6 @@ noIncluye:
 - Food and drink
 - Parking (€5 per day)
 - Sun loungers, parasols, lockers and fast passes
-- Sea lion experience
 puntoEncuentro:
   texto: Aqualand Maspalomas ticket control gate, Palmitos Park road, Maspalomas.
   descripcionGuia: Go straight to the ticket control gate with your booking on your phone. The park is inland from Maspalomas, on the road up to Palmitos Park; parking costs €5 per day.
@@ -67,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: Do I have to pay for parking?
   respuesta: Yes, parking costs €5 per day and isn't included in the ticket.
 - pregunta: What costs extra inside the park?
-  respuesta: Sun loungers, parasols, lockers, fast passes and the sea lion experience. Food isn't included either.
+  respuesta: Sun loungers, parasols, lockers and fast passes. Food isn't included either.
 - pregunta: Can adults go down the slides with babies?
   respuesta: Not on all of them. Several slides have height limits and don't allow small children on your lap; the Children's Paradise is there for them.
 opinionEditorial: 'It''s the big water park of the south and kids love it, but its rating is lower than other activities on the island, mostly because of the extras: loungers, lockers, parking and pricey food. Arrive at opening time, bring water and budget for more than the ticket.'
@@ -80,11 +78,9 @@ keywords:
 - aqualand maspalomas tickets
 - gran canaria water park
 - maspalomas water slides
-imagen: /images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp
-imagenAlt: Slides and pool at Aqualand Maspalomas
+imagen: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
+imagenAlt: "Aerial view of the big wave pool at Aqualand Maspalomas"
 galeria:
-- src: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
-  alt: "Aerial view of the big wave pool at Aqualand Maspalomas"
 - src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
   alt: "Large tube slides at Aqualand Maspalomas among Mayan-style ruins"
 - src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
@@ -120,7 +116,7 @@ The **Children's Paradise** is an area with slides and water games on their scal
 
 ### Out of the water
 
-The **Polynesia** area and gardens offer dry-land activities, and there's an optional **sea lion experience**, paid separately and subject to availability.
+The **Polynesia** area and gardens offer dry-land activities.
 
 ## How it works
 

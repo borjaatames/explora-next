@@ -6,6 +6,7 @@ descripcion: Billet général pour l'Alhambra avec accès aux palais nasrides, �
 slugs:
   es: alhambra-entrada-general
   en: alhambra-general-admission-ticket
+  de: granada-alhambra-allgemeiner-eintritt-nasridenpalaeste
   fr: grenade-billet-general-alhambra-palais-nasrides
   it: granada-biglietto-alhambra-palazzi-nasridi
   pt: alhambra-bilhete-geral-palacios-nasridas

@@ -6,6 +6,7 @@ descripcion: 'Tour privado a pie de 1 h 30 por la antigua judería de Sevilla, h
 slugs:
   es: juderia-santa-cruz-sevilla-tour-privado
   en: seville-jewish-quarter-santa-cruz-private-tour
+  it: siviglia-quartiere-ebraico-santa-cruz-tour-privato
 duracion: 1 hora y 30 minutos
 duracionMinutos: 90
 precioDesde: 125

@@ -6,6 +6,7 @@ descripcion: 'Private 1 h 30 walking tour of Seville''s old Jewish Quarter, toda
 slugs:
   es: juderia-santa-cruz-sevilla-tour-privado
   en: seville-jewish-quarter-santa-cruz-private-tour
+  it: siviglia-quartiere-ebraico-santa-cruz-tour-privato
 duracion: 1 hour 30 minutes
 duracionMinutos: 90
 precioDesde: 125

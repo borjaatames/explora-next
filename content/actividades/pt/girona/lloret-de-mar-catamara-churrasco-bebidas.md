@@ -6,6 +6,8 @@ descripcion: Saída de 4 horas de catamarã a partir da praia de Lloret de Mar p
 slugs:
   es: lloret-de-mar-catamaran-barbacoa-bebidas
   en: lloret-de-mar-catamaran-cruise-bbq-drinks
+  de: lloret-de-mar-katamaran-grill-getraenke
+  fr: lloret-de-mar-catamaran-barbecue-boissons
   it: lloret-de-mar-catamarano-barbecue-bevande-bagno
   pt: lloret-de-mar-catamara-churrasco-bebidas
 duracion: 4 horas

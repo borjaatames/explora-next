@@ -6,6 +6,7 @@ descripcion: 'Biglietto per la Grotta di Nerja con audioguida: la colonna di sta
 slugs:
   es: cuevas-nerja-entrada
   en: nerja-caves-entry-ticket
+  de: nerja-hoehlen-ticket-audioguide
   fr: grotte-de-nerja-billet-audioguide
   it: biglietto-grotta-di-nerja-audioguida
   pt: gruta-de-nerja-bilhete-audioguia

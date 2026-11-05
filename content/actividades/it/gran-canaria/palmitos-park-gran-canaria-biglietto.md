@@ -81,14 +81,10 @@ imagenAlt: Delfini nel delfinario di Palmitos Park, Gran Canaria
 galeria:
 - src: /images/actividades/gran-canaria/palmitos-park/aguila-calva.webp
   alt: Aquila calva nell'esibizione dei rapaci di Palmitos Park
-- src: /images/actividades/gran-canaria/palmitos-park/barranco.webp
-  alt: Palmitos Park nel suo barranco nel sud di Gran Canaria
 - src: /images/actividades/gran-canaria/palmitos-park/palmeral.webp
   alt: Palmeto e pendii del barranco a Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/jabiru.webp
   alt: Jabirù africano a Palmitos Park
-- src: /images/actividades/gran-canaria/palmitos-park/guacamayos-amazonicos-rama.webp
-  alt: Ara amazzoniche posate su un ramo a Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/guacamayo-azul-amarillo.webp
   alt: Ara gialloblù a Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp

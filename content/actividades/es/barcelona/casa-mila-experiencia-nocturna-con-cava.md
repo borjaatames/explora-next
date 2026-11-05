@@ -6,6 +6,10 @@ descripcion: Visita nocturna semi-guiada de 1,5 horas a La Pedrera con espectác
 slugs:
   es: casa-mila-experiencia-nocturna-con-cava
   en: casa-mila-night-experience-cava
+  de: barcelona-casa-mila-nachterlebnis-cava
+  fr: casa-mila-la-pedrera-experience-nocturne-cava
+  it: casa-mila-esperienza-notturna-cava
+  pt: casa-mila-experiencia-noturna-com-cava
 duracion: 1,5 horas
 duracionMinutos: 90
 precioDesde: 39.5

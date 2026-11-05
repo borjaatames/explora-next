@@ -6,6 +6,8 @@ descripcion: 'Return ferry between Santa Pola and Tabarca Island: a 30-minute cr
 slugs:
   es: ferry-santa-pola-tabarca
   en: santa-pola-tabarca-ferry
+  de: santa-pola-tabarca-faehre
+  fr: santa-pola-ferry-ile-tabarca
   it: santa-pola-traghetto-andata-ritorno-isola-tabarca
   pt: santa-pola-ferry-ilha-tabarca-ida-volta
 duracion: 30 min each way

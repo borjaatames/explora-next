@@ -6,6 +6,10 @@ descripcion: Official self-guided entry ticket to Casa Batlló with audio guide 
 slugs:
   es: casa-batllo-entrada-con-audioguia
   en: casa-batllo-entry-with-audioguide
+  de: barcelona-casa-batllo-ticket-audioguide
+  fr: casa-batllo-entree-audioguide
+  it: casa-batllo-biglietto-audioguida
+  pt: casa-batllo-bilhete-com-audioguia
 duracion: Self-guided (typical visit 1h 15min)
 duracionMinutos: 75
 precioDesde: 29

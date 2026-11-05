@@ -6,6 +6,7 @@ descripcion: Balade en catamaran dans la baie de Malaga au départ du port, avec
 slugs:
   es: catamaran-malaga-atardecer
   en: malaga-catamaran-sunset-cruise
+  de: malaga-katamaran-bucht-sonnenuntergang
   fr: malaga-balade-catamaran-baie-coucher-soleil
   it: malaga-giro-in-catamarano-al-tramonto
   pt: malaga-passeio-catamara-baia-por-do-sol

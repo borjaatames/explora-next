@@ -6,6 +6,9 @@ descripcion: Full-day catamaran trip for whale and dolphin watching off Tenerife
 slugs:
   es: catamaran-ballenas-buffet-tenerife
   en: catamaran-whale-watching-buffet-tenerife
+  de: teneriffa-katamaran-walbeobachtung-buffet
+  fr: tenerife-catamaran-baleines-dejeuner-buffet
+  it: catamarano-balene-buffet-tenerife
   pt: catamara-baleias-buffet-tenerife
 duracion: 5-6 hours
 duracionMinutos: 330

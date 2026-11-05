@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 3,5 horas en kayak por la bahía de Papagayo con par
 slugs:
   es: kayak-esnorquel-papagayo
   en: papagayo-kayak-snorkel-tour
+  de: papagayo-kajak-schnorcheln-sandos
   fr: lanzarote-kayak-snorkeling-plage-papagayo
   it: tour-kayak-snorkeling-papagayo
   pt: lanzarote-caiaque-snorkel-praia-papagayo

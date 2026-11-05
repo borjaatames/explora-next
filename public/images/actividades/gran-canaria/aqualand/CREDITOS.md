@@ -2,7 +2,6 @@
 
 Recortadas a 1600×1200 y convertidas a WebP.
 
-- `aqualand-toboganes.webp` — Wikimedia Commons, Xengi (Public domain) — https://commons.wikimedia.org/wiki/File:Aqualand_Gran_Canaria.JPG
 
 ## Fotos oficiales de Aqualand Maspalomas
 
@@ -14,3 +13,5 @@ Cortesía de Aqualand Maspalomas (Aspro Parks), tomadas de aqualand.es/maspaloma
 - `aqualand-tornado.webp` — Aqualand Maspalomas, original `tornado-w.webp`
 - `aqualand-discovery-beach.webp` — Aqualand Maspalomas, original `MAS_attrac_DiscoveryBeach-scaled.webp`
 - `aqualand-skull-bay.webp` — Aqualand Maspalomas, original `MAS_AT.SkullBay.jpg`
+
+> 5-11-2026: Aqualand (Fabio Sgobbi, Aspro) pidió retirar `aqualand-toboganes.webp` (Wikimedia, antigua). Ya no se usa en ninguna ficha. Confirmó que las fotos de su web son de libre uso.

@@ -6,6 +6,8 @@ descripcion: Prima immersione di 1 ora e 30 minuti a Salou, a bassa profondità 
 slugs:
   es: bautismo-buceo-salou-sin-titulacion
   en: salou-try-scuba-diving-no-licence
+  de: salou-schnuppertauchen-ohne-tauchschein
+  fr: salou-bapteme-plongee-sans-diplome
   it: salou-battesimo-subacqueo-con-istruttore
   pt: batismo-mergulho-salou-sem-certificacao
 duracion: 1 ora e 30 minuti

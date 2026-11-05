@@ -6,6 +6,10 @@ descripcion: Paseo de 1 hora en lancha rápida por el Port Vell y la costa de Ba
 slugs:
   es: lancha-rapida-barcelona-port-vell
   en: barcelona-high-speed-powerboat-ride
+  de: barcelona-schnellboot-port-vell
+  fr: barcelone-bateau-rapide-port-vell
+  it: barcellona-motoscafo-veloce-port-vell
+  pt: barcelona-lancha-rapida-port-vell
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 60

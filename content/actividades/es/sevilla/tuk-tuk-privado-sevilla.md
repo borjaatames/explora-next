@@ -6,6 +6,7 @@ descripcion: 'Tour privado de 1 hora por Sevilla en tuk tuk eléctrico, solo par
 slugs:
   es: tuk-tuk-privado-sevilla
   en: private-tuk-tuk-tour-seville
+  fr: seville-tuk-tuk-electrique-prive
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 71

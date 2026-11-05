@@ -6,6 +6,9 @@ descripcion: 4-hour catamaran trip from Corralejo to Lobos Island, anchoring off
 slugs:
   es: catamaran-isla-lobos-corralejo
   en: corralejo-lobos-island-catamaran
+  de: corralejo-katamaran-isla-de-lobos
+  fr: corralejo-catamaran-ile-de-lobos
+  it: corralejo-catamarano-isola-di-lobos
   pt: corralejo-catamara-ilha-de-lobos-almoco-snorkel
 duracion: 4 hours
 duracionMinutos: 240

@@ -6,7 +6,9 @@ descripcion: Balade guid√©e en jet-ski depuis Puerto del Carmen le long de la c√
 slugs:
   es: moto-de-agua-puerto-del-carmen-lanzarote
   en: lanzarote-jet-ski-tour-puerto-del-carmen
+  de: puerto-del-carmen-jetski-tour
   fr: puerto-del-carmen-excursion-jet-ski-lanzarote
+  it: puerto-del-carmen-tour-moto-acqua-costa-lanzarote
   pt: puerto-del-carmen-tour-mota-de-agua-costa-lanzarote
 duracion: 20 minutes - 2 heures
 duracionMinutos: 20

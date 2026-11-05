@@ -6,6 +6,7 @@ descripcion: Entrée coupe-file à la cathédrale de Tarragone des XIIe-XIIIe si
 slugs:
   es: catedral-tarragona-entrada-audioguia
   en: tarragona-cathedral-ticket-audio-guide
+  de: tarragona-kathedrale-ticket-audioguide
   fr: tarragone-billet-cathedrale-audioguide
   it: biglietto-cattedrale-di-tarragona-audioguida
   pt: catedral-tarragona-bilhete-audioguia

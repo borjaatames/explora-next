@@ -6,6 +6,8 @@ descripcion: 2.5-hour guided kayak tour from Granadella cove to Cala en Caló an
 slugs:
   es: granadella-kayak-esnorquel-javea
   en: granadella-kayak-snorkeling-javea
+  de: javea-granadella-kajak-schnorcheln
+  fr: javea-kayak-snorkeling-granadella
   it: javea-kayak-snorkeling-cala-granadella
   pt: javea-granadella-caiaque-snorkel
 duracion: 2.5 hours

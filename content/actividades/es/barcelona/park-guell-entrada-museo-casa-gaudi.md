@@ -6,6 +6,10 @@ descripcion: Ticket combinado para la zona monumental del Park Güell + la Casa 
 slugs:
   es: park-guell-entrada-museo-casa-gaudi
   en: park-guell-and-gaudi-house-museum-ticket
+  de: barcelona-park-guell-gaudi-hausmuseum-kombiticket
+  fr: park-guell-billet-maison-musee-gaudi
+  it: park-guell-biglietto-casa-museo-gaudi
+  pt: park-guell-bilhete-casa-museu-gaudi
 duracion: Visita libre (típicamente 2-3 horas)
 duracionMinutos: 150
 precioDesde: 28

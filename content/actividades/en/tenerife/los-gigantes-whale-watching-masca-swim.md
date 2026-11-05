@@ -6,6 +6,9 @@ descripcion: Two hours by speedboat from Los Gigantes harbour to look for pilot 
 slugs:
   es: ballenas-delfines-los-gigantes-bano-masca
   en: los-gigantes-whale-watching-masca-swim
+  de: los-gigantes-walbeobachtung-schnellboot-masca
+  fr: los-gigantes-baleines-hors-bord-baignade-masca
+  it: los-gigantes-balene-delfini-motoscafo-bagno-masca
   pt: baleias-golfinhos-los-gigantes-banho-masca
 duracion: 2 hours
 duracionMinutos: 120

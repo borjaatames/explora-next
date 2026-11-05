@@ -6,6 +6,8 @@ descripcion: 2.5-hour boat trip from Cala Figuera to Caló des Moro and the sout
 slugs:
   es: calo-des-moro-barco-esnorquel
   en: calo-des-moro-boat-trip-snorkeling
+  de: mallorca-calo-des-moro-bootsfahrt-schnorcheln
+  fr: majorque-bateau-calo-des-moro-snorkeling
   it: escursione-in-barca-calo-des-moro-snorkeling
   pt: maiorca-excursao-barco-calo-des-moro-snorkel
 duracion: 2.5 hours

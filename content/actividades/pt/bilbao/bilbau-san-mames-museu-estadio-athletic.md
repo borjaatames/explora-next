@@ -6,7 +6,9 @@ descripcion: 'Bilhete para o museu do Athletic Club e visita ao estádio de San 
 slugs:
   es: san-mames-museo-estadio-athletic
   en: san-mames-stadium-museum-tour
+  de: bilbao-san-mames-museum-stadiontour
   fr: san-mames-visite-stade-musee-athletic
+  it: san-mames-museo-stadio-athletic
   pt: bilbau-san-mames-museu-estadio-athletic
 duracion: Válido 1 dia
 duracionMinutos: 90

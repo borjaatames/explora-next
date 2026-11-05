@@ -6,6 +6,10 @@ descripcion: Pase todo incluido al Museo FC Barcelona con Barça Immersive Tour 
 slugs:
   es: camp-nou-museo-fc-barcelona-pase-total-experience
   en: camp-nou-fc-barcelona-museum-total-experience-pass
+  de: barcelona-camp-nou-museum-total-experience
+  fr: camp-nou-musee-fc-barcelone-pass-total-experience
+  it: camp-nou-museo-fc-barcellona-total-experience
+  pt: camp-nou-museu-fc-barcelona-passe-total-experience
 duracion: 2 - 2,5 horas (visita libre)
 duracionMinutos: 120
 precioDesde: 54.1

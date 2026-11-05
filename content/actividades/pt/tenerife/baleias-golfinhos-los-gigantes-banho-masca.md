@@ -6,6 +6,9 @@ descripcion: Duas horas de lancha a partir do porto de Los Gigantes para procura
 slugs:
   es: ballenas-delfines-los-gigantes-bano-masca
   en: los-gigantes-whale-watching-masca-swim
+  de: los-gigantes-walbeobachtung-schnellboot-masca
+  fr: los-gigantes-baleines-hors-bord-baignade-masca
+  it: los-gigantes-balene-delfini-motoscafo-bagno-masca
   pt: baleias-golfinhos-los-gigantes-banho-masca
 duracion: 2 horas
 duracionMinutos: 120

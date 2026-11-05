@@ -6,6 +6,10 @@ descripcion: Skip-the-line entry to Madrid's Museo Reina Sofía, home to Picasso
 slugs:
   es: reina-sofia-entrada
   en: reina-sofia-madrid-ticket
+  de: madrid-reina-sofia-ticket-ohne-anstehen
+  fr: madrid-billet-coupe-file-musee-reina-sofia
+  it: museo-reina-sofia-biglietto
+  pt: museu-reina-sofia-bilhete
 duracion: 2-3 hours
 duracionMinutos: 150
 precioDesde: 12

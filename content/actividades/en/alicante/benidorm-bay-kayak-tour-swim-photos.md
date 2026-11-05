@@ -6,6 +6,8 @@ descripcion: 2.5-hour guided kayak tour along the Benidorm coast for up to 6 peo
 slugs:
   es: kayak-bahia-benidorm-bano-fotos
   en: benidorm-bay-kayak-tour-swim-photos
+  de: benidorm-kajaktour-bucht-baden-fotos
+  fr: benidorm-kayak-baie-baignade-photos
   it: benidorm-kayak-nella-baia-bagno-foto
   pt: benidorm-caiaque-baia-banho-fotos
 duracion: 2 hours 30 minutes

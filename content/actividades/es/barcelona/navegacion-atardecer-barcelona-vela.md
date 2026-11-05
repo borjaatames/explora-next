@@ -6,6 +6,10 @@ descripcion: Salida en velero al atardecer desde Marina Vela, navegando la costa
 slugs:
   es: navegacion-atardecer-barcelona-vela
   en: barcelona-sunset-sailing-experience
+  de: barcelona-segeltoern-sonnenuntergang
+  fr: barcelone-voilier-coucher-de-soleil
+  it: barcellona-barca-a-vela-tramonto
+  pt: barcelona-veleiro-por-do-sol
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 55

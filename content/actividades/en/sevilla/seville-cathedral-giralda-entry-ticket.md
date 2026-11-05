@@ -6,6 +6,7 @@ descripcion: Combined skip-the-line entry to Seville Cathedral and the Giralda t
 slugs:
   es: catedral-sevilla-giralda-entrada-skip-line
   en: seville-cathedral-giralda-entry-ticket
+  de: sevilla-kathedrale-giralda-ticket-ohne-anstehen
   fr: seville-billet-cathedrale-giralda-coupe-file-audio-option
   it: siviglia-biglietto-cattedrale-giralda-salta-fila
   pt: catedral-sevilha-giralda-bilhete-sem-filas

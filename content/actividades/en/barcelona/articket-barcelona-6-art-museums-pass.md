@@ -6,6 +6,10 @@ descripcion: 'Articket pass: Museu Picasso, MNAC, Fundació Miró, Fundació Tà
 slugs:
   es: articket-barcelona-6-museos
   en: articket-barcelona-6-art-museums-pass
+  de: barcelona-articket-6-kunstmuseen
+  fr: barcelone-pass-articket-6-musees
+  it: articket-barcellona-6-musei
+  pt: articket-barcelona-6-museus
 duracion: Valid for 12 months
 duracionMinutos: 480
 precioDesde: 38

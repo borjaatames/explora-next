@@ -6,6 +6,9 @@ descripcion: Bilhete para o Museu LagOmar, em Nazaret, uma antiga pedreira vulc√
 slugs:
   es: museo-lagomar-entrada-nazaret
   en: lagomar-museum-ticket-nazaret
+  de: lagomar-museum-ticket-nazaret
+  fr: lanzarote-billet-musee-lagomar-nazaret
+  it: museo-lagomar-biglietto-nazaret
   pt: lanzarote-bilhete-museu-lagomar-nazaret
 duracion: 45 minutos
 duracionMinutos: 45

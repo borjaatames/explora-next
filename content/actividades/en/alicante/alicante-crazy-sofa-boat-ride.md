@@ -6,6 +6,7 @@ descripcion: Crazy sofa ride, a 6-seat inflatable sofa towed at speed by a power
 slugs:
   es: crazy-sofa-alicante-lancha
   en: alicante-crazy-sofa-boat-ride
+  de: alicante-crazy-sofa-schnellboot
   fr: alicante-crazy-sofa-bateau-port
   it: alicante-crazy-sofa-trainato-da-motoscafo
   pt: alicante-crazy-sofa-lancha

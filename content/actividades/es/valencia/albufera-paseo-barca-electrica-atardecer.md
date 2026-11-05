@@ -6,6 +6,9 @@ descripcion: Paseo de 45 minutos (una hora al atardecer) en barca eléctrica por
 slugs:
   es: albufera-paseo-barca-electrica-atardecer
   en: albufera-electric-boat-ride-sunset
+  de: albufera-elektroboot-sonnenuntergang
+  fr: albufera-barque-electrique-coucher-soleil
+  it: albufera-giro-barca-elettrica-tramonto
   pt: albufera-passeio-barco-eletrico-por-do-sol
 duracion: 45 minutos
 duracionMinutos: 45

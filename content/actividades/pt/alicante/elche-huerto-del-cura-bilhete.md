@@ -6,6 +6,8 @@ descripcion: Bilhete para o Huerto del Cura de Elche, jardim botânico dentro do
 slugs:
   es: huerto-del-cura-elche-entrada
   en: huerto-del-cura-elche-ticket
+  de: elche-huerto-del-cura-ticket
+  fr: elche-billet-huerto-del-cura
   it: elche-biglietto-huerto-del-cura
   pt: elche-huerto-del-cura-bilhete
 duracion: 1 hora aproximadamente

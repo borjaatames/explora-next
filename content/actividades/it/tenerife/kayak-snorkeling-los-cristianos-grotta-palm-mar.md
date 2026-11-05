@@ -6,6 +6,7 @@ descripcion: 'Tre ore in kayak da Los Cristianos sotto scogliere vulcaniche, con
 slugs:
   es: kayak-esnorquel-los-cristianos-cueva-palm-mar
   en: los-cristianos-kayak-snorkel-palm-mar-cave
+  de: los-cristianos-kajak-schnorcheln-hoehle-palm-mar
   fr: kayak-snorkeling-los-cristianos-grotte-palm-mar
   it: kayak-snorkeling-los-cristianos-grotta-palm-mar
   pt: caiaque-snorkel-los-cristianos-gruta-palm-mar

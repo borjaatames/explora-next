@@ -25,7 +25,6 @@ highlights:
 - Lo scivolo Anaconda e il labirinto d'acqua
 - Paraíso Infantil per i più piccoli
 - Zona della Polinesia e giardini
-- Esperienza facoltativa con i leoni marini
 incluye:
 - Ingresso al parco per 1 giorno
 - Uso di tutti gli scivoli
@@ -34,7 +33,6 @@ noIncluye:
 - Cibo e bevande
 - Parcheggio (5 € al giorno)
 - Lettini, ombrelloni, armadietti e pass veloci
-- Esperienza con i leoni marini
 puntoEncuentro:
   texto: Varco di controllo biglietti di Aqualand Maspalomas, strada per Palmitos Park, Maspalomas.
   descripcionGuia: Entra direttamente dal varco di controllo con la prenotazione sul telefono. Il parco è nell'entroterra di Maspalomas, sulla strada che sale a Palmitos Park; il parcheggio costa 5 € al giorno.
@@ -67,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: Il parcheggio si paga?
   respuesta: Sì, costa 5 € al giorno e non è incluso nel biglietto.
 - pregunta: Cosa si paga a parte dentro il parco?
-  respuesta: Lettini, ombrelloni, armadietti, pass veloci e l'esperienza con i leoni marini. Anche il cibo non è incluso.
+  respuesta: Lettini, ombrelloni, armadietti e pass veloci. Anche il cibo non è incluso.
 - pregunta: Gli adulti possono scendere dagli scivoli con i bebè?
   respuesta: Non da tutti. Diversi scivoli hanno limiti di altezza e non si può scendere con bambini in braccio; per loro c'è il Paraíso Infantil.
 opinionEditorial: 'È il grande parco acquatico del sud e i bambini lo adorano, ma il voto è più basso di altre attività dell''isola soprattutto per gli extra: lettino, armadietto, parcheggio e cibo caro. Arriva all''apertura, porta l''acqua e metti in conto di spendere qualcosa in più del biglietto.'
@@ -81,11 +79,9 @@ keywords:
 - aqualand gran canaria biglietti
 - maspalomas con bambini
 - cosa fare a maspalomas
-imagen: /images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp
-imagenAlt: Scivoli e piscina di Aqualand Maspalomas
+imagen: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
+imagenAlt: "Vista aerea della grande piscina a onde di Aqualand Maspalomas"
 galeria:
-- src: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
-  alt: "Vista aerea della grande piscina a onde di Aqualand Maspalomas"
 - src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
   alt: "Grandi scivoli a tubo di Aqualand Maspalomas tra rovine in stile maya"
 - src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
@@ -120,7 +116,7 @@ Il **Paraíso Infantil** è una zona con scivoli e giochi d'acqua a misura di ba
 
 ### Fuori dall'acqua
 
-La zona della **Polinesia** e i giardini hanno attività all'asciutto, e c'è un'**esperienza con i leoni marini** facoltativa, a pagamento e secondo disponibilità.
+La zona della **Polinesia** e i giardini hanno attività all'asciutto.
 
 ## Come funziona
 

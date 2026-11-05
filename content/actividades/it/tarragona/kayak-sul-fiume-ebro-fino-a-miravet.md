@@ -6,6 +6,8 @@ descripcion: Percorso guidato in kayak sull'Ebro da Móra la Nova fino a Miravet
 slugs:
   es: kayak-rio-ebro-miravet
   en: ebro-river-kayak-tour-miravet
+  de: tarragona-kajaktour-ebro-miravet
+  fr: tarragone-kayak-ebre-miravet
   it: kayak-sul-fiume-ebro-fino-a-miravet
   pt: caiaque-rio-ebro-miravet
 duracion: 2,5 ore

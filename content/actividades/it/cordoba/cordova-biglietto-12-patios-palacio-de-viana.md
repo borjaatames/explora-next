@@ -6,6 +6,7 @@ descripcion: Ingresso ai 12 patios e al giardino del Palacio de Viana, il posto 
 slugs:
   es: palacio-viana-patios-entrada
   en: palacio-de-viana-patios-ticket
+  de: cordoba-palacio-de-viana-patios-ticket
   fr: cordoue-billet-12-patios-palais-de-viana
   it: cordova-biglietto-12-patios-palacio-de-viana
   pt: cordova-palacio-de-viana-patios-bilhete

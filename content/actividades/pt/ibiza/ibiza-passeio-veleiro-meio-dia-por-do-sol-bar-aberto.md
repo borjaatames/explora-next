@@ -6,8 +6,10 @@ descripcion: Passeio de veleiro de 4 horas a partir de Sant Antoni, em grupo de 
 slugs:
   es: velero-ibiza-mediodia-atardecer-barra-libre
   en: ibiza-sailing-yacht-midday-sunset-open-bar
-  pt: ibiza-passeio-veleiro-meio-dia-por-do-sol-bar-aberto
+  de: ibiza-segeltoern-mittag-sonnenuntergang-open-bar
   fr: ibiza-voilier-midi-coucher-soleil-open-bar
+  it: ibiza-veliero-mezzogiorno-tramonto-open-bar
+  pt: ibiza-passeio-veleiro-meio-dia-por-do-sol-bar-aberto
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 95

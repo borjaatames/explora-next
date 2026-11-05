@@ -6,6 +6,7 @@ descripcion: Entrada sin colas a la catedral de Tarragona, de los siglos XII y X
 slugs:
   es: catedral-tarragona-entrada-audioguia
   en: tarragona-cathedral-ticket-audio-guide
+  de: tarragona-kathedrale-ticket-audioguide
   fr: tarragone-billet-cathedrale-audioguide
   it: biglietto-cattedrale-di-tarragona-audioguida
   pt: catedral-tarragona-bilhete-audioguia

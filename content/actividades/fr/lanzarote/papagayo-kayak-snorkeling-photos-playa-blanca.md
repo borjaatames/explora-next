@@ -6,7 +6,9 @@ descripcion: Sortie guidée en kayak de 3 h 30 de Playa Blanca à la plage de Pa
 slugs:
   es: kayak-esnorquel-papagayo-fotos-playa-blanca
   en: papagayo-kayak-snorkel-photos-playa-blanca
+  de: papagayo-kajak-schnorcheln-playa-blanca
   fr: papagayo-kayak-snorkeling-photos-playa-blanca
+  it: papagayo-kayak-snorkeling-foto-playa-blanca
   pt: papagayo-caiaque-snorkel-fotografias-playa-blanca
 duracion: 3 h 30 min
 duracionMinutos: 210

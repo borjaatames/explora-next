@@ -6,6 +6,10 @@ descripcion: Self-guided entry ticket to Barcelona Cathedral (Santa Esglèsia Ca
 slugs:
   es: catedral-de-barcelona-entrada
   en: cathedral-of-barcelona-entry-ticket
+  de: barcelona-kathedrale-ticket
+  fr: barcelone-billet-cathedrale
+  it: cattedrale-barcellona-biglietto
+  pt: catedral-de-barcelona-bilhete
 duracion: 1 - 2 hours (self-paced)
 duracionMinutos: 90
 precioDesde: 20

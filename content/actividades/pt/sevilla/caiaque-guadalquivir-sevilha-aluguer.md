@@ -6,6 +6,7 @@ descripcion: Duas horas de caiaque no Guadalquivir, passando pela Torre del Oro 
 slugs:
   es: kayak-guadalquivir-sevilla-alquiler
   en: guadalquivir-kayak-rental-seville
+  de: sevilla-kajak-guadalquivir
   fr: seville-location-kayak-guadalquivir
   it: siviglia-kayak-sul-guadalquivir
   pt: caiaque-guadalquivir-sevilha-aluguer

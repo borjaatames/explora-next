@@ -6,6 +6,7 @@ descripcion: 2.5-hour cruise on the Pura Vida catamaran across the Bay of Cádiz
 slugs:
   es: catamaran-cadiz-bano-tobogan
   en: cadiz-catamaran-swim-stop-slide
+  de: cadiz-katamaran-badestopp-rutsche
   fr: cadix-catamaran-baie-baignade-toboggan
   it: cadice-catamarano-baia-bagno-scivolo-estate
   pt: cadis-catamara-baia-banho-escorrega

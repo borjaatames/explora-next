@@ -6,6 +6,8 @@ descripcion: Passeio guiado de 2 horas de caiaque e snorkel por enseadas, grutas
 slugs:
   es: costa-brava-kayak-esnorquel-cuevas-sagaro
   en: costa-brava-kayak-snorkel-sea-caves-sagaro
+  de: costa-brava-kajak-schnorcheln-hoehlen-sagaro
+  fr: costa-brava-kayak-snorkeling-grottes-sagaro
   it: costa-brava-kayak-snorkeling-grotte-sagaro
   pt: costa-brava-caiaque-snorkel-grutas-sagaro
 duracion: 2 horas

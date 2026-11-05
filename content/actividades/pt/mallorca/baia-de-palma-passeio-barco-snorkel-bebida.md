@@ -6,6 +6,8 @@ descripcion: Passeio de barco de 2 horas e meia pela baía de Palma, a partir de
 slugs:
   es: bahia-palma-barco-esnorquel-bebida
   en: palma-bay-boat-trip-snorkel-drink
+  de: bucht-von-palma-bootsfahrt-schnorcheln-getraenk
+  fr: baie-de-palma-bateau-snorkeling-boisson
   it: baia-di-palma-giro-in-barca-snorkeling-bevanda
   pt: baia-de-palma-passeio-barco-snorkel-bebida
 duracion: 2 horas e 30 minutos

@@ -6,6 +6,7 @@ descripcion: Saída de barco de 3 horas a partir de Barbate para observar golfin
 slugs:
   es: avistamiento-delfines-trafalgar-barbate
   en: dolphin-whale-watching-trafalgar-barbate
+  de: barbate-delfine-wale-trafalgar
   fr: barbate-observation-dauphins-baleines-cap-trafalgar
   it: barbate-avvistamento-delfini-balene-capo-trafalgar
   pt: barbate-observacao-golfinhos-baleias-trafalgar

@@ -6,6 +6,9 @@ descripcion: Cruise along the Valencia coast on a two-deck catamaran, by day or 
 slugs:
   es: paseo-catamaran-valencia-atardecer
   en: valencia-catamaran-sunset-cruise
+  de: valencia-katamaran-sonnenuntergang-getraenk
+  fr: valence-catamaran-coucher-soleil-boisson
+  it: valencia-giro-catamarano-tramonto
   pt: passeio-catamara-valencia-por-do-sol
 duracion: 50 minutes - 1.5 hours
 duracionMinutos: 90

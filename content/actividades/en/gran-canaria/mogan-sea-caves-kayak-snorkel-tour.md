@@ -6,6 +6,9 @@ descripcion: '4-hour guided kayak tour along the Mogán coast: volcanic caves, c
 slugs:
   es: kayak-cuevas-esnorquel-mogan
   en: mogan-sea-caves-kayak-snorkel-tour
+  de: mogan-kajak-hoehlen-schnorcheln
+  fr: mogan-kayak-grottes-marines-snorkeling
+  it: mogan-kayak-grotte-marine-snorkeling
   pt: mogan-caiaque-grutas-marinhas-snorkel
 duracion: 4 hours
 duracionMinutos: 240

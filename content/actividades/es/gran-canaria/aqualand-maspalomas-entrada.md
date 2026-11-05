@@ -25,7 +25,6 @@ highlights:
 - El tobogán Anaconda y el laberinto acuático
 - Paraíso Infantil para los más pequeños
 - Zona de la Polinesia y jardines
-- Experiencia opcional con leones marinos
 incluye:
 - Entrada al parque durante 1 día
 - Uso de todos los toboganes
@@ -34,7 +33,6 @@ noIncluye:
 - Comida y bebida
 - Aparcamiento (5 € al día)
 - Tumbonas, sombrillas, taquillas y pases rápidos
-- Experiencia con leones marinos
 puntoEncuentro:
   texto: Puerta de control de tickets de Aqualand Maspalomas, carretera de Palmitos Park, Maspalomas.
   descripcionGuia: Entra directamente por la puerta de control de tickets con la reserva en el móvil. El parque está en el interior de Maspalomas, en la carretera que sube a Palmitos Park; hay aparcamiento por 5 € al día.
@@ -67,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: ¿Hay que pagar el aparcamiento?
   respuesta: Sí, el aparcamiento cuesta 5 € al día y no está incluido en la entrada.
 - pregunta: ¿Qué se paga aparte dentro del parque?
-  respuesta: Tumbonas, sombrillas, taquillas, pases rápidos y la experiencia con leones marinos. La comida tampoco está incluida.
+  respuesta: Tumbonas, sombrillas, taquillas y pases rápidos. La comida tampoco está incluida.
 - pregunta: ¿Pueden bajar adultos con bebés por los toboganes?
   respuesta: No en todos. Varios toboganes tienen límites de altura y no permiten bajar con niños pequeños en brazos; para ellos está el Paraíso Infantil.
 opinionEditorial: 'Es el parque acuático grande del sur y a los niños les encanta, pero la nota es más baja que la de otras actividades de la isla sobre todo por los extras: tumbona, taquilla, parking y una comida cara. Llega a la apertura, lleva agua y cuenta con gastar algo más que la entrada.'
@@ -80,11 +78,9 @@ keywords:
 - aqualand maspalomas entradas
 - parque acuatico gran canaria
 - toboganes maspalomas
-imagen: /images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp
-imagenAlt: Toboganes y piscina de Aqualand Maspalomas
+imagen: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
+imagenAlt: "Vista aérea de la gran piscina de olas de Aqualand Maspalomas"
 galeria:
-- src: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
-  alt: "Vista aérea de la gran piscina de olas de Aqualand Maspalomas"
 - src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
   alt: "Grandes toboganes de tubo de Aqualand Maspalomas entre ruinas de inspiración maya"
 - src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
@@ -120,7 +116,7 @@ El **Paraíso Infantil** es una zona con toboganes y juegos de agua a su escala,
 
 ### Fuera del agua
 
-La zona de la **Polinesia** y los jardines tienen actividades en tierra, y hay una **experiencia con leones marinos** opcional, de pago y según disponibilidad.
+La zona de la **Polinesia** y los jardines tienen actividades en tierra.
 
 ## Cómo funciona
 

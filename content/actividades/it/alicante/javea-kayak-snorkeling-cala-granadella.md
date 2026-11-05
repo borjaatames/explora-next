@@ -6,6 +6,8 @@ descripcion: Percorso guidato di 2 ore e 30 in kayak dalla cala Granadella fino 
 slugs:
   es: granadella-kayak-esnorquel-javea
   en: granadella-kayak-snorkeling-javea
+  de: javea-granadella-kajak-schnorcheln
+  fr: javea-kayak-snorkeling-granadella
   it: javea-kayak-snorkeling-cala-granadella
   pt: javea-granadella-caiaque-snorkel
 duracion: 2 ore e 30

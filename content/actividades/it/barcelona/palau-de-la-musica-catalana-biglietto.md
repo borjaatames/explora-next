@@ -9,6 +9,7 @@ slugs:
   de: palau-de-la-musica-catalana-eintrittskarte
   fr: palau-de-la-musica-catalana-billet
   it: palau-de-la-musica-catalana-biglietto
+  pt: palau-musica-catalana-bilhete
 duracion: Circa 50 minuti
 duracionMinutos: 50
 precioDesde: 20

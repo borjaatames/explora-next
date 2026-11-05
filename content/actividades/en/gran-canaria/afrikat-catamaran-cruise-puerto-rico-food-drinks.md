@@ -6,6 +6,9 @@ descripcion: '4.5-hour cruise from Puerto Rico along the southwest coast, with a
 slugs:
   es: catamaran-afrikat-puerto-rico-comida-bebidas
   en: afrikat-catamaran-cruise-puerto-rico-food-drinks
+  de: gran-canaria-katamaran-afrikat-essen-getraenke
+  fr: puerto-rico-catamaran-afrikat-repas-boissons
+  it: puerto-rico-catamarano-afrikat-pranzo-bevande
   pt: puerto-rico-catamara-afrikat-almoco-bebidas
 duracion: 4 hours 30 minutes
 duracionMinutos: 270

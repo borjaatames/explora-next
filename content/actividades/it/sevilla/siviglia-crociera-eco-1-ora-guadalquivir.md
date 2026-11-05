@@ -6,6 +6,7 @@ descripcion: Crociera panoramica di 1 ora sul Guadalquivir a bordo di un'imbarca
 slugs:
   es: sevilla-1-hora-guadalquivir-eco-crucero
   en: seville-1-hour-guadalquivir-eco-cruise
+  de: sevilla-1-stunde-guadalquivir-oeko-bootsfahrt
   fr: seville-croisiere-eco-1-heure-guadalquivir
   it: siviglia-crociera-eco-1-ora-guadalquivir
   pt: sevilha-cruzeiro-eco-1-hora-guadalquivir

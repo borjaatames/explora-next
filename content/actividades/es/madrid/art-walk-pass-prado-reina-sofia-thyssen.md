@@ -6,6 +6,10 @@ descripcion: 'Abono para los tres grandes museos del Paseo del Arte: Prado, Rein
 slugs:
   es: art-walk-pass-prado-reina-sofia-thyssen
   en: art-walk-pass-prado-reina-sofia-thyssen
+  de: madrid-paseo-del-arte-pass-prado-reina-sofia-thyssen
+  fr: madrid-pass-paseo-del-arte-prado-reina-sofia-thyssen
+  it: paseo-del-arte-pass-prado-reina-sofia-thyssen
+  pt: paseo-del-arte-passe-prado-reina-sofia-thyssen
 duracion: Validez 1 año
 duracionMinutos: 480
 precioDesde: 38

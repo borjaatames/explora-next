@@ -6,6 +6,9 @@ descripcion: '3-hour trip along Ibiza''s west coast with a support boat: a basic
 slugs:
   es: paddle-surf-esnorquel-barco-cuevas-ibiza-fotos
   en: ibiza-sup-snorkel-boat-tour-caves-photos
+  de: ibiza-sup-schnorcheln-bootstour-hoehlen-fotos
+  fr: ibiza-paddle-snorkeling-bateau-grottes-photos
+  it: ibiza-paddle-surf-snorkeling-barca-grotte-foto
   pt: ibiza-paddle-surf-snorkel-barco-grutas-fotografias
 duracion: 3 hours
 duracionMinutos: 180

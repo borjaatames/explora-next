@@ -6,6 +6,7 @@ descripcion: Uscita di 2 ore al tramonto su una barca storica dal porto di Cadaq
 slugs:
   es: cadaques-barco-atardecer-cap-de-creus
   en: cadaques-sunset-boat-trip-cap-de-creus
+  de: cadaques-bootsfahrt-sonnenuntergang-cap-de-creus
   fr: cadaques-sortie-en-bateau-coucher-de-soleil-cap-de-creus
   it: cadaques-giro-in-barca-tramonto-cap-de-creus
   pt: cadaques-barco-por-do-sol-cap-de-creus

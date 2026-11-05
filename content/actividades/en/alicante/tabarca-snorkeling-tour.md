@@ -6,6 +6,8 @@ descripcion: '4-hour sailboat trip from Santa Pola to the Tabarca marine reserve
 slugs:
   es: snorkel-tabarca-reserva-marina
   en: tabarca-snorkeling-tour
+  de: santa-pola-segeltoern-tabarca-schnorcheln
+  fr: santa-pola-voilier-tabarca-snorkeling-coucher-soleil
   it: santa-pola-barca-a-vela-tabarca-snorkeling-tramonto
   pt: santa-pola-veleiro-tabarca-snorkel-por-do-sol
 duracion: 4 hours

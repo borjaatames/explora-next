@@ -6,6 +6,9 @@ descripcion: A 3-hour guided route in double kayaks through the Mogán cave syst
 slugs:
   es: kayak-aventura-cuevas-saltos-puerto-mogan
   en: puerto-de-mogan-adventure-kayak-caves-snorkeling
+  de: puerto-de-mogan-abenteuer-kajak-hoehlen
+  fr: puerto-de-mogan-kayak-aventure-grottes-sauts
+  it: puerto-de-mogan-kayak-avventura-grotte-tuffi
   pt: puerto-de-mogan-caiaque-aventura-grutas-saltos
 duracion: 3 hours
 duracionMinutos: 180

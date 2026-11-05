@@ -6,6 +6,7 @@ descripcion: '1.5-hour guided boat trip from L''Estartit through the Medes Islan
 slugs:
   es: islas-medes-barco-cuevas-estartit
   en: medes-islands-boat-trip-caves-estartit
+  de: medes-inseln-bootsfahrt-hoehlen-estartit
   fr: iles-medes-sortie-en-bateau-grottes-estartit
   it: isole-medes-giro-in-barca-grotte-estartit
   pt: ilhas-medes-barco-grutas-estartit

@@ -6,6 +6,7 @@ descripcion: 'Private 1 h 30 walking tour of Seville''s historic centre at sunse
 slugs:
   es: sevilla-misteriosa-tour-privado-atardecer
   en: mysterious-seville-private-tour-sunset
+  it: siviglia-misteriosa-tour-privato-tramonto
 duracion: 1 hour 30 minutes
 duracionMinutos: 90
 precioDesde: 125

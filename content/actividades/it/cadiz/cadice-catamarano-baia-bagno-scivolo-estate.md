@@ -6,6 +6,7 @@ descripcion: Giro di 2 ore e mezza sul catamarano Pura Vida nella baia di Cadice
 slugs:
   es: catamaran-cadiz-bano-tobogan
   en: cadiz-catamaran-swim-stop-slide
+  de: cadiz-katamaran-badestopp-rutsche
   fr: cadix-catamaran-baie-baignade-toboggan
   it: cadice-catamarano-baia-bagno-scivolo-estate
   pt: cadis-catamara-baia-banho-escorrega

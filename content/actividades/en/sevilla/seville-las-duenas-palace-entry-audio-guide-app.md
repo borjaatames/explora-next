@@ -6,6 +6,7 @@ descripcion: Entry ticket to the Palacio de Las Dueñas — Seville residence of
 slugs:
   es: sevilla-palacio-las-duenas-entrada-audioguia-app
   en: seville-las-duenas-palace-entry-audio-guide-app
+  de: sevilla-palacio-las-duenas-ticket-audioguide-app
   fr: seville-billet-palais-las-duenas-audioguide
   it: siviglia-biglietto-palacio-de-las-duenas-audioguida
   pt: sevilha-palacio-las-duenas-bilhete-audioguia-app

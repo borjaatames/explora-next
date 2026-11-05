@@ -25,7 +25,6 @@ highlights:
 - O escorrega Anaconda e o labirinto aquático
 - Paraíso Infantil para os mais pequenos
 - Zona da Polinésia e jardins
-- Experiência opcional com leões-marinhos
 incluye:
 - Entrada no parque durante 1 dia
 - Utilização de todos os escorregas
@@ -34,7 +33,6 @@ noIncluye:
 - Comida e bebida
 - Estacionamento (5 € por dia)
 - Espreguiçadeiras, guarda-sóis, cacifos e passes rápidos
-- Experiência com leões-marinhos
 puntoEncuentro:
   texto: Porta de controlo de bilhetes do Aqualand Maspalomas, estrada do Palmitos Park, Maspalomas.
   descripcionGuia: Entre diretamente pela porta de controlo de bilhetes com a reserva no telemóvel. O parque fica no interior de Maspalomas, na estrada que sobe para o Palmitos Park; há estacionamento por 5 € por dia.
@@ -67,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: É preciso pagar o estacionamento?
   respuesta: Sim, o estacionamento custa 5 € por dia e não está incluído no bilhete.
 - pregunta: O que se paga à parte dentro do parque?
-  respuesta: Espreguiçadeiras, guarda-sóis, cacifos, passes rápidos e a experiência com leões-marinhos. A comida também não está incluída.
+  respuesta: Espreguiçadeiras, guarda-sóis, cacifos e passes rápidos. A comida também não está incluída.
 - pregunta: Os adultos podem descer os escorregas com bebés?
   respuesta: Não em todos. Vários escorregas têm limites de altura e não permitem descer com crianças pequenas ao colo; para elas existe o Paraíso Infantil.
 opinionEditorial: 'É o grande parque aquático do sul e as crianças adoram, mas a nota é mais baixa do que a de outras atividades da ilha sobretudo por causa dos extras: espreguiçadeira, cacifo, estacionamento e comida cara. Chegue à abertura, leve água e conte gastar um pouco mais do que o bilhete.'
@@ -77,11 +75,9 @@ keywords:
 - aqualand maspalomas bilhetes
 - parque aquatico gran canaria
 - escorregas maspalomas
-imagen: /images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp
-imagenAlt: Escorregas e piscina do Aqualand Maspalomas
+imagen: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
+imagenAlt: "Vista aérea da grande piscina de ondas do Aqualand Maspalomas"
 galeria:
-- src: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
-  alt: "Vista aérea da grande piscina de ondas do Aqualand Maspalomas"
 - src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
   alt: "Grandes escorregas em tubo do Aqualand Maspalomas entre ruínas de inspiração maia"
 - src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
@@ -117,7 +113,7 @@ O **Paraíso Infantil** é uma zona com escorregas e jogos de água à sua medid
 
 ### Fora de água
 
-A zona da **Polinésia** e os jardins têm atividades em terra, e há uma **experiência com leões-marinhos** opcional, paga e sujeita a disponibilidade.
+A zona da **Polinésia** e os jardins têm atividades em terra.
 
 ## Como funciona
 

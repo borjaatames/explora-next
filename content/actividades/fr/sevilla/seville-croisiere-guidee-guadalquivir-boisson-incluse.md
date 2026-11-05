@@ -6,6 +6,7 @@ descripcion: Croisière guidée d'1 h à 1 h 30 sur le Guadalquivir, le seul fle
 slugs:
   es: sevilla-guadalquivir-river-boat-tour
   en: seville-guadalquivir-river-boat-tour
+  de: sevilla-guadalquivir-bootsfahrt-guide-getraenk
   fr: seville-croisiere-guidee-guadalquivir-boisson-incluse
   it: siviglia-crociera-guidata-guadalquivir-con-bevanda
   pt: sevilha-passeio-barco-guadalquivir-guiado

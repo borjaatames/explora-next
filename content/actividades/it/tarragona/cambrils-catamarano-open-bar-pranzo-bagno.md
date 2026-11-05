@@ -6,6 +6,7 @@ descripcion: Giro di 3 ore in catamarano da Cambrils lungo la Costa Dorada, con 
 slugs:
   es: catamaran-cambrils-barra-libre-bano
   en: cambrils-catamaran-open-bar-swim
+  de: cambrils-katamaran-open-bar-baden
   fr: cambrils-sortie-catamaran-open-bar-baignade
   it: cambrils-catamarano-open-bar-pranzo-bagno
   pt: catamara-cambrils-bar-aberto-banho

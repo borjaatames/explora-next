@@ -6,6 +6,7 @@ descripcion: Bilhete para a Casa de Pilatos de Sevilha com audioguia descarregá
 slugs:
   es: sevilla-casa-de-pilatos-entrada-planta-baja-audioguia
   en: seville-casa-de-pilatos-ground-floor-entry-audio
+  de: sevilla-casa-de-pilatos-ticket-audioguide
   fr: seville-billet-casa-de-pilatos-rez-de-chaussee-audioguide
   it: siviglia-biglietto-casa-de-pilatos-audioguida
   pt: sevilha-casa-de-pilatos-bilhete-res-do-chao-audioguia

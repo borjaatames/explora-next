@@ -6,6 +6,8 @@ descripcion: 'Traghetto andata e ritorno tra Santa Pola e l''isola di Tabarca: 3
 slugs:
   es: ferry-santa-pola-tabarca
   en: santa-pola-tabarca-ferry
+  de: santa-pola-tabarca-faehre
+  fr: santa-pola-ferry-ile-tabarca
   it: santa-pola-traghetto-andata-ritorno-isola-tabarca
   pt: santa-pola-ferry-ilha-tabarca-ida-volta
 duracion: 30 min a tratta

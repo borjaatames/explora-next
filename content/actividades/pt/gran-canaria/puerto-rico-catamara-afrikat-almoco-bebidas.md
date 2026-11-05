@@ -6,6 +6,9 @@ descripcion: 'Cruzeiro de 4 horas e meia a partir de Puerto Rico pela costa sudo
 slugs:
   es: catamaran-afrikat-puerto-rico-comida-bebidas
   en: afrikat-catamaran-cruise-puerto-rico-food-drinks
+  de: gran-canaria-katamaran-afrikat-essen-getraenke
+  fr: puerto-rico-catamaran-afrikat-repas-boissons
+  it: puerto-rico-catamarano-afrikat-pranzo-bevande
   pt: puerto-rico-catamara-afrikat-almoco-bebidas
 duracion: 4 horas e 30 minutos
 duracionMinutos: 270

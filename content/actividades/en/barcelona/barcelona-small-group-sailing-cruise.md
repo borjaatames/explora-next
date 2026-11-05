@@ -6,6 +6,10 @@ descripcion: 2-hour small-group sailing cruise on the Mediterranean off Barcelon
 slugs:
   es: crucero-grupo-reducido-barcelona-vela
   en: barcelona-small-group-sailing-cruise
+  de: barcelona-segeltoern-kleine-gruppe
+  fr: barcelone-croisiere-voilier-petit-groupe
+  it: barcellona-crociera-vela-piccolo-gruppo
+  pt: barcelona-cruzeiro-veleiro-grupo-reduzido
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 55

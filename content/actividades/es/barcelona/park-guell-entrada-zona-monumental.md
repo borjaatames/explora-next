@@ -6,6 +6,10 @@ descripcion: Entrada con hora concertada a la zona monumental del Park Güell �
 slugs:
   es: park-guell-entrada-zona-monumental
   en: park-guell-admission-ticket
+  de: barcelona-park-guell-ticket-monumentale-zone
+  fr: park-guell-billet-zone-monumentale
+  it: park-guell-biglietto-zona-monumentale
+  pt: park-guell-bilhete-zona-monumental
 duracion: Visita libre (típicamente 1,5-2 horas)
 duracionMinutos: 90
 precioDesde: 22

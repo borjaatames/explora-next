@@ -6,6 +6,9 @@ descripcion: Tour en catamarán desde Costa Adeje para ver ballenas y delfines e
 slugs:
   es: catamaran-avistamiento-ballenas-costa-adeje
   en: catamaran-whale-watching-costa-adeje
+  de: costa-adeje-katamaran-walbeobachtung
+  fr: costa-adeje-catamaran-observation-baleines
+  it: catamarano-avvistamento-balene-costa-adeje
   pt: catamara-observacao-baleias-costa-adeje
 duracion: 2 horas
 duracionMinutos: 120

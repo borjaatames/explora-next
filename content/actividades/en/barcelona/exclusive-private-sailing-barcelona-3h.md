@@ -40,6 +40,7 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+avisoReserva: 'Sailing season: the supplier opens dates in spring. If the calendar shows no days, check again later.'
 informacionImportante:
   queTraer:
   - Towel and swimwear if you want to swim
@@ -68,15 +69,15 @@ imagen: /images/actividades/barcelona/barcos/barcos-velero-port-vell.webp
 imagenAlt: Sailboat in Barcelona Port Vell
 galeria:
 - src: https://imgcdn.bokun.tools/f4827900-c7f3-470d-8cfe-040603e89588.jpg
-  alt: Exclusive private sailing in Barcelona, photo 1 of 5
+  alt: "Group at the helm of the sailboat"
 - src: https://imgcdn.bokun.tools/34922688-bc8f-4fff-aa2d-2800d15081e2.jpg
-  alt: Exclusive private sailing in Barcelona, photo 2 of 5
+  alt: "Group swimming in open water next to the boat"
 - src: https://imgcdn.bokun.tools/44b6a8a1-9e6a-4ef6-8ebc-a8e051cb7f99.jpg
-  alt: Exclusive private sailing in Barcelona, photo 3 of 5
+  alt: "Friends having snacks aboard the sailboat"
 - src: https://imgcdn.bokun.tools/81824e3f-c790-40ed-97ad-fa46a5697f06.jpg
-  alt: Exclusive private sailing in Barcelona, photo 4 of 5
+  alt: "Sailboat sailing off Barcelona's beach"
 - src: https://imgcdn.bokun.tools/db9cad39-dffb-4d0f-9d30-b192ba6f1e36.jpg
-  alt: Exclusive private sailing in Barcelona, photo 5 of 5
+  alt: "Friends sitting on the sailboat deck"
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-02.webp
   alt: Group swimming in the sea during a sailing excursion in Barcelona
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-03.webp
@@ -95,8 +96,7 @@ galeria:
   alt: Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-01.webp
   alt: Private yacht sailing off Barcelona
-publicada: false
-reemplazadaPor: barcelona-sunset-sailing-experience
+publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

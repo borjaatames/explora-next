@@ -57,7 +57,7 @@ galeria:
     alt: "Villa Termal de Montanejos thermal spa"
   - src: "/images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp"
     alt: "Panoramic view of the natural surroundings of Montanejos"
-publicada: false
+publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'

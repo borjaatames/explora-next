@@ -6,6 +6,10 @@ descripcion: Entrada con visita libre a la Catedral de Barcelona (Santa Esglèsi
 slugs:
   es: catedral-de-barcelona-entrada
   en: cathedral-of-barcelona-entry-ticket
+  de: barcelona-kathedrale-ticket
+  fr: barcelone-billet-cathedrale
+  it: cattedrale-barcellona-biglietto
+  pt: catedral-de-barcelona-bilhete
 duracion: 1 - 2 horas (visita libre)
 duracionMinutos: 90
 precioDesde: 20

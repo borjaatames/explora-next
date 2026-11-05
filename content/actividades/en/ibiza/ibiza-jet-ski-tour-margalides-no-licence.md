@@ -6,6 +6,9 @@ descripcion: A 1-hour guided jet ski tour from Sant Antoni bay along Ibiza's nor
 slugs:
   es: moto-agua-ibiza-islas-margaritas-sin-licencia
   en: ibiza-jet-ski-tour-margalides-no-licence
+  de: ibiza-jetski-tour-margalides-ohne-fuehrerschein
+  fr: ibiza-jet-ski-iles-margalides-sans-permis
+  it: ibiza-moto-acqua-isole-margalides-senza-patente
   pt: ibiza-mota-de-agua-ilhas-margalides-sem-carta
 duracion: 1 hour
 duracionMinutos: 60

@@ -6,6 +6,7 @@ descripcion: Biglietto senza code per la cattedrale di Tarragona, del XII e XIII
 slugs:
   es: catedral-tarragona-entrada-audioguia
   en: tarragona-cathedral-ticket-audio-guide
+  de: tarragona-kathedrale-ticket-audioguide
   fr: tarragone-billet-cathedrale-audioguide
   it: biglietto-cattedrale-di-tarragona-audioguida
   pt: catedral-tarragona-bilhete-audioguia

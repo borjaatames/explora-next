@@ -6,6 +6,7 @@ descripcion: Parcours guidé de 3 heures en kayak le long de la côte volcanique
 slugs:
   es: kayak-esnorquel-los-cristianos
   en: los-cristianos-kayak-snorkel-tour
+  de: los-cristianos-kajak-schnorcheln-fotos
   fr: los-cristianos-kayak-snorkeling-photos-offertes
   it: kayak-snorkeling-los-cristianos
   pt: los-cristianos-kayak-snorkel

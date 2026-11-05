@@ -6,6 +6,7 @@ descripcion: Paseo en catamarán por la bahía de Málaga desde el puerto, con m
 slugs:
   es: catamaran-malaga-atardecer
   en: malaga-catamaran-sunset-cruise
+  de: malaga-katamaran-bucht-sonnenuntergang
   fr: malaga-balade-catamaran-baie-coucher-soleil
   it: malaga-giro-in-catamarano-al-tramonto
   pt: malaga-passeio-catamara-baia-por-do-sol

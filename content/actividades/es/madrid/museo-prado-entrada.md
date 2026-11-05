@@ -6,6 +6,10 @@ descripcion: 'Entrada oficial al Museo del Prado para visitarlo a tu ritmo: más
 slugs:
   es: museo-prado-entrada
   en: prado-museum-entry-ticket
+  de: madrid-museo-del-prado-ticket
+  fr: musee-du-prado-billet-entree
+  it: museo-del-prado-biglietto
+  pt: museu-do-prado-bilhete
 duracion: Válida 1 día
 duracionMinutos: 150
 precioDesde: 18

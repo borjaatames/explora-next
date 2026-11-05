@@ -6,6 +6,7 @@ descripcion: 'Entrada a la Cartuja de Granada con audioguía en el móvil: la sa
 slugs:
   es: monasterio-cartuja-granada-entrada
   en: granada-charterhouse-monastery-ticket
+  de: granada-kartaeuserkloster-cartuja-ticket
   fr: grenade-billet-monastere-chartreuse
   it: granada-biglietto-monastero-della-certosa
   pt: mosteiro-cartuxa-granada-bilhete

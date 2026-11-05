@@ -40,6 +40,7 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+avisoReserva: 'Temporada de navegación: el proveedor abre fechas en primavera. Si el calendario no muestra días, vuelve a mirarlo más adelante.'
 informacionImportante:
   queTraer:
   - Toalla y bañador si quieres bañarte
@@ -68,15 +69,15 @@ imagen: /images/actividades/barcelona/barcos/barcos-velero-port-vell.webp
 imagenAlt: Velero en el Port Vell de Barcelona
 galeria:
 - src: https://imgcdn.bokun.tools/f4827900-c7f3-470d-8cfe-040603e89588.jpg
-  alt: Velero privado exclusivo en Barcelona, foto 1 de 5
+  alt: "Grupo al timón del velero"
 - src: https://imgcdn.bokun.tools/34922688-bc8f-4fff-aa2d-2800d15081e2.jpg
-  alt: Velero privado exclusivo en Barcelona, foto 2 de 5
+  alt: "Grupo nadando en mar abierto junto al barco"
 - src: https://imgcdn.bokun.tools/44b6a8a1-9e6a-4ef6-8ebc-a8e051cb7f99.jpg
-  alt: Velero privado exclusivo en Barcelona, foto 3 de 5
+  alt: "Amigos con un aperitivo a bordo del velero"
 - src: https://imgcdn.bokun.tools/81824e3f-c790-40ed-97ad-fa46a5697f06.jpg
-  alt: Velero privado exclusivo en Barcelona, foto 4 de 5
+  alt: "Velero navegando frente a la playa de Barcelona"
 - src: https://imgcdn.bokun.tools/db9cad39-dffb-4d0f-9d30-b192ba6f1e36.jpg
-  alt: Velero privado exclusivo en Barcelona, foto 5 de 5
+  alt: "Amigas sentadas en la cubierta del velero"
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-02.webp
   alt: Grupo banandose en el mar durante una excursion en velero por Barcelona
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-03.webp
@@ -95,8 +96,7 @@ galeria:
   alt: Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo
 - src: /images/actividades/barcelona/watersports/velero-exclusivo-barcelona-01.webp
   alt: Velero privado navegando frente a Barcelona
-publicada: false
-reemplazadaPor: navegacion-atardecer-barcelona-vela
+publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

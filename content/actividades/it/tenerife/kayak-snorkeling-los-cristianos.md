@@ -6,8 +6,9 @@ descripcion: Percorso guidato in kayak di 3 ore lungo la costa vulcanica di Los 
 slugs:
   es: kayak-esnorquel-los-cristianos
   en: los-cristianos-kayak-snorkel-tour
-  it: kayak-snorkeling-los-cristianos
+  de: los-cristianos-kajak-schnorcheln-fotos
   fr: los-cristianos-kayak-snorkeling-photos-offertes
+  it: kayak-snorkeling-los-cristianos
   pt: los-cristianos-kayak-snorkel
 duracion: 3 ore
 duracionMinutos: 180

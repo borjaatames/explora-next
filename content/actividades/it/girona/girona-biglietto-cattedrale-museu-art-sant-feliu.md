@@ -6,6 +6,7 @@ descripcion: Biglietto combinato per la cattedrale di Girona (con il chiostro e 
 slugs:
   es: girona-catedral-museu-art-sant-feliu-entrada
   en: girona-cathedral-art-museum-sant-feliu-ticket
+  de: girona-kathedrale-kunstmuseum-sant-feliu-ticket
   fr: gerone-billet-cathedrale-musee-art-sant-feliu
   it: girona-biglietto-cattedrale-museu-art-sant-feliu
   pt: girona-catedral-museu-art-sant-feliu-bilhete

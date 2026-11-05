@@ -77,14 +77,10 @@ imagenAlt: Golfinhos no delfinário do Palmitos Park, Gran Canária
 galeria:
 - src: /images/actividades/gran-canaria/palmitos-park/aguila-calva.webp
   alt: Águia-de-cabeça-branca na exibição de aves de rapina do Palmitos Park
-- src: /images/actividades/gran-canaria/palmitos-park/barranco.webp
-  alt: O Palmitos Park na sua ravina do sul de Gran Canária
 - src: /images/actividades/gran-canaria/palmitos-park/palmeral.webp
   alt: Palmeiral e encostas da ravina no Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/jabiru.webp
   alt: Jabiru-africano no Palmitos Park
-- src: /images/actividades/gran-canaria/palmitos-park/guacamayos-amazonicos-rama.webp
-  alt: Araras amazónicas pousadas num ramo no Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/guacamayo-azul-amarillo.webp
   alt: Arara-azul-e-amarela no Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp

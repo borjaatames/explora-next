@@ -6,6 +6,7 @@ descripcion: Ingresso alla Cappella Reale di Granada, mausoleo dei Re Cattolici,
 slugs:
   es: capilla-real-granada-entrada
   en: royal-chapel-granada-entry-ticket
+  de: granada-capilla-real-ticket-audioguide
   fr: grenade-billet-chapelle-royale-audioguide
   it: granada-biglietto-cappella-reale-audioguida
   pt: capela-real-granada-bilhete-audioguia

@@ -6,6 +6,10 @@ descripcion: 'Entry ticket to the Royal Monastery of San Lorenzo de El Escorial:
 slugs:
   es: el-escorial-monasterio-entrada
   en: el-escorial-monastery-entry-ticket
+  de: el-escorial-kloster-ticket
+  fr: el-escorial-billet-monastere-royal
+  it: el-escorial-monastero-biglietto
+  pt: el-escorial-mosteiro-bilhete
 duracion: 2-3 hours
 duracionMinutos: 150
 precioDesde: 18

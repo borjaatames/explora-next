@@ -6,6 +6,7 @@ descripcion: Percorso guidato in kayak di 3 ore e mezza nella baia di Papagayo c
 slugs:
   es: kayak-esnorquel-papagayo
   en: papagayo-kayak-snorkel-tour
+  de: papagayo-kajak-schnorcheln-sandos
   fr: lanzarote-kayak-snorkeling-plage-papagayo
   it: tour-kayak-snorkeling-papagayo
   pt: lanzarote-caiaque-snorkel-praia-papagayo

@@ -6,6 +6,9 @@ descripcion: Entrada combinada al Hemisfèric (cine IMAX y planetario) y al Muse
 slugs:
   es: hemisferic-museu-ciencies-entrada
   en: hemisferic-science-museum-combo-ticket
+  de: valencia-hemisferic-wissenschaftsmuseum-kombiticket
+  fr: valence-billet-combine-hemisferic-musee-sciences
+  it: hemisferic-museo-scienze-valencia-biglietto
   pt: hemisferic-museu-ciencies-bilhete-combinado
 duracion: 3-4 horas
 duracionMinutos: 210

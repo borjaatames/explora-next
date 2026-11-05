@@ -6,6 +6,7 @@ descripcion: Crazy sofa, un canapé gonflable de 6 places tracté à toute vites
 slugs:
   es: crazy-sofa-alicante-lancha
   en: alicante-crazy-sofa-boat-ride
+  de: alicante-crazy-sofa-schnellboot
   fr: alicante-crazy-sofa-bateau-port
   it: alicante-crazy-sofa-trainato-da-motoscafo
   pt: alicante-crazy-sofa-lancha

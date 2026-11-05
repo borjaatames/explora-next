@@ -6,6 +6,9 @@ descripcion: Guided 30- to 60-minute jet ski tour from Puerto Rico along the sou
 slugs:
   es: moto-de-agua-puerto-rico-gran-canaria
   en: puerto-rico-gran-canaria-jet-ski-tour
+  de: puerto-rico-gran-canaria-jetski-tour
+  fr: puerto-rico-gran-canaria-jet-ski
+  it: puerto-rico-gran-canaria-moto-d-acqua
   pt: puerto-rico-gran-canaria-mota-de-agua
 duracion: 30-60 minutes
 duracionMinutos: 30

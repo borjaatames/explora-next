@@ -6,6 +6,8 @@ descripcion: Barca semiprivata di 3 ore da Alcúdia per vedere i delfini in libe
 slugs:
   es: avistamiento-delfines-alcudia
   en: alcudia-dolphin-watching
+  de: alcudia-delfinbeobachtung-coll-baix
+  fr: alcudia-observation-dauphins-coll-baix
   it: alcudia-avvistamento-delfini-garantito-coll-baix
   pt: alcudia-observacao-golfinhos-garantida-coll-baix
 duracion: 3 ore

@@ -7,6 +7,8 @@ slugs:
   es: velero-morro-jable-delfines-esnorquel
   en: morro-jable-sailing-dolphins-snorkelling
   de: morro-jable-segeltoern-delfine-schnorcheln
+  fr: morro-jable-voilier-dauphins-snorkeling
+  it: morro-jable-barca-a-vela-delfini-snorkeling
   pt: morro-jable-veleiro-golfinhos-snorkel
 duracion: 3 hours 30 minutes
 duracionMinutos: 210

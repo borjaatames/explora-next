@@ -57,7 +57,7 @@ galeria:
     alt: "Villa Termal de Montanejos, balneario de aguas termales"
   - src: "/images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp"
     alt: "Vista panorámica del entorno natural de Montanejos"
-publicada: false
+publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-18'

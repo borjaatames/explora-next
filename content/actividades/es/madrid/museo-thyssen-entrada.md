@@ -6,6 +6,10 @@ descripcion: 'Entrada al Museo Thyssen-Bornemisza con audioguía incluida: ocho 
 slugs:
   es: museo-thyssen-entrada
   en: thyssen-museum-entry-ticket
+  de: madrid-museo-thyssen-ticket-audioguide
+  fr: musee-thyssen-billet-entree-audioguide
+  it: museo-thyssen-biglietto-audioguida
+  pt: museu-thyssen-bilhete-audioguia
 duracion: Válida 1 día
 duracionMinutos: 150
 precioDesde: 14

@@ -6,6 +6,10 @@ descripcion: Acceso a la basílica de Gaudí con audioguía incluida en 16 idiom
 slugs:
   es: entrada-sagrada-familia-audioguia
   en: sagrada-familia-ticket-audio-guide
+  de: barcelona-sagrada-familia-ticket-audioguide
+  fr: sagrada-familia-billet-audioguide
+  it: sagrada-familia-biglietto-audioguida
+  pt: sagrada-familia-bilhete-audioguia
 duracion: 1–2 h (a tu ritmo)
 duracionMinutos: 90
 precioDesde: 34

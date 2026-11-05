@@ -6,6 +6,7 @@ descripcion: Sortie en bateau de 3 heures depuis Barbate pour observer les dauph
 slugs:
   es: avistamiento-delfines-trafalgar-barbate
   en: dolphin-whale-watching-trafalgar-barbate
+  de: barbate-delfine-wale-trafalgar
   fr: barbate-observation-dauphins-baleines-cap-trafalgar
   it: barbate-avvistamento-delfini-balene-capo-trafalgar
   pt: barbate-observacao-golfinhos-baleias-trafalgar

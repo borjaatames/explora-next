@@ -6,6 +6,10 @@ descripcion: Navegación de 2 horas en grupo reducido por el Mediterráneo frent
 slugs:
   es: crucero-grupo-reducido-barcelona-vela
   en: barcelona-small-group-sailing-cruise
+  de: barcelona-segeltoern-kleine-gruppe
+  fr: barcelone-croisiere-voilier-petit-groupe
+  it: barcellona-crociera-vela-piccolo-gruppo
+  pt: barcelona-cruzeiro-veleiro-grupo-reduzido
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 55

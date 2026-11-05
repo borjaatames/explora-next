@@ -6,9 +6,10 @@ descripcion: Rota guiada de kayak de 3 horas pela costa vulcânica de Los Cristi
 slugs:
   es: kayak-esnorquel-los-cristianos
   en: los-cristianos-kayak-snorkel-tour
-  pt: los-cristianos-kayak-snorkel
+  de: los-cristianos-kajak-schnorcheln-fotos
   fr: los-cristianos-kayak-snorkeling-photos-offertes
   it: kayak-snorkeling-los-cristianos
+  pt: los-cristianos-kayak-snorkel
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 23

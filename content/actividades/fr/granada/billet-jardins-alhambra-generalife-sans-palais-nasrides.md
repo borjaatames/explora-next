@@ -6,6 +6,7 @@ descripcion: Billet coupe-file pour les jardins de l'Alhambra, le Generalife, le
 slugs:
   es: entrada-jardines-alhambra-generalife
   en: alhambra-gardens-generalife-skip-line-ticket
+  de: alhambra-gaerten-generalife-ticket
   fr: billet-jardins-alhambra-generalife-sans-palais-nasrides
   it: biglietto-giardini-alhambra-generalife-senza-palazzi-nasridi
   pt: bilhete-jardins-alhambra-generalife-sem-palacios-nasridas

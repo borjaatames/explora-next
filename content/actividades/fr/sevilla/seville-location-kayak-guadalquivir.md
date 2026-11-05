@@ -6,6 +6,7 @@ descripcion: Deux heures de kayak sur le Guadalquivir, en passant devant la Torr
 slugs:
   es: kayak-guadalquivir-sevilla-alquiler
   en: guadalquivir-kayak-rental-seville
+  de: sevilla-kajak-guadalquivir
   fr: seville-location-kayak-guadalquivir
   it: siviglia-kayak-sul-guadalquivir
   pt: caiaque-guadalquivir-sevilha-aluguer

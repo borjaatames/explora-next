@@ -6,6 +6,7 @@ descripcion: Primeiro mergulho até 12 m com um instrutor PADI por cada 2 pessoa
 slugs:
   es: buceo-esnorquel-tortugas-costa-adeje
   en: scuba-snorkel-turtles-costa-adeje
+  de: costa-adeje-schnuppertauchen-schildkroeten
   fr: costa-adeje-bapteme-plongee-snorkeling-tortues
   it: battesimo-sub-snorkeling-tartarughe-costa-adeje
   pt: batismo-mergulho-snorkel-tartarugas-costa-adeje

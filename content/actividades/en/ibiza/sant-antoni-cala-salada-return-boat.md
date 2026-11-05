@@ -6,6 +6,9 @@ descripcion: Return boat ticket from Sant Antoni harbour to Cala Salada along th
 slugs:
   es: barco-cala-salada-ida-vuelta-sant-antoni
   en: sant-antoni-cala-salada-return-boat
+  de: sant-antoni-boot-cala-salada-hin-zurueck
+  fr: sant-antoni-bateau-aller-retour-cala-salada
+  it: sant-antoni-barca-andata-ritorno-cala-salada
   pt: sant-antoni-barco-ida-volta-cala-salada
 duracion: 30 minutes each way
 duracionMinutos: 30

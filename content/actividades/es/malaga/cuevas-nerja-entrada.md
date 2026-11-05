@@ -6,6 +6,7 @@ descripcion: 'Entrada a la Cueva de Nerja con audioguía: la columna de estalact
 slugs:
   es: cuevas-nerja-entrada
   en: nerja-caves-entry-ticket
+  de: nerja-hoehlen-ticket-audioguide
   fr: grotte-de-nerja-billet-audioguide
   it: biglietto-grotta-di-nerja-audioguida
   pt: gruta-de-nerja-bilhete-audioguia

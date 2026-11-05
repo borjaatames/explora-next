@@ -6,6 +6,9 @@ descripcion: A 4-hour yacht trip from Puerto Rico towards Mogán with up to 12 p
 slugs:
   es: yate-compartido-gran-canaria-comida-esnorquel
   en: gran-canaria-shared-yacht-trip-lunch-snorkeling
+  de: gran-canaria-yachtausflug-schnorcheln-puerto-rico
+  fr: grande-canarie-yacht-partage-open-bar-snorkeling
+  it: gran-canaria-yacht-condiviso-open-bar-snorkeling
   pt: gran-canaria-iate-partilhado-bar-aberto-snorkel
 duracion: 4 hours
 duracionMinutos: 240

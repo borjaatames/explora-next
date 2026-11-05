@@ -6,6 +6,7 @@ descripcion: 'Entrada al Museo de las Ilusiones de Sevilla: ilusiones ópticas, 
 slugs:
   es: museo-ilusiones-sevilla-entrada
   en: museum-of-illusions-seville-ticket
+  de: museum-der-illusionen-sevilla-ticket
   fr: seville-billet-musee-des-illusions
   it: biglietto-museo-delle-illusioni-siviglia
   pt: museu-das-ilusoes-sevilha-bilhete

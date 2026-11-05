@@ -6,6 +6,9 @@ descripcion: Saída de barco de 2 horas e meia a partir de Sant Antoni pela cost
 slugs:
   es: barco-playas-cuevas-ibiza-sant-antoni
   en: ibiza-beach-cave-boat-tour-sant-antoni
+  de: ibiza-bootstour-straende-hoehlen-sant-antoni
+  fr: ibiza-bateau-plages-grottes-sant-antoni
+  it: ibiza-tour-barca-spiagge-grotte-sant-antoni
   pt: ibiza-barco-praias-grutas-sant-antoni
 duracion: 2 horas e 30 minutos
 duracionMinutos: 150

@@ -6,6 +6,9 @@ descripcion: Catamarán de Líneas Romero desde Playa Blanca hasta la bahía de 
 slugs:
   es: minicrucero-papagayo-playa-blanca
   en: papagayo-beach-cruise-playa-blanca
+  de: playa-blanca-minikreuzfahrt-papagayo
+  fr: playa-blanca-mini-croisiere-papagayo-baignade
+  it: playa-blanca-minicrociera-papagayo-bagno
   pt: playa-blanca-minicruzeiro-papagayo-banho
 duracion: 1,5-3 horas
 duracionMinutos: 120

@@ -6,6 +6,10 @@ descripcion: Sunset sailing trip from Marina Vela along the Barcelona coast, wit
 slugs:
   es: navegacion-atardecer-barcelona-vela
   en: barcelona-sunset-sailing-experience
+  de: barcelona-segeltoern-sonnenuntergang
+  fr: barcelone-voilier-coucher-de-soleil
+  it: barcellona-barca-a-vela-tramonto
+  pt: barcelona-veleiro-por-do-sol
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 55

@@ -6,6 +6,7 @@ descripcion: Entry ticket to Granada Cathedral, Spain's great Renaissance cathed
 slugs:
   es: catedral-granada-entrada
   en: granada-cathedral-entry-ticket
+  de: granada-kathedrale-ticket-audioguide
   fr: grenade-billet-cathedrale-audioguide
   it: granada-biglietto-cattedrale-audioguida
   pt: catedral-granada-bilhete-audioguia

@@ -6,6 +6,8 @@ descripcion: Tour guiado de 2 horas en kayak y esnórquel por calas, cuevas y ac
 slugs:
   es: costa-brava-kayak-esnorquel-cuevas-sagaro
   en: costa-brava-kayak-snorkel-sea-caves-sagaro
+  de: costa-brava-kajak-schnorcheln-hoehlen-sagaro
+  fr: costa-brava-kayak-snorkeling-grottes-sagaro
   it: costa-brava-kayak-snorkeling-grotte-sagaro
   pt: costa-brava-caiaque-snorkel-grutas-sagaro
 duracion: 2 horas

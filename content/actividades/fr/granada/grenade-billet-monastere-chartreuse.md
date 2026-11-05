@@ -6,6 +6,7 @@ descripcion: 'Billet pour la Chartreuse de Grenade avec audioguide sur mobile : 
 slugs:
   es: monasterio-cartuja-granada-entrada
   en: granada-charterhouse-monastery-ticket
+  de: granada-kartaeuserkloster-cartuja-ticket
   fr: grenade-billet-monastere-chartreuse
   it: granada-biglietto-monastero-della-certosa
   pt: mosteiro-cartuxa-granada-bilhete

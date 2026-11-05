@@ -25,7 +25,6 @@ highlights:
 - Die Rutsche Anaconda und das Wasserlabyrinth
 - Kinderparadies für die Kleinsten
 - Polynesien-Bereich und Gärten
-- Optionales Erlebnis mit Seelöwen
 incluye:
 - Eintritt in den Park für 1 Tag
 - Nutzung aller Rutschen
@@ -34,7 +33,6 @@ noIncluye:
 - Essen und Getränke
 - Parkplatz (5 € pro Tag)
 - Liegen, Sonnenschirme, Schließfächer und Fast Pass
-- Erlebnis mit Seelöwen
 puntoEncuentro:
   texto: Ticketkontrolle von Aqualand Maspalomas, Straße zum Palmitos Park, Maspalomas.
   descripcionGuia: Gehen Sie mit der Buchung auf dem Handy direkt zur Ticketkontrolle. Der Park liegt im Hinterland von Maspalomas an der Straße, die zum Palmitos Park hinaufführt; Parken kostet 5 € pro Tag.
@@ -67,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: Muss man für den Parkplatz zahlen?
   respuesta: Ja, das Parken kostet 5 € pro Tag und ist nicht im Ticket enthalten.
 - pregunta: Was kostet im Park extra?
-  respuesta: Liegen, Sonnenschirme, Schließfächer, Fast Pass und das Erlebnis mit Seelöwen. Auch Essen ist nicht inklusive.
+  respuesta: Liegen, Sonnenschirme, Schließfächer und Fast Pass. Auch Essen ist nicht inklusive.
 - pregunta: Dürfen Erwachsene mit Babys rutschen?
   respuesta: Nicht überall. Mehrere Rutschen haben Größenbeschränkungen und erlauben keine Kleinkinder auf dem Arm; für sie gibt es das Kinderparadies.
 opinionEditorial: 'Der große Wasserpark im Süden, Kinder lieben ihn – die Bewertung liegt aber unter anderen Aktivitäten der Insel, vor allem wegen der Extras: Liege, Schließfach, Parkplatz und teures Essen. Kommen Sie zur Öffnung, nehmen Sie Wasser mit und rechnen Sie mit etwas mehr als dem Ticketpreis.'
@@ -80,11 +78,9 @@ keywords:
 - aqualand maspalomas tickets
 - wasserpark gran canaria
 - rutschen maspalomas
-imagen: /images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp
-imagenAlt: Rutschen und Becken im Aqualand Maspalomas
+imagen: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
+imagenAlt: "Luftaufnahme des großen Wellenbeckens im Aqualand Maspalomas"
 galeria:
-- src: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
-  alt: "Luftaufnahme des großen Wellenbeckens im Aqualand Maspalomas"
 - src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
   alt: "Große Röhrenrutschen im Aqualand Maspalomas zwischen Ruinen im Maya-Stil"
 - src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
@@ -119,7 +115,7 @@ Das **Kinderparadies** ist ein Bereich mit kleinen Rutschen und Wasserspielen f�
 
 ### Außerhalb des Wassers
 
-Der **Polynesien**-Bereich und die Gärten bieten Aktivitäten an Land, und es gibt ein optionales, kostenpflichtiges **Erlebnis mit Seelöwen**, je nach Verfügbarkeit.
+Der **Polynesien**-Bereich und die Gärten bieten Aktivitäten an Land.
 
 ## So funktioniert es
 

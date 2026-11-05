@@ -6,6 +6,8 @@ descripcion: Bilhete para os Jardins de Alfabia, no sopé da Serra de Tramuntana
 slugs:
   es: jardines-alfabia-soller-entrada
   en: alfabia-gardens-soller-ticket
+  de: soller-gaerten-alfabia-ticket
+  fr: soller-billet-jardins-alfabia
   it: soller-biglietto-giardini-di-alfabia
   pt: soller-bilhete-jardins-de-alfabia
 duracion: Válido 1 dia

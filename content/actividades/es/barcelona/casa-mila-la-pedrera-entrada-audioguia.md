@@ -6,6 +6,10 @@ descripcion: Ticket sin colas + audioguía a Casa Milà (La Pedrera), la obra ma
 slugs:
   es: casa-mila-la-pedrera-entrada-audioguia
   en: casa-mila-la-pedrera-audio-ticket
+  de: barcelona-casa-mila-la-pedrera-ticket-audioguide
+  fr: casa-mila-la-pedrera-billet-audioguide
+  it: casa-mila-pedrera-biglietto-audioguida
+  pt: casa-mila-la-pedrera-bilhete-audioguia
 duracion: Visita libre (típicamente 1-1,5 horas)
 duracionMinutos: 75
 precioDesde: 29

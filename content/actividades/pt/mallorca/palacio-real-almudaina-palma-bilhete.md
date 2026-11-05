@@ -6,6 +6,8 @@ descripcion: Bilhete sem guia para o Palácio Real da Almudaina, residência ofi
 slugs:
   es: palacio-almudaina-palma-entrada
   en: almudaina-royal-palace-palma-ticket
+  de: palma-koenigspalast-almudaina-ticket
+  fr: palma-billet-palais-royal-almudaina
   it: palma-biglietto-palazzo-reale-almudaina
   pt: palacio-real-almudaina-palma-bilhete
 duracion: 1-2 horas

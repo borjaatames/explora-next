@@ -40,6 +40,7 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+avisoReserva: 'Temporada de navegación: el proveedor abre fechas en primavera. Si el calendario no muestra días, vuelve a mirarlo más adelante.'
 informacionImportante:
   queTraer:
   - Toalla y bañador (hay tiempo para nadar)
@@ -67,15 +68,15 @@ imagen: /images/actividades/barcelona/barcos/barcos-veleros-puerto.webp
 imagenAlt: Veleros amarrados en el puerto de Barcelona
 galeria:
 - src: https://imgcdn.bokun.tools/9724d5c3-0dda-4cab-a28d-11b71f9ef903.jpg
-  alt: Velero privado en Barcelona con baño, foto 1 de 5
+  alt: "Velero de velas oscuras en el mar"
 - src: https://imgcdn.bokun.tools/125dc4d5-7bd9-425c-8dd1-a6dcbc32db74.jpg
-  alt: Velero privado en Barcelona con baño, foto 2 de 5
+  alt: "Velero amarrado en el puerto de Barcelona"
 - src: https://imgcdn.bokun.tools/64b4b831-44cb-48e2-9dfe-250e8b64df85.jpg
-  alt: Velero privado en Barcelona con baño, foto 3 de 5
+  alt: "Grupo de amigos con un aperitivo a bordo del velero"
 - src: https://imgcdn.bokun.tools/29957db4-554e-452e-b43d-c8a0ee126d2f.jpg
-  alt: Velero privado en Barcelona con baño, foto 4 de 5
+  alt: "Siluetas al timón de un velero al atardecer"
 - src: https://imgcdn.bokun.tools/8b948181-0930-4854-8d9f-4ee17e682a17.jpg
-  alt: Velero privado en Barcelona con baño, foto 5 de 5
+  alt: "Mujer en el barco con el puerto de Barcelona detrás"
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-02.webp
   alt: Velero privado amarrado en el puerto deportivo de Barcelona con la tripulacion a bordo
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-03.webp
@@ -94,8 +95,7 @@ galeria:
   alt: Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-01.webp
   alt: Velero privado en la costa de Barcelona
-publicada: false
-reemplazadaPor: crucero-grupo-reducido-barcelona-vela
+publicada: true
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

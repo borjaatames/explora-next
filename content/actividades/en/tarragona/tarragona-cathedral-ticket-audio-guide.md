@@ -6,6 +6,7 @@ descripcion: Skip-the-line entry to Tarragona's 12th-13th-century cathedral, wit
 slugs:
   es: catedral-tarragona-entrada-audioguia
   en: tarragona-cathedral-ticket-audio-guide
+  de: tarragona-kathedrale-ticket-audioguide
   fr: tarragone-billet-cathedrale-audioguide
   it: biglietto-cattedrale-di-tarragona-audioguida
   pt: catedral-tarragona-bilhete-audioguia

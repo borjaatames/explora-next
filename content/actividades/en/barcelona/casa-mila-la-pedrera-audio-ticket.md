@@ -6,6 +6,10 @@ descripcion: 'Skip-the-line ticket + audio guide to Casa Milà (La Pedrera), Gau
 slugs:
   es: casa-mila-la-pedrera-entrada-audioguia
   en: casa-mila-la-pedrera-audio-ticket
+  de: barcelona-casa-mila-la-pedrera-ticket-audioguide
+  fr: casa-mila-la-pedrera-billet-audioguide
+  it: casa-mila-pedrera-biglietto-audioguida
+  pt: casa-mila-la-pedrera-bilhete-audioguia
 duracion: Self-guided (typical visit 1-1.5 hours)
 duracionMinutos: 75
 precioDesde: 29

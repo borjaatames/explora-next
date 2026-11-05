@@ -6,6 +6,8 @@ descripcion: Percorso guidato in kayak di 2 ore e mezza lungo la costa di Benido
 slugs:
   es: kayak-bahia-benidorm-bano-fotos
   en: benidorm-bay-kayak-tour-swim-photos
+  de: benidorm-kajaktour-bucht-baden-fotos
+  fr: benidorm-kayak-baie-baignade-photos
   it: benidorm-kayak-nella-baia-bagno-foto
   pt: benidorm-caiaque-baia-banho-fotos
 duracion: 2 ore e 30 minuti

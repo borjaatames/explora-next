@@ -6,6 +6,9 @@ descripcion: Passeio de catamarã a partir de Costa Adeje para ver baleias e gol
 slugs:
   es: catamaran-avistamiento-ballenas-costa-adeje
   en: catamaran-whale-watching-costa-adeje
+  de: costa-adeje-katamaran-walbeobachtung
+  fr: costa-adeje-catamaran-observation-baleines
+  it: catamarano-avvistamento-balene-costa-adeje
   pt: catamara-observacao-baleias-costa-adeje
 duracion: 2 horas
 duracionMinutos: 120

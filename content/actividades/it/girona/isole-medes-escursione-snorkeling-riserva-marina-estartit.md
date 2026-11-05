@@ -6,6 +6,7 @@ descripcion: Uscita di 2 ore e mezza da L'Estartit su una barca piccola per fare
 slugs:
   es: islas-medes-esnorquel-estartit
   en: medes-islands-snorkelling-trip-estartit
+  de: medes-inseln-schnorcheln-estartit
   fr: iles-medes-snorkeling-reserve-marine-estartit
   it: isole-medes-escursione-snorkeling-riserva-marina-estartit
   pt: ilhas-medes-snorkel-estartit

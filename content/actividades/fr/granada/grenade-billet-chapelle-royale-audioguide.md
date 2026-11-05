@@ -6,6 +6,7 @@ descripcion: Billet pour la Chapelle royale de Grenade, mausolée des Rois catho
 slugs:
   es: capilla-real-granada-entrada
   en: royal-chapel-granada-entry-ticket
+  de: granada-capilla-real-ticket-audioguide
   fr: grenade-billet-chapelle-royale-audioguide
   it: granada-biglietto-cappella-reale-audioguida
   pt: capela-real-granada-bilhete-audioguia

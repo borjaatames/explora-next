@@ -6,6 +6,8 @@ descripcion: 15 minutos de banana boat puxado por uma lancha em frente à praia 
 slugs:
   es: banana-boat-playa-salou
   en: salou-banana-boat-ride
+  de: salou-banana-boat
+  fr: salou-bouee-banane-plage
   it: salou-giro-in-banana-boat-in-spiaggia
   pt: banana-boat-praia-salou
 duracion: 15 minutos

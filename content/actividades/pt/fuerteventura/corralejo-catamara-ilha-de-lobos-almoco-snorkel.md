@@ -6,6 +6,9 @@ descripcion: Excursão de 4 horas de catamarã de Corralejo à Isla de Lobos, fu
 slugs:
   es: catamaran-isla-lobos-corralejo
   en: corralejo-lobos-island-catamaran
+  de: corralejo-katamaran-isla-de-lobos
+  fr: corralejo-catamaran-ile-de-lobos
+  it: corralejo-catamarano-isola-di-lobos
   pt: corralejo-catamara-ilha-de-lobos-almoco-snorkel
 duracion: 4 horas
 duracionMinutos: 240

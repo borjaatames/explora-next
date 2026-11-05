@@ -6,6 +6,9 @@ descripcion: Cruzeiro de 6 horas a partir de Sant Antoni com paragens de uma hor
 slugs:
   es: crucero-calas-ibiza-paddle-surf-barra-libre
   en: ibiza-beach-hopping-cruise-paddleboarding
+  de: ibiza-bootsfahrt-buchten-paddle-mittagessen
+  fr: ibiza-croisiere-plages-paddle-dejeuner
+  it: ibiza-crociera-calette-paddle-surf-pranzo-bevande
   pt: ibiza-cruzeiro-enseadas-paddle-surf-almoco-bebidas
 duracion: 6 horas
 duracionMinutos: 360

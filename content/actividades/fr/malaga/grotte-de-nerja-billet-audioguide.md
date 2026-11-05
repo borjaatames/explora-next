@@ -6,6 +6,7 @@ descripcion: 'Billet pour la grotte de Nerja avec audioguide : la plus grande co
 slugs:
   es: cuevas-nerja-entrada
   en: nerja-caves-entry-ticket
+  de: nerja-hoehlen-ticket-audioguide
   fr: grotte-de-nerja-billet-audioguide
   it: biglietto-grotta-di-nerja-audioguida
   pt: gruta-de-nerja-bilhete-audioguia

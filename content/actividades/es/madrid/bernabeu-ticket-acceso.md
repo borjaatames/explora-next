@@ -6,6 +6,10 @@ descripcion: Entrada oficial al Tour Bernabéu (1,5 h) con acceso a vestuarios, 
 slugs:
   es: bernabeu-ticket-acceso
   en: bernabeu-entry-ticket
+  de: madrid-bernabeu-tour-ticket
+  fr: stade-bernabeu-billet-officiel-tour
+  it: bernabeu-biglietto-ingresso
+  pt: bernabeu-bilhete-tour-oficial
 duracion: 1,5 horas
 duracionMinutos: 90
 precioDesde: 37

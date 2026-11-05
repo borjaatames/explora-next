@@ -8,6 +8,7 @@ slugs:
   en: papagayo-catamaran-puerto-calero-slide-lunch
   de: papagayo-katamaran-ab-puerto-calero-mit-rutsche
   fr: papagayo-catamaran-puerto-calero-toboggan-dejeuner
+  it: catamarano-papagayo-puerto-calero-scivolo-pranzo
   pt: papagayo-catamara-puerto-calero-escorrega-almoco
 duracion: 4 Stunden
 duracionMinutos: 240

@@ -6,6 +6,7 @@ descripcion: Speedboat ride along the Alicante coast with music and a 15-minute 
 slugs:
   es: parasailing-alicante-paseo-barco
   en: alicante-parasailing-boat-trip
+  de: alicante-bootsfahrt-parasailing-getraenk
   fr: alicante-parachute-ascensionnel-balade-bateau
   it: alicante-giro-in-barca-parasailing-con-bevanda
   pt: alicante-parasailing-passeio-de-barco

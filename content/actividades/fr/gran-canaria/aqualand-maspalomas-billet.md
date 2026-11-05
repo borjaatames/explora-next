@@ -25,7 +25,6 @@ highlights:
 - Le toboggan Anaconda et le labyrinthe aquatique
 - Le Paraíso Infantil pour les tout-petits
 - Zone Polynésie et jardins
-- Rencontre optionnelle avec les otaries
 incluye:
 - Entrée au parc pour 1 jour
 - Accès à tous les toboggans
@@ -34,7 +33,6 @@ noIncluye:
 - Repas et boissons
 - Parking (5 € par jour)
 - Transats, parasols, casiers et coupe-files
-- Rencontre avec les otaries
 puntoEncuentro:
   texto: Contrôle des billets d’Aqualand Maspalomas, route de Palmitos Park, Maspalomas.
   descripcionGuia: Entrez directement par le contrôle des billets avec la réservation sur votre téléphone. Le parc se trouve dans l’intérieur de Maspalomas, sur la route qui monte vers Palmitos Park ; parking à 5 € par jour.
@@ -67,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: Le parking est-il payant ?
   respuesta: Oui, le parking coûte 5 € par jour et n’est pas inclus dans le billet.
 - pregunta: Qu’est-ce qui se paie à part dans le parc ?
-  respuesta: Transats, parasols, casiers, coupe-files et la rencontre avec les otaries. Les repas ne sont pas inclus non plus.
+  respuesta: Transats, parasols, casiers et coupe-files. Les repas ne sont pas inclus non plus.
 - pregunta: Peut-on descendre les toboggans avec un bébé ?
   respuesta: Pas sur tous. Plusieurs toboggans ont des limites de taille et n’autorisent pas les enfants dans les bras ; le Paraíso Infantil est prévu pour eux.
 opinionEditorial: 'C’est le grand parc aquatique du sud et les enfants l’adorent, mais sa note est plus basse que celle d’autres activités de l’île, surtout à cause des extras : transat, casier, parking et repas chers. Arrivez à l’ouverture, prenez de l’eau et prévoyez un budget au-delà du billet.'
@@ -80,11 +78,9 @@ keywords:
 - aqualand maspalomas billets
 - parc aquatique gran canaria
 - toboggans maspalomas
-imagen: /images/actividades/gran-canaria/aqualand/aqualand-toboganes.webp
-imagenAlt: Toboggans et piscine d’Aqualand Maspalomas
+imagen: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
+imagenAlt: "Vue aérienne de la grande piscine à vagues d’Aqualand Maspalomas"
 galeria:
-- src: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
-  alt: "Vue aérienne de la grande piscine à vagues d’Aqualand Maspalomas"
 - src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
   alt: "Grands toboggans tubulaires d’Aqualand Maspalomas parmi des ruines d’inspiration maya"
 - src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
@@ -119,7 +115,7 @@ Le **Paraíso Infantil** est une zone de toboggans et de jeux d’eau à leur ta
 
 ### Hors de l’eau
 
-La zone **Polynésie** et les jardins proposent des activités à terre, et une **rencontre avec les otaries** est possible en option, payante et selon disponibilité.
+La zone **Polynésie** et les jardins proposent des activités à terre.
 
 ## Comment ça marche
 

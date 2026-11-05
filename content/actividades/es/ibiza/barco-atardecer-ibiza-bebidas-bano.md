@@ -6,6 +6,9 @@ descripcion: Paseo en barco de 3 horas al atardecer por la costa de Ibiza en gru
 slugs:
   es: barco-atardecer-ibiza-bebidas-bano
   en: ibiza-sunset-boat-trip-drinks-swim
+  de: ibiza-sonnenuntergang-bootsausflug-getraenke-baden
+  fr: ibiza-bateau-coucher-soleil-boissons-baignade
+  it: ibiza-gita-barca-tramonto-bevande-bagno
   pt: ibiza-passeio-barco-por-do-sol-bebidas-banho
 duracion: 3 horas
 duracionMinutos: 180

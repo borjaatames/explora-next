@@ -6,6 +6,7 @@ descripcion: Timed entry ticket to the Royal Alcázar of Seville, Europe's oldes
 slugs:
   es: real-alcazar-sevilla-entrada
   en: real-alcazar-seville-entry-ticket
+  de: sevilla-real-alcazar-ticket
   fr: seville-billet-real-alcazar
   it: siviglia-biglietto-real-alcazar
   pt: real-alcazar-sevilha-bilhete-entrada

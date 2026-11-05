@@ -6,6 +6,9 @@ descripcion: 'Safari guiado de mota de água a partir da Marina San Miguel pela 
 slugs:
   es: moto-de-agua-safari-costa-sur
   en: jet-ski-safari-south-tenerife
+  de: teneriffa-jetski-safari-suedkueste
+  fr: tenerife-safari-jet-ski-cote-sud
+  it: safari-moto-acqua-costa-sud-tenerife
   pt: safari-mota-de-agua-costa-sul-tenerife
 duracion: 40 minutos ou 1 hora
 duracionMinutos: 40

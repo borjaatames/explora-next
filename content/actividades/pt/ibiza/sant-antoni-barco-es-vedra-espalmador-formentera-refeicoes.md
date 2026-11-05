@@ -6,6 +6,9 @@ descripcion: 'Dia completo de barco a partir de Sant Antoni: paragem em frente a
 slugs:
   es: crucero-es-vedra-sant-antoni
   en: es-vedra-cruise-sant-antoni
+  de: sant-antoni-bootsausflug-es-vedra-formentera
+  fr: sant-antoni-bateau-es-vedra-espalmador-formentera
+  it: sant-antoni-barca-es-vedra-espalmador-formentera-pasti
   pt: sant-antoni-barco-es-vedra-espalmador-formentera-refeicoes
 duracion: 12 horas
 duracionMinutos: 720

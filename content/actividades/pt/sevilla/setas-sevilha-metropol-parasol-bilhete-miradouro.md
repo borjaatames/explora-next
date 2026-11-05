@@ -6,6 +6,7 @@ descripcion: Bilhete para as Setas de Sevilla (Metropol Parasol) com acesso ao m
 slugs:
   es: setas-sevilla-metropol-parasol-entrada-mirador
   en: seville-setas-metropol-parasol-entry-ticket-viewpoint
+  de: sevilla-setas-metropol-parasol-ticket-aussichtspunkt
   fr: seville-billet-setas-metropol-parasol-belvedere
   it: siviglia-biglietto-setas-metropol-parasol-belvedere
   pt: setas-sevilha-metropol-parasol-bilhete-miradouro

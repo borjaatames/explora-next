@@ -6,7 +6,9 @@ descripcion: 'Entrada al museo del Athletic Club y recorrido por el estadio de S
 slugs:
   es: san-mames-museo-estadio-athletic
   en: san-mames-stadium-museum-tour
+  de: bilbao-san-mames-museum-stadiontour
   fr: san-mames-visite-stade-musee-athletic
+  it: san-mames-museo-stadio-athletic
   pt: bilbau-san-mames-museu-estadio-athletic
 duracion: Válida 1 día
 duracionMinutos: 90

@@ -6,6 +6,10 @@ descripcion: 1.5-hour semi-guided night visit to La Pedrera with audiovisual sho
 slugs:
   es: casa-mila-experiencia-nocturna-con-cava
   en: casa-mila-night-experience-cava
+  de: barcelona-casa-mila-nachterlebnis-cava
+  fr: casa-mila-la-pedrera-experience-nocturne-cava
+  it: casa-mila-esperienza-notturna-cava
+  pt: casa-mila-experiencia-noturna-com-cava
 duracion: 1.5 hours
 duracionMinutos: 90
 precioDesde: 39.5

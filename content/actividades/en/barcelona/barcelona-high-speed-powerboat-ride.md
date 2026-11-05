@@ -6,6 +6,10 @@ descripcion: 1-hour high-speed powerboat ride around Port Vell and the Barcelona
 slugs:
   es: lancha-rapida-barcelona-port-vell
   en: barcelona-high-speed-powerboat-ride
+  de: barcelona-schnellboot-port-vell
+  fr: barcelone-bateau-rapide-port-vell
+  it: barcellona-motoscafo-veloce-port-vell
+  pt: barcelona-lancha-rapida-port-vell
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 60

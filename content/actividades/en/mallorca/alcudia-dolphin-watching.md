@@ -6,6 +6,8 @@ descripcion: 3-hour semi-private boat from Alcúdia to see wild dolphins, with a
 slugs:
   es: avistamiento-delfines-alcudia
   en: alcudia-dolphin-watching
+  de: alcudia-delfinbeobachtung-coll-baix
+  fr: alcudia-observation-dauphins-coll-baix
   it: alcudia-avvistamento-delfini-garantito-coll-baix
   pt: alcudia-observacao-golfinhos-garantida-coll-baix
 duracion: 3 hours

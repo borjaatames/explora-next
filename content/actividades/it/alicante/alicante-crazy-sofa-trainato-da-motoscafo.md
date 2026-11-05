@@ -6,6 +6,7 @@ descripcion: Giro in crazy sofa, un divano gonfiabile da 6 posti trainato a tutt
 slugs:
   es: crazy-sofa-alicante-lancha
   en: alicante-crazy-sofa-boat-ride
+  de: alicante-crazy-sofa-schnellboot
   fr: alicante-crazy-sofa-bateau-port
   it: alicante-crazy-sofa-trainato-da-motoscafo
   pt: alicante-crazy-sofa-lancha
