@@ -2,7 +2,7 @@
 titulo: 'Alhambra e Palazzi Nasridi: tour privato salta la fila'
 slug: alhambra-palazzi-nasridi-tour-privato-salta-fila
 ciudad: granada
-descripcion: 'Tour privato di 3 ore dell''Alhambra con biglietti salta la fila: Generalife, Palazzo di Carlo V, Alcazaba e Palazzi Nasridi. Prezzo per gruppo, prenotabile anche da chi viaggia da solo. Disponibile in 5 lingue.'
+descripcion: 'Tour privato di 3 ore dell''Alhambra con biglietti salta la fila: Generalife, Palazzo di Carlo V, Alcazaba e Palazzi Nasridi. Prezzo per gruppo, prenotabile anche da chi viaggia da solo. Disponibile in italiano, inglese o spagnolo.'
 slugs:
   es: alhambra-palacios-nazaries-tour-privado-sin-colas
   en: alhambra-nasrid-palaces-private-tour-skip-the-line
@@ -17,8 +17,6 @@ idiomas:
 - es
 - en
 - it
-- fr
-- pt
 proveedor: bokun
 bokunProductId: 793771
 urlReserva: ''
@@ -28,7 +26,7 @@ highlights:
 - Biglietti dell'Alhambra e dei Palazzi Nasridi inclusi
 - Generalife, Palazzo di Carlo V, Alcazaba e Palazzi Nasridi
 - 'Prezzo per gruppo: prenotabile anche da una sola persona'
-- Guida in inglese, spagnolo, italiano, francese o portoghese
+- Guida in italiano, inglese o spagnolo
 incluye:
 - Biglietto per l'Alhambra e i giardini del Generalife
 - Biglietto per i Palazzi Nasridi
@@ -55,7 +53,7 @@ detallesPracticos:
   accesibleSilla: false
 politicaCancelacion: 'Prenotazione non rimborsabile: non sono ammesse cancellazioni né modifiche.'
 avisoReserva: I biglietti dell'Alhambra si esauriscono con settimane di anticipo
-opinionEditorial: 'Il suo punto di forza è che il prezzo è per gruppo: se viaggi da solo o in coppia, è uno dei tour privati dell''Alhambra più accessibili, e la guida può farlo in cinque lingue. Quello che devi sapere prima di prenotare è che non si può cancellare, quindi assicurati di avere date sicure.'
+opinionEditorial: 'Il suo punto di forza è che il prezzo è per gruppo: se viaggi da solo o in coppia, è uno dei tour privati dell''Alhambra più accessibili, e la guida può farlo in italiano, inglese o spagnolo. Quello che devi sapere prima di prenotare è che non si può cancellare, quindi assicurati di avere date sicure.'
 preguntasFrecuentes:
 - pregunta: Quanto costa?
   respuesta: Per 1 o 2 persone il prezzo è per gruppo, da 278 € a 360 € a seconda della data. Da 3 persone si paga a persona, circa 180 € ciascuno (a novembre 2026, 540 € per 3 e 720 € per 4). Il prezzo esatto compare nel calendario quando scegli la data e il numero di persone.
@@ -66,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: Dove incontriamo la guida?
   respuesta: Al ristorante La Mimbre, sul Paseo del Generalife, accanto all'ingresso dell'Alhambra.
 - pregunta: In quali lingue è disponibile?
-  respuesta: Inglese, spagnolo, italiano, francese e portoghese.
+  respuesta: Italiano, inglese o spagnolo.
 - pregunta: Posso cancellare?
   respuesta: No. È una prenotazione non rimborsabile e non sono ammesse cancellazioni.
 atraccionesRelacionadas:
@@ -122,5 +120,5 @@ Incontri la guida al **ristorante La Mimbre**, accanto all'ingresso dell'Alhambr
 ## A chi lo consiglio
 
 - A chi viaggia da solo o in coppia e vuole una guida privata a un buon prezzo.
-- A chi preferisce la visita in italiano, francese o portoghese.
+- A chi preferisce la visita in italiano.
 - A chi ha date sicure, visto che non sono ammesse cancellazioni.

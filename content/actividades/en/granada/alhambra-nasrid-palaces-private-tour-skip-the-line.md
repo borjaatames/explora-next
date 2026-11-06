@@ -2,7 +2,7 @@
 titulo: 'Alhambra and Nasrid Palaces: Private Skip-the-Line Tour'
 slug: alhambra-nasrid-palaces-private-tour-skip-the-line
 ciudad: granada
-descripcion: 'Private 3-hour Alhambra tour with skip-the-line tickets: Generalife, Palace of Charles V, Alcazaba and Nasrid Palaces. Price per group, solo travellers welcome. Available in 5 languages.'
+descripcion: 'Private 3-hour Alhambra tour with skip-the-line tickets: Generalife, Palace of Charles V, Alcazaba and Nasrid Palaces. Price per group, solo travellers welcome. Available in English, Spanish or Italian.'
 slugs:
   es: alhambra-palacios-nazaries-tour-privado-sin-colas
   en: alhambra-nasrid-palaces-private-tour-skip-the-line
@@ -17,8 +17,6 @@ idiomas:
 - es
 - en
 - it
-- fr
-- pt
 proveedor: bokun
 bokunProductId: 793771
 urlReserva: ''
@@ -28,7 +26,7 @@ highlights:
 - Alhambra and Nasrid Palaces tickets included
 - Generalife, Palace of Charles V, Alcazaba and Nasrid Palaces
 - 'Price per group: can be booked for a single traveller'
-- Guide in English, Spanish, Italian, French or Portuguese
+- Guide in English, Spanish or Italian
 incluye:
 - Alhambra and Generalife gardens ticket
 - Nasrid Palaces ticket
@@ -55,7 +53,7 @@ detallesPracticos:
   accesibleSilla: false
 politicaCancelacion: 'Non-refundable booking: cancellations and changes are not accepted.'
 avisoReserva: Alhambra tickets sell out weeks in advance
-opinionEditorial: 'Its strong point is that the price is per group: if you''re travelling solo or as a couple, it''s one of the more affordable private Alhambra tours, and the guide can do it in five languages. What you need to know before booking is that it can''t be cancelled, so make sure your dates are fixed.'
+opinionEditorial: 'Its strong point is that the price is per group: if you''re travelling solo or as a couple, it''s one of the more affordable private Alhambra tours, and the guide can do it in English, Spanish or Italian. What you need to know before booking is that it can''t be cancelled, so make sure your dates are fixed.'
 preguntasFrecuentes:
 - pregunta: How much does it cost?
   respuesta: For 1 or 2 people the price is per group, from €278 to €360 depending on the date. From 3 people it is charged per person, about €180 each (in November 2026, €540 for 3 and €720 for 4). The exact price shows in the calendar when you choose the date and number of people.
@@ -66,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: Where do we meet the guide?
   respuesta: At La Mimbre restaurant on Paseo del Generalife, next to the Alhambra entrance.
 - pregunta: What languages is it available in?
-  respuesta: English, Spanish, Italian, French and Portuguese.
+  respuesta: English, Spanish or Italian.
 - pregunta: Can I cancel?
   respuesta: No. It's a non-refundable booking and cancellations are not accepted.
 atraccionesRelacionadas:
@@ -121,5 +119,5 @@ You meet the guide at **La Mimbre restaurant**, next to the Alhambra entrance. T
 ## Who I recommend it for
 
 - Solo travellers or couples who want a private guide at a good price.
-- Anyone who prefers the tour in Italian, French or Portuguese.
+- Anyone who prefers the tour in Italian.
 - Travellers with fixed dates, since cancellations are not accepted.

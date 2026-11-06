@@ -20,7 +20,7 @@ idiomas:
 - fr
 - pt
 proveedor: bokun
-bokunProductId: 793771
+bokunProductId: 1160523
 urlReserva: ''
 cancelacionGratuita: false
 highlights:

@@ -2,7 +2,7 @@
 titulo: 'Alhambra y Palacios Nazaríes: tour privado sin colas'
 slug: alhambra-palacios-nazaries-tour-privado-sin-colas
 ciudad: granada
-descripcion: 'Tour privado de 3 horas por la Alhambra con entradas sin colas: Generalife, Palacio de Carlos V, Alcazaba y Palacios Nazaríes. Precio por grupo, también para viajeros solos. En 5 idiomas.'
+descripcion: 'Tour privado de 3 horas por la Alhambra con entradas sin colas: Generalife, Palacio de Carlos V, Alcazaba y Palacios Nazaríes. Precio por grupo, también para viajeros solos. En español, inglés o italiano.'
 slugs:
   es: alhambra-palacios-nazaries-tour-privado-sin-colas
   en: alhambra-nasrid-palaces-private-tour-skip-the-line
@@ -17,8 +17,6 @@ idiomas:
 - es
 - en
 - it
-- fr
-- pt
 proveedor: bokun
 bokunProductId: 793771
 urlReserva: ''
@@ -28,7 +26,7 @@ highlights:
 - Entradas a la Alhambra y a los Palacios Nazaríes incluidas
 - Generalife, Palacio de Carlos V, Alcazaba y Palacios Nazaríes
 - 'Precio por grupo: se puede reservar para 1 sola persona'
-- Guía en español, inglés, italiano, francés o portugués
+- Guía en español, inglés o italiano
 incluye:
 - Entrada a la Alhambra y jardines del Generalife
 - Entrada a los Palacios Nazaríes
@@ -55,7 +53,7 @@ detallesPracticos:
   accesibleSilla: false
 politicaCancelacion: 'Reserva no reembolsable: no se admiten cancelaciones ni cambios.'
 avisoReserva: Las entradas de la Alhambra se agotan con semanas de antelación
-opinionEditorial: 'Su punto fuerte es que el precio es por grupo: si viajas solo o en pareja, es de los tours privados de la Alhambra más asequibles, y el guía puede hacerlo en cinco idiomas. Lo que hay que tener claro antes de reservar es que no se puede cancelar, así que conviene tener las fechas cerradas.'
+opinionEditorial: 'Su punto fuerte es que el precio es por grupo: si viajas solo o en pareja, es de los tours privados de la Alhambra más asequibles, y el guía puede hacerlo en español, inglés o italiano. Lo que hay que tener claro antes de reservar es que no se puede cancelar, así que conviene tener las fechas cerradas.'
 preguntasFrecuentes:
 - pregunta: ¿Cuánto cuesta?
   respuesta: Para 1 o 2 personas el precio es por grupo, de 278 € a 360 € según la fecha. A partir de 3 se cobra por persona, unos 180 € cada una (en noviembre de 2026, 540 € para 3 y 720 € para 4). El precio exacto aparece en el calendario al elegir fecha y número de personas.
@@ -66,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: ¿Dónde se queda con el guía?
   respuesta: En el restaurante La Mimbre, en el Paseo del Generalife, junto a la entrada de la Alhambra.
 - pregunta: ¿En qué idiomas se hace?
-  respuesta: En español, inglés, italiano, francés y portugués.
+  respuesta: En español, inglés o italiano.
 - pregunta: ¿Puedo cancelar?
   respuesta: No. Es una reserva no reembolsable y no admite cancelaciones.
 atraccionesRelacionadas:
@@ -121,5 +119,5 @@ Quedas con el guía en el **restaurante La Mimbre**, junto a la entrada de la Al
 ## A quién se lo recomiendo
 
 - A viajeros solos o parejas que quieren un guía privado a buen precio.
-- A quien prefiere el tour en italiano, francés o portugués.
+- A quien prefiere el tour en italiano.
 - A quien tiene las fechas cerradas, porque no admite cancelación.
