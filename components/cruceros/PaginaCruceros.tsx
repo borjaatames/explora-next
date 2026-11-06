@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import type { PreguntaFrecuente } from "@/lib/actividades";
+import type { Idioma } from "@/lib/i18n/types";
 import FaqActividad from "@/components/FaqActividad";
 import { CardActividad } from "@/components/ciudad/ActividadesFiltradas";
 import { aCardData } from "@/lib/cardActividad";
@@ -10,6 +11,15 @@ import {
   guiasDePuertos,
   urlCruceros,
 } from "@/lib/descubrir";
+
+const CRITERIO: Record<Idioma, string> = {
+  es: "Criterio",
+  en: "Criterion",
+  de: "Kriterium",
+  fr: "Critère",
+  it: "Criterio",
+  pt: "Critério",
+};
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
@@ -154,9 +164,285 @@ export const TEXTOS_CRUCEROS = {
       },
     ] satisfies PreguntaFrecuente[],
   },
+  de: {
+    metaTitulo: "Landausflüge in Spanien: Kreuzfahrt-Guide nach Häfen (2026)",
+    metaDescripcion:
+      "Was du beim Landgang in Spaniens Kreuzfahrthäfen machen kannst: vom Kai ins Zentrum, was du in 4, 6 oder 8 Stunden siehst und Ausflüge mit Abholung am Hafen.",
+    titulo: "Landausflüge: was du in jedem spanischen Hafen machen kannst",
+    intro:
+      "Wie du vom Kai ins Zentrum kommst, was du je nach Liegezeit sehen kannst und welche Ausflüge dich direkt am Hafen abholen. Ein Guide pro Hafen, aktualisiert für 2026.",
+    migas: [{ label: "Startseite", href: "/de" }, { label: "Landausflüge" }],
+    migasAria: "Brotkrumen",
+    puertos: "Guides nach Hafen",
+    verGuia: "Hafen-Guide lesen",
+    comparativa: "Ausflug der Reederei, Gruppentour oder Privattour?",
+    comparativaIntro:
+      "Alle drei funktionieren; der Unterschied liegt im Preis, im Tempo und darin, wer verantwortlich ist, wenn sich etwas verspätet.",
+    columnas: { criterio: "", barco: "Ausflug der Reederei", grupo: "Gruppentour auf eigene Faust", privada: "Privattour mit Abholung am Kai" },
+    filas: [
+      {
+        criterio: "Preis",
+        barco: "Am teuersten pro Person",
+        grupo: "Am günstigsten",
+        privada: "Preis pro Gruppe: je mehr ihr seid, desto günstiger pro Person",
+      },
+      {
+        criterio: "Abholung",
+        barco: "Direkt am Schiff",
+        grupo: "Du musst selbst zum Treffpunkt kommen",
+        privada: "Am Terminal oder Kai (Schiffsnamen bei der Buchung angeben)",
+      },
+      {
+        criterio: "Bei Verspätung",
+        barco: "Das Schiff wartet auf seine eigenen Ausflüge",
+        grupo: "Rechtzeitig zurück zu sein liegt bei dir",
+        privada: "Die Rückkehr wird mit Puffer vor der Alle-an-Bord-Zeit vereinbart",
+      },
+      {
+        criterio: "Tempo und Gruppe",
+        barco: "Große Busse",
+        grupo: "Mittelgroße Gruppe, feste Zeiten",
+        privada: "Nur ihr, in eurem Tempo",
+      },
+    ] satisfies Fila[],
+    excursiones: "Ausflüge mit Abholung am Hafen",
+    excursionesIntro:
+      "Touren, bei denen der Anbieter die Abholung am Kai bestätigt. Gib bei der Buchung den Namen deines Schiffs an.",
+    tarjeta: { desde: "Ab", verActividad: "Tour ansehen", cancelacionGratuita: "Kostenlose Stornierung" },
+    locale: "de-DE",
+    faq: [
+      {
+        pregunta: "Wie viel Zeit brauche ich für einen Landausflug?",
+        respuesta:
+          "Für das Zentrum der Hafenstadt reichen 4 Stunden. Für eine andere Stadt (von Cádiz nach Sevilla oder von Málaga nach Granada) brauchst du mindestens 9 bis 10 Stunden Liegezeit, denn der Ausflug dauert etwa 8 Stunden und du solltest mit Puffer zurück sein.",
+      },
+      {
+        pregunta: "Was passiert, wenn mein Ausflug zu spät kommt und das Schiff ablegt?",
+        respuesta:
+          "Das Schiff wartet nur auf Ausflüge, die die Reederei verkauft. Bei einem unabhängigen Ausflug bist du selbst für die Rückkehr verantwortlich; vereinbare deshalb eine Rückkehrzeit mit genügend Puffer vor der Alle-an-Bord-Zeit.",
+      },
+      {
+        pregunta: "Komme ich auf eigene Faust vom Kai ins Zentrum?",
+        respuesta:
+          "In fast allen Häfen ja: Es gibt Shuttles, Stadtbusse oder du gehst zu Fuß. In jedem Hafen-Guide erklären wir die schnellste Möglichkeit und was sie kostet.",
+      },
+      {
+        pregunta: "Sollte ich den Ausflug vor der Kreuzfahrt buchen?",
+        respuesta:
+          "Ja, das ist sinnvoll. Tage mit mehreren Schiffen im Hafen sind schnell ausgebucht, und bei Privattouren braucht der Anbieter den Schiffsnamen und die Ankunftszeit, um die Abholung zu organisieren.",
+      },
+    ] satisfies PreguntaFrecuente[],
+  },
+  fr: {
+    metaTitulo: "Excursions en croisière en Espagne : guide port par port (2026)",
+    metaDescripcion:
+      "Que faire pendant votre escale dans les ports de croisière d’Espagne : aller du quai au centre, que voir en 4, 6 ou 8 heures et excursions avec prise en charge au port.",
+    titulo: "Excursions en croisière : que faire dans chaque port d’Espagne",
+    intro:
+      "Comment aller du quai au centre, ce que vous avez le temps de voir selon la durée de l’escale et quelles excursions viennent vous chercher au port. Un guide par port, mis à jour pour 2026.",
+    migas: [{ label: "Accueil", href: "/fr" }, { label: "Croisières" }],
+    migasAria: "Fil d’Ariane",
+    puertos: "Guides par port",
+    verGuia: "Lire le guide du port",
+    comparativa: "Excursion du bateau, en groupe ou privée ?",
+    comparativaIntro:
+      "Les trois conviennent ; ce qui change, c’est le prix, le rythme et qui est responsable en cas de retard.",
+    columnas: { criterio: "", barco: "Excursion du bateau", grupo: "En groupe par vos propres moyens", privada: "Privée avec prise en charge au quai" },
+    filas: [
+      {
+        criterio: "Prix",
+        barco: "Le plus élevé par personne",
+        grupo: "Le plus bas",
+        privada: "Prix par groupe : plus vous êtes nombreux, moins c’est cher par personne",
+      },
+      {
+        criterio: "Prise en charge",
+        barco: "Au pied du bateau",
+        grupo: "Vous devez rejoindre le point de rendez-vous",
+        privada: "Au terminal ou au quai (indiquez le nom du bateau à la réservation)",
+      },
+      {
+        criterio: "En cas de retard",
+        barco: "Le bateau attend ses propres excursions",
+        grupo: "Revenir à l’heure est votre responsabilité",
+        privada: "Le retour est convenu avec une marge avant l’heure d’embarquement",
+      },
+      {
+        criterio: "Rythme et groupe",
+        barco: "Grands autocars",
+        grupo: "Groupe moyen, horaires fixes",
+        privada: "Rien que vous, à votre rythme",
+      },
+    ] satisfies Fila[],
+    excursiones: "Excursions avec prise en charge au port",
+    excursionesIntro:
+      "Visites pour lesquelles l’organisateur confirme la prise en charge au quai. Indiquez le nom de votre bateau lors de la réservation.",
+    tarjeta: { desde: "À partir de", verActividad: "Voir la visite", cancelacionGratuita: "Annulation gratuite" },
+    locale: "fr-FR",
+    faq: [
+      {
+        pregunta: "Combien de temps faut-il pour une excursion depuis le port ?",
+        respuesta:
+          "Quatre heures suffisent pour voir le centre de la ville portuaire. Pour aller dans une autre ville (de Cadix à Séville ou de Malaga à Grenade), il faut une escale d’au moins 9 ou 10 heures, car l’excursion dure environ 8 heures et il vaut mieux revenir avec de la marge.",
+      },
+      {
+        pregunta: "Que se passe-t-il si l’excursion est en retard et que le bateau part ?",
+        respuesta:
+          "Le bateau n’attend que les excursions vendues par la compagnie. Avec une excursion indépendante, le retour est sous votre responsabilité : convenez d’une heure de retour avec une bonne marge avant l’embarquement.",
+      },
+      {
+        pregunta: "Puis-je aller seul du quai au centre-ville ?",
+        respuesta:
+          "Dans presque tous les ports, oui : navettes, bus urbains ou à pied. Le guide de chaque port explique l’option la plus rapide et son prix.",
+      },
+      {
+        pregunta: "Faut-il réserver l’excursion avant la croisière ?",
+        respuesta:
+          "C’est conseillé. Les jours où plusieurs bateaux sont à quai se remplissent vite, et pour les visites privées l’organisateur a besoin du nom du bateau et de l’heure d’arrivée pour organiser la prise en charge.",
+      },
+    ] satisfies PreguntaFrecuente[],
+  },
+  it: {
+    metaTitulo: "Escursioni in crociera in Spagna: guida porto per porto (2026)",
+    metaDescripcion:
+      "Cosa fare durante lo scalo nei porti crocieristici della Spagna: dal molo al centro, cosa vedere in 4, 6 o 8 ore ed escursioni con prelievo al porto.",
+    titulo: "Escursioni in crociera: cosa fare in ogni porto della Spagna",
+    intro:
+      "Come andare dal molo al centro, cosa riesci a vedere in base alle ore di scalo e quali escursioni ti vengono a prendere al porto. Una guida per porto, aggiornata al 2026.",
+    migas: [{ label: "Home", href: "/it" }, { label: "Crociere" }],
+    migasAria: "Percorso di navigazione",
+    puertos: "Guide per porto",
+    verGuia: "Leggi la guida del porto",
+    comparativa: "Escursione della nave, di gruppo o privata?",
+    comparativaIntro:
+      "Vanno bene tutte e tre; cambiano il prezzo, il ritmo e chi risponde se qualcosa va in ritardo.",
+    columnas: { criterio: "", barco: "Escursione della nave", grupo: "Di gruppo per conto tuo", privada: "Privata con prelievo al molo" },
+    filas: [
+      {
+        criterio: "Prezzo",
+        barco: "Il più alto a persona",
+        grupo: "Il più basso",
+        privada: "Prezzo a gruppo: più siete, meno costa a persona",
+      },
+      {
+        criterio: "Prelievo",
+        barco: "Sotto la nave",
+        grupo: "Devi raggiungere tu il punto d’incontro",
+        privada: "Al terminal o al molo (indica il nome della nave alla prenotazione)",
+      },
+      {
+        criterio: "In caso di ritardo",
+        barco: "La nave aspetta le proprie escursioni",
+        grupo: "Tornare in tempo è a carico tuo",
+        privada: "Il rientro si concorda con margine sull’orario d’imbarco",
+      },
+      {
+        criterio: "Ritmo e gruppo",
+        barco: "Pullman grandi",
+        grupo: "Gruppo medio, orario fisso",
+        privada: "Solo voi, al vostro ritmo",
+      },
+    ] satisfies Fila[],
+    excursiones: "Escursioni con prelievo al porto",
+    excursionesIntro:
+      "Tour in cui l’operatore conferma il prelievo al molo. Indica il nome della nave quando prenoti.",
+    tarjeta: { desde: "Da", verActividad: "Vedi il tour", cancelacionGratuita: "Cancellazione gratuita" },
+    locale: "it-IT",
+    faq: [
+      {
+        pregunta: "Quanto tempo serve per un’escursione dal porto?",
+        respuesta:
+          "Per vedere il centro della città portuale bastano 4 ore. Per andare in un’altra città (da Cadice a Siviglia o da Malaga a Granada) serve uno scalo di almeno 9 o 10 ore, perché l’escursione dura circa 8 ore e conviene rientrare con margine.",
+      },
+      {
+        pregunta: "Cosa succede se l’escursione arriva tardi e la nave parte?",
+        respuesta:
+          "La nave aspetta solo le escursioni vendute dalla compagnia. In un’escursione indipendente il rientro è responsabilità tua, quindi conviene concordare l’orario di ritorno con un buon margine sull’imbarco.",
+      },
+      {
+        pregunta: "Posso andare da solo dal molo al centro?",
+        respuesta:
+          "In quasi tutti i porti sì: ci sono navette, autobus urbani oppure si arriva a piedi. Nella guida di ogni porto spieghiamo l’opzione più rapida e quanto costa.",
+      },
+      {
+        pregunta: "Bisogna prenotare l’escursione prima della crociera?",
+        respuesta:
+          "È consigliabile. Le date con più navi in porto si riempiono e, nei tour privati, l’operatore ha bisogno del nome della nave e dell’orario d’arrivo per organizzare il prelievo.",
+      },
+    ] satisfies PreguntaFrecuente[],
+  },
+  pt: {
+    metaTitulo: "Excursões de cruzeiro em Espanha: guia porto a porto (2026)",
+    metaDescripcion:
+      "O que fazer na escala nos portos de cruzeiro de Espanha: do cais ao centro, o que ver em 4, 6 ou 8 horas e excursões com recolha no porto.",
+    titulo: "Excursões de cruzeiro: o que fazer em cada porto de Espanha",
+    intro:
+      "Como ir do cais ao centro, o que dá tempo para ver consoante as horas de escala e que excursões o vão buscar ao porto. Um guia por porto, atualizado para 2026.",
+    migas: [{ label: "Início", href: "/pt" }, { label: "Cruzeiros" }],
+    migasAria: "Navegação estrutural",
+    puertos: "Guias por porto",
+    verGuia: "Ler o guia do porto",
+    comparativa: "Excursão do navio, em grupo ou privada?",
+    comparativaIntro:
+      "As três servem; o que muda é o preço, o ritmo e quem responde se algo se atrasar.",
+    columnas: { criterio: "", barco: "Excursão do navio", grupo: "Em grupo por conta própria", privada: "Privada com recolha no cais" },
+    filas: [
+      {
+        criterio: "Preço",
+        barco: "O mais alto por pessoa",
+        grupo: "O mais baixo",
+        privada: "Preço por grupo: quantos mais forem, mais barato por pessoa",
+      },
+      {
+        criterio: "Recolha",
+        barco: "Junto ao navio",
+        grupo: "Tem de chegar ao ponto de encontro",
+        privada: "No terminal ou no cais (indique o navio ao reservar)",
+      },
+      {
+        criterio: "Em caso de atraso",
+        barco: "O navio espera pelas suas excursões",
+        grupo: "Voltar a tempo é responsabilidade sua",
+        privada: "O regresso é combinado com margem sobre a hora de embarque",
+      },
+      {
+        criterio: "Ritmo e grupo",
+        barco: "Autocarros grandes",
+        grupo: "Grupo médio, horário fixo",
+        privada: "Só vocês, ao vosso ritmo",
+      },
+    ] satisfies Fila[],
+    excursiones: "Excursões com recolha no porto",
+    excursionesIntro:
+      "Visitas em que o operador confirma a recolha no cais. Indique o nome do navio ao reservar.",
+    tarjeta: { desde: "Desde", verActividad: "Ver visita", cancelacionGratuita: "Cancelamento gratuito" },
+    locale: "pt-PT",
+    faq: [
+      {
+        pregunta: "Quanto tempo é preciso para uma excursão a partir do porto?",
+        respuesta:
+          "Para ver o centro da cidade portuária bastam 4 horas. Para ir a outra cidade (de Cádis a Sevilha ou de Málaga a Granada) precisa de uma escala de pelo menos 9 ou 10 horas, porque a excursão dura cerca de 8 horas e convém regressar com margem.",
+      },
+      {
+        pregunta: "O que acontece se a excursão se atrasar e o navio partir?",
+        respuesta:
+          "O navio só espera pelas excursões vendidas pela companhia. Numa excursão independente, o regresso é da sua responsabilidade, por isso convém combinar a hora de regresso com boa margem sobre o embarque.",
+      },
+      {
+        pregunta: "Posso ir por conta própria do cais ao centro?",
+        respuesta:
+          "Em quase todos os portos, sim: há vaivéns, autocarro urbano ou chega-se a pé. No guia de cada porto explicamos a opção mais rápida e quanto custa.",
+      },
+      {
+        pregunta: "É preciso reservar a excursão antes do cruzeiro?",
+        respuesta:
+          "Convém. As datas com vários navios no porto esgotam e, nas privadas, o operador precisa do nome do navio e da hora de chegada para organizar a recolha.",
+      },
+    ] satisfies PreguntaFrecuente[],
+  },
 } as const;
 
-export default function PaginaCruceros({ idioma }: { idioma: "es" | "en" }) {
+export default function PaginaCruceros({ idioma }: { idioma: Idioma }) {
   const t = TEXTOS_CRUCEROS[idioma];
   const puertos = guiasDePuertos(idioma);
   const excursiones = EXCURSIONES_DESDE_PUERTO.flatMap(({ ciudad, slugEs }) => {
@@ -254,7 +540,7 @@ export default function PaginaCruceros({ idioma }: { idioma: "es" | "en" }) {
               <thead className="bg-piedra-100 text-piedra-900">
                 <tr>
                   <th scope="col" className="p-4">
-                    <span className="sr-only">{idioma === "en" ? "Criterion" : "Criterio"}</span>
+                    <span className="sr-only">{CRITERIO[idioma]}</span>
                   </th>
                   {columnas.map((c) => (
                     <th key={c} scope="col" className="p-4 font-semibold">

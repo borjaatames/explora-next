@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import PaginaCruceros, { TEXTOS_CRUCEROS } from "@/components/cruceros/PaginaCruceros";
-import { urlCruceros } from "@/lib/descubrir";
+import { idiomaConCruceros, urlCruceros } from "@/lib/descubrir";
 import { hreflangAlternates } from "@/lib/i18n/utils";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -15,7 +15,7 @@ export function generateMetadata(): Metadata {
     robots: { index: allowIndexing, follow: allowIndexing },
     alternates: {
       canonical: url,
-      languages: hreflangAlternates((l) => (l === "es" || l === "en" ? urlCruceros(l) : null)),
+      languages: hreflangAlternates((l) => (idiomaConCruceros(l) ? urlCruceros(l) : null)),
     },
     openGraph: {
       type: "website",

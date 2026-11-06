@@ -28,7 +28,14 @@ type Props = {
   maxPorGrupo?: number;
 };
 
-const TEXTOS = {
+type TextosPagina = {
+  migas: string;
+  garantias: ReadonlyArray<string>;
+  tarjeta: { desde: string; verActividad: string; cancelacionGratuita: string };
+  locale: string;
+};
+
+const TEXTOS: Record<Idioma, TextosPagina> = {
   es: {
     migas: "Migas de pan",
     garantias: ["Solo tu grupo", "Reserva directa, sin intermediarios", "Pago con tarjeta en la pasarela segura de Bókun", "Te atendemos por WhatsApp"],
@@ -41,10 +48,34 @@ const TEXTOS = {
     tarjeta: { desde: "From", verActividad: "View tour", cancelacionGratuita: "Free cancellation" },
     locale: "en-GB",
   },
-} as const;
+  de: {
+    migas: "Brotkrumen",
+    garantias: ["Nur deine Gruppe", "Direkt buchen, ohne Zwischenhändler", "Kartenzahlung über das sichere Bókun-System", "Hilfe per WhatsApp"],
+    tarjeta: { desde: "Ab", verActividad: "Tour ansehen", cancelacionGratuita: "Kostenlose Stornierung" },
+    locale: "de-DE",
+  },
+  fr: {
+    migas: "Fil d’Ariane",
+    garantias: ["Rien que votre groupe", "Réservation directe, sans intermédiaire", "Paiement par carte via la plateforme sécurisée de Bókun", "Assistance sur WhatsApp"],
+    tarjeta: { desde: "À partir de", verActividad: "Voir la visite", cancelacionGratuita: "Annulation gratuite" },
+    locale: "fr-FR",
+  },
+  it: {
+    migas: "Percorso di navigazione",
+    garantias: ["Solo il tuo gruppo", "Prenotazione diretta, senza intermediari", "Pagamento con carta sulla piattaforma sicura di Bókun", "Assistenza su WhatsApp"],
+    tarjeta: { desde: "Da", verActividad: "Vedi il tour", cancelacionGratuita: "Cancellazione gratuita" },
+    locale: "it-IT",
+  },
+  pt: {
+    migas: "Navegação estrutural",
+    garantias: ["Só o seu grupo", "Reserva direta, sem intermediários", "Pagamento com cartão na plataforma segura da Bókun", "Apoio por WhatsApp"],
+    tarjeta: { desde: "Desde", verActividad: "Ver visita", cancelacionGratuita: "Cancelamento gratuito" },
+    locale: "pt-PT",
+  },
+};
 
 export default function PaginaPrivados({ idioma, titulo, intro, migas, grupos, faq, maxPorGrupo }: Props) {
-  const t = idioma === "es" ? TEXTOS.es : TEXTOS.en;
+  const t = TEXTOS[idioma];
   const todas = grupos.flatMap((g) => g.actividades);
 
   const breadcrumbsLd = {
@@ -105,7 +136,8 @@ export default function PaginaPrivados({ idioma, titulo, intro, migas, grupos, f
       </header>
 
       {grupos.map((g, i) => {
-        const visibles = maxPorGrupo ? g.actividades.slice(0, maxPorGrupo) : g.actividades;
+        // Sin página propia a la que enlazar, el grupo se pinta entero.
+        const visibles = maxPorGrupo && g.url ? g.actividades.slice(0, maxPorGrupo) : g.actividades;
         return (
           <section key={g.titulo ?? i} className={i % 2 === 1 ? "bg-piedra-50 border-y border-piedra-200" : ""}>
             <div className="max-w-6xl mx-auto px-4 py-10 md:py-14">

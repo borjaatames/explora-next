@@ -1,3 +1,4 @@
+import { urlPlanificador } from "@/lib/planificador";
 import { BotonesGuiasCiudad, PlanificaCiudad } from "@/components/ciudad/PlanCiudad";
 import { MIN_PRIVADAS_CIUDAD, obtenerPrivadasDeCiudad, urlPrivadasDeCiudad } from "@/lib/privados";
 import { aCardData } from "@/lib/cardActividad";
@@ -130,6 +131,8 @@ type TextosListado = {
   atracciones: string;
   guias: string;
   valoracionMedia: string;
+  soloPrivadas: (n: number) => string;
+  probarPlanificador: string;
   media: string;
   migaActividades: string;
   vistaDe: string;
@@ -155,6 +158,8 @@ const TEXTOS_LISTADO: Record<Exclude<Idioma, "es">, TextosListado> = {
     atracciones: "attractions",
     guias: "guides",
     valoracionMedia: "average rating",
+    soloPrivadas: (n) => `See only the ${n} private tours`,
+    probarPlanificador: "Not sure what to pick? Try the planner",
     media: "average",
     migaActividades: "Activities",
     vistaDe: "View of ",
@@ -192,6 +197,8 @@ const TEXTOS_LISTADO: Record<Exclude<Idioma, "es">, TextosListado> = {
     atracciones: "Sehenswürdigkeiten",
     guias: "Reiseführer",
     valoracionMedia: "Durchschnittsbewertung",
+    soloPrivadas: (n) => `Nur die ${n} Privattouren ansehen`,
+    probarPlanificador: "Unsicher, was du wählen sollst? Probier den Reiseplaner",
     media: "Durchschnitt",
     migaActividades: "Aktivitäten",
     vistaDe: "Blick auf ",
@@ -229,6 +236,8 @@ const TEXTOS_LISTADO: Record<Exclude<Idioma, "es">, TextosListado> = {
     atracciones: "sites à voir",
     guias: "guides",
     valoracionMedia: "note moyenne",
+    soloPrivadas: (n) => `Voir uniquement les ${n} visites privées`,
+    probarPlanificador: "Vous hésitez ? Essayez le planificateur",
     media: "en moyenne",
     migaActividades: "Activités",
     vistaDe: "Vue de ",
@@ -266,6 +275,8 @@ const TEXTOS_LISTADO: Record<Exclude<Idioma, "es">, TextosListado> = {
     atracciones: "attrazioni",
     guias: "guide",
     valoracionMedia: "valutazione media",
+    soloPrivadas: (n) => `Vedi solo i ${n} tour privati`,
+    probarPlanificador: "Non sai cosa scegliere? Prova il pianificatore",
     media: "di media",
     migaActividades: "Attività",
     vistaDe: "Veduta di ",
@@ -303,6 +314,8 @@ const TEXTOS_LISTADO: Record<Exclude<Idioma, "es">, TextosListado> = {
     atracciones: "atrações",
     guias: "guias",
     valoracionMedia: "avaliação média",
+    soloPrivadas: (n) => `Ver só as ${n} visitas privadas`,
+    probarPlanificador: "Não sabe o que escolher? Experimente o planeador",
     media: "de média",
     migaActividades: "Atividades",
     vistaDe: "Vista de ",
@@ -378,7 +391,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
   if (actividades.length === 0) notFound();
 
   const etiquetas = calcularEtiquetas(actividades);
-  const privadasCiudad = lang === "en" ? obtenerPrivadasDeCiudad("en", params.ciudad) : [];
+  const privadasCiudad = obtenerPrivadasDeCiudad(lang, params.ciudad);
   const cardsActividades = actividades.map((a) => ({
     ...aCardData(a),
     etiqueta: etiquetas.get(a.slug),
@@ -534,23 +547,21 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
             ) : null}
           </div>
           <div className="mt-5 flex flex-wrap gap-3">
-            {lang === "en" && privadasCiudad.length >= MIN_PRIVADAS_CIUDAD ? (
+            {privadasCiudad.length >= MIN_PRIVADAS_CIUDAD ? (
               <Link
-                href={urlPrivadasDeCiudad("en", params.ciudad)}
+                href={urlPrivadasDeCiudad(lang, params.ciudad)}
                 className="inline-flex items-center gap-2 rounded-lg bg-white/10 px-4 py-2 text-sm font-semibold text-white ring-1 ring-white/30 transition-colors hover:bg-white/20 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-piedra-900"
               >
-                See only the {privadasCiudad.length} private tours →
+                {tl.soloPrivadas(privadasCiudad.length)} →
               </Link>
             ) : null}
-            {lang === "en" ? (
-              <Link
-                href={`/en/planner?city=${params.ciudad}`}
-                prefetch={false}
-                className="inline-flex items-center gap-2 rounded-lg bg-white/10 px-4 py-2 text-sm font-semibold text-white ring-1 ring-white/30 transition-colors hover:bg-white/20 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-piedra-900"
-              >
-                Not sure what to pick? Try the planner →
-              </Link>
-            ) : null}
+            <Link
+              href={`${urlPlanificador(lang)}?city=${params.ciudad}`}
+              prefetch={false}
+              className="inline-flex items-center gap-2 rounded-lg bg-white/10 px-4 py-2 text-sm font-semibold text-white ring-1 ring-white/30 transition-colors hover:bg-white/20 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-piedra-900"
+            >
+              {tl.probarPlanificador} →
+            </Link>
             <BotonesGuiasCiudad idioma={lang} ciudad={params.ciudad} />
           </div>
         </div>

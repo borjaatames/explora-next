@@ -125,8 +125,16 @@ export function guiasDePuertos(idioma: Idioma): GuiaPuerto[] {
   });
 }
 
+/** Mínimo de guías de puerto para que el índice de cruceros no quede vacío. */
+export const MIN_PUERTOS_CRUCEROS = 2;
+
+/** ¿Existe el índice de cruceros en este idioma? */
+export function idiomaConCruceros(idioma: Idioma): boolean {
+  return idioma === "es" || guiasDePuertos(idioma).length >= MIN_PUERTOS_CRUCEROS;
+}
+
 export function urlCruceros(idioma: Idioma): string {
-  return idioma === "en" ? "/en/cruise-excursions" : "/cruceros";
+  return idioma === "es" ? "/cruceros" : `/${idioma}/cruise-excursions`;
 }
 
 /** Guías de un tipo en todas las ciudades del idioma (`categoria` = ciudad). */

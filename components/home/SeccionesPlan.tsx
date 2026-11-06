@@ -13,6 +13,7 @@ import {
   nombresCiudades,
   slugTipoGuia,
   urlCruceros,
+  idiomaConCruceros,
   type TipoGuiaPlan,
 } from "@/lib/descubrir";
 import { urlPlanificador } from "@/lib/planificador";
@@ -218,26 +219,25 @@ const T_CON_QUIEN = {
     subtitulo: "Guides for each kind of trip, or let the planner suggest activities for you.",
     planificador: "Suggest activities",
   },
-  // Sin planificador fuera de ES/EN: el subtítulo no lo menciona.
   de: {
     titulo: "Mit wem reist du?",
-    subtitulo: "Reiseführer für jede Art von Reise.",
-    planificador: null,
+    subtitulo: "Reiseführer für jede Art von Reise, oder lass dir vom Reiseplaner Aktivitäten vorschlagen.",
+    planificador: "Aktivitäten vorschlagen",
   },
   fr: {
     titulo: "Avec qui voyagez-vous ?",
-    subtitulo: "Des guides pensés pour chaque type de voyage.",
-    planificador: null,
+    subtitulo: "Des guides pensés pour chaque type de voyage, ou laissez le planificateur vous proposer des activités.",
+    planificador: "Proposez-moi des activités",
   },
   it: {
     titulo: "Con chi viaggi?",
-    subtitulo: "Guide pensate per ogni tipo di viaggio.",
-    planificador: null,
+    subtitulo: "Guide pensate per ogni tipo di viaggio, oppure lascia che il pianificatore ti proponga delle attività.",
+    planificador: "Proponimi delle attività",
   },
   pt: {
     titulo: "Com quem viaja?",
-    subtitulo: "Guias pensados para cada tipo de viagem.",
-    planificador: null,
+    subtitulo: "Guias pensados para cada tipo de viagem, ou deixe o planeador propor-lhe atividades.",
+    planificador: "Proponham-me atividades",
   },
 } as const satisfies Record<Idioma, { titulo: string; subtitulo: string; planificador: string | null }>;
 
@@ -269,16 +269,14 @@ function guiasDePerfil(idioma: Idioma, p: Perfil): GuiaDePerfil[] {
 }
 
 export function ConQuienViajas({ idioma }: { idioma: Idioma }) {
-  const l = idiomaPlan(idioma);
   const t = T_CON_QUIEN[idioma];
   const nombres = nombresCiudades(idioma);
-  const planificador = l ? urlPlanificador(idioma) : null;
+  const planificador = urlPlanificador(idioma);
 
   const todos = PERFILES.map((p) => ({ ...p, guias: guiasDePerfil(idioma, p) }));
-  // ES/EN pintan los cuatro perfiles (el planificador cubre los que no tienen
-  // guía); en el resto, solo los que tienen guía y con al menos dos perfiles.
-  const perfiles = l ? todos : todos.filter((p) => p.guias.length > 0);
-  if (!l && perfiles.length < 2) return null;
+  // Se pintan los cuatro perfiles en todos los idiomas: el planificador cubre
+  // los que no tienen guía.
+  const perfiles = todos;
 
   return (
     <section aria-labelledby="con-quien-home" className="max-w-6xl mx-auto px-4 py-16 md:py-20">
@@ -536,26 +534,25 @@ const T_CRUCEROS = {
     subtitulo: "What to see on your port day, getting from the pier to town, and tours with port pickup.",
     verTodos: "Cruise guide by port",
   },
-  // El índice de cruceros solo existe en ES/EN: sin enlace «ver todos».
   de: {
     titulo: "Kommst du mit dem Kreuzfahrtschiff?",
-    subtitulo: "Was du beim Landgang sehen kannst und wie du vom Kai ins Zentrum kommst.",
-    verTodos: null,
+    subtitulo: "Was du beim Landgang sehen kannst, wie du vom Kai ins Zentrum kommst und Ausflüge mit Abholung am Hafen.",
+    verTodos: "Kreuzfahrt-Guide nach Häfen",
   },
   fr: {
     titulo: "Vous arrivez en croisière ?",
-    subtitulo: "Que voir pendant l’escale et comment aller du quai au centre-ville.",
-    verTodos: null,
+    subtitulo: "Que voir pendant l’escale, comment aller du quai au centre-ville et excursions avec prise en charge au port.",
+    verTodos: "Guide des croisières par port",
   },
   it: {
     titulo: "Arrivi in crociera?",
-    subtitulo: "Cosa vedere durante lo scalo e come andare dal molo al centro.",
-    verTodos: null,
+    subtitulo: "Cosa vedere durante lo scalo, come andare dal molo al centro ed escursioni con prelievo al porto.",
+    verTodos: "Guida alle crociere per porto",
   },
   pt: {
     titulo: "Chega de cruzeiro?",
-    subtitulo: "O que ver durante a escala e como ir do cais ao centro.",
-    verTodos: null,
+    subtitulo: "O que ver durante a escala, como ir do cais ao centro e excursões com recolha no porto.",
+    verTodos: "Guia de cruzeiros por porto",
   },
 } as const satisfies Record<Idioma, { titulo: string; subtitulo: string; verTodos: string | null }>;
 
@@ -574,7 +571,7 @@ export function FranjaCruceros({ idioma }: { idioma: Idioma }) {
           </h2>
           <p className="text-piedra-600">{t.subtitulo}</p>
         </div>
-        {l && t.verTodos ? (
+        {idiomaConCruceros(idioma) && t.verTodos ? (
           <Link
             href={urlCruceros(idioma)}
             className="text-sm font-semibold text-anil-600 hover:text-anil-700 transition-colors"

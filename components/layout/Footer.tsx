@@ -13,7 +13,7 @@ import {
 import { urlListadoActividadesSiExiste } from "@/lib/actividades";
 import { urlProveedores } from "@/lib/proveedores";
 import { urlPlanificador } from "@/lib/planificador";
-import { urlCruceros } from "@/lib/descubrir";
+import { idiomaConCruceros, urlCruceros } from "@/lib/descubrir";
 import type { Idioma } from "@/lib/i18n/types";
 import { idiomaTieneGuias } from "@/lib/guias";
 import RedesSociales from "@/components/RedesSociales";
@@ -246,9 +246,9 @@ type Props = {
 
 export default function Footer({ idioma }: Props) {
   const t = DICT[idioma];
-  // Guías: solo si el idioma tiene alguna publicada. Planificador y cruceros solo existen en ES/EN.
+  // Guías: solo si el idioma tiene alguna publicada. Cruceros: solo con guías de puerto suficientes.
   const hayGuias = idiomaTieneGuias(idioma);
-  const hayPlanYCruceros = idioma === "es" || idioma === "en";
+  const hayCruceros = idiomaConCruceros(idioma);
   const year = new Date().getFullYear();
 
   return (
@@ -371,18 +371,16 @@ export default function Footer({ idioma }: Props) {
                   </Link>
                 </li>
               ) : null}
-              {hayPlanYCruceros ? (
-                <li>
-                  <Link
-                    href={urlPlanificador(idioma)}
-                    prefetch={false}
-                    className="hover:text-white transition-colors"
-                  >
-                    {t.planificador}
-                  </Link>
-                </li>
-              ) : null}
-              {hayPlanYCruceros ? (
+              <li>
+                <Link
+                  href={urlPlanificador(idioma)}
+                  prefetch={false}
+                  className="hover:text-white transition-colors"
+                >
+                  {t.planificador}
+                </Link>
+              </li>
+              {hayCruceros ? (
                 <li>
                   <Link
                     href={urlCruceros(idioma)}

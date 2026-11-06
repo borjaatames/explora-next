@@ -308,7 +308,7 @@ export default async function CiudadPage({ params }: Props) {
           { label: ciudad.nombre },
         ]}
         urlActividades={hayActividades ? urlActividades : undefined}
-        urlPrivados={(lang === "en" && obtenerCiudadesConPrivadas("en").some((c) => c.ciudad === params.ciudad)) ? urlPrivadasDeCiudad("en", params.ciudad) : undefined}
+        urlPrivados={obtenerCiudadesConPrivadas(lang).some((c) => c.ciudad === params.ciudad) ? urlPrivadasDeCiudad(lang, params.ciudad) : undefined}
         urlGuias={hayGuias ? urlGuias : undefined}
         urlAtracciones={hayAtracciones ? urlAtracciones : undefined}
       />

@@ -18,7 +18,7 @@ export function generateMetadata(): Metadata {
     robots: { index: allowIndexing, follow: allowIndexing },
     alternates: {
       canonical: url,
-      languages: hreflangAlternates((l) => (l === "es" || l === "en" ? urlPlanificador(l) : null)),
+      languages: hreflangAlternates((l) => urlPlanificador(l)),
     },
     openGraph: {
       type: "website",

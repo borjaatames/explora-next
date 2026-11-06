@@ -48,8 +48,8 @@ const DICT = {
     privados: "Privattouren",
     privadosCorto: "Privat",
     guias: "Reiseführer",
-    planifica: "",
-    planificaCorto: "",
+    planifica: "Reise planen",
+    planificaCorto: "Planer",
     ciudades: "Städte",
     sobreNosotros: "Über uns",
     contacto: "Kontakt",
@@ -63,8 +63,8 @@ const DICT = {
     privados: "Excursions privées",
     privadosCorto: "Privées",
     guias: "Guides",
-    planifica: "",
-    planificaCorto: "",
+    planifica: "Planifier votre voyage",
+    planificaCorto: "Planifier",
     ciudades: "Villes",
     sobreNosotros: "À propos",
     contacto: "Contact",
@@ -78,8 +78,8 @@ const DICT = {
     privados: "Escursioni private",
     privadosCorto: "Private",
     guias: "Guide",
-    planifica: "",
-    planificaCorto: "",
+    planifica: "Pianifica il viaggio",
+    planificaCorto: "Pianifica",
     ciudades: "Città",
     sobreNosotros: "Chi siamo",
     contacto: "Contatti",
@@ -93,8 +93,8 @@ const DICT = {
     privados: "Excursões privadas",
     privadosCorto: "Privadas",
     guias: "Guias",
-    planifica: "",
-    planificaCorto: "",
+    planifica: "Planeie a viagem",
+    planificaCorto: "Planear",
     ciudades: "Cidades",
     sobreNosotros: "Sobre nós",
     contacto: "Contacto",
@@ -130,18 +130,12 @@ export default function Navbar({ idioma, hayGuias }: Props) {
   const t = DICT[idioma];
 
   const enlaces = [
-    // Sin fichas propias en alemán: el hub solo existe en ES y EN.
-    ...(idioma === "es" || idioma === "en"
-      ? [{ href: urlHubPrivados(idioma), label: t.privados as string, corto: t.privadosCorto as string }]
-      : []),
+    { href: urlHubPrivados(idioma), label: t.privados as string, corto: t.privadosCorto as string },
     { href: urlIndiceCiudades(idioma), label: t.ciudades, corto: undefined as string | undefined },
     ...(hayGuias
       ? [{ href: urlIndiceGuias(idioma), label: t.guias as string }]
       : []),
-    // El planificador solo existe en ES y EN.
-    ...(idioma === "es" || idioma === "en"
-      ? [{ href: urlPlanificador(idioma), label: t.planifica as string, corto: t.planificaCorto as string }]
-      : []),
+    { href: urlPlanificador(idioma), label: t.planifica as string, corto: t.planificaCorto as string },
     // Por debajo de 1280 px no caben todos: «Sobre nosotros» queda en el pie y en el menú móvil.
     { href: urlSobreNosotros(idioma), label: t.sobreNosotros, soloLg: true },
   ];

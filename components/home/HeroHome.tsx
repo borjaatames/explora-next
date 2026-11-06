@@ -36,7 +36,7 @@ const DICT = {
     placeholder: "Madrid, Granada, Teneriffa…",
     boton: "Suchen",
     verDestinos: "Oder alle Reiseziele ansehen",
-    planificador: null,
+    planificador: "Unsicher, was ihr machen sollt? Probier den Reiseplaner",
   },
   fr: {
     antetitulo: "Experts locaux · Réservation sécurisée",
@@ -47,7 +47,7 @@ const DICT = {
     placeholder: "Madrid, Grenade, Tenerife…",
     boton: "Rechercher",
     verDestinos: "Ou parcourez toutes les destinations",
-    planificador: null,
+    planificador: "Vous ne savez pas quoi faire ? Essayez le planificateur",
   },
   it: {
     antetitulo: "Esperti locali · Prenotazione sicura",
@@ -58,7 +58,7 @@ const DICT = {
     placeholder: "Madrid, Granada, Tenerife…",
     boton: "Cerca",
     verDestinos: "Oppure esplora tutte le destinazioni",
-    planificador: null,
+    planificador: "Non sai cosa fare? Prova il pianificatore",
   },
   pt: {
     antetitulo: "Especialistas locais · Reserva segura",
@@ -69,7 +69,7 @@ const DICT = {
     placeholder: "Madrid, Granada, Tenerife…",
     boton: "Pesquisar",
     verDestinos: "Ou explore todos os destinos",
-    planificador: null,
+    planificador: "Não sabe o que fazer? Experimente o planeador",
   },
 } as const satisfies Record<Idioma, Record<string, string | null>>;
 
@@ -128,7 +128,7 @@ export default function HeroHome({
           >
             {t.verDestinos} →
           </Link>
-          {t.planificador && (idioma === "es" || idioma === "en") && (
+          {t.planificador && (
             <Link
               href={urlPlanificador(idioma)}
               prefetch={false}

@@ -22,7 +22,7 @@ export function generateMetadata(): Metadata {
     robots: { index: allowIndexing, follow: allowIndexing },
     alternates: {
       canonical: url,
-      languages: hreflangAlternates((l) => (l === "es" || l === "en" ? urlHubPrivados(l) : null)),
+      languages: hreflangAlternates((l) => urlHubPrivados(l)),
     },
     openGraph: { type: "website", url, title: `${titulo} | ExploraSpain`, description: descripcion, siteName: "ExploraSpain", locale: "es_ES" },
   };

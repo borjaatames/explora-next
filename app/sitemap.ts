@@ -276,24 +276,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // ─── Excursiones privadas: hub y páginas por ciudad (ES/EN) ──────
-  const ciudadesPrivadas = {
-    es: new Set(obtenerCiudadesConPrivadas("es").map((c) => c.ciudad)),
-    en: new Set(obtenerCiudadesConPrivadas("en").map((c) => c.ciudad)),
-  };
+  // ─── Excursiones privadas: hub y páginas por ciudad (todos los idiomas) ──────
+  const ciudadesPrivadas = new Map<Idioma, Set<string>>(
+    IDIOMAS_ACTIVOS.map((l) => [l, new Set(obtenerCiudadesConPrivadas(l).map((c) => c.ciudad))])
+  );
   const privadasSiExiste = (l: Idioma, ciudad: string): string | null =>
-    (l === "es" || l === "en") && ciudadesPrivadas[l].has(ciudad)
-      ? urlPrivadasDeCiudad(l, ciudad)
-      : null;
-  for (const lang of ["es", "en"] as const) {
+    ciudadesPrivadas.get(l)?.has(ciudad) ? urlPrivadasDeCiudad(l, ciudad) : null;
+  for (const lang of IDIOMAS_ACTIVOS) {
     entries.push({
       url: `${SITE_URL}${urlHubPrivados(lang)}`,
       lastModified: fechaActividades(lang),
       changeFrequency: "weekly",
       priority: 0.8,
-      alternates: alternatesPara((l) => (l === "es" || l === "en" ? urlHubPrivados(l) : null)),
+      alternates: alternatesPara((l) => urlHubPrivados(l)),
     });
-    for (const ciudad of Array.from(ciudadesPrivadas[lang])) {
+    for (const ciudad of Array.from(ciudadesPrivadas.get(lang) ?? [])) {
       entries.push({
         url: `${SITE_URL}${urlPrivadasDeCiudad(lang, ciudad)}`,
         lastModified: fechaActividades(lang, ciudad),

@@ -9,34 +9,44 @@ import {
   obtenerPrivadasDeCiudad,
   urlPrivadasDeCiudad,
 } from "@/lib/privados";
-import { hreflangAlternates, urlActividadesDeCiudad } from "@/lib/i18n/utils";
+import { IDIOMAS_ACTIVOS } from "@/lib/i18n/config";
+import { hreflangAlternates, prefijoIdioma, urlActividadesDeCiudad } from "@/lib/i18n/utils";
+import { TEXTOS_PRIVADOS } from "@/lib/i18n/textosPrivados";
 import type { Idioma } from "@/lib/i18n/types";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
 type Props = { params: { lang: string; ciudad: string } };
+type IdiomaNoEs = Exclude<Idioma, "es">;
 
 export const dynamicParams = false;
 
+const IDIOMAS: ReadonlyArray<IdiomaNoEs> = IDIOMAS_ACTIVOS.filter((l): l is IdiomaNoEs => l !== "es");
+
+function idiomaValido(lang: string): IdiomaNoEs | null {
+  return IDIOMAS.find((l) => l === lang) ?? null;
+}
+
 export function generateStaticParams(): { lang: string; ciudad: string }[] {
-  return obtenerCiudadesConPrivadas("en").map((c) => ({ lang: "en", ciudad: c.ciudad }));
+  return IDIOMAS.flatMap((lang) => obtenerCiudadesConPrivadas(lang).map((c) => ({ lang, ciudad: c.ciudad })));
 }
 
 function urlSiExiste(idioma: Idioma, ciudad: string): string | null {
-  if (idioma !== "es" && idioma !== "en") return null;
   return obtenerPrivadasDeCiudad(idioma, ciudad).length >= MIN_PRIVADAS_CIUDAD
     ? urlPrivadasDeCiudad(idioma, ciudad)
     : null;
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  if (params.lang !== "en") return { title: "Not found" };
-  const ciudad = await obtenerCiudad("en", params.ciudad);
-  if (!ciudad) return { title: "City not found" };
-  const total = obtenerPrivadasDeCiudad("en", params.ciudad).length;
-  const titulo = `Private tours and day trips in ${ciudad.nombre}`;
-  const descripcion = `${total} private tours and day trips in ${ciudad.nombre}, just for your group, with the price per person by group size and direct booking.`;
-  const url = `${SITE_URL}${urlPrivadasDeCiudad("en", params.ciudad)}`;
+  const lang = idiomaValido(params.lang);
+  if (!lang) return { title: "Not found" };
+  const ciudad = await obtenerCiudad(lang, params.ciudad);
+  if (!ciudad) return { title: "Not found" };
+  const t = TEXTOS_PRIVADOS[lang];
+  const total = obtenerPrivadasDeCiudad(lang, params.ciudad).length;
+  const titulo = t.ciudadTitulo(ciudad.nombre);
+  const descripcion = t.ciudadDescripcion(total, ciudad.nombre);
+  const url = `${SITE_URL}${urlPrivadasDeCiudad(lang, params.ciudad)}`;
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
   return {
     title: titulo,
@@ -46,30 +56,32 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       canonical: url,
       languages: hreflangAlternates((l) => urlSiExiste(l, params.ciudad)),
     },
-    openGraph: { type: "website", url, title: `${titulo} | ExploraSpain`, description: descripcion, siteName: "ExploraSpain", locale: "en_US" },
+    openGraph: { type: "website", url, title: `${titulo} | ExploraSpain`, description: descripcion, siteName: "ExploraSpain", locale: t.ogLocale },
   };
 }
 
 export default async function PrivateToursCityPage({ params }: Props) {
-  if (params.lang !== "en") notFound();
-  const ciudad = await obtenerCiudad("en", params.ciudad);
+  const lang = idiomaValido(params.lang);
+  if (!lang) notFound();
+  const ciudad = await obtenerCiudad(lang, params.ciudad);
   if (!ciudad) notFound();
-  const actividades = obtenerPrivadasDeCiudad("en", params.ciudad);
+  const actividades = obtenerPrivadasDeCiudad(lang, params.ciudad);
   if (actividades.length < MIN_PRIVADAS_CIUDAD) notFound();
+  const t = TEXTOS_PRIVADOS[lang];
 
   return (
     <PaginaPrivados
-      idioma="en"
-      titulo={`Private tours and day trips in ${ciudad.nombre}`}
-      intro={`${actividades.length} tours and day trips just for your group, with pickup and timing depending on each one. We show the price per person by group size so you can compare them with group tours.`}
+      idioma={lang}
+      titulo={t.ciudadTitulo(ciudad.nombre)}
+      intro={t.ciudadIntro(actividades.length)}
       migas={[
-        { label: "Home", href: "/en" },
+        { label: t.inicio, href: prefijoIdioma(lang) || "/" },
         { label: ciudad.nombre, href: ciudad.url },
-        { label: "Activities", href: urlActividadesDeCiudad("en", params.ciudad) },
-        { label: "Private tours" },
+        { label: t.migaActividades, href: urlActividadesDeCiudad(lang, params.ciudad) },
+        { label: t.migaHub },
       ]}
       grupos={[{ actividades }]}
-      faq={faqPrivadas("en", actividades, ciudad.nombre)}
+      faq={faqPrivadas(lang, actividades, ciudad.nombre)}
     />
   );
 }

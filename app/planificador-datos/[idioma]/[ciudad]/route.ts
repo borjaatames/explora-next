@@ -13,7 +13,7 @@ import {
 export const dynamic = "force-static";
 export const dynamicParams = false;
 
-const IDIOMAS: ReadonlyArray<Idioma> = ["es", "en"];
+const IDIOMAS: ReadonlyArray<Idioma> = ["es", "en", "de", "fr", "it", "pt"];
 
 type Params = { params: { idioma: string; ciudad: string } };
 

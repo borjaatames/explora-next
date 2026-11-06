@@ -47,7 +47,7 @@ type Textos = {
   actividades: string;
 };
 
-const TEXTOS: Record<"es" | "en", Textos> = {
+const TEXTOS: Record<Idioma, Textos> = {
   es: {
     pasoCiudad: "¿A qué ciudad vas?",
     elegirCiudad: "Elige una ciudad",
@@ -106,6 +106,131 @@ const TEXTOS: Record<"es" | "en", Textos> = {
     cancelacionGratuita: "Free cancellation",
     actividades: "activities",
   },
+  de: {
+    pasoCiudad: "Welche Stadt besuchst du?",
+    elegirCiudad: "Stadt wählen",
+    pasoAcompanantes: "Mit wem reist du?",
+    pasoPresupuesto: "Budget pro Person und Aktivität",
+    pasoIntereses: "Worauf habt ihr Lust?",
+    interesesAyuda: "Wähle so viel du willst. Wenn du nichts wählst, schlagen wir die bestbewerteten Aktivitäten vor.",
+    acompanantes: { pareja: "Zu zweit", familia: "Familie mit Kindern", amigos: "Mit Freunden", grupo: "Gruppe ab 6 Personen" },
+    presupuestos: { "30": "Bis 30 €", "60": "Bis 60 €", "120": "Bis 120 €", sinLimite: "Ohne Limit" },
+    intereses: {
+      monumentos: "Sehenswürdigkeiten und Führungen",
+      gastronomia: "Essen und Trinken",
+      noche: "Flamenco und Nachtleben",
+      naturaleza: "Natur und Wasser",
+      excursiones: "Tagesausflüge",
+      ninos: "Aktivitäten für Kinder",
+    },
+    cargando: "Wir stellen deinen Plan zusammen…",
+    error: "Die Aktivitäten konnten nicht geladen werden. Bitte versuch es gleich noch einmal.",
+    resultadoTitulo: "Dein Plan für {ciudad}",
+    resultadoIntro: "{n} Aktivitäten, die zu deinen Wünschen passen, von {total} in {ciudad}. Preise pro Person; bei Privattouren der Preis pro Person bei 4 Personen.",
+    sinResultados: "Mit diesen Filtern gibt es keine Aktivitäten. Erhöhe das Budget oder wähle andere Interessen.",
+    verTodas: "Alle {total} Aktivitäten in {ciudad} ansehen",
+    verGuias: "Reiseführer für {ciudad}",
+    desde: "Ab",
+    verActividad: "Aktivität ansehen",
+    cancelacionGratuita: "Kostenlose Stornierung",
+    actividades: "Aktivitäten",
+  },
+  fr: {
+    pasoCiudad: "Quelle ville visitez-vous ?",
+    elegirCiudad: "Choisissez une ville",
+    pasoAcompanantes: "Avec qui voyagez-vous ?",
+    pasoPresupuesto: "Budget par personne et par activité",
+    pasoIntereses: "De quoi avez-vous envie ?",
+    interesesAyuda: "Cochez tout ce qui vous tente. Si vous ne cochez rien, nous proposons les activités les mieux notées.",
+    acompanantes: { pareja: "En couple", familia: "En famille avec enfants", amigos: "Entre amis", grupo: "Groupe de 6 ou plus" },
+    presupuestos: { "30": "Jusqu’à 30 €", "60": "Jusqu’à 60 €", "120": "Jusqu’à 120 €", sinLimite: "Sans limite" },
+    intereses: {
+      monumentos: "Monuments et visites",
+      gastronomia: "Manger et boire",
+      noche: "Flamenco et soirées",
+      naturaleza: "Nature et eau",
+      excursiones: "Excursions d’une journée",
+      ninos: "Activités pour enfants",
+    },
+    cargando: "Nous préparons votre programme…",
+    error: "Impossible de charger les activités. Réessayez dans un instant.",
+    resultadoTitulo: "Votre programme à {ciudad}",
+    resultadoIntro: "{n} activités qui correspondent à vos envies, parmi les {total} que nous proposons à {ciudad}. Prix par personne ; pour les visites privées, le prix par personne pour un groupe de 4.",
+    sinResultados: "Aucune activité avec ces filtres. Augmentez le budget ou cochez d’autres envies.",
+    verTodas: "Voir les {total} activités à {ciudad}",
+    verGuias: "Guides de {ciudad}",
+    desde: "À partir de",
+    verActividad: "Voir l’activité",
+    cancelacionGratuita: "Annulation gratuite",
+    actividades: "activités",
+  },
+  it: {
+    pasoCiudad: "Quale città visiti?",
+    elegirCiudad: "Scegli una città",
+    pasoAcompanantes: "Con chi viaggi?",
+    pasoPresupuesto: "Budget a persona per attività",
+    pasoIntereses: "Cosa vi va di fare?",
+    interesesAyuda: "Seleziona tutto ciò che vuoi. Se non selezioni nulla, ti proponiamo le attività con il voto migliore.",
+    acompanantes: { pareja: "In coppia", familia: "In famiglia con bambini", amigos: "Con amici", grupo: "Gruppo di 6 o più" },
+    presupuestos: { "30": "Fino a 30 €", "60": "Fino a 60 €", "120": "Fino a 120 €", sinLimite: "Senza limite" },
+    intereses: {
+      monumentos: "Monumenti e visite",
+      gastronomia: "Mangiare e bere",
+      noche: "Flamenco e vita notturna",
+      naturaleza: "Natura e acqua",
+      excursiones: "Escursioni di un giorno",
+      ninos: "Attività per bambini",
+    },
+    cargando: "Stiamo preparando il tuo piano…",
+    error: "Non è stato possibile caricare le attività. Riprova tra un momento.",
+    resultadoTitulo: "Il tuo piano a {ciudad}",
+    resultadoIntro: "{n} attività in linea con ciò che cerchi, tra le {total} che abbiamo a {ciudad}. Prezzi a persona; per i tour privati, il prezzo a persona per un gruppo di 4.",
+    sinResultados: "Nessuna attività con questi filtri. Prova ad aumentare il budget o a scegliere altri interessi.",
+    verTodas: "Vedi tutte le {total} attività a {ciudad}",
+    verGuias: "Guide di {ciudad}",
+    desde: "Da",
+    verActividad: "Vedi attività",
+    cancelacionGratuita: "Cancellazione gratuita",
+    actividades: "attività",
+  },
+  pt: {
+    pasoCiudad: "Que cidade vai visitar?",
+    elegirCiudad: "Escolha uma cidade",
+    pasoAcompanantes: "Com quem viaja?",
+    pasoPresupuesto: "Orçamento por pessoa e atividade",
+    pasoIntereses: "O que lhes apetece?",
+    interesesAyuda: "Marque tudo o que quiser. Se não marcar nada, propomos as atividades mais bem avaliadas.",
+    acompanantes: { pareja: "Em casal", familia: "Em família com crianças", amigos: "Com amigos", grupo: "Grupo de 6 ou mais" },
+    presupuestos: { "30": "Até 30 €", "60": "Até 60 €", "120": "Até 120 €", sinLimite: "Sem limite" },
+    intereses: {
+      monumentos: "Monumentos e visitas",
+      gastronomia: "Comer e beber",
+      noche: "Flamenco e noite",
+      naturaleza: "Natureza e água",
+      excursiones: "Excursões de um dia",
+      ninos: "Atividades para crianças",
+    },
+    cargando: "A preparar o seu plano…",
+    error: "Não foi possível carregar as atividades. Tente novamente daqui a pouco.",
+    resultadoTitulo: "O seu plano em {ciudad}",
+    resultadoIntro: "{n} atividades que correspondem ao que procura, entre as {total} que temos em {ciudad}. Preços por pessoa; nas visitas privadas, o preço por pessoa num grupo de 4.",
+    sinResultados: "Não há atividades com esses filtros. Experimente aumentar o orçamento ou escolher outros interesses.",
+    verTodas: "Ver as {total} atividades em {ciudad}",
+    verGuias: "Guias de {ciudad}",
+    desde: "Desde",
+    verActividad: "Ver atividade",
+    cancelacionGratuita: "Cancelamento gratuito",
+    actividades: "atividades",
+  },
+};
+
+const LOCALES: Record<Idioma, string> = {
+  es: "es-ES",
+  en: "en-GB",
+  de: "de-DE",
+  fr: "fr-FR",
+  it: "it-IT",
+  pt: "pt-PT",
 };
 
 function rellenar(plantilla: string, valores: Record<string, string | number>): string {
@@ -130,8 +255,8 @@ export default function Planificador({
   ciudades: ReadonlyArray<CiudadOpcion>;
   ciudadInicial?: string;
 }) {
-  const t = idioma === "en" ? TEXTOS.en : TEXTOS.es;
-  const locale = idioma === "en" ? "en-GB" : "es-ES";
+  const t = TEXTOS[idioma];
+  const locale = LOCALES[idioma];
   const [ciudad, setCiudad] = useState<string>(ciudadInicial ?? "");
   const [acompanantes, setAcompanantes] = useState<Acompanantes>("pareja");
   const [presupuesto, setPresupuesto] = useState<Presupuesto>("sinLimite");

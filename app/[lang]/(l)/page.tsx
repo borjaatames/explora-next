@@ -1,4 +1,3 @@
-import ActividadesIdiomaHome from "@/components/home/ActividadesIdiomaHome";
 import { FranjaNavidad, ConQuienViajas, RutasPorDias, FranjaCruceros } from "@/components/home/SeccionesPlan";
 import PrivadosHome from "@/components/home/PrivadosHome";
 import type { Metadata } from "next";
@@ -444,8 +443,6 @@ export default function HomePage({ params }: Props) {
         </section>
       )}
 
-      {/* Featured activities and tours (below destinations) */}
-      <ActividadesIdiomaHome idioma={lang} />
       <ConQuienViajas idioma={lang} />
 
       <PrivadosHome idioma={lang} />
