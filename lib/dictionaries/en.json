@@ -23,7 +23,7 @@
   },
   "guias": {
     "tituloIndice": "Guides",
-    "descripcionIndice": "Itineraries and practical advice for traveling Spain with confidence.",
+    "descripcionIndice": "Spain travel guides with day-by-day itineraries, checked prices and practical tips: what to see, when to go and how to skip the queues in Madrid and more.",
     "minutosLectura": "min read",
     "publicadoEl": "Published",
     "autorPor": "By",
@@ -32,7 +32,7 @@
   },
   "ciudades": {
     "tituloIndice": "Cities",
-    "descripcionIndice": "Spain's must-visit cities, each with its own dedicated guides.",
+    "descripcionIndice": "Spain's must-visit cities with guides, tours and activities: Madrid, Barcelona, Seville, Granada, Malaga, Valencia, the Canary and Balearic Islands and more.",
     "verCiudad": "Explore city",
     "guiasDeCiudad": "Guides for this city",
     "volverACiudades": "Back to cities"

@@ -16,7 +16,7 @@ const SITE_URL =
 export const metadata: Metadata = {
   title: "Guías de viaje por España",
   description:
-    "Rutas con criterio, selección honesta y consejos prácticos para viajar por España. Sin postureo turístico.",
+    "Guías de viaje por España con itinerarios día a día, precios comprobados y consejos prácticos: qué ver, cuándo ir y cómo evitar colas en Madrid, Sevilla y más.",
   alternates: {
     canonical: `${SITE_URL}${urlIndiceGuias("es")}`,
     languages: hreflangAlternates((l) => urlIndiceGuias(l)),

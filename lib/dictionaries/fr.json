@@ -23,7 +23,7 @@
   },
   "guias": {
     "tituloIndice": "Guides",
-    "descripcionIndice": "Itinéraires et conseils pratiques pour voyager en Espagne en toute confiance.",
+    "descripcionIndice": "Guides de voyage en Espagne : itinéraires jour par jour, prix vérifiés et conseils pratiques pour savoir quoi voir, quand partir et éviter les files d’attente.",
     "minutosLectura": "min de lecture",
     "publicadoEl": "Publié le",
     "autorPor": "Par",
@@ -32,7 +32,7 @@
   },
   "ciudades": {
     "tituloIndice": "Villes",
-    "descripcionIndice": "Les villes incontournables d’Espagne, chacune avec ses activités et ses conseils.",
+    "descripcionIndice": "Les villes incontournables d’Espagne avec guides, visites et activités : Madrid, Barcelone, Séville, Grenade, Malaga, Valence, Canaries, Baléares et plus.",
     "verCiudad": "Découvrir la ville",
     "guiasDeCiudad": "Guides de cette ville",
     "volverACiudades": "Retour aux villes"

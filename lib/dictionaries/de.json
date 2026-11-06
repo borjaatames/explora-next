@@ -23,7 +23,7 @@
   },
   "guias": {
     "tituloIndice": "Reiseführer",
-    "descripcionIndice": "Reiserouten und praktische Tipps, um Spanien mit Weitblick zu bereisen.",
+    "descripcionIndice": "Spanien-Reiseführer mit Tagesrouten, geprüften Preisen und Tipps: was sehen, wann reisen und wie man Warteschlangen in Madrid, Barcelona & Co. vermeidet.",
     "minutosLectura": "Min. Lesezeit",
     "publicadoEl": "Veröffentlicht am",
     "autorPor": "Von",
@@ -32,7 +32,7 @@
   },
   "ciudades": {
     "tituloIndice": "Städte",
-    "descripcionIndice": "Die wichtigsten Städte Spaniens, mit eigenen Reiseführern.",
+    "descripcionIndice": "Die wichtigsten Städte Spaniens mit Reiseführern, Touren und Aktivitäten: Madrid, Barcelona, Sevilla, Granada, Málaga, Valencia, Kanaren, Balearen und mehr.",
     "verCiudad": "Stadt ansehen",
     "guiasDeCiudad": "Reiseführer zu dieser Stadt",
     "volverACiudades": "Zurück zu den Städten"

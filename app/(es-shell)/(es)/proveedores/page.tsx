@@ -10,7 +10,7 @@ const canonical = `${SITE_URL}${urlProveedores("es")}`;
 
 export const metadata: Metadata = {
   title: t.titulo,
-  description: t.subtitulo,
+  description: t.metaDescripcion,
   robots: { index: allowIndexing, follow: allowIndexing },
   alternates: {
     canonical,
@@ -20,11 +20,11 @@ export const metadata: Metadata = {
     type: "website",
     url: canonical,
     title: t.titulo,
-    description: t.subtitulo,
+    description: t.metaDescripcion,
     siteName: "ExploraSpain",
     locale: "es_ES",
   },
-  twitter: { card: "summary_large_image", title: t.titulo, description: t.subtitulo },
+  twitter: { card: "summary_large_image", title: t.titulo, description: t.metaDescripcion },
 };
 
 export default function ProveedoresPage() {

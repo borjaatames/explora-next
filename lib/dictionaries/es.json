@@ -23,7 +23,7 @@
   },
   "guias": {
     "tituloIndice": "Guías",
-    "descripcionIndice": "Itinerarios y consejos prácticos para viajar por España con criterio.",
+    "descripcionIndice": "Guías de viaje por España con itinerarios día a día, precios comprobados y consejos prácticos: qué ver, cuándo ir y cómo evitar colas en Madrid, Sevilla y más.",
     "minutosLectura": "min de lectura",
     "publicadoEl": "Publicado el",
     "autorPor": "Por",
@@ -32,7 +32,7 @@
   },
   "ciudades": {
     "tituloIndice": "Ciudades",
-    "descripcionIndice": "Las ciudades imprescindibles de España, con guías propias.",
+    "descripcionIndice": "Las ciudades imprescindibles de España con sus guías, tours y actividades: Madrid, Barcelona, Sevilla, Granada, Málaga, Valencia, Canarias, Baleares y más.",
     "verCiudad": "Ver ciudad",
     "guiasDeCiudad": "Guías de esta ciudad",
     "volverACiudades": "Volver a ciudades"

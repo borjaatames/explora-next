@@ -11,6 +11,8 @@ import {
 type CopyProveedores = Readonly<{
   titulo: string;
   subtitulo: string;
+  /** Metadescripción (140-160 caracteres); el subtítulo visible es más corto. */
+  metaDescripcion: string;
   intro: string;
   visitarWeb: string;
   ciudades: string;
@@ -27,6 +29,8 @@ export const COPY_PROVEEDORES: Readonly<Record<Idioma, CopyProveedores>> = {
   es: {
     titulo: "Proveedores locales con los que trabajamos",
     subtitulo: "Las empresas que organizan muchas de las actividades que vendemos en ExploraSpain.",
+    metaDescripcion:
+      "Conoce las empresas locales que organizan las actividades de ExploraSpain: guías, bodegas, barcos y tours en Madrid, Barcelona, Sevilla, Canarias y más.",
     intro:
       "Muchas de las experiencias de nuestra web las organizan empresas locales. Aquí puedes conocerlas y visitar su web.",
     visitarWeb: "Visitar su web",
@@ -43,6 +47,8 @@ export const COPY_PROVEEDORES: Readonly<Record<Idioma, CopyProveedores>> = {
   en: {
     titulo: "Local partners we work with",
     subtitulo: "The companies behind many of the activities we sell on ExploraSpain.",
+    metaDescripcion:
+      "Meet the local companies behind ExploraSpain's activities: guides, wineries, boat trips and tours in Madrid, Barcelona, Seville, the Canary Islands and more.",
     intro:
       "Many of the experiences on our site are run by local companies. Here you can get to know them and visit their websites.",
     visitarWeb: "Visit their website",
@@ -59,6 +65,8 @@ export const COPY_PROVEEDORES: Readonly<Record<Idioma, CopyProveedores>> = {
   de: {
     titulo: "Lokale Partner, mit denen wir arbeiten",
     subtitulo: "Die Unternehmen hinter vielen der Aktivitäten, die wir bei ExploraSpain anbieten.",
+    metaDescripcion:
+      "Lernen Sie die lokalen Unternehmen hinter den Aktivitäten von ExploraSpain kennen: Guides, Weingüter, Bootstouren und Touren in ganz Spanien.",
     intro:
       "Viele Erlebnisse auf unserer Website werden von lokalen Unternehmen organisiert. Hier lernst du sie kennen und kannst ihre Websites besuchen.",
     visitarWeb: "Zur Website",
@@ -75,6 +83,8 @@ export const COPY_PROVEEDORES: Readonly<Record<Idioma, CopyProveedores>> = {
   fr: {
     titulo: "Les partenaires locaux avec qui nous travaillons",
     subtitulo: "Les entreprises qui organisent une grande partie des activités que nous proposons sur ExploraSpain.",
+    metaDescripcion:
+      "Découvrez les entreprises locales qui organisent les activités d’ExploraSpain : guides, caves, sorties en bateau et visites à Madrid, Barcelone, Séville et plus.",
     intro:
       "Beaucoup des expériences de notre site sont organisées par des entreprises locales. Découvrez-les ici et visitez leur site web.",
     visitarWeb: "Visiter leur site",
@@ -91,6 +101,8 @@ export const COPY_PROVEEDORES: Readonly<Record<Idioma, CopyProveedores>> = {
   it: {
     titulo: "I partner locali con cui lavoriamo",
     subtitulo: "Le aziende che organizzano molte delle attività che vendiamo su ExploraSpain.",
+    metaDescripcion:
+      "Scopri le aziende locali che organizzano le attività di ExploraSpain: guide, cantine, gite in barca e tour a Madrid, Barcellona, Siviglia, Canarie e altro.",
     intro:
       "Molte delle esperienze del nostro sito sono organizzate da aziende locali. Qui puoi conoscerle e visitare il loro sito web.",
     visitarWeb: "Visita il loro sito",
@@ -107,6 +119,8 @@ export const COPY_PROVEEDORES: Readonly<Record<Idioma, CopyProveedores>> = {
   pt: {
     titulo: "Os parceiros locais com quem trabalhamos",
     subtitulo: "As empresas que organizam muitas das atividades que vendemos na ExploraSpain.",
+    metaDescripcion:
+      "Conheça as empresas locais que organizam as atividades da ExploraSpain: guias, adegas, passeios de barco e tours em Madrid, Barcelona, Sevilha e mais.",
     intro:
       "Muitas das experiências do nosso site são organizadas por empresas locais. Aqui pode conhecê-las e visitar o respetivo site.",
     visitarWeb: "Visitar o site",

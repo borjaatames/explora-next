@@ -22,18 +22,18 @@ export function generateMetadata({ params }: { params: { lang: string } }): Meta
 
   return {
     title: t.titulo,
-    description: t.subtitulo,
+    description: t.metaDescripcion,
     robots: { index: allowIndexing, follow: allowIndexing },
     alternates: { canonical, languages: hreflangAlternates(urlProveedores) },
     openGraph: {
       type: "website",
       url: canonical,
       title: t.titulo,
-      description: t.subtitulo,
+      description: t.metaDescripcion,
       siteName: "ExploraSpain",
       locale: IDIOMA_LOCALE[lang],
     },
-    twitter: { card: "summary_large_image", title: t.titulo, description: t.subtitulo },
+    twitter: { card: "summary_large_image", title: t.titulo, description: t.metaDescripcion },
   };
 }
 
