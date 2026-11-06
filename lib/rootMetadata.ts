@@ -26,6 +26,10 @@ export const rootMetadata: Metadata = {
       follow: allowIndexing,
     },
   },
+  other: {
+    // Verificación del dominio en Pinterest (perfil pinterest.com/exploraspain)
+    "p:domain_verify": "b739e6963e66947699d41e65b4c78595",
+  },
   openGraph: {
     type: "website",
     locale: "es_ES",
