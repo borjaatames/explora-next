@@ -88,6 +88,24 @@ galeria:
   alt: Blau-gelber Ara im Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp
   alt: Graupapagei im Garten des Palmitos Park
+- src: /images/actividades/gran-canaria/palmitos-park/lemures.webp
+  alt: "Kattas auf einem Baumstamm im Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/jardin-cactus.webp
+  alt: "Kakteengarten im Palmitos Park mit Besuchern am Aussichtspunkt"
+- src: /images/actividades/gran-canaria/palmitos-park/mara.webp
+  alt: "Pampashase an den Felsen im Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/mariposa.webp
+  alt: "Schmetterling auf weißen Blüten im Schmetterlingshaus des Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/dragon-komodo.webp
+  alt: "Komodowaran im Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/acuario-pez-cirujano.webp
+  alt: "Gelber Doktorfisch zwischen Korallen im Aquarium des Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/pavo-real.webp
+  alt: "Pfau mit aufgefächertem Rad im Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/tortuga-mora.webp
+  alt: "Landschildkröte im Sand im Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/inseparable.webp
+  alt: "Rotköpfiges Unzertrennliches unter einem Ast im Palmitos Park"
 ratingProveedor: 4.7
 numeroOpiniones: 1846
 atraccionesRelacionadas:

@@ -88,6 +88,24 @@ galeria:
   alt: Ara bleu et jaune à Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp
   alt: Perroquet gris dans le jardin de Palmitos Park
+- src: /images/actividades/gran-canaria/palmitos-park/lemures.webp
+  alt: "Makis cattas sur un tronc à Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/jardin-cactus.webp
+  alt: "Le jardin de cactus de Palmitos Park, avec des visiteurs au belvédère"
+- src: /images/actividades/gran-canaria/palmitos-park/mara.webp
+  alt: "Mara de Patagonie près des rochers à Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/mariposa.webp
+  alt: "Papillon posé sur des fleurs blanches dans le papillonarium de Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/dragon-komodo.webp
+  alt: "Dragon de Komodo en marche à Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/acuario-pez-cirujano.webp
+  alt: "Poisson-chirurgien jaune parmi les coraux dans l'aquarium de Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/pavo-real.webp
+  alt: "Paon faisant la roue à Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/tortuga-mora.webp
+  alt: "Tortue terrestre marchant sur le sable à Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/inseparable.webp
+  alt: "Inséparable à tête rouge perché sous une branche à Palmitos Park"
 ratingProveedor: 4.7
 numeroOpiniones: 1846
 atraccionesRelacionadas:

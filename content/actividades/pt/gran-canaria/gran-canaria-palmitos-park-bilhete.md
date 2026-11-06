@@ -85,6 +85,24 @@ galeria:
   alt: Arara-azul-e-amarela no Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp
   alt: Papagaio-cinzento no jardim do Palmitos Park
+- src: /images/actividades/gran-canaria/palmitos-park/lemures.webp
+  alt: "Lémures-de-cauda-anelada sobre um tronco no Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/jardin-cactus.webp
+  alt: "O jardim de cactos do Palmitos Park, com visitantes no miradouro"
+- src: /images/actividades/gran-canaria/palmitos-park/mara.webp
+  alt: "Mara-da-patagónia junto às rochas no Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/mariposa.webp
+  alt: "Borboleta pousada em flores brancas no borboletário do Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/dragon-komodo.webp
+  alt: "Dragão-de-komodo a caminhar no Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/acuario-pez-cirujano.webp
+  alt: "Peixe-cirurgião-amarelo entre corais no aquário do Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/pavo-real.webp
+  alt: "Pavão com a cauda aberta no Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/tortuga-mora.webp
+  alt: "Tartaruga terrestre a caminhar na areia no Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/inseparable.webp
+  alt: "Inseparável de cabeça vermelha pousado sob um ramo no Palmitos Park"
 ratingProveedor: 4.7
 numeroOpiniones: 1846
 atraccionesRelacionadas:

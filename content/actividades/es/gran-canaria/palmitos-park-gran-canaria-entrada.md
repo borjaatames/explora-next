@@ -88,6 +88,24 @@ galeria:
   alt: Guacamayo azul y amarillo en Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp
   alt: Loro gris en el jardín de Palmitos Park
+- src: /images/actividades/gran-canaria/palmitos-park/lemures.webp
+  alt: "Lémures de cola anillada sobre un tronco en Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/jardin-cactus.webp
+  alt: "Jardín de cactus de Palmitos Park con visitantes en el mirador"
+- src: /images/actividades/gran-canaria/palmitos-park/mara.webp
+  alt: "Mara patagónica junto a las rocas en Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/mariposa.webp
+  alt: "Mariposa posada en flores blancas en el mariposario de Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/dragon-komodo.webp
+  alt: "Dragón de Komodo caminando en Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/acuario-pez-cirujano.webp
+  alt: "Pez cirujano amarillo entre corales en el acuario de Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/pavo-real.webp
+  alt: "Pavo real con la cola desplegada en Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/tortuga-mora.webp
+  alt: "Tortuga terrestre caminando por la arena en Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/inseparable.webp
+  alt: "Inseparable de cabeza roja posado bajo una rama en Palmitos Park"
 ratingProveedor: 4.7
 numeroOpiniones: 1846
 atraccionesRelacionadas:

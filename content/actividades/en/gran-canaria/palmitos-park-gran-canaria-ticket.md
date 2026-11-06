@@ -89,6 +89,24 @@ galeria:
   alt: Blue and yellow macaw at Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp
   alt: Grey parrot in the gardens of Palmitos Park
+- src: /images/actividades/gran-canaria/palmitos-park/lemures.webp
+  alt: "Ring-tailed lemurs on a log at Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/jardin-cactus.webp
+  alt: "The cactus garden at Palmitos Park, with visitors on the viewpoint"
+- src: /images/actividades/gran-canaria/palmitos-park/mara.webp
+  alt: "Patagonian mara by the rocks at Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/mariposa.webp
+  alt: "Butterfly on white flowers in the Palmitos Park butterfly house"
+- src: /images/actividades/gran-canaria/palmitos-park/dragon-komodo.webp
+  alt: "Komodo dragon walking at Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/acuario-pez-cirujano.webp
+  alt: "Yellow tang among corals in the Palmitos Park aquarium"
+- src: /images/actividades/gran-canaria/palmitos-park/pavo-real.webp
+  alt: "Peacock with its tail fanned out at Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/tortuga-mora.webp
+  alt: "Tortoise walking across the sand at Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/inseparable.webp
+  alt: "Red-headed lovebird perched under a branch at Palmitos Park"
 ratingProveedor: 4.7
 numeroOpiniones: 1846
 atraccionesRelacionadas:

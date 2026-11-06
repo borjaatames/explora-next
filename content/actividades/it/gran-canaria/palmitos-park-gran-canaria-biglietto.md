@@ -89,6 +89,24 @@ galeria:
   alt: Ara gialloblù a Palmitos Park
 - src: /images/actividades/gran-canaria/palmitos-park/loro-gris-jardin.webp
   alt: Pappagallo cenerino nel giardino di Palmitos Park
+- src: /images/actividades/gran-canaria/palmitos-park/lemures.webp
+  alt: "Lemuri catta su un tronco a Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/jardin-cactus.webp
+  alt: "Il giardino dei cactus di Palmitos Park, con visitatori al belvedere"
+- src: /images/actividades/gran-canaria/palmitos-park/mara.webp
+  alt: "Mara della Patagonia vicino alle rocce a Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/mariposa.webp
+  alt: "Farfalla su fiori bianchi nella casa delle farfalle di Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/dragon-komodo.webp
+  alt: "Drago di Komodo che cammina a Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/acuario-pez-cirujano.webp
+  alt: "Pesce chirurgo giallo tra i coralli nell'acquario di Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/pavo-real.webp
+  alt: "Pavone con la coda a ventaglio a Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/tortuga-mora.webp
+  alt: "Tartaruga terrestre che cammina sulla sabbia a Palmitos Park"
+- src: /images/actividades/gran-canaria/palmitos-park/inseparable.webp
+  alt: "Inseparabile dalla testa rossa sotto un ramo a Palmitos Park"
 ratingProveedor: 4.7
 numeroOpiniones: 1846
 atraccionesRelacionadas:

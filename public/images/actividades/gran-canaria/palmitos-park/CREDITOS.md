@@ -13,3 +13,18 @@ Origen local: `E:\imagenes-master\_descargas-2026-10-17\gran-canaria--palmitos-p
 - `loro-gris-jardin.webp` — aportada por Borja, origen por confirmar (repuesta el 24-10-2026)
 
 > 5-11-2026: Palmitos Park (Aspro) pidió retirar `barranco.webp` y `guacamayos-amazonicos-rama.webp`. Ya no se usan en ninguna ficha. Las fotos de su web son de libre uso para promocionar el parque.
+
+## Fotos oficiales de palmitospark.es (añadidas el 6-11-2026)
+Aspro (Fabio Sgobbi, correo del 5-11-2026) permite usar las fotos de su web para promocionar el parque. Las descargó Borja con `.sync/descargar-fotos-palmitos.ps1` desde `https://palmitospark.es/wp-content/uploads/`.
+
+| Archivo | Original en palmitospark.es |
+|---|---|
+| lemures.webp | 2026/04/Foto-lemur-2.jpg |
+| mara.webp | 2025/10/PPK_mara.HD-1.jpg |
+| jardin-cactus.webp | 2024/01/PPark_JardinCactus_Nov19_HD-scaled.jpg |
+| mariposa.webp | 2024/01/Mariposas_0352-scaled.jpg |
+| tortuga-mora.webp | 2023/04/tortuga-mora.jpg |
+| pavo-real.webp | 2023/04/Pavo-real-1.jpg |
+| acuario-pez-cirujano.webp | 2023/02/fish-2921430-1-scaled.jpg (el nombre parece de Pixabay) |
+| dragon-komodo.webp | 2023/01/mm8131_120310_0277_1800x1198.jpeg |
+| inseparable.webp | 2022/12/bird.jpg |
