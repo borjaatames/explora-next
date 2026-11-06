@@ -18,7 +18,7 @@ idiomas:
 - es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.es/seville-l48/seville-live-flamenco-dancing-show-ticket-at-the-theater-t408947/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.es/seville-l48/seville-live-flamenco-dancing-show-ticket-at-the-theater-t408947/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:

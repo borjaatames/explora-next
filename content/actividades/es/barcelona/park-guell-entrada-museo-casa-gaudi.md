@@ -18,7 +18,7 @@ idiomas:
 - es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.es/barcelona-l45/barcelona-park-guell-and-gaudi-house-museum-entry-ticket-t826796/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.es/barcelona-l45/barcelona-park-guell-and-gaudi-house-museum-entry-ticket-t826796/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: false
 horasCancelacion: 0
 highlights:

@@ -14,7 +14,7 @@ idiomas:
 - es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.es/seville-l48/seville-monuments-tour-t89805/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.es/seville-l48/seville-monuments-tour-t89805/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: false
 highlights:
 - 3,5 horas — más tiempo que el top vendido t800561 (2,5-3h) para mayor profundidad

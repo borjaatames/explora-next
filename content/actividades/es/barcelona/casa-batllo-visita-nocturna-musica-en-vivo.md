@@ -18,7 +18,7 @@ idiomas:
 - es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.es/barcelona-l45/casa-batllo-night-visit-with-live-music-on-the-roof-terrace-t168768/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.es/barcelona-l45/casa-batllo-night-visit-with-live-music-on-the-roof-terrace-t168768/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: false
 horasCancelacion: 0
 highlights:

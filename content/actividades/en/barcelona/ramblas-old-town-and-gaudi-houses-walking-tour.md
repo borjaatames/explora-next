@@ -12,7 +12,7 @@ moneda: EUR
 idiomas:
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/barcelona-l45/barcelona-ramblas-old-town-gaudi-houses-walking-tour-t448358/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.com/barcelona-l45/barcelona-ramblas-old-town-gaudi-houses-walking-tour-t448358/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:

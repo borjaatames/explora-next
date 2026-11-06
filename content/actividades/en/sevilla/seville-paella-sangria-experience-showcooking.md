@@ -12,7 +12,7 @@ moneda: EUR
 idiomas:
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/seville-l48/seville-paella-and-sangria-experience-t220767/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.com/seville-l48/seville-paella-and-sangria-experience-t220767/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:

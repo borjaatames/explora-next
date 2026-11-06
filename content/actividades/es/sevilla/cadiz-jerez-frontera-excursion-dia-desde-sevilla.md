@@ -14,7 +14,7 @@ idiomas:
 - es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.es/seville-l48/seville-bay-of-cadiz-jerez-de-la-frontera-day-tour-t83544/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.es/seville-l48/seville-bay-of-cadiz-jerez-de-la-frontera-day-tour-t83544/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:

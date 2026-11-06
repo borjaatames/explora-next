@@ -18,7 +18,7 @@ idiomas:
 - es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.es/barcelona-l45/barcelona-la-pedrera-night-experience-t1381571/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.es/barcelona-l45/barcelona-la-pedrera-night-experience-t1381571/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:

@@ -14,7 +14,7 @@ idiomas:
 - es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/cordoba-l1689/from-seville-cordoba-trip-with-mezquita-by-high-speed-train-t979945/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.com/cordoba-l1689/from-seville-cordoba-trip-with-mezquita-by-high-speed-train-t979945/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: false
 highlights:
 - PREMIUM Small-Group MAX 8 people — exclusive experience

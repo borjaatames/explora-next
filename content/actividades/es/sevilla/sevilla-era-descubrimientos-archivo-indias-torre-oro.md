@@ -14,7 +14,7 @@ idiomas:
 - es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.es/seville-l48/seville-the-age-of-discovery-guided-tour-with-monuments-access-t938632/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.es/seville-l48/seville-the-age-of-discovery-guided-tour-with-monuments-access-t938632/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:

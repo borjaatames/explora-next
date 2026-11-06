@@ -14,7 +14,7 @@ idiomas:
 - es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.es/seville-l48/seville-priority-access-cathedral-giralda-alcazar-tour-t800561/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.es/seville-l48/seville-priority-access-cathedral-giralda-alcazar-tour-t800561/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: true
 horasCancelacion: 48
 highlights:

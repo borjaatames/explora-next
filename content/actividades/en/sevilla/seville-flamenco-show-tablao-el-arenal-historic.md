@@ -18,7 +18,7 @@ idiomas:
 - es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/seville-l48/flamenco-show-at-tablao-el-arenal-t1260039/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.com/seville-l48/flamenco-show-at-tablao-el-arenal-t1260039/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:

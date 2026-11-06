@@ -18,7 +18,7 @@ idiomas:
 - es
 - en
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/barcelona-l45/barcelona-all-included-fc-barcelona-museum-total-experience-t700918/?partner_id=VPFQWBY&utm_medium=online_publisher&placement=content-middle
+urlReserva: https://www.getyourguide.com/barcelona-l45/barcelona-all-included-fc-barcelona-museum-total-experience-t700918/?partner_id=C71NOAW&utm_medium=online_publisher&placement=content-middle
 cancelacionGratuita: false
 horasCancelacion: 0
 highlights:
