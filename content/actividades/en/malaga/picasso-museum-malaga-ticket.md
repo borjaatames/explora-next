@@ -2,7 +2,7 @@
 titulo: 'Picasso Museum Málaga: ticket with audio guide'
 slug: picasso-museum-malaga-ticket
 ciudad: malaga
-descripcion: 'Official ticket to the Picasso Museum Málaga in the Buenavista Palace: over 140 works by Picasso in his home town, temporary exhibitions, Phoenician and Roman remains in the basement, and an audio guide included. Rated 4.5/5 from 13,842 reviews.'
+descripcion: 'Official ticket to the Picasso Museum Málaga in the Buenavista Palace: over 140 works by Picasso in his home town, temporary exhibitions, Phoenician and Roman remains in the basement, and an audio guide included. Rated 4.5/5 from 14,246 reviews.'
 slugs:
   es: museo-picasso-malaga-entrada
   en: picasso-museum-malaga-ticket
@@ -102,7 +102,7 @@ galeria:
 - src: /images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp
   alt: Picasso Museum Málaga
 ratingProveedor: 4.5
-numeroOpiniones: 13842
+numeroOpiniones: 14246
 publicada: true
 destacada: false
 fecha: '2026-10-04'

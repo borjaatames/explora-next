@@ -100,7 +100,7 @@ galeria:
 - src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
   alt: Lanzarote's south coast by the Papagayo beaches
 ratingProveedor: 4.6
-numeroOpiniones: 1562
+numeroOpiniones: 1587
 atraccionesRelacionadas:
 - mar
 publicada: true

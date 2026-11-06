@@ -2,7 +2,7 @@
 titulo: 'Bilbao: tour guiado en bicicleta eléctrica por lo esencial'
 slug: bilbao-bici-electrica-tour-guiado-lo-esencial
 ciudad: bilbao
-descripcion: Recorrido guiado de 3 horas en bicicleta eléctrica por Bilbao, del origen de la ciudad al Guggenheim, el Zubizuri y San Mamés, en grupo reducido o privado. 4,7/5 con 803 reseñas.
+descripcion: Recorrido guiado de 3 horas en bicicleta eléctrica por Bilbao, del origen de la ciudad al Guggenheim, el Zubizuri y San Mamés, en grupo reducido o privado. 4,7/5 con 804 reseñas.
 slugs:
   es: bilbao-bici-electrica-tour-guiado-lo-esencial
   en: bilbao-e-bike-highlights-guided-tour
@@ -72,7 +72,7 @@ keywords:
 - ebike tour bilbao
 - visita guiada bilbao bici
 ratingProveedor: 4.7
-numeroOpiniones: 803
+numeroOpiniones: 804
 atraccionesRelacionadas:
 - ria-miradores
 publicada: true

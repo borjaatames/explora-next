@@ -2,7 +2,7 @@
 titulo: 'Lanzarote: Parque Nacional de Timanfaya en medio día'
 slug: timanfaya-tour-medio-dia
 ciudad: lanzarote
-descripcion: 'Excursión de medio día al Parque Nacional de Timanfaya con entrada incluida: Ruta de los Volcanes, demostraciones geotérmicas en el Islote de Hilario y recogida en hotel. 4,4/5 con más de 2.800 reseñas.'
+descripcion: 'Excursión de medio día al Parque Nacional de Timanfaya con entrada incluida: Ruta de los Volcanes, demostraciones geotérmicas en el Islote de Hilario y recogida en hotel. 4,3/5 con más de 2.800 reseñas.'
 slugs:
   es: timanfaya-tour-medio-dia
   en: timanfaya-national-park-half-day-tour
@@ -91,8 +91,8 @@ galeria:
   alt: Volcán de tierra roja en Timanfaya
 - src: /images/actividades/lanzarote/zonas/camellos-echadero.webp
   alt: Camellos esperando a los visitantes en el Echadero de Timanfaya
-ratingProveedor: 4.4
-numeroOpiniones: 2855
+ratingProveedor: 4.3
+numeroOpiniones: 2901
 atraccionesRelacionadas:
 - timanfaya
 - volcanes

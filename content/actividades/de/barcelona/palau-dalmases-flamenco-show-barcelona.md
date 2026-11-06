@@ -2,7 +2,7 @@
 titulo: 'Barcelona: Palau Dalmases – Flamenco-Show in einem Palast aus dem 17. Jahrhundert'
 slug: palau-dalmases-flamenco-show-barcelona
 ciudad: barcelona
-descripcion: 'Live-Flamenco von 50–55 Minuten im Palau Dalmases, einem Barockpalast im Born neben dem Picasso-Museum. 4,6/5 bei 919 Bewertungen, ab 30 €.'
+descripcion: 'Live-Flamenco von 50–55 Minuten im Palau Dalmases, einem Barockpalast im Born neben dem Picasso-Museum. 4,6/5 bei 1.423 Bewertungen, ab 30 €.'
 metaTitle: 'Palau Dalmases Barcelona: Flamenco-Show'
 slugs:
   es: palau-dalmases-flamenco-show-palacio-siglo-xvii
@@ -24,7 +24,7 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Show in einem Barockpalast aus dem 17. Jahrhundert – architektonisch die spektakulärste Bühne unter den großen Tablaos Barcelonas
-- 919 Bewertungen mit 4,6/5 (74 % fünf Sterne, 17 % vier Sterne)
+- 1.423 Bewertungen mit 4,6/5 (74 % fünf Sterne, 17 % vier Sterne)
 - Top-Lage in der Carrer Montcada 20 (Born) – neben dem Picasso-Museum
 - '4 Vorstellungen täglich: 17:30, 18:45, 20:00 und 21:15 Uhr – flexibel mit eigenem Abendessen kombinierbar'
 - '3 Sitzbereiche: VIP (50 € Erwachsene, vordere Reihen + Getränk) · Zone A (40 €, mittlere Reihen + Getränk) · Zone B (30 €, hintere Reihen)'
@@ -99,7 +99,7 @@ variantes:
 - nombre: Abendessen-Extra
   descripcion: Traditionelles spanisches Abendessen im Innenhof oder in der Kunstgalerie. Vegetarische Option verfügbar. 35 € zusätzlich zum gewählten Bereich.
   precio: 35
-opinionEditorial: 'Das architektonisch spektakulärste Tablao Barcelonas – ein Barockpalast aus dem 17. Jahrhundert in der Carrer Montcada, der vornehmsten Straße des mittelalterlichen Born. 919 Bewertungen mit 4,6/5 sprechen für einen guten Ruf. Besonders gelobt werden die Pracht des Palastes, die vier Vorstellungen täglich, das kurze Format von 50 Minuten und die klaren Preise pro Bereich. Ab 30 € (Zone B ohne Getränk) ist es die günstigste der großen Shows; Zone A mit Getränk für 40 € bietet das beste Preis-Leistungs-Verhältnis. Zwei Hinweise: Die Sitze sind ebenerdig, und der Palast liegt in einer Fußgängerzone mit Kopfsteinpflaster. Ideal für alle, denen die Bühne wichtig ist, für Paare und für die Kombination mit dem Picasso-Museum.'
+opinionEditorial: 'Das architektonisch spektakulärste Tablao Barcelonas – ein Barockpalast aus dem 17. Jahrhundert in der Carrer Montcada, der vornehmsten Straße des mittelalterlichen Born. 1.423 Bewertungen mit 4,6/5 sprechen für einen guten Ruf. Besonders gelobt werden die Pracht des Palastes, die vier Vorstellungen täglich, das kurze Format von 50 Minuten und die klaren Preise pro Bereich. Ab 30 € (Zone B ohne Getränk) ist es die günstigste der großen Shows; Zone A mit Getränk für 40 € bietet das beste Preis-Leistungs-Verhältnis. Zwei Hinweise: Die Sitze sind ebenerdig, und der Palast liegt in einer Fußgängerzone mit Kopfsteinpflaster. Ideal für alle, denen die Bühne wichtig ist, für Paare und für die Kombination mit dem Picasso-Museum.'
 guiasRelacionadas:
 - flamenco-barcelona-welches-tablao-waehlen
 categoria: espectaculos
@@ -131,7 +131,7 @@ galeria:
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
   alt: Fassade der Paläste in der Carrer Montcada
 ratingProveedor: 4.6
-numeroOpiniones: 919
+numeroOpiniones: 1423
 atraccionesRelacionadas:
 - flamenco
 publicada: true
@@ -142,7 +142,7 @@ fecha_actualizacion: '2026-11-04'
 
 ## Was Sie sehen
 
-Eine **50- bis 55-minütige Live-Flamenco-Show in einem Barockpalast aus dem 17. Jahrhundert** – dem Palau Dalmases in der Carrer Montcada 20 (Born), 100 Meter vom Picasso-Museum entfernt. 919 Bewertungen mit 4,6/5.
+Eine **50- bis 55-minütige Live-Flamenco-Show in einem Barockpalast aus dem 17. Jahrhundert** – dem Palau Dalmases in der Carrer Montcada 20 (Born), 100 Meter vom Picasso-Museum entfernt. 1.423 Bewertungen mit 4,6/5.
 
 - **Der Palast als Bühne:** gotischer Bau, im 17. Jahrhundert barock umgestaltet, mit monumentaler Treppe und Reliefs zum Raub der Europa. Die hohen Decken sorgen für eine hervorragende natürliche Akustik.
 - **Übliche Besetzung:** Tänzer oder Tänzerin, Sänger oder Sängerin und Gitarrist mit Palmas. Die Künstler wechseln je nach Tag; alles ist live.

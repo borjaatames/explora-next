@@ -2,7 +2,7 @@
 titulo: 'Hammam Al Ándalus Málaga: Arab baths (massage option)'
 slug: hammam-al-andalus-malaga-ticket
 ciudad: malaga
-descripcion: '90-minute session at Hammam Al Ándalus in Málaga: warm, hot and cold baths, steam room and mint tea, with a massage option. Rated 4.7/5 from 2,863 reviews.'
+descripcion: '90-minute session at Hammam Al Ándalus in Málaga: warm, hot and cold baths, steam room and mint tea, with a massage option. Rated 4.7/5 from 2,909 reviews.'
 slugs:
   es: hammam-al-andalus-malaga
   en: hammam-al-andalus-malaga-ticket
@@ -95,7 +95,7 @@ galeria:
 - src: /images/actividades/malaga/hammam/hammam-wikimedia-ba-os-rabes-hammam-al-ndalus-m-laga-espa-03.webp
   alt: Columned hall at Hammam Al Ándalus in Málaga
 ratingProveedor: 4.7
-numeroOpiniones: 2863
+numeroOpiniones: 2909
 publicada: true
 destacada: false
 fecha: '2026-10-04'

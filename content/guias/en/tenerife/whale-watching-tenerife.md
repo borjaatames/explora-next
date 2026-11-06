@@ -53,7 +53,7 @@ imagen_alt: "Pilot whale surfacing off Tenerife"
 | --- | --- | --- | --- | --- |
 | [Eco-yacht whale and dolphin watching](/en/cities/tenerife/activities/eco-yacht-whale-dolphin-watching-tenerife) | Los Cristianos | 1.5 h | 4.7★ (19,490) | €30 |
 | [Whale watching at the Los Gigantes cliffs](/en/cities/tenerife/activities/whale-watching-los-gigantes-tenerife) | Los Gigantes | 2-3 h | 4.7★ (5,888) | €28 |
-| [Catamaran whale watching, Costa Adeje](/en/cities/tenerife/activities/catamaran-whale-watching-costa-adeje) | Puerto Colón or Los Cristianos | 3 h | 4.7★ (4,248) | €35 |
+| [Catamaran whale watching, Costa Adeje](/en/cities/tenerife/activities/catamaran-whale-watching-costa-adeje) | Puerto Colón or Los Cristianos | 3 h | 4.7★ (4,314) | €35 |
 | [Catamaran whale watching with buffet lunch](/en/cities/tenerife/activities/catamaran-whale-watching-buffet-tenerife) | South coast (Costa Adeje area) | 5-6 h | 4.8★ (2,242) | €63 |
 | [Private boat from Las Galletas](/en/cities/tenerife/activities/private-whale-watching-boat-las-galletas-tenerife) | Las Galletas | 2 or 3 h | — | €450 per boat |
 

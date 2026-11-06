@@ -67,7 +67,7 @@ faq:
 | Jour nuageux | [Palma Aquarium](/en/cities/mallorca/activities/palma-aquarium-entry-ticket), 4,5★ (3 744) | 30,50 € |
 | Train de Sóller depuis le nord | [Train et tramway de Sóller, demi-journée](/en/cities/mallorca/activities/soller-train-tram-half-day-from-the-north), 4,4★ (381) | 56 € |
 | Train, tramway et bateau | [Tour de l'île avec le train de Sóller](/fr/cities/mallorca/activities/majorque-tour-ile-train-soller-tramway-bateau), 4,4★ (4 540) | 103 € |
-| Grottes avec concert en barque | [Grottes du Drach depuis Alcúdia](/en/cities/mallorca/activities/drach-caves-from-alcudia), 4,4★ (616) | 54 € |
+| Grottes avec concert en barque | [Grottes du Drach depuis Alcúdia](/en/cities/mallorca/activities/drach-caves-from-alcudia), 4,3★ (641) | 54 € |
 | Grottes depuis Palma | [Grottes du Drach avec concert et traversée en barque](/fr/cities/mallorca/activities/grottes-du-drach-concert-barque-depuis-palma), 4,4★ (1 489) | 54 € |
 | Dauphins sauvages | [Observation des dauphins depuis Alcúdia](/en/cities/mallorca/activities/alcudia-dolphin-watching), 4,8★ (3 435) | 90 € |
 | Aventure dans les arbres | [Forestal Park](/fr/cities/mallorca/activities/forestal-park-majorque-parcours-accrobranche), 4,8★ (277) | 26 € |

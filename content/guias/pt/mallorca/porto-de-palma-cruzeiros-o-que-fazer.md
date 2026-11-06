@@ -124,7 +124,7 @@ A **linha 203 do TIB** sai da Estació Intermodal (Plaça d'Espanya) para Vallde
 | [Tour a pé com entrada na Catedral e ensaimada](/en/cities/mallorca/activities/palma-walking-tour-cathedral-ensaimada), 4,8★ (237) | 2 h 30 min | 39 € |
 | [Tour gastronómico pelo centro histórico](/en/cities/mallorca/activities/palma-old-town-food-walking-tour), 4,6★ (663) | 3 h | 65 € |
 | [Cuevas del Drach com concerto, a partir de Palma](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma), 4,4★ (1.489) | 5 h, sai às 9h30 | 54 € |
-| [Valldemossa, Sóller e Port de Sóller de autocarro e elétrico](/en/cities/mallorca/activities/valldemossa-soller-port-soller-bus-tram-tour), 4,7★ (827) | 6 h | 49 € |
+| [Valldemossa, Sóller e Port de Sóller de autocarro e elétrico](/en/cities/mallorca/activities/valldemossa-soller-port-soller-bus-tram-tour), 4,7★ (829) | 6 h | 49 € |
 
 As Cuevas del Drach saem às 9h30 do centro de Palma e regressam ao início da tarde: só lhe servem se desembarcar cedo e zarpar à tarde.
 

@@ -2,7 +2,7 @@
 titulo: 'Barcelona: Flamenco im City Hall Theatre'
 slug: flamenco-show-city-hall-theatre-barcelona
 ciudad: barcelona
-descripcion: 'Einstündige Flamenco-Show im City Hall Theatre an der Plaça de Catalunya, die meistgebuchte Barcelonas, ab 25 €. 4,5/5 bei 11.305 Bewertungen.'
+descripcion: 'Einstündige Flamenco-Show im City Hall Theatre an der Plaça de Catalunya, die meistgebuchte Barcelonas, ab 25 €. 4,6/5 bei 12.657 Bewertungen.'
 metaTitle: 'City Hall Theatre Barcelona: Flamenco'
 slugs:
   es: flamenco-en-el-teatro-city-hall-mas-vendido
@@ -23,7 +23,7 @@ urlReserva: https://www.getyourguide.es/barcelona-l45/barcelona-flamenco-show-at
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- Top Pick bei GetYourGuide – 11.305 Bewertungen mit 4,5/5, mit Abstand die meistgebuchte Flamenco-Show Barcelonas
+- Top Pick bei GetYourGuide – 12.657 Bewertungen mit 4,6/5, mit Abstand die meistgebuchte Flamenco-Show Barcelonas
 - Einstündige Show mit anerkannten Tänzern, Sängern, Gitarristen und Percussion
 - '4 Vorstellungen täglich: 17:00, 18:45, 20:30 und 22:00 Uhr'
 - Zentrale Lage an der Plaça de Catalunya (City Hall Theatre)
@@ -71,7 +71,7 @@ accesibilidad: Laut GetYourGuide NICHT rollstuhlgerecht. Das City Hall Theatre h
 politicaCancelacion: 'Kostenlose Stornierung bis 24 Stunden vor Beginn mit voller Rückerstattung. Innerhalb von 24 Stunden: keine Erstattung. Die Show beginnt pünktlich; mehr als 10 Minuten nach Beginn ist der Einlass eventuell nicht mehr möglich. Datumsänderungen nach Verfügbarkeit.'
 preguntasFrecuentes:
 - pregunta: Warum ist es die meistgebuchte Flamenco-Show Barcelonas?
-  respuesta: 'Drei Gründe: (1) **niedriger Einstiegspreis** – ab 25 € die günstigste der großen Shows; (2) **4 Vorstellungen täglich** und damit gute Verfügbarkeit auch kurzfristig; (3) **großer Theatersaal** (ca. 300–400 Plätze statt 50–150 in einem Tablao), der pro Vorstellung viel mehr Gäste aufnimmt. Die 4,5/5 liegen leicht unter den traditionellen Tablaos (4,6–4,8), weil das Theaterformat weniger intim ist; der Gesamteindruck ist aber sehr positiv.'
+  respuesta: 'Drei Gründe: (1) **niedriger Einstiegspreis** – ab 25 € die günstigste der großen Shows; (2) **4 Vorstellungen täglich** und damit gute Verfügbarkeit auch kurzfristig; (3) **großer Theatersaal** (ca. 300–400 Plätze statt 50–150 in einem Tablao), der pro Vorstellung viel mehr Gäste aufnimmt. Die 4,6/5 liegen leicht unter den traditionellen Tablaos (4,6–4,8), weil das Theaterformat weniger intim ist; der Gesamteindruck ist aber sehr positiv.'
 - pregunta: Was unterscheidet Standard, Premium und VIP?
   respuesta: '**Standard (ab 25 €):** hinterer Bereich, ohne Getränk, ordentliche Sicht dank ansteigender Reihen. **Premium (ca. 40 €):** mittlerer Bereich, 1 Getränk (Wein, Bier, Sangria, Cava oder Softdrink). **VIP (ca. 55 €):** vorderer Bereich, 2 Getränke ODER eine Flasche Cava/Wein zum Teilen – das beste Erlebnis. Der Standard-Preis ist für eine einstündige Flamenco-Show in Barcelona unschlagbar.'
 - pregunta: Ist das authentischer Flamenco oder eine Touristen-Show?
@@ -90,7 +90,7 @@ variantes:
 - nombre: VIP
   descripcion: Vorderer Bereich des Theaters, 2 Getränke oder 1 Flasche Cava/Wein zum Teilen. Beste Sicht und bester Service.
   precio: 55
-opinionEditorial: 'Die meistgebuchte Flamenco-Show Barcelonas – 11.305 Bewertungen mit 4,5/5 machen sie zum Top Pick bei GetYourGuide, mit deutlich mehr Bewertungen als Cordobés, Tablao de Carmen oder Palau Dalmases. Ab 25 € ist die Standard-Option die günstigste der großen Shows, und auch das VIP-Ticket für 55 € bleibt wettbewerbsfähig. Drei ehrliche Punkte zum Theaterformat: Der Saal ist groß und weniger intim, es wird mit Mikrofonen verstärkt, und die späte Vorstellung soll laut einigen Gästen weniger Energie haben. Ideal für knappe Budgets, volle Zeitpläne, größere Gruppen und Flamenco-Neulinge; weniger geeignet für Puristen und Rollstuhlfahrer.'
+opinionEditorial: 'Die meistgebuchte Flamenco-Show Barcelonas – 12.657 Bewertungen mit 4,6/5 machen sie zum Top Pick bei GetYourGuide, mit deutlich mehr Bewertungen als Cordobés, Tablao de Carmen oder Palau Dalmases. Ab 25 € ist die Standard-Option die günstigste der großen Shows, und auch das VIP-Ticket für 55 € bleibt wettbewerbsfähig. Drei ehrliche Punkte zum Theaterformat: Der Saal ist groß und weniger intim, es wird mit Mikrofonen verstärkt, und die späte Vorstellung soll laut einigen Gästen weniger Energie haben. Ideal für knappe Budgets, volle Zeitpläne, größere Gruppen und Flamenco-Neulinge; weniger geeignet für Puristen und Rollstuhlfahrer.'
 guiasRelacionadas:
 - flamenco-barcelona-welches-tablao-waehlen
 categoria: espectaculos
@@ -121,8 +121,8 @@ galeria:
   alt: Luftaufnahme der Plaça de Catalunya neben dem Theater
 - src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
   alt: Die Plaça de Catalunya von oben, wenige Schritte vom City Hall
-ratingProveedor: 4.5
-numeroOpiniones: 11305
+ratingProveedor: 4.6
+numeroOpiniones: 12657
 atraccionesRelacionadas:
 - flamenco
 publicada: true
@@ -133,7 +133,7 @@ fecha_actualizacion: '2026-11-04'
 
 ## Was Sie sehen
 
-Eine **einstündige professionelle Flamenco-Show im City Hall Theatre** – die meistgebuchte Flamenco-Show Barcelonas mit 11.305 Bewertungen und 4,5/5. Top Pick bei GetYourGuide, zentral an der Plaça de Catalunya.
+Eine **einstündige professionelle Flamenco-Show im City Hall Theatre** – die meistgebuchte Flamenco-Show Barcelonas mit 12.657 Bewertungen und 4,6/5. Top Pick bei GetYourGuide, zentral an der Plaça de Catalunya.
 
 - **Komplettes Ensemble:** anerkannte Tänzerinnen und Tänzer, Sängerinnen und Sänger, Gitarristen und Percussion.
 - **Klassisches Theaterformat:** großer Saal (ca. 300–400 Plätze) mit ansteigenden Sitzreihen und Mikrofonen – kein intimes Tablao.

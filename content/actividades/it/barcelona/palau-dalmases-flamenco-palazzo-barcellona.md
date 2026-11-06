@@ -23,7 +23,7 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Spettacolo in un palazzo barocco del Seicento, la sede più bella tra i tablaos di Barcellona
-- 4,6/5 su 919 recensioni
+- 4,6/5 su 1.423 recensioni
 - Nel Born, in Carrer Montcada 20, a due passi dal Museo Picasso
 - '4 spettacoli al giorno: 17:30, 18:45, 20:00 e 21:15'
 - 'Tre zone: VIP (50 €, prime file e bevanda), Zona A (40 €, file centrali e bevanda) e Zona B (30 €)'
@@ -126,7 +126,7 @@ galeria:
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
   alt: Facciata dei palazzi di Carrer Montcada
 ratingProveedor: 4.6
-numeroOpiniones: 919
+numeroOpiniones: 1423
 publicada: true
 destacada: true
 fecha: '2026-05-17'

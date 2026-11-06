@@ -2,7 +2,7 @@
 titulo: 'Bilbao: guided e-bike highlights tour'
 slug: bilbao-e-bike-highlights-guided-tour
 ciudad: bilbao
-descripcion: 3-hour guided e-bike ride around Bilbao, from where the city began to the Guggenheim, Zubizuri and San Mamés, in a small group or privately. Rated 4.7/5 from 803 reviews.
+descripcion: 3-hour guided e-bike ride around Bilbao, from where the city began to the Guggenheim, Zubizuri and San Mamés, in a small group or privately. Rated 4.7/5 from 804 reviews.
 slugs:
   es: bilbao-bici-electrica-tour-guiado-lo-esencial
   en: bilbao-e-bike-highlights-guided-tour
@@ -72,7 +72,7 @@ keywords:
 - bilbao electric bike tour
 - bilbao guided bike tour
 ratingProveedor: 4.7
-numeroOpiniones: 803
+numeroOpiniones: 804
 atraccionesRelacionadas:
 - ria-miradores
 publicada: true

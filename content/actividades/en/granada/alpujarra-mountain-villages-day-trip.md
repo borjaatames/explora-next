@@ -21,7 +21,7 @@ highlights:
 - Route through the white villages of the Granada Alpujarra
 - Hotel pickup included
 - Private tour option available
-- 4.7 / 5 with 320 reviews — Guide 4.9 / Transport 4.8
+- 4.7 / 5 with 358 reviews — Guide 4.9 / Transport 4.8
 - 'Languages: Spanish and English'
 incluye:
 - Return transport from Granada
@@ -65,12 +65,12 @@ preguntasFrecuentes:
 - pregunta: Is it worth it with children?
   respuesta: Yes, especially if they enjoy mountains and villages. That said, it's an 8-10 hour day with car travel between villages — for children under 5-6 it can be very long. From age 7-8 it works well.
 - pregunta: How does it differ from the 'Originals by GYG' version?
-  respuesta: The Originals version (4.7 · 224 reviews, 7 hours) is slightly shorter and curated by GYG. This version (4.7 · 320 reviews, 8-10 hours) has more reviews and the advantage of an optional private tour. Both cover the same territory, but this one is longer (more time for exploration or lunch).
+  respuesta: The Originals version (4.7 · 224 reviews, 7 hours) is slightly shorter and curated by GYG. This version (4.7 · 358 reviews, 8-10 hours) has more reviews and the advantage of an optional private tour. Both cover the same territory, but this one is longer (more time for exploration or lunch).
 - pregunta: Is there a private option?
   respuesta: Yes. Available at booking for small groups. The private tour allows a custom pace, extra stops and time flexibility. Ideal for families or closed groups who want autonomy.
 variantes:
 - alpujarra-originals-curated-villages-day-trip
-opinionEditorial: 'The most-reviewed day trip to the Granada Alpujarra (320 ratings, 4.7 / 5). It picks you up at your hotel, takes you to the Poqueira Gorge (Pampaneira, Bubión, Capileira — the three most photogenic white villages in the Alpujarra) and returns at the end of the day. The transport rating (4.8) and the guide rating (4.9) are high; the value-for-money rating (4.5) is slightly lower — possibly because of the optional lunch, which some travellers criticise for the lack of clarity on price.
+opinionEditorial: 'The most-reviewed day trip to the Granada Alpujarra (358 ratings, 4.7 / 5). It picks you up at your hotel, takes you to the Poqueira Gorge (Pampaneira, Bubión, Capileira — the three most photogenic white villages in the Alpujarra) and returns at the end of the day. The transport rating (4.8) and the guide rating (4.9) are high; the value-for-money rating (4.5) is slightly lower — possibly because of the optional lunch, which some travellers criticise for the lack of clarity on price.
 
 
   It''s a perfect excursion to complement the Alhambra: do the Alhambra one day and the Alpujarra another, and you''ve covered urban Granada plus rural Granada in just a few hours of driving. The villages sit at 1,300-1,500 m and preserve the Arab-Berber architecture of flat roofs and white chimneys — unique in Spain. Pampaneira in particular is where you stop the longest: local crafts, Trevélez ham (at 1,200 m, the highest-cured ham in Europe), shops of regional products.
@@ -109,7 +109,7 @@ galeria:
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
   alt: Flat roofs with laundry drying in the Alpujarra
 ratingProveedor: 4.7
-numeroOpiniones: 320
+numeroOpiniones: 358
 publicada: true
 destacada: false
 fecha: '2026-05-16'

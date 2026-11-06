@@ -67,7 +67,7 @@ faq:
 | Ver toda a Sevilha, com Cartuja e Macarena | [Grande tour privado em tuk-tuk de 2 horas](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours), até 4 pessoas | 124 € por grupo |
 | Passeio de barco pelo rio | [Cruzeiro guiado pelo Guadalquivir](/pt/cities/sevilla/activities/sevilha-passeio-barco-guadalquivir-guiado), 4,7★ (1.746) | 25 € |
 | Adolescentes (a partir dos 8 anos) | [Caiaque pelo Guadalquivir](/pt/cities/sevilla/activities/caiaque-guadalquivir-sevilha-aluguer), 4,5★ (777) | 17 € |
-| De bicicleta (crianças que pedalam bem) | [Tour de bicicleta por Sevilha (em inglês)](/en/cities/sevilla/activities/seville-bike-tour-group), 4,9★ (1.585) | 28 € |
+| De bicicleta (crianças que pedalam bem) | [Tour de bicicleta por Sevilha (em inglês)](/en/cities/sevilla/activities/seville-bike-tour-group), 4,9★ (1.636) | 28 € |
 | Miradouro ao pôr do sol | [Setas de Sevilha com miradouro 360°](/pt/cities/sevilla/activities/setas-sevilha-metropol-parasol-bilhete-miradouro), 4,6★ (12.014) | 16 € |
 | Alcázar sem filas | [Real Alcázar com guia e acesso sem filas](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
 | Fotografias impossíveis em espaço coberto | [Museu das Ilusões](/pt/cities/sevilla/activities/museu-das-ilusoes-sevilha-bilhete), 4,2★ (1.352) | 15 € |

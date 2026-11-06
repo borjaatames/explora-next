@@ -58,7 +58,7 @@ El Prado vende entradas con hora y casi nunca se queda sin plazas para todo el d
 
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |
-| Entrada con hora, sin guía | [Entrada al Museo del Prado](/ciudades/madrid/actividades/museo-prado-entrada), 4,7★ (23.273) | 18 € |
+| Entrada con hora, sin guía | [Entrada al Museo del Prado](/ciudades/madrid/actividades/museo-prado-entrada), 4,7★ (23.644) | 18 € |
 | La mejor valorada | [Visita guiada al Prado con entrada](/ciudades/madrid/actividades/museo-prado-visita-guiada), 4,9★ (885) | 49 € |
 | Los tres grandes museos | [Abono Paseo del Arte: Prado, Reina Sofía y Thyssen](/ciudades/madrid/actividades/art-walk-pass-prado-reina-sofia-thyssen), 4,4★ (489) | 38 € |
 | Solo para vosotros | [Visita privada con guía oficial](/ciudades/madrid/actividades/museo-prado-visita-privada-guia-oficial) | 146 € |

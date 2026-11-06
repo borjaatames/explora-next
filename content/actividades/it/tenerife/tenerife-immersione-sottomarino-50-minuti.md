@@ -2,7 +2,7 @@
 titulo: 'Tenerife: immersione di 50 minuti in sottomarino'
 slug: tenerife-immersione-sottomarino-50-minuti
 ciudad: tenerife
-descripcion: 'Scendi a circa 30 metri in un vero sottomarino da Amarilla Marina, nel sud di Tenerife: razze, barracuda e pesci colorati dietro oblò panoramici. Autobus gratuito. 4,8/5 con 2.664 recensioni.'
+descripcion: 'Scendi a circa 30 metri in un vero sottomarino da Amarilla Marina, nel sud di Tenerife: razze, barracuda e pesci colorati dietro oblò panoramici. Autobus gratuito. 4,8/5 con 2.670 recensioni.'
 slugs:
   es: submarino-tenerife-inmersion-50-minutos
   en: tenerife-submarine-dive-50-minutes
@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: 'Costa vulcanica del sud di Tenerife'
 ratingProveedor: 4.8
-numeroOpiniones: 2664
+numeroOpiniones: 2670
 publicada: true
 destacada: false
 fecha: '2026-11-02'

@@ -2,7 +2,7 @@
 titulo: 'Park Güell: Tour Guiado Clásico Sin Colas (5 idiomas)'
 slug: park-guell-tour-guiado-skip-line-clasico
 ciudad: barcelona
-descripcion: Tour guiado de 1,5 a 2 horas por el Park Güell con entrada sin colas. Disponible en 5 idiomas (ES, EN, FR, DE, IT). 4/5 sobre 885 reseñas. Opción privada o grupo reducido.
+descripcion: Tour guiado de 1,5 a 2 horas por el Park Güell con entrada sin colas. Disponible en 5 idiomas (ES, EN, FR, DE, IT). 4/5 sobre 909 reseñas. Opción privada o grupo reducido.
 slugs:
   es: park-guell-tour-guiado-skip-line-clasico
   en: park-guell-skip-line-guided-tour-classic
@@ -22,7 +22,7 @@ highlights:
 - 'Disponible en 5 idiomas: español, inglés, francés, alemán, italiano'
 - Entrada sin colas garantizada al Park Güell
 - Opciones de grupo privado o reducido a precio superior
-- 885 reseñas con desglose claro de fortalezas y puntos débiles
+- 909 reseñas con desglose claro de fortalezas y puntos débiles
 incluye:
 - Entrada sin colas al Park Güell
 - Guía oficial acreditado
@@ -73,7 +73,7 @@ variantes:
 - park-guell-tour-fast-track-gaudi
 - park-guell-grupo-reducido-amigo-tours
 - park-guell-tour-express-1h-city-wonders
-opinionEditorial: 'La opción más LARGA del catálogo Park Güell en GetYourGuide: 1,5 a 2 horas frente a los 55-75 minutos de las versiones express. 4/5 sobre 885 reseñas, 5 idiomas, opciones de grupo reducido o privado. Es el tour para quien quiere entender realmente el Park Güell — no solo pasear y fotografiar, sino contextualizar el encargo del conde Güell, el simbolismo modernista y el porqué del abandono del proyecto a mitad.
+opinionEditorial: 'La opción más LARGA del catálogo Park Güell en GetYourGuide: 1,5 a 2 horas frente a los 55-75 minutos de las versiones express. 4/5 sobre 909 reseñas, 5 idiomas, opciones de grupo reducido o privado. Es el tour para quien quiere entender realmente el Park Güell — no solo pasear y fotografiar, sino contextualizar el encargo del conde Güell, el simbolismo modernista y el porqué del abandono del proyecto a mitad.
 
 
   Lo que conviene saber. El rating es discreto (4/5) por dos motivos sistemáticos en reseñas: el desplazamiento desde el centro (largo, cuesta arriba desde el metro) baja la nota de transporte a 3,7/5; y el precio frente al ticket simple baja value for money a 3,8/5. La nota del guía sí es buena (4,2/5). Es producto que cumple lo que ofrece — las críticas son de expectativas y logística, no de contenido. Si llegas con tiempo de sobra y aceptas que el parque exige planificación, este formato te dará la versión más completa.
@@ -107,7 +107,7 @@ galeria:
 - src: /images/actividades/barcelona/park-guell/unsplash-VWE6dSkZBmw-hero.webp
   alt: Vistas panorámicas de Barcelona con edificios modernistas y montañas al fondo
 ratingProveedor: 4.0
-numeroOpiniones: 885
+numeroOpiniones: 909
 publicada: false
 destacada: false
 fecha: '2026-05-17'

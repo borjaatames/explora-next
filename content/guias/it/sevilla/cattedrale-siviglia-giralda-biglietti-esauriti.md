@@ -60,7 +60,7 @@ La Cattedrale di Siviglia vende i biglietti **con orario di accesso e posti limi
 | Se cerchi… | Opzione | Da |
 | --- | --- | --- |
 | Biglietto con orario, senza guida | [Cattedrale e Giralda senza code](/it/cities/sevilla/activities/siviglia-biglietto-cattedrale-giralda-salta-fila), 4,6★ (3.500) | 17,50 € |
-| La più scelta | [Cattedrale, Giralda e Alcázar con accesso prioritario](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (9.797) | 53 € |
+| La più scelta | [Cattedrale, Giralda e Alcázar con accesso prioritario](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14.120) | 53 € |
 | I due monumenti con calma | [Cattedrale, Giralda e Alcázar: tour di 3,5 ore](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2.085) | 65 € |
 | Una guida solo per il tuo gruppo | [Real Alcázar e Cattedrale: tour privato con biglietti](/en/cities/sevilla/activities/royal-alcazar-seville-cathedral-private-tour-tickets), 5,0★ (188) | 300 € a gruppo |
 

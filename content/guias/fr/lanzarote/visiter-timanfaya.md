@@ -58,7 +58,7 @@ opciones:
 | Activité | Note | À partir de |
 | --- | --- | --- |
 | Billet officiel des Montagnes de Feu (site du Cabildo) | — | 30 € |
-| [Excursion d'une demi-journée au parc national de Timanfaya, avec entrée et prise en charge](/fr/cities/lanzarote/activities/lanzarote-excursion-parc-national-timanfaya-demi-journee) | 4,4★ (2 855) | 59 € |
+| [Excursion d'une demi-journée au parc national de Timanfaya, avec entrée et prise en charge](/fr/cities/lanzarote/activities/lanzarote-excursion-parc-national-timanfaya-demi-journee) | 4,3★ (2 901) | 59 € |
 | [Timanfaya, Jameos del Agua et Cueva de los Verdes avec billets](/fr/cities/lanzarote/activities/lanzarote-excursion-timanfaya-jameos-cueva-de-los-verdes) | 4,5★ (2 910) | 89 € |
 | [Randonnée guidée parmi les volcans à côté de Timanfaya](/en/cities/lanzarote/activities/timanfaya-volcano-hike) | 4,8★ (990) | 47 € |
 

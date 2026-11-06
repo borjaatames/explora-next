@@ -2,7 +2,7 @@
 titulo: Cuevas del Drach desde Alcúdia (norte de Mallorca)
 slug: cuevas-del-drach-desde-alcudia
 ciudad: mallorca
-descripcion: 'Medio día desde Alcúdia y el norte de Mallorca a las Cuevas del Drach: transporte, entrada sin colas, concierto sobre el lago Martel y opción de cruzarlo en barca. La versión para familias alojadas en el norte. 4,4/5 con 616 reseñas.'
+descripcion: 'Medio día desde Alcúdia y el norte de Mallorca a las Cuevas del Drach: transporte, entrada sin colas, concierto sobre el lago Martel y opción de cruzarlo en barca. La versión para familias alojadas en el norte. 4,3/5 con 641 reseñas.'
 slugs:
   es: cuevas-del-drach-desde-alcudia
   en: drach-caves-from-alcudia
@@ -99,8 +99,8 @@ galeria:
   alt: Lago subterráneo en las Cuevas del Drach
 - src: /images/actividades/mallorca/drach/drach-wikimedia-coves-del-drac-01-jpg-05.webp
   alt: Galería de estalactitas en las Cuevas del Drach
-ratingProveedor: 4.4
-numeroOpiniones: 616
+ratingProveedor: 4.3
+numeroOpiniones: 641
 publicada: true
 destacada: false
 fecha: '2026-10-04'

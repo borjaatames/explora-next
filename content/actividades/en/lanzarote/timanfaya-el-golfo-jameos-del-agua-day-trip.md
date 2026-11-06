@@ -2,7 +2,7 @@
 titulo: 'Lanzarote: full-day trip to Timanfaya, El Golfo and Jameos del Agua'
 slug: timanfaya-el-golfo-jameos-del-agua-day-trip
 ciudad: lanzarote
-descripcion: 7 to 8-hour coach tour covering the south and north of the island in a day, with entry to Timanfaya and Jameos del Agua, a stop at the El Golfo Green Lagoon and hotel pickup. Rated 4.5/5 from 2,063 reviews.
+descripcion: 7 to 8-hour coach tour covering the south and north of the island in a day, with entry to Timanfaya and Jameos del Agua, a stop at the El Golfo Green Lagoon and hotel pickup. Rated 4.5/5 from 2,065 reviews.
 slugs:
   es: excursion-timanfaya-el-golfo-jameos-del-agua
   en: timanfaya-el-golfo-jameos-del-agua-day-trip
@@ -81,7 +81,7 @@ keywords:
 - el golfo lanzarote tour
 - lanzarote excursions with pickup
 ratingProveedor: 4.5
-numeroOpiniones: 2063
+numeroOpiniones: 2065
 atraccionesRelacionadas:
 - timanfaya
 - jameos-cueva

@@ -47,7 +47,7 @@ actividades:
 | [Passeio de catamarã ao pôr do sol com cava](/pt/cities/cadiz/activities/cadis-catamara-por-do-sol-cava) | 4,6★ (856) | 24,5 € |
 | [Tour de catamarã pela baía](/pt/cities/cadiz/activities/cadis-passeio-catamara-baia) | 4,5★ (453) | 19 € |
 | [Jerez: tour pelas Bodegas Fundador com prova de xerez e brandy](/en/cities/jerez-de-la-frontera/activities/bodegas-fundador-jerez-tasting-tour) | 4,8★ (959) | 18 € |
-| [Jerez: visita à Yeguada de la Cartuja com exibição](/en/cities/jerez-de-la-frontera/activities/yeguada-de-la-cartuja-jerez-tour) | 4,8★ (1.073) | 19,5 € |
+| [Jerez: visita à Yeguada de la Cartuja com exibição](/en/cities/jerez-de-la-frontera/activities/yeguada-de-la-cartuja-jerez-tour) | 4,8★ (1.097) | 19,5 € |
 | [Excursão às aldeias brancas da Serra](/en/cities/cadiz/activities/white-villages-day-trip-from-cadiz) | 4,6★ (58) | 68 € |
 
 ## Quando ir e como chegar

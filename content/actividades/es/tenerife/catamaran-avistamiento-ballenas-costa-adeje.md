@@ -2,7 +2,7 @@
 titulo: 'Tenerife: tour de avistamiento de ballenas en catamarán'
 slug: catamaran-avistamiento-ballenas-costa-adeje
 ciudad: tenerife
-descripcion: Tour en catamarán desde Costa Adeje para ver ballenas y delfines en el sur de Tenerife, con parada para bañarse. 4,7/5 con 4.248 reseñas.
+descripcion: Tour en catamarán desde Costa Adeje para ver ballenas y delfines en el sur de Tenerife, con parada para bañarse. 4,7/5 con 4.314 reseñas.
 slugs:
   es: catamaran-avistamiento-ballenas-costa-adeje
   en: catamaran-whale-watching-costa-adeje
@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Acantilados de la costa sur de Tenerife
 ratingProveedor: 4.7
-numeroOpiniones: 4248
+numeroOpiniones: 4314
 atraccionesRelacionadas:
 - mar
 publicada: true

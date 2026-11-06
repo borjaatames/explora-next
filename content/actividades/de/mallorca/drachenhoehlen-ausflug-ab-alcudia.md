@@ -2,7 +2,7 @@
 titulo: Drachenhöhlen ab Alcúdia (Norden Mallorcas)
 slug: drachenhoehlen-ausflug-ab-alcudia
 ciudad: mallorca
-descripcion: 'Halbtagesausflug ab Alcúdia und dem Norden Mallorcas zu den Drachenhöhlen: Transfer, Eintritt ohne Anstehen an der Kasse, Konzert auf dem Martel-See und die Möglichkeit, ihn mit dem Boot zu überqueren. Die Variante für Familien, die im Norden wohnen. Bewertet mit 4,4/5 aus 616 Bewertungen.'
+descripcion: 'Halbtagesausflug ab Alcúdia und dem Norden Mallorcas zu den Drachenhöhlen: Transfer, Eintritt ohne Anstehen an der Kasse, Konzert auf dem Martel-See und die Möglichkeit, ihn mit dem Boot zu überqueren. Die Variante für Familien, die im Norden wohnen. Bewertet mit 4,3/5 aus 641 Bewertungen.'
 slugs:
   es: cuevas-del-drach-desde-alcudia
   en: drach-caves-from-alcudia
@@ -99,8 +99,8 @@ galeria:
   alt: Unterirdischer See in den Drachenhöhlen
 - src: /images/actividades/mallorca/drach/drach-wikimedia-coves-del-drac-01-jpg-05.webp
   alt: Gang mit Stalaktiten in den Drachenhöhlen
-ratingProveedor: 4.4
-numeroOpiniones: 616
+ratingProveedor: 4.3
+numeroOpiniones: 641
 publicada: true
 destacada: false
 fecha: '2026-10-04'

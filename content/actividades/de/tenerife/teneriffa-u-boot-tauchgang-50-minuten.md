@@ -2,7 +2,7 @@
 titulo: 'Teneriffa: 50-minütiger Tauchgang im U-Boot'
 slug: teneriffa-u-boot-tauchgang-50-minuten
 ciudad: tenerife
-descripcion: 'Tauchen Sie in einem echten U-Boot von Amarilla Marina im Süden Teneriffas auf etwa 30 Meter ab: Rochen, Barrakudas und bunte Fische hinter Panoramafenstern. Kostenloser Bus. 4,8/5 bei 2.664 Bewertungen.'
+descripcion: 'Tauchen Sie in einem echten U-Boot von Amarilla Marina im Süden Teneriffas auf etwa 30 Meter ab: Rochen, Barrakudas und bunte Fische hinter Panoramafenstern. Kostenloser Bus. 4,8/5 bei 2.670 Bewertungen.'
 slugs:
   es: submarino-tenerife-inmersion-50-minutos
   en: tenerife-submarine-dive-50-minutes
@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: 'Vulkanküste im Süden Teneriffas'
 ratingProveedor: 4.8
-numeroOpiniones: 2664
+numeroOpiniones: 2670
 publicada: true
 destacada: false
 fecha: '2026-11-02'

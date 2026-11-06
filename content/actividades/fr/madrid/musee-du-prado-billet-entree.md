@@ -103,7 +103,7 @@ galeria:
 - src: /images/actividades/madrid/paseo-prado/paseo-prado-madrid-foto-3060591-hero.webp
   alt: Le boulevard du Paseo del Prado à Madrid
 ratingProveedor: 4.7
-numeroOpiniones: 23273
+numeroOpiniones: 23644
 publicada: true
 destacada: false
 fecha: '2026-11-05'

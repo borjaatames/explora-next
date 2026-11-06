@@ -2,7 +2,7 @@
 titulo: 'Jerez: Yeguada de la Cartuja stud tour and show'
 slug: yeguada-de-la-cartuja-jerez-tour
 ciudad: jerez-de-la-frontera
-descripcion: 2.5-hour guided visit to the Yeguada de la Cartuja near Jerez, home of the Carthusian horse, with foals and mares roaming free and a show in the arena. Rated 4.8/5 from 1,073 reviews.
+descripcion: 2.5-hour guided visit to the Yeguada de la Cartuja near Jerez, home of the Carthusian horse, with foals and mares roaming free and a show in the arena. Rated 4.8/5 from 1,097 reviews.
 slugs:
   es: yeguada-de-la-cartuja-jerez
   en: yeguada-de-la-cartuja-jerez-tour
@@ -101,7 +101,7 @@ galeria:
 - src: /images/actividades/cadiz/yeguada/yeguada-cartuja-05.webp
   alt: Covered riding arena at the Yeguada de la Cartuja
 ratingProveedor: 4.8
-numeroOpiniones: 1073
+numeroOpiniones: 1097
 publicada: true
 indexar: false
 destacada: false

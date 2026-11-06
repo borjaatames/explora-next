@@ -58,7 +58,7 @@ O Prado vende bilhetes com hora e quase nunca fica sem lugares para o dia inteir
 
 | Se procura… | Opção | Desde |
 | --- | --- | --- |
-| Bilhete com hora, sem guia | [Bilhete para o Museu do Prado](/en/cities/madrid/activities/prado-museum-entry-ticket), 4,7★ (23.273) | 18 € |
+| Bilhete com hora, sem guia | [Bilhete para o Museu do Prado](/en/cities/madrid/activities/prado-museum-entry-ticket), 4,7★ (23.644) | 18 € |
 | A mais bem avaliada | [Visita guiada ao Prado com bilhete](/en/cities/madrid/activities/prado-museum-guided-tour), 4,9★ (885) | 49 € |
 | Os três grandes museus | [Passe Paseo del Arte: Prado, Reina Sofía e Thyssen](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen), 4,4★ (489) | 38 € |
 | Só para vocês | [Visita privada com guia oficial](/en/cities/madrid/activities/prado-museum-private-tour-official-guide) | 146 € |

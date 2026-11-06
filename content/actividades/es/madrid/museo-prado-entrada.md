@@ -110,7 +110,7 @@ galeria:
 - src: /images/actividades/madrid/paseo-prado/paseo-prado-madrid-foto-3060591-hero.webp
   alt: Paseo del Prado en Madrid
 ratingProveedor: 4.7
-numeroOpiniones: 23273
+numeroOpiniones: 23644
 publicada: true
 destacada: false
 fecha: '2026-10-03'

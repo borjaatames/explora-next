@@ -2,7 +2,7 @@
 titulo: 'Fuerteventura: jeep safari a Cofete e al faro di Punta Jandía'
 slug: jeep-safari-cofete-faro-punta-jandia
 ciudad: fuerteventura
-descripcion: Escursione di cinque ore in 4x4 lungo le piste sterrate della penisola di Jandía, con la spiaggia di Cofete, Villa Winter, il faro di Punta Jandía e tempo libero a El Puertito. Prelievo nel sud dell'isola. Valutazione 4,4/5 su 184 recensioni.
+descripcion: Escursione di cinque ore in 4x4 lungo le piste sterrate della penisola di Jandía, con la spiaggia di Cofete, Villa Winter, il faro di Punta Jandía e tempo libero a El Puertito. Prelievo nel sud dell'isola. Valutazione 4,5/5 su 185 recensioni.
 slugs:
   es: jeep-safari-cofete-faro-punta-jandia
   en: cofete-punta-jandia-lighthouse-jeep-safari
@@ -65,15 +65,15 @@ preguntasFrecuentes:
   respuesta: No. Porta acqua e uno spuntino; c'è tempo libero a El Puertito.
 - pregunta: In cosa si differenzia dagli altri tour a Cofete?
   respuesta: Oltre a Cofete e Villa Winter, prosegue fino al faro di Punta Jandía, l'estremità sud dell'isola, e fa sosta a El Puertito.
-opinionEditorial: La pista per Cofete e Punta Jandía è lunga e sconnessa, e farla in 4x4 con autista ti evita di usare un'auto a noleggio, la cui assicurazione di solito esclude queste piste. Questa versione aggiunge il faro di Punta Jandía a Cofete. La valutazione (4,4/5) è un po' più bassa rispetto ad altre escursioni a Cofete, quindi confronta prima di prenotare.
+opinionEditorial: La pista per Cofete e Punta Jandía è lunga e sconnessa, e farla in 4x4 con autista ti evita di usare un'auto a noleggio, la cui assicurazione di solito esclude queste piste. Questa versione aggiunge il faro di Punta Jandía a Cofete. La valutazione (4,5/5) è un po' più bassa rispetto ad altre escursioni a Cofete, quindi confronta prima di prenotare.
 categoria: excursionesDia
 keywords:
 - jeep safari cofete
 - tour 4x4 cofete
 - faro di punta jandia
 - escursione cofete villa winter
-ratingProveedor: 4.4
-numeroOpiniones: 184
+ratingProveedor: 4.5
+numeroOpiniones: 185
 atraccionesRelacionadas:
 - sur
 publicada: true

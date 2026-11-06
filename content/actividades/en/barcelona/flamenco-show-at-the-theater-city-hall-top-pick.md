@@ -1,8 +1,8 @@
 ---
-titulo: 'Barcelona: Flamenco Show at the City Hall Theater (Top Pick — 11,305 Reviews)'
+titulo: 'Barcelona: Flamenco Show at the City Hall Theater (Top Pick — 12,657 Reviews)'
 slug: flamenco-show-at-the-theater-city-hall-top-pick
 ciudad: barcelona
-descripcion: 1-hour flamenco show at Barcelona's City Hall Theatre — the MOST BOOKED flamenco product in the city. 11,305 reviews at 4.5/5 (Top Pick on GetYourGuide). 4 daily sessions (5, 6:45, 8:30, 10 PM). From €25. Options with drink or bottle of cava/wine. Next to Plaça de Catalunya.
+descripcion: 1-hour flamenco show at Barcelona's City Hall Theatre — the MOST BOOKED flamenco product in the city. 12,657 reviews at 4.6/5 (Top Pick on GetYourGuide). 4 daily sessions (5, 6:45, 8:30, 10 PM). From €25. Options with drink or bottle of cava/wine. Next to Plaça de Catalunya.
 slugs:
   es: flamenco-en-el-teatro-city-hall-mas-vendido
   en: flamenco-show-at-the-theater-city-hall-top-pick
@@ -22,7 +22,7 @@ urlReserva: https://www.getyourguide.com/barcelona-l45/barcelona-flamenco-show-a
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- GetYourGuide TOP PICK — 11,305 reviews at 4.5/5 (the MOST BOOKED flamenco product in Barcelona, by far)
+- GetYourGuide TOP PICK — 12,657 reviews at 4.6/5 (the MOST BOOKED flamenco product in Barcelona, by far)
 - '1-hour show with recognized artists: Ivan Alcalà, Raúl Ortega, Patricia Domínguez, Yolanda Cortés'
 - 'Singers: Antonio el Mantecao, Miguel de la Tolea, La Tana, Josefa G. Contreras'
 - 'Guitar: Oliver Haldon, Eduardo Cortés. Percussion: Joni C. and Jacobo C. Sánchez'
@@ -72,15 +72,15 @@ accesibilidad: NOT wheelchair accessible according to GetYourGuide's official in
 politicaCancelacion: 'FREE cancellation up to 24 hours before the start time — full refund. Within 24 hours: no refunds. Late arrivals: show starts on time; past 10 min from start, entry may not be allowed (at staff discretion). Date changes subject to availability.'
 preguntasFrecuentes:
 - pregunta: Why is it the most booked flamenco show in Barcelona?
-  respuesta: 'Three factors: (1) **Low entry price** — from €25 the Standard option is the most affordable of Barcelona''s 4 top tablaos. (2) **4 daily sessions** (5, 6:45, 8:30, 10 PM) versus 1-2 of other tablaos, giving high availability for last-minute bookings. (3) **Large theater capacity** (~300-400 seats vs. 50-150 of a traditional tablao) — admits many more visitors per session, multiplying historical bookings. The result: 11,305 reviews vs. 4,617 of Cordobés (second in volume). The 4.5/5 rating is slightly lower than traditional tablaos (4.6-4.8) because the theater format is less intimate, but overall sentiment is very positive.'
+  respuesta: 'Three factors: (1) **Low entry price** — from €25 the Standard option is the most affordable of Barcelona''s 4 top tablaos. (2) **4 daily sessions** (5, 6:45, 8:30, 10 PM) versus 1-2 of other tablaos, giving high availability for last-minute bookings. (3) **Large theater capacity** (~300-400 seats vs. 50-150 of a traditional tablao) — admits many more visitors per session, multiplying historical bookings. The result: 12,657 reviews vs. 4,617 of Cordobés (second in volume). The 4.6/5 rating is slightly lower than traditional tablaos (4.6-4.8) because the theater format is less intimate, but overall sentiment is very positive.'
 - pregunta: What are the differences between Standard, Premium and VIP?
   respuesta: '**Standard (from €25):** show entry in the back zone of the theater, no drink. Correct view (tiered seats). **Premium (~€40):** central zone of the theater, 1 drink included (wine, beer, sangria, cava or soft drink). Better view and experience. **VIP (~€55):** front zone of the theater, 2 drinks OR 1 shared bottle of cava/wine. The best experience. Comparison: the €55 VIP equals Cordobés show-only (€48 with drink) or Palau Dalmases show + tapas (Zone A €40 + add-on €18). The €25 Standard is unbeatable in price for a 1h flamenco show in Barcelona.'
 - pregunta: Is it really authentic flamenco or a tourist show?
-  respuesta: It's **professional flamenco with recognized artists** — Ivan Alcalà, Raúl Ortega, Patricia Domínguez, Yolanda Cortés (dancers), Antonio el Mantecao, Miguel de la Tolea, La Tana, Josefa G. Contreras (singers), Oliver Haldon, Eduardo Cortés (guitars), Joni C. and Jacobo C. Sánchez (percussion). Some flamenco purists argue that the THEATER format (with large capacity and microphones) loses the intimacy of a traditional tablao like Cordobés (no microphones) or Palau Dalmases (palace). If you seek maximum purity without amplification, Cordobés is the reference. If you seek a well-executed professional show with affordable price and availability, Flamenco at the Theater delivers — the 11,305 reviews at 4.5/5 back this up.
+  respuesta: It's **professional flamenco with recognized artists** — Ivan Alcalà, Raúl Ortega, Patricia Domínguez, Yolanda Cortés (dancers), Antonio el Mantecao, Miguel de la Tolea, La Tana, Josefa G. Contreras (singers), Oliver Haldon, Eduardo Cortés (guitars), Joni C. and Jacobo C. Sánchez (percussion). Some flamenco purists argue that the THEATER format (with large capacity and microphones) loses the intimacy of a traditional tablao like Cordobés (no microphones) or Palau Dalmases (palace). If you seek maximum purity without amplification, Cordobés is the reference. If you seek a well-executed professional show with affordable price and availability, Flamenco at the Theater delivers — the 12,657 reviews at 4.6/5 back this up.
 - pregunta: Can I dine before the show?
   respuesta: 'This product does NOT include dinner option. The central location next to Plaça de Catalunya has hundreds of restaurants 2-5 min walking — from tapas at La Boqueria Market (Pinotxo) to Catalan cuisine at Casa Calvet or Cervecería Catalana. If you want dinner INCLUDED + show, options are: **Tablao Cordobés** (dinner before the show, €69-89), **Tablao de Carmen** (dinner during the show, from €88), **Palau Dalmases** (Spanish Dinner add-on €35 + show €30-50).'
 - pregunta: What's the difference with the other 3 top Barcelona tablaos?
-  respuesta: '**Flamenco at the Theater (this):** Large theater (City Hall Theatre), big capacity, more theatrical format, affordable price (from €25), maximum review volume (11,305), central next to Plaça de Catalunya. **Cordobés:** Historic tablao (1970) on Las Ramblas, show without microphones, Nasrid décor, optional dinner. From €48. **Tablao de Carmen:** In Poble Espanyol (Montjuïc), dinner DURING the show (unique traditional format), 4.8/5 (highest rating). From €88. **Palau Dalmases:** 17th-century Baroque palace in El Born, short 50 min format, near Picasso Museum. From €30. **Choose this (Theater) if:** you want affordable price + session flexibility + central location + you''re in a rush or tight budget. **DO NOT choose this if:** you want intimate tablao format (Cordobés/Carmen), architecturally spectacular venue (Palau Dalmases) or included dinner (Carmen).'
+  respuesta: '**Flamenco at the Theater (this):** Large theater (City Hall Theatre), big capacity, more theatrical format, affordable price (from €25), maximum review volume (12,657), central next to Plaça de Catalunya. **Cordobés:** Historic tablao (1970) on Las Ramblas, show without microphones, Nasrid décor, optional dinner. From €48. **Tablao de Carmen:** In Poble Espanyol (Montjuïc), dinner DURING the show (unique traditional format), 4.8/5 (highest rating). From €88. **Palau Dalmases:** 17th-century Baroque palace in El Born, short 50 min format, near Picasso Museum. From €30. **Choose this (Theater) if:** you want affordable price + session flexibility + central location + you''re in a rush or tight budget. **DO NOT choose this if:** you want intimate tablao format (Cordobés/Carmen), architecturally spectacular venue (Palau Dalmases) or included dinner (Carmen).'
 variantes:
 - nombre: Standard
   descripcion: Show entry in back zone of the theater. No drink included. Most affordable option.
@@ -91,13 +91,13 @@ variantes:
 - nombre: VIP
   descripcion: Front zone of the theater, 2 drinks or 1 shared bottle of cava/wine. Best view and service.
   precio: 55
-opinionEditorial: 'The **most booked flamenco show in Barcelona** — 11,305 reviews at 4.5/5 position it as TOP PICK on GetYourGuide. The review count is 2.5× that of Cordobés (4,617), 5× of Tablao de Carmen (2,125) and 12× of Palau Dalmases (919). That translates to it being, by far, the flamenco that most international travellers choose in Barcelona — a figure that says a lot about its price accessibility, location and session flexibility.
+opinionEditorial: 'The **most booked flamenco show in Barcelona** — 12,657 reviews at 4.6/5 position it as TOP PICK on GetYourGuide. The review count is 2.5× that of Cordobés (4,617), 5× of Tablao de Carmen (2,125) and 12× of Palau Dalmases (919). That translates to it being, by far, the flamenco that most international travellers choose in Barcelona — a figure that says a lot about its price accessibility, location and session flexibility.
 
 
   **Price comparison:** from €25 the Standard option is **the most affordable of the 4 top tablaos**. The €55 VIP remains competitive against Cordobés show-only (€48 with drink) and well below the Carmen full menu (€88). If your priority is to see professional live flamenco in Barcelona with the lowest possible spending, this product is the natural answer.
 
 
-  **Three honest considerations about the theater format:** **(1)** the venue is large (~300-400 seats) — you lose intimacy compared to traditional 50-150 seat tablaos; some visitors miss the proximity to the artist that Cordobés or Palau Dalmases offer. **(2)** microphones are used — flamenco purists prefer the natural acoustics of Cordobés (no amplification). **(3)** ratings by session may vary — some visitors note the last-session singer (10 PM) may have less energy; if singing matters to you, prefer 5 or 6:45 PM sessions. The 4.5/5 global rating is excellent for a large-capacity theater (theaters lose 0.3-0.5 points against intimate tablaos due to the venue effect).
+  **Three honest considerations about the theater format:** **(1)** the venue is large (~300-400 seats) — you lose intimacy compared to traditional 50-150 seat tablaos; some visitors miss the proximity to the artist that Cordobés or Palau Dalmases offer. **(2)** microphones are used — flamenco purists prefer the natural acoustics of Cordobés (no amplification). **(3)** ratings by session may vary — some visitors note the last-session singer (10 PM) may have less energy; if singing matters to you, prefer 5 or 6:45 PM sessions. The 4.6/5 global rating is excellent for a large-capacity theater (theaters lose 0.3-0.5 points against intimate tablaos due to the venue effect).
 
 
   **Who it''s for:** travellers on a **tight budget** wanting to see professional flamenco in Barcelona, visitors with a **rush or tight schedule** needing session flexibility (4 daily), large groups (families, hen/stag parties) who don''t fit in an intimate tablao, flamenco first-timers wanting accessible experience without dinner commitment, visitors staying near Plaça de Catalunya with minimal commuting. **Who it''s NOT for:** flamenco purists valuing intimate format without microphones (Cordobés), anyone wanting dinner during or before the show (Carmen/Dalmases), anyone prioritizing architecturally unique venue (Palau Dalmases 17th-c.), wheelchair users (this venue is NOT accessible — the other 3 ARE).
@@ -133,8 +133,8 @@ galeria:
   alt: Aerial view of Plaça de Catalunya, next to the theatre
 - src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
   alt: Plaça de Catalunya from above, a short walk from City Hall
-ratingProveedor: 4.5
-numeroOpiniones: 11305
+ratingProveedor: 4.6
+numeroOpiniones: 12657
 publicada: true
 destacada: true
 fecha: '2026-05-17'
@@ -145,7 +145,7 @@ guiasRelacionadas:
 
 ## What you'll see
 
-A **professional 1-hour flamenco show at Barcelona's City Hall Theatre** — the MOST BOOKED flamenco product in the city, with 11,305 reviews at 4.5/5. GetYourGuide Top Pick. Central location next to Plaça de Catalunya.
+A **professional 1-hour flamenco show at Barcelona's City Hall Theatre** — the MOST BOOKED flamenco product in the city, with 12,657 reviews at 4.6/5. GetYourGuide Top Pick. Central location next to Plaça de Catalunya.
 
 - **Full flamenco cuadro with recognized artists:**
   - Dancers: Ivan Alcalà, Raúl Ortega, Patricia Domínguez, Yolanda Cortés.

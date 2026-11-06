@@ -2,7 +2,7 @@
 titulo: 'Valldemossa, Sóller and Port de Sóller: bus and tram day trip'
 slug: valldemossa-soller-port-soller-bus-tram-tour
 ciudad: mallorca
-descripcion: 6-hour guided coach trip through the Serra de Tramuntana, stopping in Sóller, riding the historic tram down to Port de Sóller and ending with about 90 minutes free in Valldemossa. Rated 4.7/5 from 827 reviews.
+descripcion: 6-hour guided coach trip through the Serra de Tramuntana, stopping in Sóller, riding the historic tram down to Port de Sóller and ending with about 90 minutes free in Valldemossa. Rated 4.7/5 from 829 reviews.
 slugs:
   es: valldemossa-soller-port-soller-autobus-tranvia
   en: valldemossa-soller-port-soller-bus-tram-tour
@@ -72,7 +72,7 @@ keywords:
 - tramuntana tour mallorca
 - port de soller bus tour
 ratingProveedor: 4.7
-numeroOpiniones: 827
+numeroOpiniones: 829
 atraccionesRelacionadas:
 - soller-tramuntana
 - tramuntana

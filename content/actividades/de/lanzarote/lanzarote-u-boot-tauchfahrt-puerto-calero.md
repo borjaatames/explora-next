@@ -100,7 +100,7 @@ galeria:
 - src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
   alt: Die Südküste Lanzarotes bei den Papagayo-Stränden
 ratingProveedor: 4.6
-numeroOpiniones: 1562
+numeroOpiniones: 1587
 atraccionesRelacionadas:
 - mar
 publicada: true

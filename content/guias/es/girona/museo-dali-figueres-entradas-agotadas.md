@@ -54,6 +54,7 @@ El Teatro-Museo Dalí de Figueres vende sus entradas online por día y franja ho
 | --- | --- | --- |
 | Entrar con guía y sin depender de la web oficial | [Teatro-Museo Dalí: visita guiada con entrada](/ciudades/girona/actividades/teatro-museo-dali-figueres-visita-guiada), 4,7★ (105) | 31 € |
 | Ir desde Barcelona con el transporte resuelto | [Girona, Figueres y Cadaqués: excursión de un día desde Barcelona](/ciudades/girona/actividades/girona-figueres-dali-cadaques-desde-barcelona), 4,7★ (2.352) | 40 € |
+| Ir desde Barcelona en grupo pequeño, con recogida en el hotel | [Museo Dalí, Cadaqués y Portlligat en grupo reducido](/ciudades/barcelona/actividades/triangulo-dali-cadaques-grupo-reducido-recogida-hotel-barcelona), 4,8★ (246) | 119 € + entradas |
 
 ## 1. Vuelve a mirar la web oficial
 

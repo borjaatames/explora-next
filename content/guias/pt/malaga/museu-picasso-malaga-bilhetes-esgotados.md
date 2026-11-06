@@ -67,7 +67,7 @@ O Museu Picasso Málaga, no Palácio de Buenavista da calle San Agustín, é uma
 | Outra hora ou outro dia | Site oficial, `tickets.museopicassomalaga.org` | 13 € |
 | Comprar no próprio local | Bilheteira do museu, em momentos de menor afluência | 13 € |
 | Entrar grátis | Domingos, nas duas últimas horas | 0 € |
-| O bilhete, com audioguia | [Bilhete para o Museu Picasso Málaga](/pt/cities/malaga/activities/museu-picasso-malaga-bilhete-audioguia), 4,5★ (13.842) | 13 € |
+| O bilhete, com audioguia | [Bilhete para o Museu Picasso Málaga](/pt/cities/malaga/activities/museu-picasso-malaga-bilhete-audioguia), 4,5★ (14.246) | 13 € |
 | Museu e Casa Natal com guia | [Rota de Picasso, visita privada](/en/cities/malaga/activities/picasso-route-malaga-private-tour) | 166 € |
 | Arte moderna no porto | [Centre Pompidou Málaga](/pt/cities/malaga/activities/malaga-bilhete-centre-pompidou), 4,2★ (734) | 9 € |
 | A 3 minutos, com guia | [Alcazaba e Teatro Romano](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour), 4,7★ (7.412) | 13 € |

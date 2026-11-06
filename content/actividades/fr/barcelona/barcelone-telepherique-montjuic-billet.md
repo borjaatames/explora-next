@@ -2,7 +2,7 @@
 titulo: 'Barcelone : téléphérique de Montjuïc, billet aller-retour'
 slug: barcelone-telepherique-montjuic-billet
 ciudad: barcelona
-descripcion: Billet aller-retour pour le téléphérique de Montjuïc, l'emblématique remontée aérienne de Barcelone avec vue panoramique sur la ville, le port et la Méditerranée. 4,5/5 sur 25 007 avis.
+descripcion: Billet aller-retour pour le téléphérique de Montjuïc, l'emblématique remontée aérienne de Barcelone avec vue panoramique sur la ville, le port et la Méditerranée. 4,5/5 sur 25 280 avis.
 slugs:
   es: teleferico-montjuic-barcelona-ticket
   en: montjuic-cable-car-barcelona-ticket
@@ -99,7 +99,7 @@ galeria:
 - src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
   alt: Le Palau Nacional (MNAC) sur les pentes de Montjuïc
 ratingProveedor: 4.5
-numeroOpiniones: 25007
+numeroOpiniones: 25280
 atraccionesRelacionadas:
 - otros-barcelona
 publicada: true

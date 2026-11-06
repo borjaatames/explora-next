@@ -60,7 +60,7 @@ Seville Cathedral sells tickets **with a set entry time and limited capacity**, 
 | If you want… | Option | From |
 | --- | --- | --- |
 | A timed ticket, no guide | [Cathedral and Giralda skip-the-line entry](/en/cities/sevilla/activities/seville-cathedral-giralda-entry-ticket), 4.6★ (3,500) | €17.50 |
-| The most popular | [Cathedral, Giralda and Alcázar priority access](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4.8★ (9,797) | €53 |
+| The most popular | [Cathedral, Giralda and Alcázar priority access](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4.8★ (14,120) | €53 |
 | Both monuments without rushing | [Cathedral, Giralda and Alcázar: 3.5-hour tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4.5★ (2,085) | €65 |
 | A guide just for your group | [Royal Alcázar and Cathedral private tour with tickets](/en/cities/sevilla/activities/royal-alcazar-seville-cathedral-private-tour-tickets), 5.0★ (188) | €300 per group |
 

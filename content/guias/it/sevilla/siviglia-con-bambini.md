@@ -67,7 +67,7 @@ faq:
 | Vedere tutta Siviglia, con Cartuja e Macarena | [Grande tour privato in tuk tuk di 2 ore](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours), fino a 4 persone | 124 € a gruppo |
 | Giro in barca sul fiume | [Crociera guidata sul Guadalquivir](/it/cities/sevilla/activities/siviglia-crociera-guidata-guadalquivir-con-bevanda), 4,7★ (1.746) | 25 € |
 | Ragazzi (dagli 8 anni) | [Kayak sul Guadalquivir](/it/cities/sevilla/activities/siviglia-kayak-sul-guadalquivir), 4,5★ (777) | 17 € |
-| In bici (bambini che pedalano bene) | [Tour in bici di Siviglia (in inglese)](/en/cities/sevilla/activities/seville-bike-tour-group), 4,9★ (1.585) | 28 € |
+| In bici (bambini che pedalano bene) | [Tour in bici di Siviglia (in inglese)](/en/cities/sevilla/activities/seville-bike-tour-group), 4,9★ (1.636) | 28 € |
 | Belvedere al tramonto | [Setas di Siviglia con belvedere a 360°](/it/cities/sevilla/activities/siviglia-biglietto-setas-metropol-parasol-belvedere), 4,6★ (12.014) | 16 € |
 | Alcázar senza code | [Real Alcázar con guida e accesso senza code](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
 | Foto impossibili al coperto | [Museo delle Illusioni](/it/cities/sevilla/activities/biglietto-museo-delle-illusioni-siviglia), 4,2★ (1.352) | 15 € |

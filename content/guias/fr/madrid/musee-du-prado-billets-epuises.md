@@ -59,7 +59,7 @@ Le Prado vend des billets horodatés et n'est presque jamais à court de places 
 
 | Si vous cherchez… | Option | À partir de |
 | --- | --- | --- |
-| Billet horodaté, sans guide | [Billet pour le musée du Prado](/en/cities/madrid/activities/prado-museum-entry-ticket), 4,7★ (23 273) | 18 € |
+| Billet horodaté, sans guide | [Billet pour le musée du Prado](/en/cities/madrid/activities/prado-museum-entry-ticket), 4,7★ (23 644) | 18 € |
 | La mieux notée | [Visite guidée du Prado avec billet](/fr/cities/madrid/activities/musee-du-prado-visite-guidee-billet-inclus), 4,9★ (885) | 49 € |
 | Les trois grands musées | [Pass Paseo del Arte : Prado, Reina Sofía et Thyssen](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen), 4,4★ (489) | 38 € |
 | Rien que pour vous | [Visite privée avec guide officiel](/en/cities/madrid/activities/prado-museum-private-tour-official-guide) | 146 € |

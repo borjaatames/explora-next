@@ -2,7 +2,7 @@
 titulo: 'Lanzarote : excursion d''une demi-journée au parc national de Timanfaya'
 slug: lanzarote-excursion-parc-national-timanfaya-demi-journee
 ciudad: lanzarote
-descripcion: 'Excursion d''une demi-journée au parc national de Timanfaya avec entrée incluse : la Route des Volcans, les démonstrations géothermiques à l''Islote de Hilario et la prise en charge à l''hôtel. Note de 4,4/5 sur plus de 2 800 avis.'
+descripcion: 'Excursion d''une demi-journée au parc national de Timanfaya avec entrée incluse : la Route des Volcans, les démonstrations géothermiques à l''Islote de Hilario et la prise en charge à l''hôtel. Note de 4,3/5 sur plus de 2 800 avis.'
 slugs:
   es: timanfaya-tour-medio-dia
   en: timanfaya-national-park-half-day-tour
@@ -88,8 +88,8 @@ galeria:
   alt: Un volcan de terre rouge à Timanfaya
 - src: /images/actividades/lanzarote/zonas/camellos-echadero.webp
   alt: Dromadaires attendant les visiteurs au point de départ de Timanfaya
-ratingProveedor: 4.4
-numeroOpiniones: 2855
+ratingProveedor: 4.3
+numeroOpiniones: 2901
 atraccionesRelacionadas:
 - timanfaya
 - volcanes

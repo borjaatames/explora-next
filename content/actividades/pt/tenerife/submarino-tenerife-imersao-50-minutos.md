@@ -2,7 +2,7 @@
 titulo: 'Tenerife: imersão de 50 minutos num submarino'
 slug: submarino-tenerife-imersao-50-minutos
 ciudad: tenerife
-descripcion: 'Desça a cerca de 30 metros num submarino verdadeiro a partir de Amarilla Marina, no sul de Tenerife: raias, barracudas e peixes coloridos através de janelas panorâmicas. Autocarro grátis. 4,8/5 com 2.664 avaliações.'
+descripcion: 'Desça a cerca de 30 metros num submarino verdadeiro a partir de Amarilla Marina, no sul de Tenerife: raias, barracudas e peixes coloridos através de janelas panorâmicas. Autocarro grátis. 4,8/5 com 2.670 avaliações.'
 slugs:
   es: submarino-tenerife-inmersion-50-minutos
   en: tenerife-submarine-dive-50-minutes
@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: 'Costa vulcânica do sul de Tenerife'
 ratingProveedor: 4.8
-numeroOpiniones: 2664
+numeroOpiniones: 2670
 publicada: true
 indexar: false
 destacada: false

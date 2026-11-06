@@ -98,7 +98,7 @@ galeria:
 - src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
   alt: La côte sud de Lanzarote près des plages de Papagayo
 ratingProveedor: 4.6
-numeroOpiniones: 1562
+numeroOpiniones: 1587
 atraccionesRelacionadas:
 - mar
 publicada: true

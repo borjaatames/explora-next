@@ -62,7 +62,7 @@ O Real Alcázar é **o palácio real em uso mais antigo da Europa** e um dos mon
 | Só um bilhete com hora marcada, sem fila | [Entrada com hora marcada no Real Alcázar](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket), 4,6★ (36 909) | 20 € |
 | O Alcázar com guia, sem filas | [Visita guiada sem filas ao Real Alcázar](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
 | Um guia num grupo de 10 pessoas ou menos (só em inglês) | [Visita premium ao Alcázar em grupo reduzido](/en/cities/sevilla/activities/seville-alcazar-small-group-guided-tour-premium), 4,9★ | 49,50 € |
-| O essencial de Sevilha numa manhã | [Catedral, Giralda e Alcázar com acesso prioritário](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (9797) | 53 € |
+| O essencial de Sevilha numa manhã | [Catedral, Giralda e Alcázar com acesso prioritário](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14.120) | 53 € |
 | Com tempo livre nos jardins | [Catedral, Giralda e Alcázar: visita de 3h30](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2085) | 65 € |
 
 [actividad: real-alcazar-sevilla-entrada]

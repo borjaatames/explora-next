@@ -54,6 +54,8 @@ The Dalí Theatre-Museum in Figueres sells tickets online by day and time slot, 
 | --- | --- | --- |
 | A guide, without relying on the official site | [Dalí Theatre-Museum guided tour with entry](/en/cities/girona/activities/dali-theatre-museum-figueres-guided-tour), 4.7★ (105) | €31 |
 | To go from Barcelona with transport sorted | [Girona, Figueres and Cadaqués day trip from Barcelona](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4.7★ (2,352) | €40 |
+| A small group from Barcelona with entry and Dalí's house | [Dalí Museum, Portlligat house and Cadaqués, small group](/en/cities/barcelona/activities/dali-museum-house-portlligat-cadaques-small-group-from-barcelona), 4.7★ (1,120) | €109 |
+| A small group with hotel pickup | [Dalí Museum, Cadaqués and Portlligat with hotel pickup](/en/cities/barcelona/activities/dali-triangle-cadaques-small-group-hotel-pickup-barcelona), 4.8★ (246) | €119 + tickets |
 
 ## 1. Check the official website again
 

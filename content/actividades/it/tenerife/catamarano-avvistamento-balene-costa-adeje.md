@@ -2,7 +2,7 @@
 titulo: 'Tenerife: avvistamento di balene in catamarano, Costa Adeje'
 slug: catamarano-avvistamento-balene-costa-adeje
 ciudad: tenerife
-descripcion: Uscita in catamarano per vedere balene e delfini da Costa Adeje, nel sud di Tenerife. Globicefali residenti tutto l'anno e delfini quasi sempre. 4,7/5 su 4.248 recensioni.
+descripcion: Uscita in catamarano per vedere balene e delfini da Costa Adeje, nel sud di Tenerife. Globicefali residenti tutto l'anno e delfini quasi sempre. 4,7/5 su 4.314 recensioni.
 slugs:
   es: catamaran-avistamiento-ballenas-costa-adeje
   en: catamaran-whale-watching-costa-adeje
@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Scogliere lungo la costa sud di Tenerife
 ratingProveedor: 4.7
-numeroOpiniones: 4248
+numeroOpiniones: 4314
 atraccionesRelacionadas:
 - mar
 avisoReserva: "La guida parla spagnolo e inglese: non ci sono spiegazioni in italiano."

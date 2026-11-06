@@ -29,6 +29,10 @@ export const CIUDADES_DE_INDEXABLES: ReadonlySet<string> = new Set([
  * Para abrir otra guía DE, añade aquí su ruta.
  */
 export const GUIAS_DE_INDEXABLES: ReadonlySet<string> = new Set([
+  "/de/guides/barcelona/camp-nou-tour-tickets-ausverkauft",
+  "/de/guides/barcelona/palau-de-la-musica-catalana-tickets-ausverkauft",
+  "/de/guides/madrid/alcazar-segovia-tickets-ausverkauft",
+  "/de/guides/madrid/el-escorial-tickets-ausverkauft",
   "/de/guides/madrid/kathedrale-toledo-tickets",
   "/de/guides/malaga/hoehle-von-nerja-tickets",
   "/de/guides/alicante/costa-blanca-ausfluege-ab-alicante",

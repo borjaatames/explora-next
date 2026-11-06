@@ -61,7 +61,7 @@ El Real Alcázar vende sus entradas por **franjas de 30 minutos con aforo limita
 | --- | --- | --- |
 | Entrada con hora, sin guía | [Entrada al Real Alcázar con acceso prioritario](/ciudades/sevilla/actividades/real-alcazar-sevilla-entrada), 4,6★ (36.909) | 20 € |
 | Con guía y el Cuarto Real Alto | [Real Alcázar, tour guiado sin colas](/ciudades/sevilla/actividades/real-alcazar-sevilla-tour-guiado-skip-line), 4,4★ (510) | 36 € |
-| La más elegida | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (9.797) | 53 € |
+| La más elegida | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (14.120) | 53 € |
 | Con tiempo libre en los jardines | [Catedral, Giralda y Alcázar: tour de 3,5 horas](/ciudades/sevilla/actividades/sevilla-catedral-giralda-alcazar-tour-guiado-3-5h), 4,5★ (2.085) | 65 € |
 
 ## 1. La web oficial y la taquilla del mismo día

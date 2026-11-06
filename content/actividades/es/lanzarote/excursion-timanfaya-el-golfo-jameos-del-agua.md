@@ -2,7 +2,7 @@
 titulo: 'Lanzarote: excursión de día completo a Timanfaya, El Golfo y Jameos del Agua'
 slug: excursion-timanfaya-el-golfo-jameos-del-agua
 ciudad: lanzarote
-descripcion: Excursión en autobús de 7 a 8 horas que une el sur y el norte de la isla en un día, con entradas a Timanfaya y Jameos del Agua, parada en el Charco Verde de El Golfo y recogida en hotel. 4,5/5 con 2.063 reseñas.
+descripcion: Excursión en autobús de 7 a 8 horas que une el sur y el norte de la isla en un día, con entradas a Timanfaya y Jameos del Agua, parada en el Charco Verde de El Golfo y recogida en hotel. 4,5/5 con 2.065 reseñas.
 slugs:
   es: excursion-timanfaya-el-golfo-jameos-del-agua
   en: timanfaya-el-golfo-jameos-del-agua-day-trip
@@ -81,7 +81,7 @@ keywords:
 - excursion el golfo lanzarote
 - excursiones lanzarote con recogida
 ratingProveedor: 4.5
-numeroOpiniones: 2063
+numeroOpiniones: 2065
 atraccionesRelacionadas:
 - timanfaya
 - jameos-cueva

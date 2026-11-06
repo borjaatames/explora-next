@@ -145,8 +145,8 @@ galeria:
   alt: Orilla del Guadalquivir con la Torre del Oro al fondo
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp
   alt: Puentes y canal de la Plaza de España
-ratingProveedor: 4.0
-numeroOpiniones: 4954
+ratingProveedor: 3.9
+numeroOpiniones: 5581
 guiasRelacionadas:
 - sevilla-con-ninos
 publicada: true

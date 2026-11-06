@@ -50,10 +50,10 @@ imagen_alt: "Vue de Malaga depuis l'Alcazaba"
 | Activité | Note | À partir de |
 | --- | --- | --- |
 | [Alcazaba et théâtre romain avec guide](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4,7★ (7 412) | 13 € |
-| [Musée Picasso, entrée avec audioguide](/fr/cities/malaga/activities/billet-musee-picasso-malaga-audioguide) | 4,5★ (13 842) | 13 € |
+| [Musée Picasso, entrée avec audioguide](/fr/cities/malaga/activities/billet-musee-picasso-malaga-audioguide) | 4,5★ (14 246) | 13 € |
 | [Cathédrale, Alcazaba et théâtre avec entrées](/en/cities/malaga/activities/malaga-essentials-cathedral-alcazaba-theatre) | 4,6★ (1 134) | 32,76 € |
 | [Catamaran dans la baie au coucher du soleil](/fr/cities/malaga/activities/malaga-balade-catamaran-baie-coucher-soleil) | 4,4★ (10 537) | 13 € |
-| [Bains arabes Hammam Al Ándalus](/en/cities/malaga/activities/hammam-al-andalus-malaga-ticket) | 4,7★ (2 863) | 60 € |
+| [Bains arabes Hammam Al Ándalus](/en/cities/malaga/activities/hammam-al-andalus-malaga-ticket) | 4,7★ (2 909) | 60 € |
 | [Caminito del Rey guidé depuis Malaga](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4,9★ (19 083) | 72 € |
 
 ## Quand y aller et comment s'y rendre

@@ -2,7 +2,7 @@
 titulo: 'Hammam Al Ándalus Málaga: baños árabes (opción con masaje)'
 slug: hammam-al-andalus-malaga
 ciudad: malaga
-descripcion: 'Sesión de 90 minutos en el Hammam Al Ándalus de Málaga: baños de agua templada, caliente y fría, sala de vapor y té a la menta, con opción de masaje. 4,7/5 con 2.863 reseñas.'
+descripcion: 'Sesión de 90 minutos en el Hammam Al Ándalus de Málaga: baños de agua templada, caliente y fría, sala de vapor y té a la menta, con opción de masaje. 4,7/5 con 2.909 reseñas.'
 slugs:
   es: hammam-al-andalus-malaga
   en: hammam-al-andalus-malaga-ticket
@@ -95,7 +95,7 @@ galeria:
 - src: /images/actividades/malaga/hammam/hammam-wikimedia-ba-os-rabes-hammam-al-ndalus-m-laga-espa-03.webp
   alt: Sala de columnas del Hammam Al Ándalus de Málaga
 ratingProveedor: 4.7
-numeroOpiniones: 2863
+numeroOpiniones: 2909
 publicada: true
 destacada: false
 fecha: '2026-10-04'

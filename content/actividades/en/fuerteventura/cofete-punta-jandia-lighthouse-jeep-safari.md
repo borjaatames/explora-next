@@ -2,7 +2,7 @@
 titulo: 'Fuerteventura: jeep safari to Cofete and Punta Jandía lighthouse'
 slug: cofete-punta-jandia-lighthouse-jeep-safari
 ciudad: fuerteventura
-descripcion: Five-hour 4x4 trip along the dirt tracks of the Jandía peninsula, taking in Cofete beach, Villa Winter, the Punta Jandía lighthouse and free time in El Puertito. Pickup in the south of the island. Rated 4.4/5 from 184 reviews.
+descripcion: Five-hour 4x4 trip along the dirt tracks of the Jandía peninsula, taking in Cofete beach, Villa Winter, the Punta Jandía lighthouse and free time in El Puertito. Pickup in the south of the island. Rated 4.5/5 from 185 reviews.
 slugs:
   es: jeep-safari-cofete-faro-punta-jandia
   en: cofete-punta-jandia-lighthouse-jeep-safari
@@ -65,7 +65,7 @@ preguntasFrecuentes:
   respuesta: No. Bring water and a snack; there is free time in El Puertito.
 - pregunta: How is it different from other Cofete tours?
   respuesta: Besides Cofete and Villa Winter, it goes on to the Punta Jandía lighthouse, the island's southern tip, and stops in El Puertito.
-opinionEditorial: The track to Cofete and Punta Jandía is long and bumpy, and doing it in a 4x4 with a driver saves you from taking a hire car whose insurance usually excludes these tracks. This version adds the Punta Jandía lighthouse to Cofete. Its rating (4.4/5) is a little lower than other Cofete trips, so compare before booking.
+opinionEditorial: The track to Cofete and Punta Jandía is long and bumpy, and doing it in a 4x4 with a driver saves you from taking a hire car whose insurance usually excludes these tracks. This version adds the Punta Jandía lighthouse to Cofete. Its rating (4.5/5) is a little lower than other Cofete trips, so compare before booking.
 guiasRelacionadas:
 - cofete-villa-winter-how-to-get-there
 - what-to-see-in-fuerteventura
@@ -75,8 +75,8 @@ keywords:
 - cofete 4x4 tour
 - punta jandia lighthouse
 - cofete villa winter tour
-ratingProveedor: 4.4
-numeroOpiniones: 184
+ratingProveedor: 4.5
+numeroOpiniones: 185
 atraccionesRelacionadas:
 - sur
 publicada: true

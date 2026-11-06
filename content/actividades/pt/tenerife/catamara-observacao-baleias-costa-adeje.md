@@ -2,7 +2,7 @@
 titulo: 'Tenerife: passeio de observação de baleias em catamarã'
 slug: catamara-observacao-baleias-costa-adeje
 ciudad: tenerife
-descripcion: Passeio de catamarã a partir de Costa Adeje para ver baleias e golfinhos no sul de Tenerife, com paragem para tomar banho. 4,7/5 com 4.248 avaliações.
+descripcion: Passeio de catamarã a partir de Costa Adeje para ver baleias e golfinhos no sul de Tenerife, com paragem para tomar banho. 4,7/5 com 4.314 avaliações.
 slugs:
   es: catamaran-avistamiento-ballenas-costa-adeje
   en: catamaran-whale-watching-costa-adeje
@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Falésias da costa sul de Tenerife
 ratingProveedor: 4.7
-numeroOpiniones: 4248
+numeroOpiniones: 4314
 atraccionesRelacionadas:
 - mar
 publicada: true

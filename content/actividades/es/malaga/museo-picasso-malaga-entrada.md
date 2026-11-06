@@ -2,7 +2,7 @@
 titulo: 'Museo Picasso Málaga: entrada con audioguía'
 slug: museo-picasso-malaga-entrada
 ciudad: malaga
-descripcion: 'Entrada oficial al Museo Picasso Málaga, en el Palacio de Buenavista: más de 140 obras de Picasso en su ciudad natal, exposiciones temporales, restos fenicios y romanos en el sótano y audioguía incluida. 4,5/5 con 13.842 reseñas.'
+descripcion: 'Entrada oficial al Museo Picasso Málaga, en el Palacio de Buenavista: más de 140 obras de Picasso en su ciudad natal, exposiciones temporales, restos fenicios y romanos en el sótano y audioguía incluida. 4,5/5 con 14.246 reseñas.'
 slugs:
   es: museo-picasso-malaga-entrada
   en: picasso-museum-malaga-ticket
@@ -102,7 +102,7 @@ galeria:
 - src: /images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp
   alt: Museo Picasso Málaga
 ratingProveedor: 4.5
-numeroOpiniones: 13842
+numeroOpiniones: 14246
 publicada: true
 destacada: false
 fecha: '2026-10-04'

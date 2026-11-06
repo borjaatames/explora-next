@@ -2,7 +2,7 @@
 titulo: 'Madrid: visita a la plaza de toros de Las Ventas con audioguía'
 slug: plaza-toros-las-ventas-tour-audioguia
 ciudad: madrid
-descripcion: 'Recorre la plaza de toros de Las Ventas (1931), la más grande de España: gradas, ruedo, patio de caballos, Puerta Grande y museo taurino, con audioguía en 10 idiomas. 4,6/5 con 3.598 opiniones.'
+descripcion: 'Recorre la plaza de toros de Las Ventas (1931), la más grande de España: gradas, ruedo, patio de caballos, Puerta Grande y museo taurino, con audioguía en 10 idiomas. 4,6/5 con 3.600 opiniones.'
 slugs:
   es: plaza-toros-las-ventas-tour-audioguia
   en: las-ventas-bullring-tour-audio-guide
@@ -90,7 +90,7 @@ galeria:
 - src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp
   alt: 'Puerta principal de Las Ventas'
 ratingProveedor: 4.6
-numeroOpiniones: 3598
+numeroOpiniones: 3600
 publicada: true
 indexar: false
 destacada: false

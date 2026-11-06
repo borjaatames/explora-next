@@ -62,7 +62,7 @@ O Real Alcázar vende os seus bilhetes por **períodos de 30 minutos com lotaç�
 | --- | --- | --- |
 | Bilhete com hora, sem guia | [Bilhete para o Real Alcázar com acesso prioritário](/pt/cities/sevilla/activities/real-alcazar-sevilha-bilhete-entrada), 4,6★ (36.909) | 20 € |
 | Com guia e o Cuarto Real Alto | [Real Alcázar, visita guiada sem filas](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
-| A mais escolhida | [Catedral, Giralda e Alcázar com acesso prioritário](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (9.797) | 53 € |
+| A mais escolhida | [Catedral, Giralda e Alcázar com acesso prioritário](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14.120) | 53 € |
 | Com tempo livre nos jardins | [Catedral, Giralda e Alcázar: tour de 3,5 horas](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2.085) | 65 € |
 
 ## 1. O site oficial e a bilheteira do próprio dia

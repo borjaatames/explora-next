@@ -2,7 +2,7 @@
 titulo: 'Lanzarote: Timanfaya National Park half-day tour'
 slug: timanfaya-national-park-half-day-tour
 ciudad: lanzarote
-descripcion: 'Half-day trip to Timanfaya National Park with entry included: the Volcano Route, geothermal demonstrations at Islote de Hilario and hotel pickup. Rated 4.4/5 from more than 2,800 reviews.'
+descripcion: 'Half-day trip to Timanfaya National Park with entry included: the Volcano Route, geothermal demonstrations at Islote de Hilario and hotel pickup. Rated 4.3/5 from more than 2,800 reviews.'
 slugs:
   es: timanfaya-tour-medio-dia
   en: timanfaya-national-park-half-day-tour
@@ -91,8 +91,8 @@ galeria:
   alt: A red-earth volcano in Timanfaya
 - src: /images/actividades/lanzarote/zonas/camellos-echadero.webp
   alt: Camels waiting for visitors at the Timanfaya camel station
-ratingProveedor: 4.4
-numeroOpiniones: 2855
+ratingProveedor: 4.3
+numeroOpiniones: 2901
 atraccionesRelacionadas:
 - timanfaya
 - volcanes

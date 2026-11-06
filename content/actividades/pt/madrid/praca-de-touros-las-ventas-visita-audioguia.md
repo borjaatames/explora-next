@@ -2,7 +2,7 @@
 titulo: 'Madrid: visita à praça de touros de Las Ventas com audioguia'
 slug: praca-de-touros-las-ventas-visita-audioguia
 ciudad: madrid
-descripcion: 'Percorra a praça de touros de Las Ventas (1931), a maior de Espanha: bancadas, arena, pátio dos cavalos, Puerta Grande e museu taurino, com audioguia em 10 idiomas. 4,6/5 com 3.598 avaliações.'
+descripcion: 'Percorra a praça de touros de Las Ventas (1931), a maior de Espanha: bancadas, arena, pátio dos cavalos, Puerta Grande e museu taurino, com audioguia em 10 idiomas. 4,6/5 com 3.600 avaliações.'
 slugs:
   es: plaza-toros-las-ventas-tour-audioguia
   en: las-ventas-bullring-tour-audio-guide
@@ -90,7 +90,7 @@ galeria:
 - src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp
   alt: 'Porta principal de Las Ventas'
 ratingProveedor: 4.6
-numeroOpiniones: 3598
+numeroOpiniones: 3600
 publicada: true
 destacada: false
 fecha: '2026-11-02'

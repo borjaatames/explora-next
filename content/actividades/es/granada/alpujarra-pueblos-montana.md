@@ -21,7 +21,7 @@ highlights:
 - Recorrido por los pueblos blancos de la Alpujarra granadina
 - Recogida en hotel incluida
 - Opción de tour privado disponible
-- 4,7 / 5 con 320 reseñas — Guide 4,9 / Transportation 4,8
+- 4,7 / 5 con 358 reseñas — Guide 4,9 / Transportation 4,8
 - 'Idiomas: español e inglés'
 incluye:
 - Transporte ida y vuelta desde Granada
@@ -65,12 +65,12 @@ preguntasFrecuentes:
 - pregunta: ¿Vale la pena con niños?
   respuesta: Sí, especialmente si les gusta la montaña y los pueblos. Eso sí, son 8-10 horas de jornada con coche entre pueblos — para niños menores de 5-6 años puede ser muy largo. A partir de 7-8 años funciona bien.
 - pregunta: ¿En qué se diferencia de la versión 'Originals by GYG'?
-  respuesta: La versión Originals (4,7 · 224 reseñas, 7 horas) es algo más corta y curada por GYG. Esta versión (4,7 · 320 reseñas, 8-10 horas) tiene más reseñas y la ventaja del tour privado opcional. Las dos cubren el mismo territorio, pero esta es más larga (incluye más tiempo de exploración o almuerzo).
+  respuesta: La versión Originals (4,7 · 224 reseñas, 7 horas) es algo más corta y curada por GYG. Esta versión (4,7 · 358 reseñas, 8-10 horas) tiene más reseñas y la ventaja del tour privado opcional. Las dos cubren el mismo territorio, pero esta es más larga (incluye más tiempo de exploración o almuerzo).
 - pregunta: ¿Hay opción privada?
   respuesta: Sí. Disponible al reservar para grupos pequeños. El tour privado permite ritmo personalizado, paradas adicionales y flexibilidad horaria. Ideal para familias o grupos cerrados que quieren autonomía.
 variantes:
 - alpujarra-originals-pueblos-curados
-opinionEditorial: 'La excursión más reseñada a la Alpujarra granadina (320 valoraciones, 4,7 / 5). Recoge en hotel, lleva al Barranco de Poqueira (Pampaneira, Bubión, Capileira — los tres pueblos blancos más fotogénicos de la Alpujarra) y vuelve al final del día. El rating de transporte (4,8) y el de guía (4,9) son altos; el de calidad-precio (4,5) es ligeramente inferior — quizá por el almuerzo opcional, que algunos viajeros critican por falta de claridad sobre precio.
+opinionEditorial: 'La excursión más reseñada a la Alpujarra granadina (358 valoraciones, 4,7 / 5). Recoge en hotel, lleva al Barranco de Poqueira (Pampaneira, Bubión, Capileira — los tres pueblos blancos más fotogénicos de la Alpujarra) y vuelve al final del día. El rating de transporte (4,8) y el de guía (4,9) son altos; el de calidad-precio (4,5) es ligeramente inferior — quizá por el almuerzo opcional, que algunos viajeros critican por falta de claridad sobre precio.
 
 
   Es una excursión perfecta para complementar la Alhambra: si haces Alhambra un día y Alpujarra otro, tienes la Granada urbana + la Granada rural en pocas horas de conducción. Los pueblos están a 1.300-1.500 m de altitud y conservan la arquitectura árabe-bereber de tejados planos y chimeneas blancas — único en España. Pampaneira en concreto es donde más tiempo se para: artesanía local, jamones de Trevélez (a 1.200 m, los más altos de Europa), tiendas de productos típicos.
@@ -109,7 +109,7 @@ galeria:
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
   alt: Terrados con ropa tendida en la Alpujarra
 ratingProveedor: 4.7
-numeroOpiniones: 320
+numeroOpiniones: 358
 publicada: true
 destacada: false
 fecha: '2026-05-16'

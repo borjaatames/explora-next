@@ -2,7 +2,7 @@
 titulo: 'Barcelona: Montjuïc cable car round-trip ticket'
 slug: montjuic-cable-car-barcelona-ticket
 ciudad: barcelona
-descripcion: Round-trip ticket on the Montjuïc cable car, Barcelona's iconic aerial tramway with panoramic views over the city, port and Mediterranean. 4.5/5 with 25,007 reviews.
+descripcion: Round-trip ticket on the Montjuïc cable car, Barcelona's iconic aerial tramway with panoramic views over the city, port and Mediterranean. 4.5/5 with 25,280 reviews.
 slugs:
   es: teleferico-montjuic-barcelona-ticket
   en: montjuic-cable-car-barcelona-ticket
@@ -98,7 +98,7 @@ galeria:
 - src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
   alt: Palau Nacional (MNAC) on the slopes of Montjuïc
 ratingProveedor: 4.5
-numeroOpiniones: 25007
+numeroOpiniones: 25280
 atraccionesRelacionadas:
 - otros-barcelona
 publicada: true

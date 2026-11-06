@@ -124,7 +124,7 @@ If you'd rather not juggle timetables, the bus-and-tram tour of Valldemossa and 
 | [Walking tour with cathedral entry and ensaïmada](/en/cities/mallorca/activities/palma-walking-tour-cathedral-ensaimada), 4.8★ (237) | 2 hr 30 min | €39 |
 | [Old town food tour](/en/cities/mallorca/activities/palma-old-town-food-walking-tour), 4.6★ (663) | 3 hr | €65 |
 | [Drach Caves with concert, from Palma](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma), 4.4★ (1,489) | 5 hr, leaves 9:30 | €54 |
-| [Valldemossa, Sóller and Port de Sóller by bus and tram](/en/cities/mallorca/activities/valldemossa-soller-port-soller-bus-tram-tour), 4.7★ (827) | 6 hr | €49 |
+| [Valldemossa, Sóller and Port de Sóller by bus and tram](/en/cities/mallorca/activities/valldemossa-soller-port-soller-bus-tram-tour), 4.7★ (829) | 6 hr | €49 |
 
 The Drach Caves trip leaves central Palma at 9:30 and is back in the early afternoon, so it only works if you disembark early and sail in the evening.
 

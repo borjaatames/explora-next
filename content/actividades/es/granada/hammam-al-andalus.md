@@ -22,7 +22,7 @@ highlights:
 - Grupo reducido — máximo 6 personas por sesión
 - Masaje de 15 o 30 minutos incluido en el precio
 - Té de menta y agua ilimitados
-- 4,8 / 5 con 1.724 reseñas — el hammam más reseñado de Granada
+- 4,8 / 5 con 1.906 reseñas — el hammam más reseñado de Granada
 incluye:
 - Sesión de 90 minutos en el Hammam Al Ándalus
 - Masaje de 15 o 30 minutos (incluido según opción elegida)
@@ -62,7 +62,7 @@ accesibilidad: NO adaptado para silla de ruedas. Si necesitas accesibilidad, el 
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes con reembolso íntegro.
 preguntasFrecuentes:
 - pregunta: ¿Vale la pena los 70 € frente al Palacio Nazarí (45 €)?
-  respuesta: Depende de qué priorices. Al Ándalus está a los pies de la Alhambra (ubicación icónica), grupos de máximo 6 personas (más íntimo), masaje incluido (no opcional), 1.724 reseñas con 4,8 / 5. Palacio Nazarí cuesta 25 € menos pero el masaje es opcional, y aunque también está en centro la ubicación es menos espectacular. Si quieres lo mejor sin importar precio, Al Ándalus; si presupuesto manda, Palacio Nazarí.
+  respuesta: Depende de qué priorices. Al Ándalus está a los pies de la Alhambra (ubicación icónica), grupos de máximo 6 personas (más íntimo), masaje incluido (no opcional), 1.906 reseñas con 4,8 / 5. Palacio Nazarí cuesta 25 € menos pero el masaje es opcional, y aunque también está en centro la ubicación es menos espectacular. Si quieres lo mejor sin importar precio, Al Ándalus; si presupuesto manda, Palacio Nazarí.
 - pregunta: ¿Por qué grupo de máximo 6?
   respuesta: Para mantener la calidad de la experiencia. El hammam no es un spa industrial — el ambiente íntimo es parte del producto. Con 6 personas por sesión, cada cliente tiene espacio en las salas y el masaje es atendido sin prisas. Algunas reseñas piden incluso menos personas, pero 6 es el límite del operador.
 - pregunta: ¿Vale para una pareja como regalo?
@@ -71,7 +71,7 @@ preguntasFrecuentes:
   respuesta: 15-20 minutos basta. Tras registrarte, te dan toalla y calcetines antideslizantes, te cambias y comienza la sesión a la hora pactada. Lo importante es no llegar tarde — las sesiones son de horario estricto y un retraso te roba minutos de tu propia experiencia.
 variantes:
 - hammam-palacio-nazari
-opinionEditorial: 'La gama alta del catálogo de hammams en Granada: el Hammam Al Ándalus combina ubicación icónica (a los pies de la Alhambra, en lo que fue la mezquita árabe), aforo reducido (máx 6 personas) y masaje incluido para construir la experiencia más completa. Con 4,8 / 5 sobre 1.724 reseñas es el hammam más reseñado de la ciudad y uno de los productos mejor valorados del catálogo completo de Granada.
+opinionEditorial: 'La gama alta del catálogo de hammams en Granada: el Hammam Al Ándalus combina ubicación icónica (a los pies de la Alhambra, en lo que fue la mezquita árabe), aforo reducido (máx 6 personas) y masaje incluido para construir la experiencia más completa. Con 4,8 / 5 sobre 1.906 reseñas es el hammam más reseñado de la ciudad y uno de los productos mejor valorados del catálogo completo de Granada.
 
 
   Los 70 € se justifican: por separado, una sesión de 90 minutos en un hammam premium cuesta 50-60 € y un masaje de 30 min son otros 30-40 €. La opción de 4 idiomas y los grupos reducidos completan el premium. Para visitantes que quieren un final perfecto a un día de Alhambra (que está literalmente al lado) o para parejas que celebran algo especial, este es el plan más cinematográfico de Granada.
@@ -111,7 +111,7 @@ galeria:
 - src: /images/actividades/granada/hammam/hammam-pexels-13088761.webp
   alt: Grifos y pilas de mármol de unos baños árabes
 ratingProveedor: 4.8
-numeroOpiniones: 1724
+numeroOpiniones: 1906
 publicada: true
 destacada: true
 fecha: '2026-05-16'
@@ -120,4 +120,4 @@ fecha_actualizacion: '2026-10-25'
 
 # Hammam Al Ándalus de Granada con masaje
 
-El hammam más reseñado de Granada (1.724 valoraciones, 4,8 / 5). 90 minutos a los pies de la Alhambra, grupo máx 6 personas, masaje incluido y té de menta ilimitado. La gama alta del catálogo de baños árabes.
+El hammam más reseñado de Granada (1.906 valoraciones, 4,8 / 5). 90 minutos a los pies de la Alhambra, grupo máx 6 personas, masaje incluido y té de menta ilimitado. La gama alta del catálogo de baños árabes.

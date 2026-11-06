@@ -2,7 +2,7 @@
 titulo: 'Tenerife: Catamaran whale watching, Costa Adeje'
 slug: catamaran-whale-watching-costa-adeje
 ciudad: tenerife
-descripcion: Catamaran whale and dolphin watching trip from Costa Adeje, the south of Tenerife. Pilot whales resident year-round, dolphins almost guaranteed. 4.7/5 with 4,248 reviews.
+descripcion: Catamaran whale and dolphin watching trip from Costa Adeje, the south of Tenerife. Pilot whales resident year-round, dolphins almost guaranteed. 4.7/5 with 4,314 reviews.
 slugs:
   es: catamaran-avistamiento-ballenas-costa-adeje
   en: catamaran-whale-watching-costa-adeje
@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Cliffs along the south coast of Tenerife
 ratingProveedor: 4.7
-numeroOpiniones: 4248
+numeroOpiniones: 4314
 atraccionesRelacionadas:
 - mar
 publicada: true

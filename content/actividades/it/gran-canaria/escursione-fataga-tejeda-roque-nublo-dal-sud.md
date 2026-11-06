@@ -75,7 +75,7 @@ keywords:
 - fataga gran canaria
 - tour interno gran canaria
 ratingProveedor: 4.4
-numeroOpiniones: 98
+numeroOpiniones: 100
 atraccionesRelacionadas:
 - interior
 - roque-nublo

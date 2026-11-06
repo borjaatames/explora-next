@@ -2,7 +2,7 @@
 titulo: 'Tenerife: 50-minute submarine dive'
 slug: tenerife-submarine-dive-50-minutes
 ciudad: tenerife
-descripcion: 'Descend to about 30 metres in a real submarine from Amarilla Marina, in the south of Tenerife: rays, barracudas and colourful fish behind panoramic windows. Free bus. 4.8/5 with 2,664 reviews.'
+descripcion: 'Descend to about 30 metres in a real submarine from Amarilla Marina, in the south of Tenerife: rays, barracudas and colourful fish behind panoramic windows. Free bus. 4.8/5 with 2,670 reviews.'
 slugs:
   es: submarino-tenerife-inmersion-50-minutos
   en: tenerife-submarine-dive-50-minutes
@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: 'Volcanic coast in southern Tenerife'
 ratingProveedor: 4.8
-numeroOpiniones: 2664
+numeroOpiniones: 2670
 publicada: true
 indexar: false
 destacada: false

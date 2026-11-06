@@ -2,7 +2,7 @@
 titulo: 'Madrid: Las Ventas bullring tour with audio guide'
 slug: las-ventas-bullring-tour-audio-guide
 ciudad: madrid
-descripcion: 'Tour the Las Ventas bullring (1931), the largest in Spain: stands, arena, horse yard, Puerta Grande and bullfighting museum, with an audio guide in 10 languages. 4.6/5 with 3,598 reviews.'
+descripcion: 'Tour the Las Ventas bullring (1931), the largest in Spain: stands, arena, horse yard, Puerta Grande and bullfighting museum, with an audio guide in 10 languages. 4.6/5 with 3,600 reviews.'
 slugs:
   es: plaza-toros-las-ventas-tour-audioguia
   en: las-ventas-bullring-tour-audio-guide
@@ -90,7 +90,7 @@ galeria:
 - src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp
   alt: 'Main gate of Las Ventas'
 ratingProveedor: 4.6
-numeroOpiniones: 3598
+numeroOpiniones: 3600
 publicada: true
 indexar: false
 destacada: false

@@ -2,7 +2,7 @@
 titulo: 'Fuerteventura: safari en jeep a Cofete y al faro de Punta Jandía'
 slug: jeep-safari-cofete-faro-punta-jandia
 ciudad: fuerteventura
-descripcion: Excursión de 5 horas en 4x4 por las pistas de la península de Jandía, con la playa de Cofete, la Villa Winter, el faro de Punta Jandía y tiempo libre en El Puertito. Recogida en el sur de la isla. 4,4/5 con 184 reseñas.
+descripcion: Excursión de 5 horas en 4x4 por las pistas de la península de Jandía, con la playa de Cofete, la Villa Winter, el faro de Punta Jandía y tiempo libre en El Puertito. Recogida en el sur de la isla. 4,5/5 con 185 reseñas.
 slugs:
   es: jeep-safari-cofete-faro-punta-jandia
   en: cofete-punta-jandia-lighthouse-jeep-safari
@@ -65,7 +65,7 @@ preguntasFrecuentes:
   respuesta: No. Lleva agua y algo de comer; hay tiempo libre en El Puertito.
 - pregunta: ¿En qué se diferencia de otros tours a Cofete?
   respuesta: Además de Cofete y la Villa Winter, llega al faro de Punta Jandía, el extremo sur de la isla, y para en El Puertito.
-opinionEditorial: La pista a Cofete y Punta Jandía es larga y bacheada, y hacerla en un 4x4 con conductor evita el problema del coche de alquiler, cuyo seguro no suele cubrir esas pistas. Esta versión suma el faro de Punta Jandía a Cofete. La nota (4,4/5) es algo más baja que la de otras excursiones a Cofete, así que compara antes.
+opinionEditorial: La pista a Cofete y Punta Jandía es larga y bacheada, y hacerla en un 4x4 con conductor evita el problema del coche de alquiler, cuyo seguro no suele cubrir esas pistas. Esta versión suma el faro de Punta Jandía a Cofete. La nota (4,5/5) es algo más baja que la de otras excursiones a Cofete, así que compara antes.
 guiasRelacionadas:
 - cofete-villa-winter-como-llegar
 - que-ver-en-fuerteventura
@@ -75,8 +75,8 @@ keywords:
 - excursion cofete 4x4
 - faro punta jandia
 - cofete villa winter excursion
-ratingProveedor: 4.4
-numeroOpiniones: 184
+ratingProveedor: 4.5
+numeroOpiniones: 185
 atraccionesRelacionadas:
 - sur
 publicada: true

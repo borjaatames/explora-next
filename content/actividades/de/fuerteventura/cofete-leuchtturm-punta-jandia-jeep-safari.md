@@ -2,7 +2,7 @@
 titulo: 'Fuerteventura: Jeep-Safari nach Cofete und zum Leuchtturm Punta Jandía'
 slug: cofete-leuchtturm-punta-jandia-jeep-safari
 ciudad: fuerteventura
-descripcion: 5-stündiger 4x4-Ausflug über die Schotterpisten der Halbinsel Jandía mit Strand von Cofete, Villa Winter, Leuchtturm Punta Jandía und Freizeit in El Puertito. Abholung im Süden der Insel. Bewertet mit 4,4/5 aus 184 Bewertungen.
+descripcion: 5-stündiger 4x4-Ausflug über die Schotterpisten der Halbinsel Jandía mit Strand von Cofete, Villa Winter, Leuchtturm Punta Jandía und Freizeit in El Puertito. Abholung im Süden der Insel. Bewertet mit 4,5/5 aus 185 Bewertungen.
 slugs:
   es: jeep-safari-cofete-faro-punta-jandia
   en: cofete-punta-jandia-lighthouse-jeep-safari
@@ -65,7 +65,7 @@ preguntasFrecuentes:
   respuesta: Nein. Nimm Wasser und einen Snack mit; in El Puertito gibt es Freizeit.
 - pregunta: Was unterscheidet die Tour von anderen Cofete-Touren?
   respuesta: Neben Cofete und der Villa Winter fährt sie weiter bis zum Leuchtturm Punta Jandía an der Südspitze der Insel und hält in El Puertito.
-opinionEditorial: Die Piste nach Cofete und Punta Jandía ist lang und holprig. Mit einem 4x4 samt Fahrer musst du keinen Mietwagen nehmen, dessen Versicherung diese Pisten meist ausschließt. Diese Variante ergänzt Cofete um den Leuchtturm Punta Jandía. Die Bewertung (4,4/5) liegt etwas unter anderen Cofete-Ausflügen, also vergleiche vor der Buchung.
+opinionEditorial: Die Piste nach Cofete und Punta Jandía ist lang und holprig. Mit einem 4x4 samt Fahrer musst du keinen Mietwagen nehmen, dessen Versicherung diese Pisten meist ausschließt. Diese Variante ergänzt Cofete um den Leuchtturm Punta Jandía. Die Bewertung (4,5/5) liegt etwas unter anderen Cofete-Ausflügen, also vergleiche vor der Buchung.
 guiasRelacionadas:
 - cofete-villa-winter-anreise
 - was-sehen-auf-fuerteventura
@@ -75,8 +75,8 @@ keywords:
 - jeep safari fuerteventura cofete
 - leuchtturm punta jandia
 - villa winter cofete tour
-ratingProveedor: 4.4
-numeroOpiniones: 184
+ratingProveedor: 4.5
+numeroOpiniones: 185
 atraccionesRelacionadas:
 - sur
 publicada: true

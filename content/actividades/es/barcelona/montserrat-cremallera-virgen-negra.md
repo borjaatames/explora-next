@@ -99,7 +99,7 @@ galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero.webp
   alt: Altar dorado de la basílica de Montserrat
 ratingProveedor: 4.6
-numeroOpiniones: 7706
+numeroOpiniones: 9606
 publicada: false
 destacada: false
 fecha: '2026-05-15'

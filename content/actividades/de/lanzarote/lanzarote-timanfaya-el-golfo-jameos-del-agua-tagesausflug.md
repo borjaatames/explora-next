@@ -2,7 +2,7 @@
 titulo: 'Lanzarote: Tagesausflug nach Timanfaya, El Golfo und zu den Jameos del Agua'
 slug: lanzarote-timanfaya-el-golfo-jameos-del-agua-tagesausflug
 ciudad: lanzarote
-descripcion: 7- bis 8-stündige Bustour durch den Süden und Norden der Insel an einem Tag, mit Eintritt in Timanfaya und die Jameos del Agua, Stopp am Grünen See von El Golfo und Abholung vom Hotel. Bewertet mit 4,5/5 bei 2.063 Bewertungen.
+descripcion: 7- bis 8-stündige Bustour durch den Süden und Norden der Insel an einem Tag, mit Eintritt in Timanfaya und die Jameos del Agua, Stopp am Grünen See von El Golfo und Abholung vom Hotel. Bewertet mit 4,5/5 bei 2.065 Bewertungen.
 slugs:
   es: excursion-timanfaya-el-golfo-jameos-del-agua
   en: timanfaya-el-golfo-jameos-del-agua-day-trip
@@ -81,7 +81,7 @@ keywords:
 - el golfo lanzarote ausflug
 - lanzarote ausflüge mit abholung
 ratingProveedor: 4.5
-numeroOpiniones: 2063
+numeroOpiniones: 2065
 atraccionesRelacionadas:
 - timanfaya
 - jameos-cueva

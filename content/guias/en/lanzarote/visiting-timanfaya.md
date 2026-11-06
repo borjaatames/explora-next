@@ -58,7 +58,7 @@ opciones:
 | Activity | Rating | From |
 | --- | --- | --- |
 | Official Fire Mountains ticket (island council website) | — | €30 |
-| [Timanfaya National Park half-day tour, with entry and pickup](/en/cities/lanzarote/activities/timanfaya-national-park-half-day-tour) | 4.4★ (2,855) | €59 |
+| [Timanfaya National Park half-day tour, with entry and pickup](/en/cities/lanzarote/activities/timanfaya-national-park-half-day-tour) | 4.3★ (2,901) | €59 |
 | [Timanfaya, Jameos del Agua and Cueva de los Verdes with tickets](/en/cities/lanzarote/activities/timanfaya-jameos-cueva-de-los-verdes-tour) | 4.5★ (2,910) | €89 |
 | [Guided hike among the volcanoes beside Timanfaya](/en/cities/lanzarote/activities/timanfaya-volcano-hike) | 4.8★ (990) | €47 |
 

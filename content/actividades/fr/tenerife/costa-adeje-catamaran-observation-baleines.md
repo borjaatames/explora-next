@@ -2,7 +2,7 @@
 titulo: 'Tenerife : observation des baleines en catamaran depuis Costa Adeje'
 slug: costa-adeje-catamaran-observation-baleines
 ciudad: tenerife
-descripcion: Sortie en catamaran pour observer les baleines et les dauphins depuis Costa Adeje, dans le sud de Tenerife. Globicéphales présents toute l'année, dauphins presque garantis. 4,7/5 sur 4 248 avis.
+descripcion: Sortie en catamaran pour observer les baleines et les dauphins depuis Costa Adeje, dans le sud de Tenerife. Globicéphales présents toute l'année, dauphins presque garantis. 4,7/5 sur 4 314 avis.
 slugs:
   es: catamaran-avistamiento-ballenas-costa-adeje
   en: catamaran-whale-watching-costa-adeje
@@ -93,7 +93,7 @@ galeria:
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Les falaises de la côte sud de Tenerife
 ratingProveedor: 4.7
-numeroOpiniones: 4248
+numeroOpiniones: 4314
 atraccionesRelacionadas:
 - mar
 publicada: true

@@ -2,7 +2,7 @@
 titulo: 'Barcellona: flamenco al Teatro City Hall, il più prenotato della città'
 slug: flamenco-teatro-city-hall-barcellona
 ciudad: barcelona
-descripcion: 'Spettacolo di flamenco di 1 ora al City Hall Theatre, accanto a Plaça de Catalunya. 4 orari al giorno, da 25 €. Il più prenotato di Barcellona: 4,5/5.'
+descripcion: 'Spettacolo di flamenco di 1 ora al City Hall Theatre, accanto a Plaça de Catalunya. 4 orari al giorno, da 25 €. Il più prenotato di Barcellona: 4,6/5.'
 slugs:
   es: flamenco-en-el-teatro-city-hall-mas-vendido
   en: flamenco-show-at-the-theater-city-hall-top-pick
@@ -22,7 +22,7 @@ urlReserva: 'https://www.getyourguide.es/barcelona-l45/barcelona-flamenco-show-a
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- '4,5/5 su 11.305 recensioni: lo spettacolo di flamenco più prenotato di Barcellona'
+- '4,6/5 su 12.657 recensioni: lo spettacolo di flamenco più prenotato di Barcellona'
 - Spettacolo di 1 ora con ballerini noti come Ivan Alcalà, Raúl Ortega, Patricia Domínguez e Yolanda Cortés
 - Canto di Antonio el Mantecao, Miguel de la Tolea, La Tana e Josefa G. Contreras
 - Chitarra di Oliver Haldon ed Eduardo Cortés, percussioni di Joni C. e Jacobo C. Sánchez
@@ -89,7 +89,7 @@ variantes:
 - nombre: VIP
   descripcion: Zona davanti, con 2 bevande o 1 bottiglia di cava o vino da condividere. La visuale migliore.
   precio: 55
-opinionEditorial: 'Il flamenco più prenotato di Barcellona, con oltre 11.000 recensioni e 4,5/5. Il motivo è chiaro: prezzo da 25 €, quattro orari al giorno e posizione centrale. È un teatro, non un tablao: perdi un po'' di intimità, ma vedi bene da ogni posto. La Premium è il miglior compromesso. Se vuoi un''atmosfera più raccolta o la cena, scegli il Cordobés o il Tablao de Carmen.'
+opinionEditorial: 'Il flamenco più prenotato di Barcellona, con oltre 11.000 recensioni e 4,6/5. Il motivo è chiaro: prezzo da 25 €, quattro orari al giorno e posizione centrale. È un teatro, non un tablao: perdi un po'' di intimità, ma vedi bene da ogni posto. La Premium è il miglior compromesso. Se vuoi un''atmosfera più raccolta o la cena, scegli il Cordobés o il Tablao de Carmen.'
 atraccionesRelacionadas:
 - flamenco
 categoria: espectaculos
@@ -120,8 +120,8 @@ galeria:
   alt: Vista aerea di Plaça de Catalunya, accanto al teatro
 - src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
   alt: Plaça de Catalunya vista dall'alto, a pochi passi dal City Hall
-ratingProveedor: 4.5
-numeroOpiniones: 11305
+ratingProveedor: 4.6
+numeroOpiniones: 12657
 publicada: true
 destacada: true
 fecha: '2026-05-17'

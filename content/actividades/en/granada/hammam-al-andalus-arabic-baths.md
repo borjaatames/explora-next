@@ -22,7 +22,7 @@ highlights:
 - Small group — maximum 6 people per session
 - 15 or 30-minute massage included in the price
 - Unlimited mint tea and water
-- 4.8 / 5 with 1,724 reviews — the most-reviewed hammam in Granada
+- 4.8 / 5 with 1,906 reviews — the most-reviewed hammam in Granada
 incluye:
 - 90-minute session at Hammam Al Ándalus
 - 15 or 30-minute massage (included according to chosen option)
@@ -62,7 +62,7 @@ accesibilidad: NOT adapted for wheelchairs. If you need accessibility, Hammam Pa
 politicaCancelacion: Free cancellation up to 24 hours in advance for a full refund.
 preguntasFrecuentes:
 - pregunta: Is it worth €70 over Palacio Nazarí (€45)?
-  respuesta: Depends on what you prioritise. Al Ándalus is at the foot of the Alhambra (iconic location), groups of max 6 people (more intimate), massage included (not optional), 1,724 reviews at 4.8 / 5. Palacio Nazarí costs €25 less but the massage is optional, and although it's also central the location is less spectacular. If you want the best regardless of price, Al Ándalus; if budget is the priority, Palacio Nazarí.
+  respuesta: Depends on what you prioritise. Al Ándalus is at the foot of the Alhambra (iconic location), groups of max 6 people (more intimate), massage included (not optional), 1,906 reviews at 4.8 / 5. Palacio Nazarí costs €25 less but the massage is optional, and although it's also central the location is less spectacular. If you want the best regardless of price, Al Ándalus; if budget is the priority, Palacio Nazarí.
 - pregunta: Why a max group of 6?
   respuesta: To maintain the quality of the experience. The hammam isn't an industrial spa — the intimate atmosphere is part of the product. With 6 people per session, each customer has space in the rooms and the massage is unhurried. Some reviews even ask for fewer people, but 6 is the operator's limit.
 - pregunta: Is it good as a gift for a couple?
@@ -71,7 +71,7 @@ preguntasFrecuentes:
   respuesta: 15-20 minutes is enough. After checking in, you're given a towel and non-slip socks, you change and the session begins at the agreed time. The important thing is not to arrive late — sessions run on strict schedules and any delay eats into your own experience.
 variantes:
 - hammam-nasrid-palace-arabic-baths
-opinionEditorial: 'The high end of Granada''s hammam catalogue: Hammam Al Ándalus combines an iconic location (at the foot of the Alhambra, in what was the Arab mosque), small capacity (max 6 people) and included massage to build the most complete experience. With 4.8 / 5 from 1,724 reviews it''s the most-reviewed hammam in the city and one of the highest-rated products in the entire Granada catalogue.
+opinionEditorial: 'The high end of Granada''s hammam catalogue: Hammam Al Ándalus combines an iconic location (at the foot of the Alhambra, in what was the Arab mosque), small capacity (max 6 people) and included massage to build the most complete experience. With 4.8 / 5 from 1,906 reviews it''s the most-reviewed hammam in the city and one of the highest-rated products in the entire Granada catalogue.
 
 
   The €70 is justified: separately, a 90-minute session at a premium hammam costs €50-60 and a 30-min massage another €30-40. The 4-language option and the small groups round out the premium feel. For visitors who want a perfect end to a day at the Alhambra (which is literally next door), or for couples celebrating something special, this is the most cinematic plan in Granada.
@@ -111,7 +111,7 @@ galeria:
 - src: /images/actividades/granada/hammam/hammam-pexels-13088761.webp
   alt: Taps and marble basins in Arab baths
 ratingProveedor: 4.8
-numeroOpiniones: 1724
+numeroOpiniones: 1906
 publicada: true
 destacada: true
 fecha: '2026-05-16'
@@ -120,4 +120,4 @@ fecha_actualizacion: '2026-10-25'
 
 # Hammam Al Ándalus Granada with Massage
 
-The most-reviewed hammam in Granada (1,724 ratings, 4.8 / 5). 90 minutes at the foot of the Alhambra, max group of 6, included massage and unlimited mint tea. The high end of the Arabic baths catalogue.
+The most-reviewed hammam in Granada (1,906 ratings, 4.8 / 5). 90 minutes at the foot of the Alhambra, max group of 6, included massage and unlimited mint tea. The high end of the Arabic baths catalogue.

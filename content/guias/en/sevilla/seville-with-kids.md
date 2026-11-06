@@ -67,7 +67,7 @@ tiempo_lectura: 3
 | See all of Seville, incl. Cartuja and the Macarena | [2-hour private grand tuk tuk tour](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours), up to 4 people | €124 per group |
 | River boat trip | [Guided Guadalquivir river cruise](/en/cities/sevilla/activities/seville-guadalquivir-river-boat-tour), 4.7★ (1,746) | €25 |
 | Teens (from age 8) | [Kayaking on the Guadalquivir](/en/cities/sevilla/activities/guadalquivir-kayak-rental-seville), 4.5★ (777) | €17 |
-| By bike (confident young riders) | [Seville bike tour](/en/cities/sevilla/activities/seville-bike-tour-group), 4.9★ (1,585) | €28 |
+| By bike (confident young riders) | [Seville bike tour](/en/cities/sevilla/activities/seville-bike-tour-group), 4.9★ (1,636) | €28 |
 | Sunset viewpoint | [Setas de Sevilla with 360° viewpoint](/en/cities/sevilla/activities/seville-setas-metropol-parasol-entry-ticket-viewpoint), 4.6★ (12,014) | €16 |
 | Alcázar without queues | [Royal Alcázar guided tour, skip the line](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4.4★ (510) | €36 |
 | Impossible photos indoors | [Museum of Illusions](/en/cities/sevilla/activities/museum-of-illusions-seville-ticket), 4.2★ (1,352) | €15 |

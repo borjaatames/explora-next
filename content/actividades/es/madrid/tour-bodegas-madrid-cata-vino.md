@@ -105,7 +105,7 @@ galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-white-bowl-filled-olives-tomatoes-hero.webp
   alt: Tapas tradicionales madrileñas
 ratingProveedor: 4.9
-numeroOpiniones: 249
+numeroOpiniones: 308
 publicada: true
 destacada: false
 fecha: '2026-05-14'

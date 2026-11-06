@@ -2,7 +2,7 @@
 titulo: 'Tenerife : plongée de 50 minutes en sous-marin'
 slug: tenerife-plongee-sous-marin-50-minutes
 ciudad: tenerife
-descripcion: 'Descendez à environ 30 mètres dans un vrai sous-marin depuis Amarilla Marina, dans le sud de Tenerife : raies, barracudas et poissons colorés derrière des hublots panoramiques. Bus gratuit. 4,8/5 sur 2 664 avis.'
+descripcion: 'Descendez à environ 30 mètres dans un vrai sous-marin depuis Amarilla Marina, dans le sud de Tenerife : raies, barracudas et poissons colorés derrière des hublots panoramiques. Bus gratuit. 4,8/5 sur 2 670 avis.'
 slugs:
   es: submarino-tenerife-inmersion-50-minutos
   en: tenerife-submarine-dive-50-minutes
@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: 'Côte volcanique du sud de Tenerife'
 ratingProveedor: 4.8
-numeroOpiniones: 2664
+numeroOpiniones: 2670
 publicada: true
 destacada: false
 fecha: '2026-11-02'

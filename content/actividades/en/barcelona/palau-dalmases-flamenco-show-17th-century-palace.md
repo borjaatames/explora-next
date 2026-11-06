@@ -2,7 +2,7 @@
 titulo: 'Barcelona: Palau Dalmases — Flamenco Show in a 17th-Century Palace (El Born)'
 slug: palau-dalmases-flamenco-show-17th-century-palace
 ciudad: barcelona
-descripcion: 'Live 50-55 minute flamenco show at Palau Dalmases, a 17th-century Baroque palace on Carrer Montcada (El Born, next to Picasso Museum). 919 reviews at 4.6/5. VIP / Zone A (with drink included) / Zone B options. Access to the palace art gallery included. 4 daily sessions: 5:30, 6:45, 8 and 9:15 PM.'
+descripcion: 'Live 50-55 minute flamenco show at Palau Dalmases, a 17th-century Baroque palace on Carrer Montcada (El Born, next to Picasso Museum). 1,423 reviews at 4.6/5. VIP / Zone A (with drink included) / Zone B options. Access to the palace art gallery included. 4 daily sessions: 5:30, 6:45, 8 and 9:15 PM.'
 slugs:
   es: palau-dalmases-flamenco-show-palacio-siglo-xvii
   en: palau-dalmases-flamenco-show-17th-century-palace
@@ -23,7 +23,7 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Show in a 17TH-CENTURY BAROQUE PALACE — the most architecturally spectacular venue of Barcelona's top tablaos
-- 919 reviews at 4.6/5 (74% five-star, 17% four-star)
+- 1,423 reviews at 4.6/5 (74% five-star, 17% four-star)
 - Premium location at Carrer Montcada 20 (El Born) — next to Picasso Museum
 - '4 daily sessions: 5:30, 6:45, 8 and 9:15 PM — flexibility to combine with your own dinner'
 - '3 seating zones: VIP (€50 adult, front rows + drink) · Zone A (€40 adult, middle rows + drink) · Zone B (€30 adult, back rows)'
@@ -98,7 +98,7 @@ variantes:
 - nombre: Spanish Dinner Add-on
   descripcion: Traditional Spanish dinner served in the medieval courtyard or art gallery. Vegetarian option available. €35 extra over chosen zone.
   precio: 35
-opinionEditorial: 'The **most architecturally spectacular tablao in Barcelona** — a 17th-century Baroque palace on Carrer Montcada (El Born), the noblest street in the medieval neighbourhood. 919 reviews at 4.6/5 position it in good reputational health, though with lower volume than the leaders (Cordobés 4,617, Tablao de Carmen 2,125, Flamenco at the Theater 11,305). Recurring positive sentiment centers on: (1) the **palace majesty** — visitors repeatedly highlight that the venue alone justifies the ticket, even before the show; (2) the **flexibility of 4 daily sessions** (5:30, 6:45, 8, 9:15 PM) allowing combination with your own dinner at El Born restaurants; (3) the **short 50-min format** that fits any agenda; (4) the **transparency of pricing by zone** (VIP/A/B with drink included or not, clearly differentiated).
+opinionEditorial: 'The **most architecturally spectacular tablao in Barcelona** — a 17th-century Baroque palace on Carrer Montcada (El Born), the noblest street in the medieval neighbourhood. 1,423 reviews at 4.6/5 position it in good reputational health, though with lower volume than the leaders (Cordobés 4,617, Tablao de Carmen 2,125, Flamenco at the Theater 11,305). Recurring positive sentiment centers on: (1) the **palace majesty** — visitors repeatedly highlight that the venue alone justifies the ticket, even before the show; (2) the **flexibility of 4 daily sessions** (5:30, 6:45, 8, 9:15 PM) allowing combination with your own dinner at El Born restaurants; (3) the **short 50-min format** that fits any agenda; (4) the **transparency of pricing by zone** (VIP/A/B with drink included or not, clearly differentiated).
 
 
   **Price comparison:** from €30 it''s the most affordable of the 4 top tablaos — equivalent to Zone B without drink. Zone A (€40 with drink) is the best value: middle rows + drink included costs the same as Cordobés show-only (€48 with drink) but in a more spectacular venue. The VIP (€50) is equivalent to a light dinner at Cordobés (Tapas + Show, €69) — more expensive but with much less food. If you compare equivalent zones, Palau Dalmases comes out as a good mid-to-high option.
@@ -141,7 +141,7 @@ galeria:
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
   alt: Palace façades on Carrer Montcada
 ratingProveedor: 4.6
-numeroOpiniones: 919
+numeroOpiniones: 1423
 publicada: true
 destacada: true
 fecha: '2026-05-17'
@@ -152,7 +152,7 @@ guiasRelacionadas:
 
 ## What you'll see
 
-A **50-55 minute live flamenco show in a 17th-century Baroque palace** — the Palau Dalmases, located at Carrer Montcada 20 (El Born), 100 metres from the Picasso Museum. 919 reviews at 4.6/5 (74% five-star).
+A **50-55 minute live flamenco show in a 17th-century Baroque palace** — the Palau Dalmases, located at Carrer Montcada 20 (El Born), 100 metres from the Picasso Museum. 1,423 reviews at 4.6/5 (74% five-star).
 
 - **The palace as stage:** Palau Dalmases is a Baroque palace built in the 17th century, with a 15th-century reformed Gothic facade and a monumental staircase with Abduction of Europa reliefs. The show takes place in the main hall of the palace, under high ceilings and original architectural elements — natural acoustics are exceptional.
 - **Typical flamenco cuadro:** dancer + singer + guitarist, with handclaps and rhythm. Artists rotate by day. The show is 100% live, no recordings or digital effects.

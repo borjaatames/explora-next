@@ -2,7 +2,7 @@
 titulo: 'Madrid: visita all''arena di Las Ventas con audioguida'
 slug: arena-las-ventas-tour-audioguida
 ciudad: madrid
-descripcion: 'Visita l''arena di Las Ventas (1931), la più grande di Spagna: gradinate, arena, cortile dei cavalli, Puerta Grande e museo taurino, con audioguida in 10 lingue. 4,6/5 con 3.598 recensioni.'
+descripcion: 'Visita l''arena di Las Ventas (1931), la più grande di Spagna: gradinate, arena, cortile dei cavalli, Puerta Grande e museo taurino, con audioguida in 10 lingue. 4,6/5 con 3.600 recensioni.'
 slugs:
   es: plaza-toros-las-ventas-tour-audioguia
   en: las-ventas-bullring-tour-audio-guide
@@ -90,7 +90,7 @@ galeria:
 - src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp
   alt: 'Porta principale di Las Ventas'
 ratingProveedor: 4.6
-numeroOpiniones: 3598
+numeroOpiniones: 3600
 publicada: true
 destacada: false
 fecha: '2026-11-02'

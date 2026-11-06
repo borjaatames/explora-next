@@ -53,7 +53,7 @@ imagen_alt: "Baleia-piloto a vir à superfície ao largo de Tenerife"
 | --- | --- | --- | --- | --- |
 | [Observação de baleias e golfinhos em iate ecológico](/en/cities/tenerife/activities/eco-yacht-whale-dolphin-watching-tenerife) | Los Cristianos | 1h30 | 4,7★ (19 490) | 30 € |
 | [Observação de baleias junto às falésias de Los Gigantes](/en/cities/tenerife/activities/whale-watching-los-gigantes-tenerife) | Los Gigantes | 2-3 h | 4,7★ (5888) | 28 € |
-| [Observação de baleias em catamarã, Costa Adeje](/en/cities/tenerife/activities/catamaran-whale-watching-costa-adeje) | Puerto Colón ou Los Cristianos | 3 h | 4,7★ (4248) | 35 € |
+| [Observação de baleias em catamarã, Costa Adeje](/en/cities/tenerife/activities/catamaran-whale-watching-costa-adeje) | Puerto Colón ou Los Cristianos | 3 h | 4,7★ (4.314) | 35 € |
 | [Observação de baleias em catamarã com almoço buffet](/en/cities/tenerife/activities/catamaran-whale-watching-buffet-tenerife) | Costa sul (zona de Costa Adeje) | 5-6 h | 4,8★ (2242) | 63 € |
 | [Barco privado desde Las Galletas](/en/cities/tenerife/activities/private-whale-watching-boat-las-galletas-tenerife) | Las Galletas | 2 ou 3 h | — | 450 € por barco |
 

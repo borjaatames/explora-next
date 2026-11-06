@@ -58,7 +58,7 @@ opciones:
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | Entrada oficial a las Montañas del Fuego (web del Cabildo) | — | 30 € |
-| [Parque Nacional de Timanfaya en medio día, con entrada y recogida](/ciudades/lanzarote/actividades/timanfaya-tour-medio-dia) | 4,4★ (2.855) | 59 € |
+| [Parque Nacional de Timanfaya en medio día, con entrada y recogida](/ciudades/lanzarote/actividades/timanfaya-tour-medio-dia) | 4,3★ (2.901) | 59 € |
 | [Timanfaya, Jameos del Agua y Cueva de los Verdes con entradas](/ciudades/lanzarote/actividades/timanfaya-jameos-cueva-de-los-verdes) | 4,5★ (2.910) | 89 € |
 | [Senderismo guiado por los volcanes junto a Timanfaya](/ciudades/lanzarote/actividades/senderismo-volcanes-timanfaya) | 4,8★ (990) | 47 € |
 

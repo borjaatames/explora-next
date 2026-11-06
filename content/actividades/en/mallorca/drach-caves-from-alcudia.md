@@ -2,7 +2,7 @@
 titulo: Drach Caves from Alcúdia (northern Mallorca)
 slug: drach-caves-from-alcudia
 ciudad: mallorca
-descripcion: 'Half day from Alcúdia and northern Mallorca to the Drach Caves: transport, skip-the-ticket-line entry, concert on Lake Martel and the option to cross it by boat. The version for families staying in the north. Rated 4.4/5 from 616 reviews.'
+descripcion: 'Half day from Alcúdia and northern Mallorca to the Drach Caves: transport, skip-the-ticket-line entry, concert on Lake Martel and the option to cross it by boat. The version for families staying in the north. Rated 4.3/5 from 641 reviews.'
 slugs:
   es: cuevas-del-drach-desde-alcudia
   en: drach-caves-from-alcudia
@@ -99,8 +99,8 @@ galeria:
   alt: Underground lake in the Caves of Drach
 - src: /images/actividades/mallorca/drach/drach-wikimedia-coves-del-drac-01-jpg-05.webp
   alt: Gallery of stalactites in the Caves of Drach
-ratingProveedor: 4.4
-numeroOpiniones: 616
+ratingProveedor: 4.3
+numeroOpiniones: 641
 publicada: true
 destacada: false
 fecha: '2026-10-04'

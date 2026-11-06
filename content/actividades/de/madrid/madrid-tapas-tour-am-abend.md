@@ -102,7 +102,7 @@ galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-sardina-cana-097-hero.webp
   alt: Caña mit Sardinen-Tapa
 ratingProveedor: 4.9
-numeroOpiniones: 65
+numeroOpiniones: 66
 publicada: true
 indexar: false
 destacada: false

@@ -67,7 +67,7 @@ faq:
 | Cloudy day | [Palma Aquarium](/en/cities/mallorca/activities/palma-aquarium-entry-ticket), 4.5★ (3,744) | €30.5 |
 | Sóller train from the north | [Sóller train and tram, half day](/en/cities/mallorca/activities/soller-train-tram-half-day-from-the-north), 4.4★ (381) | €56 |
 | Train, tram and boat | [Island tour with the Sóller train](/en/cities/mallorca/activities/mallorca-island-tour-soller-train-tram-boat), 4.4★ (4,540) | €103 |
-| Caves with a boat concert | [Drach Caves from Alcúdia](/en/cities/mallorca/activities/drach-caves-from-alcudia), 4.4★ (616) | €54 |
+| Caves with a boat concert | [Drach Caves from Alcúdia](/en/cities/mallorca/activities/drach-caves-from-alcudia), 4.3★ (641) | €54 |
 | Caves from Palma | [Drach Caves with concert and boat ride](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma), 4.4★ (1,489) | €54 |
 | Wild dolphins | [Dolphin watching from Alcúdia](/en/cities/mallorca/activities/alcudia-dolphin-watching), 4.8★ (3,435) | €90 |
 | Treetop adventure | [Forestal Park](/en/cities/mallorca/activities/forestal-park-mallorca-adventure), 4.8★ (277) | €26 |

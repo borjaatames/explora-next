@@ -53,7 +53,7 @@ imagen_alt: "Un globicefalo che emerge al largo di Tenerife"
 | --- | --- | --- | --- | --- |
 | [Avvistamento di balene e delfini in eco-yacht](/it/cities/tenerife/activities/avvistamento-balene-delfini-yacht-ecologico-los-cristianos) | Los Cristianos | 1,5 h | 4,7★ (19.490) | 30 € |
 | [Avvistamento di balene alle scogliere di Los Gigantes](/en/cities/tenerife/activities/whale-watching-los-gigantes-tenerife) | Los Gigantes | 2-3 h | 4,7★ (5.888) | 28 € |
-| [Avvistamento di balene in catamarano, Costa Adeje](/en/cities/tenerife/activities/catamaran-whale-watching-costa-adeje) | Puerto Colón o Los Cristianos | 3 h | 4,7★ (4.248) | 35 € |
+| [Avvistamento di balene in catamarano, Costa Adeje](/en/cities/tenerife/activities/catamaran-whale-watching-costa-adeje) | Puerto Colón o Los Cristianos | 3 h | 4,7★ (4.314) | 35 € |
 | [Avvistamento di balene in catamarano con pranzo a buffet](/en/cities/tenerife/activities/catamaran-whale-watching-buffet-tenerife) | Costa sud (zona Costa Adeje) | 5-6 h | 4,8★ (2.242) | 63 € |
 | [Barca privata da Las Galletas](/en/cities/tenerife/activities/private-whale-watching-boat-las-galletas-tenerife) | Las Galletas | 2 o 3 h | — | 450 € a barca |
 

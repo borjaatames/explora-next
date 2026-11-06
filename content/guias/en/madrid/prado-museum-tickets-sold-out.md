@@ -58,7 +58,7 @@ The Prado sells timed tickets and hardly ever runs out of places for a whole day
 
 | If you want… | Option | From |
 | --- | --- | --- |
-| A timed ticket, no guide | [Prado Museum entry ticket](/en/cities/madrid/activities/prado-museum-entry-ticket), 4.7★ (23,273) | €18 |
+| A timed ticket, no guide | [Prado Museum entry ticket](/en/cities/madrid/activities/prado-museum-entry-ticket), 4.7★ (23,644) | €18 |
 | The top rated | [Prado guided tour with entry](/en/cities/madrid/activities/prado-museum-guided-tour), 4.9★ (885) | €49 |
 | All three big museums | [Art Walk Pass: Prado, Reina Sofía and Thyssen](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen), 4.4★ (489) | €38 |
 | Just your group | [Private tour with an official guide](/en/cities/madrid/activities/prado-museum-private-tour-official-guide) | €146 |

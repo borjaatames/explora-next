@@ -23,7 +23,7 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Un spectacle dans un palais baroque du XVIIe siècle, le cadre le plus spectaculaire des grands tablaos de Barcelone
-- 919 avis à 4,6/5 (74 % de cinq étoiles, 17 % de quatre étoiles)
+- 1 423 avis à 4,6/5 (74 % de cinq étoiles, 17 % de quatre étoiles)
 - Un emplacement de choix au 20 Carrer Montcada (Born), à côté du musée Picasso
 - '4 séances par jour : 17 h 30, 18 h 45, 20 h et 21 h 15, faciles à combiner avec votre dîner'
 - '3 zones : VIP (50 €, premiers rangs + boisson) · Zone A (40 €, rangs centraux + boisson) · Zone B (30 €, rangs arrière)'
@@ -98,7 +98,7 @@ variantes:
 - nombre: Supplément dîner espagnol
   descripcion: Dîner espagnol traditionnel servi dans le patio ou la galerie d’art. Option végétarienne. 35 € en plus de la zone choisie.
   precio: 35
-opinionEditorial: 'C’est le **tablao au cadre le plus spectaculaire de Barcelone** : un palais baroque du XVIIe siècle sur la Carrer Montcada, la rue la plus noble du Born médiéval. Avec 919 avis à 4,6/5, sa réputation est solide, même si le volume est moindre que celui des leaders. Les avis saluent surtout la majesté du palais, qui justifie presque à lui seul le billet, la souplesse des 4 séances quotidiennes, le format court de 50 minutes et la clarté des tarifs par zone. À partir de 30 €, c’est le plus abordable des grands tablaos ; la zone A (40 € avec boisson) offre le meilleur rapport qualité-prix. Deux points pratiques : les sièges ne sont pas étagés (prévoyez un rehausseur pour les enfants ou choisissez la zone A) et la rue est piétonne et pavée, sans stationnement à proximité. Idéal pour qui veut un lieu unique, un format court avant un dîner dans le Born ou une soirée après le musée Picasso ; moins adapté si vous voulez dîner pendant le spectacle (Tablao de Carmen) ou un tablao
+opinionEditorial: 'C’est le **tablao au cadre le plus spectaculaire de Barcelone** : un palais baroque du XVIIe siècle sur la Carrer Montcada, la rue la plus noble du Born médiéval. Avec 1 423 avis à 4,6/5, sa réputation est solide, même si le volume est moindre que celui des leaders. Les avis saluent surtout la majesté du palais, qui justifie presque à lui seul le billet, la souplesse des 4 séances quotidiennes, le format court de 50 minutes et la clarté des tarifs par zone. À partir de 30 €, c’est le plus abordable des grands tablaos ; la zone A (40 € avec boisson) offre le meilleur rapport qualité-prix. Deux points pratiques : les sièges ne sont pas étagés (prévoyez un rehausseur pour les enfants ou choisissez la zone A) et la rue est piétonne et pavée, sans stationnement à proximité. Idéal pour qui veut un lieu unique, un format court avant un dîner dans le Born ou une soirée après le musée Picasso ; moins adapté si vous voulez dîner pendant le spectacle (Tablao de Carmen) ou un tablao
   historique sans micros (Cordobés).'
 atraccionesRelacionadas:
 - flamenco
@@ -131,7 +131,7 @@ galeria:
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
   alt: Façades des palais de la rue Montcada
 ratingProveedor: 4.6
-numeroOpiniones: 919
+numeroOpiniones: 1423
 publicada: true
 destacada: true
 fecha: '2026-11-04'
@@ -143,7 +143,7 @@ metaTitle: 'Palau Dalmases : flamenco à Barcelone'
 
 ## Ce que vous verrez
 
-Un **spectacle de flamenco en direct de 50 à 55 minutes dans un palais baroque du XVIIe siècle** : le Palau Dalmases, au 20 Carrer Montcada (Born), à 100 mètres du musée Picasso. 919 avis à 4,6/5 (74 % de cinq étoiles).
+Un **spectacle de flamenco en direct de 50 à 55 minutes dans un palais baroque du XVIIe siècle** : le Palau Dalmases, au 20 Carrer Montcada (Born), à 100 mètres du musée Picasso. 1 423 avis à 4,6/5 (74 % de cinq étoiles).
 
 - **Le palais comme scène** : d’origine gothique et remanié au XVIIe siècle, il possède un escalier monumental orné des reliefs de l’Enlèvement d’Europe. Le spectacle a lieu dans la salle principale, sous de hauts plafonds aux éléments d’origine ; l’acoustique naturelle est exceptionnelle.
 - **La troupe** : danseur ou danseuse, chanteur ou chanteuse et guitariste, avec palmas et compás. Les artistes changent selon les jours. Le spectacle est 100 % en direct, sans enregistrement ni effets numériques.

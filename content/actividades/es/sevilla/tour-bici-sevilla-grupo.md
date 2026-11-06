@@ -2,7 +2,7 @@
 titulo: 'Sevilla: tour en bici por la ciudad (en inglés)'
 slug: tour-bici-sevilla-grupo
 ciudad: sevilla
-descripcion: 'Tour guiado de 3 horas en bici por Sevilla: Triana, Torre del Oro, San Telmo, el Alcázar, el Parque de María Luisa y la Plaza de España. Sevilla es plana y con carril bici: ideal en familia. Guía en inglés. 4,9/5 con 1.585 reseñas.'
+descripcion: 'Tour guiado de 3 horas en bici por Sevilla: Triana, Torre del Oro, San Telmo, el Alcázar, el Parque de María Luisa y la Plaza de España. Sevilla es plana y con carril bici: ideal en familia. Guía en inglés. 4,9/5 con 1.636 reseñas.'
 slugs:
   es: tour-bici-sevilla-grupo
   en: seville-bike-tour-group
@@ -93,7 +93,7 @@ galeria:
 - src: /images/actividades/sevilla/bici-sevilla/ciclistas-avenida.webp
   alt: Ciclistas por una avenida arbolada
 ratingProveedor: 4.9
-numeroOpiniones: 1585
+numeroOpiniones: 1636
 publicada: true
 destacada: false
 fecha: '2026-10-04'

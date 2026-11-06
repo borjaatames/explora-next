@@ -2,7 +2,7 @@
 titulo: 'Lanzarote: escursione di un giorno a Timanfaya, El Golfo e Jameos del Agua'
 slug: escursione-timanfaya-el-golfo-jameos-del-agua
 ciudad: lanzarote
-descripcion: Tour in pullman di 7-8 ore per vedere il sud e il nord dell'isola in un giorno, con ingresso a Timanfaya e Jameos del Agua, sosta alla Laguna Verde di El Golfo e prelievo in hotel. Valutato 4,5/5 su 2.063 recensioni.
+descripcion: Tour in pullman di 7-8 ore per vedere il sud e il nord dell'isola in un giorno, con ingresso a Timanfaya e Jameos del Agua, sosta alla Laguna Verde di El Golfo e prelievo in hotel. Valutato 4,5/5 su 2.065 recensioni.
 slugs:
   es: excursion-timanfaya-el-golfo-jameos-del-agua
   en: timanfaya-el-golfo-jameos-del-agua-day-trip
@@ -78,7 +78,7 @@ keywords:
 - tour el golfo lanzarote
 - escursioni lanzarote con prelievo in hotel
 ratingProveedor: 4.5
-numeroOpiniones: 2063
+numeroOpiniones: 2065
 atraccionesRelacionadas:
 - timanfaya
 - jameos-cueva

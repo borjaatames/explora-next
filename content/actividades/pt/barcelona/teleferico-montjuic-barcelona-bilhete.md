@@ -2,7 +2,7 @@
 titulo: 'Barcelona: bilhete de ida e volta no teleférico de Montjuïc'
 slug: teleferico-montjuic-barcelona-bilhete
 ciudad: barcelona
-descripcion: 'Bilhete de ida e volta no teleférico de Montjuïc, o teleférico emblemático de Barcelona, com vistas panorâmicas sobre a cidade, o porto e o Mediterrâneo. 4,5/5 com 25.007 avaliações.'
+descripcion: 'Bilhete de ida e volta no teleférico de Montjuïc, o teleférico emblemático de Barcelona, com vistas panorâmicas sobre a cidade, o porto e o Mediterrâneo. 4,5/5 com 25.280 avaliações.'
 slugs:
   es: teleferico-montjuic-barcelona-ticket
   en: montjuic-cable-car-barcelona-ticket
@@ -99,7 +99,7 @@ galeria:
 - src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
   alt: O Palau Nacional (MNAC) na encosta de Montjuïc
 ratingProveedor: 4.5
-numeroOpiniones: 25007
+numeroOpiniones: 25280
 atraccionesRelacionadas:
 - otros-barcelona
 publicada: true

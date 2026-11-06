@@ -2,7 +2,7 @@
 titulo: 'Valldemossa, Sóller y Port de Sóller: excursión en autobús y tranvía'
 slug: valldemossa-soller-port-soller-autobus-tranvia
 ciudad: mallorca
-descripcion: Excursión de 6 horas por la Serra de Tramuntana con guía, en autocar, que pasa por Sóller, baja en el tranvía histórico hasta Port de Sóller y termina con unos 90 minutos libres en Valldemossa. 4,7/5 con 827 reseñas.
+descripcion: Excursión de 6 horas por la Serra de Tramuntana con guía, en autocar, que pasa por Sóller, baja en el tranvía histórico hasta Port de Sóller y termina con unos 90 minutos libres en Valldemossa. 4,7/5 con 829 reseñas.
 slugs:
   es: valldemossa-soller-port-soller-autobus-tranvia
   en: valldemossa-soller-port-soller-bus-tram-tour
@@ -72,7 +72,7 @@ keywords:
 - tour tramuntana mallorca
 - port de soller excursion autobus
 ratingProveedor: 4.7
-numeroOpiniones: 827
+numeroOpiniones: 829
 atraccionesRelacionadas:
 - soller-tramuntana
 - tramuntana

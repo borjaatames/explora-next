@@ -2,7 +2,7 @@
 titulo: 'Barcellona: biglietto di andata e ritorno sulla funivia del Montjuïc'
 slug: funivia-montjuic-barcellona-biglietto
 ciudad: barcelona
-descripcion: Biglietto di andata e ritorno sulla funivia del Montjuïc, la teleferica simbolo di Barcellona, con vista panoramica su città, porto e Mediterraneo. Voto 4,5/5 da 25.007 opinioni.
+descripcion: Biglietto di andata e ritorno sulla funivia del Montjuïc, la teleferica simbolo di Barcellona, con vista panoramica su città, porto e Mediterraneo. Voto 4,5/5 da 25.280 opinioni.
 slugs:
   es: teleferico-montjuic-barcelona-ticket
   en: montjuic-cable-car-barcelona-ticket
@@ -98,7 +98,7 @@ galeria:
 - src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
   alt: Il Palau Nacional (MNAC) sulle pendici del Montjuïc
 ratingProveedor: 4.5
-numeroOpiniones: 25007
+numeroOpiniones: 25280
 atraccionesRelacionadas:
 - otros-barcelona
 publicada: true

@@ -145,8 +145,8 @@ galeria:
   alt: Guadalquivir riverbank with the Torre del Oro in the distance
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp
   alt: Bridges and canal of Plaza de España
-ratingProveedor: 4.0
-numeroOpiniones: 4954
+ratingProveedor: 3.9
+numeroOpiniones: 5581
 guiasRelacionadas:
 - seville-with-kids
 publicada: true

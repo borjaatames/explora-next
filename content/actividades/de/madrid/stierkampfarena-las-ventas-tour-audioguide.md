@@ -2,7 +2,7 @@
 titulo: 'Madrid: Besichtigung der Stierkampfarena Las Ventas mit Audioguide'
 slug: stierkampfarena-las-ventas-tour-audioguide
 ciudad: madrid
-descripcion: 'Besichtigen Sie die Stierkampfarena Las Ventas (1931), die größte Spaniens: Ränge, Arena, Pferdehof, Puerta Grande und Stierkampfmuseum, mit Audioguide in 10 Sprachen. 4,6/5 bei 3.598 Bewertungen.'
+descripcion: 'Besichtigen Sie die Stierkampfarena Las Ventas (1931), die größte Spaniens: Ränge, Arena, Pferdehof, Puerta Grande und Stierkampfmuseum, mit Audioguide in 10 Sprachen. 4,6/5 bei 3.600 Bewertungen.'
 slugs:
   es: plaza-toros-las-ventas-tour-audioguia
   en: las-ventas-bullring-tour-audio-guide
@@ -90,7 +90,7 @@ galeria:
 - src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp
   alt: 'Haupttor von Las Ventas'
 ratingProveedor: 4.6
-numeroOpiniones: 3598
+numeroOpiniones: 3600
 publicada: true
 destacada: false
 fecha: '2026-11-02'

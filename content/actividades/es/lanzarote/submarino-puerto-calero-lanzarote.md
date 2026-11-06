@@ -100,7 +100,7 @@ galeria:
 - src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
   alt: Costa sur de Lanzarote junto a las playas de Papagayo
 ratingProveedor: 4.6
-numeroOpiniones: 1562
+numeroOpiniones: 1587
 atraccionesRelacionadas:
 - mar
 publicada: true

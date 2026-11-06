@@ -59,7 +59,7 @@ Der Prado verkauft Tickets mit fester Uhrzeit und ist fast nie für einen ganzen
 
 | Wenn du … suchst | Option | Ab |
 | --- | --- | --- |
-| Ticket mit Uhrzeit, ohne Guide | [Eintritt ins Prado-Museum](/en/cities/madrid/activities/prado-museum-entry-ticket), 4,7★ (23.273) | 18 € |
+| Ticket mit Uhrzeit, ohne Guide | [Eintritt ins Prado-Museum](/en/cities/madrid/activities/prado-museum-entry-ticket), 4,7★ (23.644) | 18 € |
 | Die am besten bewertete Option | [Führung durch den Prado mit Ticket](/en/cities/madrid/activities/prado-museum-guided-tour), 4,9★ (885) | 49 € |
 | Die drei großen Museen | [Paseo-del-Arte-Pass: Prado, Reina Sofía und Thyssen](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen), 4,4★ (489) | 38 € |
 | Nur für euch | [Private Führung mit offiziellem Guide](/en/cities/madrid/activities/prado-museum-private-tour-official-guide) | 146 € |

@@ -2,7 +2,7 @@
 titulo: 'Musée Picasso Málaga : billet avec audioguide'
 slug: billet-musee-picasso-malaga-audioguide
 ciudad: malaga
-descripcion: 'Billet officiel pour le musée Picasso Málaga, au palais de Buenavista : plus de 140 œuvres de Picasso dans sa ville natale, expositions temporaires, vestiges phéniciens et romains au sous-sol, et audioguide inclus. Note de 4,5/5 sur 13 842 avis.'
+descripcion: 'Billet officiel pour le musée Picasso Málaga, au palais de Buenavista : plus de 140 œuvres de Picasso dans sa ville natale, expositions temporaires, vestiges phéniciens et romains au sous-sol, et audioguide inclus. Note de 4,5/5 sur 14 246 avis.'
 slugs:
   es: museo-picasso-malaga-entrada
   en: picasso-museum-malaga-ticket
@@ -100,7 +100,7 @@ galeria:
 - src: /images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp
   alt: Musée Picasso Málaga
 ratingProveedor: 4.5
-numeroOpiniones: 13842
+numeroOpiniones: 14246
 publicada: true
 destacada: false
 fecha: '2026-10-04'

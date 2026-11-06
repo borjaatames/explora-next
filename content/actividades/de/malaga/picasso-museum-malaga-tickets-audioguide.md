@@ -2,7 +2,7 @@
 titulo: 'Museo Picasso Málaga: Ticket mit Audioguide'
 slug: picasso-museum-malaga-tickets-audioguide
 ciudad: malaga
-descripcion: 'Offizielles Ticket für das Museo Picasso Málaga im Palacio de Buenavista: über 140 Werke von Picasso in seiner Geburtsstadt, Wechselausstellungen, phönizische und römische Überreste im Untergeschoss und Audioguide inklusive. Bewertet mit 4,5/5 bei 13.842 Bewertungen.'
+descripcion: 'Offizielles Ticket für das Museo Picasso Málaga im Palacio de Buenavista: über 140 Werke von Picasso in seiner Geburtsstadt, Wechselausstellungen, phönizische und römische Überreste im Untergeschoss und Audioguide inklusive. Bewertet mit 4,5/5 bei 14.246 Bewertungen.'
 slugs:
   es: museo-picasso-malaga-entrada
   en: picasso-museum-malaga-ticket
@@ -102,7 +102,7 @@ galeria:
 - src: /images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp
   alt: Museo Picasso Málaga
 ratingProveedor: 4.5
-numeroOpiniones: 13842
+numeroOpiniones: 14246
 publicada: true
 destacada: false
 fecha: '2026-10-04'

@@ -2,7 +2,7 @@
 titulo: 'Valldemossa, Sóller und Port de Sóller: Tagesausflug mit Bus und Straßenbahn'
 slug: valldemossa-soller-port-de-soller-bus-strassenbahn
 ciudad: mallorca
-descripcion: 6-stündiger geführter Busausflug durch die Serra de Tramuntana mit Stopp in Sóller, Fahrt mit der historischen Straßenbahn hinunter nach Port de Sóller und zum Abschluss etwa 90 Minuten Freizeit in Valldemossa. Bewertet mit 4,7/5 aus 827 Bewertungen.
+descripcion: 6-stündiger geführter Busausflug durch die Serra de Tramuntana mit Stopp in Sóller, Fahrt mit der historischen Straßenbahn hinunter nach Port de Sóller und zum Abschluss etwa 90 Minuten Freizeit in Valldemossa. Bewertet mit 4,7/5 aus 829 Bewertungen.
 slugs:
   es: valldemossa-soller-port-soller-autobus-tranvia
   en: valldemossa-soller-port-soller-bus-tram-tour
@@ -72,7 +72,7 @@ keywords:
 - tramuntana tour mallorca
 - port de sóller busausflug
 ratingProveedor: 4.7
-numeroOpiniones: 827
+numeroOpiniones: 829
 atraccionesRelacionadas:
 - soller-tramuntana
 - tramuntana

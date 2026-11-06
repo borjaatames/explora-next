@@ -2,7 +2,7 @@
 titulo: 'Teneriffa: Walbeobachtung mit dem Katamaran ab Costa Adeje'
 slug: costa-adeje-katamaran-walbeobachtung
 ciudad: tenerife
-descripcion: Katamaranausflug zur Wal- und Delfinbeobachtung ab Costa Adeje im Süden Teneriffas. Ganzjährig ansässige Grindwale, Delfine fast garantiert. 4,7/5 bei 4.248 Bewertungen.
+descripcion: Katamaranausflug zur Wal- und Delfinbeobachtung ab Costa Adeje im Süden Teneriffas. Ganzjährig ansässige Grindwale, Delfine fast garantiert. 4,7/5 bei 4.314 Bewertungen.
 slugs:
   es: catamaran-avistamiento-ballenas-costa-adeje
   en: catamaran-whale-watching-costa-adeje
@@ -92,7 +92,7 @@ galeria:
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Klippen an der Südküste Teneriffas
 ratingProveedor: 4.7
-numeroOpiniones: 4248
+numeroOpiniones: 4314
 atraccionesRelacionadas:
 - mar
 publicada: true

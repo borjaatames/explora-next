@@ -2,7 +2,7 @@
 titulo: 'Barcelona: Ticket für die Seilbahn auf den Montjuïc, hin und zurück'
 slug: barcelona-seilbahn-montjuic-ticket
 ciudad: barcelona
-descripcion: Ticket hin und zurück für die Seilbahn auf den Montjuïc, Barcelonas ikonische Luftseilbahn mit Panoramablick über Stadt, Hafen und Mittelmeer. 4,5/5 bei 25.007 Bewertungen.
+descripcion: Ticket hin und zurück für die Seilbahn auf den Montjuïc, Barcelonas ikonische Luftseilbahn mit Panoramablick über Stadt, Hafen und Mittelmeer. 4,5/5 bei 25.280 Bewertungen.
 slugs:
   es: teleferico-montjuic-barcelona-ticket
   en: montjuic-cable-car-barcelona-ticket
@@ -98,7 +98,7 @@ galeria:
 - src: /images/actividades/barcelona/montjuic/descarga-11-hero.webp
   alt: Der Palau Nacional (MNAC) am Hang des Montjuïc
 ratingProveedor: 4.5
-numeroOpiniones: 25007
+numeroOpiniones: 25280
 atraccionesRelacionadas:
 - otros-barcelona
 publicada: true

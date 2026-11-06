@@ -60,7 +60,7 @@ La Catedral de Sevilla vende sus entradas **con hora de acceso y aforo limitado*
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |
 | Entrada con hora, sin guía | [Catedral y Giralda sin colas](/ciudades/sevilla/actividades/catedral-sevilla-giralda-entrada-skip-line), 4,6★ (3.500) | 17,50 € |
-| La más elegida | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (9.797) | 53 € |
+| La más elegida | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (14.120) | 53 € |
 | Los dos monumentos con tiempo | [Catedral, Giralda y Alcázar: tour de 3,5 horas](/ciudades/sevilla/actividades/sevilla-catedral-giralda-alcazar-tour-guiado-3-5h), 4,5★ (2.085) | 65 € |
 | Un guía solo para tu grupo | [Real Alcázar y Catedral: tour privado con entradas](/ciudades/sevilla/actividades/real-alcazar-catedral-sevilla-tour-privado-entradas), 5,0★ (188) | 300 € por grupo |
 

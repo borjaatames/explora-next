@@ -58,7 +58,7 @@ Il Prado vende biglietti a orario e quasi mai resta senza posti per un'intera gi
 
 | Se vuoi… | Opzione | Da |
 | --- | --- | --- |
-| Un biglietto a orario, senza guida | [Biglietto d'ingresso al Museo del Prado](/en/cities/madrid/activities/prado-museum-entry-ticket), 4,7★ (23.273) | 18 € |
+| Un biglietto a orario, senza guida | [Biglietto d'ingresso al Museo del Prado](/en/cities/madrid/activities/prado-museum-entry-ticket), 4,7★ (23.644) | 18 € |
 | Il più votato | [Visita guidata al Prado con ingresso](/it/cities/madrid/activities/museo-del-prado-visita-guidata), 4,9★ (885) | 49 € |
 | I tre grandi musei | [Art Walk Pass: Prado, Reina Sofía e Thyssen](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen), 4,4★ (489) | 38 € |
 | Solo il tuo gruppo | [Visita privata con guida ufficiale](/it/cities/madrid/activities/museo-del-prado-tour-privato-guida-ufficiale) | 146 € |

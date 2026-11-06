@@ -2,7 +2,7 @@
 titulo: 'Barcelone : spectacle de flamenco au théâtre City Hall'
 slug: barcelone-spectacle-flamenco-theatre-city-hall
 ciudad: barcelona
-descripcion: 'Une heure de flamenco au City Hall Theatre, le spectacle le plus réservé de Barcelone : 4,5/5 sur 11 305 avis, 4 séances par jour, dès 25 €.'
+descripcion: 'Une heure de flamenco au City Hall Theatre, le spectacle le plus réservé de Barcelone : 4,6/5 sur 12 657 avis, 4 séances par jour, dès 25 €.'
 slugs:
   es: flamenco-en-el-teatro-city-hall-mas-vendido
   en: flamenco-show-at-the-theater-city-hall-top-pick
@@ -22,7 +22,7 @@ urlReserva: https://www.getyourguide.es/barcelona-l45/barcelona-flamenco-show-at
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- 'Le spectacle de flamenco le plus réservé de Barcelone : 11 305 avis à 4,5/5'
+- 'Le spectacle de flamenco le plus réservé de Barcelone : 12 657 avis à 4,6/5'
 - 'Un spectacle d’une heure avec des danseurs reconnus : Ivan Alcalà, Raúl Ortega, Patricia Domínguez, Yolanda Cortés'
 - 'Au chant : Antonio el Mantecao, Miguel de la Tolea, La Tana, Josefa G. Contreras'
 - 'Guitare : Oliver Haldon, Eduardo Cortés. Percussions : Joni C. et Jacobo C. Sánchez'
@@ -72,15 +72,15 @@ accesibilidad: 'NON accessible en fauteuil roulant selon les indications officie
 politicaCancelacion: 'Annulation GRATUITE jusqu’à 24 h avant le début, avec remboursement intégral. À moins de 24 h : aucun remboursement. Retards : le spectacle commence à l’heure ; au-delà de 10 min, l’entrée peut être refusée (à la discrétion du personnel). Changement de date selon disponibilité.'
 preguntasFrecuentes:
 - pregunta: Pourquoi est-ce le spectacle de flamenco le plus réservé de Barcelone ?
-  respuesta: 'Trois raisons : (1) **un prix d’entrée bas**, dès 25 € en Standard, le plus abordable des grands spectacles de flamenco de la ville ; (2) **4 séances par jour** (17 h, 18 h 45, 20 h 30, 22 h) contre 1 ou 2 ailleurs, d’où une bonne disponibilité de dernière minute ; (3) **une grande salle** (environ 300-400 places contre 50-150 dans un tablao traditionnel). Résultat : 11 305 avis, contre 4 617 pour le Cordobés. La note de 4,5/5 est légèrement inférieure à celle des tablaos traditionnels (4,6-4,8) car le format théâtre est moins intime, mais l’impression générale reste très positive.'
+  respuesta: 'Trois raisons : (1) **un prix d’entrée bas**, dès 25 € en Standard, le plus abordable des grands spectacles de flamenco de la ville ; (2) **4 séances par jour** (17 h, 18 h 45, 20 h 30, 22 h) contre 1 ou 2 ailleurs, d’où une bonne disponibilité de dernière minute ; (3) **une grande salle** (environ 300-400 places contre 50-150 dans un tablao traditionnel). Résultat : 12 657 avis, contre 4 617 pour le Cordobés. La note de 4,6/5 est légèrement inférieure à celle des tablaos traditionnels (4,6-4,8) car le format théâtre est moins intime, mais l’impression générale reste très positive.'
 - pregunta: Quelles différences entre Standard, Premium et VIP ?
   respuesta: '**Standard (dès 25 €)** : places à l’arrière du théâtre, sans boisson, vue correcte (gradins). **Premium (environ 40 €)** : zone centrale, 1 boisson incluse (vin, bière, sangria, cava ou soda). Meilleure vue. **VIP (environ 55 €)** : zone avant, 2 boissons OU une bouteille de cava ou de vin à partager. La meilleure expérience. Le Standard à 25 € est imbattable pour une heure de flamenco à Barcelone.'
 - pregunta: Est-ce du flamenco authentique ou un spectacle pour touristes ?
-  respuesta: C’est du **flamenco professionnel avec des artistes reconnus** à la danse, au chant, à la guitare et aux percussions. Certains puristes estiment que le format THÉÂTRE (grande salle et micros) perd l’intimité d’un tablao traditionnel comme le Cordobés (sans micros) ou le Palau Dalmases (palais). Pour la pureté sans amplification, le Cordobés est la référence. Pour un spectacle professionnel bien exécuté, abordable et disponible, le City Hall remplit largement son rôle, comme en témoignent ses 11 305 avis à 4,5/5.
+  respuesta: C’est du **flamenco professionnel avec des artistes reconnus** à la danse, au chant, à la guitare et aux percussions. Certains puristes estiment que le format THÉÂTRE (grande salle et micros) perd l’intimité d’un tablao traditionnel comme le Cordobés (sans micros) ou le Palau Dalmases (palais). Pour la pureté sans amplification, le Cordobés est la référence. Pour un spectacle professionnel bien exécuté, abordable et disponible, le City Hall remplit largement son rôle, comme en témoignent ses 12 657 avis à 4,6/5.
 - pregunta: Peut-on dîner avant le spectacle ?
   respuesta: 'Ce produit N’inclut PAS de dîner. Autour de la Plaça de Catalunya, des centaines de restaurants sont à 2-5 min à pied, des tapas du marché de la Boqueria à la cuisine catalane. Pour un dîner INCLUS avec le spectacle : **Tablao Cordobés** (dîner avant, 69-89 €), **Tablao de Carmen** (dîner pendant, dès 88 €), **Palau Dalmases** (supplément dîner 35 € + spectacle 30-50 €).'
 - pregunta: Quelle différence avec les trois autres grands spectacles de flamenco de Barcelone ?
-  respuesta: '**City Hall (celui-ci)** : grand théâtre, format scénique, prix abordable (dès 25 €), le plus d’avis (11 305), central près de la Plaça de Catalunya. **Cordobés** : tablao historique (1970) sur la Rambla, sans micros, décor nasride, dîner en option. Dès 48 €. **Tablao de Carmen** : au Poble Espanyol (Montjuïc), dîner PENDANT le spectacle, la meilleure note (4,8/5). Dès 88 €. **Palau Dalmases** : palais baroque du XVIIe dans le Born, format court de 50 min, près du musée Picasso. Dès 30 €.'
+  respuesta: '**City Hall (celui-ci)** : grand théâtre, format scénique, prix abordable (dès 25 €), le plus d’avis (12 657), central près de la Plaça de Catalunya. **Cordobés** : tablao historique (1970) sur la Rambla, sans micros, décor nasride, dîner en option. Dès 48 €. **Tablao de Carmen** : au Poble Espanyol (Montjuïc), dîner PENDANT le spectacle, la meilleure note (4,8/5). Dès 88 €. **Palau Dalmases** : palais baroque du XVIIe dans le Born, format court de 50 min, près du musée Picasso. Dès 30 €.'
 variantes:
 - nombre: Standard
   descripcion: Places à l’arrière du théâtre. Sans boisson. L’option la plus abordable.
@@ -91,7 +91,7 @@ variantes:
 - nombre: VIP
   descripcion: Zone avant du théâtre, 2 boissons ou une bouteille de cava ou de vin à partager. La meilleure vue et le meilleur service.
   precio: 55
-opinionEditorial: 'C’est le **spectacle de flamenco le plus réservé de Barcelone** : 11 305 avis à 4,5/5, soit 2,5 fois plus que le Cordobés et 12 fois plus que le Palau Dalmases. Autrement dit, c’est de loin le flamenco que choisissent le plus de voyageurs internationaux, grâce à son prix, son emplacement et ses 4 séances quotidiennes. Dès 25 € en Standard, c’est le plus abordable des grands spectacles de la ville, et le VIP à 55 € reste compétitif. Trois réserves honnêtes sur le format théâtre : la salle est grande (environ 300-400 places), donc moins intime ; il y a des micros, que les puristes évitent ; et certains trouvent le chant moins énergique à la séance de 22 h, préférez 17 h ou 18 h 45 si le chant compte pour vous. Idéal pour les petits budgets, les agendas serrés, les grands groupes et ceux qui découvrent le flamenco ; moins adapté aux puristes, à ceux qui veulent dîner sur place et aux personnes en fauteuil roulant (la salle n’est pas accessible).'
+opinionEditorial: 'C’est le **spectacle de flamenco le plus réservé de Barcelone** : 12 657 avis à 4,6/5, soit 2,5 fois plus que le Cordobés et 12 fois plus que le Palau Dalmases. Autrement dit, c’est de loin le flamenco que choisissent le plus de voyageurs internationaux, grâce à son prix, son emplacement et ses 4 séances quotidiennes. Dès 25 € en Standard, c’est le plus abordable des grands spectacles de la ville, et le VIP à 55 € reste compétitif. Trois réserves honnêtes sur le format théâtre : la salle est grande (environ 300-400 places), donc moins intime ; il y a des micros, que les puristes évitent ; et certains trouvent le chant moins énergique à la séance de 22 h, préférez 17 h ou 18 h 45 si le chant compte pour vous. Idéal pour les petits budgets, les agendas serrés, les grands groupes et ceux qui découvrent le flamenco ; moins adapté aux puristes, à ceux qui veulent dîner sur place et aux personnes en fauteuil roulant (la salle n’est pas accessible).'
 atraccionesRelacionadas:
 - flamenco
 categoria: espectaculos
@@ -122,8 +122,8 @@ galeria:
   alt: Vue aérienne de la Plaça de Catalunya, près du théâtre
 - src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
   alt: La Plaça de Catalunya vue d’en haut, à quelques pas du City Hall
-ratingProveedor: 4.5
-numeroOpiniones: 11305
+ratingProveedor: 4.6
+numeroOpiniones: 12657
 publicada: true
 destacada: true
 fecha: '2026-11-04'
@@ -135,7 +135,7 @@ metaTitle: Flamenco au City Hall, Barcelone
 
 ## Ce que vous verrez
 
-Un **spectacle de flamenco professionnel d’une heure au City Hall Theatre de Barcelone**, le spectacle de flamenco le plus réservé de la ville, avec 11 305 avis à 4,5/5. Emplacement central, près de la Plaça de Catalunya.
+Un **spectacle de flamenco professionnel d’une heure au City Hall Theatre de Barcelone**, le spectacle de flamenco le plus réservé de la ville, avec 12 657 avis à 4,6/5. Emplacement central, près de la Plaça de Catalunya.
 
 - **Une troupe complète d’artistes reconnus** :
   - Danse : Ivan Alcalà, Raúl Ortega, Patricia Domínguez, Yolanda Cortés.

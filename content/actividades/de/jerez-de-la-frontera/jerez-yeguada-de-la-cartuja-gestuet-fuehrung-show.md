@@ -2,7 +2,7 @@
 titulo: 'Jerez: Führung und Show im Gestüt Yeguada de la Cartuja'
 slug: jerez-yeguada-de-la-cartuja-gestuet-fuehrung-show
 ciudad: jerez-de-la-frontera
-descripcion: 2,5-stündige Führung durch die Yeguada de la Cartuja bei Jerez, Heimat des Kartäuserpferdes, mit frei laufenden Fohlen und Stuten und einer Show in der Arena. Bewertet mit 4,8/5 aus 1.073 Bewertungen.
+descripcion: 2,5-stündige Führung durch die Yeguada de la Cartuja bei Jerez, Heimat des Kartäuserpferdes, mit frei laufenden Fohlen und Stuten und einer Show in der Arena. Bewertet mit 4,8/5 aus 1.097 Bewertungen.
 slugs:
   es: yeguada-de-la-cartuja-jerez
   en: yeguada-de-la-cartuja-jerez-tour
@@ -100,7 +100,7 @@ galeria:
 - src: /images/actividades/cadiz/yeguada/yeguada-cartuja-05.webp
   alt: Überdachte Reithalle der Yeguada de la Cartuja
 ratingProveedor: 4.8
-numeroOpiniones: 1073
+numeroOpiniones: 1097
 publicada: true
 indexar: false
 destacada: false

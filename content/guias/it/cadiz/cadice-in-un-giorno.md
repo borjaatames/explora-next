@@ -47,7 +47,7 @@ actividades:
 | [Crociera in catamarano al tramonto con cava](/it/cities/cadiz/activities/cadice-crociera-in-catamarano-al-tramonto) | 4,6★ (856) | 24,50 € |
 | [Giro in catamarano nella baia di Cadice](/it/cities/cadiz/activities/cadice-giro-in-catamarano-baia) | 4,5★ (453) | 19 € |
 | [Jerez: visita alle Bodegas Fundador con degustazione di sherry e brandy](/en/cities/jerez-de-la-frontera/activities/bodegas-fundador-jerez-tasting-tour) | 4,8★ (959) | 18 € |
-| [Jerez: visita all'allevamento Yeguada de la Cartuja e spettacolo](/en/cities/jerez-de-la-frontera/activities/yeguada-de-la-cartuja-jerez-tour) | 4,8★ (1.073) | 19,50 € |
+| [Jerez: visita all'allevamento Yeguada de la Cartuja e spettacolo](/en/cities/jerez-de-la-frontera/activities/yeguada-de-la-cartuja-jerez-tour) | 4,8★ (1.097) | 19,50 € |
 | [Escursione di un giorno ai pueblos blancos della Sierra](/en/cities/cadiz/activities/white-villages-day-trip-from-cadiz) | 4,6★ (58) | 68 € |
 
 La chiave di Cadice non è un monumento, è la **luce** e il **mare su quattro lati**. È la "Tacita de Plata" (piccola tazza d'argento), una città di ironia, friggitorie e tramonti alla Caleta. Chi la vede solo di passaggio da Siviglia si porta a casa metà città; chi resta per il tramonto si porta a casa l'altra metà, che è la migliore.

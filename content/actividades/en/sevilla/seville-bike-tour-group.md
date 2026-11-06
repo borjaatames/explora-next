@@ -2,7 +2,7 @@
 titulo: 'Seville: city bike tour'
 slug: seville-bike-tour-group
 ciudad: sevilla
-descripcion: '3-hour guided bike tour of Seville: Triana, Torre del Oro, San Telmo, the Alcázar, María Luisa Park and Plaza de España. Seville is flat with cycle lanes: ideal for families. English-speaking guide. Rated 4.9/5 from 1,585 reviews.'
+descripcion: '3-hour guided bike tour of Seville: Triana, Torre del Oro, San Telmo, the Alcázar, María Luisa Park and Plaza de España. Seville is flat with cycle lanes: ideal for families. English-speaking guide. Rated 4.9/5 from 1,636 reviews.'
 slugs:
   es: tour-bici-sevilla-grupo
   en: seville-bike-tour-group
@@ -93,7 +93,7 @@ galeria:
 - src: /images/actividades/sevilla/bici-sevilla/ciclistas-avenida.webp
   alt: Cyclists on a tree-lined avenue
 ratingProveedor: 4.9
-numeroOpiniones: 1585
+numeroOpiniones: 1636
 publicada: true
 destacada: false
 fecha: '2026-10-04'

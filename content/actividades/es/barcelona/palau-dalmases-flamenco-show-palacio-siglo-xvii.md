@@ -2,7 +2,7 @@
 titulo: 'Barcelona: Palau Dalmases — Espectáculo Flamenco en un Palacio del Siglo XVII (El Born)'
 slug: palau-dalmases-flamenco-show-palacio-siglo-xvii
 ciudad: barcelona
-descripcion: 'Espectáculo de flamenco en directo de 50-55 minutos en el Palau Dalmases, un palacio barroco del siglo XVII situado en Carrer Montcada (Born, junto al Museo Picasso). 919 reseñas con 4,6/5. Opciones VIP / Zona A (con bebida incluida) / Zona B. Acceso a la galería de arte del palacio incluido. 4 pases diarios: 17:30, 18:45, 20:00 y 21:15.'
+descripcion: 'Espectáculo de flamenco en directo de 50-55 minutos en el Palau Dalmases, un palacio barroco del siglo XVII situado en Carrer Montcada (Born, junto al Museo Picasso). 1.423 reseñas con 4,6/5. Opciones VIP / Zona A (con bebida incluida) / Zona B. Acceso a la galería de arte del palacio incluido. 4 pases diarios: 17:30, 18:45, 20:00 y 21:15.'
 slugs:
   es: palau-dalmases-flamenco-show-palacio-siglo-xvii
   en: palau-dalmases-flamenco-show-17th-century-palace
@@ -23,7 +23,7 @@ cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
 - Espectáculo en un PALACIO BARROCO DEL SIGLO XVII — el venue arquitectónicamente más espectacular de los tablaos top de Barcelona
-- 919 reseñas con 4,6/5 (74 % cinco estrellas, 17 % cuatro estrellas)
+- 1.423 reseñas con 4,6/5 (74 % cinco estrellas, 17 % cuatro estrellas)
 - Ubicación premium en Carrer Montcada 20 (Born) — junto al Museo Picasso
 - '4 pases diarios: 17:30, 18:45, 20:00 y 21:15 — flexibilidad para combinar con cena propia'
 - '3 zonas de asiento: VIP (50 € adulto, primeras filas + bebida) · Zona A (40 € adulto, filas centrales + bebida) · Zona B (30 € adulto, filas traseras)'
@@ -98,7 +98,7 @@ variantes:
 - nombre: Spanish Dinner Add-on
   descripcion: Cena tradicional española servida en el patio medieval o galería de arte. Opción vegetariana disponible. 35 € extra sobre la zona elegida.
   precio: 35
-opinionEditorial: 'El **tablao más arquitectónicamente espectacular de Barcelona** — un palacio barroco del siglo XVII en Carrer Montcada (Born), la calle más noble del barrio medieval. 919 reseñas con 4,6/5 lo posicionan en buena salud reputacional, aunque con menos volumen que los líderes (Cordobés 4.617, Tablao de Carmen 2.125, Flamenco at the Theater 11.305). El sentimiento positivo recurrente se centra en: (1) la **majestuosidad del palacio** — los visitantes destacan repetidamente que el venue por sí solo justifica el ticket, antes incluso del show; (2) la **flexibilidad de 4 pases diarios** (17:30, 18:45, 20:00, 21:15) que permite combinar con cena propia en restaurantes del Born; (3) el **formato corto de 50 min** que encaja en cualquier agenda; (4) la **transparencia de precios por zona** (VIP/A/B con bebida incluida o no, claramente diferenciado).
+opinionEditorial: 'El **tablao más arquitectónicamente espectacular de Barcelona** — un palacio barroco del siglo XVII en Carrer Montcada (Born), la calle más noble del barrio medieval. 1.423 reseñas con 4,6/5 lo posicionan en buena salud reputacional, aunque con menos volumen que los líderes (Cordobés 4.617, Tablao de Carmen 2.125, Flamenco at the Theater 11.305). El sentimiento positivo recurrente se centra en: (1) la **majestuosidad del palacio** — los visitantes destacan repetidamente que el venue por sí solo justifica el ticket, antes incluso del show; (2) la **flexibilidad de 4 pases diarios** (17:30, 18:45, 20:00, 21:15) que permite combinar con cena propia en restaurantes del Born; (3) el **formato corto de 50 min** que encaja en cualquier agenda; (4) la **transparencia de precios por zona** (VIP/A/B con bebida incluida o no, claramente diferenciado).
 
 
   **Comparación de precios:** desde 30 € es el más asequible de los 4 tablaos top — equivalente a la Zona B sin bebida. La Zona A (40 € con bebida) es la mejor relación calidad-precio: filas centrales + bebida incluida cuesta lo mismo que el solo-show del Cordobés (48 € con drink) pero en venue más espectacular. La VIP (50 €) es el equivalente a una cena ligera en Cordobés (Tapas + Show, 69 €) — más cara pero con mucho menos comida. Si comparas zonas equivalentes, Palau Dalmases sale como buena opción media-alta.
@@ -141,7 +141,7 @@ galeria:
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
   alt: Fachada de los palacios de la calle Montcada
 ratingProveedor: 4.6
-numeroOpiniones: 919
+numeroOpiniones: 1423
 publicada: true
 destacada: true
 fecha: '2026-05-17'
@@ -152,7 +152,7 @@ guiasRelacionadas:
 
 ## Qué vas a ver
 
-Un **espectáculo de flamenco en directo de 50-55 minutos en un palacio barroco del siglo XVII** — el Palau Dalmases, situado en Carrer Montcada 20 (Born), a 100 metros del Museo Picasso. 919 reseñas con 4,6/5 (74 % cinco estrellas).
+Un **espectáculo de flamenco en directo de 50-55 minutos en un palacio barroco del siglo XVII** — el Palau Dalmases, situado en Carrer Montcada 20 (Born), a 100 metros del Museo Picasso. 1.423 reseñas con 4,6/5 (74 % cinco estrellas).
 
 - **El palacio como escenario:** el Palau Dalmases es un palacio barroco construido en el siglo XVII, con fachada gótica del s. XV reformada y escalera monumental con relieves del Rapto de Europa. El espectáculo se desarrolla en la sala principal del palacio, bajo techos altos y elementos arquitectónicos originales — la acústica natural es excepcional.
 - **Cuadro flamenco habitual:** bailaor/bailaora + cantaor/cantaora + guitarrista, con palmas y compás. Los artistas rotan según el día. El show es 100 % en directo, sin grabaciones ni efectos digitales.

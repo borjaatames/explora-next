@@ -60,7 +60,7 @@ A Catedral de Sevilha vende os seus bilhetes **com hora de acesso e lotação li
 | Se procura… | Opção | Desde |
 | --- | --- | --- |
 | Bilhete com hora, sem guia | [Catedral e Giralda sem filas](/pt/cities/sevilla/activities/catedral-sevilha-giralda-bilhete-sem-filas), 4,6★ (3.500) | 17,50 € |
-| A mais escolhida | [Catedral, Giralda e Alcázar com acesso prioritário](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (9.797) | 53 € |
+| A mais escolhida | [Catedral, Giralda e Alcázar com acesso prioritário](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14.120) | 53 € |
 | Os dois monumentos com tempo | [Catedral, Giralda e Alcázar: tour de 3,5 horas](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2.085) | 65 € |
 | Um guia só para o seu grupo | [Real Alcázar e Catedral: tour privado com bilhetes](/en/cities/sevilla/activities/royal-alcazar-seville-cathedral-private-tour-tickets), 5,0★ (188) | 300 € por grupo |
 
