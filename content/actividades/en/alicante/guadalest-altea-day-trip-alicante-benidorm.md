@@ -95,6 +95,8 @@ galeria:
   alt: 'Flower-lined street in Altea''s old town'
 - src: /images/actividades/alicante/excursiones/altea-iglesia.webp
   alt: 'Blue domes of Altea''s church'
+- src: /images/actividades/alicante/excursiones/algar-cascada.webp
+  alt: 'Waterfall at the Fuentes del Algar'
 ---
 
 ## What you will see

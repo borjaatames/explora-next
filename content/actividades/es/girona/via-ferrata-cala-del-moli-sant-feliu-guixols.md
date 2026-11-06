@@ -94,17 +94,19 @@ imagen: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-escaladores-r
 imagenAlt: "Dos personas progresando por una vía ferrata en pared de roca"
 galeria:
 - src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
-  alt: "Bahía de Sant Feliu de Guíxols vista desde la costa"
+  alt: 'Bahía de Sant Feliu de Guíxols vista desde la costa'
 - src: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-escaladora-casco.webp
-  alt: "Escaladora con casco y arnés en una vía ferrata"
+  alt: 'Escaladora con casco y arnés en una vía ferrata'
 - src: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-mosquetones-cable.webp
-  alt: "Mosquetones enganchados al cable de vida de una vía ferrata"
+  alt: 'Mosquetones enganchados al cable de vida de una vía ferrata'
 - src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-  alt: "Acantilados y calas de la Costa Brava"
+  alt: 'Acantilados y calas de la Costa Brava'
 - src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
-  alt: "Camino de ronda junto al mar al atardecer"
+  alt: 'Camino de ronda junto al mar al atardecer'
 - src: /images/actividades/girona/fgi-sant-feliu/fgi-sant-feliu-barcas-playa.webp
-  alt: "Barcas de pesca en la playa de Sant Feliu de Guíxols"
+  alt: 'Barcas de pesca en la playa de Sant Feliu de Guíxols'
+- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
+  alt: 'Cala rocosa de aguas turquesas en la Costa Brava'
 ---
 
 ## Qué vas a ver

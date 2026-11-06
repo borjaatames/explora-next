@@ -71,17 +71,19 @@ imagen: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
 imagenAlt: Flamenco-Gitarrist spielt auf der Bühne
 galeria:
 - src: /images/actividades/cordoba/flamenco/bailaora.webp
-  alt: Tänzerin mit weißem Manton während einer Flamenco-Show
+  alt: 'Tänzerin mit weißem Manton während einer Flamenco-Show'
 - src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: Flamenco-Tänzer mitten im Tanz auf der Bühne
+  alt: 'Flamenco-Tänzer mitten im Tanz auf der Bühne'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: Flamenco-Sängerin auf einer Bühne
+  alt: 'Flamenco-Sängerin auf einer Bühne'
 - src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: Flamenco-Gitarrist spielt live
+  alt: 'Flamenco-Gitarrist spielt live'
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: Gasse im jüdischen Viertel von Córdoba mit dem Turm der Mezquita im Hintergrund
+  alt: 'Gasse im jüdischen Viertel von Córdoba mit dem Turm der Mezquita im Hintergrund'
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
-  alt: Turm der Mezquita-Catedral, von einer Gasse im jüdischen Viertel aus gesehen
+  alt: 'Turm der Mezquita-Catedral, von einer Gasse im jüdischen Viertel aus gesehen'
+- src: /images/actividades/cordoba/flamenco/guitarrista.webp
+  alt: 'Flamenco-Gitarrist mit Hut spielt live'
 ratingProveedor: 4.8
 numeroOpiniones: 32
 atraccionesRelacionadas:

@@ -88,6 +88,8 @@ galeria:
   alt: 'Columns of the Baelo Claudia basilica'
 - src: /images/actividades/cadiz/tarifa/tarifa-playa-los-lances-kitesurf.webp
   alt: 'Playa de los Lances in Tarifa with kitesurfing kites'
+- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-04.webp
+  alt: 'Forum of Baelo Claudia'
 bokunProductId: 132421
 fecha_actualizacion: '2026-10-24'
 privada: true

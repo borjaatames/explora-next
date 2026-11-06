@@ -74,18 +74,16 @@ keywords:
 imagen: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
 imagenAlt: 'La tour vitrée des ascenseurs du Reina Sofía vue depuis une rue voisine'
 galeria:
-- src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: La tour vitrée des ascenseurs du Reina Sofía vue depuis une rue voisine
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
-  alt: "Le musée Reina Sofía à Madrid"
+  alt: 'Le musée Reina Sofía à Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
-  alt: Les ascenseurs vitrés sur la façade du musée Reina Sofía
+  alt: 'Les ascenseurs vitrés sur la façade du musée Reina Sofía'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
-  alt: Façade du musée Reina Sofía sur la Plaza de Juan Goytisolo, Madrid
+  alt: 'Façade du musée Reina Sofía sur la Plaza de Juan Goytisolo, Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
-  alt: "Le musée Reina Sofía à Madrid"
+  alt: 'Le musée Reina Sofía à Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
-  alt: "Le musée Reina Sofía à Madrid"
+  alt: 'Le musée Reina Sofía à Madrid'
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

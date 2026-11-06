@@ -96,17 +96,19 @@ imagen: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-bailao
 imagenAlt: Flamenco-Tänzerin mit Fächer vor der Tür der Casa de la Memoria
 galeria:
 - src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-patio-interior.webp
-  alt: Innenhof der Casa de la Memoria im Zentrum Sevillas
+  alt: 'Innenhof der Casa de la Memoria im Zentrum Sevillas'
 - src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-sala-escenario.webp
-  alt: Saal und Bühne der Casa de la Memoria
+  alt: 'Saal und Bühne der Casa de la Memoria'
 - src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-bailaora-manton.webp
-  alt: Tänzerin mit Manton aus dem Ensemble der Casa de la Memoria
+  alt: 'Tänzerin mit Manton aus dem Ensemble der Casa de la Memoria'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
-  alt: Die Setas de la Encarnación, wenige Gehminuten entfernt
+  alt: 'Die Setas de la Encarnación, wenige Gehminuten entfernt'
 - src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-patio-andalu-hero.webp
-  alt: Andalusischer Innenhof der Casa de la Memoria
+  alt: 'Andalusischer Innenhof der Casa de la Memoria'
 - src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp
-  alt: Publikum bei der intimen Flamenco-Show
+  alt: 'Publikum bei der intimen Flamenco-Show'
+- src: /images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp
+  alt: 'Der Metropol Parasol über der Plaza de la Encarnación'
 ratingProveedor: 4.8
 numeroOpiniones: 13526
 atraccionesRelacionadas:

@@ -77,6 +77,8 @@ galeria:
   alt: 'Pareja sentada en la cubierta del velero'
 - src: https://imgcdn.bokun.tools/6a7c6910-76ad-4585-bead-710819b28eea.jpg
   alt: 'Pareja caminando por las rocas de una cala de Ibiza'
+- src: /images/actividades/ibiza/fotos-biblioteca/pexels-33838897.webp
+  alt: 'Ses Illetes de Formentera con barcos fondeados'
 publicada: true
 indexar: false
 destacada: false

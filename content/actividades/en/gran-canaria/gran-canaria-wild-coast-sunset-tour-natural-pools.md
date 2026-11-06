@@ -92,17 +92,19 @@ imagen: /images/actividades/gran-canaria/costa-norte/fgc-atardecer-atlantico-tei
 imagenAlt: "Sunset over the Atlantic from the north coast of Gran Canaria, with Mount Teide on the horizon"
 galeria:
 - src: /images/actividades/gran-canaria/costa-norte/fgc-piscina-natural-roca-aerea.webp
-  alt: "Aerial view of a natural rock pool among volcanic rocks by the ocean"
+  alt: 'Aerial view of a natural rock pool among volcanic rocks by the ocean'
 - src: /images/actividades/gran-canaria/norte/agaete-puerto-nieves-hero.webp
-  alt: "Puerto de las Nieves in Agaete, on the north-west coast of Gran Canaria"
+  alt: 'Puerto de las Nieves in Agaete, on the north-west coast of Gran Canaria'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-paseo-maritimo-acantilados-agaete.webp
-  alt: "Seafront promenade below the cliffs of Agaete"
+  alt: 'Seafront promenade below the cliffs of Agaete'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-playa-piedras-agaete.webp
-  alt: "Pebble beach and white houses in Agaete"
+  alt: 'Pebble beach and white houses in Agaete'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-oleaje-costa-norte-nubes.webp
-  alt: "Atlantic waves under a cloudy sky on the north coast of Gran Canaria"
+  alt: 'Atlantic waves under a cloudy sky on the north coast of Gran Canaria'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-orilla-atardecer-norte.webp
-  alt: "The north coast of Gran Canaria at dusk"
+  alt: 'The north coast of Gran Canaria at dusk'
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
+  alt: 'The cascade on the Paseo de Canarias in Firgas'
 avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 

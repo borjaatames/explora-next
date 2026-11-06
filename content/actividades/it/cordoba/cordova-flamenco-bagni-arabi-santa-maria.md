@@ -80,17 +80,19 @@ imagen: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
 imagenAlt: "Chitarrista di flamenco che suona sul palco"
 galeria:
 - src: /images/actividades/cordoba/flamenco/bailaora.webp
-  alt: "Ballerina di flamenco con scialle bianco durante uno spettacolo"
+  alt: 'Ballerina di flamenco con scialle bianco durante uno spettacolo'
 - src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: "Ballerino in piena danza sul palco"
+  alt: 'Ballerino in piena danza sul palco'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Cantante di flamenco che canta su un palco"
+  alt: 'Cantante di flamenco che canta su un palco'
 - src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: "Chitarrista di flamenco che suona dal vivo"
+  alt: 'Chitarrista di flamenco che suona dal vivo'
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Strada della Judería di Cordova con la torre della Mezquita sullo sfondo"
+  alt: 'Strada della Judería di Cordova con la torre della Mezquita sullo sfondo'
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
-  alt: "Torre della Mezquita-Cattedrale vista da una strada della Judería"
+  alt: 'Torre della Mezquita-Cattedrale vista da una strada della Judería'
+- src: /images/actividades/cordoba/flamenco/guitarrista.webp
+  alt: 'Chitarrista di flamenco con cappello che suona dal vivo'
 ---
 
 ## Cosa vedrai

@@ -77,17 +77,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/947a08cc-01d6-4c24-b38d-0ee9677e993c.jpeg
-  alt: Barra de un bar de tapas con botellas en la pared
+  alt: 'Barra de un bar de tapas con botellas en la pared'
 - src: /images/actividades/malaga/tapas-mercado/atarazanas-05.webp
-  alt: Aceitunas aloreñas a la venta en el mercado
+  alt: 'Aceitunas aloreñas a la venta en el mercado'
 - src: https://imgcdn.bokun.tools/7b64c179-60d3-4a07-8fed-a92ec421372c.jpeg
-  alt: Mostrador con embutidos y tapas
+  alt: 'Mostrador con embutidos y tapas'
 - src: /images/actividades/malaga/tapas-mercado/atarazanas-01.webp
-  alt: Vidriera de la fachada del mercado de Atarazanas
+  alt: 'Vidriera de la fachada del mercado de Atarazanas'
 - src: https://imgcdn.bokun.tools/f67e5b83-a28d-4868-9154-b6740fd22de8.jpeg
-  alt: Brindis con copas de vino tinto
+  alt: 'Brindis con copas de vino tinto'
 - src: https://imgcdn.bokun.tools/e7511114-179f-4bd4-a2ae-976f5e41243b.jpeg
-  alt: Tapa servida en un plato
+  alt: 'Tapa servida en un plato'
+- src: /images/actividades/malaga/tapas-mercado/clase-tapas-01.webp
+  alt: 'Alumnos cocinando con el chef en una clase de cocina española'
 bokunProductId: 936399
 fecha_actualizacion: '2026-10-24'
 privada: true

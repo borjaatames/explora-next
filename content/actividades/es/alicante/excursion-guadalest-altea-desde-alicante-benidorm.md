@@ -95,6 +95,8 @@ galeria:
   alt: 'Calle con flores en el casco antiguo de Altea'
 - src: /images/actividades/alicante/excursiones/altea-iglesia.webp
   alt: 'Cúpulas azules de la iglesia de Altea'
+- src: /images/actividades/alicante/excursiones/algar-cascada.webp
+  alt: 'Pequeña cascada en el río Algar'
 ---
 
 ## Qué vas a ver

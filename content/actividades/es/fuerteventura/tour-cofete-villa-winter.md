@@ -92,6 +92,8 @@ galeria:
   alt: 'Cresta del macizo de Jandía sobre la playa de Cofete'
 - src: /images/actividades/fuerteventura/zonas/cofete-pico.webp
   alt: 'La playa de Cofete y el pico del Islote'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Morro Jable y la playa del Matorral desde la montaña'
 ratingProveedor: 4.8
 numeroOpiniones: 1952
 atraccionesRelacionadas:

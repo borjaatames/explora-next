@@ -83,17 +83,19 @@ imagen: /images/actividades/salamanca/universidad/biblioteca.webp
 imagenAlt: "Biblioteca storica dell'Università di Salamanca"
 galeria:
 - src: /images/actividades/salamanca/universidad/fachada-universidad.webp
-  alt: "Facciata plateresca dell'Università di Salamanca"
+  alt: 'Facciata plateresca dell''Università di Salamanca'
 - src: /images/actividades/salamanca/universidad/medallon-reyes.webp
-  alt: "Medaglione dei Re Cattolici sulla facciata"
+  alt: 'Medaglione dei Re Cattolici sulla facciata'
 - src: /images/actividades/salamanca/universidad/biblioteca-interior.webp
-  alt: "Portale interno che conduce alla biblioteca"
+  alt: 'Portale interno che conduce alla biblioteca'
 - src: /images/actividades/salamanca/universidad/biblioteca-estanterias.webp
-  alt: "Scaffali e globi nella biblioteca storica"
+  alt: 'Scaffali e globi nella biblioteca storica'
 - src: /images/actividades/salamanca/universidad/patio-escuelas.webp
-  alt: "Cortile delle Escuelas Menores"
+  alt: 'Cortile delle Escuelas Menores'
 - src: /images/actividades/salamanca/universidad/escuelas-menores.webp
-  alt: "Chiostro delle Escuelas Menores"
+  alt: 'Chiostro delle Escuelas Menores'
+- src: /images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero-hero.webp
+  alt: 'Edifici storici di Salamanca con le torri della Clerecía'
 ---
 
 ## Cosa vedrai

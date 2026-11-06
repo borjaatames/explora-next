@@ -91,6 +91,8 @@ galeria:
   alt: 'L''Almudena et le Palais royal au coucher du soleil'
 - src: /images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp
   alt: 'Plaza de Santa Ana'
+- src: /images/actividades/madrid/ebike/ciclista-bicicleta-electrica-paseo.webp
+  alt: 'Cycliste sur un vélo électrique avec la mer en arrière-plan'
 ratingProveedor: 4.8
 numeroOpiniones: 1936
 publicada: true

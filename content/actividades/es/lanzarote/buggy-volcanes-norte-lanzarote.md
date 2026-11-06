@@ -88,15 +88,19 @@ imagen: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
 imagenAlt: Cactus entre rocas volcánicas en Guatiza, al norte de Lanzarote
 galeria:
 - src: /images/actividades/lanzarote/buggy-volcanes.webp
-  alt: Buggy por una pista de tierra entre volcanes en Lanzarote
+  alt: 'Buggy por una pista de tierra entre volcanes en Lanzarote'
 - src: /images/actividades/lanzarote/zonas/molino-jardin-cactus.webp
-  alt: Molino blanco sobre el Jardín de Cactus de Guatiza
+  alt: 'Molino blanco sobre el Jardín de Cactus de Guatiza'
 - src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp
-  alt: La Graciosa y el estrecho de El Río desde el Mirador del Río
+  alt: 'La Graciosa y el estrecho de El Río desde el Mirador del Río'
 - src: /images/actividades/lanzarote/zonas/casa-tradicional-verde.webp
-  alt: Casa tradicional encalada con balcón de madera verde
+  alt: 'Casa tradicional encalada con balcón de madera verde'
 - src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
-  alt: Cultivos sobre ceniza volcánica con montañas al fondo
+  alt: 'Cultivos sobre ceniza volcánica con montañas al fondo'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'Costa sur de Lanzarote junto a las playas de Papagayo'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Acantilados de lava en Los Hervideros, con volcanes al fondo'
 ratingProveedor: 4.6
 numeroOpiniones: 5653
 atraccionesRelacionadas:

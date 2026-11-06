@@ -84,15 +84,19 @@ imagen: /images/actividades/lanzarote/minicrucero-papagayo.webp
 imagenAlt: Catamarã fundeado numa enseada de Papagayo
 galeria:
 - src: /images/actividades/lanzarote/zonas/papagayo-banistas.webp
-  alt: Banhistas numa enseada de Papagayo
+  alt: 'Banhistas numa enseada de Papagayo'
 - src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
-  alt: Costa sul de Lanzarote junto às praias de Papagayo
+  alt: 'Costa sul de Lanzarote junto às praias de Papagayo'
 - src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
-  alt: Barcos amarrados na Marina Rubicón, em Playa Blanca
+  alt: 'Barcos amarrados na Marina Rubicón, em Playa Blanca'
 - src: /images/actividades/lanzarote/zonas/marina-rubicon-veleros.webp
-  alt: Veleiros na Marina Rubicón com os vulcões ao fundo
+  alt: 'Veleiros na Marina Rubicón com os vulcões ao fundo'
 - src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
-  alt: Enseada de Papagayo com águas turquesa e rochas vulcânicas
+  alt: 'Enseada de Papagayo com águas turquesa e rochas vulcânicas'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Falésias de lava em Los Hervideros, com vulcões ao fundo'
+- src: /images/actividades/lanzarote/zonas/playa-blanca.webp
+  alt: 'A praia de Playa Blanca, no sul de Lanzarote'
 ratingProveedor: 4.7
 numeroOpiniones: 436
 atraccionesRelacionadas:

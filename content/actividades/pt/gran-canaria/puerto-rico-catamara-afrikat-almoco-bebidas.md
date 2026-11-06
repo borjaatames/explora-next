@@ -103,6 +103,8 @@ galeria:
   alt: 'Peixes sobre o fundo arenoso em águas de Gran Canária'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
   alt: 'Baía e praia de Puerto Rico de Gran Canaria'
+- src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
+  alt: 'Porto de Puerto Rico de Gran Canaria visto do alto'
 ---
 
 ## O que vai ver

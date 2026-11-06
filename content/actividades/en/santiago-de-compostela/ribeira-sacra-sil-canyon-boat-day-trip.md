@@ -84,17 +84,19 @@ imagen: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-canon-sil-d
 imagenAlt: "Walls of the Sil canyon seen from the catamaran"
 galeria:
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-mirador-canon-sil.webp
-  alt: "View of the Sil canyon from a viewpoint"
+  alt: 'View of the Sil canyon from a viewpoint'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-meandro-sil.webp
-  alt: "Meander of the River Sil in the Ribeira Sacra"
+  alt: 'Meander of the River Sil in the Ribeira Sacra'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-vinedos-bancales-sil.webp
-  alt: "Terraced vineyards above the River Sil"
+  alt: 'Terraced vineyards above the River Sil'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-estela-barco-sil.webp
-  alt: "Boat wake while cruising the Sil canyon"
+  alt: 'Boat wake while cruising the Sil canyon'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-laderas-ribeira-sacra.webp
-  alt: "Ribeira Sacra hillsides above the Sil"
+  alt: 'Ribeira Sacra hillsides above the Sil'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/x-ribeira-sacra-pexels-16664200.webp
-  alt: "The Sil canyon from above"
+  alt: 'The Sil canyon from above'
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-vinedos-valle-sil.webp
+  alt: 'Vineyards and the Sil valley in the Ribeira Sacra'
 ---
 
 ## What you will see

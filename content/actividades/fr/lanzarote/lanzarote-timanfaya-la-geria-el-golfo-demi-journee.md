@@ -85,17 +85,19 @@ imagen: /images/actividades/lanzarote/timanfaya/flz-volcan-nubes.webp
 imagenAlt: "Volcan rougeâtre sous les nuages à Timanfaya"
 galeria:
 - src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
-  alt: "Paysage du parc national de Timanfaya avec la mer en arrière-plan"
+  alt: 'Paysage du parc national de Timanfaya avec la mer en arrière-plan'
 - src: /images/actividades/lanzarote/la-geria/flz-hoyos-ladera.webp
-  alt: "Fosses de vigne entourées de murets de pierre sur un versant de La Geria"
+  alt: 'Fosses de vigne entourées de murets de pierre sur un versant de La Geria'
 - src: /images/actividades/lanzarote/el-golfo/flz-caldera-panoramica.webp
-  alt: "Vue panoramique du cratère d'El Golfo au bord de l'océan"
+  alt: 'Vue panoramique du cratère d''El Golfo au bord de l''océan'
 - src: /images/actividades/lanzarote/el-golfo/flz-mirador-cuerda.webp
-  alt: "Belvédère sur le Charco de los Clicos à El Golfo"
+  alt: 'Belvédère sur le Charco de los Clicos à El Golfo'
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
-  alt: "Los Hervideros, falaises de lave au bord de la mer"
+  alt: 'Los Hervideros, falaises de lave au bord de la mer'
 - src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
-  alt: "Rangées de fosses plantées de vignes à La Geria vues d'en haut"
+  alt: 'Rangées de fosses plantées de vignes à La Geria vues d''en haut'
+- src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
+  alt: 'Coulée de lave solidifiée à Timanfaya'
 ---
 
 ## Ce que vous verrez

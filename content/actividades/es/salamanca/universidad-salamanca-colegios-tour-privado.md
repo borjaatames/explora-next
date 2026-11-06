@@ -86,17 +86,19 @@ imagen: /images/actividades/salamanca/universidad/biblioteca.webp
 imagenAlt: "Biblioteca histórica de la Universidad de Salamanca"
 galeria:
 - src: /images/actividades/salamanca/universidad/fachada-universidad.webp
-  alt: "Fachada plateresca de la Universidad de Salamanca"
+  alt: 'Fachada plateresca de la Universidad de Salamanca'
 - src: /images/actividades/salamanca/universidad/medallon-reyes.webp
-  alt: "Medallón de los Reyes Católicos en la fachada"
+  alt: 'Medallón de los Reyes Católicos en la fachada'
 - src: /images/actividades/salamanca/universidad/biblioteca-interior.webp
-  alt: "Portada interior de acceso a la biblioteca"
+  alt: 'Portada interior de acceso a la biblioteca'
 - src: /images/actividades/salamanca/universidad/biblioteca-estanterias.webp
-  alt: "Estanterías y globos terráqueos de la biblioteca histórica"
+  alt: 'Estanterías y globos terráqueos de la biblioteca histórica'
 - src: /images/actividades/salamanca/universidad/patio-escuelas.webp
-  alt: "Patio de Escuelas Menores"
+  alt: 'Patio de Escuelas Menores'
 - src: /images/actividades/salamanca/universidad/escuelas-menores.webp
-  alt: "Claustro de Escuelas Menores"
+  alt: 'Claustro de Escuelas Menores'
+- src: /images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero-hero.webp
+  alt: 'Edificios históricos de Salamanca con las torres de la Clerecía'
 ---
 
 ## Qué vas a ver

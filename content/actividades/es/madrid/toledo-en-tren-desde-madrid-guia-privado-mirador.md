@@ -75,6 +75,10 @@ galeria:
   alt: 'Panorámica de Toledo'
 - src: https://imgcdn.bokun.tools/5eb9ea78-5112-4254-a0cf-10fb65b0653f.jpg
   alt: 'Arcos de la sinagoga de Santa María la Blanca'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-spain-bridge-castle-fortress-hero.webp
+  alt: 'Panorámica de Toledo con el Alcázar'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
+  alt: 'Alcázar de Toledo sobre la ciudad'
 publicada: true
 indexar: false
 destacada: false

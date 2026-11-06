@@ -89,17 +89,19 @@ imagen: /images/actividades/santiago-de-compostela/catedral/fsc-privado-fachada-
 imagenAlt: "Baroque Obradoiro façade of Santiago Cathedral"
 galeria:
 - src: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
-  alt: "Nave of Santiago Cathedral"
+  alt: 'Nave of Santiago Cathedral'
 - src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
-  alt: "Cloister vaults in the cathedral museum"
+  alt: 'Cloister vaults in the cathedral museum'
 - src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: "Rúa do Vilar in the old town"
+  alt: 'Rúa do Vilar in the old town'
 - src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: "Praza da Quintana"
+  alt: 'Praza da Quintana'
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: "Praza das Praterías"
+  alt: 'Praza das Praterías'
 - src: /images/actividades/santiago-de-compostela/catedral/botafumeiro.webp
-  alt: "The botafumeiro in the cathedral"
+  alt: 'The botafumeiro in the cathedral'
+- src: /images/actividades/santiago-de-compostela/catedral/tribuna.webp
+  alt: 'Gallery and arches of the nave'
 ---
 
 ## What you will see

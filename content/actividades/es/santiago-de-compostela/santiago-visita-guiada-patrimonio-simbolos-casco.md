@@ -91,6 +91,8 @@ galeria:
   alt: 'Ornamento con escudo en la fachada del Obradoiro'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-obradoiro-hostal.webp
   alt: 'Plaza del Obradoiro con el Hostal dos Reis Católicos'
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: 'Praza da Quintana'
 ---
 
 ## Qué vas a ver

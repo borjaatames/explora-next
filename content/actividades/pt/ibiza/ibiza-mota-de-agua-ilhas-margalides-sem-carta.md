@@ -95,17 +95,19 @@ imagen: /images/actividades/ibiza/moto-agua/fi2-motos-agua-junto-islote.webp
 imagenAlt: "Duas motas de água a navegar junto a um ilhéu"
 galeria:
 - src: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
-  alt: "Baía de Sant Antoni, ponto de partida"
+  alt: 'Baía de Sant Antoni, ponto de partida'
 - src: /images/actividades/ibiza/moto-agua/fi2-motos-agua-mar-abierto.webp
-  alt: "Motas de água em mar aberto"
+  alt: 'Motas de água em mar aberto'
 - src: /images/actividades/ibiza/moto-agua/fi2-bahia-sant-antoni-desde-arriba.webp
-  alt: "Vista da baía de Sant Antoni com barcos fundeados"
+  alt: 'Vista da baía de Sant Antoni com barcos fundeados'
 - src: /images/actividades/ibiza/moto-agua/fi2-moto-agua-olas.webp
-  alt: "Condutor de capacete a conduzir uma mota de água entre ondas"
+  alt: 'Condutor de capacete a conduzir uma mota de água entre ondas'
 - src: /images/actividades/ibiza/moto-agua/fi2-acantilados-costa-norte.webp
-  alt: "Falésias da costa norte de Ibiza, perto de Cala Salada"
+  alt: 'Falésias da costa norte de Ibiza, perto de Cala Salada'
 - src: /images/actividades/ibiza/moto-agua/fi2-moto-agua-estela.webp
-  alt: "Mota de água a deixar uma esteira de espuma"
+  alt: 'Mota de água a deixar uma esteira de espuma'
+- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
+  alt: 'Barcos no porto de Sant Antoni'
 ---
 
 ## O que vai ver

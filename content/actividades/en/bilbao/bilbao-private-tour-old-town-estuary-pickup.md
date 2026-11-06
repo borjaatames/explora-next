@@ -72,6 +72,10 @@ galeria:
   alt: 'Mother and daughter at a viewpoint over Bilbao'
 - src: https://imgcdn.bokun.tools/6c9f7cae-95eb-4ac8-ace3-952cd6c9cd81.jpg
   alt: 'The Guggenheim Bilbao reflected in the estuary'
+- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
+  alt: 'Bilbao seen from Mount Artxanda'
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: 'Plaza Nueva in Bilbao Old Town'
 publicada: true
 indexar: false
 destacada: false

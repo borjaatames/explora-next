@@ -101,6 +101,10 @@ galeria:
   alt: 'Delfini sulla costa sud di Tenerife'
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
   alt: 'Spiaggia di Los Cristianos'
+- src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
+  alt: 'Imbarcazione per l''avvistamento con passeggeri accanto a un branco di globicefali a Tenerife'
+- src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+  alt: 'Una persona in kayak arancione in mare aperto'
 ratingProveedor: 4.8
 numeroOpiniones: 962
 publicada: true

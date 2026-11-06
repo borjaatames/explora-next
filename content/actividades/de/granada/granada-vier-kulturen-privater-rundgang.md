@@ -87,17 +87,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/f7536f42-96d4-4b7d-80b7-c65b5630fcd6.jpg
-  alt: Die Alhambra von einer Gasse im Albaicín aus gesehen
+  alt: 'Die Alhambra von einer Gasse im Albaicín aus gesehen'
 - src: https://imgcdn.bokun.tools/16c9e572-7fdf-4373-8f09-0ae90cbe822b.jpg
-  alt: Reisende mit Granada im Hintergrund
+  alt: 'Reisende mit Granada im Hintergrund'
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: Weiß getünchte Höhlenwohnungen im Sacromonte
+  alt: 'Weiß getünchte Höhlenwohnungen im Sacromonte'
 - src: https://imgcdn.bokun.tools/bfb2d3de-7fa1-480d-af0d-3849f6a986f1.jpg
-  alt: Paar vor der Alhambra bei Sonnenuntergang
+  alt: 'Paar vor der Alhambra bei Sonnenuntergang'
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
-  alt: Hauptfassade der Kathedrale von Granada, von Alonso Cano
+  alt: 'Hauptfassade der Kathedrale von Granada, von Alonso Cano'
 - src: https://imgcdn.bokun.tools/f661330d-1a47-46d8-96ff-5e0c374eba6b.jpg
-  alt: Sonnenuntergang über Granada von einem Aussichtspunkt
+  alt: 'Sonnenuntergang über Granada von einem Aussichtspunkt'
+- src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
+  alt: 'Höhlenhäuser am Hang des Sacromonte, Granada'
 bokunProductId: 793773
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

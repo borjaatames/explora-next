@@ -91,6 +91,10 @@ galeria:
   alt: 'Surfistas en Playa de las Américas'
 - src: /images/actividades/tenerife/cristianos/playa-honda.webp
   alt: 'Playa del sur de Tenerife'
+- src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
+  alt: 'Costa de Palm-Mar, junto a Las Galletas'
+- src: /images/actividades/tenerife/cristianos/montana-guaza.webp
+  alt: 'Montaña de Guaza, en la costa sur de Tenerife'
 ratingProveedor: 4.8
 numeroOpiniones: 1679
 publicada: true

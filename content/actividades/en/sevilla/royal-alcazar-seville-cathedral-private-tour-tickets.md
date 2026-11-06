@@ -78,17 +78,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/bfbc0b1b-4d2c-4e04-984a-27bbe7471bc6.jpg
-  alt: Gilded dome of a hall in the Royal Alcázar
+  alt: 'Gilded dome of a hall in the Royal Alcázar'
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
-  alt: Gothic vaults of Seville Cathedral
+  alt: 'Gothic vaults of Seville Cathedral'
 - src: https://imgcdn.bokun.tools/96ae4c41-656d-41e1-864a-fb99b499f571.jpg
-  alt: Guide with travellers by the Alcázar and the Giralda
+  alt: 'Guide with travellers by the Alcázar and the Giralda'
 - src: https://imgcdn.bokun.tools/f73caabd-9386-42bc-9291-c345cecf9922.jpg
-  alt: Pool and gallery in the Alcázar gardens
+  alt: 'Pool and gallery in the Alcázar gardens'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
-  alt: Seville Cathedral façade among palm trees
+  alt: 'Seville Cathedral façade among palm trees'
 - src: https://imgcdn.bokun.tools/b9bc79b3-0d62-475d-b9f1-18858f496161.jpg
-  alt: View over Seville from the top of the Giralda
+  alt: 'View over Seville from the top of the Giralda'
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp
+  alt: 'Mudéjar arcades of the Real Alcázar in Seville'
 bokunProductId: 793770
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

@@ -83,17 +83,19 @@ imagen: /images/actividades/gran-canaria/vegueta/fgc-calle-vegueta-terraza.webp
 imagenAlt: "Pedestrian street in the old town of Las Palmas with a café terrace"
 galeria:
 - src: /images/actividades/gran-canaria/vegueta/fgc-fachadas-colores-las-palmas.webp
-  alt: "Colourful façades in Las Palmas de Gran Canaria"
+  alt: 'Colourful façades in Las Palmas de Gran Canaria'
 - src: /images/actividades/gran-canaria/vegueta/plaza-santa-ana.webp
-  alt: "Plaza de Santa Ana in Vegueta"
+  alt: 'Plaza de Santa Ana in Vegueta'
 - src: /images/actividades/gran-canaria/vegueta/catedral-santa-ana.webp
-  alt: "Santa Ana Cathedral in Vegueta"
+  alt: 'Santa Ana Cathedral in Vegueta'
 - src: /images/actividades/gran-canaria/vegueta/vegueta-calle.webp
-  alt: "Cobbled street in Vegueta"
+  alt: 'Cobbled street in Vegueta'
 - src: /images/actividades/gran-canaria/vegueta/vegueta-ermita.webp
-  alt: "Chapel with bougainvillea in Vegueta"
+  alt: 'Chapel with bougainvillea in Vegueta'
 - src: /images/actividades/gran-canaria/vegueta/fgc-catedral-lateral-jardin.webp
-  alt: "Side of Santa Ana Cathedral with its garden"
+  alt: 'Side of Santa Ana Cathedral with its garden'
+- src: /images/actividades/gran-canaria/vegueta/fgc-vegueta-desde-campanario.webp
+  alt: 'Vegueta seen from the bell tower of Santa Ana Cathedral'
 ---
 
 ## What you will see

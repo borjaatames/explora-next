@@ -74,6 +74,8 @@ galeria:
   alt: 'Couple at a night-time festival in Valencia'
 - src: https://imgcdn.bokun.tools/c8084ebf-e1a9-412e-b7c1-662ef9b4813b.jpg
   alt: 'Visitors walking through the City of Arts and Sciences'
+- src: /images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp
+  alt: 'Architecture of the Oceanogràfic in Valencia''s City of Arts and Sciences'
 publicada: true
 indexar: false
 destacada: false

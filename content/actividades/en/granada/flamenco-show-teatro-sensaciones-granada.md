@@ -103,6 +103,12 @@ galeria:
   alt: 'Hall and stage of Teatro Flamenco Granada'
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
   alt: 'The Albaicín at dusk'
+- src: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
+  alt: 'The Albaicín seen from the Alhambra gardens'
+- src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
+  alt: 'The Alhambra lit by the evening sun'
+- src: /images/actividades/granada/albaicin/albaicin-pixabay-3107980.webp
+  alt: 'White houses of the Albaicín on the hillside'
 ratingProveedor: 4.8
 numeroOpiniones: 788
 publicada: true

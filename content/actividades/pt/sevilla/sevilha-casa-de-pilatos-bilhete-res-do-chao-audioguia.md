@@ -111,17 +111,19 @@ imagen: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-04.webp
 imagenAlt: Pátio principal da Casa de Pilatos
 galeria:
 - src: /images/actividades/sevilla/casa-pilatos/casa-pilatos-patio-central.webp
-  alt: Pátio central da Casa de Pilatos de Sevilha com fonte e jardim
+  alt: 'Pátio central da Casa de Pilatos de Sevilha com fonte e jardim'
 - src: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-01.webp
-  alt: Galeria com azulejos e estátuas da Casa de Pilatos
+  alt: 'Galeria com azulejos e estátuas da Casa de Pilatos'
 - src: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-03.webp
-  alt: Fonte no pátio da Casa de Pilatos
+  alt: 'Fonte no pátio da Casa de Pilatos'
 - src: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-05.webp
-  alt: Arcos mudéjares e estátua clássica
+  alt: 'Arcos mudéjares e estátua clássica'
 - src: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-02.webp
-  alt: Escultura clássica na Casa de Pilatos
+  alt: 'Escultura clássica na Casa de Pilatos'
 - src: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-08.webp
-  alt: Busto romano na galeria superior
+  alt: 'Busto romano na galeria superior'
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: 'Margem do Guadalquivir com a Torre del Oro ao fundo'
 ratingProveedor: 4.5
 numeroOpiniones: 200
 publicada: true

@@ -82,17 +82,19 @@ imagen: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-paseo.webp
 imagenAlt: "Almudaina y Catedral vistas desde el paseo marítimo"
 galeria:
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
-  alt: "Catedral de Palma sobre la muralla del mar"
+  alt: 'Catedral de Palma sobre la muralla del mar'
 - src: /images/actividades/mallorca/fma-almudaina/almudaina-palmeras-catedral.webp
-  alt: "Palacio Real de la Almudaina entre palmeras, con la Catedral detrás"
+  alt: 'Palacio Real de la Almudaina entre palmeras, con la Catedral detrás'
 - src: /images/actividades/mallorca/fma-bici-palma/bicicletas-blancas-aparcadas.webp
-  alt: "Bicicletas de paseo aparcadas en fila"
+  alt: 'Bicicletas de paseo aparcadas en fila'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
-  alt: "Calle estrecha del casco antiguo de Palma"
+  alt: 'Calle estrecha del casco antiguo de Palma'
 - src: /images/actividades/mallorca/fma-bici-palma/bicicletas-calle-empedrada.webp
-  alt: "Bicicletas apoyadas en la pared de una calle empedrada"
+  alt: 'Bicicletas apoyadas en la pared de una calle empedrada'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp
-  alt: "Gárgola gótica en la fachada de la Catedral de Palma"
+  alt: 'Gárgola gótica en la fachada de la Catedral de Palma'
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-fachada-arcos.webp
+  alt: 'Fachada con galería de arcos del Palacio de la Almudaina'
 ---
 
 ## Qué vas a ver

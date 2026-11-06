@@ -79,15 +79,19 @@ imagen: /images/actividades/tenerife/loro-parque/orca-ocean.webp
 imagenAlt: Orca Ocean en Loro Parque Tenerife
 galeria:
 - src: /images/actividades/tenerife/loro-siam/leon-marino-nadando.webp
-  alt: León marino nadando en Loro Parque
+  alt: 'León marino nadando en Loro Parque'
 - src: /images/actividades/tenerife/loro-parque/delfines-salto.webp
-  alt: Delfines en el delfinario de Loro Parque
+  alt: 'Delfines en el delfinario de Loro Parque'
 - src: /images/actividades/tenerife/siam-park/siam-park-aerea.webp
-  alt: Vista aérea de Siam Park con sus toboganes
+  alt: 'Vista aérea de Siam Park con sus toboganes'
 - src: /images/actividades/tenerife/loro-parque/pinguinos.webp
-  alt: Colonia de pingüinos en Loro Parque
+  alt: 'Colonia de pingüinos en Loro Parque'
 - src: /images/actividades/tenerife/siam-park/siam-park-templo.webp
-  alt: Templo tailandés decorativo en Siam Park
+  alt: 'Templo tailandés decorativo en Siam Park'
+- src: /images/actividades/tenerife/loro-parque/loro-aratinga.webp
+  alt: 'Aratinga del sol en Loro Parque'
+- src: /images/actividades/tenerife/loro-parque/loro-parque-delfines.webp
+  alt: 'Espectáculo de delfines en Loro Parque'
 ratingProveedor: 4.7
 numeroOpiniones: 8501
 atraccionesRelacionadas:

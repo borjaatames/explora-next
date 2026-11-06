@@ -81,6 +81,8 @@ galeria:
   alt: 'Il porticato di Plaza de España con le panchine di azulejos'
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
   alt: 'App DareMapp con il percorso autoguidato'
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
+  alt: 'Plaza de España di Siviglia'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

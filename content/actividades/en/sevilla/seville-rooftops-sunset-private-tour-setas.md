@@ -81,17 +81,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/d503604d-e424-4fad-8859-663fd52d413d.jpg
-  alt: Seville rooftops at sunset from a terrace
+  alt: 'Seville rooftops at sunset from a terrace'
 - src: https://imgcdn.bokun.tools/f13c423c-f790-48f7-898b-7d2c9475a7e2.jpg
-  alt: Travellers on a rooftop with the Giralda at sunset
+  alt: 'Travellers on a rooftop with the Giralda at sunset'
 - src: https://imgcdn.bokun.tools/7ee6741c-d15b-4197-8efa-c711c51cd96f.jpg
-  alt: View over Seville's rooftops with the Cathedral behind
+  alt: 'View over Seville''s rooftops with the Cathedral behind'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-2019-3-jpg-05.webp
-  alt: Walkways of the Las Setas viewpoint
+  alt: 'Walkways of the Las Setas viewpoint'
 - src: https://imgcdn.bokun.tools/03a28afa-abd3-4cba-b8d8-281d489d63da.jpg
-  alt: Visitors looking out over Seville
+  alt: 'Visitors looking out over Seville'
 - src: https://imgcdn.bokun.tools/33e71e7c-cd20-4c5e-b7d4-46ba704932ee.jpg
-  alt: Traveller on a rooftop with the Giralda behind
+  alt: 'Traveller on a rooftop with the Giralda behind'
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
+  alt: 'Las Setas at La Encarnación, a few minutes'' walk away'
 bokunProductId: 933452
 fecha_actualizacion: '2026-10-24'
 privada: true

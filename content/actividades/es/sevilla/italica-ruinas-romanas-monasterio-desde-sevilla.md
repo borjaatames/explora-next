@@ -107,15 +107,19 @@ imagen: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-01.webp
 imagenAlt: Anfiteatro romano de Itálica
 galeria:
 - src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-03.webp
-  alt: Galerías bajo las gradas del anfiteatro
+  alt: 'Galerías bajo las gradas del anfiteatro'
 - src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-06.webp
-  alt: Gradas del anfiteatro de Itálica
+  alt: 'Gradas del anfiteatro de Itálica'
 - src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-02.webp
-  alt: Pasadizo romano del anfiteatro
+  alt: 'Pasadizo romano del anfiteatro'
 - src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp
-  alt: Mosaico romano de teselas de colores con motivos decorativos, conservado en casa señorial de Sevilla
+  alt: 'Mosaico romano de teselas de colores con motivos decorativos, conservado en casa señorial de Sevilla'
 - src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-monasterio-s-hero.webp
-  alt: Fachada medieval del Monasterio de San Isidoro del Campo en Sevilla con elementos arquitectónicos mudéjares, góticos
+  alt: 'Fachada medieval del Monasterio de San Isidoro del Campo en Sevilla con elementos arquitectónicos mudéjares, góticos'
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: 'Orilla del Guadalquivir con la Torre del Oro al fondo'
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: 'Torre del Oro y barcos en el Guadalquivir'
 ratingProveedor: 4.5
 numeroOpiniones: 320
 publicada: true

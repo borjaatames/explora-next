@@ -95,17 +95,19 @@ imagen: /images/actividades/gran-canaria/mogan-kayak/fgc-kayak-boca-cueva-marina
 imagenAlt: Ein Kajak am Eingang einer Meereshöhle
 galeria:
 - src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp
-  alt: Puerto de Mogán und seine Bucht
+  alt: 'Puerto de Mogán und seine Bucht'
 - src: /images/actividades/gran-canaria/mogan-kayak/cueva-marina-mogan.webp
-  alt: Meereshöhle in den Klippen von Mogán
+  alt: 'Meereshöhle in den Klippen von Mogán'
 - src: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
-  alt: Eine Gruppe Kajaks an der Felsküste, von oben
+  alt: 'Eine Gruppe Kajaks an der Felsküste, von oben'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: Vulkanische Klippen von Mogán vom Meer aus
+  alt: 'Vulkanische Klippen von Mogán vom Meer aus'
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
-  alt: Felsiger Meeresgrund unter kristallklarem Wasser
+  alt: 'Felsiger Meeresgrund unter kristallklarem Wasser'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: Fische über sandigem Grund vor Gran Canaria
+  alt: 'Fische über sandigem Grund vor Gran Canaria'
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: 'Felsküste im Südwesten von Gran Canaria'
 avisoReserva: 'Die Guides sprechen Spanisch und Englisch, und du musst eine der beiden Sprachen verstehen: Erklärungen auf Deutsch gibt es nicht.'
 ---
 

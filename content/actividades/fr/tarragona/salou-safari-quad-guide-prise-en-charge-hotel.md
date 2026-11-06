@@ -86,6 +86,10 @@ galeria:
   alt: 'Côte rocheuse du Cap de Salou face à la Méditerranée'
 - src: /images/actividades/tarragona/quad/prades-atardecer.webp
   alt: 'Coucher de soleil sur les montagnes de Prades'
+- src: /images/actividades/tarragona/costa/platja-llarga.webp
+  alt: 'La Platja Llarga à Salou'
+- src: /images/actividades/tarragona/costa/punta-grossa.webp
+  alt: 'Le belvédère de Punta Grossa à Salou'
 ratingProveedor: 4.8
 numeroOpiniones: 1225
 atraccionesRelacionadas:

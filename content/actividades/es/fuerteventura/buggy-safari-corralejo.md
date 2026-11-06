@@ -88,15 +88,19 @@ imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
 imagenAlt: Buggy por una pista de tierra en el norte de Fuerteventura
 galeria:
 - src: /images/actividades/fuerteventura/zonas/dunas-corralejo-vegetacion.webp
-  alt: Dunas y matorral en el Parque Natural de Corralejo
+  alt: 'Dunas y matorral en el Parque Natural de Corralejo'
 - src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
-  alt: Paseo por las dunas blancas de Corralejo
+  alt: 'Paseo por las dunas blancas de Corralejo'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos.webp
-  alt: La Isla de Lobos desde la costa de Fuerteventura
+  alt: 'La Isla de Lobos desde la costa de Fuerteventura'
 - src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Conos volcánicos en el norte de Fuerteventura
+  alt: 'Conos volcánicos en el norte de Fuerteventura'
 - src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
-  alt: Barcos en el puerto de Corralejo
+  alt: 'Barcos en el puerto de Corralejo'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Morro Jable y la playa del Matorral desde la montaña'
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: 'Bahía de Corralejo'
 ratingProveedor: 4.6
 numeroOpiniones: 1558
 atraccionesRelacionadas:

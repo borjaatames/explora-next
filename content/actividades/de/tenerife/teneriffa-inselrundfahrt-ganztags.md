@@ -84,17 +84,19 @@ imagen: /images/actividades/tenerife/gigantes/ftc-los-gigantes-puerto-acantilado
 imagenAlt: "Luftaufnahme von Los Gigantes mit Jachthafen und Klippen"
 galeria:
 - src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
-  alt: "Die Klippen von Los Gigantes vom Meer aus"
+  alt: 'Die Klippen von Los Gigantes vom Meer aus'
 - src: /images/actividades/tenerife/icod/ftc-drago-milenario-visitantes.webp
-  alt: "Der tausendjährige Drachenbaum von Icod de los Vinos mit Besuchern an seinem Fuß"
+  alt: 'Der tausendjährige Drachenbaum von Icod de los Vinos mit Besuchern an seinem Fuß'
 - src: /images/actividades/tenerife/icod/ftc-icod-casa-balcon-canario.webp
-  alt: "Traditionelles Haus mit kanarischem Balkon in Icod de los Vinos"
+  alt: 'Traditionelles Haus mit kanarischem Balkon in Icod de los Vinos'
 - src: /images/actividades/tenerife/icod/ftc-drago-icod-palmera.webp
-  alt: "Der Drachenbaum von Icod neben einer Kanarischen Dattelpalme"
+  alt: 'Der Drachenbaum von Icod neben einer Kanarischen Dattelpalme'
 - src: /images/actividades/tenerife/orotava/valle-orotava.webp
-  alt: "Das Orotava-Tal, das zur Nordküste mit Puerto de la Cruz hin abfällt"
+  alt: 'Das Orotava-Tal, das zur Nordküste mit Puerto de la Cruz hin abfällt'
 - src: /images/actividades/tenerife/orotava/valle-plataneras.webp
-  alt: "Bananenplantagen und Orte an der Nordküste Teneriffas"
+  alt: 'Bananenplantagen und Orte an der Nordküste Teneriffas'
+- src: /images/actividades/tenerife/icod/drago-milenario.webp
+  alt: 'Der Drago Milenario in Icod de los Vinos'
 ---
 
 ## Was du siehst

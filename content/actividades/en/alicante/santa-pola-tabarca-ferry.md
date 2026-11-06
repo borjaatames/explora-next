@@ -77,17 +77,19 @@ imagen: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
 imagenAlt: Walled village of Tabarca Island seen from the sea
 galeria:
 - src: /images/actividades/alicante/tabarca/torre-san-jose-tabarca.webp
-  alt: "San José tower on Tabarca Island"
+  alt: 'San José tower on Tabarca Island'
 - src: /images/actividades/alicante/tabarca/tabarca-playa.webp
-  alt: Rocky cove on Tabarca with the lighthouse behind and a gull
+  alt: 'Rocky cove on Tabarca with the lighthouse behind and a gull'
 - src: /images/actividades/alicante/tabarca/faro-tabarca.webp
-  alt: Tabarca lighthouse, a white building with a stone tower
+  alt: 'Tabarca lighthouse, a white building with a stone tower'
 - src: /images/actividades/alicante/tabarca/porta-de-terra.webp
-  alt: Porta de Terra, entrance to the walled village
+  alt: 'Porta de Terra, entrance to the walled village'
 - src: /images/actividades/alicante/tabarca/tabarca-calle.webp
-  alt: A street in Tabarca's village
+  alt: 'A street in Tabarca''s village'
 - src: /images/actividades/alicante/tabarca/tabarca-fortificacion.webp
-  alt: Tabarca's fortification seen from the sea
+  alt: 'Tabarca''s fortification seen from the sea'
+- src: /images/actividades/alicante/tabarca/faro-tabarca-campo.webp
+  alt: 'The lighthouse on Tabarca Island, Alicante'
 ratingProveedor: 4.6
 numeroOpiniones: 1822
 atraccionesRelacionadas:

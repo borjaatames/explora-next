@@ -95,6 +95,10 @@ galeria:
   alt: 'Saal und Bühne des Teatro Flamenco Granada'
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
   alt: 'Der Albaicín am späten Nachmittag'
+- src: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
+  alt: 'Der Albaicín von den Gärten der Alhambra aus gesehen'
+- src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
+  alt: 'Die Alhambra im Licht der Nachmittagssonne'
 ratingProveedor: 4.8
 numeroOpiniones: 788
 atraccionesRelacionadas:

@@ -88,17 +88,19 @@ imagen: /images/actividades/valencia/tapas/fvc-bar-tapas-lleno-noche.webp
 imagenAlt: "Interior de un bar de tapas animado por la noche"
 galeria:
 - src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
-  alt: "Calle del casco antiguo de Valencia de noche"
+  alt: 'Calle del casco antiguo de Valencia de noche'
 - src: /images/actividades/valencia/ruzafa/croquetas.webp
-  alt: "Croquetas caseras servidas como tapa"
+  alt: 'Croquetas caseras servidas como tapa'
 - src: /images/actividades/valencia/ruzafa/barra-cerveceria.webp
-  alt: "Barra de madera de un bar con una caña de cerveza"
+  alt: 'Barra de madera de un bar con una caña de cerveza'
 - src: /images/actividades/valencia/ruzafa/gildas.webp
-  alt: "Gildas de aceituna, guindilla y anchoa"
+  alt: 'Gildas de aceituna, guindilla y anchoa'
 - src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
-  alt: "Barrio del Carmen, en el centro de Valencia, iluminado de noche"
+  alt: 'Barrio del Carmen, en el centro de Valencia, iluminado de noche'
 - src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-noche.webp
-  alt: "Tapas variadas en cazuelas de barro para compartir"
+  alt: 'Tapas variadas en cazuelas de barro para compartir'
+- src: /images/actividades/valencia/ruzafa/calle-ruzafa.webp
+  alt: 'Calle del barrio de Ruzafa'
 ---
 
 ## Qué vas a ver

@@ -94,6 +94,8 @@ galeria:
   alt: 'Basílica de Santa María de Alicante'
 - src: /images/actividades/alicante/paella/mercado-palmeras.webp
   alt: 'Fachada del Mercado Central de Alicante'
+- src: /images/actividades/alicante/centro/calle-san-antonio.webp
+  alt: 'Calle del casco antiguo de Alicante junto al barrio de Santa Cruz'
 ---
 
 ## Qué vas a ver

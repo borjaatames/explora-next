@@ -84,17 +84,19 @@ imagen: /images/actividades/madrid/thyssen/thyssen-fachada-detalle-hero.webp
 imagenAlt: Façade of the Villahermosa Palace, Thyssen-Bornemisza Museum, Madrid
 galeria:
 - src: /images/actividades/madrid/thyssen/thyssen-fachada-paseo-prado-02-hero.webp
-  alt: Thyssen-Bornemisza Museum seen from Paseo del Prado
+  alt: 'Thyssen-Bornemisza Museum seen from Paseo del Prado'
 - src: /images/actividades/madrid/thyssen/thyssen-sala-pintura-religiosa-hero.webp
-  alt: Religious painting in the Thyssen Museum's early collection
+  alt: 'Religious painting in the Thyssen Museum''s early collection'
 - src: /images/actividades/madrid/thyssen/thyssen-sala-coleccion-03-hero.webp
-  alt: Gallery of the Thyssen-Bornemisza permanent collection
+  alt: 'Gallery of the Thyssen-Bornemisza permanent collection'
 - src: /images/actividades/madrid/thyssen/thyssen-sala-bodegon-hero.webp
-  alt: Still life painting at the Thyssen Museum
+  alt: 'Still life painting at the Thyssen Museum'
 - src: /images/actividades/madrid/thyssen/thyssen-sala-coleccion-04-hero.webp
-  alt: Landscape paintings gallery at the Thyssen Museum
+  alt: 'Landscape paintings gallery at the Thyssen Museum'
 - src: /images/actividades/madrid/thyssen/thyssen-patio-entrada-hero.webp
-  alt: Entrance courtyard of the Thyssen-Bornemisza Museum
+  alt: 'Entrance courtyard of the Thyssen-Bornemisza Museum'
+- src: /images/actividades/madrid/thyssen/thyssen-fachada-villahermosa-hero.webp
+  alt: 'Villahermosa Palace, home of the Thyssen-Bornemisza Museum in Madrid'
 ratingProveedor: 4.9
 numeroOpiniones: 90
 publicada: true

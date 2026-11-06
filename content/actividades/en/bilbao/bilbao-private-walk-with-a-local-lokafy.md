@@ -87,17 +87,19 @@ imagen: /images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp
 imagenAlt: "Square and Mallona steps in Bilbao Old Town"
 galeria:
 - src: /images/actividades/bilbao/casco-viejo/fbi-siete-calles-fachadas.webp
-  alt: "Street in Bilbao's Siete Calles with colourful facades"
+  alt: 'Street in Bilbao''s Siete Calles with colourful facades'
 - src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: "Shopping street in Bilbao Old Town"
+  alt: 'Shopping street in Bilbao Old Town'
 - src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-  alt: "La Ribera Market by the Bilbao estuary"
+  alt: 'La Ribera Market by the Bilbao estuary'
 - src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
-  alt: "Bilbao seen from Mount Artxanda"
+  alt: 'Bilbao seen from Mount Artxanda'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-iberdrola.webp
-  alt: "The Guggenheim and Iberdrola Tower by the Bilbao river"
+  alt: 'The Guggenheim and Iberdrola Tower by the Bilbao river'
 - src: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
-  alt: "Bar counter with pintxos on display"
+  alt: 'Bar counter with pintxos on display'
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: 'Plaza Nueva in Bilbao Old Town'
 ---
 
 ## What you will see

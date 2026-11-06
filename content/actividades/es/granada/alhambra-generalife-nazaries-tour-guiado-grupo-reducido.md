@@ -79,15 +79,19 @@ imagen: /images/actividades/granada/alhambra/alhambra-granada-partal-torre-damas
 imagenAlt: El Partal y la Torre de las Damas reflejados en el estanque de la Alhambra
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp
-  alt: Fuente del Patio de los Leones
+  alt: 'Fuente del Patio de los Leones'
 - src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
-  alt: Jardines del Generalife
+  alt: 'Jardines del Generalife'
 - src: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp
-  alt: Patio de los Arrayanes
+  alt: 'Patio de los Arrayanes'
 - src: /images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp
-  alt: Palacio de Carlos V al amanecer
+  alt: 'Palacio de Carlos V al amanecer'
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
-  alt: La Alcazaba de la Alhambra
+  alt: 'La Alcazaba de la Alhambra'
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
+  alt: 'Columnas y arcos de la Alhambra de Granada'
+- src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
+  alt: 'Patio con agua y vegetación en el Generalife de la Alhambra'
 ratingProveedor: 4.8
 numeroOpiniones: 1047
 publicada: true

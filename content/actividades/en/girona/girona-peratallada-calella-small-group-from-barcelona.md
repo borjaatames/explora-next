@@ -90,17 +90,19 @@ imagen: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
 imagenAlt: "The Onyar houses and Girona's red bridge"
 galeria:
 - src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
-  alt: "A cobbled street beside the Girona city walls"
+  alt: 'A cobbled street beside the Girona city walls'
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
-  alt: "Girona Cathedral seen from the city walls"
+  alt: 'Girona Cathedral seen from the city walls'
 - src: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
-  alt: "The steps and façade of Girona Cathedral"
+  alt: 'The steps and façade of Girona Cathedral'
 - src: /images/actividades/girona/fgi-girona/fgi-pont-eiffel-onyar.webp
-  alt: "The Eiffel Bridge over the Onyar river in Girona"
+  alt: 'The Eiffel Bridge over the Onyar river in Girona'
 - src: /images/actividades/girona/calella-pals/calella-palafrugell-pueblo.webp
-  alt: "Calella de Palafrugell and its white houses by the sea"
+  alt: 'Calella de Palafrugell and its white houses by the sea'
 - src: /images/actividades/girona/calella-pals/calella-palafrugell-costa.webp
-  alt: "The Calella de Palafrugell coast among pines"
+  alt: 'The Calella de Palafrugell coast among pines'
+- src: /images/actividades/girona/juego-de-tronos/call-escaleras.webp
+  alt: 'Steps and arches in a street of Girona''s Call'
 ---
 
 ## What you'll see

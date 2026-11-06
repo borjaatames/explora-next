@@ -81,17 +81,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/1738ba23-3d1f-4649-b676-9b6284e1c2e0.jpg
-  alt: La Mezquita-Catedral y el Puente Romano sobre el Guadalquivir
+  alt: 'La Mezquita-Catedral y el Puente Romano sobre el Guadalquivir'
 - src: https://imgcdn.bokun.tools/808892cb-6985-452c-b84d-8caf84ba16c9.jpg
-  alt: Calleja con flores y la torre de la Mezquita al fondo
+  alt: 'Calleja con flores y la torre de la Mezquita al fondo'
 - src: /images/actividades/cordoba/mezquita/mihrab-dorado.webp
-  alt: Mosaicos dorados del mihrab
+  alt: 'Mosaicos dorados del mihrab'
 - src: https://imgcdn.bokun.tools/345b82e9-5899-4694-a49e-346959aa2550.jpg
-  alt: Visitantes bajo los arcos de la Mezquita
+  alt: 'Visitantes bajo los arcos de la Mezquita'
 - src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
-  alt: Calleja de la Judería de Córdoba
+  alt: 'Calleja de la Judería de Córdoba'
 - src: https://imgcdn.bokun.tools/ddbc304f-2438-47e6-b4eb-03d26758749e.jpg
-  alt: Viajeras en un patio cordobés lleno de macetas
+  alt: 'Viajeras en un patio cordobés lleno de macetas'
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: 'Torre de la Mezquita-Catedral, frente al tablao'
 bokunProductId: 1269261
 fecha_actualizacion: '2026-10-24'
 privada: true

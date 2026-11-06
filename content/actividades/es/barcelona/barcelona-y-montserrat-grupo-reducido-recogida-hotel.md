@@ -88,6 +88,8 @@ galeria:
   alt: 'Paseo de Gracia con fachadas modernistas'
 - src: https://imgcdn.bokun.tools/d8e3dfaf-7892-4000-9c56-6dfcc30c4869.jpg
   alt: 'Viajeros junto a la furgoneta del tour ante la Sagrada Família'
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
+  alt: 'Fachada de la Sagrada Familia de Barcelona con torres góticas y elementos arquitectónicos modernistas'
 publicada: true
 indexar: false
 destacada: false

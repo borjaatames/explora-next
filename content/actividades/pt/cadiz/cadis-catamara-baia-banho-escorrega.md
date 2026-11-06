@@ -83,17 +83,19 @@ imagen: /images/actividades/cadiz/catamaran/ftc-catamaran-vela-mar-abierto.webp
 imagenAlt: "Catamarã a navegar à vela em mar aberto (imagem ilustrativa)"
 galeria:
 - src: /images/actividades/cadiz/catamaran/catamaran-saliendo-puerto-cadiz.webp
-  alt: "Embarcação a sair do porto de Cádis"
+  alt: 'Embarcação a sair do porto de Cádis'
 - src: /images/actividades/cadiz/catamaran/velero-catedral-cadiz.webp
-  alt: "Veleiro na baía com a Catedral de Cádis ao fundo"
+  alt: 'Veleiro na baía com a Catedral de Cádis ao fundo'
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
-  alt: "Pessoa a nadar com máscara debaixo de água (imagem ilustrativa)"
+  alt: 'Pessoa a nadar com máscara debaixo de água (imagem ilustrativa)'
 - src: /images/actividades/cadiz/mar/catedral-desde-mar.webp
-  alt: "Cádis e a sua catedral vistas do mar"
+  alt: 'Cádis e a sua catedral vistas do mar'
 - src: /images/actividades/cadiz/catamaran/copa-espumoso-a-bordo-catamaran.webp
-  alt: "Taça de espumante no convés de um catamarã"
+  alt: 'Taça de espumante no convés de um catamarã'
 - src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
-  alt: "Castelo de San Sebastián à entrada da baía"
+  alt: 'Castelo de San Sebastián à entrada da baía'
+- src: /images/actividades/cadiz/catamaran/catamaran-vela-atardecer.webp
+  alt: 'Catamarã à vela a navegar ao entardecer'
 avisoReserva: 'Atividade sazonal: as próximas datas disponíveis começam em junho de 2027.'
 ---
 

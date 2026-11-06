@@ -82,6 +82,14 @@ galeria:
   alt: 'Guitariste de flamenco'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
   alt: 'Le Palais royal illuminé la nuit'
+- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
+  alt: 'Guitare flamenca sur scène'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Guitariste de flamenco jouant sur scène'
+- src: /images/actividades/cordoba/flamenco/bailaora.webp
+  alt: 'Danseuse avec un châle blanc pendant un spectacle de flamenco'
+- src: /images/actividades/cordoba/flamenco/baile-flamenco.webp
+  alt: 'Photo de l''activité'
 ratingProveedor: 4.7
 numeroOpiniones: 1413
 publicada: true

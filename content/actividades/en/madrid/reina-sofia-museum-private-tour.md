@@ -58,11 +58,19 @@ imagen: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edific
 imagenAlt: Entrance to the Sabatini Building of the Reina Sofía Museum with its glass lift towers
 galeria:
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
-  alt: The Sabatini Building lit up at night
+  alt: 'The Sabatini Building lit up at night'
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp
-  alt: Long white gallery of the Reina Sofía Museum
+  alt: 'Long white gallery of the Reina Sofía Museum'
 - src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Glass lift tower of the Reina Sofía from a nearby street
+  alt: 'Glass lift tower of the Reina Sofía from a nearby street'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
+  alt: 'Glass lifts on the facade of the Reina Sofía Museum'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
+  alt: 'The Reina Sofía Museum in Madrid'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
+  alt: 'Facade of the Reina Sofía Museum on Plaza de Juan Goytisolo, Madrid'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
+  alt: 'The Reina Sofía Museum in Madrid'
 publicada: true
 destacada: false
 fecha: '2026-10-07'

@@ -101,6 +101,10 @@ galeria:
   alt: 'Dolphins off the south coast of Tenerife'
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
   alt: 'Los Cristianos beach'
+- src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
+  alt: 'Barco turistico junto a un grupo de delfines'
+- src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+  alt: 'Person paddling an orange kayak on the open sea'
 ratingProveedor: 4.8
 numeroOpiniones: 962
 publicada: true

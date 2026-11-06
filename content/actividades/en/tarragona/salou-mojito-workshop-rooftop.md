@@ -79,17 +79,19 @@ imagen: /images/actividades/madrid/pub-crawl/camarero-preparando-copa.webp
 imagenAlt: "Bartender mixing cocktails at a rooftop bar at dusk"
 galeria:
 - src: /images/actividades/tarragona/fre-mojitos/costa-dorada-puesta-sol.webp
-  alt: "Sunset over the Costa Daurada coastline"
+  alt: 'Sunset over the Costa Daurada coastline'
 - src: /images/actividades/barcelona/noche/copas-bar-noche.webp
-  alt: "Cocktails served at a bar counter"
+  alt: 'Cocktails served at a bar counter'
 - src: /images/actividades/tarragona/salou/fta-paseo-salou-palmeras-anochecer.webp
-  alt: "Salou seafront with palm trees at dusk"
+  alt: 'Salou seafront with palm trees at dusk'
 - src: /images/actividades/tarragona/costa/platja-llarga.webp
-  alt: "Platja Llarga beach in Salou"
+  alt: 'Platja Llarga beach in Salou'
 - src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: "Cap de Salou over the Mediterranean"
+  alt: 'Cap de Salou over the Mediterranean'
 - src: /images/actividades/barcelona/noche/barcelona-noche-torre-glories.webp
-  alt: "Barcelona lit up at night with the Torre Glòries"
+  alt: 'Barcelona lit up at night with the Torre Glòries'
+- src: /images/actividades/barcelona/noche/musica-directo-bar-guitarra.webp
+  alt: 'Guitarist singing live in a bar in front of the audience'
 ---
 
 ## What you will see

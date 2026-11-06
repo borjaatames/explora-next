@@ -75,6 +75,12 @@ galeria:
   alt: 'Arco de herradura en un monumento de Toledo'
 - src: https://imgcdn.bokun.tools/bdbbbaf6-01b3-4bac-bc24-56fb5b381f1d.jpg
   alt: 'Viajero en un mirador sobre Toledo'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-spain-bridge-castle-fortress-hero.webp
+  alt: 'Panorámica de Toledo con el Alcázar'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
+  alt: 'Alcázar de Toledo sobre la ciudad'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero.webp
+  alt: 'Palacio Real de Aranjuez en Madrid, vista frontal con fachada arquitectónica clásica'
 publicada: true
 indexar: false
 destacada: false

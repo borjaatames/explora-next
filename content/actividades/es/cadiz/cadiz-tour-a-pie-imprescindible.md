@@ -75,15 +75,19 @@ imagen: /images/actividades/cadiz/centro/ftc-catedral-desde-campo-sur.webp
 imagenAlt: La catedral de Cádiz vista desde el Campo del Sur
 galeria:
 - src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
-  alt: Arco de los Blancos, en el barrio del Pópulo
+  alt: 'Arco de los Blancos, en el barrio del Pópulo'
 - src: /images/actividades/cadiz/centro/catedral-tejados.webp
-  alt: Tejados y cúpula de la catedral de Cádiz
+  alt: 'Tejados y cúpula de la catedral de Cádiz'
 - src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
-  alt: Plaza de San Juan de Dios y el Ayuntamiento
+  alt: 'Plaza de San Juan de Dios y el Ayuntamiento'
 - src: /images/actividades/cadiz/centro/ftc-plaza-catedral-palmeras.webp
-  alt: Plaza de la catedral de Cádiz con palmeras
+  alt: 'Plaza de la catedral de Cádiz con palmeras'
 - src: /images/actividades/cadiz/campo-del-sur/paseo-playa-unsplash-IWV0-oq5ziE.webp
-  alt: Paseo marítimo de Cádiz
+  alt: 'Paseo marítimo de Cádiz'
+- src: /images/actividades/cadiz/centro/plaza-flores.webp
+  alt: 'Plaza de las Flores con sus puestos de flores, en el centro de Cádiz'
+- src: /images/actividades/cadiz/centro/catedral-fachada.webp
+  alt: 'Fachada de la catedral de Cádiz'
 ratingProveedor: 4.7
 numeroOpiniones: 112
 publicada: true

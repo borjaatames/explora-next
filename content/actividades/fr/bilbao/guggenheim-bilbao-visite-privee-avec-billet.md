@@ -95,6 +95,10 @@ galeria:
   alt: 'Le Guggenheim et la tour Iberdrola au bord de la ría de Bilbao'
 - src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
   alt: 'Vue du musée Guggenheim Bilbao depuis la ría'
+- src: /images/actividades/bilbao/guggenheim/maman.webp
+  alt: 'Maman, l''araignée de Louise Bourgeois près du musée'
+- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+  alt: 'Façade en titane du musée Guggenheim Bilbao'
 ---
 
 ## Ce que vous verrez

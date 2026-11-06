@@ -81,17 +81,19 @@ imagen: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
 imagenAlt: "Kathedrale von Palma über der Stadtmauer am Meer"
 galeria:
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
-  alt: "Enge Gasse in der Altstadt von Palma"
+  alt: 'Enge Gasse in der Altstadt von Palma'
 - src: /images/actividades/mallorca/fma-almudaina/almudaina-fachada-arcos.webp
-  alt: "Fassade des Almudaina-Palasts mit Arkaden"
+  alt: 'Fassade des Almudaina-Palasts mit Arkaden'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp
-  alt: "Gotischer Wasserspeier an der Fassade der Kathedrale von Palma"
+  alt: 'Gotischer Wasserspeier an der Fassade der Kathedrale von Palma'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-pinaculos.webp
-  alt: "Gotische Fialen der Kathedrale von Palma"
+  alt: 'Gotische Fialen der Kathedrale von Palma'
 - src: /images/actividades/mallorca/fma-almudaina/almudaina-palmeras-cielo-naranja.webp
-  alt: "Almudaina-Palast zwischen Palmen unter einem Abendhimmel"
+  alt: 'Almudaina-Palast zwischen Palmen unter einem Abendhimmel'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-04.webp
-  alt: "Parc de la Mar und Kathedrale von Palma am Abend"
+  alt: 'Parc de la Mar und Kathedrale von Palma am Abend'
+- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
+  alt: 'Die Uferpromenade von Palma bei Sonnenuntergang'
 ---
 
 ## Was du siehst

@@ -86,6 +86,8 @@ galeria:
   alt: 'Detail des Portals mit Voluten'
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
   alt: 'Kathedrale von Granada, 10 Minuten entfernt'
+- src: /images/actividades/granada/catedral/granada-catedral-04.webp
+  alt: 'Die Kathedrale, angrenzend an die Capilla Real'
 ratingProveedor: 4.7
 numeroOpiniones: 475
 publicada: true

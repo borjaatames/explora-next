@@ -84,17 +84,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/90a485b0-d5d7-4942-be43-8a832893945f.jpg
-  alt: Senderistas con casco en las pasarelas
+  alt: 'Senderistas con casco en las pasarelas'
 - src: https://imgcdn.bokun.tools/7f2cf169-87d8-45cd-8dc6-289b4a6c92d4.jpg
-  alt: Puente sobre el desfiladero
+  alt: 'Puente sobre el desfiladero'
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-unsplash-BCWBVlNgK90.webp
-  alt: Puente colgante sobre el río Guadalhorce
+  alt: 'Puente colgante sobre el río Guadalhorce'
 - src: https://imgcdn.bokun.tools/c46efb0e-37d9-4206-b8b8-e133be260f0e.jpg
-  alt: Pareja con casco en el Caminito del Rey
+  alt: 'Pareja con casco en el Caminito del Rey'
 - src: https://imgcdn.bokun.tools/c169432c-b390-46f4-becd-a86c985887b7.jpg
-  alt: Pasarelas colgadas de la pared del desfiladero
+  alt: 'Pasarelas colgadas de la pared del desfiladero'
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pixabay-7240632.webp
-  alt: Desfiladero de los Gaitanes y el embalse
+  alt: 'Desfiladero de los Gaitanes y el embalse'
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-17943929.webp
+  alt: 'Pasarela colgante del Caminito del Rey'
 bokunProductId: 860681
 fecha_actualizacion: '2026-10-24'
 precioPorGrupo: true

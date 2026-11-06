@@ -79,15 +79,19 @@ imagen: /images/actividades/tenerife/loro-parque/orca-ocean.webp
 imagenAlt: Orca Ocean show at Loro Parque, Puerto de la Cruz, Tenerife
 galeria:
 - src: /images/actividades/tenerife/loro-siam/leon-marino-nadando.webp
-  alt: Sea lion swimming at Loro Parque
+  alt: 'Sea lion swimming at Loro Parque'
 - src: /images/actividades/tenerife/loro-parque/delfines-salto.webp
-  alt: Dolphin show at Loro Parque, Tenerife
+  alt: 'Dolphin show at Loro Parque, Tenerife'
 - src: /images/actividades/tenerife/siam-park/siam-park-aerea.webp
-  alt: Aerial view of Siam Park water park, Tenerife
+  alt: 'Aerial view of Siam Park water park, Tenerife'
 - src: /images/actividades/tenerife/loro-parque/pinguinos.webp
-  alt: Penguin colony at Loro Parque
+  alt: 'Penguin colony at Loro Parque'
 - src: /images/actividades/tenerife/siam-park/siam-park-templo.webp
-  alt: Thai temple entrance at Siam Park, Tenerife
+  alt: 'Thai temple entrance at Siam Park, Tenerife'
+- src: /images/actividades/tenerife/loro-parque/loro-aratinga.webp
+  alt: 'A sun conure at Loro Parque'
+- src: /images/actividades/tenerife/loro-parque/loro-parque-delfines.webp
+  alt: 'The dolphin show at Loro Parque'
 ratingProveedor: 4.7
 numeroOpiniones: 8501
 atraccionesRelacionadas:

@@ -92,6 +92,8 @@ galeria:
   alt: 'Jandía ridge above Cofete beach'
 - src: /images/actividades/fuerteventura/zonas/cofete-pico.webp
   alt: 'Cofete beach and El Islote peak'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Morro Jable beach'
 ratingProveedor: 4.8
 numeroOpiniones: 1952
 atraccionesRelacionadas:

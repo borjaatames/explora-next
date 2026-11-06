@@ -87,17 +87,19 @@ imagen: /images/actividades/girona/girona-onyar/puente-rojo-casas-colores.webp
 imagenAlt: "Le case sull'Onyar e il ponte rosso di Girona"
 galeria:
 - src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
-  alt: "Una strada acciottolata accanto alle mura di Girona"
+  alt: 'Una strada acciottolata accanto alle mura di Girona'
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
-  alt: "La Cattedrale di Girona vista dalle mura"
+  alt: 'La Cattedrale di Girona vista dalle mura'
 - src: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
-  alt: "La scalinata e la facciata della Cattedrale di Girona"
+  alt: 'La scalinata e la facciata della Cattedrale di Girona'
 - src: /images/actividades/girona/fgi-girona/fgi-pont-eiffel-onyar.webp
-  alt: "Il Ponte Eiffel sul fiume Onyar a Girona"
+  alt: 'Il Ponte Eiffel sul fiume Onyar a Girona'
 - src: /images/actividades/girona/calella-pals/calella-palafrugell-pueblo.webp
-  alt: "Calella de Palafrugell e le sue case bianche sul mare"
+  alt: 'Calella de Palafrugell e le sue case bianche sul mare'
 - src: /images/actividades/girona/calella-pals/calella-palafrugell-costa.webp
-  alt: "La costa di Calella de Palafrugell tra i pini"
+  alt: 'La costa di Calella de Palafrugell tra i pini'
+- src: /images/actividades/girona/girona-onyar/girona-onyar-pexels-13759651.webp
+  alt: 'Le case colorate dell''Onyar riflesse nel fiume'
 ---
 
 ## Cosa vedrai

@@ -103,6 +103,8 @@ galeria:
   alt: 'La spiaggia di Papagayo sotto il suo promontorio roccioso'
 - src: /images/actividades/lanzarote/papagayo/flz-acantilados-playa.webp
   alt: 'Scogliere e spiaggia a Playas de Papagayo'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
+  alt: 'Cala dalle acque turchesi a Papagayo'
 ---
 
 ## Cosa vedrai

@@ -85,17 +85,19 @@ imagen: /images/actividades/mallorca/fma-caballo-alcudia/jinetes-ladera-monte.we
 imagenAlt: "Two riders on horseback coming down a hillside"
 galeria:
 - src: /images/actividades/mallorca/fma-caballo-alcudia/ruta-caballos-ladera.webp
-  alt: "Group of riders on a trail along a hillside"
+  alt: 'Group of riders on a trail along a hillside'
 - src: /images/actividades/mallorca/fma-caballo-alcudia/caballo-blanco-cabeza.webp
-  alt: "Head of a white horse wearing a bridle"
+  alt: 'Head of a white horse wearing a bridle'
 - src: /images/actividades/mallorca/fma-caballo-alcudia/caballo-prado.webp
-  alt: "Dark horse trotting across a meadow"
+  alt: 'Dark horse trotting across a meadow'
 - src: /images/actividades/mallorca/fma-olivar/olivo-centenario-mallorca.webp
-  alt: "Centuries-old olive tree in the Mallorcan countryside"
+  alt: 'Centuries-old olive tree in the Mallorcan countryside'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
-  alt: "Rocky Mediterranean coast with mountains behind"
+  alt: 'Rocky Mediterranean coast with mountains behind'
 - src: /images/actividades/mallorca/fma-caballo-alcudia/x-tramuntana-era-del-cosconar.webp
-  alt: "Serra de Tramuntana landscape, Mallorca"
+  alt: 'Serra de Tramuntana landscape, Mallorca'
+- src: /images/actividades/mallorca/fma-olivar/olivos-pared-piedra-seca.webp
+  alt: 'Olive trees and a dry-stone wall in Mallorca'
 ---
 
 ## What you will see

@@ -85,17 +85,19 @@ imagen: /images/actividades/valencia/tapas/fvc-bar-tapas-lleno-noche.webp
 imagenAlt: "Intérieur animé d'un bar à tapas le soir"
 galeria:
 - src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
-  alt: "Rue de la vieille ville de Valence la nuit"
+  alt: 'Rue de la vieille ville de Valence la nuit'
 - src: /images/actividades/valencia/ruzafa/croquetas.webp
-  alt: "Croquettes maison servies en tapa"
+  alt: 'Croquettes maison servies en tapa'
 - src: /images/actividades/valencia/ruzafa/barra-cerveceria.webp
-  alt: "Comptoir en bois avec un verre de bière"
+  alt: 'Comptoir en bois avec un verre de bière'
 - src: /images/actividades/valencia/ruzafa/gildas.webp
-  alt: "Gildas, brochettes d'olive, piment et anchois"
+  alt: 'Gildas, brochettes d''olive, piment et anchois'
 - src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
-  alt: "Le quartier d'El Carmen, dans le centre de Valence, illuminé la nuit"
+  alt: 'Le quartier d''El Carmen, dans le centre de Valence, illuminé la nuit'
 - src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-noche.webp
-  alt: "Assortiment de tapas en cassolettes de terre cuite à partager"
+  alt: 'Assortiment de tapas en cassolettes de terre cuite à partager'
+- src: /images/actividades/valencia/ruzafa/calle-ruzafa.webp
+  alt: 'Rue du quartier de Ruzafa à Valence'
 ---
 
 ## Ce que vous verrez

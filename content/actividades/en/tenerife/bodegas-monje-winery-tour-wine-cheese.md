@@ -77,17 +77,19 @@ imagen: /images/actividades/tenerife/bodega/ftc-seleccion-uva-vendimia.webp
 imagenAlt: "Grapes being sorted on the winery table during harvest"
 galeria:
 - src: /images/actividades/tenerife/bodega/ftc-racimos-uva-tinta-vina.webp
-  alt: "Bunches of red grapes on the vine"
+  alt: 'Bunches of red grapes on the vine'
 - src: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
-  alt: "Winery aisle lined with stacked wine barrels"
+  alt: 'Winery aisle lined with stacked wine barrels'
 - src: /images/actividades/tenerife/orotava/valle-orotava.webp
-  alt: "View of northern Tenerife, with the Orotava Valley and the Atlantic"
+  alt: 'View of northern Tenerife, with the Orotava Valley and the Atlantic'
 - src: /images/actividades/alicante/vino/cata-copas.webp
-  alt: "Glasses of white and red wine set out for a tasting"
+  alt: 'Glasses of white and red wine set out for a tasting'
 - src: /images/actividades/alicante/vino/barricas.webp
-  alt: "Ageing room with oak barrels"
+  alt: 'Ageing room with oak barrels'
 - src: /images/actividades/alicante/vino/cata-tinto.webp
-  alt: "Red wine tasting served in small carafes"
+  alt: 'Red wine tasting served in small carafes'
+- src: /images/actividades/alicante/vino/vinedos-paisaje.webp
+  alt: 'A vineyard landscape'
 ---
 
 ## What you will see

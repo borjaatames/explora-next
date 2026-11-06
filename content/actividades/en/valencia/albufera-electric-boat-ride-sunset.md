@@ -85,17 +85,19 @@ imagen: /images/actividades/valencia/albufera/fvc-proa-barca-lago-atardecer.webp
 imagenAlt: "Bow of a boat sailing on the Albufera lake at sunset"
 galeria:
 - src: /images/actividades/valencia/albufera/fvc-embarcadero-barcas-canal.webp
-  alt: "Jetty with traditional boats on an Albufera canal"
+  alt: 'Jetty with traditional boats on an Albufera canal'
 - src: /images/actividades/valencia/albufera/fvc-barca-amarrada-lago.webp
-  alt: "Boat moored on the open waters of the Albufera lake"
+  alt: 'Boat moored on the open waters of the Albufera lake'
 - src: /images/actividades/valencia/albufera/fvc-garzas-arrozal.webp
-  alt: "Egrets and other birds over a rice field in the Albufera natural park"
+  alt: 'Egrets and other birds over a rice field in the Albufera natural park'
 - src: /images/actividades/valencia/albufera/fvc-barca-muelle-puesta-sol.webp
-  alt: "Boat beside a wooden jetty during sunset at the Albufera"
+  alt: 'Boat beside a wooden jetty during sunset at the Albufera'
 - src: /images/actividades/valencia/albufera/fvc-cielo-rojo-lago.webp
-  alt: "Red sky reflected in the Albufera lake after sunset"
+  alt: 'Red sky reflected in the Albufera lake after sunset'
 - src: /images/actividades/valencia/albufera/fvc-canal-barcas-anochecer.webp
-  alt: "Canal with traditional boats at nightfall in the Albufera"
+  alt: 'Canal with traditional boats at nightfall in the Albufera'
+- src: /images/actividades/valencia/albufera/albufera-cielo-naranja-barca.webp
+  alt: 'Albufera of Valencia at sunset'
 ---
 
 ## What you will see

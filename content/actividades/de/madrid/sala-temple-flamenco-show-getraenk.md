@@ -82,6 +82,14 @@ galeria:
   alt: 'Flamencogitarrist'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
   alt: 'Der Königspalast nachts beleuchtet'
+- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
+  alt: 'Flamencogitarre auf der Bühne'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Flamenco-Gitarrist spielt auf der Bühne'
+- src: /images/actividades/cordoba/flamenco/bailaora.webp
+  alt: 'Tänzerin mit weißem Manton während einer Flamenco-Show'
+- src: /images/actividades/cordoba/flamenco/baile-flamenco.webp
+  alt: 'Flamenco-Tanz auf der Bühne'
 ratingProveedor: 4.7
 numeroOpiniones: 1413
 publicada: true

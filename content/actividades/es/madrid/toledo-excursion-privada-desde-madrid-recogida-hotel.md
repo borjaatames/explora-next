@@ -76,6 +76,10 @@ galeria:
   alt: 'Viajero en un mirador sobre Toledo'
 - src: https://imgcdn.bokun.tools/b048abb8-6bff-4473-b28b-a504d038e8b5.jpg
   alt: 'Espadas toledanas en un escaparate'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-spain-bridge-castle-fortress-hero.webp
+  alt: 'Panorámica de Toledo con el Alcázar'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
+  alt: 'Alcázar de Toledo sobre la ciudad'
 publicada: true
 indexar: false
 destacada: false

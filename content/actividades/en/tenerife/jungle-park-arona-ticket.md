@@ -88,17 +88,19 @@ imagen: /images/actividades/tenerife/jungle-park/ftc-jungle-park-entrada-aguilas
 imagenAlt: "Entrance to Las Aguilas Jungle Park in Arona, with two large eagle sculptures"
 galeria:
 - src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-cabeciblanco.webp
-  alt: "White-headed vulture in its enclosure at Jungle Park"
+  alt: 'White-headed vulture in its enclosure at Jungle Park'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: "Montaña de Guaza, in the municipality of Arona"
+  alt: 'Montaña de Guaza, in the municipality of Arona'
 - src: /images/actividades/tenerife/jungle-park/ftc-jaguar-tronco.webp
-  alt: "Jaguar walking along a log"
+  alt: 'Jaguar walking along a log'
 - src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-alas.webp
-  alt: "White-headed vulture spreading its wings at Jungle Park"
+  alt: 'White-headed vulture spreading its wings at Jungle Park'
 - src: /images/actividades/tenerife/jungle-park/ftc-lemur-cola-anillada.webp
-  alt: "Ring-tailed lemur sitting on a branch"
+  alt: 'Ring-tailed lemur sitting on a branch'
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
-  alt: "Los Cristianos beach, in Arona"
+  alt: 'Los Cristianos beach, in Arona'
+- src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
+  alt: 'Los Cristianos coast with the Atlantic behind, the catamaran base in Tenerife'
 ---
 
 ## What you will see

@@ -67,6 +67,16 @@ galeria:
   alt: 'Façade du Palais royal de Madrid'
 - src: https://imgcdn.bokun.tools/bc1721a2-31b5-4f27-abc9-b65ddfb42823.jpg
   alt: 'La cathédrale de l''Almudena au coucher du soleil'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
+  alt: 'Le Palais royal de Madrid illuminé la nuit'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
+  alt: 'La Plaza de Oriente avec la statue de Philippe IV et le Palais royal en arrière-plan'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
+  alt: 'Le Palais royal vu depuis les jardins du Campo del Moro'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp
+  alt: 'Salle à manger de gala du Palais royal de Madrid'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-blue-sky-hero.webp
+  alt: 'Façade du Palais royal'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

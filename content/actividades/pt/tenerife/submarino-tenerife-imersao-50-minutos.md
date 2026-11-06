@@ -91,6 +91,10 @@ galeria:
   alt: 'Golfinho nas águas do sul de Tenerife'
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: 'Costa vulcânica do sul de Tenerife'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Baleia-piloto nas águas do oeste de Tenerife'
+- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+  alt: 'Baleia-piloto tropical a respirar à superfície'
 ratingProveedor: 4.8
 numeroOpiniones: 2670
 publicada: true

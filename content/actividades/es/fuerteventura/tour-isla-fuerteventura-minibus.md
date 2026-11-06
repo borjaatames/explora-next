@@ -86,17 +86,19 @@ imagen: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
 imagenAlt: "Pueblo de Ajuy y su playa de arena negra"
 galeria:
 - src: /images/actividades/fuerteventura/ajuy/ffv-montana-cerca-ajuy.webp
-  alt: "Montaña del interior cerca de Ajuy"
+  alt: 'Montaña del interior cerca de Ajuy'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
-  alt: "Plaza de la iglesia de Betancuria con el pueblo al fondo"
+  alt: 'Plaza de la iglesia de Betancuria con el pueblo al fondo'
 - src: /images/actividades/fuerteventura/granja-aloe/ffv-finca-aloe-vera-fuerteventura.webp
-  alt: "Finca de aloe vera en flor al pie de las montañas de Fuerteventura"
+  alt: 'Finca de aloe vera en flor al pie de las montañas de Fuerteventura'
 - src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
-  alt: "Elaboración de queso fresco de cabra en una quesería"
+  alt: 'Elaboración de queso fresco de cabra en una quesería'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-6.webp
-  alt: "Rincón con árboles en Betancuria"
+  alt: 'Rincón con árboles en Betancuria'
 - src: /images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp
-  alt: "Hileras de aloe vera en tierra volcánica"
+  alt: 'Hileras de aloe vera en tierra volcánica'
+- src: /images/actividades/fuerteventura/ajuy/ffv-interior-cueva-ajuy.webp
+  alt: 'Visitante dentro de una de las cuevas de Ajuy'
 ---
 
 ## Qué vas a ver

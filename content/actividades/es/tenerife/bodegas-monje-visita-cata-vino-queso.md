@@ -77,17 +77,19 @@ imagen: /images/actividades/tenerife/bodega/ftc-seleccion-uva-vendimia.webp
 imagenAlt: "Selección de la uva en la mesa de la bodega durante la vendimia"
 galeria:
 - src: /images/actividades/tenerife/bodega/ftc-racimos-uva-tinta-vina.webp
-  alt: "Racimos de uva tinta en una viña"
+  alt: 'Racimos de uva tinta en una viña'
 - src: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
-  alt: "Pasillo de una bodega con barricas de vino apiladas"
+  alt: 'Pasillo de una bodega con barricas de vino apiladas'
 - src: /images/actividades/tenerife/orotava/valle-orotava.webp
-  alt: "Vista del norte de Tenerife, con el valle de La Orotava y el Atlántico"
+  alt: 'Vista del norte de Tenerife, con el valle de La Orotava y el Atlántico'
 - src: /images/actividades/alicante/vino/cata-copas.webp
-  alt: "Copas de vino blanco y tinto preparadas para una cata"
+  alt: 'Copas de vino blanco y tinto preparadas para una cata'
 - src: /images/actividades/alicante/vino/barricas.webp
-  alt: "Sala de crianza con barricas de roble"
+  alt: 'Sala de crianza con barricas de roble'
 - src: /images/actividades/alicante/vino/cata-tinto.webp
-  alt: "Cata de vinos tintos servidos en pequeñas jarras"
+  alt: 'Cata de vinos tintos servidos en pequeñas jarras'
+- src: /images/actividades/alicante/vino/vinedos-paisaje.webp
+  alt: 'Paisaje de viñedos'
 ---
 
 ## Qué vas a ver

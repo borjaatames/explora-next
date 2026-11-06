@@ -84,17 +84,19 @@ imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-ria.webp
 imagenAlt: "Titanium facade of the Guggenheim Bilbao over the pool by the river"
 galeria:
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-fachada-norte.webp
-  alt: "North facade of the Guggenheim Museum Bilbao with its glass atrium"
+  alt: 'North facade of the Guggenheim Museum Bilbao with its glass atrium'
 - src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-  alt: "Titanium facade of the Guggenheim Museum Bilbao"
+  alt: 'Titanium facade of the Guggenheim Museum Bilbao'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-jardines.webp
-  alt: "Exterior of the Guggenheim Museum Bilbao seen from the gardens"
+  alt: 'Exterior of the Guggenheim Museum Bilbao seen from the gardens'
 - src: /images/actividades/bilbao/guggenheim/puppy.webp
-  alt: "Puppy, the flower dog in front of the Guggenheim"
+  alt: 'Puppy, the flower dog in front of the Guggenheim'
 - src: /images/actividades/bilbao/guggenheim/maman.webp
-  alt: "Maman sculpture by the Guggenheim at dusk"
+  alt: 'Maman sculpture by the Guggenheim at dusk'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
-  alt: "Guggenheim Museum Bilbao by the river and La Salve bridge"
+  alt: 'Guggenheim Museum Bilbao by the river and La Salve bridge'
+- src: /images/actividades/bilbao/guggenheim/maman-puente.webp
+  alt: 'The Guggenheim and La Salve bridge from the river'
 ---
 
 ## What you will see

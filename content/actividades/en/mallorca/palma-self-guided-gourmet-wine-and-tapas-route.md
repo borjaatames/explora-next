@@ -69,15 +69,19 @@ imagen: /images/actividades/mallorca/gastronomia/palma-tapas-01.webp
 imagenAlt: Tapas with cured meats, cheese and olives served with a drink
 galeria:
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-02.webp
-  alt: Pa amb oli with ham
+  alt: 'Pa amb oli with ham'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-06.webp
-  alt: Hams and cured meats at a bar counter
+  alt: 'Hams and cured meats at a bar counter'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-04.webp
-  alt: Palma Cathedral at sunset from Parc de la Mar
+  alt: 'Palma Cathedral at sunset from Parc de la Mar'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
-  alt: A street in Palma old town
+  alt: 'A street in Palma old town'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-03.webp
-  alt: Pa amb oli, bread with tomato and olive oil
+  alt: 'Pa amb oli, bread with tomato and olive oil'
+- src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
+  alt: 'Sobrasada, a typical Mallorcan cured sausage'
+- src: /images/actividades/mallorca/gastronomia/sobrasada-02.webp
+  alt: 'Sobrasadas at a Mallorcan market stall'
 ratingProveedor: 4.6
 numeroOpiniones: 789
 atraccionesRelacionadas:

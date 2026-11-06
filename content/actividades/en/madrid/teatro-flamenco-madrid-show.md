@@ -92,6 +92,8 @@ galeria:
   alt: 'Malasaña terraces at night'
 - src: /images/actividades/madrid/gran-via/gran-via-callao-noche.webp
   alt: 'Gran Vía and Callao lit up at night'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Flamenco guitarist playing on stage'
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true

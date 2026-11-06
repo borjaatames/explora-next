@@ -87,15 +87,19 @@ imagen: /images/actividades/tenerife/motos-agua/grupo-motos-agua-ruta.webp
 imagenAlt: Group of jet skis riding in a line on the open sea
 galeria:
 - src: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
-  alt: A jet ski riding the waves
+  alt: 'A jet ski riding the waves'
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: Costa Adeje beach with the mountains behind
+  alt: 'Costa Adeje beach with the mountains behind'
 - src: /images/actividades/tenerife/motos-agua/montana-roja-el-medano.webp
-  alt: Montaña Roja seen from the rocky shore of El Médano, southern Tenerife
+  alt: 'Montaña Roja seen from the rocky shore of El Médano, southern Tenerife'
 - src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-  alt: View of the Costa Adeje coastline
+  alt: 'View of the Costa Adeje coastline'
 - src: /images/actividades/tenerife/motos-agua/montana-amarilla-costa.webp
-  alt: Montaña Amarilla by the sea on the south coast of Tenerife
+  alt: 'Montaña Amarilla by the sea on the south coast of Tenerife'
+- src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
+  alt: 'Person swimming with goggles underwater (illustrative image)'
+- src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
+  alt: 'Rocky volcanic shoreline in Costa Adeje'
 ratingProveedor: 4.5
 numeroOpiniones: 3170
 atraccionesRelacionadas:

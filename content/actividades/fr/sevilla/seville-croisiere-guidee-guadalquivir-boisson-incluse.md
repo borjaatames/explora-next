@@ -128,6 +128,8 @@ galeria:
   alt: 'Rive du Guadalquivir avec la Torre del Oro en arrière-plan'
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
   alt: 'Vue aérienne des arènes de la Maestranza'
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
+  alt: 'Voûtes gothiques de la cathédrale de Séville'
 ratingProveedor: 4.7
 numeroOpiniones: 1746
 publicada: true

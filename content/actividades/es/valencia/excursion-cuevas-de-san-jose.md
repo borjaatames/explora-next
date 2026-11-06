@@ -50,15 +50,19 @@ imagen: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-c
 imagenAlt: Río subterráneo navegable de las Cuevas de San José
 galeria:
 - src: https://imgcdn.bokun.tools/d07f4f7d-9253-4108-85df-b94e982d520b.jpeg
-  alt: Paseo en barca por las Cuevas de San José desde Valencia (Bokun)
+  alt: 'Paseo en barca por las Cuevas de San José desde Valencia (Bokun)'
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-19-jpg-01.webp
-  alt: Galería de las Cuevas de San José
+  alt: 'Galería de las Cuevas de San José'
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-14-jpg-03.webp
-  alt: Bóveda de roca en las Cuevas de San José
+  alt: 'Bóveda de roca en las Cuevas de San José'
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-de-la-vall-d-uix-est-04.webp
-  alt: Estalactitas de las Cuevas de San José
+  alt: 'Estalactitas de las Cuevas de San José'
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-07-jpg-05.webp
-  alt: Barca en el río de las Cuevas de San José
+  alt: 'Barca en el río de las Cuevas de San José'
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-27790724-card.webp
+  alt: 'Foto de la actividad'
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-6877687-card.webp
+  alt: 'Foto de la actividad'
 ratingProveedor: 4.6
 numeroOpiniones: 785
 atraccionesRelacionadas:

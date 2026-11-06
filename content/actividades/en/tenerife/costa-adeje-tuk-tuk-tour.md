@@ -80,17 +80,19 @@ imagen: /images/actividades/tenerife/tuk-tuk/ftc-tuk-tuk-junto-al-mar.webp
 imagenAlt: "Tuk tuk parked by the sea (illustrative image)"
 galeria:
 - src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-  alt: "View of the Costa Adeje coastline with hotels and palm trees"
+  alt: 'View of the Costa Adeje coastline with hotels and palm trees'
 - src: /images/actividades/alicante/tuk-tuk/tuk-tuk-calle-alvarez.webp
-  alt: "Open electric tuk tuk of the kind used on city tours (illustrative image)"
+  alt: 'Open electric tuk tuk of the kind used on city tours (illustrative image)'
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: "A Costa Adeje beach with the mountains of southern Tenerife behind"
+  alt: 'A Costa Adeje beach with the mountains of southern Tenerife behind'
 - src: /images/actividades/tenerife/tuk-tuk/ftc-tuk-tuk-detalle-frontal.webp
-  alt: "Close-up of the front of a tuk tuk (illustrative image)"
+  alt: 'Close-up of the front of a tuk tuk (illustrative image)'
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
-  alt: "Rocky volcanic shoreline in Costa Adeje"
+  alt: 'Rocky volcanic shoreline in Costa Adeje'
 - src: /images/actividades/alicante/tuk-tuk/tuk-tuk-alicante-mirador.webp
-  alt: "Electric sightseeing tuk tuk parked at a viewpoint in Alicante"
+  alt: 'Electric sightseeing tuk tuk parked at a viewpoint in Alicante'
+- src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
+  alt: 'Person swimming with goggles underwater (illustrative image)'
 ---
 
 ## What you will see

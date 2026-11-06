@@ -88,17 +88,19 @@ imagen: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
 imagenAlt: Bucht mit türkisem Wasser in Papagayo
 galeria:
 - src: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
-  alt: Eine Person beim Schnorcheln, von oben
+  alt: 'Eine Person beim Schnorcheln, von oben'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
-  alt: Der Strand von Papagayo unter bewölktem Himmel
+  alt: 'Der Strand von Papagayo unter bewölktem Himmel'
 - src: /images/actividades/lanzarote/snorkel/flz-fondo-rocoso.webp
-  alt: Felsiger Meeresgrund durch klares Wasser gesehen
+  alt: 'Felsiger Meeresgrund durch klares Wasser gesehen'
 - src: /images/actividades/lanzarote/kayak-papagayo.webp
-  alt: Rotes Kajak an einem weißen Sandstrand
+  alt: 'Rotes Kajak an einem weißen Sandstrand'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
-  alt: Playa Blanca im Süden von Lanzarote
+  alt: 'Playa Blanca im Süden von Lanzarote'
 - src: /images/actividades/lanzarote/papagayo/flz-playas-veleros.webp
-  alt: Die Strände von Papagayo mit ankernden Segelbooten
+  alt: 'Die Strände von Papagayo mit ankernden Segelbooten'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+  alt: 'Bucht von Papagayo, von der Klippe aus gesehen'
 avisoReserva: 'Die Guides sprechen Spanisch, Englisch und Französisch: Erklärungen auf Deutsch gibt es nicht.'
 ---
 

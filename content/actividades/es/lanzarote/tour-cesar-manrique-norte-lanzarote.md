@@ -89,17 +89,19 @@ imagen: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-burbuja-amari
 imagenAlt: "Burbuja volcánica amarilla de la Fundación César Manrique"
 galeria:
 - src: /images/actividades/lanzarote/jardin-de-cactus/flz-anfiteatro.webp
-  alt: "Vista del anfiteatro del Jardín de Cactus en Guatiza"
+  alt: 'Vista del anfiteatro del Jardín de Cactus en Guatiza'
 - src: /images/actividades/lanzarote/mirador-del-rio/flz-terraza-barandilla.webp
-  alt: "Terraza del Mirador del Río sobre el estrecho de La Graciosa"
+  alt: 'Terraza del Mirador del Río sobre el estrecho de La Graciosa'
 - src: /images/actividades/lanzarote/mirador-del-rio/flz-interior-cafeteria.webp
-  alt: "Interior del Mirador del Río, obra de César Manrique"
+  alt: 'Interior del Mirador del Río, obra de César Manrique'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
-  alt: "Piscina turquesa de los Jameos del Agua"
+  alt: 'Piscina turquesa de los Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
-  alt: "Escaleras de piedra y jardín en los Jameos del Agua"
+  alt: 'Escaleras de piedra y jardín en los Jameos del Agua'
 - src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-jardin-estanque.webp
-  alt: "Jardín con estanque en la Fundación César Manrique"
+  alt: 'Jardín con estanque en la Fundación César Manrique'
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-carretera-risco.webp
+  alt: 'Carretera junto al risco en el norte de Lanzarote'
 ---
 
 ## Qué vas a ver

@@ -92,17 +92,19 @@ imagen: /images/actividades/gran-canaria/costa-norte/fgc-atardecer-atlantico-tei
 imagenAlt: "Sonnenuntergang über dem Atlantik von der Nordküste Gran Canarias, mit dem Teide am Horizont"
 galeria:
 - src: /images/actividades/gran-canaria/costa-norte/fgc-piscina-natural-roca-aerea.webp
-  alt: "Luftaufnahme eines Naturpools zwischen Vulkanfelsen am Ozean"
+  alt: 'Luftaufnahme eines Naturpools zwischen Vulkanfelsen am Ozean'
 - src: /images/actividades/gran-canaria/norte/agaete-puerto-nieves-hero.webp
-  alt: "Puerto de las Nieves in Agaete, an der Nordwestküste von Gran Canaria"
+  alt: 'Puerto de las Nieves in Agaete, an der Nordwestküste von Gran Canaria'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-paseo-maritimo-acantilados-agaete.webp
-  alt: "Strandpromenade unterhalb der Klippen von Agaete"
+  alt: 'Strandpromenade unterhalb der Klippen von Agaete'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-playa-piedras-agaete.webp
-  alt: "Kieselstrand und weiße Häuser in Agaete"
+  alt: 'Kieselstrand und weiße Häuser in Agaete'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-oleaje-costa-norte-nubes.webp
-  alt: "Atlantikwellen unter bewölktem Himmel an der Nordküste von Gran Canaria"
+  alt: 'Atlantikwellen unter bewölktem Himmel an der Nordküste von Gran Canaria'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-orilla-atardecer-norte.webp
-  alt: "Die Nordküste von Gran Canaria in der Abenddämmerung"
+  alt: 'Die Nordküste von Gran Canaria in der Abenddämmerung'
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
+  alt: 'Die Kaskade am Paseo de Canarias in Firgas'
 avisoReserva: 'Saisonale Aktivität: Die nächsten verfügbaren Termine beginnen im Mai 2027.'
 ---
 

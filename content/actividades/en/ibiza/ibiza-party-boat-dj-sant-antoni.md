@@ -73,17 +73,19 @@ imagen: /images/actividades/ibiza/fiesta-barco/fiesta-barco-01.webp
 imagenAlt: Boat party off the Ibiza coast
 galeria:
 - src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-02.webp
-  alt: Party boat sailing in Ibiza
+  alt: 'Party boat sailing in Ibiza'
 - src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-03.webp
-  alt: People dancing on a boat deck
+  alt: 'People dancing on a boat deck'
 - src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-04.webp
-  alt: Boat at sunset on the Mediterranean
+  alt: 'Boat at sunset on the Mediterranean'
 - src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
-  alt: Sunset on the Ibiza coast
+  alt: 'Sunset on the Ibiza coast'
 - src: /images/actividades/ibiza/atardecer/atardecer-mar.webp
-  alt: Sunset over the sea in Ibiza
+  alt: 'Sunset over the sea in Ibiza'
 - src: /images/actividades/ibiza/vedra/es-vedra-puesta-sol.webp
-  alt: Es Vedrà at sunset
+  alt: 'Es Vedrà at sunset'
+- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
+  alt: 'Sunset over the islets off Ibiza'
 atraccionesRelacionadas:
 - vedra-atardecer
 ratingProveedor: 4.3

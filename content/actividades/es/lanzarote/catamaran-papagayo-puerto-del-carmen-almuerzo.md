@@ -109,6 +109,8 @@ galeria:
   alt: 'Cala de aguas turquesa en Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
   alt: 'Oleaje en la orilla de una playa de Papagayo'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
+  alt: 'Playa de Papagayo con cielo de nubes'
 ---
 
 ## Qué vas a ver

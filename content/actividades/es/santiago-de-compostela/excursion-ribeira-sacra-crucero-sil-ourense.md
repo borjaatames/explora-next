@@ -80,17 +80,19 @@ imagen: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-estela-barc
 imagenAlt: "Navegando en barco por el cañón del Sil"
 galeria:
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-vinedos-valle-sil.webp
-  alt: "Viñedos y valle del Sil en la Ribeira Sacra"
+  alt: 'Viñedos y valle del Sil en la Ribeira Sacra'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-canon-sil-desde-catamaran.webp
-  alt: "Paredes de roca del cañón del Sil desde el agua"
+  alt: 'Paredes de roca del cañón del Sil desde el agua'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-rio-sil-panoramica.webp
-  alt: "Panorámica del río Sil entre laderas"
+  alt: 'Panorámica del río Sil entre laderas'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-meandro-sil.webp
-  alt: "Meandro del río Sil en la Ribeira Sacra"
+  alt: 'Meandro del río Sil en la Ribeira Sacra'
 - src: /images/actividades/santiago-de-compostela/ourense/fsc-ourense-panoramica.webp
-  alt: "Panorámica de los tejados de Ourense"
+  alt: 'Panorámica de los tejados de Ourense'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-mirador-canon-sil.webp
-  alt: "Vista del cañón del Sil desde un mirador"
+  alt: 'Vista del cañón del Sil desde un mirador'
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-vinedos-bancales-sil.webp
+  alt: 'Viñedos en bancales sobre el río Sil'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en marzo de 2027.'
 ---
 

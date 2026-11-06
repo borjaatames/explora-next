@@ -86,6 +86,14 @@ galeria:
   alt: 'Guitarra flamenca en el escenario'
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-card.webp
   alt: 'Calle del barrio Gótico'
+- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
+  alt: 'Bailaora de flamenco con vestido rojo y guitarristas en un tablao'
+- src: /images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp
+  alt: 'Bailaoras de flamenco con vestidos rojo y negro sobre el escenario'
+- src: /images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp
+  alt: 'Bailaora con mantón rojo y los brazos abiertos en el escenario'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Guitarrista flamenco tocando sobre el escenario'
 ratingProveedor: 4.7
 numeroOpiniones: 1274
 publicada: true

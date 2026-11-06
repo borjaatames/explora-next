@@ -67,6 +67,16 @@ galeria:
   alt: 'Façade of the Royal Palace of Madrid'
 - src: https://imgcdn.bokun.tools/bc1721a2-31b5-4f27-abc9-b65ddfb42823.jpg
   alt: 'Almudena Cathedral at sunset'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
+  alt: 'Royal Palace of Madrid lit up at night'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
+  alt: 'Plaza de Oriente and the Royal Palace'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
+  alt: 'Royal Palace seen from the Campo del Moro gardens'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
+  alt: 'Royal Palace from the Plaza de la Armería with its arcade'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp
+  alt: 'Gala Dining Room of the Royal Palace of Madrid'
 publicada: true
 indexar: false
 destacada: false

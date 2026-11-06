@@ -102,6 +102,8 @@ galeria:
   alt: 'Strand von Papagayo unterhalb seiner felsigen Landzunge'
 - src: /images/actividades/lanzarote/papagayo/flz-acantilados-playa.webp
   alt: 'Klippen und Strand der Playas de Papagayo'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
+  alt: 'Bucht mit türkisem Wasser in Papagayo'
 ---
 
 ## Was du siehst

@@ -104,6 +104,8 @@ galeria:
   alt: 'La mer au ras de l''eau près d''une côte rocheuse'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
   alt: 'La plage principale de Lloret de Mar avec des rochers au premier plan'
+- src: /images/actividades/girona/fgi-mar/fgi-esnorquel-desde-arriba.webp
+  alt: 'Une personne faisant du snorkeling dans une eau claire, vue d''en haut'
 avisoReserva: "Activité saisonnière : les prochaines dates disponibles commencent en mai 2027. La fiche du prestataire n'indique pas les langues de l'équipage ; ne comptez pas sur des explications en français."
 ---
 

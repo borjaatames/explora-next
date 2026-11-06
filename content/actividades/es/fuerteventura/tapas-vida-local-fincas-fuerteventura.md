@@ -95,6 +95,8 @@ galeria:
   alt: 'Cabra majorera en una finca'
 - src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
   alt: 'Elaboración de queso fresco de cabra en una quesería'
+- src: /images/actividades/fuerteventura/queso/ffv-ensalada-queso-cabra.webp
+  alt: 'Ensalada con queso de cabra e higos'
 ---
 
 ## Qué vas a ver

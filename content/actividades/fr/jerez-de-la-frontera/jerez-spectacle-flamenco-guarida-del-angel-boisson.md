@@ -89,6 +89,8 @@ galeria:
   alt: 'Coupole de la cathédrale de Jerez illuminée la nuit'
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
   alt: 'Public assistant à un spectacle de flamenco à Jerez'
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
+  alt: 'Rue de la vieille ville de Jerez avec de grandes fenêtres et une terrasse'
 ---
 
 ## Ce que vous allez voir

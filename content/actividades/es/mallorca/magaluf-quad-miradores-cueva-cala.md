@@ -101,6 +101,8 @@ galeria:
   alt: 'Islote con pinos frente a la costa de Paguera'
 - src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
   alt: 'Roca en el mar rodeada de agua turquesa'
+- src: /images/actividades/mallorca/barco-paguera/delfines-1.webp
+  alt: 'Grupo de delfines saltando en mar abierto'
 ---
 
 ## Qué vas a ver

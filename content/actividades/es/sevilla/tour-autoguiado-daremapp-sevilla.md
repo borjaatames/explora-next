@@ -80,6 +80,8 @@ galeria:
   alt: 'Galería de la Plaza de España con sus bancos de azulejos'
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
   alt: 'Aplicación DaremApp con el recorrido autoguiado'
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
+  alt: 'Plaza de España iluminada de noche'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

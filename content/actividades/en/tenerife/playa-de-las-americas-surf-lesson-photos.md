@@ -91,6 +91,10 @@ galeria:
   alt: 'Surfers at Playa de las Américas'
 - src: /images/actividades/tenerife/cristianos/playa-honda.webp
   alt: 'Beach in southern Tenerife'
+- src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
+  alt: 'Los Cristianos coast with the Atlantic behind, the catamaran base in Tenerife'
+- src: /images/actividades/tenerife/cristianos/montana-guaza.webp
+  alt: 'Montaña de Guaza, in the municipality of Arona'
 ratingProveedor: 4.8
 numeroOpiniones: 1679
 publicada: true

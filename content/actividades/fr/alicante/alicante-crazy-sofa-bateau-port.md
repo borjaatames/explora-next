@@ -84,17 +84,19 @@ imagen: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
 imagenAlt: "Bouées tractées flottant sur la mer"
 galeria:
 - src: /images/actividades/tarragona/banana/fta-lancha-remolcando-banana-aerea.webp
-  alt: "Bateau à moteur tractant une bouée à pleine vitesse, vue aérienne"
+  alt: 'Bateau à moteur tractant une bouée à pleine vitesse, vue aérienne'
 - src: /images/actividades/alicante/fal-crazy-sofa/fal-lancha-remolcando-hinchable.webp
-  alt: "Bateau tractant une bouée en pleine mer"
+  alt: 'Bateau tractant une bouée en pleine mer'
 - src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: "Port et marina d'Alicante vus depuis le château"
+  alt: 'Port et marina d''Alicante vus depuis le château'
 - src: /images/actividades/ibiza/barcos/fi1-barco-navegando-estela.webp
-  alt: "Bateau naviguant en laissant un sillage"
+  alt: 'Bateau naviguant en laissant un sillage'
 - src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: "Plage du Postiguet et château de Santa Bárbara"
+  alt: 'Plage du Postiguet et château de Santa Bárbara'
 - src: /images/actividades/tarragona/banana/fta-banana-boat-arena-chalecos.webp
-  alt: "Bouée et gilets de sauvetage sur le rivage"
+  alt: 'Bouée et gilets de sauvetage sur le rivage'
+- src: /images/actividades/tarragona/banana/fta-moto-agua-remolcando-banana.webp
+  alt: 'Engin nautique tractant une bouée banane près du rivage'
 ---
 
 ## Ce que vous verrez

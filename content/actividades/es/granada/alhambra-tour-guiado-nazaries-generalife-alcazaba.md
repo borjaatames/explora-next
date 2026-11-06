@@ -90,6 +90,8 @@ galeria:
   alt: 'Patio de la Acequia del Generalife'
 - src: /images/actividades/granada/palacios-nazaries/pexels-20455327-hero.webp
   alt: 'Jardines del Generalife'
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: 'Patio de los Leones en los Palacios Nazaríes'
 ratingProveedor: 4.7
 numeroOpiniones: 2448
 publicada: true

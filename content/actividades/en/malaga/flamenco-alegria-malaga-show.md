@@ -89,6 +89,10 @@ galeria:
   alt: 'Muelle Uno promenade in Málaga port'
 - src: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
   alt: 'Málaga Alcazaba'
+- src: /images/actividades/malaga/muelle-uno/paseo-farola.webp
+  alt: 'Paseo de la Farola and Málaga port from Muelle Uno'
+- src: /images/actividades/malaga/muelle-uno/muelle-uno-vista.webp
+  alt: 'Muelle Uno in the port of Málaga'
 ratingProveedor: 4.7
 numeroOpiniones: 6564
 publicada: true

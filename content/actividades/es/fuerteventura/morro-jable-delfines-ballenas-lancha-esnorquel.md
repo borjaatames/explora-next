@@ -90,6 +90,12 @@ galeria:
   alt: 'Faro de Morro Jable'
 - src: /images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp
   alt: 'Grupo de delfines en el Atlántico'
+- src: /images/actividades/fuerteventura/morro-jable/ffv-catamaranes-playa-morro-jable.webp
+  alt: 'Catamaranes de vela en la playa de Morro Jable'
+- src: /images/actividades/fuerteventura/morro-jable/ffv-playa-morro-jable.webp
+  alt: 'Playa de Morro Jable'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Calderón en aguas del sur de Tenerife'
 ratingProveedor: 4.6
 numeroOpiniones: 4306
 publicada: true

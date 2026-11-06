@@ -102,6 +102,8 @@ galeria:
   alt: 'Família de bicicleta junto à Sagrada Família'
 - src: https://imgcdn.bokun.tools/1230ea8e-a91c-4573-bc73-ddaed04c2fee.jpg
   alt: 'Ciclistas junto a uma fonte num parque'
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
+  alt: 'A basílica da Sagrada Família com as suas torres, em Barcelona'
 bokunProductId: 217567
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

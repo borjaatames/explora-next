@@ -73,18 +73,16 @@ keywords:
 imagen: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
 imagenAlt: 'Glass lift tower of the Reina Sofía from a nearby street'
 galeria:
-- src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Glass lift tower of the Reina Sofía from a nearby street
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
-  alt: "The Reina Sofía Museum in Madrid"
+  alt: 'The Reina Sofía Museum in Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
-  alt: Glass lifts on the facade of the Reina Sofía Museum
+  alt: 'Glass lifts on the facade of the Reina Sofía Museum'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
-  alt: Facade of the Reina Sofía Museum on Plaza de Juan Goytisolo, Madrid
+  alt: 'Facade of the Reina Sofía Museum on Plaza de Juan Goytisolo, Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
-  alt: "The Reina Sofía Museum in Madrid"
+  alt: 'The Reina Sofía Museum in Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
-  alt: "The Reina Sofía Museum in Madrid"
+  alt: 'The Reina Sofía Museum in Madrid'
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

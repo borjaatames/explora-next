@@ -87,6 +87,10 @@ galeria:
   alt: 'Mount Teide, visible from northern Tenerife'
 - src: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
   alt: 'Wine barrels stacked in a winery'
+- src: /images/actividades/tenerife/orotava/valle-orotava.webp
+  alt: 'View of northern Tenerife, with the Orotava Valley and the Atlantic'
+- src: /images/actividades/tenerife/orotava/casa-de-los-balcones.webp
+  alt: 'Casa de los Balcones in La Orotava'
 ---
 
 ## What you will see

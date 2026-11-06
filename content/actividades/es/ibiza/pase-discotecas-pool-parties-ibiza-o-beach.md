@@ -83,17 +83,19 @@ imagen: /images/actividades/ibiza/fiesta/fi2-pista-discoteca-luces.webp
 imagenAlt: "Pista de baile de una discoteca con bola de espejos y focos"
 galeria:
 - src: /images/actividades/ibiza/fiesta/fi2-globos-piscina.webp
-  alt: "Globos de colores flotando en una piscina"
+  alt: 'Globos de colores flotando en una piscina'
 - src: /images/actividades/ibiza/fiesta/fi2-banistas-piscina-aerea.webp
-  alt: "Bañistas en una piscina vistos desde arriba"
+  alt: 'Bañistas en una piscina vistos desde arriba'
 - src: /images/actividades/ibiza/fiesta/fi2-paseo-sant-antoni-atardecer.webp
-  alt: "Paseo marítimo de Sant Antoni lleno de gente al atardecer"
+  alt: 'Paseo marítimo de Sant Antoni lleno de gente al atardecer'
 - src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
-  alt: "Puesta de sol en la bahía de Sant Antoni"
+  alt: 'Puesta de sol en la bahía de Sant Antoni'
 - src: /images/actividades/ibiza/fiesta/fi2-sant-antoni-noche.webp
-  alt: "Paseo de Sant Antoni iluminado de noche"
+  alt: 'Paseo de Sant Antoni iluminado de noche'
 - src: /images/actividades/ibiza/bici/fi2-dalt-vila-noche-puerto.webp
-  alt: "Dalt Vila iluminada de noche desde el puerto"
+  alt: 'Dalt Vila iluminada de noche desde el puerto'
+- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
+  alt: 'Puesta de sol sobre los islotes frente a la costa oeste de Ibiza'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 

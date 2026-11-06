@@ -80,17 +80,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/a754c38c-3d1b-4a07-9a33-f369aa30a273.jpg
-  alt: Travellers in front of the Baroque facade of the Marqués de Dos Aguas palace
+  alt: 'Travellers in front of the Baroque facade of the Marqués de Dos Aguas palace'
 - src: https://imgcdn.bokun.tools/f3c2bbe5-9ab9-4a0f-86f0-1871d1b0f85d.jpg
-  alt: Visitors at a ham stall in the Central Market
+  alt: 'Visitors at a ham stall in the Central Market'
 - src: /images/actividades/valencia/centro/lonja-fachada.webp
-  alt: Facade of Valencia's Silk Exchange, a UNESCO World Heritage Site
+  alt: 'Facade of Valencia''s Silk Exchange, a UNESCO World Heritage Site'
 - src: https://imgcdn.bokun.tools/41c5de01-f3aa-49a5-88af-0dc0df1da117.jpg
-  alt: Inside Valencia's Central Market
+  alt: 'Inside Valencia''s Central Market'
 - src: https://imgcdn.bokun.tools/d910370d-29a0-4a13-9bb1-10e6f74814a9.jpg
-  alt: Facade of a traditional shop in central Valencia
+  alt: 'Facade of a traditional shop in central Valencia'
 - src: /images/actividades/valencia/centro/micalet-plaza.webp
-  alt: The Micalet from Plaza de la Reina
+  alt: 'The Micalet from Plaza de la Reina'
+- src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
+  alt: 'Serranos Towers in Valencia, the departure city of the trip'
 bokunProductId: 1062810
 fecha_actualizacion: '2026-10-24'
 privada: true

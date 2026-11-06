@@ -78,6 +78,8 @@ galeria:
   alt: 'Gruppo sdraiato su una tavola da paddle nell’acqua turchese'
 - src: https://imgcdn.bokun.tools/b5ee9b67-8fe3-4bd5-8f22-e1c087c4fd26.jpg
   alt: 'Acque turchesi e isolotti di Formentera'
+- src: /images/actividades/ibiza/fotos-biblioteca/unsplash-j-x7lediab8.webp
+  alt: 'Barca a vela all''ancora in una cala di Ibiza'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

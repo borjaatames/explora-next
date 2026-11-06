@@ -78,6 +78,8 @@ galeria:
   alt: 'Shop selling local products'
 - src: https://imgcdn.bokun.tools/4983bd3a-fbf5-4ccd-888c-217fd42276b6.jpg
   alt: 'Street with flowers in an Alpujarra village'
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-and-sierra-nevada-jpg.webp
+  alt: 'Snowy Sierra Nevada above the Alpujarra villages'
 publicada: true
 indexar: false
 destacada: false

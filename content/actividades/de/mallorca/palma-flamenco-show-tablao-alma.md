@@ -81,6 +81,8 @@ galeria:
   alt: 'Die Kathedrale von Palma unter rosafarbenem Abendhimmel'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
   alt: 'Flamenco-Tänzerin in Schwarz-Weiß'
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+  alt: 'Die Kathedrale von Palma über der Stadtmauer am Meer'
 ratingProveedor: 4.6
 numeroOpiniones: 1683
 atraccionesRelacionadas:

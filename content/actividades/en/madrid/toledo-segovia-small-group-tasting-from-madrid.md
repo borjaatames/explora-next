@@ -80,6 +80,8 @@ galeria:
   alt: 'Toledo from a viewpoint'
 - src: https://imgcdn.bokun.tools/af64ec27-4406-4770-8ee8-d37a205aaeeb.jpg
   alt: 'Couple in front of the aqueduct of Segovia'
+- src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp
+  alt: 'Alcázar fortress castle with stone towers against blue sky in Segovia'
 publicada: true
 indexar: false
 destacada: false

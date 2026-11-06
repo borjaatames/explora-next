@@ -89,6 +89,10 @@ galeria:
   alt: 'Mudéjar arcade in the Real Alcázar'
 - src: /images/actividades/sevilla/catedral-giralda/giralda-detalle-arquitectura.webp
   alt: 'The Giralda seen from the street'
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
+  alt: 'Baths of Doña María de Padilla in the Royal Alcázar'
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
+  alt: 'Facade of the Palace of Pedro I in the Royal Alcázar of Seville'
 ratingProveedor: 4.8
 numeroOpiniones: 13238
 publicada: true

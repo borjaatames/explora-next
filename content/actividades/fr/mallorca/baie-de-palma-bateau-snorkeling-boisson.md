@@ -102,6 +102,8 @@ galeria:
   alt: 'Fonds marins rocheux sous une eau cristalline'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-lancha-agua-verde.webp
   alt: 'Catamaran et annexe sur une eau vert turquoise'
+- src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
+  alt: 'Deux kayaks de mer sur une eau transparente'
 avisoReserva: "Activité saisonnière : les prochaines dates disponibles commencent en mars 2027. La fiche du prestataire n'indique pas les langues de l'équipage ; ne comptez pas sur des explications en français."
 ---
 

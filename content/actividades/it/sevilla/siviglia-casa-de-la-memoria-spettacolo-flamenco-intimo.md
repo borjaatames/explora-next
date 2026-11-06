@@ -108,17 +108,19 @@ imagen: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-bailao
 imagenAlt: Ballerina di flamenco con ventaglio davanti alla porta della Casa de la Memoria
 galeria:
 - src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-patio-interior.webp
-  alt: Patio interno della Casa de la Memoria, nel centro di Siviglia
+  alt: 'Patio interno della Casa de la Memoria, nel centro di Siviglia'
 - src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-sala-escenario.webp
-  alt: Sala e palco della Casa de la Memoria
+  alt: 'Sala e palco della Casa de la Memoria'
 - src: /images/actividades/sevilla/casa-de-la-memoria/casa-de-la-memoria-bailaora-manton.webp
-  alt: Ballerina con scialle del cast della Casa de la Memoria
+  alt: 'Ballerina con scialle del cast della Casa de la Memoria'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
-  alt: Las Setas de la Encarnación, a pochi minuti a piedi
+  alt: 'Las Setas de la Encarnación, a pochi minuti a piedi'
 - src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-patio-andalu-hero.webp
-  alt: Patio andaluso della Casa de la Memoria
+  alt: 'Patio andaluso della Casa de la Memoria'
 - src: /images/actividades/sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla/casa-de-la-memoria-flamenco-show-intimo-sevilla-publico-cone-hero.webp
-  alt: Pubblico che assiste allo spettacolo intimo di flamenco
+  alt: 'Pubblico che assiste allo spettacolo intimo di flamenco'
+- src: /images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp
+  alt: 'Il Metropol Parasol (Las Setas) a Siviglia'
 ratingProveedor: 4.8
 numeroOpiniones: 13526
 publicada: true

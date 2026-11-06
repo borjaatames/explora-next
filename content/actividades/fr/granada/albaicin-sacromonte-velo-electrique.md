@@ -76,13 +76,19 @@ imagen: /images/actividades/granada/albaicin/albaicin-pixabay-3098633.webp
 imagenAlt: L'Alhambra et la Sierra Nevada vues depuis l'Albaicín
 galeria:
 - src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp
-  alt: L'Alhambra au coucher du soleil depuis le mirador de San Nicolás
+  alt: 'L''Alhambra au coucher du soleil depuis le mirador de San Nicolás'
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
-  alt: Maisons troglodytes du Sacromonte
+  alt: 'Maisons troglodytes du Sacromonte'
 - src: /images/actividades/granada/albaicin/albaicin-pixabay-3107980.webp
-  alt: Maisons blanches de l'Albaicín
+  alt: 'Maisons blanches de l''Albaicín'
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: Une rue de l'Albaicín
+  alt: 'Une rue de l''Albaicín'
+- src: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
+  alt: 'L''Albaicín vu depuis les jardins de l''Alhambra'
+- src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
+  alt: 'L''Alhambra éclairée par le soleil de fin d''après-midi'
+- src: /images/actividades/granada/albaicin/albaicin-pexels-30359825.webp
+  alt: 'Maisons blanches de l''Albaicín, à Grenade'
 ratingProveedor: 4.8
 numeroOpiniones: 1054
 publicada: true

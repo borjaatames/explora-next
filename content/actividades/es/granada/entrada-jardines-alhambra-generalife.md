@@ -93,15 +93,19 @@ imagen: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-
 imagenAlt: Jardines del Generalife de la Alhambra de Granada
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp
-  alt: Fortaleza de la Alhambra vista aérea, Granada con sus murallas y torres medievales
+  alt: 'Fortaleza de la Alhambra vista aérea, Granada con sus murallas y torres medievales'
 - src: /images/actividades/granada/alhambra/alhambra-granada-explore-historic-fortress-lush-hero-hero.webp
-  alt: Fortaleza histórica de la Alhambra en Granada rodeada de exuberante vegetación verde
+  alt: 'Fortaleza histórica de la Alhambra en Granada rodeada de exuberante vegetación verde'
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
-  alt: Patio de los Arrayanes de la Alhambra con fuente y arcos en Granada, Andalucía
+  alt: 'Patio de los Arrayanes de la Alhambra con fuente y arcos en Granada, Andalucía'
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp
-  alt: Arcos y columnas decorativas de la Alhambra de Granada con azulejos ornamentales
+  alt: 'Arcos y columnas decorativas de la Alhambra de Granada con azulejos ornamentales'
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
-  alt: Puerta del Vino en la Alhambra de Granada
+  alt: 'Puerta del Vino en la Alhambra de Granada'
+- src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
+  alt: 'La Alcazaba de la Alhambra'
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
+  alt: 'Columnas y arcos de la Alhambra de Granada'
 ratingProveedor: 4.5
 numeroOpiniones: 2256
 publicada: true

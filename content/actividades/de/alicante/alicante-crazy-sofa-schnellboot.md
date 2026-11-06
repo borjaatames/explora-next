@@ -86,17 +86,19 @@ imagen: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
 imagenAlt: Aufblasbare Wasserspielzeuge auf dem Meer
 galeria:
 - src: /images/actividades/tarragona/banana/fta-lancha-remolcando-banana-aerea.webp
-  alt: Schnellboot zieht ein Schlauchboot mit Vollgas, Luftaufnahme
+  alt: 'Schnellboot zieht ein Schlauchboot mit Vollgas, Luftaufnahme'
 - src: /images/actividades/alicante/fal-crazy-sofa/fal-lancha-remolcando-hinchable.webp
-  alt: Boot zieht ein Schlauchboot auf offener See
+  alt: 'Boot zieht ein Schlauchboot auf offener See'
 - src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: Hafen und Marina von Alicante von der Burg aus
+  alt: 'Hafen und Marina von Alicante von der Burg aus'
 - src: /images/actividades/ibiza/barcos/fi1-barco-navegando-estela.webp
-  alt: Boot in Fahrt mit Kielwasser
+  alt: 'Boot in Fahrt mit Kielwasser'
 - src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: Der Strand El Postiguet mit dem Castillo de Santa Bárbara
+  alt: 'Der Strand El Postiguet mit dem Castillo de Santa Bárbara'
 - src: /images/actividades/tarragona/banana/fta-banana-boat-arena-chalecos.webp
-  alt: Schlauchboot mit Schwimmwesten am Ufer
+  alt: 'Schlauchboot mit Schwimmwesten am Ufer'
+- src: /images/actividades/tarragona/banana/fta-moto-agua-remolcando-banana.webp
+  alt: 'Wasserfahrzeug zieht ein Banana Boat nahe am Ufer'
 avisoReserva: Die Instructors sprechen Englisch, Französisch und Spanisch; die Sicherheitshinweise gibt es nicht auf Deutsch. Sie sind kurz, aber du solltest einfache Anweisungen auf Englisch verstehen.
 ---
 

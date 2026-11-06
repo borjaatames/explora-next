@@ -102,6 +102,8 @@ galeria:
   alt: 'Seabed with rocks under crystal-clear water'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-lancha-agua-verde.webp
   alt: 'Catamaran and tender on green-turquoise water'
+- src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
+  alt: 'Two sea kayaks on clear water'
 avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 ---
 

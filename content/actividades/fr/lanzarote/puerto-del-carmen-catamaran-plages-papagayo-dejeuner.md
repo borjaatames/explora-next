@@ -107,6 +107,8 @@ galeria:
   alt: 'Crique aux eaux turquoise à Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
   alt: 'Vagues sur le rivage d''une plage de Papagayo'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
+  alt: 'Plage de Papagayo sous un ciel nuageux'
 ---
 
 ## Ce que vous verrez

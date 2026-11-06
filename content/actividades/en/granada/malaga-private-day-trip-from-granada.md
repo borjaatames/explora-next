@@ -79,17 +79,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
-  alt: Nasrid-style arches in a courtyard of Málaga's Alcazaba
+  alt: 'Nasrid-style arches in a courtyard of Málaga''s Alcazaba'
 - src: https://imgcdn.bokun.tools/8667741a-2ebb-4cdd-a96d-65c1a165f848.jpeg
-  alt: View over Málaga with the bullring and port
+  alt: 'View over Málaga with the bullring and port'
 - src: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp
-  alt: Málaga's Roman Theatre with the Alcazaba behind
+  alt: 'Málaga''s Roman Theatre with the Alcazaba behind'
 - src: https://imgcdn.bokun.tools/43bec992-018a-4a43-987a-4cd259f7c3a6.jpeg
-  alt: Statue beside Málaga Cathedral
+  alt: 'Statue beside Málaga Cathedral'
 - src: /images/actividades/malaga/museo-picasso/patio-buenavista.webp
-  alt: Arcaded courtyard of the Buenavista Palace, home of the Museo Picasso Málaga
+  alt: 'Arcaded courtyard of the Buenavista Palace, home of the Museo Picasso Málaga'
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-04.webp
-  alt: Central nave of Málaga Cathedral
+  alt: 'Central nave of Málaga Cathedral'
+- src: /images/actividades/malaga/catedral-malaga/fachada.webp
+  alt: 'Baroque façade of Málaga Cathedral'
 bokunProductId: 938174
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

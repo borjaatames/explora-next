@@ -79,15 +79,19 @@ imagen: /images/actividades/granada/alhambra/alhambra-granada-partal-torre-damas
 imagenAlt: Le Partal et la tour des Dames se reflétant dans le bassin de l'Alhambra
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp
-  alt: Fontaine de la cour des Lions
+  alt: 'Fontaine de la cour des Lions'
 - src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
-  alt: Jardins du Generalife
+  alt: 'Jardins du Generalife'
 - src: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp
-  alt: Cour des Myrtes
+  alt: 'Cour des Myrtes'
 - src: /images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp
-  alt: Palais de Charles Quint à l'aube
+  alt: 'Palais de Charles Quint à l''aube'
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
-  alt: L'Alcazaba de l'Alhambra
+  alt: 'L''Alcazaba de l''Alhambra'
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
+  alt: 'Colonnes et arcs de l''Alhambra de Grenade'
+- src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
+  alt: 'Cour avec eau et verdure au Generalife de l''Alhambra'
 ratingProveedor: 4.8
 numeroOpiniones: 1047
 publicada: true

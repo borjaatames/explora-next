@@ -91,6 +91,8 @@ galeria:
   alt: 'Fahrräder am Rathausplatz'
 - src: /images/actividades/valencia/bici-tour/bicis-calle-centro.webp
   alt: 'Fahrräder in einer Straße im Zentrum von Valencia'
+- src: /images/actividades/valencia/turia/fvc-paseo-jardin-turia.webp
+  alt: 'Baumgesäumter Weg in den Turia-Gärten'
 ratingProveedor: 4.7
 numeroOpiniones: 2474
 publicada: true

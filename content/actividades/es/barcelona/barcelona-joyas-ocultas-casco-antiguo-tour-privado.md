@@ -73,6 +73,8 @@ galeria:
   alt: 'Interior del mercado de La Boqueria'
 - src: https://imgcdn.bokun.tools/1d4fb340-6354-4666-9929-89dc363c7831.jpg
   alt: 'Plaça de Catalunya vista desde lo alto'
+- src: /images/actividades/barcelona/barrio-gotico-barcelona/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp
+  alt: 'Barrio Gotico Barcelona Explore Narrow Historic Street'
 publicada: true
 indexar: false
 destacada: false

@@ -92,17 +92,19 @@ imagen: /images/actividades/fuerteventura/buggy/ffv-buggy-corralejo-polvo.webp
 imagenAlt: "Buggy kicking up dust on a dirt track in Corralejo"
 galeria:
 - src: /images/actividades/fuerteventura/buggy-corralejo.webp
-  alt: "Buggies lined up for the tour"
+  alt: 'Buggies lined up for the tour'
 - src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: "Volcanoes in the north of Fuerteventura"
+  alt: 'Volcanoes in the north of Fuerteventura'
 - src: /images/actividades/fuerteventura/buggy/ffv-buggy-saltando-arena.webp
-  alt: "Buggy kicking up sand on a track"
+  alt: 'Buggy kicking up sand on a track'
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-paisaje.webp
-  alt: "Volcanic landscape from Calderón Hondo"
+  alt: 'Volcanic landscape from Calderón Hondo'
 - src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
-  alt: "Corralejo bay"
+  alt: 'Corralejo bay'
 - src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
-  alt: "Isla de Lobos seen from a beach in Corralejo"
+  alt: 'Isla de Lobos seen from a beach in Corralejo'
+- src: /images/actividades/fuerteventura/buggy/ffv-buggy-pista-tierra-roja.webp
+  alt: 'Buggy on a reddish dirt track'
 ---
 
 ## What you will see

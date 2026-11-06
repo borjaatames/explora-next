@@ -102,6 +102,8 @@ galeria:
   alt: 'Abendlicht in der Masca-Schlucht'
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
   alt: 'Die Küste von Los Gigantes'
+- src: /images/actividades/tenerife/masca/masca-caserio.webp
+  alt: 'Der Weiler Masca zwischen den Bergen'
 ratingProveedor: 4.7
 numeroOpiniones: 374
 atraccionesRelacionadas:

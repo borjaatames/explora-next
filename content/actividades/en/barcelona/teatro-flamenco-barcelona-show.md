@@ -86,6 +86,14 @@ galeria:
   alt: 'Flamenco guitar on stage'
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-card.webp
   alt: 'Street in the Gothic Quarter'
+- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
+  alt: 'Flamenco dancer in a red dress with guitarists in a tablao'
+- src: /images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp
+  alt: 'Flamenco dancers in red and black dresses on stage'
+- src: /images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp
+  alt: 'Flamenco dancer with a red shawl and open arms on stage'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Flamenco guitarist playing on stage'
 ratingProveedor: 4.7
 numeroOpiniones: 1274
 publicada: true

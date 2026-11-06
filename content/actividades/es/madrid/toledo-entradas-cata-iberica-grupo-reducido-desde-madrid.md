@@ -79,6 +79,12 @@ galeria:
   alt: 'Grupo en el puente de Alcántara'
 - src: https://imgcdn.bokun.tools/9cad972e-ebba-4735-b12a-78ddff4eb1a2.jpg
   alt: 'Arco mudéjar en Toledo'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
+  alt: 'Alcázar de Toledo sobre la ciudad'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero.webp
+  alt: 'Palacio Real de Aranjuez en Madrid, vista frontal con fachada arquitectónica clásica'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-spain-unesco-world-heritage-site-hero.webp
+  alt: 'Vista de Toledo con el Alcázar'
 publicada: true
 indexar: false
 destacada: false

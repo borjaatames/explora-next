@@ -79,6 +79,10 @@ galeria:
   alt: 'Travellers during the Alhambra visit'
 - src: https://imgcdn.bokun.tools/4ea9e444-f908-4c46-a6c5-31ebcaba6612.jpg
   alt: 'Nasrid window with a view'
+- src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
+  alt: 'Granada''s historic streets with traditional architecture and narrow pathways'
+- src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
+  alt: 'Generalife gardens of the Alhambra in Granada'
 publicada: true
 indexar: false
 destacada: false

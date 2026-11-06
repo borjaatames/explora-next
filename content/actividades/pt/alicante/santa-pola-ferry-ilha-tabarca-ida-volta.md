@@ -74,17 +74,19 @@ imagen: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
 imagenAlt: Vila amuralhada da ilha de Tabarca vista do mar
 galeria:
 - src: /images/actividades/alicante/tabarca/torre-san-jose-tabarca.webp
-  alt: Torre de San José na ilha de Tabarca
+  alt: 'Torre de San José na ilha de Tabarca'
 - src: /images/actividades/alicante/tabarca/tabarca-playa.webp
-  alt: Praia de Tabarca
+  alt: 'Praia de Tabarca'
 - src: /images/actividades/alicante/tabarca/faro-tabarca.webp
-  alt: Farol de Tabarca
+  alt: 'Farol de Tabarca'
 - src: /images/actividades/alicante/tabarca/porta-de-terra.webp
-  alt: Porta de Terra, entrada da vila amuralhada
+  alt: 'Porta de Terra, entrada da vila amuralhada'
 - src: /images/actividades/alicante/tabarca/tabarca-calle.webp
-  alt: Rua da vila de Tabarca
+  alt: 'Rua da vila de Tabarca'
 - src: /images/actividades/alicante/tabarca/tabarca-fortificacion.webp
-  alt: Fortificação de Tabarca vista do mar
+  alt: 'Fortificação de Tabarca vista do mar'
+- src: /images/actividades/alicante/tabarca/faro-tabarca-campo.webp
+  alt: 'Farol da ilha de Tabarca, Alicante'
 ratingProveedor: 4.6
 numeroOpiniones: 1822
 atraccionesRelacionadas:

@@ -88,17 +88,19 @@ imagen: /images/actividades/fuerteventura/safari-4x4/ffv-todoterreno-pista-tierr
 imagenAlt: "4x4 driving along a dirt track among mountains"
 galeria:
 - src: /images/actividades/fuerteventura/punta-jandia/ffv-faro-punta-jandia.webp
-  alt: "Punta Jandía lighthouse"
+  alt: 'Punta Jandía lighthouse'
 - src: /images/actividades/fuerteventura/punta-jandia/ffv-linterna-faro-oleaje.webp
-  alt: "Lantern of the Punta Jandía lighthouse above the waves"
+  alt: 'Lantern of the Punta Jandía lighthouse above the waves'
 - src: /images/actividades/fuerteventura/punta-jandia/ffv-costa-punta-jandia.webp
-  alt: "Rocky coast at Punta de Jandía"
+  alt: 'Rocky coast at Punta de Jandía'
 - src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
-  alt: "View of Cofete from the viewpoint"
+  alt: 'View of Cofete from the viewpoint'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-4.webp
-  alt: "Clouds over Cofete beach"
+  alt: 'Clouds over Cofete beach'
 - src: /images/actividades/fuerteventura/zonas/villa-winter.webp
-  alt: "Villa Winter on the Cofete hillside"
+  alt: 'Villa Winter on the Cofete hillside'
+- src: /images/actividades/fuerteventura/punta-jandia/ffv-pista-faro-punta-jandia.webp
+  alt: 'Track to the Punta Jandía lighthouse'
 ---
 
 ## What you will see

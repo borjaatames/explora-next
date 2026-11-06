@@ -91,15 +91,19 @@ imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
 imagenAlt: A jet ski riding the waves
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: Puerto Rico de Gran Canaria marina, the tour's starting point
+  alt: 'Puerto Rico de Gran Canaria marina, the tour''s starting point'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: Boats in the Puerto Rico marina
+  alt: 'Boats in the Puerto Rico marina'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
-  alt: Sunset over the harbour at Puerto Rico de Gran Canaria
+  alt: 'Sunset over the harbour at Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
-  alt: Puerto Rico harbour in Gran Canaria seen from above
+  alt: 'Puerto Rico harbour in Gran Canaria seen from above'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: Puerto Rico bay and marina, Gran Canaria
+  alt: 'Puerto Rico bay and marina, Gran Canaria'
+- src: /images/actividades/gran-canaria/mar/calderones-grupo.webp
+  alt: 'A pod of pilot whales in the Canary Atlantic'
+- src: /images/actividades/gran-canaria/mar/calderon-tropical.webp
+  alt: 'A short-finned pilot whale in Canary Islands waters'
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

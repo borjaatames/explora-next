@@ -91,6 +91,8 @@ galeria:
   alt: 'Seville Cathedral and the Giralda at dusk'
 - src: https://imgcdn.bokun.tools/2ac9cb53-6f46-420d-aea7-e07412f18ec1.jpg
   alt: 'The Guadalquivir and the Triana riverbank'
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: 'Torre del Oro and boats on the Guadalquivir'
 bokunProductId: 1156777
 fecha_actualizacion: '2026-10-24'
 privada: true

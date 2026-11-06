@@ -82,17 +82,19 @@ imagen: /images/actividades/tenerife/gigantes/ftc-los-gigantes-puerto-acantilado
 imagenAlt: "Vue aérienne de Los Gigantes, avec son port de plaisance et ses falaises"
 galeria:
 - src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
-  alt: "Les falaises de Los Gigantes vues depuis la mer"
+  alt: 'Les falaises de Los Gigantes vues depuis la mer'
 - src: /images/actividades/tenerife/icod/ftc-drago-milenario-visitantes.webp
-  alt: "Le dragonnier millénaire d'Icod de los Vinos avec des visiteurs à son pied"
+  alt: 'Le dragonnier millénaire d''Icod de los Vinos avec des visiteurs à son pied'
 - src: /images/actividades/tenerife/icod/ftc-icod-casa-balcon-canario.webp
-  alt: "Maison traditionnelle avec balcon canarien à Icod de los Vinos"
+  alt: 'Maison traditionnelle avec balcon canarien à Icod de los Vinos'
 - src: /images/actividades/tenerife/icod/ftc-drago-icod-palmera.webp
-  alt: "Le dragonnier d'Icod à côté d'un palmier des Canaries"
+  alt: 'Le dragonnier d''Icod à côté d''un palmier des Canaries'
 - src: /images/actividades/tenerife/orotava/valle-orotava.webp
-  alt: "La vallée de La Orotava descendant vers la côte nord, où se trouve Puerto de la Cruz"
+  alt: 'La vallée de La Orotava descendant vers la côte nord, où se trouve Puerto de la Cruz'
 - src: /images/actividades/tenerife/orotava/valle-plataneras.webp
-  alt: "Bananeraies et villages sur la côte nord de Tenerife"
+  alt: 'Bananeraies et villages sur la côte nord de Tenerife'
+- src: /images/actividades/tenerife/icod/drago-milenario.webp
+  alt: 'Le Drago Milenario d''Icod de los Vinos'
 ---
 
 ## Ce que vous verrez

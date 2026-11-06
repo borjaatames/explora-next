@@ -78,17 +78,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/7546c69a-9c85-42cc-898b-c63c4d093bc6.jpeg
-  alt: Calle encalada del Albaicín con macetas azules
+  alt: 'Calle encalada del Albaicín con macetas azules'
 - src: https://imgcdn.bokun.tools/fdbd9ec5-8816-4220-ba12-6014e3e46c3d.jpeg
-  alt: Viajeros contemplando la Alhambra desde un mirador
+  alt: 'Viajeros contemplando la Alhambra desde un mirador'
 - src: https://imgcdn.bokun.tools/6bd542e8-89cd-4e08-86e9-db779bea1b76.jpeg
-  alt: Callejón del Albaicín con buganvillas
+  alt: 'Callejón del Albaicín con buganvillas'
 - src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-granada-plaza-de-san-nicol-s-16-03-2011-14-27-28-j.webp
-  alt: Mirador de San Nicolás en el Albaicín
+  alt: 'Mirador de San Nicolás en el Albaicín'
 - src: https://imgcdn.bokun.tools/5923a034-f4ca-4f3e-80f4-a8e679ced2dd.jpeg
-  alt: Viajeros en un mirador sobre Granada
+  alt: 'Viajeros en un mirador sobre Granada'
 - src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
-  alt: Casas cueva en la ladera del Sacromonte
+  alt: 'Casas cueva en la ladera del Sacromonte'
+- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
+  alt: 'El Albaicín al caer la tarde'
 bokunProductId: 938039
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

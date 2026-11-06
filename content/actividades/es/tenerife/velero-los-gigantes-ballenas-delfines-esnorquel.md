@@ -97,6 +97,8 @@ galeria:
   alt: 'Los Gigantes al atardecer'
 - src: /images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp
   alt: 'Delfín nadando cerca de la superficie'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Calderón en aguas del sur de Tenerife'
 ratingProveedor: 4.9
 numeroOpiniones: 2306
 publicada: true

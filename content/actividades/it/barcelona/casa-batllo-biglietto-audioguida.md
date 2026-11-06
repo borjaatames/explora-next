@@ -114,6 +114,8 @@ galeria:
   alt: 'La facciata curva di Casa Batlló con i suoi mosaici, nel paesaggio di Barcellona'
 - src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
   alt: 'Panorama di Barcellona al tramonto tra edifici storici e moderni'
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-ceiling-chandelier-barcelona-hero.webp
+  alt: 'Il soffitto a spirale e la lampada del salone di Casa Batlló'
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

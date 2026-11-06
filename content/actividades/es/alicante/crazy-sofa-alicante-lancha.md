@@ -86,17 +86,19 @@ imagen: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
 imagenAlt: "Hinchables acuáticos remolcables flotando en el mar"
 galeria:
 - src: /images/actividades/tarragona/banana/fta-lancha-remolcando-banana-aerea.webp
-  alt: "Lancha remolcando un hinchable a toda velocidad, vista aérea"
+  alt: 'Lancha remolcando un hinchable a toda velocidad, vista aérea'
 - src: /images/actividades/alicante/fal-crazy-sofa/fal-lancha-remolcando-hinchable.webp
-  alt: "Lancha remolcando un hinchable en mar abierto"
+  alt: 'Lancha remolcando un hinchable en mar abierto'
 - src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: "Puerto y marina de Alicante vistos desde el castillo"
+  alt: 'Puerto y marina de Alicante vistos desde el castillo'
 - src: /images/actividades/ibiza/barcos/fi1-barco-navegando-estela.webp
-  alt: "Lancha navegando y dejando estela en el mar"
+  alt: 'Lancha navegando y dejando estela en el mar'
 - src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: "Playa del Postiguet con el castillo de Santa Bárbara"
+  alt: 'Playa del Postiguet con el castillo de Santa Bárbara'
 - src: /images/actividades/tarragona/banana/fta-banana-boat-arena-chalecos.webp
-  alt: "Hinchable con chalecos salvavidas en la orilla"
+  alt: 'Hinchable con chalecos salvavidas en la orilla'
+- src: /images/actividades/tarragona/banana/fta-moto-agua-remolcando-banana.webp
+  alt: 'Embarcación remolcando un banana boat junto a la orilla'
 ---
 
 ## Qué vas a ver

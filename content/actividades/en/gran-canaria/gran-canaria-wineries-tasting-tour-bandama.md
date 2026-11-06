@@ -82,17 +82,19 @@ imagen: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-
 imagenAlt: "Red wine being poured into a glass at a tasting"
 galeria:
 - src: /images/actividades/gran-canaria/vino/fgc-mirador-caldera-bandama.webp
-  alt: "View of the Bandama Caldera from the viewpoint"
+  alt: 'View of the Bandama Caldera from the viewpoint'
 - src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-mar.webp
-  alt: "The Bandama Caldera with the east coast of Gran Canaria behind"
+  alt: 'The Bandama Caldera with the east coast of Gran Canaria behind'
 - src: /images/actividades/fuerteventura/bodega/ffv-racimos-uva-vina.webp
-  alt: "Bunches of grapes on the vine"
+  alt: 'Bunches of grapes on the vine'
 - src: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
-  alt: "Oak barrels in a winery"
+  alt: 'Oak barrels in a winery'
 - src: /images/actividades/alicante/vino/cata-copas.webp
-  alt: "Glasses set out for a wine tasting"
+  alt: 'Glasses set out for a wine tasting'
 - src: /images/actividades/gran-canaria/vino/fgc-interior-caldera-bandama.webp
-  alt: "The vegetation-covered inside of the Bandama Caldera"
+  alt: 'The vegetation-covered inside of the Bandama Caldera'
+- src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-santa-brigida.webp
+  alt: 'The Bandama Caldera, next to Santa Brígida'
 ---
 
 ## What you will see

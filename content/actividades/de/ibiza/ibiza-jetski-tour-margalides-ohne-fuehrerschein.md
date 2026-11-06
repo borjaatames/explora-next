@@ -98,17 +98,19 @@ imagen: /images/actividades/ibiza/moto-agua/fi2-motos-agua-junto-islote.webp
 imagenAlt: Zwei Jetskis bei einer kleinen Insel
 galeria:
 - src: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
-  alt: Die Bucht von Sant Antoni, der Startpunkt
+  alt: 'Die Bucht von Sant Antoni, der Startpunkt'
 - src: /images/actividades/ibiza/moto-agua/fi2-motos-agua-mar-abierto.webp
-  alt: Jetskis auf offener See
+  alt: 'Jetskis auf offener See'
 - src: /images/actividades/ibiza/moto-agua/fi2-bahia-sant-antoni-desde-arriba.webp
-  alt: Blick auf die Bucht von Sant Antoni mit ankernden Booten
+  alt: 'Blick auf die Bucht von Sant Antoni mit ankernden Booten'
 - src: /images/actividades/ibiza/moto-agua/fi2-moto-agua-olas.webp
-  alt: Fahrer mit Helm auf einem Jetski in den Wellen
+  alt: 'Fahrer mit Helm auf einem Jetski in den Wellen'
 - src: /images/actividades/ibiza/moto-agua/fi2-acantilados-costa-norte.webp
-  alt: Klippen an der Nordküste von Ibiza bei Cala Salada
+  alt: 'Klippen an der Nordküste von Ibiza bei Cala Salada'
 - src: /images/actividades/ibiza/moto-agua/fi2-moto-agua-estela.webp
-  alt: Ein Jetski zieht eine Schaumspur
+  alt: 'Ein Jetski zieht eine Schaumspur'
+- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
+  alt: 'Boote im Hafen von Sant Antoni'
 ---
 
 ## Was du siehst

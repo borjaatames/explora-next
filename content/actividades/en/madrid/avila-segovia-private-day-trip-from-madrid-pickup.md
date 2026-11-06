@@ -74,6 +74,10 @@ galeria:
   alt: 'Segovia Cathedral at sunset'
 - src: https://imgcdn.bokun.tools/8144d13e-5ae7-4001-a82b-153a353d18cd.jpg
   alt: 'Romanesque church in Ávila'
+- src: /images/actividades/avila/avila/pixabay-2709091-hero.webp
+  alt: 'Medieval walls and towers of Ávila, Spain''s historic walled city'
+- src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp
+  alt: 'Gothic Cathedral of Avila with fortified walls and stone ramparts'
 publicada: true
 indexar: false
 destacada: false

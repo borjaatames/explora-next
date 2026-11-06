@@ -102,6 +102,8 @@ galeria:
   alt: 'Felsiger Meeresgrund unter kristallklarem Wasser'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-lancha-agua-verde.webp
   alt: 'Katamaran und Beiboot auf grün-türkisfarbenem Wasser'
+- src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
+  alt: 'Zwei Seekajaks auf klarem Wasser'
 avisoReserva: 'Saisonale Aktivität: Die nächsten verfügbaren Termine beginnen im März 2027. An Bord gibt es keine Erklärungen auf Deutsch; die Crew spricht Spanisch und meist Englisch. Zum Baden und Schnorcheln brauchst du aber keine Sprachkenntnisse.'
 ---
 

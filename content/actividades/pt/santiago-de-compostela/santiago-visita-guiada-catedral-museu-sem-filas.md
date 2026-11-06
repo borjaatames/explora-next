@@ -82,17 +82,19 @@ imagen: /images/actividades/santiago-de-compostela/catedral/altar-mayor.webp
 imagenAlt: "Altar-mor barroco da Catedral de Santiago"
 galeria:
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-obradoiro-visitantes.webp
-  alt: "Visitantes na Praza do Obradoiro em frente à Catedral de Santiago"
+  alt: 'Visitantes na Praza do Obradoiro em frente à Catedral de Santiago'
 - src: /images/actividades/santiago-de-compostela/catedral/tribuna.webp
-  alt: "Tribuna românica sobre a nave da catedral"
+  alt: 'Tribuna românica sobre a nave da catedral'
 - src: /images/actividades/santiago-de-compostela/catedral/botafumeiro-vuelo.webp
-  alt: "Tiraboleiros a balançar o botafumeiro na catedral"
+  alt: 'Tiraboleiros a balançar o botafumeiro na catedral'
 - src: /images/actividades/santiago-de-compostela/catedral/cupula.webp
-  alt: "Cúpula sobre o transepto da Catedral de Santiago"
+  alt: 'Cúpula sobre o transepto da Catedral de Santiago'
 - src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
-  alt: "Abóbadas góticas do claustro da catedral"
+  alt: 'Abóbadas góticas do claustro da catedral'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-timpano-praterias.webp
-  alt: "Tímpano românico da fachada das Praterías da catedral"
+  alt: 'Tímpano românico da fachada das Praterías da catedral'
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: 'Praza da Quintana'
 ---
 
 ## O que vai ver

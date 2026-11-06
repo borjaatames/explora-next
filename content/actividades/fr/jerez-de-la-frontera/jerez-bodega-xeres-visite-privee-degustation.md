@@ -78,15 +78,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/f9a78837-7ccf-414c-83ae-7ed022e202fe.jpeg
-  alt: Chai de la bodega avec arcs et fûts
+  alt: 'Chai de la bodega avec arcs et fûts'
 - src: https://imgcdn.bokun.tools/7c0c3d57-1b33-433b-9d51-9cc2b0b8886d.jpeg
-  alt: Entrée de la bodega avec palmiers et fontaine
+  alt: 'Entrée de la bodega avec palmiers et fontaine'
 - src: /images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp
-  alt: Dégustation de xérès à Jerez
+  alt: 'Dégustation de xérès à Jerez'
 - src: https://imgcdn.bokun.tools/73f2cb65-36a8-4aad-97db-6b32ad89701a.jpeg
-  alt: Rangées de fûts dans la bodega
+  alt: 'Rangées de fûts dans la bodega'
 - src: https://imgcdn.bokun.tools/d6d6dbe0-b9c5-442d-b353-83b3bfe4e36e.jpeg
-  alt: Fûts empilés dans le chai d'une bodega
+  alt: 'Fûts empilés dans le chai d''une bodega'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: 'Musiciens en direct dans un tablao flamenco de Jerez'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
+  alt: 'Public assistant à un spectacle de flamenco à Jerez'
 bokunProductId: 83913
 fecha_actualizacion: '2026-10-24'
 privada: true

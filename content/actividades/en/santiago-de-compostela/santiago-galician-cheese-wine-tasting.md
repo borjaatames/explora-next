@@ -81,17 +81,19 @@ imagen: /images/actividades/santiago-de-compostela/tapas/queso-tetilla.webp
 imagenAlt: "Galician tetilla cheese with protected designation of origin"
 galeria:
 - src: /images/actividades/santiago-de-compostela/tapas/fsc-cata-quesos-curados-surtido.webp
-  alt: "Assortment of aged cheeses of various sizes"
+  alt: 'Assortment of aged cheeses of various sizes'
 - src: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
-  alt: "Albariño vineyards in the Rías Baixas"
+  alt: 'Albariño vineyards in the Rías Baixas'
 - src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: "Rúa do Franco, a street of bars and restaurants in Santiago's old town"
+  alt: 'Rúa do Franco, a street of bars and restaurants in Santiago''s old town'
 - src: /images/actividades/santiago-de-compostela/rias/parras.webp
-  alt: "Grapevines trained on granite pillars in Galicia"
+  alt: 'Grapevines trained on granite pillars in Galicia'
 - src: /images/actividades/santiago-de-compostela/tapas/bar-gallego.webp
-  alt: "Inside a traditional Galician bar with barrels"
+  alt: 'Inside a traditional Galician bar with barrels'
 - src: /images/actividades/santiago-de-compostela/rias/vendimia-albarino-cambados.webp
-  alt: "Crates of freshly harvested Albariño grapes"
+  alt: 'Crates of freshly harvested Albariño grapes'
+- src: /images/actividades/santiago-de-compostela/tapas/mejillones.webp
+  alt: 'Pot of mussels'
 ---
 
 ## What you will see

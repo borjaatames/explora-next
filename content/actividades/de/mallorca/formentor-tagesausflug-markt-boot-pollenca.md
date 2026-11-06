@@ -90,17 +90,19 @@ imagen: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aere
 imagenAlt: "Boote in der Bucht von Formentor, Luftaufnahme"
 galeria:
 - src: /images/actividades/mallorca/gastronomia/sobrasada-02.webp
-  alt: "Sobrasadas an einem mallorquinischen Marktstand"
+  alt: 'Sobrasadas an einem mallorquinischen Marktstand'
 - src: /images/actividades/mallorca/fma-formentor/cala-mallorca-barcos-fondeados.webp
-  alt: "Vor Anker liegende Boote in einer Bucht auf Mallorca"
+  alt: 'Vor Anker liegende Boote in einer Bucht auf Mallorca'
 - src: /images/actividades/mallorca/formentor/platja-formentor-agua-turquesa.webp
-  alt: "Türkisfarbenes Wasser am Strand von Formentor"
+  alt: 'Türkisfarbenes Wasser am Strand von Formentor'
 - src: /images/actividades/mallorca/fma-formentor/es-colomer-islote.webp
-  alt: "Die Insel Es Colomer vom Aussichtspunkt aus"
+  alt: 'Die Insel Es Colomer vom Aussichtspunkt aus'
 - src: /images/actividades/mallorca/fma-formentor/carretera-formentor-curvas.webp
-  alt: "Kurvenreiche Straße zum Cap de Formentor"
+  alt: 'Kurvenreiche Straße zum Cap de Formentor'
 - src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
-  alt: "Sobrasada, eine typisch mallorquinische Streichwurst"
+  alt: 'Sobrasada, eine typisch mallorquinische Streichwurst'
+- src: /images/actividades/mallorca/fma-formentor/formentor-puesta-sol.webp
+  alt: 'Sonnenuntergang über den Klippen von Formentor'
 avisoReserva: 'Saisonale Aktivität: Die nächsten verfügbaren Termine beginnen im April 2027.'
 ---
 

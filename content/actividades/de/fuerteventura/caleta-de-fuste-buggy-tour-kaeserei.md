@@ -95,17 +95,19 @@ imagen: /images/actividades/fuerteventura/buggy/ffv-buggy-pista-tierra-roja.webp
 imagenAlt: "Buggy auf einer rötlichen Schotterpiste"
 galeria:
 - src: /images/actividades/fuerteventura/buggy/ffv-tres-buggies-arena.webp
-  alt: "Drei Buggys hintereinander im Sand"
+  alt: 'Drei Buggys hintereinander im Sand'
 - src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
-  alt: "Ziegenherde an einem Hang auf Fuerteventura"
+  alt: 'Ziegenherde an einem Hang auf Fuerteventura'
 - src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
-  alt: "Herstellung von frischem Ziegenkäse in einer Käserei"
+  alt: 'Herstellung von frischem Ziegenkäse in einer Käserei'
 - src: /images/actividades/fuerteventura/buggy/ffv-buggy-junto-al-mar.webp
-  alt: "Buggy im Sand am Meer geparkt"
+  alt: 'Buggy im Sand am Meer geparkt'
 - src: /images/actividades/fuerteventura/la-pared/ffv-costa-oeste-oleaje.webp
-  alt: "Wellen an der Westküste von Fuerteventura"
+  alt: 'Wellen an der Westküste von Fuerteventura'
 - src: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
-  alt: "Majorera-Ziege mit langen Hörnern"
+  alt: 'Majorera-Ziege mit langen Hörnern'
+- src: /images/actividades/fuerteventura/cabras/ffv-cabra-en-las-rocas.webp
+  alt: 'Ziege auf Vulkanfelsen'
 ---
 
 ## Was du siehst

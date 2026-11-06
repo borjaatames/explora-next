@@ -77,6 +77,8 @@ galeria:
   alt: 'Coppia seduta sul ponte della barca a vela'
 - src: https://imgcdn.bokun.tools/6a7c6910-76ad-4585-bead-710819b28eea.jpg
   alt: 'Coppia che cammina sugli scogli di una caletta di Ibiza'
+- src: /images/actividades/ibiza/fotos-biblioteca/pexels-33838897.webp
+  alt: 'Ses Illetes a Formentera con barche all''ancora'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

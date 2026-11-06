@@ -86,17 +86,19 @@ imagen: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-camino-acceso.w
 imagenAlt: "Camino de acceso y puente a San Juan de Gaztelugatxe entre acantilados"
 galeria:
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-islote-arco.webp
-  alt: "Islote de San Juan de Gaztelugatxe con su ermita y arco natural"
+  alt: 'Islote de San Juan de Gaztelugatxe con su ermita y arco natural'
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-mundaka-puerto-barcas.webp
-  alt: "Barcas en el puerto de Mundaka"
+  alt: 'Barcas en el puerto de Mundaka'
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-mundaka-puerto.webp
-  alt: "Puerto de Mundaka con la torre de la iglesia al fondo"
+  alt: 'Puerto de Mundaka con la torre de la iglesia al fondo'
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-mundaka-ria-vista.webp
-  alt: "Vista de la ría de Urdaibai desde Mundaka"
+  alt: 'Vista de la ría de Urdaibai desde Mundaka'
 - src: /images/actividades/bilbao/gaztelugatxe/arbol-gernika.webp
-  alt: "Casa de Juntas y Árbol de Gernika"
+  alt: 'Casa de Juntas y Árbol de Gernika'
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-gernika-iglesia.webp
-  alt: "Iglesia en el centro de Gernika"
+  alt: 'Iglesia en el centro de Gernika'
+- src: /images/actividades/bilbao/gaztelugatxe/ermita.webp
+  alt: 'Ermita de San Juan de Gaztelugatxe en lo alto del islote'
 ---
 
 ## Qué vas a ver

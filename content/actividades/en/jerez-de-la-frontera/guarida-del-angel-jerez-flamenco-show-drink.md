@@ -89,6 +89,8 @@ galeria:
   alt: 'Dome of Jerez Cathedral lit up at night'
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
   alt: 'Audience enjoying a flamenco show in Jerez'
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
+  alt: 'Old town street in Jerez with large windows and a terrace'
 ---
 
 ## What you will see

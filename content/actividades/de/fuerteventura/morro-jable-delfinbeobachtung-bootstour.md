@@ -87,13 +87,19 @@ imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
 imagenAlt: Delfine schwimmen neben einem Boot vor Morro Jable
 galeria:
 - src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
-  alt: Der Leuchtturm von Morro Jable
+  alt: 'Der Leuchtturm von Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable und der Strand Matorral von den Hügeln aus gesehen
+  alt: 'Morro Jable und der Strand Matorral von den Hügeln aus gesehen'
 - src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: Die Küste von Jandía mit dem Leuchtturm in der Ferne
+  alt: 'Die Küste von Jandía mit dem Leuchtturm in der Ferne'
 - src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
-  alt: Leuchtturm von Morro Jable zwischen Salzwiesen-Gestrüpp
+  alt: 'Leuchtturm von Morro Jable zwischen Salzwiesen-Gestrüpp'
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: 'Bucht von Corralejo'
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: 'Vulkane im Norden von Fuerteventura'
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
+  alt: 'Boote im Hafen von Corralejo'
 ratingProveedor: 4.2
 numeroOpiniones: 5490
 atraccionesRelacionadas:

@@ -85,17 +85,19 @@ imagen: /images/actividades/cadiz/catamaran/ftc-catamaran-vela-mar-abierto.webp
 imagenAlt: "Catamaran naviguant à la voile en pleine mer (image d'illustration)"
 galeria:
 - src: /images/actividades/cadiz/catamaran/catamaran-saliendo-puerto-cadiz.webp
-  alt: "Bateau quittant le port de Cadix"
+  alt: 'Bateau quittant le port de Cadix'
 - src: /images/actividades/cadiz/catamaran/velero-catedral-cadiz.webp
-  alt: "Voilier dans la baie avec la cathédrale de Cadix en arrière-plan"
+  alt: 'Voilier dans la baie avec la cathédrale de Cadix en arrière-plan'
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
-  alt: "Personne nageant sous l'eau avec un masque (image d'illustration)"
+  alt: 'Personne nageant sous l''eau avec un masque (image d''illustration)'
 - src: /images/actividades/cadiz/mar/catedral-desde-mar.webp
-  alt: "Cadix et sa cathédrale vues depuis la mer"
+  alt: 'Cadix et sa cathédrale vues depuis la mer'
 - src: /images/actividades/cadiz/catamaran/copa-espumoso-a-bordo-catamaran.webp
-  alt: "Coupe de vin pétillant sur le pont d'un catamaran"
+  alt: 'Coupe de vin pétillant sur le pont d''un catamaran'
 - src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
-  alt: "Château de San Sebastián à l'entrée de la baie"
+  alt: 'Château de San Sebastián à l''entrée de la baie'
+- src: /images/actividades/cadiz/catamaran/catamaran-vela-atardecer.webp
+  alt: 'Catamaran à voile au coucher du soleil'
 avisoReserva: 'Activité saisonnière : les prochaines dates disponibles commencent en juin 2027.'
 ---
 

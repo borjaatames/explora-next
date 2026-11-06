@@ -128,6 +128,8 @@ galeria:
   alt: 'Margem do Guadalquivir com a Torre del Oro ao fundo'
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
   alt: 'Vista aérea da praça de touros da Maestranza'
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
+  alt: 'Abóbadas góticas da Catedral de Sevilha'
 ratingProveedor: 4.7
 numeroOpiniones: 1746
 publicada: true

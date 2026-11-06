@@ -99,6 +99,8 @@ galeria:
   alt: 'Pasarela de madera sobre el desfiladero'
 - src: https://imgcdn.bokun.tools/4b5cc6a0-b458-4055-a885-d87e7bd97f42.jpg
   alt: 'Puente colgante del Caminito del Rey'
+- src: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp
+  alt: 'Pasarelas ancladas a la roca'
 bokunProductId: 860688
 fecha_actualizacion: '2026-10-24'
 privada: true

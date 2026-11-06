@@ -90,17 +90,19 @@ imagen: /images/actividades/santiago-de-compostela/catedral/fsc-completa-fachada
 imagenAlt: "Visitors in Praza do Obradoiro before the cathedral façade"
 galeria:
 - src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: "Arcades on Rúa do Vilar"
+  alt: 'Arcades on Rúa do Vilar'
 - src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: "Praza da Quintana"
+  alt: 'Praza da Quintana'
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: "Platerías façade of the cathedral"
+  alt: 'Platerías façade of the cathedral'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-pazo-xelmirez-obradoiro.webp
-  alt: "Xelmírez Palace beside Praza do Obradoiro"
+  alt: 'Xelmírez Palace beside Praza do Obradoiro'
 - src: /images/actividades/santiago-de-compostela/casco/alameda.webp
-  alt: "Alameda park"
+  alt: 'Alameda park'
 - src: /images/actividades/santiago-de-compostela/casco/mercado-abastos.webp
-  alt: "Santiago's Mercado de Abastos"
+  alt: 'Santiago''s Mercado de Abastos'
+- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
+  alt: 'Rúa do Franco, the street of bars'
 ---
 
 ## What you will see

@@ -92,6 +92,8 @@ galeria:
   alt: 'Terrazas de Malasaña por la noche'
 - src: /images/actividades/madrid/gran-via/gran-via-callao-noche.webp
   alt: 'Gran Vía y Callao iluminados de noche'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Guitarrista flamenco tocando sobre el escenario'
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true

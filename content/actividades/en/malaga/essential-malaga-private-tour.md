@@ -86,17 +86,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/9ee4e903-e7e8-434d-9903-0d6560a65369.jpg
-  alt: Málaga Cathedral doorway among orange trees
+  alt: 'Málaga Cathedral doorway among orange trees'
 - src: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
-  alt: Nasrid-style arches in a courtyard of the Alcazaba of Málaga
+  alt: 'Nasrid-style arches in a courtyard of the Alcazaba of Málaga'
 - src: https://imgcdn.bokun.tools/6e1a77a9-9a34-41c2-870b-1a1fa2ad8ae2.jpg
-  alt: The Cathedral tower above Málaga's rooftops at sunset
+  alt: 'The Cathedral tower above Málaga''s rooftops at sunset'
 - src: /images/actividades/malaga/alcazaba/vista-puerto.webp
-  alt: View of Málaga port from the Alcazaba
+  alt: 'View of Málaga port from the Alcazaba'
 - src: https://imgcdn.bokun.tools/7134f347-90b3-4b36-96d7-17386fa71d27.jpg
-  alt: Aerial view of Málaga port and La Farola lighthouse
+  alt: 'Aerial view of Málaga port and La Farola lighthouse'
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-02.webp
-  alt: Málaga Cathedral with its single tower
+  alt: 'Málaga Cathedral with its single tower'
+- src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
+  alt: 'Walls of the Alcazaba of Málaga'
 bokunProductId: 853250
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

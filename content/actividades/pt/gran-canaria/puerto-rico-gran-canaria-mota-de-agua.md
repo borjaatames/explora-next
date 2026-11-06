@@ -89,15 +89,19 @@ imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
 imagenAlt: Mota de água sobre as ondas
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: Marina de Puerto Rico de Gran Canaria, ponto de partida do passeio
+  alt: 'Marina de Puerto Rico de Gran Canaria, ponto de partida do passeio'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: Barcos na marina de Puerto Rico
+  alt: 'Barcos na marina de Puerto Rico'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
-  alt: Entardecer no porto de Puerto Rico de Gran Canaria
+  alt: 'Entardecer no porto de Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
-  alt: Porto de Puerto Rico de Gran Canaria visto do alto
+  alt: 'Porto de Puerto Rico de Gran Canaria visto do alto'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: Baía e marina de Puerto Rico de Gran Canaria
+  alt: 'Baía e marina de Puerto Rico de Gran Canaria'
+- src: /images/actividades/gran-canaria/mar/calderones-grupo.webp
+  alt: 'Grupo de baleias-piloto no Atlântico canário'
+- src: /images/actividades/gran-canaria/mar/calderon-tropical.webp
+  alt: 'Baleia-piloto-tropical em águas canárias'
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

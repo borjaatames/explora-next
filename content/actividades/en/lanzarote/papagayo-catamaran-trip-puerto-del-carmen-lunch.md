@@ -109,6 +109,8 @@ galeria:
   alt: 'Turquoise-water cove at Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
   alt: 'Waves on the shore of a Papagayo beach'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
+  alt: 'Papagayo beach under a cloudy sky'
 ---
 
 ## What you will see

@@ -82,17 +82,19 @@ imagen: /images/actividades/santiago-de-compostela/catedral/altar-mayor.webp
 imagenAlt: "Maître-autel baroque de la cathédrale de Saint-Jacques-de-Compostelle"
 galeria:
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-obradoiro-visitantes.webp
-  alt: "Visiteurs sur la Praza do Obradoiro devant la cathédrale de Saint-Jacques-de-Compostelle"
+  alt: 'Visiteurs sur la Praza do Obradoiro devant la cathédrale de Saint-Jacques-de-Compostelle'
 - src: /images/actividades/santiago-de-compostela/catedral/tribuna.webp
-  alt: "Tribune romane au-dessus de la nef de la cathédrale"
+  alt: 'Tribune romane au-dessus de la nef de la cathédrale'
 - src: /images/actividades/santiago-de-compostela/catedral/botafumeiro-vuelo.webp
-  alt: "Les tiraboleiros font balancer le botafumeiro dans la cathédrale"
+  alt: 'Les tiraboleiros font balancer le botafumeiro dans la cathédrale'
 - src: /images/actividades/santiago-de-compostela/catedral/cupula.webp
-  alt: "Coupole au-dessus du transept de la cathédrale de Saint-Jacques-de-Compostelle"
+  alt: 'Coupole au-dessus du transept de la cathédrale de Saint-Jacques-de-Compostelle'
 - src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
-  alt: "Voûtes gothiques du cloître de la cathédrale"
+  alt: 'Voûtes gothiques du cloître de la cathédrale'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-timpano-praterias.webp
-  alt: "Tympan roman de la façade des Platerías de la cathédrale"
+  alt: 'Tympan roman de la façade des Platerías de la cathédrale'
+- src: /images/actividades/santiago-de-compostela/catedral/obradoiro.webp
+  alt: 'Praza do Obradoiro'
 ---
 
 ## Ce que vous verrez

@@ -94,17 +94,19 @@ imagen: /images/actividades/gran-canaria/fataga/fgc-fataga-pueblo-palmeral.webp
 imagenAlt: "Fataga and its palm grove in the Valley of a Thousand Palms"
 galeria:
 - src: /images/actividades/gran-canaria/fataga/fgc-casas-blancas-fataga.webp
-  alt: "White houses of Fataga on the ravine slope"
+  alt: 'White houses of Fataga on the ravine slope'
 - src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
-  alt: "The village of San Bartolomé de Tirajana among mountains"
+  alt: 'The village of San Bartolomé de Tirajana among mountains'
 - src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
-  alt: "The Degollada de las Yeguas viewpoint"
+  alt: 'The Degollada de las Yeguas viewpoint'
 - src: /images/actividades/gran-canaria/tejeda/fgc-tejeda-casas-montanas.webp
-  alt: "Houses in Tejeda facing the Gran Canaria summits"
+  alt: 'Houses in Tejeda facing the Gran Canaria summits'
 - src: /images/actividades/gran-canaria/tejeda/fgc-flor-almendro-bentayga.webp
-  alt: "Almond blossom with Roque Bentayga behind"
+  alt: 'Almond blossom with Roque Bentayga behind'
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
-  alt: "Banana plantations on the north coast of Gran Canaria"
+  alt: 'Banana plantations on the north coast of Gran Canaria'
+- src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
+  alt: 'Canary palms in the Fataga ravine'
 ---
 
 ## What you will see

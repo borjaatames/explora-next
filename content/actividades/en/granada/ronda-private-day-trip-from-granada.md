@@ -89,6 +89,10 @@ galeria:
   alt: 'The Puente Nuevo spanning Ronda''s gorge'
 - src: https://imgcdn.bokun.tools/a3e9afff-0a0a-48b7-a951-261b60a0fc1d.jpg
   alt: 'Aerial view of Ronda above the gorge'
+- src: /images/actividades/granada/ronda/ronda-pixabay-3372201.webp
+  alt: 'Puente Nuevo over the gorge in spring'
+- src: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
+  alt: 'Arches of Ronda''s Puente Nuevo'
 bokunProductId: 841521
 fecha_actualizacion: '2026-10-24'
 privada: true

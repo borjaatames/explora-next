@@ -85,6 +85,10 @@ galeria:
   alt: 'Coupoles et pinacles de la cathédrale'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-plaza.webp
   alt: 'La Giralda illuminée la nuit'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: 'Cathédrale de Séville et la Giralda'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: 'Façade de la cathédrale de Séville entre les palmiers'
 ratingProveedor: 4.6
 numeroOpiniones: 3280
 publicada: true

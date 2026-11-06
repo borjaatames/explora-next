@@ -97,6 +97,10 @@ galeria:
   alt: 'Das Guggenheim und der Iberdrola-Turm am Fluss in Bilbao'
 - src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
   alt: 'Blick vom Fluss auf das Guggenheim-Museum Bilbao'
+- src: /images/actividades/bilbao/guggenheim/maman.webp
+  alt: 'Maman, die Spinne von Louise Bourgeois am Museum'
+- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+  alt: 'Titanfassade des Guggenheim-Museums Bilbao'
 ---
 
 ## Was du siehst

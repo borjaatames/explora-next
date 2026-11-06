@@ -78,15 +78,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/f9a78837-7ccf-414c-83ae-7ed022e202fe.jpeg
-  alt: Bodega cellar with arches and casks
+  alt: 'Bodega cellar with arches and casks'
 - src: https://imgcdn.bokun.tools/7c0c3d57-1b33-433b-9d51-9cc2b0b8886d.jpeg
-  alt: Bodega entrance with palm trees and a fountain
+  alt: 'Bodega entrance with palm trees and a fountain'
 - src: /images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp
-  alt: Jerez sherry wine tasting
+  alt: 'Jerez sherry wine tasting'
 - src: https://imgcdn.bokun.tools/73f2cb65-36a8-4aad-97db-6b32ad89701a.jpeg
-  alt: Rows of casks in the bodega
+  alt: 'Rows of casks in the bodega'
 - src: https://imgcdn.bokun.tools/d6d6dbe0-b9c5-442d-b353-83b3bfe4e36e.jpeg
-  alt: Stacked casks in a bodega cellar
+  alt: 'Stacked casks in a bodega cellar'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: 'Live musicians at a flamenco tablao in Jerez'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
+  alt: 'Audience enjoying a flamenco show in Jerez'
 bokunProductId: 83913
 fecha_actualizacion: '2026-10-24'
 privada: true

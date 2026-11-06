@@ -75,6 +75,8 @@ galeria:
   alt: 'Archi a ferro di cavallo della sinagoga di Santa María la Blanca'
 - src: https://imgcdn.bokun.tools/97a04561-5745-40f0-959e-54e10f365ecf.jpg
   alt: 'Il ponte di Alcántara sul Tago'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-spain-bridge-castle-fortress-hero.webp
+  alt: 'Panorama di Toledo con l''Alcázar'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

@@ -75,6 +75,10 @@ galeria:
   alt: 'Throne room of the Alcázar of Segovia'
 - src: https://imgcdn.bokun.tools/fc699ff2-67a0-438b-9389-c84edcca651a.jpg
   alt: 'Panoramic view of Segovia with the cathedral'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp
+  alt: 'The Roman aqueduct of Segovia with its double row of granite arches'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp
+  alt: 'A stretch of Ávila''s wall with battlements and towers set against the sky'
 publicada: true
 indexar: false
 destacada: false

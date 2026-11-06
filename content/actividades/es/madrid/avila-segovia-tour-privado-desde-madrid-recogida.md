@@ -75,6 +75,10 @@ galeria:
   alt: 'La catedral de Segovia al atardecer'
 - src: https://imgcdn.bokun.tools/8144d13e-5ae7-4001-a82b-153a353d18cd.jpg
   alt: 'Iglesia románica de Ávila'
+- src: /images/actividades/avila/avila/pixabay-2709091-hero.webp
+  alt: 'Muralla medieval de Ávila con torres y almenas bajo cielo azul'
+- src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp
+  alt: 'Catedral de Ávila vista desde el adarve de la muralla medieval'
 publicada: true
 indexar: false
 destacada: false

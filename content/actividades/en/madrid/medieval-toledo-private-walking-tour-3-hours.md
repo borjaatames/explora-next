@@ -74,6 +74,12 @@ galeria:
   alt: 'Horseshoe arch in a Toledo monument'
 - src: https://imgcdn.bokun.tools/bdbbbaf6-01b3-4bac-bc24-56fb5b381f1d.jpg
   alt: 'Traveller at a viewpoint over Toledo'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-spain-bridge-castle-fortress-hero.webp
+  alt: 'Panoramic view of Toledo with the Alcázar'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
+  alt: 'Alcázar of Toledo rising above the city'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero.webp
+  alt: 'Royal Palace of Aranjuez, Madrid, Spain'
 publicada: true
 indexar: false
 destacada: false

@@ -78,6 +78,8 @@ galeria:
   alt: 'Groupe allongé sur un paddle dans une eau turquoise'
 - src: https://imgcdn.bokun.tools/b5ee9b67-8fe3-4bd5-8f22-e1c087c4fd26.jpg
   alt: 'Eaux turquoise et îlots de Formentera'
+- src: /images/actividades/ibiza/fotos-biblioteca/unsplash-j-x7lediab8.webp
+  alt: 'Voilier au mouillage dans une crique d''Ibiza'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

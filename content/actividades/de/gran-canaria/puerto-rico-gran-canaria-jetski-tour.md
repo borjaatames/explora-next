@@ -91,15 +91,19 @@ imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
 imagenAlt: Ein Jetski auf den Wellen
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: Der Jachthafen von Puerto Rico de Gran Canaria, Startpunkt der Tour
+  alt: 'Der Jachthafen von Puerto Rico de Gran Canaria, Startpunkt der Tour'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: Boote im Jachthafen von Puerto Rico
+  alt: 'Boote im Jachthafen von Puerto Rico'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
-  alt: Sonnenuntergang über dem Hafen von Puerto Rico de Gran Canaria
+  alt: 'Sonnenuntergang über dem Hafen von Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
-  alt: Der Hafen von Puerto Rico auf Gran Canaria von oben
+  alt: 'Der Hafen von Puerto Rico auf Gran Canaria von oben'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: Bucht und Jachthafen von Puerto Rico, Gran Canaria
+  alt: 'Bucht und Jachthafen von Puerto Rico, Gran Canaria'
+- src: /images/actividades/gran-canaria/mar/calderones-grupo.webp
+  alt: 'Eine Gruppe Grindwale im Atlantik vor den Kanaren'
+- src: /images/actividades/gran-canaria/mar/calderon-tropical.webp
+  alt: 'Ein Kurzflossen-Grindwal in kanarischen Gewässern'
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

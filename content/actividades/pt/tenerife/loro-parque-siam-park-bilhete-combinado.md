@@ -79,15 +79,19 @@ imagen: /images/actividades/tenerife/loro-parque/orca-ocean.webp
 imagenAlt: Orca Ocean no Loro Parque, Tenerife
 galeria:
 - src: /images/actividades/tenerife/loro-siam/leon-marino-nadando.webp
-  alt: Leão-marinho a nadar no Loro Parque
+  alt: 'Leão-marinho a nadar no Loro Parque'
 - src: /images/actividades/tenerife/loro-parque/delfines-salto.webp
-  alt: Golfinhos no delfinário do Loro Parque
+  alt: 'Golfinhos no delfinário do Loro Parque'
 - src: /images/actividades/tenerife/siam-park/siam-park-aerea.webp
-  alt: Vista aérea do Siam Park com os seus escorregas
+  alt: 'Vista aérea do Siam Park com os seus escorregas'
 - src: /images/actividades/tenerife/loro-parque/pinguinos.webp
-  alt: Colónia de pinguins no Loro Parque
+  alt: 'Colónia de pinguins no Loro Parque'
 - src: /images/actividades/tenerife/siam-park/siam-park-templo.webp
-  alt: Templo tailandês decorativo no Siam Park
+  alt: 'Templo tailandês decorativo no Siam Park'
+- src: /images/actividades/tenerife/loro-parque/loro-aratinga.webp
+  alt: 'Periquito-do-sol no Loro Parque'
+- src: /images/actividades/tenerife/loro-parque/loro-parque-delfines.webp
+  alt: 'Espetáculo de golfinhos no Loro Parque'
 ratingProveedor: 4.7
 numeroOpiniones: 8501
 atraccionesRelacionadas:

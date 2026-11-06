@@ -87,15 +87,19 @@ imagen: /images/actividades/girona/dali-figueres/teatro-museo-dali-fachada.webp
 imagenAlt: Facade of the Dalí Theatre-Museum in Figueres with its golden figures
 galeria:
 - src: /images/actividades/girona/cadaques/cadaques-pueblo-blanco.webp
-  alt: White houses of Cadaqués by the sea
+  alt: 'White houses of Cadaqués by the sea'
 - src: /images/actividades/girona/dali-figueres/torres-huevos-museu-dali.webp
-  alt: Towers with giant eggs on the Dalí Theatre-Museum
+  alt: 'Towers with giant eggs on the Dalí Theatre-Museum'
 - src: /images/actividades/girona/cadaques/portlligat.webp
-  alt: Portlligat bay with fishing boats and the white houses where Dalí lived
+  alt: 'Portlligat bay with fishing boats and the white houses where Dalí lived'
 - src: /images/actividades/girona/dali-figueres/teatro-museo-dali-cupula.webp
-  alt: Geodesic dome of the Dalí Theatre-Museum
+  alt: 'Geodesic dome of the Dalí Theatre-Museum'
 - src: /images/actividades/girona/cadaques/cap-de-creus-costa.webp
-  alt: Rocky Cap de Creus coast on the way to Cadaqués
+  alt: 'Rocky Cap de Creus coast on the way to Cadaqués'
+- src: /images/actividades/girona/dali-figueres/teatro-museo-dali-huevos.webp
+  alt: 'Geodesic dome and giant eggs on the roof of the Dalí Theatre-Museum in Figueres'
+- src: /images/actividades/girona/dali-figueres/teatro-museo-dali-cubierta.webp
+  alt: 'Roof of the Dalí Theatre-Museum in Figueres'
 ratingProveedor: 4.8
 numeroOpiniones: 246
 publicada: true

@@ -84,15 +84,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/5f579353-b6f2-4c66-a2e8-9d219e575b38.jpg
-  alt: Inside a cave house
+  alt: 'Inside a cave house'
 - src: https://imgcdn.bokun.tools/ccc69504-087a-45c2-9a68-d00e998db906.jpg
-  alt: Dirt path to a cave among agaves
+  alt: 'Dirt path to a cave among agaves'
 - src: https://imgcdn.bokun.tools/9a2293cf-8d69-4fed-98e1-97e60942d32e.jpg
-  alt: Traveller beside agaves with the Albaicín behind
+  alt: 'Traveller beside agaves with the Albaicín behind'
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: Whitewashed cave houses in Sacromonte
+  alt: 'Whitewashed cave houses in Sacromonte'
 - src: https://imgcdn.bokun.tools/b7d149ab-ceb3-446b-ad42-2f12efcc4458.jpg
-  alt: Group watching the sunset from the hillside
+  alt: 'Group watching the sunset from the hillside'
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
+  alt: 'Sacromonte hillside with its cave houses'
+- src: /images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp
+  alt: 'Mirador de San Nicolás in the Albaicín of Granada with daytime views of the Alhambra'
 bokunProductId: 860685
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -79,6 +79,10 @@ galeria:
   alt: 'Viajeros durante la visita a la Alhambra'
 - src: https://imgcdn.bokun.tools/4ea9e444-f908-4c46-a6c5-31ebcaba6612.jpg
   alt: 'Ventana nazarí con vistas'
+- src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
+  alt: 'La Alcazaba de la Alhambra'
+- src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
+  alt: 'Jardines del Generalife con sus acequias y vegetación'
 publicada: true
 indexar: false
 destacada: false

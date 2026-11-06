@@ -88,17 +88,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/e874e265-0000-4125-9870-c7a174217c22.jpg
-  alt: Group with their guide in the Great Synagogue, by a menorah
+  alt: 'Group with their guide in the Great Synagogue, by a menorah'
 - src: https://imgcdn.bokun.tools/ffca02cd-42a7-410a-a783-ae05722c10c9.jpg
-  alt: Group by the Barcino letters in Plaça Nova, in front of the Roman walls
+  alt: 'Group by the Barcino letters in Plaça Nova, in front of the Roman walls'
 - src: https://imgcdn.bokun.tools/826d7a9a-1585-4c82-9969-4d63f94cabe3.jpg
-  alt: Menorah on a stone wall in the Jewish Quarter
+  alt: 'Menorah on a stone wall in the Jewish Quarter'
 - src: https://imgcdn.bokun.tools/0c6ac763-5188-495f-a9d3-4b3a8dcf7097.jpg
-  alt: Narrow street in Barcelona's Jewish Quarter
+  alt: 'Narrow street in Barcelona''s Jewish Quarter'
 - src: https://imgcdn.bokun.tools/cf65d5e4-afc9-40c4-895f-f546da5d89ab.jpg
-  alt: Travellers taking a selfie in front of the Sagrada Familia
+  alt: 'Travellers taking a selfie in front of the Sagrada Familia'
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
-  alt: Blue and green stained glass lighting the nave of the Sagrada Familia
+  alt: 'Blue and green stained glass lighting the nave of the Sagrada Familia'
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: 'Barcelona Cathedral, in the heart of the Gothic Quarter'
 bokunProductId: 612622
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

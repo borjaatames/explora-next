@@ -90,17 +90,19 @@ imagen: /images/actividades/santiago-de-compostela/catedral/fsc-completa-fachada
 imagenAlt: "Visitantes en la plaza del Obradoiro ante la fachada de la catedral"
 galeria:
 - src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: "Soportales de la rúa do Vilar"
+  alt: 'Soportales de la rúa do Vilar'
 - src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: "Plaza de la Quintana"
+  alt: 'Plaza de la Quintana'
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: "Fachada de Platerías de la catedral"
+  alt: 'Fachada de Platerías de la catedral'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-pazo-xelmirez-obradoiro.webp
-  alt: "Pazo de Xelmírez junto a la plaza del Obradoiro"
+  alt: 'Pazo de Xelmírez junto a la plaza del Obradoiro'
 - src: /images/actividades/santiago-de-compostela/casco/alameda.webp
-  alt: "Paseo de la Alameda"
+  alt: 'Paseo de la Alameda'
 - src: /images/actividades/santiago-de-compostela/casco/mercado-abastos.webp
-  alt: "Mercado de Abastos de Santiago"
+  alt: 'Mercado de Abastos de Santiago'
+- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
+  alt: 'Rúa do Franco, calle de bares y restaurantes del casco antiguo de Santiago'
 ---
 
 ## Qué vas a ver

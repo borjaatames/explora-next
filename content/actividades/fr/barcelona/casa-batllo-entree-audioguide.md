@@ -114,6 +114,8 @@ galeria:
   alt: 'La façade courbe et colorée de la Casa Batlló dans le paysage urbain de Barcelone'
 - src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
   alt: 'Vue de Barcelone avec l''architecture du quartier gothique et des immeubles modernes au coucher du soleil'
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-ceiling-chandelier-barcelona-hero.webp
+  alt: 'Plafond en spirale et lustre du grand salon de la Casa Batlló'
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

@@ -88,17 +88,19 @@ imagen: /images/actividades/girona/dali-figueres/teatro-museo-dali-huevos.webp
 imagenAlt: Geodesic dome and giant eggs on the roof of the Dalí Theatre-Museum in Figueres
 galeria:
 - src: /images/actividades/girona/cadaques/portlligat.webp
-  alt: Portlligat bay with fishing boats and the white houses where Dalí lived
+  alt: 'Portlligat bay with fishing boats and the white houses where Dalí lived'
 - src: /images/actividades/girona/dali-figueres/teatro-museo-dali-fachada.webp
-  alt: Facade of the Dalí Theatre-Museum in Figueres with its golden figures
+  alt: 'Facade of the Dalí Theatre-Museum in Figueres with its golden figures'
 - src: /images/actividades/girona/cadaques/cadaques-pueblo-blanco.webp
-  alt: White houses of Cadaqués by the sea
+  alt: 'White houses of Cadaqués by the sea'
 - src: /images/actividades/girona/dali-figueres/entrada-museu-dali-estatua-dorada.webp
-  alt: Entrance of the Dalí Theatre-Museum with a golden statue
+  alt: 'Entrance of the Dalí Theatre-Museum with a golden statue'
 - src: /images/actividades/girona/cadaques/cadaques-vista-alta.webp
-  alt: Cadaqués and its bay seen from the hills
+  alt: 'Cadaqués and its bay seen from the hills'
 - src: /images/actividades/girona/dali-figueres/teatro-museo-dali-cubierta.webp
-  alt: Roof of the Dalí Theatre-Museum in Figueres
+  alt: 'Roof of the Dalí Theatre-Museum in Figueres'
+- src: /images/actividades/girona/dali-figueres/teatro-museo-dali-cupula.webp
+  alt: 'Geodesic dome of the Dalí Theatre-Museum'
 ratingProveedor: 4.7
 numeroOpiniones: 1120
 publicada: true

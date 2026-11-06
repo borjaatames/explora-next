@@ -84,17 +84,19 @@ imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-ria.webp
 imagenAlt: "Titanfassade des Guggenheim Bilbao über dem Wasserbecken am Fluss"
 galeria:
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-fachada-norte.webp
-  alt: "Nordfassade des Guggenheim-Museums Bilbao mit dem gläsernen Atrium"
+  alt: 'Nordfassade des Guggenheim-Museums Bilbao mit dem gläsernen Atrium'
 - src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-  alt: "Titanfassade des Guggenheim-Museums Bilbao"
+  alt: 'Titanfassade des Guggenheim-Museums Bilbao'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-jardines.webp
-  alt: "Außenansicht des Guggenheim-Museums Bilbao von den Gärten aus"
+  alt: 'Außenansicht des Guggenheim-Museums Bilbao von den Gärten aus'
 - src: /images/actividades/bilbao/guggenheim/puppy.webp
-  alt: "Puppy, der Blumenhund vor dem Guggenheim"
+  alt: 'Puppy, der Blumenhund vor dem Guggenheim'
 - src: /images/actividades/bilbao/guggenheim/maman.webp
-  alt: "Skulptur Maman am Guggenheim in der Abenddämmerung"
+  alt: 'Skulptur Maman am Guggenheim in der Abenddämmerung'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
-  alt: "Guggenheim-Museum Bilbao am Fluss mit der Brücke La Salve"
+  alt: 'Guggenheim-Museum Bilbao am Fluss mit der Brücke La Salve'
+- src: /images/actividades/bilbao/guggenheim/maman-puente.webp
+  alt: 'Das Guggenheim mit dem roten Bogen der Brücke La Salve'
 ---
 
 ## Was du siehst

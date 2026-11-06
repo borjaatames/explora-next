@@ -81,17 +81,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/86a47aa4-aeb1-4973-ac8e-99980d820a6a.jpg
-  alt: Traveller photographing the Mosque-Cathedral from a rooftop
+  alt: 'Traveller photographing the Mosque-Cathedral from a rooftop'
 - src: https://imgcdn.bokun.tools/b9335b01-211a-4e00-8cdc-282d93b94405.jpg
-  alt: Rooftops of central Córdoba
+  alt: 'Rooftops of central Córdoba'
 - src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
-  alt: Roman Bridge and Mosque-Cathedral lit up
+  alt: 'Roman Bridge and Mosque-Cathedral lit up'
 - src: https://imgcdn.bokun.tools/5631082f-cce7-41b2-b641-2dade57e0ba5.jpg
-  alt: The Mosque-Cathedral seen from above
+  alt: 'The Mosque-Cathedral seen from above'
 - src: https://imgcdn.bokun.tools/60622bf9-53e6-428b-b40e-cf358758391f.jpg
-  alt: Battlements of the Mosque of Córdoba
+  alt: 'Battlements of the Mosque of Córdoba'
 - src: /images/actividades/cordoba/mezquita/torre-campanario.webp
-  alt: Bell tower of the Mosque-Cathedral
+  alt: 'Bell tower of the Mosque-Cathedral'
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: 'Mosque-Cathedral tower seen from a Jewish Quarter street'
 bokunProductId: 934216
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

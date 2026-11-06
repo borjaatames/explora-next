@@ -77,15 +77,19 @@ imagen: /images/actividades/tenerife/orotava/valle-plataneras.webp
 imagenAlt: Banana plantations in the Orotava Valley
 galeria:
 - src: /images/actividades/gran-canaria/platano/platanos-racimo.webp
-  alt: Canarian banana bunches on the plant
+  alt: 'Canarian banana bunches on the plant'
 - src: /images/actividades/gran-canaria/platano/platanera-hojas.webp
-  alt: Green bananas on the bunch
+  alt: 'Green bananas on the bunch'
 - src: /images/actividades/tenerife/orotava/valle-orotava.webp
-  alt: The Orotava Valley from above
+  alt: 'The Orotava Valley from above'
 - src: /images/actividades/tenerife/orotava/casa-de-los-balcones.webp
-  alt: Casa de los Balcones in La Orotava
+  alt: 'Casa de los Balcones in La Orotava'
 - src: /images/actividades/tenerife/orotava/balcones-madera.webp
-  alt: Traditional wooden balconies in La Orotava
+  alt: 'Traditional wooden balconies in La Orotava'
+- src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
+  alt: 'Banana plantations in Arucas'
+- src: /images/actividades/gran-canaria/platano/arucas-paisaje.webp
+  alt: 'Landscape around Arucas in northern Gran Canaria'
 ratingProveedor: 4.7
 numeroOpiniones: 1135
 publicada: true

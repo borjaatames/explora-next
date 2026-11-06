@@ -78,17 +78,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/c877573c-4d02-4b9d-a8c6-07d58e090508.jpg
-  alt: Capilla Mayor de la Catedral de Granada
+  alt: 'Capilla Mayor de la Catedral de Granada'
 - src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
-  alt: Exterior de la Capilla Real de Granada
+  alt: 'Exterior de la Capilla Real de Granada'
 - src: https://imgcdn.bokun.tools/f1808394-e906-4535-9463-3c02b71568dd.jpg
-  alt: La Catedral de Granada sobre los tejados del centro
+  alt: 'La Catedral de Granada sobre los tejados del centro'
 - src: /images/actividades/granada/catedral/granada-catedral-07.webp
-  alt: Cúpula de la Capilla Mayor de la Catedral de Granada
+  alt: 'Cúpula de la Capilla Mayor de la Catedral de Granada'
 - src: /images/actividades/granada/capilla-real/portada-gotica-pinaculos.webp
-  alt: Portada gótica con pináculos de la Capilla Real de Granada
+  alt: 'Portada gótica con pináculos de la Capilla Real de Granada'
 - src: https://imgcdn.bokun.tools/605b2c18-9774-410c-a964-f4e0ad1f895a.jpg
-  alt: La Catedral vista desde una calle del centro
+  alt: 'La Catedral vista desde una calle del centro'
+- src: /images/actividades/granada/catedral/granada-catedral-04.webp
+  alt: 'La Catedral, pegada a la Capilla Real'
 bokunProductId: 1271488
 fecha_actualizacion: '2026-10-24'
 privada: true

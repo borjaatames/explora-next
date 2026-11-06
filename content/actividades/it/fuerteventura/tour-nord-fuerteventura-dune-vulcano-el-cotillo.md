@@ -84,17 +84,19 @@ imagen: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-3.
 imagenAlt: "Arbusti sulla sabbia delle Dune di Corralejo"
 galeria:
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-6.webp
-  alt: "Arbusto in cima a una duna di Corralejo"
+  alt: 'Arbusto in cima a una duna di Corralejo'
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-paisaje.webp
-  alt: "Paesaggio vulcanico dal Calderón Hondo"
+  alt: 'Paesaggio vulcanico dal Calderón Hondo'
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-volcanes-la-oliva.webp
-  alt: "Coni vulcanici nel nord di Fuerteventura"
+  alt: 'Coni vulcanici nel nord di Fuerteventura'
 - src: /images/actividades/fuerteventura/zonas/el-cotillo.webp
-  alt: "La costa di El Cotillo"
+  alt: 'La costa di El Cotillo'
 - src: /images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp
-  alt: "Il vecchio porto di El Cotillo"
+  alt: 'Il vecchio porto di El Cotillo'
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-1.webp
-  alt: "L'orizzonte sulle Dune di Corralejo"
+  alt: 'L''orizzonte sulle Dune di Corralejo'
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-4.webp
+  alt: 'Luce del pomeriggio sulle Dune di Corralejo'
 ---
 
 ## Cosa vedrai

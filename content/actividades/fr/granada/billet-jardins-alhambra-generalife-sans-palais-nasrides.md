@@ -93,15 +93,19 @@ imagen: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-
 imagenAlt: Jardins du Generalife de l'Alhambra de Grenade
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp
-  alt: Vue aérienne de la forteresse de l'Alhambra, à Grenade, avec ses remparts et ses tours médiévales
+  alt: 'Vue aérienne de la forteresse de l''Alhambra, à Grenade, avec ses remparts et ses tours médiévales'
 - src: /images/actividades/granada/alhambra/alhambra-granada-explore-historic-fortress-lush-hero-hero.webp
-  alt: Forteresse historique de l'Alhambra à Grenade entourée d'une végétation luxuriante
+  alt: 'Forteresse historique de l''Alhambra à Grenade entourée d''une végétation luxuriante'
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
-  alt: Cour des Myrtes de l'Alhambra avec fontaine et arcs à Grenade, en Andalousie
+  alt: 'Cour des Myrtes de l''Alhambra avec fontaine et arcs à Grenade, en Andalousie'
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp
-  alt: Arcs et colonnes décoratives de l'Alhambra de Grenade avec des azulejos ornementaux
+  alt: 'Arcs et colonnes décoratives de l''Alhambra de Grenade avec des azulejos ornementaux'
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
-  alt: Puerta del Vino à l'Alhambra de Grenade
+  alt: 'Puerta del Vino à l''Alhambra de Grenade'
+- src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
+  alt: 'L''Alcazaba de l''Alhambra'
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
+  alt: 'Colonnes et arcs de l''Alhambra de Grenade'
 ratingProveedor: 4.5
 numeroOpiniones: 2256
 publicada: true

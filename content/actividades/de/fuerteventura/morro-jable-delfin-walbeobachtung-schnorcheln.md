@@ -90,6 +90,12 @@ galeria:
   alt: 'Leuchtturm von Morro Jable'
 - src: /images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp
   alt: 'Delfingruppe im Atlantik'
+- src: /images/actividades/fuerteventura/morro-jable/ffv-catamaranes-playa-morro-jable.webp
+  alt: 'Segelkatamarane am Strand von Morro Jable'
+- src: /images/actividades/fuerteventura/morro-jable/ffv-playa-morro-jable.webp
+  alt: 'Strand von Morro Jable'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Ein Wal bläst an der Oberfläche vor Teneriffa'
 ratingProveedor: 4.6
 numeroOpiniones: 4306
 publicada: true

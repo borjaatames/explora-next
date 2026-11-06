@@ -90,17 +90,19 @@ imagen: /images/actividades/fuerteventura/jeep-cofete/ffv-cabras-junto-todoterre
 imagenAlt: "Goats next to the 4x4s at a safari stop in Fuerteventura"
 galeria:
 - src: /images/actividades/fuerteventura/zonas/cofete-cresta.webp
-  alt: "Ridge of the Jandía mountains above Cofete"
+  alt: 'Ridge of the Jandía mountains above Cofete'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-1.webp
-  alt: "Cofete beach seen from the mountain"
+  alt: 'Cofete beach seen from the mountain'
 - src: /images/actividades/fuerteventura/zonas/villa-winter-ladera.webp
-  alt: "Villa Winter seen from the track"
+  alt: 'Villa Winter seen from the track'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-arena-montanas.webp
-  alt: "Cofete sand at the foot of the Jandía mountains"
+  alt: 'Cofete sand at the foot of the Jandía mountains'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-5.webp
-  alt: "Cofete beach and Montaña Aguda"
+  alt: 'Cofete beach and Montaña Aguda'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: "Morro Jable beach"
+  alt: 'Morro Jable beach'
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: 'Corralejo bay'
 ---
 
 ## What you will see

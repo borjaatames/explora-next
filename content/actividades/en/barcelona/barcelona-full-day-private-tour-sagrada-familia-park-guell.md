@@ -72,6 +72,10 @@ galeria:
   alt: 'Port Vell and the Barcelona skyline from Montjuïc'
 - src: https://imgcdn.bokun.tools/711fc1d1-98ac-4f8d-8de3-24c076dc3411.jpg
   alt: 'Visitors beside a Gaudí pavilion in Park Güell'
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
+  alt: 'Terrace with Park Guell''s wavy mosaic bench and views of Barcelona and the sea in the background'
+- src: /images/actividades/barcelona/park-guell/park-guell-mosaic-table-sun-design-it-hero.webp
+  alt: 'Mosaic medallion on the Hypostyle Hall ceiling'
 publicada: true
 indexar: false
 destacada: false

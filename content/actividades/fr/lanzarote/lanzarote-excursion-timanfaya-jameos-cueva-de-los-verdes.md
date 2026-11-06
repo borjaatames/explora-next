@@ -84,17 +84,19 @@ imagen: /images/actividades/lanzarote/timanfaya-jameos.webp
 imagenAlt: Cônes volcaniques rougeâtres des Montagnes de Feu à Timanfaya
 galeria:
 - src: /images/actividades/lanzarote/zonas/jameos-piscina.webp
-  alt: La piscine blanche de Jameos del Agua
+  alt: 'La piscine blanche de Jameos del Agua'
 - src: /images/actividades/lanzarote/zonas/cueva-de-los-verdes-galeria.webp
-  alt: Galerie de lave illuminée dans la Cueva de los Verdes
+  alt: 'Galerie de lave illuminée dans la Cueva de los Verdes'
 - src: /images/actividades/lanzarote/zonas/timanfaya-carretera.webp
-  alt: Route menant aux Montagnes de Feu de Timanfaya
+  alt: 'Route menant aux Montagnes de Feu de Timanfaya'
 - src: /images/actividades/lanzarote/zonas/jameos-jardin.webp
-  alt: Jardin et piscine de Jameos del Agua, conçus par César Manrique
+  alt: 'Jardin et piscine de Jameos del Agua, conçus par César Manrique'
 - src: /images/actividades/lanzarote/zonas/valle-volcanico.webp
-  alt: Vallée volcanique aux cônes colorés à Lanzarote
+  alt: 'Vallée volcanique aux cônes colorés à Lanzarote'
 - src: /images/actividades/lanzarote/zonas/jameos-reflejo.webp
-  alt: Le ciel se reflétant dans le lac de Jameos del Agua
+  alt: 'Le ciel se reflétant dans le lac de Jameos del Agua'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'La côte sud de Lanzarote près des plages de Papagayo'
 ratingProveedor: 4.5
 numeroOpiniones: 2910
 atraccionesRelacionadas:

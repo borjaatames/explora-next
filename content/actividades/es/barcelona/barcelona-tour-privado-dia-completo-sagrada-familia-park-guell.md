@@ -72,6 +72,10 @@ galeria:
   alt: 'Port Vell y el perfil de Barcelona desde Montjuïc'
 - src: https://imgcdn.bokun.tools/711fc1d1-98ac-4f8d-8de3-24c076dc3411.jpg
   alt: 'Visitantes junto a un pabellón de Gaudí en el Park Güell'
+- src: /images/actividades/barcelona/park-guell/park-guell-50030738571-hero-hero.webp
+  alt: 'Terraza con el banco ondulado de mosaico de Park Guell y vistas de Barcelona y el mar al fondo'
+- src: /images/actividades/barcelona/park-guell/park-guell-mosaic-table-sun-design-it-hero.webp
+  alt: 'Medallón de mosaico en el techo de la sala Hipóstila'
 publicada: true
 indexar: false
 destacada: false

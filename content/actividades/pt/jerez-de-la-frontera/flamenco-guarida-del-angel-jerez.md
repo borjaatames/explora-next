@@ -89,6 +89,8 @@ galeria:
   alt: 'Cúpula da Catedral de Jerez iluminada à noite'
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
   alt: 'Público a assistir a um espetáculo de flamenco em Jerez'
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
+  alt: 'Catedral de Jerez e a sua torre iluminadas à noite'
 ---
 
 ## O que vai ver

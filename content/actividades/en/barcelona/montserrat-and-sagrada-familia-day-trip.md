@@ -87,17 +87,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/e02effd7-8525-4010-8223-06a4af9ec662.jpg
-  alt: Montserrat monastery beneath the rock pinnacles
+  alt: 'Montserrat monastery beneath the rock pinnacles'
 - src: https://imgcdn.bokun.tools/4a882733-2138-4a36-bb2a-2a7b9a3b67b2.jpg
-  alt: Stall at the Montserrat farmers' market
+  alt: 'Stall at the Montserrat farmers'' market'
 - src: https://imgcdn.bokun.tools/11839a1f-e399-4982-ac43-43991d5e1d07.jpg
-  alt: Inside Montserrat basilica with the high altar
+  alt: 'Inside Montserrat basilica with the high altar'
 - src: https://imgcdn.bokun.tools/ecde87bd-17a1-41e3-922b-27b74f2251c5.jpg
-  alt: Travellers at a Montserrat viewpoint
+  alt: 'Travellers at a Montserrat viewpoint'
 - src: https://imgcdn.bokun.tools/dde5702d-a154-4568-9e55-78c61e8f0e2c.jpg
-  alt: Group in front of the Sagrada Familia facade
+  alt: 'Group in front of the Sagrada Familia facade'
 - src: https://imgcdn.bokun.tools/cc9f6e20-5b8a-46ad-b770-a958d5a79e34.jpg
-  alt: Visitor by the Sagrada Familia's stained glass
+  alt: 'Visitor by the Sagrada Familia''s stained glass'
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: 'Statue of Abbot Oliba among the greenery of Montserrat'
 bokunProductId: 1162190
 fecha_actualizacion: '2026-10-24'
 ---

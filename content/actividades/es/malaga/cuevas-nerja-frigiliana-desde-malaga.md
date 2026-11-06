@@ -82,17 +82,19 @@ imagen: /images/actividades/malaga/cuevas-nerja/estalactitas-sala-iluminada.webp
 imagenAlt: Estalactitas iluminadas en una sala de la Cueva de Nerja
 galeria:
 - src: /images/actividades/malaga/frigiliana/calle-andaluza-frigiliana.webp
-  alt: Calle encalada con macetas en Frigiliana
+  alt: 'Calle encalada con macetas en Frigiliana'
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-nerja-interior-cue-hero.webp
-  alt: Interior de la Cueva de Nerja con estalactitas
+  alt: 'Interior de la Cueva de Nerja con estalactitas'
 - src: /images/actividades/malaga/frigiliana/frigiliana-calle.webp
-  alt: Calle de casas blancas en Frigiliana
+  alt: 'Calle de casas blancas en Frigiliana'
 - src: /images/actividades/malaga/frigiliana/frigiliana-panoramica.webp
-  alt: Vista panorámica de Frigiliana hacia el mar
+  alt: 'Vista panorámica de Frigiliana hacia el mar'
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-playa-burriana-03-hero.webp
-  alt: Playa de Burriana en Nerja
+  alt: 'Playa de Burriana en Nerja'
 - src: /images/actividades/malaga/frigiliana/frigiliana-buganvillas.webp
-  alt: Buganvillas sobre los tejados de Frigiliana
+  alt: 'Buganvillas sobre los tejados de Frigiliana'
+- src: /images/actividades/malaga/cuevas-nerja/formaciones-estalactitas-detalle.webp
+  alt: 'Detalle de formaciones de estalactitas en la Cueva de Nerja'
 ratingProveedor: 4.6
 numeroOpiniones: 3192
 publicada: true

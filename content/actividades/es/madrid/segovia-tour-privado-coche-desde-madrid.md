@@ -76,6 +76,10 @@ galeria:
   alt: 'Sala del trono del Alcázar de Segovia'
 - src: https://imgcdn.bokun.tools/fc699ff2-67a0-438b-9389-c84edcca651a.jpg
   alt: 'Panorámica de Segovia con la catedral'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp
+  alt: 'Acueducto romano de Segovia con su doble hilera de arcos de granito'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp
+  alt: 'Lienzo de muralla de Ávila con almenas y torreones recortado contra el cielo'
 publicada: true
 indexar: false
 destacada: false

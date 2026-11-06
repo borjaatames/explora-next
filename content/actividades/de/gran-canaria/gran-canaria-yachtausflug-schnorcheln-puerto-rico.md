@@ -93,17 +93,19 @@ imagen: /images/actividades/gran-canaria/yate/fgc-yate-navegando-mar-abierto.web
 imagenAlt: Motoryacht auf offener See
 galeria:
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: Bucht und Strand von Puerto Rico de Gran Canaria
+  alt: 'Bucht und Strand von Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: Vulkanische Steilküste im Südwesten, vom Meer aus gesehen
+  alt: 'Vulkanische Steilküste im Südwesten, vom Meer aus gesehen'
 - src: /images/actividades/gran-canaria/yate/fgc-mar-azul-costa-rocosa.webp
-  alt: Blaues Meer vor einer felsigen Küste, auf Wasserhöhe
+  alt: 'Blaues Meer vor einer felsigen Küste, auf Wasserhöhe'
 - src: /images/actividades/gran-canaria/catamaran/fgc-esnorquel-fondo-rocoso.webp
-  alt: Schnorcheln über felsigem Grund in klarem Wasser
+  alt: 'Schnorcheln über felsigem Grund in klarem Wasser'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: Fische über sandigem Grund vor Gran Canaria
+  alt: 'Fische über sandigem Grund vor Gran Canaria'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
-  alt: Puerto Rico de Gran Canaria bei Sonnenuntergang
+  alt: 'Puerto Rico de Gran Canaria bei Sonnenuntergang'
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: 'Felsküste im Südwesten von Gran Canaria'
 avisoReserva: 'Skipper und Crew sprechen Spanisch und Englisch: Erklärungen auf Deutsch gibt es nicht.'
 ---
 

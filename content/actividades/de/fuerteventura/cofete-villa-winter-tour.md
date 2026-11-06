@@ -93,6 +93,8 @@ galeria:
   alt: 'Bergkamm von Jandía über dem Strand von Cofete'
 - src: /images/actividades/fuerteventura/zonas/cofete-pico.webp
   alt: 'Strand von Cofete und der Gipfel El Islote'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Strand von Morro Jable'
 ratingProveedor: 4.8
 numeroOpiniones: 1952
 atraccionesRelacionadas:

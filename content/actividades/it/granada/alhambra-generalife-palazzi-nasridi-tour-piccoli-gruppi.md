@@ -79,15 +79,19 @@ imagen: /images/actividades/granada/alhambra/alhambra-granada-partal-torre-damas
 imagenAlt: Il Partal e la Torre delle Dame riflessi nella vasca dell'Alhambra
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp
-  alt: Fontana del Cortile dei Leoni
+  alt: 'Fontana del Cortile dei Leoni'
 - src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
-  alt: Giardini del Generalife
+  alt: 'Giardini del Generalife'
 - src: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp
-  alt: Cortile dei Mirti
+  alt: 'Cortile dei Mirti'
 - src: /images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp
-  alt: Palazzo di Carlo V all'alba
+  alt: 'Palazzo di Carlo V all''alba'
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
-  alt: L'Alcazaba dell'Alhambra
+  alt: 'L''Alcazaba dell''Alhambra'
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
+  alt: 'Colonne e archi dell''Alhambra di Granada'
+- src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
+  alt: 'Cortile con acqua e piante nel Generalife'
 ratingProveedor: 4.8
 numeroOpiniones: 1047
 publicada: true

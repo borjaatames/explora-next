@@ -92,6 +92,8 @@ galeria:
   alt: 'Turquoise sea entering a lava cave at Los Hervideros'
 - src: /images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp
   alt: 'La Graciosa seen from northern Lanzarote'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'Lanzarote''s south coast by the Papagayo beaches'
 ratingProveedor: 4.7
 numeroOpiniones: 3379
 atraccionesRelacionadas:

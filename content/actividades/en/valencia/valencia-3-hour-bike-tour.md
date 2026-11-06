@@ -91,6 +91,8 @@ galeria:
   alt: 'Bikes by the Town Hall square'
 - src: /images/actividades/valencia/bici-tour/bicis-calle-centro.webp
   alt: 'Bikes in a street in central Valencia'
+- src: /images/actividades/valencia/turia/fvc-paseo-jardin-turia.webp
+  alt: 'Walk through the Turia Gardens'
 ratingProveedor: 4.7
 numeroOpiniones: 2474
 publicada: true

@@ -103,6 +103,8 @@ galeria:
   alt: 'Viaggiatori sulla terrazza del monastero con la montagna sullo sfondo'
 - src: https://imgcdn.bokun.tools/1c248131-d79f-4a98-91be-0d3dd1f112a7.jpg
   alt: 'Bancarella al mercatino dei produttori di Montserrat'
+- src: /images/actividades/barcelona/montserrat/montserrat-abadia.webp
+  alt: 'Il monastero di Montserrat ai piedi delle guglie di roccia'
 bokunProductId: 217561
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'

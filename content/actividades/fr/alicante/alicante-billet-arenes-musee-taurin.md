@@ -82,17 +82,19 @@ imagen: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-alicante-ae
 imagenAlt: "Vue aérienne des arènes d'Alicante"
 galeria:
 - src: /images/actividades/alicante/fal-plaza-toros/fal-corrales-visitantes.webp
-  alt: "Visiteurs dans les enclos des arènes d'Alicante"
+  alt: 'Visiteurs dans les enclos des arènes d''Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-reja-plaza-toros.webp
-  alt: "Grille en fer forgé des arènes d'Alicante"
+  alt: 'Grille en fer forgé des arènes d''Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-toros-corrales.webp
-  alt: "Taureaux dans les enclos des arènes d'Alicante"
+  alt: 'Taureaux dans les enclos des arènes d''Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-ciudad.webp
-  alt: "Les arènes d'Alicante au milieu des immeubles de la ville"
+  alt: 'Les arènes d''Alicante au milieu des immeubles de la ville'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-vista-castillo.webp
-  alt: "Les arènes d'Alicante vues d'en haut"
+  alt: 'Les arènes d''Alicante vues d''en haut'
 - src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
-  alt: "Le château de Santa Bárbara, visible depuis les gradins"
+  alt: 'Le château de Santa Bárbara, visible depuis les gradins'
+- src: /images/actividades/alicante/centro/vista-puerto.webp
+  alt: 'Port et marina d''Alicante vus depuis le château'
 ---
 
 ## Ce que vous verrez

@@ -87,15 +87,19 @@ imagen: /images/actividades/tenerife/motos-agua/grupo-motos-agua-ruta.webp
 imagenAlt: Gruppo di moto d'acqua in fila in mare aperto
 galeria:
 - src: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
-  alt: Una moto d'acqua tra le onde
+  alt: 'Una moto d''acqua tra le onde'
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: La spiaggia di Costa Adeje con le montagne alle spalle
+  alt: 'La spiaggia di Costa Adeje con le montagne alle spalle'
 - src: /images/actividades/tenerife/motos-agua/montana-roja-el-medano.webp
-  alt: La Montaña Roja vista dalla costa rocciosa di El Médano, nel sud di Tenerife
+  alt: 'La Montaña Roja vista dalla costa rocciosa di El Médano, nel sud di Tenerife'
 - src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-  alt: Vista del litorale di Costa Adeje
+  alt: 'Vista del litorale di Costa Adeje'
 - src: /images/actividades/tenerife/motos-agua/montana-amarilla-costa.webp
-  alt: La Montaña Amarilla sul mare, nella costa sud di Tenerife
+  alt: 'La Montaña Amarilla sul mare, nella costa sud di Tenerife'
+- src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
+  alt: 'Persona che nuota con la maschera sott''acqua (immagine illustrativa)'
+- src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
+  alt: 'Costa rocciosa vulcanica a Costa Adeje'
 ratingProveedor: 4.5
 numeroOpiniones: 3170
 atraccionesRelacionadas:

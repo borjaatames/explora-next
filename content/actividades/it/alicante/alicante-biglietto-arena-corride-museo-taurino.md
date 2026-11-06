@@ -80,17 +80,19 @@ imagen: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-alicante-ae
 imagenAlt: "Vista aerea dell'arena delle corride di Alicante"
 galeria:
 - src: /images/actividades/alicante/fal-plaza-toros/fal-corrales-visitantes.webp
-  alt: "Visitatori nei recinti dell'arena delle corride di Alicante"
+  alt: 'Visitatori nei recinti dell''arena delle corride di Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-reja-plaza-toros.webp
-  alt: "Cancellata in ferro battuto dell'arena delle corride di Alicante"
+  alt: 'Cancellata in ferro battuto dell''arena delle corride di Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-toros-corrales.webp
-  alt: "Tori nei recinti dell'arena delle corride di Alicante"
+  alt: 'Tori nei recinti dell''arena delle corride di Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-ciudad.webp
-  alt: "Arena delle corride di Alicante tra gli edifici della città"
+  alt: 'Arena delle corride di Alicante tra gli edifici della città'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-vista-castillo.webp
-  alt: "Arena delle corride di Alicante vista dall'alto"
+  alt: 'Arena delle corride di Alicante vista dall''alto'
 - src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
-  alt: "Castello di Santa Bárbara, visibile dalle gradinate"
+  alt: 'Castello di Santa Bárbara, visibile dalle gradinate'
+- src: /images/actividades/alicante/centro/vista-puerto.webp
+  alt: 'Porto e marina di Alicante visti dal castello'
 ---
 
 ## Cosa vedrai

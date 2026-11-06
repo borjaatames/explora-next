@@ -79,15 +79,19 @@ imagen: /images/actividades/granada/alhambra/alhambra-granada-partal-torre-damas
 imagenAlt: The Partal and the Ladies' Tower reflected in the Alhambra pool
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-fountain-patio-leones-spain-hero.webp
-  alt: Fountain in the Court of the Lions
+  alt: 'Fountain in the Court of the Lions'
 - src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
-  alt: Generalife gardens
+  alt: 'Generalife gardens'
 - src: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp
-  alt: Court of the Myrtles
+  alt: 'Court of the Myrtles'
 - src: /images/actividades/granada/alhambra/alhambra-granada-dawn-charles-v-palace-andalusia-hero.webp
-  alt: Palace of Charles V at dawn
+  alt: 'Palace of Charles V at dawn'
 - src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
-  alt: The Alcazaba of the Alhambra
+  alt: 'The Alcazaba of the Alhambra'
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
+  alt: 'Columns and arches of the Alhambra in Granada'
+- src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp
+  alt: 'Courtyard with water and plants in the Generalife'
 ratingProveedor: 4.8
 numeroOpiniones: 1047
 publicada: true

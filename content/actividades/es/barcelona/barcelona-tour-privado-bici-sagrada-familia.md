@@ -102,6 +102,8 @@ galeria:
   alt: 'Familia en bici junto a la Sagrada Familia'
 - src: https://imgcdn.bokun.tools/1230ea8e-a91c-4573-bc73-ddaed04c2fee.jpg
   alt: 'Ciclistas junto a una fuente en un parque'
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
+  alt: 'Fachada de la Sagrada Familia de Barcelona con torres góticas y elementos arquitectónicos modernistas'
 bokunProductId: 217567
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

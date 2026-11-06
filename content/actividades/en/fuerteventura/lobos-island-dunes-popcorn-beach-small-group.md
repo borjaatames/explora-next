@@ -89,17 +89,19 @@ imagen: /images/actividades/fuerteventura/isla-lobos/ffv-barcas-laguna-isla-lobo
 imagenAlt: "Boats in the turquoise water of Isla de Lobos"
 galeria:
 - src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
-  alt: "Corralejo harbour, departure point for the Lobos ferry"
+  alt: 'Corralejo harbour, departure point for the Lobos ferry'
 - src: /images/actividades/fuerteventura/lobos/playa-la-concha-lobos.webp
-  alt: "La Concha beach on Isla de Lobos"
+  alt: 'La Concha beach on Isla de Lobos'
 - src: /images/actividades/fuerteventura/zonas/montana-caldera-lobos.webp
-  alt: "La Caldera mountain on Isla de Lobos"
+  alt: 'La Caldera mountain on Isla de Lobos'
 - src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
-  alt: "Isla de Lobos seen from a beach in Corralejo"
+  alt: 'Isla de Lobos seen from a beach in Corralejo'
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-1.webp
-  alt: "Horizon over the Corralejo Dunes"
+  alt: 'Horizon over the Corralejo Dunes'
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-6.webp
-  alt: "Shrub on top of a dune in Corralejo"
+  alt: 'Shrub on top of a dune in Corralejo'
+- src: /images/actividades/fuerteventura/isla-lobos/ffv-castillos-arena-lobos.webp
+  alt: 'Sandcastles on the beach with Isla de Lobos behind'
 ---
 
 ## What you will see

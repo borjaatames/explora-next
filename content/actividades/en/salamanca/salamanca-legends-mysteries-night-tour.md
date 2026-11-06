@@ -85,17 +85,19 @@ imagen: /images/actividades/salamanca/centro/calle-noche.webp
 imagenAlt: "Old-town street in Salamanca at night with a lit tower in the background"
 galeria:
 - src: /images/actividades/salamanca/noche/plaza-mayor-noche-gente.webp
-  alt: "Salamanca's Plaza Mayor lit up at night"
+  alt: 'Salamanca''s Plaza Mayor lit up at night'
 - src: /images/actividades/salamanca/noche/plaza-mayor-soportales-noche.webp
-  alt: "Arcades of Salamanca's Plaza Mayor at night"
+  alt: 'Arcades of Salamanca''s Plaza Mayor at night'
 - src: /images/actividades/salamanca/leyendas-nocturno/palacio-monterrey-noche.webp
-  alt: "Monterrey Palace lit up at night"
+  alt: 'Monterrey Palace lit up at night'
 - src: /images/actividades/salamanca/catedral/catedral-desde-clerecia.webp
-  alt: "Salamanca's cathedrals lit up at dusk"
+  alt: 'Salamanca''s cathedrals lit up at dusk'
 - src: /images/actividades/salamanca/leyendas-nocturno/cresteria-monterrey-noche.webp
-  alt: "Tower and cresting of Monterrey Palace at night"
+  alt: 'Tower and cresting of Monterrey Palace at night'
 - src: /images/actividades/salamanca/centro/puente-romano-noche.webp
-  alt: "Salamanca's Roman bridge lit up at night"
+  alt: 'Salamanca''s Roman bridge lit up at night'
+- src: /images/actividades/salamanca/centro/casa-conchas.webp
+  alt: 'Facade of the Casa de las Conchas'
 ---
 
 ## What you will see

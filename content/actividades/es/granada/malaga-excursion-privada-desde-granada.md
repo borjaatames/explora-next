@@ -79,17 +79,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
-  alt: Arcos de estilo nazarí en un patio de la Alcazaba de Málaga
+  alt: 'Arcos de estilo nazarí en un patio de la Alcazaba de Málaga'
 - src: https://imgcdn.bokun.tools/8667741a-2ebb-4cdd-a96d-65c1a165f848.jpeg
-  alt: Panorámica de Málaga con la plaza de toros y el puerto
+  alt: 'Panorámica de Málaga con la plaza de toros y el puerto'
 - src: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp
-  alt: Teatro Romano de Málaga con la Alcazaba al fondo
+  alt: 'Teatro Romano de Málaga con la Alcazaba al fondo'
 - src: https://imgcdn.bokun.tools/43bec992-018a-4a43-987a-4cd259f7c3a6.jpeg
-  alt: Estatua junto a la catedral de Málaga
+  alt: 'Estatua junto a la catedral de Málaga'
 - src: /images/actividades/malaga/museo-picasso/patio-buenavista.webp
-  alt: Patio porticado del Palacio de Buenavista, sede del Museo Picasso Málaga
+  alt: 'Patio porticado del Palacio de Buenavista, sede del Museo Picasso Málaga'
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-04.webp
-  alt: Nave central de la catedral de Málaga
+  alt: 'Nave central de la catedral de Málaga'
+- src: /images/actividades/malaga/catedral-malaga/fachada.webp
+  alt: 'Fachada barroca de la Catedral de Málaga'
 bokunProductId: 938174
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

@@ -89,17 +89,19 @@ imagen: /images/actividades/fuerteventura/buggy/ffv-buggy-corralejo-polvo.webp
 imagenAlt: "Buggy che solleva polvere su una pista sterrata a Corralejo"
 galeria:
 - src: /images/actividades/fuerteventura/buggy-corralejo.webp
-  alt: "Buggy in fila pronti per il tour"
+  alt: 'Buggy in fila pronti per il tour'
 - src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: "Vulcani nel nord di Fuerteventura"
+  alt: 'Vulcani nel nord di Fuerteventura'
 - src: /images/actividades/fuerteventura/buggy/ffv-buggy-saltando-arena.webp
-  alt: "Buggy che solleva sabbia su una pista"
+  alt: 'Buggy che solleva sabbia su una pista'
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-paisaje.webp
-  alt: "Paesaggio vulcanico dal Calderón Hondo"
+  alt: 'Paesaggio vulcanico dal Calderón Hondo'
 - src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
-  alt: "La baia di Corralejo"
+  alt: 'La baia di Corralejo'
 - src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
-  alt: "L'Isola di Lobos vista da una spiaggia di Corralejo"
+  alt: 'L''Isola di Lobos vista da una spiaggia di Corralejo'
+- src: /images/actividades/fuerteventura/buggy/ffv-buggy-pista-tierra-roja.webp
+  alt: 'Buggy su una pista sterrata rossastra'
 ---
 
 ## Cosa vedrai

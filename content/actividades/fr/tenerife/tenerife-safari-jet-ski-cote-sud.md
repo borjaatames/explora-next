@@ -88,15 +88,19 @@ imagen: /images/actividades/tenerife/motos-agua/grupo-motos-agua-ruta.webp
 imagenAlt: Groupe de jet-skis roulant en file en pleine mer
 galeria:
 - src: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
-  alt: Un jet-ski filant sur les vagues
+  alt: 'Un jet-ski filant sur les vagues'
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: La plage de Costa Adeje avec les montagnes derrière
+  alt: 'La plage de Costa Adeje avec les montagnes derrière'
 - src: /images/actividades/tenerife/motos-agua/montana-roja-el-medano.webp
-  alt: La Montaña Roja vue depuis le rivage rocheux d'El Médano, dans le sud de Tenerife
+  alt: 'La Montaña Roja vue depuis le rivage rocheux d''El Médano, dans le sud de Tenerife'
 - src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-  alt: Vue du littoral de Costa Adeje
+  alt: 'Vue du littoral de Costa Adeje'
 - src: /images/actividades/tenerife/motos-agua/montana-amarilla-costa.webp
-  alt: La Montaña Amarilla au bord de la mer, sur la côte sud de Tenerife
+  alt: 'La Montaña Amarilla au bord de la mer, sur la côte sud de Tenerife'
+- src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
+  alt: 'Personne nageant sous l''eau avec un masque (image d''illustration)'
+- src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
+  alt: 'Côte volcanique rocheuse à Costa Adeje'
 ratingProveedor: 4.5
 numeroOpiniones: 3170
 atraccionesRelacionadas:

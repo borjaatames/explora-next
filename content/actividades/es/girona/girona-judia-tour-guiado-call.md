@@ -68,17 +68,19 @@ imagen: /images/actividades/girona/call-jueu/call-jueu-01.webp
 imagenAlt: Callejón del Call judío de Girona
 galeria:
 - src: /images/actividades/girona/call-jueu/call-jueu-02.webp
-  alt: Centro Bonastruc ça Porta en el Call de Girona
+  alt: 'Centro Bonastruc ça Porta en el Call de Girona'
 - src: /images/actividades/girona/call-jueu/call-jueu-03.webp
-  alt: Carrer de la Força, eje del Call
+  alt: 'Carrer de la Força, eje del Call'
 - src: /images/actividades/girona/juego-de-tronos/call-escaleras.webp
-  alt: Escaleras de piedra en el Call de Girona
+  alt: 'Escaleras de piedra en el Call de Girona'
 - src: /images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp
-  alt: Casas del Onyar con la catedral al fondo
+  alt: 'Casas del Onyar con la catedral al fondo'
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
-  alt: La catedral vista desde la muralla
+  alt: 'La catedral vista desde la muralla'
 - src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
-  alt: Paseo de la muralla de Girona
+  alt: 'Paseo de la muralla de Girona'
+- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
+  alt: 'Escalinata de la catedral de Girona, escenario del Gran Septo de Baelor'
 ratingProveedor: 4.9
 numeroOpiniones: 140
 atraccionesRelacionadas:

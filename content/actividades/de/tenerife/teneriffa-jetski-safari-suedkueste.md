@@ -87,15 +87,19 @@ imagen: /images/actividades/tenerife/motos-agua/grupo-motos-agua-ruta.webp
 imagenAlt: Gruppe von Jetskis fährt in einer Reihe auf offener See
 galeria:
 - src: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
-  alt: Ein Jetski auf den Wellen
+  alt: 'Ein Jetski auf den Wellen'
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: Strand in Costa Adeje mit den Bergen im Hintergrund
+  alt: 'Strand in Costa Adeje mit den Bergen im Hintergrund'
 - src: /images/actividades/tenerife/motos-agua/montana-roja-el-medano.webp
-  alt: Die Montaña Roja von der Felsküste in El Médano, Süden Teneriffas
+  alt: 'Die Montaña Roja von der Felsküste in El Médano, Süden Teneriffas'
 - src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-  alt: Blick auf die Küste von Costa Adeje
+  alt: 'Blick auf die Küste von Costa Adeje'
 - src: /images/actividades/tenerife/motos-agua/montana-amarilla-costa.webp
-  alt: Die Montaña Amarilla am Meer an der Südküste Teneriffas
+  alt: 'Die Montaña Amarilla am Meer an der Südküste Teneriffas'
+- src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
+  alt: 'Person schwimmt mit Brille unter Wasser (Symbolbild)'
+- src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
+  alt: 'Felsige Vulkanküste in Costa Adeje'
 ratingProveedor: 4.5
 numeroOpiniones: 3170
 atraccionesRelacionadas:

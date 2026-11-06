@@ -93,17 +93,19 @@ imagen: /images/actividades/gran-canaria/yate/fgc-yate-navegando-mar-abierto.web
 imagenAlt: "Motor yacht cruising in open water"
 galeria:
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: "The bay and beach of Puerto Rico de Gran Canaria"
+  alt: 'The bay and beach of Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: "Volcanic cliffs of the south-west coast seen from the sea"
+  alt: 'Volcanic cliffs of the south-west coast seen from the sea'
 - src: /images/actividades/gran-canaria/yate/fgc-mar-azul-costa-rocosa.webp
-  alt: "Blue sea in front of a rocky coast, at water level"
+  alt: 'Blue sea in front of a rocky coast, at water level'
 - src: /images/actividades/gran-canaria/catamaran/fgc-esnorquel-fondo-rocoso.webp
-  alt: "Snorkelling over a rocky seabed in clear water"
+  alt: 'Snorkelling over a rocky seabed in clear water'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: "Fish over the sandy seabed in Gran Canaria waters"
+  alt: 'Fish over the sandy seabed in Gran Canaria waters'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
-  alt: "Puerto Rico de Gran Canaria at sunset"
+  alt: 'Puerto Rico de Gran Canaria at sunset'
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: 'Rocky coastline in south-west Gran Canaria'
 ---
 
 ## What you will see

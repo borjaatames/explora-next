@@ -89,17 +89,19 @@ imagen: /images/actividades/fuerteventura/betancuria/ffv-betancuria-1.webp
 imagenAlt: "Iglesia de Santa María y plaza de Betancuria"
 galeria:
 - src: /images/actividades/fuerteventura/betancuria/ffv-puerta-municipio-betancuria.webp
-  alt: "Monumento de entrada al municipio de Betancuria"
+  alt: 'Monumento de entrada al municipio de Betancuria'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-5.webp
-  alt: "Entrada a la villa histórica de Betancuria"
+  alt: 'Entrada a la villa histórica de Betancuria'
 - src: /images/actividades/fuerteventura/ajuy/ffv-costa-ajuy.webp
-  alt: "Costa de Ajuy con la playa negra"
+  alt: 'Costa de Ajuy con la playa negra'
 - src: /images/actividades/fuerteventura/ajuy/ffv-acantilados-ajuy.webp
-  alt: "Acantilados de Ajuy sobre el mar"
+  alt: 'Acantilados de Ajuy sobre el mar'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-4.webp
-  alt: "Jardín junto a la iglesia de Betancuria"
+  alt: 'Jardín junto a la iglesia de Betancuria'
 - src: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
-  alt: "Pueblo de Ajuy y su playa de arena negra"
+  alt: 'Pueblo de Ajuy y su playa de arena negra'
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
+  alt: 'Plaza de la iglesia de Betancuria con el pueblo al fondo'
 ---
 
 ## Qué vas a ver

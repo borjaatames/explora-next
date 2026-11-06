@@ -90,13 +90,19 @@ imagen: /images/actividades/lanzarote/submarino-lanzarote.webp
 imagenAlt: Le sous-marin de Puerto Calero en surface avant la plongée
 galeria:
 - src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
-  alt: Bateaux amarrés à la Marina Rubicón, Playa Blanca
+  alt: 'Bateaux amarrés à la Marina Rubicón, Playa Blanca'
 - src: /images/actividades/lanzarote/zonas/arrecife-barcas.webp
-  alt: Bateaux de pêche à Arrecife, la capitale de Lanzarote
+  alt: 'Bateaux de pêche à Arrecife, la capitale de Lanzarote'
 - src: /images/actividades/lanzarote/zonas/arrecife-casas.webp
-  alt: Maisons blanches au bord de l'eau à Arrecife
+  alt: 'Maisons blanches au bord de l''eau à Arrecife'
 - src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
-  alt: La côte sud de Lanzarote près des plages de Papagayo
+  alt: 'La côte sud de Lanzarote près des plages de Papagayo'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Falaises de lave à Los Hervideros avec des volcans en arrière-plan'
+- src: /images/actividades/lanzarote/zonas/playa-blanca.webp
+  alt: 'La plage de Playa Blanca, dans le sud de Lanzarote'
+- src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
+  alt: 'Une crique de Papagayo aux eaux turquoise et aux roches volcaniques'
 ratingProveedor: 4.6
 numeroOpiniones: 1587
 atraccionesRelacionadas:

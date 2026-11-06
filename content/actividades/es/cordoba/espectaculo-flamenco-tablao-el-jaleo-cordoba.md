@@ -80,17 +80,19 @@ imagen: /images/actividades/cordoba/flamenco/bailaora.webp
 imagenAlt: "Bailaora con mantón blanco durante un espectáculo flamenco"
 galeria:
 - src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: "Guitarrista flamenco tocando en directo"
+  alt: 'Guitarrista flamenco tocando en directo'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Cantaora flamenca cantando en un escenario"
+  alt: 'Cantaora flamenca cantando en un escenario'
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Calle de la Judería de Córdoba con la torre de la Mezquita al fondo"
+  alt: 'Calle de la Judería de Córdoba con la torre de la Mezquita al fondo'
 - src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: "Artistas flamencos en escena durante un espectáculo en directo"
+  alt: 'Artistas flamencos en escena durante un espectáculo en directo'
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: "Calleja de las Flores con la torre de la Mezquita al fondo"
+  alt: 'Calleja de las Flores con la torre de la Mezquita al fondo'
 - src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
-  alt: "Puente Romano y Mezquita-Catedral de Córdoba iluminados al anochecer"
+  alt: 'Puente Romano y Mezquita-Catedral de Córdoba iluminados al anochecer'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Guitarrista flamenco tocando sobre el escenario'
 ---
 
 ## Qué vas a ver

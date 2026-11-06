@@ -95,6 +95,10 @@ galeria:
   alt: 'Il Guggenheim e la Torre Iberdrola accanto al fiume di Bilbao'
 - src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
   alt: 'Vista del Museo Guggenheim di Bilbao dal fiume'
+- src: /images/actividades/bilbao/guggenheim/maman.webp
+  alt: 'Maman, il ragno di Louise Bourgeois accanto al museo'
+- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+  alt: 'La facciata in titanio del Guggenheim'
 ---
 
 ## Cosa vedrai

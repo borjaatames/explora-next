@@ -103,6 +103,8 @@ galeria:
   alt: 'Viajantes no terraço do mosteiro com a montanha ao fundo'
 - src: https://imgcdn.bokun.tools/1c248131-d79f-4a98-91be-0d3dd1f112a7.jpg
   alt: 'Banca no mercado de produtores de Montserrat'
+- src: /images/actividades/barcelona/montserrat/montserrat-abadia.webp
+  alt: 'Mosteiro de Montserrat aos pés dos picos rochosos'
 bokunProductId: 217561
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'

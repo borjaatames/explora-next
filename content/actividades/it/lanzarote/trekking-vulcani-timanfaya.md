@@ -81,17 +81,19 @@ imagen: /images/actividades/lanzarote/senderismo-volcanes.webp
 imagenAlt: Escursionisti che camminano tra coni vulcanici a Lanzarote
 galeria:
 - src: /images/actividades/lanzarote/zonas/sendero-volcan.webp
-  alt: Sentiero lungo la cresta di un vulcano a Lanzarote
+  alt: 'Sentiero lungo la cresta di un vulcano a Lanzarote'
 - src: /images/actividades/lanzarote/zonas/volcan-vegetacion.webp
-  alt: Vulcano e macchia sul campo di lava di Lanzarote
+  alt: 'Vulcano e macchia sul campo di lava di Lanzarote'
 - src: /images/actividades/lanzarote/zonas/caldera-interior.webp
-  alt: L'interno di una caldera vulcanica a Timanfaya
+  alt: 'L''interno di una caldera vulcanica a Timanfaya'
 - src: /images/actividades/lanzarote/zonas/volcan-malpais.webp
-  alt: Un vulcano sopra il campo di lava di Timanfaya
+  alt: 'Un vulcano sopra il campo di lava di Timanfaya'
 - src: /images/actividades/lanzarote/zonas/ladera-volcanica.webp
-  alt: Pendio vulcanico coperto di licheni a Timanfaya
+  alt: 'Pendio vulcanico coperto di licheni a Timanfaya'
 - src: /images/actividades/lanzarote/zonas/carretera-volcanes.webp
-  alt: Strada dritta tra lava e vulcani a Lanzarote
+  alt: 'Strada dritta tra lava e vulcani a Lanzarote'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'La costa sud di Lanzarote vicino alle spiagge di Papagayo'
 ratingProveedor: 4.8
 numeroOpiniones: 990
 atraccionesRelacionadas:

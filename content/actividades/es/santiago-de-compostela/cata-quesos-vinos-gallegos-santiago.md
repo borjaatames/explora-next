@@ -81,17 +81,19 @@ imagen: /images/actividades/santiago-de-compostela/tapas/queso-tetilla.webp
 imagenAlt: "Queso de tetilla gallego con denominación de origen"
 galeria:
 - src: /images/actividades/santiago-de-compostela/tapas/fsc-cata-quesos-curados-surtido.webp
-  alt: "Surtido de quesos curados de distintos tamaños"
+  alt: 'Surtido de quesos curados de distintos tamaños'
 - src: /images/actividades/santiago-de-compostela/rias/vinedos-albarino.webp
-  alt: "Viñedos de albariño en las Rías Baixas"
+  alt: 'Viñedos de albariño en las Rías Baixas'
 - src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: "Rúa do Franco, calle de bares y restaurantes del casco antiguo de Santiago"
+  alt: 'Rúa do Franco, calle de bares y restaurantes del casco antiguo de Santiago'
 - src: /images/actividades/santiago-de-compostela/rias/parras.webp
-  alt: "Parras de vid sobre pilares de granito en Galicia"
+  alt: 'Parras de vid sobre pilares de granito en Galicia'
 - src: /images/actividades/santiago-de-compostela/tapas/bar-gallego.webp
-  alt: "Interior de un bar tradicional gallego con barricas"
+  alt: 'Interior de un bar tradicional gallego con barricas'
 - src: /images/actividades/santiago-de-compostela/rias/vendimia-albarino-cambados.webp
-  alt: "Cajas de uva albariño recién vendimiada"
+  alt: 'Cajas de uva albariño recién vendimiada'
+- src: /images/actividades/santiago-de-compostela/tapas/mejillones.webp
+  alt: 'Cazuela de mejillones'
 ---
 
 ## Qué vas a ver

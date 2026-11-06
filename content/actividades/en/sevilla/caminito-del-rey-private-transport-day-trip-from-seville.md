@@ -99,6 +99,8 @@ galeria:
   alt: 'Caminito del Rey walkway clinging to the gorge'
 - src: https://imgcdn.bokun.tools/4b5cc6a0-b458-4055-a885-d87e7bd97f42.jpg
   alt: 'Caminito del Rey suspension bridge'
+- src: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp
+  alt: 'Walkways fixed to the rock on the Caminito del Rey'
 bokunProductId: 860688
 fecha_actualizacion: '2026-10-24'
 privada: true

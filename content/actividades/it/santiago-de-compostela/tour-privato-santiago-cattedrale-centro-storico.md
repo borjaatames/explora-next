@@ -86,17 +86,19 @@ imagen: /images/actividades/santiago-de-compostela/catedral/fsc-privado-fachada-
 imagenAlt: "Facciata barocca dell'Obradoiro della Cattedrale di Santiago"
 galeria:
 - src: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
-  alt: "Navata della Cattedrale di Santiago"
+  alt: 'Navata della Cattedrale di Santiago'
 - src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
-  alt: "Volte del chiostro nel museo della cattedrale"
+  alt: 'Volte del chiostro nel museo della cattedrale'
 - src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: "Rúa do Vilar nel centro storico"
+  alt: 'Rúa do Vilar nel centro storico'
 - src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: "Praza da Quintana"
+  alt: 'Praza da Quintana'
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: "Praza das Praterías"
+  alt: 'Praza das Praterías'
 - src: /images/actividades/santiago-de-compostela/catedral/botafumeiro.webp
-  alt: "Il botafumeiro nella cattedrale"
+  alt: 'Il botafumeiro nella cattedrale'
+- src: /images/actividades/santiago-de-compostela/catedral/tribuna.webp
+  alt: 'Matroneo e archi della navata'
 ---
 
 ## Cosa vedrai

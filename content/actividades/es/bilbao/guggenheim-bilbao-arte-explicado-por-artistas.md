@@ -84,17 +84,19 @@ imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-ria.webp
 imagenAlt: "Fachada de titanio del Guggenheim Bilbao sobre el estanque junto a la ría"
 galeria:
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-fachada-norte.webp
-  alt: "Fachada norte del Museo Guggenheim Bilbao con su atrio acristalado"
+  alt: 'Fachada norte del Museo Guggenheim Bilbao con su atrio acristalado'
 - src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-  alt: "Fachada de titanio del Museo Guggenheim Bilbao"
+  alt: 'Fachada de titanio del Museo Guggenheim Bilbao'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-jardines.webp
-  alt: "Exterior del Museo Guggenheim Bilbao visto desde los jardines"
+  alt: 'Exterior del Museo Guggenheim Bilbao visto desde los jardines'
 - src: /images/actividades/bilbao/guggenheim/puppy.webp
-  alt: "Puppy, el perro de flores frente al Guggenheim"
+  alt: 'Puppy, el perro de flores frente al Guggenheim'
 - src: /images/actividades/bilbao/guggenheim/maman.webp
-  alt: "Escultura Mamá junto al Guggenheim al anochecer"
+  alt: 'Escultura Mamá junto al Guggenheim al anochecer'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
-  alt: "Museo Guggenheim Bilbao junto a la ría y el puente de La Salve"
+  alt: 'Museo Guggenheim Bilbao junto a la ría y el puente de La Salve'
+- src: /images/actividades/bilbao/guggenheim/maman-puente.webp
+  alt: 'El Guggenheim y el puente de La Salve desde la ría'
 ---
 
 ## Qué vas a ver

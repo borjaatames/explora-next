@@ -83,6 +83,8 @@ galeria:
   alt: 'Patio de los Naranjos'
 - src: /images/actividades/cordoba/mezquita/fvc-puente-romano-mezquita-dia.webp
   alt: 'La Mezquita desde el puente romano'
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: 'Torre de la Mezquita-Catedral, frente al tablao'
 ratingProveedor: 4.7
 numeroOpiniones: 7507
 publicada: true

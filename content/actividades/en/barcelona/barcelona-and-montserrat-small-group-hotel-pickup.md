@@ -88,6 +88,8 @@ galeria:
   alt: 'Passeig de Gràcia with modernist façades'
 - src: https://imgcdn.bokun.tools/d8e3dfaf-7892-4000-9c56-6dfcc30c4869.jpg
   alt: 'Travellers by the tour van in front of the Sagrada Família'
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
+  alt: 'Sagrada Familia basilica in Barcelona with stunning Gothic architecture and soaring spires'
 publicada: true
 indexar: false
 destacada: false

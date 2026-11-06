@@ -80,17 +80,19 @@ imagen: /images/actividades/cordoba/flamenco/bailaora.webp
 imagenAlt: "Flamenco dancer with a white shawl during a flamenco show"
 galeria:
 - src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: "Flamenco guitarist playing live"
+  alt: 'Flamenco guitarist playing live'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Flamenco singer performing on stage"
+  alt: 'Flamenco singer performing on stage'
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Street in the Córdoba Jewish Quarter with the Mosque tower behind"
+  alt: 'Street in the Córdoba Jewish Quarter with the Mosque tower behind'
 - src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: "Flamenco artists on stage during a live show"
+  alt: 'Flamenco artists on stage during a live show'
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: "Calleja de las Flores with the Mosque tower in the background"
+  alt: 'Calleja de las Flores with the Mosque tower in the background'
 - src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
-  alt: "Roman Bridge and Mosque-Cathedral of Córdoba lit up at dusk"
+  alt: 'Roman Bridge and Mosque-Cathedral of Córdoba lit up at dusk'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Flamenco guitarist playing on stage'
 ---
 
 ## What you will see

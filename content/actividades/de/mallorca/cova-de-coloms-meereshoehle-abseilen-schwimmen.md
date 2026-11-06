@@ -91,17 +91,19 @@ imagen: /images/actividades/mallorca/fma-cala-varques/cueva-acantilado-cala-varq
 imagenAlt: "Klippe mit einer Meereshöhle neben Cala Varques an der Ostküste"
 galeria:
 - src: /images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp
-  alt: "Im Inneren einer Meereshöhle mit Öffnung zum Meer"
+  alt: 'Im Inneren einer Meereshöhle mit Öffnung zum Meer'
 - src: /images/actividades/mallorca/fma-cala-varques/nadadora-esnorquel.webp
-  alt: "Person schwimmt mit Schnorchel in blaugrünem Wasser"
+  alt: 'Person schwimmt mit Schnorchel in blaugrünem Wasser'
 - src: /images/actividades/mallorca/fma-cala-varques/costa-este-acantilados.webp
-  alt: "Niedrige Klippen an der Ostküste Mallorcas"
+  alt: 'Niedrige Klippen an der Ostküste Mallorcas'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
-  alt: "Meeresboden mit Felsen unter kristallklarem Wasser"
+  alt: 'Meeresboden mit Felsen unter kristallklarem Wasser'
 - src: /images/actividades/mallorca/fma-cala-varques/roca-oleaje-cala-varques.webp
-  alt: "Felsen und Brandung an der Küste von Cala Varques"
+  alt: 'Felsen und Brandung an der Küste von Cala Varques'
 - src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
-  alt: "Fels im Meer, umgeben von türkisfarbenem Wasser"
+  alt: 'Fels im Meer, umgeben von türkisfarbenem Wasser'
+- src: /images/actividades/mallorca/fma-cala-varques/cala-varques-playa.webp
+  alt: 'Strand von Cala Varques mit türkisfarbenem Wasser und Pinienwald'
 ---
 
 ## Was du siehst

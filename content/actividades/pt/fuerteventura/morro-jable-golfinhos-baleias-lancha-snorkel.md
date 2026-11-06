@@ -90,6 +90,12 @@ galeria:
   alt: 'Farol de Morro Jable'
 - src: /images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp
   alt: 'Grupo de golfinhos no Atlântico'
+- src: /images/actividades/fuerteventura/morro-jable/ffv-catamaranes-playa-morro-jable.webp
+  alt: 'Catamarãs à vela na praia de Morro Jable'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Baleia-piloto nas águas do oeste de Tenerife'
+- src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
+  alt: 'Golfinho-pintado-do-atlântico em águas canárias'
 ratingProveedor: 4.6
 numeroOpiniones: 4306
 publicada: true

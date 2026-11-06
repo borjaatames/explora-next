@@ -79,6 +79,8 @@ galeria:
   alt: 'Gruppo sul ponte di Alcántara'
 - src: https://imgcdn.bokun.tools/9cad972e-ebba-4735-b12a-78ddff4eb1a2.jpg
   alt: 'Arco mudéjar a Toledo'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
+  alt: 'L''Alcázar di Toledo che domina la città'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

@@ -81,17 +81,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/7ab1e2d8-5709-4905-9d78-7101b0ab3536.jpg
-  alt: The forest of two-tone arches in the Mosque-Cathedral
+  alt: 'The forest of two-tone arches in the Mosque-Cathedral'
 - src: https://imgcdn.bokun.tools/58a9e829-333a-421d-844c-0f5ae0b5c841.jpg
-  alt: Guide with travellers by the river, the Mosque behind
+  alt: 'Guide with travellers by the river, the Mosque behind'
 - src: /images/actividades/cordoba/mezquita/mihrab.webp
-  alt: Mihrab of the Mosque of Córdoba
+  alt: 'Mihrab of the Mosque of Córdoba'
 - src: https://imgcdn.bokun.tools/0b073e8b-518a-4290-ad58-368af274274e.jpg
-  alt: Calleja de las Flores with the tower in the background
+  alt: 'Calleja de las Flores with the tower in the background'
 - src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
-  alt: Narrow street in Córdoba's Jewish Quarter
+  alt: 'Narrow street in Córdoba''s Jewish Quarter'
 - src: https://imgcdn.bokun.tools/a6cbd719-842d-4831-b9d7-53131d65ed63.jpg
-  alt: Travellers in a patio with blue flowerpots
+  alt: 'Travellers in a patio with blue flowerpots'
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: 'Mosque-Cathedral tower seen from a Jewish Quarter street'
 bokunProductId: 1237810
 fecha_actualizacion: '2026-10-24'
 privada: true

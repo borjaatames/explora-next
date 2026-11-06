@@ -79,17 +79,19 @@ imagen: /images/actividades/madrid/pub-crawl/camarero-preparando-copa.webp
 imagenAlt: "Camarero preparando cócteles en una barra en la azotea al anochecer"
 galeria:
 - src: /images/actividades/tarragona/fre-mojitos/costa-dorada-puesta-sol.webp
-  alt: "Puesta de sol sobre la costa de la Costa Daurada"
+  alt: 'Puesta de sol sobre la costa de la Costa Daurada'
 - src: /images/actividades/barcelona/noche/copas-bar-noche.webp
-  alt: "Cócteles servidos en la barra de un bar"
+  alt: 'Cócteles servidos en la barra de un bar'
 - src: /images/actividades/tarragona/salou/fta-paseo-salou-palmeras-anochecer.webp
-  alt: "Paseo marítimo de Salou con palmeras al anochecer"
+  alt: 'Paseo marítimo de Salou con palmeras al anochecer'
 - src: /images/actividades/tarragona/costa/platja-llarga.webp
-  alt: "Platja Llarga de Salou"
+  alt: 'Platja Llarga de Salou'
 - src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: "Cap de Salou sobre el Mediterráneo"
+  alt: 'Cap de Salou sobre el Mediterráneo'
 - src: /images/actividades/barcelona/noche/barcelona-noche-torre-glories.webp
-  alt: "Barcelona iluminada de noche con la Torre Glòries"
+  alt: 'Barcelona iluminada de noche con la Torre Glòries'
+- src: /images/actividades/barcelona/noche/musica-directo-bar-guitarra.webp
+  alt: 'Guitarrista cantando en directo en un bar ante el público'
 ---
 
 ## Qué vas a ver

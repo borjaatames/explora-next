@@ -89,6 +89,8 @@ galeria:
   alt: 'Cúpula de la Catedral de Jerez iluminada de noche'
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
   alt: 'Público disfrutando de un espectáculo flamenco en Jerez'
+- src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
+  alt: 'Calle del casco antiguo de Jerez con ventanales y terraza'
 ---
 
 ## Qué vas a ver

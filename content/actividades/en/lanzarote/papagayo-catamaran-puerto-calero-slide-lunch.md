@@ -102,6 +102,8 @@ galeria:
   alt: 'Papagayo beach below its rocky headland'
 - src: /images/actividades/lanzarote/papagayo/flz-acantilados-playa.webp
   alt: 'Cliffs and beach at Playas de Papagayo'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
+  alt: 'Turquoise-water cove at Papagayo'
 ---
 
 ## What you will see

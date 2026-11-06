@@ -82,17 +82,19 @@ imagen: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-alicante-ae
 imagenAlt: Luftaufnahme der Stierkampfarena von Alicante
 galeria:
 - src: /images/actividades/alicante/fal-plaza-toros/fal-corrales-visitantes.webp
-  alt: Besucher an den Pferchen der Stierkampfarena von Alicante
+  alt: 'Besucher an den Pferchen der Stierkampfarena von Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-reja-plaza-toros.webp
-  alt: Schmiedeeisernes Gitter in der Stierkampfarena von Alicante
+  alt: 'Schmiedeeisernes Gitter in der Stierkampfarena von Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-toros-corrales.webp
-  alt: Stiere in den Pferchen der Stierkampfarena von Alicante
+  alt: 'Stiere in den Pferchen der Stierkampfarena von Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-ciudad.webp
-  alt: Die Stierkampfarena von Alicante zwischen den Gebäuden der Stadt
+  alt: 'Die Stierkampfarena von Alicante zwischen den Gebäuden der Stadt'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-vista-castillo.webp
-  alt: Die Stierkampfarena von Alicante von oben
+  alt: 'Die Stierkampfarena von Alicante von oben'
 - src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
-  alt: Das Castillo de Santa Bárbara, von den Rängen aus zu sehen
+  alt: 'Das Castillo de Santa Bárbara, von den Rängen aus zu sehen'
+- src: /images/actividades/alicante/centro/vista-puerto.webp
+  alt: 'Alicante und sein Hafen von der Burg aus'
 ---
 
 ## Was du siehst

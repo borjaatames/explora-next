@@ -94,17 +94,19 @@ imagen: /images/actividades/gran-canaria/yate/fgc-yate-navegando-mar-abierto.web
 imagenAlt: "Yacht a motore che naviga in mare aperto"
 galeria:
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: "La baia e la spiaggia di Puerto Rico de Gran Canaria"
+  alt: 'La baia e la spiaggia di Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: "Scogliere vulcaniche della costa sud-ovest viste dal mare"
+  alt: 'Scogliere vulcaniche della costa sud-ovest viste dal mare'
 - src: /images/actividades/gran-canaria/yate/fgc-mar-azul-costa-rocosa.webp
-  alt: "Mare blu davanti a una costa rocciosa, a pelo d'acqua"
+  alt: 'Mare blu davanti a una costa rocciosa, a pelo d''acqua'
 - src: /images/actividades/gran-canaria/catamaran/fgc-esnorquel-fondo-rocoso.webp
-  alt: "Snorkeling su un fondale roccioso in acque limpide"
+  alt: 'Snorkeling su un fondale roccioso in acque limpide'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: "Pesci sul fondale sabbioso nelle acque di Gran Canaria"
+  alt: 'Pesci sul fondale sabbioso nelle acque di Gran Canaria'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
-  alt: "Puerto Rico de Gran Canaria al tramonto"
+  alt: 'Puerto Rico de Gran Canaria al tramonto'
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: 'Costa rocciosa nel sud-ovest di Gran Canaria'
 ---
 
 ## Cosa vedrai

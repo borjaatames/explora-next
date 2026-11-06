@@ -91,17 +91,19 @@ imagen: /images/actividades/tenerife/masca/ftc-caserio-masca-valle.webp
 imagenAlt: "The hamlet of Masca among the mountains of the Teno massif"
 galeria:
 - src: /images/actividades/tenerife/masca/ftc-masca-roque-barranco-mar.webp
-  alt: "Masca and its rock pinnacle, with the gorge opening towards the sea"
+  alt: 'Masca and its rock pinnacle, with the gorge opening towards the sea'
 - src: /images/actividades/tenerife/masca/ftc-palmeras-masca.webp
-  alt: "Canary palms on the slopes of Masca"
+  alt: 'Canary palms on the slopes of Masca'
 - src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-atardecer.webp
-  alt: "The Los Gigantes cliffs in the late-afternoon light"
+  alt: 'The Los Gigantes cliffs in the late-afternoon light'
 - src: /images/actividades/tenerife/gigantes/ftc-los-gigantes-pueblo-acantilados.webp
-  alt: "The town of Los Gigantes with the cliffs behind"
+  alt: 'The town of Los Gigantes with the cliffs behind'
 - src: /images/actividades/tenerife/garachico/caleton-garachico.webp
-  alt: "Natural volcanic rock pools on Tenerife's north coast"
+  alt: 'Natural volcanic rock pools on Tenerife''s north coast'
 - src: /images/actividades/tenerife/masca/ftc-masca-casas-ladera.webp
-  alt: "Houses of Masca on the side of the gorge"
+  alt: 'Houses of Masca on the side of the gorge'
+- src: /images/actividades/tenerife/masca/masca-caserio.webp
+  alt: 'The hamlet of Masca among the mountains'
 ---
 
 ## What you will see

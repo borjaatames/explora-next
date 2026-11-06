@@ -74,15 +74,19 @@ imagen: /images/actividades/cadiz/centro/monumento-1812.webp
 imagenAlt: Monument à la Constitution de 1812, plaza de España de Cadix
 galeria:
 - src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
-  alt: Arco de los Blancos, dans le quartier du Pópulo
+  alt: 'Arco de los Blancos, dans le quartier du Pópulo'
 - src: /images/actividades/cadiz/centro/plaza-flores.webp
-  alt: Plaza de las Flores, à Cadix
+  alt: 'Plaza de las Flores, à Cadix'
 - src: /images/actividades/cadiz/centro/catedral-fachada.webp
-  alt: Façade de la cathédrale de Cadix
+  alt: 'Façade de la cathédrale de Cadix'
 - src: /images/actividades/cadiz/centro/ftc-garita-muralla-cadiz.webp
-  alt: Guérite sur les remparts de Cadix
+  alt: 'Guérite sur les remparts de Cadix'
 - src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
-  alt: Plaza de San Juan de Dios et l'hôtel de ville
+  alt: 'Plaza de San Juan de Dios et l''hôtel de ville'
+- src: /images/actividades/cadiz/centro/catedral-tejados.webp
+  alt: 'Toits et coupole de la cathédrale de Cadix'
+- src: /images/actividades/cadiz/centro/vista-torre-tavira.webp
+  alt: 'Vue de Cadix depuis la Torre Tavira'
 ratingProveedor: 4.9
 numeroOpiniones: 109
 publicada: true

@@ -83,6 +83,10 @@ galeria:
   alt: 'Paisaje de Arucas, en el norte de Gran Canaria'
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
   alt: 'Plataneras en Arucas'
+- src: /images/actividades/gran-canaria/platano/plataneras.webp
+  alt: 'Racimos en una platanera canaria'
+- src: /images/actividades/gran-canaria/platano/platanos-racimo.webp
+  alt: 'Racimos de plátano canario en la planta'
 ratingProveedor: 4.8
 numeroOpiniones: 269
 atraccionesRelacionadas:

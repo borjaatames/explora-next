@@ -86,6 +86,8 @@ galeria:
   alt: 'Dettaglio del portale con volute'
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
   alt: 'Cattedrale di Granada, a 10 minuti'
+- src: /images/actividades/granada/catedral/granada-catedral-04.webp
+  alt: 'La Cattedrale, attaccata alla Cappella Reale'
 ratingProveedor: 4.7
 numeroOpiniones: 475
 publicada: true

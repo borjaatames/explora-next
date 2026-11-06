@@ -86,17 +86,19 @@ imagen: /images/actividades/alicante/fal-calpe/fal-penon-ifach-barcos.webp
 imagenAlt: "Peñón de Ifach in Calpe with moored boats"
 galeria:
 - src: /images/actividades/alicante/fal-altea/fal-calle-flores-altea.webp
-  alt: "Cobbled street with flower pots in Altea's old town"
+  alt: 'Cobbled street with flower pots in Altea''s old town'
 - src: /images/actividades/alicante/excursiones/altea-iglesia-calle.webp
-  alt: "Altea's blue-domed church at the end of a street"
+  alt: 'Altea''s blue-domed church at the end of a street'
 - src: /images/actividades/alicante/fal-altea/fal-altea-desde-mar.webp
-  alt: "Altea seen from the sea with its church on top"
+  alt: 'Altea seen from the sea with its church on top'
 - src: /images/actividades/alicante/fal-calpe/fal-calpe-vista-alto.webp
-  alt: "View of Calpe and its bay from above"
+  alt: 'View of Calpe and its bay from above'
 - src: /images/actividades/alicante/fal-calpe/fal-playa-calpe-penon.webp
-  alt: "Calpe beach with the Peñón de Ifach"
+  alt: 'Calpe beach with the Peñón de Ifach'
 - src: /images/actividades/alicante/fal-calpe/fal-calpe-ciudad-penon.webp
-  alt: "Calpe and the Peñón de Ifach"
+  alt: 'Calpe and the Peñón de Ifach'
+- src: /images/actividades/alicante/excursiones/guadalest-desde-castillo.webp
+  alt: 'Guadalest seen from the castle'
 ---
 
 ## What you will see

@@ -81,17 +81,19 @@ imagen: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
 imagenAlt: "Catedral de Palma sobre la muralla del mar"
 galeria:
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
-  alt: "Calle estrecha del casco antiguo de Palma"
+  alt: 'Calle estrecha del casco antiguo de Palma'
 - src: /images/actividades/mallorca/fma-almudaina/almudaina-fachada-arcos.webp
-  alt: "Fachada con galería de arcos del Palacio de la Almudaina"
+  alt: 'Fachada con galería de arcos del Palacio de la Almudaina'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp
-  alt: "Gárgola gótica en la fachada de la Catedral de Palma"
+  alt: 'Gárgola gótica en la fachada de la Catedral de Palma'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-pinaculos.webp
-  alt: "Pináculos góticos de la Catedral de Palma"
+  alt: 'Pináculos góticos de la Catedral de Palma'
 - src: /images/actividades/mallorca/fma-almudaina/almudaina-palmeras-cielo-naranja.webp
-  alt: "Palacio de la Almudaina entre palmeras con el cielo del atardecer"
+  alt: 'Palacio de la Almudaina entre palmeras con el cielo del atardecer'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-04.webp
-  alt: "Parc de la Mar y la Catedral de Palma al caer la tarde"
+  alt: 'Parc de la Mar y la Catedral de Palma al caer la tarde'
+- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
+  alt: 'Parc de la Mar y la Catedral de Palma al atardecer'
 ---
 
 ## Qué vas a ver

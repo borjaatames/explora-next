@@ -80,17 +80,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/12345925-aaa3-4ef7-bf3e-86c939abebb6.jpeg
-  alt: Patio de las Doncellas del Real Alcázar de Sevilla
+  alt: 'Patio de las Doncellas del Real Alcázar de Sevilla'
 - src: https://imgcdn.bokun.tools/5208f837-8044-471c-aaf5-119dc02930f4.jpeg
-  alt: Arcos y galerías del Real Alcázar
+  alt: 'Arcos y galerías del Real Alcázar'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
-  alt: Vista amplia de la Plaza de España de Sevilla
+  alt: 'Vista amplia de la Plaza de España de Sevilla'
 - src: https://imgcdn.bokun.tools/777075c0-b8cf-4dc3-8756-ac3a20b62002.jpeg
-  alt: La Giralda tras los naranjos
+  alt: 'La Giralda tras los naranjos'
 - src: https://imgcdn.bokun.tools/96226f2e-ec52-4d60-9caa-5a230ff0cfdb.jpeg
-  alt: Torre del Oro junto al Guadalquivir
+  alt: 'Torre del Oro junto al Guadalquivir'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-plaza.webp
-  alt: Catedral de Sevilla y la Giralda desde la Plaza Virgen de los Reyes
+  alt: 'Catedral de Sevilla y la Giralda desde la Plaza Virgen de los Reyes'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: 'Fachada de la Catedral de Sevilla entre palmeras'
 bokunProductId: 937865
 fecha_actualizacion: '2026-10-24'
 privada: true

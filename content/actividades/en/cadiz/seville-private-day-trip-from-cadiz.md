@@ -83,17 +83,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/af233f00-c3b1-422b-8be5-b2dc6c42745d.jpg
-  alt: Travellers in Seville's Plaza de España
+  alt: 'Travellers in Seville''s Plaza de España'
 - src: https://imgcdn.bokun.tools/42b45d1a-9c0a-40c4-a119-f9a6db50aa00.jpg
-  alt: Seville Cathedral and the Giralda
+  alt: 'Seville Cathedral and the Giralda'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: Plaza de España arcade with its tiled benches
+  alt: 'Plaza de España arcade with its tiled benches'
 - src: https://imgcdn.bokun.tools/88fc5a3f-3209-4495-bc33-355fcd3e97f4.jpg
-  alt: Traveller by the Plaza de España canal
+  alt: 'Traveller by the Plaza de España canal'
 - src: https://imgcdn.bokun.tools/3d521c39-af36-4bbc-8208-44f3092b5ae6.jpg
-  alt: The Giralda from a square in the centre
+  alt: 'The Giralda from a square in the centre'
 - src: /images/actividades/sevilla/catedral-giralda/giralda-torre-cielo-azul.webp
-  alt: The Giralda tower under a blue sky
+  alt: 'The Giralda tower under a blue sky'
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
+  alt: 'Plaza de España lit up at night'
 bokunProductId: 1033752
 fecha_actualizacion: '2026-10-24'
 privada: true

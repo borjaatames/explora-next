@@ -97,6 +97,8 @@ galeria:
   alt: 'Los Gigantes ao pôr do sol'
 - src: /images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp
   alt: 'Golfinho a nadar perto da superfície'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Baleia-piloto nas águas do oeste de Tenerife'
 ratingProveedor: 4.9
 numeroOpiniones: 2306
 publicada: true

@@ -77,6 +77,10 @@ galeria:
   alt: 'Interior de una iglesia de hermandad'
 - src: https://imgcdn.bokun.tools/72464782-51ac-48f6-9914-dd99b0d7aea9.jpg
   alt: 'Calle del centro de Sevilla en Semana Santa'
+- src: /images/actividades/sevilla/fotos-biblioteca/06.webp
+  alt: 'Galería del Grutesco en el Real Alcázar de Sevilla'
+- src: /images/actividades/sevilla/fotos-biblioteca/01.webp
+  alt: 'Anfiteatro romano de Itálica'
 publicada: true
 indexar: false
 destacada: false

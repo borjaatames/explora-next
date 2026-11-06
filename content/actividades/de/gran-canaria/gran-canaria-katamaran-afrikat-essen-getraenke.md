@@ -105,6 +105,8 @@ galeria:
   alt: 'Fische über sandigem Grund vor Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
   alt: 'Bucht und Strand von Puerto Rico de Gran Canaria'
+- src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
+  alt: 'Der Hafen von Puerto Rico auf Gran Canaria von oben'
 avisoReserva: 'An Bord gibt es keine Erklärungen auf Deutsch: Die Crew spricht vor allem Spanisch und Englisch.'
 ---
 

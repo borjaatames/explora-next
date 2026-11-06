@@ -72,6 +72,10 @@ galeria:
   alt: 'Interior de la Lonja de la Seda'
 - src: https://imgcdn.bokun.tools/94add090-2701-49f7-9300-dfdf673ffe7d.jpg
   alt: 'Las furgonetas Mercedes del tour'
+- src: /images/actividades/valencia/albufera/fvc-proa-barca-lago-atardecer.webp
+  alt: 'Proa de una barca navegando por el lago de la Albufera al atardecer'
+- src: /images/actividades/valencia/albufera/fvc-embarcadero-barcas-canal.webp
+  alt: 'Embarcadero con barcas tradicionales en un canal de la Albufera'
 publicada: true
 indexar: false
 destacada: false

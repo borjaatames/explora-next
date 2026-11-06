@@ -74,17 +74,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/4905e074-63c4-400d-be0d-ea4bcc4d143d.jpeg
-  alt: Tiled glorieta in María Luisa Park
+  alt: 'Tiled glorieta in María Luisa Park'
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa-estanque.webp
-  alt: Pond with plants in María Luisa Park
+  alt: 'Pond with plants in María Luisa Park'
 - src: https://imgcdn.bokun.tools/2c72225c-a8ca-4141-9126-aed26d360207.jpeg
-  alt: Pond and bridge in María Luisa Park
+  alt: 'Pond and bridge in María Luisa Park'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: Plaza de España arcade with its tiled benches
+  alt: 'Plaza de España arcade with its tiled benches'
 - src: https://imgcdn.bokun.tools/2e1a2bda-2aea-49ce-be93-e487fd24174f.jpeg
-  alt: Plaza de España tower seen from an arcade
+  alt: 'Plaza de España tower seen from an arcade'
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
-  alt: Callejón del Agua in the Santa Cruz quarter
+  alt: 'Callejón del Agua in the Santa Cruz quarter'
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
+  alt: 'Plaza de España lit up at night'
 bokunProductId: 949550
 fecha_actualizacion: '2026-10-24'
 privada: true

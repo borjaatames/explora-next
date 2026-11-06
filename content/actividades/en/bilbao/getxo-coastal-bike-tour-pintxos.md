@@ -82,17 +82,19 @@ imagen: /images/actividades/bilbao/ria/puente-bizkaia.webp
 imagenAlt: "Bizkaia Bridge between Getxo and Portugalete"
 galeria:
 - src: /images/actividades/bilbao/bici/fbi-bicis-clasicas-blancas.webp
-  alt: "Classic bikes lined up for a city ride"
+  alt: 'Classic bikes lined up for a city ride'
 - src: /images/actividades/bilbao/ria/fbi-puente-bizkaia-torre.webp
-  alt: "Tower and girder of the Bizkaia Bridge against the sky"
+  alt: 'Tower and girder of the Bizkaia Bridge against the sky'
 - src: /images/actividades/bilbao/ria/puente-bizkaia-barquilla.webp
-  alt: "Bizkaia Bridge gondola over the estuary"
+  alt: 'Bizkaia Bridge gondola over the estuary'
 - src: /images/actividades/bilbao/ria/fbi-puente-bizkaia-barquilla-atardecer.webp
-  alt: "Bizkaia Bridge gondola crossing the estuary at sunset"
+  alt: 'Bizkaia Bridge gondola crossing the estuary at sunset'
 - src: /images/actividades/bilbao/pintxos/fbi-pintxos-tabla-madera.webp
-  alt: "Pintxos on a wooden board at a Basque bar"
+  alt: 'Pintxos on a wooden board at a Basque bar'
 - src: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
-  alt: "Glass of white txakoli"
+  alt: 'Glass of white txakoli'
+- src: /images/actividades/bilbao/ria/zubizuri.webp
+  alt: 'Zubizuri footbridge over the Bilbao estuary'
 ---
 
 ## What you will see

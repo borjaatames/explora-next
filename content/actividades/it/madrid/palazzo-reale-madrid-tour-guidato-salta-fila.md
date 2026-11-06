@@ -85,6 +85,10 @@ galeria:
   alt: 'Statua equestre in Plaza de Oriente'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
   alt: 'Il Palazzo Reale illuminato di notte'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
+  alt: 'Il Palazzo Reale visto dai giardini del Campo del Moro'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
+  alt: 'Il Palazzo Reale da Plaza de la Armería con il suo porticato'
 ratingProveedor: 4.7
 numeroOpiniones: 9610
 publicada: true

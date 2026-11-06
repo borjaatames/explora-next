@@ -78,17 +78,19 @@ imagen: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
 imagenAlt: Le village fortifié de l'île de Tabarca vu de la mer
 galeria:
 - src: /images/actividades/alicante/tabarca/torre-san-jose-tabarca.webp
-  alt: "La tour San José sur l'île de Tabarca"
+  alt: 'La tour San José sur l''île de Tabarca'
 - src: /images/actividades/alicante/tabarca/tabarca-playa.webp
-  alt: Crique rocheuse de Tabarca avec le phare au fond et une mouette
+  alt: 'Crique rocheuse de Tabarca avec le phare au fond et une mouette'
 - src: /images/actividades/alicante/tabarca/faro-tabarca.webp
-  alt: Le phare de Tabarca, bâtiment blanc avec une tour en pierre
+  alt: 'Le phare de Tabarca, bâtiment blanc avec une tour en pierre'
 - src: /images/actividades/alicante/tabarca/porta-de-terra.webp
-  alt: La Porta de Terra, entrée du village fortifié
+  alt: 'La Porta de Terra, entrée du village fortifié'
 - src: /images/actividades/alicante/tabarca/tabarca-calle.webp
-  alt: Une rue du village de Tabarca
+  alt: 'Une rue du village de Tabarca'
 - src: /images/actividades/alicante/tabarca/tabarca-fortificacion.webp
-  alt: Les fortifications de Tabarca vues de la mer
+  alt: 'Les fortifications de Tabarca vues de la mer'
+- src: /images/actividades/alicante/tabarca/faro-tabarca-campo.webp
+  alt: 'Le phare de l''île de Tabarca, Alicante'
 ratingProveedor: 4.6
 numeroOpiniones: 1822
 atraccionesRelacionadas:

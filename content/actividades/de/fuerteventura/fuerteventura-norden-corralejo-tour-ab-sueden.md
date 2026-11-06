@@ -86,17 +86,19 @@ imagen: /images/actividades/fuerteventura/calderon-hondo/ffv-crater-calderon-hon
 imagenAlt: "Krater des Calderón Hondo mit weiteren Vulkanen im Hintergrund"
 galeria:
 - src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
-  alt: "Isla de Lobos von einem Strand in Corralejo aus gesehen"
+  alt: 'Isla de Lobos von einem Strand in Corralejo aus gesehen'
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-4.webp
-  alt: "Nachmittagslicht über den Dünen von Corralejo"
+  alt: 'Nachmittagslicht über den Dünen von Corralejo'
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-3.webp
-  alt: "Sträucher im Sand der Dünen von Corralejo"
+  alt: 'Sträucher im Sand der Dünen von Corralejo'
 - src: /images/actividades/fuerteventura/zonas/el-cotillo.webp
-  alt: "Küste von El Cotillo"
+  alt: 'Küste von El Cotillo'
 - src: /images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp
-  alt: "Alter Hafen von El Cotillo"
+  alt: 'Alter Hafen von El Cotillo'
 - src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
-  alt: "Bucht von Corralejo"
+  alt: 'Bucht von Corralejo'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Strand von Morro Jable'
 ---
 
 ## Was du siehst

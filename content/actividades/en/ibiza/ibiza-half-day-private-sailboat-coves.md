@@ -77,6 +77,8 @@ galeria:
   alt: 'Couple sitting on the sailboat deck'
 - src: https://imgcdn.bokun.tools/6a7c6910-76ad-4585-bead-710819b28eea.jpg
   alt: 'Couple walking on the rocks of an Ibiza cove'
+- src: /images/actividades/ibiza/fotos-biblioteca/pexels-33838897.webp
+  alt: 'Ses Illetes in Formentera with boats at anchor'
 publicada: true
 indexar: false
 destacada: false

@@ -80,17 +80,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/a754c38c-3d1b-4a07-9a33-f369aa30a273.jpg
-  alt: Viajeros ante la fachada barroca del palacio del Marqués de Dos Aguas
+  alt: 'Viajeros ante la fachada barroca del palacio del Marqués de Dos Aguas'
 - src: https://imgcdn.bokun.tools/f3c2bbe5-9ab9-4a0f-86f0-1871d1b0f85d.jpg
-  alt: Visitantes ante un puesto de jamones en el Mercado Central
+  alt: 'Visitantes ante un puesto de jamones en el Mercado Central'
 - src: /images/actividades/valencia/centro/lonja-fachada.webp
-  alt: Fachada de la Lonja de la Seda de Valencia, Patrimonio de la Humanidad
+  alt: 'Fachada de la Lonja de la Seda de Valencia, Patrimonio de la Humanidad'
 - src: https://imgcdn.bokun.tools/41c5de01-f3aa-49a5-88af-0dc0df1da117.jpg
-  alt: Interior del Mercado Central de Valencia
+  alt: 'Interior del Mercado Central de Valencia'
 - src: https://imgcdn.bokun.tools/d910370d-29a0-4a13-9bb1-10e6f74814a9.jpg
-  alt: Fachada de un comercio tradicional del centro de Valencia
+  alt: 'Fachada de un comercio tradicional del centro de Valencia'
 - src: /images/actividades/valencia/centro/micalet-plaza.webp
-  alt: El Micalet desde la plaza de la Reina
+  alt: 'El Micalet desde la plaza de la Reina'
+- src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
+  alt: 'Torres de Serranos, en Valencia, ciudad de salida de la excursión'
 bokunProductId: 1062810
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -94,17 +94,19 @@ imagen: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
 imagenAlt: "Paisaje del Parque Nacional de Timanfaya con el mar al fondo"
 galeria:
 - src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
-  alt: "Colada de lava solidificada en Timanfaya"
+  alt: 'Colada de lava solidificada en Timanfaya'
 - src: /images/actividades/lanzarote/el-golfo/flz-charco-clicos.webp
-  alt: "Charco de los Clicos en El Golfo, con su laguna verde"
+  alt: 'Charco de los Clicos en El Golfo, con su laguna verde'
 - src: /images/actividades/lanzarote/el-golfo/flz-laguna-playa-negra.webp
-  alt: "Laguna verde y playa de arena negra en El Golfo"
+  alt: 'Laguna verde y playa de arena negra en El Golfo'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
-  alt: "Piscina turquesa de los Jameos del Agua"
+  alt: 'Piscina turquesa de los Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-lago-reflejo.webp
-  alt: "Lago interior de los Jameos del Agua reflejando el cielo"
+  alt: 'Lago interior de los Jameos del Agua reflejando el cielo'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-palmeras.webp
-  alt: "Piscina blanca y palmeras en los Jameos del Agua"
+  alt: 'Piscina blanca y palmeras en los Jameos del Agua'
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
+  alt: 'Escaleras de piedra y jardín en los Jameos del Agua'
 ---
 
 ## Qué vas a ver

@@ -87,17 +87,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/e02effd7-8525-4010-8223-06a4af9ec662.jpg
-  alt: El monasterio de Montserrat bajo las agujas de roca
+  alt: 'El monasterio de Montserrat bajo las agujas de roca'
 - src: https://imgcdn.bokun.tools/4a882733-2138-4a36-bb2a-2a7b9a3b67b2.jpg
-  alt: Puesto del mercado de productores de Montserrat
+  alt: 'Puesto del mercado de productores de Montserrat'
 - src: https://imgcdn.bokun.tools/11839a1f-e399-4982-ac43-43991d5e1d07.jpg
-  alt: Interior de la basílica de Montserrat con el altar mayor
+  alt: 'Interior de la basílica de Montserrat con el altar mayor'
 - src: https://imgcdn.bokun.tools/ecde87bd-17a1-41e3-922b-27b74f2251c5.jpg
-  alt: Viajeros en un mirador de Montserrat
+  alt: 'Viajeros en un mirador de Montserrat'
 - src: https://imgcdn.bokun.tools/dde5702d-a154-4568-9e55-78c61e8f0e2c.jpg
-  alt: Grupo ante la fachada de la Sagrada Familia
+  alt: 'Grupo ante la fachada de la Sagrada Familia'
 - src: https://imgcdn.bokun.tools/cc9f6e20-5b8a-46ad-b770-a958d5a79e34.jpg
-  alt: Visitante junto a las vidrieras de la Sagrada Familia
+  alt: 'Visitante junto a las vidrieras de la Sagrada Familia'
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: 'Estatua del abad Oliba entre la vegetación de Montserrat'
 bokunProductId: 1162190
 fecha_actualizacion: '2026-10-24'
 ---

@@ -76,17 +76,19 @@ imagen: /images/actividades/barcelona/noche/copas-bar-noche.webp
 imagenAlt: "Four cocktails served on the bar"
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp
-  alt: "A bartender preparing a drink behind the bar"
+  alt: 'A bartender preparing a drink behind the bar'
 - src: /images/actividades/barcelona/sangria/sangria-copas-fruta.webp
-  alt: "Glasses with fresh fruit"
+  alt: 'Glasses with fresh fruit'
 - src: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
-  alt: "A table with assorted tapas to share"
+  alt: 'A table with assorted tapas to share'
 - src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
-  alt: "Pintxos on the counter of a tapas bar"
+  alt: 'Pintxos on the counter of a tapas bar'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
-  alt: "Lloret de Mar main beach with rocks in the foreground"
+  alt: 'Lloret de Mar main beach with rocks in the foreground'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
-  alt: "Lloret de Mar bay seen from above"
+  alt: 'Lloret de Mar bay seen from above'
+- src: /images/actividades/barcelona/gastronomia/tapas-y-vino-mesa.webp
+  alt: 'Tapas and glasses of wine on a table'
 ---
 
 ## What you will see

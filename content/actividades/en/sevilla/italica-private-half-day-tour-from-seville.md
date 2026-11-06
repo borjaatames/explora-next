@@ -76,6 +76,10 @@ galeria:
   alt: 'Ruins of the Roman city of Itálica'
 - src: https://imgcdn.bokun.tools/c5bbf131-350e-4527-ad51-a593753d5a00.jpg
   alt: 'Private transfer vehicle'
+- src: /images/actividades/sevilla/fotos-biblioteca/06.webp
+  alt: 'Grotesque Gallery in the Royal Alcázar of Seville'
+- src: /images/actividades/sevilla/fotos-biblioteca/wikimedia-08.webp
+  alt: 'Holy Week procession float in Seville'
 publicada: true
 indexar: false
 destacada: false

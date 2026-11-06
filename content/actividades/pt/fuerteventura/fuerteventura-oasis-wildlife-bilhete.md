@@ -77,17 +77,19 @@ imagen: /images/actividades/fuerteventura/oasis-park.webp
 imagenAlt: Recinto de animais no Oasis Wildlife Fuerteventura
 galeria:
 - src: /images/actividades/fuerteventura/zonas/oasis-park-camellos.webp
-  alt: Camelos no Oasis Park de La Lajita
+  alt: 'Camelos no Oasis Park de La Lajita'
 - src: /images/actividades/fuerteventura/zonas/oasis-park-cactus.webp
-  alt: Jardim de catos do Oasis Park
+  alt: 'Jardim de catos do Oasis Park'
 - src: /images/actividades/fuerteventura/zonas/oasis-park-flamenco.webp
-  alt: Flamingo no Oasis Park
+  alt: 'Flamingo no Oasis Park'
 - src: /images/actividades/fuerteventura/zonas/oasis-park-suricatas.webp
-  alt: Suricatas no Oasis Park
+  alt: 'Suricatas no Oasis Park'
 - src: /images/actividades/fuerteventura/zonas/oasis-park-entrada.webp
-  alt: Visitantes nos jardins do Oasis Park
+  alt: 'Visitantes nos jardins do Oasis Park'
 - src: /images/actividades/fuerteventura/zonas/sotavento-aerea.webp
-  alt: Vista aérea da praia e da lagoa de Sotavento
+  alt: 'Vista aérea da praia e da lagoa de Sotavento'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Morro Jable e a praia do Matorral vistos da montanha'
 ratingProveedor: 4.6
 numeroOpiniones: 3857
 atraccionesRelacionadas:

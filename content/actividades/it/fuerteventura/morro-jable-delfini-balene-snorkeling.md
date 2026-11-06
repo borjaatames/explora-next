@@ -90,6 +90,12 @@ galeria:
   alt: 'Faro di Morro Jable'
 - src: /images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp
   alt: 'Gruppo di delfini nell''Atlantico'
+- src: /images/actividades/fuerteventura/morro-jable/ffv-catamaranes-playa-morro-jable.webp
+  alt: 'Catamarani a vela sulla spiaggia di Morro Jable'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Globicefalo che soffia nelle acque del sud di Tenerife'
+- src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
+  alt: 'Stenella maculata atlantica nelle acque delle Canarie'
 ratingProveedor: 4.6
 numeroOpiniones: 4306
 publicada: true

@@ -83,6 +83,10 @@ galeria:
   alt: 'Landscape around Arucas in northern Gran Canaria'
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
   alt: 'Banana plantations in Arucas'
+- src: /images/actividades/gran-canaria/platano/plataneras.webp
+  alt: 'Bunches in a Canarian banana plantation'
+- src: /images/actividades/gran-canaria/platano/platanos-racimo.webp
+  alt: 'Bunches of Canarian bananas on the plant'
 ratingProveedor: 4.8
 numeroOpiniones: 269
 atraccionesRelacionadas:

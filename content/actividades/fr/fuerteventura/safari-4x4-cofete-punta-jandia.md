@@ -85,17 +85,19 @@ imagen: /images/actividades/fuerteventura/safari-4x4/ffv-todoterreno-pista-tierr
 imagenAlt: "4x4 roulant sur une piste de terre entre les montagnes"
 galeria:
 - src: /images/actividades/fuerteventura/punta-jandia/ffv-faro-punta-jandia.webp
-  alt: "Phare de Punta Jandía"
+  alt: 'Phare de Punta Jandía'
 - src: /images/actividades/fuerteventura/punta-jandia/ffv-linterna-faro-oleaje.webp
-  alt: "Lanterne du phare de Punta Jandía au-dessus des vagues"
+  alt: 'Lanterne du phare de Punta Jandía au-dessus des vagues'
 - src: /images/actividades/fuerteventura/punta-jandia/ffv-costa-punta-jandia.webp
-  alt: "Côte rocheuse à Punta de Jandía"
+  alt: 'Côte rocheuse à Punta de Jandía'
 - src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
-  alt: "Vue de Cofete depuis le point de vue"
+  alt: 'Vue de Cofete depuis le point de vue'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-4.webp
-  alt: "Nuages au-dessus de la plage de Cofete"
+  alt: 'Nuages au-dessus de la plage de Cofete'
 - src: /images/actividades/fuerteventura/zonas/villa-winter.webp
-  alt: "Villa Winter sur le versant de Cofete"
+  alt: 'Villa Winter sur le versant de Cofete'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Morro Jable et la plage du Matorral vues depuis les collines'
 ---
 
 ## Ce que vous verrez

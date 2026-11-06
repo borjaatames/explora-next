@@ -108,6 +108,10 @@ galeria:
   alt: 'Triana Bridge lit up at dusk'
 - src: /images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp
   alt: 'Bowl of green olives with wine glasses'
+- src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
+  alt: 'Triana bridge over the Guadalquivir'
+- src: /images/actividades/sevilla/triana/triana-pexels-40246298.webp
+  alt: 'Colourful houses on Calle Betis in Triana'
 ratingProveedor: 4.9
 numeroOpiniones: 1848
 publicada: true

@@ -90,17 +90,19 @@ imagen: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aere
 imagenAlt: "Barcos en la bahía de Formentor, vista aérea"
 galeria:
 - src: /images/actividades/mallorca/gastronomia/sobrasada-02.webp
-  alt: "Sobrasadas en un puesto de mercado mallorquín"
+  alt: 'Sobrasadas en un puesto de mercado mallorquín'
 - src: /images/actividades/mallorca/fma-formentor/cala-mallorca-barcos-fondeados.webp
-  alt: "Barcos fondeados en una cala de Mallorca"
+  alt: 'Barcos fondeados en una cala de Mallorca'
 - src: /images/actividades/mallorca/formentor/platja-formentor-agua-turquesa.webp
-  alt: "Agua turquesa en la playa de Formentor"
+  alt: 'Agua turquesa en la playa de Formentor'
 - src: /images/actividades/mallorca/fma-formentor/es-colomer-islote.webp
-  alt: "Islote de Es Colomer desde el mirador"
+  alt: 'Islote de Es Colomer desde el mirador'
 - src: /images/actividades/mallorca/fma-formentor/carretera-formentor-curvas.webp
-  alt: "Carretera de curvas hacia el cabo de Formentor"
+  alt: 'Carretera de curvas hacia el cabo de Formentor'
 - src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
-  alt: "Sobrasada, embutido típico de Mallorca"
+  alt: 'Sobrasada, embutido típico de Mallorca'
+- src: /images/actividades/mallorca/fma-formentor/formentor-puesta-sol.webp
+  alt: 'Puesta de sol sobre los acantilados de Formentor'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en abril de 2027.'
 ---
 

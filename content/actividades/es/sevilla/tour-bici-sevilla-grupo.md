@@ -90,6 +90,12 @@ galeria:
   alt: 'Carril bici del Paseo de las Delicias en Sevilla'
 - src: /images/actividades/sevilla/bici-sevilla/sevici.webp
   alt: 'Bicicletas públicas Sevici en una calle de Sevilla'
+- src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
+  alt: 'Puente de Triana sobre el Guadalquivir'
+- src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
+  alt: 'El puente de Triana al atardecer'
+- src: /images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp
+  alt: 'Casas de colores de Triana junto al río Guadalquivir'
 ratingProveedor: 4.9
 numeroOpiniones: 1636
 publicada: true

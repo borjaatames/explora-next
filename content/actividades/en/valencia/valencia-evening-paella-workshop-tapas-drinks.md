@@ -78,17 +78,19 @@ imagen: /images/actividades/valencia/paella/fvc-paella-marisco-fuego.webp
 imagenAlt: "Seafood paella cooking over an open fire"
 galeria:
 - src: /images/actividades/valencia/ruzafa/mercado-ruzafa-pimientos.webp
-  alt: "Peppers and fresh vegetables at the Ruzafa Market"
+  alt: 'Peppers and fresh vegetables at the Ruzafa Market'
 - src: /images/actividades/valencia/paella/fvc-paella-valenciana-paellera.webp
-  alt: "Valencian paella with chicken and green beans in its pan"
+  alt: 'Valencian paella with chicken and green beans in its pan'
 - src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-mesa.webp
-  alt: "Assorted tapas in clay dishes on a wooden table"
+  alt: 'Assorted tapas in clay dishes on a wooden table'
 - src: /images/actividades/valencia/lonja-paella/paella-fuego-lena.webp
-  alt: "Paella over a wood fire"
+  alt: 'Paella over a wood fire'
 - src: /images/actividades/valencia/paella/fvc-paella-marisco-mesa.webp
-  alt: "Seafood paella with prawns and mussels served at the table"
+  alt: 'Seafood paella with prawns and mussels served at the table'
 - src: /images/actividades/valencia/paella/fvc-paella-valenciana-detalle.webp
-  alt: "Close-up of a freshly made Valencian paella"
+  alt: 'Close-up of a freshly made Valencian paella'
+- src: /images/actividades/valencia/ruzafa/calle-ruzafa.webp
+  alt: 'Street in the Ruzafa district'
 ---
 
 ## What you will see

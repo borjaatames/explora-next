@@ -99,6 +99,8 @@ galeria:
   alt: 'Fondale marino con rocce sotto un''acqua cristallina'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-lancha-agua-verde.webp
   alt: 'Catamarano e lancia di servizio in acqua verde turchese'
+- src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
+  alt: 'Due kayak da mare su acqua trasparente'
 avisoReserva: 'Attività stagionale: le prossime date disponibili iniziano a marzo 2027.'
 ---
 

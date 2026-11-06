@@ -89,17 +89,19 @@ imagen: /images/actividades/tarragona/buggy-ninos/fta-buggy-amarillo-terreno-are
 imagenAlt: "Buggy jaune garé sur un terrain sablonneux couvert de broussailles"
 galeria:
 - src: /images/actividades/tarragona/buggy-ninos/fta-buggy-conductor-casco.webp
-  alt: "Pilote casqué au volant d'un buggy sur le sable"
+  alt: 'Pilote casqué au volant d''un buggy sur le sable'
 - src: /images/actividades/tarragona/salou/fta-paseo-salou-palmeras-anochecer.webp
-  alt: "Palmiers sur le front de mer de Salou à la tombée de la nuit"
+  alt: 'Palmiers sur le front de mer de Salou à la tombée de la nuit'
 - src: /images/actividades/tarragona/buggy-ninos/fta-buggy-barro-salpicando.webp
-  alt: "Buggy éclaboussant en traversant une flaque de boue"
+  alt: 'Buggy éclaboussant en traversant une flaque de boue'
 - src: /images/actividades/tarragona/costa/platja-llarga.webp
-  alt: "La Platja Llarga de Salou vue à travers les pins"
+  alt: 'La Platja Llarga de Salou vue à travers les pins'
 - src: /images/actividades/tarragona/buggy-ninos/fta-buggy-pista-tierra-roja.webp
-  alt: "Buggy avec un pilote casqué sur une piste de terre rougeâtre"
+  alt: 'Buggy avec un pilote casqué sur une piste de terre rougeâtre'
 - src: /images/actividades/tarragona/costa/faro-salou.webp
-  alt: "Le phare de Salou"
+  alt: 'Le phare de Salou'
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: 'La mer au large du Cap de Salou'
 ---
 
 ## Ce que vous verrez

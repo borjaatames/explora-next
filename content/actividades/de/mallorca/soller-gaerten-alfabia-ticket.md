@@ -82,17 +82,19 @@ imagen: /images/actividades/mallorca/fma-alfabia/pergola-columnas-alfabia.webp
 imagenAlt: Pergola mit Steinsäulen in den Gärten von Alfabia
 galeria:
 - src: /images/actividades/mallorca/fma-alfabia/escalinata-palmeras-alfabia.webp
-  alt: Treppe zwischen Palmen in den Gärten von Alfabia
+  alt: 'Treppe zwischen Palmen in den Gärten von Alfabia'
 - src: /images/actividades/mallorca/fma-alfabia/patio-casa-alfabia.webp
-  alt: Innenhof des Herrenhauses Alfabia unter einer Platane
+  alt: 'Innenhof des Herrenhauses Alfabia unter einer Platane'
 - src: /images/actividades/mallorca/fma-alfabia/glicinia-balaustrada-alfabia.webp
-  alt: Glyzinienstamm neben einer Steinbalustrade in Alfabia
+  alt: 'Glyzinienstamm neben einer Steinbalustrade in Alfabia'
 - src: /images/actividades/mallorca/fma-alfabia/huerto-citricos-tramuntana.webp
-  alt: Zitrusgarten von Alfabia mit der Serra de Tramuntana
+  alt: 'Zitrusgarten von Alfabia mit der Serra de Tramuntana'
 - src: /images/actividades/mallorca/fma-alfabia/limones-cajas-alfabia.webp
-  alt: Kisten mit Zitronen an der Tür eines Gebäudes in Alfabia
+  alt: 'Kisten mit Zitronen an der Tür eines Gebäudes in Alfabia'
 - src: /images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp
-  alt: Das Tal von Sóller und die Serra de Tramuntana von der Straße aus
+  alt: 'Das Tal von Sóller und die Serra de Tramuntana von der Straße aus'
+- src: /images/actividades/mallorca/fma-soller/tranvia-paseo-port-soller.webp
+  alt: 'Straßenbahn von Sóller an der Strandpromenade von Port de Sóller'
 avisoReserva: 'Saisonale Aktivität: Die nächsten verfügbaren Termine beginnen im Februar 2027.'
 ---
 

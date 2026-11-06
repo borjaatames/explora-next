@@ -80,17 +80,19 @@ imagen: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
 imagenAlt: "Guitariste de flamenco jouant sur scène"
 galeria:
 - src: /images/actividades/cordoba/flamenco/bailaora.webp
-  alt: "Danseuse avec un châle blanc pendant un spectacle de flamenco"
+  alt: 'Danseuse avec un châle blanc pendant un spectacle de flamenco'
 - src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: "Danseur en pleine danse sur scène"
+  alt: 'Danseur en pleine danse sur scène'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Chanteuse de flamenco sur scène"
+  alt: 'Chanteuse de flamenco sur scène'
 - src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: "Guitariste de flamenco jouant en direct"
+  alt: 'Guitariste de flamenco jouant en direct'
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Rue du quartier juif de Cordoue avec la tour de la Mezquita en arrière-plan"
+  alt: 'Rue du quartier juif de Cordoue avec la tour de la Mezquita en arrière-plan'
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
-  alt: "Tour de la Mosquée-Cathédrale vue depuis une rue du quartier juif"
+  alt: 'Tour de la Mosquée-Cathédrale vue depuis une rue du quartier juif'
+- src: /images/actividades/cordoba/flamenco/guitarrista.webp
+  alt: 'Guitariste de flamenco avec un chapeau jouant en direct'
 ---
 
 ## Ce que vous allez voir

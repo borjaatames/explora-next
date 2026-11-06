@@ -85,17 +85,19 @@ imagen: /images/actividades/mallorca/fma-caballo-alcudia/jinetes-ladera-monte.we
 imagenAlt: "Dos jinetes a caballo bajando por una ladera de monte"
 galeria:
 - src: /images/actividades/mallorca/fma-caballo-alcudia/ruta-caballos-ladera.webp
-  alt: "Grupo de jinetes en ruta por una ladera"
+  alt: 'Grupo de jinetes en ruta por una ladera'
 - src: /images/actividades/mallorca/fma-caballo-alcudia/caballo-blanco-cabeza.webp
-  alt: "Cabeza de un caballo blanco con cabezada"
+  alt: 'Cabeza de un caballo blanco con cabezada'
 - src: /images/actividades/mallorca/fma-caballo-alcudia/caballo-prado.webp
-  alt: "Caballo oscuro trotando por un prado"
+  alt: 'Caballo oscuro trotando por un prado'
 - src: /images/actividades/mallorca/fma-olivar/olivo-centenario-mallorca.webp
-  alt: "Olivo centenario en el campo de Mallorca"
+  alt: 'Olivo centenario en el campo de Mallorca'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
-  alt: "Costa rocosa del Mediterráneo con montañas al fondo"
+  alt: 'Costa rocosa del Mediterráneo con montañas al fondo'
 - src: /images/actividades/mallorca/fma-caballo-alcudia/x-tramuntana-era-del-cosconar.webp
-  alt: "Paisaje de la Serra de Tramuntana, en Mallorca"
+  alt: 'Paisaje de la Serra de Tramuntana, en Mallorca'
+- src: /images/actividades/mallorca/fma-olivar/olivos-pared-piedra-seca.webp
+  alt: 'Olivos y muro de piedra seca en Mallorca'
 ---
 
 ## Qué vas a ver

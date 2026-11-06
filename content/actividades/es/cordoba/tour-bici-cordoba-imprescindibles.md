@@ -81,17 +81,19 @@ imagen: /images/actividades/cordoba/bici/fvc-bicis-calle-encalada.webp
 imagenAlt: "Bicicletas aparcadas junto a una fachada encalada en una calle andaluza"
 galeria:
 - src: /images/actividades/cordoba/bici/fvc-puente-romano-paseantes.webp
-  alt: "Paseantes en el Puente Romano con la Mezquita-Catedral al fondo"
+  alt: 'Paseantes en el Puente Romano con la Mezquita-Catedral al fondo'
 - src: /images/actividades/cordoba/mezquita/torre-campanario.webp
-  alt: "Torre campanario de la Mezquita-Catedral de Córdoba"
+  alt: 'Torre campanario de la Mezquita-Catedral de Córdoba'
 - src: /images/actividades/cordoba/juderia/fvc-calleja-macetas-azules.webp
-  alt: "Calleja encalada con macetas azules en el casco histórico de Córdoba"
+  alt: 'Calleja encalada con macetas azules en el casco histórico de Córdoba'
 - src: /images/actividades/cordoba/bici/fvc-puente-romano-san-rafael.webp
-  alt: "Triunfo de San Rafael en el Puente Romano de Córdoba"
+  alt: 'Triunfo de San Rafael en el Puente Romano de Córdoba'
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: "Calleja de las Flores con la torre de la Mezquita al fondo"
+  alt: 'Calleja de las Flores con la torre de la Mezquita al fondo'
 - src: /images/actividades/cordoba/bici/fvc-calahorra-puente-reflejo.webp
-  alt: "Torre de la Calahorra y Puente Romano reflejados en el Guadalquivir"
+  alt: 'Torre de la Calahorra y Puente Romano reflejados en el Guadalquivir'
+- src: /images/actividades/cordoba/bici/fvc-mezquita-puente-rio.webp
+  alt: 'Mezquita y Puente Romano de Córdoba'
 ---
 
 ## Qué vas a ver

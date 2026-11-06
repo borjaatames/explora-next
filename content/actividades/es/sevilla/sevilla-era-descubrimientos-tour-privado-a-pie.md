@@ -91,6 +91,8 @@ galeria:
   alt: 'Catedral de Sevilla con la Giralda al atardecer'
 - src: https://imgcdn.bokun.tools/2ac9cb53-6f46-420d-aea7-e07412f18ec1.jpg
   alt: 'El Guadalquivir y la orilla de Triana'
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: 'Torre del Oro y barcos en el Guadalquivir'
 bokunProductId: 1156777
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -78,17 +78,19 @@ imagen: /images/actividades/cordoba/flamenco/bailaora.webp
 imagenAlt: "Bailaora com xaile branco durante um espetáculo de flamenco"
 galeria:
 - src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: "Guitarrista de flamenco a tocar ao vivo"
+  alt: 'Guitarrista de flamenco a tocar ao vivo'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Cantaora de flamenco a cantar num palco"
+  alt: 'Cantaora de flamenco a cantar num palco'
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Rua da Judiaria de Córdova com a torre da Mesquita ao fundo"
+  alt: 'Rua da Judiaria de Córdova com a torre da Mesquita ao fundo'
 - src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: "Artistas de flamenco em palco durante um espetáculo ao vivo"
+  alt: 'Artistas de flamenco em palco durante um espetáculo ao vivo'
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: "Calleja de las Flores com a torre da Mesquita ao fundo"
+  alt: 'Calleja de las Flores com a torre da Mesquita ao fundo'
 - src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
-  alt: "Ponte Romana e Mesquita-Catedral de Córdova iluminadas ao anoitecer"
+  alt: 'Ponte Romana e Mesquita-Catedral de Córdova iluminadas ao anoitecer'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Guitarrista de flamenco a tocar em palco'
 ---
 
 ## O que vai ver

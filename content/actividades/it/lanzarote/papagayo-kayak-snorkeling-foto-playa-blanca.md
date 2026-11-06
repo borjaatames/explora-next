@@ -89,17 +89,19 @@ imagen: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
 imagenAlt: "Caletta di acqua turchese a Papagayo"
 galeria:
 - src: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
-  alt: "Una persona che fa snorkeling vista dall'alto"
+  alt: 'Una persona che fa snorkeling vista dall''alto'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
-  alt: "La spiaggia di Papagayo sotto un cielo nuvoloso"
+  alt: 'La spiaggia di Papagayo sotto un cielo nuvoloso'
 - src: /images/actividades/lanzarote/snorkel/flz-fondo-rocoso.webp
-  alt: "Fondale roccioso visto attraverso l'acqua limpida"
+  alt: 'Fondale roccioso visto attraverso l''acqua limpida'
 - src: /images/actividades/lanzarote/kayak-papagayo.webp
-  alt: "Kayak rosso su una spiaggia di sabbia bianca"
+  alt: 'Kayak rosso su una spiaggia di sabbia bianca'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
-  alt: "Playa Blanca, nel sud di Lanzarote"
+  alt: 'Playa Blanca, nel sud di Lanzarote'
 - src: /images/actividades/lanzarote/papagayo/flz-playas-veleros.webp
-  alt: "Le spiagge di Papagayo con barche a vela all'ancora"
+  alt: 'Le spiagge di Papagayo con barche a vela all''ancora'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+  alt: 'Una caletta di Papagayo vista dalla scogliera'
 ---
 
 ## Cosa vedrai

@@ -83,17 +83,19 @@ imagen: /images/actividades/fuerteventura/calderon-hondo/ffv-atardecer-borde-cra
 imagenAlt: "Hiker watching the sunset from the rim of a volcanic crater"
 galeria:
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-ladera.webp
-  alt: "Slope of Calderón Hondo above the lava field"
+  alt: 'Slope of Calderón Hondo above the lava field'
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-crater-calderon-hondo.webp
-  alt: "Calderón Hondo crater with other volcanoes behind"
+  alt: 'Calderón Hondo crater with other volcanoes behind'
 - src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: "Volcanoes in the north of Fuerteventura"
+  alt: 'Volcanoes in the north of Fuerteventura'
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-interior-crater-calderon-hondo.webp
-  alt: "Inside the Calderón Hondo crater"
+  alt: 'Inside the Calderón Hondo crater'
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-4.webp
-  alt: "Afternoon light over the Corralejo Dunes"
+  alt: 'Afternoon light over the Corralejo Dunes'
 - src: /images/actividades/fuerteventura/zonas/cielo-estrellado-volcan.webp
-  alt: "Starry sky over a volcano at nightfall"
+  alt: 'Starry sky over a volcano at nightfall'
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-paisaje.webp
+  alt: 'Volcanic landscape from Calderón Hondo'
 ---
 
 ## What you will see

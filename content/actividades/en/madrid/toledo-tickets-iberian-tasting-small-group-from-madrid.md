@@ -79,6 +79,12 @@ galeria:
   alt: 'Group on the Alcántara bridge'
 - src: https://imgcdn.bokun.tools/9cad972e-ebba-4735-b12a-78ddff4eb1a2.jpg
   alt: 'Mudéjar arch in Toledo'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
+  alt: 'Alcázar of Toledo rising above the city'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero.webp
+  alt: 'Royal Palace of Aranjuez, Madrid, Spain'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-spain-unesco-world-heritage-site-hero.webp
+  alt: 'View of Toledo with the Alcázar'
 publicada: true
 indexar: false
 destacada: false

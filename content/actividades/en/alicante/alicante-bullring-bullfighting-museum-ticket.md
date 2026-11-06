@@ -82,17 +82,19 @@ imagen: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-alicante-ae
 imagenAlt: "Aerial view of Alicante bullring"
 galeria:
 - src: /images/actividades/alicante/fal-plaza-toros/fal-corrales-visitantes.webp
-  alt: "Visitors at the pens of Alicante bullring"
+  alt: 'Visitors at the pens of Alicante bullring'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-reja-plaza-toros.webp
-  alt: "Wrought-iron grille at Alicante bullring"
+  alt: 'Wrought-iron grille at Alicante bullring'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-toros-corrales.webp
-  alt: "Bulls in the pens of Alicante bullring"
+  alt: 'Bulls in the pens of Alicante bullring'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-ciudad.webp
-  alt: "Alicante bullring among the city buildings"
+  alt: 'Alicante bullring among the city buildings'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-vista-castillo.webp
-  alt: "Alicante bullring seen from above"
+  alt: 'Alicante bullring seen from above'
 - src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
-  alt: "Santa Bárbara Castle, visible from the stands"
+  alt: 'Santa Bárbara Castle, visible from the stands'
+- src: /images/actividades/alicante/centro/vista-puerto.webp
+  alt: 'Alicante port seen from the castle'
 ---
 
 ## What you will see

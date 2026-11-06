@@ -111,17 +111,19 @@ imagen: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-04.webp
 imagenAlt: Patio principal de la Casa de Pilatos
 galeria:
 - src: /images/actividades/sevilla/casa-pilatos/casa-pilatos-patio-central.webp
-  alt: Patio central de la Casa de Pilatos de Séville avec fontaine et jardin
+  alt: 'Patio central de la Casa de Pilatos de Séville avec fontaine et jardin'
 - src: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-01.webp
-  alt: Galerie ornée d'azulejos et de statues de la Casa de Pilatos
+  alt: 'Galerie ornée d''azulejos et de statues de la Casa de Pilatos'
 - src: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-03.webp
-  alt: Fontaine dans le patio de la Casa de Pilatos
+  alt: 'Fontaine dans le patio de la Casa de Pilatos'
 - src: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-05.webp
-  alt: Arcs mudéjars et statue classique
+  alt: 'Arcs mudéjars et statue classique'
 - src: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-02.webp
-  alt: Sculpture classique à la Casa de Pilatos
+  alt: 'Sculpture classique à la Casa de Pilatos'
 - src: /images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-08.webp
-  alt: Buste romain dans la galerie supérieure
+  alt: 'Buste romain dans la galerie supérieure'
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: 'Rive du Guadalquivir avec la Torre del Oro en arrière-plan'
 ratingProveedor: 4.5
 numeroOpiniones: 200
 publicada: true

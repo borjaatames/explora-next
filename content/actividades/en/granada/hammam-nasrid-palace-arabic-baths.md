@@ -96,17 +96,19 @@ imagen: /images/actividades/granada/hammam-palacio-nazari/nazari-sala-principal-
 imagenAlt: "Main hall of Hammam Palacio Nazarí, with arches, marble columns and the pools"
 galeria:
 - src: /images/actividades/granada/hammam-palacio-nazari/nazari-piscina-arcos.webp
-  alt: "Warm-water pool under the arches of Hammam Palacio Nazarí"
+  alt: 'Warm-water pool under the arches of Hammam Palacio Nazarí'
 - src: /images/actividades/granada/hammam-palacio-nazari/nazari-sala-te-azulejos.webp
-  alt: "Relaxation room with tiles, lanterns and tea tables"
+  alt: 'Relaxation room with tiles, lanterns and tea tables'
 - src: /images/actividades/granada/hammam-palacio-nazari/nazari-masaje-aceite.webp
-  alt: "Warm oil massage at Hammam Palacio Nazarí"
+  alt: 'Warm oil massage at Hammam Palacio Nazarí'
 - src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp
-  alt: "The River Darro running through central Granada"
+  alt: 'The River Darro running through central Granada'
 - src: /images/actividades/granada/hammam-palacio-nazari/nazari-relax-bano.webp
-  alt: "Guest relaxing in one of the hammam pools"
+  alt: 'Guest relaxing in one of the hammam pools'
 - src: /images/actividades/granada/hammam-palacio-nazari/nazari-bano-frio.webp
-  alt: "Long pool between brick walls and lanterns"
+  alt: 'Long pool between brick walls and lanterns'
+- src: /images/actividades/granada/wikimedia/granada-catedral-06.webp
+  alt: 'Puerta del Perdón of Granada Cathedral'
 ratingProveedor: 4.5
 numeroOpiniones: 860
 publicada: true

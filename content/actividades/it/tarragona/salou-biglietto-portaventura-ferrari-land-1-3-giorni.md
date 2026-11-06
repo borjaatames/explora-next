@@ -81,17 +81,19 @@ imagen: /images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp
 imagenAlt: Le montagne russe Shambhala e Dragon Khan
 galeria:
 - src: /images/actividades/tarragona/portaventura/polynesia.webp
-  alt: L'area Polynesia a PortAventura
+  alt: 'L''area Polynesia a PortAventura'
 - src: /images/actividades/tarragona/portaventura/dragon-khan.webp
-  alt: I giri della morte del Dragon Khan
+  alt: 'I giri della morte del Dragon Khan'
 - src: /images/actividades/tarragona/portaventura/ferrari-land.webp
-  alt: Vista generale di Ferrari Land
+  alt: 'Vista generale di Ferrari Land'
 - src: /images/actividades/tarragona/portaventura/shambhala-lago.webp
-  alt: Shambhala sopra il lago
+  alt: 'Shambhala sopra il lago'
 - src: /images/actividades/tarragona/portaventura/fuente.webp
-  alt: Fontana a PortAventura Park
+  alt: 'Fontana a PortAventura Park'
 - src: /images/actividades/tarragona/portaventura/montanas-rusas.webp
-  alt: Dragon Khan e Shambhala da lontano
+  alt: 'Dragon Khan e Shambhala da lontano'
+- src: /images/actividades/tarragona/portaventura/caribe-aquatic-toboganes.webp
+  alt: 'Scivoli e piscine del Caribe Aquatic Park'
 ratingProveedor: 4.3
 numeroOpiniones: 2697
 atraccionesRelacionadas:

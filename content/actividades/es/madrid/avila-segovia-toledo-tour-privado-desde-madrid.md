@@ -76,6 +76,10 @@ galeria:
   alt: 'El Alcázar de Toledo'
 - src: https://imgcdn.bokun.tools/bf3249ac-1ddc-4c7f-a8e4-1e48a8d2432d.jpg
   alt: 'Calle de Toledo con la torre de la catedral'
+- src: /images/actividades/avila/avila/pixabay-2709091-hero.webp
+  alt: 'Muralla medieval de Ávila con torres y almenas bajo cielo azul'
+- src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp
+  alt: 'Catedral de Ávila vista desde el adarve de la muralla medieval'
 publicada: true
 indexar: false
 destacada: false

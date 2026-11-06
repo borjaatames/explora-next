@@ -84,6 +84,14 @@ galeria:
   alt: 'Flamencogitarre auf der Bühne'
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-card.webp
   alt: 'Straße im Gotischen Viertel'
+- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
+  alt: 'Flamencotänzerin im roten Kleid mit Gitarristen in einem Tablao'
+- src: /images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp
+  alt: 'Flamencotänzerinnen in roten und schwarzen Kleidern auf der Bühne'
+- src: /images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp
+  alt: 'Flamencotänzerin mit rotem Schultertuch und ausgebreiteten Armen auf der Bühne'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Flamenco-Gitarrist spielt auf der Bühne'
 ratingProveedor: 4.7
 numeroOpiniones: 1274
 publicada: true

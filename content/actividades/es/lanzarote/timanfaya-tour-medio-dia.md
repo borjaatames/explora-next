@@ -82,15 +82,19 @@ imagen: /images/actividades/lanzarote/timanfaya-volcanes.webp
 imagenAlt: Guagua de la Ruta de los Volcanes entre cráteres en Timanfaya
 galeria:
 - src: /images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp
-  alt: Caravana de camellos en las laderas de Timanfaya
+  alt: 'Caravana de camellos en las laderas de Timanfaya'
 - src: /images/actividades/lanzarote/zonas/camellos-timanfaya-dunas.webp
-  alt: Camellos cruzando la ceniza volcánica de Timanfaya
+  alt: 'Camellos cruzando la ceniza volcánica de Timanfaya'
 - src: /images/actividades/lanzarote/zonas/timanfaya-lava.webp
-  alt: Campo de lava y volcanes en Timanfaya
+  alt: 'Campo de lava y volcanes en Timanfaya'
 - src: /images/actividades/lanzarote/zonas/volcan-rojo.webp
-  alt: Volcán de tierra roja en Timanfaya
+  alt: 'Volcán de tierra roja en Timanfaya'
 - src: /images/actividades/lanzarote/zonas/camellos-echadero.webp
-  alt: Camellos esperando a los visitantes en el Echadero de Timanfaya
+  alt: 'Camellos esperando a los visitantes en el Echadero de Timanfaya'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'Costa sur de Lanzarote junto a las playas de Papagayo'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Acantilados de lava en Los Hervideros, con volcanes al fondo'
 ratingProveedor: 4.3
 numeroOpiniones: 2901
 atraccionesRelacionadas:

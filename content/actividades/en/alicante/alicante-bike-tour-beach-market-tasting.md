@@ -94,6 +94,8 @@ galeria:
   alt: 'Basilica of Santa María in Alicante'
 - src: /images/actividades/alicante/paella/mercado-palmeras.webp
   alt: 'Façade of Alicante''s Central Market'
+- src: /images/actividades/alicante/centro/calle-san-antonio.webp
+  alt: 'Stepped street in the Santa Cruz quarter'
 ---
 
 ## What you will see

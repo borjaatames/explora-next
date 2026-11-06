@@ -101,6 +101,10 @@ galeria:
   alt: 'Delfines en la costa sur de Tenerife'
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
   alt: 'Playa de Los Cristianos'
+- src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
+  alt: 'Lancha de avistamiento con pasajeros junto a un grupo de calderones en Tenerife'
+- src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+  alt: 'Persona remando en un kayak naranja en mar abierto'
 ratingProveedor: 4.8
 numeroOpiniones: 962
 publicada: true

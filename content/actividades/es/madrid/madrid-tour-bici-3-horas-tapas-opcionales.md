@@ -93,6 +93,8 @@ galeria:
   alt: 'La Almudena y el Palacio Real al atardecer'
 - src: /images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp
   alt: 'Plaza de Santa Ana'
+- src: /images/actividades/madrid/ebike/ciclista-bicicleta-electrica-paseo.webp
+  alt: 'Ciclista en bicicleta eléctrica con el mar al fondo'
 ratingProveedor: 4.8
 numeroOpiniones: 1936
 publicada: true

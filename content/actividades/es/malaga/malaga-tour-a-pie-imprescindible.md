@@ -75,15 +75,19 @@ imagen: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp
 imagenAlt: Teatro Romano de Málaga con la Alcazaba detrás
 galeria:
 - src: /images/actividades/malaga/calle-larios/calle-larios-unsplash-ZZEjI6yNxd0.webp
-  alt: La calle Larios, en el centro de Málaga
+  alt: 'La calle Larios, en el centro de Málaga'
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp
-  alt: Fachada de la catedral de Málaga
+  alt: 'Fachada de la catedral de Málaga'
 - src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
-  alt: Murallas de la Alcazaba de Málaga
+  alt: 'Murallas de la Alcazaba de Málaga'
 - src: /images/actividades/malaga/museo-picasso/fachada-museo.webp
-  alt: Fachada del Museo Picasso Málaga
+  alt: 'Fachada del Museo Picasso Málaga'
 - src: /images/actividades/malaga/teatro-romano/gradas.webp
-  alt: Gradas del Teatro Romano de Málaga
+  alt: 'Gradas del Teatro Romano de Málaga'
+- src: /images/actividades/malaga/teatro-romano/teatro-romano-malaga-hero.webp
+  alt: 'Teatro romano de Málaga junto a la Alcazaba'
+- src: /images/actividades/malaga/teatro-romano/gradas-2.webp
+  alt: 'Teatro romano de Málaga junto a la Alcazaba'
 ratingProveedor: 4.8
 numeroOpiniones: 150
 publicada: true

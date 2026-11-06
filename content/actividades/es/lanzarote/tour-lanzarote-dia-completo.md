@@ -92,6 +92,8 @@ galeria:
   alt: 'Mar turquesa entrando en una cueva de lava en Los Hervideros'
 - src: /images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp
   alt: 'La Graciosa vista desde el norte de Lanzarote'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'Costa sur de Lanzarote junto a las playas de Papagayo'
 ratingProveedor: 4.7
 numeroOpiniones: 3379
 atraccionesRelacionadas:

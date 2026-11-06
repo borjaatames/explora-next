@@ -80,17 +80,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/12345925-aaa3-4ef7-bf3e-86c939abebb6.jpeg
-  alt: Patio de las Doncellas in the Royal Alcázar of Seville
+  alt: 'Patio de las Doncellas in the Royal Alcázar of Seville'
 - src: https://imgcdn.bokun.tools/5208f837-8044-471c-aaf5-119dc02930f4.jpeg
-  alt: Arches and galleries of the Royal Alcázar
+  alt: 'Arches and galleries of the Royal Alcázar'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
-  alt: Wide view of Seville's Plaza de España
+  alt: 'Wide view of Seville''s Plaza de España'
 - src: https://imgcdn.bokun.tools/777075c0-b8cf-4dc3-8756-ac3a20b62002.jpeg
-  alt: The Giralda behind orange trees
+  alt: 'The Giralda behind orange trees'
 - src: https://imgcdn.bokun.tools/96226f2e-ec52-4d60-9caa-5a230ff0cfdb.jpeg
-  alt: The Torre del Oro by the Guadalquivir
+  alt: 'The Torre del Oro by the Guadalquivir'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-plaza.webp
-  alt: Seville Cathedral and the Giralda from Plaza Virgen de los Reyes
+  alt: 'Seville Cathedral and the Giralda from Plaza Virgen de los Reyes'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: 'Seville Cathedral façade among palm trees'
 bokunProductId: 937865
 fecha_actualizacion: '2026-10-24'
 privada: true

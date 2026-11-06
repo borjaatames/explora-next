@@ -72,6 +72,8 @@ galeria:
   alt: 'Vidrieras de la Sagrada Família'
 - src: https://imgcdn.bokun.tools/67c77841-0907-401c-a948-87ecd626d71c.jpg
   alt: 'Grupo con su guía dentro de la Sagrada Família'
+- src: /images/actividades/barcelona/fotos-biblioteca/wikimedia-01.webp
+  alt: 'Monasterio de Montserrat entre las montañas'
 publicada: true
 indexar: false
 destacada: false

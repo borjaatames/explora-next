@@ -75,6 +75,10 @@ galeria:
   alt: 'Traveller at a viewpoint over Toledo'
 - src: https://imgcdn.bokun.tools/b048abb8-6bff-4473-b28b-a504d038e8b5.jpg
   alt: 'Toledo swords in a shop window'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-spain-bridge-castle-fortress-hero.webp
+  alt: 'Panoramic view of Toledo with the Alcázar'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
+  alt: 'Alcázar of Toledo rising above the city'
 publicada: true
 indexar: false
 destacada: false

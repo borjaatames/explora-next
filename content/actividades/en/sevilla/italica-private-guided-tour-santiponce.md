@@ -71,13 +71,19 @@ imagen: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-08.webp
 imagenAlt: Arena of the Itálica amphitheatre
 galeria:
 - src: https://imgcdn.bokun.tools/0b0fd9c1-a004-459b-86a1-1cf6e637842e.jpg
-  alt: The Roman city of Itálica
+  alt: 'The Roman city of Itálica'
 - src: https://imgcdn.bokun.tools/765285f7-589c-46f8-a2a4-0c08dfec97f3.jpg
-  alt: Itálica's theatre and amphitheatre
+  alt: 'Itálica''s theatre and amphitheatre'
 - src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-02.webp
-  alt: Roman passage in the amphitheatre
+  alt: 'Roman passage in the amphitheatre'
 - src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-06.webp
-  alt: Stands of the Itálica amphitheatre
+  alt: 'Stands of the Itálica amphitheatre'
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: 'Guadalquivir riverbank with the Torre del Oro in the distance'
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: 'Torre del Oro and boats on the Guadalquivir'
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
+  alt: 'Gothic vaults of Seville Cathedral'
 publicada: true
 indexar: false
 destacada: false

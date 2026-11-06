@@ -82,17 +82,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/23532d3d-bf5f-4b74-90e7-2850c0f29ac1.jpg
-  alt: Visitante fotografiando las vidrieras de la Sagrada Familia
+  alt: 'Visitante fotografiando las vidrieras de la Sagrada Familia'
 - src: https://imgcdn.bokun.tools/0264bea1-8f66-49fe-8b55-c5386e3dde78.jpg
-  alt: Luz de las vidrieras sobre la nave de la Sagrada Familia
+  alt: 'Luz de las vidrieras sobre la nave de la Sagrada Familia'
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
-  alt: Vidrieras azules y verdes iluminando la nave de la Sagrada Familia
+  alt: 'Vidrieras azules y verdes iluminando la nave de la Sagrada Familia'
 - src: https://imgcdn.bokun.tools/0160f538-0ca1-4615-8d29-bbcf6a401998.jpg
-  alt: Visitantes dentro de la Sagrada Familia, junto a las vidrieras
+  alt: 'Visitantes dentro de la Sagrada Familia, junto a las vidrieras'
 - src: https://imgcdn.bokun.tools/49e76055-7c26-428e-b5bd-81a45d1463d2.jpg
-  alt: Pareja haciéndose un selfi con las torres de la Sagrada Familia
+  alt: 'Pareja haciéndose un selfi con las torres de la Sagrada Familia'
 - src: https://imgcdn.bokun.tools/296a3e8e-567e-469c-901d-fd5f53831b21.jpg
-  alt: Columnas y vidrieras de colores del interior de la basílica
+  alt: 'Columnas y vidrieras de colores del interior de la basílica'
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
+  alt: 'Fachada de la Sagrada Familia de Barcelona con torres góticas y elementos arquitectónicos modernistas'
 bokunProductId: 1121863
 fecha_actualizacion: '2026-10-24'
 ---

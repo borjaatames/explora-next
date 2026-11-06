@@ -93,6 +93,8 @@ galeria:
   alt: 'The Almudena and the Royal Palace at sunset'
 - src: /images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp
   alt: 'Plaza de Santa Ana'
+- src: /images/actividades/madrid/ebike/ciclista-bicicleta-electrica-paseo.webp
+  alt: 'Cyclist on an e-bike with the sea behind'
 ratingProveedor: 4.8
 numeroOpiniones: 1936
 publicada: true

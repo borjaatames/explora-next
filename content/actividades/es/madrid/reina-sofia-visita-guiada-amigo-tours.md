@@ -94,13 +94,19 @@ imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-63946019
 imagenAlt: 'Visitantes en la entrada del Museo Reina Sofía, junto a sus ascensores de cristal'
 galeria:
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
-  alt: Fachada del Museo Reina Sofía de noche, con sus ascensores de cristal
+  alt: 'Fachada del Museo Reina Sofía de noche, con sus ascensores de cristal'
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp
-  alt: Galería de la colección permanente
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
-  alt: Entrada del Museo Reina Sofía
+  alt: 'Galería de la colección permanente'
 - src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Torres de ascensores del edificio Sabatini
+  alt: 'Torres de ascensores del edificio Sabatini'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
+  alt: 'Museo Reina Sofía de Madrid'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
+  alt: 'Fachada del Museo Reina Sofía en la plaza de Juan Goytisolo, Madrid'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
+  alt: 'Museo Reina Sofía de Madrid'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
+  alt: 'Museo Reina Sofía de Madrid'
 ratingProveedor: 4.3
 numeroOpiniones: 676
 publicada: true

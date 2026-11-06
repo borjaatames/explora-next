@@ -89,17 +89,19 @@ imagen: /images/actividades/fuerteventura/ajuy/ffv-interior-cueva-ajuy.webp
 imagenAlt: "Besucher in einer der Höhlen von Ajuy"
 galeria:
 - src: /images/actividades/fuerteventura/betancuria/ffv-puerta-municipio-betancuria.webp
-  alt: "Eingangsmonument der Gemeinde Betancuria"
+  alt: 'Eingangsmonument der Gemeinde Betancuria'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-1.webp
-  alt: "Kirche Santa María und Platz in Betancuria"
+  alt: 'Kirche Santa María und Platz in Betancuria'
 - src: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
-  alt: "Das Dorf Ajuy und sein schwarzer Sandstrand"
+  alt: 'Das Dorf Ajuy und sein schwarzer Sandstrand'
 - src: /images/actividades/fuerteventura/ajuy/ffv-caleta-negra-ajuy.webp
-  alt: "Caleta Negra und die Höhlen von Ajuy"
+  alt: 'Caleta Negra und die Höhlen von Ajuy'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-4.webp
-  alt: "Garten neben der Kirche von Betancuria"
+  alt: 'Garten neben der Kirche von Betancuria'
 - src: /images/actividades/fuerteventura/zonas/via-lactea-fuerteventura.webp
-  alt: "Die Milchstraße über Fuerteventura"
+  alt: 'Die Milchstraße über Fuerteventura'
+- src: /images/actividades/fuerteventura/ajuy/ffv-costa-ajuy.webp
+  alt: 'Küste von Ajuy mit dem schwarzen Strand'
 ---
 
 ## Was du siehst

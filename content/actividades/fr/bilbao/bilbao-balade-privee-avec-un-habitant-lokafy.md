@@ -85,17 +85,19 @@ imagen: /images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp
 imagenAlt: "Place et escaliers de Mallona dans le Casco Viejo de Bilbao"
 galeria:
 - src: /images/actividades/bilbao/casco-viejo/fbi-siete-calles-fachadas.webp
-  alt: "Rue des Siete Calles de Bilbao aux façades colorées"
+  alt: 'Rue des Siete Calles de Bilbao aux façades colorées'
 - src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: "Rue commerçante du Casco Viejo de Bilbao"
+  alt: 'Rue commerçante du Casco Viejo de Bilbao'
 - src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-  alt: "Le marché de La Ribera au bord de la ría de Bilbao"
+  alt: 'Le marché de La Ribera au bord de la ría de Bilbao'
 - src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
-  alt: "Bilbao vue depuis le mont Artxanda"
+  alt: 'Bilbao vue depuis le mont Artxanda'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-iberdrola.webp
-  alt: "Le Guggenheim et la tour Iberdrola au bord de la ría de Bilbao"
+  alt: 'Le Guggenheim et la tour Iberdrola au bord de la ría de Bilbao'
 - src: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
-  alt: "Comptoir de bar avec des pintxos exposés"
+  alt: 'Comptoir de bar avec des pintxos exposés'
+- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+  alt: 'Le théâtre Arriaga au bord de la ría de Bilbao'
 ---
 
 ## Ce que vous verrez

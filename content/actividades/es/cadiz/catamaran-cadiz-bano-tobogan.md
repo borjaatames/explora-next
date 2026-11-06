@@ -86,17 +86,19 @@ imagen: /images/actividades/cadiz/catamaran/ftc-catamaran-vela-mar-abierto.webp
 imagenAlt: "Catamarán navegando a vela en mar abierto (imagen ilustrativa)"
 galeria:
 - src: /images/actividades/cadiz/catamaran/catamaran-saliendo-puerto-cadiz.webp
-  alt: "Embarcación saliendo del puerto de Cádiz"
+  alt: 'Embarcación saliendo del puerto de Cádiz'
 - src: /images/actividades/cadiz/catamaran/velero-catedral-cadiz.webp
-  alt: "Velero en la bahía con la Catedral de Cádiz al fondo"
+  alt: 'Velero en la bahía con la Catedral de Cádiz al fondo'
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
-  alt: "Persona nadando con gafas bajo el agua (imagen ilustrativa)"
+  alt: 'Persona nadando con gafas bajo el agua (imagen ilustrativa)'
 - src: /images/actividades/cadiz/mar/catedral-desde-mar.webp
-  alt: "Cádiz y su catedral vistas desde el mar"
+  alt: 'Cádiz y su catedral vistas desde el mar'
 - src: /images/actividades/cadiz/catamaran/copa-espumoso-a-bordo-catamaran.webp
-  alt: "Copa de espumoso en la cubierta de un catamarán"
+  alt: 'Copa de espumoso en la cubierta de un catamarán'
 - src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
-  alt: "Castillo de San Sebastián a la entrada de la bahía"
+  alt: 'Castillo de San Sebastián a la entrada de la bahía'
+- src: /images/actividades/cadiz/catamaran/catamaran-vela-atardecer.webp
+  alt: 'Catamarán de vela navegando al atardecer'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en junio de 2027.'
 ---
 

@@ -78,17 +78,19 @@ imagen: /images/actividades/alicante/flamenco/flamenco-pareja.webp
 imagenAlt: Artistes de flamenco sur scène pendant un spectacle en direct
 galeria:
 - src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: Guitariste de flamenco jouant sur scène
+  alt: 'Guitariste de flamenco jouant sur scène'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: Chanteuse de flamenco sur scène
+  alt: 'Chanteuse de flamenco sur scène'
 - src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
-  alt: Rue de la vieille ville de Valence la nuit
+  alt: 'Rue de la vieille ville de Valence la nuit'
 - src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: Danseur de flamenco en pleine danse sur scène
+  alt: 'Danseur de flamenco en pleine danse sur scène'
 - src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: Guitariste de flamenco au chapeau jouant en direct
+  alt: 'Guitariste de flamenco au chapeau jouant en direct'
 - src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
-  alt: Le quartier du Carmen, au centre de Valence, illuminé la nuit
+  alt: 'Le quartier du Carmen, au centre de Valence, illuminé la nuit'
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: 'Danseuse avec un châle et guitariste lors d''un spectacle de flamenco'
 ---
 
 ## Ce que vous verrez

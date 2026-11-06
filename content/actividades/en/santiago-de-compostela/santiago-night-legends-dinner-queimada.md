@@ -83,17 +83,19 @@ imagen: /images/actividades/santiago-de-compostela/noche/fsc-queimada-llama-azul
 imagenAlt: "Queimada burning with a blue flame in its clay bowl"
 galeria:
 - src: /images/actividades/santiago-de-compostela/noche/fsc-obradoiro-cielo-atardecer.webp
-  alt: "Obradoiro façade under a reddish dusk sky"
+  alt: 'Obradoiro façade under a reddish dusk sky'
 - src: /images/actividades/santiago-de-compostela/noche/fsc-catedral-arco-blanco-negro.webp
-  alt: "Santiago Cathedral framed by a shadowy archway"
+  alt: 'Santiago Cathedral framed by a shadowy archway'
 - src: /images/actividades/santiago-de-compostela/tapas/pulpo.webp
-  alt: "Galician-style octopus with paprika"
+  alt: 'Galician-style octopus with paprika'
 - src: /images/actividades/santiago-de-compostela/tapas/pimientos-padron.webp
-  alt: "Plate of Padrón peppers"
+  alt: 'Plate of Padrón peppers'
 - src: /images/actividades/santiago-de-compostela/tapas/mejillones.webp
-  alt: "Galician mussels in a clay dish"
+  alt: 'Galician mussels in a clay dish'
 - src: /images/actividades/santiago-de-compostela/noche/fsc-queimada-cuenco-naranja.webp
-  alt: "Queimada bowl with orange peel and coffee beans"
+  alt: 'Queimada bowl with orange peel and coffee beans'
+- src: /images/actividades/santiago-de-compostela/noche/x-catedral-unsplash-9vsyheygwi.webp
+  alt: 'The Obradoiro façade at sunset'
 ---
 
 ## What you will see

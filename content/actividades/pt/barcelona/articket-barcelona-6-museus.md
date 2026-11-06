@@ -81,6 +81,12 @@ galeria:
   alt: 'Cúpula interior do Palau Nacional'
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp
   alt: 'Pátio do palácio que acolhe o Museu Picasso'
+- src: /images/actividades/barcelona/mnac/mnac-pantocrator-taull.webp
+  alt: 'O Cristo Pantocrator da abside de Sant Climent de Taüll no MNAC'
+- src: /images/actividades/barcelona/mnac/mnac-sala-absides-romanicos.webp
+  alt: 'Sala românica do MNAC com a abside de Sant Climent de Taüll'
+- src: /images/actividades/barcelona/mnac/mnac-aerea-montjuic.webp
+  alt: 'Vista aérea do MNAC na colina de Montjuïc'
 ratingProveedor: 4.5
 numeroOpiniones: 811
 atraccionesRelacionadas:

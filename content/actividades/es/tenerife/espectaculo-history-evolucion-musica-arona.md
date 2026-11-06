@@ -64,14 +64,12 @@ keywords:
 imagen: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
 imagenAlt: Vista de la costa de Adeje, junto a Playa de las Américas
 galeria:
-- src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-  alt: Vista de la costa de Adeje, en el sur de Tenerife
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: Playa de Costa Adeje
+  alt: 'Playa de Costa Adeje'
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
-  alt: Playa de Los Cristianos
+  alt: 'Playa de Los Cristianos'
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
-  alt: Bahía de Los Cristianos
+  alt: 'Bahía de Los Cristianos'
 ratingProveedor: 4.7
 numeroOpiniones: 985
 publicada: false

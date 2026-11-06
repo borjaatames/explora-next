@@ -91,17 +91,19 @@ imagen: /images/actividades/gran-canaria/yate/fgc-yate-navegando-mar-abierto.web
 imagenAlt: "Iate a motor a navegar em mar aberto"
 galeria:
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: "Baía e praia de Puerto Rico de Gran Canaria"
+  alt: 'Baía e praia de Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: "Falésias vulcânicas da costa sudoeste vistas do mar"
+  alt: 'Falésias vulcânicas da costa sudoeste vistas do mar'
 - src: /images/actividades/gran-canaria/yate/fgc-mar-azul-costa-rocosa.webp
-  alt: "Mar azul em frente a uma costa rochosa, ao nível da água"
+  alt: 'Mar azul em frente a uma costa rochosa, ao nível da água'
 - src: /images/actividades/gran-canaria/catamaran/fgc-esnorquel-fondo-rocoso.webp
-  alt: "Snorkel sobre um fundo de rochas em águas claras"
+  alt: 'Snorkel sobre um fundo de rochas em águas claras'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: "Peixes sobre o fundo arenoso em águas de Gran Canária"
+  alt: 'Peixes sobre o fundo arenoso em águas de Gran Canária'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
-  alt: "Puerto Rico de Gran Canaria ao entardecer"
+  alt: 'Puerto Rico de Gran Canaria ao entardecer'
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: 'Costa rochosa do sudoeste de Gran Canária'
 avisoReserva: "A tripulação ou o guia fala inglês e espanhol: não há explicações em português."
 ---
 

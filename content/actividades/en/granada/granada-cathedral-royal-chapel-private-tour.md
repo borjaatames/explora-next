@@ -78,17 +78,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/c877573c-4d02-4b9d-a8c6-07d58e090508.jpg
-  alt: The main chapel of Granada Cathedral
+  alt: 'The main chapel of Granada Cathedral'
 - src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
-  alt: Exterior of Granada's Royal Chapel
+  alt: 'Exterior of Granada''s Royal Chapel'
 - src: https://imgcdn.bokun.tools/f1808394-e906-4535-9463-3c02b71568dd.jpg
-  alt: Granada Cathedral rising above the rooftops
+  alt: 'Granada Cathedral rising above the rooftops'
 - src: /images/actividades/granada/catedral/granada-catedral-07.webp
-  alt: Dome of the main chapel of Granada Cathedral
+  alt: 'Dome of the main chapel of Granada Cathedral'
 - src: /images/actividades/granada/capilla-real/portada-gotica-pinaculos.webp
-  alt: Gothic doorway with pinnacles at Granada's Royal Chapel
+  alt: 'Gothic doorway with pinnacles at Granada''s Royal Chapel'
 - src: https://imgcdn.bokun.tools/605b2c18-9774-410c-a964-f4e0ad1f895a.jpg
-  alt: The Cathedral seen from a street in the centre
+  alt: 'The Cathedral seen from a street in the centre'
+- src: /images/actividades/granada/catedral/granada-catedral-04.webp
+  alt: 'Facade of Granada Cathedral'
 bokunProductId: 1271488
 fecha_actualizacion: '2026-10-24'
 privada: true

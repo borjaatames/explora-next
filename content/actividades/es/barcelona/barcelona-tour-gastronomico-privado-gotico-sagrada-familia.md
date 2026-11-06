@@ -77,6 +77,8 @@ galeria:
   alt: 'Camarero sirviendo una bandeja de tapas'
 - src: https://imgcdn.bokun.tools/cd3b38c5-9f20-4a02-8d72-391b6e515d4c.jpg
   alt: 'Mujer con tapas y una copa de cava'
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
+  alt: 'Puesto de jamones y embutidos ibéricos en el mercado de la Boquería'
 publicada: true
 indexar: false
 destacada: false

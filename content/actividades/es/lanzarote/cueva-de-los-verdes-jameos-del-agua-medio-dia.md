@@ -86,17 +86,19 @@ imagen: /images/actividades/lanzarote/cueva-de-los-verdes/flz-reflejo-galeria.we
 imagenAlt: "Galería iluminada de la Cueva de los Verdes reflejada en el agua"
 galeria:
 - src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-entrada-tubo.webp
-  alt: "Entrada al tubo volcánico de la Cueva de los Verdes"
+  alt: 'Entrada al tubo volcánico de la Cueva de los Verdes'
 - src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-espejo-dorado.webp
-  alt: "Reflejos dorados en el interior de la Cueva de los Verdes"
+  alt: 'Reflejos dorados en el interior de la Cueva de los Verdes'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-lago-reflejo.webp
-  alt: "Lago interior de los Jameos del Agua reflejando el cielo"
+  alt: 'Lago interior de los Jameos del Agua reflejando el cielo'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
-  alt: "Piscina turquesa de los Jameos del Agua"
+  alt: 'Piscina turquesa de los Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
-  alt: "Escaleras de piedra y jardín en los Jameos del Agua"
+  alt: 'Escaleras de piedra y jardín en los Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-sala-blanca.webp
-  alt: "Sala blanca de los Jameos del Agua diseñada por César Manrique"
+  alt: 'Sala blanca de los Jameos del Agua diseñada por César Manrique'
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-palmeras.webp
+  alt: 'Piscina blanca y palmeras en los Jameos del Agua'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en enero de 2027.'
 ---
 

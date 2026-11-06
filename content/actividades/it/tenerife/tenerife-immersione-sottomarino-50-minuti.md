@@ -91,6 +91,10 @@ galeria:
   alt: 'Delfino nelle acque del sud di Tenerife'
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: 'Costa vulcanica del sud di Tenerife'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Globicefalo che soffia nelle acque del sud di Tenerife'
+- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+  alt: 'Globicefalo di Gray che respira in superficie'
 ratingProveedor: 4.8
 numeroOpiniones: 2670
 publicada: true

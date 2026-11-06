@@ -91,6 +91,10 @@ galeria:
   alt: 'Surfisti a Playa de las Américas'
 - src: /images/actividades/tenerife/cristianos/playa-honda.webp
   alt: 'Spiaggia del sud di Tenerife'
+- src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
+  alt: 'La costa di Los Cristianos con l''Atlantico alle spalle, base dei catamarani a Tenerife'
+- src: /images/actividades/tenerife/cristianos/montana-guaza.webp
+  alt: 'La Montaña de Guaza accanto a Los Cristianos'
 ratingProveedor: 4.8
 numeroOpiniones: 1679
 publicada: true

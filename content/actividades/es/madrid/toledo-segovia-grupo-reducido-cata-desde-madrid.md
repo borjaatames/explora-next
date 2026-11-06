@@ -80,6 +80,8 @@ galeria:
   alt: 'Toledo desde un mirador'
 - src: https://imgcdn.bokun.tools/af64ec27-4406-4770-8ee8-d37a205aaeeb.jpg
   alt: 'Pareja frente al acueducto de Segovia'
+- src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp
+  alt: 'alcazar of segovia, castle, segovia, fortress, architecture'
 publicada: true
 indexar: false
 destacada: false

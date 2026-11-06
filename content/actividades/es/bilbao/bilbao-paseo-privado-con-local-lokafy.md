@@ -87,17 +87,19 @@ imagen: /images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp
 imagenAlt: "Plaza y escaleras de Mallona en el Casco Viejo de Bilbao"
 galeria:
 - src: /images/actividades/bilbao/casco-viejo/fbi-siete-calles-fachadas.webp
-  alt: "Calle de las Siete Calles de Bilbao con fachadas de colores"
+  alt: 'Calle de las Siete Calles de Bilbao con fachadas de colores'
 - src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: "Calle comercial del Casco Viejo de Bilbao"
+  alt: 'Calle comercial del Casco Viejo de Bilbao'
 - src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-  alt: "Mercado de la Ribera junto a la ría de Bilbao"
+  alt: 'Mercado de la Ribera junto a la ría de Bilbao'
 - src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
-  alt: "Bilbao visto desde el monte Artxanda"
+  alt: 'Bilbao visto desde el monte Artxanda'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-iberdrola.webp
-  alt: "El Guggenheim y la Torre Iberdrola junto a la ría de Bilbao"
+  alt: 'El Guggenheim y la Torre Iberdrola junto a la ría de Bilbao'
 - src: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
-  alt: "Barra de bar con pintxos expuestos"
+  alt: 'Barra de bar con pintxos expuestos'
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: 'Plaza Nueva del Casco Viejo de Bilbao'
 ---
 
 ## Qué vas a ver

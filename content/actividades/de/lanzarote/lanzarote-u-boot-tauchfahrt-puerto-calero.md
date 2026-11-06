@@ -92,13 +92,19 @@ imagen: /images/actividades/lanzarote/submarino-lanzarote.webp
 imagenAlt: Das U-Boot von Puerto Calero an der Wasseroberfläche vor dem Abtauchen
 galeria:
 - src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
-  alt: Boote in der Marina Rubicón, Playa Blanca
+  alt: 'Boote in der Marina Rubicón, Playa Blanca'
 - src: /images/actividades/lanzarote/zonas/arrecife-barcas.webp
-  alt: Fischerboote in Arrecife, der Hauptstadt Lanzarotes
+  alt: 'Fischerboote in Arrecife, der Hauptstadt Lanzarotes'
 - src: /images/actividades/lanzarote/zonas/arrecife-casas.webp
-  alt: Weiße Häuser am Wasser in Arrecife
+  alt: 'Weiße Häuser am Wasser in Arrecife'
 - src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
-  alt: Die Südküste Lanzarotes bei den Papagayo-Stränden
+  alt: 'Die Südküste Lanzarotes bei den Papagayo-Stränden'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Lavaklippen von Los Hervideros mit Vulkanen im Hintergrund'
+- src: /images/actividades/lanzarote/zonas/playa-blanca.webp
+  alt: 'Playa Blanca im Süden von Lanzarote'
+- src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
+  alt: 'Eine Bucht von Papagayo mit türkisem Wasser und Vulkanfelsen'
 ratingProveedor: 4.6
 numeroOpiniones: 1587
 atraccionesRelacionadas:

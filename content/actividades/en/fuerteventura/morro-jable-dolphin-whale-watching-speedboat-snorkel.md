@@ -90,6 +90,12 @@ galeria:
   alt: 'Morro Jable lighthouse'
 - src: /images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp
   alt: 'Group of dolphins in the Atlantic'
+- src: /images/actividades/fuerteventura/morro-jable/ffv-catamaranes-playa-morro-jable.webp
+  alt: 'Sailing catamarans on the beach at Morro Jable'
+- src: /images/actividades/fuerteventura/morro-jable/ffv-playa-morro-jable.webp
+  alt: 'Morro Jable beach'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'A pilot whale blowing at the surface'
 ratingProveedor: 4.6
 numeroOpiniones: 4306
 publicada: true

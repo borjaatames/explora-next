@@ -79,17 +79,19 @@ imagen: /images/actividades/alicante/flamenco/flamenco-pareja.webp
 imagenAlt: "Flamenco artists on stage during a live show"
 galeria:
 - src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: "Flamenco guitarist playing on stage"
+  alt: 'Flamenco guitarist playing on stage'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Flamenco singer performing on stage"
+  alt: 'Flamenco singer performing on stage'
 - src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
-  alt: "Street in Valencia old town at night"
+  alt: 'Street in Valencia old town at night'
 - src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: "Male flamenco dancer mid-performance on stage"
+  alt: 'Male flamenco dancer mid-performance on stage'
 - src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: "Flamenco guitarist in a hat playing live"
+  alt: 'Flamenco guitarist in a hat playing live'
 - src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
-  alt: "El Carmen district in central Valencia, lit up at night"
+  alt: 'El Carmen district in central Valencia, lit up at night'
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: 'Flamenco dancer with a shawl and a guitarist during a show'
 ---
 
 ## What you will see

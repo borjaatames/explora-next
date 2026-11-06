@@ -82,17 +82,19 @@ imagen: /images/actividades/mallorca/fma-almudaina/almudaina-catedral-paseo.webp
 imagenAlt: "Almudaina and Cathedral seen from the seafront"
 galeria:
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
-  alt: "Palma Cathedral above the sea wall"
+  alt: 'Palma Cathedral above the sea wall'
 - src: /images/actividades/mallorca/fma-almudaina/almudaina-palmeras-catedral.webp
-  alt: "Royal Palace of La Almudaina among palm trees, with the Cathedral behind"
+  alt: 'Royal Palace of La Almudaina among palm trees, with the Cathedral behind'
 - src: /images/actividades/mallorca/fma-bici-palma/bicicletas-blancas-aparcadas.webp
-  alt: "City bikes parked in a row"
+  alt: 'City bikes parked in a row'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
-  alt: "Narrow street in Palma old town"
+  alt: 'Narrow street in Palma old town'
 - src: /images/actividades/mallorca/fma-bici-palma/bicicletas-calle-empedrada.webp
-  alt: "Bicycles leaning against a wall on a cobbled street"
+  alt: 'Bicycles leaning against a wall on a cobbled street'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp
-  alt: "Gothic gargoyle on the facade of Palma Cathedral"
+  alt: 'Gothic gargoyle on the facade of Palma Cathedral'
+- src: /images/actividades/mallorca/fma-almudaina/almudaina-fachada-arcos.webp
+  alt: 'Arcaded facade of the Almudaina Palace'
 ---
 
 ## What you will see

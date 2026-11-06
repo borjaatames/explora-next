@@ -88,17 +88,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/ad541982-03b7-41a9-b773-9eddc3904506.jpg
-  alt: Visitors by the coloured stained glass inside the Sagrada Familia
+  alt: 'Visitors by the coloured stained glass inside the Sagrada Familia'
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Interior of the Sagrada Familia with columns lit by warm light from the stained glass
+  alt: 'Interior of the Sagrada Familia with columns lit by warm light from the stained glass'
 - src: https://imgcdn.bokun.tools/c0e9df2c-6313-46ad-96df-2692c0267792.jpg
-  alt: Tour group in front of the Sagrada Familia facade
+  alt: 'Tour group in front of the Sagrada Familia facade'
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Stained-glass windows inside the Sagrada Familia
+  alt: 'Stained-glass windows inside the Sagrada Familia'
 - src: https://imgcdn.bokun.tools/5e491f93-d2aa-48de-80d1-f4a9058cbdb1.jpg
-  alt: Couple taking a selfie with the Sagrada Familia towers
+  alt: 'Couple taking a selfie with the Sagrada Familia towers'
 - src: https://imgcdn.bokun.tools/847885e8-e69e-43ef-96c2-133899ae0ecf.jpg
-  alt: Smiling travellers by the Sagrada Familia
+  alt: 'Smiling travellers by the Sagrada Familia'
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
+  alt: 'Facade of the Sagrada Familia with its towers in Barcelona'
 bokunProductId: 217562
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

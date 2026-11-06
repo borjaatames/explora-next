@@ -86,6 +86,8 @@ galeria:
   alt: 'Détail du portail à volutes'
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
   alt: 'Cathédrale de Granada, à 10 minutes'
+- src: /images/actividades/granada/catedral/granada-catedral-04.webp
+  alt: 'Façade de la cathédrale de Grenade'
 ratingProveedor: 4.7
 numeroOpiniones: 475
 publicada: true

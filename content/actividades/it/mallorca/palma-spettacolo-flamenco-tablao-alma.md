@@ -88,6 +88,8 @@ galeria:
   alt: 'La Cattedrale di Palma con il cielo rosa del tramonto'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
   alt: 'Ballerina di flamenco in bianco e nero'
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+  alt: 'La Cattedrale di Palma sopra le mura sul mare'
 ---
 
 ## Cosa vedrai

@@ -83,15 +83,19 @@ imagen: /images/actividades/fuerteventura/ferry-lobos.webp
 imagenAlt: Ferry de passagers entre Corralejo et l'île de Lobos
 galeria:
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
-  alt: Vue aérienne de l'île de Lobos
+  alt: 'Vue aérienne de l''île de Lobos'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-costa.webp
-  alt: La côte rocheuse de l'île de Lobos vue du ciel
+  alt: 'La côte rocheuse de l''île de Lobos vue du ciel'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp
-  alt: L'île de Lobos vue depuis la mer
+  alt: 'L''île de Lobos vue depuis la mer'
 - src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
-  alt: Bateaux d'excursion dans le port de Corralejo
+  alt: 'Bateaux d''excursion dans le port de Corralejo'
 - src: /images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp
-  alt: Les dunes de Corralejo avec Lobos et Lanzarote à l'horizon
+  alt: 'Les dunes de Corralejo avec Lobos et Lanzarote à l''horizon'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Morro Jable et la plage du Matorral vues depuis les collines'
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: 'La baie de Corralejo avec Lobos en arrière-plan'
 ratingProveedor: 4.7
 numeroOpiniones: 1425
 atraccionesRelacionadas:

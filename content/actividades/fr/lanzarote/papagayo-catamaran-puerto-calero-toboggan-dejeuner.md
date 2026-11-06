@@ -100,6 +100,8 @@ galeria:
   alt: 'Plage de Papagayo au pied de son promontoire rocheux'
 - src: /images/actividades/lanzarote/papagayo/flz-acantilados-playa.webp
   alt: 'Falaises et plage aux Playas de Papagayo'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
+  alt: 'Crique aux eaux turquoise à Papagayo'
 ---
 
 ## Ce que vous verrez

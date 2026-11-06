@@ -86,17 +86,19 @@ imagen: /images/actividades/jerez-de-la-frontera/centro/catedral-fachada-princip
 imagenAlt: "Fachada principal de la Catedral de Jerez"
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/centro/esquina-iglesia-historica.webp
-  alt: "Esquina de una iglesia histórica en el casco antiguo de Jerez"
+  alt: 'Esquina de una iglesia histórica en el casco antiguo de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.webp
-  alt: "Puerta de entrada al Alcázar de Jerez en la muralla almohade"
+  alt: 'Puerta de entrada al Alcázar de Jerez en la muralla almohade'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-fachadas.webp
-  alt: "Fachadas blancas y amarillas con balcones en la calle Larga de Jerez"
+  alt: 'Fachadas blancas y amarillas con balcones en la calle Larga de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/fachada-iglesia-historica.webp
-  alt: "Fachada barroca de una iglesia histórica de Jerez"
+  alt: 'Fachada barroca de una iglesia histórica de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
-  alt: "Calle del casco antiguo de Jerez con ventanales y terraza"
+  alt: 'Calle del casco antiguo de Jerez con ventanales y terraza'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-yeserias.webp
-  alt: "Yeserías decorativas en la fachada de un edificio de la calle Larga"
+  alt: 'Yeserías decorativas en la fachada de un edificio de la calle Larga'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: 'Músicos en directo en un tablao flamenco de Jerez'
 ---
 
 ## Qué vas a ver

@@ -91,17 +91,19 @@ imagen: /images/actividades/tenerife/masca/ftc-caserio-masca-valle.webp
 imagenAlt: "Caserío de Masca entre las montañas del macizo de Teno"
 galeria:
 - src: /images/actividades/tenerife/masca/ftc-masca-roque-barranco-mar.webp
-  alt: "Masca y su roque, con el barranco abriéndose hacia el mar"
+  alt: 'Masca y su roque, con el barranco abriéndose hacia el mar'
 - src: /images/actividades/tenerife/masca/ftc-palmeras-masca.webp
-  alt: "Palmeras canarias en las laderas de Masca"
+  alt: 'Palmeras canarias en las laderas de Masca'
 - src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-atardecer.webp
-  alt: "Acantilados de Los Gigantes con la luz de la tarde"
+  alt: 'Acantilados de Los Gigantes con la luz de la tarde'
 - src: /images/actividades/tenerife/gigantes/ftc-los-gigantes-pueblo-acantilados.webp
-  alt: "Pueblo de Los Gigantes con los acantilados al fondo"
+  alt: 'Pueblo de Los Gigantes con los acantilados al fondo'
 - src: /images/actividades/tenerife/garachico/caleton-garachico.webp
-  alt: "Piscinas naturales de roca volcánica en la costa norte de Tenerife"
+  alt: 'Piscinas naturales de roca volcánica en la costa norte de Tenerife'
 - src: /images/actividades/tenerife/masca/ftc-masca-casas-ladera.webp
-  alt: "Casas de Masca en la ladera del barranco"
+  alt: 'Casas de Masca en la ladera del barranco'
+- src: /images/actividades/tenerife/masca/masca-caserio.webp
+  alt: 'El caserío de Masca entre montañas'
 ---
 
 ## Qué vas a ver

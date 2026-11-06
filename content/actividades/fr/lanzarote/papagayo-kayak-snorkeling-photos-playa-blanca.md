@@ -86,17 +86,19 @@ imagen: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
 imagenAlt: "Crique aux eaux turquoise à Papagayo"
 galeria:
 - src: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
-  alt: "Personne faisant du snorkeling vue d'en haut"
+  alt: 'Personne faisant du snorkeling vue d''en haut'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
-  alt: "Plage de Papagayo sous un ciel nuageux"
+  alt: 'Plage de Papagayo sous un ciel nuageux'
 - src: /images/actividades/lanzarote/snorkel/flz-fondo-rocoso.webp
-  alt: "Fond rocheux vu à travers une eau cristalline"
+  alt: 'Fond rocheux vu à travers une eau cristalline'
 - src: /images/actividades/lanzarote/kayak-papagayo.webp
-  alt: "Kayak rouge sur une plage de sable blanc"
+  alt: 'Kayak rouge sur une plage de sable blanc'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
-  alt: "Playa Blanca, dans le sud de Lanzarote"
+  alt: 'Playa Blanca, dans le sud de Lanzarote'
 - src: /images/actividades/lanzarote/papagayo/flz-playas-veleros.webp
-  alt: "Plages de Papagayo avec des voiliers au mouillage"
+  alt: 'Plages de Papagayo avec des voiliers au mouillage'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+  alt: 'Crique de Papagayo vue depuis la falaise'
 ---
 
 ## Ce que vous verrez

@@ -103,6 +103,8 @@ galeria:
   alt: 'Travellers on the monastery terrace with the mountain behind'
 - src: https://imgcdn.bokun.tools/1c248131-d79f-4a98-91be-0d3dd1f112a7.jpg
   alt: 'Stall at the Montserrat farmers'' market'
+- src: /images/actividades/barcelona/montserrat/montserrat-abadia.webp
+  alt: 'Montserrat Monastery at the foot of the rock pinnacles'
 bokunProductId: 217561
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'

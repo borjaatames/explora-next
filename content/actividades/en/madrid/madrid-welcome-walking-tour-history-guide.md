@@ -86,6 +86,10 @@ galeria:
   alt: 'Almudena Cathedral'
 - src: /images/actividades/madrid/centro-historico-tour/plaza-mayor-anochecer.webp
   alt: 'Plaza Mayor at nightfall'
+- src: /images/actividades/madrid/almudena/catedral-almudena-cathedral-madrid-architecture-hero-hero.webp
+  alt: 'Almudena Cathedral in Madrid, Neo-Gothic architecture'
+- src: /images/actividades/madrid/almudena/catedral-almudena-evening-view-cathedral-madrid-hero.webp
+  alt: 'Almudena Cathedral next to the Royal Palace'
 ratingProveedor: 4.9
 numeroOpiniones: 2441
 publicada: true

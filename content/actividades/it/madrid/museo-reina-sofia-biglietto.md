@@ -73,18 +73,16 @@ keywords:
 imagen: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
 imagenAlt: Torre degli ascensori in vetro del Reina Sofía vista da una strada vicina
 galeria:
-- src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Torre degli ascensori in vetro del Reina Sofía vista da una strada vicina
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
-  alt: Il Museo Reina Sofía a Madrid
+  alt: 'Il Museo Reina Sofía a Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
-  alt: Ascensori in vetro sulla facciata del Museo Reina Sofía
+  alt: 'Ascensori in vetro sulla facciata del Museo Reina Sofía'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
-  alt: Facciata del Museo Reina Sofía su plaza de Juan Goytisolo, Madrid
+  alt: 'Facciata del Museo Reina Sofía su plaza de Juan Goytisolo, Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
-  alt: Il Museo Reina Sofía a Madrid
+  alt: 'Il Museo Reina Sofía a Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
-  alt: Il Museo Reina Sofía a Madrid
+  alt: 'Il Museo Reina Sofía a Madrid'
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

@@ -88,17 +88,19 @@ imagen: /images/actividades/lanzarote/timanfaya/flz-volcan-nubes.webp
 imagenAlt: "Volcán rojizo bajo las nubes en Timanfaya"
 galeria:
 - src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
-  alt: "Paisaje del Parque Nacional de Timanfaya con el mar al fondo"
+  alt: 'Paisaje del Parque Nacional de Timanfaya con el mar al fondo'
 - src: /images/actividades/lanzarote/la-geria/flz-hoyos-ladera.webp
-  alt: "Hoyos con muros de piedra en la ladera de La Geria"
+  alt: 'Hoyos con muros de piedra en la ladera de La Geria'
 - src: /images/actividades/lanzarote/el-golfo/flz-caldera-panoramica.webp
-  alt: "Vista panorámica de la caldera de El Golfo junto al océano"
+  alt: 'Vista panorámica de la caldera de El Golfo junto al océano'
 - src: /images/actividades/lanzarote/el-golfo/flz-mirador-cuerda.webp
-  alt: "Mirador sobre el Charco de los Clicos en El Golfo"
+  alt: 'Mirador sobre el Charco de los Clicos en El Golfo'
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
-  alt: "Los Hervideros, acantilados de lava junto al mar"
+  alt: 'Los Hervideros, acantilados de lava junto al mar'
 - src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
-  alt: "Hileras de hoyos con vides en La Geria vistas desde arriba"
+  alt: 'Hileras de hoyos con vides en La Geria vistas desde arriba'
+- src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
+  alt: 'Colada de lava solidificada en Timanfaya'
 ---
 
 ## Qué vas a ver

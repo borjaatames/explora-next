@@ -86,17 +86,19 @@ imagen: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
 imagenAlt: "Das Dorf Ajuy und sein schwarzer Sandstrand"
 galeria:
 - src: /images/actividades/fuerteventura/ajuy/ffv-montana-cerca-ajuy.webp
-  alt: "Berg im Inselinneren nahe Ajuy"
+  alt: 'Berg im Inselinneren nahe Ajuy'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
-  alt: "Kirchplatz von Betancuria mit dem Dorf im Hintergrund"
+  alt: 'Kirchplatz von Betancuria mit dem Dorf im Hintergrund'
 - src: /images/actividades/fuerteventura/granja-aloe/ffv-finca-aloe-vera-fuerteventura.webp
-  alt: "Blühende Aloe-Vera-Farm am Fuß der Berge Fuerteventuras"
+  alt: 'Blühende Aloe-Vera-Farm am Fuß der Berge Fuerteventuras'
 - src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
-  alt: "Herstellung von frischem Ziegenkäse in einer Käserei"
+  alt: 'Herstellung von frischem Ziegenkäse in einer Käserei'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-6.webp
-  alt: "Schattige Ecke unter Bäumen in Betancuria"
+  alt: 'Schattige Ecke unter Bäumen in Betancuria'
 - src: /images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp
-  alt: "Aloe-Vera-Reihen auf vulkanischem Boden"
+  alt: 'Aloe-Vera-Reihen auf vulkanischem Boden'
+- src: /images/actividades/fuerteventura/ajuy/ffv-interior-cueva-ajuy.webp
+  alt: 'Besucher in einer der Höhlen von Ajuy'
 ---
 
 ## Was du siehst

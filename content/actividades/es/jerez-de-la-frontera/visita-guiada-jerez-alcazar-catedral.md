@@ -83,17 +83,19 @@ imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-arqueolog
 imagenAlt: "Restos arqueológicos y pasarela de madera en el recinto del Alcázar de Jerez"
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-cupula.webp
-  alt: "Cúpula con lucernarios estrellados de los baños árabes del Alcázar de Jerez"
+  alt: 'Cúpula con lucernarios estrellados de los baños árabes del Alcázar de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-noria.webp
-  alt: "Restos de las antiguas instalaciones y la noria del Alcázar de Jerez"
+  alt: 'Restos de las antiguas instalaciones y la noria del Alcázar de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-cielo-azul.webp
-  alt: "Cúpula y balaustradas de la Catedral de Jerez"
+  alt: 'Cúpula y balaustradas de la Catedral de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
-  alt: "Campanario de la Catedral de Jerez"
+  alt: 'Campanario de la Catedral de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-fachadas.webp
-  alt: "Fachadas blancas y amarillas con balcones en la calle Larga de Jerez"
+  alt: 'Fachadas blancas y amarillas con balcones en la calle Larga de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/esquina-iglesia-historica.webp
-  alt: "Esquina de una iglesia histórica en el casco antiguo de Jerez"
+  alt: 'Esquina de una iglesia histórica en el casco antiguo de Jerez'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: 'Músicos en directo en un tablao flamenco de Jerez'
 ---
 
 ## Qué vas a ver

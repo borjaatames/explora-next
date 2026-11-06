@@ -93,17 +93,19 @@ imagen: /images/actividades/gran-canaria/mogan-kayak/fgc-kayak-boca-cueva-marina
 imagenAlt: "Caiaque à entrada de uma gruta marinha"
 galeria:
 - src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp
-  alt: "Puerto de Mogán e a sua baía"
+  alt: 'Puerto de Mogán e a sua baía'
 - src: /images/actividades/gran-canaria/mogan-kayak/cueva-marina-mogan.webp
-  alt: "Gruta marinha nas falésias de Mogán"
+  alt: 'Gruta marinha nas falésias de Mogán'
 - src: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
-  alt: "Grupo de caiaques junto à costa rochosa visto do ar"
+  alt: 'Grupo de caiaques junto à costa rochosa visto do ar'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: "Falésias vulcânicas de Mogán vistas do mar"
+  alt: 'Falésias vulcânicas de Mogán vistas do mar'
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
-  alt: "Fundo rochoso sob águas cristalinas"
+  alt: 'Fundo rochoso sob águas cristalinas'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: "Peixes sobre o fundo arenoso em águas de Gran Canária"
+  alt: 'Peixes sobre o fundo arenoso em águas de Gran Canária'
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: 'Costa rochosa do sudoeste de Gran Canária'
 avisoReserva: "A tripulação ou o guia fala espanhol e inglês: não há explicações em português."
 ---
 

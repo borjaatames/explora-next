@@ -90,17 +90,19 @@ imagen: /images/actividades/fuerteventura/jeep-cofete/ffv-cabras-junto-todoterre
 imagenAlt: "Cabras junto a los todoterrenos en una parada del safari por Fuerteventura"
 galeria:
 - src: /images/actividades/fuerteventura/zonas/cofete-cresta.webp
-  alt: "Cresta de las montañas de Jandía sobre Cofete"
+  alt: 'Cresta de las montañas de Jandía sobre Cofete'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-1.webp
-  alt: "Playa de Cofete vista desde la montaña"
+  alt: 'Playa de Cofete vista desde la montaña'
 - src: /images/actividades/fuerteventura/zonas/villa-winter-ladera.webp
-  alt: "Villa Winter vista desde la pista"
+  alt: 'Villa Winter vista desde la pista'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-arena-montanas.webp
-  alt: "Arena de Cofete al pie de las montañas de Jandía"
+  alt: 'Arena de Cofete al pie de las montañas de Jandía'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-5.webp
-  alt: "Playa de Cofete y la Montaña Aguda"
+  alt: 'Playa de Cofete y la Montaña Aguda'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: "Playa de Morro Jable"
+  alt: 'Playa de Morro Jable'
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: 'Bahía de Corralejo'
 ---
 
 ## Qué vas a ver

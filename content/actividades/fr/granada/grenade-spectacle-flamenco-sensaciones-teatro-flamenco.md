@@ -103,6 +103,12 @@ galeria:
   alt: 'Salle et scène du Teatro Flamenco Granada'
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
   alt: 'L''Albaicín en fin d''après-midi'
+- src: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
+  alt: 'L''Albaicín vu depuis les jardins de l''Alhambra'
+- src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
+  alt: 'L''Alhambra éclairée par le soleil de fin d''après-midi'
+- src: /images/actividades/granada/albaicin/albaicin-pixabay-3107980.webp
+  alt: 'Maisons blanches de l''Albaicín'
 ratingProveedor: 4.8
 numeroOpiniones: 788
 publicada: true

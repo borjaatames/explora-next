@@ -115,6 +115,8 @@ galeria:
   alt: 'Fachada modernista de la Casa Batlló con sus característicos balcones redondeados y cerámica colorida en Barcelona'
 - src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
   alt: 'Skyline de Barcelona con la Sagrada Familia y edificios modernistas al atardecer'
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-ceiling-chandelier-barcelona-hero.webp
+  alt: 'Techo en espiral y lámpara del salón principal de la Casa Batlló'
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

@@ -78,17 +78,19 @@ imagen: /images/actividades/jerez-de-la-frontera/bodegas/botas-roble-apiladas.we
 imagenAlt: "Botas de roble apiladas en una bodega"
 galeria:
 - src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
-  alt: "Viñedos sobre tierra albariza en el Marco de Jerez"
+  alt: 'Viñedos sobre tierra albariza en el Marco de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/bodegas/bota-grifo-laton.webp
-  alt: "Bota de roble con grifo de latón"
+  alt: 'Bota de roble con grifo de latón'
 - src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-generoso.webp
-  alt: "Copa de vino generoso sobre una tabla de madera"
+  alt: 'Copa de vino generoso sobre una tabla de madera'
 - src: /images/actividades/jerez-de-la-frontera/tapas/tabla-tapas-cazuelas.webp
-  alt: "Surtido de tapas y cazuelitas de barro"
+  alt: 'Surtido de tapas y cazuelitas de barro'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
-  alt: "Calle del casco antiguo de Jerez con ventanales y terraza"
+  alt: 'Calle del casco antiguo de Jerez con ventanales y terraza'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-arboles.webp
-  alt: "Cúpula de la Catedral de Jerez entre árboles"
+  alt: 'Cúpula de la Catedral de Jerez entre árboles'
+- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
+  alt: 'Copa de vino ambarino sobre una mesa de madera'
 ---
 
 ## Qué vas a ver

@@ -88,6 +88,8 @@ galeria:
   alt: 'Giardini del Real Alcázar'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-plaza.webp
   alt: 'Plaza Virgen de los Reyes con la Giralda di notte'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: 'La Cattedrale di Siviglia e la Giralda'
 ratingProveedor: 4.6
 numeroOpiniones: 8899
 publicada: true

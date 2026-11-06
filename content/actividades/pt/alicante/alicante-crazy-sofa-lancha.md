@@ -86,17 +86,19 @@ imagen: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
 imagenAlt: "Insufláveis aquáticos rebocáveis a flutuar no mar"
 galeria:
 - src: /images/actividades/tarragona/banana/fta-lancha-remolcando-banana-aerea.webp
-  alt: "Lancha a rebocar um insuflável a toda a velocidade, vista aérea"
+  alt: 'Lancha a rebocar um insuflável a toda a velocidade, vista aérea'
 - src: /images/actividades/alicante/fal-crazy-sofa/fal-lancha-remolcando-hinchable.webp
-  alt: "Lancha a rebocar um insuflável em mar aberto"
+  alt: 'Lancha a rebocar um insuflável em mar aberto'
 - src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: "Porto e marina de Alicante vistos do castelo"
+  alt: 'Porto e marina de Alicante vistos do castelo'
 - src: /images/actividades/ibiza/barcos/fi1-barco-navegando-estela.webp
-  alt: "Lancha a navegar e a deixar esteira no mar"
+  alt: 'Lancha a navegar e a deixar esteira no mar'
 - src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: "Praia do Postiguet com o castelo de Santa Bárbara"
+  alt: 'Praia do Postiguet com o castelo de Santa Bárbara'
 - src: /images/actividades/tarragona/banana/fta-banana-boat-arena-chalecos.webp
-  alt: "Insuflável com coletes salva-vidas na beira-mar"
+  alt: 'Insuflável com coletes salva-vidas na beira-mar'
+- src: /images/actividades/tarragona/banana/fta-moto-agua-remolcando-banana.webp
+  alt: 'Embarcação a rebocar um banana boat junto à beira-mar'
 avisoReserva: "A tripulação ou o guia fala inglês, francês e espanhol: não há explicações em português."
 ---
 

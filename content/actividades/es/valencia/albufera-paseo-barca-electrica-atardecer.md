@@ -85,17 +85,19 @@ imagen: /images/actividades/valencia/albufera/fvc-proa-barca-lago-atardecer.webp
 imagenAlt: "Proa de una barca navegando por el lago de la Albufera al atardecer"
 galeria:
 - src: /images/actividades/valencia/albufera/fvc-embarcadero-barcas-canal.webp
-  alt: "Embarcadero con barcas tradicionales en un canal de la Albufera"
+  alt: 'Embarcadero con barcas tradicionales en un canal de la Albufera'
 - src: /images/actividades/valencia/albufera/fvc-barca-amarrada-lago.webp
-  alt: "Barca amarrada en las aguas abiertas del lago de la Albufera"
+  alt: 'Barca amarrada en las aguas abiertas del lago de la Albufera'
 - src: /images/actividades/valencia/albufera/fvc-garzas-arrozal.webp
-  alt: "Garzas y otras aves sobre un arrozal del parque natural de la Albufera"
+  alt: 'Garzas y otras aves sobre un arrozal del parque natural de la Albufera'
 - src: /images/actividades/valencia/albufera/fvc-barca-muelle-puesta-sol.webp
-  alt: "Barca junto a un muelle de madera durante la puesta de sol en la Albufera"
+  alt: 'Barca junto a un muelle de madera durante la puesta de sol en la Albufera'
 - src: /images/actividades/valencia/albufera/fvc-cielo-rojo-lago.webp
-  alt: "Cielo rojizo reflejado en el lago de la Albufera tras la puesta de sol"
+  alt: 'Cielo rojizo reflejado en el lago de la Albufera tras la puesta de sol'
 - src: /images/actividades/valencia/albufera/fvc-canal-barcas-anochecer.webp
-  alt: "Canal con barcas tradicionales al anochecer en la Albufera"
+  alt: 'Canal con barcas tradicionales al anochecer en la Albufera'
+- src: /images/actividades/valencia/albufera/albufera-cielo-naranja-barca.webp
+  alt: 'Albufera de Valencia al atardecer'
 ---
 
 ## Qué vas a ver

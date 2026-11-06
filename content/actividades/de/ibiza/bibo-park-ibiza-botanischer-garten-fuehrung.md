@@ -89,17 +89,19 @@ imagen: /images/actividades/ibiza/bibo-park/fi1-piano-plantas-bibo-park.webp
 imagenAlt: "Pflanzenklavier unter einer Holzkuppel im BiBo Park Ibiza"
 galeria:
 - src: /images/actividades/ibiza/bibo-park/fi1-fotobiorreactor-bibo-park.webp
-  alt: "Photobioreaktor für Mikroalgen im BiBo Park Ibiza"
+  alt: 'Photobioreaktor für Mikroalgen im BiBo Park Ibiza'
 - src: /images/actividades/ibiza/bibo-park/fi1-olivo-jardin-mediterraneo.webp
-  alt: "Alter Olivenbaum in einem Garten mit Mittelmeerpflanzen"
+  alt: 'Alter Olivenbaum in einem Garten mit Mittelmeerpflanzen'
 - src: /images/actividades/ibiza/bibo-park/fi1-romero-en-flor.webp
-  alt: "Blühender Rosmarin, eine typische Pflanze der Mittelmeer-Macchia"
+  alt: 'Blühender Rosmarin, eine typische Pflanze der Mittelmeer-Macchia'
 - src: /images/actividades/ibiza/bibo-park/fi1-plantas-suculentas.webp
-  alt: "Säulenförmige Sukkulenten in einem Garten"
+  alt: 'Säulenförmige Sukkulenten in einem Garten'
 - src: /images/actividades/ibiza/bibo-park/fi1-ramas-romero.webp
-  alt: "Rosmarinzweige in Nahaufnahme"
+  alt: 'Rosmarinzweige in Nahaufnahme'
 - src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
-  alt: "Es Vedrà zwischen Pinien"
+  alt: 'Es Vedrà zwischen Pinien'
+- src: /images/actividades/ibiza/vedra/es-vedra-cala-dhort.webp
+  alt: 'Es Vedrà von Cala d''Hort aus'
 avisoReserva: "Ob die Führung auf Deutsch stattfindet, hängt davon ab, welcher Guide bei deiner Ankunft frei ist. Sonst hast du den kostenlosen Audioguide auf Deutsch."
 ---
 

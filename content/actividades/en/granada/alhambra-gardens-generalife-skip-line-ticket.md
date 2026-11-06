@@ -93,15 +93,19 @@ imagen: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-
 imagenAlt: Generalife gardens of the Alhambra in Granada
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp
-  alt: Aerial view of Alhambra fortress in Granada with red-tiled roofs and surrounding gardens
+  alt: 'Aerial view of Alhambra fortress in Granada with red-tiled roofs and surrounding gardens'
 - src: /images/actividades/granada/alhambra/alhambra-granada-explore-historic-fortress-lush-hero-hero.webp
-  alt: Historic Alhambra fortress in Granada with lush gardens and architectural details
+  alt: 'Historic Alhambra fortress in Granada with lush gardens and architectural details'
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
-  alt: Courtyard with fountain and water channels at Alhambra palace, Granada
+  alt: 'Courtyard with fountain and water channels at Alhambra palace, Granada'
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp
-  alt: Ornate Islamic arches and intricate tilework at the Alhambra palace in Granada, Spain
+  alt: 'Ornate Islamic arches and intricate tilework at the Alhambra palace in Granada, Spain'
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
-  alt: Wine Gate at the Alhambra of Granada
+  alt: 'Wine Gate at the Alhambra of Granada'
+- src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
+  alt: 'Granada''s historic streets with traditional architecture and narrow pathways'
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
+  alt: 'Columns and arches of the Alhambra in Granada'
 ratingProveedor: 4.5
 numeroOpiniones: 2256
 publicada: true

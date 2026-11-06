@@ -73,6 +73,12 @@ galeria:
   alt: 'Palacio Real de Madrid y la plaza de la Armería'
 - src: https://imgcdn.bokun.tools/d4840d3a-9093-432b-b245-7927f0a1a1fa.jpg
   alt: 'Cúpula de una basílica madrileña vista desde el interior'
+- src: /images/actividades/madrid/escorial/monasterio-escorial-escurial-pantheon-rois-entree-hero.webp
+  alt: 'Entrada al Panteón de los Reyes de El Escorial'
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-escorialbiblioteca-hero.webp
+  alt: 'Biblioteca del Monasterio de El Escorial'
+- src: /images/actividades/madrid/escorial/monasterio-del-escorial-dramatic-view-monastery-gardens-hero.webp
+  alt: 'Jardines de los Frailes y fachada sur'
 publicada: true
 indexar: false
 destacada: false

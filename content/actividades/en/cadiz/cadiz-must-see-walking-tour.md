@@ -75,15 +75,19 @@ imagen: /images/actividades/cadiz/centro/ftc-catedral-desde-campo-sur.webp
 imagenAlt: Cádiz Cathedral seen from the Campo del Sur
 galeria:
 - src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
-  alt: Arco de los Blancos in El Pópulo
+  alt: 'Arco de los Blancos in El Pópulo'
 - src: /images/actividades/cadiz/centro/catedral-tejados.webp
-  alt: Rooftops and dome of Cádiz Cathedral
+  alt: 'Rooftops and dome of Cádiz Cathedral'
 - src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
-  alt: Plaza de San Juan de Dios and the Town Hall
+  alt: 'Plaza de San Juan de Dios and the Town Hall'
 - src: /images/actividades/cadiz/centro/ftc-plaza-catedral-palmeras.webp
-  alt: Cathedral square in Cádiz with palm trees
+  alt: 'Cathedral square in Cádiz with palm trees'
 - src: /images/actividades/cadiz/campo-del-sur/paseo-playa-unsplash-IWV0-oq5ziE.webp
-  alt: Cádiz seafront promenade
+  alt: 'Cádiz seafront promenade'
+- src: /images/actividades/cadiz/centro/plaza-flores.webp
+  alt: 'Café terraces on a street in central Cádiz'
+- src: /images/actividades/cadiz/centro/catedral-fachada.webp
+  alt: 'Façade of Cádiz Cathedral'
 ratingProveedor: 4.7
 numeroOpiniones: 112
 publicada: true

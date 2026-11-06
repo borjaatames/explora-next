@@ -70,6 +70,8 @@ galeria:
   alt: 'Tapas with ham and a glass of beer'
 - src: https://imgcdn.bokun.tools/2ec8c2a3-305d-483e-8efe-612a9b02e6f7.jpg
   alt: 'Table of assorted tapas and beer'
+- src: /images/actividades/barcelona/proveedor-1229823/prov-bici-calle.webp
+  alt: 'Group cycling along a Barcelona street'
 publicada: true
 indexar: false
 destacada: false

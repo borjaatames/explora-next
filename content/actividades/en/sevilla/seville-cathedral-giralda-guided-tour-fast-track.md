@@ -85,6 +85,10 @@ galeria:
   alt: 'Domes and pinnacles of the Cathedral'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-plaza.webp
   alt: 'The Giralda lit up at night'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: 'Seville Cathedral and the Giralda'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: 'Seville Cathedral façade among palm trees'
 ratingProveedor: 4.6
 numeroOpiniones: 3280
 publicada: true

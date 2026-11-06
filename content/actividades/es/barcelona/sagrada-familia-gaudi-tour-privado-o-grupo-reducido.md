@@ -88,17 +88,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/ad541982-03b7-41a9-b773-9eddc3904506.jpg
-  alt: Visitantes ante las vidrieras de colores en el interior de la Sagrada Familia
+  alt: 'Visitantes ante las vidrieras de colores en el interior de la Sagrada Familia'
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Interior de la Sagrada Familia con las columnas iluminadas por la luz cálida de las vidrieras
+  alt: 'Interior de la Sagrada Familia con las columnas iluminadas por la luz cálida de las vidrieras'
 - src: https://imgcdn.bokun.tools/c0e9df2c-6313-46ad-96df-2692c0267792.jpg
-  alt: Grupo del tour ante la fachada de la Sagrada Familia
+  alt: 'Grupo del tour ante la fachada de la Sagrada Familia'
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Vidrieras interiores de la Sagrada Familia
+  alt: 'Vidrieras interiores de la Sagrada Familia'
 - src: https://imgcdn.bokun.tools/5e491f93-d2aa-48de-80d1-f4a9058cbdb1.jpg
-  alt: Pareja haciéndose un selfi con las torres de la Sagrada Familia
+  alt: 'Pareja haciéndose un selfi con las torres de la Sagrada Familia'
 - src: https://imgcdn.bokun.tools/847885e8-e69e-43ef-96c2-133899ae0ecf.jpg
-  alt: Viajeros sonrientes junto a la Sagrada Familia
+  alt: 'Viajeros sonrientes junto a la Sagrada Familia'
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
+  alt: 'Fachada de la Sagrada Familia con sus torres en Barcelona'
 bokunProductId: 217562
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

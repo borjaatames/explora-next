@@ -50,15 +50,19 @@ imagen: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-c
 imagenAlt: Navigable underground river in the San José Caves
 galeria:
 - src: https://imgcdn.bokun.tools/d07f4f7d-9253-4108-85df-b94e982d520b.jpeg
-  alt: San José Caves boat ride from Valencia (Bokun)
+  alt: 'San José Caves boat ride from Valencia (Bokun)'
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-19-jpg-01.webp
-  alt: Gallery in the San José Caves
+  alt: 'Gallery in the San José Caves'
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-14-jpg-03.webp
-  alt: Rock vault in the San José Caves
+  alt: 'Rock vault in the San José Caves'
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-de-la-vall-d-uix-est-04.webp
-  alt: Stalactites in the San José Caves
+  alt: 'Stalactites in the San José Caves'
 - src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-wikimedia-coves-de-sant-josep-vall-d-uix-07-jpg-05.webp
-  alt: Boat on the river in the San José Caves
+  alt: 'Boat on the river in the San José Caves'
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-27790724-card.webp
+  alt: 'Photo of the activity'
+- src: /images/actividades/valencia/cuevas-san-jose/cuevas-san-jose-pexels-6877687-card.webp
+  alt: 'Photo of the activity'
 ratingProveedor: 4.6
 numeroOpiniones: 785
 atraccionesRelacionadas:

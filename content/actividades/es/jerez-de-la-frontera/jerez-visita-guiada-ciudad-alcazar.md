@@ -85,17 +85,19 @@ imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.w
 imagenAlt: "Puerta de entrada al Alcázar de Jerez en la muralla almohade"
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-cupula.webp
-  alt: "Cúpula con lucernarios estrellados de los baños árabes del Alcázar de Jerez"
+  alt: 'Cúpula con lucernarios estrellados de los baños árabes del Alcázar de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-noria.webp
-  alt: "Restos de las antiguas instalaciones y la noria del Alcázar de Jerez"
+  alt: 'Restos de las antiguas instalaciones y la noria del Alcázar de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-arqueologicos.webp
-  alt: "Restos arqueológicos y pasarela de madera en el recinto del Alcázar de Jerez"
+  alt: 'Restos arqueológicos y pasarela de madera en el recinto del Alcázar de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-arboles.webp
-  alt: "Cúpula de la Catedral de Jerez entre árboles"
+  alt: 'Cúpula de la Catedral de Jerez entre árboles'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-terrazas.webp
-  alt: "Terrazas y fachadas amarillas en la calle Larga de Jerez"
+  alt: 'Terrazas y fachadas amarillas en la calle Larga de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
-  alt: "Calle del casco antiguo de Jerez con ventanales y terraza"
+  alt: 'Calle del casco antiguo de Jerez con ventanales y terraza'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: 'Músicos en directo en un tablao flamenco de Jerez'
 ---
 
 ## Qué vas a ver

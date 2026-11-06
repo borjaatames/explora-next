@@ -87,17 +87,19 @@ imagen: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-burbuja-amari
 imagenAlt: "Bulle volcanique jaune à la Fondation César Manrique"
 galeria:
 - src: /images/actividades/lanzarote/jardin-de-cactus/flz-anfiteatro.webp
-  alt: "Vue de l'amphithéâtre du Jardín de Cactus à Guatiza"
+  alt: 'Vue de l''amphithéâtre du Jardín de Cactus à Guatiza'
 - src: /images/actividades/lanzarote/mirador-del-rio/flz-terraza-barandilla.webp
-  alt: "Terrasse du Mirador del Río au-dessus du détroit de La Graciosa"
+  alt: 'Terrasse du Mirador del Río au-dessus du détroit de La Graciosa'
 - src: /images/actividades/lanzarote/mirador-del-rio/flz-interior-cafeteria.webp
-  alt: "Intérieur du Mirador del Río, une œuvre de César Manrique"
+  alt: 'Intérieur du Mirador del Río, une œuvre de César Manrique'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
-  alt: "Piscine turquoise des Jameos del Agua"
+  alt: 'Piscine turquoise des Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
-  alt: "Escaliers en pierre et jardin aux Jameos del Agua"
+  alt: 'Escaliers en pierre et jardin aux Jameos del Agua'
 - src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-jardin-estanque.webp
-  alt: "Jardin avec bassin à la Fondation César Manrique"
+  alt: 'Jardin avec bassin à la Fondation César Manrique'
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-carretera-risco.webp
+  alt: 'Route longeant les falaises dans le nord de Lanzarote'
 avisoReserva: "La langue du guide change selon le jour : vérifiez avant de réserver que le français est proposé à votre date."
 ---
 

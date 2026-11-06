@@ -91,17 +91,19 @@ imagen: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
 imagenAlt: "Majorera-Ziege mit langen Hörnern"
 galeria:
 - src: /images/actividades/fuerteventura/cabras/ffv-cabra-en-las-rocas.webp
-  alt: "Ziege auf Vulkanfelsen"
+  alt: 'Ziege auf Vulkanfelsen'
 - src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: "Berge im Süden von Fuerteventura"
+  alt: 'Berge im Süden von Fuerteventura'
 - src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
-  alt: "Ziegenherde an einem Hang auf Fuerteventura"
+  alt: 'Ziegenherde an einem Hang auf Fuerteventura'
 - src: /images/actividades/fuerteventura/cabras/ffv-pastor-majorero.webp
-  alt: "Hirte unterwegs in der Landschaft Fuerteventuras"
+  alt: 'Hirte unterwegs in der Landschaft Fuerteventuras'
 - src: /images/actividades/fuerteventura/cabras/ffv-granja-campo-desertico.webp
-  alt: "Viehfarm in der kargen Landschaft Fuerteventuras"
+  alt: 'Viehfarm in der kargen Landschaft Fuerteventuras'
 - src: /images/actividades/fuerteventura/queso/ffv-ensalada-queso-cabra.webp
-  alt: "Salat mit Ziegenkäse und Feigen"
+  alt: 'Salat mit Ziegenkäse und Feigen'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Strand von Morro Jable'
 ---
 
 ## Was du siehst

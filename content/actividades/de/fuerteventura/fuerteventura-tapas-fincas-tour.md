@@ -96,6 +96,8 @@ galeria:
   alt: 'Majorera-Ziege auf einer Farm'
 - src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
   alt: 'Herstellung von frischem Ziegenkäse in einer Käserei'
+- src: /images/actividades/fuerteventura/queso/ffv-ensalada-queso-cabra.webp
+  alt: 'Salat mit Ziegenkäse und Feigen'
 ---
 
 ## Was du siehst

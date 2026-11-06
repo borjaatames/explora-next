@@ -79,17 +79,19 @@ imagen: /images/actividades/alicante/flamenco/flamenco-pareja.webp
 imagenAlt: Artisti di flamenco in scena durante uno spettacolo dal vivo
 galeria:
 - src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: Chitarrista di flamenco sul palco
+  alt: 'Chitarrista di flamenco sul palco'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: Cantaora che canta sul palco
+  alt: 'Cantaora che canta sul palco'
 - src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
-  alt: Via del centro storico di Valencia di notte
+  alt: 'Via del centro storico di Valencia di notte'
 - src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: Ballerino di flamenco in pieno ballo sul palco
+  alt: 'Ballerino di flamenco in pieno ballo sul palco'
 - src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: Chitarrista di flamenco con cappello che suona dal vivo
+  alt: 'Chitarrista di flamenco con cappello che suona dal vivo'
 - src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
-  alt: Il Barrio del Carmen, nel centro di Valencia, illuminato di notte
+  alt: 'Il Barrio del Carmen, nel centro di Valencia, illuminato di notte'
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: 'Ballerina con scialle e chitarrista in uno spettacolo di flamenco'
 ---
 
 ## Cosa vedrai

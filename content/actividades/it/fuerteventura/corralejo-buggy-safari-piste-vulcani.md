@@ -85,15 +85,19 @@ imagen: /images/actividades/fuerteventura/buggy-corralejo.webp
 imagenAlt: Buggy su una pista sterrata nel nord di Fuerteventura
 galeria:
 - src: /images/actividades/fuerteventura/zonas/dunas-corralejo-vegetacion.webp
-  alt: Dune e macchia nel Parco Naturale di Corralejo
+  alt: 'Dune e macchia nel Parco Naturale di Corralejo'
 - src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
-  alt: Passeggiata sulle dune bianche di Corralejo
+  alt: 'Passeggiata sulle dune bianche di Corralejo'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos.webp
-  alt: L'isola di Lobos vista dalla costa di Fuerteventura
+  alt: 'L''isola di Lobos vista dalla costa di Fuerteventura'
 - src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Coni vulcanici nel nord di Fuerteventura
+  alt: 'Coni vulcanici nel nord di Fuerteventura'
 - src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
-  alt: Barche nel porto di Corralejo
+  alt: 'Barche nel porto di Corralejo'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Spiaggia di Morro Jable'
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: 'La baia di Corralejo con Lobos sullo sfondo'
 ratingProveedor: 4.6
 numeroOpiniones: 1558
 atraccionesRelacionadas:

@@ -84,13 +84,19 @@ imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
 imagenAlt: Delfini che nuotano accanto a una barca al largo di Morro Jable
 galeria:
 - src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
-  alt: Il faro di Morro Jable
+  alt: 'Il faro di Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable e la spiaggia del Matorral viste dalle colline
+  alt: 'Morro Jable e la spiaggia del Matorral viste dalle colline'
 - src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: La costa di Jandía con il faro in lontananza
+  alt: 'La costa di Jandía con il faro in lontananza'
 - src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
-  alt: Il faro di Morro Jable tra la vegetazione della palude salmastra
+  alt: 'Il faro di Morro Jable tra la vegetazione della palude salmastra'
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: 'La baia di Corralejo con Lobos sullo sfondo'
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: 'Coni vulcanici nel nord di Fuerteventura'
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
+  alt: 'Barche da escursione nel porto di Corralejo'
 ratingProveedor: 4.2
 numeroOpiniones: 5490
 atraccionesRelacionadas:

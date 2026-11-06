@@ -96,17 +96,19 @@ imagen: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transpare
 imagenAlt: "Zwei Kajaks auf klarem, türkisfarbenem Wasser"
 galeria:
 - src: /images/actividades/mallorca/fma-cala-varques/cala-varques-playa.webp
-  alt: "Strand von Cala Varques mit türkisfarbenem Wasser und Pinienwald"
+  alt: 'Strand von Cala Varques mit türkisfarbenem Wasser und Pinienwald'
 - src: /images/actividades/mallorca/fma-cala-varques/kayak-arco-roca.webp
-  alt: "Rotes Kajak fährt unter einem Felsbogen im Meer hindurch"
+  alt: 'Rotes Kajak fährt unter einem Felsbogen im Meer hindurch'
 - src: /images/actividades/mallorca/fma-cala-varques/cueva-acantilado-cala-varques.webp
-  alt: "Klippe mit einer Meereshöhle neben Cala Varques"
+  alt: 'Klippe mit einer Meereshöhle neben Cala Varques'
 - src: /images/actividades/mallorca/fma-cala-varques/nadadora-esnorquel.webp
-  alt: "Schnorchlerin schwimmt in blaugrünem Wasser"
+  alt: 'Schnorchlerin schwimmt in blaugrünem Wasser'
 - src: /images/actividades/mallorca/fma-cala-varques/roca-oleaje-cala-varques.webp
-  alt: "Felsen und Brandung an der Küste von Cala Varques"
+  alt: 'Felsen und Brandung an der Küste von Cala Varques'
 - src: /images/actividades/mallorca/fma-cala-varques/cala-varques-desde-pinar.webp
-  alt: "Cala Varques vom Pinienwald aus gesehen"
+  alt: 'Cala Varques vom Pinienwald aus gesehen'
+- src: /images/actividades/mallorca/fma-cala-varques/costa-este-acantilados.webp
+  alt: 'Niedrige Klippen an der Ostküste Mallorcas'
 avisoReserva: 'Saisonale Aktivität: Die nächsten verfügbaren Termine beginnen im Mai 2027.'
 ---
 

@@ -79,17 +79,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/8c5cc25d-5153-4b45-9330-4314df8ab2ef.jpeg
-  alt: Visitors beneath the arches of Medina Azahara
+  alt: 'Visitors beneath the arches of Medina Azahara'
 - src: /images/actividades/cordoba/medina-azahara/salon-rico.webp
-  alt: Arches of the Salón Rico at Medina Azahara
+  alt: 'Arches of the Salón Rico at Medina Azahara'
 - src: https://imgcdn.bokun.tools/9470a64f-b482-4567-9163-0e1dd9d026c3.jpeg
-  alt: Decorated arched facade at Medina Azahara
+  alt: 'Decorated arched facade at Medina Azahara'
 - src: /images/actividades/cordoba/medina-azahara/decoracion-ataurique.webp
-  alt: Ataurique decoration at Medina Azahara
+  alt: 'Ataurique decoration at Medina Azahara'
 - src: https://imgcdn.bokun.tools/be73da8c-5e58-4730-901e-8c4f669471ee.jpeg
-  alt: Large brick arcade at Medina Azahara
+  alt: 'Large brick arcade at Medina Azahara'
 - src: /images/actividades/cordoba/medina-azahara/vista-ruinas.webp
-  alt: View over the ruins of Medina Azahara
+  alt: 'View over the ruins of Medina Azahara'
+- src: /images/actividades/cordoba/medina-azahara/salon-abderraman.webp
+  alt: 'Hall of Abd al-Rahman III'
 bokunProductId: 937791
 fecha_actualizacion: '2026-10-24'
 privada: true

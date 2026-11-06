@@ -82,6 +82,8 @@ galeria:
   alt: 'Kuppel der Kathedrale von Jerez nachts beleuchtet'
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
   alt: 'Publikum genießt eine Flamenco-Show in Jerez'
+- src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
+  alt: 'Kathedrale von Jerez und ihr Turm nachts beleuchtet'
 ratingProveedor: 4.7
 numeroOpiniones: 138
 atraccionesRelacionadas:

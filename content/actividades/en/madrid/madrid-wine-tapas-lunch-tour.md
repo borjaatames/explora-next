@@ -66,6 +66,10 @@ galeria:
   alt: 'Calle de la Cava Baja in La Latina'
 - src: https://imgcdn.bokun.tools/c27274aa-c687-4481-96cb-b6cc39267102.jpg
   alt: 'Glasses of Spanish red wine'
+- src: /images/actividades/madrid/la-latina/calle-cava-baja-banderines.webp
+  alt: 'Calle de la Cava Baja in the La Latina district, Madrid'
+- src: /images/actividades/madrid/la-latina/cava-baja-terrazas.webp
+  alt: 'Terraces on Calle Cava Baja in La Latina during the Paloma festivities'
 publicada: true
 indexar: false
 destacada: false

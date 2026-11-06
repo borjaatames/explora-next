@@ -74,17 +74,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/4905e074-63c4-400d-be0d-ea4bcc4d143d.jpeg
-  alt: Glorieta de azulejos en el Parque de María Luisa
+  alt: 'Glorieta de azulejos en el Parque de María Luisa'
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa-estanque.webp
-  alt: Estanque con vegetación en el Parque de María Luisa
+  alt: 'Estanque con vegetación en el Parque de María Luisa'
 - src: https://imgcdn.bokun.tools/2c72225c-a8ca-4141-9126-aed26d360207.jpeg
-  alt: Estanque con puente en el Parque de María Luisa
+  alt: 'Estanque con puente en el Parque de María Luisa'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: Galería de la Plaza de España con sus bancos de azulejos
+  alt: 'Galería de la Plaza de España con sus bancos de azulejos'
 - src: https://imgcdn.bokun.tools/2e1a2bda-2aea-49ce-be93-e487fd24174f.jpeg
-  alt: Torre de la Plaza de España vista desde una galería
+  alt: 'Torre de la Plaza de España vista desde una galería'
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
-  alt: Callejón del Agua en el barrio de Santa Cruz
+  alt: 'Callejón del Agua en el barrio de Santa Cruz'
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
+  alt: 'Plaza de España iluminada de noche'
 bokunProductId: 949550
 fecha_actualizacion: '2026-10-24'
 privada: true

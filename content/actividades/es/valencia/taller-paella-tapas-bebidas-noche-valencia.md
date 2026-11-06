@@ -78,17 +78,19 @@ imagen: /images/actividades/valencia/paella/fvc-paella-marisco-fuego.webp
 imagenAlt: "Paella de marisco cocinándose a fuego vivo"
 galeria:
 - src: /images/actividades/valencia/ruzafa/mercado-ruzafa-pimientos.webp
-  alt: "Pimientos y verduras frescas en el Mercado de Ruzafa"
+  alt: 'Pimientos y verduras frescas en el Mercado de Ruzafa'
 - src: /images/actividades/valencia/paella/fvc-paella-valenciana-paellera.webp
-  alt: "Paella valenciana con pollo y judía verde en su paellera"
+  alt: 'Paella valenciana con pollo y judía verde en su paellera'
 - src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-mesa.webp
-  alt: "Tapas variadas en cazuelas de barro sobre una mesa de madera"
+  alt: 'Tapas variadas en cazuelas de barro sobre una mesa de madera'
 - src: /images/actividades/valencia/lonja-paella/paella-fuego-lena.webp
-  alt: "Paella al fuego de leña"
+  alt: 'Paella al fuego de leña'
 - src: /images/actividades/valencia/paella/fvc-paella-marisco-mesa.webp
-  alt: "Paella de marisco con gambas y mejillones servida en la mesa"
+  alt: 'Paella de marisco con gambas y mejillones servida en la mesa'
 - src: /images/actividades/valencia/paella/fvc-paella-valenciana-detalle.webp
-  alt: "Detalle de una paella valenciana recién hecha"
+  alt: 'Detalle de una paella valenciana recién hecha'
+- src: /images/actividades/valencia/ruzafa/calle-ruzafa.webp
+  alt: 'Calle del barrio de Ruzafa'
 ---
 
 ## Qué vas a ver

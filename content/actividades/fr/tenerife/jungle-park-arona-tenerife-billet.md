@@ -87,17 +87,19 @@ imagen: /images/actividades/tenerife/jungle-park/ftc-jungle-park-entrada-aguilas
 imagenAlt: Entrée de Las Águilas Jungle Park à Arona, avec deux grandes sculptures d’aigles
 galeria:
 - src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-cabeciblanco.webp
-  alt: Vautour à tête blanche dans son enclos de Jungle Park
+  alt: 'Vautour à tête blanche dans son enclos de Jungle Park'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: La montagne de Guaza, dans la commune d’Arona
+  alt: 'La montagne de Guaza, dans la commune d’Arona'
 - src: /images/actividades/tenerife/jungle-park/ftc-jaguar-tronco.webp
-  alt: Jaguar marchant sur un tronc
+  alt: 'Jaguar marchant sur un tronc'
 - src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-alas.webp
-  alt: Vautour à tête blanche ouvrant les ailes à Jungle Park
+  alt: 'Vautour à tête blanche ouvrant les ailes à Jungle Park'
 - src: /images/actividades/tenerife/jungle-park/ftc-lemur-cola-anillada.webp
-  alt: Lémurien catta assis sur une branche
+  alt: 'Lémurien catta assis sur une branche'
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
-  alt: La plage de Los Cristianos, à Arona
+  alt: 'La plage de Los Cristianos, à Arona'
+- src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
+  alt: 'La côte de Los Cristianos avec l''Atlantique derrière, base des catamarans à Tenerife'
 metaTitle: 'Jungle Park Tenerife : billet'
 ---
 

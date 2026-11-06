@@ -88,6 +88,10 @@ galeria:
   alt: 'Rocas del cabo de Salou frente al Mediterráneo'
 - src: /images/actividades/tarragona/quad/prades-atardecer.webp
   alt: 'Atardecer en las montañas de Prades'
+- src: /images/actividades/tarragona/costa/platja-llarga.webp
+  alt: 'Platja Llarga de Salou vista entre pinos'
+- src: /images/actividades/tarragona/costa/punta-grossa.webp
+  alt: 'Mirador de Punta Grossa sobre el mar en Salou'
 ratingProveedor: 4.8
 numeroOpiniones: 1225
 atraccionesRelacionadas:

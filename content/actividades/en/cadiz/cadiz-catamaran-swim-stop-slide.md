@@ -86,17 +86,19 @@ imagen: /images/actividades/cadiz/catamaran/ftc-catamaran-vela-mar-abierto.webp
 imagenAlt: "Catamaran sailing on the open sea (illustrative image)"
 galeria:
 - src: /images/actividades/cadiz/catamaran/catamaran-saliendo-puerto-cadiz.webp
-  alt: "Boat leaving the port of Cádiz"
+  alt: 'Boat leaving the port of Cádiz'
 - src: /images/actividades/cadiz/catamaran/velero-catedral-cadiz.webp
-  alt: "Sailing boat in the bay with Cádiz Cathedral behind"
+  alt: 'Sailing boat in the bay with Cádiz Cathedral behind'
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
-  alt: "Person swimming with goggles underwater (illustrative image)"
+  alt: 'Person swimming with goggles underwater (illustrative image)'
 - src: /images/actividades/cadiz/mar/catedral-desde-mar.webp
-  alt: "Cádiz and its cathedral seen from the sea"
+  alt: 'Cádiz and its cathedral seen from the sea'
 - src: /images/actividades/cadiz/catamaran/copa-espumoso-a-bordo-catamaran.webp
-  alt: "Glass of sparkling wine on the deck of a catamaran"
+  alt: 'Glass of sparkling wine on the deck of a catamaran'
 - src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
-  alt: "San Sebastián Castle at the mouth of the bay"
+  alt: 'San Sebastián Castle at the mouth of the bay'
+- src: /images/actividades/cadiz/catamaran/catamaran-vela-atardecer.webp
+  alt: 'Sailing catamaran at sunset'
 avisoReserva: 'Seasonal activity: the next available dates start in June 2027.'
 ---
 

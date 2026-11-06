@@ -95,17 +95,19 @@ imagen: /images/actividades/fuerteventura/buggy/ffv-buggy-pista-tierra-roja.webp
 imagenAlt: "Buggy por una pista de tierra rojiza"
 galeria:
 - src: /images/actividades/fuerteventura/buggy/ffv-tres-buggies-arena.webp
-  alt: "Tres buggies en fila sobre la arena"
+  alt: 'Tres buggies en fila sobre la arena'
 - src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
-  alt: "Rebaño de cabras en una ladera de Fuerteventura"
+  alt: 'Rebaño de cabras en una ladera de Fuerteventura'
 - src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
-  alt: "Elaboración de queso fresco de cabra en una quesería"
+  alt: 'Elaboración de queso fresco de cabra en una quesería'
 - src: /images/actividades/fuerteventura/buggy/ffv-buggy-junto-al-mar.webp
-  alt: "Buggy aparcado en la arena junto al mar"
+  alt: 'Buggy aparcado en la arena junto al mar'
 - src: /images/actividades/fuerteventura/la-pared/ffv-costa-oeste-oleaje.webp
-  alt: "Oleaje en la costa oeste de Fuerteventura"
+  alt: 'Oleaje en la costa oeste de Fuerteventura'
 - src: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
-  alt: "Cabra majorera de largos cuernos"
+  alt: 'Cabra majorera de largos cuernos'
+- src: /images/actividades/fuerteventura/buggy/ffv-buggy-corralejo-polvo.webp
+  alt: 'Buggy levantando polvo por una pista de tierra en Corralejo'
 ---
 
 ## Qué vas a ver

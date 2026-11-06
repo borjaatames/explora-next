@@ -91,17 +91,19 @@ imagen: /images/actividades/gran-canaria/fataga/fgc-fataga-pueblo-palmeral.webp
 imagenAlt: "Fataga et sa palmeraie dans la vallée des Mille Palmiers"
 galeria:
 - src: /images/actividades/gran-canaria/fataga/fgc-casas-blancas-fataga.webp
-  alt: "Maisons blanches de Fataga sur le versant du ravin"
+  alt: 'Maisons blanches de Fataga sur le versant du ravin'
 - src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
-  alt: "Le village de San Bartolomé de Tirajana entre les montagnes"
+  alt: 'Le village de San Bartolomé de Tirajana entre les montagnes'
 - src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
-  alt: "Le point de vue de la Degollada de las Yeguas"
+  alt: 'Le point de vue de la Degollada de las Yeguas'
 - src: /images/actividades/gran-canaria/tejeda/fgc-tejeda-casas-montanas.webp
-  alt: "Maisons de Tejeda face aux sommets de Gran Canaria"
+  alt: 'Maisons de Tejeda face aux sommets de Gran Canaria'
 - src: /images/actividades/gran-canaria/tejeda/fgc-flor-almendro-bentayga.webp
-  alt: "Fleur d'amandier avec le Roque Bentayga en arrière-plan"
+  alt: 'Fleur d''amandier avec le Roque Bentayga en arrière-plan'
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
-  alt: "Bananeraies sur la côte nord de Gran Canaria"
+  alt: 'Bananeraies sur la côte nord de Gran Canaria'
+- src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
+  alt: 'Palmiers des Canaries dans le ravin de Fataga'
 ---
 
 ## Ce que vous verrez

@@ -79,17 +79,19 @@ imagen: /images/actividades/ibiza/fiesta/fi2-globos-piscina.webp
 imagenAlt: "Colourful balloons floating in a pool"
 galeria:
 - src: /images/actividades/ibiza/fiesta/fi2-paseo-sant-antoni-atardecer.webp
-  alt: "Sant Antoni seafront busy at sunset"
+  alt: 'Sant Antoni seafront busy at sunset'
 - src: /images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp
-  alt: "Beach bar with sea views in Ibiza"
+  alt: 'Beach bar with sea views in Ibiza'
 - src: /images/actividades/ibiza/fiesta/fi2-banistas-piscina-aerea.webp
-  alt: "Swimmers in a pool seen from above"
+  alt: 'Swimmers in a pool seen from above'
 - src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
-  alt: "Sunset over Sant Antoni bay"
+  alt: 'Sunset over Sant Antoni bay'
 - src: /images/actividades/ibiza/fiesta/fi2-sant-antoni-noche.webp
-  alt: "Sant Antoni promenade lit up at night"
+  alt: 'Sant Antoni promenade lit up at night'
 - src: /images/actividades/ibiza/fiesta/fi2-pista-discoteca-luces.webp
-  alt: "Nightclub dance floor with mirror ball and lights"
+  alt: 'Nightclub dance floor with mirror ball and lights'
+- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
+  alt: 'Person stand-up paddleboarding in blue Mediterranean water'
 avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 

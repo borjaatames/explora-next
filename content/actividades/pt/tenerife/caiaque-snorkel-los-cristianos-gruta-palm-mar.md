@@ -101,6 +101,10 @@ galeria:
   alt: 'Golfinhos na costa sul de Tenerife'
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
   alt: 'Praia de Los Cristianos'
+- src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
+  alt: 'Lancha de observação com passageiros junto a um grupo de baleias-piloto em Tenerife'
+- src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+  alt: 'Pessoa a remar num caiaque cor de laranja em mar aberto'
 ratingProveedor: 4.8
 numeroOpiniones: 962
 publicada: true

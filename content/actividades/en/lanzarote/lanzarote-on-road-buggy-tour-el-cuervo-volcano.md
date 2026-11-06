@@ -91,17 +91,19 @@ imagen: /images/actividades/lanzarote/buggy/flz-buggy-pista-arena.webp
 imagenAlt: "Buggy driving on a sandy track"
 galeria:
 - src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
-  alt: "Solidified lava flow in Timanfaya"
+  alt: 'Solidified lava flow in Timanfaya'
 - src: /images/actividades/lanzarote/zonas/carretera-volcanes.webp
-  alt: "Road through volcanoes in Lanzarote"
+  alt: 'Road through volcanoes in Lanzarote'
 - src: /images/actividades/lanzarote/timanfaya/flz-crater-campo-lava.webp
-  alt: "Volcanic crater among lava fields in Lanzarote"
+  alt: 'Volcanic crater among lava fields in Lanzarote'
 - src: /images/actividades/lanzarote/la-geria/flz-hoyos-ladera.webp
-  alt: "Stone-walled vine pits on a slope in La Geria"
+  alt: 'Stone-walled vine pits on a slope in La Geria'
 - src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
-  alt: "Vine pits in La Geria"
+  alt: 'Vine pits in La Geria'
 - src: /images/actividades/lanzarote/la-geria/flz-vinedo-pie-volcan.webp
-  alt: "Vineyard of pits with stone walls at the foot of a volcano in La Geria"
+  alt: 'Vineyard of pits with stone walls at the foot of a volcano in La Geria'
+- src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
+  alt: 'Timanfaya National Park with the sea behind'
 ---
 
 ## What you will see

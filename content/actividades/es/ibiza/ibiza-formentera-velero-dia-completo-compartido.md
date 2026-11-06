@@ -78,6 +78,8 @@ galeria:
   alt: 'Grupo tumbado en una tabla de paddle en agua turquesa'
 - src: https://imgcdn.bokun.tools/b5ee9b67-8fe3-4bd5-8f22-e1c087c4fd26.jpg
   alt: 'Aguas turquesas e islotes de Formentera'
+- src: /images/actividades/ibiza/fotos-biblioteca/unsplash-j-x7lediab8.webp
+  alt: 'Velero fondeado en una cala de Ibiza'
 publicada: true
 indexar: false
 destacada: false

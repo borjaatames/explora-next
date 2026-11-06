@@ -89,6 +89,8 @@ galeria:
   alt: 'La Isla de Lobos desde la costa de Fuerteventura'
 - src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
   alt: 'Paseo por las dunas blancas de Corralejo'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Morro Jable y la playa del Matorral desde la montaña'
 ratingProveedor: 4.9
 numeroOpiniones: 515
 atraccionesRelacionadas:

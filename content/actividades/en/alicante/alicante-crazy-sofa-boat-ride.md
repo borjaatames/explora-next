@@ -86,17 +86,19 @@ imagen: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
 imagenAlt: "Towable water inflatables floating in the sea"
 galeria:
 - src: /images/actividades/tarragona/banana/fta-lancha-remolcando-banana-aerea.webp
-  alt: "Speedboat towing an inflatable at full speed, aerial view"
+  alt: 'Speedboat towing an inflatable at full speed, aerial view'
 - src: /images/actividades/alicante/fal-crazy-sofa/fal-lancha-remolcando-hinchable.webp
-  alt: "Boat towing an inflatable on the open sea"
+  alt: 'Boat towing an inflatable on the open sea'
 - src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: "Alicante port and marina seen from the castle"
+  alt: 'Alicante port and marina seen from the castle'
 - src: /images/actividades/ibiza/barcos/fi1-barco-navegando-estela.webp
-  alt: "Boat cruising and leaving a wake"
+  alt: 'Boat cruising and leaving a wake'
 - src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: "Postiguet beach with Santa Bárbara Castle"
+  alt: 'Postiguet beach with Santa Bárbara Castle'
 - src: /images/actividades/tarragona/banana/fta-banana-boat-arena-chalecos.webp
-  alt: "Inflatable with life jackets on the shore"
+  alt: 'Inflatable with life jackets on the shore'
+- src: /images/actividades/tarragona/banana/fta-moto-agua-remolcando-banana.webp
+  alt: 'Watercraft towing a banana boat near the shore'
 ---
 
 ## What you will see

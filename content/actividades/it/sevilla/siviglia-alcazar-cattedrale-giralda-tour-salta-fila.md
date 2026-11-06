@@ -89,6 +89,10 @@ galeria:
   alt: 'Arcate mudéjar del Real Alcázar'
 - src: /images/actividades/sevilla/catedral-giralda/giralda-detalle-arquitectura.webp
   alt: 'La Giralda vista dalla strada'
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
+  alt: 'Un angolo dei giardini dell''Alcázar'
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
+  alt: 'Facciata del Palazzo di Pietro I nel Real Alcázar di Siviglia'
 ratingProveedor: 4.8
 numeroOpiniones: 13238
 publicada: true

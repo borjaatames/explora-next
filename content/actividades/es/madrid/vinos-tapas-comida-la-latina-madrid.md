@@ -66,6 +66,10 @@ galeria:
   alt: 'Calle de la Cava Baja en La Latina'
 - src: https://imgcdn.bokun.tools/c27274aa-c687-4481-96cb-b6cc39267102.jpg
   alt: 'Copas de vino tinto español'
+- src: /images/actividades/madrid/la-latina/calle-cava-baja-banderines.webp
+  alt: 'Calle de la Cava Baja en el barrio de La Latina, Madrid'
+- src: /images/actividades/madrid/la-latina/cava-baja-terrazas.webp
+  alt: 'Terrazas de la calle Cava Baja, en La Latina, durante las fiestas de la Paloma'
 publicada: true
 indexar: false
 destacada: false

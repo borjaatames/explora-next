@@ -92,17 +92,19 @@ imagen: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-escaladores-r
 imagenAlt: "Deux personnes progressant sur une via ferrata le long d'une paroi rocheuse"
 galeria:
 - src: /images/actividades/girona/kayak-sant-feliu/sant-feliu-guixols-bahia.webp
-  alt: "La baie de Sant Feliu de Guíxols vue depuis la côte"
+  alt: 'La baie de Sant Feliu de Guíxols vue depuis la côte'
 - src: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-escaladora-casco.webp
-  alt: "Une grimpeuse avec casque et baudrier sur une via ferrata"
+  alt: 'Une grimpeuse avec casque et baudrier sur une via ferrata'
 - src: /images/actividades/girona/fgi-via-ferrata/fgi-via-ferrata-mosquetones-cable.webp
-  alt: "Mousquetons accrochés au câble de sécurité d'une via ferrata"
+  alt: 'Mousquetons accrochés au câble de sécurité d''une via ferrata'
 - src: /images/actividades/girona/kayak-sant-feliu/costa-brava-acantilado-mar.webp
-  alt: "Falaises et criques de la Costa Brava"
+  alt: 'Falaises et criques de la Costa Brava'
 - src: /images/actividades/girona/kayak-sant-feliu/sagaro-camino-ronda.webp
-  alt: "Un sentier côtier au bord de la mer au crépuscule"
+  alt: 'Un sentier côtier au bord de la mer au crépuscule'
 - src: /images/actividades/girona/fgi-sant-feliu/fgi-sant-feliu-barcas-playa.webp
-  alt: "Barques de pêche sur la plage de Sant Feliu de Guíxols"
+  alt: 'Barques de pêche sur la plage de Sant Feliu de Guíxols'
+- src: /images/actividades/girona/kayak-sant-feliu/cala-rocosa-aguas-turquesas.webp
+  alt: 'Crique rocheuse aux eaux turquoise sur la Costa Brava'
 ---
 
 ## Ce que vous verrez

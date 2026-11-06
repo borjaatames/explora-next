@@ -86,17 +86,19 @@ imagen: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
 imagenAlt: "Enseada de águas turquesa em Papagayo"
 galeria:
 - src: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
-  alt: "Pessoa a fazer snorkel vista de cima"
+  alt: 'Pessoa a fazer snorkel vista de cima'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
-  alt: "Praia de Papagayo com céu nublado"
+  alt: 'Praia de Papagayo com céu nublado'
 - src: /images/actividades/lanzarote/snorkel/flz-fondo-rocoso.webp
-  alt: "Fundo rochoso visto através da água límpida"
+  alt: 'Fundo rochoso visto através da água límpida'
 - src: /images/actividades/lanzarote/kayak-papagayo.webp
-  alt: "Caiaque vermelho na margem de uma praia de areia branca"
+  alt: 'Caiaque vermelho na margem de uma praia de areia branca'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
-  alt: "Playa Blanca, no sul de Lanzarote"
+  alt: 'Playa Blanca, no sul de Lanzarote'
 - src: /images/actividades/lanzarote/papagayo/flz-playas-veleros.webp
-  alt: "Praias de Papagayo com veleiros fundeados"
+  alt: 'Praias de Papagayo com veleiros fundeados'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+  alt: 'Enseada de Papagayo vista da falésia'
 avisoReserva: "A tripulação ou o guia fala espanhol, inglês e francês: não há explicações em português."
 ---
 

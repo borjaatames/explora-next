@@ -76,6 +76,8 @@ galeria:
   alt: 'Puente colgante del Caminito del Rey'
 - src: https://imgcdn.bokun.tools/e928eff2-cdad-43c4-b9ed-3e90614a6405.jpg
   alt: 'Vista del desfiladero desde las pasarelas'
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-19245377.webp
+  alt: 'Pasarelas del Caminito del Rey en la pared de roca'
 publicada: true
 indexar: false
 destacada: false

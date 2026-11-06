@@ -91,15 +91,19 @@ imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
 imagenAlt: Moto de agua sobre las olas
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: Puerto deportivo de Puerto Rico de Gran Canaria, punto de salida del tour
+  alt: 'Puerto deportivo de Puerto Rico de Gran Canaria, punto de salida del tour'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: Barcos en el puerto deportivo de Puerto Rico
+  alt: 'Barcos en el puerto deportivo de Puerto Rico'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
-  alt: Atardecer en el puerto de Puerto Rico de Gran Canaria
+  alt: 'Atardecer en el puerto de Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
-  alt: Puerto de Puerto Rico de Gran Canaria visto desde lo alto
+  alt: 'Puerto de Puerto Rico de Gran Canaria visto desde lo alto'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: Bahía y puerto deportivo de Puerto Rico de Gran Canaria
+  alt: 'Bahía y puerto deportivo de Puerto Rico de Gran Canaria'
+- src: /images/actividades/gran-canaria/mar/calderones-grupo.webp
+  alt: 'Grupo de calderones en el Atlántico canario'
+- src: /images/actividades/gran-canaria/mar/calderon-tropical.webp
+  alt: 'Calderón tropical en aguas canarias'
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

@@ -97,6 +97,10 @@ galeria:
   alt: 'The Guggenheim and Iberdrola Tower by the Bilbao river'
 - src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
   alt: 'View of the Guggenheim Museum Bilbao from the river'
+- src: /images/actividades/bilbao/guggenheim/maman.webp
+  alt: 'Maman sculpture by the Guggenheim at dusk'
+- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+  alt: 'Titanium facade of the Guggenheim Museum Bilbao'
 ---
 
 ## What you will see

@@ -74,6 +74,8 @@ galeria:
   alt: 'Couple lors d’une fête nocturne à Valence'
 - src: https://imgcdn.bokun.tools/c8084ebf-e1a9-412e-b7c1-662ef9b4813b.jpg
   alt: 'Visiteurs se promenant dans la Cité des arts et des sciences'
+- src: /images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp
+  alt: 'Architecture de l’Oceanogràfic de Valence, Cité des Arts'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

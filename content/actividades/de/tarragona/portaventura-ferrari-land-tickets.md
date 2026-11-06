@@ -83,17 +83,19 @@ imagen: /images/actividades/tarragona/portaventura/shambhala-dragon-khan.webp
 imagenAlt: Achterbahnen Shambhala und Dragon Khan
 galeria:
 - src: /images/actividades/tarragona/portaventura/polynesia.webp
-  alt: Bereich Polynesia in PortAventura
+  alt: 'Bereich Polynesia in PortAventura'
 - src: /images/actividades/tarragona/portaventura/dragon-khan.webp
-  alt: Loopings von Dragon Khan
+  alt: 'Loopings von Dragon Khan'
 - src: /images/actividades/tarragona/portaventura/ferrari-land.webp
-  alt: Gesamtansicht von Ferrari Land
+  alt: 'Gesamtansicht von Ferrari Land'
 - src: /images/actividades/tarragona/portaventura/shambhala-lago.webp
-  alt: Shambhala über dem See
+  alt: 'Shambhala über dem See'
 - src: /images/actividades/tarragona/portaventura/fuente.webp
-  alt: Brunnen im PortAventura Park
+  alt: 'Brunnen im PortAventura Park'
 - src: /images/actividades/tarragona/portaventura/montanas-rusas.webp
-  alt: Dragon Khan und Shambhala aus der Ferne
+  alt: 'Dragon Khan und Shambhala aus der Ferne'
+- src: /images/actividades/tarragona/portaventura/caribe-aquatic-toboganes.webp
+  alt: 'Rutschen und Becken des Caribe Aquatic Park'
 ratingProveedor: 4.3
 numeroOpiniones: 2697
 atraccionesRelacionadas:

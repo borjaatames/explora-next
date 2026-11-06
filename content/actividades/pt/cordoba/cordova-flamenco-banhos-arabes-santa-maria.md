@@ -78,17 +78,19 @@ imagen: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
 imagenAlt: "Guitarrista de flamenco a tocar em palco"
 galeria:
 - src: /images/actividades/cordoba/flamenco/bailaora.webp
-  alt: "Bailaora com xaile branco durante um espetáculo de flamenco"
+  alt: 'Bailaora com xaile branco durante um espetáculo de flamenco'
 - src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: "Bailaor em plena dança no palco"
+  alt: 'Bailaor em plena dança no palco'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Cantaora de flamenco a cantar num palco"
+  alt: 'Cantaora de flamenco a cantar num palco'
 - src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: "Guitarrista de flamenco a tocar ao vivo"
+  alt: 'Guitarrista de flamenco a tocar ao vivo'
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Rua da Judiaria de Córdova com a torre da Mesquita ao fundo"
+  alt: 'Rua da Judiaria de Córdova com a torre da Mesquita ao fundo'
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
-  alt: "Torre da Mesquita-Catedral vista de uma rua da Judiaria"
+  alt: 'Torre da Mesquita-Catedral vista de uma rua da Judiaria'
+- src: /images/actividades/cordoba/flamenco/guitarrista.webp
+  alt: 'Guitarrista de flamenco de chapéu a tocar ao vivo'
 ---
 
 ## O que vai ver

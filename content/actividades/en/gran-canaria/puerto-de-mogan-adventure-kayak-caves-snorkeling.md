@@ -95,17 +95,19 @@ imagen: /images/actividades/gran-canaria/mogan-kayak/fgc-kayak-boca-cueva-marina
 imagenAlt: "A kayak at the mouth of a sea cave"
 galeria:
 - src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp
-  alt: "Puerto de Mogán and its bay"
+  alt: 'Puerto de Mogán and its bay'
 - src: /images/actividades/gran-canaria/mogan-kayak/cueva-marina-mogan.webp
-  alt: "Sea cave in the Mogán cliffs"
+  alt: 'Sea cave in the Mogán cliffs'
 - src: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
-  alt: "A group of kayaks along the rocky coast seen from above"
+  alt: 'A group of kayaks along the rocky coast seen from above'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: "Volcanic cliffs of Mogán seen from the sea"
+  alt: 'Volcanic cliffs of Mogán seen from the sea'
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
-  alt: "Rocky seabed under crystal-clear water"
+  alt: 'Rocky seabed under crystal-clear water'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: "Fish over the sandy seabed in Gran Canaria waters"
+  alt: 'Fish over the sandy seabed in Gran Canaria waters'
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: 'Rocky coastline in south-west Gran Canaria'
 ---
 
 ## What you will see

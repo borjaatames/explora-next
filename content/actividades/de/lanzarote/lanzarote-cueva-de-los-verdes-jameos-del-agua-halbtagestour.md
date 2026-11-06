@@ -86,17 +86,19 @@ imagen: /images/actividades/lanzarote/cueva-de-los-verdes/flz-reflejo-galeria.we
 imagenAlt: "Beleuchteter Gang der Cueva de los Verdes, der sich im Wasser spiegelt"
 galeria:
 - src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-entrada-tubo.webp
-  alt: "Eingang zur Lavaröhre der Cueva de los Verdes"
+  alt: 'Eingang zur Lavaröhre der Cueva de los Verdes'
 - src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-espejo-dorado.webp
-  alt: "Goldene Spiegelungen in der Cueva de los Verdes"
+  alt: 'Goldene Spiegelungen in der Cueva de los Verdes'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-lago-reflejo.webp
-  alt: "Unterirdischer See der Jameos del Agua, in dem sich der Himmel spiegelt"
+  alt: 'Unterirdischer See der Jameos del Agua, in dem sich der Himmel spiegelt'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
-  alt: "Türkisfarbener Pool in den Jameos del Agua"
+  alt: 'Türkisfarbener Pool in den Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
-  alt: "Steintreppe und Garten in den Jameos del Agua"
+  alt: 'Steintreppe und Garten in den Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-sala-blanca.webp
-  alt: "Weißer Saal in den Jameos del Agua, gestaltet von César Manrique"
+  alt: 'Weißer Saal in den Jameos del Agua, gestaltet von César Manrique'
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-palmeras.webp
+  alt: 'Weißer Pool und Palmen in den Jameos del Agua'
 avisoReserva: 'Saisonale Aktivität: Die nächsten verfügbaren Termine beginnen im Januar 2027.'
 ---
 

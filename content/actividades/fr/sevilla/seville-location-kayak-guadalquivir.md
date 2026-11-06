@@ -87,15 +87,17 @@ imagen: /images/actividades/sevilla/kayak-guadalquivir/kayaks-guadalquivir-sevil
 imagenAlt: Kayaks sur le Guadalquivir à Séville
 galeria:
 - src: /images/actividades/sevilla/kayak-guadalquivir/guadalquivir-sevilla-aerea.webp
-  alt: Vue aérienne du Guadalquivir traversant Séville
+  alt: 'Vue aérienne du Guadalquivir traversant Séville'
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-sevilla-orilla.webp
-  alt: Torre Sevilla au bord du Guadalquivir, sur le parcours en kayak
+  alt: 'Torre Sevilla au bord du Guadalquivir, sur le parcours en kayak'
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-rio.webp
-  alt: Torre del Oro au bord du Guadalquivir à Séville
+  alt: 'Torre del Oro au bord du Guadalquivir à Séville'
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-noche.webp
-  alt: Torre del Oro et le Guadalquivir la nuit
+  alt: 'Torre del Oro et le Guadalquivir la nuit'
 - src: /images/actividades/sevilla/kayak-guadalquivir/guadalquivir-orilla.webp
-  alt: Rive du Guadalquivir à Séville
+  alt: 'Rive du Guadalquivir à Séville'
+- src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp
+  alt: 'La Torre del Oro au bord du Guadalquivir'
 ratingProveedor: 4.5
 numeroOpiniones: 777
 publicada: true

@@ -77,6 +77,8 @@ galeria:
   alt: 'Waiter serving a tray of tapas'
 - src: https://imgcdn.bokun.tools/cd3b38c5-9f20-4a02-8d72-391b6e515d4c.jpg
   alt: 'Woman with tapas and a glass of cava'
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
+  alt: 'Stall with Iberian hams and cured meats at La Boqueria market'
 publicada: true
 indexar: false
 destacada: false

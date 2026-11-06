@@ -94,17 +94,19 @@ imagen: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
 imagenAlt: "Timanfaya National Park landscape with the sea behind"
 galeria:
 - src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
-  alt: "Solidified lava flow in Timanfaya"
+  alt: 'Solidified lava flow in Timanfaya'
 - src: /images/actividades/lanzarote/el-golfo/flz-charco-clicos.webp
-  alt: "Charco de los Clicos at El Golfo with its green lagoon"
+  alt: 'Charco de los Clicos at El Golfo with its green lagoon'
 - src: /images/actividades/lanzarote/el-golfo/flz-laguna-playa-negra.webp
-  alt: "Green lagoon and black sand beach at El Golfo"
+  alt: 'Green lagoon and black sand beach at El Golfo'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
-  alt: "Turquoise pool at Jameos del Agua"
+  alt: 'Turquoise pool at Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-lago-reflejo.webp
-  alt: "Inner lake at Jameos del Agua reflecting the sky"
+  alt: 'Inner lake at Jameos del Agua reflecting the sky'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-palmeras.webp
-  alt: "White pool and palm trees at Jameos del Agua"
+  alt: 'White pool and palm trees at Jameos del Agua'
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
+  alt: 'Stone steps and garden at Jameos del Agua'
 ---
 
 ## What you will see

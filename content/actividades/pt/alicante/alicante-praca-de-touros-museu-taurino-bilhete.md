@@ -82,17 +82,19 @@ imagen: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-alicante-ae
 imagenAlt: "Vista aérea da praça de touros de Alicante"
 galeria:
 - src: /images/actividades/alicante/fal-plaza-toros/fal-corrales-visitantes.webp
-  alt: "Visitantes nos currais da praça de touros de Alicante"
+  alt: 'Visitantes nos currais da praça de touros de Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-reja-plaza-toros.webp
-  alt: "Grade de ferro forjado na praça de touros de Alicante"
+  alt: 'Grade de ferro forjado na praça de touros de Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-toros-corrales.webp
-  alt: "Touros nos currais da praça de touros de Alicante"
+  alt: 'Touros nos currais da praça de touros de Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-ciudad.webp
-  alt: "Praça de touros de Alicante entre os edifícios da cidade"
+  alt: 'Praça de touros de Alicante entre os edifícios da cidade'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-vista-castillo.webp
-  alt: "Praça de touros de Alicante vista do alto"
+  alt: 'Praça de touros de Alicante vista do alto'
 - src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
-  alt: "Castelo de Santa Bárbara, visível a partir das bancadas"
+  alt: 'Castelo de Santa Bárbara, visível a partir das bancadas'
+- src: /images/actividades/alicante/centro/vista-puerto.webp
+  alt: 'Porto e marina de Alicante vistos do castelo'
 ---
 
 ## O que vai ver

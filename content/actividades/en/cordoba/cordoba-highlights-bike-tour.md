@@ -81,17 +81,19 @@ imagen: /images/actividades/cordoba/bici/fvc-bicis-calle-encalada.webp
 imagenAlt: "Bicycles parked by a whitewashed facade on an Andalusian street"
 galeria:
 - src: /images/actividades/cordoba/bici/fvc-puente-romano-paseantes.webp
-  alt: "People walking on the Roman Bridge with the Mosque-Cathedral behind"
+  alt: 'People walking on the Roman Bridge with the Mosque-Cathedral behind'
 - src: /images/actividades/cordoba/mezquita/torre-campanario.webp
-  alt: "Bell tower of the Mosque-Cathedral of Córdoba"
+  alt: 'Bell tower of the Mosque-Cathedral of Córdoba'
 - src: /images/actividades/cordoba/juderia/fvc-calleja-macetas-azules.webp
-  alt: "Whitewashed alley with blue flowerpots in Córdoba old town"
+  alt: 'Whitewashed alley with blue flowerpots in Córdoba old town'
 - src: /images/actividades/cordoba/bici/fvc-puente-romano-san-rafael.webp
-  alt: "San Rafael monument on the Roman Bridge of Córdoba"
+  alt: 'San Rafael monument on the Roman Bridge of Córdoba'
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: "Calleja de las Flores with the Mosque tower in the background"
+  alt: 'Calleja de las Flores with the Mosque tower in the background'
 - src: /images/actividades/cordoba/bici/fvc-calahorra-puente-reflejo.webp
-  alt: "Calahorra Tower and Roman Bridge reflected in the Guadalquivir"
+  alt: 'Calahorra Tower and Roman Bridge reflected in the Guadalquivir'
+- src: /images/actividades/cordoba/bici/fvc-mezquita-puente-rio.webp
+  alt: 'Mosque and Roman Bridge of Córdoba'
 ---
 
 ## What you will see

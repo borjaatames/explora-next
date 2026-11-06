@@ -82,17 +82,19 @@ imagen: /images/actividades/mallorca/fma-alfabia/pergola-columnas-alfabia.webp
 imagenAlt: "Pérgola de columnas de piedra en los Jardines de Alfabia"
 galeria:
 - src: /images/actividades/mallorca/fma-alfabia/escalinata-palmeras-alfabia.webp
-  alt: "Escalinata entre palmeras en los Jardines de Alfabia"
+  alt: 'Escalinata entre palmeras en los Jardines de Alfabia'
 - src: /images/actividades/mallorca/fma-alfabia/patio-casa-alfabia.webp
-  alt: "Patio de la casa señorial de Alfabia bajo un plátano"
+  alt: 'Patio de la casa señorial de Alfabia bajo un plátano'
 - src: /images/actividades/mallorca/fma-alfabia/glicinia-balaustrada-alfabia.webp
-  alt: "Tronco de glicinia junto a una balaustrada de piedra en Alfabia"
+  alt: 'Tronco de glicinia junto a una balaustrada de piedra en Alfabia'
 - src: /images/actividades/mallorca/fma-alfabia/huerto-citricos-tramuntana.webp
-  alt: "Huerto de cítricos de Alfabia con la Serra de Tramuntana"
+  alt: 'Huerto de cítricos de Alfabia con la Serra de Tramuntana'
 - src: /images/actividades/mallorca/fma-alfabia/limones-cajas-alfabia.webp
-  alt: "Cajas con limones a la entrada de un edificio de Alfabia"
+  alt: 'Cajas con limones a la entrada de un edificio de Alfabia'
 - src: /images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp
-  alt: "Valle de Sóller y la Serra de Tramuntana desde la carretera"
+  alt: 'Valle de Sóller y la Serra de Tramuntana desde la carretera'
+- src: /images/actividades/mallorca/fma-soller/tranvia-paseo-port-soller.webp
+  alt: 'Tranvía de Sóller por el paseo marítimo de Port de Sóller'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en febrero de 2027.'
 ---
 

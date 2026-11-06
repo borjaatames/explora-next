@@ -109,6 +109,8 @@ galeria:
   alt: 'Bucht mit türkisfarbenem Wasser in Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
   alt: 'Wellen am Ufer eines Papagayo-Strandes'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
+  alt: 'Der Strand von Papagayo unter bewölktem Himmel'
 avisoReserva: "Deutschsprachiger Guide nur auf Anfrage: Die Crew spricht in der Regel Spanisch und Englisch. Wenn du Erklärungen auf Deutsch möchtest, frag nach der Buchung beim Veranstalter nach."
 ---
 

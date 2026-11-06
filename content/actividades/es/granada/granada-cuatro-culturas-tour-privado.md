@@ -87,17 +87,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/f7536f42-96d4-4b7d-80b7-c65b5630fcd6.jpg
-  alt: La Alhambra vista desde una calle del Albaicín
+  alt: 'La Alhambra vista desde una calle del Albaicín'
 - src: https://imgcdn.bokun.tools/16c9e572-7fdf-4373-8f09-0ae90cbe822b.jpg
-  alt: Viajeros con Granada a sus espaldas
+  alt: 'Viajeros con Granada a sus espaldas'
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: Casas cueva encaladas del Sacromonte
+  alt: 'Casas cueva encaladas del Sacromonte'
 - src: https://imgcdn.bokun.tools/bfb2d3de-7fa1-480d-af0d-3849f6a986f1.jpg
-  alt: Pareja ante la Alhambra al atardecer
+  alt: 'Pareja ante la Alhambra al atardecer'
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
-  alt: Fachada principal de la Catedral de Granada, obra de Alonso Cano
+  alt: 'Fachada principal de la Catedral de Granada, obra de Alonso Cano'
 - src: https://imgcdn.bokun.tools/f661330d-1a47-46d8-96ff-5e0c374eba6b.jpg
-  alt: Atardecer sobre Granada desde un mirador
+  alt: 'Atardecer sobre Granada desde un mirador'
+- src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-granada-plaza-de-san-nicol-s-16-03-2011-14-27-28-j.webp
+  alt: 'Mirador de San Nicolás en el Albaicín'
 bokunProductId: 793773
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

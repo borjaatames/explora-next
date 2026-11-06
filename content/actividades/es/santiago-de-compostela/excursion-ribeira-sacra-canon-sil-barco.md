@@ -84,17 +84,19 @@ imagen: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-canon-sil-d
 imagenAlt: "Paredes del cañón del Sil vistas desde el catamarán"
 galeria:
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-mirador-canon-sil.webp
-  alt: "Vista del cañón del Sil desde un mirador"
+  alt: 'Vista del cañón del Sil desde un mirador'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-meandro-sil.webp
-  alt: "Meandro del río Sil en la Ribeira Sacra"
+  alt: 'Meandro del río Sil en la Ribeira Sacra'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-vinedos-bancales-sil.webp
-  alt: "Viñedos en bancales sobre el río Sil"
+  alt: 'Viñedos en bancales sobre el río Sil'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-estela-barco-sil.webp
-  alt: "Estela del barco navegando por el cañón del Sil"
+  alt: 'Estela del barco navegando por el cañón del Sil'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-laderas-ribeira-sacra.webp
-  alt: "Laderas de la Ribeira Sacra sobre el Sil"
+  alt: 'Laderas de la Ribeira Sacra sobre el Sil'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/x-ribeira-sacra-pexels-16664200.webp
-  alt: "El cañón del Sil desde lo alto"
+  alt: 'El cañón del Sil desde lo alto'
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-vinedos-valle-sil.webp
+  alt: 'Viñedos y valle del Sil en la Ribeira Sacra'
 ---
 
 ## Qué vas a ver

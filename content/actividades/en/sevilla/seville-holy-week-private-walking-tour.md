@@ -77,6 +77,10 @@ galeria:
   alt: 'Inside a brotherhood church'
 - src: https://imgcdn.bokun.tools/72464782-51ac-48f6-9914-dd99b0d7aea9.jpg
   alt: 'Street in central Seville during Holy Week'
+- src: /images/actividades/sevilla/fotos-biblioteca/06.webp
+  alt: 'Grotesque Gallery in the Royal Alcázar of Seville'
+- src: /images/actividades/sevilla/fotos-biblioteca/01.webp
+  alt: 'Roman amphitheatre of Itálica'
 publicada: true
 indexar: false
 destacada: false

@@ -74,6 +74,10 @@ galeria:
   alt: 'Panoramic view of Toledo'
 - src: https://imgcdn.bokun.tools/5eb9ea78-5112-4254-a0cf-10fb65b0653f.jpg
   alt: 'Arches of the Santa María la Blanca synagogue'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-spain-bridge-castle-fortress-hero.webp
+  alt: 'Panoramic view of Toledo with the Alcázar'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
+  alt: 'Alcázar of Toledo rising above the city'
 publicada: true
 indexar: false
 destacada: false

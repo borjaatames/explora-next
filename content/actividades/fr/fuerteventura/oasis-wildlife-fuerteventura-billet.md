@@ -79,17 +79,19 @@ imagen: /images/actividades/fuerteventura/oasis-park.webp
 imagenAlt: Enclos d’animaux à Oasis Wildlife Fuerteventura
 galeria:
 - src: /images/actividades/fuerteventura/zonas/oasis-park-camellos.webp
-  alt: Chameaux à l’Oasis Park de La Lajita
+  alt: 'Chameaux à l’Oasis Park de La Lajita'
 - src: /images/actividades/fuerteventura/zonas/oasis-park-cactus.webp
-  alt: Jardin de cactus de l’Oasis Park
+  alt: 'Jardin de cactus de l’Oasis Park'
 - src: /images/actividades/fuerteventura/zonas/oasis-park-flamenco.webp
-  alt: Flamant rose à l’Oasis Park
+  alt: 'Flamant rose à l’Oasis Park'
 - src: /images/actividades/fuerteventura/zonas/oasis-park-suricatas.webp
-  alt: Suricates à l’Oasis Park
+  alt: 'Suricates à l’Oasis Park'
 - src: /images/actividades/fuerteventura/zonas/oasis-park-entrada.webp
-  alt: Visiteurs dans les jardins de l’Oasis Park
+  alt: 'Visiteurs dans les jardins de l’Oasis Park'
 - src: /images/actividades/fuerteventura/zonas/sotavento-aerea.webp
-  alt: Vue aérienne de la plage et de la lagune de Sotavento
+  alt: 'Vue aérienne de la plage et de la lagune de Sotavento'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Morro Jable et la plage du Matorral vues depuis les collines'
 ratingProveedor: 4.6
 numeroOpiniones: 3857
 atraccionesRelacionadas:

@@ -97,6 +97,8 @@ galeria:
   alt: 'Los Gigantes bei Sonnenuntergang'
 - src: /images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp
   alt: 'Delfin schwimmt dicht unter der Oberfläche'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Ein Wal bläst an der Oberfläche vor Teneriffa'
 ratingProveedor: 4.9
 numeroOpiniones: 2306
 publicada: true

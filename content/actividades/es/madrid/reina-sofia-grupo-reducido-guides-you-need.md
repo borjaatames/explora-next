@@ -94,11 +94,19 @@ imagen: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edific
 imagenAlt: Fachada del Museo Reina Sofía de noche, con sus ascensores de cristal
 galeria:
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp
-  alt: Galería de la colección permanente
+  alt: 'Galería de la colección permanente'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
-  alt: Entrada del Museo Reina Sofía
+  alt: 'Entrada del Museo Reina Sofía'
 - src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Torres de ascensores del edificio Sabatini
+  alt: 'Torres de ascensores del edificio Sabatini'
+- src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-madrid-6394601959-hero.webp
+  alt: 'Entrada del edificio Sabatini del Museo Reina Sofía con sus torres de ascensores de cristal'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
+  alt: 'Museo Reina Sofía de Madrid'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
+  alt: 'Fachada del Museo Reina Sofía en la plaza de Juan Goytisolo, Madrid'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
+  alt: 'Museo Reina Sofía de Madrid'
 ratingProveedor: 4.9
 numeroOpiniones: 418
 publicada: true

@@ -70,6 +70,10 @@ galeria:
   alt: 'A glass of vermouth with an orange slice'
 - src: https://imgcdn.bokun.tools/623ced48-43f3-41cf-8421-5bde52b5946d.jpg
   alt: 'Ham and red wine in a Madrid tavern'
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-10.webp
+  alt: 'Group toasting with red wine in the wine bar'
+- src: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-09.webp
+  alt: 'Toasting with red wine among shelves of bottles'
 publicada: true
 indexar: false
 destacada: false

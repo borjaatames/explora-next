@@ -91,17 +91,19 @@ imagen: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
 imagenAlt: "The cascade on the Paseo de Canarias in Firgas"
 galeria:
 - src: /images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp
-  alt: "Tiled benches on the Paseo de Gran Canaria in Firgas"
+  alt: 'Tiled benches on the Paseo de Gran Canaria in Firgas'
 - src: /images/actividades/gran-canaria/norte/firgas-paseo-isla-azulejo-hero.webp
-  alt: "Relief of a Canary island on the tiled promenade in Firgas"
+  alt: 'Relief of a Canary island on the tiled promenade in Firgas'
 - src: /images/actividades/gran-canaria/norte/fgc-vegetacion-barranco-flores.webp
-  alt: "Flowering vegetation in a Gran Canaria ravine"
+  alt: 'Flowering vegetation in a Gran Canaria ravine'
 - src: /images/actividades/gran-canaria/platano/plataneras.webp
-  alt: "Banana plants on a farm in the north of Gran Canaria"
+  alt: 'Banana plants on a farm in the north of Gran Canaria'
 - src: /images/actividades/gran-canaria/norte/fgc-costa-norte-isleta.webp
-  alt: "The north coast of Gran Canaria with La Isleta behind"
+  alt: 'The north coast of Gran Canaria with La Isleta behind'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-piscina-natural-roca-aerea.webp
-  alt: "Natural rock pool among volcanic rocks by the ocean"
+  alt: 'Natural rock pool among volcanic rocks by the ocean'
+- src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
+  alt: 'San Juan Bautista church in Arucas, near the distillery'
 avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 ---
 

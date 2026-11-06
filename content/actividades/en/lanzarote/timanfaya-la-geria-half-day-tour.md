@@ -88,17 +88,19 @@ imagen: /images/actividades/lanzarote/timanfaya/flz-volcan-nubes.webp
 imagenAlt: "Reddish volcano under clouds in Timanfaya"
 galeria:
 - src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
-  alt: "Timanfaya National Park landscape with the sea behind"
+  alt: 'Timanfaya National Park landscape with the sea behind'
 - src: /images/actividades/lanzarote/la-geria/flz-hoyos-ladera.webp
-  alt: "Stone-walled vine pits on a slope in La Geria"
+  alt: 'Stone-walled vine pits on a slope in La Geria'
 - src: /images/actividades/lanzarote/el-golfo/flz-caldera-panoramica.webp
-  alt: "Panoramic view of El Golfo crater by the ocean"
+  alt: 'Panoramic view of El Golfo crater by the ocean'
 - src: /images/actividades/lanzarote/el-golfo/flz-mirador-cuerda.webp
-  alt: "Viewpoint over Charco de los Clicos at El Golfo"
+  alt: 'Viewpoint over Charco de los Clicos at El Golfo'
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
-  alt: "Los Hervideros, lava cliffs by the sea"
+  alt: 'Los Hervideros, lava cliffs by the sea'
 - src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
-  alt: "Rows of vine pits in La Geria seen from above"
+  alt: 'Rows of vine pits in La Geria seen from above'
+- src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
+  alt: 'Solidified lava flow in Timanfaya'
 ---
 
 ## What you will see

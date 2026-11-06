@@ -83,6 +83,8 @@ galeria:
   alt: 'Courtyard of the Orange Trees'
 - src: /images/actividades/cordoba/mezquita/fvc-puente-romano-mezquita-dia.webp
   alt: 'The Mosque from the Roman bridge'
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: 'Mosque-Cathedral tower seen from a Jewish Quarter street'
 ratingProveedor: 4.7
 numeroOpiniones: 7507
 publicada: true

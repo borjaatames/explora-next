@@ -68,17 +68,19 @@ imagen: /images/actividades/girona/call-jueu/call-jueu-01.webp
 imagenAlt: Alley in Girona's Jewish Call
 galeria:
 - src: /images/actividades/girona/call-jueu/call-jueu-02.webp
-  alt: Bonastruc ça Porta centre in Girona's Call
+  alt: 'Bonastruc ça Porta centre in Girona''s Call'
 - src: /images/actividades/girona/call-jueu/call-jueu-03.webp
-  alt: Carrer de la Força, the main street of the Call
+  alt: 'Carrer de la Força, the main street of the Call'
 - src: /images/actividades/girona/juego-de-tronos/call-escaleras.webp
-  alt: Stone steps in Girona's Call
+  alt: 'Stone steps in Girona''s Call'
 - src: /images/actividades/girona/juego-de-tronos/casas-onyar-catedral-fondo.webp
-  alt: Onyar houses with the cathedral behind
+  alt: 'Onyar houses with the cathedral behind'
 - src: /images/actividades/girona/juego-de-tronos/muralla-vista-catedral.webp
-  alt: The cathedral seen from the city walls
+  alt: 'The cathedral seen from the city walls'
 - src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
-  alt: Girona city walls walk
+  alt: 'Girona city walls walk'
+- src: /images/actividades/girona/juego-de-tronos/catedral-escalinata.webp
+  alt: 'Girona Cathedral steps'
 ratingProveedor: 4.9
 numeroOpiniones: 140
 atraccionesRelacionadas:

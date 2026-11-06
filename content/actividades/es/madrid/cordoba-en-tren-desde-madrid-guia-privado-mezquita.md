@@ -74,6 +74,10 @@ galeria:
   alt: 'Patio cordobés con macetas'
 - src: https://imgcdn.bokun.tools/e28cee7e-6f3e-4e91-b831-3e06f862d81b.jpg
   alt: 'Interior de la Mezquita-Catedral'
+- src: /images/actividades/cordoba/alcazar/fvc-jardines-estanque-flores.webp
+  alt: 'Estanque y flores en los jardines del Alcázar de los Reyes Cristianos'
+- src: /images/actividades/cordoba/alcazar/fvc-paseo-cipreses-alcazar.webp
+  alt: 'Paseo de cipreses en los jardines del Alcázar'
 publicada: true
 indexar: false
 destacada: false

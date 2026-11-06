@@ -89,17 +89,19 @@ imagen: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-burbuja-amari
 imagenAlt: "Gelbe Vulkanblase in der Fundación César Manrique"
 galeria:
 - src: /images/actividades/lanzarote/jardin-de-cactus/flz-anfiteatro.webp
-  alt: "Blick auf das Amphitheater des Jardín de Cactus in Guatiza"
+  alt: 'Blick auf das Amphitheater des Jardín de Cactus in Guatiza'
 - src: /images/actividades/lanzarote/mirador-del-rio/flz-terraza-barandilla.webp
-  alt: "Terrasse des Mirador del Río über der Meerenge von La Graciosa"
+  alt: 'Terrasse des Mirador del Río über der Meerenge von La Graciosa'
 - src: /images/actividades/lanzarote/mirador-del-rio/flz-interior-cafeteria.webp
-  alt: "Innenraum des Mirador del Río, ein Werk von César Manrique"
+  alt: 'Innenraum des Mirador del Río, ein Werk von César Manrique'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
-  alt: "Türkisfarbener Pool in den Jameos del Agua"
+  alt: 'Türkisfarbener Pool in den Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
-  alt: "Steintreppe und Garten in den Jameos del Agua"
+  alt: 'Steintreppe und Garten in den Jameos del Agua'
 - src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-jardin-estanque.webp
-  alt: "Garten mit Teich in der Fundación César Manrique"
+  alt: 'Garten mit Teich in der Fundación César Manrique'
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-lago-reflejo.webp
+  alt: 'Unterirdischer See der Jameos del Agua, in dem sich der Himmel spiegelt'
 avisoReserva: "Die Sprache des Guides wechselt je nach Tag: Prüfe vor der Buchung, ob an deinem Datum Deutsch angeboten wird."
 ---
 

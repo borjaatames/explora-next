@@ -82,17 +82,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/23532d3d-bf5f-4b74-90e7-2850c0f29ac1.jpg
-  alt: Visitor photographing the Sagrada Familia's stained glass
+  alt: 'Visitor photographing the Sagrada Familia''s stained glass'
 - src: https://imgcdn.bokun.tools/0264bea1-8f66-49fe-8b55-c5386e3dde78.jpg
-  alt: Light from the stained glass across the Sagrada Familia nave
+  alt: 'Light from the stained glass across the Sagrada Familia nave'
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
-  alt: Blue and green stained glass lighting the nave of the Sagrada Familia
+  alt: 'Blue and green stained glass lighting the nave of the Sagrada Familia'
 - src: https://imgcdn.bokun.tools/0160f538-0ca1-4615-8d29-bbcf6a401998.jpg
-  alt: Visitors inside the Sagrada Familia by the stained glass
+  alt: 'Visitors inside the Sagrada Familia by the stained glass'
 - src: https://imgcdn.bokun.tools/49e76055-7c26-428e-b5bd-81a45d1463d2.jpg
-  alt: Couple taking a selfie with the Sagrada Familia towers
+  alt: 'Couple taking a selfie with the Sagrada Familia towers'
 - src: https://imgcdn.bokun.tools/296a3e8e-567e-469c-901d-fd5f53831b21.jpg
-  alt: Columns and coloured stained glass inside the basilica
+  alt: 'Columns and coloured stained glass inside the basilica'
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
+  alt: 'Sagrada Familia basilica in Barcelona with stunning Gothic architecture and soaring spires'
 bokunProductId: 1121863
 fecha_actualizacion: '2026-10-24'
 ---

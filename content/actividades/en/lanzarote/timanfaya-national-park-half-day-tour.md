@@ -82,15 +82,19 @@ imagen: /images/actividades/lanzarote/timanfaya-volcanes.webp
 imagenAlt: The Volcano Route coach among craters in Timanfaya
 galeria:
 - src: /images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp
-  alt: Camel caravan on the slopes of Timanfaya
+  alt: 'Camel caravan on the slopes of Timanfaya'
 - src: /images/actividades/lanzarote/zonas/camellos-timanfaya-dunas.webp
-  alt: Camels crossing the volcanic ash of Timanfaya
+  alt: 'Camels crossing the volcanic ash of Timanfaya'
 - src: /images/actividades/lanzarote/zonas/timanfaya-lava.webp
-  alt: Lava field and volcanoes in Timanfaya
+  alt: 'Lava field and volcanoes in Timanfaya'
 - src: /images/actividades/lanzarote/zonas/volcan-rojo.webp
-  alt: A red-earth volcano in Timanfaya
+  alt: 'A red-earth volcano in Timanfaya'
 - src: /images/actividades/lanzarote/zonas/camellos-echadero.webp
-  alt: Camels waiting for visitors at the Timanfaya camel station
+  alt: 'Camels waiting for visitors at the Timanfaya camel station'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'Lanzarote''s south coast by the Papagayo beaches'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Los Hervideros, lava cliffs by the sea'
 ratingProveedor: 4.3
 numeroOpiniones: 2901
 atraccionesRelacionadas:

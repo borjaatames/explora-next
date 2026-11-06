@@ -79,15 +79,19 @@ imagen: /images/actividades/lanzarote/timanfaya-volcanes.webp
 imagenAlt: L'autocar de la Route des Volcans entre les cratères de Timanfaya
 galeria:
 - src: /images/actividades/lanzarote/zonas/camellos-timanfaya-caravana.webp
-  alt: Caravane de dromadaires sur les pentes de Timanfaya
+  alt: 'Caravane de dromadaires sur les pentes de Timanfaya'
 - src: /images/actividades/lanzarote/zonas/camellos-timanfaya-dunas.webp
-  alt: Dromadaires traversant la cendre volcanique de Timanfaya
+  alt: 'Dromadaires traversant la cendre volcanique de Timanfaya'
 - src: /images/actividades/lanzarote/zonas/timanfaya-lava.webp
-  alt: Champ de lave et volcans à Timanfaya
+  alt: 'Champ de lave et volcans à Timanfaya'
 - src: /images/actividades/lanzarote/zonas/volcan-rojo.webp
-  alt: Un volcan de terre rouge à Timanfaya
+  alt: 'Un volcan de terre rouge à Timanfaya'
 - src: /images/actividades/lanzarote/zonas/camellos-echadero.webp
-  alt: Dromadaires attendant les visiteurs au point de départ de Timanfaya
+  alt: 'Dromadaires attendant les visiteurs au point de départ de Timanfaya'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'La côte sud de Lanzarote près des plages de Papagayo'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Falaises de lave à Los Hervideros avec des volcans en arrière-plan'
 ratingProveedor: 4.3
 numeroOpiniones: 2901
 atraccionesRelacionadas:

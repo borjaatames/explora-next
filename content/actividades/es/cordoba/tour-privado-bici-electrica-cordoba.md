@@ -93,6 +93,8 @@ galeria:
   alt: 'Murallas del Alcázar de los Reyes Cristianos entre palmeras'
 - src: /images/actividades/cordoba/bici/fvc-mezquita-puente-rio.webp
   alt: 'Mezquita-Catedral y Puente Romano junto al Guadalquivir'
+- src: /images/actividades/cordoba/bici/fvc-bicis-calle-encalada.webp
+  alt: 'Bicicletas aparcadas junto a una fachada encalada en una calle andaluza'
 ---
 
 ## Qué vas a ver

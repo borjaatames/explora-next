@@ -69,15 +69,19 @@ imagen: /images/actividades/mallorca/gastronomia/palma-tapas-01.webp
 imagenAlt: Tapas con embutido, queso y aceitunas acompañadas de una bebida
 galeria:
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-02.webp
-  alt: Pa amb oli con jamón
+  alt: 'Pa amb oli con jamón'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-06.webp
-  alt: Jamones y embutidos en la barra de un bar
+  alt: 'Jamones y embutidos en la barra de un bar'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-04.webp
-  alt: La catedral de Palma al atardecer desde el Parc de la Mar
+  alt: 'La catedral de Palma al atardecer desde el Parc de la Mar'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
-  alt: Calle del casco antiguo de Palma
+  alt: 'Calle del casco antiguo de Palma'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-03.webp
-  alt: Pa amb oli, pan con tomate y aceite
+  alt: 'Pa amb oli, pan con tomate y aceite'
+- src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
+  alt: 'Sobrasada, embutido típico de Mallorca'
+- src: /images/actividades/mallorca/gastronomia/sobrasada-02.webp
+  alt: 'Sobrasadas en un puesto de mercado mallorquín'
 ratingProveedor: 4.6
 numeroOpiniones: 789
 atraccionesRelacionadas:

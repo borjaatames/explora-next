@@ -84,17 +84,19 @@ imagen: /images/actividades/jerez-de-la-frontera/centro/catedral-fachada-princip
 imagenAlt: "Façade principale de la cathédrale de Jerez"
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/centro/esquina-iglesia-historica.webp
-  alt: "Angle d'une église historique dans la vieille ville de Jerez"
+  alt: 'Angle d''une église historique dans la vieille ville de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.webp
-  alt: "Porte d'entrée de l'Alcázar de Jerez dans l'enceinte almohade"
+  alt: 'Porte d''entrée de l''Alcázar de Jerez dans l''enceinte almohade'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-fachadas.webp
-  alt: "Façades blanches et jaunes à balcons dans la Calle Larga de Jerez"
+  alt: 'Façades blanches et jaunes à balcons dans la Calle Larga de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/fachada-iglesia-historica.webp
-  alt: "Façade baroque d'une église historique de Jerez"
+  alt: 'Façade baroque d''une église historique de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
-  alt: "Rue de la vieille ville de Jerez avec de grandes fenêtres et une terrasse"
+  alt: 'Rue de la vieille ville de Jerez avec de grandes fenêtres et une terrasse'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-yeserias.webp
-  alt: "Stucs décoratifs sur la façade d'un immeuble de la Calle Larga"
+  alt: 'Stucs décoratifs sur la façade d''un immeuble de la Calle Larga'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: 'Musiciens en direct dans un tablao flamenco de Jerez'
 ---
 
 ## Ce que vous verrez

@@ -79,17 +79,19 @@ imagen: /images/actividades/alicante/flamenco/flamenco-pareja.webp
 imagenAlt: "Artistas flamencos en escena durante un espectáculo en directo"
 galeria:
 - src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: "Guitarrista flamenco tocando sobre el escenario"
+  alt: 'Guitarrista flamenco tocando sobre el escenario'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Cantaora flamenca cantando en un escenario"
+  alt: 'Cantaora flamenca cantando en un escenario'
 - src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
-  alt: "Calle del casco antiguo de Valencia de noche"
+  alt: 'Calle del casco antiguo de Valencia de noche'
 - src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: "Bailaor en pleno baile sobre el escenario"
+  alt: 'Bailaor en pleno baile sobre el escenario'
 - src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: "Guitarrista flamenco con sombrero tocando en directo"
+  alt: 'Guitarrista flamenco con sombrero tocando en directo'
 - src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
-  alt: "Barrio del Carmen, en el centro de Valencia, iluminado de noche"
+  alt: 'Barrio del Carmen, en el centro de Valencia, iluminado de noche'
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: 'Bailaora con mantón y guitarrista en un espectáculo flamenco'
 ---
 
 ## Qué vas a ver

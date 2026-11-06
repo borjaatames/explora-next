@@ -86,17 +86,19 @@ imagen: /images/actividades/salamanca/universidad/biblioteca.webp
 imagenAlt: "Historic library of the University of Salamanca"
 galeria:
 - src: /images/actividades/salamanca/universidad/fachada-universidad.webp
-  alt: "Plateresque facade of the University of Salamanca"
+  alt: 'Plateresque facade of the University of Salamanca'
 - src: /images/actividades/salamanca/universidad/medallon-reyes.webp
-  alt: "Catholic Monarchs medallion on the facade"
+  alt: 'Catholic Monarchs medallion on the facade'
 - src: /images/actividades/salamanca/universidad/biblioteca-interior.webp
-  alt: "Inner doorway leading to the library"
+  alt: 'Inner doorway leading to the library'
 - src: /images/actividades/salamanca/universidad/biblioteca-estanterias.webp
-  alt: "Shelves and globes in the historic library"
+  alt: 'Shelves and globes in the historic library'
 - src: /images/actividades/salamanca/universidad/patio-escuelas.webp
-  alt: "Escuelas Menores courtyard"
+  alt: 'Escuelas Menores courtyard'
 - src: /images/actividades/salamanca/universidad/escuelas-menores.webp
-  alt: "Escuelas Menores cloister"
+  alt: 'Escuelas Menores cloister'
+- src: /images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero-hero.webp
+  alt: 'Historic buildings of Salamanca with the towers of La Clerecía'
 ---
 
 ## What you will see

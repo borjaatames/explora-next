@@ -81,6 +81,8 @@ galeria:
   alt: 'Galerie de la Plaza de España avec ses bancs en azulejos'
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
   alt: 'Application DaremApp avec le parcours autonome'
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
+  alt: 'La place d’Espagne illuminée la nuit'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

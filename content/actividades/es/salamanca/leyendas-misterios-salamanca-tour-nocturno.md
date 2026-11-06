@@ -85,17 +85,19 @@ imagen: /images/actividades/salamanca/centro/calle-noche.webp
 imagenAlt: "Calle del casco antiguo de Salamanca de noche con una torre iluminada al fondo"
 galeria:
 - src: /images/actividades/salamanca/noche/plaza-mayor-noche-gente.webp
-  alt: "Plaza Mayor de Salamanca iluminada por la noche"
+  alt: 'Plaza Mayor de Salamanca iluminada por la noche'
 - src: /images/actividades/salamanca/noche/plaza-mayor-soportales-noche.webp
-  alt: "Soportales de la Plaza Mayor de Salamanca de noche"
+  alt: 'Soportales de la Plaza Mayor de Salamanca de noche'
 - src: /images/actividades/salamanca/leyendas-nocturno/palacio-monterrey-noche.webp
-  alt: "Palacio de Monterrey iluminado de noche"
+  alt: 'Palacio de Monterrey iluminado de noche'
 - src: /images/actividades/salamanca/catedral/catedral-desde-clerecia.webp
-  alt: "Catedrales de Salamanca iluminadas al anochecer"
+  alt: 'Catedrales de Salamanca iluminadas al anochecer'
 - src: /images/actividades/salamanca/leyendas-nocturno/cresteria-monterrey-noche.webp
-  alt: "Torre y crestería del Palacio de Monterrey de noche"
+  alt: 'Torre y crestería del Palacio de Monterrey de noche'
 - src: /images/actividades/salamanca/centro/puente-romano-noche.webp
-  alt: "Puente romano de Salamanca iluminado de noche"
+  alt: 'Puente romano de Salamanca iluminado de noche'
+- src: /images/actividades/salamanca/centro/casa-conchas.webp
+  alt: 'Fachada de la Casa de las Conchas'
 ---
 
 ## Qué vas a ver

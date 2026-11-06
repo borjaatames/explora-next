@@ -78,18 +78,16 @@ keywords:
 imagen: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
 imagenAlt: 'Torres de ascensores del edificio Sabatini'
 galeria:
-- src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Torres de ascensores del edificio Sabatini
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
-  alt: Museo Reina Sofía de Madrid
+  alt: 'Museo Reina Sofía de Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
-  alt: Ascensores de cristal de la fachada del Museo Reina Sofía
+  alt: 'Ascensores de cristal de la fachada del Museo Reina Sofía'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
-  alt: Fachada del Museo Reina Sofía en la plaza de Juan Goytisolo, Madrid
+  alt: 'Fachada del Museo Reina Sofía en la plaza de Juan Goytisolo, Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
-  alt: Museo Reina Sofía de Madrid
+  alt: 'Museo Reina Sofía de Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
-  alt: Museo Reina Sofía de Madrid
+  alt: 'Museo Reina Sofía de Madrid'
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

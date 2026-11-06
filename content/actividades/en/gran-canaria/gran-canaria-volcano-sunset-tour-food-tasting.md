@@ -105,6 +105,10 @@ galeria:
   alt: 'Sunset from Pico de las Nieves with Mount Teide on the horizon'
 - src: /images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp
   alt: 'Silhouette of Roque Nublo at sunset above the sea of clouds'
+- src: /images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp
+  alt: 'Sunset by Roque Nublo'
+- src: /images/actividades/gran-canaria/estrellas/via-lactea-molino.webp
+  alt: 'The Milky Way over a windmill in Gran Canaria'
 ---
 
 ## What you will see

@@ -90,6 +90,8 @@ galeria:
   alt: 'Catedral de Palma con el cielo rosado del atardecer'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
   alt: 'Bailaora flamenca en blanco y negro'
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+  alt: 'Catedral de Palma sobre la muralla del mar'
 ---
 
 ## Qué vas a ver

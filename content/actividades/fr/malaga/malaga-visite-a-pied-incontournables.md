@@ -75,15 +75,19 @@ imagen: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp
 imagenAlt: Le théâtre romain de Malaga et l'Alcazaba
 galeria:
 - src: /images/actividades/malaga/calle-larios/calle-larios-unsplash-ZZEjI6yNxd0.webp
-  alt: La calle Larios, dans le centre de Malaga
+  alt: 'La calle Larios, dans le centre de Malaga'
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp
-  alt: Façade de la cathédrale de Malaga
+  alt: 'Façade de la cathédrale de Malaga'
 - src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
-  alt: Remparts de l'Alcazaba de Malaga
+  alt: 'Remparts de l''Alcazaba de Malaga'
 - src: /images/actividades/malaga/museo-picasso/fachada-museo.webp
-  alt: Façade du musée Picasso de Malaga
+  alt: 'Façade du musée Picasso de Malaga'
 - src: /images/actividades/malaga/teatro-romano/gradas.webp
-  alt: Gradins du théâtre romain de Malaga
+  alt: 'Gradins du théâtre romain de Malaga'
+- src: /images/actividades/malaga/teatro-romano/teatro-romano-malaga-hero.webp
+  alt: 'Théâtre romain de Málaga à côté de l''Alcazaba'
+- src: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
+  alt: 'Façade principale de la cathédrale de Málaga'
 ratingProveedor: 4.8
 numeroOpiniones: 150
 publicada: true

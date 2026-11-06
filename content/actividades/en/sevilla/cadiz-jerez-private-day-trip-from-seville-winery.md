@@ -81,15 +81,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/09e629c5-d9ff-4267-b4bb-cf1270eaec53.jpg
-  alt: Aerial view of Cádiz surrounded by the sea
+  alt: 'Aerial view of Cádiz surrounded by the sea'
 - src: /images/actividades/cadiz/centro/mercado-central.webp
-  alt: Stalls at Cádiz Central Market
+  alt: 'Stalls at Cádiz Central Market'
 - src: https://imgcdn.bokun.tools/a83cb5d0-61f3-490b-99ec-adbbcf207165.jpg
-  alt: Fresh fish on a market stall
+  alt: 'Fresh fish on a market stall'
 - src: /images/actividades/cadiz/bodega/botas-arcos.webp
-  alt: Rows of casks under the arches of a Jerez winery
+  alt: 'Rows of casks under the arches of a Jerez winery'
 - src: /images/actividades/cadiz/mar/caleta-balneario.webp
-  alt: La Caleta beach and the old bathhouse
+  alt: 'La Caleta beach and the old bathhouse'
+- src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
+  alt: 'San Sebastián Castle at the mouth of the bay'
+- src: /images/actividades/cadiz/mar/puente-1812-noche.webp
+  alt: 'The Constitution of 1812 Bridge lit up at night'
 bokunProductId: 860683
 fecha_actualizacion: '2026-10-24'
 privada: true

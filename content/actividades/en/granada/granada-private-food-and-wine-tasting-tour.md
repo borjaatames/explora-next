@@ -76,17 +76,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/4214002f-9897-48cf-aa8e-4e4ccb0dd187.jpg
-  alt: Travellers with their guide in a tapas bar
+  alt: 'Travellers with their guide in a tapas bar'
 - src: https://imgcdn.bokun.tools/c46ef758-74b3-418b-95d6-00b5528f1756.jpg
-  alt: Vermouth chalkboard and bottles on the bar
+  alt: 'Vermouth chalkboard and bottles on the bar'
 - src: https://imgcdn.bokun.tools/0014da5c-e023-4ff3-9f28-68a6f06ed577.jpg
-  alt: Vermouth with ice and orange
+  alt: 'Vermouth with ice and orange'
 - src: /images/actividades/granada/wikimedia/granada-tapas-plato-05.webp
-  alt: Red wine with cheese and potato tapas in Granada
+  alt: 'Red wine with cheese and potato tapas in Granada'
 - src: https://imgcdn.bokun.tools/e8e66f21-f760-41df-8ea5-48bd986c73a7.jpg
-  alt: Inside a traditional Granada bar
+  alt: 'Inside a traditional Granada bar'
 - src: /images/actividades/granada/wikimedia/granada-calle-navas-02.webp
-  alt: Calle Navas, the tapas bar street in central Granada
+  alt: 'Calle Navas, the tapas bar street in central Granada'
+- src: /images/actividades/granada/wikimedia/granada-catedral-06.webp
+  alt: 'Puerta del Perdón of Granada Cathedral'
 bokunProductId: 933245
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -92,6 +92,8 @@ galeria:
   alt: 'Calleja de las Flores con macetas azules'
 - src: https://imgcdn.bokun.tools/70d7cebd-1c7c-44d2-a851-927dc58bacce.jpg
   alt: 'Puente Romano y Mezquita de Córdoba al atardecer'
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-bosque-columnas.webp
+  alt: 'Bosque de columnas de la Mezquita de Córdoba'
 bokunProductId: 793766
 fecha_actualizacion: '2026-10-24'
 privada: true

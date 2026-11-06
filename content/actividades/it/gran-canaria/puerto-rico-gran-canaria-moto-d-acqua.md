@@ -91,15 +91,19 @@ imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
 imagenAlt: Una moto d'acqua che corre sulle onde
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: Il porto turistico di Puerto Rico de Gran Canaria, punto di partenza del tour
+  alt: 'Il porto turistico di Puerto Rico de Gran Canaria, punto di partenza del tour'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: Barche nel porto turistico di Puerto Rico
+  alt: 'Barche nel porto turistico di Puerto Rico'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
-  alt: Tramonto sul porto di Puerto Rico de Gran Canaria
+  alt: 'Tramonto sul porto di Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
-  alt: Il porto di Puerto Rico a Gran Canaria visto dall'alto
+  alt: 'Il porto di Puerto Rico a Gran Canaria visto dall''alto'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: La baia e il porto turistico di Puerto Rico, Gran Canaria
+  alt: 'La baia e il porto turistico di Puerto Rico, Gran Canaria'
+- src: /images/actividades/gran-canaria/mar/calderones-grupo.webp
+  alt: 'Un gruppo di globicefali nell''Atlantico delle Canarie'
+- src: /images/actividades/gran-canaria/mar/calderon-tropical.webp
+  alt: 'Un globicefalo di Gray nelle acque delle Canarie'
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

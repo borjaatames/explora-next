@@ -72,6 +72,10 @@ galeria:
   alt: 'Mère et fille à un belvédère sur Bilbao'
 - src: https://imgcdn.bokun.tools/6c9f7cae-95eb-4ac8-ace3-952cd6c9cd81.jpg
   alt: 'Le Guggenheim de Bilbao reflété dans la ría'
+- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
+  alt: 'Bilbao vue depuis le mont Artxanda'
+- src: /images/actividades/bilbao/casco-viejo/teatro-arriaga.webp
+  alt: 'Le théâtre Arriaga au bord de la ría de Bilbao'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

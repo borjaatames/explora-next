@@ -95,6 +95,8 @@ galeria:
   alt: 'Majorera goat on a farm'
 - src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
   alt: 'Fresh goat cheese being made in a cheese dairy'
+- src: /images/actividades/fuerteventura/queso/ffv-ensalada-queso-cabra.webp
+  alt: 'Salad with goat cheese and figs'
 ---
 
 ## What you will see

@@ -91,17 +91,19 @@ imagen: /images/actividades/fuerteventura/jeep-cofete/ffv-cabras-junto-todoterre
 imagenAlt: "Ziegen neben den Geländewagen bei einem Safari-Stopp auf Fuerteventura"
 galeria:
 - src: /images/actividades/fuerteventura/zonas/cofete-cresta.webp
-  alt: "Bergkamm des Jandía-Massivs über Cofete"
+  alt: 'Bergkamm des Jandía-Massivs über Cofete'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-1.webp
-  alt: "Strand von Cofete vom Berg aus gesehen"
+  alt: 'Strand von Cofete vom Berg aus gesehen'
 - src: /images/actividades/fuerteventura/zonas/villa-winter-ladera.webp
-  alt: "Villa Winter von der Piste aus gesehen"
+  alt: 'Villa Winter von der Piste aus gesehen'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-arena-montanas.webp
-  alt: "Sand von Cofete am Fuß der Jandía-Berge"
+  alt: 'Sand von Cofete am Fuß der Jandía-Berge'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-5.webp
-  alt: "Strand von Cofete und Montaña Aguda"
+  alt: 'Strand von Cofete und Montaña Aguda'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: "Strand von Morro Jable"
+  alt: 'Strand von Morro Jable'
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: 'Bucht von Corralejo'
 ---
 
 ## Was du siehst

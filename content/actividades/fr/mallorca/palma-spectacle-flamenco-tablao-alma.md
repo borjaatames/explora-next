@@ -89,6 +89,8 @@ galeria:
   alt: 'La cathédrale de Palma sous un ciel rose au coucher du soleil'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
   alt: 'Danseuse de flamenco en noir et blanc'
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+  alt: 'La cathédrale de Palma au-dessus des remparts'
 metaTitle: 'Flamenco à Palma : Tablao Alma'
 ---
 

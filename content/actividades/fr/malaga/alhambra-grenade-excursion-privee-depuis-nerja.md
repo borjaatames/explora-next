@@ -80,6 +80,10 @@ galeria:
   alt: 'Voyageurs pendant la visite de l’Alhambra'
 - src: https://imgcdn.bokun.tools/4ea9e444-f908-4c46-a6c5-31ebcaba6612.jpg
   alt: 'Fenêtre nasride avec vue'
+- src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
+  alt: 'L''Alcazaba de l''Alhambra'
+- src: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-nature-andalusia-hero.webp
+  alt: 'Jardins du Generalife'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

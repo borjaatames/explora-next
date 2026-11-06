@@ -90,17 +90,19 @@ imagen: /images/actividades/mallorca/formentor/formentor-bahia-barcos-vista-aere
 imagenAlt: "Boats in Formentor bay, aerial view"
 galeria:
 - src: /images/actividades/mallorca/gastronomia/sobrasada-02.webp
-  alt: "Sobrasadas at a Mallorcan market stall"
+  alt: 'Sobrasadas at a Mallorcan market stall'
 - src: /images/actividades/mallorca/fma-formentor/cala-mallorca-barcos-fondeados.webp
-  alt: "Boats anchored in a Mallorcan cove"
+  alt: 'Boats anchored in a Mallorcan cove'
 - src: /images/actividades/mallorca/formentor/platja-formentor-agua-turquesa.webp
-  alt: "Turquoise water at Formentor beach"
+  alt: 'Turquoise water at Formentor beach'
 - src: /images/actividades/mallorca/fma-formentor/es-colomer-islote.webp
-  alt: "Es Colomer islet from the viewpoint"
+  alt: 'Es Colomer islet from the viewpoint'
 - src: /images/actividades/mallorca/fma-formentor/carretera-formentor-curvas.webp
-  alt: "Winding road towards Cap de Formentor"
+  alt: 'Winding road towards Cap de Formentor'
 - src: /images/actividades/mallorca/gastronomia/sobrasada-01.webp
-  alt: "Sobrasada, a typical Mallorcan cured sausage"
+  alt: 'Sobrasada, a typical Mallorcan cured sausage'
+- src: /images/actividades/mallorca/fma-formentor/formentor-puesta-sol.webp
+  alt: 'Sunset over the Formentor cliffs'
 avisoReserva: 'Seasonal activity: the next available dates start in April 2027.'
 ---
 

@@ -98,6 +98,8 @@ galeria:
   alt: 'Los Gigantes al tramonto'
 - src: /images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp
   alt: 'Un delfino che nuota vicino alla superficie'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Globicefalo che soffia nelle acque del sud di Tenerife'
 ratingProveedor: 4.9
 numeroOpiniones: 2306
 publicada: true

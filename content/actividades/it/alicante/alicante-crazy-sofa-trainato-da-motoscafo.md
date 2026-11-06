@@ -84,17 +84,19 @@ imagen: /images/actividades/tarragona/banana/fta-banana-boats-agua-turquesa.webp
 imagenAlt: "Gonfiabili acquatici trainabili che galleggiano sul mare"
 galeria:
 - src: /images/actividades/tarragona/banana/fta-lancha-remolcando-banana-aerea.webp
-  alt: "Motoscafo che traina un gonfiabile a tutta velocità, vista aerea"
+  alt: 'Motoscafo che traina un gonfiabile a tutta velocità, vista aerea'
 - src: /images/actividades/alicante/fal-crazy-sofa/fal-lancha-remolcando-hinchable.webp
-  alt: "Motoscafo che traina un gonfiabile in mare aperto"
+  alt: 'Motoscafo che traina un gonfiabile in mare aperto'
 - src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: "Porto e marina di Alicante visti dal castello"
+  alt: 'Porto e marina di Alicante visti dal castello'
 - src: /images/actividades/ibiza/barcos/fi1-barco-navegando-estela.webp
-  alt: "Motoscafo che naviga lasciando una scia sul mare"
+  alt: 'Motoscafo che naviga lasciando una scia sul mare'
 - src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: "Spiaggia del Postiguet con il castello di Santa Bárbara"
+  alt: 'Spiaggia del Postiguet con il castello di Santa Bárbara'
 - src: /images/actividades/tarragona/banana/fta-banana-boat-arena-chalecos.webp
-  alt: "Gonfiabile con giubbotti di salvataggio sulla riva"
+  alt: 'Gonfiabile con giubbotti di salvataggio sulla riva'
+- src: /images/actividades/tarragona/banana/fta-moto-agua-remolcando-banana.webp
+  alt: 'Imbarcazione che traina un banana boat vicino alla riva'
 avisoReserva: "L'equipaggio o la guida parla inglese, francese e spagnolo: non ci sono spiegazioni in italiano."
 ---
 

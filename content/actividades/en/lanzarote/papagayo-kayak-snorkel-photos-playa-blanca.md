@@ -88,17 +88,19 @@ imagen: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
 imagenAlt: "Turquoise-water cove at Papagayo"
 galeria:
 - src: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
-  alt: "Person snorkelling seen from above"
+  alt: 'Person snorkelling seen from above'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
-  alt: "Papagayo beach under a cloudy sky"
+  alt: 'Papagayo beach under a cloudy sky'
 - src: /images/actividades/lanzarote/snorkel/flz-fondo-rocoso.webp
-  alt: "Rocky seabed seen through clear water"
+  alt: 'Rocky seabed seen through clear water'
 - src: /images/actividades/lanzarote/kayak-papagayo.webp
-  alt: "Red kayak on a white sand beach"
+  alt: 'Red kayak on a white sand beach'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
-  alt: "Playa Blanca in southern Lanzarote"
+  alt: 'Playa Blanca in southern Lanzarote'
 - src: /images/actividades/lanzarote/papagayo/flz-playas-veleros.webp
-  alt: "Papagayo beaches with anchored sailing boats"
+  alt: 'Papagayo beaches with anchored sailing boats'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+  alt: 'Papagayo cove seen from the cliff'
 ---
 
 ## What you will see

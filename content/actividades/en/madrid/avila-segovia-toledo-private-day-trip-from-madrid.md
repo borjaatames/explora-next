@@ -75,6 +75,10 @@ galeria:
   alt: 'The Alcázar of Toledo'
 - src: https://imgcdn.bokun.tools/bf3249ac-1ddc-4c7f-a8e4-1e48a8d2432d.jpg
   alt: 'Toledo street with the cathedral tower'
+- src: /images/actividades/avila/avila/pixabay-2709091-hero.webp
+  alt: 'Medieval walls and towers of Ávila, Spain''s historic walled city'
+- src: /images/actividades/avila/avila/avila-catedral-adarve-hero.webp
+  alt: 'Gothic Cathedral of Avila with fortified walls and stone ramparts'
 publicada: true
 indexar: false
 destacada: false

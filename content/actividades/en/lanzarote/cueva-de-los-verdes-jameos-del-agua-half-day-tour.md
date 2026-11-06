@@ -86,17 +86,19 @@ imagen: /images/actividades/lanzarote/cueva-de-los-verdes/flz-reflejo-galeria.we
 imagenAlt: "Lit gallery of Cueva de los Verdes reflected in water"
 galeria:
 - src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-entrada-tubo.webp
-  alt: "Entrance to the lava tube of Cueva de los Verdes"
+  alt: 'Entrance to the lava tube of Cueva de los Verdes'
 - src: /images/actividades/lanzarote/cueva-de-los-verdes/flz-espejo-dorado.webp
-  alt: "Golden reflections inside Cueva de los Verdes"
+  alt: 'Golden reflections inside Cueva de los Verdes'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-lago-reflejo.webp
-  alt: "Inner lake at Jameos del Agua reflecting the sky"
+  alt: 'Inner lake at Jameos del Agua reflecting the sky'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
-  alt: "Turquoise pool at Jameos del Agua"
+  alt: 'Turquoise pool at Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
-  alt: "Stone steps and garden at Jameos del Agua"
+  alt: 'Stone steps and garden at Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-sala-blanca.webp
-  alt: "White room at Jameos del Agua designed by César Manrique"
+  alt: 'White room at Jameos del Agua designed by César Manrique'
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-palmeras.webp
+  alt: 'White pool and palm trees at Jameos del Agua'
 avisoReserva: 'Seasonal activity: the next available dates start in January 2027.'
 ---
 

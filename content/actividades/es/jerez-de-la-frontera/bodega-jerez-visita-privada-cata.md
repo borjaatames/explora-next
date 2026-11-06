@@ -78,15 +78,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/f9a78837-7ccf-414c-83ae-7ed022e202fe.jpeg
-  alt: Nave de la bodega con arcos y botas
+  alt: 'Nave de la bodega con arcos y botas'
 - src: https://imgcdn.bokun.tools/7c0c3d57-1b33-433b-9d51-9cc2b0b8886d.jpeg
-  alt: Entrada de la bodega con palmeras y fuente
+  alt: 'Entrada de la bodega con palmeras y fuente'
 - src: /images/actividades/jerez-de-la-frontera/centro/bodega-cata-vinos-hero.webp
-  alt: Cata de vinos de Jerez
+  alt: 'Cata de vinos de Jerez'
 - src: https://imgcdn.bokun.tools/73f2cb65-36a8-4aad-97db-6b32ad89701a.jpeg
-  alt: Hileras de botas en la bodega
+  alt: 'Hileras de botas en la bodega'
 - src: https://imgcdn.bokun.tools/d6d6dbe0-b9c5-442d-b353-83b3bfe4e36e.jpeg
-  alt: Botas apiladas en una nave de la bodega
+  alt: 'Botas apiladas en una nave de la bodega'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: 'Músicos en directo en un tablao flamenco de Jerez'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
+  alt: 'Público disfrutando de un espectáculo flamenco en Jerez'
 bokunProductId: 83913
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -78,17 +78,19 @@ imagen: /images/actividades/jerez-de-la-frontera/bodegas/botas-roble-apiladas.we
 imagenAlt: "Oak casks stacked in a winery"
 galeria:
 - src: /images/actividades/cadiz/bodega/vinedos-albariza.webp
-  alt: "Vineyards on white albariza soil in the Jerez wine region"
+  alt: 'Vineyards on white albariza soil in the Jerez wine region'
 - src: /images/actividades/jerez-de-la-frontera/bodegas/bota-grifo-laton.webp
-  alt: "Oak cask with a brass tap"
+  alt: 'Oak cask with a brass tap'
 - src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-generoso.webp
-  alt: "Glass of fortified wine on a wooden board"
+  alt: 'Glass of fortified wine on a wooden board'
 - src: /images/actividades/jerez-de-la-frontera/tapas/tabla-tapas-cazuelas.webp
-  alt: "Selection of tapas in small clay dishes"
+  alt: 'Selection of tapas in small clay dishes'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
-  alt: "Old town street in Jerez with large windows and a terrace"
+  alt: 'Old town street in Jerez with large windows and a terrace'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-arboles.webp
-  alt: "Dome of Jerez Cathedral framed by trees"
+  alt: 'Dome of Jerez Cathedral framed by trees'
+- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
+  alt: 'Glass of amber wine on a wooden table'
 ---
 
 ## What you will see

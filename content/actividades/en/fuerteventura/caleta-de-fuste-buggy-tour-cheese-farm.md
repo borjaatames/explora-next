@@ -95,17 +95,19 @@ imagen: /images/actividades/fuerteventura/buggy/ffv-buggy-pista-tierra-roja.webp
 imagenAlt: "Buggy on a reddish dirt track"
 galeria:
 - src: /images/actividades/fuerteventura/buggy/ffv-tres-buggies-arena.webp
-  alt: "Three buggies in a row on the sand"
+  alt: 'Three buggies in a row on the sand'
 - src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
-  alt: "Herd of goats on a hillside in Fuerteventura"
+  alt: 'Herd of goats on a hillside in Fuerteventura'
 - src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
-  alt: "Fresh goat cheese being made in a cheese dairy"
+  alt: 'Fresh goat cheese being made in a cheese dairy'
 - src: /images/actividades/fuerteventura/buggy/ffv-buggy-junto-al-mar.webp
-  alt: "Buggy parked on the sand by the sea"
+  alt: 'Buggy parked on the sand by the sea'
 - src: /images/actividades/fuerteventura/la-pared/ffv-costa-oeste-oleaje.webp
-  alt: "Waves on the west coast of Fuerteventura"
+  alt: 'Waves on the west coast of Fuerteventura'
 - src: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
-  alt: "Majorera goat with long horns"
+  alt: 'Majorera goat with long horns'
+- src: /images/actividades/fuerteventura/buggy/ffv-buggy-corralejo-polvo.webp
+  alt: 'Buggy kicking up dust on a dirt track in Corralejo'
 ---
 
 ## What you will see

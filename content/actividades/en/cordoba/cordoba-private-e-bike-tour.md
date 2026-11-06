@@ -93,6 +93,8 @@ galeria:
   alt: 'Walls of the Alcázar of the Christian Monarchs among palm trees'
 - src: /images/actividades/cordoba/bici/fvc-mezquita-puente-rio.webp
   alt: 'Mosque-Cathedral and Roman Bridge by the Guadalquivir'
+- src: /images/actividades/cordoba/bici/fvc-bicis-calle-encalada.webp
+  alt: 'Bicycles parked by a whitewashed facade on an Andalusian street'
 ---
 
 ## What you will see

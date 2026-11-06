@@ -78,13 +78,19 @@ imagen: /images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-pl
 imagenAlt: Seville Cathedral and the Giralda lit up from Plaza Virgen de los Reyes
 galeria:
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
-  alt: Callejón del Agua in the Santa Cruz quarter
+  alt: 'Callejón del Agua in the Santa Cruz quarter'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
-  alt: Plaza de España in Seville
+  alt: 'Plaza de España in Seville'
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp
-  alt: Mudéjar arcade in the Royal Alcázar
+  alt: 'Mudéjar arcade in the Royal Alcázar'
 - src: /images/actividades/sevilla/catedral-giralda/giralda-torre-cielo-azul.webp
-  alt: The Giralda against a blue sky
+  alt: 'The Giralda against a blue sky'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: 'Seville Cathedral and the Giralda'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: 'Seville Cathedral façade among palm trees'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-panoramica.webp
+  alt: 'Domes and pinnacles of the Cathedral with the Giralda'
 ratingProveedor: 4.6
 numeroOpiniones: 231
 publicada: true

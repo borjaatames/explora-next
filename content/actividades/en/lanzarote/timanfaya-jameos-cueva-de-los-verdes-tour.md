@@ -87,17 +87,19 @@ imagen: /images/actividades/lanzarote/timanfaya-jameos.webp
 imagenAlt: Reddish volcanic cones of the Fire Mountains in Timanfaya
 galeria:
 - src: /images/actividades/lanzarote/zonas/jameos-piscina.webp
-  alt: The white pool at Jameos del Agua
+  alt: 'The white pool at Jameos del Agua'
 - src: /images/actividades/lanzarote/zonas/cueva-de-los-verdes-galeria.webp
-  alt: Illuminated lava gallery in Cueva de los Verdes
+  alt: 'Illuminated lava gallery in Cueva de los Verdes'
 - src: /images/actividades/lanzarote/zonas/timanfaya-carretera.webp
-  alt: Road leading to the Fire Mountains of Timanfaya
+  alt: 'Road leading to the Fire Mountains of Timanfaya'
 - src: /images/actividades/lanzarote/zonas/jameos-jardin.webp
-  alt: Garden and pool at Jameos del Agua, designed by César Manrique
+  alt: 'Garden and pool at Jameos del Agua, designed by César Manrique'
 - src: /images/actividades/lanzarote/zonas/valle-volcanico.webp
-  alt: Volcanic valley with colourful cones in Lanzarote
+  alt: 'Volcanic valley with colourful cones in Lanzarote'
 - src: /images/actividades/lanzarote/zonas/jameos-reflejo.webp
-  alt: The sky reflected in the Jameos del Agua lake
+  alt: 'The sky reflected in the Jameos del Agua lake'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'Lanzarote''s south coast by the Papagayo beaches'
 ratingProveedor: 4.5
 numeroOpiniones: 2910
 atraccionesRelacionadas:

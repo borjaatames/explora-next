@@ -91,15 +91,19 @@ imagen: /images/actividades/granada/alhambra/alhambra-granada-generalife-garden-
 imagenAlt: Die Gärten des Generalife in der Alhambra von Granada
 galeria:
 - src: /images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp
-  alt: Luftaufnahme der Alhambra in Granada mit roten Ziegeldächern und Gärten rundherum
+  alt: 'Luftaufnahme der Alhambra in Granada mit roten Ziegeldächern und Gärten rundherum'
 - src: /images/actividades/granada/alhambra/alhambra-granada-explore-historic-fortress-lush-hero-hero.webp
-  alt: Die historische Alhambra in Granada mit üppigen Gärten und architektonischen Details
+  alt: 'Die historische Alhambra in Granada mit üppigen Gärten und architektonischen Details'
 - src: /images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp
-  alt: Innenhof mit Brunnen und Wasserkanälen im Alhambra-Palast, Granada
+  alt: 'Innenhof mit Brunnen und Wasserkanälen im Alhambra-Palast, Granada'
 - src: /images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp
-  alt: Kunstvolle islamische Bögen und feine Fliesenarbeit im Alhambra-Palast in Granada
+  alt: 'Kunstvolle islamische Bögen und feine Fliesenarbeit im Alhambra-Palast in Granada'
 - src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero.webp
-  alt: Die Puerta del Vino in der Alhambra von Granada
+  alt: 'Die Puerta del Vino in der Alhambra von Granada'
+- src: /images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp
+  alt: 'Die Alcazaba der Alhambra in der Abenddämmerung über Granada'
+- src: /images/actividades/granada/alhambra/alhambra-granada-building-columns-hero.webp
+  alt: 'Säulen und gemeißelte Kapitelle in den Nasridenpalästen'
 ratingProveedor: 4.5
 numeroOpiniones: 2256
 publicada: true

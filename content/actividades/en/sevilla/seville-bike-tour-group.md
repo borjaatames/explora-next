@@ -90,6 +90,12 @@ galeria:
   alt: 'Cycle lane on Paseo de las Delicias in Seville'
 - src: /images/actividades/sevilla/bici-sevilla/sevici.webp
   alt: 'Sevici public bikes on a Seville street'
+- src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
+  alt: 'Triana bridge over the Guadalquivir'
+- src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
+  alt: 'The Triana bridge at sunset'
+- src: /images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp
+  alt: 'Colourful houses on Calle Betis along the Guadalquivir'
 ratingProveedor: 4.9
 numeroOpiniones: 1636
 publicada: true

@@ -93,17 +93,19 @@ imagen: /images/actividades/fuerteventura/buggy/ffv-buggy-pista-tierra-roja.webp
 imagenAlt: "Buggy sur une piste de terre rougeâtre"
 galeria:
 - src: /images/actividades/fuerteventura/buggy/ffv-tres-buggies-arena.webp
-  alt: "Trois buggys alignés sur le sable"
+  alt: 'Trois buggys alignés sur le sable'
 - src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
-  alt: "Troupeau de chèvres à flanc de colline à Fuerteventura"
+  alt: 'Troupeau de chèvres à flanc de colline à Fuerteventura'
 - src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
-  alt: "Fabrication de fromage de chèvre frais dans une fromagerie"
+  alt: 'Fabrication de fromage de chèvre frais dans une fromagerie'
 - src: /images/actividades/fuerteventura/buggy/ffv-buggy-junto-al-mar.webp
-  alt: "Buggy garé sur le sable au bord de la mer"
+  alt: 'Buggy garé sur le sable au bord de la mer'
 - src: /images/actividades/fuerteventura/la-pared/ffv-costa-oeste-oleaje.webp
-  alt: "Vagues sur la côte ouest de Fuerteventura"
+  alt: 'Vagues sur la côte ouest de Fuerteventura'
 - src: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
-  alt: "Chèvre majorera aux longues cornes"
+  alt: 'Chèvre majorera aux longues cornes'
+- src: /images/actividades/fuerteventura/buggy/ffv-buggy-corralejo-polvo.webp
+  alt: 'Buggy soulevant de la poussière sur une piste de terre à Corralejo'
 ---
 
 ## Ce que vous verrez

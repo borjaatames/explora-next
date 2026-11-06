@@ -80,17 +80,19 @@ imagen: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-estela-barc
 imagenAlt: "Cruising by boat through the Sil canyon"
 galeria:
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-vinedos-valle-sil.webp
-  alt: "Vineyards and the Sil valley in the Ribeira Sacra"
+  alt: 'Vineyards and the Sil valley in the Ribeira Sacra'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-canon-sil-desde-catamaran.webp
-  alt: "Rock walls of the Sil canyon from the water"
+  alt: 'Rock walls of the Sil canyon from the water'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-rio-sil-panoramica.webp
-  alt: "Panorama of the River Sil between hillsides"
+  alt: 'Panorama of the River Sil between hillsides'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-meandro-sil.webp
-  alt: "Meander of the River Sil in the Ribeira Sacra"
+  alt: 'Meander of the River Sil in the Ribeira Sacra'
 - src: /images/actividades/santiago-de-compostela/ourense/fsc-ourense-panoramica.webp
-  alt: "Panorama over the rooftops of Ourense"
+  alt: 'Panorama over the rooftops of Ourense'
 - src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-mirador-canon-sil.webp
-  alt: "View of the Sil canyon from a viewpoint"
+  alt: 'View of the Sil canyon from a viewpoint'
+- src: /images/actividades/santiago-de-compostela/ribeira-sacra/fsc-vinedos-bancales-sil.webp
+  alt: 'Terraced vineyards above the River Sil'
 avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 ---
 

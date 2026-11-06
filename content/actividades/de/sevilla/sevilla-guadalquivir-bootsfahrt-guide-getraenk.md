@@ -128,6 +128,8 @@ galeria:
   alt: 'Ufer des Guadalquivir mit der Torre del Oro in der Ferne'
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
   alt: 'Luftaufnahme der Stierkampfarena La Maestranza'
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
+  alt: 'Gotische Gewölbe der Kathedrale von Sevilla'
 ratingProveedor: 4.7
 numeroOpiniones: 1746
 guiasRelacionadas:

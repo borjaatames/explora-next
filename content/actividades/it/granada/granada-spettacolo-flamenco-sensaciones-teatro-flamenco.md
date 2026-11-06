@@ -103,6 +103,10 @@ galeria:
   alt: 'Sala e palco del Teatro Flamenco Granada'
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
   alt: 'L''Albaicín al calar della sera'
+- src: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
+  alt: 'L''Albaicín visto dai giardini dell''Alhambra'
+- src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
+  alt: 'L''Alhambra illuminata dal sole del pomeriggio'
 ratingProveedor: 4.8
 numeroOpiniones: 788
 publicada: true

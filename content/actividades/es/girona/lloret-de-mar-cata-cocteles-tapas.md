@@ -76,17 +76,19 @@ imagen: /images/actividades/barcelona/noche/copas-bar-noche.webp
 imagenAlt: "Cuatro cócteles servidos sobre la barra"
 galeria:
 - src: /images/actividades/madrid/tapas/tapas-madrid-bartender-skillfully-measures-hero.webp
-  alt: "Bartender preparando una bebida tras la barra"
+  alt: 'Bartender preparando una bebida tras la barra'
 - src: /images/actividades/barcelona/sangria/sangria-copas-fruta.webp
-  alt: "Copas con fruta fresca"
+  alt: 'Copas con fruta fresca'
 - src: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
-  alt: "Mesa con tapas variadas para compartir"
+  alt: 'Mesa con tapas variadas para compartir'
 - src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
-  alt: "Pinchos sobre la barra de un bar de tapas"
+  alt: 'Pinchos sobre la barra de un bar de tapas'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
-  alt: "Playa principal de Lloret de Mar con rocas en primer plano"
+  alt: 'Playa principal de Lloret de Mar con rocas en primer plano'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
-  alt: "La bahía de Lloret de Mar vista desde lo alto"
+  alt: 'La bahía de Lloret de Mar vista desde lo alto'
+- src: /images/actividades/barcelona/gastronomia/tapas-y-vino-mesa.webp
+  alt: 'Tapas y copas de vino sobre una mesa'
 ---
 
 ## Qué vas a ver

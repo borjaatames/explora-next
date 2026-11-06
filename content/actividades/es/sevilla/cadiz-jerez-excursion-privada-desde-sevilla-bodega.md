@@ -81,15 +81,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/09e629c5-d9ff-4267-b4bb-cf1270eaec53.jpg
-  alt: Vista aérea de Cádiz rodeada por el mar
+  alt: 'Vista aérea de Cádiz rodeada por el mar'
 - src: /images/actividades/cadiz/centro/mercado-central.webp
-  alt: Puestos del Mercado Central de Cádiz
+  alt: 'Puestos del Mercado Central de Cádiz'
 - src: https://imgcdn.bokun.tools/a83cb5d0-61f3-490b-99ec-adbbcf207165.jpg
-  alt: Pescado fresco en un puesto del mercado
+  alt: 'Pescado fresco en un puesto del mercado'
 - src: /images/actividades/cadiz/bodega/botas-arcos.webp
-  alt: Hileras de botas bajo los arcos de una bodega de Jerez
+  alt: 'Hileras de botas bajo los arcos de una bodega de Jerez'
 - src: /images/actividades/cadiz/mar/caleta-balneario.webp
-  alt: Playa de La Caleta y el balneario
+  alt: 'Playa de La Caleta y el balneario'
+- src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
+  alt: 'Castillo de San Sebastián al final del paseo de La Caleta'
+- src: /images/actividades/cadiz/mar/puente-1812-noche.webp
+  alt: 'Puente de la Constitución de 1812 iluminado de noche'
 bokunProductId: 860683
 fecha_actualizacion: '2026-10-24'
 privada: true

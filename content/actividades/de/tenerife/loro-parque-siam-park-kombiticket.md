@@ -80,15 +80,19 @@ imagen: /images/actividades/tenerife/loro-parque/orca-ocean.webp
 imagenAlt: Orca Ocean im Loro Parque auf Teneriffa
 galeria:
 - src: /images/actividades/tenerife/loro-siam/leon-marino-nadando.webp
-  alt: Schwimmender Seelöwe im Loro Parque
+  alt: 'Schwimmender Seelöwe im Loro Parque'
 - src: /images/actividades/tenerife/loro-parque/delfines-salto.webp
-  alt: Delfine im Delfinarium des Loro Parque
+  alt: 'Delfine im Delfinarium des Loro Parque'
 - src: /images/actividades/tenerife/siam-park/siam-park-aerea.webp
-  alt: Luftaufnahme des Siam Park mit seinen Rutschen
+  alt: 'Luftaufnahme des Siam Park mit seinen Rutschen'
 - src: /images/actividades/tenerife/loro-parque/pinguinos.webp
-  alt: Pinguinkolonie im Loro Parque
+  alt: 'Pinguinkolonie im Loro Parque'
 - src: /images/actividades/tenerife/siam-park/siam-park-templo.webp
-  alt: Dekorativer Thai-Tempel im Siam Park
+  alt: 'Dekorativer Thai-Tempel im Siam Park'
+- src: /images/actividades/tenerife/loro-parque/loro-aratinga.webp
+  alt: 'Sonnensittich im Loro Parque'
+- src: /images/actividades/tenerife/loro-parque/loro-parque-delfines.webp
+  alt: 'Delfin-Show im Loro Parque'
 ratingProveedor: 4.7
 numeroOpiniones: 8501
 atraccionesRelacionadas:

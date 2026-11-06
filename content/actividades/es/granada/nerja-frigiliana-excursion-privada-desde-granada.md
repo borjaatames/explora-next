@@ -92,6 +92,8 @@ galeria:
   alt: 'Balcón de Europa, en Nerja'
 - src: https://imgcdn.bokun.tools/fdc1c28b-e5bf-4e73-8dde-69f7b58f3700.jpg
   alt: 'Costa de Nerja con sus casas sobre el mar'
+- src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-nerja-playa-costera-03-hero.webp
+  alt: 'Playa costera de Nerja'
 bokunProductId: 919053
 fecha_actualizacion: '2026-10-24'
 privada: true

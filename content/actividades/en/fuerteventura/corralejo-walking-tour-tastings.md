@@ -89,6 +89,8 @@ galeria:
   alt: 'Lobos Island from the Fuerteventura coast'
 - src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
   alt: 'Walking across the white dunes of Corralejo'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Morro Jable beach'
 ratingProveedor: 4.9
 numeroOpiniones: 515
 atraccionesRelacionadas:

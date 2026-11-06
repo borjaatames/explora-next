@@ -73,6 +73,10 @@ galeria:
   alt: 'La Plaza Mayor de Cuenca'
 - src: https://imgcdn.bokun.tools/ae4f5db2-a26a-4294-9a08-4966b8f08a6e.jpg
   alt: 'Mirador sobre las hoces de Cuenca'
+- src: /images/actividades/cuenca/casas-colgadas/pexels-34299030-hero.webp
+  alt: 'Iglesias y casas del casco antiguo de Cuenca sobre la hoz'
+- src: /images/actividades/cuenca/casas-colgadas/pexels-33292998-hero.webp
+  alt: 'Casco antiguo de Cuenca en la ladera'
 publicada: true
 indexar: false
 destacada: false

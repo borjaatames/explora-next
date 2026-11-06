@@ -90,6 +90,8 @@ galeria:
   alt: 'Palma Cathedral under a pink sunset sky'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
   alt: 'Flamenco dancer in black and white'
+- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
+  alt: 'Palma Cathedral above the sea wall'
 ---
 
 ## What you will see

@@ -96,17 +96,19 @@ imagen: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transpare
 imagenAlt: "Two kayaks on clear turquoise water"
 galeria:
 - src: /images/actividades/mallorca/fma-cala-varques/cala-varques-playa.webp
-  alt: "Cala Varques beach, with turquoise water and pine woods"
+  alt: 'Cala Varques beach, with turquoise water and pine woods'
 - src: /images/actividades/mallorca/fma-cala-varques/kayak-arco-roca.webp
-  alt: "Red kayak passing under a rock arch at sea"
+  alt: 'Red kayak passing under a rock arch at sea'
 - src: /images/actividades/mallorca/fma-cala-varques/cueva-acantilado-cala-varques.webp
-  alt: "Cliff with a sea cave next to Cala Varques"
+  alt: 'Cliff with a sea cave next to Cala Varques'
 - src: /images/actividades/mallorca/fma-cala-varques/nadadora-esnorquel.webp
-  alt: "Snorkeller swimming in blue-green water"
+  alt: 'Snorkeller swimming in blue-green water'
 - src: /images/actividades/mallorca/fma-cala-varques/roca-oleaje-cala-varques.webp
-  alt: "Rocks and surf on the Cala Varques coast"
+  alt: 'Rocks and surf on the Cala Varques coast'
 - src: /images/actividades/mallorca/fma-cala-varques/cala-varques-desde-pinar.webp
-  alt: "Cala Varques seen from the pine woods"
+  alt: 'Cala Varques seen from the pine woods'
+- src: /images/actividades/mallorca/fma-cala-varques/costa-este-acantilados.webp
+  alt: 'Low cliffs on the east coast of Mallorca'
 avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 

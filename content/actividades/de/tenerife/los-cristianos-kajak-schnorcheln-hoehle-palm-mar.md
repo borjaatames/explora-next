@@ -92,15 +92,19 @@ imagen: /images/actividades/tenerife/kayak-cristianos/kayak-aguas-transparentes.
 imagenAlt: Kajak in klarem Wasser an der Küste
 galeria:
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
-  alt: Die Küste von Palm-Mar, das Ziel der Route
+  alt: 'Die Küste von Palm-Mar, das Ziel der Route'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: Die Montaña de Guaza über Los Cristianos
+  alt: 'Die Montaña de Guaza über Los Cristianos'
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos.webp
-  alt: Der Hafen von Los Cristianos
+  alt: 'Der Hafen von Los Cristianos'
 - src: /images/actividades/tenerife/cetaceos/delfines-salto-pareja.webp
-  alt: Delfine vor der Südküste Teneriffas
+  alt: 'Delfine vor der Südküste Teneriffas'
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
-  alt: Der Strand von Los Cristianos
+  alt: 'Der Strand von Los Cristianos'
+- src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
+  alt: 'Ausflugsboot neben einer Gruppe Delfine'
+- src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+  alt: 'Person paddelt in einem orangefarbenen Kajak auf dem offenen Meer'
 ratingProveedor: 4.8
 numeroOpiniones: 962
 publicada: true

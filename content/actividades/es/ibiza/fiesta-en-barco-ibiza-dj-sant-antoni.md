@@ -73,17 +73,19 @@ imagen: /images/actividades/ibiza/fiesta-barco/fiesta-barco-01.webp
 imagenAlt: Fiesta en barco frente a la costa de Ibiza
 galeria:
 - src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-02.webp
-  alt: Barco de fiesta navegando en Ibiza
+  alt: 'Barco de fiesta navegando en Ibiza'
 - src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-03.webp
-  alt: Gente bailando en la cubierta de un barco
+  alt: 'Gente bailando en la cubierta de un barco'
 - src: /images/actividades/ibiza/fiesta-barco/fiesta-barco-04.webp
-  alt: Barco al atardecer en el Mediterráneo
+  alt: 'Barco al atardecer en el Mediterráneo'
 - src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
-  alt: Puesta de sol en la costa de Ibiza
+  alt: 'Puesta de sol en la costa de Ibiza'
 - src: /images/actividades/ibiza/atardecer/atardecer-mar.webp
-  alt: Atardecer sobre el mar en Ibiza
+  alt: 'Atardecer sobre el mar en Ibiza'
 - src: /images/actividades/ibiza/vedra/es-vedra-puesta-sol.webp
-  alt: Es Vedrà al atardecer
+  alt: 'Es Vedrà al atardecer'
+- src: /images/actividades/ibiza/atardecer/atardecer-islotes.webp
+  alt: 'Puesta de sol sobre los islotes frente a la costa oeste de Ibiza'
 atraccionesRelacionadas:
 - vedra-atardecer
 ratingProveedor: 4.3

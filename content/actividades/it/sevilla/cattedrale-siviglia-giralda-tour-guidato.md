@@ -85,6 +85,10 @@ galeria:
   alt: 'Cupole e pinnacoli della Cattedrale'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-plaza.webp
   alt: 'La Giralda illuminata di notte'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: 'La Cattedrale di Siviglia e la Giralda'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: 'Facciata della Cattedrale di Siviglia tra le palme'
 ratingProveedor: 4.6
 numeroOpiniones: 3280
 publicada: true

@@ -98,6 +98,8 @@ galeria:
   alt: 'Îlot couvert de pins au large de la côte de Paguera'
 - src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
   alt: 'Rocher en mer entouré d''eau turquoise'
+- src: /images/actividades/mallorca/barco-paguera/delfines-1.webp
+  alt: 'Groupe de dauphins sautant en pleine mer'
 ---
 
 ## Ce que vous verrez

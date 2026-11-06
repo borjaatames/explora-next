@@ -82,17 +82,19 @@ imagen: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-alicante-ae
 imagenAlt: "Vista aérea de la plaza de toros de Alicante"
 galeria:
 - src: /images/actividades/alicante/fal-plaza-toros/fal-corrales-visitantes.webp
-  alt: "Visitantes en los corrales de la plaza de toros de Alicante"
+  alt: 'Visitantes en los corrales de la plaza de toros de Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-reja-plaza-toros.webp
-  alt: "Reja de forja en la plaza de toros de Alicante"
+  alt: 'Reja de forja en la plaza de toros de Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-toros-corrales.webp
-  alt: "Toros en los corrales de la plaza de toros de Alicante"
+  alt: 'Toros en los corrales de la plaza de toros de Alicante'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-ciudad.webp
-  alt: "Plaza de toros de Alicante entre los edificios de la ciudad"
+  alt: 'Plaza de toros de Alicante entre los edificios de la ciudad'
 - src: /images/actividades/alicante/fal-plaza-toros/fal-plaza-toros-vista-castillo.webp
-  alt: "Plaza de toros de Alicante vista desde lo alto"
+  alt: 'Plaza de toros de Alicante vista desde lo alto'
 - src: /images/actividades/alicante/centro/castillo-santa-barbara.webp
-  alt: "Castillo de Santa Bárbara, visible desde los tendidos"
+  alt: 'Castillo de Santa Bárbara, visible desde los tendidos'
+- src: /images/actividades/alicante/centro/vista-puerto.webp
+  alt: 'Puerto y marina de Alicante vistos desde el castillo'
 ---
 
 ## Qué vas a ver

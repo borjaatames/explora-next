@@ -84,6 +84,14 @@ galeria:
   alt: 'Flamenco guitarist'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
   alt: 'The Royal Palace lit up at night'
+- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
+  alt: 'Flamenco guitar on stage'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Flamenco guitarist playing on stage'
+- src: /images/actividades/cordoba/flamenco/bailaora.webp
+  alt: 'Flamenco dancer with a white shawl during a flamenco show'
+- src: /images/actividades/cordoba/flamenco/baile-flamenco.webp
+  alt: 'Photo of the activity'
 ratingProveedor: 4.7
 numeroOpiniones: 1413
 publicada: true

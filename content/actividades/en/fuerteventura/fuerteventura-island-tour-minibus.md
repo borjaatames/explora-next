@@ -86,17 +86,19 @@ imagen: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
 imagenAlt: "Ajuy village and its black sand beach"
 galeria:
 - src: /images/actividades/fuerteventura/ajuy/ffv-montana-cerca-ajuy.webp
-  alt: "Inland mountain near Ajuy"
+  alt: 'Inland mountain near Ajuy'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
-  alt: "Betancuria church square with the village behind"
+  alt: 'Betancuria church square with the village behind'
 - src: /images/actividades/fuerteventura/granja-aloe/ffv-finca-aloe-vera-fuerteventura.webp
-  alt: "Aloe vera farm in bloom at the foot of the Fuerteventura mountains"
+  alt: 'Aloe vera farm in bloom at the foot of the Fuerteventura mountains'
 - src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
-  alt: "Fresh goat cheese being made in a cheese dairy"
+  alt: 'Fresh goat cheese being made in a cheese dairy'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-6.webp
-  alt: "Tree-shaded corner in Betancuria"
+  alt: 'Tree-shaded corner in Betancuria'
 - src: /images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp
-  alt: "Rows of aloe vera in volcanic soil"
+  alt: 'Rows of aloe vera in volcanic soil'
+- src: /images/actividades/fuerteventura/ajuy/ffv-interior-cueva-ajuy.webp
+  alt: 'Visitor inside one of the Ajuy caves'
 ---
 
 ## What you will see

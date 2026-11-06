@@ -83,17 +83,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/tabernas/bar-versalles-barra.webp
-  alt: Old wooden bar counter of Bar Versalles in Sant Andreu
+  alt: 'Old wooden bar counter of Bar Versalles in Sant Andreu'
 - src: /images/actividades/barcelona/gastronomia/mesa-tapas-variadas.webp
-  alt: Table with assorted tapas, ham and drinks
+  alt: 'Table with assorted tapas, ham and drinks'
 - src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
-  alt: Pintxos on bread on a bar counter
+  alt: 'Pintxos on bread on a bar counter'
 - src: https://imgcdn.bokun.tools/d70be2b6-caae-4802-a6d2-498482d2c0fb.jpg
-  alt: Ham and quail-egg pintxos served at a bar
+  alt: 'Ham and quail-egg pintxos served at a bar'
 - src: https://imgcdn.bokun.tools/bf520257-b70e-46a6-a931-b37c2b65b733.jpg
-  alt: Friends toasting with red wine in a tapas bar
+  alt: 'Friends toasting with red wine in a tapas bar'
 - src: https://imgcdn.bokun.tools/f08f4556-0af9-4224-8a03-26ef8e490fb5.jpg
-  alt: Pintxos counter in a Barcelona tavern
+  alt: 'Pintxos counter in a Barcelona tavern'
+- src: /images/actividades/barcelona/gastronomia/tapas-y-vino-mesa.webp
+  alt: 'Tapas and glasses of wine on a table'
 bokunProductId: 217560
 fecha_actualizacion: '2026-10-24'
 privada: true

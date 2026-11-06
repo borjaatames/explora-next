@@ -85,6 +85,10 @@ galeria:
   alt: 'Statue équestre sur la Plaza de Oriente'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
   alt: 'Le Palais royal illuminé la nuit'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
+  alt: 'Le Palais royal vu depuis les jardins du Campo del Moro'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-clear-blue-sky-hero.webp
+  alt: 'Palais royal de Madrid'
 ratingProveedor: 4.7
 numeroOpiniones: 9610
 publicada: true

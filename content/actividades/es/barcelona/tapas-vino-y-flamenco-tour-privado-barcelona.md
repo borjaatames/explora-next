@@ -91,17 +91,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-  alt: Bailaora de flamenco con vestido rojo y guitarristas en un tablao
+  alt: 'Bailaora de flamenco con vestido rojo y guitarristas en un tablao'
 - src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
-  alt: Pinchos sobre pan en la barra de un bar
+  alt: 'Pinchos sobre pan en la barra de un bar'
 - src: /images/actividades/barcelona/vino/copas-vino-tinto-fila.webp
-  alt: Fila de copas de vino tinto sobre la mesa
+  alt: 'Fila de copas de vino tinto sobre la mesa'
 - src: https://imgcdn.bokun.tools/1d4b51bc-ab97-4364-a65c-6382747f9b1c.jpg
-  alt: Bailaora de flamenco con vestido rojo junto al guitarrista en un tablao
+  alt: 'Bailaora de flamenco con vestido rojo junto al guitarrista en un tablao'
 - src: https://imgcdn.bokun.tools/8309b092-5eba-4290-aa32-4e297e5dd854.jpg
-  alt: Espectáculo de flamenco en una sala de piedra con arcos
+  alt: 'Espectáculo de flamenco en una sala de piedra con arcos'
 - src: https://imgcdn.bokun.tools/e9f0cdfb-0ed3-43a7-8520-27462fa72090.jpg
-  alt: Viajeros brindando con tapas en el restaurante
+  alt: 'Viajeros brindando con tapas en el restaurante'
+- src: /images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp
+  alt: 'Bailaora flamenca con mantón'
 bokunProductId: 217555
 fecha_actualizacion: '2026-10-24'
 privada: true

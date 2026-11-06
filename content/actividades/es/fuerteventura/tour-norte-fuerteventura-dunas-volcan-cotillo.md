@@ -87,17 +87,19 @@ imagen: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-3.
 imagenAlt: "Matas sobre la arena de las Dunas de Corralejo"
 galeria:
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-6.webp
-  alt: "Arbusto en lo alto de una duna de Corralejo"
+  alt: 'Arbusto en lo alto de una duna de Corralejo'
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-paisaje.webp
-  alt: "Paisaje volcánico desde el Calderón Hondo"
+  alt: 'Paisaje volcánico desde el Calderón Hondo'
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-volcanes-la-oliva.webp
-  alt: "Conos volcánicos en el norte de Fuerteventura"
+  alt: 'Conos volcánicos en el norte de Fuerteventura'
 - src: /images/actividades/fuerteventura/zonas/el-cotillo.webp
-  alt: "Costa de El Cotillo"
+  alt: 'Costa de El Cotillo'
 - src: /images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp
-  alt: "Puerto viejo de El Cotillo"
+  alt: 'Puerto viejo de El Cotillo'
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-1.webp
-  alt: "Horizonte de las Dunas de Corralejo"
+  alt: 'Horizonte de las Dunas de Corralejo'
+- src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-4.webp
+  alt: 'Luz de la tarde en las Dunas de Corralejo'
 ---
 
 ## Qué vas a ver

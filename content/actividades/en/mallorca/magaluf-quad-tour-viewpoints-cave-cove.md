@@ -101,6 +101,8 @@ galeria:
   alt: 'Pine-covered islet off the Paguera coast'
 - src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
   alt: 'Rock in the sea surrounded by turquoise water'
+- src: /images/actividades/mallorca/barco-paguera/delfines-1.webp
+  alt: 'Pod of dolphins leaping in open sea'
 ---
 
 ## What you will see

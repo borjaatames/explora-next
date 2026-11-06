@@ -81,17 +81,19 @@ imagen: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
 imagenAlt: "Palma Cathedral above the sea wall"
 galeria:
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
-  alt: "Narrow street in Palma old town"
+  alt: 'Narrow street in Palma old town'
 - src: /images/actividades/mallorca/fma-almudaina/almudaina-fachada-arcos.webp
-  alt: "Arcaded facade of the Almudaina Palace"
+  alt: 'Arcaded facade of the Almudaina Palace'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp
-  alt: "Gothic gargoyle on the facade of Palma Cathedral"
+  alt: 'Gothic gargoyle on the facade of Palma Cathedral'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-pinaculos.webp
-  alt: "Gothic pinnacles of Palma Cathedral"
+  alt: 'Gothic pinnacles of Palma Cathedral'
 - src: /images/actividades/mallorca/fma-almudaina/almudaina-palmeras-cielo-naranja.webp
-  alt: "Almudaina Palace among palm trees under a sunset sky"
+  alt: 'Almudaina Palace among palm trees under a sunset sky'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-04.webp
-  alt: "Parc de la Mar and Palma Cathedral in the evening"
+  alt: 'Parc de la Mar and Palma Cathedral in the evening'
+- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
+  alt: 'Parc de la Mar and Palma Cathedral at sunset'
 ---
 
 ## What you will see

@@ -85,17 +85,19 @@ imagen: /images/actividades/girona/fgi-besalu/fgi-besalu-puente-romanico-rio.web
 imagenAlt: "Puente románico de Besalú sobre el río Fluvià"
 galeria:
 - src: /images/actividades/girona/fgi-besalu/fgi-besalu-torre-puerta-puente.webp
-  alt: "Torre-puerta fortificada del puente de Besalú"
+  alt: 'Torre-puerta fortificada del puente de Besalú'
 - src: /images/actividades/girona/fgi-besalu/fgi-besalu-plaza-mayor.webp
-  alt: "Plaza del centro de Besalú con terrazas"
+  alt: 'Plaza del centro de Besalú con terrazas'
 - src: /images/actividades/girona/fgi-besalu/fgi-besalu-casas-rio.webp
-  alt: "Casas medievales de Besalú asomadas al río"
+  alt: 'Casas medievales de Besalú asomadas al río'
 - src: /images/actividades/girona/fgi-besalu/fgi-besalu-puente-reflejo.webp
-  alt: "El puente de Besalú reflejado en el río"
+  alt: 'El puente de Besalú reflejado en el río'
 - src: /images/actividades/girona/fgi-besalu/fgi-besalu-puente-entorno-verde.webp
-  alt: "Puente de Besalú rodeado de vegetación y montañas de la Garrotxa"
+  alt: 'Puente de Besalú rodeado de vegetación y montañas de la Garrotxa'
 - src: /images/actividades/girona/fgi-besalu/fgi-besalu-casa-piedra-puente.webp
-  alt: "Casa de piedra junto al puente de Besalú"
+  alt: 'Casa de piedra junto al puente de Besalú'
+- src: /images/actividades/girona/fgi-besalu/fgi-besalu-arcos-puente-pueblo.webp
+  alt: 'Arcos del puente medieval de Besalú con el pueblo al fondo'
 ---
 
 ## Qué vas a ver

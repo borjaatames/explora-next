@@ -111,6 +111,8 @@ galeria:
   alt: 'A fachada curva da Casa Batlló, com mosaicos coloridos, na paisagem de Barcelona'
 - src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
   alt: 'Panorâmica de Barcelona ao pôr do sol, com o Bairro Gótico e edifícios modernos'
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-ceiling-chandelier-barcelona-hero.webp
+  alt: 'Teto em espiral e candeeiro no salão principal da Casa Batlló'
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

@@ -88,17 +88,19 @@ imagen: /images/actividades/tenerife/jungle-park/ftc-jungle-park-entrada-aguilas
 imagenAlt: "Entrada de Las Águilas Jungle Park, en Arona, con dos grandes esculturas de águilas"
 galeria:
 - src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-cabeciblanco.webp
-  alt: "Buitre cabeciblanco en su recinto de Jungle Park"
+  alt: 'Buitre cabeciblanco en su recinto de Jungle Park'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: "Montaña de Guaza, en el municipio de Arona"
+  alt: 'Montaña de Guaza, en el municipio de Arona'
 - src: /images/actividades/tenerife/jungle-park/ftc-jaguar-tronco.webp
-  alt: "Jaguar caminando sobre un tronco"
+  alt: 'Jaguar caminando sobre un tronco'
 - src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-alas.webp
-  alt: "Buitre cabeciblanco abriendo las alas en Jungle Park"
+  alt: 'Buitre cabeciblanco abriendo las alas en Jungle Park'
 - src: /images/actividades/tenerife/jungle-park/ftc-lemur-cola-anillada.webp
-  alt: "Lémur de cola anillada sentado en una rama"
+  alt: 'Lémur de cola anillada sentado en una rama'
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
-  alt: "Playa de Los Cristianos, en Arona"
+  alt: 'Playa de Los Cristianos, en Arona'
+- src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
+  alt: 'Costa de Palm-Mar, junto a Las Galletas'
 ---
 
 ## Qué vas a ver

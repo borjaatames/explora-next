@@ -94,17 +94,19 @@ imagen: /images/actividades/gran-canaria/fataga/fgc-fataga-pueblo-palmeral.webp
 imagenAlt: "Fataga und sein Palmenhain im Tal der tausend Palmen"
 galeria:
 - src: /images/actividades/gran-canaria/fataga/fgc-casas-blancas-fataga.webp
-  alt: "Weiße Häuser von Fataga am Hang der Schlucht"
+  alt: 'Weiße Häuser von Fataga am Hang der Schlucht'
 - src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
-  alt: "Das Dorf San Bartolomé de Tirajana zwischen den Bergen"
+  alt: 'Das Dorf San Bartolomé de Tirajana zwischen den Bergen'
 - src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
-  alt: "Der Aussichtspunkt Degollada de las Yeguas"
+  alt: 'Der Aussichtspunkt Degollada de las Yeguas'
 - src: /images/actividades/gran-canaria/tejeda/fgc-tejeda-casas-montanas.webp
-  alt: "Häuser in Tejeda mit Blick auf die Gipfel von Gran Canaria"
+  alt: 'Häuser in Tejeda mit Blick auf die Gipfel von Gran Canaria'
 - src: /images/actividades/gran-canaria/tejeda/fgc-flor-almendro-bentayga.webp
-  alt: "Mandelblüte mit dem Roque Bentayga im Hintergrund"
+  alt: 'Mandelblüte mit dem Roque Bentayga im Hintergrund'
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
-  alt: "Bananenplantagen an der Nordküste von Gran Canaria"
+  alt: 'Bananenplantagen an der Nordküste von Gran Canaria'
+- src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
+  alt: 'Kanarische Palmen in der Schlucht von Fataga'
 ---
 
 ## Was du siehst

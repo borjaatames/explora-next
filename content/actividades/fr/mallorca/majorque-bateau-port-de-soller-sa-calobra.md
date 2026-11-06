@@ -78,17 +78,19 @@ imagen: /images/actividades/mallorca/soller/sa-calobra-costa.webp
 imagenAlt: La crique de Sa Calobra et ses falaises calcaires, Majorque
 galeria:
 - src: /images/actividades/mallorca/soller/sa-calobra-torrent.webp
-  alt: L'intérieur du Torrent de Pareis et ses parois de 200 mètres
+  alt: 'L''intérieur du Torrent de Pareis et ses parois de 200 mètres'
 - src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
-  alt: La baie du port de Sóller, d'où part le bateau
+  alt: 'La baie du port de Sóller, d''où part le bateau'
 - src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
-  alt: Vue du port de Sóller avec les montagnes de la Tramuntana
+  alt: 'Vue du port de Sóller avec les montagnes de la Tramuntana'
 - src: /images/actividades/mallorca/soller/sa-calobra-aerea.webp
-  alt: Vue aérienne de l'embouchure du Torrent de Pareis
+  alt: 'Vue aérienne de l''embouchure du Torrent de Pareis'
 - src: /images/actividades/mallorca/soller/sa-calobra-sendero.webp
-  alt: Sentier dans les gorges de Sa Calobra
+  alt: 'Sentier dans les gorges de Sa Calobra'
 - src: /images/actividades/mallorca/soller/sa-calobra-barco.webp
-  alt: Un bateau arrivant à Sa Calobra
+  alt: 'Un bateau arrivant à Sa Calobra'
+- src: /images/actividades/mallorca/soller/tranvia-soller-calle.webp
+  alt: 'Le tramway de Sóller dans une rue du village'
 ratingProveedor: 4.4
 numeroOpiniones: 1230
 atraccionesRelacionadas:

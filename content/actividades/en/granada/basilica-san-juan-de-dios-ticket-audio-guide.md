@@ -86,6 +86,8 @@ galeria:
   alt: 'Detail of the doorway with volutes'
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
   alt: 'Granada Cathedral, 10 minutes away'
+- src: /images/actividades/granada/catedral/granada-catedral-04.webp
+  alt: 'Facade of Granada Cathedral'
 ratingProveedor: 4.7
 numeroOpiniones: 475
 publicada: true

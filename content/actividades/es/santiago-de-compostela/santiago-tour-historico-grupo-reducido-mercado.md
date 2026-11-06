@@ -84,17 +84,19 @@ imagen: /images/actividades/santiago-de-compostela/casco/praza-cervantes.webp
 imagenAlt: "Grupo de visitantes con guía en una plaza del casco antiguo de Santiago"
 galeria:
 - src: /images/actividades/santiago-de-compostela/casco/alameda.webp
-  alt: "Paseo de la Alameda de Santiago"
+  alt: 'Paseo de la Alameda de Santiago'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-reducido-obradoiro-muro.webp
-  alt: "Visitantes en la plaza del Obradoiro ante la catedral"
+  alt: 'Visitantes en la plaza del Obradoiro ante la catedral'
 - src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: "Escalinata de la plaza de la Quintana"
+  alt: 'Escalinata de la plaza de la Quintana'
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: "Fachada de Platerías de la catedral de Santiago"
+  alt: 'Fachada de Platerías de la catedral de Santiago'
 - src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: "Soportales de la rúa do Vilar"
+  alt: 'Soportales de la rúa do Vilar'
 - src: /images/actividades/santiago-de-compostela/casco/mercado-abastos.webp
-  alt: "Puestos de verdura en el Mercado de Abastos de Santiago"
+  alt: 'Puestos de verdura en el Mercado de Abastos de Santiago'
+- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
+  alt: 'Rúa do Franco, calle de bares y restaurantes del casco antiguo de Santiago'
 ---
 
 ## Qué vas a ver

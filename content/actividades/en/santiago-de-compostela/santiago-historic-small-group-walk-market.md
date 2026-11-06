@@ -84,17 +84,19 @@ imagen: /images/actividades/santiago-de-compostela/casco/praza-cervantes.webp
 imagenAlt: "Guided group of visitors in a square in Santiago's old town"
 galeria:
 - src: /images/actividades/santiago-de-compostela/casco/alameda.webp
-  alt: "Alameda park in Santiago"
+  alt: 'Alameda park in Santiago'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-reducido-obradoiro-muro.webp
-  alt: "Visitors in Praza do Obradoiro before the cathedral"
+  alt: 'Visitors in Praza do Obradoiro before the cathedral'
 - src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: "Steps of Praza da Quintana"
+  alt: 'Steps of Praza da Quintana'
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: "Platerías façade of Santiago Cathedral"
+  alt: 'Platerías façade of Santiago Cathedral'
 - src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: "Arcades on Rúa do Vilar"
+  alt: 'Arcades on Rúa do Vilar'
 - src: /images/actividades/santiago-de-compostela/casco/mercado-abastos.webp
-  alt: "Vegetable stalls at Santiago's Mercado de Abastos"
+  alt: 'Vegetable stalls at Santiago''s Mercado de Abastos'
+- src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
+  alt: 'Rúa do Franco, the street of bars'
 ---
 
 ## What you will see

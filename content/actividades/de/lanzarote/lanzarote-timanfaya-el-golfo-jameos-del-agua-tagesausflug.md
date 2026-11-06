@@ -94,17 +94,19 @@ imagen: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
 imagenAlt: "Landschaft im Nationalpark Timanfaya mit dem Meer im Hintergrund"
 galeria:
 - src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
-  alt: "Erstarrter Lavastrom in Timanfaya"
+  alt: 'Erstarrter Lavastrom in Timanfaya'
 - src: /images/actividades/lanzarote/el-golfo/flz-charco-clicos.webp
-  alt: "Charco de los Clicos in El Golfo mit seinem grünen See"
+  alt: 'Charco de los Clicos in El Golfo mit seinem grünen See'
 - src: /images/actividades/lanzarote/el-golfo/flz-laguna-playa-negra.webp
-  alt: "Grüner See und schwarzer Sandstrand in El Golfo"
+  alt: 'Grüner See und schwarzer Sandstrand in El Golfo'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
-  alt: "Türkisfarbener Pool in den Jameos del Agua"
+  alt: 'Türkisfarbener Pool in den Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-lago-reflejo.webp
-  alt: "Unterirdischer See der Jameos del Agua, in dem sich der Himmel spiegelt"
+  alt: 'Unterirdischer See der Jameos del Agua, in dem sich der Himmel spiegelt'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-palmeras.webp
-  alt: "Weißer Pool und Palmen in den Jameos del Agua"
+  alt: 'Weißer Pool und Palmen in den Jameos del Agua'
+- src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
+  alt: 'Steintreppe und Garten in den Jameos del Agua'
 ---
 
 ## Was du siehst

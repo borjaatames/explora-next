@@ -78,6 +78,8 @@ galeria:
   alt: 'Parque de María Luisa desde el carruaje'
 - src: https://imgcdn.bokun.tools/362f34fa-d8d4-4827-b736-ca46648a0f62.jpeg
   alt: 'Paseo en coche de caballos (foto del proveedor)'
+- src: /images/actividades/sevilla/coche-caballos/coche-caballos-catedral.webp
+  alt: 'Coche de caballos con caballo blanco frente a la Catedral de Sevilla'
 publicada: true
 indexar: false
 destacada: false

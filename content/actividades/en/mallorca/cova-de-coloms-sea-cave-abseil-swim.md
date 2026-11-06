@@ -91,17 +91,19 @@ imagen: /images/actividades/mallorca/fma-cala-varques/cueva-acantilado-cala-varq
 imagenAlt: "Cliff with a sea cave next to Cala Varques, on the east coast"
 galeria:
 - src: /images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp
-  alt: "Inside a sea cave opening onto the sea"
+  alt: 'Inside a sea cave opening onto the sea'
 - src: /images/actividades/mallorca/fma-cala-varques/nadadora-esnorquel.webp
-  alt: "Person swimming with a snorkel in blue-green water"
+  alt: 'Person swimming with a snorkel in blue-green water'
 - src: /images/actividades/mallorca/fma-cala-varques/costa-este-acantilados.webp
-  alt: "Low cliffs on the east coast of Mallorca"
+  alt: 'Low cliffs on the east coast of Mallorca'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
-  alt: "Seabed with rocks under crystal-clear water"
+  alt: 'Seabed with rocks under crystal-clear water'
 - src: /images/actividades/mallorca/fma-cala-varques/roca-oleaje-cala-varques.webp
-  alt: "Rocks and surf on the Cala Varques coast"
+  alt: 'Rocks and surf on the Cala Varques coast'
 - src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
-  alt: "Rock in the sea surrounded by turquoise water"
+  alt: 'Rock in the sea surrounded by turquoise water'
+- src: /images/actividades/mallorca/fma-cala-varques/cala-varques-playa.webp
+  alt: 'Cala Varques beach, with turquoise water and pine woods'
 ---
 
 ## What you will see

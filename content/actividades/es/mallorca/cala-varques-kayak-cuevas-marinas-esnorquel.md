@@ -96,17 +96,19 @@ imagen: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transpare
 imagenAlt: "Dos kayaks sobre agua transparente y turquesa"
 galeria:
 - src: /images/actividades/mallorca/fma-cala-varques/cala-varques-playa.webp
-  alt: "Playa de Cala Varques, con agua turquesa y pinar"
+  alt: 'Playa de Cala Varques, con agua turquesa y pinar'
 - src: /images/actividades/mallorca/fma-cala-varques/kayak-arco-roca.webp
-  alt: "Kayak rojo pasando bajo un arco de roca en el mar"
+  alt: 'Kayak rojo pasando bajo un arco de roca en el mar'
 - src: /images/actividades/mallorca/fma-cala-varques/cueva-acantilado-cala-varques.webp
-  alt: "Acantilado con cueva marina junto a Cala Varques"
+  alt: 'Acantilado con cueva marina junto a Cala Varques'
 - src: /images/actividades/mallorca/fma-cala-varques/nadadora-esnorquel.webp
-  alt: "Nadadora con esnórquel en agua verde azulada"
+  alt: 'Nadadora con esnórquel en agua verde azulada'
 - src: /images/actividades/mallorca/fma-cala-varques/roca-oleaje-cala-varques.webp
-  alt: "Rocas y oleaje en la costa de Cala Varques"
+  alt: 'Rocas y oleaje en la costa de Cala Varques'
 - src: /images/actividades/mallorca/fma-cala-varques/cala-varques-desde-pinar.webp
-  alt: "Cala Varques vista desde el pinar"
+  alt: 'Cala Varques vista desde el pinar'
+- src: /images/actividades/mallorca/fma-cala-varques/costa-este-acantilados.webp
+  alt: 'Acantilados bajos de la costa este de Mallorca'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 

@@ -86,15 +86,19 @@ imagen: /images/actividades/lanzarote/minicrucero-papagayo.webp
 imagenAlt: Ein Katamaran vor Anker in einer Bucht von Papagayo
 galeria:
 - src: /images/actividades/lanzarote/zonas/papagayo-banistas.webp
-  alt: Badende in einer Bucht von Papagayo
+  alt: 'Badende in einer Bucht von Papagayo'
 - src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
-  alt: Die Südküste von Lanzarote bei den Stränden von Papagayo
+  alt: 'Die Südküste von Lanzarote bei den Stränden von Papagayo'
 - src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
-  alt: Boote in der Marina Rubicón, Playa Blanca
+  alt: 'Boote in der Marina Rubicón, Playa Blanca'
 - src: /images/actividades/lanzarote/zonas/marina-rubicon-veleros.webp
-  alt: Segelboote in der Marina Rubicón mit den Vulkanen im Hintergrund
+  alt: 'Segelboote in der Marina Rubicón mit den Vulkanen im Hintergrund'
 - src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
-  alt: Eine Bucht von Papagayo mit türkisem Wasser und Vulkanfelsen
+  alt: 'Eine Bucht von Papagayo mit türkisem Wasser und Vulkanfelsen'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Lavaklippen von Los Hervideros mit Vulkanen im Hintergrund'
+- src: /images/actividades/lanzarote/zonas/playa-blanca.webp
+  alt: 'Playa Blanca im Süden von Lanzarote'
 ratingProveedor: 4.7
 numeroOpiniones: 436
 atraccionesRelacionadas:

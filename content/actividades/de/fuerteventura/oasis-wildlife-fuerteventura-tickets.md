@@ -79,17 +79,19 @@ imagen: /images/actividades/fuerteventura/oasis-park.webp
 imagenAlt: Tiergehege in Oasis Wildlife Fuerteventura
 galeria:
 - src: /images/actividades/fuerteventura/zonas/oasis-park-camellos.webp
-  alt: Kamele im Oasis Park in La Lajita
+  alt: 'Kamele im Oasis Park in La Lajita'
 - src: /images/actividades/fuerteventura/zonas/oasis-park-cactus.webp
-  alt: Kakteengarten des Oasis Park
+  alt: 'Kakteengarten des Oasis Park'
 - src: /images/actividades/fuerteventura/zonas/oasis-park-flamenco.webp
-  alt: Flamingo im Oasis Park
+  alt: 'Flamingo im Oasis Park'
 - src: /images/actividades/fuerteventura/zonas/oasis-park-suricatas.webp
-  alt: Erdmännchen im Oasis Park
+  alt: 'Erdmännchen im Oasis Park'
 - src: /images/actividades/fuerteventura/zonas/oasis-park-entrada.webp
-  alt: Besucher in den Gärten des Oasis Park
+  alt: 'Besucher in den Gärten des Oasis Park'
 - src: /images/actividades/fuerteventura/zonas/sotavento-aerea.webp
-  alt: Luftaufnahme von Strand und Lagune von Sotavento
+  alt: 'Luftaufnahme von Strand und Lagune von Sotavento'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Strand von Morro Jable'
 ratingProveedor: 4.6
 numeroOpiniones: 3857
 atraccionesRelacionadas:

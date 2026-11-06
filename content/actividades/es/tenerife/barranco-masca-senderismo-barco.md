@@ -101,6 +101,8 @@ galeria:
   alt: 'Luz de tarde en el barranco de Masca'
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
   alt: 'Costa de Los Gigantes'
+- src: /images/actividades/tenerife/masca/masca-caserio.webp
+  alt: 'El caserío de Masca entre montañas'
 ratingProveedor: 4.7
 numeroOpiniones: 374
 atraccionesRelacionadas:

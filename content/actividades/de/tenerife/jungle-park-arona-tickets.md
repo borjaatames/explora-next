@@ -79,17 +79,19 @@ imagen: /images/actividades/tenerife/jungle-park/ftc-jungle-park-entrada-aguilas
 imagenAlt: Eingang des Las Águilas Jungle Park in Arona mit zwei großen Adlerskulpturen
 galeria:
 - src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-cabeciblanco.webp
-  alt: Wollkopfgeier in seinem Gehege im Jungle Park
+  alt: 'Wollkopfgeier in seinem Gehege im Jungle Park'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: Montaña de Guaza in der Gemeinde Arona
+  alt: 'Montaña de Guaza in der Gemeinde Arona'
 - src: /images/actividades/tenerife/jungle-park/ftc-jaguar-tronco.webp
-  alt: Jaguar läuft über einen Baumstamm
+  alt: 'Jaguar läuft über einen Baumstamm'
 - src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-alas.webp
-  alt: Wollkopfgeier breitet im Jungle Park die Flügel aus
+  alt: 'Wollkopfgeier breitet im Jungle Park die Flügel aus'
 - src: /images/actividades/tenerife/jungle-park/ftc-lemur-cola-anillada.webp
-  alt: Katta sitzt auf einem Ast
+  alt: 'Katta sitzt auf einem Ast'
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
-  alt: Strand von Los Cristianos in Arona
+  alt: 'Strand von Los Cristianos in Arona'
+- src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
+  alt: 'Die Küste von Los Cristianos mit dem Atlantik, Ausgangspunkt des Katamarans auf Teneriffa'
 ratingProveedor: 4.5
 numeroOpiniones: 1193
 atraccionesRelacionadas:

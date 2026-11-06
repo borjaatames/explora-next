@@ -88,15 +88,19 @@ imagen: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
 imagenAlt: Cacti among volcanic rocks in Guatiza, northern Lanzarote
 galeria:
 - src: /images/actividades/lanzarote/buggy-volcanes.webp
-  alt: A buggy on a dirt track among volcanoes in Lanzarote
+  alt: 'A buggy on a dirt track among volcanoes in Lanzarote'
 - src: /images/actividades/lanzarote/zonas/molino-jardin-cactus.webp
-  alt: White windmill above the Jardín de Cactus in Guatiza
+  alt: 'White windmill above the Jardín de Cactus in Guatiza'
 - src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp
-  alt: La Graciosa and the El Río strait from the Mirador del Río
+  alt: 'La Graciosa and the El Río strait from the Mirador del Río'
 - src: /images/actividades/lanzarote/zonas/casa-tradicional-verde.webp
-  alt: Traditional whitewashed house with a green wooden balcony
+  alt: 'Traditional whitewashed house with a green wooden balcony'
 - src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
-  alt: Crops growing on volcanic ash with mountains behind
+  alt: 'Crops growing on volcanic ash with mountains behind'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'Lanzarote''s south coast by the Papagayo beaches'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Los Hervideros, lava cliffs by the sea'
 ratingProveedor: 4.6
 numeroOpiniones: 5653
 atraccionesRelacionadas:

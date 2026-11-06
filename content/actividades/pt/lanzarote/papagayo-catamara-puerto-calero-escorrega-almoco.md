@@ -100,6 +100,8 @@ galeria:
   alt: 'Praia de Papagayo sob o seu promontório rochoso'
 - src: /images/actividades/lanzarote/papagayo/flz-acantilados-playa.webp
   alt: 'Falésias e praia nas Playas de Papagayo'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
+  alt: 'Enseada de águas turquesa em Papagayo'
 avisoReserva: "A tripulação ou o guia fala inglês, francês, alemão e espanhol: não há explicações em português."
 ---
 

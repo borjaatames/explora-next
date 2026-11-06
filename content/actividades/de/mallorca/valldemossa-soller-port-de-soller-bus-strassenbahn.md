@@ -85,17 +85,19 @@ imagen: /images/actividades/mallorca/fma-soller/tranvia-soller-calle.webp
 imagenAlt: "Hölzerne Straßenbahn von Sóller in einer Straße von Port de Sóller"
 galeria:
 - src: /images/actividades/mallorca/fma-valldemossa/valldemossa-pueblo-montana.webp
-  alt: "Valldemossa und seine Kartause inmitten der Berge"
+  alt: 'Valldemossa und seine Kartause inmitten der Berge'
 - src: /images/actividades/mallorca/fma-valldemossa/casa-piedra-postigos-verdes.webp
-  alt: "Steinhaus mit grünen Fensterläden und Blumentöpfen in Valldemossa"
+  alt: 'Steinhaus mit grünen Fensterläden und Blumentöpfen in Valldemossa'
 - src: /images/actividades/mallorca/fma-soller/tranvia-soller-paseo.webp
-  alt: "Straßenbahn von Sóller an der Promenade von Port de Sóller"
+  alt: 'Straßenbahn von Sóller an der Promenade von Port de Sóller'
 - src: /images/actividades/mallorca/fma-valldemossa/patio-cartuja-valldemossa.webp
-  alt: "Innenhof der Kartause von Valldemossa"
+  alt: 'Innenhof der Kartause von Valldemossa'
 - src: /images/actividades/mallorca/fma-soller/port-soller-puerto-barcos.webp
-  alt: "Boote im Hafen von Port de Sóller"
+  alt: 'Boote im Hafen von Port de Sóller'
 - src: /images/actividades/mallorca/fma-soller/bahia-port-soller-paseo.webp
-  alt: "Bucht von Port de Sóller von der Promenade aus"
+  alt: 'Bucht von Port de Sóller von der Promenade aus'
+- src: /images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp
+  alt: 'Das Tal von Sóller und die Serra de Tramuntana von der Straße aus'
 avisoReserva: 'Saisonale Aktivität: Die nächsten verfügbaren Termine beginnen im März 2027.'
 ---
 

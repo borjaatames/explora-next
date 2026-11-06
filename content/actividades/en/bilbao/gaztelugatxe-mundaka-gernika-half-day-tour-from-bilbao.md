@@ -86,17 +86,19 @@ imagen: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-camino-acceso.w
 imagenAlt: "Access path and bridge to San Juan de Gaztelugatxe between cliffs"
 galeria:
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-gaztelugatxe-islote-arco.webp
-  alt: "San Juan de Gaztelugatxe islet with its hermitage and natural arch"
+  alt: 'San Juan de Gaztelugatxe islet with its hermitage and natural arch'
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-mundaka-puerto-barcas.webp
-  alt: "Boats in Mundaka harbour"
+  alt: 'Boats in Mundaka harbour'
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-mundaka-puerto.webp
-  alt: "Mundaka harbour with the church tower behind"
+  alt: 'Mundaka harbour with the church tower behind'
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-mundaka-ria-vista.webp
-  alt: "View of the Urdaibai estuary from Mundaka"
+  alt: 'View of the Urdaibai estuary from Mundaka'
 - src: /images/actividades/bilbao/gaztelugatxe/arbol-gernika.webp
-  alt: "Assembly House and Tree of Gernika"
+  alt: 'Assembly House and Tree of Gernika'
 - src: /images/actividades/bilbao/gaztelugatxe/fbi-gernika-iglesia.webp
-  alt: "Church in central Gernika"
+  alt: 'Church in central Gernika'
+- src: /images/actividades/bilbao/gaztelugatxe/ermita.webp
+  alt: 'San Juan de Gaztelugatxe hermitage on the islet'
 ---
 
 ## What you will see

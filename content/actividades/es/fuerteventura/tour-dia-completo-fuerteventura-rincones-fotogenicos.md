@@ -93,17 +93,19 @@ imagen: /images/actividades/fuerteventura/ajuy/ffv-arcos-acantilado-ajuy.webp
 imagenAlt: "Arcos y cuevas en el acantilado de Ajuy"
 galeria:
 - src: /images/actividades/fuerteventura/ajuy/ffv-interior-cueva-ajuy.webp
-  alt: "Visitante dentro de una de las cuevas de Ajuy"
+  alt: 'Visitante dentro de una de las cuevas de Ajuy'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
-  alt: "Plaza de la iglesia de Betancuria con el pueblo al fondo"
+  alt: 'Plaza de la iglesia de Betancuria con el pueblo al fondo'
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-borde-crater-calderon-hondo.webp
-  alt: "Borde del cráter del Calderón Hondo"
+  alt: 'Borde del cráter del Calderón Hondo'
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-5.webp
-  alt: "Duna y cielo azul en Corralejo"
+  alt: 'Duna y cielo azul en Corralejo'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-3.webp
-  alt: "Muros de la iglesia de Betancuria"
+  alt: 'Muros de la iglesia de Betancuria'
 - src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
-  alt: "La Isla de Lobos vista desde una playa de Corralejo"
+  alt: 'La Isla de Lobos vista desde una playa de Corralejo'
+- src: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
+  alt: 'Pueblo de Ajuy y su playa de arena negra'
 ---
 
 ## Qué vas a ver

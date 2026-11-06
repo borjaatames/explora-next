@@ -101,6 +101,8 @@ galeria:
   alt: 'Evening light in the Masca gorge'
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
   alt: 'The Los Gigantes coast'
+- src: /images/actividades/tenerife/masca/masca-caserio.webp
+  alt: 'The hamlet of Masca among the mountains'
 ratingProveedor: 4.7
 numeroOpiniones: 374
 atraccionesRelacionadas:

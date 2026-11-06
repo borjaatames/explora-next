@@ -86,17 +86,19 @@ imagen: /images/actividades/alicante/fal-calpe/fal-penon-ifach-barcos.webp
 imagenAlt: "Peñón de Ifach en Calpe con barcos fondeados"
 galeria:
 - src: /images/actividades/alicante/fal-altea/fal-calle-flores-altea.webp
-  alt: "Calle empedrada con macetas de flores en el casco antiguo de Altea"
+  alt: 'Calle empedrada con macetas de flores en el casco antiguo de Altea'
 - src: /images/actividades/alicante/excursiones/altea-iglesia-calle.webp
-  alt: "Iglesia de cúpulas azules de Altea al final de una calle"
+  alt: 'Iglesia de cúpulas azules de Altea al final de una calle'
 - src: /images/actividades/alicante/fal-altea/fal-altea-desde-mar.webp
-  alt: "Altea vista desde el mar con su iglesia en lo alto"
+  alt: 'Altea vista desde el mar con su iglesia en lo alto'
 - src: /images/actividades/alicante/fal-calpe/fal-calpe-vista-alto.webp
-  alt: "Vista de Calpe y su bahía desde lo alto"
+  alt: 'Vista de Calpe y su bahía desde lo alto'
 - src: /images/actividades/alicante/fal-calpe/fal-playa-calpe-penon.webp
-  alt: "Playa de Calpe con el Peñón de Ifach"
+  alt: 'Playa de Calpe con el Peñón de Ifach'
 - src: /images/actividades/alicante/fal-calpe/fal-calpe-ciudad-penon.webp
-  alt: "Calpe y el Peñón de Ifach"
+  alt: 'Calpe y el Peñón de Ifach'
+- src: /images/actividades/alicante/excursiones/guadalest-desde-castillo.webp
+  alt: 'Guadalest visto desde el castillo'
 ---
 
 ## Qué vas a ver

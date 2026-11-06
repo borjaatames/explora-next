@@ -76,17 +76,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/sevilla/coche-caballos/coche-caballos-plaza-triunfo.webp
-  alt: Fila de coches de caballos esperando a los visitantes junto a la Catedral de Sevilla
+  alt: 'Fila de coches de caballos esperando a los visitantes junto a la Catedral de Sevilla'
 - src: /images/actividades/sevilla/coche-caballos/coche-caballos-plaza-espana.webp
-  alt: Coche de caballos recorriendo la Plaza de España de Sevilla con la torre al fondo
+  alt: 'Coche de caballos recorriendo la Plaza de España de Sevilla con la torre al fondo'
 - src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-sevilla-03.webp
-  alt: Exterior de la Maestranza en el paseo de Colón
+  alt: 'Exterior de la Maestranza en el paseo de Colón'
 - src: https://imgcdn.bokun.tools/4cad080d-9957-497c-a7bb-37742d1d007a.jpg
-  alt: Coche de caballos con cochero en una plaza de Sevilla
+  alt: 'Coche de caballos con cochero en una plaza de Sevilla'
 - src: https://imgcdn.bokun.tools/4f352fe1-6ba8-4bdd-aa2c-50f91f0eb6b2.jpg
-  alt: Coches de caballos de noche frente a la Plaza de España
+  alt: 'Coches de caballos de noche frente a la Plaza de España'
 - src: https://imgcdn.bokun.tools/15ad9d61-78f7-4634-9472-69b04f2c5f97.jpg
-  alt: Coche de caballos por un paseo arbolado
+  alt: 'Coche de caballos por un paseo arbolado'
+- src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
+  alt: 'Plaza de toros de la Real Maestranza de Sevilla'
 bokunProductId: 933447
 fecha_actualizacion: '2026-10-24'
 privada: true

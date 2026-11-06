@@ -85,15 +85,19 @@ imagen: /images/actividades/lanzarote/zonas/guatiza-cactus.webp
 imagenAlt: Cactus entre des roches volcaniques à Guatiza, dans le nord de Lanzarote
 galeria:
 - src: /images/actividades/lanzarote/buggy-volcanes.webp
-  alt: Un buggy sur une piste en terre entre les volcans de Lanzarote
+  alt: 'Un buggy sur une piste en terre entre les volcans de Lanzarote'
 - src: /images/actividades/lanzarote/zonas/molino-jardin-cactus.webp
-  alt: Moulin à vent blanc au-dessus du Jardín de Cactus à Guatiza
+  alt: 'Moulin à vent blanc au-dessus du Jardín de Cactus à Guatiza'
 - src: /images/actividades/lanzarote/zonas/mirador-del-rio-la-graciosa.webp
-  alt: La Graciosa et le détroit d'El Río depuis le Mirador del Río
+  alt: 'La Graciosa et le détroit d''El Río depuis le Mirador del Río'
 - src: /images/actividades/lanzarote/zonas/casa-tradicional-verde.webp
-  alt: Maison traditionnelle blanchie à la chaux avec un balcon en bois vert
+  alt: 'Maison traditionnelle blanchie à la chaux avec un balcon en bois vert'
 - src: /images/actividades/lanzarote/zonas/cultivos-lava.webp
-  alt: Cultures poussant sur la cendre volcanique avec des montagnes en arrière-plan
+  alt: 'Cultures poussant sur la cendre volcanique avec des montagnes en arrière-plan'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'La côte sud de Lanzarote près des plages de Papagayo'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Falaises de lave à Los Hervideros avec des volcans en arrière-plan'
 ratingProveedor: 4.6
 numeroOpiniones: 5653
 atraccionesRelacionadas:

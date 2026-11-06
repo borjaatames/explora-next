@@ -78,17 +78,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/7546c69a-9c85-42cc-898b-c63c4d093bc6.jpeg
-  alt: Whitewashed Albaicín lane with blue flowerpots
+  alt: 'Whitewashed Albaicín lane with blue flowerpots'
 - src: https://imgcdn.bokun.tools/fdbd9ec5-8816-4220-ba12-6014e3e46c3d.jpeg
-  alt: Travellers looking at the Alhambra from a viewpoint
+  alt: 'Travellers looking at the Alhambra from a viewpoint'
 - src: https://imgcdn.bokun.tools/6bd542e8-89cd-4e08-86e9-db779bea1b76.jpeg
-  alt: Albaicín alleyway with bougainvillea
+  alt: 'Albaicín alleyway with bougainvillea'
 - src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-granada-plaza-de-san-nicol-s-16-03-2011-14-27-28-j.webp
-  alt: San Nicolás viewpoint in the Albaicín
+  alt: 'San Nicolás viewpoint in the Albaicín'
 - src: https://imgcdn.bokun.tools/5923a034-f4ca-4f3e-80f4-a8e679ced2dd.jpeg
-  alt: Travellers at a viewpoint over Granada
+  alt: 'Travellers at a viewpoint over Granada'
 - src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
-  alt: Cave houses on the Sacromonte hillside
+  alt: 'Cave houses on the Sacromonte hillside'
+- src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
+  alt: 'A street in the Albaicín'
 bokunProductId: 938039
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

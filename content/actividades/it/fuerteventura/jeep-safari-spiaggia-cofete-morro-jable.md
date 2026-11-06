@@ -87,17 +87,19 @@ imagen: /images/actividades/fuerteventura/jeep-cofete/ffv-cabras-junto-todoterre
 imagenAlt: "Capre accanto ai fuoristrada durante una sosta del safari a Fuerteventura"
 galeria:
 - src: /images/actividades/fuerteventura/zonas/cofete-cresta.webp
-  alt: "Cresta delle montagne di Jandía sopra Cofete"
+  alt: 'Cresta delle montagne di Jandía sopra Cofete'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-1.webp
-  alt: "La spiaggia di Cofete vista dalla montagna"
+  alt: 'La spiaggia di Cofete vista dalla montagna'
 - src: /images/actividades/fuerteventura/zonas/villa-winter-ladera.webp
-  alt: "Villa Winter vista dalla pista"
+  alt: 'Villa Winter vista dalla pista'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-arena-montanas.webp
-  alt: "La sabbia di Cofete ai piedi delle montagne di Jandía"
+  alt: 'La sabbia di Cofete ai piedi delle montagne di Jandía'
 - src: /images/actividades/fuerteventura/cofete/ffv-cofete-5.webp
-  alt: "Spiaggia di Cofete e Montaña Aguda"
+  alt: 'Spiaggia di Cofete e Montaña Aguda'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: "Spiaggia di Morro Jable"
+  alt: 'Spiaggia di Morro Jable'
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: 'La baia di Corralejo con Lobos sullo sfondo'
 ---
 
 ## Cosa vedrai

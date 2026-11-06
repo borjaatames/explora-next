@@ -104,6 +104,8 @@ galeria:
   alt: 'El Mediterráneo a ras de agua junto a la costa rocosa'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
   alt: 'Playa principal de Lloret de Mar con rocas en primer plano'
+- src: /images/actividades/girona/fgi-mar/fgi-esnorquel-desde-arriba.webp
+  alt: 'Persona haciendo esnórquel en aguas claras, vista desde arriba'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 

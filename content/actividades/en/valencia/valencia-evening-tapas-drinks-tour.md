@@ -88,17 +88,19 @@ imagen: /images/actividades/valencia/tapas/fvc-bar-tapas-lleno-noche.webp
 imagenAlt: "Lively tapas bar interior at night"
 galeria:
 - src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
-  alt: "Street in Valencia old town at night"
+  alt: 'Street in Valencia old town at night'
 - src: /images/actividades/valencia/ruzafa/croquetas.webp
-  alt: "Homemade croquettes served as a tapa"
+  alt: 'Homemade croquettes served as a tapa'
 - src: /images/actividades/valencia/ruzafa/barra-cerveceria.webp
-  alt: "Wooden bar counter with a glass of beer"
+  alt: 'Wooden bar counter with a glass of beer'
 - src: /images/actividades/valencia/ruzafa/gildas.webp
-  alt: "Gildas skewers of olive, chilli pepper and anchovy"
+  alt: 'Gildas skewers of olive, chilli pepper and anchovy'
 - src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
-  alt: "El Carmen district in central Valencia, lit up at night"
+  alt: 'El Carmen district in central Valencia, lit up at night'
 - src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-noche.webp
-  alt: "Assorted tapas in clay dishes to share"
+  alt: 'Assorted tapas in clay dishes to share'
+- src: /images/actividades/valencia/ruzafa/calle-ruzafa.webp
+  alt: 'Street in the Ruzafa district'
 ---
 
 ## What you will see

@@ -100,17 +100,19 @@ imagen: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-merc
 imagenAlt: Ham and deli stalls inside the Mercado de Triana
 galeria:
 - src: /images/actividades/sevilla/setas/setas-pexels-18536662.webp
-  alt: Wooden waves of the Setas de Sevilla against the sky
+  alt: 'Wooden waves of the Setas de Sevilla against the sky'
 - src: /images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp
-  alt: Metropol Parasol over Plaza de la Encarnación
+  alt: 'Metropol Parasol over Plaza de la Encarnación'
 - src: /images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp
-  alt: A bottle of red wine and two filled glasses
+  alt: 'A bottle of red wine and two filled glasses'
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
-  alt: Callejón del Agua in the Santa Cruz quarter
+  alt: 'Callejón del Agua in the Santa Cruz quarter'
 - src: /images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp
-  alt: Colourful houses on Calle Betis along the Guadalquivir
+  alt: 'Colourful houses on Calle Betis along the Guadalquivir'
 - src: /images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp
-  alt: Bowl of green olives with wine glasses
+  alt: 'Bowl of green olives with wine glasses'
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
+  alt: 'Las Setas at La Encarnación, a few minutes'' walk away'
 ratingProveedor: 4.7
 numeroOpiniones: 50
 publicada: true

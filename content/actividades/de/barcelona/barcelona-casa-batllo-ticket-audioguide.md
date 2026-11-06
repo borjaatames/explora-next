@@ -111,6 +111,8 @@ galeria:
   alt: 'Die charakteristische geschwungene Fassade der Casa Batlló mit bunten Mosaiken im Stadtbild Barcelonas'
 - src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
   alt: 'Stadtbild von Barcelona mit Architektur des Gotischen Viertels und modernen Gebäuden bei Sonnenuntergang'
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-ceiling-chandelier-barcelona-hero.webp
+  alt: 'Spiraldecke und Lampe im Hauptsalon der Casa Batlló'
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

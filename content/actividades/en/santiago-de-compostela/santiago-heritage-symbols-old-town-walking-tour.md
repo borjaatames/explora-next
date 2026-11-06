@@ -91,6 +91,8 @@ galeria:
   alt: 'Ornament with coat of arms on the Obradoiro façade'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-obradoiro-hostal.webp
   alt: 'Praza do Obradoiro with the Hostal dos Reis Católicos'
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: 'Praza da Quintana'
 ---
 
 ## What you will see

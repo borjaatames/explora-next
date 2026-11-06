@@ -84,17 +84,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/90a485b0-d5d7-4942-be43-8a832893945f.jpg
-  alt: Hikers in helmets on the walkways
+  alt: 'Hikers in helmets on the walkways'
 - src: https://imgcdn.bokun.tools/7f2cf169-87d8-45cd-8dc6-289b4a6c92d4.jpg
-  alt: Bridge over the gorge
+  alt: 'Bridge over the gorge'
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-unsplash-BCWBVlNgK90.webp
-  alt: Suspension bridge over the Guadalhorce river
+  alt: 'Suspension bridge over the Guadalhorce river'
 - src: https://imgcdn.bokun.tools/c46efb0e-37d9-4206-b8b8-e133be260f0e.jpg
-  alt: Couple in helmets on the Caminito del Rey
+  alt: 'Couple in helmets on the Caminito del Rey'
 - src: https://imgcdn.bokun.tools/c169432c-b390-46f4-becd-a86c985887b7.jpg
-  alt: Walkways clinging to the gorge wall
+  alt: 'Walkways clinging to the gorge wall'
 - src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pixabay-7240632.webp
-  alt: The Gaitanes gorge and the reservoir
+  alt: 'The Gaitanes gorge and the reservoir'
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-17943929.webp
+  alt: 'Hanging bridge on the Caminito del Rey'
 bokunProductId: 860681
 fecha_actualizacion: '2026-10-24'
 precioPorGrupo: true

@@ -85,6 +85,10 @@ galeria:
   alt: 'Cúpulas y pináculos de la Catedral'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-plaza.webp
   alt: 'La Giralda iluminada de noche'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
+  alt: 'Catedral de Sevilla y la Giralda'
+- src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
+  alt: 'Fachada de la Catedral de Sevilla entre palmeras'
 ratingProveedor: 4.6
 numeroOpiniones: 3280
 publicada: true

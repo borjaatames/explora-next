@@ -87,17 +87,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/64ee4cf6-4eb4-4185-8faf-830078bb5cf6.jpg
-  alt: Jarapa rugs for sale in an Alpujarra passageway
+  alt: 'Jarapa rugs for sale in an Alpujarra passageway'
 - src: https://imgcdn.bokun.tools/10324816-5719-4164-a525-296900e15b4e.jpg
-  alt: White Alpujarra village with mountains behind
+  alt: 'White Alpujarra village with mountains behind'
 - src: https://imgcdn.bokun.tools/eb830385-aba2-42d9-9ee6-22d74a54692e.jpg
-  alt: Whitewashed street with a water channel in an Alpujarra village
+  alt: 'Whitewashed street with a water channel in an Alpujarra village'
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-50841025723-jpg.webp
-  alt: A tinao, the covered passage typical of the Alpujarra
+  alt: 'A tinao, the covered passage typical of the Alpujarra'
 - src: https://imgcdn.bokun.tools/7c864af6-dcaf-492d-9253-7d39f0b10150.jpg
-  alt: Traveller looking out over the Alpujarra mountains
+  alt: 'Traveller looking out over the Alpujarra mountains'
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
-  alt: Flat roofs with washing hung out in the Alpujarra
+  alt: 'Flat roofs with washing hung out in the Alpujarra'
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pixabay-2842181.webp
+  alt: 'Balcony with geraniums in the Alpujarra'
 bokunProductId: 793772
 fecha_actualizacion: '2026-10-24'
 privada: true

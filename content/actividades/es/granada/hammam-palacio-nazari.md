@@ -96,17 +96,19 @@ imagen: /images/actividades/granada/hammam-palacio-nazari/nazari-sala-principal-
 imagenAlt: "Sala principal del Hammam Palacio Nazarí, con arcos, columnas de mármol y las piscinas"
 galeria:
 - src: /images/actividades/granada/hammam-palacio-nazari/nazari-piscina-arcos.webp
-  alt: "Piscina de agua templada bajo los arcos del Hammam Palacio Nazarí"
+  alt: 'Piscina de agua templada bajo los arcos del Hammam Palacio Nazarí'
 - src: /images/actividades/granada/hammam-palacio-nazari/nazari-sala-te-azulejos.webp
-  alt: "Sala de descanso con azulejos, faroles y mesas para el té"
+  alt: 'Sala de descanso con azulejos, faroles y mesas para el té'
 - src: /images/actividades/granada/hammam-palacio-nazari/nazari-masaje-aceite.webp
-  alt: "Masaje con aceite caliente en el Hammam Palacio Nazarí"
+  alt: 'Masaje con aceite caliente en el Hammam Palacio Nazarí'
 - src: /images/actividades/granada/wikimedia/granada-santa-ana-darro-04.webp
-  alt: "Río Darro a su paso por el centro de Granada"
+  alt: 'Río Darro a su paso por el centro de Granada'
 - src: /images/actividades/granada/hammam-palacio-nazari/nazari-relax-bano.webp
-  alt: "Clienta relajándose en una de las piscinas del hammam"
+  alt: 'Clienta relajándose en una de las piscinas del hammam'
 - src: /images/actividades/granada/hammam-palacio-nazari/nazari-bano-frio.webp
-  alt: "Piscina alargada entre muros de ladrillo y faroles"
+  alt: 'Piscina alargada entre muros de ladrillo y faroles'
+- src: /images/actividades/granada/wikimedia/granada-catedral-06.webp
+  alt: 'Puerta del Perdón de la Catedral de Granada'
 ratingProveedor: 4.5
 numeroOpiniones: 860
 publicada: true

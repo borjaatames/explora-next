@@ -91,17 +91,19 @@ imagen: /images/actividades/lanzarote/buggy/flz-buggy-pista-arena.webp
 imagenAlt: "Buggy circulando por una pista de arena"
 galeria:
 - src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
-  alt: "Colada de lava solidificada en Timanfaya"
+  alt: 'Colada de lava solidificada en Timanfaya'
 - src: /images/actividades/lanzarote/zonas/carretera-volcanes.webp
-  alt: "Carretera entre volcanes en Lanzarote"
+  alt: 'Carretera entre volcanes en Lanzarote'
 - src: /images/actividades/lanzarote/timanfaya/flz-crater-campo-lava.webp
-  alt: "Cráter volcánico entre campos de lava en Lanzarote"
+  alt: 'Cráter volcánico entre campos de lava en Lanzarote'
 - src: /images/actividades/lanzarote/la-geria/flz-hoyos-ladera.webp
-  alt: "Hoyos con muros de piedra en la ladera de La Geria"
+  alt: 'Hoyos con muros de piedra en la ladera de La Geria'
 - src: /images/actividades/lanzarote/zonas/la-geria-hoyos.webp
-  alt: "Hoyos de viñedo en La Geria"
+  alt: 'Hoyos de viñedo en La Geria'
 - src: /images/actividades/lanzarote/la-geria/flz-vinedo-pie-volcan.webp
-  alt: "Viñedo de hoyos con muros de piedra al pie de un volcán en La Geria"
+  alt: 'Viñedo de hoyos con muros de piedra al pie de un volcán en La Geria'
+- src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
+  alt: 'Paisaje del Parque Nacional de Timanfaya con el mar al fondo'
 ---
 
 ## Qué vas a ver

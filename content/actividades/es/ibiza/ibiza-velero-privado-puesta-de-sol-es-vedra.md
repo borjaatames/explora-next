@@ -74,6 +74,8 @@ galeria:
   alt: 'Pareja en la cubierta con el mar detrás'
 - src: https://imgcdn.bokun.tools/78b81a5f-4c9f-4eea-a6be-d201cccc8807.jpg
   alt: 'Mujer mirando la puesta de sol desde la proa'
+- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
+  alt: 'Paddle surf sobre el agua azul del Mediterráneo'
 publicada: true
 indexar: false
 destacada: false

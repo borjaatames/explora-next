@@ -85,17 +85,19 @@ imagen: /images/actividades/mallorca/fma-cocina-palma/paella-marisco-paellera.we
 imagenAlt: "Freshly made seafood paella in its pan"
 galeria:
 - src: /images/actividades/mallorca/fma-cocina-palma/paella-cocinandose-fuego.webp
-  alt: "Paella cooking over the fire"
+  alt: 'Paella cooking over the fire'
 - src: /images/actividades/sevilla/cocina-andaluza/gazpacho-vasitos.webp
-  alt: "Gazpacho served in small glasses"
+  alt: 'Gazpacho served in small glasses'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-01.webp
-  alt: "Board with bread and tomato, ham, cheese and olives"
+  alt: 'Board with bread and tomato, ham, cheese and olives'
 - src: /images/actividades/mallorca/fma-cocina-palma/paella-gambas-almejas-brasa.webp
-  alt: "Paella with prawns and clams over the embers"
+  alt: 'Paella with prawns and clams over the embers'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-03.webp
-  alt: "Pa amb oli, bread with tomato and olive oil"
+  alt: 'Pa amb oli, bread with tomato and olive oil'
 - src: /images/actividades/mallorca/fma-cocina-palma/paella-mejillones-pimiento.webp
-  alt: "Paella with mussels and strips of pepper"
+  alt: 'Paella with mussels and strips of pepper'
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
+  alt: 'Narrow street in Palma old town'
 ---
 
 ## What you will see

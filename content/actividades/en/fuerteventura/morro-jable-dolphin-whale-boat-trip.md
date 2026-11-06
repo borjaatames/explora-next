@@ -87,13 +87,19 @@ imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
 imagenAlt: Dolphins swimming beside a boat off Morro Jable
 galeria:
 - src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
-  alt: The Morro Jable lighthouse
+  alt: 'The Morro Jable lighthouse'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable and Matorral beach seen from the hills
+  alt: 'Morro Jable and Matorral beach seen from the hills'
 - src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: The Jandía coast with the lighthouse in the distance
+  alt: 'The Jandía coast with the lighthouse in the distance'
 - src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
-  alt: Morro Jable lighthouse among the salt-marsh scrub
+  alt: 'Morro Jable lighthouse among the salt-marsh scrub'
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: 'Corralejo bay'
+- src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
+  alt: 'Volcanic cones in northern Fuerteventura'
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
+  alt: 'Boats in Corralejo harbour'
 ratingProveedor: 4.2
 numeroOpiniones: 5490
 atraccionesRelacionadas:

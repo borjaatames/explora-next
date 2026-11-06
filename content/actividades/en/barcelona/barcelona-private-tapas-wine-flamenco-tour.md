@@ -91,17 +91,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-  alt: Flamenco dancer in a red dress with guitarists in a tablao
+  alt: 'Flamenco dancer in a red dress with guitarists in a tablao'
 - src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
-  alt: Pintxos on bread on a bar counter
+  alt: 'Pintxos on bread on a bar counter'
 - src: /images/actividades/barcelona/vino/copas-vino-tinto-fila.webp
-  alt: Row of red wine glasses on a table
+  alt: 'Row of red wine glasses on a table'
 - src: https://imgcdn.bokun.tools/1d4b51bc-ab97-4364-a65c-6382747f9b1c.jpg
-  alt: Flamenco dancer in a red dress beside the guitarist in a tablao
+  alt: 'Flamenco dancer in a red dress beside the guitarist in a tablao'
 - src: https://imgcdn.bokun.tools/8309b092-5eba-4290-aa32-4e297e5dd854.jpg
-  alt: Flamenco show in a stone hall with arches
+  alt: 'Flamenco show in a stone hall with arches'
 - src: https://imgcdn.bokun.tools/e9f0cdfb-0ed3-43a7-8520-27462fa72090.jpg
-  alt: Travellers toasting over tapas in the restaurant
+  alt: 'Travellers toasting over tapas in the restaurant'
+- src: /images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp
+  alt: 'Flamenco dancer with a shawl'
 bokunProductId: 217555
 fecha_actualizacion: '2026-10-24'
 privada: true

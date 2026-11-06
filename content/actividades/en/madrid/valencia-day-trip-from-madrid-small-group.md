@@ -72,6 +72,10 @@ galeria:
   alt: 'Inside the Silk Exchange'
 - src: https://imgcdn.bokun.tools/94add090-2701-49f7-9300-dfdf673ffe7d.jpg
   alt: 'The tour''s Mercedes vans'
+- src: /images/actividades/valencia/albufera/fvc-proa-barca-lago-atardecer.webp
+  alt: 'Bow of a boat sailing on the Albufera lake at sunset'
+- src: /images/actividades/valencia/albufera/fvc-embarcadero-barcas-canal.webp
+  alt: 'Jetty with traditional boats on an Albufera canal'
 publicada: true
 indexar: false
 destacada: false

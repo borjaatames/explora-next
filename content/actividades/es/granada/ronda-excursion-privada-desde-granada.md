@@ -89,6 +89,10 @@ galeria:
   alt: 'El Puente Nuevo sobre el Tajo de Ronda'
 - src: https://imgcdn.bokun.tools/a3e9afff-0a0a-48b7-a951-261b60a0fc1d.jpg
   alt: 'Vista aérea de Ronda sobre el Tajo'
+- src: /images/actividades/granada/ronda/ronda-pixabay-3372201.webp
+  alt: 'Puente Nuevo sobre el Tajo en primavera'
+- src: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
+  alt: 'Arcos del Puente Nuevo de Ronda'
 bokunProductId: 841521
 fecha_actualizacion: '2026-10-24'
 privada: true

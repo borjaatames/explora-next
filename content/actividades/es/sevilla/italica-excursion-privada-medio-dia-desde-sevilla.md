@@ -76,6 +76,10 @@ galeria:
   alt: 'Ruinas de la ciudad romana de Itálica'
 - src: https://imgcdn.bokun.tools/c5bbf131-350e-4527-ad51-a593753d5a00.jpg
   alt: 'Vehículo privado del traslado'
+- src: /images/actividades/sevilla/fotos-biblioteca/06.webp
+  alt: 'Galería del Grutesco en el Real Alcázar de Sevilla'
+- src: /images/actividades/sevilla/fotos-biblioteca/wikimedia-08.webp
+  alt: 'Paso procesional de la Semana Santa de Sevilla'
 publicada: true
 indexar: false
 destacada: false

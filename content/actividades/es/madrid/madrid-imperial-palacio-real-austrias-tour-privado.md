@@ -67,6 +67,16 @@ galeria:
   alt: 'Fachada del Palacio Real de Madrid'
 - src: https://imgcdn.bokun.tools/bc1721a2-31b5-4f27-abc9-b65ddfb42823.jpg
   alt: 'La catedral de la Almudena al atardecer'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
+  alt: 'Palacio Real de Madrid iluminado de noche'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
+  alt: 'Plaza de Oriente y Palacio Real'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
+  alt: 'Palacio Real visto desde los jardines del Campo del Moro'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
+  alt: 'Palacio Real desde la plaza de la Armería, con su galería de arcos'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp
+  alt: 'Comedor de Gala del Palacio Real de Madrid'
 publicada: true
 indexar: false
 destacada: false

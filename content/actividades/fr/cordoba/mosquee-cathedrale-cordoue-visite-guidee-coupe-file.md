@@ -83,6 +83,8 @@ galeria:
   alt: 'Cour des Orangers'
 - src: /images/actividades/cordoba/mezquita/fvc-puente-romano-mezquita-dia.webp
   alt: 'La Mosquée depuis le pont romain'
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: 'Tour de la Mosquée-Cathédrale vue depuis une rue du quartier juif'
 ratingProveedor: 4.7
 numeroOpiniones: 7507
 publicada: true

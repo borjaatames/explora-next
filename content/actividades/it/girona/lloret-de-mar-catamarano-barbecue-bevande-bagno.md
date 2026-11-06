@@ -102,6 +102,8 @@ galeria:
   alt: 'Il Mediterraneo a pelo d''acqua accanto alla costa rocciosa'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
   alt: 'Spiaggia principale di Lloret de Mar con scogli in primo piano'
+- src: /images/actividades/girona/fgi-mar/fgi-esnorquel-desde-arriba.webp
+  alt: 'Persona che fa snorkeling in acque limpide, vista dall''alto'
 avisoReserva: 'Attività stagionale: le prossime date disponibili iniziano a maggio 2027.'
 ---
 

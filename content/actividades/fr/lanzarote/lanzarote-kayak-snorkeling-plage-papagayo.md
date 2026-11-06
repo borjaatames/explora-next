@@ -92,6 +92,12 @@ galeria:
   alt: 'Rivage d''une plage de Papagayo avec des falaises en arrière-plan'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
   alt: 'La plage de Playa Blanca, dans le sud de Lanzarote'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'La côte sud de Lanzarote près des plages de Papagayo'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Falaises de lave à Los Hervideros avec des volcans en arrière-plan'
+- src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
+  alt: 'Bateaux amarrés à la Marina Rubicón, Playa Blanca'
 ratingProveedor: 4.7
 numeroOpiniones: 162
 atraccionesRelacionadas:

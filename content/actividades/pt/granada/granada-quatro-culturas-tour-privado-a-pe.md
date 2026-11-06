@@ -87,17 +87,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/f7536f42-96d4-4b7d-80b7-c65b5630fcd6.jpg
-  alt: A Alhambra vista de uma rua do Albaicín
+  alt: 'A Alhambra vista de uma rua do Albaicín'
 - src: https://imgcdn.bokun.tools/16c9e572-7fdf-4373-8f09-0ae90cbe822b.jpg
-  alt: Viajantes com Granada ao fundo
+  alt: 'Viajantes com Granada ao fundo'
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: Casas-gruta caiadas no Sacromonte
+  alt: 'Casas-gruta caiadas no Sacromonte'
 - src: https://imgcdn.bokun.tools/bfb2d3de-7fa1-480d-af0d-3849f6a986f1.jpg
-  alt: Casal em frente à Alhambra ao pôr do sol
+  alt: 'Casal em frente à Alhambra ao pôr do sol'
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
-  alt: Fachada principal da Catedral de Granada, de Alonso Cano
+  alt: 'Fachada principal da Catedral de Granada, de Alonso Cano'
 - src: https://imgcdn.bokun.tools/f661330d-1a47-46d8-96ff-5e0c374eba6b.jpg
-  alt: Pôr do sol sobre Granada a partir de um miradouro
+  alt: 'Pôr do sol sobre Granada a partir de um miradouro'
+- src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
+  alt: 'Casas-gruta na encosta do Sacromonte, Granada'
 bokunProductId: 793773
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

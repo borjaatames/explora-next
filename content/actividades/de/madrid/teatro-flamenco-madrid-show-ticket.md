@@ -90,6 +90,8 @@ galeria:
   alt: 'Terrassen in Malasaña bei Nacht'
 - src: /images/actividades/madrid/gran-via/gran-via-callao-noche.webp
   alt: 'Gran Vía und Callao nachts beleuchtet'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Flamenco-Gitarrist spielt auf der Bühne'
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true

@@ -90,6 +90,10 @@ galeria:
   alt: 'Via del centro di Malaga con la Peña Juan Breva'
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
   alt: 'Cattedrale di Malaga'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Chitarrista di flamenco che suona sul palco'
+- src: /images/actividades/cordoba/flamenco/guitarrista.webp
+  alt: 'Chitarrista di flamenco con cappello che suona dal vivo'
 ratingProveedor: 4.7
 numeroOpiniones: 5347
 publicada: true

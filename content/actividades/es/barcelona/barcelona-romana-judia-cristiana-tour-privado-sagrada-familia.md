@@ -88,17 +88,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/e874e265-0000-4125-9870-c7a174217c22.jpg
-  alt: Grupo con su guía en la Sinagoga Mayor, junto a una menorá
+  alt: 'Grupo con su guía en la Sinagoga Mayor, junto a una menorá'
 - src: https://imgcdn.bokun.tools/ffca02cd-42a7-410a-a783-ae05722c10c9.jpg
-  alt: Grupo junto a las letras de Barcino en la plaça Nova, ante la muralla romana
+  alt: 'Grupo junto a las letras de Barcino en la plaça Nova, ante la muralla romana'
 - src: https://imgcdn.bokun.tools/826d7a9a-1585-4c82-9969-4d63f94cabe3.jpg
-  alt: Menorá sobre un muro de piedra en el Call
+  alt: 'Menorá sobre un muro de piedra en el Call'
 - src: https://imgcdn.bokun.tools/0c6ac763-5188-495f-a9d3-4b3a8dcf7097.jpg
-  alt: Calle estrecha del Call de Barcelona
+  alt: 'Calle estrecha del Call de Barcelona'
 - src: https://imgcdn.bokun.tools/cf65d5e4-afc9-40c4-895f-f546da5d89ab.jpg
-  alt: Viajeros haciéndose un selfi ante la Sagrada Familia
+  alt: 'Viajeros haciéndose un selfi ante la Sagrada Familia'
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
-  alt: Vidrieras azules y verdes iluminando la nave de la Sagrada Familia
+  alt: 'Vidrieras azules y verdes iluminando la nave de la Sagrada Familia'
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: 'La catedral de Barcelona, en el corazón del Barrio Gótico'
 bokunProductId: 612622
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

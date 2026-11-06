@@ -91,17 +91,19 @@ imagen: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
 imagenAlt: "Cabra majorera de largos cuernos"
 galeria:
 - src: /images/actividades/fuerteventura/cabras/ffv-cabra-en-las-rocas.webp
-  alt: "Cabra sobre unas rocas volcánicas"
+  alt: 'Cabra sobre unas rocas volcánicas'
 - src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: "Montañas del sur de Fuerteventura"
+  alt: 'Montañas del sur de Fuerteventura'
 - src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
-  alt: "Rebaño de cabras en una ladera de Fuerteventura"
+  alt: 'Rebaño de cabras en una ladera de Fuerteventura'
 - src: /images/actividades/fuerteventura/cabras/ffv-pastor-majorero.webp
-  alt: "Pastor caminando por el campo majorero"
+  alt: 'Pastor caminando por el campo majorero'
 - src: /images/actividades/fuerteventura/cabras/ffv-granja-campo-desertico.webp
-  alt: "Granja ganadera en el paisaje árido de Fuerteventura"
+  alt: 'Granja ganadera en el paisaje árido de Fuerteventura'
 - src: /images/actividades/fuerteventura/queso/ffv-ensalada-queso-cabra.webp
-  alt: "Ensalada con queso de cabra e higos"
+  alt: 'Ensalada con queso de cabra e higos'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Morro Jable y la playa del Matorral desde la montaña'
 ---
 
 ## Qué vas a ver

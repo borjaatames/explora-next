@@ -86,6 +86,8 @@ galeria:
   alt: 'Tour group in a traditional tavern'
 - src: https://imgcdn.bokun.tools/2cf8b793-4b48-4102-9b04-61ff9e3e7b3b.jpg
   alt: 'Travellers with wine on a bar terrace'
+- src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
+  alt: 'The Triana bridge at sunset'
 bokunProductId: 933456
 fecha_actualizacion: '2026-10-24'
 privada: true

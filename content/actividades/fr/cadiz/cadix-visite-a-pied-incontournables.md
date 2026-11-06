@@ -75,15 +75,19 @@ imagen: /images/actividades/cadiz/centro/ftc-catedral-desde-campo-sur.webp
 imagenAlt: La cathédrale de Cadix vue depuis le Campo del Sur
 galeria:
 - src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
-  alt: Arco de los Blancos, dans le quartier du Pópulo
+  alt: 'Arco de los Blancos, dans le quartier du Pópulo'
 - src: /images/actividades/cadiz/centro/catedral-tejados.webp
-  alt: Toits et coupole de la cathédrale de Cadix
+  alt: 'Toits et coupole de la cathédrale de Cadix'
 - src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
-  alt: Plaza de San Juan de Dios et l'hôtel de ville
+  alt: 'Plaza de San Juan de Dios et l''hôtel de ville'
 - src: /images/actividades/cadiz/centro/ftc-plaza-catedral-palmeras.webp
-  alt: Place de la cathédrale de Cadix et ses palmiers
+  alt: 'Place de la cathédrale de Cadix et ses palmiers'
 - src: /images/actividades/cadiz/campo-del-sur/paseo-playa-unsplash-IWV0-oq5ziE.webp
-  alt: Promenade du bord de mer à Cadix
+  alt: 'Promenade du bord de mer à Cadix'
+- src: /images/actividades/cadiz/centro/plaza-flores.webp
+  alt: 'Plaza de las Flores, à Cadix'
+- src: /images/actividades/cadiz/centro/catedral-fachada.webp
+  alt: 'Façade de la cathédrale de Cadix'
 ratingProveedor: 4.7
 numeroOpiniones: 112
 publicada: true

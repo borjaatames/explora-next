@@ -89,17 +89,19 @@ imagen: /images/actividades/ibiza/bibo-park/fi1-piano-plantas-bibo-park.webp
 imagenAlt: "Plant piano under a wooden dome at BiBo Park Ibiza"
 galeria:
 - src: /images/actividades/ibiza/bibo-park/fi1-fotobiorreactor-bibo-park.webp
-  alt: "Microalgae photobioreactor at BiBo Park Ibiza"
+  alt: 'Microalgae photobioreactor at BiBo Park Ibiza'
 - src: /images/actividades/ibiza/bibo-park/fi1-olivo-jardin-mediterraneo.webp
-  alt: "Old olive tree in a Mediterranean plant garden"
+  alt: 'Old olive tree in a Mediterranean plant garden'
 - src: /images/actividades/ibiza/bibo-park/fi1-romero-en-flor.webp
-  alt: "Rosemary in bloom, a typical Mediterranean scrub plant"
+  alt: 'Rosemary in bloom, a typical Mediterranean scrub plant'
 - src: /images/actividades/ibiza/bibo-park/fi1-plantas-suculentas.webp
-  alt: "Columnar succulent plants in a garden"
+  alt: 'Columnar succulent plants in a garden'
 - src: /images/actividades/ibiza/bibo-park/fi1-ramas-romero.webp
-  alt: "Close-up of rosemary sprigs"
+  alt: 'Close-up of rosemary sprigs'
 - src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
-  alt: "Es Vedrà through the pines"
+  alt: 'Es Vedrà through the pines'
+- src: /images/actividades/ibiza/vedra/es-vedra-cala-dhort.webp
+  alt: 'Es Vedrà from Cala d''Hort'
 ---
 
 ## What you will see

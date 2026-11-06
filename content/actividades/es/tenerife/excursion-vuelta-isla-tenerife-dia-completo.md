@@ -84,17 +84,19 @@ imagen: /images/actividades/tenerife/gigantes/ftc-los-gigantes-puerto-acantilado
 imagenAlt: "Vista aérea de Los Gigantes, con su puerto y los acantilados"
 galeria:
 - src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
-  alt: "Acantilados de Los Gigantes vistos desde el mar"
+  alt: 'Acantilados de Los Gigantes vistos desde el mar'
 - src: /images/actividades/tenerife/icod/ftc-drago-milenario-visitantes.webp
-  alt: "Drago milenario de Icod de los Vinos con visitantes a sus pies"
+  alt: 'Drago milenario de Icod de los Vinos con visitantes a sus pies'
 - src: /images/actividades/tenerife/icod/ftc-icod-casa-balcon-canario.webp
-  alt: "Casa tradicional con balcón canario en Icod de los Vinos"
+  alt: 'Casa tradicional con balcón canario en Icod de los Vinos'
 - src: /images/actividades/tenerife/icod/ftc-drago-icod-palmera.webp
-  alt: "El Drago de Icod junto a una palmera canaria"
+  alt: 'El Drago de Icod junto a una palmera canaria'
 - src: /images/actividades/tenerife/orotava/valle-orotava.webp
-  alt: "Valle de La Orotava bajando hasta la costa norte, donde está Puerto de la Cruz"
+  alt: 'Valle de La Orotava bajando hasta la costa norte, donde está Puerto de la Cruz'
 - src: /images/actividades/tenerife/orotava/valle-plataneras.webp
-  alt: "Plataneras y pueblos del norte de Tenerife junto al mar"
+  alt: 'Plataneras y pueblos del norte de Tenerife junto al mar'
+- src: /images/actividades/tenerife/icod/drago-milenario.webp
+  alt: 'El Drago Milenario de Icod de los Vinos'
 ---
 
 ## Qué vas a ver

@@ -82,17 +82,19 @@ imagen: /images/actividades/santiago-de-compostela/catedral/altar-mayor.webp
 imagenAlt: "Altare maggiore barocco della Cattedrale di Santiago"
 galeria:
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-obradoiro-visitantes.webp
-  alt: "Visitatori in Praza do Obradoiro davanti alla Cattedrale di Santiago"
+  alt: 'Visitatori in Praza do Obradoiro davanti alla Cattedrale di Santiago'
 - src: /images/actividades/santiago-de-compostela/catedral/tribuna.webp
-  alt: "Matroneo romanico sopra la navata della cattedrale"
+  alt: 'Matroneo romanico sopra la navata della cattedrale'
 - src: /images/actividades/santiago-de-compostela/catedral/botafumeiro-vuelo.webp
-  alt: "I tiraboleiros fanno oscillare il botafumeiro nella cattedrale"
+  alt: 'I tiraboleiros fanno oscillare il botafumeiro nella cattedrale'
 - src: /images/actividades/santiago-de-compostela/catedral/cupula.webp
-  alt: "Cupola sul transetto della Cattedrale di Santiago"
+  alt: 'Cupola sul transetto della Cattedrale di Santiago'
 - src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
-  alt: "Volte gotiche del chiostro della cattedrale"
+  alt: 'Volte gotiche del chiostro della cattedrale'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-timpano-praterias.webp
-  alt: "Timpano romanico della facciata delle Platerías della cattedrale"
+  alt: 'Timpano romanico della facciata delle Platerías della cattedrale'
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: 'Praza da Quintana'
 ---
 
 ## Cosa vedrai

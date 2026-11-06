@@ -73,18 +73,16 @@ keywords:
 imagen: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
 imagenAlt: Gläserner Aufzugsturm des Reina Sofía von einer Nebenstraße aus
 galeria:
-- src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Gläserner Aufzugsturm des Reina Sofía von einer Nebenstraße aus
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
-  alt: Das Museo Reina Sofía in Madrid
+  alt: 'Das Museo Reina Sofía in Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
-  alt: Gläserne Aufzüge an der Fassade des Museo Reina Sofía
+  alt: 'Gläserne Aufzüge an der Fassade des Museo Reina Sofía'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
-  alt: Fassade des Museo Reina Sofía an der Plaza de Juan Goytisolo, Madrid
+  alt: 'Fassade des Museo Reina Sofía an der Plaza de Juan Goytisolo, Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
-  alt: Das Museo Reina Sofía in Madrid
+  alt: 'Das Museo Reina Sofía in Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
-  alt: Das Museo Reina Sofía in Madrid
+  alt: 'Das Museo Reina Sofía in Madrid'
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

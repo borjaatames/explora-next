@@ -78,6 +78,8 @@ galeria:
   alt: 'Group lying on a paddle board in turquoise water'
 - src: https://imgcdn.bokun.tools/b5ee9b67-8fe3-4bd5-8f22-e1c087c4fd26.jpg
   alt: 'Turquoise waters and islets of Formentera'
+- src: /images/actividades/ibiza/fotos-biblioteca/unsplash-j-x7lediab8.webp
+  alt: 'Sailboat anchored in an Ibiza cove'
 publicada: true
 indexar: false
 destacada: false

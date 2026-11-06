@@ -86,17 +86,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/9ee4e903-e7e8-434d-9903-0d6560a65369.jpg
-  alt: Portail de la cathédrale de Málaga parmi les orangers
+  alt: 'Portail de la cathédrale de Málaga parmi les orangers'
 - src: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
-  alt: Arcs de style nasride dans une cour de l'Alcazaba de Málaga
+  alt: 'Arcs de style nasride dans une cour de l''Alcazaba de Málaga'
 - src: https://imgcdn.bokun.tools/6e1a77a9-9a34-41c2-870b-1a1fa2ad8ae2.jpg
-  alt: La tour de la cathédrale au-dessus des toits de Málaga au coucher du soleil
+  alt: 'La tour de la cathédrale au-dessus des toits de Málaga au coucher du soleil'
 - src: /images/actividades/malaga/alcazaba/vista-puerto.webp
-  alt: Vue sur le port de Málaga depuis l'Alcazaba
+  alt: 'Vue sur le port de Málaga depuis l''Alcazaba'
 - src: https://imgcdn.bokun.tools/7134f347-90b3-4b36-96d7-17386fa71d27.jpg
-  alt: Vue aérienne du port de Málaga et du phare de La Farola
+  alt: 'Vue aérienne du port de Málaga et du phare de La Farola'
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-02.webp
-  alt: La cathédrale de Málaga et sa tour unique
+  alt: 'La cathédrale de Málaga et sa tour unique'
+- src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
+  alt: 'Remparts de l''Alcazaba de Malaga'
 bokunProductId: 853250
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

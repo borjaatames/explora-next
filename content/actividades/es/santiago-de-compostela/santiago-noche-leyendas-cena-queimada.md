@@ -83,17 +83,19 @@ imagen: /images/actividades/santiago-de-compostela/noche/fsc-queimada-llama-azul
 imagenAlt: "Queimada ardiendo con llama azul en su cuenco de barro"
 galeria:
 - src: /images/actividades/santiago-de-compostela/noche/fsc-obradoiro-cielo-atardecer.webp
-  alt: "Fachada del Obradoiro bajo un cielo rojizo de atardecer"
+  alt: 'Fachada del Obradoiro bajo un cielo rojizo de atardecer'
 - src: /images/actividades/santiago-de-compostela/noche/fsc-catedral-arco-blanco-negro.webp
-  alt: "La catedral de Santiago enmarcada por un arco en penumbra"
+  alt: 'La catedral de Santiago enmarcada por un arco en penumbra'
 - src: /images/actividades/santiago-de-compostela/tapas/pulpo.webp
-  alt: "Pulpo a la gallega con pimentón"
+  alt: 'Pulpo a la gallega con pimentón'
 - src: /images/actividades/santiago-de-compostela/tapas/pimientos-padron.webp
-  alt: "Plato de pimientos de Padrón"
+  alt: 'Plato de pimientos de Padrón'
 - src: /images/actividades/santiago-de-compostela/tapas/mejillones.webp
-  alt: "Mejillones gallegos en cazuela de barro"
+  alt: 'Mejillones gallegos en cazuela de barro'
 - src: /images/actividades/santiago-de-compostela/noche/fsc-queimada-cuenco-naranja.webp
-  alt: "Cuenco de queimada con cáscaras de naranja y granos de café"
+  alt: 'Cuenco de queimada con cáscaras de naranja y granos de café'
+- src: /images/actividades/santiago-de-compostela/noche/x-catedral-unsplash-9vsyheygwi.webp
+  alt: 'Fachada del Obradoiro al atardecer'
 ---
 
 ## Qué vas a ver

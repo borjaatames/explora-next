@@ -76,17 +76,19 @@ imagen: /images/actividades/bilbao/gastronomia/copas-vino.webp
 imagenAlt: "Glasses of white wine served at a tasting"
 galeria:
 - src: /images/actividades/alicante/vino/cata-tinto.webp
-  alt: "Small carafes of red wine for a tasting"
+  alt: 'Small carafes of red wine for a tasting'
 - src: /images/actividades/bilbao/gastronomia/mesa-tapas.webp
-  alt: "Table with assorted tapas in small dishes"
+  alt: 'Table with assorted tapas in small dishes'
 - src: /images/actividades/alicante/centro/calle-san-antonio.webp
-  alt: "Old-town street in Alicante next to the Santa Cruz quarter"
+  alt: 'Old-town street in Alicante next to the Santa Cruz quarter'
 - src: /images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp
-  alt: "Tapas on bread held with cocktail sticks"
+  alt: 'Tapas on bread held with cocktail sticks'
 - src: /images/actividades/alicante/vino/barricas.webp
-  alt: "Wine barrels in a cellar"
+  alt: 'Wine barrels in a cellar'
 - src: /images/actividades/alicante/vino/vinedos-paisaje.webp
-  alt: "Vineyard landscape"
+  alt: 'Vineyard landscape'
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: 'Glasses set up for a wine tasting'
 ---
 
 ## What you will see

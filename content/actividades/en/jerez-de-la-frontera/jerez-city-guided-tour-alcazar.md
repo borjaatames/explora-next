@@ -85,17 +85,19 @@ imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.w
 imagenAlt: "Entrance gate to the Alcazar of Jerez in the Almohad wall"
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-cupula.webp
-  alt: "Star-shaped skylights in the dome of the Arab baths at the Alcazar of Jerez"
+  alt: 'Star-shaped skylights in the dome of the Arab baths at the Alcazar of Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-noria.webp
-  alt: "Remains of old structures and the waterwheel at the Alcazar of Jerez"
+  alt: 'Remains of old structures and the waterwheel at the Alcazar of Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-arqueologicos.webp
-  alt: "Archaeological remains and wooden walkway inside the Alcazar of Jerez"
+  alt: 'Archaeological remains and wooden walkway inside the Alcazar of Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-arboles.webp
-  alt: "Dome of Jerez Cathedral framed by trees"
+  alt: 'Dome of Jerez Cathedral framed by trees'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-terrazas.webp
-  alt: "Terraces and yellow facades on Calle Larga in Jerez"
+  alt: 'Terraces and yellow facades on Calle Larga in Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
-  alt: "Old town street in Jerez with large windows and a terrace"
+  alt: 'Old town street in Jerez with large windows and a terrace'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: 'Live musicians at a flamenco tablao in Jerez'
 ---
 
 ## What you will see

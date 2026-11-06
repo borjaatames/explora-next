@@ -78,6 +78,8 @@ galeria:
   alt: 'Tienda de productos locales'
 - src: https://imgcdn.bokun.tools/4983bd3a-fbf5-4ccd-888c-217fd42276b6.jpg
   alt: 'Calle con flores en un pueblo de la Alpujarra'
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-and-sierra-nevada-jpg.webp
+  alt: 'Sierra Nevada nevada sobre los pueblos de la Alpujarra'
 publicada: true
 indexar: false
 destacada: false

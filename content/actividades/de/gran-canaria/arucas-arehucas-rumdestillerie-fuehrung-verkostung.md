@@ -84,6 +84,10 @@ galeria:
   alt: 'Landschaft rund um Arucas im Norden von Gran Canaria'
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
   alt: 'Bananenplantagen in Arucas'
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
+  alt: 'Die Kaskade am Paseo de Canarias in Firgas'
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp
+  alt: 'Gekachelte Bänke mit Gemeindewappen in Firgas'
 ratingProveedor: 4.8
 numeroOpiniones: 269
 atraccionesRelacionadas:

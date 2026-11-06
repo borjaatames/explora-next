@@ -74,6 +74,8 @@ galeria:
   alt: 'Couple on deck with the sea behind them'
 - src: https://imgcdn.bokun.tools/78b81a5f-4c9f-4eea-a6be-d201cccc8807.jpg
   alt: 'Woman watching the sunset from the bow'
+- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
+  alt: 'Person stand-up paddleboarding in blue Mediterranean water'
 publicada: true
 indexar: false
 destacada: false

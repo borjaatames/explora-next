@@ -92,6 +92,12 @@ galeria:
   alt: 'Riva di una spiaggia di Papagayo con scogliere sullo sfondo'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
   alt: 'La spiaggia di Playa Blanca, nel sud di Lanzarote'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'La costa sud di Lanzarote vicino alle spiagge di Papagayo'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Scogliere di lava a Los Hervideros con i vulcani sullo sfondo'
+- src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
+  alt: 'Barche ormeggiate alla Marina Rubicón, Playa Blanca'
 ratingProveedor: 4.7
 numeroOpiniones: 162
 atraccionesRelacionadas:

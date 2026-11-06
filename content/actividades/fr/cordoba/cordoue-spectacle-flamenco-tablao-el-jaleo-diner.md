@@ -80,17 +80,19 @@ imagen: /images/actividades/cordoba/flamenco/bailaora.webp
 imagenAlt: "Danseuse avec un châle blanc pendant un spectacle de flamenco"
 galeria:
 - src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: "Guitariste de flamenco jouant en direct"
+  alt: 'Guitariste de flamenco jouant en direct'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Chanteuse de flamenco sur scène"
+  alt: 'Chanteuse de flamenco sur scène'
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Rue du quartier juif de Cordoue avec la tour de la Mezquita en arrière-plan"
+  alt: 'Rue du quartier juif de Cordoue avec la tour de la Mezquita en arrière-plan'
 - src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: "Artistes de flamenco sur scène pendant un spectacle en direct"
+  alt: 'Artistes de flamenco sur scène pendant un spectacle en direct'
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: "Calleja de las Flores avec la tour de la Mezquita en arrière-plan"
+  alt: 'Calleja de las Flores avec la tour de la Mezquita en arrière-plan'
 - src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
-  alt: "Pont romain et Mosquée-Cathédrale de Cordoue illuminés à la tombée de la nuit"
+  alt: 'Pont romain et Mosquée-Cathédrale de Cordoue illuminés à la tombée de la nuit'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Guitariste de flamenco jouant sur scène'
 ---
 
 ## Ce que vous allez voir

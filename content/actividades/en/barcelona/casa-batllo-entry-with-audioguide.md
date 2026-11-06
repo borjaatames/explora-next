@@ -115,6 +115,8 @@ galeria:
   alt: 'Casa Batlló''s distinctive curved facade with colorful mosaics in Barcelona cityscape'
 - src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
   alt: 'Barcelona cityscape with Gothic Quarter architecture and modern buildings at sunset'
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-ceiling-chandelier-barcelona-hero.webp
+  alt: 'Spiral ceiling and lamp in the main hall of Casa Batlló'
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

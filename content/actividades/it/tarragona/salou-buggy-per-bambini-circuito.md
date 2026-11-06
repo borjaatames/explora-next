@@ -89,17 +89,19 @@ imagen: /images/actividades/tarragona/buggy-ninos/fta-buggy-amarillo-terreno-are
 imagenAlt: "Buggy giallo parcheggiato su un terreno sabbioso con arbusti"
 galeria:
 - src: /images/actividades/tarragona/buggy-ninos/fta-buggy-conductor-casco.webp
-  alt: "Pilota con casco al volante di un buggy sulla sabbia"
+  alt: 'Pilota con casco al volante di un buggy sulla sabbia'
 - src: /images/actividades/tarragona/salou/fta-paseo-salou-palmeras-anochecer.webp
-  alt: "Palme sul lungomare di Salou al tramonto"
+  alt: 'Palme sul lungomare di Salou al tramonto'
 - src: /images/actividades/tarragona/buggy-ninos/fta-buggy-barro-salpicando.webp
-  alt: "Buggy che schizza fango attraversando una pozzanghera"
+  alt: 'Buggy che schizza fango attraversando una pozzanghera'
 - src: /images/actividades/tarragona/costa/platja-llarga.webp
-  alt: "La Platja Llarga di Salou vista tra i pini"
+  alt: 'La Platja Llarga di Salou vista tra i pini'
 - src: /images/actividades/tarragona/buggy-ninos/fta-buggy-pista-tierra-roja.webp
-  alt: "Buggy con pilota con casco su una pista di terra rossastra"
+  alt: 'Buggy con pilota con casco su una pista di terra rossastra'
 - src: /images/actividades/tarragona/costa/faro-salou.webp
-  alt: "Il faro di Salou"
+  alt: 'Il faro di Salou'
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: 'Il mare davanti al Cap de Salou'
 ---
 
 ## Cosa vedrai

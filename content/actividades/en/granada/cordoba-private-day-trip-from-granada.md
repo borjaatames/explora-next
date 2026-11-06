@@ -81,17 +81,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/1738ba23-3d1f-4649-b676-9b6284e1c2e0.jpg
-  alt: The Mosque-Cathedral and Roman Bridge over the Guadalquivir
+  alt: 'The Mosque-Cathedral and Roman Bridge over the Guadalquivir'
 - src: https://imgcdn.bokun.tools/808892cb-6985-452c-b84d-8caf84ba16c9.jpg
-  alt: Flower-lined lane with the Mosque tower behind
+  alt: 'Flower-lined lane with the Mosque tower behind'
 - src: /images/actividades/cordoba/mezquita/mihrab-dorado.webp
-  alt: Golden mosaics of the mihrab
+  alt: 'Golden mosaics of the mihrab'
 - src: https://imgcdn.bokun.tools/345b82e9-5899-4694-a49e-346959aa2550.jpg
-  alt: Visitors beneath the Mosque's arches
+  alt: 'Visitors beneath the Mosque''s arches'
 - src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
-  alt: Lane in Córdoba's Jewish Quarter
+  alt: 'Lane in Córdoba''s Jewish Quarter'
 - src: https://imgcdn.bokun.tools/ddbc304f-2438-47e6-b4eb-03d26758749e.jpg
-  alt: Travellers in a Córdoba courtyard full of flowerpots
+  alt: 'Travellers in a Córdoba courtyard full of flowerpots'
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: 'Mosque-Cathedral tower seen from a Jewish Quarter street'
 bokunProductId: 1269261
 fecha_actualizacion: '2026-10-24'
 privada: true

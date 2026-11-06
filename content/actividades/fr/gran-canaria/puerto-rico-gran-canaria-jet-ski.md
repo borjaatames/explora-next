@@ -91,15 +91,19 @@ imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
 imagenAlt: Un jet-ski filant sur les vagues
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: La marina de Puerto Rico de Gran Canaria, point de départ de la balade
+  alt: 'La marina de Puerto Rico de Gran Canaria, point de départ de la balade'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: Bateaux dans la marina de Puerto Rico
+  alt: 'Bateaux dans la marina de Puerto Rico'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
-  alt: Coucher de soleil sur le port de Puerto Rico de Gran Canaria
+  alt: 'Coucher de soleil sur le port de Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
-  alt: Le port de Puerto Rico à Grande Canarie vu d'en haut
+  alt: 'Le port de Puerto Rico à Grande Canarie vu d''en haut'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: La baie et la marina de Puerto Rico, Grande Canarie
+  alt: 'La baie et la marina de Puerto Rico, Grande Canarie'
+- src: /images/actividades/gran-canaria/mar/calderones-grupo.webp
+  alt: 'Un groupe de globicéphales dans l''Atlantique canarien'
+- src: /images/actividades/gran-canaria/mar/calderon-tropical.webp
+  alt: 'Un globicéphale tropical dans les eaux des Canaries'
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

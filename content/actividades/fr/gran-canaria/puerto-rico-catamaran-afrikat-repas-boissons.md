@@ -106,6 +106,8 @@ galeria:
   alt: 'Poissons au-dessus des fonds sableux de Grande Canarie'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
   alt: 'La baie et la plage de Puerto Rico de Gran Canaria'
+- src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
+  alt: 'Le port de Puerto Rico à Grande Canarie vu d''en haut'
 ---
 
 ## Ce que vous verrez

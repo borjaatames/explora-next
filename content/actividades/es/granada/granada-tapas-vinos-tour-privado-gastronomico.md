@@ -76,17 +76,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/4214002f-9897-48cf-aa8e-4e4ccb0dd187.jpg
-  alt: Viajeros con su guía en un bar de tapas
+  alt: 'Viajeros con su guía en un bar de tapas'
 - src: https://imgcdn.bokun.tools/c46ef758-74b3-418b-95d6-00b5528f1756.jpg
-  alt: Pizarra de vermut y botellas en la barra
+  alt: 'Pizarra de vermut y botellas en la barra'
 - src: https://imgcdn.bokun.tools/0014da5c-e023-4ff3-9f28-68a6f06ed577.jpg
-  alt: Vermut con hielo y naranja
+  alt: 'Vermut con hielo y naranja'
 - src: /images/actividades/granada/wikimedia/granada-tapas-plato-05.webp
-  alt: Vino tinto con tapas de queso y patatas en Granada
+  alt: 'Vino tinto con tapas de queso y patatas en Granada'
 - src: https://imgcdn.bokun.tools/e8e66f21-f760-41df-8ea5-48bd986c73a7.jpg
-  alt: Interior de un bar tradicional de Granada
+  alt: 'Interior de un bar tradicional de Granada'
 - src: /images/actividades/granada/wikimedia/granada-calle-navas-02.webp
-  alt: Calle Navas, la calle de bares de tapas del centro de Granada
+  alt: 'Calle Navas, la calle de bares de tapas del centro de Granada'
+- src: /images/actividades/granada/wikimedia/granada-catedral-06.webp
+  alt: 'Puerta del Perdón de la Catedral de Granada'
 bokunProductId: 933245
 fecha_actualizacion: '2026-10-24'
 privada: true

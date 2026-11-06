@@ -89,17 +89,19 @@ imagen: /images/actividades/ibiza/bibo-park/fi1-piano-plantas-bibo-park.webp
 imagenAlt: "Piano de plantas bajo una cúpula de madera en el BiBo Park de Ibiza"
 galeria:
 - src: /images/actividades/ibiza/bibo-park/fi1-fotobiorreactor-bibo-park.webp
-  alt: "Fotobiorreactor de microalgas en el BiBo Park de Ibiza"
+  alt: 'Fotobiorreactor de microalgas en el BiBo Park de Ibiza'
 - src: /images/actividades/ibiza/bibo-park/fi1-olivo-jardin-mediterraneo.webp
-  alt: "Olivo centenario en un jardín de plantas mediterráneas"
+  alt: 'Olivo centenario en un jardín de plantas mediterráneas'
 - src: /images/actividades/ibiza/bibo-park/fi1-romero-en-flor.webp
-  alt: "Romero en flor, planta típica del monte mediterráneo"
+  alt: 'Romero en flor, planta típica del monte mediterráneo'
 - src: /images/actividades/ibiza/bibo-park/fi1-plantas-suculentas.webp
-  alt: "Plantas suculentas de tallo columnar en un jardín"
+  alt: 'Plantas suculentas de tallo columnar en un jardín'
 - src: /images/actividades/ibiza/bibo-park/fi1-ramas-romero.webp
-  alt: "Ramas de romero en primer plano"
+  alt: 'Ramas de romero en primer plano'
 - src: /images/actividades/ibiza/vedra/es-vedra-pinos.webp
-  alt: "Es Vedrà entre pinos"
+  alt: 'Es Vedrà entre pinos'
+- src: /images/actividades/ibiza/vedra/es-vedra-cala-dhort.webp
+  alt: 'Es Vedrà desde Cala d''Hort'
 ---
 
 ## Qué vas a ver

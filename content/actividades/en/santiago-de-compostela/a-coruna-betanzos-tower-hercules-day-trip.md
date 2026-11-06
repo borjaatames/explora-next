@@ -83,17 +83,19 @@ imagen: /images/actividades/santiago-de-compostela/coruna/fsc-torre-hercules-vis
 imagenAlt: "Visitors on the path to the Tower of Hercules beside the Breogán statue"
 galeria:
 - src: /images/actividades/santiago-de-compostela/tapas/tortilla.webp
-  alt: "Juicy Spanish potato omelette on a bar counter"
+  alt: 'Juicy Spanish potato omelette on a bar counter'
 - src: /images/actividades/santiago-de-compostela/coruna/fsc-torre-hercules-costa.webp
-  alt: "The Tower of Hercules above the A Coruña coastline"
+  alt: 'The Tower of Hercules above the A Coruña coastline'
 - src: /images/actividades/santiago-de-compostela/coruna/fsc-galerias-marina.webp
-  alt: "Glazed galleries on Avenida de la Marina in A Coruña"
+  alt: 'Glazed galleries on Avenida de la Marina in A Coruña'
 - src: /images/actividades/santiago-de-compostela/coruna/fsc-maria-pita-ayuntamiento.webp
-  alt: "City Hall on María Pita square, A Coruña"
+  alt: 'City Hall on María Pita square, A Coruña'
 - src: /images/actividades/santiago-de-compostela/coruna/fsc-puerto-deportivo.webp
-  alt: "A Coruña marina with the glazed galleries behind"
+  alt: 'A Coruña marina with the glazed galleries behind'
 - src: /images/actividades/santiago-de-compostela/coruna/fsc-costa-torre-hercules.webp
-  alt: "Rocky coastline with the Tower of Hercules in the distance"
+  alt: 'Rocky coastline with the Tower of Hercules in the distance'
+- src: /images/actividades/santiago-de-compostela/tapas/mejillones.webp
+  alt: 'Pot of mussels'
 ---
 
 ## What you will see

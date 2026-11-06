@@ -84,15 +84,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/5f579353-b6f2-4c66-a2e8-9d219e575b38.jpg
-  alt: Interior de una casa cueva
+  alt: 'Interior de una casa cueva'
 - src: https://imgcdn.bokun.tools/ccc69504-087a-45c2-9a68-d00e998db906.jpg
-  alt: Camino de tierra hacia una cueva entre pitas
+  alt: 'Camino de tierra hacia una cueva entre pitas'
 - src: https://imgcdn.bokun.tools/9a2293cf-8d69-4fed-98e1-97e60942d32e.jpg
-  alt: Viajera junto a las pitas con el Albaicín al fondo
+  alt: 'Viajera junto a las pitas con el Albaicín al fondo'
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: Casas cueva encaladas del Sacromonte
+  alt: 'Casas cueva encaladas del Sacromonte'
 - src: https://imgcdn.bokun.tools/b7d149ab-ceb3-446b-ad42-2f12efcc4458.jpg
-  alt: Grupo contemplando el atardecer desde la ladera
+  alt: 'Grupo contemplando el atardecer desde la ladera'
+- src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
+  alt: 'Ladera del Sacromonte con sus casas cueva'
+- src: /images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp
+  alt: 'Mirador de San Nicolás del Albaicín con vistas a la Alhambra al atardecer'
 bokunProductId: 860685
 fecha_actualizacion: '2026-10-24'
 privada: true

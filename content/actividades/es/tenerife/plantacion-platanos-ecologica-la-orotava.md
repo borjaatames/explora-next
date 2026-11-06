@@ -77,15 +77,19 @@ imagen: /images/actividades/tenerife/orotava/valle-plataneras.webp
 imagenAlt: Plataneras en el valle de La Orotava
 galeria:
 - src: /images/actividades/gran-canaria/platano/platanos-racimo.webp
-  alt: Racimos de plátano canario en la planta
+  alt: 'Racimos de plátano canario en la planta'
 - src: /images/actividades/gran-canaria/platano/platanera-hojas.webp
-  alt: Plátanos verdes en el racimo
+  alt: 'Plátanos verdes en el racimo'
 - src: /images/actividades/tenerife/orotava/valle-orotava.webp
-  alt: El valle de La Orotava desde las alturas
+  alt: 'El valle de La Orotava desde las alturas'
 - src: /images/actividades/tenerife/orotava/casa-de-los-balcones.webp
-  alt: Casa de los Balcones, en La Orotava
+  alt: 'Casa de los Balcones, en La Orotava'
 - src: /images/actividades/tenerife/orotava/balcones-madera.webp
-  alt: Balcones de madera tradicionales en La Orotava
+  alt: 'Balcones de madera tradicionales en La Orotava'
+- src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
+  alt: 'Plataneras en Arucas'
+- src: /images/actividades/gran-canaria/platano/arucas-paisaje.webp
+  alt: 'Paisaje de Arucas, en el norte de Gran Canaria'
 ratingProveedor: 4.7
 numeroOpiniones: 1135
 publicada: true

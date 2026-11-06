@@ -84,6 +84,14 @@ galeria:
   alt: 'Guitarrista flamenco'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
   alt: 'El Palacio Real iluminado de noche'
+- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
+  alt: 'Guitarra flamenca en el escenario'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Guitarrista flamenco tocando sobre el escenario'
+- src: /images/actividades/cordoba/flamenco/bailaora.webp
+  alt: 'Bailaora con mantón blanco durante un espectáculo flamenco'
+- src: /images/actividades/cordoba/flamenco/baile-flamenco.webp
+  alt: 'Foto de la actividad'
 ratingProveedor: 4.7
 numeroOpiniones: 1413
 publicada: true

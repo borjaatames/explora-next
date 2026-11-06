@@ -94,6 +94,12 @@ galeria:
   alt: 'Uferlinie eines Strandes in Papagayo mit Klippen dahinter'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
   alt: 'Der Strand von Playa Blanca im Süden von Lanzarote'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'Die Südküste Lanzarotes bei den Papagayo-Stränden'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Lavaklippen von Los Hervideros mit Vulkanen im Hintergrund'
+- src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
+  alt: 'Boote in der Marina Rubicón, Playa Blanca'
 ratingProveedor: 4.7
 numeroOpiniones: 162
 atraccionesRelacionadas:

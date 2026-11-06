@@ -128,6 +128,8 @@ galeria:
   alt: 'Orilla del Guadalquivir con la Torre del Oro al fondo'
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
   alt: 'Vista aérea de la plaza de toros de la Maestranza'
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
+  alt: 'Naves de la Catedral de Sevilla'
 ratingProveedor: 4.7
 numeroOpiniones: 1746
 guiasRelacionadas:

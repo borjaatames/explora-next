@@ -87,15 +87,19 @@ imagen: /images/actividades/lanzarote/minicrucero-papagayo.webp
 imagenAlt: Un catamaran au mouillage dans une crique de Papagayo
 galeria:
 - src: /images/actividades/lanzarote/zonas/papagayo-banistas.webp
-  alt: Baigneurs dans une crique de Papagayo
+  alt: 'Baigneurs dans une crique de Papagayo'
 - src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
-  alt: La côte sud de Lanzarote près des plages de Papagayo
+  alt: 'La côte sud de Lanzarote près des plages de Papagayo'
 - src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
-  alt: Bateaux amarrés à la Marina Rubicón, Playa Blanca
+  alt: 'Bateaux amarrés à la Marina Rubicón, Playa Blanca'
 - src: /images/actividades/lanzarote/zonas/marina-rubicon-veleros.webp
-  alt: Voiliers à la Marina Rubicón avec les volcans derrière
+  alt: 'Voiliers à la Marina Rubicón avec les volcans derrière'
 - src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
-  alt: Une crique de Papagayo à l'eau turquoise et aux roches volcaniques
+  alt: 'Une crique de Papagayo à l''eau turquoise et aux roches volcaniques'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Falaises de lave à Los Hervideros avec des volcans en arrière-plan'
+- src: /images/actividades/lanzarote/zonas/playa-blanca.webp
+  alt: 'La plage de Playa Blanca, dans le sud de Lanzarote'
 ratingProveedor: 4.7
 numeroOpiniones: 436
 atraccionesRelacionadas:

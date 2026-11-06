@@ -85,17 +85,19 @@ imagen: /images/actividades/santiago-de-compostela/catedral/altar-mayor.webp
 imagenAlt: "Baroque high altar of Santiago Cathedral"
 galeria:
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-obradoiro-visitantes.webp
-  alt: "Visitors in Praza do Obradoiro in front of Santiago Cathedral"
+  alt: 'Visitors in Praza do Obradoiro in front of Santiago Cathedral'
 - src: /images/actividades/santiago-de-compostela/catedral/tribuna.webp
-  alt: "Romanesque gallery above the cathedral nave"
+  alt: 'Romanesque gallery above the cathedral nave'
 - src: /images/actividades/santiago-de-compostela/catedral/botafumeiro-vuelo.webp
-  alt: "Tiraboleiros swinging the botafumeiro in the cathedral"
+  alt: 'Tiraboleiros swinging the botafumeiro in the cathedral'
 - src: /images/actividades/santiago-de-compostela/catedral/cupula.webp
-  alt: "Dome over the transept of Santiago Cathedral"
+  alt: 'Dome over the transept of Santiago Cathedral'
 - src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
-  alt: "Gothic vaults of the cathedral cloister"
+  alt: 'Gothic vaults of the cathedral cloister'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-sincolas-timpano-praterias.webp
-  alt: "Romanesque tympanum on the Platerías façade of the cathedral"
+  alt: 'Romanesque tympanum on the Platerías façade of the cathedral'
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: 'Praza da Quintana'
 ---
 
 ## What you will see

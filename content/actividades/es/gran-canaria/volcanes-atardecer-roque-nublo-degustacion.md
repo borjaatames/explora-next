@@ -105,6 +105,10 @@ galeria:
   alt: 'Atardecer desde el Pico de las Nieves con el Teide en el horizonte'
 - src: /images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp
   alt: 'Silueta del Roque Nublo al atardecer sobre el mar de nubes'
+- src: /images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp
+  alt: 'Puesta de sol junto al Roque Nublo'
+- src: /images/actividades/gran-canaria/estrellas/via-lactea-molino.webp
+  alt: 'La Vía Láctea sobre un molino en Gran Canaria'
 ---
 
 ## Qué vas a ver

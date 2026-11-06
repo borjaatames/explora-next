@@ -70,6 +70,8 @@ galeria:
   alt: 'Tapas con jamón y una caña de cerveza'
 - src: https://imgcdn.bokun.tools/2ec8c2a3-305d-483e-8efe-612a9b02e6f7.jpg
   alt: 'Mesa de tapas variadas con cerveza'
+- src: /images/actividades/barcelona/proveedor-1229823/prov-bici-calle.webp
+  alt: 'Grupo en bicicleta por una calle de Barcelona'
 publicada: true
 indexar: false
 destacada: false

@@ -84,6 +84,14 @@ galeria:
   alt: 'Guitarra flamenca no palco'
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-card.webp
   alt: 'Rua do Bairro Gótico'
+- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
+  alt: 'Bailarina de flamenco de vestido vermelho com guitarristas num tablao'
+- src: /images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp
+  alt: 'Bailarinas de flamenco com vestidos vermelhos e pretos em palco'
+- src: /images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp
+  alt: 'Bailarina de flamenco com xaile vermelho e braços abertos no palco'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Guitarrista de flamenco a tocar em palco'
 ratingProveedor: 4.7
 numeroOpiniones: 1274
 publicada: true

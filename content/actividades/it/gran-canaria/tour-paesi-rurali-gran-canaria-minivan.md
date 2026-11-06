@@ -91,17 +91,19 @@ imagen: /images/actividades/gran-canaria/fataga/fgc-fataga-pueblo-palmeral.webp
 imagenAlt: "Fataga e il suo palmeto nella Valle delle Mille Palme"
 galeria:
 - src: /images/actividades/gran-canaria/fataga/fgc-casas-blancas-fataga.webp
-  alt: "Le case bianche di Fataga sul versante del burrone"
+  alt: 'Le case bianche di Fataga sul versante del burrone'
 - src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
-  alt: "Il paese di San Bartolomé de Tirajana tra le montagne"
+  alt: 'Il paese di San Bartolomé de Tirajana tra le montagne'
 - src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
-  alt: "Il belvedere della Degollada de las Yeguas"
+  alt: 'Il belvedere della Degollada de las Yeguas'
 - src: /images/actividades/gran-canaria/tejeda/fgc-tejeda-casas-montanas.webp
-  alt: "Case di Tejeda di fronte alle cime di Gran Canaria"
+  alt: 'Case di Tejeda di fronte alle cime di Gran Canaria'
 - src: /images/actividades/gran-canaria/tejeda/fgc-flor-almendro-bentayga.webp
-  alt: "Fiori di mandorlo con il Roque Bentayga sullo sfondo"
+  alt: 'Fiori di mandorlo con il Roque Bentayga sullo sfondo'
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
-  alt: "Piantagioni di banane sulla costa nord di Gran Canaria"
+  alt: 'Piantagioni di banane sulla costa nord di Gran Canaria'
+- src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
+  alt: 'Palme canarie nel burrone di Fataga'
 ---
 
 ## Cosa vedrai

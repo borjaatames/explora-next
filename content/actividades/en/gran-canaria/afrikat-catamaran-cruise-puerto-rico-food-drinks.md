@@ -105,6 +105,8 @@ galeria:
   alt: 'Fish over the sandy seabed in Gran Canaria waters'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
   alt: 'The bay and beach of Puerto Rico de Gran Canaria'
+- src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
+  alt: 'Puerto Rico harbour in Gran Canaria seen from above'
 ---
 
 ## What you will see

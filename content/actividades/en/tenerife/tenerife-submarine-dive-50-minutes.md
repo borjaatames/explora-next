@@ -91,6 +91,10 @@ galeria:
   alt: 'Dolphin in the waters off southern Tenerife'
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: 'Volcanic coast in southern Tenerife'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'A pilot whale blowing at the surface'
+- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+  alt: 'A pilot whale surfacing to breathe'
 ratingProveedor: 4.8
 numeroOpiniones: 2670
 publicada: true

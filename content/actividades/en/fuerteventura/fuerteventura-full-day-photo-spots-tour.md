@@ -93,17 +93,19 @@ imagen: /images/actividades/fuerteventura/ajuy/ffv-arcos-acantilado-ajuy.webp
 imagenAlt: "Arches and caves in the Ajuy cliffs"
 galeria:
 - src: /images/actividades/fuerteventura/ajuy/ffv-interior-cueva-ajuy.webp
-  alt: "Visitor inside one of the Ajuy caves"
+  alt: 'Visitor inside one of the Ajuy caves'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
-  alt: "Betancuria church square with the village behind"
+  alt: 'Betancuria church square with the village behind'
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-borde-crater-calderon-hondo.webp
-  alt: "Rim of the Calderón Hondo crater"
+  alt: 'Rim of the Calderón Hondo crater'
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-5.webp
-  alt: "Dune and blue sky in Corralejo"
+  alt: 'Dune and blue sky in Corralejo'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-3.webp
-  alt: "Walls of the Betancuria church"
+  alt: 'Walls of the Betancuria church'
 - src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
-  alt: "Isla de Lobos seen from a beach in Corralejo"
+  alt: 'Isla de Lobos seen from a beach in Corralejo'
+- src: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
+  alt: 'Ajuy village and its black sand beach'
 ---
 
 ## What you will see

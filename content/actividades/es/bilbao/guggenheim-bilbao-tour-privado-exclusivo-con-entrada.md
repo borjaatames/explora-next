@@ -97,6 +97,10 @@ galeria:
   alt: 'El Guggenheim y la Torre Iberdrola junto a la ría de Bilbao'
 - src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
   alt: 'Vista del Museo Guggenheim Bilbao desde la ría'
+- src: /images/actividades/bilbao/guggenheim/maman.webp
+  alt: 'Escultura Mamá junto al Guggenheim al anochecer'
+- src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
+  alt: 'Fachada de titanio del Museo Guggenheim Bilbao'
 ---
 
 ## Qué vas a ver

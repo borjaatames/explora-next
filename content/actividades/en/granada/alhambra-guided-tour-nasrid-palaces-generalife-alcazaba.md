@@ -90,6 +90,8 @@ galeria:
   alt: 'Generalife Water-Channel Courtyard'
 - src: /images/actividades/granada/palacios-nazaries/pexels-20455327-hero.webp
   alt: 'Generalife gardens'
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: 'Court of the Lions in the Nasrid Palaces of the Alhambra, with its central fountain and colonnaded gallery'
 ratingProveedor: 4.7
 numeroOpiniones: 2448
 publicada: true

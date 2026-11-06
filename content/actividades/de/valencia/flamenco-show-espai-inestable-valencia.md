@@ -70,17 +70,19 @@ imagen: /images/actividades/alicante/flamenco/flamenco-pareja.webp
 imagenAlt: Flamenco-Künstler auf der Bühne während einer Live-Show
 galeria:
 - src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: Flamenco-Gitarrist spielt auf der Bühne
+  alt: 'Flamenco-Gitarrist spielt auf der Bühne'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: Flamenco-Sängerin auf einer Bühne
+  alt: 'Flamenco-Sängerin auf einer Bühne'
 - src: /images/actividades/valencia/noche/calle-casco-antiguo-noche.webp
-  alt: Gasse in der Altstadt von Valencia bei Nacht
+  alt: 'Gasse in der Altstadt von Valencia bei Nacht'
 - src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: Flamenco-Tänzer mitten im Tanz auf der Bühne
+  alt: 'Flamenco-Tänzer mitten im Tanz auf der Bühne'
 - src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: Flamenco-Gitarrist mit Hut spielt live
+  alt: 'Flamenco-Gitarrist mit Hut spielt live'
 - src: /images/actividades/valencia/noche/barrio-carmen-noche.webp
-  alt: Das Viertel El Carmen im Zentrum Valencias, nachts beleuchtet
+  alt: 'Das Viertel El Carmen im Zentrum Valencias, nachts beleuchtet'
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: 'Tänzerin mit Manton und Gitarrist bei einer Flamenco-Show'
 ratingProveedor: 4.9
 numeroOpiniones: 1859
 atraccionesRelacionadas:

@@ -91,17 +91,19 @@ imagen: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
 imagenAlt: "Majorera goat with long horns"
 galeria:
 - src: /images/actividades/fuerteventura/cabras/ffv-cabra-en-las-rocas.webp
-  alt: "Goat on volcanic rocks"
+  alt: 'Goat on volcanic rocks'
 - src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: "Mountains in the south of Fuerteventura"
+  alt: 'Mountains in the south of Fuerteventura'
 - src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
-  alt: "Herd of goats on a hillside in Fuerteventura"
+  alt: 'Herd of goats on a hillside in Fuerteventura'
 - src: /images/actividades/fuerteventura/cabras/ffv-pastor-majorero.webp
-  alt: "Shepherd walking across the Fuerteventura countryside"
+  alt: 'Shepherd walking across the Fuerteventura countryside'
 - src: /images/actividades/fuerteventura/cabras/ffv-granja-campo-desertico.webp
-  alt: "Livestock farm in the arid Fuerteventura landscape"
+  alt: 'Livestock farm in the arid Fuerteventura landscape'
 - src: /images/actividades/fuerteventura/queso/ffv-ensalada-queso-cabra.webp
-  alt: "Salad with goat cheese and figs"
+  alt: 'Salad with goat cheese and figs'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Morro Jable beach'
 ---
 
 ## What you will see

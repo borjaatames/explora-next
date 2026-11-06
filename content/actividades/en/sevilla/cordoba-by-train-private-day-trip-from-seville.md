@@ -92,6 +92,8 @@ galeria:
   alt: 'Calleja de las Flores with blue flowerpots'
 - src: https://imgcdn.bokun.tools/70d7cebd-1c7c-44d2-a851-927dc58bacce.jpg
   alt: 'Roman Bridge and Mosque of Córdoba at sunset'
+- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-bosque-columnas.webp
+  alt: 'Forest of columns in the Mosque of Córdoba'
 bokunProductId: 793766
 fecha_actualizacion: '2026-10-24'
 privada: true

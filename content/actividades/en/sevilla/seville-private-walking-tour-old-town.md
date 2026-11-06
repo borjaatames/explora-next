@@ -78,6 +78,8 @@ galeria:
   alt: 'Seville during the tour (provider photo)'
 - src: https://imgcdn.bokun.tools/33343e87-1674-45e4-bda4-9d3ed0eed3d9.jpeg
   alt: 'Seville during the tour (provider photo)'
+- src: /images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp
+  alt: 'General Archive of the Indies'
 publicada: true
 indexar: false
 destacada: false

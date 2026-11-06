@@ -89,17 +89,19 @@ imagen: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-burbuja-amari
 imagenAlt: "Yellow volcanic bubble at the César Manrique Foundation"
 galeria:
 - src: /images/actividades/lanzarote/jardin-de-cactus/flz-anfiteatro.webp
-  alt: "View of the Jardín de Cactus amphitheatre in Guatiza"
+  alt: 'View of the Jardín de Cactus amphitheatre in Guatiza'
 - src: /images/actividades/lanzarote/mirador-del-rio/flz-terraza-barandilla.webp
-  alt: "Mirador del Río terrace above the La Graciosa strait"
+  alt: 'Mirador del Río terrace above the La Graciosa strait'
 - src: /images/actividades/lanzarote/mirador-del-rio/flz-interior-cafeteria.webp
-  alt: "Interior of Mirador del Río, a César Manrique work"
+  alt: 'Interior of Mirador del Río, a César Manrique work'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
-  alt: "Turquoise pool at Jameos del Agua"
+  alt: 'Turquoise pool at Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-escaleras-jardin.webp
-  alt: "Stone steps and garden at Jameos del Agua"
+  alt: 'Stone steps and garden at Jameos del Agua'
 - src: /images/actividades/lanzarote/fundacion-cesar-manrique/flz-jardin-estanque.webp
-  alt: "Garden with pond at the César Manrique Foundation"
+  alt: 'Garden with pond at the César Manrique Foundation'
+- src: /images/actividades/lanzarote/mirador-del-rio/flz-carretera-risco.webp
+  alt: 'Road along the cliffs in northern Lanzarote'
 ---
 
 ## What you will see

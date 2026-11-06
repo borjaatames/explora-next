@@ -94,13 +94,19 @@ imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-63946019
 imagenAlt: 'Visitors at the entrance of the Museo Reina Sofía, by its glass lift towers'
 galeria:
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
-  alt: Museo Reina Sofía façade at night, with its glass lift towers
+  alt: 'Museo Reina Sofía façade at night, with its glass lift towers'
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp
-  alt: Permanent collection gallery
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
-  alt: Entrance to the Museo Reina Sofía
+  alt: 'Permanent collection gallery'
 - src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Lift towers of the Sabatini building
+  alt: 'Lift towers of the Sabatini building'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
+  alt: 'The Reina Sofía Museum in Madrid'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
+  alt: 'Facade of the Reina Sofía Museum on Plaza de Juan Goytisolo, Madrid'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
+  alt: 'The Reina Sofía Museum in Madrid'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
+  alt: 'The Reina Sofía Museum in Madrid'
 ratingProveedor: 4.3
 numeroOpiniones: 676
 publicada: true

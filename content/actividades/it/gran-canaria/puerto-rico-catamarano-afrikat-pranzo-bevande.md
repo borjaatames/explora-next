@@ -106,6 +106,8 @@ galeria:
   alt: 'Pesci sul fondale sabbioso nelle acque di Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
   alt: 'La baia e la spiaggia di Puerto Rico de Gran Canaria'
+- src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
+  alt: 'Il porto di Puerto Rico a Gran Canaria visto dall''alto'
 ---
 
 ## Cosa vedrai

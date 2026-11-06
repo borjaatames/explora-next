@@ -58,11 +58,19 @@ imagen: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edific
 imagenAlt: Entrada del edificio Sabatini del Museo Reina Sofía con sus torres de ascensores de cristal
 galeria:
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
-  alt: El edificio Sabatini iluminado de noche
+  alt: 'El edificio Sabatini iluminado de noche'
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-madrid-spain-hero.webp
-  alt: Larga sala blanca del Museo Reina Sofía
+  alt: 'Larga sala blanca del Museo Reina Sofía'
 - src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Torre de ascensores de cristal del Reina Sofía desde una calle cercana
+  alt: 'Torre de ascensores de cristal del Reina Sofía desde una calle cercana'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
+  alt: 'Ascensores de cristal de la fachada del Museo Reina Sofía'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
+  alt: 'Museo Reina Sofía de Madrid'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
+  alt: 'Fachada del Museo Reina Sofía en la plaza de Juan Goytisolo, Madrid'
+- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
+  alt: 'Museo Reina Sofía de Madrid'
 publicada: true
 destacada: false
 fecha: '2026-10-07'

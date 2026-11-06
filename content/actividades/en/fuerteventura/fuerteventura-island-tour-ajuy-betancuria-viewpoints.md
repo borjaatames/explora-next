@@ -89,17 +89,19 @@ imagen: /images/actividades/fuerteventura/betancuria/ffv-betancuria-1.webp
 imagenAlt: "Church of Santa María and square in Betancuria"
 galeria:
 - src: /images/actividades/fuerteventura/betancuria/ffv-puerta-municipio-betancuria.webp
-  alt: "Entrance monument to the municipality of Betancuria"
+  alt: 'Entrance monument to the municipality of Betancuria'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-5.webp
-  alt: "Entrance to the historic town of Betancuria"
+  alt: 'Entrance to the historic town of Betancuria'
 - src: /images/actividades/fuerteventura/ajuy/ffv-costa-ajuy.webp
-  alt: "Ajuy coastline with the black beach"
+  alt: 'Ajuy coastline with the black beach'
 - src: /images/actividades/fuerteventura/ajuy/ffv-acantilados-ajuy.webp
-  alt: "Ajuy cliffs above the sea"
+  alt: 'Ajuy cliffs above the sea'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-4.webp
-  alt: "Garden beside the Betancuria church"
+  alt: 'Garden beside the Betancuria church'
 - src: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
-  alt: "Ajuy village and its black sand beach"
+  alt: 'Ajuy village and its black sand beach'
+- src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-2.webp
+  alt: 'Betancuria church square with the village behind'
 ---
 
 ## What you will see

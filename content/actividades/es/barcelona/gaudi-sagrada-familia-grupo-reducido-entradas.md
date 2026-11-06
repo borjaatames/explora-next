@@ -73,6 +73,8 @@ galeria:
   alt: 'Visitantes haciendo fotos ante la Sagrada Família'
 - src: https://imgcdn.bokun.tools/a6463a5a-0d50-489b-8af3-d6120faf7cf3.jpg
   alt: 'Visitante fotografiando la fachada de la Casa Batlló'
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-02.webp
+  alt: 'Guía explicando al grupo frente a la Sagrada Familia'
 publicada: true
 indexar: false
 destacada: false

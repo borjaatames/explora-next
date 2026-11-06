@@ -97,6 +97,8 @@ galeria:
   alt: 'Los Gigantes at sunset'
 - src: /images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp
   alt: 'Dolphin swimming close to the surface'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'A pilot whale blowing at the surface'
 ratingProveedor: 4.9
 numeroOpiniones: 2306
 publicada: true

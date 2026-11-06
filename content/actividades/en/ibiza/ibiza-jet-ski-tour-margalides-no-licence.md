@@ -98,17 +98,19 @@ imagen: /images/actividades/ibiza/moto-agua/fi2-motos-agua-junto-islote.webp
 imagenAlt: "Two jet skis riding near an islet"
 galeria:
 - src: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
-  alt: "Sant Antoni bay, the starting point"
+  alt: 'Sant Antoni bay, the starting point'
 - src: /images/actividades/ibiza/moto-agua/fi2-motos-agua-mar-abierto.webp
-  alt: "Jet skis on the open sea"
+  alt: 'Jet skis on the open sea'
 - src: /images/actividades/ibiza/moto-agua/fi2-bahia-sant-antoni-desde-arriba.webp
-  alt: "View of Sant Antoni bay with anchored boats"
+  alt: 'View of Sant Antoni bay with anchored boats'
 - src: /images/actividades/ibiza/moto-agua/fi2-moto-agua-olas.webp
-  alt: "Helmeted rider on a jet ski in the waves"
+  alt: 'Helmeted rider on a jet ski in the waves'
 - src: /images/actividades/ibiza/moto-agua/fi2-acantilados-costa-norte.webp
-  alt: "Cliffs on Ibiza's north coast near Cala Salada"
+  alt: 'Cliffs on Ibiza''s north coast near Cala Salada'
 - src: /images/actividades/ibiza/moto-agua/fi2-moto-agua-estela.webp
-  alt: "Jet ski leaving a trail of foam"
+  alt: 'Jet ski leaving a trail of foam'
+- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
+  alt: 'Boats in Sant Antoni harbour'
 ---
 
 ## What you will see

@@ -74,6 +74,8 @@ galeria:
   alt: 'Pareja en una fiesta nocturna en Valencia'
 - src: https://imgcdn.bokun.tools/c8084ebf-e1a9-412e-b7c1-662ef9b4813b.jpg
   alt: 'Visitantes paseando por la Ciudad de las Artes y las Ciencias'
+- src: /images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp
+  alt: 'Arquitectura del Oceanogràfic de Valencia en la Ciudad de las Artes'
 publicada: true
 indexar: false
 destacada: false

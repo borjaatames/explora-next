@@ -82,17 +82,19 @@ imagen: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-
 imagenAlt: "Servicio de vino tinto en una copa durante una cata"
 galeria:
 - src: /images/actividades/gran-canaria/vino/fgc-mirador-caldera-bandama.webp
-  alt: "Vista de la Caldera de Bandama desde el mirador"
+  alt: 'Vista de la Caldera de Bandama desde el mirador'
 - src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-mar.webp
-  alt: "La Caldera de Bandama con la costa este de Gran Canaria al fondo"
+  alt: 'La Caldera de Bandama con la costa este de Gran Canaria al fondo'
 - src: /images/actividades/fuerteventura/bodega/ffv-racimos-uva-vina.webp
-  alt: "Racimos de uva en la viña"
+  alt: 'Racimos de uva en la viña'
 - src: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
-  alt: "Barricas de roble en una bodega"
+  alt: 'Barricas de roble en una bodega'
 - src: /images/actividades/alicante/vino/cata-copas.webp
-  alt: "Copas preparadas para una cata de vino"
+  alt: 'Copas preparadas para una cata de vino'
 - src: /images/actividades/gran-canaria/vino/fgc-interior-caldera-bandama.webp
-  alt: "Interior de la Caldera de Bandama cubierto de vegetación"
+  alt: 'Interior de la Caldera de Bandama cubierto de vegetación'
+- src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-santa-brigida.webp
+  alt: 'La Caldera de Bandama, junto a Santa Brígida'
 ---
 
 ## Qué vas a ver

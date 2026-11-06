@@ -75,6 +75,10 @@ galeria:
   alt: 'Horseshoe arches of the Santa María la Blanca synagogue'
 - src: https://imgcdn.bokun.tools/97a04561-5745-40f0-959e-54e10f365ecf.jpg
   alt: 'The Alcántara bridge over the Tagus'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-spain-bridge-castle-fortress-hero.webp
+  alt: 'Panoramic view of Toledo with the Alcázar'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero.webp
+  alt: 'Royal Palace of Aranjuez, Madrid, Spain'
 publicada: true
 indexar: false
 destacada: false

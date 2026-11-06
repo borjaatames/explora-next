@@ -96,17 +96,19 @@ imagen: /images/actividades/gran-canaria/mogan-kayak/fgc-kayak-boca-cueva-marina
 imagenAlt: "Un kayak à l'entrée d'une grotte marine"
 galeria:
 - src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp
-  alt: "Puerto de Mogán et sa baie"
+  alt: 'Puerto de Mogán et sa baie'
 - src: /images/actividades/gran-canaria/mogan-kayak/cueva-marina-mogan.webp
-  alt: "Grotte marine dans les falaises de Mogán"
+  alt: 'Grotte marine dans les falaises de Mogán'
 - src: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
-  alt: "Un groupe de kayaks le long de la côte rocheuse, vu du ciel"
+  alt: 'Un groupe de kayaks le long de la côte rocheuse, vu du ciel'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: "Les falaises volcaniques de Mogán vues de la mer"
+  alt: 'Les falaises volcaniques de Mogán vues de la mer'
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
-  alt: "Fonds rocheux sous une eau cristalline"
+  alt: 'Fonds rocheux sous une eau cristalline'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: "Poissons au-dessus des fonds sableux de Grande Canarie"
+  alt: 'Poissons au-dessus des fonds sableux de Grande Canarie'
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: 'Côte rocheuse dans le sud-ouest de Gran Canaria'
 ---
 
 ## Ce que vous verrez

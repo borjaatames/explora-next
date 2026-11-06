@@ -76,17 +76,19 @@ imagen: /images/actividades/bilbao/gastronomia/copas-vino.webp
 imagenAlt: "Copas de vino blanco servidas en una cata"
 galeria:
 - src: /images/actividades/alicante/vino/cata-tinto.webp
-  alt: "Jarritas de vino tinto para una cata"
+  alt: 'Jarritas de vino tinto para una cata'
 - src: /images/actividades/bilbao/gastronomia/mesa-tapas.webp
-  alt: "Mesa con cazuelitas de tapas variadas"
+  alt: 'Mesa con cazuelitas de tapas variadas'
 - src: /images/actividades/alicante/centro/calle-san-antonio.webp
-  alt: "Calle del casco antiguo de Alicante junto al barrio de Santa Cruz"
+  alt: 'Calle del casco antiguo de Alicante junto al barrio de Santa Cruz'
 - src: /images/actividades/bilbao/pintxos/pintxos-variados-palillo.webp
-  alt: "Tapas sobre pan pinchadas con palillo"
+  alt: 'Tapas sobre pan pinchadas con palillo'
 - src: /images/actividades/alicante/vino/barricas.webp
-  alt: "Barricas de vino en una bodega"
+  alt: 'Barricas de vino en una bodega'
 - src: /images/actividades/alicante/vino/vinedos-paisaje.webp
-  alt: "Paisaje de viñedos"
+  alt: 'Paisaje de viñedos'
+- src: /images/actividades/alicante/vino/cata-copas.webp
+  alt: 'Copas de vino blanco y tinto en una cata'
 ---
 
 ## Qué vas a ver

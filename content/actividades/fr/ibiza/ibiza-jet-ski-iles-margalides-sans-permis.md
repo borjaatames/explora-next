@@ -98,17 +98,19 @@ imagen: /images/actividades/ibiza/moto-agua/fi2-motos-agua-junto-islote.webp
 imagenAlt: "Deux jet-skis près d'un îlot"
 galeria:
 - src: /images/actividades/ibiza/puerto/bahia-sant-antoni.webp
-  alt: "La baie de Sant Antoni, point de départ"
+  alt: 'La baie de Sant Antoni, point de départ'
 - src: /images/actividades/ibiza/moto-agua/fi2-motos-agua-mar-abierto.webp
-  alt: "Jet-skis en pleine mer"
+  alt: 'Jet-skis en pleine mer'
 - src: /images/actividades/ibiza/moto-agua/fi2-bahia-sant-antoni-desde-arriba.webp
-  alt: "Vue de la baie de Sant Antoni avec des bateaux au mouillage"
+  alt: 'Vue de la baie de Sant Antoni avec des bateaux au mouillage'
 - src: /images/actividades/ibiza/moto-agua/fi2-moto-agua-olas.webp
-  alt: "Pilote casqué sur un jet-ski dans les vagues"
+  alt: 'Pilote casqué sur un jet-ski dans les vagues'
 - src: /images/actividades/ibiza/moto-agua/fi2-acantilados-costa-norte.webp
-  alt: "Falaises de la côte nord d'Ibiza près de Cala Salada"
+  alt: 'Falaises de la côte nord d''Ibiza près de Cala Salada'
 - src: /images/actividades/ibiza/moto-agua/fi2-moto-agua-estela.webp
-  alt: "Jet-ski laissant une traînée d'écume"
+  alt: 'Jet-ski laissant une traînée d''écume'
+- src: /images/actividades/ibiza/puerto/puerto-sant-antoni.webp
+  alt: 'Bateaux dans le port de Sant Antoni'
 ---
 
 ## Ce que vous verrez

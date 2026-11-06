@@ -86,6 +86,8 @@ galeria:
   alt: 'Grupo del tour en una taberna tradicional'
 - src: https://imgcdn.bokun.tools/2cf8b793-4b48-4102-9b04-61ff9e3e7b3b.jpg
   alt: 'Viajeros con vino en la terraza de un bar'
+- src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
+  alt: 'El puente de Triana al atardecer'
 bokunProductId: 933456
 fecha_actualizacion: '2026-10-24'
 privada: true

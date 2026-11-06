@@ -83,17 +83,19 @@ imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-arqueolog
 imagenAlt: "Vestiges archéologiques et passerelle en bois à l'intérieur de l'Alcázar de Jerez"
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-cupula.webp
-  alt: "Lucarnes en forme d'étoile dans la coupole des bains arabes de l'Alcázar de Jerez"
+  alt: 'Lucarnes en forme d''étoile dans la coupole des bains arabes de l''Alcázar de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-noria.webp
-  alt: "Vestiges d'anciennes structures et la noria de l'Alcázar de Jerez"
+  alt: 'Vestiges d''anciennes structures et la noria de l''Alcázar de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-cielo-azul.webp
-  alt: "Coupole et balustrades de la cathédrale de Jerez"
+  alt: 'Coupole et balustrades de la cathédrale de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
-  alt: "Clocher de la cathédrale de Jerez"
+  alt: 'Clocher de la cathédrale de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-fachadas.webp
-  alt: "Façades blanches et jaunes à balcons dans la Calle Larga de Jerez"
+  alt: 'Façades blanches et jaunes à balcons dans la Calle Larga de Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/esquina-iglesia-historica.webp
-  alt: "Angle d'une église historique dans la vieille ville de Jerez"
+  alt: 'Angle d''une église historique dans la vieille ville de Jerez'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: 'Musiciens en direct dans un tablao flamenco de Jerez'
 ---
 
 ## Ce que vous verrez

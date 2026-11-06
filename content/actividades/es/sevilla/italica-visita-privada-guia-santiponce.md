@@ -71,13 +71,19 @@ imagen: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-08.webp
 imagenAlt: Arena del anfiteatro de Itálica
 galeria:
 - src: https://imgcdn.bokun.tools/0b0fd9c1-a004-459b-86a1-1cf6e637842e.jpg
-  alt: Ciudad romana de Itálica
+  alt: 'Ciudad romana de Itálica'
 - src: https://imgcdn.bokun.tools/765285f7-589c-46f8-a2a4-0c08dfec97f3.jpg
-  alt: El teatro y el anfiteatro de Itálica
+  alt: 'El teatro y el anfiteatro de Itálica'
 - src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-02.webp
-  alt: Pasadizo romano del anfiteatro
+  alt: 'Pasadizo romano del anfiteatro'
 - src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-06.webp
-  alt: Gradas del anfiteatro de Itálica
+  alt: 'Gradas del anfiteatro de Itálica'
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: 'Orilla del Guadalquivir con la Torre del Oro al fondo'
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: 'Torre del Oro y barcos en el Guadalquivir'
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
+  alt: 'Naves de la Catedral de Sevilla'
 publicada: true
 indexar: false
 destacada: false

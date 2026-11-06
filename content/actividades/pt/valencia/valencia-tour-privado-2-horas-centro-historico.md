@@ -80,17 +80,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/a754c38c-3d1b-4a07-9a33-f369aa30a273.jpg
-  alt: Viajantes em frente à fachada barroca do palácio do Marqués de Dos Aguas
+  alt: 'Viajantes em frente à fachada barroca do palácio do Marqués de Dos Aguas'
 - src: https://imgcdn.bokun.tools/f3c2bbe5-9ab9-4a0f-86f0-1871d1b0f85d.jpg
-  alt: Visitantes numa banca de presunto no Mercado Central
+  alt: 'Visitantes numa banca de presunto no Mercado Central'
 - src: /images/actividades/valencia/centro/lonja-fachada.webp
-  alt: Fachada da Lonja de la Seda de Valência, Património Mundial da UNESCO
+  alt: 'Fachada da Lonja de la Seda de Valência, Património Mundial da UNESCO'
 - src: https://imgcdn.bokun.tools/41c5de01-f3aa-49a5-88af-0dc0df1da117.jpg
-  alt: Interior do Mercado Central de Valência
+  alt: 'Interior do Mercado Central de Valência'
 - src: https://imgcdn.bokun.tools/d910370d-29a0-4a13-9bb1-10e6f74814a9.jpg
-  alt: Fachada de uma loja tradicional no centro de Valência
+  alt: 'Fachada de uma loja tradicional no centro de Valência'
 - src: /images/actividades/valencia/centro/micalet-plaza.webp
-  alt: O Micalet visto da Plaza de la Reina
+  alt: 'O Micalet visto da Plaza de la Reina'
+- src: /images/actividades/valencia/centro/torres-serranos-palmeras.webp
+  alt: 'As Torres de Serranos, a antiga porta da cidade'
 bokunProductId: 1062810
 fecha_actualizacion: '2026-10-24'
 privada: true

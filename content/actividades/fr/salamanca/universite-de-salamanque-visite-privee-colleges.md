@@ -83,17 +83,19 @@ imagen: /images/actividades/salamanca/universidad/biblioteca.webp
 imagenAlt: "Bibliothèque historique de l'Université de Salamanque"
 galeria:
 - src: /images/actividades/salamanca/universidad/fachada-universidad.webp
-  alt: "Façade plateresque de l'Université de Salamanque"
+  alt: 'Façade plateresque de l''Université de Salamanque'
 - src: /images/actividades/salamanca/universidad/medallon-reyes.webp
-  alt: "Médaillon des Rois catholiques sur la façade"
+  alt: 'Médaillon des Rois catholiques sur la façade'
 - src: /images/actividades/salamanca/universidad/biblioteca-interior.webp
-  alt: "Porte intérieure menant à la bibliothèque"
+  alt: 'Porte intérieure menant à la bibliothèque'
 - src: /images/actividades/salamanca/universidad/biblioteca-estanterias.webp
-  alt: "Rayonnages et globes de la bibliothèque historique"
+  alt: 'Rayonnages et globes de la bibliothèque historique'
 - src: /images/actividades/salamanca/universidad/patio-escuelas.webp
-  alt: "Cour des Escuelas Menores"
+  alt: 'Cour des Escuelas Menores'
 - src: /images/actividades/salamanca/universidad/escuelas-menores.webp
-  alt: "Cloître des Escuelas Menores"
+  alt: 'Cloître des Escuelas Menores'
+- src: /images/actividades/salamanca/universidad/universidad-salamanca-explore-stunning-historic-hero-hero.webp
+  alt: 'Bâtiments historiques de Salamanque avec les tours de La Clerecía'
 ---
 
 ## Ce que vous verrez

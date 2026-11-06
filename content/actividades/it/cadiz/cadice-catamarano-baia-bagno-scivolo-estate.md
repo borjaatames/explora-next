@@ -86,17 +86,19 @@ imagen: /images/actividades/cadiz/catamaran/ftc-catamaran-vela-mar-abierto.webp
 imagenAlt: "Catamarano che naviga a vela in mare aperto (immagine illustrativa)"
 galeria:
 - src: /images/actividades/cadiz/catamaran/catamaran-saliendo-puerto-cadiz.webp
-  alt: "Imbarcazione che esce dal porto di Cadice"
+  alt: 'Imbarcazione che esce dal porto di Cadice'
 - src: /images/actividades/cadiz/catamaran/velero-catedral-cadiz.webp
-  alt: "Barca a vela nella baia con la Cattedrale di Cadice sullo sfondo"
+  alt: 'Barca a vela nella baia con la Cattedrale di Cadice sullo sfondo'
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
-  alt: "Persona che nuota con la maschera sott'acqua (immagine illustrativa)"
+  alt: 'Persona che nuota con la maschera sott''acqua (immagine illustrativa)'
 - src: /images/actividades/cadiz/mar/catedral-desde-mar.webp
-  alt: "Cadice e la sua cattedrale viste dal mare"
+  alt: 'Cadice e la sua cattedrale viste dal mare'
 - src: /images/actividades/cadiz/catamaran/copa-espumoso-a-bordo-catamaran.webp
-  alt: "Calice di spumante sul ponte di un catamarano"
+  alt: 'Calice di spumante sul ponte di un catamarano'
 - src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
-  alt: "Castello di San Sebastián all'ingresso della baia"
+  alt: 'Castello di San Sebastián all''ingresso della baia'
+- src: /images/actividades/cadiz/catamaran/catamaran-vela-atardecer.webp
+  alt: 'Catamarano a vela al tramonto'
 avisoReserva: 'Attività stagionale: le prossime date disponibili iniziano a giugno 2027.'
 ---
 

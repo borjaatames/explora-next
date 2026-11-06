@@ -77,6 +77,8 @@ galeria:
   alt: 'Couple assis sur le pont du voilier'
 - src: https://imgcdn.bokun.tools/6a7c6910-76ad-4585-bead-710819b28eea.jpg
   alt: 'Couple marchant sur les rochers d’une crique d’Ibiza'
+- src: /images/actividades/ibiza/fotos-biblioteca/pexels-33838897.webp
+  alt: 'Ses Illetes à Formentera avec des bateaux au mouillage'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

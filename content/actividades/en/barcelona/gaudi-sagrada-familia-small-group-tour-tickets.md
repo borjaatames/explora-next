@@ -72,6 +72,8 @@ galeria:
   alt: 'Visitors taking photos at the Sagrada Família'
 - src: https://imgcdn.bokun.tools/a6463a5a-0d50-489b-8af3-d6120faf7cf3.jpg
   alt: 'Visitor photographing the façade of Casa Batlló'
+- src: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-02.webp
+  alt: 'Guide talking to the group in front of the Sagrada Familia'
 publicada: true
 indexar: false
 destacada: false

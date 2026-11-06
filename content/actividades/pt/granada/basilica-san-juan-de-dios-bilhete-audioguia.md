@@ -86,6 +86,8 @@ galeria:
   alt: 'Pormenor do portal com volutas'
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
   alt: 'Catedral de Granada, a 10 minutos'
+- src: /images/actividades/granada/catedral/granada-catedral-04.webp
+  alt: 'A Catedral, colada à Capilla Real'
 ratingProveedor: 4.7
 numeroOpiniones: 475
 publicada: true

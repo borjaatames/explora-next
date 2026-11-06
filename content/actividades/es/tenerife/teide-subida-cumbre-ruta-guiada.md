@@ -77,17 +77,19 @@ imagen: /images/actividades/tenerife/teide/crater-teide-las-canadas.webp
 imagenAlt: Cono y cráter del Teide sobre Las Cañadas
 galeria:
 - src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
-  alt: El Teide sobre el mar de nubes
+  alt: 'El Teide sobre el mar de nubes'
 - src: /images/actividades/tenerife/teide/canadas-lava.webp
-  alt: Coladas de lava en Las Cañadas del Teide
+  alt: 'Coladas de lava en Las Cañadas del Teide'
 - src: /images/actividades/tenerife/teide/teide-nevado.webp
-  alt: Cumbre del Teide nevada
+  alt: 'Cumbre del Teide nevada'
 - src: /images/actividades/tenerife/teide/canadas-panoramica.webp
-  alt: Panorámica de Las Cañadas
+  alt: 'Panorámica de Las Cañadas'
 - src: /images/actividades/tenerife/teide/teide-nordeste.webp
-  alt: El Teide desde el nordeste
+  alt: 'El Teide desde el nordeste'
 - src: /images/actividades/tenerife/teide/teide-canadas.webp
-  alt: El Teide desde el fondo de Las Cañadas
+  alt: 'El Teide desde el fondo de Las Cañadas'
+- src: /images/actividades/tenerife/teide/roques-garcia-carretera.webp
+  alt: 'Carretera junto a los Roques de García, en el Parque Nacional del Teide'
 ratingProveedor: 4.9
 numeroOpiniones: 94
 atraccionesRelacionadas:

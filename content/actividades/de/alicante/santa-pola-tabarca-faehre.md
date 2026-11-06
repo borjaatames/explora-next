@@ -77,17 +77,19 @@ imagen: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
 imagenAlt: Das ummauerte Dorf der Insel Tabarca vom Meer aus
 galeria:
 - src: /images/actividades/alicante/tabarca/torre-san-jose-tabarca.webp
-  alt: Der Turm San José auf der Insel Tabarca
+  alt: 'Der Turm San José auf der Insel Tabarca'
 - src: /images/actividades/alicante/tabarca/tabarca-playa.webp
-  alt: Felsbucht auf Tabarca mit dem Leuchtturm im Hintergrund und einer Möwe
+  alt: 'Felsbucht auf Tabarca mit dem Leuchtturm im Hintergrund und einer Möwe'
 - src: /images/actividades/alicante/tabarca/faro-tabarca.webp
-  alt: Der Leuchtturm von Tabarca, ein weißes Gebäude mit Steinturm
+  alt: 'Der Leuchtturm von Tabarca, ein weißes Gebäude mit Steinturm'
 - src: /images/actividades/alicante/tabarca/porta-de-terra.webp
-  alt: Porta de Terra, Eingang zum ummauerten Dorf
+  alt: 'Porta de Terra, Eingang zum ummauerten Dorf'
 - src: /images/actividades/alicante/tabarca/tabarca-calle.webp
-  alt: Eine Gasse im Dorf von Tabarca
+  alt: 'Eine Gasse im Dorf von Tabarca'
 - src: /images/actividades/alicante/tabarca/tabarca-fortificacion.webp
-  alt: Die Befestigung von Tabarca vom Meer aus
+  alt: 'Die Befestigung von Tabarca vom Meer aus'
+- src: /images/actividades/alicante/tabarca/faro-tabarca-campo.webp
+  alt: 'Der Leuchtturm auf der Insel Tabarca, Alicante'
 ratingProveedor: 4.6
 numeroOpiniones: 1822
 atraccionesRelacionadas:

@@ -89,17 +89,19 @@ imagen: /images/actividades/fuerteventura/ajuy/ffv-interior-cueva-ajuy.webp
 imagenAlt: "Visitor inside one of the Ajuy caves"
 galeria:
 - src: /images/actividades/fuerteventura/betancuria/ffv-puerta-municipio-betancuria.webp
-  alt: "Entrance monument to the municipality of Betancuria"
+  alt: 'Entrance monument to the municipality of Betancuria'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-1.webp
-  alt: "Church of Santa María and square in Betancuria"
+  alt: 'Church of Santa María and square in Betancuria'
 - src: /images/actividades/fuerteventura/ajuy/ffv-pueblo-playa-ajuy.webp
-  alt: "Ajuy village and its black sand beach"
+  alt: 'Ajuy village and its black sand beach'
 - src: /images/actividades/fuerteventura/ajuy/ffv-caleta-negra-ajuy.webp
-  alt: "Caleta Negra and the Ajuy caves"
+  alt: 'Caleta Negra and the Ajuy caves'
 - src: /images/actividades/fuerteventura/betancuria/ffv-betancuria-4.webp
-  alt: "Garden beside the Betancuria church"
+  alt: 'Garden beside the Betancuria church'
 - src: /images/actividades/fuerteventura/zonas/via-lactea-fuerteventura.webp
-  alt: "The Milky Way over Fuerteventura"
+  alt: 'The Milky Way over Fuerteventura'
+- src: /images/actividades/fuerteventura/ajuy/ffv-costa-ajuy.webp
+  alt: 'Ajuy coastline with the black beach'
 ---
 
 ## What you will see

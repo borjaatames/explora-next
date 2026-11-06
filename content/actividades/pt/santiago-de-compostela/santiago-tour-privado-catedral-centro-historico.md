@@ -86,17 +86,19 @@ imagen: /images/actividades/santiago-de-compostela/catedral/fsc-privado-fachada-
 imagenAlt: "Fachada barroca do Obradoiro da Catedral de Santiago"
 galeria:
 - src: /images/actividades/santiago-de-compostela/catedral/nave-interior.webp
-  alt: "Nave da Catedral de Santiago"
+  alt: 'Nave da Catedral de Santiago'
 - src: /images/actividades/santiago-de-compostela/catedral/claustro-boveda.webp
-  alt: "Abóbadas do claustro no museu da catedral"
+  alt: 'Abóbadas do claustro no museu da catedral'
 - src: /images/actividades/santiago-de-compostela/casco/rua-vilar.webp
-  alt: "A Rúa do Vilar no centro histórico"
+  alt: 'A Rúa do Vilar no centro histórico'
 - src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
-  alt: "Praza da Quintana"
+  alt: 'Praza da Quintana'
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: "Praza das Praterías"
+  alt: 'Praza das Praterías'
 - src: /images/actividades/santiago-de-compostela/catedral/botafumeiro.webp
-  alt: "O botafumeiro na catedral"
+  alt: 'O botafumeiro na catedral'
+- src: /images/actividades/santiago-de-compostela/catedral/tribuna.webp
+  alt: 'Tribuna românica sobre a nave da catedral'
 ---
 
 ## O que vai ver

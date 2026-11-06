@@ -86,17 +86,19 @@ imagen: /images/actividades/girona/calella-pals/calella-palafrugell-pueblo.webp
 imagenAlt: White houses of Calella de Palafrugell facing the sea
 galeria:
 - src: /images/actividades/girona/cap-de-creus/pueblo-blanco-bahia-costa-brava.webp
-  alt: "White Costa Brava village on a calm bay"
+  alt: 'White Costa Brava village on a calm bay'
 - src: /images/actividades/girona/ciudades/girona-hero.webp
-  alt: Girona with the cathedral and the Onyar houses
+  alt: 'Girona with the cathedral and the Onyar houses'
 - src: /images/actividades/girona/call/call-girona-hero.webp
-  alt: Alley in Girona's Jewish Quarter
+  alt: 'Alley in Girona''s Jewish Quarter'
 - src: /images/actividades/girona/calella-pals/pals-casa-medieval.webp
-  alt: Medieval stone house in Pals
+  alt: 'Medieval stone house in Pals'
 - src: /images/actividades/girona/calella-pals/calella-palafrugell-costa.webp
-  alt: Calella de Palafrugell coastline with pines above the sea
+  alt: 'Calella de Palafrugell coastline with pines above the sea'
 - src: /images/actividades/girona/costa-brava/costa-brava-girona-pixabay-6840326.jpg
-  alt: Clear-water cove on the Costa Brava
+  alt: 'Clear-water cove on the Costa Brava'
+- src: /images/actividades/girona/cap-de-creus/costa-rocosa-cadaques-vista-aerea.webp
+  alt: 'Aerial view of the rocky coast at Cadaqués, Cap de Creus'
 ratingProveedor: 4.8
 numeroOpiniones: 2096
 publicada: true

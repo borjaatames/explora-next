@@ -79,17 +79,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/71d190b6-fad4-4611-9ad0-0b827bb67218.jpeg
-  alt: La Sacra Capilla del Salvador de Úbeda entre cipreses
+  alt: 'La Sacra Capilla del Salvador de Úbeda entre cipreses'
 - src: https://imgcdn.bokun.tools/7b58425a-6a05-45df-ac31-7175926b6cb8.jpeg
-  alt: Patio porticado renacentista
+  alt: 'Patio porticado renacentista'
 - src: /images/actividades/granada/baeza/baeza-wikimedia-fachada-de-la-catedral-de-baeza-01-jpg.webp
-  alt: Catedral de Baeza
+  alt: 'Catedral de Baeza'
 - src: https://imgcdn.bokun.tools/5528a317-eb4f-44d5-8a15-ecb8ee3830b4.jpeg
-  alt: Fuente de los Leones en Baeza
+  alt: 'Fuente de los Leones en Baeza'
 - src: /images/actividades/granada/baeza/baeza-pexels-36686834.webp
-  alt: Puerta de Jaén en la muralla de Baeza
+  alt: 'Puerta de Jaén en la muralla de Baeza'
 - src: /images/actividades/granada/ubeda/ubeda-wikimedia-palacio-de-v-zquez-de-molina-o-de-las-cadenas-sede.webp
-  alt: Palacio Vázquez de Molina, hoy ayuntamiento de Úbeda
+  alt: 'Palacio Vázquez de Molina, hoy ayuntamiento de Úbeda'
+- src: /images/actividades/granada/ubeda/ubeda-pexels-35267673.webp
+  alt: 'Patio renacentista del Hospital de Santiago en Úbeda'
 bokunProductId: 949538
 fecha_actualizacion: '2026-10-24'
 privada: true

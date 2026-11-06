@@ -75,15 +75,19 @@ imagen: /images/actividades/cadiz/centro/ftc-catedral-desde-campo-sur.webp
 imagenAlt: La cattedrale di Cadice vista dal Campo del Sur
 galeria:
 - src: /images/actividades/cadiz/centro/arco-blanco-populo.webp
-  alt: Arco de los Blancos, nel quartiere del Pópulo
+  alt: 'Arco de los Blancos, nel quartiere del Pópulo'
 - src: /images/actividades/cadiz/centro/catedral-tejados.webp
-  alt: Tetti e cupola della cattedrale di Cadice
+  alt: 'Tetti e cupola della cattedrale di Cadice'
 - src: /images/actividades/cadiz/centro/plaza-san-juan-de-dios.webp
-  alt: Plaza de San Juan de Dios e il Municipio
+  alt: 'Plaza de San Juan de Dios e il Municipio'
 - src: /images/actividades/cadiz/centro/ftc-plaza-catedral-palmeras.webp
-  alt: Piazza della cattedrale di Cadice con le palme
+  alt: 'Piazza della cattedrale di Cadice con le palme'
 - src: /images/actividades/cadiz/campo-del-sur/paseo-playa-unsplash-IWV0-oq5ziE.webp
-  alt: Lungomare di Cadice
+  alt: 'Lungomare di Cadice'
+- src: /images/actividades/cadiz/centro/plaza-flores.webp
+  alt: 'Plaza de las Flores e i suoi banchi di fiori nel centro di Cadice'
+- src: /images/actividades/cadiz/centro/catedral-fachada.webp
+  alt: 'La facciata della cattedrale di Cadice'
 ratingProveedor: 4.7
 numeroOpiniones: 112
 publicada: true

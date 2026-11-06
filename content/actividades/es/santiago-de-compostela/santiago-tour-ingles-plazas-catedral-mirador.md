@@ -80,17 +80,19 @@ imagen: /images/actividades/santiago-de-compostela/catedral/fsc-ingles-mirador-c
 imagenAlt: "Torres de la catedral de Santiago sobre los tejados, vistas desde un mirador"
 galeria:
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: "Plaza de Platerías y fachada sur de la catedral"
+  alt: 'Plaza de Platerías y fachada sur de la catedral'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-praza-obradoiro-alto.webp
-  alt: "Praza do Obradoiro vista desde lo alto"
+  alt: 'Praza do Obradoiro vista desde lo alto'
 - src: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp
-  alt: "Plaza de la Quintana junto a la cabecera de la catedral"
+  alt: 'Plaza de la Quintana junto a la cabecera de la catedral'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-porta-santa-quintana.webp
-  alt: "Detalle de la Puerta Santa exterior en la Quintana"
+  alt: 'Detalle de la Puerta Santa exterior en la Quintana'
 - src: /images/actividades/santiago-de-compostela/casco/praterias-portada.webp
-  alt: "Relieves románicos de la portada de Platerías"
+  alt: 'Relieves románicos de la portada de Platerías'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-ingles-catedral-skyline.webp
-  alt: "Silueta de la catedral de Santiago sobre la ciudad"
+  alt: 'Silueta de la catedral de Santiago sobre la ciudad'
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: 'Praza da Quintana'
 ---
 
 ## Qué vas a ver

@@ -72,6 +72,8 @@ galeria:
   alt: 'Stained glass of the Sagrada Família'
 - src: https://imgcdn.bokun.tools/67c77841-0907-401c-a948-87ecd626d71c.jpg
   alt: 'Group with their guide inside the Sagrada Família'
+- src: /images/actividades/barcelona/fotos-biblioteca/wikimedia-01.webp
+  alt: 'Montserrat Monastery nestled in the mountains'
 publicada: true
 indexar: false
 destacada: false

@@ -93,17 +93,19 @@ imagen: /images/actividades/fuerteventura/buggy/ffv-buggy-pista-tierra-roja.webp
 imagenAlt: "Buggy su una pista sterrata rossastra"
 galeria:
 - src: /images/actividades/fuerteventura/buggy/ffv-tres-buggies-arena.webp
-  alt: "Tre buggy in fila sulla sabbia"
+  alt: 'Tre buggy in fila sulla sabbia'
 - src: /images/actividades/fuerteventura/cabras/ffv-rebano-cabras-ladera.webp
-  alt: "Gregge di capre su un pendio di Fuerteventura"
+  alt: 'Gregge di capre su un pendio di Fuerteventura'
 - src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
-  alt: "Preparazione di formaggio fresco di capra in un caseificio"
+  alt: 'Preparazione di formaggio fresco di capra in un caseificio'
 - src: /images/actividades/fuerteventura/buggy/ffv-buggy-junto-al-mar.webp
-  alt: "Buggy parcheggiato sulla sabbia vicino al mare"
+  alt: 'Buggy parcheggiato sulla sabbia vicino al mare'
 - src: /images/actividades/fuerteventura/la-pared/ffv-costa-oeste-oleaje.webp
-  alt: "Onde sulla costa ovest di Fuerteventura"
+  alt: 'Onde sulla costa ovest di Fuerteventura'
 - src: /images/actividades/fuerteventura/cabras/ffv-cabra-majorera.webp
-  alt: "Capra majorera dalle lunghe corna"
+  alt: 'Capra majorera dalle lunghe corna'
+- src: /images/actividades/fuerteventura/buggy/ffv-buggy-corralejo-polvo.webp
+  alt: 'Buggy che solleva polvere su una pista sterrata a Corralejo'
 ---
 
 ## Cosa vedrai

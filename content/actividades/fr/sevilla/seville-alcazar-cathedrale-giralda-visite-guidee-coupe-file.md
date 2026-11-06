@@ -89,6 +89,10 @@ galeria:
   alt: 'Arcades mudéjares du Real Alcázar'
 - src: /images/actividades/sevilla/catedral-giralda/giralda-detalle-arquitectura.webp
   alt: 'La Giralda vue depuis la rue'
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
+  alt: 'Recoin des jardins de l''Alcázar'
+- src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp
+  alt: 'Façade du palais de Pierre Ier au Real Alcázar de Séville'
 ratingProveedor: 4.8
 numeroOpiniones: 13238
 publicada: true

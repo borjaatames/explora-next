@@ -86,10 +86,12 @@ galeria:
   alt: 'Statue of Picasso sitting on a bench in Plaza de la Merced'
 - src: https://imgcdn.bokun.tools/ba4299f9-4ed0-4aa8-accf-582829e6f64e.jpeg
   alt: 'Buildings on Plaza de la Merced, home of the Birthplace Museum'
-- src: https://imgcdn.bokun.tools/a6f0dfad-e4b5-4a98-923d-99a6b288d508.jpeg
-  alt: 'Inside the Church of Santiago in Málaga'
 - src: https://imgcdn.bokun.tools/96bbe9da-abf4-4d20-917d-9cafad4de9bf.jpeg
   alt: 'White gallery room with works on display'
+- src: /images/actividades/malaga/museo-picasso/patio-flores.webp
+  alt: 'Flower-filled courtyard at the Picasso Museum Málaga'
+- src: /images/actividades/malaga/museo-picasso/museo-picasso-malaga-hero.webp
+  alt: 'Picasso Museum Málaga'
 bokunProductId: 936430
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

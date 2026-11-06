@@ -80,17 +80,19 @@ imagen: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
 imagenAlt: "Guitarrista flamenco tocando sobre el escenario"
 galeria:
 - src: /images/actividades/cordoba/flamenco/bailaora.webp
-  alt: "Bailaora con mantón blanco durante un espectáculo flamenco"
+  alt: 'Bailaora con mantón blanco durante un espectáculo flamenco'
 - src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: "Bailaor en pleno baile sobre el escenario"
+  alt: 'Bailaor en pleno baile sobre el escenario'
 - src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Cantaora flamenca cantando en un escenario"
+  alt: 'Cantaora flamenca cantando en un escenario'
 - src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: "Guitarrista flamenco tocando en directo"
+  alt: 'Guitarrista flamenco tocando en directo'
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Calle de la Judería de Córdoba con la torre de la Mezquita al fondo"
+  alt: 'Calle de la Judería de Córdoba con la torre de la Mezquita al fondo'
 - src: /images/actividades/cordoba/mezquita/torre-judaria.webp
-  alt: "Torre de la Mezquita-Catedral vista desde una calle de la Judería"
+  alt: 'Torre de la Mezquita-Catedral vista desde una calle de la Judería'
+- src: /images/actividades/cordoba/flamenco/guitarrista.webp
+  alt: 'Guitarrista flamenco con sombrero tocando en directo'
 ---
 
 ## Qué vas a ver

@@ -96,6 +96,8 @@ galeria:
   alt: 'Los Gigantes au coucher du soleil'
 - src: /images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp
   alt: 'Dauphin nageant près de la surface'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Un cétacé soufflant en surface au large de Tenerife'
 ratingProveedor: 4.9
 numeroOpiniones: 2306
 publicada: true

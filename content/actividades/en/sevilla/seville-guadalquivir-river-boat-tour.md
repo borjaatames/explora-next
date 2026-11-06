@@ -128,6 +128,8 @@ galeria:
   alt: 'Guadalquivir riverbank with the Torre del Oro in the distance'
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
   alt: 'Aerial view of the Maestranza bullring'
+- src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
+  alt: 'Gothic vaults of Seville Cathedral'
 ratingProveedor: 4.7
 numeroOpiniones: 1746
 guiasRelacionadas:

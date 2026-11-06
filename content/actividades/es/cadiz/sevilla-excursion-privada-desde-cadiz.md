@@ -83,17 +83,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/af233f00-c3b1-422b-8be5-b2dc6c42745d.jpg
-  alt: Viajeras en la Plaza de España de Sevilla
+  alt: 'Viajeras en la Plaza de España de Sevilla'
 - src: https://imgcdn.bokun.tools/42b45d1a-9c0a-40c4-a119-f9a6db50aa00.jpg
-  alt: La Catedral de Sevilla y la Giralda
+  alt: 'La Catedral de Sevilla y la Giralda'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: Galería de la Plaza de España con sus bancos de azulejos
+  alt: 'Galería de la Plaza de España con sus bancos de azulejos'
 - src: https://imgcdn.bokun.tools/88fc5a3f-3209-4495-bc33-355fcd3e97f4.jpg
-  alt: Viajera junto al canal de la Plaza de España
+  alt: 'Viajera junto al canal de la Plaza de España'
 - src: https://imgcdn.bokun.tools/3d521c39-af36-4bbc-8208-44f3092b5ae6.jpg
-  alt: La Giralda desde una plaza del centro
+  alt: 'La Giralda desde una plaza del centro'
 - src: /images/actividades/sevilla/catedral-giralda/giralda-torre-cielo-azul.webp
-  alt: Torre de la Giralda de Sevilla bajo cielo azul
+  alt: 'Torre de la Giralda de Sevilla bajo cielo azul'
+- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
+  alt: 'Plaza de España iluminada de noche'
 bokunProductId: 1033752
 fecha_actualizacion: '2026-10-24'
 privada: true

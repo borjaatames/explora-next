@@ -87,17 +87,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/f7536f42-96d4-4b7d-80b7-c65b5630fcd6.jpg
-  alt: The Alhambra seen from an Albaicín street
+  alt: 'The Alhambra seen from an Albaicín street'
 - src: https://imgcdn.bokun.tools/16c9e572-7fdf-4373-8f09-0ae90cbe822b.jpg
-  alt: Travellers with Granada behind them
+  alt: 'Travellers with Granada behind them'
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: Whitewashed cave houses in Sacromonte
+  alt: 'Whitewashed cave houses in Sacromonte'
 - src: https://imgcdn.bokun.tools/bfb2d3de-7fa1-480d-af0d-3849f6a986f1.jpg
-  alt: Couple in front of the Alhambra at sunset
+  alt: 'Couple in front of the Alhambra at sunset'
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
-  alt: Main facade of Granada Cathedral, by Alonso Cano
+  alt: 'Main facade of Granada Cathedral, by Alonso Cano'
 - src: https://imgcdn.bokun.tools/f661330d-1a47-46d8-96ff-5e0c374eba6b.jpg
-  alt: Sunset over Granada from a viewpoint
+  alt: 'Sunset over Granada from a viewpoint'
+- src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-granada-plaza-de-san-nicol-s-16-03-2011-14-27-28-j.webp
+  alt: 'San Nicolás viewpoint in the Albaicín'
 bokunProductId: 793773
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

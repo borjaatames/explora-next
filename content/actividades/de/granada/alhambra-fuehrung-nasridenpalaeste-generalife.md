@@ -90,6 +90,8 @@ galeria:
   alt: 'Patio de la Acequia im Generalife'
 - src: /images/actividades/granada/palacios-nazaries/pexels-20455327-hero.webp
   alt: 'Gärten des Generalife'
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: 'Der Löwenhof in den Nasridenpalästen der Alhambra mit seinem zentralen Brunnen und dem Säulengang'
 ratingProveedor: 4.7
 numeroOpiniones: 2448
 publicada: true

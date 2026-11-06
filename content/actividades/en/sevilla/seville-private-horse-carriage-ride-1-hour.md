@@ -78,6 +78,8 @@ galeria:
   alt: 'María Luisa Park from the carriage'
 - src: https://imgcdn.bokun.tools/362f34fa-d8d4-4827-b736-ca46648a0f62.jpeg
   alt: 'Carriage ride (provider photo)'
+- src: /images/actividades/sevilla/coche-caballos/coche-caballos-catedral.webp
+  alt: 'Horse-drawn carriage with a white horse in front of Seville Cathedral'
 publicada: true
 indexar: false
 destacada: false

@@ -80,17 +80,19 @@ imagen: /images/actividades/santiago-de-compostela/catedral/fsc-ingles-mirador-c
 imagenAlt: "Santiago Cathedral towers above the rooftops, seen from a viewpoint"
 galeria:
 - src: /images/actividades/santiago-de-compostela/casco/praterias.webp
-  alt: "Praza das Praterías and the cathedral's south façade"
+  alt: 'Praza das Praterías and the cathedral''s south façade'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-praza-obradoiro-alto.webp
-  alt: "Praza do Obradoiro seen from above"
+  alt: 'Praza do Obradoiro seen from above'
 - src: /images/actividades/santiago-de-compostela/catedral/quintana-catedral.webp
-  alt: "Praza da Quintana beside the cathedral apse"
+  alt: 'Praza da Quintana beside the cathedral apse'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-porta-santa-quintana.webp
-  alt: "Detail of the outer Holy Door on Praza da Quintana"
+  alt: 'Detail of the outer Holy Door on Praza da Quintana'
 - src: /images/actividades/santiago-de-compostela/casco/praterias-portada.webp
-  alt: "Romanesque reliefs on the Platerías doorway"
+  alt: 'Romanesque reliefs on the Platerías doorway'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-ingles-catedral-skyline.webp
-  alt: "Skyline of Santiago Cathedral above the city"
+  alt: 'Skyline of Santiago Cathedral above the city'
+- src: /images/actividades/santiago-de-compostela/catedral/quintana.webp
+  alt: 'Praza da Quintana'
 ---
 
 ## What you will see

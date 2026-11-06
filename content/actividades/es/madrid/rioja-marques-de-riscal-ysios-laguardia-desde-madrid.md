@@ -71,6 +71,10 @@ galeria:
   alt: 'Plaza de Laguardia'
 - src: https://imgcdn.bokun.tools/3283d30e-23cc-4b6d-9643-33cb1a79f394.jpg
   alt: 'Marqués de Riscal entre viñedos'
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-02.webp
+  alt: 'Barricas en un calado subterráneo de bodega'
+- src: /images/actividades/bilbao/rioja-alavesa/rioja-alavesa-01.webp
+  alt: 'Viñedos de la Rioja Alavesa bajo la sierra de Cantabria'
 publicada: true
 indexar: false
 destacada: false

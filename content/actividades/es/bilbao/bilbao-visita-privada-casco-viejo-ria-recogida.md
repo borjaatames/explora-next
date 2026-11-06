@@ -72,6 +72,10 @@ galeria:
   alt: 'Madre e hija en un mirador sobre Bilbao'
 - src: https://imgcdn.bokun.tools/6c9f7cae-95eb-4ac8-ace3-952cd6c9cd81.jpg
   alt: 'El Guggenheim de Bilbao reflejado en la ría'
+- src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
+  alt: 'Bilbao visto desde el monte Artxanda'
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: 'Plaza Nueva del Casco Viejo de Bilbao'
 publicada: true
 indexar: false
 destacada: false

@@ -87,17 +87,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/64ee4cf6-4eb4-4185-8faf-830078bb5cf6.jpg
-  alt: Jarapas a la venta en un pasaje de la Alpujarra
+  alt: 'Jarapas a la venta en un pasaje de la Alpujarra'
 - src: https://imgcdn.bokun.tools/10324816-5719-4164-a525-296900e15b4e.jpg
-  alt: Pueblo blanco de la Alpujarra con las montañas detrás
+  alt: 'Pueblo blanco de la Alpujarra con las montañas detrás'
 - src: https://imgcdn.bokun.tools/eb830385-aba2-42d9-9ee6-22d74a54692e.jpg
-  alt: Calle encalada con acequia en un pueblo alpujarreño
+  alt: 'Calle encalada con acequia en un pueblo alpujarreño'
 - src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-50841025723-jpg.webp
-  alt: Tinao, pasaje cubierto típico de la Alpujarra
+  alt: 'Tinao, pasaje cubierto típico de la Alpujarra'
 - src: https://imgcdn.bokun.tools/7c864af6-dcaf-492d-9253-7d39f0b10150.jpg
-  alt: Viajero contemplando las montañas de la Alpujarra
+  alt: 'Viajero contemplando las montañas de la Alpujarra'
 - src: /images/actividades/granada/alpujarra-pampaneira/alpujarra-pampaneira-wikimedia-ropa-tendida-pampaneira-alpujarra-granada-jpg.webp
-  alt: Terrados con ropa tendida en la Alpujarra
+  alt: 'Terrados con ropa tendida en la Alpujarra'
+- src: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-pixabay-2842181.webp
+  alt: 'Balcón con geranios en la Alpujarra'
 bokunProductId: 793772
 fecha_actualizacion: '2026-10-24'
 privada: true

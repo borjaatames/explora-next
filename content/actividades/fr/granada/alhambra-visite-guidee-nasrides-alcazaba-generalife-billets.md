@@ -90,6 +90,8 @@ galeria:
   alt: 'Patio de la Acequia du Generalife'
 - src: /images/actividades/granada/palacios-nazaries/pexels-20455327-hero.webp
   alt: 'Jardins du Generalife'
+- src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
+  alt: 'La cour des Lions dans les palais nasrides'
 ratingProveedor: 4.7
 numeroOpiniones: 2448
 publicada: true

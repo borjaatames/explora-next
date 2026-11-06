@@ -90,6 +90,10 @@ galeria:
   alt: 'Straße im Zentrum von Málaga mit der Peña Juan Breva'
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
   alt: 'Kathedrale von Málaga'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Flamenco-Gitarrist spielt auf der Bühne'
+- src: /images/actividades/cordoba/flamenco/guitarrista.webp
+  alt: 'Flamenco-Gitarrist mit Hut spielt live'
 ratingProveedor: 4.7
 numeroOpiniones: 5347
 publicada: true

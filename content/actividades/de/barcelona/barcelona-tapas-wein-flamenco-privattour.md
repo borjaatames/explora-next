@@ -91,17 +91,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-  alt: Flamencotänzerin im roten Kleid mit Gitarristen in einem Tablao
+  alt: 'Flamencotänzerin im roten Kleid mit Gitarristen in einem Tablao'
 - src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
-  alt: Pintxos auf Brot auf einer Bartheke
+  alt: 'Pintxos auf Brot auf einer Bartheke'
 - src: /images/actividades/barcelona/vino/copas-vino-tinto-fila.webp
-  alt: Reihe von Rotweingläsern auf einem Tisch
+  alt: 'Reihe von Rotweingläsern auf einem Tisch'
 - src: https://imgcdn.bokun.tools/1d4b51bc-ab97-4364-a65c-6382747f9b1c.jpg
-  alt: Flamencotänzerin im roten Kleid neben dem Gitarristen in einem Tablao
+  alt: 'Flamencotänzerin im roten Kleid neben dem Gitarristen in einem Tablao'
 - src: https://imgcdn.bokun.tools/8309b092-5eba-4290-aa32-4e297e5dd854.jpg
-  alt: Flamenco-Show in einem Steinsaal mit Bögen
+  alt: 'Flamenco-Show in einem Steinsaal mit Bögen'
 - src: https://imgcdn.bokun.tools/e9f0cdfb-0ed3-43a7-8520-27462fa72090.jpg
-  alt: Reisende stoßen im Restaurant bei Tapas an
+  alt: 'Reisende stoßen im Restaurant bei Tapas an'
+- src: /images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp
+  alt: 'Flamencotänzerin mit Schultertuch'
 bokunProductId: 217555
 fecha_actualizacion: '2026-10-24'
 privada: true

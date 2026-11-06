@@ -88,17 +88,19 @@ imagen: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
 imagenAlt: "Cala de aguas turquesa en Papagayo"
 galeria:
 - src: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
-  alt: "Persona haciendo esnórquel vista desde arriba"
+  alt: 'Persona haciendo esnórquel vista desde arriba'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
-  alt: "Playa de Papagayo con cielo de nubes"
+  alt: 'Playa de Papagayo con cielo de nubes'
 - src: /images/actividades/lanzarote/snorkel/flz-fondo-rocoso.webp
-  alt: "Fondo rocoso visto a través del agua clara"
+  alt: 'Fondo rocoso visto a través del agua clara'
 - src: /images/actividades/lanzarote/kayak-papagayo.webp
-  alt: "Kayak rojo en la orilla de una playa de arena blanca"
+  alt: 'Kayak rojo en la orilla de una playa de arena blanca'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
-  alt: "Playa Blanca, en el sur de Lanzarote"
+  alt: 'Playa Blanca, en el sur de Lanzarote'
 - src: /images/actividades/lanzarote/papagayo/flz-playas-veleros.webp
-  alt: "Playas de Papagayo con veleros fondeados"
+  alt: 'Playas de Papagayo con veleros fondeados'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+  alt: 'Cala de Papagayo vista desde el acantilado'
 ---
 
 ## Qué vas a ver

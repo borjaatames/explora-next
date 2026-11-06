@@ -69,6 +69,10 @@ galeria:
   alt: 'Cable car above the cliffs of Montserrat'
 - src: https://imgcdn.bokun.tools/4ba385db-f493-475f-ae0f-d6326583ad27.jpeg
   alt: 'Montserrat monastery on the mountainside'
+- src: /images/actividades/barcelona/fotos-biblioteca/pexels-10936417.webp
+  alt: 'Bisbe Bridge in the Gothic Quarter'
+- src: /images/actividades/barcelona/fotos-biblioteca/wikimedia-05.webp
+  alt: 'Barcelona Cathedral'
 publicada: true
 indexar: false
 destacada: false

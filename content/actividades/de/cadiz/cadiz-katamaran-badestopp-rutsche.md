@@ -86,17 +86,19 @@ imagen: /images/actividades/cadiz/catamaran/ftc-catamaran-vela-mar-abierto.webp
 imagenAlt: Katamaran auf offener See (Symbolbild)
 galeria:
 - src: /images/actividades/cadiz/catamaran/catamaran-saliendo-puerto-cadiz.webp
-  alt: Boot verlässt den Hafen von Cádiz
+  alt: 'Boot verlässt den Hafen von Cádiz'
 - src: /images/actividades/cadiz/catamaran/velero-catedral-cadiz.webp
-  alt: Segelboot in der Bucht mit der Kathedrale von Cádiz im Hintergrund
+  alt: 'Segelboot in der Bucht mit der Kathedrale von Cádiz im Hintergrund'
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
-  alt: Person schwimmt mit Brille unter Wasser (Symbolbild)
+  alt: 'Person schwimmt mit Brille unter Wasser (Symbolbild)'
 - src: /images/actividades/cadiz/mar/catedral-desde-mar.webp
-  alt: Cádiz und seine Kathedrale vom Meer aus
+  alt: 'Cádiz und seine Kathedrale vom Meer aus'
 - src: /images/actividades/cadiz/catamaran/copa-espumoso-a-bordo-catamaran.webp
-  alt: Ein Glas Sekt auf dem Deck eines Katamarans
+  alt: 'Ein Glas Sekt auf dem Deck eines Katamarans'
 - src: /images/actividades/cadiz/mar/castillo-san-sebastian.webp
-  alt: Das Castillo de San Sebastián an der Einfahrt der Bucht
+  alt: 'Das Castillo de San Sebastián an der Einfahrt der Bucht'
+- src: /images/actividades/cadiz/catamaran/catamaran-vela-atardecer.webp
+  alt: 'Segelkatamaran bei Sonnenuntergang'
 avisoReserva: 'Saisonale Aktivität: Die nächsten verfügbaren Termine beginnen im Juni 2027. An Bord gibt es keine Erklärungen auf Deutsch; die Crew spricht Spanisch und meist etwas Englisch. Für Baden und Rutsche brauchst du aber keine Sprachkenntnisse.'
 ---
 

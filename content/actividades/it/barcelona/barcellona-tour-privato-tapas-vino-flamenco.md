@@ -91,17 +91,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-  alt: Ballerina di flamenco in abito rosso con i chitarristi in un tablao
+  alt: 'Ballerina di flamenco in abito rosso con i chitarristi in un tablao'
 - src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
-  alt: Pintxos su pane sul bancone di un bar
+  alt: 'Pintxos su pane sul bancone di un bar'
 - src: /images/actividades/barcelona/vino/copas-vino-tinto-fila.webp
-  alt: Fila di calici di vino rosso su un tavolo
+  alt: 'Fila di calici di vino rosso su un tavolo'
 - src: https://imgcdn.bokun.tools/1d4b51bc-ab97-4364-a65c-6382747f9b1c.jpg
-  alt: Ballerina di flamenco in abito rosso accanto al chitarrista in un tablao
+  alt: 'Ballerina di flamenco in abito rosso accanto al chitarrista in un tablao'
 - src: https://imgcdn.bokun.tools/8309b092-5eba-4290-aa32-4e297e5dd854.jpg
-  alt: Spettacolo di flamenco in una sala di pietra con archi
+  alt: 'Spettacolo di flamenco in una sala di pietra con archi'
 - src: https://imgcdn.bokun.tools/e9f0cdfb-0ed3-43a7-8520-27462fa72090.jpg
-  alt: Viaggiatori che brindano davanti alle tapas al ristorante
+  alt: 'Viaggiatori che brindano davanti alle tapas al ristorante'
+- src: /images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp
+  alt: 'Ballerina di flamenco con scialle'
 bokunProductId: 217555
 fecha_actualizacion: '2026-10-24'
 privada: true

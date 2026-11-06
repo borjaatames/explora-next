@@ -91,6 +91,10 @@ galeria:
   alt: 'Delfin in den Gewässern im Süden Teneriffas'
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: 'Vulkanküste im Süden Teneriffas'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Ein Wal bläst an der Oberfläche vor Teneriffa'
+- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+  alt: 'Ein Grindwal taucht zum Atmen auf'
 ratingProveedor: 4.8
 numeroOpiniones: 2670
 publicada: true

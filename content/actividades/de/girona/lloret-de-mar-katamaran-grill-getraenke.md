@@ -104,6 +104,8 @@ galeria:
   alt: 'Das Meer auf Wasserhöhe an einer Felsküste'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
   alt: 'Der Hauptstrand von Lloret de Mar mit Felsen im Vordergrund'
+- src: /images/actividades/girona/fgi-mar/fgi-esnorquel-desde-arriba.webp
+  alt: 'Eine Person schnorchelt in klarem Wasser, von oben gesehen'
 avisoReserva: An Bord gibt es keine Erklärungen auf Deutsch; die Crew spricht Spanisch und meist Englisch. Für Baden, Essen und Musik brauchst du aber keine Sprachkenntnisse.
 ---
 

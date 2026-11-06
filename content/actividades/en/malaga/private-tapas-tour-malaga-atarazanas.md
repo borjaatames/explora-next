@@ -77,17 +77,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/947a08cc-01d6-4c24-b38d-0ee9677e993c.jpeg
-  alt: Tapas bar counter with bottles on the wall
+  alt: 'Tapas bar counter with bottles on the wall'
 - src: /images/actividades/malaga/tapas-mercado/atarazanas-05.webp
-  alt: Aloreña olives for sale at the market
+  alt: 'Aloreña olives for sale at the market'
 - src: https://imgcdn.bokun.tools/7b64c179-60d3-4a07-8fed-a92ec421372c.jpeg
-  alt: Counter with cured meats and tapas
+  alt: 'Counter with cured meats and tapas'
 - src: /images/actividades/malaga/tapas-mercado/atarazanas-01.webp
-  alt: Stained-glass facade of Atarazanas market
+  alt: 'Stained-glass facade of Atarazanas market'
 - src: https://imgcdn.bokun.tools/f67e5b83-a28d-4868-9154-b6740fd22de8.jpeg
-  alt: A toast with glasses of red wine
+  alt: 'A toast with glasses of red wine'
 - src: https://imgcdn.bokun.tools/e7511114-179f-4bd4-a2ae-976f5e41243b.jpeg
-  alt: A tapa served on a plate
+  alt: 'A tapa served on a plate'
+- src: /images/actividades/malaga/tapas-mercado/clase-tapas-01.webp
+  alt: 'Students cooking with the chef in a Spanish cooking class'
 bokunProductId: 936399
 fecha_actualizacion: '2026-10-24'
 privada: true

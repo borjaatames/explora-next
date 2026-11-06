@@ -81,6 +81,8 @@ galeria:
   alt: 'Arkaden der Plaza de España mit ihren gekachelten Bänken'
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
   alt: 'DareMapp-App mit der selbstgeführten Route'
+- src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
+  alt: 'Die Stierkampfarena Real Maestranza in Sevilla'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

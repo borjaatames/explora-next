@@ -101,6 +101,10 @@ galeria:
   alt: 'Dauphins sur la côte sud de Tenerife'
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
   alt: 'Plage de Los Cristianos'
+- src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
+  alt: 'Bateau d''observation avec des passagers à côté d''un groupe de globicéphales à Tenerife'
+- src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+  alt: 'Personne pagayant dans un kayak orange en pleine mer'
 ratingProveedor: 4.8
 numeroOpiniones: 962
 publicada: true

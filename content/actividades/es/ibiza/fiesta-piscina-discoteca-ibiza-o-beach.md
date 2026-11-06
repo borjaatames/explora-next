@@ -79,17 +79,19 @@ imagen: /images/actividades/ibiza/fiesta/fi2-globos-piscina.webp
 imagenAlt: "Globos de colores flotando en una piscina"
 galeria:
 - src: /images/actividades/ibiza/fiesta/fi2-paseo-sant-antoni-atardecer.webp
-  alt: "Paseo marítimo de Sant Antoni lleno de gente al atardecer"
+  alt: 'Paseo marítimo de Sant Antoni lleno de gente al atardecer'
 - src: /images/actividades/ibiza/calas/chiringuito-playa-ibiza.webp
-  alt: "Chiringuito con vistas al mar en Ibiza"
+  alt: 'Chiringuito con vistas al mar en Ibiza'
 - src: /images/actividades/ibiza/fiesta/fi2-banistas-piscina-aerea.webp
-  alt: "Bañistas en una piscina vistos desde arriba"
+  alt: 'Bañistas en una piscina vistos desde arriba'
 - src: /images/actividades/ibiza/atardecer/puesta-sol-sant-antoni.webp
-  alt: "Puesta de sol en la bahía de Sant Antoni"
+  alt: 'Puesta de sol en la bahía de Sant Antoni'
 - src: /images/actividades/ibiza/fiesta/fi2-sant-antoni-noche.webp
-  alt: "Paseo de Sant Antoni iluminado de noche"
+  alt: 'Paseo de Sant Antoni iluminado de noche'
 - src: /images/actividades/ibiza/fiesta/fi2-pista-discoteca-luces.webp
-  alt: "Pista de baile de una discoteca con bola de espejos y focos"
+  alt: 'Pista de baile de una discoteca con bola de espejos y focos'
+- src: /images/actividades/ibiza/calas/paddle-surf-mar-azul.webp
+  alt: 'Paddle surf sobre el agua azul del Mediterráneo'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 

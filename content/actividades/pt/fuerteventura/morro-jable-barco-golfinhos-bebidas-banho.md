@@ -84,13 +84,19 @@ imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
 imagenAlt: Golfinhos a nadar junto a um barco ao largo de Morro Jable
 galeria:
 - src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
-  alt: O farol de Morro Jable
+  alt: 'O farol de Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable e a praia do Matorral vistos da montanha
+  alt: 'Morro Jable e a praia do Matorral vistos da montanha'
 - src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: A costa de Jandía com o farol ao fundo
+  alt: 'A costa de Jandía com o farol ao fundo'
 - src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
-  alt: Farol de Morro Jable entre a vegetação do sapal
+  alt: 'Farol de Morro Jable entre a vegetação do sapal'
+- src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
+  alt: 'Baía de Corralejo com Lobos ao fundo'
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
+  alt: 'Barcos de excursão no porto de Corralejo'
+- src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
+  alt: 'Costa da península de Jandía'
 ratingProveedor: 4.2
 numeroOpiniones: 5490
 atraccionesRelacionadas:

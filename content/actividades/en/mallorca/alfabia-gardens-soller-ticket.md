@@ -82,17 +82,19 @@ imagen: /images/actividades/mallorca/fma-alfabia/pergola-columnas-alfabia.webp
 imagenAlt: "Stone-column pergola in the Gardens of Alfabia"
 galeria:
 - src: /images/actividades/mallorca/fma-alfabia/escalinata-palmeras-alfabia.webp
-  alt: "Stairway among palm trees in the Gardens of Alfabia"
+  alt: 'Stairway among palm trees in the Gardens of Alfabia'
 - src: /images/actividades/mallorca/fma-alfabia/patio-casa-alfabia.webp
-  alt: "Courtyard of the Alfabia manor house under a plane tree"
+  alt: 'Courtyard of the Alfabia manor house under a plane tree'
 - src: /images/actividades/mallorca/fma-alfabia/glicinia-balaustrada-alfabia.webp
-  alt: "Wisteria trunk next to a stone balustrade at Alfabia"
+  alt: 'Wisteria trunk next to a stone balustrade at Alfabia'
 - src: /images/actividades/mallorca/fma-alfabia/huerto-citricos-tramuntana.webp
-  alt: "Alfabia citrus orchard with the Serra de Tramuntana"
+  alt: 'Alfabia citrus orchard with the Serra de Tramuntana'
 - src: /images/actividades/mallorca/fma-alfabia/limones-cajas-alfabia.webp
-  alt: "Crates of lemons at the door of an Alfabia building"
+  alt: 'Crates of lemons at the door of an Alfabia building'
 - src: /images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp
-  alt: "Sóller valley and the Serra de Tramuntana from the road"
+  alt: 'Sóller valley and the Serra de Tramuntana from the road'
+- src: /images/actividades/mallorca/fma-soller/tranvia-paseo-port-soller.webp
+  alt: 'Sóller tram along the Port de Sóller seafront'
 avisoReserva: 'Seasonal activity: the next available dates start in February 2027.'
 ---
 

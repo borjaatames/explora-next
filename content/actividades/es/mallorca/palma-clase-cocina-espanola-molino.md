@@ -85,17 +85,19 @@ imagen: /images/actividades/mallorca/fma-cocina-palma/paella-marisco-paellera.we
 imagenAlt: "Paella de marisco recién hecha en su paellera"
 galeria:
 - src: /images/actividades/mallorca/fma-cocina-palma/paella-cocinandose-fuego.webp
-  alt: "Paella cocinándose al fuego"
+  alt: 'Paella cocinándose al fuego'
 - src: /images/actividades/sevilla/cocina-andaluza/gazpacho-vasitos.webp
-  alt: "Gazpacho servido en vasitos"
+  alt: 'Gazpacho servido en vasitos'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-01.webp
-  alt: "Tabla con pan con tomate, jamón, queso y aceitunas"
+  alt: 'Tabla con pan con tomate, jamón, queso y aceitunas'
 - src: /images/actividades/mallorca/fma-cocina-palma/paella-gambas-almejas-brasa.webp
-  alt: "Paella con gambas y almejas sobre las brasas"
+  alt: 'Paella con gambas y almejas sobre las brasas'
 - src: /images/actividades/mallorca/gastronomia/palma-tapas-03.webp
-  alt: "Pa amb oli, pan con tomate y aceite de oliva"
+  alt: 'Pa amb oli, pan con tomate y aceite de oliva'
 - src: /images/actividades/mallorca/fma-cocina-palma/paella-mejillones-pimiento.webp
-  alt: "Paella con mejillones y tiras de pimiento"
+  alt: 'Paella con mejillones y tiras de pimiento'
+- src: /images/actividades/mallorca/gastronomia/palma-tapas-05.webp
+  alt: 'Calle estrecha del casco antiguo de Palma'
 ---
 
 ## Qué vas a ver

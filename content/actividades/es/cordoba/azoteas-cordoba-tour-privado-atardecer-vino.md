@@ -81,17 +81,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/86a47aa4-aeb1-4973-ac8e-99980d820a6a.jpg
-  alt: Viajero fotografiando la Mezquita-Catedral desde una azotea
+  alt: 'Viajero fotografiando la Mezquita-Catedral desde una azotea'
 - src: https://imgcdn.bokun.tools/b9335b01-211a-4e00-8cdc-282d93b94405.jpg
-  alt: Tejados del centro de Córdoba
+  alt: 'Tejados del centro de Córdoba'
 - src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
-  alt: Puente Romano y Mezquita-Catedral iluminados
+  alt: 'Puente Romano y Mezquita-Catedral iluminados'
 - src: https://imgcdn.bokun.tools/5631082f-cce7-41b2-b641-2dade57e0ba5.jpg
-  alt: La Mezquita-Catedral vista desde lo alto
+  alt: 'La Mezquita-Catedral vista desde lo alto'
 - src: https://imgcdn.bokun.tools/60622bf9-53e6-428b-b40e-cf358758391f.jpg
-  alt: Almenas de la Mezquita de Córdoba
+  alt: 'Almenas de la Mezquita de Córdoba'
 - src: /images/actividades/cordoba/mezquita/torre-campanario.webp
-  alt: Torre campanario de la Mezquita-Catedral
+  alt: 'Torre campanario de la Mezquita-Catedral'
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: 'Torre de la Mezquita-Catedral, frente al tablao'
 bokunProductId: 934216
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

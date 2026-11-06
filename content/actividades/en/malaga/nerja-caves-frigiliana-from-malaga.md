@@ -82,17 +82,19 @@ imagen: /images/actividades/malaga/cuevas-nerja/estalactitas-sala-iluminada.webp
 imagenAlt: "Lit stalactites in a chamber of the Nerja Caves"
 galeria:
 - src: /images/actividades/malaga/frigiliana/calle-andaluza-frigiliana.webp
-  alt: "Whitewashed street with flowerpots in Frigiliana"
+  alt: 'Whitewashed street with flowerpots in Frigiliana'
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-cuevas-nerja-interior-cue-hero.webp
-  alt: Inside the Nerja Cave with stalactites
+  alt: 'Inside the Nerja Cave with stalactites'
 - src: /images/actividades/malaga/frigiliana/frigiliana-calle.webp
-  alt: Street of white houses in Frigiliana
+  alt: 'Street of white houses in Frigiliana'
 - src: /images/actividades/malaga/frigiliana/frigiliana-panoramica.webp
-  alt: Panoramic view of Frigiliana towards the sea
+  alt: 'Panoramic view of Frigiliana towards the sea'
 - src: /images/actividades/granada/nerja-costa-tropical-desde-granada/nerja-costa-tropical-desde-granada-playa-burriana-03-hero.webp
-  alt: Burriana beach in Nerja
+  alt: 'Burriana beach in Nerja'
 - src: /images/actividades/malaga/frigiliana/frigiliana-buganvillas.webp
-  alt: Bougainvillea over the rooftops of Frigiliana
+  alt: 'Bougainvillea over the rooftops of Frigiliana'
+- src: /images/actividades/malaga/cuevas-nerja/formaciones-estalactitas-detalle.webp
+  alt: 'Close-up of stalactites in the Nerja Caves'
 ratingProveedor: 4.6
 numeroOpiniones: 3192
 publicada: true

@@ -87,6 +87,10 @@ galeria:
   alt: 'El Teide, que se ve desde el norte de Tenerife'
 - src: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
   alt: 'Barricas de vino apiladas en una bodega'
+- src: /images/actividades/tenerife/orotava/valle-orotava.webp
+  alt: 'Vista del norte de Tenerife, con el valle de La Orotava y el Atlántico'
+- src: /images/actividades/tenerife/orotava/casa-de-los-balcones.webp
+  alt: 'Casa de los Balcones, en La Orotava'
 ---
 
 ## Qué vas a ver

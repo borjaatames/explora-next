@@ -70,6 +70,10 @@ galeria:
   alt: 'Teleférico sobre los acantilados de Montserrat'
 - src: https://imgcdn.bokun.tools/4ba385db-f493-475f-ae0f-d6326583ad27.jpeg
   alt: 'Monasterio de Montserrat en la ladera de la montaña'
+- src: /images/actividades/barcelona/fotos-biblioteca/pexels-10936417.webp
+  alt: 'Puente del Bisbe en el Barrio Gótico'
+- src: /images/actividades/barcelona/fotos-biblioteca/wikimedia-05.webp
+  alt: 'Catedral de Barcelona'
 publicada: true
 indexar: false
 destacada: false

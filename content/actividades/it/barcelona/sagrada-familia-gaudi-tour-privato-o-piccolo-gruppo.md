@@ -88,17 +88,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/ad541982-03b7-41a9-b773-9eddc3904506.jpg
-  alt: Visitatori accanto alle vetrate colorate all'interno della Sagrada Familia
+  alt: 'Visitatori accanto alle vetrate colorate all''interno della Sagrada Familia'
 - src: /images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp
-  alt: Interno della Sagrada Familia con colonne illuminate dalla luce calda delle vetrate
+  alt: 'Interno della Sagrada Familia con colonne illuminate dalla luce calda delle vetrate'
 - src: https://imgcdn.bokun.tools/c0e9df2c-6313-46ad-96df-2692c0267792.jpg
-  alt: Gruppo del tour davanti alla facciata della Sagrada Familia
+  alt: 'Gruppo del tour davanti alla facciata della Sagrada Familia'
 - src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Vetrate all'interno della Sagrada Familia
+  alt: 'Vetrate all''interno della Sagrada Familia'
 - src: https://imgcdn.bokun.tools/5e491f93-d2aa-48de-80d1-f4a9058cbdb1.jpg
-  alt: Coppia che si scatta un selfie con le torri della Sagrada Familia
+  alt: 'Coppia che si scatta un selfie con le torri della Sagrada Familia'
 - src: https://imgcdn.bokun.tools/847885e8-e69e-43ef-96c2-133899ae0ecf.jpg
-  alt: Viaggiatori sorridenti accanto alla Sagrada Familia
+  alt: 'Viaggiatori sorridenti accanto alla Sagrada Familia'
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
+  alt: 'Facciata della Sagrada Familia con le sue torri a Barcellona'
 bokunProductId: 217562
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

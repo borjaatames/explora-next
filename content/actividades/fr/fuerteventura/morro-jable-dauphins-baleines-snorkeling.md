@@ -90,6 +90,12 @@ galeria:
   alt: 'Phare de Morro Jable'
 - src: /images/actividades/tenerife/cetaceos/delfines-aletas-grupo.webp
   alt: 'Groupe de dauphins dans l''Atlantique'
+- src: /images/actividades/fuerteventura/morro-jable/ffv-catamaranes-playa-morro-jable.webp
+  alt: 'Catamarans à voile sur la plage de Morro Jable'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Un cétacé soufflant en surface au large de Tenerife'
+- src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
+  alt: 'Dauphin tacheté de l''Atlantique'
 ratingProveedor: 4.6
 numeroOpiniones: 4306
 publicada: true

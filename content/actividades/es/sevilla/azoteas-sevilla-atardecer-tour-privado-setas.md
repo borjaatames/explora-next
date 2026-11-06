@@ -81,17 +81,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/d503604d-e424-4fad-8859-663fd52d413d.jpg
-  alt: Tejados de Sevilla al atardecer desde una azotea
+  alt: 'Tejados de Sevilla al atardecer desde una azotea'
 - src: https://imgcdn.bokun.tools/f13c423c-f790-48f7-898b-7d2c9475a7e2.jpg
-  alt: Viajeros en una azotea con la Giralda al atardecer
+  alt: 'Viajeros en una azotea con la Giralda al atardecer'
 - src: https://imgcdn.bokun.tools/7ee6741c-d15b-4197-8efa-c711c51cd96f.jpg
-  alt: Vista de los tejados de Sevilla con la Catedral al fondo
+  alt: 'Vista de los tejados de Sevilla con la Catedral al fondo'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-2019-3-jpg-05.webp
-  alt: Pasarelas del mirador de las Setas
+  alt: 'Pasarelas del mirador de las Setas'
 - src: https://imgcdn.bokun.tools/03a28afa-abd3-4cba-b8d8-281d489d63da.jpg
-  alt: Visitantes contemplando Sevilla desde lo alto
+  alt: 'Visitantes contemplando Sevilla desde lo alto'
 - src: https://imgcdn.bokun.tools/33e71e7c-cd20-4c5e-b7d4-46ba704932ee.jpg
-  alt: Viajera en una azotea con la Giralda al fondo
+  alt: 'Viajera en una azotea con la Giralda al fondo'
+- src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
+  alt: 'Las Setas de la Encarnación, a pocos minutos a pie'
 bokunProductId: 933452
 fecha_actualizacion: '2026-10-24'
 privada: true

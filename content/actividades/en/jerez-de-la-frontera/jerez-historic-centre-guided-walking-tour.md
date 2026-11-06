@@ -86,17 +86,19 @@ imagen: /images/actividades/jerez-de-la-frontera/centro/catedral-fachada-princip
 imagenAlt: "Main facade of Jerez Cathedral"
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/centro/esquina-iglesia-historica.webp
-  alt: "Corner of a historic church in Jerez old town"
+  alt: 'Corner of a historic church in Jerez old town'
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.webp
-  alt: "Entrance gate to the Alcazar of Jerez in the Almohad wall"
+  alt: 'Entrance gate to the Alcazar of Jerez in the Almohad wall'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-fachadas.webp
-  alt: "White and yellow facades with balconies on Calle Larga in Jerez"
+  alt: 'White and yellow facades with balconies on Calle Larga in Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/fachada-iglesia-historica.webp
-  alt: "Baroque facade of a historic church in Jerez"
+  alt: 'Baroque facade of a historic church in Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
-  alt: "Old town street in Jerez with large windows and a terrace"
+  alt: 'Old town street in Jerez with large windows and a terrace'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-yeserias.webp
-  alt: "Decorative plasterwork on a building facade on Calle Larga"
+  alt: 'Decorative plasterwork on a building facade on Calle Larga'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: 'Live musicians at a flamenco tablao in Jerez'
 ---
 
 ## What you will see

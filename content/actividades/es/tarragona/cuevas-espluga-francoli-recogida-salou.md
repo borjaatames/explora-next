@@ -78,17 +78,19 @@ imagen: /images/actividades/tarragona/fre-coves-espluga/estalactitas-iluminadas.
 imagenAlt: "Estalactitas iluminadas en una cueva (imagen ilustrativa)"
 galeria:
 - src: /images/actividades/tarragona/costa/puerto-cambrils.webp
-  alt: "Puerto de Cambrils, uno de los puntos de recogida"
+  alt: 'Puerto de Cambrils, uno de los puntos de recogida'
 - src: /images/actividades/tarragona/fre-coves-espluga/formaciones-roca-cueva.webp
-  alt: "Formaciones de roca en el interior de una cueva (imagen ilustrativa)"
+  alt: 'Formaciones de roca en el interior de una cueva (imagen ilustrativa)'
 - src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: "Montañas de Prades, cerca de l'Espluga de Francolí, al atardecer"
+  alt: 'Montañas de Prades, cerca de l''Espluga de Francolí, al atardecer'
 - src: /images/actividades/tarragona/fre-coves-espluga/conjunto-font-major-espluga.webp
-  alt: "Conjunto de la Font Major, acceso a la cueva de l'Espluga de Francolí"
+  alt: 'Conjunto de la Font Major, acceso a la cueva de l''Espluga de Francolí'
 - src: /images/actividades/tarragona/priorat/fta-vinedos-cornudella-montsant.webp
-  alt: "Viñedos y sierra del Montsant en el interior de Tarragona"
+  alt: 'Viñedos y sierra del Montsant en el interior de Tarragona'
 - src: /images/actividades/tarragona/fre-coves-espluga/cala-morisca-salou.webp
-  alt: "Cala Morisca, en la costa de Salou"
+  alt: 'Cala Morisca, en la costa de Salou'
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: 'Mar abierto frente a las rocas del Cap de Salou'
 ---
 
 ## Qué vas a ver

@@ -91,17 +91,19 @@ imagen: /images/actividades/mallorca/fma-cala-varques/cueva-acantilado-cala-varq
 imagenAlt: "Acantilado con cueva marina junto a Cala Varques, en la costa este"
 galeria:
 - src: /images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp
-  alt: "Interior de una cueva marina con salida al mar"
+  alt: 'Interior de una cueva marina con salida al mar'
 - src: /images/actividades/mallorca/fma-cala-varques/nadadora-esnorquel.webp
-  alt: "Persona nadando con esnórquel en agua verde azulada"
+  alt: 'Persona nadando con esnórquel en agua verde azulada'
 - src: /images/actividades/mallorca/fma-cala-varques/costa-este-acantilados.webp
-  alt: "Acantilados bajos de la costa este de Mallorca"
+  alt: 'Acantilados bajos de la costa este de Mallorca'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
-  alt: "Fondo marino con rocas bajo agua cristalina"
+  alt: 'Fondo marino con rocas bajo agua cristalina'
 - src: /images/actividades/mallorca/fma-cala-varques/roca-oleaje-cala-varques.webp
-  alt: "Rocas y oleaje en la costa de Cala Varques"
+  alt: 'Rocas y oleaje en la costa de Cala Varques'
 - src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
-  alt: "Roca en el mar rodeada de agua turquesa"
+  alt: 'Roca en el mar rodeada de agua turquesa'
+- src: /images/actividades/mallorca/fma-cala-varques/cala-varques-playa.webp
+  alt: 'Playa de Cala Varques, con agua turquesa y pinar'
 ---
 
 ## Qué vas a ver

@@ -91,17 +91,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-  alt: Bailarina de flamenco de vestido vermelho com guitarristas num tablao
+  alt: 'Bailarina de flamenco de vestido vermelho com guitarristas num tablao'
 - src: /images/actividades/barcelona/gastronomia/pintxos-barra.webp
-  alt: Pintxos sobre pão no balcão de um bar
+  alt: 'Pintxos sobre pão no balcão de um bar'
 - src: /images/actividades/barcelona/vino/copas-vino-tinto-fila.webp
-  alt: Fila de copos de vinho tinto numa mesa
+  alt: 'Fila de copos de vinho tinto numa mesa'
 - src: https://imgcdn.bokun.tools/1d4b51bc-ab97-4364-a65c-6382747f9b1c.jpg
-  alt: Bailarina de flamenco de vestido vermelho ao lado do guitarrista num tablao
+  alt: 'Bailarina de flamenco de vestido vermelho ao lado do guitarrista num tablao'
 - src: https://imgcdn.bokun.tools/8309b092-5eba-4290-aa32-4e297e5dd854.jpg
-  alt: Espetáculo de flamenco numa sala de pedra com arcos
+  alt: 'Espetáculo de flamenco numa sala de pedra com arcos'
 - src: https://imgcdn.bokun.tools/e9f0cdfb-0ed3-43a7-8520-27462fa72090.jpg
-  alt: Viajantes a brindar com tapas no restaurante
+  alt: 'Viajantes a brindar com tapas no restaurante'
+- src: /images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp
+  alt: 'Bailarina de flamenco com xaile'
 bokunProductId: 217555
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -74,17 +74,19 @@ imagen: /images/actividades/alicante/tabarca/tabarca-pueblo.webp
 imagenAlt: Paese fortificato dell'isola di Tabarca visto dal mare
 galeria:
 - src: /images/actividades/alicante/tabarca/torre-san-jose-tabarca.webp
-  alt: Torre di San José sull'isola di Tabarca
+  alt: 'Torre di San José sull''isola di Tabarca'
 - src: /images/actividades/alicante/tabarca/tabarca-playa.webp
-  alt: Spiaggia di Tabarca
+  alt: 'Spiaggia di Tabarca'
 - src: /images/actividades/alicante/tabarca/faro-tabarca.webp
-  alt: Faro di Tabarca
+  alt: 'Faro di Tabarca'
 - src: /images/actividades/alicante/tabarca/porta-de-terra.webp
-  alt: Porta de Terra, ingresso al paese fortificato
+  alt: 'Porta de Terra, ingresso al paese fortificato'
 - src: /images/actividades/alicante/tabarca/tabarca-calle.webp
-  alt: Strada del paese di Tabarca
+  alt: 'Strada del paese di Tabarca'
 - src: /images/actividades/alicante/tabarca/tabarca-fortificacion.webp
-  alt: Fortificazioni di Tabarca viste dal mare
+  alt: 'Fortificazioni di Tabarca viste dal mare'
+- src: /images/actividades/alicante/tabarca/faro-tabarca-campo.webp
+  alt: 'Faro dell''isola di Tabarca, Alicante'
 ratingProveedor: 4.6
 numeroOpiniones: 1822
 atraccionesRelacionadas:

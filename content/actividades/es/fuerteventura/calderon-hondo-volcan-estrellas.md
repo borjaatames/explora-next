@@ -84,17 +84,19 @@ imagen: /images/actividades/fuerteventura/zonas/calderon-hondo-crater.webp
 imagenAlt: El cráter del volcán Calderón Hondo
 galeria:
 - src: /images/actividades/fuerteventura/zonas/via-lactea-fuerteventura.webp
-  alt: La Vía Láctea en el cielo nocturno de Fuerteventura
+  alt: 'La Vía Láctea en el cielo nocturno de Fuerteventura'
 - src: /images/actividades/fuerteventura/zonas/calderon-hondo-borde.webp
-  alt: El borde del cráter de Calderón Hondo
+  alt: 'El borde del cráter de Calderón Hondo'
 - src: /images/actividades/fuerteventura/zonas/cielo-estrellado-volcan.webp
-  alt: Cielo estrellado sobre la silueta de un volcán
+  alt: 'Cielo estrellado sobre la silueta de un volcán'
 - src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: Conos volcánicos en el norte de Fuerteventura
+  alt: 'Conos volcánicos en el norte de Fuerteventura'
 - src: /images/actividades/fuerteventura/zonas/el-cotillo-puerto.webp
-  alt: El puerto viejo de El Cotillo
+  alt: 'El puerto viejo de El Cotillo'
 - src: /images/actividades/fuerteventura/zonas/dunas-corralejo-arena.webp
-  alt: Arena y matorral en las Dunas de Corralejo
+  alt: 'Arena y matorral en las Dunas de Corralejo'
+- src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
+  alt: 'Morro Jable y la playa del Matorral desde la montaña'
 ratingProveedor: 4.8
 numeroOpiniones: 1060
 atraccionesRelacionadas:

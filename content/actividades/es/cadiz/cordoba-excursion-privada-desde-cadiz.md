@@ -81,17 +81,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/7ab1e2d8-5709-4905-9d78-7101b0ab3536.jpg
-  alt: Bosque de arcos bicolores de la Mezquita-Catedral
+  alt: 'Bosque de arcos bicolores de la Mezquita-Catedral'
 - src: https://imgcdn.bokun.tools/58a9e829-333a-421d-844c-0f5ae0b5c841.jpg
-  alt: Guía con viajeros junto al río, con la Mezquita al fondo
+  alt: 'Guía con viajeros junto al río, con la Mezquita al fondo'
 - src: /images/actividades/cordoba/mezquita/mihrab.webp
-  alt: Mihrab de la Mezquita de Córdoba
+  alt: 'Mihrab de la Mezquita de Córdoba'
 - src: https://imgcdn.bokun.tools/0b073e8b-518a-4290-ad58-368af274274e.jpg
-  alt: Calleja de las Flores con la torre al fondo
+  alt: 'Calleja de las Flores con la torre al fondo'
 - src: /images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp
-  alt: Calleja de la Judería de Córdoba
+  alt: 'Calleja de la Judería de Córdoba'
 - src: https://imgcdn.bokun.tools/a6cbd719-842d-4831-b9d7-53131d65ed63.jpg
-  alt: Viajeros en un patio con macetas azules
+  alt: 'Viajeros en un patio con macetas azules'
+- src: /images/actividades/cordoba/mezquita/torre-judaria.webp
+  alt: 'Torre de la Mezquita-Catedral, frente al tablao'
 bokunProductId: 1237810
 fecha_actualizacion: '2026-10-24'
 privada: true

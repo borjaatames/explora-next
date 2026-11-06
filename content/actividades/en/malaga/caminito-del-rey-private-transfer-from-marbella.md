@@ -76,6 +76,8 @@ galeria:
   alt: 'Caminito del Rey hanging bridge'
 - src: https://imgcdn.bokun.tools/e928eff2-cdad-43c4-b9ed-3e90614a6405.jpg
   alt: 'View of the gorge from the walkways'
+- src: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-19245377.webp
+  alt: 'Caminito del Rey walkways on the rock face'
 publicada: true
 indexar: false
 destacada: false

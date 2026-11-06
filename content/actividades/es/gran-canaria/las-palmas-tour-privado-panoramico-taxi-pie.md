@@ -85,17 +85,19 @@ imagen: /images/actividades/gran-canaria/las-palmas/fgc-panoramica-las-palmas-mi
 imagenAlt: "Panorámica de Las Palmas de Gran Canaria desde un mirador"
 galeria:
 - src: /images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp
-  alt: "El puerto de Las Palmas visto desde lo alto, entre palmeras"
+  alt: 'El puerto de Las Palmas visto desde lo alto, entre palmeras'
 - src: /images/actividades/gran-canaria/canteras/fgc-canteras-barcas-edificios.webp
-  alt: "Barcas fondeadas en la playa de Las Canteras"
+  alt: 'Barcas fondeadas en la playa de Las Canteras'
 - src: /images/actividades/gran-canaria/canteras/canteras-panoramica.webp
-  alt: "Playa de Las Canteras"
+  alt: 'Playa de Las Canteras'
 - src: /images/actividades/gran-canaria/vegueta/fgc-vegueta-desde-campanario.webp
-  alt: "Vegueta vista desde el campanario de la catedral de Santa Ana"
+  alt: 'Vegueta vista desde el campanario de la catedral de Santa Ana'
 - src: /images/actividades/gran-canaria/vegueta/catedral-vegueta.webp
-  alt: "Catedral de Santa Ana sobre los tejados de Vegueta"
+  alt: 'Catedral de Santa Ana sobre los tejados de Vegueta'
 - src: /images/actividades/gran-canaria/vegueta/plaza-santa-ana.webp
-  alt: "Plaza de Santa Ana, en Vegueta"
+  alt: 'Plaza de Santa Ana, en Vegueta'
+- src: /images/actividades/gran-canaria/vegueta/fgc-calle-vegueta-terraza.webp
+  alt: 'Calle peatonal del casco antiguo de Las Palmas con una terraza'
 ---
 
 ## Qué vas a ver

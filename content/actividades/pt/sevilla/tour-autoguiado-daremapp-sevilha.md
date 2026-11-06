@@ -81,6 +81,8 @@ galeria:
   alt: 'Arcadas da Plaza de España com os seus bancos de azulejo'
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
   alt: 'App DaremApp com a rota autoguiada'
+- src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
+  alt: 'Praça de touros da Real Maestranza de Sevilha'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

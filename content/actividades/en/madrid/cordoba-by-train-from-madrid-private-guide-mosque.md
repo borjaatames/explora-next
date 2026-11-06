@@ -73,6 +73,10 @@ galeria:
   alt: 'Córdoba patio with flowerpots'
 - src: https://imgcdn.bokun.tools/e28cee7e-6f3e-4e91-b831-3e06f862d81b.jpg
   alt: 'Inside the Mosque-Cathedral'
+- src: /images/actividades/cordoba/alcazar/fvc-jardines-estanque-flores.webp
+  alt: 'Pond and flowers in the gardens of the Alcázar of the Christian Monarchs'
+- src: /images/actividades/cordoba/alcazar/fvc-paseo-cipreses-alcazar.webp
+  alt: 'Cypress walk in the Alcázar gardens'
 publicada: true
 indexar: false
 destacada: false

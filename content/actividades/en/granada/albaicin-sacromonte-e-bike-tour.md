@@ -76,13 +76,19 @@ imagen: /images/actividades/granada/albaicin/albaicin-pixabay-3098633.webp
 imagenAlt: The Alhambra and Sierra Nevada seen from the Albaicín
 galeria:
 - src: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp
-  alt: The Alhambra at sunset from the San Nicolás viewpoint
+  alt: 'The Alhambra at sunset from the San Nicolás viewpoint'
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
-  alt: Sacromonte cave houses
+  alt: 'Sacromonte cave houses'
 - src: /images/actividades/granada/albaicin/albaicin-pixabay-3107980.webp
-  alt: White houses of the Albaicín
+  alt: 'White houses of the Albaicín'
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: A street in the Albaicín
+  alt: 'A street in the Albaicín'
+- src: /images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp
+  alt: 'The Albaicín seen from the Alhambra gardens'
+- src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
+  alt: 'The Alhambra lit by the evening sun'
+- src: /images/actividades/granada/albaicin/albaicin-pexels-30359825.webp
+  alt: 'Aerial view of the rooftops of the Albaicín'
 ratingProveedor: 4.8
 numeroOpiniones: 1054
 publicada: true

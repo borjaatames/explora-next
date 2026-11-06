@@ -89,17 +89,19 @@ imagen: /images/actividades/fuerteventura/isla-lobos/ffv-barcas-laguna-isla-lobo
 imagenAlt: "Barcas en las aguas turquesas de la Isla de Lobos"
 galeria:
 - src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
-  alt: "Puerto de Corralejo, salida del ferri a Lobos"
+  alt: 'Puerto de Corralejo, salida del ferri a Lobos'
 - src: /images/actividades/fuerteventura/lobos/playa-la-concha-lobos.webp
-  alt: "Playa de La Concha en la Isla de Lobos"
+  alt: 'Playa de La Concha en la Isla de Lobos'
 - src: /images/actividades/fuerteventura/zonas/montana-caldera-lobos.webp
-  alt: "Montaña de La Caldera en la Isla de Lobos"
+  alt: 'Montaña de La Caldera en la Isla de Lobos'
 - src: /images/actividades/fuerteventura/isla-lobos/ffv-isla-lobos-desde-playa.webp
-  alt: "La Isla de Lobos vista desde una playa de Corralejo"
+  alt: 'La Isla de Lobos vista desde una playa de Corralejo'
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-1.webp
-  alt: "Horizonte de las Dunas de Corralejo"
+  alt: 'Horizonte de las Dunas de Corralejo'
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-6.webp
-  alt: "Arbusto en lo alto de una duna de Corralejo"
+  alt: 'Arbusto en lo alto de una duna de Corralejo'
+- src: /images/actividades/fuerteventura/isla-lobos/ffv-castillos-arena-lobos.webp
+  alt: 'Castillos de arena en la playa con la Isla de Lobos al fondo'
 ---
 
 ## Qué vas a ver

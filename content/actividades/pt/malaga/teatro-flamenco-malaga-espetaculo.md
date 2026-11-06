@@ -88,6 +88,10 @@ galeria:
   alt: 'Rua do centro de Málaga com a Peña Juan Breva'
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
   alt: 'Catedral de Málaga'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Guitarrista de flamenco a tocar em palco'
+- src: /images/actividades/cordoba/flamenco/guitarrista.webp
+  alt: 'Guitarrista de flamenco de chapéu a tocar ao vivo'
 ratingProveedor: 4.7
 numeroOpiniones: 5347
 publicada: true

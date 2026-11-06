@@ -80,17 +80,19 @@ imagen: /images/actividades/malaga/catedral-malaga/nave.webp
 imagenAlt: Nave central de la Catedral de Málaga
 galeria:
 - src: /images/actividades/malaga/catedral-malaga/fachada.webp
-  alt: Fachada barroca de la Catedral de Málaga
+  alt: 'Fachada barroca de la Catedral de Málaga'
 - src: /images/actividades/malaga/catedral-malaga/coro.webp
-  alt: Coro de madera tallada de la Catedral de Málaga
+  alt: 'Coro de madera tallada de la Catedral de Málaga'
 - src: /images/actividades/malaga/teatro-romano/teatro-alcazaba.webp
-  alt: Teatro Romano de Málaga con la Alcazaba al fondo
+  alt: 'Teatro Romano de Málaga con la Alcazaba al fondo'
 - src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
-  alt: Murallas de la Alcazaba de Málaga
+  alt: 'Murallas de la Alcazaba de Málaga'
 - src: /images/actividades/malaga/catedral-malaga/cupula.webp
-  alt: Cúpula de la Catedral de Málaga
+  alt: 'Cúpula de la Catedral de Málaga'
 - src: /images/actividades/malaga/alcazaba/vista-puerto.webp
-  alt: Vista del puerto de Málaga desde la Alcazaba
+  alt: 'Vista del puerto de Málaga desde la Alcazaba'
+- src: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
+  alt: 'Fachada principal de la catedral de Málaga'
 ratingProveedor: 4.6
 numeroOpiniones: 1134
 publicada: true

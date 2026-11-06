@@ -79,17 +79,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/8c5cc25d-5153-4b45-9330-4314df8ab2ef.jpeg
-  alt: Visitantes bajo los arcos de Medina Azahara
+  alt: 'Visitantes bajo los arcos de Medina Azahara'
 - src: /images/actividades/cordoba/medina-azahara/salon-rico.webp
-  alt: Arcos del Salón Rico de Medina Azahara
+  alt: 'Arcos del Salón Rico de Medina Azahara'
 - src: https://imgcdn.bokun.tools/9470a64f-b482-4567-9163-0e1dd9d026c3.jpeg
-  alt: Fachada decorada con arcos en Medina Azahara
+  alt: 'Fachada decorada con arcos en Medina Azahara'
 - src: /images/actividades/cordoba/medina-azahara/decoracion-ataurique.webp
-  alt: Decoración de ataurique en Medina Azahara
+  alt: 'Decoración de ataurique en Medina Azahara'
 - src: https://imgcdn.bokun.tools/be73da8c-5e58-4730-901e-8c4f669471ee.jpeg
-  alt: Gran arcada de ladrillo en Medina Azahara
+  alt: 'Gran arcada de ladrillo en Medina Azahara'
 - src: /images/actividades/cordoba/medina-azahara/vista-ruinas.webp
-  alt: Vista de las ruinas de Medina Azahara
+  alt: 'Vista de las ruinas de Medina Azahara'
+- src: /images/actividades/cordoba/medina-azahara/salon-abderraman.webp
+  alt: 'Salón de Abderramán III'
 bokunProductId: 937791
 fecha_actualizacion: '2026-10-24'
 privada: true

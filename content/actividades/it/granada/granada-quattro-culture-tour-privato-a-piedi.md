@@ -87,17 +87,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/f7536f42-96d4-4b7d-80b7-c65b5630fcd6.jpg
-  alt: L'Alhambra vista da una strada dell'Albaicín
+  alt: 'L''Alhambra vista da una strada dell''Albaicín'
 - src: https://imgcdn.bokun.tools/16c9e572-7fdf-4373-8f09-0ae90cbe822b.jpg
-  alt: Viaggiatori con Granada alle spalle
+  alt: 'Viaggiatori con Granada alle spalle'
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-16-jpg.webp
-  alt: Case-grotta imbiancate a calce nel Sacromonte
+  alt: 'Case-grotta imbiancate a calce nel Sacromonte'
 - src: https://imgcdn.bokun.tools/bfb2d3de-7fa1-480d-af0d-3849f6a986f1.jpg
-  alt: Coppia davanti all'Alhambra al tramonto
+  alt: 'Coppia davanti all''Alhambra al tramonto'
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
-  alt: La facciata principale della Cattedrale di Granada, opera di Alonso Cano
+  alt: 'La facciata principale della Cattedrale di Granada, opera di Alonso Cano'
 - src: https://imgcdn.bokun.tools/f661330d-1a47-46d8-96ff-5e0c374eba6b.jpg
-  alt: Tramonto su Granada da un belvedere
+  alt: 'Tramonto su Granada da un belvedere'
+- src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
+  alt: 'Case grotta sul pendio del Sacromonte, Granada'
 bokunProductId: 793773
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

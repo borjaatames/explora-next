@@ -87,17 +87,19 @@ imagen: /images/actividades/lanzarote/timanfaya-jameos.webp
 imagenAlt: Rötliche Vulkankegel der Feuerberge in Timanfaya
 galeria:
 - src: /images/actividades/lanzarote/zonas/jameos-piscina.webp
-  alt: Der weiße Pool in den Jameos del Agua
+  alt: 'Der weiße Pool in den Jameos del Agua'
 - src: /images/actividades/lanzarote/zonas/cueva-de-los-verdes-galeria.webp
-  alt: Beleuchteter Lavagang in der Cueva de los Verdes
+  alt: 'Beleuchteter Lavagang in der Cueva de los Verdes'
 - src: /images/actividades/lanzarote/zonas/timanfaya-carretera.webp
-  alt: Straße zu den Feuerbergen von Timanfaya
+  alt: 'Straße zu den Feuerbergen von Timanfaya'
 - src: /images/actividades/lanzarote/zonas/jameos-jardin.webp
-  alt: Garten und Pool in den Jameos del Agua, gestaltet von César Manrique
+  alt: 'Garten und Pool in den Jameos del Agua, gestaltet von César Manrique'
 - src: /images/actividades/lanzarote/zonas/valle-volcanico.webp
-  alt: Vulkantal mit farbigen Kegeln auf Lanzarote
+  alt: 'Vulkantal mit farbigen Kegeln auf Lanzarote'
 - src: /images/actividades/lanzarote/zonas/jameos-reflejo.webp
-  alt: Der Himmel spiegelt sich im See der Jameos del Agua
+  alt: 'Der Himmel spiegelt sich im See der Jameos del Agua'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'Die Südküste Lanzarotes bei den Papagayo-Stränden'
 ratingProveedor: 4.5
 numeroOpiniones: 2910
 atraccionesRelacionadas:

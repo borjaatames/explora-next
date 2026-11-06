@@ -94,6 +94,12 @@ galeria:
   alt: 'Orilla de una playa de Papagayo con acantilados al fondo'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
   alt: 'La playa de Playa Blanca, en el sur de Lanzarote'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'Costa sur de Lanzarote junto a las playas de Papagayo'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Acantilados de lava en Los Hervideros, con volcanes al fondo'
+- src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
+  alt: 'Barcos amarrados en la Marina Rubicón, en Playa Blanca'
 ratingProveedor: 4.7
 numeroOpiniones: 162
 atraccionesRelacionadas:

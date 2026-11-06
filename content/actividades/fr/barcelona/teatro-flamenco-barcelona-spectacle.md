@@ -84,6 +84,14 @@ galeria:
   alt: 'Guitare flamenca sur scène'
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-cathedral-spain-architecture-card.webp
   alt: 'Rue du quartier gothique'
+- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
+  alt: 'Danseuse de flamenco en robe rouge avec des guitaristes dans un tablao'
+- src: /images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp
+  alt: 'Danseuses de flamenco en robes rouges et noires sur scène'
+- src: /images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp
+  alt: 'Danseuse de flamenco au châle rouge, bras ouverts sur scène'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Guitariste de flamenco jouant sur scène'
 ratingProveedor: 4.7
 numeroOpiniones: 1274
 publicada: true

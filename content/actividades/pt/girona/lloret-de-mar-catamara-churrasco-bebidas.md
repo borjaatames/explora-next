@@ -102,6 +102,8 @@ galeria:
   alt: 'O Mediterrâneo ao nível da água junto à costa rochosa'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
   alt: 'Praia principal de Lloret de Mar com rochas em primeiro plano'
+- src: /images/actividades/girona/fgi-mar/fgi-esnorquel-desde-arriba.webp
+  alt: 'Pessoa a fazer snorkel em águas claras, vista de cima'
 avisoReserva: 'Atividade sazonal: as próximas datas disponíveis começam em maio de 2027.'
 ---
 

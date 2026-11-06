@@ -76,6 +76,10 @@ galeria:
   alt: 'Arcos de herradura de la sinagoga de Santa María la Blanca'
 - src: https://imgcdn.bokun.tools/97a04561-5745-40f0-959e-54e10f365ecf.jpg
   alt: 'El puente de Alcántara sobre el Tajo'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-spain-bridge-castle-fortress-hero.webp
+  alt: 'Panorámica de Toledo con el Alcázar'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero.webp
+  alt: 'Palacio Real de Aranjuez en Madrid, vista frontal con fachada arquitectónica clásica'
 publicada: true
 indexar: false
 destacada: false

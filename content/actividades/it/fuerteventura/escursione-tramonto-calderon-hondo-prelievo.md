@@ -80,17 +80,19 @@ imagen: /images/actividades/fuerteventura/calderon-hondo/ffv-atardecer-borde-cra
 imagenAlt: "Escursionista che guarda il tramonto dal bordo di un cratere vulcanico"
 galeria:
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-ladera.webp
-  alt: "Versante del Calderón Hondo sopra il campo di lava"
+  alt: 'Versante del Calderón Hondo sopra il campo di lava'
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-crater-calderon-hondo.webp
-  alt: "Cratere del Calderón Hondo con altri vulcani sullo sfondo"
+  alt: 'Cratere del Calderón Hondo con altri vulcani sullo sfondo'
 - src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
-  alt: "Vulcani nel nord di Fuerteventura"
+  alt: 'Vulcani nel nord di Fuerteventura'
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-interior-crater-calderon-hondo.webp
-  alt: "All'interno del cratere del Calderón Hondo"
+  alt: 'All''interno del cratere del Calderón Hondo'
 - src: /images/actividades/fuerteventura/dunas-corralejo/ffv-dunas-corralejo-4.webp
-  alt: "Luce del pomeriggio sulle Dune di Corralejo"
+  alt: 'Luce del pomeriggio sulle Dune di Corralejo'
 - src: /images/actividades/fuerteventura/zonas/cielo-estrellado-volcan.webp
-  alt: "Cielo stellato sopra un vulcano al calar della sera"
+  alt: 'Cielo stellato sopra un vulcano al calar della sera'
+- src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-paisaje.webp
+  alt: 'Paesaggio vulcanico dal Calderón Hondo'
 ---
 
 ## Cosa vedrai

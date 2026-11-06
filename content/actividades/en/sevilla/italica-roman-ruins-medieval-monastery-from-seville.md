@@ -107,15 +107,19 @@ imagen: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-01.webp
 imagenAlt: Roman amphitheatre of Itálica
 galeria:
 - src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-03.webp
-  alt: Galleries beneath the amphitheatre stands
+  alt: 'Galleries beneath the amphitheatre stands'
 - src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-06.webp
-  alt: Stands of the Itálica amphitheatre
+  alt: 'Stands of the Itálica amphitheatre'
 - src: /images/actividades/sevilla/wikimedia/sevilla-italica-anfiteatro-02.webp
-  alt: Roman passage in the amphitheatre
+  alt: 'Roman passage in the amphitheatre'
 - src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-mosaicos-rom-hero.webp
-  alt: Well-preserved Roman mosaic with decorative tesserae and motifs from a Seville noble house, featuring intricate tile patterns and classical designs.
+  alt: 'Well-preserved Roman mosaic with decorative tesserae and motifs from a Seville noble house, featuring intricate tile patterns and classical designs.'
 - src: /images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-monasterio-s-hero.webp
-  alt: Exterior facade of San Isidoro del Campo Monastery in Seville, displaying Mudéjar, Gothic and Baroque architectural elements from the 13th century with medieval portal
+  alt: 'Exterior facade of San Isidoro del Campo Monastery in Seville, displaying Mudéjar, Gothic and Baroque architectural elements from the 13th century with medieval portal'
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+  alt: 'Guadalquivir riverbank with the Torre del Oro in the distance'
+- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
+  alt: 'Torre del Oro and boats on the Guadalquivir'
 ratingProveedor: 4.5
 numeroOpiniones: 320
 publicada: true

@@ -90,6 +90,8 @@ galeria:
   alt: 'Tavolini all''aperto a Malasaña di notte'
 - src: /images/actividades/madrid/gran-via/gran-via-callao-noche.webp
   alt: 'Gran Vía e Callao illuminati di notte'
+- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
+  alt: 'Chitarrista di flamenco che suona sul palco'
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true

@@ -101,6 +101,8 @@ galeria:
   alt: 'Mit Pinien bewachsene Insel vor der Küste von Paguera'
 - src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
   alt: 'Fels im Meer, umgeben von türkisfarbenem Wasser'
+- src: /images/actividades/mallorca/barco-paguera/delfines-1.webp
+  alt: 'Eine Gruppe Delfine springt auf offener See'
 ---
 
 ## Was du siehst

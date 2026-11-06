@@ -86,17 +86,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/9ee4e903-e7e8-434d-9903-0d6560a65369.jpg
-  alt: Portada de la Catedral de Málaga entre naranjos
+  alt: 'Portada de la Catedral de Málaga entre naranjos'
 - src: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
-  alt: Arcos de estilo nazarí en un patio de la Alcazaba de Málaga
+  alt: 'Arcos de estilo nazarí en un patio de la Alcazaba de Málaga'
 - src: https://imgcdn.bokun.tools/6e1a77a9-9a34-41c2-870b-1a1fa2ad8ae2.jpg
-  alt: La torre de la Catedral sobre los tejados de Málaga al atardecer
+  alt: 'La torre de la Catedral sobre los tejados de Málaga al atardecer'
 - src: /images/actividades/malaga/alcazaba/vista-puerto.webp
-  alt: Vista del puerto de Málaga desde la Alcazaba
+  alt: 'Vista del puerto de Málaga desde la Alcazaba'
 - src: https://imgcdn.bokun.tools/7134f347-90b3-4b36-96d7-17386fa71d27.jpg
-  alt: Vista aérea del puerto de Málaga y La Farola
+  alt: 'Vista aérea del puerto de Málaga y La Farola'
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-02.webp
-  alt: Catedral de Málaga con su única torre
+  alt: 'Catedral de Málaga con su única torre'
+- src: /images/actividades/malaga/alcazaba/alcazaba-murallas.webp
+  alt: 'Murallas de la Alcazaba de Málaga'
 bokunProductId: 853250
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

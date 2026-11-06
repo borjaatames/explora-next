@@ -78,17 +78,19 @@ imagen: /images/actividades/tarragona/fre-coves-espluga/estalactitas-iluminadas.
 imagenAlt: "Illuminated stalactites in a cave (illustrative image)"
 galeria:
 - src: /images/actividades/tarragona/costa/puerto-cambrils.webp
-  alt: "Cambrils harbour, one of the pick-up points"
+  alt: 'Cambrils harbour, one of the pick-up points'
 - src: /images/actividades/tarragona/fre-coves-espluga/formaciones-roca-cueva.webp
-  alt: "Rock formations inside a cave (illustrative image)"
+  alt: 'Rock formations inside a cave (illustrative image)'
 - src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: "Prades mountains near l'Espluga de Francolí at sunset"
+  alt: 'Prades mountains near l''Espluga de Francolí at sunset'
 - src: /images/actividades/tarragona/fre-coves-espluga/conjunto-font-major-espluga.webp
-  alt: "Font Major complex, entrance to the l'Espluga de Francolí cave"
+  alt: 'Font Major complex, entrance to the l''Espluga de Francolí cave'
 - src: /images/actividades/tarragona/priorat/fta-vinedos-cornudella-montsant.webp
-  alt: "Vineyards and the Montsant range in inland Tarragona"
+  alt: 'Vineyards and the Montsant range in inland Tarragona'
 - src: /images/actividades/tarragona/fre-coves-espluga/cala-morisca-salou.webp
-  alt: "Cala Morisca on the Salou coast"
+  alt: 'Cala Morisca on the Salou coast'
+- src: /images/actividades/tarragona/costa/cap-salou.webp
+  alt: 'The sea off Cap de Salou'
 ---
 
 ## What you will see

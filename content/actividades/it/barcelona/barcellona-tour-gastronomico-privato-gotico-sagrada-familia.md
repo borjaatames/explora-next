@@ -77,6 +77,8 @@ galeria:
   alt: 'Cameriere che serve un vassoio di tapas'
 - src: https://imgcdn.bokun.tools/cd3b38c5-9f20-4a02-8d72-391b6e515d4c.jpg
   alt: 'Donna con tapas e un bicchiere di cava'
+- src: /images/actividades/barcelona/boqueria/mercat-boqueria-barcelona-2014-5-hero.webp
+  alt: 'Banco con prosciutti iberici e salumi al mercato della Boqueria'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

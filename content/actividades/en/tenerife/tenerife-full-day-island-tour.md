@@ -84,17 +84,19 @@ imagen: /images/actividades/tenerife/gigantes/ftc-los-gigantes-puerto-acantilado
 imagenAlt: "Aerial view of Los Gigantes, with its marina and cliffs"
 galeria:
 - src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
-  alt: "The Los Gigantes cliffs seen from the sea"
+  alt: 'The Los Gigantes cliffs seen from the sea'
 - src: /images/actividades/tenerife/icod/ftc-drago-milenario-visitantes.webp
-  alt: "The thousand-year-old dragon tree of Icod de los Vinos with visitors at its base"
+  alt: 'The thousand-year-old dragon tree of Icod de los Vinos with visitors at its base'
 - src: /images/actividades/tenerife/icod/ftc-icod-casa-balcon-canario.webp
-  alt: "Traditional house with a Canarian balcony in Icod de los Vinos"
+  alt: 'Traditional house with a Canarian balcony in Icod de los Vinos'
 - src: /images/actividades/tenerife/icod/ftc-drago-icod-palmera.webp
-  alt: "The Icod dragon tree beside a Canary palm"
+  alt: 'The Icod dragon tree beside a Canary palm'
 - src: /images/actividades/tenerife/orotava/valle-orotava.webp
-  alt: "The Orotava Valley sloping down to the north coast, where Puerto de la Cruz lies"
+  alt: 'The Orotava Valley sloping down to the north coast, where Puerto de la Cruz lies'
 - src: /images/actividades/tenerife/orotava/valle-plataneras.webp
-  alt: "Banana plantations and towns on Tenerife's north coast"
+  alt: 'Banana plantations and towns on Tenerife''s north coast'
+- src: /images/actividades/tenerife/icod/drago-milenario.webp
+  alt: 'The Drago Milenario in Icod de los Vinos'
 ---
 
 ## What you will see

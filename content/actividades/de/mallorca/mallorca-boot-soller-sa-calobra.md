@@ -77,17 +77,19 @@ imagen: /images/actividades/mallorca/soller/sa-calobra-costa.webp
 imagenAlt: Die Bucht Sa Calobra und Kalkklippen, Mallorca
 galeria:
 - src: /images/actividades/mallorca/soller/sa-calobra-torrent.webp
-  alt: Im Torrent de Pareis mit seinen 200 Meter hohen Wänden
+  alt: 'Im Torrent de Pareis mit seinen 200 Meter hohen Wänden'
 - src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
-  alt: Die Bucht von Port de Sóller, wo das Boot ablegt
+  alt: 'Die Bucht von Port de Sóller, wo das Boot ablegt'
 - src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
-  alt: Blick auf Port de Sóller mit dem Tramuntana-Gebirge
+  alt: 'Blick auf Port de Sóller mit dem Tramuntana-Gebirge'
 - src: /images/actividades/mallorca/soller/sa-calobra-aerea.webp
-  alt: Luftaufnahme der Mündung des Torrent de Pareis
+  alt: 'Luftaufnahme der Mündung des Torrent de Pareis'
 - src: /images/actividades/mallorca/soller/sa-calobra-sendero.webp
-  alt: Weg durch die Schlucht von Sa Calobra
+  alt: 'Weg durch die Schlucht von Sa Calobra'
 - src: /images/actividades/mallorca/soller/sa-calobra-barco.webp
-  alt: Ein Boot erreicht Sa Calobra
+  alt: 'Ein Boot erreicht Sa Calobra'
+- src: /images/actividades/mallorca/soller/tranvia-soller-calle.webp
+  alt: 'Straßenbahn von Sóller fährt durch eine Dorfstraße'
 ratingProveedor: 4.4
 numeroOpiniones: 1230
 atraccionesRelacionadas:

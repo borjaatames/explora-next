@@ -95,17 +95,19 @@ imagen: /images/actividades/gran-canaria/mogan-kayak/fgc-kayak-boca-cueva-marina
 imagenAlt: "Kayak en la boca de una cueva marina"
 galeria:
 - src: /images/actividades/gran-canaria/mogan/puerto-mogan.webp
-  alt: "Puerto de Mogán y su bahía"
+  alt: 'Puerto de Mogán y su bahía'
 - src: /images/actividades/gran-canaria/mogan-kayak/cueva-marina-mogan.webp
-  alt: "Cueva marina en los acantilados de Mogán"
+  alt: 'Cueva marina en los acantilados de Mogán'
 - src: /images/actividades/gran-canaria/mogan-kayak/kayaks-costa-rocosa-aerea.webp
-  alt: "Grupo de kayaks junto a la costa rocosa visto desde el aire"
+  alt: 'Grupo de kayaks junto a la costa rocosa visto desde el aire'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: "Acantilados volcánicos de Mogán vistos desde el mar"
+  alt: 'Acantilados volcánicos de Mogán vistos desde el mar'
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
-  alt: "Fondo rocoso bajo aguas cristalinas"
+  alt: 'Fondo rocoso bajo aguas cristalinas'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: "Peces sobre el fondo arenoso en aguas de Gran Canaria"
+  alt: 'Peces sobre el fondo arenoso en aguas de Gran Canaria'
+- src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
+  alt: 'Costa rocosa del suroeste de Gran Canaria'
 ---
 
 ## Qué vas a ver

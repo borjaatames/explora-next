@@ -87,17 +87,19 @@ imagen: /images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp
 imagenAlt: "Platz und Treppe von Mallona in der Altstadt von Bilbao"
 galeria:
 - src: /images/actividades/bilbao/casco-viejo/fbi-siete-calles-fachadas.webp
-  alt: "Straße in den Siete Calles von Bilbao mit bunten Fassaden"
+  alt: 'Straße in den Siete Calles von Bilbao mit bunten Fassaden'
 - src: /images/actividades/bilbao/casco-viejo/casco-viejo-calle.webp
-  alt: "Einkaufsstraße in der Altstadt von Bilbao"
+  alt: 'Einkaufsstraße in der Altstadt von Bilbao'
 - src: /images/actividades/bilbao/casco-viejo/mercado-ribera.webp
-  alt: "Markt La Ribera an der Ría von Bilbao"
+  alt: 'Markt La Ribera an der Ría von Bilbao'
 - src: /images/actividades/bilbao/casco-viejo/bilbao-artxanda.webp
-  alt: "Bilbao vom Berg Artxanda aus gesehen"
+  alt: 'Bilbao vom Berg Artxanda aus gesehen'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-iberdrola.webp
-  alt: "Das Guggenheim und der Iberdrola-Turm am Fluss in Bilbao"
+  alt: 'Das Guggenheim und der Iberdrola-Turm am Fluss in Bilbao'
 - src: /images/actividades/bilbao/pintxos/barra-bar-pintxos.webp
-  alt: "Bartheke mit ausgelegten Pintxos"
+  alt: 'Bartheke mit ausgelegten Pintxos'
+- src: /images/actividades/bilbao/casco-viejo/plaza-nueva.webp
+  alt: 'Plaza Nueva in der Altstadt von Bilbao'
 ---
 
 ## Was du siehst

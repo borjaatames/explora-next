@@ -91,17 +91,19 @@ imagen: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
 imagenAlt: "Cascada del Paseo de Canarias en Firgas"
 galeria:
 - src: /images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp
-  alt: "Bancos de azulejos en el Paseo de Gran Canaria de Firgas"
+  alt: 'Bancos de azulejos en el Paseo de Gran Canaria de Firgas'
 - src: /images/actividades/gran-canaria/norte/firgas-paseo-isla-azulejo-hero.webp
-  alt: "Relieve de una isla canaria en el paseo de azulejos de Firgas"
+  alt: 'Relieve de una isla canaria en el paseo de azulejos de Firgas'
 - src: /images/actividades/gran-canaria/norte/fgc-vegetacion-barranco-flores.webp
-  alt: "Vegetación en flor en un barranco de Gran Canaria"
+  alt: 'Vegetación en flor en un barranco de Gran Canaria'
 - src: /images/actividades/gran-canaria/platano/plataneras.webp
-  alt: "Plataneras en una finca del norte de Gran Canaria"
+  alt: 'Plataneras en una finca del norte de Gran Canaria'
 - src: /images/actividades/gran-canaria/norte/fgc-costa-norte-isleta.webp
-  alt: "La costa norte de Gran Canaria con La Isleta al fondo"
+  alt: 'La costa norte de Gran Canaria con La Isleta al fondo'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-piscina-natural-roca-aerea.webp
-  alt: "Piscina natural entre rocas volcánicas junto al océano"
+  alt: 'Piscina natural entre rocas volcánicas junto al océano'
+- src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
+  alt: 'Iglesia de San Juan Bautista de Arucas, cerca de la destilería'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en marzo de 2027.'
 ---
 

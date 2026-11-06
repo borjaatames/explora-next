@@ -88,6 +88,10 @@ galeria:
   alt: 'Rocky shore at Cap de Salou facing the Mediterranean'
 - src: /images/actividades/tarragona/quad/prades-atardecer.webp
   alt: 'Sunset over the Prades mountains'
+- src: /images/actividades/tarragona/costa/platja-llarga.webp
+  alt: 'Platja Llarga in Salou'
+- src: /images/actividades/tarragona/costa/punta-grossa.webp
+  alt: 'Punta Grossa viewpoint in Salou'
 ratingProveedor: 4.8
 numeroOpiniones: 1225
 atraccionesRelacionadas:

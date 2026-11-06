@@ -88,17 +88,19 @@ imagen: /images/actividades/tenerife/jungle-park/ftc-jungle-park-entrada-aguilas
 imagenAlt: Ingresso di Las Águilas Jungle Park, ad Arona, con due grandi sculture di aquile
 galeria:
 - src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-cabeciblanco.webp
-  alt: Grifone di Rüppell nel suo recinto al Jungle Park
+  alt: 'Grifone di Rüppell nel suo recinto al Jungle Park'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: Montaña de Guaza, nel comune di Arona
+  alt: 'Montaña de Guaza, nel comune di Arona'
 - src: /images/actividades/tenerife/jungle-park/ftc-jaguar-tronco.webp
-  alt: Giaguaro che cammina su un tronco
+  alt: 'Giaguaro che cammina su un tronco'
 - src: /images/actividades/tenerife/jungle-park/ftc-jungle-park-buitre-alas.webp
-  alt: Avvoltoio dalla testa bianca che apre le ali al Jungle Park
+  alt: 'Avvoltoio dalla testa bianca che apre le ali al Jungle Park'
 - src: /images/actividades/tenerife/jungle-park/ftc-lemur-cola-anillada.webp
-  alt: Lemure dalla coda ad anelli seduto su un ramo
+  alt: 'Lemure dalla coda ad anelli seduto su un ramo'
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
-  alt: Spiaggia di Los Cristianos, ad Arona
+  alt: 'Spiaggia di Los Cristianos, ad Arona'
+- src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
+  alt: 'La costa di Los Cristianos con l''Atlantico alle spalle, base dei catamarani a Tenerife'
 ---
 
 ## Cosa vedrai

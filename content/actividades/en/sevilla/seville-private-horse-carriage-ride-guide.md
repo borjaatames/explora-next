@@ -76,17 +76,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/sevilla/coche-caballos/coche-caballos-plaza-triunfo.webp
-  alt: Row of horse-drawn carriages waiting for visitors by Seville Cathedral
+  alt: 'Row of horse-drawn carriages waiting for visitors by Seville Cathedral'
 - src: /images/actividades/sevilla/coche-caballos/coche-caballos-plaza-espana.webp
-  alt: Horse-drawn carriage crossing Plaza de España in Seville with the tower behind
+  alt: 'Horse-drawn carriage crossing Plaza de España in Seville with the tower behind'
 - src: /images/actividades/sevilla/maestranza/maestranza-wikimedia-plaza-de-toros-de-la-maestranza-sevilla-03.webp
-  alt: Exterior of the Maestranza on Paseo de Colón
+  alt: 'Exterior of the Maestranza on Paseo de Colón'
 - src: https://imgcdn.bokun.tools/4cad080d-9957-497c-a7bb-37742d1d007a.jpg
-  alt: Horse-drawn carriage and driver in a Seville square
+  alt: 'Horse-drawn carriage and driver in a Seville square'
 - src: https://imgcdn.bokun.tools/4f352fe1-6ba8-4bdd-aa2c-50f91f0eb6b2.jpg
-  alt: Horse carriages at night in front of Plaza de España
+  alt: 'Horse carriages at night in front of Plaza de España'
 - src: https://imgcdn.bokun.tools/15ad9d61-78f7-4634-9472-69b04f2c5f97.jpg
-  alt: Horse carriage on a tree-lined avenue
+  alt: 'Horse carriage on a tree-lined avenue'
+- src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
+  alt: 'Maestranza bullring in Seville'
 bokunProductId: 933447
 fecha_actualizacion: '2026-10-24'
 privada: true

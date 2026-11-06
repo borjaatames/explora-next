@@ -91,6 +91,8 @@ galeria:
   alt: 'Bicicletas junto a la plaza del Ayuntamiento'
 - src: /images/actividades/valencia/bici-tour/bicis-calle-centro.webp
   alt: 'Bicicletas en una calle del centro de Valencia'
+- src: /images/actividades/valencia/turia/fvc-paseo-jardin-turia.webp
+  alt: 'Paseo arbolado en el jardín del Turia'
 ratingProveedor: 4.7
 numeroOpiniones: 2474
 publicada: true

@@ -94,6 +94,12 @@ galeria:
   alt: 'Shoreline of a Papagayo beach with cliffs behind'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
   alt: 'The beach at Playa Blanca, in southern Lanzarote'
+- src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
+  alt: 'Lanzarote''s south coast by the Papagayo beaches'
+- src: /images/actividades/lanzarote/zonas/los-hervideros.webp
+  alt: 'Los Hervideros, lava cliffs by the sea'
+- src: /images/actividades/lanzarote/zonas/marina-rubicon.webp
+  alt: 'Boats moored at Marina Rubicón, Playa Blanca'
 ratingProveedor: 4.7
 numeroOpiniones: 162
 atraccionesRelacionadas:

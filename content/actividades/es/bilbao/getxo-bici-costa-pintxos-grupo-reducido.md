@@ -82,17 +82,19 @@ imagen: /images/actividades/bilbao/ria/puente-bizkaia.webp
 imagenAlt: "Puente Bizkaia entre Getxo y Portugalete"
 galeria:
 - src: /images/actividades/bilbao/bici/fbi-bicis-clasicas-blancas.webp
-  alt: "Bicicletas clásicas preparadas para un paseo por la ciudad"
+  alt: 'Bicicletas clásicas preparadas para un paseo por la ciudad'
 - src: /images/actividades/bilbao/ria/fbi-puente-bizkaia-torre.webp
-  alt: "Torre y viga del Puente Bizkaia contra el cielo"
+  alt: 'Torre y viga del Puente Bizkaia contra el cielo'
 - src: /images/actividades/bilbao/ria/puente-bizkaia-barquilla.webp
-  alt: "Barquilla del Puente Bizkaia sobre la ría"
+  alt: 'Barquilla del Puente Bizkaia sobre la ría'
 - src: /images/actividades/bilbao/ria/fbi-puente-bizkaia-barquilla-atardecer.webp
-  alt: "Barquilla del Puente Bizkaia cruzando la ría al atardecer"
+  alt: 'Barquilla del Puente Bizkaia cruzando la ría al atardecer'
 - src: /images/actividades/bilbao/pintxos/fbi-pintxos-tabla-madera.webp
-  alt: "Pintxos sobre una tabla de madera en una barra vasca"
+  alt: 'Pintxos sobre una tabla de madera en una barra vasca'
 - src: /images/actividades/bilbao/gastronomia/copa-txakoli.webp
-  alt: "Copa de txakoli blanco"
+  alt: 'Copa de txakoli blanco'
+- src: /images/actividades/bilbao/ria/zubizuri.webp
+  alt: 'Puente Zubizuri sobre la ría'
 ---
 
 ## Qué vas a ver

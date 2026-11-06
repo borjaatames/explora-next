@@ -93,17 +93,19 @@ imagen: /images/actividades/alicante/fal-bici/fal-bicicletas-pasarela-playa.webp
 imagenAlt: "Bikes parked on a wooden boardwalk by the beach"
 galeria:
 - src: /images/actividades/alicante/costa/postiguet-paseo.webp
-  alt: "Seafront promenade by Postiguet beach"
+  alt: 'Seafront promenade by Postiguet beach'
 - src: /images/actividades/ibiza/formentera/fi1-ciclistas-camino-dunas.webp
-  alt: "Cyclists on a path through coastal scrub"
+  alt: 'Cyclists on a path through coastal scrub'
 - src: /images/actividades/alicante/costa/cabo-huertas-faro.webp
-  alt: "Cabo de las Huertas lighthouse on the Alicante coast"
+  alt: 'Cabo de las Huertas lighthouse on the Alicante coast'
 - src: /images/actividades/alicante/costa/cabo-huertas.webp
-  alt: "Rocks and coves at Cabo de las Huertas"
+  alt: 'Rocks and coves at Cabo de las Huertas'
 - src: /images/actividades/alicante/fal-bici/fal-ciclista-ciudad.webp
-  alt: "Cyclist out for a ride"
+  alt: 'Cyclist out for a ride'
 - src: /images/actividades/alicante/costa/cabo-huertas-atardecer.webp
-  alt: "Sunset on the rocky coast of Cabo de las Huertas"
+  alt: 'Sunset on the rocky coast of Cabo de las Huertas'
+- src: /images/actividades/alicante/costa/postiguet-castillo.webp
+  alt: 'Postiguet beach with Santa Bárbara Castle behind'
 ---
 
 ## What you will see

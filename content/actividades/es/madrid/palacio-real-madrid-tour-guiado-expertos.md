@@ -85,6 +85,10 @@ galeria:
   alt: 'Estatua ecuestre en la plaza de Oriente'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
   alt: 'El Palacio Real iluminado de noche'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp
+  alt: 'Palacio Real visto desde los jardines del Campo del Moro'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp
+  alt: 'Palacio Real desde la plaza de la Armería, con su galería de arcos'
 ratingProveedor: 4.7
 numeroOpiniones: 9610
 publicada: true

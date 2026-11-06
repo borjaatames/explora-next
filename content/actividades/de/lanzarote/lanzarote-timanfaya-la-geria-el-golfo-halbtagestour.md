@@ -88,17 +88,19 @@ imagen: /images/actividades/lanzarote/timanfaya/flz-volcan-nubes.webp
 imagenAlt: "Rötlicher Vulkan unter Wolken in Timanfaya"
 galeria:
 - src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
-  alt: "Landschaft im Nationalpark Timanfaya mit dem Meer im Hintergrund"
+  alt: 'Landschaft im Nationalpark Timanfaya mit dem Meer im Hintergrund'
 - src: /images/actividades/lanzarote/la-geria/flz-hoyos-ladera.webp
-  alt: "Rebmulden mit Steinmauern an einem Hang in La Geria"
+  alt: 'Rebmulden mit Steinmauern an einem Hang in La Geria'
 - src: /images/actividades/lanzarote/el-golfo/flz-caldera-panoramica.webp
-  alt: "Panoramablick auf den Krater von El Golfo am Ozean"
+  alt: 'Panoramablick auf den Krater von El Golfo am Ozean'
 - src: /images/actividades/lanzarote/el-golfo/flz-mirador-cuerda.webp
-  alt: "Aussichtspunkt über dem Charco de los Clicos in El Golfo"
+  alt: 'Aussichtspunkt über dem Charco de los Clicos in El Golfo'
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
-  alt: "Los Hervideros, Lavaklippen am Meer"
+  alt: 'Los Hervideros, Lavaklippen am Meer'
 - src: /images/actividades/lanzarote/la-geria/flz-hileras-hoyos.webp
-  alt: "Reihen von Rebmulden in La Geria von oben"
+  alt: 'Reihen von Rebmulden in La Geria von oben'
+- src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
+  alt: 'Erstarrter Lavastrom in Timanfaya'
 ---
 
 ## Was du siehst

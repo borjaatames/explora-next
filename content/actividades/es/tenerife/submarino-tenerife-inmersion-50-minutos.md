@@ -91,6 +91,10 @@ galeria:
   alt: 'Delfín en aguas del sur de Tenerife'
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: 'Costa volcánica del sur de Tenerife'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Calderón en aguas del sur de Tenerife'
+- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+  alt: 'Calderón tropical respirando en superficie'
 ratingProveedor: 4.8
 numeroOpiniones: 2670
 publicada: true

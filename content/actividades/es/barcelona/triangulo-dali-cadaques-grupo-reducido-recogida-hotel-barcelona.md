@@ -87,15 +87,19 @@ imagen: /images/actividades/girona/dali-figueres/teatro-museo-dali-fachada.webp
 imagenAlt: Fachada del Teatro-Museo Dalí de Figueres con sus figuras doradas
 galeria:
 - src: /images/actividades/girona/cadaques/cadaques-pueblo-blanco.webp
-  alt: Casas blancas de Cadaqués junto al mar
+  alt: 'Casas blancas de Cadaqués junto al mar'
 - src: /images/actividades/girona/dali-figueres/torres-huevos-museu-dali.webp
-  alt: Torres con huevos gigantes del Teatro-Museo Dalí
+  alt: 'Torres con huevos gigantes del Teatro-Museo Dalí'
 - src: /images/actividades/girona/cadaques/portlligat.webp
-  alt: Bahía de Portlligat con barcas y las casas blancas donde vivió Dalí
+  alt: 'Bahía de Portlligat con barcas y las casas blancas donde vivió Dalí'
 - src: /images/actividades/girona/dali-figueres/teatro-museo-dali-cupula.webp
-  alt: Cúpula geodésica del Teatro-Museo Dalí
+  alt: 'Cúpula geodésica del Teatro-Museo Dalí'
 - src: /images/actividades/girona/cadaques/cap-de-creus-costa.webp
-  alt: Costa rocosa del Cap de Creus, camino de Cadaqués
+  alt: 'Costa rocosa del Cap de Creus, camino de Cadaqués'
+- src: /images/actividades/girona/dali-figueres/teatro-museo-dali-huevos.webp
+  alt: 'Huevos gigantes sobre la cubierta del Teatro-Museo Dalí'
+- src: /images/actividades/girona/dali-figueres/teatro-museo-dali-cubierta.webp
+  alt: 'Esculturas y huevos en lo alto del Teatro-Museo Dalí'
 ratingProveedor: 4.8
 numeroOpiniones: 246
 publicada: true

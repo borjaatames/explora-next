@@ -82,17 +82,19 @@ imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-ria.webp
 imagenAlt: "Façade en titane du Guggenheim Bilbao au-dessus du bassin, au bord de la ría"
 galeria:
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-fachada-norte.webp
-  alt: "Façade nord du musée Guggenheim Bilbao et son atrium vitré"
+  alt: 'Façade nord du musée Guggenheim Bilbao et son atrium vitré'
 - src: /images/actividades/bilbao/guggenheim/guggenheim-fachada.webp
-  alt: "Façade en titane du musée Guggenheim Bilbao"
+  alt: 'Façade en titane du musée Guggenheim Bilbao'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-jardines.webp
-  alt: "Extérieur du musée Guggenheim Bilbao vu depuis les jardins"
+  alt: 'Extérieur du musée Guggenheim Bilbao vu depuis les jardins'
 - src: /images/actividades/bilbao/guggenheim/puppy.webp
-  alt: "Puppy, le chien fleuri devant le Guggenheim"
+  alt: 'Puppy, le chien fleuri devant le Guggenheim'
 - src: /images/actividades/bilbao/guggenheim/maman.webp
-  alt: "La sculpture Maman près du Guggenheim au crépuscule"
+  alt: 'La sculpture Maman près du Guggenheim au crépuscule'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-salve.webp
-  alt: "Le musée Guggenheim Bilbao au bord de la ría et le pont de La Salve"
+  alt: 'Le musée Guggenheim Bilbao au bord de la ría et le pont de La Salve'
+- src: /images/actividades/bilbao/guggenheim/maman-puente.webp
+  alt: 'Le Guggenheim et l''arche rouge du pont de La Salve'
 ---
 
 ## Ce que vous verrez

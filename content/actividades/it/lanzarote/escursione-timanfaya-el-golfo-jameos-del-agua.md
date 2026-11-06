@@ -91,17 +91,19 @@ imagen: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
 imagenAlt: "Paesaggio del Parco Nazionale di Timanfaya con il mare sullo sfondo"
 galeria:
 - src: /images/actividades/lanzarote/timanfaya/flz-colada-lava.webp
-  alt: "Colata di lava solidificata a Timanfaya"
+  alt: 'Colata di lava solidificata a Timanfaya'
 - src: /images/actividades/lanzarote/el-golfo/flz-charco-clicos.webp
-  alt: "Il Charco de los Clicos a El Golfo con la sua laguna verde"
+  alt: 'Il Charco de los Clicos a El Golfo con la sua laguna verde'
 - src: /images/actividades/lanzarote/el-golfo/flz-laguna-playa-negra.webp
-  alt: "Laguna verde e spiaggia di sabbia nera a El Golfo"
+  alt: 'Laguna verde e spiaggia di sabbia nera a El Golfo'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-turquesa.webp
-  alt: "Piscina turchese a Jameos del Agua"
+  alt: 'Piscina turchese a Jameos del Agua'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-lago-reflejo.webp
-  alt: "Il lago interno di Jameos del Agua che riflette il cielo"
+  alt: 'Il lago interno di Jameos del Agua che riflette il cielo'
 - src: /images/actividades/lanzarote/jameos-del-agua/flz-piscina-palmeras.webp
-  alt: "Piscina bianca e palme a Jameos del Agua"
+  alt: 'Piscina bianca e palme a Jameos del Agua'
+- src: /images/actividades/lanzarote/timanfaya/flz-montanas-colores.webp
+  alt: 'Montagne vulcaniche rosse e ocra a Timanfaya'
 ---
 
 ## Cosa vedrai

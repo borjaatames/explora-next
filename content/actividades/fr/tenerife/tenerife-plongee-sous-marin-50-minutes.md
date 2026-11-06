@@ -91,6 +91,10 @@ galeria:
   alt: 'Dauphin dans les eaux du sud de Tenerife'
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: 'Côte volcanique du sud de Tenerife'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Un cétacé soufflant en surface au large de Tenerife'
+- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+  alt: 'Un globicéphale remontant respirer en surface'
 ratingProveedor: 4.8
 numeroOpiniones: 2670
 publicada: true

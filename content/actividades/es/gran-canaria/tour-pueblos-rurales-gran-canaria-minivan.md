@@ -94,17 +94,19 @@ imagen: /images/actividades/gran-canaria/fataga/fgc-fataga-pueblo-palmeral.webp
 imagenAlt: "Fataga y su palmeral, en el valle de las Mil Palmeras"
 galeria:
 - src: /images/actividades/gran-canaria/fataga/fgc-casas-blancas-fataga.webp
-  alt: "Casas blancas de Fataga en la ladera del barranco"
+  alt: 'Casas blancas de Fataga en la ladera del barranco'
 - src: /images/actividades/gran-canaria/jeep/san-bartolome-tirajana.webp
-  alt: "Pueblo de San Bartolomé de Tirajana entre montañas"
+  alt: 'Pueblo de San Bartolomé de Tirajana entre montañas'
 - src: /images/actividades/gran-canaria/jeep/degollada-yeguas.webp
-  alt: "Mirador de la Degollada de las Yeguas"
+  alt: 'Mirador de la Degollada de las Yeguas'
 - src: /images/actividades/gran-canaria/tejeda/fgc-tejeda-casas-montanas.webp
-  alt: "Casas de Tejeda frente a las cumbres de Gran Canaria"
+  alt: 'Casas de Tejeda frente a las cumbres de Gran Canaria'
 - src: /images/actividades/gran-canaria/tejeda/fgc-flor-almendro-bentayga.webp
-  alt: "Flor de almendro con el Roque Bentayga al fondo"
+  alt: 'Flor de almendro con el Roque Bentayga al fondo'
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
-  alt: "Plataneras en la costa norte de Gran Canaria"
+  alt: 'Plataneras en la costa norte de Gran Canaria'
+- src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
+  alt: 'Palmeras canarias en el barranco de Fataga'
 ---
 
 ## Qué vas a ver

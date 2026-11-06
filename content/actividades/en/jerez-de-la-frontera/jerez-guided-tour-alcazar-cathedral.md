@@ -83,17 +83,19 @@ imagen: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-arqueolog
 imagenAlt: "Archaeological remains and wooden walkway inside the Alcazar of Jerez"
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-cupula.webp
-  alt: "Star-shaped skylights in the dome of the Arab baths at the Alcazar of Jerez"
+  alt: 'Star-shaped skylights in the dome of the Arab baths at the Alcazar of Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/alcazar-restos-noria.webp
-  alt: "Remains of old structures and the waterwheel at the Alcazar of Jerez"
+  alt: 'Remains of old structures and the waterwheel at the Alcazar of Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-cielo-azul.webp
-  alt: "Dome and balustrades of Jerez Cathedral"
+  alt: 'Dome and balustrades of Jerez Cathedral'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-campanario-hero.webp
-  alt: "Bell tower of Jerez Cathedral"
+  alt: 'Bell tower of Jerez Cathedral'
 - src: /images/actividades/jerez-de-la-frontera/centro/calle-larga-fachadas.webp
-  alt: "White and yellow facades with balconies on Calle Larga in Jerez"
+  alt: 'White and yellow facades with balconies on Calle Larga in Jerez'
 - src: /images/actividades/jerez-de-la-frontera/centro/esquina-iglesia-historica.webp
-  alt: "Corner of a historic church in Jerez old town"
+  alt: 'Corner of a historic church in Jerez old town'
+- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+  alt: 'Live musicians at a flamenco tablao in Jerez'
 ---
 
 ## What you will see

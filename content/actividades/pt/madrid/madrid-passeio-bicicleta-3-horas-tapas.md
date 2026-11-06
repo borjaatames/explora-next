@@ -91,6 +91,8 @@ galeria:
   alt: 'A Almudena e o Palácio Real ao pôr do sol'
 - src: /images/actividades/madrid/plaza-santa-ana/plaza-santa-ana-madrid-26159833570-hero.webp
   alt: 'Plaza de Santa Ana'
+- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
+  alt: 'O Palácio Real iluminado à noite'
 ratingProveedor: 4.8
 numeroOpiniones: 1936
 publicada: true

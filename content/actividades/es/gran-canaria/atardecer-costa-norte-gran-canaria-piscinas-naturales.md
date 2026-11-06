@@ -92,17 +92,19 @@ imagen: /images/actividades/gran-canaria/costa-norte/fgc-atardecer-atlantico-tei
 imagenAlt: "Atardecer sobre el Atlántico desde la costa norte de Gran Canaria, con el Teide en el horizonte"
 galeria:
 - src: /images/actividades/gran-canaria/costa-norte/fgc-piscina-natural-roca-aerea.webp
-  alt: "Vista aérea de una piscina natural entre rocas volcánicas junto al océano"
+  alt: 'Vista aérea de una piscina natural entre rocas volcánicas junto al océano'
 - src: /images/actividades/gran-canaria/norte/agaete-puerto-nieves-hero.webp
-  alt: "Puerto de las Nieves, en Agaete, en la costa noroeste de Gran Canaria"
+  alt: 'Puerto de las Nieves, en Agaete, en la costa noroeste de Gran Canaria'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-paseo-maritimo-acantilados-agaete.webp
-  alt: "Paseo junto al mar al pie de los acantilados de Agaete"
+  alt: 'Paseo junto al mar al pie de los acantilados de Agaete'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-playa-piedras-agaete.webp
-  alt: "Playa de callaos y casas blancas en Agaete"
+  alt: 'Playa de callaos y casas blancas en Agaete'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-oleaje-costa-norte-nubes.webp
-  alt: "Oleaje del Atlántico bajo un cielo de nubes en la costa norte de Gran Canaria"
+  alt: 'Oleaje del Atlántico bajo un cielo de nubes en la costa norte de Gran Canaria'
 - src: /images/actividades/gran-canaria/costa-norte/fgc-orilla-atardecer-norte.webp
-  alt: "Orilla de la costa norte de Gran Canaria al caer la tarde"
+  alt: 'Orilla de la costa norte de Gran Canaria al caer la tarde'
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
+  alt: 'Cascada del Paseo de Canarias en Firgas'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 

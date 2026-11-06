@@ -77,17 +77,19 @@ imagen: /images/actividades/mallorca/soller/sa-calobra-costa.webp
 imagenAlt: Scogliere di Sa Calobra viste dalla barca
 galeria:
 - src: /images/actividades/mallorca/soller/sa-calobra-torrent.webp
-  alt: Interno del Torrent de Pareis con le sue pareti di 200 metri
+  alt: 'Interno del Torrent de Pareis con le sue pareti di 200 metri'
 - src: /images/actividades/mallorca/soller/port-de-soller-bahia.webp
-  alt: La baia di Port de Sóller, da cui parte la barca
+  alt: 'La baia di Port de Sóller, da cui parte la barca'
 - src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
-  alt: Vista del porto di Sóller con le montagne della Tramuntana
+  alt: 'Vista del porto di Sóller con le montagne della Tramuntana'
 - src: /images/actividades/mallorca/soller/sa-calobra-aerea.webp
-  alt: Vista aerea della foce del Torrent de Pareis
+  alt: 'Vista aerea della foce del Torrent de Pareis'
 - src: /images/actividades/mallorca/soller/sa-calobra-sendero.webp
-  alt: Sentiero all'interno della gola di Sa Calobra
+  alt: 'Sentiero all''interno della gola di Sa Calobra'
 - src: /images/actividades/mallorca/soller/sa-calobra-barco.webp
-  alt: Barca in arrivo a Sa Calobra
+  alt: 'Barca in arrivo a Sa Calobra'
+- src: /images/actividades/mallorca/soller/tranvia-soller-calle.webp
+  alt: 'Il tram di Sóller che percorre una strada del paese'
 ratingProveedor: 4.4
 numeroOpiniones: 1230
 atraccionesRelacionadas:
