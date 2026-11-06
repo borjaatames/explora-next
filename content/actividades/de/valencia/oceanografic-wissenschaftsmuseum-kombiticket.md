@@ -75,33 +75,31 @@ keywords:
 - oceanografic wissenschaftsmuseum kombiticket
 - stadt der künste und wissenschaften tickets
 - wissenschaftsmuseum valencia eintritt
-imagen: /images/actividades/valencia/oceanografic/oceanografic-tunel-tiburones.webp
-imagenAlt: Besucher im Unterwassertunnel des Oceanogràfic in Valencia
+imagen: /images/actividades/valencia/museo-ciencias/museo-ciencias-atardecer.webp
+imagenAlt: 'Das Museu de les Ciències Príncep Felip bei Sonnenuntergang'
 galeria:
 - src: /images/actividades/valencia/oceanografic/oceanografic-beluga.webp
-  alt: Ein Beluga schwimmt in seinem Becken im Oceanogràfic
-- src: /images/actividades/valencia/museo-ciencias/museo-ciencias-atardecer.webp
-  alt: Das Museu de les Ciències Príncep Felip bei Sonnenuntergang
+  alt: 'Ein Beluga schwimmt in seinem Becken im Oceanogràfic'
 - src: /images/actividades/valencia/oceanografic/oceanografic-tiburon.webp
-  alt: Sandtigerhai im Ozean-Aquarium des Oceanogràfic
+  alt: 'Sandtigerhai im Ozean-Aquarium des Oceanogràfic'
 - src: /images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp
-  alt: Architektur des Oceanogràfic in der Stadt der Künste in Valencia
+  alt: 'Architektur des Oceanogràfic in der Stadt der Künste in Valencia'
 - src: /images/actividades/valencia/oceanografic/oceanografic-leon-marino.webp
-  alt: Seelöwe auf einem Felsen im Oceanogràfic
+  alt: 'Seelöwe auf einem Felsen im Oceanogràfic'
 - src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp
-  alt: Außenansicht der Stadt der Künste und Wissenschaften in Valencia
+  alt: 'Außenansicht der Stadt der Künste und Wissenschaften in Valencia'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-interior-sala.webp
-  alt: Große Innenhalle des Wissenschaftsmuseums mit Ausstellungen
+  alt: 'Große Innenhalle des Wissenschaftsmuseums mit Ausstellungen'
 - src: /images/actividades/valencia/museo-ciencias/hemisferic-dia.webp
-  alt: Das Hemisfèric spiegelt sich im Wasser
+  alt: 'Das Hemisfèric spiegelt sich im Wasser'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-adn.webp
-  alt: Großes DNA-Modell im Inneren des Wissenschaftsmuseums
+  alt: 'Großes DNA-Modell im Inneren des Wissenschaftsmuseums'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp
-  alt: Weiße Struktur des Wissenschaftsmuseums
+  alt: 'Weiße Struktur des Wissenschaftsmuseums'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-noche.webp
-  alt: Das Wissenschaftsmuseum nachts beleuchtet
+  alt: 'Das Wissenschaftsmuseum nachts beleuchtet'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-rotulo.webp
-  alt: Fassade des Museu de les Ciències mit Schriftzug
+  alt: 'Fassade des Museu de les Ciències mit Schriftzug'
 ratingProveedor: 4.7
 numeroOpiniones: 2797
 atraccionesRelacionadas:

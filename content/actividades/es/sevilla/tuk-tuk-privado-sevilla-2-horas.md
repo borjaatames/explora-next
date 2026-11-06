@@ -83,25 +83,27 @@ keywords:
 - tour tuk tuk sevilla
 - tour privado sevilla
 - sevilla en tuk tuk
-imagen: https://imgcdn.bokun.tools/0ad6f0ff-d878-4b4b-ba5e-3d5fad09d269.png
-imagenAlt: Familia paseando en tuk tuk eléctrico por Sevilla
+imagen: /images/actividades/sevilla/fotos-biblioteca/06.webp
+imagenAlt: 'Galería del Grutesco en el Real Alcázar de Sevilla'
 galeria:
+- src: https://imgcdn.bokun.tools/0ad6f0ff-d878-4b4b-ba5e-3d5fad09d269.png
+  alt: 'Familia paseando en tuk tuk eléctrico por Sevilla'
 - src: https://imgcdn.bokun.tools/1a40ce30-6ccc-4bdf-8bfe-bef06754265b.jpeg
-  alt: Tuk tuk frente a la Basílica de la Macarena
+  alt: 'Tuk tuk frente a la Basílica de la Macarena'
 - src: https://imgcdn.bokun.tools/fd805ff9-dc13-4512-9134-7aba2cd79026.png
-  alt: Tuk tuk eléctrico frente al Palacio de San Telmo
+  alt: 'Tuk tuk eléctrico frente al Palacio de San Telmo'
 - src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-  alt: Puente de Triana sobre el Guadalquivir
+  alt: 'Puente de Triana sobre el Guadalquivir'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
-  alt: Plaza de España iluminada de noche
+  alt: 'Plaza de España iluminada de noche'
 - src: https://imgcdn.bokun.tools/132aa0f1-236e-44f3-9f49-dcb9afc6cd23.png
-  alt: Puerta principal de la Maestranza
+  alt: 'Puerta principal de la Maestranza'
 - src: https://imgcdn.bokun.tools/fa3608dd-4894-4077-8d27-446b7001fb40.jpeg
-  alt: Torre del Oro entre palmeras
+  alt: 'Torre del Oro entre palmeras'
 - src: /images/actividades/sevilla/macarena/basilica-macarena-sevilla-exterior-20180719-hero.webp
-  alt: Basílica de la Macarena
+  alt: 'Basílica de la Macarena'
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp
-  alt: Paseo arbolado del Parque de María Luisa
+  alt: 'Paseo arbolado del Parque de María Luisa'
 publicada: true
 indexar: false
 destacada: false

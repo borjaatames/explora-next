@@ -60,9 +60,11 @@ categoria: visitasGuiadas
 keywords:
 - visite privée palais royal madrid
 - guide francophone madrid
-imagen: https://imgcdn.bokun.tools/948fb163-8c4f-4728-bc34-af651e381ae1.jpg
+imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
 imagenAlt: 'Façade du Palais royal de Madrid'
 galeria:
+- src: https://imgcdn.bokun.tools/948fb163-8c4f-4728-bc34-af651e381ae1.jpg
+  alt: 'Façade du Palais royal de Madrid'
 - src: https://imgcdn.bokun.tools/bc1721a2-31b5-4f27-abc9-b65ddfb42823.jpg
   alt: 'La cathédrale de l''Almudena au coucher du soleil'
 publicada: true

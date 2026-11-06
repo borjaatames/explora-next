@@ -63,21 +63,23 @@ keywords:
 - pueblos blancos desde cordoba
 - excursion privada pueblos cordoba
 - subbetica cordobesa excursion
-imagen: https://imgcdn.bokun.tools/80976611-1a60-47e2-a001-ea380b62dfe9.jpg
-imagenAlt: Calle encalada de un pueblo blanco de Córdoba
+imagen: /images/actividades/cadiz/pueblos/grazalema-plaza.webp
+imagenAlt: 'Pueblo blanco andaluz'
 galeria:
+- src: https://imgcdn.bokun.tools/80976611-1a60-47e2-a001-ea380b62dfe9.jpg
+  alt: 'Calle encalada de un pueblo blanco de Córdoba'
 - src: https://imgcdn.bokun.tools/a29afb3a-ac35-4c74-90a0-66f9b257ffd2.jpg
-  alt: Pueblo blanco con su torre entre olivares
+  alt: 'Pueblo blanco con su torre entre olivares'
 - src: https://imgcdn.bokun.tools/d49478dc-d372-4fee-8295-289ea594f3f3.jpg
-  alt: Patio con macetas en un pueblo blanco
+  alt: 'Patio con macetas en un pueblo blanco'
 - src: https://imgcdn.bokun.tools/50f4b467-43a9-4155-83ec-7a167deb794c.jpg
-  alt: Rincón con flores en una fachada blanca
+  alt: 'Rincón con flores en una fachada blanca'
 - src: https://imgcdn.bokun.tools/b210a65a-6fef-419b-a34a-e3d5726dc56e.jpg
-  alt: Calle típica con macetas
+  alt: 'Calle típica con macetas'
 - src: https://imgcdn.bokun.tools/ac09f49d-bd7d-4e68-9037-c831ed6f2f2c.jpg
-  alt: Mirador sobre la campiña cordobesa
+  alt: 'Mirador sobre la campiña cordobesa'
 - src: https://imgcdn.bokun.tools/d4446f5d-1bfb-46d3-a401-579ad942503c.jpg
-  alt: Viajera en una calle de un pueblo blanco
+  alt: 'Viajera en una calle de un pueblo blanco'
 publicada: true
 indexar: false
 destacada: false

@@ -71,23 +71,21 @@ keywords:
 - visite gastronomique corralejo
 - visite à pied corralejo
 - gastronomie fuerteventura
-imagen: /images/actividades/fuerteventura/corralejo-walking.webp
-imagenAlt: Une rue de la vieille ville de Corralejo au bord de la mer
+imagen: /images/actividades/fuerteventura/corralejo/corralejo-calle-de-la-iglesia.webp
+imagenAlt: 'Calle de la Iglesia, la rue piétonne de la vieille ville de Corralejo'
 galeria:
-- src: /images/actividades/fuerteventura/corralejo/corralejo-calle-de-la-iglesia.webp
-  alt: Calle de la Iglesia, la rue piétonne de la vieille ville de Corralejo
 - src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
-  alt: Bateaux dans le port de Corralejo
+  alt: 'Bateaux dans le port de Corralejo'
 - src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Papas arrugadas au mojo vert, un plat typique des Canaries
+  alt: 'Papas arrugadas au mojo vert, un plat typique des Canaries'
 - src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
-  alt: Bateaux d'excursion dans le port de Corralejo
+  alt: 'Bateaux d''excursion dans le port de Corralejo'
 - src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Chèvre majorera, la race locale dont le lait sert à faire le fromage majorero
+  alt: 'Chèvre majorera, la race locale dont le lait sert à faire le fromage majorero'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos.webp
-  alt: L'île de Lobos vue depuis la côte de Fuerteventura
+  alt: 'L''île de Lobos vue depuis la côte de Fuerteventura'
 - src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
-  alt: Promenade sur les dunes blanches de Corralejo
+  alt: 'Promenade sur les dunes blanches de Corralejo'
 ratingProveedor: 4.9
 numeroOpiniones: 515
 atraccionesRelacionadas:

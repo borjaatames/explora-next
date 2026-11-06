@@ -63,19 +63,21 @@ keywords:
 - private walking tour seville
 - private guide seville
 - seville old town private tour
-imagen: https://imgcdn.bokun.tools/12611639-ad8d-4d74-be30-b71854b01152.jpeg
-imagenAlt: Plaza de España in Seville
+imagen: /images/actividades/sevilla/archivo-indias/archivo-indias-wikimedia-sevilla-archivo-general-de-indias-k01-jp-02.webp
+imagenAlt: 'Archive of the Indies in Seville''s old town'
 galeria:
+- src: https://imgcdn.bokun.tools/12611639-ad8d-4d74-be30-b71854b01152.jpeg
+  alt: 'Plaza de España in Seville'
 - src: https://imgcdn.bokun.tools/468a892f-290c-4cd3-ab2a-0b6298206b43.jpeg
-  alt: Walking with the guide in Seville
+  alt: 'Walking with the guide in Seville'
 - src: https://imgcdn.bokun.tools/439e9b45-75a5-414a-8ec8-71272720549f.jpeg
-  alt: Detail of Seville’s historic centre
+  alt: 'Detail of Seville’s historic centre'
 - src: https://imgcdn.bokun.tools/56c1ecc8-992f-45e3-8e96-d8fccc6bd4e8.jpeg
-  alt: Seville during the tour (provider photo)
+  alt: 'Seville during the tour (provider photo)'
 - src: https://imgcdn.bokun.tools/0e7c5ef1-5001-44fc-8a88-77d2647ded5f.jpeg
-  alt: Seville during the tour (provider photo)
+  alt: 'Seville during the tour (provider photo)'
 - src: https://imgcdn.bokun.tools/33343e87-1674-45e4-bda4-9d3ed0eed3d9.jpeg
-  alt: Seville during the tour (provider photo)
+  alt: 'Seville during the tour (provider photo)'
 publicada: true
 indexar: false
 destacada: false

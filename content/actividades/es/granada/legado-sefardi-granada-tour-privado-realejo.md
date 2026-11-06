@@ -69,27 +69,27 @@ keywords:
 - juderia granada realejo
 - tour privado realejo granada
 - cuarto real de santo domingo visita
-imagen: /images/actividades/granada/realejo/cuarto-real-qubba.webp
-imagenAlt: Interior de la qubba del Cuarto Real de Santo Domingo con yeserías y celosías nazaríes
+imagen: /images/actividades/granada/realejo/realejo-callejon.webp
+imagenAlt: 'Callejón estrecho del Realejo con casas blancas y farola'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/granada/realejo/cuarto-real-exterior.webp
-  alt: Fachada exterior del Cuarto Real de Santo Domingo en el Realejo
+  alt: 'Fachada exterior del Cuarto Real de Santo Domingo en el Realejo'
 - src: /images/actividades/granada/proveedor-938167/prov-cuarto-real.webp
-  alt: Ventanas del salón del Cuarto Real de Santo Domingo
+  alt: 'Ventanas del salón del Cuarto Real de Santo Domingo'
 - src: /images/actividades/granada/realejo/realejo-calle-cuesta.webp
-  alt: Calle empedrada en cuesta del barrio del Realejo
-- src: /images/actividades/granada/realejo/realejo-callejon.webp
-  alt: Callejón estrecho del Realejo con casas blancas y farola
+  alt: 'Calle empedrada en cuesta del barrio del Realejo'
+- src: /images/actividades/granada/realejo/cuarto-real-qubba.webp
+  alt: 'Interior de la qubba del Cuarto Real de Santo Domingo con yeserías y celosías nazaríes'
 - src: https://imgcdn.bokun.tools/afb42eb8-c9e0-4c0b-9db0-623ca84cee4a.jpeg
-  alt: Portada nazarí con arco de herradura en el centro de Granada
+  alt: 'Portada nazarí con arco de herradura en el centro de Granada'
 - src: https://imgcdn.bokun.tools/69019e98-05a6-47bc-85c6-bf94abbfbd4b.jpeg
-  alt: Puerta de muralla con arco en Granada
+  alt: 'Puerta de muralla con arco en Granada'
 - src: https://imgcdn.bokun.tools/0528b33e-7d90-422e-8c4b-d13bf7d9b245.jpeg
-  alt: Calle estrecha con faroles en el centro de Granada
+  alt: 'Calle estrecha con faroles en el centro de Granada'
 bokunProductId: 938167
 fecha_actualizacion: '2026-10-24'
 privada: true

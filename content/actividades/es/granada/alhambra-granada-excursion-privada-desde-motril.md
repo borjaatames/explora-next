@@ -63,21 +63,23 @@ keywords:
 - alhambra desde motril
 - excursion granada desde motril
 - alhambra crucero motril
-imagen: https://imgcdn.bokun.tools/cf40ebd8-9fd8-4e3a-b644-cb6e0e3eea77.jpg
-imagenAlt: El Partal de la Alhambra reflejado en el estanque
+imagen: /images/actividades/granada/alhambra/alhambra-granada-explore-historic-fortress-lush-hero.webp
+imagenAlt: 'Panorámica de la Alhambra'
 galeria:
+- src: https://imgcdn.bokun.tools/cf40ebd8-9fd8-4e3a-b644-cb6e0e3eea77.jpg
+  alt: 'El Partal de la Alhambra reflejado en el estanque'
 - src: https://imgcdn.bokun.tools/6176c430-c331-4d81-b6fb-f3422eeb52a5.jpg
-  alt: Fuentes de los jardines del Generalife
+  alt: 'Fuentes de los jardines del Generalife'
 - src: https://imgcdn.bokun.tools/c40d8c27-45bd-41fd-9f52-43af49af8946.jpg
-  alt: Arco nazarí con vistas a Granada
+  alt: 'Arco nazarí con vistas a Granada'
 - src: https://imgcdn.bokun.tools/73925e34-42f1-4364-9c25-6851968bc922.jpg
-  alt: Viajeros durante la visita a la Alhambra
+  alt: 'Viajeros durante la visita a la Alhambra'
 - src: https://imgcdn.bokun.tools/225d25c1-63b9-4484-9744-2400b2a40f8c.jpg
-  alt: Grupo en los jardines del Partal
+  alt: 'Grupo en los jardines del Partal'
 - src: https://imgcdn.bokun.tools/a45b3b36-cc8c-46b5-9bb4-f908d4397961.jpg
-  alt: Cañones en la Alcazaba
+  alt: 'Cañones en la Alcazaba'
 - src: https://imgcdn.bokun.tools/4463ffe8-036c-4d82-8bdd-d6b19c0110aa.jpg
-  alt: Celosía nazarí en los Palacios
+  alt: 'Celosía nazarí en los Palacios'
 publicada: true
 indexar: false
 destacada: false

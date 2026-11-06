@@ -55,19 +55,21 @@ categoria: toursGastronomicos
 keywords:
 - visite tapas barcelone guide prive
 - tapas barcelone en francais
-imagen: https://imgcdn.bokun.tools/182ec065-9b2d-41ec-af6b-98d288742b79.jpg
-imagenAlt: "Pintxos variés sur le comptoir d’un bar"
+imagen: /images/actividades/barcelona/proveedor-1229823/prov-tapas-mesa.webp
+imagenAlt: 'Groupe partageant des tapas'
 galeria:
+- src: https://imgcdn.bokun.tools/182ec065-9b2d-41ec-af6b-98d288742b79.jpg
+  alt: 'Pintxos variés sur le comptoir d’un bar'
 - src: https://imgcdn.bokun.tools/2d24459a-c3ec-4e48-bd3b-fa9ac991660e.jpg
-  alt: "Shots colorés sur le comptoir d’un bar"
+  alt: 'Shots colorés sur le comptoir d’un bar'
 - src: https://imgcdn.bokun.tools/8d4f2ca0-6c94-44f3-aa44-2fa856d061f9.jpg
-  alt: "Apéritif à bord : olives, sandwichs et fruits"
+  alt: 'Apéritif à bord : olives, sandwichs et fruits'
 - src: https://imgcdn.bokun.tools/ec44a72f-67ad-4dde-82bd-ea77ca65ac3b.jpg
-  alt: "Vermouth avec olives et orange"
+  alt: 'Vermouth avec olives et orange'
 - src: https://imgcdn.bokun.tools/20466b29-cd3a-48da-a261-f5d05e1a90fd.jpg
-  alt: "Tapas au jambon et un verre de bière"
+  alt: 'Tapas au jambon et un verre de bière'
 - src: https://imgcdn.bokun.tools/2ec8c2a3-305d-483e-8efe-612a9b02e6f7.jpg
-  alt: "Table de tapas variées et bière"
+  alt: 'Table de tapas variées et bière'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

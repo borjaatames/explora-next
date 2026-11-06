@@ -87,23 +87,25 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
-imagenAlt: "Proa de um catamarã sobre água clara"
+imagen: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
+imagenAlt: 'Barcos ao largo da costa de Gran Canaria'
 galeria:
+- src: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
+  alt: 'Proa de um catamarã sobre água clara'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: "O porto de Puerto Rico de Gran Canaria, ponto de partida"
+  alt: 'O porto de Puerto Rico de Gran Canaria, ponto de partida'
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
-  alt: "Costa rochosa do sudoeste de Gran Canária"
+  alt: 'Costa rochosa do sudoeste de Gran Canária'
 - src: /images/actividades/gran-canaria/catamaran/fgc-catamaran-fondeado-aguas-turquesa.webp
-  alt: "Catamarã fundeado em águas turquesa"
+  alt: 'Catamarã fundeado em águas turquesa'
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
-  alt: "Fundo rochoso sob águas cristalinas, ideal para snorkel"
+  alt: 'Fundo rochoso sob águas cristalinas, ideal para snorkel'
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
-  alt: "Falésias e casas da costa de Mogán vistas do mar"
+  alt: 'Falésias e casas da costa de Mogán vistas do mar'
 - src: /images/actividades/gran-canaria/catamaran/fgc-catamaranes-fondeados-orilla.webp
-  alt: "Catamarãs fundeados em águas turquesa perto da costa, vistos do ar"
+  alt: 'Catamarãs fundeados em águas turquesa perto da costa, vistos do ar'
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
-  alt: "Veleiros atracados numa marina"
+  alt: 'Veleiros atracados numa marina'
 avisoReserva: "A tripulação ou o guia fala inglês, espanhol, alemão e francês: não há explicações em português."
 ---
 

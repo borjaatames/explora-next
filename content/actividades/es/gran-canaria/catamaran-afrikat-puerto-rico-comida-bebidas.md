@@ -90,21 +90,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/catamaran/fgc-catamaranes-fondeados-orilla.webp
-imagenAlt: "Catamaranes fondeados en aguas turquesa cerca de la orilla, vistos desde el aire"
+imagen: /images/actividades/gran-canaria/fotos-biblioteca/pexels-9091399.webp
+imagenAlt: 'Barcos frente a los acantilados de Gran Canaria'
 galeria:
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: "Puerto deportivo de Puerto Rico de Gran Canaria"
+  alt: 'Puerto deportivo de Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
-  alt: "Barcos fondeados frente a acantilados volcánicos"
+  alt: 'Barcos fondeados frente a acantilados volcánicos'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: "Acantilados volcánicos de la costa suroeste vistos desde el mar"
+  alt: 'Acantilados volcánicos de la costa suroeste vistos desde el mar'
 - src: /images/actividades/gran-canaria/catamaran/fgc-esnorquel-fondo-rocoso.webp
-  alt: "Esnórquel sobre un fondo de rocas en aguas claras"
+  alt: 'Esnórquel sobre un fondo de rocas en aguas claras'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: "Peces sobre el fondo arenoso en aguas de Gran Canaria"
+  alt: 'Peces sobre el fondo arenoso en aguas de Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: "Bahía y playa de Puerto Rico de Gran Canaria"
+  alt: 'Bahía y playa de Puerto Rico de Gran Canaria'
 ---
 
 ## Qué vas a ver

@@ -60,9 +60,11 @@ atraccionesRelacionadas:
 categoria: excursionesDia
 keywords:
 - cordoba day trip from madrid by train private guide
-imagen: https://imgcdn.bokun.tools/594c13a5-8dc6-4b0b-91b0-163c5f35c35c.jpg
-imagenAlt: 'Visitors with the guide among the arches of the Mosque of Córdoba'
+imagen: /images/actividades/cordoba/alcazar/fvc-jardines-torres-alcazar.webp
+imagenAlt: 'Alcázar de los Reyes Cristianos in Córdoba'
 galeria:
+- src: https://imgcdn.bokun.tools/594c13a5-8dc6-4b0b-91b0-163c5f35c35c.jpg
+  alt: 'Visitors with the guide among the arches of the Mosque of Córdoba'
 - src: https://imgcdn.bokun.tools/c4d1b376-b734-4779-b9fd-cbdfcd136d8a.jpg
   alt: 'Two-tone arches of the Mosque-Cathedral'
 - src: https://imgcdn.bokun.tools/3bdb809e-1309-46db-8997-949393786474.jpg

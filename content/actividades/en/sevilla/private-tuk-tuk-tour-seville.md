@@ -80,29 +80,31 @@ keywords:
 - seville tuk tuk tour
 - seville with kids tour
 - private tour seville
-imagen: https://imgcdn.bokun.tools/ce015720-77e2-4220-b11d-9288116b99bc.png
-imagenAlt: Electric tuk tuk with passengers outside the San Telmo Palace
+imagen: /images/actividades/sevilla/bici/plaza-espana-canal.webp
+imagenAlt: 'Plaza de España in Seville'
 galeria:
+- src: https://imgcdn.bokun.tools/ce015720-77e2-4220-b11d-9288116b99bc.png
+  alt: 'Electric tuk tuk with passengers outside the San Telmo Palace'
 - src: https://imgcdn.bokun.tools/8a40af56-7065-4c8c-be9d-7f9f300d3d8d.jpeg
-  alt: Central building of the Plaza de España
+  alt: 'Central building of the Plaza de España'
 - src: https://imgcdn.bokun.tools/8dc4383a-6294-4723-9a2f-948d4fd71529.jpeg
-  alt: Main gate of the Maestranza bullring
+  alt: 'Main gate of the Maestranza bullring'
 - src: https://imgcdn.bokun.tools/7e95727a-e074-44fc-a806-5d89ceb2df63.jpeg
-  alt: Torre del Oro among palm trees
+  alt: 'Torre del Oro among palm trees'
 - src: https://imgcdn.bokun.tools/1c608d5a-4f0d-4dfb-9f7c-658afd5b50a3.jpeg
-  alt: Electric tuk tuk by the Guadalquivir
+  alt: 'Electric tuk tuk by the Guadalquivir'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
-  alt: Plaza de España lit up at night
+  alt: 'Plaza de España lit up at night'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
-  alt: Wide view of Seville's Plaza de España
+  alt: 'Wide view of Seville''s Plaza de España'
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp
-  alt: Torre del Oro beside the Guadalquivir canal
+  alt: 'Torre del Oro beside the Guadalquivir canal'
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp
-  alt: Tree-lined path in María Luisa Park
+  alt: 'Tree-lined path in María Luisa Park'
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa-estanque.webp
-  alt: Pond with plants in María Luisa Park
+  alt: 'Pond with plants in María Luisa Park'
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
-  alt: Maestranza bullring in Seville
+  alt: 'Maestranza bullring in Seville'
 publicada: true
 indexar: false
 destacada: false

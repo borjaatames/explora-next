@@ -85,23 +85,23 @@ keywords:
 - bootsausflug puerto colón
 - öko-bootsfahrt teneriffa
 - walbeobachtung teneriffa mit mittagessen
-imagen: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-imagenAlt: Die Klippen von Los Gigantes über dem Meer
+imagen: /images/actividades/tenerife/cetaceos/calderon-cria.webp
+imagenAlt: 'Grindwale schwimmen zusammen'
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Grindwale an der Oberfläche vor Teneriffa
+  alt: 'Grindwale an der Oberfläche vor Teneriffa'
 - src: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
-  alt: Segelboot mit Passagieren neben Grindwalen vor der Südküste Teneriffas
+  alt: 'Segelboot mit Passagieren neben Grindwalen vor der Südküste Teneriffas'
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: Kurzflossen-Grindwal aus der Nähe
+  alt: 'Kurzflossen-Grindwal aus der Nähe'
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
-  alt: Segelboot vor Anker in der Bucht von Masca unter den Klippen
+  alt: 'Segelboot vor Anker in der Bucht von Masca unter den Klippen'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Atlantischer Fleckendelfin
+  alt: 'Atlantischer Fleckendelfin'
 - src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-  alt: Die Felswände der Klippen von Los Gigantes
-- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
-  alt: Grindwale schwimmen zusammen
+  alt: 'Die Felswände der Klippen von Los Gigantes'
+- src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
+  alt: 'Die Klippen von Los Gigantes über dem Meer'
 ratingProveedor: 4.6
 numeroOpiniones: 5872
 atraccionesRelacionadas:

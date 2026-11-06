@@ -84,19 +84,17 @@ keywords:
 - flamenco show granada
 - flamenco granada zentrum
 - barrierefreier flamenco granada
-imagen: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaora-bata-lunares.webp
-imagenAlt: Tänzerin im Schleppenkleid im Teatro Flamenco Granada
+imagen: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
+imagenAlt: 'Tänzerinnen in Rot bei der Show Sensaciones'
 galeria:
 - src: /images/actividades/granada/albaicin/albaicin-pexels-30359825.webp
-  alt: Weiße Häuser im Albaicín in Granada
+  alt: 'Weiße Häuser im Albaicín in Granada'
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-cuadro-baile.webp
-  alt: Tanzensemble auf der Bühne des Teatro Flamenco Granada
+  alt: 'Tanzensemble auf der Bühne des Teatro Flamenco Granada'
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-sala-teatro.webp
-  alt: Saal und Bühne des Teatro Flamenco Granada
-- src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
-  alt: Tänzerinnen in Rot bei der Show Sensaciones
+  alt: 'Saal und Bühne des Teatro Flamenco Granada'
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: Der Albaicín am späten Nachmittag
+  alt: 'Der Albaicín am späten Nachmittag'
 ratingProveedor: 4.8
 numeroOpiniones: 788
 atraccionesRelacionadas:

@@ -73,23 +73,23 @@ keywords:
 - globicephales tenerife
 - excursion bateau los gigantes
 - observation dauphins tenerife
-imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-imagenAlt: Les falaises de Los Gigantes jaillissant de la mer, Tenerife
+imagen: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
+imagenAlt: 'Dauphin nageant en surface'
 galeria:
 - src: /images/actividades/tenerife/gigantes/costa-acantilado-velero.webp
-  alt: "La côte et les falaises vues depuis un bateau d'observation"
-- src: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
-  alt: "Dauphin nageant en surface"
+  alt: 'La côte et les falaises vues depuis un bateau d''observation'
+- src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
+  alt: 'Les falaises de Los Gigantes jaillissant de la mer, Tenerife'
 - src: /images/actividades/tenerife/gigantes/gigantes-pueblo.webp
-  alt: Le village de Los Gigantes à Tenerife
+  alt: 'Le village de Los Gigantes à Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: Globicéphale faisant surface près du bateau, Tenerife
+  alt: 'Globicéphale faisant surface près du bateau, Tenerife'
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
-  alt: Le littoral près de Los Gigantes, Tenerife
+  alt: 'Le littoral près de Los Gigantes, Tenerife'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Dauphin tacheté de l'Atlantique au large de Tenerife
+  alt: 'Dauphin tacheté de l''Atlantique au large de Tenerife'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-  alt: La pleine mer au pied des falaises de Los Gigantes
+  alt: 'La pleine mer au pied des falaises de Los Gigantes'
 ratingProveedor: 4.7
 numeroOpiniones: 5888
 atraccionesRelacionadas:

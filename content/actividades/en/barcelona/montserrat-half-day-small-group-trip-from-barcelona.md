@@ -56,17 +56,19 @@ keywords:
 - montserrat half day from barcelona
 - montserrat small group tour
 - cheap montserrat trip
-imagen: https://imgcdn.bokun.tools/2c72dbc8-e14c-48d2-85fd-71729da74c09.jpeg
-imagenAlt: "Montserrat monastery below its rocky peaks"
+imagen: /images/actividades/barcelona/fotos-biblioteca/wikimedia-01.webp
+imagenAlt: 'Montserrat Monastery nestled in the mountains'
 galeria:
+- src: https://imgcdn.bokun.tools/2c72dbc8-e14c-48d2-85fd-71729da74c09.jpeg
+  alt: 'Montserrat monastery below its rocky peaks'
 - src: https://imgcdn.bokun.tools/8f52fd15-17c1-4bed-88d1-7162063c2624.jpeg
-  alt: "The Virgin of Montserrat in the basilica"
+  alt: 'The Virgin of Montserrat in the basilica'
 - src: https://imgcdn.bokun.tools/5cc83f85-3f78-459d-adb3-1961625e5913.jpeg
-  alt: "Arched windows overlooking the Montserrat forest"
+  alt: 'Arched windows overlooking the Montserrat forest'
 - src: https://imgcdn.bokun.tools/83777518-f116-48b7-b323-fc4d59683796.jpeg
-  alt: "Cable car above the cliffs of Montserrat"
+  alt: 'Cable car above the cliffs of Montserrat'
 - src: https://imgcdn.bokun.tools/4ba385db-f493-475f-ae0f-d6326583ad27.jpeg
-  alt: "Montserrat monastery on the mountainside"
+  alt: 'Montserrat monastery on the mountainside'
 publicada: true
 indexar: false
 destacada: false

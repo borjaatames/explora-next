@@ -87,23 +87,23 @@ keywords:
 - catamaran fondo cristal tenerife
 - delfines tenerife sur
 - excursion barco los cristianos
-imagen: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
-imagenAlt: Barcos amarrados en el puerto de Los Cristianos
+imagen: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+imagenAlt: 'Calderón tropical respirando en superficie'
 galeria:
 - src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
-  alt: Barco de avistamiento con pasajeros junto a un grupo de calderones en Tenerife
+  alt: 'Barco de avistamiento con pasajeros junto a un grupo de calderones en Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Calderones nadando en superficie frente a la costa de Tenerife
-- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
-  alt: Calderón tropical respirando en superficie
+  alt: 'Calderones nadando en superficie frente a la costa de Tenerife'
+- src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
+  alt: 'Barcos amarrados en el puerto de Los Cristianos'
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
-  alt: Bahía de Los Cristianos vista desde la costa
+  alt: 'Bahía de Los Cristianos vista desde la costa'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Delfín moteado del Atlántico en aguas canarias
+  alt: 'Delfín moteado del Atlántico en aguas canarias'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: Montaña de Guaza junto a Los Cristianos
+  alt: 'Montaña de Guaza junto a Los Cristianos'
 - src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Calderón soltando el soplo en aguas del sur de Tenerife
+  alt: 'Calderón soltando el soplo en aguas del sur de Tenerife'
 ratingProveedor: 4.6
 numeroOpiniones: 15598
 atraccionesRelacionadas:

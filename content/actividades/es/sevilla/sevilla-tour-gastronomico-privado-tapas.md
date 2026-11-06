@@ -65,21 +65,23 @@ keywords:
 - tour gastronomico privado sevilla
 - tapas sevilla tour privado
 - ruta de tapas sevilla con guia
-imagen: https://imgcdn.bokun.tools/0383edc7-ef74-46fb-b84a-0d08013c3063.jpeg
-imagenAlt: Tapa sevillana servida en la barra
+imagen: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-10.webp
+imagenAlt: 'Grupo tomando tapas en un bar'
 galeria:
+- src: https://imgcdn.bokun.tools/0383edc7-ef74-46fb-b84a-0d08013c3063.jpeg
+  alt: 'Tapa sevillana servida en la barra'
 - src: https://imgcdn.bokun.tools/ebbfaaa5-526d-45d2-95db-b12fafc4cb83.jpeg
-  alt: Montadito de una taberna sevillana
+  alt: 'Montadito de una taberna sevillana'
 - src: https://imgcdn.bokun.tools/14ebfeb3-168a-4e8b-a99d-8f986c2dafc3.jpeg
-  alt: Grupo durante el tour gastronómico
+  alt: 'Grupo durante el tour gastronómico'
 - src: https://imgcdn.bokun.tools/40719c62-e539-4f47-a176-c870c49d8428.jpeg
-  alt: Interior de una taberna tradicional
+  alt: 'Interior de una taberna tradicional'
 - src: https://imgcdn.bokun.tools/e8ddcc97-38a3-4732-9844-31ad8daaf53a.jpeg
-  alt: Barra de un bar de tapas
+  alt: 'Barra de un bar de tapas'
 - src: https://imgcdn.bokun.tools/a099331e-fd7e-432a-a862-968d9298fa74.jpeg
-  alt: Arco en el centro histórico de Sevilla
+  alt: 'Arco en el centro histórico de Sevilla'
 - src: https://imgcdn.bokun.tools/fb7be4dc-9846-4615-aafa-a9267871e444.jpeg
-  alt: La Catedral de Sevilla
+  alt: 'La Catedral de Sevilla'
 publicada: true
 indexar: false
 destacada: false

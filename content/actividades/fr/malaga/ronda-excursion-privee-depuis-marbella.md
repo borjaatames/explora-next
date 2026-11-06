@@ -64,25 +64,27 @@ keywords:
 - ronda depuis marbella
 - excursion privée ronda marbella
 - visite guidée ronda en français
-imagen: https://imgcdn.bokun.tools/4ac9a1fa-7677-4413-956f-82de56bff591.jpg
-imagenAlt: Le Puente Nuevo de Ronda au-dessus des gorges
+imagen: /images/actividades/granada/ronda/ronda-pixabay-3372201.webp
+imagenAlt: 'Le Puente Nuevo de Ronda au-dessus du Tajo'
 galeria:
+- src: https://imgcdn.bokun.tools/4ac9a1fa-7677-4413-956f-82de56bff591.jpg
+  alt: 'Le Puente Nuevo de Ronda au-dessus des gorges'
 - src: https://imgcdn.bokun.tools/5cc326b6-453f-4f97-8307-451eaa6ff7ae.jpg
-  alt: Voyageurs devant les gorges de Ronda
+  alt: 'Voyageurs devant les gorges de Ronda'
 - src: https://imgcdn.bokun.tools/5fed2530-1445-4f2e-8460-55bc0ed068ca.jpg
-  alt: Vue de Ronda au bord de la falaise
+  alt: 'Vue de Ronda au bord de la falaise'
 - src: https://imgcdn.bokun.tools/4e4b8378-8731-471d-be1c-cfeb514bfa39.jpg
-  alt: Le Puente Nuevo vu d’en bas
+  alt: 'Le Puente Nuevo vu d’en bas'
 - src: https://imgcdn.bokun.tools/a26ecaf4-98be-4e81-960b-fc067516bf8e.jpg
-  alt: Parois des gorges de Ronda
+  alt: 'Parois des gorges de Ronda'
 - src: https://imgcdn.bokun.tools/7e782afa-d06b-4996-bb9c-24d841c7ee70.jpg
-  alt: Porte des arènes de Ronda
+  alt: 'Porte des arènes de Ronda'
 - src: https://imgcdn.bokun.tools/8cb39e6a-cb94-4a18-8f3d-bd1aa4df4403.jpg
-  alt: Sentier sous les gorges de Ronda
+  alt: 'Sentier sous les gorges de Ronda'
 - src: https://imgcdn.bokun.tools/a1af50b5-37fa-4fbb-bb60-215c6038d307.jpg
-  alt: Belvédère sur la serranía de Ronda
+  alt: 'Belvédère sur la serranía de Ronda'
 - src: https://imgcdn.bokun.tools/76e5989a-2dc9-4c6d-aa20-c078d8f29a6d.jpg
-  alt: Groupe à un belvédère de Ronda
+  alt: 'Groupe à un belvédère de Ronda'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

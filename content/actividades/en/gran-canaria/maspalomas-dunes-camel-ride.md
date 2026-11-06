@@ -76,27 +76,25 @@ keywords:
 - camels maspalomas dunes
 - things to do in maspalomas
 - maspalomas dunes
-imagen: /images/actividades/gran-canaria/camellos/caravana-camellos-dunas.webp
-imagenAlt: Camel caravan with riders crossing sand dunes
+imagen: /images/actividades/gran-canaria/camellos/camellos-ensillados-gran-canaria.webp
+imagenAlt: 'Saddled camels resting before the ride in Gran Canaria'
 galeria:
-- src: /images/actividades/gran-canaria/camellos/camellos-ensillados-gran-canaria.webp
-  alt: Saddled camels resting before the ride in Gran Canaria
 - src: /images/actividades/gran-canaria/dunas/dunas-crestas.webp
-  alt: Sand ridges in the Maspalomas dunes
+  alt: 'Sand ridges in the Maspalomas dunes'
 - src: /images/actividades/gran-canaria/maspalomas/dunas-maspalomas-montanas.webp
-  alt: "Maspalomas dunes with the mountains of Gran Canaria behind"
+  alt: 'Maspalomas dunes with the mountains of Gran Canaria behind'
 - src: /images/actividades/gran-canaria/dunas/charca-palmeral.webp
-  alt: Pond among palm trees in the Maspalomas Dunes
+  alt: 'Pond among palm trees in the Maspalomas Dunes'
 - src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
-  alt: The Maspalomas dunes by the Atlantic
+  alt: 'The Maspalomas dunes by the Atlantic'
 - src: /images/actividades/gran-canaria/dunas/dunas-panoramica.webp
-  alt: A palm and scrub among the Maspalomas dunes
+  alt: 'A palm and scrub among the Maspalomas dunes'
 - src: /images/actividades/gran-canaria/dunas/dunas-aerea.webp
-  alt: A palm tree in the sand of the Maspalomas dunes
+  alt: 'A palm tree in the sand of the Maspalomas dunes'
 - src: /images/actividades/gran-canaria/dunas/dunas-palmera.webp
-  alt: The Maspalomas dunes under a cloudy sky
+  alt: 'The Maspalomas dunes under a cloudy sky'
 - src: /images/actividades/gran-canaria/dunas/dunas-arena.webp
-  alt: Maspalomas beach and lighthouse, next to the dunes
+  alt: 'Maspalomas beach and lighthouse, next to the dunes'
 ratingProveedor: 4.5
 numeroOpiniones: 5263
 atraccionesRelacionadas:

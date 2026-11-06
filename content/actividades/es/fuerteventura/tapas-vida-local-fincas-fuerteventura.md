@@ -80,21 +80,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
-imagenAlt: "Elaboración de queso fresco de cabra en una quesería"
+imagen: /images/actividades/fuerteventura/queso/ffv-tostas-queso-higos.webp
+imagenAlt: 'Tostas de queso con higos'
 galeria:
 - src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
-  alt: "Quesos curados de distintos tamaños"
+  alt: 'Quesos curados de distintos tamaños'
 - src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: "Papas arrugadas con mojo verde"
+  alt: 'Papas arrugadas con mojo verde'
 - src: /images/actividades/ibiza/bibo-park/fi1-olivo-jardin-mediterraneo.webp
-  alt: "Olivo centenario"
+  alt: 'Olivo centenario'
 - src: /images/actividades/fuerteventura/queso/ffv-quesos-y-vino-casero.webp
-  alt: "Quesos y botellas de vino en una mesa"
+  alt: 'Quesos y botellas de vino en una mesa'
 - src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: "Cabra majorera en una finca"
-- src: /images/actividades/fuerteventura/queso/ffv-tostas-queso-higos.webp
-  alt: "Tostas de queso con higos"
+  alt: 'Cabra majorera en una finca'
+- src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
+  alt: 'Elaboración de queso fresco de cabra en una quesería'
 ---
 
 ## Qué vas a ver

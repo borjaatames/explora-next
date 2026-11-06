@@ -57,19 +57,21 @@ categoria: visitasGuiadas
 keywords:
 - sagrada familia barrio gotico privado
 - visita privada barcelona gotico sagrada familia
-imagen: https://imgcdn.bokun.tools/1ffc6803-d469-49ab-b734-6c83bbd1b281.jpg
-imagenAlt: "Fachada de la Catedral de Barcelona"
+imagen: /images/actividades/barcelona/fotos-biblioteca/wikimedia-05.webp
+imagenAlt: 'Catedral de Barcelona'
 galeria:
+- src: https://imgcdn.bokun.tools/1ffc6803-d469-49ab-b734-6c83bbd1b281.jpg
+  alt: 'Fachada de la Catedral de Barcelona'
 - src: https://imgcdn.bokun.tools/5b618043-9120-4dab-920f-ce6b92d07d31.jpg
-  alt: "Torres romanas y plaza Nova en el Barrio Gótico"
+  alt: 'Torres romanas y plaza Nova en el Barrio Gótico'
 - src: https://imgcdn.bokun.tools/4fa6e683-c3b7-413b-be8a-bb6e219c347c.jpg
-  alt: "Torres de la Sagrada Família"
+  alt: 'Torres de la Sagrada Família'
 - src: https://imgcdn.bokun.tools/8fd9a173-a6f8-462a-84d6-219f893e4154.jpg
-  alt: "Bóvedas del interior de la Sagrada Família"
+  alt: 'Bóvedas del interior de la Sagrada Família'
 - src: https://imgcdn.bokun.tools/ad4b35a9-8752-4e90-8867-45e699539863.jpg
-  alt: "Vidrieras de la Sagrada Família"
+  alt: 'Vidrieras de la Sagrada Família'
 - src: https://imgcdn.bokun.tools/67c77841-0907-401c-a948-87ecd626d71c.jpg
-  alt: "Grupo con su guía dentro de la Sagrada Família"
+  alt: 'Grupo con su guía dentro de la Sagrada Família'
 publicada: true
 indexar: false
 destacada: false

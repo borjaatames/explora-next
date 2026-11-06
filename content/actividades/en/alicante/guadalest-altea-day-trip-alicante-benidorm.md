@@ -80,23 +80,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/fal-guadalest/fal-guadalest-pueblo-cresta.webp
-imagenAlt: "Guadalest village on its rocky ridge"
+imagen: /images/actividades/alicante/excursiones/guadalest-campanario.webp
+imagenAlt: 'Guadalest bell tower on the rock'
 galeria:
-- src: /images/actividades/alicante/excursiones/guadalest-campanario.webp
-  alt: "Guadalest bell tower on the rock"
 - src: /images/actividades/alicante/fal-guadalest/fal-embalse-guadalest.webp
-  alt: "Guadalest reservoir among mountains"
+  alt: 'Guadalest reservoir among mountains'
 - src: /images/actividades/alicante/fal-guadalest/fal-guadalest-casas.webp
-  alt: "Whitewashed houses in Guadalest"
+  alt: 'Whitewashed houses in Guadalest'
 - src: /images/actividades/alicante/excursiones/guadalest-desde-castillo.webp
-  alt: "Guadalest seen from the castle"
+  alt: 'Guadalest seen from the castle'
 - src: /images/actividades/alicante/fal-altea/fal-altea-desde-mar.webp
-  alt: "Altea seen from the sea"
+  alt: 'Altea seen from the sea'
 - src: /images/actividades/alicante/fal-altea/fal-calle-flores-altea.webp
-  alt: "Flower-lined street in Altea's old town"
+  alt: 'Flower-lined street in Altea''s old town'
 - src: /images/actividades/alicante/excursiones/altea-iglesia.webp
-  alt: "Blue domes of Altea's church"
+  alt: 'Blue domes of Altea''s church'
 ---
 
 ## What you will see

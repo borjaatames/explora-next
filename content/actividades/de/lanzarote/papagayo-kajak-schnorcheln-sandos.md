@@ -83,19 +83,17 @@ keywords:
 - papagayo schnorcheln
 - lanzarote schnorcheln
 - papagayo strand
-imagen: /images/actividades/lanzarote/kayak-papagayo.webp
-imagenAlt: Kajaks auf dem türkisen Wasser der Bucht von Papagayo
+imagen: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
+imagenAlt: 'Goldener Sand und ruhiges Wasser an einem Strand von Papagayo'
 galeria:
-- src: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
-  alt: Goldener Sand und ruhiges Wasser an einem Strand von Papagayo
 - src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
-  alt: Eine Bucht von Papagayo mit türkisem Wasser und Vulkanfelsen
+  alt: 'Eine Bucht von Papagayo mit türkisem Wasser und Vulkanfelsen'
 - src: /images/actividades/lanzarote/zonas/papagayo-acantilado.webp
-  alt: Klippe und Strand in Papagayo, in Los Ajaches
+  alt: 'Klippe und Strand in Papagayo, in Los Ajaches'
 - src: /images/actividades/lanzarote/zonas/papagayo-orilla.webp
-  alt: Uferlinie eines Strandes in Papagayo mit Klippen dahinter
+  alt: 'Uferlinie eines Strandes in Papagayo mit Klippen dahinter'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
-  alt: Der Strand von Playa Blanca im Süden von Lanzarote
+  alt: 'Der Strand von Playa Blanca im Süden von Lanzarote'
 ratingProveedor: 4.7
 numeroOpiniones: 162
 atraccionesRelacionadas:

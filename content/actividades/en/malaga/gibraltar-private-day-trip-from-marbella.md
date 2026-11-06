@@ -65,21 +65,23 @@ keywords:
 - gibraltar from marbella
 - private gibraltar tour from marbella
 - gibraltar day trip marbella
-imagen: https://imgcdn.bokun.tools/b9367320-6898-45e5-b316-955e90beec73.jpg
-imagenAlt: Barbary macaque on the Rock of Gibraltar
+imagen: /images/actividades/jerez-de-la-frontera/gibraltar/penon-desde-el-mar.webp
+imagenAlt: 'The Rock of Gibraltar seen from the sea'
 galeria:
+- src: https://imgcdn.bokun.tools/b9367320-6898-45e5-b316-955e90beec73.jpg
+  alt: 'Barbary macaque on the Rock of Gibraltar'
 - src: https://imgcdn.bokun.tools/16e9f5ec-2956-4d86-ae75-e1e311c3054d.jpg
-  alt: Viewpoint on the Rock over the bay
+  alt: 'Viewpoint on the Rock over the bay'
 - src: https://imgcdn.bokun.tools/cad15969-994f-455f-8610-165261be3fe8.jpg
-  alt: Red telephone box in Gibraltar
+  alt: 'Red telephone box in Gibraltar'
 - src: https://imgcdn.bokun.tools/d146c479-e4a9-44af-94d8-d812c0b920dd.jpg
-  alt: Barbary macaque close up
+  alt: 'Barbary macaque close up'
 - src: https://imgcdn.bokun.tools/d5ed6972-e923-4aab-96f1-1d0da201816f.jpg
-  alt: Macaque with the sea behind
+  alt: 'Macaque with the sea behind'
 - src: https://imgcdn.bokun.tools/64dadfee-dc21-4d38-a63b-e75e09f5ebff.jpg
-  alt: Slopes of the Rock of Gibraltar
+  alt: 'Slopes of the Rock of Gibraltar'
 - src: https://imgcdn.bokun.tools/abf552e5-d52b-4acb-9374-f04f07372731.jpg
-  alt: View of Gibraltar town
+  alt: 'View of Gibraltar town'
 publicada: true
 indexar: false
 destacada: false

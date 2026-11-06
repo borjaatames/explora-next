@@ -84,23 +84,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/mallorca/fma-palma/catedral-palma-desde-mar.webp
-imagenAlt: "La Cattedrale di Palma vista dal mare"
+imagen: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
+imagenAlt: 'Barca ancorata con bagnanti che nuotano intorno'
 galeria:
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-fondeado-agua-turquesa.webp
-  alt: "Catamarano ancorato in acqua turchese, vista aerea"
+  alt: 'Catamarano ancorato in acqua turchese, vista aerea'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
-  alt: "Persona che fa snorkeling sopra un fondale roccioso"
+  alt: 'Persona che fa snorkeling sopra un fondale roccioso'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-mar-abierto.webp
-  alt: "Catamarano in navigazione in mare aperto, vista aerea"
-- src: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
-  alt: "Barca ancorata con bagnanti che nuotano intorno"
+  alt: 'Catamarano in navigazione in mare aperto, vista aerea'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
-  alt: "La Cattedrale di Palma sopra le mura sul mare"
+  alt: 'La Cattedrale di Palma sopra le mura sul mare'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
-  alt: "Fondale marino con rocce sotto un'acqua cristallina"
+  alt: 'Fondale marino con rocce sotto un''acqua cristallina'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-lancha-agua-verde.webp
-  alt: "Catamarano e lancia di servizio in acqua verde turchese"
+  alt: 'Catamarano e lancia di servizio in acqua verde turchese'
 avisoReserva: 'Attività stagionale: le prossime date disponibili iniziano a marzo 2027.'
 ---
 

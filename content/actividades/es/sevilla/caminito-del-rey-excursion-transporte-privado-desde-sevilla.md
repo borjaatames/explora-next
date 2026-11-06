@@ -78,8 +78,8 @@ keywords:
 - excursion caminito del rey desde sevilla
 - caminito del rey transporte privado
 - caminito del rey entradas incluidas
-imagen: https://imgcdn.bokun.tools/b6a73f80-992c-4c3e-8470-c41b4a953417.jpg
-imagenAlt: Senderistas con casco en las pasarelas del Caminito
+imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
+imagenAlt: 'Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes'
 ratingProveedor: 5.0
 numeroOpiniones: 4
 publicada: true
@@ -87,18 +87,18 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
-  alt: Pasarelas del Caminito del Rey sobre el desfiladero de los Gaitanes
+- src: https://imgcdn.bokun.tools/b6a73f80-992c-4c3e-8470-c41b4a953417.jpg
+  alt: 'Senderistas con casco en las pasarelas del Caminito'
 - src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
-  alt: Desfiladero de los Gaitanes desde las pasarelas
+  alt: 'Desfiladero de los Gaitanes desde las pasarelas'
 - src: https://imgcdn.bokun.tools/73519bc9-7446-442e-bada-23c363e267fd.jpg
-  alt: Pareja con casco sobre el desfiladero
+  alt: 'Pareja con casco sobre el desfiladero'
 - src: https://imgcdn.bokun.tools/950e7c4c-c002-4759-9b67-5f7c565c9f8e.jpg
-  alt: Pasarelas colgadas en la pared del desfiladero
+  alt: 'Pasarelas colgadas en la pared del desfiladero'
 - src: /images/actividades/malaga/caminito-del-rey/pasarela.webp
-  alt: Pasarela de madera sobre el desfiladero
+  alt: 'Pasarela de madera sobre el desfiladero'
 - src: https://imgcdn.bokun.tools/4b5cc6a0-b458-4055-a885-d87e7bd97f42.jpg
-  alt: Puente colgante del Caminito del Rey
+  alt: 'Puente colgante del Caminito del Rey'
 bokunProductId: 860688
 fecha_actualizacion: '2026-10-24'
 privada: true

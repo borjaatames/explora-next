@@ -65,21 +65,23 @@ keywords:
 - gibraltar desde marbella
 - excursion privada gibraltar marbella
 - tour gibraltar desde marbella
-imagen: https://imgcdn.bokun.tools/b9367320-6898-45e5-b316-955e90beec73.jpg
-imagenAlt: Macaco de Berbería en el Peñón de Gibraltar
+imagen: /images/actividades/jerez-de-la-frontera/gibraltar/penon-desde-el-mar.webp
+imagenAlt: 'Peñón de Gibraltar desde el mar'
 galeria:
+- src: https://imgcdn.bokun.tools/b9367320-6898-45e5-b316-955e90beec73.jpg
+  alt: 'Macaco de Berbería en el Peñón de Gibraltar'
 - src: https://imgcdn.bokun.tools/16e9f5ec-2956-4d86-ae75-e1e311c3054d.jpg
-  alt: Mirador del Peñón sobre la bahía
+  alt: 'Mirador del Peñón sobre la bahía'
 - src: https://imgcdn.bokun.tools/cad15969-994f-455f-8610-165261be3fe8.jpg
-  alt: Cabina roja de teléfono en Gibraltar
+  alt: 'Cabina roja de teléfono en Gibraltar'
 - src: https://imgcdn.bokun.tools/d146c479-e4a9-44af-94d8-d812c0b920dd.jpg
-  alt: Macaco de Berbería de cerca
+  alt: 'Macaco de Berbería de cerca'
 - src: https://imgcdn.bokun.tools/d5ed6972-e923-4aab-96f1-1d0da201816f.jpg
-  alt: Macaco con el mar al fondo
+  alt: 'Macaco con el mar al fondo'
 - src: https://imgcdn.bokun.tools/64dadfee-dc21-4d38-a63b-e75e09f5ebff.jpg
-  alt: Laderas del Peñón de Gibraltar
+  alt: 'Laderas del Peñón de Gibraltar'
 - src: https://imgcdn.bokun.tools/abf552e5-d52b-4acb-9374-f04f07372731.jpg
-  alt: Vista de la ciudad de Gibraltar
+  alt: 'Vista de la ciudad de Gibraltar'
 publicada: true
 indexar: false
 destacada: false

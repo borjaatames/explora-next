@@ -69,9 +69,11 @@ atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia
 keywords: []
-imagen: https://imgcdn.bokun.tools/964d6163-0597-477f-998f-198ef5f70198.jpg
-imagenAlt: 'Panorama di Toledo'
+imagen: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-05-2017-10-22-hero.webp
+imagenAlt: 'L''Alcázar di Segovia al tramonto'
 galeria:
+- src: https://imgcdn.bokun.tools/964d6163-0597-477f-998f-198ef5f70198.jpg
+  alt: 'Panorama di Toledo'
 - src: https://imgcdn.bokun.tools/64bac1f0-44a9-407f-b79c-0ef13cea50cd.jpg
   alt: 'Gruppo accanto all''acquedotto di Segovia'
 - src: https://imgcdn.bokun.tools/a9c48c5e-5289-4285-a355-0f125c46dd05.jpg

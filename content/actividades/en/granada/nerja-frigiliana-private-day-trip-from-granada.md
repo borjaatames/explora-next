@@ -73,25 +73,25 @@ keywords:
 - nerja caves trip
 - frigiliana private tour
 - private nerja frigiliana
-imagen: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-balcon-europa-vista-panoramica-02-hero.webp
-imagenAlt: The Balcón de Europa in Nerja
+imagen: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-frigiliana-pueblo-blanco-frigilia-hero.webp
+imagenAlt: 'White streets of Frigiliana'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/f92c7cf7-95f1-4f74-8297-564c93abfb2a.jpg
-  alt: Stepped street with flowerpots in Frigiliana
+  alt: 'Stepped street with flowerpots in Frigiliana'
 - src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-cuevas-nerja-interior-01-hero.webp
-  alt: Inside the Nerja Caves with their formations
+  alt: 'Inside the Nerja Caves with their formations'
 - src: https://imgcdn.bokun.tools/078afc59-2c2b-4647-9b51-b3eb577ab167.jpg
-  alt: Blue door and window on a whitewashed house
+  alt: 'Blue door and window on a whitewashed house'
 - src: https://imgcdn.bokun.tools/10b86fb6-403c-49f0-b6f3-3135781e4cd9.jpg
-  alt: Staircase inside the Nerja Caves
-- src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-frigiliana-pueblo-blanco-frigilia-hero.webp
-  alt: White streets of Frigiliana
+  alt: 'Staircase inside the Nerja Caves'
+- src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-balcon-europa-vista-panoramica-02-hero.webp
+  alt: 'The Balcón de Europa in Nerja'
 - src: https://imgcdn.bokun.tools/fdc1c28b-e5bf-4e73-8dde-69f7b58f3700.jpg
-  alt: Nerja's coastline with houses above the sea
+  alt: 'Nerja''s coastline with houses above the sea'
 bokunProductId: 919053
 fecha_actualizacion: '2026-10-24'
 privada: true

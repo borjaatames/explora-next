@@ -59,19 +59,21 @@ categoria: visitasGuiadas
 keywords:
 - city of arts and sciences private tour
 - calatrava architecture valencia tour
-imagen: https://imgcdn.bokun.tools/4208d142-facb-494f-93b9-41324680af0e.jpg
-imagenAlt: "Traveller in front of the City of Arts and Sciences"
+imagen: /images/actividades/valencia/ciudad-artes-ciencias/hemisféric-ciudad-artes-valencia.webp
+imagenAlt: 'Hemisfèric at the City of Arts and Sciences'
 galeria:
+- src: https://imgcdn.bokun.tools/4208d142-facb-494f-93b9-41324680af0e.jpg
+  alt: 'Traveller in front of the City of Arts and Sciences'
 - src: https://imgcdn.bokun.tools/f56dbfe3-8dd4-4e63-a31e-08d42ac95abb.jpg
-  alt: "Bridge and Palau de les Arts at the City of Arts"
+  alt: 'Bridge and Palau de les Arts at the City of Arts'
 - src: https://imgcdn.bokun.tools/90f48d4f-e869-4832-99f4-2213f0c77527.jpg
-  alt: "Visitors with their guide in an old town street"
+  alt: 'Visitors with their guide in an old town street'
 - src: https://imgcdn.bokun.tools/eb05972e-c1bd-48b9-8605-4ba0d3487eec.jpg
-  alt: "Science Museum and Hemisfèric over the water"
+  alt: 'Science Museum and Hemisfèric over the water'
 - src: https://imgcdn.bokun.tools/79c30c0d-e770-4e35-98ae-59b89acfe2ed.jpg
-  alt: "Couple at a night-time festival in Valencia"
+  alt: 'Couple at a night-time festival in Valencia'
 - src: https://imgcdn.bokun.tools/c8084ebf-e1a9-412e-b7c1-662ef9b4813b.jpg
-  alt: "Visitors walking through the City of Arts and Sciences"
+  alt: 'Visitors walking through the City of Arts and Sciences'
 publicada: true
 indexar: false
 destacada: false

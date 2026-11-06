@@ -62,19 +62,21 @@ keywords:
 - private sailboat ibiza half day
 - skippered sailboat ibiza
 - ibiza coves private boat
-imagen: https://imgcdn.bokun.tools/4d1ad9cd-03bc-4407-90b5-2da17770e259.jpg
-imagenAlt: "Couple with snorkel gear on the boat in a cove"
+imagen: /images/actividades/ibiza/fotos-biblioteca/unsplash-j-x7lediab8.webp
+imagenAlt: 'Sailboat anchored in an Ibiza cove'
 galeria:
+- src: https://imgcdn.bokun.tools/4d1ad9cd-03bc-4407-90b5-2da17770e259.jpg
+  alt: 'Couple with snorkel gear on the boat in a cove'
 - src: https://imgcdn.bokun.tools/074f5fa2-1148-4062-a0b9-97fa76a976c0.jpg
-  alt: "Smiling couple aboard a sailboat in Ibiza"
+  alt: 'Smiling couple aboard a sailboat in Ibiza'
 - src: https://imgcdn.bokun.tools/82132269-71b3-45bb-a69a-15824f70cad2.jpg
-  alt: "Sailboat at sunset next to Es Vedrà"
+  alt: 'Sailboat at sunset next to Es Vedrà'
 - src: https://imgcdn.bokun.tools/d1d302a6-b78a-4755-a83c-b6ce78b9570b.jpg
-  alt: "Sailboat anchored in an Ibiza cove"
+  alt: 'Sailboat anchored in an Ibiza cove'
 - src: https://imgcdn.bokun.tools/f06e337d-d704-429a-80dd-159f216c34b1.jpg
-  alt: "Couple sitting on the sailboat deck"
+  alt: 'Couple sitting on the sailboat deck'
 - src: https://imgcdn.bokun.tools/6a7c6910-76ad-4585-bead-710819b28eea.jpg
-  alt: "Couple walking on the rocks of an Ibiza cove"
+  alt: 'Couple walking on the rocks of an Ibiza cove'
 publicada: true
 indexar: false
 destacada: false

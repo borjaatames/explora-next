@@ -59,17 +59,19 @@ keywords:
 - visite privee bilbao
 - bilbao guide francais
 - bilbao vieille ville visite
-imagen: https://imgcdn.bokun.tools/b5e719cb-4151-4a30-a1d2-e50ceed4e33b.jpg
-imagenAlt: "Voyageuse souriante avec Bilbao en arrière-plan"
+imagen: /images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp
+imagenAlt: 'La ría et la vieille ville de Bilbao'
 galeria:
+- src: https://imgcdn.bokun.tools/b5e719cb-4151-4a30-a1d2-e50ceed4e33b.jpg
+  alt: 'Voyageuse souriante avec Bilbao en arrière-plan'
 - src: https://imgcdn.bokun.tools/dcda3bde-7e2d-4fcf-825f-3adeb6db11c9.jpg
-  alt: "Façade en titane du Guggenheim de Bilbao"
+  alt: 'Façade en titane du Guggenheim de Bilbao'
 - src: https://imgcdn.bokun.tools/55f17af3-fea9-49bd-be68-5de51a01e961.jpg
-  alt: "L’araignée géante près du Guggenheim de Bilbao"
+  alt: 'L’araignée géante près du Guggenheim de Bilbao'
 - src: https://imgcdn.bokun.tools/416db83b-00c5-4439-a325-4d43202079b7.jpg
-  alt: "Mère et fille à un belvédère sur Bilbao"
+  alt: 'Mère et fille à un belvédère sur Bilbao'
 - src: https://imgcdn.bokun.tools/6c9f7cae-95eb-4ac8-ace3-952cd6c9cd81.jpg
-  alt: "Le Guggenheim de Bilbao reflété dans la ría"
+  alt: 'Le Guggenheim de Bilbao reflété dans la ría'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

@@ -59,19 +59,21 @@ keywords:
 - velero privado atardecer ibiza
 - puesta de sol es vedra barco
 - sunset ibiza barco privado
-imagen: https://imgcdn.bokun.tools/2f91c458-2e8c-493e-800d-f586baf98323.jpg
-imagenAlt: "Puesta de sol tras Es Vedrà desde el mar"
+imagen: /images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp
+imagenAlt: 'Es Vedrà con un velero en la cala'
 galeria:
+- src: https://imgcdn.bokun.tools/2f91c458-2e8c-493e-800d-f586baf98323.jpg
+  alt: 'Puesta de sol tras Es Vedrà desde el mar'
 - src: https://imgcdn.bokun.tools/a3ce50ff-a6d9-4c8e-a5d6-1662258cd002.jpg
-  alt: "Puesta de sol con veleros en el mar"
+  alt: 'Puesta de sol con veleros en el mar'
 - src: https://imgcdn.bokun.tools/ad5ca33e-b7ae-4fae-a990-46193bd55089.jpg
-  alt: "Pareja abrazada en un velero al atardecer"
+  alt: 'Pareja abrazada en un velero al atardecer'
 - src: https://imgcdn.bokun.tools/cc01a533-2a71-4000-9385-2f060a62b985.jpg
-  alt: "Mujer mirando el atardecer desde el velero"
+  alt: 'Mujer mirando el atardecer desde el velero'
 - src: https://imgcdn.bokun.tools/331992ca-b12c-465b-942f-835e68cea822.jpg
-  alt: "Pareja en la cubierta con el mar detrás"
+  alt: 'Pareja en la cubierta con el mar detrás'
 - src: https://imgcdn.bokun.tools/78b81a5f-4c9f-4eea-a6be-d201cccc8807.jpg
-  alt: "Mujer mirando la puesta de sol desde la proa"
+  alt: 'Mujer mirando la puesta de sol desde la proa'
 publicada: true
 indexar: false
 destacada: false

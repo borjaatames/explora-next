@@ -77,8 +77,8 @@ keywords:
 - flamenco malaga centro
 - espectaculo flamenco malaga entradas
 - show flamenco malaga
-imagen: /images/actividades/malaga/flamenco/bailaora-luz-escenario.webp
-imagenAlt: 'Bailaora en el escenario con estela de luz'
+imagen: /images/actividades/malaga/fotos-biblioteca/flamenco-wikimedia-01.webp
+imagenAlt: 'Espectáculo de flamenco en directo'
 galeria:
 - src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
   alt: 'Guitarrista flamenco en el escenario'

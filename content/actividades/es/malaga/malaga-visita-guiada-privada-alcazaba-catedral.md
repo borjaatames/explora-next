@@ -65,21 +65,23 @@ keywords:
 - visita guiada privada malaga
 - tour privado alcazaba catedral malaga
 - guia privado malaga
-imagen: https://imgcdn.bokun.tools/01f52bf0-4ebd-4e1c-8da6-a37c5cf1ca01.jpeg
-imagenAlt: Murallas de la Alcazaba de Málaga
+imagen: /images/actividades/malaga/catedral-malaga/catedral-malaga-03.webp
+imagenAlt: 'Coro de la Catedral de Málaga'
 galeria:
+- src: https://imgcdn.bokun.tools/01f52bf0-4ebd-4e1c-8da6-a37c5cf1ca01.jpeg
+  alt: 'Murallas de la Alcazaba de Málaga'
 - src: https://imgcdn.bokun.tools/ec488831-16c5-42f3-b70a-d123a1c9b95e.jpeg
-  alt: Plaza del centro de Málaga
+  alt: 'Plaza del centro de Málaga'
 - src: https://imgcdn.bokun.tools/fc432c14-7665-4bb2-8502-1acacfea1d5e.jpeg
-  alt: Fachada de la Catedral de Málaga
+  alt: 'Fachada de la Catedral de Málaga'
 - src: https://imgcdn.bokun.tools/4c39d28a-6bf9-4334-8e6e-6e6abba6b05b.jpeg
-  alt: Torre de la Catedral de Málaga
+  alt: 'Torre de la Catedral de Málaga'
 - src: https://imgcdn.bokun.tools/94831929-1b64-47e4-9370-7b2fc118d8b3.jpeg
-  alt: Calle del casco histórico de Málaga
+  alt: 'Calle del casco histórico de Málaga'
 - src: https://imgcdn.bokun.tools/1e211f98-7e68-4b7b-9700-47de473889c1.jpeg
-  alt: Grupo con el guía en Málaga
+  alt: 'Grupo con el guía en Málaga'
 - src: https://imgcdn.bokun.tools/7f1bb0b3-c2e3-41a5-bcfa-bd4e627b5ad0.jpeg
-  alt: Vidriera al atardecer
+  alt: 'Vidriera al atardecer'
 publicada: true
 indexar: false
 destacada: false

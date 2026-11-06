@@ -76,28 +76,30 @@ keywords:
 - mezquita cordoba guia privado
 - juderia cordoba tour
 - tour cordoba mezquita y sinagoga
-imagen: https://imgcdn.bokun.tools/4ba86944-8202-434a-8014-2da5d0648e93.jpg
-imagenAlt: Bosque de arcos bicolores de la Mezquita-Catedral
+imagen: /images/actividades/cordoba/bici/fvc-mezquita-puente-rio.webp
+imagenAlt: 'Mezquita y Puente Romano de Córdoba'
 ratingProveedor: 5
 numeroOpiniones: 130
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: https://imgcdn.bokun.tools/4ba86944-8202-434a-8014-2da5d0648e93.jpg
+  alt: 'Bosque de arcos bicolores de la Mezquita-Catedral'
 - src: /images/actividades/cordoba/mezquita/arcos-perspectiva.webp
-  alt: Perspectiva de arcos rojos y blancos
+  alt: 'Perspectiva de arcos rojos y blancos'
 - src: https://imgcdn.bokun.tools/f01dc8d1-2175-45f4-a001-4cb11f59ad9b.jpg
-  alt: Calleja de las Flores con la torre al fondo
+  alt: 'Calleja de las Flores con la torre al fondo'
 - src: https://imgcdn.bokun.tools/393b890f-e597-4592-9d8a-31260cee3c1b.jpg
-  alt: El mihrab de la Mezquita de Córdoba
+  alt: 'El mihrab de la Mezquita de Córdoba'
 - src: /images/actividades/cordoba/juderia/sinagoga.webp
-  alt: Interior de la Sinagoga de Córdoba
+  alt: 'Interior de la Sinagoga de Córdoba'
 - src: https://imgcdn.bokun.tools/60ac6410-1624-4771-b8de-8de8c26d56fb.jpg
-  alt: Guía con viajeros junto al río, con la Mezquita al fondo
+  alt: 'Guía con viajeros junto al río, con la Mezquita al fondo'
 - src: https://imgcdn.bokun.tools/4c0bb9ba-da8f-43ce-bf9f-9ab3c002658e.jpg
-  alt: Cúpula decorada ante el mihrab
+  alt: 'Cúpula decorada ante el mihrab'
 - src: https://imgcdn.bokun.tools/ce6f9e4a-17bc-400c-bb58-5b38cb8390d6.jpg
-  alt: Viajeros en un patio con macetas azules
+  alt: 'Viajeros en un patio con macetas azules'
 bokunProductId: 793769
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

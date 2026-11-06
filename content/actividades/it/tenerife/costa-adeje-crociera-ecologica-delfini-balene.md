@@ -85,23 +85,23 @@ keywords:
 - gita in barca puerto colon
 - crociera ecologica tenerife
 - avvistamento balene tenerife con pranzo
-imagen: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-imagenAlt: Le scogliere di Los Gigantes sopra il mare
+imagen: /images/actividades/tenerife/cetaceos/calderon-cria.webp
+imagenAlt: 'Globicefali che nuotano insieme'
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Globicefali in superficie al largo di Tenerife
+  alt: 'Globicefali in superficie al largo di Tenerife'
 - src: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
-  alt: Barca a vela con passeggeri accanto ai globicefali al largo della costa sud di Tenerife
+  alt: 'Barca a vela con passeggeri accanto ai globicefali al largo della costa sud di Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: Un globicefalo di Gray da vicino
+  alt: 'Un globicefalo di Gray da vicino'
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
-  alt: Barca a vela all'ancora nella baia di Masca sotto le scogliere
+  alt: 'Barca a vela all''ancora nella baia di Masca sotto le scogliere'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Una stenella maculata atlantica
+  alt: 'Una stenella maculata atlantica'
 - src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-  alt: Le pareti di roccia delle scogliere di Los Gigantes
-- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
-  alt: Globicefali che nuotano insieme
+  alt: 'Le pareti di roccia delle scogliere di Los Gigantes'
+- src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
+  alt: 'Le scogliere di Los Gigantes sopra il mare'
 ratingProveedor: 4.6
 numeroOpiniones: 5872
 atraccionesRelacionadas:

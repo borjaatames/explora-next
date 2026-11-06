@@ -65,21 +65,21 @@ keywords:
 - torre tavira cadiz
 - cadiz camera obscura
 - cadiz cathedral tour
-imagen: /images/actividades/cadiz/torre-tavira/torre-tavira-02.webp
-imagenAlt: Torre Tavira above the rooftops of Cádiz
+imagen: /images/actividades/cadiz/torre-tavira/torre-tavira-01.webp
+imagenAlt: 'View of Cádiz from Torre Tavira'
 galeria:
-- src: /images/actividades/cadiz/torre-tavira/torre-tavira-01.webp
-  alt: View of Cádiz from Torre Tavira
+- src: /images/actividades/cadiz/torre-tavira/torre-tavira-02.webp
+  alt: 'Torre Tavira above the rooftops of Cádiz'
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-03.webp
-  alt: Torre Tavira facade
+  alt: 'Torre Tavira facade'
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-04.webp
-  alt: Cádiz roof terraces and watchtowers from the Tavira
+  alt: 'Cádiz roof terraces and watchtowers from the Tavira'
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-05.webp
-  alt: The cathedral dome from Torre Tavira
+  alt: 'The cathedral dome from Torre Tavira'
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-07.webp
-  alt: Cádiz white rooftops towards the sea
+  alt: 'Cádiz white rooftops towards the sea'
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-08.webp
-  alt: Panorama of Cádiz old town
+  alt: 'Panorama of Cádiz old town'
 ratingProveedor: 4.5
 numeroOpiniones: 65
 atraccionesRelacionadas:

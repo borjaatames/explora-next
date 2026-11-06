@@ -66,23 +66,21 @@ keywords:
 - tablao flamenco alma
 - flamenco show mallorca
 - flamenco palma
-imagen: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
-imagenAlt: Flamenco-Tänzerin in Bewegung auf einer Bühne im Halbdunkel (Symbolbild)
+imagen: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+imagenAlt: 'Tänzerin mit Manton und Gitarrist bei einer Flamenco-Show'
 galeria:
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-noche.webp
-  alt: Die Kathedrale von Palma nachts beleuchtet
+  alt: 'Die Kathedrale von Palma nachts beleuchtet'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: Hände einer Tänzerin mit Kastagnetten
+  alt: 'Hände einer Tänzerin mit Kastagnetten'
 - src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
-  alt: Die Uferpromenade von Palma bei Sonnenuntergang
+  alt: 'Die Uferpromenade von Palma bei Sonnenuntergang'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-  alt: Drehung einer Tänzerin auf der Bühne (Symbolbild)
+  alt: 'Drehung einer Tänzerin auf der Bühne (Symbolbild)'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
-  alt: Die Kathedrale von Palma unter rosafarbenem Abendhimmel
-- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-  alt: Tänzerin mit Manton und Gitarrist bei einer Flamenco-Show
+  alt: 'Die Kathedrale von Palma unter rosafarbenem Abendhimmel'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
-  alt: Flamenco-Tänzerin in Schwarz-Weiß
+  alt: 'Flamenco-Tänzerin in Schwarz-Weiß'
 ratingProveedor: 4.6
 numeroOpiniones: 1683
 atraccionesRelacionadas:

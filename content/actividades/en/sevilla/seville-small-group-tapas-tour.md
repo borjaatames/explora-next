@@ -64,17 +64,19 @@ keywords:
 - seville tapas tour
 - small group tapas tour seville
 - seville food tour
-imagen: https://imgcdn.bokun.tools/cc6015f2-1cb5-487c-a6ab-886028f2f7aa.jpeg
-imagenAlt: Potato tapa in a Seville tavern
+imagen: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-cena-tapas-bu-hero.webp
+imagenAlt: 'Assorted tapas in clay dishes'
 galeria:
+- src: https://imgcdn.bokun.tools/cc6015f2-1cb5-487c-a6ab-886028f2f7aa.jpeg
+  alt: 'Potato tapa in a Seville tavern'
 - src: https://imgcdn.bokun.tools/014d6a54-deda-4b0a-8637-848720ea3525.jpeg
-  alt: Fried eggs with ham
+  alt: 'Fried eggs with ham'
 - src: https://imgcdn.bokun.tools/a2d13bfc-54a0-483f-a2f3-49bf5d8f7279.jpeg
-  alt: Group during the tapas tour
+  alt: 'Group during the tapas tour'
 - src: https://imgcdn.bokun.tools/bba384dc-7423-48db-96bd-131968bfb5bc.png
-  alt: Inside a traditional tavern
+  alt: 'Inside a traditional tavern'
 - src: https://imgcdn.bokun.tools/3b62909a-782a-4c4b-af51-7a2e84f0e33f.png
-  alt: Seville tapas bar counter
+  alt: 'Seville tapas bar counter'
 publicada: true
 indexar: false
 destacada: false

@@ -87,21 +87,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/girona/fgi-mar/fgi-catamaran-fondeado-aguas-claras.webp
-imagenAlt: "Catamarano all'ancora in acque limpide per il bagno"
+imagen: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaran-navegando-vela.webp
+imagenAlt: 'Catamarano che naviga nel Mediterraneo'
 galeria:
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-costa-aerea.webp
-  alt: "Vista aerea della costa di Lloret de Mar con calette e pini"
+  alt: 'Vista aerea della costa di Lloret de Mar con calette e pini'
 - src: /images/actividades/girona/fgi-mar/fgi-nadador-tubo-fondo-rocoso.webp
-  alt: "Persona che nuota con maschera e boccaglio su un fondale roccioso"
+  alt: 'Persona che nuota con maschera e boccaglio su un fondale roccioso'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-rocas.webp
-  alt: "Spiaggia di sabbia con scogli a Lloret de Mar"
+  alt: 'Spiaggia di sabbia con scogli a Lloret de Mar'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
-  alt: "La baia di Lloret de Mar vista dall'alto"
+  alt: 'La baia di Lloret de Mar vista dall''alto'
 - src: /images/actividades/girona/fgi-mar/fgi-mar-a-ras-de-agua.webp
-  alt: "Il Mediterraneo a pelo d'acqua accanto alla costa rocciosa"
+  alt: 'Il Mediterraneo a pelo d''acqua accanto alla costa rocciosa'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
-  alt: "Spiaggia principale di Lloret de Mar con scogli in primo piano"
+  alt: 'Spiaggia principale di Lloret de Mar con scogli in primo piano'
 avisoReserva: 'Attività stagionale: le prossime date disponibili iniziano a maggio 2027.'
 ---
 

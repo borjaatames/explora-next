@@ -74,23 +74,21 @@ publicada: true
 destacada: false
 fecha: '2026-11-04'
 fecha_actualizacion: '2026-11-04'
-imagen: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
-imagenAlt: Danseuse de flamenco en mouvement sur une scène dans la pénombre (image d’illustration)
+imagen: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+imagenAlt: 'Danseuse avec châle et guitariste pendant un spectacle de flamenco'
 galeria:
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-noche.webp
-  alt: La cathédrale de Palma illuminée la nuit
+  alt: 'La cathédrale de Palma illuminée la nuit'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: Mains d’une danseuse avec des castagnettes
+  alt: 'Mains d’une danseuse avec des castagnettes'
 - src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
-  alt: Le front de mer de Palma au coucher du soleil
+  alt: 'Le front de mer de Palma au coucher du soleil'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-  alt: Pirouette d’une danseuse sur scène (image d’illustration)
+  alt: 'Pirouette d’une danseuse sur scène (image d’illustration)'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
-  alt: La cathédrale de Palma sous un ciel rose au coucher du soleil
-- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-  alt: Danseuse avec châle et guitariste pendant un spectacle de flamenco
+  alt: 'La cathédrale de Palma sous un ciel rose au coucher du soleil'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
-  alt: Danseuse de flamenco en noir et blanc
+  alt: 'Danseuse de flamenco en noir et blanc'
 metaTitle: 'Flamenco à Palma : Tablao Alma'
 ---
 

@@ -89,33 +89,33 @@ keywords:
 - museo del prado con guida
 - velazquez goya prado
 - biglietto prado con guida
-imagen: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp
-imagenAlt: Edificio Villanueva del Museo del Prado
+imagen: /images/actividades/madrid/prado-privado/unsplash-velazquez-door.webp
+imagenAlt: 'La Puerta de Velázquez del Museo del Prado'
 galeria:
 - src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp
-  alt: Ingresso del Museo del Prado con la statua di Goya
+  alt: 'Ingresso del Museo del Prado con la statua di Goya'
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-meninas-maids-honor-title-qs-p1476-hero.webp
-  alt: Las Meninas di Velázquez
+  alt: 'Las Meninas di Velázquez'
 - src: /images/actividades/madrid/prado-privado/wm-goya-tres-de-mayo.webp
-  alt: Il 3 maggio 1808, di Goya
+  alt: 'Il 3 maggio 1808, di Goya'
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-title-qs-hero.webp
-  alt: Il Giardino delle delizie, di Bosch
-- src: /images/actividades/madrid/prado-privado/unsplash-velazquez-door.webp
-  alt: La Puerta de Velázquez del Museo del Prado
+  alt: 'Il Giardino delle delizie, di Bosch'
+- src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp
+  alt: 'Edificio Villanueva del Museo del Prado'
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-surrender-breda-label-qs-les-2-hero.webp
-  alt: La resa di Breda, di Velázquez
+  alt: 'La resa di Breda, di Velázquez'
 - src: /images/actividades/madrid/prado-privado/wm-greco-caballero.webp
-  alt: Il cavaliere con la mano sul petto, di El Greco
+  alt: 'Il cavaliere con la mano sul petto, di El Greco'
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-apollo-forge-vulcan-label-qs-leu-hero.webp
-  alt: La fucina di Vulcano, di Velázquez
+  alt: 'La fucina di Vulcano, di Velázquez'
 - src: /images/actividades/madrid/prado-privado/unsplash-goya-statue-gardens.webp
-  alt: La statua di Goya accanto al museo
+  alt: 'La statua di Goya accanto al museo'
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-vecelli-tiziano-charles-v-muhlberg-hero.webp
-  alt: Carlo V a cavallo a Mühlberg, di Tiziano
+  alt: 'Carlo V a cavallo a Mühlberg, di Tiziano'
 - src: /images/actividades/madrid/prado-privado/wm-durero-autorretrato.webp
-  alt: Autoritratto di Dürer
+  alt: 'Autoritratto di Dürer'
 - src: /images/actividades/madrid/fuente-neptuno/fuente-neptuno-madrid-foto-11616515-hero.webp
-  alt: La Fontana di Nettuno, accanto al museo
+  alt: 'La Fontana di Nettuno, accanto al museo'
 ratingProveedor: 4.9
 numeroOpiniones: 885
 publicada: true

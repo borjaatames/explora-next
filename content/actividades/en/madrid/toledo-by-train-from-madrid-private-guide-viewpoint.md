@@ -61,9 +61,11 @@ atraccionesRelacionadas:
 categoria: excursionesDia
 keywords:
 - toledo by train from madrid private guide
-imagen: https://imgcdn.bokun.tools/c6b023be-96ca-4851-9600-21e942c71a19.jpg
-imagenAlt: 'Couple at the Valle viewpoint with Toledo behind'
+imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-bridge-spain-historical-2-hero.webp
+imagenAlt: 'Alcázar of Toledo and the Alcántara Bridge'
 galeria:
+- src: https://imgcdn.bokun.tools/c6b023be-96ca-4851-9600-21e942c71a19.jpg
+  alt: 'Couple at the Valle viewpoint with Toledo behind'
 - src: https://imgcdn.bokun.tools/da675a5e-cb0c-4b85-8477-1331d3119a2f.jpg
   alt: 'The Alcázar of Toledo'
 - src: https://imgcdn.bokun.tools/03ae4f53-00b5-42c5-820d-2a9872094ff5.jpg

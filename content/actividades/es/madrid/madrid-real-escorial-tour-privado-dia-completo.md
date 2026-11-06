@@ -62,9 +62,11 @@ keywords:
 - tour privado el escorial
 - madrid real tour privado
 - excursion privada escorial desde madrid
-imagen: https://imgcdn.bokun.tools/03e31cd2-1e93-483c-839a-cb8493139cf1.jpg
-imagenAlt: 'Fachada del Real Monasterio de San Lorenzo de El Escorial'
+imagen: /images/actividades/madrid/escorial/escorial-tour-01.webp
+imagenAlt: 'Biblioteca del Monasterio de El Escorial'
 galeria:
+- src: https://imgcdn.bokun.tools/03e31cd2-1e93-483c-839a-cb8493139cf1.jpg
+  alt: 'Fachada del Real Monasterio de San Lorenzo de El Escorial'
 - src: https://imgcdn.bokun.tools/3f443293-7ee9-4583-8e53-d0f754b8252f.jpg
   alt: 'Biblioteca del Monasterio de El Escorial con su bóveda pintada'
 - src: https://imgcdn.bokun.tools/94f75751-9ebf-4a94-9fcf-12fb649ddb4f.jpg

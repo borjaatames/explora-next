@@ -62,9 +62,11 @@ categoria: excursionesDia
 keywords:
 - toledo en tren desde madrid con guia
 - excursion toledo tren guia privado
-imagen: https://imgcdn.bokun.tools/c6b023be-96ca-4851-9600-21e942c71a19.jpg
-imagenAlt: 'Pareja en el mirador del Valle con Toledo al fondo'
+imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-bridge-spain-historical-2-hero.webp
+imagenAlt: 'Alcázar de Toledo y puente de Alcántara'
 galeria:
+- src: https://imgcdn.bokun.tools/c6b023be-96ca-4851-9600-21e942c71a19.jpg
+  alt: 'Pareja en el mirador del Valle con Toledo al fondo'
 - src: https://imgcdn.bokun.tools/da675a5e-cb0c-4b85-8477-1331d3119a2f.jpg
   alt: 'El Alcázar de Toledo'
 - src: https://imgcdn.bokun.tools/03ae4f53-00b5-42c5-820d-2a9872094ff5.jpg

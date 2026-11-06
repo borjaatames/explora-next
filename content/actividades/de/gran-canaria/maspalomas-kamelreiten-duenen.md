@@ -76,27 +76,25 @@ keywords:
 - kamele dünen maspalomas
 - maspalomas aktivitäten
 - dünen von maspalomas
-imagen: /images/actividades/gran-canaria/camellos/caravana-camellos-dunas.webp
-imagenAlt: Kamelkarawane mit Reitern, die Sanddünen durchquert
+imagen: /images/actividades/gran-canaria/camellos/camellos-ensillados-gran-canaria.webp
+imagenAlt: 'Gesattelte Kamele ruhen sich vor dem Ritt auf Gran Canaria aus'
 galeria:
-- src: /images/actividades/gran-canaria/camellos/camellos-ensillados-gran-canaria.webp
-  alt: Gesattelte Kamele ruhen sich vor dem Ritt auf Gran Canaria aus
 - src: /images/actividades/gran-canaria/dunas/dunas-crestas.webp
-  alt: Sandkämme in den Dünen von Maspalomas
+  alt: 'Sandkämme in den Dünen von Maspalomas'
 - src: /images/actividades/gran-canaria/maspalomas/dunas-maspalomas-montanas.webp
-  alt: Die Dünen von Maspalomas mit den Bergen von Gran Canaria im Hintergrund
+  alt: 'Die Dünen von Maspalomas mit den Bergen von Gran Canaria im Hintergrund'
 - src: /images/actividades/gran-canaria/dunas/charca-palmeral.webp
-  alt: Teich zwischen Palmen in den Dünen von Maspalomas
+  alt: 'Teich zwischen Palmen in den Dünen von Maspalomas'
 - src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
-  alt: Die Dünen von Maspalomas am Atlantik
+  alt: 'Die Dünen von Maspalomas am Atlantik'
 - src: /images/actividades/gran-canaria/dunas/dunas-panoramica.webp
-  alt: Eine Palme und Buschwerk in den Dünen von Maspalomas
+  alt: 'Eine Palme und Buschwerk in den Dünen von Maspalomas'
 - src: /images/actividades/gran-canaria/dunas/dunas-aerea.webp
-  alt: Eine Palme im Sand der Dünen von Maspalomas
+  alt: 'Eine Palme im Sand der Dünen von Maspalomas'
 - src: /images/actividades/gran-canaria/dunas/dunas-palmera.webp
-  alt: Die Dünen von Maspalomas unter bewölktem Himmel
+  alt: 'Die Dünen von Maspalomas unter bewölktem Himmel'
 - src: /images/actividades/gran-canaria/dunas/dunas-arena.webp
-  alt: Strand und Leuchtturm von Maspalomas neben den Dünen
+  alt: 'Strand und Leuchtturm von Maspalomas neben den Dünen'
 ratingProveedor: 4.5
 numeroOpiniones: 5263
 atraccionesRelacionadas:

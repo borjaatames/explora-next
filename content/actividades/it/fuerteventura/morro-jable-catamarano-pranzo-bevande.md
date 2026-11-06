@@ -82,27 +82,27 @@ keywords:
 - catamarano morro jable
 - gita in barca jandia con pranzo
 - catamarano delfini fuerteventura
-imagen: /images/actividades/fuerteventura/catamaran-morrojable.webp
-imagenAlt: Catamarano che naviga davanti alla costa di Jandía
+imagen: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
+imagenAlt: 'Bagnanti in acqua accanto a una barca all''ancora'
 galeria:
 - src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-  alt: Delfini che nuotano accanto a una barca davanti a Morro Jable
+  alt: 'Delfini che nuotano accanto a una barca davanti a Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: La costa di Jandía con il faro in lontananza
+  alt: 'La costa di Jandía con il faro in lontananza'
 - src: /images/actividades/fuerteventura/catamaran-morro-jable/comida-servida-a-bordo.webp
-  alt: Vassoio di cibo servito ai passeggeri su un tavolo della barca
+  alt: 'Vassoio di cibo servito ai passeggeri su un tavolo della barca'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable e la spiaggia del Matorral viste dalle colline
+  alt: 'Morro Jable e la spiaggia del Matorral viste dalle colline'
 - src: /images/actividades/fuerteventura/catamaran-morro-jable/copa-espumoso-a-bordo-catamaran.webp
-  alt: Calice di spumante sul ponte di un catamarano a vela
+  alt: 'Calice di spumante sul ponte di un catamarano a vela'
 - src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: Il massiccio di Jandía con le nuvole sulle cime
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-  alt: Bagnanti in acqua accanto a una barca all'ancora
+  alt: 'Il massiccio di Jandía con le nuvole sulle cime'
+- src: /images/actividades/fuerteventura/catamaran-morrojable.webp
+  alt: 'Catamarano che naviga davanti alla costa di Jandía'
 - src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: La costa sopravvento di Jandía
+  alt: 'La costa sopravvento di Jandía'
 - src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
-  alt: Il faro di Morro Jable tra la vegetazione della salina
+  alt: 'Il faro di Morro Jable tra la vegetazione della salina'
 ratingProveedor: 4.4
 numeroOpiniones: 1786
 atraccionesRelacionadas:

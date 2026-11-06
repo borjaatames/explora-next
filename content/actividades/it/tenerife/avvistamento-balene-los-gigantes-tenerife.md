@@ -72,23 +72,23 @@ keywords:
 - globicefali tenerife
 - gita in barca los gigantes
 - avvistamento delfini tenerife
-imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-imagenAlt: Le scogliere di Los Gigantes che si alzano dal mare, a Tenerife
+imagen: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
+imagenAlt: 'Un delfino che nuota in superficie'
 galeria:
 - src: /images/actividades/tenerife/gigantes/costa-acantilado-velero.webp
-  alt: "Costa e scogliere viste da una barca per l'avvistamento"
-- src: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
-  alt: "Un delfino che nuota in superficie"
+  alt: 'Costa e scogliere viste da una barca per l''avvistamento'
+- src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
+  alt: 'Le scogliere di Los Gigantes che si alzano dal mare, a Tenerife'
 - src: /images/actividades/tenerife/gigantes/gigantes-pueblo.webp
-  alt: Il paese di Los Gigantes, a Tenerife
+  alt: 'Il paese di Los Gigantes, a Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: Un globicefalo che affiora vicino alla barca, a Tenerife
+  alt: 'Un globicefalo che affiora vicino alla barca, a Tenerife'
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
-  alt: La costa vicino a Los Gigantes, a Tenerife
+  alt: 'La costa vicino a Los Gigantes, a Tenerife'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Una stenella maculata atlantica al largo di Tenerife
+  alt: 'Una stenella maculata atlantica al largo di Tenerife'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-  alt: Il mare aperto sotto le scogliere di Los Gigantes
+  alt: 'Il mare aperto sotto le scogliere di Los Gigantes'
 ratingProveedor: 4.7
 numeroOpiniones: 5888
 atraccionesRelacionadas:

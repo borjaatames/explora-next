@@ -63,19 +63,21 @@ keywords:
 - alpujarra from nerja
 - private alpujarra day trip
 - pampaneira capileira from nerja
-imagen: https://imgcdn.bokun.tools/8b30cb0e-3e46-46d1-b389-53960182e001.jpg
-imagenAlt: Alpujarra village on the slopes of Sierra Nevada
+imagen: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-vista-de-capileira-jpg.webp
+imagenAlt: 'Alpujarra village below Sierra Nevada'
 galeria:
+- src: https://imgcdn.bokun.tools/8b30cb0e-3e46-46d1-b389-53960182e001.jpg
+  alt: 'Alpujarra village on the slopes of Sierra Nevada'
 - src: https://imgcdn.bokun.tools/7abd6e3d-e14b-4d34-b7c1-dd271c24515b.jpg
-  alt: Alpujarra landscape with white villages
+  alt: 'Alpujarra landscape with white villages'
 - src: https://imgcdn.bokun.tools/1f369359-b8fb-4e84-8109-cd46a5699612.jpg
-  alt: Traveller at an Alpujarra viewpoint
+  alt: 'Traveller at an Alpujarra viewpoint'
 - src: https://imgcdn.bokun.tools/d69fe887-f0d6-4094-b34b-75baaf662c71.jpg
-  alt: Visiting a traditional Alpujarra house
+  alt: 'Visiting a traditional Alpujarra house'
 - src: https://imgcdn.bokun.tools/36e5b8a8-ee8b-47b9-b3ab-571a9515f7ae.jpg
-  alt: Shop selling local products
+  alt: 'Shop selling local products'
 - src: https://imgcdn.bokun.tools/4983bd3a-fbf5-4ccd-888c-217fd42276b6.jpg
-  alt: Street with flowers in an Alpujarra village
+  alt: 'Street with flowers in an Alpujarra village'
 publicada: true
 indexar: false
 destacada: false

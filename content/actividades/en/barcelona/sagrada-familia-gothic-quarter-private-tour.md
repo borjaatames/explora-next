@@ -57,19 +57,21 @@ categoria: visitasGuiadas
 keywords:
 - sagrada familia gothic quarter private tour
 - private barcelona tour gothic sagrada familia
-imagen: https://imgcdn.bokun.tools/1ffc6803-d469-49ab-b734-6c83bbd1b281.jpg
-imagenAlt: "Façade of Barcelona Cathedral"
+imagen: /images/actividades/barcelona/fotos-biblioteca/wikimedia-05.webp
+imagenAlt: 'Barcelona Cathedral'
 galeria:
+- src: https://imgcdn.bokun.tools/1ffc6803-d469-49ab-b734-6c83bbd1b281.jpg
+  alt: 'Façade of Barcelona Cathedral'
 - src: https://imgcdn.bokun.tools/5b618043-9120-4dab-920f-ce6b92d07d31.jpg
-  alt: "Roman towers and Plaça Nova in the Gothic Quarter"
+  alt: 'Roman towers and Plaça Nova in the Gothic Quarter'
 - src: https://imgcdn.bokun.tools/4fa6e683-c3b7-413b-be8a-bb6e219c347c.jpg
-  alt: "Towers of the Sagrada Família"
+  alt: 'Towers of the Sagrada Família'
 - src: https://imgcdn.bokun.tools/8fd9a173-a6f8-462a-84d6-219f893e4154.jpg
-  alt: "Vaults inside the Sagrada Família"
+  alt: 'Vaults inside the Sagrada Família'
 - src: https://imgcdn.bokun.tools/ad4b35a9-8752-4e90-8867-45e699539863.jpg
-  alt: "Stained glass of the Sagrada Família"
+  alt: 'Stained glass of the Sagrada Família'
 - src: https://imgcdn.bokun.tools/67c77841-0907-401c-a948-87ecd626d71c.jpg
-  alt: "Group with their guide inside the Sagrada Família"
+  alt: 'Group with their guide inside the Sagrada Família'
 publicada: true
 indexar: false
 destacada: false

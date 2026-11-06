@@ -62,29 +62,31 @@ keywords:
 - bernabeu tuk tuk
 - tuk tuk madrid
 - salamanca district tour madrid
-imagen: https://imgcdn.bokun.tools/88cd0b10-13a2-4996-bf46-d857481853a5.jpeg
-imagenAlt: Group of travelers next to an electric tuk-tuk in Madrid
+imagen: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
+imagenAlt: 'The renovated Santiago Bernabéu Stadium'
 galeria:
+- src: https://imgcdn.bokun.tools/88cd0b10-13a2-4996-bf46-d857481853a5.jpeg
+  alt: 'Group of travelers next to an electric tuk-tuk in Madrid'
 - src: https://imgcdn.bokun.tools/e4a98eac-d28c-4d57-a190-8ba7bacd289d.png
-  alt: Santiago Bernabéu Stadium
+  alt: 'Santiago Bernabéu Stadium'
 - src: https://imgcdn.bokun.tools/a4d181f5-af77-4b0f-a512-8a4bbe803a7c.png
-  alt: Puerta de Alcalá
+  alt: 'Puerta de Alcalá'
 - src: https://imgcdn.bokun.tools/40ab7bb1-e39e-4f2b-8ca2-903ea3608819.png
-  alt: Tuk-tuk by the Neptune Fountain
+  alt: 'Tuk-tuk by the Neptune Fountain'
 - src: https://imgcdn.bokun.tools/88a04138-ebeb-4c46-ad3d-80a7f46ae7c7.jpeg
-  alt: Travelers smiling inside the tuk-tuk
+  alt: 'Travelers smiling inside the tuk-tuk'
 - src: https://imgcdn.bokun.tools/24ac3adc-188f-4397-9f55-1d53b99f6b9e.jpeg
-  alt: Discovery Gardens in Plaza de Colón
+  alt: 'Discovery Gardens in Plaza de Colón'
 - src: https://imgcdn.bokun.tools/a97f4e54-39dc-4dc8-a3f7-7216876008be.jpeg
-  alt: Four friends sitting in the tuk-tuk
+  alt: 'Four friends sitting in the tuk-tuk'
 - src: https://imgcdn.bokun.tools/c702d118-649f-41ee-a36c-25238b2b3de0.png
-  alt: Luxury shop on Calle Serrano
+  alt: 'Luxury shop on Calle Serrano'
 - src: https://imgcdn.bokun.tools/c4c6b793-97d9-4c88-8c2d-701f0d38a482.jpeg
-  alt: Passengers in a turquoise electric tuk-tuk
+  alt: 'Passengers in a turquoise electric tuk-tuk'
 - src: https://imgcdn.bokun.tools/540e0b20-c956-47dd-beb3-047a308f1be2.jpeg
-  alt: Travelers looking at the route leaflet
+  alt: 'Travelers looking at the route leaflet'
 - src: https://imgcdn.bokun.tools/077bc280-8bc8-49c3-b9cb-2c25b356c334.jpeg
-  alt: Two travelers in front of the Spanish Parliament at night
+  alt: 'Two travelers in front of the Spanish Parliament at night'
 publicada: true
 destacada: false
 fecha: '2026-10-07'

@@ -63,9 +63,11 @@ atraccionesRelacionadas:
 categoria: visitasGuiadas
 keywords:
 - toledo private walking tour tickets
-imagen: https://imgcdn.bokun.tools/5d731dbd-226d-4d07-a13a-bba6e42582dc.jpg
-imagenAlt: 'The Cristo de la Luz mosque at night'
+imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-spain-unesco-world-heritage-site-hero.webp
+imagenAlt: 'View of Toledo with the Alcázar'
 galeria:
+- src: https://imgcdn.bokun.tools/5d731dbd-226d-4d07-a13a-bba6e42582dc.jpg
+  alt: 'The Cristo de la Luz mosque at night'
 - src: https://imgcdn.bokun.tools/acecb1db-f8b8-46cb-805b-fbef526be20a.jpg
   alt: 'Toledo above the Tagus'
 - src: https://imgcdn.bokun.tools/0b26a025-de70-41aa-bf29-06b1264e884c.jpg

@@ -71,25 +71,27 @@ keywords:
 - seville guided tour from malaga
 - seville full day from malaga
 - private seville trip
-imagen: https://imgcdn.bokun.tools/2201e4ce-7bc0-42f0-90f4-8d0702b7edb5.jpg
-imagenAlt: The Giralda seen from below with travellers
+imagen: /images/actividades/sevilla/acuario-sevilla/boveda-mudejar-arcos-sevilla.webp
+imagenAlt: 'Baths of Doña María de Padilla in the Royal Alcázar of Seville'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: https://imgcdn.bokun.tools/2201e4ce-7bc0-42f0-90f4-8d0702b7edb5.jpg
+  alt: 'The Giralda seen from below with travellers'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
-  alt: Seville Cathedral and the Giralda
+  alt: 'Seville Cathedral and the Giralda'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
-  alt: Wide view of Seville's Plaza de España
+  alt: 'Wide view of Seville''s Plaza de España'
 - src: https://imgcdn.bokun.tools/6b9acedb-4c85-4778-b40b-091bbd481fc7.jpg
-  alt: Travellers sitting on a tiled bench in Plaza de España
+  alt: 'Travellers sitting on a tiled bench in Plaza de España'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp
-  alt: Seville Cathedral and the Giralda at dusk
+  alt: 'Seville Cathedral and the Giralda at dusk'
 - src: https://imgcdn.bokun.tools/a0b39878-ba5c-4919-ac0b-be6af6061bea.jpg
-  alt: The Guadalquivir river in Seville
+  alt: 'The Guadalquivir river in Seville'
 - src: https://imgcdn.bokun.tools/9409d5d8-4e85-4a42-9f98-0d5e9e5fce6f.jpg
-  alt: The Cathedral and the Giralda above Seville's rooftops
+  alt: 'The Cathedral and the Giralda above Seville''s rooftops'
 bokunProductId: 990352
 fecha_actualizacion: '2026-10-24'
 privada: true

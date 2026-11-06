@@ -57,19 +57,21 @@ categoria: visitasGuiadas
 keywords:
 - gaudi sagrada familia small group tour
 - gaudi walking tour barcelona sagrada familia tickets
-imagen: https://imgcdn.bokun.tools/fa16b9ff-bcfc-467d-aa1d-3064c85bdbba.jpg
-imagenAlt: "Group in front of the Nativity façade of the Sagrada Família"
+imagen: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-03.webp
+imagenAlt: 'Façade of the Sagrada Familia'
 galeria:
+- src: https://imgcdn.bokun.tools/fa16b9ff-bcfc-467d-aa1d-3064c85bdbba.jpg
+  alt: 'Group in front of the Nativity façade of the Sagrada Família'
 - src: https://imgcdn.bokun.tools/6f5f3b0b-b2f8-47a5-80ed-73a1bc1700d5.jpg
-  alt: "Visitors taking a selfie near the Sagrada Família"
+  alt: 'Visitors taking a selfie near the Sagrada Família'
 - src: https://imgcdn.bokun.tools/7ab2e9f9-ee80-460c-abf6-db3c9d398fd1.jpg
-  alt: "Visitor photographing the Sagrada Família stained glass"
+  alt: 'Visitor photographing the Sagrada Família stained glass'
 - src: https://imgcdn.bokun.tools/7f51e259-201b-4798-89ec-227e60bf4b74.jpg
-  alt: "Group selfie in front of the Sagrada Família"
+  alt: 'Group selfie in front of the Sagrada Família'
 - src: https://imgcdn.bokun.tools/3fd5fb45-380b-47ad-9429-1de26e35174d.jpg
-  alt: "Visitors taking photos at the Sagrada Família"
+  alt: 'Visitors taking photos at the Sagrada Família'
 - src: https://imgcdn.bokun.tools/a6463a5a-0d50-489b-8af3-d6120faf7cf3.jpg
-  alt: "Visitor photographing the façade of Casa Batlló"
+  alt: 'Visitor photographing the façade of Casa Batlló'
 publicada: true
 indexar: false
 destacada: false

@@ -65,15 +65,17 @@ keywords:
 - italica desde sevilla
 - visita privada italica recogida hotel
 - ruinas italica tour privado
-imagen: https://imgcdn.bokun.tools/64bf5f6a-b698-4381-ba5d-ee18adad938f.jpg
-imagenAlt: El anfiteatro romano de Itálica
+imagen: /images/actividades/sevilla/fotos-biblioteca/01.webp
+imagenAlt: 'Anfiteatro romano de Itálica'
 galeria:
+- src: https://imgcdn.bokun.tools/64bf5f6a-b698-4381-ba5d-ee18adad938f.jpg
+  alt: 'El anfiteatro romano de Itálica'
 - src: https://imgcdn.bokun.tools/471a2546-b12d-483d-9c3c-1628d6f5d62d.jpg
-  alt: Gradas del anfiteatro de Itálica
+  alt: 'Gradas del anfiteatro de Itálica'
 - src: https://imgcdn.bokun.tools/018f070a-bf60-4476-ab71-da5e2232c0e0.jpg
-  alt: Ruinas de la ciudad romana de Itálica
+  alt: 'Ruinas de la ciudad romana de Itálica'
 - src: https://imgcdn.bokun.tools/c5bbf131-350e-4527-ad51-a593753d5a00.jpg
-  alt: Vehículo privado del traslado
+  alt: 'Vehículo privado del traslado'
 publicada: true
 indexar: false
 destacada: false

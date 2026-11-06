@@ -92,19 +92,17 @@ keywords:
 - flamenco campo del príncipe
 - spectacle flamenco centre grenade
 - flamenco accessible grenade
-imagen: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaora-bata-lunares.webp
-imagenAlt: Danseuse en robe à traîne au Teatro Flamenco Granada
+imagen: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
+imagenAlt: 'Danseuses en rouge dans le spectacle Sensaciones'
 galeria:
 - src: /images/actividades/granada/albaicin/albaicin-pexels-30359825.webp
-  alt: Maisons blanches de l'Albaicín, à Grenade
+  alt: 'Maisons blanches de l''Albaicín, à Grenade'
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-cuadro-baile.webp
-  alt: Troupe de danse sur la scène du Teatro Flamenco Granada
+  alt: 'Troupe de danse sur la scène du Teatro Flamenco Granada'
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-sala-teatro.webp
-  alt: Salle et scène du Teatro Flamenco Granada
-- src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
-  alt: Danseuses en rouge dans le spectacle Sensaciones
+  alt: 'Salle et scène du Teatro Flamenco Granada'
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: L'Albaicín en fin d'après-midi
+  alt: 'L''Albaicín en fin d''après-midi'
 ratingProveedor: 4.8
 numeroOpiniones: 788
 publicada: true

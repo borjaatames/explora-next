@@ -59,19 +59,21 @@ categoria: visitasGuiadas
 keywords:
 - ciudad artes ciencias visita privada
 - arquitectura calatrava valencia tour
-imagen: https://imgcdn.bokun.tools/4208d142-facb-494f-93b9-41324680af0e.jpg
-imagenAlt: "Viajera ante la Ciudad de las Artes y las Ciencias"
+imagen: /images/actividades/valencia/ciudad-artes-ciencias/hemisféric-ciudad-artes-valencia.webp
+imagenAlt: 'Hemisfèric de la Ciudad de las Artes y las Ciencias'
 galeria:
+- src: https://imgcdn.bokun.tools/4208d142-facb-494f-93b9-41324680af0e.jpg
+  alt: 'Viajera ante la Ciudad de las Artes y las Ciencias'
 - src: https://imgcdn.bokun.tools/f56dbfe3-8dd4-4e63-a31e-08d42ac95abb.jpg
-  alt: "Puente y Palau de les Arts en la Ciudad de las Artes"
+  alt: 'Puente y Palau de les Arts en la Ciudad de las Artes'
 - src: https://imgcdn.bokun.tools/90f48d4f-e869-4832-99f4-2213f0c77527.jpg
-  alt: "Visitantes con su guía en una calle del casco antiguo"
+  alt: 'Visitantes con su guía en una calle del casco antiguo'
 - src: https://imgcdn.bokun.tools/eb05972e-c1bd-48b9-8605-4ba0d3487eec.jpg
-  alt: "Museo de las Ciencias y Hemisfèric sobre el agua"
+  alt: 'Museo de las Ciencias y Hemisfèric sobre el agua'
 - src: https://imgcdn.bokun.tools/79c30c0d-e770-4e35-98ae-59b89acfe2ed.jpg
-  alt: "Pareja en una fiesta nocturna en Valencia"
+  alt: 'Pareja en una fiesta nocturna en Valencia'
 - src: https://imgcdn.bokun.tools/c8084ebf-e1a9-412e-b7c1-662ef9b4813b.jpg
-  alt: "Visitantes paseando por la Ciudad de las Artes y las Ciencias"
+  alt: 'Visitantes paseando por la Ciudad de las Artes y las Ciencias'
 publicada: true
 indexar: false
 destacada: false

@@ -84,23 +84,23 @@ keywords:
 - catamarano fondo di vetro tenerife
 - delfini sud tenerife
 - gita in barca los cristianos
-imagen: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
-imagenAlt: Barche ormeggiate nel porto di Los Cristianos
+imagen: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+imagenAlt: 'Globicefalo di Gray che respira in superficie'
 galeria:
 - src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
-  alt: Imbarcazione per l'avvistamento con passeggeri accanto a un branco di globicefali a Tenerife
+  alt: 'Imbarcazione per l''avvistamento con passeggeri accanto a un branco di globicefali a Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Globicefali in superficie al largo della costa di Tenerife
-- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
-  alt: Globicefalo di Gray che respira in superficie
+  alt: 'Globicefali in superficie al largo della costa di Tenerife'
+- src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
+  alt: 'Barche ormeggiate nel porto di Los Cristianos'
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
-  alt: La baia di Los Cristianos vista dalla riva
+  alt: 'La baia di Los Cristianos vista dalla riva'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Stenella maculata atlantica nelle acque delle Canarie
+  alt: 'Stenella maculata atlantica nelle acque delle Canarie'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: La Montaña de Guaza accanto a Los Cristianos
+  alt: 'La Montaña de Guaza accanto a Los Cristianos'
 - src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Globicefalo che soffia nelle acque del sud di Tenerife
+  alt: 'Globicefalo che soffia nelle acque del sud di Tenerife'
 ratingProveedor: 4.6
 numeroOpiniones: 15598
 atraccionesRelacionadas:

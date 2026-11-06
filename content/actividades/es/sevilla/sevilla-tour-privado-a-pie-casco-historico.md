@@ -63,19 +63,21 @@ keywords:
 - tour privado sevilla a pie
 - guia privado sevilla
 - visita guiada privada casco historico sevilla
-imagen: https://imgcdn.bokun.tools/12611639-ad8d-4d74-be30-b71854b01152.jpeg
-imagenAlt: La Plaza de España de Sevilla
+imagen: /images/actividades/sevilla/archivo-indias/archivo-indias-wikimedia-sevilla-archivo-general-de-indias-k01-jp-02.webp
+imagenAlt: 'Archivo de Indias en el centro histórico de Sevilla'
 galeria:
+- src: https://imgcdn.bokun.tools/12611639-ad8d-4d74-be30-b71854b01152.jpeg
+  alt: 'La Plaza de España de Sevilla'
 - src: https://imgcdn.bokun.tools/468a892f-290c-4cd3-ab2a-0b6298206b43.jpeg
-  alt: Paseo con el guía por Sevilla
+  alt: 'Paseo con el guía por Sevilla'
 - src: https://imgcdn.bokun.tools/439e9b45-75a5-414a-8ec8-71272720549f.jpeg
-  alt: Detalle del centro histórico de Sevilla
+  alt: 'Detalle del centro histórico de Sevilla'
 - src: https://imgcdn.bokun.tools/56c1ecc8-992f-45e3-8e96-d8fccc6bd4e8.jpeg
-  alt: Sevilla durante el tour (foto del proveedor)
+  alt: 'Sevilla durante el tour (foto del proveedor)'
 - src: https://imgcdn.bokun.tools/0e7c5ef1-5001-44fc-8a88-77d2647ded5f.jpeg
-  alt: Sevilla durante el tour (foto del proveedor)
+  alt: 'Sevilla durante el tour (foto del proveedor)'
 - src: https://imgcdn.bokun.tools/33343e87-1674-45e4-bda4-9d3ed0eed3d9.jpeg
-  alt: Sevilla durante el tour (foto del proveedor)
+  alt: 'Sevilla durante el tour (foto del proveedor)'
 publicada: true
 indexar: false
 destacada: false

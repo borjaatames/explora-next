@@ -72,23 +72,23 @@ keywords:
 - tour privado ronda
 - granada ronda en coche privado
 - day trip ronda granada
-imagen: https://imgcdn.bokun.tools/a3e9afff-0a0a-48b7-a951-261b60a0fc1d.jpg
-imagenAlt: Vista aérea de Ronda sobre el Tajo
+imagen: /images/actividades/granada/ronda/ronda-wikimedia-ronda-view-from-puente-nuevo-5-jpg.webp
+imagenAlt: 'Parador y Puente Nuevo sobre el acantilado'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
-  alt: Puente Nuevo de Ronda y las casas sobre el Tajo
+  alt: 'Puente Nuevo de Ronda y las casas sobre el Tajo'
 - src: https://imgcdn.bokun.tools/472c87f7-1d34-494b-b4f1-d40081d6ff07.jpg
-  alt: Pareja ante el Puente Nuevo de Ronda
+  alt: 'Pareja ante el Puente Nuevo de Ronda'
 - src: /images/actividades/granada/ronda/ronda-pixabay-7493552.webp
-  alt: Ronda colgada sobre el Tajo
+  alt: 'Ronda colgada sobre el Tajo'
 - src: https://imgcdn.bokun.tools/b26c9cc0-d9d4-4c44-9572-50e987aac592.jpg
-  alt: El Puente Nuevo sobre el Tajo de Ronda
-- src: /images/actividades/granada/ronda/ronda-wikimedia-ronda-view-from-puente-nuevo-5-jpg.webp
-  alt: Parador y Puente Nuevo sobre el acantilado
+  alt: 'El Puente Nuevo sobre el Tajo de Ronda'
+- src: https://imgcdn.bokun.tools/a3e9afff-0a0a-48b7-a951-261b60a0fc1d.jpg
+  alt: 'Vista aérea de Ronda sobre el Tajo'
 bokunProductId: 841521
 fecha_actualizacion: '2026-10-24'
 privada: true

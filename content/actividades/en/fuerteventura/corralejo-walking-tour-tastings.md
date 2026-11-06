@@ -74,23 +74,21 @@ keywords:
 - corralejo food tour
 - corralejo walking tour
 - fuerteventura local food
-imagen: /images/actividades/fuerteventura/corralejo-walking.webp
-imagenAlt: A street in Corralejo's old town by the sea
+imagen: /images/actividades/fuerteventura/corralejo/corralejo-calle-de-la-iglesia.webp
+imagenAlt: 'Calle de la Iglesia, the pedestrian street of Corralejo''s old town'
 galeria:
-- src: /images/actividades/fuerteventura/corralejo/corralejo-calle-de-la-iglesia.webp
-  alt: Calle de la Iglesia, the pedestrian street of Corralejo's old town
 - src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
-  alt: Boats in Corralejo harbour
+  alt: 'Boats in Corralejo harbour'
 - src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Wrinkled potatoes with green mojo, a typical Canarian dish
+  alt: 'Wrinkled potatoes with green mojo, a typical Canarian dish'
 - src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
-  alt: Excursion boats in Corralejo harbour
+  alt: 'Excursion boats in Corralejo harbour'
 - src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Majorera goat, the native breed whose milk is used for Majorero cheese
+  alt: 'Majorera goat, the native breed whose milk is used for Majorero cheese'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos.webp
-  alt: Lobos Island from the Fuerteventura coast
+  alt: 'Lobos Island from the Fuerteventura coast'
 - src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
-  alt: Walking across the white dunes of Corralejo
+  alt: 'Walking across the white dunes of Corralejo'
 ratingProveedor: 4.9
 numeroOpiniones: 515
 atraccionesRelacionadas:

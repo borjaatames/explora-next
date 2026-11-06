@@ -71,25 +71,25 @@ keywords:
 - picasso birthplace tour
 - private picasso tour malaga
 - picasso museum with guide
-imagen: https://imgcdn.bokun.tools/a6f0dfad-e4b5-4a98-923d-99a6b288d508.jpeg
-imagenAlt: 'Inside the Church of Santiago in Málaga'
+imagen: /images/actividades/malaga/museo-picasso/fachada-museo.webp
+imagenAlt: 'Façade with the Picasso Museum Málaga sign'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/a6f0dfad-e4b5-4a98-923d-99a6b288d508.jpeg
-  alt: Inside the Church of Santiago in Málaga
+  alt: 'Inside the Church of Santiago in Málaga'
 - src: /images/actividades/malaga/museo-picasso/patio-buenavista.webp
-  alt: Arcaded courtyard of the Buenavista Palace, home of the Picasso Museum Málaga
+  alt: 'Arcaded courtyard of the Buenavista Palace, home of the Picasso Museum Málaga'
 - src: https://imgcdn.bokun.tools/d49d5b24-403e-469a-bf98-2e450e6a36d1.jpeg
-  alt: Statue of Picasso sitting on a bench in Plaza de la Merced
+  alt: 'Statue of Picasso sitting on a bench in Plaza de la Merced'
 - src: https://imgcdn.bokun.tools/ba4299f9-4ed0-4aa8-accf-582829e6f64e.jpeg
-  alt: Buildings on Plaza de la Merced, home of the Birthplace Museum
-- src: /images/actividades/malaga/museo-picasso/fachada-museo.webp
-  alt: Façade with the Picasso Museum Málaga sign
+  alt: 'Buildings on Plaza de la Merced, home of the Birthplace Museum'
+- src: https://imgcdn.bokun.tools/a6f0dfad-e4b5-4a98-923d-99a6b288d508.jpeg
+  alt: 'Inside the Church of Santiago in Málaga'
 - src: https://imgcdn.bokun.tools/96bbe9da-abf4-4d20-917d-9cafad4de9bf.jpeg
-  alt: White gallery room with works on display
+  alt: 'White gallery room with works on display'
 bokunProductId: 936430
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

@@ -73,11 +73,11 @@ keywords:
 - flamenco tablao madrid günstig
 - flamenco königspalast madrid
 - flamenco madrid authentisch
-imagen: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-imagenAlt: 'Tänzerin und Musiker in einem kleinen Flamenco-Tablao'
+imagen: /images/actividades/cordoba/flamenco/palmas.webp
+imagenAlt: 'Flamenco-Klatschen in Madrid'
 galeria:
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: 'Flamenco-Klatschen in Madrid'
+- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
+  alt: 'Tänzerin und Musiker in einem kleinen Flamenco-Tablao'
 - src: /images/actividades/cordoba/flamenco/guitarrista.webp
   alt: 'Flamencogitarrist'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp

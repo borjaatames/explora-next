@@ -63,23 +63,25 @@ keywords:
 - ruta dali privada desde barcelona
 - figueres cadaques portlligat excursion
 - triangulo daliniano tour privado
-imagen: https://imgcdn.bokun.tools/ed24930d-5d16-446b-8682-259322fd33f8.jpg
-imagenAlt: "Patio del Teatro-Museo Dalí en Figueres"
+imagen: /images/actividades/girona/cadaques/cadaques-pueblo-blanco.webp
+imagenAlt: 'Bahía de Cadaqués'
 galeria:
+- src: https://imgcdn.bokun.tools/ed24930d-5d16-446b-8682-259322fd33f8.jpg
+  alt: 'Patio del Teatro-Museo Dalí en Figueres'
 - src: https://imgcdn.bokun.tools/a6ee48cc-4a02-4a12-a05e-4d94665e9fcb.jpg
-  alt: "Amigos probando vino tinto en un viñedo"
+  alt: 'Amigos probando vino tinto en un viñedo'
 - src: https://imgcdn.bokun.tools/7b1bfc2c-26ba-4613-abb1-75a881584519.jpg
-  alt: "Teatro-Museo Dalí en Figueres"
+  alt: 'Teatro-Museo Dalí en Figueres'
 - src: https://imgcdn.bokun.tools/144912f7-bb4a-45d1-94aa-d4bdf5995b63.jpg
-  alt: "Visitantes con su guía en un viñedo"
+  alt: 'Visitantes con su guía en un viñedo'
 - src: https://imgcdn.bokun.tools/7a48c580-b947-4a3b-95f6-d126b6336227.jpg
-  alt: "Paseo junto al mar entre casas blancas en Cadaqués"
+  alt: 'Paseo junto al mar entre casas blancas en Cadaqués'
 - src: https://imgcdn.bokun.tools/a18d5e5e-fd35-4cba-bf2d-7d9c2105034c.jpg
-  alt: "Amigas brindando con vino blanco en una comida"
+  alt: 'Amigas brindando con vino blanco en una comida'
 - src: https://imgcdn.bokun.tools/fafd17be-615f-4a47-a268-ac12ebb8b8ba.jpg
-  alt: "Arroz negro y tapas en una terraza"
+  alt: 'Arroz negro y tapas en una terraza'
 - src: https://imgcdn.bokun.tools/0298a7b0-73c4-4df1-be9d-bcd43ef27725.jpg
-  alt: "Viajera frente a las casas blancas de Cadaqués"
+  alt: 'Viajera frente a las casas blancas de Cadaqués'
 publicada: true
 indexar: false
 destacada: false

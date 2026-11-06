@@ -69,25 +69,25 @@ keywords:
 - tarifa day trip from seville
 - baelo claudia and tarifa tour
 - bolonia baelo claudia private tour
-imagen: https://imgcdn.bokun.tools/538687cb-0599-4e48-9f20-03e6a8b0cec3.jpeg
-imagenAlt: Columns of the Baelo Claudia basilica facing the sea
+imagen: /images/actividades/cadiz/baelo-claudia/baelo-claudia-02.webp
+imagenAlt: 'Fish-salting factory at Baelo Claudia'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-01.webp
-  alt: Roman ruins of Baelo Claudia by the sea
-- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-02.webp
-  alt: Fish-salting factory at Baelo Claudia
+  alt: 'Roman ruins of Baelo Claudia by the sea'
+- src: https://imgcdn.bokun.tools/538687cb-0599-4e48-9f20-03e6a8b0cec3.jpeg
+  alt: 'Columns of the Baelo Claudia basilica facing the sea'
 - src: https://imgcdn.bokun.tools/3a316ee4-483d-4a24-9fb7-6cf05800451c.jpeg
-  alt: Ruins of Baelo Claudia by the coast
+  alt: 'Ruins of Baelo Claudia by the coast'
 - src: https://imgcdn.bokun.tools/68be5306-3ce9-4754-a0cb-debd1d967bc1.jpeg
-  alt: Bolonia dune and beach
+  alt: 'Bolonia dune and beach'
 - src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-03.webp
-  alt: Columns of the Baelo Claudia basilica
+  alt: 'Columns of the Baelo Claudia basilica'
 - src: /images/actividades/cadiz/tarifa/tarifa-playa-los-lances-kitesurf.webp
-  alt: Playa de los Lances in Tarifa with kitesurfing kites
+  alt: 'Playa de los Lances in Tarifa with kitesurfing kites'
 bokunProductId: 132421
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -67,25 +67,25 @@ keywords:
 - seville private tapas tour
 - tapas route triana
 - traditional taverns triana seville
-imagen: https://imgcdn.bokun.tools/6319c4ac-da09-4f3c-a260-29e80538a2d0.jpg
-imagenAlt: Glass of wine and a tapa of meat in sauce on the bar
+imagen: /images/actividades/sevilla/triana/triana-pexels-40246298.webp
+imagenAlt: 'Colourful houses on Calle Betis in Triana'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-  alt: Triana Bridge over the Guadalquivir
-- src: /images/actividades/sevilla/triana/triana-pexels-40246298.webp
-  alt: Colourful houses on Calle Betis in Triana
+  alt: 'Triana Bridge over the Guadalquivir'
+- src: https://imgcdn.bokun.tools/6319c4ac-da09-4f3c-a260-29e80538a2d0.jpg
+  alt: 'Glass of wine and a tapa of meat in sauce on the bar'
 - src: https://imgcdn.bokun.tools/8236f07d-be67-4e29-bb18-1991868d6cdb.jpg
-  alt: Travellers toasting at a tavern bar
+  alt: 'Travellers toasting at a tavern bar'
 - src: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-sevilla-jpg-03.webp
-  alt: Ham and deli stalls inside the Mercado de Triana
+  alt: 'Ham and deli stalls inside the Mercado de Triana'
 - src: https://imgcdn.bokun.tools/ebce970c-c5d0-4109-b45d-67186cefb3b8.jpg
-  alt: Tour group in a traditional tavern
+  alt: 'Tour group in a traditional tavern'
 - src: https://imgcdn.bokun.tools/2cf8b793-4b48-4102-9b04-61ff9e3e7b3b.jpg
-  alt: Travellers with wine on a bar terrace
+  alt: 'Travellers with wine on a bar terrace'
 bokunProductId: 933456
 fecha_actualizacion: '2026-10-24'
 privada: true

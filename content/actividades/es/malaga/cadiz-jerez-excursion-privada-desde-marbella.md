@@ -63,23 +63,25 @@ keywords:
 - cadiz y jerez desde marbella
 - excursion privada cadiz jerez
 - bodega jerez desde marbella
-imagen: https://imgcdn.bokun.tools/82542bf3-a03b-4ead-9ff2-7fa8abd4f1b5.jpg
-imagenAlt: Barricas de vino en una bodega de Jerez
+imagen: /images/actividades/malaga/fotos-biblioteca/wikimedia-01.webp
+imagenAlt: 'Catedral de Jerez iluminada'
 galeria:
+- src: https://imgcdn.bokun.tools/82542bf3-a03b-4ead-9ff2-7fa8abd4f1b5.jpg
+  alt: 'Barricas de vino en una bodega de Jerez'
 - src: https://imgcdn.bokun.tools/05bbf04b-6e1d-4ff5-8b40-de883f80fb2f.jpg
-  alt: Viajera en la costa de Cádiz
+  alt: 'Viajera en la costa de Cádiz'
 - src: https://imgcdn.bokun.tools/d2cc6ea1-e6de-4324-bd63-977c05cf574d.jpg
-  alt: Calle del centro de Cádiz
+  alt: 'Calle del centro de Cádiz'
 - src: https://imgcdn.bokun.tools/077bbff3-74ea-4990-a0c7-5eb5ec90aeb4.jpg
-  alt: Pescado en el mercado de Cádiz
+  alt: 'Pescado en el mercado de Cádiz'
 - src: https://imgcdn.bokun.tools/f98f6d36-56c4-4eb6-8fab-aa15e1fb0a3b.jpg
-  alt: Puesto del mercado de abastos
+  alt: 'Puesto del mercado de abastos'
 - src: https://imgcdn.bokun.tools/30974ce0-f01c-4642-9b62-d6d5e0f6d540.jpg
-  alt: Copa de vino de Jerez
+  alt: 'Copa de vino de Jerez'
 - src: https://imgcdn.bokun.tools/1c77d085-978e-480b-ac38-51f805fb0343.jpg
-  alt: Cata de vinos de Jerez
+  alt: 'Cata de vinos de Jerez'
 - src: https://imgcdn.bokun.tools/34621c40-611a-4bb3-a2cf-128b62354363.jpg
-  alt: Arcos de una bodega de Jerez
+  alt: 'Arcos de una bodega de Jerez'
 publicada: true
 indexar: false
 destacada: false

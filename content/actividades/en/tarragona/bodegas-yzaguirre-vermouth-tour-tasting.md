@@ -71,19 +71,17 @@ keywords:
 - vermouth winery tour
 - reus vermouth
 - things to do in tarragona
-imagen: /images/actividades/tarragona/vermut/yzaguirre-historica.webp
-imagenAlt: Historic Casa Yzaguirre warehouses
+imagen: /images/actividades/tarragona/vermut/barricas-vermut.webp
+imagenAlt: 'Barrels in a Reus vermouth cellar'
 galeria:
 - src: /images/actividades/tarragona/vermut/copa-vermut-hielo.webp
-  alt: "Glass of vermouth with ice"
+  alt: 'Glass of vermouth with ice'
 - src: /images/actividades/tarragona/vermut/cata-copa-en-mano.webp
-  alt: "Glass in hand during a tasting"
-- src: /images/actividades/tarragona/vermut/barricas-vermut.webp
-  alt: Barrels in a Reus vermouth cellar
+  alt: 'Glass in hand during a tasting'
 - src: /images/actividades/tarragona/vermut/vermut-grifo.webp
-  alt: Vermouth with olives
+  alt: 'Vermouth with olives'
 - src: /images/actividades/tarragona/vermut/botellas-vermut.webp
-  alt: Bottles of vermouth
+  alt: 'Bottles of vermouth'
 ratingProveedor: 4.8
 numeroOpiniones: 6
 atraccionesRelacionadas:

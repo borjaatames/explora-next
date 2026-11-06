@@ -73,32 +73,30 @@ keywords:
 - tour privato raval sant antoni
 - barcellona come un local
 - street art raval
-imagen: /images/actividades/barcelona/raval/gato-botero-rambla-raval.webp
-imagenAlt: La scultura del gatto di Botero sulla Rambla del Raval
+imagen: /images/actividades/barcelona/raval/mercat-sant-antoni-fachada.webp
+imagenAlt: 'La facciata in ferro del Mercat de Sant Antoni'
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/raval/palau-guell-fachada.webp
-  alt: Facciata del Palau Güell di Gaudí in carrer Nou de la Rambla, a El Raval
+  alt: 'Facciata del Palau Güell di Gaudí in carrer Nou de la Rambla, a El Raval'
 - src: /images/actividades/barcelona/raval/macba-placa-angels.webp
-  alt: L'edificio bianco del MACBA in Plaça dels Àngels
+  alt: 'L''edificio bianco del MACBA in Plaça dels Àngels'
 - src: /images/actividades/barcelona/raval/antic-hospital-santa-creu-jardin.webp
-  alt: Il giardino dell'antico Ospedale della Santa Creu, a El Raval, visto attraverso un arco
+  alt: 'Il giardino dell''antico Ospedale della Santa Creu, a El Raval, visto attraverso un arco'
 - src: /images/actividades/barcelona/raval/rambla-del-raval.webp
-  alt: La Rambla del Raval con le palme vista da Carrer de l'Hospital
+  alt: 'La Rambla del Raval con le palme vista da Carrer de l''Hospital'
 - src: /images/actividades/barcelona/tapas/pintxo-gilda-anchoas.webp
-  alt: Pintxos di olive, peperoncini e acciughe su un vassoio
-- src: /images/actividades/barcelona/raval/mercat-sant-antoni-fachada.webp
-  alt: La facciata in ferro del Mercat de Sant Antoni
+  alt: 'Pintxos di olive, peperoncini e acciughe su un vassoio'
 - src: /images/actividades/barcelona/raval/mercat-sant-antoni-puestos.webp
-  alt: Banchi all'interno del rinnovato Mercat de Sant Antoni
+  alt: 'Banchi all''interno del rinnovato Mercat de Sant Antoni'
 - src: https://imgcdn.bokun.tools/6aceab87-6fb3-426b-a9e9-be16c85e2a03.jpg
-  alt: Murale di street art con bici parcheggiate davanti a Barcellona
+  alt: 'Murale di street art con bici parcheggiate davanti a Barcellona'
 - src: https://imgcdn.bokun.tools/2ac27aca-12f3-406a-baf1-2448826f2fdc.jpg
-  alt: Stradina stretta del centro storico con un ciclista
+  alt: 'Stradina stretta del centro storico con un ciclista'
 - src: https://imgcdn.bokun.tools/3992067b-a428-48fb-ad6a-027050c6bbc5.jpg
-  alt: Viaggiatrice con la guida fuori da un mercato di mattoni rossi
+  alt: 'Viaggiatrice con la guida fuori da un mercato di mattoni rossi'
 bokunProductId: 217568
 fecha_actualizacion: '2026-10-25'
 privada: true

@@ -73,23 +73,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
-imagenAlt: "Ballerina di flamenco in movimento su un palco in penombra (immagine illustrativa)"
+imagen: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+imagenAlt: 'Ballerina con scialle e chitarrista in uno spettacolo di flamenco'
 galeria:
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-noche.webp
-  alt: "La Cattedrale di Palma illuminata di notte"
+  alt: 'La Cattedrale di Palma illuminata di notte'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: "Mani di una ballerina di flamenco con le nacchere"
+  alt: 'Mani di una ballerina di flamenco con le nacchere'
 - src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
-  alt: "Il lungomare di Palma al tramonto"
+  alt: 'Il lungomare di Palma al tramonto'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-  alt: "Giro di una ballerina di flamenco sul palco (immagine illustrativa)"
+  alt: 'Giro di una ballerina di flamenco sul palco (immagine illustrativa)'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
-  alt: "La Cattedrale di Palma con il cielo rosa del tramonto"
-- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-  alt: "Ballerina con scialle e chitarrista in uno spettacolo di flamenco"
+  alt: 'La Cattedrale di Palma con il cielo rosa del tramonto'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
-  alt: "Ballerina di flamenco in bianco e nero"
+  alt: 'Ballerina di flamenco in bianco e nero'
 ---
 
 ## Cosa vedrai

@@ -53,29 +53,31 @@ keywords:
 - barcelona photo shoot
 - private photographer barcelona
 - gothic quarter photo shoot
-imagen: https://imgcdn.bokun.tools/e6af0600-9ead-4bf1-8d1a-6791bbbd7c41.jpg
-imagenAlt: Traveller in a hat photographed in front of the Gothic facade of Barcelona Cathedral
+imagen: /images/actividades/barcelona/fotos-biblioteca/pexels-10936417.webp
+imagenAlt: 'Bisbe Bridge in the Gothic Quarter'
 galeria:
+- src: https://imgcdn.bokun.tools/e6af0600-9ead-4bf1-8d1a-6791bbbd7c41.jpg
+  alt: 'Traveller in a hat photographed in front of the Gothic facade of Barcelona Cathedral'
 - src: https://imgcdn.bokun.tools/6230ac14-602f-4b15-ace6-f84da5b9e802.jpg
-  alt: Traveller walking on the sand of a Barcelona beach
+  alt: 'Traveller walking on the sand of a Barcelona beach'
 - src: https://imgcdn.bokun.tools/d2d47db6-9269-4950-b14d-b8e0c9e1204b.jpg
-  alt: Two friends hugging in a narrow street in the old town
+  alt: 'Two friends hugging in a narrow street in the old town'
 - src: https://imgcdn.bokun.tools/554425f0-8d96-48e3-942f-a28738ec92c3.jpg
-  alt: Traveller in a hat on a Barcelona street with black-and-yellow taxis
+  alt: 'Traveller in a hat on a Barcelona street with black-and-yellow taxis'
 - src: https://imgcdn.bokun.tools/da4042ff-f26c-4298-a936-f8d52a8610ed.jpg
-  alt: Traveller with a juice at a fruit stall in the market
+  alt: 'Traveller with a juice at a fruit stall in the market'
 - src: https://imgcdn.bokun.tools/49267df8-e84f-4ec8-aa5d-45e1b46514da.jpg
-  alt: Traveller with open arms at a viewpoint over Barcelona
+  alt: 'Traveller with open arms at a viewpoint over Barcelona'
 - src: https://imgcdn.bokun.tools/32443449-d336-41dd-aabe-f4505fe10672.jpg
-  alt: Group of friends looking out over Barcelona from a viewpoint
+  alt: 'Group of friends looking out over Barcelona from a viewpoint'
 - src: https://imgcdn.bokun.tools/7be57da3-2a0a-46f0-b735-8b6f091624a6.jpg
-  alt: Traveller in a red dress seen from behind on the beach at sunset
+  alt: 'Traveller in a red dress seen from behind on the beach at sunset'
 - src: https://imgcdn.bokun.tools/13121437-69e8-43ba-81d0-28aec3f97848.jpg
-  alt: "Two friends at the water's edge at sunset"
+  alt: 'Two friends at the water''s edge at sunset'
 - src: https://imgcdn.bokun.tools/063b09e8-64a8-4886-ade7-1371cdb2d29b.jpg
-  alt: Traveller in a red dress by the columns of Park Güell
+  alt: 'Traveller in a red dress by the columns of Park Güell'
 - src: https://imgcdn.bokun.tools/56d319cb-89aa-4df4-a78e-91aebf30be90.jpg
-  alt: Traveller walking along a palm-lined seafront promenade
+  alt: 'Traveller walking along a palm-lined seafront promenade'
 publicada: true
 indexar: false
 destacada: false

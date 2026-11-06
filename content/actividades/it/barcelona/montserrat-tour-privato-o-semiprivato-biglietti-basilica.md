@@ -82,8 +82,8 @@ keywords:
 - montserrat in auto
 - montserrat piccolo gruppo
 - biglietti madonna nera montserrat
-imagen: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-imagenAlt: Statua dell'abate Oliba nel verde di Montserrat
+imagen: /images/actividades/barcelona/montserrat/montserrat-rocas.webp
+imagenAlt: 'Gli edifici del monastero e la montagna di Montserrat sotto il cielo azzurro'
 ratingProveedor: 4.8
 numeroOpiniones: 311
 publicada: true
@@ -92,17 +92,17 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-monasterio-montana.webp
-  alt: Il monastero di Montserrat incastonato nella montagna, visto dall'alto
-- src: /images/actividades/barcelona/montserrat/montserrat-rocas.webp
-  alt: Gli edifici del monastero e la montagna di Montserrat sotto il cielo azzurro
+  alt: 'Il monastero di Montserrat incastonato nella montagna, visto dall''alto'
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: 'Statua dell''abate Oliba nel verde di Montserrat'
 - src: /images/actividades/barcelona/montserrat/basilica-montserrat-nave.webp
-  alt: La navata della basilica di Montserrat con l'altare in fondo
+  alt: 'La navata della basilica di Montserrat con l''altare in fondo'
 - src: https://imgcdn.bokun.tools/65cca502-bc14-4732-8b3d-60d19f2406be.jpg
-  alt: Il monastero di Montserrat sotto le guglie di roccia
+  alt: 'Il monastero di Montserrat sotto le guglie di roccia'
 - src: https://imgcdn.bokun.tools/6bde231b-e918-4ade-b5c3-bc6aba8daafb.jpg
-  alt: Viaggiatori sulla terrazza del monastero con la montagna sullo sfondo
+  alt: 'Viaggiatori sulla terrazza del monastero con la montagna sullo sfondo'
 - src: https://imgcdn.bokun.tools/1c248131-d79f-4a98-91be-0d3dd1f112a7.jpg
-  alt: Bancarella al mercatino dei produttori di Montserrat
+  alt: 'Bancarella al mercatino dei produttori di Montserrat'
 bokunProductId: 217561
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'

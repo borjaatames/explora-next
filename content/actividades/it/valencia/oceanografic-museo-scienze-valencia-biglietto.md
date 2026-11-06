@@ -77,33 +77,31 @@ keywords:
 - oceanografic valencia biglietti
 - città delle arti e delle scienze
 - valencia con bambini
-imagen: /images/actividades/valencia/oceanografic/oceanografic-tunel-tiburones.webp
-imagenAlt: Visitatori nel tunnel sottomarino dell'Oceanogràfic di Valencia
+imagen: /images/actividades/valencia/museo-ciencias/museo-ciencias-atardecer.webp
+imagenAlt: 'Museo delle Scienze Príncipe Felipe al tramonto'
 galeria:
 - src: /images/actividades/valencia/oceanografic/oceanografic-beluga.webp
-  alt: Beluga che nuota nella vasca dell'Oceanogràfic
-- src: /images/actividades/valencia/museo-ciencias/museo-ciencias-atardecer.webp
-  alt: Museo delle Scienze Príncipe Felipe al tramonto
+  alt: 'Beluga che nuota nella vasca dell''Oceanogràfic'
 - src: /images/actividades/valencia/oceanografic/oceanografic-tiburon.webp
-  alt: Squalo toro nell'acquario degli oceani dell'Oceanogràfic
+  alt: 'Squalo toro nell''acquario degli oceani dell''Oceanogràfic'
 - src: /images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp
-  alt: Architettura dell'Oceanogràfic nella Città delle Arti
+  alt: 'Architettura dell''Oceanogràfic nella Città delle Arti'
 - src: /images/actividades/valencia/oceanografic/oceanografic-leon-marino.webp
-  alt: Leone marino su uno scoglio all'Oceanogràfic
+  alt: 'Leone marino su uno scoglio all''Oceanogràfic'
 - src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp
-  alt: Esterno della Città delle Arti e delle Scienze di Valencia
+  alt: 'Esterno della Città delle Arti e delle Scienze di Valencia'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-interior-sala.webp
-  alt: Grande navata interna del Museo delle Scienze con le esposizioni
+  alt: 'Grande navata interna del Museo delle Scienze con le esposizioni'
 - src: /images/actividades/valencia/museo-ciencias/hemisferic-dia.webp
-  alt: L'Hemisfèric riflesso nell'acqua
+  alt: 'L''Hemisfèric riflesso nell''acqua'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-adn.webp
-  alt: Grande molecola di DNA all'interno del Museo delle Scienze
+  alt: 'Grande molecola di DNA all''interno del Museo delle Scienze'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp
-  alt: Struttura bianca del Museo delle Scienze
+  alt: 'Struttura bianca del Museo delle Scienze'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-noche.webp
-  alt: Museo delle Scienze illuminato di notte
+  alt: 'Museo delle Scienze illuminato di notte'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-rotulo.webp
-  alt: Facciata del Museu de les Ciències con la sua scritta
+  alt: 'Facciata del Museu de les Ciències con la sua scritta'
 ratingProveedor: 4.7
 numeroOpiniones: 2797
 atraccionesRelacionadas:

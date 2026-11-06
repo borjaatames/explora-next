@@ -81,19 +81,17 @@ keywords:
 - snorkel papagayo
 - snorkel lanzarote
 - praia de papagayo
-imagen: /images/actividades/lanzarote/kayak-papagayo.webp
-imagenAlt: Caiaques na água turquesa da baía de Papagayo
+imagen: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
+imagenAlt: 'Praia de areia dourada e água tranquila em Papagayo'
 galeria:
-- src: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
-  alt: Praia de areia dourada e água tranquila em Papagayo
 - src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
-  alt: Enseada de Papagayo com águas turquesa e rochas vulcânicas
+  alt: 'Enseada de Papagayo com águas turquesa e rochas vulcânicas'
 - src: /images/actividades/lanzarote/zonas/papagayo-acantilado.webp
-  alt: Falésia e praia de Papagayo, em Los Ajaches
+  alt: 'Falésia e praia de Papagayo, em Los Ajaches'
 - src: /images/actividades/lanzarote/zonas/papagayo-orilla.webp
-  alt: Margem de uma praia de Papagayo com falésias ao fundo
+  alt: 'Margem de uma praia de Papagayo com falésias ao fundo'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
-  alt: A praia de Playa Blanca, no sul de Lanzarote
+  alt: 'A praia de Playa Blanca, no sul de Lanzarote'
 ratingProveedor: 4.7
 numeroOpiniones: 162
 atraccionesRelacionadas:

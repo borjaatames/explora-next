@@ -63,19 +63,21 @@ keywords:
 - horse carriage ride seville
 - seville carriage price
 - book horse carriage seville
-imagen: https://imgcdn.bokun.tools/201abe95-d9c6-49fc-932c-333b92c0d64f.jpeg
-imagenAlt: Horse-drawn carriage in front of Plaza de España
+imagen: /images/actividades/sevilla/coche-caballos/coche-caballos-plaza-espana.webp
+imagenAlt: 'Horse-drawn carriage in Seville''s Plaza de España'
 galeria:
+- src: https://imgcdn.bokun.tools/201abe95-d9c6-49fc-932c-333b92c0d64f.jpeg
+  alt: 'Horse-drawn carriage in front of Plaza de España'
 - src: https://imgcdn.bokun.tools/4d245e1a-ca21-4589-9dff-233d876bccca.jpeg
-  alt: The Giralda from the street
+  alt: 'The Giralda from the street'
 - src: https://imgcdn.bokun.tools/0bc3f3b7-03e8-4f41-9dcc-4a906a06c440.jpeg
-  alt: Horse-drawn carriage in Seville
+  alt: 'Horse-drawn carriage in Seville'
 - src: https://imgcdn.bokun.tools/efcc5284-eaf3-4d7f-90c3-309aa198b7b4.jpeg
-  alt: Carriage ride through the centre
+  alt: 'Carriage ride through the centre'
 - src: https://imgcdn.bokun.tools/209c75b0-f247-4787-9447-f62e59e0d28f.jpeg
-  alt: María Luisa Park from the carriage
+  alt: 'María Luisa Park from the carriage'
 - src: https://imgcdn.bokun.tools/362f34fa-d8d4-4827-b736-ca46648a0f62.jpeg
-  alt: Carriage ride (provider photo)
+  alt: 'Carriage ride (provider photo)'
 publicada: true
 indexar: false
 destacada: false

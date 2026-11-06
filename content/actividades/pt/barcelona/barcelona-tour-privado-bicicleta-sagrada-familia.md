@@ -81,8 +81,8 @@ keywords:
 - bicicleta eletrica barcelona tour
 - barcelona de bicicleta
 - bilhetes sagrada familia com tour
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
-imagenAlt: Fachada da Sagrada Família com as suas torres, em Barcelona
+imagen: /images/actividades/barcelona/bici/bicis-arco-de-triunfo.webp
+imagenAlt: 'Ciclistas no Passeig de Lluís Companys junto ao Arco do Triunfo'
 ratingProveedor: 4.5
 numeroOpiniones: 13
 publicada: true
@@ -90,18 +90,18 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/barcelona/bici/bicis-arco-de-triunfo.webp
-  alt: Ciclistas no Passeig de Lluís Companys junto ao Arco do Triunfo
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
+  alt: 'Fachada da Sagrada Família com as suas torres, em Barcelona'
 - src: /images/actividades/barcelona/bici/bici-calle-casco-antiguo.webp
-  alt: Bicicleta encostada junto a uma porta de madeira numa rua antiga
+  alt: 'Bicicleta encostada junto a uma porta de madeira numa rua antiga'
 - src: /images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp
-  alt: Telhados de Barcelona ao pôr do sol com a Sagrada Família e o Tibidabo
+  alt: 'Telhados de Barcelona ao pôr do sol com a Sagrada Família e o Tibidabo'
 - src: https://imgcdn.bokun.tools/97a8553e-7bfd-4b71-8b0d-4e6c4d4e28dd.jpg
-  alt: Grupo de bicicleta em frente à Sagrada Família
+  alt: 'Grupo de bicicleta em frente à Sagrada Família'
 - src: https://imgcdn.bokun.tools/fd52ffa2-a030-45a5-8071-b84b7e7fbc7a.jpg
-  alt: Família de bicicleta junto à Sagrada Família
+  alt: 'Família de bicicleta junto à Sagrada Família'
 - src: https://imgcdn.bokun.tools/1230ea8e-a91c-4573-bc73-ddaed04c2fee.jpg
-  alt: Ciclistas junto a uma fonte num parque
+  alt: 'Ciclistas junto a uma fonte num parque'
 bokunProductId: 217567
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

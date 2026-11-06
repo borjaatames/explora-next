@@ -87,25 +87,25 @@ keywords:
 - barco privado tenerife
 - alquiler barco tenerife
 - avistamiento ballenas las galletas
-imagen: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
-imagenAlt: Pasajeros fotografiando un calderón desde la proa de la lancha privada
+imagen: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+imagenAlt: 'Calderón expulsando aire al respirar'
 galeria:
 - src: https://imgcdn.bokun.tools/7d10e601-a246-4e93-9dc0-a0146ddadf76.jpeg
-  alt: La lancha neumática privada vista desde arriba sobre el agua turquesa
+  alt: 'La lancha neumática privada vista desde arriba sobre el agua turquesa'
 - src: https://imgcdn.bokun.tools/20f8b492-80d8-4168-b6e0-2c941c1a48ea.jpeg
-  alt: Grupo de calderones con la costa sur de Tenerife al fondo
+  alt: 'Grupo de calderones con la costa sur de Tenerife al fondo'
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
-  alt: Costa de Palm-Mar, junto a Las Galletas
+  alt: 'Costa de Palm-Mar, junto a Las Galletas'
 - src: https://imgcdn.bokun.tools/92caaca9-bce5-45fb-8419-23d887c34b18.jpeg
-  alt: Delfín mular asomando la aleta en mar abierto
+  alt: 'Delfín mular asomando la aleta en mar abierto'
 - src: https://imgcdn.bokun.tools/5559854b-0720-4580-a97b-e3b3b68ef79b.jpeg
-  alt: Dos calderones nadando en superficie
+  alt: 'Dos calderones nadando en superficie'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: Montaña de Guaza, en la costa sur de Tenerife
+  alt: 'Montaña de Guaza, en la costa sur de Tenerife'
 - src: https://imgcdn.bokun.tools/15bf4883-1ca0-4fc3-a6bb-c3a6a21a393f.jpeg
-  alt: Delfín nadando bajo el agua
-- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Calderón expulsando aire al respirar
+  alt: 'Delfín nadando bajo el agua'
+- src: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
+  alt: 'Pasajeros fotografiando un calderón desde la proa de la lancha privada'
 atraccionesRelacionadas:
 - mar
 publicada: true

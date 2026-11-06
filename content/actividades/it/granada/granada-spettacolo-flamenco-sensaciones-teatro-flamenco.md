@@ -92,19 +92,17 @@ keywords:
 - flamenco campo del principe
 - spettacolo flamenco centro granada
 - flamenco accessibile granada
-imagen: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaora-bata-lunares.webp
-imagenAlt: Ballerina con bata de cola al Teatro Flamenco Granada
+imagen: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
+imagenAlt: 'Ballerine in rosso nello spettacolo Sensaciones'
 galeria:
 - src: /images/actividades/granada/albaicin/albaicin-pexels-30359825.webp
-  alt: Case bianche dell'Albaicín, a Granada
+  alt: 'Case bianche dell''Albaicín, a Granada'
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-cuadro-baile.webp
-  alt: Gruppo di ballo sul palco del Teatro Flamenco Granada
+  alt: 'Gruppo di ballo sul palco del Teatro Flamenco Granada'
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-sala-teatro.webp
-  alt: Sala e palco del Teatro Flamenco Granada
-- src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
-  alt: Ballerine in rosso nello spettacolo Sensaciones
+  alt: 'Sala e palco del Teatro Flamenco Granada'
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: L'Albaicín al calar della sera
+  alt: 'L''Albaicín al calar della sera'
 ratingProveedor: 4.8
 numeroOpiniones: 788
 publicada: true

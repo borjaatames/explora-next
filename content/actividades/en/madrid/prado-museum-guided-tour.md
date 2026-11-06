@@ -89,33 +89,33 @@ keywords:
 - prado museum with guide
 - velazquez goya prado
 - prado ticket and guide
-imagen: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp
-imagenAlt: Villanueva Building of the Prado Museum
+imagen: /images/actividades/madrid/prado-privado/unsplash-velazquez-door.webp
+imagenAlt: 'Velázquez Door of the Prado Museum'
 galeria:
 - src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-entrance-2024-hero.webp
-  alt: Entrance to the Prado Museum with the statue of Goya
+  alt: 'Entrance to the Prado Museum with the statue of Goya'
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-meninas-maids-honor-title-qs-p1476-hero.webp
-  alt: Las Meninas by Velázquez
+  alt: 'Las Meninas by Velázquez'
 - src: /images/actividades/madrid/prado-privado/wm-goya-tres-de-mayo.webp
-  alt: The Third of May 1808, by Goya
+  alt: 'The Third of May 1808, by Goya'
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-garden-earthly-delights-title-qs-hero.webp
-  alt: The Garden of Earthly Delights, by Bosch
-- src: /images/actividades/madrid/prado-privado/unsplash-velazquez-door.webp
-  alt: Velázquez Door of the Prado Museum
+  alt: 'The Garden of Earthly Delights, by Bosch'
+- src: /images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp
+  alt: 'Villanueva Building of the Prado Museum'
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-surrender-breda-label-qs-les-2-hero.webp
-  alt: The Surrender of Breda, by Velázquez
+  alt: 'The Surrender of Breda, by Velázquez'
 - src: /images/actividades/madrid/prado-privado/wm-greco-caballero.webp
-  alt: The Nobleman with his Hand on his Chest, by El Greco
+  alt: 'The Nobleman with his Hand on his Chest, by El Greco'
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-apollo-forge-vulcan-label-qs-leu-hero.webp
-  alt: Apollo in the Forge of Vulcan, by Velázquez
+  alt: 'Apollo in the Forge of Vulcan, by Velázquez'
 - src: /images/actividades/madrid/prado-privado/unsplash-goya-statue-gardens.webp
-  alt: Statue of Goya beside the museum
+  alt: 'Statue of Goya beside the museum'
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-vecelli-tiziano-charles-v-muhlberg-hero.webp
-  alt: Charles V at Mühlberg, by Titian
+  alt: 'Charles V at Mühlberg, by Titian'
 - src: /images/actividades/madrid/prado-privado/wm-durero-autorretrato.webp
-  alt: Self-portrait by Dürer
+  alt: 'Self-portrait by Dürer'
 - src: /images/actividades/madrid/fuente-neptuno/fuente-neptuno-madrid-foto-11616515-hero.webp
-  alt: Neptune Fountain, next to the museum
+  alt: 'Neptune Fountain, next to the museum'
 ratingProveedor: 4.9
 numeroOpiniones: 885
 publicada: true

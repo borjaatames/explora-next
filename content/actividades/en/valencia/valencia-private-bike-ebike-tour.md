@@ -78,27 +78,27 @@ keywords:
 - valencia ebike tour
 - turia gardens bike tour
 - valencia by bike
-imagen: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp
-imagenAlt: Valencia's City of Arts and Sciences reflected in the water
+imagen: /images/actividades/valencia/turia-bici/bici-palmera.webp
+imagenAlt: 'Bicycle parked by a palm tree in a Valencia park'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/valencia/turia-bici/jardin-turia-aereo.webp
-  alt: Turia Gardens seen from the top of the Serranos Towers
+  alt: 'Turia Gardens seen from the top of the Serranos Towers'
 - src: /images/actividades/valencia/turia-bici/jardin-turia-estanque.webp
-  alt: Pond and tree-lined path in the Turia Gardens
-- src: /images/actividades/valencia/turia-bici/bici-palmera.webp
-  alt: Bicycle parked by a palm tree in a Valencia park
+  alt: 'Pond and tree-lined path in the Turia Gardens'
+- src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp
+  alt: 'Valencia''s City of Arts and Sciences reflected in the water'
 - src: /images/actividades/valencia/turia-bici/bici-roja.webp
-  alt: Red bicycle leaning on a railing next to a bench in Valencia
+  alt: 'Red bicycle leaning on a railing next to a bench in Valencia'
 - src: https://imgcdn.bokun.tools/fabf7ddf-5eb3-411d-8587-a43958a0dc1e.jpg
-  alt: Cyclists in the Turia Gardens with the City of Arts and Sciences behind
+  alt: 'Cyclists in the Turia Gardens with the City of Arts and Sciences behind'
 - src: https://imgcdn.bokun.tools/aa28723e-be30-4e5e-b396-9f7d8aa42d18.jpg
-  alt: Cyclist by the pool at the City of Arts and Sciences
+  alt: 'Cyclist by the pool at the City of Arts and Sciences'
 - src: https://imgcdn.bokun.tools/f5721c26-abc0-46d7-98c7-89831eb51a77.jpg
-  alt: Cyclist in front of the Serranos Towers
+  alt: 'Cyclist in front of the Serranos Towers'
 bokunProductId: 910128
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -77,25 +77,25 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/ibiza/formentera/bici-illetes.webp
-imagenAlt: "Bicicleta aparcada junto a la playa de Ses Illetes, en Formentera"
+imagen: /images/actividades/ibiza/formentera/estacion-maritima.webp
+imagenAlt: 'Estación marítima de Formentera en el puerto de Ibiza'
 galeria:
-- src: /images/actividades/ibiza/formentera/estacion-maritima.webp
-  alt: "Estación marítima de Formentera en el puerto de Ibiza"
+- src: /images/actividades/ibiza/formentera/bici-illetes.webp
+  alt: 'Bicicleta aparcada junto a la playa de Ses Illetes, en Formentera'
 - src: /images/actividades/ibiza/formentera/ferry-rapido-llegando-ibiza.webp
-  alt: "Ferry rápido de Formentera Lines llegando al puerto de Ibiza"
+  alt: 'Ferry rápido de Formentera Lines llegando al puerto de Ibiza'
 - src: /images/actividades/ibiza/formentera/la-savina.webp
-  alt: "Barco de pesca en el puerto de La Savina, Formentera"
+  alt: 'Barco de pesca en el puerto de La Savina, Formentera'
 - src: /images/actividades/ibiza/formentera/fi1-ciclistas-camino-dunas.webp
-  alt: "Ciclistas por un camino entre dunas y vegetación costera"
+  alt: 'Ciclistas por un camino entre dunas y vegetación costera'
 - src: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
-  alt: "Arena blanca de Ses Illetes, en Formentera"
+  alt: 'Arena blanca de Ses Illetes, en Formentera'
 - src: /images/actividades/ibiza/formentera/fi1-lagartija-pitiusa.webp
-  alt: "Lagartija pitiusa, endémica de Ibiza y Formentera"
+  alt: 'Lagartija pitiusa, endémica de Ibiza y Formentera'
 - src: /images/actividades/ibiza/formentera/migjorn.webp
-  alt: "Playa de Migjorn, en Formentera"
+  alt: 'Playa de Migjorn, en Formentera'
 - src: /images/actividades/ibiza/formentera/fi1-bicis-junto-dunas.webp
-  alt: "Bicicletas aparcadas junto a una duna"
+  alt: 'Bicicletas aparcadas junto a una duna'
 ---
 
 ## Qué vas a ver

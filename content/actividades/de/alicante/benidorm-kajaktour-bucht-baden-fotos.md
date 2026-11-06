@@ -92,23 +92,23 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/fal-kayak/fal-benidorm-cala-sierra-helada.webp
-imagenAlt: Gebäude von Benidorm neben einer Bucht und den Bergen
+imagen: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
+imagenAlt: 'Gruppe von Kajaks paddelt nahe an Felsen'
 galeria:
 - src: /images/actividades/alicante/fal-kayak/fal-kayak-mar-calma.webp
-  alt: Seekajak auf ruhigem Wasser
+  alt: 'Seekajak auf ruhigem Wasser'
 - src: /images/actividades/alicante/fal-kayak/fal-benidorm-bahia-rascacielos.webp
-  alt: Die Bucht von Benidorm mit Hochhäusern und Strand
-- src: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
-  alt: Gruppe von Kajaks paddelt nahe an Felsen
+  alt: 'Die Bucht von Benidorm mit Hochhäusern und Strand'
+- src: /images/actividades/alicante/fal-kayak/fal-benidorm-cala-sierra-helada.webp
+  alt: 'Gebäude von Benidorm neben einer Bucht und den Bergen'
 - src: /images/actividades/alicante/granadella/esnorquel-costa-rocosa.webp
-  alt: Person schnorchelt an einer Felsküste
+  alt: 'Person schnorchelt an einer Felsküste'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
-  alt: Zwei Seekajaks auf klarem Wasser
+  alt: 'Zwei Seekajaks auf klarem Wasser'
 - src: /images/actividades/alicante/fal-kayak/fal-benidorm-skyline-mar.webp
-  alt: Die Skyline von Benidorm vom Meer aus
+  alt: 'Die Skyline von Benidorm vom Meer aus'
 - src: /images/actividades/alicante/fal-kayak/fal-gaviota-puerto-benidorm.webp
-  alt: Möwe vor der Skyline von Benidorm
+  alt: 'Möwe vor der Skyline von Benidorm'
 avisoReserva: Der Guide spricht Englisch und Spanisch; Einweisung und Erklärungen gibt es nicht auf Deutsch. Du solltest einfache englische Sicherheitsanweisungen verstehen.
 ---
 

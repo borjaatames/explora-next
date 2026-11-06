@@ -62,9 +62,11 @@ keywords:
 - el escorial private tour
 - royal madrid private tour
 - private day trip el escorial from madrid
-imagen: https://imgcdn.bokun.tools/03e31cd2-1e93-483c-839a-cb8493139cf1.jpg
-imagenAlt: 'Façade of the Royal Monastery of San Lorenzo de El Escorial'
+imagen: /images/actividades/madrid/escorial/escorial-tour-01.webp
+imagenAlt: 'Library of the El Escorial Monastery'
 galeria:
+- src: https://imgcdn.bokun.tools/03e31cd2-1e93-483c-839a-cb8493139cf1.jpg
+  alt: 'Façade of the Royal Monastery of San Lorenzo de El Escorial'
 - src: https://imgcdn.bokun.tools/3f443293-7ee9-4583-8e53-d0f754b8252f.jpg
   alt: 'Library of El Escorial with its painted vault'
 - src: https://imgcdn.bokun.tools/94f75751-9ebf-4a94-9fcf-12fb649ddb4f.jpg

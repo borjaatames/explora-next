@@ -67,25 +67,25 @@ keywords:
 - tapas sevilla tour privado
 - ruta de tapas triana
 - tabernas triana sevilla
-imagen: https://imgcdn.bokun.tools/6319c4ac-da09-4f3c-a260-29e80538a2d0.jpg
-imagenAlt: Copa de vino y tapa de carne en salsa en la barra
+imagen: /images/actividades/sevilla/triana/triana-pexels-40246298.webp
+imagenAlt: 'Casas de colores de la calle Betis en Triana'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-  alt: Puente de Triana sobre el Guadalquivir
-- src: /images/actividades/sevilla/triana/triana-pexels-40246298.webp
-  alt: Casas de colores de la calle Betis en Triana
+  alt: 'Puente de Triana sobre el Guadalquivir'
+- src: https://imgcdn.bokun.tools/6319c4ac-da09-4f3c-a260-29e80538a2d0.jpg
+  alt: 'Copa de vino y tapa de carne en salsa en la barra'
 - src: https://imgcdn.bokun.tools/8236f07d-be67-4e29-bb18-1991868d6cdb.jpg
-  alt: Viajeros brindando en la barra de una taberna
+  alt: 'Viajeros brindando en la barra de una taberna'
 - src: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-sevilla-jpg-03.webp
-  alt: Puestos del Mercado de Triana
+  alt: 'Puestos del Mercado de Triana'
 - src: https://imgcdn.bokun.tools/ebce970c-c5d0-4109-b45d-67186cefb3b8.jpg
-  alt: Grupo del tour en una taberna tradicional
+  alt: 'Grupo del tour en una taberna tradicional'
 - src: https://imgcdn.bokun.tools/2cf8b793-4b48-4102-9b04-61ff9e3e7b3b.jpg
-  alt: Viajeros con vino en la terraza de un bar
+  alt: 'Viajeros con vino en la terraza de un bar'
 bokunProductId: 933456
 fecha_actualizacion: '2026-10-24'
 privada: true

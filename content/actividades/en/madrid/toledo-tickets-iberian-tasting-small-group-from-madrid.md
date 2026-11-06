@@ -68,9 +68,11 @@ atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia
 keywords: []
-imagen: https://imgcdn.bokun.tools/99bbbee8-e1f5-4601-89a5-25ab503f05aa.jpg
-imagenAlt: 'Panoramic view of Toledo with the cathedral and Alcázar'
+imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-spain-bridge-castle-fortress-hero.webp
+imagenAlt: 'Panoramic view of Toledo with the Alcázar'
 galeria:
+- src: https://imgcdn.bokun.tools/99bbbee8-e1f5-4601-89a5-25ab503f05aa.jpg
+  alt: 'Panoramic view of Toledo with the cathedral and Alcázar'
 - src: https://imgcdn.bokun.tools/61c6ea7d-f223-44fc-9d22-e7de16402657.jpg
   alt: 'Street in Toledo''s old town'
 - src: https://imgcdn.bokun.tools/caf7c46c-5428-4887-a527-ef4dfea7852b.jpg

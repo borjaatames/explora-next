@@ -85,23 +85,23 @@ keywords:
 - boat trip puerto colon
 - eco cruise tenerife
 - whale watching tenerife with lunch
-imagen: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-imagenAlt: Los Gigantes cliffs above the sea
+imagen: /images/actividades/tenerife/cetaceos/calderon-cria.webp
+imagenAlt: 'Pilot whales swimming together'
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Pilot whales at the surface off Tenerife
+  alt: 'Pilot whales at the surface off Tenerife'
 - src: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
-  alt: Sailing boat with passengers beside pilot whales off the south coast of Tenerife
+  alt: 'Sailing boat with passengers beside pilot whales off the south coast of Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: Short-finned pilot whale up close
+  alt: 'Short-finned pilot whale up close'
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
-  alt: Sailing boat anchored in Masca bay below the cliffs
+  alt: 'Sailing boat anchored in Masca bay below the cliffs'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Atlantic spotted dolphin
+  alt: 'Atlantic spotted dolphin'
 - src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-  alt: The rock walls of the Los Gigantes cliffs
-- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
-  alt: Pilot whales swimming together
+  alt: 'The rock walls of the Los Gigantes cliffs'
+- src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
+  alt: 'Los Gigantes cliffs above the sea'
 ratingProveedor: 4.6
 numeroOpiniones: 5872
 atraccionesRelacionadas:

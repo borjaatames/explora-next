@@ -91,21 +91,21 @@ indexar: false
 destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'
-imagen: /images/actividades/gran-canaria/catamaran/fgc-catamaranes-fondeados-orilla.webp
-imagenAlt: "Catamarans au mouillage dans une eau turquoise près du rivage, vus du ciel"
+imagen: /images/actividades/gran-canaria/fotos-biblioteca/pexels-9091399.webp
+imagenAlt: 'Bateaux au pied des falaises de Grande Canarie'
 galeria:
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: "La marina de Puerto Rico de Gran Canaria"
+  alt: 'La marina de Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
-  alt: "Bateaux au mouillage au pied de falaises volcaniques"
+  alt: 'Bateaux au mouillage au pied de falaises volcaniques'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: "Les falaises volcaniques de la côte sud-ouest vues de la mer"
+  alt: 'Les falaises volcaniques de la côte sud-ouest vues de la mer'
 - src: /images/actividades/gran-canaria/catamaran/fgc-esnorquel-fondo-rocoso.webp
-  alt: "Snorkeling au-dessus de fonds rocheux dans une eau claire"
+  alt: 'Snorkeling au-dessus de fonds rocheux dans une eau claire'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: "Poissons au-dessus des fonds sableux de Grande Canarie"
+  alt: 'Poissons au-dessus des fonds sableux de Grande Canarie'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: "La baie et la plage de Puerto Rico de Gran Canaria"
+  alt: 'La baie et la plage de Puerto Rico de Gran Canaria'
 ---
 
 ## Ce que vous verrez

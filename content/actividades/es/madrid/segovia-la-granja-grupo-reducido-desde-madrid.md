@@ -62,9 +62,11 @@ categoria: excursionesDia
 keywords:
 - segovia y la granja desde madrid
 - excursion segovia grupo reducido
-imagen: https://imgcdn.bokun.tools/6d4f6f8e-a9df-4b81-82c4-a84e4d81fca7.jpg
-imagenAlt: 'El Alcázar de Segovia al atardecer'
+imagen: /images/actividades/madrid/fotos-biblioteca/diego-allen-kql0y-zh1ak-unsplash.webp
+imagenAlt: 'Acueducto de Segovia con la ciudad'
 galeria:
+- src: https://imgcdn.bokun.tools/6d4f6f8e-a9df-4b81-82c4-a84e4d81fca7.jpg
+  alt: 'El Alcázar de Segovia al atardecer'
 - src: https://imgcdn.bokun.tools/57cec116-1e08-416b-9495-a8e734f0b405.jpg
   alt: 'El acueducto de Segovia'
 - src: https://imgcdn.bokun.tools/6cf684d1-87f7-468b-883d-5710e485d222.jpg

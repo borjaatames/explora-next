@@ -85,23 +85,23 @@ keywords:
 - excursão de barco puerto colon
 - cruzeiro ecológico tenerife
 - baleias tenerife com comida
-imagen: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-imagenAlt: Falésias de Los Gigantes sobre o mar
+imagen: /images/actividades/tenerife/cetaceos/calderon-cria.webp
+imagenAlt: 'Baleias-piloto a nadar juntas'
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Baleias-piloto a nadar à superfície em frente a Tenerife
+  alt: 'Baleias-piloto a nadar à superfície em frente a Tenerife'
 - src: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
-  alt: Veleiro com passageiros junto a baleias-piloto em frente à costa sul de Tenerife
+  alt: 'Veleiro com passageiros junto a baleias-piloto em frente à costa sul de Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: Baleia-piloto tropical de perto
+  alt: 'Baleia-piloto tropical de perto'
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
-  alt: Veleiro fundeado na baía de Masca sob as falésias
+  alt: 'Veleiro fundeado na baía de Masca sob as falésias'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Golfinho-pintado-do-atlântico
+  alt: 'Golfinho-pintado-do-atlântico'
 - src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-  alt: Paredes das Falésias de Los Gigantes
-- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
-  alt: Baleias-piloto a nadar juntas
+  alt: 'Paredes das Falésias de Los Gigantes'
+- src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
+  alt: 'Falésias de Los Gigantes sobre o mar'
 ratingProveedor: 4.6
 numeroOpiniones: 5872
 atraccionesRelacionadas:

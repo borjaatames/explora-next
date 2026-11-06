@@ -72,25 +72,27 @@ keywords:
 - tour cadiz con guia desde malaga
 - cadiz dia completo malaga
 - excursion cadiz privada
-imagen: https://imgcdn.bokun.tools/c0c1c3c1-7479-4259-a51b-76e5b16dc851.jpg
-imagenAlt: La catedral de Cádiz vista desde el paseo marítimo
+imagen: /images/actividades/malaga/fotos-biblioteca/wikimedia-09.webp
+imagenAlt: 'Catedral y tejados de Cádiz'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: https://imgcdn.bokun.tools/c0c1c3c1-7479-4259-a51b-76e5b16dc851.jpg
+  alt: 'La catedral de Cádiz vista desde el paseo marítimo'
 - src: /images/actividades/cadiz/centro/catedral-tejados.webp
-  alt: La catedral sobre los tejados de Cádiz
+  alt: 'La catedral sobre los tejados de Cádiz'
 - src: /images/actividades/cadiz/mar/caleta-balneario.webp
-  alt: Playa de La Caleta y el balneario
+  alt: 'Playa de La Caleta y el balneario'
 - src: https://imgcdn.bokun.tools/777ac696-9df1-4765-badb-9932c37248c2.jpg
-  alt: Cúpula dorada y torres de la catedral de Cádiz
+  alt: 'Cúpula dorada y torres de la catedral de Cádiz'
 - src: /images/actividades/cadiz/centro/vista-torre-tavira.webp
-  alt: Vista de Cádiz desde la Torre Tavira
+  alt: 'Vista de Cádiz desde la Torre Tavira'
 - src: https://imgcdn.bokun.tools/8acecd7e-aa32-467b-b935-bef9de0334aa.jpg
-  alt: Playa de Cádiz con la catedral al fondo
+  alt: 'Playa de Cádiz con la catedral al fondo'
 - src: /images/actividades/cadiz/mar/caleta-barcas.webp
-  alt: Barcas de pesca en La Caleta
+  alt: 'Barcas de pesca en La Caleta'
 bokunProductId: 1116475
 fecha_actualizacion: '2026-10-24'
 privada: true

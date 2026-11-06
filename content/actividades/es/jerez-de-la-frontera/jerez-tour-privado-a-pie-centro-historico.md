@@ -63,25 +63,27 @@ keywords:
 - jerez tour privado
 - visita guiada jerez de la frontera
 - jerez a pie con guia
-imagen: https://imgcdn.bokun.tools/c390a64a-2460-4521-bcb7-308e3f21f4b5.jpg
-imagenAlt: La Catedral de Jerez
+imagen: /images/actividades/cadiz/bodega/torre-antigua-bodega-jerez.webp
+imagenAlt: 'Calle del centro de Jerez con una bodega histórica'
 galeria:
+- src: https://imgcdn.bokun.tools/c390a64a-2460-4521-bcb7-308e3f21f4b5.jpg
+  alt: 'La Catedral de Jerez'
 - src: https://imgcdn.bokun.tools/29716327-1c72-4706-b874-14d4def32728.jpg
-  alt: Grupo con la guía en Jerez
+  alt: 'Grupo con la guía en Jerez'
 - src: https://imgcdn.bokun.tools/6c3200a1-dad9-43d4-ac42-d0a207dcbc92.jpg
-  alt: Plaza del centro de Jerez
+  alt: 'Plaza del centro de Jerez'
 - src: https://imgcdn.bokun.tools/1136d54b-fa90-4eca-9e24-4f60c394375a.jpg
-  alt: Paseo por el casco antiguo de Jerez
+  alt: 'Paseo por el casco antiguo de Jerez'
 - src: https://imgcdn.bokun.tools/5655c1de-307f-4a91-b113-a2513ac0c091.jpg
-  alt: Fachada barroca en Jerez
+  alt: 'Fachada barroca en Jerez'
 - src: https://imgcdn.bokun.tools/76e677e7-c0d4-4532-8d05-2add9f0146a0.jpg
-  alt: Calle con naranjos en Jerez
+  alt: 'Calle con naranjos en Jerez'
 - src: https://imgcdn.bokun.tools/54367903-04be-40bc-a767-0680d6a89f93.jpg
-  alt: Edificio histórico en el centro de Jerez
+  alt: 'Edificio histórico en el centro de Jerez'
 - src: https://imgcdn.bokun.tools/d8739274-336d-4ec8-b852-7fafcd9ee6c1.jpg
-  alt: El Alcázar de Jerez
+  alt: 'El Alcázar de Jerez'
 - src: https://imgcdn.bokun.tools/777ffbca-0afe-441e-967a-580bf2826d7f.jpg
-  alt: Arco de la muralla de Jerez
+  alt: 'Arco de la muralla de Jerez'
 publicada: true
 indexar: false
 destacada: false

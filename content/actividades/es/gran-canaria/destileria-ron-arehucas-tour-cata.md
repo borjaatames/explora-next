@@ -70,19 +70,19 @@ keywords:
 - ron arehucas visita
 - destileria arehucas
 - arucas ron tour
-imagen: /images/actividades/gran-canaria/arehucas/arehucas-destileria-arucas-vista.webp
-imagenAlt: Destilerías Arehucas con su chimenea, en Arucas, vista desde la montaña de Arucas
+imagen: /images/actividades/gran-canaria/arehucas/barricas-ron-bodega-crianza.webp
+imagenAlt: 'Barricas de roble apiladas en una bodega de crianza (imagen ilustrativa)'
 galeria:
 - src: /images/actividades/gran-canaria/arehucas/arehucas-fabrica-ron-arucas.webp
-  alt: Fábrica de ron Arehucas entre las casas de Arucas
-- src: /images/actividades/gran-canaria/arehucas/barricas-ron-bodega-crianza.webp
-  alt: Barricas de roble apiladas en una bodega de crianza (imagen ilustrativa)
+  alt: 'Fábrica de ron Arehucas entre las casas de Arucas'
+- src: /images/actividades/gran-canaria/arehucas/arehucas-destileria-arucas-vista.webp
+  alt: 'Destilerías Arehucas con su chimenea, en Arucas, vista desde la montaña de Arucas'
 - src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
-  alt: Iglesia de San Juan Bautista de Arucas, cerca de la destilería
+  alt: 'Iglesia de San Juan Bautista de Arucas, cerca de la destilería'
 - src: /images/actividades/gran-canaria/platano/arucas-paisaje.webp
-  alt: Paisaje de Arucas, en el norte de Gran Canaria
+  alt: 'Paisaje de Arucas, en el norte de Gran Canaria'
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
-  alt: Plataneras en Arucas
+  alt: 'Plataneras en Arucas'
 ratingProveedor: 4.8
 numeroOpiniones: 269
 atraccionesRelacionadas:

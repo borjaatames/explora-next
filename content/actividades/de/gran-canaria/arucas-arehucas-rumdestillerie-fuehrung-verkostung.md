@@ -71,19 +71,19 @@ keywords:
 - arehucas führung
 - rumverkostung arucas
 - rumfabrik gran canaria
-imagen: /images/actividades/gran-canaria/arehucas/arehucas-destileria-arucas-vista.webp
-imagenAlt: Die Destillerie Arehucas mit ihrem Schornstein in Arucas, gesehen von der Montaña de Arucas
+imagen: /images/actividades/gran-canaria/arehucas/barricas-ron-bodega-crianza.webp
+imagenAlt: 'Gestapelte Eichenfässer in einem Reifekeller (Symbolbild)'
 galeria:
 - src: /images/actividades/gran-canaria/arehucas/arehucas-fabrica-ron-arucas.webp
-  alt: Die Rumfabrik Arehucas zwischen den Häusern von Arucas
-- src: /images/actividades/gran-canaria/arehucas/barricas-ron-bodega-crianza.webp
-  alt: Gestapelte Eichenfässer in einem Reifekeller (Symbolbild)
+  alt: 'Die Rumfabrik Arehucas zwischen den Häusern von Arucas'
+- src: /images/actividades/gran-canaria/arehucas/arehucas-destileria-arucas-vista.webp
+  alt: 'Die Destillerie Arehucas mit ihrem Schornstein in Arucas, gesehen von der Montaña de Arucas'
 - src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
-  alt: Die Kirche San Juan Bautista in Arucas, nahe der Destillerie
+  alt: 'Die Kirche San Juan Bautista in Arucas, nahe der Destillerie'
 - src: /images/actividades/gran-canaria/platano/arucas-paisaje.webp
-  alt: Landschaft rund um Arucas im Norden von Gran Canaria
+  alt: 'Landschaft rund um Arucas im Norden von Gran Canaria'
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
-  alt: Bananenplantagen in Arucas
+  alt: 'Bananenplantagen in Arucas'
 ratingProveedor: 4.8
 numeroOpiniones: 269
 atraccionesRelacionadas:

@@ -113,23 +113,21 @@ keywords:
 - bootstour sevilla fluss
 - guadalquivir bootsfahrt getränk inklusive
 - sevilla boot torre del oro
-imagen: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-imagenAlt: Die Triana-Brücke über dem Guadalquivir bei Sonnenuntergang
+imagen: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp
+imagenAlt: 'Ausflugsboote auf dem Guadalquivir bei Sonnenuntergang'
 galeria:
 - src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
-  alt: Die Torre del Oro am Guadalquivir
+  alt: 'Die Torre del Oro am Guadalquivir'
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
-  alt: Die Stierkampfarena Real Maestranza in Sevilla
-- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp
-  alt: Ausflugsboote auf dem Guadalquivir bei Sonnenuntergang
+  alt: 'Die Stierkampfarena Real Maestranza in Sevilla'
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
-  alt: Torre del Oro und Boote auf dem Guadalquivir
+  alt: 'Torre del Oro und Boote auf dem Guadalquivir'
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-02.webp
-  alt: Ausflugsschiffe am Ufer des Guadalquivir
+  alt: 'Ausflugsschiffe am Ufer des Guadalquivir'
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
-  alt: Ufer des Guadalquivir mit der Torre del Oro in der Ferne
+  alt: 'Ufer des Guadalquivir mit der Torre del Oro in der Ferne'
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
-  alt: Luftaufnahme der Stierkampfarena La Maestranza
+  alt: 'Luftaufnahme der Stierkampfarena La Maestranza'
 ratingProveedor: 4.7
 numeroOpiniones: 1746
 guiasRelacionadas:

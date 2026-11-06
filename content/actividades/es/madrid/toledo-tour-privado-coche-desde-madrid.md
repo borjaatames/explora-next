@@ -63,9 +63,11 @@ keywords:
 - tour privado toledo desde madrid
 - excursion privada toledo coche
 - guia oficial toledo privado
-imagen: https://imgcdn.bokun.tools/68d5daaa-472e-40ae-989d-14164f4153ad.jpg
-imagenAlt: 'Panorámica de Toledo rodeada por el Tajo'
+imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
+imagenAlt: 'Alcázar de Toledo sobre la ciudad'
 galeria:
+- src: https://imgcdn.bokun.tools/68d5daaa-472e-40ae-989d-14164f4153ad.jpg
+  alt: 'Panorámica de Toledo rodeada por el Tajo'
 - src: https://imgcdn.bokun.tools/08f5ebbf-f003-4e08-9dfa-f5fc91c64309.jpg
   alt: 'La catedral de Toledo'
 - src: https://imgcdn.bokun.tools/bea82c6e-e844-414a-b4ac-3da0f24f09da.jpg

@@ -90,23 +90,23 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/fal-kayak/fal-benidorm-cala-sierra-helada.webp
-imagenAlt: "Edifici di Benidorm accanto a una caletta e alla sierra"
+imagen: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
+imagenAlt: 'Gruppo di kayak che pagaiano accanto ad alcuni scogli'
 galeria:
 - src: /images/actividades/alicante/fal-kayak/fal-kayak-mar-calma.webp
-  alt: "Kayak da mare che pagaia in acque calme"
+  alt: 'Kayak da mare che pagaia in acque calme'
 - src: /images/actividades/alicante/fal-kayak/fal-benidorm-bahia-rascacielos.webp
-  alt: "Baia di Benidorm con i suoi grattacieli e la spiaggia"
-- src: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
-  alt: "Gruppo di kayak che pagaiano accanto ad alcuni scogli"
+  alt: 'Baia di Benidorm con i suoi grattacieli e la spiaggia'
+- src: /images/actividades/alicante/fal-kayak/fal-benidorm-cala-sierra-helada.webp
+  alt: 'Edifici di Benidorm accanto a una caletta e alla sierra'
 - src: /images/actividades/alicante/granadella/esnorquel-costa-rocosa.webp
-  alt: "Persona che fa snorkeling vicino a una costa rocciosa"
+  alt: 'Persona che fa snorkeling vicino a una costa rocciosa'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
-  alt: "Due kayak da mare su acqua trasparente"
+  alt: 'Due kayak da mare su acqua trasparente'
 - src: /images/actividades/alicante/fal-kayak/fal-benidorm-skyline-mar.webp
-  alt: "Skyline di Benidorm visto dal mare"
+  alt: 'Skyline di Benidorm visto dal mare'
 - src: /images/actividades/alicante/fal-kayak/fal-gaviota-puerto-benidorm.webp
-  alt: "Gabbiano con lo skyline di Benidorm sullo sfondo"
+  alt: 'Gabbiano con lo skyline di Benidorm sullo sfondo'
 avisoReserva: "L'equipaggio o la guida parla inglese e spagnolo: non ci sono spiegazioni in italiano."
 ---
 

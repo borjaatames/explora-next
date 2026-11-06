@@ -63,19 +63,21 @@ categoria: agua
 keywords:
 - barca a vela condivisa ibiza formentera
 - gita in barca formentera giornata
-imagen: https://imgcdn.bokun.tools/32afb5c2-0292-43ec-9af3-998810a730f4.jpg
-imagenAlt: "Gruppo che prende il sole su una barca a vela davanti a Es Vedrà"
+imagen: /images/actividades/ibiza/fotos-biblioteca/pexels-33838897.webp
+imagenAlt: 'Ses Illetes a Formentera con barche all''ancora'
 galeria:
+- src: https://imgcdn.bokun.tools/32afb5c2-0292-43ec-9af3-998810a730f4.jpg
+  alt: 'Gruppo che prende il sole su una barca a vela davanti a Es Vedrà'
 - src: https://imgcdn.bokun.tools/eafbcfe5-25d8-43d6-9dde-33c63431e0db.jpg
-  alt: "Amiche con un aperitivo a bordo della barca"
+  alt: 'Amiche con un aperitivo a bordo della barca'
 - src: https://imgcdn.bokun.tools/5fa642ac-c9fc-4585-b836-ea92b569358b.jpg
-  alt: "Gruppo che passeggia su una spiaggia di Formentera"
+  alt: 'Gruppo che passeggia su una spiaggia di Formentera'
 - src: https://imgcdn.bokun.tools/63d91f9b-c9eb-478a-b865-5ad302dbc20c.jpg
-  alt: "Skipper al timone della barca a vela"
+  alt: 'Skipper al timone della barca a vela'
 - src: https://imgcdn.bokun.tools/4454177d-d72c-4f00-9f35-c0e0e1385086.jpg
-  alt: "Gruppo sdraiato su una tavola da paddle nell’acqua turchese"
+  alt: 'Gruppo sdraiato su una tavola da paddle nell’acqua turchese'
 - src: https://imgcdn.bokun.tools/b5ee9b67-8fe3-4bd5-8f22-e1c087c4fd26.jpg
-  alt: "Acque turchesi e isolotti di Formentera"
+  alt: 'Acque turchesi e isolotti di Formentera'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

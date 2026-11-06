@@ -92,21 +92,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
-imagenAlt: "Bateaux d'excursion à Puerto del Carmen"
+imagen: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
+imagenAlt: 'Catamaran au mouillage avec son annexe dans une eau turquoise'
 galeria:
-- src: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
-  alt: "Catamaran au mouillage avec son annexe dans une eau turquoise"
+- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
+  alt: 'Bateaux d''excursion à Puerto del Carmen'
 - src: /images/actividades/lanzarote/papagayo/flz-playa-dorada-turquesa.webp
-  alt: "Plage de sable doré et eau turquoise à Papagayo"
+  alt: 'Plage de sable doré et eau turquoise à Papagayo'
 - src: /images/actividades/lanzarote/catamaran/flz-proa-agua-cristalina.webp
-  alt: "Proue d'un catamaran au-dessus d'une eau cristalline"
+  alt: 'Proue d''un catamaran au-dessus d''une eau cristalline'
 - src: /images/actividades/lanzarote/papagayo/flz-costa-montana.webp
-  alt: "Côte de Papagayo avec des montagnes volcaniques en arrière-plan"
+  alt: 'Côte de Papagayo avec des montagnes volcaniques en arrière-plan'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
-  alt: "Crique aux eaux turquoise à Papagayo"
+  alt: 'Crique aux eaux turquoise à Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
-  alt: "Vagues sur le rivage d'une plage de Papagayo"
+  alt: 'Vagues sur le rivage d''une plage de Papagayo'
 ---
 
 ## Ce que vous verrez

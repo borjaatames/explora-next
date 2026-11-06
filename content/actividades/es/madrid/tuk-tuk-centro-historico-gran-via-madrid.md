@@ -61,31 +61,33 @@ keywords:
 - tuk tuk madrid
 - tuk tuk centro histórico madrid
 - tour gran vía madrid
-imagen: https://imgcdn.bokun.tools/f1c49ca6-5260-4871-81f6-3cd9231da671.png
-imagenAlt: Pasajeros en un tuk-tuk eléctrico turquesa de Tuk Tuk Zero
+imagen: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
+imagenAlt: 'Gran Vía y el edificio Metrópolis al atardecer'
 galeria:
+- src: https://imgcdn.bokun.tools/f1c49ca6-5260-4871-81f6-3cd9231da671.png
+  alt: 'Pasajeros en un tuk-tuk eléctrico turquesa de Tuk Tuk Zero'
 - src: https://imgcdn.bokun.tools/0ca3e129-f1d5-4f2a-baef-60832588c929.jpeg
-  alt: Palacio de Cibeles y la fuente de Cibeles
+  alt: 'Palacio de Cibeles y la fuente de Cibeles'
 - src: https://imgcdn.bokun.tools/aa05c3dd-7625-4f38-a055-96b3bbde10d8.jpeg
-  alt: Viajeras junto al tuk-tuk frente a la catedral de la Almudena
+  alt: 'Viajeras junto al tuk-tuk frente a la catedral de la Almudena'
 - src: https://imgcdn.bokun.tools/14e9b673-e24c-4b97-814d-7d58eb79d59d.png
-  alt: Palacio Real reflejado en el estanque de los jardines de Sabatini
+  alt: 'Palacio Real reflejado en el estanque de los jardines de Sabatini'
 - src: https://imgcdn.bokun.tools/c252234f-50fd-42fa-9c1d-478af1de02df.jpeg
-  alt: Grupo junto al tuk-tuk al atardecer frente al Palacio Real
+  alt: 'Grupo junto al tuk-tuk al atardecer frente al Palacio Real'
 - src: https://imgcdn.bokun.tools/2dc60671-a784-466a-807f-0a8469045241.jpeg
-  alt: Pareja haciéndose un selfi con la catedral de la Almudena detrás
+  alt: 'Pareja haciéndose un selfi con la catedral de la Almudena detrás'
 - src: https://imgcdn.bokun.tools/17007eaf-74a6-4278-afbb-94df64826d4b.jpeg
-  alt: Conductor del tuk-tuk con la Almudena al fondo
+  alt: 'Conductor del tuk-tuk con la Almudena al fondo'
 - src: https://imgcdn.bokun.tools/20d3ea40-4d9c-47b9-b5e8-49f73b2edd19.jpeg
-  alt: Dos viajeras frente al Congreso de los Diputados de noche
+  alt: 'Dos viajeras frente al Congreso de los Diputados de noche'
 - src: https://imgcdn.bokun.tools/b9ce37b0-af28-42c2-aa2d-fae34d052c67.png
-  alt: Tuk-tuk eléctrico de Tuk Tuk Zero con pasajeros
+  alt: 'Tuk-tuk eléctrico de Tuk Tuk Zero con pasajeros'
 - src: https://imgcdn.bokun.tools/4a1fc411-34f9-47bb-9946-f2a3b70e4fb9.jpeg
-  alt: Grupo de viajeras al atardecer junto al Palacio Real
+  alt: 'Grupo de viajeras al atardecer junto al Palacio Real'
 - src: https://imgcdn.bokun.tools/963d3c13-54cd-4e86-8a5f-e5e701ed6455.jpeg
-  alt: Edificio Metrópolis en la Gran Vía
+  alt: 'Edificio Metrópolis en la Gran Vía'
 - src: https://imgcdn.bokun.tools/9f259571-19bb-4173-8036-22ceef061d52.jpeg
-  alt: Grupo de amigas junto a una estatua en el centro de Madrid
+  alt: 'Grupo de amigas junto a una estatua en el centro de Madrid'
 publicada: true
 indexar: false
 destacada: false

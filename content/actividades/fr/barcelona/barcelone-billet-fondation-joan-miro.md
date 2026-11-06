@@ -69,21 +69,21 @@ keywords:
 - billets fondation joan miro
 - musee miro barcelone
 - fondation miro montjuic
-imagen: /images/actividades/barcelona/fundacio-miro/fundacio-miro-01.webp
-imagenAlt: Sculpture rouge à côté du bâtiment de la Fondation Joan Miró
+imagen: /images/actividades/barcelona/fundacio-miro/fundacio-miro-02.webp
+imagenAlt: 'Le bâtiment blanc de la Fondation Miró, œuvre de Josep Lluís Sert'
 galeria:
-- src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-02.webp
-  alt: Le bâtiment blanc de la Fondation Miró, œuvre de Josep Lluís Sert
+- src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-01.webp
+  alt: 'Sculpture rouge à côté du bâtiment de la Fondation Joan Miró'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-03.webp
-  alt: L'entrée de la Fondation Joan Miró sur Montjuïc
+  alt: 'L''entrée de la Fondation Joan Miró sur Montjuïc'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-05.webp
-  alt: Patios et puits de lumière de la Fondation Miró
+  alt: 'Patios et puits de lumière de la Fondation Miró'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-06.webp
-  alt: Les puits de lumière courbes typiques du bâtiment de Sert
+  alt: 'Les puits de lumière courbes typiques du bâtiment de Sert'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-07.webp
-  alt: Sculpture de Miró à l'entrée de la Fondation
+  alt: 'Sculpture de Miró à l''entrée de la Fondation'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-08.webp
-  alt: La Fondation Miró vue depuis l'avenue de Montjuïc
+  alt: 'La Fondation Miró vue depuis l''avenue de Montjuïc'
 ratingProveedor: 4.6
 numeroOpiniones: 1578
 atraccionesRelacionadas:

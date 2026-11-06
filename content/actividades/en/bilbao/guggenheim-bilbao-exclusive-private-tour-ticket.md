@@ -84,21 +84,19 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/bilbao/guggenheim/fbi-puppy-museo.webp
-imagenAlt: "Puppy, the flower dog, in front of the Guggenheim Museum Bilbao entrance"
+imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-fachada-norte.webp
+imagenAlt: 'North facade of the Guggenheim Museum Bilbao with its glass atrium'
 galeria:
-- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-fachada-norte.webp
-  alt: "North facade of the Guggenheim Museum Bilbao with its glass atrium"
 - src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: "The Guggenheim and Iberdrola Tower by the river"
+  alt: 'The Guggenheim and Iberdrola Tower by the river'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-detalle.webp
-  alt: "Detail of the titanium curves on the Guggenheim facade"
+  alt: 'Detail of the titanium curves on the Guggenheim facade'
 - src: /images/actividades/bilbao/guggenheim/maman-puente.webp
-  alt: "The Guggenheim and La Salve bridge from the river"
+  alt: 'The Guggenheim and La Salve bridge from the river'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-iberdrola.webp
-  alt: "The Guggenheim and Iberdrola Tower by the Bilbao river"
+  alt: 'The Guggenheim and Iberdrola Tower by the Bilbao river'
 - src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
-  alt: "View of the Guggenheim Museum Bilbao from the river"
+  alt: 'View of the Guggenheim Museum Bilbao from the river'
 ---
 
 ## What you will see

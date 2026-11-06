@@ -93,23 +93,23 @@ indexar: false
 destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'
-imagen: /images/actividades/alicante/fal-kayak/fal-benidorm-cala-sierra-helada.webp
-imagenAlt: "Immeubles de Benidorm à côté d'une crique et des montagnes"
+imagen: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
+imagenAlt: 'Groupe de kayaks pagayant près des rochers'
 galeria:
 - src: /images/actividades/alicante/fal-kayak/fal-kayak-mar-calma.webp
-  alt: "Kayak de mer sur une eau calme"
+  alt: 'Kayak de mer sur une eau calme'
 - src: /images/actividades/alicante/fal-kayak/fal-benidorm-bahia-rascacielos.webp
-  alt: "La baie de Benidorm avec ses gratte-ciel et sa plage"
-- src: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
-  alt: "Groupe de kayaks pagayant près des rochers"
+  alt: 'La baie de Benidorm avec ses gratte-ciel et sa plage'
+- src: /images/actividades/alicante/fal-kayak/fal-benidorm-cala-sierra-helada.webp
+  alt: 'Immeubles de Benidorm à côté d''une crique et des montagnes'
 - src: /images/actividades/alicante/granadella/esnorquel-costa-rocosa.webp
-  alt: "Personne faisant du snorkeling le long d'une côte rocheuse"
+  alt: 'Personne faisant du snorkeling le long d''une côte rocheuse'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
-  alt: "Deux kayaks de mer sur une eau transparente"
+  alt: 'Deux kayaks de mer sur une eau transparente'
 - src: /images/actividades/alicante/fal-kayak/fal-benidorm-skyline-mar.webp
-  alt: "Les gratte-ciel de Benidorm vus de la mer"
+  alt: 'Les gratte-ciel de Benidorm vus de la mer'
 - src: /images/actividades/alicante/fal-kayak/fal-gaviota-puerto-benidorm.webp
-  alt: "Une mouette avec les tours de Benidorm en arrière-plan"
+  alt: 'Une mouette avec les tours de Benidorm en arrière-plan'
 ---
 
 ## Ce que vous verrez

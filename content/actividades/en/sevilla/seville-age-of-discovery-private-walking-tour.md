@@ -72,25 +72,25 @@ keywords:
 - seville gateway to the americas tour
 - magellan tour seville
 - private history walking tour seville
-imagen: https://imgcdn.bokun.tools/2ac9cb53-6f46-420d-aea7-e07412f18ec1.jpg
-imagenAlt: The Guadalquivir and the Triana riverbank
+imagen: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+imagenAlt: 'Guadalquivir riverbank with the Torre del Oro in the distance'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
-  alt: Torre del Oro on the Guadalquivir
+  alt: 'Torre del Oro on the Guadalquivir'
 - src: /images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp
-  alt: General Archive of the Indies
+  alt: 'General Archive of the Indies'
 - src: https://imgcdn.bokun.tools/1ae2bfac-5c64-4be0-9710-d18b2d39f969.jpg
-  alt: The Torre del Oro by the river
+  alt: 'The Torre del Oro by the river'
 - src: /images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp
-  alt: Colourful houses on Calle Betis along the Guadalquivir
+  alt: 'Colourful houses on Calle Betis along the Guadalquivir'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp
-  alt: Seville Cathedral and the Giralda at dusk
-- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
-  alt: Guadalquivir riverbank with the Torre del Oro in the distance
+  alt: 'Seville Cathedral and the Giralda at dusk'
+- src: https://imgcdn.bokun.tools/2ac9cb53-6f46-420d-aea7-e07412f18ec1.jpg
+  alt: 'The Guadalquivir and the Triana riverbank'
 bokunProductId: 1156777
 fecha_actualizacion: '2026-10-24'
 privada: true

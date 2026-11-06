@@ -66,23 +66,21 @@ keywords:
 - audioguide séville
 - application visite séville
 - visiter séville seul
-imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp
-imagenAlt: Barques à rames sur le canal de la Plaza de España
+imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
+imagenAlt: 'Tour et pont de la Plaza de España'
 galeria:
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp
-  alt: Façade de la Real Maestranza de Séville
+  alt: 'Façade de la Real Maestranza de Séville'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
-  alt: Façade de la cathédrale de Séville entre les palmiers
+  alt: 'Façade de la cathédrale de Séville entre les palmiers'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
-  alt: La Plaza de España se reflétant dans le canal
+  alt: 'La Plaza de España se reflétant dans le canal'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
-  alt: Las Setas de La Encarnación, à quelques minutes à pied
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
-  alt: Tour et pont de la Plaza de España
+  alt: 'Las Setas de La Encarnación, à quelques minutes à pied'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: Galerie de la Plaza de España avec ses bancs en azulejos
+  alt: 'Galerie de la Plaza de España avec ses bancs en azulejos'
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
-  alt: Application DaremApp avec le parcours autonome
+  alt: 'Application DaremApp avec le parcours autonome'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

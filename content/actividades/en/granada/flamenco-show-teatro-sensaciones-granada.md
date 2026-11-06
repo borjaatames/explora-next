@@ -92,19 +92,17 @@ keywords:
 - flamenco campo del principe
 - central flamenco granada
 - accessible flamenco granada
-imagen: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaora-bata-lunares.webp
-imagenAlt: Dancer in a flounced dress at Teatro Flamenco Granada
+imagen: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
+imagenAlt: 'Dancers in red in the Sensaciones show'
 galeria:
 - src: /images/actividades/granada/albaicin/albaicin-pexels-30359825.webp
-  alt: White houses of the Albaicín, Granada
+  alt: 'White houses of the Albaicín, Granada'
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-cuadro-baile.webp
-  alt: Dance troupe on the Teatro Flamenco Granada stage
+  alt: 'Dance troupe on the Teatro Flamenco Granada stage'
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-sala-teatro.webp
-  alt: Hall and stage of Teatro Flamenco Granada
-- src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
-  alt: Dancers in red in the Sensaciones show
+  alt: 'Hall and stage of Teatro Flamenco Granada'
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: The Albaicín at dusk
+  alt: 'The Albaicín at dusk'
 ratingProveedor: 4.8
 numeroOpiniones: 788
 publicada: true

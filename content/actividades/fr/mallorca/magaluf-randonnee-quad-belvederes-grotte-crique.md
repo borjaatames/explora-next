@@ -83,21 +83,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/mallorca/fma-quad-magaluf/manos-manillar-quad.webp
-imagenAlt: "Pilote au guidon d'un quad sur une piste en terre"
+imagen: /images/actividades/mallorca/fma-quad-magaluf/quad-azul-costa.webp
+imagenAlt: 'Quad garé sur des rochers au bord de la mer'
 galeria:
-- src: /images/actividades/mallorca/fma-quad-magaluf/quad-azul-costa.webp
-  alt: "Quad garé sur des rochers au bord de la mer"
+- src: /images/actividades/mallorca/fma-quad-magaluf/manos-manillar-quad.webp
+  alt: 'Pilote au guidon d''un quad sur une piste en terre'
 - src: /images/actividades/mallorca/barco-paguera/peguera-bahia.webp
-  alt: "Côte sud-ouest de Majorque vue d'en haut, près de Paguera"
+  alt: 'Côte sud-ouest de Majorque vue d''en haut, près de Paguera'
 - src: /images/actividades/mallorca/fma-quad-magaluf/quads-pista-polvo.webp
-  alt: "Quads soulevant la poussière sur une piste en terre"
+  alt: 'Quads soulevant la poussière sur une piste en terre'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
-  alt: "Personne faisant du snorkeling au-dessus d'un fond rocheux"
+  alt: 'Personne faisant du snorkeling au-dessus d''un fond rocheux'
 - src: /images/actividades/mallorca/barco-paguera/peguera-islote.webp
-  alt: "Îlot couvert de pins au large de la côte de Paguera"
+  alt: 'Îlot couvert de pins au large de la côte de Paguera'
 - src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
-  alt: "Rocher en mer entouré d'eau turquoise"
+  alt: 'Rocher en mer entouré d''eau turquoise'
 ---
 
 ## Ce que vous verrez

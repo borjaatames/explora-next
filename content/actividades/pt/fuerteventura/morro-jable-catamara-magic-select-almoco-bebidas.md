@@ -78,27 +78,27 @@ keywords:
 - catamara morro jable
 - excursao de barco jandia almoco
 - catamara golfinhos fuerteventura
-imagen: /images/actividades/fuerteventura/catamaran-morrojable.webp
-imagenAlt: Catamarã a navegar ao largo da costa de Jandía
+imagen: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
+imagenAlt: 'Banhistas a nadar junto a um barco fundeado'
 galeria:
 - src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-  alt: Golfinhos a nadar junto a um barco ao largo de Morro Jable
+  alt: 'Golfinhos a nadar junto a um barco ao largo de Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: A costa de Jandía com o farol ao fundo
+  alt: 'A costa de Jandía com o farol ao fundo'
 - src: /images/actividades/fuerteventura/catamaran-morro-jable/comida-servida-a-bordo.webp
-  alt: Tabuleiro de comida servido aos passageiros na mesa de um barco
+  alt: 'Tabuleiro de comida servido aos passageiros na mesa de um barco'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable e a praia do Matorral vistos da montanha
+  alt: 'Morro Jable e a praia do Matorral vistos da montanha'
 - src: /images/actividades/fuerteventura/catamaran-morro-jable/copa-espumoso-a-bordo-catamaran.webp
-  alt: Taça de espumante no convés de um catamarã a navegar
+  alt: 'Taça de espumante no convés de um catamarã a navegar'
 - src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: O maciço de Jandía com nuvens nos cumes
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-  alt: Banhistas a nadar junto a um barco fundeado
+  alt: 'O maciço de Jandía com nuvens nos cumes'
+- src: /images/actividades/fuerteventura/catamaran-morrojable.webp
+  alt: 'Catamarã a navegar ao largo da costa de Jandía'
 - src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: A costa de barlavento de Jandía
+  alt: 'A costa de barlavento de Jandía'
 - src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
-  alt: Farol de Morro Jable entre a vegetação do sapal
+  alt: 'Farol de Morro Jable entre a vegetação do sapal'
 ratingProveedor: 4.4
 numeroOpiniones: 1786
 atraccionesRelacionadas:

@@ -89,21 +89,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/girona/fgi-mar/fgi-catamaran-fondeado-aguas-claras.webp
-imagenAlt: Ein Katamaran ankert zum Baden in klarem Wasser
+imagen: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaran-navegando-vela.webp
+imagenAlt: 'Katamaran auf dem Mittelmeer'
 galeria:
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-costa-aerea.webp
-  alt: Luftaufnahme der Küste von Lloret de Mar mit Buchten und Pinien
+  alt: 'Luftaufnahme der Küste von Lloret de Mar mit Buchten und Pinien'
 - src: /images/actividades/girona/fgi-mar/fgi-nadador-tubo-fondo-rocoso.webp
-  alt: Eine Person schwimmt mit Maske und Schnorchel über felsigem Grund
+  alt: 'Eine Person schwimmt mit Maske und Schnorchel über felsigem Grund'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-rocas.webp
-  alt: Sandstrand mit Felsen in Lloret de Mar
+  alt: 'Sandstrand mit Felsen in Lloret de Mar'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
-  alt: Die Bucht von Lloret de Mar von oben
+  alt: 'Die Bucht von Lloret de Mar von oben'
 - src: /images/actividades/girona/fgi-mar/fgi-mar-a-ras-de-agua.webp
-  alt: Das Meer auf Wasserhöhe an einer Felsküste
+  alt: 'Das Meer auf Wasserhöhe an einer Felsküste'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
-  alt: Der Hauptstrand von Lloret de Mar mit Felsen im Vordergrund
+  alt: 'Der Hauptstrand von Lloret de Mar mit Felsen im Vordergrund'
 avisoReserva: An Bord gibt es keine Erklärungen auf Deutsch; die Crew spricht Spanisch und meist Englisch. Für Baden, Essen und Musik brauchst du aber keine Sprachkenntnisse.
 ---
 

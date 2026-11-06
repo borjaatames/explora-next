@@ -108,31 +108,31 @@ keywords:
 - cadiz jerez day excursion
 - jerez winery sherry wine
 - equestrian show jerez andalusian horses
-imagen: /images/actividades/cadiz/centro/mercado-central.webp
-imagenAlt: Stalls at Cádiz Central Market
+imagen: /images/actividades/cadiz/centro/catedral-fachada.webp
+imagenAlt: 'Main façade of Cádiz Cathedral with its two towers'
 galeria:
 - src: /images/actividades/cadiz/centro/teatro-romano.webp
-  alt: The Roman theatre of Gades
+  alt: 'The Roman theatre of Gades'
 - src: /images/actividades/cadiz/centro/catedral-coro.webp
-  alt: Choir of Cádiz Cathedral
+  alt: 'Choir of Cádiz Cathedral'
 - src: /images/actividades/cadiz/centro/catedral-tejados.webp
-  alt: The cathedral above Cádiz rooftops
-- src: /images/actividades/cadiz/centro/catedral-fachada.webp
-  alt: Main façade of Cádiz Cathedral with its two towers
+  alt: 'The cathedral above Cádiz rooftops'
+- src: /images/actividades/cadiz/centro/mercado-central.webp
+  alt: 'Stalls at Cádiz Central Market'
 - src: /images/actividades/cadiz/centro/vista-torre-tavira.webp
-  alt: Cádiz from the Tavira Tower
+  alt: 'Cádiz from the Tavira Tower'
 - src: /images/actividades/cadiz/bodega/botas-fundador.webp
-  alt: Barrels in a Jerez bodega
+  alt: 'Barrels in a Jerez bodega'
 - src: /images/actividades/cadiz/bodega/calle-bodega.webp
-  alt: Street between bodegas in Jerez
+  alt: 'Street between bodegas in Jerez'
 - src: /images/actividades/cadiz/yeguada/jinete-cartujano.webp
-  alt: Rider with a Carthusian horse in Jerez
+  alt: 'Rider with a Carthusian horse in Jerez'
 - src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp
-  alt: Castle by La Caleta beach, Cádiz
+  alt: 'Castle by La Caleta beach, Cádiz'
 - src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp
-  alt: Traditional sherry winery interior with wooden barrels, tasting glasses, and authentic wine production atmosphere in Jerez
+  alt: 'Traditional sherry winery interior with wooden barrels, tasting glasses, and authentic wine production atmosphere in Jerez'
 - src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp
-  alt: Andalusian horses galloping in arena with rider in traditional costume during equestrian show at Royal School
+  alt: 'Andalusian horses galloping in arena with rider in traditional costume during equestrian show at Royal School'
 ratingProveedor: 4.2
 numeroOpiniones: 641
 publicada: true

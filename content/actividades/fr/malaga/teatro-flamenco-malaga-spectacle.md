@@ -75,8 +75,8 @@ keywords:
 - spectacle flamenco malaga centre
 - billets flamenco malaga
 - flamenco malaga soirée
-imagen: /images/actividades/malaga/flamenco/bailaora-luz-escenario.webp
-imagenAlt: 'Danseuse de flamenco sur scène avec traînées lumineuses'
+imagen: /images/actividades/malaga/fotos-biblioteca/flamenco-wikimedia-01.webp
+imagenAlt: 'Spectacle de flamenco en direct'
 galeria:
 - src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
   alt: 'Guitariste de flamenco sur scène'

@@ -63,23 +63,25 @@ keywords:
 - route dali depuis barcelone
 - excursion figueres cadaques privee
 - triangle dalinien visite
-imagen: https://imgcdn.bokun.tools/ed24930d-5d16-446b-8682-259322fd33f8.jpg
-imagenAlt: "Cour du Théâtre-musée Dalí à Figueres"
+imagen: /images/actividades/girona/cadaques/cadaques-pueblo-blanco.webp
+imagenAlt: 'Baie de Cadaqués'
 galeria:
+- src: https://imgcdn.bokun.tools/ed24930d-5d16-446b-8682-259322fd33f8.jpg
+  alt: 'Cour du Théâtre-musée Dalí à Figueres'
 - src: https://imgcdn.bokun.tools/a6ee48cc-4a02-4a12-a05e-4d94665e9fcb.jpg
-  alt: "Amis dégustant du vin rouge dans un vignoble"
+  alt: 'Amis dégustant du vin rouge dans un vignoble'
 - src: https://imgcdn.bokun.tools/7b1bfc2c-26ba-4613-abb1-75a881584519.jpg
-  alt: "Théâtre-musée Dalí à Figueres"
+  alt: 'Théâtre-musée Dalí à Figueres'
 - src: https://imgcdn.bokun.tools/144912f7-bb4a-45d1-94aa-d4bdf5995b63.jpg
-  alt: "Visiteurs avec leur guide dans un vignoble"
+  alt: 'Visiteurs avec leur guide dans un vignoble'
 - src: https://imgcdn.bokun.tools/7a48c580-b947-4a3b-95f6-d126b6336227.jpg
-  alt: "Promenade au bord de la mer parmi les maisons blanches de Cadaqués"
+  alt: 'Promenade au bord de la mer parmi les maisons blanches de Cadaqués'
 - src: https://imgcdn.bokun.tools/a18d5e5e-fd35-4cba-bf2d-7d9c2105034c.jpg
-  alt: "Amies trinquant au vin blanc pendant un repas"
+  alt: 'Amies trinquant au vin blanc pendant un repas'
 - src: https://imgcdn.bokun.tools/fafd17be-615f-4a47-a268-ac12ebb8b8ba.jpg
-  alt: "Riz noir et tapas en terrasse"
+  alt: 'Riz noir et tapas en terrasse'
 - src: https://imgcdn.bokun.tools/0298a7b0-73c4-4df1-be9d-bcd43ef27725.jpg
-  alt: "Voyageuse face aux maisons blanches de Cadaqués"
+  alt: 'Voyageuse face aux maisons blanches de Cadaqués'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

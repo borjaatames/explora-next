@@ -57,17 +57,19 @@ keywords:
 - montserrat medio dia desde barcelona
 - excursion montserrat grupo reducido
 - montserrat desde barcelona barato
-imagen: https://imgcdn.bokun.tools/2c72dbc8-e14c-48d2-85fd-71729da74c09.jpeg
-imagenAlt: "Monasterio de Montserrat bajo sus picos de roca"
+imagen: /images/actividades/barcelona/fotos-biblioteca/wikimedia-01.webp
+imagenAlt: 'Monasterio de Montserrat entre las montañas'
 galeria:
+- src: https://imgcdn.bokun.tools/2c72dbc8-e14c-48d2-85fd-71729da74c09.jpeg
+  alt: 'Monasterio de Montserrat bajo sus picos de roca'
 - src: https://imgcdn.bokun.tools/8f52fd15-17c1-4bed-88d1-7162063c2624.jpeg
-  alt: "La Virgen de Montserrat en la basílica"
+  alt: 'La Virgen de Montserrat en la basílica'
 - src: https://imgcdn.bokun.tools/5cc83f85-3f78-459d-adb3-1961625e5913.jpeg
-  alt: "Ventanas en arco con vistas al bosque de Montserrat"
+  alt: 'Ventanas en arco con vistas al bosque de Montserrat'
 - src: https://imgcdn.bokun.tools/83777518-f116-48b7-b323-fc4d59683796.jpeg
-  alt: "Teleférico sobre los acantilados de Montserrat"
+  alt: 'Teleférico sobre los acantilados de Montserrat'
 - src: https://imgcdn.bokun.tools/4ba385db-f493-475f-ae0f-d6326583ad27.jpeg
-  alt: "Monasterio de Montserrat en la ladera de la montaña"
+  alt: 'Monasterio de Montserrat en la ladera de la montaña'
 publicada: true
 indexar: false
 destacada: false

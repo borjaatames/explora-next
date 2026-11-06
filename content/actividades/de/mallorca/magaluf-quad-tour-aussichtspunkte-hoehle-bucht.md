@@ -86,21 +86,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/mallorca/fma-quad-magaluf/manos-manillar-quad.webp
-imagenAlt: "Fahrer am Lenker eines Quads auf einer Schotterpiste"
+imagen: /images/actividades/mallorca/fma-quad-magaluf/quad-azul-costa.webp
+imagenAlt: 'Quad auf Felsen am Meer geparkt'
 galeria:
-- src: /images/actividades/mallorca/fma-quad-magaluf/quad-azul-costa.webp
-  alt: "Quad auf Felsen am Meer geparkt"
+- src: /images/actividades/mallorca/fma-quad-magaluf/manos-manillar-quad.webp
+  alt: 'Fahrer am Lenker eines Quads auf einer Schotterpiste'
 - src: /images/actividades/mallorca/barco-paguera/peguera-bahia.webp
-  alt: "Südwestküste Mallorcas von oben, bei Paguera"
+  alt: 'Südwestküste Mallorcas von oben, bei Paguera'
 - src: /images/actividades/mallorca/fma-quad-magaluf/quads-pista-polvo.webp
-  alt: "Quads wirbeln auf einer Schotterpiste Staub auf"
+  alt: 'Quads wirbeln auf einer Schotterpiste Staub auf'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
-  alt: "Person schnorchelt über felsigem Meeresgrund"
+  alt: 'Person schnorchelt über felsigem Meeresgrund'
 - src: /images/actividades/mallorca/barco-paguera/peguera-islote.webp
-  alt: "Mit Pinien bewachsene Insel vor der Küste von Paguera"
+  alt: 'Mit Pinien bewachsene Insel vor der Küste von Paguera'
 - src: /images/actividades/mallorca/fma-coloms/roca-agua-turquesa.webp
-  alt: "Fels im Meer, umgeben von türkisfarbenem Wasser"
+  alt: 'Fels im Meer, umgeben von türkisfarbenem Wasser'
 ---
 
 ## Was du siehst

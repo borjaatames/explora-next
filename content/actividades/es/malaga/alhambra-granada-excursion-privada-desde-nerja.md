@@ -66,17 +66,19 @@ keywords:
 - alhambra desde nerja
 - excursion privada granada desde nerja
 - tour alhambra nerja
-imagen: https://imgcdn.bokun.tools/dd194fa7-99d7-44d2-a9cd-8a182f28ec6b.jpg
-imagenAlt: Patio de los Arrayanes de la Alhambra
+imagen: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp
+imagenAlt: 'Patio de los Arrayanes de la Alhambra'
 galeria:
+- src: https://imgcdn.bokun.tools/dd194fa7-99d7-44d2-a9cd-8a182f28ec6b.jpg
+  alt: 'Patio de los Arrayanes de la Alhambra'
 - src: https://imgcdn.bokun.tools/80449cce-fc0a-4963-8c68-99d27cdfaebb.jpg
-  alt: Jardines del Generalife
+  alt: 'Jardines del Generalife'
 - src: https://imgcdn.bokun.tools/189647fa-b9dd-482f-a095-c0eaca78beed.jpg
-  alt: Flores en los jardines de la Alhambra
+  alt: 'Flores en los jardines de la Alhambra'
 - src: https://imgcdn.bokun.tools/02154768-fd3f-46a9-8cbc-a332e615f8cd.jpg
-  alt: Viajeros durante la visita a la Alhambra
+  alt: 'Viajeros durante la visita a la Alhambra'
 - src: https://imgcdn.bokun.tools/4ea9e444-f908-4c46-a6c5-31ebcaba6612.jpg
-  alt: Ventana nazarí con vistas
+  alt: 'Ventana nazarí con vistas'
 publicada: true
 indexar: false
 destacada: false

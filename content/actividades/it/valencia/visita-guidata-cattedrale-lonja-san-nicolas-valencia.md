@@ -80,27 +80,27 @@ keywords:
 - tour cattedrale e lonja valencia
 - loggia della seta valencia visita guidata
 - san nicolas valencia
-imagen: /images/actividades/valencia/centro/lonja-fachada.webp
-imagenAlt: Facciata gotica della Loggia della Seta
+imagen: /images/actividades/valencia/centro/catedral-puerta.webp
+imagenAlt: 'Portale della Cattedrale di Valencia su Plaza de la Virgen'
 galeria:
 - src: /images/actividades/valencia/centro/san-nicolas-altar-frescos.webp
-  alt: Altare maggiore e volte affrescate della chiesa di San Nicolás, Valencia
+  alt: 'Altare maggiore e volte affrescate della chiesa di San Nicolás, Valencia'
 - src: /images/actividades/valencia/centro/torres-serranos.webp
-  alt: Le Torri di Serranos, l'antica porta delle mura di Valencia
+  alt: 'Le Torri di Serranos, l''antica porta delle mura di Valencia'
 - src: /images/actividades/valencia/centro/san-nicolas-boveda.webp
-  alt: Volta barocca affrescata della chiesa di San Nicolás
+  alt: 'Volta barocca affrescata della chiesa di San Nicolás'
 - src: /images/actividades/valencia/centro/lonja-naranjos.webp
-  alt: Il cortile degli aranci della Loggia della Seta
+  alt: 'Il cortile degli aranci della Loggia della Seta'
 - src: /images/actividades/valencia/centro/catedral-nave-central.webp
-  alt: Navata centrale della Cattedrale di Valencia
+  alt: 'Navata centrale della Cattedrale di Valencia'
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
-  alt: Plaza de la Virgen con la basilica e la cattedrale
+  alt: 'Plaza de la Virgen con la basilica e la cattedrale'
 - src: /images/actividades/valencia/centro/plaza-reina-micalet.webp
-  alt: Plaza de la Reina con il Micalet e la Cattedrale di Valencia
-- src: /images/actividades/valencia/centro/catedral-puerta.webp
-  alt: Portale della Cattedrale di Valencia su Plaza de la Virgen
+  alt: 'Plaza de la Reina con il Micalet e la Cattedrale di Valencia'
+- src: /images/actividades/valencia/centro/lonja-fachada.webp
+  alt: 'Facciata gotica della Loggia della Seta'
 - src: /images/actividades/valencia/centro/micalet-naranjos.webp
-  alt: Il campanile del Micalet tra gli aranci
+  alt: 'Il campanile del Micalet tra gli aranci'
 ratingProveedor: 4.8
 numeroOpiniones: 1243
 atraccionesRelacionadas:

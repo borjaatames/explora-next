@@ -66,23 +66,21 @@ keywords:
 - sevilla stadtrundgang auf eigene faust
 - sevilla audiotour
 - sevilla selbstgeführte tour
-imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp
-imagenAlt: Ruderboote auf dem Kanal der Plaza de España
+imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
+imagenAlt: 'Turm und Brücke an der Plaza de España'
 galeria:
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp
-  alt: Fassade der Real Maestranza in Sevilla
+  alt: 'Fassade der Real Maestranza in Sevilla'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
-  alt: Fassade der Kathedrale von Sevilla zwischen Palmen
+  alt: 'Fassade der Kathedrale von Sevilla zwischen Palmen'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
-  alt: Die Plaza de España spiegelt sich im Kanal
+  alt: 'Die Plaza de España spiegelt sich im Kanal'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
-  alt: Las Setas an der Plaza de la Encarnación, wenige Gehminuten entfernt
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
-  alt: Turm und Brücke an der Plaza de España
+  alt: 'Las Setas an der Plaza de la Encarnación, wenige Gehminuten entfernt'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: Arkaden der Plaza de España mit ihren gekachelten Bänken
+  alt: 'Arkaden der Plaza de España mit ihren gekachelten Bänken'
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
-  alt: DareMapp-App mit der selbstgeführten Route
+  alt: 'DareMapp-App mit der selbstgeführten Route'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

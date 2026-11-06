@@ -78,8 +78,8 @@ keywords:
 - caminito del rey day trip from seville
 - caminito del rey private transport
 - caminito del rey tickets included
-imagen: https://imgcdn.bokun.tools/b6a73f80-992c-4c3e-8470-c41b4a953417.jpg
-imagenAlt: Hikers in helmets on the Caminito walkways
+imagen: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
+imagenAlt: 'Caminito del Rey walkways over the Gaitanes gorge'
 ratingProveedor: 5.0
 numeroOpiniones: 4
 publicada: true
@@ -87,18 +87,18 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp
-  alt: Caminito del Rey walkways over the Gaitanes gorge
+- src: https://imgcdn.bokun.tools/b6a73f80-992c-4c3e-8470-c41b4a953417.jpg
+  alt: 'Hikers in helmets on the Caminito walkways'
 - src: /images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp
-  alt: River and gorge at the Caminito del Rey
+  alt: 'River and gorge at the Caminito del Rey'
 - src: https://imgcdn.bokun.tools/73519bc9-7446-442e-bada-23c363e267fd.jpg
-  alt: Couple in helmets above the gorge
+  alt: 'Couple in helmets above the gorge'
 - src: https://imgcdn.bokun.tools/950e7c4c-c002-4759-9b67-5f7c565c9f8e.jpg
-  alt: Walkways fixed to the gorge wall
+  alt: 'Walkways fixed to the gorge wall'
 - src: /images/actividades/malaga/caminito-del-rey/pasarela.webp
-  alt: Caminito del Rey walkway clinging to the gorge
+  alt: 'Caminito del Rey walkway clinging to the gorge'
 - src: https://imgcdn.bokun.tools/4b5cc6a0-b458-4055-a885-d87e7bd97f42.jpg
-  alt: Caminito del Rey suspension bridge
+  alt: 'Caminito del Rey suspension bridge'
 bokunProductId: 860688
 fecha_actualizacion: '2026-10-24'
 privada: true

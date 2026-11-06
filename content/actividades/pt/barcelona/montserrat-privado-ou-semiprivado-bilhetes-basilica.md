@@ -82,8 +82,8 @@ keywords:
 - montserrat de carro
 - montserrat grupo reduzido
 - bilhetes virgem negra montserrat
-imagen: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-imagenAlt: Estátua do abade Oliba entre a vegetação de Montserrat
+imagen: /images/actividades/barcelona/montserrat/montserrat-rocas.webp
+imagenAlt: 'Edifícios do mosteiro e a montanha de Montserrat sob um céu azul'
 ratingProveedor: 4.8
 numeroOpiniones: 311
 publicada: true
@@ -92,17 +92,17 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-monasterio-montana.webp
-  alt: Mosteiro de Montserrat encaixado na montanha, visto de cima
-- src: /images/actividades/barcelona/montserrat/montserrat-rocas.webp
-  alt: Edifícios do mosteiro e a montanha de Montserrat sob um céu azul
+  alt: 'Mosteiro de Montserrat encaixado na montanha, visto de cima'
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: 'Estátua do abade Oliba entre a vegetação de Montserrat'
 - src: /images/actividades/barcelona/montserrat/basilica-montserrat-nave.webp
-  alt: Nave da basílica de Montserrat com o altar ao fundo
+  alt: 'Nave da basílica de Montserrat com o altar ao fundo'
 - src: https://imgcdn.bokun.tools/65cca502-bc14-4732-8b3d-60d19f2406be.jpg
-  alt: Mosteiro de Montserrat sob os picos rochosos
+  alt: 'Mosteiro de Montserrat sob os picos rochosos'
 - src: https://imgcdn.bokun.tools/6bde231b-e918-4ade-b5c3-bc6aba8daafb.jpg
-  alt: Viajantes no terraço do mosteiro com a montanha ao fundo
+  alt: 'Viajantes no terraço do mosteiro com a montanha ao fundo'
 - src: https://imgcdn.bokun.tools/1c248131-d79f-4a98-91be-0d3dd1f112a7.jpg
-  alt: Banca no mercado de produtores de Montserrat
+  alt: 'Banca no mercado de produtores de Montserrat'
 bokunProductId: 217561
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'

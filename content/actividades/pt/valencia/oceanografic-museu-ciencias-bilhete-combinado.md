@@ -72,33 +72,31 @@ keywords:
 - bilhete combinado oceanografic museu ciências
 - cidade das artes e das ciências bilhetes
 - museu das ciências valência bilhete
-imagen: /images/actividades/valencia/oceanografic/oceanografic-tunel-tiburones.webp
-imagenAlt: Visitantes no túnel subaquático do Oceanogràfic de Valência
+imagen: /images/actividades/valencia/museo-ciencias/museo-ciencias-atardecer.webp
+imagenAlt: 'Museu das Ciências Príncipe Felipe ao pôr do sol'
 galeria:
 - src: /images/actividades/valencia/oceanografic/oceanografic-beluga.webp
-  alt: Beluga a nadar na sua piscina do Oceanogràfic
-- src: /images/actividades/valencia/museo-ciencias/museo-ciencias-atardecer.webp
-  alt: Museu das Ciências Príncipe Felipe ao pôr do sol
+  alt: 'Beluga a nadar na sua piscina do Oceanogràfic'
 - src: /images/actividades/valencia/oceanografic/oceanografic-tiburon.webp
-  alt: Tubarão-touro no aquário dos oceanos do Oceanogràfic
+  alt: 'Tubarão-touro no aquário dos oceanos do Oceanogràfic'
 - src: /images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp
-  alt: Arquitetura do Oceanogràfic de Valência na Cidade das Artes
+  alt: 'Arquitetura do Oceanogràfic de Valência na Cidade das Artes'
 - src: /images/actividades/valencia/oceanografic/oceanografic-leon-marino.webp
-  alt: Leão-marinho sobre uma rocha no Oceanogràfic
+  alt: 'Leão-marinho sobre uma rocha no Oceanogràfic'
 - src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp
-  alt: Exterior da Cidade das Artes e das Ciências de Valência
+  alt: 'Exterior da Cidade das Artes e das Ciências de Valência'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-interior-sala.webp
-  alt: Grande nave interior do Museu das Ciências com as suas exposições
+  alt: 'Grande nave interior do Museu das Ciências com as suas exposições'
 - src: /images/actividades/valencia/museo-ciencias/hemisferic-dia.webp
-  alt: O Hemisfèric refletido na água
+  alt: 'O Hemisfèric refletido na água'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-adn.webp
-  alt: Grande molécula de ADN no interior do Museu das Ciências
+  alt: 'Grande molécula de ADN no interior do Museu das Ciências'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-fachada.webp
-  alt: Estrutura branca do Museu das Ciências
+  alt: 'Estrutura branca do Museu das Ciências'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-noche.webp
-  alt: Museu das Ciências iluminado à noite
+  alt: 'Museu das Ciências iluminado à noite'
 - src: /images/actividades/valencia/museo-ciencias/museo-ciencias-rotulo.webp
-  alt: Fachada do Museu de les Ciències com o seu letreiro
+  alt: 'Fachada do Museu de les Ciències com o seu letreiro'
 ratingProveedor: 4.7
 numeroOpiniones: 2797
 atraccionesRelacionadas:

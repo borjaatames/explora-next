@@ -67,17 +67,19 @@ keywords:
 - alhambra depuis nerja
 - excursion privée grenade nerja
 - visite alhambra en français
-imagen: https://imgcdn.bokun.tools/dd194fa7-99d7-44d2-a9cd-8a182f28ec6b.jpg
-imagenAlt: La cour des Myrtes de l’Alhambra
+imagen: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp
+imagenAlt: 'Cour des Myrtes de l''Alhambra'
 galeria:
+- src: https://imgcdn.bokun.tools/dd194fa7-99d7-44d2-a9cd-8a182f28ec6b.jpg
+  alt: 'La cour des Myrtes de l’Alhambra'
 - src: https://imgcdn.bokun.tools/80449cce-fc0a-4963-8c68-99d27cdfaebb.jpg
-  alt: Les jardins du Generalife
+  alt: 'Les jardins du Generalife'
 - src: https://imgcdn.bokun.tools/189647fa-b9dd-482f-a095-c0eaca78beed.jpg
-  alt: Fleurs dans les jardins de l’Alhambra
+  alt: 'Fleurs dans les jardins de l’Alhambra'
 - src: https://imgcdn.bokun.tools/02154768-fd3f-46a9-8cbc-a332e615f8cd.jpg
-  alt: Voyageurs pendant la visite de l’Alhambra
+  alt: 'Voyageurs pendant la visite de l’Alhambra'
 - src: https://imgcdn.bokun.tools/4ea9e444-f908-4c46-a6c5-31ebcaba6612.jpg
-  alt: Fenêtre nasride avec vue
+  alt: 'Fenêtre nasride avec vue'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

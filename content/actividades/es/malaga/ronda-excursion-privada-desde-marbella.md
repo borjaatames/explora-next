@@ -63,25 +63,27 @@ keywords:
 - ronda desde marbella
 - excursion privada ronda marbella
 - tour ronda desde marbella
-imagen: https://imgcdn.bokun.tools/4ac9a1fa-7677-4413-956f-82de56bff591.jpg
-imagenAlt: El Puente Nuevo de Ronda sobre el Tajo
+imagen: /images/actividades/granada/ronda/ronda-pixabay-3372201.webp
+imagenAlt: 'Puente Nuevo de Ronda sobre el Tajo'
 galeria:
+- src: https://imgcdn.bokun.tools/4ac9a1fa-7677-4413-956f-82de56bff591.jpg
+  alt: 'El Puente Nuevo de Ronda sobre el Tajo'
 - src: https://imgcdn.bokun.tools/5cc326b6-453f-4f97-8307-451eaa6ff7ae.jpg
-  alt: Viajeros con el Tajo de Ronda al fondo
+  alt: 'Viajeros con el Tajo de Ronda al fondo'
 - src: https://imgcdn.bokun.tools/5fed2530-1445-4f2e-8460-55bc0ed068ca.jpg
-  alt: Vista de Ronda sobre el cortado
+  alt: 'Vista de Ronda sobre el cortado'
 - src: https://imgcdn.bokun.tools/4e4b8378-8731-471d-be1c-cfeb514bfa39.jpg
-  alt: Puente Nuevo visto desde abajo
+  alt: 'Puente Nuevo visto desde abajo'
 - src: https://imgcdn.bokun.tools/a26ecaf4-98be-4e81-960b-fc067516bf8e.jpg
-  alt: Paredes del Tajo de Ronda
+  alt: 'Paredes del Tajo de Ronda'
 - src: https://imgcdn.bokun.tools/7e782afa-d06b-4996-bb9c-24d841c7ee70.jpg
-  alt: Puerta de la plaza de toros de Ronda
+  alt: 'Puerta de la plaza de toros de Ronda'
 - src: https://imgcdn.bokun.tools/8cb39e6a-cb94-4a18-8f3d-bd1aa4df4403.jpg
-  alt: Sendero bajo el Tajo de Ronda
+  alt: 'Sendero bajo el Tajo de Ronda'
 - src: https://imgcdn.bokun.tools/a1af50b5-37fa-4fbb-bb60-215c6038d307.jpg
-  alt: Mirador sobre la serranía de Ronda
+  alt: 'Mirador sobre la serranía de Ronda'
 - src: https://imgcdn.bokun.tools/76e5989a-2dc9-4c6d-aa20-c078d8f29a6d.jpg
-  alt: Grupo en un mirador de Ronda
+  alt: 'Grupo en un mirador de Ronda'
 publicada: true
 indexar: false
 destacada: false

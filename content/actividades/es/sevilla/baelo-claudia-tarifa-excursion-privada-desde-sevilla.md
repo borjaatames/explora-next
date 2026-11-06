@@ -69,25 +69,25 @@ keywords:
 - excursion tarifa desde sevilla
 - baelo claudia y tarifa excursion
 - bolonia baelo claudia excursion privada
-imagen: https://imgcdn.bokun.tools/538687cb-0599-4e48-9f20-03e6a8b0cec3.jpeg
-imagenAlt: Columnas de la basílica de Baelo Claudia frente al mar
+imagen: /images/actividades/cadiz/baelo-claudia/baelo-claudia-02.webp
+imagenAlt: 'Factoría de salazones de Baelo Claudia'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-01.webp
-  alt: Ruinas romanas de Baelo Claudia junto al mar
-- src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-02.webp
-  alt: Factoría de salazones de Baelo Claudia
+  alt: 'Ruinas romanas de Baelo Claudia junto al mar'
+- src: https://imgcdn.bokun.tools/538687cb-0599-4e48-9f20-03e6a8b0cec3.jpeg
+  alt: 'Columnas de la basílica de Baelo Claudia frente al mar'
 - src: https://imgcdn.bokun.tools/3a316ee4-483d-4a24-9fb7-6cf05800451c.jpeg
-  alt: Ruinas de Baelo Claudia junto a la costa
+  alt: 'Ruinas de Baelo Claudia junto a la costa'
 - src: https://imgcdn.bokun.tools/68be5306-3ce9-4754-a0cb-debd1d967bc1.jpeg
-  alt: Duna y playa de Bolonia
+  alt: 'Duna y playa de Bolonia'
 - src: /images/actividades/cadiz/baelo-claudia/baelo-claudia-03.webp
-  alt: Columnas de la basílica de Baelo Claudia
+  alt: 'Columnas de la basílica de Baelo Claudia'
 - src: /images/actividades/cadiz/tarifa/tarifa-playa-los-lances-kitesurf.webp
-  alt: Playa de los Lances en Tarifa con cometas de kitesurf
+  alt: 'Playa de los Lances en Tarifa con cometas de kitesurf'
 bokunProductId: 132421
 fecha_actualizacion: '2026-10-24'
 privada: true

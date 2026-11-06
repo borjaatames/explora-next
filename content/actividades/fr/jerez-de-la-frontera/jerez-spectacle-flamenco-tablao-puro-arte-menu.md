@@ -74,23 +74,23 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-imagenAlt: "Danseuse de flamenco tournant sur scène, la jupe en mouvement"
+imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
+imagenAlt: 'Public assistant à un spectacle de flamenco à Jerez'
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: "Mains d'une danseuse tenant des castagnettes"
+  alt: 'Mains d''une danseuse tenant des castagnettes'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
-  alt: "Danseuse en jupe à volants dansant sous une lumière tamisée"
+  alt: 'Danseuse en jupe à volants dansant sous une lumière tamisée'
 - src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-generoso.webp
-  alt: "Verre de vin liquoreux sur une planche en bois"
+  alt: 'Verre de vin liquoreux sur une planche en bois'
 - src: /images/actividades/jerez-de-la-frontera/tapas/tabla-tapas-cazuelas.webp
-  alt: "Assortiment de tapas et de petits plats en terre cuite"
+  alt: 'Assortiment de tapas et de petits plats en terre cuite'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
-  alt: "Cathédrale de Jerez et sa tour illuminées la nuit"
+  alt: 'Cathédrale de Jerez et sa tour illuminées la nuit'
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: 'Danseuse de flamenco et musicien dans un tablao'
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-  alt: "Musiciens en direct dans un tablao flamenco de Jerez"
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: "Public assistant à un spectacle de flamenco à Jerez"
+  alt: 'Musiciens en direct dans un tablao flamenco de Jerez'
 ---
 
 ## Ce que vous allez voir

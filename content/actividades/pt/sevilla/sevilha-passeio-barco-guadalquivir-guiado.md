@@ -113,23 +113,21 @@ keywords:
 - passeio de barco sevilha
 - cruzeiro guadalquivir bebida incluida
 - barco sevilha torre del oro
-imagen: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-imagenAlt: Ponte de Triana sobre o Guadalquivir ao pôr do sol
+imagen: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp
+imagenAlt: 'Barcos turísticos no Guadalquivir ao pôr do sol'
 galeria:
 - src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
-  alt: Torre del Oro junto ao Guadalquivir
+  alt: 'Torre del Oro junto ao Guadalquivir'
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
-  alt: Praça de touros da Real Maestranza de Sevilha
-- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp
-  alt: Barcos turísticos no Guadalquivir ao pôr do sol
+  alt: 'Praça de touros da Real Maestranza de Sevilha'
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
-  alt: Torre del Oro e barcos no Guadalquivir
+  alt: 'Torre del Oro e barcos no Guadalquivir'
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-02.webp
-  alt: Barcos de cruzeiro atracados no Guadalquivir
+  alt: 'Barcos de cruzeiro atracados no Guadalquivir'
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
-  alt: Margem do Guadalquivir com a Torre del Oro ao fundo
+  alt: 'Margem do Guadalquivir com a Torre del Oro ao fundo'
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
-  alt: Vista aérea da praça de touros da Maestranza
+  alt: 'Vista aérea da praça de touros da Maestranza'
 ratingProveedor: 4.7
 numeroOpiniones: 1746
 publicada: true

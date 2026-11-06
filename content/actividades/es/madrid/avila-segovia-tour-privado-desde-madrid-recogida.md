@@ -62,9 +62,11 @@ categoria: excursionesDia
 keywords:
 - excursion privada avila segovia
 - tour privado avila y segovia desde madrid
-imagen: https://imgcdn.bokun.tools/5975f63b-5546-4fd0-82c5-a35ab6237b64.jpg
-imagenAlt: 'Las murallas de Ávila con una de sus puertas'
+imagen: /images/actividades/avila/avila/unsplash-aqnBRXo-xpY-hero.webp
+imagenAlt: 'Murallas de Ávila'
 galeria:
+- src: https://imgcdn.bokun.tools/5975f63b-5546-4fd0-82c5-a35ab6237b64.jpg
+  alt: 'Las murallas de Ávila con una de sus puertas'
 - src: https://imgcdn.bokun.tools/5d33a384-a61a-4467-8172-f029bae94636.jpg
   alt: 'El acueducto romano de Segovia'
 - src: https://imgcdn.bokun.tools/3ea3c146-8ff9-4a2c-8ad2-a4e1f6abe3db.jpg

@@ -72,23 +72,23 @@ keywords:
 - grindwale teneriffa
 - bootsausflug los gigantes
 - delfinbeobachtung teneriffa
-imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-imagenAlt: Die Klippen von Los Gigantes ragen aus dem Meer, Teneriffa
+imagen: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
+imagenAlt: 'Delfin schwimmt an der Oberfläche'
 galeria:
 - src: /images/actividades/tenerife/gigantes/costa-acantilado-velero.webp
-  alt: Küste und Klippen vom Boot zur Walbeobachtung aus
-- src: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
-  alt: Delfin schwimmt an der Oberfläche
+  alt: 'Küste und Klippen vom Boot zur Walbeobachtung aus'
+- src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
+  alt: 'Die Klippen von Los Gigantes ragen aus dem Meer, Teneriffa'
 - src: /images/actividades/tenerife/gigantes/gigantes-pueblo.webp
-  alt: Der Ort Los Gigantes auf Teneriffa
+  alt: 'Der Ort Los Gigantes auf Teneriffa'
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: Grindwal taucht nah am Boot auf, Teneriffa
+  alt: 'Grindwal taucht nah am Boot auf, Teneriffa'
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
-  alt: Küste bei Los Gigantes, Teneriffa
+  alt: 'Küste bei Los Gigantes, Teneriffa'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Atlantischer Fleckendelfin vor der Küste Teneriffas
+  alt: 'Atlantischer Fleckendelfin vor der Küste Teneriffas'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-  alt: Offenes Meer unter den Klippen von Los Gigantes
+  alt: 'Offenes Meer unter den Klippen von Los Gigantes'
 ratingProveedor: 4.7
 numeroOpiniones: 5888
 atraccionesRelacionadas:

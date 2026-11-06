@@ -62,25 +62,27 @@ keywords:
 - cordoba from marbella
 - private day trip cordoba from marbella
 - cordoba mosque tour from marbella
-imagen: https://imgcdn.bokun.tools/1b7e1a3d-6b77-4486-817d-67d7fc0e00b1.jpg
-imagenAlt: Visitors among the arches of the Mosque-Cathedral
+imagen: /images/actividades/cordoba/alcazar-reyes-cristianos/alcazar-reyes-cristianos-04.webp
+imagenAlt: 'Panoramic view of Córdoba with the Mosque-Cathedral'
 galeria:
+- src: https://imgcdn.bokun.tools/1b7e1a3d-6b77-4486-817d-67d7fc0e00b1.jpg
+  alt: 'Visitors among the arches of the Mosque-Cathedral'
 - src: https://imgcdn.bokun.tools/2a5c4eac-7170-488d-a83b-8cc9e254bf81.jpg
-  alt: Arches of the Mosque of Córdoba
+  alt: 'Arches of the Mosque of Córdoba'
 - src: https://imgcdn.bokun.tools/8cc75d9b-84c5-4a75-a095-758ea4379728.jpg
-  alt: Whitewashed alley with the Mosque tower behind
+  alt: 'Whitewashed alley with the Mosque tower behind'
 - src: https://imgcdn.bokun.tools/3b3e547f-f6ca-4e33-8a4b-06c8a6e75998.jpg
-  alt: View of Córdoba with the Roman Bridge
+  alt: 'View of Córdoba with the Roman Bridge'
 - src: https://imgcdn.bokun.tools/71c1c3b2-41c5-45b4-a103-086ceb62fcf5.jpg
-  alt: Córdoba courtyard with flowerpots
+  alt: 'Córdoba courtyard with flowerpots'
 - src: https://imgcdn.bokun.tools/2aeb331a-ee07-42b7-89ed-6c1c00986e09.jpg
-  alt: Inside the Mosque-Cathedral
+  alt: 'Inside the Mosque-Cathedral'
 - src: https://imgcdn.bokun.tools/0f6ab051-8c54-4ee4-af5e-2255922afa00.jpg
-  alt: Walking through the Jewish Quarter with the guide
+  alt: 'Walking through the Jewish Quarter with the guide'
 - src: https://imgcdn.bokun.tools/e721dc2f-05d2-45d4-9507-bbee7e730bf8.jpg
-  alt: Bell tower of the Mosque-Cathedral
+  alt: 'Bell tower of the Mosque-Cathedral'
 - src: https://imgcdn.bokun.tools/af952c03-db94-4bd5-a643-7b145c4e9ad1.jpg
-  alt: Doorway of the Mosque-Cathedral
+  alt: 'Doorway of the Mosque-Cathedral'
 publicada: true
 indexar: false
 destacada: false

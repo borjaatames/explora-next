@@ -99,25 +99,23 @@ keywords:
 - triana market cooking class
 - paella cooking class seville
 - andalusian cooking class
-imagen: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-triana-2016002-jpg-01.webp
-imagenAlt: Fruit and vegetable stall piled high at the Triana market
+imagen: /images/actividades/madrid/paella/paella-preparacion-manos.webp
+imagenAlt: 'Cook adding olive oil to a paella over the fire'
 galeria:
 - src: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-02-jpg-05.webp
-  alt: Tiled entrance sign of the Mercado de Triana
+  alt: 'Tiled entrance sign of the Mercado de Triana'
 - src: /images/actividades/sevilla/mercado-triana/mercado-triana-wikimedia-mercado-de-triana-sevilla-jpg-03.webp
-  alt: Ham and deli stalls inside the Mercado de Triana
+  alt: 'Ham and deli stalls inside the Mercado de Triana'
 - src: /images/actividades/sevilla/triana/mercado-triana-puesto-frutas.webp
-  alt: Greengrocer's stall inside the Triana market
+  alt: 'Greengrocer''s stall inside the Triana market'
 - src: /images/actividades/madrid/paella/paella-pixabay-1167973.webp
-  alt: Mixed paella cooked over firewood
+  alt: 'Mixed paella cooked over firewood'
 - src: /images/actividades/madrid/paella/paella-pexels-36878063.webp
-  alt: Seafood paella with prawns and a wooden spoon
+  alt: 'Seafood paella with prawns and a wooden spoon'
 - src: /images/actividades/sevilla/triana/triana-pexels-16778487.webp
-  alt: Triana riverfront across the Guadalquivir
+  alt: 'Triana riverfront across the Guadalquivir'
 - src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
-  alt: Triana Bridge lit up at dusk
-- src: /images/actividades/madrid/paella/paella-preparacion-manos.webp
-  alt: Cook adding olive oil to a paella over the fire
+  alt: 'Triana Bridge lit up at dusk'
 ratingProveedor: 4.9
 numeroOpiniones: 975
 publicada: true

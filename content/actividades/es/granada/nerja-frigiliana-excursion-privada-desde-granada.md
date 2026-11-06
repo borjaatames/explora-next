@@ -73,25 +73,25 @@ keywords:
 - cueva de nerja excursion
 - frigiliana tour privado
 - nerja frigiliana privado
-imagen: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-balcon-europa-vista-panoramica-02-hero.webp
-imagenAlt: Balcón de Europa, en Nerja
+imagen: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-frigiliana-pueblo-blanco-frigilia-hero.webp
+imagenAlt: 'Calles blancas del pueblo de Frigiliana'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/f92c7cf7-95f1-4f74-8297-564c93abfb2a.jpg
-  alt: Calle escalonada con macetas en Frigiliana
+  alt: 'Calle escalonada con macetas en Frigiliana'
 - src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-cuevas-nerja-interior-01-hero.webp
-  alt: Interior de la Cueva de Nerja con sus formaciones
+  alt: 'Interior de la Cueva de Nerja con sus formaciones'
 - src: https://imgcdn.bokun.tools/078afc59-2c2b-4647-9b51-b3eb577ab167.jpg
-  alt: Puerta y ventana azules en una casa encalada
+  alt: 'Puerta y ventana azules en una casa encalada'
 - src: https://imgcdn.bokun.tools/10b86fb6-403c-49f0-b6f3-3135781e4cd9.jpg
-  alt: Escalera en el interior de la Cueva de Nerja
-- src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-frigiliana-pueblo-blanco-frigilia-hero.webp
-  alt: Calles blancas del pueblo de Frigiliana
+  alt: 'Escalera en el interior de la Cueva de Nerja'
+- src: /images/actividades/granada/nerja-frigiliana-sin-colas/nerja-frigiliana-sin-colas-balcon-europa-vista-panoramica-02-hero.webp
+  alt: 'Balcón de Europa, en Nerja'
 - src: https://imgcdn.bokun.tools/fdc1c28b-e5bf-4e73-8dde-69f7b58f3700.jpg
-  alt: Costa de Nerja con sus casas sobre el mar
+  alt: 'Costa de Nerja con sus casas sobre el mar'
 bokunProductId: 919053
 fecha_actualizacion: '2026-10-24'
 privada: true

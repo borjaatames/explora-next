@@ -63,19 +63,21 @@ keywords:
 - alpujarra desde nerja
 - excursion privada alpujarra
 - pampaneira capileira desde nerja
-imagen: https://imgcdn.bokun.tools/8b30cb0e-3e46-46d1-b389-53960182e001.jpg
-imagenAlt: Pueblo de la Alpujarra en la ladera de Sierra Nevada
+imagen: /images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-vista-de-capileira-jpg.webp
+imagenAlt: 'Pueblo de la Alpujarra bajo Sierra Nevada'
 galeria:
+- src: https://imgcdn.bokun.tools/8b30cb0e-3e46-46d1-b389-53960182e001.jpg
+  alt: 'Pueblo de la Alpujarra en la ladera de Sierra Nevada'
 - src: https://imgcdn.bokun.tools/7abd6e3d-e14b-4d34-b7c1-dd271c24515b.jpg
-  alt: Paisaje de la Alpujarra con pueblos blancos
+  alt: 'Paisaje de la Alpujarra con pueblos blancos'
 - src: https://imgcdn.bokun.tools/1f369359-b8fb-4e84-8109-cd46a5699612.jpg
-  alt: Viajera en un mirador de la Alpujarra
+  alt: 'Viajera en un mirador de la Alpujarra'
 - src: https://imgcdn.bokun.tools/d69fe887-f0d6-4094-b34b-75baaf662c71.jpg
-  alt: Visita a una casa tradicional alpujarreña
+  alt: 'Visita a una casa tradicional alpujarreña'
 - src: https://imgcdn.bokun.tools/36e5b8a8-ee8b-47b9-b3ab-571a9515f7ae.jpg
-  alt: Tienda de productos locales
+  alt: 'Tienda de productos locales'
 - src: https://imgcdn.bokun.tools/4983bd3a-fbf5-4ccd-888c-217fd42276b6.jpg
-  alt: Calle con flores en un pueblo de la Alpujarra
+  alt: 'Calle con flores en un pueblo de la Alpujarra'
 publicada: true
 indexar: false
 destacada: false

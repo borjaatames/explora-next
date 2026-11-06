@@ -70,19 +70,19 @@ keywords:
 - arehucas rum tour
 - arehucas distillery
 - arucas rum tasting
-imagen: /images/actividades/gran-canaria/arehucas/arehucas-destileria-arucas-vista.webp
-imagenAlt: Arehucas distillery with its chimney in Arucas, seen from the Montaña de Arucas
+imagen: /images/actividades/gran-canaria/arehucas/barricas-ron-bodega-crianza.webp
+imagenAlt: 'Oak barrels stacked in an ageing cellar (illustrative image)'
 galeria:
 - src: /images/actividades/gran-canaria/arehucas/arehucas-fabrica-ron-arucas.webp
-  alt: Arehucas rum factory among the houses of Arucas
-- src: /images/actividades/gran-canaria/arehucas/barricas-ron-bodega-crianza.webp
-  alt: Oak barrels stacked in an ageing cellar (illustrative image)
+  alt: 'Arehucas rum factory among the houses of Arucas'
+- src: /images/actividades/gran-canaria/arehucas/arehucas-destileria-arucas-vista.webp
+  alt: 'Arehucas distillery with its chimney in Arucas, seen from the Montaña de Arucas'
 - src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
-  alt: San Juan Bautista church in Arucas, near the distillery
+  alt: 'San Juan Bautista church in Arucas, near the distillery'
 - src: /images/actividades/gran-canaria/platano/arucas-paisaje.webp
-  alt: Landscape around Arucas in northern Gran Canaria
+  alt: 'Landscape around Arucas in northern Gran Canaria'
 - src: /images/actividades/gran-canaria/platano/plataneras-arucas.webp
-  alt: Banana plantations in Arucas
+  alt: 'Banana plantations in Arucas'
 ratingProveedor: 4.8
 numeroOpiniones: 269
 atraccionesRelacionadas:

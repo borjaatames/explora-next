@@ -73,23 +73,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
-imagenAlt: "Bailaora de flamenco em movimento num palco na penumbra (imagem ilustrativa)"
+imagen: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+imagenAlt: 'Bailaora com xaile e guitarrista num espetáculo de flamenco'
 galeria:
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-noche.webp
-  alt: "Catedral de Palma iluminada à noite"
+  alt: 'Catedral de Palma iluminada à noite'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: "Mãos de uma bailaora com castanholas"
+  alt: 'Mãos de uma bailaora com castanholas'
 - src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
-  alt: "Passeio marítimo de Palma ao pôr do sol"
+  alt: 'Passeio marítimo de Palma ao pôr do sol'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-  alt: "Volta de uma bailaora no palco (imagem ilustrativa)"
+  alt: 'Volta de uma bailaora no palco (imagem ilustrativa)'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
-  alt: "Catedral de Palma com o céu rosado do pôr do sol"
-- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-  alt: "Bailaora com xaile e guitarrista num espetáculo de flamenco"
+  alt: 'Catedral de Palma com o céu rosado do pôr do sol'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
-  alt: "Bailaora de flamenco a preto e branco"
+  alt: 'Bailaora de flamenco a preto e branco'
 ---
 
 ## O que vai ver

@@ -59,17 +59,19 @@ keywords:
 - tour privado barcelona dia completo
 - barcelona en un dia privado con coche
 - sagrada familia park guell privado
-imagen: https://imgcdn.bokun.tools/cf0cacc7-1c04-4507-b115-8b6eb554c4c8.jpg
-imagenAlt: "Palacio Nacional de Montjuïc"
+imagen: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero.webp
+imagenAlt: 'Panorámica del Park Güell'
 galeria:
+- src: https://imgcdn.bokun.tools/cf0cacc7-1c04-4507-b115-8b6eb554c4c8.jpg
+  alt: 'Palacio Nacional de Montjuïc'
 - src: https://imgcdn.bokun.tools/bcc966e4-8a39-4b21-9277-12a01cde7b53.jpg
-  alt: "Interior de una catedral gótica iluminado por las vidrieras"
+  alt: 'Interior de una catedral gótica iluminado por las vidrieras'
 - src: https://imgcdn.bokun.tools/b31f81ac-eb1c-4b15-b48f-e42950937e04.jpg
-  alt: "Amigos haciéndose un selfi ante la Sagrada Família"
+  alt: 'Amigos haciéndose un selfi ante la Sagrada Família'
 - src: https://imgcdn.bokun.tools/54b467f3-29d1-4be9-8d32-44154e8d8d10.jpg
-  alt: "Port Vell y el perfil de Barcelona desde Montjuïc"
+  alt: 'Port Vell y el perfil de Barcelona desde Montjuïc'
 - src: https://imgcdn.bokun.tools/711fc1d1-98ac-4f8d-8de3-24c076dc3411.jpg
-  alt: "Visitantes junto a un pabellón de Gaudí en el Park Güell"
+  alt: 'Visitantes junto a un pabellón de Gaudí en el Park Güell'
 publicada: true
 indexar: false
 destacada: false

@@ -80,23 +80,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/fal-guadalest/fal-guadalest-pueblo-cresta.webp
-imagenAlt: "Pueblo de Guadalest sobre la cresta rocosa"
+imagen: /images/actividades/alicante/excursiones/guadalest-campanario.webp
+imagenAlt: 'Campanario de Guadalest sobre la peña'
 galeria:
-- src: /images/actividades/alicante/excursiones/guadalest-campanario.webp
-  alt: "Campanario de Guadalest sobre la peña"
 - src: /images/actividades/alicante/fal-guadalest/fal-embalse-guadalest.webp
-  alt: "Embalse de Guadalest entre montañas"
+  alt: 'Embalse de Guadalest entre montañas'
 - src: /images/actividades/alicante/fal-guadalest/fal-guadalest-casas.webp
-  alt: "Casas encaladas de Guadalest"
+  alt: 'Casas encaladas de Guadalest'
 - src: /images/actividades/alicante/excursiones/guadalest-desde-castillo.webp
-  alt: "Guadalest visto desde el castillo"
+  alt: 'Guadalest visto desde el castillo'
 - src: /images/actividades/alicante/fal-altea/fal-altea-desde-mar.webp
-  alt: "Altea vista desde el mar"
+  alt: 'Altea vista desde el mar'
 - src: /images/actividades/alicante/fal-altea/fal-calle-flores-altea.webp
-  alt: "Calle con flores en el casco antiguo de Altea"
+  alt: 'Calle con flores en el casco antiguo de Altea'
 - src: /images/actividades/alicante/excursiones/altea-iglesia.webp
-  alt: "Cúpulas azules de la iglesia de Altea"
+  alt: 'Cúpulas azules de la iglesia de Altea'
 ---
 
 ## Qué vas a ver

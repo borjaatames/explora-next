@@ -62,9 +62,11 @@ categoria: excursionesDia
 keywords:
 - toledo private tour from madrid
 - private day trip toledo by car
-imagen: https://imgcdn.bokun.tools/68d5daaa-472e-40ae-989d-14164f4153ad.jpg
-imagenAlt: 'Panoramic view of Toledo surrounded by the Tagus'
+imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
+imagenAlt: 'Alcázar of Toledo rising above the city'
 galeria:
+- src: https://imgcdn.bokun.tools/68d5daaa-472e-40ae-989d-14164f4153ad.jpg
+  alt: 'Panoramic view of Toledo surrounded by the Tagus'
 - src: https://imgcdn.bokun.tools/08f5ebbf-f003-4e08-9dfa-f5fc91c64309.jpg
   alt: 'Toledo Cathedral'
 - src: https://imgcdn.bokun.tools/bea82c6e-e844-414a-b4ac-3da0f24f09da.jpg

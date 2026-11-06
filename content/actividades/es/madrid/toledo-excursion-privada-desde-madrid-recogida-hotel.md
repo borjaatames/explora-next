@@ -63,9 +63,11 @@ categoria: excursionesDia
 keywords:
 - excursion privada toledo desde madrid
 - toledo con recogida en hotel
-imagen: https://imgcdn.bokun.tools/c90ab40e-2f02-4b6d-a42d-9c8aaff313cb.jpg
-imagenAlt: 'Toledo al atardecer con la catedral y el Alcázar'
+imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-june-2016-hero.webp
+imagenAlt: 'Toledo y su Alcázar'
 galeria:
+- src: https://imgcdn.bokun.tools/c90ab40e-2f02-4b6d-a42d-9c8aaff313cb.jpg
+  alt: 'Toledo al atardecer con la catedral y el Alcázar'
 - src: https://imgcdn.bokun.tools/28609f5f-b7a5-427c-b85a-76863df536d8.jpg
   alt: 'Toledo sobre el meandro del Tajo'
 - src: https://imgcdn.bokun.tools/37e93d75-1118-41a8-aa26-0eb3b51c0d99.jpg

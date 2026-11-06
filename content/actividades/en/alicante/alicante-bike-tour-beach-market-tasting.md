@@ -79,23 +79,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/ibiza/formentera/fi1-bicis-junto-dunas.webp
-imagenAlt: "Colourful bikes parked by a beach fence"
+imagen: /images/actividades/alicante/centro/explanada-palmeras.webp
+imagenAlt: 'Explanada de España with palm trees'
 galeria:
 - src: /images/actividades/alicante/centro/santa-cruz.webp
-  alt: "Santa Cruz quarter in Alicante's old town"
-- src: /images/actividades/alicante/centro/explanada-palmeras.webp
-  alt: "Explanada de España with palm trees"
+  alt: 'Santa Cruz quarter in Alicante''s old town'
 - src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: "Postiguet beach with Santa Bárbara Castle behind"
+  alt: 'Postiguet beach with Santa Bárbara Castle behind'
 - src: /images/actividades/alicante/fal-bici/fal-bicicletas-pasarela-playa.webp
-  alt: "Bikes parked on a wooden boardwalk by the beach"
+  alt: 'Bikes parked on a wooden boardwalk by the beach'
 - src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: "Alicante port seen from the castle"
+  alt: 'Alicante port seen from the castle'
 - src: /images/actividades/alicante/centro/santa-maria.webp
-  alt: "Basilica of Santa María in Alicante"
+  alt: 'Basilica of Santa María in Alicante'
 - src: /images/actividades/alicante/paella/mercado-palmeras.webp
-  alt: "Façade of Alicante's Central Market"
+  alt: 'Façade of Alicante''s Central Market'
 ---
 
 ## What you will see

@@ -60,9 +60,11 @@ categoria: excursionesDia
 keywords:
 - tour privato cuenca da madrid
 - cuenca guida in italiano
-imagen: https://imgcdn.bokun.tools/ee44210e-362c-40ee-ac88-09b5ad7d275c.jpg
-imagenAlt: 'Le Casas Colgadas di Cuenca al tramonto'
+imagen: /images/actividades/cuenca/casas-colgadas/unsplash-QDbYlRHRICc-hero.webp
+imagenAlt: 'Case Sospese di Cuenca sopra la gola dello Huécar'
 galeria:
+- src: https://imgcdn.bokun.tools/ee44210e-362c-40ee-ac88-09b5ad7d275c.jpg
+  alt: 'Le Casas Colgadas di Cuenca al tramonto'
 - src: https://imgcdn.bokun.tools/44b97c4c-db76-4e5e-99de-e1f00805fc46.jpg
   alt: 'La cattedrale di Cuenca'
 - src: https://imgcdn.bokun.tools/fa5e8110-5b8b-4a18-88b0-8e54f1ee4bae.jpg

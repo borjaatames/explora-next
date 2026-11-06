@@ -62,19 +62,21 @@ keywords:
 - voilier prive ibiza
 - location voilier skipper ibiza
 - criques ibiza bateau prive
-imagen: https://imgcdn.bokun.tools/4d1ad9cd-03bc-4407-90b5-2da17770e259.jpg
-imagenAlt: "Couple avec masques et tubas sur le bateau dans une crique"
+imagen: /images/actividades/ibiza/fotos-biblioteca/unsplash-j-x7lediab8.webp
+imagenAlt: 'Voilier au mouillage dans une crique d''Ibiza'
 galeria:
+- src: https://imgcdn.bokun.tools/4d1ad9cd-03bc-4407-90b5-2da17770e259.jpg
+  alt: 'Couple avec masques et tubas sur le bateau dans une crique'
 - src: https://imgcdn.bokun.tools/074f5fa2-1148-4062-a0b9-97fa76a976c0.jpg
-  alt: "Couple souriant à bord d’un voilier à Ibiza"
+  alt: 'Couple souriant à bord d’un voilier à Ibiza'
 - src: https://imgcdn.bokun.tools/82132269-71b3-45bb-a69a-15824f70cad2.jpg
-  alt: "Voilier au coucher du soleil près d’Es Vedrà"
+  alt: 'Voilier au coucher du soleil près d’Es Vedrà'
 - src: https://imgcdn.bokun.tools/d1d302a6-b78a-4755-a83c-b6ce78b9570b.jpg
-  alt: "Voilier au mouillage dans une crique d’Ibiza"
+  alt: 'Voilier au mouillage dans une crique d’Ibiza'
 - src: https://imgcdn.bokun.tools/f06e337d-d704-429a-80dd-159f216c34b1.jpg
-  alt: "Couple assis sur le pont du voilier"
+  alt: 'Couple assis sur le pont du voilier'
 - src: https://imgcdn.bokun.tools/6a7c6910-76ad-4585-bead-710819b28eea.jpg
-  alt: "Couple marchant sur les rochers d’une crique d’Ibiza"
+  alt: 'Couple marchant sur les rochers d’une crique d’Ibiza'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

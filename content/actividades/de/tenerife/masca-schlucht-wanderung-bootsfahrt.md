@@ -87,23 +87,21 @@ keywords:
 - masca schlucht boot
 - los gigantes bootsfahrt
 - masca wanderung teneriffa
-imagen: /images/actividades/tenerife/masca/barranco-masca-paredes.webp
-imagenAlt: Die Felswände der Masca-Schlucht
+imagen: /images/actividades/tenerife/masca/masca-teno.webp
+imagenAlt: 'Masca im Teno-Gebirge'
 galeria:
-- src: /images/actividades/tenerife/masca/masca-teno.webp
-  alt: Masca im Teno-Gebirge
 - src: /images/actividades/tenerife/masca/barranco-masca-sendero.webp
-  alt: In der Masca-Schlucht
+  alt: 'In der Masca-Schlucht'
 - src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-  alt: Die Klippen von Los Gigantes
+  alt: 'Die Klippen von Los Gigantes'
 - src: /images/actividades/tenerife/masca/barranco-masca-atardecer.webp
-  alt: Die Masca-Schlucht bei Sonnenuntergang
+  alt: 'Die Masca-Schlucht bei Sonnenuntergang'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-  alt: Die Klippen von Los Gigantes von der Küste aus
+  alt: 'Die Klippen von Los Gigantes von der Küste aus'
 - src: /images/actividades/tenerife/masca/barranco-masca-luz.webp
-  alt: Abendlicht in der Masca-Schlucht
+  alt: 'Abendlicht in der Masca-Schlucht'
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
-  alt: Die Küste von Los Gigantes
+  alt: 'Die Küste von Los Gigantes'
 ratingProveedor: 4.7
 numeroOpiniones: 374
 atraccionesRelacionadas:

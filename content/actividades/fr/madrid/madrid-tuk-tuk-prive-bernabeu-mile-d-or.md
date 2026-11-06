@@ -63,29 +63,31 @@ keywords:
 - tuk tuk madrid
 - visite quartier de salamanca madrid
 - stade bernabeu visite madrid
-imagen: https://imgcdn.bokun.tools/88cd0b10-13a2-4996-bf46-d857481853a5.jpeg
-imagenAlt: Groupe de voyageurs à côté d'un tuk-tuk électrique à Madrid
+imagen: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
+imagenAlt: 'Le stade Santiago Bernabéu rénové'
 galeria:
+- src: https://imgcdn.bokun.tools/88cd0b10-13a2-4996-bf46-d857481853a5.jpeg
+  alt: 'Groupe de voyageurs à côté d''un tuk-tuk électrique à Madrid'
 - src: https://imgcdn.bokun.tools/e4a98eac-d28c-4d57-a190-8ba7bacd289d.png
-  alt: Le stade Santiago Bernabéu
+  alt: 'Le stade Santiago Bernabéu'
 - src: https://imgcdn.bokun.tools/a4d181f5-af77-4b0f-a512-8a4bbe803a7c.png
-  alt: La Puerta de Alcalá
+  alt: 'La Puerta de Alcalá'
 - src: https://imgcdn.bokun.tools/40ab7bb1-e39e-4f2b-8ca2-903ea3608819.png
-  alt: Tuk-tuk près de la fontaine de Neptune
+  alt: 'Tuk-tuk près de la fontaine de Neptune'
 - src: https://imgcdn.bokun.tools/88a04138-ebeb-4c46-ad3d-80a7f46ae7c7.jpeg
-  alt: Voyageurs souriants à bord du tuk-tuk
+  alt: 'Voyageurs souriants à bord du tuk-tuk'
 - src: https://imgcdn.bokun.tools/24ac3adc-188f-4397-9f55-1d53b99f6b9e.jpeg
-  alt: Jardins de la Découverte sur la Plaza de Colón
+  alt: 'Jardins de la Découverte sur la Plaza de Colón'
 - src: https://imgcdn.bokun.tools/a97f4e54-39dc-4dc8-a3f7-7216876008be.jpeg
-  alt: Quatre amis assis dans le tuk-tuk
+  alt: 'Quatre amis assis dans le tuk-tuk'
 - src: https://imgcdn.bokun.tools/c702d118-649f-41ee-a36c-25238b2b3de0.png
-  alt: Boutique de luxe sur la Calle Serrano
+  alt: 'Boutique de luxe sur la Calle Serrano'
 - src: https://imgcdn.bokun.tools/c4c6b793-97d9-4c88-8c2d-701f0d38a482.jpeg
-  alt: Passagers dans un tuk-tuk électrique turquoise
+  alt: 'Passagers dans un tuk-tuk électrique turquoise'
 - src: https://imgcdn.bokun.tools/540e0b20-c956-47dd-beb3-047a308f1be2.jpeg
-  alt: Voyageurs consultant le dépliant de l'itinéraire
+  alt: 'Voyageurs consultant le dépliant de l''itinéraire'
 - src: https://imgcdn.bokun.tools/077bc280-8bc8-49c3-b9cb-2c25b356c334.jpeg
-  alt: Deux voyageurs devant le Congrès des députés la nuit
+  alt: 'Deux voyageurs devant le Congrès des députés la nuit'
 publicada: true
 destacada: false
 fecha: '2026-10-07'

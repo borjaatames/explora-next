@@ -88,25 +88,25 @@ keywords:
 - observation baleines privee tenerife
 - excursion bateau prive tenerife
 - sortie en bateau las galletas
-imagen: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
-imagenAlt: Passagers photographiant un globicéphale depuis la proue du bateau privé
+imagen: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+imagenAlt: 'Globicéphale soufflant en respirant'
 galeria:
 - src: https://imgcdn.bokun.tools/7d10e601-a246-4e93-9dc0-a0146ddadf76.jpeg
-  alt: Le semi-rigide privé vu du ciel sur une eau turquoise
+  alt: 'Le semi-rigide privé vu du ciel sur une eau turquoise'
 - src: https://imgcdn.bokun.tools/20f8b492-80d8-4168-b6e0-2c941c1a48ea.jpeg
-  alt: Groupe de globicéphales avec la côte sud de Tenerife derrière
+  alt: 'Groupe de globicéphales avec la côte sud de Tenerife derrière'
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
-  alt: Le littoral de Palm-Mar, à côté de Las Galletas
+  alt: 'Le littoral de Palm-Mar, à côté de Las Galletas'
 - src: https://imgcdn.bokun.tools/92caaca9-bce5-45fb-8419-23d887c34b18.jpeg
-  alt: Grand dauphin faisant surface en pleine mer
+  alt: 'Grand dauphin faisant surface en pleine mer'
 - src: https://imgcdn.bokun.tools/5559854b-0720-4580-a97b-e3b3b68ef79b.jpeg
-  alt: Deux globicéphales nageant en surface
+  alt: 'Deux globicéphales nageant en surface'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: La Montaña de Guaza sur la côte sud de Tenerife
+  alt: 'La Montaña de Guaza sur la côte sud de Tenerife'
 - src: https://imgcdn.bokun.tools/15bf4883-1ca0-4fc3-a6bb-c3a6a21a393f.jpeg
-  alt: Dauphin nageant sous l'eau
-- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Globicéphale soufflant en respirant
+  alt: 'Dauphin nageant sous l''eau'
+- src: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
+  alt: 'Passagers photographiant un globicéphale depuis la proue du bateau privé'
 atraccionesRelacionadas:
 - mar
 publicada: true

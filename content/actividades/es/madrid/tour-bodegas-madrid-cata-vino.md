@@ -85,25 +85,27 @@ keywords:
 - enoturismo madrid
 - tour vino chinchon
 - bodegas region de madrid
-imagen: /images/actividades/madrid/chinchon/pexels-36878591-hero.webp
-imagenAlt: Soportales y balcones de Chinchón
+imagen: /images/actividades/alicante/vino/barricas.webp
+imagenAlt: 'Bodega con barricas de vino'
 galeria:
+- src: /images/actividades/madrid/chinchon/pexels-36878591-hero.webp
+  alt: 'Soportales y balcones de Chinchón'
 - src: /images/actividades/madrid/tapas/tapas-madrid-vibrant-display-hanging-spanish-hero.webp
-  alt: Jamones ibéricos colgados sobre la barra de un bar
+  alt: 'Jamones ibéricos colgados sobre la barra de un bar'
 - src: /images/actividades/madrid/chinchon/pexels-36878676-hero.webp
-  alt: Plaza Mayor de Chinchón con sus balcones de madera
+  alt: 'Plaza Mayor de Chinchón con sus balcones de madera'
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
-  alt: Copas de vino en la cata
+  alt: 'Copas de vino en la cata'
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-kuremo-8660221-hero.webp
-  alt: Barricas en una bodega
+  alt: 'Barricas en una bodega'
 - src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-emanuele-nuccilli-1919977143-28826629-hero.webp
-  alt: Copa de vino tinto sirviéndose durante una cata en bodega
+  alt: 'Copa de vino tinto sirviéndose durante una cata en bodega'
 - src: /images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp
-  alt: Botella de vino tinto y dos copas servidas
+  alt: 'Botella de vino tinto y dos copas servidas'
 - src: /images/actividades/madrid/tapas/tapas-madrid-jamon-iberico-tapa-hero.webp
-  alt: Aperitivo de jamón acompañando la cata
+  alt: 'Aperitivo de jamón acompañando la cata'
 - src: /images/actividades/madrid/tapas/tapas-madrid-white-bowl-filled-olives-tomatoes-hero.webp
-  alt: Tapas tradicionales madrileñas
+  alt: 'Tapas tradicionales madrileñas'
 ratingProveedor: 4.9
 numeroOpiniones: 308
 publicada: true

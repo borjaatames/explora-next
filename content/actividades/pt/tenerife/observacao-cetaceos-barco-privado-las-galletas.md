@@ -87,25 +87,25 @@ keywords:
 - barco privado tenerife
 - aluguer de barco tenerife
 - observação de baleias las galletas
-imagen: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
-imagenAlt: Passageiros a fotografar uma baleia-piloto a partir da proa da lancha privada
+imagen: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+imagenAlt: 'Baleia-piloto a expelir ar ao respirar'
 galeria:
 - src: https://imgcdn.bokun.tools/7d10e601-a246-4e93-9dc0-a0146ddadf76.jpeg
-  alt: A lancha semirrígida privada vista de cima sobre a água turquesa
+  alt: 'A lancha semirrígida privada vista de cima sobre a água turquesa'
 - src: https://imgcdn.bokun.tools/20f8b492-80d8-4168-b6e0-2c941c1a48ea.jpeg
-  alt: Grupo de baleias-piloto com a costa sul de Tenerife ao fundo
+  alt: 'Grupo de baleias-piloto com a costa sul de Tenerife ao fundo'
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
-  alt: Costa de Palm-Mar, junto a Las Galletas
+  alt: 'Costa de Palm-Mar, junto a Las Galletas'
 - src: https://imgcdn.bokun.tools/92caaca9-bce5-45fb-8419-23d887c34b18.jpeg
-  alt: Golfinho-roaz a mostrar a barbatana em mar aberto
+  alt: 'Golfinho-roaz a mostrar a barbatana em mar aberto'
 - src: https://imgcdn.bokun.tools/5559854b-0720-4580-a97b-e3b3b68ef79b.jpeg
-  alt: Duas baleias-piloto a nadar à superfície
+  alt: 'Duas baleias-piloto a nadar à superfície'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: Montaña de Guaza, na costa sul de Tenerife
+  alt: 'Montaña de Guaza, na costa sul de Tenerife'
 - src: https://imgcdn.bokun.tools/15bf4883-1ca0-4fc3-a6bb-c3a6a21a393f.jpeg
-  alt: Golfinho a nadar debaixo de água
-- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Baleia-piloto a expelir ar ao respirar
+  alt: 'Golfinho a nadar debaixo de água'
+- src: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
+  alt: 'Passageiros a fotografar uma baleia-piloto a partir da proa da lancha privada'
 atraccionesRelacionadas:
 - mar
 publicada: true

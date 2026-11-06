@@ -73,11 +73,11 @@ keywords:
 - tablao flamenco madrid barato
 - flamenco palácio real madrid
 - flamenco intimista madrid
-imagen: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-imagenAlt: 'Bailarina e músicos num pequeno tablao flamenco'
+imagen: /images/actividades/cordoba/flamenco/palmas.webp
+imagenAlt: 'Palmas flamencas em Madrid'
 galeria:
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: 'Palmas flamencas em Madrid'
+- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
+  alt: 'Bailarina e músicos num pequeno tablao flamenco'
 - src: /images/actividades/cordoba/flamenco/guitarrista.webp
   alt: 'Guitarrista de flamenco'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp

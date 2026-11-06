@@ -87,23 +87,23 @@ keywords:
 - catamarã fundo de vidro tenerife
 - golfinhos sul de tenerife
 - excursão de barco los cristianos
-imagen: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
-imagenAlt: Barcos atracados no porto de Los Cristianos
+imagen: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+imagenAlt: 'Baleia-piloto tropical a respirar à superfície'
 galeria:
 - src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
-  alt: Barco de observação com passageiros junto a um grupo de baleias-piloto em Tenerife
+  alt: 'Barco de observação com passageiros junto a um grupo de baleias-piloto em Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Baleias-piloto a nadar à superfície em frente à costa de Tenerife
-- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
-  alt: Baleia-piloto tropical a respirar à superfície
+  alt: 'Baleias-piloto a nadar à superfície em frente à costa de Tenerife'
+- src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
+  alt: 'Barcos atracados no porto de Los Cristianos'
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
-  alt: Baía de Los Cristianos vista da costa
+  alt: 'Baía de Los Cristianos vista da costa'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Golfinho-pintado-do-atlântico em águas canárias
+  alt: 'Golfinho-pintado-do-atlântico em águas canárias'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: Montaña de Guaza junto a Los Cristianos
+  alt: 'Montaña de Guaza junto a Los Cristianos'
 - src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Baleia-piloto a soltar o sopro nas águas do sul de Tenerife
+  alt: 'Baleia-piloto a soltar o sopro nas águas do sul de Tenerife'
 ratingProveedor: 4.6
 numeroOpiniones: 15598
 atraccionesRelacionadas:

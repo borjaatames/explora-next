@@ -62,9 +62,11 @@ atraccionesRelacionadas:
 categoria: excursionesDia
 keywords:
 - toledo private tour from madrid hotel pickup
-imagen: https://imgcdn.bokun.tools/c90ab40e-2f02-4b6d-a42d-9c8aaff313cb.jpg
-imagenAlt: 'Toledo at sunset with the cathedral and the Alcázar'
+imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-june-2016-hero.webp
+imagenAlt: 'Toledo and its Alcázar'
 galeria:
+- src: https://imgcdn.bokun.tools/c90ab40e-2f02-4b6d-a42d-9c8aaff313cb.jpg
+  alt: 'Toledo at sunset with the cathedral and the Alcázar'
 - src: https://imgcdn.bokun.tools/28609f5f-b7a5-427c-b85a-76863df536d8.jpg
   alt: 'Toledo above the bend of the Tagus'
 - src: https://imgcdn.bokun.tools/37e93d75-1118-41a8-aa26-0eb3b51c0d99.jpg

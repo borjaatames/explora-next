@@ -64,17 +64,19 @@ keywords:
 - semana santa sevilla tour privado
 - semana santa sevilla con guia
 - visita hermandad sevilla
-imagen: https://imgcdn.bokun.tools/1337d0e7-848d-4a9f-9c67-f07f87a23240.jpg
-imagenAlt: Paso procesional de la Semana Santa de Sevilla
+imagen: /images/actividades/sevilla/fotos-biblioteca/wikimedia-08.webp
+imagenAlt: 'Paso procesional de la Semana Santa de Sevilla'
 galeria:
+- src: https://imgcdn.bokun.tools/1337d0e7-848d-4a9f-9c67-f07f87a23240.jpg
+  alt: 'Paso procesional de la Semana Santa de Sevilla'
 - src: https://imgcdn.bokun.tools/f0a80ac0-e161-431d-b8c2-100b724141eb.jpg
-  alt: Nazarenos en una procesión de Sevilla
+  alt: 'Nazarenos en una procesión de Sevilla'
 - src: https://imgcdn.bokun.tools/e33c3819-5283-4f89-915c-13b9822f6769.jpg
-  alt: Procesión por las calles de Sevilla
+  alt: 'Procesión por las calles de Sevilla'
 - src: https://imgcdn.bokun.tools/59165ee9-93e0-4ee5-9a9a-0104f32e6712.jpg
-  alt: Interior de una iglesia de hermandad
+  alt: 'Interior de una iglesia de hermandad'
 - src: https://imgcdn.bokun.tools/72464782-51ac-48f6-9914-dd99b0d7aea9.jpg
-  alt: Calle del centro de Sevilla en Semana Santa
+  alt: 'Calle del centro de Sevilla en Semana Santa'
 publicada: true
 indexar: false
 destacada: false

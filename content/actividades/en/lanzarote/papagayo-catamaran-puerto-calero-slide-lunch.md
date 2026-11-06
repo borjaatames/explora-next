@@ -87,21 +87,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
-imagenAlt: "Papagayo cove seen from the cliff"
+imagen: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
+imagenAlt: 'Catamaran with bow nets seen from above'
 galeria:
 - src: /images/actividades/lanzarote/catamaran/flz-cenital-turquesa.webp
-  alt: "Catamaran seen from above over turquoise water"
-- src: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
-  alt: "Catamaran with bow nets seen from above"
+  alt: 'Catamaran seen from above over turquoise water'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+  alt: 'Papagayo cove seen from the cliff'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
-  alt: "Papagayo beach under a cloudy sky"
+  alt: 'Papagayo beach under a cloudy sky'
 - src: /images/actividades/lanzarote/catamaran/flz-fondeado-aguas-claras.webp
-  alt: "Catamaran anchored in clear water"
+  alt: 'Catamaran anchored in clear water'
 - src: /images/actividades/lanzarote/papagayo/flz-playa-promontorio.webp
-  alt: "Papagayo beach below its rocky headland"
+  alt: 'Papagayo beach below its rocky headland'
 - src: /images/actividades/lanzarote/papagayo/flz-acantilados-playa.webp
-  alt: "Cliffs and beach at Playas de Papagayo"
+  alt: 'Cliffs and beach at Playas de Papagayo'
 ---
 
 ## What you will see

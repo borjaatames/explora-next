@@ -78,27 +78,29 @@ keywords:
 - excursion buggy maspalomas
 - tout-terrain gran canaria
 - ravin de fataga
-imagen: /images/actividades/lanzarote/buggy-volcanes.webp
-imagenAlt: Buggy sur une piste de terre entre des montagnes volcaniques
+imagen: /images/actividades/gran-canaria/fotos-biblioteca/wikimedia-03.webp
+imagenAlt: 'Buggy sur un chemin de terre'
 galeria:
+- src: /images/actividades/lanzarote/buggy-volcanes.webp
+  alt: 'Buggy sur une piste de terre entre des montagnes volcaniques'
 - src: /images/actividades/fuerteventura/buggy-corralejo.webp
-  alt: Buggy roulant sur une piste de terre dans un paysage aride
+  alt: 'Buggy roulant sur une piste de terre dans un paysage aride'
 - src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-  alt: Le ravin de Fataga dans le sud de Gran Canaria
+  alt: 'Le ravin de Fataga dans le sud de Gran Canaria'
 - src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
-  alt: Route sinueuse traversant un ravin dans le sud de Gran Canaria
+  alt: 'Route sinueuse traversant un ravin dans le sud de Gran Canaria'
 - src: /images/actividades/gran-canaria/buggy/valle-ayagaures.webp
-  alt: La vallée d'Ayagaures
+  alt: 'La vallée d''Ayagaures'
 - src: /images/actividades/gran-canaria/buggy/presa-ayagaures.webp
-  alt: Le barrage d'Ayagaures
+  alt: 'Le barrage d''Ayagaures'
 - src: /images/actividades/gran-canaria/buggy/fataga-pistas.webp
-  alt: Pistes et versants du ravin de Fataga
+  alt: 'Pistes et versants du ravin de Fataga'
 - src: /images/actividades/gran-canaria/buggy/pueblo-fataga.webp
-  alt: Le village de Fataga
+  alt: 'Le village de Fataga'
 - src: /images/actividades/gran-canaria/buggy/fataga-canon.webp
-  alt: Les parois du ravin de Fataga
+  alt: 'Les parois du ravin de Fataga'
 - src: /images/actividades/gran-canaria/buggy/fataga-montanas.webp
-  alt: Montagnes du ravin de Fataga
+  alt: 'Montagnes du ravin de Fataga'
 ratingProveedor: 4.8
 numeroOpiniones: 3728
 atraccionesRelacionadas:

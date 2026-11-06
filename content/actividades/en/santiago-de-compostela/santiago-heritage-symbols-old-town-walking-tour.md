@@ -76,21 +76,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-escudo-concha-obradoiro.webp
-imagenAlt: "Coat of arms with scallop shell and railing on the Obradoiro façade"
+imagen: /images/actividades/santiago-de-compostela/catedral/fsc-pazo-xelmirez-obradoiro.webp
+imagenAlt: 'Xelmírez Palace on Praza do Obradoiro'
 galeria:
 - src: /images/actividades/santiago-de-compostela/casco/alameda.webp
-  alt: "Alameda park, where the tour begins"
+  alt: 'Alameda park, where the tour begins'
 - src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: "Rúa do Franco in the historic centre"
+  alt: 'Rúa do Franco in the historic centre'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-timpano-raxoi.webp
-  alt: "Pediment with coat of arms on Raxoi Palace, Obradoiro"
-- src: /images/actividades/santiago-de-compostela/catedral/fsc-pazo-xelmirez-obradoiro.webp
-  alt: "Xelmírez Palace on Praza do Obradoiro"
+  alt: 'Pediment with coat of arms on Raxoi Palace, Obradoiro'
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-escudo-concha-obradoiro.webp
+  alt: 'Coat of arms with scallop shell and railing on the Obradoiro façade'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-ornamento-escudo.webp
-  alt: "Ornament with coat of arms on the Obradoiro façade"
+  alt: 'Ornament with coat of arms on the Obradoiro façade'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-obradoiro-hostal.webp
-  alt: "Praza do Obradoiro with the Hostal dos Reis Católicos"
+  alt: 'Praza do Obradoiro with the Hostal dos Reis Católicos'
 ---
 
 ## What you will see

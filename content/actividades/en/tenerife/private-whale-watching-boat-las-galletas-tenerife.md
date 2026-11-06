@@ -87,25 +87,25 @@ keywords:
 - private whale watching tenerife
 - private boat tour tenerife
 - las galletas boat trip
-imagen: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
-imagenAlt: Passengers photographing a pilot whale from the bow of the private boat
+imagen: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+imagenAlt: 'Pilot whale blowing as it breathes'
 galeria:
 - src: https://imgcdn.bokun.tools/7d10e601-a246-4e93-9dc0-a0146ddadf76.jpeg
-  alt: The private RIB seen from above on turquoise water
+  alt: 'The private RIB seen from above on turquoise water'
 - src: https://imgcdn.bokun.tools/20f8b492-80d8-4168-b6e0-2c941c1a48ea.jpeg
-  alt: Pod of pilot whales with the south coast of Tenerife behind
+  alt: 'Pod of pilot whales with the south coast of Tenerife behind'
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
-  alt: The Palm-Mar coastline, next to Las Galletas
+  alt: 'The Palm-Mar coastline, next to Las Galletas'
 - src: https://imgcdn.bokun.tools/92caaca9-bce5-45fb-8419-23d887c34b18.jpeg
-  alt: Bottlenose dolphin surfacing in open water
+  alt: 'Bottlenose dolphin surfacing in open water'
 - src: https://imgcdn.bokun.tools/5559854b-0720-4580-a97b-e3b3b68ef79b.jpeg
-  alt: Two pilot whales swimming at the surface
+  alt: 'Two pilot whales swimming at the surface'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: Montaña de Guaza on the south coast of Tenerife
+  alt: 'Montaña de Guaza on the south coast of Tenerife'
 - src: https://imgcdn.bokun.tools/15bf4883-1ca0-4fc3-a6bb-c3a6a21a393f.jpeg
-  alt: Dolphin swimming underwater
-- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Pilot whale blowing as it breathes
+  alt: 'Dolphin swimming underwater'
+- src: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
+  alt: 'Passengers photographing a pilot whale from the bow of the private boat'
 atraccionesRelacionadas:
 - mar
 publicada: true

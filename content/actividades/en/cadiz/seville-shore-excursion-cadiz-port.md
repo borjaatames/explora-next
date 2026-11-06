@@ -74,21 +74,23 @@ keywords:
 - seville shore excursion from cadiz
 - cadiz cruise port seville tour
 - cadiz shore excursion seville
-imagen: https://imgcdn.bokun.tools/aa953997-3a5a-406c-af94-b7767e1c2a6a.jpg
-imagenAlt: Seville rooftops with the Cathedral at sunset
+imagen: /images/actividades/cadiz/fotos-biblioteca/01.webp
+imagenAlt: 'Courtyard of the Casa de Pilatos in Seville'
 galeria:
+- src: https://imgcdn.bokun.tools/aa953997-3a5a-406c-af94-b7767e1c2a6a.jpg
+  alt: 'Seville rooftops with the Cathedral at sunset'
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
-  alt: Baths of Doña María de Padilla in the Royal Alcázar
+  alt: 'Baths of Doña María de Padilla in the Royal Alcázar'
 - src: https://imgcdn.bokun.tools/7597a4b4-3633-4f0a-9e85-b729770b88aa.jpg
-  alt: Seville's Plaza de España with its canal
+  alt: 'Seville''s Plaza de España with its canal'
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
-  alt: Callejón del Agua in the Santa Cruz quarter
+  alt: 'Callejón del Agua in the Santa Cruz quarter'
 - src: https://imgcdn.bokun.tools/12150c2b-389a-4fa3-834a-7df5de9b4f1f.jpg
-  alt: Courtyard and pool of the Royal Alcázar
+  alt: 'Courtyard and pool of the Royal Alcázar'
 - src: /images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp
-  alt: General Archive of the Indies
+  alt: 'General Archive of the Indies'
 - src: https://imgcdn.bokun.tools/f3e1835e-1ab9-4382-8554-3f390037163b.jpg
-  alt: Mudéjar arch in the Royal Alcázar
+  alt: 'Mudéjar arch in the Royal Alcázar'
 publicada: true
 indexar: false
 destacada: false

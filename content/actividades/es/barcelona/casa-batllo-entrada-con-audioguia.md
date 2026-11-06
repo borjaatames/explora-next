@@ -100,23 +100,21 @@ keywords:
 - casa batllo ticket
 - casa batllo gaudi
 - casa batllo ticket oficial
-imagen: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp
-imagenAlt: Casa Batlló, edificio modernista de Gaudí con fachada ondulante en Barcelona
+imagen: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
+imagenAlt: 'Vista aérea de Barcelona con la montaña de Montjuïc y la costa mediterránea'
 galeria:
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-78111992-hero.webp
-  alt: Detalle de la fachada ondulada de Casa Batlló, obra de Gaudí
+  alt: 'Detalle de la fachada ondulada de Casa Batlló, obra de Gaudí'
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-5874108-hero.webp
-  alt: Detalle de la fachada ondulada de Casa Batlló, obra de Gaudí
+  alt: 'Detalle de la fachada ondulada de Casa Batlló, obra de Gaudí'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
-  alt: Fachada modernista ondulante de la Casa Batlló en Barcelona con balcones de hueso y azulejos de colores
+  alt: 'Fachada modernista ondulante de la Casa Batlló en Barcelona con balcones de hueso y azulejos de colores'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-window-stained-glass-barcelona-hero-hero.webp
-  alt: Ventana de vidrio teñido Casa Batlló con diseños modernistas en Barcelona
+  alt: 'Ventana de vidrio teñido Casa Batlló con diseños modernistas en Barcelona'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero-hero.webp
-  alt: Fachada modernista de la Casa Batlló con sus característicos balcones redondeados y cerámica colorida en Barcelona
+  alt: 'Fachada modernista de la Casa Batlló con sus característicos balcones redondeados y cerámica colorida en Barcelona'
 - src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
-  alt: Skyline de Barcelona con la Sagrada Familia y edificios modernistas al atardecer
-- src: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
-  alt: Vista aérea de Barcelona con la montaña de Montjuïc y la costa mediterránea
+  alt: 'Skyline de Barcelona con la Sagrada Familia y edificios modernistas al atardecer'
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

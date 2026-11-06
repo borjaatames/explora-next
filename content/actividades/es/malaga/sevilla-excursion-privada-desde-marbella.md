@@ -60,25 +60,27 @@ keywords:
 - sevilla desde marbella
 - excursion privada sevilla desde marbella
 - tour sevilla desde marbella
-imagen: https://imgcdn.bokun.tools/53a148ff-3e78-4929-b5d7-d62370425da0.jpg
-imagenAlt: Visitantes con el guía en la Plaza de España de Sevilla
+imagen: /images/actividades/sevilla/alcazar-extra/banos-dona-maria-padilla.webp
+imagenAlt: 'Baños de doña María de Padilla en el Real Alcázar de Sevilla'
 galeria:
+- src: https://imgcdn.bokun.tools/53a148ff-3e78-4929-b5d7-d62370425da0.jpg
+  alt: 'Visitantes con el guía en la Plaza de España de Sevilla'
 - src: https://imgcdn.bokun.tools/46baf700-6a88-4367-b16b-c4f4001bac0c.jpg
-  alt: Torre del Oro entre palmeras
+  alt: 'Torre del Oro entre palmeras'
 - src: https://imgcdn.bokun.tools/3d654ca5-dba4-4c64-902b-086506098bc9.jpg
-  alt: Muralla y torre en el centro de Sevilla
+  alt: 'Muralla y torre en el centro de Sevilla'
 - src: https://imgcdn.bokun.tools/6d676159-d94f-41fb-80e6-84bb3057e87a.jpg
-  alt: Paseo con el guía por el barrio de Santa Cruz
+  alt: 'Paseo con el guía por el barrio de Santa Cruz'
 - src: https://imgcdn.bokun.tools/32d3c9bb-90e7-40b8-88bc-979d4ed96453.jpg
-  alt: Vista aérea de la plaza de toros de la Maestranza
+  alt: 'Vista aérea de la plaza de toros de la Maestranza'
 - src: https://imgcdn.bokun.tools/dc8e7f03-d78a-45bf-a051-8f108774e73a.jpg
-  alt: El Guadalquivir a su paso por Sevilla
+  alt: 'El Guadalquivir a su paso por Sevilla'
 - src: https://imgcdn.bokun.tools/69f49892-da21-4c1a-9252-45e93e8d2383.jpg
-  alt: La Giralda desde un patio
+  alt: 'La Giralda desde un patio'
 - src: https://imgcdn.bokun.tools/901cd287-e74a-455c-8916-9fa12e3a3b1f.jpg
-  alt: Las Setas de la Encarnación
+  alt: 'Las Setas de la Encarnación'
 - src: https://imgcdn.bokun.tools/282a4896-4235-4056-87f7-d79160b9bef9.jpg
-  alt: Grupo durante el tour por Sevilla
+  alt: 'Grupo durante el tour por Sevilla'
 publicada: true
 indexar: false
 destacada: false

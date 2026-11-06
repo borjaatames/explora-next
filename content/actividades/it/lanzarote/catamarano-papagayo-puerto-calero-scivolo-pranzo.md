@@ -88,21 +88,21 @@ indexar: false
 destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'
-imagen: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
-imagenAlt: "Una caletta di Papagayo vista dalla scogliera"
+imagen: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
+imagenAlt: 'Catamarano con le reti di prua visto dall''alto'
 galeria:
 - src: /images/actividades/lanzarote/catamaran/flz-cenital-turquesa.webp
-  alt: "Catamarano visto dall'alto sull'acqua turchese"
-- src: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
-  alt: "Catamarano con le reti di prua visto dall'alto"
+  alt: 'Catamarano visto dall''alto sull''acqua turchese'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+  alt: 'Una caletta di Papagayo vista dalla scogliera'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
-  alt: "La spiaggia di Papagayo sotto un cielo nuvoloso"
+  alt: 'La spiaggia di Papagayo sotto un cielo nuvoloso'
 - src: /images/actividades/lanzarote/catamaran/flz-fondeado-aguas-claras.webp
-  alt: "Catamarano all'ancora in acque limpide"
+  alt: 'Catamarano all''ancora in acque limpide'
 - src: /images/actividades/lanzarote/papagayo/flz-playa-promontorio.webp
-  alt: "La spiaggia di Papagayo sotto il suo promontorio roccioso"
+  alt: 'La spiaggia di Papagayo sotto il suo promontorio roccioso'
 - src: /images/actividades/lanzarote/papagayo/flz-acantilados-playa.webp
-  alt: "Scogliere e spiaggia a Playas de Papagayo"
+  alt: 'Scogliere e spiaggia a Playas de Papagayo'
 ---
 
 ## Cosa vedrai

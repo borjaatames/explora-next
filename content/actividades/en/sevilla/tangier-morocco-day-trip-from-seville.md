@@ -118,25 +118,23 @@ keywords:
 - tangier day ferry
 - africa from seville 1 day
 - tangier guided english seville
-imagen: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-te-menta-medina-hero.webp
-imagenAlt: Moroccan mint tea in traditional metal glasses at medina market stall, Seville's old town atmosphere
+imagen: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-40115237384-jpg-06.webp
+imagenAlt: 'Tiled fountain in the Tangier medina'
 galeria:
 - src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-almuerzo-marroq-hero.webp
-  alt: Table with Moroccan dishes, pastries and tea
+  alt: 'Table with Moroccan dishes, pastries and tea'
 - src: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-40115238324-jpg-02.webp
-  alt: Whitewashed alley in the Tangier medina
+  alt: 'Whitewashed alley in the Tangier medina'
 - src: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-3-jpg-03.webp
-  alt: Shopping street in the Tangier medina
+  alt: 'Shopping street in the Tangier medina'
 - src: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-39929538915-jpg-04.webp
-  alt: White and blue houses in the Tangier medina
+  alt: 'White and blue houses in the Tangier medina'
 - src: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-39929539205-jpg-05.webp
-  alt: Corner of the Tangier medina
-- src: /images/actividades/sevilla/tanger/tanger-wikimedia-tangier-medina-40115237384-jpg-06.webp
-  alt: Tiled fountain in the Tangier medina
+  alt: 'Corner of the Tangier medina'
 - src: /images/actividades/sevilla/tanger/tanger-pixabay-5035292.webp
-  alt: Bay of Tangier at sunset
+  alt: 'Bay of Tangier at sunset'
 - src: /images/actividades/sevilla/tanger-marruecos-excursion-dia-desde-sevilla/tanger-marruecos-excursion-dia-desde-sevilla-medina-tanger-b-hero.webp
-  alt: Narrow alleyways in Tangier's Medina with painted wooden doors, traditional bazaar shops, vendors and tourists in authentic
+  alt: 'Narrow alleyways in Tangier''s Medina with painted wooden doors, traditional bazaar shops, vendors and tourists in authentic'
 ratingProveedor: 4.4
 numeroOpiniones: 250
 publicada: true

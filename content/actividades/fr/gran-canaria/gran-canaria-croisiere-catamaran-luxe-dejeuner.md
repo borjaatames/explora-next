@@ -87,23 +87,25 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
-imagenAlt: "Proue d'un catamaran au-dessus d'une eau claire"
+imagen: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
+imagenAlt: 'Bateaux au large de la Grande Canarie'
 galeria:
+- src: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
+  alt: 'Proue d''un catamaran au-dessus d''une eau claire'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: "Le port de Puerto Rico de Gran Canaria, point de départ"
+  alt: 'Le port de Puerto Rico de Gran Canaria, point de départ'
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
-  alt: "Côte rocheuse dans le sud-ouest de Gran Canaria"
+  alt: 'Côte rocheuse dans le sud-ouest de Gran Canaria'
 - src: /images/actividades/gran-canaria/catamaran/fgc-catamaran-fondeado-aguas-turquesa.webp
-  alt: "Catamaran au mouillage dans une eau turquoise"
+  alt: 'Catamaran au mouillage dans une eau turquoise'
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
-  alt: "Fond rocheux sous une eau cristalline, idéal pour le snorkeling"
+  alt: 'Fond rocheux sous une eau cristalline, idéal pour le snorkeling'
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
-  alt: "Falaises et maisons de la côte de Mogán vues depuis la mer"
+  alt: 'Falaises et maisons de la côte de Mogán vues depuis la mer'
 - src: /images/actividades/gran-canaria/catamaran/fgc-catamaranes-fondeados-orilla.webp
-  alt: "Catamarans au mouillage dans une eau turquoise près du rivage, vus du ciel"
+  alt: 'Catamarans au mouillage dans une eau turquoise près du rivage, vus du ciel'
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
-  alt: "Voiliers amarrés dans un port de plaisance"
+  alt: 'Voiliers amarrés dans un port de plaisance'
 ---
 
 ## Ce que vous verrez

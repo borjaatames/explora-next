@@ -81,27 +81,27 @@ keywords:
 - morro jable catamaran
 - jandia boat trip with lunch
 - fuerteventura dolphin catamaran
-imagen: /images/actividades/fuerteventura/catamaran-morrojable.webp
-imagenAlt: Catamaran sailing off the Jandía coast
+imagen: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
+imagenAlt: 'Swimmers in the water next to an anchored boat'
 galeria:
 - src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-  alt: Dolphins swimming next to a boat off Morro Jable
+  alt: 'Dolphins swimming next to a boat off Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: The Jandía coast with the lighthouse in the distance
+  alt: 'The Jandía coast with the lighthouse in the distance'
 - src: /images/actividades/fuerteventura/catamaran-morro-jable/comida-servida-a-bordo.webp
-  alt: Tray of food served to passengers at a boat table
+  alt: 'Tray of food served to passengers at a boat table'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable and Matorral beach seen from the hills
+  alt: 'Morro Jable and Matorral beach seen from the hills'
 - src: /images/actividades/fuerteventura/catamaran-morro-jable/copa-espumoso-a-bordo-catamaran.webp
-  alt: Glass of sparkling wine on the deck of a sailing catamaran
+  alt: 'Glass of sparkling wine on the deck of a sailing catamaran'
 - src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: The Jandía massif with clouds over the peaks
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-  alt: Swimmers in the water next to an anchored boat
+  alt: 'The Jandía massif with clouds over the peaks'
+- src: /images/actividades/fuerteventura/catamaran-morrojable.webp
+  alt: 'Catamaran sailing off the Jandía coast'
 - src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: Jandía's windward coast
+  alt: 'Jandía''s windward coast'
 - src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
-  alt: Morro Jable lighthouse among the salt-marsh scrub
+  alt: 'Morro Jable lighthouse among the salt-marsh scrub'
 ratingProveedor: 4.4
 numeroOpiniones: 1786
 atraccionesRelacionadas:

@@ -78,27 +78,27 @@ keywords:
 - catamaran morro jable
 - excursion en bateau jandia avec repas
 - catamaran dauphins fuerteventura
-imagen: /images/actividades/fuerteventura/catamaran-morrojable.webp
-imagenAlt: Catamaran naviguant au large de la côte de Jandía
+imagen: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
+imagenAlt: 'Baigneurs dans l''eau à côté d''un bateau au mouillage'
 galeria:
 - src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-  alt: Dauphins nageant à côté d'un bateau au large de Morro Jable
+  alt: 'Dauphins nageant à côté d''un bateau au large de Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: La côte de Jandía avec le phare au loin
+  alt: 'La côte de Jandía avec le phare au loin'
 - src: /images/actividades/fuerteventura/catamaran-morro-jable/comida-servida-a-bordo.webp
-  alt: Plateau-repas servi aux passagers à une table du bateau
+  alt: 'Plateau-repas servi aux passagers à une table du bateau'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable et la plage du Matorral vues depuis les collines
+  alt: 'Morro Jable et la plage du Matorral vues depuis les collines'
 - src: /images/actividades/fuerteventura/catamaran-morro-jable/copa-espumoso-a-bordo-catamaran.webp
-  alt: Coupe de vin pétillant sur le pont d'un catamaran à voile
+  alt: 'Coupe de vin pétillant sur le pont d''un catamaran à voile'
 - src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: Le massif de Jandía avec des nuages sur les sommets
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-  alt: Baigneurs dans l'eau à côté d'un bateau au mouillage
+  alt: 'Le massif de Jandía avec des nuages sur les sommets'
+- src: /images/actividades/fuerteventura/catamaran-morrojable.webp
+  alt: 'Catamaran naviguant au large de la côte de Jandía'
 - src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: La côte au vent de Jandía
+  alt: 'La côte au vent de Jandía'
 - src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
-  alt: Le phare de Morro Jable au milieu de la végétation du marais salant
+  alt: 'Le phare de Morro Jable au milieu de la végétation du marais salant'
 ratingProveedor: 4.4
 numeroOpiniones: 1786
 atraccionesRelacionadas:

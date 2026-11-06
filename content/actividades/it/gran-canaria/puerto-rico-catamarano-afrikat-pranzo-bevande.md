@@ -91,21 +91,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-11-05'
-imagen: /images/actividades/gran-canaria/catamaran/fgc-catamaranes-fondeados-orilla.webp
-imagenAlt: "Catamarani all'ancora in acque turchesi vicino alla riva, visti dall'alto"
+imagen: /images/actividades/gran-canaria/fotos-biblioteca/pexels-9091399.webp
+imagenAlt: 'Barche davanti alle scogliere di Gran Canaria'
 galeria:
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: "Il porto turistico di Puerto Rico de Gran Canaria"
+  alt: 'Il porto turistico di Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
-  alt: "Barche all'ancora sotto scogliere vulcaniche"
+  alt: 'Barche all''ancora sotto scogliere vulcaniche'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: "Scogliere vulcaniche della costa sud-ovest viste dal mare"
+  alt: 'Scogliere vulcaniche della costa sud-ovest viste dal mare'
 - src: /images/actividades/gran-canaria/catamaran/fgc-esnorquel-fondo-rocoso.webp
-  alt: "Snorkeling su un fondale roccioso in acque limpide"
+  alt: 'Snorkeling su un fondale roccioso in acque limpide'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: "Pesci sul fondale sabbioso nelle acque di Gran Canaria"
+  alt: 'Pesci sul fondale sabbioso nelle acque di Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: "La baia e la spiaggia di Puerto Rico de Gran Canaria"
+  alt: 'La baia e la spiaggia di Puerto Rico de Gran Canaria'
 ---
 
 ## Cosa vedrai

@@ -69,19 +69,17 @@ keywords:
 - pase museos barcelona
 - museu picasso entrada
 - articket bcn
-imagen: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
-imagenAlt: Fachadas del Museu Picasso en la calle Montcada
+imagen: /images/actividades/barcelona/mnac/mnac-entrada-rotulo.webp
+imagenAlt: 'Entrada del MNAC'
 galeria:
 - src: /images/actividades/barcelona/mnac/palau-nacional-fachada-fuente.webp
-  alt: Palau Nacional, sede del MNAC, en Montjuïc
+  alt: 'Palau Nacional, sede del MNAC, en Montjuïc'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-02.webp
-  alt: Edificio de la Fundació Joan Miró
+  alt: 'Edificio de la Fundació Joan Miró'
 - src: /images/actividades/barcelona/mnac/mnac-interior-cupula.webp
-  alt: Cúpula interior del Palau Nacional
+  alt: 'Cúpula interior del Palau Nacional'
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp
-  alt: Patio del palacio que alberga el Museu Picasso
-- src: /images/actividades/barcelona/mnac/mnac-entrada-rotulo.webp
-  alt: Entrada del MNAC
+  alt: 'Patio del palacio que alberga el Museu Picasso'
 ratingProveedor: 4.5
 numeroOpiniones: 811
 atraccionesRelacionadas:

@@ -77,21 +77,21 @@ keywords:
 - villa winter tour
 - how to get to cofete beach
 - cofete jandia excursion
-imagen: /images/actividades/fuerteventura/cofete.webp
-imagenAlt: Cofete beach below the Jandía massif
+imagen: /images/actividades/fuerteventura/zonas/villa-winter.webp
+imagenAlt: 'Villa Winter at the foot of the Jandía mountains'
 galeria:
-- src: /images/actividades/fuerteventura/zonas/villa-winter.webp
-  alt: Villa Winter at the foot of the Jandía mountains
+- src: /images/actividades/fuerteventura/cofete.webp
+  alt: 'Cofete beach below the Jandía massif'
 - src: /images/actividades/fuerteventura/zonas/villa-winter-fachada.webp
-  alt: The façade and tower of Villa Winter in Cofete
+  alt: 'The façade and tower of Villa Winter in Cofete'
 - src: /images/actividades/fuerteventura/zonas/villa-winter-ladera.webp
-  alt: Villa Winter on the hillside above Cofete
+  alt: 'Villa Winter on the hillside above Cofete'
 - src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
-  alt: Cofete beach from the viewpoint on the track
+  alt: 'Cofete beach from the viewpoint on the track'
 - src: /images/actividades/fuerteventura/zonas/cofete-cresta.webp
-  alt: Jandía ridge above Cofete beach
+  alt: 'Jandía ridge above Cofete beach'
 - src: /images/actividades/fuerteventura/zonas/cofete-pico.webp
-  alt: Cofete beach and El Islote peak
+  alt: 'Cofete beach and El Islote peak'
 ratingProveedor: 4.8
 numeroOpiniones: 1952
 atraccionesRelacionadas:

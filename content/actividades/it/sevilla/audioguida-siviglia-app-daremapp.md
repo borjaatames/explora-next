@@ -66,23 +66,21 @@ keywords:
 - audioguida siviglia
 - app visita siviglia
 - siviglia in autonomia
-imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp
-imagenAlt: Barche a remi sul canale di Plaza de España
+imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
+imagenAlt: 'Torre e ponte di Plaza de España'
 galeria:
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp
-  alt: Facciata della Real Maestranza di Siviglia
+  alt: 'Facciata della Real Maestranza di Siviglia'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
-  alt: Facciata della Cattedrale di Siviglia tra le palme
+  alt: 'Facciata della Cattedrale di Siviglia tra le palme'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
-  alt: Plaza de España riflessa nel canale
+  alt: 'Plaza de España riflessa nel canale'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
-  alt: Las Setas a La Encarnación, a pochi minuti a piedi
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
-  alt: Torre e ponte di Plaza de España
+  alt: 'Las Setas a La Encarnación, a pochi minuti a piedi'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: Il porticato di Plaza de España con le panchine di azulejos
+  alt: 'Il porticato di Plaza de España con le panchine di azulejos'
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
-  alt: App DareMapp con il percorso autoguidato
+  alt: 'App DareMapp con il percorso autoguidato'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -95,19 +95,19 @@ keywords:
 - seville food tour english
 - best tapas tour seville
 - tapas crawl small group seville
-imagen: /images/actividades/madrid/tapas/tapas-madrid-close-up-hand-pouring-red-wine-hero.webp
-imagenAlt: A bottle of red wine and two filled glasses
+imagen: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-09.webp
+imagenAlt: 'Group raising a toast in a tapas bar'
 galeria:
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
-  alt: Callejón del Agua in the Santa Cruz quarter
+  alt: 'Callejón del Agua in the Santa Cruz quarter'
 - src: /images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp
-  alt: Metropol Parasol over Plaza de la Encarnación
+  alt: 'Metropol Parasol over Plaza de la Encarnación'
 - src: /images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp
-  alt: Colourful houses on Calle Betis along the Guadalquivir
+  alt: 'Colourful houses on Calle Betis along the Guadalquivir'
 - src: /images/actividades/sevilla/triana/puente-triana-atardecer.webp
-  alt: Triana Bridge lit up at dusk
+  alt: 'Triana Bridge lit up at dusk'
 - src: /images/actividades/madrid/tapas/tapas-madrid-aceitunas-manzanilla-espana-hero.webp
-  alt: Bowl of green olives with wine glasses
+  alt: 'Bowl of green olives with wine glasses'
 ratingProveedor: 4.9
 numeroOpiniones: 1848
 publicada: true

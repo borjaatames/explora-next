@@ -65,25 +65,25 @@ keywords:
 - granada tapas crawl
 - tapas tour granada local guide
 - granada food tour
-imagen: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero-hero.webp
-imagenAlt: "The Puerta del Vino at the Alhambra at sunset"
+imagen: /images/actividades/granada/wikimedia/granada-tapas-plato-03.webp
+imagenAlt: 'Tapas at La Fontana bar in Granada'
 galeria:
 - src: /images/actividades/granada/wikimedia/granada-tapas-plato-05.webp
-  alt: Red wine with cheese and potato tapas in Granada
+  alt: 'Red wine with cheese and potato tapas in Granada'
 - src: /images/actividades/granada/wikimedia/granada-san-nicolas-06.webp
-  alt: View of Granada from the San Nicolás viewpoint
+  alt: 'View of Granada from the San Nicolás viewpoint'
 - src: /images/actividades/granada/wikimedia/granada-noche-04.webp
-  alt: View of Granada from the San Nicolás viewpoint
+  alt: 'View of Granada from the San Nicolás viewpoint'
 - src: /images/actividades/granada/wikimedia/granada-bib-rambla-04.webp
-  alt: Plaza Bib-Rambla with Granada Cathedral behind
-- src: /images/actividades/granada/wikimedia/granada-tapas-plato-03.webp
-  alt: Tapas at La Fontana bar in Granada
+  alt: 'Plaza Bib-Rambla with Granada Cathedral behind'
+- src: /images/actividades/granada/alhambra/alhambra-granada-puerta-vino-spain-hero-hero.webp
+  alt: 'The Puerta del Vino at the Alhambra at sunset'
 - src: /images/actividades/granada/wikimedia/granada-calle-navas-02.webp
-  alt: Calle Navas, the tapas-bar street in central Granada
+  alt: 'Calle Navas, the tapas-bar street in central Granada'
 - src: /images/actividades/granada/wikimedia/granada-tapas-plato-01.webp
-  alt: A small beer with a free tapa of dried Motril octopus, typical of Granada province
+  alt: 'A small beer with a free tapa of dried Motril octopus, typical of Granada province'
 - src: /images/actividades/granada/wikimedia/granada-plaza-nueva-05.webp
-  alt: Fountain and terraces on Plaza Nueva, Granada
+  alt: 'Fountain and terraces on Plaza Nueva, Granada'
 atraccionesRelacionadas:
 - otros-granada
 ratingProveedor: 4.9

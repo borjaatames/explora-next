@@ -75,23 +75,25 @@ keywords:
 - feria de abril siviglia tour privato
 - feria siviglia caseta privata
 - visita guidata feria siviglia italiano
-imagen: https://imgcdn.bokun.tools/0fd04553-3b40-4952-b4b6-ffeeecf0bfeb.jpg
-imagenAlt: Carrozza a cavalli alla Feria de Abril di Siviglia
+imagen: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/enganche-caballos-feria.webp
+imagenAlt: 'Carrozze a cavallo nel recinto della Feria di Siviglia'
 galeria:
+- src: https://imgcdn.bokun.tools/0fd04553-3b40-4952-b4b6-ffeeecf0bfeb.jpg
+  alt: 'Carrozza a cavalli alla Feria de Abril di Siviglia'
 - src: https://imgcdn.bokun.tools/9d1b3d17-d1c7-4b87-845a-3b3df089e1c3.jpg
-  alt: Il portale della Feria de Abril
+  alt: 'Il portale della Feria de Abril'
 - src: https://imgcdn.bokun.tools/c2982fa9-daa6-4a79-a338-96dd4eebe34f.jpg
-  alt: Abito da flamenca alla Feria
+  alt: 'Abito da flamenca alla Feria'
 - src: https://imgcdn.bokun.tools/018b6eba-1bcd-44e2-bc57-d229bf8b7e69.jpg
-  alt: Giro in carrozza
+  alt: 'Giro in carrozza'
 - src: https://imgcdn.bokun.tools/2ef06e14-fce6-446a-b1f3-71c8a94eae9f.jpg
-  alt: Visitatrici vestite da flamenca alla Feria
+  alt: 'Visitatrici vestite da flamenca alla Feria'
 - src: https://imgcdn.bokun.tools/9753f272-b8e3-415f-a944-bb2207b540e3.jpg
-  alt: Gruppo nel recinto della Feria
+  alt: 'Gruppo nel recinto della Feria'
 - src: https://imgcdn.bokun.tools/933ec29a-bb2b-47ef-9137-c007ced245ab.jpg
-  alt: Visitatori con scialle e ventaglio
+  alt: 'Visitatori con scialle e ventaglio'
 - src: https://imgcdn.bokun.tools/0cd49505-ad0b-4056-98aa-2f54a71da6ed.jpg
-  alt: Casetas addobbate della Feria
+  alt: 'Casetas addobbate della Feria'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

@@ -62,31 +62,33 @@ keywords:
 - tuk tuk centre historique madrid
 - visite gran via madrid
 - madrid en tuk tuk privé
-imagen: https://imgcdn.bokun.tools/f1c49ca6-5260-4871-81f6-3cd9231da671.png
-imagenAlt: Passagers dans un tuk-tuk électrique turquoise de Tuk Tuk Zero
+imagen: /images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp
+imagenAlt: 'La Gran Vía et l''édifice Metrópolis au coucher du soleil'
 galeria:
+- src: https://imgcdn.bokun.tools/f1c49ca6-5260-4871-81f6-3cd9231da671.png
+  alt: 'Passagers dans un tuk-tuk électrique turquoise de Tuk Tuk Zero'
 - src: https://imgcdn.bokun.tools/0ca3e129-f1d5-4f2a-baef-60832588c929.jpeg
-  alt: Le palais de Cibeles et la fontaine de Cibeles
+  alt: 'Le palais de Cibeles et la fontaine de Cibeles'
 - src: https://imgcdn.bokun.tools/aa05c3dd-7625-4f38-a055-96b3bbde10d8.jpeg
-  alt: Voyageurs à côté du tuk-tuk devant la cathédrale de l'Almudena
+  alt: 'Voyageurs à côté du tuk-tuk devant la cathédrale de l''Almudena'
 - src: https://imgcdn.bokun.tools/14e9b673-e24c-4b97-814d-7d58eb79d59d.png
-  alt: Le Palais royal se reflétant dans le bassin des jardins de Sabatini
+  alt: 'Le Palais royal se reflétant dans le bassin des jardins de Sabatini'
 - src: https://imgcdn.bokun.tools/c252234f-50fd-42fa-9c1d-478af1de02df.jpeg
-  alt: Groupe à côté du tuk-tuk au coucher du soleil devant le Palais royal
+  alt: 'Groupe à côté du tuk-tuk au coucher du soleil devant le Palais royal'
 - src: https://imgcdn.bokun.tools/2dc60671-a784-466a-807f-0a8469045241.jpeg
-  alt: Couple prenant un selfie avec la cathédrale de l'Almudena derrière eux
+  alt: 'Couple prenant un selfie avec la cathédrale de l''Almudena derrière eux'
 - src: https://imgcdn.bokun.tools/17007eaf-74a6-4278-afbb-94df64826d4b.jpeg
-  alt: Conducteur de tuk-tuk avec l'Almudena en arrière-plan
+  alt: 'Conducteur de tuk-tuk avec l''Almudena en arrière-plan'
 - src: https://imgcdn.bokun.tools/20d3ea40-4d9c-47b9-b5e8-49f73b2edd19.jpeg
-  alt: Deux voyageurs devant le Congrès des députés la nuit
+  alt: 'Deux voyageurs devant le Congrès des députés la nuit'
 - src: https://imgcdn.bokun.tools/b9ce37b0-af28-42c2-aa2d-fae34d052c67.png
-  alt: Tuk-tuk électrique Tuk Tuk Zero avec des passagers
+  alt: 'Tuk-tuk électrique Tuk Tuk Zero avec des passagers'
 - src: https://imgcdn.bokun.tools/4a1fc411-34f9-47bb-9946-f2a3b70e4fb9.jpeg
-  alt: Groupe de voyageurs au coucher du soleil près du Palais royal
+  alt: 'Groupe de voyageurs au coucher du soleil près du Palais royal'
 - src: https://imgcdn.bokun.tools/963d3c13-54cd-4e86-8a5f-e5e701ed6455.jpeg
-  alt: L'immeuble Metrópolis sur la Gran Vía
+  alt: 'L''immeuble Metrópolis sur la Gran Vía'
 - src: https://imgcdn.bokun.tools/9f259571-19bb-4173-8036-22ceef061d52.jpeg
-  alt: Groupe d'amis à côté d'une statue dans le centre de Madrid
+  alt: 'Groupe d''amis à côté d''une statue dans le centre de Madrid'
 publicada: true
 indexar: false
 destacada: false

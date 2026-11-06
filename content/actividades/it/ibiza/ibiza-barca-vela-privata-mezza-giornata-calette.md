@@ -62,19 +62,21 @@ keywords:
 - barca a vela privata ibiza
 - noleggio barca con skipper ibiza
 - calette ibiza barca privata
-imagen: https://imgcdn.bokun.tools/4d1ad9cd-03bc-4407-90b5-2da17770e259.jpg
-imagenAlt: "Coppia con maschera e boccaglio sulla barca in una caletta"
+imagen: /images/actividades/ibiza/fotos-biblioteca/unsplash-j-x7lediab8.webp
+imagenAlt: 'Barca a vela all''ancora in una cala di Ibiza'
 galeria:
+- src: https://imgcdn.bokun.tools/4d1ad9cd-03bc-4407-90b5-2da17770e259.jpg
+  alt: 'Coppia con maschera e boccaglio sulla barca in una caletta'
 - src: https://imgcdn.bokun.tools/074f5fa2-1148-4062-a0b9-97fa76a976c0.jpg
-  alt: "Coppia sorridente a bordo di una barca a vela a Ibiza"
+  alt: 'Coppia sorridente a bordo di una barca a vela a Ibiza'
 - src: https://imgcdn.bokun.tools/82132269-71b3-45bb-a69a-15824f70cad2.jpg
-  alt: "Barca a vela al tramonto accanto a Es Vedrà"
+  alt: 'Barca a vela al tramonto accanto a Es Vedrà'
 - src: https://imgcdn.bokun.tools/d1d302a6-b78a-4755-a83c-b6ce78b9570b.jpg
-  alt: "Barca a vela ancorata in una caletta di Ibiza"
+  alt: 'Barca a vela ancorata in una caletta di Ibiza'
 - src: https://imgcdn.bokun.tools/f06e337d-d704-429a-80dd-159f216c34b1.jpg
-  alt: "Coppia seduta sul ponte della barca a vela"
+  alt: 'Coppia seduta sul ponte della barca a vela'
 - src: https://imgcdn.bokun.tools/6a7c6910-76ad-4585-bead-710819b28eea.jpg
-  alt: "Coppia che cammina sugli scogli di una caletta di Ibiza"
+  alt: 'Coppia che cammina sugli scogli di una caletta di Ibiza'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

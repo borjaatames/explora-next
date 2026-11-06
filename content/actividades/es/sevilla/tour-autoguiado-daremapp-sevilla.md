@@ -65,23 +65,21 @@ keywords:
 - tour autoguiado sevilla
 - audioguía sevilla
 - visita autoguiada sevilla app
-imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp
-imagenAlt: Barcas de remo en el canal de la Plaza de España
+imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
+imagenAlt: 'Torre y puente de la Plaza de España'
 galeria:
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp
-  alt: Fachada de la Real Maestranza de Sevilla
+  alt: 'Fachada de la Real Maestranza de Sevilla'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
-  alt: Fachada de la Catedral de Sevilla entre palmeras
+  alt: 'Fachada de la Catedral de Sevilla entre palmeras'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
-  alt: Plaza de España reflejada en el canal
+  alt: 'Plaza de España reflejada en el canal'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
-  alt: Las Setas de la Encarnación, a pocos minutos a pie
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
-  alt: Torre y puente de la Plaza de España
+  alt: 'Las Setas de la Encarnación, a pocos minutos a pie'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: Galería de la Plaza de España con sus bancos de azulejos
+  alt: 'Galería de la Plaza de España con sus bancos de azulejos'
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
-  alt: Aplicación DaremApp con el recorrido autoguiado
+  alt: 'Aplicación DaremApp con el recorrido autoguiado'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

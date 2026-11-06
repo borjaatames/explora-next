@@ -75,11 +75,11 @@ keywords:
 - cheap flamenco show madrid
 - flamenco near royal palace madrid
 - intimate flamenco tablao madrid
-imagen: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-imagenAlt: 'Dancer and musicians in a small flamenco tablao'
+imagen: /images/actividades/cordoba/flamenco/palmas.webp
+imagenAlt: 'Flamenco hand-clapping in Madrid'
 galeria:
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: 'Flamenco hand-clapping in Madrid'
+- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
+  alt: 'Dancer and musicians in a small flamenco tablao'
 - src: /images/actividades/cordoba/flamenco/guitarrista.webp
   alt: 'Flamenco guitarist'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp

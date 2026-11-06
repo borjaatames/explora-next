@@ -88,25 +88,25 @@ keywords:
 - avvistamento balene privato tenerife
 - tour in barca privata tenerife
 - gita in barca las galletas
-imagen: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
-imagenAlt: Passeggeri che fotografano un globicefalo dalla prua della barca privata
+imagen: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+imagenAlt: 'Un globicefalo che soffia mentre respira'
 galeria:
 - src: https://imgcdn.bokun.tools/7d10e601-a246-4e93-9dc0-a0146ddadf76.jpeg
-  alt: Il gommone privato visto dall'alto sull'acqua turchese
+  alt: 'Il gommone privato visto dall''alto sull''acqua turchese'
 - src: https://imgcdn.bokun.tools/20f8b492-80d8-4168-b6e0-2c941c1a48ea.jpeg
-  alt: Gruppo di globicefali con la costa sud di Tenerife sullo sfondo
+  alt: 'Gruppo di globicefali con la costa sud di Tenerife sullo sfondo'
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
-  alt: La costa di Palm-Mar, accanto a Las Galletas
+  alt: 'La costa di Palm-Mar, accanto a Las Galletas'
 - src: https://imgcdn.bokun.tools/92caaca9-bce5-45fb-8419-23d887c34b18.jpeg
-  alt: Un tursiope che affiora in mare aperto
+  alt: 'Un tursiope che affiora in mare aperto'
 - src: https://imgcdn.bokun.tools/5559854b-0720-4580-a97b-e3b3b68ef79b.jpeg
-  alt: Due globicefali che nuotano in superficie
+  alt: 'Due globicefali che nuotano in superficie'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: La Montaña de Guaza, sulla costa sud di Tenerife
+  alt: 'La Montaña de Guaza, sulla costa sud di Tenerife'
 - src: https://imgcdn.bokun.tools/15bf4883-1ca0-4fc3-a6bb-c3a6a21a393f.jpeg
-  alt: Un delfino che nuota sott'acqua
-- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Un globicefalo che soffia mentre respira
+  alt: 'Un delfino che nuota sott''acqua'
+- src: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
+  alt: 'Passeggeri che fotografano un globicefalo dalla prua della barca privata'
 atraccionesRelacionadas:
 - mar
 publicada: true

@@ -82,8 +82,8 @@ keywords:
 - montserrat en coche
 - tour montserrat grupo reducido
 - montserrat moreneta entradas
-imagen: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-imagenAlt: Estatua del abad Oliba entre la vegetación de Montserrat
+imagen: /images/actividades/barcelona/montserrat/montserrat-rocas.webp
+imagenAlt: 'Edificios del monasterio y montaña de Montserrat bajo cielo azul'
 ratingProveedor: 4.8
 numeroOpiniones: 311
 publicada: true
@@ -92,17 +92,17 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-monasterio-montana.webp
-  alt: Monasterio de Montserrat encajado en la montaña, visto desde arriba
-- src: /images/actividades/barcelona/montserrat/montserrat-rocas.webp
-  alt: Edificios del monasterio y montaña de Montserrat bajo cielo azul
+  alt: 'Monasterio de Montserrat encajado en la montaña, visto desde arriba'
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: 'Estatua del abad Oliba entre la vegetación de Montserrat'
 - src: /images/actividades/barcelona/montserrat/basilica-montserrat-nave.webp
-  alt: Nave de la basílica de Montserrat con el altar al fondo
+  alt: 'Nave de la basílica de Montserrat con el altar al fondo'
 - src: https://imgcdn.bokun.tools/65cca502-bc14-4732-8b3d-60d19f2406be.jpg
-  alt: El monasterio de Montserrat bajo las agujas de roca
+  alt: 'El monasterio de Montserrat bajo las agujas de roca'
 - src: https://imgcdn.bokun.tools/6bde231b-e918-4ade-b5c3-bc6aba8daafb.jpg
-  alt: Viajeros en la explanada del monasterio con la montaña al fondo
+  alt: 'Viajeros en la explanada del monasterio con la montaña al fondo'
 - src: https://imgcdn.bokun.tools/1c248131-d79f-4a98-91be-0d3dd1f112a7.jpg
-  alt: Puesto del mercado de productores de Montserrat
+  alt: 'Puesto del mercado de productores de Montserrat'
 bokunProductId: 217561
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'

@@ -83,21 +83,23 @@ keywords:
 - catamarã la graciosa
 - la graciosa a partir de lanzarote
 - playa francesa
-imagen: /images/actividades/lanzarote/catamaran-lagraciosa.webp
-imagenAlt: Catamarã fundeado em frente à costa de La Graciosa
+imagen: /images/actividades/lanzarote/catamaran/flz-cenital-turquesa.webp
+imagenAlt: 'Catamarã em águas turquesa'
 galeria:
+- src: /images/actividades/lanzarote/catamaran-lagraciosa.webp
+  alt: 'Catamarã fundeado em frente à costa de La Graciosa'
 - src: /images/actividades/lanzarote/zonas/la-graciosa-montana-amarilla.webp
-  alt: La Graciosa e a sua montanha rodeadas de mar azul
+  alt: 'La Graciosa e a sua montanha rodeadas de mar azul'
 - src: /images/actividades/lanzarote/zonas/caleta-de-sebo-puerto.webp
-  alt: Porto de Caleta de Sebo sob o Risco de Famara
+  alt: 'Porto de Caleta de Sebo sob o Risco de Famara'
 - src: /images/actividades/lanzarote/zonas/caleta-de-sebo-casas.webp
-  alt: Casas brancas e ruas de areia em Caleta de Sebo
+  alt: 'Casas brancas e ruas de areia em Caleta de Sebo'
 - src: /images/actividades/lanzarote/zonas/caleta-de-sebo-paseo.webp
-  alt: Passeio junto ao mar em Caleta de Sebo, La Graciosa
+  alt: 'Passeio junto ao mar em Caleta de Sebo, La Graciosa'
 - src: /images/actividades/lanzarote/zonas/caleta-de-sebo-marina.webp
-  alt: Barcos no porto de La Graciosa
+  alt: 'Barcos no porto de La Graciosa'
 - src: /images/actividades/lanzarote/zonas/la-graciosa-aerea.webp
-  alt: La Graciosa e Caleta de Sebo vistas do alto
+  alt: 'La Graciosa e Caleta de Sebo vistas do alto'
 ratingProveedor: 4.6
 numeroOpiniones: 2132
 atraccionesRelacionadas:

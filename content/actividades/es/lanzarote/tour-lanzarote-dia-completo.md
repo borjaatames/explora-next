@@ -77,21 +77,21 @@ keywords:
 - excursion timanfaya jameos
 - que ver en lanzarote
 - tour lanzarote con recogida
-imagen: /images/actividades/lanzarote/tour-dia-completo.webp
-imagenAlt: Conos volcánicos rojizos de las Montañas del Fuego, en Timanfaya
+imagen: /images/actividades/lanzarote/zonas/el-golfo-crater.webp
+imagenAlt: 'El cráter de El Golfo abierto al mar, con la laguna verde'
 galeria:
 - src: /images/actividades/lanzarote/zonas/la-geria-bodega.webp
-  alt: Viñedos de La Geria al pie de los volcanes
-- src: /images/actividades/lanzarote/zonas/el-golfo-crater.webp
-  alt: El cráter de El Golfo abierto al mar, con la laguna verde
+  alt: 'Viñedos de La Geria al pie de los volcanes'
+- src: /images/actividades/lanzarote/tour-dia-completo.webp
+  alt: 'Conos volcánicos rojizos de las Montañas del Fuego, en Timanfaya'
 - src: /images/actividades/lanzarote/zonas/jameos-piscina-palmeras.webp
-  alt: Piscina de los Jameos del Agua entre palmeras
+  alt: 'Piscina de los Jameos del Agua entre palmeras'
 - src: /images/actividades/lanzarote/zonas/teguise-plaza.webp
-  alt: Plaza e iglesia de Nuestra Señora de Guadalupe, en Teguise
+  alt: 'Plaza e iglesia de Nuestra Señora de Guadalupe, en Teguise'
 - src: /images/actividades/lanzarote/zonas/los-hervideros-cueva.webp
-  alt: Mar turquesa entrando en una cueva de lava en Los Hervideros
+  alt: 'Mar turquesa entrando en una cueva de lava en Los Hervideros'
 - src: /images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp
-  alt: La Graciosa vista desde el norte de Lanzarote
+  alt: 'La Graciosa vista desde el norte de Lanzarote'
 ratingProveedor: 4.7
 numeroOpiniones: 3379
 atraccionesRelacionadas:

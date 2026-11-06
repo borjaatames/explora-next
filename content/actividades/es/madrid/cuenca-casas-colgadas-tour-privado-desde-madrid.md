@@ -60,9 +60,11 @@ categoria: excursionesDia
 keywords:
 - tour privado cuenca desde madrid
 - casas colgadas cuenca excursion
-imagen: https://imgcdn.bokun.tools/ee44210e-362c-40ee-ac88-09b5ad7d275c.jpg
-imagenAlt: 'Las Casas Colgadas de Cuenca al atardecer'
+imagen: /images/actividades/cuenca/casas-colgadas/unsplash-QDbYlRHRICc-hero.webp
+imagenAlt: 'Casas Colgadas de Cuenca sobre la hoz del Huécar'
 galeria:
+- src: https://imgcdn.bokun.tools/ee44210e-362c-40ee-ac88-09b5ad7d275c.jpg
+  alt: 'Las Casas Colgadas de Cuenca al atardecer'
 - src: https://imgcdn.bokun.tools/44b97c4c-db76-4e5e-99de-e1f00805fc46.jpg
   alt: 'La catedral de Cuenca'
 - src: https://imgcdn.bokun.tools/fa5e8110-5b8b-4a18-88b0-8e54f1ee4bae.jpg

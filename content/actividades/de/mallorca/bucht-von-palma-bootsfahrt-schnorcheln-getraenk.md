@@ -87,23 +87,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/mallorca/fma-palma/catedral-palma-desde-mar.webp
-imagenAlt: Die Kathedrale von Palma vom Meer aus
+imagen: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
+imagenAlt: 'Ankerndes Boot mit Schwimmern rundherum'
 galeria:
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-fondeado-agua-turquesa.webp
-  alt: Katamaran vor Anker in türkisfarbenem Wasser, Luftaufnahme
+  alt: 'Katamaran vor Anker in türkisfarbenem Wasser, Luftaufnahme'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
-  alt: Person schnorchelt über felsigem Grund
+  alt: 'Person schnorchelt über felsigem Grund'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-mar-abierto.webp
-  alt: Katamaran auf offener See, Luftaufnahme
-- src: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
-  alt: Ankerndes Boot mit Schwimmern rundherum
+  alt: 'Katamaran auf offener See, Luftaufnahme'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
-  alt: Die Kathedrale von Palma über der Stadtmauer am Meer
+  alt: 'Die Kathedrale von Palma über der Stadtmauer am Meer'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
-  alt: Felsiger Meeresgrund unter kristallklarem Wasser
+  alt: 'Felsiger Meeresgrund unter kristallklarem Wasser'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-lancha-agua-verde.webp
-  alt: Katamaran und Beiboot auf grün-türkisfarbenem Wasser
+  alt: 'Katamaran und Beiboot auf grün-türkisfarbenem Wasser'
 avisoReserva: 'Saisonale Aktivität: Die nächsten verfügbaren Termine beginnen im März 2027. An Bord gibt es keine Erklärungen auf Deutsch; die Crew spricht Spanisch und meist Englisch. Zum Baden und Schnorcheln brauchst du aber keine Sprachkenntnisse.'
 ---
 

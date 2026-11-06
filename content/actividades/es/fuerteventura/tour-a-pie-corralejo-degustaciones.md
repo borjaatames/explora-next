@@ -74,23 +74,21 @@ keywords:
 - tour gastronomico corralejo
 - tour a pie corralejo
 - comida tipica fuerteventura
-imagen: /images/actividades/fuerteventura/corralejo-walking.webp
-imagenAlt: Calle del casco antiguo de Corralejo junto al mar
+imagen: /images/actividades/fuerteventura/corralejo/corralejo-calle-de-la-iglesia.webp
+imagenAlt: 'Calle de la Iglesia, la calle peatonal del casco antiguo de Corralejo'
 galeria:
-- src: /images/actividades/fuerteventura/corralejo/corralejo-calle-de-la-iglesia.webp
-  alt: Calle de la Iglesia, la calle peatonal del casco antiguo de Corralejo
 - src: /images/actividades/fuerteventura/zonas/puerto-corralejo.webp
-  alt: Barcos en el puerto de Corralejo
+  alt: 'Barcos en el puerto de Corralejo'
 - src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: Papas arrugadas con mojo verde, plato típico de Canarias
+  alt: 'Papas arrugadas con mojo verde, plato típico de Canarias'
 - src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
-  alt: Barcos de excursión en el puerto de Corralejo
+  alt: 'Barcos de excursión en el puerto de Corralejo'
 - src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: Cabra majorera, la raza autóctona con cuya leche se elabora el queso majorero
+  alt: 'Cabra majorera, la raza autóctona con cuya leche se elabora el queso majorero'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos.webp
-  alt: La Isla de Lobos desde la costa de Fuerteventura
+  alt: 'La Isla de Lobos desde la costa de Fuerteventura'
 - src: /images/actividades/fuerteventura/zonas/dunas-corralejo-paseo.webp
-  alt: Paseo por las dunas blancas de Corralejo
+  alt: 'Paseo por las dunas blancas de Corralejo'
 ratingProveedor: 4.9
 numeroOpiniones: 515
 atraccionesRelacionadas:

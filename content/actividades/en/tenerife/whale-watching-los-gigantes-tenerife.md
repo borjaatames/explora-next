@@ -72,23 +72,23 @@ keywords:
 - pilot whales tenerife
 - los gigantes boat trip
 - tenerife dolphin watching
-imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-imagenAlt: Los Gigantes cliffs rising from the sea, Tenerife
+imagen: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
+imagenAlt: 'Dolphin swimming at the surface'
 galeria:
 - src: /images/actividades/tenerife/gigantes/costa-acantilado-velero.webp
-  alt: "Coast and cliffs seen from a whale-watching boat"
-- src: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
-  alt: "Dolphin swimming at the surface"
+  alt: 'Coast and cliffs seen from a whale-watching boat'
+- src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
+  alt: 'Los Gigantes cliffs rising from the sea, Tenerife'
 - src: /images/actividades/tenerife/gigantes/gigantes-pueblo.webp
-  alt: Village of Los Gigantes in Tenerife
+  alt: 'Village of Los Gigantes in Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: Pilot whale surfacing close to the boat, Tenerife
+  alt: 'Pilot whale surfacing close to the boat, Tenerife'
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
-  alt: Coastline near Los Gigantes, Tenerife
+  alt: 'Coastline near Los Gigantes, Tenerife'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Atlantic spotted dolphin off the coast of Tenerife
+  alt: 'Atlantic spotted dolphin off the coast of Tenerife'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-  alt: Open sea below the Los Gigantes cliffs
+  alt: 'Open sea below the Los Gigantes cliffs'
 ratingProveedor: 4.7
 numeroOpiniones: 5888
 atraccionesRelacionadas:

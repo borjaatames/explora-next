@@ -71,25 +71,27 @@ keywords:
 - tour sevilla con guia desde malaga
 - sevilla dia completo malaga
 - excursion sevilla privada
-imagen: https://imgcdn.bokun.tools/2201e4ce-7bc0-42f0-90f4-8d0702b7edb5.jpg
-imagenAlt: La Giralda vista desde abajo con viajeros
+imagen: /images/actividades/sevilla/acuario-sevilla/boveda-mudejar-arcos-sevilla.webp
+imagenAlt: 'Baños de doña María de Padilla en el Real Alcázar de Sevilla'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: https://imgcdn.bokun.tools/2201e4ce-7bc0-42f0-90f4-8d0702b7edb5.jpg
+  alt: 'La Giralda vista desde abajo con viajeros'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
-  alt: Catedral de Sevilla y la Giralda
+  alt: 'Catedral de Sevilla y la Giralda'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
-  alt: Vista amplia de la Plaza de España de Sevilla
+  alt: 'Vista amplia de la Plaza de España de Sevilla'
 - src: https://imgcdn.bokun.tools/6b9acedb-4c85-4778-b40b-091bbd481fc7.jpg
-  alt: Viajeros sentados en un banco de azulejos de la Plaza de España
+  alt: 'Viajeros sentados en un banco de azulejos de la Plaza de España'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp
-  alt: Catedral de Sevilla con la Giralda al atardecer
+  alt: 'Catedral de Sevilla con la Giralda al atardecer'
 - src: https://imgcdn.bokun.tools/a0b39878-ba5c-4919-ac0b-be6af6061bea.jpg
-  alt: El río Guadalquivir a su paso por Sevilla
+  alt: 'El río Guadalquivir a su paso por Sevilla'
 - src: https://imgcdn.bokun.tools/9409d5d8-4e85-4a42-9f98-0d5e9e5fce6f.jpg
-  alt: La Catedral y la Giralda sobre los tejados de Sevilla
+  alt: 'La Catedral y la Giralda sobre los tejados de Sevilla'
 bokunProductId: 990352
 fecha_actualizacion: '2026-10-24'
 privada: true

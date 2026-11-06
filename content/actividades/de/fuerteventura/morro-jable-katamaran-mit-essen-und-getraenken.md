@@ -81,27 +81,27 @@ keywords:
 - katamaran morro jable
 - jandia bootsausflug mit essen
 - delfine katamaran fuerteventura
-imagen: /images/actividades/fuerteventura/catamaran-morrojable.webp
-imagenAlt: Katamaran vor der Küste von Jandía
+imagen: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
+imagenAlt: 'Badende im Wasser neben einem ankernden Boot'
 galeria:
 - src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-  alt: Delfine schwimmen neben einem Boot vor Morro Jable
+  alt: 'Delfine schwimmen neben einem Boot vor Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
-  alt: Die Küste von Jandía mit dem Leuchtturm in der Ferne
+  alt: 'Die Küste von Jandía mit dem Leuchtturm in der Ferne'
 - src: /images/actividades/fuerteventura/catamaran-morro-jable/comida-servida-a-bordo.webp
-  alt: Tablett mit Essen, das Passagieren an einem Tisch an Bord serviert wird
+  alt: 'Tablett mit Essen, das Passagieren an einem Tisch an Bord serviert wird'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
-  alt: Morro Jable und der Strand Matorral von den Hügeln aus gesehen
+  alt: 'Morro Jable und der Strand Matorral von den Hügeln aus gesehen'
 - src: /images/actividades/fuerteventura/catamaran-morro-jable/copa-espumoso-a-bordo-catamaran.webp
-  alt: Glas Sekt an Deck eines Segelkatamarans
+  alt: 'Glas Sekt an Deck eines Segelkatamarans'
 - src: /images/actividades/fuerteventura/zonas/macizo-jandia.webp
-  alt: Das Jandía-Massiv mit Wolken über den Gipfeln
-- src: /images/actividades/fuerteventura/catamaran-morro-jable/banistas-junto-al-barco.webp
-  alt: Badende im Wasser neben einem ankernden Boot
+  alt: 'Das Jandía-Massiv mit Wolken über den Gipfeln'
+- src: /images/actividades/fuerteventura/catamaran-morrojable.webp
+  alt: 'Katamaran vor der Küste von Jandía'
 - src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
-  alt: Die Luvküste von Jandía
+  alt: 'Die Luvküste von Jandía'
 - src: /images/actividades/fuerteventura/zonas/faro-matorral.webp
-  alt: Leuchtturm von Morro Jable zwischen Salzwiesen-Gestrüpp
+  alt: 'Leuchtturm von Morro Jable zwischen Salzwiesen-Gestrüpp'
 ratingProveedor: 4.4
 numeroOpiniones: 1786
 atraccionesRelacionadas:

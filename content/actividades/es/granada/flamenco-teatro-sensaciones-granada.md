@@ -92,19 +92,17 @@ keywords:
 - flamenco campo del principe
 - espectaculo flamenco centro granada
 - flamenco accesible granada
-imagen: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaora-bata-lunares.webp
-imagenAlt: Bailaora con bata de cola en el Teatro Flamenco Granada
+imagen: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
+imagenAlt: 'Bailaoras de rojo en el espectáculo Sensaciones'
 galeria:
 - src: /images/actividades/granada/albaicin/albaicin-pexels-30359825.webp
-  alt: Casas blancas del Albaicín, en Granada
+  alt: 'Casas blancas del Albaicín, en Granada'
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-cuadro-baile.webp
-  alt: Cuadro de baile en el escenario del Teatro Flamenco Granada
+  alt: 'Cuadro de baile en el escenario del Teatro Flamenco Granada'
 - src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-sala-teatro.webp
-  alt: Sala y escenario del Teatro Flamenco Granada
-- src: /images/actividades/granada/teatro-flamenco-granada-oficial/teatro-flamenco-granada-oficial-bailaoras-rojo.webp
-  alt: Bailaoras de rojo en el espectáculo Sensaciones
+  alt: 'Sala y escenario del Teatro Flamenco Granada'
 - src: /images/actividades/granada/albaicin/albaicin-pexels-38321002.webp
-  alt: El Albaicín al caer la tarde
+  alt: 'El Albaicín al caer la tarde'
 ratingProveedor: 4.8
 numeroOpiniones: 788
 publicada: true

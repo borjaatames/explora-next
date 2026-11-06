@@ -94,25 +94,25 @@ keywords:
 - ebike royal palace tour
 - wonder tours madrid
 - e-bike central madrid
-imagen: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
-imagenAlt: Plaza Mayor, the first stop on the route
+imagen: /images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp
+imagenAlt: 'E-bike tour group in front of the Royal Palace of Madrid'
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
-  alt: Plaza de Oriente and the Royal Palace
+  alt: 'Plaza de Oriente and the Royal Palace'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero.webp
-  alt: Royal Palace seen from the Campo del Moro gardens
+  alt: 'Royal Palace seen from the Campo del Moro gardens'
 - src: /images/actividades/madrid/debod/templo-debod-brown-concrete-building-near-body-hero.webp
-  alt: Temple of Debod reflected in its pool
+  alt: 'Temple of Debod reflected in its pool'
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
-  alt: Plaza de la Villa with the Lujanes House and Tower
+  alt: 'Plaza de la Villa with the Lujanes House and Tower'
 - src: /images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp
-  alt: San Miguel Market
-- src: /images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp
-  alt: E-bike tour group in front of the Royal Palace of Madrid
+  alt: 'San Miguel Market'
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
+  alt: 'Plaza Mayor, the first stop on the route'
 - src: /images/actividades/madrid/ebike/touring-madrid-hero.webp
-  alt: The bike group stopping along the route
+  alt: 'The bike group stopping along the route'
 - src: /images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp
-  alt: Tour cyclists at the Temple of Debod
+  alt: 'Tour cyclists at the Temple of Debod'
 ratingProveedor: 4.5
 numeroOpiniones: 196
 publicada: true

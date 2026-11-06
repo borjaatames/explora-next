@@ -66,23 +66,23 @@ keywords:
 - puro arte jerez flamenco
 - flamenco jerez mit abendessen
 - flamenco jerez de la frontera tickets
-imagen: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-imagenAlt: Flamenco-Tänzerin dreht sich auf der Bühne, der Rock in Bewegung
+imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
+imagenAlt: 'Publikum genießt eine Flamenco-Show in Jerez'
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: Hände einer Tänzerin mit Kastagnetten
+  alt: 'Hände einer Tänzerin mit Kastagnetten'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
-  alt: Tänzerin im Volantrock tanzt bei gedämpftem Licht
+  alt: 'Tänzerin im Volantrock tanzt bei gedämpftem Licht'
 - src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-generoso.webp
-  alt: Glas Sherry auf einem Holzbrett
+  alt: 'Glas Sherry auf einem Holzbrett'
 - src: /images/actividades/jerez-de-la-frontera/tapas/tabla-tapas-cazuelas.webp
-  alt: Auswahl an Tapas und kleinen Tonschalen
+  alt: 'Auswahl an Tapas und kleinen Tonschalen'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
-  alt: Kathedrale von Jerez und ihr Turm nachts beleuchtet
+  alt: 'Kathedrale von Jerez und ihr Turm nachts beleuchtet'
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: 'Flamencotänzerin mit Musiker in einem Tablao'
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-  alt: Live-Musiker in einem Flamenco-Tablao in Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: Publikum genießt eine Flamenco-Show in Jerez
+  alt: 'Live-Musiker in einem Flamenco-Tablao in Jerez'
 ratingProveedor: 4.6
 numeroOpiniones: 348
 atraccionesRelacionadas:

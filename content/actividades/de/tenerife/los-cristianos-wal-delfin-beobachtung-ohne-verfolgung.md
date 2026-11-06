@@ -87,23 +87,23 @@ keywords:
 - delfine beobachten teneriffa süd
 - glasbodenboot teneriffa
 - bootsfahrt los cristianos
-imagen: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
-imagenAlt: Boote im Hafen von Los Cristianos
+imagen: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+imagenAlt: 'Kurzflossen-Grindwal beim Atmen an der Oberfläche'
 galeria:
 - src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
-  alt: Walbeobachtungsboot mit Passagieren neben einer Gruppe Grindwale auf Teneriffa
+  alt: 'Walbeobachtungsboot mit Passagieren neben einer Gruppe Grindwale auf Teneriffa'
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Grindwale an der Wasseroberfläche vor der Küste Teneriffas
-- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
-  alt: Kurzflossen-Grindwal beim Atmen an der Oberfläche
+  alt: 'Grindwale an der Wasseroberfläche vor der Küste Teneriffas'
+- src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
+  alt: 'Boote im Hafen von Los Cristianos'
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
-  alt: Die Bucht von Los Cristianos vom Ufer aus
+  alt: 'Die Bucht von Los Cristianos vom Ufer aus'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Atlantischer Fleckendelfin in kanarischen Gewässern
+  alt: 'Atlantischer Fleckendelfin in kanarischen Gewässern'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: Montaña de Guaza neben Los Cristianos
+  alt: 'Montaña de Guaza neben Los Cristianos'
 - src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Grindwal beim Ausblasen in den Gewässern Südteneriffas
+  alt: 'Grindwal beim Ausblasen in den Gewässern Südteneriffas'
 ratingProveedor: 4.6
 numeroOpiniones: 15598
 atraccionesRelacionadas:

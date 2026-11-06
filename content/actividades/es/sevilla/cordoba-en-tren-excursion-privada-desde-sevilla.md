@@ -72,8 +72,8 @@ keywords:
 - excursion cordoba desde sevilla en tren
 - cordoba desde sevilla con guia privado
 - mezquita cordoba excursion tren
-imagen: https://imgcdn.bokun.tools/7bcf05b6-3657-4a69-8ab5-28616e00823f.jpg
-imagenAlt: Arcos y columnas de la Mezquita de Córdoba
+imagen: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-dorado.webp
+imagenAlt: 'Mosaicos dorados del mihrab de la Mezquita'
 ratingProveedor: 5.0
 numeroOpiniones: 8
 publicada: true
@@ -81,17 +81,17 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/cordoba/mezquita/arcos-bosque-columnas.webp
-  alt: Bosque de columnas y arcos bicolores de la Mezquita de Córdoba
+  alt: 'Bosque de columnas y arcos bicolores de la Mezquita de Córdoba'
 - src: https://imgcdn.bokun.tools/40011c40-e146-4cff-b1cd-feb2445c84d6.jpg
-  alt: Calle con flores y la torre de la Mezquita al fondo
-- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-dorado.webp
-  alt: Mosaicos dorados del mihrab de la Mezquita
+  alt: 'Calle con flores y la torre de la Mezquita al fondo'
+- src: https://imgcdn.bokun.tools/7bcf05b6-3657-4a69-8ab5-28616e00823f.jpg
+  alt: 'Arcos y columnas de la Mezquita de Córdoba'
 - src: https://imgcdn.bokun.tools/0b7139ab-50dc-426f-88f4-d2d5a100c68d.jpg
-  alt: Viajeros en un patio cordobés con macetas
+  alt: 'Viajeros en un patio cordobés con macetas'
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores con macetas azules
+  alt: 'Calleja de las Flores con macetas azules'
 - src: https://imgcdn.bokun.tools/70d7cebd-1c7c-44d2-a851-927dc58bacce.jpg
-  alt: Puente Romano y Mezquita de Córdoba al atardecer
+  alt: 'Puente Romano y Mezquita de Córdoba al atardecer'
 bokunProductId: 793766
 fecha_actualizacion: '2026-10-24'
 privada: true

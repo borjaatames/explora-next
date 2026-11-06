@@ -86,23 +86,21 @@ keywords:
 - senderismo masca
 - ruta masca barco
 - los gigantes barco
-imagen: /images/actividades/tenerife/masca/barranco-masca-paredes.webp
-imagenAlt: Las paredes del barranco de Masca
+imagen: /images/actividades/tenerife/masca/masca-teno.webp
+imagenAlt: 'Masca en el macizo de Teno'
 galeria:
-- src: /images/actividades/tenerife/masca/masca-teno.webp
-  alt: Masca en el macizo de Teno
 - src: /images/actividades/tenerife/masca/barranco-masca-sendero.webp
-  alt: Interior del barranco de Masca
+  alt: 'Interior del barranco de Masca'
 - src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-  alt: Acantilados de Los Gigantes
+  alt: 'Acantilados de Los Gigantes'
 - src: /images/actividades/tenerife/masca/barranco-masca-atardecer.webp
-  alt: Barranco de Masca al atardecer
+  alt: 'Barranco de Masca al atardecer'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-  alt: Los acantilados de Los Gigantes desde la costa
+  alt: 'Los acantilados de Los Gigantes desde la costa'
 - src: /images/actividades/tenerife/masca/barranco-masca-luz.webp
-  alt: Luz de tarde en el barranco de Masca
+  alt: 'Luz de tarde en el barranco de Masca'
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
-  alt: Costa de Los Gigantes
+  alt: 'Costa de Los Gigantes'
 ratingProveedor: 4.7
 numeroOpiniones: 374
 atraccionesRelacionadas:

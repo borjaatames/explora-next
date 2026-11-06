@@ -69,21 +69,21 @@ keywords:
 - fundacio joan miro entradas
 - museo miro barcelona
 - fundacion miro montjuic
-imagen: /images/actividades/barcelona/fundacio-miro/fundacio-miro-01.webp
-imagenAlt: Escultura roja junto al edificio de la Fundació Joan Miró
+imagen: /images/actividades/barcelona/fundacio-miro/fundacio-miro-02.webp
+imagenAlt: 'Edificio blanco de la Fundació Miró, obra de Josep Lluís Sert'
 galeria:
-- src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-02.webp
-  alt: Edificio blanco de la Fundació Miró, obra de Josep Lluís Sert
+- src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-01.webp
+  alt: 'Escultura roja junto al edificio de la Fundació Joan Miró'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-03.webp
-  alt: Entrada de la Fundació Joan Miró en Montjuïc
+  alt: 'Entrada de la Fundació Joan Miró en Montjuïc'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-05.webp
-  alt: Patios y lucernarios de la Fundació Miró
+  alt: 'Patios y lucernarios de la Fundació Miró'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-06.webp
-  alt: Lucernarios curvos característicos del edificio de Sert
+  alt: 'Lucernarios curvos característicos del edificio de Sert'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-07.webp
-  alt: Escultura de Miró en la entrada de la Fundació
+  alt: 'Escultura de Miró en la entrada de la Fundació'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-08.webp
-  alt: Fundació Miró vista desde la avenida de Montjuïc
+  alt: 'Fundació Miró vista desde la avenida de Montjuïc'
 ratingProveedor: 4.6
 numeroOpiniones: 1578
 atraccionesRelacionadas:

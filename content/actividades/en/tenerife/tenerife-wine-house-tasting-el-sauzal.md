@@ -74,21 +74,19 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/tenerife/casa-del-vino/ftc-cata-copas-blanco-tinto-uvas.webp
-imagenAlt: "A glass of white and a glass of red wine beside bunches of grapes and a barrel"
+imagen: /images/actividades/alicante/vino/cata-copas.webp
+imagenAlt: 'Glasses of white, rosé and red wine set out for a tasting'
 galeria:
 - src: /images/actividades/tenerife/orotava/valle-plataneras.webp
-  alt: "View of northern Tenerife across farmland to the sea"
+  alt: 'View of northern Tenerife across farmland to the sea'
 - src: /images/actividades/tenerife/casa-del-vino/ftc-uva-tinta-hojas-vina.webp
-  alt: "Ripe red grapes among vine leaves"
-- src: /images/actividades/alicante/vino/cata-copas.webp
-  alt: "Glasses of white, rosé and red wine set out for a tasting"
+  alt: 'Ripe red grapes among vine leaves'
 - src: /images/actividades/tenerife/orotava/balcones-madera.webp
-  alt: "Canarian manor house with traditional wooden balconies"
+  alt: 'Canarian manor house with traditional wooden balconies'
 - src: /images/actividades/tenerife/teide/teide-nevado.webp
-  alt: "Mount Teide, visible from northern Tenerife"
+  alt: 'Mount Teide, visible from northern Tenerife'
 - src: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
-  alt: "Wine barrels stacked in a winery"
+  alt: 'Wine barrels stacked in a winery'
 ---
 
 ## What you will see

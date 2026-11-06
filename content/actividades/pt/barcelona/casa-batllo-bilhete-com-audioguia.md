@@ -96,23 +96,21 @@ keywords:
 - entrada casa batlló
 - casa batlló gaudí
 - casa batlló bilhete oficial
-imagen: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp
-imagenAlt: Fachada modernista da Casa Batlló com mosaicos coloridos e paredes ondulantes em Barcelona
+imagen: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
+imagenAlt: 'Vista aérea de Barcelona com a costa mediterrânica e a Sagrada Família'
 galeria:
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-78111992-hero.webp
-  alt: Pormenor da fachada ondulante da Casa Batlló, de Gaudí
+  alt: 'Pormenor da fachada ondulante da Casa Batlló, de Gaudí'
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-5874108-hero.webp
-  alt: Pormenor da fachada ondulante da Casa Batlló, de Gaudí
+  alt: 'Pormenor da fachada ondulante da Casa Batlló, de Gaudí'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
-  alt: Fachada ondulante da Casa Batlló com mosaicos coloridos e varandas ornamentadas em Barcelona
+  alt: 'Fachada ondulante da Casa Batlló com mosaicos coloridos e varandas ornamentadas em Barcelona'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-window-stained-glass-barcelona-hero-hero.webp
-  alt: Pormenor de um vitral da Casa Batlló, o célebre edifício modernista de Gaudí em Barcelona
+  alt: 'Pormenor de um vitral da Casa Batlló, o célebre edifício modernista de Gaudí em Barcelona'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero-hero.webp
-  alt: A fachada curva da Casa Batlló, com mosaicos coloridos, na paisagem de Barcelona
+  alt: 'A fachada curva da Casa Batlló, com mosaicos coloridos, na paisagem de Barcelona'
 - src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
-  alt: Panorâmica de Barcelona ao pôr do sol, com o Bairro Gótico e edifícios modernos
-- src: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
-  alt: Vista aérea de Barcelona com a costa mediterrânica e a Sagrada Família
+  alt: 'Panorâmica de Barcelona ao pôr do sol, com o Bairro Gótico e edifícios modernos'
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

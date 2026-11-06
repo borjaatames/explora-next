@@ -63,19 +63,21 @@ categoria: agua
 keywords:
 - voilier partage ibiza formentera
 - excursion voilier formentera journee
-imagen: https://imgcdn.bokun.tools/32afb5c2-0292-43ec-9af3-998810a730f4.jpg
-imagenAlt: "Groupe prenant le soleil sur un voilier face à Es Vedrà"
+imagen: /images/actividades/ibiza/fotos-biblioteca/pexels-33838897.webp
+imagenAlt: 'Ses Illetes à Formentera avec des bateaux au mouillage'
 galeria:
+- src: https://imgcdn.bokun.tools/32afb5c2-0292-43ec-9af3-998810a730f4.jpg
+  alt: 'Groupe prenant le soleil sur un voilier face à Es Vedrà'
 - src: https://imgcdn.bokun.tools/eafbcfe5-25d8-43d6-9dde-33c63431e0db.jpg
-  alt: "Amies avec un apéritif à bord du bateau"
+  alt: 'Amies avec un apéritif à bord du bateau'
 - src: https://imgcdn.bokun.tools/5fa642ac-c9fc-4585-b836-ea92b569358b.jpg
-  alt: "Groupe se promenant sur une plage de Formentera"
+  alt: 'Groupe se promenant sur une plage de Formentera'
 - src: https://imgcdn.bokun.tools/63d91f9b-c9eb-478a-b865-5ad302dbc20c.jpg
-  alt: "Skipper à la barre du voilier"
+  alt: 'Skipper à la barre du voilier'
 - src: https://imgcdn.bokun.tools/4454177d-d72c-4f00-9f35-c0e0e1385086.jpg
-  alt: "Groupe allongé sur un paddle dans une eau turquoise"
+  alt: 'Groupe allongé sur un paddle dans une eau turquoise'
 - src: https://imgcdn.bokun.tools/b5ee9b67-8fe3-4bd5-8f22-e1c087c4fd26.jpg
-  alt: "Eaux turquoise et îlots de Formentera"
+  alt: 'Eaux turquoise et îlots de Formentera'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

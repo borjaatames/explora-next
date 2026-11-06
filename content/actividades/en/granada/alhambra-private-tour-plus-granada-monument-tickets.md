@@ -79,8 +79,8 @@ keywords:
 - alhambra private tour
 - granada monument tickets
 - alhambra royal chapel tickets
-imagen: https://imgcdn.bokun.tools/99050210-6734-4be4-8873-c7675008c167.jpg
-imagenAlt: The Court of the Myrtles reflected in its pool
+imagen: /images/actividades/granada/san-jeronimo/san-jeronimo-02.webp
+imagenAlt: 'Cloister of San Jerónimo Monastery'
 ratingProveedor: 4.9
 numeroOpiniones: 24
 publicada: true
@@ -88,19 +88,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
-  alt: Court of the Lions in the Nasrid Palaces
+  alt: 'Court of the Lions in the Nasrid Palaces'
 - src: https://imgcdn.bokun.tools/dc68bb50-8782-4ce9-84c0-48fb09432aac.jpg
-  alt: Fountains of the Patio de la Acequia in the Generalife
+  alt: 'Fountains of the Patio de la Acequia in the Generalife'
 - src: https://imgcdn.bokun.tools/355fe27d-9565-4bcb-81af-2f4a9993d4c5.jpg
-  alt: Travellers taking a selfie beneath a muqarnas dome
+  alt: 'Travellers taking a selfie beneath a muqarnas dome'
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
-  alt: Main facade of Granada Cathedral, by Alonso Cano
+  alt: 'Main facade of Granada Cathedral, by Alonso Cano'
 - src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
-  alt: Exterior of Granada's Royal Chapel
-- src: /images/actividades/granada/san-jeronimo/san-jeronimo-02.webp
-  alt: Cloister of San Jerónimo Monastery
+  alt: 'Exterior of Granada''s Royal Chapel'
+- src: https://imgcdn.bokun.tools/99050210-6734-4be4-8873-c7675008c167.jpg
+  alt: 'The Court of the Myrtles reflected in its pool'
 - src: https://imgcdn.bokun.tools/a818eda3-e627-469d-b2f4-e0b1bf391f71.jpg
-  alt: Couple walking through the Generalife gardens
+  alt: 'Couple walking through the Generalife gardens'
 bokunProductId: 793765
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

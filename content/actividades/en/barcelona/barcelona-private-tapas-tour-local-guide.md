@@ -55,19 +55,21 @@ categoria: toursGastronomicos
 keywords:
 - private tapas tour barcelona
 - barcelona tapas tour private guide
-imagen: https://imgcdn.bokun.tools/182ec065-9b2d-41ec-af6b-98d288742b79.jpg
-imagenAlt: "Assorted pintxos on a bar counter"
+imagen: /images/actividades/barcelona/proveedor-1229823/prov-tapas-mesa.webp
+imagenAlt: 'Group sharing tapas'
 galeria:
+- src: https://imgcdn.bokun.tools/182ec065-9b2d-41ec-af6b-98d288742b79.jpg
+  alt: 'Assorted pintxos on a bar counter'
 - src: https://imgcdn.bokun.tools/2d24459a-c3ec-4e48-bd3b-fa9ac991660e.jpg
-  alt: "Colourful shots on a bar counter"
+  alt: 'Colourful shots on a bar counter'
 - src: https://imgcdn.bokun.tools/8d4f2ca0-6c94-44f3-aa44-2fa856d061f9.jpg
-  alt: "Snacks on board: olives, sandwiches and fruit"
+  alt: 'Snacks on board: olives, sandwiches and fruit'
 - src: https://imgcdn.bokun.tools/ec44a72f-67ad-4dde-82bd-ea77ca65ac3b.jpg
-  alt: "Vermouth with olives and orange"
+  alt: 'Vermouth with olives and orange'
 - src: https://imgcdn.bokun.tools/20466b29-cd3a-48da-a261-f5d05e1a90fd.jpg
-  alt: "Tapas with ham and a glass of beer"
+  alt: 'Tapas with ham and a glass of beer'
 - src: https://imgcdn.bokun.tools/2ec8c2a3-305d-483e-8efe-612a9b02e6f7.jpg
-  alt: "Table of assorted tapas and beer"
+  alt: 'Table of assorted tapas and beer'
 publicada: true
 indexar: false
 destacada: false

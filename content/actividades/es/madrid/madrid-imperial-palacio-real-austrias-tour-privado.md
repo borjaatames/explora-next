@@ -60,9 +60,11 @@ categoria: visitasGuiadas
 keywords:
 - visita privada palacio real madrid
 - madrid de los austrias guia privado
-imagen: https://imgcdn.bokun.tools/948fb163-8c4f-4728-bc34-af651e381ae1.jpg
+imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
 imagenAlt: 'Fachada del Palacio Real de Madrid'
 galeria:
+- src: https://imgcdn.bokun.tools/948fb163-8c4f-4728-bc34-af651e381ae1.jpg
+  alt: 'Fachada del Palacio Real de Madrid'
 - src: https://imgcdn.bokun.tools/bc1721a2-31b5-4f27-abc9-b65ddfb42823.jpg
   alt: 'La catedral de la Almudena al atardecer'
 publicada: true

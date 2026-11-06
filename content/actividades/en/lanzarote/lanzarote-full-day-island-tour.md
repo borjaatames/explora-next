@@ -77,21 +77,21 @@ keywords:
 - timanfaya jameos tour
 - what to see in lanzarote
 - lanzarote tour with pickup
-imagen: /images/actividades/lanzarote/tour-dia-completo.webp
-imagenAlt: Reddish volcanic cones of the Fire Mountains in Timanfaya
+imagen: /images/actividades/lanzarote/zonas/el-golfo-crater.webp
+imagenAlt: 'The El Golfo crater open to the sea, with its green lagoon'
 galeria:
 - src: /images/actividades/lanzarote/zonas/la-geria-bodega.webp
-  alt: La Geria vineyards at the foot of the volcanoes
-- src: /images/actividades/lanzarote/zonas/el-golfo-crater.webp
-  alt: The El Golfo crater open to the sea, with its green lagoon
+  alt: 'La Geria vineyards at the foot of the volcanoes'
+- src: /images/actividades/lanzarote/tour-dia-completo.webp
+  alt: 'Reddish volcanic cones of the Fire Mountains in Timanfaya'
 - src: /images/actividades/lanzarote/zonas/jameos-piscina-palmeras.webp
-  alt: The Jameos del Agua pool among palm trees
+  alt: 'The Jameos del Agua pool among palm trees'
 - src: /images/actividades/lanzarote/zonas/teguise-plaza.webp
-  alt: Square and church of Nuestra Señora de Guadalupe in Teguise
+  alt: 'Square and church of Nuestra Señora de Guadalupe in Teguise'
 - src: /images/actividades/lanzarote/zonas/los-hervideros-cueva.webp
-  alt: Turquoise sea entering a lava cave at Los Hervideros
+  alt: 'Turquoise sea entering a lava cave at Los Hervideros'
 - src: /images/actividades/lanzarote/zonas/mirador-del-rio-vista.webp
-  alt: La Graciosa seen from northern Lanzarote
+  alt: 'La Graciosa seen from northern Lanzarote'
 ratingProveedor: 4.7
 numeroOpiniones: 3379
 atraccionesRelacionadas:

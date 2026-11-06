@@ -71,29 +71,31 @@ keywords:
 - iberian ham tour from seville
 - iberian pig farm tour
 - aracena day trip from seville
-imagen: https://imgcdn.bokun.tools/41bf1017-e4af-4da2-a636-a10d028ca779.jpeg
-imagenAlt: Iberian pigs under the holm oaks of the dehesa
+imagen: /images/actividades/cadiz/vejer-toros/toros-dehesa-encinas.webp
+imagenAlt: 'Holm oak dehesa in the Sierra de Aracena'
 galeria:
+- src: https://imgcdn.bokun.tools/41bf1017-e4af-4da2-a636-a10d028ca779.jpeg
+  alt: 'Iberian pigs under the holm oaks of the dehesa'
 - src: https://imgcdn.bokun.tools/d57ed6dc-ab98-4c50-ad7f-baef2abe1495.jpg
-  alt: Iberian ham tasting
+  alt: 'Iberian ham tasting'
 - src: https://imgcdn.bokun.tools/415bdaeb-0bc5-46dc-9665-f520a174483c.jpg
-  alt: Hams curing in the drying house
+  alt: 'Hams curing in the drying house'
 - src: https://imgcdn.bokun.tools/8468a767-cbaf-4f84-93ce-49a45a902d39.jpg
-  alt: Visitors with an Iberian pig on the farm
+  alt: 'Visitors with an Iberian pig on the farm'
 - src: https://imgcdn.bokun.tools/0adf6615-7bfa-4872-824d-077cbcbcc6c7.jpeg
-  alt: Iberian pigs up close
+  alt: 'Iberian pigs up close'
 - src: https://imgcdn.bokun.tools/06adb785-a19c-4e0e-a600-1107740cd21e.jpeg
-  alt: Iberian pig grazing on the grass
+  alt: 'Iberian pig grazing on the grass'
 - src: https://imgcdn.bokun.tools/ed9044d3-6f0f-49a7-82b6-f1076bc766ea.jpeg
-  alt: A herd of Iberian pigs
+  alt: 'A herd of Iberian pigs'
 - src: https://imgcdn.bokun.tools/40c8f847-ee71-4a64-be6d-4b9d72d241bd.jpeg
-  alt: Iberian pigs at sunset on the dehesa
+  alt: 'Iberian pigs at sunset on the dehesa'
 - src: https://imgcdn.bokun.tools/53ddfed6-5e14-42e3-92ff-a5056f5deda4.jpg
-  alt: Landscape of the Aracena mountains
+  alt: 'Landscape of the Aracena mountains'
 - src: https://imgcdn.bokun.tools/8ad3e731-79b0-4875-97b9-6f2fa987afaf.jpg
-  alt: Walls of Aracena castle
+  alt: 'Walls of Aracena castle'
 - src: https://imgcdn.bokun.tools/1f34a406-dff4-4231-9416-33873adb36fa.jpg
-  alt: Whitewashed bell gable in the Aracena mountains
+  alt: 'Whitewashed bell gable in the Aracena mountains'
 publicada: true
 indexar: false
 destacada: false

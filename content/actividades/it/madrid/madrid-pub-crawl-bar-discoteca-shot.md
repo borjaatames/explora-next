@@ -66,23 +66,23 @@ keywords:
 - pub crawl madrid
 - giro dei bar madrid
 - vita notturna madrid tour
-imagen: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg
-imagenAlt: Pub crawl tra bar e una discoteca nel centro di Madrid
+imagen: /images/actividades/madrid/gran-via/gran-via-callao-noche.webp
+imagenAlt: 'Plaza del Callao e la Gran Vía di notte'
 galeria:
 - src: https://imgcdn.bokun.tools/c302637a-b16c-4626-ab8c-ffe7c577f64a.jpg
-  alt: Atmosfera in uno dei bar del pub crawl di Madrid
+  alt: 'Atmosfera in uno dei bar del pub crawl di Madrid'
 - src: https://imgcdn.bokun.tools/b813d50b-e2da-4214-9573-c59e69da86d4.jpg
-  alt: Shot di benvenuto in una delle tappe del pub crawl di Madrid
+  alt: 'Shot di benvenuto in una delle tappe del pub crawl di Madrid'
 - src: https://imgcdn.bokun.tools/4c927e58-784f-470f-8a1e-e8f25ac4bb0a.jpg
-  alt: La pista da ballo della discoteca finale del pub crawl di Madrid
+  alt: 'La pista da ballo della discoteca finale del pub crawl di Madrid'
 - src: https://imgcdn.bokun.tools/6b88d5a5-f9ac-4d87-aaec-97890477aa24.jpg
-  alt: Gruppo che brinda durante il pub crawl nel centro di Madrid
+  alt: 'Gruppo che brinda durante il pub crawl nel centro di Madrid'
 - src: /images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp
-  alt: Calle de las Huertas, una via di bar nel Barrio de las Letras
+  alt: 'Calle de las Huertas, una via di bar nel Barrio de las Letras'
 - src: /images/actividades/madrid/barrio-letras/barrio-letras-huertas-versos.webp
-  alt: Versi incastonati nel selciato di Calle de las Huertas
-- src: /images/actividades/madrid/gran-via/gran-via-callao-noche.webp
-  alt: Plaza del Callao e la Gran Vía di notte
+  alt: 'Versi incastonati nel selciato di Calle de las Huertas'
+- src: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg
+  alt: 'Pub crawl tra bar e una discoteca nel centro di Madrid'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

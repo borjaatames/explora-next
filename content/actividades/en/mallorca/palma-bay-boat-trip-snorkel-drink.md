@@ -87,23 +87,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/mallorca/fma-palma/catedral-palma-desde-mar.webp
-imagenAlt: "Palma Cathedral seen from the sea"
+imagen: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
+imagenAlt: 'Anchored boat with swimmers around it'
 galeria:
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-fondeado-agua-turquesa.webp
-  alt: "Catamaran anchored in turquoise water, aerial view"
+  alt: 'Catamaran anchored in turquoise water, aerial view'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
-  alt: "Person snorkelling over a rocky seabed"
+  alt: 'Person snorkelling over a rocky seabed'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-mar-abierto.webp
-  alt: "Catamaran sailing on open water, aerial view"
-- src: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
-  alt: "Anchored boat with swimmers around it"
+  alt: 'Catamaran sailing on open water, aerial view'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
-  alt: "Palma Cathedral above the sea wall"
+  alt: 'Palma Cathedral above the sea wall'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
-  alt: "Seabed with rocks under crystal-clear water"
+  alt: 'Seabed with rocks under crystal-clear water'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-lancha-agua-verde.webp
-  alt: "Catamaran and tender on green-turquoise water"
+  alt: 'Catamaran and tender on green-turquoise water'
 avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 ---
 

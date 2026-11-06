@@ -57,9 +57,11 @@ categoria: toursGastronomicos
 keywords:
 - private tapas tour madrid
 - madrid food tour private
-imagen: https://imgcdn.bokun.tools/4a77c64a-904d-4f92-b309-68606ba94b19.jpg
-imagenAlt: 'A spread of Spanish tapas on a bar counter'
+imagen: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-03.webp
+imagenAlt: 'Group with a guide tasting tapas'
 galeria:
+- src: https://imgcdn.bokun.tools/4a77c64a-904d-4f92-b309-68606ba94b19.jpg
+  alt: 'A spread of Spanish tapas on a bar counter'
 - src: https://imgcdn.bokun.tools/6cd5cf4f-daf8-4fc2-9da2-c3a874f6907c.jpg
   alt: 'Pintxos on a bar in Madrid'
 - src: https://imgcdn.bokun.tools/614df2e7-f12f-4995-9297-242a9aa8dbe9.jpg

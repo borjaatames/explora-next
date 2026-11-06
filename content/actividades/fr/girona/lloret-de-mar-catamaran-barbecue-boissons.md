@@ -89,21 +89,21 @@ indexar: false
 destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'
-imagen: /images/actividades/girona/fgi-mar/fgi-catamaran-fondeado-aguas-claras.webp
-imagenAlt: "Un catamaran au mouillage dans une eau claire pour la baignade"
+imagen: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaran-navegando-vela.webp
+imagenAlt: 'Catamaran naviguant en Méditerranée'
 galeria:
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-costa-aerea.webp
-  alt: "Vue aérienne du littoral de Lloret de Mar avec ses criques et ses pins"
+  alt: 'Vue aérienne du littoral de Lloret de Mar avec ses criques et ses pins'
 - src: /images/actividades/girona/fgi-mar/fgi-nadador-tubo-fondo-rocoso.webp
-  alt: "Une personne nageant avec masque et tuba au-dessus de fonds rocheux"
+  alt: 'Une personne nageant avec masque et tuba au-dessus de fonds rocheux'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-rocas.webp
-  alt: "Plage de sable et rochers à Lloret de Mar"
+  alt: 'Plage de sable et rochers à Lloret de Mar'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
-  alt: "La baie de Lloret de Mar vue d'en haut"
+  alt: 'La baie de Lloret de Mar vue d''en haut'
 - src: /images/actividades/girona/fgi-mar/fgi-mar-a-ras-de-agua.webp
-  alt: "La mer au ras de l'eau près d'une côte rocheuse"
+  alt: 'La mer au ras de l''eau près d''une côte rocheuse'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
-  alt: "La plage principale de Lloret de Mar avec des rochers au premier plan"
+  alt: 'La plage principale de Lloret de Mar avec des rochers au premier plan'
 avisoReserva: "Activité saisonnière : les prochaines dates disponibles commencent en mai 2027. La fiche du prestataire n'indique pas les langues de l'équipage ; ne comptez pas sur des explications en français."
 ---
 

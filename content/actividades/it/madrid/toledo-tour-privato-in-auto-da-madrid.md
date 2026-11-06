@@ -62,9 +62,11 @@ categoria: excursionesDia
 keywords:
 - tour privato toledo da madrid
 - toledo guida in italiano
-imagen: https://imgcdn.bokun.tools/68d5daaa-472e-40ae-989d-14164f4153ad.jpg
-imagenAlt: 'Panorama di Toledo circondata dal Tago'
+imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
+imagenAlt: 'L''Alcázar di Toledo che domina la città'
 galeria:
+- src: https://imgcdn.bokun.tools/68d5daaa-472e-40ae-989d-14164f4153ad.jpg
+  alt: 'Panorama di Toledo circondata dal Tago'
 - src: https://imgcdn.bokun.tools/08f5ebbf-f003-4e08-9dfa-f5fc91c64309.jpg
   alt: 'La cattedrale di Toledo'
 - src: https://imgcdn.bokun.tools/bea82c6e-e844-414a-b4ac-3da0f24f09da.jpg

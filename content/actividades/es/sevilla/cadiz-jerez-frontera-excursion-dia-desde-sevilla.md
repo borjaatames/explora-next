@@ -108,31 +108,31 @@ keywords:
 - cadiz jerez excursion dia
 - bodega jerez vino sherry
 - show ecuestre jerez caballos andaluces
-imagen: /images/actividades/cadiz/centro/mercado-central.webp
-imagenAlt: Puestos del Mercado Central de Cádiz
+imagen: /images/actividades/cadiz/centro/catedral-fachada.webp
+imagenAlt: 'Catedral de Cádiz'
 galeria:
 - src: /images/actividades/cadiz/centro/teatro-romano.webp
-  alt: Teatro romano de Gades
+  alt: 'Teatro romano de Gades'
 - src: /images/actividades/cadiz/centro/catedral-coro.webp
-  alt: Coro de la catedral de Cádiz
+  alt: 'Coro de la catedral de Cádiz'
 - src: /images/actividades/cadiz/centro/catedral-tejados.webp
-  alt: La catedral sobre los tejados de Cádiz
-- src: /images/actividades/cadiz/centro/catedral-fachada.webp
-  alt: Catedral de Cádiz
+  alt: 'La catedral sobre los tejados de Cádiz'
+- src: /images/actividades/cadiz/centro/mercado-central.webp
+  alt: 'Puestos del Mercado Central de Cádiz'
 - src: /images/actividades/cadiz/centro/vista-torre-tavira.webp
-  alt: Cádiz desde la Torre Tavira
+  alt: 'Cádiz desde la Torre Tavira'
 - src: /images/actividades/cadiz/bodega/botas-fundador.webp
-  alt: Botas de una bodega de Jerez
+  alt: 'Botas de una bodega de Jerez'
 - src: /images/actividades/cadiz/bodega/calle-bodega.webp
-  alt: Calle entre bodegas en Jerez
+  alt: 'Calle entre bodegas en Jerez'
 - src: /images/actividades/cadiz/yeguada/jinete-cartujano.webp
-  alt: Jinete con caballo cartujano en Jerez
+  alt: 'Jinete con caballo cartujano en Jerez'
 - src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-cadiz-playa-hero.webp
-  alt: Castillo junto a la playa de La Caleta, en Cádiz
+  alt: 'Castillo junto a la playa de La Caleta, en Cádiz'
 - src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-bodeg-hero.webp
-  alt: Barriles de vino sherry alineados en bodega tradicional de Jerez con copas de cata y atmósfera vinícola artesanal
+  alt: 'Barriles de vino sherry alineados en bodega tradicional de Jerez con copas de cata y atmósfera vinícola artesanal'
 - src: /images/actividades/sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla/cadiz-jerez-frontera-excursion-dia-desde-sevilla-jerez-show--hero.webp
-  alt: Jinete en traje tradicional montando caballo andaluz en movimiento durante espectáculo ecuestre en arena de la Real
+  alt: 'Jinete en traje tradicional montando caballo andaluz en movimiento durante espectáculo ecuestre en arena de la Real'
 ratingProveedor: 4.2
 numeroOpiniones: 641
 publicada: true

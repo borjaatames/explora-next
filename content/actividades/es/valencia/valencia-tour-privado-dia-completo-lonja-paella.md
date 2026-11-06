@@ -78,37 +78,37 @@ keywords:
 - valencia en un dia
 - lonja de la seda y san nicolas
 - visita guiada valencia con comida
-imagen: /images/actividades/valencia/lonja-paella/paella-valenciana.webp
-imagenAlt: Paella valenciana con pollo, judía verde y caracoles en un restaurante de Valencia
+imagen: /images/actividades/valencia/lonja-paella/lonja-fachada.webp
+imagenAlt: 'Fachada gótica de la Lonja de la Seda de Valencia'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/valencia/centro/mercado-central-interior.webp
-  alt: Interior modernista del Mercado Central de Valencia
+  alt: 'Interior modernista del Mercado Central de Valencia'
 - src: /images/actividades/valencia/centro/lonja-fachada.webp
-  alt: Fachada de la Lonja de la Seda de Valencia, Patrimonio de la Humanidad
+  alt: 'Fachada de la Lonja de la Seda de Valencia, Patrimonio de la Humanidad'
 - src: /images/actividades/valencia/lonja-horchata/horchata-farton.webp
-  alt: Vasos de horchata con fartón en una horchatería valenciana
+  alt: 'Vasos de horchata con fartón en una horchatería valenciana'
 - src: /images/actividades/valencia/lonja-paella/paella-fuego-lena.webp
-  alt: Paella cociéndose a fuego de leña con una rama de romero
+  alt: 'Paella cociéndose a fuego de leña con una rama de romero'
 - src: /images/actividades/valencia/modernista/estacion-norte-fachada.webp
-  alt: Fachada modernista de la Estación del Norte de Valencia
-- src: /images/actividades/valencia/lonja-paella/lonja-fachada.webp
-  alt: Fachada gótica de la Lonja de la Seda de Valencia
+  alt: 'Fachada modernista de la Estación del Norte de Valencia'
+- src: /images/actividades/valencia/lonja-paella/paella-valenciana.webp
+  alt: 'Paella valenciana con pollo, judía verde y caracoles en un restaurante de Valencia'
 - src: /images/actividades/valencia/centro/torres-serranos.webp
-  alt: Torres de Serranos
+  alt: 'Torres de Serranos'
 - src: /images/actividades/valencia/lonja-paella/lonja-boveda.webp
-  alt: Bóveda de crucería de la sala de contratación de la Lonja de la Seda
+  alt: 'Bóveda de crucería de la sala de contratación de la Lonja de la Seda'
 - src: /images/actividades/valencia/centro/palacio-dos-aguas.webp
-  alt: Portada de alabastro del palacio del Marqués de Dos Aguas
+  alt: 'Portada de alabastro del palacio del Marqués de Dos Aguas'
 - src: https://imgcdn.bokun.tools/845a68a6-f85c-4758-83e8-c8a888dfcbaa.jpg
-  alt: Guía y viajeros en la sala de columnas de la Lonja de la Seda
+  alt: 'Guía y viajeros en la sala de columnas de la Lonja de la Seda'
 - src: https://imgcdn.bokun.tools/7f9e0603-c79f-474d-a8b6-82bbaff29cd0.jpg
-  alt: Interior barroco de la iglesia de San Nicolás
+  alt: 'Interior barroco de la iglesia de San Nicolás'
 - src: https://imgcdn.bokun.tools/79c75059-2ad2-4bff-9438-f5e4ef6d1060.jpg
-  alt: Grupo comiendo paella en un restaurante
+  alt: 'Grupo comiendo paella en un restaurante'
 bokunProductId: 967813
 fecha_actualizacion: '2026-10-25'
 privada: true

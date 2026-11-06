@@ -62,19 +62,21 @@ keywords:
 - velero privado ibiza medio dia
 - alquiler velero con patron ibiza
 - calas ibiza barco privado
-imagen: https://imgcdn.bokun.tools/4d1ad9cd-03bc-4407-90b5-2da17770e259.jpg
-imagenAlt: "Pareja con equipo de esnórquel en el barco en una cala"
+imagen: /images/actividades/ibiza/fotos-biblioteca/unsplash-j-x7lediab8.webp
+imagenAlt: 'Velero fondeado en una cala de Ibiza'
 galeria:
+- src: https://imgcdn.bokun.tools/4d1ad9cd-03bc-4407-90b5-2da17770e259.jpg
+  alt: 'Pareja con equipo de esnórquel en el barco en una cala'
 - src: https://imgcdn.bokun.tools/074f5fa2-1148-4062-a0b9-97fa76a976c0.jpg
-  alt: "Pareja sonriente a bordo de un velero en Ibiza"
+  alt: 'Pareja sonriente a bordo de un velero en Ibiza'
 - src: https://imgcdn.bokun.tools/82132269-71b3-45bb-a69a-15824f70cad2.jpg
-  alt: "Velero al atardecer junto a Es Vedrà"
+  alt: 'Velero al atardecer junto a Es Vedrà'
 - src: https://imgcdn.bokun.tools/d1d302a6-b78a-4755-a83c-b6ce78b9570b.jpg
-  alt: "Velero fondeado en una cala de Ibiza"
+  alt: 'Velero fondeado en una cala de Ibiza'
 - src: https://imgcdn.bokun.tools/f06e337d-d704-429a-80dd-159f216c34b1.jpg
-  alt: "Pareja sentada en la cubierta del velero"
+  alt: 'Pareja sentada en la cubierta del velero'
 - src: https://imgcdn.bokun.tools/6a7c6910-76ad-4585-bead-710819b28eea.jpg
-  alt: "Pareja caminando por las rocas de una cala de Ibiza"
+  alt: 'Pareja caminando por las rocas de una cala de Ibiza'
 publicada: true
 indexar: false
 destacada: false

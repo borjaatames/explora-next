@@ -58,19 +58,21 @@ keywords:
 - private old town tour barcelona
 - gothic quarter private tour barcelona
 - barcelona hidden gems tour
-imagen: https://imgcdn.bokun.tools/f608dada-5256-40ee-9ca8-faeef006797c.jpg
-imagenAlt: "Façade of Santa Maria del Mar"
+imagen: /images/actividades/barcelona/barrio-gotico-barcelona/pixabay-4298066-hero.webp
+imagenAlt: 'Façade of Barcelona Cathedral'
 galeria:
+- src: https://imgcdn.bokun.tools/f608dada-5256-40ee-9ca8-faeef006797c.jpg
+  alt: 'Façade of Santa Maria del Mar'
 - src: https://imgcdn.bokun.tools/e2924684-dcf0-47b6-9161-e2dbf8ebe53c.jpg
-  alt: "Gothic vaults of a Barcelona church"
+  alt: 'Gothic vaults of a Barcelona church'
 - src: https://imgcdn.bokun.tools/a82db924-389f-457e-a147-1a587337725c.jpg
-  alt: "Façade of Barcelona Cathedral"
+  alt: 'Façade of Barcelona Cathedral'
 - src: https://imgcdn.bokun.tools/55b82bf7-bf79-49ec-a793-a21808dc5ada.jpg
-  alt: "Wavy roof of the Santa Caterina market"
+  alt: 'Wavy roof of the Santa Caterina market'
 - src: https://imgcdn.bokun.tools/e98b62e2-31d9-4d84-b8b8-8af1f3367991.jpg
-  alt: "Inside La Boqueria market"
+  alt: 'Inside La Boqueria market'
 - src: https://imgcdn.bokun.tools/1d4fb340-6354-4666-9929-89dc363c7831.jpg
-  alt: "Plaça de Catalunya seen from above"
+  alt: 'Plaça de Catalunya seen from above'
 publicada: true
 indexar: false
 destacada: false

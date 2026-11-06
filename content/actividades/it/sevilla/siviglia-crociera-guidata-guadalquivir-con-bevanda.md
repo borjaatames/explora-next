@@ -113,23 +113,21 @@ keywords:
 - river boat tour siviglia
 - crociera guadalquivir bevanda inclusa
 - barca siviglia torre del oro
-imagen: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-imagenAlt: Il Puente de Triana sul Guadalquivir al tramonto
+imagen: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp
+imagenAlt: 'Barche turistiche sul Guadalquivir al tramonto'
 galeria:
 - src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
-  alt: La Torre del Oro accanto al Guadalquivir
+  alt: 'La Torre del Oro accanto al Guadalquivir'
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
-  alt: L'arena della Real Maestranza di Siviglia
-- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp
-  alt: Barche turistiche sul Guadalquivir al tramonto
+  alt: 'L''arena della Real Maestranza di Siviglia'
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
-  alt: La Torre del Oro e le barche sul Guadalquivir
+  alt: 'La Torre del Oro e le barche sul Guadalquivir'
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-02.webp
-  alt: Battelli ormeggiati sul Guadalquivir
+  alt: 'Battelli ormeggiati sul Guadalquivir'
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
-  alt: Riva del Guadalquivir con la Torre del Oro sullo sfondo
+  alt: 'Riva del Guadalquivir con la Torre del Oro sullo sfondo'
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
-  alt: Vista aerea dell'arena della Maestranza
+  alt: 'Vista aerea dell''arena della Maestranza'
 ratingProveedor: 4.7
 numeroOpiniones: 1746
 publicada: true

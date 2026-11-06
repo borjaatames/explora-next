@@ -86,23 +86,23 @@ keywords:
 - excursion bateau puerto colon
 - croisiere ecologique tenerife
 - observation baleines tenerife avec dejeuner
-imagen: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-imagenAlt: Les falaises de Los Gigantes au-dessus de la mer
+imagen: /images/actividades/tenerife/cetaceos/calderon-cria.webp
+imagenAlt: 'Globicéphales nageant ensemble'
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Globicéphales en surface au large de Tenerife
+  alt: 'Globicéphales en surface au large de Tenerife'
 - src: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
-  alt: Voilier avec des passagers à côté de globicéphales au large de la côte sud de Tenerife
+  alt: 'Voilier avec des passagers à côté de globicéphales au large de la côte sud de Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: Globicéphale tropical de près
+  alt: 'Globicéphale tropical de près'
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
-  alt: Voilier au mouillage dans la baie de Masca, au pied des falaises
+  alt: 'Voilier au mouillage dans la baie de Masca, au pied des falaises'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Dauphin tacheté de l'Atlantique
+  alt: 'Dauphin tacheté de l''Atlantique'
 - src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-  alt: Les parois rocheuses des falaises de Los Gigantes
-- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
-  alt: Globicéphales nageant ensemble
+  alt: 'Les parois rocheuses des falaises de Los Gigantes'
+- src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
+  alt: 'Les falaises de Los Gigantes au-dessus de la mer'
 ratingProveedor: 4.6
 numeroOpiniones: 5872
 atraccionesRelacionadas:

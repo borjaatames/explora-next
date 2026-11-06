@@ -84,23 +84,23 @@ keywords:
 - catamaran fond de verre tenerife
 - dauphins sud de tenerife
 - excursion en bateau los cristianos
-imagen: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
-imagenAlt: Bateaux amarrés dans le port de Los Cristianos
+imagen: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+imagenAlt: 'Globicéphale tropical respirant à la surface'
 galeria:
 - src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
-  alt: Bateau d'observation avec des passagers à côté d'un groupe de globicéphales à Tenerife
+  alt: 'Bateau d''observation avec des passagers à côté d''un groupe de globicéphales à Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Globicéphales à la surface au large de la côte de Tenerife
-- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
-  alt: Globicéphale tropical respirant à la surface
+  alt: 'Globicéphales à la surface au large de la côte de Tenerife'
+- src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
+  alt: 'Bateaux amarrés dans le port de Los Cristianos'
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
-  alt: La baie de Los Cristianos vue depuis le rivage
+  alt: 'La baie de Los Cristianos vue depuis le rivage'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Dauphin tacheté de l'Atlantique dans les eaux des Canaries
+  alt: 'Dauphin tacheté de l''Atlantique dans les eaux des Canaries'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: La Montaña de Guaza à côté de Los Cristianos
+  alt: 'La Montaña de Guaza à côté de Los Cristianos'
 - src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Globicéphale soufflant dans les eaux du sud de Tenerife
+  alt: 'Globicéphale soufflant dans les eaux du sud de Tenerife'
 ratingProveedor: 4.6
 numeroOpiniones: 15598
 atraccionesRelacionadas:

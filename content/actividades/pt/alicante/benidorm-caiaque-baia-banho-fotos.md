@@ -90,23 +90,23 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/fal-kayak/fal-benidorm-cala-sierra-helada.webp
-imagenAlt: "Edifícios de Benidorm junto a uma enseada e à serra"
+imagen: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
+imagenAlt: 'Grupo de caiaques a remar junto a umas rochas'
 galeria:
 - src: /images/actividades/alicante/fal-kayak/fal-kayak-mar-calma.webp
-  alt: "Caiaque de mar a remar em águas calmas"
+  alt: 'Caiaque de mar a remar em águas calmas'
 - src: /images/actividades/alicante/fal-kayak/fal-benidorm-bahia-rascacielos.webp
-  alt: "Baía de Benidorm com os seus arranha-céus e a praia"
-- src: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
-  alt: "Grupo de caiaques a remar junto a umas rochas"
+  alt: 'Baía de Benidorm com os seus arranha-céus e a praia'
+- src: /images/actividades/alicante/fal-kayak/fal-benidorm-cala-sierra-helada.webp
+  alt: 'Edifícios de Benidorm junto a uma enseada e à serra'
 - src: /images/actividades/alicante/granadella/esnorquel-costa-rocosa.webp
-  alt: "Pessoa a fazer snorkel junto a uma costa rochosa"
+  alt: 'Pessoa a fazer snorkel junto a uma costa rochosa'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
-  alt: "Dois caiaques de mar sobre água transparente"
+  alt: 'Dois caiaques de mar sobre água transparente'
 - src: /images/actividades/alicante/fal-kayak/fal-benidorm-skyline-mar.webp
-  alt: "Skyline de Benidorm visto do mar"
+  alt: 'Skyline de Benidorm visto do mar'
 - src: /images/actividades/alicante/fal-kayak/fal-gaviota-puerto-benidorm.webp
-  alt: "Gaivota com o skyline de Benidorm ao fundo"
+  alt: 'Gaivota com o skyline de Benidorm ao fundo'
 avisoReserva: "A tripulação ou o guia fala inglês e espanhol: não há explicações em português."
 ---
 

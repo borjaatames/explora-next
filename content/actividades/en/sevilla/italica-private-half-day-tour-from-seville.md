@@ -65,15 +65,17 @@ keywords:
 - italica from seville
 - private italica tour hotel pickup
 - italica roman ruins private tour
-imagen: https://imgcdn.bokun.tools/64bf5f6a-b698-4381-ba5d-ee18adad938f.jpg
-imagenAlt: The Roman amphitheatre of Itálica
+imagen: /images/actividades/sevilla/fotos-biblioteca/01.webp
+imagenAlt: 'Roman amphitheatre of Itálica'
 galeria:
+- src: https://imgcdn.bokun.tools/64bf5f6a-b698-4381-ba5d-ee18adad938f.jpg
+  alt: 'The Roman amphitheatre of Itálica'
 - src: https://imgcdn.bokun.tools/471a2546-b12d-483d-9c3c-1628d6f5d62d.jpg
-  alt: Amphitheatre stands at Itálica
+  alt: 'Amphitheatre stands at Itálica'
 - src: https://imgcdn.bokun.tools/018f070a-bf60-4476-ab71-da5e2232c0e0.jpg
-  alt: Ruins of the Roman city of Itálica
+  alt: 'Ruins of the Roman city of Itálica'
 - src: https://imgcdn.bokun.tools/c5bbf131-350e-4527-ad51-a593753d5a00.jpg
-  alt: Private transfer vehicle
+  alt: 'Private transfer vehicle'
 publicada: true
 indexar: false
 destacada: false

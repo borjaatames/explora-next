@@ -73,32 +73,30 @@ keywords:
 - visite privée raval sant antoni
 - barcelone comme un local
 - street art raval barcelone
-imagen: /images/actividades/barcelona/raval/gato-botero-rambla-raval.webp
-imagenAlt: Le chat de Botero sur la Rambla del Raval
+imagen: /images/actividades/barcelona/raval/mercat-sant-antoni-fachada.webp
+imagenAlt: 'Façade en fer du Mercat de Sant Antoni'
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/raval/palau-guell-fachada.webp
-  alt: Façade du Palau Güell de Gaudí, carrer Nou de la Rambla, à El Raval
+  alt: 'Façade du Palau Güell de Gaudí, carrer Nou de la Rambla, à El Raval'
 - src: /images/actividades/barcelona/raval/macba-placa-angels.webp
-  alt: Le bâtiment blanc du MACBA sur la Plaça dels Àngels
+  alt: 'Le bâtiment blanc du MACBA sur la Plaça dels Àngels'
 - src: /images/actividades/barcelona/raval/antic-hospital-santa-creu-jardin.webp
-  alt: Jardin de l'ancien hôpital de la Santa Creu, à El Raval, vu à travers une arche
+  alt: 'Jardin de l''ancien hôpital de la Santa Creu, à El Raval, vu à travers une arche'
 - src: /images/actividades/barcelona/raval/rambla-del-raval.webp
-  alt: La Rambla del Raval et ses palmiers vue depuis le Carrer de l'Hospital
+  alt: 'La Rambla del Raval et ses palmiers vue depuis le Carrer de l''Hospital'
 - src: /images/actividades/barcelona/tapas/pintxo-gilda-anchoas.webp
-  alt: Pintxos d'olives, de piments et d'anchois sur un plateau
-- src: /images/actividades/barcelona/raval/mercat-sant-antoni-fachada.webp
-  alt: Façade en fer du Mercat de Sant Antoni
+  alt: 'Pintxos d''olives, de piments et d''anchois sur un plateau'
 - src: /images/actividades/barcelona/raval/mercat-sant-antoni-puestos.webp
-  alt: Étals à l'intérieur du Mercat de Sant Antoni rénové
+  alt: 'Étals à l''intérieur du Mercat de Sant Antoni rénové'
 - src: https://imgcdn.bokun.tools/6aceab87-6fb3-426b-a9e9-be16c85e2a03.jpg
-  alt: Fresque de street art avec des vélos garés devant, à Barcelone
+  alt: 'Fresque de street art avec des vélos garés devant, à Barcelone'
 - src: https://imgcdn.bokun.tools/2ac27aca-12f3-406a-baf1-2448826f2fdc.jpg
-  alt: Ruelle étroite de la vieille ville avec un cycliste
+  alt: 'Ruelle étroite de la vieille ville avec un cycliste'
 - src: https://imgcdn.bokun.tools/3992067b-a428-48fb-ad6a-027050c6bbc5.jpg
-  alt: Voyageuse avec sa guide devant un marché en brique rouge
+  alt: 'Voyageuse avec sa guide devant un marché en brique rouge'
 bokunProductId: 217568
 fecha_actualizacion: '2026-10-25'
 privada: true

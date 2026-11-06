@@ -63,19 +63,21 @@ keywords:
 - paseo coche de caballos sevilla
 - carruaje sevilla precio
 - coche de caballos sevilla reserva
-imagen: https://imgcdn.bokun.tools/201abe95-d9c6-49fc-932c-333b92c0d64f.jpeg
-imagenAlt: Coche de caballos frente a la Plaza de España
+imagen: /images/actividades/sevilla/coche-caballos/coche-caballos-plaza-espana.webp
+imagenAlt: 'Coche de caballos en la Plaza de España de Sevilla'
 galeria:
+- src: https://imgcdn.bokun.tools/201abe95-d9c6-49fc-932c-333b92c0d64f.jpeg
+  alt: 'Coche de caballos frente a la Plaza de España'
 - src: https://imgcdn.bokun.tools/4d245e1a-ca21-4589-9dff-233d876bccca.jpeg
-  alt: La Giralda desde la calle
+  alt: 'La Giralda desde la calle'
 - src: https://imgcdn.bokun.tools/0bc3f3b7-03e8-4f41-9dcc-4a906a06c440.jpeg
-  alt: Coche de caballos por Sevilla
+  alt: 'Coche de caballos por Sevilla'
 - src: https://imgcdn.bokun.tools/efcc5284-eaf3-4d7f-90c3-309aa198b7b4.jpeg
-  alt: Paseo en carruaje por el centro
+  alt: 'Paseo en carruaje por el centro'
 - src: https://imgcdn.bokun.tools/209c75b0-f247-4787-9447-f62e59e0d28f.jpeg
-  alt: Parque de María Luisa desde el carruaje
+  alt: 'Parque de María Luisa desde el carruaje'
 - src: https://imgcdn.bokun.tools/362f34fa-d8d4-4827-b736-ca46648a0f62.jpeg
-  alt: Paseo en coche de caballos (foto del proveedor)
+  alt: 'Paseo en coche de caballos (foto del proveedor)'
 publicada: true
 indexar: false
 destacada: false

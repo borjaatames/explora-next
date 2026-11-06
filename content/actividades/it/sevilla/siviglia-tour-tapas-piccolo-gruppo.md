@@ -65,17 +65,19 @@ keywords:
 - tour tapas siviglia
 - tour gastronomico siviglia italiano
 - tapas siviglia piccolo gruppo
-imagen: https://imgcdn.bokun.tools/cc6015f2-1cb5-487c-a6ab-886028f2f7aa.jpeg
-imagenAlt: Tapa di patate in una taverna di Siviglia
+imagen: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-cena-tapas-bu-hero.webp
+imagenAlt: 'Tapas assortite in tegamini di terracotta'
 galeria:
+- src: https://imgcdn.bokun.tools/cc6015f2-1cb5-487c-a6ab-886028f2f7aa.jpeg
+  alt: 'Tapa di patate in una taverna di Siviglia'
 - src: https://imgcdn.bokun.tools/014d6a54-deda-4b0a-8637-848720ea3525.jpeg
-  alt: Uova fritte con prosciutto
+  alt: 'Uova fritte con prosciutto'
 - src: https://imgcdn.bokun.tools/a2d13bfc-54a0-483f-a2f3-49bf5d8f7279.jpeg
-  alt: Gruppo durante il tour di tapas
+  alt: 'Gruppo durante il tour di tapas'
 - src: https://imgcdn.bokun.tools/bba384dc-7423-48db-96bd-131968bfb5bc.png
-  alt: Interno di una taverna tradizionale
+  alt: 'Interno di una taverna tradizionale'
 - src: https://imgcdn.bokun.tools/3b62909a-782a-4c4b-af51-7a2e84f0e33f.png
-  alt: Bancone di un bar di tapas a Siviglia
+  alt: 'Bancone di un bar di tapas a Siviglia'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

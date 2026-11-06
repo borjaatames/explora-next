@@ -58,19 +58,21 @@ categoria: visitasGuiadas
 keywords:
 - gaudi sagrada familia grupo reducido
 - tour gaudi barcelona entradas sagrada familia
-imagen: https://imgcdn.bokun.tools/fa16b9ff-bcfc-467d-aa1d-3064c85bdbba.jpg
-imagenAlt: "Grupo ante la fachada del Nacimiento de la Sagrada Família"
+imagen: /images/actividades/barcelona/proveedor-ble/sagrada-familia/ble-sagrada-familia-03.webp
+imagenAlt: 'Fachada de la Sagrada Familia'
 galeria:
+- src: https://imgcdn.bokun.tools/fa16b9ff-bcfc-467d-aa1d-3064c85bdbba.jpg
+  alt: 'Grupo ante la fachada del Nacimiento de la Sagrada Família'
 - src: https://imgcdn.bokun.tools/6f5f3b0b-b2f8-47a5-80ed-73a1bc1700d5.jpg
-  alt: "Visitantes haciéndose un selfi cerca de la Sagrada Família"
+  alt: 'Visitantes haciéndose un selfi cerca de la Sagrada Família'
 - src: https://imgcdn.bokun.tools/7ab2e9f9-ee80-460c-abf6-db3c9d398fd1.jpg
-  alt: "Visitante fotografiando las vidrieras de la Sagrada Família"
+  alt: 'Visitante fotografiando las vidrieras de la Sagrada Família'
 - src: https://imgcdn.bokun.tools/7f51e259-201b-4798-89ec-227e60bf4b74.jpg
-  alt: "Selfi de un grupo ante la Sagrada Família"
+  alt: 'Selfi de un grupo ante la Sagrada Família'
 - src: https://imgcdn.bokun.tools/3fd5fb45-380b-47ad-9429-1de26e35174d.jpg
-  alt: "Visitantes haciendo fotos ante la Sagrada Família"
+  alt: 'Visitantes haciendo fotos ante la Sagrada Família'
 - src: https://imgcdn.bokun.tools/a6463a5a-0d50-489b-8af3-d6120faf7cf3.jpg
-  alt: "Visitante fotografiando la fachada de la Casa Batlló"
+  alt: 'Visitante fotografiando la fachada de la Casa Batlló'
 publicada: true
 indexar: false
 destacada: false

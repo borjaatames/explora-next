@@ -77,25 +77,25 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/ibiza/formentera/bici-illetes.webp
-imagenAlt: "Bicycle parked by Ses Illetes beach, Formentera"
+imagen: /images/actividades/ibiza/formentera/estacion-maritima.webp
+imagenAlt: 'Formentera ferry terminal in Ibiza harbour'
 galeria:
-- src: /images/actividades/ibiza/formentera/estacion-maritima.webp
-  alt: "Formentera ferry terminal in Ibiza harbour"
+- src: /images/actividades/ibiza/formentera/bici-illetes.webp
+  alt: 'Bicycle parked by Ses Illetes beach, Formentera'
 - src: /images/actividades/ibiza/formentera/ferry-rapido-llegando-ibiza.webp
-  alt: "Formentera Lines fast ferry arriving at Ibiza harbour"
+  alt: 'Formentera Lines fast ferry arriving at Ibiza harbour'
 - src: /images/actividades/ibiza/formentera/la-savina.webp
-  alt: "Fishing boat in La Savina harbour, Formentera"
+  alt: 'Fishing boat in La Savina harbour, Formentera'
 - src: /images/actividades/ibiza/formentera/fi1-ciclistas-camino-dunas.webp
-  alt: "Cyclists on a path between dunes and coastal scrub"
+  alt: 'Cyclists on a path between dunes and coastal scrub'
 - src: /images/actividades/ibiza/formentera/ses-illetes-lengua.webp
-  alt: "White sand at Ses Illetes, Formentera"
+  alt: 'White sand at Ses Illetes, Formentera'
 - src: /images/actividades/ibiza/formentera/fi1-lagartija-pitiusa.webp
-  alt: "Ibiza wall lizard, endemic to Ibiza and Formentera"
+  alt: 'Ibiza wall lizard, endemic to Ibiza and Formentera'
 - src: /images/actividades/ibiza/formentera/migjorn.webp
-  alt: "Migjorn beach, Formentera"
+  alt: 'Migjorn beach, Formentera'
 - src: /images/actividades/ibiza/formentera/fi1-bicis-junto-dunas.webp
-  alt: "Bicycles parked next to a dune"
+  alt: 'Bicycles parked next to a dune'
 ---
 
 ## What you will see

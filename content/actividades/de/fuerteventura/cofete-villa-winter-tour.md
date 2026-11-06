@@ -78,21 +78,21 @@ keywords:
 - villa winter fuerteventura
 - cofete strand ausflug
 - jandia ausflug cofete
-imagen: /images/actividades/fuerteventura/cofete.webp
-imagenAlt: Strand von Cofete unterhalb des Jandía-Massivs
+imagen: /images/actividades/fuerteventura/zonas/villa-winter.webp
+imagenAlt: 'Villa Winter am Fuß der Jandía-Berge'
 galeria:
-- src: /images/actividades/fuerteventura/zonas/villa-winter.webp
-  alt: Villa Winter am Fuß der Jandía-Berge
+- src: /images/actividades/fuerteventura/cofete.webp
+  alt: 'Strand von Cofete unterhalb des Jandía-Massivs'
 - src: /images/actividades/fuerteventura/zonas/villa-winter-fachada.webp
-  alt: Fassade und Turm der Villa Winter in Cofete
+  alt: 'Fassade und Turm der Villa Winter in Cofete'
 - src: /images/actividades/fuerteventura/zonas/villa-winter-ladera.webp
-  alt: Villa Winter am Hang über Cofete
+  alt: 'Villa Winter am Hang über Cofete'
 - src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
-  alt: Strand von Cofete vom Aussichtspunkt an der Piste
+  alt: 'Strand von Cofete vom Aussichtspunkt an der Piste'
 - src: /images/actividades/fuerteventura/zonas/cofete-cresta.webp
-  alt: Bergkamm von Jandía über dem Strand von Cofete
+  alt: 'Bergkamm von Jandía über dem Strand von Cofete'
 - src: /images/actividades/fuerteventura/zonas/cofete-pico.webp
-  alt: Strand von Cofete und der Gipfel El Islote
+  alt: 'Strand von Cofete und der Gipfel El Islote'
 ratingProveedor: 4.8
 numeroOpiniones: 1952
 atraccionesRelacionadas:

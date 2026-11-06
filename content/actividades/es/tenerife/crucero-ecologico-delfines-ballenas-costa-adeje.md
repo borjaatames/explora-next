@@ -85,23 +85,23 @@ keywords:
 - excursion barco puerto colon
 - crucero ecologico tenerife
 - ballenas tenerife con comida
-imagen: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-imagenAlt: Acantilados de Los Gigantes sobre el mar
+imagen: /images/actividades/tenerife/cetaceos/calderon-cria.webp
+imagenAlt: 'Calderones nadando juntos'
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Calderones nadando en superficie frente a Tenerife
+  alt: 'Calderones nadando en superficie frente a Tenerife'
 - src: /images/actividades/tenerife/cetaceos/catamaran-costa.webp
-  alt: Velero con pasajeros junto a calderones frente a la costa sur de Tenerife
+  alt: 'Velero con pasajeros junto a calderones frente a la costa sur de Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: Calderón tropical de cerca
+  alt: 'Calderón tropical de cerca'
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
-  alt: Velero fondeado en la bahía de Masca bajo los acantilados
+  alt: 'Velero fondeado en la bahía de Masca bajo los acantilados'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Delfín moteado del Atlántico
+  alt: 'Delfín moteado del Atlántico'
 - src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-  alt: Paredes de los Acantilados de Los Gigantes
-- src: /images/actividades/tenerife/cetaceos/calderon-cria.webp
-  alt: Calderones nadando juntos
+  alt: 'Paredes de los Acantilados de Los Gigantes'
+- src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
+  alt: 'Acantilados de Los Gigantes sobre el mar'
 ratingProveedor: 4.6
 numeroOpiniones: 5872
 atraccionesRelacionadas:

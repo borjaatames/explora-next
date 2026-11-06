@@ -64,17 +64,19 @@ keywords:
 - seville holy week private tour
 - semana santa seville guide
 - seville brotherhood visit
-imagen: https://imgcdn.bokun.tools/1337d0e7-848d-4a9f-9c67-f07f87a23240.jpg
-imagenAlt: Holy Week float (paso) in Seville
+imagen: /images/actividades/sevilla/fotos-biblioteca/wikimedia-08.webp
+imagenAlt: 'Holy Week procession float in Seville'
 galeria:
+- src: https://imgcdn.bokun.tools/1337d0e7-848d-4a9f-9c67-f07f87a23240.jpg
+  alt: 'Holy Week float (paso) in Seville'
 - src: https://imgcdn.bokun.tools/f0a80ac0-e161-431d-b8c2-100b724141eb.jpg
-  alt: Nazarenos in a Seville procession
+  alt: 'Nazarenos in a Seville procession'
 - src: https://imgcdn.bokun.tools/e33c3819-5283-4f89-915c-13b9822f6769.jpg
-  alt: Procession through the streets of Seville
+  alt: 'Procession through the streets of Seville'
 - src: https://imgcdn.bokun.tools/59165ee9-93e0-4ee5-9a9a-0104f32e6712.jpg
-  alt: Inside a brotherhood church
+  alt: 'Inside a brotherhood church'
 - src: https://imgcdn.bokun.tools/72464782-51ac-48f6-9914-dd99b0d7aea9.jpg
-  alt: Street in central Seville during Holy Week
+  alt: 'Street in central Seville during Holy Week'
 publicada: true
 indexar: false
 destacada: false

@@ -78,27 +78,27 @@ keywords:
 - valencia e-bike tour
 - turia park fahrradtour
 - valencia mit dem fahrrad
-imagen: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp
-imagenAlt: Die Stadt der Künste und Wissenschaften in Valencia spiegelt sich im Wasser
+imagen: /images/actividades/valencia/turia-bici/bici-palmera.webp
+imagenAlt: 'Fahrrad neben einer Palme in einem Park in Valencia'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/valencia/turia-bici/jardin-turia-aereo.webp
-  alt: Die Turia-Gärten von oben, gesehen von den Torres de Serranos
+  alt: 'Die Turia-Gärten von oben, gesehen von den Torres de Serranos'
 - src: /images/actividades/valencia/turia-bici/jardin-turia-estanque.webp
-  alt: Teich und baumgesäumter Weg in den Turia-Gärten
-- src: /images/actividades/valencia/turia-bici/bici-palmera.webp
-  alt: Fahrrad neben einer Palme in einem Park in Valencia
+  alt: 'Teich und baumgesäumter Weg in den Turia-Gärten'
+- src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp
+  alt: 'Die Stadt der Künste und Wissenschaften in Valencia spiegelt sich im Wasser'
 - src: /images/actividades/valencia/turia-bici/bici-roja.webp
-  alt: Rotes Fahrrad an einem Geländer neben einer Bank in Valencia
+  alt: 'Rotes Fahrrad an einem Geländer neben einer Bank in Valencia'
 - src: https://imgcdn.bokun.tools/fabf7ddf-5eb3-411d-8587-a43958a0dc1e.jpg
-  alt: Radfahrer in den Turia-Gärten mit der Stadt der Künste und Wissenschaften im Hintergrund
+  alt: 'Radfahrer in den Turia-Gärten mit der Stadt der Künste und Wissenschaften im Hintergrund'
 - src: https://imgcdn.bokun.tools/aa28723e-be30-4e5e-b396-9f7d8aa42d18.jpg
-  alt: Radfahrer am Wasserbecken der Stadt der Künste und Wissenschaften
+  alt: 'Radfahrer am Wasserbecken der Stadt der Künste und Wissenschaften'
 - src: https://imgcdn.bokun.tools/f5721c26-abc0-46d7-98c7-89831eb51a77.jpg
-  alt: Radfahrer vor den Torres de Serranos
+  alt: 'Radfahrer vor den Torres de Serranos'
 bokunProductId: 910128
 fecha_actualizacion: '2026-10-24'
 privada: true

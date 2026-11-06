@@ -81,27 +81,29 @@ keywords:
 - buggy maspalomas
 - offroad gran canaria
 - fataga schlucht
-imagen: /images/actividades/lanzarote/buggy-volcanes.webp
-imagenAlt: Buggy auf einer Schotterpiste zwischen Vulkanbergen
+imagen: /images/actividades/gran-canaria/fotos-biblioteca/wikimedia-03.webp
+imagenAlt: 'Buggy auf einem Feldweg'
 galeria:
+- src: /images/actividades/lanzarote/buggy-volcanes.webp
+  alt: 'Buggy auf einer Schotterpiste zwischen Vulkanbergen'
 - src: /images/actividades/fuerteventura/buggy-corralejo.webp
-  alt: Buggy auf einer Schotterpiste in einer kargen Landschaft
+  alt: 'Buggy auf einer Schotterpiste in einer kargen Landschaft'
 - src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-  alt: Die Schlucht von Fataga im Süden von Gran Canaria
+  alt: 'Die Schlucht von Fataga im Süden von Gran Canaria'
 - src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
-  alt: Kurvenreiche Straße durch eine Schlucht im Süden von Gran Canaria
+  alt: 'Kurvenreiche Straße durch eine Schlucht im Süden von Gran Canaria'
 - src: /images/actividades/gran-canaria/buggy/valle-ayagaures.webp
-  alt: Das Tal von Ayagaures
+  alt: 'Das Tal von Ayagaures'
 - src: /images/actividades/gran-canaria/buggy/presa-ayagaures.webp
-  alt: Der Stausee von Ayagaures
+  alt: 'Der Stausee von Ayagaures'
 - src: /images/actividades/gran-canaria/buggy/fataga-pistas.webp
-  alt: Pisten und Hänge der Schlucht von Fataga
+  alt: 'Pisten und Hänge der Schlucht von Fataga'
 - src: /images/actividades/gran-canaria/buggy/pueblo-fataga.webp
-  alt: Das Dorf Fataga
+  alt: 'Das Dorf Fataga'
 - src: /images/actividades/gran-canaria/buggy/fataga-canon.webp
-  alt: Die Felswände der Schlucht von Fataga
+  alt: 'Die Felswände der Schlucht von Fataga'
 - src: /images/actividades/gran-canaria/buggy/fataga-montanas.webp
-  alt: Berge der Schlucht von Fataga
+  alt: 'Berge der Schlucht von Fataga'
 ratingProveedor: 4.8
 numeroOpiniones: 3728
 atraccionesRelacionadas:

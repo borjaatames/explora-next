@@ -80,27 +80,27 @@ keywords:
 - visite cathédrale et lonja valence
 - visite guidée bourse de la soie valence
 - san nicolás valence
-imagen: /images/actividades/valencia/centro/lonja-fachada.webp
-imagenAlt: Façade gothique de la Bourse de la soie
+imagen: /images/actividades/valencia/centro/catedral-puerta.webp
+imagenAlt: 'Portail de la cathédrale de Valence sur la Plaza de la Virgen'
 galeria:
 - src: /images/actividades/valencia/centro/san-nicolas-altar-frescos.webp
-  alt: Maître-autel et voûtes peintes de l'église San Nicolás, à Valence
+  alt: 'Maître-autel et voûtes peintes de l''église San Nicolás, à Valence'
 - src: /images/actividades/valencia/centro/torres-serranos.webp
-  alt: Les tours de Serranos, ancienne porte des remparts de Valence
+  alt: 'Les tours de Serranos, ancienne porte des remparts de Valence'
 - src: /images/actividades/valencia/centro/san-nicolas-boveda.webp
-  alt: Voûte baroque ornée de fresques de l'église San Nicolás
+  alt: 'Voûte baroque ornée de fresques de l''église San Nicolás'
 - src: /images/actividades/valencia/centro/lonja-naranjos.webp
-  alt: La cour des orangers de la Bourse de la soie
+  alt: 'La cour des orangers de la Bourse de la soie'
 - src: /images/actividades/valencia/centro/catedral-nave-central.webp
-  alt: Nef centrale de la cathédrale de Valence
+  alt: 'Nef centrale de la cathédrale de Valence'
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
-  alt: La Plaza de la Virgen avec la basilique et la cathédrale
+  alt: 'La Plaza de la Virgen avec la basilique et la cathédrale'
 - src: /images/actividades/valencia/centro/plaza-reina-micalet.webp
-  alt: La Plaza de la Reina avec le Micalet et la cathédrale de Valence
-- src: /images/actividades/valencia/centro/catedral-puerta.webp
-  alt: Portail de la cathédrale de Valence sur la Plaza de la Virgen
+  alt: 'La Plaza de la Reina avec le Micalet et la cathédrale de Valence'
+- src: /images/actividades/valencia/centro/lonja-fachada.webp
+  alt: 'Façade gothique de la Bourse de la soie'
 - src: /images/actividades/valencia/centro/micalet-naranjos.webp
-  alt: Le clocher du Micalet parmi les orangers
+  alt: 'Le clocher du Micalet parmi les orangers'
 ratingProveedor: 4.8
 numeroOpiniones: 1243
 atraccionesRelacionadas:

@@ -62,25 +62,27 @@ keywords:
 - cordoba desde marbella
 - excursion privada cordoba desde marbella
 - mezquita cordoba desde marbella
-imagen: https://imgcdn.bokun.tools/1b7e1a3d-6b77-4486-817d-67d7fc0e00b1.jpg
-imagenAlt: Visitantes en el bosque de arcos de la Mezquita-Catedral
+imagen: /images/actividades/cordoba/alcazar-reyes-cristianos/alcazar-reyes-cristianos-04.webp
+imagenAlt: 'Panorámica de Córdoba con la Mezquita-Catedral'
 galeria:
+- src: https://imgcdn.bokun.tools/1b7e1a3d-6b77-4486-817d-67d7fc0e00b1.jpg
+  alt: 'Visitantes en el bosque de arcos de la Mezquita-Catedral'
 - src: https://imgcdn.bokun.tools/2a5c4eac-7170-488d-a83b-8cc9e254bf81.jpg
-  alt: Arcos de la Mezquita de Córdoba
+  alt: 'Arcos de la Mezquita de Córdoba'
 - src: https://imgcdn.bokun.tools/8cc75d9b-84c5-4a75-a095-758ea4379728.jpg
-  alt: Calleja encalada con la torre de la Mezquita al fondo
+  alt: 'Calleja encalada con la torre de la Mezquita al fondo'
 - src: https://imgcdn.bokun.tools/3b3e547f-f6ca-4e33-8a4b-06c8a6e75998.jpg
-  alt: Vista de Córdoba con el Puente Romano
+  alt: 'Vista de Córdoba con el Puente Romano'
 - src: https://imgcdn.bokun.tools/71c1c3b2-41c5-45b4-a103-086ceb62fcf5.jpg
-  alt: Patio cordobés con macetas
+  alt: 'Patio cordobés con macetas'
 - src: https://imgcdn.bokun.tools/2aeb331a-ee07-42b7-89ed-6c1c00986e09.jpg
-  alt: Interior de la Mezquita-Catedral
+  alt: 'Interior de la Mezquita-Catedral'
 - src: https://imgcdn.bokun.tools/0f6ab051-8c54-4ee4-af5e-2255922afa00.jpg
-  alt: Paseo con el guía por la Judería
+  alt: 'Paseo con el guía por la Judería'
 - src: https://imgcdn.bokun.tools/e721dc2f-05d2-45d4-9507-bbee7e730bf8.jpg
-  alt: Torre campanario de la Mezquita-Catedral
+  alt: 'Torre campanario de la Mezquita-Catedral'
 - src: https://imgcdn.bokun.tools/af952c03-db94-4bd5-a643-7b145c4e9ad1.jpg
-  alt: Puerta de la Mezquita-Catedral
+  alt: 'Puerta de la Mezquita-Catedral'
 publicada: true
 indexar: false
 destacada: false

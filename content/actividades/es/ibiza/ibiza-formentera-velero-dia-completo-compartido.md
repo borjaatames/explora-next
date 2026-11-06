@@ -63,19 +63,21 @@ categoria: agua
 keywords:
 - velero compartido ibiza formentera
 - excursion velero formentera dia completo
-imagen: https://imgcdn.bokun.tools/32afb5c2-0292-43ec-9af3-998810a730f4.jpg
-imagenAlt: "Grupo tomando el sol en un velero frente a Es Vedrà"
+imagen: /images/actividades/ibiza/fotos-biblioteca/pexels-33838897.webp
+imagenAlt: 'Ses Illetes de Formentera con barcos fondeados'
 galeria:
+- src: https://imgcdn.bokun.tools/32afb5c2-0292-43ec-9af3-998810a730f4.jpg
+  alt: 'Grupo tomando el sol en un velero frente a Es Vedrà'
 - src: https://imgcdn.bokun.tools/eafbcfe5-25d8-43d6-9dde-33c63431e0db.jpg
-  alt: "Amigas con un aperitivo a bordo del barco"
+  alt: 'Amigas con un aperitivo a bordo del barco'
 - src: https://imgcdn.bokun.tools/5fa642ac-c9fc-4585-b836-ea92b569358b.jpg
-  alt: "Grupo paseando por una playa de Formentera"
+  alt: 'Grupo paseando por una playa de Formentera'
 - src: https://imgcdn.bokun.tools/63d91f9b-c9eb-478a-b865-5ad302dbc20c.jpg
-  alt: "Patrón al timón del velero"
+  alt: 'Patrón al timón del velero'
 - src: https://imgcdn.bokun.tools/4454177d-d72c-4f00-9f35-c0e0e1385086.jpg
-  alt: "Grupo tumbado en una tabla de paddle en agua turquesa"
+  alt: 'Grupo tumbado en una tabla de paddle en agua turquesa'
 - src: https://imgcdn.bokun.tools/b5ee9b67-8fe3-4bd5-8f22-e1c087c4fd26.jpg
-  alt: "Aguas turquesas e islotes de Formentera"
+  alt: 'Aguas turquesas e islotes de Formentera'
 publicada: true
 indexar: false
 destacada: false

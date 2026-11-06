@@ -92,23 +92,23 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/fal-kayak/fal-benidorm-cala-sierra-helada.webp
-imagenAlt: "Benidorm buildings beside a cove and the mountains"
+imagen: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
+imagenAlt: 'Group of kayaks paddling near rocks'
 galeria:
 - src: /images/actividades/alicante/fal-kayak/fal-kayak-mar-calma.webp
-  alt: "Sea kayak paddling on calm water"
+  alt: 'Sea kayak paddling on calm water'
 - src: /images/actividades/alicante/fal-kayak/fal-benidorm-bahia-rascacielos.webp
-  alt: "Benidorm bay with its skyscrapers and beach"
-- src: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
-  alt: "Group of kayaks paddling near rocks"
+  alt: 'Benidorm bay with its skyscrapers and beach'
+- src: /images/actividades/alicante/fal-kayak/fal-benidorm-cala-sierra-helada.webp
+  alt: 'Benidorm buildings beside a cove and the mountains'
 - src: /images/actividades/alicante/granadella/esnorquel-costa-rocosa.webp
-  alt: "Person snorkelling along a rocky coast"
+  alt: 'Person snorkelling along a rocky coast'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
-  alt: "Two sea kayaks on clear water"
+  alt: 'Two sea kayaks on clear water'
 - src: /images/actividades/alicante/fal-kayak/fal-benidorm-skyline-mar.webp
-  alt: "Benidorm skyline seen from the sea"
+  alt: 'Benidorm skyline seen from the sea'
 - src: /images/actividades/alicante/fal-kayak/fal-gaviota-puerto-benidorm.webp
-  alt: "Seagull with the Benidorm skyline behind"
+  alt: 'Seagull with the Benidorm skyline behind'
 ---
 
 ## What you will see

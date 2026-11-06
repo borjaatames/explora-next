@@ -63,21 +63,23 @@ keywords:
 - white villages from cordoba
 - private day trip cordoba villages
 - cordoba countryside tour
-imagen: https://imgcdn.bokun.tools/80976611-1a60-47e2-a001-ea380b62dfe9.jpg
-imagenAlt: Whitewashed street in a Córdoba white village
+imagen: /images/actividades/cadiz/pueblos/grazalema-plaza.webp
+imagenAlt: 'Andalusian white village'
 galeria:
+- src: https://imgcdn.bokun.tools/80976611-1a60-47e2-a001-ea380b62dfe9.jpg
+  alt: 'Whitewashed street in a Córdoba white village'
 - src: https://imgcdn.bokun.tools/a29afb3a-ac35-4c74-90a0-66f9b257ffd2.jpg
-  alt: White village with its tower among olive groves
+  alt: 'White village with its tower among olive groves'
 - src: https://imgcdn.bokun.tools/d49478dc-d372-4fee-8295-289ea594f3f3.jpg
-  alt: Courtyard with flowerpots in a white village
+  alt: 'Courtyard with flowerpots in a white village'
 - src: https://imgcdn.bokun.tools/50f4b467-43a9-4155-83ec-7a167deb794c.jpg
-  alt: Corner with flowers on a white façade
+  alt: 'Corner with flowers on a white façade'
 - src: https://imgcdn.bokun.tools/b210a65a-6fef-419b-a34a-e3d5726dc56e.jpg
-  alt: Typical street with flowerpots
+  alt: 'Typical street with flowerpots'
 - src: https://imgcdn.bokun.tools/ac09f49d-bd7d-4e68-9037-c831ed6f2f2c.jpg
-  alt: Viewpoint over the Córdoba countryside
+  alt: 'Viewpoint over the Córdoba countryside'
 - src: https://imgcdn.bokun.tools/d4446f5d-1bfb-46d3-a401-579ad942503c.jpg
-  alt: Traveller in a white village street
+  alt: 'Traveller in a white village street'
 publicada: true
 indexar: false
 destacada: false

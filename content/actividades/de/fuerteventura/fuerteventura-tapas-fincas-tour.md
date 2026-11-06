@@ -81,21 +81,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
-imagenAlt: "Herstellung von frischem Ziegenkäse in einer Käserei"
+imagen: /images/actividades/fuerteventura/queso/ffv-tostas-queso-higos.webp
+imagenAlt: 'Käsetoasts mit Feigen'
 galeria:
 - src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
-  alt: "Gereifte Käse in verschiedenen Größen"
+  alt: 'Gereifte Käse in verschiedenen Größen'
 - src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: "Runzelkartoffeln mit grüner Mojo-Sauce"
+  alt: 'Runzelkartoffeln mit grüner Mojo-Sauce'
 - src: /images/actividades/ibiza/bibo-park/fi1-olivo-jardin-mediterraneo.webp
-  alt: "Alter Olivenbaum"
+  alt: 'Alter Olivenbaum'
 - src: /images/actividades/fuerteventura/queso/ffv-quesos-y-vino-casero.webp
-  alt: "Käse und Weinflaschen auf einem Tisch"
+  alt: 'Käse und Weinflaschen auf einem Tisch'
 - src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: "Majorera-Ziege auf einer Farm"
-- src: /images/actividades/fuerteventura/queso/ffv-tostas-queso-higos.webp
-  alt: "Käsetoasts mit Feigen"
+  alt: 'Majorera-Ziege auf einer Farm'
+- src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
+  alt: 'Herstellung von frischem Ziegenkäse in einer Käserei'
 ---
 
 ## Was du siehst

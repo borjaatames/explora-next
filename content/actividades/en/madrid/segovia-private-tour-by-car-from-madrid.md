@@ -62,9 +62,11 @@ categoria: excursionesDia
 keywords:
 - segovia private tour from madrid
 - private day trip segovia by car
-imagen: https://imgcdn.bokun.tools/7928cf57-0752-42c6-a815-730ade705627.jpg
-imagenAlt: 'The Roman aqueduct of Segovia seen from above'
+imagen: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-02-hero.webp
+imagenAlt: 'Aqueduct of Segovia'
 galeria:
+- src: https://imgcdn.bokun.tools/7928cf57-0752-42c6-a815-730ade705627.jpg
+  alt: 'The Roman aqueduct of Segovia seen from above'
 - src: https://imgcdn.bokun.tools/6fe70e88-3466-4d17-bb73-7a732b4bf1b1.jpg
   alt: 'The Alcázar of Segovia above the valley'
 - src: https://imgcdn.bokun.tools/54235846-8a0f-4d15-b668-9abd9db3151d.jpg

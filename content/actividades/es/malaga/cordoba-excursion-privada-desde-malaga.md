@@ -72,27 +72,27 @@ keywords:
 - mezquita cordoba desde malaga
 - tour cordoba privado
 - cordoba con guia desde malaga
-imagen: https://imgcdn.bokun.tools/c4835436-ff9c-493c-80b2-c79bbaa89227.jpg
-imagenAlt: Visitantes haciendo fotos en el interior de la Mezquita-Catedral
+imagen: /images/actividades/cordoba/mezquita/puerta-perdon-torre.webp
+imagenAlt: 'Puerta del Perdón y torre campanario'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
-  alt: Arcos bicolores en el interior de la Mezquita-Catedral de Córdoba
-- src: /images/actividades/cordoba/mezquita/puerta-perdon-torre.webp
-  alt: Puerta del Perdón y torre campanario
+  alt: 'Arcos bicolores en el interior de la Mezquita-Catedral de Córdoba'
+- src: https://imgcdn.bokun.tools/c4835436-ff9c-493c-80b2-c79bbaa89227.jpg
+  alt: 'Visitantes haciendo fotos en el interior de la Mezquita-Catedral'
 - src: https://imgcdn.bokun.tools/7602893a-f24c-4913-abf3-a7204934e979.jpg
-  alt: Viajeros con su guía en una calleja encalada con macetas azules
+  alt: 'Viajeros con su guía en una calleja encalada con macetas azules'
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores con macetas azules
+  alt: 'Calleja de las Flores con macetas azules'
 - src: https://imgcdn.bokun.tools/944ecc08-a22f-47e8-9e88-fd69f12175ae.jpg
-  alt: Visitantes con la torre campanario de la Mezquita al fondo
+  alt: 'Visitantes con la torre campanario de la Mezquita al fondo'
 - src: https://imgcdn.bokun.tools/8bd2ae9a-a486-471a-bfef-3c214e50f161.jpg
-  alt: Puerta decorada de la Mezquita-Catedral
+  alt: 'Puerta decorada de la Mezquita-Catedral'
 - src: /images/actividades/cordoba/mezquita/puente-romano.webp
-  alt: Puente Romano, Puerta del Puente y Mezquita
+  alt: 'Puente Romano, Puerta del Puente y Mezquita'
 bokunProductId: 1063256
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

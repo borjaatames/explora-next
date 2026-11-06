@@ -76,27 +76,25 @@ keywords:
 - camellos dunas maspalomas
 - que hacer en maspalomas
 - dunas de maspalomas
-imagen: /images/actividades/gran-canaria/camellos/caravana-camellos-dunas.webp
-imagenAlt: Caravana de camellos con jinetes cruzando unas dunas de arena
+imagen: /images/actividades/gran-canaria/camellos/camellos-ensillados-gran-canaria.webp
+imagenAlt: 'Camellos ensillados descansando antes del paseo en Gran Canaria'
 galeria:
-- src: /images/actividades/gran-canaria/camellos/camellos-ensillados-gran-canaria.webp
-  alt: Camellos ensillados descansando antes del paseo en Gran Canaria
 - src: /images/actividades/gran-canaria/dunas/dunas-crestas.webp
-  alt: Crestas de arena en las Dunas de Maspalomas
+  alt: 'Crestas de arena en las Dunas de Maspalomas'
 - src: /images/actividades/gran-canaria/maspalomas/dunas-maspalomas-montanas.webp
-  alt: Dunas de Maspalomas con montanas de Gran Canaria al fondo
+  alt: 'Dunas de Maspalomas con montanas de Gran Canaria al fondo'
 - src: /images/actividades/gran-canaria/dunas/charca-palmeral.webp
-  alt: Charca entre palmeras en las Dunas de Maspalomas
+  alt: 'Charca entre palmeras en las Dunas de Maspalomas'
 - src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
-  alt: Dunas de Maspalomas junto al Atlántico
+  alt: 'Dunas de Maspalomas junto al Atlántico'
 - src: /images/actividades/gran-canaria/dunas/dunas-panoramica.webp
-  alt: Palmera y vegetación entre las Dunas de Maspalomas
+  alt: 'Palmera y vegetación entre las Dunas de Maspalomas'
 - src: /images/actividades/gran-canaria/dunas/dunas-aerea.webp
-  alt: Palmera entre la arena de las Dunas de Maspalomas
+  alt: 'Palmera entre la arena de las Dunas de Maspalomas'
 - src: /images/actividades/gran-canaria/dunas/dunas-palmera.webp
-  alt: Dunas de Maspalomas bajo un cielo nublado
+  alt: 'Dunas de Maspalomas bajo un cielo nublado'
 - src: /images/actividades/gran-canaria/dunas/dunas-arena.webp
-  alt: Playa y faro de Maspalomas, junto a las dunas
+  alt: 'Playa y faro de Maspalomas, junto a las dunas'
 ratingProveedor: 4.5
 numeroOpiniones: 5263
 atraccionesRelacionadas:

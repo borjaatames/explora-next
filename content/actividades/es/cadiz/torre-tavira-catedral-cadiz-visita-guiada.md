@@ -65,21 +65,21 @@ keywords:
 - torre tavira cadiz
 - camara oscura cadiz
 - catedral de cadiz visita guiada
-imagen: /images/actividades/cadiz/torre-tavira/torre-tavira-02.webp
-imagenAlt: La Torre Tavira sobre los tejados de Cádiz
+imagen: /images/actividades/cadiz/torre-tavira/torre-tavira-01.webp
+imagenAlt: 'Vista de Cádiz desde la Torre Tavira'
 galeria:
-- src: /images/actividades/cadiz/torre-tavira/torre-tavira-01.webp
-  alt: Vista de Cádiz desde la Torre Tavira
+- src: /images/actividades/cadiz/torre-tavira/torre-tavira-02.webp
+  alt: 'La Torre Tavira sobre los tejados de Cádiz'
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-03.webp
-  alt: Fachada de la Torre Tavira
+  alt: 'Fachada de la Torre Tavira'
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-04.webp
-  alt: Azoteas y torres miradores de Cádiz desde la Tavira
+  alt: 'Azoteas y torres miradores de Cádiz desde la Tavira'
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-05.webp
-  alt: Cúpula de la catedral desde la Torre Tavira
+  alt: 'Cúpula de la catedral desde la Torre Tavira'
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-07.webp
-  alt: Tejados blancos de Cádiz hacia el mar
+  alt: 'Tejados blancos de Cádiz hacia el mar'
 - src: /images/actividades/cadiz/torre-tavira/torre-tavira-08.webp
-  alt: Panorámica del casco antiguo de Cádiz
+  alt: 'Panorámica del casco antiguo de Cádiz'
 ratingProveedor: 4.5
 numeroOpiniones: 65
 atraccionesRelacionadas:

@@ -92,21 +92,19 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/estrellas/fgc-atardecer-roque-nublo-pinos.webp
-imagenAlt: "Atardecer tras el Roque Nublo enmarcado por pinos"
+imagen: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-cielo-azul.webp
+imagenAlt: 'El Roque Nublo sobre su cresta rocosa'
 galeria:
 - src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-santa-brigida.webp
-  alt: "La Caldera de Bandama"
+  alt: 'La Caldera de Bandama'
 - src: /images/actividades/gran-canaria/tejeda/fgc-caldera-tejeda-luz-dorada.webp
-  alt: "La caldera de Tejeda con el Roque Bentayga bajo la luz de la tarde"
-- src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-cielo-azul.webp
-  alt: "El Roque Nublo sobre su cresta rocosa"
+  alt: 'La caldera de Tejeda con el Roque Bentayga bajo la luz de la tarde'
 - src: /images/actividades/gran-canaria/jeep/caldera-tirajana.webp
-  alt: "La caldera de Tirajana"
+  alt: 'La caldera de Tirajana'
 - src: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
-  alt: "Atardecer desde el Pico de las Nieves con el Teide en el horizonte"
+  alt: 'Atardecer desde el Pico de las Nieves con el Teide en el horizonte'
 - src: /images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp
-  alt: "Silueta del Roque Nublo al atardecer sobre el mar de nubes"
+  alt: 'Silueta del Roque Nublo al atardecer sobre el mar de nubes'
 ---
 
 ## Qué vas a ver

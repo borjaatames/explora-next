@@ -66,21 +66,23 @@ keywords:
 - visite guidée privée malaga
 - visite alcazaba cathédrale malaga
 - guide francophone malaga
-imagen: https://imgcdn.bokun.tools/01f52bf0-4ebd-4e1c-8da6-a37c5cf1ca01.jpeg
-imagenAlt: Remparts de l’Alcazaba de Malaga
+imagen: /images/actividades/malaga/catedral-malaga/catedral-malaga-03.webp
+imagenAlt: 'Chœur de la cathédrale de Málaga'
 galeria:
+- src: https://imgcdn.bokun.tools/01f52bf0-4ebd-4e1c-8da6-a37c5cf1ca01.jpeg
+  alt: 'Remparts de l’Alcazaba de Malaga'
 - src: https://imgcdn.bokun.tools/ec488831-16c5-42f3-b70a-d123a1c9b95e.jpeg
-  alt: Place du centre de Malaga
+  alt: 'Place du centre de Malaga'
 - src: https://imgcdn.bokun.tools/fc432c14-7665-4bb2-8502-1acacfea1d5e.jpeg
-  alt: Façade de la cathédrale de Malaga
+  alt: 'Façade de la cathédrale de Malaga'
 - src: https://imgcdn.bokun.tools/4c39d28a-6bf9-4334-8e6e-6e6abba6b05b.jpeg
-  alt: Tour de la cathédrale de Malaga
+  alt: 'Tour de la cathédrale de Malaga'
 - src: https://imgcdn.bokun.tools/94831929-1b64-47e4-9370-7b2fc118d8b3.jpeg
-  alt: Rue de la vieille ville de Malaga
+  alt: 'Rue de la vieille ville de Malaga'
 - src: https://imgcdn.bokun.tools/1e211f98-7e68-4b7b-9700-47de473889c1.jpeg
-  alt: Groupe avec le guide à Malaga
+  alt: 'Groupe avec le guide à Malaga'
 - src: https://imgcdn.bokun.tools/7f1bb0b3-c2e3-41a5-bcfa-bd4e627b5ad0.jpeg
-  alt: Vitrail au coucher du soleil
+  alt: 'Vitrail au coucher du soleil'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

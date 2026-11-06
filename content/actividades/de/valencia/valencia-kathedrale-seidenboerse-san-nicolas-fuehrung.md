@@ -83,27 +83,27 @@ keywords:
 - lonja de la seda führung
 - san nicolás valencia
 - valencia stadtführung deutsch
-imagen: /images/actividades/valencia/centro/lonja-fachada.webp
-imagenAlt: Gotische Fassade der Seidenbörse
+imagen: /images/actividades/valencia/centro/catedral-puerta.webp
+imagenAlt: 'Portal der Kathedrale von Valencia an der Plaza de la Virgen'
 galeria:
 - src: /images/actividades/valencia/centro/san-nicolas-altar-frescos.webp
-  alt: Hochaltar und bemalte Gewölbe der Kirche San Nicolás in Valencia
+  alt: 'Hochaltar und bemalte Gewölbe der Kirche San Nicolás in Valencia'
 - src: /images/actividades/valencia/centro/torres-serranos.webp
-  alt: Torres de Serranos, das alte Stadttor in der Stadtmauer von Valencia
+  alt: 'Torres de Serranos, das alte Stadttor in der Stadtmauer von Valencia'
 - src: /images/actividades/valencia/centro/san-nicolas-boveda.webp
-  alt: Barockes Freskengewölbe der Kirche San Nicolás
+  alt: 'Barockes Freskengewölbe der Kirche San Nicolás'
 - src: /images/actividades/valencia/centro/lonja-naranjos.webp
-  alt: Orangenhof der Seidenbörse
+  alt: 'Orangenhof der Seidenbörse'
 - src: /images/actividades/valencia/centro/catedral-nave-central.webp
-  alt: Mittelschiff der Kathedrale von Valencia
+  alt: 'Mittelschiff der Kathedrale von Valencia'
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
-  alt: Plaza de la Virgen mit Basilika und Kathedrale
+  alt: 'Plaza de la Virgen mit Basilika und Kathedrale'
 - src: /images/actividades/valencia/centro/plaza-reina-micalet.webp
-  alt: Plaza de la Reina mit dem Micalet und der Kathedrale von Valencia
-- src: /images/actividades/valencia/centro/catedral-puerta.webp
-  alt: Portal der Kathedrale von Valencia an der Plaza de la Virgen
+  alt: 'Plaza de la Reina mit dem Micalet und der Kathedrale von Valencia'
+- src: /images/actividades/valencia/centro/lonja-fachada.webp
+  alt: 'Gotische Fassade der Seidenbörse'
 - src: /images/actividades/valencia/centro/micalet-naranjos.webp
-  alt: Der Glockenturm Micalet zwischen Orangenbäumen
+  alt: 'Der Glockenturm Micalet zwischen Orangenbäumen'
 ratingProveedor: 4.8
 numeroOpiniones: 1243
 atraccionesRelacionadas:

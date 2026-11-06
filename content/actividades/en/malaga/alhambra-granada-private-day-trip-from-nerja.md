@@ -66,17 +66,19 @@ keywords:
 - alhambra from nerja
 - private granada day trip from nerja
 - alhambra tour nerja
-imagen: https://imgcdn.bokun.tools/dd194fa7-99d7-44d2-a9cd-8a182f28ec6b.jpg
-imagenAlt: Court of the Myrtles in the Alhambra
+imagen: /images/actividades/granada/alhambra/alhambra-granada-patio-arrayanes-detail-spain-hero.webp
+imagenAlt: 'Court of the Myrtles in the Alhambra'
 galeria:
+- src: https://imgcdn.bokun.tools/dd194fa7-99d7-44d2-a9cd-8a182f28ec6b.jpg
+  alt: 'Court of the Myrtles in the Alhambra'
 - src: https://imgcdn.bokun.tools/80449cce-fc0a-4963-8c68-99d27cdfaebb.jpg
-  alt: Generalife gardens
+  alt: 'Generalife gardens'
 - src: https://imgcdn.bokun.tools/189647fa-b9dd-482f-a095-c0eaca78beed.jpg
-  alt: Flowers in the Alhambra gardens
+  alt: 'Flowers in the Alhambra gardens'
 - src: https://imgcdn.bokun.tools/02154768-fd3f-46a9-8cbc-a332e615f8cd.jpg
-  alt: Travellers during the Alhambra visit
+  alt: 'Travellers during the Alhambra visit'
 - src: https://imgcdn.bokun.tools/4ea9e444-f908-4c46-a6c5-31ebcaba6612.jpg
-  alt: Nasrid window with a view
+  alt: 'Nasrid window with a view'
 publicada: true
 indexar: false
 destacada: false

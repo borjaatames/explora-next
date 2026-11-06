@@ -99,23 +99,21 @@ keywords:
 - entree casa batllo
 - casa batllo gaudi visite
 - billet officiel casa batllo
-imagen: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp
-imagenAlt: La façade moderniste de la Casa Batlló, avec ses mosaïques colorées et ses murs ondulés, à Barcelone
+imagen: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
+imagenAlt: 'Vue aérienne de Barcelone avec la côte méditerranéenne et la Sagrada Família'
 galeria:
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-78111992-hero.webp
-  alt: Détail de la façade ondulée de la Casa Batlló, œuvre de Gaudí
+  alt: 'Détail de la façade ondulée de la Casa Batlló, œuvre de Gaudí'
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-5874108-hero.webp
-  alt: Détail de la façade ondulée de la Casa Batlló, œuvre de Gaudí
+  alt: 'Détail de la façade ondulée de la Casa Batlló, œuvre de Gaudí'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
-  alt: La façade ondulée de la Casa Batlló, avec ses mosaïques colorées et ses balcons ornementaux
+  alt: 'La façade ondulée de la Casa Batlló, avec ses mosaïques colorées et ses balcons ornementaux'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-window-stained-glass-barcelona-hero-hero.webp
-  alt: Détail d'un vitrail ouvragé de la Casa Batlló
+  alt: 'Détail d''un vitrail ouvragé de la Casa Batlló'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero-hero.webp
-  alt: La façade courbe et colorée de la Casa Batlló dans le paysage urbain de Barcelone
+  alt: 'La façade courbe et colorée de la Casa Batlló dans le paysage urbain de Barcelone'
 - src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
-  alt: Vue de Barcelone avec l'architecture du quartier gothique et des immeubles modernes au coucher du soleil
-- src: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
-  alt: Vue aérienne de Barcelone avec la côte méditerranéenne et la Sagrada Família
+  alt: 'Vue de Barcelone avec l''architecture du quartier gothique et des immeubles modernes au coucher du soleil'
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

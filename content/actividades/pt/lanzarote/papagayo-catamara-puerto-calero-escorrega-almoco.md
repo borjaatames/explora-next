@@ -85,21 +85,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
-imagenAlt: "Enseada de Papagayo vista da falésia"
+imagen: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
+imagenAlt: 'Catamarã com redes na proa visto de cima'
 galeria:
 - src: /images/actividades/lanzarote/catamaran/flz-cenital-turquesa.webp
-  alt: "Catamarã visto de cima sobre águas turquesa"
-- src: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
-  alt: "Catamarã com redes na proa visto de cima"
+  alt: 'Catamarã visto de cima sobre águas turquesa'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+  alt: 'Enseada de Papagayo vista da falésia'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
-  alt: "Praia de Papagayo com céu nublado"
+  alt: 'Praia de Papagayo com céu nublado'
 - src: /images/actividades/lanzarote/catamaran/flz-fondeado-aguas-claras.webp
-  alt: "Catamarã fundeado em águas límpidas"
+  alt: 'Catamarã fundeado em águas límpidas'
 - src: /images/actividades/lanzarote/papagayo/flz-playa-promontorio.webp
-  alt: "Praia de Papagayo sob o seu promontório rochoso"
+  alt: 'Praia de Papagayo sob o seu promontório rochoso'
 - src: /images/actividades/lanzarote/papagayo/flz-acantilados-playa.webp
-  alt: "Falésias e praia nas Playas de Papagayo"
+  alt: 'Falésias e praia nas Playas de Papagayo'
 avisoReserva: "A tripulação ou o guia fala inglês, francês, alemão e espanhol: não há explicações em português."
 ---
 

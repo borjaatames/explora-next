@@ -72,23 +72,23 @@ keywords:
 - private ronda tour
 - granada to ronda private car
 - ronda tour granada
-imagen: https://imgcdn.bokun.tools/a3e9afff-0a0a-48b7-a951-261b60a0fc1d.jpg
-imagenAlt: Aerial view of Ronda above the gorge
+imagen: /images/actividades/granada/ronda/ronda-wikimedia-ronda-view-from-puente-nuevo-5-jpg.webp
+imagenAlt: 'The parador and Puente Nuevo above the cliff'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/granada/ronda/ronda-pexels-11829157.webp
-  alt: Ronda's Puente Nuevo and the houses above the gorge
+  alt: 'Ronda''s Puente Nuevo and the houses above the gorge'
 - src: https://imgcdn.bokun.tools/472c87f7-1d34-494b-b4f1-d40081d6ff07.jpg
-  alt: Couple in front of Ronda's Puente Nuevo
+  alt: 'Couple in front of Ronda''s Puente Nuevo'
 - src: /images/actividades/granada/ronda/ronda-pixabay-7493552.webp
-  alt: Ronda perched over the gorge
+  alt: 'Ronda perched over the gorge'
 - src: https://imgcdn.bokun.tools/b26c9cc0-d9d4-4c44-9572-50e987aac592.jpg
-  alt: The Puente Nuevo spanning Ronda's gorge
-- src: /images/actividades/granada/ronda/ronda-wikimedia-ronda-view-from-puente-nuevo-5-jpg.webp
-  alt: The parador and Puente Nuevo above the cliff
+  alt: 'The Puente Nuevo spanning Ronda''s gorge'
+- src: https://imgcdn.bokun.tools/a3e9afff-0a0a-48b7-a951-261b60a0fc1d.jpg
+  alt: 'Aerial view of Ronda above the gorge'
 bokunProductId: 841521
 fecha_actualizacion: '2026-10-24'
 privada: true

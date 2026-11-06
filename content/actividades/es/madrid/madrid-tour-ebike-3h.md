@@ -94,25 +94,25 @@ keywords:
 - tour ebike palacio real
 - wonder tours madrid
 - bici electrica madrid centro
-imagen: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
-imagenAlt: Plaza Mayor, primera parada del recorrido
+imagen: /images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp
+imagenAlt: 'Grupo del tour en bicicleta eléctrica frente al Palacio Real de Madrid'
 galeria:
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp
-  alt: Plaza de Oriente y Palacio Real
+  alt: 'Plaza de Oriente y Palacio Real'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero.webp
-  alt: Palacio Real visto desde los jardines del Campo del Moro
+  alt: 'Palacio Real visto desde los jardines del Campo del Moro'
 - src: /images/actividades/madrid/debod/templo-debod-brown-concrete-building-near-body-hero.webp
-  alt: Templo de Debod reflejado en su estanque
+  alt: 'Templo de Debod reflejado en su estanque'
 - src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
-  alt: Plaza de la Villa con la Casa y Torre de los Lujanes
+  alt: 'Plaza de la Villa con la Casa y Torre de los Lujanes'
 - src: /images/actividades/madrid/mercado-san-miguel/mercado-san-miguel-madrid-building-glass-front-hero.webp
-  alt: Mercado de San Miguel
-- src: /images/actividades/madrid/ebike/b3e42dfbf7da4dc5aeb0bcda91f6934c_main_slider-hero.webp
-  alt: Grupo del tour en bicicleta eléctrica frente al Palacio Real de Madrid
+  alt: 'Mercado de San Miguel'
+- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
+  alt: 'Plaza Mayor, primera parada del recorrido'
 - src: /images/actividades/madrid/ebike/touring-madrid-hero.webp
-  alt: Parada del grupo en bicicleta durante el recorrido
+  alt: 'Parada del grupo en bicicleta durante el recorrido'
 - src: /images/actividades/madrid/ebike/thumb_8797513_cover_header-hero.webp
-  alt: Ciclistas del tour en el Templo de Debod
+  alt: 'Ciclistas del tour en el Templo de Debod'
 ratingProveedor: 4.5
 numeroOpiniones: 196
 publicada: true

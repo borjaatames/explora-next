@@ -72,23 +72,25 @@ keywords:
 - flamenco sacromonte
 - cueva la rocio granada
 - flamenco grutas granada
-imagen: https://imgcdn.bokun.tools/99395bf7-e0d1-4f47-8841-b4799e9d3e20.jpg
-imagenAlt: Bailaora com vestido vermelho na Cueva La Rocío
+imagen: /images/actividades/alicante/flamenco/tablao.webp
+imagenAlt: 'Dança flamenca com guitarristas numa gruta'
 galeria:
+- src: https://imgcdn.bokun.tools/99395bf7-e0d1-4f47-8841-b4799e9d3e20.jpg
+  alt: 'Bailaora com vestido vermelho na Cueva La Rocío'
 - src: https://imgcdn.bokun.tools/7e5dc17d-4e14-4a03-8852-5a2fb58513de.jpg
-  alt: Bailaora com saia branca diante do público da gruta
+  alt: 'Bailaora com saia branca diante do público da gruta'
 - src: https://imgcdn.bokun.tools/406d75d9-cac9-4560-8ae7-e53b8934c3a1.jpg
-  alt: Interior caiado da gruta com cadeiras de tabua verdes
+  alt: 'Interior caiado da gruta com cadeiras de tabua verdes'
 - src: https://imgcdn.bokun.tools/958eccc9-d017-41ae-b6ff-899b798b860f.jpeg
-  alt: Bailaora com vestido azul durante o espetáculo
+  alt: 'Bailaora com vestido azul durante o espetáculo'
 - src: https://imgcdn.bokun.tools/e4406295-6f7b-4a66-926c-3b4e01efc78a.jpeg
-  alt: Cante e palmas na gruta
+  alt: 'Cante e palmas na gruta'
 - src: https://imgcdn.bokun.tools/a1826eb6-d638-40cc-ae46-08f208672b03.jpeg
-  alt: Bailaora com os braços no ar
+  alt: 'Bailaora com os braços no ar'
 - src: https://imgcdn.bokun.tools/1f55788f-9c7a-43c1-ac25-b9373015b7b1.jpg
-  alt: Fachada de uma gruta no Camino del Sacromonte
+  alt: 'Fachada de uma gruta no Camino del Sacromonte'
 - src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
-  alt: Casas-gruta nas encostas do Sacromonte
+  alt: 'Casas-gruta nas encostas do Sacromonte'
 publicada: true
 destacada: false
 fecha: '2026-10-10'

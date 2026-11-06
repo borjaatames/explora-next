@@ -84,9 +84,11 @@ keywords:
 - teide stargazing tour
 - teide sunset and stars with pickup
 - tenerife stargazing dinner
-imagen: https://imgcdn.bokun.tools/bcf7c4f5-24cd-4f03-91ea-965829279b7c.jpeg
-imagenAlt: 'Telescope set up in Teide National Park at sunset'
+imagen: /images/actividades/tenerife/fotos-biblioteca/pexels-10766895.webp
+imagenAlt: 'Teide cable car above the Las Cañadas caldera'
 galeria:
+- src: https://imgcdn.bokun.tools/bcf7c4f5-24cd-4f03-91ea-965829279b7c.jpeg
+  alt: 'Telescope set up in Teide National Park at sunset'
 - src: https://imgcdn.bokun.tools/0bf4ffaf-9a79-42a0-825e-f8a92c0d3dbc.jpeg
   alt: 'Milky Way over the rock formations of Teide National Park'
 - src: https://imgcdn.bokun.tools/9e678841-8269-4504-b965-cd2b46c5fcae.jpeg

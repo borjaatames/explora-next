@@ -92,21 +92,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
-imagenAlt: "Barche da escursione a Puerto del Carmen"
+imagen: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
+imagenAlt: 'Catamarano all''ancora con il suo tender in acque turchesi'
 galeria:
-- src: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
-  alt: "Catamarano all'ancora con il suo tender in acque turchesi"
+- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
+  alt: 'Barche da escursione a Puerto del Carmen'
 - src: /images/actividades/lanzarote/papagayo/flz-playa-dorada-turquesa.webp
-  alt: "Spiaggia di sabbia dorata e acqua turchese a Papagayo"
+  alt: 'Spiaggia di sabbia dorata e acqua turchese a Papagayo'
 - src: /images/actividades/lanzarote/catamaran/flz-proa-agua-cristalina.webp
-  alt: "Prua di un catamarano su acqua cristallina"
+  alt: 'Prua di un catamarano su acqua cristallina'
 - src: /images/actividades/lanzarote/papagayo/flz-costa-montana.webp
-  alt: "La costa di Papagayo con le montagne vulcaniche sullo sfondo"
+  alt: 'La costa di Papagayo con le montagne vulcaniche sullo sfondo'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
-  alt: "Cala dalle acque turchesi a Papagayo"
+  alt: 'Cala dalle acque turchesi a Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
-  alt: "Onde sulla riva di una spiaggia di Papagayo"
+  alt: 'Onde sulla riva di una spiaggia di Papagayo'
 avisoReserva: "Guida in italiano solo su richiesta: di solito l'equipaggio parla spagnolo e inglese. Se vuoi le spiegazioni in italiano, chiedilo all'operatore dopo la prenotazione."
 ---
 

@@ -59,17 +59,19 @@ keywords:
 - barcelona full day private tour
 - barcelona in one day private car
 - sagrada familia park guell private tour
-imagen: https://imgcdn.bokun.tools/cf0cacc7-1c04-4507-b115-8b6eb554c4c8.jpg
-imagenAlt: "National Palace on Montjuïc"
+imagen: /images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-hero.webp
+imagenAlt: 'Panoramic view of Park Güell'
 galeria:
+- src: https://imgcdn.bokun.tools/cf0cacc7-1c04-4507-b115-8b6eb554c4c8.jpg
+  alt: 'National Palace on Montjuïc'
 - src: https://imgcdn.bokun.tools/bcc966e4-8a39-4b21-9277-12a01cde7b53.jpg
-  alt: "Gothic cathedral interior lit by stained glass"
+  alt: 'Gothic cathedral interior lit by stained glass'
 - src: https://imgcdn.bokun.tools/b31f81ac-eb1c-4b15-b48f-e42950937e04.jpg
-  alt: "Friends taking a selfie in front of the Sagrada Família"
+  alt: 'Friends taking a selfie in front of the Sagrada Família'
 - src: https://imgcdn.bokun.tools/54b467f3-29d1-4be9-8d32-44154e8d8d10.jpg
-  alt: "Port Vell and the Barcelona skyline from Montjuïc"
+  alt: 'Port Vell and the Barcelona skyline from Montjuïc'
 - src: https://imgcdn.bokun.tools/711fc1d1-98ac-4f8d-8de3-24c076dc3411.jpg
-  alt: "Visitors beside a Gaudí pavilion in Park Güell"
+  alt: 'Visitors beside a Gaudí pavilion in Park Güell'
 publicada: true
 indexar: false
 destacada: false

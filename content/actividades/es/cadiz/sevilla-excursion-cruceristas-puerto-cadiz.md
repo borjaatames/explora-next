@@ -74,21 +74,23 @@ keywords:
 - excursion sevilla desde puerto cadiz
 - sevilla cruceristas cadiz
 - excursion crucero cadiz sevilla
-imagen: https://imgcdn.bokun.tools/aa953997-3a5a-406c-af94-b7767e1c2a6a.jpg
-imagenAlt: Tejados de Sevilla con la Catedral al atardecer
+imagen: /images/actividades/cadiz/fotos-biblioteca/01.webp
+imagenAlt: 'Patio de la Casa de Pilatos de Sevilla'
 galeria:
+- src: https://imgcdn.bokun.tools/aa953997-3a5a-406c-af94-b7767e1c2a6a.jpg
+  alt: 'Tejados de Sevilla con la Catedral al atardecer'
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp
-  alt: Baños de Doña María de Padilla en el Real Alcázar
+  alt: 'Baños de Doña María de Padilla en el Real Alcázar'
 - src: https://imgcdn.bokun.tools/7597a4b4-3633-4f0a-9e85-b729770b88aa.jpg
-  alt: Plaza de España de Sevilla con su canal
+  alt: 'Plaza de España de Sevilla con su canal'
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
-  alt: Callejón del Agua en el barrio de Santa Cruz
+  alt: 'Callejón del Agua en el barrio de Santa Cruz'
 - src: https://imgcdn.bokun.tools/12150c2b-389a-4fa3-834a-7df5de9b4f1f.jpg
-  alt: Patio y estanque del Real Alcázar
+  alt: 'Patio y estanque del Real Alcázar'
 - src: /images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp
-  alt: Archivo General de Indias
+  alt: 'Archivo General de Indias'
 - src: https://imgcdn.bokun.tools/f3e1835e-1ab9-4382-8554-3f390037163b.jpg
-  alt: Arco mudéjar del Real Alcázar
+  alt: 'Arco mudéjar del Real Alcázar'
 publicada: true
 indexar: false
 destacada: false

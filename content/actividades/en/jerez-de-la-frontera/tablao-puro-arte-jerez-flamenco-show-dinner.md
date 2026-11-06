@@ -74,23 +74,23 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-imagenAlt: "Flamenco dancer spinning on stage, her skirt in motion"
+imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
+imagenAlt: 'Audience enjoying a flamenco show in Jerez'
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: "Dancer's hands holding castanets"
+  alt: 'Dancer''s hands holding castanets'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
-  alt: "Dancer in a ruffled skirt dancing in dim light"
+  alt: 'Dancer in a ruffled skirt dancing in dim light'
 - src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-generoso.webp
-  alt: "Glass of fortified wine on a wooden board"
+  alt: 'Glass of fortified wine on a wooden board'
 - src: /images/actividades/jerez-de-la-frontera/tapas/tabla-tapas-cazuelas.webp
-  alt: "Selection of tapas in small clay dishes"
+  alt: 'Selection of tapas in small clay dishes'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
-  alt: "Jerez Cathedral and its bell tower lit up at night"
+  alt: 'Jerez Cathedral and its bell tower lit up at night'
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: 'Flamenco dancer with a musician in a tablao'
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-  alt: "Live musicians at a flamenco tablao in Jerez"
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: "Audience enjoying a flamenco show in Jerez"
+  alt: 'Live musicians at a flamenco tablao in Jerez'
 ---
 
 ## What you will see

@@ -84,23 +84,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/mallorca/fma-palma/catedral-palma-desde-mar.webp
-imagenAlt: "Catedral de Palma vista do mar"
+imagen: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
+imagenAlt: 'Barco fundeado com banhistas a nadar à volta'
 galeria:
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-fondeado-agua-turquesa.webp
-  alt: "Catamarã fundeado em água turquesa, vista aérea"
+  alt: 'Catamarã fundeado em água turquesa, vista aérea'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
-  alt: "Pessoa a fazer snorkel sobre um fundo de rochas"
+  alt: 'Pessoa a fazer snorkel sobre um fundo de rochas'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-mar-abierto.webp
-  alt: "Catamarã a navegar em mar aberto, vista aérea"
-- src: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
-  alt: "Barco fundeado com banhistas a nadar à volta"
+  alt: 'Catamarã a navegar em mar aberto, vista aérea'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
-  alt: "Catedral de Palma sobre a muralha marítima"
+  alt: 'Catedral de Palma sobre a muralha marítima'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
-  alt: "Fundo marinho com rochas sob água cristalina"
+  alt: 'Fundo marinho com rochas sob água cristalina'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-lancha-agua-verde.webp
-  alt: "Catamarã e lancha auxiliar em água verde-turquesa"
+  alt: 'Catamarã e lancha auxiliar em água verde-turquesa'
 avisoReserva: 'Atividade sazonal: as próximas datas disponíveis começam em março de 2027.'
 ---
 

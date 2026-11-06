@@ -78,21 +78,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/cordoba/bici/fvc-puente-romano-desde-calahorra.webp
-imagenAlt: "Roman Bridge and Córdoba old town seen from the Calahorra"
+imagen: /images/actividades/cordoba/bici/fvc-bicicletas-blancas-aparcadas.webp
+imagenAlt: 'Row of parked city bikes'
 galeria:
-- src: /images/actividades/cordoba/bici/fvc-bicicletas-blancas-aparcadas.webp
-  alt: "Row of parked city bikes"
+- src: /images/actividades/cordoba/bici/fvc-puente-romano-desde-calahorra.webp
+  alt: 'Roman Bridge and Córdoba old town seen from the Calahorra'
 - src: /images/actividades/cordoba/mezquita/patio-naranjos.webp
-  alt: "Courtyard of the Orange Trees at the Mosque-Cathedral"
+  alt: 'Courtyard of the Orange Trees at the Mosque-Cathedral'
 - src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: "Street in the Córdoba Jewish Quarter with the Mosque tower behind"
+  alt: 'Street in the Córdoba Jewish Quarter with the Mosque tower behind'
 - src: /images/actividades/cordoba/juderia/fvc-plaza-juderia-visitantes.webp
-  alt: "Visitors in a square in the Córdoba Jewish Quarter"
+  alt: 'Visitors in a square in the Córdoba Jewish Quarter'
 - src: /images/actividades/cordoba/alcazar/fvc-alcazar-murallas-palmeras.webp
-  alt: "Walls of the Alcázar of the Christian Monarchs among palm trees"
+  alt: 'Walls of the Alcázar of the Christian Monarchs among palm trees'
 - src: /images/actividades/cordoba/bici/fvc-mezquita-puente-rio.webp
-  alt: "Mosque-Cathedral and Roman Bridge by the Guadalquivir"
+  alt: 'Mosque-Cathedral and Roman Bridge by the Guadalquivir'
 ---
 
 ## What you will see

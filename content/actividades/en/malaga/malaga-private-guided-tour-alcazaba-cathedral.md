@@ -65,21 +65,23 @@ keywords:
 - private guided tour malaga
 - private tour alcazaba cathedral malaga
 - private guide malaga
-imagen: https://imgcdn.bokun.tools/01f52bf0-4ebd-4e1c-8da6-a37c5cf1ca01.jpeg
-imagenAlt: Walls of the Alcazaba of Málaga
+imagen: /images/actividades/malaga/catedral-malaga/catedral-malaga-03.webp
+imagenAlt: 'Choir stalls of Málaga Cathedral'
 galeria:
+- src: https://imgcdn.bokun.tools/01f52bf0-4ebd-4e1c-8da6-a37c5cf1ca01.jpeg
+  alt: 'Walls of the Alcazaba of Málaga'
 - src: https://imgcdn.bokun.tools/ec488831-16c5-42f3-b70a-d123a1c9b95e.jpeg
-  alt: Square in central Málaga
+  alt: 'Square in central Málaga'
 - src: https://imgcdn.bokun.tools/fc432c14-7665-4bb2-8502-1acacfea1d5e.jpeg
-  alt: Façade of Málaga Cathedral
+  alt: 'Façade of Málaga Cathedral'
 - src: https://imgcdn.bokun.tools/4c39d28a-6bf9-4334-8e6e-6e6abba6b05b.jpeg
-  alt: Tower of Málaga Cathedral
+  alt: 'Tower of Málaga Cathedral'
 - src: https://imgcdn.bokun.tools/94831929-1b64-47e4-9370-7b2fc118d8b3.jpeg
-  alt: Street in Málaga’s old town
+  alt: 'Street in Málaga’s old town'
 - src: https://imgcdn.bokun.tools/1e211f98-7e68-4b7b-9700-47de473889c1.jpeg
-  alt: Group with the guide in Málaga
+  alt: 'Group with the guide in Málaga'
 - src: https://imgcdn.bokun.tools/7f1bb0b3-c2e3-41a5-bcfa-bd4e627b5ad0.jpeg
-  alt: Stained glass at sunset
+  alt: 'Stained glass at sunset'
 publicada: true
 indexar: false
 destacada: false

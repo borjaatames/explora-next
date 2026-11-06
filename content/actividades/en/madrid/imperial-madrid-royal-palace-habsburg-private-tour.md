@@ -60,9 +60,11 @@ categoria: visitasGuiadas
 keywords:
 - royal palace madrid private tour
 - habsburg madrid private guide
-imagen: https://imgcdn.bokun.tools/948fb163-8c4f-4728-bc34-af651e381ae1.jpg
+imagen: /images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp
 imagenAlt: 'Façade of the Royal Palace of Madrid'
 galeria:
+- src: https://imgcdn.bokun.tools/948fb163-8c4f-4728-bc34-af651e381ae1.jpg
+  alt: 'Façade of the Royal Palace of Madrid'
 - src: https://imgcdn.bokun.tools/bc1721a2-31b5-4f27-abc9-b65ddfb42823.jpg
   alt: 'Almudena Cathedral at sunset'
 publicada: true

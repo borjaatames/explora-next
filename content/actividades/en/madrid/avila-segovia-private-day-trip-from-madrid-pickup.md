@@ -61,9 +61,11 @@ atraccionesRelacionadas:
 categoria: excursionesDia
 keywords:
 - avila segovia private tour from madrid
-imagen: https://imgcdn.bokun.tools/5975f63b-5546-4fd0-82c5-a35ab6237b64.jpg
-imagenAlt: 'The walls of Ávila with one of their gates'
+imagen: /images/actividades/avila/avila/unsplash-aqnBRXo-xpY-hero.webp
+imagenAlt: 'Walls of Ávila'
 galeria:
+- src: https://imgcdn.bokun.tools/5975f63b-5546-4fd0-82c5-a35ab6237b64.jpg
+  alt: 'The walls of Ávila with one of their gates'
 - src: https://imgcdn.bokun.tools/5d33a384-a61a-4467-8172-f029bae94636.jpg
   alt: 'The Roman aqueduct of Segovia'
 - src: https://imgcdn.bokun.tools/3ea3c146-8ff9-4a2c-8ad2-a4e1f6abe3db.jpg

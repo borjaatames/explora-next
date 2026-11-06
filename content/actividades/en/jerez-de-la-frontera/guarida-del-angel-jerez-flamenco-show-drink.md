@@ -74,23 +74,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-movimiento-escenario.webp
-imagenAlt: "Flamenco dancer in motion on a dark stage"
+imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+imagenAlt: 'Live musicians at a flamenco tablao in Jerez'
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/centro/monumento-lola-flores.webp
-  alt: "Lola Flores monument in the San Miguel quarter of Jerez"
+  alt: 'Lola Flores monument in the San Miguel quarter of Jerez'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: "Dancer's hands holding castanets"
+  alt: 'Dancer''s hands holding castanets'
 - src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
-  alt: "Glass of amber wine on a wooden table"
+  alt: 'Glass of amber wine on a wooden table'
 - src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
-  alt: "Assorted tapas in clay dishes on a wooden table"
+  alt: 'Assorted tapas in clay dishes on a wooden table'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-noche.webp
-  alt: "Dome of Jerez Cathedral lit up at night"
+  alt: 'Dome of Jerez Cathedral lit up at night'
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: "Audience enjoying a flamenco show in Jerez"
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-  alt: "Live musicians at a flamenco tablao in Jerez"
+  alt: 'Audience enjoying a flamenco show in Jerez'
 ---
 
 ## What you will see

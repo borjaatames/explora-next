@@ -63,23 +63,25 @@ keywords:
 - cadiz and jerez from marbella
 - private cadiz jerez day trip
 - sherry bodega tour from marbella
-imagen: https://imgcdn.bokun.tools/82542bf3-a03b-4ead-9ff2-7fa8abd4f1b5.jpg
-imagenAlt: Wine barrels in a Jerez bodega
+imagen: /images/actividades/malaga/fotos-biblioteca/wikimedia-01.webp
+imagenAlt: 'Jerez Cathedral lit up at night'
 galeria:
+- src: https://imgcdn.bokun.tools/82542bf3-a03b-4ead-9ff2-7fa8abd4f1b5.jpg
+  alt: 'Wine barrels in a Jerez bodega'
 - src: https://imgcdn.bokun.tools/05bbf04b-6e1d-4ff5-8b40-de883f80fb2f.jpg
-  alt: Traveller on the Cádiz coast
+  alt: 'Traveller on the Cádiz coast'
 - src: https://imgcdn.bokun.tools/d2cc6ea1-e6de-4324-bd63-977c05cf574d.jpg
-  alt: Street in central Cádiz
+  alt: 'Street in central Cádiz'
 - src: https://imgcdn.bokun.tools/077bbff3-74ea-4990-a0c7-5eb5ec90aeb4.jpg
-  alt: Fish at the Cádiz market
+  alt: 'Fish at the Cádiz market'
 - src: https://imgcdn.bokun.tools/f98f6d36-56c4-4eb6-8fab-aa15e1fb0a3b.jpg
-  alt: Stall at the food market
+  alt: 'Stall at the food market'
 - src: https://imgcdn.bokun.tools/30974ce0-f01c-4642-9b62-d6d5e0f6d540.jpg
-  alt: Glass of sherry
+  alt: 'Glass of sherry'
 - src: https://imgcdn.bokun.tools/1c77d085-978e-480b-ac38-51f805fb0343.jpg
-  alt: Sherry tasting
+  alt: 'Sherry tasting'
 - src: https://imgcdn.bokun.tools/34621c40-611a-4bb3-a2cf-128b62354363.jpg
-  alt: Arches in a Jerez bodega
+  alt: 'Arches in a Jerez bodega'
 publicada: true
 indexar: false
 destacada: false

@@ -73,19 +73,19 @@ keywords:
 - balade en quad costa daurada
 - buggy salou
 - que faire à salou
-imagen: quad-barro.webp
-imagenAlt: Un quad traversant une flaque d'eau
+imagen: /images/actividades/girona/fgi-quad/fgi-quad-camino-tierra.webp
+imagenAlt: 'Pilote en quad sur une piste de terre'
 galeria:
 - src: /images/actividades/tarragona/costa/faro-salou.webp
-  alt: Le phare de Salou et sa maison de gardien blanche sous un ciel bleu
+  alt: 'Le phare de Salou et sa maison de gardien blanche sous un ciel bleu'
 - src: /images/actividades/tarragona/quad/prades-siurana.webp
-  alt: Les montagnes de Prades et Siurana
+  alt: 'Les montagnes de Prades et Siurana'
 - src: /images/actividades/tarragona/quad/montsant.webp
-  alt: Paysage de montagne dans l'arrière-pays de Tarragone
+  alt: 'Paysage de montagne dans l''arrière-pays de Tarragone'
 - src: /images/actividades/tarragona/costa/cap-salou.webp
-  alt: Côte rocheuse du Cap de Salou face à la Méditerranée
+  alt: 'Côte rocheuse du Cap de Salou face à la Méditerranée'
 - src: /images/actividades/tarragona/quad/prades-atardecer.webp
-  alt: Coucher de soleil sur les montagnes de Prades
+  alt: 'Coucher de soleil sur les montagnes de Prades'
 ratingProveedor: 4.8
 numeroOpiniones: 1225
 atraccionesRelacionadas:

@@ -74,23 +74,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-movimiento-escenario.webp
-imagenAlt: "Ballerina di flamenco in movimento su un palco al buio"
+imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
+imagenAlt: 'Musicisti dal vivo in un tablao flamenco di Jerez'
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/centro/monumento-lola-flores.webp
-  alt: "Monumento a Lola Flores nel quartiere di San Miguel a Jerez"
+  alt: 'Monumento a Lola Flores nel quartiere di San Miguel a Jerez'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: "Mani di una ballerina di flamenco con le nacchere"
+  alt: 'Mani di una ballerina di flamenco con le nacchere'
 - src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
-  alt: "Calice di vino ambrato su un tavolo di legno"
+  alt: 'Calice di vino ambrato su un tavolo di legno'
 - src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
-  alt: "Tapas assortite in tegamini di terracotta su un tavolo di legno"
+  alt: 'Tapas assortite in tegamini di terracotta su un tavolo di legno'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-noche.webp
-  alt: "Cupola della Cattedrale di Jerez illuminata di notte"
+  alt: 'Cupola della Cattedrale di Jerez illuminata di notte'
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: "Pubblico che assiste a uno spettacolo di flamenco a Jerez"
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-  alt: "Musicisti dal vivo in un tablao flamenco di Jerez"
+  alt: 'Pubblico che assiste a uno spettacolo di flamenco a Jerez'
 ---
 
 ## Cosa vedrai

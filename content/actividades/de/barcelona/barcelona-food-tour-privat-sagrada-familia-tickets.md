@@ -87,27 +87,29 @@ keywords:
 - sagrada familia tickets mit tapas tour
 - barcelona kulinarische führung
 - barcelona food tour deutsch
-imagen: https://imgcdn.bokun.tools/4385db49-227b-4a9f-bb3b-3112f8a907f8.jpg
-imagenAlt: Pan con tomate und Bravas mit Getränken in einer Taverne
+imagen: /images/actividades/barcelona/boqueria/mercat-boqueria-people-shop-vibrant-market-hero.webp
+imagenAlt: 'Eingang des Boqueria-Markts'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: https://imgcdn.bokun.tools/4385db49-227b-4a9f-bb3b-3112f8a907f8.jpg
+  alt: 'Pan con tomate und Bravas mit Getränken in einer Taverne'
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
-  alt: Fassade der Sagrada Família mit ihren Türmen in Barcelona
+  alt: 'Fassade der Sagrada Família mit ihren Türmen in Barcelona'
 - src: https://imgcdn.bokun.tools/478bc5f6-7a31-43c2-b37a-330bab47c729.jpg
-  alt: Reisende machen ein Selfie vor der Sagrada Família
+  alt: 'Reisende machen ein Selfie vor der Sagrada Família'
 - src: https://imgcdn.bokun.tools/99947dfe-05cc-46ba-ac2f-1c5ce4e793ea.jpg
-  alt: Tisch mit Pan con tomate, Bravas und Pimientos de Padrón
+  alt: 'Tisch mit Pan con tomate, Bravas und Pimientos de Padrón'
 - src: https://imgcdn.bokun.tools/01b6ef2c-89d4-4599-b8e1-7a4ad0d29529.jpg
-  alt: Bunte Glasfenster im Inneren der Sagrada Família
+  alt: 'Bunte Glasfenster im Inneren der Sagrada Família'
 - src: https://imgcdn.bokun.tools/2a692141-da88-4786-8bdc-2219b99aa845.jpg
-  alt: Mädchen probiert Churros mit Schokolade
+  alt: 'Mädchen probiert Churros mit Schokolade'
 - src: https://imgcdn.bokun.tools/5edf9226-25a1-47ee-9558-742fa9897c68.jpg
-  alt: Pintxos auf einer Bartheke
+  alt: 'Pintxos auf einer Bartheke'
 - src: https://imgcdn.bokun.tools/8b02e2fe-f302-4942-b545-8894147e32c2.jpg
-  alt: Türme der Sagrada Família vor blauem Himmel
+  alt: 'Türme der Sagrada Família vor blauem Himmel'
 bokunProductId: 217558
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -82,21 +82,19 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/bilbao/guggenheim/fbi-puppy-museo.webp
-imagenAlt: "Puppy, le chien fleuri, devant l'entrée du musée Guggenheim Bilbao"
+imagen: /images/actividades/bilbao/guggenheim/fbi-guggenheim-fachada-norte.webp
+imagenAlt: 'Façade nord du musée Guggenheim Bilbao et son atrium vitré'
 galeria:
-- src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-fachada-norte.webp
-  alt: "Façade nord du musée Guggenheim Bilbao et son atrium vitré"
 - src: /images/actividades/bilbao/guggenheim/guggenheim-ria.webp
-  alt: "Le Guggenheim et la tour Iberdrola au bord de la ría"
+  alt: 'Le Guggenheim et la tour Iberdrola au bord de la ría'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-titanio-detalle.webp
-  alt: "Détail des courbes en titane de la façade du Guggenheim"
+  alt: 'Détail des courbes en titane de la façade du Guggenheim'
 - src: /images/actividades/bilbao/guggenheim/maman-puente.webp
-  alt: "Le Guggenheim et le pont de La Salve depuis la ría"
+  alt: 'Le Guggenheim et le pont de La Salve depuis la ría'
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-iberdrola.webp
-  alt: "Le Guggenheim et la tour Iberdrola au bord de la ría de Bilbao"
+  alt: 'Le Guggenheim et la tour Iberdrola au bord de la ría de Bilbao'
 - src: /images/actividades/bilbao/guggenheim/guggenheim-panoramica.webp
-  alt: "Vue du musée Guggenheim Bilbao depuis la ría"
+  alt: 'Vue du musée Guggenheim Bilbao depuis la ría'
 ---
 
 ## Ce que vous verrez

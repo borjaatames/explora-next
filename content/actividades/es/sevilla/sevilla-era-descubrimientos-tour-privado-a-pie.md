@@ -72,25 +72,25 @@ keywords:
 - sevilla puerto de indias visita guiada
 - tour magallanes sevilla
 - sevilla y america tour privado
-imagen: https://imgcdn.bokun.tools/2ac9cb53-6f46-420d-aea7-e07412f18ec1.jpg
-imagenAlt: El Guadalquivir y la orilla de Triana
+imagen: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
+imagenAlt: 'Orilla del Guadalquivir con la Torre del Oro al fondo'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
-  alt: Torre del Oro junto al Guadalquivir
+  alt: 'Torre del Oro junto al Guadalquivir'
 - src: /images/actividades/sevilla/archivo-indias/archivo-indias-sevilla-001-hero.webp
-  alt: Archivo General de Indias
+  alt: 'Archivo General de Indias'
 - src: https://imgcdn.bokun.tools/1ae2bfac-5c64-4be0-9710-d18b2d39f969.jpg
-  alt: La Torre del Oro junto al río
+  alt: 'La Torre del Oro junto al río'
 - src: /images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp
-  alt: Casas de colores de Triana junto al río Guadalquivir
+  alt: 'Casas de colores de Triana junto al río Guadalquivir'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp
-  alt: Catedral de Sevilla con la Giralda al atardecer
-- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
-  alt: Orilla del Guadalquivir con la Torre del Oro al fondo
+  alt: 'Catedral de Sevilla con la Giralda al atardecer'
+- src: https://imgcdn.bokun.tools/2ac9cb53-6f46-420d-aea7-e07412f18ec1.jpg
+  alt: 'El Guadalquivir y la orilla de Triana'
 bokunProductId: 1156777
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -77,8 +77,8 @@ keywords:
 - flamenco malaga altstadt
 - flamenco show malaga tickets
 - flamenco malaga zentrum
-imagen: /images/actividades/malaga/flamenco/bailaora-luz-escenario.webp
-imagenAlt: 'Flamencotänzerin auf der Bühne mit Lichtspuren'
+imagen: /images/actividades/malaga/fotos-biblioteca/flamenco-wikimedia-01.webp
+imagenAlt: 'Live-Flamenco-Show'
 galeria:
 - src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
   alt: 'Flamencogitarrist auf der Bühne'

@@ -63,25 +63,27 @@ keywords:
 - ronda from marbella
 - private ronda day trip marbella
 - ronda tour from marbella
-imagen: https://imgcdn.bokun.tools/4ac9a1fa-7677-4413-956f-82de56bff591.jpg
-imagenAlt: Ronda’s Puente Nuevo over the gorge
+imagen: /images/actividades/granada/ronda/ronda-pixabay-3372201.webp
+imagenAlt: 'Ronda''s Puente Nuevo spanning the Tajo gorge'
 galeria:
+- src: https://imgcdn.bokun.tools/4ac9a1fa-7677-4413-956f-82de56bff591.jpg
+  alt: 'Ronda’s Puente Nuevo over the gorge'
 - src: https://imgcdn.bokun.tools/5cc326b6-453f-4f97-8307-451eaa6ff7ae.jpg
-  alt: Travellers with the Ronda gorge behind
+  alt: 'Travellers with the Ronda gorge behind'
 - src: https://imgcdn.bokun.tools/5fed2530-1445-4f2e-8460-55bc0ed068ca.jpg
-  alt: View of Ronda on the cliff edge
+  alt: 'View of Ronda on the cliff edge'
 - src: https://imgcdn.bokun.tools/4e4b8378-8731-471d-be1c-cfeb514bfa39.jpg
-  alt: Puente Nuevo seen from below
+  alt: 'Puente Nuevo seen from below'
 - src: https://imgcdn.bokun.tools/a26ecaf4-98be-4e81-960b-fc067516bf8e.jpg
-  alt: Walls of the Ronda gorge
+  alt: 'Walls of the Ronda gorge'
 - src: https://imgcdn.bokun.tools/7e782afa-d06b-4996-bb9c-24d841c7ee70.jpg
-  alt: Gate of the Ronda bullring
+  alt: 'Gate of the Ronda bullring'
 - src: https://imgcdn.bokun.tools/8cb39e6a-cb94-4a18-8f3d-bd1aa4df4403.jpg
-  alt: Path below the Ronda gorge
+  alt: 'Path below the Ronda gorge'
 - src: https://imgcdn.bokun.tools/a1af50b5-37fa-4fbb-bb60-215c6038d307.jpg
-  alt: Viewpoint over the Ronda mountains
+  alt: 'Viewpoint over the Ronda mountains'
 - src: https://imgcdn.bokun.tools/76e5989a-2dc9-4c6d-aa20-c078d8f29a6d.jpg
-  alt: Group at a Ronda viewpoint
+  alt: 'Group at a Ronda viewpoint'
 publicada: true
 indexar: false
 destacada: false

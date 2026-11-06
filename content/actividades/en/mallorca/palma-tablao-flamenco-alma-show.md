@@ -75,23 +75,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
-imagenAlt: "Flamenco dancer in motion on a dimly lit stage (illustrative image)"
+imagen: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+imagenAlt: 'Flamenco dancer with a shawl and a guitarist during a show'
 galeria:
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-noche.webp
-  alt: "Palma Cathedral lit up at night"
+  alt: 'Palma Cathedral lit up at night'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: "A flamenco dancer's hands with castanets"
+  alt: 'A flamenco dancer''s hands with castanets'
 - src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
-  alt: "Palma seafront promenade at sunset"
+  alt: 'Palma seafront promenade at sunset'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-  alt: "A dancer twirling on stage (illustrative image)"
+  alt: 'A dancer twirling on stage (illustrative image)'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
-  alt: "Palma Cathedral under a pink sunset sky"
-- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-  alt: "Flamenco dancer with a shawl and a guitarist during a show"
+  alt: 'Palma Cathedral under a pink sunset sky'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
-  alt: "Flamenco dancer in black and white"
+  alt: 'Flamenco dancer in black and white'
 ---
 
 ## What you will see

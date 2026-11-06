@@ -83,19 +83,17 @@ keywords:
 - papagayo snorkelling
 - lanzarote snorkel
 - papagayo beach
-imagen: /images/actividades/lanzarote/kayak-papagayo.webp
-imagenAlt: Kayaks on the turquoise water of Papagayo bay
+imagen: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
+imagenAlt: 'Golden sand and calm water on a Papagayo beach'
 galeria:
-- src: /images/actividades/lanzarote/zonas/papagayo-playa-dorada.webp
-  alt: Golden sand and calm water on a Papagayo beach
 - src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
-  alt: A Papagayo cove with turquoise water and volcanic rocks
+  alt: 'A Papagayo cove with turquoise water and volcanic rocks'
 - src: /images/actividades/lanzarote/zonas/papagayo-acantilado.webp
-  alt: Cliff and beach at Papagayo, in Los Ajaches
+  alt: 'Cliff and beach at Papagayo, in Los Ajaches'
 - src: /images/actividades/lanzarote/zonas/papagayo-orilla.webp
-  alt: Shoreline of a Papagayo beach with cliffs behind
+  alt: 'Shoreline of a Papagayo beach with cliffs behind'
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
-  alt: The beach at Playa Blanca, in southern Lanzarote
+  alt: 'The beach at Playa Blanca, in southern Lanzarote'
 ratingProveedor: 4.7
 numeroOpiniones: 162
 atraccionesRelacionadas:

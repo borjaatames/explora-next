@@ -113,23 +113,21 @@ keywords:
 - river boat tour seville
 - guadalquivir cruise drink included
 - seville boat torre del oro
-imagen: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-imagenAlt: Triana Bridge over the Guadalquivir at sunset
+imagen: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp
+imagenAlt: 'Tour boats on the Guadalquivir at sunset'
 galeria:
 - src: /images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp
-  alt: Torre del Oro by the Guadalquivir
+  alt: 'Torre del Oro by the Guadalquivir'
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
-  alt: Real Maestranza bullring in Seville
-- src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp
-  alt: Tour boats on the Guadalquivir at sunset
+  alt: 'Real Maestranza bullring in Seville'
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-03.webp
-  alt: Torre del Oro and boats on the Guadalquivir
+  alt: 'Torre del Oro and boats on the Guadalquivir'
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-02.webp
-  alt: Cruise ships moored on the Guadalquivir
+  alt: 'Cruise ships moored on the Guadalquivir'
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp
-  alt: Guadalquivir riverbank with the Torre del Oro in the distance
+  alt: 'Guadalquivir riverbank with the Torre del Oro in the distance'
 - src: /images/actividades/sevilla/tablao-flamenco-el-arenal-sevilla-50-anos/tablao-flamenco-el-arenal-sevilla-50-anos-maestranza-plaza-t-hero.webp
-  alt: Aerial view of the Maestranza bullring
+  alt: 'Aerial view of the Maestranza bullring'
 ratingProveedor: 4.7
 numeroOpiniones: 1746
 guiasRelacionadas:

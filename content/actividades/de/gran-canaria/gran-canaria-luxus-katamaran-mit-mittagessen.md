@@ -89,23 +89,25 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
-imagenAlt: "Bug eines Katamarans über klarem Wasser"
+imagen: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
+imagenAlt: 'Boote vor der Küste von Gran Canaria'
 galeria:
+- src: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
+  alt: 'Bug eines Katamarans über klarem Wasser'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: "Der Hafen von Puerto Rico de Gran Canaria, der Abfahrtsort"
+  alt: 'Der Hafen von Puerto Rico de Gran Canaria, der Abfahrtsort'
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
-  alt: "Felsküste im Südwesten von Gran Canaria"
+  alt: 'Felsküste im Südwesten von Gran Canaria'
 - src: /images/actividades/gran-canaria/catamaran/fgc-catamaran-fondeado-aguas-turquesa.webp
-  alt: "Katamaran vor Anker in türkisfarbenem Wasser"
+  alt: 'Katamaran vor Anker in türkisfarbenem Wasser'
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
-  alt: "Felsiger Meeresgrund unter glasklarem Wasser, ideal zum Schnorcheln"
+  alt: 'Felsiger Meeresgrund unter glasklarem Wasser, ideal zum Schnorcheln'
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
-  alt: "Klippen und Häuser an der Küste von Mogán, vom Meer aus gesehen"
+  alt: 'Klippen und Häuser an der Küste von Mogán, vom Meer aus gesehen'
 - src: /images/actividades/gran-canaria/catamaran/fgc-catamaranes-fondeados-orilla.webp
-  alt: "Katamarane vor Anker in türkisfarbenem Wasser nahe der Küste, aus der Luft gesehen"
+  alt: 'Katamarane vor Anker in türkisfarbenem Wasser nahe der Küste, aus der Luft gesehen'
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
-  alt: "Segelboote im Jachthafen"
+  alt: 'Segelboote im Jachthafen'
 ---
 
 ## Was du siehst

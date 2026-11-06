@@ -59,9 +59,11 @@ atraccionesRelacionadas:
 categoria: excursionesDia
 keywords:
 - valencia day trip from madrid
-imagen: https://imgcdn.bokun.tools/c67abb2c-5167-4c80-8a6f-358eb76d0057.jpg
-imagenAlt: 'The Hemisfèric at the City of Arts and Sciences'
+imagen: /images/actividades/valencia/albufera/albufera-cielo-naranja-barca.webp
+imagenAlt: 'Albufera of Valencia at sunset'
 galeria:
+- src: https://imgcdn.bokun.tools/c67abb2c-5167-4c80-8a6f-358eb76d0057.jpg
+  alt: 'The Hemisfèric at the City of Arts and Sciences'
 - src: https://imgcdn.bokun.tools/59109f31-a152-4a45-b223-abe4ab6087d8.jpg
   alt: 'The Oceanogràfic in Valencia'
 - src: https://imgcdn.bokun.tools/fb2fe1c7-7d8c-409d-b9c6-c69007fb40c3.jpg

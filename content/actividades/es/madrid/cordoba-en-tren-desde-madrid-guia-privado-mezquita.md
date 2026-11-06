@@ -61,9 +61,11 @@ categoria: excursionesDia
 keywords:
 - cordoba en tren desde madrid con guia
 - excursion cordoba desde madrid privada
-imagen: https://imgcdn.bokun.tools/594c13a5-8dc6-4b0b-91b0-163c5f35c35c.jpg
-imagenAlt: 'Visitantes con el guía entre los arcos de la Mezquita de Córdoba'
+imagen: /images/actividades/cordoba/alcazar/fvc-jardines-torres-alcazar.webp
+imagenAlt: 'Alcázar de los Reyes Cristianos de Córdoba'
 galeria:
+- src: https://imgcdn.bokun.tools/594c13a5-8dc6-4b0b-91b0-163c5f35c35c.jpg
+  alt: 'Visitantes con el guía entre los arcos de la Mezquita de Córdoba'
 - src: https://imgcdn.bokun.tools/c4d1b376-b734-4779-b9fd-cbdfcd136d8a.jpg
   alt: 'Arcos bicolores de la Mezquita-Catedral'
 - src: https://imgcdn.bokun.tools/3bdb809e-1309-46db-8997-949393786474.jpg

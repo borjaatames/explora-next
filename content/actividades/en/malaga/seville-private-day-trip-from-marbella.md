@@ -60,25 +60,27 @@ keywords:
 - seville from marbella
 - private day trip seville from marbella
 - seville tour from marbella
-imagen: https://imgcdn.bokun.tools/53a148ff-3e78-4929-b5d7-d62370425da0.jpg
-imagenAlt: Visitors with the guide at Plaza de España in Seville
+imagen: /images/actividades/sevilla/alcazar-extra/banos-dona-maria-padilla.webp
+imagenAlt: 'Baths of Doña María de Padilla in the Royal Alcázar of Seville'
 galeria:
+- src: https://imgcdn.bokun.tools/53a148ff-3e78-4929-b5d7-d62370425da0.jpg
+  alt: 'Visitors with the guide at Plaza de España in Seville'
 - src: https://imgcdn.bokun.tools/46baf700-6a88-4367-b16b-c4f4001bac0c.jpg
-  alt: Torre del Oro among palm trees
+  alt: 'Torre del Oro among palm trees'
 - src: https://imgcdn.bokun.tools/3d654ca5-dba4-4c64-902b-086506098bc9.jpg
-  alt: Wall and tower in central Seville
+  alt: 'Wall and tower in central Seville'
 - src: https://imgcdn.bokun.tools/6d676159-d94f-41fb-80e6-84bb3057e87a.jpg
-  alt: Walking with the guide through Santa Cruz
+  alt: 'Walking with the guide through Santa Cruz'
 - src: https://imgcdn.bokun.tools/32d3c9bb-90e7-40b8-88bc-979d4ed96453.jpg
-  alt: Aerial view of the Maestranza bullring
+  alt: 'Aerial view of the Maestranza bullring'
 - src: https://imgcdn.bokun.tools/dc8e7f03-d78a-45bf-a051-8f108774e73a.jpg
-  alt: The Guadalquivir river in Seville
+  alt: 'The Guadalquivir river in Seville'
 - src: https://imgcdn.bokun.tools/69f49892-da21-4c1a-9252-45e93e8d2383.jpg
-  alt: The Giralda seen from a courtyard
+  alt: 'The Giralda seen from a courtyard'
 - src: https://imgcdn.bokun.tools/901cd287-e74a-455c-8916-9fa12e3a3b1f.jpg
-  alt: The Setas de Sevilla
+  alt: 'The Setas de Sevilla'
 - src: https://imgcdn.bokun.tools/282a4896-4235-4056-87f7-d79160b9bef9.jpg
-  alt: Group during the Seville tour
+  alt: 'Group during the Seville tour'
 publicada: true
 indexar: false
 destacada: false

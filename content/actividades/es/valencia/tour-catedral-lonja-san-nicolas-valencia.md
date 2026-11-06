@@ -82,27 +82,27 @@ keywords:
 - visita guiada valencia catedral lonja
 - tour lonja de la seda
 - san nicolas valencia visita
-imagen: /images/actividades/valencia/centro/lonja-fachada.webp
-imagenAlt: Fachada gótica de la Lonja de la Seda
+imagen: /images/actividades/valencia/centro/catedral-puerta.webp
+imagenAlt: 'Puerta de la catedral de Valencia en la plaza de la Virgen'
 galeria:
 - src: /images/actividades/valencia/centro/san-nicolas-altar-frescos.webp
-  alt: Altar mayor y bóvedas pintadas de la iglesia de San Nicolás de Valencia
+  alt: 'Altar mayor y bóvedas pintadas de la iglesia de San Nicolás de Valencia'
 - src: /images/actividades/valencia/centro/torres-serranos.webp
-  alt: Torres de Serranos
+  alt: 'Torres de Serranos'
 - src: /images/actividades/valencia/centro/san-nicolas-boveda.webp
-  alt: Bóveda con frescos barrocos de la iglesia de San Nicolás
+  alt: 'Bóveda con frescos barrocos de la iglesia de San Nicolás'
 - src: /images/actividades/valencia/centro/lonja-naranjos.webp
-  alt: Patio de los naranjos de la Lonja
+  alt: 'Patio de los naranjos de la Lonja'
 - src: /images/actividades/valencia/centro/catedral-nave-central.webp
-  alt: Nave central de la catedral de Valencia
+  alt: 'Nave central de la catedral de Valencia'
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
-  alt: Plaza de la Virgen con la basílica y la catedral
+  alt: 'Plaza de la Virgen con la basílica y la catedral'
 - src: /images/actividades/valencia/centro/plaza-reina-micalet.webp
-  alt: Plaza de la Reina con el Micalet y la catedral de Valencia
-- src: /images/actividades/valencia/centro/catedral-puerta.webp
-  alt: Puerta de la catedral de Valencia en la plaza de la Virgen
+  alt: 'Plaza de la Reina con el Micalet y la catedral de Valencia'
+- src: /images/actividades/valencia/centro/lonja-fachada.webp
+  alt: 'Fachada gótica de la Lonja de la Seda'
 - src: /images/actividades/valencia/centro/micalet-naranjos.webp
-  alt: El Micalet entre naranjos
+  alt: 'El Micalet entre naranjos'
 ratingProveedor: 4.8
 numeroOpiniones: 1243
 atraccionesRelacionadas:

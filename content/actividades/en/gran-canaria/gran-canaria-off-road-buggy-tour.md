@@ -81,27 +81,29 @@ keywords:
 - maspalomas buggy tour
 - off road gran canaria
 - fataga ravine
-imagen: /images/actividades/lanzarote/buggy-volcanes.webp
-imagenAlt: Buggy on a dirt track among volcanic mountains
+imagen: /images/actividades/gran-canaria/fotos-biblioteca/wikimedia-03.webp
+imagenAlt: 'Buggy on a dirt track'
 galeria:
+- src: /images/actividades/lanzarote/buggy-volcanes.webp
+  alt: 'Buggy on a dirt track among volcanic mountains'
 - src: /images/actividades/fuerteventura/buggy-corralejo.webp
-  alt: Buggy driving along a dirt track in an arid landscape
+  alt: 'Buggy driving along a dirt track in an arid landscape'
 - src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-  alt: The Fataga ravine in southern Gran Canaria
+  alt: 'The Fataga ravine in southern Gran Canaria'
 - src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
-  alt: "Winding road through a ravine in southern Gran Canaria"
+  alt: 'Winding road through a ravine in southern Gran Canaria'
 - src: /images/actividades/gran-canaria/buggy/valle-ayagaures.webp
-  alt: The Ayagaures valley
+  alt: 'The Ayagaures valley'
 - src: /images/actividades/gran-canaria/buggy/presa-ayagaures.webp
-  alt: The Ayagaures reservoir
+  alt: 'The Ayagaures reservoir'
 - src: /images/actividades/gran-canaria/buggy/fataga-pistas.webp
-  alt: Tracks and slopes of the Fataga ravine
+  alt: 'Tracks and slopes of the Fataga ravine'
 - src: /images/actividades/gran-canaria/buggy/pueblo-fataga.webp
-  alt: The village of Fataga
+  alt: 'The village of Fataga'
 - src: /images/actividades/gran-canaria/buggy/fataga-canon.webp
-  alt: The walls of the Fataga ravine
+  alt: 'The walls of the Fataga ravine'
 - src: /images/actividades/gran-canaria/buggy/fataga-montanas.webp
-  alt: Mountains of the Fataga ravine
+  alt: 'Mountains of the Fataga ravine'
 ratingProveedor: 4.8
 numeroOpiniones: 3728
 atraccionesRelacionadas:

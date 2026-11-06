@@ -62,9 +62,11 @@ atraccionesRelacionadas:
 categoria: excursionesDia
 keywords:
 - avila segovia toledo private tour
-imagen: https://imgcdn.bokun.tools/921c9b9f-86e7-4035-a502-91eb84cd97b2.jpg
-imagenAlt: 'Toledo rooftops with the cathedral behind'
+imagen: /images/actividades/avila/avila/avila-panoramica-hero.webp
+imagenAlt: 'Walls of Ávila'
 galeria:
+- src: https://imgcdn.bokun.tools/921c9b9f-86e7-4035-a502-91eb84cd97b2.jpg
+  alt: 'Toledo rooftops with the cathedral behind'
 - src: https://imgcdn.bokun.tools/376eaafe-ebe6-413e-ab2c-6ef64633b178.jpg
   alt: 'Segovia and its Alcázar seen from the valley'
 - src: https://imgcdn.bokun.tools/1c64ff52-f72b-4746-b79b-2085a150a8ee.jpg

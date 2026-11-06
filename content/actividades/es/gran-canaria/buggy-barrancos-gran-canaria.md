@@ -81,27 +81,29 @@ keywords:
 - excursion buggy maspalomas
 - off road gran canaria
 - barranco de fataga
-imagen: /images/actividades/lanzarote/buggy-volcanes.webp
-imagenAlt: Buggy por una pista de tierra entre montañas volcánicas
+imagen: /images/actividades/gran-canaria/fotos-biblioteca/wikimedia-03.webp
+imagenAlt: 'Buggy por un camino de tierra'
 galeria:
+- src: /images/actividades/lanzarote/buggy-volcanes.webp
+  alt: 'Buggy por una pista de tierra entre montañas volcánicas'
 - src: /images/actividades/fuerteventura/buggy-corralejo.webp
-  alt: Buggy recorriendo una pista de tierra en un paisaje árido
+  alt: 'Buggy recorriendo una pista de tierra en un paisaje árido'
 - src: /images/actividades/gran-canaria/buggy/barranco-fataga.webp
-  alt: Barranco de Fataga, en el sur de Gran Canaria
+  alt: 'Barranco de Fataga, en el sur de Gran Canaria'
 - src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
-  alt: Carretera sinuosa atravesando un barranco en el sur de Gran Canaria
+  alt: 'Carretera sinuosa atravesando un barranco en el sur de Gran Canaria'
 - src: /images/actividades/gran-canaria/buggy/valle-ayagaures.webp
-  alt: Valle de Ayagaures
+  alt: 'Valle de Ayagaures'
 - src: /images/actividades/gran-canaria/buggy/presa-ayagaures.webp
-  alt: Presa de Ayagaures
+  alt: 'Presa de Ayagaures'
 - src: /images/actividades/gran-canaria/buggy/fataga-pistas.webp
-  alt: Pistas y laderas del barranco de Fataga
+  alt: 'Pistas y laderas del barranco de Fataga'
 - src: /images/actividades/gran-canaria/buggy/pueblo-fataga.webp
-  alt: El pueblo de Fataga
+  alt: 'El pueblo de Fataga'
 - src: /images/actividades/gran-canaria/buggy/fataga-canon.webp
-  alt: Paredes del barranco de Fataga
+  alt: 'Paredes del barranco de Fataga'
 - src: /images/actividades/gran-canaria/buggy/fataga-montanas.webp
-  alt: Montañas del barranco de Fataga
+  alt: 'Montañas del barranco de Fataga'
 ratingProveedor: 4.8
 numeroOpiniones: 3728
 atraccionesRelacionadas:

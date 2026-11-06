@@ -79,23 +79,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/ibiza/formentera/fi1-bicis-junto-dunas.webp
-imagenAlt: "Bicicletas de colores aparcadas junto a una valla de playa"
+imagen: /images/actividades/alicante/centro/explanada-palmeras.webp
+imagenAlt: 'Explanada de España con palmeras'
 galeria:
 - src: /images/actividades/alicante/centro/santa-cruz.webp
-  alt: "Barrio de Santa Cruz, en el casco antiguo de Alicante"
-- src: /images/actividades/alicante/centro/explanada-palmeras.webp
-  alt: "Explanada de España con palmeras"
+  alt: 'Barrio de Santa Cruz, en el casco antiguo de Alicante'
 - src: /images/actividades/alicante/costa/postiguet-castillo.webp
-  alt: "Playa del Postiguet con el castillo de Santa Bárbara al fondo"
+  alt: 'Playa del Postiguet con el castillo de Santa Bárbara al fondo'
 - src: /images/actividades/alicante/fal-bici/fal-bicicletas-pasarela-playa.webp
-  alt: "Bicicletas aparcadas en una pasarela de madera junto a la playa"
+  alt: 'Bicicletas aparcadas en una pasarela de madera junto a la playa'
 - src: /images/actividades/alicante/centro/vista-puerto.webp
-  alt: "Puerto de Alicante visto desde el castillo"
+  alt: 'Puerto de Alicante visto desde el castillo'
 - src: /images/actividades/alicante/centro/santa-maria.webp
-  alt: "Basílica de Santa María de Alicante"
+  alt: 'Basílica de Santa María de Alicante'
 - src: /images/actividades/alicante/paella/mercado-palmeras.webp
-  alt: "Fachada del Mercado Central de Alicante"
+  alt: 'Fachada del Mercado Central de Alicante'
 ---
 
 ## Qué vas a ver

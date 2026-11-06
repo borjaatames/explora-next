@@ -71,8 +71,8 @@ keywords:
 - visita guiada madrid em português
 - madrid centro histórico tour
 - tour plaza mayor madrid
-imagen: /images/actividades/madrid/centro-historico-tour/plaza-mayor-felipe-iii-visitantes.webp
-imagenAlt: 'Visitantes na Plaza Mayor junto à estátua de Filipe III'
+imagen: /images/actividades/madrid/centro-historico-tour/plaza-mayor-anochecer.webp
+imagenAlt: 'Plaza Mayor ao anoitecer'
 galeria:
 - src: /images/actividades/madrid/centro-historico-tour/calle-madrid-austrias.webp
   alt: 'Rua da Madrid dos Habsburgos'
@@ -82,8 +82,6 @@ galeria:
   alt: 'Rua do centro de Madrid ao entardecer'
 - src: /images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero-card.webp
   alt: 'Catedral da Almudena'
-- src: /images/actividades/madrid/centro-historico-tour/plaza-mayor-anochecer.webp
-  alt: 'Plaza Mayor ao anoitecer'
 ratingProveedor: 4.9
 numeroOpiniones: 2441
 publicada: true

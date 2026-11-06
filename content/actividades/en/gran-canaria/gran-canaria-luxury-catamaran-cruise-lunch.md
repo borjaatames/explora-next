@@ -89,23 +89,25 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
-imagenAlt: "Bow of a catamaran over clear water"
+imagen: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
+imagenAlt: 'Boats off the coast of Gran Canaria'
 galeria:
+- src: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
+  alt: 'Bow of a catamaran over clear water'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: "The harbour of Puerto Rico de Gran Canaria, the departure point"
+  alt: 'The harbour of Puerto Rico de Gran Canaria, the departure point'
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
-  alt: "Rocky coastline in south-west Gran Canaria"
+  alt: 'Rocky coastline in south-west Gran Canaria'
 - src: /images/actividades/gran-canaria/catamaran/fgc-catamaran-fondeado-aguas-turquesa.webp
-  alt: "Catamaran at anchor in turquoise water"
+  alt: 'Catamaran at anchor in turquoise water'
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
-  alt: "Rocky seabed under crystal-clear water, ideal for snorkelling"
+  alt: 'Rocky seabed under crystal-clear water, ideal for snorkelling'
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
-  alt: "Cliffs and houses on the Mogán coast seen from the sea"
+  alt: 'Cliffs and houses on the Mogán coast seen from the sea'
 - src: /images/actividades/gran-canaria/catamaran/fgc-catamaranes-fondeados-orilla.webp
-  alt: "Aerial view of catamarans anchored in turquoise water near the shore"
+  alt: 'Aerial view of catamarans anchored in turquoise water near the shore'
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
-  alt: "Sailing boats moored in a marina"
+  alt: 'Sailing boats moored in a marina'
 ---
 
 ## What you will see

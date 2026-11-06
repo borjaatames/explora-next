@@ -61,19 +61,21 @@ keywords:
 - caminito del rey from marbella
 - caminito del rey private transfer marbella
 - caminito del rey tour marbella
-imagen: https://imgcdn.bokun.tools/cfc3e1ab-2a3f-4354-bf9c-776129397d44.jpg
-imagenAlt: Caminito del Rey walkways in the gorge
+imagen: /images/actividades/granada/caminito-del-rey/caminito-del-rey-pexels-17943929.webp
+imagenAlt: 'Walkway and suspension bridge on the Caminito del Rey'
 galeria:
+- src: https://imgcdn.bokun.tools/cfc3e1ab-2a3f-4354-bf9c-776129397d44.jpg
+  alt: 'Caminito del Rey walkways in the gorge'
 - src: https://imgcdn.bokun.tools/e8edd8b1-0d1e-45a5-b1a0-fe510ad7fa7e.jpg
-  alt: Travellers in helmets on the Caminito del Rey
+  alt: 'Travellers in helmets on the Caminito del Rey'
 - src: https://imgcdn.bokun.tools/afbf6485-e023-4bb5-b8d8-ae7b5633a60e.jpg
-  alt: Start of the Caminito route
+  alt: 'Start of the Caminito route'
 - src: https://imgcdn.bokun.tools/7b4ac256-133f-45ac-81ee-0fef08ae0698.jpg
-  alt: Walls of the Gaitanes gorge
+  alt: 'Walls of the Gaitanes gorge'
 - src: https://imgcdn.bokun.tools/bc1783a2-e14b-49cf-98fe-abb3ad5104e1.jpg
-  alt: Caminito del Rey hanging bridge
+  alt: 'Caminito del Rey hanging bridge'
 - src: https://imgcdn.bokun.tools/e928eff2-cdad-43c4-b9ed-3e90614a6405.jpg
-  alt: View of the gorge from the walkways
+  alt: 'View of the gorge from the walkways'
 publicada: true
 indexar: false
 destacada: false

@@ -86,23 +86,21 @@ keywords:
 - masca hike
 - masca gorge boat
 - los gigantes boat
-imagen: /images/actividades/tenerife/masca/barranco-masca-paredes.webp
-imagenAlt: The walls of the Masca gorge
+imagen: /images/actividades/tenerife/masca/masca-teno.webp
+imagenAlt: 'Masca in the Teno massif'
 galeria:
-- src: /images/actividades/tenerife/masca/masca-teno.webp
-  alt: Masca in the Teno massif
 - src: /images/actividades/tenerife/masca/barranco-masca-sendero.webp
-  alt: Inside the Masca gorge
+  alt: 'Inside the Masca gorge'
 - src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-  alt: The Los Gigantes cliffs
+  alt: 'The Los Gigantes cliffs'
 - src: /images/actividades/tenerife/masca/barranco-masca-atardecer.webp
-  alt: The Masca gorge at sunset
+  alt: 'The Masca gorge at sunset'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-  alt: The Los Gigantes cliffs from the coast
+  alt: 'The Los Gigantes cliffs from the coast'
 - src: /images/actividades/tenerife/masca/barranco-masca-luz.webp
-  alt: Evening light in the Masca gorge
+  alt: 'Evening light in the Masca gorge'
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
-  alt: The Los Gigantes coast
+  alt: 'The Los Gigantes coast'
 ratingProveedor: 4.7
 numeroOpiniones: 374
 atraccionesRelacionadas:

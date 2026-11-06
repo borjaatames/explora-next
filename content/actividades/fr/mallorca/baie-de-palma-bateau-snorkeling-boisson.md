@@ -87,23 +87,21 @@ indexar: false
 destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'
-imagen: /images/actividades/mallorca/fma-palma/catedral-palma-desde-mar.webp
-imagenAlt: "La cathédrale de Palma vue de la mer"
+imagen: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
+imagenAlt: 'Bateau au mouillage entouré de baigneurs'
 galeria:
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-fondeado-agua-turquesa.webp
-  alt: "Catamaran au mouillage dans une eau turquoise, vue aérienne"
+  alt: 'Catamaran au mouillage dans une eau turquoise, vue aérienne'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
-  alt: "Personne faisant du snorkeling au-dessus de fonds rocheux"
+  alt: 'Personne faisant du snorkeling au-dessus de fonds rocheux'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-mar-abierto.webp
-  alt: "Catamaran naviguant en pleine mer, vue aérienne"
-- src: /images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp
-  alt: "Bateau au mouillage entouré de baigneurs"
+  alt: 'Catamaran naviguant en pleine mer, vue aérienne'
 - src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
-  alt: "La cathédrale de Palma au-dessus des remparts"
+  alt: 'La cathédrale de Palma au-dessus des remparts'
 - src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
-  alt: "Fonds marins rocheux sous une eau cristalline"
+  alt: 'Fonds marins rocheux sous une eau cristalline'
 - src: /images/actividades/mallorca/fma-barco-bahia/catamaran-lancha-agua-verde.webp
-  alt: "Catamaran et annexe sur une eau vert turquoise"
+  alt: 'Catamaran et annexe sur une eau vert turquoise'
 avisoReserva: "Activité saisonnière : les prochaines dates disponibles commencent en mars 2027. La fiche du prestataire n'indique pas les langues de l'équipage ; ne comptez pas sur des explications en français."
 ---
 

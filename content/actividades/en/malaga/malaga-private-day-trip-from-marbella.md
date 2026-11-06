@@ -63,21 +63,23 @@ keywords:
 - malaga from marbella
 - private malaga day trip marbella
 - malaga tour from marbella
-imagen: https://imgcdn.bokun.tools/bd852110-5352-4a20-9ef3-e4b2e772b456.jpg
-imagenAlt: Málaga sign with the Alcazaba behind
+imagen: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
+imagenAlt: 'Alcazaba and Gibralfaro in Málaga'
 galeria:
+- src: https://imgcdn.bokun.tools/bd852110-5352-4a20-9ef3-e4b2e772b456.jpg
+  alt: 'Málaga sign with the Alcazaba behind'
 - src: https://imgcdn.bokun.tools/9947f45c-0ed1-42b5-b868-9aa4a500029e.jpg
-  alt: Málaga port from above
+  alt: 'Málaga port from above'
 - src: https://imgcdn.bokun.tools/364043c2-6dfc-4625-a4d4-873335a9ece0.jpg
-  alt: Walking with the guide in central Málaga
+  alt: 'Walking with the guide in central Málaga'
 - src: https://imgcdn.bokun.tools/80c320b8-518a-4d99-9aac-88a5f0807fc6.jpg
-  alt: Sardine skewers (espetos)
+  alt: 'Sardine skewers (espetos)'
 - src: https://imgcdn.bokun.tools/41ed3662-65f9-40df-aa19-165c74caf975.jpg
-  alt: Palm trees on the Paseo del Parque
+  alt: 'Palm trees on the Paseo del Parque'
 - src: https://imgcdn.bokun.tools/1496c946-d7e0-4dd2-a7fd-e19b30437d37.jpg
-  alt: Calle Larios with its awnings
+  alt: 'Calle Larios with its awnings'
 - src: https://imgcdn.bokun.tools/ba960a1e-03fa-46cc-b84d-8d1b5a6dc481.jpg
-  alt: View of Málaga bay
+  alt: 'View of Málaga bay'
 publicada: true
 indexar: false
 destacada: false

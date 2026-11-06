@@ -82,25 +82,27 @@ keywords:
 - tuk tuk séville 2 heures
 - visite tuk tuk séville
 - visite privée séville
-imagen: https://imgcdn.bokun.tools/0ad6f0ff-d878-4b4b-ba5e-3d5fad09d269.png
-imagenAlt: Famille en promenade en tuk-tuk électrique dans Séville
+imagen: /images/actividades/sevilla/fotos-biblioteca/06.webp
+imagenAlt: 'Galerie du Grotesque dans le Real Alcázar de Séville'
 galeria:
+- src: https://imgcdn.bokun.tools/0ad6f0ff-d878-4b4b-ba5e-3d5fad09d269.png
+  alt: 'Famille en promenade en tuk-tuk électrique dans Séville'
 - src: https://imgcdn.bokun.tools/1a40ce30-6ccc-4bdf-8bfe-bef06754265b.jpeg
-  alt: Tuk-tuk devant la basilique de la Macarena
+  alt: 'Tuk-tuk devant la basilique de la Macarena'
 - src: https://imgcdn.bokun.tools/fd805ff9-dc13-4512-9134-7aba2cd79026.png
-  alt: Tuk-tuk électrique devant le palais de San Telmo
+  alt: 'Tuk-tuk électrique devant le palais de San Telmo'
 - src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-  alt: Le pont de Triana sur le Guadalquivir
+  alt: 'Le pont de Triana sur le Guadalquivir'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
-  alt: La place d’Espagne illuminée la nuit
+  alt: 'La place d’Espagne illuminée la nuit'
 - src: https://imgcdn.bokun.tools/132aa0f1-236e-44f3-9f49-dcb9afc6cd23.png
-  alt: Porte principale de la Maestranza
+  alt: 'Porte principale de la Maestranza'
 - src: https://imgcdn.bokun.tools/fa3608dd-4894-4077-8d27-446b7001fb40.jpeg
-  alt: La Torre del Oro entre les palmiers
+  alt: 'La Torre del Oro entre les palmiers'
 - src: /images/actividades/sevilla/macarena/basilica-macarena-sevilla-exterior-20180719-hero.webp
-  alt: La basilique de la Macarena
+  alt: 'La basilique de la Macarena'
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp
-  alt: Allée arborée du parc de María Luisa
+  alt: 'Allée arborée du parc de María Luisa'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

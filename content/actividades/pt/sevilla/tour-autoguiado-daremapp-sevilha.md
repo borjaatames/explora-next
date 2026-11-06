@@ -66,23 +66,21 @@ keywords:
 - audioguia sevilha
 - app roteiro sevilha
 - o que ver em sevilha
-imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp
-imagenAlt: Barcos a remos no canal da Plaza de España
+imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
+imagenAlt: 'Torre e ponte da Plaza de España'
 galeria:
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp
-  alt: Fachada da Real Maestranza de Sevilha
+  alt: 'Fachada da Real Maestranza de Sevilha'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
-  alt: Fachada da Catedral de Sevilha entre palmeiras
+  alt: 'Fachada da Catedral de Sevilha entre palmeiras'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
-  alt: A Plaza de España refletida no canal
+  alt: 'A Plaza de España refletida no canal'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
-  alt: Las Setas, na Plaza de la Encarnación, a poucos minutos a pé
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
-  alt: Torre e ponte da Plaza de España
+  alt: 'Las Setas, na Plaza de la Encarnación, a poucos minutos a pé'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: Arcadas da Plaza de España com os seus bancos de azulejo
+  alt: 'Arcadas da Plaza de España com os seus bancos de azulejo'
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
-  alt: App DaremApp com a rota autoguiada
+  alt: 'App DaremApp com a rota autoguiada'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -58,9 +58,11 @@ categoria: excursionesDia
 keywords:
 - excursion rioja desde madrid
 - marques de riscal ysios tour
-imagen: https://imgcdn.bokun.tools/30870acc-ec9f-4718-ab3b-449f3372951a.jpg
-imagenAlt: 'El edificio de Frank Gehry en la bodega Marqués de Riscal'
+imagen: /images/actividades/bilbao/rioja-alavesa/fbi-laguardia-laguna-carralogrono.webp
+imagenAlt: 'Laguardia y su paisaje de viñedos en La Rioja'
 galeria:
+- src: https://imgcdn.bokun.tools/30870acc-ec9f-4718-ab3b-449f3372951a.jpg
+  alt: 'El edificio de Frank Gehry en la bodega Marqués de Riscal'
 - src: https://imgcdn.bokun.tools/ef409f50-0769-4536-b11c-575a03cc4143.jpg
   alt: 'Barricas en una bodega de La Rioja'
 - src: https://imgcdn.bokun.tools/c84af8b7-ddb3-4574-9efc-42a08f3ab7df.jpg

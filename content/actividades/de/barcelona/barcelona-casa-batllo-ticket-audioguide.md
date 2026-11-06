@@ -96,23 +96,21 @@ keywords:
 - casa batlló eintritt
 - casa batlló gaudí tour
 - casa batlló offizielles ticket
-imagen: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp
-imagenAlt: Modernistische Fassade der Casa Batlló mit bunten Mosaikfliesen und welligen Wänden in Barcelona
+imagen: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
+imagenAlt: 'Luftaufnahme von Barcelona mit Mittelmeerküste und Sagrada Família'
 galeria:
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-78111992-hero.webp
-  alt: Detail der welligen Fassade der Casa Batlló von Gaudí
+  alt: 'Detail der welligen Fassade der Casa Batlló von Gaudí'
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-5874108-hero.webp
-  alt: Detail der welligen Fassade der Casa Batlló von Gaudí
+  alt: 'Detail der welligen Fassade der Casa Batlló von Gaudí'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
-  alt: Die wellige Fassade der Casa Batlló mit bunten Mosaiken und verzierten Balkonen in Barcelona
+  alt: 'Die wellige Fassade der Casa Batlló mit bunten Mosaiken und verzierten Balkonen in Barcelona'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-window-stained-glass-barcelona-hero-hero.webp
-  alt: Detail eines kunstvollen Buntglasfensters in der Casa Batlló, Gaudís ikonischem modernistischen Gebäude in Barcelona
+  alt: 'Detail eines kunstvollen Buntglasfensters in der Casa Batlló, Gaudís ikonischem modernistischen Gebäude in Barcelona'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero-hero.webp
-  alt: Die charakteristische geschwungene Fassade der Casa Batlló mit bunten Mosaiken im Stadtbild Barcelonas
+  alt: 'Die charakteristische geschwungene Fassade der Casa Batlló mit bunten Mosaiken im Stadtbild Barcelonas'
 - src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
-  alt: Stadtbild von Barcelona mit Architektur des Gotischen Viertels und modernen Gebäuden bei Sonnenuntergang
-- src: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
-  alt: Luftaufnahme von Barcelona mit Mittelmeerküste und Sagrada Família
+  alt: 'Stadtbild von Barcelona mit Architektur des Gotischen Viertels und modernen Gebäuden bei Sonnenuntergang'
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

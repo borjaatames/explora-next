@@ -41,31 +41,31 @@ keywords:
 - cala granadella day trip
 - javea beach from valencia
 - best costa blanca coves
-imagen: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
-imagenAlt: Turquoise water of Cala Granadella in Jávea, Costa Blanca
+imagen: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30681578-hero.webp
+imagenAlt: 'Cala Granadella with boats anchored in turquoise water'
 galeria:
 - src: https://imgcdn.bokun.tools/38071d83-d9f7-49a0-8c7b-bfe0779a8a83.jpeg
-  alt: Turquoise water at Granadella cove
+  alt: 'Turquoise water at Granadella cove'
 - src: https://imgcdn.bokun.tools/bc377360-5250-40c9-ba00-01d5bb5c8697.jpeg
-  alt: Crystal-clear water among rocks at Granadella
+  alt: 'Crystal-clear water among rocks at Granadella'
 - src: https://imgcdn.bokun.tools/667b6ee0-9545-4725-843f-4a317ecdf1f5.jpeg
-  alt: Granadella cove between cliffs
+  alt: 'Granadella cove between cliffs'
 - src: https://imgcdn.bokun.tools/cc31abf8-8a92-4e69-b69f-f377cc2cd803.jpeg
-  alt: Granadella beach with swimmers
+  alt: 'Granadella beach with swimmers'
 - src: https://imgcdn.bokun.tools/39bd3c09-65d9-47b1-a17a-8addee8283b0.jpeg
-  alt: Aerial view of Granadella cove
+  alt: 'Aerial view of Granadella cove'
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-02.webp
-  alt: Aerial view of Cala Granadella, with its beach and the surrounding mountains
+  alt: 'Aerial view of Cala Granadella, with its beach and the surrounding mountains'
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-03.webp
-  alt: Aerial view of the cliffs and the sea at Cala Granadella
+  alt: 'Aerial view of the cliffs and the sea at Cala Granadella'
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-04.webp
-  alt: Crystal-clear waters and rocks on the shore of Cala Granadella
+  alt: 'Crystal-clear waters and rocks on the shore of Cala Granadella'
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-05.webp
-  alt: Cala Granadella with a sailboat anchored and the beach nestled between cliffs
-- src: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30681578-hero.webp
-  alt: Cala Granadella with boats anchored in turquoise water
+  alt: 'Cala Granadella with a sailboat anchored and the beach nestled between cliffs'
+- src: /images/actividades/valencia/cala-granadella/cala-granadella-01.webp
+  alt: 'Turquoise water of Cala Granadella in Jávea, Costa Blanca'
 - src: /images/actividades/valencia/cala-granadella/cala-granadella-pexels-30254033-hero.webp
-  alt: Mediterranean cove with turquoise water on the Costa Blanca
+  alt: 'Mediterranean cove with turquoise water on the Costa Blanca'
 atraccionesRelacionadas:
 - excursiones
 publicada: true

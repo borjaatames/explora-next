@@ -63,19 +63,21 @@ categoria: agua
 keywords:
 - shared sailing ibiza formentera
 - formentera full day sailing trip
-imagen: https://imgcdn.bokun.tools/32afb5c2-0292-43ec-9af3-998810a730f4.jpg
-imagenAlt: "Group sunbathing on a sailboat off Es Vedrà"
+imagen: /images/actividades/ibiza/fotos-biblioteca/pexels-33838897.webp
+imagenAlt: 'Ses Illetes in Formentera with boats at anchor'
 galeria:
+- src: https://imgcdn.bokun.tools/32afb5c2-0292-43ec-9af3-998810a730f4.jpg
+  alt: 'Group sunbathing on a sailboat off Es Vedrà'
 - src: https://imgcdn.bokun.tools/eafbcfe5-25d8-43d6-9dde-33c63431e0db.jpg
-  alt: "Friends with a spread of snacks on board"
+  alt: 'Friends with a spread of snacks on board'
 - src: https://imgcdn.bokun.tools/5fa642ac-c9fc-4585-b836-ea92b569358b.jpg
-  alt: "Group walking along a Formentera beach"
+  alt: 'Group walking along a Formentera beach'
 - src: https://imgcdn.bokun.tools/63d91f9b-c9eb-478a-b865-5ad302dbc20c.jpg
-  alt: "Skipper at the helm of the sailboat"
+  alt: 'Skipper at the helm of the sailboat'
 - src: https://imgcdn.bokun.tools/4454177d-d72c-4f00-9f35-c0e0e1385086.jpg
-  alt: "Group lying on a paddle board in turquoise water"
+  alt: 'Group lying on a paddle board in turquoise water'
 - src: https://imgcdn.bokun.tools/b5ee9b67-8fe3-4bd5-8f22-e1c087c4fd26.jpg
-  alt: "Turquoise waters and islets of Formentera"
+  alt: 'Turquoise waters and islets of Formentera'
 publicada: true
 indexar: false
 destacada: false

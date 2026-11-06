@@ -79,29 +79,31 @@ keywords:
 - tuk tuk séville
 - visite tuk tuk séville
 - visite privée séville
-imagen: https://imgcdn.bokun.tools/ce015720-77e2-4220-b11d-9288116b99bc.png
-imagenAlt: Tuk-tuk électrique avec des passagers devant le palais de San Telmo
+imagen: /images/actividades/sevilla/bici/plaza-espana-canal.webp
+imagenAlt: 'Plaza de España de Séville'
 galeria:
+- src: https://imgcdn.bokun.tools/ce015720-77e2-4220-b11d-9288116b99bc.png
+  alt: 'Tuk-tuk électrique avec des passagers devant le palais de San Telmo'
 - src: https://imgcdn.bokun.tools/8a40af56-7065-4c8c-be9d-7f9f300d3d8d.jpeg
-  alt: Bâtiment central de la place d’Espagne
+  alt: 'Bâtiment central de la place d’Espagne'
 - src: https://imgcdn.bokun.tools/8dc4383a-6294-4723-9a2f-948d4fd71529.jpeg
-  alt: Porte principale des arènes de la Maestranza
+  alt: 'Porte principale des arènes de la Maestranza'
 - src: https://imgcdn.bokun.tools/7e95727a-e074-44fc-a806-5d89ceb2df63.jpeg
-  alt: La Torre del Oro entre les palmiers
+  alt: 'La Torre del Oro entre les palmiers'
 - src: https://imgcdn.bokun.tools/1c608d5a-4f0d-4dfb-9f7c-658afd5b50a3.jpeg
-  alt: Tuk-tuk électrique au bord du Guadalquivir
+  alt: 'Tuk-tuk électrique au bord du Guadalquivir'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
-  alt: La place d’Espagne illuminée la nuit
+  alt: 'La place d’Espagne illuminée la nuit'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
-  alt: Vue d’ensemble de la place d’Espagne de Séville
+  alt: 'Vue d’ensemble de la place d’Espagne de Séville'
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp
-  alt: La Torre del Oro au bord du Guadalquivir
+  alt: 'La Torre del Oro au bord du Guadalquivir'
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp
-  alt: Allée arborée du parc de María Luisa
+  alt: 'Allée arborée du parc de María Luisa'
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa-estanque.webp
-  alt: Bassin entouré de verdure dans le parc de María Luisa
+  alt: 'Bassin entouré de verdure dans le parc de María Luisa'
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
-  alt: Les arènes de la Maestranza à Séville
+  alt: 'Les arènes de la Maestranza à Séville'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

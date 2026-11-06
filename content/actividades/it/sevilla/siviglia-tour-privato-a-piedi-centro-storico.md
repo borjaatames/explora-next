@@ -64,19 +64,21 @@ keywords:
 - tour privato siviglia a piedi
 - guida privata siviglia italiano
 - visita guidata privata siviglia
-imagen: https://imgcdn.bokun.tools/12611639-ad8d-4d74-be30-b71854b01152.jpeg
-imagenAlt: Plaza de España a Siviglia
+imagen: /images/actividades/sevilla/archivo-indias/archivo-indias-wikimedia-sevilla-archivo-general-de-indias-k01-jp-02.webp
+imagenAlt: 'Archivio delle Indie nel centro storico di Siviglia'
 galeria:
+- src: https://imgcdn.bokun.tools/12611639-ad8d-4d74-be30-b71854b01152.jpeg
+  alt: 'Plaza de España a Siviglia'
 - src: https://imgcdn.bokun.tools/468a892f-290c-4cd3-ab2a-0b6298206b43.jpeg
-  alt: Passeggiata con la guida a Siviglia
+  alt: 'Passeggiata con la guida a Siviglia'
 - src: https://imgcdn.bokun.tools/439e9b45-75a5-414a-8ec8-71272720549f.jpeg
-  alt: Dettaglio del centro storico di Siviglia
+  alt: 'Dettaglio del centro storico di Siviglia'
 - src: https://imgcdn.bokun.tools/56c1ecc8-992f-45e3-8e96-d8fccc6bd4e8.jpeg
-  alt: Siviglia durante il tour (foto del fornitore)
+  alt: 'Siviglia durante il tour (foto del fornitore)'
 - src: https://imgcdn.bokun.tools/0e7c5ef1-5001-44fc-8a88-77d2647ded5f.jpeg
-  alt: Siviglia durante il tour (foto del fornitore)
+  alt: 'Siviglia durante il tour (foto del fornitore)'
 - src: https://imgcdn.bokun.tools/33343e87-1674-45e4-bda4-9d3ed0eed3d9.jpeg
-  alt: Siviglia durante il tour (foto del fornitore)
+  alt: 'Siviglia durante il tour (foto del fornitore)'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

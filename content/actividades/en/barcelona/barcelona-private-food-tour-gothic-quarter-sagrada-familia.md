@@ -62,19 +62,21 @@ categoria: toursGastronomicos
 keywords:
 - private food tour barcelona
 - tapas and sagrada familia private tour
-imagen: https://imgcdn.bokun.tools/86fd35e1-8804-4f15-9dca-30b6dcc22635.jpg
-imagenAlt: "Friends taking a selfie near the Sagrada Família"
+imagen: /images/actividades/barcelona/boqueria/mercat-boqueria-entrance-01-hero.webp
+imagenAlt: 'Entrance to La Boqueria Market'
 galeria:
+- src: https://imgcdn.bokun.tools/86fd35e1-8804-4f15-9dca-30b6dcc22635.jpg
+  alt: 'Friends taking a selfie near the Sagrada Família'
 - src: https://imgcdn.bokun.tools/1991cb76-cb07-4388-a0be-fd7006043508.jpg
-  alt: "Woman tasting white wine"
+  alt: 'Woman tasting white wine'
 - src: https://imgcdn.bokun.tools/7e4c9a62-d895-4757-a1bf-01bacc170ba5.jpg
-  alt: "Octopus tapa on a wooden plate"
+  alt: 'Octopus tapa on a wooden plate'
 - src: https://imgcdn.bokun.tools/801a28e1-ce81-48fb-b662-b17deea6d1ff.jpg
-  alt: "Two friends tasting tapas"
+  alt: 'Two friends tasting tapas'
 - src: https://imgcdn.bokun.tools/ef76f602-8b50-4f80-aa50-59967c8a8a2b.jpg
-  alt: "Waiter serving a tray of tapas"
+  alt: 'Waiter serving a tray of tapas'
 - src: https://imgcdn.bokun.tools/cd3b38c5-9f20-4a02-8d72-391b6e515d4c.jpg
-  alt: "Woman with tapas and a glass of cava"
+  alt: 'Woman with tapas and a glass of cava'
 publicada: true
 indexar: false
 destacada: false

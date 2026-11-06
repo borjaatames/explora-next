@@ -69,27 +69,27 @@ keywords:
 - granada jewish quarter realejo
 - private realejo tour granada
 - cuarto real de santo domingo
-imagen: /images/actividades/granada/realejo/cuarto-real-qubba.webp
-imagenAlt: Interior of the qubba at the Cuarto Real de Santo Domingo with Nasrid plasterwork and lattices
+imagen: /images/actividades/granada/realejo/realejo-callejon.webp
+imagenAlt: 'Narrow alley in the Realejo with white houses and a street lamp'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/granada/realejo/cuarto-real-exterior.webp
-  alt: Exterior of the Cuarto Real de Santo Domingo in the Realejo
+  alt: 'Exterior of the Cuarto Real de Santo Domingo in the Realejo'
 - src: /images/actividades/granada/proveedor-938167/prov-cuarto-real.webp
-  alt: Windows of the hall in the Cuarto Real de Santo Domingo
+  alt: 'Windows of the hall in the Cuarto Real de Santo Domingo'
 - src: /images/actividades/granada/realejo/realejo-calle-cuesta.webp
-  alt: Cobbled sloping street in the Realejo quarter
-- src: /images/actividades/granada/realejo/realejo-callejon.webp
-  alt: Narrow alley in the Realejo with white houses and a street lamp
+  alt: 'Cobbled sloping street in the Realejo quarter'
+- src: /images/actividades/granada/realejo/cuarto-real-qubba.webp
+  alt: 'Interior of the qubba at the Cuarto Real de Santo Domingo with Nasrid plasterwork and lattices'
 - src: https://imgcdn.bokun.tools/afb42eb8-c9e0-4c0b-9db0-623ca84cee4a.jpeg
-  alt: Nasrid gateway with a horseshoe arch in central Granada
+  alt: 'Nasrid gateway with a horseshoe arch in central Granada'
 - src: https://imgcdn.bokun.tools/69019e98-05a6-47bc-85c6-bf94abbfbd4b.jpeg
-  alt: Walled gateway with an arch in Granada
+  alt: 'Walled gateway with an arch in Granada'
 - src: https://imgcdn.bokun.tools/0528b33e-7d90-422e-8c4b-d13bf7d9b245.jpeg
-  alt: Narrow street with lanterns in central Granada
+  alt: 'Narrow street with lanterns in central Granada'
 bokunProductId: 938167
 fecha_actualizacion: '2026-10-24'
 privada: true

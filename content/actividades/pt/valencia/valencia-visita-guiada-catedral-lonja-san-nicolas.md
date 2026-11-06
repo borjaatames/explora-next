@@ -80,27 +80,27 @@ keywords:
 - visita guiada catedral e lonja valência
 - lonja de la seda visita guiada
 - igreja de san nicolás valência
-imagen: /images/actividades/valencia/centro/lonja-fachada.webp
-imagenAlt: Fachada gótica da Lonja de la Seda
+imagen: /images/actividades/valencia/centro/catedral-puerta.webp
+imagenAlt: 'Porta da Catedral de Valência na Plaza de la Virgen'
 galeria:
 - src: /images/actividades/valencia/centro/san-nicolas-altar-frescos.webp
-  alt: Altar-mor e abóbadas pintadas da igreja de San Nicolás, em Valência
+  alt: 'Altar-mor e abóbadas pintadas da igreja de San Nicolás, em Valência'
 - src: /images/actividades/valencia/centro/torres-serranos.webp
-  alt: As Torres de Serranos, antiga porta da muralha de Valência
+  alt: 'As Torres de Serranos, antiga porta da muralha de Valência'
 - src: /images/actividades/valencia/centro/san-nicolas-boveda.webp
-  alt: Abóbada barroca com frescos da igreja de San Nicolás
+  alt: 'Abóbada barroca com frescos da igreja de San Nicolás'
 - src: /images/actividades/valencia/centro/lonja-naranjos.webp
-  alt: Pátio das laranjeiras da Lonja de la Seda
+  alt: 'Pátio das laranjeiras da Lonja de la Seda'
 - src: /images/actividades/valencia/centro/catedral-nave-central.webp
-  alt: Nave central da Catedral de Valência
+  alt: 'Nave central da Catedral de Valência'
 - src: /images/actividades/valencia/centro/plaza-virgen.webp
-  alt: A Plaza de la Virgen com a basílica e a catedral
+  alt: 'A Plaza de la Virgen com a basílica e a catedral'
 - src: /images/actividades/valencia/centro/plaza-reina-micalet.webp
-  alt: A Plaza de la Reina com o Micalet e a Catedral de Valência
-- src: /images/actividades/valencia/centro/catedral-puerta.webp
-  alt: Porta da Catedral de Valência na Plaza de la Virgen
+  alt: 'A Plaza de la Reina com o Micalet e a Catedral de Valência'
+- src: /images/actividades/valencia/centro/lonja-fachada.webp
+  alt: 'Fachada gótica da Lonja de la Seda'
 - src: /images/actividades/valencia/centro/micalet-naranjos.webp
-  alt: O campanário do Micalet entre laranjeiras
+  alt: 'O campanário do Micalet entre laranjeiras'
 ratingProveedor: 4.8
 numeroOpiniones: 1243
 atraccionesRelacionadas:

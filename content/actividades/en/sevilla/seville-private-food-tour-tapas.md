@@ -65,21 +65,23 @@ keywords:
 - seville private food tour
 - private tapas tour seville
 - seville tapas tour with guide
-imagen: https://imgcdn.bokun.tools/0383edc7-ef74-46fb-b84a-0d08013c3063.jpeg
-imagenAlt: Seville tapa served at the bar
+imagen: /images/actividades/barcelona/proveedor-ble/tapas/ble-tapas-10.webp
+imagenAlt: 'Group enjoying tapas in a bar'
 galeria:
+- src: https://imgcdn.bokun.tools/0383edc7-ef74-46fb-b84a-0d08013c3063.jpeg
+  alt: 'Seville tapa served at the bar'
 - src: https://imgcdn.bokun.tools/ebbfaaa5-526d-45d2-95db-b12fafc4cb83.jpeg
-  alt: Montadito from a Seville tavern
+  alt: 'Montadito from a Seville tavern'
 - src: https://imgcdn.bokun.tools/14ebfeb3-168a-4e8b-a99d-8f986c2dafc3.jpeg
-  alt: Group during the food tour
+  alt: 'Group during the food tour'
 - src: https://imgcdn.bokun.tools/40719c62-e539-4f47-a176-c870c49d8428.jpeg
-  alt: Inside a traditional tavern
+  alt: 'Inside a traditional tavern'
 - src: https://imgcdn.bokun.tools/e8ddcc97-38a3-4732-9844-31ad8daaf53a.jpeg
-  alt: Bar counter in a tapas bar
+  alt: 'Bar counter in a tapas bar'
 - src: https://imgcdn.bokun.tools/a099331e-fd7e-432a-a862-968d9298fa74.jpeg
-  alt: Arch in Seville’s historic centre
+  alt: 'Arch in Seville’s historic centre'
 - src: https://imgcdn.bokun.tools/fb7be4dc-9846-4615-aafa-a9267871e444.jpeg
-  alt: Seville Cathedral
+  alt: 'Seville Cathedral'
 publicada: true
 indexar: false
 destacada: false

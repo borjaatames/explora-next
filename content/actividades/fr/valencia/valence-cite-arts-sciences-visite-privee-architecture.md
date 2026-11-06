@@ -59,19 +59,21 @@ categoria: visitasGuiadas
 keywords:
 - cite des arts et des sciences visite privee
 - valence architecture calatrava visite
-imagen: https://imgcdn.bokun.tools/4208d142-facb-494f-93b9-41324680af0e.jpg
-imagenAlt: "Voyageuse devant la Cité des arts et des sciences"
+imagen: /images/actividades/valencia/ciudad-artes-ciencias/hemisféric-ciudad-artes-valencia.webp
+imagenAlt: 'L''Hemisfèric de la Cité des Arts et des Sciences'
 galeria:
+- src: https://imgcdn.bokun.tools/4208d142-facb-494f-93b9-41324680af0e.jpg
+  alt: 'Voyageuse devant la Cité des arts et des sciences'
 - src: https://imgcdn.bokun.tools/f56dbfe3-8dd4-4e63-a31e-08d42ac95abb.jpg
-  alt: "Pont et Palau de les Arts à la Cité des arts"
+  alt: 'Pont et Palau de les Arts à la Cité des arts'
 - src: https://imgcdn.bokun.tools/90f48d4f-e869-4832-99f4-2213f0c77527.jpg
-  alt: "Visiteurs avec leur guide dans une rue de la vieille ville"
+  alt: 'Visiteurs avec leur guide dans une rue de la vieille ville'
 - src: https://imgcdn.bokun.tools/eb05972e-c1bd-48b9-8605-4ba0d3487eec.jpg
-  alt: "Musée des sciences et Hemisfèric au-dessus de l’eau"
+  alt: 'Musée des sciences et Hemisfèric au-dessus de l’eau'
 - src: https://imgcdn.bokun.tools/79c30c0d-e770-4e35-98ae-59b89acfe2ed.jpg
-  alt: "Couple lors d’une fête nocturne à Valence"
+  alt: 'Couple lors d’une fête nocturne à Valence'
 - src: https://imgcdn.bokun.tools/c8084ebf-e1a9-412e-b7c1-662ef9b4813b.jpg
-  alt: "Visiteurs se promenant dans la Cité des arts et des sciences"
+  alt: 'Visiteurs se promenant dans la Cité des arts et des sciences'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

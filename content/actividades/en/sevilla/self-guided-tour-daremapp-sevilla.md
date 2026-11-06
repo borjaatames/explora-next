@@ -65,23 +65,21 @@ keywords:
 - self-guided tour seville
 - seville audio tour
 - seville self-guided app tour
-imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp
-imagenAlt: Rowing boats on the Plaza de España canal
+imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
+imagenAlt: 'Tower and bridge in Plaza de España'
 galeria:
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp
-  alt: "Façade of the Real Maestranza bullring in Seville"
+  alt: 'Façade of the Real Maestranza bullring in Seville'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp
-  alt: Seville Cathedral façade among palm trees
+  alt: 'Seville Cathedral façade among palm trees'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp
-  alt: Plaza de España reflected in the canal
+  alt: 'Plaza de España reflected in the canal'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
-  alt: Las Setas at La Encarnación, a few minutes' walk away
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp
-  alt: Tower and bridge in Plaza de España
+  alt: 'Las Setas at La Encarnación, a few minutes'' walk away'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: Plaza de España arcade with its tiled benches
+  alt: 'Plaza de España arcade with its tiled benches'
 - src: https://imgcdn.bokun.tools/c94c0367-6c51-46ec-8e14-204694d9bafd.jpg
-  alt: DaremApp app with the self-guided route
+  alt: 'DaremApp app with the self-guided route'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

@@ -89,21 +89,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/girona/fgi-mar/fgi-catamaran-fondeado-aguas-claras.webp
-imagenAlt: "Catamarán fondeado en aguas claras para el baño"
+imagen: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaran-navegando-vela.webp
+imagenAlt: 'Catamarán navegando por el Mediterráneo'
 galeria:
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-costa-aerea.webp
-  alt: "Vista aérea de la costa de Lloret de Mar con calas y pinos"
+  alt: 'Vista aérea de la costa de Lloret de Mar con calas y pinos'
 - src: /images/actividades/girona/fgi-mar/fgi-nadador-tubo-fondo-rocoso.webp
-  alt: "Persona nadando con gafas y tubo sobre fondo rocoso"
+  alt: 'Persona nadando con gafas y tubo sobre fondo rocoso'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-rocas.webp
-  alt: "Playa de arena con rocas en Lloret de Mar"
+  alt: 'Playa de arena con rocas en Lloret de Mar'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
-  alt: "La bahía de Lloret de Mar vista desde lo alto"
+  alt: 'La bahía de Lloret de Mar vista desde lo alto'
 - src: /images/actividades/girona/fgi-mar/fgi-mar-a-ras-de-agua.webp
-  alt: "El Mediterráneo a ras de agua junto a la costa rocosa"
+  alt: 'El Mediterráneo a ras de agua junto a la costa rocosa'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
-  alt: "Playa principal de Lloret de Mar con rocas en primer plano"
+  alt: 'Playa principal de Lloret de Mar con rocas en primer plano'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en mayo de 2027.'
 ---
 

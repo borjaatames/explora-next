@@ -83,25 +83,27 @@ keywords:
 - seville tuk tuk tour
 - private tour seville
 - seville by tuk tuk
-imagen: https://imgcdn.bokun.tools/0ad6f0ff-d878-4b4b-ba5e-3d5fad09d269.png
-imagenAlt: Family riding an electric tuk tuk through Seville
+imagen: /images/actividades/sevilla/fotos-biblioteca/06.webp
+imagenAlt: 'Grotesque Gallery in the Royal Alcázar of Seville'
 galeria:
+- src: https://imgcdn.bokun.tools/0ad6f0ff-d878-4b4b-ba5e-3d5fad09d269.png
+  alt: 'Family riding an electric tuk tuk through Seville'
 - src: https://imgcdn.bokun.tools/1a40ce30-6ccc-4bdf-8bfe-bef06754265b.jpeg
-  alt: Tuk tuk outside the Macarena Basilica
+  alt: 'Tuk tuk outside the Macarena Basilica'
 - src: https://imgcdn.bokun.tools/fd805ff9-dc13-4512-9134-7aba2cd79026.png
-  alt: Electric tuk tuk outside the San Telmo Palace
+  alt: 'Electric tuk tuk outside the San Telmo Palace'
 - src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-  alt: Triana bridge over the Guadalquivir
+  alt: 'Triana bridge over the Guadalquivir'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
-  alt: Plaza de España lit up at night
+  alt: 'Plaza de España lit up at night'
 - src: https://imgcdn.bokun.tools/132aa0f1-236e-44f3-9f49-dcb9afc6cd23.png
-  alt: Main gate of the Maestranza bullring
+  alt: 'Main gate of the Maestranza bullring'
 - src: https://imgcdn.bokun.tools/fa3608dd-4894-4077-8d27-446b7001fb40.jpeg
-  alt: Torre del Oro among palm trees
+  alt: 'Torre del Oro among palm trees'
 - src: /images/actividades/sevilla/macarena/basilica-macarena-sevilla-exterior-20180719-hero.webp
-  alt: White and yellow façade of the Macarena Basilica
+  alt: 'White and yellow façade of the Macarena Basilica'
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp
-  alt: Tree-lined avenue in María Luisa Park
+  alt: 'Tree-lined avenue in María Luisa Park'
 publicada: true
 indexar: false
 destacada: false

@@ -71,25 +71,25 @@ keywords:
 - casa natal picasso visita
 - tour picasso privado malaga
 - museo picasso con guia
-imagen: https://imgcdn.bokun.tools/a6f0dfad-e4b5-4a98-923d-99a6b288d508.jpeg
-imagenAlt: 'Interior de la iglesia de Santiago de Málaga'
+imagen: /images/actividades/malaga/museo-picasso/fachada-museo.webp
+imagenAlt: 'Fachada con el nombre del Museo Picasso Málaga'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: https://imgcdn.bokun.tools/a6f0dfad-e4b5-4a98-923d-99a6b288d508.jpeg
-  alt: Interior de la iglesia de Santiago de Málaga
+  alt: 'Interior de la iglesia de Santiago de Málaga'
 - src: /images/actividades/malaga/museo-picasso/patio-buenavista.webp
-  alt: Patio porticado del Palacio de Buenavista, sede del Museo Picasso Málaga
+  alt: 'Patio porticado del Palacio de Buenavista, sede del Museo Picasso Málaga'
 - src: https://imgcdn.bokun.tools/d49d5b24-403e-469a-bf98-2e450e6a36d1.jpeg
-  alt: Estatua de Picasso sentado en un banco de la plaza de la Merced
+  alt: 'Estatua de Picasso sentado en un banco de la plaza de la Merced'
 - src: https://imgcdn.bokun.tools/ba4299f9-4ed0-4aa8-accf-582829e6f64e.jpeg
-  alt: Edificios de la plaza de la Merced, donde está la Casa Natal
-- src: /images/actividades/malaga/museo-picasso/fachada-museo.webp
-  alt: Fachada con el nombre del Museo Picasso Málaga
+  alt: 'Edificios de la plaza de la Merced, donde está la Casa Natal'
+- src: https://imgcdn.bokun.tools/a6f0dfad-e4b5-4a98-923d-99a6b288d508.jpeg
+  alt: 'Interior de la iglesia de Santiago de Málaga'
 - src: https://imgcdn.bokun.tools/96bbe9da-abf4-4d20-917d-9cafad4de9bf.jpeg
-  alt: Sala blanca del museo con obras expuestas
+  alt: 'Sala blanca del museo con obras expuestas'
 bokunProductId: 936430
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

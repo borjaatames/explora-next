@@ -63,9 +63,11 @@ categoria: excursionesDia
 keywords:
 - avila segovia toledo en un dia
 - excursion privada tres ciudades desde madrid
-imagen: https://imgcdn.bokun.tools/921c9b9f-86e7-4035-a502-91eb84cd97b2.jpg
-imagenAlt: 'Tejados de Toledo con la catedral al fondo'
+imagen: /images/actividades/avila/avila/avila-panoramica-hero.webp
+imagenAlt: 'Murallas de Ávila'
 galeria:
+- src: https://imgcdn.bokun.tools/921c9b9f-86e7-4035-a502-91eb84cd97b2.jpg
+  alt: 'Tejados de Toledo con la catedral al fondo'
 - src: https://imgcdn.bokun.tools/376eaafe-ebe6-413e-ab2c-6ef64633b178.jpg
   alt: 'Segovia y su Alcázar vistos desde el valle'
 - src: https://imgcdn.bokun.tools/1c64ff52-f72b-4746-b79b-2085a150a8ee.jpg

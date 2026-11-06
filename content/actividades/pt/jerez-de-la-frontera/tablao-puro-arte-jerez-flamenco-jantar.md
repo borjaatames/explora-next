@@ -74,23 +74,23 @@ publicada: true
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-imagenAlt: Bailarina de flamenco a rodopiar no palco, com a saia em movimento
+imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
+imagenAlt: 'Público a assistir a um espetáculo de flamenco em Jerez'
 galeria:
 - src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: Mãos de uma bailarina a segurar castanholas
+  alt: 'Mãos de uma bailarina a segurar castanholas'
 - src: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
-  alt: Bailarina com saia de folhos a dançar em luz suave
+  alt: 'Bailarina com saia de folhos a dançar em luz suave'
 - src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-generoso.webp
-  alt: Copo de vinho generoso numa tábua de madeira
+  alt: 'Copo de vinho generoso numa tábua de madeira'
 - src: /images/actividades/jerez-de-la-frontera/tapas/tabla-tapas-cazuelas.webp
-  alt: Seleção de tapas e tachinhos de barro
+  alt: 'Seleção de tapas e tachinhos de barro'
 - src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
-  alt: Catedral de Jerez e a sua torre iluminadas à noite
+  alt: 'Catedral de Jerez e a sua torre iluminadas à noite'
+- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
+  alt: 'Bailaora com músico num tablao'
 - src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-  alt: Músicos ao vivo num tablao flamenco de Jerez
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: Público a assistir a um espetáculo de flamenco em Jerez
+  alt: 'Músicos ao vivo num tablao flamenco de Jerez'
 ---
 
 ## O que vai ver

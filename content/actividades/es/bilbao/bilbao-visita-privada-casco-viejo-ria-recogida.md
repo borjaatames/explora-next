@@ -59,17 +59,19 @@ keywords:
 - visita privada bilbao
 - bilbao casco viejo guia privado
 - tour privado bilbao ria
-imagen: https://imgcdn.bokun.tools/b5e719cb-4151-4a30-a1d2-e50ceed4e33b.jpg
-imagenAlt: "Viajera sonriente con Bilbao al fondo"
+imagen: /images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp
+imagenAlt: 'Ría y Casco Viejo de Bilbao'
 galeria:
+- src: https://imgcdn.bokun.tools/b5e719cb-4151-4a30-a1d2-e50ceed4e33b.jpg
+  alt: 'Viajera sonriente con Bilbao al fondo'
 - src: https://imgcdn.bokun.tools/dcda3bde-7e2d-4fcf-825f-3adeb6db11c9.jpg
-  alt: "Fachada de titanio del Guggenheim de Bilbao"
+  alt: 'Fachada de titanio del Guggenheim de Bilbao'
 - src: https://imgcdn.bokun.tools/55f17af3-fea9-49bd-be68-5de51a01e961.jpg
-  alt: "La escultura de la araña junto al Guggenheim de Bilbao"
+  alt: 'La escultura de la araña junto al Guggenheim de Bilbao'
 - src: https://imgcdn.bokun.tools/416db83b-00c5-4439-a325-4d43202079b7.jpg
-  alt: "Madre e hija en un mirador sobre Bilbao"
+  alt: 'Madre e hija en un mirador sobre Bilbao'
 - src: https://imgcdn.bokun.tools/6c9f7cae-95eb-4ac8-ace3-952cd6c9cd81.jpg
-  alt: "El Guggenheim de Bilbao reflejado en la ría"
+  alt: 'El Guggenheim de Bilbao reflejado en la ría'
 publicada: true
 indexar: false
 destacada: false

@@ -59,17 +59,19 @@ keywords:
 - bilbao private tour
 - bilbao old town private guide
 - private tour bilbao estuary
-imagen: https://imgcdn.bokun.tools/b5e719cb-4151-4a30-a1d2-e50ceed4e33b.jpg
-imagenAlt: "Smiling traveller with Bilbao in the background"
+imagen: /images/actividades/bilbao/casco-viejo/puente-ria-arquitectura-historica.webp
+imagenAlt: 'Bilbao''s estuary and Old Town'
 galeria:
+- src: https://imgcdn.bokun.tools/b5e719cb-4151-4a30-a1d2-e50ceed4e33b.jpg
+  alt: 'Smiling traveller with Bilbao in the background'
 - src: https://imgcdn.bokun.tools/dcda3bde-7e2d-4fcf-825f-3adeb6db11c9.jpg
-  alt: "Titanium façade of the Guggenheim Bilbao"
+  alt: 'Titanium façade of the Guggenheim Bilbao'
 - src: https://imgcdn.bokun.tools/55f17af3-fea9-49bd-be68-5de51a01e961.jpg
-  alt: "The giant spider sculpture by the Guggenheim Bilbao"
+  alt: 'The giant spider sculpture by the Guggenheim Bilbao'
 - src: https://imgcdn.bokun.tools/416db83b-00c5-4439-a325-4d43202079b7.jpg
-  alt: "Mother and daughter at a viewpoint over Bilbao"
+  alt: 'Mother and daughter at a viewpoint over Bilbao'
 - src: https://imgcdn.bokun.tools/6c9f7cae-95eb-4ac8-ace3-952cd6c9cd81.jpg
-  alt: "The Guggenheim Bilbao reflected in the estuary"
+  alt: 'The Guggenheim Bilbao reflected in the estuary'
 publicada: true
 indexar: false
 destacada: false

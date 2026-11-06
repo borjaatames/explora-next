@@ -64,21 +64,23 @@ keywords:
 - malaga depuis marbella
 - excursion privée malaga
 - visite guidée malaga en français
-imagen: https://imgcdn.bokun.tools/bd852110-5352-4a20-9ef3-e4b2e772b456.jpg
-imagenAlt: Lettres de Malaga avec l’Alcazaba au fond
+imagen: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
+imagenAlt: 'Alcazaba et Gibralfaro de Málaga'
 galeria:
+- src: https://imgcdn.bokun.tools/bd852110-5352-4a20-9ef3-e4b2e772b456.jpg
+  alt: 'Lettres de Malaga avec l’Alcazaba au fond'
 - src: https://imgcdn.bokun.tools/9947f45c-0ed1-42b5-b868-9aa4a500029e.jpg
-  alt: Le port de Malaga vu d’en haut
+  alt: 'Le port de Malaga vu d’en haut'
 - src: https://imgcdn.bokun.tools/364043c2-6dfc-4625-a4d4-873335a9ece0.jpg
-  alt: Promenade avec le guide dans le centre de Malaga
+  alt: 'Promenade avec le guide dans le centre de Malaga'
 - src: https://imgcdn.bokun.tools/80c320b8-518a-4d99-9aac-88a5f0807fc6.jpg
-  alt: Brochettes de sardines (espetos)
+  alt: 'Brochettes de sardines (espetos)'
 - src: https://imgcdn.bokun.tools/41ed3662-65f9-40df-aa19-165c74caf975.jpg
-  alt: Palmiers sur le Paseo del Parque
+  alt: 'Palmiers sur le Paseo del Parque'
 - src: https://imgcdn.bokun.tools/1496c946-d7e0-4dd2-a7fd-e19b30437d37.jpg
-  alt: La calle Larios et ses toiles
+  alt: 'La calle Larios et ses toiles'
 - src: https://imgcdn.bokun.tools/ba960a1e-03fa-46cc-b84d-8d1b5a6dc481.jpg
-  alt: Vue de la baie de Malaga
+  alt: 'Vue de la baie de Malaga'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

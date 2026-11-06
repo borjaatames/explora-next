@@ -87,21 +87,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
-imagenAlt: "Cala de Papagayo vista desde el acantilado"
+imagen: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
+imagenAlt: 'Catamarán con redes en la proa visto desde arriba'
 galeria:
 - src: /images/actividades/lanzarote/catamaran/flz-cenital-turquesa.webp
-  alt: "Catamarán visto desde arriba sobre aguas turquesa"
-- src: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
-  alt: "Catamarán con redes en la proa visto desde arriba"
+  alt: 'Catamarán visto desde arriba sobre aguas turquesa'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+  alt: 'Cala de Papagayo vista desde el acantilado'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
-  alt: "Playa de Papagayo con cielo de nubes"
+  alt: 'Playa de Papagayo con cielo de nubes'
 - src: /images/actividades/lanzarote/catamaran/flz-fondeado-aguas-claras.webp
-  alt: "Catamarán fondeado en aguas claras"
+  alt: 'Catamarán fondeado en aguas claras'
 - src: /images/actividades/lanzarote/papagayo/flz-playa-promontorio.webp
-  alt: "Playa de Papagayo bajo su promontorio rocoso"
+  alt: 'Playa de Papagayo bajo su promontorio rocoso'
 - src: /images/actividades/lanzarote/papagayo/flz-acantilados-playa.webp
-  alt: "Acantilados y playa en las Playas de Papagayo"
+  alt: 'Acantilados y playa en las Playas de Papagayo'
 ---
 
 ## Qué vas a ver

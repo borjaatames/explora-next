@@ -69,21 +69,21 @@ keywords:
 - bilhetes fundação joan miro
 - museu miro barcelona
 - fundacio miro montjuic
-imagen: /images/actividades/barcelona/fundacio-miro/fundacio-miro-01.webp
-imagenAlt: Escultura vermelha junto ao edifício da Fundação Joan Miró
+imagen: /images/actividades/barcelona/fundacio-miro/fundacio-miro-02.webp
+imagenAlt: 'O edifício branco da Fundação Miró, de Josep Lluís Sert'
 galeria:
-- src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-02.webp
-  alt: O edifício branco da Fundação Miró, de Josep Lluís Sert
+- src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-01.webp
+  alt: 'Escultura vermelha junto ao edifício da Fundação Joan Miró'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-03.webp
-  alt: Entrada da Fundação Joan Miró em Montjuïc
+  alt: 'Entrada da Fundação Joan Miró em Montjuïc'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-05.webp
-  alt: Pátios e clarabóias da Fundação Miró
+  alt: 'Pátios e clarabóias da Fundação Miró'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-06.webp
-  alt: As clarabóias curvas típicas do edifício de Sert
+  alt: 'As clarabóias curvas típicas do edifício de Sert'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-07.webp
-  alt: Escultura de Miró à entrada da Fundação
+  alt: 'Escultura de Miró à entrada da Fundação'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-08.webp
-  alt: A Fundação Miró vista da avenida de Montjuïc
+  alt: 'A Fundação Miró vista da avenida de Montjuïc'
 ratingProveedor: 4.6
 numeroOpiniones: 1578
 atraccionesRelacionadas:

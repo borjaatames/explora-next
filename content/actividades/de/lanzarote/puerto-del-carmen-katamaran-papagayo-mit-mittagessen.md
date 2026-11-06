@@ -94,21 +94,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
-imagenAlt: "Ausflugsboote in Puerto del Carmen"
+imagen: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
+imagenAlt: 'Katamaran mit Beiboot ankert in türkisfarbenem Wasser'
 galeria:
-- src: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
-  alt: "Katamaran mit Beiboot ankert in türkisfarbenem Wasser"
+- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
+  alt: 'Ausflugsboote in Puerto del Carmen'
 - src: /images/actividades/lanzarote/papagayo/flz-playa-dorada-turquesa.webp
-  alt: "Goldener Sandstrand und türkisfarbenes Wasser in Papagayo"
+  alt: 'Goldener Sandstrand und türkisfarbenes Wasser in Papagayo'
 - src: /images/actividades/lanzarote/catamaran/flz-proa-agua-cristalina.webp
-  alt: "Bug eines Katamarans über kristallklarem Wasser"
+  alt: 'Bug eines Katamarans über kristallklarem Wasser'
 - src: /images/actividades/lanzarote/papagayo/flz-costa-montana.webp
-  alt: "Küste von Papagayo mit Vulkanbergen im Hintergrund"
+  alt: 'Küste von Papagayo mit Vulkanbergen im Hintergrund'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
-  alt: "Bucht mit türkisfarbenem Wasser in Papagayo"
+  alt: 'Bucht mit türkisfarbenem Wasser in Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
-  alt: "Wellen am Ufer eines Papagayo-Strandes"
+  alt: 'Wellen am Ufer eines Papagayo-Strandes'
 avisoReserva: "Deutschsprachiger Guide nur auf Anfrage: Die Crew spricht in der Regel Spanisch und Englisch. Wenn du Erklärungen auf Deutsch möchtest, frag nach der Buchung beim Veranstalter nach."
 ---
 

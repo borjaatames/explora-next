@@ -59,19 +59,21 @@ keywords:
 - private sunset sailboat ibiza
 - es vedra sunset boat
 - ibiza private sunset cruise
-imagen: https://imgcdn.bokun.tools/2f91c458-2e8c-493e-800d-f586baf98323.jpg
-imagenAlt: "Sunset behind Es Vedrà seen from the sea"
+imagen: /images/actividades/ibiza/calas/es-vedra-desde-la-costa.webp
+imagenAlt: 'Es Vedrà with a sailboat in the cove'
 galeria:
+- src: https://imgcdn.bokun.tools/2f91c458-2e8c-493e-800d-f586baf98323.jpg
+  alt: 'Sunset behind Es Vedrà seen from the sea'
 - src: https://imgcdn.bokun.tools/a3ce50ff-a6d9-4c8e-a5d6-1662258cd002.jpg
-  alt: "Sunset with sailboats at sea"
+  alt: 'Sunset with sailboats at sea'
 - src: https://imgcdn.bokun.tools/ad5ca33e-b7ae-4fae-a990-46193bd55089.jpg
-  alt: "Couple embracing on a sailboat at sunset"
+  alt: 'Couple embracing on a sailboat at sunset'
 - src: https://imgcdn.bokun.tools/cc01a533-2a71-4000-9385-2f060a62b985.jpg
-  alt: "Woman watching the sunset from the sailboat"
+  alt: 'Woman watching the sunset from the sailboat'
 - src: https://imgcdn.bokun.tools/331992ca-b12c-465b-942f-835e68cea822.jpg
-  alt: "Couple on deck with the sea behind them"
+  alt: 'Couple on deck with the sea behind them'
 - src: https://imgcdn.bokun.tools/78b81a5f-4c9f-4eea-a6be-d201cccc8807.jpg
-  alt: "Woman watching the sunset from the bow"
+  alt: 'Woman watching the sunset from the bow'
 publicada: true
 indexar: false
 destacada: false

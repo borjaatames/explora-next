@@ -76,28 +76,30 @@ keywords:
 - cordoba mosque private guide
 - cordoba jewish quarter tour
 - cordoba mosque and synagogue tour
-imagen: https://imgcdn.bokun.tools/4ba86944-8202-434a-8014-2da5d0648e93.jpg
-imagenAlt: The forest of two-tone arches in the Mosque-Cathedral
+imagen: /images/actividades/cordoba/bici/fvc-mezquita-puente-rio.webp
+imagenAlt: 'Mosque and Roman Bridge of Córdoba'
 ratingProveedor: 5
 numeroOpiniones: 130
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: https://imgcdn.bokun.tools/4ba86944-8202-434a-8014-2da5d0648e93.jpg
+  alt: 'The forest of two-tone arches in the Mosque-Cathedral'
 - src: /images/actividades/cordoba/mezquita/arcos-perspectiva.webp
-  alt: Perspective of red-and-white arches
+  alt: 'Perspective of red-and-white arches'
 - src: https://imgcdn.bokun.tools/f01dc8d1-2175-45f4-a001-4cb11f59ad9b.jpg
-  alt: Calleja de las Flores with the tower in the background
+  alt: 'Calleja de las Flores with the tower in the background'
 - src: https://imgcdn.bokun.tools/393b890f-e597-4592-9d8a-31260cee3c1b.jpg
-  alt: The mihrab of the Mosque of Córdoba
+  alt: 'The mihrab of the Mosque of Córdoba'
 - src: /images/actividades/cordoba/juderia/sinagoga.webp
-  alt: Interior of the Córdoba Synagogue
+  alt: 'Interior of the Córdoba Synagogue'
 - src: https://imgcdn.bokun.tools/60ac6410-1624-4771-b8de-8de8c26d56fb.jpg
-  alt: Guide with travellers by the river, the Mosque behind
+  alt: 'Guide with travellers by the river, the Mosque behind'
 - src: https://imgcdn.bokun.tools/4c0bb9ba-da8f-43ce-bf9f-9ab3c002658e.jpg
-  alt: Decorated dome in front of the mihrab
+  alt: 'Decorated dome in front of the mihrab'
 - src: https://imgcdn.bokun.tools/ce6f9e4a-17bc-400c-bb58-5b38cb8390d6.jpg
-  alt: Travellers in a patio with blue flowerpots
+  alt: 'Travellers in a patio with blue flowerpots'
 bokunProductId: 793769
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

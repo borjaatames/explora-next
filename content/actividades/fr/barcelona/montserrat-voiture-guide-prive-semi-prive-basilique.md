@@ -82,8 +82,8 @@ keywords:
 - montserrat en voiture
 - montserrat petit groupe
 - billets vierge noire montserrat
-imagen: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-imagenAlt: Statue de l'abbé Oliba dans la verdure de Montserrat
+imagen: /images/actividades/barcelona/montserrat/montserrat-rocas.webp
+imagenAlt: 'Bâtiments du monastère et montagne de Montserrat sous un ciel bleu'
 ratingProveedor: 4.8
 numeroOpiniones: 311
 publicada: true
@@ -92,17 +92,17 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-monasterio-montana.webp
-  alt: Le monastère de Montserrat niché dans la montagne, vu d'en haut
-- src: /images/actividades/barcelona/montserrat/montserrat-rocas.webp
-  alt: Bâtiments du monastère et montagne de Montserrat sous un ciel bleu
+  alt: 'Le monastère de Montserrat niché dans la montagne, vu d''en haut'
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: 'Statue de l''abbé Oliba dans la verdure de Montserrat'
 - src: /images/actividades/barcelona/montserrat/basilica-montserrat-nave.webp
-  alt: Nef de la basilique de Montserrat avec l'autel au fond
+  alt: 'Nef de la basilique de Montserrat avec l''autel au fond'
 - src: https://imgcdn.bokun.tools/65cca502-bc14-4732-8b3d-60d19f2406be.jpg
-  alt: Le monastère de Montserrat sous les aiguilles rocheuses
+  alt: 'Le monastère de Montserrat sous les aiguilles rocheuses'
 - src: https://imgcdn.bokun.tools/6bde231b-e918-4ade-b5c3-bc6aba8daafb.jpg
-  alt: Voyageurs sur la terrasse du monastère avec la montagne en arrière-plan
+  alt: 'Voyageurs sur la terrasse du monastère avec la montagne en arrière-plan'
 - src: https://imgcdn.bokun.tools/1c248131-d79f-4a98-91be-0d3dd1f112a7.jpg
-  alt: Étal du marché des producteurs de Montserrat
+  alt: 'Étal du marché des producteurs de Montserrat'
 bokunProductId: 217561
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'

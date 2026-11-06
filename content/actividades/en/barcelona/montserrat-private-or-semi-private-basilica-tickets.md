@@ -82,8 +82,8 @@ keywords:
 - montserrat by car
 - montserrat small group tour
 - montserrat black madonna tickets
-imagen: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
-imagenAlt: Statue of Abbot Oliba among the greenery of Montserrat
+imagen: /images/actividades/barcelona/montserrat/montserrat-rocas.webp
+imagenAlt: 'Monastery buildings and Montserrat mountain under blue sky'
 ratingProveedor: 4.8
 numeroOpiniones: 311
 publicada: true
@@ -92,17 +92,17 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-monasterio-montana.webp
-  alt: Montserrat Monastery set into the mountain, seen from above
-- src: /images/actividades/barcelona/montserrat/montserrat-rocas.webp
-  alt: Monastery buildings and Montserrat mountain under blue sky
+  alt: 'Montserrat Monastery set into the mountain, seen from above'
+- src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp
+  alt: 'Statue of Abbot Oliba among the greenery of Montserrat'
 - src: /images/actividades/barcelona/montserrat/basilica-montserrat-nave.webp
-  alt: Nave of the Montserrat Basilica with the altar at the end
+  alt: 'Nave of the Montserrat Basilica with the altar at the end'
 - src: https://imgcdn.bokun.tools/65cca502-bc14-4732-8b3d-60d19f2406be.jpg
-  alt: Montserrat monastery beneath the rock pinnacles
+  alt: 'Montserrat monastery beneath the rock pinnacles'
 - src: https://imgcdn.bokun.tools/6bde231b-e918-4ade-b5c3-bc6aba8daafb.jpg
-  alt: Travellers on the monastery terrace with the mountain behind
+  alt: 'Travellers on the monastery terrace with the mountain behind'
 - src: https://imgcdn.bokun.tools/1c248131-d79f-4a98-91be-0d3dd1f112a7.jpg
-  alt: Stall at the Montserrat farmers' market
+  alt: 'Stall at the Montserrat farmers'' market'
 bokunProductId: 217561
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-25'

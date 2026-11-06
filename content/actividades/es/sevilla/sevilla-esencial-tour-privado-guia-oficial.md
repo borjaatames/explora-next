@@ -75,26 +75,28 @@ keywords:
 - guia privado sevilla
 - sevilla a pie con guia oficial
 - visita guiada privada centro de sevilla
-imagen: https://imgcdn.bokun.tools/dd1a7d18-ddb1-4dcc-8aa0-ed2814b683c0.jpg
-imagenAlt: Viajeros en un banco de azulejos de la Plaza de España
+imagen: /images/actividades/sevilla/archivo-indias/archivo-indias-wikimedia-cathedral-and-archivo-de-indias-seville-05.webp
+imagenAlt: 'Panorámica de Sevilla con la Giralda'
 ratingProveedor: 5.0
 numeroOpiniones: 22
 publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: https://imgcdn.bokun.tools/dd1a7d18-ddb1-4dcc-8aa0-ed2814b683c0.jpg
+  alt: 'Viajeros en un banco de azulejos de la Plaza de España'
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
-  alt: Catedral de Sevilla y la Giralda
+  alt: 'Catedral de Sevilla y la Giralda'
 - src: https://imgcdn.bokun.tools/30facdd2-c5c4-449e-beb6-20d98407ea17.jpg
-  alt: Rincón del barrio de Santa Cruz con un retablo de azulejos
+  alt: 'Rincón del barrio de Santa Cruz con un retablo de azulejos'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
-  alt: Vista amplia de la Plaza de España de Sevilla
+  alt: 'Vista amplia de la Plaza de España de Sevilla'
 - src: https://imgcdn.bokun.tools/434fb82b-22c8-4f5d-b43e-43e905041f69.jpg
-  alt: Estanque en los jardines del Real Alcázar
+  alt: 'Estanque en los jardines del Real Alcázar'
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
-  alt: Callejón del Agua en el barrio de Santa Cruz
+  alt: 'Callejón del Agua en el barrio de Santa Cruz'
 - src: https://imgcdn.bokun.tools/6205e7d3-06e2-4a81-a98f-7b5178cec9dd.jpg
-  alt: Callejuela estrecha del barrio de Santa Cruz
+  alt: 'Callejuela estrecha del barrio de Santa Cruz'
 bokunProductId: 793764
 fecha_actualizacion: '2026-10-24'
 privada: true

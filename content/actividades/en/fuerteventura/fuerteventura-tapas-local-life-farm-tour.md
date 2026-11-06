@@ -80,21 +80,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
-imagenAlt: "Fresh goat cheese being made in a cheese dairy"
+imagen: /images/actividades/fuerteventura/queso/ffv-tostas-queso-higos.webp
+imagenAlt: 'Cheese toasts with figs'
 galeria:
 - src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
-  alt: "Aged cheeses of different sizes"
+  alt: 'Aged cheeses of different sizes'
 - src: /images/actividades/fuerteventura/gastronomia/papas-arrugadas-mojo-verde.webp
-  alt: "Wrinkled potatoes with green mojo sauce"
+  alt: 'Wrinkled potatoes with green mojo sauce'
 - src: /images/actividades/ibiza/bibo-park/fi1-olivo-jardin-mediterraneo.webp
-  alt: "Old olive tree"
+  alt: 'Old olive tree'
 - src: /images/actividades/fuerteventura/queso/ffv-quesos-y-vino-casero.webp
-  alt: "Cheeses and bottles of wine on a table"
+  alt: 'Cheeses and bottles of wine on a table'
 - src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
-  alt: "Majorera goat on a farm"
-- src: /images/actividades/fuerteventura/queso/ffv-tostas-queso-higos.webp
-  alt: "Cheese toasts with figs"
+  alt: 'Majorera goat on a farm'
+- src: /images/actividades/fuerteventura/queso/ffv-elaboracion-queso-fresco.webp
+  alt: 'Fresh goat cheese being made in a cheese dairy'
 ---
 
 ## What you will see

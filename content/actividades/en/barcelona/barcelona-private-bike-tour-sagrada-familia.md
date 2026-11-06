@@ -81,8 +81,8 @@ keywords:
 - bike and sagrada familia
 - barcelona bike tour with tickets
 - barcelona by bike
-imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
-imagenAlt: Facade of the Sagrada Familia with its towers in Barcelona
+imagen: /images/actividades/barcelona/bici/bicis-arco-de-triunfo.webp
+imagenAlt: 'Cyclists on Passeig de Lluís Companys by the Arc de Triomf'
 ratingProveedor: 4.5
 numeroOpiniones: 13
 publicada: true
@@ -90,18 +90,18 @@ indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/barcelona/bici/bicis-arco-de-triunfo.webp
-  alt: Cyclists on Passeig de Lluís Companys by the Arc de Triomf
+- src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
+  alt: 'Facade of the Sagrada Familia with its towers in Barcelona'
 - src: /images/actividades/barcelona/bici/bici-calle-casco-antiguo.webp
-  alt: Bicycle leaning by a wooden door in an old street
+  alt: 'Bicycle leaning by a wooden door in an old street'
 - src: /images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp
-  alt: Barcelona rooftops at sunset with the Sagrada Família and Tibidabo
+  alt: 'Barcelona rooftops at sunset with the Sagrada Família and Tibidabo'
 - src: https://imgcdn.bokun.tools/97a8553e-7bfd-4b71-8b0d-4e6c4d4e28dd.jpg
-  alt: Group on bikes in front of the Sagrada Familia
+  alt: 'Group on bikes in front of the Sagrada Familia'
 - src: https://imgcdn.bokun.tools/fd52ffa2-a030-45a5-8071-b84b7e7fbc7a.jpg
-  alt: Family on bikes by the Sagrada Familia
+  alt: 'Family on bikes by the Sagrada Familia'
 - src: https://imgcdn.bokun.tools/1230ea8e-a91c-4573-bc73-ddaed04c2fee.jpg
-  alt: Cyclists by a fountain in a park
+  alt: 'Cyclists by a fountain in a park'
 bokunProductId: 217567
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

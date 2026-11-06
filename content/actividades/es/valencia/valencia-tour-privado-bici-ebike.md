@@ -78,27 +78,27 @@ keywords:
 - valencia ebike tour
 - ruta en bici valencia turia
 - valencia en bicicleta
-imagen: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp
-imagenAlt: La Ciudad de las Artes y las Ciencias de Valencia reflejada en el agua
+imagen: /images/actividades/valencia/turia-bici/bici-palmera.webp
+imagenAlt: 'Bicicleta aparcada junto a una palmera en un parque de Valencia'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/valencia/turia-bici/jardin-turia-aereo.webp
-  alt: Jardín del Turia visto desde lo alto de las Torres de Serranos
+  alt: 'Jardín del Turia visto desde lo alto de las Torres de Serranos'
 - src: /images/actividades/valencia/turia-bici/jardin-turia-estanque.webp
-  alt: Estanque y paseo arbolado en el Jardín del Turia
-- src: /images/actividades/valencia/turia-bici/bici-palmera.webp
-  alt: Bicicleta aparcada junto a una palmera en un parque de Valencia
+  alt: 'Estanque y paseo arbolado en el Jardín del Turia'
+- src: /images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp
+  alt: 'La Ciudad de las Artes y las Ciencias de Valencia reflejada en el agua'
 - src: /images/actividades/valencia/turia-bici/bici-roja.webp
-  alt: Bicicleta roja apoyada en una valla junto a un banco en Valencia
+  alt: 'Bicicleta roja apoyada en una valla junto a un banco en Valencia'
 - src: https://imgcdn.bokun.tools/fabf7ddf-5eb3-411d-8587-a43958a0dc1e.jpg
-  alt: Ciclistas en el jardín del Turia con la Ciudad de las Artes y las Ciencias al fondo
+  alt: 'Ciclistas en el jardín del Turia con la Ciudad de las Artes y las Ciencias al fondo'
 - src: https://imgcdn.bokun.tools/aa28723e-be30-4e5e-b396-9f7d8aa42d18.jpg
-  alt: Ciclista junto al estanque de la Ciudad de las Artes y las Ciencias
+  alt: 'Ciclista junto al estanque de la Ciudad de las Artes y las Ciencias'
 - src: https://imgcdn.bokun.tools/f5721c26-abc0-46d7-98c7-89831eb51a77.jpg
-  alt: Ciclista ante las Torres de Serranos
+  alt: 'Ciclista ante las Torres de Serranos'
 bokunProductId: 910128
 fecha_actualizacion: '2026-10-24'
 privada: true

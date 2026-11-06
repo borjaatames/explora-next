@@ -55,19 +55,21 @@ categoria: toursGastronomicos
 keywords:
 - tour privado tapas barcelona
 - ruta tapas barcelona guia privado
-imagen: https://imgcdn.bokun.tools/182ec065-9b2d-41ec-af6b-98d288742b79.jpg
-imagenAlt: "Pinchos variados en la barra de un bar"
+imagen: /images/actividades/barcelona/proveedor-1229823/prov-tapas-mesa.webp
+imagenAlt: 'Grupo compartiendo tapas'
 galeria:
+- src: https://imgcdn.bokun.tools/182ec065-9b2d-41ec-af6b-98d288742b79.jpg
+  alt: 'Pinchos variados en la barra de un bar'
 - src: https://imgcdn.bokun.tools/2d24459a-c3ec-4e48-bd3b-fa9ac991660e.jpg
-  alt: "Chupitos de colores en la barra de un bar"
+  alt: 'Chupitos de colores en la barra de un bar'
 - src: https://imgcdn.bokun.tools/8d4f2ca0-6c94-44f3-aa44-2fa856d061f9.jpg
-  alt: "Aperitivo a bordo: aceitunas, sándwiches y fruta"
+  alt: 'Aperitivo a bordo: aceitunas, sándwiches y fruta'
 - src: https://imgcdn.bokun.tools/ec44a72f-67ad-4dde-82bd-ea77ca65ac3b.jpg
-  alt: "Vermut con aceitunas y naranja"
+  alt: 'Vermut con aceitunas y naranja'
 - src: https://imgcdn.bokun.tools/20466b29-cd3a-48da-a261-f5d05e1a90fd.jpg
-  alt: "Tapas con jamón y una caña de cerveza"
+  alt: 'Tapas con jamón y una caña de cerveza'
 - src: https://imgcdn.bokun.tools/2ec8c2a3-305d-483e-8efe-612a9b02e6f7.jpg
-  alt: "Mesa de tapas variadas con cerveza"
+  alt: 'Mesa de tapas variadas con cerveza'
 publicada: true
 indexar: false
 destacada: false

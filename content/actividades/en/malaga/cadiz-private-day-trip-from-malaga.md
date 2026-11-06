@@ -72,25 +72,27 @@ keywords:
 - cadiz guided tour from malaga
 - cadiz full day from malaga
 - private cadiz trip
-imagen: https://imgcdn.bokun.tools/c0c1c3c1-7479-4259-a51b-76e5b16dc851.jpg
-imagenAlt: Cádiz Cathedral seen from the seafront
+imagen: /images/actividades/malaga/fotos-biblioteca/wikimedia-09.webp
+imagenAlt: 'Cádiz Cathedral and rooftops'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: https://imgcdn.bokun.tools/c0c1c3c1-7479-4259-a51b-76e5b16dc851.jpg
+  alt: 'Cádiz Cathedral seen from the seafront'
 - src: /images/actividades/cadiz/centro/catedral-tejados.webp
-  alt: The cathedral above Cádiz rooftops
+  alt: 'The cathedral above Cádiz rooftops'
 - src: /images/actividades/cadiz/mar/caleta-balneario.webp
-  alt: La Caleta beach and the old bathhouse
+  alt: 'La Caleta beach and the old bathhouse'
 - src: https://imgcdn.bokun.tools/777ac696-9df1-4765-badb-9932c37248c2.jpg
-  alt: Golden dome and towers of Cádiz Cathedral
+  alt: 'Golden dome and towers of Cádiz Cathedral'
 - src: /images/actividades/cadiz/centro/vista-torre-tavira.webp
-  alt: View of Cádiz from the Torre Tavira
+  alt: 'View of Cádiz from the Torre Tavira'
 - src: https://imgcdn.bokun.tools/8acecd7e-aa32-467b-b935-bef9de0334aa.jpg
-  alt: Cádiz beach with the cathedral behind
+  alt: 'Cádiz beach with the cathedral behind'
 - src: /images/actividades/cadiz/mar/caleta-barcas.webp
-  alt: Fishing boats at La Caleta
+  alt: 'Fishing boats at La Caleta'
 bokunProductId: 1116475
 fecha_actualizacion: '2026-10-24'
 privada: true

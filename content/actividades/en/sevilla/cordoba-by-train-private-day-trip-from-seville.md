@@ -72,8 +72,8 @@ keywords:
 - cordoba day trip from seville by train
 - cordoba private guide from seville
 - mezquita cordoba train day trip
-imagen: https://imgcdn.bokun.tools/7bcf05b6-3657-4a69-8ab5-28616e00823f.jpg
-imagenAlt: Arches and columns of the Mosque of Córdoba
+imagen: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-dorado.webp
+imagenAlt: 'Golden mosaics of the Mosque''s mihrab'
 ratingProveedor: 5.0
 numeroOpiniones: 8
 publicada: true
@@ -81,17 +81,17 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/cordoba/mezquita/arcos-bosque-columnas.webp
-  alt: Forest of columns and two-tone arches in the Mosque of Córdoba
+  alt: 'Forest of columns and two-tone arches in the Mosque of Córdoba'
 - src: https://imgcdn.bokun.tools/40011c40-e146-4cff-b1cd-feb2445c84d6.jpg
-  alt: Flower-lined street with the Mosque tower behind
-- src: /images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-mihrab-dorado.webp
-  alt: Golden mosaics of the Mosque's mihrab
+  alt: 'Flower-lined street with the Mosque tower behind'
+- src: https://imgcdn.bokun.tools/7bcf05b6-3657-4a69-8ab5-28616e00823f.jpg
+  alt: 'Arches and columns of the Mosque of Córdoba'
 - src: https://imgcdn.bokun.tools/0b7139ab-50dc-426f-88f4-d2d5a100c68d.jpg
-  alt: Travellers in a Córdoba courtyard full of flowerpots
+  alt: 'Travellers in a Córdoba courtyard full of flowerpots'
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores with blue flowerpots
+  alt: 'Calleja de las Flores with blue flowerpots'
 - src: https://imgcdn.bokun.tools/70d7cebd-1c7c-44d2-a851-927dc58bacce.jpg
-  alt: Roman Bridge and Mosque of Córdoba at sunset
+  alt: 'Roman Bridge and Mosque of Córdoba at sunset'
 bokunProductId: 793766
 fecha_actualizacion: '2026-10-24'
 privada: true

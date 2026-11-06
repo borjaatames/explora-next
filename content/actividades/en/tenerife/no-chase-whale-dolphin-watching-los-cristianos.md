@@ -87,23 +87,23 @@ keywords:
 - glass bottom catamaran tenerife
 - dolphins south tenerife
 - boat trip los cristianos
-imagen: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
-imagenAlt: Boats moored in Los Cristianos harbour
+imagen: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
+imagenAlt: 'Short-finned pilot whale breathing at the surface'
 galeria:
 - src: /images/actividades/tenerife/cristianos/barco-turistas-delfines.webp
-  alt: Whale-watching boat with passengers beside a pod of pilot whales in Tenerife
+  alt: 'Whale-watching boat with passengers beside a pod of pilot whales in Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
-  alt: Pilot whales at the surface off the coast of Tenerife
-- src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
-  alt: Short-finned pilot whale breathing at the surface
+  alt: 'Pilot whales at the surface off the coast of Tenerife'
+- src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
+  alt: 'Boats moored in Los Cristianos harbour'
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
-  alt: Los Cristianos bay seen from the shore
+  alt: 'Los Cristianos bay seen from the shore'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Atlantic spotted dolphin in Canary Islands waters
+  alt: 'Atlantic spotted dolphin in Canary Islands waters'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
-  alt: Montaña de Guaza next to Los Cristianos
+  alt: 'Montaña de Guaza next to Los Cristianos'
 - src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-  alt: Pilot whale blowing in the waters of southern Tenerife
+  alt: 'Pilot whale blowing in the waters of southern Tenerife'
 ratingProveedor: 4.6
 numeroOpiniones: 15598
 atraccionesRelacionadas:

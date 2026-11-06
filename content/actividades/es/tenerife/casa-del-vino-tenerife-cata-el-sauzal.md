@@ -74,21 +74,19 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/tenerife/casa-del-vino/ftc-cata-copas-blanco-tinto-uvas.webp
-imagenAlt: "Copa de vino blanco y copa de tinto junto a racimos de uva y una barrica"
+imagen: /images/actividades/alicante/vino/cata-copas.webp
+imagenAlt: 'Copas de vino blanco, rosado y tinto preparadas para una cata'
 galeria:
 - src: /images/actividades/tenerife/orotava/valle-plataneras.webp
-  alt: "Vista del norte de Tenerife entre cultivos y el mar"
+  alt: 'Vista del norte de Tenerife entre cultivos y el mar'
 - src: /images/actividades/tenerife/casa-del-vino/ftc-uva-tinta-hojas-vina.webp
-  alt: "Uva tinta madura entre las hojas de la vid"
-- src: /images/actividades/alicante/vino/cata-copas.webp
-  alt: "Copas de vino blanco, rosado y tinto preparadas para una cata"
+  alt: 'Uva tinta madura entre las hojas de la vid'
 - src: /images/actividades/tenerife/orotava/balcones-madera.webp
-  alt: "Casona canaria con balcones de madera tradicionales"
+  alt: 'Casona canaria con balcones de madera tradicionales'
 - src: /images/actividades/tenerife/teide/teide-nevado.webp
-  alt: "El Teide, que se ve desde el norte de Tenerife"
+  alt: 'El Teide, que se ve desde el norte de Tenerife'
 - src: /images/actividades/tenerife/bodega/ftc-barricas-nave-bodega.webp
-  alt: "Barricas de vino apiladas en una bodega"
+  alt: 'Barricas de vino apiladas en una bodega'
 ---
 
 ## Qué vas a ver

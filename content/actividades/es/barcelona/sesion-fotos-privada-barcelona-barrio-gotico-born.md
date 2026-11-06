@@ -53,29 +53,31 @@ keywords:
 - sesion de fotos barcelona
 - fotografo privado barcelona
 - fotos barrio gotico barcelona
-imagen: https://imgcdn.bokun.tools/e6af0600-9ead-4bf1-8d1a-6791bbbd7c41.jpg
-imagenAlt: Viajera con sombrero fotografiada ante la fachada gótica de la Catedral de Barcelona
+imagen: /images/actividades/barcelona/fotos-biblioteca/pexels-10936417.webp
+imagenAlt: 'Puente del Bisbe en el Barrio Gótico'
 galeria:
+- src: https://imgcdn.bokun.tools/e6af0600-9ead-4bf1-8d1a-6791bbbd7c41.jpg
+  alt: 'Viajera con sombrero fotografiada ante la fachada gótica de la Catedral de Barcelona'
 - src: https://imgcdn.bokun.tools/6230ac14-602f-4b15-ace6-f84da5b9e802.jpg
-  alt: Viajera paseando por la arena de la playa de Barcelona
+  alt: 'Viajera paseando por la arena de la playa de Barcelona'
 - src: https://imgcdn.bokun.tools/d2d47db6-9269-4950-b14d-b8e0c9e1204b.jpg
-  alt: Dos amigas abrazadas en una calle estrecha del casco antiguo
+  alt: 'Dos amigas abrazadas en una calle estrecha del casco antiguo'
 - src: https://imgcdn.bokun.tools/554425f0-8d96-48e3-942f-a28738ec92c3.jpg
-  alt: Viajera con sombrero en una calle de Barcelona con taxis amarillos y negros
+  alt: 'Viajera con sombrero en una calle de Barcelona con taxis amarillos y negros'
 - src: https://imgcdn.bokun.tools/da4042ff-f26c-4298-a936-f8d52a8610ed.jpg
-  alt: Viajera con un zumo en un puesto de fruta del mercado
+  alt: 'Viajera con un zumo en un puesto de fruta del mercado'
 - src: https://imgcdn.bokun.tools/49267df8-e84f-4ec8-aa5d-45e1b46514da.jpg
-  alt: Viajera con los brazos abiertos en un mirador sobre Barcelona
+  alt: 'Viajera con los brazos abiertos en un mirador sobre Barcelona'
 - src: https://imgcdn.bokun.tools/32443449-d336-41dd-aabe-f4505fe10672.jpg
-  alt: Grupo de amigos contemplando Barcelona desde un mirador
+  alt: 'Grupo de amigos contemplando Barcelona desde un mirador'
 - src: https://imgcdn.bokun.tools/7be57da3-2a0a-46f0-b735-8b6f091624a6.jpg
-  alt: Viajera con vestido rojo de espaldas en la playa al atardecer
+  alt: 'Viajera con vestido rojo de espaldas en la playa al atardecer'
 - src: https://imgcdn.bokun.tools/13121437-69e8-43ba-81d0-28aec3f97848.jpg
-  alt: Dos amigas en la orilla del mar al atardecer
+  alt: 'Dos amigas en la orilla del mar al atardecer'
 - src: https://imgcdn.bokun.tools/063b09e8-64a8-4886-ade7-1371cdb2d29b.jpg
-  alt: Viajera con vestido rojo junto a las columnas del Park Güell
+  alt: 'Viajera con vestido rojo junto a las columnas del Park Güell'
 - src: https://imgcdn.bokun.tools/56d319cb-89aa-4df4-a78e-91aebf30be90.jpg
-  alt: Viajera caminando por un paseo con palmeras junto al mar
+  alt: 'Viajera caminando por un paseo con palmeras junto al mar'
 publicada: true
 indexar: false
 destacada: false

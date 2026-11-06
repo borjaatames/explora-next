@@ -58,19 +58,21 @@ keywords:
 - tour privado casco antiguo barcelona
 - barrio gotico privado barcelona
 - barcelona rincones secretos tour
-imagen: https://imgcdn.bokun.tools/f608dada-5256-40ee-9ca8-faeef006797c.jpg
-imagenAlt: "Fachada de Santa Maria del Mar"
+imagen: /images/actividades/barcelona/barrio-gotico-barcelona/pixabay-4298066-hero.webp
+imagenAlt: 'Fachada de la Catedral de Barcelona'
 galeria:
+- src: https://imgcdn.bokun.tools/f608dada-5256-40ee-9ca8-faeef006797c.jpg
+  alt: 'Fachada de Santa Maria del Mar'
 - src: https://imgcdn.bokun.tools/e2924684-dcf0-47b6-9161-e2dbf8ebe53c.jpg
-  alt: "Bóvedas góticas de una iglesia de Barcelona"
+  alt: 'Bóvedas góticas de una iglesia de Barcelona'
 - src: https://imgcdn.bokun.tools/a82db924-389f-457e-a147-1a587337725c.jpg
-  alt: "Fachada de la Catedral de Barcelona"
+  alt: 'Fachada de la Catedral de Barcelona'
 - src: https://imgcdn.bokun.tools/55b82bf7-bf79-49ec-a793-a21808dc5ada.jpg
-  alt: "Cubierta ondulada del mercado de Santa Caterina"
+  alt: 'Cubierta ondulada del mercado de Santa Caterina'
 - src: https://imgcdn.bokun.tools/e98b62e2-31d9-4d84-b8b8-8af1f3367991.jpg
-  alt: "Interior del mercado de La Boqueria"
+  alt: 'Interior del mercado de La Boqueria'
 - src: https://imgcdn.bokun.tools/1d4fb340-6354-4666-9929-89dc363c7831.jpg
-  alt: "Plaça de Catalunya vista desde lo alto"
+  alt: 'Plaça de Catalunya vista desde lo alto'
 publicada: true
 indexar: false
 destacada: false

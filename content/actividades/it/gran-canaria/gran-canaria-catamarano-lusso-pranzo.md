@@ -90,23 +90,25 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-11-05'
-imagen: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
-imagenAlt: "Prua di un catamarano sull'acqua limpida"
+imagen: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
+imagenAlt: 'Barche al largo della costa di Gran Canaria'
 galeria:
+- src: /images/actividades/gran-canaria/catamaran/fgc-proa-catamaran-agua-clara.webp
+  alt: 'Prua di un catamarano sull''acqua limpida'
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
-  alt: "Il porto di Puerto Rico de Gran Canaria, punto di partenza"
+  alt: 'Il porto di Puerto Rico de Gran Canaria, punto di partenza'
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
-  alt: "Costa rocciosa nel sud-ovest di Gran Canaria"
+  alt: 'Costa rocciosa nel sud-ovest di Gran Canaria'
 - src: /images/actividades/gran-canaria/catamaran/fgc-catamaran-fondeado-aguas-turquesa.webp
-  alt: "Catamarano all'ancora in acque turchesi"
+  alt: 'Catamarano all''ancora in acque turchesi'
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
-  alt: "Fondale roccioso sotto un'acqua cristallina, ideale per lo snorkeling"
+  alt: 'Fondale roccioso sotto un''acqua cristallina, ideale per lo snorkeling'
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
-  alt: "Scogliere e case sulla costa di Mogán viste dal mare"
+  alt: 'Scogliere e case sulla costa di Mogán viste dal mare'
 - src: /images/actividades/gran-canaria/catamaran/fgc-catamaranes-fondeados-orilla.webp
-  alt: "Vista aerea di catamarani all'ancora in acque turchesi vicino alla riva"
+  alt: 'Vista aerea di catamarani all''ancora in acque turchesi vicino alla riva'
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
-  alt: "Barche a vela ormeggiate in un porto turistico"
+  alt: 'Barche a vela ormeggiate in un porto turistico'
 ---
 
 ## Cosa vedrai

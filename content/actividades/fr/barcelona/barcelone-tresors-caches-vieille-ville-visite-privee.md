@@ -57,19 +57,21 @@ categoria: visitasGuiadas
 keywords:
 - visite privee vieille ville barcelone
 - quartier gothique barcelone guide francais
-imagen: https://imgcdn.bokun.tools/f608dada-5256-40ee-9ca8-faeef006797c.jpg
-imagenAlt: "Façade de Santa Maria del Mar"
+imagen: /images/actividades/barcelona/barrio-gotico-barcelona/pixabay-4298066-hero.webp
+imagenAlt: 'Façade de la cathédrale de Barcelone'
 galeria:
+- src: https://imgcdn.bokun.tools/f608dada-5256-40ee-9ca8-faeef006797c.jpg
+  alt: 'Façade de Santa Maria del Mar'
 - src: https://imgcdn.bokun.tools/e2924684-dcf0-47b6-9161-e2dbf8ebe53c.jpg
-  alt: "Voûtes gothiques d’une église de Barcelone"
+  alt: 'Voûtes gothiques d’une église de Barcelone'
 - src: https://imgcdn.bokun.tools/a82db924-389f-457e-a147-1a587337725c.jpg
-  alt: "Façade de la cathédrale de Barcelone"
+  alt: 'Façade de la cathédrale de Barcelone'
 - src: https://imgcdn.bokun.tools/55b82bf7-bf79-49ec-a793-a21808dc5ada.jpg
-  alt: "Toit ondulé du marché de Santa Caterina"
+  alt: 'Toit ondulé du marché de Santa Caterina'
 - src: https://imgcdn.bokun.tools/e98b62e2-31d9-4d84-b8b8-8af1f3367991.jpg
-  alt: "Intérieur du marché de la Boqueria"
+  alt: 'Intérieur du marché de la Boqueria'
 - src: https://imgcdn.bokun.tools/1d4fb340-6354-4666-9929-89dc363c7831.jpg
-  alt: "La place de Catalogne vue d’en haut"
+  alt: 'La place de Catalogne vue d’en haut'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

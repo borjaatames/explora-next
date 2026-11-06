@@ -87,21 +87,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
-imagenAlt: "Bucht von Papagayo, von der Klippe aus gesehen"
+imagen: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
+imagenAlt: 'Katamaran mit Netzen am Bug, von oben gesehen'
 galeria:
 - src: /images/actividades/lanzarote/catamaran/flz-cenital-turquesa.webp
-  alt: "Katamaran von oben über türkisfarbenem Wasser"
-- src: /images/actividades/lanzarote/catamaran/flz-redes-cubierta.webp
-  alt: "Katamaran mit Netzen am Bug, von oben gesehen"
+  alt: 'Katamaran von oben über türkisfarbenem Wasser'
+- src: /images/actividades/lanzarote/papagayo/flz-cala-desde-arriba.webp
+  alt: 'Bucht von Papagayo, von der Klippe aus gesehen'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-nubes.webp
-  alt: "Strand von Papagayo unter bewölktem Himmel"
+  alt: 'Strand von Papagayo unter bewölktem Himmel'
 - src: /images/actividades/lanzarote/catamaran/flz-fondeado-aguas-claras.webp
-  alt: "Katamaran ankert in klarem Wasser"
+  alt: 'Katamaran ankert in klarem Wasser'
 - src: /images/actividades/lanzarote/papagayo/flz-playa-promontorio.webp
-  alt: "Strand von Papagayo unterhalb seiner felsigen Landzunge"
+  alt: 'Strand von Papagayo unterhalb seiner felsigen Landzunge'
 - src: /images/actividades/lanzarote/papagayo/flz-acantilados-playa.webp
-  alt: "Klippen und Strand der Playas de Papagayo"
+  alt: 'Klippen und Strand der Playas de Papagayo'
 ---
 
 ## Was du siehst

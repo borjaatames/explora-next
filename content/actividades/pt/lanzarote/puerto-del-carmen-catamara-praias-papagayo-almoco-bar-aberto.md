@@ -92,21 +92,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
-imagenAlt: "Barcos de excursão em Puerto del Carmen"
+imagen: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
+imagenAlt: 'Catamarã fundeado com a sua lancha auxiliar em águas turquesa'
 galeria:
-- src: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
-  alt: "Catamarã fundeado com a sua lancha auxiliar em águas turquesa"
+- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
+  alt: 'Barcos de excursão em Puerto del Carmen'
 - src: /images/actividades/lanzarote/papagayo/flz-playa-dorada-turquesa.webp
-  alt: "Praia de areia dourada e águas turquesa em Papagayo"
+  alt: 'Praia de areia dourada e águas turquesa em Papagayo'
 - src: /images/actividades/lanzarote/catamaran/flz-proa-agua-cristalina.webp
-  alt: "Proa de um catamarã sobre água cristalina"
+  alt: 'Proa de um catamarã sobre água cristalina'
 - src: /images/actividades/lanzarote/papagayo/flz-costa-montana.webp
-  alt: "Costa de Papagayo com montanhas vulcânicas ao fundo"
+  alt: 'Costa de Papagayo com montanhas vulcânicas ao fundo'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
-  alt: "Enseada de águas turquesa em Papagayo"
+  alt: 'Enseada de águas turquesa em Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
-  alt: "Ondulação na margem de uma praia de Papagayo"
+  alt: 'Ondulação na margem de uma praia de Papagayo'
 avisoReserva: "A tripulação ou o guia fala inglês, espanhol, francês, italiano e alemão: não há explicações em português."
 ---
 

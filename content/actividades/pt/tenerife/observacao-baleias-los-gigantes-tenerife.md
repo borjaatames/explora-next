@@ -74,23 +74,23 @@ keywords:
 - excursão baleias los gigantes
 - passeio baleias tenerife
 - cetáceos tenerife
-imagen: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
-imagenAlt: Falésias de Los Gigantes vistas do mar em Tenerife
+imagen: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
+imagenAlt: 'Golfinho a nadar à superfície do mar'
 galeria:
 - src: /images/actividades/tenerife/gigantes/costa-acantilado-velero.webp
-  alt: Costa e falésia vistas a partir de um barco de observação
-- src: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
-  alt: Golfinho a nadar à superfície do mar
+  alt: 'Costa e falésia vistas a partir de um barco de observação'
+- src: /images/actividades/tenerife/gigantes/acantilados-gigantes.webp
+  alt: 'Falésias de Los Gigantes vistas do mar em Tenerife'
 - src: /images/actividades/tenerife/gigantes/gigantes-pueblo.webp
-  alt: Localidade de Los Gigantes em Tenerife
+  alt: 'Localidade de Los Gigantes em Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
-  alt: Baleia-piloto tropical a emergir em Tenerife
+  alt: 'Baleia-piloto tropical a emergir em Tenerife'
 - src: /images/actividades/tenerife/gigantes/gigantes-costa.webp
-  alt: Costa de Los Gigantes com falésias vulcânicas
+  alt: 'Costa de Los Gigantes com falésias vulcânicas'
 - src: /images/actividades/tenerife/cetaceos/delfin-moteado.webp
-  alt: Golfinho-pintado-do-atlântico perto de Tenerife
+  alt: 'Golfinho-pintado-do-atlântico perto de Tenerife'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
-  alt: Vista a partir do mar para as falésias de Los Gigantes
+  alt: 'Vista a partir do mar para as falésias de Los Gigantes'
 ratingProveedor: 4.7
 numeroOpiniones: 5888
 atraccionesRelacionadas:

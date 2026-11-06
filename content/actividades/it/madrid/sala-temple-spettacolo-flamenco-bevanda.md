@@ -73,11 +73,11 @@ keywords:
 - tablao flamenco madrid economico
 - flamenco vicino palazzo reale madrid
 - flamenco autentico madrid
-imagen: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-imagenAlt: 'Ballerina e musicisti in un piccolo tablao flamenco'
+imagen: /images/actividades/cordoba/flamenco/palmas.webp
+imagenAlt: 'Palmas flamenche a Madrid'
 galeria:
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: 'Palmas flamenche a Madrid'
+- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
+  alt: 'Ballerina e musicisti in un piccolo tablao flamenco'
 - src: /images/actividades/cordoba/flamenco/guitarrista.webp
   alt: 'Chitarrista di flamenco'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp

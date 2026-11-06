@@ -89,21 +89,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/girona/fgi-mar/fgi-catamaran-fondeado-aguas-claras.webp
-imagenAlt: "A catamaran anchored in clear water for swimming"
+imagen: /images/actividades/fuerteventura/catamaran-caleta/ffv-catamaran-navegando-vela.webp
+imagenAlt: 'Catamaran sailing the Mediterranean'
 galeria:
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-costa-aerea.webp
-  alt: "Aerial view of the Lloret de Mar coastline with coves and pines"
+  alt: 'Aerial view of the Lloret de Mar coastline with coves and pines'
 - src: /images/actividades/girona/fgi-mar/fgi-nadador-tubo-fondo-rocoso.webp
-  alt: "A person swimming with mask and snorkel over a rocky seabed"
+  alt: 'A person swimming with mask and snorkel over a rocky seabed'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-rocas.webp
-  alt: "Sandy beach with rocks in Lloret de Mar"
+  alt: 'Sandy beach with rocks in Lloret de Mar'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-bahia-desde-alto.webp
-  alt: "Lloret de Mar bay seen from above"
+  alt: 'Lloret de Mar bay seen from above'
 - src: /images/actividades/girona/fgi-mar/fgi-mar-a-ras-de-agua.webp
-  alt: "The sea at water level by a rocky coast"
+  alt: 'The sea at water level by a rocky coast'
 - src: /images/actividades/girona/fgi-lloret/fgi-lloret-playa-principal.webp
-  alt: "Lloret de Mar main beach with rocks in the foreground"
+  alt: 'Lloret de Mar main beach with rocks in the foreground'
 avisoReserva: 'Seasonal activity: the next available dates start in May 2027.'
 ---
 

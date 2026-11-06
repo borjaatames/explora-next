@@ -92,21 +92,19 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/estrellas/fgc-atardecer-roque-nublo-pinos.webp
-imagenAlt: "Sunset behind Roque Nublo framed by pine trees"
+imagen: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-cielo-azul.webp
+imagenAlt: 'Roque Nublo on its rocky ridge'
 galeria:
 - src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-santa-brigida.webp
-  alt: "The Bandama Caldera"
+  alt: 'The Bandama Caldera'
 - src: /images/actividades/gran-canaria/tejeda/fgc-caldera-tejeda-luz-dorada.webp
-  alt: "The Tejeda caldera with Roque Bentayga in the late-afternoon light"
-- src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-cielo-azul.webp
-  alt: "Roque Nublo on its rocky ridge"
+  alt: 'The Tejeda caldera with Roque Bentayga in the late-afternoon light'
 - src: /images/actividades/gran-canaria/jeep/caldera-tirajana.webp
-  alt: "The Tirajana caldera"
+  alt: 'The Tirajana caldera'
 - src: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
-  alt: "Sunset from Pico de las Nieves with Mount Teide on the horizon"
+  alt: 'Sunset from Pico de las Nieves with Mount Teide on the horizon'
 - src: /images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp
-  alt: "Silhouette of Roque Nublo at sunset above the sea of clouds"
+  alt: 'Silhouette of Roque Nublo at sunset above the sea of clouds'
 ---
 
 ## What you will see

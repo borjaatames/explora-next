@@ -94,21 +94,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
-imagenAlt: "Barcos de excursión en Puerto del Carmen"
+imagen: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
+imagenAlt: 'Catamarán fondeado con su lancha auxiliar en aguas turquesa'
 galeria:
-- src: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
-  alt: "Catamarán fondeado con su lancha auxiliar en aguas turquesa"
+- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
+  alt: 'Barcos de excursión en Puerto del Carmen'
 - src: /images/actividades/lanzarote/papagayo/flz-playa-dorada-turquesa.webp
-  alt: "Playa de arena dorada y aguas turquesa en Papagayo"
+  alt: 'Playa de arena dorada y aguas turquesa en Papagayo'
 - src: /images/actividades/lanzarote/catamaran/flz-proa-agua-cristalina.webp
-  alt: "Proa de un catamarán sobre agua cristalina"
+  alt: 'Proa de un catamarán sobre agua cristalina'
 - src: /images/actividades/lanzarote/papagayo/flz-costa-montana.webp
-  alt: "Costa de Papagayo con montañas volcánicas al fondo"
+  alt: 'Costa de Papagayo con montañas volcánicas al fondo'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
-  alt: "Cala de aguas turquesa en Papagayo"
+  alt: 'Cala de aguas turquesa en Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
-  alt: "Oleaje en la orilla de una playa de Papagayo"
+  alt: 'Oleaje en la orilla de una playa de Papagayo'
 ---
 
 ## Qué vas a ver

@@ -99,23 +99,21 @@ keywords:
 - casa batllo biglietti
 - casa batllo gaudi
 - casa batllo biglietto ufficiale
-imagen: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp
-imagenAlt: La facciata modernista di Casa Batlló con mosaici colorati e muri ondulati, a Barcellona
+imagen: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
+imagenAlt: 'Veduta aerea di Barcellona con il mare e la Sagrada Família'
 galeria:
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-78111992-hero.webp
-  alt: Dettaglio della facciata ondulata di Casa Batlló, di Gaudí
+  alt: 'Dettaglio della facciata ondulata di Casa Batlló, di Gaudí'
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-5874108-hero.webp
-  alt: Dettaglio della facciata ondulata di Casa Batlló, di Gaudí
+  alt: 'Dettaglio della facciata ondulata di Casa Batlló, di Gaudí'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
-  alt: La facciata ondulata di Casa Batlló con mosaici colorati e balconi decorati
+  alt: 'La facciata ondulata di Casa Batlló con mosaici colorati e balconi decorati'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-window-stained-glass-barcelona-hero-hero.webp
-  alt: Dettaglio di una vetrata colorata di Casa Batlló
+  alt: 'Dettaglio di una vetrata colorata di Casa Batlló'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero-hero.webp
-  alt: La facciata curva di Casa Batlló con i suoi mosaici, nel paesaggio di Barcellona
+  alt: 'La facciata curva di Casa Batlló con i suoi mosaici, nel paesaggio di Barcellona'
 - src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
-  alt: Panorama di Barcellona al tramonto tra edifici storici e moderni
-- src: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
-  alt: Veduta aerea di Barcellona con il mare e la Sagrada Família
+  alt: 'Panorama di Barcellona al tramonto tra edifici storici e moderni'
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

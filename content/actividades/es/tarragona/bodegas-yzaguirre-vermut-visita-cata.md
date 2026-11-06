@@ -71,19 +71,17 @@ keywords:
 - visita bodega vermut
 - vermut reus
 - que hacer en tarragona
-imagen: /images/actividades/tarragona/vermut/yzaguirre-historica.webp
-imagenAlt: Almacenes históricos de Casa Yzaguirre
+imagen: /images/actividades/tarragona/vermut/barricas-vermut.webp
+imagenAlt: 'Barricas en una bodega de vermut de Reus'
 galeria:
 - src: /images/actividades/tarragona/vermut/copa-vermut-hielo.webp
-  alt: Copa de vermut con hielo
+  alt: 'Copa de vermut con hielo'
 - src: /images/actividades/tarragona/vermut/cata-copa-en-mano.webp
-  alt: Copa en mano durante una cata
-- src: /images/actividades/tarragona/vermut/barricas-vermut.webp
-  alt: Barricas en una bodega de vermut de Reus
+  alt: 'Copa en mano durante una cata'
 - src: /images/actividades/tarragona/vermut/vermut-grifo.webp
-  alt: Vermut con aceitunas
+  alt: 'Vermut con aceitunas'
 - src: /images/actividades/tarragona/vermut/botellas-vermut.webp
-  alt: Botellas de vermut
+  alt: 'Botellas de vermut'
 ratingProveedor: 4.8
 numeroOpiniones: 6
 atraccionesRelacionadas:

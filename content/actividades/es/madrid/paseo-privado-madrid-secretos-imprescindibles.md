@@ -55,23 +55,23 @@ keywords:
 - tour privado madrid a pie
 - guía privado madrid
 - paseo por madrid de los austrias
-imagen: https://imgcdn.bokun.tools/578aa48b-6b63-4aa0-b09b-f4b141ed3870.jpg
-imagenAlt: Plaza Mayor de Madrid con la estatua ecuestre de Felipe III
+imagen: /images/actividades/madrid/la-latina/calle-cava-baja-banderines.webp
+imagenAlt: 'Calle de la Cava Baja en el barrio de La Latina, Madrid'
 galeria:
-- src: /images/actividades/madrid/la-latina/calle-cava-baja-banderines.webp
-  alt: Calle de la Cava Baja en el barrio de La Latina, Madrid
+- src: https://imgcdn.bokun.tools/578aa48b-6b63-4aa0-b09b-f4b141ed3870.jpg
+  alt: 'Plaza Mayor de Madrid con la estatua ecuestre de Felipe III'
 - src: https://imgcdn.bokun.tools/b47a7ec9-e3f9-462a-878a-65c06c2d23b4.jpg
-  alt: Plaza de la Villa en el Madrid de los Austrias
+  alt: 'Plaza de la Villa en el Madrid de los Austrias'
 - src: https://imgcdn.bokun.tools/9da2c1c2-a4a9-4bb4-b5a9-d103259a1995.jpg
-  alt: Catedral de la Almudena
+  alt: 'Catedral de la Almudena'
 - src: https://imgcdn.bokun.tools/b481d894-7eeb-4a0b-97cb-effe514c9126.jpg
-  alt: Edificio Metrópolis y la calle de Alcalá
+  alt: 'Edificio Metrópolis y la calle de Alcalá'
 - src: https://imgcdn.bokun.tools/c8053d89-d74c-4472-88f8-19d06867162a.jpg
-  alt: Real Casa de Correos en la Puerta del Sol
+  alt: 'Real Casa de Correos en la Puerta del Sol'
 - src: https://imgcdn.bokun.tools/3fd17acd-21c4-46ec-99dc-3882c721fbfc.jpg
-  alt: Fachada de una iglesia en el Madrid de los Austrias
+  alt: 'Fachada de una iglesia en el Madrid de los Austrias'
 - src: https://imgcdn.bokun.tools/8e240a73-043e-4a35-bb8e-d866c23d01f0.jpg
-  alt: Plaza con iglesia en el centro histórico de Madrid
+  alt: 'Plaza con iglesia en el centro histórico de Madrid'
 publicada: true
 destacada: false
 fecha: '2026-10-07'

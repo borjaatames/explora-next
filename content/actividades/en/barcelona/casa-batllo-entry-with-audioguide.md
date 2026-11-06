@@ -100,23 +100,21 @@ keywords:
 - casa batllo entrada
 - casa batllo gaudi tour
 - casa batllo official ticket
-imagen: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-hero.webp
-imagenAlt: Casa Batlló modernist facade with colorful mosaic tiles and undulating walls in Barcelona
+imagen: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
+imagenAlt: 'Aerial view of Barcelona''s urban landscape with Mediterranean coastline and Sagrada Familia'
 galeria:
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-78111992-hero.webp
-  alt: Detail of the undulating facade of Casa Batlló, by Gaudí
+  alt: 'Detail of the undulating facade of Casa Batlló, by Gaudí'
 - src: /images/actividades/barcelona/casa-batllo/wikimedia-5874108-hero.webp
-  alt: Detail of the undulating facade of Casa Batlló, by Gaudí
+  alt: 'Detail of the undulating facade of Casa Batlló, by Gaudí'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero-hero.webp
-  alt: Casa Batlló's undulating facade with colorful mosaic tiles and ornamental balconies in Barcelona
+  alt: 'Casa Batlló''s undulating facade with colorful mosaic tiles and ornamental balconies in Barcelona'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-window-stained-glass-barcelona-hero-hero.webp
-  alt: Ornate stained glass window detail at Casa Batlló, Barcelona's iconic Gaudí modernist building
+  alt: 'Ornate stained glass window detail at Casa Batlló, Barcelona''s iconic Gaudí modernist building'
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-blick-aus-barcelona-hero-hero.webp
-  alt: Casa Batlló's distinctive curved facade with colorful mosaics in Barcelona cityscape
+  alt: 'Casa Batlló''s distinctive curved facade with colorful mosaics in Barcelona cityscape'
 - src: /images/actividades/barcelona/casa-batllo/unsplash-t0oqiXZ2zBU-hero.webp
-  alt: Barcelona cityscape with Gothic Quarter architecture and modern buildings at sunset
-- src: /images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp
-  alt: Aerial view of Barcelona's urban landscape with Mediterranean coastline and Sagrada Familia
+  alt: 'Barcelona cityscape with Gothic Quarter architecture and modern buildings at sunset'
 ratingProveedor: 4.7
 numeroOpiniones: 27982
 publicada: true

@@ -90,21 +90,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/catamaran/fgc-catamaranes-fondeados-orilla.webp
-imagenAlt: Katamarane vor Anker in türkisem Wasser nahe der Küste, von oben
+imagen: /images/actividades/gran-canaria/fotos-biblioteca/pexels-9091399.webp
+imagenAlt: 'Boote vor den Klippen von Gran Canaria'
 galeria:
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
-  alt: Der Jachthafen von Puerto Rico de Gran Canaria
+  alt: 'Der Jachthafen von Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
-  alt: Boote vor Anker unter vulkanischen Klippen
+  alt: 'Boote vor Anker unter vulkanischen Klippen'
 - src: /images/actividades/gran-canaria/mogan-kayak/acantilados-volcanicos-mogan-mar.webp
-  alt: Vulkanische Steilküste im Südwesten, vom Meer aus gesehen
+  alt: 'Vulkanische Steilküste im Südwesten, vom Meer aus gesehen'
 - src: /images/actividades/gran-canaria/catamaran/fgc-esnorquel-fondo-rocoso.webp
-  alt: Schnorcheln über felsigem Grund in klarem Wasser
+  alt: 'Schnorcheln über felsigem Grund in klarem Wasser'
 - src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-  alt: Fische über sandigem Grund vor Gran Canaria
+  alt: 'Fische über sandigem Grund vor Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
-  alt: Bucht und Strand von Puerto Rico de Gran Canaria
+  alt: 'Bucht und Strand von Puerto Rico de Gran Canaria'
 avisoReserva: 'An Bord gibt es keine Erklärungen auf Deutsch: Die Crew spricht vor allem Spanisch und Englisch.'
 ---
 

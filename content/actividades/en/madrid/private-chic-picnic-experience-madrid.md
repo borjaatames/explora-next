@@ -52,23 +52,23 @@ keywords:
 - private picnic madrid
 - gourmet picnic madrid
 - chic picnic experience madrid
-imagen: https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg
-imagenAlt: Gourmet picnic table set up at a discreet spot in Madrid
+imagen: /images/actividades/madrid/retiro/retiro-estanque-barcas.webp
+imagenAlt: 'Rowing boats on the Retiro lake'
 galeria:
 - src: https://imgcdn.bokun.tools/35d99623-943d-4e85-978a-6daa27b6ca1e.jpg
-  alt: Selection of Reserva Serrano ham and artisan cheeses for the picnic
+  alt: 'Selection of Reserva Serrano ham and artisan cheeses for the picnic'
 - src: https://imgcdn.bokun.tools/c3cdf5fc-6479-473c-9726-df26b823e480.jpg
-  alt: Glasses of non-alcoholic sparkling wine served during the private picnic
+  alt: 'Glasses of non-alcoholic sparkling wine served during the private picnic'
 - src: https://imgcdn.bokun.tools/0a4f794f-d84f-4aaa-a93a-a4f469371511.jpg
-  alt: Close-up of the table set up for the chic picnic in Madrid
+  alt: 'Close-up of the table set up for the chic picnic in Madrid'
 - src: https://imgcdn.bokun.tools/1e2ae82b-1764-42f1-a941-c92b8823cbc2.jpg
-  alt: Relaxed atmosphere of the private picnic in a green space in Madrid
-- src: /images/actividades/madrid/retiro/retiro-estanque-barcas.webp
-  alt: Rowing boats on the Retiro lake
+  alt: 'Relaxed atmosphere of the private picnic in a green space in Madrid'
+- src: https://imgcdn.bokun.tools/7be133ef-6ae1-4964-a579-730505d8317e.jpg
+  alt: 'Gourmet picnic table set up at a discreet spot in Madrid'
 - src: /images/actividades/madrid/retiro/retiro-monumento-alfonso-xii.webp
-  alt: Alfonso XII monument by the Retiro lake
+  alt: 'Alfonso XII monument by the Retiro lake'
 - src: /images/actividades/madrid/retiro/retiro-palacio-cristal.webp
-  alt: The Crystal Palace in Retiro Park
+  alt: 'The Crystal Palace in Retiro Park'
 publicada: true
 indexar: false
 destacada: false

@@ -64,9 +64,11 @@ categoria: visitasGuiadas
 keywords:
 - toledo visita privada 3 horas
 - guia privado toledo entradas
-imagen: https://imgcdn.bokun.tools/5d731dbd-226d-4d07-a13a-bba6e42582dc.jpg
-imagenAlt: 'La mezquita del Cristo de la Luz de noche'
+imagen: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-spain-unesco-world-heritage-site-hero.webp
+imagenAlt: 'Vista de Toledo con el Alcázar'
 galeria:
+- src: https://imgcdn.bokun.tools/5d731dbd-226d-4d07-a13a-bba6e42582dc.jpg
+  alt: 'La mezquita del Cristo de la Luz de noche'
 - src: https://imgcdn.bokun.tools/acecb1db-f8b8-46cb-805b-fbef526be20a.jpg
   alt: 'Toledo sobre el Tajo'
 - src: https://imgcdn.bokun.tools/0b26a025-de70-41aa-bf29-06b1264e884c.jpg

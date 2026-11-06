@@ -76,21 +76,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-escudo-concha-obradoiro.webp
-imagenAlt: "Escudo con la concha de vieira y verja en la fachada del Obradoiro"
+imagen: /images/actividades/santiago-de-compostela/catedral/fsc-pazo-xelmirez-obradoiro.webp
+imagenAlt: 'Pazo de Xelmírez en la plaza del Obradoiro'
 galeria:
 - src: /images/actividades/santiago-de-compostela/casco/alameda.webp
-  alt: "Paseo de la Alameda, punto de partida de la visita"
+  alt: 'Paseo de la Alameda, punto de partida de la visita'
 - src: /images/actividades/santiago-de-compostela/casco/rua-franco.webp
-  alt: "Rúa do Franco en el casco histórico"
+  alt: 'Rúa do Franco en el casco histórico'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-timpano-raxoi.webp
-  alt: "Tímpano con escudo del Pazo de Raxoi en el Obradoiro"
-- src: /images/actividades/santiago-de-compostela/catedral/fsc-pazo-xelmirez-obradoiro.webp
-  alt: "Pazo de Xelmírez en la plaza del Obradoiro"
+  alt: 'Tímpano con escudo del Pazo de Raxoi en el Obradoiro'
+- src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-escudo-concha-obradoiro.webp
+  alt: 'Escudo con la concha de vieira y verja en la fachada del Obradoiro'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-ornamento-escudo.webp
-  alt: "Ornamento con escudo en la fachada del Obradoiro"
+  alt: 'Ornamento con escudo en la fachada del Obradoiro'
 - src: /images/actividades/santiago-de-compostela/catedral/fsc-simbolos-obradoiro-hostal.webp
-  alt: "Plaza del Obradoiro con el Hostal dos Reis Católicos"
+  alt: 'Plaza del Obradoiro con el Hostal dos Reis Católicos'
 ---
 
 ## Qué vas a ver

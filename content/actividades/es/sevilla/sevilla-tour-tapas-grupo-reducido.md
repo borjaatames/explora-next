@@ -64,17 +64,19 @@ keywords:
 - tour de tapas sevilla
 - ruta de tapas sevilla grupo reducido
 - tour gastronomico sevilla
-imagen: https://imgcdn.bokun.tools/cc6015f2-1cb5-487c-a6ab-886028f2f7aa.jpeg
-imagenAlt: Tapa de patatas en una taberna de Sevilla
+imagen: /images/actividades/barcelona/tablao-flamenco-cordobes-cena-show-las-ramblas/tablao-flamenco-cordobes-cena-show-las-ramblas-cena-tapas-bu-hero.webp
+imagenAlt: 'Tapas variadas en cazuelas'
 galeria:
+- src: https://imgcdn.bokun.tools/cc6015f2-1cb5-487c-a6ab-886028f2f7aa.jpeg
+  alt: 'Tapa de patatas en una taberna de Sevilla'
 - src: https://imgcdn.bokun.tools/014d6a54-deda-4b0a-8637-848720ea3525.jpeg
-  alt: Huevos rotos con jamón
+  alt: 'Huevos rotos con jamón'
 - src: https://imgcdn.bokun.tools/a2d13bfc-54a0-483f-a2f3-49bf5d8f7279.jpeg
-  alt: Grupo durante el tour de tapas
+  alt: 'Grupo durante el tour de tapas'
 - src: https://imgcdn.bokun.tools/bba384dc-7423-48db-96bd-131968bfb5bc.png
-  alt: Interior de una taberna tradicional
+  alt: 'Interior de una taberna tradicional'
 - src: https://imgcdn.bokun.tools/3b62909a-782a-4c4b-af51-7a2e84f0e33f.png
-  alt: Barra de un bar de tapas sevillano
+  alt: 'Barra de un bar de tapas sevillano'
 publicada: true
 indexar: false
 destacada: false

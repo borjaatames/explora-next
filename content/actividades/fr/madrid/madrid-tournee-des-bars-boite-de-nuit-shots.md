@@ -67,23 +67,23 @@ keywords:
 - pub crawl madrid
 - sortir à madrid la nuit
 - boîte de nuit madrid centre
-imagen: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg
-imagenAlt: Tournée des bars et d'une boîte de nuit dans le centre de Madrid
+imagen: /images/actividades/madrid/gran-via/gran-via-callao-noche.webp
+imagenAlt: 'La Plaza del Callao et la Gran Vía la nuit'
 galeria:
 - src: https://imgcdn.bokun.tools/c302637a-b16c-4626-ab8c-ffe7c577f64a.jpg
-  alt: Ambiance dans l'un des bars de la tournée des bars de Madrid
+  alt: 'Ambiance dans l''un des bars de la tournée des bars de Madrid'
 - src: https://imgcdn.bokun.tools/b813d50b-e2da-4214-9573-c59e69da86d4.jpg
-  alt: Shots de bienvenue à l'un des arrêts de la tournée des bars de Madrid
+  alt: 'Shots de bienvenue à l''un des arrêts de la tournée des bars de Madrid'
 - src: https://imgcdn.bokun.tools/4c927e58-784f-470f-8a1e-e8f25ac4bb0a.jpg
-  alt: Piste de danse de la boîte de nuit finale de la tournée des bars de Madrid
+  alt: 'Piste de danse de la boîte de nuit finale de la tournée des bars de Madrid'
 - src: https://imgcdn.bokun.tools/6b88d5a5-f9ac-4d87-aaec-97890477aa24.jpg
-  alt: Groupe trinquant pendant la tournée des bars dans le centre de Madrid
+  alt: 'Groupe trinquant pendant la tournée des bars dans le centre de Madrid'
 - src: /images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp
-  alt: La Calle de las Huertas, rue de bars du Barrio de las Letras
+  alt: 'La Calle de las Huertas, rue de bars du Barrio de las Letras'
 - src: /images/actividades/madrid/barrio-letras/barrio-letras-huertas-versos.webp
-  alt: Vers incrustés dans le pavé de la Calle de las Huertas
-- src: /images/actividades/madrid/gran-via/gran-via-callao-noche.webp
-  alt: La Plaza del Callao et la Gran Vía la nuit
+  alt: 'Vers incrustés dans le pavé de la Calle de las Huertas'
+- src: https://imgcdn.bokun.tools/faabdeff-97ed-4b25-a2d7-5ca89d749786.jpg
+  alt: 'Tournée des bars et d''une boîte de nuit dans le centre de Madrid'
 publicada: true
 destacada: false
 fecha: '2026-09-05'

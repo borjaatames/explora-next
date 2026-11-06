@@ -80,29 +80,31 @@ keywords:
 - tour tuk tuk sevilla
 - sevilla con niños tour
 - tour privado sevilla
-imagen: https://imgcdn.bokun.tools/ce015720-77e2-4220-b11d-9288116b99bc.png
-imagenAlt: Tuk tuk eléctrico con pasajeros frente al Palacio de San Telmo
+imagen: /images/actividades/sevilla/bici/plaza-espana-canal.webp
+imagenAlt: 'Plaza de España de Sevilla'
 galeria:
+- src: https://imgcdn.bokun.tools/ce015720-77e2-4220-b11d-9288116b99bc.png
+  alt: 'Tuk tuk eléctrico con pasajeros frente al Palacio de San Telmo'
 - src: https://imgcdn.bokun.tools/8a40af56-7065-4c8c-be9d-7f9f300d3d8d.jpeg
-  alt: Edificio central de la Plaza de España
+  alt: 'Edificio central de la Plaza de España'
 - src: https://imgcdn.bokun.tools/8dc4383a-6294-4723-9a2f-948d4fd71529.jpeg
-  alt: Puerta principal de la plaza de toros de la Maestranza
+  alt: 'Puerta principal de la plaza de toros de la Maestranza'
 - src: https://imgcdn.bokun.tools/7e95727a-e074-44fc-a806-5d89ceb2df63.jpeg
-  alt: Torre del Oro entre palmeras
+  alt: 'Torre del Oro entre palmeras'
 - src: https://imgcdn.bokun.tools/1c608d5a-4f0d-4dfb-9f7c-658afd5b50a3.jpeg
-  alt: Tuk tuk eléctrico junto al Guadalquivir
+  alt: 'Tuk tuk eléctrico junto al Guadalquivir'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
-  alt: Plaza de España iluminada de noche
+  alt: 'Plaza de España iluminada de noche'
 - src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp
-  alt: Vista amplia de la Plaza de España de Sevilla
+  alt: 'Vista amplia de la Plaza de España de Sevilla'
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp
-  alt: Torre del Oro junto al canal del Guadalquivir
+  alt: 'Torre del Oro junto al canal del Guadalquivir'
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa.webp
-  alt: Paseo arbolado del Parque de María Luisa
+  alt: 'Paseo arbolado del Parque de María Luisa'
 - src: /images/actividades/sevilla/tuk-tuk/parque-maria-luisa-estanque.webp
-  alt: Estanque con vegetación en el Parque de María Luisa
+  alt: 'Estanque con vegetación en el Parque de María Luisa'
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
-  alt: Plaza de toros de la Maestranza en Sevilla
+  alt: 'Plaza de toros de la Maestranza en Sevilla'
 publicada: true
 indexar: false
 destacada: false

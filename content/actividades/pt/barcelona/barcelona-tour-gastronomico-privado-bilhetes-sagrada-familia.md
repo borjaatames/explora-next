@@ -87,27 +87,29 @@ keywords:
 - tapas e sagrada familia
 - tour privado tapas barcelona
 - bilhetes sagrada familia e tapas
-imagen: https://imgcdn.bokun.tools/4385db49-227b-4a9f-bb3b-3112f8a907f8.jpg
-imagenAlt: Pão com tomate e batatas bravas com bebidas numa tasca
+imagen: /images/actividades/barcelona/boqueria/mercat-boqueria-people-shop-vibrant-market-hero.webp
+imagenAlt: 'Entrada do Mercado da Boqueria'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
+- src: https://imgcdn.bokun.tools/4385db49-227b-4a9f-bb3b-3112f8a907f8.jpg
+  alt: 'Pão com tomate e batatas bravas com bebidas numa tasca'
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
-  alt: Fachada da Sagrada Família com as suas torres, em Barcelona
+  alt: 'Fachada da Sagrada Família com as suas torres, em Barcelona'
 - src: https://imgcdn.bokun.tools/478bc5f6-7a31-43c2-b37a-330bab47c729.jpg
-  alt: Viajantes a tirar uma selfie em frente à Sagrada Família
+  alt: 'Viajantes a tirar uma selfie em frente à Sagrada Família'
 - src: https://imgcdn.bokun.tools/99947dfe-05cc-46ba-ac2f-1c5ce4e793ea.jpg
-  alt: Mesa com pão com tomate, batatas bravas e pimentos de Padrón
+  alt: 'Mesa com pão com tomate, batatas bravas e pimentos de Padrón'
 - src: https://imgcdn.bokun.tools/01b6ef2c-89d4-4599-b8e1-7a4ad0d29529.jpg
-  alt: Vitrais coloridos no interior da Sagrada Família
+  alt: 'Vitrais coloridos no interior da Sagrada Família'
 - src: https://imgcdn.bokun.tools/2a692141-da88-4786-8bdc-2219b99aa845.jpg
-  alt: Menina a provar churros com chocolate
+  alt: 'Menina a provar churros com chocolate'
 - src: https://imgcdn.bokun.tools/5edf9226-25a1-47ee-9558-742fa9897c68.jpg
-  alt: Pintxos expostos no balcão de um bar
+  alt: 'Pintxos expostos no balcão de um bar'
 - src: https://imgcdn.bokun.tools/8b02e2fe-f302-4942-b545-8894147e32c2.jpg
-  alt: Torres da Sagrada Família contra o céu azul
+  alt: 'Torres da Sagrada Família contra o céu azul'
 bokunProductId: 217558
 fecha_actualizacion: '2026-10-24'
 privada: true

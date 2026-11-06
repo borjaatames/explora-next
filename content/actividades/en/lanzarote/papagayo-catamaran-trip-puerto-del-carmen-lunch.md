@@ -94,21 +94,21 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
-imagenAlt: "Excursion boats in Puerto del Carmen"
+imagen: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
+imagenAlt: 'Catamaran anchored with its tender in turquoise water'
 galeria:
-- src: /images/actividades/lanzarote/catamaran/flz-fondeado-con-auxiliar.webp
-  alt: "Catamaran anchored with its tender in turquoise water"
+- src: /images/actividades/lanzarote/barco-atardecer/puerto-del-carmen-barcos-excursion.webp
+  alt: 'Excursion boats in Puerto del Carmen'
 - src: /images/actividades/lanzarote/papagayo/flz-playa-dorada-turquesa.webp
-  alt: "Golden sand beach and turquoise water at Papagayo"
+  alt: 'Golden sand beach and turquoise water at Papagayo'
 - src: /images/actividades/lanzarote/catamaran/flz-proa-agua-cristalina.webp
-  alt: "Catamaran bow over crystal-clear water"
+  alt: 'Catamaran bow over crystal-clear water'
 - src: /images/actividades/lanzarote/papagayo/flz-costa-montana.webp
-  alt: "Papagayo coast with volcanic mountains behind"
+  alt: 'Papagayo coast with volcanic mountains behind'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
-  alt: "Turquoise-water cove at Papagayo"
+  alt: 'Turquoise-water cove at Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-oleaje-orilla.webp
-  alt: "Waves on the shore of a Papagayo beach"
+  alt: 'Waves on the shore of a Papagayo beach'
 ---
 
 ## What you will see

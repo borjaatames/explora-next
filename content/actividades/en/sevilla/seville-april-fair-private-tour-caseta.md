@@ -75,23 +75,25 @@ keywords:
 - seville april fair private tour
 - feria de abril private caseta
 - seville fair guided tour
-imagen: https://imgcdn.bokun.tools/0fd04553-3b40-4952-b4b6-ffeeecf0bfeb.jpg
-imagenAlt: Horse-drawn carriage at the Seville April Fair
+imagen: /images/actividades/jerez-de-la-frontera/escuela-ecuestre/enganche-caballos-feria.webp
+imagenAlt: 'Horse-drawn carriages at the Seville Fair grounds'
 galeria:
+- src: https://imgcdn.bokun.tools/0fd04553-3b40-4952-b4b6-ffeeecf0bfeb.jpg
+  alt: 'Horse-drawn carriage at the Seville April Fair'
 - src: https://imgcdn.bokun.tools/9d1b3d17-d1c7-4b87-845a-3b3df089e1c3.jpg
-  alt: The April Fair main gate
+  alt: 'The April Fair main gate'
 - src: https://imgcdn.bokun.tools/c2982fa9-daa6-4a79-a338-96dd4eebe34f.jpg
-  alt: Flamenco dress at the Fair
+  alt: 'Flamenco dress at the Fair'
 - src: https://imgcdn.bokun.tools/018b6eba-1bcd-44e2-bc57-d229bf8b7e69.jpg
-  alt: Carriage ride
+  alt: 'Carriage ride'
 - src: https://imgcdn.bokun.tools/2ef06e14-fce6-446a-b1f3-71c8a94eae9f.jpg
-  alt: Visitors in flamenco dress at the Fair
+  alt: 'Visitors in flamenco dress at the Fair'
 - src: https://imgcdn.bokun.tools/9753f272-b8e3-415f-a944-bb2207b540e3.jpg
-  alt: Group at the fairground
+  alt: 'Group at the fairground'
 - src: https://imgcdn.bokun.tools/933ec29a-bb2b-47ef-9137-c007ced245ab.jpg
-  alt: Visitors with shawl and fan
+  alt: 'Visitors with shawl and fan'
 - src: https://imgcdn.bokun.tools/0cd49505-ad0b-4056-98aa-2f54a71da6ed.jpg
-  alt: Decorated casetas at the Fair
+  alt: 'Decorated casetas at the Fair'
 publicada: true
 indexar: false
 destacada: false

@@ -61,9 +61,11 @@ atraccionesRelacionadas:
 categoria: excursionesDia
 keywords:
 - segovia e la granja da madrid
-imagen: https://imgcdn.bokun.tools/6d4f6f8e-a9df-4b81-82c4-a84e4d81fca7.jpg
-imagenAlt: 'L''Alcázar di Segovia al tramonto'
+imagen: /images/actividades/madrid/fotos-biblioteca/diego-allen-kql0y-zh1ak-unsplash.webp
+imagenAlt: 'L''acquedotto di Segovia con la città'
 galeria:
+- src: https://imgcdn.bokun.tools/6d4f6f8e-a9df-4b81-82c4-a84e4d81fca7.jpg
+  alt: 'L''Alcázar di Segovia al tramonto'
 - src: https://imgcdn.bokun.tools/57cec116-1e08-416b-9495-a8e734f0b405.jpg
   alt: 'L''acquedotto di Segovia'
 - src: https://imgcdn.bokun.tools/6cf684d1-87f7-468b-883d-5710e485d222.jpg

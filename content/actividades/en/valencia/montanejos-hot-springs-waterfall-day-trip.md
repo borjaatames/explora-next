@@ -40,23 +40,23 @@ keywords:
 - montanejos waterfall of the bride
 - montanejos thermal springs
 - montanejos day trip from valencia
-imagen: "/images/actividades/valencia/montanejos/montanejos-torre-plaza.webp"
-imagenAlt: "Church tower and square in the village of Montanejos"
+imagen: /images/actividades/valencia/montanejos/montanejos-mijares-banistas.webp
+imagenAlt: 'Bathers enjoying the thermal waters of the Mijares river'
 galeria:
-  - src: "/images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp"
-    alt: "Upper course of the Mijares river near Montanejos"
-  - src: "/images/actividades/valencia/montanejos/montanejos-fuente-banos-roca.webp"
-    alt: "Fuente de los Baños hot spring flowing between the rocks"
-  - src: "/images/actividades/valencia/montanejos/montanejos-fuente-banos-poza.webp"
-    alt: "Natural thermal pool at Fuente de los Baños"
-  - src: "/images/actividades/valencia/montanejos/montanejos-fuente-banos-azulejo.webp"
-    alt: "Traditional tiles next to the Fuente de los Baños"
-  - src: "/images/actividades/valencia/montanejos/montanejos-mijares-banistas.webp"
-    alt: "Bathers enjoying the thermal waters of the Mijares river"
-  - src: "/images/actividades/valencia/montanejos/montanejos-villa-termal.webp"
-    alt: "Villa Termal de Montanejos thermal spa"
-  - src: "/images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp"
-    alt: "Panoramic view of the natural surroundings of Montanejos"
+- src: /images/actividades/valencia/montanejos/montanejos-mijares-curso-alto.webp
+  alt: 'Upper course of the Mijares river near Montanejos'
+- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-roca.webp
+  alt: 'Fuente de los Baños hot spring flowing between the rocks'
+- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-poza.webp
+  alt: 'Natural thermal pool at Fuente de los Baños'
+- src: /images/actividades/valencia/montanejos/montanejos-fuente-banos-azulejo.webp
+  alt: 'Traditional tiles next to the Fuente de los Baños'
+- src: /images/actividades/valencia/montanejos/montanejos-torre-plaza.webp
+  alt: 'Church tower and square in the village of Montanejos'
+- src: /images/actividades/valencia/montanejos/montanejos-villa-termal.webp
+  alt: 'Villa Termal de Montanejos thermal spa'
+- src: /images/actividades/valencia/montanejos/montanejos-wikimedia-montanejos-jpg-01.webp
+  alt: 'Panoramic view of the natural surroundings of Montanejos'
 publicada: true
 destacada: false
 fecha: '2026-06-18'

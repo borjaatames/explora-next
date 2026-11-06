@@ -79,8 +79,8 @@ keywords:
 - alhambra tour privado
 - entradas monumentos granada
 - alhambra capilla real entradas
-imagen: https://imgcdn.bokun.tools/99050210-6734-4be4-8873-c7675008c167.jpg
-imagenAlt: Patio de los Arrayanes reflejado en el estanque
+imagen: /images/actividades/granada/san-jeronimo/san-jeronimo-02.webp
+imagenAlt: 'Claustro del Monasterio de San Jerónimo'
 ratingProveedor: 4.9
 numeroOpiniones: 24
 publicada: true
@@ -88,19 +88,19 @@ destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp
-  alt: Patio de los Leones en los Palacios Nazaríes
+  alt: 'Patio de los Leones en los Palacios Nazaríes'
 - src: https://imgcdn.bokun.tools/dc68bb50-8782-4ce9-84c0-48fb09432aac.jpg
-  alt: Fuentes del Patio de la Acequia en el Generalife
+  alt: 'Fuentes del Patio de la Acequia en el Generalife'
 - src: https://imgcdn.bokun.tools/355fe27d-9565-4bcb-81af-2f4a9993d4c5.jpg
-  alt: Viajeros haciéndose un selfi bajo una cúpula de mocárabes
+  alt: 'Viajeros haciéndose un selfi bajo una cúpula de mocárabes'
 - src: /images/actividades/granada/catedral/fachada-principal-alonso-cano.webp
-  alt: Fachada principal de la Catedral de Granada, obra de Alonso Cano
+  alt: 'Fachada principal de la Catedral de Granada, obra de Alonso Cano'
 - src: /images/actividades/granada/capilla-real/capilla-real-granada-granada-capilla-real-6-vista-hero.webp
-  alt: Exterior de la Capilla Real de Granada
-- src: /images/actividades/granada/san-jeronimo/san-jeronimo-02.webp
-  alt: Claustro del Monasterio de San Jerónimo
+  alt: 'Exterior de la Capilla Real de Granada'
+- src: https://imgcdn.bokun.tools/99050210-6734-4be4-8873-c7675008c167.jpg
+  alt: 'Patio de los Arrayanes reflejado en el estanque'
 - src: https://imgcdn.bokun.tools/a818eda3-e627-469d-b2f4-e0b1bf391f71.jpg
-  alt: Pareja paseando por los jardines del Generalife
+  alt: 'Pareja paseando por los jardines del Generalife'
 bokunProductId: 793765
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

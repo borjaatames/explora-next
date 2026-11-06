@@ -72,27 +72,27 @@ keywords:
 - cordoba mosque from malaga
 - private cordoba tour
 - cordoba with guide from malaga
-imagen: https://imgcdn.bokun.tools/c4835436-ff9c-493c-80b2-c79bbaa89227.jpg
-imagenAlt: Visitors taking photos inside the Mosque-Cathedral
+imagen: /images/actividades/cordoba/mezquita/puerta-perdon-torre.webp
+imagenAlt: 'Door of Forgiveness and bell tower'
 publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:
 - src: /images/actividades/cordoba/mezquita-catedral/mezquita-cordoba-interior-hero.webp
-  alt: Two-tone arches inside the Mosque-Cathedral of Córdoba
-- src: /images/actividades/cordoba/mezquita/puerta-perdon-torre.webp
-  alt: Door of Forgiveness and bell tower
+  alt: 'Two-tone arches inside the Mosque-Cathedral of Córdoba'
+- src: https://imgcdn.bokun.tools/c4835436-ff9c-493c-80b2-c79bbaa89227.jpg
+  alt: 'Visitors taking photos inside the Mosque-Cathedral'
 - src: https://imgcdn.bokun.tools/7602893a-f24c-4913-abf3-a7204934e979.jpg
-  alt: Travellers with their guide in a whitewashed lane with blue flowerpots
+  alt: 'Travellers with their guide in a whitewashed lane with blue flowerpots'
 - src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: Calleja de las Flores with blue flowerpots
+  alt: 'Calleja de las Flores with blue flowerpots'
 - src: https://imgcdn.bokun.tools/944ecc08-a22f-47e8-9e88-fd69f12175ae.jpg
-  alt: Visitors with the Mosque bell tower behind
+  alt: 'Visitors with the Mosque bell tower behind'
 - src: https://imgcdn.bokun.tools/8bd2ae9a-a486-471a-bfef-3c214e50f161.jpg
-  alt: Ornate doorway of the Mosque-Cathedral
+  alt: 'Ornate doorway of the Mosque-Cathedral'
 - src: /images/actividades/cordoba/mezquita/puente-romano.webp
-  alt: Roman Bridge, Bridge Gate and Mosque
+  alt: 'Roman Bridge, Bridge Gate and Mosque'
 bokunProductId: 1063256
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'
