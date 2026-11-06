@@ -79,18 +79,22 @@ keywords:
 - parc aquatique gran canaria
 - toboggans maspalomas
 imagen: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
-imagenAlt: "Vue aérienne de la grande piscine à vagues d’Aqualand Maspalomas"
+imagenAlt: 'Vue aérienne de la grande piscine à vagues d’Aqualand Maspalomas'
 galeria:
 - src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
-  alt: "Grands toboggans tubulaires d’Aqualand Maspalomas parmi des ruines d’inspiration maya"
+  alt: 'Grands toboggans tubulaires d’Aqualand Maspalomas parmi des ruines d’inspiration maya'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
-  alt: "Espace enfants Polynesia avec toboggans et seau d’eau géant"
+  alt: 'Espace enfants Polynesia avec toboggans et seau d’eau géant'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-tornado.webp
-  alt: "Baigneurs dans l’entonnoir vert du toboggan Tornado"
+  alt: 'Baigneurs dans l’entonnoir vert du toboggan Tornado'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-discovery-beach.webp
-  alt: "Baigneurs dans la piscine à vagues Discovery Beach"
+  alt: 'Baigneurs dans la piscine à vagues Discovery Beach'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-skull-bay.webp
-  alt: "Enfants courant dans l’eau dans l’espace Skull Bay"
+  alt: 'Enfants courant dans l’eau dans l’espace Skull Bay'
+- src: /images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-crestas.webp
+  alt: 'Dunes de Maspalomas au bord de la mer'
+- src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
+  alt: 'Dunes de Maspalomas au coucher du soleil'
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:

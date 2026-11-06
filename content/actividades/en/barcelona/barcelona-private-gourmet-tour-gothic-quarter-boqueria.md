@@ -58,19 +58,25 @@ categoria: toursGastronomicos
 keywords:
 - private gourmet tour barcelona gothic quarter
 - boqueria tapas private tour
-imagen: https://imgcdn.bokun.tools/41afda9c-302e-457b-8a13-21a082a23be6.jpg
-imagenAlt: "Family sharing tapas and drinks at a table"
+imagen: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
+imagenAlt: 'Fruit stall at the Mercado de la Boquería'
 galeria:
+- src: https://imgcdn.bokun.tools/41afda9c-302e-457b-8a13-21a082a23be6.jpg
+  alt: 'Family sharing tapas and drinks at a table'
 - src: https://imgcdn.bokun.tools/af6826cf-4916-443f-82fa-d60c54e79a83.jpg
-  alt: "Group toasting with cava over tapas"
+  alt: 'Group toasting with cava over tapas'
 - src: https://imgcdn.bokun.tools/503e8bea-fcfb-4133-b3e6-13879df2dcfd.jpg
-  alt: "Pa amb tomàquet, patatas bravas and vermouth"
+  alt: 'Pa amb tomàquet, patatas bravas and vermouth'
 - src: https://imgcdn.bokun.tools/f7d9a8eb-b766-45ce-b83e-c2ede53faf95.jpg
-  alt: "Visitors at a pintxos bar counter"
+  alt: 'Visitors at a pintxos bar counter'
 - src: https://imgcdn.bokun.tools/dce2e2ae-c7f5-4104-98f7-4057c3a3ae36.jpg
-  alt: "Group at a juice stall in La Boqueria"
+  alt: 'Group at a juice stall in La Boqueria'
 - src: https://imgcdn.bokun.tools/91c9e869-8436-45df-87e3-e950f1fd1e08.jpg
-  alt: "Visitor at a ham stall in the market"
+  alt: 'Visitor at a ham stall in the market'
+- src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
+  alt: 'Pont del Bisbe in Barcelona''s Gothic Quarter'
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: 'Barcelona Cathedral'
 publicada: true
 indexar: false
 destacada: false

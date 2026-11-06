@@ -54,8 +54,8 @@ keywords:
 - reina sofia private tour
 - guernica guided tour
 - reina sofia tour madrid
-imagen: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-madrid-6394601959-hero.webp
-imagenAlt: Entrance to the Sabatini Building of the Reina Sofía Museum with its glass lift towers
+imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
+imagenAlt: 'Façade of the Museo Reina Sofía at night'
 galeria:
 - src: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
   alt: 'The Sabatini Building lit up at night'
@@ -67,8 +67,6 @@ galeria:
   alt: 'Glass lifts on the facade of the Reina Sofía Museum'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
   alt: 'The Reina Sofía Museum in Madrid'
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
-  alt: 'Facade of the Reina Sofía Museum on Plaza de Juan Goytisolo, Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
   alt: 'The Reina Sofía Museum in Madrid'
 publicada: true

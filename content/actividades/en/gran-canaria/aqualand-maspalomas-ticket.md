@@ -79,18 +79,22 @@ keywords:
 - gran canaria water park
 - maspalomas water slides
 imagen: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
-imagenAlt: "Aerial view of the big wave pool at Aqualand Maspalomas"
+imagenAlt: 'Aerial view of the big wave pool at Aqualand Maspalomas'
 galeria:
 - src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
-  alt: "Large tube slides at Aqualand Maspalomas among Mayan-style ruins"
+  alt: 'Large tube slides at Aqualand Maspalomas among Mayan-style ruins'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
-  alt: "Polynesia kids area with slides and a tipping water bucket"
+  alt: 'Polynesia kids area with slides and a tipping water bucket'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-tornado.webp
-  alt: "Riders in the green funnel of the Tornado slide"
+  alt: 'Riders in the green funnel of the Tornado slide'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-discovery-beach.webp
-  alt: "Swimmers in the Discovery Beach wave pool"
+  alt: 'Swimmers in the Discovery Beach wave pool'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-skull-bay.webp
-  alt: "Children running through the water in the Skull Bay kids area"
+  alt: 'Children running through the water in the Skull Bay kids area'
+- src: /images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-crestas.webp
+  alt: 'Maspalomas dunes by the sea'
+- src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
+  alt: 'Maspalomas dunes at sunset'
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:

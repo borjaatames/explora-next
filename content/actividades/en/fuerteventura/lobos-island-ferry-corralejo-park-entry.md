@@ -82,9 +82,11 @@ keywords:
 - corralejo to lobos boat
 - how to get to lobos island
 - lobos island fuerteventura
-imagen: /images/actividades/fuerteventura/ferry-lobos.webp
-imagenAlt: Passenger ferry between Corralejo and Lobos Island
+imagen: /images/actividades/fuerteventura/lobos/playa-la-concha-lobos.webp
+imagenAlt: 'Isla de Lobos on the turquoise sea seen from Corralejo'
 galeria:
+- src: /images/actividades/fuerteventura/ferry-lobos.webp
+  alt: 'Passenger ferry between Corralejo and Lobos Island'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
   alt: 'Aerial view of Lobos Island'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-costa.webp

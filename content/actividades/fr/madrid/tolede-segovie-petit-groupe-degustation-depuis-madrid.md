@@ -81,6 +81,10 @@ galeria:
   alt: 'Tolède depuis un belvédère'
 - src: https://imgcdn.bokun.tools/af64ec27-4406-4770-8ee8-d37a205aaeeb.jpg
   alt: 'Couple devant l''aqueduc de Ségovie'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp
+  alt: 'Aqueduc de Ségovie'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp
+  alt: 'Aqueduc de Ségovie et la plaza del Azoguejo vus d''en haut'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

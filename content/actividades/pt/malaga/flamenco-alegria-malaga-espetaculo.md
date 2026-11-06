@@ -74,8 +74,8 @@ keywords:
 - alegria flamenco málaga
 - espetáculo flamenco málaga
 - flamenco com tapas málaga
-imagen: /images/actividades/malaga/flamenco/bailaora-movimiento-escenario.webp
-imagenAlt: 'Bailarina de flamenco a rodopiar no palco, com o vestido em movimento'
+imagen: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
+imagenAlt: 'Bailarino de flamenco em palco'
 galeria:
 - src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
   alt: 'Bailarina e músicos num tablao flamenco'

@@ -66,20 +66,22 @@ keywords:
 - catedral toledo entradas
 - transparente toledo
 imagen: /images/actividades/madrid/toledo-catedral/toledo-catedral-01.webp
-imagenAlt: Catedral de Toledo vista desde la plaza del Ayuntamiento
+imagenAlt: 'Catedral de Toledo vista desde la plaza del Ayuntamiento'
 galeria:
 - src: /images/actividades/madrid/toledo-catedral/toledo-catedral-02.webp
-  alt: Fachada principal de la catedral de Toledo
+  alt: 'Fachada principal de la catedral de Toledo'
 - src: /images/actividades/madrid/toledo-catedral/toledo-catedral-03.webp
-  alt: Portada gótica de la catedral de Toledo
+  alt: 'Portada gótica de la catedral de Toledo'
 - src: /images/actividades/madrid/toledo-catedral/toledo-catedral-04.webp
-  alt: Torre de la catedral de Toledo sobre la plaza
+  alt: 'Torre de la catedral de Toledo sobre la plaza'
 - src: /images/actividades/madrid/toledo-catedral/toledo-catedral-05.webp
-  alt: Relieve tallado en el interior de la catedral de Toledo
+  alt: 'Relieve tallado en el interior de la catedral de Toledo'
 - src: /images/actividades/madrid/toledo-catedral/toledo-catedral-06.webp
-  alt: Torre de la catedral de noche entre las calles de Toledo
+  alt: 'Torre de la catedral de noche entre las calles de Toledo'
 - src: /images/actividades/madrid/toledo-catedral/toledo-catedral-07.webp
-  alt: Torre de la catedral sobre los tejados de Toledo
+  alt: 'Torre de la catedral sobre los tejados de Toledo'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-breathtaking-aerial-view-historic-hero.webp
+  alt: 'Panorámica de Toledo con la catedral y el Alcázar'
 ratingProveedor: 4.5
 numeroOpiniones: 444
 atraccionesRelacionadas:

@@ -63,32 +63,34 @@ categoria: toursCiudad
 keywords:
 - mysterious seville tour
 - seville legends private tour
-imagen: /images/actividades/sevilla/setas/setas-pexels-18536662.webp
-imagenAlt: Seville's Setas at sunset
+imagen: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-04.webp
+imagenAlt: 'Courtyard of the Casa de Pilatos in Seville'
 publicada: true
 destacada: false
 fecha: '2026-10-29'
 galeria:
+- src: /images/actividades/sevilla/setas/setas-pexels-18536662.webp
+  alt: 'Seville''s Setas at sunset'
 - src: https://imgcdn.bokun.tools/169bfd81-2a0a-46e3-96ae-0a379ce498fe.jpeg
-  alt: Central Seville during the tour (operator photo)
+  alt: 'Central Seville during the tour (operator photo)'
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
-  alt: Callejón del Agua in Santa Cruz
+  alt: 'Callejón del Agua in Santa Cruz'
 - src: https://imgcdn.bokun.tools/9b043ea9-f108-4ce0-a141-899d8bbfa1cb.png
-  alt: Central Seville during the tour (operator photo)
+  alt: 'Central Seville during the tour (operator photo)'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-1-jpg-03.webp
-  alt: The Setas of La Encarnación
+  alt: 'The Setas of La Encarnación'
 - src: https://imgcdn.bokun.tools/bfb1825f-ea7c-420b-a5b8-166ef033cb4a.jpeg
-  alt: Central Seville during the tour (operator photo)
+  alt: 'Central Seville during the tour (operator photo)'
 - src: https://imgcdn.bokun.tools/f90d9c39-d125-43e3-8060-b6a25a8d7663.jpeg
-  alt: Central Seville during the tour (operator photo)
+  alt: 'Central Seville during the tour (operator photo)'
 - src: https://imgcdn.bokun.tools/5d082a5b-0a5a-4b22-8f70-55d69e3df502.jpeg
-  alt: Central Seville during the tour (operator photo)
+  alt: 'Central Seville during the tour (operator photo)'
 - src: https://imgcdn.bokun.tools/06065197-cf58-43da-9087-878e008693be.jpeg
-  alt: Central Seville during the tour (operator photo)
+  alt: 'Central Seville during the tour (operator photo)'
 - src: https://imgcdn.bokun.tools/11dd4e81-5a48-4c98-8110-507b5d11fa84.jpeg
-  alt: Central Seville during the tour (operator photo)
+  alt: 'Central Seville during the tour (operator photo)'
 - src: https://imgcdn.bokun.tools/3be01fe6-b5ab-49be-9b3f-fe83ba1d4467.jpeg
-  alt: Central Seville during the tour (operator photo)
+  alt: 'Central Seville during the tour (operator photo)'
 fecha_actualizacion: '2026-10-29'
 privada: true
 precioPorGrupo: true

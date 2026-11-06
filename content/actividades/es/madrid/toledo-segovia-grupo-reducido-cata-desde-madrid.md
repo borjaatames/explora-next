@@ -82,6 +82,10 @@ galeria:
   alt: 'Pareja frente al acueducto de Segovia'
 - src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp
   alt: 'alcazar of segovia, castle, segovia, fortress, architecture'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp
+  alt: 'Acueducto de Segovia'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp
+  alt: 'Acueducto de Segovia y la plaza del Azoguejo desde lo alto'
 publicada: true
 indexar: false
 destacada: false

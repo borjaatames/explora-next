@@ -86,6 +86,10 @@ galeria:
   alt: 'Viajeros junto a un tuk tuk eléctrico'
 - src: https://imgcdn.bokun.tools/36b7dcf9-9407-44e9-ae19-255445d045eb.jpg
   alt: 'Crucero atracado en el puerto de Málaga'
+- src: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
+  alt: 'Alcazaba de Málaga y el monte Gibralfaro'
+- src: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
+  alt: 'Arcos lobulados de la Alcazaba de Málaga'
 atraccionesRelacionadas:
 - centro-historico
 publicada: true

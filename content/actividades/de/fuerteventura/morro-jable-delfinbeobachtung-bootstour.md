@@ -83,9 +83,11 @@ keywords:
 - bootsausflug morro jable
 - walbeobachtung fuerteventura
 - delfintour morro jable
-imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-imagenAlt: Delfine schwimmen neben einem Boot vor Morro Jable
+imagen: /images/actividades/fuerteventura/fotos-biblioteca/gran-canaria-delfines-pexels-30405211.webp
+imagenAlt: 'Delfin schwimmt nahe der Meeresoberfläche'
 galeria:
+- src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
+  alt: 'Delfine schwimmen neben einem Boot vor Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
   alt: 'Der Leuchtturm von Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp

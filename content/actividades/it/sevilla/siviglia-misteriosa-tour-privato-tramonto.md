@@ -66,32 +66,34 @@ keywords:
 - siviglia misteriosa tour
 - tour leggende siviglia privato
 - tour privato siviglia italiano
-imagen: /images/actividades/sevilla/setas/setas-pexels-18536662.webp
-imagenAlt: Le Setas di Siviglia al tramonto
+imagen: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-04.webp
+imagenAlt: 'Cortile della Casa de Pilatos a Siviglia'
 publicada: true
 destacada: false
 fecha: '2026-11-05'
 galeria:
+- src: /images/actividades/sevilla/setas/setas-pexels-18536662.webp
+  alt: 'Le Setas di Siviglia al tramonto'
 - src: https://imgcdn.bokun.tools/169bfd81-2a0a-46e3-96ae-0a379ce498fe.jpeg
-  alt: Il centro di Siviglia durante il tour (foto del fornitore)
+  alt: 'Il centro di Siviglia durante il tour (foto del fornitore)'
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
-  alt: Il Callejón del Agua nel barrio di Santa Cruz
+  alt: 'Il Callejón del Agua nel barrio di Santa Cruz'
 - src: https://imgcdn.bokun.tools/9b043ea9-f108-4ce0-a141-899d8bbfa1cb.png
-  alt: Il centro di Siviglia durante il tour (foto del fornitore)
+  alt: 'Il centro di Siviglia durante il tour (foto del fornitore)'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-1-jpg-03.webp
-  alt: Le Setas de la Encarnación
+  alt: 'Le Setas de la Encarnación'
 - src: https://imgcdn.bokun.tools/bfb1825f-ea7c-420b-a5b8-166ef033cb4a.jpeg
-  alt: Il centro di Siviglia durante il tour (foto del fornitore)
+  alt: 'Il centro di Siviglia durante il tour (foto del fornitore)'
 - src: https://imgcdn.bokun.tools/f90d9c39-d125-43e3-8060-b6a25a8d7663.jpeg
-  alt: Il centro di Siviglia durante il tour (foto del fornitore)
+  alt: 'Il centro di Siviglia durante il tour (foto del fornitore)'
 - src: https://imgcdn.bokun.tools/5d082a5b-0a5a-4b22-8f70-55d69e3df502.jpeg
-  alt: Il centro di Siviglia durante il tour (foto del fornitore)
+  alt: 'Il centro di Siviglia durante il tour (foto del fornitore)'
 - src: https://imgcdn.bokun.tools/06065197-cf58-43da-9087-878e008693be.jpeg
-  alt: Il centro di Siviglia durante il tour (foto del fornitore)
+  alt: 'Il centro di Siviglia durante il tour (foto del fornitore)'
 - src: https://imgcdn.bokun.tools/11dd4e81-5a48-4c98-8110-507b5d11fa84.jpeg
-  alt: Il centro di Siviglia durante il tour (foto del fornitore)
+  alt: 'Il centro di Siviglia durante il tour (foto del fornitore)'
 - src: https://imgcdn.bokun.tools/3be01fe6-b5ab-49be-9b3f-fe83ba1d4467.jpeg
-  alt: Il centro di Siviglia durante il tour (foto del fornitore)
+  alt: 'Il centro di Siviglia durante il tour (foto del fornitore)'
 fecha_actualizacion: '2026-11-05'
 privada: true
 precioPorGrupo: true

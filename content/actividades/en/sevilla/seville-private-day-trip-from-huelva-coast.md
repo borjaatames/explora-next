@@ -68,14 +68,18 @@ keywords:
 - seville day trip from punta umbria
 - private seville tour huelva coast
 imagen: https://imgcdn.bokun.tools/b4c38240-d34c-47ce-9baa-22fb749f8e3f.jpeg
-imagenAlt: Top of the Giralda in Seville
+imagenAlt: 'Top of the Giralda in Seville'
 galeria:
 - src: https://imgcdn.bokun.tools/9f9d7659-12ae-421d-9b62-e88eb0b91889.jpeg
-  alt: The Giralda seen from the street
+  alt: 'The Giralda seen from the street'
 - src: https://imgcdn.bokun.tools/11a2483d-ae68-4167-bebd-f819131db651.jpeg
-  alt: Dim interior of a Seville monument
+  alt: 'Dim interior of a Seville monument'
 - src: https://imgcdn.bokun.tools/d0bee929-965a-445c-9b9e-6114c5e1b438.jpeg
-  alt: Mudéjar arches in the Royal Alcázar
+  alt: 'Mudéjar arches in the Royal Alcázar'
+- src: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-01.webp
+  alt: 'Main courtyard of the Casa de Pilatos in Seville'
+- src: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-03.webp
+  alt: 'Courtyard of the Casa de Pilatos with its fountain'
 publicada: true
 indexar: false
 destacada: false

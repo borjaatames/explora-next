@@ -80,9 +80,11 @@ keywords:
 - excursion en bateau morro jable
 - observation baleines fuerteventura
 - sortie en mer jandia
-imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-imagenAlt: Dauphins nageant à côté d'un bateau au large de Morro Jable
+imagen: /images/actividades/fuerteventura/fotos-biblioteca/gran-canaria-delfines-pexels-30405211.webp
+imagenAlt: 'Dauphin nageant près de la surface de la mer'
 galeria:
+- src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
+  alt: 'Dauphins nageant à côté d''un bateau au large de Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
   alt: 'Le phare de Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp

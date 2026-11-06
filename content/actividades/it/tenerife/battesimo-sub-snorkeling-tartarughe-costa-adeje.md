@@ -88,18 +88,22 @@ keywords:
 - immersioni puerto colon
 - sub per principianti tenerife
 imagen: /images/actividades/tenerife/costa-adeje/buceador-fondo-volcanico.webp
-imagenAlt: Subacqueo sopra un fondale roccioso in acque azzurre e limpide
+imagenAlt: 'Subacqueo sopra un fondale roccioso in acque azzurre e limpide'
 galeria:
 - src: /images/actividades/tenerife/costa-adeje/tortugas-fondo-rocoso.webp
-  alt: Due tartarughe marine che nuotano sopra un fondale roccioso
+  alt: 'Due tartarughe marine che nuotano sopra un fondale roccioso'
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
-  alt: Costa rocciosa vulcanica a Costa Adeje
+  alt: 'Costa rocciosa vulcanica a Costa Adeje'
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
-  alt: Persona che fa snorkeling in acque azzurre e limpide
+  alt: 'Persona che fa snorkeling in acque azzurre e limpide'
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: Spiaggia di Costa Adeje con le montagne alle spalle
+  alt: 'Spiaggia di Costa Adeje con le montagne alle spalle'
 - src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-  alt: Vista della costa di Costa Adeje
+  alt: 'Vista della costa di Costa Adeje'
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-wikimedia-01.webp
+  alt: 'Fondale marino con banchi di pesci'
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
+  alt: 'Barche per immersioni viste dall''acqua'
 ratingProveedor: 4.7
 numeroOpiniones: 2025
 atraccionesRelacionadas:

@@ -58,19 +58,25 @@ keywords:
 - tour privado gaudi barcelona
 - park guell sagrada familia privado recogida
 - guia privado sagrada familia park guell
-imagen: https://imgcdn.bokun.tools/aaccb9dc-b9d8-4a9c-9838-1cde7236c99e.jpg
-imagenAlt: "Pabellones del Park Güell y Barcelona al atardecer"
+imagen: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp
+imagenAlt: 'Park Güell con sus pabellones y Barcelona al fondo'
 galeria:
+- src: https://imgcdn.bokun.tools/aaccb9dc-b9d8-4a9c-9838-1cde7236c99e.jpg
+  alt: 'Pabellones del Park Güell y Barcelona al atardecer'
 - src: https://imgcdn.bokun.tools/708f2d87-a39f-453d-9d9b-fa0e2f150ec6.jpg
-  alt: "Grupo de visitantes dentro de la Sagrada Família"
+  alt: 'Grupo de visitantes dentro de la Sagrada Família'
 - src: https://imgcdn.bokun.tools/5b546041-f64d-4521-aa75-2e3b8115e3a6.jpg
-  alt: "Grupo de visitantes en el Park Güell"
+  alt: 'Grupo de visitantes en el Park Güell'
 - src: https://imgcdn.bokun.tools/135e4801-d7f1-4854-8b01-acdaae635dfb.jpg
-  alt: "Vista aérea de Barcelona con la Sagrada Família"
+  alt: 'Vista aérea de Barcelona con la Sagrada Família'
 - src: https://imgcdn.bokun.tools/a6ab61d8-cf1f-493b-a2da-569d1bca5660.jpg
-  alt: "Fachada del Nacimiento de la Sagrada Família"
+  alt: 'Fachada del Nacimiento de la Sagrada Família'
 - src: https://imgcdn.bokun.tools/3f5d2a2d-1625-4bea-9009-953e531f575f.jpg
-  alt: "Columnas y bóvedas del interior de la Sagrada Família"
+  alt: 'Columnas y bóvedas del interior de la Sagrada Família'
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-gaudi-barcelona-spain-img-5380a-hero.webp
+  alt: 'Fachada de la Casa Batlló'
+- src: /images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-spain-gaudi-antonio-hero.webp
+  alt: 'Balcones de la Casa Batlló'
 publicada: true
 indexar: false
 destacada: false

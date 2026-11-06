@@ -59,15 +59,25 @@ categoria: visitasGuiadas
 keywords:
 - jewish toledo private tour
 - toledo synagogues guide
-imagen: https://imgcdn.bokun.tools/ab3e07a8-a380-43ad-9a3e-2efeae57aefc.jpg
-imagenAlt: 'Horseshoe arches of the Santa María la Blanca synagogue'
+imagen: /images/actividades/cordoba/juderia/sinagoga-galeria-mujeres.webp
+imagenAlt: 'Interior of the Sinagoga del Tránsito in Toledo'
 galeria:
+- src: https://imgcdn.bokun.tools/ab3e07a8-a380-43ad-9a3e-2efeae57aefc.jpg
+  alt: 'Horseshoe arches of the Santa María la Blanca synagogue'
 - src: https://imgcdn.bokun.tools/3536911e-11b8-464b-81ee-78f5836dae7c.jpg
   alt: 'Plasterwork in the El Tránsito synagogue'
 - src: https://imgcdn.bokun.tools/9cba7200-0ac9-4266-8e6b-57b25cd9c500.jpg
   alt: 'Cloister of a Toledo monument'
 - src: https://imgcdn.bokun.tools/9591c0ba-4c82-4374-b545-c25384591515.jpg
   alt: 'The Alcázar of Toledo'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero.webp
+  alt: 'Puente de Alcántara and the Alcázar of Toledo'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-alcazar-fortress-spain-architecture-hero.webp
+  alt: 'Toledo''s city walls and the Alcázar'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-breathtaking-aerial-view-historic-hero.webp
+  alt: 'Panoramic view of Toledo'
+- src: /images/actividades/madrid/fotos-biblioteca/madrid-toledo-catedral-wikimedia-05.webp
+  alt: 'Puerta del Perdón of Toledo Cathedral'
 publicada: true
 indexar: false
 destacada: false

@@ -80,18 +80,22 @@ keywords:
 - maspalomas con bambini
 - cosa fare a maspalomas
 imagen: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
-imagenAlt: "Vista aerea della grande piscina a onde di Aqualand Maspalomas"
+imagenAlt: 'Vista aerea della grande piscina a onde di Aqualand Maspalomas'
 galeria:
 - src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
-  alt: "Grandi scivoli a tubo di Aqualand Maspalomas tra rovine in stile maya"
+  alt: 'Grandi scivoli a tubo di Aqualand Maspalomas tra rovine in stile maya'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
-  alt: "Area bambini Polynesia con scivoli e secchio d’acqua"
+  alt: 'Area bambini Polynesia con scivoli e secchio d’acqua'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-tornado.webp
-  alt: "Bagnanti nell’imbuto verde dello scivolo Tornado"
+  alt: 'Bagnanti nell’imbuto verde dello scivolo Tornado'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-discovery-beach.webp
-  alt: "Bagnanti nella piscina a onde Discovery Beach"
+  alt: 'Bagnanti nella piscina a onde Discovery Beach'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-skull-bay.webp
-  alt: "Bambini che corrono nell’acqua nell’area Skull Bay"
+  alt: 'Bambini che corrono nell’acqua nell’area Skull Bay'
+- src: /images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-crestas.webp
+  alt: 'Dune di Maspalomas in riva al mare'
+- src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
+  alt: 'Dune di Maspalomas al tramonto'
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:

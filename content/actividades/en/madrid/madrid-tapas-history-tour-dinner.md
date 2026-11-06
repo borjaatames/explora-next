@@ -53,29 +53,31 @@ keywords:
 - madrid tapas tour with dinner
 - madrid tapas and history
 - tapas tour in english madrid
-imagen: https://imgcdn.bokun.tools/a17c93d7-98da-4272-8874-f2dc9d0108e5.jpeg
-imagenAlt: Paella with prawns and lemon
+imagen: /images/actividades/alicante/paella/paella-mixta.webp
+imagenAlt: 'Seafood paella in its pan'
 galeria:
+- src: https://imgcdn.bokun.tools/a17c93d7-98da-4272-8874-f2dc9d0108e5.jpeg
+  alt: 'Paella with prawns and lemon'
 - src: https://imgcdn.bokun.tools/038851a7-91e0-4d9f-8ffe-d52a8e76daf7.jpeg
-  alt: Group having paella at a table with a checked tablecloth
+  alt: 'Group having paella at a table with a checked tablecloth'
 - src: https://imgcdn.bokun.tools/17673547-12ec-4b46-8ac0-e89d4b22032b.jpg
-  alt: Group at a calamari sandwich bar with hanging hams
+  alt: 'Group at a calamari sandwich bar with hanging hams'
 - src: https://imgcdn.bokun.tools/60d30c46-a7f8-4202-a43e-8f2207b13cf8.jpeg
-  alt: Group toasting with beer in a tavern
+  alt: 'Group toasting with beer in a tavern'
 - src: https://imgcdn.bokun.tools/a7fac614-25b1-4d7a-9a0d-59339bddaaec.jpg
-  alt: Croquettes and a small beer at the bar
+  alt: 'Croquettes and a small beer at the bar'
 - src: https://imgcdn.bokun.tools/8b7c4cec-317d-4f4a-99b9-fd44db528ff6.jpg
-  alt: Seafood paella with lemon
+  alt: 'Seafood paella with lemon'
 - src: https://imgcdn.bokun.tools/f4d86376-b118-4c86-a195-7265e6bbe0a4.jpeg
-  alt: Croquettes on toothpicks with beer
+  alt: 'Croquettes on toothpicks with beer'
 - src: https://imgcdn.bokun.tools/a435deda-0a72-4cf2-8489-e21ec47a29f5.jpg
-  alt: Paella on a checked tablecloth
+  alt: 'Paella on a checked tablecloth'
 - src: https://imgcdn.bokun.tools/4b3352a1-da79-4552-8199-9dc449bd9b42.jpeg
-  alt: Group having dinner at a checked-cloth table
+  alt: 'Group having dinner at a checked-cloth table'
 - src: https://imgcdn.bokun.tools/20c6e4f2-0295-4929-824f-3c49022d58f1.jpeg
-  alt: Black rice with squid
+  alt: 'Black rice with squid'
 - src: https://imgcdn.bokun.tools/fe5b3e58-86b0-4a51-b344-2dd13d027648.jpeg
-  alt: Group trying tapas in the street
+  alt: 'Group trying tapas in the street'
 publicada: true
 indexar: false
 destacada: false

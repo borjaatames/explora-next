@@ -67,16 +67,20 @@ keywords:
 - barcelona aquarium skip the line
 - shark tunnel barcelona
 imagen: /images/actividades/barcelona/aquarium/tunel-oceanario.webp
-imagenAlt: Oceanarium tunnel at L'Aquàrium de Barcelona
+imagenAlt: 'Oceanarium tunnel at L''Aquàrium de Barcelona'
 galeria:
 - src: /images/actividades/barcelona/aquarium/tiburon-buceador.webp
-  alt: Shark and diver in the Oceanarium at L'Aquàrium
+  alt: 'Shark and diver in the Oceanarium at L''Aquàrium'
 - src: /images/actividades/barcelona/aquarium/edificio-aquarium.webp
-  alt: L'Aquàrium building in Barcelona's Port Vell
+  alt: 'L''Aquàrium building in Barcelona''s Port Vell'
 - src: /images/actividades/barcelona/aquarium/pez-angel.webp
-  alt: Queen angelfish in a tropical tank at L'Aquàrium
+  alt: 'Queen angelfish in a tropical tank at L''Aquàrium'
 - src: /images/actividades/barcelona/aquarium/visitantes-oceanario.webp
-  alt: Visitors in front of the main Oceanarium tank
+  alt: 'Visitors in front of the main Oceanarium tank'
+- src: /images/actividades/barcelona/aquarium/tunel-submarino-pasarela.webp
+  alt: 'Underwater tunnel at the Aquàrium de Barcelona'
+- src: /images/actividades/barcelona/aquarium/tiburon-fondo-marino.webp
+  alt: 'Sharks in the large tank at the Aquàrium de Barcelona'
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

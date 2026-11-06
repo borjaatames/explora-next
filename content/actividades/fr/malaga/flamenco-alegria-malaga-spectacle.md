@@ -74,8 +74,8 @@ keywords:
 - alegria flamenco malaga
 - flamenco malaga tapas
 - soirée flamenco malaga
-imagen: /images/actividades/malaga/flamenco/bailaora-movimiento-escenario.webp
-imagenAlt: 'Danseuse de flamenco tournoyant sur scène, robe en mouvement'
+imagen: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
+imagenAlt: 'Danseur de flamenco sur scène'
 galeria:
 - src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
   alt: 'Danseuse et musiciens dans un tablao flamenco'

@@ -77,6 +77,8 @@ galeria:
   alt: 'Inside a traditional tavern'
 - src: https://imgcdn.bokun.tools/3b62909a-782a-4c4b-af51-7a2e84f0e33f.png
   alt: 'Seville tapas bar counter'
+- src: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-03.webp
+  alt: 'Courtyard of the Casa de Pilatos with its fountain'
 publicada: true
 indexar: false
 destacada: false

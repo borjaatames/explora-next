@@ -81,6 +81,10 @@ galeria:
   alt: 'Toledo von einem Aussichtspunkt'
 - src: https://imgcdn.bokun.tools/af64ec27-4406-4770-8ee8-d37a205aaeeb.jpg
   alt: 'Paar vor dem Aquädukt von Segovia'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp
+  alt: 'Aquädukt von Segovia'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp
+  alt: 'Aquädukt von Segovia und die Plaza del Azoguejo von oben'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

@@ -75,16 +75,20 @@ keywords:
 - haitunnel barcelona
 - aquarium barcelona preis
 imagen: /images/actividades/barcelona/aquarium/tunel-oceanario.webp
-imagenAlt: Tunnel im Oceanari des Aquàrium de Barcelona
+imagenAlt: 'Tunnel im Oceanari des Aquàrium de Barcelona'
 galeria:
 - src: /images/actividades/barcelona/aquarium/tiburon-buceador.webp
-  alt: Hai und Taucher im Oceanari des Aquàrium
+  alt: 'Hai und Taucher im Oceanari des Aquàrium'
 - src: /images/actividades/barcelona/aquarium/edificio-aquarium.webp
-  alt: Gebäude des Aquàrium im Port Vell von Barcelona
+  alt: 'Gebäude des Aquàrium im Port Vell von Barcelona'
 - src: /images/actividades/barcelona/aquarium/pez-angel.webp
-  alt: Königin-Kaiserfisch in einem tropischen Becken des Aquàrium
+  alt: 'Königin-Kaiserfisch in einem tropischen Becken des Aquàrium'
 - src: /images/actividades/barcelona/aquarium/visitantes-oceanario.webp
-  alt: Besucher vor dem großen Becken des Oceanari
+  alt: 'Besucher vor dem großen Becken des Oceanari'
+- src: /images/actividades/barcelona/aquarium/tunel-submarino-pasarela.webp
+  alt: 'Unterwassertunnel im Aquàrium de Barcelona'
+- src: /images/actividades/barcelona/aquarium/tiburon-fondo-marino.webp
+  alt: 'Haie im großen Becken des Aquàrium de Barcelona'
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

@@ -62,23 +62,25 @@ keywords:
 - jewish granada tour
 - realejo granada private tour
 - granada jewish quarter guided walk
-imagen: https://imgcdn.bokun.tools/188958bc-8ae2-489a-985a-8e6cee081000.jpg
-imagenAlt: Statue in the Realejo quarter
+imagen: /images/actividades/granada/albaicin/albaicin-pexels-30359825.webp
+imagenAlt: 'Aerial view of Granada''s old town'
 galeria:
+- src: https://imgcdn.bokun.tools/188958bc-8ae2-489a-985a-8e6cee081000.jpg
+  alt: 'Statue in the Realejo quarter'
 - src: https://imgcdn.bokun.tools/e7439e05-f3a7-4695-a32a-00de484373aa.jpg
-  alt: The Alhambra seen from the Realejo
+  alt: 'The Alhambra seen from the Realejo'
 - src: https://imgcdn.bokun.tools/d90163e6-f72d-40e8-94ff-498b12e1845d.jpg
-  alt: Arch with a view in central Granada
+  alt: 'Arch with a view in central Granada'
 - src: https://imgcdn.bokun.tools/638246a8-cdc5-4eec-8bf4-06500d6f21a7.jpg
-  alt: Historic façade in the Realejo
+  alt: 'Historic façade in the Realejo'
 - src: https://imgcdn.bokun.tools/b3b33e82-80f6-4c41-9e64-8eafe9424da9.jpg
-  alt: Nasrid arch
+  alt: 'Nasrid arch'
 - src: https://imgcdn.bokun.tools/a6797e84-e6da-416c-8196-78dd044be994.jpg
-  alt: View of Granada from a viewpoint
+  alt: 'View of Granada from a viewpoint'
 - src: https://imgcdn.bokun.tools/ff570476-dd7e-4771-885b-62d66756f2af.jpg
-  alt: Tower seen through an arch
+  alt: 'Tower seen through an arch'
 - src: https://imgcdn.bokun.tools/3e593397-5aad-4380-ba8e-1cd4af7bef56.jpg
-  alt: Commemorative plaque in the Realejo
+  alt: 'Commemorative plaque in the Realejo'
 publicada: true
 indexar: false
 destacada: false

@@ -77,6 +77,8 @@ galeria:
   alt: 'Interior de una taberna tradicional'
 - src: https://imgcdn.bokun.tools/3b62909a-782a-4c4b-af51-7a2e84f0e33f.png
   alt: 'Barra de un bar de tapas sevillano'
+- src: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-03.webp
+  alt: 'Patio de la Casa de Pilatos con su fuente'
 publicada: true
 indexar: false
 destacada: false

@@ -78,6 +78,8 @@ galeria:
   alt: 'Interno di una taverna tradizionale'
 - src: https://imgcdn.bokun.tools/3b62909a-782a-4c4b-af51-7a2e84f0e33f.png
   alt: 'Bancone di un bar di tapas a Siviglia'
+- src: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-03.webp
+  alt: 'Cortile della Casa de Pilatos con la sua fontana'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

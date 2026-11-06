@@ -82,6 +82,10 @@ galeria:
   alt: 'Couple in front of the aqueduct of Segovia'
 - src: /images/actividades/madrid/alcazar-segovia/alcazar-segovia-alcazar-castle-fortress-hero.webp
   alt: 'Alcázar fortress castle with stone towers against blue sky in Segovia'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp
+  alt: 'Aqueduct of Segovia'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp
+  alt: 'Aqueduct of Segovia and the plaza del Azoguejo from above'
 publicada: true
 indexar: false
 destacada: false

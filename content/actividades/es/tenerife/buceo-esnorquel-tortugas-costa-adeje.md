@@ -90,18 +90,22 @@ keywords:
 - buceo puerto colon
 - submarinismo principiantes tenerife
 imagen: /images/actividades/tenerife/costa-adeje/buceador-fondo-volcanico.webp
-imagenAlt: Buceador con equipo de inmersión sobre un fondo rocoso en aguas azules
+imagenAlt: 'Buceador con equipo de inmersión sobre un fondo rocoso en aguas azules'
 galeria:
 - src: /images/actividades/tenerife/costa-adeje/tortugas-fondo-rocoso.webp
-  alt: Dos tortugas marinas nadando sobre un fondo rocoso
+  alt: 'Dos tortugas marinas nadando sobre un fondo rocoso'
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
-  alt: Costa rocosa volcánica en Costa Adeje
+  alt: 'Costa rocosa volcánica en Costa Adeje'
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
-  alt: Persona haciendo esnórquel en aguas azules y transparentes
+  alt: 'Persona haciendo esnórquel en aguas azules y transparentes'
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: Playa de Costa Adeje con las montañas al fondo
+  alt: 'Playa de Costa Adeje con las montañas al fondo'
 - src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-  alt: Vista de la costa de Costa Adeje
+  alt: 'Vista de la costa de Costa Adeje'
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-wikimedia-01.webp
+  alt: 'Fondo marino con bancos de peces'
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
+  alt: 'Barcos de buceo vistos desde el agua'
 ratingProveedor: 4.7
 numeroOpiniones: 2025
 atraccionesRelacionadas:

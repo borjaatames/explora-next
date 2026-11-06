@@ -82,9 +82,11 @@ keywords:
 - barco corralejo lobos
 - como ir a isla de lobos
 - isla de lobos fuerteventura
-imagen: /images/actividades/fuerteventura/ferry-lobos.webp
-imagenAlt: Ferri de pasajeros entre Corralejo y la Isla de Lobos
+imagen: /images/actividades/fuerteventura/lobos/playa-la-concha-lobos.webp
+imagenAlt: 'Isla de Lobos sobre el mar turquesa desde Corralejo'
 galeria:
+- src: /images/actividades/fuerteventura/ferry-lobos.webp
+  alt: 'Ferri de pasajeros entre Corralejo y la Isla de Lobos'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
   alt: 'Vista aérea de la Isla de Lobos'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-costa.webp

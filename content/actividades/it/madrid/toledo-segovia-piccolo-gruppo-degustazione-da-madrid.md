@@ -80,6 +80,10 @@ galeria:
   alt: 'Toledo da un belvedere'
 - src: https://imgcdn.bokun.tools/af64ec27-4406-4770-8ee8-d37a205aaeeb.jpg
   alt: 'Coppia davanti all''acquedotto di Segovia'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp
+  alt: 'Acquedotto di Segovia'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp
+  alt: 'Acquedotto di Segovia e la plaza del Azoguejo dall''alto'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

@@ -73,6 +73,12 @@ galeria:
   alt: 'Jardines de La Granja de San Ildefonso'
 - src: https://imgcdn.bokun.tools/f3cefda1-c13e-4e50-b974-997a77d59409.jpg
   alt: 'Vidriera de la catedral de Segovia'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp
+  alt: 'Acueducto de Segovia'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp
+  alt: 'Acueducto de Segovia junto a la plaza del Azoguejo'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp
+  alt: 'Acueducto de Segovia y la plaza del Azoguejo desde lo alto'
 publicada: true
 indexar: false
 destacada: false

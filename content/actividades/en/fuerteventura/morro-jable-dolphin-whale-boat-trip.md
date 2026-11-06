@@ -83,9 +83,11 @@ keywords:
 - morro jable boat trip
 - whale watching fuerteventura
 - jandia boat trip
-imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-imagenAlt: Dolphins swimming beside a boat off Morro Jable
+imagen: /images/actividades/fuerteventura/fotos-biblioteca/gran-canaria-delfines-pexels-30405211.webp
+imagenAlt: 'Dolphin swimming near the sea surface'
 galeria:
+- src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
+  alt: 'Dolphins swimming beside a boat off Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
   alt: 'The Morro Jable lighthouse'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp

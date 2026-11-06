@@ -58,19 +58,25 @@ categoria: toursGastronomicos
 keywords:
 - tour gastronomico privado barcelona gotico
 - boqueria tapas tour privado
-imagen: https://imgcdn.bokun.tools/41afda9c-302e-457b-8a13-21a082a23be6.jpg
-imagenAlt: "Familia compartiendo tapas y bebidas en una mesa"
+imagen: /images/actividades/barcelona/boqueria/mercat-boqueria-colorful-candy-assortment-display-hero.webp
+imagenAlt: 'Puesto de fruta en el Mercado de la Boquería'
 galeria:
+- src: https://imgcdn.bokun.tools/41afda9c-302e-457b-8a13-21a082a23be6.jpg
+  alt: 'Familia compartiendo tapas y bebidas en una mesa'
 - src: https://imgcdn.bokun.tools/af6826cf-4916-443f-82fa-d60c54e79a83.jpg
-  alt: "Grupo brindando con cava y tapas"
+  alt: 'Grupo brindando con cava y tapas'
 - src: https://imgcdn.bokun.tools/503e8bea-fcfb-4133-b3e6-13879df2dcfd.jpg
-  alt: "Pan con tomate, patatas bravas y vermut"
+  alt: 'Pan con tomate, patatas bravas y vermut'
 - src: https://imgcdn.bokun.tools/f7d9a8eb-b766-45ce-b83e-c2ede53faf95.jpg
-  alt: "Visitantes en la barra de pinchos de un bar"
+  alt: 'Visitantes en la barra de pinchos de un bar'
 - src: https://imgcdn.bokun.tools/dce2e2ae-c7f5-4104-98f7-4057c3a3ae36.jpg
-  alt: "Grupo ante un puesto de zumos en La Boqueria"
+  alt: 'Grupo ante un puesto de zumos en La Boqueria'
 - src: https://imgcdn.bokun.tools/91c9e869-8436-45df-87e3-e950f1fd1e08.jpg
-  alt: "Visitante en un puesto de jamones del mercado"
+  alt: 'Visitante en un puesto de jamones del mercado'
+- src: /images/actividades/barcelona/barrio-gotico/pexels-27397592-hero.webp
+  alt: 'Puente del Bisbe en el Barrio Gótico de Barcelona'
+- src: /images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp
+  alt: 'Catedral de Barcelona'
 publicada: true
 indexar: false
 destacada: false

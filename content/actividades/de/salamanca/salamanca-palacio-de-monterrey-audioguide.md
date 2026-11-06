@@ -77,20 +77,22 @@ destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/salamanca/palacio-monterrey/fachada-palacio-monterrey.webp
-imagenAlt: Renaissancefassade des Palacio de Monterrey in Salamanca
+imagenAlt: 'Renaissancefassade des Palacio de Monterrey in Salamanca'
 galeria:
 - src: /images/actividades/salamanca/palacio-monterrey/palacio-monterrey-esquina.webp
-  alt: Der Palacio de Monterrey von der Ecke mit seinem Turm
+  alt: 'Der Palacio de Monterrey von der Ecke mit seinem Turm'
 - src: /images/actividades/salamanca/palacio-monterrey/torre-palacio-monterrey.webp
-  alt: Turm des Palacio de Monterrey
+  alt: 'Turm des Palacio de Monterrey'
 - src: /images/actividades/salamanca/palacio-monterrey/cresteria-palacio-monterrey.webp
-  alt: Renaissance-Zinnenkranz des Palacio de Monterrey
+  alt: 'Renaissance-Zinnenkranz des Palacio de Monterrey'
 - src: /images/actividades/salamanca/palacio-monterrey/galeria-palacio-monterrey.webp
-  alt: Bogengalerie und Turm des Palacio de Monterrey
+  alt: 'Bogengalerie und Turm des Palacio de Monterrey'
 - src: /images/actividades/salamanca/palacio-monterrey/grabado-palacio-monterrey-1844.webp
-  alt: Stich des Palacio de Monterrey von 1844
+  alt: 'Stich des Palacio de Monterrey von 1844'
 - src: /images/actividades/salamanca/palacio-monterrey/palacio-monterrey-nocturna.webp
-  alt: Der beleuchtete Palacio de Monterrey bei Nacht
+  alt: 'Der beleuchtete Palacio de Monterrey bei Nacht'
+- src: /images/actividades/salamanca/casa-conchas/casa-conchas-salamanca-conchas-clerecia-barroca-hero.webp
+  alt: 'Türme der Clerecía in Salamanca'
 avisoReserva: Der Audioguide ist nur auf Englisch, Spanisch und Französisch verfügbar, nicht auf Deutsch.
 ---
 

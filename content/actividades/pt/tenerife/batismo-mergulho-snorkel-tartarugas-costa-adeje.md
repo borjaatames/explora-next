@@ -90,18 +90,22 @@ keywords:
 - mergulho puerto colon
 - mergulho para principiantes tenerife
 imagen: /images/actividades/tenerife/costa-adeje/buceador-fondo-volcanico.webp
-imagenAlt: Mergulhador com equipamento de mergulho sobre um fundo rochoso em águas azuis
+imagenAlt: 'Mergulhador com equipamento de mergulho sobre um fundo rochoso em águas azuis'
 galeria:
 - src: /images/actividades/tenerife/costa-adeje/tortugas-fondo-rocoso.webp
-  alt: Duas tartarugas marinhas a nadar sobre um fundo rochoso
+  alt: 'Duas tartarugas marinhas a nadar sobre um fundo rochoso'
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
-  alt: Costa rochosa vulcânica em Costa Adeje
+  alt: 'Costa rochosa vulcânica em Costa Adeje'
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
-  alt: Pessoa a fazer snorkel em águas azuis e transparentes
+  alt: 'Pessoa a fazer snorkel em águas azuis e transparentes'
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: Praia de Costa Adeje com as montanhas ao fundo
+  alt: 'Praia de Costa Adeje com as montanhas ao fundo'
 - src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-  alt: Vista da costa de Costa Adeje
+  alt: 'Vista da costa de Costa Adeje'
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-wikimedia-01.webp
+  alt: 'Fundo do mar com cardumes de peixes'
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
+  alt: 'Barcos de mergulho vistos da água'
 ratingProveedor: 4.7
 numeroOpiniones: 2025
 atraccionesRelacionadas:

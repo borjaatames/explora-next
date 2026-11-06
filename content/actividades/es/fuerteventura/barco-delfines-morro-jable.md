@@ -83,9 +83,11 @@ keywords:
 - barco morro jable
 - avistamiento cetaceos fuerteventura
 - excursion barco jandia
-imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-imagenAlt: Delfines nadando junto a un barco frente a Morro Jable
+imagen: /images/actividades/fuerteventura/fotos-biblioteca/gran-canaria-delfines-pexels-30405211.webp
+imagenAlt: 'Delfín nadando junto a la superficie del mar'
 galeria:
+- src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
+  alt: 'Delfines nadando junto a un barco frente a Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
   alt: 'El faro de Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp

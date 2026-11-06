@@ -71,16 +71,20 @@ keywords:
 - poema del mar gran canaria
 - aquario gran canaria
 imagen: /images/actividades/gran-canaria/poema-del-mar/ventana-curva.webp
-imagenAlt: A grande janela curva do aquário Poema del Mar
+imagenAlt: 'A grande janela curva do aquário Poema del Mar'
 galeria:
 - src: /images/actividades/gran-canaria/poema-del-mar/arrecife.webp
-  alt: Peixes tropicais no recife do Poema del Mar
+  alt: 'Peixes tropicais no recife do Poema del Mar'
 - src: /images/actividades/gran-canaria/poema-del-mar/tunel.webp
-  alt: Túnel subaquático entre peixes no Poema del Mar
+  alt: 'Túnel subaquático entre peixes no Poema del Mar'
 - src: /images/actividades/gran-canaria/poema-del-mar/tunel-tiburones.webp
-  alt: Tubarões e raias sobre o túnel do Poema del Mar
+  alt: 'Tubarões e raias sobre o túnel do Poema del Mar'
 - src: /images/actividades/gran-canaria/poema-del-mar/la-jungla.webp
-  alt: Peixes sob as raízes da zona La Jungla do Poema del Mar
+  alt: 'Peixes sob as raízes da zona La Jungla do Poema del Mar'
+- src: /images/actividades/gran-canaria/las-palmas/fgc-panoramica-las-palmas-mirador.webp
+  alt: 'Las Palmas de Gran Canaria e a praia de Las Canteras'
+- src: /images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp
+  alt: 'Porto de Las Palmas de Gran Canaria entre palmeiras'
 ratingProveedor: 4.8
 numeroOpiniones: 4610
 atraccionesRelacionadas:

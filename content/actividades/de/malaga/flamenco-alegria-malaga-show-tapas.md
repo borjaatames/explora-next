@@ -76,8 +76,8 @@ keywords:
 - alegria flamenco malaga
 - flamenco show malaga tickets
 - flamenco mit tapas malaga
-imagen: /images/actividades/malaga/flamenco/bailaora-movimiento-escenario.webp
-imagenAlt: 'Flamencotänzerin dreht sich auf der Bühne, das Kleid in Bewegung'
+imagen: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
+imagenAlt: 'Flamencotänzer auf der Bühne'
 galeria:
 - src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
   alt: 'Tänzerin und Musiker in einem Flamenco-Tablao'

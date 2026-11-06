@@ -62,23 +62,25 @@ keywords:
 - granada judia tour
 - realejo granada tour privado
 - barrio judio granada visita guiada
-imagen: https://imgcdn.bokun.tools/188958bc-8ae2-489a-985a-8e6cee081000.jpg
-imagenAlt: Estatua en el barrio del Realejo
+imagen: /images/actividades/granada/albaicin/albaicin-pexels-30359825.webp
+imagenAlt: 'Vista aérea del casco histórico de Granada'
 galeria:
+- src: https://imgcdn.bokun.tools/188958bc-8ae2-489a-985a-8e6cee081000.jpg
+  alt: 'Estatua en el barrio del Realejo'
 - src: https://imgcdn.bokun.tools/e7439e05-f3a7-4695-a32a-00de484373aa.jpg
-  alt: La Alhambra vista desde el Realejo
+  alt: 'La Alhambra vista desde el Realejo'
 - src: https://imgcdn.bokun.tools/d90163e6-f72d-40e8-94ff-498b12e1845d.jpg
-  alt: Arco con vistas en el centro de Granada
+  alt: 'Arco con vistas en el centro de Granada'
 - src: https://imgcdn.bokun.tools/638246a8-cdc5-4eec-8bf4-06500d6f21a7.jpg
-  alt: Fachada histórica del Realejo
+  alt: 'Fachada histórica del Realejo'
 - src: https://imgcdn.bokun.tools/b3b33e82-80f6-4c41-9e64-8eafe9424da9.jpg
-  alt: Arco nazarí
+  alt: 'Arco nazarí'
 - src: https://imgcdn.bokun.tools/a6797e84-e6da-416c-8196-78dd044be994.jpg
-  alt: Vista de Granada desde un mirador
+  alt: 'Vista de Granada desde un mirador'
 - src: https://imgcdn.bokun.tools/ff570476-dd7e-4771-885b-62d66756f2af.jpg
-  alt: Torre vista a través de un arco
+  alt: 'Torre vista a través de un arco'
 - src: https://imgcdn.bokun.tools/3e593397-5aad-4380-ba8e-1cd4af7bef56.jpg
-  alt: Placa conmemorativa en el Realejo
+  alt: 'Placa conmemorativa en el Realejo'
 publicada: true
 indexar: false
 destacada: false

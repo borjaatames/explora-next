@@ -66,20 +66,22 @@ keywords:
 - toledo cathedral tickets
 - toledo transparente
 imagen: /images/actividades/madrid/toledo-catedral/toledo-catedral-01.webp
-imagenAlt: Toledo Cathedral seen from Plaza del Ayuntamiento
+imagenAlt: 'Toledo Cathedral seen from Plaza del Ayuntamiento'
 galeria:
 - src: /images/actividades/madrid/toledo-catedral/toledo-catedral-02.webp
-  alt: Main facade of Toledo Cathedral
+  alt: 'Main facade of Toledo Cathedral'
 - src: /images/actividades/madrid/toledo-catedral/toledo-catedral-03.webp
-  alt: Gothic doorway of Toledo Cathedral
+  alt: 'Gothic doorway of Toledo Cathedral'
 - src: /images/actividades/madrid/toledo-catedral/toledo-catedral-04.webp
-  alt: Toledo Cathedral tower above the square
+  alt: 'Toledo Cathedral tower above the square'
 - src: /images/actividades/madrid/toledo-catedral/toledo-catedral-05.webp
-  alt: Carved relief inside Toledo Cathedral
+  alt: 'Carved relief inside Toledo Cathedral'
 - src: /images/actividades/madrid/toledo-catedral/toledo-catedral-06.webp
-  alt: Cathedral tower at night between Toledo's streets
+  alt: 'Cathedral tower at night between Toledo''s streets'
 - src: /images/actividades/madrid/toledo-catedral/toledo-catedral-07.webp
-  alt: Cathedral tower above Toledo's rooftops
+  alt: 'Cathedral tower above Toledo''s rooftops'
+- src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-breathtaking-aerial-view-historic-hero.webp
+  alt: 'Panoramic view of Toledo with the cathedral and the Alcázar'
 ratingProveedor: 4.5
 numeroOpiniones: 444
 atraccionesRelacionadas:

@@ -83,9 +83,11 @@ keywords:
 - isla de lobos ausflug
 - wie komme ich nach lobos
 - lobos fuerteventura
-imagen: /images/actividades/fuerteventura/ferry-lobos.webp
-imagenAlt: Passagierfähre zwischen Corralejo und der Isla de Lobos
+imagen: /images/actividades/fuerteventura/lobos/playa-la-concha-lobos.webp
+imagenAlt: 'Isla de Lobos im türkisfarbenen Meer, von Corralejo aus gesehen'
 galeria:
+- src: /images/actividades/fuerteventura/ferry-lobos.webp
+  alt: 'Passagierfähre zwischen Corralejo und der Isla de Lobos'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
   alt: 'Luftaufnahme der Isla de Lobos'
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-costa.webp

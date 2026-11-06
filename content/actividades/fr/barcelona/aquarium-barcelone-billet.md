@@ -75,16 +75,20 @@ keywords:
 - tunnel requins barcelone
 - aquarium barcelone prix
 imagen: /images/actividades/barcelona/aquarium/tunel-oceanario.webp
-imagenAlt: Le tunnel de l’Oceanàrium de L’Aquàrium de Barcelona
+imagenAlt: 'Le tunnel de l’Oceanàrium de L’Aquàrium de Barcelona'
 galeria:
 - src: /images/actividades/barcelona/aquarium/tiburon-buceador.webp
-  alt: Requin et plongeur dans l’Oceanàrium de L’Aquàrium
+  alt: 'Requin et plongeur dans l’Oceanàrium de L’Aquàrium'
 - src: /images/actividades/barcelona/aquarium/edificio-aquarium.webp
-  alt: Le bâtiment de L’Aquàrium au Port Vell de Barcelone
+  alt: 'Le bâtiment de L’Aquàrium au Port Vell de Barcelone'
 - src: /images/actividades/barcelona/aquarium/pez-angel.webp
-  alt: Poisson-ange royal dans un aquarium tropical de L’Aquàrium
+  alt: 'Poisson-ange royal dans un aquarium tropical de L’Aquàrium'
 - src: /images/actividades/barcelona/aquarium/visitantes-oceanario.webp
-  alt: Visiteurs devant le grand bassin de l’Oceanàrium
+  alt: 'Visiteurs devant le grand bassin de l’Oceanàrium'
+- src: /images/actividades/barcelona/aquarium/tunel-submarino-pasarela.webp
+  alt: 'Tunnel sous-marin de l''Aquàrium de Barcelona'
+- src: /images/actividades/barcelona/aquarium/tiburon-fondo-marino.webp
+  alt: 'Requins dans le grand bassin de l''Aquàrium de Barcelona'
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

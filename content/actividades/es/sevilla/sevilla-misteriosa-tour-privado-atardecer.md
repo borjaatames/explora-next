@@ -64,32 +64,34 @@ keywords:
 - sevilla misteriosa tour
 - tour leyendas sevilla privado
 - ruta misterio sevilla
-imagen: /images/actividades/sevilla/setas/setas-pexels-18536662.webp
-imagenAlt: Las Setas de Sevilla al atardecer
+imagen: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-04.webp
+imagenAlt: 'Patio de la Casa de Pilatos en Sevilla'
 publicada: true
 destacada: false
 fecha: '2026-10-29'
 galeria:
+- src: /images/actividades/sevilla/setas/setas-pexels-18536662.webp
+  alt: 'Las Setas de Sevilla al atardecer'
 - src: https://imgcdn.bokun.tools/169bfd81-2a0a-46e3-96ae-0a379ce498fe.jpeg
-  alt: Centro de Sevilla durante el tour (foto del proveedor)
+  alt: 'Centro de Sevilla durante el tour (foto del proveedor)'
 - src: /images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp
-  alt: Callejón del Agua en el barrio de Santa Cruz
+  alt: 'Callejón del Agua en el barrio de Santa Cruz'
 - src: https://imgcdn.bokun.tools/9b043ea9-f108-4ce0-a141-899d8bbfa1cb.png
-  alt: Centro de Sevilla durante el tour (foto del proveedor)
+  alt: 'Centro de Sevilla durante el tour (foto del proveedor)'
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-1-jpg-03.webp
-  alt: Las Setas de la Encarnación
+  alt: 'Las Setas de la Encarnación'
 - src: https://imgcdn.bokun.tools/bfb1825f-ea7c-420b-a5b8-166ef033cb4a.jpeg
-  alt: Centro de Sevilla durante el tour (foto del proveedor)
+  alt: 'Centro de Sevilla durante el tour (foto del proveedor)'
 - src: https://imgcdn.bokun.tools/f90d9c39-d125-43e3-8060-b6a25a8d7663.jpeg
-  alt: Centro de Sevilla durante el tour (foto del proveedor)
+  alt: 'Centro de Sevilla durante el tour (foto del proveedor)'
 - src: https://imgcdn.bokun.tools/5d082a5b-0a5a-4b22-8f70-55d69e3df502.jpeg
-  alt: Centro de Sevilla durante el tour (foto del proveedor)
+  alt: 'Centro de Sevilla durante el tour (foto del proveedor)'
 - src: https://imgcdn.bokun.tools/06065197-cf58-43da-9087-878e008693be.jpeg
-  alt: Centro de Sevilla durante el tour (foto del proveedor)
+  alt: 'Centro de Sevilla durante el tour (foto del proveedor)'
 - src: https://imgcdn.bokun.tools/11dd4e81-5a48-4c98-8110-507b5d11fa84.jpeg
-  alt: Centro de Sevilla durante el tour (foto del proveedor)
+  alt: 'Centro de Sevilla durante el tour (foto del proveedor)'
 - src: https://imgcdn.bokun.tools/3be01fe6-b5ab-49be-9b3f-fe83ba1d4467.jpeg
-  alt: Centro de Sevilla durante el tour (foto del proveedor)
+  alt: 'Centro de Sevilla durante el tour (foto del proveedor)'
 fecha_actualizacion: '2026-10-29'
 privada: true
 precioPorGrupo: true

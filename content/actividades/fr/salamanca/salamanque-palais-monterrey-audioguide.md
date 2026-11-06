@@ -78,20 +78,22 @@ destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'
 imagen: /images/actividades/salamanca/palacio-monterrey/fachada-palacio-monterrey.webp
-imagenAlt: "La façade Renaissance du palais de Monterrey à Salamanque"
+imagenAlt: 'La façade Renaissance du palais de Monterrey à Salamanque'
 galeria:
 - src: /images/actividades/salamanca/palacio-monterrey/palacio-monterrey-esquina.webp
-  alt: "Le palais de Monterrey vu depuis l'angle, avec sa tour"
+  alt: 'Le palais de Monterrey vu depuis l''angle, avec sa tour'
 - src: /images/actividades/salamanca/palacio-monterrey/torre-palacio-monterrey.webp
-  alt: "La tour du palais de Monterrey"
+  alt: 'La tour du palais de Monterrey'
 - src: /images/actividades/salamanca/palacio-monterrey/cresteria-palacio-monterrey.webp
-  alt: "La crête Renaissance du palais de Monterrey"
+  alt: 'La crête Renaissance du palais de Monterrey'
 - src: /images/actividades/salamanca/palacio-monterrey/galeria-palacio-monterrey.webp
-  alt: "La galerie à arcades et la tour du palais de Monterrey"
+  alt: 'La galerie à arcades et la tour du palais de Monterrey'
 - src: /images/actividades/salamanca/palacio-monterrey/grabado-palacio-monterrey-1844.webp
-  alt: "Gravure de 1844 du palais de Monterrey"
+  alt: 'Gravure de 1844 du palais de Monterrey'
 - src: /images/actividades/salamanca/palacio-monterrey/palacio-monterrey-nocturna.webp
-  alt: "Le palais de Monterrey illuminé la nuit"
+  alt: 'Le palais de Monterrey illuminé la nuit'
+- src: /images/actividades/salamanca/casa-conchas/casa-conchas-salamanca-conchas-clerecia-barroca-hero.webp
+  alt: 'Tours de la Clerecía de Salamanque'
 ---
 
 ## Ce que vous verrez

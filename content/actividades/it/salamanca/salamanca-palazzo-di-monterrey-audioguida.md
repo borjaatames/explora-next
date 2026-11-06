@@ -75,20 +75,22 @@ destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/salamanca/palacio-monterrey/fachada-palacio-monterrey.webp
-imagenAlt: "Facciata rinascimentale del Palazzo di Monterrey a Salamanca"
+imagenAlt: 'Facciata rinascimentale del Palazzo di Monterrey a Salamanca'
 galeria:
 - src: /images/actividades/salamanca/palacio-monterrey/palacio-monterrey-esquina.webp
-  alt: "Il Palazzo di Monterrey visto dall'angolo con la sua torre"
+  alt: 'Il Palazzo di Monterrey visto dall''angolo con la sua torre'
 - src: /images/actividades/salamanca/palacio-monterrey/torre-palacio-monterrey.webp
-  alt: "Torre del Palazzo di Monterrey"
+  alt: 'Torre del Palazzo di Monterrey'
 - src: /images/actividades/salamanca/palacio-monterrey/cresteria-palacio-monterrey.webp
-  alt: "Cresta rinascimentale traforata del Palazzo di Monterrey"
+  alt: 'Cresta rinascimentale traforata del Palazzo di Monterrey'
 - src: /images/actividades/salamanca/palacio-monterrey/galeria-palacio-monterrey.webp
-  alt: "Loggiato ad archi e torre del Palazzo di Monterrey"
+  alt: 'Loggiato ad archi e torre del Palazzo di Monterrey'
 - src: /images/actividades/salamanca/palacio-monterrey/grabado-palacio-monterrey-1844.webp
-  alt: "Incisione del Palazzo di Monterrey pubblicata nel 1844"
+  alt: 'Incisione del Palazzo di Monterrey pubblicata nel 1844'
 - src: /images/actividades/salamanca/palacio-monterrey/palacio-monterrey-nocturna.webp
-  alt: "Il Palazzo di Monterrey illuminato di notte"
+  alt: 'Il Palazzo di Monterrey illuminato di notte'
+- src: /images/actividades/salamanca/casa-conchas/casa-conchas-salamanca-conchas-clerecia-barroca-hero.webp
+  alt: 'Torri della Clerecía di Salamanca'
 ---
 
 ## Cosa vedrai

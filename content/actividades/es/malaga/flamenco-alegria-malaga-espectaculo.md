@@ -76,8 +76,8 @@ keywords:
 - alegria flamenco malaga
 - espectaculo flamenco malaga
 - flamenco con tapas malaga
-imagen: /images/actividades/malaga/flamenco/bailaora-movimiento-escenario.webp
-imagenAlt: 'Bailaora girando en el escenario, con el vestido en movimiento'
+imagen: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
+imagenAlt: 'Bailaor de flamenco sobre el escenario'
 galeria:
 - src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
   alt: 'Bailaora y músicos en un tablao flamenco'

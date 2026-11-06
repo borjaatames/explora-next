@@ -87,9 +87,11 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
-imagenAlt: "The cascade on the Paseo de Canarias in Firgas"
+imagen: /images/actividades/tenerife/teno/ftc-laurisilva-troncos-musgo.webp
+imagenAlt: 'Laurel forest with moss-covered trunks'
 galeria:
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
+  alt: 'The cascade on the Paseo de Canarias in Firgas'
 - src: /images/actividades/gran-canaria/norte/firgas-paseo-azulejos-hero.webp
   alt: 'Tiled benches on the Paseo de Gran Canaria in Firgas'
 - src: /images/actividades/gran-canaria/norte/firgas-paseo-isla-azulejo-hero.webp

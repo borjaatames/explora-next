@@ -79,18 +79,22 @@ keywords:
 - wasserpark gran canaria
 - rutschen maspalomas
 imagen: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
-imagenAlt: "Luftaufnahme des großen Wellenbeckens im Aqualand Maspalomas"
+imagenAlt: 'Luftaufnahme des großen Wellenbeckens im Aqualand Maspalomas'
 galeria:
 - src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
-  alt: "Große Röhrenrutschen im Aqualand Maspalomas zwischen Ruinen im Maya-Stil"
+  alt: 'Große Röhrenrutschen im Aqualand Maspalomas zwischen Ruinen im Maya-Stil'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
-  alt: "Kinderbereich Polynesia mit Rutschen und Wasserkübel"
+  alt: 'Kinderbereich Polynesia mit Rutschen und Wasserkübel'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-tornado.webp
-  alt: "Badegäste im grünen Trichter der Rutsche Tornado"
+  alt: 'Badegäste im grünen Trichter der Rutsche Tornado'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-discovery-beach.webp
-  alt: "Badegäste im Wellenbecken Discovery Beach"
+  alt: 'Badegäste im Wellenbecken Discovery Beach'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-skull-bay.webp
-  alt: "Kinder laufen im Kinderbereich Skull Bay durchs Wasser"
+  alt: 'Kinder laufen im Kinderbereich Skull Bay durchs Wasser'
+- src: /images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-crestas.webp
+  alt: 'Dünen von Maspalomas am Meer'
+- src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
+  alt: 'Dünen von Maspalomas bei Sonnenuntergang'
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:

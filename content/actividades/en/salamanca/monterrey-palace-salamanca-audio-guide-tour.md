@@ -77,20 +77,22 @@ destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/salamanca/palacio-monterrey/fachada-palacio-monterrey.webp
-imagenAlt: "Renaissance facade of Monterrey Palace in Salamanca"
+imagenAlt: 'Renaissance facade of Monterrey Palace in Salamanca'
 galeria:
 - src: /images/actividades/salamanca/palacio-monterrey/palacio-monterrey-esquina.webp
-  alt: "Monterrey Palace seen from the corner with its tower"
+  alt: 'Monterrey Palace seen from the corner with its tower'
 - src: /images/actividades/salamanca/palacio-monterrey/torre-palacio-monterrey.webp
-  alt: "Tower of Monterrey Palace"
+  alt: 'Tower of Monterrey Palace'
 - src: /images/actividades/salamanca/palacio-monterrey/cresteria-palacio-monterrey.webp
-  alt: "Renaissance cresting of Monterrey Palace"
+  alt: 'Renaissance cresting of Monterrey Palace'
 - src: /images/actividades/salamanca/palacio-monterrey/galeria-palacio-monterrey.webp
-  alt: "Arched gallery and tower of Monterrey Palace"
+  alt: 'Arched gallery and tower of Monterrey Palace'
 - src: /images/actividades/salamanca/palacio-monterrey/grabado-palacio-monterrey-1844.webp
-  alt: "1844 engraving of Monterrey Palace"
+  alt: '1844 engraving of Monterrey Palace'
 - src: /images/actividades/salamanca/palacio-monterrey/palacio-monterrey-nocturna.webp
-  alt: "Monterrey Palace lit up at night"
+  alt: 'Monterrey Palace lit up at night'
+- src: /images/actividades/salamanca/casa-conchas/casa-conchas-salamanca-conchas-clerecia-barroca-hero.webp
+  alt: 'Towers of La Clerecía in Salamanca'
 ---
 
 ## What you will see

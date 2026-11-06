@@ -72,6 +72,12 @@ galeria:
   alt: 'Giardini de La Granja de San Ildefonso'
 - src: https://imgcdn.bokun.tools/f3cefda1-c13e-4e50-b974-997a77d59409.jpg
   alt: 'Vetrata della cattedrale di Segovia'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp
+  alt: 'Acquedotto di Segovia'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp
+  alt: 'Acquedotto di Segovia accanto alla plaza del Azoguejo'
+- src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp
+  alt: 'Acquedotto di Segovia e la plaza del Azoguejo dall''alto'
 publicada: true
 destacada: false
 fecha: '2026-11-05'

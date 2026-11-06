@@ -76,18 +76,22 @@ keywords:
 - parque aquatico gran canaria
 - escorregas maspalomas
 imagen: /images/actividades/gran-canaria/aqualand/aqualand-piscina-olas.webp
-imagenAlt: "Vista aérea da grande piscina de ondas do Aqualand Maspalomas"
+imagenAlt: 'Vista aérea da grande piscina de ondas do Aqualand Maspalomas'
 galeria:
 - src: /images/actividades/gran-canaria/aqualand/aqualand-toboganes-tubo.webp
-  alt: "Grandes escorregas em tubo do Aqualand Maspalomas entre ruínas de inspiração maia"
+  alt: 'Grandes escorregas em tubo do Aqualand Maspalomas entre ruínas de inspiração maia'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-polynesia-infantil.webp
-  alt: "Zona infantil Polynesia com escorregas e balde de água"
+  alt: 'Zona infantil Polynesia com escorregas e balde de água'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-tornado.webp
-  alt: "Banhistas no funil verde do escorrega Tornado"
+  alt: 'Banhistas no funil verde do escorrega Tornado'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-discovery-beach.webp
-  alt: "Banhistas na piscina de ondas Discovery Beach"
+  alt: 'Banhistas na piscina de ondas Discovery Beach'
 - src: /images/actividades/gran-canaria/aqualand/aqualand-skull-bay.webp
-  alt: "Crianças a correr na água na zona infantil Skull Bay"
+  alt: 'Crianças a correr na água na zona infantil Skull Bay'
+- src: /images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-crestas.webp
+  alt: 'Dunas de Maspalomas junto ao mar'
+- src: /images/actividades/gran-canaria/dunas/dunas-maspalomas.webp
+  alt: 'Dunas de Maspalomas ao pôr do sol'
 ratingProveedor: 4.1
 numeroOpiniones: 1663
 atraccionesRelacionadas:

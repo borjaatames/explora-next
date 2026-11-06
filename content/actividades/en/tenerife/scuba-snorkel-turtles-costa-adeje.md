@@ -90,18 +90,22 @@ keywords:
 - diving puerto colon
 - beginner scuba tenerife
 imagen: /images/actividades/tenerife/costa-adeje/buceador-fondo-volcanico.webp
-imagenAlt: Scuba diver over a rocky seabed in clear blue water
+imagenAlt: 'Scuba diver over a rocky seabed in clear blue water'
 galeria:
 - src: /images/actividades/tenerife/costa-adeje/tortugas-fondo-rocoso.webp
-  alt: Two sea turtles swimming over a rocky seabed
+  alt: 'Two sea turtles swimming over a rocky seabed'
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
-  alt: Rocky volcanic shoreline in Costa Adeje
+  alt: 'Rocky volcanic shoreline in Costa Adeje'
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
-  alt: Person snorkelling in clear blue water
+  alt: 'Person snorkelling in clear blue water'
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: Costa Adeje beach with the mountains behind
+  alt: 'Costa Adeje beach with the mountains behind'
 - src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-  alt: View of the Costa Adeje coastline
+  alt: 'View of the Costa Adeje coastline'
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-wikimedia-01.webp
+  alt: 'Seabed with schools of fish'
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
+  alt: 'Dive boats seen from the water'
 ratingProveedor: 4.7
 numeroOpiniones: 2025
 atraccionesRelacionadas:

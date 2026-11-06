@@ -73,16 +73,20 @@ keywords:
 - aquarium gran canaria
 - que faire à las palmas
 imagen: /images/actividades/gran-canaria/poema-del-mar/ventana-curva.webp
-imagenAlt: La grande vitre incurvée de l’aquarium Poema del Mar
+imagenAlt: 'La grande vitre incurvée de l’aquarium Poema del Mar'
 galeria:
 - src: /images/actividades/gran-canaria/poema-del-mar/arrecife.webp
-  alt: Poissons tropicaux dans le récif du Poema del Mar
+  alt: 'Poissons tropicaux dans le récif du Poema del Mar'
 - src: /images/actividades/gran-canaria/poema-del-mar/tunel.webp
-  alt: Tunnel sous-marin au milieu des poissons au Poema del Mar
+  alt: 'Tunnel sous-marin au milieu des poissons au Poema del Mar'
 - src: /images/actividades/gran-canaria/poema-del-mar/tunel-tiburones.webp
-  alt: Requins et raies au-dessus du tunnel du Poema del Mar
+  alt: 'Requins et raies au-dessus du tunnel du Poema del Mar'
 - src: /images/actividades/gran-canaria/poema-del-mar/la-jungla.webp
-  alt: Poissons sous les racines de la zone La Jungla du Poema del Mar
+  alt: 'Poissons sous les racines de la zone La Jungla du Poema del Mar'
+- src: /images/actividades/gran-canaria/las-palmas/fgc-panoramica-las-palmas-mirador.webp
+  alt: 'Las Palmas de Gran Canaria et la plage de Las Canteras'
+- src: /images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp
+  alt: 'Port de Las Palmas de Gran Canaria entre les palmiers'
 ratingProveedor: 4.8
 numeroOpiniones: 4610
 atraccionesRelacionadas:

@@ -80,9 +80,11 @@ keywords:
 - gita in barca morro jable
 - whale watching fuerteventura
 - escursione in barca jandia
-imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-imagenAlt: Delfini che nuotano accanto a una barca al largo di Morro Jable
+imagen: /images/actividades/fuerteventura/fotos-biblioteca/gran-canaria-delfines-pexels-30405211.webp
+imagenAlt: 'Delfino che nuota vicino alla superficie del mare'
 galeria:
+- src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
+  alt: 'Delfini che nuotano accanto a una barca al largo di Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
   alt: 'Il faro di Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp

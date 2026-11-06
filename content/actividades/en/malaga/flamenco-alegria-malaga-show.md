@@ -76,8 +76,8 @@ keywords:
 - alegria flamenco malaga
 - malaga flamenco tickets
 - flamenco with tapas malaga
-imagen: /images/actividades/malaga/flamenco/bailaora-movimiento-escenario.webp
-imagenAlt: 'Flamenco dancer spinning on stage, her dress in motion'
+imagen: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
+imagenAlt: 'Flamenco dancer on stage'
 galeria:
 - src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
   alt: 'Dancer and musicians in a flamenco tablao'

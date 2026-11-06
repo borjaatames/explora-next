@@ -61,25 +61,27 @@ keywords:
 - malaga from nerja
 - private malaga day trip from nerja
 - malaga tour nerja
-imagen: https://imgcdn.bokun.tools/327a08dc-b802-4fd8-96dd-b87c375d37e3.jpg
-imagenAlt: Tower of Málaga Cathedral
+imagen: /images/actividades/malaga/alcazaba/vista-puerto.webp
+imagenAlt: 'View of Málaga and its port from above'
 galeria:
+- src: https://imgcdn.bokun.tools/327a08dc-b802-4fd8-96dd-b87c375d37e3.jpg
+  alt: 'Tower of Málaga Cathedral'
 - src: https://imgcdn.bokun.tools/36899c81-025b-42fc-8e8e-9c5aae5b379a.jpg
-  alt: View of the Costa del Sol
+  alt: 'View of the Costa del Sol'
 - src: https://imgcdn.bokun.tools/fe066c76-026c-477a-aa77-3c2cb299b8b4.jpg
-  alt: Málaga port
+  alt: 'Málaga port'
 - src: https://imgcdn.bokun.tools/d86211c8-a23b-419b-ac99-cb04429009c3.jpg
-  alt: Arches of the Alcazaba of Málaga
+  alt: 'Arches of the Alcazaba of Málaga'
 - src: https://imgcdn.bokun.tools/4d8138c9-7cd2-472c-8078-da2a9d83e4fa.jpg
-  alt: Málaga seen from Gibralfaro
+  alt: 'Málaga seen from Gibralfaro'
 - src: https://imgcdn.bokun.tools/0b2a5618-6449-4e81-b286-8db8905944a1.jpg
-  alt: Alcazaba gardens
+  alt: 'Alcazaba gardens'
 - src: https://imgcdn.bokun.tools/1d656e6b-8201-4dff-bf31-01cd6d35f2d6.jpg
-  alt: Inside Málaga Cathedral
+  alt: 'Inside Málaga Cathedral'
 - src: https://imgcdn.bokun.tools/60b87ad2-e984-4f62-9552-a83bf6e36255.jpg
-  alt: Seagull on the Gibralfaro walls
+  alt: 'Seagull on the Gibralfaro walls'
 - src: https://imgcdn.bokun.tools/f8a3555f-b7f1-40a3-a05d-5970ebeec192.jpg
-  alt: Alcazaba walls with the city behind
+  alt: 'Alcazaba walls with the city behind'
 publicada: true
 indexar: false
 destacada: false

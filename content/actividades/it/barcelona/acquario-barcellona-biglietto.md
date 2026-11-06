@@ -75,16 +75,20 @@ keywords:
 - acquario barcellona prezzo
 - tunnel squali barcellona
 imagen: /images/actividades/barcelona/aquarium/tunel-oceanario.webp
-imagenAlt: Tunnel dell'Oceanario dell'Aquàrium de Barcelona
+imagenAlt: 'Tunnel dell''Oceanario dell''Aquàrium de Barcelona'
 galeria:
 - src: /images/actividades/barcelona/aquarium/tiburon-buceador.webp
-  alt: Squalo e sub nell'Oceanario dell'Aquàrium
+  alt: 'Squalo e sub nell''Oceanario dell''Aquàrium'
 - src: /images/actividades/barcelona/aquarium/edificio-aquarium.webp
-  alt: Edificio dell'Aquàrium nel Port Vell di Barcellona
+  alt: 'Edificio dell''Aquàrium nel Port Vell di Barcellona'
 - src: /images/actividades/barcelona/aquarium/pez-angel.webp
-  alt: Pesce angelo regina in una vasca tropicale dell'Aquàrium
+  alt: 'Pesce angelo regina in una vasca tropicale dell''Aquàrium'
 - src: /images/actividades/barcelona/aquarium/visitantes-oceanario.webp
-  alt: Visitatori davanti alla grande vasca dell'Oceanario
+  alt: 'Visitatori davanti alla grande vasca dell''Oceanario'
+- src: /images/actividades/barcelona/aquarium/tunel-submarino-pasarela.webp
+  alt: 'Tunnel sottomarino dell''Aquàrium de Barcelona'
+- src: /images/actividades/barcelona/aquarium/tiburon-fondo-marino.webp
+  alt: 'Squali nella grande vasca dell''Aquàrium de Barcelona'
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

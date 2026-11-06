@@ -74,16 +74,20 @@ keywords:
 - gran canaria con bambini
 - cosa fare a gran canaria quando piove
 imagen: /images/actividades/gran-canaria/poema-del-mar/ventana-curva.webp
-imagenAlt: La grande vetrata curva dell'acquario Poema del Mar
+imagenAlt: 'La grande vetrata curva dell''acquario Poema del Mar'
 galeria:
 - src: /images/actividades/gran-canaria/poema-del-mar/arrecife.webp
-  alt: Pesci tropicali nella barriera corallina del Poema del Mar
+  alt: 'Pesci tropicali nella barriera corallina del Poema del Mar'
 - src: /images/actividades/gran-canaria/poema-del-mar/tunel.webp
-  alt: Tunnel sottomarino tra i pesci al Poema del Mar
+  alt: 'Tunnel sottomarino tra i pesci al Poema del Mar'
 - src: /images/actividades/gran-canaria/poema-del-mar/tunel-tiburones.webp
-  alt: Squali e razze sopra il tunnel del Poema del Mar
+  alt: 'Squali e razze sopra il tunnel del Poema del Mar'
 - src: /images/actividades/gran-canaria/poema-del-mar/la-jungla.webp
-  alt: Pesci tra le radici della zona La Jungla del Poema del Mar
+  alt: 'Pesci tra le radici della zona La Jungla del Poema del Mar'
+- src: /images/actividades/gran-canaria/las-palmas/fgc-panoramica-las-palmas-mirador.webp
+  alt: 'Las Palmas de Gran Canaria e la spiaggia di Las Canteras'
+- src: /images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp
+  alt: 'Porto di Las Palmas de Gran Canaria tra le palme'
 ratingProveedor: 4.8
 numeroOpiniones: 4610
 atraccionesRelacionadas:

@@ -68,14 +68,18 @@ keywords:
 - excursion sevilla desde punta umbria
 - sevilla desde costa de huelva privado
 imagen: https://imgcdn.bokun.tools/b4c38240-d34c-47ce-9baa-22fb749f8e3f.jpeg
-imagenAlt: Remate de la Giralda de Sevilla
+imagenAlt: 'Remate de la Giralda de Sevilla'
 galeria:
 - src: https://imgcdn.bokun.tools/9f9d7659-12ae-421d-9b62-e88eb0b91889.jpeg
-  alt: La Giralda vista desde la calle
+  alt: 'La Giralda vista desde la calle'
 - src: https://imgcdn.bokun.tools/11a2483d-ae68-4167-bebd-f819131db651.jpeg
-  alt: Interior en penumbra de un monumento sevillano
+  alt: 'Interior en penumbra de un monumento sevillano'
 - src: https://imgcdn.bokun.tools/d0bee929-965a-445c-9b9e-6114c5e1b438.jpeg
-  alt: Arcos mudéjares del Real Alcázar
+  alt: 'Arcos mudéjares del Real Alcázar'
+- src: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-01.webp
+  alt: 'Patio principal de la Casa de Pilatos de Sevilla'
+- src: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-03.webp
+  alt: 'Patio de la Casa de Pilatos con su fuente'
 publicada: true
 indexar: false
 destacada: false

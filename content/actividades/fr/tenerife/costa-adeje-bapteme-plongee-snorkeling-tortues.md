@@ -88,18 +88,22 @@ keywords:
 - plongée puerto colon
 - plongée débutant tenerife
 imagen: /images/actividades/tenerife/costa-adeje/buceador-fondo-volcanico.webp
-imagenAlt: Plongeur au-dessus d'un fond rocheux dans une eau bleue et limpide
+imagenAlt: 'Plongeur au-dessus d''un fond rocheux dans une eau bleue et limpide'
 galeria:
 - src: /images/actividades/tenerife/costa-adeje/tortugas-fondo-rocoso.webp
-  alt: Deux tortues marines nageant au-dessus d'un fond rocheux
+  alt: 'Deux tortues marines nageant au-dessus d''un fond rocheux'
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
-  alt: Côte volcanique rocheuse à Costa Adeje
+  alt: 'Côte volcanique rocheuse à Costa Adeje'
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
-  alt: Personne faisant du snorkeling dans une eau bleue et limpide
+  alt: 'Personne faisant du snorkeling dans une eau bleue et limpide'
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: Plage de Costa Adeje avec les montagnes en arrière-plan
+  alt: 'Plage de Costa Adeje avec les montagnes en arrière-plan'
 - src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-  alt: Vue sur le littoral de Costa Adeje
+  alt: 'Vue sur le littoral de Costa Adeje'
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-wikimedia-01.webp
+  alt: 'Fond marin avec des bancs de poissons'
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
+  alt: 'Bateaux de plongée vus depuis l''eau'
 ratingProveedor: 4.7
 numeroOpiniones: 2025
 atraccionesRelacionadas:

@@ -90,18 +90,22 @@ keywords:
 - tauchen puerto colón
 - tauchen für anfänger teneriffa
 imagen: /images/actividades/tenerife/costa-adeje/buceador-fondo-volcanico.webp
-imagenAlt: Taucher über felsigem Grund in klarem blauem Wasser
+imagenAlt: 'Taucher über felsigem Grund in klarem blauem Wasser'
 galeria:
 - src: /images/actividades/tenerife/costa-adeje/tortugas-fondo-rocoso.webp
-  alt: Zwei Meeresschildkröten schwimmen über felsigem Grund
+  alt: 'Zwei Meeresschildkröten schwimmen über felsigem Grund'
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
-  alt: Felsige Vulkanküste in Costa Adeje
+  alt: 'Felsige Vulkanküste in Costa Adeje'
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
-  alt: Person schnorchelt in klarem blauem Wasser
+  alt: 'Person schnorchelt in klarem blauem Wasser'
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
-  alt: Strand in Costa Adeje mit den Bergen im Hintergrund
+  alt: 'Strand in Costa Adeje mit den Bergen im Hintergrund'
 - src: /images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp
-  alt: Blick auf die Küste von Costa Adeje
+  alt: 'Blick auf die Küste von Costa Adeje'
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-wikimedia-01.webp
+  alt: 'Meeresgrund mit Fischschwärmen'
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
+  alt: 'Tauchboote vom Wasser aus gesehen'
 ratingProveedor: 4.7
 numeroOpiniones: 2025
 atraccionesRelacionadas:

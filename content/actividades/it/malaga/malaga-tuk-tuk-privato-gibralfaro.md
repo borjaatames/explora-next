@@ -86,6 +86,10 @@ galeria:
   alt: 'Viaggiatori accanto a un tuk tuk elettrico'
 - src: https://imgcdn.bokun.tools/36b7dcf9-9407-44e9-ae19-255445d045eb.jpg
   alt: 'Nave da crociera ormeggiata nel porto di Malaga'
+- src: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
+  alt: 'Alcazaba di Málaga e il monte Gibralfaro'
+- src: /images/actividades/malaga/alcazaba/arcos-nazaries.webp
+  alt: 'Archi polilobati dell''Alcazaba di Málaga'
 atraccionesRelacionadas:
 - centro-historico
 publicada: true

@@ -53,29 +53,31 @@ keywords:
 - tour tapas madrid con cena
 - tapas e historia madrid
 - tour tapas en inglés madrid
-imagen: https://imgcdn.bokun.tools/a17c93d7-98da-4272-8874-f2dc9d0108e5.jpeg
-imagenAlt: Paella con gambas y limón
+imagen: /images/actividades/alicante/paella/paella-mixta.webp
+imagenAlt: 'Paella de marisco en su paellera'
 galeria:
+- src: https://imgcdn.bokun.tools/a17c93d7-98da-4272-8874-f2dc9d0108e5.jpeg
+  alt: 'Paella con gambas y limón'
 - src: https://imgcdn.bokun.tools/038851a7-91e0-4d9f-8ffe-d52a8e76daf7.jpeg
-  alt: Grupo cenando paella en una mesa con mantel de cuadros
+  alt: 'Grupo cenando paella en una mesa con mantel de cuadros'
 - src: https://imgcdn.bokun.tools/17673547-12ec-4b46-8ac0-e89d4b22032b.jpg
-  alt: Grupo en un bar de bocadillos de calamares con jamones colgados
+  alt: 'Grupo en un bar de bocadillos de calamares con jamones colgados'
 - src: https://imgcdn.bokun.tools/60d30c46-a7f8-4202-a43e-8f2207b13cf8.jpeg
-  alt: Grupo brindando con cerveza en una taberna
+  alt: 'Grupo brindando con cerveza en una taberna'
 - src: https://imgcdn.bokun.tools/a7fac614-25b1-4d7a-9a0d-59339bddaaec.jpg
-  alt: Croquetas y caña en la barra
+  alt: 'Croquetas y caña en la barra'
 - src: https://imgcdn.bokun.tools/8b7c4cec-317d-4f4a-99b9-fd44db528ff6.jpg
-  alt: Paella de marisco con limón
+  alt: 'Paella de marisco con limón'
 - src: https://imgcdn.bokun.tools/f4d86376-b118-4c86-a195-7265e6bbe0a4.jpeg
-  alt: Croquetas pinchadas con palillo y cerveza
+  alt: 'Croquetas pinchadas con palillo y cerveza'
 - src: https://imgcdn.bokun.tools/a435deda-0a72-4cf2-8489-e21ec47a29f5.jpg
-  alt: Paella sobre mantel de cuadros
+  alt: 'Paella sobre mantel de cuadros'
 - src: https://imgcdn.bokun.tools/4b3352a1-da79-4552-8199-9dc449bd9b42.jpeg
-  alt: Grupo cenando con mantel de cuadros
+  alt: 'Grupo cenando con mantel de cuadros'
 - src: https://imgcdn.bokun.tools/20c6e4f2-0295-4929-824f-3c49022d58f1.jpeg
-  alt: Arroz negro con calamares
+  alt: 'Arroz negro con calamares'
 - src: https://imgcdn.bokun.tools/fe5b3e58-86b0-4a51-b344-2dd13d027648.jpeg
-  alt: Grupo probando tapas en la calle
+  alt: 'Grupo probando tapas en la calle'
 publicada: true
 indexar: false
 destacada: false

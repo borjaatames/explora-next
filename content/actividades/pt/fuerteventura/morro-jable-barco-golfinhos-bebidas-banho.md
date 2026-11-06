@@ -80,9 +80,11 @@ keywords:
 - barco morro jable
 - observacao de cetaceos fuerteventura
 - excursao de barco jandia
-imagen: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
-imagenAlt: Golfinhos a nadar junto a um barco ao largo de Morro Jable
+imagen: /images/actividades/fuerteventura/fotos-biblioteca/gran-canaria-delfines-pexels-30405211.webp
+imagenAlt: 'Golfinho a nadar junto à superfície do mar'
 galeria:
+- src: /images/actividades/fuerteventura/barco-delfines-morrojable.webp
+  alt: 'Golfinhos a nadar junto a um barco ao largo de Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/faro-morro-jable.webp
   alt: 'O farol de Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
