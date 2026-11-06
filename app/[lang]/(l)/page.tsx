@@ -31,6 +31,7 @@ import type { Idioma } from "@/lib/i18n/types";
 import SelloProveedor from "@/components/SelloProveedor";
 import HeroHome from "@/components/home/HeroHome";
 import FranjaConfianza, { FranjaPartners } from "@/components/home/FranjaConfianza";
+import { SAME_AS_REDES } from "@/lib/redesSociales";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -359,6 +360,7 @@ export default function HomePage({ params }: Props) {
       addressCountry: "ES",
     },
     taxID: "B26629576",
+    sameAs: SAME_AS_REDES,
   };
 
   return (

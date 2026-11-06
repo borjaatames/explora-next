@@ -16,6 +16,7 @@ import { urlPlanificador } from "@/lib/planificador";
 import { urlCruceros } from "@/lib/descubrir";
 import type { Idioma } from "@/lib/i18n/types";
 import { idiomaTieneGuias } from "@/lib/guias";
+import RedesSociales from "@/components/RedesSociales";
 
 /**
  * Footer del sitio. Estructura:
@@ -302,6 +303,7 @@ export default function Footer({ idioma }: Props) {
               <IconMail />
               contacto@exploraspain.com
             </a>
+            <RedesSociales idioma={idioma} variante="oscuro" className="mt-6" />
           </div>
 
           {/* Destinos top */}

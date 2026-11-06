@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { hreflangAlternates, urlContacto } from "@/lib/i18n/utils";
 import ContactForm from "@/components/ContactForm";
+import RedesSociales from "@/components/RedesSociales";
 
 export async function generateMetadata(): Promise<Metadata> {
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
@@ -74,6 +75,8 @@ export default function ContactoPage() {
             WhatsApp
           </a>
         </div>
+
+        <RedesSociales idioma="es" variante="claro" className="mb-8" />
 
         {/* Bloque email principal */}
         <div className="bg-azafran-50 border-l-4 border-azafran-500 rounded-r-lg p-8 mb-12">

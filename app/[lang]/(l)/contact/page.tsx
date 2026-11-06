@@ -14,6 +14,8 @@ import {
   prefijoIdioma,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
+import { SAME_AS_REDES } from "@/lib/redesSociales";
+import RedesSociales from "@/components/RedesSociales";
 
 export function generateStaticParams(): Array<{ lang: Idioma }> {
   return IDIOMAS_ACTIVOS.filter((l) => l !== "es").map((lang) => ({ lang }));
@@ -322,6 +324,7 @@ export default function ContactPage({
       name: "SKYWARD PARTNERS, S.L.",
       email: "contacto@exploraspain.com",
       url: siteUrl,
+      sameAs: SAME_AS_REDES,
       address: {
         "@type": "PostalAddress",
         streetAddress: "Calle Castelló 117",
@@ -377,6 +380,8 @@ export default function ContactPage({
             WhatsApp
           </a>
         </div>
+
+        <RedesSociales idioma={lang} variante="claro" className="mb-8" />
 
         {/* Main email block */}
         <div className="bg-azafran-50 border-l-4 border-azafran-500 rounded-r-lg p-8 mb-12">
