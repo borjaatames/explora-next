@@ -71,11 +71,11 @@ keywords:
 - excursion jamon iberico desde sevilla
 - dehesa cerdo iberico visita
 - aracena excursion desde sevilla
-imagen: /images/actividades/cadiz/vejer-toros/toros-dehesa-encinas.webp
-imagenAlt: 'Dehesa con encinas en la sierra de Aracena'
+imagen: https://imgcdn.bokun.tools/41bf1017-e4af-4da2-a636-a10d028ca779.jpeg
+imagenAlt: 'Cerdos ibéricos bajo las encinas de la dehesa'
 galeria:
-- src: https://imgcdn.bokun.tools/41bf1017-e4af-4da2-a636-a10d028ca779.jpeg
-  alt: 'Cerdos ibéricos bajo las encinas de la dehesa'
+- src: /images/actividades/cadiz/vejer-toros/toros-dehesa-encinas.webp
+  alt: 'Dehesa con encinas en la sierra de Aracena'
 - src: https://imgcdn.bokun.tools/d57ed6dc-ab98-4c50-ad7f-baef2abe1495.jpg
   alt: 'Cata de jamón ibérico'
 - src: https://imgcdn.bokun.tools/415bdaeb-0bc5-46dc-9665-f520a174483c.jpg

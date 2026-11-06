@@ -87,8 +87,8 @@ keywords:
 - private walbeobachtung teneriffa
 - private bootstour teneriffa
 - bootsausflug las galletas
-imagen: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-imagenAlt: 'Grindwal bläst beim Atmen'
+imagen: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
+imagenAlt: 'Passagiere fotografieren vom Bug des Privatboots einen Grindwal'
 galeria:
 - src: https://imgcdn.bokun.tools/7d10e601-a246-4e93-9dc0-a0146ddadf76.jpeg
   alt: 'Das private Schlauchboot von oben auf türkisfarbenem Wasser'
@@ -104,8 +104,8 @@ galeria:
   alt: 'Die Montaña de Guaza an der Südküste Teneriffas'
 - src: https://imgcdn.bokun.tools/15bf4883-1ca0-4fc3-a6bb-c3a6a21a393f.jpeg
   alt: 'Delfin schwimmt unter Wasser'
-- src: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
-  alt: 'Passagiere fotografieren vom Bug des Privatboots einen Grindwal'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Grindwal bläst beim Atmen'
 atraccionesRelacionadas:
 - mar
 publicada: true

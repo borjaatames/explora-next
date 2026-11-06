@@ -79,9 +79,11 @@ keywords:
 - tuk tuk séville
 - visite tuk tuk séville
 - visite privée séville
-imagen: /images/actividades/sevilla/bici/plaza-espana-canal.webp
-imagenAlt: 'Plaza de España de Séville'
+imagen: https://imgcdn.bokun.tools/5cfe8685-fac7-4de0-9483-3fc59f5fe928.jpeg
+imagenAlt: 'Tuk-tuk électrique sur la Plaza de España à Séville'
 galeria:
+- src: /images/actividades/sevilla/bici/plaza-espana-canal.webp
+  alt: 'Plaza de España de Séville'
 - src: https://imgcdn.bokun.tools/ce015720-77e2-4220-b11d-9288116b99bc.png
   alt: 'Tuk-tuk électrique avec des passagers devant le palais de San Telmo'
 - src: https://imgcdn.bokun.tools/8a40af56-7065-4c8c-be9d-7f9f300d3d8d.jpeg

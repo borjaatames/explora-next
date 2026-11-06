@@ -87,8 +87,8 @@ keywords:
 - barco privado tenerife
 - aluguer de barco tenerife
 - observação de baleias las galletas
-imagen: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-imagenAlt: 'Baleia-piloto a expelir ar ao respirar'
+imagen: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
+imagenAlt: 'Passageiros a fotografar uma baleia-piloto a partir da proa da lancha privada'
 galeria:
 - src: https://imgcdn.bokun.tools/7d10e601-a246-4e93-9dc0-a0146ddadf76.jpeg
   alt: 'A lancha semirrígida privada vista de cima sobre a água turquesa'
@@ -104,8 +104,8 @@ galeria:
   alt: 'Montaña de Guaza, na costa sul de Tenerife'
 - src: https://imgcdn.bokun.tools/15bf4883-1ca0-4fc3-a6bb-c3a6a21a393f.jpeg
   alt: 'Golfinho a nadar debaixo de água'
-- src: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
-  alt: 'Passageiros a fotografar uma baleia-piloto a partir da proa da lancha privada'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Baleia-piloto a expelir ar ao respirar'
 atraccionesRelacionadas:
 - mar
 publicada: true

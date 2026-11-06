@@ -80,9 +80,11 @@ keywords:
 - tour tuk tuk sevilla
 - sevilla con niños tour
 - tour privado sevilla
-imagen: /images/actividades/sevilla/bici/plaza-espana-canal.webp
-imagenAlt: 'Plaza de España de Sevilla'
+imagen: https://imgcdn.bokun.tools/5cfe8685-fac7-4de0-9483-3fc59f5fe928.jpeg
+imagenAlt: 'Tuk-tuk eléctrico en la Plaza de España de Sevilla'
 galeria:
+- src: /images/actividades/sevilla/bici/plaza-espana-canal.webp
+  alt: 'Plaza de España de Sevilla'
 - src: https://imgcdn.bokun.tools/ce015720-77e2-4220-b11d-9288116b99bc.png
   alt: 'Tuk tuk eléctrico con pasajeros frente al Palacio de San Telmo'
 - src: https://imgcdn.bokun.tools/8a40af56-7065-4c8c-be9d-7f9f300d3d8d.jpeg

@@ -84,11 +84,11 @@ keywords:
 - teide sternbeobachtung deutsch
 - teide sonnenuntergang sterne abholung
 - teneriffa sterne tour abendessen
-imagen: https://imgcdn.bokun.tools/bcf7c4f5-24cd-4f03-91ea-965829279b7c.jpeg
-imagenAlt: 'Teleskop im Teide-Nationalpark bei Sonnenuntergang'
+imagen: https://imgcdn.bokun.tools/0bf4ffaf-9a79-42a0-825e-f8a92c0d3dbc.jpeg
+imagenAlt: 'Sternbeobachtung unter der Milchstraße am Teide'
 galeria:
-- src: https://imgcdn.bokun.tools/0bf4ffaf-9a79-42a0-825e-f8a92c0d3dbc.jpeg
-  alt: 'Milchstraße über den Felsen des Teide-Nationalparks'
+- src: https://imgcdn.bokun.tools/bcf7c4f5-24cd-4f03-91ea-965829279b7c.jpeg
+  alt: 'Teleskop im Teide-Nationalpark bei Sonnenuntergang'
 - src: https://imgcdn.bokun.tools/9e678841-8269-4504-b965-cd2b46c5fcae.jpeg
   alt: 'Astronomie-Guide mit Teleskop zwischen Vulkanfelsen'
 - src: https://imgcdn.bokun.tools/2c970fc2-3ca7-4465-ada8-0ca0e2c95b6d.jpg

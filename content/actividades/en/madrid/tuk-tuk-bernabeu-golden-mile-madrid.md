@@ -62,11 +62,11 @@ keywords:
 - bernabeu tuk tuk
 - tuk tuk madrid
 - salamanca district tour madrid
-imagen: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
-imagenAlt: 'The renovated Santiago Bernabéu Stadium'
+imagen: https://imgcdn.bokun.tools/88cd0b10-13a2-4996-bf46-d857481853a5.jpeg
+imagenAlt: 'Group of travelers next to an electric tuk-tuk in Madrid'
 galeria:
-- src: https://imgcdn.bokun.tools/88cd0b10-13a2-4996-bf46-d857481853a5.jpeg
-  alt: 'Group of travelers next to an electric tuk-tuk in Madrid'
+- src: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
+  alt: 'The renovated Santiago Bernabéu Stadium'
 - src: https://imgcdn.bokun.tools/e4a98eac-d28c-4d57-a190-8ba7bacd289d.png
   alt: 'Santiago Bernabéu Stadium'
 - src: https://imgcdn.bokun.tools/a4d181f5-af77-4b0f-a512-8a4bbe803a7c.png

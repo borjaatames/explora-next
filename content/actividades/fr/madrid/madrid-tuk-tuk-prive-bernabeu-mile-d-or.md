@@ -63,11 +63,11 @@ keywords:
 - tuk tuk madrid
 - visite quartier de salamanca madrid
 - stade bernabeu visite madrid
-imagen: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
-imagenAlt: 'Le stade Santiago Bernabéu rénové'
+imagen: https://imgcdn.bokun.tools/88cd0b10-13a2-4996-bf46-d857481853a5.jpeg
+imagenAlt: 'Groupe de voyageurs à côté d''un tuk-tuk électrique à Madrid'
 galeria:
-- src: https://imgcdn.bokun.tools/88cd0b10-13a2-4996-bf46-d857481853a5.jpeg
-  alt: 'Groupe de voyageurs à côté d''un tuk-tuk électrique à Madrid'
+- src: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
+  alt: 'Le stade Santiago Bernabéu rénové'
 - src: https://imgcdn.bokun.tools/e4a98eac-d28c-4d57-a190-8ba7bacd289d.png
   alt: 'Le stade Santiago Bernabéu'
 - src: https://imgcdn.bokun.tools/a4d181f5-af77-4b0f-a512-8a4bbe803a7c.png

@@ -88,8 +88,8 @@ keywords:
 - avvistamento balene privato tenerife
 - tour in barca privata tenerife
 - gita in barca las galletas
-imagen: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-imagenAlt: 'Un globicefalo che soffia mentre respira'
+imagen: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
+imagenAlt: 'Passeggeri che fotografano un globicefalo dalla prua della barca privata'
 galeria:
 - src: https://imgcdn.bokun.tools/7d10e601-a246-4e93-9dc0-a0146ddadf76.jpeg
   alt: 'Il gommone privato visto dall''alto sull''acqua turchese'
@@ -105,8 +105,8 @@ galeria:
   alt: 'La Montaña de Guaza, sulla costa sud di Tenerife'
 - src: https://imgcdn.bokun.tools/15bf4883-1ca0-4fc3-a6bb-c3a6a21a393f.jpeg
   alt: 'Un delfino che nuota sott''acqua'
-- src: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
-  alt: 'Passeggeri che fotografano un globicefalo dalla prua della barca privata'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Un globicefalo che soffia mentre respira'
 atraccionesRelacionadas:
 - mar
 publicada: true

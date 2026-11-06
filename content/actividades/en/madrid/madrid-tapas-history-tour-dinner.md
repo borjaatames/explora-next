@@ -53,11 +53,11 @@ keywords:
 - madrid tapas tour with dinner
 - madrid tapas and history
 - tapas tour in english madrid
-imagen: /images/actividades/alicante/paella/paella-mixta.webp
-imagenAlt: 'Seafood paella in its pan'
+imagen: https://imgcdn.bokun.tools/a17c93d7-98da-4272-8874-f2dc9d0108e5.jpeg
+imagenAlt: 'Paella with prawns and lemon'
 galeria:
-- src: https://imgcdn.bokun.tools/a17c93d7-98da-4272-8874-f2dc9d0108e5.jpeg
-  alt: 'Paella with prawns and lemon'
+- src: /images/actividades/alicante/paella/paella-mixta.webp
+  alt: 'Seafood paella in its pan'
 - src: https://imgcdn.bokun.tools/038851a7-91e0-4d9f-8ffe-d52a8e76daf7.jpeg
   alt: 'Group having paella at a table with a checked tablecloth'
 - src: https://imgcdn.bokun.tools/17673547-12ec-4b46-8ac0-e89d4b22032b.jpg

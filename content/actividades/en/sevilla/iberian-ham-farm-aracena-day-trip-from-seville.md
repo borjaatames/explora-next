@@ -71,11 +71,11 @@ keywords:
 - iberian ham tour from seville
 - iberian pig farm tour
 - aracena day trip from seville
-imagen: /images/actividades/cadiz/vejer-toros/toros-dehesa-encinas.webp
-imagenAlt: 'Holm oak dehesa in the Sierra de Aracena'
+imagen: https://imgcdn.bokun.tools/41bf1017-e4af-4da2-a636-a10d028ca779.jpeg
+imagenAlt: 'Iberian pigs under the holm oaks of the dehesa'
 galeria:
-- src: https://imgcdn.bokun.tools/41bf1017-e4af-4da2-a636-a10d028ca779.jpeg
-  alt: 'Iberian pigs under the holm oaks of the dehesa'
+- src: /images/actividades/cadiz/vejer-toros/toros-dehesa-encinas.webp
+  alt: 'Holm oak dehesa in the Sierra de Aracena'
 - src: https://imgcdn.bokun.tools/d57ed6dc-ab98-4c50-ad7f-baef2abe1495.jpg
   alt: 'Iberian ham tasting'
 - src: https://imgcdn.bokun.tools/415bdaeb-0bc5-46dc-9665-f520a174483c.jpg

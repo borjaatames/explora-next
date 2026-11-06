@@ -84,13 +84,13 @@ keywords:
 - observation etoiles teide en francais
 - teide coucher de soleil etoiles transfert
 - tenerife etoiles diner
-imagen: /images/actividades/tenerife/estrellas/atardecer-islas.webp
-imagenAlt: 'Personnes admirant le coucher de soleil sur la mer de nuages'
+imagen: https://imgcdn.bokun.tools/0bf4ffaf-9a79-42a0-825e-f8a92c0d3dbc.jpeg
+imagenAlt: 'Observation des étoiles sous la Voie lactée au Teide'
 galeria:
+- src: /images/actividades/tenerife/estrellas/atardecer-islas.webp
+  alt: 'Personnes admirant le coucher de soleil sur la mer de nuages'
 - src: https://imgcdn.bokun.tools/bcf7c4f5-24cd-4f03-91ea-965829279b7c.jpeg
   alt: 'Télescope installé dans le parc national du Teide au coucher du soleil'
-- src: https://imgcdn.bokun.tools/0bf4ffaf-9a79-42a0-825e-f8a92c0d3dbc.jpeg
-  alt: 'Voie lactée au-dessus des roches du parc national du Teide'
 - src: https://imgcdn.bokun.tools/9e678841-8269-4504-b965-cd2b46c5fcae.jpeg
   alt: 'Guide en astronomie avec un télescope parmi les roches volcaniques'
 - src: https://imgcdn.bokun.tools/2c970fc2-3ca7-4465-ada8-0ca0e2c95b6d.jpg

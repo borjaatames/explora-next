@@ -82,9 +82,11 @@ keywords:
 - tuk tuk séville 2 heures
 - visite tuk tuk séville
 - visite privée séville
-imagen: /images/actividades/sevilla/fotos-biblioteca/06.webp
-imagenAlt: 'Galerie du Grotesque dans le Real Alcázar de Séville'
+imagen: https://imgcdn.bokun.tools/442fd27f-aa5c-4531-807f-b9fcd6ce911c.jpeg
+imagenAlt: 'Tuk-tuk électrique avec passagers sous une arche monumentale à Séville'
 galeria:
+- src: /images/actividades/sevilla/fotos-biblioteca/06.webp
+  alt: 'Galerie du Grotesque dans le Real Alcázar de Séville'
 - src: https://imgcdn.bokun.tools/0ad6f0ff-d878-4b4b-ba5e-3d5fad09d269.png
   alt: 'Famille en promenade en tuk-tuk électrique dans Séville'
 - src: https://imgcdn.bokun.tools/1a40ce30-6ccc-4bdf-8bfe-bef06754265b.jpeg

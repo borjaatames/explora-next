@@ -62,29 +62,29 @@ keywords:
 - luci di natale madrid
 - tuk tuk natale madrid
 - tour luci di natale madrid
-imagen: https://imgcdn.bokun.tools/ff33783b-3a8b-4fb3-9809-8dfddbaabfb4.png
-imagenAlt: L'edificio Metrópolis e una palla di Natale illuminata sulla Gran Vía
+imagen: https://imgcdn.bokun.tools/0622e941-7afd-4e1b-92b7-d34132886ef9.jpeg
+imagenAlt: 'Tuk-tuk elettrico con passeggeri a Madrid'
 galeria:
+- src: https://imgcdn.bokun.tools/ff33783b-3a8b-4fb3-9809-8dfddbaabfb4.png
+  alt: 'L''edificio Metrópolis e una palla di Natale illuminata sulla Gran Vía'
 - src: https://imgcdn.bokun.tools/722b26f6-9e0c-4cb1-aa88-959bbcec58fb.png
-  alt: Gigantesca palla di Natale illuminata
+  alt: 'Gigantesca palla di Natale illuminata'
 - src: https://imgcdn.bokun.tools/e1a137bd-d7a8-4a36-b087-18fff8d2b979.png
-  alt: Facciata storica illuminata per Natale
+  alt: 'Facciata storica illuminata per Natale'
 - src: https://imgcdn.bokun.tools/a7c77571-1641-4896-a338-f329f6c3f081.png
-  alt: Luci di Natale colorate sopra una strada di Madrid
+  alt: 'Luci di Natale colorate sopra una strada di Madrid'
 - src: https://imgcdn.bokun.tools/00fe78bd-46fb-4412-ab63-eaf3d47b1dbf.png
-  alt: L'edificio Metrópolis e una palla di Natale di notte
+  alt: 'L''edificio Metrópolis e una palla di Natale di notte'
 - src: https://imgcdn.bokun.tools/159d7ce0-2b73-4bd8-b333-917cd6bafded.png
-  alt: Fuochi d'artificio sopra il Palazzo di Cibeles illuminato
+  alt: 'Fuochi d''artificio sopra il Palazzo di Cibeles illuminato'
 - src: https://imgcdn.bokun.tools/5544de5f-118f-4165-a020-8c4744a079d0.png
-  alt: Arco di luci natalizie su una via dello shopping
+  alt: 'Arco di luci natalizie su una via dello shopping'
 - src: https://imgcdn.bokun.tools/1dbecaee-f4bd-4589-8046-8521c14f65d6.png
-  alt: Passeggeri su un tuk-tuk elettrico
+  alt: 'Passeggeri su un tuk-tuk elettrico'
 - src: https://imgcdn.bokun.tools/2303a1c2-7a3c-4866-bb66-7ef980877e9d.png
-  alt: Tuk-tuk elettrico di Tuk Tuk Zero con passeggeri
+  alt: 'Tuk-tuk elettrico di Tuk Tuk Zero con passeggeri'
 - src: https://imgcdn.bokun.tools/65d8e864-c88f-4ce7-bba7-857b5c59cd8f.png
-  alt: Viale coperto di luci natalizie
-- src: https://imgcdn.bokun.tools/0622e941-7afd-4e1b-92b7-d34132886ef9.jpeg
-  alt: Alberi illuminati con luci natalizie blu
+  alt: 'Viale coperto di luci natalizie'
 publicada: true
 destacada: false
 fecha: '2026-10-07'

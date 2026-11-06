@@ -63,11 +63,11 @@ keywords:
 - horse carriage ride seville
 - seville carriage price
 - book horse carriage seville
-imagen: /images/actividades/sevilla/coche-caballos/coche-caballos-plaza-espana.webp
-imagenAlt: 'Horse-drawn carriage in Seville''s Plaza de España'
+imagen: https://imgcdn.bokun.tools/201abe95-d9c6-49fc-932c-333b92c0d64f.jpeg
+imagenAlt: 'Horse-drawn carriage in front of Plaza de España'
 galeria:
-- src: https://imgcdn.bokun.tools/201abe95-d9c6-49fc-932c-333b92c0d64f.jpeg
-  alt: 'Horse-drawn carriage in front of Plaza de España'
+- src: /images/actividades/sevilla/coche-caballos/coche-caballos-plaza-espana.webp
+  alt: 'Horse-drawn carriage in Seville''s Plaza de España'
 - src: https://imgcdn.bokun.tools/4d245e1a-ca21-4589-9dff-233d876bccca.jpeg
   alt: 'The Giralda from the street'
 - src: https://imgcdn.bokun.tools/0bc3f3b7-03e8-4f41-9dcc-4a906a06c440.jpeg

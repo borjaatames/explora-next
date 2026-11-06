@@ -56,35 +56,37 @@ keywords:
 - tuk tuk madrid
 - madrid panoramic tour
 - private tuk tuk madrid
-imagen: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
-imagenAlt: Sightseeing tuk-tuk parked in front of an iconic Madrid landmark
+imagen: https://imgcdn.bokun.tools/2dde4103-1343-42cb-87a6-b7033f32db83.jpeg
+imagenAlt: 'Traveller riding an electric tuk-tuk in Madrid'
 galeria:
+- src: https://imgcdn.bokun.tools/14d75ef3-0415-4e51-a9e1-aba9127d4467.jpg
+  alt: 'Sightseeing tuk-tuk parked in front of an iconic Madrid landmark'
 - src: https://imgcdn.bokun.tools/c166b6f3-4c94-42ea-8503-7077dd9a4623.jpg
-  alt: Tuk-tuk ride through central Madrid streets
+  alt: 'Tuk-tuk ride through central Madrid streets'
 - src: https://imgcdn.bokun.tools/994c744a-eb97-4f7b-9dbd-e374167501ea.jpg
-  alt: Tuk-tuk driving near Madrid's Royal Palace
+  alt: 'Tuk-tuk driving near Madrid''s Royal Palace'
 - src: https://imgcdn.bokun.tools/0ca94260-a142-491d-acab-e795908057e8.jpg
-  alt: Panoramic view of Madrid from the tuk-tuk
+  alt: 'Panoramic view of Madrid from the tuk-tuk'
 - src: https://imgcdn.bokun.tools/270a83c2-d29c-40ed-8e91-506fc5eadb04.jpg
-  alt: Tuk-tuk driver leading the tour through Madrid
+  alt: 'Tuk-tuk driver leading the tour through Madrid'
 - src: https://imgcdn.bokun.tools/4a599e23-7a97-43e9-9b61-8dd3c8b01016.jpg
-  alt: Cobbled street in the La Latina neighborhood seen from the tuk-tuk
+  alt: 'Cobbled street in the La Latina neighborhood seen from the tuk-tuk'
 - src: https://imgcdn.bokun.tools/dd370581-02a1-4f32-a1c3-34c09523ec80.jpg
-  alt: Group of friends in an electric tuk-tuk in central Madrid
+  alt: 'Group of friends in an electric tuk-tuk in central Madrid'
 - src: https://imgcdn.bokun.tools/249ccaa0-40bc-400b-b42e-07de5501d09c.jpg
-  alt: Electric tuk-tuk with passengers on Madrid's streets
+  alt: 'Electric tuk-tuk with passengers on Madrid''s streets'
 - src: https://imgcdn.bokun.tools/4fcdac20-7cd3-4cc4-ab02-99455b1765ea.jpg
-  alt: Tuk-tuk riding through historic Madrid
+  alt: 'Tuk-tuk riding through historic Madrid'
 - src: /images/actividades/madrid/gran-via/gran-via-madrid-metropolis-wide-view-hero.webp
-  alt: Gran Vía with the Metrópolis building
+  alt: 'Gran Vía with the Metrópolis building'
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-blue-sky-hero.webp
-  alt: Royal Palace of Madrid
+  alt: 'Royal Palace of Madrid'
 - src: /images/actividades/madrid/la-latina/la-latina-wikimedia-cava-baja-madrid-6146188051-jpg-06.webp
-  alt: Calle de la Cava Baja in La Latina
+  alt: 'Calle de la Cava Baja in La Latina'
 - src: /images/actividades/madrid/puerta-alcala/puerta-alcala-madrid-monument-madrid-center-hero.webp
-  alt: Puerta de Alcalá
+  alt: 'Puerta de Alcalá'
 - src: /images/actividades/madrid/almudena/catedral-almudena-grand-cathedral-facade-twin-towers-hero.webp
-  alt: Top of the Almudena Cathedral façade between its twin towers
+  alt: 'Top of the Almudena Cathedral façade between its twin towers'
 publicada: true
 indexar: false
 destacada: false

@@ -67,9 +67,11 @@ keywords:
 - sevilla desde huelva
 - excursion sevilla desde punta umbria
 - sevilla desde costa de huelva privado
-imagen: https://imgcdn.bokun.tools/b4c38240-d34c-47ce-9baa-22fb749f8e3f.jpeg
-imagenAlt: 'Remate de la Giralda de Sevilla'
+imagen: https://imgcdn.bokun.tools/1fe7c30e-8486-4077-8481-19a6ab8dee74.jpeg
+imagenAlt: 'Torre del Oro junto al Guadalquivir en Sevilla'
 galeria:
+- src: https://imgcdn.bokun.tools/b4c38240-d34c-47ce-9baa-22fb749f8e3f.jpeg
+  alt: 'Remate de la Giralda de Sevilla'
 - src: https://imgcdn.bokun.tools/9f9d7659-12ae-421d-9b62-e88eb0b91889.jpeg
   alt: 'La Giralda vista desde la calle'
 - src: https://imgcdn.bokun.tools/11a2483d-ae68-4167-bebd-f819131db651.jpeg

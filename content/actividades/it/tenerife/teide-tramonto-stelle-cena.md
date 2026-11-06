@@ -84,13 +84,13 @@ keywords:
 - osservazione stelle teide in italiano
 - teide tramonto stelle trasferimento
 - tenerife stelle cena
-imagen: /images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp
-imagenAlt: 'Il Teide sopra il mare di nuvole'
+imagen: https://imgcdn.bokun.tools/0bf4ffaf-9a79-42a0-825e-f8a92c0d3dbc.jpeg
+imagenAlt: 'Osservazione delle stelle sotto la Via Lattea sul Teide'
 galeria:
+- src: /images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp
+  alt: 'Il Teide sopra il mare di nuvole'
 - src: https://imgcdn.bokun.tools/bcf7c4f5-24cd-4f03-91ea-965829279b7c.jpeg
   alt: 'Telescopio nel Parco Nazionale del Teide al tramonto'
-- src: https://imgcdn.bokun.tools/0bf4ffaf-9a79-42a0-825e-f8a92c0d3dbc.jpeg
-  alt: 'Via Lattea sopra le rocce del Parco Nazionale del Teide'
 - src: https://imgcdn.bokun.tools/9e678841-8269-4504-b965-cd2b46c5fcae.jpeg
   alt: 'Guida astronomica con un telescopio tra le rocce vulcaniche'
 - src: https://imgcdn.bokun.tools/2c970fc2-3ca7-4465-ada8-0ca0e2c95b6d.jpg

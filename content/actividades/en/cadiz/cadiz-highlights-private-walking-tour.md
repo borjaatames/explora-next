@@ -61,17 +61,19 @@ keywords:
 - cadiz private walking tour
 - cadiz highlights tour
 - cadiz cruise port private tour
-imagen: https://imgcdn.bokun.tools/abe9d75b-4f57-483c-bc97-2abeee54d8b1.jpeg
-imagenAlt: Cádiz beach and seafront buildings
+imagen: https://imgcdn.bokun.tools/2231e39c-3e34-47a0-849f-a894a36f5899.jpeg
+imagenAlt: 'Travellers strolling along the Cádiz seafront at sunset'
 galeria:
+- src: https://imgcdn.bokun.tools/abe9d75b-4f57-483c-bc97-2abeee54d8b1.jpeg
+  alt: 'Cádiz beach and seafront buildings'
 - src: https://imgcdn.bokun.tools/16cac759-3aa0-4291-b1c9-a9dd18f8ce32.jpeg
-  alt: Cádiz seafront promenade
+  alt: 'Cádiz seafront promenade'
 - src: https://imgcdn.bokun.tools/36674d62-ca1f-4bcc-9af2-4274be4da075.jpeg
-  alt: La Caleta beach in Cádiz
+  alt: 'La Caleta beach in Cádiz'
 - src: https://imgcdn.bokun.tools/f88a8746-40a0-4fb0-8447-e54447233194.jpeg
-  alt: Cádiz waterfront at sunset
+  alt: 'Cádiz waterfront at sunset'
 - src: https://imgcdn.bokun.tools/3afc693f-3060-402c-bbf3-49bdab034309.png
-  alt: Street in the Pópulo quarter
+  alt: 'Street in the Pópulo quarter'
 publicada: true
 indexar: false
 destacada: false

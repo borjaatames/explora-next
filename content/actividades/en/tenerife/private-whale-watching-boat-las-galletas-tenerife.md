@@ -87,8 +87,8 @@ keywords:
 - private whale watching tenerife
 - private boat tour tenerife
 - las galletas boat trip
-imagen: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-imagenAlt: 'Pilot whale blowing as it breathes'
+imagen: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
+imagenAlt: 'Passengers photographing a pilot whale from the bow of the private boat'
 galeria:
 - src: https://imgcdn.bokun.tools/7d10e601-a246-4e93-9dc0-a0146ddadf76.jpeg
   alt: 'The private RIB seen from above on turquoise water'
@@ -104,8 +104,8 @@ galeria:
   alt: 'Montaña de Guaza on the south coast of Tenerife'
 - src: https://imgcdn.bokun.tools/15bf4883-1ca0-4fc3-a6bb-c3a6a21a393f.jpeg
   alt: 'Dolphin swimming underwater'
-- src: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
-  alt: 'Passengers photographing a pilot whale from the bow of the private boat'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Pilot whale blowing as it breathes'
 atraccionesRelacionadas:
 - mar
 publicada: true

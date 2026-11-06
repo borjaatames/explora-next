@@ -53,11 +53,11 @@ keywords:
 - tour tapas madrid con cena
 - tapas e historia madrid
 - tour tapas en inglés madrid
-imagen: /images/actividades/alicante/paella/paella-mixta.webp
-imagenAlt: 'Paella de marisco en su paellera'
+imagen: https://imgcdn.bokun.tools/a17c93d7-98da-4272-8874-f2dc9d0108e5.jpeg
+imagenAlt: 'Paella con gambas y limón'
 galeria:
-- src: https://imgcdn.bokun.tools/a17c93d7-98da-4272-8874-f2dc9d0108e5.jpeg
-  alt: 'Paella con gambas y limón'
+- src: /images/actividades/alicante/paella/paella-mixta.webp
+  alt: 'Paella de marisco en su paellera'
 - src: https://imgcdn.bokun.tools/038851a7-91e0-4d9f-8ffe-d52a8e76daf7.jpeg
   alt: 'Grupo cenando paella en una mesa con mantel de cuadros'
 - src: https://imgcdn.bokun.tools/17673547-12ec-4b46-8ac0-e89d4b22032b.jpg

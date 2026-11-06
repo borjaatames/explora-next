@@ -83,9 +83,11 @@ keywords:
 - seville tuk tuk tour
 - private tour seville
 - seville by tuk tuk
-imagen: /images/actividades/sevilla/fotos-biblioteca/06.webp
-imagenAlt: 'Grotesque Gallery in the Royal Alcázar of Seville'
+imagen: https://imgcdn.bokun.tools/442fd27f-aa5c-4531-807f-b9fcd6ce911c.jpeg
+imagenAlt: 'Electric tuk-tuk with passengers under a monumental arch in Seville'
 galeria:
+- src: /images/actividades/sevilla/fotos-biblioteca/06.webp
+  alt: 'Grotesque Gallery in the Royal Alcázar of Seville'
 - src: https://imgcdn.bokun.tools/0ad6f0ff-d878-4b4b-ba5e-3d5fad09d269.png
   alt: 'Family riding an electric tuk tuk through Seville'
 - src: https://imgcdn.bokun.tools/1a40ce30-6ccc-4bdf-8bfe-bef06754265b.jpeg

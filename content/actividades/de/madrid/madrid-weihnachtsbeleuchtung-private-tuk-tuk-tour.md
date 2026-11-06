@@ -63,29 +63,29 @@ keywords:
 - madrid weihnachten tuk tuk
 - madrid weihnachtsbeleuchtung tour
 - madrid im advent
-imagen: https://imgcdn.bokun.tools/ff33783b-3a8b-4fb3-9809-8dfddbaabfb4.png
-imagenAlt: Das Metrópolis-Gebäude und eine beleuchtete Weihnachtskugel an der Gran Vía
+imagen: https://imgcdn.bokun.tools/0622e941-7afd-4e1b-92b7-d34132886ef9.jpeg
+imagenAlt: 'Elektro-Tuk-Tuk mit Fahrgästen in Madrid'
 galeria:
+- src: https://imgcdn.bokun.tools/ff33783b-3a8b-4fb3-9809-8dfddbaabfb4.png
+  alt: 'Das Metrópolis-Gebäude und eine beleuchtete Weihnachtskugel an der Gran Vía'
 - src: https://imgcdn.bokun.tools/722b26f6-9e0c-4cb1-aa88-959bbcec58fb.png
-  alt: Riesige beleuchtete Weihnachtskugel
+  alt: 'Riesige beleuchtete Weihnachtskugel'
 - src: https://imgcdn.bokun.tools/e1a137bd-d7a8-4a36-b087-18fff8d2b979.png
-  alt: Historische Fassade mit Weihnachtsbeleuchtung
+  alt: 'Historische Fassade mit Weihnachtsbeleuchtung'
 - src: https://imgcdn.bokun.tools/a7c77571-1641-4896-a338-f329f6c3f081.png
-  alt: Bunte Weihnachtslichter über einer Straße in Madrid
+  alt: 'Bunte Weihnachtslichter über einer Straße in Madrid'
 - src: https://imgcdn.bokun.tools/00fe78bd-46fb-4412-ab63-eaf3d47b1dbf.png
-  alt: Das Metrópolis-Gebäude und eine Weihnachtskugel bei Nacht
+  alt: 'Das Metrópolis-Gebäude und eine Weihnachtskugel bei Nacht'
 - src: https://imgcdn.bokun.tools/159d7ce0-2b73-4bd8-b333-917cd6bafded.png
-  alt: Feuerwerk über dem beleuchteten Palacio de Cibeles
+  alt: 'Feuerwerk über dem beleuchteten Palacio de Cibeles'
 - src: https://imgcdn.bokun.tools/5544de5f-118f-4165-a020-8c4744a079d0.png
-  alt: Bogen aus Weihnachtslichtern über einer Einkaufsstraße
+  alt: 'Bogen aus Weihnachtslichtern über einer Einkaufsstraße'
 - src: https://imgcdn.bokun.tools/1dbecaee-f4bd-4589-8046-8521c14f65d6.png
-  alt: Fahrgäste in einem Elektro-Tuk-Tuk
+  alt: 'Fahrgäste in einem Elektro-Tuk-Tuk'
 - src: https://imgcdn.bokun.tools/2303a1c2-7a3c-4866-bb66-7ef980877e9d.png
-  alt: Elektro-Tuk-Tuk von Tuk Tuk Zero mit Fahrgästen
+  alt: 'Elektro-Tuk-Tuk von Tuk Tuk Zero mit Fahrgästen'
 - src: https://imgcdn.bokun.tools/65d8e864-c88f-4ce7-bba7-857b5c59cd8f.png
-  alt: Allee voller Weihnachtslichter
-- src: https://imgcdn.bokun.tools/0622e941-7afd-4e1b-92b7-d34132886ef9.jpeg
-  alt: Bäume mit blauer Weihnachtsbeleuchtung
+  alt: 'Allee voller Weihnachtslichter'
 publicada: true
 destacada: false
 fecha: '2026-10-07'

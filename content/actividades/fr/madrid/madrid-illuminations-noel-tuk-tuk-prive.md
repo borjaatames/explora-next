@@ -63,29 +63,29 @@ keywords:
 - tuk tuk noël madrid
 - visite illuminations de noël madrid
 - madrid à noël que faire
-imagen: https://imgcdn.bokun.tools/ff33783b-3a8b-4fb3-9809-8dfddbaabfb4.png
-imagenAlt: L'immeuble Metrópolis et une boule de Noël illuminée sur la Gran Vía
+imagen: https://imgcdn.bokun.tools/0622e941-7afd-4e1b-92b7-d34132886ef9.jpeg
+imagenAlt: 'Tuk-tuk électrique avec des passagers à Madrid'
 galeria:
+- src: https://imgcdn.bokun.tools/ff33783b-3a8b-4fb3-9809-8dfddbaabfb4.png
+  alt: 'L''immeuble Metrópolis et une boule de Noël illuminée sur la Gran Vía'
 - src: https://imgcdn.bokun.tools/722b26f6-9e0c-4cb1-aa88-959bbcec58fb.png
-  alt: Boule de Noël géante illuminée
+  alt: 'Boule de Noël géante illuminée'
 - src: https://imgcdn.bokun.tools/e1a137bd-d7a8-4a36-b087-18fff8d2b979.png
-  alt: Façade historique illuminée pour Noël
+  alt: 'Façade historique illuminée pour Noël'
 - src: https://imgcdn.bokun.tools/a7c77571-1641-4896-a338-f329f6c3f081.png
-  alt: Illuminations de Noël colorées au-dessus d'une rue de Madrid
+  alt: 'Illuminations de Noël colorées au-dessus d''une rue de Madrid'
 - src: https://imgcdn.bokun.tools/00fe78bd-46fb-4412-ab63-eaf3d47b1dbf.png
-  alt: L'immeuble Metrópolis et une boule de Noël la nuit
+  alt: 'L''immeuble Metrópolis et une boule de Noël la nuit'
 - src: https://imgcdn.bokun.tools/159d7ce0-2b73-4bd8-b333-917cd6bafded.png
-  alt: Feu d'artifice au-dessus du palais de Cibeles illuminé
+  alt: 'Feu d''artifice au-dessus du palais de Cibeles illuminé'
 - src: https://imgcdn.bokun.tools/5544de5f-118f-4165-a020-8c4744a079d0.png
-  alt: Arche d'illuminations de Noël dans une rue commerçante
+  alt: 'Arche d''illuminations de Noël dans une rue commerçante'
 - src: https://imgcdn.bokun.tools/1dbecaee-f4bd-4589-8046-8521c14f65d6.png
-  alt: Passagers dans un tuk-tuk électrique
+  alt: 'Passagers dans un tuk-tuk électrique'
 - src: https://imgcdn.bokun.tools/2303a1c2-7a3c-4866-bb66-7ef980877e9d.png
-  alt: Tuk-tuk électrique Tuk Tuk Zero avec des passagers
+  alt: 'Tuk-tuk électrique Tuk Tuk Zero avec des passagers'
 - src: https://imgcdn.bokun.tools/65d8e864-c88f-4ce7-bba7-857b5c59cd8f.png
-  alt: Avenue couverte d'illuminations de Noël
-- src: https://imgcdn.bokun.tools/0622e941-7afd-4e1b-92b7-d34132886ef9.jpeg
-  alt: Arbres illuminés de lumières de Noël bleues
+  alt: 'Avenue couverte d''illuminations de Noël'
 publicada: true
 destacada: false
 fecha: '2026-10-07'

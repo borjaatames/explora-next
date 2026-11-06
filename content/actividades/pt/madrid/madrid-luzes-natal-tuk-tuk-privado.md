@@ -63,29 +63,29 @@ keywords:
 - tuk tuk natal madrid
 - tour luzes de natal madrid
 - madrid no natal
-imagen: https://imgcdn.bokun.tools/ff33783b-3a8b-4fb3-9809-8dfddbaabfb4.png
-imagenAlt: O edifício Metrópolis e uma bola de Natal iluminada na Gran Vía
+imagen: https://imgcdn.bokun.tools/0622e941-7afd-4e1b-92b7-d34132886ef9.jpeg
+imagenAlt: 'Tuk-tuk elétrico com passageiros em Madrid'
 galeria:
+- src: https://imgcdn.bokun.tools/ff33783b-3a8b-4fb3-9809-8dfddbaabfb4.png
+  alt: 'O edifício Metrópolis e uma bola de Natal iluminada na Gran Vía'
 - src: https://imgcdn.bokun.tools/722b26f6-9e0c-4cb1-aa88-959bbcec58fb.png
-  alt: Bola de Natal gigante iluminada
+  alt: 'Bola de Natal gigante iluminada'
 - src: https://imgcdn.bokun.tools/e1a137bd-d7a8-4a36-b087-18fff8d2b979.png
-  alt: Fachada histórica iluminada para o Natal
+  alt: 'Fachada histórica iluminada para o Natal'
 - src: https://imgcdn.bokun.tools/a7c77571-1641-4896-a338-f329f6c3f081.png
-  alt: Luzes de Natal coloridas sobre uma rua de Madrid
+  alt: 'Luzes de Natal coloridas sobre uma rua de Madrid'
 - src: https://imgcdn.bokun.tools/00fe78bd-46fb-4412-ab63-eaf3d47b1dbf.png
-  alt: O edifício Metrópolis e uma bola de Natal à noite
+  alt: 'O edifício Metrópolis e uma bola de Natal à noite'
 - src: https://imgcdn.bokun.tools/159d7ce0-2b73-4bd8-b333-917cd6bafded.png
-  alt: Fogo de artifício sobre o Palácio de Cibeles iluminado
+  alt: 'Fogo de artifício sobre o Palácio de Cibeles iluminado'
 - src: https://imgcdn.bokun.tools/5544de5f-118f-4165-a020-8c4744a079d0.png
-  alt: Arco de luzes de Natal numa rua comercial
+  alt: 'Arco de luzes de Natal numa rua comercial'
 - src: https://imgcdn.bokun.tools/1dbecaee-f4bd-4589-8046-8521c14f65d6.png
-  alt: Passageiros num tuk-tuk elétrico
+  alt: 'Passageiros num tuk-tuk elétrico'
 - src: https://imgcdn.bokun.tools/2303a1c2-7a3c-4866-bb66-7ef980877e9d.png
-  alt: Tuk-tuk elétrico da Tuk Tuk Zero com passageiros
+  alt: 'Tuk-tuk elétrico da Tuk Tuk Zero com passageiros'
 - src: https://imgcdn.bokun.tools/65d8e864-c88f-4ce7-bba7-857b5c59cd8f.png
-  alt: Avenida coberta de luzes de Natal
-- src: https://imgcdn.bokun.tools/0622e941-7afd-4e1b-92b7-d34132886ef9.jpeg
-  alt: Árvores iluminadas com luzes de Natal azuis
+  alt: 'Avenida coberta de luzes de Natal'
 publicada: true
 destacada: false
 fecha: '2026-10-07'

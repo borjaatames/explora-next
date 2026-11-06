@@ -87,8 +87,8 @@ keywords:
 - barco privado tenerife
 - alquiler barco tenerife
 - avistamiento ballenas las galletas
-imagen: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-imagenAlt: 'Calderón expulsando aire al respirar'
+imagen: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
+imagenAlt: 'Pasajeros fotografiando un calderón desde la proa de la lancha privada'
 galeria:
 - src: https://imgcdn.bokun.tools/7d10e601-a246-4e93-9dc0-a0146ddadf76.jpeg
   alt: 'La lancha neumática privada vista desde arriba sobre el agua turquesa'
@@ -104,8 +104,8 @@ galeria:
   alt: 'Montaña de Guaza, en la costa sur de Tenerife'
 - src: https://imgcdn.bokun.tools/15bf4883-1ca0-4fc3-a6bb-c3a6a21a393f.jpeg
   alt: 'Delfín nadando bajo el agua'
-- src: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
-  alt: 'Pasajeros fotografiando un calderón desde la proa de la lancha privada'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Calderón expulsando aire al respirar'
 atraccionesRelacionadas:
 - mar
 publicada: true

@@ -88,8 +88,8 @@ keywords:
 - observation baleines privee tenerife
 - excursion bateau prive tenerife
 - sortie en bateau las galletas
-imagen: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
-imagenAlt: 'Globicéphale soufflant en respirant'
+imagen: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
+imagenAlt: 'Passagers photographiant un globicéphale depuis la proue du bateau privé'
 galeria:
 - src: https://imgcdn.bokun.tools/7d10e601-a246-4e93-9dc0-a0146ddadf76.jpeg
   alt: 'Le semi-rigide privé vu du ciel sur une eau turquoise'
@@ -105,8 +105,8 @@ galeria:
   alt: 'La Montaña de Guaza sur la côte sud de Tenerife'
 - src: https://imgcdn.bokun.tools/15bf4883-1ca0-4fc3-a6bb-c3a6a21a393f.jpeg
   alt: 'Dauphin nageant sous l''eau'
-- src: https://imgcdn.bokun.tools/4f856b2a-0cb4-4ebc-b06d-a1144c75c79e.jpeg
-  alt: 'Passagers photographiant un globicéphale depuis la proue du bateau privé'
+- src: /images/actividades/tenerife/cetaceos/calderon-soplo.webp
+  alt: 'Globicéphale soufflant en respirant'
 atraccionesRelacionadas:
 - mar
 publicada: true

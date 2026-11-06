@@ -63,11 +63,11 @@ keywords:
 - tuk tuk madrid
 - madrid salamanca viertel tour
 - madrid stadtrundfahrt bernabeu
-imagen: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
-imagenAlt: 'Das renovierte Estadio Santiago Bernabéu'
+imagen: https://imgcdn.bokun.tools/88cd0b10-13a2-4996-bf46-d857481853a5.jpeg
+imagenAlt: 'Reisegruppe neben einem Elektro-Tuk-Tuk in Madrid'
 galeria:
-- src: https://imgcdn.bokun.tools/88cd0b10-13a2-4996-bf46-d857481853a5.jpeg
-  alt: 'Reisegruppe neben einem Elektro-Tuk-Tuk in Madrid'
+- src: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
+  alt: 'Das renovierte Estadio Santiago Bernabéu'
 - src: https://imgcdn.bokun.tools/e4a98eac-d28c-4d57-a190-8ba7bacd289d.png
   alt: 'Estadio Santiago Bernabéu'
 - src: https://imgcdn.bokun.tools/a4d181f5-af77-4b0f-a512-8a4bbe803a7c.png

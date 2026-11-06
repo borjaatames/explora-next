@@ -67,9 +67,11 @@ keywords:
 - seville from huelva
 - seville day trip from punta umbria
 - private seville tour huelva coast
-imagen: https://imgcdn.bokun.tools/b4c38240-d34c-47ce-9baa-22fb749f8e3f.jpeg
-imagenAlt: 'Top of the Giralda in Seville'
+imagen: https://imgcdn.bokun.tools/1fe7c30e-8486-4077-8481-19a6ab8dee74.jpeg
+imagenAlt: 'Torre del Oro by the Guadalquivir in Seville'
 galeria:
+- src: https://imgcdn.bokun.tools/b4c38240-d34c-47ce-9baa-22fb749f8e3f.jpeg
+  alt: 'Top of the Giralda in Seville'
 - src: https://imgcdn.bokun.tools/9f9d7659-12ae-421d-9b62-e88eb0b91889.jpeg
   alt: 'The Giralda seen from the street'
 - src: https://imgcdn.bokun.tools/11a2483d-ae68-4167-bebd-f819131db651.jpeg
