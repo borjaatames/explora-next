@@ -16,6 +16,7 @@ subtitulo: "The {n} ways to visit it that we sell, compared, with the official p
 distintivo: "UNESCO World Heritage · Córdoba"
 imagen: "/images/actividades/cordoba/mezquita/bosque-arcos-bicolores.webp"
 imagenAlt: "Rows of columns and red-and-white striped arches in the prayer hall of the Mosque-Cathedral"
+resumen: "A forest of two-tone arches with a cathedral inside it."
 latitud: 37.8789
 longitud: -4.7794
 datosClave:

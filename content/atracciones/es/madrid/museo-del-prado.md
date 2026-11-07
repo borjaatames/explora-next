@@ -15,6 +15,7 @@ subtitulo: "Las {n} formas de visitarlo que vendemos, comparadas, con el precio 
 distintivo: "Patrimonio de la Humanidad · Madrid"
 imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
 imagenAlt: "Fachada principal del Museo del Prado con la puerta de Velázquez y la estatua del pintor"
+resumen: "Velázquez, Goya y El Bosco en una de las grandes pinacotecas del mundo."
 latitud: 40.4138
 longitud: -3.6921
 datosClave:

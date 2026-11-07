@@ -15,6 +15,7 @@ subtitulo: "The {n} ways to visit it that we sell, compared, with the official p
 distintivo: "UNESCO World Heritage · Madrid"
 imagen: "/images/actividades/madrid/escorial/monasterio-del-escorial-history-monument-architecture-3-hero.webp"
 imagenAlt: "Facade of El Escorial Monastery with one of its towers and the gardens in the foreground"
+resumen: "Philip II's monastery, with a royal pantheon and a great library."
 latitud: 40.5891
 longitud: -4.1477
 datosClave:

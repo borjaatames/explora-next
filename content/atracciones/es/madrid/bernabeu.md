@@ -15,6 +15,7 @@ subtitulo: "Las {n} formas de verlo que vendemos, comparadas, con el precio ofic
 distintivo: "Estadio del Real Madrid · Madrid"
 imagen: "/images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp"
 imagenAlt: "Vista aérea del estadio Santiago Bernabéu reformado al atardecer, con su fachada de lamas metálicas"
+resumen: "El estadio del Real Madrid: museo, vestuarios y la vuelta al campo."
 latitud: 40.4531
 longitud: -3.6883
 datosClave:

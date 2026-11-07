@@ -15,6 +15,7 @@ subtitulo: "The {n} ways to visit it that we sell, compared, with the official p
 distintivo: "UNESCO World Heritage · Barcelona"
 imagen: "/images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp"
 imagenAlt: "Aerial view of the Sagrada Familia at sunset, surrounded by the blocks of the Eixample"
+resumen: "Gaudí's unfinished basilica, with its forest of columns and stained glass."
 latitud: 41.4036
 longitud: 2.1744
 datosClave:

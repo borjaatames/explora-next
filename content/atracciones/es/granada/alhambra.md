@@ -15,6 +15,7 @@ subtitulo: "Las {n} formas de visitarla que vendemos, comparadas, con el precio 
 distintivo: "Patrimonio de la Humanidad · Granada"
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-partal-torre-damas-reflejo-hero.webp"
 imagenAlt: "El Partal de la Alhambra con la Torre de las Damas reflejada en el estanque"
+resumen: "Palacios nazaríes, la Alcazaba y los jardines del Generalife sobre Granada."
 latitud: 37.1761
 longitud: -3.5881
 datosClave:

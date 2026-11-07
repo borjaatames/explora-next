@@ -16,6 +16,7 @@ subtitulo: "Las {n} formas de visitarla que vendemos, comparadas, con el precio 
 distintivo: "Patrimonio de la Humanidad · Córdoba"
 imagen: "/images/actividades/cordoba/mezquita/bosque-arcos-bicolores.webp"
 imagenAlt: "Hileras de columnas y arcos de dovelas rojas y blancas en la sala de oración de la Mezquita-Catedral"
+resumen: "Un bosque de arcos bicolores con una catedral en su interior."
 latitud: 37.8789
 longitud: -4.7794
 datosClave:

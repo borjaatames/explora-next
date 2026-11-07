@@ -16,6 +16,7 @@ subtitulo: "The {n} ways to walk it that we sell, compared, with the official pr
 distintivo: "Gaitanes Gorge · Málaga"
 imagen: "/images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp"
 imagenAlt: "Caminito del Rey walkway pinned to the sheer wall of the gorge, with visitors walking along it"
+resumen: "Walkways hanging over the Gaitanes gorge."
 latitud: 36.9205
 longitud: -4.7836
 datosClave:

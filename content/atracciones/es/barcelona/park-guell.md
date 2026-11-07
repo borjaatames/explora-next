@@ -15,6 +15,7 @@ subtitulo: "Las {n} formas de visitarlo que vendemos, comparadas, con el precio 
 distintivo: "Patrimonio de la Humanidad · Barcelona"
 imagen: "/images/actividades/barcelona/park-guell/park-guell-stunning-cityscape-barcelona-from-hero-hero.webp"
 imagenAlt: "El banco ondulado de trencadís del Park Güell con Barcelona y el mar al fondo"
+resumen: "El parque de Gaudí con mosaicos de colores y vistas sobre Barcelona."
 latitud: 41.4145
 longitud: 2.1527
 datosClave:

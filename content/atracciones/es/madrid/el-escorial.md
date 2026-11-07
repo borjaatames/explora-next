@@ -15,6 +15,7 @@ subtitulo: "Las {n} formas de visitarlo que vendemos, comparadas, con el precio 
 distintivo: "Patrimonio de la Humanidad · Madrid"
 imagen: "/images/actividades/madrid/escorial/monasterio-del-escorial-history-monument-architecture-3-hero.webp"
 imagenAlt: "Fachada del Monasterio de El Escorial con una de sus torres y los jardines en primer plano"
+resumen: "El monasterio de Felipe II, con panteón real y gran biblioteca."
 latitud: 40.5891
 longitud: -4.1477
 datosClave:

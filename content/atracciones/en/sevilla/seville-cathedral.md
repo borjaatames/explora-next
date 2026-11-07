@@ -16,6 +16,7 @@ subtitulo: "The {n} ways to visit it that we sell, compared, with the official p
 distintivo: "UNESCO World Heritage · Seville"
 imagen: "/images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-plaza.webp"
 imagenAlt: "The Giralda and Seville Cathedral lit up at dusk from Plaza Virgen de los Reyes"
+resumen: "The world's largest Gothic cathedral and the climb up the Giralda."
 latitud: 37.3858
 longitud: -5.9931
 datosClave:

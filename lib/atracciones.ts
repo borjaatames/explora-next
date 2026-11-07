@@ -43,6 +43,8 @@ export type AtraccionFrontmatter = {
   distintivo: string;
   imagen: string;
   imagenAlt: string;
+  /** Una frase para la tira de la home. */
+  resumen?: string;
   datosClave: DatoAtraccion[];
   ficha: DatoAtraccion[];
   fotos: FotoAtraccion[];
@@ -106,6 +108,51 @@ export function obtenerTodasLasAtracciones(
     slugEs: fm.slugs.es ?? slug,
     url: urlAtraccion(idioma, ciudad, slug),
   }));
+}
+
+/** Orden de la tira de atracciones de la home (por slug en español). */
+const ORDEN_HOME: readonly string[] = [
+  "alhambra",
+  "sagrada-familia",
+  "park-guell",
+  "real-alcazar",
+  "el-escorial",
+  "caminito-del-rey",
+  "catedral-de-sevilla",
+  "mezquita-catedral",
+  "bernabeu",
+  "museo-del-prado",
+];
+
+export type AtraccionHome = {
+  nombre: string;
+  ciudad: string;
+  imagen: string;
+  imagenAlt: string;
+  resumen: string;
+  url: string;
+};
+
+/** Atracciones publicadas de un idioma, en el orden de la home. */
+export function atraccionesParaHome(idioma: Idioma): AtraccionHome[] {
+  const posicion = (slugEs: string): number => {
+    const i = ORDEN_HOME.indexOf(slugEs);
+    return i === -1 ? ORDEN_HOME.length : i;
+  };
+  return listar(idioma)
+    .map(({ ciudad, slug, fm }) => ({
+      orden: posicion(fm.slugs.es ?? slug),
+      item: {
+        nombre: fm.nombre,
+        ciudad,
+        imagen: fm.imagen,
+        imagenAlt: fm.imagenAlt,
+        resumen: fm.resumen ?? "",
+        url: urlAtraccion(idioma, ciudad, slug),
+      },
+    }))
+    .sort((a, b) => a.orden - b.orden)
+    .map((x) => x.item);
 }
 
 export async function obtenerAtraccion(

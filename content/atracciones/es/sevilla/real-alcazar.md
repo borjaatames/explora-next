@@ -16,6 +16,7 @@ subtitulo: "Las {n} formas de visitarlo que vendemos, comparadas, con el precio 
 distintivo: "Patrimonio de la Humanidad · Sevilla"
 imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
 imagenAlt: "El Patio de las Doncellas del Real Alcázar, con su estanque alargado entre arcos mudéjares"
+resumen: "Palacio real en uso con patios mudéjares y jardines inmensos."
 latitud: 37.3831
 longitud: -5.9902
 datosClave:

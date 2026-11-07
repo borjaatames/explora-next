@@ -15,6 +15,7 @@ subtitulo: "The {n} ways to see it that we sell, compared, with the official tou
 distintivo: "Home of Real Madrid · Madrid"
 imagen: "/images/actividades/madrid/santiago-bernabeu/estadio-exterior-fachada__pexels-33845031-hero.webp"
 imagenAlt: "Aerial view of the renovated Santiago Bernabéu stadium at sunset, with its metal-slat facade"
+resumen: "Real Madrid's stadium: museum, dressing rooms and pitch-side views."
 latitud: 40.4531
 longitud: -3.6883
 datosClave:

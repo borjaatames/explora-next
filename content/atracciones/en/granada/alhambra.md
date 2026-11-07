@@ -15,6 +15,7 @@ subtitulo: "The {n} ways to visit it that we sell, compared, with the official p
 distintivo: "UNESCO World Heritage · Granada"
 imagen: "/images/actividades/granada/alhambra/alhambra-granada-partal-torre-damas-reflejo-hero.webp"
 imagenAlt: "The Partal at the Alhambra with the Ladies' Tower reflected in the pool"
+resumen: "Nasrid palaces, the Alcazaba and the Generalife gardens above Granada."
 latitud: 37.1761
 longitud: -3.5881
 datosClave:

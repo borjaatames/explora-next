@@ -15,6 +15,7 @@ subtitulo: "The {n} ways to visit it that we sell, compared, with the official p
 distintivo: "UNESCO World Heritage · Barcelona"
 imagen: "/images/actividades/barcelona/park-guell/park-guell-stunning-cityscape-barcelona-from-hero-hero.webp"
 imagenAlt: "Park Güell's undulating trencadís bench with Barcelona and the sea behind"
+resumen: "Gaudí's park of colourful mosaics with views over Barcelona."
 latitud: 41.4145
 longitud: 2.1527
 datosClave:

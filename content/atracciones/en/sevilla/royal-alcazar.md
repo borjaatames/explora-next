@@ -16,6 +16,7 @@ subtitulo: "The {n} ways to visit it that we sell, compared, with the official p
 distintivo: "UNESCO World Heritage · Seville"
 imagen: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
 imagenAlt: "The Courtyard of the Maidens at the Royal Alcázar, with its long pool framed by Mudéjar arches"
+resumen: "A working royal palace with Mudéjar courtyards and vast gardens."
 latitud: 37.3831
 longitud: -5.9902
 datosClave:

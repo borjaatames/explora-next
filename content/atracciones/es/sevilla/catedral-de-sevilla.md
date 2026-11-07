@@ -16,6 +16,7 @@ subtitulo: "Las {n} formas de visitarla que vendemos, comparadas, con el precio 
 distintivo: "Patrimonio de la Humanidad · Sevilla"
 imagen: "/images/actividades/sevilla/catedral-giralda/catedral-sevilla-giralda-plaza.webp"
 imagenAlt: "La Giralda y la Catedral de Sevilla iluminadas al anochecer desde la Plaza Virgen de los Reyes"
+resumen: "La mayor catedral gótica del mundo y la subida a la Giralda."
 latitud: 37.3858
 longitud: -5.9931
 datosClave:

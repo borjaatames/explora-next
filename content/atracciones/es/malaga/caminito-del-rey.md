@@ -16,6 +16,7 @@ subtitulo: "Las {n} formas de recorrerlo que vendemos, comparadas, con el precio
 distintivo: "Desfiladero de los Gaitanes · Málaga"
 imagen: "/images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp"
 imagenAlt: "Pasarela del Caminito del Rey anclada a la pared vertical del desfiladero, con visitantes recorriéndola"
+resumen: "Pasarelas colgadas sobre el desfiladero de los Gaitanes."
 latitud: 36.9205
 longitud: -4.7836
 datosClave:

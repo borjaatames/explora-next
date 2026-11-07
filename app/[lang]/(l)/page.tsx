@@ -1,5 +1,6 @@
 import { FranjaNavidad, ConQuienViajas, RutasPorDias, FranjaCruceros } from "@/components/home/SeccionesPlan";
 import PrivadosHome from "@/components/home/PrivadosHome";
+import FranjaAtracciones from "@/components/home/FranjaAtracciones";
 import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
@@ -442,6 +443,8 @@ export default function HomePage({ params }: Props) {
           </div>
         </section>
       )}
+
+      <FranjaAtracciones idioma={lang} />
 
       <ConQuienViajas idioma={lang} />
 

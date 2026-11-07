@@ -15,6 +15,7 @@ subtitulo: "Las {n} formas de visitarla que vendemos, comparadas, con el precio 
 distintivo: "Patrimonio de la Humanidad · Barcelona"
 imagen: "/images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp"
 imagenAlt: "Vista aérea de la Sagrada Familia al atardecer, rodeada por las manzanas del Eixample"
+resumen: "La basílica inacabada de Gaudí, con su bosque de columnas y vidrieras."
 latitud: 41.4036
 longitud: 2.1744
 datosClave:

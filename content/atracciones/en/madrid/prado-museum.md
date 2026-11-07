@@ -15,6 +15,7 @@ subtitulo: "The {n} ways to visit it that we sell, compared, with the official p
 distintivo: "UNESCO World Heritage · Madrid"
 imagen: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
 imagenAlt: "Main facade of the Prado Museum with the Velázquez Door and the statue of the painter"
+resumen: "Velázquez, Goya and Bosch in one of the world's great art museums."
 latitud: 40.4138
 longitud: -3.6921
 datosClave:
