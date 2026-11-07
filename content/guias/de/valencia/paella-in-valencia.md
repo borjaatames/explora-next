@@ -2,15 +2,16 @@
 titulo: "Paella in Valencia: was echte Paella valenciana ist und wo du sie isst"
 descripcion: "Paella in Valencia: Die echte Paella valenciana hat Huhn, Kaninchen und Bohnen statt Seafood. Am besten mittags in El Palmar, 15–22 € pro Person."
 metaTitle: "Paella in Valencia: wo sie am besten ist"
-respuestaCorta: 'Die echte **Paella valenciana** besteht aus Huhn, Kaninchen, Garrofó und grünen Bohnen, ohne Meeresfrüchte, und wird **mittags von 13:30 bis 16:00 Uhr** gegessen. Die beste gibt es in **El Palmar an der Albufera**, 45 Minuten mit dem EMT-Bus vom Zentrum. Rechne mit **15–22 € pro Person**, mindestens zwei Portionen und 30–45 Minuten Wartezeit, weil sie frisch zubereitet wird.'
+intro: 'Paella in Valencia zu essen heißt, sie in der Stadt zu essen, die sie erfunden hat, umgeben von Gemüsegärten und Meer: Die Messlatte liegt hoch. Neben dem Reis mit Huhn, Kaninchen und Garrofó-Bohnen gibt es hier Arroz a banda, Fideuà, den Aal-Eintopf All i pebre aus der Albufera und **Horchata mit Fartons**. Das einzige Problem sind die Touristenfallen vor den Sehenswürdigkeiten: Was, wann und wo du bestellst, macht den Unterschied.'
+respuestaCorta: 'Echte Paella in Valencia, die **Paella valenciana**: Huhn, Kaninchen, Garrofó-Bohnen und grüne Bohnen, ohne Meeresfrüchte, **mittags von 13:30 bis 16:00**. Die beste gibt es in **El Palmar an der Albufera**, 45 Minuten mit dem EMT-Bus. Rechne mit **15-22 € pro Person**, mindestens zwei Portionen und 30-45 Minuten Wartezeit, weil sie frisch zubereitet wird.'
 categoria: "valencia"
 slug: "paella-in-valencia"
 fecha: "2026-03-16"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 4
+tiempo_lectura: 3
 keywords:
   - "paella valencia"
   - "beste paella valencia"
@@ -30,70 +31,71 @@ actividades:
 imagen_portada: "/images/guias/comer-en-valencia-paella.jpg"
 imagen_alt: "Valencianische Paella in der Pfanne"
 reservasArriba: true
+faq:
+- pregunta: Was gehört in eine echte Paella valenciana?
+  respuesta: Huhn, Kaninchen, Garrofó (eine flache weiße Bohne), grüne Bohnen (Ferraúra) und je nach Haus Schnecken, dazu Reis, Sofrito und Safran. Keine Meeresfrüchte, keine Chorizo, keine Erbsen und keine Zwiebeln.
+- pregunta: Wo isst man die beste Paella in Valencia?
+  respuesta: An der Albufera und in El Palmar, 45 Minuten mit den EMT-Bussen 24 oder 25 (1,50 €) oder 25 Minuten mit dem Auto. In der Stadt suchst du bekannte Reisrestaurants im Viertel und reservierst; meide die Terrassen vor der Kathedrale und an der Plaza de la Reina.
+- pregunta: Kann man in Valencia abends Paella essen?
+  respuesta: 'Seriöse Reisrestaurants servieren sie von 13:30 bis 16:00, viele machen abends keine. Bietet dir eine Terrasse um 21:00 Paella an, ist sie wahrscheinlich aufgewärmt: Abends lieber Tapas oder Marktküche.'
+- pregunta: Was kostet eine Paella in Valencia?
+  respuesta: Die Paella valenciana kostet 15-22 € pro Person, mindestens zwei Portionen. In El Palmar gibt es Menüs mit Vorspeisen, Reis und Dessert für 25-35 €. Unter 12 € pro Person solltest du misstrauisch werden.
+- pregunta: Wo trinkt man Horchata in Valencia?
+  respuesta: In Alboraya, 15 Minuten mit der Metro (Linie 3, Haltestelle Alboraya-Palmaret), liegen die historischen Horchaterías wie Daniel oder Vida. Ein Glas mit Fartons kostet 4-5 €. Auch im Mercado Central gibt es eine Horchatería.
 ---
-
-**In Valencia isst man sehr gut, aber man kann auch leicht schlecht essen.** Die Stadt hat die Paella erfunden und ist von Gemüsegärten (Huerta) und Meer umgeben, die Messlatte liegt also sehr hoch; das Problem sind die Touristenfallen vor den Sehenswürdigkeiten. Dieser Guide gibt dir die Regeln, um einen echten Reis zu essen und nicht auf die aufgewärmte Paella an der Plaza de la Reina hereinzufallen.
-
-## Kulinarische Erlebnisse
-
-| Aktivität | Bewertung | Ab |
-| --- | --- | --- |
-| [Craft-Beer-Verkostung mit Tapas in Ruzafa](/en/cities/valencia/activities/craft-beer-tapas-tasting-ruzafa) | 4,8★ (128) | 28,5 € |
-
-Regel Nummer eins: **Die Paella valenciana ist keine Meeresfrüchte-Paella.** Das Original kommt aus Garten und Hühnerstall und wird mittags gegessen. Wer das verstanden hat, hat schon halb gewonnen.
-
-[actividad: cata-cerveza-artesanal-tapas-ruzafa]
 
 ## Was die echte Paella valenciana ist
 
-Die originale **Paella valenciana** enthält **Huhn, Kaninchen, Garrofó (eine breite weiße Bohne), grüne Bohnen (Ferraúra) und, je nach Haus, Schnecken**. Keine Meeresfrüchte, keine Chorizo, keine Erbsen, keine Zwiebeln. Sie wird mit Bomba-Reis, Sofrito, Safran und dem *Socarrat* (der angerösteten Schicht am Pfannenboden) zubereitet. Sie ist ein Gericht für **mittags** und zum Teilen.
+Regel Nummer eins: **Die Paella valenciana ist keine Meeresfrüchte-Paella**. Das Original kommt aus Gemüsegarten und Hühnerhof und enthält **Huhn, Kaninchen, Garrofó (eine flache weiße Bohne), grüne Bohnen (Ferraúra) und je nach Haus Schnecken**. Keine Meeresfrüchte, keine Chorizo, keine Erbsen, keine Zwiebeln.
 
-> **⚠️ Hinweis:** Wenn du eine „Paella“ mit Garnelen, Miesmuscheln, Chorizo und Zitronendeko auf einer Terrasse mit laminierten Fotos vor der Kathedrale siehst, ist das keine Paella valenciana, sondern ein Gericht für Touristen. Geh zwei Straßen weiter, und alles ändert sich.
+Sie wird mit Bomba-Reis, Sofrito, Safran und dem begehrten **Socarrat** zubereitet, der gerösteten Schicht am Pfannenboden. Es ist ein **Mittagsgericht** zum Teilen.
 
-## Die anderen Reisgerichte (genauso valencianisch)
+Siehst du „Paella“ mit Garnelen, Miesmuscheln, Chorizo und Zitrone obendrauf, auf einer Terrasse mit laminierten Fotos gegenüber der Kathedrale, ist das keine Paella valenciana, sondern ein Gericht für Touristen. Zwei Straßen weiter sieht alles anders aus.
+
+## Die beste Paella in Valencia: Albufera und El Palmar
+
+**Gute Paella gibt es an der Albufera und in El Palmar**, nicht im Touristenzentrum:
+
+- **Anfahrt nach El Palmar:** EMT-Bus 24 oder 25 ab dem Zentrum (1,50 €, 45 Minuten; seit Juni 2026 etwa alle 25-35 Minuten) oder 25 Minuten mit dem Auto, kostenlose Parkplätze im Ort.
+- **Öffnungszeiten:** Die meisten Restaurants schließen um 17:00.
+- **Nach dem Essen:** eine Bootsfahrt auf der Albufera und Sonnenuntergang am Bootssteg.
+
+In der Stadt suchst du **bekannte Reisrestaurants im Viertel** (reservieren und früh hingehen). Für Tapas und verschiedene Reisgerichte sind die Gegend um den **Mercado Central**, das Viertel **El Carmen** und **Ruzafa** sichere Adressen.
+
+[actividad: cata-cerveza-artesanal-tapas-ruzafa]
+
+Der **Mercado Central**, einer der größten Märkte Europas, ist Montag bis Samstag von 7:30 bis 15:00 geöffnet (sonntags geschlossen). Seine Horchatería und die Stände mit Clóchinas (Mai bis August) sind der beste schnelle Stopp.
+
+## Die anderen valencianischen Reisgerichte
 
 | Reisgericht | Was es ist |
 | --- | --- |
-| Arroz a banda | Trocken, mit Fischfond gekocht; purer Meeresgeschmack |
-| Arroz del senyoret | Alles geschält (ohne Schalen), „für feine Herren“ |
+| Arroz a banda | Trocken, mit Fischfond; purer Meeresgeschmack |
+| Arroz del senyoret | Alles geschält, ohne Schalen, „für feine Herren“ |
 | Arroz al horno | Aus dem Ofen, mit Kichererbsen, Blutwurst und Kartoffel; deftig |
-| Arroz a la marinera / caldoso | Mit Meeresfrüchten, in der richtigen Version |
+| Arroz a la marinera / caldoso | Mit Meeresfrüchten, richtig gemacht |
 | Fideuà | Wie Paella, aber mit Nudeln statt Reis |
 
-## Wo du gut isst
+## Mehr als Reis: Horchata und Agua de Valencia
 
-**Die gute Paella gibt es an der Albufera und in El Palmar**, nicht im touristischen Zentrum. Wenn du sie in der Stadt essen willst, such dir bekannte Reisrestaurants (Arrocerías) in den Wohnvierteln (reservieren und früh hingehen). Für Tapas und verschiedene Reisgerichte sind die Gegend um den **Mercado Central**, das **Barrio del Carmen** und **Ruzafa** sichere Tipps. Und kauf frische Produkte direkt im Mercado Central, einer der größten Markthallen Europas.
+- **Horchata mit Fartons:** der valencianische Nachmittagsklassiker, ein kaltes Getränk aus Erdmandeln mit Hefegebäck zum Eintunken. Die historischen Horchaterías (Daniel, Vida) liegen in **Alboraya**, 15 Minuten mit der Metro (Linie 3, Haltestelle Alboraya-Palmaret), mit den Erdmandeln in der Auslage. Ein Glas mit Fartons, **4-5 €**.
+- **Agua de Valencia:** der Aperitif aus Cava, Orangensaft, Wodka und Gin. Steigt schnell zu Kopf; mit Maß trinken.
+- **All i pebre:** Aal-Eintopf, typisch für die Albufera.
+- **Esgarraet, Titaina und Clóchinas** (die valencianischen Miesmuscheln, in der Saison).
 
-## Mehr als Reis
+## Essenszeiten, Preise und Bestellen
 
-- **Horchata mit Fartons.** Die valencianische Zwischenmahlzeit schlechthin: ein kaltes Getränk aus Erdmandeln (aus Alboraya) mit länglichen Hefeteilchen zum Eintunken.
-- **Agua de Valencia.** Der Aperitif: Cava, Orangensaft, Wodka und Gin. Steigt schnell zu Kopf; trink ihn mit Bedacht.
-- **All i pebre.** Aal-Eintopf, typisch für die Albufera.
-- **Esgarraet, Titaina, Clóchinas** (die valencianischen Miesmuscheln, in der Saison).
+- **Paella gibt es mittags:** Seriöse Reisrestaurants servieren sie von **13:30 bis 16:00**, viele machen abends keine. Bietet dir eine Terrasse um 21:00 Paella an, ist sie wahrscheinlich aufgewärmt.
+- **Bestellt wird für mindestens zwei**, und sie braucht **30-45 Minuten**, weil sie frisch gemacht wird. Gute Lokale fragen bei der Reservierung, ob ihr Reis möchtet: Sag ja, dann sparst du dir die Wartezeit.
+- **Richtpreise:** Paella valenciana **15-22 €** pro Person; Arroz a banda oder del senyoret 16-20 €; in El Palmar Menüs mit Vorspeisen, Reis und Dessert für 25-35 €. Unter 12 € pro Person: Vorsicht.
+- **Trinkgeld:** wird nicht erwartet; Aufrunden oder 1-2 € am Reistisch reichen völlig.
 
-## Praktisches: Zeiten, Preise und Bestellen
+## Tipps
 
-- **Paella gibt es mittags.** Seriöse Reisrestaurants servieren sie von 13:30 bis 16:00 Uhr, und viele machen abends keine; in El Palmar schließen die meisten um 17:00 Uhr. Wenn dir eine Terrasse um 21:00 Uhr Paella anbietet, ist sie wahrscheinlich aufgewärmt.
-- **Sie wird auf Bestellung zubereitet, mindestens für zwei:** Ab der Bestellung dauert es 30–45 Minuten, weil sie frisch gekocht wird. In guten Lokalen fragt man dich bei der Reservierung, ob ihr Reis möchtet; sag ja, dann sparst du dir die Wartezeit.
-- **Richtpreise:** Paella valenciana 15–22 € pro Person; Arroz a banda oder del senyoret 16–20 €; in El Palmar komplette Menüs mit Vorspeisen, Reis und Dessert für 25–35 €. Wenn es weniger als 12 € pro Person kostet, sei misstrauisch.
-- **Anfahrt nach El Palmar:** EMT-Bus 24 oder 25 ab dem Zentrum (1,50 €, 45 Minuten; seit Juni 2026 etwa alle 25–35 Minuten) oder 25 Minuten mit dem Auto, mit kostenlosem Parkplatz im Ort. Nach dem Essen: Bootsfahrt auf der Albufera und Sonnenuntergang vom Anleger aus.
-- **Mercado Central:** Montag bis Samstag von 7:30 bis 15:00 Uhr, sonntags geschlossen. Die Horchatería im Inneren und die Clóchinas-Stände (Mai bis August) sind der beste schnelle Stopp.
-- **Echte Horchata:** In Alboraya, 15 Minuten mit der Metro (Linie 3, Haltestelle Alboraya-Palmaret), liegen die historischen Horchaterías (Daniel, Vida), mit den Erdmandelfeldern direkt vor der Tür. Ein Glas mit Fartons kostet 4–5 €.
-- **Trinkgeld:** wird nicht erwartet; aufrunden oder 1–2 € bei einem Reisessen am Tisch lassen ist mehr als genug.
+- **Abends Tapas:** Paella zum Abendessen bestellen nur Touristen.
+- **Bestell die Paella valenciana dort, wo man sie** von der Meeresfrüchte-Paella zu unterscheiden weiß.
+- **Kein Reis an der Plaza de la Reina:** Touristenpreise, mittelmäßige Qualität.
+- **Misstraue laminierten Fotos und Anwerbern an der Tür.**
+- **Keine aufgewärmte Einzelportion:** Gute Paella wird frisch und zum Teilen gemacht.
 
-## Regeln, mit denen du nichts falsch machst
-
-1. **Reis gibt es mittags.** Paella zum Abendessen bestellen ist typisch Tourist; abends lieber Tapas oder Marktküche.
-2. **Paella valenciana ≠ Meeresfrüchte-Paella.** Bestell sie dort, wo man den Unterschied kennt.
-3. **Die beste Paella gibt es an der Albufera/in El Palmar.** Im Zentrum zahlst du mehr für weniger.
-4. **Reservieren und früh hingehen.** Guter Reis braucht 30–40 Minuten und ist schnell aus.
-
-## Was wir NICHT empfehlen
-
-1. **Reis an der Plaza de la Reina essen.** Touristenpreise, mittelmäßige Qualität.
-2. **Laminierten Fotos und Anwerbern an der Tür vertrauen.** Immer ein schlechtes Zeichen.
-3. **Eine aufgewärmte Einzelportion Paella bestellen.** Gute Paella wird frisch und zum Teilen gemacht.
-
-## In einem Satz
-
-Mit Überzeugung essen in Valencia heißt zu verstehen, dass die Paella valenciana aus Huhn, Kaninchen und Gemüse besteht, mittags gegessen wird und am besten an der [Albufera](/de/guides/valencia/ausfluege-ab-valencia) ist; im Zentrum dann Tapas, Reis aus dem Viertel und Horchata. Umgesetzt haben wir das auch in der Route [Valencia in 2 Tagen](/de/guides/valencia/valencia-in-2-tagen).
+Die beste Paella wartet an der [Albufera](/de/guides/valencia/ausfluege-ab-valencia), und wir setzen das alles auch auf der Route [Valencia in 2 Tagen](/de/guides/valencia/valencia-in-2-tagen) um.

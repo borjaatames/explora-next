@@ -5,7 +5,7 @@ metaTitle: 'Kathedrale Sevilla Tickets: Preis und Giralda'
 categoria: sevilla
 slug: kathedrale-sevilla-giralda-tickets-ausverkauft
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
@@ -28,7 +28,8 @@ slugs:
   it: cattedrale-siviglia-giralda-biglietti-esauriti
   pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: "Wenn die offizielle Website ausverkauft ist, verkauft die **Kasse an der Puerta del Príncipe** weiterhin Tickets (14 €) bis 18:00 Uhr, allerdings mit begrenzter Kapazität und ohne Garantie. Die offiziellen Tickets sind weder umbuchbar noch erstattbar, warte also nicht auf Stornierungen: Am sichersten ist ein **Ticket mit Uhrzeit über Wiederverkäufer** (ab 17,50 €) oder eine **Führung mit inbegriffenem Ticket**."
+intro: 'Bevor du **Kathedrale Sevilla Tickets** suchst, lohnt sich ein Blick hinein: die **größte gotische Kathedrale der Welt**, errichtet über der almohadischen Moschee, mit dem Hauptaltar, dem Chorgestühl, dem Grabmal von Christoph Kolumbus und dem Patio de los Naranjos. Das Ticket umfasst den Aufstieg auf die **Giralda**, über Rampen, und die Kirche El Salvador. Sie liegt gegenüber dem Real Alcázar, der Besuch dauert **1 Std. 30 Min.**'
+respuestaCorta: 'Kathedrale Sevilla Tickets kosten **13 € online und 14 € an der Kasse**, Giralda inklusive. Ist die Website ausverkauft, verkauft die **Kasse an der Puerta del Príncipe** bis 18:00 Uhr, mit begrenzter Kapazität. Ohne Umtausch und Erstattung ist am sichersten ein **Wiederverkaufsticket** (ab 17,50 €) oder eine **Führung mit Eintritt**.'
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
   - catedral-giralda-sevilla-visita-privada-guia-entradas
@@ -36,14 +37,16 @@ actividades:
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
   - real-alcazar-catedral-sevilla-tour-privado-entradas
 faq:
-  - pregunta: "Kann man Tickets für die Kathedrale am selben Tag an der Kasse kaufen?"
-    respuesta: "Ja. Die Kasse befindet sich an der Puerta del Príncipe und schließt um 18:00 Uhr. Das reguläre Ticket kostet dort 14 €, einen Euro mehr als online. Die Kapazität von Kathedrale und Giralda ist begrenzt, an Tagen mit großer Nachfrage gibt es also keine Garantie, dass noch etwas frei ist: Komm früh."
-  - pregunta: "Werden Tickets durch Stornierungen wieder frei?"
-    respuesta: "Fast nie. Laut den Regeln der Kathedrale sind die Tickets weder erstattbar noch auf ein anderes Datum umbuchbar, außer wenn der Besuch aus Gründen des Domkapitels selbst nicht stattfinden kann. Deshalb gibt es keinen stetigen Rückfluss an Stornierungen, auf den du achten könntest."
-  - pregunta: "Kann man die Kathedrale kostenlos besuchen?"
-    respuesta: "Ja, sonntags, je nach liturgischem Kalender. Die kostenlosen Tickets holst du persönlich an der Kasse der Puerta del Príncipe ab, ab 17:00 Uhr und bis zum Schluss, mit begrenzter Kapazität. Online reservieren kann man sie nicht."
-  - pregunta: "Was kann man von der Kathedrale und der Giralda ohne Ticket sehen?"
-    respuesta: "Die Fassaden und die Giralda von der Plaza Virgen de los Reyes, der Avenida de la Constitución und der Plaza del Triunfo aus, die die Kirche umgeben. Um das Innere zu sehen, brauchst du ein Ticket oder musst den Gottesdienst besuchen, der kein touristischer Besuch ist."
+- pregunta: Was kostet der Eintritt in die Kathedrale von Sevilla und die Giralda?
+  respuesta: Der normale Eintritt kostet 13 € online und 14 € an der Kasse (ermäßigt 7 € und 8 €) und umfasst den Aufstieg auf die Giralda und die Kirche El Salvador. Die Dachführung kostet 20 € online und 21 € an der Kasse.
+- pregunta: Kann man Kathedralen-Tickets am selben Tag an der Kasse kaufen?
+  respuesta: 'Ja. Die Kasse liegt an der Puerta del Príncipe und schließt um 18:00 Uhr. Der normale Eintritt kostet dort 14 €, einen Euro mehr als online. Die Kapazität von Kathedrale und Giralda ist begrenzt, an vollen Tagen gibt es also keine Garantie: Komm früh.'
+- pregunta: Werden durch Stornierungen Tickets frei?
+  respuesta: Kaum. Nach den Regeln der Kathedrale können Tickets weder erstattet noch auf ein anderes Datum umgebucht werden, außer der Besuch fällt wegen des Domkapitels selbst aus. Es tröpfeln also keine Stornierungen nach.
+- pregunta: Kann man die Kathedrale kostenlos besichtigen?
+  respuesta: Ja, sonntags, je nach liturgischem Kalender. Die Gratis-Tickets holt man persönlich an der Kasse der Puerta del Príncipe ab 17:00 Uhr bis zur Schließung, mit begrenzter Kapazität. Online reservieren kann man sie nicht.
+- pregunta: Was sieht man von Kathedrale und Giralda ohne Ticket?
+  respuesta: Die Fassaden und die Giralda von der Plaza Virgen de los Reyes, der Avenida de la Constitución und der Plaza del Triunfo aus, die den Bau umgeben. Für das Innere braucht man ein Ticket oder man besucht einen Gottesdienst, was keine touristische Besichtigung ist.
 opciones:
   - ficha: catedral-sevilla-giralda-entrada-skip-line
     etiqueta: Am günstigsten
@@ -53,66 +56,59 @@ opciones:
     etiqueta: Privat
 ---
 
-Die Kathedrale von Sevilla verkauft ihre Tickets **mit fester Einlasszeit und begrenzter Kapazität**, sowohl für das Kirchenschiff als auch für den Aufstieg auf die Giralda, und im Frühling, in der Karwoche und an Brückentagen sind die besten Uhrzeiten schnell weg. Wenn auf der offiziellen Website „ausverkauft“ steht, musst du trotzdem nicht auf die Kathedrale verzichten, aber auf Stornierungen zu warten bringt auch nichts: Die Tickets sind weder umbuchbar noch erstattbar. Das sind die Möglichkeiten, die bleiben, in der Reihenfolge, in der du sie am besten probierst.
+## Was du siehst
 
-## Welches Ticket wählen?
+- **Das Kirchenschiff und der Hauptaltar**, einer der größten der Christenheit, mit dem Chorgestühl und der Capilla Real.
+- **Das Grabmal von Christoph Kolumbus**, dessen Sarg vier Herolde tragen, die für die Königreiche Kastilien, León, Aragón und Navarra stehen.
+- **Die Giralda**, das 1198 vollendete almohadische Minarett, mit dem Glockenturm aus der Renaissance und der Wetterfahne Giraldillo. Man steigt über **Rampen statt Treppen** hinauf, damit man einst zu Pferd nach oben kam.
+- **Der Patio de los Naranjos**, der frühere Waschungshof der Moschee.
 
-| Wenn du … suchst | Option | Ab |
-| --- | --- | --- |
-| Ticket mit Uhrzeit, ohne Guide | [Kathedrale und Giralda ohne Anstehen](/en/cities/sevilla/activities/seville-cathedral-giralda-entry-ticket), 4,6★ (3.500) | 17,50 € |
-| Die beliebteste Option | [Kathedrale, Giralda und Alcázar mit bevorzugtem Einlass](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14.120) | 53 € |
-| Beide Monumente in Ruhe | [Kathedrale, Giralda und Alcázar: 3,5-stündige Tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2.085) | 65 € |
-| Ein Guide nur für deine Gruppe | [Real Alcázar und Kathedrale: private Tour mit Tickets](/en/cities/sevilla/activities/royal-alcazar-seville-cathedral-private-tour-tickets), 5,0★ (188) | 300 € pro Gruppe |
+Plane **1 Std. 30 Min.** für den kompletten Besuch ein.
 
-## 1. Die offizielle Website und die Kasse an der Puerta del Príncipe
+## Kathedrale Sevilla Preis und Öffnungszeiten
 
-Der offizielle Verkauf läuft über `catedraldesevilla.es`, das auf die eigene Ticketplattform verlinkt. Das reguläre Ticket für Kathedrale und Giralda kostet **13 € online und 14 € an der Kasse** (ermäßigt 7 € bzw. 8 €) und schließt auch die **Iglesia del Salvador** ein. Die Kathedrale ist Montag bis Samstag von **10:45 bis 19:00 Uhr** und sonntags von **14:30 bis 19:00 Uhr** geöffnet. Wenn dein Datum ausverkauft ist:
+Der offizielle Verkauf läuft über **catedraldesevilla.es**, das auf seine Ticketplattform verlinkt.
 
-- **Geh alle Uhrzeiten des Tages durch:** Jede Einlasszeit hat ihr eigenes Kontingent, und die am Nachmittag halten meist länger.
-- **Geh zur Kasse:** Sie liegt an der **Puerta del Príncipe** und schließt um **18:00 Uhr**, eine Stunde vor der Kirche. Wer online gekauft hat, geht durch die Puerta del Lagarto hinein. Die Kapazität ist begrenzt, an vollen Tagen gibt es also keine Garantie: Je früher du da bist, desto besser.
-- **Nimm deinen Nachweis mit:** Ermäßigte und kostenlose Tarife gelten nur mit einem offiziellen Dokument, das den Anspruch belegt.
+- **Normal:** **13 € online und 14 € an der Kasse**. Inklusive Giralda und **Kirche El Salvador**.
+- **Ermäßigt:** 7 € online und 8 € an der Kasse, nur mit offiziellem Nachweis.
+- **Dachführung:** 20 € online und 21 € an der Kasse (siehe unten).
 
-Was nichts bringt: darauf warten, dass Stornierungen frei werden. Laut den Regeln der Kathedrale sind die Tickets **weder erstattbar noch auf ein anderes Datum umbuchbar**, und wer zu spät zu seiner Uhrzeit kommt, hat ebenfalls keinen Anspruch auf Erstattung.
+**Öffnungszeiten:** Montag bis Samstag **10:45 bis 19:00 Uhr**, sonntags **14:30 bis 19:00 Uhr**. Die Tickets haben eine Einlasszeit und begrenzte Kapazität; kauf 2 oder 3 Tage im Voraus.
 
-## 2. Die kostenlosen Sonntage und die Dächer
+## Kathedrale Sevilla Tickets ausverkauft: was tun?
 
-Sonntags gibt es kostenlosen Eintritt, abhängig vom liturgischen Kalender. Die Tickets holst du **persönlich an der Kasse der Puerta del Príncipe ab 17:00 Uhr** ab, bis zum Schluss und mit begrenzter Kapazität. Wenn du an einem Sonntag dort bist, probier es, aber plane nicht fest damit.
+Im Frühling, in der Karwoche und an langen Wochenenden sind die besten Zeiten früh weg. Probier es in dieser Reihenfolge:
 
-Eine weitere Möglichkeit ist die **Führung über die Dächer**: ein anderthalbstündiger Rundgang über die Dächer der Kathedrale, der auch den Eintritt in Kathedrale, Giralda und El Salvador enthält. Sie kostet **20 € online und 21 € an der Kasse**, es gibt Termine auf Spanisch, Englisch und Französisch, und sie hat ein eigenes Kontingent, sodass manchmal noch etwas frei ist, wenn der reguläre Besuch ausverkauft ist. Bei schlechtem Wetter fällt sie aus, und du kannst eine Umbuchung oder Erstattung beantragen.
-
-## 3. Ein Ticket mit Uhrzeit über Wiederverkäufer oder eine Führung
-
-Wenn die offizielle Website nichts mehr hat, haben autorisierte Wiederverkäufer meist noch Plätze, weil sie ihre Kontingente im Voraus kaufen. Du zahlst mehr als auf der offiziellen Website:
-
-- **Ticket mit Uhrzeit ohne Guide (ab 17,50 €):** die günstigste Option, wenn du nur hinein und auf die Giralda willst.
-- **Kathedrale, Giralda und Alcázar (ab 53 €):** Wenn du auch für den Alcázar kein Ticket hast, erledigst du beide Monumente an einem Vormittag.
-- **Private Tour (ab 300 € pro Gruppe):** mit Tickets für Alcázar und Kathedrale; lohnt sich, wenn ihr mehrere seid.
-
-Prüf vor dem Bezahlen in der Beschreibung, ob **„Eintritt in die Kathedrale inklusive“** steht. Manche Rundgänge durch das Zentrum erklären nur das Äußere.
+1. **Schau dir alle Zeiten des Tages an:** Jede Einlasszeit hat ihr eigenes Kontingent, nachmittags hält es meist länger.
+2. **Probier die Dachführung:** anderthalb Stunden über die Dächer, inklusive Eintritt in Kathedrale, Giralda und El Salvador. Es gibt Termine auf Spanisch, Englisch und Französisch, und sie hat **ein eigenes Kontingent**, sodass manchmal noch Platz ist, wenn der normale Besuch ausverkauft ist. Bei schlechtem Wetter fällt sie aus, und du kannst Umbuchung oder Erstattung verlangen.
+3. **Buch ein Wiederverkaufsticket mit Uhrzeit oder eine Führung.** Autorisierte Wiederverkäufer kaufen ihre Kontingente im Voraus und haben meist Plätze. Du zahlst mehr: Ticket mit Uhrzeit ohne Guide **ab 17,50 €**; Kathedrale, Giralda und Alcázar mit Guide ab 53 €; eine Privatführung mit Tickets für beide Monumente ab 300 € pro Gruppe. Prüf, dass im Angebot **„Eintritt in die Kathedrale inklusive"** steht: Manche Spaziergänge erklären nur das Äußere.
 
 [actividad: catedral-sevilla-giralda-entrada-skip-line]
 
-[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
+Was nicht funktioniert: auf Stornierungen warten. Nach den Regeln der Kathedrale können Tickets **weder erstattet noch umgebucht werden**, und wer zu spät kommt, hat keinen Anspruch auf Erstattung.
 
-## 4. Was du ohne Ticket siehst
+## Kasse und Kathedrale Sevilla kostenlos am Sonntag
 
-Wenn du nichts bekommst, siehst du von außen trotzdem viel:
+Die Kasse liegt an der **Puerta del Príncipe** und schließt um **18:00 Uhr**, eine Stunde vor der Kirche. Wer online kauft, geht durch die **Puerta del Lagarto** hinein. Die Kapazität ist begrenzt, an vollen Tagen gibt es keine Garantie: Je früher du da bist, desto besser.
+
+**Sonntags ist der Eintritt frei**, je nach liturgischem Kalender. Die Tickets holt man **persönlich an der Kasse der Puerta del Príncipe ab 17:00 Uhr** bis zur Schließung ab, mit begrenzter Kapazität, und man kann sie nicht online reservieren. Wenn du an einem Sonntag da bist, versuch es, aber plan nicht damit.
+
+## Anfahrt und was du ohne Ticket siehst
+
+Sie liegt an der **Avenida de la Constitución**, gegenüber dem Real Alcázar: Metro **Puerta de Jerez (L1)** und Straßenbahn **Archivo de Indias**, wenige Gehminuten entfernt.
+
+Wenn du nicht hineinkommst, siehst du von außen trotzdem viel:
 
 - Die **Giralda** von der **Plaza Virgen de los Reyes** aus, der beste Blick von der Straße.
-- Die gotischen Fassaden und die Puerta de la Asunción von der **Avenida de la Constitución** aus.
-- Die **Plaza del Triunfo** zwischen Kathedrale und Alcázar, mit der Puerta del Príncipe auf der einen Seite.
+- Die gotischen Fassaden und die Puerta de la Asunción von der Avenida de la Constitución aus.
+- Die **Plaza del Triunfo** zwischen Kathedrale und Alcázar, mit der Puerta del Príncipe an einer Seite.
 
-Und wenn dir auch der Alcázar fehlt, findest du unter [was tun, wenn die Tickets für den Alcázar ausverkauft sind](/de/guides/sevilla/alcazar-sevilla-tickets-ausverkauft) die Optionen dafür.
+Fehlt dir auch der Alcázar, findest du seine Optionen in [Alcázar Sevilla Tickets ausverkauft: was tun?](/de/guides/sevilla/alcazar-sevilla-tickets-ausverkauft).
 
-[actividad: sevilla-catedral-giralda-alcazar-tour-guiado-3-5h]
+## Tipps
 
-## Fehler, die du vermeiden solltest
-
-1. **Auf Websites kaufen, die die offizielle nachahmen.** Sie verlangen zu viel und liefern nicht immer ein gültiges Ticket. Geh immer über `catedraldesevilla.es`.
-2. **Eine Tour buchen, ohne nachzulesen, ob der Eintritt inbegriffen ist.** Dann zahlst du den Guide und bleibst vor der Tür.
-3. **Zu spät zu deiner Uhrzeit kommen.** Die Uhrzeit auf dem Ticket ist die Einlasszeit, und wer zu spät kommt, hat keinen Anspruch auf Erstattung.
-4. **Mit unbedeckten Schultern oder großem Rucksack kommen.** Die Regeln verlangen bedeckte Schultern, und mit mittelgroßen oder großen Rucksäcken darfst du nicht auf die Giralda.
-
-## In einem Satz
-
-Wenn die offizielle Website ausverkauft ist, probier es vor 18:00 Uhr an der Kasse der Puerta del Príncipe, schau dir die Dächer an oder buche ein Ticket mit Uhrzeit oder eine Führung, die es enthält; und wenn du nur einen Tag hast, bau die Kathedrale in [Sevilla an einem Tag](/de/guides/sevilla/sevilla-in-einem-tag) ein.
+- **Kauf nur über catedraldesevilla.es:** Manche Websites ahmen die offizielle nach, verlangen mehr und liefern nicht immer ein gültiges Ticket.
+- **Prüf, ob die Tour den Eintritt enthält**, bevor du zahlst, sonst stehst du vor der Tür.
+- **Sei pünktlich:** Die Zeit auf dem Ticket ist deine Einlasszeit.
+- **Bedeckte Schultern und kein großer Rucksack:** Die Regeln verlangen es, und mit mittleren oder großen Rucksäcken darf man nicht auf die Giralda.
+- Wenn du nur einen Tag hast, bau die Kathedrale in [Sevilla an einem Tag](/de/guides/sevilla/sevilla-in-einem-tag) ein.

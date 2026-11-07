@@ -24,9 +24,10 @@ slugs:
   fr: sagrada-familia-quel-billet-choisir
   it: sagrada-familia-quale-biglietto-scegliere
   pt: sagrada-familia-que-bilhete-escolher
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 reservasArriba: true
-respuestaCorta: 'For the basilica alone, the **audio-guide ticket from €34** is the cheapest bookable option; the **guided tour with tower access (€75)** is the only one that goes up a tower. To add Park Güell without losing the whole day, the **4-hour guided combo (€104)** covers both. Book weeks ahead: entry is by timed slot and **only sold online**.'
+intro: 'There are seven ways to book the Sagrada Familia, and **Sagrada Familia tickets price** differences come down to what''s included: three options cover the basilica alone, from the audio-guide ticket to a tower climb, and four add **Park Güell** or other sights. Inside you''ll find the tree-like nave, the **stained glass** and Gaudí''s crypt. Allow 1 h 30 with an audio guide and about 2 h 30 with tower and museum.'
+respuestaCorta: '**Sagrada Familia tickets price:** the official ticket costs **€26** with audio guide and **€36** with a tower. Among bookable options, the **audio-guide ticket from €34** is the cheapest, the **guided tour with tower (from €75)** is the only one that goes up, and the **Park Güell combo (from €104)** covers both. **There''s no ticket office.**'
 actividades:
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-tour-con-torre
@@ -34,6 +35,17 @@ actividades:
   - sagrada-familia-park-guell-tour-guiado
   - barcelona-un-dia-sagrada-familia-park-guell
   - tour-privado-lo-mejor-de-barcelona-sagrada-familia
+faq:
+- pregunta: What is the cheapest Sagrada Familia ticket?
+  respuesta: On the official website, the basic ticket with audio guide costs €26 and with a tower €36 (2026). Among bookable options, the cheapest is the audio-guide ticket from €34, especially useful if the official website is sold out for your day.
+- pregunta: Can I choose which tower I climb?
+  respuesta: No. On the tower tour you only go up one, and the monument assigns it depending on the day and the works (Nativity or Passion). You go up by lift and come down a narrow spiral staircase.
+- pregunta: Can children climb the towers?
+  respuesta: Under-6s can't go up, even with an adult. It's not suitable for people with reduced mobility either, because the way down is a narrow spiral staircase. The tower also closes in rain or wind.
+- pregunta: Does the private full-day tour include Park Güell?
+  respuesta: No. The private full day (from €658 per group of 1-2 people) covers Montjuïc, the Gothic Quarter, Passeig de Gràcia and the Sagrada Família, but not Park Güell. If you want both monuments, choose one of the combos.
+- pregunta: How long does a Sagrada Familia visit take?
+  respuesta: About 1 h 30 inside with an audio guide and about 2 h 30 with tower and museum. The small-group guided tour lasts 1 h 45 and the Park Güell combo 4 hours.
 opciones:
   - ficha: entrada-sagrada-familia-audioguia
     etiqueta: Cheapest
@@ -43,67 +55,47 @@ opciones:
     etiqueta: Small group
 ---
 
-The Sagrada Família can be booked seven ways: three options for the basilica alone, from an audio-guide ticket to a tower climb, and four that combine it with Park Güell or other sights — which don't all include the same things.
+## Sagrada Familia ticket prices
 
-## Which ticket should you choose?
+- **Official website (sagradafamilia.org):** the basic ticket with audio guide costs **€26** and with a tower **€36**. That's the cheapest if there are places left.
+- **Bookable options:** they cost more because they add a guide, a small group or priority access, and they often have places when the official ticket is sold out. All include **skip-the-line entry** to the Sagrada Família.
 
-| Option | Price from | Duration | Format | Best for |
-|---|---|---|---|---|
-| [Ticket with audio guide](/en/cities/barcelona/activities/sagrada-familia-ticket-audio-guide) | €34 | 1-2 h | Self-guided, audio guide in 16 languages | The cheapest, visit at your own pace |
-| [Guided tour with tower access](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access) | €75 | 1.5-2 h | Guided + optional tower climb | The only one with access to a tower |
-| [Small-group guided visit](/en/cities/barcelona/activities/sagrada-familia-small-group-tour) | €99 | 1h45 | Guided, small group, accessible entry | Travelers who prioritize a small group over price |
+In 2026 morning slots sell out weeks ahead, and the towers even sooner. **No tickets are sold at a ticket office.**
 
-## Combined with Park Güell and other sights
+## Ticket types for the basilica alone
 
-| Option | Price from | Duration | Includes | Best for |
-|---|---|---|---|---|
-| [Guided tour: Sagrada Família + Park Güell](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour) | €104 | 4 h | Just these two monuments, guided | Travelers who want both, guided, without spending the whole day |
-| [Barcelona in one day: Sagrada Família and Park Güell](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) | €129 | 7 h | Montjuïc, old town, Passeig de Gràcia + both monuments | Travelers who want to see Barcelona's highlights in a single day |
-| [Best of Barcelona private tour, with Sagrada Família](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | from €658/group (1-2 people) | 7 h | Montjuïc, Gothic Quarter, Passeig de Gràcia + Sagrada Família — **does not include Park Güell** | Travelers who want a full-day private tour focused on the rest of the city, not Park Güell |
+- **Ticket with audio guide (from €34, 1-2 h):** self-guided, audio guide in 16 languages. The cheapest, at your own pace.
+- **Guided tour with tower climb (from €75, 1 h 30-2 h):** guide plus an optional tower climb. **It's the only bookable option with a tower.**
+- **Small-group guided tour (from €99, 1 h 45):** guide, small group and accessible entry. For those who put a small group ahead of price.
+
+## Sagrada Familia and Park Güell together
+
+- **Sagrada Família + Park Güell guided tour (from €104, 4 h):** just these two monuments, with a guide. To see both without spending the whole day.
+- **Barcelona in one day (from €129, 7 h):** Montjuïc, the old town and Passeig de Gràcia, plus both monuments.
+- **Best of Barcelona private tour (from €658 per group of 1-2 people, 7 h):** Montjuïc, the Gothic Quarter, Passeig de Gràcia and the Sagrada Família. **Park Güell is not included.**
 
 ## How to choose in 30 seconds
 
-- **Just the basilica, tight budget:** audio-guide ticket (€34).
-- **Want to climb a tower:** it's the only option that allows it — the guided tour with tower access (€75).
-- **Want a small group without the tower:** small-group guided visit (€99).
-- **Want Park Güell too, without spending the whole day:** the combined guided tour (€104), 4 hours.
-- **Want to see all of Barcelona in one day:** the full-day excursion (€129).
-- **Want it all private:** the full-day private tour (from €658) includes the Sagrada Família, but not Park Güell.
+- **Basilica only, tight budget:** the audio-guide ticket.
+- **You want to climb a tower:** the guided tour with tower.
+- **Small group, no tower:** the small-group guided tour.
+- **Park Güell too, without spending the day:** the combined guided tour.
+- **All of Barcelona in one day:** the full-day excursion.
+- **Everything private:** the private full-day tour, knowing it doesn't go into Park Güell.
 
-## What the combined tours really include
+## The tower ticket: what you need to know
 
-The four combos look similar but work differently inside the basilica:
+You only climb **one tower** and you don't choose it: the monument assigns it depending on the day and the works. You go up by lift and come down a **narrow spiral staircase**. **Under-6s** and people with reduced mobility can't go up, and it **closes in rain or wind**.
 
-- **Guided tour Sagrada Família + Park Güell (€104):** the guide goes inside both with you. It starts at 10:00 at Park Güell (Carrer d'Olot, 24), with transport to the basilica. Up to 16 people; not adapted for wheelchairs.
-- **Barcelona in one day (€129):** both entries are included, but the guide covers the Sagrada Família from outside only — you visit the interior on your own with the audio-guide app. Meets at 9:00 at La Rambla 97, no hotel pickup. Rated 4.9/5 from over 15,000 reviews.
-- **The private tour** includes hotel pickup, private transport and a private guide, but not Park Güell.
+The climb has limited capacity and sometimes closes for maintenance: if it's the main reason for your visit, check availability before booking.
 
-[actividad: sagrada-familia-and-park-guell-guided-tour]
+[actividad: sagrada-familia-tour-con-torre]
 
-## Is a reseller ticket worth it?
+## Tips before you go
 
-The official website sells the basic ticket with the audio-guide app for €26 and the ticket with towers for €36 (as of 2026); with an official guided tour it's €30, or €40 with towers. Children under 11 go free. Bookable options cost more because they add a guide, a small group or a second monument; the €34 ticket's main value is availability when the official site is sold out. If your date is available officially and you don't need a guide, buy there.
+- **Timed entry:** you have 15 minutes' leeway from your booked time. Bring ID or a passport: tickets are named and they ask for it.
+- **Dress code:** it's a working basilica. They won't let you in with bare shoulders, thin straps, low necklines, shorts or skirts above mid-thigh, or a cap. In summer, keep a scarf in your bag.
+- **The light:** between 10:00 and 12:00 it comes through the Nativity windows (greens and blues); late in the afternoon, through the Passion windows (reds and oranges).
+- **Getting there:** Sagrada Família metro (L2 and L5), exiting onto the square itself. The visitor entrance is on Carrer de la Marina, Nativity façade.
 
-## The towers
-
-- **You can't always choose your tower.** On the guided tour with tower access, only one tower is open and the basilica assigns it (Nativity or Passion) depending on the day and the works.
-- **Lift up, stairs down.** The descent is a narrow spiral staircase, so the towers aren't accessible to people with reduced mobility.
-- **No children under 6**, even with an adult.
-- **They close in rain, strong wind** or for maintenance.
-
-[actividad: sagrada-familia-tour-with-tower-access]
-
-## Before you go
-
-- **Book early.** Tickets are sold online only, by timed slot. In 2026, the Gaudí Year, slots sell out weeks ahead — the towers first.
-- **Be on time.** You can enter up to 15 minutes after your slot. The last slot of the day gives you about 45 minutes inside.
-- **Bring ID.** Tickets are in your name; show an ID card or passport at the entrance.
-- **Dress code:** it's a working basilica. No hats, swimwear or see-through clothing; trousers or skirts must reach mid-thigh. Carry a scarf for your shoulders in summer.
-- **Audio guide:** it's an app on your own phone — bring headphones. Only for visitors over 11. From 9:00 to 10:00 (a daily prayer hour since February 2026) headphones are compulsory and silence is expected.
-- **Opening hours:** from 9:00 (Sundays 10:30), closing at 20:00 from April to September, 19:00 in March and October and 18:00 from November to February; Saturdays always close at 18:00.
-- **Best light:** 10:00-12:00 for the green and blue Nativity windows; late afternoon for the red and orange Passion windows — our pick if you can only choose one.
-- **Getting there:** metro Sagrada Família (L2, L5). The visitor entrance is on Carrer de la Marina, at the Nativity façade. Allow 1.5 hours inside, 2.5 with a tower.
-
-## Things to know before booking
-
-All options include skip-the-line entry to the Sagrada Família. The full-day private tour (from €658) does not include Park Güell. Cancellation is free up to 24 hours before on the tours; the audio-guide ticket needs 48 hours' notice.
+Opening hours, the Hour of Silence and what to see inside are in [how to visit the Sagrada Familia](/en/guides/barcelona/sagrada-familia-how-to-visit).

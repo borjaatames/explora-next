@@ -4,13 +4,13 @@ descripcion: "Cádiz Carnival 2027 (4–14 February): the Falla final, chirigota
 categoria: "cadiz"
 slug: "cadiz-carnival"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/carnaval-de-cadiz.jpg"
 imagen_alt: "Main façade of Cádiz Cathedral with its two towers"
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "cadiz carnival"
   - "cadiz chirigotas"
@@ -25,87 +25,80 @@ slugs:
   it: carnevale-di-cadice
   pt: carnaval-de-cadis
 reservasArriba: true
-respuestaCorta: 'The 2027 Cádiz Carnival runs from **Thursday 4 to Sunday 14 February**, with the **Falla contest final on Friday 5 February**. The street carnival, with groups singing satirical songs in La Viña and El Pópulo, is **free**. What sells out is accommodation: **book months ahead** or stay in Jerez, El Puerto or San Fernando and come in by train.'
+intro: 'The **Cádiz Carnival** is one of the most famous in the world: an entire city in fancy dress singing witty, biting and hilarious songs (coplas) through its streets. It isn''t a carnival of floats and feathers but of **wit and lyrics**. It has two sides worth combining: the **official contest at the Gran Teatro Falla** and the **street carnival**, free and open to all, around La Viña, the Cathedral and El Pópulo.'
+respuestaCorta: 'The **Cádiz Carnival** 2027 runs from **Thursday 4 to Sunday 14 February**, with the **Falla contest final on Friday 5**. The street carnival, with groups singing around La Viña and El Pópulo, is **free**. What sells out is accommodation: **book months ahead** or stay in Jerez, El Puerto or San Fernando.'
 actividades:
   - tour-guiado-cadiz-centro
   - bodegas-fundador-jerez-cata
   - torre-tavira-catedral-cadiz-visita-guiada
   - catamaran-cadiz-atardecer
+faq:
+- pregunta: When is the Cádiz Carnival 2027?
+  respuesta: From Thursday 4 to Sunday 14 February 2027, according to the City Council's tourism website (October 2026). The COAC final at the Falla is on Friday 5, the Grand Parade on Sunday 7 and the Carnaval Chiquito on Sunday 21. Dates change every year because they depend on Easter.
+- pregunta: How do you get tickets for the Teatro Falla?
+  respuesta: 'They''re very hard to get and are allocated by lottery. The performances are shown on TV and, above all, on the street: the Falla groups sing for free around the old town on weekdays.'
+- pregunta: Where should you stay for the Cádiz Carnival?
+  respuesta: In the old town if you can find somewhere and book months ahead. Otherwise in Jerez, El Puerto de Santa María or San Fernando, linked to Cádiz by Cercanías trains with extra and late-night services on the big weekends.
+- pregunta: Do you have to wear fancy dress at the Cádiz Carnival?
+  respuesta: 'Pretty much: during Carnival everyone dresses up and it''s part of the fun. Without a costume you''ll stand out.'
+- pregunta: Is the Cádiz Carnival suitable for children?
+  respuesta: Yes, in the morning and early afternoon, when it's a calm family event, and even better in costume. At night it gets very crowded.
 ---
 
-**The Cádiz Carnival is one of the most famous in Spain**: an entire city in costume singing witty, biting songs through its streets. It's not a carnival of floats and feathers, but of **wit and lyrics**: the people of Cádiz laugh at everything, above all at themselves.
+## Cádiz Carnival 2027 dates
 
-There are **two carnivals** to understand. The **official** one is the contest at the Gran Teatro Falla; the **street** one is the free, massive, open party. The best plan combines them.
+The Carnival changes every year because it depends on Easter; it's held in **February or early March** and lasts about two weeks, with **two big weekends** (the first is usually the busiest). According to the City Council's tourism website (October 2026):
 
-## Carnival 2027: the key dates
+- **Thursday 4 February:** the Carnival begins.
+- **Friday 5:** COAC final at the Falla.
+- **Saturday 6:** opening speech (pregón) in Plaza de San Antonio.
+- **Sunday 7:** Carrusel de Coros in the morning and the **Grand Parade (Cabalgata)** in the afternoon.
+- **Monday 8:** Lunes de Coros (local holiday).
+- **Sunday 14:** burning of the Bruja Piti and official close.
+- **Sunday 21:** Carnaval Chiquito, or "de los Jartibles".
 
-| Date | What happens |
-| --- | --- |
-| From January | COAC contest at the Gran Teatro Falla, over several weeks |
-| **Thu 4 February** | Carnival starts |
-| **Fri 5 February** | **COAC grand final** at the Gran Teatro Falla |
-| Sat 6 February | Official opening speech (*pregón*), Plaza de San Antonio |
-| **Sun 7 February** | **Gran Cabalgata** (main parade) |
-| Mon 8 February | Lunes de Coros; local holiday in Cádiz |
-| Sun 14 February | Burning of the Bruja Piti and official closing |
-| Sun 21 February | Carnaval Chiquito (or "de los Jartibles"), for diehards |
+The detailed programme comes out closer to the date.
 
-These are the dates on the Cádiz tourism website as planned in October 2026; the detailed programme comes out closer to the date. The dates move every year with Easter.
+## Where to stay (what sells out)
 
-> **Warning:** accommodation in Cádiz sells out **months ahead** and prices multiply. Book as soon as you decide; many people stay in Jerez or El Puerto for lack of beds.
+Accommodation sells out **months in advance** and prices multiply. If you want to experience the Carnival, book as soon as you know the dates:
 
-## The Falla contest (the official carnival)
+- **The old town**, if you can find something: everything on foot.
+- **Jerez, El Puerto de Santa María or San Fernando**, if not: many visitors come and go by train and avoid the city's sky-high prices.
 
-The **COAC**, the Official Contest of Carnival Groups, is held at the **Gran Teatro Falla** for weeks before the street party. The **groups** compete by category:
+## The Falla contest and the chirigotas
 
-- **Chirigotas:** humour, satire and lots of cheek.
+The **COAC** (Official Contest of Carnival Groups) runs for weeks at the **Gran Teatro Falla**, between January and February. The groups compete in categories:
+
+- **Chirigotas:** humour, satire and plenty of mischief.
 - **Comparsas:** more lyrical and critical, with powerful voices.
-- **Coros:** sing tangos atop floats through the streets.
+- **Coros:** sing tangos on floats through the streets.
 - **Cuartetos:** parody and the absurd in small groups.
 
-Falla tickets are very hard to get; they're allocated by draw. The performances are also broadcast on TV and, above all, the groups sing again in the street, for free, during the carnival days.
+Falla tickets are very hard to get: they're allocated **by lottery**. But the performances are shown on TV and, above all, on the street.
 
-## The street carnival (the must)
+## The Cádiz street carnival (the must-do)
 
-It's the soul of the festival: spontaneous ("illegal") groups singing around the **old town** (La Viña, the Cathedral square, the Pópulo quarter), people in costume everywhere and a buzz until dawn. It's **free** and massive.
+It's the soul of the festival: spontaneous groups (the "ilegales") singing coplas around the **old town** (La Viña, Cathedral square, El Pópulo), people in costume everywhere and a party until the small hours. It's **free** and packed.
 
-- **Carrusel de Coros:** the coros sing tangos from their floats around the Plaza de las Flores and the market. It's one of the loveliest moments, on the first Sunday and on the Lunes de Coros.
-- **Weekdays** are quieter: the best moment to hear the Falla groups in the street without the weekend crowds.
+- **Not to be missed:** the **Carrusel de Coros** on the first Sunday morning, with floats around Plaza de las Flores and the market, and the **Cabalgata** that same Sunday afternoon.
+- **On weekdays**, the Falla groups go on to sing in the streets for free.
 
-To understand what you're hearing, walk the old town with a guide before the party starts: La Viña and El Pópulo are where the carnival happens.
+## Getting there, eating and getting around
 
-[actividad: tour-guiado-cadiz-centro]
+- **Train:** Cercanías from Jerez (45 minutes), El Puerto (35) and San Fernando (15), with extra and late-night services on the big weekends.
+- **Car:** forget it. Access to the old town is closed and you park outside the walls, at the Puerta de Tierra or Zona Franca car parks.
+- **Eating:** in La Viña, shrimp fritters (tortillitas de camarones) and fried fish from the freidurías, standing up and in a paper cone (**€8-12 per person**). Bars sell beer to take outside; no need to go in.
+- **Toilets:** scarce. The council puts up public urinals at weekends, but queues are long.
+- **Safety:** a calm family event by day; at night, crowds and the odd pickpocket. Carry little and keep your phone away.
+- **With children:** mornings and early afternoons are perfect; even better in costume.
 
-## Getting there and getting around
+## Tips for enjoying it
 
-- **By train:** Cercanías trains connect Cádiz with San Fernando (about 15 minutes), El Puerto de Santa María (about 35) and Jerez (35–45), with extra and late-night services on the big weekends.
-- **By car, forget it.** Access to the old town is closed and you'll park outside the walls, at Puerta de Tierra or the Zona Franca car parks.
-- **Food:** in La Viña, *tortillitas de camarones* and fried fish in paper cones from the *freidurías*, eaten standing up (€8–12 per person). Bars sell beer to take outside.
-- **Toilets** are scarce. The city sets up public urinals at weekends, but queues are long.
-- **Safety:** it's a calm, family party by day; at night, crowds and the odd pickpocket. Carry little and keep your phone zipped away.
-- **With kids:** mornings and early afternoons are perfect, ideally in costume.
+1. **Dress up.** In Cádiz at Carnival time everyone wears a costume: it's the norm.
+2. **Hush and listen to the coplas.** The jokes and the lyrics are what matter.
+3. **Don't expect Rio- or Tenerife-style floats.** Here wit and song rule.
+4. **Don't go without accommodation booked**, and don't drive at night: take the train or stay in the old town.
+5. **Be ready for the crowds** and a long night.
 
-## Tips for experiencing it
-
-1. **Dress up.** In Cádiz, at Carnival, everyone is in costume. It's part of the party.
-2. **Hush and listen to the songs.** The joke and the lyrics are what matter.
-3. **Head for the old town** (La Viña, Cathedral, Pópulo): that's where the street carnival is.
-4. **Pace yourself** for the crowds and the long nights.
-
-## Where to stay
-
-In the **old town** if you can find a room (and book early). If not, stay in **Jerez, El Puerto de Santa María or San Fernando** and come in by train, avoiding the city's peak prices. Staying in Jerez also gives you a sherry plan for the morning after.
-
-[actividad: bodegas-fundador-jerez-cata]
-
-## What we don't recommend
-
-1. **Going without booked accommodation.** You'll be left without a bed or pay a fortune.
-2. **Expecting Rio- or Tenerife-style floats.** Here it's the song and the wit that rule.
-3. **Going without a costume.** You'll stand out.
-4. **Driving into Cádiz.** Take the train or stay in the old town.
-5. **Only going on the first weekend.** It's the most crowded; weekdays are better for listening.
-
-## In one sentence
-
-The Cádiz Carnival is a city in costume laughing at everything through song, from 4 to 14 February 2027: combine the Falla with the free street carnival, dress up and book your bed very early. It's the most festive face of [Cádiz in one day](/en/guides/cadiz/cadiz-in-one-day).
+If you stay an extra day, the calmer city is in [Cádiz in one day](/en/guides/cadiz/cadiz-in-one-day).

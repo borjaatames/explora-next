@@ -27,22 +27,23 @@ slugs:
   it: grotta-di-nerja-biglietti
   pt: gruta-de-nerja-bilhetes
 reservasArriba: true
-respuestaCorta: 'Il biglietto costa **16 € online** e **18 € in biglietteria** per gran parte dell’anno, e **18 € / 20 €** in estate, a Natale, nei ponti e a Pasqua. Si compra su `entradas.cuevadenerja.es`. La grotta apre alle **9:15**, ultimo ingresso alle **15:30** (16:30 in alta stagione), e con il biglietto il **Museo di Nerja è gratis**. Da Malaga si arriva con l’**autobus ALSA** o con un’**escursione con ingresso incluso** da 69 €.'
+intro: 'Prima di comprare i **biglietti della Grotta di Nerja**, conviene sapere cosa ti aspetta: una grotta di **stalattiti e colonne illuminate** che si percorre in circa 45 minuti tra scale e passerelle, accanto al paese di Maro, a circa 4 km da Nerja e 60 km da Malaga. Il biglietto include il **Museo di Nerja**, che spiega le pitture e i resti trovati nella grotta. Quasi sempre si entra in giornata.'
+respuestaCorta: 'I **biglietti della Grotta di Nerja** costano **16 € online** e **18 € in biglietteria** per gran parte dell''anno, e **18 € / 20 €** in estate, a Natale, nei ponti e a Pasqua, su entradas.cuevadenerja.es. Apre alle **9:15**; ultimo ingresso alle **15:30** (16:30 in alta stagione). Include il **Museo di Nerja**. Da Malaga, autobus **ALSA**.'
 actividades:
   - cuevas-nerja-entrada
   - cuevas-nerja-frigiliana-desde-malaga
   - nerja-frigiliana-excursion-privada-desde-malaga
 faq:
-- pregunta: Quanto costa la Grotta di Nerja nel 2026?
-  respuesta: 'Il biglietto intero (dai 14 anni) costa 16 € online e 18 € in biglietteria nel periodo normale, e 18 € e 20 € da giugno a settembre, a Natale, nei ponti e a Pasqua. Bambini da 6 a 11 anni 12-13 €, da 3 a 5 anni 5-6 €, sotto i 3 anni gratis. Over 65 e titolari della Carta Giovani Europea 14-15 €.'
-- pregunta: Bisogna prenotare in anticipo?
-  respuesta: 'Non è obbligatorio, ma online il biglietto costa 2 € in meno ed eviti la coda in biglietteria, che a metà mattina d’estate e a Pasqua si allunga. Le escursioni da Malaga di solito includono l’ingresso.'
+- pregunta: Quanto costa il biglietto della Grotta di Nerja nel 2026?
+  respuesta: L'intero (dai 14 anni) costa 16 € online e 18 € in biglietteria nel periodo normale, e 18 € e 20 € in estate (da giugno a settembre), a Natale, nei ponti e a Pasqua. Bambini dai 6 agli 11 anni, 12-13 €; dai 3 ai 5 anni, 5-6 €; sotto i 3, gratis. Over 65, famiglie numerose e Carné Joven, 14-15 €.
+- pregunta: Bisogna comprare il biglietto in anticipo?
+  respuesta: Non è obbligatorio, ma online costa 2 € in meno e salti la coda in biglietteria, che in estate e a Pasqua si allunga a metà mattina. Se vai con un'escursione da Malaga, di solito il biglietto è incluso.
 - pregunta: Che orari ha la Grotta di Nerja?
-  respuesta: 'Dalle 9:15 alle 16:30 (ultimo ingresso 15:30) per gran parte dell’anno, e dalle 9:15 alle 17:30 (ultimo ingresso 16:30) da giugno a settembre, a Natale, nei ponti e a Pasqua. Chiusa il 1° e il 6 gennaio, il 15 maggio e il 25 dicembre.'
+  respuesta: Dalle 9:15 alle 16:30 (ultimo ingresso alle 15:30) per gran parte dell'anno, e dalle 9:15 alle 17:30 (ultimo ingresso alle 16:30) da giugno a settembre, a Natale, nei ponti e a Pasqua. Chiude il 1° e il 6 gennaio, il 15 maggio e il 25 dicembre.
 - pregunta: Il Museo di Nerja è incluso?
-  respuesta: 'Sì. Con il biglietto della grotta l’ingresso al Museo di Nerja, in plaza de España in paese, è gratuito, così come la sala di realtà virtuale.'
-- pregunta: Come si arriva alla grotta da Malaga senza auto?
-  respuesta: 'Con l’autobus ALSA dalla stazione degli autobus di Malaga a Nerja (da un’ora a quasi due, secondo la corsa). La grotta è a circa 4 km dal centro, vicino a Maro: gli autobus ALSA da Nerja a Maro fermano all’incrocio della strada per la grotta, oppure c’è il taxi.'
+  respuesta: Sì. Con il biglietto della grotta, il Museo di Nerja, in plaza de España nel paese, è gratis. È inclusa anche la sala di realtà virtuale.
+- pregunta: Come si arriva alla Grotta di Nerja da Malaga senza auto?
+  respuesta: 'Con l''autobus ALSA dalla stazione degli autobus di Malaga fino a Nerja (tra 1 ora e quasi 2, a seconda della corsa). La grotta è a circa 4 km dal centro, vicino a Maro: gli autobus ALSA da Nerja a Maro fermano all''incrocio con la strada della grotta, oppure prendi un taxi.'
 opciones:
   - ficha: cuevas-nerja-entrada
     etiqueta: Solo ingresso
@@ -52,76 +53,59 @@ opciones:
     etiqueta: Privata
 ---
 
-La Grotta di Nerja è una delle visite più semplici della Costa del Sol: non ha posti contingentati come l’Alhambra o il Caminito del Rey e quasi sempre si entra in giornata. Quello che cambia è il prezzo, secondo dove compri e in che periodo vai, e come arrivarci da Malaga senza auto. Abbiamo verificato tutto sul sito ufficiale il 4 novembre 2026.
+## Cosa vedrai
 
-## Quale opzione scegliere?
+- **La grotta:** un percorso di circa **45 minuti** tra stalattiti e colonne illuminate, con scale e passerelle. Dentro fa fresco tutto l'anno e il pavimento può essere umido: porta **scarpe chiuse**.
+- **Il Museo di Nerja**, incluso nel biglietto: è in plaza de España nel paese, accanto al Balcón de Europa, e spiega le pitture e i resti trovati nella grotta. È inclusa anche la **sala di realtà virtuale**.
+- **Audioguida:** si scarica gratis dall'app ufficiale. Se preferisci un dispositivo, costa 2 € alla grotta.
 
-| Se cerchi… | Opzione | Da |
-| --- | --- | --- |
-| Andare da solo con audioguida | [Biglietto Grotta di Nerja con audioguida](/it/cities/malaga/activities/biglietto-grotta-di-nerja-audioguida), 4,6★ (2.107) | 15,50 € |
-| Il trasporto da Malaga | [Grotta di Nerja, Nerja e Frigiliana in un giorno](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga), 4,6★ (3.192) | 69 € |
-| Solo il vostro gruppo | [Escursione privata a Nerja e Frigiliana con la grotta](/en/cities/malaga/activities/nerja-frigiliana-private-day-trip-from-malaga) | 700 € a gruppo |
+Non ha contingenti stretti come l'Alhambra o il Caminito del Rey. Dati verificati sul sito ufficiale il 4 novembre 2026.
 
-Le pagine di prenotazione delle due escursioni sono in inglese.
+## Grotta di Nerja: prezzi 2026 (online costa meno)
 
-## Prezzi 2026: online costa meno
-
-La vendita ufficiale è su `entradas.cuevadenerja.es`. Ci sono due periodi di prezzo: il **periodo 1** (gran parte dell’anno) e il **periodo 2** (da giugno a settembre, Natale, ponti e Settimana Santa, dal Venerdì di Dolori alla domenica di Pasqua).
+La vendita ufficiale è su **entradas.cuevadenerja.es**. Ci sono due periodi: il **periodo 1** (gran parte dell'anno) e il **periodo 2** (da giugno a settembre, Natale, ponti e Settimana Santa, dal Venerdì dell'Addolorata alla domenica di Pasqua).
 
 | Biglietto | Online P1 | Online P2 | Biglietteria P1 | Biglietteria P2 |
 | --- | --- | --- | --- | --- |
 | Intero (dai 14 anni) | 16 € | 18 € | 18 € | 20 € |
-| Over 65, famiglie numerose, Carta Giovani Europea, disabilità | 14 € | 15 € | 14 € | 15 € |
+| Over 65, famiglie numerose, Carné Joven, disabilità | 14 € | 15 € | 14 € | 15 € |
 | Junior (12-13 anni) | 13 € | 14 € | 13 € | 14 € |
 | Bambino (6-11 anni) | 12 € | 13 € | 12 € | 13 € |
 | Mini (3-5 anni) | 5 € | 6 € | 5 € | 6 € |
 | Neonati (0-2 anni) | Gratis | Gratis | Gratis | Gratis |
 
-- **L’intero online costa 2 € in meno.** Le altre tariffe sono uguali ovunque.
-- **L’audioguida** si scarica gratis con l’app ufficiale. Il dispositivo costa 2 € alla grotta.
-- **Il Museo di Nerja è incluso.** È in plaza de España, vicino al Balcón de Europa, e con il biglietto della grotta entri gratis. Inclusa anche la sala di realtà virtuale.
+**L'intero costa 2 € in meno online.** Le altre tariffe hanno lo stesso prezzo.
 
 ## Orari e giorni di chiusura
 
-- **Periodo 1:** dalle 9:15 alle 16:30. Ultimo ingresso alle 15:30.
-- **Periodo 2** (estate, Natale, ponti e Settimana Santa): dalle 9:15 alle 17:30. Ultimo ingresso alle 16:30.
-- **Chiusa** il 1° e il 6 gennaio, il 15 maggio (festa locale) e il 25 dicembre.
-
-La visita dura circa **45 minuti** su un percorso con scale e passerelle. Dentro fa fresco tutto l’anno e il pavimento può essere umido: meglio scarpe chiuse.
+- **Periodo 1:** dalle 9:15 alle 16:30. **Ultimo ingresso alle 15:30.**
+- **Periodo 2** (estate, Natale, ponti e Pasqua): dalle 9:15 alle 17:30. **Ultimo ingresso alle 16:30.**
+- **Chiusa** il 1° e il 6 gennaio, il **15 maggio** (San Isidro, festa locale) e il 25 dicembre.
 
 ## I biglietti si esauriscono?
 
-Raramente. In estate, a Pasqua e nei ponti si allunga soprattutto la coda in biglietteria a metà mattina, quando arrivano i pullman delle escursioni. Per evitarla:
+Raramente del tutto, e quasi sempre si entra in giornata. In estate, a Pasqua e nei ponti però **la coda in biglietteria cresce a metà mattina**, quando arrivano i pullman delle escursioni. Per evitarla:
 
-1. **Compra online:** risparmi 2 € e salti la coda.
-2. **Arriva presto** (apre alle 9:15) o dopo pranzo.
-3. **Non arrivare all’ultimo ingresso.** Alle 15:30 (16:30 in estate) chiude l’accesso, non la grotta.
+1. **Compra il biglietto online**: risparmi 2 € e la coda.
+2. **Vai all'apertura** (alle 9:15) o dopo pranzo.
+3. **Non arrivare proprio all'ultimo ingresso.** Alle 15:30 (16:30 in estate) chiude l'accesso, non la grotta.
 
-## Come arrivare da Malaga
+## Come arrivare alla Grotta di Nerja: autobus, auto o escursione
 
-**In autobus.** ALSA collega la stazione degli autobus di Malaga (paseo de los Tilos) con Nerja. Il viaggio dura da un’ora a quasi due, secondo la corsa e le fermate. L’autobus arriva alla stazione di Nerja, a circa 4 km dalla grotta. Da lì gli autobus ALSA per **Maro** fermano all’incrocio della strada per la grotta, oppure c’è il taxi.
+**In autobus.** ALSA collega la stazione degli autobus di Malaga (paseo de los Tilos) con Nerja. Il viaggio dura **tra un'ora e quasi due**, a seconda della corsa. L'autobus arriva alla stazione di Nerja, a circa 4 km dalla grotta; da lì gli autobus ALSA per **Maro** fermano all'incrocio con la strada della grotta, oppure un breve tragitto in taxi.
 
-**In auto.** Circa 60 km sull’A-7. La grotta ha un parcheggio proprio, a pagamento al minuto.
+**In auto.** Circa **60 km sulla A-7**. La grotta ha un parcheggio proprio, a pagamento al minuto.
 
-**Con un’escursione.** La soluzione più comoda senza auto: l’[escursione Grotta di Nerja, Nerja e Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) include il trasporto da Malaga e l’ingresso, e aggiunge il Balcón de Europa e Frigiliana nella stessa giornata. In famiglia o in piccolo gruppo, l’[escursione privata](/en/cities/malaga/activities/nerja-frigiliana-private-day-trip-from-malaga) costa 700 € per 1 o 2 persone e 880 € per 4.
+**Con un'escursione.** La soluzione più comoda senza auto: l'escursione **Grotte di Nerja e Frigiliana da Malaga** include trasporto e biglietto (da 69 €) e aggiunge Balcón de Europa e Frigiliana nella stessa giornata. In privato, 700 € per 1 o 2 persone e 880 € per 4.
 
 [actividad: cuevas-nerja-frigiliana-desde-malaga]
 
-## Cos’altro vedere nei dintorni
+## Cos'altro vedere nei dintorni, e consigli
 
-- **Il Balcón de Europa**, il belvedere nel centro di Nerja, e la spiaggia di Burriana.
-- **Frigiliana**, uno dei pueblos blancos più belli dell’Axarquía, a 7 km.
+- **Il Balcón de Europa**, il belvedere del centro di Nerja, e la spiaggia di Burriana.
+- **Frigiliana**, uno dei paesi bianchi più belli dell'Axarquía, a 7 km.
 - **Maro** e le sue calette, accanto alla grotta.
 
-Per confrontare Nerja con Ronda, Granada o il Caminito, guarda le nostre [gite da Malaga](/it/guides/malaga/gite-da-malaga), e per capire cosa conviene secondo quanti siete, [escursione privata o di gruppo da Malaga](/it/guides/malaga/escursione-privata-o-di-gruppo-da-malaga).
+Evita di comprare in biglietteria a metà mattina d'estate (paghi 2 € in più e fai la coda), di andare il 15 maggio, di saltare il Museo di Nerja o di andare in infradito: ci sono molti gradini e zone umide.
 
-## Errori da evitare
-
-1. **Comprare in biglietteria a metà mattina d’estate.** Paghi 2 € in più e fai la coda.
-2. **Andare il 15 maggio.** È festa locale e la grotta è chiusa.
-3. **Saltare il Museo di Nerja.** È incluso e racconta i ritrovamenti della grotta.
-4. **Andare in infradito.** Ci sono molti gradini e tratti umidi.
-
-## In una frase
-
-Compra il biglietto online su `entradas.cuevadenerja.es` (16 €, o 18 € in alta stagione), arriva presto e sfrutta il Museo di Nerja incluso; senza auto, l’escursione da Malaga con Frigiliana risolve tutta la giornata.
+Per confrontare Nerja con Ronda, Granada o il Caminito, le trovi tutte in [gite da Malaga](/it/guides/malaga/gite-da-malaga), e in [escursione privata o di gruppo da Malaga](/it/guides/malaga/escursione-privata-o-di-gruppo-da-malaga) cosa conviene in base a quanti siete.

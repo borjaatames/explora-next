@@ -4,7 +4,7 @@ descripcion: 'Se il tuo orario al Guggenheim risulta pieno o la coda in bigliett
 categoria: bilbao
 slug: guggenheim-bilbao-biglietti-esauriti
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
@@ -26,20 +26,23 @@ slugs:
   it: guggenheim-bilbao-biglietti-esauriti
   pt: guggenheim-bilbao-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Il Guggenheim raramente si esaurisce del tutto: di solito si riempie **l''orario che volevi** o c''è coda in biglietteria nei fine settimana e nei giorni di pioggia. Prova un altro orario sul sito ufficiale `guggenheim-bilbao.eus` (**12 €**, audioguida inclusa) o vai a prima ora. Se non vuoi rischiare, una **visita guidata con biglietto** (da 49 €) ti assicura l''ingresso.'
+intro: 'Trovare i **biglietti del Guggenheim Bilbao esauriti** per tutta la giornata è raro: di solito si riempie solo la tua fascia oraria o c''è coda in biglietteria. Vale la pena insistere. L''edificio in titanio sulla ria del Nervión custodisce la collezione e le mostre temporanee, e fuori ti accolgono **Puppy**, il ragno gigante **Maman** e la scultura di nebbia, visibili gratis.'
+respuestaCorta: 'Se i **biglietti del Guggenheim Bilbao risultano esauriti**, quasi sempre è solo la tua fascia oraria. Prova un altro orario sul sito ufficiale guggenheim-bilbao.eus (**12 €**, audioguida inclusa) o vai in biglietteria alle **10:00**. Chiude il **lunedì**, salvo quelli indicati. Una **visita guidata con biglietto** (da 49 €) ti garantisce l''ingresso.'
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido
   - guggenheim-bilbao-visita-privada-guia-entrada
 faq:
-- pregunta: Si possono comprare i biglietti del Guggenheim in biglietteria il giorno stesso?
-  respuesta: 'Sì, finché c''è posto. Le biglietterie chiudono mezz''ora prima della chiusura del museo, cioè alle 18:30 in orario normale. Nei fine settimana, a Pasqua, d''estate e nei giorni di pioggia è meglio avere il biglietto già comprato sul sito ufficiale.'
+- pregunta: Si possono comprare i biglietti del Guggenheim in biglietteria lo stesso giorno?
+  respuesta: Sì, finché ci sono posti. Le biglietterie chiudono mezz'ora prima del museo, cioè alle 18:30 in orario normale. Nei fine settimana, a Pasqua, in estate e nei giorni di pioggia è meglio comprare il biglietto in anticipo sul sito ufficiale.
 - pregunta: Che giorno chiude il Guggenheim Bilbao?
-  respuesta: 'Chiude il lunedì, tranne alcuni lunedì indicati: nel 2026 ha aperto i lunedì di Pasqua, quelli estivi tra il 15 giugno e il 7 settembre e il 12 ottobre, e aprirà ancora il 7 e il 28 dicembre. Chiude tutto il giorno il 25 dicembre e il 1° gennaio.'
-- pregunta: Si può cambiare o farsi rimborsare il biglietto del Guggenheim?
-  respuesta: 'Il museo indica che non rimborsa l''importo dei biglietti già emessi. Se non hai chiara la data, aspetta di averla definita prima di comprare, oppure scegli una visita guidata di un operatore la cui scheda permetta di cancellare.'
+  respuesta: 'Il lunedì, salvo alcuni lunedì indicati: nel 2026 ha aperto i lunedì di Pasqua, i lunedì estivi dal 15 giugno al 7 settembre e il 12 ottobre, e aprirà ancora il 7 e il 28 dicembre. Resta chiuso tutto il giorno il 25 dicembre e il 1° gennaio.'
+- pregunta: Si può cambiare o rimborsare il biglietto del Guggenheim?
+  respuesta: Il museo indica che non rimborsa i biglietti già emessi. Se la data non è sicura, aspetta prima di comprare, oppure scegli una visita guidata di un operatore che consenta la cancellazione.
 - pregunta: Si possono vedere opere del Guggenheim senza biglietto?
-  respuesta: 'Sì. Puppy, di Jeff Koons, è nella piazza dell''ingresso, e Maman, di Louise Bourgeois, la scultura di nebbia di Fujiko Nakaya e Tall Tree & The Eye, di Anish Kapoor, si vedono dalla passeggiata lungo la ría. La nebbia esce ogni ora in punto per otto minuti.'
+  respuesta: Sì. Puppy, di Jeff Koons, è nella piazza dell'ingresso, e Maman, di Louise Bourgeois, la scultura di nebbia di Fujiko Nakaya e Tall Tree & The Eye, di Anish Kapoor, si vedono dalla passeggiata lungo la ria. La nebbia parte ogni ora in punto per otto minuti.
+- pregunta: C'è un giorno in cui l'ingresso costa meno?
+  respuesta: Sì. L'ultimo giorno di ogni mostra temporanea, dalle 16:00 alle 19:00, il biglietto è scontato del 50 %, anche se quel giorno di solito c'è più gente. I minori di 18 anni entrano sempre gratis.
 opciones:
   - ficha: guggenheim-bilbao-visita-guiada-entrada
     etiqueta: La meglio valutata
@@ -47,63 +50,57 @@ opciones:
     etiqueta: Gruppo ridotto
 ---
 
-Il Guggenheim Bilbao quasi mai resta senza posti per tutta la giornata. Quello che succede, soprattutto nei fine settimana, a Pasqua, d'estate e nei giorni di pioggia, è che **l'orario che volevi è già pieno** o che la coda in biglietteria si allunga a metà mattina. Nessuna delle due cose ti lascia senza museo. Queste sono le strade, nell'ordine in cui conviene provarle.
+## Biglietti esauriti: prova un altro orario sul sito ufficiale
 
-## Quale opzione scegliere?
+La vendita ufficiale è su **guggenheim-bilbao.eus**, e il museo consiglia di comprare solo lì per evitare truffe. Il Guggenheim non resta quasi mai senza posti per tutto il giorno: quello che si riempie, soprattutto nei fine settimana, a Pasqua, in estate e nei giorni di pioggia, è **l'orario che volevi**.
 
-| Se cerchi… | Opzione | Da |
-| --- | --- | --- |
-| La meglio valutata, in spagnolo | [Visita guidata al Guggenheim con biglietto](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish), 4,9★ (182) | 49 € |
-| Piccolo gruppo e più tempo con la guida | [Visita VIP in gruppo ridotto con biglietto](/it/cities/bilbao/activities/guggenheim-bilbao-tour-vip-piccolo-gruppo), 4,5★ (763) | 95 € |
+- **Guarda altri orari dello stesso giorno.** Al mattino presto o nel tardo pomeriggio di solito c'è più posto che tra le 11:00 e le 14:00.
+- **Compra quando hai la data sicura:** il museo **non rimborsa i biglietti già emessi**.
 
-## 1. Ricontrolla il sito ufficiale
+## Prezzi e orari
 
-La vendita ufficiale è su `guggenheim-bilbao.eus`. Il museo consiglia di comprare solo lì per evitare frodi con i biglietti. Il giorno in cui l'abbiamo verificato, il biglietto intero costava **12 €** e il ridotto **6 €** (studenti dai 18 ai 26 anni, over 65 e pensionati, con documento in biglietteria). I **minori di 18 anni entrano gratis**, e **tutti i biglietti includono l'audioguida**. La tariffa può variare in base alle mostre, quindi guarda il prezzo del giorno che scegli.
+Il giorno in cui abbiamo verificato:
 
-- **Prova altri orari dello stesso giorno.** Se il tuo è pieno, a prima ora o nel tardo pomeriggio di solito c'è più posto che tra le 11:00 e le 14:00.
-- **Tieni conto dell'orario:** da martedì a domenica, dalle **10:00 alle 19:00**. A Pasqua e d'estate (dal 15 giugno al 13 settembre nel 2026) chiude alle **20:00**, e il 24 e il 31 dicembre alle **17:00**.
-- **Verifica che quel giorno sia aperto.** Chiude il **lunedì**, tranne quelli indicati: per il resto del 2026, il **7 e il 28 dicembre**. Chiude anche il **25 dicembre e il 1° gennaio**.
-- **Se vuoi abbinarlo al Museo di Belle Arti,** c'è un biglietto congiunto da **16 €** per adulti.
+- **Intero:** 12 €.
+- **Ridotto:** 6 €, per studenti dai 18 ai 26 anni, over 65 e pensionati, con documento in biglietteria.
+- **Gratis:** minori di 18 anni.
+- **Tutti i biglietti includono l'audioguida.** La tariffa può variare in base alle mostre: controlla il prezzo del giorno scelto.
+- **Biglietto combinato con il Museo di Belle Arti:** 16 € per gli adulti.
 
-Compra quando hai la data definita: il museo indica che **non rimborsa i biglietti già emessi**.
+**Orario:** da martedì a domenica, dalle **10:00 alle 19:00**. A Pasqua e in estate (dal 15 giugno al 13 settembre nel 2026) chiude alle **20:00**, e il 24 e il 31 dicembre alle **17:00**.
 
-## 2. La biglietteria del museo
+**Chiuso il lunedì**, salvo quelli indicati nel calendario: per il resto del 2026, il **7 e il 28 dicembre**. Chiude anche il **25 dicembre e il 1° gennaio**.
 
-Se non trovi un orario online, puoi provare in biglietteria, che vende finché c'è posto. Chiude **mezz'ora prima del museo** (alle 18:30 in orario normale) e le sale vengono sgomberate un quarto d'ora prima della chiusura. In alta stagione, vai all'apertura delle 10:00: è il momento con meno gente.
+## Coda alla biglietteria del Guggenheim: quando andare
 
-Un trucco per chi ha poco budget: l'**ultimo giorno di ogni mostra temporanea**, dalle **16:00 alle 19:00**, il biglietto ha uno **sconto del 50 %**. Certo, quel giorno di solito c'è più gente.
+Se online non trovi un orario, la biglietteria vende finché ci sono posti. Chiude **mezz'ora prima del museo** (alle 18:30 in orario normale) e le sale si svuotano un quarto d'ora prima della chiusura. In alta stagione vai all'**apertura delle 10:00**: è il momento con meno gente.
 
-## 3. Le opere gratuite all'esterno
+Un trucco per chi è al limite: l'**ultimo giorno di ogni mostra temporanea**, dalle **16:00 alle 19:00**, il biglietto ha uno **sconto del 50 %**. Quel giorno, però, di solito c'è più gente.
 
-Anche se non riesci a entrare, la visita all'edificio non è persa. Diverse opere della collezione sono all'esterno e si vedono gratis:
+## Visita guidata con biglietto: la soluzione dell'ultimo minuto
 
-- **Puppy**, di Jeff Koons, il cane di fiori che accoglie nella piazza dell'ingresso.
-- **Maman**, il ragno gigante di Louise Bourgeois, sulla terrazza accanto alla ría.
-- **Scultura di nebbia**, di Fujiko Nakaya, anch'essa accanto alla ría: si attiva **ogni ora in punto per otto minuti**.
-- **Tall Tree & The Eye**, di Anish Kapoor, 73 sfere d'acciaio specchiato sopra la vasca.
+Quando il sito ufficiale non ha l'orario che cerchi, gli operatori spesso hanno posti perché prenotano le loro quote in anticipo. Paghi più del solo biglietto, ma entri con il gruppo a un'ora fissa e qualcuno ti spiega cosa stai guardando. La visita guidata con biglietto parte **da 49 €**, e quella VIP in piccolo gruppo **da 95 €**.
 
-Fare il giro del museo lungo la ría richiede mezz'ora, e dal ponte de La Salve hai la vista migliore sull'edificio.
-
-## 4. Una visita guidata con biglietto
-
-Quando il sito ufficiale non ha l'orario che cerchi, gli operatori di solito hanno posti perché prenotano i loro contingenti in anticipo. Paghi più del solo biglietto, ma entri con il gruppo a un orario fisso e qualcuno ti spiega cosa stai guardando:
-
-- **Visita guidata in spagnolo con biglietto (da 49 €):** la meglio valutata tra quelle che segnaliamo, con una guida che percorre le opere principali e l'edificio.
-- **Visita VIP in gruppo ridotto con biglietto (da 95 €):** gruppi più piccoli, per fare domande con calma e muoversi meglio nelle sale.
-
-Prima di pagare, verifica che la scheda dica **«ingresso al museo incluso»** e guarda la politica di cancellazione: alcune visite percorrono solo l'esterno.
+Prima di pagare, controlla che la scheda dica **«ingresso al museo incluso»** e guarda la politica di cancellazione: alcune visite mostrano solo l'esterno.
 
 [actividad: guggenheim-bilbao-visita-guiada-entrada]
 
-[actividad: guggenheim-bilbao-vip-grupo-reducido]
+## Se non entri: le opere gratis all'esterno
 
-## Errori da evitare
+Anche senza biglietto, l'edificio non te lo perdi. Diverse opere della collezione sono all'aperto e si vedono gratis:
 
-1. **Comprare su siti che imitano quello ufficiale.** Lo stesso museo mette in guardia dalle frodi con i biglietti. Quello ufficiale è `guggenheim-bilbao.eus`.
-2. **Andarci di lunedì senza controllare.** Chiude quasi tutti i lunedì dell'anno; apre solo quelli indicati nel suo calendario.
-3. **Arrivare alle 18:30 pensando di entrare.** La biglietteria ha già chiuso e le sale si svuotano alle 18:45.
-4. **Comprare senza avere la data chiara.** I biglietti emessi non vengono rimborsati.
+- **Puppy**, di Jeff Koons, il cane di fiori nella piazza dell'ingresso.
+- **Maman**, il ragno gigante di Louise Bourgeois, sulla terrazza accanto alla ria.
+- **Scultura di nebbia**, di Fujiko Nakaya, accanto alla ria: si attiva **ogni ora in punto per otto minuti**.
+- **Tall Tree & The Eye**, di Anish Kapoor, 73 sfere di acciaio a specchio sopra lo stagno.
 
-## In una frase
+Fare il giro del museo lungo la ria richiede **mezz'ora**, e dal **ponte de La Salve** hai la vista migliore sull'edificio.
 
-Se il tuo orario risulta pieno, provane un altro sul sito ufficiale o vai in biglietteria alle 10:00, e se non vuoi code prenota una visita guidata con ingresso incluso; intanto, Puppy, Maman e la nebbia si vedono gratis da fuori, e per organizzare il resto della giornata hai [Bilbao in un giorno](/it/guides/bilbao/bilbao-in-un-giorno) e le nostre [gite da Bilbao](/it/guides/bilbao/gite-da-bilbao).
+## Consigli ed errori da evitare
+
+1. **Comprare su siti che imitano quello ufficiale.** Il museo stesso mette in guardia dalle truffe. Il sito ufficiale è guggenheim-bilbao.eus.
+2. **Andare di lunedì senza controllare.** Chiude quasi tutti i lunedì dell'anno.
+3. **Arrivare alle 18:30 pensando di entrare.** La biglietteria è già chiusa e le sale si svuotano alle 18:45.
+4. **Comprare senza una data sicura.** I biglietti emessi non vengono rimborsati.
+
+Per organizzare il resto della giornata hai [Bilbao in un giorno](/it/guides/bilbao/bilbao-in-un-giorno) e le nostre [gite da Bilbao](/it/guides/bilbao/gite-da-bilbao).

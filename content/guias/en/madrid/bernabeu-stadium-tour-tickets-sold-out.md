@@ -5,14 +5,14 @@ metaTitle: 'Bernabéu Tour sold out: what to do'
 categoria: madrid
 slug: bernabeu-stadium-tour-tickets-sold-out
 fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/actividades/madrid/bernabeu-nuevo/bernabeu-tour-gradas-real-madrid.webp
 imagen_alt: Stands of the Santiago Bernabéu stadium with the Tour Bernabéu sign under the roof and the words Real Madrid picked out in the seats
-tiempo_lectura: 5
+tiempo_lectura: 4
 keywords:
 - bernabeu tour sold out
 - bernabeu stadium tour tickets
@@ -28,23 +28,24 @@ slugs:
   it: tour-bernabeu-biglietti-esauriti
   pt: tour-bernabeu-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'The **Bernabéu Tour Classic** costs **€37 online** and **€40 at the box office** on Real Madrid''s official site (`realmadrid.com`), with a fixed time slot and no changes or refunds. If your slot is sold out, try the **Flexible Time** ticket (€44), valid at any time on your chosen day, or the **Guided Tour** (€56), which has its own places. First of all, check for a **match**: on match days the tour closes 5.5 hours before kick-off and the dressing rooms and dugouts are shut.'
+intro: 'When the **Bernabéu tour is sold out**, it''s usually just some slots at weekends and on long weekends. The tour covers Real Madrid''s stadium on the Paseo de la Castellana, rebuilt between 2019 and 2024 with a retractable roof and a steel-slat façade. It includes the **club museum**, a **panoramic view** from the top of the stands, the **dressing rooms** and the **dugouts**, at your own pace in **one and a half to two hours**.'
+respuestaCorta: 'If the Bernabéu tour is sold out, try another slot, the **Flexible Time** ticket (€44, valid all day) or the **Guided Tour** (€56), which has its own places. The **Classic** costs **€37 online** and €40 at the ticket office, with no changes or refunds. Check first for a **match**: the tour closes five and a half hours before.'
 actividades:
   - bernabeu-ticket-acceso
   - bernabeu-visita-guiada
   - wanda-metropolitano-atletico-tour
   - tuk-tuk-bernabeu-milla-oro-madrid
 faq:
-  - pregunta: How much is the Bernabéu Tour in 2026?
-    respuesta: 'According to Real Madrid''s official site, the Classic Tour costs from €37 online and €40 at the box office; Classic with RM Games €59 (€62 at the box office); Classic Flexible Time €44 (€47); and the Guided Tour €56 (€59). Madridista Platinum and Premium members get reduced prices.'
-  - pregunta: Can you buy Bernabéu Tour tickets at the box office?
-    respuesta: 'Yes, but they cost €3 more than online and depend on space in that day''s slots. With an online ticket you go straight in through the Avenida de Concha Espina entrance without stopping at the box office. Over bank holidays and in peak season, buy in advance.'
-  - pregunta: What happens to the Bernabéu Tour on match days?
-    respuesta: 'The tour closes 5.5 hours before kick-off, and the dressing rooms and dugouts are closed on match day and the day before. Match dates are usually only confirmed 2 to 3 weeks ahead, so if you book earlier, check the fixture list once it is published.'
-  - pregunta: What are the Bernabéu Tour opening hours?
-    respuesta: 'It is open every day except 25 December and 1 January: Monday to Saturday 9am to 7pm, Sundays and public holidays 9:30am to 6:30pm. Hours are cut on match days. The official site announces partial closures of the dressing rooms, dugouts or viewpoint in advance.'
-  - pregunta: Can I change or refund a Bernabéu Tour ticket?
-    respuesta: 'No. Official tickets cannot be changed, modified, cancelled or refunded, and are only valid for the date and time chosen, except the Flexible Time ticket, which is valid all day. If you need flexibility, the guided tour we sell has free cancellation up to 24 hours before.'
+- pregunta: How much is the Bernabéu Tour in 2026?
+  respuesta: According to Real Madrid's official website, the Classic Tour costs from €37 online and €40 at the ticket office; the Classic with RM Games, €59 (€62 at the ticket office); the Classic Flexible Time, €44 (€47); and the Guided Tour, €56 (€59). Madridista Platinum and Premium members get reduced prices.
+- pregunta: Can you buy Bernabéu Tour tickets at the ticket office?
+  respuesta: Yes, but they cost €3 more than online and depend on there being space in that day's slots. With a ticket bought online you go straight in through Avenida de Concha Espina, without queuing at the ticket office. On long weekends and in high season, it's better to buy in advance.
+- pregunta: What happens to the Bernabéu Tour on match days?
+  respuesta: The tour closes five and a half hours before kick-off, and the dressing rooms and dugouts are closed on match day and the day before. Match dates are usually confirmed only 2 or 3 weeks in advance, so if you buy earlier, check the fixture list once it's published.
+- pregunta: What are the Bernabéu Tour opening hours?
+  respuesta: 'It''s open every day except 25 December and 1 January: Monday to Saturday from 9:00 to 19:00, and Sundays and public holidays from 9:30 to 18:30. On match days the hours are cut. The official website gives advance notice of partial closures of the dressing rooms, dugouts or viewpoint.'
+- pregunta: Can I change or refund my Bernabéu Tour ticket?
+  respuesta: No. The official ticket allows no changes, modifications, cancellations or refunds, and is only valid for the chosen date and time, except Flexible Time, which is valid all day. If you need flexibility, the guided tour we sell has free cancellation up to 24 hours before.
 opciones:
   - ficha: bernabeu-ticket-acceso
     etiqueta: The official ticket
@@ -56,92 +57,70 @@ opciones:
     etiqueta: From outside, by tuk-tuk
 ---
 
-The rebuilt Santiago Bernabéu is one of Madrid's most popular visits, and over bank holidays, school holidays and weekends some tour slots sell out. But at the Bernabéu the most common problem isn't capacity, it's the **fixture list**: on a match day the tour closes early and you lose the dressing rooms and dugouts. These are the options left, in the order worth trying them.
+## What you'll see on the Real Madrid stadium tour
 
-## What options are left?
+The stadium opened in 1947 and was given its big makeover between 2019 and 2024: an outer skin of steel slats, a **retractable roof** and a pitch that can be removed and stored under the stands. The tour includes:
 
-| If you want… | Option | From |
-| --- | --- | --- |
-| Another time that day | Official website, timed Classic Tour | €37 |
-| Not to be tied to a time | Classic Flexible Time, any time that day | €44 |
-| To buy on the spot | Stadium box office | €40 |
-| Free entry | There's no free tour | — |
-| The ticket, no guide | [Bernabéu Tour official ticket](/en/cities/madrid/activities/bernabeu-entry-ticket), 4.5★ (23,468) | €37 |
-| A guide and free cancellation | [Guided tour with an expert guide](/en/cities/madrid/activities/bernabeu-guided-tour), 4.1★ (1,532) | €58 |
-| Another Madrid stadium | [Riyadh Air Metropolitano tour](/en/cities/madrid/activities/wanda-metropolitano-atletico-tour), 4.7★ (2,188) | €25 |
-| The Bernabéu from outside | [Private tuk-tuk: Bernabéu and the Golden Mile](/en/cities/madrid/activities/tuk-tuk-bernabeu-golden-mile-madrid) | €79 per tuk-tuk |
+- **The club museum**, with its trophies.
+- **The panoramic view** from the top of the stands.
+- **The dressing rooms and dugouts**, when there's no match nearby.
 
-## 1. The official website: ticket types and prices
+You go at your own pace in **one and a half to two hours**. Note: the route has **many flights of stairs**.
 
-Official sales are on Real Madrid's website (`realmadrid.com`, Tour Bernabéu section). There are four tickets for the general public:
+## Bernabéu tour price and opening hours
 
-| Ticket | What it includes | Online | Box office |
+Official sales are on Real Madrid's website (realmadrid.com, Tour Bernabéu section). There are four tickets for the general public:
+
+| Ticket | What it includes | Online | Ticket office |
 | --- | --- | --- | --- |
 | Classic | Museum, panoramic view, dressing rooms and dugouts | €37 | €40 |
-| Classic + RM Games | The same plus the RM Games zone | €59 | €62 |
-| Classic Flexible Time | As Classic, at any time on your chosen day | €44 | €47 |
-| Guided Tour | As Classic, with a guide | €56 | €59 |
+| Classic + RM Games | The same plus the RM Games area | €59 | €62 |
+| Classic Flexible Time | Like the Classic, at any time on the chosen day | €44 | €47 |
+| Guided Tour | Like the Classic, with a guide | €56 | €59 |
 
-Tickets are **timed**: they're only valid for the date and slot you choose, except Flexible Time. And they **can't be changed or refunded**.
+Tickets **are timed**: they're only valid for the chosen date and slot, except Flexible Time. And **there are no changes or refunds**. There's no free tour; Madridista Platinum and Premium members get reduced prices.
 
-If your slot is sold out:
+**Opening hours:** every day except 25 December and 1 January; Monday to Saturday **9:00 to 19:00**, Sundays and public holidays **9:30 to 18:30**.
 
-- **Check other slots on the same day.** You go round at your own pace in an hour and a half to two hours, so going in at 4pm instead of 11am won't change your plans much.
-- **Check Flexible Time.** For €7 more you forget about slots: you walk in whenever you arrive that day.
-- **Check the Guided Tour.** It has its own departures and sometimes has space when the Classic is full.
+## If Bernabéu tour tickets are sold out
 
-**Hours:** every day except 25 December and 1 January; Monday to Saturday **9am-7pm**, Sundays and public holidays **9:30am-6:30pm**.
+On long weekends, school holidays and weekends some slots sell out. Try in this order:
 
-## 2. Match days
-
-This spoils more visits than capacity does:
-
-- **The tour closes 5.5 hours before kick-off.** A 9pm match leaves you until 3:30pm.
-- **Dressing rooms and dugouts are closed on match day and the day before.** The rest of the tour stays open.
-- **Exact match dates are only confirmed 2 to 3 weeks ahead.** If you book well in advance, check the fixtures once they're out.
-
-The official site lists specific closures. On 1 November 2026 it was announcing, for example, dressing rooms and dugouts closed on 5, 6, 9 and 10 November, and reduced hours of 9am-3:30pm on 21 and 24 November and 19 January.
-
-## 3. The box office
-
-The stadium box office sells same-day tickets **€3 dearer** than online, and only if there's space in the slot. With an online ticket (printed or on your phone) you go straight to the **Avenida de Concha Espina** entrance without queuing at the box office. Metro: Santiago Bernabéu, line 10.
-
-## 4. A reseller ticket or a guided tour
-
-If the official site won't give you the time you want, or you're wary of buying something you can't change:
-
-- **Official tour ticket (from €37):** the same price as the official one, self-guided, with the museum, dressing rooms and dugouts. Also non-refundable.
-- **Guided tour with a football expert (from €58):** 105 minutes to 2 hours with a radio headset, and **free cancellation up to 24 hours before**, which the official ticket doesn't offer. If your dates aren't fixed, it's the safest choice.
+1. **Other slots on the same day.** Since the tour takes one and a half to two hours, going in at 16:00 instead of 11:00 doesn't change your plans much.
+2. **Flexible Time.** For €7 more you forget about slots: you go in whenever you arrive that day.
+3. **The Guided Tour.** It has its own places and sometimes has space when the Classic is full.
+4. **The stadium ticket office**, which sells same-day tickets **€3 dearer**, and only if there's space.
+5. **A guided visit with a football expert (from €58):** 105 minutes to 2 hours, with a radio guide and **free cancellation up to 24 hours before**, which the official ticket doesn't offer. It's the most relaxed option if your dates aren't fixed.
 
 [actividad: bernabeu-visita-guiada]
 
-[actividad: bernabeu-ticket-acceso]
+If you can't get anything, the **Riyadh Air Metropolitano tour**, Atlético de Madrid's stadium (from €25), includes an interactive museum, dressing rooms and the presidential box. And to see the Bernabéu **from outside**, there's a 1 h 15 min private electric tuk-tuk ride through Cibeles, Colón, AZCA, the stadium, the Salamanca district and the Retiro, from €79 per tuk-tuk (up to 4 people).
 
-## 5. If you can't get in: alternatives
+## Bernabéu tour on match days
 
-- **The Riyadh Air Metropolitano tour**, Atlético de Madrid's stadium (from €25): an interactive museum, dressing rooms and the presidential box.
-- **The Bernabéu from outside** in a private electric tuk-tuk: 1 hr 15 min past Cibeles, Colón, AZCA, the stadium, the Salamanca district and the Retiro, from €79 per tuk-tuk (up to 4 people). It doesn't go inside the stadium.
+This spoils the visit more than capacity does:
 
-[actividad: wanda-metropolitano-atletico-tour]
+- **The tour closes five and a half hours before the match.** A 21:00 kick-off leaves you until 15:30.
+- **Dressing rooms and dugouts close on match day and the day before.** The rest of the tour stays open.
+- **Exact dates are only confirmed 2 or 3 weeks ahead.** If you buy well in advance, check the fixture list once it's published.
 
-[actividad: tuk-tuk-bernabeu-milla-oro-madrid]
+The official website publishes specific closures. On 1 November 2026, for example, it listed dressing rooms and dugouts closed on 5, 6, 9 and 10 November, and reduced hours from 9:00 to 15:30 on 21 and 24 November and 19 January.
 
-## When it sells out and how far ahead to book
+## Getting there and how far ahead to buy
 
-The official site doesn't say how far ahead sales open or flag sold-out slots. This is our advice:
+**Metro:** Santiago Bernabéu, line 10. With an online ticket (printed or on your phone) you go straight to the **Avenida de Concha Espina** entrance, skipping the ticket office.
 
-- **Bank holidays, Easter, Christmas and summer:** book one or two weeks ahead, but wait until the fixture list is confirmed.
-- **Weekends without a match:** a few days ahead is usually enough.
-- **Weekdays outside school holidays:** there's usually space even on the day.
+The official website doesn't say how many days ahead sales open, nor does it flag sold-out slots. Our advice:
+
+- **Long weekends, Easter, Christmas and summer:** one or two weeks ahead, but wait until the fixture list is confirmed.
+- **Saturdays and Sundays with no match:** a few days is usually enough.
+- **Weekdays outside holidays:** there's usually space even on the day.
 
 ## Common mistakes
 
-1. **Booking without checking the fixtures.** You could miss the dressing rooms and dugouts, and the ticket can't be changed.
-2. **Counting on changing the date.** Official tickets can't be changed or refunded.
-3. **Arriving late for your slot with a Classic ticket.** It's only valid at your time; if you can't be sure of the time, buy Flexible.
-4. **Underestimating the stairs.** The official site warns that the route has many flights of stairs.
-5. **Paying at the box office what costs less online.** It's €3 more per person.
+1. **Buying without checking the fixture list.** You may miss the dressing rooms and dugouts, and the ticket can't be changed.
+2. **Arriving late for your slot with a Classic ticket.** It's only valid for your time; if you can't be sure, buy Flexible.
+3. **Underestimating the stairs.**
+4. **Paying at the ticket office what costs less online:** it's €3 more per person.
 
-## In a nutshell
-
-If the Bernabéu Tour is sold out, try another time, Flexible Time or the Guided Tour on the official site, always check the fixtures, and if you need to be able to cancel, the guided tour from €58 allows it up to 24 hours before. To fit it into your trip, see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days).
+To fit the visit into your trip, see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days).

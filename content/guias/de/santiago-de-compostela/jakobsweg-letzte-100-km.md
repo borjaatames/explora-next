@@ -2,17 +2,18 @@
 titulo: "Jakobsweg letzte 100 km: ab Sarria, Etappen, Pilgerausweis und Compostela"
 descripcion: "Jakobsweg letzte 100 km: ab Sarria in 5 Etappen (ca. 114 km, 5–7 Tage), Pilgerausweis mit 2 Stempeln am Tag, Compostela gratis, Kosten und Packliste."
 metaTitle: "Jakobsweg letzte 100 km ab Sarria"
-respuestaCorta: 'Für die Compostela musst du **mindestens die letzten 100 km** bis Santiago zu Fuß gehen (200 km mit dem Fahrrad) und deinen Pilgerausweis **zweimal am Tag** stempeln lassen. Am häufigsten startet man in **Sarria**, etwa 114 km und fünf Etappen entfernt, die du in 5–7 Tagen schaffst. Die Compostela ist im Pilgerbüro **kostenlos**; die Entfernungsurkunde kostet 3 €.'
+intro: 'Die **letzten 100 km des Jakobswegs** zu gehen ist die beliebteste Art, ihn zu erleben und die **Compostela** zu bekommen, ohne wochenlang Zeit zu haben: Es ist die Mindeststrecke zu Fuß, die die Kathedrale für die Urkunde verlangt. Ab **Sarria** auf dem Camino Francés sind es fünf Etappen durch galicische Weiler, Wälder und Dörfer bis zur Praza do Obradoiro, machbar für fast jeden mit etwas Vorbereitung.'
+respuestaCorta: 'Für die Compostela musst du mindestens die **letzten 100 km des Jakobswegs** gehen (200 km mit dem Rad) und den Pilgerausweis **zweimal täglich** stempeln lassen. Meist startet man in **Sarria**, etwa 114 km und fünf Etappen entfernt, in 5-7 Tagen. Die Compostela ist im Pilgerbüro **kostenlos**; die Distanzurkunde kostet 3 €.'
 categoria: "santiago-de-compostela"
 slug: "jakobsweg-letzte-100-km"
 fecha: "2026-05-11"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/camino-de-santiago-ultimos-100-km.jpg"
 imagen_alt: "Rúa do Franco mit der Kathedrale von Santiago im Hintergrund"
-tiempo_lectura: 6
+tiempo_lectura: 4
 keywords:
   - "jakobsweg letzte 100 km"
   - "jakobsweg ab sarria"
@@ -33,35 +34,32 @@ actividades:
   - excursion-finisterre-muxia-costa-da-morte
   - santiago-portico-gloria-catedral-tour
 reservasArriba: true
+faq:
+- pregunta: Wo muss man starten, um die Compostela zu bekommen?
+  respuesta: Man muss mindestens 100 km gehen (200 km mit dem Rad). Auf dem Camino Francés startet man meist in Sarria (~114 km), auf dem Portugiesischen Weg in Tui (~118 km) und auf dem Englischen Weg in Ferrol (~118 km). Ab A Coruña sind es 75 km, das reicht nicht.
+- pregunta: Wie viele Tage braucht man von Sarria nach Santiago?
+  respuesta: Es sind fünf Etappen (Portomarín, Palas de Rei, Arzúa, O Pedrouzo und Santiago), die man in 5-7 Tagen geht. Die dritte mit 29 km kann man teilen.
+- pregunta: Wie viele Stempel braucht man im Pilgerausweis?
+  respuesta: Auf den letzten 100 km zwei Stempel pro Tag, die es in Bars, Herbergen und Kirchen gibt. Ohne sie gibt es keine Compostela.
+- pregunta: Was kosten die letzten 100 km des Jakobswegs?
+  respuesta: Zwischen 35 und 45 € pro Tag mit Herbergen und 60-80 € mit eigenem Zimmer. Die öffentliche Herberge kostet 10 €, die private 15-22 € und ein Doppelzimmer in der Pension 40-70 €; das Pilgermenü 12-15 €.
+- pregunta: Wo bekommt man die Compostela?
+  respuesta: 'Im Pilgerbüro (Rúa das Carretas, 33), täglich 10:00-18:00 Uhr geöffnet außer am 25. Dezember und 1. Januar, an denen sie in der Kathedrale ausgegeben wird. Es funktioniert mit einer Nummer per QR-Code: bei Ankunft ziehen und zur angegebenen Zeit wiederkommen.'
 ---
 
-**Die letzten 100 km des Jakobswegs zu gehen, ist die beliebteste Art, ihn zu erleben** und die Compostela zu bekommen, ohne wochenlang Zeit zu haben. Das ist die Mindeststrecke zu Fuß, die die Kathedrale für die Pilgerurkunde verlangt, und sie lässt sich in etwa **5–7 Tagen** bewältigen – mit etwas Grundvorbereitung für fast jeden machbar. Dieser Guide erklärt dir, wo du startest, wie die Etappen aussehen und was du brauchst, damit der Plan aufgeht.
-
-## Bei der Ankunft in Santiago
-
-| Aktivität | Bewertung | Ab |
-| --- | --- | --- |
-| [Rundgang durch die Altstadt mit offiziellem Guide](/en/cities/santiago-de-compostela/activities/santiago-old-town-walking-tour) | 4,8★ (356) | 10 € |
-| [Führung durch Kathedrale und Museum ohne Anstehen](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4,7★ (2.454) | 25 € |
-| [Finisterre, Muxía und die Costa da Morte](/en/cities/santiago-de-compostela/activities/finisterre-muxia-costa-da-morte-day-trip) | 4,7★ (2.372) | 52 € |
-
-Das Wichtigste: Wähle den Startpunkt passend zur Route, lass deinen **Pilgerausweis (Credencial)** stempeln und genieße den Weg als das, was er ist – ein Erlebnis, kein Wettrennen.
-
-[actividad: tour-a-pie-casco-antiguo-santiago]
-
-## Wo du für die Compostela startest
+## Wo du startest: der Jakobsweg ab Sarria, Tui oder Ferrol
 
 | Route | Start | Entfernung |
 | --- | --- | --- |
-| Camino Francés | Sarria | ca. 114 km |
-| Camino Portugués | Tui | ca. 118 km |
-| Camino Inglés | Ferrol | ca. 118 km |
+| Camino Francés | **Sarria** | ~114 km |
+| Portugiesischer Weg | Tui | ~118 km |
+| Englischer Weg | Ferrol | ~118 km |
 
-> **⚠️ Hinweis:** Für die Compostela musst du **mindestens 100 km** zu Fuß gehen (oder 200 km mit dem Fahrrad). Deshalb ist **Sarria** der beliebteste Startpunkt auf dem Camino Francés: Es liegt knapp über dem Minimum. Achtung: A Coruña reicht für den Camino Inglés nicht (75 km); du musst in Ferrol starten.
+Für die Compostela musst du **mindestens 100 km** gehen (oder 200 km mit dem Rad). Deshalb ist **Sarria** der beliebteste Startpunkt des Camino Francés: knapp über dem Minimum. Achtung beim Englischen Weg: Ab A Coruña sind es 75 km, das reicht nicht; du musst in Ferrol starten.
 
-## Die Etappen ab Sarria (Camino Francés)
+## Die Etappen des Camino Francés ab Sarria
 
-| Etappe | Strecke | km ca. |
+| Etappe | Strecke | ca. km |
 | --- | --- | --- |
 | 1 | Sarria → Portomarín | 22 |
 | 2 | Portomarín → Palas de Rei | 25 |
@@ -69,59 +67,47 @@ Das Wichtigste: Wähle den Startpunkt passend zur Route, lass deinen **Pilgeraus
 | 4 | Arzúa → O Pedrouzo | 19 |
 | 5 | O Pedrouzo → Santiago | 20 |
 
-Fünf angenehme Etappen (die dritte kannst du teilen). Vom **Monte do Gozo**, 5 km vor Santiago, siehst du zum ersten Mal die Türme der Kathedrale.
+Fünf angenehme Etappen (die dritte kannst du teilen). Der **Monte do Gozo**, 5 km vor Santiago, schenkt dir den ersten Blick auf die Türme der Kathedrale.
+
+**Rhythmus:** Man geht von **7:00 bis 13:00 Uhr**, um der Hitze zu entgehen und anzukommen, bevor die Herbergen voll sind. Bei 4 km/h dauert eine 22-km-Etappe mit Pausen 5 Std. 30.
 
 ## Pilgerausweis und Compostela
 
-- **Pilgerausweis (Credencial del peregrino):** der „Pass“, in den die Stempel kommen. Auf den letzten 100 km brauchst du **zwei Stempel pro Tag** (Bars, Herbergen, Kirchen).
-- **Die Compostela:** Die Urkunde holst du im **Pilgerbüro (Oficina del Peregrino)** in der Rúa das Carretas in Santiago ab, indem du den gestempelten Pilgerausweis vorlegst.
+- **Pilgerausweis (Credencial):** der „Pass“, in den die Stempel kommen. Er kostet **2-3 €** und ist im Pilgerbüro in Santiago, in Pfarreien und Herbergen am Weg oder vorab bei den Jakobusgesellschaften erhältlich. In Sarria gibt es ihn im Kloster La Magdalena und in mehreren Herbergen. Ohne ihn kannst du nicht in öffentlichen Herbergen übernachten.
+- **Stempel:** Auf den letzten 100 km brauchst du **zwei pro Tag** (Bars, Herbergen, Kirchen).
+- **Die Compostela ist kostenlos;** die Distanzurkunde mit den Kilometern kostet 3 €. Abholung im **Pilgerbüro** (Rúa das Carretas, 33), täglich **10:00-18:00 Uhr**, außer am 25. Dezember und 1. Januar (dann in der Kathedrale). Es funktioniert mit einer Nummer per QR-Code: bei Ankunft ziehen und zur angegebenen Zeit wiederkommen.
+- **Pilgermesse:** Seit dem 16. Oktober 2026 finden die Messen um 12:00 und 19:30 Uhr bis auf Weiteres in der nahen Kirche San Agustín statt, wegen Bauarbeiten in der Hauptkapelle der Kathedrale. Die Kathedrale bleibt von 7:00 bis 21:00 Uhr kostenlos geöffnet; mehr in [Kathedrale von Santiago besichtigen](/de/guides/santiago-de-compostela/kathedrale-santiago-besichtigen).
 
-## Praktisches: Budget, Pilgerausweis und Anreise nach Sarria
+## Budget, Unterkunft und Anreise nach Sarria
 
-- **Tagesbudget:** öffentliche Herberge 10 € (ohne Reservierung, sie öffnen um 13:00 Uhr und füllen sich in der Reihenfolge der Ankunft); private Herberge 15–22 €; Pension oder Hostal 40–70 € für das Doppelzimmer. Pilgermenü 12–15 €, Frühstück 3–5 €. Insgesamt 35–45 € pro Tag in Herbergen und 60–80 € mit eigenem Zimmer.
-- **Der Pilgerausweis** kostet 2–3 € und ist im Pilgerbüro in Santiago, in Pfarreien und Herbergen entlang des Weges oder vor der Abreise bei den Jakobusgesellschaften erhältlich. In Sarria bekommst du ihn im Kloster La Magdalena und in mehreren Herbergen. Ohne ihn darfst du nicht in den öffentlichen Herbergen schlafen.
-- **Die Compostela ist kostenlos;** die Entfernungsurkunde mit den Kilometern kostet 3 €. Das Pilgerbüro (Rúa das Carretas, 33) ist täglich von 10:00 bis 18:00 Uhr geöffnet, außer am 25. Dezember und 1. Januar (an diesen Tagen wird die Compostela in der Kathedrale ausgegeben), und arbeitet mit einer Wartenummer per QR-Code: Hol sie dir bei der Ankunft und komm zu deiner Zeit zurück.
-- **Pilgermesse:** Seit dem 16. Oktober 2026 und bis auf Weiteres finden die Messen um 12:00 und 19:30 Uhr wegen Bauarbeiten in der Hauptkapelle der Kathedrale in der nahen Kirche San Agustín statt. Die Kathedrale ist weiterhin von 7:00 bis 21:00 Uhr kostenlos geöffnet; mehr in [Kathedrale von Santiago besichtigen](/de/guides/santiago-de-compostela/kathedrale-santiago-besichtigen).
-- **Anreise nach Sarria:** mit dem Zug ab Madrid (5–6 Stunden, je nach Tag mit Umstieg in Ourense oder direkt) oder ab Santiago und A Coruña mit Umstieg in Monforte; mit dem Bus ab Lugo (45 Minuten). Viele Pilger fliegen nach Santiago, lassen den Koffer in der Gepäckaufbewahrung und fahren mit dem Zug oder einem geteilten Taxi nach Sarria (etwa 90 € für das Taxi).
-- **Gepäcktransport:** 6–8 € pro Etappe; du gibst den Rucksack vor 8:00 Uhr an der Rezeption der Herberge ab, und er wird zur nächsten gebracht. Dafür musst du die Unterkunft am Etappenziel reservieren.
-- **Tempo und Zeiten:** Gelaufen wird von 7:00 bis 13:00 Uhr, um der Hitze zu entgehen und anzukommen, bevor die Herbergen voll sind. Bei 4 km/h dauert eine Etappe von 22 km mit Pausen 5 Std. 30 Min.
-- **Minimale Reiseapotheke:** Vaseline vor dem Losgehen auf die Füße, nahtlose Socken, Blasenpflaster (Compeed), Ibuprofen und Sonnenschutz. An jedem Etappenziel gibt es Apotheken.
+- **Tagesbudget:** zwischen **35 und 45 € pro Tag** in Herbergen und **60-80 €** mit eigenem Zimmer.
+  - Öffentliche Herberge: 10 € (ohne Reservierung; öffnen um 13:00 Uhr, Vergabe nach Ankunft).
+  - Private Herberge: 15-22 €. Pension oder Hostal: 40-70 € das Doppelzimmer.
+  - Pilgermenü: 12-15 €; Frühstück: 3-5 €.
+- **In der Saison reservieren:** Sarria als Massenstartpunkt ist schnell voll; reserviere mindestens die erste Nacht, in den kleinen Etappenorten ebenfalls.
+- **Gepäcktransport:** 6-8 € pro Etappe; den Rucksack vor 8:00 Uhr an der Rezeption abgeben, er wird zur nächsten Unterkunft gebracht. Die Zielunterkunft muss reserviert sein.
+- **Anreise nach Sarria:** mit dem Zug ab Madrid (5-6 Stunden, je nach Tag mit Umstieg in Ourense oder direkt) oder ab Santiago und A Coruña mit Umstieg in Monforte; mit dem Bus ab Lugo (45 Minuten). Viele Pilger fliegen nach Santiago, lassen den Koffer in der Gepäckaufbewahrung und fahren mit Zug oder Sammeltaxi nach Sarria (Taxi etwa 90 €).
 
-## Wann du gehen solltest
+## Reisezeit und Packliste
 
 | Zeit | Urteil |
 | --- | --- |
-| Mai–Juni und September | Ideal: gutes Wetter und Atmosphäre |
-| Juli und August | Heiß und sehr voll (Sarria ist ausgebucht) |
-| Oktober–April | Ruhig; Regen und manche Herberge geschlossen |
-| Heiliges Jahr (Xacobeo) | Mehr Pilger als je zuvor |
+| **Mai-Juni und September** | Ideal: gutes Wetter und Stimmung |
+| **Juli und August** | Heiß und sehr voll (Sarria ist ausgebucht) |
+| **Oktober-April** | Ruhig; Regen und einige Herbergen geschlossen |
+| **Heiliges Jahr (Xacobeo)** | Mehr Pilger als je zuvor |
 
-## Was du mitnehmen solltest
+- **Eingelaufene Schuhe:** keine neuen Stiefel auf dem Weg.
+- **Regenjacke oder Poncho:** In Galicien regnet es oft.
+- **Zwiebellook** und wenig Gewicht im Rucksack: Jedes Gramm macht sich nach ein paar Tagen bemerkbar.
+- **Erste Hilfe:** Vaseline für die Füße vor dem Start, nahtlose Socken, Blasenpflaster, Ibuprofen und Sonnencreme. An jedem Etappenziel gibt es eine Apotheke.
 
-- **Eingelaufene Schuhe** (trag auf dem Jakobsweg keine neuen Stiefel ein).
-- **Regenjacke oder Poncho**: In Galicien regnet es oft.
-- Kleidung im Zwiebelprinzip und wenig Gewicht im Rucksack.
-- Fußpflege: Vaseline, Tape, Funktionssocken.
+## Tipps und typische Fehler
 
-> **⭐ Tipp:** Es gibt **Gepäcktransport-Services** zwischen den Etappen, und in der Hochsaison solltest du die Unterkunft (private Herbergen) reservieren. Sarria ist als Massenstartpunkt schnell voll: Buch die erste Nacht.
+1. **Nicht in A Coruña starten und auf die Compostela hoffen:** Es sind nur 75 km.
+2. **Keine neuen Stiefel:** der Fehler, der die meisten Blasen verursacht.
+3. **Sarria im August nicht ohne Reservierung:** der vollste Start des Jahres.
+4. **Die zwei täglichen Stempel nicht vergessen** auf den letzten 100 km.
+5. **Vom ersten Tag an die Füße pflegen:** Blasen ruinieren den Jakobsweg.
 
-## Was wir NICHT empfehlen
-
-1. **In A Coruña starten und auf die Compostela hoffen.** Es sind 75 km; das reicht nicht für das Minimum.
-2. **Neue Stiefel einlaufen.** Der Fehler, der die meisten Blasen verursacht.
-3. **Im August ab Sarria gehen, ohne zu reservieren.** Das ist der vollste Start des Jahres.
-4. **Die zwei Stempel pro Tag vergessen** auf den letzten 100 km: Ohne sie gibt es keine Compostela.
-
-[actividad: catedral-santiago-museo-tour-guiado]
-
-## Typische Fehler
-
-> **⚠️ Hinweis:** die Fehler, die wir am häufigsten sehen.
-
-1. **Den Rucksack überladen.** Nach ein paar Tagen spürst du jedes Gramm.
-2. **In der Saison nicht reservieren.** In den kleinen Etappenorten stehst du ohne Bett da.
-3. **Die Fußpflege ignorieren.** Blasen ruinieren den Jakobsweg.
-
-## In einem Satz
-
-Die letzten 100 km des Jakobswegs – meist ab Sarria – sind fünf oder sechs Tage zu Fuß bis zur Kathedrale, mit gestempeltem Pilgerausweis und der Compostela als Belohnung. Das Ziel ist die Stadt, die du in [Santiago an einem Tag](/de/guides/santiago-de-compostela/santiago-in-einem-tag) kennenlernst.
+Das Ziel ist die Stadt aus unserem Guide [Santiago an einem Tag](/de/guides/santiago-de-compostela/santiago-in-einem-tag).

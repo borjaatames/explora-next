@@ -4,14 +4,15 @@ descripcion: "Bilbao with kids: the Artxanda funicular, Guggenheim sculptures, t
 categoria: "bilbao"
 slug: "bilbao-with-kids"
 fecha: "2026-04-15"
-fecha_actualizacion: "2026-10-23"
-respuestaCorta: 'Bilbao is easy with kids: flat along the river, with the **Artxanda funicular** (3 minutes up, every 15 minutes), the free **Guggenheim sculptures** outside and family beaches at **Plentzia and Gorliz** about 40 minutes away by metro line 1. Buy a **Barik card** (€3) on arrival; one card covers the whole family on metro, tram and funicular.'
+fecha_actualizacion: '2026-11-07'
+intro: 'Visiting **Bilbao with kids** is easy: the city is compact and flat along the river, with a simple metro and tram, parks to run around in and a **funicular** that climbs in three minutes to a viewpoint with a playground. The giant Guggenheim sculptures are free to see outside, the maritime museum is full of boats and cranes, and the **family beaches** are one metro ride away, no car needed.'
+respuestaCorta: '**Bilbao with kids** is easy: flat along the river, with the **Artxanda funicular** (3 minutes up, every 15 minutes), the Guggenheim sculptures free outside and family beaches at **Plentzia and Gorliz** about 40 minutes away by metro. Buy a **Barik card** (€3): one card covers the whole family.'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/bilbao-con-ninos.jpg"
 imagen_alt: Sightseeing boat on Bilbao's estuary
-tiempo_lectura: 10
+tiempo_lectura: 4
 keywords:
   - "bilbao with kids"
   - "bilbao with family"
@@ -30,77 +31,71 @@ actividades:
   - barco-ria-bilbao-portugalete
   - san-mames-museo-estadio-athletic
   - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
+faq:
+- pregunta: What is there to do in Bilbao with kids?
+  respuesta: Ride the Artxanda funicular up to the viewpoint with a playground, see the Guggenheim sculptures outside (Puppy and Maman), visit the Itsasmuseum with its boats and cranes, run around Doña Casilda park and spend a beach day at Plentzia or Gorliz by metro.
+- pregunta: How do you get to the beach from Bilbao with kids?
+  respuesta: Take metro line 1 to Plentzia, about 40 minutes from Casco Viejo; from there it's a 15-minute walk to Gorliz beach, flat and shallow. With a Barik card, under €2 per journey.
+- pregunta: How much is the Artxanda funicular?
+  respuesta: It's cheap, and cheaper still with a Barik card. It takes about 3 minutes to go up and runs every 15 minutes, from 7:15 to 22:00 (until 23:00 in summer), from Plaza del Funicular, 5 minutes from the Old Town.
+- pregunta: What can you do in Bilbao with kids when it rains?
+  respuesta: Azkuna Zentroa (entry to the building is free), the Fine Arts Museum (free for minors), the Itsasmuseum and the Zubiarte shopping centre, with a cinema, next to the Guggenheim.
+- pregunta: Is Bilbao easy with a pushchair?
+  respuesta: 'Fairly: the Old Town is pedestrianised and flat, and every metro station has a lift. Pavements in the Ensanche are narrow and there are slopes in the Old Town and Artxanda, where the funicular helps.'
 ---
 
-**Bilbao is a very comfortable city with kids.** It's compact, flat along the river, with an easy metro and tram, parks, a funicular with views and beaches about 40 minutes away by metro. This guide gathers the plans that really work with family, combining city and coast without stress.
+## What to do in Bilbao with kids
 
-## Kid-friendly plans you can book
+**Artxanda funicular.** It climbs in under three minutes to the viewpoint with the best views of Bilbao among the mountains. At the top there's a park and playground. Cheap and fun.
 
-| Activity | Rating | From |
-| --- | --- | --- |
-| [Estuary boat tour (1 h or 2 h)](/en/cities/bilbao/activities/bilbao-estuary-boat-tour-portugalete) | 4.2★ (3,389) | €15 |
-| [San Mamés museum and stadium](/en/cities/bilbao/activities/san-mames-stadium-museum-tour) | 4.8★ (1,710) | €16.5 |
-| [Gaztelugatxe, Bermeo, Mundaka and Guernica with txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4.7★ (3,229) | €45 |
+**Guggenheim sculptures (outside).** Without going into the museum, kids love **Puppy** (the giant flower dog), the spider **Maman** and the fog sculpture. Walking along the river is free.
 
-The key is to alternate: a morning of river and sculptures, an afternoon of park or beach. And to make the most of public transport putting everything within reach.
+**Estuary boat.** It leaves from the Pío Baroja pier by the Guggenheim: the 1-hour trip passes the museum and the central bridges, and the 2-hour one reaches the Bizkaia Bridge. Short enough for little ones, with an audio guide on your phone, from €15.
 
-## The plans that work
+[actividad: barco-ria-bilbao-portugalete]
 
-**Artxanda funicular.** Up in under three minutes to the viewpoint with the best views of Bilbao between mountains. At the top there's a park and a playground. Cheap and fun.
+**Itsasmuseum (Maritime Museum).** By the river, with cranes, boats and docks that kids love; much of it outdoors. Open Tuesday to Sunday, 11:00 to 19:00; closed on Mondays.
 
-**Guggenheim sculptures (from outside).** Without going into the museum, kids are amazed by **'Puppy'** (the giant flower dog), the **'Maman'** spider and the fog sculpture. Strolling the river is free and eye-catching.
+**Doña Casilda park.** The city's big park: ducks, a pond, a playground and fountains. Perfect for letting them run.
 
-**Itsasmuseum (Maritime Museum).** By the river, with cranes, boats and docks that little ones love; lots of it outdoors. Open Tuesday to Sunday, 11:00–19:00; closed on Mondays.
+**Tram and Azkuna Zentroa.** The tram runs along the river; at **Azkuna Zentroa** (Alhóndiga) there's a swimming pool with a glass floor you can see from below, quirky columns and a children's library.
 
-**Estuary boat.** From the Pío Baroja pier by the Guggenheim, the 1-hour trip passes the museum and the central bridges; the 2-hour one reaches the Bizkaia Bridge. Short enough for small kids, with an audio guide on your phone.
+## Beaches near Bilbao by metro
 
-[actividad: bilbao-estuary-boat-tour-portugalete]
+This is the best of Bilbao with kids: **metro line 1** takes you to the family beaches of **Plentzia** and **Gorliz**, with wide sand and calm water, no car needed.
 
-**Doña Casilda Park.** The city's great park: ducks, a pond, a playground and the fountains. Ideal for letting them run.
+- **Plentzia:** about 40 minutes from Casco Viejo.
+- **Gorliz:** a 15-minute walk from Plentzia; flat and shallow.
+- With Barik, **under €2 per journey**.
 
-**Metro to the beach.** The best of Bilbao with kids: by metro (line 1) you reach the family beaches of **Plentzia** and **Gorliz** (wide sand and calm water) in 30-40 minutes, with no car.
+## Bilbao as a family: a weekend plan
 
-**Tram and Azkuna Zentroa.** The tram skirts the river; at the **Azkuna Zentroa** (Alhóndiga) there's a pool with a glass floor you can see from below, curious columns and a children's library.
+- **First day:** in the morning, the river and the Guggenheim sculptures; in the afternoon, the Artxanda funicular.
+- **Second day:** in the morning, the Itsasmuseum and Doña Casilda; in the afternoon, the beach by metro.
+- **With an extra day:** the Bizkaia Bridge and Getxo, or pintxos as a family.
 
-## A weekend route with family
+The trick is to alternate: a morning of river and sculptures, an afternoon of park or beach.
 
-| Day | Plan |
-| --- | --- |
-| Day 1 | Morning: river and Guggenheim sculptures · Afternoon: Artxanda funicular |
-| Day 2 | Morning: Itsasmuseum and Doña Casilda · Afternoon: beach by metro (Plentzia/Gorliz) |
-| Extra day | Bizkaia Bridge (gondola) and Getxo, or pintxos with family |
+## Getting around, prices and rainy days
 
-## Practical: transport, prices and rain
+- **Barik card:** rechargeable, €3 at any metro station. It works on the metro, tram, Bizkaibus, funicular and Bizkaia Bridge, makes trips much cheaper than single tickets and **one card can be used by several people**. Buy it when you arrive.
+- **Artxanda funicular:** about 3 minutes up, every 15 minutes from 7:15 to 22:00 (until 23:00 in summer); cheaper with Barik. It leaves from Plaza del Funicular, 5 minutes from the Old Town across the Zubizuri bridge.
+- **Bizkaia Bridge:** the gondola costs under €1 per person and crosses every 8 minutes; the upper walkway, with lift and views, is around €10 (2026). Metro to Areeta (Getxo) or Portugalete.
+- **If it rains:** Azkuna Zentroa (free entry to the building), the Fine Arts Museum (free for minors), the Itsasmuseum and the Zubiarte shopping centre, with a cinema, next to the Guggenheim.
+- **Pushchairs:** the Old Town is pedestrianised and flat, but pavements in the Ensanche are narrow; every metro station has a lift.
 
-- **Barik card:** the rechargeable card (€3 at any metro station) works on the metro, tram, Bizkaibus, the funicular and the Bizkaia Bridge, and cuts the fare well below a single ticket. One card can be used by several people travelling together; buy it when you arrive.
-- **Artxanda funicular:** the ride takes about 3 minutes, with departures every 15 minutes, and it's cheaper with Barik. It leaves from Plaza del Funicular, 5 minutes from the Old Town across the Zubizuri bridge.
-- **Metro to the beach:** line 1 to Plentzia (about 40 minutes from Casco Viejo), then a 15-minute walk to Gorliz beach, flat and shallow.
-- **Bizkaia Bridge:** the gondola crossing costs under €1 per person; the upper walkway, reached by lift, is around €10 (as of 2026). Metro to Areeta (Getxo) or Portugalete.
-- **Rainy days:** the Azkuna Zentroa (free to enter the building), the Fine Arts Museum (free for children) and the Itsasmuseum. The Zubiarte shopping centre next to the Guggenheim has a cinema.
-- **Prams:** the Old Town is pedestrianised and flat, but pavements in the Ensanche are narrow; every metro station has a lift.
+## Day trips and where to eat with kids
 
-## Around with kids
+Half an hour away, Getxo's **Bizkaia Bridge**, a World Heritage Site, crosses the river in a hanging gondola. Further out, in Karrantza, **Karpin Abentura** (an animal park) and the **Pozalagua Caves**. **Gaztelugatxe** (241 steps) is better for older kids.
 
-Half an hour away, the **Bizkaia Bridge** (Hanging Bridge) at Getxo crosses the river in a hanging gondola, a World Heritage Site. Further out, in Karrantza, **Karpin Abentura** (an animal park) and the **Pozalagua Caves**. **Gaztelugatxe** (241 steps) is better for older kids.
+For food, the Old Town's **pintxos** are great for snacking without waiting: many bars have tortilla, croquetas and simple options kids enjoy. **La Ribera Market** has a tasting area. Book if you want a table to sit down at your own pace.
 
-## Where to eat with kids
+## What we don't recommend, and common mistakes
 
-The **pintxos** of the Old Town are good for a bite without waits; many bars have tortilla, croquettes and simple options that kids enjoy. The **La Ribera Market** has a tasting area. Book if you want a table to sit down calmly.
+1. **Taking very young children to Gaztelugatxe.** It's 241 steps up and down.
+2. **Doing the inside of the Guggenheim with small kids.** Stick to the sculptures outside, unless there's a children's workshop.
+3. **Giving up on plans when it drizzles.** The sirimiri is common: bring a raincoat, and almost everything is indoors or rain-proof.
+4. **Not using the metro for the beach.** It's the easiest way to combine city and coast.
+5. **Underestimating the slopes of the Old Town and Artxanda** with a pushchair; the funicular helps.
 
-## What we don't recommend with kids
-
-1. **Taking very small children to Gaztelugatxe.** It's 241 steps up and down.
-2. **Stacking up the inside of the Guggenheim with small kids.** Better the sculptures outside, unless there's a children's workshop.
-3. **Giving up the plan if it drizzles.** The sirimiri is common; almost everything is indoors or rainproof.
-
-## Common mistakes
-
-> **⚠️ Warning:** the slip-ups we see most with families.
-
-1. **Not using the metro for the beach.** It's the easiest way to combine city and coast.
-2. **Forgetting the raincoat.** It rains often all year.
-3. **Underestimating the slopes of the Old Town and Artxanda** with a pram; the funicular helps.
-
-## In one sentence
-
-Bilbao with kids is the funicular, sculptures by the river and beaches a metro ride away: a flat, well-connected city where culture and coast combine without a car. For the adult plan, see [Bilbao in one day](/en/guides/bilbao/bilbao-in-one-day).
+For the grown-up plan, see [Bilbao in one day](/en/guides/bilbao/bilbao-in-one-day).

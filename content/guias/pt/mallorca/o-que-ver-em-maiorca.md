@@ -4,13 +4,13 @@ descripcion: "Guia de Maiorca: Catedral de Palma, Serra de Tramuntana, Valldemos
 categoria: "mallorca"
 slug: "o-que-ver-em-maiorca"
 fecha: "2026-03-07"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-mallorca.jpg"
 imagen_alt: Fachada da Catedral de Palma (La Seu) sobre a baía
-tiempo_lectura: 4
+tiempo_lectura: 5
 keywords:
   - "o que ver em maiorca"
   - "maiorca numa semana"
@@ -25,7 +25,19 @@ slugs:
   it: cosa-vedere-a-maiorca
   pt: o-que-ver-em-maiorca
 reservasArriba: true
-respuestaCorta: 'Com **dois ou três dias** vê o essencial: **Palma** e a sua catedral (entrada desde 11 €), a **Serra de Tramuntana** (Valldemossa, Sóller e os miradouros) e as grutas e enseadas do leste; uma semana acrescenta o norte. **Alugue carro** (30-60 € por dia) e vá em maio-junho ou setembro-outubro.'
+intro: 'O que ver em Maiorca vai muito além do sol e da praia: **Palma** tem uma das catedrais góticas mais impressionantes da Europa, a **Serra de Tramuntana** é Património Mundial, o leste guarda as **Cuevas del Drach** e enseadas de postal, e o norte tem a Alcúdia amuralhada e o **Cabo de Formentor**. A ilha é grande e variada, por isso este guia organiza-a por zonas.'
+respuestaCorta: 'O que ver em Maiorca em **dois ou três dias**: **Palma** e a sua catedral, a **Serra de Tramuntana** (Valldemossa, Sóller e os miradouros) e as grutas e enseadas do leste; **uma semana** acrescenta o norte (Alcúdia, Pollença, Formentor). **Alugue carro** (30-60 € por dia) e vá em **maio-junho ou setembro-outubro**.'
+faq:
+- pregunta: Quantos dias são precisos para ver Maiorca?
+  respuesta: 'Dois ou três dias chegam para o essencial: um para Palma, outro para a Tramuntana (Valldemossa, Sóller e os miradouros) e um terceiro para as grutas e enseadas do leste. Uma semana acrescenta o norte (Alcúdia, Pollença, Formentor) e praia sem pressa. Menos de dois dias é pouco.'
+- pregunta: Qual é a melhor época para ir a Maiorca?
+  respuesta: 'Maio-junho e setembro-outubro: mar ameno, enseadas tranquilas e preços mais baixos. Julho e agosto estão massificados e são caros; em janeiro e fevereiro as amendoeiras florescem, mas muita costa está fechada; março, abril e novembro são bons para caminhadas na Tramuntana, com o mar frio.'
+- pregunta: É preciso carro para percorrer Maiorca?
+  respuesta: 'Quase imprescindível: os transportes públicos chegam mal à Tramuntana e às enseadas. O aluguer custa 30-60 € por dia e no verão tem de se reservar com semanas de antecedência. A partir de Palma, os autocarros TIB chegam a toda a ilha (2-10 €) e o comboio de madeira sobe até Sóller.'
+- pregunta: É preciso reservar as Cuevas del Drach?
+  respuesta: 'Sim: os bilhetes (18,50 € online, 11,50 € dos 3 aos 12 anos) esgotam na época alta. De abril a outubro há entradas às 10, 11, 12, 14, 15, 16 e 17 h, e quatro por dia no inverno.'
+- pregunta: Pode-se ir de carro ao Cabo de Formentor?
+  respuesta: De 15 de maio a 18 de outubro, das 10h00 às 22h00, os carros só passam até encher o estacionamento da praia, e o troço até ao farol fica reservado a veículos autorizados. A alternativa é o autocarro TIB 334 a partir de Alcúdia e Port de Pollença, ou o barco.
 opciones:
   - ficha: catedral-palma-mallorca-entrada
     etiqueta: A mais barata
@@ -44,65 +56,74 @@ actividades:
   - cuevas-del-drach-desde-alcudia
 ---
 
-**Maiorca é muito mais do que sol e praia:** uma capital com uma das catedrais góticas mais impressionantes da Europa, uma serra Património da Humanidade e algumas das enseadas mais bonitas do Mediterrâneo. O erro do visitante médio é ficar num hotel da baía de Palma ou de Magaluf e não ver a verdadeira ilha. A ilha é grande e variada, por isso este guia organiza-a por zonas: **Palma**, a **Serra de Tramuntana**, o **leste** das grutas e enseadas e o **norte** de Alcúdia e Formentor.
+## Maiorca em três dias ou numa semana: quantos dias e quando ir
 
-## Quantos dias e quando
+**Dois ou três dias** chegam para o essencial: um para Palma, outro para a Tramuntana (Valldemossa, Sóller e os miradouros) e outro para as grutas e enseadas do leste. **Uma semana** acrescenta o norte e praia sem pressa. Menos de dois dias é pouco.
 
-**Dois ou três dias** dão para o essencial: Palma, a Tramuntana (Valldemossa, Sóller e os miradouros) e as grutas e enseadas do leste. **Uma semana** acrescenta o norte e praia sem pressas. Menos de dois dias fica curto.
+| Época | Veredicto |
+| --- | --- |
+| **Maio-junho e setembro-outubro** | Ideais: mar ameno, enseadas tranquilas, preços mais baixos |
+| **Julho e agosto** | Massificado e caro: reserve tudo |
+| **Janeiro e fevereiro** | Amendoeiras em flor, mas muita costa fechada |
+| **Março, abril e novembro** | Caminhadas na Tramuntana, com o mar frio |
 
-**Maio-junho e setembro-outubro** são ideais (mar ameno, enseadas tranquilas, preços mais baixos); **julho e agosto**, massificado e caro, reserve tudo; **janeiro e fevereiro**, amendoeiras em flor com muita costa fechada; março, abril e novembro, caminhadas na Tramuntana com o mar frio.
+## O que ver em Maiorca por zonas
 
-## Como chegar e deslocar-se
+### Palma de Maiorca
 
-O **aeroporto de Palma** fica a 8 km do centro (autocarro ou táxi); o **ferry** a partir de Barcelona, Valência ou Dénia (3h30 a 8 h) é ideal para levar carro. Na ilha, **alugue carro** (30-60 € por dia, reservado com semanas de antecedência no verão, cadeirinha pedida de antemão): os transportes públicos chegam mal à Tramuntana e às enseadas. Os autocarros TIB saem da estação intermodal de Palma para toda a ilha (2-10 €) e os comboios para Inca, Manacor e Sa Pobla custam 3-5 €.
+- A **Catedral (La Seu)**, gótica e debruçada sobre o mar, com a intervenção de Gaudí e a capela cerâmica de Miquel Barceló. Ao lado, o **Palácio da Almudaina**.
+- O **centro histórico** de pátios senhoriais, o **Passeig del Born** e os **Banhos Árabes**.
+- O **Castell de Bellver**, castelo circular com vista para a baía.
+- Para comer e sair, o bairro de **Santa Catalina** e o seu mercado.
 
-## Palma
+### A Serra de Tramuntana
 
-A **Catedral (La Seu)**, gótica e debruçada sobre o mar, com a intervenção de Gaudí e a capela cerâmica de Miquel Barceló; ao lado, o **Palácio da Almudaina**. O **centro histórico** de pátios senhoriais, o Passeig del Born, os **Banhos Árabes** e o **Castell de Bellver**, castelo circular com vistas para a baía. Para comer e sair, o bairro de **Santa Catalina** e o seu mercado.
+Património Mundial pela sua paisagem de socalcos e oliveiras:
 
-## A Serra de Tramuntana
-
-Património da Humanidade pela sua paisagem de socalcos e oliveiras:
-
-- **Valldemossa** e a **Cartuxa** onde passaram o inverno Chopin e George Sand.
+- **Valldemossa** e a **Cartuxa** onde Chopin e George Sand passaram o inverno.
 - **Deià**, aldeia de artistas suspensa sobre o mar, e o miradouro de **Sa Foradada**.
-- **Sóller** e o seu **porto**, unidos por um elétrico clássico; chega-se a partir de Palma no **comboio de madeira de 1912**.
+- **Sóller** e o seu **porto**, unidos por um elétrico clássico; a partir de Palma chega-se no **comboio de madeira de 1912**.
 - **Fornalutx**, uma das aldeias mais bonitas de Espanha.
 - A estrada de **Sa Calobra**, com o «nó de gravata», que desce até ao **Torrent de Pareis**. Espetacular e de curvas extremas: se enjoa, vá em excursão.
 
-## Grutas e enseadas do leste
+### Cuevas del Drach e enseadas do leste
 
-As **Cuevas del Drach** (Porto Cristo), com um dos maiores lagos subterrâneos da Europa e concerto de música clássica a partir de barcos. Enseadas de postal: **Mondragó** (parque natural), o icónico **Caló des Moro**, **Cala Varques** e, no sul, a comprida e selvagem **Es Trenc**. As pequenas têm estacionamento ínfimo: **antes das 9h00** ou fora de época.
+As **Cuevas del Drach** (Porto Cristo) têm um dos maiores lagos subterrâneos da Europa, com concerto de música clássica a partir de barcos. Perto, enseadas de postal: **Mondragó** (parque natural), a icónica **Caló des Moro**, **Cala Varques** e, no sul, a longa e selvagem **Es Trenc**. As pequenas têm estacionamento mínimo: chegue **antes das 9h00** ou fora de época.
 
-## O norte
+### O norte: Alcúdia e Formentor
 
-A cidade amuralhada de **Alcúdia** com a romana Pollentia, as praias familiares de **Muro e Alcúdia**, **Pollença** com os seus 365 degraus do Calvari e o **Cap de Formentor**, o farol no fim da serra.
+A cidade amuralhada de **Alcúdia**, com a romana Pollentia ao lado; as praias familiares de **Muro e Alcúdia**; **Pollença**, com os 365 degraus do Calvari, e o **Cabo de Formentor**, o farol no fim da serra.
 
 ## Preços e horários
 
 | Local | Preço | Horário |
 | --- | --- | --- |
-| Catedral de Palma | 10 €, grátis para menores de 10; terraços mais 20 € com guia e reserva | Seg-Sáb 10h00-17h15 (18h15 no verão); domingos fechada a turistas. A 2 de fevereiro e a 11 de novembro, o «oito» da rosácea ao amanhecer (abrem às 8h00) |
-| Almudaina | 7 €, grátis para cidadãos da UE às quartas e quintas à tarde | Fecha à segunda-feira |
-| Castell de Bellver | 4 €, grátis aos domingos; autocarro 4 ou 20 min a pé | Fecha à segunda-feira |
-| Comboio de Sóller | 30 € ida e volta; elétrico até ao porto à parte, 9 € o trajeto | Partidas 10h10, 10h50, 12h15, 13h30, 15h10 |
-| Cuevas del Drach | 18,50 € online (11,50 € dos 3 aos 12 anos); **reserve online, esgota** | Sessões às 10, 11, 12, 14, 15, 16 e 17 h de abril a outubro; quatro no inverno |
-| Formentor | De 15 de maio a 18 de outubro (10h00-22h00), carros só até encher o parque da praia; farol, só veículos autorizados | Autocarro TIB 334 a partir de Alcúdia e Port de Pollença, ou barco |
+| Catedral de Palma | 10 €, grátis menores de 10; terraços mais 20 €, com guia e reserva | Seg-sáb 10h00-17h15 (18h15 no verão); domingos fechada a turistas |
+| Almudaina | 7 €, grátis para cidadãos da UE quarta e quinta à tarde | Fecha às segundas |
+| Castell de Bellver | 4 €, grátis aos domingos; autocarro 4 ou 20 min a pé | Fecha às segundas |
+| Comboio de Sóller | 30 € ida e volta; elétrico até ao porto à parte, 9 € por trajeto | Partidas 10h10, 10h50, 12h15, 13h30 e 15h10 |
+| Cuevas del Drach | 18,50 € online (11,50 € dos 3 aos 12 anos); **reserve, esgota** | Entradas às 10, 11, 12, 14, 15, 16 e 17 h de abril a outubro; quatro no inverno |
+| Cabo de Formentor | De 15 de maio a 18 de outubro (10h00-22h00), carros só até encher o estacionamento da praia; farol só para veículos autorizados | Autocarro TIB 334 a partir de Alcúdia e Port de Pollença, ou barco |
 
-## Dormir e comer
+A **2 de fevereiro e a 11 de novembro**, ao amanhecer, o sol desenha «o oito» da rosácea dentro da Catedral (abre às 8h00).
 
-**Palma** é a base mais versátil; a **Tramuntana** (Sóller, Deià), para montanha e aldeias com encanto; o **norte** e o **leste** (Porto Cristo, Cala d'Or), para praia em família. Evite Magaluf ou s'Arenal, a não ser que venha num pacote de sol e festa.
+## Como chegar e deslocar-se
 
-Cozinha camponesa e de mar: **ensaïmada**, **sobrasada**, **pa amb oli**, **tumbet**, **frit mallorquí**, **arròs brut**, vinhos de **Binissalem** e hierbas como digestivo. Para comer verdadeira cozinha maiorquina, *cellers* e restaurantes de aldeia no interior (Sineu, Algaida), não a primeira linha da baía.
+- **Avião:** o aeroporto de Palma fica a **8 km do centro** (autocarro ou táxi).
+- **Ferry:** a partir de Barcelona, Valência ou Dénia (de 3 h 30 a 8 h), ideal para levar carro.
+- **Carro de aluguer:** quase imprescindível, porque os transportes públicos chegam mal à Tramuntana e às enseadas. Custa **30-60 € por dia**; no verão reserve com semanas de antecedência e peça a cadeira de criança com tempo.
+- **Transportes públicos:** os autocarros **TIB** saem da estação intermodal de Palma para toda a ilha (2-10 €) e os comboios para Inca, Manacor e Sa Pobla custam 3-5 €.
 
-## Erros típicos
+## Onde dormir e o que comer
 
-1. **Ficar na baía de Palma ou em Magaluf.**
-2. **Reservar o carro tarde no verão.**
-3. **Tentar ver tudo em dois dias.** Escolha zonas.
-4. **Saltar a Tramuntana**, o que diferencia Maiorca de qualquer destino de praia.
-5. **Enseadas pequenas ao meio-dia em agosto** e **Drach sem reserva**.
+**Palma** é a base mais versátil; a **Tramuntana** (Sóller, Deià), para montanha e aldeias com encanto; o **norte** e o **leste** (Porto Cristo, Cala d'Or), para praia em família. Evite Magaluf ou s'Arenal, a não ser que venha para um pacote de sol e festa.
 
-## Numa frase
+Cozinha camponesa e de mar: **ensaïmada**, **sobrasada**, **pa amb oli**, **tumbet**, **frit mallorquí**, **arròs brut**, vinhos de **Binissalem** e licor de ervas como digestivo. Para comer maiorquino a sério, procure *cellers* e restaurantes de aldeia no interior (Sineu, Algaida), não a primeira linha da baía.
 
-Maiorca é Palma, montanha Património da Humanidade e enseadas de sonho: em dois ou três dias vê o essencial por zonas; numa semana, a ilha inteira sem pressas.
+## Conselhos e erros típicos
+
+1. **Não fique só na baía de Palma ou em Magaluf:** perde a Tramuntana, as enseadas e as aldeias.
+2. **Reserve o carro cedo no verão:** esgota e os preços disparam.
+3. **Não tente ver tudo em dois dias.** A ilha é grande: escolha zonas.
+4. **Não salte a Tramuntana**, o que distingue Maiorca de qualquer destino de praia.
+5. **Evite as enseadas pequenas ao meio-dia em agosto** e não vá às **Cuevas del Drach sem reserva**.

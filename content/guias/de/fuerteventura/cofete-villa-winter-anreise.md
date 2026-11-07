@@ -1,15 +1,16 @@
 ---
 titulo: 'Cofete und Villa Winter: Anreise über die Piste, mit dem Bus oder per Ausflug'
 descripcion: 'So kommst du zum Strand von Cofete und zur Villa Winter: die 20 km lange Piste ab Morro Jable und die Mietwagenversicherung, Bus 111 mit Zeiten und Preis, der Ausflug und was du vor dem Baden wissen musst.'
-respuestaCorta: 'Nach **Cofete** führt eine **rund 20 km lange Schotterpiste ab Morro Jable** (45-60 Minuten), bei Trockenheit auch mit normalem Pkw machbar, aber viele **Mietverträge decken Schäden auf Pisten nicht ab**. Ohne Auto fährt der **Bus 111** von Tiadhe um **10:00 und 14:15** ab Morro Jable (rund 8,70 € pro Strecke), oder du buchst einen **Ausflug** ab Jandía für 57 €. **Nicht baden**: starke Strömungen, keine Rettungsschwimmer.'
+intro: 'Der **Strand von Cofete** ist das wildeste Bild der Kanaren: mehr als zehn Kilometer Sand ohne ein einziges Gebäude, der Atlantik in voller Brandung und dahinter das Jandía-Massiv mit dem Pico de la Zarza (807 m), dem höchsten Punkt Fuerteventuras. Allein am Hang steht die **Villa Winter**, von Legenden umrankt. Eine asphaltierte Straße gibt es nicht: Man kommt über eine rund 20 km lange **Schotterpiste** ab Morro Jable.'
+respuestaCorta: 'Zum Strand von Cofete führt eine **20 km lange Schotterpiste ab Morro Jable** (45–60 Minuten), bei Trockenheit mit normalen Autos machbar; aber viele **Mietverträge decken Schäden auf Pisten nicht**. Ohne Auto: **Bus 111** ab Morro Jable um **10:00 und 14:15** (ca. 8,70 €) oder ein **Ausflug** ab 57 €. **Nicht baden**: starke Strömungen.'
 categoria: fuerteventura
 slug: cofete-villa-winter-anreise
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 4
+tiempo_lectura: 3
 keywords:
 - strand von cofete
 - cofete anreise
@@ -31,90 +32,66 @@ actividades:
   - oasis-wildlife-fuerteventura-entrada
 faq:
 - pregunta: Kann man mit dem Mietwagen nach Cofete fahren?
-  respuesta: 'Rein technisch ja: Bei Trockenheit schaffen normale Pkw die Piste langsam. Das Problem ist die Versicherung, denn viele Mietverträge schließen Schäden auf unbefestigten Wegen aus. Lies deinen Vertrag vorher, oder nimm einen Ausflug oder den Bus 111.'
+  respuesta: 'Technisch ja: Bei Trockenheit schaffen normale Autos die Piste langsam. Das Problem ist die Versicherung, denn viele Mietverträge schließen Schäden auf unbefestigten Wegen aus. Vorher lesen oder einen Ausflug bzw. den Bus 111 nehmen.'
 - pregunta: Wie lange braucht man von Morro Jable nach Cofete?
-  respuesta: 'Es sind rund 20 km Piste: Rechne mit 45 Minuten bis einer Stunde pro Strecke, plus Stopp am Aussichtspunkt.'
-- pregunta: Wann fährt der Bus 111 nach Cofete?
-  respuesta: 'Laut veröffentlichtem Fahrplan täglich um 10:00 und 14:15 ab Morro Jable, weiter bis zum Leuchtturm Punta Jandía und von dort um 12:15 und 16:15 zurück, etwa 30 Minuten später an Cofete vorbei. Reservieren geht nicht, und der Bus kann voll sein: Prüf den Fahrplan auf tiadhe.com.'
-- pregunta: Kann man in Cofete baden?
-  respuesta: 'Besser nicht. Starke Brandung, gefährliche Strömungen, keine Einrichtungen und keine Rettungsschwimmer. Zum Baden sind die geschützten Strände auf der Leeseite von Jandía besser.'
+  respuesta: 'Es sind etwa 20 km Piste: Rechne mit 45 Minuten bis einer Stunde pro Strecke, plus Stopp am Aussichtspunkt.'
+- pregunta: Welchen Fahrplan hat der Bus 111 nach Cofete?
+  respuesta: 'Laut veröffentlichtem Fahrplan fährt er täglich um 10:00 und 14:15 ab Morro Jable, weiter bis zum Leuchtturm Punta Jandía, und von dort um 12:15 und 16:15 zurück; Cofete passiert er etwa 30 Minuten später. Reservierung nicht möglich, er kann voll sein: auf tiadhe.com prüfen.'
+- pregunta: Ist Baden in Cofete sicher?
+  respuesta: Nicht empfehlenswert. Starke Brandung, gefährliche Strömungen, keine Infrastruktur und keine Rettungsschwimmer. Zum Baden lieber an die Leestrände von Jandía.
 - pregunta: Kann man die Villa Winter besichtigen?
-  respuesta: 'Sie ist Privatbesitz. Der Verwalter zeigt sie gegen eine Spende; Besucher aus 2025 und 2026 nennen rund 5 € inklusive Keller. Beachte die Schilder und eventuell ausgehängte Öffnungszeiten.'
+  respuesta: Sie ist Privatbesitz. Der Verwalter zeigt sie gegen eine Spende; Besucher aus 2025 und 2026 nennen etwa 5 € inklusive Keller. Beachte die Schilder und die Zeiten an der Tür.
 imagen_portada: "/images/actividades/fuerteventura/zonas/cofete-mirador.webp"
 imagen_alt: "Der Strand von Cofete vom Aussichtspunkt mit dem Jandía-Massiv"
 ---
 
-**Cofete ist das wildeste Bild der Kanaren**: über zehn Kilometer Sand ohne ein einziges Gebäude, der Atlantik bricht mit voller Wucht, und dahinter ragt das Jandía-Massiv mit dem Pico de la Zarza (807 m) auf, dem höchsten Punkt Fuerteventuras. Allein am Hang steht die **Villa Winter**, das Haus des deutschen Ingenieurs Gustav Winter, um das sich viele Legenden ranken. Schon die Anfahrt ist ein Abenteuer: Es gibt keine asphaltierte Straße, nur eine **Schotterpiste** über die Berge ab Morro Jable.
+## Cofete Anreise mit dem Auto: Piste und Mietwagen
 
-## Drei Wege nach Cofete
+Die Piste führt von **Morro Jable** nach Westen, steigt ins Massiv und wechselt am Pass **Degollada de Agua Oveja** auf die Nordseite – plötzlich liegt der ganze Strand vor dir: der **Aussichtspunkt von Cofete** und das beste Foto der Reise. Es sind rund **20 km** Schotter; rechne mit **45 Minuten bis einer Stunde** pro Strecke.
 
-| Option | Preis | Vorteile | Nachteile |
-| --- | --- | --- | --- |
-| Eigenes Auto oder Mietwagen | Benzin | Freie Zeiteinteilung | Mietwagenversicherung, Staub, schmale Piste |
-| Bus 111 (Tiadhe) | Rund 8,70 € pro Strecke | Günstig, ohne selbst zu fahren | Zwei Abfahrten am Tag, keine Reservierung |
-| Ausflug ab Jandía | Ab 57 € | Sorgenfrei, mit Führung in der Villa Winter | Rund 35 Minuten am Strand |
+- **Braucht man einen 4x4?** Nein: Bei Trockenheit schaffen es normale Autos, langsam. Nach Regen oder bei schlechtem Zustand hilft ein höheres Fahrzeug.
+- **Versicherung:** Viele Mietverträge **schließen Schäden auf unbefestigten Wegen aus**, selbst mit Vollkasko. Vorher lesen; ist es nicht gedeckt, zahlst du jede Reifenpanne und jeden Unterbodenschaden selbst.
+- **Fahren:** langsam, in Kurven nicht überholen und nie die Piste verlassen – das ist verboten.
+- **Vor der Abfahrt:** volltanken, Wasser und Essen mitnehmen. Keine Tankstellen, kein Handyempfang; Offline-Karte herunterladen.
+- **Parken:** auf einem Schotterplatz am Strand am Ende der Piste. In der Hochsaison voll: vor 10:00 da sein.
 
-## Mit dem Auto: die Piste und die Mietwagenversicherung
-
-Die Piste verlässt **Morro Jable** Richtung Westen, steigt ins Massiv und wechselt am Pass **Degollada de Agua Oveja** auf die Nordseite, wo plötzlich der ganze Strand vor dir liegt: Das ist der **Aussichtspunkt von Cofete** und das beste Foto der Reise. Insgesamt sind es rund **20 km** Schotter; rechne mit **45 Minuten bis einer Stunde** pro Strecke.
-
-- **Brauchst du einen 4x4?** Nicht unbedingt: Bei Trockenheit schaffen es normale Pkw langsam. Nach Regen oder bei schlechtem Zustand der Piste hilft mehr Bodenfreiheit.
-- **Versicherung:** Viele Mietverträge **schließen Schäden auf unbefestigten Wegen aus**, auch bei Vollkasko. Lies deinen Vertrag vor der Fahrt; ist es nicht abgedeckt, zahlst du jede Reifenpanne und jeden Unterbodenschaden selbst.
-- **Fahren:** langsam, in Kurven nicht überholen und nie die Piste verlassen, das ist verboten.
-- **Vor der Abfahrt:** volltanken, Wasser und Proviant. Auf der Piste gibt es weder Tankstellen noch Handyempfang; lad dir eine Offline-Karte herunter.
-- **Parken:** am Ende der Piste auf einer Schotterfläche am Strand. In der Hochsaison ist sie voll: Sei vor 10:00 Uhr da.
-
-## Ohne Auto: der Bus 111
+## Ohne Auto: der Bus nach Cofete (Linie 111)
 
 Die Linie **111** von Tiadhe verbindet täglich **Morro Jable, Cofete und Punta de Jandía** über die Piste. Laut veröffentlichtem Fahrplan:
 
-- **Ab Morro Jable:** 10:00 und 14:15.
-- **Zurück ab dem Leuchtturm Punta Jandía:** 12:15 und 16:15, etwa 30 Minuten später an Cofete vorbei (die Zeiten an den Zwischenhalten sind ungefähr).
-- **Preis:** rund **8,70 €** pro Strecke.
-- **Keine Reservierung:** Ist der Bus voll, hält er eventuell nicht. Sei früh am Busbahnhof Morro Jable und prüf vorher den aktuellen Fahrplan auf tiadhe.com.
+- **Hinfahrt ab Morro Jable:** 10:00 und 14:15.
+- **Rückfahrt ab Leuchtturm Punta Jandía:** 12:15 und 16:15, in Cofete etwa 30 Minuten später (Zeiten an Zwischenhalten ungefähr).
+- **Preis:** etwa **8,70 €** pro Strecke.
+- **Keine Reservierung:** Ist er voll, hält er eventuell nicht. Früh am Busbahnhof Morro Jable sein und den aktuellen Fahrplan auf tiadhe.com prüfen.
 
-Wenn du mehrere Stunden in Cofete bleiben willst, nimm den Bus um 10:00 und fahr mit dem Nachmittagsbus zurück. Nimmst du den um 14:15, bleibt nur der letzte Bus zurück: Verpass ihn nicht.
+Für mehrere Stunden in Cofete: mit dem Bus um 10:00 hin, am Nachmittag zurück. Wer um 14:15 fährt, hat nur noch den letzten Bus zurück – nicht verpassen.
 
-## Mit einem Ausflug
+## Mit einem Ausflug ab Jandía
 
-Am bequemsten ist ein geführter Ausflug: Gruppe von höchstens acht Personen, Abholung in Jandía, Aussichtspunkt, 35 Minuten Führung in der Villa Winter und 35 Minuten am Strand, für 57 €. Die Guides sprechen **Deutsch, Englisch oder Polnisch**.
+Die bequemste Option: Gruppen mit höchstens acht Personen, Abholung in Jandía, Stopp am Aussichtspunkt, **35-minütige Führung durch die Villa Winter** und 35 Minuten Strand, für 57 €. Der Guide spricht **Deutsch, Englisch oder Polnisch**, kein Spanisch.
 
 [actividad: tour-cofete-villa-winter]
 
 ## Die Villa Winter
 
-Gebaut hat sie der deutsche Ingenieur **Gustav Winter** Mitte des 20. Jahrhunderts; das genaue Datum ist umstritten (offizielle Quellen nennen 1946, es gibt Bauunterlagen von 1949). Ihre Abgeschiedenheit und ihr Turm haben jahrzehntelang Legenden über deutsche U-Boote genährt, die nie bewiesen wurden.
+Gebaut hat sie der deutsche Ingenieur **Gustav Winter** Mitte des 20. Jahrhunderts; das genaue Datum ist umstritten (offizielle Quellen nennen 1946, es gibt Baudokumente von 1949). Ihre Abgeschiedenheit und ihr Turm nähren seit Jahrzehnten Legenden über deutsche U-Boote, die nie bewiesen wurden.
 
-Heute ist sie **Privatbesitz**. Der Verwalter zeigt sie gegen eine **Spende**: Besucher aus 2025 und 2026 nennen rund 5 € inklusive Keller. Beachte die Schilder und eventuell ausgehängte Öffnungszeiten.
+Heute ist sie **Privatbesitz**. Der Verwalter zeigt sie gegen eine **Spende**: Besucher aus 2025 und 2026 nennen etwa 5 € inklusive Keller. Beachte die Schilder und die Zeiten an der Tür.
 
-## Was du in Cofete siehst
+## Was man am Strand von Cofete sieht (und warum man nicht badet)
 
-- **Den Aussichtspunkt** an der Degollada de Agua Oveja mit dem ganzen Strand unter dir.
-- **Den Strand:** kilometerlanger Sand zum Spazieren. Rechts, keinen Kilometer entfernt, liegt das Inselchen von Cofete.
-- **Den Friedhof von Cofete** direkt am Sand: bitte respektvoll von außen anschauen.
-- **Den Weiler** mit einer Bar, die nicht immer geöffnet hat.
-- **Puertito de la Cruz und den Leuchtturm Punta Jandía** am Ende des anderen Pistenarms und der Linie 111.
+- **Der Aussichtspunkt** an der Degollada de Agua Oveja, mit dem ganzen Strand zu deinen Füßen.
+- **Der Strand:** kilometerlanger Sand zum Spazieren. Rechts, weniger als einen Kilometer entfernt, die kleine Insel von Cofete.
+- **Der Friedhof von Cofete** direkt am Sand: mit Respekt von außen betrachten.
+- **Der Weiler** mit einer Bar, die nicht immer geöffnet hat.
+- **Puertito de la Cruz und der Leuchtturm Punta Jandía** am Ende des anderen Pistenarms und der Linie 111.
 
-## Baden: lieber nicht
+**Baden: lieber nicht.** Cofete hat **starke Brandung, sehr gefährliche Strömungen und keine Rettungsschwimmer**, und es gab schon Ertrunkene. Spazieren, Füße nass machen und an den Leestränden von Jandía baden. Abgesperrte Bereiche respektieren: Seit 2006 läuft ein Projekt zur Wiederansiedlung der Unechten Karettschildkröte.
 
-Cofete hat **starke Brandung, sehr gefährliche Strömungen und keine Rettungsschwimmer**, und es sind hier schon Menschen ertrunken. Geh spazieren, mach die Füße nass und bade an den geschützten Stränden von Jandía. Halt dich von abgesperrten Bereichen fern: Seit 2006 läuft hier ein Projekt zur Wiederansiedlung der Unechten Karettschildkröte.
+## Tipps
 
-## Praktisches
-
-- **Beste Zeit:** früh am Morgen, vor 10:00 Uhr, wegen Parkplatz und weichem Licht.
-- **Saison:** ganzjährig; Frühling und Herbst sind am angenehmsten. Nach starkem Regen kann die Piste gesperrt sein.
-- **Wind:** Er weht kräftig und wirbelt Sand auf. Sonnenbrille und eine zusätzliche Schicht.
-- **Keine Infrastruktur:** Nimm Wasser, Proviant, Sonnencreme und Kappe mit. Am Strand gibt es keinen Schatten.
-- **Verboten:** Zelten, Drohnen und Sand, Steine oder Muscheln mitnehmen.
-
-## Typische Fehler
-
-1. **Mit dem Mietwagen auf die Piste, ohne den Vertrag gelesen zu haben.**
-2. **Bei Wellen baden.** Das ist die häufigste Unfallursache in Cofete.
-3. **Ohne Benzin, Wasser oder Offline-Karte losfahren.** Kein Empfang, keine Infrastruktur.
-4. **Ohne Puffer auf den letzten Bus setzen.** Ist er voll, hält er vielleicht nicht.
-5. **Im August mittags hinfahren.** Hitze, voller Parkplatz und flaches Licht.
-
-## In einem Satz
-
-Lies deinen Mietvertrag, fahr früh mit vollem Tank in Morro Jable los, halt am Aussichtspunkt und lauf am Strand entlang, ohne zu baden: Cofete ist der Strand, für den sich die Fahrt in den Süden Fuerteventuras lohnt.
+- **Früh fahren,** vor 10:00, für Parkplatz und weiches Licht. Mittags im August: Hitze, voller Parkplatz, flaches Licht.
+- **Reisezeit:** ganzjährig; Frühling und Herbst sind am angenehmsten. Bei starkem Regen kann die Piste gesperrt sein.
+- **Wind:** weht kräftig und wirbelt Sand auf. Sonnenbrille und eine Jacke.
+- **Keine Infrastruktur, kein Schatten:** Wasser, Essen, Sonnencreme und Kappe mitnehmen.
+- **Verboten:** Campen, Drohnen und das Mitnehmen von Sand, Steinen oder Muscheln.

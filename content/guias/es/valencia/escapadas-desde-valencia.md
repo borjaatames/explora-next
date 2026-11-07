@@ -1,11 +1,12 @@
 ---
 titulo: "Escapadas desde Valencia: Albufera, Sagunto, Xàtiva y más"
 descripcion: "Las mejores escapadas de un día desde Valencia: la Albufera, Sagunto, Xàtiva, Peñíscola y la Costa del Azahar. Cómo llegar, qué ver y cuánto tiempo dedicar."
-respuestaCorta: 'La escapada imprescindible desde Valencia es la **Albufera**, a 20 minutos: paseo en barca entre arrozales y paella en El Palmar. Para historia, **Sagunto** (30 minutos en Cercanías) y **Xàtiva** (45 minutos) tienen castillos espectaculares; para playa con castillo, **Peñíscola**, a hora y media. En excursión organizada, Guadalest, Altea y Fuentes del Algar desde 55 €.'
+intro: 'Las **escapadas desde Valencia** son uno de los grandes atractivos de la ciudad: en menos de una hora llegas al parque natural donde nació la paella, a castillos íberos, romanos y árabes en lo alto de un cerro y a ciudades con siglos de historia. Un poco más lejos esperan la Costa del Azahar, el vino de Requena y un río subterráneo que se recorre en barca.'
+respuestaCorta: 'La escapada imprescindible desde Valencia es la **Albufera**, a 20 minutos: paseo en barca entre arrozales y paella en El Palmar. Para historia, **Sagunto** (30 minutos en Cercanías) y **Xàtiva** (45 minutos) tienen castillos espectaculares; para playa con castillo, **Peñíscola**, a hora y media. Son las mejores escapadas desde Valencia de un día.'
 categoria: "valencia"
 slug: "escapadas-desde-valencia"
 fecha: "2026-04-08"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
@@ -31,75 +32,84 @@ actividades:
   - excursion-montanejos-en-bus
 imagen_portada: "/images/guias/escapadas-desde-valencia.jpg"
 imagen_alt: "Guadalest y su embalse"
+faq:
+- pregunta: ¿Cuál es la mejor escapada desde Valencia?
+  respuesta: 'La Albufera, a 20-25 minutos del centro: paseo en barca entre arrozales (mejor al atardecer) y paella valenciana en El Palmar. Es medio día y la escapada que hace distinta a Valencia.'
+- pregunta: ¿Cómo ir a la Albufera desde Valencia sin coche?
+  respuesta: 'Con los autobuses 24 y 25 de la EMT desde la Plaza de la Reina hasta El Palmar: unos 45 minutos y 1,50 €. Desde junio de 2026 pasan cada 25-35 minutos aproximadamente.'
+- pregunta: ¿Cuánto cuesta el paseo en barca por la Albufera?
+  respuesta: 'El paseo normal, de 40-45 minutos, cuesta unos 5 € por adulto y no necesita reserva. El del atardecer dura alrededor de una hora, cuesta unos 7 € y es el primero que se llena: resérvalo o llega con tiempo.'
+- pregunta: ¿Se puede ir a Sagunto y Xàtiva en tren desde Valencia?
+  respuesta: 'Sí, en Cercanías desde la Estación del Norte: Sagunto en 30 minutos (línea C-6, unos 4 €) y Xàtiva en 45 minutos (línea C-2, 5-6 €). Desde cada estación hay unos 30 minutos de subida al castillo.'
+- pregunta: ¿Cuánto cuestan los castillos de Sagunto, Xàtiva y Peñíscola?
+  respuesta: El castillo de Sagunto es gratuito, igual que el teatro romano. El de Xàtiva cuesta 6 € (gratis los martes) y el del Papa Luna en Peñíscola, 5 €. Los de Sagunto y Xàtiva cierran los lunes.
 ---
 
-**Valencia es una base estupenda para escapadas de un día.** En menos de una hora tienes el parque natural donde nació la paella, castillos espectaculares, ciudades íberas y romanas y pueblos de la Costa del Azahar. Esta guía ordena las mejores salidas según el tiempo que tengas y cómo llegar, con o sin coche.
-
-## Excursiones con transporte desde Valencia
-
-| Actividad | Valoración | Desde |
-| --- | --- | --- |
-| [Guadalest, Altea y Fuentes del Algar](/ciudades/valencia/actividades/excursion-guadalest-altea-fuentes-algar) | 4,7★ (553) | 30 € |
-| [Excursión a la Cala Granadella en Jávea](/ciudades/valencia/actividades/excursion-cala-granadella-javea) | — | 85 € |
-| [Excursión a las Cuevas de San José desde Valencia](/ciudades/valencia/actividades/excursion-cuevas-de-san-jose) | 4,6★ (785) | 55 € |
-| [Excursión a Montanejos en bus](/ciudades/valencia/actividades/excursion-montanejos-en-bus) | — | 42 € |
-
-La más cercana e imprescindible es la **Albufera**, a 20 minutos: para muchos, la mejor experiencia de la zona. El resto se elige según gustos: historia (Sagunto, Xàtiva), playa con castillo (Peñíscola) o vino (Requena).
-
-## Las mejores escapadas
+## Las mejores escapadas desde Valencia
 
 | Destino | Distancia | Ideal para |
 | --- | --- | --- |
 | La Albufera y El Palmar | 20 min | Paella, barca y arrozales |
 | Sagunto | 30 min | Castillo y teatro romano |
 | Xàtiva | 45 min | Castillo doble y casco histórico |
-| Peñíscola | 1h 30min | Castillo del Papa Luna y playa |
-| Requena | 1h | Vino, cava y casco medieval |
-| Gandia / Dénia | 1h | Playa de la Costa Blanca norte |
+| Requena | 1 h | Vino, cava y casco medieval |
+| Gandia / Dénia | 1 h | Playa de la Costa Blanca norte |
+| Peñíscola | 1 h 30 | Castillo del Papa Luna y playa |
 
-## La Albufera y El Palmar
+La más cercana e imprescindible es la **Albufera**. El resto se elige según gustos: historia (Sagunto, Xàtiva), playa con castillo (Peñíscola) o vino (Requena). Elige **una escapada lejana por día** y disfrútala con calma.
 
-A 20-25 minutos del centro en coche, o unos 45 en los autobuses 24 y 25 de la EMT desde la Plaza de la Reina, el **parque natural de la Albufera** es un gran lago rodeado de arrozales y barracas, donde nació la paella. Da un **paseo en barca** entre los arrozales al atardecer —uno de los planes más bonitos cerca de la ciudad— y come una **paella valenciana de verdad** en **El Palmar**, la capital del arroz. Medio día perfecto. Lo enlazamos con la jornada 2 de [Valencia en dos días](/guias/valencia/valencia-en-2-dias).
+## La Albufera y El Palmar: barca y paella
 
-## Sagunto
+El **parque natural de la Albufera** es un gran lago rodeado de arrozales y barracas, la tierra donde nació la paella. Está a 20-25 minutos del centro en coche.
 
-A media hora en tren o coche, **Sagunto** corona un cerro con su **castillo** de murallas íberas, romanas y árabes, y conserva un **teatro romano** todavía en uso. Las vistas sobre la huerta y el mar son magníficas. Medio día.
+- **Cómo llegar:** autobuses **24 y 25 de la EMT** desde la Plaza de la Reina hasta El Palmar (unos 45 minutos, **1,50 €**; cada 25-35 minutos aproximadamente desde junio de 2026).
+- **Paseo en barca:** sale de los embarcaderos del pueblo. El normal dura 40-45 minutos, cuesta **unos 5 €** por adulto y no necesita reserva. El del **atardecer** (alrededor de 1 hora, **unos 7 €**) es el que todos quieren: resérvalo o llega con tiempo.
+- **Paella:** come una **paella valenciana de verdad** en **El Palmar**, la capital del arroz. Los fines de semana, reserva mesa.
 
-## Xàtiva
+Es un medio día perfecto. Lo enlazamos con la jornada 2 de [Valencia en dos días](/guias/valencia/valencia-en-2-dias).
 
-A 45 minutos en tren, **Xàtiva** (Játiva) tiene uno de los castillos más espectaculares de la Comunidad: una doble fortaleza sobre la sierra, con un casco histórico de fuentes y palacios. Cuna de la familia Borja. Día tranquilo.
+## Sagunto y Xàtiva: castillos a un paso en tren
 
-## Peñíscola
+**Sagunto**, a media hora, corona un cerro con su **castillo** de murallas íberas, romanas y árabes, y conserva un **teatro romano** todavía en uso. Las vistas sobre la huerta y el mar son magníficas.
 
-A hora y media, en la **Costa del Azahar**, **Peñíscola** es una ciudad amurallada sobre una península, con el **castillo del Papa Luna** (escenario de *Juego de Tronos*) y playa a sus pies. Combina monumento y baño: un día redondo en verano.
+- Cercanías **C-6** desde la Estación del Norte: 30 minutos, cada 20-30 minutos, unos **4 €**.
+- **Castillo gratuito**, igual que el teatro romano. Abre de 10:00 a 20:00 en verano (18:00 en invierno) y **cierra los lunes**. Desde la estación hay 30 minutos de subida.
+- Medio día.
 
-## Requena y la ruta del vino
+**Xàtiva** (Játiva), a 45 minutos, tiene uno de los castillos más espectaculares de la Comunidad: una **doble fortaleza** sobre la sierra, con un casco histórico de fuentes y palacios. Es la cuna de la familia Borja.
 
-A una hora, **Requena** es tierra de vino y cava, con un casco medieval (la Villa) y bodegas centenarias visitables. Ideal para amantes del enoturismo.
+- Cercanías **C-2**: 45 minutos, cada 30 minutos, **5-6 €**.
+- **Castillo: 6 €** (gratis los martes). Cierra los lunes. Se sube en 30 minutos desde el casco o en tren turístico por 4 €.
+- Día tranquilo. En verano, empieza la subida a las 10:00.
 
-## Lo práctico: trenes, precios y tiempos
+Con el bono de 10 viajes de Cercanías sale más barato que el billete sencillo, y los menores de 6 años no pagan.
 
-- **Cercanías desde la Estación del Norte:** Sagunto, 30 minutos (línea C-6, cada 20-30 minutos, 4 €); Xàtiva, 45 minutos (C-2, cada 30 minutos, 5-6 €); Gandia, 1 hora (C-1). Con el bono de 10 viajes sale más barato que el billete sencillo, y los menores de 6 no pagan.
-- **La Albufera:** autobuses 24 y 25 de la EMT hasta El Palmar (45 minutos, 1,50 €; cada 25-35 minutos aproximadamente desde junio de 2026). Los paseos en barca salen de los embarcaderos del pueblo: el normal dura 40-45 minutos, cuesta unos 5 € por adulto y no necesita reserva; el del atardecer (alrededor de 1 hora, unos 7 €) es el que todos quieren, así que resérvalo o llega con tiempo.
-- **Castillo de Sagunto:** gratuito, abre de 10:00 a 20:00 en verano (18:00 en invierno) y cierra los lunes. Son 30 minutos de subida desde la estación. El teatro romano, al lado, también gratis.
-- **Castillo de Xàtiva:** 6 € (gratis los martes), 30 minutos de subida desde el casco o tren turístico por 4 €. Cierra los lunes. La subida a mediodía en verano es dura: ve a las 10:00.
-- **Peñíscola:** 1 h 30 en coche por la AP-7; el castillo del Papa Luna cuesta 5 € y en agosto la ciudadela se colapsa a partir de las 11:00. Sin coche, tren a Benicarló-Peñíscola (1 h 30) y autobús o taxi los 7 km finales.
-- **Requena y el vino:** 1 hora en coche; las bodegas (Murviedro, Pago de Tharsys, Hispano Suizas) se visitan solo con reserva, por 10-25 € con cata. Las cuevas de la Villa de Requena cuestan 4 €. Hay tren de media distancia desde Valencia (1 h 10), pero las bodegas quedan fuera del pueblo.
+## Peñíscola y Requena: costa y vino
 
-## Lo que NO recomendamos
+**Peñíscola**, en la **Costa del Azahar**, es una ciudad amurallada sobre una península, con el **castillo del Papa Luna** (escenario de *Juego de Tronos*) y playa a sus pies. Combina monumento y baño: un día redondo en verano.
 
-1. **Saltarte la Albufera.** Es la escapada más cercana y la que hace distinta a Valencia.
-2. **Intentar dos escapadas lejanas el mismo día.** Elige una y disfrútala con calma.
-3. **Ir a Peñíscola sin contar el tiempo de carretera.** Hora y media cada trayecto; sal pronto.
+- **1 h 30 en coche** por la AP-7. Sin coche, tren a Benicarló-Peñíscola (1 h 30) y autobús o taxi para los 7 km finales.
+- **Castillo: 5 €**. En agosto la ciudadela se colapsa a partir de las 11:00: sal pronto.
 
-## Errores típicos
+**Requena**, a una hora, es tierra de vino y cava, con un casco medieval (la Villa) y bodegas centenarias.
 
-> **⚠️ Aviso:** los fallos que más vemos.
+- Las bodegas (Murviedro, Pago de Tharsys, Hispano Suizas) se visitan **solo con reserva**, por **10-25 €** con cata.
+- Las cuevas de la Villa de Requena cuestan **4 €**.
+- Hay tren de media distancia (1 h 10), pero las bodegas quedan fuera del pueblo: mejor en coche.
 
-1. **No reservar mesa en El Palmar** los fines de semana, o ir a la barca del atardecer sin reservar (es la que primero se llena).
-2. **Olvidar que muchos castillos cierran a mediodía o lunes.** Comprueba horarios.
-3. **Subestimar el calor en verano** en los castillos sin sombra (Sagunto, Xàtiva); ve a primera hora.
+## Con niños o con calor: las Cuevas de San José
 
-## En una frase
+En La Vall d'Uixó, al norte de Sagunto, las **Cuevas de San José** guardan el **río subterráneo navegable más largo de Europa**, que se recorre en barca. A los niños suele encantarles y dentro se está fresco cuando los castillos arden. Hay escalones y techos bajos. Sin coche, la excursión organizada de medio día incluye el transporte desde el centro de Valencia.
 
-Desde Valencia, en menos de una hora tienes la Albufera y su paella, castillos romanos y árabes en Sagunto y Xàtiva, y playa con historia en Peñíscola: escapadas para todos los gustos sin moverte mucho.
+[actividad: excursion-cuevas-de-san-jose]
+
+## Cómo moverse y errores que evitar
+
+Sagunto, Xàtiva y Gandia (Cercanías C-1, 1 hora) funcionan bien **en tren**, y la Albufera en autobús. Para Peñíscola, Requena o los pueblos del interior, el **coche** da más libertad.
+
+- **No te saltes la Albufera:** es la escapada más cercana y la que hace distinta a Valencia.
+- **No encadenes dos escapadas lejanas** el mismo día.
+- **Cuenta la carretera a Peñíscola:** hora y media cada trayecto.
+- **Comprueba horarios:** muchos castillos cierran a mediodía o los lunes.
+- **Ojo al calor en verano** en castillos sin sombra (Sagunto, Xàtiva): ve a primera hora.
+- **Reserva** mesa en El Palmar los fines de semana y la barca del atardecer.

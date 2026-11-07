@@ -4,7 +4,7 @@ descripcion: "Christmas in Barcelona 2026: Santa Llúcia market, lights on 130 k
 categoria: "barcelona"
 slug: "christmas-in-barcelona"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-07'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -28,7 +28,8 @@ slugs:
   it: natale-a-barcellona
   pt: natal-em-barcelona
 reservasArriba: true
-respuestaCorta: "Barcelona is **European Capital of Christmas 2026** and is stretching its lights across **130 km of streets**. The essentials: the **Santa Llúcia Christmas market** by the cathedral (28 November to 23 December in 2025), the light show on **Plaça Sant Jaume**, the **free New Year's Eve show at Montjuïc's Magic Fountain** and the **Three Kings Parade on 5 January** from 18:00. Heads-up: **26 December (Sant Esteve) is also a public holiday** in Catalonia."
+intro: '**Christmas in Barcelona** fills the city with plans from late November to Three Kings: lights on Passeig de Gràcia, the **Fira de Santa Llúcia** market beside the cathedral, the City Hall nativity scene, the Catalan children''s **caga tió**, the New Year''s chimes by Montjuïc''s Magic Fountain and the 5 January parade. In 2026 Barcelona is also **European Capital of Christmas**, so expect more events than usual.'
+respuestaCorta: 'For Christmas in Barcelona 2026, the city is **European Capital of Christmas**, with lights along **130 km of streets**. Don''t miss the **Fira de Santa Llúcia** by the cathedral, the **Plaça Sant Jaume** light show, the **free New Year''s chimes at Montjuïc** and the **Three Kings parade on 5 January** (6 PM). Note: **26 December is also a holiday**.'
 faq:
   - pregunta: "When do the Barcelona Christmas lights go on in 2026?"
     respuesta: "The city hasn't set the date yet. In 2025 they were switched on on Saturday 22 November at 18:00 on Passeig de Gràcia and shone every evening from 17:30 to 1:00 (until 2:00 on Fridays, Saturdays, the eve of public holidays, 25 and 31 December and 5 January). For 2026, the year Barcelona is European Capital of Christmas, the lights cover 130 km of streets."
@@ -50,85 +51,73 @@ actividades:
   - palau-dalmases-flamenco-show-palacio-siglo-xvii
   - montserrat-medio-dia-grupo-pequeno
 ---
-## The season at a glance
+
+## Barcelona Christmas 2026 calendar
 
 | What | Where | When (2025 edition) | Price |
 | --- | --- | --- | --- |
-| Lights switch-on | Passeig de Gràcia | 22 November, 18:00 | Free |
-| Santa Llúcia market | Avinguda de la Catedral | 28 November – 23 December, 10:00 to 21:00 | Free |
-| Sagrada Família Christmas fair | By the basilica | 22 November – 23 December | Free |
-| Nadal a Sant Jaume (light show) | Plaça Sant Jaume | 22 November – 5 January, from 18:30 | Free |
-| Traditional nativity scene | Pati dels Carruatges, City Hall (Carrer de la Ciutat) | 13 December – 5 January | Free |
-| Nadal al Port | Moll de la Fusta | 28 November – 6 January, 11:00 to 23:00 | Free (rides extra) |
+| Lights switch-on | Passeig de Gràcia | 22 November, 6 PM | Free |
+| Fira de Santa Llúcia | Avinguda de la Catedral | 28 November – 23 December, 10 AM to 9 PM | Free |
+| Sagrada Família Christmas fair | Next to the basilica | 22 November – 23 December | Free |
+| Nadal a Sant Jaume (projection) | Plaça Sant Jaume | 22 November – 5 January, from 6:30 PM | Free |
+| Traditional nativity scene | Pati dels Carruatges, City Hall (Carrer Ciutat) | 13 December – 5 January | Free |
+| Nadal al Port | Moll de la Fusta | 28 November – 6 January, 11 AM to 11 PM | Free (rides paid) |
 | Christmas Festival | Plaça de Catalunya | 20 – 30 December | Free |
-| Three Kings fair | Gran Via | 18 December – 6 January | Free |
-| New Year's Eve show | Av. Reina Maria Cristina (Montjuïc) | 31 December, from 22:00 | Free |
-| Three Kings Parade | Ciutadella – Montjuïc | 5 January, 18:00 | Free |
+| Fira de Reis | Gran Via | 18 December – 6 January | Free |
+| New Year's chimes | Av. Reina Maria Cristina (Montjuïc) | 31 December, from 10 PM | Free |
+| Three Kings parade | Ciutadella – Montjuïc | 5 January, 6 PM | Free |
 
-These are the 2025 dates: the 2026 programme comes out in November on barcelona.cat/nadal and we'll update this guide then. In 2026 Barcelona is **European Capital of Christmas**, so expect more events than usual.
+These are the 2025 dates: the 2026 programme is published in November at barcelona.cat/nadal and we'll update the guide then.
 
-## The lights and the Santa Llúcia market
+## Christmas lights and the Barcelona Christmas market
 
-The 2026 lights cover **130 km of streets**, with 255 arches and 272 light figures, plus new designer installations on Passeig de Maragall (a poem written in lights) and Rambla de Prim. The classic route is still **Passeig de Gràcia, Rambla de Catalunya and Portal de l'Àngel**.
+- **The 2026 lights** cover **130 km of streets**, with 255 arches and 272 light figures, and debut designer pieces on Passeig de Maragall (a poem written in lights) and Rambla de Prim. The classic route is still **Passeig de Gràcia, Rambla de Catalunya and Portal de l'Àngel**.
+- **The Fira de Santa Llúcia** is the city's oldest Christmas market: more than 160 stalls of nativity figures, moss, trees and tions, plus around thirty craft stalls, at the foot of the cathedral. It's best by day; at dusk it gets packed.
+- **The nativity scene is no longer in Plaça Sant Jaume.** Since 2024 the square has hosted a projection on the façades of City Hall and the Generalitat ("Simfonia d'Estels" in 2025): Monday to Thursday 6:30 to 10 PM, and until 11 PM on Fridays, Saturdays and holiday eves. The **traditional nativity scene** is set up inside City Hall, in the Pati dels Carruatges (entrance on Carrer Ciutat), 11 AM to 2 PM and 4 to 8 PM on weekdays, and 11 AM to 8 PM at weekends and on holidays.
 
-The **Fira de Santa Llúcia** is the city's oldest Christmas market: more than 160 stalls of nativity figures, moss, trees and tions, plus around thirty craft stalls, right below the cathedral. It's best in daylight; after dark it gets packed.
+## Things to do in Barcelona at Christmas: an evening plan and ideas for kids
 
-## What happened to the Plaça Sant Jaume nativity scene?
+A December evening done right:
 
-Since 2024 **there has been no nativity scene on the square**. In 2025 its place was taken by "Simfonia d'Estels", an immersive projection on the City Hall and Generalitat façades: Monday to Thursday 18:30 to 22:00, and until 23:00 on Fridays, Saturdays and the eve of holidays. The **traditional nativity scene** went inside City Hall, in the Pati dels Carruatges (entrance on Carrer de la Ciutat), open 11:00 to 14:00 and 16:00 to 20:00 on weekdays and 11:00 to 20:00 at weekends and on holidays.
-
-## A December evening, done right
-
-1. **17:00, City Hall nativity scene:** go before dark; there's a queue later on.
-2. **17:45, Santa Llúcia market:** wander the stalls and, if you have kids, buy a tió.
-3. **18:30, Plaça Sant Jaume:** first showing of the projection, two minutes' walk away.
-4. **19:15, hot chocolate on Carrer Petritxol**, with its old-school granjas, then on to Portal de l'Àngel and Plaça de Catalunya.
-5. **20:00, Passeig de Gràcia lit up**, stopping at Casa Batlló, which does night visits.
-6. **21:00, dinner:** tapas in the Gothic Quarter or a flamenco tablao.
-
-If you'd rather someone else did the planning, the private tapas, wine and flamenco tour packs all three into three hours, with no hunting for a table.
+1. **5 PM, City Hall nativity scene:** go in before dark; there's a queue later on.
+2. **5:45 PM, Fira de Santa Llúcia:** wander the stalls and, if you have kids, buy the tió.
+3. **6:30 PM, Plaça Sant Jaume:** the first showing of the projection, two minutes' walk away.
+4. **7:15 PM, hot chocolate on Carrer Petritxol**, with its old-school granjas, then on to Portal de l'Àngel and Plaça de Catalunya.
+5. **8 PM, Passeig de Gràcia lit up**, stopping at Casa Batlló, which has night visits.
+6. **9 PM, dinner:** tapas in the Gothic Quarter or a flamenco tablao. If you'd rather someone organised it, the private tapas, wine and flamenco tour combines all three in three hours, with no table hunting.
 
 [actividad: tapas-vino-y-flamenco-tour-privado-barcelona]
 
-## With kids
+**With kids:**
 
-- **The tió:** buy it at Santa Llúcia and "feed" it at home until the 24th. In 2025 the market had a giant tió for under-12s, 10:30 to 13:30 and 16:30 to 19:30.
-- **Nadal al Port** on the Moll de la Fusta, with rides and lights by the sea.
-- **The Kings' arrival:** on 5 January they land at the port and the mayor welcomes them around 16:30 on Plaça del Portal de la Pau. It's less of a crush than the parade.
-- For a guided option, there's a private family tour with a treasure hunt and churros with chocolate.
-
-[actividad: barcelona-tour-privado-familias-churros-juegos]
+- **The tió:** buy it at Santa Llúcia and "feed" it at home until the 24th. In 2025 the market had a giant tió for under-12s, 10:30 AM to 1:30 PM and 4:30 to 7:30 PM.
+- **Nadal al Port**, on the Moll de la Fusta, with rides and lights by the sea.
+- **Arrival of the Three Kings:** on 5 January they land at the port and the mayor welcomes them around 4:30 PM in Plaça del Portal de la Pau. Less crowded than the parade.
+- If you'd like a guided plan, there's a private family tour with a treasure hunt and churros with chocolate.
 
 ## Monuments and museums on public holidays
 
-| Place | 24 & 31 Dec | 25 Dec | 26 Dec | 1 Jan | 6 Jan |
+| Site | 24 & 31 Dec | 25 Dec | 26 Dec | 1 Jan | 6 Jan |
 | --- | --- | --- | --- | --- | --- |
-| Sagrada Família | No special hours announced | 9:00–14:00 | 9:00–14:00 | 9:00–14:00 | 9:00–14:00 |
+| Sagrada Família | No special hours announced | 9 AM–2 PM | 9 AM–2 PM | 9 AM–2 PM | 9 AM–2 PM |
 | Park Güell | Open | Open | Open | Open | Open |
-| Museu Picasso | 10:00–14:00 | Closed | Open | Closed | Not stated |
+| Museu Picasso | 10 AM–2 PM | Closed | Open | Closed | No data |
 
-- **Park Güell** is open all year; in winter time slots run from 9:30 to 17:30 and a general ticket costs €18.
-- **Museu Picasso:** October to March it opens Tuesday to Sunday, 10:00 to 19:00; on Thursdays from 16:00 to 19:00 entry is free.
-- **26 December (Sant Esteve)** is a public holiday in Catalonia: many shops and neighbourhood restaurants close, and it's the day for cannelloni.
+- **Park Güell** is open all year; in winter time slots run from 9:30 AM to 5:30 PM and general entry costs **€18**.
+- **Museu Picasso:** from October to March it's open Tuesday to Sunday, 10 AM to 7 PM; on Thursdays from 4 to 7 PM entry is free.
+- **26 December (Sant Esteve)** is a public holiday in Catalonia: many shops and neighbourhood restaurants close, and it's cannelloni day.
 
-With shorter opening hours, a guided visit with the ticket included saves you a morning in queues.
+With reduced hours, a guided visit with entry included saves you losing the morning in queues.
 
-[actividad: sagrada-familia-visita-guiada-guia-oficial]
+## New Year's Eve in Barcelona and the Three Kings parade
 
-## New Year's Eve and Three Kings
+- **Chimes at Montjuïc:** the 2025 show, on Avinguda de la Reina Maria Cristina, started at **10 PM** with music, drones and fireworks. Free, with no capacity limit. The streets around Plaça d'Espanya close to traffic: take the metro (Espanya, L1 and L3).
+- **Three Kings parade (5 January):** it leaves Ciutadella park at **6 PM** and runs along Marquès de l'Argentera, Passeig de Colom, the Paral·lel, Sepúlveda and Plaça d'Espanya to the Magic Fountain. It reaches the last stretch, on Avinguda Francesc Ferrer i Guàrdia, around 9:10 PM. The whole parade takes an hour to pass: find a spot on the Paral·lel, not on Colom.
 
-- **Midnight at Montjuïc:** the 2025 show on Avinguda de la Reina Maria Cristina started at 22:00, mixing music, drones and fireworks. Free, no capacity limit. The streets around Plaça d'Espanya close to traffic, so take the metro.
-- **Three Kings Parade (5 January):** leaves Parc de la Ciutadella at 18:00 and runs along Marquès de l'Argentera, Passeig de Colom, the Paral·lel, Sepúlveda and Plaça d'Espanya to the Magic Fountain, reaching the last stretch on Avinguda Francesc Ferrer i Guàrdia around 21:10. It takes about an hour to pass: find a spot on the Paral·lel rather than Colom.
+## Tips and common mistakes
 
-## If you have a spare day
-
-In winter **Montserrat** is far quieter and the light is crisp. The half-day small-group trip fits into a morning, and you're back in time for the lights.
-
-[actividad: montserrat-medio-dia-grupo-pequeno]
-
-## Common mistakes
-
-- **Forgetting about 26 December:** in Barcelona it's as much a holiday as the 25th. Book lunch or dinner ahead.
-- **Looking for the nativity scene on Plaça Sant Jaume:** it's now inside City Hall.
-- **Going to Santa Llúcia on the final weekend:** it ends on the 23rd and those days are gridlocked. Go on a weekday morning.
-- **Leaving a flamenco dinner for the 24th or 31st:** those nights have the fewest shows and the most demand. Check availability before you lock in plans.
+- **Don't forget 26 December:** in Barcelona it's as much a holiday as the 25th. Book lunch or dinner ahead.
+- **Don't look for the nativity scene in Plaça Sant Jaume:** it's now inside City Hall.
+- **Avoid Santa Llúcia on the last weekend:** it ends on the 23rd and those days are gridlocked. Go on a weekday morning.
+- **Don't leave your flamenco dinner to the 24th or 31st:** those nights have the fewest shows and the most demand.
+- **If you have a spare day:** in winter **Montserrat** is far less crowded and the light is crisp. The half-day small-group trip fits in a morning and you're back in time for the lights.

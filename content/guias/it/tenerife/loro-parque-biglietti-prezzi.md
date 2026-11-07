@@ -28,21 +28,24 @@ slugs:
   it: loro-parque-biglietti-prezzi
   pt: loro-parque-bilhetes-precos
 reservasArriba: true
-respuestaCorta: 'Sul sito ufficiale `loroparque.com` il biglietto costa **44 €** dai 12 anni in su e **32 €** dai 3 agli 11 anni; sotto i 3 anni è gratis. Se vai anche al Siam Park, il **Twin Ticket** costa **78 €** (57 € bambini) e ti fa risparmiare 10 €. Il parco è aperto **tutti i giorni dalle 9:30 alle 17:30** e non va quasi mai esaurito. Il biglietto ufficiale non è rimborsabile; su GetYourGuide il prezzo è lo stesso e puoi cancellare gratis fino a 24 ore prima.'
+intro: 'Con i biglietti Loro Parque entri nel parco zoologico più visitato di Tenerife, a **Puerto de la Cruz**, nel nord dell''isola. Dentro ci sono pappagalli, pinguini (Planet Penguin), orche, delfini, leoni marini, gorilla e un acquario, con **quattro spettacoli** al giorno. Dal sud ci vogliono circa 75-90 minuti in auto, e la visita completa richiede **5-6 ore**.'
+respuestaCorta: 'I biglietti Loro Parque costano **44 €** (oltre 11 anni) e **32 €** (3-11 anni) su loroparque.com; sotto i 3 anni gratis. **Twin Ticket** con Siam Park: **78 €** (57 € bambini). Aperto **tutti i giorni 9:30-17:30**, quasi mai esaurito. Il biglietto ufficiale non è rimborsabile; su GetYourGuide stesso prezzo con cancellazione gratuita.'
 actividades:
   - loro-parque-entradas
   - loro-parque-siam-park-combinado
 faq:
 - pregunta: Quanto costa il biglietto del Loro Parque nel 2026?
-  respuesta: 'Sul sito ufficiale, 44 € dai 12 anni in su e 32 € per i bambini dai 3 agli 11 anni. Sotto i 3 anni si entra gratis. Prezzi verificati il 4 novembre 2026.'
-- pregunta: Che cos'è il Twin Ticket e quanto costa?
-  respuesta: 'È il biglietto combinato Loro Parque e Siam Park: 78 € adulti e 57 € bambini dai 3 agli 11 anni, 10 € in meno rispetto a due biglietti separati. Hai 15 giorni dalla prima visita per andare nel secondo parco; al Siam Park ti chiedono il QR e il braccialetto.'
+  respuesta: Sul sito ufficiale, 44 € sopra gli 11 anni e 32 € per i bambini da 3 a 11 anni. Sotto i 3 anni si entra gratis. Verificato il 4 novembre 2026.
+- pregunta: Cos'è il Twin Ticket e quanto costa?
+  respuesta: 'È il biglietto combinato Loro Parque e Siam Park: 78 € adulti e 57 € bambini da 3 a 11 anni, 10 € in meno rispetto ai due biglietti separati. Hai 15 giorni dalla prima visita per usare il secondo, e al Siam Park ti chiedono il QR e il braccialetto.'
 - pregunta: I biglietti del Loro Parque si esauriscono?
-  respuesta: 'Quasi mai. Il parco è aperto 365 giorni l''anno e la biglietteria vende per lo stesso giorno. Comprare online ti fa evitare soprattutto la coda all''ingresso durante le vacanze e nel fine settimana.'
-- pregunta: Si può avere il rimborso del biglietto del Loro Parque?
-  respuesta: 'Il biglietto ufficiale non è rimborsabile, ma secondo il parco non scade e vale anche in un altro giorno. Se le date non sono sicure, il biglietto di GetYourGuide costa uguale e si cancella gratis fino a 24 ore prima.'
+  respuesta: Quasi mai. Il parco è aperto 365 giorni l'anno e la biglietteria vende per lo stesso giorno. Comprare online ti evita la coda all'ingresso, soprattutto in vacanza e nei fine settimana.
+- pregunta: Si può rimborsare il biglietto del Loro Parque?
+  respuesta: Il biglietto ufficiale non è rimborsabile, ma secondo il parco non scade e puoi usarlo un altro giorno. Se non hai il giorno deciso, il biglietto di GetYourGuide costa uguale e si cancella gratis fino a 24 ore prima.
+- pregunta: C'è uno sconto per i residenti alle Canarie?
+  respuesta: 'Sì, ma solo in biglietteria: bisogna dimostrare la residenza alle Canarie con il certificato, il documento d''identità o un altro documento valido, insieme a un documento con foto.'
 - pregunta: Come si arriva al Loro Parque senza auto?
-  respuesta: 'Il parco ha un trenino gratuito che parte da Plaza de los Reyes Católicos, a Puerto de la Cruz, dalle 9:00 ogni 20 minuti. Dal sud dell''isola ci sono escursioni con trasferimento.'
+  respuesta: Il parco ha un trenino gratuito che parte da plaza de los Reyes Católicos a Puerto de la Cruz dalle 9:00, ogni 20 minuti. Dal sud dell'isola ci sono escursioni con transfer.
 opciones:
   - ficha: loro-parque-entradas
     etiqueta: Cancellazione gratuita
@@ -50,71 +53,55 @@ opciones:
     etiqueta: Con Siam Park
 ---
 
-Il Loro Parque, a Puerto de la Cruz sulla costa nord di Tenerife, è il parco faunistico più visitato dell'isola: pappagalli, pinguini, orche, delfini, gorilla e un acquario, con quattro spettacoli al giorno. La buona notizia è che il biglietto non è difficile da trovare: il parco è aperto 365 giorni l'anno e non va quasi mai esaurito. Conta invece sapere quanto costa ogni biglietto, quando conviene il Twin Ticket e cosa succede se cambi programma.
+## Prezzi dei biglietti Loro Parque nel 2026
 
-## Quale biglietto scegliere?
+Verificati sul negozio ufficiale, loroparque.com, il 4 novembre 2026:
 
-| Se vuoi… | Opzione | Da |
-| --- | --- | --- |
-| Solo il Loro Parque, con cancellazione gratuita | [Biglietto d'ingresso al Loro Parque](/en/cities/tenerife/activities/loro-parque-tickets), 4,8★ (14.827) | 44 € |
-| Loro Parque e Siam Park | [Twin Ticket combinato](/en/cities/tenerife/activities/loro-parque-siam-park-combo), 4,7★ (8.501) | 78 € |
-| Comprare direttamente dal parco | Sito ufficiale `loroparque.com` | 44 € |
-
-## 1. I prezzi ufficiali del 2026
-
-Verificati sul negozio ufficiale di `loroparque.com` il 4 novembre 2026:
-
-- **Adulti (dai 12 anni):** 44 €.
-- **Bambini dai 3 agli 11 anni:** 32 €.
+- **Adulti (oltre 11 anni):** 44 €.
+- **Bambini da 3 a 11 anni:** 32 €.
 - **Sotto i 3 anni:** gratis.
-- **Twin Ticket (Loro Parque + Siam Park):** 78 € adulti, 57 € bambini.
+- **Twin Ticket (Loro Parque + Siam Park):** 78 € adulti e 57 € bambini.
 
-Il biglietto comprende tutto il parco e i **quattro spettacoli**: pappagalli, delfini, orche e leoni marini. Si pagano a parte il pranzo, il parcheggio e le esperienze speciali con gli animali.
+Il biglietto include tutto il parco e i **quattro spettacoli**: pappagalli, delfini, orche e leoni marini. Si pagano a parte il cibo, il parcheggio e le esperienze speciali con gli animali.
 
-Da sapere: il parco **non rimborsa** i biglietti ufficiali. In cambio non scadono e valgono anche in un altro giorno. Se viaggi con bambini o hai i giorni contati, una piattaforma con cancellazione gratuita può convenirti di più.
+**Sito ufficiale o GetYourGuide:** il prezzo è lo stesso, 44 € l'adulto. Cambiano le condizioni:
 
-## 2. Il Twin Ticket: quando conviene
+- **Sito ufficiale:** **nessun rimborso**, ma il biglietto non scade e puoi usarlo un altro giorno.
+- **GetYourGuide:** cancellazione gratuita fino a **24 ore prima**, con rimborso completo, e biglietto sul telefono.
 
-Il Twin Ticket unisce il Loro Parque al [Siam Park](/it/guides/tenerife/siam-park-biglietti-prezzi), il parco acquatico di Costa Adeje dello stesso gruppo. Rispetto a due biglietti separati risparmi **10 €** e hai **15 giorni** dalla prima visita per andare nel secondo parco. Al Siam Park mostri il QR del Twin Ticket e il braccialetto che ti danno il primo giorno.
-
-Conviene se visiti entrambi i parchi nello stesso viaggio. Se te ne interessa solo uno, prendi il biglietto singolo: i due parchi sono agli estremi opposti dell'isola (Puerto de la Cruz a nord, Costa Adeje a sud), a circa 75 km.
-
-## 3. Sito ufficiale o GetYourGuide?
-
-Il prezzo è **lo stesso**: 44 € l'adulto. La differenza sta nelle condizioni:
-
-- **Sito ufficiale:** nessun rimborso, ma il biglietto vale anche un altro giorno.
-- **GetYourGuide:** cancellazione gratuita fino a **24 ore prima**, rimborso completo e biglietto sul telefono.
-
-Se le date sono fisse, è indifferente dove compri. Se il programma dipende dal meteo o dai bambini, la cancellazione gratuita è un'assicurazione che non costa nulla.
+Se hai le date fisse, non importa dove compri. Se dipendi dal meteo o dall'umore dei bambini, la cancellazione gratuita è un'assicurazione a costo zero.
 
 [actividad: loro-parque-entradas]
 
-## 4. Orari, durata della visita e come arrivare
+## Twin Ticket con Siam Park: quando conviene
 
-- **Orari:** tutti i giorni dell'anno, dalle **9:30 alle 17:30**. Gli orari degli spettacoli te li danno all'ingresso e sono sul sito del parco.
-- **Quanto tempo:** calcola dalle 5 alle 6 ore per vedere i quattro spettacoli senza fretta. Arriva all'apertura: al Planet Penguin e all'acquario c'è meno gente.
-- **Trenino gratuito:** parte da **Plaza de los Reyes Católicos** a Puerto de la Cruz dalle 9:00, ogni 20 minuti.
-- **Dal sud:** da Costa Adeje o Los Cristianos sono 75-90 minuti di auto. Le escursioni con trasferimento ti evitano di guidare.
+Il Twin Ticket unisce il Loro Parque al [Siam Park](/it/guides/tenerife/siam-park-biglietti-prezzi), il parco acquatico di Costa Adeje dello stesso gruppo. Rispetto a due biglietti separati risparmi **10 €** e hai **15 giorni** dalla prima visita per usare il secondo. Al Siam Park mostri il QR del Twin Ticket e il braccialetto che ti danno il primo giorno.
 
-## 5. Gli sconti che ci sono (e quello che non c'è)
+Conviene se vai in entrambi i parchi nello stesso viaggio. Se te ne interessa solo uno, meglio il biglietto singolo: sono agli estremi opposti dell'isola (Puerto de la Cruz a nord e Costa Adeje a sud), a circa 75 km.
 
-- **Residenti alle Canarie:** prezzo speciale **solo in biglietteria**, dimostrando la residenza (empadronamiento).
-- **Gruppi di almeno 20 persone:** tariffa di gruppo su richiesta.
-- **Polizia e Guardia Civil spagnole:** gratis per gli agenti del comune e sconto del 25 % per quelli del resto della Spagna, anche per coniuge e figli, solo in biglietteria.
+## Orari del Loro Parque, durata della visita e trenino gratuito
+
+- **Orari:** tutti i giorni dell'anno, dalle **9:30 alle 17:30**. Gli orari degli spettacoli li danno all'ingresso e sul sito del parco.
+- **Quanto tempo:** 5-6 ore se vuoi vedere i quattro spettacoli senza fretta.
+- **Arriva all'apertura:** di prima mattina c'è meno gente a Planet Penguin e all'acquario, e non perdi i primi spettacoli.
+- **Trenino gratuito:** parte da **plaza de los Reyes Católicos** a Puerto de la Cruz dalle 9:00, ogni 20 minuti.
+- **Dal sud:** da Costa Adeje o Los Cristianos sono circa 75-90 minuti in auto. Ci sono escursioni con transfer incluso che ti evitano di guidare.
+
+## Biglietti più economici: gli sconti che esistono (e quelli no)
+
+- **Residenti alle Canarie:** prezzo speciale, **solo in biglietteria**, dimostrando la residenza (certificato, documento d'identità o altro documento valido) con un documento con foto.
+- **Gruppi di 20 persone o più:** prezzo speciale su richiesta al parco.
+- **Polizia e Guardia Civil spagnole:** gratis per la polizia locale e 25 % di sconto per quella del resto della Spagna, per loro, il partner e i figli, solo in biglietteria.
 - **Famiglie numerose:** nessuno sconto.
 
 ## Orche e benessere animale
 
 Il Loro Parque ospita orche e delfini e considera i suoi spettacoli parte del lavoro di educazione e conservazione svolto tramite la Loro Parque Fundación. Alcune associazioni per la tutela degli animali criticano la detenzione di cetacei in cattività. Se per te è importante, puoi visitare il parco saltando gli spettacoli con i cetacei, oppure vedere [balene e delfini in libertà](/it/guides/tenerife/avvistamento-balene-tenerife) al largo della costa sud.
 
-## Errori da evitare
+## Consigli
 
-1. **Comprare su siti che imitano quello ufficiale.** Ce ne sono diversi con nomi simili. Quello ufficiale è `loroparque.com`.
-2. **Prendere il Twin Ticket per un solo parco.** Conviene solo se usi entrambi entro 15 giorni.
-3. **Arrivare a mezzogiorno.** Perdi i primi spettacoli e fai più coda nelle zone al chiuso.
-4. **Contare sul rimborso del biglietto ufficiale.** Non c'è; se i tuoi piani possono cambiare, compra con cancellazione gratuita.
-
-## In una frase
-
-Compra in anticipo (44 €, o 78 € il Twin Ticket se vai anche al Siam Park), arriva alle 9:30 e dedica al parco tutta la giornata; per altre idee sull'isola, leggi [cosa vedere a Tenerife](/it/guides/tenerife/cosa-vedere-a-tenerife).
+- **Compra solo su loroparque.com** o su una piattaforma conosciuta: ci sono siti con nomi simili che si spacciano per quello ufficiale.
+- **Non prendere il Twin Ticket se vai in un solo parco:** fa risparmiare solo se usi entrambi entro 15 giorni.
+- **Non arrivare a mezzogiorno:** perdi spettacoli e trovi più coda negli spazi al chiuso.
+- **Non contare sul rimborso** del biglietto ufficiale; se i tuoi piani possono cambiare, compra con cancellazione gratuita.
+- Per altre idee sull'isola, leggi [cosa vedere a Tenerife](/it/guides/tenerife/cosa-vedere-a-tenerife).

@@ -2,16 +2,17 @@
 titulo: "Ibiza schönste Buchten nach Regionen (und die besten Sonnenuntergänge)"
 descripcion: "Ibiza schönste Buchten: Cala Comte, Cala d'Hort mit Es Vedrà, Cala Salada, Benirràs und Ses Salines. Parken, Busse, Bootstouren ab 52 € und Sonnenuntergänge."
 metaTitle: "Ibiza schönste Buchten: Calas nach Region"
-respuestaCorta: 'Die schönsten Buchten von Ibiza sind **Cala Comte und Cala d''Hort** im Südwesten (türkisfarbenes Wasser und die besten Sonnenuntergänge, die zweite mit Blick auf Es Vedrà), **Cala Salada und Benirràs** im wilderen Norden und Ses Salines im Süden. Im Sommer kommst du **vor 9:00 oder nach 18:00 Uhr** oder erkundest sie vom Meer aus: Bootstouren zu den Buchten gibt es **ab 52 €**.'
+intro: 'Die **schönsten Buchten von Ibiza** zählen zu den schönsten des Mittelmeers: türkisfarbenes Wasser, Pinienwälder bis ans Meer und legendäre Sonnenuntergänge. Der **Südwesten** hat die fotogensten, etwa Cala Comte und Cala d''Hort gegenüber der Felseninsel **Es Vedrà**; der **Norden** wilde, ruhige Buchten wie Cala Salada und Benirràs; der **Süden** die angesagten Strände an den Salinen.'
+respuestaCorta: 'Ibizas schönste Buchten sind **Cala Comte und Cala d''Hort** im Südwesten (türkisfarbenes Wasser und die besten Sonnenuntergänge, die zweite gegenüber Es Vedrà), **Cala Salada und Benirràs** im wilderen Norden und **Ses Salines** im Süden. Im Sommer **vor 9:00 oder nach 18:00 Uhr** kommen oder die Buchten per Boot vom Meer aus erkunden.'
 categoria: "ibiza"
 slug: "schoenste-buchten-ibiza"
 fecha: "2026-04-14"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 5
+tiempo_lectura: 4
 keywords:
   - "ibiza schönste buchten"
   - "ibiza buchten"
@@ -28,6 +29,17 @@ slugs:
   fr: plus-belles-criques-d-ibiza
   it: calette-piu-belle-di-ibiza
   pt: melhores-calas-de-ibiza
+faq:
+- pregunta: Welche ist die schönste Bucht auf Ibiza?
+  respuesta: 'Das hängt davon ab, was Sie suchen: Cala Comte für türkisfarbenes Wasser und Sonnenuntergang, Cala d''Hort für den Blick auf Es Vedrà, Cala Salada oder Benirràs für den wilden, bewaldeten Norden.'
+- pregunta: Kann man mit dem Auto zur Cala Salada fahren?
+  respuesta: 'Vom 1. Mai bis 15. Oktober (Saison 2026) ist die Zufahrt von 9:30 bis 17:00 Uhr kontrolliert: Autos kommen nur durch, solange Plätze frei sind (rund 65). Roller, Fahrräder und Taxis dürfen passieren. Alternativ parkt man am Parkplatz Can Coix und nimmt den Bus P7, oder man fährt mit dem Boot ab dem Hafen von Sant Antoni.'
+- pregunta: Wo sieht man auf Ibiza den Sonnenuntergang?
+  respuesta: In der Cala d'Hort oder am Mirador des Savinar mit Es Vedrà im Hintergrund, in der Cala Comte, sonntags in Benirràs mit Trommeln und am Sunset Strip von Sant Antoni (Café del Mar), dem vollsten. Im Sommer eine Stunde vorher da sein.
+- pregunta: Kommt man mit dem Bus zu den Buchten von Ibiza?
+  respuesta: 'Im Sommer fahren Saisonbusse nach Platges de Comte, Cala Bassa, Cala Salada, Benirràs und Ses Salines, und die Linie A13 fährt mit nur sechs Fahrten am Tag zur Cala d''Hort. Liniennummern und Fahrpläne ändern sich jede Saison: auf alsaibiza.es prüfen. Für den Großteil des Nordens braucht man Auto oder Boot.'
+- pregunta: Wann gibt es Quallen in den Buchten von Ibiza?
+  respuesta: Vor allem bei Südwind. Bei Nordwind sind die Buchten im Süden ruhig und die im Norden bewegt, und umgekehrt. Das Wasser hat im Juli und August 25-27 °C und im September etwa 24 °C.
 opciones:
   - ficha: ruta-calas-ibiza-todo-incluido-paddle-esnorquel
     etiqueta: Bestbewertet
@@ -46,77 +58,50 @@ imagen_alt: "Cala Conta mit ihrer Insel auf Ibiza"
 reservasArriba: true
 ---
 
-**Ibiza hat einige der schönsten Buchten des Mittelmeers**, mit türkisfarbenem Wasser und legendären Sonnenuntergängen. Im Sommer gibt es aber auch das ewige Problem: kaum Parkplätze und angesagte Buchten, die aus allen Nähten platzen. Dieser Guide ordnet die Buchten (auf Spanisch „Calas“) nach Regionen, sagt dir, welche Infrastruktur haben und wo du den besten Sonnenuntergang siehst, mit dem Trick, früh aufzustehen, um sie wirklich zu genießen.
+## Ibiza-Buchten nach Gegend
 
-## Die Buchten vom Meer aus
-
-| Aktivität | Bewertung | Ab |
-| --- | --- | --- |
-| [Buchten-Tour all inclusive mit Essen, Stand-up-Paddling und Schnorcheln](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4,9★ (1.410) | 60 € |
-| [Bootstour zu den Buchten mit Stand-up-Paddling, Essen und Getränken](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4,6★ (3.570) | 69 € |
-| [Kajaktour durch Meereshöhlen mit Schnorcheln ab Cala Codolar](/de/cities/ibiza/activities/ibiza-kajaktour-hoehlen-schnorcheln-cala-codolar) | 4,8★ (333) | 50 € |
-| [Boot nach Es Vedrà, Espalmador und Formentera mit Essen](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4,1★ (1.335) | 155 € |
-
-Die Insel ist klein: Im **Südwesten** liegen die fotogensten Buchten und die Sonnenuntergänge, der **Norden** ist ruhiger und wilder, und im **Süden** findest du die angesagten Strände neben den Salinen.
-
-[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
-
-## Nach Regionen
-
-| Region | Wichtigste Buchten | Charakter |
+| Gegend | Top-Buchten | Charakter |
 | --- | --- | --- |
 | Südwesten | Cala Comte, Cala d'Hort, Cala Bassa, Cala Jondal | Türkis, Sonnenuntergänge, Beach Clubs |
 | Norden | Cala Salada, Benirràs, Cala Xarraca, Portinatx | Wild, Pinienwälder, ruhig |
-| Süden | Ses Salines, Es Cavallet | Angesagt, neben den Salinen |
-| Osten | Cala Llonga, Cala Mastella, Cala Boix | Familienfreundlich und klein |
+| Süden | Ses Salines, Es Cavallet | Angesagt, an den Salinen |
+| Osten | Cala Llonga, Cala Mastella, Cala Boix | Klein und familienfreundlich |
 
-## Die Buchten, die du gesehen haben solltest
+## Die Pflichtbuchten: Cala Comte, Cala Salada, Cala d'Hort und Benirràs
 
-**Cala Comte (Südwesten).** Türkisfarbenes Wasser mit kleinen Inseln davor und **einer der besten Sonnenuntergänge** der Insel. Sehr beliebt: Komm früh.
+- **Cala Comte (Südwesten).** Türkisfarbenes Wasser mit vorgelagerten Inselchen und einer der schönsten Sonnenuntergänge der Insel. Sehr beliebt: früh hingehen.
+- **Cala Salada und Cala Saladeta (Norden).** Zwei benachbarte Buchten mit klarem Wasser und Pinienwald, nördlich von Sant Antoni. Die kleinere, wildere Saladeta erreicht man zu Fuß.
+- **Cala d'Hort (Südwesten).** Die Bucht mit Blick auf **Es Vedrà**, die sagenumwobene Felseninsel. Der Sonnenuntergang mit dem Felsen im Hintergrund ist Ibizas Postkartenmotiv.
+- **Benirràs (Norden).** Berühmt für die **Trommeln bei Sonnenuntergang am Sonntag**, mit Hippie-Flair und einem markanten Felsen, dem „Finger Gottes".
+- **Ses Salines (Süden).** Der angesagte Strand am Naturpark der Salinen, mit Beach Clubs und klarem Wasser dank der Posidonia.
 
-**Cala Salada und Cala Saladeta (Norden).** Zwei nebeneinanderliegende Buchten mit glasklarem Wasser und Pinienwald, nördlich von San Antonio. Die Saladeta ist kleiner und wilder und nur zu Fuß erreichbar.
+## Anfahrt und Parken
 
-**Cala d'Hort (Südwesten).** Die Bucht mit Blick auf **Es Vedrà**, die sagenumwobene Felseninsel. Der Sonnenuntergang hier, mit dem Felsen im Hintergrund, ist die Postkarte von Ibiza.
+- **Cala Bassa:** kostenloser Parkplatz, im August gegen 10:00-11:00 Uhr voll.
+- **Cala Comte:** Einige Parkplätze sind privat oder saisonal; den Tarif vor Ort prüfen.
+- **Cala Salada und Saladeta:** Vom 1. Mai bis 15. Oktober (Saison 2026) ist die Zufahrt **von 9:30 bis 17:00 Uhr** kontrolliert: Autos kommen nur durch, solange Plätze frei sind (rund 65); Roller, Fahrräder und Taxis dürfen passieren. Alternativ das Auto am Parkplatz Can Coix abstellen und den Bus P7 nehmen (der auch am Busbahnhof Sant Antoni abfährt) oder mit dem Boot ab dem Hafen von Sant Antoni fahren. Vom ersten Parkplatz führt ein rund 500 m langer Fußweg zum Strand.
+- **Cala d'Hort:** Geparkt wird am Rand der Zufahrtsstraße, die sich am späten Nachmittag wegen des Sonnenuntergangs füllt.
+- **Ohne Auto:** Im Sommer fahren Saisonbusse nach Platges de Comte, Cala Bassa, Cala Salada, Benirràs und Ses Salines (2026 Linien wie P4, P5, P6, P7, A7 und A14). Zur Cala d'Hort fährt die A13 ab Sant Josep, nur sechsmal am Tag. Nummern und Fahrpläne ändern sich jede Saison: am selben Tag auf alsaibiza.es prüfen. Für den Großteil des Nordens braucht man Auto oder Boot.
 
-**Benirràs (Norden).** Berühmt für die **Trommeln zum Sonnenuntergang** am Sonntag. Hippie-Atmosphäre und Sonnenuntergang mit einem markanten Felsen („Finger Gottes“).
+## Sonnenuntergang: Cala d'Hort und Es Vedrà
 
-**Ses Salines (Süden).** Der angesagte Strand neben dem Naturpark der Salinen, mit Beach Clubs und klarem Wasser (dank der Posidonia-Seegraswiesen).
-
-## Praktisches: Parken, Anreise und Kosten
-
-- **Parkplätze:** Der Parkplatz an der Cala Bassa ist kostenlos und im August gegen 10:00–11:00 Uhr voll; an der Cala Comte sind manche Parkplätze privat oder nur saisonal geöffnet, schau also bei der Ankunft auf die Preise. An der Cala Salada und Saladeta wird vom 1. Mai bis 15. Oktober (Saison 2026) die Zufahrtsstraße täglich **von 9:30 bis 17:00 Uhr** kontrolliert: Autos dürfen nur durch, solange Plätze frei sind (etwa 65); Roller, Fahrräder und Taxis dürfen immer passieren. Die Alternative ist, das Auto auf dem Auffangparkplatz Can Coix stehen zu lassen und den Bus P7 zu nehmen (der auch am Busbahnhof von San Antonio abfährt), oder mit dem Boot ab dem Hafen von San Antonio zu fahren. Vom ersten Parkplatz führt ein ausgeschilderter Fußweg von etwa 500 m zum Strand hinunter. An der Cala d'Hort parkst du am Rand der Zufahrtsstraße, die sich am späten Nachmittag wegen des Sonnenuntergangs füllt.
-- **Ohne Auto:** Im Sommer fahren Saisonbusse zu den Platges de Comte, zur Cala Bassa, Cala Salada, nach Benirràs und Ses Salines (2026 Linien wie P4, P5, P6, P7, A7 und A14). Nummern und Fahrpläne ändern sich jede Saison: Prüfe sie am selben Tag auf alsaibiza.es. Zur Cala d'Hort fährt im Sommer die Linie A13 ab Sant Josep, nur sechsmal am Tag; für fast den ganzen Norden brauchst du ein Auto oder ein Boot.
-- **Beach Clubs:** In der Cala Jondal, in Ses Salines und an der Cala Bassa sind die Liegen in der ersten Reihe teuer und verlangen oft einen Mindestverzehr; in der zweiten und dritten Reihe sind sie günstiger, und auf dem öffentlichen Sand liegst du gratis.
-- **Strandlokale in den Buchten:** Essen in der Cala Mastella (El Bigotes, nur mit Reservierung und berühmt für seinen Fischeintopf Bullit de peix), in der Cala Boix oder der Cala Xarraca ist deutlich günstiger als in den angesagten Strandbars.
-- **Wasser und Quallen:** Das Meer hat im Juli und August 25–27 °C und im September etwa 24 °C. Quallen kommen mit Südwind; bei Nordwind sind die Buchten im Süden glatt und die im Norden unruhig, und umgekehrt.
-- **Es Vedrà aus der Nähe:** Der Aussichtspunkt des Savinar (die Torre des Savinar) liegt 20 Minuten zu Fuß von der Straße zur Cala d'Hort, auf einem Schotterweg, und ist viel weniger überlaufen als die Bucht. Nimm eine Taschenlampe mit, wenn du bis zum Sonnenuntergang bleibst.
-
-## Wo du den Sonnenuntergang siehst
-
-- **Cala d'Hort / Mirador des Savinar**, mit Es Vedrà im Hintergrund: der Klassiker.
+- **Cala d'Hort und der Mirador des Savinar**, mit Es Vedrà im Hintergrund: der Klassiker. Die Torre des Savinar liegt 20 Gehminuten von der Straße zur Cala d'Hort entfernt, über einen Feldweg, und ist viel leerer als die Bucht. Nehmen Sie für den Rückweg eine Taschenlampe mit.
 - **Cala Comte**, einer der schönsten.
 - **Benirràs** am Sonntag, mit Trommeln.
-- Der **Sunset Strip von San Antonio** (Café del Mar), der bekannteste und vollste.
+- Der **Sunset Strip von Sant Antoni** (Café del Mar), der bekannteste und vollste.
 
-> **⭐ Tipp:** Im Sommer sind die Sonnenuntergänge überlaufen. Komm **eine Stunde vorher**, um einen Platz zu bekommen, oder fahr außerhalb der Hochsaison. Für die kleinen Buchten gilt: vor 9:00 oder nach 18:00 Uhr.
+Im Sommer sind die Sonnenuntergänge voll: **eine Stunde vorher** da sein.
 
-## Was wir NICHT empfehlen
+## Tipps und typische Fehler
 
-1. **Im August mittags zu den kleinen Buchten fahren.** Kein Parkplatz und völlig überfüllt.
-2. **In den wilden Buchten Infrastruktur erwarten.** In manchen im Norden gibt es keine Strandbar; nimm Wasser und Schatten mit.
-3. **Unachtsam auf die Posidonia treten.** Die Seegraswiesen (UNESCO-Welterbe) sorgen für das klare Wasser.
-4. **Nur am Strand von Playa d'en Bossa bleiben.** Die schönsten Buchten liegen woanders.
+- **Früh aufstehen:** In kleinen und angesagten Buchten vor 9:00 oder nach 18:00 Uhr kommen. Mittags im August findet man keinen Parkplatz.
+- **Auf den Wind achten:** Je nach Wind ist eine Bucht geschützt oder bewegt. Das Wasser hat im Juli und August 25-27 °C und im September etwa 24 °C; Quallen kommen bei Südwind.
+- **Beach Clubs:** In Cala Jondal, Ses Salines und Cala Bassa sind Liegen in der ersten Reihe teuer und oft an einen Mindestverzehr gebunden; reservieren. Die zweite und dritte Reihe sind günstiger, der öffentliche Sand ist kostenlos.
+- **Buchtbars:** In der Cala Mastella (El Bigotes, nur mit Reservierung und berühmt für sein bullit de peix), Cala Boix oder Cala Xarraca isst man deutlich günstiger als in den angesagten Lokalen.
+- **Wasser und Schatten mitnehmen:** In einigen Buchten im Norden gibt es keine Bar.
+- **Posidonia schützen:** Diese Seegraswiesen, UNESCO-Welterbe, sorgen für das kristallklare Wasser.
+- **Vom Meer aus:** Ein Boot oder eine [Kajaktour durch die Höhlen ab Cala Codolar](/de/cities/ibiza/activities/ibiza-kajaktour-hoehlen-schnorcheln-cala-codolar) umgehen das Parkproblem. Die bestbewertete Buchtentour umfasst Essen, Paddle-Surf und Schnorcheln:
 
-[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
+[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
 
-## Typische Fehler
-
-> **⚠️ Hinweis:** die Fehler, die wir am häufigsten sehen.
-
-1. **Nicht früh aufstehen.** Nur so findest du an den angesagten Buchten einen Parkplatz.
-2. **In den Beach Clubs der Cala Jondal oder von Ses Salines nicht reservieren**: hoher Mindestverzehr.
-3. **Den Wind nicht beachten.** Je nachdem, woher er weht, ist eine Bucht geschützt oder unruhig.
-
-## In einem Satz
-
-Die schönsten Buchten von Ibiza reichen vom Türkis der Cala Comte bis zum Sonnenuntergang an der Cala d'Hort mit Es Vedrà im Hintergrund; wer früh aufsteht, hat den Vorteil. Sie sind die andere Seite der Insel, die [Ibiza Sehenswürdigkeiten](/de/guides/ibiza/was-sehen-in-ibiza) beschreibt.
+Die Buchten sind die andere Seite der Insel, die [was man auf Ibiza sehen sollte](/de/guides/ibiza/was-sehen-in-ibiza) beschreibt.

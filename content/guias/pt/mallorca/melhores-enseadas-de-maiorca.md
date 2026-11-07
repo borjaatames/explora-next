@@ -1,11 +1,12 @@
 ---
 titulo: "As melhores enseadas de Maiorca por zonas (e como evitar as filas)"
 descripcion: "As melhores enseadas e praias de Maiorca: Es Trenc, Cala Mondragó, Caló des Moro, Sa Calobra e mais, por zonas. Quais têm serviços, como chegar e quando ir."
-respuestaCorta: 'As melhores enseadas de Maiorca são **Es Trenc** (selvagem e de água caribenha), **Cala Mondragó** (parque natural, ideal para famílias), **Caló des Moro** (minúscula e fotogénica) e **Sa Calobra**, na Tramuntana. Em julho e agosto chegue antes das 9h00 ou depois das 18h00, ou vá de barco: o de Port de Sóller para Sa Calobra sai desde 35 €.'
+intro: 'As **melhores enseadas de Maiorca** vão do ar caribenho e selvagem de **Es Trenc** ao turquesa protegido de **Cala Mondragó**, passando pela minúscula **Caló des Moro** e pela paisagem de montanha de **Sa Calobra**, na Tramuntana. Algumas são longas e familiares, outras pequenas e fotogénicas, e há as totalmente selvagens, sem um único bar de praia. Este guia organiza-as por zonas e explica como chegar a cada uma sem lutar por estacionamento.'
+respuestaCorta: 'As melhores enseadas de Maiorca são **Es Trenc** (selvagem, água caribenha), **Cala Mondragó** (parque natural, ideal para famílias), **Caló des Moro** (minúscula e fotogénica) e **Sa Calobra** (Tramuntana). Em julho e agosto chegue **antes das 9h00 ou depois das 18h00**, ou vá de barco: o de Port de Sóller a Sa Calobra custa **a partir de 35 €**.'
 categoria: "mallorca"
 slug: "melhores-enseadas-de-maiorca"
 fecha: "2026-03-29"
-fecha_actualizacion: "2026-10-28"
+fecha_actualizacion: '2026-11-07'
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
@@ -27,6 +28,17 @@ slugs:
   it: migliori-calette-maiorca
   pt: melhores-enseadas-de-maiorca
 reservasArriba: true
+faq:
+- pregunta: Qual é a melhor enseada de Maiorca?
+  respuesta: 'Depende do que procura: Es Trenc para uma praia longa e selvagem de água caribenha, Cala Mondragó para crianças num parque natural, Caló des Moro para a fotografia (embora fique lotada) e Sa Calobra para a paisagem de montanha da Tramuntana.'
+- pregunta: A que horas chegar às enseadas no verão?
+  respuesta: Em julho e agosto, antes das 9h00 ou depois das 18h00. Os estacionamentos de Es Trenc, Cala Mondragó e Sa Calobra enchem a meio da manhã, e nas enseadas pequenas como Caló des Moro ou Cala Varques ao meio-dia já não há lugar.
+- pregunta: Como se chega a Caló des Moro?
+  respuesta: 'As ruas de acesso estão reservadas a residentes: estaciona-se à entrada de Cala Llombards e caminha-se 1,5 km (20-25 minutos). A descida final é por rochas e escadas: não é adequada para carrinhos de bebé nem para mobilidade reduzida.'
+- pregunta: Pode-se ir de carro a Formentor?
+  respuesta: De 15 de maio a 18 de outubro, das 10h00 às 22h00, só até ao estacionamento da praia enquanto houver lugares; quando enche, uma barreira corta a estrada e o troço até ao farol fica reservado a veículos autorizados. As alternativas são a linha 334 do TIB ou o barco a partir de Port de Pollença.
+- pregunta: Que enseadas de Maiorca têm serviços?
+  respuesta: 'Playa de Muro, Cala Agulla e Cala Mondragó têm bar de praia e chapéus de sol. Es Trenc só tem três quiosques, e Caló des Moro e Cala Varques não têm nada: leve 2 litros de água por pessoa e um chapéu de sol.'
 opciones:
   - ficha: calo-des-moro-barco-esnorquel
     etiqueta: Caló des Moro
@@ -41,71 +53,61 @@ actividades:
   - calo-des-moro-barco-esnorquel
 ---
 
-**Maiorca tem algumas das enseadas mais bonitas do Mediterrâneo**, mas também o maior problema de estacionamento de Espanha no verão. Este guia organiza-as por zonas, diz-lhe quais têm serviços e quais são virgens, e como chegar sem lutar por um lugar. A chave: madrugar ou ir fora de época.
+## As melhores enseadas de Maiorca por zonas
 
-Nem todas servem para o mesmo: umas são compridas e familiares, outras pequenas e fotogénicas (e saturadas), e algumas selvagens, sem um único bar de praia. Escolha consoante o dia.
+Nem todas servem para o mesmo: escolha conforme o dia e o vento, que deixa umas abrigadas e outras agitadas.
 
-## Por zonas
-
-| Zona | Enseadas em destaque | Carácter |
+| Zona | Enseadas de destaque | Carácter |
 | --- | --- | --- |
-| Sul | Es Trenc, Cala Pi | Comprida e selvagem / enseada estreita entre falésias |
+| Sul | Es Trenc, Cala Pi | Longa e selvagem / enseada estreita entre falésias |
 | Sudeste | Mondragó, Caló des Moro, Cala Llombards | Turquesa, pequenas e fotogénicas |
 | Nordeste | Cala Agulla, Cala Mesquida | Amplas, com dunas e pinhal |
-| Norte | Formentor, Playa de Muro | Familiares e de águas tranquilas |
+| Norte | Formentor, Playa de Muro | Familiares, águas calmas |
 | Tramuntana | Sa Calobra, Cala Tuent, Cala Deià | Dramáticas, entre montanhas |
 
-[actividad: barco-soller-sa-calobra]
+## As imprescindíveis: Es Trenc, Cala Mondragó e Caló des Moro
 
-## As imprescindíveis
+**Es Trenc (sul).** A praia selvagem mais famosa: areia branca e água caribenha, sem construções, junto às salinas. Quase não tem serviços (três quiosques); leve sombra e água.
 
-**Es Trenc (sul).** A praia virgem mais famosa: areia branca e água caribenha, sem construções, junto às salinas. Quase não tem serviços; leve sombra e água.
+**Cala Mondragó (sudeste).** Dentro de um **parque natural**, com dois areais tranquilos (s'Amarador e Mondragó). Águas turquesa num ambiente protegido; **ideal para famílias**.
 
-**Cala Mondragó (sudeste).** Dentro de um **parque natural**, com dois areais tranquilos (s'Amarador e Mondragó). Águas turquesa e ambiente protegido; ideal para famílias.
-
-**Caló des Moro (sudeste).** A enseada das fotografias: minúscula, encaixada entre rochas, de água inacreditável. Lindíssima, mas **fica saturada**; o estacionamento é ínfimo e desce-se por escadas.
+**Caló des Moro (sudeste).** A enseada das fotografias: minúscula, encaixada entre rochas, de água irreal. Lindíssima mas **fica lotada**; o estacionamento é mínimo e desce-se por escadas e rochas.
 
 **Sa Calobra e Cala Tuent (Tramuntana).** Enseadas espetaculares ao pé da montanha, no fim da estrada mais vertiginosa da ilha. Chegue cedo ou vá de barco.
 
-**Playa de Muro / Alcúdia (norte).** A grande praia familiar: areia fina, comprida e pouco profunda, com todos os serviços.
+**Playa de Muro / Alcúdia (norte).** A grande praia familiar: areia fina, longa e pouco funda, com todos os serviços.
 
-## Como evitar as filas
+## Como chegar e estacionar sem filas
 
-> **Dica:** as enseadas pequenas (Caló des Moro, Cala Varques) têm estacionamento mínimo. Chegue **antes das 9h00** ou **depois das 18h00**, ou vá de barco/excursão. Ao meio-dia em agosto não há lugar nem para a toalha.
+A regra de ouro em julho e agosto: chegue **antes das 9h00** ou **depois das 18h00**, ou vá de barco ou em excursão. Ao meio-dia em agosto não há lugar nem para a toalha.
 
-## O prático: estacionar, chegar e o que levar
+- **Estacionamentos:** Es Trenc (Ses Covetes e junto às salinas, na estrada da Colònia de Sant Jordi), Cala Mondragó e Sa Calobra têm parques pagos que enchem a meio da manhã. Estacionar na berma ou em caminhos privados dá multa.
+- **Caló des Moro:** as ruas de acesso estão reservadas a residentes; estaciona-se à entrada de Cala Llombards e caminha-se **1,5 km (20-25 minutos)**.
+- **Cala Varques:** chega-se por um caminho de terra de cerca de **40 minutos**; o atalho por propriedades privadas a partir da Ma-4014 já não é permitido.
+- **Formentor (regras 2026):** de **15 de maio a 18 de outubro, das 10h00 às 22h00**, os carros particulares só chegam ao estacionamento da praia enquanto houver lugares; quando enche, uma barreira corta a estrada. O troço até ao farol fica reservado a veículos autorizados, com multa para os restantes. Alternativas: a **linha 334 do TIB** a partir de Alcúdia e Port de Pollença, o barco a partir de Port de Pollença ou a [excursão de minibus e barco](/pt/cities/mallorca/activities/maiorca-formentor-minibus-barco-miradouro-praia), que para no miradouro Es Colomer e na praia.
+- **Sa Calobra sem curvas:** o barco a partir de Port de Sóller (**a partir de 35 €** ida e volta, 45-60 minutos sob as falésias) evita os 12 km da estrada mais sinuosa da ilha.
 
-- **Estacionamento:** em Es Trenc (Ses Covetes e junto às salinas, na estrada da Colònia de Sant Jordi), Cala Mondragó e Sa Calobra há parques pagos que em julho e agosto enchem a meio da manhã. Estacionar na berma ou em caminhos privados dá multa.
-- **Formentor (regras 2026):** de 15 de maio a 18 de outubro, das 10h00 às 22h00, os carros particulares só podem chegar ao parque da praia de Formentor enquanto houver lugares; quando enche, uma barreira corta a estrada. O troço até ao farol fica reservado a veículos autorizados, com multa para os restantes. A alternativa é a linha 334 do TIB a partir de Alcúdia e Port de Pollença, ou o barco a partir de Port de Pollença. Outra opção é a [excursão de minibus e barco](/pt/cities/mallorca/activities/maiorca-formentor-minibus-barco-miradouro-praia), que para no miradouro Es Colomer e na praia e regressa de barco a Port de Pollença.
-- **Sa Calobra sem curvas:** o barco a partir de Port de Sóller (desde 35 € ida e volta, cerca de 45-60 minutos de travessia sob as falésias) evita os 12 km da estrada mais retorcida da ilha.
-- **Caló des Moro e Cala Varques:** as ruas que levam a Caló des Moro estão reservadas a veículos de residentes; estaciona-se à entrada de Cala Llombards e caminha-se 1,5 km (20-25 minutos). A Cala Varques chega-se por um caminho de terra de cerca de 40 minutos; o atalho por propriedades privadas a partir da Ma-4014 já não é permitido. Em Caló des Moro a descida final é por rochas. Não são enseadas para carrinhos nem para mobilidade reduzida.
-- **Serviços e preços:** nas praias com serviços, duas espreguiçadeiras e um guarda-sol custam 18-30 € por dia; nas virgens nem água há: leve 2 litros por pessoa e um guarda-sol.
-- **Água e alforrecas:** o mar está a 24-27 °C de julho a setembro e abaixo de 20 °C antes de junho. As alforrecas chegam com o vento de levante; veja as bandeiras do nadador-salvador e as apps de alertas antes de sair.
-- **Nudismo:** aceite nos troços mais afastados de Es Trenc, Cala Varques e parte de Cala Mesquida.
+[actividad: barco-soller-sa-calobra]
 
-## Com ou sem serviços
+## Praias de Maiorca com ou sem serviços: o que levar
 
-| Com serviços (bar de praia, guarda-sóis) | Virgens (leve tudo) |
+| Com serviços (bar de praia, chapéus de sol) | Selvagens (leve tudo) |
 | --- | --- |
 | Playa de Muro, Cala Agulla, Mondragó | Es Trenc, Caló des Moro, Cala Varques |
 
-## O que NÃO recomendamos
+- **Preços:** nas praias com serviços, duas espreguiçadeiras e um chapéu de sol custam **18-30 € por dia**.
+- **Nas selvagens não há sequer água:** leve **2 litros por pessoa** e um chapéu de sol.
+- **Sapatos de água:** algumas enseadas têm rochas ou seixos.
+- **Temperatura do mar:** 24-27 °C de julho a setembro e abaixo de 20 °C antes de junho.
+- **Alforrecas:** chegam com o vento de levante; veja as bandeiras do nadador-salvador e as apps de alerta antes de sair.
+- **Nudismo:** aceite nos troços mais afastados de Es Trenc, Cala Varques e parte de Cala Mesquida.
 
-1. **Ir às enseadas pequenas ao meio-dia no verão.** Sem estacionamento e a abarrotar.
-2. **Esperar serviços nas virgens.** Es Trenc só tem três quiosques e Cala Varques nenhum; leve água e sombra.
-3. **Pisar a posidónia sem cuidado.** As pradarias submarinas (protegidas por lei em todas as Baleares) são as responsáveis pela água cristalina.
-4. **Descer a Caló des Moro com mobilidade reduzida.** É uma descida por rochas e escadas.
+## Conselhos e erros a evitar
 
-[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
+1. **Não ir às enseadas pequenas ao meio-dia no verão.** Sem estacionamento e a abarrotar; madrugar é a única forma de estacionar nas enseadas da moda.
+2. **Não esperar serviços nas selvagens.** Es Trenc só tem três quiosques e Cala Varques nenhum.
+3. **Ver o vento antes de escolher.** Conforme sopra, uma enseada ou outra estará abrigada ou agitada.
+4. **Cuidar da posidónia.** As pradarias submarinas, protegidas por lei em todas as Baleares, são o que dá a água cristalina.
+5. **Caló des Moro não é para mobilidade reduzida nem carrinhos:** a descida é por rochas e escadas.
 
-## Erros típicos
-
-> **Aviso:** as falhas que mais vemos.
-
-1. **Não madrugar.** É a única forma de estacionar nas enseadas da moda.
-2. **Esquecer o calçado de água.** Algumas enseadas têm rochas ou seixos.
-3. **Não ver o vento.** Consoante sopre, uma enseada ou outra estará abrigada ou agitada.
-
-## Numa frase
-
-As melhores enseadas de Maiorca vão do Caribe selvagem de Es Trenc ao turquesa de Mondragó e ao dramatismo de Sa Calobra; a diferença entre desfrutá-las ou sofrê-las está em madrugar. Para o resto da ilha, guie-se por [o que ver em Maiorca](/pt/guides/mallorca/o-que-ver-em-maiorca).
+Para o resto da ilha, siga o nosso guia [o que ver em Maiorca](/pt/guides/mallorca/o-que-ver-em-maiorca).

@@ -5,7 +5,7 @@ metaTitle: 'Bilhetes Alhambra: preço e como comprar'
 categoria: granada
 slug: alhambra-como-visitar
 fecha: '2026-05-02'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -27,7 +27,8 @@ slugs:
   fr: alhambra-comment-la-visiter
   it: alhambra-come-visitarla
 reservasArriba: true
-respuestaCorta: 'Os bilhetes oficiais (22,27 €) são postos à venda **até três meses antes** e os horários da manhã esgotam com semanas de antecedência. **Se já não houver**, uma visita guiada que inclua o bilhete garante-lhe os Palácios Nasridas a uma hora fixa. Conte com cerca de 4 horas e chegue cedo: só tem uma janela de 30 minutos para os Palácios Nasridas.'
+intro: 'Os **bilhetes Alhambra** abrem as portas do monumento mais visitado de Espanha: a cidade palaciana dos sultões nasridas sobre Granada. O bilhete geral inclui os **Palácios Nasridas**, com o Pátio dos Leões, a **Alcazaba** e as suas vistas sobre a Serra Nevada, os jardins do **Generalife** e o Palácio de Carlos V. Sobe-se do centro de miniautocarro ou a pé, e a visita completa leva cerca de quatro horas.'
+respuestaCorta: 'Os bilhetes Alhambra custam **22,27 €** (geral, com os Palácios Nasridas) e só se vendem oficialmente em tickets.alhambra-patronato.es, **até três meses antes**. As manhãs esgotam com semanas de antecedência. Se já não houver, uma **visita guiada com bilhete incluído** garante os Nasridas. Conte com cerca de 4 horas: nos Nasridas só há **30 minutos de margem**.'
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
@@ -38,14 +39,16 @@ actividades:
   - alhambra-tour-privado
   - entrada-jardines-alhambra-generalife
 faq:
+- pregunta: Quanto custa o bilhete da Alhambra?
+  respuesta: O bilhete Alhambra General custa 22,27 € com a comissão online incluída e inclui Palácios Nasridas, Alcazaba, Generalife e Palácio de Carlos V. Jardins e Generalife custa 12,73 €, a noturna dos Palácios Nasridas 12,73 € e a Dobla de Oro 30,48 €. Menores de 12 anos entram grátis com bilhete nominativo.
 - pregunta: O que acontece se chegar atrasado aos Palácios Nasridas?
-  respuesta: Tem 30 minutos de tolerância a partir da hora impressa. Depois disso não pode entrar e não há reembolso. Da entrada principal aos palácios são 30 a 45 minutos a pé.
-- pregunta: O que posso fazer se os bilhetes da Alhambra estiverem esgotados?
-  respuesta: 'Reserve uma visita guiada que inclua a entrada: os operadores têm as suas próprias quotas mesmo quando o site oficial está esgotado. A visita noturna aos Palácios Nasridas também costuma ter mais disponibilidade.'
+  respuesta: Há 30 minutos de margem a partir da hora marcada. Depois disso não se pode entrar e o dinheiro não é devolvido. Da entrada do recinto até aos palácios demora-se entre 30 e 45 minutos a pé.
+- pregunta: O que fazer se os bilhetes da Alhambra estiverem esgotados?
+  respuesta: 'Reservar uma visita guiada que inclua o bilhete: os operadores têm vagas próprias mesmo quando o site oficial aparece esgotado. A visita noturna aos Palácios Nasridas também costuma ter mais disponibilidade.'
 - pregunta: Visita guiada ou por conta própria?
-  respuesta: 'Numa primeira visita, com guia: garante a entrada, trata do horário dos Palácios Nasridas e explica o simbolismo de cada sala, que sem contexto se perde.'
-- pregunta: Quanto tempo é preciso para ver a Alhambra?
-  respuesta: Cerca de 4 horas para ver os Palácios Nasridas, a Alcáçova, o Generalife e o Palácio de Carlos V sem pressas.
+  respuesta: 'Se for a primeira vez, com guia: garante a entrada, organiza a hora dos Nasridas e explica o simbolismo de cada sala, que sem explicação se perde.'
+- pregunta: Quanto tempo preciso para ver a Alhambra?
+  respuesta: Cerca de 4 horas para ver os Palácios Nasridas, a Alcazaba, o Generalife e o Palácio de Carlos V sem pressas.
 tiempo_lectura: 4
 opciones:
   - ficha: alhambra-entrada-general
@@ -56,89 +59,71 @@ opciones:
     etiqueta: Grupo reduzido
 ---
 
-A Alhambra é o monumento mais visitado de Espanha, e os bilhetes esgotam com semanas de antecedência. A forma mais segura de entrar é uma visita que já inclua o bilhete. Não depende de sobrarem lugares, e alguém lhe explica o que está a ver.
+## Alhambra: preço dos bilhetes e tipos de bilhete
 
-## Que bilhete escolher?
-
-| Se procura… | Recomendamos | Desde |
-| --- | --- | --- |
-| O mais popular | [Visita guiada à Alhambra e aos Palácios Nasridas](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4,7★ (21 100 avaliações) | 49 € |
-| O mais barato com guia | [Entrada e visita guiada com os Palácios Nasridas](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4,7★ (3516) | 50 € |
-| Grupo reduzido, sem filas | [Alhambra e Palácios Nasridas sem filas em grupo reduzido](/en/cities/granada/activities/alhambra-nasrid-palaces-skip-the-line), 4,7★ (8443) | 53 € |
-| O mais bem avaliado | [Visita guiada com bilhetes](/en/cities/granada/activities/alhambra-guided-tour-with-tickets), 4,9★ (1018) | 99 € |
-| Algo diferente | [Visita noturna aos Palácios Nasridas](/en/cities/granada/activities/alhambra-night-tour), 4,9★ (288) | 54 € |
-| Só o seu grupo | [Visita privada](/en/cities/granada/activities/alhambra-private-tour), 4,9★ (242) | 280 € |
-| Pouco tempo ou orçamento | [Jardins e Generalife (sem Palácios Nasridas)](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4,5★ (2256) | 17,5 € |
-
-Como escolher:
-
-- **Primeira visita, orçamento normal:** a visita mais popular (49 €). 3 horas com guia oficial e auriculares, em cinco línguas; 20% mais barata se reservar com mais de 40 dias de antecedência.
-- **Viagem com crianças:** a visita mais bem avaliada (84 €) adapta o percurso e tem jogos para os mais pequenos.
-- **Já a viu de dia:** a visita noturna são 1h30 apenas nos Palácios Nasridas iluminados. Não substitui a visita diurna.
-- **Atenção às condições:** nenhuma destas opções da Alhambra tem cancelamento gratuito, por isso reserve quando tiver as datas definidas.
-
-## Porquê ir com guia
-
-- **A entrada está garantida**, mesmo quando o site oficial diz «esgotado».
-- **O guia trata do horário dos Palácios Nasridas**, que é o que mais complica a vida a quem vai por conta própria.
-- **Percebe o que vê.** Os poemas gravados nas paredes, a geometria dos azulejos e a história de cada sala perdem-se sem uma explicação.
-- **Sem risco de falsos guias.** Na Plaza Nueva oferecem-se «visitas à Alhambra» sem licença.
-
-[actividad: visita-guiada-alhambra-generalife]
-
-## Preços oficiais e quando reservar
-
-Preços fixados pelo Patronato (2026, taxa de reserva incluída):
+Preços oficiais do Patronato para 2026, com a comissão online incluída:
 
 | Bilhete | Preço | O que inclui |
 | --- | --- | --- |
-| Alhambra Geral (diurno) | 22,27 € | Palácios Nasridas, Alcáçova, Generalife e Palácio de Carlos V |
-| Jardins e Generalife | 12,73 € | Tudo exceto os Palácios Nasridas |
-| Palácios Nasridas à noite | 12,73 € | Apenas os Palácios Nasridas, iluminados à noite |
-| Dobla de Oro | 30,48 € | A Alhambra completa mais os monumentos mouriscos do Albaicín |
+| Alhambra General (diurno) | 22,27 € | Palácios Nasridas, Alcazaba, Generalife e Palácio de Carlos V |
+| Jardins e Generalife | 12,73 € | Tudo menos os Palácios Nasridas |
+| Noturna Palácios Nasridas | 12,73 € | Só os Nasridas iluminados, à noite |
+| Dobla de Oro | 30,48 € | Alhambra completa mais os monumentos andaluzes do Albaicín |
 
-Quase toda a gente precisa da **Alhambra Geral**. As crianças com menos de 12 anos não pagam, mas **precisam na mesma de um bilhete nominativo**, emitido na mesma compra; sem ele não podem entrar. Há descontos para cidadãos da UE com mais de 65 anos, titulares do Carnet Joven e visitantes com deficiência. **Não há nenhum dia gratuito fixo**: a ideia de que «às quartas-feiras é grátis» que circula na internet é falsa.
+- A grande maioria precisa da **Alhambra General**.
+- **Menores de 12 anos:** grátis, mas **com bilhete nominativo**, emitido na mesma compra. Sem ele não entram.
+- **Descontos:** maiores de 65 da UE, Carnet Joven (cartão jovem) e deficiência.
+- **Não existe um dia gratuito recorrente:** o «grátis às quartas-feiras» que circula na internet é falso.
 
-Os bilhetes são postos à venda **até três meses antes**, com cerca de 8000 por dia. Os horários da manhã esgotam com semanas de antecedência e, na Páscoa, nas pontes espanholas, em julho-agosto e no Natal, em minutos. O único site oficial é `tickets.alhambra-patronato.es`. É lento, mas qualquer outro site cobra comissão ou revende. Se estiver tudo esgotado, as suas opções reais são:
+## Como comprar bilhetes Alhambra (e se estiverem esgotados)
 
-1. **Uma visita guiada com quota própria de bilhetes** (as da tabela acima).
-2. **A visita noturna** aos Palácios Nasridas, que costuma ter mais disponibilidade.
-3. **Fazer fila na bilheteira antes das 8h00** para a pequena quota do dia, que na época alta raramente chega para muitos.
+- **Onde:** o único site oficial é tickets.alhambra-patronato.es. É lento e às vezes o pagamento falha, mas qualquer outro site cobra comissão ou revende.
+- **Quando:** podem comprar-se **até três meses antes** e há cerca de 8000 por dia. Os horários da manhã esgotam com semanas de antecedência; na Páscoa, nas pontes espanholas, em julho-agosto e no Natal, em minutos.
+- **Leve o documento de identificação ou o passaporte:** os bilhetes são nominativos.
 
-[actividad: alhambra-entrada-general]
+**Se estiver tudo esgotado**, as alternativas reais são:
 
-Se o site oficial já estiver esgotado, [o que fazer quando os bilhetes da Alhambra estão esgotados](/en/guides/granada/alhambra-tickets-sold-out) reúne todas as opções que restam. E se estiver indeciso entre esta e o palácio de Sevilha, [Alhambra ou Alcázar de Sevilha?](/en/guides/granada/alhambra-or-alcazar-of-seville) ajuda-o a escolher.
+1. **Uma visita guiada com bilhete incluído:** os operadores têm quota própria mesmo quando o site oficial aparece esgotado, e o guia organiza a hora dos Nasridas.
+2. **A noturna dos Palácios Nasridas**, que costuma ter mais disponibilidade.
+3. **A fila na bilheteira antes das 8h00** pela quota do dia, que na época alta quase nunca chega.
 
-## A regra de ouro: a sua hora dos Palácios Nasridas
+[actividad: visita-guiada-alhambra-generalife]
 
-Os Palácios Nasridas têm uma hora de entrada fixa com apenas **30 minutos de tolerância**. Se a perder, não entra, e não há reembolso. Da entrada principal aos palácios são **30 a 45 minutos** a pé, por isso chegue cedo. Numa visita guiada, o guia planeia o percurso para que não perca o seu horário.
+Todas as opções em detalhe em [o que fazer quando os bilhetes da Alhambra estão esgotados](/en/guides/granada/alhambra-tickets-sold-out).
+
+## Palácios Nasridas: a hora da sua entrada
+
+Os Palácios Nasridas têm uma **hora de entrada fixa**, impressa no bilhete, e só há **30 minutos de margem**. Depois disso não entra e o dinheiro não é devolvido.
+
+Da entrada do recinto até aos palácios demora-se **entre 30 e 45 minutos** a pé, por isso chegue com tempo. Com visita guiada, o guia organiza o percurso para não perder a hora.
 
 ## O que ver lá dentro
 
-- **Palácios Nasridas:** o Pátio dos Mirtos, a Sala dos Embaixadores, o Pátio dos Leões e a Sala das Duas Irmãs. Olhe para cima: as cúpulas são o ponto alto.
-- **Alcáçova:** a parte mais antiga. A Torre de la Vela tem as melhores vistas de Granada e da Serra Nevada.
+- **Palácios Nasridas:** o Pátio dos Mirtos, o Salão dos Embaixadores, o Pátio dos Leões e a Sala das Duas Irmãs. Olhe para cima: as cúpulas são o melhor.
+- **Alcazaba:** a parte mais antiga. Da Torre de la Vela tem as melhores vistas sobre Granada e a Serra Nevada.
 - **Generalife:** a residência de verão dos sultões, com o Pátio da Acequia.
 - **Palácio de Carlos V:** o palácio renascentista no meio do conjunto.
 
-Uma visita completa demora **cerca de 4 horas**.
+A visita completa leva **cerca de 4 horas**. Com 2 horas fica a meio.
 
-## Como chegar e horários
+## Horários e como chegar
 
-- **Miniautocarro C30 ou C32** a partir da Plaza Isabel la Católica: 1,60 €, a cada 8 minutos.
-- **A pé** a partir da Plaza Nueva pela Cuesta de Gomérez: uma subida de 25-30 minutos.
-- **Táxi** a partir do centro: 8-10 €.
-- **Horário de verão** (1 de abril a 14 de outubro): 8h30 às 20h00, última entrada nos Palácios Nasridas às 19h00. **Inverno**: 8h30 às 18h00, última entrada às 17h00. Fechado a 25 de dezembro e 1 de janeiro.
-- **Visita noturna:** de terça a sábado no verão (22h00-23h30), sexta e sábado no resto do ano (20h00-21h30).
-- **Melhor altura:** o primeiro horário da manhã, com menos gente, ou o último da tarde no verão, quando o calor abranda.
+- **Verão** (1 de abril a 14 de outubro): das 8h30 às 20h00, última entrada nos Nasridas às 19h00.
+- **Inverno:** das 8h30 às 18h00, última entrada nos Nasridas às 17h00.
+- **Fecha** a 25 de dezembro e 1 de janeiro.
+- **Visita noturna:** de terça a sábado no verão (22h00-23h30) e sexta e sábado no resto do ano (20h00-21h30).
 
-## Erros a evitar
+**Como subir:**
 
-1. **Aparecer sem bilhete, a contar comprá-lo lá.** Na época alta já não há.
-2. **Comprar em sites de revenda.** Cobram comissões elevadas e alguns bilhetes não são válidos.
-3. **Esquecer o documento de identificação ou o passaporte.** Os bilhetes são nominativos.
-4. **Levar uma mochila grande ou um carrinho de bebé.** Têm de ficar no bengaleiro.
-5. **Ir à pressa.** Com 2 horas só vê metade.
+- **Miniautocarro C30 ou C32** desde a Plaza Isabel la Católica: 1,60 €, a cada 8 minutos.
+- **A pé** desde a Plaza Nueva pela Cuesta de Gomérez: 25-30 minutos a subir.
+- **Táxi** desde o centro: 8-10 €.
 
-## Numa frase
+## Conselhos para visitar a Alhambra
 
-A Alhambra desfruta-se melhor com a entrada garantida e alguém que a explique. Se for passar mais dias em Granada, veja o nosso guia [Granada em 2 dias](/en/guides/granada/granada-in-2-days).
+- **Melhor hora:** o primeiro horário da manhã, com luz lateral nos pátios e menos gente; ou o último da tarde no verão, quando o calor baixa.
+- **Com guia ou por conta própria?** Se for a primeira vez, com guia: percebe os poemas gravados nas paredes, a geometria dos azulejos e a história de cada sala, que sem explicação se perdem.
+- **Cuidado com falsos guias:** na Plaza Nueva oferecem «tour Alhambra» sem acreditação.
+- **Não vá sem bilhete** a pensar que o compra lá: na época alta não há.
+- **Mochila grande ou carrinho:** é preciso deixá-los no bengaleiro.
+- Se hesita entre este monumento e o de Sevilha, veja [Alhambra ou Alcázar de Sevilha?](/en/guides/granada/alhambra-or-alcazar-of-seville). E para o resto da cidade, [Granada em 2 dias](/en/guides/granada/granada-in-2-days).

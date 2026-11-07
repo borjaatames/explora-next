@@ -5,14 +5,14 @@ metaTitle: 'Málaga Sehenswürdigkeiten an einem Tag'
 categoria: malaga
 slug: malaga-sehenswuerdigkeiten-an-einem-tag
 fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/actividades/malaga/alcazaba/panoramica-malaga.webp
 imagen_alt: Blick von der Alcazaba über Málaga, mit dem Hafen und dem Strand La Malagueta im Hintergrund
-tiempo_lectura: 6
+tiempo_lectura: 4
 keywords:
   - malaga sehenswürdigkeiten
   - málaga sehenswürdigkeiten
@@ -29,7 +29,8 @@ slugs:
   it: cosa-vedere-a-malaga-in-un-giorno
   pt: o-que-ver-em-malaga-num-dia
 reservasArriba: true
-respuestaCorta: 'Sei um **9:00 Uhr an der Alcazaba** und steig vor der Hitze hinauf nach **Gibralfaro** (**10 € für beide**). Danach das **Römische Theater** (gratis), die **Kathedrale** (10 €), Mittagessen im **Markt Atarazanas** und am Nachmittag das **Picasso-Museum** (13 €). Zum Schluss **Muelle Uno und La Malagueta bei Sonnenuntergang**. Alles zu Fuß, in einem Umkreis von 2 km.'
+intro: 'Die **Málaga Sehenswürdigkeiten** lassen sich an einem Tag sehen, wenn man die richtige Reihenfolge wählt: Die Altstadt ist klein und flach, und alles Wichtige liegt innerhalb von 2 km. Die maurische **Alcazaba**, die Burg **Gibralfaro** mit Blick über die ganze Bucht, das Römische Theater, die Kathedrale, das **Museo Picasso**, der Mercado de Atarazanas und der Sonnenuntergang an der Malagueta passen in einen Tag zu Fuß.'
+respuestaCorta: 'Málaga Sehenswürdigkeiten an einem Tag: um **9:00 in der Alcazaba** starten und hinauf nach **Gibralfaro** (**Kombiticket 10 €**). Danach **Römisches Theater** (gratis), **Kathedrale** (10 €), Mittagessen im **Mercado de Atarazanas** und **Museo Picasso** (13 €). Zum Abschluss **Muelle Uno und Malagueta bei Sonnenuntergang**. Alles zu Fuß, auf unter 2 km.'
 actividades:
   - alcazaba-teatro-romano-malaga-visita-guiada
   - museo-picasso-malaga-entrada
@@ -40,71 +41,74 @@ actividades:
   - tour-privado-tapas-malaga-atarazanas
   - malaga-tour-vino-tapas
 faq:
-  - pregunta: Reicht ein Tag für Málaga?
-    respuesta: 'Für die Stadt ja. Alcazaba, Gibralfaro, Römisches Theater, Kathedrale, Picasso-Museum und Muelle Uno liegen alle in einem Umkreis von 2 km und sind zu Fuß erreichbar. Was ein Tag nicht abdeckt, sind die Ausflüge: Caminito del Rey, Ronda oder Nerja brauchen jeweils einen eigenen Tag.'
-  - pregunta: Was kosten die Tickets für Alcazaba und Gibralfaro?
-    respuesta: 'Auf der offiziellen Website 7 € pro Monument oder 10 € für das Kombiticket (ermäßigt 3 € und 5 €). Beide öffnen um 9:00 Uhr und schließen von November bis März um 18:00 Uhr, von April bis Oktober um 20:00 Uhr; letzter Einlass eine Stunde vor Schließung.'
-  - pregunta: Kann man auf das Dach der Kathedrale von Málaga?
-    respuesta: 'Derzeit nicht. Die Dachführungen sind ausgesetzt, solange das Dach erneuert wird; die andalusische Regierung rechnet mit dem Ende der Arbeiten Ende 2027. Die Kathedrale selbst ist normal geöffnet, 10 € mit Audioguide.'
-  - pregunta: Wann ist das Picasso-Museum in Málaga gratis?
-    respuesta: 'Jeden Sonntag in den letzten zwei Stunden vor Schließung (von November bis Februar 16:00 bis 18:00 Uhr) sowie an einigen festen Tagen wie dem 28. Februar und dem 18. Mai. Die Kasse schließt eine halbe Stunde vor dem Museum, und diese Zeitfenster sind gut besucht.'
-  - pregunta: Was kann man in Málaga beim Landgang einer Kreuzfahrt sehen?
-    respuesta: 'Mit 4 Stunden an Land Alcazaba, Römisches Theater und Kathedrale. Mit 6 bis 8 Stunden zusätzlich das Picasso-Museum und der Rückweg über Muelle Uno, der ohnehin zu den Kreuzfahrtterminals führt. Von den Terminals in Levante bis ins Zentrum sind es 25 bis 30 Minuten zu Fuß.'
+- pregunta: Kann man Málaga an einem Tag sehen?
+  respuesta: 'Ja, die Altstadt schon. Alcazaba, Gibralfaro, Römisches Theater, Kathedrale, Museo Picasso und Muelle Uno liegen weniger als 2 km auseinander und sind zu Fuß erreichbar. Nicht an einem Tag machbar sind die Ausflüge: Caminito del Rey, Ronda oder Nerja brauchen jeweils einen eigenen Tag.'
+- pregunta: Was kosten Alcazaba und Gibralfaro?
+  respuesta: Auf der offiziellen Website je 7 € oder 10 € für das Kombiticket (ermäßigt 3 € und 5 €). Geöffnet ab 9:00, Schließung um 18:00 von November bis März und um 20:00 von April bis Oktober; letzter Einlass eine Stunde vor Schließung.
+- pregunta: 'Was zuerst: Alcazaba oder Kathedrale?'
+  respuesta: 'Die Alcazaba. Sie öffnet um 9:00, eine Stunde vor der Kathedrale, und der Aufstieg nach Gibralfaro hat keinen Schatten: früh morgens kein Problem, mittags im Sommer mühsam. Die Kathedrale ist ein Innenraum und passt gut in die Mittagszeit.'
+- pregunta: Kann man aufs Dach der Kathedrale von Málaga?
+  respuesta: Derzeit nicht. Die Dachbesichtigung ist wegen Bauarbeiten ausgesetzt, die laut andalusischer Regionalregierung Ende 2027 abgeschlossen sein sollen. Der Eintritt in die Kathedrale (10 € mit Audioguide) funktioniert normal.
+- pregunta: Wann ist das Museo Picasso kostenlos?
+  respuesta: Jeden Sonntag in den letzten zwei Öffnungsstunden (November bis Februar 16:00 bis 18:00) und an einigen besonderen Tagen wie dem 28. Februar oder 18. Mai. Die Kasse schließt eine halbe Stunde früher, und diese Stunden sind voll.
 ---
 
-**Die Sehenswürdigkeiten von Málaga lassen sich gut an einem Tag sehen, wenn die Reihenfolge stimmt.** Die Altstadt ist klein und flach, und alles Wichtige (Alcazaba, Gibralfaro, Kathedrale und Picasso-Museum) liegt innerhalb von 2 km. Die meisten machen es falsch herum: Sie kommen um 11:00 Uhr an, fangen mit der Kathedrale an und steigen in der Mittagssonne nach Gibralfaro hinauf. Das ist die Route, die wir einem Freund geben würden, der einen Tag hat und keine Zeit für Ausflüge. Mit zwei Tagen lies [Málaga in zwei Tagen](/de/guides/malaga/malaga-in-zwei-tagen).
+## Die Route Stunde für Stunde
 
-## Ein Tag in Málaga, Stunde für Stunde
-
-| Uhrzeit | Was | Kosten |
+| Uhrzeit | Was | Preis |
 | --- | --- | --- |
 | 9:00 | Alcazaba | 7 € (10 € mit Gibralfaro) |
-| 10:15 | Aufstieg zur Burg Gibralfaro | Im Kombiticket enthalten |
-| 11:30 | Römisches Theater | Gratis |
+| 10:15 | Aufstieg nach Gibralfaro | Im Kombiticket enthalten |
+| 11:30 | Römisches Theater, von außen oder innen | Gratis |
 | 12:00 | Kathedrale | 10 € mit Audioguide |
-| 13:30 | Markt Atarazanas und Mittagessen | Nach Verzehr |
-| 15:30 | Picasso-Museum und Plaza de la Merced | 13 € |
+| 13:30 | Mercado de Atarazanas und Mittagessen | Was du isst |
+| 15:30 | Museo Picasso und Plaza de la Merced | 13 € |
 | 17:30 | Muelle Uno und Paseo del Parque | Gratis |
-| 18:30 | Sonnenuntergang und Sardinen in La Malagueta | 10–15 € |
+| 18:30 | Sonnenuntergang und Sardinenspieß an der Malagueta | 10-15 € |
 
-Das sind Winterzeiten (November bis März). Im Sommer geht die Sonne gegen 21:30 Uhr unter: Mach eine lange Mittagspause und heb dir Picasso für den späten Nachmittag auf, wenn die Hitze nachlässt.
+Das sind die Winterzeiten (November bis März). Im Sommer ist nachmittags alles länger offen und die Sonne geht gegen 21:30 unter: Mittagessen ausdehnen und das Picasso auf die kühlere Zeit legen.
 
-## Die wichtigsten Sehenswürdigkeiten in Málaga
+Der typische Fehler ist die umgekehrte Reihenfolge: um 11:00 ankommen, mit der Kathedrale beginnen und um zwei Uhr nachmittags nach Gibralfaro steigen. Wer zwei Tage hat, liest [Málaga in zwei Tagen](/de/guides/malaga/malaga-in-zwei-tagen).
 
-**Die Alcazaba (1 Std. 15).** Ein maurischer Festungspalast, der in Terrassen mit Höfen, Brunnen und Gärten den Hang hinaufsteigt, der besterhaltene seiner Art in Spanien. Er öffnet um 9:00 Uhr, dann ist er fast leer. **7 € oder 10 € inklusive Gibralfaro** auf der offiziellen Website [alcazabaygibralfaro.malaga.eu](https://alcazabaygibralfaro.malaga.eu). Wer Hintergründe statt nur Mauern will: Die [Führung durch Alcazaba und Römisches Theater](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) gibt es ab 13 € mit Eintritt.
+## Was in Málaga sehen, Station für Station
 
-**Gibralfaro (45 Min.).** 20 bis 30 Minuten Aufstieg an der Mauer entlang, ohne Schatten, oder Bus 35, wenn du dir das sparen willst. In der Burg selbst gibt es nicht viel; du zahlst für den Blick über Hafen, Stierkampfarena, Strand und die ganze Bucht. Mit dem Kombiticket ein klares Ja.
+**Die Alcazaba (1 Std. 15 Min.).** Die besterhaltene andalusische Palastfestung Spaniens: Innenhöfe, Brunnen und terrassierte Gärten, die den Hang hinaufsteigen. Um 9:00 ist sie fast leer. Es gibt auch eine Führung durch Alcazaba und Römisches Theater ab 13 € inklusive Eintritt.
 
-**Das Römische Theater (20 Min.).** Direkt unter der Alcazaba, von der Calle Alcazabilla aus sichtbar. Das kleine Besucherzentrum ist gratis, geöffnet dienstags bis samstags von 10:00 bis 18:00 Uhr und sonntags bis 16:00 Uhr, **montags geschlossen**.
+**Gibralfaro (45 Min.).** Zu Fuß über den Weg an der Mauer, rund **20-30 Minuten bergauf ohne Schatten**, oder mit dem **Bus 35**. Drinnen gibt es wenig zu sehen; bezahlt wird der Blick: Hafen, Stierkampfarena, Malagueta und die ganze Bucht.
 
-**Die Kathedrale von Málaga (1 Std.).** Die Einheimischen nennen sie *La Manquita*, „die Einarmige“, weil ihr zweiter Turm nie gebaut wurde. **10 € mit Audioguide**; geöffnet werktags 10:00 bis 20:00 Uhr, samstags bis 18:00 Uhr und **sonntags nur von 14:00 bis 18:00 Uhr**. Die **Dachführung ist ausgesetzt**, bis die Arbeiten am Dach abgeschlossen sind, voraussichtlich Ende 2027. Die [Führung ohne Anstehen](/en/cities/malaga/activities/malaga-cathedral-skip-the-line-guided-tour) gibt es ab 24 €, und die [Kombi aus Kathedrale, Alcazaba und Römischem Theater](/en/cities/malaga/activities/malaga-essentials-cathedral-alcazaba-theatre) deckt den ganzen Vormittag mit Tickets ab.
+**Das Römische Theater (20 Min.).** Zu Füßen der Alcazaba, von der Calle Alcazabilla aus zu sehen.
 
-**Das Picasso-Museum (1 Std. 30).** Über 200 Werke im Palacio de Buenavista, wenige Minuten vom Geburtshaus Picassos entfernt. **13 €**, gratis für unter 17-Jährige und für alle sonntags in den letzten zwei Stunden. Geöffnet von November bis Februar 10:00 bis 18:00 Uhr, von März bis Juni sowie im September und Oktober bis 19:00 Uhr, im Juli und August bis 20:00 Uhr. Buch ein [Zeitfensterticket mit Audioguide](/de/cities/malaga/activities/picasso-museum-malaga-tickets-audioguide); ist es ausverkauft, lies [Picasso-Museum Málaga ausverkauft](/de/guides/malaga/picasso-museum-malaga-tickets-ausverkauft).
+**Die Kathedrale (1 Std.).** „La Manquita" („die Einarmige"), weil ihr ein Turm fehlt. Das **Dach ist nicht zu besichtigen**: Bauarbeiten bis Ende 2027. Es gibt eine Führung ohne Anstehen ab 24 € und ein Paket mit Kathedrale, Alcazaba und Theater inklusive Tickets.
 
-**Muelle Uno und La Malagueta.** Der alte Hafen, heute eine Uferpromenade mit dem Glaswürfel des Centre Pompidou am Ende, und zehn Minuten weiter der Stadtstrand. Keine Tickets, keine Öffnungszeiten: Hier endet der Tag. Wer den Sonnenuntergang vom Wasser aus sehen will: Die [Katamaranfahrt durch die Bucht](/en/cities/malaga/activities/malaga-catamaran-sunset-cruise) gibt es ab 13 €.
+**Das Museo Picasso (1 Std. 30 Min.).** Über 200 Werke im Palacio de Buenavista. Kauf das [Ticket mit Audioguide](/de/cities/malaga/activities/picasso-museum-malaga-tickets-audioguide) für eine feste Uhrzeit; wenn es ausverkauft ist, erklären wir es unter [Picasso Museum: Tickets ausverkauft](/de/guides/malaga/picasso-museum-malaga-tickets-ausverkauft).
 
-**Was wir an nur einem Tag weglassen würden:** das Pompidou, das Carmen Thyssen und das Geburtshaus Picassos. Alle gut, aber sie passen nur hinein, wenn du oben etwas streichst.
+**Muelle Uno und Malagueta.** Der zur Promenade umgebaute Hafen mit dem Würfel des Pompidou am Ende, zehn Minuten weiter der Stadtstrand. Der natürliche Abschluss des Tages. Wer den Sonnenuntergang vom Wasser aus sehen will: Der Katamaran durch die Bucht startet ab 13 €.
 
-## Beim Landgang einer Kreuzfahrt
+**Was wir an einem Tag weglassen würden:** das Pompidou, das Carmen Thyssen und Picassos Geburtshaus. Sie sind gut, passen aber nicht hinein, ohne oben etwas zu streichen.
 
-Málaga ist einer der einfachsten Kreuzfahrthäfen Spaniens: Das Zentrum erreichst du vom Schiff aus zu Fuß. Mit 6 bis 8 Stunden folg der Route bis zum Picasso-Museum und geh über Muelle Uno zurück. Mit 4 Stunden bleib bei Alcazaba, Römischem Theater und Kathedrale. Entfernungen zu den Terminals und Shuttlepreise stehen in unserem Ratgeber [Málaga Kreuzfahrt Landgang](/de/guides/malaga/malaga-kreuzfahrt-landgang).
+## Alcazaba Málaga Tickets und Öffnungszeiten des Tages
+
+- **Alcazaba und Gibralfaro:** **je 7 € oder 10 € kombiniert** (ermäßigt 3 € und 5 €) auf der offiziellen Website alcazabaygibralfaro.malaga.eu. 9:00 bis 18:00 von November bis März, bis 20:00 von April bis Oktober; letzter Einlass eine Stunde vorher.
+- **Römisches Theater:** Das Interpretationszentrum ist gratis, geöffnet dienstags bis samstags 10:00 bis 18:00 und sonntags bis 16:00, **montags geschlossen**.
+- **Kathedrale:** **10 € mit Audioguide**. Montag bis Freitag 10:00 bis 20:00, samstags bis 18:00 und **sonntags nur 14:00 bis 18:00**.
+- **Museo Picasso:** **13 €**, gratis unter 17 und für alle sonntags in den letzten zwei Stunden. 10:00 bis 18:00 von November bis Februar; bis 19:00 von März bis Juni sowie im September und Oktober; bis 20:00 im Juli und August.
+
+## Málaga an einem Tag beim Kreuzfahrt-Landgang
+
+Bei **6-8 Stunden** Liegezeit die Route bis zum Picasso gehen und über den Muelle Uno zurück, der auf dem Weg zum Terminal liegt. Bei **4 Stunden** bei Alcazaba, Theater und Kathedrale bleiben. Die Wege ab jedem Terminal stehen unter [Málaga Landgang](/de/guides/malaga/malaga-kreuzfahrt-landgang).
 
 ## Wo essen
 
-- **Markt Atarazanas:** frittierter Fisch, Sardellen und eingelegte Oliven an den Ständen. Nur vormittags (bis etwa 15:00 Uhr) und **sonntags geschlossen**.
-- **Rund um Plaza de la Merced und Calle Carretería:** Tapas-Bars zum Stehen mit Preisen für Einheimische, zehn Minuten vom Picasso-Museum.
-- **La Malagueta, am Abend:** *Espetos*, Sardinen am Spieß über Holzfeuer in einer Strandbar. Einfach, und das typischste Essen in Málaga.
+- **Mercado de Atarazanas:** Stände mit frittiertem Fisch, Sardellen und eingelegten Oliven. Vormittags geöffnet (bis etwa 15:00), **sonntags geschlossen**: An einem Sonntag den Plan ändern.
+- **Rund um die Plaza de la Merced und Carretería:** Tresentavernen mit Viertelpreisen, zehn Minuten vom Picasso.
+- **Malagueta, am Abend:** Sardinenspieß (Espeto) in einer Strandbar. Einfach und das Typischste, was du in Málaga essen wirst.
 
-Meide die Terrassen mit laminierten Karten gegenüber der Kathedrale und an der Calle Larios. Mehr in [Essen in Málaga](/de/guides/malaga/essen-in-malaga), oder lass dich bei der [privaten Tapas-Tour durch Atarazanas](/en/cities/malaga/activities/private-tapas-tour-malaga-atarazanas) herumführen.
+Meide die Terrassen mit laminierter Karte vor der Kathedrale und in der Calle Larios. Mehr Ideen unter [Essen in Málaga](/de/guides/malaga/essen-in-malaga).
 
-## Typische Fehler
+## Tipps und typische Fehler
 
-1. **Im Sommer mittags nach Gibralfaro hinaufsteigen.** Geh als Erstes hin oder nimm den Bus 35.
-2. **Die Kathedrale für Sonntagvormittag einplanen.** Für Besucher öffnet sie erst um 14:00 Uhr.
-3. **Das Römische Theater an einem Montag besuchen.** Von der Straße aus siehst du es, aber das Besucherzentrum ist zu.
-4. **Mit dem Dach der Kathedrale rechnen.** Erst nach Ende der Arbeiten.
-5. **Den Caminito del Rey oder Ronda noch hineinquetschen.** Das passt nicht in denselben Tag: Lies stattdessen [Ausflüge ab Málaga](/de/guides/malaga/ausfluege-ab-malaga).
-
-## In einem Satz
-
-Ein Tag in Málaga heißt: früh die Alcazaba, mittags die Kathedrale, nachmittags Picasso und zum Schluss das Meer. In dieser Reihenfolge siehst du fast alles Wichtige, ohne ein einziges Taxi zu nehmen.
+1. **Mittags im Sommer nach Gibralfaro steigen.** Früh morgens oder mit Bus 35.
+2. **Sonntagvormittag zur Kathedrale.** Vor 14:00 ist sie für Besucher geschlossen.
+3. **Montags zum Römischen Theater.** Das Interpretationszentrum ist zu; von der Calle Alcazabilla sieht man es genauso, hinein kommt man aber nicht.
+4. **Mit dem Dach der Kathedrale rechnen.** Erst nach Ende der Bauarbeiten wieder zugänglich.
+5. **Caminito del Rey oder Ronda in denselben Tag packen.** Passt nicht: Dafür gibt es die [Ausflüge ab Málaga](/de/guides/malaga/ausfluege-ab-malaga).

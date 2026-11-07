@@ -1,11 +1,12 @@
 ---
 titulo: "Valencia en dos días: ruta con criterio sin perder lo importante"
 descripcion: "Qué ver en Valencia en 2 días: casco histórico, Ciudad de las Artes, Albufera y paella. Ruta hora a hora, dónde comer, dónde dormir y qué evitar."
-respuestaCorta: 'Dedica **el día 1 al casco histórico** (Mercado Central, Lonja de la Seda, Catedral y Miguelete, el Carmen) y la tarde a la **Ciudad de las Artes y las Ciencias**; **el día 2, a la Albufera**, con paseo en barca y paella de verdad en El Palmar a mediodía, y después la Malvarrosa. El Oceanogràfic, desde 37 €: resérvalo online en temporada alta.'
+intro: '**Valencia en 2 días** cunde, y mucho: es llana y compacta, con el casco histórico a un lado y la Ciudad de las Artes y las Ciencias al otro, unidos por un parque de nueve kilómetros donde antes corría el río. Da tiempo a ver el **Mercado Central**, la **Lonja de la Seda**, la Catedral y el Carmen, la arquitectura de Calatrava y la **Albufera**, donde nació la paella.'
+respuestaCorta: 'Para ver Valencia en 2 días, dedica **el día 1 al casco histórico** (Mercado Central, Lonja de la Seda, Catedral y Miguelete, el Carmen) y la tarde a la **Ciudad de las Artes y las Ciencias**; **el día 2, a la Albufera**, con paseo en barca y paella en El Palmar, y después la Malvarrosa. Reserva el Oceanogràfic online.'
 categoria: "valencia"
 slug: "valencia-en-2-dias"
 fecha: "2026-02-22"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
@@ -36,43 +37,43 @@ actividades:
   - hemisferic-museu-ciencies-entrada
 imagen_portada: "/images/guias/valencia-en-2-dias.jpg"
 imagen_alt: "La Lonja de la Seda de Valencia"
+faq:
+- pregunta: ¿Qué ver en Valencia en 2 días?
+  respuesta: El primer día, el casco histórico (Mercado Central, Lonja de la Seda, Catedral y Miguelete, plaza de la Virgen y el Carmen) y por la tarde la Ciudad de las Artes y las Ciencias. El segundo, la Albufera con paseo en barca y paella en El Palmar, y la playa de la Malvarrosa.
+- pregunta: ¿Cómo ir a la Albufera sin coche?
+  respuesta: 'Con los autobuses 24 o 25 desde la plaza de la Reina: unos 45 minutos y 1,50 €. El paseo en barca dura 40-45 minutos, cuesta unos 5 € por adulto (unos 7 € al atardecer) y solo hace falta reservar el del atardecer.'
+- pregunta: ¿Cómo llegar del aeropuerto de Valencia al centro?
+  respuesta: El aeropuerto de Manises está a 8 km. Las líneas 3 y 5 de metro llegan al centro en 20-25 minutos por 4,80 €; el taxi cuesta unos 20-25 €.
+- pregunta: ¿Dónde dormir en Valencia dos días?
+  respuesta: En Ciutat Vella (el Carmen, la Catedral, el Mercado), con hoteles de 3-4 estrellas a 90-160 € en temporada, o en Ruzafa si buscas barrio local con vida nocturna. Evita la zona de la Ciudad de las Artes (lejos a pie) y la estación.
+- pregunta: ¿Merece la pena el Oceanogràfic en una visita de dos días?
+  respuesta: 'Sí si viajas con niños o te gusta el mar: es el mayor acuario de Europa y lleva 3-4 horas. Las entradas salen desde 37 € y conviene reservarlas online en temporada alta. Si no, el paseo gratis entre los edificios de la Ciudad de las Artes al atardecer ya merece la pena.'
 ---
 
-**Valencia en dos días cunde, y mucho.** Es llana, compacta y bien conectada, con el casco histórico a un lado y la Ciudad de las Artes al otro, unidos por un parque de nueve kilómetros donde antes había un río. La trampa es quedarse solo con Calatrava: el alma de la ciudad está en el Mercado Central, la Lonja, el Carmen y Ruzafa, y en la huerta de la Albufera donde nació la paella. Dos días dan para las dos caras.
-
-## Reserva lo principal
-
-| Actividad | Valoración | Desde |
-| --- | --- | --- |
-| [Tour por la catedral, San Nicolás y la Lonja de la Seda](/ciudades/valencia/actividades/tour-catedral-lonja-san-nicolas-valencia) | 4,8★ (1.243) | 49 € |
-| [Tour en tuk tuk por el centro, las playas y la Ciudad de las Artes](/ciudades/valencia/actividades/tour-tuk-tuk-valencia-centro-playas) | 4,6★ (388) | 40 € |
-| [Entrada al Oceanogràfic](/ciudades/valencia/actividades/oceanografic-valencia-entrada) | 4,7★ (11.540) | 37 € |
-| [Entrada al Bioparc](/ciudades/valencia/actividades/bioparc-valencia-entrada) | 4,8★ (2.988) | 29,5 € |
-| [Paseo en catamarán de día o al atardecer con bebida](/ciudades/valencia/actividades/paseo-catamaran-valencia-atardecer) | 4,0★ (3.360) | 15 € |
-| [Cata de cerveza artesanal y tapas en Ruzafa](/ciudades/valencia/actividades/cata-cerveza-artesanal-tapas-ruzafa) | 4,8★ (128) | 28,5 € |
-
-## Cuándo ir y cómo llegar
-
-**Marzo-junio y septiembre-octubre** son ideales; **noviembre-febrero** es suave, barato y sin colas; julio y agosto, calor húmedo. **Las Fallas (15-19 de marzo)** son brutales (mascletà a las 14:00 en la plaza del Ayuntamiento, Cremà la noche del 19), pero el alojamiento se triplica y el centro se colapsa: si no vienes a por ellas, evita esas fechas.
-
-**AVE** desde Madrid en 1 h 50 y desde Barcelona en unas 3 h; la estación Joaquín Sorolla está a 15 minutos del centro. Del **aeropuerto**, metro (líneas 3 y 5) al centro en 20-25 minutos por 4,80 €. El centro se hace a pie y lo demás en bici: el carril del Jardín del Turia une centro, Ciudad de las Artes y playa. Nada de coche (ZTL, aparcar caro).
-
-## Día 1: casco histórico y Ciudad de las Artes
+## Día 1: casco histórico y Ciudad de las Artes y las Ciencias
 
 | Hora | Qué |
 | --- | --- |
 | 9:30 | Mercado Central y Lonja de la Seda |
 | 10:30 | Catedral, Miguelete y plaza de la Virgen |
 | 12:00 | Barrio del Carmen |
-| 14:00 | Comida en el centro (arroz del senyoret o al horno) |
+| 14:00 | Comida en el centro |
 | 16:30 | Ciudad de las Artes (u Oceanogràfic con niños) |
 | 20:00 | Cena en Ruzafa |
 
-Desayuna en una barra del **Mercado Central**, uno de los mayores de Europa, modernista de hierro y cerámica, y cruza a la **Lonja de la Seda**, Patrimonio de la Humanidad, con su Salón de Columnas como palmeras de piedra. Sube los **207 escalones del Miguelete** para la panorámica, entra en la **Catedral** (guarda el Santo Cáliz, para muchos el Grial) y sal a la **plaza de la Virgen**. Pierde la mañana por el **Carmen**, el barrio más antiguo, con las torres de Serranos y de Quart y arte urbano.
+**Mañana.** Desayuna en una barra del **Mercado Central**, uno de los mayores de Europa, modernista de hierro y cerámica, y cruza a la **Lonja de la Seda**, Patrimonio de la Humanidad, con su Salón de Columnas como palmeras de piedra. Sube los **207 escalones del Miguelete** (sin ascensor) para la mejor panorámica, entra en la **Catedral**, que guarda el Santo Cáliz (para muchos, el Grial), y sal a la **plaza de la Virgen**: los jueves a mediodía se reúne a la puerta de la Catedral el Tribunal de las Aguas, el más antiguo de Europa.
 
-Por la tarde, baja por el **Jardín del Turia** hasta la **Ciudad de las Artes y las Ciencias**. Con niños, el **Oceanogràfic** (3-4 horas, el mayor acuario de Europa); si no, el paseo entre los edificios al atardecer es de lo más fotogénico de España. Cena en **Ruzafa**, el barrio de moda, y prueba el **agua de Valencia** (cava, naranja, vodka y ginebra) con cabeza: sube rápido.
+[actividad: tour-catedral-lonja-san-nicolas-valencia]
 
-## Día 2: Albufera, paella y playa
+Pierde el resto de la mañana por el **Carmen**, el barrio más antiguo, con las **torres de Serranos y de Quart** (restos de la muralla medieval, ambas visitables), arte urbano y plazas.
+
+**Comida.** Tapas o arroz cerca del Carmen o del Mercado. Guarda la paella de verdad para mañana y prueba hoy un **arroz del senyoret** o un **arroz al horno**.
+
+**Tarde.** Baja a pie o en bici por el **Jardín del Turia** hasta la **Ciudad de las Artes y las Ciencias** de Calatrava. Con niños o si te gusta el mar, el **Oceanogràfic**, el mayor acuario de Europa (3-4 horas, entradas desde 37 €). Si no, el paseo gratis entre los edificios al atardecer es de lo más fotogénico de España. Las combinadas salen más a cuenta y se agotan en temporada alta; lo detallamos en [cómo visitar la Ciudad de las Artes](/guias/valencia/ciudad-artes-ciencias-como-visitar).
+
+**Noche.** Cena en **Ruzafa**, el barrio de moda, y prueba el **agua de Valencia** (cava, naranja, vodka y ginebra) con cabeza: sube rápido.
+
+## Día 2: la Albufera, paella y playa
 
 | Hora | Qué |
 | --- | --- |
@@ -81,37 +82,51 @@ Por la tarde, baja por el **Jardín del Turia** hasta la **Ciudad de las Artes y
 | 16:30 | Playa de la Malvarrosa, horchata con fartons |
 | 19:00 | Última tarde por el centro (plaza Redonda, Mercado de Colón) |
 
-A 45 minutos en el bus 24 o 25 desde la plaza de la Reina está el **parque natural de la Albufera**: un gran lago entre arrozales y barracas. El **paseo en barca** (40-45 minutos, sin reserva salvo al atardecer) es de los planes más bonitos cerca de la ciudad. Come en **El Palmar** una paella valenciana de verdad: pollo, conejo, garrofó y judía verde, ni marisco ni chorizo, y siempre a mediodía. Vuelve a la **Malvarrosa**, arena ancha y restaurantes de arroces frente al mar.
+**Albufera.** A unos 45 minutos en el **bus 24 o 25** desde la plaza de la Reina (1,50 €) está el **parque natural de la Albufera**: un gran lago entre arrozales y barracas. El **paseo en barca** (40-45 minutos, unos 5 € por adulto, unos 7 € al atardecer) se paga en el embarcadero y no necesita reserva, salvo el del atardecer.
 
-## Precios y horarios
+**Paella en El Palmar.** La **paella valenciana** de verdad lleva pollo, conejo, garrofó y judía verde, y en algunas casas caracoles: ni marisco ni chorizo, y siempre a mediodía.
 
-| Lugar | Precio | Horario |
+**Malvarrosa.** De vuelta, baño o paseo por la playa, de arena ancha y con restaurantes de arroces frente al mar. Merienda **horchata con fartons**; la buena viene de Alboraya, al lado.
+
+**Última tarde.** Regresa al centro para la **plaza Redonda**, el modernista **Mercado de Colón** o una última terraza en el Carmen.
+
+## Cuándo ir, cómo llegar y cómo moverse
+
+- **Cuándo:** marzo-junio y septiembre-octubre son ideales; noviembre-febrero es suave, barato y sin colas; julio y agosto, calor húmedo. **Las Fallas (15-19 de marzo)** son espectaculares, pero el alojamiento se triplica y el centro se colapsa: si no vienes a por ellas, evita esas fechas.
+- **En tren:** AVE desde Madrid en 1 h 50 y desde Barcelona en unas 3 horas. La estación Joaquín Sorolla está a 15 minutos del centro.
+- **En avión:** el aeropuerto de Manises está a 8 km. Metro (líneas 3 y 5) al centro en 20-25 minutos por **4,80 €**; taxi, unos 20-25 €.
+- **En la ciudad:** el centro se hace a pie y lo demás en bici: el carril del **Jardín del Turia** une centro, Ciudad de las Artes y playa. Nada de coche: aparcar es caro y hay zona de bajas emisiones.
+
+## Qué ver en Valencia: precios y horarios
+
+| Lugar | Precio | Horario y notas |
 | --- | --- | --- |
-| Catedral + Miguelete | 9 € con audioguía; sin ascensor | L-S 10:30-18:30, domingos tarde |
+| Catedral + Miguelete | 9 € con audioguía | L-S 10:30-18:30, domingos por la tarde |
 | Lonja de la Seda | 2 €, gratis domingos y festivos | Cierra domingos por la tarde |
 | Mercado Central | Gratis | L-S 7:30-15:00 |
 | Torres de Serranos y de Quart | 2 € cada una, gratis domingos | Serranos tiene la mejor vista del Turia |
-| Oceanogràfic | ~40 € (30 € niños); Museu y Hemisfèric 9 € cada uno; los tres ~50 € | Reserva online en temporada alta |
-| Bioparc | 27-28 €; metro Nou d'Octubre | Desde las 10:00 |
-| Albufera | Bus 1,50 €; barca, unos 5 € por adulto (unos 7 € al atardecer), se paga en el embarcadero | |
-| Transporte | Billete 1,50 €; SUMA 10 viajes 8 € + 1 € de tarjeta; Valenbisi semanal 13,30 € | |
+| Oceanogràfic | Desde 37 € | Reserva online en temporada alta |
+| Hemisfèric / Museu de les Ciències | 9 € cada uno; los tres, desde 46 € | |
+| Bioparc | 27-28 € | Desde las 10:00; metro Nou d'Octubre |
+| Transporte | Billete 1,50 €; SUMA 10 viajes 8 € + 1 € de tarjeta; Valenbisi semanal 13,30 € | Bus a la Albufera, 1,50 € |
 
-Detalle en [cómo visitar la Ciudad de las Artes](/guias/valencia/ciudad-artes-ciencias-como-visitar).
+## Dónde dormir y comer
 
-## Dormir y comer
+Duerme en **Ciutat Vella** (Carmen, Catedral, Mercado; 3-4 estrellas a **90-160 €** la noche en temporada) o en **Ruzafa** si buscas barrio local con noche, a 10 minutos del centro. Evita la zona de la Ciudad de las Artes (lejos a pie) y la estación.
 
-Duerme en **Ciutat Vella** (Carmen, Catedral, Mercado; 3-4 estrellas a 90-160 €) o en **Ruzafa** si buscas barrio local con noche. Evita la zona de la Ciudad de las Artes (lejos a pie) y la estación.
+Cuatro reglas de mesa:
 
-Cuatro reglas de mesa: **el arroz es de mediodía**; **paella valenciana no es paella de marisco**; **la buena está en El Palmar**, no en la plaza de la Reina; y **horchata con fartons** para merendar. Desconfía de las fotos de paella plastificadas y los captadores frente a los monumentos: dos calles más allá todo mejora.
+- **El arroz es de mediodía.** De cena, recalentado o a deshora.
+- **Paella valenciana no es paella de marisco.**
+- **La buena está en El Palmar**, no en la plaza de la Reina.
+- **Horchata con fartons** para merendar.
 
 ## Errores típicos
 
 1. **Quedarse solo con Calatrava** y saltarse la Albufera.
-2. **Pedir paella de cena:** recalentada o a deshora.
-3. **Ciudad de las Artes al mediodía en verano:** sin sombra; ve a última hora.
+2. **Fiarse de las fotos de paella plastificadas** y los captadores frente a los monumentos: dos calles más allá todo mejora.
+3. **Ciudad de las Artes al mediodía en verano:** no hay sombra; ve a última hora.
 4. **No reservar el Oceanogràfic** en temporada alta.
 5. **Ignorar la bici:** une centro, Ciudad de las Artes y playa más rápido que nada.
 
-## En una frase
-
-Valencia en dos días es huerta y futuro en la misma postal: piedra gótica y mercado por la mañana, Calatrava por la tarde y una paella de verdad entre arrozales. Si te sobra un día, súmale playa y Sagunto.
+Si te sobra un día, súmale Sagunto o una escapada a la cercana Costa Blanca.

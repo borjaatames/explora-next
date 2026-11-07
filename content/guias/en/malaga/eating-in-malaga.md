@@ -4,12 +4,13 @@ descripcion: "Eating in Málaga: sardine espetos at El Palo beach bars, fritura 
 categoria: "malaga"
 slug: "eating-in-malaga"
 fecha: "2026-03-21"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 10
-respuestaCorta: 'Eat the **sardine espeto at a beach bar in Pedregalejo or El Palo** (about 4-6 € for six sardines), fried fish where locals queue, and **sweet Málaga wine from the barrel** in a historic bodega such as Antigua Casa de Guardia. A good meal costs around **20-25 € per person**; avoid the terraces facing the Cathedral and on Calle Larios.'
+tiempo_lectura: 3
+intro: '**Eating in Málaga** means simple seafood cooking, from beach bars and taverns, with outstanding produce from the sea: the **sardine espeto** grilled on the sand at Pedregalejo and El Palo, fried fish, Victoria anchovies, ajoblanco and **sweet Málaga wine** poured straight from the cask in historic bodegas. You eat wonderfully and cheaply if you know where: just walk two streets away from the terraces by the Cathedral.'
+respuestaCorta: 'For **eating in Málaga**, order a **sardine espeto at a beach bar in Pedregalejo or El Palo** (€4-6 for six sardines, best at lunchtime), fried fish wherever locals crowd in and **cask sweet wine** at a historic bodega such as Antigua Casa de Guardia. Expect **€20-25 per person**; avoid the terraces by the Cathedral and on Calle Larios.'
 keywords:
   - "eating in malaga"
   - "sardine espeto"
@@ -28,97 +29,61 @@ actividades:
   - malaga-taller-tapas-mercado-atarazanas
 imagen_portada: "/images/guias/comer-en-malaga.jpg"
 imagen_alt: "Sardine skewers roasting over the embers"
+faq:
+- pregunta: Where can I eat sardine espetos in Málaga?
+  respuesta: At the beach bars (chiringuitos) in Pedregalejo and El Palo, with boat-grills on the sand. They serve espetos mainly at lunchtime, from 13:00 to 16:30. Take bus 11 from the Alameda Principal (20 minutes) or walk 40 minutes along the seafront from La Malagueta.
+- pregunta: How much does it cost to eat in Málaga?
+  respuesta: 'Eating well costs €20-25 per person. As a guide: a six-sardine espeto, €4-6; a portion of fritura malagueña, €12-15; fried anchovies, €8-10; a glass of cask sweet wine, €1.50-3.'
+- pregunta: Where can I try sweet Málaga wine?
+  respuesta: 'At a historic bodega in the centre that serves it from the cask. Antigua Casa de Guardia, on the Alameda Principal and open since 1840, is the original: standing at the bar, with your bill chalked up on the counter.'
+- pregunta: What are the opening hours of the Atarazanas Market?
+  respuesta: It opens Monday to Saturday from 8:00 to 15:00 and closes on Sundays. The bars inside fill up from 13:00; go before 12:30 if you want a spot at the counter.
+- pregunta: Where should I avoid eating in Málaga?
+  respuesta: 'At terraces with laminated menus in several languages and touts right by the Cathedral or on Calle Larios: tourist prices and average quality. Walk two or three streets towards Carretería, Soho or the market.'
 ---
 
-**You eat wonderfully and cheaply in Málaga if you know where.** It's seafaring, simple cooking, of beach bars and taverns, with exceptional seafood. The only trap is the tourist terraces opposite the Cathedral and on Calle Larios; two streets away, everything improves. This guide gives you the keys to eat like a local.
+## What to eat in Málaga: the essentials
 
-The dish that defines the city is the **espeto de sardinas** (sardine skewer): you must try it, and in its proper place (a beach bar), not on a terrace in the centre.
+- **Sardine espeto.** Sardines skewered on a cane and grilled over olive-wood embers on the sand, in boat-grills. You eat them with your fingers. It's the dish that defines the city and you should try it in the right place: the **beach bars of Pedregalejo and El Palo**, not a terrace in the centre. They're at their best **from May to September**; out of season, go for fried fish, clams or smooth Venus clams instead.
+- **Fried fish (fritura malagueña).** A mix of anchovies, squid, baby squid and rosada. Crisp and light.
+- **Anchovies (boquerones).** Victoria anchovies from the bay, fried or in vinegar.
+- **Ajoblanco and porra.** **Ajoblanco** is a cold almond and garlic soup served with grapes; **porra antequerana** is a thicker cousin of salmorejo. Both are refreshing in summer.
 
-## Quick answers
+## Sweet Málaga wine and what to drink
 
-| Question | Answer |
-| --- | --- |
-| The one dish to try | Sardine espeto, at a beach bar |
-| Where | Pedregalejo and El Palo beach bars |
-| When | Lunch, 13:00-16:30 |
-| Budget | 20-25 € per person for a good meal |
-| Drink | Sweet Málaga wine from the barrel |
-| Avoid | Terraces facing the Cathedral and on Calle Larios |
+**Sweet Málaga wine** (moscatel or Pedro Ximénez) is the city's signature. Try it at a historic bodega in the centre where it's poured straight from the casks:
 
-## The essentials
+- **Antigua Casa de Guardia** (Alameda Principal, since 1840): the original. Standing at the bar, with your bill chalked on the counter.
+- **El Pimpi:** more touristy, but worth a visit for the building.
 
-**Espeto de sardinas.** Sardines skewered on a cane and grilled over olive-wood embers in the sand, in grill-boats. Eaten with your fingers. The sardines are at their best from May to September; the looser local rule runs from Holy Week to October. The best place: the **beach bars of Pedregalejo and El Palo**.
+A glass of cask sweet wine costs **€1.50-3**. Also try wines from the **Axarquía** and the Montes de Málaga.
 
-**Fritura malagueña.** Mixed fried fish: anchovies, squid, baby squid (*puntillitas*), rosefish. Crisp and light.
-
-**Boquerones.** Anchovies from the bay (*victorianos*), fried or in vinegar. Unbeatable.
-
-**Ajoblanco and porra.** **Ajoblanco** is the cold almond-and-garlic soup (with grapes); **porra antequerana** is a thicker cousin of salmorejo. Both refresh in summer.
-
-Out of sardine season, order fried fish, clams (*almejas*) or *conchas finas* (smooth clams) instead of an espeto.
-
-## Typical prices
-
-As of 2026, in places where locals eat:
-
-| Item | Price |
-| --- | --- |
-| Espeto of six sardines | 4-6 € |
-| Portion of fritura malagueña | 12-15 € |
-| Fried anchovies | 8-10 € |
-| Glass of sweet wine from the barrel | 1.50-3 € |
-
-If a terrace in the centre charges well above this for the same dishes, you're paying for the view.
-
-## To drink
-
-The **sweet Málaga wine** (Muscatel or Pedro Ximénez) is the city's signature. Try it in a historic bodega in the centre where they serve it straight from the barrels:
-
-- **Antigua Casa de Guardia** (Alameda Principal, open since 1840) is the original. You drink standing at the bar, and the bill is chalked on the counter in front of you.
-- **El Pimpi** is more touristy, but the building alone is worth a visit.
-
-Also look for wines from the **Axarquía** and the Montes de Málaga.
-
-## Where to eat well
+## Where to eat in Málaga
 
 | Area | What to look for |
 | --- | --- |
-| Pedregalejo / El Palo | Espetos and fried fish at a beach bar |
-| Atarazanas Market | Tapas, fresh produce, seafood |
-| Calle Carretería / Soho | Taverns and market cuisine |
+| Pedregalejo / El Palo | Espetos and fried fish at beach bars |
+| Atarazanas Market | Tapas, fresh produce, shellfish |
+| Calle Carretería / Soho | Taverns and market cooking |
 | Centre (away from Larios) | Historic sweet-wine bodegas |
 
-> **⚠️ Warning:** be wary of terraces with laminated menus in several languages and touts right opposite the Cathedral or on Calle Larios: tourist prices and average quality. Walk two or three streets towards Carretería, Soho or the market and everything changes.
+Be wary of terraces with **laminated menus in several languages and touts** right by the Cathedral or on Calle Larios: tourist prices and average quality. Walk two or three streets towards Carretería, Soho or the market and everything changes.
 
-## Times, transport and booking
+The **Atarazanas Market** is one of the best food experiences in the city: don't skip it.
 
-- **Beach bar hours:** in Pedregalejo and El Palo the espetos are mainly a lunchtime thing, roughly 13:00 to 16:30. At night few bars light the grill-boat, so don't plan an espeto dinner.
-- **Tapas hours in the centre:** 13:00-16:00 and 20:30-23:30.
-- **Getting to Pedregalejo and El Palo:** bus 11 from the Alameda Principal (about 20 minutes), a taxi (8-10 €), or a 40-minute walk along the seafront from La Malagueta. The walk is the best option if you have time.
-- **Atarazanas Market:** open Monday to Saturday, 8:00-15:00; closed Sundays. The bars inside fill up from 13:00, so arrive before 12:30 if you want a spot at the counter.
-- **Booking:** beach bars don't usually take bookings; on weekends arrive before 13:30. For the taverns in the centre on Friday and Saturday nights, do book.
+## Times, prices and getting there
 
-## A simple food plan for one day
+- **Times:** beach bars serve espetos mainly at lunchtime, **13:00 to 16:30**; few light the grill at night. In the centre, tapas time is 13:00 to 16:00 and 20:30 to 23:30.
+- **Typical prices:** six-sardine espeto, **€4-6**; portion of fritura malagueña, **€12-15**; fried anchovies, **€8-10**. Eating well costs **€20-25 per person**.
+- **Pedregalejo and El Palo:** **bus 11** from the Alameda Principal (20 minutes) or a lovely 40-minute walk along the seafront from La Malagueta. By taxi, €8-10.
+- **Atarazanas Market:** Monday to Saturday, **8:00 to 15:00**; closed on Sundays. The bars inside fill up from 13:00: go before 12:30 if you want a counter spot.
+- **Booking:** beach bars don't usually take bookings; arrive before 13:30 at weekends. For taverns in the centre on Friday and Saturday nights, do book.
 
-1. **Late morning:** Atarazanas Market before 12:30, for a counter tapa and a look at the fish stalls.
-2. **Lunch:** walk or take bus 11 to Pedregalejo or El Palo for espetos and fried fish at a beach bar.
-3. **Early evening:** a glass of sweet wine from the barrel at Antigua Casa de Guardia.
-4. **Dinner:** tapas around Calle Carretería or Soho, not on Larios.
+## Tips to get it right
 
-## Rules to not get it wrong
+1. **Espetos on the beach.** At a beach bar with a boat-grill; without the embers on the sand it's not the same.
+2. **Fried fish where there's turnover.** Places full of locals = fresh fish.
+3. **Sweet wine from the cask.** At the historic bodegas, not off any menu.
+4. **Stay away from Larios and the Cathedral to eat**; go there only for a stroll. On the front row you pay more for less.
 
-1. **The espeto, on the beach.** At a beach bar with a grill-boat, not in the centre.
-2. **The fried fish, where there's turnover.** Places full of locals = fresh fish.
-3. **The sweet wine, from the barrel.** In the historic bodegas, not on any old menu.
-4. **Stay away from Larios and the Cathedral** to eat; go there only to stroll.
-
-## What we don't recommend
-
-1. **Eating in the Cathedral's front row.** You pay more for less.
-2. **Ordering an espeto on a terrace in the centre.** Without the embers in the sand, it isn't the same.
-3. **Skipping the Atarazanas Market.** It's one of the best food plans in the city.
-4. **Turning up at a beach bar at 21:00 expecting espetos.** Most only grill at lunchtime.
-
-## In one sentence
-
-Eating in Málaga with criteria is a sardine espeto at a beach bar in El Palo, fried fish where the locals crowd in and a barrel sweet wine in the centre: seafaring, simple and cheap if you dodge the Larios traps. We apply it in the [Málaga in two days](/en/guides/malaga/malaga-in-two-days) route.
+We put all this into practice day by day in [Málaga in two days](/en/guides/malaga/malaga-in-two-days).

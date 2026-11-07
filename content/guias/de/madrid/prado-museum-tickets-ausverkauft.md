@@ -5,7 +5,7 @@ metaTitle: 'Prado Museum Tickets: Preis und Tipps'
 categoria: madrid
 slug: prado-museum-tickets-ausverkauft
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
@@ -29,21 +29,24 @@ slugs:
   it: museo-del-prado-biglietti-esauriti
   pt: museu-do-prado-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: "Der Prado ist fast nie komplett ausverkauft: Meist ist nur **ein bestimmtes Zeitfenster** voll oder die Schlange zur Gratisstunde ist riesig. Probier eine andere Uhrzeit auf `entradas.museodelprado.es` (**15 €**) oder kauf an der **Kasse an der Puerta de Goya**. Wenn du nichts riskieren willst, sichert dir ein **Ticket mit Uhrzeit über einen Wiederverkäufer** (ab 18 €) oder eine **Führung mit Ticket** den Eintritt."
+intro: 'Bevor du deine **Prado Museum Tickets** kaufst, lohnt ein Blick darauf, was dich erwartet: eine der großen Gemäldegalerien der Welt, 1819 im Gebäude von Juan de Villanueva eröffnet, mit der besten Sammlung von **Velázquez, Goya und El Greco** und Meisterwerken von Bosch, Tizian und Rubens. Es liegt am Paseo del Prado, 10-15 Minuten zu Fuß von Atocha, und der Besuch dauert zwei bis drei Stunden.'
+respuestaCorta: '**Prado Museum Tickets** kosten **15 €** auf entradas.museodelprado.es oder an der **Kasse an der Puerta de Goya**. Fast nie ist der ganze Tag ausverkauft, nur **einzelne Zeitfenster**: Probier eine andere Uhrzeit oder die Kasse. **Gratis ist er Montag bis Samstag von 18:00 bis 20:00** (sonntags 17:00-19:00). Eine Führung mit Eintritt sichert den Zugang.'
 actividades:
   - museo-prado-entrada
   - museo-prado-visita-guiada
   - museo-prado-visita-privada-guia-oficial
   - art-walk-pass-prado-reina-sofia-thyssen
 faq:
-- pregunta: "Kann man Prado-Tickets am selben Tag an der Kasse kaufen?"
-  respuesta: "Ja. Die Kassen befinden sich neben der Puerta de Goya an der Nordseite des Gebäudes, und das reguläre Ticket kostet dort genauso viel wie online, 15 €. An Wochenenden, Brückentagen und in der Hochsaison bildet sich eine Schlange, also komm am besten gleich morgens."
-- pregunta: "Wann ist der Eintritt in den Prado kostenlos?"
-  respuesta: "In den letzten zwei Stunden jedes Tages: Montag bis Samstag von 18:00 bis 20:00 Uhr, sonntags und feiertags von 17:00 bis 19:00 Uhr, nur für die Dauerausstellung. Der Einlass endet eine halbe Stunde vorher. Den ganzen Tag kostenlos ist es außerdem am 18. Mai und am 19. November. Unter 18-Jährige, Studierende von 18 bis 25 Jahren und Arbeitslose haben immer freien Eintritt."
-- pregunta: "Lohnt es sich, für die Gratisstunde anzustehen?"
-  respuesta: "Nur wenn dir anderthalb Stunden Besuch reichen. Die Schlange bildet sich schon lange vor Beginn der Gratiszeit, und an Sonn- und Feiertagen kann das Warten über eine Stunde dauern. Wenn du das Museum in Ruhe sehen willst, lohnt es sich, ein Ticket zu bezahlen und ein Zeitfenster am Vormittag zu wählen."
-- pregunta: "Ist es eine sichere Wahl, eine Führung zu buchen, wenn die offizielle Website nichts mehr frei hat?"
-  respuesta: "Ja, solange in der Beschreibung steht, dass der Museumseintritt inbegriffen ist. Die Anbieter reservieren ihre Plätze im Voraus, und du gehst mit der Gruppe zu einer festen Uhrzeit hinein, ohne an der Kasse anzustehen."
+- pregunta: Kann man Prado-Tickets am selben Tag an der Kasse kaufen?
+  respuesta: Ja. Die Kassen liegen neben der Puerta de Goya an der Nordseite des Gebäudes, und das Normalticket kostet dasselbe wie online, 15 €. An Wochenenden, Brückentagen und in der Hochsaison bildet sich eine Schlange, also komm früh.
+- pregunta: Wann ist der Prado kostenlos?
+  respuesta: 'In den letzten zwei Stunden jedes Tages: Montag bis Samstag von 18:00 bis 20:00 und sonn- und feiertags von 17:00 bis 19:00, nur die ständige Sammlung. Der Einlass endet eine halbe Stunde vorher. Außerdem ist am 18. Mai und am 19. November den ganzen Tag gratis. Unter 18-Jährige, Studierende von 18 bis 25 und Arbeitslose haben immer freien Eintritt.'
+- pregunta: Lohnt sich die Schlange zur Gratis-Stunde?
+  respuesta: Nur wenn dir anderthalb Stunden reichen. Die Schlange bildet sich lange vorher und kann sonn- und feiertags über eine Stunde dauern. Wer das Museum in Ruhe sehen will, zahlt besser und wählt ein Vormittagsfenster.
+- pregunta: Ist eine Führung verlässlich, wenn die offizielle Website keine Plätze hat?
+  respuesta: Ja, solange im Angebot steht, dass der Museumseintritt inbegriffen ist. Die Anbieter reservieren ihre Plätze im Voraus, und du gehst mit der Gruppe zu einer festen Zeit hinein, ohne an der Kasse anzustehen.
+- pregunta: An welchen Tagen ist der Prado geschlossen?
+  respuesta: Es gibt keinen wöchentlichen Ruhetag. Geschlossen ist nur am 1. Januar, 1. Mai und 25. Dezember; am 6. Januar sowie am 24. und 31. Dezember schließt er um 14:00.
 opciones:
   - ficha: museo-prado-entrada
     etiqueta: Ticket mit Uhrzeit
@@ -53,69 +56,53 @@ opciones:
     etiqueta: Mit Reina Sofía und Thyssen
 ---
 
-Der Prado verkauft Tickets mit fester Uhrzeit und ist fast nie für einen ganzen Tag ausgebucht. Was aber durchaus passiert, vor allem an Brückentagen, Wochenenden und in der Karwoche: **Dein Wunsch-Zeitfenster ist ausverkauft**, oder die Schlange zur Gratisstunde reicht einmal um den Block. Beides heißt nicht, dass du auf das Museum verzichten musst. Hier sind die Möglichkeiten, in der Reihenfolge, in der du sie am besten ausprobierst.
+## Was du sehen wirst
 
-## Welches Ticket wählen?
+Der Prado ist aus den königlichen Sammlungen der Habsburger und Bourbonen entstanden, und das prägt ihn: Er besitzt die weltweit beste Sammlung von **Velázquez, Goya und El Greco**, dazu herausragende Werke von Bosch, Tizian und Rubens. Er umfasst europäische Malerei vom 12. bis zum 19. Jahrhundert.
 
-| Wenn du … suchst | Option | Ab |
-| --- | --- | --- |
-| Ticket mit Uhrzeit, ohne Guide | [Eintritt ins Prado-Museum](/en/cities/madrid/activities/prado-museum-entry-ticket), 4,7★ (23.644) | 18 € |
-| Die am besten bewertete Option | [Führung durch den Prado mit Ticket](/en/cities/madrid/activities/prado-museum-guided-tour), 4,9★ (885) | 49 € |
-| Die drei großen Museen | [Paseo-del-Arte-Pass: Prado, Reina Sofía und Thyssen](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen), 4,4★ (489) | 38 € |
-| Nur für euch | [Private Führung mit offiziellem Guide](/en/cities/madrid/activities/prado-museum-private-tour-official-guide) | 146 € |
+Pflicht: *Las Meninas* und der Velázquez-Saal, Goyas *Schwarze Bilder* und Boschs *Garten der Lüste*. Plane **2-3 Stunden** ein; drinnen gibt es kein Zeitlimit.
 
-## 1. Schau noch einmal auf die offizielle Website
+## Preis und Öffnungszeiten des Prado
 
-Die offizielle Verkaufsseite ist `entradas.museodelprado.es`, verlinkt von `museodelprado.es`. Das reguläre Ticket kostet **15 €**, das ermäßigte **7,50 €** (ab 65 Jahren, mit Carné Joven und für Mitglieder kinderreicher Familien). Unter 18-Jährige, Studierende von 18 bis 25 Jahren und Arbeitslose haben **immer freien Eintritt**, wenn sie das an der Kasse nachweisen.
+Die offizielle Verkaufsseite ist **entradas.museodelprado.es**, verlinkt von museodelprado.es.
 
-- **Schau dir andere Uhrzeiten am selben Tag an.** Jedes Zeitfenster hat sein eigenes Kontingent, und drinnen gibt es keine Zeitbegrenzung. Wenn du also um 12:00 statt um 10:00 Uhr hineingehst, verpasst du nichts.
-- **Beachte die Öffnungszeiten:** Montag bis Samstag von **10:00 bis 20:00 Uhr**, sonntags und feiertags von **10:00 bis 19:00 Uhr**. Am 6. Januar sowie am 24. und 31. Dezember schließt das Museum um 14:00 Uhr.
-- **Prüfe, ob an dem Tag geöffnet ist.** Es gibt keinen wöchentlichen Ruhetag, aber am **1. Januar, 1. Mai und 25. Dezember** bleibt das Museum geschlossen.
-- **Wenn du wegen einer Sonderausstellung kommst,** kauf rechtzeitig und schau genau, was dein Ticket umfasst.
+- **Normal:** 15 €.
+- **Ermäßigt:** 7,50 € (über 65, Jugendkarte und kinderreiche Familien).
+- **Immer gratis:** unter 18, Studierende von 18 bis 25 und Arbeitslose, mit Nachweis an der Kasse.
 
-Verlass dich nicht darauf, dass kurzfristig noch Plätze frei werden: Wenn dich ein Zeitfenster interessiert, kauf es, sobald du es verfügbar siehst.
+**Öffnungszeiten:** Montag bis Samstag **10:00 bis 20:00**, sonn- und feiertags **10:00 bis 19:00**. Am 6. Januar sowie am 24. und 31. Dezember schließt er um 14:00. Es gibt keinen Ruhetag, aber **am 1. Januar, 1. Mai und 25. Dezember ist geschlossen**.
 
-## 2. Die Kasse an der Puerta de Goya
+## Wenn die Prado-Tickets ausverkauft sind
 
-Die Kassen liegen neben der **Puerta de Goya** an der Nordseite des Gebäudes und verkaufen zum gleichen Preis wie die Website. Wenn du dein Ticket schon auf dem Handy hast, gehst du durch die **Puerta de los Jerónimos** hinein, ohne an der Kasse vorbeizumüssen. In der Hochsaison wird die Schlange am späten Vormittag lang: Komm zur Öffnung oder am frühen Nachmittag.
+Der Prado verkauft Tickets mit Uhrzeit und ist fast nie für den ganzen Tag ausgebucht. Was passiert, vor allem an Brückentagen, Wochenenden und in der Karwoche: **Dein Wunsch-Zeitfenster ist ausverkauft**. Versuch es in dieser Reihenfolge:
 
-## 3. Freier Eintritt und El Prado de noche
-
-Wenn du nur gratis reinwillst: Unter [Prado kostenlos](/de/guides/madrid/prado-museum-kostenlos) findest du die Gratiszeiten, wer immer gratis reinkommt, wann du dich anstellen solltest und was du in den zwei Stunden siehst.
-
-Die Dauerausstellung ist **in den letzten zwei Stunden jedes Tages kostenlos**: Montag bis Samstag von **18:00 bis 20:00 Uhr**, sonntags und feiertags von **17:00 bis 19:00 Uhr**. Sonderausstellungen sind in dieser Zeit nicht gratis, kosten aber nur die Hälfte. Der Einlass endet **eine halbe Stunde vor Schließung**, praktisch hast du also anderthalb Stunden.
-
-Die Gratistickets gibt es **an der Kasse, solange die Kapazität reicht**, und genau da liegt das Problem: die Schlange. Sie bildet sich lange vor Beginn der Gratiszeit, und an Sonn- und Feiertagen kann die Wartezeit über eine Stunde betragen. Wenn du gehst, sei früh da und nimm dir eine kurze Liste mit Werken vor: Anderthalb Stunden reichen für Velázquez, Goya und Bosch, viel mehr nicht. Den ganzen Tag kostenlos ist der Eintritt außerdem am **18. Mai** (Internationaler Museumstag) und am **19. November** (Jahrestag des Museums).
-
-Eine weniger bekannte Option ist **El Prado de noche**: Am **ersten Samstag jedes Monats** öffnet das Museum von **20:30 bis 23:30 Uhr** einen Teil seiner Säle kostenlos, mit Einlass durch die Puerta de los Jerónimos und solange die Kapazität reicht. Der nächste Termin ist Samstag, der 7. November.
-
-## 4. Ein Ticket über einen Wiederverkäufer oder eine Führung
-
-Wenn die offizielle Website deine Wunschzeit nicht mehr hat, haben autorisierte Wiederverkäufer oft noch Plätze, weil sie ihre Kontingente im Voraus kaufen. Du zahlst mehr als auf der offiziellen Website:
-
-- **Ticket mit Uhrzeit ohne Guide (ab 18 €):** die günstigste Möglichkeit, dir eine Uhrzeit zu sichern, ohne von der Kasse abhängig zu sein.
-- **Führung mit Ticket (ab 49 €):** ein Rundgang zu den wichtigsten Werken mit Guide, die am besten bewertete der hier verlinkten Optionen.
-- **Private Führung mit offiziellem Guide (ab 146 €):** wenn ihr als Familie oder kleine Gruppe unterwegs seid und euer eigenes Tempo gehen wollt.
-
-Prüf vor dem Bezahlen, dass in der Beschreibung **„Eintritt ins Prado-Museum inbegriffen“** steht. Es gibt Stadtrundgänge, die nur an der Fassade vorbeiführen.
+1. **Andere Uhrzeiten am selben Tag** auf der offiziellen Website. Jedes Zeitfenster hat sein eigenes Kontingent, und wer um 12:00 statt um 10:00 hineingeht, verliert keine Museumszeit. Verlass dich nicht auf Last-Minute-Freigaben: Siehst du ein freies Fenster, kauf es.
+2. **Die Kasse an der Puerta de Goya**, die zum gleichen Preis für denselben Tag verkauft (siehe unten).
+3. **Ein Wiederverkaufsticket oder eine Führung.** Autorisierte Wiederverkäufer kaufen Kontingente im Voraus und haben meist Plätze: Ticket mit Uhrzeit ab 18 €, [Führung mit Eintritt](/en/cities/madrid/activities/prado-museum-guided-tour) ab 49 € oder Privatführung mit offiziellem Guide ab 146 €. Prüfe, dass im Angebot **„Eintritt in den Prado inbegriffen“** steht: Manche Rundgänge führen nur an der Fassade vorbei.
 
 [actividad: museo-prado-entrada]
 
-[actividad: museo-prado-visita-guiada]
+Wenn du wegen einer **Sonderausstellung** kommst, kauf im Voraus und prüfe genau, was dein Ticket umfasst.
 
-## 5. Der Paseo-del-Arte-Pass
+## Freier Eintritt und El Prado de noche
 
-Wenn du auch ins **Reina Sofía** und ins **Thyssen** willst, bekommst du mit dem Paseo-del-Arte-Pass innerhalb eines Jahres je einen Besuch der Dauerausstellung aller drei Museen. An den Museumskassen kostete er 2025 **32,80 €**; die hier verlinkte Version, die du online kaufst, gibt es ab 38 €. Welches der drei Museen deine Zeit am meisten verdient, erfährst du in unserem [Vergleich von Prado, Reina Sofía und Thyssen](/de/guides/madrid/prado-reina-sofia-thyssen-vergleich).
+Die ständige Sammlung ist **in den letzten zwei Stunden jedes Tages gratis**: Montag bis Samstag **18:00 bis 20:00**, sonn- und feiertags **17:00 bis 19:00**. Sonderausstellungen kosten dann die Hälfte. Der Einlass endet **eine halbe Stunde vorher**, du hast also anderthalb Stunden.
 
-[actividad: art-walk-pass-prado-reina-sofia-thyssen]
+Gratis-Tickets kann man nicht reservieren: Sie werden **an der Kasse ausgegeben, solange Plätze frei sind**. Die Schlange beginnt lange vorher und kann sonn- und feiertags über eine Stunde dauern. Nimm eine kurze Liste mit: Velázquez, Goya und Bosch, viel mehr nicht. Außerdem ist am **18. Mai** (Internationaler Museumstag) und am **19. November** (Jahrestag des Museums) ganztags gratis. Alle Details unter [Prado Museum kostenlos](/de/guides/madrid/prado-museum-kostenlos).
 
-## Fehler, die du vermeiden solltest
+**El Prado de noche:** Am **ersten Samstag jedes Monats** öffnet das Museum von **20:30 bis 23:30** einen Teil seiner Säle kostenlos, mit Einlass durch die Puerta de los Jerónimos, solange die Kapazität reicht.
 
-1. **Auf Websites kaufen, die die offizielle nachahmen.** Es gibt viele mit „Prado“ im Namen, die zu viel verlangen. Die offizielle ist `entradas.museodelprado.es`.
-2. **Genau um 18:00 Uhr zur Gratisstunde kommen.** Die Schlange ist dann schon lang, und der Einlass endet um 19:30 Uhr, sonntags um 18:30 Uhr.
-3. **Den Ausweis vergessen, wenn du gratis oder ermäßigt reingehst.** An der Kasse musst du Alter, Studium oder deine Situation nachweisen.
-4. **Am 1. Januar, 1. Mai oder 25. Dezember hingehen.** Das sind die einzigen Tage im Jahr, an denen das Museum geschlossen ist.
+## Anfahrt, Kasse und Schlangen
 
-## In einem Satz
+Das Museum liegt am Paseo del Prado, **10-15 Minuten zu Fuß von Atocha**.
 
-Wenn dein Zeitfenster ausverkauft ist, probier eine andere Uhrzeit auf der offiziellen Website oder die Kasse an der Puerta de Goya, und wenn du nicht anstehen willst, buch ein Ticket mit Uhrzeit oder eine Führung mit inbegriffenem Eintritt; wenn dein Budget knapp ist, findest du unter [Madrid kostenlos](/de/guides/madrid/madrid-kostenlos) weitere Museen ohne Eintritt, und wenn du auch den Palast sehen willst, lies [was tun, wenn der Königspalast ausverkauft ist](/de/guides/madrid/koenigspalast-madrid-tickets-ausverkauft).
+- **Kassen:** neben der **Puerta de Goya** an der Nordseite des Gebäudes. In der Hochsaison wird die Schlange am späten Vormittag lang: Komm zur Öffnung oder am frühen Nachmittag.
+- **Mit dem Ticket auf dem Handy** gehst du durch die **Puerta de los Jerónimos** hinein, ohne an der Kasse vorbeizumüssen.
+
+## Tipps
+
+- **Kauf nur auf der offiziellen Website.** Viele Seiten mit „Prado“ im Namen verlangen zu viel.
+- **Komm zur Gratis-Stunde nicht erst um 18:00:** Die Schlange ist dann schon lang, und der Einlass endet um 19:30 (sonntags um 18:30).
+- **Nimm einen Ausweis mit,** wenn du gratis oder ermäßigt hineingehst.
+- **Wenn du alle drei großen Museen sehen willst,** enthält der Paseo-del-Arte-Pass je einen Besuch der ständigen Sammlung von Prado, Reina Sofía und Thyssen innerhalb eines Jahres: An den Kassen kostete er 2025 32,80 €, online ab 38 €. Zur Wahl hilft unser [Vergleich von Prado, Reina Sofía und Thyssen](/de/guides/madrid/prado-reina-sofia-thyssen-vergleich).
+- Mit kleinem Budget findest du in [Madrid kostenlos](/de/guides/madrid/madrid-kostenlos) weitere Gratis-Museen; und wenn du auch den Palast sehen willst, lies [was tun, wenn der Königspalast ausverkauft ist](/de/guides/madrid/koenigspalast-madrid-tickets-ausverkauft).

@@ -2,15 +2,16 @@
 titulo: "Formentera Ausflug ab Ibiza: Fähre, Strände und Plan für einen Tag"
 descripcion: "Formentera Ausflug ab Ibiza: Fähre nach La Savina in 30 Min. (30–55 € hin und zurück), Roller oder Fahrrad mieten, Ses Illetes, Leuchttürme und ein Tagesplan."
 metaTitle: "Formentera Ausflug ab Ibiza: Fähre & Tipps"
-respuestaCorta: 'Nach Formentera fährst du ab Ibiza mit der **Schnellfähre vom Hafen Eivissa nach La Savina** (etwa 30 Minuten; 30 bis 55 € hin und zurück) und mietest dort Roller oder Fahrrad. Plane einen **ganzen Tag** ein: vormittags Ses Illetes, Mittagessen in Es Pujols oder Migjorn und **Sonnenuntergang am Cap de Barbaria** vor der Rückfähre.'
+intro: 'Der **Formentera-Ausflug** ist das Pflichtprogramm jedes Ibiza-Urlaubs: Eine halbe Stunde mit der Fähre entfernt, hat die kleinste der Pityusen einige der klarsten Strände des Mittelmeers, etwa **Ses Illetes**, und eine entspannte Atmosphäre ohne Clubs und große Hotels. Die Insel ist rund 19 km lang, lässt sich gut mit Roller oder Fahrrad erkunden, und ihre Leuchttürme **La Mola** und **Cap de Barbaria** runden einen perfekten Tag ab.'
+respuestaCorta: 'Für den Formentera-Ausflug nehmen Sie eine **Schnellfähre vom Hafen Eivissa nach La Savina** (rund 30 Minuten; 30-55 € hin und zurück) und mieten dort Roller oder Fahrrad. Planen Sie einen **ganzen Tag** ein: morgens Ses Illetes, Mittagessen in Es Pujols oder Migjorn und **Sonnenuntergang am Cap de Barbaria** vor der Rückfähre.'
 categoria: "ibiza"
 slug: "formentera-ab-ibiza"
 fecha: "2026-04-24"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 5
+tiempo_lectura: 4
 keywords:
   - "formentera ausflug"
   - "formentera ab ibiza"
@@ -30,81 +31,76 @@ actividades:
 imagen_portada: "/images/guias/formentera-desde-ibiza.jpg"
 imagen_alt: "Türkisfarbenes Wasser an einem Strand auf Formentera"
 reservasArriba: true
+faq:
+- pregunta: Was kostet die Fähre von Ibiza nach Formentera?
+  respuesta: Zwischen 30 und 55 € hin und zurück, je nach Reederei (Baleària, Trasmapi, Aquabus) und Geschwindigkeit. Schnellfähren brauchen rund 30 Minuten, langsame 1 Stunde und sind günstiger.
+- pregunta: Wann fährt die letzte Fähre von Formentera nach Ibiza?
+  respuesta: 'Es gibt keine feste Uhrzeit: Sie hängt von Datum und Reederei ab. Im Sommer fahren die Fähren sehr häufig, im Winter seltener und die letzte Rückfahrt ist früher. Prüfen Sie sie, bevor Sie etwas mieten.'
+- pregunta: Muss man für Ses Illetes Eintritt zahlen?
+  respuesta: 'Nur mit Auto oder Roller, von Mitte Mai bis 30. September: in den letzten Saisons ab 4 € pro Auto und 2 € pro Roller (6 € und 4 € von Mitte Juli bis August). Zu Fuß, mit dem Fahrrad oder im Elektrofahrzeug ist es kostenlos.'
+- pregunta: Wie bewegt man sich auf Formentera fort?
+  respuesta: 'Mit einem Mietfahrzeug aus La Savina: Fahrrad 10-15 € pro Tag, E-Bike 25-30 €, Roller 35-50 €, Auto 50-80 €. Der öffentliche Nahverkehr ist begrenzt, im Sommer sollte man vorab reservieren.'
+- pregunta: Lohnt sich ein halber Tag auf Formentera?
+  respuesta: 'Nein, vor allem nicht im August: Zwischen Fähre und Wegen bleibt zu wenig Zeit. Planen Sie den ganzen Tag ein, um Ses Illetes zu sehen, in Ruhe zu essen und den Sonnenuntergang am Cap de Barbaria zu erleben.'
 ---
 
-**Formentera ist der Ausflug ab Ibiza, den du nicht auslassen solltest.** Eine halbe Stunde mit der Fähre entfernt hat die Nachbarinsel einige der Strände mit dem klarsten Wasser im ganzen Mittelmeer – wirklich wie in der Karibik – und eine ruhige Atmosphäre ohne Clubs und große Hotels. Dieser Guide erklärt dir, wie du hinkommst, wie du dich fortbewegst und was du nicht verpassen solltest, damit sich der Tag lohnt.
+## Fähre Ibiza-Formentera: so kommen Sie hin
 
-## So kommst du nach Formentera
+Die Fähren starten im **Hafen von Eivissa** und kommen in **La Savina** an, dem Hafen von Formentera. In der Saison gibt es auch Abfahrten ab **Playa d'en Bossa**, praktisch, wenn Sie im Süden wohnen.
 
-| Aktivität | Bewertung | Ab |
-| --- | --- | --- |
-| [Fährticket hin und zurück nach Formentera](/en/cities/ibiza/activities/ibiza-formentera-return-ferry-ticket) | 4,7★ (322) | 55 € |
+- **Preis:** **30-55 € hin und zurück**, je nach Reederei (Baleària, Trasmapi, Aquabus) und Geschwindigkeit.
+- **Fahrzeit:** rund **30 Minuten** mit der Schnellfähre, 1 Stunde mit den langsamen, die günstiger sind.
+- **Häufigkeit:** Im Sommer fahren die Fähren sehr oft (allein Baleària bietet fast 30 Abfahrten täglich ab jedem Hafen); im Winter gibt es weniger Schiffe und die letzte Rückfahrt ist früher.
+- **Letzte Fähre:** Es gibt keine feste Uhrzeit; sie ändert sich je nach Datum und Reederei, also vor jeder Anmietung prüfen.
+- **Seegang:** Bei rauer See verspäten sich die Fähren oder fallen aus.
 
-Das Wichtigste: Plane einen **ganzen Tag** ein, keinen halben. Und buche die Fähre (und das Fahrzeug) im Sommer rechtzeitig: Sie sind schnell weg.
+Im Sommer Fähre (und Fahrzeug) im Voraus buchen, denn sie sind schnell ausgebucht und die Preise steigen. Ein Hin- und Rückfahrticket ab Eivissa ist die einfachste Lösung:
 
 [actividad: ferry-ida-vuelta-ibiza-formentera]
 
-## Anreise
-
-| Abfahrt | Dauer | Hinweise |
-| --- | --- | --- |
-| Ab dem Hafen von Eivissa | ca. 30 Min. (schnell) | Mehrere Reedereien und Abfahrten |
-| Ab Playa d'en Bossa | Saisonal | Praktisch, wenn du im Süden wohnst |
-
-Du kommst im Hafen von **La Savina** an. Prüfe immer den Seegang: Bei Wellengang haben die Fähren Verspätung oder fallen aus.
-
-## So bewegst du dich fort
-
-Formentera ist etwa 19 km lang, und der öffentliche Verkehr ist begrenzt. Am besten **mietest du Roller, Fahrrad oder Auto** in La Savina (im Sommer vorab reservieren). Der Roller ist am praktischsten und macht am meisten Spaß; das Fahrrad ist ideal für die flachen Wege in Hafennähe.
-
-## Die schönsten Strände
-
-- **Ses Illetes.** Das Juwel: weißer Sand und türkisfarbenes Wasser im Naturpark Ses Salines. Im Sommer zahlen Fahrzeuge eine Zufahrtsgebühr.
-- **Platja de Migjorn.** Lang und offen, mit legendären Strandbars zum Sonnenuntergang.
-- **Cala Saona.** Kleiner und geschützt, mit rötlichen Klippen.
-- **Llevant und Es Pujols.** Zum Baden und für den lebhaftesten Ort der Insel.
-
-## Mehr als Strand
-
-- **Far de la Mola.** Der Leuchtturm am Ostende, der Jules Verne inspirierte, mit spektakulären Klippen.
-- **Far de Cap de Barbaria.** Der Leuchtturm im Süden, am Ende einer einsamen Straße; einer der besten Sonnenuntergänge der Pityusen.
-- **Sant Francesc.** Der kleine Hauptort mit seiner Wehrkirche und Märkten.
-
-## Praktisches: Fähren, Fahrzeuge und Geld
-
-- **Fährpreise:** zwischen 30 und 55 € hin und zurück, je nach Reederei (Baleària, Trasmapi, Aquabus) und Geschwindigkeit; die Schnellfähren brauchen 30 Minuten, die langsamen 1 Stunde und kosten weniger. Im Sommer fahren sehr viele Boote (allein Baleària plant fast 30 Abfahrten pro Tag ab jedem Hafen); im Winter gibt es weniger Fähren, und die letzte Rückfahrt ist früher. Eine feste Uhrzeit für die letzte Fähre gibt es nicht: Sie hängt von Datum und Reederei ab, prüfe sie also, bevor du etwas mietest.
-- **Mieten in La Savina:** Fahrrad 10–15 € pro Tag, E-Bike 25–30 €, Roller 35–50 €, Auto 50–80 €. Im Juli und August begrenzt die Insel die Zahl der Fahrzeuge, die hineinfahren dürfen: Wenn du mit dem eigenen Auto von Ibiza kommst, brauchst du vorher eine Genehmigung.
-- **Ses Illetes in der Saison:** Von Mitte Mai bis zum 30. September zahlen Autos und Roller für die Zufahrt in den Naturpark (in den letzten Saisons ab 4 € pro Auto und 2 € pro Roller, von Mitte Juli bis August 6 € und 4 €), und der Parkplatz ist am Vormittag voll. Zu Fuß, mit dem Fahrrad oder mit einem Elektrofahrzeug ist es gratis; ab La Savina sind es 30–40 Minuten mit dem Fahrrad.
-- **Cap de Barbaria:** Von Mitte Mai bis Mitte Oktober sperrt eine Schranke das letzte Stück der Straße für Kraftfahrzeuge. Du parkst davor (etwa 60 Plätze) und gehst zu Fuß oder fährst mit dem Rad weiter, also plane für den Sonnenuntergang zusätzliche Zeit ein.
-- **Essen:** Die Strandbars an Ses Illetes und Migjorn (Juan y Andrea, Beso Beach, Es Molí de Sal) sind legendär und teuer: 60–100 € pro Person mit Wein. Für ein normales Menü geh nach Sant Francesc oder Es Pujols.
-- **Bargeld und Wasser:** Außerhalb von La Savina und Sant Francesc gibt es kaum Geldautomaten, und an den Stränden im Naturpark gibt es kein Trinkwasser. Nimm 2 Liter pro Person mit.
-- **Sonne und Wind:** Formentera ist flach und schattenlos. Bei Nordwind ist es in Migjorn ruhig, bei Südwind sind Illetes und Llevant besser.
-
-## Plan für einen Tag
+## Formentera-Tagesausflug: der Plan
 
 | Uhrzeit | Plan |
 | --- | --- |
-| 9:30 | Fähre ab Eivissa und Fahrzeug in La Savina mieten |
+| 9:30 | Fähre ab Eivissa und Mietfahrzeug in La Savina |
 | 10:30 | Ses Illetes: Baden und Schnorcheln |
 | 14:00 | Mittagessen in Es Pujols oder Migjorn |
 | 16:30 | Cala Saona oder Migjorn |
-| 19:00 | Sonnenuntergang am Cap de Barbaria (letztes Stück ab der Schranke zu Fuß) und Rückfähre |
+| 19:00 | Sonnenuntergang am Cap de Barbaria (letztes Stück zu Fuß ab der Schranke) und Rückfähre |
 
-## Was wir NICHT empfehlen
+Planen Sie einen **ganzen Tag** ein, keinen halben: Zwischen Fähre und Wegen reicht ein halber Tag nicht.
 
-1. **Im August nur einen halben Tag hinfahren.** Zwischen Fähre und Wegen reicht das nicht; plane den ganzen Tag ein.
-2. **Im Sommer weder Fähre noch Fahrzeug reservieren.** Sie sind schnell ausgebucht und werden sehr teuer.
-3. **Auf die Posidonia treten oder Müll liegen lassen.** Das kristallklare Wasser hängt von den geschützten Seegraswiesen ab.
-4. **Bargeld und Schatten vergessen.** An den Naturstränden gibt es nicht alles.
+## Was man auf Formentera sehen sollte: Ses Illetes, Strände und Leuchttürme
 
-## Typische Fehler
+- **Ses Illetes.** Das Juwel: weißer Sand und türkisfarbenes Wasser im Naturpark Ses Salines. Kommen Sie früh, der Parkplatz ist am späten Vormittag voll.
+- **Platja de Migjorn.** Lang und offen, mit legendären Strandbars für den Sonnenuntergang.
+- **Cala Saona.** Kleiner und geschützt, mit rötlichen Klippen.
+- **Llevant und Es Pujols.** Zum Baden und für den belebtesten Ort.
+- **Far de la Mola.** Der Leuchtturm an der Ostspitze, der Jules Verne inspirierte, über spektakulären Klippen.
+- **Far de Cap de Barbaria.** Der Leuchtturm im Süden, am Ende einer einsamen Straße; einer der schönsten Sonnenuntergänge der Pityusen.
+- **Sant Francesc.** Die kleine Hauptstadt mit ihrer Wehrkirche und ihren Märkten.
 
-> **⚠️ Hinweis:** die Fehler, die wir am häufigsten sehen.
+## Unterwegs auf der Insel
 
-1. **Den Seegang nicht prüfen.** Bei Wellengang hat die Fähre Verspätung.
-2. **Zu spät nach Ses Illetes kommen.** Der Strand füllt sich, und der Parkplatz ist begrenzt (im Sommer mit Gebühr).
-3. **Nur an den Stränden bleiben.** Auch die Leuchttürme und das Inselinnere lohnen sich.
+Formentera ist rund **19 km** lang und der öffentliche Nahverkehr ist begrenzt, daher am besten **in La Savina mieten** (im Sommer reservieren). Der Roller ist am praktischsten, das Fahrrad ideal für die flachen Wege nahe dem Hafen.
 
-## In einem Satz
+| Fahrzeug | Preis pro Tag |
+| --- | --- |
+| Fahrrad | 10-15 € |
+| E-Bike | 25-30 € |
+| Roller | 35-50 € |
+| Auto | 50-80 € |
 
-Formentera ab Ibiza heißt karibisches Wasser in Ses Illetes, Ruhe ohne Clubs und Sonnenuntergänge am Leuchtturm: der Ausflug, den du nicht verpassen solltest, am besten als ganzer Tag. Er ist ein wichtiger Teil von [Ibiza Sehenswürdigkeiten](/de/guides/ibiza/was-sehen-in-ibiza).
+- **Eigenes Auto:** Im Juli und August begrenzt die Insel die Zahl der Fahrzeuge; wer mit dem eigenen Auto aus Ibiza kommt, braucht eine vorherige Genehmigung.
+- **Ses Illetes in der Saison:** Von Mitte Mai bis 30. September zahlen Autos und Roller Eintritt in den Naturpark (in den letzten Saisons ab 4 € pro Auto und 2 € pro Roller, von Mitte Juli bis August 6 € und 4 €). Zu Fuß, mit dem Fahrrad oder im Elektrofahrzeug ist es kostenlos; ab La Savina sind es 30-40 Minuten mit dem Rad.
+- **Cap de Barbaria:** Von Mitte Mai bis Mitte Oktober sperrt eine Schranke das letzte Stück für Kraftfahrzeuge. Man parkt davor (rund 60 Plätze) und geht zu Fuß oder fährt Rad weiter: Planen Sie für den Sonnenuntergang zusätzliche Zeit ein.
+
+## Tipps und typische Fehler
+
+- **Essen:** Die Strandbars von Ses Illetes und Migjorn (Juan y Andrea, Beso Beach, Es Molí de Sal) sind legendär und teuer, 60-100 € pro Person mit Wein. Für ein normales Menü nach Sant Francesc oder Es Pujols.
+- **Bargeld und Wasser:** Außerhalb von La Savina und Sant Francesc gibt es kaum Geldautomaten, und an den Stränden des Naturparks kein Trinkwasser. Nehmen Sie 2 Liter pro Person mit.
+- **Sonne und Wind:** Die Insel ist flach und schattenlos. Bei Nordwind ist Migjorn ruhig, bei Südwind besser Illetes und Llevant.
+- **Posidonia:** Nicht betreten und keinen Müll hinterlassen; das klare Wasser hängt von diesen geschützten Seegraswiesen ab.
+- **Nicht nur an den Stränden bleiben:** Auch die Leuchttürme und das Inselinnere lohnen sich.
+
+Formentera gehört unbedingt zu [was man auf Ibiza sehen sollte](/de/guides/ibiza/was-sehen-in-ibiza).

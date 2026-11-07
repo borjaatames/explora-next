@@ -5,7 +5,7 @@ metaTitle: 'Billets Escurial : prix et gratuité'
 categoria: madrid
 slug: escurial-billets-epuises
 fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
@@ -28,20 +28,21 @@ slugs:
   it: escorial-biglietti-esauriti
   pt: escorial-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'L''entrée générale au monastère coûte **14 €** (plus 0,77 € de frais de gestion en ligne) sur `tickets.patrimonionacional.es`, et la **visite guidée officielle 22 €**. **Fermé le lundi.** Si votre créneau est complet, essayez une autre heure ou le **guichet**. Les citoyens de l''UE et d''Amérique latine entrent **gratuitement le mercredi et le dimanche après-midi**, uniquement au guichet. Et une **excursion depuis Madrid avec billet inclus** règle la question à partir de 62 €.'
+intro: 'Le **billet de l''Escurial** ouvre le monastère royal de San Lorenzo de El Escorial, bâti par Philippe II entre 1563 et 1584 au pied de la sierra de Guadarrama. Sous un même toit de granit : monastère, palais royal, basilique, le **Panthéon des Rois** (où reposent la plupart des monarques espagnols depuis Charles Quint) et une bibliothèque à la voûte peinte. À moins d''une heure de Madrid, la visite dure environ deux heures.'
+respuestaCorta: 'Le billet de l''Escurial coûte **14 €** (plus 0,77 € de frais) sur tickets.patrimonionacional.es, la **visite guidée officielle 22 €**. **Fermé le lundi.** Créneau complet ? Essayez une autre heure ou le **guichet**. Les citoyens de l''UE et d''Amérique latine entrent **gratuitement mercredi et dimanche après-midi**, au guichet. Une **excursion depuis Madrid avec entrée** coûte dès 62 €.'
 actividades:
   - escorial-valle-cuelgamuros-excursion-grupo
   - el-escorial-monasterio-entrada
   - tour-privado-escorial-monasterio-real
 faq:
-- pregunta: 'Combien coûte l''entrée à l''Escurial ?'
-  respuesta: 'Le plein tarif est de 14 € et le tarif réduit de 7 € (de 5 à 16 ans, plus de 65 ans et étudiants jusqu''à 25 ans). En ligne, il faut ajouter 0,77 € de frais de gestion par billet. La visite guidée officielle coûte 22 € (15 € en tarif réduit). Les moins de 5 ans entrent gratuitement.'
-- pregunta: 'Quand l''Escurial est-il gratuit ?'
-  respuesta: 'Pour les citoyens et résidents de l''UE et d''Amérique latine, le mercredi et le dimanche de 15 h à 18 h (d''octobre à mars) et de 15 h à 19 h (d''avril à septembre), sans guide, uniquement au guichet et sur justificatif. Le 18 mai et le 12 octobre, l''entrée est gratuite pour tous.'
-- pregunta: 'Quel jour l''Escurial est-il fermé ?'
-  respuesta: 'Tous les lundis. En 2026, il ferme aussi les 1er et 6 janvier, le 1er mai, le 13 septembre et les 24, 25 et 31 décembre, et il peut fermer pour des cérémonies officielles.'
-- pregunta: 'Peut-on entrer dans la basilique sans billet ?'
-  respuesta: 'Oui. La basilique ne demande pas de billet, mais elle ferme pendant les offices. Le reste du monastère (Panthéon, Bibliothèque, palais) nécessite un billet.'
+- pregunta: Combien coûte l'entrée de l'Escurial ?
+  respuesta: L'entrée générale coûte 14 € et le tarif réduit 7 € (de 5 à 16 ans, plus de 65 ans et étudiants jusqu'à 25 ans). En ligne, 0,77 € de frais s'ajoutent par billet. La visite guidée officielle coûte 22 € (15 € réduit). Gratuit pour les moins de 5 ans.
+- pregunta: Quand l'Escurial est-il gratuit ?
+  respuesta: Pour les citoyens et résidents de l'UE et d'Amérique latine, le mercredi et le dimanche de 15 h à 18 h (octobre à mars) et de 15 h à 19 h (avril à septembre), sans guide, uniquement au guichet et avec pièce d'identité. Le 18 mai et le 12 octobre, c'est gratuit pour tous.
+- pregunta: Quel jour l'Escurial est-il fermé ?
+  respuesta: Tous les lundis. En 2026, il ferme aussi les 1er et 6 janvier, le 1er mai, le 13 septembre et les 24, 25 et 31 décembre, et peut fermer pour des cérémonies officielles.
+- pregunta: Peut-on entrer dans la basilique sans billet ?
+  respuesta: Oui. La basilique ne nécessite pas de billet, mais elle ferme pendant les offices. Le reste du monastère (Panthéon, bibliothèque, palais) est payant.
 opciones:
   - ficha: escorial-valle-cuelgamuros-excursion-grupo
     etiqueta: 'La plus choisie'
@@ -51,58 +52,47 @@ opciones:
     etiqueta: 'Privée'
 ---
 
-Le monastère de l'Escurial (El Escorial) vend ses billets sur le site officiel de Patrimonio Nacional, qui conseille d'acheter à l'avance. Pendant les ponts et le week-end, certains créneaux se remplissent, mais il existe presque toujours un autre moyen d'entrer le jour même. Mieux vaut les essayer dans cet ordre.
+## Ce que vous verrez
 
-## Quel billet choisir ?
+- **La basilique**, couronnée d'une grande coupole, domine l'ensemble. Elle se visite sans billet, sauf pendant les offices.
+- **Le Panthéon des Rois**, sous le maître-autel, où reposent la plupart des rois d'Espagne depuis Charles Quint. C'est la salle la plus impressionnante.
+- **La Bibliothèque royale**, à la voûte peinte à fresque, avec des milliers de manuscrits et de livres anciens.
+- **Le palais**, d'où Philippe II gouverna une bonne partie de son règne et où il mourut en 1598.
 
-| Si vous cherchez… | Option | À partir de |
-| --- | --- | --- |
-| Partir de Madrid avec tout réglé | [L'Escurial et la vallée de Cuelgamuros avec guide](/en/cities/madrid/activities/el-escorial-valley-of-cuelgamuros-group-tour), 4,7★ (1 769) | 62 € |
-| Le billet seul, par vos propres moyens | [Billet pour le monastère royal](/fr/cities/madrid/activities/el-escorial-billet-monastere-royal), 4,5★ (312) | 18 € |
-| Rien que pour vous, avec prise en charge | [Visite privée avec guide officiel depuis Madrid](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) | 820 € par groupe |
+Avec la visite guidée officielle (environ 2 heures), vous voyez l'essentiel sans vous perdre ; seul, comptez au moins autant.
 
-## 1. Retournez sur le site officiel
+## Prix et horaires
 
-Le site officiel est `tickets.patrimonionacional.es`. Tarifs en vigueur depuis le 16 octobre 2025 :
+Les billets se vendent sur le site officiel de Patrimonio Nacional, tickets.patrimonionacional.es. Tarifs en vigueur depuis le 16 octobre 2025 :
 
-- **Plein tarif :** 14 € (plus 0,77 € de frais de gestion en ligne).
-- **Tarif réduit :** 7 €, de 5 à 16 ans, plus de 65 ans et étudiants jusqu'à 25 ans sur présentation de leur carte.
-- **Gratuit :** moins de 5 ans, familles nombreuses, personnes handicapées à partir de 33 % (et leur accompagnateur), demandeurs d'emploi, enseignants et guides officiels. Ces billets gratuits se retirent uniquement au guichet.
-- **Visite guidée officielle :** 22 € (15 € en tarif réduit), environ 2 heures. En espagnol, du mardi au dimanche à 10 h 30, 11 h, 11 h 30, 12 h, 12 h 30 et 13 h 30. En anglais, du mardi au dimanche à 10 h 45.
+- **Plein tarif :** 14 € (plus 0,77 € de frais en ligne).
+- **Réduit :** 7 €, de 5 à 16 ans, plus de 65 ans et étudiants jusqu'à 25 ans avec carte.
+- **Gratuit :** moins de 5 ans, familles nombreuses, personnes handicapées à partir de 33 % (et leur accompagnateur), demandeurs d'emploi, enseignants et guides officiels. Uniquement au guichet.
+- **Visite guidée officielle :** 22 € (15 € réduit). En espagnol, du mardi au dimanche à 10 h 30, 11 h, 11 h 30, 12 h, 12 h 30 et 13 h 30 ; en anglais, à 10 h 45.
 
-**Horaires :** du mardi au dimanche, de 10 h à 18 h d'octobre à mars et de 10 h à 19 h d'avril à septembre. **Fermé le lundi.** Le guichet et l'accès ferment 1 heure et 15 minutes avant (à 16 h 45 en hiver, à 17 h 45 en été).
+**Horaires :** du mardi au dimanche, de 10 h à 18 h d'octobre à mars et de 10 h à 19 h d'avril à septembre. **Fermé le lundi.** L'accès ferme 1 h 15 avant (16 h 45 en hiver, 17 h 45 en été).
 
-## 2. Le guichet et l'entrée gratuite
+## Entrée gratuite : mercredi et dimanche après-midi
 
-Le guichet se trouve au **Centre d'accueil des visiteurs** (Centro de Recepción de Visitantes), à côté du monastère, et vend des billets pour le jour même.
+Si vous êtes **citoyen ou résident de l'UE ou d'Amérique latine**, vous entrez gratuitement le mercredi et le dimanche de 15 h à 18 h (octobre à mars) et de 15 h à 19 h (avril à septembre). Sans guide, uniquement au guichet du **Centre d'accueil des visiteurs** et avec pièce d'identité. L'accès fermant plus tôt, en hiver vous avez jusqu'à 16 h 45 pour entrer.
 
-Si vous êtes **citoyen ou résident de l'UE ou d'Amérique latine**, l'entrée est **gratuite le mercredi et le dimanche après-midi** : de 15 h à 18 h d'octobre à mars et de 15 h à 19 h d'avril à septembre. Elle se fait sans guide, uniquement au guichet et sur justificatif. Comme l'accès ferme 1 h 15 avant, en hiver vous n'avez que jusqu'à 16 h 45 pour entrer.
+## Si votre créneau est complet
 
-## 3. Une excursion avec billet inclus
-
-Si vous ne voulez pas dépendre du guichet, une excursion depuis Madrid comprend le transport, le guide et le billet. La plus courante associe l'Escurial et la vallée de Cuelgamuros en une demi-journée. Vérifiez que la fiche indique **« entrée au monastère incluse »**.
+1. **Essayez une autre heure ou un autre jour** sur le site officiel : lors des ponts et des week-ends, certains créneaux se remplissent, pas la journée entière.
+2. **Allez au guichet**, qui vend pour le jour même.
+3. **Réservez une excursion avec entrée incluse** si vous ne voulez pas dépendre du guichet. La plus courante combine l'Escurial et la Vallée de Cuelgamuros en une demi-journée ; vérifiez la mention « entrée au monastère incluse ».
 
 [actividad: escorial-valle-cuelgamuros-excursion-grupo]
 
-## 4. Y aller par vos propres moyens depuis Madrid
+## Venir depuis Madrid
 
-- **Cercanías C-8** (train de banlieue) depuis Chamartín (environ 50 minutes) ou Atocha (un peu plus d'une heure). Depuis la gare, comptez environ 15 minutes à pied, en montée. Attention : en 2026, il y a eu des interruptions le week-end pour travaux.
-- **Autocar 661 ou 664** d'Autocares Herranz depuis la gare routière de Moncloa : entre 35 et 55 minutes, et il vous dépose près du monastère.
+- **Bus 661 ou 664** d'Autocares Herranz depuis la gare routière de Moncloa : 35 à 55 minutes, arrêt près du monastère. L'option la plus pratique.
+- **Cercanías C-8** depuis Chamartín (environ 50 minutes) ou Atocha (un peu plus d'une heure). De la gare, comptez 15 minutes à pied, en montée. En 2026, il y a eu des coupures le week-end pour travaux.
 
-## 5. Ce que vous voyez sans billet
+## Conseils
 
-- La **basilique** ne demande pas de billet (elle ferme pendant les offices).
-- La **façade et le parvis** (la lonja) du monastère, avec la sierra en arrière-plan.
-- Les **jardins du Real Sitio**, ouverts tous les jours.
-- Le **village de San Lorenzo**, avec ses rues en pente et ses terrasses.
-
-## Erreurs à éviter
-
-1. **Y aller un lundi.** Le monastère ferme tous les lundis de l'année.
-2. **Se fier à d'anciens tarifs.** Certains sites indiquent encore 12 € ; depuis octobre 2025, c'est 14 €.
-3. **Acheter sur des sites qui ne sont pas le site officiel.** Les entrées gratuites ne sont jamais vendues en ligne : si un site vous « vend » un billet gratuit, ce n'est pas le site officiel.
-4. **Arriver pour l'entrée gratuite à la dernière minute.** L'accès ferme 1 h 15 avant la fermeture.
-
-## En une phrase
-
-Si votre créneau est complet, essayez une autre heure ou le guichet, n'oubliez pas que le monastère ferme le lundi, et si vous ne voulez pas prendre de risque, réservez une excursion avec billet inclus ; nous expliquons comment l'intégrer à votre voyage dans [Excursion privée ou en groupe depuis Madrid ?](/fr/guides/madrid/excursion-privee-ou-en-groupe-depuis-madrid).
+- **N'y allez pas un lundi :** fermé tous les lundis de l'année.
+- **Méfiez-vous des anciens prix :** certains sites indiquent encore 12 € ; depuis octobre 2025, c'est 14 €.
+- **N'achetez que sur le site officiel :** les entrées gratuites ne sont jamais vendues en ligne.
+- **Gardez du temps pour la ville :** l'esplanade avec la sierra en toile de fond, les jardins du Real Sitio (ouverts tous les jours) et les rues pentues de San Lorenzo, avec leurs terrasses.
+- Si vous hésitez entre y aller seul ou avec un guide, nous comparons les deux dans [Excursion privée ou en groupe depuis Madrid ?](/fr/guides/madrid/excursion-privee-ou-en-groupe-depuis-madrid).

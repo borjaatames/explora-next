@@ -5,7 +5,7 @@ metaTitle: 'Entradas Alhambra 2026: precio y cómo comprar'
 categoria: granada
 slug: alhambra-como-visitar
 fecha: '2026-05-02'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -28,7 +28,8 @@ slugs:
   it: alhambra-come-visitarla
   pt: alhambra-como-visitar
 reservasArriba: true
-respuestaCorta: 'Las entradas oficiales (22,27 €) salen **hasta tres meses antes** y las mañanas se agotan con semanas de antelación. **Si ya no quedan**, una visita guiada que incluya la entrada te asegura los Palacios Nazaríes con hora reservada. Cuenta con unas 4 horas y llega con tiempo: a los Nazaríes solo hay 30 minutos de margen.'
+intro: 'Las **entradas de la Alhambra** dan acceso al monumento más visitado de España: la ciudad palatina de los sultanes nazaríes sobre Granada. Con la entrada general ves los **Palacios Nazaríes**, con el Patio de los Leones, la **Alcazaba** y sus vistas a Sierra Nevada, los jardines del **Generalife** y el Palacio de Carlos V. Se sube desde el centro en microbús o andando y la visita completa lleva unas cuatro horas.'
+respuestaCorta: 'Las entradas de la Alhambra cuestan **22,27 €** (general, con los Palacios Nazaríes) y solo se compran oficialmente en tickets.alhambra-patronato.es, **hasta tres meses antes**. Las mañanas se agotan con semanas de antelación. Si no quedan, una **visita guiada con entrada incluida** te asegura los Nazaríes. Cuenta con unas 4 horas: a los Nazaríes solo hay **30 minutos de margen**.'
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
@@ -39,6 +40,8 @@ actividades:
   - alhambra-tour-privado
   - entrada-jardines-alhambra-generalife
 faq:
+- pregunta: ¿Cuánto cuesta la entrada a la Alhambra?
+  respuesta: La entrada Alhambra General cuesta 22,27 € con la comisión web incluida e incluye Palacios Nazaríes, Alcazaba, Generalife y Palacio de Carlos V. Jardines y Generalife cuesta 12,73 €, la nocturna de los Nazaríes 12,73 € y la Dobla de Oro 30,48 €. Los menores de 12 años entran gratis con ticket nominativo.
 - pregunta: ¿Qué pasa si llego tarde a los Palacios Nazaríes?
   respuesta: Hay 30 minutos de margen desde la hora marcada. Pasado ese tiempo no se puede entrar y no se devuelve el dinero. Desde la entrada del recinto hasta los palacios se tardan entre 30 y 45 minutos andando.
 - pregunta: ¿Qué hago si las entradas de la Alhambra están agotadas?
@@ -56,32 +59,9 @@ opciones:
     etiqueta: Grupo reducido
 ---
 
-La Alhambra es el monumento más visitado de España, y sus entradas se agotan con semanas de antelación. La forma más segura de entrar es una visita que ya incluya la entrada. Así no dependes de que queden plazas, y alguien te explica lo que estás viendo.
+## Precio de la entrada a la Alhambra y tipos de entrada
 
-## ¿Qué entrada elegir?
-
-| Si buscas… | Te recomendamos | Desde |
-| --- | --- | --- |
-| La más elegida | [Visita guiada a la Alhambra y los Palacios Nazaríes](/ciudades/granada/actividades/visita-guiada-alhambra-generalife), 4,7★ (21.100 opiniones) | 49 € |
-| La más económica con guía | [Entrada y tour guiado con Palacios Nazaríes](/ciudades/granada/actividades/entrada-y-tour-guiado-alhambra), 4,7★ (3.516) | 50 € |
-| Grupo pequeño y sin colas | [Alhambra y Nazaríes sin colas en grupo reducido](/ciudades/granada/actividades/alhambra-palacios-nazaries-sin-colas), 4,7★ (8.443) | 53 € |
-| La mejor valorada | [Tour guiado con entradas](/ciudades/granada/actividades/alhambra-tour-guiado-con-entradas), 4,9★ (1.018) | 99 € |
-| Algo distinto | [Visita nocturna a los Palacios Nazaríes](/ciudades/granada/actividades/alhambra-visita-nocturna), 4,9★ (288) | 54 € |
-| Ir solo vosotros | [Tour privado](/ciudades/granada/actividades/alhambra-tour-privado), 4,9★ (242) | 280 € |
-| Poco tiempo o presupuesto | [Jardines y Generalife (sin Nazaríes)](/ciudades/granada/actividades/entrada-jardines-alhambra-generalife), 4,5★ (2.256) | 17,5 € |
-
-## Por qué ir con guía
-
-- **La entrada está asegurada**, aunque en la web oficial salga «agotado».
-- **El guía se encarga de la hora de los Nazaríes**, que es lo que más falla a quien va por libre.
-- **Entiendes lo que ves.** Los poemas grabados en las paredes, la geometría de los azulejos y la historia de cada sala se pierden sin explicación.
-- **No te la juegas con falsos guías.** En Plaza Nueva ofrecen «tour Alhambra» sin acreditación.
-
-[actividad: visita-guiada-alhambra-generalife]
-
-## Precios oficiales y cuándo reservar
-
-Los precios del Patronato (vigentes en 2026, con la comisión web incluida):
+Precios del Patronato vigentes en 2026, con la comisión web incluida:
 
 | Entrada | Precio | Qué incluye |
 | --- | --- | --- |
@@ -90,44 +70,60 @@ Los precios del Patronato (vigentes en 2026, con la comisión web incluida):
 | Nocturna Palacios Nazaríes | 12,73 € | Solo los Nazaríes iluminados, de noche |
 | Dobla de Oro | 30,48 € | Alhambra completa más los monumentos andalusíes del Albaicín |
 
-La inmensa mayoría necesita la **Alhambra General**. Los menores de 12 años entran gratis pero **con ticket nominativo**, que se saca en la misma compra; sin él no entran. Hay descuento para mayores de 65 de la UE, Carnet Joven y discapacidad. **No existe un día gratuito recurrente**: lo de «los miércoles gratis» que circula por internet es falso.
+- La inmensa mayoría necesita la **Alhambra General**.
+- **Menores de 12 años:** gratis, pero **con ticket nominativo**, que se saca en la misma compra. Sin él no entran.
+- **Descuentos:** mayores de 65 de la UE, Carnet Joven y discapacidad.
+- **No existe un día gratuito recurrente:** lo de «los miércoles gratis» que circula por internet es falso.
 
-Las entradas se pueden comprar **con hasta tres meses de antelación** y hay unas 8.000 al día; las franjas de mañana se agotan con semanas de antelación y, en Semana Santa, puentes, julio-agosto y Navidad, en minutos. La única web oficial es `tickets.alhambra-patronato.es`; es lenta y a veces falla el pago, pero cualquier otra web cobra comisión o revende. Si está todo agotado, las alternativas reales son una visita guiada con cupo propio (las de la tabla de arriba), la nocturna de los Nazaríes, o hacer cola en taquilla antes de las 8:00 por el cupo del día, que en temporada alta casi nunca alcanza.
+## Cómo comprar entradas para la Alhambra (y si están agotadas)
 
-[actividad: alhambra-entrada-general]
+- **Dónde:** la única web oficial es tickets.alhambra-patronato.es. Es lenta y a veces falla el pago, pero cualquier otra web cobra comisión o revende.
+- **Cuándo:** se pueden comprar **con hasta tres meses de antelación** y hay unas 8.000 al día. Las franjas de mañana se agotan con semanas de antelación; en Semana Santa, puentes, julio-agosto y Navidad, en minutos.
+- **Lleva el DNI o el pasaporte:** las entradas son nominativas.
 
-Si la web oficial ya sale agotada, en [qué hacer si las entradas de la Alhambra están agotadas](/guias/granada/alhambra-entradas-agotadas) repasamos todas las opciones que quedan. Y si dudas entre este monumento y el de Sevilla, en [¿Alhambra o Alcázar de Sevilla?](/guias/granada/alhambra-o-alcazar-de-sevilla) te ayudamos a elegir.
+**Si está todo agotado**, las alternativas reales son:
 
-## La regla de oro: la hora de los Nazaríes
+1. **Una visita guiada con la entrada incluida:** los operadores tienen cupo propio aunque la web oficial salga agotada, y el guía organiza la hora de los Nazaríes.
+2. **La nocturna de los Palacios Nazaríes**, que suele tener más disponibilidad.
+3. **La cola en taquilla antes de las 8:00** por el cupo del día, que en temporada alta casi nunca alcanza.
 
-Los Palacios Nazaríes tienen una hora de entrada fija y solo hay **30 minutos de margen**. Pasado ese tiempo, no entras. Desde la entrada del recinto hasta los palacios se tardan **entre 30 y 45 minutos** andando, así que hay que llegar con tiempo. Si vas con una visita guiada, el guía organiza el recorrido para no perder la hora.
+[actividad: visita-guiada-alhambra-generalife]
+
+Todas las opciones, en detalle, en [qué hacer si las entradas de la Alhambra están agotadas](/guias/granada/alhambra-entradas-agotadas).
+
+## Palacios Nazaríes: la hora de tu entrada
+
+Los Palacios Nazaríes tienen una **hora de entrada fija**, impresa en la entrada, y solo hay **30 minutos de margen**. Pasado ese tiempo no entras y no se devuelve el dinero.
+
+Desde la entrada del recinto hasta los palacios se tardan **entre 30 y 45 minutos** andando, así que llega con tiempo. Con visita guiada, el guía organiza el recorrido para no perder la hora.
 
 ## Qué ver dentro
 
-- **Palacios Nazaríes:** el Patio de los Arrayanes, el Salón de Embajadores, el Patio de los Leones y la Sala de Dos Hermanas. Mira hacia arriba, porque las cúpulas son lo mejor.
+- **Palacios Nazaríes:** el Patio de los Arrayanes, el Salón de Embajadores, el Patio de los Leones y la Sala de Dos Hermanas. Mira hacia arriba: las cúpulas son lo mejor.
 - **Alcazaba:** la parte más antigua. Desde la Torre de la Vela están las mejores vistas de Granada y Sierra Nevada.
 - **Generalife:** la residencia de verano de los sultanes, con el Patio de la Acequia.
 - **Palacio de Carlos V:** el palacio renacentista en mitad del conjunto.
 
-La visita completa lleva **unas 4 horas**.
+La visita completa lleva **unas 4 horas**. Con 2 horas te quedas a medias.
 
-## Cómo llegar y horarios
+## Horarios y cómo llegar
+
+- **Verano** (1 de abril a 14 de octubre): de 8:30 a 20:00, última entrada a los Nazaríes a las 19:00.
+- **Invierno:** de 8:30 a 18:00, última entrada a los Nazaríes a las 17:00.
+- **Cierra** el 25 de diciembre y el 1 de enero.
+- **Visita nocturna:** de martes a sábado en verano (22:00-23:30) y viernes y sábado el resto del año (20:00-21:30).
+
+**Cómo subir:**
 
 - **Microbús C30 o C32** desde Plaza Isabel la Católica: 1,60 €, cada 8 minutos.
 - **Andando** desde Plaza Nueva por la Cuesta de Gomérez: 25-30 minutos de subida.
 - **Taxi** desde el centro: 8-10 €.
-- **Horario de verano** (1 de abril a 14 de octubre): de 8:30 a 20:00, última entrada a los Nazaríes a las 19:00. **Invierno**: de 8:30 a 18:00, última entrada a las 17:00. Cierra el 25 de diciembre y el 1 de enero.
-- **Visita nocturna:** de martes a sábado en verano (22:00-23:30) y viernes y sábado el resto del año (20:00-21:30).
+
+## Consejos para visitar la Alhambra
+
 - **Mejor hora:** la primera franja de la mañana, con luz lateral en los patios y menos gente; o la última de la tarde en verano, cuando baja el calor.
-
-## Errores que hay que evitar
-
-1. **Ir sin entrada pensando que la comprarás allí.** En temporada alta no quedan.
-2. **Comprar en webs de reventa.** Cobran comisiones altas y algunas entradas no son válidas.
-3. **Olvidar el DNI o el pasaporte.** Las entradas son nominativas.
-4. **Llevar mochila grande o carrito.** Hay que dejarlos en la consigna.
-5. **Ir con prisa.** Con 2 horas te quedas a medias.
-
-## En una frase
-
-La Alhambra se disfruta cuando llegas con la entrada asegurada y alguien que te la explique. Si vas a pasar más días en Granada, mira nuestra guía de [Granada en 2 días](/guias/granada/granada-en-2-dias).
+- **¿Con guía o por libre?** Si es tu primera vez, con guía: entiendes los poemas grabados en las paredes, la geometría de los azulejos y la historia de cada sala, que sin explicación se pierden.
+- **Cuidado con los falsos guías:** en Plaza Nueva ofrecen «tour Alhambra» sin acreditación.
+- **No vayas sin entrada** pensando que la comprarás allí: en temporada alta no quedan.
+- **Mochila grande o carrito:** hay que dejarlos en la consigna.
+- Si dudas entre este monumento y el de Sevilla, mira [¿Alhambra o Alcázar de Sevilla?](/guias/granada/alhambra-o-alcazar-de-sevilla). Y para el resto de la ciudad, [Granada en 2 días](/guias/granada/granada-en-2-dias).

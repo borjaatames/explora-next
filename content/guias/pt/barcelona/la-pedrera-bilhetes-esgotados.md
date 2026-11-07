@@ -4,7 +4,7 @@ descripcion: 'Se o site oficial de La Pedrera (Casa Milà) não tem vagas: outro
 categoria: barcelona
 slug: la-pedrera-bilhetes-esgotados
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -26,7 +26,8 @@ slugs:
   it: la-pedrera-biglietti-esauriti
   pt: la-pedrera-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Se o seu horário aparece esgotado em **lapedrera.com**, veja os outros horários do dia, o bilhete **Open Date** (45 €, sem data nem hora e válido 6 meses), a visita **Sunrise** das 8h00 e a **Night Experience** à noite. A bilheteira existe, mas algumas tarifas são **mais caras do que online**, por isso o mais seguro é um **bilhete de revenda com hora marcada** (desde 29 €) ou um tour que inclua a entrada.'
+intro: 'Encontrar os **bilhetes de La Pedrera esgotados** não o impede de ver a **Casa Milà**, a casa de Gaudí de fachada de pedra ondulada e varandas de ferro forjado no Passeig de Gràcia, 92. Lá dentro percorrem-se **os pátios, um andar, o sótão e o terraço**, com videoguia em 11 línguas. A visita dura cerca de **uma hora e meia**, e há também visitas ao amanhecer e à noite com horário próprio.'
+respuestaCorta: 'Bilhetes de La Pedrera esgotados em **lapedrera.com**? Veja outros horários, o **Open Date** (45 €, sem data nem hora, válido 6 meses), a visita **Sunrise** das 8h00 e a **Night Experience**. Na bilheteira algumas tarifas são **mais caras**; o mais seguro é um **bilhete de revenda com hora** (desde 29 €) ou um tour com entrada.'
 actividades:
   - casa-mila-la-pedrera-entrada-audioguia
   - casa-mila-experiencia-nocturna-con-cava
@@ -34,14 +35,16 @@ actividades:
   - casas-gaudi-pedrera-casa-vicens-tour-privado
   - casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi
 faq:
-- pregunta: É possível comprar bilhetes de La Pedrera na bilheteira?
-  respuesta: 'Sim, mas a própria Pedrera avisa que algumas tarifas online têm um acréscimo na bilheteira e que, comprando online, paga menos e evita a fila. Já os cupões e cartões de desconto só se aplicam na bilheteira.'
-- pregunta: Posso mudar a data ou cancelar o meu bilhete?
-  respuesta: 'Só se juntar o seguro de flexibilidade (mais 1,90 €) na compra: permite uma única alteração de data ou hora, pedida antes da visita e por e-mail para info@lapedrera.com. Sem o seguro, os bilhetes não admitem alterações nem reembolsos.'
-- pregunta: O que acontece se chover no dia da minha visita?
-  respuesta: 'Com chuva, o terraço fecha por segurança. Segundo La Pedrera, nesse caso pode mudar a visita para outra data disponível, desde que o bilhete ainda não tenha sido validado.'
-- pregunta: O que se pode ver de La Pedrera sem bilhete?
-  respuesta: 'A fachada de pedra ondulada e as varandas de ferro, a partir do Passeig de Gràcia, 92, na esquina com a rua Provença. Descendo pelo mesmo passeio, a cerca de 10 minutos a pé, fica a Casa Batlló, no número 43.'
+- pregunta: É possível comprar bilhetes para La Pedrera na bilheteira?
+  respuesta: Sim, mas a própria La Pedrera avisa que algumas tarifas online são mais caras na bilheteira e que, comprando online, paga menos e evita a fila. Os cupões e cartões de desconto, pelo contrário, só se aplicam na bilheteira.
+- pregunta: Posso mudar a data ou cancelar o bilhete?
+  respuesta: 'Só se acrescentar o seguro de flexibilidade (mais 1,90 €) na compra: permite uma única mudança de data ou hora, pedida antes da visita por e-mail para info@lapedrera.com. Sem o seguro, os bilhetes não admitem alterações nem reembolsos.'
+- pregunta: O que acontece se chover no dia da visita?
+  respuesta: Com chuva, o terraço fecha por segurança. Segundo La Pedrera, nesse caso pode passar a visita para outra data disponível, desde que o bilhete ainda não tenha sido validado.
+- pregunta: O que se vê de La Pedrera sem bilhete?
+  respuesta: A fachada de pedra ondulada e as varandas de ferro, a partir do Passeig de Gràcia, 92, na esquina com a rua Provença. Descendo o mesmo passeio, a cerca de 10 minutos a pé, fica a Casa Batlló, no número 43.
+- pregunta: Quanto custa a entrada em La Pedrera?
+  respuesta: O bilhete geral (La Pedrera Esencial) custa 29 € no site oficial, com pátios, andar, sótão, terraço e videoguia. Crianças dos 0 aos 11 anos entram grátis e dos 12 aos 17 pagam 14,50 €. O Open Date, sem data nem hora, custa 45 €, e a Sunrise e a Night Experience, 39,50 €.
 opciones:
   - ficha: casa-mila-la-pedrera-entrada-audioguia
     etiqueta: A mais barata
@@ -51,75 +54,59 @@ opciones:
     etiqueta: Com guia
 ---
 
-La Pedrera vende os bilhetes **online por dia e hora**, e o site oficial anuncia **até 25 % de poupança** se comprar com antecedência. Em fins de semana prolongados, na Semana Santa e no verão, as horas centrais enchem depressa. Ter o seu horário esgotado não o deixa sem Casa Milà: há várias modalidades com horário próprio, um bilhete sem data e visitas logo de manhã e à noite. Estas são as vias que restam, pela ordem em que convém experimentá-las.
+## O que vai ver em La Pedrera
 
-## Que bilhete escolher?
+A visita geral percorre:
 
-| Se procura… | Opção | Desde |
-| --- | --- | --- |
-| Bilhete com hora, sem guia | [Casa Milà (La Pedrera): bilhete com audioguia sem filas](/en/cities/barcelona/activities/casa-mila-la-pedrera-audio-ticket), 4,7★ (18.195) | 29 € |
-| Ir à noite, com espetáculo e cava | [Casa Milà: experiência noturna com espetáculo e cava](/en/cities/barcelona/activities/casa-mila-night-experience-cava), 4,4★ (4.913) | 39,50 € |
-| Entrar antes de todos, com guia | [Casa Milà: tour guiado com acesso antecipado](/en/cities/barcelona/activities/casa-mila-early-morning-access-guided-tour), 4,8★ (220) | 39,50 € |
-| Três casas de Gaudí com guia | [Casa Vicens, Casa Milà e Casa Batlló: tour guiado](/en/cities/barcelona/activities/casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour), 4,6★ (331) | 119 € |
-| Um guia só para vocês | [La Pedrera e Casa Vicens: tour privado](/en/cities/barcelona/activities/gaudi-houses-pedrera-casa-vicens-private-tour) | 156 € |
+- **Os pátios** interiores.
+- **O andar**, uma das habitações do edifício.
+- **O sótão.**
+- **O terraço**, que fecha por segurança quando chove.
 
-## 1. O site oficial: outras horas e outras modalidades
+Inclui **videoguia em 11 línguas** e dura cerca de **uma hora e meia**.
 
-A venda oficial está em `lapedrera.com`, que o leva a `tickets.lapedrera.com`. O bilhete geral (**La Pedrera Esencial**) custa **29 €**, inclui os pátios, o andar, o sótão e o terraço com videoguia em 11 línguas, e a visita dura cerca de **1 hora e meia**. As crianças dos 0 aos 11 anos entram grátis e as dos 12 aos 17 pagam 14,50 €. Se o seu horário aparecer esgotado:
+## Preços e horários
 
-- **Percorra todos os horários do dia:** até 1 de novembro, La Pedrera abre das **9h00 às 20h30**; a partir de 2 de novembro, das **9h00 às 18h30**. À tarde costuma haver mais lugares do que a meio da manhã.
-- **Veja a La Pedrera Sunset:** a mesma visita ao entardecer, das 17h30 às 20h30, desde **25 €**. O site oficial oferece-a até **1 de novembro**.
-- **Experimente o bilhete Open Date:** custa **45 €**, não o obriga a escolher dia nem hora e tem **6 meses** para o usar, sempre dentro do horário diurno. É o mais caro, mas não depende de um horário concreto.
-- **Mude de dia se puder:** com o desconto por antecedência, procurar outra data também pode sair mais barato.
+A venda oficial é em lapedrera.com, que o leva a tickets.lapedrera.com, com **até 25 % de poupança** se comprar com antecedência.
 
-Antes de pagar, pondere o **seguro de flexibilidade** (1,90 €): sem ele, os bilhetes não admitem alterações nem reembolsos. E tenha em conta os encerramentos: La Pedrera fecha a **25 de dezembro** e de **11 a 17 de janeiro de 2027**.
+- **La Pedrera Esencial (geral):** **29 €**. Crianças dos 0 aos 11 anos, grátis; dos 12 aos 17, 14,50 €.
+- **Open Date:** **45 €**, sem dia nem hora e válido **6 meses**, sempre dentro do horário diurno.
+- **Sunrise** (visita guiada logo de manhã) e **Night Experience** (à noite): **39,50 €** cada.
+- **Seguro de flexibilidade:** 1,90 €. Sem ele, os bilhetes não admitem alterações nem reembolsos.
 
-## 2. Logo de manhã ou à noite
+**Horário:** até 1 de novembro, das **9h00 às 20h30**; a partir de 2 de novembro, das **9h00 às 18h30**. Fecha a **25 de dezembro** e de **11 a 17 de janeiro de 2027**.
 
-Se o dia estiver cheio, experimente os extremos:
+## La Pedrera esgotada: o que fazer
 
-- **La Pedrera Sunrise:** visita guiada em grupo das **8h00 às 9h00**, antes da entrada do público geral, com pátios, andar, sótão e terraço. Custa **39,50 €** e o guia fala inglês ou chinês.
-- **La Pedrera Night Experience:** visita guiada noturna de **1 hora e 20 minutos** com espetáculo de videomapping no terraço e uma taça de cava, por **39,50 €**. As sessões vão das **20h40 às 22h20** até 1 de novembro e das **19h00 às 23h00** a partir de 2 de novembro. Há guia em catalão, espanhol, inglês e chinês.
+Em pontes, na Páscoa e no verão, as horas centrais enchem depressa. Se o seu horário estiver esgotado, tente por esta ordem:
 
-[actividad: casa-mila-experiencia-nocturna-con-cava]
+1. **Percorra todos os horários do dia.** À tarde costuma haver mais lugar do que a meio da manhã.
+2. **Veja La Pedrera Sunset:** a mesma visita ao pôr do sol, das 17h30 às 20h30, desde **25 €**. O site oficial oferece-a até 1 de novembro.
+3. **Compre o Open Date:** é o mais caro, mas não depende de um horário concreto.
+4. **Mude de dia, se puder:** com o desconto por antecedência, outra data também pode sair mais barata.
+5. **Recorra a um bilhete de revenda ou a um tour com entrada incluída.** Os revendedores autorizados costumam ter lugares porque compram quotas com antecedência; normalmente paga um pouco mais. Há bilhete com hora e audioguia desde 29 €, tour guiado com acesso antecipado desde 39,50 €, o tour das três casas de Gaudí (Casa Vicens, Casa Milà e Casa Batlló) desde 119 € e um tour privado por La Pedrera e pela Casa Vicens desde 156 €.
 
-## 3. A bilheteira
-
-La Pedrera tem bilheteira no edifício, mas o site oficial avisa que **algumas tarifas custam mais lá** do que online e que comprar no site evita a fila. Serve se ainda houver lugares nalgum horário do dia, não como plano para um dia esgotado. A única vantagem da bilheteira: os **cupões e cartões de desconto** só se aplicam lá.
-
-## 4. Um bilhete de revenda ou um tour com entrada incluída
-
-Quando o site oficial não tem nada, os revendedores autorizados costumam ter lugares porque compram quotas com antecedência. Normalmente paga um pouco mais do que no site oficial:
-
-- **Bilhete com hora e audioguia (desde 29 €):** a forma mais simples de entrar se só quer ver a casa.
-- **Tour guiado com acesso antecipado (desde 39,50 €):** entra antes da abertura geral, com menos gente no terraço.
-- **Tour das três casas de Gaudí (desde 119 €):** Casa Vicens, Casa Milà e Casa Batlló com guia; útil se também não tem a Batlló.
-- **Tour privado por La Pedrera e pela Casa Vicens (desde 156 €):** a opção se forem em grupo ou quiserem um guia só para vocês.
-
-Antes de pagar, confirme na ficha que diz **«entrada em La Pedrera incluída»** e a hora de acesso. Há passeios pelo modernismo que só veem as fachadas.
+Antes de pagar, confirme que diz **«entrada em La Pedrera incluída»** e a hora de acesso: há passeios pelo modernismo que só veem as fachadas.
 
 [actividad: casa-mila-la-pedrera-entrada-audioguia]
 
-[actividad: casa-mila-tour-guiado-acceso-temprano]
+## Bilhetes de La Pedrera à última hora: ao amanhecer ou à noite
 
-[actividad: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi]
+Se o dia estiver cheio, tente os extremos:
 
-## 5. O que vê sem bilhete
+- **La Pedrera Sunrise:** visita guiada em grupo das **8h00 às 9h00**, antes da entrada do público geral, com pátios, andar, sótão e terraço. **39,50 €**; o guia fala inglês ou chinês.
+- **La Pedrera Night Experience:** visita guiada noturna de **1 hora e 20 minutos** com videomapping no terraço e uma taça de cava, por **39,50 €**. As sessões vão das **20h40 às 22h20** até 1 de novembro e das **19h00 às 23h00** a partir de 2 de novembro. Guia em catalão, espanhol, inglês e chinês.
 
-Se não conseguir nada, o Passeig de Gràcia dá para muito:
+## La Pedrera na bilheteira no próprio dia
 
-- A **fachada de La Pedrera**, no número 92, na esquina com a rua Provença: a pedra ondulada e as varandas de ferro forjado veem-se bem do passeio em frente.
-- A **Casa Batlló** e o resto da **Manzana de la Discordia** (Casa Amatller e Casa Lleó Morera), descendo pelo mesmo passeio, a cerca de 10 minutos a pé.
+La Pedrera tem bilheteira no edifício, mas o site oficial avisa que **algumas tarifas custam mais lá** do que online e que comprar no site evita a fila. Serve se ainda houver lugar nalgum horário do dia, não como plano para um dia esgotado. A única vantagem: os **cupões e cartões de desconto** só se aplicam na bilheteira.
 
-[actividad: casas-gaudi-pedrera-casa-vicens-tour-privado]
+## Conselhos e o que ver sem bilhete
 
-## Erros a evitar
+- **Compre só no site oficial** (lapedrera.com, com venda em tickets.lapedrera.com): os sites que o imitam cobram mais e nem sempre dão um bilhete válido.
+- **Junte o seguro de flexibilidade** se os seus planos puderem mudar.
+- **Se chover**, o terraço fecha; se ainda não validou o bilhete, pode passar a visita para outra data.
+- **Não confunda as modalidades:** a Sunrise e a Night Experience são visitas guiadas com horário fixo; o Open Date não tem hora, mas custa mais 16 € do que o geral.
+- **Casa Milà sem bilhetes:** a fachada de pedra ondulada e as varandas de ferro forjado veem-se bem do passeio em frente, na esquina com a rua Provença. Descendo o Passeig de Gràcia, a cerca de 10 minutos a pé, ficam a **Casa Batlló** e o resto da **Manzana de la Discordia** (Casa Amatller e Casa Lleó Morera).
 
-1. **Comprar em sites que imitam o oficial.** Cobram a mais e nem sempre dão um bilhete válido. O oficial é `lapedrera.com`, com venda em `tickets.lapedrera.com`.
-2. **Não juntar o seguro de flexibilidade se os seus planos puderem mudar.** Sem ele não há alterações nem reembolsos.
-3. **Contar com o terraço se chover.** Fecha por segurança; se ainda não validou o bilhete, pode passar a visita para outra data.
-4. **Confundir as modalidades.** A Sunrise e a Night Experience são visitas guiadas com horário fixo; a Open Date não tem hora, mas custa mais 16 € do que a geral.
-
-## Numa frase
-
-Se o seu horário aparecer esgotado no site oficial, experimente outro horário, a Open Date, a Sunrise ou a Night Experience; se não restar nada, reserve um bilhete de revenda com hora marcada ou um tour que o inclua. E se está a montar o roteiro de Gaudí, veja também [o que fazer se os bilhetes da Casa Batlló esgotarem](/pt/guides/barcelona/casa-batllo-bilhetes-esgotados), [o que fazer se os da Sagrada Família esgotarem](/pt/guides/barcelona/sagrada-familia-bilhetes-esgotados) e [Barcelona num dia](/pt/guides/barcelona/barcelona-num-dia).
+Se está a montar a rota de Gaudí, veja também [o que fazer se os bilhetes da Casa Batlló esgotarem](/pt/guides/barcelona/casa-batllo-bilhetes-esgotados), [e os da Sagrada Família](/pt/guides/barcelona/sagrada-familia-bilhetes-esgotados), e [Barcelona num dia](/pt/guides/barcelona/barcelona-num-dia).

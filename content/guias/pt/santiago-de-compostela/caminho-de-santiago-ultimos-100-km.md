@@ -1,11 +1,12 @@
 ---
 titulo: "O Caminho de Santiago: os últimos 100 km (como fazê-los e a Compostela)"
 descripcion: "Guia dos últimos 100 km do Caminho de Santiago: onde começar (Sarria, Tui, Ferrol), etapas, a credencial e a Compostela, quando ir e o que levar."
-respuestaCorta: 'Para obter a Compostela é preciso caminhar **pelo menos os últimos 100 km** até Santiago (200 km de bicicleta) e carimbar a credencial **duas vezes por dia**. O mais habitual é sair de **Sarria**, a cerca de 114 km e cinco etapas, que se fazem em 5-7 dias. A Compostela é **gratuita** na Oficina do Peregrino; o certificado de distância custa 3 €.'
+intro: 'Fazer o **Caminho de Santiago nos últimos 100 km** é a forma mais popular de o viver e de obter a **Compostela** sem ter semanas livres: é a distância mínima a pé que a Catedral exige para entregar o certificado. A partir de **Sarria**, no Caminho Francês, são cinco etapas entre aldeias, bosques e vilas galegas até à praça do Obradoiro, ao alcance de quase qualquer pessoa com uma preparação básica.'
+respuestaCorta: 'Para a Compostela é preciso caminhar pelo menos os **últimos 100 km do Caminho de Santiago** (200 km de bicicleta) e carimbar a credencial **duas vezes por dia**. O habitual é sair de **Sarria**, a cerca de 114 km e cinco etapas, em 5-7 dias. A Compostela é **gratuita** na Oficina do Peregrino; o certificado de distância custa 3 €.'
 categoria: "santiago-de-compostela"
 slug: "caminho-de-santiago-ultimos-100-km"
 fecha: "2026-05-11"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
@@ -31,33 +32,30 @@ actividades:
   - catedral-santiago-museo-tour-guiado
   - excursion-finisterre-muxia-costa-da-morte
   - santiago-portico-gloria-catedral-tour
+faq:
+- pregunta: De onde é preciso começar para obter a Compostela?
+  respuesta: É preciso caminhar pelo menos 100 km (200 km de bicicleta). No Caminho Francês o habitual é Sarria (~114 km); no Português, Tui (~118 km); e no Inglês, Ferrol (~118 km). A partir da Corunha são 75 km e não chega ao mínimo.
+- pregunta: Quantos dias se demora de Sarria a Santiago?
+  respuesta: São cinco etapas (Portomarín, Palas de Rei, Arzúa, O Pedrouzo e Santiago), feitas em 5-7 dias. Pode dividir-se a terceira, de 29 km.
+- pregunta: Quantos carimbos são precisos na credencial?
+  respuesta: Nos últimos 100 km, dois carimbos por dia, que se obtêm em bares, albergues e igrejas. Sem eles não dão a Compostela.
+- pregunta: Quanto custa fazer os últimos 100 km do Caminho?
+  respuesta: Entre 35 e 45 € por dia a dormir em albergue e 60-80 € com quarto próprio. O albergue público custa 10 €, o privado 15-22 € e o duplo em pensão 40-70 €; o menu do peregrino, 12-15 €.
+- pregunta: Onde se levanta a Compostela?
+  respuesta: 'Na Oficina do Peregrino (Rúa das Carretas, 33), aberta todos os dias das 10h00 às 18h00, exceto a 25 de dezembro e a 1 de janeiro, dias em que é entregue na catedral. Funciona com senha por QR: tire-a ao chegar e volte à sua hora.'
 ---
 
-**Fazer os últimos 100 km do Caminho é a forma mais popular de o viver** e de obter a Compostela sem dispor de semanas. É a distância mínima a pé que a Catedral exige para entregar o certificado, e completa-se em cerca de **5-7 dias**, ao alcance de quase qualquer pessoa com uma preparação básica. Este guia explica-lhe onde começar, como são as etapas e o que precisa para que o plano corra na perfeição.
+## Onde começar: o Caminho a partir de Sarria, Tui ou Ferrol
 
-## Ao chegar a Santiago
-
-| Atividade | Avaliação | Desde |
+| Caminho | Partida | Distância |
 | --- | --- | --- |
-| [Tour a pé pelo centro histórico com guia oficial](/en/cities/santiago-de-compostela/activities/santiago-old-town-walking-tour) | 4,8★ (356) | 10 € |
-| [Tour pela catedral e pelo museu sem filas](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4,7★ (2.454) | 25 € |
-| [Finisterra, Muxía e a Costa da Morte](/en/cities/santiago-de-compostela/activities/finisterre-muxia-costa-da-morte-day-trip) | 4,7★ (2.372) | 52 € |
-
-A chave: escolha bem o ponto de partida consoante a rota, leve a **credencial** carimbada e desfrute do Caminho como aquilo que é —uma experiência, não uma corrida—.
-
-[actividad: tour-a-pie-casco-antiguo-santiago]
-
-## Onde começar para a Compostela
-
-| Rota | Partida | Distância |
-| --- | --- | --- |
-| Caminho Francês | Sarria | ~114 km |
+| Caminho Francês | **Sarria** | ~114 km |
 | Caminho Português | Tui | ~118 km |
 | Caminho Inglês | Ferrol | ~118 km |
 
-> **Aviso:** para a Compostela é preciso caminhar **pelo menos 100 km** (ou 200 km de bicicleta). Por isso **Sarria** é o início mais popular do Caminho Francês: ultrapassa precisamente o mínimo. Atenção: a Corunha fica aquém (75 km) para o Inglês; é preciso sair de Ferrol.
+Para a Compostela é preciso caminhar **pelo menos 100 km** (ou 200 km de bicicleta). Por isso **Sarria** é o início mais popular do Caminho Francês: ultrapassa à justa o mínimo. Atenção ao Caminho Inglês: a partir da Corunha são 75 km e não chega; é preciso sair de Ferrol.
 
-## As etapas a partir de Sarria (Caminho Francês)
+## As etapas do Caminho Francês a partir de Sarria
 
 | Etapa | Percurso | Km aprox. |
 | --- | --- | --- |
@@ -69,57 +67,45 @@ A chave: escolha bem o ponto de partida consoante a rota, leve a **credencial** 
 
 Cinco etapas confortáveis (pode dividir a terceira). O **Monte do Gozo**, a 5 km de Santiago, oferece a primeira vista das torres da catedral.
 
-## A credencial e a Compostela
+**Ritmo:** caminha-se das **7h00 às 13h00** para evitar o calor e chegar antes de os albergues encherem. A 4 km/h, uma etapa de 22 km são 5 h 30 com paragens.
 
-- **Credencial do peregrino:** o "passaporte" onde se colocam os carimbos. Nos últimos 100 km precisa de **dois carimbos por dia** (bares, albergues, igrejas).
-- **A Compostela:** o certificado levanta-se na **Oficina do Peregrino** (Rúa das Carretas), em Santiago, apresentando a credencial carimbada.
+## A credencial do peregrino e a Compostela
 
-## O prático: orçamento, credencial e como chegar a Sarria
+- **Credencial:** o «passaporte» onde se carimbam os selos. Custa **2-3 €** e compra-se na Oficina do Peregrino de Santiago, em paróquias e albergues do Caminho ou nas associações de amigos do Caminho antes de partir. Em Sarria vende-se no mosteiro da Magdalena e em vários albergues. Sem ela não pode dormir nos albergues públicos.
+- **Carimbos:** nos últimos 100 km são precisos **dois por dia** (bares, albergues, igrejas).
+- **A Compostela é gratuita;** o certificado de distância, com os quilómetros, custa 3 €. Levanta-se na **Oficina do Peregrino** (Rúa das Carretas, 33), aberta todos os dias das **10h00 às 18h00**, exceto a 25 de dezembro e a 1 de janeiro (nesses dias entrega-se na catedral). Funciona com senha por QR: tire-a ao chegar e volte à sua hora.
+- **Missa do Peregrino:** desde 16 de outubro de 2026, e até nova indicação, as das 12h00 e das 19h30 celebram-se na vizinha igreja de San Agustín, devido a obras na capela-mor da catedral. A catedral continua aberta gratuitamente das 7h00 às 21h00; mais em [como visitar a Catedral de Santiago](/pt/guides/santiago-de-compostela/catedral-de-santiago-como-visitar).
 
-- **Orçamento diário:** albergue público, 10 € (sem reserva, abrem às 13h00 e enchem por ordem de chegada); albergue privado, 15-22 €; pensão ou hostal, 40-70 € o quarto duplo. Menu do peregrino, 12-15 €; pequeno-almoço, 3-5 €. Entre 35 e 45 € por dia em albergue e 60-80 € com quarto próprio.
-- **A credencial** custa 2-3 € e compra-se na Oficina do Peregrino de Santiago, em paróquias e albergues do Caminho, ou nas associações de amigos do Caminho antes de partir. Em Sarria vende-se no mosteiro da Magdalena e em vários albergues. Sem ela não pode dormir nos públicos.
-- **A Compostela é gratuita;** o certificado de distância, com os quilómetros, custa 3 €. A Oficina do Peregrino (Rúa das Carretas, 33) abre todos os dias das 10h00 às 18h00, exceto a 25 de dezembro e a 1 de janeiro (nesses dias a Compostela é entregue na catedral), e funciona com senha por QR: peça-a ao chegar e volte à sua hora.
-- **Missa do Peregrino:** desde 16 de outubro de 2026, e até novo aviso, as das 12h00 e das 19h30 celebram-se na igreja de San Agustín, ali perto, devido a obras na capela-mor da catedral. A catedral continua aberta gratuitamente das 7h00 às 21h00; mais em [como visitar a Catedral de Santiago](/pt/guides/santiago-de-compostela/catedral-de-santiago-como-visitar).
-- **Chegar a Sarria:** de comboio a partir de Madrid (5-6 horas, com ligação em Ourense ou direto consoante o dia) ou a partir de Santiago e da Corunha com mudança em Monforte; de autocarro a partir de Lugo (45 minutos). Muitos peregrinos voam para Santiago, deixam a mala no depósito de bagagens e vão para Sarria de comboio ou táxi partilhado (cerca de 90 € o táxi).
-- **Transporte de mochila:** 6-8 € por etapa; deixa-se na receção do albergue antes das 8h00 e é recolhida no seguinte. É preciso reservar o alojamento de destino.
-- **Ritmo e horas:** caminha-se das 7h00 às 13h00 para evitar o calor e chegar antes de os albergues encherem. A 4 km/h, uma etapa de 22 km são 5h30 com paragens.
-- **Kit de primeiros socorros mínimo:** vaselina nos pés antes de sair, meias sem costuras, compeed, ibuprofeno e protetor solar. Há farmácias em todos os finais de etapa.
+## Orçamento, alojamento e como chegar a Sarria
 
-## Quando ir
+- **Orçamento diário:** entre **35 e 45 € por dia** em albergue e **60-80 €** com quarto próprio.
+  - Albergue público: 10 € (sem reserva; abrem às 13h00 e enchem por ordem de chegada).
+  - Albergue privado: 15-22 €. Pensão ou hostal: 40-70 € o duplo.
+  - Menu do peregrino: 12-15 €; pequeno-almoço: 3-5 €.
+- **Reserve na época alta:** Sarria, por ser o início massivo, enche; reserve pelo menos a primeira noite, e também nas etapas pequenas.
+- **Transporte de mochila:** 6-8 € por etapa; deixa-se na receção do albergue antes das 8h00 e é levada para o seguinte, que tem de estar reservado.
+- **Chegar a Sarria:** de comboio a partir de Madrid (5-6 horas, com ligação em Ourense ou direto conforme o dia) ou a partir de Santiago e da Corunha com mudança em Monforte; de autocarro a partir de Lugo (45 minutos). Muitos peregrinos voam para Santiago, deixam a mala no depósito de bagagem e vão para Sarria de comboio ou táxi partilhado (cerca de 90 € o táxi).
+
+## Quando ir e o que levar
 
 | Época | Veredicto |
 | --- | --- |
-| Maio-junho e setembro | Ideal: bom clima e ambiente |
-| Julho e agosto | Calor e muito concorrido (Sarria enche) |
-| Outubro-abril | Tranquilo; chuva e algum albergue fechado |
-| Ano Santo Xacobeo | Mais peregrinos do que nunca |
+| **Maio-junho e setembro** | Ideal: bom tempo e ambiente |
+| **Julho e agosto** | Calor e muita gente (Sarria enche) |
+| **Outubro-abril** | Tranquilo; chuva e algum albergue fechado |
+| **Ano Santo Xacobeo** | Mais peregrinos do que nunca |
 
-## O que levar
+- **Calçado já amaciado:** não estreie botas no Caminho.
+- **Impermeável ou poncho:** na Galiza chove muitas vezes.
+- **Roupa por camadas** e pouco peso na mochila: cada grama nota-se ao fim de uns dias.
+- **Kit de primeiros socorros:** vaselina nos pés antes de sair, meias sem costuras, pensos para bolhas, ibuprofeno e protetor solar. Há farmácias em todos os finais de etapa.
 
-- **Calçado já amaciado** (não estreie botas no Caminho).
-- **Impermeável ou poncho**: na Galiza chove com frequência.
-- Roupa por camadas e pouco peso na mochila.
-- Cuidado com os pés: vaselina, adesivo, meias técnicas.
+## Conselhos e erros típicos
 
-> **Dica:** existem **serviços de transporte de mochilas** entre etapas e convém reservar o alojamento (albergues privados) na época alta. Sarria, por ser o início massivo, enche: reserve a primeira noite.
+1. **Não comece na Corunha à espera da Compostela:** são só 75 km.
+2. **Não estreie botas:** é o erro que mais bolhas causa.
+3. **Não faça Sarria em agosto sem reservar:** é o início mais concorrido do ano.
+4. **Não se esqueça dos dois carimbos diários** nos últimos 100 km.
+5. **Cuide dos pés desde o primeiro dia:** as bolhas arruínam o Caminho.
 
-## O que NÃO recomendamos
-
-1. **Começar na Corunha à espera da Compostela.** São 75 km; não chega ao mínimo.
-2. **Estrear botas.** O erro que mais bolhas causa.
-3. **Fazer Sarria em agosto sem reservar.** É o início mais concorrido do ano.
-4. **Esquecer os dois carimbos diários** nos últimos 100 km: sem eles não dão a Compostela.
-
-[actividad: catedral-santiago-museo-tour-guiado]
-
-## Erros típicos
-
-> **Aviso:** as falhas que mais vemos.
-
-1. **Sobrecarregar a mochila.** Cada grama nota-se ao fim de uns dias.
-2. **Não reservar na época alta.** Fica sem cama nas etapas pequenas.
-3. **Ignorar o cuidado com os pés.** As bolhas arruínam o Caminho.
-
-## Numa frase
-
-Os últimos 100 km do Caminho —normalmente a partir de Sarria— são cinco ou seis dias a caminhar até à catedral, com a credencial carimbada e a Compostela como recompensa. A meta é a cidade que percorre [Santiago num dia](/pt/guides/santiago-de-compostela/santiago-de-compostela-num-dia).
+A meta é a cidade que percorremos em [Santiago de Compostela num dia](/pt/guides/santiago-de-compostela/santiago-de-compostela-num-dia).

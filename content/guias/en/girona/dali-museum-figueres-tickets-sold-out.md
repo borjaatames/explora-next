@@ -4,7 +4,7 @@ descripcion: 'If the official Dalí Theatre-Museum website has no tickets: other
 categoria: girona
 slug: dali-museum-figueres-tickets-sold-out
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
@@ -26,19 +26,22 @@ slugs:
   it: museo-dali-figueres-biglietti-esauriti
   pt: museu-dali-figueres-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'General admission is **from €18.50** on `tickets.salvador-dali.org`, and availability depends on the museum''s capacity. If your day is sold out, try other slots and other days, or a **guided tour with entry included** (from €31). Official tickets **can''t be changed or refunded** for reasons outside the museum''s control, so don''t count on cancellations.'
+intro: '**Dalí Museum tickets sold out** doesn''t mean missing out on Dalí. The Theatre-Museum in Figueres, with its façade crowned by giant eggs and the red Galatea Tower covered in bread rolls, where the painter''s jewels are displayed, is the flagship museum of the Gala-Salvador Dalí Foundation. It''s about 55–65 minutes from Barcelona by high-speed train, stopping at Girona, and if the website says "sold out", there are still several ways in.'
+respuestaCorta: 'If Dalí Museum tickets are sold out: general admission costs **from €18.50** at tickets.salvador-dali.org and depends on capacity. Try other slots and days, the **box office** or the **guided tour with entry included** (from €31). Official tickets **can''t be changed or refunded** for reasons outside the museum''s control: don''t count on cancellations.'
 actividades:
   - teatro-museo-dali-figueres-visita-guiada
   - girona-figueres-dali-cadaques-desde-barcelona
 faq:
-- pregunta: Can I buy Dalí Museum tickets at the box office?
-  respuesta: 'Yes. The Theatre-Museum has a ticket desk at the main entrance, and you can get in and buy tickets up to 45 minutes before closing. But availability depends on capacity, so in summer and on bank holidays there''s no guarantee: if you only have one day, buy online or book a tour with entry included.'
+- pregunta: Can you buy Dalí Museum tickets at the box office?
+  respuesta: 'Yes. The Theatre-Museum has a ticket desk at the main entrance, and you can buy and enter up to 45 minutes before closing. But availability depends on capacity, so in summer and on long weekends there''s no guarantee: if you only have one day, buy online or book a tour with entry included.'
 - pregunta: Can Dalí Museum tickets be changed or refunded?
-  respuesta: 'No, unless the cause lies with the museum. The Gala-Salvador Dalí Foundation says it makes no changes or refunds for reasons outside the museum''s control. To ask for a date change, email the museum (reserves@fundaciodali.org). If the museum closes due to force majeure, the full amount is refunded.'
+  respuesta: No, unless the cause lies with the museum. According to the Gala-Salvador Dalí Foundation, there are no changes or refunds for reasons outside the museum's control. To request a date change, email the museum (reserves@fundaciodali.org). If the museum closes due to force majeure, they refund the full amount.
+- pregunta: What day is the Dalí Museum in Figueres closed?
+  respuesta: Mondays, except in July and August (open daily from 9:00 to 20:00) and on some holidays with special opening, such as 12 October, 9 November or 7 December. From October to December it opens Tuesday to Sunday from 10:30 to 18:00.
 - pregunta: Are there night visits at the Dalí Museum?
-  respuesta: 'Yes, but only in August. In 2026, "Dalí by Night" ran from 1 to 23 August, 21:30 to midnight, capped at 500 people a night, with a glass of cava included. It''s a separate ticket sold on the same official website.'
-- pregunta: What can I see of the Dalí Museum without a ticket?
-  respuesta: 'The façade with the giant eggs and Plaça Gala i Salvador Dalí, and the red, bread-studded Torre Galatea on Pujada del Castell. Both are visible from the street and free.'
+  respuesta: Yes, but only in August. In 2026, "Dalí de Nit" ran from 1 to 23 August, from 21:30 to midnight, with a capacity of 500 people per night and a glass of cava included. It's a separate ticket sold on the same official website.
+- pregunta: What can you see of the Dalí Museum without a ticket?
+  respuesta: The façade with the giant eggs and Plaça Gala i Salvador Dalí, and the red Galatea Tower covered in bread rolls, on Pujada del Castell. Both can be seen from the street for free.
 opciones:
   - ficha: teatro-museo-dali-figueres-visita-guiada
     etiqueta: With a guide
@@ -46,70 +49,58 @@ opciones:
     etiqueta: From Barcelona
 ---
 
-The Dalí Theatre-Museum in Figueres sells tickets online by day and time slot, and availability depends on the museum's capacity. In July and August, at Easter and on Spanish bank holidays, the busiest dates go early. "Sold out" on the official website doesn't mean you miss Dalí: these are the routes left, in the order worth trying them.
+## Dalí Museum last-minute tickets: check the official website again
 
-## Which ticket should you choose?
+The only official sales website is **tickets.salvador-dali.org**, linked from salvador-dali.org, the Gala-Salvador Dalí Foundation's site. Beware of look-alike sites: they overcharge and don't always give a valid ticket.
 
-| If you want… | Option | From |
-| --- | --- | --- |
-| A guide, without relying on the official site | [Dalí Theatre-Museum guided tour with entry](/en/cities/girona/activities/dali-theatre-museum-figueres-guided-tour), 4.7★ (105) | €31 |
-| To go from Barcelona with transport sorted | [Girona, Figueres and Cadaqués day trip from Barcelona](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4.7★ (2,352) | €40 |
-| A small group from Barcelona with entry and Dalí's house | [Dalí Museum, Portlligat house and Cadaqués, small group](/en/cities/barcelona/activities/dali-museum-house-portlligat-cadaques-small-group-from-barcelona), 4.7★ (1,120) | €109 |
-| A small group with hotel pickup | [Dalí Museum, Cadaqués and Portlligat with hotel pickup](/en/cities/barcelona/activities/dali-triangle-cadaques-small-group-hotel-pickup-barcelona), 4.8★ (246) | €119 + tickets |
+- **General:** from **€18.50**. **Reduced:** from €15. **With official guided tour:** €26.50.
+- **Under 9:** free.
 
-## 1. Check the official website again
+If your date is sold out:
 
-The only official ticket site is `tickets.salvador-dali.org`, linked from `salvador-dali.org`, the website of the Gala-Salvador Dalí Foundation. General admission is **from €18.50**, reduced **from €15** and the ticket with an **official guided tour is €26.50**. Children under 9 go free. If your date shows as sold out:
+- **Check every slot of the day:** first thing and last thing there may be space.
+- **Check the ticket with the official guided tour**, which is listed separately on the website.
+- **Try another day.** From October to December it opens **Tuesday to Sunday, 10:30 to 18:00**; in July and August, **every day from 9:00 to 20:00**. The rest of the year it **closes on Mondays**, except on some holidays (12 October, 9 November, 7 December).
+- **In August, buy early:** the "Dalí de Nit" night visits (in 2026, 1–23 August, 21:30 to midnight) have 500 places per night and are sold separately.
 
-- **Check every slot that day:** don't stop at mid-morning; there may be room first thing or late in the day.
-- **Look at the ticket with the official guided tour**, which is listed separately.
-- **Try another day:** from October to December the museum opens **Tuesday to Sunday, 10:30 to 18:00**. In July and August it opens **every day, 9:00 to 20:00**. The rest of the year it closes on Mondays, except on some bank holidays such as 12 October, 9 November and 7 December.
-- **Book early if you're going in August:** the "Dalí by Night" evening openings (in 2026, 1 to 23 August, 21:30 to midnight) are capped at 500 people a night and sold separately.
+What doesn't work: waiting for cancellations. **There are no changes or refunds** for reasons outside the museum's control; to change your date, email reserves@fundaciodali.org.
 
-What doesn't work: waiting for cancellations. The foundation says it makes **no changes or refunds** for reasons outside the museum's control. If you need a different date, email `reserves@fundaciodali.org`.
+## The Dalí Museum Figueres box office
 
-## 2. The museum box office
+The Theatre-Museum has **a ticket desk at the main entrance**, on Plaça Gala i Salvador Dalí, and you can buy and enter **up to 45 minutes before closing**. But availability depends on capacity: in high season the box office sells what's left, not what you need. If you go without a ticket, arrive at opening time or late in the day, and have a plan B.
 
-The Theatre-Museum has **a ticket desk at the main entrance**, on Plaça Gala i Salvador Dalí, and you can get in and buy tickets **up to 45 minutes before closing**. But availability depends on capacity, so in high season the desk sells what's left, not what you need. If you turn up without a ticket, go at opening time or late in the day, and have a plan B.
+## A guided tour or day trip with entry included
 
-## 3. A guided tour or a day trip with entry included
-
-When the official site has nothing left, operators usually still have places because they book their tickets ahead. You pay more than on the official site:
+When the official website has nothing, operators often still have places because they book their tickets in advance. You pay more:
 
 - **Guided tour of the Theatre-Museum with entry (from €31):** the most direct option if you're already in Girona or Figueres.
-- **Day trip from Barcelona (from €69):** Girona, Figueres and Cadaqués with transport sorted. Museum entry is **optional**: when booking, choose the option **with Dalí Theatre-Museum entry**; without it you just get free time in Figueres. The stop lasts an hour and a half.
+- **Day trip from Barcelona:** Girona, Figueres and Cadaqués with transport sorted. Museum entry is **optional**: choose the option **with entry to the Dalí Theatre-Museum**, because without it you only get free time in Figueres. The stop lasts an hour and a half.
 
-Be wary of Figueres walks that only pass the façade without saying so.
+Always check whether entry is included: some Figueres walks only pass the façade and don't make it clear.
 
 [actividad: teatro-museo-dali-figueres-visita-guiada]
 
-[actividad: girona-figueres-dali-cadaques-desde-barcelona]
+## The other Dalí museums: Púbol and Portlligat
 
-## 4. The other two Dalí museums: Púbol and Portlligat
+The foundation runs two other, less crowded museums:
 
-The foundation runs two other, quieter museums that round off the trip well:
+- **Gala Dalí Castle in Púbol:** the castle Dalí gave to Gala. General admission **€10 online** (€12 at the desk) outside July and August. From 2 November to 31 December it opens Tuesday to Sunday, 10:30 to 17:00; closed from 7 January to 27 February. There's no public transport to the village: the R11 train goes to Flaçà, then it's a taxi.
+- **Salvador Dalí House in Portlligat:** the painter's house next to Cadaqués. **Advance booking is essential:** small groups enter every 10 minutes, and if you're late your booking is cancelled. House and olive grove, €15.50 outside July and August. Closed from 7 January to 11 February.
 
-- **Gala Dalí Castle in Púbol:** the castle Dalí gave to Gala. General admission is **€10 online** (€12 at the desk) outside July and August. From 2 November to 31 December it opens Tuesday to Sunday, 10:30 to 17:00, and it closes from 7 January to 27 February. There's no public transport to the village: the R11 train goes to Flaçà, then you need a taxi.
-- **Salvador Dalí House in Portlligat:** the painter's home next to Cadaqués. Here **booking ahead is essential**: visits are in small groups that go in every 10 minutes, and if you miss your time the booking is cancelled. General admission to the house and olive grove is €15.50 outside July and August. It closes from 7 January to 11 February.
+To combine Cadaqués with other villages, see [Costa Brava day trips from Girona](/en/guides/girona/costa-brava-day-trips-from-girona).
 
-If you're heading to the coast, [Costa Brava day trips from Girona](/en/guides/girona/costa-brava-day-trips-from-girona) covers how to pair Cadaqués with other villages.
+## What you can see without a ticket, and getting there
 
-## 5. What you can see without a ticket
+If nothing works out, there's plenty to see from the street in Figueres:
 
-If you get nothing, you can still see a fair amount of Figueres from the street:
+- The **Theatre-Museum façade**, with giant eggs on the cornice, from **Plaça Gala i Salvador Dalí**.
+- The **Galatea Tower**, on **Pujada del Castell**, painted red and covered in three-pointed bread rolls. Inside are Dalí's jewels (Dalí·Joies), part of the Theatre-Museum route.
 
-- The **Theatre-Museum façade**, with the giant eggs along the top, from **Plaça Gala i Salvador Dalí**.
-- The **Torre Galatea** on **Pujada del Castell**, painted red and studded with three-pointed bread rolls. Inside are the rooms with Dalí's jewellery (Dalí·Joies), which are part of the Theatre-Museum visit.
+**Getting there:** the high-speed train takes **about 55–65 minutes** from Barcelona-Sants to Figueres-Vilafant, about 20 minutes' walk from the museum. The R11 regional train arrives at Figueres station, in the centre, about 15 minutes on foot, but takes much longer. Both stop at Girona.
 
-To get there, the high-speed train takes **about 55-65 minutes** from Barcelona-Sants to Figueres-Vilafant, around 20 minutes' walk from the museum. The R11 regional train goes to Figueres station in the centre, about 15 minutes on foot, but takes much longer. Both stop in Girona.
+## Tips
 
-## Mistakes to avoid
-
-1. **Buying from sites that look like the official one.** They overcharge and don't always deliver a valid ticket. The official site is `tickets.salvador-dali.org`.
-2. **Going on a Monday outside July and August.** The museum is closed, except on the bank holidays the foundation lists as special openings.
-3. **Booking a day trip without checking it includes entry.** You pay for the coach and stay in the square.
-4. **Turning up at Portlligat without a booking.** It's the smallest house and you can't get in without booking ahead.
-
-## In one sentence
-
-If the official site is sold out, try other slots and days, go to the box office at opening or late in the day, or book a tour with entry included; and if you're staying in the area, [what to see in Girona in one day](/en/guides/girona/what-to-see-in-girona-in-one-day) has the plan for the rest of your day.
+- **Don't go on a Monday outside July and August:** it's closed, except on special-opening holidays.
+- **Only buy on the official website** or through a tour that clearly includes entry.
+- **Don't turn up at Portlligat without a booking:** you won't get in.
+- **Make the most of the rest of the day:** [what to see in Girona in one day](/en/guides/girona/what-to-see-in-girona-in-one-day) has the plan.

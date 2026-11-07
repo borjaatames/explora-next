@@ -2,15 +2,16 @@
 titulo: 'Mezquita de Córdoba: entradas, horario gratis y visita guiada'
 descripcion: 'Entradas Mezquita de Córdoba: 15 € y gratis de lunes a sábado de 8:30 a 9:30. Horario, torre campanario (4 €), visita guiada desde 32 € y qué ver dentro.'
 metaTitle: 'Mezquita de Córdoba: entradas y visita guiada'
-respuestaCorta: 'La Mezquita-Catedral cuesta **15 €** (gratis menores de 10) y es **gratis de lunes a sábado de 8:30 a 9:30**, solo para visitantes individuales. Ve a primera hora, calcula **1-1 h 30** y lleva los hombros cubiertos; los domingos el culto la cierra de 11:30 a 15:00. El **tour guiado sin colas con campanario** cuesta desde 32 €.'
+intro: 'La **Mezquita de Córdoba** es el monumento que justifica el viaje a la ciudad y uno de los edificios más asombrosos de Europa. Fundada en el año 785, reúne un bosque de **856 columnas con arcos rojiblancos**, el mihrab de mosaicos dorados y una catedral renacentista en su centro. Está en el casco histórico, a unos 20 minutos a pie del AVE, y la visita lleva entre una hora y hora y media.'
+respuestaCorta: 'La entrada a la Mezquita de Córdoba cuesta **15 €** (gratis menores de 10) y es **gratis de lunes a sábado de 8:30 a 9:30**, solo para visitantes por libre. Calcula **1-1 h 30** y lleva los hombros cubiertos; los domingos el culto la cierra de 11:30 a 15:00. La **visita guiada sin colas con campanario** cuesta desde 32 €.'
 categoria: "cordoba"
 slug: "mezquita-catedral-como-visitar"
 fecha: "2026-04-01"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 3
+tiempo_lectura: 4
 keywords:
   - 'mezquita de córdoba'
   - 'entradas mezquita córdoba'
@@ -32,6 +33,17 @@ actividades:
   - mezquita-juderia-tour-a-pie
 imagen_portada: "/images/guias/mezquita-catedral-como-visitar.jpg"
 imagen_alt: "Bosque de arcos bicolores en la Mezquita-Catedral de Córdoba"
+faq:
+- pregunta: ¿Cuánto cuesta la entrada a la Mezquita de Córdoba?
+  respuesta: La general cuesta 15 €. La reducida, 12 € (mayores de 65 y estudiantes hasta 26 años) y 8 € para niños de 10 a 14. Los menores de 10 entran gratis. La torre campanario se paga aparte (4 €) y la audioguía también.
+- pregunta: ¿Es verdad que la Mezquita se puede ver gratis?
+  respuesta: 'Sí, de lunes a sábado de 8:30 a 9:30, solo para visitantes individuales: no entran grupos ni guías. Se accede por orden de llegada y a las 9:20 empiezan a desalojar. No hay hora gratis los domingos ni los días de celebraciones extraordinarias.'
+- pregunta: ¿Se puede visitar la Mezquita un domingo?
+  respuesta: 'Sí, pero con horario partido: de 8:30 a 11:30 y de 15:00 a 19:00, porque entre medias hay culto. Lo mismo ocurre los festivos religiosos.'
+- pregunta: ¿Cuánto tiempo se necesita para ver la Mezquita-Catedral?
+  respuesta: Entre una hora y hora y media para la visita de día. Si subes a la torre campanario, suma los 30 minutos de su turno.
+- pregunta: ¿Hay que ir vestido de alguna forma?
+  respuesta: 'Es un templo católico en uso: lleva los hombros cubiertos y evita el pantalón muy corto. En verano, un pañuelo en la mochila te saca del apuro.'
 opciones:
   - ficha: mezquita-catedral-entrada-audioguia
     etiqueta: La más barata
@@ -41,60 +53,48 @@ opciones:
     etiqueta: Con la Judería
 ---
 
-**La Mezquita-Catedral es el monumento que justifica el viaje a Córdoba**, y uno de los edificios más asombrosos de Europa: un bosque de 856 columnas y arcos rojiblancos con una catedral renacentista levantada en el centro. Pero es también el lugar donde más se nota organizarse bien: entrar a la hora correcta marca la diferencia entre disfrutarlo en calma o sufrir colas y calor. Esta guía te lo resuelve.
+## Qué ver dentro de la Mezquita de Córdoba
 
-## ¿Qué entrada elegir?
+- **El bosque de columnas.** Quedan 856 de las casi 1.300 originales, con dobles arcos de herradura rojiblancos y mármol y granito romanos y visigodos reutilizados. Es la imagen que define el monumento.
+- **El mihrab.** El nicho de oración, con sus **mosaicos bizantinos dorados**, es la joya artística del conjunto.
+- **La catedral renacentista.** Se insertó en el centro en el siglo XVI; al verla, Carlos V dijo que habían destruido algo único para hacer algo común.
+- **El Patio de los Naranjos.** El patio de entrada, con naranjos y fuentes. El acceso es **gratis**.
+- **La torre campanario.** El antiguo alminar se puede subir (entrada aparte) para ver el casco desde arriba.
 
-| Actividad | Valoración | Desde |
-| --- | --- | --- |
-| [Tour guiado por la Mezquita-Catedral sin colas](/ciudades/cordoba/actividades/mezquita-catedral-tour-guiado-sin-colas) | 4,6★ (10.966) | 32 € |
-| [Entrada a la Mezquita-Catedral con audioguía](/ciudades/cordoba/actividades/mezquita-catedral-entrada-audioguia) | 4,2★ (3.788) | 22 € |
-| [Tour por la Mezquita y la Judería con entradas](/ciudades/cordoba/actividades/mezquita-juderia-tour-a-pie) | 4,5★ (2.200) | 34 € |
+No la visites con prisa: el mihrab y el contraste entre los dos templos merecen calma.
 
-La regla de oro: **ve a primera hora**. Es cuando hay menos gente, mejor luz entre las columnas y, además, existe una franja de **entrada gratuita** que casi nadie aprovecha.
+## Precio de la entrada a la Mezquita de Córdoba y horario
 
-## Qué ver dentro
-
-- **El bosque de columnas.** Las 856 columnas (de las casi 1.300 originales) con dobles arcos de herradura rojiblancos, reutilizando mármol y granito romano y visigodo. La imagen que define el monumento.
-- **El mihrab.** El nicho de oración, con sus **mosaicos bizantinos dorados**, la joya artística del conjunto.
-- **La catedral renacentista.** Insertada en el centro en el siglo XVI; al verla, Carlos V dijo que habían destruido algo único para hacer algo común.
-- **El Patio de los Naranjos.** El patio de entrada con naranjos y fuentes; el acceso es **gratis**.
-- **La torre campanario.** El antiguo alminar, que se puede subir (entrada aparte) para una panorámica del casco.
-
-## Entradas y horario
-
-- **Entrada general:** 15 €; reducida 12 € (mayores de 65 y estudiantes hasta 26) y 8 € para niños de 10 a 14; **menores de 10, gratis**. Incluye la Mezquita-Catedral y el Patio de los Naranjos; la audioguía va aparte.
-- **Franja gratuita:** de lunes a sábado, de **8:30 a 9:30**, solo visitantes individuales, sin grupos ni guías. Se accede por orden de llegada y a las 9:20 empiezan a desalojar. Es la mejor hora del día, gratis o no: luz baja entre las columnas y silencio.
-- **Horario de pago:** de lunes a sábado de 10:00 a 19:00 (hasta las 18:00 de noviembre a febrero); los domingos y festivos religiosos, de 8:30 a 11:30 y de 15:00 a 19:00, porque entre medias hay culto.
+- **General:** 15 €. Incluye la Mezquita-Catedral y el Patio de los Naranjos; la audioguía va aparte.
+- **Reducida:** 12 € para mayores de 65 y estudiantes hasta 26 años, y 8 € para niños de 10 a 14.
+- **Menores de 10:** gratis.
 - **Torre campanario:** 4 €, con turnos de 30 minutos cada media hora y aforo de 20 personas. Son 54 metros de escalera; la vista del patio y de la Judería compensa.
-- **Visita nocturna «El alma de Córdoba»:** 25 € (18 € reducida), pases a las 21:00 y a las 22:30, con un espectáculo de luz y sonido en el interior. Distinta y sin multitudes, pero no sustituye a la visita de día.
-- **Vestimenta:** es un templo católico en uso. Hombros cubiertos y nada de pantalón muy corto; en verano, un pañuelo en la mochila.
+- **Visita nocturna «El Alma de Córdoba»:** 25 € (18 € reducida), pases a las 21:00 y a las 22:30, con un espectáculo de luz y sonido en el interior. Es distinta y sin multitudes, pero no sustituye a la visita de día.
+
+**Horario de pago:** de lunes a sábado de **10:00 a 19:00** (hasta las 18:00 de noviembre a febrero). Los **domingos y festivos religiosos**, de 8:30 a 11:30 y de 15:00 a 19:00, porque entre medias hay culto. La venta y el acceso cierran 30 minutos antes.
+
+El monumento rara vez se agota; lo que se acaba antes es la torre, la visita nocturna y algunas franjas de Semana Santa, mayo y puentes.
+
+## Mezquita de Córdoba gratis: de 8:30 a 9:30
+
+De **lunes a sábado, de 8:30 a 9:30**, la entrada es gratuita para visitantes individuales, sin grupos ni guías. Se entra por orden de llegada y **a las 9:20 empiezan a desalojar**, así que conviene estar en la puerta a las 8:30 en punto. No hay franja gratis los domingos ni los días de celebraciones extraordinarias.
+
+Gratis o no, es la mejor hora del día: luz baja entre las columnas y silencio.
+
+## Visita guiada a la Mezquita de Córdoba
+
+Por libre se entiende la belleza; con guía se entiende el porqué de los dos templos en uno. La visita guiada más habitual incluye la **entrada sin colas** y la subida al **campanario**, y es la forma más cómoda de ir en temporada alta, cuando la cola de taquilla puede ser larga.
 
 [actividad: mezquita-catedral-tour-guiado-sin-colas]
 
-## Cuándo ir
+## Cómo llegar
 
-A **primera hora** siempre (calor y grupos llegan a media mañana). En verano, evita el mediodía a toda costa. Los **domingos por la mañana** el culto católico limita la visita turística: tenlo en cuenta. Si puedes, valora la **visita nocturna** ("El Alma de Córdoba"), un espectáculo de luz y sonido.
+La Mezquita está en el casco histórico, a cinco minutos a pie de la Judería, el Alcázar y el Puente Romano. Desde la **estación del AVE** son unos **20 minutos andando**. La taquilla está en el Patio de San Eulogio, en la calle Torrijos.
 
-## Cómo aprovechar la visita
+## Consejos para la visita
 
-Calcula **1h-1h 30min**. Una **visita guiada** ayuda a entender el porqué de los dos templos en uno (la entrada prioritaria, además, ahorra cola). Vístete con respeto: es catedral en uso. Lo encajamos como primera parada del día en [Córdoba en un día](/guias/cordoba/cordoba-en-un-dia).
-
-## Lo que NO recomendamos
-
-1. **Ir a mediodía en verano.** Colas y calor; ve a primera hora.
-2. **No reservar en temporada alta.** La cola de taquilla puede ser larga.
-3. **Visitarla con prisa.** El mihrab y el contraste de los dos templos merecen calma.
-4. **Olvidar la torre.** Las vistas del casco y del Patio de los Naranjos compensan.
-
-## Errores típicos
-
-> **⚠️ Aviso:** los fallos que más vemos.
-
-1. **No mirar la franja gratuita** de primera hora si encaja en tus planes.
-2. **Ir un domingo por la mañana** sin saber que el culto limita la visita.
-3. **Subestimar el tiempo.** Mucha gente entra con prisa y se pierde el mihrab.
-
-## En una frase
-
-La Mezquita-Catedral se visita a primera hora, sin prisa y, si puedes, en la franja gratuita: el bosque de columnas, el mihrab dorado y la catedral incrustada son una de las grandes experiencias monumentales de Europa. Es el corazón de [Córdoba en un día](/guias/cordoba/cordoba-en-un-dia).
+- **Ve a primera hora.** El calor y los grupos llegan a media mañana; en verano, evita el mediodía a toda costa.
+- **Cuidado con el domingo por la mañana:** el culto limita la visita turística.
+- **Vístete con respeto:** hombros cubiertos y nada de pantalón muy corto.
+- **No te olvides de la torre:** las vistas del casco y del Patio de los Naranjos compensan los 4 €.
+- **Encájala como primera parada del día.** Así lo hacemos en [Córdoba en un día](/guias/cordoba/cordoba-en-un-dia).

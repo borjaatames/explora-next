@@ -4,13 +4,13 @@ descripcion: 'Alhambra vs Royal Alcázar of Seville: ticket prices, how far ahea
 categoria: granada
 slug: alhambra-or-alcazar-of-seville
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/guias/alhambra-o-alcazar-de-sevilla.jpg
 imagen_alt: Courtyard of the Maidens in the Royal Alcázar of Seville, with its long reflecting pool between Mudéjar arches
-tiempo_lectura: 6
+tiempo_lectura: 5
 keywords:
 - alhambra or alcazar
 - alhambra vs alcazar seville
@@ -24,7 +24,8 @@ slugs:
   it: alhambra-o-alcazar-di-siviglia
   pt: alhambra-ou-alcazar-de-sevilha
 reservasArriba: true
-respuestaCorta: 'If your trip takes in both cities and you can only do one, **pick the Alhambra**: it is bigger, its Nasrid core is the original rather than the echo, and nothing else is quite like it. It costs more (**€22.27** vs **€15.50**), takes **about 4 hours** and has to be booked **weeks ahead**. If your trip is Seville without Granada, or you only have half a day, the **Royal Alcázar** (2.5–3 hours) is no consolation prize.'
+intro: '**Alhambra or Alcázar** of Seville? They are Spain''s two great palaces of Andalusian heritage. The Alhambra is a Nasrid palace city on a hill in Granada, with the Nasrid Palaces, the Alcazaba and the Generalife. The Real Alcázar is the oldest royal palace still in use in Europe, a Mudéjar palace in the heart of Seville with huge gardens. They look alike at first glance, but the visits are very different.'
+respuestaCorta: 'Alhambra or Alcázar? If you''re visiting both cities and can only see one, **choose the Alhambra**: there''s nothing like it. But it costs more (**€22.27** vs **€15.50**), takes **about 4 hours** and must be booked **weeks ahead**. If your trip is just Seville or you have half a day, the **Real Alcázar** is no consolation prize.'
 actividades:
   - visita-guiada-alhambra-generalife
   - entrada-y-tour-guiado-alhambra
@@ -34,98 +35,87 @@ actividades:
   - entrada-jardines-alhambra-generalife
 faq:
 - pregunta: Which is better, the Alhambra or the Alcázar of Seville?
-  respuesta: 'For a first trip, the Alhambra: it is a whole complex (palaces, fortress, gardens and views over Granada), and the Nasrid Palaces are one of a kind. The Alcázar is more compact, easier to book and takes half the time, and its gardens are better than the Generalife for an unhurried stroll.'
+  respuesta: 'For a first trip, the Alhambra: it''s a whole complex (palaces, fortress, gardens and views over Granada) and the Nasrid Palaces are unique. The Alcázar is more compact, easier to book and takes half the time, and its gardens are better than the Generalife''s for a leisurely stroll.'
 - pregunta: Are the Alhambra and the Alcázar of Seville similar?
-  respuesta: 'At first glance, yes, but they are not the same thing. The Alhambra is Nasrid art, built by the last Muslim dynasty in Iberia. The Alcázar''s main palace was commissioned in 1364 by a Christian king, Peter I, using craftsmen who worked in that style: it is Mudéjar art. That is why people who see both notice the family resemblance and the differences.'
-- pregunta: How far ahead do I need to book each one?
-  respuesta: 'The Alhambra releases tickets up to three months ahead, and in spring, on holiday weekends and in summer the morning slots sell out weeks in advance. The Alcázar sells tickets in 30-minute slots; in high season book several days ahead. Its ticket office also keeps a few same-day tickets for each slot.'
-- pregunta: Can I visit the Alhambra as a day trip from Seville?
-  respuesta: 'You can, but it is a long day: the train between Seville and Granada takes roughly 2.5 to 3 hours each way and the visit takes 4 hours. It only makes sense if your Nasrid Palaces time slot already fits the train times, or if you join a tour that handles everything.'
-- pregunta: Which is better with kids?
-  respuesta: 'The Alcázar. It is shorter, flat, and the gardens, with their maze and peacocks, keep children busy. The Alhambra involves a lot of walking and a strict entry time for the Nasrid Palaces, which is hard to hit with small kids.'
+  respuesta: 'At first glance yes, but they''re not the same. The Alhambra is Nasrid art, made by the last Muslim dynasty on the peninsula. The Alcázar''s main palace was commissioned in 1364 by a Christian king, Peter I, with craftsmen imitating that style: it''s Mudéjar art.'
+- pregunta: How far ahead should you book each one?
+  respuesta: The Alhambra sells tickets up to three months ahead, and in spring, on long weekends and in summer mornings sell out weeks in advance. The Alcázar sells in 30-minute slots and in high season it's best to book several days ahead; its ticket office also keeps a few same-day tickets.
+- pregunta: Can you see the Alhambra on a day trip from Seville?
+  respuesta: 'You can, but it''s a long day: the train between Seville and Granada takes about 2.5 to 3 hours each way and the visit takes 4 hours. It''s only worth it if you already have a ticket with a Nasrid Palaces time that fits the trains, or go on an excursion that organises everything.'
+- pregunta: Which is better with children?
+  respuesta: The Alcázar. It's shorter, entirely on the flat, and the gardens, with the maze and the peacocks, keep children entertained. The Alhambra involves a lot of walking and a fixed time at the Nasrid Palaces, which is hard with small children.
 ---
 
-If you're visiting both Granada and Seville and only have room for one big monument, **go to the Alhambra**. If your trip is Seville only, or you have half a day and little appetite for ticket hunting, **the Royal Alcázar** gives you most of the wow with half the logistics. Below is the reasoning, with 2026 prices, timings and what makes each visit special.
+## Alhambra vs Alcázar of Seville: quick comparison
 
-## At a glance
-
-| | Alhambra (Granada) | Royal Alcázar (Seville) |
+| | Alhambra (Granada) | Real Alcázar (Seville) |
 | --- | --- | --- |
 | General ticket | €22.27 online (€21 at the ticket office) | €15.50 (reduced €8) |
-| Time needed | About 4 hours | 2.5–3 hours |
-| Book ahead | Weeks; sales open up to 3 months out | Days in high season; 30-minute slots |
-| If online is sold out | Last-minute tickets the evening before, Granada Card, tour with ticket | Same-day quota at the ticket office, tour with ticket |
-| Strict time slot | Yes, for the Nasrid Palaces (30-minute grace) | Only your entry slot |
-| What it is | A Nasrid palace-city: palaces, fortress and gardens | A Mudéjar royal palace still in use, with huge gardens |
-| Highlights | Nasrid Palaces and the views from the Alcazaba | Courtyard of the Maidens, Hall of Ambassadors, gardens |
-| Free entry | No general free slot | Mondays, last opening hour, booked online |
+| Visit time | About 4 hours | 2.5-3 hours |
+| Book | Weeks ahead; on sale up to 3 months before | Days ahead in high season; 30-min slots |
+| No online tickets left | Last-minute the evening before, Granada Card, tour with ticket | Same-day ticket office quota, tour with ticket |
+| Strict fixed time | Yes, at the Nasrid Palaces (30-min window) | Only the entry slot |
+| What it is | Nasrid palace city: palaces, fortress and gardens | Mudéjar palace still in use, with huge gardens |
+| Highlights | Nasrid Palaces and views from the Alcazaba | Courtyard of the Maidens, Hall of the Ambassadors and gardens |
+| Free | No general free time slot | Mondays, last opening hour, booking online |
 
-## Why the Alhambra wins if you only pick one
+## Why the Alhambra wins if you only choose one
 
-The Alhambra isn't a palace so much as a walled city on a hill, made of three parts that would each be a full visit anywhere else:
+The Alhambra isn't a palace: it's a walled city on a hill, with three parts that anywhere else would each be a visit in their own right.
 
-- **The Nasrid Palaces:** the Mexuar, the Comares Palace with the Court of the Myrtles, and the Court of the Lions. They are the best-preserved medieval Islamic interiors in Western Europe, and the carved plaster and honeycomb domes look nothing like the photos.
-- **The Alcazaba:** the military quarter, with the Torre de la Vela and the best view over the Albaicín and, in winter, a snowy Sierra Nevada.
-- **The Generalife:** the sultans' summer estate, with the Court of the Water Channel.
+- **The Nasrid Palaces:** the Mexuar, the Comares Palace with the Court of the Myrtles, and the Court of the Lions. They're the best-preserved medieval Islamic interiors in Western Europe.
+- **The Alcazaba:** the military part, with the Torre de la Vela and the best view over the Albaicín and, in winter, snow-capped Sierra Nevada.
+- **The Generalife:** the sultans' country estate, with the Court of the Water Channel (Patio de la Acequia).
 
-The trade-off is logistics. Your ticket gives you **a fixed time for the Nasrid Palaces** with just 30 minutes of grace, the full visit takes **about 4 hours**, and there's a fair amount of uphill walking. Tickets go on sale three months out and spring mornings vanish weeks ahead. If you plan early, none of that matters. If you're booking late, it does.
+The price of that grandeur is logistics: **a fixed time for the Nasrid Palaces** with only a 30-minute window, **about 4 hours** of visiting with plenty of slopes, and tickets released up to three months ahead whose spring mornings vanish weeks in advance. To choose a format, see [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
 
-To choose a format, see [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit). If you want someone to explain what you're looking at, the most-booked option is the [guided tour of the Alhambra and Nasrid Palaces](/en/cities/granada/activities/alhambra-generalife-guided-tour).
+## Why the Alcázar may be your answer
 
-[actividad: visita-guiada-alhambra-generalife]
+The Real Alcázar is the **oldest royal palace still in use in Europe**. Its star, the Palace of Peter I (1364), was built by craftsmen who had worked in Granada and Toledo: it recalls the Alhambra without being a copy, with Arabic inscriptions beside the arms of Castile, the **Courtyard of the Maidens** and the golden dome of the **Hall of the Ambassadors**.
 
-## Why the Alcázar might be your answer
+Where it clearly wins is the **gardens**: they cover more than half the site, are flat and shady, and have the Grotto Gallery. They were the Water Gardens of Dorne in *Game of Thrones*.
 
-The Royal Alcázar is **the oldest royal palace still in use in Europe**. Its centrepiece, the Palace of Peter I (1364), was built by craftsmen who had worked in Granada and Toledo, which is why it recalls the Alhambra without copying it. You'll see Arabic inscriptions beside Castilian coats of arms, the sunken pool of the **Courtyard of the Maidens** and the gilded dome of the **Hall of Ambassadors**.
+And on logistics it wins on every count:
 
-Where it clearly wins is the **gardens**: more than half the site, flat, shaded in places, with the Grotesque Gallery. *Game of Thrones* fans will recognise them as the Water Gardens of Dorne.
+- **Cheaper:** €15.50 vs €22.27. The **Cuarto Real Alto**, the rooms still used by the Royal Family, costs €5.50 extra.
+- **Shorter:** 2.5-3 hours, right in the centre, opposite the Cathedral.
+- **Easier to get:** even if the website shows sold out, the Patio de Banderas ticket office keeps a few same-day tickets per slot. We explain it in [Alcázar of Seville tickets sold out](/en/guides/sevilla/alcazar-of-seville-tickets-sold-out).
+- **Free on Mondays:** in the last opening hour, booking online, and places go fast.
 
-On logistics it wins across the board:
+All the details in [how to visit the Alcázar of Seville](/en/guides/sevilla/alcazar-of-seville-how-to-visit).
 
-- **Cheaper:** €15.50 vs €22.27. The **Upper Royal Quarters**, still used by the Spanish royal family, cost €5.50 extra.
-- **Shorter:** 2.5–3 hours, right in the centre, opposite the cathedral.
-- **Easier to get into:** even when the website shows sold out, the ticket office on Patio de Banderas keeps a few tickets per slot for the same day. More in [Alcázar of Seville tickets sold out](/en/guides/sevilla/alcazar-of-seville-tickets-sold-out).
-- **Free on Mondays:** during the last opening hour, booked online, and spots go fast.
+## Alhambra or Alcázar: which to visit for your trip
 
-If you don't want a guide, a [timed Royal Alcázar entry ticket](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket) is the simplest option. If you're also seeing the cathedral, the [priority-access tour of the Cathedral, Giralda and Alcázar](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour) takes care of the whole morning. Everything else is in [how to visit the Alcázar of Seville](/en/guides/sevilla/alcazar-of-seville-how-to-visit).
+**Choose the Alhambra if…**
 
-## Who should pick which
+- It's your first trip to Andalusia and you'll pass through Granada.
+- You can book at least two or three weeks ahead, or pay for a guided tour with the ticket included.
+- You're interested in the history of al-Andalus and want to see the original, not its echo.
+- You have a whole morning and don't mind walking.
 
-**Pick the Alhambra if…**
+**Choose the Alcázar if…**
 
-- It's your first trip to Andalusia and Granada is on the route.
-- You can book at least two or three weeks ahead, or pay for a guided tour that includes the ticket.
-- You care about the history of al-Andalus and want the original, not the echo.
-- You have a full morning and don't mind walking.
-
-**Pick the Alcázar if…**
-
-- Your trip is Seville and Granada isn't on it. Don't cross Andalusia just to compare.
-- You're travelling with kids, older relatives or anyone with limited mobility.
-- You've decided late and the Alhambra is sold out for your dates.
-- You'd rather wander gardens than keep to a timetable.
+- Your trip is Seville and Granada isn't on it: don't cross Andalusia just to compare.
+- You're travelling with children, older people or anyone with limited mobility.
+- You decided late and the Alhambra is sold out for your dates.
+- You'd rather stroll through gardens than keep to a schedule.
 
 ## What if I want to see both?
 
-That's the ideal, and they overlap less than you'd think. Seville and Granada are 2.5 to 3 hours apart by train or bus, so the comfortable plan is at least one night in each: [Granada in 2 days](/en/guides/granada/granada-in-2-days) and [Seville in 1 day](/en/guides/sevilla/seville-in-1-day) fit neatly into a five-day trip.
+That's ideal, and they overlap less than you'd think. Seville and Granada are 2.5-3 hours apart by train or bus, so it's easiest to spend at least one night in each city: [Granada in 2 days](/en/guides/granada/granada-in-2-days) and [Seville in 1 day](/en/guides/sevilla/seville-in-1-day) fit into a five-day trip.
 
-If you have the choice, see the Alcázar first and the Alhambra second. That way the Alcázar stands on its own and the Alhambra lands as the finale; the other way round, the Alcázar can feel small.
+- **Order:** the Alcázar first, then the Alhambra. That way the Alcázar stands as a palace with its own story and the Alhambra comes as the climax; the other way round, the Alcázar feels small.
+- **Day trip from Seville:** it exists, but it's about 6 hours of travel for 4 hours of visiting. Only worth it with your Nasrid Palaces time already matched to the trains.
 
-A day trip from Seville to the Alhambra is possible, but it means about 6 hours of travel for 4 hours of visit. We'd only do it with your Nasrid Palaces slot already lined up with the trains.
+## If the Alhambra is already sold out, and common mistakes
 
-## If the Alhambra is already sold out
-
-Before switching plans, check the official site the evening before, the Granada Card, and guided tours that include the ticket. If only evenings are left, the [Nasrid Palaces night visit](/en/cities/granada/activities/alhambra-night-tour) is a different experience, not a fallback. We go through it step by step in [Alhambra tickets sold out](/en/guides/granada/alhambra-tickets-sold-out) and compare operators in [which Alhambra tour to choose](/en/guides/granada/alhambra-which-tour-to-choose).
+Before changing plans, check the official site the evening before, the Granada Card and guided tours that include the ticket. If only nights are left, the Nasrid Palaces night visit is a different experience, not a stopgap. We explain it in [Alhambra tickets sold out](/en/guides/granada/alhambra-tickets-sold-out) and compare operators in [which Alhambra tour to choose](/en/guides/granada/alhambra-which-tour-to-choose).
 
 [actividad: entrada-y-tour-guiado-alhambra]
 
-## Common mistakes
+**Common mistakes:**
 
-1. **Assuming they're "the same" and skipping one when you have time.** If you're in both cities, see both.
-2. **Booking the Alhambra without checking the Nasrid slot.** Miss it and you miss the palaces; from the entrance it can take up to 45 minutes on foot.
-3. **Visiting the Alcázar at midday in summer.** The gardens top 40 °C in July: go at 9:30 or late in the day.
-4. **Forgetting your ID.** Both tickets are issued in your name and checked at the gate.
-
-## The short version
-
-Time to plan and Granada on the route: the Alhambra. Short on time, travelling with kids or Seville only: the Alcázar. And if you can, do both, Seville first and Granada second.
+1. **Thinking they're "the same" and skipping one when you have time.** If you're in both cities, visit both.
+2. **Booking the Alhambra without checking your Nasrid Palaces time.** Arriving late means losing them, and it can take up to 45 minutes to walk there from the entrance.
+3. **Visiting the Alcázar at midday in summer.** The gardens exceed 40 °C in July: go in at 9:30 or at the end of the day.
+4. **Forgetting your ID.** Both tickets are in your name.

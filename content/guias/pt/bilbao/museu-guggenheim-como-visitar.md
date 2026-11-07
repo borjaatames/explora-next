@@ -4,13 +4,13 @@ descripcion: "Como visitar o Guggenheim de Bilbau: bilhetes e horários, o que v
 categoria: "bilbao"
 slug: "museu-guggenheim-como-visitar"
 fecha: "2026-03-24"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/museo-guggenheim-como-visitar.jpg"
 imagen_alt: "Museu Guggenheim junto à ria de Bilbau"
-tiempo_lectura: 11
+tiempo_lectura: 3
 keywords:
   - "museu guggenheim bilbau"
   - "guggenheim bilbau bilhetes"
@@ -24,88 +24,75 @@ slugs:
   fr: musee-guggenheim-bilbao-comment-le-visiter
   it: museo-guggenheim-come-visitarlo
   pt: museu-guggenheim-como-visitar
-respuestaCorta: 'O exterior é gratuito: **o Puppy, a Maman e o titânio de Gehry** veem-se melhor ao pôr do sol. No interior, conte com **2-2,5 horas** e vá direto a *The Matter of Time*, de Richard Serra. O bilhete de adulto custa **12-18 € consoante as exposições patentes** (menores de 18 grátis, audioguia incluído); reserve online um horário marcado. Fecha na maioria das segundas-feiras.'
+intro: 'O **Museu Guggenheim Bilbau** é a obra de titânio de Frank Gehry que, desde 1997, transformou uma cidade industrial num ícone mundial do design. Cá fora, de graça, esperam-te o **Puppy**, a **Maman** e a escultura de nevoeiro; lá dentro, o grande átrio, *The Matter of Time* de Richard Serra e exposições temporárias de primeira linha. Fica a 20 minutos a pé do Casco Viejo e a visita interior leva **2-2,5 horas**.'
+respuestaCorta: 'O exterior do **Museu Guggenheim Bilbau** é grátis: **o Puppy, a Maman e o titânio** ficam melhor ao pôr do sol. Lá dentro, conta com **2-2,5 horas**. O bilhete custa **12-18 € consoante as exposições** (menores de 18 grátis, audioguia incluído) e compra-se online com horário. Fecha às segundas, exceto em julho, agosto e pontes.'
 reservasArriba: true
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido
   - guggenheim-bilbao-private-tour-guide-ticket
+faq:
+- pregunta: Quanto tempo é preciso para ver o Guggenheim de Bilbau?
+  respuesta: Conta com 2-2,5 horas lá dentro, concentrando-te em The Matter of Time de Richard Serra, no átrio e na exposição temporária que te interessar. Para o exterior e as esculturas, junta meia hora de passeio pela ria.
+- pregunta: Quanto custa o bilhete do Guggenheim?
+  respuesta: Entre 12 e 18 € consoante as exposições (12 € em outubro de 2026), com audioguia incluído. Há tarifa reduzida para estudantes e maiores de 65, e os menores de 18 entram de graça.
+- pregunta: Pode ver-se o Guggenheim de graça?
+  respuesta: 'O exterior, sim: o edifício de Gehry, o Puppy de Jeff Koons, a Maman de Louise Bourgeois, Tulips, Tall Tree & The Eye de Anish Kapoor e a escultura de nevoeiro veem-se sem pagar. As salas são pagas.'
+- pregunta: Em que dia fecha o Guggenheim?
+  respuesta: Às segundas-feiras, exceto em julho, agosto e pontes, e sempre a 25 de dezembro e 1 de janeiro. Confirma o calendário do museu antes de ir a uma segunda.
+- pregunta: Como se chega ao Guggenheim?
+  respuesta: De metro até Moyua (L1 e L2) e 7 minutos a pé, ou de elétrico até à paragem Guggenheim, à porta. Do Casco Viejo são 20 minutos a pé pela ria.
 ---
 
-**O Guggenheim não é só um museu: é o edifício que mudou Bilbau.** A obra em titânio de Frank Gehry, inaugurada em 1997, transformou uma cidade industrial num ícone mundial do design, o famoso «efeito Bilbau». Por isso a visita tem duas partes que não deve confundir: **o edifício e as suas esculturas (gratuito, no exterior)** e **as salas (pago, no interior)**. Este guia ajuda-o a tirar o máximo partido de ambas.
+O Guggenheim tem duas visitas que convém não confundir: **o edifício e as suas esculturas, grátis por fora**, e **as salas, pagas, por dentro**. Mesmo que não entres, o exterior já vale a viagem.
 
-## Visitas guiadas ao Guggenheim
+## O que ver dentro do Museu Guggenheim
 
-| Atividade | Avaliação | Desde |
-| --- | --- | --- |
-| [Visita guiada ao Guggenheim com bilhete (só em espanhol)](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) | 4,9★ (182) | 49 € |
-| [Guggenheim VIP em grupo reduzido (10 línguas)](/pt/cities/bilbao/activities/guggenheim-bilbao-visita-vip-grupo-reduzido) | 4,5★ (763) | 95 € |
+Não tentes «ver tudo» à pressa. Dá prioridade a:
 
-Qual lhe convém:
+- **The Matter of Time, de Richard Serra**, no piso térreo: enormes lâminas de aço curvado por onde se caminha. É a obra permanente imprescindível e a que mais impressiona.
+- **O átrio**, o espetacular vazio central de 50 metros.
+- **As exposições temporárias**, que rodam e costumam ser de primeira linha. Vê o cartaz antes de ir: podem fazer pender a balança.
 
-- **Fala espanhol:** a visita de 49 € dura 1,5-2 horas com um historiador de arte, bilhete sem fila incluído, e depois pode ficar no museu até ao fecho.
-- **Prefere inglês ou outra língua:** a visita VIP limita os grupos a 8 (muitas vezes 2-4), é feita numa só língua sem traduções e percorre o exterior e as salas em 2-2,5 horas.
-- **Por conta própria:** o audioguia incluído é bom. Um guia compensa sobretudo se a arte moderna costuma deixá-lo indiferente.
+Conta com **2-2,5 horas** lá dentro. O audioguia está incluído e vale a pena.
 
-Ambas as visitas têm cancelamento gratuito até 24 horas antes.
+## O Puppy e o exterior grátis
 
-A regra de ouro: mesmo que não entre, só o exterior já vale a viagem. E se entrar, vá ao que realmente interessa, não a «ver tudo».
+O próprio edifício, refletido na ria, é a atração. À volta, sem bilhete:
 
-## O que ver no exterior (gratuito)
+- **Puppy**, o cão gigante de flores de Jeff Koons, na entrada principal.
+- **Maman**, a aranha de bronze de Louise Bourgeois, junto à ria.
+- **Tulips**, de Koons, e **Tall Tree & The Eye**, de Anish Kapoor.
+- A **fonte de fogo** de Yves Klein, que se acende ao anoitecer, e a **escultura de nevoeiro** de Fujiko Nakaya, que envolve o edifício a horas fixas (costuma ser de hora a hora; pergunta no balcão). Vê-as da passarela da ria.
 
-O próprio edifício, refletido na ria, é a atração. À sua volta, sem bilhete:
+A melhor hora para o exterior é o **pôr do sol**, quando o titânio fica dourado e as cores se refletem na água.
 
-- **«Puppy»**, o cão gigante de flores de Jeff Koons, na entrada principal.
-- **«Maman»**, a aranha de bronze de Louise Bourgeois, junto à ria.
-- **«Tulips»**, de Koons, e **«Tall Tree & the Eye»**, de Anish Kapoor.
-- A **fonte de fogo** de Yves Klein, que se acende ao anoitecer, e a **escultura de nevoeiro** de Fujiko Nakaya, que envolve o edifício a horas fixas (pergunte no balcão de informações; costuma ser de hora a hora). Veja ambas a partir do passeio junto à ria.
+## Bilhetes do Guggenheim e horários
 
-**Dica:** o melhor momento para o exterior é **o pôr do sol**, quando o titânio fica dourado e as cores se refletem na água. Atravesse para a margem oposta da ria para a fotografia clássica do edifício inteiro.
+- **Bilhete normal:** **12-18 €** consoante as exposições (12 € em outubro de 2026), com audioguia incluído. Reduzido para estudantes e maiores de 65. **Menores de 18, grátis.**
+- **Compra online com horário marcado** e entras sem fila; a bilheteira funciona, mas na época alta há espera.
+- **Horário:** de terça a domingo, das **10:00 às 19:00**, até às 20:00 no verão.
+- **Fecha às segundas-feiras**, exceto em julho, agosto e pontes; a 25 de dezembro e 1 de janeiro, sempre.
+- **Melhor momento:** logo de manhã num dia útil ou a partir das 17:00. Ao sábado ao meio-dia há mais gente.
+- **Bengaleiro:** gratuito e obrigatório para mochilas e guarda-chuvas. Pode entrar-se com carrinho de bebé.
 
-## O que ver no interior
-
-Se entrar, dê prioridade a:
-
-- **«The Matter of Time», de Richard Serra**, no piso térreo: enormes chapas de aço curvo por entre as quais se caminha. É a obra permanente imperdível e a mais impressionante.
-- O **átrio**, o espetacular vazio central de 50 metros.
-- As **exposições temporárias**, que vão mudando e costumam ser de primeiro nível. Consulte a programação antes de ir: podem fazer pender a balança da visita e também determinam o preço do bilhete.
-
-Conte com **2-2,5 horas** no interior. O audioguia está incluído e vale a pena.
-
-## Bilhetes e horários
-
-| Dado | Informação |
-| --- | --- |
-| Bilhete de adulto | **12-18 €**, consoante as exposições patentes (12 € em outubro de 2026) |
-| Reduzido | Metade do preço para estudantes dos 18 aos 25 anos e maiores de 65 |
-| Menores de 18 | **Grátis**, mas precisam de bilhete na mesma |
-| Combinado com o Museu de Belas Artes | 16 € adultos, 8 € reduzido (no outono de 2026) |
-| Audioguia | Incluído em todos os bilhetes |
-| Horário | De terça a domingo, 10h00-19h00; até às 20h00 na Páscoa e no verão |
-| Segundas-feiras | Fechado, exceto no verão e em algumas segundas-feiras de feriado |
-| Sempre fechado | 25 de dezembro e 1 de janeiro |
-
-- **Compre online** no site oficial com horário marcado e entre diretamente. A bilheteira funciona, mas na época alta e aos fins de semana há fila. Os bilhetes emitidos não são reembolsáveis.
-- **Melhor hora:** logo de manhã num dia de semana, ou depois das 17h00. O sábado por volta do meio-dia é o mais concorrido.
-- **Bengaleiro:** gratuito e obrigatório para mochilas e guarda-chuvas. Os carrinhos de bebé são permitidos.
-- **Como chegar:** metro até Moyua (linhas 1 e 2) e 7 minutos a pé, ou o elétrico até à paragem Guggenheim, junto à porta. Da Parte Velha são 20 minutos a pé ao longo da ria.
+Se preferires que alguém te explique as obras, há visita guiada com bilhete incluído:
 
 [actividad: guggenheim-bilbao-visita-guiada-entrada]
 
-## Como combiná-lo
+## Como chegar e com o que combinar
 
-O Guggenheim fica no Ensanche, junto à ria, a um passeio da Parte Velha. A cinco minutos fica o **Museu de Belas Artes**, excelente e muito menos visitado. Se gosta de arte, é a combinação perfeita, e o bilhete combinado poupa-lhe dinheiro; o Museu de Belas Artes reabriu a 6 de outubro de 2026 depois de um encerramento para ampliação. Incluímos ambos como primeira paragem em [Bilbau num dia](/en/guides/bilbao/bilbao-in-one-day).
+- **Metro:** Moyua (L1 e L2) e 7 minutos a pé.
+- **Elétrico:** paragem Guggenheim, à porta.
+- **A pé:** 20 minutos do Casco Viejo pela ria.
 
-## Erros a evitar
+O museu fica no Ensanche. A cinco minutos está o **Museu de Belas Artes**, excelente e muito menos visitado: se gostas de arte, é o par perfeito. Encaixamo-lo como primeira paragem em [Bilbau num dia](/pt/guides/bilbao/bilbau-num-dia).
 
-1. **Achar que tem de entrar para o desfrutar.** O exterior e as esculturas são gratuitos e espetaculares.
-2. **Comprar o bilhete na bilheteira na época alta.** Uma fila desnecessária; reserve online.
-3. **Tentar «ver tudo» à pressa.** Vá direto a Serra, ao átrio e à exposição temporária que lhe interessar.
-4. **Ir numa segunda-feira** sem consultar o calendário.
-5. **Não consultar a exposição temporária.** Pode ser o melhor da visita ou não lhe interessar nada.
-6. **Saltar o Museu de Belas Artes por falta de tempo.** Fica ao lado e vale muito a pena.
-7. **Pagar pelas crianças.** Os menores de 18 são grátis; basta acrescentar os bilhetes deles sem custo.
+## Conselhos e erros típicos
 
-## Numa frase
-
-O Guggenheim desfruta-se de graça por fora (o Puppy, a Maman e o titânio ao pôr do sol) e com critério por dentro, com «The Matter of Time», de Serra, como grande imperdível. É o coração de qualquer visita a [Bilbau](/en/guides/bilbao/bilbao-in-one-day).
+1. **Pensar que é preciso entrar para o aproveitar.** O exterior e as esculturas são grátis e espetaculares.
+2. **Comprar na bilheteira na época alta.** Fila desnecessária: reserva online.
+3. **Não ver a exposição temporária.** Pode ser o melhor da visita ou não te interessar; informa-te antes.
+4. **Ir a uma segunda-feira** sem confirmar o calendário.
+5. **Saltar o Belas Artes por falta de tempo.** Fica ao lado e compensa muito.
+6. **Esquecer que os menores entram de graça.** Não pagues bilhetes a mais em família.

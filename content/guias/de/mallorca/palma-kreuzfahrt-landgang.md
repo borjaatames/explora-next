@@ -5,13 +5,13 @@ metaTitle: "Palma Kreuzfahrt-Landgang: Hafen, Bus, Sehenswertes"
 categoria: "mallorca"
 slug: "palma-kreuzfahrt-landgang"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/mallorca/fma-palma/catedral-palma-desde-mar.webp"
 imagen_alt: "Die Kathedrale von Palma über den Dächern der Altstadt, mit Wasser im Vordergrund und bewölktem Himmel"
-tiempo_lectura: 7
+tiempo_lectura: 6
 keywords:
   - "palma kreuzfahrt landgang"
   - "palma kreuzfahrthafen"
@@ -28,18 +28,19 @@ slugs:
   it: porto-crociere-palma-cosa-fare
   pt: porto-de-palma-cruzeiros-o-que-fazer
 reservasArriba: true
-respuestaCorta: "Kreuzfahrtschiffe legen am **Muelle de Poniente** (Terminals 1 bis 4, etwa 3 km bis zur Kathedrale) oder am **Dique del Oeste** (Terminals 5 und 6, etwa 4-5 km) an. In die Stadt kommst du mit dem **EMT-Bus Linie 1 (2 €)**, mit dem Taxi (**etwa 11-15 €**) oder von Poniente aus in 40 Minuten zu Fuß. In **4-6 Stunden** schaffst du Kathedrale und Altstadt; ab **8 Stunden** auch den **Zug nach Sóller** oder Valldemossa."
+intro: 'Ein **Kreuzfahrt-Landgang in Palma** gehört zu den bequemsten im Mittelmeer: Der Hafen liegt in der Bucht, die **Kathedrale** sieht man schon vom Deck, und in 20-30 Minuten bist du ohne Ausflug in der Altstadt. Ein paar Stunden reichen für La Seu, die herrschaftlichen Innenhöfe und das Castell de Bellver; an einem langen Tag schaffst du sogar die Fahrt mit dem Holzzug nach Sóller.'
+respuestaCorta: 'Beim Landgang in Palma legen Kreuzfahrtschiffe am **Muelle de Poniente** (3 km von der Kathedrale) oder am **Dique del Oeste** (4-5 km) an. Ins Zentrum: **EMT-Bus Linie 1 (2 €)**, Taxi (**11-15 €**) oder 40 Minuten zu Fuß ab Poniente. Mit **4-6 Stunden** siehst du Kathedrale und Altstadt, mit **8 oder mehr** den **Zug nach Sóller**.'
 faq:
-  - pregunta: "Kann man vom Kreuzfahrthafen Palma zu Fuß zur Kathedrale gehen?"
-    respuesta: "Vom Muelle de Poniente ja: etwa 3 km flach über den Paseo Marítimo, rund 40 Minuten. Vom Dique del Oeste sind es 4-5 km, und das erste Stück führt an der Hafenstraße entlang. Nimm dort lieber den EMT-Bus 1 oder ein Taxi."
-  - pregunta: "Was kostet ein Taxi vom Hafen in die Altstadt von Palma?"
-    respuesta: "Nach dem offiziellen Tarif auf Mallorca (2,50 € Grundgebühr, 1,20 € pro km tagsüber und 4,65 € Hafenzuschlag) kostet die Fahrt zur Kathedrale etwa 11-15 €. Nachts und an Feiertagen steigt der Kilometerpreis auf 1,35 €."
-  - pregunta: "Reicht ein Landgang für den Zug nach Sóller?"
-    respuesta: "Nur mit mindestens 8 Stunden an Land. Der Zug braucht etwa eine Stunde ab der Plaça d'Espanya, der Endhaltestelle des EMT-Busses 1. Nimm den Zug um 10:10 oder 10:50 und fahr spätestens um 14:00 zurück. Im Winter ist die Strecke einige Wochen wegen Wartung geschlossen."
-  - pregunta: "Hat die Kathedrale von Palma sonntags geöffnet?"
-    respuesta: "Nicht für Besichtigungen: Sonntags ist sie nur zum Gottesdienst geöffnet. Von April bis November öffnet sie montags bis freitags von 10:00 bis 17:15 und samstags von 10:00 bis 14:15 Uhr; von Dezember bis März schließt sie werktags um 15:15 Uhr."
-  - pregunta: "Lohnt sich in Palma der Ausflug der Reederei oder lieber auf eigene Faust?"
-    respuesta: "In Palma ist der Landgang auf eigene Faust einfach und viel günstiger: Das Zentrum ist nah, der Bus unkompliziert. Der Schiffsausflug lohnt sich nur für weit entfernte Ziele wie Sóller oder Formentor bei kurzer Liegezeit, denn das Schiff wartet auf die eigenen Ausflüge, wenn sie sich verspäten."
+- pregunta: Kann man vom Hafen in Palma zu Fuß zur Kathedrale gehen?
+  respuesta: 'Vom Muelle de Poniente ja: etwa 3 km flach über den Paseo Marítimo, rund 40 Minuten. Vom Dique del Oeste sind es 4-5 km, und der erste Abschnitt führt an der Hafenstraße entlang, daher lohnt sich der EMT-Bus 1 oder ein Taxi.'
+- pregunta: Was kostet ein Taxi vom Hafen ins Zentrum von Palma?
+  respuesta: Mit dem offiziellen Tarif auf Mallorca (2,50 € Grundgebühr, 1,20 € pro km tagsüber und 4,65 € Hafenzuschlag) kostet die Fahrt zur Kathedrale etwa 11-15 €. Nachts und an Feiertagen steigt der Kilometerpreis auf 1,35 €.
+- pregunta: Reicht die Zeit für den Zug nach Sóller während des Landgangs?
+  respuesta: 'Nur mit 8 Stunden oder mehr. Der Zug braucht etwa eine Stunde ab der Plaça d''Espanya, der Endhaltestelle der EMT-Linie 1. Nimm einen der ersten (10:10 oder 10:50) und fahr spätestens um 14:00 Uhr zurück. Achtung: Im Winter pausiert der Zug einige Wochen wegen Wartung.'
+- pregunta: Ist die Kathedrale von Palma am Sonntag geöffnet?
+  respuesta: 'Nicht für touristische Besuche: Sonntags kommt man nur zum Gottesdienst hinein. Von April bis November öffnet sie Montag bis Freitag von 10:00 bis 17:15 Uhr und samstags von 10:00 bis 14:15 Uhr; von Dezember bis März schließt sie werktags um 15:15 Uhr.'
+- pregunta: Schiffsausflug oder auf eigene Faust in Palma?
+  respuesta: 'In Palma ist es einfach und viel günstiger, auf eigene Faust loszuziehen: Das Zentrum ist nah und der Verkehr unkompliziert. Der Schiffsausflug lohnt sich nur für weite Ziele (Sóller, Formentor) bei kurzem Aufenthalt, denn das Schiff wartet auf seine eigenen Ausflüge, wenn sie sich verspäten.'
 actividades:
   - palma-visita-guiada-casco-antiguo
   - catedral-palma-mallorca-entrada
@@ -50,106 +51,73 @@ actividades:
   - cartuja-valldemossa-entrada-audioguia
 ---
 
-Palma ist einer der bequemsten Kreuzfahrthäfen im Mittelmeer: Der Hafen liegt mitten in der Bucht, die Kathedrale siehst du schon vom Deck aus, und in 20-30 Minuten bist du ohne Schiffsausflug in der Altstadt. Hier erfährst du, wo dein Schiff anlegt, wie du ins Zentrum kommst und was in deine Liegezeit passt.
-
 ## Wo legen Kreuzfahrtschiffe in Palma an?
 
-Der Hafen von Palma hat zwei Bereiche für Kreuzfahrtschiffe, beide westlich der Innenstadt:
+Der Hafen von Palma hat zwei Kreuzfahrtbereiche, beide im Westen der Stadt:
 
-| Bereich | Terminals | Entfernung zur Kathedrale | So kommst du hin |
+| Bereich | Terminals | Entfernung zur Kathedrale | Wie hinkommen |
 | --- | --- | --- | --- |
 | **Muelle de Poniente** (Avinguda Gabriel Roca) | Terminals 1 bis 4 | Etwa 3 km | 40 Min. zu Fuß, EMT-Bus 1 oder Taxi |
 | **Dique del Oeste** (Dic de l'Oest) | Terminals 5 und 6, für die größten Schiffe | Etwa 4-5 km | EMT-Bus 1, Shuttle der Reederei oder Taxi |
 
-Welcher es bei dir ist, steht im Tagesprogramm an Bord. Große Schiffe liegen meist am Dique del Oeste, der weiter draußen liegt und sich nicht zum Laufen eignet.
+Schau im Tagesprogramm deines Schiffs nach, welcher es ist: Die großen Schiffe liegen meist am Dique del Oeste, der weiter draußen liegt und nicht zum Laufen einlädt.
 
 ## Wie kommst du vom Kreuzfahrthafen in die Altstadt?
 
-- **EMT-Bus Linie 1.** Er verbindet den Dique del Oeste und die Passagierterminals mit der Uferpromenade, dem Passeig de Mallorca und der **Plaça d'Espanya** (dort fahren der Zug nach Sóller und die Überlandbusse ab). Die ganze Strecke dauert etwa 30 Minuten. Das Einzelticket kostet **2 €** und wird im Bus bar oder mit Karte bezahlt; die Stadt hat vorgeschlagen, es für Fahrgäste ohne Verkehrskarte auf 3 € zu erhöhen, der Preis kann sich also ändern. Für die Kathedrale steigst du am Paseo Marítimo oder am Passeig de Mallorca aus und gehst 10-15 Minuten.
-- **Shuttle der Reederei.** Viele Reedereien bieten einen Bus ins Zentrum an, manchmal inklusive, manchmal gegen Aufpreis. Frag an Bord nach Preis und Abfahrtsort für die Rückfahrt.
-- **Taxi.** An den Terminals gibt es einen Taxistand. Nach dem offiziellen Tarif von 2025 (2,50 € Grundgebühr, 1,20 € pro km und 4,65 € Hafenzuschlag) zahlst du bis zur Kathedrale **etwa 11-15 €**. Wenn mehrere Schiffe da sind, bilden sich Schlangen.
-- **Bus Nàutic.** Seit dem 1. November 2026 fahren im Hafen zwei Bootslinien für Kreuzfahrtgäste, für **10 € pro Strecke** (18 € hin und zurück). Weil der Dienst ganz neu ist, prüf Haltestellen und Zeiten vor Ort.
-- **Zu Fuß.** Von Poniente aus ist die Promenade flach und hat Blick auf die Bucht, im Sommer gibt es aber kaum Schatten.
+- **EMT-Bus Linie 1.** Verbindet den Dique del Oeste und die Terminals mit dem Paseo Marítimo, dem Passeig de Mallorca und der **Plaça d'Espanya** (Bahnhof des Sóller-Zugs und der Inselbusse). Die ganze Strecke dauert etwa 30 Minuten. Das Ticket kostet **2 €** und wird an Bord bar oder mit Karte bezahlt; die Stadt hat vorgeschlagen, es für Fahrgäste ohne Verkehrskarte auf 3 € zu erhöhen, das kann sich also ändern. Für die Kathedrale am Paseo Marítimo oder Passeig de Mallorca aussteigen und 10-15 Minuten laufen.
+- **Shuttle der Reederei.** Viele Reedereien setzen einen Bus ins Zentrum ein, mal inklusive, mal kostenpflichtig. Frag an Bord nach Preis und Rückfahrpunkt.
+- **Taxi.** An den Terminals gibt es einen Taxistand. Mit dem offiziellen Tarif (2,50 € Grundgebühr, 1,20 € pro km und 4,65 € Hafenzuschlag) zahlst du bis zur Kathedrale **etwa 11-15 €**. Wenn mehrere Schiffe da sind, bilden sich Schlangen.
+- **Bus Nàutic.** Am 1. November 2026 starteten zwei Bootslinien im Hafen für Kreuzfahrtgäste, für **10 € pro Fahrt** (18 € hin und zurück). Da der Dienst neu ist, Haltestellen und Zeiten im Hafen prüfen.
+- **Zu Fuß.** Ab Poniente ist der Paseo Marítimo flach und bietet Blick auf die Bucht, im Sommer gibt es aber wenig Schatten.
 
-## Was du in Palma in 4, 6 oder 8 Stunden schaffst
+## Was du beim Palma-Landgang in 4, 6 oder 8 Stunden schaffst
 
 Rechne immer mit der echten Zeit an Land: vom Verlassen des Schiffs bis eine Stunde vor „All aboard“.
 
-| Zeit an Land | Unser Vorschlag |
+| Zeit an Land | Empfohlener Plan |
 | --- | --- |
-| **4 Stunden** | Bus oder Taxi ins Zentrum, die **Kathedrale** von innen (1 Std.), der Almudaina-Palast von außen, der Parc de la Mar und ein Bummel durch die Altstadt bis zum Born. Zurück mit Puffer. |
-| **6 Stunden** | Dazu eine **Altstadtführung** oder eine Tapas-Tour und auf dem Rückweg das **Castell de Bellver**: Es liegt auf dem Hügel über dem Hafen, wenige Taximinuten entfernt. |
-| **8 Stunden oder mehr** | Der **Zug nach Sóller** ab der Plaça d'Espanya und die Straßenbahn nach Port de Sóller, oder **Valldemossa** mit dem Bus; alternativ ein Halbtagesausflug zu den **Cuevas del Drach**. |
+| **4 Stunden** | Bus oder Taxi ins Zentrum, **Kathedrale** von innen (1 Std.), Almudaina-Palast von außen, Parc de la Mar und Bummel durch die Altstadt bis zum Born. |
+| **6 Stunden** | Dazu eine **Altstadtführung** oder Tapas-Tour und auf dem Rückweg das **Castell de Bellver** auf dem Hügel über dem Hafen. |
+| **8 Stunden oder mehr** | **Sóller-Zug** und Straßenbahn nach Port de Sóller, oder **Valldemossa** mit dem Bus; oder die **Cuevas del Drach** als Halbtagesausflug. |
 
-### Kathedrale, Altstadt und Bellver
-
-- **Kathedrale (La Seu).** Von April bis November montags bis freitags 10:00-17:15 Uhr, samstags 10:00-14:15 Uhr. Vom 1. Dezember bis 31. März schließt sie werktags um 15:15 Uhr. **Sonntags gibt es keine Besichtigung.** Bei kurzer Liegezeit kauf das Ticket vorher, dann sparst du dir die Schlange an der Kasse.
+**Kathedrale (La Seu).** Von April bis November Montag bis Freitag 10:00-17:15 Uhr und samstags 10:00-14:15 Uhr; vom 1. Dezember bis 31. März schließt sie werktags um 15:15 Uhr. **Sonntags keine touristischen Besuche.** Bei kurzem Landgang das Ticket vorab kaufen, dann sparst du dir die Schlange an der Kasse.
 
 [actividad: catedral-palma-mallorca-entrada]
 
-- **Altstadt.** Hinter der Kathedrale beginnen die Herrenhäuser mit ihren Innenhöfen, die Arabischen Bäder und die Gassen hinauf zur Plaça Major und zum Born. Mit Guide verstehst du sie in weniger als zwei Stunden.
+**Altstadt.** Hinter der Kathedrale beginnen die herrschaftlichen Innenhöfe, die Arabischen Bäder und die Gassen zur Plaza Mayor und zum Born. Mit Guide verstehst du sie in weniger als zwei Stunden.
 
-[actividad: palma-visita-guiada-casco-antiguo]
+**Castell de Bellver.** Die runde Burg mit Blick auf die Bucht kostet **4 €** und ist **montags geschlossen**. Dienstag bis Samstag 10:00-18:00 Uhr, sonntags 10:00-15:00 Uhr bei freiem Eintritt. Kein Stadtbus fährt bis zum Tor: Vom Hafen aus ist ein Taxi am praktischsten.
 
-- **Castell de Bellver.** Die runde Burg mit Blick über die Bucht kostet **4 €**, ist **montags geschlossen** und sonntags von 10:00 bis 15:00 Uhr bei freiem Eintritt geöffnet. Dienstags bis samstags von 10:00 bis 18:00 Uhr. Kein Stadtbus fährt bis zum Tor, vom Hafen nimmst du am besten ein Taxi.
+**Valldemossa auf eigene Faust.** Die **TIB-Linie 203** fährt von der Estació Intermodal (Plaça d'Espanya) nach Valldemossa, Deià und Sóller. Die Kartause besichtigst du in einer Stunde.
 
-### Der Zug nach Sóller beim Landgang
+## Der Zug nach Sóller vom Hafen aus
 
-Der Holzzug fährt an der **Plaça d'Espanya** ab, der Endhaltestelle des EMT-Busses 1, und braucht etwa **eine Stunde** bis Sóller. 2026 kostet er **23 € einfach und 30 € hin und zurück**; die Straßenbahn nach Port de Sóller kostet 10 € extra, das Kombiticket Zug und Straßenbahn 40 €.
+Der Holzzug fährt an der **Plaça d'Espanya** ab, der Endhaltestelle der EMT-Linie 1, und braucht etwa **eine Stunde** nach Sóller. 2026 kostet er **23 € einfach und 30 € hin und zurück**; die Straßenbahn nach Port de Sóller kostet 10 € extra, das Kombiticket Zug und Straßenbahn 40 €.
 
-- **Abfahrten in Palma (Fahrplan 2026):** 10:10, 10:50, 12:15, 13:30 und 15:10 Uhr.
-- **Rückfahrten ab Sóller:** 12:15, 14:00, 17:15 (an der Kasse bestätigen lassen) und 18:00 Uhr.
-- **Realistischer Plan:** Zug um 10:10 oder 10:50 Uhr, Mittagessen in Sóller oder am Hafen und Rückfahrt um 14:00 Uhr (Ankunft in Palma gegen 15:00 Uhr). Wenn „All aboard“ vor 17:00 Uhr ist, lass es.
-- **Winter:** Die Strecke ist einige Wochen wegen Wartung geschlossen. 2025-2026 fuhr der Zug vom 24. November bis zum 1. Februar nicht, für 2026-2027 ist die Pause ab dem 22. November bis Anfang Februar angekündigt.
+- **Abfahrten ab Palma (2026):** 10:10, 10:50, 12:15, 13:30 und 15:10 Uhr.
+- **Rückfahrten ab Sóller:** 12:15, 14:00, 17:15 (an der Kasse bestätigen) und 18:00 Uhr.
+- **Realistischer Plan:** Zug um 10:10 oder 10:50, Mittagessen in Sóller oder im Hafen und Rückfahrt um 14:00 Uhr (Ankunft in Palma gegen 15:00). Mit „All aboard“ vor 17:00 Uhr lieber nicht.
+- **Winter:** Der Zug pausiert einige Wochen wegen Wartung. 2025-2026 fuhr er vom 24. November bis 1. Februar nicht, für 2026-2027 ist die Pause vom 22. November bis Anfang Februar angekündigt.
 
-Wenn du nicht mit Fahrplänen jonglieren willst: Die Bus- und Straßenbahntour durch Valldemossa und Sóller dauert 6 Stunden. Prüf beim Buchen, ob der Abholpunkt vom Hafen aus passt.
-
-[actividad: valldemossa-soller-port-soller-autobus-tranvia]
-
-### Valldemossa auf eigene Faust
-
-Die **TIB-Linie 203** fährt von der Estació Intermodal (Plaça d'Espanya) nach Valldemossa, Deià und Sóller. In Valldemossa brauchst du für die Kartause etwa eine Stunde.
-
-## Wann musst du zurück an Bord sein?
-
-- **„All aboard“** ist meist 30 bis 60 Minuten vor dem Ablegen; die genaue Uhrzeit steht im Tagesprogramm. Das ist deine Deadline, nicht die Abfahrtszeit.
-- Plane **30 Minuten** vom Zentrum bis zum Dique del Oeste mit dem Bus ein, mehr, wenn am Taxistand viel los ist.
-- Für Sóller oder Valldemossa nimm **mindestens 90 Minuten Puffer**: Züge und Busse zurück sind oft voll.
-
-## Ausflüge, die zu einem Landgang in Palma passen
-
-| Ausflug | Dauer | Ab |
-| --- | --- | --- |
-| [Geführter Altstadtrundgang](/en/cities/mallorca/activities/palma-old-town-guided-walking-tour), 4,9★ (914) | 1 Std. 45 Min. | 39 € |
-| [Rundgang mit Kathedrale und Ensaïmada](/en/cities/mallorca/activities/palma-walking-tour-cathedral-ensaimada), 4,8★ (237) | 2 Std. 30 Min. | 39 € |
-| [Kulinarische Altstadttour](/en/cities/mallorca/activities/palma-old-town-food-walking-tour), 4,6★ (663) | 3 Std. | 65 € |
-| [Cuevas del Drach mit Konzert, ab Palma](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma), 4,4★ (1.489) | 5 Std., Abfahrt 9:30 | 54 € |
-| [Valldemossa, Sóller und Port de Sóller mit Bus und Straßenbahn](/en/cities/mallorca/activities/valldemossa-soller-port-soller-bus-tram-tour), 4,7★ (829) | 6 Std. | 49 € |
-
-Der Ausflug zu den Cuevas del Drach startet um 9:30 Uhr im Zentrum von Palma und ist am frühen Nachmittag zurück: Er passt nur, wenn du früh von Bord gehst und abends ablegst.
+Wer nicht von Fahrplänen abhängen will, findet Bus-und-Straßenbahn-Touren durch Valldemossa und Sóller von etwa 6 Stunden; prüfe, ob der Abholpunkt vom Hafen aus gut erreichbar ist.
 
 ## Schiffsausflug oder auf eigene Faust?
 
-| | Ausflug der Reederei | Auf eigene Faust oder mit unseren Touren |
+| | Schiffsausflug | Auf eigene Faust |
 | --- | --- | --- |
 | **Preis** | Am höchsten | Bus 2 €, Taxi 11-15 €, Touren ab 39 € |
-| **Bei Verspätung** | Das Schiff wartet | Du bist selbst verantwortlich |
+| **Bei Verspätung** | Das Schiff wartet | Du bist selbst für die Rückkehr verantwortlich |
 | **Flexibilität** | Feste Zeiten und Stopps | Du entscheidest |
-| **Lohnt sich für** | Weite Ziele bei kurzer Liegezeit | Palma selbst, Bellver, Sóller ab 8 Std. |
+| **Wann es sich lohnt** | Weite Ziele bei kurzem Landgang | Palma, Bellver, Sóller ab 8 Std. |
 
-Palma selbst siehst du problemlos auf eigene Faust. Der Schiffsausflug lohnt sich nur, wenn es mit wenig Zeit weit weg gehen soll.
+Palma lässt sich problemlos auf eigene Faust erkunden. Altstadtführungen dauern zwischen 1 Std. 45 Min. und 3 Stunden. Ausflüge zu den **Cuevas del Drach** starten um 9:30 Uhr im Zentrum und kehren am frühen Nachmittag zurück: nur sinnvoll, wenn du früh anlegst und nachmittags ablegst.
 
-## Sonn- und Feiertage
+## Wann musst du zurück an Bord sein? Weitere Tipps
 
-- Die **Kathedrale ist sonntags nicht zu besichtigen**.
-- **Bellver** hat von 10:00 bis 15:00 Uhr geöffnet und ist kostenlos.
-- EMT- und TIB-Busse fahren nach reduziertem Fahrplan, und der Bus 1 hört am Wochenende früher auf. Wenn du spät zurückfährst, plan ein Taxi ein.
+- **„All aboard“** ist meist 30 bis 60 Minuten vor dem Ablegen; die genaue Zeit steht im Tagesprogramm. Das ist die Frist, nicht die Abfahrtszeit.
+- Rechne **30 Minuten** mit dem Bus vom Zentrum zum Dique del Oeste, mehr bei Taxischlangen. Bei Sóller oder Valldemossa **mindestens anderthalb Stunden Puffer** einplanen.
+- **Nicht auf den Fußweg vom Dique del Oeste verlassen:** 4-5 km, der erste Abschnitt ist unangenehm.
+- **Sonn- und Feiertage:** Die Kathedrale ist für Besucher geschlossen, Bellver öffnet 10:00-15:00 Uhr gratis, und EMT- und TIB-Busse fahren eingeschränkt (Linie 1 endet am Wochenende früher). Wer spät zurückfährt, sollte ein Taxi einplanen.
+- **Nicht auf den letzten Drücker zurück:** Taxi- und Shuttle-Schlangen werden länger, wenn mehrere Schiffe im Hafen liegen.
 
-## Fehler, die du vermeiden solltest
-
-1. **Vom Dique del Oeste zu Fuß gehen wollen.** Es sind 4-5 km, und das erste Stück ist wenig einladend.
-2. **Sóller mit weniger als 8 Stunden.** Zwischen Bus, Zug und Schlangen lohnt es sich nicht.
-3. **Die Kathedrale für den Sonntag aufheben.** Hinein kommst du nur montags bis samstags.
-4. **Auf den letzten Drücker zurückkommen.** Die Schlangen an Taxistand und Shuttle wachsen, wenn mehrere Schiffe im Hafen liegen.
-
-Für einen längeren Aufenthalt beim nächsten Mal: [Was sehen auf Mallorca](/de/guides/mallorca/was-sehen-auf-mallorca) und unser Guide zur [Serra de Tramuntana und Sóller](/de/guides/mallorca/serra-de-tramuntana-soller).
+Wenn du die Insel bei einer anderen Reise besser kennenlernen willst, lies [Was sehen auf Mallorca](/de/guides/mallorca/was-sehen-auf-mallorca) und unseren Guide zur [Serra de Tramuntana und Sóller](/de/guides/mallorca/serra-de-tramuntana-soller).

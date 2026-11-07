@@ -4,11 +4,11 @@ descripcion: 'Maspalomas Dunes guide: access points, buses, permitted paths and 
 categoria: gran-canaria
 slug: maspalomas-dunes-guide
 fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 7
+tiempo_lectura: 3
 keywords:
 - maspalomas dunes
 - how to get to maspalomas dunes
@@ -23,96 +23,73 @@ slugs:
   it: dune-di-maspalomas
   pt: dunas-de-maspalomas-como-visitar
 reservasArriba: true
-respuestaCorta: 'The dunes are **free and open all day**, but they''re a Special Nature Reserve: you may only walk on the **marked paths** and along the shore. Go at **sunrise or in the last two hours of daylight**, carry water, and enter from the Playa del Inglés viewpoint or the lighthouse. The [30-minute camel ride](/en/cities/gran-canaria/activities/maspalomas-dunes-camel-ride) costs from €18.'
+intro: 'The **Maspalomas Dunes** are Gran Canaria''s best-known image: more than 400 hectares of sand that the wind reshapes every year between Playa del Inglés and the Maspalomas lighthouse. Beside them lie a palm grove and **La Charca**, a lagoon where migrating birds stop over. They are a Special Nature Reserve in the south of the island, and a walk through them takes one to two hours.'
+respuestaCorta: 'The Maspalomas Dunes are **free and open all day**, but they are a Special Nature Reserve: you may only walk on the **marked trails** and along the shoreline. Go **at sunrise or late afternoon**, bring water and enter from the Playa del Inglés viewpoint or by the lighthouse. The 30-minute camel ride costs from €18.'
 actividades:
   - paseo-camello-dunas-maspalomas
   - tour-gran-canaria-1-dia-desde-las-palmas
   - buggy-barrancos-gran-canaria
   - palmitos-park-gran-canaria-entrada
 faq:
-- pregunta: Can you walk freely in the Maspalomas Dunes?
-  respuesta: 'Not entirely: it''s a Special Nature Reserve and you may only walk on the marked paths and along the shore. Leaving them, building sand walls or dropping litter is forbidden and fined.'
-- pregunta: What's the best time to visit the dunes?
-  respuesta: 'Sunrise or the last two hours of the afternoon: the sand isn''t scorching, the light is golden and there are fewer people. At midday the heat and glare make the walk very hard.'
+- pregunta: Can you walk freely across the Maspalomas Dunes?
+  respuesta: 'Not entirely: it is a Special Nature Reserve and you may only walk on the marked trails and along the shoreline. Leaving them, building sand walls or dropping litter is forbidden and fined.'
+- pregunta: What is the best time to visit the dunes?
+  respuesta: 'At sunrise or in the last two hours of the afternoon: the sand isn''t scorching, the light is golden and there are fewer people. At midday the heat and the glare make the walk very hard.'
 - pregunta: How much is the camel ride?
-  respuesta: From about €18 per person for 30 minutes, on a two-seat saddle with guides. Under-3s ride free with their parents.
-- pregunta: How do I get to the Maspalomas Dunes?
-  respuesta: The easiest access points are the viewpoint by the Playa del Inglés interpretation centre, Maspalomas beach by the lighthouse and Playa del Inglés itself. Global bus line 30 runs from Las Palmas to Playa del Inglés and the Faro de Maspalomas.
+  respuesta: From about €18 per person for 30 minutes, on two-seat saddles with guides. Children under 3 ride free with their parents.
+- pregunta: How do you get to the Maspalomas Dunes?
+  respuesta: The easiest entry points are the viewpoint next to the visitor centre in Playa del Inglés, Maspalomas beach by the lighthouse and Playa del Inglés itself. Global bus line 30 runs from Las Palmas, and there are buses from all over the south.
+- pregunta: Is there a nudist area in the dunes?
+  respuesta: Yes. The central stretch of beach (kiosks 6 and 7) is traditionally nudist and gay-friendly. Near the lighthouse and Playa del Inglés the atmosphere is family-oriented.
 imagen_portada: "/images/guias/dunas-de-maspalomas.jpg"
 imagen_alt: "The Maspalomas dunes in the late afternoon"
 ---
 
-**The Maspalomas Dunes are the image of Gran Canaria**: more than 400 hectares of wind-shifted sand between Playa del Inglés and the Maspalomas lighthouse. They're a **Special Nature Reserve** and, although they look like an open desert, they have clear rules. This guide explains how to enjoy them without fines or heatstroke.
+## What you'll see
 
-## Book the essentials
+- **The dunes**: sea sand carried and piled up by the wind, shifting position every year. From the inside they feel like a small desert next to the ocean.
+- **The palm grove** and **La Charca de Maspalomas**, a brackish lagoon where migrating birds stop. You watch it from the boardwalks, best at sunrise, when herons and waders are around.
+- **The Maspalomas lighthouse**, to the west: first lit in 1890 and over 50 metres tall, it marks the start of the Meloneras seafront promenade.
+- **The beach**, running along the whole edge of the dunes, with lifeguards and flags.
 
-| Activity | Rating | From |
-| --- | --- | --- |
-| [Camel ride through the Maspalomas Dunes](/en/cities/gran-canaria/activities/maspalomas-dunes-camel-ride) | 4.5★ (5,263) | €18 |
-| [Day tour from Las Palmas: Guayadeque, Maspalomas and Mogán](/en/cities/gran-canaria/activities/gran-canaria-day-tour-from-las-palmas) | 4.6★ (716) | €48 |
-| [Off-road buggy tour through the southern ravines](/en/cities/gran-canaria/activities/gran-canaria-off-road-buggy-tour) | 4.8★ (3,728) | €65 |
+## Access, opening hours and timing
+
+- **Free entry, open all day.** There are no ticket offices or opening hours, just a network of trails marked with posts.
+- **How long it takes:** crossing from Playa del Inglés to the lighthouse along the shore takes **at least an hour** on soft sand; through the dunes, longer. Many people walk one way and return by bus or taxi.
+- **When to go:** **at sunrise** you'll have the dunes almost to yourself, with the sand still rippled by the wind; **at sunset**, the prettiest light and birds on La Charca. Avoid midday in summer. If it's very windy, the sand stings: pick another day.
+
+## How to get to the Maspalomas Dunes and where to go in
+
+- **Dunes viewpoint** (Playa del Inglés): the best panoramic view, next to the visitor centre. Ideal for a first photo.
+- **Playa del Inglés**: direct access to the sand from the promenade.
+- **Maspalomas beach and the lighthouse**: access from the west side, next to La Charca.
+
+**Without a car:** **Global bus line 30** leaves Las Palmas (Santa Catalina station; some departures from San Telmo) and stops at Playa del Inglés and Faro de Maspalomas, roughly every 20 minutes on weekday daytimes and every 30 minutes at weekends (2026).
+
+**By car:** park at the Playa del Inglés shopping centres (Yumbo, Kasbah, paid) or in the lighthouse area.
+
+## Nature reserve rules
+
+You may only walk on the **marked trails** and along the shoreline. It is forbidden to:
+
+- Leave the trails.
+- Build **corralitos** (sand windbreak walls).
+- Disturb wildlife or leave litter.
+- Swim, fish or walk along the inner shore of **La Charca**, which is a protected area.
+
+Breaking these rules is fined.
+
+**Beach zones:** the central stretch (kiosks 6 and 7) is traditionally **nudist** and gay-friendly; near the lighthouse and Playa del Inglés it's family-oriented.
+
+## Maspalomas camel ride
+
+On the Oasis side there is a **camel** centre running rides of about **30 minutes** through the dunes, with Sahrawi guides and two-seat saddles. It costs **€18 per person**, with continuous departures from **9:00 to 16:00**; children under 3 ride free with their parents. It's short but very easy with kids, and the simplest way to get into the landscape without walking on sand. Book ahead in high season: in August there are queues.
 
 [actividad: paseo-camello-dunas-maspalomas]
 
-## The dunes at a glance
+## Tips
 
-| | |
-| --- | --- |
-| Price | Free, no tickets or opening hours |
-| Time needed | 1-2 hours for a walk; half a day with the beach |
-| Best time | Sunrise or the last two hours of daylight |
-| Bring | At least 1 litre of water per person, cap, sunscreen |
-| Main rule | Stay on the marked paths and the shoreline |
-
-## What they are and why they're special
-
-The dunes formed from sea sand carried and piled up by the wind, and they move every year. Alongside are a **palm grove** and **La Charca de Maspalomas**, a brackish lagoon where migrating birds stop. To the west stands the **Maspalomas lighthouse**, first lit in 1890 and more than 50 metres tall, at the start of the Meloneras promenade.
-
-## How to get there and where to go in
-
-- **Dunes viewpoint** (Playa del Inglés): the best panorama and the interpretation centre. Ideal for a first photo.
-- **Playa del Inglés**: direct access to the sand from the promenade.
-- **Maspalomas beach and the lighthouse**: access from the west side, by La Charca.
-
-**By bus:** Global's **line 30** runs from Las Palmas (Santa Catalina station; some departures from San Telmo) to Playa del Inglés and the Faro de Maspalomas, roughly every 20 minutes on weekday daytimes and every 30 minutes at weekends as of 2026. **By car:** park at the Playa del Inglés shopping centres (some car parks are paid) or near the lighthouse.
-
-Crossing from Playa del Inglés to the lighthouse along the shore takes at least an hour on soft sand; through the dunes it takes longer. Many people walk one way and take a bus or taxi back.
-
-## Routes and rules
-
-You may only walk on the **marked paths** (signposted with posts) and along the shore. It's forbidden to leave them, build **sand shelters** or walls, disturb wildlife or leave litter. In 2026 the Cabildo added drones, cameras and sensors to watch the restricted zones; most offences happen around sunset, so that's when you're most likely to be called out.
-
-- **La Charca** is protected: no swimming or fishing. Watch the birds from the boardwalks; early morning is best for herons and waders.
-- **Beach zones:** the central stretch (around kiosks 6 and 7) is traditionally naturist and popular with the gay community; the ends by the lighthouse and Playa del Inglés are more family-oriented.
-
-> **Warning:** there's no shade or water in the dunes. Carry at least a litre per person, a cap, sunscreen and shoes you can take off at the shore. At midday in summer the sand gets hot enough to burn bare feet: cross in shoes and go barefoot only at the water's edge.
-
-## The camel ride
-
-The **Camel Safari** centre, on Calle Oceanía on the Oasis side, runs **30-minute rides** through the dunes area with Sahrawi guides and two-seat saddles, from **€18 per person**. Under-3s ride free with their parents.
-
-- Rides are **first come, first served** even with a ticket, so expect a short wait in August.
-- **Maximum weight:** 100 kg per person. Not suitable for people with reduced mobility.
-- **No pickup:** you get there on your own; the site isn't well signposted until you arrive.
-- Free cancellation up to 24 hours before.
-
-It's short and touristy, but the easiest way into the landscape with children and without walking on sand.
-
-## When to go
-
-**At sunrise** you'll have the dunes almost to yourself with wind-drawn patterns in the sand; **at sunset**, the prettiest light and birds on La Charca. Avoid midday in summer. If it's very windy, the sand stings: try another day.
-
-[actividad: tour-gran-canaria-1-dia-desde-las-palmas]
-
-If you're staying in Las Palmas and don't have a car, the **day tour** (7.5 hours, from €48) combines Guayadeque, a stop at Maspalomas and Puerto de Mogán.
-
-## Combine it with
-
-- **Meloneras and the lighthouse**: a promenade with restaurants for dinner after sunset.
-- **Puerto de Mogán**: 30 minutes by car.
-- **Palmitos Park**: a zoo and botanical park in a ravine inland from Maspalomas; [tickets from €39](/en/cities/gran-canaria/activities/palmitos-park-gran-canaria-ticket).
-- **The ravines**: the Fataga ravine starts right behind Maspalomas, and the **buggy tour** (2-2.5 hours, from €65, hotel pickup in the south) is a fast way into them. More ideas in [what to see in Gran Canaria](/en/guides/gran-canaria/what-to-see-in-gran-canaria).
-
-## In one sentence
-
-Go early or late, stay on the paths, bring water and enjoy one of Europe's most unusual landscapes.
+- **Bring water:** there is no shade or water in the dunes. Allow at least a litre per person, plus a cap and sunscreen.
+- **The sand burns:** at midday in summer it gets hot enough to burn bare feet. Cross in shoes and go barefoot only at the water's edge.
+- **Finish at the lighthouse:** the Meloneras promenade has restaurants for dinner after sunset.
+- **Combine it:** Puerto de Mogán is 30 minutes away by car, and the Fataga ravine starts right behind Maspalomas. More ideas in [what to see in Gran Canaria](/en/guides/gran-canaria/what-to-see-in-gran-canaria).

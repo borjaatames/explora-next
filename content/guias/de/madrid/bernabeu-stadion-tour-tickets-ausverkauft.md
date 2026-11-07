@@ -5,14 +5,14 @@ metaTitle: 'Bernabéu Tour ausverkauft: was tun?'
 categoria: madrid
 slug: bernabeu-stadion-tour-tickets-ausverkauft
 fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/actividades/madrid/bernabeu-nuevo/bernabeu-tour-gradas-real-madrid.webp
 imagen_alt: Tribünen des Estadio Santiago Bernabéu mit dem Schriftzug Tour Bernabéu unter dem Dach und dem Namen Real Madrid in den Sitzreihen
-tiempo_lectura: 5
+tiempo_lectura: 4
 keywords:
 - bernabeu tour ausverkauft
 - bernabeu stadion tour tickets
@@ -28,23 +28,24 @@ slugs:
   it: tour-bernabeu-biglietti-esauriti
   pt: tour-bernabeu-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Die **Tour Bernabéu Classic** kostet auf der offiziellen Website von Real Madrid (`realmadrid.com`) **37 € online** und **40 € an der Kasse**, mit fester Uhrzeit und ohne Umtausch oder Erstattung. Ist dein Zeitfenster ausverkauft, probier das Ticket mit **flexibler Uhrzeit** (44 €), das zu jeder Uhrzeit am gewählten Tag gilt, oder die **Führung** (56 €) mit eigenem Kontingent. Prüf vorher unbedingt, ob ein **Spiel** stattfindet: Dann schließt die Tour 5,5 Stunden vor Anpfiff, und Kabinen und Trainerbänke sind gesperrt.'
+intro: 'Ist die **Bernabéu-Tour ausverkauft**, betrifft das meist nur einzelne Zeitfenster an Wochenenden und Brückentagen. Die Tour führt durch das Stadion von Real Madrid am Paseo de la Castellana, zwischen 2019 und 2024 mit einziehbarem Dach und Fassade aus Stahllamellen umgebaut. Dazu gehören das **Vereinsmuseum**, ein **Panoramablick** von oben auf der Tribüne, die **Umkleiden** und die **Trainerbänke**, in eigenem Tempo in **anderthalb bis zwei Stunden**.'
+respuestaCorta: 'Ist die Bernabéu-Tour ausverkauft, versuch ein anderes Zeitfenster, das Ticket **Hora Flexible** (44 €, ganztägig gültig) oder die **Führung** (56 €) mit eigenem Kontingent. Das **Classic** kostet **37 € online** und 40 € an der Kasse, ohne Umtausch oder Erstattung. Prüf vorher, ob ein **Spiel** ist: Die Tour schließt fünfeinhalb Stunden vorher.'
 actividades:
   - bernabeu-ticket-acceso
   - bernabeu-visita-guiada
   - wanda-metropolitano-atletico-tour
   - tuk-tuk-bernabeu-milla-oro-madrid
 faq:
-  - pregunta: Was kostet die Tour durch das Bernabéu 2026?
-    respuesta: 'Laut offizieller Website von Real Madrid kostet die Tour Classic ab 37 € online und 40 € an der Kasse, Classic mit RM Games 59 € (62 € an der Kasse), Classic mit flexibler Uhrzeit 44 € (47 €) und die Führung 56 € (59 €). Madridista-Mitglieder Platinum und Premium zahlen weniger.'
-  - pregunta: Kann man Tickets für die Bernabéu-Tour an der Kasse kaufen?
-    respuesta: 'Ja, aber sie kosten 3 € mehr als online und sind nur erhältlich, wenn im Zeitfenster noch Platz ist. Mit dem Onlineticket gehst du direkt zum Eingang an der Avenida de Concha Espina, ohne Halt an der Kasse. An Brückentagen und in der Hochsaison solltest du vorher kaufen.'
-  - pregunta: Was passiert mit der Bernabéu-Tour an Spieltagen?
-    respuesta: 'Die Tour schließt 5,5 Stunden vor Anpfiff, und Kabinen und Trainerbänke sind am Spieltag und am Tag davor geschlossen. Die Spieltermine werden meist erst 2 bis 3 Wochen vorher bestätigt. Wenn du früher kaufst, prüf den Spielplan, sobald er feststeht.'
-  - pregunta: Wann hat die Bernabéu-Tour geöffnet?
-    respuesta: 'Täglich außer am 25. Dezember und 1. Januar: montags bis samstags von 9 bis 19 Uhr, sonntags und feiertags von 9:30 bis 18:30 Uhr. An Spieltagen sind die Zeiten kürzer. Die offizielle Website kündigt Teilschließungen von Kabinen, Trainerbänken oder Aussichtspunkt vorher an.'
-  - pregunta: Kann man das Ticket für die Bernabéu-Tour umtauschen oder erstatten lassen?
-    respuesta: 'Nein. Offizielle Tickets können weder geändert noch storniert oder erstattet werden und gelten nur für Datum und Uhrzeit der Buchung, außer dem Ticket mit flexibler Uhrzeit, das den ganzen Tag gilt. Wenn du Flexibilität brauchst: Die Führung, die wir verkaufen, ist bis 24 Stunden vorher kostenlos stornierbar.'
+- pregunta: Was kostet die Bernabéu-Tour 2026?
+  respuesta: Laut offizieller Website von Real Madrid kostet die Classic-Tour ab 37 € online und 40 € an der Kasse; Classic mit RM Games 59 € (62 € an der Kasse); Classic Hora Flexible 44 € (47 €) und die Führung 56 € (59 €). Madridista-Mitglieder Platinum und Premium zahlen weniger.
+- pregunta: Kann man Tickets für die Bernabéu-Tour an der Kasse kaufen?
+  respuesta: Ja, aber sie kosten 3 € mehr als online und nur, wenn in den Zeitfenstern des Tages noch Platz ist. Mit Online-Ticket gehst du direkt über die Avenida de Concha Espina hinein, ohne Kasse. An Brückentagen und in der Hochsaison besser vorher kaufen.
+- pregunta: Was passiert mit der Bernabéu-Tour an Spieltagen?
+  respuesta: Die Tour schließt fünfeinhalb Stunden vor Anpfiff, und Umkleiden und Trainerbänke sind am Spieltag und am Tag davor geschlossen. Die Spieltermine werden meist erst 2 bis 3 Wochen vorher bestätigt; wer früher kauft, sollte den Spielplan nach Veröffentlichung prüfen.
+- pregunta: Wann ist die Bernabéu-Tour geöffnet?
+  respuesta: 'Täglich außer am 25. Dezember und 1. Januar: Montag bis Samstag 9:00 bis 19:00 Uhr, Sonn- und Feiertage 9:30 bis 18:30 Uhr. An Spieltagen sind die Zeiten verkürzt. Die offizielle Website kündigt Teilschließungen von Umkleiden, Bänken oder Aussichtspunkt vorab an.'
+- pregunta: Kann man das Ticket für die Bernabéu-Tour umtauschen oder erstatten lassen?
+  respuesta: 'Nein. Das offizielle Ticket erlaubt keine Änderungen, Stornierungen oder Erstattungen und gilt nur für Datum und Uhrzeit, außer Hora Flexible, das den ganzen Tag gilt. Wer Flexibilität braucht: Die Führung, die wir verkaufen, ist bis 24 Stunden vorher kostenlos stornierbar.'
 opciones:
   - ficha: bernabeu-ticket-acceso
     etiqueta: Offizielles Ticket
@@ -56,92 +57,70 @@ opciones:
     etiqueta: Von außen im Tuk-Tuk
 ---
 
-Das umgebaute Estadio Santiago Bernabéu gehört zu den gefragtesten Besuchen in Madrid, und an Brückentagen, in den Schulferien und am Wochenende sind manche Zeitfenster der Tour ausverkauft. Das häufigste Problem ist hier aber nicht die Kapazität, sondern der **Spielplan**: An einem Spieltag schließt die Tour früher, und Kabinen und Trainerbänke fallen weg. Das sind die Möglichkeiten, in der Reihenfolge, in der du sie probieren solltest.
+## Was du bei der Real-Madrid-Stadionbesichtigung siehst
 
-## Welche Möglichkeiten bleiben?
+Das Stadion wurde 1947 eröffnet und zwischen 2019 und 2024 grundlegend umgebaut: Außenhaut aus Stahllamellen, **einziehbares Dach** und ein Rasen, der entfernt und unter den Tribünen gelagert werden kann. Die Tour umfasst:
 
-| Wenn du … suchst | Option | Ab |
-| --- | --- | --- |
-| Eine andere Uhrzeit am selben Tag | Offizielle Website, Tour Classic mit Uhrzeit | 37 € |
-| Keine feste Uhrzeit | Classic mit flexibler Uhrzeit, ganztägig gültig | 44 € |
-| Direkt vor Ort kaufen | Stadionkasse | 40 € |
-| Kostenlosen Eintritt | Es gibt keine kostenlose Tour | — |
-| Das Ticket ohne Guide | [Tour Bernabéu, offizielles Ticket](/en/cities/madrid/activities/bernabeu-entry-ticket), 4,5★ (23.468) | 37 € |
-| Guide und kostenlose Stornierung | [Führung mit Fußballexperten](/en/cities/madrid/activities/bernabeu-guided-tour), 4,1★ (1.532) | 58 € |
-| Ein anderes Stadion in Madrid | [Tour durch das Riyadh Air Metropolitano](/en/cities/madrid/activities/wanda-metropolitano-atletico-tour), 4,7★ (2.188) | 25 € |
-| Das Bernabéu von außen | [Privates Tuk-Tuk: Bernabéu und Goldene Meile](/en/cities/madrid/activities/tuk-tuk-bernabeu-golden-mile-madrid) | 79 € pro Tuk-Tuk |
+- **Das Vereinsmuseum** mit seinen Trophäen.
+- **Den Panoramablick** von oben auf der Tribüne.
+- **Umkleiden und Trainerbänke**, wenn kein Spiel ansteht.
 
-## 1. Die offizielle Website: Tickets und Preise
+Du gehst in eigenem Tempo, **anderthalb bis zwei Stunden**. Achtung: Der Rundgang hat **viele Treppen**.
 
-Der offizielle Verkauf läuft über die Website von Real Madrid (`realmadrid.com`, Bereich Tour Bernabéu). Für das allgemeine Publikum gibt es vier Tickets:
+## Bernabéu-Tour: Preis und Öffnungszeiten
 
-| Ticket | Was drin ist | Online | Kasse |
+Offiziell verkauft wird auf der Website von Real Madrid (realmadrid.com, Bereich Tour Bernabéu). Es gibt vier Tickets für die Allgemeinheit:
+
+| Ticket | Inhalt | Online | Kasse |
 | --- | --- | --- | --- |
-| Classic | Museum, Panoramablick, Kabinen und Trainerbänke | 37 € | 40 € |
+| Classic | Museum, Panoramablick, Umkleiden und Trainerbänke | 37 € | 40 € |
 | Classic + RM Games | Dasselbe plus RM-Games-Bereich | 59 € | 62 € |
-| Classic flexible Uhrzeit | Wie Classic, zu jeder Uhrzeit am gewählten Tag | 44 € | 47 € |
+| Classic Hora Flexible | Wie Classic, zu jeder Uhrzeit am gewählten Tag | 44 € | 47 € |
 | Führung | Wie Classic, mit Guide | 56 € | 59 € |
 
-Die Tickets **haben eine feste Uhrzeit** und gelten nur für Datum und Zeitfenster der Buchung, außer dem flexiblen Ticket. Und sie **können nicht umgetauscht oder erstattet werden**.
+Die Tickets **haben eine Uhrzeit**: Sie gelten nur für Datum und Zeitfenster, außer Hora Flexible. **Umtausch und Erstattung sind ausgeschlossen.** Eine kostenlose Tour gibt es nicht; Madridista-Mitglieder Platinum und Premium zahlen weniger.
 
-Wenn dein Zeitfenster ausverkauft ist:
+**Öffnungszeiten:** täglich außer am 25. Dezember und 1. Januar; Montag bis Samstag **9:00 bis 19:00 Uhr**, Sonn- und Feiertage **9:30 bis 18:30 Uhr**.
 
-- **Schau dir andere Zeitfenster am selben Tag an.** Du gehst in deinem Tempo in anderthalb bis zwei Stunden durch, ein Einlass um 16 statt um 11 Uhr ändert also wenig.
-- **Schau dir das flexible Ticket an.** Für 7 € mehr vergisst du die Zeitfenster und gehst hinein, wann du an dem Tag ankommst.
-- **Schau dir die Führung an.** Sie hat eigene Termine und manchmal noch Platz, wenn Classic voll ist.
+## Wenn die Bernabéu-Tour-Tickets ausverkauft sind
 
-**Öffnungszeiten:** täglich außer am 25. Dezember und 1. Januar; montags bis samstags **9-19 Uhr**, sonntags und feiertags **9:30-18:30 Uhr**.
+An Brückentagen, in den Schulferien und an Wochenenden sind einige Zeitfenster ausverkauft. Versuch es in dieser Reihenfolge:
 
-## 2. Spieltage
-
-Sie verderben mehr Besuche als die Kapazität:
-
-- **Die Tour schließt 5,5 Stunden vor Anpfiff.** Bei einem Spiel um 21 Uhr hast du bis 15:30 Uhr Zeit.
-- **Kabinen und Trainerbänke sind am Spieltag und am Vortag geschlossen.** Der Rest der Tour bleibt offen.
-- **Die genauen Spieltermine stehen erst 2 bis 3 Wochen vorher fest.** Wenn du lange im Voraus buchst, prüf den Spielplan, sobald er veröffentlicht ist.
-
-Die offizielle Website nennt die konkreten Schließungen. Am 1. November 2026 kündigte sie zum Beispiel geschlossene Kabinen und Trainerbänke am 5., 6., 9. und 10. November an sowie verkürzte Öffnungszeiten von 9 bis 15:30 Uhr am 21. und 24. November und am 19. Januar.
-
-## 3. Die Kasse
-
-Die Stadionkasse verkauft Tickets für denselben Tag **3 € teurer** als online, und nur, wenn im Zeitfenster noch Platz ist. Mit dem Onlineticket (ausgedruckt oder auf dem Handy) gehst du direkt zum Eingang an der **Avenida de Concha Espina**, ohne Halt an der Kasse. Metro: Santiago Bernabéu, Linie 10.
-
-## 4. Ein Ticket beim Wiederverkäufer oder eine Führung
-
-Wenn die offizielle Website dir keine passende Uhrzeit gibt oder du ungern etwas kaufst, das du nicht ändern kannst:
-
-- **Offizielles Tour-Ticket (ab 37 €):** gleicher Preis wie offiziell, ohne Guide, mit Museum, Kabinen und Trainerbänken. Ebenfalls nicht erstattbar.
-- **Führung mit Fußballexperten (ab 58 €):** 105 Minuten bis 2 Stunden mit Audiosystem und **kostenloser Stornierung bis 24 Stunden vorher**, die das offizielle Ticket nicht bietet. Wenn deine Termine nicht feststehen, die entspannteste Wahl.
+1. **Andere Zeitfenster am selben Tag.** Da die Tour anderthalb bis zwei Stunden dauert, ändert ein Einlass um 16:00 statt um 11:00 Uhr wenig am Plan.
+2. **Hora Flexible.** Für 7 € mehr vergisst du das Zeitfenster: Du gehst rein, wann du an dem Tag ankommst.
+3. **Die Führung.** Sie hat eigene Plätze, oft ist noch etwas frei, wenn Classic voll ist.
+4. **Die Stadionkasse**, die Tickets für denselben Tag **3 € teurer** verkauft, und nur bei freien Plätzen.
+5. **Eine Führung mit Fußballexperten (ab 58 €):** 105 Minuten bis 2 Stunden, mit Funkempfänger und **kostenloser Stornierung bis 24 Stunden vorher**, die das offizielle Ticket nicht bietet. Die entspannteste Option, wenn deine Termine noch offen sind.
 
 [actividad: bernabeu-visita-guiada]
 
-[actividad: bernabeu-ticket-acceso]
+Klappt gar nichts, bietet die **Tour durch das Riyadh Air Metropolitano**, das Stadion von Atlético Madrid (ab 25 €), ein interaktives Museum, Umkleiden und die Präsidentenloge. Und um das Bernabéu **von außen** zu sehen, gibt es eine private Elektro-Tuk-Tuk-Fahrt von 1 Std. 15 Min. über Cibeles, Colón, AZCA, das Stadion, das Viertel Salamanca und den Retiro, ab 79 € pro Tuk-Tuk (bis 4 Personen).
 
-## 5. Wenn gar nichts geht: Alternativen
+## Bernabéu-Tour am Spieltag
 
-- **Die Tour durch das Riyadh Air Metropolitano**, das Stadion von Atlético Madrid (ab 25 €): interaktives Museum, Kabinen und Präsidentenloge.
-- **Das Bernabéu von außen** im privaten Elektro-Tuk-Tuk: 1 Std. 15 Min. über Cibeles, Colón, AZCA, das Stadion, das Viertel Salamanca und den Retiro, ab 79 € pro Tuk-Tuk (bis 4 Personen). Ins Stadion geht es nicht.
+Das verdirbt den Besuch öfter als volle Zeitfenster:
 
-[actividad: wanda-metropolitano-atletico-tour]
+- **Die Tour schließt fünfeinhalb Stunden vor dem Spiel.** Bei Anpfiff um 21:00 Uhr hast du bis 15:30 Uhr.
+- **Umkleiden und Trainerbänke schließen am Spieltag und am Vortag.** Der Rest der Tour bleibt offen.
+- **Die genauen Termine stehen erst 2 bis 3 Wochen vorher fest.** Wer weit im Voraus kauft, prüft den Spielplan nach Veröffentlichung.
 
-[actividad: tuk-tuk-bernabeu-milla-oro-madrid]
+Die offizielle Website veröffentlicht die konkreten Schließungen. Am 1. November 2026 nannte sie zum Beispiel geschlossene Umkleiden und Bänke am 5., 6., 9. und 10. November sowie verkürzte Zeiten von 9:00 bis 15:30 Uhr am 21. und 24. November und am 19. Januar.
 
-## Wann es ausverkauft ist und wie früh du buchen solltest
+## Anfahrt und wie früh kaufen
 
-Die offizielle Website sagt nicht, wie früh der Verkauf startet, und kennzeichnet ausverkaufte Zeitfenster nicht vorab. Unsere Empfehlung:
+**Metro:** Santiago Bernabéu, Linie 10. Mit Online-Ticket (gedruckt oder auf dem Handy) gehst du direkt zum Eingang an der **Avenida de Concha Espina**, ohne Kasse.
 
-- **Brückentage, Ostern, Weihnachten und Sommer:** ein bis zwei Wochen vorher buchen, aber erst, wenn der Spielplan feststeht.
-- **Wochenenden ohne Spiel:** ein paar Tage vorher reichen meist.
-- **Werktage außerhalb der Ferien:** meist auch am selben Tag noch Platz.
+Die offizielle Website sagt weder, wie viele Tage vorher der Verkauf startet, noch zeigt sie ausverkaufte Zeitfenster an. Unser Rat:
+
+- **Brückentage, Ostern, Weihnachten und Sommer:** ein bis zwei Wochen vorher, aber erst nach Bestätigung des Spielplans.
+- **Samstage und Sonntage ohne Spiel:** ein paar Tage reichen meist.
+- **Unter der Woche außerhalb der Ferien:** meist sogar am selben Tag Platz.
 
 ## Typische Fehler
 
-1. **Ohne Blick auf den Spielplan buchen.** Dann fehlen womöglich Kabinen und Trainerbänke, und das Ticket lässt sich nicht ändern.
-2. **Auf eine Umbuchung hoffen.** Offizielle Tickets sind weder umtauschbar noch erstattbar.
-3. **Mit dem Classic-Ticket zu spät kommen.** Es gilt nur zu deiner Uhrzeit; wenn du sie nicht sicher einhalten kannst, nimm das flexible Ticket.
-4. **Die Treppen unterschätzen.** Laut offizieller Website hat der Rundgang viele Treppen.
-5. **An der Kasse zahlen, was online weniger kostet.** Das sind 3 € mehr pro Person.
+1. **Ohne Blick auf den Spielplan kaufen.** Du verpasst womöglich Umkleiden und Bänke, und das Ticket ist nicht umtauschbar.
+2. **Mit Classic-Ticket zu spät zum Zeitfenster kommen.** Es gilt nur für deine Uhrzeit; wenn du sie nicht sicher einhalten kannst, nimm Flexible.
+3. **Die Treppen unterschätzen.**
+4. **An der Kasse zahlen, was online weniger kostet:** 3 € mehr pro Person.
 
-## Kurz gesagt
-
-Ist die Bernabéu-Tour ausverkauft, probier auf der offiziellen Website eine andere Uhrzeit, das flexible Ticket oder die Führung, prüf immer den Spielplan, und wenn du stornieren können willst, geht das bei der Führung ab 58 € bis 24 Stunden vorher. Wie die Tour in deine Reise passt, steht in [Madrid in 3 Tagen](/de/guides/madrid/madrid-in-3-tagen).
+Wie du den Besuch in deine Reise einbaust, steht in [Madrid in 3 Tagen](/de/guides/madrid/madrid-in-3-tagen).

@@ -5,14 +5,14 @@ metaTitle: 'Alcázar von Segovia Tickets: Preis & gratis'
 categoria: madrid
 slug: alcazar-segovia-tickets-ausverkauft
 fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
 datosComprobados: '2026-11-06'
 imagen_portada: /images/guias/alcazar-segovia-entradas-agotadas.jpg
 imagen_alt: 'Der Alcázar von Segovia auf dem Felsen, mit seinen Türmen und Schieferspitzen'
-tiempo_lectura: 4
+tiempo_lectura: 3
 keywords:
   - 'alcázar segovia tickets'
   - 'alcázar segovia eintritt preis'
@@ -28,20 +28,23 @@ slugs:
   it: alcazar-segovia-biglietti-esauriti
   pt: alcazar-segovia-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Der Eintritt in Palast und Museum kostet **7 €**, mit der **Torre de Juan II** (Turm Johanns II.) **10 €**, auf `entradas.alcazardesegovia.com`. Zuerst ausverkauft sind die Tickets mit Turm an Wochenenden und Brückentagen. Wenn dir das passiert, kauf nur Palast + Museum oder geh zur **Kasse**. Bürger der EU haben **dienstags von 14:00 bis 16:00 Uhr freien Eintritt** (ohne Turm und nur an der Kasse). Und ein **Ausflug ab Madrid mit inbegriffenem Ticket** sichert dir den Besuch ab 41 €.'
+intro: 'Mit **Alcázar Segovia Tickets** betrittst du die Burg, die auf ihrem Felsen über dem Tal des Eresma thront, mit Türmen und Schieferspitzen. Drinnen besuchst du den **Palast**, das **Artilleriemuseum** und, wenn du magst, den **Turm Juans II.** mit Blick auf Kathedrale und Gebirge. Mit dem Zug ist Segovia keine halbe Stunde von Madrid entfernt, der Besuch dauert **etwa eine Stunde**.'
+respuestaCorta: 'Alcázar Segovia Tickets kosten **7 €** (Palast und Museum) und **10 €** mit dem **Turm Juans II.**, auf entradas.alcazardesegovia.com. Zuerst ausverkauft ist der Turm an Wochenenden und Brückentagen: Kauf dann nur Palast und Museum oder geh zur **Kasse**. EU-Bürger haben **dienstags von 14:00 bis 16:00 Uhr freien Eintritt**.'
 actividades:
   - excursion-toledo-segovia-alcazar
   - excursion-avila-segovia-con-entradas
   - segovia-tour-privado-coche-desde-madrid
 faq:
-- pregunta: 'Was kostet der Eintritt in den Alcázar von Segovia?'
-  respuesta: 'Das reguläre Ticket für Palast und Artilleriemuseum kostet 7 € (5 € ermäßigt). Das Komplettticket mit der Torre de Juan II kostet 10 € (8 € ermäßigt). Kinder unter 6 Jahren haben freien Eintritt. Audioguide und Führung auf Spanisch kosten jeweils 3,50 € extra.'
-- pregunta: 'Wann ist der Eintritt in den Alcázar von Segovia kostenlos?'
-  respuesta: 'Dienstags von 14:00 bis 16:00 Uhr für Bürger der Europäischen Union, außer an Feiertagen. Er umfasst Palast und Museum, nicht den Turm, und das Ticket bekommst du in diesem Zeitfenster an der Kasse.'
-- pregunta: 'Lohnt sich der Aufstieg auf die Torre de Juan II?'
-  respuesta: 'Wenn du 152 Stufen über eine enge Wendeltreppe schaffst, ja: Von oben siehst du die Kathedrale, die Sierra und das Eresma-Tal. Der Besuch des Turms dauert höchstens 25 Minuten. Er ist nicht barrierefrei für Menschen mit eingeschränkter Mobilität.'
-- pregunta: 'Was sieht man vom Alcázar ohne Ticket?'
-  respuesta: 'Der Vorplatz, der Burggraben und die Eingangsbrücke sind frei zugänglich, ebenso die Gärten an der Plaza de la Reina Victoria Eugenia (von 8:00 bis 22:00 Uhr). Den besten Blick auf den ganzen Alcázar hast du von unten, im Eresma-Tal bei der Kirche Vera Cruz.'
+- pregunta: Was kostet der Eintritt in den Alcázar von Segovia?
+  respuesta: Der normale Eintritt für Palast und Artilleriemuseum kostet 7 € (ermäßigt 5 €). Das Komplettticket mit dem Turm Juans II. kostet 10 € (ermäßigt 8 €). Kinder unter 6 Jahren sind frei. Audioguide und Führung auf Spanisch kosten jeweils 3,50 € extra.
+- pregunta: Wann ist der Alcázar von Segovia kostenlos?
+  respuesta: Dienstags von 14:00 bis 16:00 Uhr für Bürger der Europäischen Union, außer an Feiertagen. Gilt für Palast und Museum, nicht für den Turm; das Ticket gibt es in diesem Zeitfenster an der Kasse.
+- pregunta: Lohnt sich der Aufstieg auf den Turm Juans II.?
+  respuesta: 'Wenn du 152 Stufen über eine enge Wendeltreppe schaffst, ja: Oben siehst du die Kathedrale, das Gebirge und das Tal des Eresma. Der Turmbesuch dauert höchstens 25 Minuten. Für Menschen mit eingeschränkter Mobilität ist er nicht zugänglich.'
+- pregunta: Was sieht man vom Alcázar ohne Ticket?
+  respuesta: Vorplatz, Graben und Eingangsbrücke sind frei zugänglich, ebenso die Gärten an der Plaza de la Reina Victoria Eugenia (8:00 bis 22:00 Uhr). Den schönsten Blick auf den ganzen Alcázar hat man von unten, im Tal des Eresma bei der Vera Cruz.
+- pregunta: Was tun, wenn die Alcázar-Segovia-Tickets ausverkauft sind?
+  respuesta: Wenn das Komplettticket mit Turm fehlt, kauf nur Palast und Museum, das ist der Kern des Besuchs. Ist online nichts mehr frei, versuch es an der Kasse, die für denselben Tag verkauft, oder buche ab Madrid einen Ausflug mit Alcázar-Eintritt.
 opciones:
   - ficha: excursion-toledo-segovia-alcazar
     etiqueta: 'Am beliebtesten'
@@ -49,63 +52,56 @@ opciones:
     etiqueta: 'Mit mehr Eintritten'
 ---
 
-Der Alcázar von Segovia verkauft seine Tickets auf seiner offiziellen Website, und die Website selbst weist darauf hin, dass sie an Wochenenden, Brückentagen und Feiertagen ausverkauft sind, vor allem die mit der Torre de Juan II. Fast immer gibt es an dem Tag aber noch einen Weg hinein. Probier die Möglichkeiten am besten in dieser Reihenfolge aus.
+## Was du siehst
 
-## Welches Ticket wählen?
+- **Palast und Artilleriemuseum:** der Kern des Besuchs, etwa **40-45 Minuten**.
+- **Turm Juans II.:** **152 Stufen** über eine enge Wendeltreppe ohne Absätze. Oben siehst du die Kathedrale, das Gebirge und das Tal des Eresma. Der Besuch dauert höchstens 25 Minuten und ist für Menschen mit eingeschränkter Mobilität nicht zugänglich.
 
-| Wenn du … suchst | Option | Ab |
-| --- | --- | --- |
-| Ab Madrid mit gesichertem Ticket | [Segovia und Toledo an einem Tag, mit dem Alcázar](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid), 4,7★ (10.421) | 41 € |
-| Mehr Sehenswürdigkeiten inklusive | [Ávila und Segovia mit inbegriffenen Tickets](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets), 4,6★ (4.805) | 79 € |
-| Nur für euch | [Private Tour im Auto mit offiziellem Guide](/en/cities/madrid/activities/segovia-private-tour-by-car-from-madrid) | 1.649 € pro Gruppe |
+Ein Ticket nur für den Turm gibt es nicht: Er ist immer Teil des Komplettickets.
 
-## 1. Schau noch einmal auf die offizielle Website
+## Alcázar Segovia Eintritt: Preis und Öffnungszeiten
 
-Die offizielle Verkaufsseite ist `entradas.alcazardesegovia.com`. Preise 2026:
+Tickets gibt es auf der offiziellen Website **entradas.alcazardesegovia.com**. Preise 2026:
 
-- **Palast + Artilleriemuseum:** 7 € regulär, 5 € ermäßigt.
-- **Komplett (Palast + Museum + Torre de Juan II):** 10 € regulär, 8 € ermäßigt.
-- **Ermäßigt:** von 6 bis 16 Jahren, Studierende, kinderreiche Familien, Arbeitslose, ab 65 Jahren und Menschen mit einer Behinderung ab 33 %.
-- **Kostenlos:** Kinder unter 6 Jahren und Menschen mit einer Behinderung ab 65 %, bei Bedarf mit einer Begleitperson.
-- **Extras:** Audioguide in 12 Sprachen oder Führung auf Spanisch, jeweils 3,50 €. Sie werden an der Kasse gebucht, auch wenn du das Ticket online gekauft hast.
+- **Palast + Artilleriemuseum:** 7 € normal, 5 € ermäßigt.
+- **Komplett (Palast + Museum + Turm Juans II.):** 10 € normal, 8 € ermäßigt.
+- **Ermäßigt:** 6 bis 16 Jahre, Studierende, kinderreiche Familien, Arbeitslose, über 65-Jährige und Menschen mit Behinderung ab 33 %.
+- **Frei:** Kinder unter 6 Jahren und Menschen mit Behinderung ab 65 %, bei Bedarf mit Begleitperson.
+- **Extras:** Audioguide in 12 Sprachen oder Führung auf Spanisch, je 3,50 €. Beides an der Kasse anfragen, auch wenn du online gekauft hast.
 
-Ein Ticket nur für den Turm gibt es nicht. Wenn das Komplettticket ausverkauft ist, kauf **Palast + Museum**: Das ist der Hauptteil des Besuchs, etwa 40-45 Minuten.
+**Öffnungszeiten:** 1. November bis 31. März **10:00 bis 18:00 Uhr**; 1. April bis 31. Oktober **10:00 bis 19:30 Uhr**. Kasse und Einlass schließen 30 Minuten vorher. Am 24. und 31. Dezember von 10:00 bis 14:30 Uhr geöffnet, am 25. Dezember geschlossen.
 
-**Öffnungszeiten:** vom 1. November bis 31. März von 10:00 bis 18:00 Uhr, vom 1. April bis 31. Oktober von 10:00 bis 19:30 Uhr. Kasse und Einlass schließen 30 Minuten vorher. Am 24. und 31. Dezember ist von 10:00 bis 14:30 Uhr geöffnet, am 25. Dezember geschlossen.
+## Alcázar Segovia kostenlos: dienstags und was du ohne Ticket siehst
 
-## 2. Die Kasse und der freie Dienstag
+Als **EU-Bürger** besuchst du Palast und Museum **dienstags von 14:00 bis 16:00 Uhr gratis**, außer an Feiertagen. Das Ticket gibt es in diesem Zeitfenster an der Kasse, je nach Kapazität und ohne Turm.
 
-Die **Kasse** verkauft Tickets für denselben Tag. In der Hochsaison wird die Schlange am späten Vormittag lang: Komm zur Öffnung oder ab 16:00 Uhr.
+Auch ohne Ticket siehst du viel:
 
-Wenn du **Bürger der EU** bist, sind Palast und Museum **dienstags von 14:00 bis 16:00 Uhr kostenlos**, außer an Feiertagen. Das Ticket bekommst du in diesem Zeitfenster an der Kasse, es hängt von der Kapazität ab und schließt den Turm nicht ein.
+- **Vorplatz, Graben und Eingangsbrücke**, frei zugänglich.
+- Die **Gärten an der Plaza de la Reina Victoria Eugenia** neben dem Alcázar, 8:00 bis 22:00 Uhr.
+- **Den Blick von unten**: Geh ins Tal des Eresma hinunter, zur Kirche Vera Cruz, und du siehst den ganzen Alcázar auf seinem Felsen. Nachts ist er beleuchtet, gut zu sehen von der Straße Altos de la Piedad.
 
-## 3. Ein Ausflug mit inbegriffenem Ticket
+## Wenn die Alcázar-Segovia-Tickets ausverkauft sind
 
-Wenn du aus Madrid kommst, ist das die sicherste Option: Der Anbieter reserviert die Tickets im Voraus und bringt dich hin und zurück. Prüf vor dem Bezahlen, dass in der Beschreibung **„Eintritt in den Alcázar inbegriffen“** steht: Manche Ausflüge führen nur daran vorbei.
+Die offizielle Website warnt selbst, dass Tickets an Wochenenden, Brückentagen und Feiertagen ausverkauft sind, vor allem die mit Turm. Meist gibt es an dem Tag trotzdem einen Weg hinein:
+
+1. **Schau noch einmal auf die offizielle Website** und kauf, wenn das Komplettticket fehlt, **Palast + Museum**: Das ist der Hauptteil des Besuchs.
+2. **Geh zur Kasse**, die für denselben Tag verkauft. In der Hochsaison wächst die Schlange am späten Vormittag: Komm zur Öffnung oder ab 16:00 Uhr.
+3. **Buche einen Ausflug mit Eintritt**, wenn du aus Madrid kommst: Der Veranstalter reserviert vorab und bringt dich hin und zurück. Achte auf **„Eintritt in den Alcázar inbegriffen“**: Manche Ausflüge fahren nur vorbei.
 
 [actividad: excursion-toledo-segovia-alcazar]
 
-## 4. Auf eigene Faust ab Madrid
+## Anreise ab Madrid
 
-- **Hochgeschwindigkeitszug (Avant)** von Chamartín nach Segovia-Guiomar: unter 30 Minuten. Der Bahnhof liegt etwa 13 km vom Zentrum entfernt; der Stadtbus 11 bringt dich zum Aquädukt.
-- **Bus von La Sepulvedana** ab dem Busbahnhof Moncloa: etwas mehr als eine Stunde, mit Abfahrten über den ganzen Tag, und er hält 10 Gehminuten vom Aquädukt entfernt.
+- **Schnellzug (Avant)** von Chamartín nach Segovia-Guiomar: unter 30 Minuten. Der Bahnhof liegt etwa 13 km vom Zentrum; der Stadtbus 11 hält am Aquädukt.
+- **Bus von La Sepulvedana** ab dem Busbahnhof Moncloa: gut eine Stunde, Abfahrten den ganzen Tag, Ankunft 10 Gehminuten vom Aquädukt.
 
-Vom Aquädukt zum Alcázar sind es etwa 20 Minuten zu Fuß über die Calle Real, vorbei an der Plaza Mayor und der Kathedrale.
+Vom Aquädukt zum Alcázar sind es etwa 20 Minuten zu Fuß über die Calle Real, vorbei an Plaza Mayor und Kathedrale.
 
-## 5. Was du ohne Ticket siehst
+## Tipps
 
-- Der **Vorplatz, der Burggraben und die Eingangsbrücke** sind frei zugänglich.
-- Die **Gärten an der Plaza de la Reina Victoria Eugenia** neben dem Alcázar sind von 8:00 bis 22:00 Uhr geöffnet.
-- Der **Blick von unten**: Geh hinunter ins Eresma-Tal, zur Kirche Vera Cruz, um den ganzen Alcázar auf dem Felsen zu sehen. Nachts siehst du ihn beleuchtet von der Straße zu den Altos de la Piedad.
-- Das **Aquädukt** und die Außenseite der **Kathedrale** liegen direkt an der Straße.
-
-## Fehler, die du vermeiden solltest
-
-1. **Auf Websites kaufen, die nicht die offizielle sind.** Es gibt Vergleichsportale mit Preisen, die es nicht gibt, etwa Tickets nur für den Turm. Die offizielle ist `entradas.alcazardesegovia.com`.
-2. **Zu spät für den Turm dran sein.** Er ist als Erstes ausverkauft und hat begrenzte Kapazität.
-3. **Mit kleinen Kindern oder Knieproblemen auf den Turm steigen.** Es sind 152 enge Wendeltreppenstufen ohne Pause.
-4. **An einem Feiertag, der auf einen Dienstag fällt, auf den freien Eintritt setzen.** An diesem Tag gibt es ihn nicht.
-
-## In einem Satz
-
-Wenn das Ticket mit Turm ausverkauft ist, kauf Palast + Museum oder probier es an der Kasse, und wenn du aus Madrid kommst und nichts riskieren willst, buch einen Ausflug mit inbegriffenem Ticket; was du sonst noch in der Stadt sehen kannst, erzählen wir in [Segovia an einem Tag](/de/guides/madrid/segovia-sehenswuerdigkeiten-tagesausflug).
+- **Kauf nur auf der offiziellen Website.** Manche Wiederverkäufer zeigen Preise, die es nicht gibt, etwa Tickets nur für den Turm.
+- **Wenn du auf den Turm willst, kauf früh:** Er ist zuerst ausverkauft und hat begrenzte Kapazität.
+- **Mit kleinen Kindern oder Knieproblemen gut überlegen:** Die 152 Wendelstufen sind eng und ohne Absätze.
+- **Nicht an einem Dienstag, der Feiertag ist, auf freien Eintritt hoffen:** Dann gibt es ihn nicht.
+- Was du sonst in der Stadt sehen kannst, steht in [Segovia: Sehenswürdigkeiten an einem Tag](/de/guides/madrid/segovia-sehenswuerdigkeiten-tagesausflug).

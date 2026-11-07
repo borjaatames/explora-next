@@ -4,13 +4,13 @@ descripcion: 'Si le téléphérique du Teide ou le permis du sommet est complet 
 categoria: tenerife
 slug: teide-billets-complets
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/guias/teide-entradas-agotadas.jpg
 imagen_alt: Cabine du téléphérique du Teide montant au-dessus de Las Cañadas
-tiempo_lectura: 5
+tiempo_lectura: 4
 keywords:
 - teleferique teide complet
 - permis teide complet
@@ -25,7 +25,8 @@ slugs:
   it: teide-biglietti-esauriti
   pt: teide-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Ce sont deux réservations distinctes. Le **téléphérique** (environ 42 € aller-retour) est vendu sur `volcanoteide.com` ; s''il est complet, une **excursion avec téléphérique inclus** règle le problème à partir de 92 €. Le **permis du sommet** (15 €) se réserve sur **Tenerife ON**, qui libère des places **chaque lundi à 7 h pour les 56 jours suivants**. Si vous n''en obtenez pas, une nuit au **refuge d''Altavista** inclut l''accès au sommet de 6 h à 9 h.'
+intro: 'Trouver le téléphérique du Teide complet est fréquent en été et à Pâques. Monter sur le plus haut sommet d''Espagne (3 715 m) demande **deux réservations distinctes** : le billet du téléphérique, qui vous dépose en moins de 8 minutes à **La Rambleta (3 555 m)**, et le permis du Cabildo pour le dernier tronçon jusqu''au sommet. Si l''un est épuisé, l''autre ne l''est pas forcément, et il reste presque toujours une solution.'
+respuestaCorta: 'Si le téléphérique du Teide est complet (environ 42 €, sur volcanoteide.com), une **excursion avec téléphérique inclus** règle le problème dès 92 €. Le **permis du sommet** (15 €) se prend à part sur **Tenerife ON** : places **chaque lundi à 7 h, pour 56 jours**. Sans permis, le **refuge d''Altavista** ouvre le sommet de 6 h à 9 h.'
 actividades:
   - teide-teleferico-traslado
   - teide-subida-cumbre-ruta-guiada
@@ -33,14 +34,16 @@ actividades:
   - tour-teide-masca-icod-garachico
   - observatorio-teide-visita-guiada
 faq:
-- pregunta: Combien de temps à l'avance les permis pour le sommet du Teide sont-ils libérés ?
-  respuesta: 'Selon Tenerife ON, chaque lundi à 7 h (heure des Canaries), des places ouvrent pour les 56 jours suivants. Chaque personne peut détenir une réservation tous les 15 jours.'
-- pregunta: Peut-on monter à pied au sommet sans permis ?
-  respuesta: 'Non : monter sans réservation peut être sanctionné d''une amende. Les alternatives légales sont une nuit au refuge d''Altavista, qui inclut l''accès au sommet de 6 h à 9 h le lendemain matin, ou une ascension guidée qui inclut le permis.'
+- pregunta: Combien de temps à l'avance sortent les permis pour le sommet du Teide ?
+  respuesta: Selon Tenerife ON, chaque lundi à 7 h (heure des Canaries), les places des 56 jours suivants sont ouvertes. Chaque personne peut avoir une réservation tous les 15 jours.
+- pregunta: Peut-on monter au sommet sans permis ?
+  respuesta: 'Non : monter sans réservation peut valoir une amende. Les alternatives légales sont de dormir au refuge d''Altavista, qui comprend l''accès au sommet de 6 h à 9 h le lendemain matin, ou une ascension guidée qui inclut le permis.'
 - pregunta: Le permis inclut-il le téléphérique ?
-  respuesta: 'Non. Ce sont des réservations distinctes : le billet de téléphérique s''achète auprès de Volcano Teide et le permis sur Tenerife ON. Le permis n''est valable que pour son jour et son créneau, même si le téléphérique ne fonctionne pas ce jour-là.'
+  respuesta: 'Non. Ce sont deux réservations séparées : le billet du téléphérique s''achète auprès de Volcano Teide et le permis sur Tenerife ON. Le permis n''est valable que pour son jour et son créneau, même si le téléphérique ne fonctionne pas ce jour-là.'
 - pregunta: Que se passe-t-il si le téléphérique ferme à cause du vent ?
-  respuesta: 'Volcano Teide rembourse votre billet ou vous propose une nouvelle date. Le permis n''est remboursé que si le sentier est fermé ou si le téléphérique ne fonctionne pas, avec l''e-mail de Volcano Teide qui le confirme.'
+  respuesta: Volcano Teide rembourse le billet ou propose un changement de date. Le permis n'est remboursé que si le sentier est fermé ou si le téléphérique ne fonctionne pas, avec l'e-mail de Volcano Teide comme justificatif.
+- pregunta: Peut-on acheter le billet du téléphérique au guichet ?
+  respuesta: Seulement s'il reste de la place, et en haute saison ce n'est presque jamais le cas. Mieux vaut chercher un autre jour ou une autre heure sur volcanoteide.com, ou une excursion avec téléphérique inclus.
 opciones:
   - ficha: teide-teleferico-traslado
     etiqueta: Avec téléphérique
@@ -50,69 +53,53 @@ opciones:
     etiqueta: Ascension à pied
 ---
 
-Monter au Teide exige **deux réservations distinctes** : le billet de téléphérique, vendu par la société qui l'exploite, et le permis pour le dernier tronçon jusqu'au sommet, délivré par le gouvernement de l'île (le Cabildo). Les deux affichent complet en été, à Pâques et pendant les ponts espagnols, et le fait que l'un soit complet ne signifie pas que l'autre le soit. Voici ce que vous pouvez faire dans chaque cas.
+## Téléphérique du Teide complet : changez d'heure ou de jour
 
-## Quel billet choisir ?
+Le billet s'achète sur volcanoteide.com et coûte **environ 42 €** aller-retour par adulte. Il monte en moins de 8 minutes de la station inférieure (2 356 m) à **La Rambleta (3 555 m)**.
 
-| Si vous voulez… | Option | À partir de |
-| --- | --- | --- |
-| Le téléphérique déjà inclus | [Excursion au Teide avec téléphérique et transfert](/fr/cities/tenerife/activities/teide-excursion-telepherique-transfert), 4,3★ (6 121) | 92 € |
-| Le sommet à pied avec un guide | [Randonnée guidée jusqu'au sommet du Teide](/en/cities/tenerife/activities/mount-teide-summit-guided-hike), 4,9★ (94) | 189 € |
-| Le Teide de nuit | [Coucher de soleil et observation des étoiles dans le parc national](/en/cities/tenerife/activities/teide-sunset-stargazing-tour), 4,7★ (3 691) | 35 € |
-| Le Teide et le nord | [Excursion Teide, Icod, Garachico et Masca](/fr/cities/tenerife/activities/tenerife-excursion-teide-masca-icod-garachico), 4,6★ (3 066) | 58 € |
-
-## 1. Le téléphérique : revérifiez et changez d'horaire
-
-Les billets sont vendus sur `volcanoteide.com` et coûtent **environ 42 €** aller-retour par adulte. Le trajet dure moins de 8 minutes, de la station de base (2 356 m) jusqu'à **La Rambleta (3 555 m)**.
-
-- **Essayez d'autres jours.** Si votre date est complète, montez un autre jour de votre séjour : le Teide n'exige pas de date fixe.
+- **Regardez d'autres jours.** Si votre date est complète, montez un autre jour de votre séjour : le Teide n'exige pas de jour précis.
 - **Essayez l'après-midi.** Les créneaux du matin partent en premier ; de fin octobre à mars, la dernière montée est à 16 h.
-- **Ne comptez pas sur le guichet.** Il ne vend que s'il reste de la capacité, ce qui est rare en haute saison.
-- **Si vous venez en voiture, arrivez tôt :** le parking du téléphérique compte environ 220 places.
+- **Ne comptez pas sur le guichet.** Il ne vend que s'il reste de la place, et en saison il n'en reste presque jamais.
+- **En voiture, arrivez tôt :** le parking du téléphérique compte environ 220 places.
 
-## 2. Une excursion avec téléphérique inclus
+## Une excursion avec téléphérique inclus
 
-Si les billets à l'unité sont épuisés, les excursions qui incluent le téléphérique sont le moyen le plus direct de monter. L'**excursion au Teide avec téléphérique et transfert** (7 heures, à partir de 92 €) comprend le billet, un guide et la prise en charge dans le nord et le sud : elle règle donc aussi le problème du stationnement. Elle offre l'**annulation gratuite jusqu'à 24 heures avant**.
+S'il ne reste plus de billets seuls, les excursions avec téléphérique inclus sont le moyen le plus direct de monter. L'**excursion avec téléphérique et transfert** (7 heures, dès 92 €) comprend le billet, le guide et la prise en charge dans le nord et le sud, ce qui évite aussi le problème du parking. **Annulation gratuite jusqu'à 24 heures avant**.
 
-Faites attention à deux choses : elle **n'inclut pas le permis du sommet**, et certaines excursions dans le parc, comme celle de Masca et Garachico, ne prennent pas le téléphérique. Si vous voulez le prendre, cherchez la mention **« billet de téléphérique inclus »** dans la fiche.
+Attention à deux points : elle **n'inclut pas le permis du sommet**, et certains circuits dans le parc, comme celui de Masca et Garachico, ne montent pas en téléphérique. Si vous voulez monter, cherchez « billet de téléphérique inclus » dans la fiche.
 
 [actividad: teide-teleferico-traslado]
 
-## 3. Le permis du sommet : quand les places sont libérées
+## Permis du Teide complet : quand sortent les places
 
-Les 160 derniers mètres, de La Rambleta jusqu'au sommet à 3 715 m par le sentier **Telesforo Bravo**, nécessitent un permis. Depuis août 2025, il se réserve sur **Tenerife ON** (`tenerifeon.es`), la plateforme du Cabildo, et non plus sur le site de réservation des Parcs nationaux. Il coûte **15 €** pour les visiteurs non résidents des Canaries.
+Le dernier tronçon, de La Rambleta au sommet (3 715 m) par le sentier **Telesforo Bravo**, exige un permis. Depuis août 2025, il se demande sur **Tenerife ON** (tenerifeon.es), la plateforme du Cabildo, et non plus sur le site des Parcs nationaux. Il coûte **15 €** pour les visiteurs extérieurs aux Canaries.
 
-- **Les places ouvrent chaque lundi à 7 h** (heure des Canaries) pour les **56 jours suivants**. Si vous visez une date précise, connectez-vous ce lundi-là à cette heure-là.
-- **Revérifiez les jours précédents.** Ceux qui annulent au moins 3 jours à l'avance sont remboursés, donc des places isolées se libèrent.
-- **Une réservation tous les 15 jours par personne**, et ni le jour ni l'heure ne peuvent être modifiés.
-- **Si vous ne pouvez pas y aller, annulez :** ne pas utiliser une réservation peut vous empêcher d'en faire une autre pendant trois mois.
+- **Les places sortent chaque lundi à 7 h** (heure des Canaries) pour les **56 jours suivants**. Pour une date précise, connectez-vous ce lundi-là à cette heure.
+- **Revérifiez les jours précédents :** qui annule au moins 3 jours avant est remboursé, donc des places isolées se libèrent.
+- **Une réservation tous les 15 jours par personne**, sans changement de jour ni d'heure.
+- **Si vous n'y allez pas, annulez :** ne pas utiliser sa réservation peut bloquer toute nouvelle demande pendant trois mois.
 
-Sans permis, vous profitez quand même des vues : depuis La Rambleta, deux courts sentiers mènent aux belvédères de **La Fortaleza** et du **Pico Viejo**, qui n'en exigent pas.
+Sans permis, vous ne manquez pas la vue : depuis La Rambleta, deux courts sentiers mènent aux belvédères de **La Fortaleza** et du **Pico Viejo**, sans permis.
 
-## 4. Le refuge d'Altavista ou une ascension guidée
+## Le refuge d'Altavista ou une ascension guidée
 
 Si vous n'obtenez pas de permis, il existe deux façons légales d'atteindre le sommet :
 
-- **Une nuit au refuge d'Altavista (3 260 m).** Il a rouvert le 20 juillet 2026 après des années de fermeture. Une nuit coûte **71 €**, et la réservation, sur `refugioaltavista.com`, inclut les permis pour les sentiers de Montaña Blanca et Telesforo Bravo, avec accès au sommet **de 6 h à 9 h** le lendemain matin, avant l'ouverture du téléphérique. Il compte 49 places et on y accède à pied par le sentier de Montaña Blanca : réservé aux randonneurs de montagne aguerris.
-- **Une ascension guidée.** Volcano Teide indique que ses propres activités guidées au sommet incluent le permis du cratère. La [randonnée guidée jusqu'au sommet](/en/cities/tenerife/activities/mount-teide-summit-guided-hike) que nous proposons (à partir de 189 €, groupes de 8) n'inclut pas le billet de téléphérique : avant de réserver, confirmez auprès de l'opérateur qui s'occupe du permis.
+- **Dormir au refuge d'Altavista (3 260 m).** Il a rouvert le 20 juillet 2026 après des années de fermeture. La nuit coûte **71 €** et la réservation, sur refugioaltavista.com, inclut les permis des sentiers de Montaña Blanca et Telesforo Bravo, avec accès au sommet **de 6 h à 9 h** le lendemain matin, avant l'arrivée du téléphérique. 49 places, accès à pied par le sentier de Montaña Blanca : réservé aux marcheurs à l'aise en montagne.
+- **Une ascension guidée.** Volcano Teide indique que ses activités guidées au sommet incluent le permis du cratère. L'[ascension guidée au sommet](/en/cities/tenerife/activities/mount-teide-summit-guided-hike) que nous proposons (dès 189 €, groupes de 8) n'inclut pas le billet du téléphérique : confirmez avec le prestataire qui s'occupe du permis avant de réserver.
 
-## 5. Le Teide sans monter
+## Le Teide sans monter
 
-Si rien ne fonctionne, le parc vaut quand même le déplacement :
+Si rien ne marche, le parc vaut quand même le voyage :
 
 - Le **circuit des Roques de García** (3,6 km, environ 2 heures), avec le Teide en toile de fond.
 - Les belvédères de la route TF-21, comme celui de **Minas de San José**.
-- Les **étoiles** : les excursions d'observation au coucher du soleil avec télescope utilisent des belvédères du parc et ne nécessitent ni téléphérique ni permis.
+- Les **étoiles** : les sorties au coucher du soleil avec télescope se font depuis des belvédères du parc, sans téléphérique ni permis.
 
-[actividad: atardecer-estrellas-teide-telescopio]
+## Conseils
 
-## Erreurs à éviter
-
-1. **Croire que le billet de téléphérique inclut le sommet.** Ce n'est pas le cas : sans permis, vous vous arrêtez à La Rambleta.
-2. **Réserver le permis sans le faire coïncider avec le téléphérique.** Le permis n'est valable que pour son créneau, même si le téléphérique ne fonctionne pas ce jour-là.
-3. **Monter en sandales.** Le téléphérique exige des chaussures fermées, et il fait froid en haut toute l'année.
-4. **Réserver une excursion sans vérifier qu'elle prend le téléphérique.** Certaines excursions dans le parc ne s'arrêtent qu'aux belvédères.
-
-## En une phrase
-
-Si le téléphérique est complet, réservez une excursion qui l'inclut, et si c'est le permis qui vous manque, connectez-vous à Tenerife ON le lundi à 7 h ou dormez à Altavista ; tout le reste se trouve dans [l'ascension du Teide](/fr/guides/tenerife/ascension-du-teide).
+- **Le billet du téléphérique n'inclut pas le sommet :** sans permis, vous n'allez que jusqu'à La Rambleta.
+- **Calez le permis sur le téléphérique :** le permis ne vaut que pour son créneau, même si le téléphérique ne fonctionne pas ce jour-là.
+- **Ne montez pas en sandales :** le téléphérique exige des chaussures fermées et il fait froid en haut toute l'année.
+- **Vérifiez si l'excursion monte en téléphérique :** certains circuits ne s'arrêtent qu'aux belvédères.
+- Tout le reste dans [l'ascension du Teide](/fr/guides/tenerife/ascension-du-teide).

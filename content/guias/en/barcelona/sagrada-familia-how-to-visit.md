@@ -5,7 +5,7 @@ metaTitle: 'Visiting Sagrada Familia: tips and mistakes'
 categoria: "barcelona"
 slug: "sagrada-familia-how-to-visit"
 fecha: "2026-05-02"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
@@ -25,7 +25,8 @@ slugs:
   fr: sagrada-familia-comment-la-visiter
   it: sagrada-familia-come-visitarla
   pt: sagrada-familia-como-visitar
-respuestaCorta: 'Book only at **sagradafamilia.org**, **4–6 weeks ahead** (in July and August, as soon as they go on sale, about two months before): there is no ticket office. The **basic ticket with audio guide costs €26** and is enough for a first visit; towers add €10. Take the **9 AM slot** and plan 1.5–2 hours.'
+intro: '**Visiting the Sagrada Família** means stepping into Gaudí''s unfinished basilica: a nave whose columns branch out like trees, **stained glass** that turns the light blue in the morning and red in the afternoon, two opposing façades and the crypt with his tomb. Since 2026, with the **Tower of Jesus**, it''s the tallest church in the world. The visit takes 1 h 30 to 2 hours.'
+respuestaCorta: 'When **visiting the Sagrada Família**, buy only at sagradafamilia.org, **4-6 weeks ahead** (in summer, as soon as they''re released, about two months before): **there''s no ticket office**. The **basic ticket with audio guide costs €26**; with a tower, €36. Book the **9:00 slot**, the Hour of Silence, and allow 1 h 30 to 2 hours inside.'
 reservasArriba: true
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
@@ -33,16 +34,16 @@ actividades:
   - sagrada-familia-tour-con-torre
   - park-guell-entrada-zona-monumental
 faq:
-  - pregunta: "How much does a Sagrada Familia ticket cost in 2026?"
-    respuesta: "The basic ticket costs €26 and includes basilica access plus a downloadable audio guide in 19 languages. Adding a tower climb brings it to €36, and a group guided visit costs €30 (€40 with towers). Barcelona residents get a 50% discount throughout 2026, the Gaudí Year, by emailing residents@ext.sagradafamilia.org with proof of residency."
-  - pregunta: "How far ahead should I book Sagrada Familia tickets?"
-    respuesta: "Book 4 to 6 weeks ahead for a good time slot, and as soon as tickets go on sale, about two months ahead, if visiting in July, August, Holy Week or Spanish bank holidays, when demand roughly doubles. Tickets are sold only online at sagradafamilia.org or through the purchase QR codes around the basilica, if there is capacity; there is no ticket office."
-  - pregunta: "Is it worth paying extra to climb the Sagrada Familia towers?"
-    respuesta: "For most first-time visitors, no. You go up by elevator but come down a narrow spiral staircase, it is not wheelchair-accessible or recommended for vertigo, and you photograph the spires from inside them rather than seeing them whole. What matters most, the stained glass, is already included in the basic €26 ticket. The €10 tower upgrade is worth it mainly if you still have budget left after Park Güell or Casa Batlló."
-  - pregunta: "What is the dress code at Sagrada Familia?"
-    respuesta: "It is an active Catholic church with an enforced dress code: shoulders covered, skirts and trousers reaching at least mid-thigh, no see-through clothing, no swimwear or beach flip-flops, and no hats or caps inside the nave. Staff deny entry at the security check for violations, so dress as you would for any European church."
-  - pregunta: "What is the Hour of Silence at Sagrada Familia?"
-    respuesta: "Starting February 2, 2026, the basilica designates 9 to 10 AM every day as the Hour of Silence: headphones are mandatory for audio guides, no speaker audio is allowed, and visitors are asked to stay quiet. It is also the best time to visit, since it is less crowded and the morning light hits the east-side stained glass."
+- pregunta: How much is a Sagrada Familia ticket in 2026?
+  respuesta: The basic ticket costs €26 and includes entry to the basilica plus a downloadable audio guide in 19 languages. With a tower climb it's €36; the group guided tour is €30 (€40 with towers). Barcelona residents get 50% off throughout 2026, the Gaudí Year, by emailing residents@ext.sagradafamilia.org with proof of registration.
+- pregunta: How far ahead should you book the Sagrada Familia?
+  respuesta: 4 to 6 weeks ahead to get a good time, and as soon as tickets are released, about two months before, if you're visiting in July or August, Easter or Spanish long weekends. Tickets are only sold online at sagradafamilia.org or through the purchase QR codes around the basilica, if there's capacity; there's no ticket office.
+- pregunta: Is it worth paying extra to climb the Sagrada Familia towers?
+  respuesta: For most first visits, no. You go up by lift but come down a narrow spiral staircase; it isn't wheelchair accessible or advisable if you suffer from vertigo, and from the top you can't see the towers whole. What matters most, the stained glass, is already included in the €26 basic ticket.
+- pregunta: What is the Sagrada Familia dress code?
+  respuesta: 'It''s a working church: shoulders covered, skirts and shorts reaching at least mid-thigh, nothing see-through, no swimwear or beach flip-flops, and no caps or hats inside. Security staff refuse entry if you don''t comply.'
+- pregunta: What is the Hour of Silence at the Sagrada Familia?
+  respuesta: 'Since 2 February 2026, the basilica reserves 9:00 to 10:00 every day as the Hour of Silence: headphones are compulsory for audio guides, no audio through speakers and silence inside. It''s also the best time to visit, with fewer people and morning light on the east windows.'
 opciones:
   - ficha: entrada-sagrada-familia-audioguia
     etiqueta: Cheapest
@@ -52,102 +53,50 @@ opciones:
     etiqueta: Small group
 ---
 
-Sagrada Familia gets about 4.5 million visitors a year, sells tickets only online in timed slots, and sells out weeks ahead. Here is which ticket to buy, when to book, whether to climb a tower, and the mistakes that get people turned away at the door.
+## What you'll see, and in what order
 
-## Which ticket should you choose?
+1. **Nativity façade:** the only one finished in Gaudí's lifetime, with every figure, animal and plant loaded with symbolism. This is where you enter.
+2. **The nave:** the columns lean and branch out at 25 metres like trees, holding up the vault without a single flying buttress.
+3. **The stained glass:** the east windows (Nativity) in blues and greens; the west windows (Passion) in reds and oranges. The former glow in the morning, the latter in the afternoon. If you can only go once, go in the morning.
+4. **Passion façade:** austere and almost cubist, by Subirachs from Gaudí's sketches, deliberately the opposite of the Nativity.
+5. **Crypt and Gaudí Museum**, in the basement: Gaudí's tomb, the funicular models and the plans. Fifteen minutes that explain everything upstairs.
 
-| Ticket | Price | What's included |
-| --- | --- | --- |
-| Sagrada Familia (basic) | €26 | Basilica access + downloadable audio guide |
-| With guided visit | €30 | Access + official guide in group (1.5 h) |
-| With towers | €36 | Basic + climb to one of the two towers |
-| Guided + towers | €40 | Full guided visit with towers |
+Realistic time: **1 h 30 to 2 hours** without towers; **2 h 30 to 3** with towers.
 
-- For a first visit, the **basic ticket with audio guide (€26)** is enough; the official audio guide is good and comes in 19 languages. The guided visit (€30) suits you if you want the symbolism explained, but it fixes your pace.
-- **Discounts:** retirees €21, under-30s with Youth Card and students €24. **Children under 11 enter free** (max two per adult) but need a named ticket at the same checkout. Visitors with a disability of 65% or more enter free with one companion.
-- **Barcelona residents get 50% off throughout 2026** (Gaudí Year): email `residents@ext.sagradafamilia.org` with your DNI or census certificate.
+## Sagrada Família prices and opening hours
 
-## When to book: it sells out
+- **Basic:** €26, basilica plus audio guide in 19 languages. Enough for a first visit.
+- **With guided tour:** €30, official group guide, 1 h 30.
+- **With tower:** €36. **Guided with towers:** €40.
+- **Discounts:** seniors €21; students and under-30s with a Carnet Jove €24; **under-11s free** (two per adult), with a named ticket. In 2026, Barcelona residents get 50% off with proof of registration.
 
-Tickets are sold **only online** at `sagradafamilia.org`. There is no sale at the gate.
+**Hours:** April to September, 9:00 to 20:00; March and October, until 19:00; November to February, until 18:00. **Saturdays** always until 18:00, and **on Sundays it opens at 10:30**. Last entry 45 minutes before closing. On 25 and 26 December and 1 and 6 January, 9:00 to 14:00 only.
 
-| Lead time | Likelihood of a good slot |
-| --- | --- |
-| 4–6 weeks (recommended) | High, you pick your preferred time |
-| 2–4 weeks | Medium, possibly only bad slots left |
-| 1 week | Low in mid-high season |
-| Day before | Lottery. Unlikely in high season |
-| Same day | Almost impossible. Cancellations only |
+## How to buy tickets (and what if they're sold out)
 
-> **Warning:** in **July and August, Holy Week and Spanish bank holidays**, book **as soon as tickets go on sale, about two months ahead**. 2026 is the centenary of Gaudí's death, and the Tower of Jesus (172.5 m, the tallest church in the world) was inaugurated on 10 June, so demand is higher than usual.
-
-If everything is gone, see [what to do when Sagrada Familia tickets are sold out](/en/guides/barcelona/sagrada-familia-tickets-sold-out).
-
-Other resellers add €5–15 in commission and some sell fake tickets. If the official site is sold out, guided tours hold their own allocations.
+**Tickets are only sold online** at sagradafamilia.org (or via the purchase QR codes around the basilica, if there's capacity); **there's no ticket office**. With 4-6 weeks you pick your slot; with one week in high season it's already hard; on the day, almost impossible. For Easter, long weekends and summer, buy as soon as they're released, about two months ahead. Avoid unofficial sites, which charge €5-15 in fees.
 
 [actividad: entrada-sagrada-familia-audioguia]
 
-## Should you climb the towers?
+If it's sold out, guided tours have their own allocations: we compare them in [which ticket or tour to choose](/en/guides/barcelona/sagrada-familia-which-ticket-to-choose), and all the alternatives in [what to do if tickets are sold out](/en/guides/barcelona/sagrada-familia-tickets-sold-out).
 
-You climb one of two towers (€10 over the basic ticket):
+## Which Sagrada Família tower to climb?
 
-| Tower | View | Atmosphere |
-| --- | --- | --- |
-| Nativity | Toward the sea and the older façade | More original, east-side stained glass |
-| Passion | Toward the Eixample, urban view | More modern, more austere lines |
+The ticket gives access to **just one tower** and you don't choose it: the monument assigns it depending on the day and the works. The **Nativity** tower looks out to sea and over Gaudí's original façade; the **Passion** tower over the Eixample, more austere.
 
-For most first-timers, it isn't worth it. You go up by lift but **come down a narrow spiral staircase**: not wheelchair accessible, bad for vertigo or claustrophobia, and closed to under-6s. You see the spires from inside rather than whole, and Bunkers del Carmel or Tibidabo give comparable views for free. What matters here is the **stained glass from inside**, included in the basic ticket. If the budget is tight, spend the €10 on Park Güell or Casa Batlló instead.
+You go up by lift and come down a **narrow spiral staircase**: not for vertigo, claustrophobia, wheelchairs or under-6s. From the top you can't see the towers whole, and the Bunkers del Carmel or Tibidabo give comparable views for free. What justifies the visit is the stained glass from inside, and the basic ticket already gives you that: if you have to choose, that €10 is better spent on Park Güell.
 
-[actividad: sagrada-familia-tour-con-torre]
+## Hour of Silence and Gaudí Year 2026
 
-## The Hour of Silence: book 9 AM
+**Hour of Silence.** Since 2 February 2026, every day from **9:00 to 10:00**: headphones compulsory, no audio on speakers and silence inside. It's the best time to visit: fewer people, morning light through the east windows and an intimate atmosphere. Book the 9:00 slot.
 
-Since 2 February 2026, **9 to 10 AM** every day is the Hour of Silence: headphones are mandatory for audio guides, no speaker audio, and visitors keep quiet. Visits run normally. It's the **best slot of the day**: fewer people and morning light through the east windows.
+**Gaudí Year.** 10 June 2026 marked a hundred years since Gaudí's death, and that day the 172.5-metre **Tower of Jesus** was inaugurated, making the Sagrada Família the tallest church in the world. Crowds are bigger than ever: book further ahead and expect dense queues in summer. The final touches, such as the Glory façade, will continue until 2035.
 
-## Hours and getting there
+## Getting there, dress code and tips
 
-| Season | Mon–Fri | Saturdays | Sundays |
-| --- | --- | --- | --- |
-| November–February | 9 AM – 6 PM | 9 AM – 6 PM | 10:30 AM – 6 PM |
-| March and October | 9 AM – 7 PM | 9 AM – 6 PM | 10:30 AM – 7 PM |
-| April–September | 9 AM – 8 PM | 9 AM – 6 PM | 10:30 AM – 8 PM |
+- **Getting there:** metro L2 and L5, Sagrada Família stop, right by the basilica. Entry is through the Nativity façade, on Carrer de la Marina. Arrive **15-20 minutes before** your slot.
+- **Dress code:** it's a working church and it's enforced at security. Shoulders covered, skirts and shorts below mid-thigh, nothing see-through, no swimwear, beach flip-flops or caps inside. In summer people are turned away daily; keep a scarf in your bag.
+- **Not allowed:** eating, drinking, flash or selfie sticks.
+- **Don't skip the crypt and museum**, and don't try to see it in half an hour.
 
-- **Last entry** 45 minutes before closing. On 25–26 December and 1 and 6 January, 9 AM – 2 PM only.
-- **Metro L2 and L5**, Sagrada Familia stop, at the foot of the basilica. Buses 19, 33, 34, D50, H10 and B24.
-- The general entrance is on the **Nativity façade, Carrer de la Marina**. Arrive 15–20 minutes before your slot; late arrivals have little tolerance.
-
-## Dress code
-
-It's an active Catholic church and security enforces the code:
-
-- **Shoulders covered**: no tank tops, thin straps or crop tops.
-- **Skirts and shorts at least to mid-thigh.**
-- No see-through clothing, swimwear, beach flip-flops or bare feet.
-- **No hats or caps** inside (except for religious or health reasons).
-
-In summer people are turned away in beachwear. Nearby shops sell cover-ups, but you lose 30 minutes. No food, drink, selfie sticks or flash inside.
-
-## Visit plan
-
-Allow **1.5–2 hours without towers, 2.5–3 hours with**.
-
-| Time | Activity |
-| --- | --- |
-| 9 AM | Entry (Hour of Silence) |
-| 9–9:30 AM | Nativity façade, Gaudí's original, from inside |
-| 9:30–10 AM | Central nave, tree-like columns, east stained glass |
-| 10–10:30 AM | Passion façade and west stained glass |
-| 10:30–11 AM | Crypt and Gaudí Museum (basement) |
-| 11–11:30 AM | Tower climb, if booked |
-
-In the morning the east (Nativity) windows glow blue and green; in the afternoon the west (Passion) windows glow red, orange and yellow. If you can only go once, go in the morning.
-
-## What to look at
-
-- **The nave.** The columns tilt and branch like trees from 25 metres up, carrying the vault so there are no external flying buttresses.
-- **The stained glass.** Cool tones on the east for dawn and Christ's birth; warm tones on the west for the Passion and sunset.
-- **The Nativity façade.** The only one finished in Gaudí's lifetime; every figure, animal and plant carries a meaning.
-- **The Passion façade.** Austere, almost Cubist figures by Josep Maria Subirachs, a deliberate contrast with the Nativity.
-- **The crypt and Gaudí Museum.** Gaudí's tomb, catenary models and original plans. Many visitors skip it; give it 15–20 minutes, it explains what you saw upstairs.
-
-Fitting it into a longer stay? See [Barcelona in 1 day](/en/guides/barcelona/barcelona-in-1-day) or [Barcelona in 3 days](/en/guides/barcelona/barcelona-in-3-days).
+To fit it into your trip, see [Barcelona in 1 day](/en/guides/barcelona/barcelona-in-1-day) or [in 3 days](/en/guides/barcelona/barcelona-in-3-days).

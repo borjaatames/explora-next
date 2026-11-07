@@ -5,14 +5,14 @@ metaTitle: 'Ávila Sehenswürdigkeiten: Tagesausflug'
 categoria: madrid
 slug: avila-sehenswuerdigkeiten-tagesausflug
 fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/actividades/madrid/muralla-avila/muralla-avila-fortress-citadel-fortification-hero.webp
 imagen_alt: Die mittelalterliche Stadtmauer von Ávila mit ihren Granittürmen rund um die Altstadt
-tiempo_lectura: 6
+tiempo_lectura: 5
 keywords:
   - ávila sehenswürdigkeiten
   - avila sehenswürdigkeiten
@@ -28,98 +28,79 @@ slugs:
   it: cosa-vedere-ad-avila-in-un-giorno
   pt: o-que-ver-em-avila-num-dia
 reservasArriba: true
-respuestaCorta: 'Nimm einen **Renfe-Regionalzug (Media Distancia) ab Príncipe Pío oder Chamartín (1 Std. 20 bis 1 Std. 40)** oder den Bus von Jiménez Dorado ab Estación Sur (etwa 1 Std. 30). Ein Tag reicht bequem: **auf der Stadtmauer gehen (8 €; dienstags 14–16 Uhr gratis)**, die **Kathedrale (10 €)**, die **Basilika San Vicente** und zum Schluss der Aussichtspunkt **Cuatro Postes** mit Blick auf den ganzen Mauerring. Achtung: **Von Ende Oktober bis März ist die Mauer montags geschlossen**.'
+intro: 'Bei den Ávila Sehenswürdigkeiten steht die **Stadtmauer** an erster Stelle: zweieinhalb Kilometer Granit mit 87 Türmen, vollständig erhalten, rund um eine Stadt, die noch immer hineinpasst. Du läufst oben auf ihr entlang und siehst sie von den Cuatro Postes aus ganz. Dazu kommen eine Kathedrale, die halb Festung ist, eine erstklassige romanische Basilika und die Stadt der heiligen Teresa. Ávila liegt anderthalb Stunden von Madrid entfernt.'
+respuestaCorta: 'Ávila Sehenswürdigkeiten für einen Tag: die **Stadtmauer (8 €; dienstags 14:00–16:00 Uhr gratis)**, die **Kathedrale (10 €)**, **San Vicente** und die **Cuatro Postes**. Anreise mit dem **Zug ab Príncipe Pío oder Chamartín (1 Std. 20–1 Std. 40)** oder mit dem Bus ab Estación Sur. **Von Ende Oktober bis März ist die Mauer montags geschlossen.**'
 actividades:
   - excursion-avila-segovia-con-entradas
   - excursion-avila-segovia-economica
   - excursion-avila-salamanca
   - excursion-toledo-segovia-avila
 faq:
-  - pregunta: Was kostet der Spaziergang auf der Stadtmauer von Ávila?
-    respuesta: 'Der Eintritt kostet 8 € (ermäßigt 5 €) und gilt für alle geöffneten Abschnitte. Gratis ist es dienstags von 14:00 bis 16:00 Uhr (außer an Feiertagen und am Vortag), für Kinder unter 12 Jahren und für Einwohner von Ávila. Letzter Einlass 45 Minuten vor Schließung.'
-  - pregunta: Wann ist die Stadtmauer von Ávila geöffnet?
-    respuesta: 'Im Winter (Ende Oktober bis März) dienstags bis sonntags von 10:00 bis 18:00 Uhr, montags geschlossen. Im Frühling und Herbst täglich von 10:00 bis 20:00 Uhr. Im Juli und August vormittags und abends, je nach Tag bis 21:00 oder 23:00 Uhr. Die genauen Saisondaten ändern sich jedes Jahr, prüf sie vorher auf der Tourismus-Website von Ávila.'
-  - pregunta: Wie komme ich ohne Auto von Madrid nach Ávila?
-    respuesta: 'Mit dem Renfe-Regionalzug ab Príncipe Pío oder Chamartín (1 Std. 20 bis 1 Std. 40, ab etwa 10–13 € pro Strecke) oder mit dem Bus von Jiménez Dorado ab Estación Sur in Méndez Álvaro (etwa 1 Std. 30, ab etwa 10 €). Beide Bahnhöfe in Ávila liegen 15 bis 20 Minuten zu Fuß von der Mauer entfernt, ohne Steigung.'
-  - pregunta: Lohnt sich Ávila, wenn ich Segovia oder Toledo schon kenne?
-    respuesta: 'Ja, aus einem Grund: die Stadtmauer. Sie ist vollständig erhalten, man kann oben entlanggehen und den ganzen Ring von außerhalb der Stadt sehen, was sonst nirgends in Spanien geht. Der Rest von Ávila ist ruhiger und schlichter als Segovia oder Toledo.'
-  - pregunta: Ávila oder Segovia ab Madrid?
-    respuesta: 'Mit nur einem Tag Segovia: näher (etwa 30 Minuten mit dem Avant) und mit drei erstklassigen Sehenswürdigkeiten. Ávila liegt anderthalb Stunden entfernt und ist strenger, aber seine Mauer ist einzigartig. Mit zwei Tagen beide.'
+- pregunta: Was kostet der Rundgang auf der Stadtmauer von Ávila?
+  respuesta: Der normale Eintritt kostet 8 € (ermäßigt 5 €) und gilt für die geöffneten Abschnitte. Gratis ist es dienstags von 14:00 bis 16:00 Uhr (außer an Feiertagen und deren Vortagen), für Kinder unter 12 und für in Ávila gemeldete Einwohner. Letzter Einlass 45 Minuten vor Schließung.
+- pregunta: Wann ist die Stadtmauer von Ávila geöffnet?
+  respuesta: 'Im Winter (Ende Oktober bis März) dienstags bis sonntags von 10:00 bis 18:00 Uhr, montags geschlossen. Im Frühling und Herbst täglich von 10:00 bis 20:00 Uhr. Im Juli und August vormittags und nachmittags bis 21:00 oder 23:00 Uhr, je nach Tag. Die genauen Daten ändern sich jedes Jahr: Prüf sie vorher auf der Tourismus-Website von Ávila.'
+- pregunta: Wie komme ich ohne Auto von Madrid nach Ávila?
+  respuesta: Mit dem Media-Distancia-Zug von Renfe ab Príncipe Pío oder Chamartín (1 Std. 20–1 Std. 40, ab etwa 10–13 € pro Fahrt) oder mit dem Bus von Jiménez Dorado ab der Estación Sur in Méndez Álvaro (etwa 1 Std. 30, ab etwa 10 €). Beide Bahnhöfe in Ávila liegen 15–20 Minuten zu Fuß von der Mauer entfernt, ebenerdig.
+- pregunta: Wie viel Zeit braucht man für Ávila?
+  respuesta: 'Ein ganzer Tag reicht: Mauer, Kathedrale, San Vicente, das Teresa-Viertel und die Cuatro Postes. Ein halber Tag genügt für Mauer und Kathedrale, wie bei den Ausflügen, die Ávila mit Segovia oder Salamanca kombinieren.'
+- pregunta: Ávila oder Segovia ab Madrid?
+  respuesta: 'Segovia liegt näher (etwa 30 Minuten mit dem Avant) und hat drei erstklassige Monumente. Ávila ist anderthalb Stunden entfernt und herber, aber seine Mauer ist einzigartig: Man läuft oben entlang und sieht sie ganz. Mit einem Tag Segovia, mit zwei beide.'
 ---
 
-**Die wichtigste Sehenswürdigkeit von Ávila ist seine Stadtmauer**: etwa zweieinhalb Kilometer Granit mit 87 Türmen, vollständig erhalten, um eine Stadt, die noch immer hineinpasst. Du gehst oben entlang, du umrundest sie, und von einem Hügel vor der Stadt siehst du sie auf einen Blick, was bei keiner anderen ummauerten Stadt in Spanien geht. Drinnen gibt es eine Kathedrale, die halb Festung ist, eine der besten romanischen Kirchen Kastiliens und die Geburtsstadt der heiligen Teresa. Ávila ist schlichter und kälter als Segovia oder Toledo, und viel ruhiger. So siehst du es an einem Tag ab Madrid.
+## Ávila Sehenswürdigkeiten
 
-## Wann hinfahren
+**Die Stadtmauer und der Wehrgang** (8 €). Es gibt mehrere Zugänge, und sie sind nicht gleich. Geh an der **Casa de las Carnicerías** neben der Kathedrale hinauf (mit Aufzug): Dort beginnt der **lange Abschnitt**, der den Norden der Stadt entlangführt, mit Blick auf San Vicente und das Tal des Adaja. Der Zugang an der **Puerta del Alcázar** führt nur zum kurzen Abschnitt. Das Ticket gilt für beide, und insgesamt läufst du etwa **1,7 km** oben entlang. Dienstags von 14:00 bis 16:00 Uhr ist es gratis, dann ist es aber am vollsten.
 
-| Zeitraum | Urteil |
-| --- | --- |
-| Mai, Juni, September und Oktober | Am besten: Die Mauer ist täglich bis 20:00 Uhr geöffnet |
-| Juli und August | Kühl für einen spanischen Sommer; die Mauer ist lange geöffnet, und es gibt Nachtführungen |
-| Ende Oktober bis März | Richtig kalt (auf etwa 1.130 m ist Ávila die höchstgelegene Provinzhauptstadt Spaniens), montags ist die Mauer geschlossen |
-| Oktober, Fest der heiligen Teresa | Lebendig; prüf Sonderzeiten der Kathedrale |
+**Die Kathedrale** (10 €; Montag bis Samstag 10:00–20:00 Uhr, sonntags ab 12:30 Uhr). Ihre Apsis, der **Cimorro**, ist ein weiterer Turm der Mauer: eine Kirche, gebaut, um sich zu verteidigen. Drinnen der „blutende Stein“ (roter und weißer Granit) und der Trasaltar. Der Turmaufstieg ist wegen Bauarbeiten ausgesetzt: Rechne nicht damit.
 
-Im Winter keinen Montag wählen.
+**Die Basilika San Vicente** (etwa 3 €). Außerhalb der Mauer, gegenüber dem gleichnamigen Tor. Romanisch, mit dem Westportal und dem Kenotaph der Märtyrerheiligen. Die schönste Kirche Ávilas und die am wenigsten besuchte.
 
-## Von Madrid nach Ávila
+**Das Ávila der heiligen Teresa.** Das **Kloster Santa Teresa**, über ihrem Geburtshaus errichtet, und der Platz **Mercado Chico**, das bürgerliche Zentrum der Stadt. Wenn dich die Heilige interessiert: Im **Kloster La Encarnación** außerhalb der Mauer lebte sie fast dreißig Jahre.
 
-| Option | Fahrzeit | Preis (ca.) | Gut zu wissen |
-| --- | --- | --- | --- |
-| Renfe-Regionalzug ab Príncipe Pío oder Chamartín | 1 Std. 20 – 1 Std. 40 | ab etwa 10–13 € pro Strecke | Dynamische Preise: früh buchen. Den letzten Zug zurück prüfen |
-| Bus von Jiménez Dorado ab Estación Sur | etwa 1 Std. 30 | ab etwa 10 € pro Strecke | An Feiertagen weniger Abfahrten |
-| Auto | 1 Std. 15 (etwa 111 km) | Maut AP-6 und AP-51: etwa 11–13 € | An einem der Tore parken; innerhalb der Mauer ist der Verkehr beschränkt |
-| Geführte Tour | 9–11 Std. | ab 51 € | Kombiniert Ávila mit Segovia oder Salamanca: je ein halber Tag |
+**Die Cuatro Postes.** Ein Bildstock aus dem 16. Jahrhundert auf einem Hügel jenseits des Flusses Adaja, etwa 20 Minuten zu Fuß von der **Puerta del Puente**. Von hier siehst du die ganze Mauer, mit den Türmen und der Kathedrale. Kostenlos, immer zugänglich und am schönsten am späten Nachmittag, wenn der Granit golden leuchtet.
 
-Es ist keine Schnellfahrstrecke: Der Zug ist ein Regionalzug, der Fahrplan also dünner als nach Toledo oder Segovia. Bahnhof und Busbahnhof liegen nebeneinander östlich der Mauer, etwa 1,3 km eben vom Tor San Vicente entfernt (15 bis 20 Minuten zu Fuß oder Stadtbus 1).
+**Wenn eine Stunde übrig ist:** das **Kloster Santo Tomás** mit dem Grab des Prinzen Johann, Sohn der Katholischen Könige, und drei Kreuzgängen.
 
-## Zeitplan für einen Tag
+## Tagesroute Stunde für Stunde
 
 | Uhrzeit | Plan |
 | --- | --- |
 | 9:00 | Zug ab Madrid |
-| 10:30 | Zu Fuß vom Bahnhof zum Tor San Vicente |
-| 10:45 | Basilika San Vicente (40 Min.) |
-| 11:30 | Stadtmauer ab Casa de las Carnicerías: der lange Abschnitt (1 Std.) |
+| 10:30 | Spaziergang vom Bahnhof zur Puerta de San Vicente |
+| 10:45 | Basilika San Vicente (40 Minuten) |
+| 11:30 | Mauer ab der Casa de las Carnicerías: der lange Abschnitt (1 Std.) |
 | 12:45 | Kathedrale (1 Std.) |
-| 14:00 | Mittagessen: Chuletón, Bohnen aus El Barco oder Patatas revolconas |
-| 15:30 | Mercado Chico, Kloster der heiligen Teresa und Tor des Alcázar |
-| 16:30 | Durch das Tor del Puente hinaus und hinauf zu den Cuatro Postes |
-| 17:30 | Yemas kaufen und zurück zum Bahnhof |
+| 14:00 | Mittagessen: Chuletón, Judías del Barco oder Patatas revolconas |
+| 15:30 | Mercado Chico, Kloster Santa Teresa und Puerta del Alcázar |
+| 16:30 | Hinunter durch die Puerta del Puente und hinauf zu den Cuatro Postes |
+| 17:30 | Yemas und zurück zum Bahnhof |
 
-## Ávila Sehenswürdigkeiten, ehrlich sortiert
+## Von Madrid nach Ávila: Zug, Bus oder Auto
 
-**Auf der Stadtmauer gehen** (8 €). Es gibt mehrere Eingänge, und sie sind nicht gleichwertig. Geh an der **Casa de las Carnicerías** neben der Kathedrale hinauf (dort gibt es einen Aufzug): Von hier aus erreichst du den **langen Abschnitt** an der Nordseite, mit Blick auf San Vicente und das Tal des Adaja. Der Eingang am **Tor des Alcázar** führt nur auf den kurzen Abschnitt. Ein Ticket gilt für alle, insgesamt kannst du fast 1,7 km oben entlanggehen. Dienstags von 14 bis 16 Uhr ist es gratis, und dann auch am vollsten.
+- **Media-Distancia-Zug (Renfe)** ab Príncipe Pío oder Chamartín: **1 Std. 20–1 Std. 40**, ab etwa 10–13 € pro Fahrt. Dynamische Preise: früh kaufen und den letzten Zug zurück notieren, denn es fahren weniger Züge als nach Segovia oder Toledo.
+- **Bus von Jiménez Dorado** ab der Estación Sur: etwa **1 Std. 30**, ab etwa 10 € pro Fahrt. An Feiertagen weniger Abfahrten.
+- **Auto:** 1 Std. 15 (etwa 111 km), mit Maut auf der AP-6 und AP-51 von etwa 11–13 €. Park an einem der Tore; innerhalb der Mauer ist der Verkehr beschränkt.
+- **Organisierter Ausflug:** 9–11 Stunden, ab 51 €. Kombiniert Ávila mit Segovia oder Salamanca, je ein halber Tag.
 
-**Die Kathedrale** (10 €; Montag bis Samstag 10:00 bis 20:00 Uhr, sonntags ab 12:30 Uhr). Ihre Apsis, der **Cimorro**, ist buchstäblich einer der Mauertürme: eine Kirche, die zur Verteidigung gebaut wurde. Drinnen lohnt der rot-weiß gefleckte Stein und der geschnitzte Trasaltar hinter dem Hauptaltar. Der Turmaufstieg ist wegen Restaurierung derzeit ausgesetzt, plane ihn also nicht ein.
+Bahnhof und Busbahnhof liegen nebeneinander, östlich und außerhalb der Mauer: etwa **1,3 km ebenerdig** bis zur Puerta de San Vicente (15–20 Minuten zu Fuß oder Stadtbus 1).
 
-**Die Basilika San Vicente** (etwa 3 €). Direkt vor der Mauer, gegenüber dem gleichnamigen Tor. Romanisch, mit einem großartigen Westportal und dem skulptierten Grabmal der Märtyrerheiligen. Die schönste Kirche Ávilas, und die, die die meisten Tagesausflügler verpassen.
+## Wann hinfahren
 
-**Das Ávila der heiligen Teresa.** Das **Kloster der heiligen Teresa**, über ihrem Geburtshaus erbaut, und der **Mercado Chico**, der Hauptplatz der Stadt. Wenn sie dir etwas bedeutet: Im **Kloster der Menschwerdung** (Encarnación) außerhalb der Mauer lebte sie fast dreißig Jahre. Wenn nicht, reicht es, daran vorbeizugehen.
-
-**Die Cuatro Postes.** Ein Andachtsort aus dem 16. Jahrhundert auf einem Hügel jenseits des Adaja, etwa 20 Minuten zu Fuß vom **Tor del Puente**. Von hier siehst du die ganze Mauer mit ihren Türmen und der Kathedrale dahinter. Gratis, immer zugänglich und am schönsten am späten Nachmittag, wenn der Granit golden wird.
-
-**Mit einer Stunde extra:** das **Kloster Santo Tomás** mit dem Grab des Infanten Juan, des einzigen Sohnes der Katholischen Könige, und drei Kreuzgängen.
+- **Mai–Juni und September–Oktober:** ideal, die Mauer ist täglich bis 20:00 Uhr geöffnet.
+- **Juli und August:** angenehm frisch für die Jahreszeit; die Mauer ist bis spät geöffnet, und es gibt Nachtführungen.
+- **Ende Oktober bis März:** richtig kalt (Ávila ist mit etwa 1.130 m die höchstgelegene Provinzhauptstadt Spaniens), und **die Mauer ist montags geschlossen**.
+- **Oktober, Fest der heiligen Teresa:** lebhaft; achte auf die Sonderöffnungszeiten der Kathedrale.
 
 ## Essen in Ávila
 
-Ávila ist Fleischland: **Chuletón de Ávila** (ein großes, über Holzkohle gegrilltes Kotelett vom heimischen Avileña-Rind), **Judías de El Barco** (Eintopf aus weißen Bohnen) und **Patatas revolconas** (Kartoffelpüree mit Paprika und knusprigem Schweinebauch). In den Steakhäusern innerhalb der Mauer wird das Chuletón oft nach Kilo berechnet, frag also vorher. Zum Nachtisch oder zum Mitnehmen: **Yemas de Santa Teresa**, Süßigkeiten aus Eigelb und Zucker, sehr gehaltvoll. Die traditionellen kommen von La Flor de Castilla im Zentrum.
+Ávila ist Fleischland: **Chuletón de Ávila** (Rind der Rasse Avileña, vom Grill), **Judías del Barco** (Bohnen) und **Patatas revolconas** (Kartoffelpüree mit Paprika) mit Torreznos. Die Grillrestaurants innerhalb der Mauer berechnen den Chuletón nach Kilo: Frag nach dem Gewicht, bevor du bestellst. Zum Nachtisch oder zum Mitnehmen gibt es die **Yemas de Santa Teresa** aus Eigelb und Zucker, sehr süß. Die traditionellen sind die von La Flor de Castilla im Zentrum.
 
-## Typische Fehler
+## Tipps
 
-1. **Im Winter an einem Montag fahren:** Die Mauer ist geschlossen.
-2. **Am Tor des Alcázar auf die Mauer gehen** und nur den kurzen Abschnitt bekommen.
-3. **Fahren, ohne die Cuatro Postes gesehen zu haben.** Von innen siehst du die Mauer nie als Ganzes.
-4. **Nur die Hinfahrt prüfen.** Es gibt weniger Züge als nach Segovia oder Toledo; merk dir den letzten zurück.
-5. **Ohne Jacke von Oktober bis April.** Auf 1.130 Metern ist der Wind scharf.
-6. **Ein Chuletón für eine Person bestellen**, ohne nach dem Gewicht zu fragen.
-
-## Geführte Tour oder auf eigene Faust?
-
-Auf eigene Faust ist Ávila besser: Zeit auf der Mauer, ein Mittagessen ohne Eile und die Cuatro Postes bei Sonnenuntergang. Touren kombinieren es mit einer anderen Stadt und geben ihm einen halben Tag. Wenn du es zusammen mit Segovia sehen willst: Der [Tagesausflug Ávila und Segovia mit Tickets](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) (ab 79 €) enthält San Vicente, die Kathedrale und den Alcázar von Segovia; die [günstige Variante](/en/cities/madrid/activities/avila-segovia-budget-day-trip) (ab 51 €) zeigt die Mauer von außen. Der [Tagesausflug Ávila und Salamanca](/en/cities/madrid/activities/avila-salamanca-day-trip) (ab 69 €) dauert 11 Stunden, die Mauer ist bei der Variante mit Tickets dabei.
-
-## Ávila, Segovia oder Toledo?
-
-Wenn du zwischen Ávila und Segovia schwankst, lies [Segovia Sehenswürdigkeiten als Tagesausflug](/de/guides/madrid/segovia-sehenswuerdigkeiten-tagesausflug): näher und mit mehr zu sehen. Für den ersten Ausflug ab Madrid fang mit [Toledo Sehenswürdigkeiten an einem Tag](/de/guides/madrid/tagesausflug-toledo-ab-madrid) oder [Toledo oder Segovia ab Madrid](/en/guides/madrid/toledo-or-segovia-from-madrid) an. Mit vier Tagen in Madrid hilft [Madrid, Toledo und Segovia in 4 Tagen](/en/guides/madrid/madrid-toledo-segovia-4-days); Ávila ist der natürliche fünfte Tag.
-
-## In einem Satz
-
-Ávila hat weder die Vielfalt von Toledo noch die Küche von Segovia, aber eine Mauer, auf der du gehen und die du dann von den Cuatro Postes aus als Ganzes sehen kannst. Das allein ist die Zugfahrt wert.
+- **Fahr im Winter nicht an einem Montag:** Die Mauer ist geschlossen.
+- **Geh an der Casa de las Carnicerías hinauf**, nicht an der Puerta del Alcázar, sonst bleibt dir nur der kurze Abschnitt.
+- **Fahr nicht ohne die Cuatro Postes zurück.** Von innen siehst du die Mauer nie ganz.
+- **Nimm eine Jacke mit**, von Oktober bis April. Auf 1.130 Metern schneidet der Wind.
+- **Auf eigene Faust ist es besser:** Zeit für die Mauer, ein Essen ohne Eile und die Cuatro Postes bei Sonnenuntergang. Ausflüge kombinieren Ávila mit einer anderen Stadt und geben ihm einen halben Tag. Wenn du es mit Segovia verbinden willst, enthält der [Ausflug nach Ávila und Segovia mit Tickets](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) (ab 79 €) San Vicente, die Kathedrale und den Alcázar von Segovia; die [günstige Variante](/en/cities/madrid/activities/avila-segovia-budget-day-trip) (ab 51 €) sieht die Mauer nur von außen. Der Ausflug nach Ávila und Salamanca (ab 69 €) dauert 11 Stunden, mit Mauerrundgang, wenn du die Variante mit Tickets wählst.
+- **Ávila, Segovia oder Toledo?** Segovia liegt näher und ist vielseitiger: siehe [Segovia Sehenswürdigkeiten](/de/guides/madrid/segovia-sehenswuerdigkeiten-tagesausflug). Ist es dein erster Ausflug ab Madrid, fang mit dem [Tagesausflug nach Toledo](/de/guides/madrid/tagesausflug-toledo-ab-madrid) an oder lies [Toledo oder Segovia?](/en/guides/madrid/toledo-or-segovia-from-madrid). Mit vier Tagen ist die Basis [Madrid, Toledo und Segovia in 4 Tagen](/en/guides/madrid/madrid-toledo-segovia-4-days), und Ávila ist der natürliche fünfte Tag.

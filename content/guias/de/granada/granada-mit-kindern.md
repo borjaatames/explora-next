@@ -4,13 +4,13 @@ descripcion: "Granada mit Kindern ohne Stress: angepasste Alhambra, Wissenschaft
 categoria: "granada"
 slug: "granada-mit-kindern"
 fecha: "2026-05-02"
-fecha_actualizacion: "2026-05-02"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/granada-con-ninos.jpg"
 imagen_alt: "Gärten des Generalife in Granada"
-tiempo_lectura: 10
+tiempo_lectura: 4
 keywords:
   - "granada mit kindern"
   - "was tun in granada mit kindern"
@@ -25,163 +25,91 @@ slugs:
   it: granada-con-bambini
   pt: granada-com-criancas
 reservasArriba: true
-respuestaCorta: 'Granada klappt mit Kindern, wenn du kürzt: **nur ein Teil der Alhambra** (Generalife, Alcazaba und zwei, drei Säle der Nasridenpaläste), der **Parque de las Ciencias** und der Albaicín tagsüber, nie in der Mittagshitze im Sommer. Achtung: **Kinderwagen sind in den Nasridenpalästen nicht erlaubt** (kostenlose Garderobe und Babytragen zum Ausleihen).'
+intro: '**Granada mit Kindern** kann eine wunderbare Reise sein, wenn man sie auf die Kleinen zuschneidet. Die **Alhambra** hat Gärten, Brunnen und eine Festung mit Zinnen, die Kinder lieben; der **Wissenschaftspark** (Parque de las Ciencias) ist eines der besten Mitmachmuseen Spaniens, und Sacromonte und Albaicín genießt man tagsüber in gemütlichem Tempo. Der Schlüssel: Besuche kürzen, die Mittagssonne meiden und nach Alter auswählen.'
+respuestaCorta: 'Granada mit Kindern klappt, wenn man kürzt: eine **Alhambra in Teilen** (Generalife, Alcazaba und zwei, drei Säle der Nasridenpaläste, 2,5 bis 3 Stunden), ein Tag im **Wissenschaftspark** und der Albaicín tagsüber, nie zur Sommermittagszeit. **Unter 12 Jahren ist der Eintritt frei** (mit Namensticket), und in die **Nasridenpaläste dürfen keine Kinderwagen**.'
 actividades:
   - alhambra-entrada-general
   - entrada-jardines-alhambra-generalife
   - visita-guiada-alhambra-generalife
   - albaicin-sacromonte-diurno
   - flamenco-cuevas-tarantos-sacromonte
+faq:
+- pregunta: Ab welchem Alter kann man die Alhambra mit Kindern besuchen?
+  respuesta: Angepasst funktioniert es schon mit 4-7 Jahren (Generalife, Alcazaba und 2-3 Säle der Nasridenpaläste), vollständig ab 8-12 Jahren. Kinder unter 12 haben freien Eintritt, brauchen aber ein eigenes Namensticket, auch wenn sie nichts zahlen.
+- pregunta: Was kostet der Wissenschaftspark in Granada und für welches Alter eignet er sich?
+  respuesta: 10 € Normalpreis (8 € von 6 bis 18 Jahren, unter 6 frei). Die Sala Explora ist für 3-7 Jahre gedacht, der Rest des Museums funktioniert von 6 bis 14. Montags geschlossen.
+- pregunta: Wie viel Zeit sollte man für die Alhambra mit Kindern einplanen?
+  respuesta: Zwischen 2,5 und 3 Stunden, nicht mehr. Die 4 Stunden eines Erwachsenen zu erzwingen, endet mit weinenden Kindern; mit zwei Tagen in Granada besser in Etappen.
+- pregunta: Ist eine Flamenco-Show im Sacromonte mit Kindern eine gute Idee?
+  respuesta: 'Mit Kindern unter 8 nicht: Die abendliche Zambra ist lang, die Höhle stickig und die Gassen schlecht beleuchtet. Besser den Sacromonte tagsüber (Museo Cuevas del Sacromonte) oder, mit Kindern ab 8, die erste Vorstellung um 20:00 Uhr.'
+- pregunta: Wie kommt man mit Kindern zur Alhambra hinauf, ohne sie zu erschöpfen?
+  respuesta: Mit den Minibussen C30 oder C32, die 1,40 € pro Person kosten. Mit müden Kindern zu Fuß hinaufzugehen ist viel anstrengender, als es aussieht.
 ---
 
-Granada mit Kindern kann ein großartiges Erlebnis sein oder ein Desaster, und der Unterschied hängt fast ausschließlich vom Plan ab. Behandelst du die Stadt wie ein Granada-für-Erwachsene-mit-Kindern-im-Schlepptau (vier Stunden Alhambra, Sacromonte bis spät, Albaicín in praller Mittagssonne), brennen die Kinder aus, die Eltern brennen aus, und die Stadt wird vom Entdeckungserlebnis zum ständigen Streitthema. Verstehst du aber, dass **Granada drei oder vier echte Familienjuwelen hat** — von denen die meisten Eltern nicht einmal wissen, dass sie existieren —, verändert sich die Reise.
+## Was tun in Granada mit Kindern je nach Alter
 
-Genau darum geht es in diesem Guide. Ehrlicher Plan nach Alter, welche Teile der Alhambra mit Kindern funktionieren und welche nicht, der **Wissenschaftspark** (eines der besten interaktiven Museen Spaniens, kaum jemand erzählt davon), Sacromonte kindgerecht angepasst, das Eis bei Los Italianos, Essen, das mit Kleinen funktioniert, und typische Fehler. Ohne motivierende Floskeln darüber, wie schön Familienreisen sind, nur das, was wirklich funktioniert.
-
-## Zuerst — welche Altersgruppen was aushalten
-
-Granada hat Steigungen, Kopfsteinpflaster, im Sommer viel Sonne, viel Tourismus. Das ändert sich komplett je nach Alter der Kinder:
-
-| Alter | Was funktioniert | Was man meiden sollte |
+| Alter | Funktioniert | Vermeiden |
 | --- | --- | --- |
-| 0–3 Jahre | Wissenschaftspark (Sala Explora), Grünflächen | Nasridenpaläste (kein Kinderwagen erlaubt), Sacromonte bei Nacht |
-| 4–7 Jahre | Teilweise Alhambra, kompletter Wissenschaftspark, Eis | Kathedrale, Königliche Kapelle (wenig visuelles Interesse) |
-| 8–12 Jahre | Komplette Alhambra in Ruhe, Sacromonte am Tag, Albaicín | Mittagshitze im Juli–August |
-| 13+ Jahre | Der komplette Erwachsenenplan funktioniert | Keine besonderen Einschränkungen |
+| 0-3 Jahre | Wissenschaftspark (Sala Explora), Grünanlagen | Nasridenpaläste (ohne Kinderwagen), Sacromonte am Abend |
+| 4-7 Jahre | Alhambra in Teilen, Wissenschaftspark, Eis | Kathedrale und Königliche Kapelle |
+| 8-12 Jahre | Ganze Alhambra in Ruhe, Sacromonte tagsüber, Albaicín | Mittagszeit im Juli und August |
+| ab 13 | Das komplette Erwachsenenprogramm | Nichts Besonderes |
 
-> **⚠️ Hinweis:** Granada **ist nicht Sevilla**, was die familiäre Mobilität angeht. Die Steigungen im Albaicín und der Aufstieg zur Alhambra sind mit einem Kinderwagen hart. Und in die Nasridenpaläste **kommen Kinderwagen nicht hinein**: Es gibt eine kostenlose Aufbewahrung, aber man muss ihn dort lassen.
+Granada hat **steile Kopfsteinpflastergassen**, und in die **Nasridenpaläste dürfen keine Kinderwagen** (es gibt eine kostenlose Gepäckaufbewahrung und Babytragen zum Ausleihen).
 
-## Tag 1 — Angepasste Alhambra mit Kindern
+## Tag 1: die Alhambra mit Kindern, angepasst
 
-Die Alhambra **lässt sich mit Kindern besichtigen**, aber man muss sie anpassen. Die Idee, sie "komplett, in Ruhe, in vier Stunden" zu machen, funktioniert mit Teenagern, scheitert aber bei Kindern unter 8 Jahren. Die ehrliche Strategie ist zu verstehen, dass **die Alhambra sehr dicht ist**: eine 800 Jahre alte Anlage mit Symbolik in jeder Kachel, Säule und in die Wand gemeißeltem Gedicht — und das erschöpft ein Kind visuell viel früher als einen Erwachsenen.
+Die Alhambra ist sehr dicht und erschöpft ein Kind viel früher als einen Erwachsenen.
 
-**Welche Teile mit Kindern funktionieren**: der **Generalife** (offene Gärten, Brunnen, Platz zum Laufen und Durchatmen zwischen den Myrtenhecken), die **Alcazaba** (Festung, Zinnen, Ausblicke — Kinder mögen Festungen, weil sie sich Ritter und Schlachten vorstellen), und zwei oder drei ausgewählte Säle der **Nasridenpaläste** (vor allem der Löwenhof, der wegen der Tierfiguren und des Brunnens viel Aufmerksamkeit auf sich zieht).
+- **Funktioniert:** der Generalife (Brunnen und Platz zum Laufen), die Alcazaba (Zinnen und Ausblick vom Torre de la Vela) und zwei oder drei Säle der Nasridenpaläste, vor allem der Löwenhof.
+- **Funktioniert nicht:** eine 90-minütige Führung über Symbolik; besser auf eigene Faust, mit Pausen, wo die Kinder wollen.
+- **Realistische Zeit:** 2,5 bis 3 Stunden, nicht vier.
 
-**Welche Teile mit Kleinen nicht funktionieren**: lange Führungen, bei denen ein Guide 90 Minuten lang kufische Symbolik erklärt. Kinder langweilen sich nach 15 Minuten. Besser **auf eigene Faust gehen**, anhalten, wann sie wollen, sich mitten in der Besichtigung auf eine Bank setzen und das Licht seine eigene Wirkung entfalten lassen. Die Alhambra ist eines der wenigen Monumente, bei denen "langsam gehen, ohne jemandem zuzuhören" mit Kindern sehr gut funktioniert.
-
-**Realistische Zeit mit Kindern**: 2 Std. 30 Min. bis 3 Std., nicht mehr. Erzwingst du 4 Stunden, enden sie weinend. Besser "in Portionen" sehen, wenn du zwei Tage in der Stadt hast.
-
-| Uhrzeit | Was zu tun ist |
+| Uhrzeit | Plan |
 | --- | --- |
-| 9:00 Uhr | Eingang über den Generalife (Gärten, Wasser, Platz) |
-| 10:00 Uhr | Alcazaba: Torre de la Vela, Ausblicke, Zinnen |
-| 10:45 Uhr | Pause mit Wasser und etwas Süßem |
-| 11:00 Uhr | Nasridenpaläste zur festgelegten Uhrzeit, ohne Eile |
-| 12:30 Uhr | Ausgang und Abstieg ins Zentrum |
+| 9:00 | Eingang durch das Generalife-Tor: Gärten und Wasser |
+| 10:00 | Alcazaba und Torre de la Vela |
+| 10:45 | Pause mit Wasser und etwas Süßem |
+| 11:00 | Nasridenpaläste zur gebuchten Uhrzeit, ohne Eile |
+| 12:30 | Abstieg ins Zentrum |
 
-> **⭐ Tipp:** Betritt die Alhambra durch das **Generalife-Tor** (der Eingang der "Touristenbusse"), nicht durch den Haupteingang. Es liegt näher an den Gärten, und mit Wasser und Brunnen zu beginnen, begeistert die Kleinen sofort.
+**Tickets:** Normalpreis **22,27 €**; **unter 12 Jahren frei, aber mit Namensticket**, das beim selben Kauf ausgestellt wird, sonst kein Einlass. Mit sehr kleinen Kindern bietet das Ticket **Gärten und Generalife (12,73 €)** das, was ihnen gefällt, ohne die Stille der Paläste. Hinauf geht es mit den **Minibussen C30 und C32 (1,40 €)**. Mehr dazu in [Alhambra besichtigen](/de/guides/granada/alhambra-besichtigen).
 
-**Eintritt mit Kindern**: Alhambra General kostet 22,27 €. **Kinder unter 12 Jahren zahlen nichts**, brauchen aber **ein personalisiertes Ticket** (wird beim gleichen Kauf ausgestellt). Hat das Kind kein Ticket, kommt es nicht hinein, auch wenn der Eintritt kostenlos wäre. Für alle Details zur Besichtigung schau dir unseren eigenen Guide [Alhambra besichtigen](/de/guides/granada/alhambra-besichtigen) an.
+## Tag 2: der Wissenschaftspark von Granada
 
-## Tag 2 — Wissenschaftspark
+Granadas Familiengeheimnis: eines der besten interaktiven Museen Spaniens, das meistbesuchte Andalusiens, 20 Gehminuten vom Zentrum (oder mit Bus 5 bzw. Stadtbahn). Alles darf angefasst werden: **Sala Explora** (3-7 Jahre), **Reise durch den menschlichen Körper** (6-14), das **BioDomo** mit Tieren und Pflanzen, ein Schmetterlingshaus, das **Planetarium** (30-minütige Vorführungen, ab 5 Jahren) und Greifvogelvorführungen im Freien.
 
-Das erwähnt kaum ein Reiseführer, dabei ist es **eines der besten interaktiven Museen Spaniens**, zusammen mit der Ciudad de las Artes y las Ciencias in Valencia. Die Kinder lieben es, die Eltern gehen zufrieden hinaus, es liegt nahe am Zentrum von Granada, und fast kein internationaler Tourist kennt es. Es ist das bestgehütete Familiengeheimnis Granadas.
+- **Preise:** Museum **10 €** (8 € von 6 bis 18 Jahren, unter 6 frei); mit BioDomo 11-13 €; Planetarium 3,50 € extra; Parken 1 € für die ersten drei Stunden.
+- **Öffnungszeiten:** Dienstag bis Samstag 10:00-19:00 Uhr; sonn- und feiertags bis 15:00 Uhr. **Montags geschlossen** sowie am 1. und 6. Januar, 1. Mai und 25. Dezember.
+- **Proviant mitnehmen:** Es gibt einen Picknickbereich mit Tischen und Mikrowellen, die Cafeteria ist teuer und mittelmäßig.
+- **4-5 Stunden einplanen.** An Regenwochenenden ist es voll: online kaufen.
 
-Der **Wissenschaftspark von Granada (Parque de las Ciencias)** erstreckt sich über **70.000 m²** südlich des Stadtzentrums und lässt sich in 4–5 langen Stunden erkunden. Er besteht seit 1995 und ist mit über 11 Millionen Besuchern insgesamt das meistbesuchte Museum Andalusiens. Das Konzept ist sehr praktisch: Alles ist **interaktiv**. Die Kinder betrachten die Dinge nicht hinter einer Vitrine, sie berühren, probieren, drehen und bewegen sie. Das verändert alles.
+## Sacromonte und Albaicín mit der Familie
 
-| Bereich | Für welches Alter | Warum |
-| --- | --- | --- |
-| Sala Explora | 3–7 Jahre | Für die Kleinsten konzipiert, alles zum Anfassen |
-| Reise durch den menschlichen Körper | 6–14 Jahre | Interaktive Ausstellung über Anatomie |
-| BioDomo | Jedes Alter | Nachbildung von Ökosystemen mit Tieren und Pflanzen |
-| Tropisches Schmetterlingshaus | 4+ Jahre | Schmetterlinge landen auf dir |
-| Planetarium | 5+ Jahre | 30-minütige Sitzungen über den Kosmos |
-| Greifvögel (im Freien) | 4+ Jahre | Vorführungen unter freiem Himmel |
+**Sacromonte tagsüber:** Das Museo Cuevas del Sacromonte (5 € Erwachsene, 4 € von 6 bis 15 Jahren, unter 6 frei) zeigt, wie man in den Höhlen lebte, und der kostenlose Aussichtspunkt San Miguel Alto bietet die ganze Alhambra im Sonnenuntergang.
 
-**Preise 2026**:
+**Abends nicht mit Kindern unter 8:** Die Zambra ist lang, die Höhle stickig, und die Gassen sind schlecht beleuchtet und ohne Geländer zur Schlucht. Wer Flamenco möchte, wählt die erste Vorstellung um 20:00 Uhr und Kinder ab 8; einige Höhlen bieten am Wochenende Familienvorstellungen an (fragen Sie in der Touristeninformation an der Plaza del Carmen).
 
-- Museum: **10 €** (8 € Kinder 6–18 Jahre, kostenlos unter 6 Jahren)
-- Museum + BioDomo: 11–13 € je nach Angebot
-- Planetarium: 3,50 € zusätzlich
-- Parkplatz: 1 € für die ersten 3 Stunden
+**Albaicín in Kurzform:** Mirador de San Nicolás, Plaza Larga zum Ausruhen und die Calderería Nueva mit ihren Teestuben; höchstens 1,5 Stunden, am Vormittag oder bei Sonnenuntergang. Mit Kindern unter 6 ist eine Babytrage besser als ein Kinderwagen; die Minibusse C31 und C32 ersparen den Aufstieg.
 
-**Öffnungszeiten**: Dienstag bis Samstag 10:00–19:00 Uhr, Sonn- und Feiertage 10:00–15:00 Uhr. **Montags geschlossen.** Auch geschlossen am 1. Januar, 6. Januar, 1. Mai und 25. Dezember.
+## Essen und übernachten mit Kindern
 
-> **⭐ Tipp:** Bring Essen in einer Dose mit. Es gibt einen Picknickbereich mit Tischen und Mikrowellen. Die Cafeteria funktioniert, aber die Qualität des Essens ist ausbaufähig und die Preise hoch. Etwas von zu Hause mitzubringen machen die Familien aus Granada, und man sieht es: Die Tische draußen sind immer voll mit belegten Broten, Obst und Tortilla.
+Die **kostenlose Tapa zum Getränk** ist der große Vorteil: Kinder probieren kleine Portionen, und wenn ihnen eine nicht schmeckt, kommt mit der nächsten Runde eine andere.
 
-**Anreise**: Buslinie 5 vom Zentrum (Haltestelle "Parque de las Ciencias") oder **20 Minuten zu Fuß** von der Plaza Bib-Rambla. Mit dem Auto Ausfahrt 128 der Méndez Núñez, eigener Parkplatz.
+- **Tapas-Viertel:** Calle Navas, Plaza Bib-Rambla (Terrassen, Platz zum Toben und Churros mit Schokolade im Café Fútbol) und Calle Elvira.
+- **Eis:** **Los Italianos** (Gran Vía 4, seit 1936), berühmt für die Cassata; im Sommer Schlange, aber es geht schnell, 3 € der kleine Becher.
+- **Essenszeiten:** Abendessen gibt es um 21:00 Uhr; um 19:00 Uhr nur Touristenterrassen.
 
-**Wann hingehen**: Hast du zwei Tage in Granada, **widme ihm den ganzen zweiten Tag**. Es ist kein Ort, den man in einer Stunde abhaken sollte, sonst verpasst du zu viel. Hast du nur einen Tag, priorisiere die Alhambra; hast du drei, widme einen ganzen Tag dem Wissenschaftspark und einen weiteren der Erkundung von Albaicín und Sacromonte.
-
-## Sacromonte und Flamenco mit Kindern
-
-Sacromonte ist das Roma-Viertel Granadas, berühmt für seine bewohnten **Höhlen** und die Zambra (die lokale Flamenco-Variante). Funktioniert mit Kindern **solange man die Erwartungen anpasst**:
-
-**Was funktioniert**:
-
-- **Tagsüber-Besuch der Höhlen** (Museo Cuevas del Sacromonte): Ausstellung darüber, wie man in den in den Berg gegrabenen Höhlen lebte. 5 € Erwachsene, 4 € Kinder 6–15 Jahre. Kostenlos unter 6 Jahren.
-- **Mirador de San Miguel Alto**: Ausblick auf die Alhambra bei Sonnenuntergang, offener Platz, kein Eintritt.
-- **Camino del Sacromonte**: Spaziergang die Calle de la Vereda hinauf, die bewohnten Höhlen von außen betrachten.
-
-**Was NICHT funktioniert**:
-
-- **Flamenco-Dinner-Shows in Höhlen** mit Kindern unter 8 Jahren: Sie beginnen um 22:00 Uhr, dauern 90 Minuten, die Luft ist stickig, die Kinder schlafen ein oder langweilen sich.
-- **Nachts mit kleinen Kindern nach Sacromonte hinabsteigen**: Die Gassen sind eng, schlecht beleuchtet und ohne Absperrungen zur Schlucht.
-
-> **⚠️ Hinweis:** Willst du Flamenco mit Kindern erleben, suche nach **Tagesvorstellungen oder frühem Abend** (18:00–19:00 Uhr). Manche Höhlen bieten am Wochenende spezielle Familienvorstellungen für Kinder an. Frag im Fremdenverkehrsbüro an der Plaza Carmen.
-
-## Albaicín mit Kindern
-
-Das muslimische Viertel Granadas ist **wunderschön, aber anspruchsvoll für Kleine**: Steigungen, Kopfsteinpflaster, enge Gassen. Es funktioniert gut mit Kindern über 6–7 Jahren; bei jüngeren besser anpassen.
-
-**Reduzierter Plan**:
-
-| Ort | Warum es funktioniert |
-| --- | --- |
-| Mirador de San Nicolás | Ausblick auf die Alhambra. Beeindruckt die Kinder |
-| Plaza Larga | Platz mit Bars, Ort zum Ausruhen |
-| Calle Calderería Nueva | Läden mit Tee, Gewürzen und Kunsthandwerk |
-
-**Realistische Zeit mit Kindern**: 1 Std. 30 Min., nicht mehr. Vormittags oder bei Sonnenuntergang hingehen, im Sommer 14:00–17:00 Uhr meiden.
-
-## Essen in Granada mit Kindern
-
-Granada hat **einen entscheidenden gastronomischen Vorteil für Familien**: Die **kostenlose Tapa zum Getränk** ist noch sehr lebendig. Zu jedem Bier oder jeder Limonade gibt es eine Tapa dazu (ein Stück Tortilla, Croquetas, Schinken, Ensaladilla, was gerade dran ist). Das funktioniert sehr gut mit Kindern, weil:
-
-- Man isst viel für wenig Geld.
-- Die Kinder probieren neue Dinge in kleinen Mengen.
-- Schmeckt eine Tapa dem Kind nicht, kommt mit der nächsten Runde schon die nächste.
-
-**Gegenden, die mit Kindern funktionieren**:
-
-- **Calle Navas**: die traditionelle "Tapas-Straße". Bars dicht an dicht, lebendige Atmosphäre.
-- **Plaza Bib-Rambla**: Terrassen, Platz zum Herumlaufen für die Kinder, Churros mit Schokolade im Café Fútbol.
-- **Calle Elvira und unterer Albaicín**: alternative Atmosphäre, mehrere Orte mit guter Küche.
-
-**Eis bei Los Italianos**: die berühmteste Eisdiele Granadas (Gran Vía 4), seit 1936. **Cassata** ist die Spezialität. Im Sommer lange Warteschlange, lohnt sich aber. **Ein Muss mit Kindern.**
-
-> **⭐ Tipp:** ein Tag zum Fingerschlecken: mittags Tapas in der Calle Navas, nachmittags Eis bei Los Italianos, abends leichtes Essen in einer Pizzeria an der Plaza Bib-Rambla. Drei Mahlzeiten, drei verschiedene Atmosphären, glückliche Kinder.
-
-## Wo man mit Kindern übernachtet
-
-Granada bietet **zwei vernünftige Optionen** für Familien:
-
-**Zentrum (Plaza Nueva oder Gran Vía)**: gut angebunden, alles zu Fuß erreichbar. Vorsicht bei kleinen Zimmern, viele Hotels im Zentrum sind alte Gebäude ohne Aufzug oder mit winzigen Aufzügen.
-
-**Realejo**: jüdisches Viertel neben dem Zentrum, ruhiger, Fußgängerzonen, hübsch. Gute Wahl, wenn die Kinder früh schlafen und euch der nächtliche Lärm des Zentrums stört.
-
-> **⚠️ Hinweis:** Meide den **Albaicín als Basis mit kleinen Kindern**: die täglichen Steigungen mit Kinderwagen oder müdem Kind sind erschöpfend. Schön zum Besuchen, nicht zum Übernachten mit Familie.
+Zum Übernachten liegt man im **Zentrum** (Plaza Nueva oder Gran Vía) zu Fuß nah an allem, auch wenn viele Hotels alte Gebäude mit winzigen Aufzügen sind. Das **Realejo** ist ruhig und autofrei, ideal, wenn die Kinder früh schlafen. Der Albaicín ist schön zum Besuchen, aber jeden Tag mit Kinderwagen hinaufzusteigen ist anstrengend.
 
 ## Typische Fehler von Eltern
 
-**1. Die komplette Alhambra in einem Besuch erzwingen.** 4 Stunden sind zu viel für unter 8-Jährige. Besser "in Portionen" mit zwei Tagen sehen oder anpassen.
+1. **Die ganze Alhambra erzwingen:** vier Stunden sind für Kinder unter 8 zu viel.
+2. **Die abendliche Zambra mit kleinen Kindern.**
+3. **Der Albaicín um 14:00 Uhr im Juli:** besser von 9:00 bis 11:00 oder von 18:00 bis 20:00 Uhr.
+4. **Den Kinderwagen zu den Nasridenpalästen mitnehmen.**
+5. **Den Wissenschaftspark** an einem Regenwochenende nicht reservieren.
+6. **Wasser vergessen:** Ein Großteil der Alhambra liegt in praller Sonne.
+7. **Zu Fuß zur Alhambra hinaufgehen,** obwohl der Minibus 1,40 € kostet.
 
-**2. Sacromonte mit Flamenco-Dinner mit kleinen Kindern machen.** Beginnt um 22:00 Uhr, die Kinder schlafen ein. Nach der Tagesvariante suchen.
-
-**3. Um 14:00 Uhr im Juli in den Albaicín hinaufsteigen.** 38 °C, kein Schatten, Steigungen. Besser 18:00–20:00 Uhr oder 9:00–11:00 Uhr.
-
-**4. Einen Kinderwagen zu den Nasridenpalästen mitbringen.** Nicht erlaubt. Muss in der kostenlosen Aufbewahrung bleiben.
-
-**5. Den Wissenschaftspark an einem verregneten Wochenende nicht vorher reservieren.** In Granada regnet es öfter, als man denkt. Regnet es, landen alle Familien dort — er wird voll.
-
-**6. Im Sommer das Wasser vergessen.** Die Alhambra liegt an vielen Stellen in praller Sonne. Ohne Wasser klappen die Kinder zusammen.
-
-**7. Um 19:00 Uhr essen gehen und Stimmung erwarten.** In Granada wird um 21:00 Uhr zu Abend gegessen. Um 19:00 Uhr findest du eine leere Touristenterrasse oder ein geschlossenes Restaurant.
-
-**8. Den Alhambra-Touristenbus C30/C32 nicht nutzen.** Mit müden Kindern zu Fuß zur Alhambra hinaufzugehen, ist eine Strafe. Der Kleinbus kostet 1,40 € pro Person und löst das Problem.
-
-## In einem Satz
-
-Granada mit Kindern funktioniert, wenn du den Plan anpasst: teilweise Alhambra (Generalife plus Alcazaba plus ein paar Nasridensäle, nicht die vollen vier Stunden), ein ganzer Tag im Wissenschaftspark (eines der besten interaktiven Museen Spaniens, von dem die meisten Touristen nicht wissen), Sacromonte am Tag statt bei Nacht, der Albaicín zu milden Uhrzeiten und das Eis bei Los Italianos als tägliches kleines Vergnügen. Erzwingst du den Erwachsenenplan mit Kindern im Schlepptau, endet es mit Tränen bei allen. Passt du ihn an, erlebst du die beste familienfreundliche Version der Stadt.
-
-Und ist dein Besuch kürzer oder möchtest du das allgemeine Reiseprogramm, findest du im Guide [Granada in 2 Tagen](/de/guides/granada/granada-in-2-tagen) die komplette Planung.
+Für die allgemeine Stadtroute siehe [Granada in 2 Tagen](/de/guides/granada/granada-in-2-tagen).

@@ -4,11 +4,11 @@ descripcion: 'Roque Nublo hike: the booking needed from 9:00 to 17:00, where to 
 categoria: gran-canaria
 slug: roque-nublo-hike
 fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 7
+tiempo_lectura: 4
 keywords:
 - roque nublo
 - roque nublo hike
@@ -23,97 +23,85 @@ slugs:
   it: roque-nublo-come-salire
   pt: roque-nublo-como-subir
 reservasArriba: true
-respuestaCorta: 'Between **9:00 and 17:00 you need a time-slot booking** at reservasroquenublo.com, and the old La Goleta car park is closed: park at **Cruz de Los Llanos** and take the shuttle bus. From the trailhead it''s about **3 km return, 1–1.5 hours**. Without a car, the [day tour from Las Palmas](/en/cities/gran-canaria/activities/roque-nublo-pico-de-las-nieves-tour-from-las-palmas) starts at €48.'
+intro: '**Roque Nublo** is the symbol of Gran Canaria: a basalt monolith about 80 metres tall crowning the summits at more than 1,800 metres. Walking up to its base is one of the prettiest and easiest hikes in the Canaries, through Canary pines, and on clear days it rewards you with Mount Teide floating above the sea of clouds. It''s an hour and a quarter from Las Palmas and the trail takes 1-1.5 hours.'
+respuestaCorta: 'To hike Roque Nublo between **9:00 and 17:00 you must book a slot** at reservasroquenublo.com. The La Goleta car park is closed: park at **Cruz de Los Llanos** or in Tejeda and take the shuttle bus. The trail is about **3 km there and back, 1-1.5 hours**. Outside those hours, access is free.'
 actividades:
   - roque-nublo-pico-nieves-desde-las-palmas
   - atardecer-estrellas-gran-canaria-telescopios
   - jeep-safari-sur-gran-canaria
   - buggy-barrancos-gran-canaria
 faq:
-- pregunta: How long does the Roque Nublo hike take?
-  respuesta: 'From the Degollada de La Goleta trailhead, about 40 minutes up and 20-30 minutes down: around 1-1.5 hours in total with stops. It''s about 3 km return with roughly 200 m of climbing.'
-- pregunta: Is the Roque Nublo hike hard?
-  respuesta: 'It''s easy to moderate: a well-marked trail with a few steep sections and loose stone. Anyone with normal fitness and closed shoes can do it.'
-- pregunta: Do I need to book to visit Roque Nublo?
-  respuesta: 'Yes, between 9:00 and 17:00. Since February 2025 entry through La Goleta needs a time-slot booking at reservasroquenublo.com, with up to 60 people per hourly slot. Outside those hours access is open without booking.'
+- pregunta: How long does it take to hike up Roque Nublo?
+  respuesta: 'From the trailhead at Degollada de La Goleta, about 40 minutes up and 20-30 down: 1-1.5 hours in total with stops. It''s about 3 km there and back with around 200 m of elevation gain.'
+- pregunta: Is the Roque Nublo hike difficult?
+  respuesta: 'It''s easy to moderate: a well-marked trail with a few steep stretches and loose stones. Anyone with normal fitness and closed shoes can do it.'
+- pregunta: Do you need to book to hike Roque Nublo?
+  respuesta: Yes, between 9:00 and 17:00. Since February 2025, access via La Goleta requires booking a slot at reservasroquenublo.com, with a maximum of 60 people per time slot. Outside those hours access is free and no booking is needed.
 - pregunta: Where do you park for Roque Nublo?
   respuesta: 'Not at La Goleta: that car park has been closed since 2025. Park at Cruz de Los Llanos (about 10 minutes by shuttle bus, or an hour on foot) or in Tejeda (about 30 minutes by bus).'
-- pregunta: Can you see Teide from Roque Nublo?
+- pregunta: Can you see Mount Teide from Roque Nublo?
   respuesta: Yes, on clear days you can see Tenerife's Teide above the sea of clouds, especially at sunset and in winter.
 imagen_portada: "/images/guias/roque-nublo-como-subir.jpg"
 imagen_alt: "Roque Nublo on the summit of Gran Canaria"
 ---
 
-**Roque Nublo is the symbol of Gran Canaria**: a basalt monolith of around 80 metres whose top stands at 1,813 metres. Walking up to its base is one of the prettiest and easiest hikes in the Canaries, and on clear days it rewards you with Tenerife's Teide floating above the sea of clouds. Since 2025 the visit works differently: **you need a booking during the day and you can no longer park at the trailhead.**
+## Booking your Roque Nublo hike
 
-## Book the essentials
+The Cabildo (island government) of Gran Canaria introduced access control on **3 February 2025** to end overcrowding. As of today (2026):
 
-| Activity | Rating | From |
-| --- | --- | --- |
-| [Roque Nublo, Pico de las Nieves and Tejeda day tour from Las Palmas](/en/cities/gran-canaria/activities/roque-nublo-pico-de-las-nieves-tour-from-las-palmas) | 4.7★ (1,283) | €48 |
-| [Summit sunset and stargazing tour](/en/cities/gran-canaria/activities/gran-canaria-sunset-stargazing-tour) | 4.8★ (302) | €45 |
-| [Jeep safari through southern valleys and villages](/en/cities/gran-canaria/activities/southern-gran-canaria-jeep-safari) | 4.5★ (1,443) | €69 |
-| [Off-road buggy tour through the southern ravines](/en/cities/gran-canaria/activities/gran-canaria-off-road-buggy-tour) | 4.8★ (3,728) | €65 |
+- **When:** every day, **9:00 to 17:00**, to enter at the trailhead at Degollada de La Goleta. Outside those hours access is free.
+- **Where:** at [reservasroquenublo.com](https://reservasroquenublo.com). Choose the day, time slot and number of people, and you'll get a QR code by email.
+- **Capacity:** a maximum of **60 people per hour** for independent visitors. In August 2026 some weekday slots sold out days in advance: book as soon as you have your dates.
+- **The slot is for entering the trail**, not for the bus or the walk from the car park. Once inside there's no time limit.
+- **Organised excursions** have their own quota: they're the easiest alternative if there are no slots left.
+
+Entering without a booking during regulated hours can lead to a fine.
+
+## Where to park and how to get there
+
+The **La Goleta car park has been removed** and is now a bus stop.
+
+- **Cruz de Los Llanos:** the nearest car park. The shuttle bus takes about 10 minutes to the trailhead; on foot it's about 3.7 km (around an hour) each way.
+- **Tejeda:** a second car park in the village, about 30 minutes by shuttle.
+- **From the south without a car:** Global **line 18** runs from Faro de Maspalomas up to Roque Nublo several times a day.
+
+The shuttles are run by Global: check the current timetable on the booking website before you set off.
+
+**By car:** 1 h 15 from Las Palmas via the GC-15 and 1 h 30 from Maspalomas via the GC-60, on narrow, winding mountain roads. **Fill up first:** there are no petrol stations in the summits. Don't park on the roadside.
+
+## The Roque Nublo trail from La Goleta
+
+The trail starts at **Degollada de La Goleta**, on the GC-600 between Ayacata and Pico de las Nieves, where the bus now stops.
+
+- **Distance:** about 1.5 km each way, **3 km there and back**.
+- **Time:** about 40 minutes up and 20-30 down; **1-1.5 hours** with stops.
+- **Difficulty:** easy to moderate, around 200 m of elevation gain, with a few steep stretches and loose stones.
+
+It climbs through Canary pines to a rocky plateau where **Roque Nublo** appears with **Roque del Fraile** beside it. You can't climb the rock without a permit, but the view from the base is spectacular.
+
+## Best time and what to bring
+
+- **First morning slots:** clean air and few hikers.
+- **Sunset:** the reddish light on the rock with Teide behind is the island's postcard, and from 17:00 no booking is needed. Bring a torch for the way down.
+- **What to bring:** closed shoes with good soles, **a warm layer** (even if it's hot on the coast), water, a cap and sunscreen. There are no toilets, water or shade at the top; the nearest are in Ayacata (two bars) and Tejeda.
+
+## Tips
+
+- **Temperature:** 10-15 degrees cooler than on the beach. In winter it drops below 5 °C, with frost and occasionally snow. In summer the sun is strong at 1,800 metres.
+- **"Panza de burro":** trade-wind clouds cover the north on many summer mornings, but the summits are usually above them. If the north coast is cloudy, it'll be sunny up top; if there's calima (dust haze) in the south, try another day.
+- **With kids:** from age 5-6 they manage fine; the last stretch has stone steps. Pushchairs are impossible.
+- **Rules:** it's a Natural Monument and Biosphere Reserve. Flying drones without a permit, leaving the trail and climbing the rock are forbidden.
+- **When to go:** all year; from late January to February the slopes of Tejeda fill with almond blossom.
+
+## What to see nearby: Pico de las Nieves and Tejeda
+
+- **Pico de las Nieves** (1,949 m): the island's highest point, with a viewpoint over Roque Nublo and Teide. Reachable by car.
+- **Tejeda:** one of the most beautiful villages in Spain; try the bienmesabe and almond sweets.
+- **Roque Bentayga** and **Cruz de Tejeda:** viewpoints over the great caldera.
+- **Artenara and Risco Caído:** World Heritage Aboriginal caves.
+
+**Without a car**, an excursion saves you the bus logistics: the day trip from Las Palmas includes the walk up Roque Nublo, Pico de las Nieves and a stop in Tejeda.
 
 [actividad: roque-nublo-pico-nieves-desde-las-palmas]
 
-## The booking you now need
-
-The Cabildo de Gran Canaria introduced access control on **3 February 2025** to cut overcrowding. As of 2026:
-
-- **When it applies:** every day, **9:00 to 17:00**, for entry through the Degollada de La Goleta trailhead. Outside those hours access is open and no booking is needed.
-- **Where:** [reservasroquenublo.com](https://reservasroquenublo.com) (Spanish only). You pick a day, an hourly slot and the number of people, and receive a QR code by email.
-- **Capacity:** up to **60 people per hour** for individual visitors. In August 2026 some weekday slots sold out days ahead, so book as soon as your dates are fixed.
-- **Your slot is for entering the trail**, not for the bus or the walk from the car park. There's no limit on how long you stay once inside.
-- **Organised tours** have their own quota, so a tour is the easiest fallback if public slots are gone.
-
-Walking into the protected area without a booking during regulated hours can be fined.
-
-## Where to park and how to get to the trailhead
-
-The **La Goleta car park was removed** and is now a bus stop. Your options:
-
-- **Cruz de Los Llanos:** the closest car park. A shuttle bus takes about 10 minutes to the trailhead; on foot it's about 3.7 km (roughly an hour) each way.
-- **Tejeda village:** a second car park, about 30 minutes by shuttle bus.
-- **From the south:** Global's **line 18** runs from the Maspalomas lighthouse up to Roque Nublo a few times a day.
-
-The shuttles are run by Global; check the current timetable on the booking website before you set off, because your day depends on it. By car, allow about 1 hour 15 minutes from Las Palmas (GC-15) and 1 hour 30 minutes from Maspalomas (GC-60) on narrow mountain roads. Don't park on the roadside.
-
-## The trail from La Goleta
-
-- **Distance:** about 1.5 km each way, 3 km return.
-- **Time:** around 40 minutes up and 20-30 minutes down; 1-1.5 hours with stops.
-- **Difficulty:** easy to moderate, about 200 m of climbing, a few steep sections, loose stone and stone steps near the top.
-
-The trail climbs through Canary pines to a rocky plateau, where **Roque Nublo** and, beside it, **Roque del Fraile** appear. You can't climb the rock without a permit, but the view from the base is the reward.
-
-## The best time
-
-**First slots of the morning** bring clear air and fewer hikers. **At sunset**, the reddish light on the rock with Teide behind is the island's postcard, and after 17:00 no booking is needed; bring a torch for the way down. In winter it can freeze on the summits.
-
-When the trade-wind cloud (*panza de burro*) covers the north on summer mornings, the summits are usually above it in sunshine. If there's heavy haze (*calima*) in the south, pick another day for the views.
-
-## What to bring and practical tips
-
-- **Clothes:** closed shoes with good grip and a **jacket**; the summits are often around 10 °C cooler than the coast.
-- **Supplies:** water, a cap and sunscreen. There are no toilets, water or shade at the top; the nearest bars are in Ayacata and Tejeda.
-- **With children:** from about 5-6 years old they manage fine. Pushchairs are not possible.
-- **Rules:** it's a Natural Monument. No drones without a permit and no leaving the trail.
-- **Almond blossom:** from late January to February the slopes around Tejeda turn white and pink.
-
-## What to see nearby
-
-- **Pico de las Nieves** (1,949 m): the island's highest point, with a viewpoint over Roque Nublo and Teide. Reachable by car.
-- **Tejeda**: one of Spain's most beautiful villages; try bienmesabe and almond sweets.
-- **Roque Bentayga** and **Cruz de Tejeda**: viewpoints over the great caldera.
-- **Artenara and Risco Caído**: aboriginal caves with World Heritage status.
-
-[actividad: jeep-safari-sur-gran-canaria]
-
-## Without a car
-
-With the car park gone, a tour saves you the bus logistics. The **day tour from Las Palmas** (8 hours, from €48) includes the Roque Nublo walk, Pico de las Nieves and a lunch stop in Tejeda (lunch not included). From the south, the **jeep safari** passes the Chira reservoir with views of Roque Nublo, and the **sunset and stargazing** tour stops at Pico de las Nieves. More ideas in [what to see in Gran Canaria](/en/guides/gran-canaria/what-to-see-in-gran-canaria).
-
-## In one sentence
-
-Book your slot (or go after 17:00), park at Cruz de Los Llanos, bring a jacket and linger at the top: in an hour, Roque Nublo sums up why Gran Canaria is much more than beaches.
+More ideas in [what to see in Gran Canaria](/en/guides/gran-canaria/what-to-see-in-gran-canaria).

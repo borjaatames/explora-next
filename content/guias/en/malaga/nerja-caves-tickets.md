@@ -28,22 +28,23 @@ slugs:
   it: grotta-di-nerja-biglietti
   pt: gruta-de-nerja-bilhetes
 reservasArriba: true
-respuestaCorta: 'Adult tickets cost **€16 online** and **€18 at the ticket office** for most of the year, rising to **€18 / €20** in summer, at Christmas, on bank-holiday weekends and at Easter. Buy them at `entradas.cuevadenerja.es`. The caves open at **9:15**, last entry **15:30** (16:30 in high season), and your ticket gets you into the **Nerja Museum for free**. From Málaga, take an **ALSA bus** or a **day trip with entry included** from €69.'
+intro: 'Before buying **Nerja Caves tickets**, it helps to know what awaits: a cave of **lit stalactites and columns** that you explore in about 45 minutes along stairs and walkways, next to the village of Maro, about 4 km from Nerja and 60 km from Málaga. The ticket includes the **Nerja Museum**, which explains the paintings and remains found in the cave. You can almost always get in on the same day.'
+respuestaCorta: '**Nerja Caves tickets** cost **€16 online** and **€18 at the box office** most of the year, and **€18 / €20** in summer, Christmas, long weekends and Easter, at entradas.cuevadenerja.es. It opens at **9:15**; last entry **15:30** (16:30 in high season). The **Nerja Museum** is included. From Málaga, take an **ALSA** bus.'
 actividades:
   - cuevas-nerja-entrada
   - cuevas-nerja-frigiliana-desde-malaga
   - nerja-frigiliana-excursion-privada-desde-malaga
 faq:
-- pregunta: How much are Nerja Caves tickets in 2026?
-  respuesta: 'General admission (14 and over) is €16 online and €18 at the ticket office in the normal period, and €18 and €20 from June to September, at Christmas, on bank holidays and at Easter. Children aged 6 to 11 pay €12-13, ages 3 to 5 €5-6, and under-3s go free. Over-65s and European Youth Card holders pay €14-15.'
-- pregunta: Do I need to book Nerja Caves in advance?
-  respuesta: 'It is not compulsory, but online tickets are €2 cheaper and you skip the ticket-office queue, which builds up mid-morning in summer and at Easter. Day trips from Málaga usually include the ticket.'
+- pregunta: How much is a Nerja Caves ticket in 2026?
+  respuesta: The general ticket (age 14+) costs €16 online and €18 at the box office in the standard period, and €18 and €20 in summer (June to September), Christmas, long weekends and Easter. Children aged 6-11, €12-13; aged 3-5, €5-6; under 3, free. Over-65s, large families and Carné Joven holders, €14-15.
+- pregunta: Do I need to buy tickets in advance?
+  respuesta: It's not compulsory, but online is €2 cheaper and you skip the box-office queue, which builds up mid-morning in summer and at Easter. If you go on a day trip from Málaga, the ticket is usually included.
 - pregunta: What are the Nerja Caves opening hours?
-  respuesta: '9:15 to 16:30 (last entry 15:30) for most of the year, and 9:15 to 17:30 (last entry 16:30) from June to September, at Christmas, on bank holidays and at Easter. Closed on 1 and 6 January, 15 May and 25 December.'
+  respuesta: 9:15 to 16:30 (last entry 15:30) most of the year, and 9:15 to 17:30 (last entry 16:30) from June to September, at Christmas, on long weekends and at Easter. Closed on 1 and 6 January, 15 May and 25 December.
 - pregunta: Is the Nerja Museum included?
-  respuesta: 'Yes. With a cave ticket, entry to the Nerja Museum on Plaza de España in town is free, and so is the virtual reality room.'
+  respuesta: Yes. With your cave ticket, the Nerja Museum on the village's Plaza de España is free. The virtual reality room is included too.
 - pregunta: How do I get to the Nerja Caves from Málaga without a car?
-  respuesta: 'Take an ALSA bus from Málaga bus station to Nerja (one hour to almost two, depending on the service). The caves are about 4 km from the centre, by Maro: ALSA buses run from Nerja to Maro with a stop at the junction for the cave road, or take a short taxi ride.'
+  respuesta: 'By ALSA bus from Málaga bus station to Nerja (between 1 hour and almost 2, depending on the service). The cave is about 4 km from the centre, near Maro: ALSA buses from Nerja to Maro stop at the junction with the cave road, or take a taxi.'
 opciones:
   - ficha: cuevas-nerja-entrada
     etiqueta: Ticket only
@@ -53,74 +54,59 @@ opciones:
     etiqueta: Private
 ---
 
-The Nerja Caves are one of the easiest big sights on the Costa del Sol: there are no tight quotas like at the Alhambra or the Caminito del Rey, and you can almost always get in on the day. What does change is the price, depending on where you buy and when you go, and the logistics if you are coming from Málaga without a car. Everything here was checked on the official website on 4 November 2026.
+## What you'll see
 
-## Which option suits you?
+- **The cave:** a route of about **45 minutes** among lit stalactites and columns, with stairs and walkways. It's cool inside all year and the floor can be damp: wear **closed shoes**.
+- **The Nerja Museum**, included with your ticket: it's on the village's Plaza de España, next to the Balcón de Europa, and explains the paintings and remains found in the cave. The **virtual reality room** is included too.
+- **Audio guide:** a free download in the official app. If you'd rather have a device, it costs €2 at the cave.
 
-| If you want… | Option | From |
-| --- | --- | --- |
-| To go on your own with an audio guide | [Nerja Caves entry ticket with audio guide](/en/cities/malaga/activities/nerja-caves-entry-ticket), 4.6★ (2,107) | €15.50 |
-| Transport from Málaga | [Nerja Caves, Nerja and Frigiliana day trip](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga), 4.6★ (3,192) | €69 |
-| Just your group | [Private day trip to Nerja and Frigiliana with the caves](/en/cities/malaga/activities/nerja-frigiliana-private-day-trip-from-malaga) | €700 per group |
+Capacity isn't as tight as at the Alhambra or the Caminito del Rey. Details checked on the official website on 4 November 2026.
 
-## 2026 prices: online is cheaper
+## Nerja Caves prices 2026 (online is cheaper)
 
-Official tickets are sold at `entradas.cuevadenerja.es`. There are two price periods: **period 1** (most of the year) and **period 2** (June to September, Christmas, bank-holiday weekends and Easter, from the Friday before Palm Sunday to Easter Sunday).
+Official sales are at **entradas.cuevadenerja.es**. There are two price periods: **period 1** (most of the year) and **period 2** (June to September, Christmas, long weekends and Easter, from the Friday of Sorrows to Easter Sunday).
 
-| Ticket | Online P1 | Online P2 | Ticket office P1 | Ticket office P2 |
+| Ticket | Online P1 | Online P2 | Box office P1 | Box office P2 |
 | --- | --- | --- | --- | --- |
-| General (14 and over) | €16 | €18 | €18 | €20 |
-| Over-65s, large families, European Youth Card, disability | €14 | €15 | €14 | €15 |
+| General (age 14+) | €16 | €18 | €18 | €20 |
+| Over-65s, large families, Carné Joven, disability | €14 | €15 | €14 | €15 |
 | Junior (12-13) | €13 | €14 | €13 | €14 |
 | Child (6-11) | €12 | €13 | €12 | €13 |
 | Mini (3-5) | €5 | €6 | €5 | €6 |
 | Babies (0-2) | Free | Free | Free | Free |
 
-- **General admission is €2 cheaper online.** The other fares cost the same either way.
-- **The audio guide** is a free download in the official app. A handset costs €2 at the cave.
-- **The Nerja Museum is included.** It is on Plaza de España in town, next to the Balcón de Europa, and your cave ticket gets you in free. The virtual reality room is included too.
+**The general ticket is €2 cheaper online.** All other fares cost the same.
 
-## Opening hours and closing days
+## Nerja Caves opening hours and closing days
 
-- **Period 1:** 9:15 to 16:30. Last entry 15:30.
-- **Period 2** (summer, Christmas, bank holidays and Easter): 9:15 to 17:30. Last entry 16:30.
-- **Closed** on 1 and 6 January, 15 May (a local holiday) and 25 December.
+- **Period 1:** 9:15 to 16:30. **Last entry 15:30.**
+- **Period 2** (summer, Christmas, long weekends and Easter): 9:15 to 17:30. **Last entry 16:30.**
+- **Closed** on 1 and 6 January, **15 May** (San Isidro, local holiday) and 25 December.
 
-The visit takes about **45 minutes** along a route with steps and walkways. It is cool inside all year and the floor can be damp, so wear closed shoes.
+## Do tickets sell out?
 
-## Do Nerja Caves tickets sell out?
+Rarely completely, and you can almost always get in on the same day. What happens in summer, at Easter and on long weekends is that **the box-office queue grows mid-morning**, when the tour coaches arrive. To avoid it:
 
-Rarely. What happens in summer, at Easter and on bank holidays is that the ticket-office queue grows mid-morning, when the tour coaches arrive. To avoid it:
+1. **Buy your ticket online** before you go: you save €2 and the queue.
+2. **Go first thing** (it opens at 9:15) or after lunch.
+3. **Don't arrive right at last entry.** At 15:30 (16:30 in summer) the entrance closes, not the cave.
 
-1. **Buy online** before you go: you save €2 and skip the queue.
-2. **Go first thing** (doors open at 9:15) or after lunch.
-3. **Don't turn up at last entry.** At 15:30 (16:30 in summer) the entrance closes, not the cave.
+## Getting to the Nerja Caves by bus, car or day trip
 
-## Getting there from Málaga
+**By bus.** ALSA runs buses from Málaga bus station (Paseo de los Tilos) to Nerja. The journey takes **between one hour and almost two**, depending on the service. The bus arrives at Nerja bus station, about 4 km from the cave; from there, ALSA buses to **Maro** stop at the junction with the cave road, or take a short taxi ride.
 
-**By bus.** ALSA runs buses from Málaga bus station (Paseo de los Tilos) to Nerja. The journey takes between one hour and almost two, depending on the service and its stops. The bus ends at Nerja bus station, about 4 km from the caves. From there, ALSA buses run to **Maro** and stop at the junction for the cave road, or you can take a short taxi.
+**By car.** About **60 km on the A-7**. The cave has its own car park, paid by the minute.
 
-**By car.** It is about 60 km along the A-7. The caves have their own car park, charged by the minute.
-
-**On a day trip.** The easiest option without a car: the [Nerja Caves, Nerja and Frigiliana tour](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) includes transport from Málaga and the cave ticket, and adds the Balcón de Europa and Frigiliana on the same day. For a family or a small group, the [private day trip](/en/cities/malaga/activities/nerja-frigiliana-private-day-trip-from-malaga) costs €700 for 1 or 2 people and €880 for 4.
+**On a day trip.** The easiest option without a car: the **Nerja Caves and Frigiliana trip from Málaga** includes transport and ticket (from €69) and adds the Balcón de Europa and Frigiliana on the same day. Private, €700 for 1 or 2 people and €880 for 4.
 
 [actividad: cuevas-nerja-frigiliana-desde-malaga]
 
-## What else to see nearby
+## What else to see nearby, and tips
 
-- **The Balcón de Europa**, the clifftop viewpoint in the centre of Nerja, and Burriana beach.
+- **The Balcón de Europa**, the viewpoint in central Nerja, and Burriana beach.
 - **Frigiliana**, one of the prettiest white villages in the Axarquía, 7 km away.
-- **Maro** and its coves, right next to the caves.
+- **Maro** and its coves, next to the cave.
 
-To compare Nerja with Ronda, Granada or the Caminito, see our [day trips from Málaga](/en/guides/malaga/day-trips-from-malaga), and for which works out cheaper for your group size, [private or group day trips from Málaga](/en/guides/malaga/private-or-group-day-trips-from-malaga).
+Avoid buying at the box office mid-morning in summer (you pay €2 more and queue), going on 15 May, skipping the Nerja Museum or wearing flip-flops: there are lots of steps and damp areas.
 
-## Mistakes to avoid
-
-1. **Buying at the ticket office mid-morning in summer.** You pay €2 more and queue.
-2. **Going on 15 May.** It is a local holiday and the caves are closed.
-3. **Skipping the Nerja Museum.** It is included and explains the paintings and remains found in the cave.
-4. **Wearing flip-flops.** There are lots of steps and damp sections.
-
-## In one sentence
-
-Buy your ticket online at `entradas.cuevadenerja.es` (€16, or €18 in high season), go early and use the free Nerja Museum entry; without a car, the day trip from Málaga with Frigiliana sorts out the whole day.
+To compare Nerja with Ronda, Granada or the Caminito, see all of them in [day trips from Málaga](/en/guides/malaga/day-trips-from-malaga), and in [private or group day trips from Málaga](/en/guides/malaga/private-or-group-day-trips-from-malaga), which works out better depending on how many of you there are.

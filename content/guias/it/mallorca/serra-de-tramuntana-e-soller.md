@@ -4,7 +4,7 @@ descripcion: "Guida alla Serra de Tramuntana: Valldemossa, Deià, Sóller e il s
 categoria: "mallorca"
 slug: "serra-de-tramuntana-e-soller"
 fecha: "2026-03-18"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
@@ -25,61 +25,50 @@ slugs:
   it: serra-de-tramuntana-e-soller
   pt: serra-de-tramuntana-e-soller
 reservasArriba: true
-respuestaCorta: 'Una giornata in auto basta per il principale: **Valldemossa, Deià e Sóller**, più la strada di **Sa Calobra** se parti presto (a metà mattina si riempie). Sono pochi chilometri ma tante curve. Senza guidare, combina il **treno di Sóller** con la barca da Port de Sóller a Sa Calobra (da 35 €). Meglio da aprile a giugno e a settembre-ottobre.'
+intro: 'La **Serra de Tramuntana** è la Maiorca che il turista da spiaggia non vede: una catena montuosa **Patrimonio dell''Umanità** per i suoi terrazzamenti, i muretti a secco e gli ulivi secolari, con paesi di pietra sospesi sul mare come **Valldemossa, Deià, Sóller e Fornalutx**, il treno di legno del 1912 e strade da vertigine come quella di **Sa Calobra**. Un giorno basta per l''essenziale; due per viverla con calma.'
+respuestaCorta: 'La Serra de Tramuntana si vede in un giorno in auto: **Valldemossa, Deià e Sóller**, più **Sa Calobra** se parti presto (a metà mattina è piena). Pochi chilometri, molte curve. Senza guidare, combina il **treno di Sóller** con la barca da Port de Sóller a Sa Calobra (**da 35 €**). Meglio **da aprile a giugno e a settembre-ottobre**.'
 actividades:
   - barco-soller-sa-calobra
   - mallorca-vuelta-isla-tren-soller-tranvia-barco
   - tren-soller-tranvia-medio-dia-desde-el-norte
   - cartuja-valldemossa-entrada-audioguia
+faq:
+- pregunta: Quanti giorni servono per la Serra de Tramuntana?
+  respuesta: 'Un giorno in auto basta per l''essenziale: Valldemossa, Deià, Sóller e Fornalutx, più Sa Calobra se parti presto. Con due giorni la vivi con calma, con tempo per i belvedere e per scendere a Port de Sóller.'
+- pregunta: Si può visitare la Tramuntana senza auto?
+  respuesta: Sì. La linea di autobus TIB 203 collega Palma con Valldemossa (30 minuti), Deià (50) e Sóller (1 h 15) per 2-5 €, ogni ora. Il treno di Sóller (30 € andata e ritorno) è il modo più bello, e a Sa Calobra si arriva in barca da Port de Sóller.
+- pregunta: Quanto costa la Certosa di Valldemossa?
+  respuesta: 13 € (gratis sotto i 10 anni), con la cella di Chopin e un concerto di pianoforte incluso ogni ora. Chiude la domenica pomeriggio e in inverno prima.
+- pregunta: La strada di Sa Calobra è pericolosa?
+  respuesta: È la più spettacolare dell'isola, con curve estreme e il «nus de sa corbata», un anello a 360°. Se soffri il mal d'auto, prendi la barca da Port de Sóller (da 35 € andata e ritorno, 1 ora). Il parcheggio in basso costa 8-10 € e alle 11:00 è pieno in alta stagione.
+- pregunta: Qual è il periodo migliore per la Tramuntana?
+  respuesta: Da aprile a giugno (verde, fiori e temperature piacevoli) e a settembre-ottobre (luce dorata e meno auto). A gennaio e febbraio fioriscono i mandorli; a luglio e agosto fa caldo e le strade strette si intasano.
 ---
 
-**La Serra de Tramuntana è la Maiorca che il turista da spiaggia non vede**, e per molti la migliore. Una catena montuosa **Patrimonio dell'Umanità** per il suo paesaggio culturale di terrazzamenti, muretti a secco e ulivi secolari, punteggiata di paesi di pietra a picco sul mare e strade da capogiro. Questa guida la ordina perché tu possa goderla in auto o con il mitico treno di Sóller, senza perdere l'essenziale.
+## I paesi da non perdere: Valldemossa, Deià, Sóller e Fornalutx
 
-La chiave della Tramuntana è andare piano: sono pochi chilometri ma tante curve, tanti belvedere e tanta voglia di fermarsi. Un giorno basta per il principale; due, per viverla con calma.
+**Valldemossa.** Il paese più famoso, con vicoli acciottolati e fiori, e la **Certosa** dove Chopin e George Sand trascorsero l'inverno 1838-39. La Certosa costa **13 €** (gratis sotto i 10 anni), con la cella di Chopin e un concerto di pianoforte ogni ora; chiude la domenica pomeriggio. Molto visitata: vai presto.
 
-## Quando andare
+**Deià.** Villaggio di artisti sospeso sul mare, dove visse lo scrittore Robert Graves. Case di pietra dorata e una caletta, **Cala Deià**, dalle acque cristalline in fondo a un burrone.
 
-| Periodo | Verdetto | Perché |
-| --- | --- | --- |
-| Da aprile a giugno | Ideale | Verde, fiori, temperature perfette |
-| Settembre e ottobre | Ideale | Luce dorata, meno auto sulle curve |
-| Gennaio e febbraio | Mandorli | Fioritura spettacolare sui terrazzamenti |
-| Luglio e agosto | Caldo e traffico | Le strade strette si intasano |
-
-> **⭐ Consiglio:** la strada di **Sa Calobra** e i belvedere si riempiono a metà mattina in alta stagione. Parti presto: guiderai più tranquillo e farai le foto senza gente.
-
-[actividad: barco-soller-sa-calobra]
-
-## I paesi da non perdere
-
-**Valldemossa.** Il paese più famoso, con vie lastricate e fiori, e la **Certosa** dove Chopin e George Sand trascorsero l'inverno 1838-39. Grazioso e molto visitato: vai presto.
-
-**Deià.** Borgo di artisti a picco sul mare, dove visse lo scrittore Robert Graves. Case di pietra dorata e una caletta (Cala Deià) dalle acque cristalline in fondo a un burrone.
-
-**Sóller.** Una valle di aranci circondata dalle montagne, con una splendida piazza modernista. Da qui parte il **tram** per il **Port de Sóller**, una baia riparata.
+**Sóller.** Una valle di aranci circondata da montagne, con una splendida piazza modernista. Da qui parte il **tram** per **Port de Sóller**, una baia riparata.
 
 **Fornalutx.** A due passi da Sóller, considerato uno dei paesi più belli di Spagna: scalinate di pietra, gerani e silenzio.
 
 ## Il treno di Sóller
 
-Il **treno in legno del 1912** collega Palma a Sóller attraversando la Tramuntana tra gallerie e aranceti: un'ora di viaggio che è un'attrazione in sé. A Sóller si collega al **tram storico** fino al porto. È l'opzione migliore se non vuoi guidare sulle curve. In alta stagione prenota.
+Il **treno di legno del 1912** collega Palma con Sóller attraversando la Tramuntana tra gallerie e aranceti: **un'ora** di viaggio che è un'attrazione in sé (**30 € andata e ritorno**). A Sóller si prende il **tram storico** fino al porto. È l'opzione migliore se non vuoi guidare tra le curve; in alta stagione prenota.
 
-## Strade e belvedere
+## Sa Calobra, strade e belvedere
 
-- **Sa Calobra (MA-2141).** La strada più spettacolare dell'isola, con il famoso **"nus de sa corbata"** (un anello di 360°), che scende fino al **Torrent de Pareis**, un canyon che sfocia nel mare.
-- **Sa Foradada.** Da Son Marroig, una camminata facile porta alla roccia forata; tramonto da cartolina (c'è un ristorante).
+- **Sa Calobra (MA-2141).** La strada più spettacolare dell'isola, con il famoso **«nus de sa corbata»** (un anello a 360°), che scende fino al **Torrent de Pareis**, un canyon che sfocia in mare. A metà mattina è piena in alta stagione: parti presto.
+- **Sa Foradada.** Da Son Marroig una passeggiata facile porta alla roccia forata; tramonto da cartolina (c'è un ristorante).
 - **Mirador de Ses Ànimes (Torre del Verger).** Il classico balcone sul Mediterraneo, spettacolare al tramonto.
 - **Banyalbufar.** Paese di terrazzamenti sul mare.
 
-## Info pratiche: strade, parcheggi e prezzi
+**Sa Calobra senza curve:** la barca da Port de Sóller (**da 35 €** andata e ritorno, 1 ora) fa una sosta di due ore per vedere il Torrent de Pareis. D'estate c'è anche l'autobus TIB 354 da Sóller e Port de Sóller, con corse molto limitate.
 
-- **La MA-10** è la strada che percorre la catena da Andratx a Pollença: 110 km che in auto richiedono 3 ore senza soste. Tra Valldemossa e Sóller ha una sola corsia per senso di marcia e poca banchina; con un'auto piccola si va molto meglio che con un SUV.
-- **Parcheggio:** a Valldemossa, parcheggio a pagamento all'ingresso (circa 5 € al giorno); a Deià, appena 40 posti lungo la strada e Cala Deià senza parcheggio praticabile in estate; a Sóller, il parcheggio di plaza de Mallorca; a Sa Calobra, 8-10 € e pieno alle 11:00 in alta stagione. Per Sa Foradada si parcheggia a Son Marroig (3 € l'accesso al sentiero).
-- **Senza auto:** la linea di autobus TIB 203 collega Palma con Valldemossa (30 minuti), Deià (50) e Sóller (1 h 15) per 2-5 €, ogni ora. È il modo più economico ed evita di guidare sulla MA-10. Il treno di Sóller (30 € andata e ritorno) è il modo più bello.
-- **Sa Calobra senza curve:** barca da Port de Sóller (da 35 € andata e ritorno, 1 ora), con sosta di due ore per vedere il Torrent de Pareis. Autobus TIB 354 da Sóller e Port de Sóller in estate, con corse molto limitate.
-- **Certosa di Valldemossa:** 13 € (gratis sotto i 10 anni), con la cella di Chopin e un concerto di pianoforte incluso ogni ora. Chiude la domenica pomeriggio e in inverno prima.
-- **Benzina e acqua:** distributori solo a Sóller, Andratx e Pollença. Tra Deià e Sa Calobra, niente. In estate, 2 litri d'acqua a persona in auto.
-- **Il tunnel di Sóller** (MA-11) è gratuito dal 2017 e accorcia il viaggio da Palma a 30 minuti; il passo di montagna, il Coll de Sóller, è l'alternativa panoramica, con 50 curve.
+[actividad: barco-soller-sa-calobra]
 
 ## Itinerario di un giorno in auto
 
@@ -91,27 +80,30 @@ Il **treno in legno del 1912** collega Palma a Sóller attraversando la Tramunta
 | 14:30 | Pranzo nella valle di Sóller |
 | 16:30 | Sa Calobra (o Port de Sóller) |
 
-## Mangiare nella Tramuntana
+Nella Tramuntana si va piano: non mettere più tappe di quante ne entrino.
 
-Cucina di montagna: **frit, tumbet, arròs brut** e, da Sóller, le **arance** e il loro succo, oltre ai gelati e all'olio d'oliva della Serra. Cerca cellers e ristoranti di paese lontano dalla piazza principale di Valldemossa, dove i prezzi salgono.
+## Come muoversi: strade, parcheggi e prezzi
 
-## Cosa NON consigliamo
+- **La MA-10** attraversa la catena da Andratx a Pollença: **110 km che richiedono 3 ore** senza soste. Tra Valldemossa e Sóller ha una corsia per senso e poca banchina; con un'auto piccola si va molto meglio che con un SUV.
+- **Il tunnel di Sóller** (MA-11) è gratuito dal 2017 e porta Sóller a 30 minuti da Palma; il Coll de Sóller, con 50 curve, è l'alternativa panoramica.
+- **Parcheggiare:** a Valldemossa, parcheggio a pagamento all'ingresso (circa 5 € al giorno); a Deià, appena 40 posti lungo la strada e nessun parcheggio pratico per Cala Deià d'estate; a Sóller, quello della plaza de Mallorca; a Sa Calobra, **8-10 € e pieno alle 11:00** in alta stagione. Per Sa Foradada si parcheggia a Son Marroig (3 € l'accesso al sentiero).
+- **Senza auto:** la **linea TIB 203** collega Palma con Valldemossa (30 minuti), Deià (50) e Sóller (1 h 15) per 2-5 €, ogni ora. È il modo più economico ed eviti di guidare sulla MA-10.
+- **Benzina e acqua:** distributori solo a Sóller, Andratx e Pollença; tra Deià e Sa Calobra, niente. D'estate tieni in auto 2 litri d'acqua a persona.
 
-1. **Fare la Tramuntana di corsa.** Va vissuta fermandosi ogni pochi chilometri; non trattarla come un semplice tragitto.
-2. **Guidare fino a Sa Calobra se soffri il mal d'auto.** Curve estreme; valuta il bus o la barca.
-3. **Arrivare ai belvedere a mezzogiorno d'estate.** Pieni e senza parcheggio; vai presto.
-4. **Saltare il treno di Sóller** se ti piace viaggiare lentamente.
+## Quando andare, dove mangiare e consigli
 
-[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
+| Periodo | Giudizio |
+| --- | --- |
+| **Da aprile a giugno** | Ideale: verde, fiori, temperature perfette |
+| **Settembre e ottobre** | Ideale: luce dorata, meno auto sulle curve |
+| **Gennaio e febbraio** | Mandorli in fiore sui terrazzamenti |
+| **Luglio e agosto** | Caldo e traffico: le strade strette si intasano |
 
-## Errori tipici
+**Per mangiare**, cucina di montagna: **frit, tumbet, arròs brut** e, da Sóller, le **arance** e il loro succo, i gelati e l'olio d'oliva della Serra. Cerca cellers e ristoranti di paese lontano dalla piazza principale di Valldemossa, dove i prezzi salgono.
 
-> **⚠️ Attenzione:** le sviste che vediamo più spesso.
+- **Non farla di corsa:** la Tramuntana è fatta per fermarsi ogni pochi chilometri.
+- **Se soffri le strade di montagna, non guidare fino a Sa Calobra:** valuta l'autobus o la barca.
+- **D'estate arriva presto ai belvedere:** a mezzogiorno sono pieni e senza parcheggio.
+- **Prenota l'auto per tempo d'estate:** è indispensabile per la Serra e finisce presto.
 
-1. **Prenotare l'auto tardi in estate.** Indispensabile per la Serra; vanno a ruba.
-2. **Calcolare male i tempi.** Nella Tramuntana si va piano; non mettere troppe tappe.
-3. **Dimenticare benzina e acqua.** Ci sono lunghi tratti senza servizi.
-
-## In una frase
-
-La Serra de Tramuntana è la Maiorca di pietra, ulivi e mare: paesi come Valldemossa, Deià e Fornalutx, il treno di Sóller e strade da capogiro come quella di Sa Calobra. È ciò che distingue l'isola da una qualsiasi meta balneare; la inquadriamo in [cosa vedere a Maiorca](/it/guides/mallorca/cosa-vedere-a-maiorca).
+Per il resto dell'isola, leggi [cosa vedere a Maiorca](/it/guides/mallorca/cosa-vedere-a-maiorca).

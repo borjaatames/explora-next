@@ -1,17 +1,18 @@
 ---
 titulo: "Bilbao in one day: Guggenheim, Old Town and pintxos"
 descripcion: "What to see in Bilbao in one day: Guggenheim Museum, Old Town, La Ribera Market and Artxanda. An hour-by-hour walking route, where to eat pintxos and Gaztelugatxe nearby."
-respuestaCorta: 'Start at 9:30 at the **Guggenheim** (allow 2h-2h 30min), walk along the Nervión and over the Zubizuri bridge, then cross to the **Old Town and its Seven Streets**. Eat pintxos around the **Plaza Nueva** from 2 PM, look in at La Ribera Market and end with the **Artxanda funicular** at sunset. A guided Guggenheim visit with ticket (in Spanish) costs from €49.'
+intro: '**What to see in Bilbao** fits into one well-used day: the city went from industrial grey to design icon and is best explored on foot along the river. On one side, Gehry''s titanium **Guggenheim**; on the other, the medieval **Seven Streets** of the Old Town, La Ribera Market and one of Europe''s best **pintxo** bar scenes. To finish, the Artxanda funicular, with the whole city framed by mountains.'
+respuestaCorta: '**What to see in Bilbao** in a day, on foot along the river: the **Guggenheim** (online timed ticket; closed on Mondays except in July and August), the Old Town and the **Seven Streets**, **pintxos in the Plaza Nueva**, La Ribera Market and the **Artxanda funicular** at sunset. With more time, Gaztelugatxe is half an hour away.'
 categoria: "bilbao"
 slug: "bilbao-in-one-day"
 fecha: "2026-03-13"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/bilbao-en-un-dia.jpg"
 imagen_alt: Plaza Nueva in Bilbao's Old Town
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "what to see in bilbao"
   - "bilbao in one day"
@@ -34,97 +35,63 @@ actividades:
   - san-mames-museo-estadio-athletic
   - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
   - san-sebastian-hondarribia-getaria-desde-bilbao
+faq:
+- pregunta: Can you see Bilbao in one day?
+  respuesta: Yes. On foot along the river there's time for the Guggenheim in the morning, the Old Town and the Seven Streets, pintxos in the Plaza Nueva, La Ribera Market and the Ensanche, and the Artxanda funicular at sunset.
+- pregunta: How much is a ticket to the Guggenheim Bilbao?
+  respuesta: €18 with audio guide, free for under-18s. It's best to buy online with a time slot, as there's a queue at the ticket office. Open Tuesday to Sunday from 10:00 to 19:00 (20:00 in summer) and closed on Mondays except in July and August. Allow two and a half hours inside.
+- pregunta: Where to eat pintxos in Bilbao?
+  respuesta: Bar-hopping (txikiteo) around the Plaza Nueva, the Old Town and the Ensanche. Try the Gilda, bacalao al pil-pil or a la vizcaína, txuleta, marmitako and kokotxas, with txakoli or a Rioja Alavesa, and ask for the board of hot pintxos.
+- pregunta: Do you need to book to visit Gaztelugatxe?
+  respuesta: 'Yes: access to San Juan de Gaztelugatxe requires a compulsory free booking. It''s half an hour from Bilbao and you climb 241 steps up to the hermitage.'
+- pregunta: How do you get around Bilbao?
+  respuesta: The centre is walkable along the river. Beyond that there's the metro, the tram and the Artxanda funicular. The Barik card (€3) works on everything, can be shared and brings each trip down from €1.90 to €0.90-1.30.
 ---
 
-**Bilbao is easily seen in a day**, with the **Guggenheim** as the headline draw and an unbeatable Old Town for pintxos. The city pulled off one of the most famous urban transformations in the world —the "Bilbao effect"—, going from industrial grey to a design icon, and today it's walked along the river. This guide covers the essentials and separates what's worth your time from the filler.
+## The route: what to see in Bilbao in one day
 
-## Book the essentials
+- **9:30 · Guggenheim Museum.** Outside, free: Koons's *Puppy*, Bourgeois's spider *Maman*, the fog sculpture and the fire at dusk. Inside, Richard Serra's *The Matter of Time*. Allow **two and a half hours**.
+- **12:00 · The river and Zubizuri.** A stroll beside the Nervión and across Calatrava's white bridge.
+- **12:30 · Old Town.** The **Seven Streets** (Zazpi Kaleak), the medieval origin of the town, the Cathedral of Santiago and the Arriaga Theatre.
+- **14:00 · Pintxos in the Plaza Nueva**, the arcaded square at the heart of the bar scene.
+- **16:30 · La Ribera Market and the Ensanche.** The market is one of the largest covered markets in Europe; in the Ensanche, Gran Vía, Moyúa and Starck's **Azkuna Zentroa**, with its atrium of 43 columns and the glass-bottomed pool seen from below.
+- **18:00 · Artxanda funicular** at sunset: the best panorama of Bilbao wedged between mountains, and hardly anyone goes up.
 
-| Activity | Rating | From |
-| --- | --- | --- |
-| [Old Town walking tour](/en/cities/bilbao/activities/bilbao-old-town-walking-tour) | 4.7★ (449) | €42 |
-| [Guggenheim guided tour with ticket (Spanish only)](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) | 4.9★ (182) | €49 |
-| [Pintxos food tour with wine](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4.9★ (1,041) | €95 |
-| [Estuary boat tour (1 h or 2 h)](/en/cities/bilbao/activities/bilbao-estuary-boat-tour-portugalete) | 4.2★ (3,389) | €15 |
-| [San Mamés museum and stadium](/en/cities/bilbao/activities/san-mames-stadium-museum-tour) | 4.8★ (1,710) | €16.5 |
-| [Gaztelugatxe, Bermeo, Mundaka and Guernica with txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4.7★ (3,229) | €45 |
+## Guggenheim Museum: prices and opening hours
 
-Bilbao's charm is the contrast: Gehry's futuristic titanium on one bank of the river, the medieval Seven Streets on the other, and one of the best pintxo scenes in Europe in between. Whoever sees it in a rush stops at the museum photo; whoever stays for lunch and rides up to Artxanda takes home the whole city.
+- **Guggenheim:** €18 with audio guide, free for under-18s. Buy online with a time slot: there's a queue at the ticket office. Tuesday to Sunday, 10:00 to 19:00 (20:00 in summer); **closed on Mondays**, except in July and August.
 
-## When to visit Bilbao
+[actividad: guggenheim-bilbao-visita-guiada-entrada]
 
-| Season | Verdict | Why |
-| --- | --- | --- |
-| May, June and September | Ideal | Drier, gentler weather, long days |
-| July and August | Good | Good weather and festivals; a little busier |
-| Aste Nagusia (August) | Big party | The Semana Grande; brilliant atmosphere but at capacity |
-| October to April | Rainy | Green and authentic; bring an umbrella for the drizzle |
+- **Artxanda funicular:** every 15 minutes, 7:15 to 22:00 (23:00 in summer); cheaper with Barik.
+- **La Ribera Market:** free, Monday to Saturday from 8:00 to 14:30; the food hall opens Thursday to Saturday until 23:00 and on Sundays.
+- **Azkuna Zentroa:** free.
+- **Cathedral of Santiago:** €6 with audio guide and cloister.
+- **Fine Arts Museum:** free for under-25s and for everyone from 18:00 (subject to change during the works); closed on Tuesdays.
 
-> **⭐ Tip:** Bilbao often gets the *sirimiri*, that fine Atlantic drizzle. It doesn't spoil the plan: the Guggenheim, the museums and the pintxo bars are rainproof. Bring a raincoat and go for it.
+## Pintxos in Bilbao: where to eat and stay
 
-## Getting there and getting around
+Arrive hungry. **Pintxos** are eaten bar-hopping (**txikiteo**) around the Plaza Nueva, the Old Town and the Ensanche: **Gilda**, **bacalao al pil-pil** or a la vizcaína, **txuleta**, **marmitako** and **kokotxas**, with **txakoli** poured from a height or a Rioja Alavesa. The best pintxos aren't on the counter: ask for the board of hot ones and move between several bars.
 
-**By air**, Loiu airport is 12 minutes from the centre (bus). **By train and coach** it's well connected from Madrid and the north (the Basque high-speed line is still under construction, so the train is slower than the AVE to other cities). Once there, Bilbao has an excellent **metro** (Norman Foster's "fosterito" entrances), a **tram**, and the **Artxanda funicular** up to the viewpoint. The centre is walked along the river. It pairs beautifully with **San Sebastián** and the Basque coast.
+To stay, the **Old Town** (pintxos at street level) or the **Ensanche** (by the Guggenheim): they're a riverside walk apart.
 
-## The one-day route, done right
+## When to go and getting around
 
-| Time | Activity |
-| --- | --- |
-| 9:30 — 12:00 | Guggenheim Museum |
-| 12:00 — 12:30 | Riverside walk and Zubizuri |
-| 12:30 — 14:00 | Old Town and the Seven Streets |
-| 14:00 — 16:00 | Pintxos in the Plaza Nueva |
-| 16:30 — 17:30 | La Ribera Market and the Ensanche |
-| 18:00 | Artxanda funicular (panorama) |
+**May, June and September** are ideal. July and August bring good weather and festivals: **Aste Nagusia** in August, with Marijaia, concerts and fireworks, and **BBK Live** in July. From October to April it's all green, with **sirimiri**, the fine drizzle that spoils nothing: the Guggenheim and the bars are rainproof.
 
-**9:30 — Guggenheim Museum.** Start at Frank Gehry's **Guggenheim**, the titanium building that changed the city. Outside, without going in, you already enjoy **'Puppy'** (Jeff Koons' flower dog), Louise Bourgeois' **'Maman'** spider and the fog sculpture. Inside, don't miss Richard Serra's 'The Matter of Time'. Allow 2h-2h 30min.
+- **Getting there:** Loiu airport is 12 minutes away by bus. By train, allow more time than for other cities: the Basque high-speed line is still under construction.
+- **Getting around:** the centre is walked along the river; there's also the **metro** (Norman Foster's "fosteritos"), the tram and the funicular.
+- **Barik card (€3):** works on everything, can be shared and brings each trip down from €1.90 to €0.90-1.30.
 
-**12:00 — The river.** Stroll beside the **Nervión river**, cross Calatrava's white **Zubizuri** bridge and enjoy the reborn Bilbao along the water.
+## Around Bilbao
 
-**12:30 — Old Town.** Cross to the **Old Town** and its **Seven Streets** (Zazpi Kaleak), the medieval origin of the town, with the Cathedral of Santiago and the Arriaga Theatre.
+Half an hour away, **San Juan de Gaztelugatxe** (Dragonstone in *Game of Thrones*), a hermitage on an islet with 241 steps and a **compulsory free booking**. On the estuary, the **Bizkaia Bridge** at Portugalete, a World Heritage Site. Nearby, Getxo, Urdaibai and Gernika, and **San Sebastián** an hour away.
 
-**14:00 — Pintxos.** Time for the bar (see below): the arcaded **Plaza Nueva** is the epicentre.
+## Common mistakes
 
-**16:30 — Market and Ensanche.** Look in at **La Ribera Market**, one of the largest covered markets in Europe, and cross to the **Ensanche** (Gran Vía, Plaza Moyúa and Philippe Starck's **Azkuna Zentroa** cultural centre).
-
-**18:00 — Artxanda.** Ride the **Artxanda funicular** for the best panorama of Bilbao wedged between mountains, ideal at sunset.
-
-## Around
-
-Half an hour away, **San Juan de Gaztelugatxe** (Dragonstone in *Game of Thrones*), a hermitage on an islet reached by 241 steps. On the estuary, the **Bizkaia Bridge** (Hanging Bridge) at Portugalete, a UNESCO World Heritage Site. Also close: **Getxo**, the **Urdaibai** reserve, **Gernika** and **San Sebastián**, an hour away.
-
-## Where to stay
-
-The handiest base is the **Old Town** (atmosphere and pintxos at street level) or the **Ensanche** (more modern, by the Guggenheim and well connected). Both are linked by metro and a riverside walk. **Avoid** staying far from the centre: Bilbao is lived on foot between the two banks.
-
-## Eating in Bilbao
-
-Bilbao is one of Europe's gastronomic capitals: arrive hungry. The star is the **pintxo**, eaten bar-hopping (txikiteo) around the **Plaza Nueva**, the Old Town and the Ensanche. Don't miss the **Gilda** (the pintxo of guindilla pepper, olive and anchovy), the **bacalao al pil-pil** or **a la vizcaína** (cod), the **txuleta** (grilled rib steak), the **marmitako** (tuna stew) and the **kokotxas**. To drink, **txakoli** (poured from a height) or a Rioja Alavesa from next door.
-
-> **⚠️ Warning:** the best pintxos aren't always on display at the bar; many are ordered hot and made to order. Ask for the day's board and move between several bars rather than staying in one.
-
-## What we don't recommend
-
-1. **Stopping at the Guggenheim photo.** The Old Town and the pintxos are half the city.
-2. **Eating at a single bar.** The point is the txikiteo: one pintxo and a small wine per place.
-3. **Skipping Artxanda.** It's the best view and almost no one goes up.
-4. **Giving up the plan if the sirimiri falls.** Almost everything is indoors or rainproof.
-
-## Common visitor mistakes
-
-> **⚠️ Warning:** the slip-ups we see most.
-
-1. **Not booking the Guggenheim ticket in season.** Queues can be long.
-2. **Treating Bilbao as a museum-only destination.** The food is every bit its equal.
-3. **Going to Gaztelugatxe without a ticket.** Access is regulated with a free booking; check beforehand.
-4. **Expecting high-speed rail as in other cities.** It's still under construction; allow more time or fly.
-
-## Events to plan around
-
-- **Aste Nagusia / Semana Grande (August).** Bilbao's great festival, with the figure of **Marijaia**, concerts, fireworks and a brilliant atmosphere across the city.
-- **BBK Live (July).** One of the north's big music festivals, on Mount Cobetas.
-- **Athletic matches at San Mamés.** Football's "Cathedral"; a match day changes the mood of the city.
-
-## In one sentence
-
-Bilbao in a day is Guggenheim, river and pintxos: avant-garde architecture and the best bar in the north. With more time, **Gaztelugatxe** and **San Sebastián** round out a perfect Basque Country trip.
+1. **Stopping at the Guggenheim photo:** the Old Town and the pintxos are half the city.
+2. **Not booking your ticket** in high season, or coming on a Monday.
+3. **Eating at a single bar:** the point is one pintxo and one wine per place.
+4. **Skipping Artxanda.**
+5. **Going to Gaztelugatxe without a booking.**
+6. **Giving up on the plan because of the sirimiri.**

@@ -7,6 +7,8 @@ type Props = {
   idioma: Idioma;
   /** YYYY-MM-DD de la última comprobación en fuentes oficiales. */
   comprobado?: string;
+  /** Dentro de la columna de lectura de la guía: sin contenedor propio. */
+  enColumna?: boolean;
 };
 
 const COMPROBADO: Record<Idioma, string> = {
@@ -55,6 +57,7 @@ const ENLACE = /^\[([^\]]+)\]\((\/[^)\s]*)\)$/;
  */
 function formatear(texto: string): ReactNode[] {
   return texto
+    .replace(/`([^`]+)`/g, "$1")
     .split(/(\[[^\]]+\]\(\/[^)\s]*\)|\*\*[^*]+\*\*)/g)
     .filter((trozo) => trozo !== "")
     .map((trozo, i) => {
@@ -87,11 +90,11 @@ function formatear(texto: string): ReactNode[] {
  * Recuadro bajo el hero con la respuesta directa a la pregunta de la guía
  * (`respuestaCorta` en el frontmatter). Va encima del bloque de reservas.
  */
-export default function RespuestaCorta({ texto, idioma, comprobado }: Props) {
+export default function RespuestaCorta({ texto, idioma, comprobado, enColumna = false }: Props) {
   if (!texto) return null;
   return (
     <section aria-label={ETIQUETA[idioma]} className="bg-white">
-      <div className="max-w-3xl mx-auto px-4 pt-5 md:pt-10">
+      <div className={enColumna ? "" : "max-w-3xl mx-auto px-4 pt-5 md:pt-10"}>
         <div className="border border-piedra-200 rounded-lg p-4 md:p-5">
           <p className="text-xs font-semibold uppercase tracking-wider text-anil-700 mb-2">
             {ETIQUETA[idioma]}

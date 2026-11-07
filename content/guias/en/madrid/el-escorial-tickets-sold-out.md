@@ -5,14 +5,14 @@ metaTitle: 'El Escorial tickets: price and free entry'
 categoria: madrid
 slug: el-escorial-tickets-sold-out
 fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
 datosComprobados: '2026-11-06'
 imagen_portada: /images/guias/el-escorial-entradas-agotadas.jpg
 imagen_alt: Main facade of the Royal Monastery of San Lorenzo de El Escorial
-tiempo_lectura: 4
+tiempo_lectura: 3
 keywords:
   - 'el escorial tickets'
   - 'el escorial monastery ticket price'
@@ -28,20 +28,21 @@ slugs:
   it: escorial-biglietti-esauriti
   pt: escorial-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'General admission to the Monastery costs **€14** (plus a €0.77 online booking fee) on `tickets.patrimonionacional.es`, and the **official guided visit €22**. **It is closed on Mondays.** If your slot is sold out, try another time or the **ticket office**. EU and Latin American citizens get in **free on Wednesday and Sunday afternoons**, at the ticket office only. And a **day trip from Madrid with entry included** sorts it from €62.'
+intro: '**El Escorial tickets** open the Royal Monastery of San Lorenzo de El Escorial, which Philip II had built between 1563 and 1584 at the foot of the Guadarrama mountains. Under one granite roof it brings together a monastery, a royal palace, a basilica, the **Pantheon of Kings** (where most Spanish monarchs since Charles I lie) and a library with a frescoed vault. It''s under an hour from Madrid; the visit takes about two hours.'
+respuestaCorta: 'El Escorial tickets cost **€14** (plus €0.77 online fee) at tickets.patrimonionacional.es, and the **official guided tour €22**. **Closed on Mondays.** If your slot is sold out, try another time or the **ticket office**. EU and Ibero-American citizens enter **free on Wednesday and Sunday afternoons**, at the ticket office only. A **day trip from Madrid with entry included** costs from €62.'
 actividades:
   - escorial-valle-cuelgamuros-excursion-grupo
   - el-escorial-monasterio-entrada
   - tour-privado-escorial-monasterio-real
 faq:
-- pregunta: How much does El Escorial cost?
-  respuesta: 'General admission is €14 and reduced €7 (ages 5 to 16, over-65s and students up to 25). Online there is a €0.77 booking fee per ticket. The official guided visit costs €22 (€15 reduced). Children under 5 go free.'
+- pregunta: How much is the El Escorial ticket?
+  respuesta: General admission costs €14 and the reduced ticket €7 (ages 5 to 16, over-65s and students up to 25). Online there's a €0.77 booking fee per ticket. The official guided tour costs €22 (€15 reduced). Children under 5 go free.
 - pregunta: When is El Escorial free?
-  respuesta: 'For citizens and residents of the EU and Latin America, on Wednesdays and Sundays from 15:00 to 18:00 (October to March) and from 15:00 to 19:00 (April to September), without a guide, at the ticket office only and with ID. On 18 May and 12 October it is free for everyone.'
+  respuesta: For citizens and residents of the EU and Ibero-America, on Wednesdays and Sundays from 15:00 to 18:00 (October to March) and from 15:00 to 19:00 (April to September), without a guide and at the ticket office only, with ID. On 18 May and 12 October it's free for everyone.
 - pregunta: What day is El Escorial closed?
-  respuesta: 'Every Monday. In 2026 it is also closed on 1 and 6 January, 1 May, 13 September and 24, 25 and 31 December, and it may close for official events.'
-- pregunta: Can you visit the Basilica without a ticket?
-  respuesta: 'Yes. The Basilica does not require a ticket, but it closes during services. The rest of the Monastery (Pantheon, Library, palaces) does.'
+  respuesta: Every Monday. In 2026 it's also closed on 1 and 6 January, 1 May, 13 September and 24, 25 and 31 December, and may close for official events.
+- pregunta: Can you enter the Basilica without a ticket?
+  respuesta: Yes. The Basilica doesn't require a ticket, but it closes during services. The rest of the Monastery (Pantheon, Library, palaces) does.
 opciones:
   - ficha: escorial-valle-cuelgamuros-excursion-grupo
     etiqueta: Most popular
@@ -51,58 +52,47 @@ opciones:
     etiqueta: Private
 ---
 
-The Monastery of El Escorial sells its tickets on Patrimonio Nacional's official website, which recommends booking ahead. On long weekends and at weekends some slots fill up, but there is almost always another way in on the day. Try these options in this order.
+## What you'll see
 
-## Which ticket should you choose?
+- **The Basilica**, crowned by a great dome, presides over the complex. You can see it without a ticket, except during services.
+- **The Pantheon of Kings**, beneath the high altar, where most Spanish kings since Charles I are buried. It's the most impressive room.
+- **The Royal Library**, with its frescoed vault and thousands of manuscripts and old books.
+- **The palace**, from where Philip II ruled for much of his reign and where he died in 1598.
 
-| If you want… | Option | From |
-| --- | --- | --- |
-| To go from Madrid with everything sorted | [El Escorial and the Valley of Cuelgamuros with a guide](/en/cities/madrid/activities/el-escorial-valley-of-cuelgamuros-group-tour), 4.7★ (1,769) | €62 |
-| Just the ticket, on your own | [Royal Monastery entry ticket](/en/cities/madrid/activities/el-escorial-monastery-entry-ticket), 4.5★ (312) | €18 |
-| Just your group, with pick-up | [Private tour with an official guide from Madrid](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) | €820 per group |
+The official guided tour (about 2 hours) covers the essentials without getting lost; on your own, allow at least as long.
 
-## 1. Check the official website again
+## Prices and opening hours
 
-The official ticket site is `tickets.patrimonionacional.es`. Prices in force since 16 October 2025:
+Tickets are sold on Patrimonio Nacional's official website, tickets.patrimonionacional.es. Prices in force since 16 October 2025:
 
-- **General:** €14 (plus a €0.77 online booking fee).
-- **Reduced:** €7, for ages 5 to 16, over-65s and students up to 25 with a student card.
-- **Free:** children under 5, large families, people with a disability of 33% or more (and their companion), unemployed people, teachers and official guides. These free tickets are only issued at the ticket office.
-- **Official guided visit:** €22 (€15 reduced), about 2 hours. In Spanish, Tuesday to Sunday at 10:30, 11:00, 11:30, 12:00, 12:30 and 13:30. In English, Tuesday to Sunday at 10:45.
+- **General:** €14 (plus €0.77 online booking fee).
+- **Reduced:** €7, ages 5 to 16, over-65s and students up to 25 with a card.
+- **Free:** children under 5, large families, people with a disability of 33% or more (and their companion), unemployed people, teachers and official guides. Ticket office only.
+- **Official guided tour:** €22 (€15 reduced). In Spanish, Tuesday to Sunday at 10:30, 11:00, 11:30, 12:00, 12:30 and 13:30; in English, at 10:45.
 
-**Opening hours:** Tuesday to Sunday, 10:00 to 18:00 from October to March and 10:00 to 19:00 from April to September. **Closed on Mondays.** The ticket office and entrance close 1 hour 15 minutes earlier (at 16:45 in winter, at 17:45 in summer).
+**Opening hours:** Tuesday to Sunday, 10:00 to 18:00 from October to March and 10:00 to 19:00 from April to September. **Closed on Mondays.** Entry closes 1 hour 15 minutes earlier (16:45 in winter, 17:45 in summer).
 
-## 2. The ticket office and free entry
+## Free entry: Wednesday and Sunday afternoons
 
-The ticket office is in the **Visitor Reception Centre**, next to the Monastery, and sells same-day tickets.
+If you're a **citizen or resident of the EU or Ibero-America**, you get in free on Wednesdays and Sundays from 15:00 to 18:00 (October to March) and 15:00 to 19:00 (April to September). It's without a guide, only at the **Visitor Reception Centre** ticket office and with ID. As entry closes earlier, in winter you have until 16:45 to get in.
 
-If you are a **citizen or resident of the EU or Latin America**, entry is **free on Wednesday and Sunday afternoons**: 15:00 to 18:00 from October to March and 15:00 to 19:00 from April to September. It is without a guide, at the ticket office only and with ID. As entry closes 1 hour 15 minutes before closing time, in winter you only have until 16:45 to get in.
+## If your slot is sold out
 
-## 3. A day trip with entry included
-
-If you'd rather not depend on the ticket office, a day trip from Madrid includes transport, a guide and entry. The most common one combines El Escorial with the Valley of Cuelgamuros in half a day. Check the listing says **"Monastery entry included"**.
+1. **Try another time or day** on the official website: on long weekends and weekends some slots fill up, not the whole day.
+2. **Go to the ticket office**, which sells for the same day.
+3. **Book a day trip with entry included** if you don't want to rely on the ticket office. The most common one combines El Escorial with the Valley of Cuelgamuros in half a day; check it says "Monastery entry included".
 
 [actividad: escorial-valle-cuelgamuros-excursion-grupo]
 
-## 4. Going on your own from Madrid
+## Getting there from Madrid
 
-- **Cercanías C-8** commuter train from Chamartín (about 50 minutes) or Atocha (just over an hour). From the station it's about a 15-minute walk, uphill. Note: in 2026 there have been weekend closures for engineering works.
-- **Bus 661 or 664** run by Autocares Herranz from the Moncloa transport hub: 35 to 55 minutes, and it drops you near the Monastery.
+- **Bus 661 or 664** by Autocares Herranz from the Moncloa interchange: 35 to 55 minutes, dropping you near the Monastery. It's the easiest option.
+- **Cercanías C-8** from Chamartín (about 50 minutes) or Atocha (just over an hour). From the station it's about 15 minutes' walk, uphill. In 2026 there have been weekend closures for works.
 
-## 5. What you can see without a ticket
+## Tips
 
-- The **Basilica** does not require a ticket (it closes during services).
-- The Monastery's **facade and the lonja** (the stone esplanade), with the mountains behind.
-- The **gardens of the Real Sitio**, open every day.
-- The **town of San Lorenzo**, with its steep streets and café terraces.
-
-## Mistakes to avoid
-
-1. **Going on a Monday.** It's closed every Monday of the year.
-2. **Trusting old prices.** Some websites still say €12; since October 2025 it has been €14.
-3. **Buying from sites other than the official one.** Free tickets are never sold online: if a website "sells" you a free ticket, it isn't the official one.
-4. **Turning up for free entry at the last minute.** Entry closes 1 hour 15 minutes before closing time.
-
-## In one sentence
-
-If your slot is sold out, try another time or the ticket office, remember it's closed on Mondays, and if you'd rather not take the risk, book a day trip with entry included; how it fits into your trip is in [Private or group day trip from Madrid?](/en/guides/madrid/private-or-group-day-trip-from-madrid).
+- **Don't go on a Monday:** it's closed every Monday of the year.
+- **Be wary of old prices:** some websites still say €12; since October 2025 it's €14.
+- **Buy only on the official website:** free tickets are never sold online.
+- **Leave time for the town:** the square with the mountains behind, the Real Sitio gardens (open every day) and the steep streets of San Lorenzo, with their terraces.
+- If you can't decide between going on your own or with a guide, we compare them in [Private or group day trip from Madrid?](/en/guides/madrid/private-or-group-day-trip-from-madrid).

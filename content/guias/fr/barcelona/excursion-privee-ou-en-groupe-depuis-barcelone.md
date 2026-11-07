@@ -4,13 +4,13 @@ descripcion: "Montserrat en groupe à partir de 47 € ou en privé de 419 € (
 categoria: "barcelona"
 slug: "excursion-privee-ou-en-groupe-depuis-barcelone"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/girona/besalu-puente-arcos.webp"
 imagen_alt: "Le pont médiéval de Besalú avec sa tour d'entrée au-dessus du Fluvià"
-tiempo_lectura: 6
+tiempo_lectura: 5
 keywords:
   - "excursion privee depuis barcelone"
   - "visite privee depuis barcelone"
@@ -25,7 +25,8 @@ slugs:
   it: escursione-privata-o-di-gruppo-da-barcellona
   pt: excursao-privada-ou-em-grupo-desde-barcelona
 reservasArriba: false
-respuestaCorta: 'Pour **1 ou 2 personnes**, le **groupe** est bien moins cher : Montserrat à partir de **47 €** (ou **59 €** en petit groupe) contre **419 € par personne** en privé. Mais le privé à Montserrat augmente à peine avec la taille du groupe (838 € pour 2, 894 € pour 6), donc à **6 personnes** il revient à **149 € par tête**, autant que le petit groupe de 12 avec prise en charge. À **4**, le privé tourne autour de **186-219 €** par personne. Si vous êtes 5-6, faites le calcul : c''est la seule destination où le privé finit par égaler le groupe.'
+intro: 'Une **excursion privée depuis Barcelone** ou une excursion en groupe vous emmène à **Montserrat**, aux caves de cava Codorníu, à la crypte de Gaudí de la Colònia Güell ou à Gérone, Besalú et Rupit. Ce qui change, c''est le prix par personne, l''horaire et la liberté : le groupe l''emporte nettement à deux, mais le privé à Montserrat augmente à peine avec la taille du groupe et, à six, il le rattrape.'
+respuestaCorta: 'À 1 ou 2, le **groupe** coûte bien moins qu''une excursion privée depuis Barcelone : Montserrat dès **47 €** (**59 €** en petit groupe) contre **419 € par personne** en privé. Mais le privé augmente à peine : à **4**, environ **186-219 €** par personne ; à **6**, **149 €**, comme le petit groupe avec prise en charge.'
 faq:
   - pregunta: "Combien coûte une excursion privée à Montserrat depuis Barcelone ?"
     respuesta: "La visite privée avec guide et prise en charge à l'hôtel coûte 838 € pour 1 ou 2 personnes, 876 € pour 4 et 894 € pour 6, selon les paliers de la fiche : 419, 219 et 149 € par personne. Les privées qui combinent Montserrat avec les caves Codorníu ou la crypte de Gaudí reviennent à partir d'environ 317 et 286 € par personne en couple, et descendent à 206 et 186 € à 4."
@@ -56,69 +57,69 @@ opciones:
     etiqueta: "Groupe de 6 : privé à 149 € par personne"
 ---
 
-**Depuis Barcelone, une excursion en groupe à Montserrat coûte entre 47 et 149 € par personne et une excursion privée entre 149 et 419 €, selon que vous êtes 2, 4 ou 6.** Ce qui est intéressant à Barcelone, c'est que le privé à Montserrat a un prix presque fixe par groupe : passer de 2 à 6 personnes n'augmente le total que de 56 €. C'est pourquoi ici, contrairement à Madrid ou Séville, il existe bien un point où le privé rattrape le groupe.
+## Excursion privée ou en groupe : réponse rapide selon qui voyage
 
-## Réponse rapide selon qui voyage
-
-- **Couple :** groupe. Montserrat en [petit groupe sur une demi-journée](/en/cities/barcelona/activities/montserrat-half-day-small-group) à partir de 59 € ou avec [CastlExperience](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) à partir de 47 €. En privé, vous paieriez 838 €.
-- **Famille de 4 :** tout dépend de l'importance que vous accordez au fait d'être entre vous. Un privé avec guide revient à 186-219 € par personne ; le groupe, à 47-109 €.
-- **Groupe de 6 :** privé. La [visite privée avec prise en charge](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) revient à 149 € par personne, comme le petit groupe de 12.
+- **Couple :** groupe. Montserrat en petit groupe à la demi-journée dès 59 € ou avec CastlExperience dès 47 €. En privé, vous paieriez 838 €.
+- **Famille de 4 :** tout dépend de l'importance que vous accordez à être seuls. Un privé avec guide revient à **186-219 € par personne** ; le groupe, à 47-109 €.
+- **Groupe de 6 :** privé. Le tour privé avec prise en charge à l'hôtel revient à **149 € par personne**, comme le petit groupe de 12.
 - **Première fois :** demi-journée en petit groupe. Elle arrive au monastère avant les grands autocars et vous laisse l'après-midi libre à Barcelone.
-- **Petit budget :** CastlExperience (47 €) ou par vos propres moyens avec le billet Trans Montserrat (à partir de 50 €).
+- **Petit budget :** CastlExperience (47 €) ou par vos propres moyens avec le billet Trans Montserrat (dès 50 €).
 
-## Tableau des prix par personne
+## Prix des excursions depuis Barcelone, en groupe et en privé
+
+Le privé à Montserrat a un prix presque fixe par groupe : passer de 2 à 6 personnes n'augmente le total que de **56 €**. C'est pourquoi ici, contrairement à Madrid ou Séville, il existe un seuil où le privé rattrape le groupe.
 
 | Excursion depuis Barcelone | En groupe (par personne) | Privé, 2 personnes | Privé, 4 personnes | Privé, 6 personnes |
 | --- | --- | --- | --- | --- |
-| Montserrat | [47 €](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) · [59 €](/en/cities/barcelona/activities/montserrat-half-day-small-group) petit groupe · [109 €](/en/cities/barcelona/activities/montserrat-bages-farmhouse-lunch-and-wine) avec masia et déjeuner | [419 €](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) (838 € au total) | 219 € (876 €) | 149 € (894 €) |
-| Montserrat en voiture, 8 max. | [121 €](/fr/cities/barcelona/activities/montserrat-voiture-guide-prive-semi-prive-basilique) semi-privé | — | — | — |
-| Barcelone et Montserrat en une journée | [149 €](/en/cities/barcelona/activities/barcelona-and-montserrat-small-group-hotel-pickup) groupe jusqu'à 12, avec prise en charge | — | — | — |
-| Montserrat et caves Codorníu | — | [environ 317 €](/fr/cities/barcelona/activities/montserrat-caves-codorniu-excursion-privee) | environ 206 € | — |
-| Montserrat et crypte de Gaudí (Colonia Güell) | — | [environ 286 €](/fr/cities/barcelona/activities/montserrat-crypte-gaudi-colonia-guell-visite-privee) | environ 186 € | — |
-| Montserrat et Sagrada Família | — | [environ 270 €](/en/cities/barcelona/activities/montserrat-and-sagrada-familia-day-trip) | environ 196 € | — |
-| Gérone, Besalú et Rupit avec repas | — | [environ 340 €](/en/cities/barcelona/activities/girona-besalu-rupit-private-day-trip-from-barcelona) | environ 207 € | — |
-| Journée complète à Barcelone avec la Sagrada Família | [129 €](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) petit groupe | [329 €](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) (658 €) | 209 € (836 €) | 169 € (1 014 €) |
+| Montserrat | 47 € · 59 € petit groupe · 109 € avec masia et déjeuner | 419 € (838 € au total) | 219 € (876 €) | 149 € (894 €) |
+| Montserrat en voiture, 8 max. | 121 € semi-privé | — | — | — |
+| Barcelone et Montserrat en un jour | 149 € groupe de 12 max., avec prise en charge | — | — | — |
+| Montserrat et caves Codorníu | — | environ 317 € | environ 206 € | — |
+| Montserrat et crypte Gaudí (Colònia Güell) | — | environ 286 € | environ 186 € | — |
+| Montserrat et Sagrada Família | — | environ 270 € | environ 196 € | — |
+| Gérone, Besalú et Rupit avec déjeuner | — | environ 340 € | environ 207 € | — |
+| Journée complète à Barcelone avec Sagrada Família | 129 € petit groupe | 329 € (658 €) | 209 € (836 €) | 169 € (1 014 €) |
 
-Prix « à partir de » de nos fiches au 1er novembre 2026 ; le montant final dépend de la date et de l'option choisie. « — » indique que nous n'avons pas cette version ou que la fiche ne donne pas de prix pour ce groupe.
+Prix « à partir de » de nos fiches au 1er novembre 2026 ; le montant final dépend de la date et de l'option choisie. « — » signifie que nous n'avons pas cette version ou que la fiche ne donne pas de prix pour ce groupe.
 
-[actividad: montserrat-tour-privado-recogida-hotel]
+## Montserrat en groupe ou en privé : à partir de combien le privé coûte-t-il autant ?
 
-## À partir de combien de personnes le privé revient-il au même prix ?
-
-**Pour Montserrat, à 6 personnes.** Le privé avec guide et prise en charge (149 € par personne) égale le petit groupe Barcelone et Montserrat (149 €) et se situe à 40 € de la masia avec déjeuner (109 €). Face à l'option la moins chère (47 €), il coûte encore 102 € de plus par personne.
+**À 6 personnes.** Le privé avec guide et prise en charge (149 € par personne) égale le petit groupe Barcelone et Montserrat (149 €) et ne dépasse que de 40 € la masia avec déjeuner (109 €). Face à l'option la moins chère (47 €), il coûte encore 102 € de plus par personne.
 
 | Montserrat : surcoût du privé | 2 personnes | 4 personnes | 6 personnes |
 | --- | --- | --- | --- |
-| Par rapport au petit groupe d'une demi-journée (59 €) | +360 € | +160 € | +90 € |
-| Par rapport à la masia avec déjeuner (109 €) | +310 € | +110 € | +40 € |
-| Par rapport au groupe de 12 avec prise en charge (149 €) | +270 € | +70 € | 0 € |
+| Face au petit groupe demi-journée (59 €) | +360 € | +160 € | +90 € |
+| Face à la masia avec déjeuner (109 €) | +310 € | +110 € | +40 € |
+| Face au groupe de 12 avec prise en charge (149 €) | +270 € | +70 € | 0 € |
 
-Attention à ce que vous comparez : le groupe de 12 inclut en plus un tour de Barcelone (Sagrada Família de l'extérieur, Montjuïc, le Born), et la masia, un repas avec accord mets-vins. Le privé, ce sont 5 heures avec guide, véhicule et entrée au monastère.
+Attention à ce que vous comparez : le groupe de 12 inclut aussi un tour de Barcelone (Sagrada Família de l'extérieur, Montjuïc, le Born), et la masia un déjeuner avec accord mets-vins. Le privé, ce sont **5 heures avec guide, véhicule et entrée au monastère**.
 
-## Avantages et inconvénients
+[actividad: montserrat-tour-privado-recogida-hotel]
 
-### En groupe
+## Avantages, inconvénients et pour qui
 
-- **Pour :** le prix et le volume d'avis (la demi-journée en petit groupe en totalise plus de 6 000). Certaines incluent la crémaillère, une cave ou un déjeuner.
-- **Contre :** départ fixe tôt le matin (8 h 30 pour la demi-journée), groupes de 20-22 personnes par guide dans les formules les moins chères et temps libre minuté au monastère.
+**En groupe**
 
-### En privé
+- **Pour :** le prix et le volume d'avis (la demi-journée en petit groupe en compte plus de 6 000). Certaines incluent la crémaillère, une cave ou un déjeuner.
+- **Contre :** départ fixe tôt le matin (8 h 30 pour la demi-journée), groupes de 20-22 personnes par guide dans les formules les moins chères et temps libre imposé au monastère.
+- **Pour qui :** couples, voyageurs seuls et première visite avec peu de temps.
 
-- **Pour :** prise en charge à l'hôtel, horaires à votre convenance, guide rien que pour vous et des combinaisons qui n'existent pas en groupe : caves Codorníu, crypte de Gaudí, Gérone avec Besalú et Rupit.
-- **Contre :** cher à deux. Et elles n'incluent pas toutes la crémaillère : le privé monte jusqu'au monastère avec son propre véhicule.
+**Semi-privé ou groupe de 12**
 
-## Pour qui est chaque formule
+- Le semi-privé à Montserrat est un groupe de **8 personnes maximum** qui part de la plaça d'Espanya, en voiture avec guide et entrées à la basilique et à la Moreneta, dès 121 € environ. Pour qui veut un petit groupe sans payer un privé.
 
-- **Groupe :** couples, voyageurs seuls, première visite avec peu de temps.
-- **Semi-privé ou groupe de 12 :** ceux qui veulent un petit groupe sans payer un privé.
-- **Privé :** familles de 4 ou plus, groupes d'amis de 5-6, personnes âgées, et ceux qui veulent combiner Montserrat avec le vin ou avec Gaudí dans la même journée.
+**En privé**
+
+- **Pour :** prise en charge à l'hôtel, horaire libre, guide rien que pour vous et des combinaisons qui n'existent pas en groupe : caves Codorníu, crypte de Gaudí, **Gérone avec Besalú et Rupit** (groupes jusqu'à 8).
+- **Contre :** cher à deux. Et tous n'incluent pas la crémaillère : le privé monte au monastère avec son propre véhicule.
+- **Pour qui :** familles de 4 ou plus, groupes d'amis de 5-6, personnes âgées et ceux qui veulent combiner Montserrat avec le vin ou Gaudí le même jour.
 
 ## Erreurs fréquentes
 
-1. **Ne regarder que le « à partir de » du privé.** 838 € paraît prohibitif ; à 6, cela fait 149 € chacun.
-2. **Supposer que le privé monte en crémaillère.** Il se fait en voiture ou en minibus ; si la crémaillère vous fait rêver, choisissez une visite qui l'inclut.
-3. **Aller à Montserrat un jour de brouillard sans plan B.** Il fait plusieurs degrés de moins en montagne qu'à Barcelone.
+1. **Ne regarder que le prix « à partir de » du privé.** 838 € paraît prohibitif ; à 6, cela fait 149 € chacun.
+2. **Croire que le privé monte en crémaillère.** Il monte en voiture ou en minibus ; si la crémaillère vous tente, choisissez un tour qui l'inclut.
+3. **Aller à Montserrat un jour de brouillard sans plan B.** Il fait plusieurs degrés de moins sur la montagne qu'à Barcelone.
 4. **Réserver le groupe de 12 en pensant entrer dans la Sagrada Família.** On la voit de l'extérieur ; l'entrée se demande à part à l'opérateur.
-5. **Oublier le siège enfant.** Dans les privés et semi-privés en voiture, il faut le demander à la réservation (supplément de 8 €).
+5. **Oublier le siège enfant.** Pour les privés et semi-privés en voiture, il faut le demander à la réservation (supplément de 8 €).
 
 Pour comparer toutes les excursions à Montserrat entre elles, lisez [Montserrat : quelle excursion choisir](/fr/guides/barcelona/montserrat-quelle-excursion-choisir). Toutes les privées, dans [excursions privées depuis Barcelone](/fr/cities/barcelona/private-tours).

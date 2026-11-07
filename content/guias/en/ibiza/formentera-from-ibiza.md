@@ -4,11 +4,11 @@ descripcion: "How to visit Formentera from Ibiza: ferries and schedules, how to 
 categoria: "ibiza"
 slug: "formentera-from-ibiza"
 fecha: "2026-04-24"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "formentera from ibiza"
   - "how to get to formentera"
@@ -22,91 +22,83 @@ slugs:
   fr: formentera-depuis-ibiza
   it: formentera-da-ibiza
   pt: formentera-desde-ibiza
-respuestaCorta: 'To visit Formentera from Ibiza, take a **fast ferry from Ibiza port to La Savina** (about 30 minutes; return tickets **from €55** with an open return), then rent a scooter or bike. Give it a **full day**: Ses Illetes in the morning, lunch in Es Pujols or Migjorn and sunset at a lighthouse before the last ferry.'
+intro: 'Visiting **Formentera from Ibiza** is the island''s essential day trip: half an hour away by ferry, the smallest of the Pityusic Islands has some of the clearest water in the Mediterranean, at beaches like **Ses Illetes**, and a laid-back feel with no clubs or big hotels. It''s about 19 km long, easy to tour by scooter or bike, and its lighthouses at **La Mola** and **Cap de Barbaria** round off a perfect day.'
+respuestaCorta: 'To get to Formentera from Ibiza, take a **fast ferry from Eivissa port to La Savina** (about 30 minutes; €30-55 return) and rent a scooter or bike there. Give it a **full day**: Ses Illetes in the morning, lunch in Es Pujols or Migjorn and **sunset at Cap de Barbaria** before the ferry back.'
 reservasArriba: true
 actividades:
   - ferry-ida-vuelta-ibiza-formentera
 imagen_portada: "/images/guias/formentera-desde-ibiza.jpg"
 imagen_alt: "Turquoise water on a Formentera beach"
+faq:
+- pregunta: How much is the ferry from Ibiza to Formentera?
+  respuesta: Between €30 and €55 return, depending on the company (Baleària, Trasmapi, Aquabus) and speed. Fast ferries take about 30 minutes; slow ones take 1 hour and cost less.
+- pregunta: What time is the last ferry from Formentera to Ibiza?
+  respuesta: 'There''s no single time: it changes with the date and the company. In summer departures are very frequent; in winter there are fewer boats and the last return is earlier. Check it before renting anything.'
+- pregunta: Do you have to pay to enter Ses Illetes?
+  respuesta: 'Only by car or scooter, from mid-May to 30 September: in recent seasons, from €4 per car and €2 per scooter (€6 and €4 from mid-July to August). On foot, by bike or in an electric vehicle it''s free.'
+- pregunta: How do you get around Formentera?
+  respuesta: 'Rent in La Savina: bike €10-15 a day; e-bike €25-30; scooter €35-50; car €50-80. Public transport is limited and in summer it''s best to book your vehicle ahead.'
+- pregunta: Is half a day in Formentera worth it?
+  respuesta: 'No, especially in August: between the ferry and getting around, it''s too short. Give it a full day to see Ses Illetes, have an unhurried lunch and catch the sunset at Cap de Barbaria.'
 ---
 
-**Formentera is the essential excursion from Ibiza.** Half an hour by ferry, the neighbouring island has some of the most crystal-clear beaches in the Mediterranean —genuinely Caribbean— and a calm atmosphere, with no clubs or big hotels. This guide explains how to get there, how to get around and what not to miss to make the most of the day.
+## Formentera ferry: how to get there from Ibiza
 
-## How to get to Formentera
+Ferries leave from **Eivissa port** and arrive at **La Savina**, Formentera's port. In season there are also departures from **Playa d'en Bossa**, handy if you're staying in the south.
 
-| Activity | Rating | From |
-| --- | --- | --- |
-| [Return ferry ticket to Formentera](/en/cities/ibiza/activities/ibiza-formentera-return-ferry-ticket) | 4.7★ (322) | €55 |
+- **Price:** **€30-55 return**, depending on the company (Baleària, Trasmapi, Aquabus) and speed.
+- **Journey time:** about **30 minutes** on fast ferries and 1 hour on slow ones, which are cheaper.
+- **Frequency:** in summer departures are very frequent (Baleària alone runs almost 30 a day from each port); in winter there are fewer boats and the last return is earlier.
+- **Last ferry:** there's no single time; it changes with date and company, so check it before renting anything.
+- **Sea conditions:** in rough seas, ferries are delayed or cancelled.
 
-The key: give it a **full day**, not half. And book the ferry (and the vehicle) ahead in summer: it sells out.
+In summer, book the ferry (and your vehicle) ahead, as they sell out and prices soar. A return ticket from Eivissa is the simplest way to sort it:
 
 [actividad: ferry-ida-vuelta-ibiza-formentera]
 
-## Getting there
-
-| Departure | Duration | Notes |
-| --- | --- | --- |
-| From Eivissa port | ~30 min (fast) | Baleària, Trasmapi and Formentera Lines; departures roughly every 45 minutes in summer |
-| From Playa d'en Bossa / Figueretes | ~45–60 min | Seasonal, slower boats (Aquabus) |
-| From Sant Antoni | ~1 h 45 – 2 h | Limited day-trip services |
-
-You arrive at **La Savina** port. Always check the sea: with swell, ferries are delayed or cancelled.
-
-## Ferry tickets and timetables
-
-- **Price:** advance one-way fares start at around €30; Baleària quotes an average of about €35 return for a foot passenger, more in peak season and at the last minute. Our ticket is a Trasmapi fast-ferry return **from €55**, with hourly departures from 8:30 to 21:00 and a return valid for 6 months.
-- **Frequency:** in summer Baleària alone runs almost 30 departures a day from each port. In winter there are fewer boats, the first leaves later and the last return is earlier.
-- **The last ferry:** there is no single last-ferry time; it changes by date and operator. Check it before renting anything. Miss it and your options are a night on Formentera or an expensive private boat.
-
-## Getting around
-
-Formentera is about 19 km long and public transport is limited, so it's best to **rent a scooter, bike or car** at La Savina (book ahead in summer). The scooter is the most practical; the bike, ideal for the flat tracks near the port.
-
-- **Rental prices (as of 2026):** bike €10–15 a day; e-bike €25–30; scooter €35–50; car €50–80.
-- **Bringing a car from Ibiza:** Formentera caps the number of vehicles entering in summer, and a visitor's car needs prior authorisation (see formentera.eco). Renting on arrival is simpler.
-
-## The best beaches
-
-- **Ses Illetes.** The jewel: white sand and turquoise water inside the Ses Salines natural park. From mid-May to 30 September, cars and motorbikes pay to enter the park (in recent seasons from €4 per car and €2 per motorbike, rising to €6 and €4 from mid-July to August). On foot, by bike or in an electric vehicle it's free; the ride from La Savina takes 30–40 minutes by bike.
-- **Platja de Migjorn.** Long and open, with legendary beach bars for the sunset.
-- **Cala Saona.** Smaller and sheltered, with reddish cliffs.
-- **Llevant and Es Pujols.** For a swim and for the liveliest town.
-
-## Beyond the beach
-
-- **Far de la Mola.** The lighthouse at the eastern tip, which inspired Jules Verne, with spectacular cliffs.
-- **Far de Cap de Barbaria.** The southern lighthouse, at the end of a lonely road; one of the best sunsets in the Pityusic Islands. From mid-May to mid-October a barrier closes the last stretch to motor vehicles: park before it (about 60 car spaces) and walk or cycle the rest, so allow extra time.
-- **Sant Francesc.** The small capital, with its fortress-church and markets.
-
-## Eating, cash and water
-
-- **Beach bars:** the famous ones at Ses Illetes and Migjorn (Juan y Andrea, Beso Beach, Es Molí de Sal) cost €60–100 per person with wine. For an ordinary set menu, eat in Sant Francesc or Es Pujols.
-- **Cash and water:** there are few cash machines outside La Savina and Sant Francesc, and no drinking water on the natural-park beaches. Bring 2 litres per person.
-- **Sun and wind:** Formentera is flat and shadeless. With a northerly wind Migjorn is calm; with a southerly, choose Illetes and Llevant.
-
-## A one-day plan
+## A day plan for Formentera
 
 | Time | Plan |
 | --- | --- |
-| 9:30 | Ferry from Eivissa and rental at La Savina |
-| 10:30 | Ses Illetes: swim and snorkel |
+| 9:30 | Ferry from Eivissa and rental pick-up in La Savina |
+| 10:30 | Ses Illetes: swimming and snorkelling |
 | 14:00 | Lunch in Es Pujols or Migjorn |
 | 16:30 | Cala Saona or Migjorn |
-| 19:00 | Sunset at Cap de Barbaria (with the walk from the barrier) and ferry back |
+| 19:00 | Sunset at Cap de Barbaria (last stretch on foot from the barrier) and ferry back |
 
-## What we don't recommend
+Give it a **full day**, not half: between the ferry and getting around, half a day falls short.
 
-1. **Going for half a day in August.** Between ferry and travel, it falls short; give it the day.
-2. **Not booking the ferry or vehicle in summer.** They sell out and prices soar.
-3. **Stepping on the posidonia or leaving litter.** The crystal-clear water depends on the protected meadows.
-4. **Forgetting cash and shade.** The wild beaches don't have everything.
+## What to see in Formentera: Ses Illetes, beaches and lighthouses
 
-## Common mistakes
+- **Ses Illetes.** The jewel: white sand and turquoise water inside the Ses Salines natural park. Arrive early, as the car park fills by mid-morning.
+- **Platja de Migjorn.** Long and open, with legendary beach bars for sunset.
+- **Cala Saona.** Smaller and sheltered, with reddish cliffs.
+- **Llevant and Es Pujols.** For swimming and for the liveliest village.
+- **Far de la Mola.** The lighthouse at the eastern tip, which inspired Jules Verne, above spectacular cliffs.
+- **Far de Cap de Barbaria.** The southern lighthouse, at the end of a lonely road; one of the best sunsets in the Pityusic Islands.
+- **Sant Francesc.** The little capital, with its fortress church and markets.
 
-1. **Not checking the sea.** With swell the ferry runs late.
-2. **Arriving late at Ses Illetes.** It fills up and parking is limited (with a fee in summer).
-3. **Driving to Cap de Barbaria at sunset without allowing for the walk.** The road is barred to cars for the last stretch in season.
+## Getting around the island
 
-## In one sentence
+Formentera is about **19 km** long and public transport is limited, so it's best to **rent in La Savina** (book ahead in summer). A scooter is the most practical; a bike is ideal for the flat lanes near the port.
 
-Formentera from Ibiza is Caribbean water at Ses Illetes, calm without clubs and lighthouse sunsets: the excursion you can't miss, ideally a full day. It's an essential part of [what to see in Ibiza](/en/guides/ibiza/what-to-see-in-ibiza).
+| Vehicle | Price per day |
+| --- | --- |
+| Bike | €10-15 |
+| E-bike | €25-30 |
+| Scooter | €35-50 |
+| Car | €50-80 |
+
+- **Your own car:** in July and August the island limits the number of vehicles coming in; if you bring yours from Ibiza, you need prior authorisation.
+- **Ses Illetes in season:** from mid-May to 30 September, cars and scooters pay to enter the natural park (in recent seasons, from €4 per car and €2 per scooter, and €6 and €4 from mid-July to August). On foot, by bike or in an electric vehicle it's free; from La Savina it's 30-40 minutes by bike.
+- **Cap de Barbaria:** from mid-May to mid-October, a barrier closes the last stretch to motor vehicles. Park before it (about 60 spaces) and continue on foot or by bike: allow extra time for sunset.
+
+## Tips and common mistakes
+
+- **Eating:** the beach bars at Ses Illetes and Migjorn (Juan y Andrea, Beso Beach, Es Molí de Sal) are legendary and pricey, €60-100 per person with wine. For a normal set menu, try Sant Francesc or Es Pujols.
+- **Cash and water:** there are few cash machines outside La Savina and Sant Francesc, and no drinking water on the natural park beaches. Bring 2 litres per person.
+- **Sun and wind:** the island is flat and shadeless. With a north wind, Migjorn is calm; with a south wind, choose Illetes and Llevant.
+- **Posidonia:** don't step on it or leave rubbish; the crystal-clear water depends on these protected seagrass meadows.
+- **Don't just stick to the beaches:** the lighthouses and the interior are worth it too.
+
+Formentera is an essential part of [what to see in Ibiza](/en/guides/ibiza/what-to-see-in-ibiza).

@@ -4,13 +4,13 @@ descripcion: "Navidad en Madrid 2026: cuándo se encienden las luces, mercadillo
 categoria: "madrid"
 slug: "navidad-madrid"
 fecha: "2026-10-23"
-fecha_actualizacion: "2026-11-04"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/navidad-madrid.jpg"
 imagen_alt: "Mercadillo navideño de la Plaza Mayor de Madrid iluminado de noche, con el árbol de Navidad"
-tiempo_lectura: 3
+tiempo_lectura: 5
 keywords:
   - "navidad en madrid"
   - "navidad madrid 2026"
@@ -27,7 +27,8 @@ slugs:
   it: natale-a-madrid
   pt: natal-em-madrid
 reservasArriba: true
-respuestaCorta: 'Las luces se encienden el **sábado 21 de noviembre** en Cibeles y siguen hasta el 6 de enero, en más de 250 puntos de la ciudad. Lo imprescindible: el **mercadillo de la Plaza Mayor**, **Cortylandia** en Preciados, ver las luces en **Naviluz** o en tuk-tuk y la **Cabalgata de Reyes** del 5 de enero. Ve entre semana: los sábados de diciembre el centro se colapsa.'
+intro: 'La **Navidad en Madrid** llena el centro de luces durante seis semanas: más de 250 puntos iluminados, el mercadillo de la Plaza Mayor, el belén de la Puerta del Sol, Cortylandia y la pista de hielo de Plaza de España. Y tiene tradiciones propias que no se viven en otra ciudad, del sorteo de la Lotería en el Teatro Real a las campanadas en Sol y la Cabalgata de Reyes.'
+respuestaCorta: 'En la **Navidad en Madrid** las luces se encienden el **sábado 21 de noviembre** en Cibeles y siguen hasta el 6 de enero. Lo imprescindible: el **mercadillo de la Plaza Mayor**, **Cortylandia** en Preciados, las luces en **Naviluz** o en tuk-tuk y la **Cabalgata de Reyes** del 5 de enero. Ve entre semana: los sábados el centro se colapsa.'
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour
@@ -36,8 +37,20 @@ actividades:
   - madrid-tour-nocturno-inquisicion-leyendas
   - palacio-real-visita-guiada-golden-tour
   - excursion-toledo-segovia-alcazar
+faq:
+- pregunta: ¿Cuándo se encienden las luces de Navidad en Madrid en 2026?
+  respuesta: El sábado 21 de noviembre, con un acto en la plaza de Cibeles, y el alumbrado dura hasta el 6 de enero de 2027. La hora del encendido está pendiente de confirmar por el Ayuntamiento.
+- pregunta: ¿Cuándo abre el mercadillo de Navidad de la Plaza Mayor?
+  respuesta: Desde finales de noviembre hasta el 31 de diciembre, con entrada libre. Lo mejor es ir hacia las 17:30, con la última luz del día y antes de que se llene.
+- pregunta: ¿Cuánto cuesta Naviluz y cómo funciona?
+  respuesta: Es un autobús descapotable de unos 50 minutos que sale de la calle Felipe IV, junto al Prado, cada hora de 18:00 a 22:00. Cuesta unos 12 € (6 € niños de 7 a 11 años; los menores de 7 no pagan, pero necesitan billete) y es más barato desde las 21:00. Se compra en naviluz.es, no se puede cambiar ni cancelar y no funciona el 24 y 31 de diciembre ni el 5 de enero.
+- pregunta: ¿Cómo es la Nochevieja en la Puerta del Sol?
+  respuesta: 'Las campanadas son gratis, pero el acceso se cierra cuando se llena la plaza: llega antes de las 21:00 y lleva las uvas peladas. Si prefieres menos gente, el 30 de diciembre se celebran las preúvas, el ensayo general, con aforo de unas 15.000 personas.'
+- pregunta: ¿Por dónde pasa la Cabalgata de Reyes de Madrid?
+  respuesta: Sale el 5 de enero a las 18:00 de la plaza de San Juan de la Cruz, baja por la Castellana y Recoletos y termina en Cibeles hacia las 21:00. Para ver algo, coge sitio en la Castellana.
 ---
-## El calendario de un vistazo
+
+## Navidad en Madrid 2026: el calendario
 
 | Qué | Dónde | Cuándo | Precio |
 | --- | --- | --- | --- |
@@ -53,9 +66,9 @@ actividades:
 | Campanadas | Puerta del Sol | 31 de diciembre | Gratis, con aforo |
 | Cabalgata de Reyes | Castellana – Cibeles | 5 de enero, desde las 18:00 | Gratis |
 
-**Confirmado (4 de noviembre de 2026):** el Ayuntamiento enciende las luces el sábado 21 de noviembre con un acto en la plaza de Cibeles, y el alumbrado dura hasta el 6 de enero de 2027. La hora del encendido está pendiente de confirmar por el Ayuntamiento. El resto de fechas son las de la última edición hasta que salga el programa de 2026.
+**Confirmado (4 de noviembre de 2026):** el Ayuntamiento enciende las luces el sábado 21 de noviembre con un acto en la plaza de Cibeles, y el alumbrado dura hasta el 6 de enero de 2027. La hora del encendido está pendiente de confirmar. El resto de fechas son las de la última edición hasta que salga el programa de 2026.
 
-## Ver las luces
+## Luces de Navidad en Madrid: cómo verlas
 
 Este año hay más de **250 puntos iluminados** y 14 millones de ledes, con dibujos de alumbrado hechos por escolares madrileños.
 
@@ -65,7 +78,7 @@ Este año hay más de **250 puntos iluminados** y 14 millones de ledes, con dibu
 
 [actividad: tuk-tuk-luces-navidad-madrid]
 
-## Una tarde de diciembre bien aprovechada
+## Una tarde de diciembre: mercadillo de la Plaza Mayor, Sol y Cortylandia
 
 1. **17:30, Plaza Mayor:** el mercadillo con la última luz del día, antes de que se llene.
 2. **18:15, Puerta del Sol:** el belén de la Real Casa de Correos (hay cola, pero avanza) y el árbol.
@@ -73,35 +86,26 @@ Este año hay más de **250 puntos iluminados** y 14 millones de ledes, con dibu
 4. **20:00, chocolate con churros en San Ginés**, en el pasadizo de San Ginés, junto a Sol. Abre desde 1894 y funciona 24 horas de jueves a domingo y las vísperas de festivo.
 5. **21:00, cena:** de tapas por el centro o con un espectáculo de flamenco.
 
-Si no quieres andar tanto con frío, el **bus nocturno panorámico** hace el recorrido por ti, con guía.
+## Tradiciones, Nochevieja y Reyes
 
-[actividad: ruta-tapas-nocturna-madrid]
+- **El sorteo de la Lotería (22 de diciembre):** en el Teatro Real, con entrada gratuita numerada que se recoge en taquilla enseñando el DNI o el pasaporte. Hay quien hace cola desde la noche anterior: en las últimas ediciones, llegar después de las 4 de la madrugada era quedarse fuera.
+- **La cola de Doña Manolita:** la administración de lotería más famosa de Madrid, con colas de horas en diciembre. Para la foto, ve a primera hora de un día laborable.
+- **Las preúvas (30 de diciembre):** el ensayo general de las campanadas, con las mismas uvas y mucha menos gente. Gratis, con aforo de unas 15.000 personas; en la última edición la plaza se cerró a las 21:00 y volvió a abrir a las 22:00.
+- **Campanadas en Sol (31 de diciembre):** el acceso se cierra cuando se llena la plaza. Llega antes de las 21:00 y lleva las uvas peladas.
+- **Cabalgata de Reyes (5 de enero):** sale a las 18:00 de la plaza de San Juan de la Cruz, baja por la Castellana y Recoletos y termina en Cibeles hacia las 21:00. Coge sitio en la Castellana: en Cibeles la multitud no deja ver nada.
 
-## Tres tradiciones que no salen en las postales
+## Qué hacer en Madrid en Navidad con niños y en festivos
 
-- **El sorteo de la Lotería (22 de diciembre):** se celebra en el Teatro Real y el público entra gratis, con entrada numerada que se recoge en taquilla enseñando el DNI o el pasaporte. Hay gente que hace cola desde la noche anterior: en las últimas ediciones, llegar después de las 4 de la madrugada era quedarse fuera.
-- **Las preúvas (30 de diciembre):** el ensayo general de las campanadas, con las mismas uvas y mucha menos gente que el 31. Es gratis, con aforo de unas 15.000 personas; en la última edición la plaza se cerró a las 21:00 y volvió a abrir a las 22:00.
-- **La cola de Doña Manolita:** la administración de lotería más famosa de Madrid, con colas de horas en diciembre. Si solo quieres la foto, ve a primera hora de un día laborable.
-
-## Con niños
+**Con niños:**
 
 - **Cortylandia** es el plan número uno: gratis y al lado de Sol. Ve entre semana por la tarde.
 - **Naviluz** cuesta la mitad para niños de 7 a 11 años, y los menores de 7 no pagan, aunque necesitan billete.
 - La **pista de hielo** de Plaza de España funciona por turnos: compra la entrada antes en su web.
 
-## Museos y monumentos en festivos
-
-El **Prado** cierra el 25 de diciembre y el 1 de enero, y el 24 y el 31 de diciembre y el 6 de enero abre solo de 10:00 a 14:00. Las dos últimas horas de cada día la colección es gratis, con aforo. Diciembre es buen mes para el **Palacio Real** y los museos, con menos colas que en primavera.
-
-Si tienes un día libre, la excursión a **Toledo y Segovia** con el Alcázar es la escapada clásica, y en invierno se hace sin calor.
-
-## Nochevieja y Reyes
-
-- **Campanadas en Sol:** el acceso se cierra cuando se llena la plaza. Llega antes de las 21:00 y lleva las uvas peladas.
-- **Cabalgata de Reyes:** sale a las 18:00 de la plaza de San Juan de la Cruz, baja por la Castellana y Recoletos y termina en Cibeles hacia las 21:00. Coge sitio en la Castellana: en Cibeles la multitud no deja ver nada.
+**Museos en festivos:** el **Prado** cierra el 25 de diciembre y el 1 de enero, y el 24 y el 31 de diciembre y el 6 de enero abre solo de 10:00 a 14:00. Las dos últimas horas de cada día la colección es gratis, con aforo. Diciembre es buen mes para el **Palacio Real** y los museos, con menos colas que en primavera. Si tienes un día libre, **Toledo y Segovia** son la escapada clásica, y en invierno se hacen sin calor.
 
 ## Errores típicos
 
 - **Ir un sábado de diciembre por la tarde:** Sol y Preciados son un tapón. Mejor un martes o un miércoles.
 - **Dejar para el final la cena del 24 o del 31:** muchos restaurantes cierran o solo dan menú cerrado. Reserva en noviembre.
-- **Reservar Naviluz para el día que llueva:** no se devuelve. Si el tiempo está dudoso, mejor un plan que se pueda cancelar.
+- **Reservar Naviluz para un día dudoso:** no se devuelve si llueve. Mejor un plan que se pueda cancelar.

@@ -1,15 +1,16 @@
 ---
 titulo: "What to see in Ibiza beyond the party: Dalt Vila, coves and Formentera"
 descripcion: "Ibiza guide: Dalt Vila, Es Vedrà, the best coves, Formentera and the sunsets. What to see by area, how many days, how to get around and the island's other side."
-respuestaCorta: 'Beyond the party, Ibiza''s essentials fit into two or three days: a morning in **Dalt Vila**, the World Heritage walled town, an afternoon of south-west coves with **sunset facing Es Vedrà**, and a full day on **Formentera**, half an hour away by ferry (return tickets from €55). **Rent a car or scooter**: the best coves are poorly served by buses.'
+intro: '**What to see in Ibiza** goes far beyond partying: the island has a UNESCO World Heritage old town, **Dalt Vila**, turquoise coves, legendary sunsets facing the islet of **Es Vedrà**, rural villages with markets in the north and east, and **Formentera** half an hour away by boat. It''s small and quick to get around, so two or three days are enough to see both sides of it.'
+respuestaCorta: 'What to see in Ibiza beyond the parties: **Dalt Vila** (the walled upper town, UNESCO World Heritage and free), southwest coves such as Cala Comte and Cala d''Hort, **sunset facing Es Vedrà** and **Formentera**, half an hour away by ferry. Two days cover the essentials and **three is the sweet spot**.'
 categoria: "ibiza"
 slug: "what-to-see-in-ibiza"
 fecha: "2026-04-03"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 12
+tiempo_lectura: 4
 keywords:
   - "what to see in ibiza"
   - "ibiza in two days"
@@ -33,92 +34,65 @@ actividades:
   - barco-atardecer-ibiza-bebidas-bano
 imagen_portada: "/images/guias/que-ver-en-ibiza.jpg"
 imagen_alt: "Dalt Vila, Ibiza's old upper town"
+faq:
+- pregunta: How many days do you need to see Ibiza?
+  respuesta: 'Two days cover Dalt Vila one morning, coves and Es Vedrà one afternoon and Formentera a full day. Three is the sweet spot: more coves, the north and, if you like, a night out.'
+- pregunta: Can you visit Dalt Vila for free?
+  respuesta: Yes. Dalt Vila and its walls are free, the cathedral has no admission outside services, and the MACE at the Portal de ses Taules is free too. The Archaeological Museum and Puig des Molins cost €2.40 each and close on Mondays.
+- pregunta: Do you need a car in Ibiza?
+  respuesta: 'For the northern coves and Es Vedrà, yes: rent a car or scooter (€40-60 a day in season, booked weeks ahead). Without one you can do the capital, Sant Antoni and Formentera; bus line 3 links Eivissa and Sant Antoni for €2.50.'
+- pregunta: When is the best time to visit Ibiza?
+  respuesta: 'May-June and September: warm sea, quiet coves and lower prices. July and August have everything open but are packed and very expensive; October brings the closing parties and good weather.'
+- pregunta: Where should I stay in Ibiza?
+  respuesta: Eivissa town is the most versatile base; Santa Eulària and the north (Sant Joan) for peace and coves; Sant Antoni and Playa d'en Bossa only if you're coming to party.
 ---
 
-**Ibiza is famous for the party, but it's much more.** Behind the clubs lies a UNESCO World Heritage old town, turquoise coves, legendary sunsets and neighbouring Formentera half an hour away by boat. The average visitor's mistake is never leaving Playa d'en Bossa or San Antonio and reducing the island to a dance floor. This guide covers the other side —which is most of it— without giving up the night if that's why you've come.
+## What to see in Ibiza: Dalt Vila, coves, Es Vedrà and Formentera
 
-## Book the essentials
+- **Dalt Vila.** The walled upper town, a UNESCO World Heritage Site: enter through the Portal de ses Taules and climb between Renaissance walls and white lanes to the **cathedral** and the castle, with views over the port. Below, **La Marina** and **Sa Penya**: atmosphere, Adlib fashion and restaurants.
+- **Southwest coves.** **Cala Comte** (one of the best sunsets), **Salada** and **Saladeta**, **Cala Bassa** and **Cala d'Hort**, facing **Es Vedrà**, the rock of legends. In the north, **Benirràs** and its Sunday sunset drums.
+- **Sunset facing Es Vedrà.** Seen from Cala d'Hort or the **Mirador des Savinar**, it's Ibiza's postcard; in summer, arrive an hour early.
+- **Formentera.** Half an hour by ferry (€30-55 return), with Caribbean-style beaches such as **Ses Illetes**, **Migjorn** or **Cala Saona**; rent a scooter or bike out to **La Mola** lighthouse. Give it a full day and, in August, leave first thing.
+- **Markets:** Las Dalias (Sant Carles), Saturdays 10:00-20:00 and summer evenings, and Punta Arabí (Es Canar), Wednesdays from April to October.
+- **The parties**, if that's why you're here: Pacha, Amnesia, Ushuaïa, Hï, DC10 and boat parties, from June to September. Buy tickets online and in advance; the opening (May-June) and closing parties (October) have the best line-ups.
 
-| Activity | Rating | From |
+## Ibiza in two days (or three)
+
+The island is small: the **east and north** are rural and quiet; the **southwest** has the prettiest coves and the sunsets; **Eivissa** has Dalt Vila and the port; **Sant Antoni** is for nightlife.
+
+- **Two days:** Dalt Vila one morning, coves and sunset at Es Vedrà that afternoon, and Formentera all of day two.
+- **Three days:** the sweet spot. Add more coves, the north (Benirràs, the markets) and, if you like, a night out.
+
+## Prices and opening hours
+
+| What | Price | Notes |
 | --- | --- | --- |
-| [All-inclusive beach hopping with lunch, paddleboarding and snorkelling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4.9★ (1,410) | €60 |
-| [Beach-hopping cruise with paddleboarding, lunch and drinks](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4.6★ (3,570) | €69 |
-| [Boat to Es Vedrà, Espalmador and Formentera with meals](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4.1★ (1,335) | €155 |
-| [Sunset boat trip with drinks and swim stop](/en/cities/ibiza/activities/ibiza-sunset-boat-trip-drinks-swim) | 4.8★ (110) | €70 |
-| [Return ferry ticket to Formentera](/en/cities/ibiza/activities/ibiza-formentera-return-ferry-ticket) | 4.7★ (322) | €55 |
+| Dalt Vila and walls | Free | Cathedral free outside services; MACE (Portal de ses Taules) free, with Phoenician remains under glass |
+| Archaeological Museum and Puig des Molins | €2.40 each | The largest Phoenician-Punic necropolis in the Mediterranean, almost always empty; closed Mondays |
+| Parking in Eivissa | Blue zone €2/h; Vara de Rey and port car parks €20-25/day | In season, Es Gorg park-and-ride + bus |
+| Bus line 3 Eivissa-Sant Antoni | €2.50, every 15-30 min | Beach lines only May to October |
+| Night Discobus | €4 | June to September: capital, Bossa and Sant Antoni |
+| Markets | Free | Las Dalias, Saturdays; Punta Arabí, Wednesdays April to October |
 
-The island is small and quickly covered: the **east and north** are quieter and more rural; the **south-west** holds the prettiest coves and the sunsets; **Eivissa** (the capital) keeps Dalt Vila and the port; and **San Antonio** is the nightlife hub. With a car or scooter and a good plan you can see it all in two or three days.
+## When to go and getting around
 
-## How many days you need
+- **May-June and September** are ideal: warm sea, quiet coves and lower prices.
+- **July and August:** everything's open, but packed and very expensive.
+- **October:** closing parties and good weather. From November to April, an authentic island with much of the coast closed.
 
-Two days cover the essentials: a morning for **Dalt Vila** and the port, an afternoon of **coves and sunset** (Es Vedrà), and a full day for **Formentera**. Three days are the sweet spot: add more coves, the rural north and, if you like, a night out. With a week, you can get to know both islands at leisure.
+You arrive **by plane** (the airport is 7 km from the capital) or **by ferry** from Barcelona, Valencia or Dénia (about 2 hours on the fast one), ideal if you're bringing a car. On the island, **rent a car or scooter** (€40-60 a day in season, booked weeks ahead): without one you can do the capital, Sant Antoni and Formentera, but not the northern coves or Es Vedrà.
 
-## When to visit Ibiza
+## Where to stay and what to eat
 
-| Season | Verdict | Why |
-| --- | --- | --- |
-| May and June | Ideal | Good weather, calm coves, lower prices |
-| September | Ideal | Warm sea, fewer people, party still on |
-| July and August | Peak party | Everything open, but crowded and very expensive |
-| October | Quiet | Closing parties and good weather; some closures |
-| November to April | Very quiet | Authentic island, but much nightlife and coast closed |
+**Eivissa town** is the most versatile base; **Santa Eulària** and the **north** (Sant Joan) for peace and coves; **Sant Antoni** and **Playa d'en Bossa** only if you're coming to party.
 
-> **⭐ Tip:** the famous sunsets (Cala Comte, Benirràs, San Antonio's Sunset Strip) fill up in summer. Arrive an hour ahead to get a spot, or visit outside high season.
+The cuisine is seafaring and rural: **bullit de peix** (fish stew with rice a banda), **sofrit pagès**, **flaó** (cheese and mint tart), **greixonera** and **Ibizan herb liqueur**. Look for village restaurants and cove beach bars using local produce. Trendy beach clubs require bookings and a high minimum spend; if you just want a swim, pick a public cove and bring your own water and shade.
 
-## Getting there and getting around
+## Common mistakes
 
-**By air**, Ibiza airport is 7 km from the capital (bus or taxi). **By ferry** from Barcelona, Valencia or Dénia (the fast ferry from Dénia takes about 2h), ideal if you want to bring a car.
-
-Once on the island, **rent a car or scooter**: the coves and viewpoints are poorly served by public transport. There are buses between the bigger towns, but taxis are scarce and pricey in summer. Book the vehicle ahead: it sells out in high season.
-
-## Dalt Vila and the capital
-
-Start with **Dalt Vila**, the walled upper town, a **World Heritage Site**: enter through the **Portal de ses Taules**, climb between **Renaissance walls** and white lanes to the **cathedral** and the castle, with views over the port. Along the way, the **Archaeology Museum** and the Punic necropolis of **Puig des Molins**. Below, the seafaring quarters of **La Marina** and **Sa Penya** concentrate the atmosphere, the Adlib fashion shops and the restaurants.
-
-## Coves and Es Vedrà
-
-The **south-west** coast holds the most photogenic coves: **Cala Comte** (one of the best sunsets), **Cala Salada** and **Cala Saladeta**, **Cala Bassa** and **Cala d'Hort**, facing the islet of **Es Vedrà**, the legend-wrapped rock that presides over the sunsets. The sunset from Cala d'Hort or from the **Mirador des Savinar**, with Es Vedrà behind, is the postcard of Ibiza. In the north, **Benirràs** gathers drummers at sunset on Sundays.
-
-## Formentera
-
-Half an hour by ferry (from Ibiza port or Playa d'en Bossa), the neighbouring island has Caribbean-clear beaches like **Ses Illetes**, **Migjorn** or **Cala Saona**. Rent a scooter or bike and ride out to the **La Mola** lighthouse. It's the essential excursion: a full day enjoys it far better than half.
-
-## And the party, if that's why you're here
-
-If the night is your plan, Ibiza has the most famous clubs in the world —**Pacha, Amnesia, Ushuaïa, Hï, DC10**— and the boat parties, in full swing from June to September. Tickets vanish and prices are high: buy online and ahead.
-
-## Where to stay
-
-**Eivissa town** is the most versatile base: Dalt Vila, port and well connected. **Santa Eulària** and the **north** (San Juan) are ideal for quiet and coves. **San Antonio** and **Playa d'en Bossa** are the nightlife hub (noisy at night). **Avoid** Playa d'en Bossa if you want calm; choose it only if you've come for the party.
-
-## Eating in Ibiza
-
-Ibizan cooking is sea and country. Try the **bullit de peix** (fish stew served with arroz a banda), the **guisat de peix**, the **sofrit pagès** and, for dessert, the **flaó** (fresh-cheese and mint tart) or the **greixonera**. As a digestif, the **hierbas ibicencas** liqueur. Look for village restaurants and cove shacks with local produce, away from the promenade's international menus.
-
-> **⚠️ Warning:** many fashionable beach clubs require a booking and a high minimum spend. If you just want a swim, head for public coves (Salada, Comte) and bring water and shade: in summer there's no room.
-
-## What we don't recommend
-
-1. **Reducing Ibiza to the party.** You miss Dalt Vila, the coves and Formentera, which are the best of it.
-2. **Doing Formentera in half a day in August.** The ferry and the beaches fill up; go first thing and give it the day.
-3. **Driving at night after the party.** There are many checkpoints and accidents; use a taxi or a club bus.
-4. **Doing the island without a vehicle.** The best coves are far from the bus.
-
-## Common visitor mistakes
-
-> **⚠️ Warning:** the slip-ups we see most.
-
-1. **Not booking car, ferry or tickets in summer.** Everything sells out and prices soar.
-2. **Staying only in Playa d'en Bossa.** It's the most touristy face; the authentic island is elsewhere.
-3. **Skipping Es Vedrà at sunset.** It's the image that defines Ibiza.
-4. **Swimming carelessly over the posidonia.** The underwater meadows (a World Heritage Site) are what give the crystal-clear water; respect them.
-
-## Events to plan around
-
-- **Opening and closing parties (May-June and October).** The start and end of the big clubs' season, with the best line-ups.
-- **Hippy markets.** **Las Dalias** (Sant Carles) and **Punta Arabí** (Es Canar) keep the island's spirit alive.
-- **Festa de la Terra (August).** Eivissa's patron festival, with events around Dalt Vila.
-
-## In one sentence
-
-Ibiza is Dalt Vila, turquoise coves, Formentera and postcard sunsets; the party is only one part. In two or three days you see both faces of the island without giving up either.
+1. **Reducing Ibiza to partying** or never leaving Playa d'en Bossa or Sant Antoni.
+2. **Not booking a car, ferry or tickets in summer:** everything sells out.
+3. **Doing Formentera in half a day in August.**
+4. **Driving at night after a party:** there are checkpoints and accidents; use the Discobus or a taxi.
+5. **Skipping sunset at Es Vedrà.**
+6. **Stepping on the posidonia:** these World Heritage seagrass meadows are what keep the water crystal clear.

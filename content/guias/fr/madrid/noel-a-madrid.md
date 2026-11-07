@@ -4,13 +4,13 @@ descripcion: "Noël à Madrid 2026 : quand s'allument les illuminations, le marc
 categoria: "madrid"
 slug: "noel-a-madrid"
 fecha: "2026-10-23"
-fecha_actualizacion: "2026-11-04"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/navidad-madrid.jpg"
 imagen_alt: "Le marché de Noël de la Plaza Mayor de Madrid illuminé de nuit, avec le sapin de Noël"
-tiempo_lectura: 3
+tiempo_lectura: 5
 keywords:
   - "noel a madrid"
   - "noel madrid 2026"
@@ -27,7 +27,8 @@ slugs:
   it: natale-a-madrid
   pt: natal-em-madrid
 reservasArriba: true
-respuestaCorta: 'Les illuminations s''allument le **samedi 21 novembre** à Cibeles et restent jusqu''au 6 janvier, sur plus de 250 sites de la ville. L''incontournable : le **marché de la Plaza Mayor**, **Cortylandia** dans la rue Preciados, les illuminations à bord de **Naviluz** ou en tuk-tuk et la **Cavalcade des Rois** du 5 janvier. Allez-y en semaine : les samedis de décembre, le centre est saturé.'
+intro: '**Noël à Madrid**, c''est six semaines de centre-ville illuminé : plus de 250 lieux décorés, le marché de la Plaza Mayor, la crèche de la Puerta del Sol, Cortylandia et la patinoire de la Plaza de España. Et des traditions qu''on ne vit nulle part ailleurs, du tirage de la loterie de Noël au Teatro Real aux douze coups de minuit à Sol et à la cavalcade des Rois mages.'
+respuestaCorta: 'Pour **Noël à Madrid**, les illuminations s''allument le **samedi 21 novembre** à Cibeles jusqu''au 6 janvier. L''essentiel : le **marché de la Plaza Mayor**, **Cortylandia** calle Preciados, les illuminations en **Naviluz** ou en tuk-tuk et la **cavalcade des Rois mages** le 5 janvier. Allez-y en semaine : le samedi, le centre est saturé.'
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour
@@ -36,72 +37,75 @@ actividades:
   - madrid-tour-nocturno-inquisicion-leyendas
   - palacio-real-visita-guiada-golden-tour
   - excursion-toledo-segovia-alcazar
+faq:
+- pregunta: Quand s'allument les illuminations de Noël à Madrid en 2026 ?
+  respuesta: Le samedi 21 novembre, lors d'une cérémonie sur la plaza de Cibeles, et elles restent allumées jusqu'au 6 janvier 2027. L'heure de l'allumage n'a pas encore été confirmée par la mairie.
+- pregunta: Quand ouvre le marché de Noël de la Plaza Mayor ?
+  respuesta: De fin novembre au 31 décembre, en accès libre. Le mieux est d'y aller vers 17 h 30, avec la dernière lumière du jour et avant la foule.
+- pregunta: Combien coûte Naviluz et comment ça marche ?
+  respuesta: C'est un bus à impériale découverte d'environ 50 minutes qui part de la calle Felipe IV, près du Prado, toutes les heures de 18 h à 22 h. Il coûte environ 12 € (6 € pour les 7-11 ans ; gratuit pour les moins de 7 ans, avec billet) et est moins cher après 21 h. Billets sur naviluz.es, ni échangeables ni remboursables ; pas de service les 24 et 31 décembre ni le 5 janvier.
+- pregunta: Comment se passe la Saint-Sylvestre à la Puerta del Sol ?
+  respuesta: 'Les douze coups sont gratuits, mais l''accès ferme quand la place est pleine : arrivez avant 21 h avec vos raisins épluchés. Pour moins de monde, les « preúvas », la répétition générale, ont lieu le 30 décembre, avec environ 15 000 places.'
+- pregunta: Quel est le parcours de la cavalcade des Rois mages à Madrid ?
+  respuesta: Elle part le 5 janvier à 18 h de la plaza de San Juan de la Cruz, descend la Castellana et Recoletos et finit à Cibeles vers 21 h. Pour voir quelque chose, placez-vous sur la Castellana.
 ---
-## Le calendrier en un coup d'œil
+
+## Noël à Madrid 2026 : le calendrier
 
 | Quoi | Où | Quand | Prix |
 | --- | --- | --- | --- |
-| Illuminations de Noël | Centre et les 21 arrondissements (allumage à Cibeles) | 21 novembre 2026 – 6 janvier 2027 | Gratuit |
+| Illuminations de Noël | Centre et les 21 districts (allumage à Cibeles) | 21 novembre 2026 – 6 janvier 2027 | Gratuit |
 | Crèche de la Real Casa de Correos | Puerta del Sol | Fin novembre – 6 janvier | Gratuit |
 | Marché de Noël | Plaza Mayor | Fin novembre – 31 décembre | Gratuit |
-| Cortylandia | El Corte Inglés de Preciados | Fin novembre – 5 janvier | Gratuit |
+| Cortylandia | El Corte Inglés, calle Preciados | Fin novembre – 5 janvier | Gratuit |
 | Naviluz (bus des illuminations) | Calle Felipe IV, près du Prado | Fin novembre – 6 janvier | Environ 12 € (6 € enfants) |
 | La Navideña et patinoire | Plaza de España | Fin novembre – début janvier | Patinoire payante |
-| Foire d'artisanat | Paseo de Recoletos | 1er – 30 décembre | Gratuit |
+| Foire artisanale | Paseo de Recoletos | 1er – 30 décembre | Gratuit |
 | Tirage d'El Gordo | Teatro Real | 22 décembre, le matin | Gratuit, avec billet |
 | Preúvas | Puerta del Sol | 30 décembre, à minuit | Gratuit, places limitées |
 | Douze coups de minuit | Puerta del Sol | 31 décembre | Gratuit, places limitées |
-| Cavalcade des Rois | Castellana – Cibeles | 5 janvier, à partir de 18 h | Gratuit |
+| Cavalcade des Rois mages | Castellana – Cibeles | 5 janvier, dès 18 h | Gratuit |
 
-**Confirmé (4 novembre 2026) :** la mairie allume les illuminations le samedi 21 novembre lors d'une cérémonie place de Cibeles, et elles restent jusqu'au 6 janvier 2027. L'heure de l'allumage n'est pas encore annoncée. Les autres dates sont celles de la dernière édition en attendant le programme 2026.
+**Confirmé (4 novembre 2026) :** la mairie allume les illuminations le samedi 21 novembre lors d'une cérémonie plaza de Cibeles, jusqu'au 6 janvier 2027. L'heure reste à confirmer. Les autres dates sont celles de la dernière édition, en attendant le programme 2026.
 
-## Voir les illuminations
+## Illuminations de Noël à Madrid : comment les voir
 
-Cette année, il y a plus de **250 sites illuminés** et 14 millions de LED, avec des motifs dessinés par des écoliers madrilènes.
+Cette année, plus de **250 lieux illuminés** et 14 millions de LED, avec des motifs dessinés par des écoliers madrilènes.
 
 - **À pied :** Sol, Preciados, Gran Vía et la calle Alcalá jusqu'à Cibeles, puis Serrano. Environ deux heures sans se presser.
-- **Naviluz :** un bus décapotable d'environ 50 minutes, avec des départs toutes les heures de 18 h à 22 h, moins cher à partir de 21 h. Il s'achète sur naviluz.es et **ne peut être ni échangé ni annulé**, même s'il pleut. Il ne circule pas les 24 et 31 décembre ni le 5 janvier.
-- **En tuk-tuk privé :** une heure et demie pour 4 personnes maximum, sans file d'attente ni attente dans le froid. Il est ouvert : prenez un manteau.
+- **Naviluz :** bus découvert d'environ 50 minutes, départs toutes les heures de 18 h à 22 h, moins cher après 21 h. Billets sur naviluz.es, **ni échangeables ni remboursables**, même s'il pleut. Pas de service les 24 et 31 décembre ni le 5 janvier.
+- **En tuk-tuk privé :** une heure et demie pour 4 personnes maximum, sans file ni attente dans le froid. Il est ouvert : couvrez-vous.
 
 [actividad: tuk-tuk-luces-navidad-madrid]
 
-## Un après-midi de décembre bien rempli
+## Une fin d'après-midi de décembre : marché de la Plaza Mayor, Sol et Cortylandia
 
-1. **17 h 30, Plaza Mayor :** le marché dans la dernière lumière du jour, avant qu'il ne soit bondé.
+1. **17 h 30, Plaza Mayor :** le marché avec la dernière lumière du jour, avant la foule.
 2. **18 h 15, Puerta del Sol :** la crèche de la Real Casa de Correos (il y a la queue, mais elle avance) et le sapin.
-3. **19 h, Preciados :** Cortylandia, puis la Gran Vía de nuit, quand les illuminations sont les plus belles.
-4. **20 h, churros au chocolat chez San Ginés**, dans le passage de San Ginés, près de Sol. Ouvert depuis 1894, il fonctionne 24 heures sur 24 du jeudi au dimanche et les veilles de jours fériés.
-5. **21 h, dîner :** tournée de tapas dans le centre ou spectacle de flamenco.
+3. **19 h, Preciados :** Cortylandia, puis la Gran Vía à la nuit tombée, quand les illuminations sont les plus belles.
+4. **20 h, chocolat et churros chez San Ginés**, dans le passage de San Ginés, près de Sol. Ouvert depuis 1894, 24 h/24 du jeudi au dimanche et les veilles de jours fériés.
+5. **21 h, dîner :** tapas dans le centre ou spectacle de flamenco.
 
-Si vous ne voulez pas trop marcher dans le froid, le **bus panoramique de nuit** fait le parcours pour vous, avec un guide.
+## Traditions, Saint-Sylvestre et Rois mages
 
-[actividad: ruta-tapas-nocturna-madrid]
+- **Le tirage de la loterie (22 décembre) :** au Teatro Real, avec des billets numérotés gratuits à retirer au guichet sur présentation d'une pièce d'identité ou du passeport. Certains font la queue dès la veille au soir : ces dernières années, arriver après 4 h du matin, c'était rester dehors.
+- **La file de Doña Manolita :** le bureau de loterie le plus célèbre de Madrid, avec des heures de queue en décembre. Pour la photo, allez-y tôt un jour ouvrable.
+- **Les preúvas (30 décembre) :** la répétition générale des douze coups, avec les mêmes raisins et beaucoup moins de monde. Gratuit, environ 15 000 places ; lors de la dernière édition, la place a fermé à 21 h et rouvert à 22 h.
+- **Les douze coups à Sol (31 décembre) :** l'accès ferme quand la place est pleine. Arrivez avant 21 h avec vos raisins épluchés.
+- **Cavalcade des Rois mages (5 janvier) :** départ à 18 h de la plaza de San Juan de la Cruz, descente de la Castellana et de Recoletos, arrivée à Cibeles vers 21 h. Placez-vous sur la Castellana : à Cibeles, la foule empêche de voir.
 
-## Trois traditions absentes des cartes postales
+## Que faire à Noël à Madrid avec des enfants et les jours fériés
 
-- **Le tirage de la Loterie (22 décembre) :** il a lieu au Teatro Real et le public entre gratuitement, avec un billet numéroté à retirer au guichet sur présentation d'une pièce d'identité ou d'un passeport. Certains font la queue dès la veille au soir : lors des dernières éditions, arriver après 4 heures du matin, c'était rester dehors.
-- **Les preúvas (30 décembre) :** la répétition générale des douze coups de minuit, avec les mêmes raisins et beaucoup moins de monde que le 31. C'est gratuit, avec une jauge d'environ 15 000 personnes ; lors de la dernière édition, la place a fermé à 21 h et rouvert à 22 h.
-- **La file de Doña Manolita :** le bureau de loterie le plus célèbre de Madrid, avec des heures de queue en décembre. Si vous voulez juste la photo, allez-y à la première heure un jour de semaine.
+**Avec des enfants :**
 
-## Avec des enfants
-
-- **Cortylandia** est l'activité numéro un : gratuite et tout près de Sol. Allez-y en semaine en fin d'après-midi.
-- **Naviluz** coûte moitié prix pour les 7-11 ans, et les moins de 7 ans ne paient pas, mais ils ont besoin d'un billet.
+- **Cortylandia** est l'activité numéro un : gratuite et juste à côté de Sol. Allez-y en semaine l'après-midi.
+- **Naviluz** est à moitié prix pour les 7-11 ans, et gratuit pour les moins de 7 ans, qui ont tout de même besoin d'un billet.
 - La **patinoire** de la Plaza de España fonctionne par créneaux : achetez le billet à l'avance sur son site.
 
-## Musées et monuments les jours fériés
-
-Le **Prado** ferme le 25 décembre et le 1er janvier, et les 24 et 31 décembre ainsi que le 6 janvier, il n'ouvre que de 10 h à 14 h. Pendant les deux dernières heures de chaque journée, la collection est gratuite, dans la limite des places. Décembre est un bon mois pour le **Palais royal** et les musées, avec moins de files qu'au printemps.
-
-Si vous avez une journée libre, l'excursion à **Tolède et Ségovie** avec l'Alcazar est l'escapade classique, et en hiver elle se fait sans la chaleur.
-
-## Saint-Sylvestre et Rois mages
-
-- **Douze coups de minuit à Sol :** l'accès ferme quand la place est pleine. Arrivez avant 21 h et apportez vos raisins épluchés.
-- **Cavalcade des Rois :** elle part à 18 h de la place San Juan de la Cruz, descend la Castellana et Recoletos et se termine à Cibeles vers 21 h. Prenez place sur la Castellana : à Cibeles, la foule ne laisse rien voir.
+**Musées les jours fériés :** le **Prado** est fermé le 25 décembre et le 1er janvier, et n'ouvre que de 10 h à 14 h les 24 et 31 décembre et le 6 janvier. La collection est gratuite les deux dernières heures de chaque jour, dans la limite des places. Décembre est un bon mois pour le **Palais royal** et les musées, avec moins de files qu'au printemps. Avec un jour libre, **Tolède et Ségovie** sont l'escapade classique, sans la chaleur en hiver.
 
 ## Erreurs fréquentes
 
 - **Y aller un samedi après-midi de décembre :** Sol et Preciados sont bouchés. Mieux vaut un mardi ou un mercredi.
 - **Attendre le dernier moment pour le dîner du 24 ou du 31 :** beaucoup de restaurants ferment ou ne proposent qu'un menu fixe. Réservez en novembre.
-- **Réserver Naviluz pour un jour de pluie :** il n'est pas remboursé. Si le temps est incertain, mieux vaut une activité annulable.
+- **Réserver Naviluz un jour de météo incertaine :** pas de remboursement en cas de pluie. Mieux vaut une activité annulable.

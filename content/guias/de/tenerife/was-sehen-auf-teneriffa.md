@@ -4,11 +4,11 @@ descripcion: 'Teneriffa-Reiseführer: Teide, La Laguna, La Orotava, Garachico, M
 categoria: tenerife
 slug: was-sehen-auf-teneriffa
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 3
+tiempo_lectura: 4
 keywords:
 - was sehen auf teneriffa
 - teneriffa in 5 tagen
@@ -23,6 +23,8 @@ slugs:
   it: cosa-vedere-a-tenerife
   pt: o-que-ver-em-tenerife
 reservasArriba: true
+intro: 'Was sehen auf Teneriffa? Eine Menge: Es ist die vielseitigste Kanareninsel. Hier stehen der **Teide**, Spaniens höchster Berg, eine koloniale Welterbestadt (**La Laguna**), Lorbeerwälder in **Anaga**, Orte wie La Orotava und Garachico, die **Masca**-Schlucht, Hunderte Meter hohe Klippen und das ganze Jahr Wale vor der Küste. Wer nur in Costa Adeje bleibt, verpasst die halbe Insel.'
+respuestaCorta: 'Was sehen auf Teneriffa in **fünf oder sechs Tagen**: den **Teide** (Seilbahn bis 3.555 m), den Norden (La Orotava, Puerto de la Cruz, Garachico), **La Laguna und Anaga**, **Masca und Los Gigantes** und im Süden das Meer mit Walen (Öko-Yacht ab Los Cristianos **ab 30 €**). **Miete ein Auto**: Teide, Masca und Anaga erlebst du so viel besser.'
 actividades:
   - teide-teleferico-traslado
   - tour-teide-masca-icod-garachico
@@ -38,62 +40,88 @@ actividades:
   - anaga-bosque-laurisilva-ruta-guiada
 faq:
 - pregunta: Wie viele Tage braucht man für Teneriffa?
-  respuesta: 'Fünf bis sechs Tage reichen, um Teide, den Norden (La Orotava, Puerto de la Cruz, Garachico), La Laguna und Anaga, den Westen (Masca und Los Gigantes) und etwas Zeit auf dem Meer im Süden zu verbinden. Mit drei Tagen: Teide, ein Tag im Norden und eine Bootstour.'
-- pregunta: Wohnt man besser im Norden oder im Süden Teneriffas?
-  respuesta: Der Süden (Costa Adeje, Los Cristianos, Las Américas) hat mehr Sonne und Strände, und von dort legen die Boote ab. Der Norden (Puerto de la Cruz, La Orotava) ist grüner, ursprünglicher und kühler und liegt näher an La Laguna und Anaga. Wer die Insel richtig kennenlernen will, teilt die Nächte auf.
+  respuesta: 'Mit fünf oder sechs Tagen kombinierst du den Teide, den Norden (La Orotava, Puerto de la Cruz, Garachico), La Laguna und Anaga, den Westen (Masca und Los Gigantes) und etwas Meer im Süden. Bei drei Tagen: Teide, ein Tag im Norden und eine Bootstour.'
+- pregunta: Wohnt man auf Teneriffa besser im Norden oder im Süden?
+  respuesta: Der Süden (Costa Adeje, Los Cristianos, Las Américas) hat mehr Sonne und Strände, und dort starten die Boote. Der Norden (Puerto de la Cruz, La Orotava) ist grüner, ursprünglicher und kühler und liegt näher an La Laguna und Anaga. Um die Insel gut kennenzulernen, teilst du die Nächte am besten auf.
 - pregunta: Braucht man auf Teneriffa ein Auto?
-  respuesta: 'Sehr empfehlenswert: Die TITSA-Busse verbinden die Orte gut, aber Teide, Masca und Anaga erlebt man mit dem Auto oder einem Ausflug deutlich besser. Am Teide gibt es nur wenige Parkplätze.'
+  respuesta: 'Sehr empfehlenswert: Die TITSA-Busse verbinden die Städte gut, aber Teide, Masca und Anaga erlebst du mit Auto oder Ausflug viel besser. Bedenke, dass die Parkplätze am Teide begrenzt sind.'
 - pregunta: Wann ist die beste Reisezeit für Teneriffa?
-  respuesta: 'Das ganze Jahr: An der Küste ist es immer mild. Frühling und Herbst sind ideal zum Wandern; im Winter kann es auf dem Teide schneien, und im Februar findet der Karneval von Santa Cruz statt.'
+  respuesta: 'Jederzeit: An der Küste ist es das ganze Jahr mild. Frühling und Herbst sind ideal zum Wandern; im Winter kann es auf dem Teide schneien, und im Februar ist Karneval in Santa Cruz.'
+- pregunta: Kann man die Masca-Schlucht auf eigene Faust wandern?
+  respuesta: Ja, aber seit 2021 nur mit kostenloser Voranmeldung und begrenzter Teilnehmerzahl, und mit Wanderschuhen. Das Dorf ist frei zugänglich; am bequemsten ist der Abstieg mit Guide und die Rückfahrt per Boot nach Los Gigantes.
 imagen_portada: "/images/guias/que-ver-en-tenerife.jpg"
 imagen_alt: "Die Roques de García im Teide-Nationalpark"
 ---
 
-**Teneriffa ist die vielseitigste Kanareninsel.** Sie hat den höchsten Berg Spaniens, eine koloniale Stadt mit Welterbe-Status, Lorbeerwälder, Hunderte Meter hohe Klippen und Wale, die das ganze Jahr vor ihrer Küste leben. Der typische Fehler: in Costa Adeje bleiben und den Teide nur im Vorbeifahren mitnehmen. Die Insel bietet viel mehr.
+## Teneriffa in 5 Tagen: so teilst du die Insel auf
 
-## Wie viele Tage du brauchst
+Mit **fünf oder sechs Tagen** siehst du das Wichtigste:
 
-Mit **fünf bis sechs Tagen** siehst du das Wichtigste: einen Tag für den **Teide**, einen für den **Norden** (La Orotava, Puerto de la Cruz, Icod und Garachico), einen für **La Laguna und Anaga**, einen für den **Westen** (Masca und Los Gigantes) und ein oder zwei Tage Meer und Strand im Süden. Mit drei Tagen: Teide, Norden und eine Walbeobachtungstour.
+1. **Der Teide** und Las Cañadas.
+2. **Der Norden:** La Orotava, Puerto de la Cruz, Icod und Garachico.
+3. **La Laguna und Anaga.**
+4. **Der Westen:** Masca und Los Gigantes.
+5. **Der Süden und das Meer:** Strand und eine Walbeobachtungstour (ein oder zwei Tage).
+
+Bei drei Tagen: Teide, Norden und eine Fahrt zur Walbeobachtung.
 
 ## Der Teide
 
-Der **Teide-Nationalpark**, UNESCO-Welterbe, umgibt den 3.715 m hohen Vulkan. Fahr durch **Las Cañadas**, halte an den **Roques de García** und nimm die **Seilbahn** bis auf 3.555 m. Für den Gipfel braucht man eine kostenlose Genehmigung, die schnell vergeben ist. Nachts ist der Teide einer der besten Orte der Welt zur Sternenbeobachtung. Alles dazu in unserem [Guide zur Teide-Besteigung](/de/guides/tenerife/teide-besteigen).
+Der **Nationalpark Teide**, UNESCO-Welterbe, umgibt den 3.715 m hohen Vulkan. Fahr durch **Las Cañadas**, halte an den **Roques de García** und nimm die **Seilbahn** bis auf 3.555 m (etwa 42 € hin und zurück). Für den Gipfel brauchst du eine eigene Genehmigung, die schnell vergeben ist. Nachts ist der Teide einer der besten Orte der Welt zum Sternebeobachten. Alles dazu in unserem [Guide zur Teide-Besteigung](/de/guides/tenerife/teide-besteigen).
 
-## Der Norden: La Orotava, Puerto de la Cruz, Icod und Garachico
+Oben ist es kalt: Nimm eine warme Jacke mit und reserviere die Seilbahn.
 
-**La Orotava** ist der vornehme Ort der Insel, mit der Casa de los Balcones und Blick über das Tal. **Puerto de la Cruz** verbindet Promenade, die Meerwasserbecken des Lago Martiánez und den **[Loro Parque](/de/guides/tenerife/loro-parque-tickets-preise)**. In **Icod de los Vinos** steht der **Drago Milenario**, und **Garachico**, teilweise vom Ausbruch 1706 verschüttet, bewahrt seine Altstadt und die natürlichen Lavabecken von **El Caletón**.
+## Was sehen auf Teneriffa: die Regionen
 
-## La Laguna und Anaga
+### Der Norden: La Orotava, Puerto de la Cruz, Icod und Garachico
 
-**San Cristóbal de La Laguna**, UNESCO-Welterbe, ist eine Kolonialstadt mit schachbrettartigen Straßen und lebendiger Studentenszene. Dahinter beginnt der **Landschaftspark Anaga**, ein Biosphärenreservat: Lorbeerwälder, Aussichtspunkte wie der Pico del Inglés und Weiler wie **Taganana** oder der wilde Strand von **Benijo**.
+- **La Orotava:** das herrschaftliche Städtchen der Insel, mit der Casa de los Balcones und Blick über das Tal.
+- **Puerto de la Cruz:** Strandpromenade, die Meerwasserbecken des Lago Martiánez und der [Loro Parque](/de/guides/tenerife/loro-parque-tickets-preise).
+- **Icod de los Vinos:** der **Drago Milenario**, der tausendjährige Drachenbaum.
+- **Garachico:** 1706 teilweise von einem Vulkanausbruch verschüttet, mit erhaltener Altstadt und den Naturbecken aus Lava von **El Caletón**.
 
-## Der Westen: Masca und Los Gigantes
+### La Laguna und Anaga
 
-Die Straße nach **Masca** gehört zu den spektakulärsten der Kanaren. Vom Weiler führt die **Masca-Schlucht** hinunter zum Meer (mit Genehmigung und am bequemsten mit Guide und Rückfahrt per Boot). Im Süden fallen die **Klippen von Los Gigantes** senkrecht in den Atlantik; am besten sieht man sie vom Wasser aus.
+**San Cristóbal de La Laguna**, UNESCO-Welterbe, ist eine koloniale Altstadt mit geraden Straßen und viel studentischem Leben. Dahinter beginnt der **Landschaftspark Anaga**, Biosphärenreservat: Lorbeerwälder, Aussichtspunkte wie der **Pico del Inglés** und Weiler wie **Taganana**, oder der wilde Strand von **Benijo**.
 
-## Der Süden und das Meer
+### Masca und Los Gigantes
 
-**Costa Adeje, Las Américas und Los Cristianos** bündeln Strände, Hotels und die meisten Bootstouren. Zwischen Teneriffa und La Gomera leben das ganze Jahr **Grindwale und Delfine**, Sichtungen sind also fast sicher. Lies unseren [Guide zur Walbeobachtung](/de/guides/tenerife/walbeobachtung-teneriffa). Für Familien ist der **[Siam Park](/de/guides/tenerife/siam-park-tickets-preise)** einer der besten Wasserparks Europas.
+Die Straße nach **Masca** ist eine der spektakulärsten der Kanaren. Vom Weiler führt die **Masca-Schlucht** hinunter zum Meer: seit 2021 nur mit **kostenloser Voranmeldung** und begrenzter Teilnehmerzahl; am bequemsten mit Guide und Bootsfahrt zurück nach Los Gigantes (15-20 €). Das Dorf ist frei zugänglich, aber der Parkplatz hat 30 Plätze und ist gegen 10:00 voll. Weiter südlich stürzen die **Klippen von Los Gigantes** senkrecht in den Atlantik; am besten sieht man sie vom Wasser aus.
 
-## Fortbewegung
+### Der Süden und das Meer
 
-Die **TITSA-Busse** verbinden Santa Cruz, La Laguna, den Norden und den Süden gut, und es gibt zwei Flughäfen (Teneriffa Nord und Teneriffa Süd). Für Teide, Masca und Anaga lohnt sich ein **Mietwagen** oder ein Ausflug: Die Bergstraßen sind langsam und Parkplätze am Teide knapp.
+**Costa Adeje, Las Américas und Los Cristianos** bündeln Strände, Hotels und die meisten Bootstouren. Zwischen Teneriffa und La Gomera leben das ganze Jahr Grindwale und Delfine, Sichtungen sind also fast sicher; mehr in unserem [Guide zur Walbeobachtung](/de/guides/tenerife/walbeobachtung-teneriffa). Für Familien ist der [Siam Park](/de/guides/tenerife/siam-park-tickets-preise) einer der besten Wasserparks Europas.
 
-## Wo man wohnt
+## Unterwegs: Auto, Busse und Entfernungen
 
-**Costa Adeje und Los Cristianos** für Sonne, Strand und Boote; **Puerto de la Cruz und La Orotava** für den grünen Norden und seine Orte; **La Laguna oder Santa Cruz** für Stadtleben und Anaga. Mit einer Woche teilst du die Nächte zwischen Norden und Süden auf.
+- **Mietwagen:** unverzichtbar für Teide, Masca und Anaga. Im Sommer und an Weihnachten Wochen vorher buchen; lokale Firmen (Cicar, AutoReisen) arbeiten ohne Selbstbeteiligung und ohne Überraschungen. Ein kleines Auto reicht und parkt in Masca und La Laguna leichter.
+- **Entfernungen ab Costa Adeje:** zum Teide 1 Std. 45 Min.; nach Masca 50 Minuten (davon 20 auf engen Kurven); nach La Laguna 1 Stunde über die Südautobahn; nach Garachico 1 Std. 15 Min.
+- **Aus dem Norden:** zum Teide 1 Stunde ab Puerto de la Cruz. Nach Anaga 40 Minuten von La Laguna bis Cruz del Carmen.
+- **TITSA-Busse:** Ab Santa Cruz und La Laguna ist der Norden gut angebunden (Linien 101 und 102 nach Puerto de la Cruz); in den Süden fahren die 110 und 111 von Santa Cruz nach Costa Adeje und Los Cristianos (1 Stunde, 10 €). Die **348** fährt einmal täglich ab Puerto de la Cruz zum Teide (Abfahrt 9:30, Rückfahrt 16:00). Mit der **Ten+**-Karte (2 €) sind die Fahrten 30-50 % günstiger.
+- **Kostenlos:** Masca, Garachico, La Laguna und Anaga.
 
-## Essen auf Teneriffa
+## Übernachten und Essen
 
-Such dir im Norden einen **Guachinche** (einfache Lokale mit eigenem Wein), probiere **Papas arrugadas mit Mojo**, **Conejo en salmorejo** (marinierter Hase), **gegrillten Ziegenkäse** mit Palmhonig und den **Barraquito**, Kaffee mit Kondensmilch und Likör. Beim Wein lohnen sich **Tacoronte-Acentejo** und das Orotava-Tal.
+- **Costa Adeje und Los Cristianos:** Sonne, Strand und Boote. Der Süden ist das ganze Jahr trocken und sonnig.
+- **Puerto de la Cruz und La Orotava:** der grüne Norden und seine Orte, oft mit tiefen Wolken am Morgen, aber näher an allem.
+- **La Laguna oder Santa Cruz:** Stadtleben und Anaga.
 
-## Was wir NICHT empfehlen
+Wer für Sonne und Strand kommt, schläft im Süden; wer die Insel sehen will, im Norden. Mit einer Woche teilst du die Nächte auf.
 
-1. **Ohne Jacke und Reservierung auf den Teide.** Oben ist es kalt, und die Seilbahn ist oft ausgebucht.
-2. **Masca auf eigene Faust ohne Genehmigung.** Die Schlucht erfordert Reservierung und Bergschuhe.
-3. **Boote, die Wale verfolgen.** Such dir lizenzierte, verantwortungsvolle Anbieter.
-4. **Nur im Süden bleiben.** Der Norden und Anaga sind das ursprünglichste Teneriffa.
+### Essen auf Teneriffa
 
-## In einem Satz
+Such dir im Norden einen **Guachinche** (einfache Lokale mit eigenem Wein) und probier:
 
-Teneriffa ist Teide, La Laguna, der grüne Norden, Masca und Wale eine halbe Stunde vor der Küste: In fünf bis sechs Tagen erlebst du eine Insel voller Kontraste.
+- **Papas arrugadas mit Mojo.**
+- **Conejo en salmorejo** (mariniertes Kaninchen).
+- **Gegrillten Ziegenkäse** mit Palmhonig.
+- **Barraquito**, Kaffee mit Kondensmilch und Likör.
+
+Beim Wein: Tacoronte-Acentejo und das Orotava-Tal.
+
+## Tipps
+
+- **Nicht ohne Jacke und Reservierung auf den Teide:** Oben ist es kalt, und die Seilbahn ist oft ausgebucht.
+- **Masca nicht ohne Genehmigung:** Die Schlucht verlangt Voranmeldung und Wanderschuhe.
+- **Boote wählen, die Wale nicht verfolgen:** zugelassene, respektvolle Anbieter.
+- **Nicht nur im Süden bleiben:** Der Norden und Anaga sind das ursprünglichste Teneriffa.

@@ -4,14 +4,14 @@ descripcion: 'Mallorca with kids: the best family beaches, Palma Aquarium, the S
 categoria: mallorca
 slug: mallorca-with-kids
 fecha: '2026-04-09'
-fecha_actualizacion: "2026-10-27"
+fecha_actualizacion: '2026-11-07'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/guias/mallorca-con-ninos.jpg
 imagen_alt: "Water slides at a water park in Mallorca"
-tiempo_lectura: 3
+tiempo_lectura: 4
 keywords:
 - mallorca with kids
 - mallorca with family
@@ -26,7 +26,8 @@ slugs:
   it: maiorca-con-bambini
   pt: maiorca-com-criancas
 reservasArriba: true
-respuestaCorta: 'Stay in the **north (Alcúdia)**, with shallow-water beaches, and don''t try to see the whole island. The must-dos: the [**Sóller train**](/en/cities/mallorca/activities/soller-train-tram-half-day-from-the-north) (half day from the north, from €56), the [**Caves of Drach**](/en/cities/mallorca/activities/drach-caves-from-alcudia) with a boat concert (€54) and [**Palma Aquarium**](/en/cities/mallorca/activities/palma-aquarium-entry-ticket) for a cloudy day (€30.50).'
+intro: '**Mallorca with kids** is a first-rate family destination: long beaches with shallow water, a **1912 wooden train** crossing the Tramuntana, caves with an underground lake and a concert played from boats, the **Palma Aquarium**, water parks and dolphin-watching boats, all close together. The key is to pick one base, ideally in the north around Alcúdia, and not try to see the whole island.'
+respuestaCorta: 'For Mallorca with kids, stay in the **north (Alcúdia)**, with shallow-water beaches, and don''t try to see the whole island. The essentials: the **Sóller train** (half day from the north, from €56), the **Drach Caves** with a boat concert (€54) and the **Palma Aquarium** for a cloudy day (€30.50).'
 opciones:
   - ficha: tren-soller-tranvia-medio-dia-desde-el-norte
     etiqueta: Sóller train
@@ -47,34 +48,18 @@ actividades:
   - barco-soller-sa-calobra
 faq:
 - pregunta: What's the best area to stay in Mallorca with kids?
-  respuesta: The north, around Alcúdia, beats the party-oriented south-west. It has calm, shallow beaches like Playa de Muro and is a better family base than the small, fashionable coves, which have no shade or parking.
+  respuesta: The north, around Alcúdia, beats the party-style south-west. It has calm, shallow beaches such as Playa de Muro, and makes a better family base than the trendy small coves, which have no shade or parking.
 - pregunta: What's special about the Sóller train with kids?
-  respuesta: It's a wooden train built in 1912 that crosses the Tramuntana mountains from Palma, connecting with a vintage tram down to the port. Kids love it — it's an experience in itself, not just transport.
+  respuesta: 'It''s a 1912 wooden train that crosses the Tramuntana mountains from Palma, connecting with a vintage tram down to the port. Kids love it: it''s an experience in itself, not just transport.'
 - pregunta: Do you need to book the Drach Caves in advance?
-  respuesta: Yes. The caves have one of the largest underground lakes in Europe, with a classical music concert performed from boats on the lake — and those concert tickets sell out, so book ahead.
-- pregunta: What's the best Mallorca beach for young kids?
-  respuesta: 'Playa de Muro, near Alcúdia, in the north: fine sand, shallow water and plenty of space. Cala Mondragó, in a natural park in the south-east, is another calm option.'
-- pregunta: Is Sa Calobra a good drive to do with kids?
-  respuesta: Not if they get carsick — the road has extreme hairpin bends. It's one of the drives specifically flagged as one to avoid with young children.
+  respuesta: Yes. The caves hold one of Europe's largest underground lakes, with a classical concert played from boats on the lake, and the concert session tickets sell out, so book ahead.
+- pregunta: What's the best beach in Mallorca for young children?
+  respuesta: 'Playa de Muro, near Alcúdia in the north: fine sand, shallow water and lots of space. Cala Mondragó, in a natural park in the south-east, is another calm option.'
+- pregunta: Is the Sa Calobra road a good idea with kids?
+  respuesta: 'Not if they get carsick: the road has very tight hairpins. It''s one of the routes specifically not recommended with young children; the boat from Port de Sóller is the alternative.'
 ---
 
-**Mallorca is a first-class family destination:** shallow beaches, a century-old wooden train, aquariums and caves with an underground lake, all close together. The key is to stay in the north (Alcúdia) and not try to see the whole island.
-
-## The best plans with kids
-
-| Plan | Activity | From |
-| --- | --- | --- |
-| Cloudy day | [Palma Aquarium](/en/cities/mallorca/activities/palma-aquarium-entry-ticket), 4.5★ (3,744) | €30.5 |
-| Sóller train from the north | [Sóller train and tram, half day](/en/cities/mallorca/activities/soller-train-tram-half-day-from-the-north), 4.4★ (381) | €56 |
-| Train, tram and boat | [Island tour with the Sóller train](/en/cities/mallorca/activities/mallorca-island-tour-soller-train-tram-boat), 4.4★ (4,540) | €103 |
-| Caves with a boat concert | [Drach Caves from Alcúdia](/en/cities/mallorca/activities/drach-caves-from-alcudia), 4.3★ (641) | €54 |
-| Caves from Palma | [Drach Caves with concert and boat ride](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma), 4.4★ (1,489) | €54 |
-| Wild dolphins | [Dolphin watching from Alcúdia](/en/cities/mallorca/activities/alcudia-dolphin-watching), 4.8★ (3,435) | €90 |
-| Treetop adventure | [Forestal Park](/en/cities/mallorca/activities/forestal-park-mallorca-adventure), 4.8★ (277) | €26 |
-| Water park | [Western Water Park](/en/cities/mallorca/activities/western-water-park-magaluf-ticket), 4.3★ (582) | €38 |
-| Animal shows | [Marineland](/en/cities/mallorca/activities/marineland-mallorca-entry-ticket), 4.5★ (786) | €32 |
-
-## Where to stay: pick one base
+## Mallorca with family: where to stay
 
 - **North (Alcúdia, Playa de Muro, Port de Pollença):** the best family base, with long, shallow beaches. The Sóller train and Drach Caves tours pick up here.
 - **East (Cala d'Or):** calm and close to Cala Mondragó and the Drach Caves.
@@ -82,70 +67,55 @@ faq:
 
 Keep day trips to **45 minutes' drive at most**. Marineland and Western Water Park are in the south-west, over 45 minutes from the north.
 
-## Sóller train: which option suits your family
+## Soller train with kids
 
-The 1912 wooden train crosses the Tramuntana from Palma to Sóller in about an hour; a vintage tram continues to the port. Three ways to do it:
+The 1912 wooden train crosses the Tramuntana from Palma to Sóller in **about an hour**, and a vintage tram continues to the port. Three ways to do it:
 
-- **On your own from Palma:** €30 return, €23 one way (as of 2026). The tram from Sóller to the port is €10 each way, bought on board, or €40 for a train and tram return combined. Morning departures from Palma include 10:10, 10:50 and 12:15. Sit on the right on the way up for the mountain views.
-- **Half day from the north (from €56):** pickup in Alcúdia, Port de Pollença, Can Picafort or Playa de Muro, 5–6 hours, with a guide handling every connection. You're back for the afternoon beach. The best option from the north.
-- **Full island tour (from €103):** 8 hours from southern Mallorca, adding a coastal boat and Lluc. Long for young children, and the coach takes the Sa Calobra hairpin road.
+- **On your own from Palma:** **€30 return** (€23 one way). The tram to the port is extra (€10 each way, bought on board) or €40 combined with the train return. Departures from Palma at 10:10, 10:50, 12:15, 13:30 and 15:10. Sit on the **right on the way up** for the views.
+- **Half day from the north (from €56):** pick-up in Alcúdia, Port de Pollença, Can Picafort or Playa de Muro, 5–6 hours, with a guide handling the connections. You're back for the afternoon beach.
+- **Full island tour (from €103):** 8 hours from the south, adding a coastal boat and Lluc. Long for young children, and the coach takes the Sa Calobra hairpins.
 
-The wooden carriages get hot in summer: take water and pick a morning departure.
+The wooden carriages get hot in summer: take water and pick a morning train.
 
-[actividad: tren-soller-tranvia-medio-dia-desde-el-norte]
+## Drach Caves: book the concert
 
-## Drach Caves: book the concert slot
+The Drach Caves in Porto Cristo hold one of Europe's largest underground lakes. The visit ends with a **classical concert played from boats** on Lake Martel, at fixed session times that sell out.
 
-The Caves of Drach in Porto Cristo hold one of Europe's largest underground lakes. Visits end with a classical concert played from boats on Lake Martel, at fixed session times that sell out.
-
-- **Tickets on your own (as of 2026):** €18.50 adults online (€19.50 at the box office), €11.50 for ages 3–12, free under 3.
-- **Session times:** from 16 March to 31 October at 10:00, 11:00, 12:00, 14:00, 15:00, 16:00 and 17:00; in winter only 10:30, 12:00, 14:00 and 15:30.
+- **Tickets on your own:** **€18.50** online (€19.50 at the box office), **€11.50 for ages 3–12**, free under 3.
+- **Sessions:** 16 March to 31 October at 10:00, 11:00, 12:00, 14:00, 15:00, 16:00 and 17:00; in winter only 10:30, 12:00, 14:00 and 15:30. Buy online a few days ahead.
 - **About an hour inside**, at 17–21 °C all year: bring a light jacket.
-- **About 300 steps** and a damp floor: use a baby carrier, not a pushchair.
-- **Tour option (from €54):** transport from Alcúdia or Palma, skip-the-ticket-line entry and the boat crossing, about 5 hours. Worth it without a car.
+- **About 300 steps** and a damp floor: baby carrier, not pushchair.
+- **Without a car**, the tour (from €54) includes transport from Alcúdia or Palma, entry and the boat, about 5 hours.
 
 [actividad: cuevas-del-drach-desde-alcudia]
 
-## Other plans: what to know
+## Palma Aquarium and other plans
 
-- **Palma Aquarium:** about 3 hours. Packed on summer and rainy days: arrive at opening (9:30) or after 15:00, when groups leave. Check feeding times on arrival.
-- **Dolphin boat from Alcúdia:** 3 hours with an early start, groups of up to 12 and at least 30 minutes with the dolphins guaranteed by the operator. Suitable from age 3.
+- **Palma Aquarium (€30.50):** about 2–3 hours. Packed in summer and on rainy days: arrive at opening (9:30) or after 15:00, when groups leave. The shark and the tropical jungle are the favourites.
+- **Dolphins from Alcúdia:** 3 hours with an early start, groups of up to 12 and at least 30 minutes with the dolphins guaranteed by the operator. From age 3.
 - **Forestal Park:** choose the course by your child's age and height. No sandals.
 - **Western Water Park:** summer only, last entry 15:30.
+- **Marineland:** animal shows, in the south-west.
 
-## Best beaches for kids
+## Best Mallorca beaches for kids
 
 | Beach | Area | Why |
 | --- | --- | --- |
 | Playa de Muro / Alcúdia | North | Fine sand and shallow water |
-| Cala Mondragó | Southeast | Natural park, calm water |
-| Cala Agulla | Northeast | Wide, with pine woods and clear water |
+| Cala Mondragó | South-east | Natural park, calm water |
+| Cala Agulla | North-east | Wide, with pine woods and clear water |
 | Port de Sóller | Tramuntana | Sheltered bay |
 | Es Trenc | South | Wild, but no facilities |
 
-## Car, food and when to go
+**A week from the north:** Playa de Muro and Alcúdia; Sóller train and tram to the port; Drach Caves and Porto Cristo; Palma (Cathedral, Bellver and Palma Aquarium); water park, Forestal Park or Marineland; Cala Mondragó or Cala Agulla.
 
-- **Book the hire car with your flights.** In July and August prices double and child seats run out; request the seat when booking.
-- **Eating:** beach chiringuitos and village cellers (set lunch at €15–18) work well with kids. Book in summer.
-- **When to go:** May to mid-June and September: sea at 23–25 °C, fewer people, hotels around 30% cheaper than August.
+## Tips and mistakes to avoid
 
-## A family week (north base)
+- **Book the hire car with your flights.** In July and August prices double and child seats run out: request the seat when booking.
+- **Eating:** beach chiringuitos and village cellers (set lunch at €15–18) work very well with kids. Book in summer. For a snack, a freshly made ensaïmada never fails.
+- **When to go:** May to mid-June and September, with the sea at 23–25 °C, fewer people and hotels around 30% cheaper than in August.
+- **Don't drive to Sa Calobra with kids who get carsick:** 12 km of extreme bends. Take the boat from Port de Sóller instead.
+- **Skip the trendy small coves with little ones:** no shade, no parking and packed.
+- **On beaches without facilities like Es Trenc**, bring shade and water.
 
-| Day | Plan |
-| --- | --- |
-| 1 | Playa de Muro and Alcúdia |
-| 2 | Sóller train and tram to the port |
-| 3 | Drach Caves and Porto Cristo |
-| 4 | Palma: Cathedral, Bellver and Palma Aquarium |
-| 5 | Water park, Forestal Park or Marineland |
-| 6 | Cala Mondragó or Cala Agulla |
-
-## Mistakes to avoid
-
-1. **Not booking the car and the Drach Caves early:** the first gets pricier, the second sells out.
-2. **Driving to Sa Calobra with kids who get car sick:** 12 km of extreme bends. Take the [boat from Port de Sóller](/en/cities/mallorca/activities/boat-soller-sa-calobra) instead.
-3. **Small, fashionable coves with toddlers:** no shade, no parking, packed.
-4. **Forgetting shade and water on beaches without facilities** like Es Trenc.
-5. **Trying to see the whole island:** one base, short trips.
-
-For the rest of the island, see [what to see in Mallorca](/en/guides/mallorca/what-to-see-in-mallorca) and the [best coves in Mallorca](/en/guides/mallorca/best-coves-mallorca).
+For the rest of the island, see [what to see in Mallorca](/en/guides/mallorca/what-to-see-in-mallorca).

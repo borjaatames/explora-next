@@ -1,11 +1,12 @@
 ---
 titulo: "Salamanca in un fine settimana: guida onesta per viverla"
 descripcion: "Programma per un weekend a Salamanca con criterio: monumenti, le due cattedrali, l'Università, Casa Lis, dove mangiare tapas e i migliori cocktail bar. Onesto."
-respuestaCorta: 'Due giorni sono la misura giusta per Salamanca. Fai **i grandi monumenti il sabato** (Plaza Mayor, Clerecía, Università e le due cattedrali), Casa Lis nel pomeriggio, il Ponte Romano al tramonto e la **notte del sabato**; lascia la domenica per la Casa Museo Unamuno, las Dueñas o **un solo paese**. Il tour a piedi con guida locale parte da 17 €.'
+intro: 'Un **weekend a Salamanca** è la misura giusta per viverla davvero: monumenti senza fretta —la Plaza Mayor, l''Università, le due cattedrali, la Clerecía—, due giri di tapas fatti bene, la pietra dorata al tramonto dal Ponte Romano e la notte universitaria, che è metà dell''anima della città. È troppo piccola per tre giorni e troppo densa per uno, e qui la notte conta quanto il giorno.'
+respuestaCorta: 'Per un **weekend a Salamanca**, fai **i grandi monumenti il sabato** (Plaza Mayor, Clerecía, Università e le due cattedrali), Casa Lis nel pomeriggio, il **Ponte Romano al tramonto** e la notte del sabato; lascia la domenica alla Casa Museo Unamuno, a las Dueñas o a **un solo paese**. Arriva il venerdì sera e prenota il pranzo in anticipo.'
 categoria: "salamanca"
 slug: "salamanca-in-un-fine-settimana"
 fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
@@ -33,63 +34,73 @@ actividades:
   - jamon-iberico-clase-magistral-cata-salamanca
   - catedrales-salamanca-entrada-audioguia
   - universidad-salamanca-visita-guiada
+faq:
+- pregunta: Quanti giorni servono per Salamanca?
+  respuesta: 'Due giorni sono la misura giusta: il sabato per i grandi monumenti e la notte, la domenica per ciò che sfugge a chi viene un giorno solo o per un paese vicino. Tre giorni sono troppi per una città così piccola; uno è poco se vuoi viverla davvero.'
+- pregunta: Qual è il periodo migliore per un weekend a Salamanca?
+  respuesta: I fine settimana dell'anno accademico, da aprile a maggio e da ottobre a novembre; anche settembre (le Ferias) e Natale, con la Plaza Mayor illuminata e hotel più economici. Evita luglio e agosto, con l'università chiusa e molti locali in ferie.
+- pregunta: Dove dormire a Salamanca per un weekend?
+  respuesta: In Plaza Mayor sei a 30 secondi da tutto, con rumore fino alle 3:00 nel fine settimana; nella zona Università e Patio de Escuelas ci sono hotel boutique; la zona Cattedrali è più tranquilla, e l'Avenida Mirat, a 10-15 minuti, costa meno ed è comoda se arrivi in auto.
+- pregunta: Quale paese visitare da Salamanca la domenica?
+  respuesta: 'Uno solo: Alba de Tormes (20 km, mezza giornata, Santa Teresa), La Alberca e la Sierra de Francia (75 km, giornata intera) o Ciudad Rodrigo (90 km, murata, giornata intera). Tre in un giorno sono cinque ore d''auto e niente visto.'
+- pregunta: Dove bere qualcosa la sera a Salamanca?
+  respuesta: 'Dalle 23:00: Niebla (Bordadores, 14), il miglior cocktail bar, con terrazza; The Doctor Cocktail (Dr. Piñuela, 5), creativo e vicino alla piazza; e Vintage (Prior, 19), intimo, fino alle 4:00. Le discoteche di Bordadores, Van Dyck e Pío XII sono per gli studenti.'
 ---
 
-Se [Salamanca in un giorno](/it/guides/salamanca/salamanca-in-1-giorno) è la lista, il fine settimana è **viverla**: monumenti senza ansia, due buone sessioni di tapas, la pietra dorata al tramonto e la notte universitaria, che è metà dell'anima della città. Salamanca è troppo piccola per tre giorni e troppo densa per uno: due è la misura giusta. E a differenza di Toledo o Cuenca, che si spengono al calar del sole, qui la notte conta quanto il giorno.
+Se [Salamanca in un giorno](/it/guides/salamanca/salamanca-in-1-giorno) è la lista, il weekend serve a viverla. Ecco il programma.
 
-## Attività che puoi prenotare
+## Giorno 1 (sabato): i grandi monumenti e la notte
 
-| Attività | Valutazione | Da |
-| --- | --- | --- |
-| [Tour a piedi con guida locale nel centro storico](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4,8★ (364) | 17 € |
-| [Tour delle leggende al calar della sera](/en/cities/salamanca/activities/salamanca-legends-evening-walking-tour) | 4,7★ (90) | 17 € |
-| [Tour guidato in bicicletta](/en/cities/salamanca/activities/salamanca-guided-bike-tour) | 4,6★ (52) | 25 € |
-| [Masterclass sul prosciutto iberico con degustazione](/en/cities/salamanca/activities/iberian-ham-masterclass-tasting-salamanca) | 4,9★ (16) | 29 € |
-| [Ingresso alle cattedrali con audioguida](/it/cities/salamanca/activities/biglietto-cattedrali-salamanca-audioguida) | 4,6★ (202) | 10 € |
+**Mattina (10:00-14:00).** Colazione in una terrazza della Plaza Mayor e il percorso classico: **Casa de las Conchas** (gratis), **torri della Clerecía** (3,75 €, la vista migliore della città), **Università** (10 €; cerca la rana; dettagli in [come visitarla](/it/guides/salamanca/universita-di-salamanca-come-visitarla)) e le **due cattedrali** (10 €). Tre o quattro ore con calma; non saltare la Cattedrale Vecchia, più interessante della Nuova.
 
-## Quando andare, come arrivare e dove dormire
+**Pranzo.** **Bambú Tapas y Brasas** (calle del Prior, 4), l'unico Bib Gourmand della città: uovo d'anatra al tartufo, spiedino di maiale alla moresca e pastrami iberico. **Prenota con una settimana d'anticipo**; chiuso lunedì e martedì. Se non c'è posto, **Tapas 3.0** (Sánchez Barbero, 9), allo stesso livello.
 
-- **Il periodo migliore:** i fine settimana dell'anno accademico, da aprile a maggio e da ottobre a novembre; anche settembre (Ferias) e il Natale, con la Plaza Mayor illuminata e hotel più economici. **Evita** luglio e agosto (università chiusa, locali in ferie) e il Lunes de Aguas, a meno che tu non venga apposta per la festa.
-- **Come arrivare:** Avant o Alvia da Chamartín (1 h 30, 25-50 €; quelli del venerdì sera sono l'opzione migliore), in auto per la A-6 e la A-50 (2 h 15) o con l'autobus Avanza (2 h 30, 15-20 €).
-- **Dove dormire:** non risparmiare sulla posizione. Plaza Mayor per stare a 30 secondi da tutto (rumore fino alle 3:00 nel fine settimana); zona Università e Patio de Escuelas, hotel boutique con la facciata plateresca all'alba; zona Cattedrali, più tranquilla; Avenida Mirat, prezzi migliori a 10-15 minuti, ideale se arrivi in auto.
+**Pomeriggio.** Ritmo lento: **Casa Lis** (4 €; vetrate art nouveau sul fiume, gratis il giovedì dalle 11:00 alle 14:00) o **San Esteban** (4 €; chiostro plateresco), poi passeggiata senza meta tra Patio de Escuelas, Libreros e Anaya. Alle 19:30, il **Ponte Romano**: la pietra dorata al tramonto è uno dei grandi momenti di Spagna.
 
-## Sabato: i grandi monumenti e la notte
+**Sera.** Tapas al Tapas 3.0 (porri alla brace, morcilla e alcune delle migliori croquetas della città) o al **Bar La Viga** (Consuelo, 14; dal 1945, famoso per la guancia di maiale arrosto). Drink dalle 23:00 nella migliore scena notturna della Castiglia:
 
-**Mattina (10:00-14:00).** Colazione in un dehors della Plaza Mayor e il percorso classico: Casa de las Conchas (gratis), torri della Clerecía (3,75 €, la vista migliore sulla città), Università (10 €; cerca la rana; dettagli in [come visitarla](/it/guides/salamanca/universita-di-salamanca-come-visitarla)) e le due cattedrali (10 €). Tre o quattro ore con calma.
+- **Niebla** (Bordadores, 14): il miglior cocktail bar, con una terrazza splendida.
+- **The Doctor Cocktail** (Dr. Piñuela, 5): creativo, vicino alla piazza.
+- **Vintage** (Prior, 19): intimo, fino alle 4:00.
 
-**Pranzo.** **Bambú Tapas y Brasas** (calle del Prior, 4), l'unico Bib Gourmand della città: uovo d'anatra al tartufo, spiedino di maiale alla moresca e pastrami iberico; prenota con una settimana d'anticipo, chiuso lunedì e martedì. Se non c'è posto, **Tapas 3.0** (Sánchez Barbero, 9), dello stesso livello.
+Le discoteche di Bordadores, Van Dyck e Pío XII sono per gli studenti.
 
-**Pomeriggio.** Ritmo lento: **Casa Lis** (4 €; vetrate art nouveau sul fiume, gratis il giovedì dalle 11:00 alle 14:00) o **San Esteban** (4 €; chiostro plateresco), e passeggiare senza meta per il Patio de Escuelas, Libreros e Anaya. Alle 19:30, il **Ponte Romano**: la pietra dorata al tramonto è uno dei grandi momenti di Spagna.
+## Giorno 2 (domenica): quello che sfugge a chi viene un giorno solo
 
-**Sera.** Tapas al Tapas 3.0 (porri alla brace, morcilla e alcune delle migliori croquetas della città) o al **Bar La Viga** (Consuelo, 14; dal 1945, la jeta arrosto). Drink dalle 23:00 nella migliore scena notturna della Castiglia: **Niebla** (Bordadores, 14; il miglior cocktail bar e una terrazza splendida), **The Doctor Cocktail** (Dr. Piñuela, 5; creativo, vicino alla piazza) e **Vintage** (Prior, 19; intimo, fino alle 4:00). Le discoteche di Bordadores, Van Dyck e Pío XII, per gli studenti.
+**In città:** il **convento de las Dueñas** (chiostro mudéjar; controlla l'orario), la **Casa Museo Unamuno** (7 €), l'**Huerto de Calixto y Melibea** (giardino romantico sul Tormes, gratis) e il **Mercado Central** con i suoi bar. A pranzo, **chanfaina** a La Viga: lo stufato di riso con frattaglie servito solo la domenica.
 
-## Domenica: quello che sfugge al visitatore medio
+**Oppure un paese, uno solo:**
 
-**In città:** il convento de las Dueñas (chiostro mudéjar; verifica l'orario), la Casa Museo Unamuno (7 €), l'Huerto de Calixto y Melibea (giardino romantico sul Tormes, gratis) e il Mercado Central con i suoi bar. A mezzogiorno, **chanfaina** a La Viga: lo stufato di riso con frattaglie che si serve solo la domenica.
+- **Alba de Tormes** (20 km, mezza giornata): Santa Teresa.
+- **La Alberca e la Sierra de Francia** (75 km, giornata intera).
+- **Ciudad Rodrigo** (90 km, murata, giornata intera).
 
-**Oppure un paese, uno solo:** Alba de Tormes (20 km, mezza giornata, Santa Teresa), La Alberca e la Sierra de Francia (75 km, giornata intera) o Ciudad Rodrigo (90 km, cinta muraria, giornata intera). Tre in un giorno significano cinque ore di auto e niente visto.
+Tre in un giorno sono cinque ore d'auto e niente visto.
 
-**Pomeriggio:** quello che resta del sabato, oppure acquisti onesti tra Toro, Sierpes e la Rúa Mayor (prosciutto di Guijuelo in una salumeria seria, prodotti charros). L'ultimo Avant per Madrid parte verso le 20:30-21:00.
+**Pomeriggio:** ciò che manca del sabato, o shopping tra Toro, Sierpes e Rúa Mayor (prosciutto di Guijuelo in una salumeria seria, prodotti charros). L'ultimo Avant per Madrid parte verso le **20:30-21:00**.
 
-## Cosa non consigliamo
+## Salamanca in 2 giorni: quando andare, come arrivare e dove dormire
 
-- **Mangiare in Plaza Mayor:** caffè e birretta sì; per mangiare, Prior, Sánchez Barbero o Van Dyck.
-- **L'hornazo da chiosco:** compralo in panetteria (Hornazo Charra o il Mercado Central).
-- **I «menù degustazione di tapas castigliane con sangria»:** qui la sangria non la beve nessuno.
+- **Quando:** i fine settimana dell'anno accademico, **da aprile a maggio e da ottobre a novembre**; anche settembre (le Ferias) e Natale, con la Plaza Mayor illuminata e hotel più economici. **Evita luglio e agosto** (università chiusa, locali in ferie) e il Lunes de Aguas, a meno che tu non venga per la festa.
+- **Arrivare:** Avant o Alvia da Chamartín (**1 h 30, 25-50 €**; quelli del venerdì sera sono la scelta migliore), auto per la A-6 e la A-50 (2 h 15) o autobus Avanza (2 h 30, 15-20 €).
+- **Dormire:** non risparmiare sulla posizione.
+  - **Plaza Mayor:** a 30 secondi da tutto, rumore fino alle 3:00 nel weekend.
+  - **Università e Patio de Escuelas:** hotel boutique con la facciata plateresca all'alba.
+  - **Cattedrali:** più tranquilla.
+  - **Avenida Mirat:** prezzi migliori a 10-15 minuti; comoda se arrivi in auto.
 
-## Errori tipici
+## Dove mangiare bene (e cosa evitare)
 
-1. **Arrivare il sabato pomeriggio:** parti il venerdì sera o il sabato di prima mattina.
-2. **Non prenotare Bambú.**
-3. **Andare a letto alle 23:00:** ti perdi la vera città.
-4. **Tre paesi la domenica.**
-5. **Saltare la Catedral Vieja:** è più interessante della Nueva.
-6. **Pranzare alle 13:00:** i locali seri aprono alle 13:30-14:00.
+- **Non mangiare in Plaza Mayor:** caffè e birra sì; per mangiare, vai in Prior, Sánchez Barbero o Van Dyck.
+- **L'hornazo, in panetteria** (Hornazo Charra o il Mercado Central), non al chiosco.
+- **Evita i «menù degustazione di tapas castigliane con sangria»:** qui la sangria non la beve nessuno.
+- **Non andare a pranzo alle 13:00:** i locali seri aprono alle 13:30-14:00.
 
-## Eventi
+## Consigli e date da conoscere
 
-**Lunes de Aguas** (il lunedì successivo a quello di Pasquetta: hornazo in campagna e città piena), **FÀCYL** (giugno, arti sceniche in tutta la città), **Ferias** (settembre) e la **Plaza Mayor illuminata** a Natale.
+1. **Non arrivare il sabato pomeriggio:** viaggia il venerdì sera o il sabato presto.
+2. **Prenota Bambú** una settimana prima.
+3. **Non andare a letto alle 23:00:** ti perdi la vera città.
+4. **Un solo paese la domenica.**
 
-## In una frase
-
-Due giorni pieni, Bambú prenotato, un cocktail al Niebla con la pietra dorata di fronte e un paese la domenica: uno dei migliori weekend di Spagna. E non correre: Salamanca ricompensa chi si siede mezz'ora in Plaza Mayor a non fare niente.
+**Date:** il **Lunes de Aguas** (il lunedì dopo il Lunedì dell'Angelo: hornazo in campagna e città piena), **FÀCYL** (giugno, arti sceniche in tutta la città), le **Ferias** (settembre) e la **Plaza Mayor illuminata** a Natale.

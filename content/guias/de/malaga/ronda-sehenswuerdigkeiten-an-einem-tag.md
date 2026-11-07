@@ -5,7 +5,7 @@ metaTitle: 'Ronda Sehenswürdigkeiten an einem Tag'
 categoria: malaga
 slug: ronda-sehenswuerdigkeiten-an-einem-tag
 fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
@@ -28,78 +28,82 @@ slugs:
   it: cosa-vedere-a-ronda-in-un-giorno
   pt: o-que-ver-em-ronda-num-dia
 reservasArriba: true
-respuestaCorta: 'Komm vor 10:30 Uhr an, vor den Reisebussen. Beginn an der **Stierkampfarena** (**10 €**, 12 € mit Audioguide), geh über die **Puente Nuevo** in die Altstadt, hinunter durch die **Casa del Rey Moro** und weiter zu den **Arabischen Bädern** (**4,50 €**), und schau dir die Brücke zum Schluss **vom Grund der Schlucht** an, der Blick, für den sich die Fahrt lohnt. Ein Tag reicht.'
+intro: 'Die **Ronda Sehenswürdigkeiten** liegen fast alle am Rand einer **über 100 Meter tiefen Schlucht**, die den Ort in zwei Hälften teilt. Der **Puente Nuevo**, die Stierkampfarena der Real Maestranza, die Altstadt (La Ciudad), die Casa del Rey Moro mit ihrer Treppe hinunter zum Fluss und die Arabischen Bäder lassen sich gut an einem Tag sehen, ohne dort zu übernachten.'
+respuestaCorta: 'Ronda Sehenswürdigkeiten an einem Tag: vor 10:30 ankommen, vor den Reisebussen. Mit der **Stierkampfarena** beginnen (**10 €**, 12 € mit Audioguide), über den **Puente Nuevo** in die Altstadt, hinunter zur **Casa del Rey Moro** und zu den **Arabischen Bädern** (**4,50 €**) und zum Schluss die Brücke **von unten** ansehen. Ein Tag reicht.'
 actividades:
   - ronda-setenil-desde-malaga
   - ronda-excursion-privada-desde-malaga
   - ronda-tour-privado-puente-nuevo
   - caminito-del-rey-guiado-desde-malaga
 faq:
-  - pregunta: Lohnt sich ein Tagesausflug nach Ronda?
-    respuesta: 'Ja. Puente Nuevo, die Aussichtspunkte an der Schlucht, die Stierkampfarena, die Casa del Rey Moro und die Arabischen Bäder passen zwischen 10:00 und 18:00 Uhr. Übernachten musst du nur, wenn du die Stadt abends ruhig erleben willst, nachdem die Tagesausflügler weg sind.'
-  - pregunta: Was kostet die Stierkampfarena von Ronda?
-    respuesta: 'Laut der Real Maestranza 10 € Eintritt oder 12 € mit Audioguide. Täglich geöffnet: von November bis Februar 10:00 bis 18:00 Uhr, im März und Oktober bis 19:00 Uhr und von April bis September bis 20:00 Uhr.'
-  - pregunta: Wie kommt man zum Fuß der Puente Nuevo?
-    respuesta: 'Zu Fuß. Von der Plaza del Campillo in der Altstadt führt ein Weg hinunter Richtung Arco del Cristo und zu den Aussichtspunkten unter der Brücke. Rechne 15 bis 20 Minuten bergab und etwas mehr zurück, teils auf Erdwegen, also mit festen Schuhen.'
-  - pregunta: Wann sind die Arabischen Bäder in Ronda geöffnet?
-    respuesta: 'Von November bis Februar: dienstags bis freitags 9:30 bis 18:00 Uhr, montags und samstags 10:00 bis 14:00 und 15:00 bis 18:00 Uhr, sonntags und an Feiertagen 10:00 bis 15:00 Uhr. Der Eintritt kostet 4,50 €, Kinder unter 14 Jahren sind frei.'
-  - pregunta: Wie kommt man von Málaga oder Sevilla nach Ronda?
-    respuesta: 'Ab Málaga 1 Std. 30 bis 1 Std. 45 mit dem Auto und etwa 2 Stunden mit dem Bus; mit dem Zug musst du in Antequera-Santa Ana umsteigen, und es dauert länger. Ab Sevilla gibt es einen Direktbus, mit dem Auto sind es etwa 2 Stunden. Alle Optionen und Preise stehen in unserem Ratgeber zu Ronda ab Málaga.'
+- pregunta: Wie viel Zeit braucht man für Ronda?
+  respuesta: 'Ein ganzer Tag ist genau richtig: Puente Nuevo, Aussichtspunkte, Stierkampfarena, Casa del Rey Moro und Arabische Bäder passen zwischen 10:00 und 18:00. Ein halber Tag reicht für Brücke, Aussichtspunkte und einen Bummel durch die Altstadt, aber kaum für Besichtigungen innen.'
+- pregunta: Was kostet die Stierkampfarena in Ronda?
+  respuesta: 'Laut Website der Real Maestranza 10 € regulär und 12 € mit Audioguide. Täglich geöffnet: November bis Februar 10:00 bis 18:00, März und Oktober bis 19:00, April bis September bis 20:00.'
+- pregunta: Kann man hinuntergehen, um den Puente Nuevo von unten zu sehen?
+  respuesta: 'Ja, zu Fuß. Von der Plaza del Campillo in der Altstadt führt ein Weg zum Arco del Cristo und zu den Aussichtspunkten unter der Brücke. Rund 15-20 Minuten hinab und etwas länger zurück, mit Erdwegen: bequeme Schuhe nötig.'
+- pregunta: Wie sind die Öffnungszeiten der Arabischen Bäder in Ronda?
+  respuesta: November bis Februar dienstags bis freitags 9:30 bis 18:00, montags und samstags 10:00 bis 14:00 und 15:00 bis 18:00, sonn- und feiertags 10:00 bis 15:00. Eintritt 4,50 €; Kinder unter 14 gratis.
+- pregunta: Wie kommt man von Málaga oder Sevilla nach Ronda?
+  respuesta: Ab Málaga mit dem Auto 1 Std. 30 bis 1 Std. 45, mit dem Bus rund 2 Stunden. Mit dem Zug muss man in Antequera-Santa Ana umsteigen, das dauert länger. Ab Sevilla gibt es einen Direktbus, mit dem Auto sind es rund 2 Stunden.
 ---
 
-**Die Sehenswürdigkeiten von Ronda liegen fast alle am Rand einer Schlucht**, die die Stadt mehr als 100 Meter tief in zwei Hälften teilt. Als Tagesausflug funktioniert Ronda perfekt; übernachten musst du nur, wenn du die Gassen nach Einbruch der Dunkelheit für dich haben willst. Hier geht es darum, was du vor Ort machst und in welcher Reihenfolge. Anreise, Touren und Preise ab der Küste stehen in [Ronda ab Málaga](/en/guides/malaga/ronda-from-malaga).
+## Die Route Stunde für Stunde
 
-## Anreise in Kürze
-
-- **Ab Málaga:** 1 Std. 30 bis 1 Std. 45 mit dem Auto (etwa 100 km), rund 2 Stunden mit dem Bus. Mit dem Zug musst du in Antequera-Santa Ana umsteigen, das lohnt sich nicht.
-- **Ab Sevilla:** etwa 2 Stunden mit dem Auto; es gibt auch einen Direktbus.
-- **Mit dem Auto:** Park in einem der Parkhäuser im Mercadillo, dem neueren Stadtteil, und geh zu Fuß. Die Altstadt ist nicht für Autos gebaut.
-- **Ohne Auto:** Der [Tagesausflug Ronda und Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga) ab Málaga kostet ab 34 €; mit eigenem Zeitplan der [private Tagesausflug nach Ronda ab Málaga](/en/cities/malaga/activities/ronda-private-day-trip-from-malaga).
-
-## Route für einen Tag in Ronda
-
-| Uhrzeit | Was | Kosten |
+| Uhrzeit | Was | Preis |
 | --- | --- | --- |
 | 10:00 | Stierkampfarena der Real Maestranza | 10 € (12 € mit Audioguide) |
-| 11:00 | Alameda del Tajo und die Balkone an der Felskante | Gratis |
-| 11:30 | Puente Nuevo und Mirador de Aldehuela | Gratis |
+| 11:00 | Alameda del Tajo und Balkone über dem Abgrund | Gratis |
+| 11:30 | Puente Nuevo und Aussichtspunkt Aldehuela | Gratis |
 | 12:00 | Altstadt: Palacio de Mondragón und Santa María la Mayor | Santa María 4 € |
-| 13:00 | Casa del Rey Moro: Gärten und Wassermine | Bezahlung vor Ort |
+| 13:00 | Casa del Rey Moro: Gärten und „Mine" | An der Kasse |
 | 14:00 | Mittagessen | |
 | 15:30 | Puente Viejo, Puente Árabe und Arabische Bäder | 4,50 € |
-| 16:30 | Abstieg, um die Puente Nuevo von unten zu sehen | Gratis |
+| 16:30 | Abstieg, um den Puente Nuevo von unten zu sehen | Gratis |
 | 18:00 | Rückfahrt | |
+
+Komm **vor 10:30**: Zwischen 11:00 und 16:00 kommen die Reisebusse, und die Brücke ist voll.
 
 ## Die wichtigsten Sehenswürdigkeiten in Ronda
 
-**Die Puente Nuevo.** Die Brücke aus dem 18. Jahrhundert verbindet den Mercadillo mit der Altstadt, *La Ciudad*. Darüber zu gehen ist eher ernüchternd: Es dauert eine Minute, und die Brüstung verdeckt die Sicht. Die Ausblicke hast du von der Seite. Der **Mirador de Aldehuela**, neben der Brücke gegenüber dem Kloster Santo Domingo, blickt direkt in den Abgrund; die **Balkone der Alameda del Tajo** schauen über die Berge. In der Brücke selbst gibt es ein kleines Informationszentrum: ein nettes Extra, kein Grund für die Reise.
+**Der Puente Nuevo.** Er verbindet El Mercadillo (den neueren Teil) über die Schlucht mit der Altstadt. Von oben beeindruckt er weniger als erwartet: In einer Minute ist man drüben, und die Brüstung versperrt den Blick. Das Schöne liegt seitlich: Der **Aussichtspunkt Aldehuela** neben der Brücke, gegenüber dem Kloster Santo Domingo, zeigt den Absturz zum Fluss; die **Balkone der Alameda del Tajo** blicken auf die Berge. In der Brücke gibt es ein kleines Interpretationszentrum, ein Extra, kein Grund für den Besuch.
 
-**Die Stierkampfarena (1 Std.).** Ende des 18. Jahrhunderts gebaut und eine der ältesten Spaniens, mit Steinring und doppelten Arkaden. Auch wenn Stierkampf nichts für dich ist, lohnt sich das Gebäude, drinnen gibt es ein Museum. **10 € oder 12 € mit Audioguide** ([Real Maestranza](https://www.rmcr.org)); täglich ab 10:00 Uhr geöffnet. Wer sich die Stierkampfgeschichte Rondas erklären lassen will: Der [private Rundgang durch Stierkampfarena und Puente Nuevo](/en/cities/malaga/activities/ronda-private-walking-tour-puente-nuevo) dauert 2 Stunden und kostet 200 € für 1 oder 2 Personen.
+**Die Stierkampfarena der Real Maestranza (1 Std.).** Ende 18. Jahrhundert und eine der ältesten Spaniens, mit Steinarena und doppelten Arkaden. Auch wenn dich Stierkampf nicht interessiert, lohnt sich das Gebäude. Wer die Geschichte erzählt bekommen möchte: Es gibt eine 2-stündige private Führung durch Arena und Puente Nuevo (200 € für 1 oder 2 Personen).
 
-**La Ciudad, die Altstadt (1 Std.).** Über die Brücke, und der Lärm halbiert sich. Die zwei Besichtigungen sind der **Palacio de Mondragón**, heute Stadtmuseum, mit Mudéjar-Innenhöfen, und **Santa María la Mayor** (4 €), über der alten Moschee erbaut. Der Rest ist Schlendern: die Plaza Duquesa de Parcent und die Gassen hinunter zu den unteren Brücken.
+**Die Altstadt, La Ciudad (1 Std.).** Nach der Brücke halbiert sich der Lärm. Der **Palacio de Mondragón** (Stadtmuseum mit Mudéjar-Innenhöfen) und die Kirche **Santa María la Mayor** (4 €), über der früheren Moschee errichtet, sind die beiden Besuche. Der Rest ist Bummeln: die Plaza Duquesa de Parcent und die Gassen hinunter zu den Brücken.
 
-**Casa del Rey Moro (1 Std.).** Das Haus selbst ist noch geschlossen; besichtigen kannst du die **Gärten** und die **Wassermine**, eine Treppe mit rund 200 Stufen, in den Fels gehauen bis hinunter zum Fluss. Runter geht es leicht, rauf ist es Training. Täglich geöffnet, von Oktober bis April 10:00 bis 20:00 Uhr; laut Website gibt es Tickets nur vor Ort.
+**Die Casa del Rey Moro (1 Std.).** Der Palast ist weiterhin geschlossen; besichtigt werden die **Gärten** und die **„Mine"**, eine in den Fels gehauene Treppe mit rund 200 Stufen hinunter zum Fluss. Hinunter ist leicht, hinauf nicht.
 
-**Die Arabischen Bäder (30 Min.).** Unter den besterhaltenen Spaniens, unten an der Puente Árabe. **4,50 €**, gratis für Kinder unter 14 Jahren. Achte auf die Zeiten: Im Winter schließen sie sonntags um 15:00 Uhr, montags und samstags machen sie von 14:00 bis 15:00 Uhr Pause.
+**Die Arabischen Bäder (30 Min.).** Unter den besterhaltenen Spaniens, neben dem Puente Árabe im unteren Teil.
 
-**Die Puente Nuevo von unten.** Von der Plaza del Campillo führt ein Weg hinunter Richtung Arco del Cristo und zu den Aussichtspunkten am Grund der Schlucht. Das ist das Ronda, das du von Fotos kennst, und nur von hier siehst du es so. Wenn deine Beine mitmachen, ist das wichtiger als jedes Museum auf der Liste.
+**Der Puente Nuevo von unten.** Von der Plaza del Campillo führt ein Weg zum Arco del Cristo und zu den Aussichtspunkten am Grund der Schlucht: rund 15-20 Minuten hinab, etwas länger zurück, mit Erdwegen. Das ist das Bild von Ronda, das du kennst, und nur von hier aus zu sehen. Wichtiger als jedes Museum.
 
-**Mit Zeit übrig:** Setenil de las Bodegas, das Dorf unter dem Felsen, liegt etwa 20 Minuten mit dem Auto entfernt.
+**Wenn Zeit übrig ist:** Setenil de las Bodegas, das Dorf mit den Häusern unter dem Fels, liegt rund 20 Autominuten entfernt.
 
-## Wo essen
+## Stierkampfarena, Arabische Bäder und Casa del Rey Moro: Preise und Zeiten
 
-Die Küche in Ronda ist Bergküche, keine Küstenküche: **Ochsenschwanz** (*rabo de toro*), **Lamm**, Wurstwaren und **Weine aus der Serranía de Ronda**, die eigene Weingüter hat. Meide die Terrassen mit Brückenblick und Karte in fünf Sprachen: Du zahlst für die Aussicht und isst mittelmäßig. In den Straßen um die **Plaza del Socorro** und im Mercadillo gibt es Tapas-Bars mit einheimischen Gästen und normalen Preisen.
+- **Stierkampfarena:** **10 € oder 12 € mit Audioguide** (Website der Real Maestranza, rmcr.org). Täglich ab 10:00: bis 18:00 von November bis Februar, bis 19:00 im März und Oktober, bis 20:00 von April bis September.
+- **Arabische Bäder:** **4,50 €**, unter 14 gratis. November bis Februar dienstags bis freitags 9:30 bis 18:00; montags und samstags 10:00 bis 14:00 und 15:00 bis 18:00; **sonn- und feiertags 10:00 bis 15:00**.
+- **Casa del Rey Moro:** täglich geöffnet, von Oktober bis April 10:00 bis 20:00. Laut Website gibt es Tickets nur an der Kasse.
+- **Santa María la Mayor:** 4 €.
+
+## Anreise
+
+- **Ab Málaga:** 1 Std. 30 bis 1 Std. 45 mit dem Auto (rund 100 km); rund 2 Stunden mit dem Bus. Mit dem Zug muss man in Antequera-Santa Ana umsteigen, das lohnt sich nicht.
+- **Ab Sevilla:** rund 2 Stunden mit dem Auto; es gibt auch einen Direktbus.
+- **Mit dem Auto:** in einem der Parkhäuser im Mercadillo parken und vergessen. Die Altstadt ist nicht für Autos gemacht.
+- **Ohne Auto und ohne Fahrpläne:** der Gruppenausflug nach Ronda und Setenil ab 34 € oder ein privater Ausflug ab Málaga.
+
+## Essen
+
+Rondas Küche ist Bergküche, keine Küstenküche: **Ochsenschwanz (rabo de toro)**, **Lamm**, **Wurstwaren** und **Wein aus der Serranía de Ronda** mit eigenen Weingütern. Meide Terrassen mit Brückenblick und Speisekarte in fünf Sprachen: Du zahlst für die Aussicht, das Essen ist mittelmäßig. Rund um die **Plaza del Socorro** und in den Straßen des Mercadillo gibt es Tapasbars mit einheimischem Publikum und normalen Preisen.
 
 ## Typische Fehler
 
-1. **Mittags ankommen.** Die Reisebusse kommen zwischen 11:00 und 16:00 Uhr, dann ist die Brücke voll.
-2. **Oben bleiben.** Wer nicht in die Schlucht hinuntergegangen ist, hat die Puente Nuevo nicht wirklich gesehen.
-3. **Die Arabischen Bäder auf Sonntagnachmittag legen.** Sie schließen um 15:00 Uhr.
-4. **Mit Kinderwagen oder Flipflops kommen.** Steigungen, Stufen und Erdwege.
-5. **In die Altstadt fahren.** Enge Gassen, keine Parkplätze: Lass das Auto im Mercadillo.
+1. **Mittags ankommen.** Die Brücke ist voller Reisegruppen.
+2. **Oben bleiben.** Ohne den Abstieg in die Schlucht hast du den Puente Nuevo nicht gesehen.
+3. **Die Arabischen Bäder auf Sonntagnachmittag legen.** Sie schließen um 15:00.
+4. **Mit Kinderwagen oder Flip-Flops kommen.** Steigungen, Stufen und Erdwege.
+5. **Mit dem Auto in die Altstadt fahren.** Enge Gassen, kein Platz: im Mercadillo parken und zu Fuß hinüber.
 
-Du schwankst noch zwischen Ronda und einem anderen Ausflug? Vergleiche sie in [Ausflüge ab Málaga](/de/guides/malaga/ausfluege-ab-malaga).
-
-## In einem Satz
-
-Ronda an einem Tag heißt: morgens die Stierkampfarena, mittags die Altstadt und nachmittags die Puente Nuevo von unten. Komm früh, trag gute Schuhe und bleib nicht am Rand stehen.
+Wenn du zwischen Ronda und einem anderen Ausflug schwankst, vergleiche sie unter [Ausflüge ab Málaga](/de/guides/malaga/ausfluege-ab-malaga).

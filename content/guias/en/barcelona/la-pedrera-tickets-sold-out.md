@@ -4,7 +4,7 @@ descripcion: 'If the official La Pedrera (Casa Milà) website has no space: othe
 categoria: barcelona
 slug: la-pedrera-tickets-sold-out
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -26,7 +26,8 @@ slugs:
   it: la-pedrera-biglietti-esauriti
   pt: la-pedrera-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'If your time shows as sold out on **lapedrera.com**, check the other slots that day, the **Open Date** ticket (€45, no date or time, valid for 6 months), the **Sunrise** visit at 8:00 and the evening **Night Experience**. There is a box office, but some rates are **dearer than online**, so the safest options are a **resold timed ticket** (from €29) or a tour with entry included.'
+intro: 'Finding **La Pedrera tickets sold out** doesn''t mean missing **Casa Milà**, Gaudí''s house of undulating stone and wrought-iron balconies at Passeig de Gràcia 92. Inside you walk through the **courtyards, an apartment, the attic and the rooftop**, with a video guide in 11 languages. The visit takes about **an hour and a half**, and there are also sunrise and night visits with their own schedules.'
+respuestaCorta: 'With La Pedrera tickets sold out on **lapedrera.com**, check other time slots, the **Open Date** ticket (€45, no date or time, valid 6 months), the 8 AM **Sunrise** visit and the **Night Experience**. Some box-office prices are **higher**; the safest bet is a **resale ticket with a set time** (from €29) or a tour including entry.'
 actividades:
   - casa-mila-la-pedrera-entrada-audioguia
   - casa-mila-experiencia-nocturna-con-cava
@@ -35,13 +36,15 @@ actividades:
   - casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi
 faq:
 - pregunta: Can I buy La Pedrera tickets at the box office?
-  respuesta: 'Yes, but La Pedrera itself warns that some online rates cost more at the box office, and that buying online is cheaper and skips the queue. Discount coupons and cards, on the other hand, can only be used at the box office.'
+  respuesta: Yes, but La Pedrera itself warns that some online prices are higher at the box office, and that buying online costs less and skips the queue. Discount vouchers and cards, on the other hand, are only accepted at the box office.
 - pregunta: Can I change the date or cancel my ticket?
-  respuesta: 'Only if you add the flexibility insurance (€1.90 extra) when you buy: it allows a single change of date or time, requested before your visit by email to info@lapedrera.com. Without it, tickets can''t be changed or refunded.'
+  respuesta: 'Only if you add the flexibility insurance (€1.90 extra) when buying: it allows a single change of date or time, requested before the visit by email to info@lapedrera.com. Without it, tickets can''t be changed or refunded.'
 - pregunta: What happens if it rains on the day of my visit?
-  respuesta: 'If it rains, the rooftop is closed for safety. According to La Pedrera, you can then move your visit to another available date, as long as your ticket hasn''t been validated yet.'
+  respuesta: When it rains, the rooftop closes for safety. According to La Pedrera, you can then move your visit to another available date, as long as the ticket hasn't been validated yet.
 - pregunta: What can I see of La Pedrera without a ticket?
-  respuesta: 'The undulating stone façade and iron balconies, from Passeig de Gràcia 92, on the corner of Carrer de Provença. Further down the same avenue, about 10 minutes on foot, is Casa Batlló at number 43.'
+  respuesta: The undulating stone façade and iron balconies, from Passeig de Gràcia 92, on the corner of Carrer de Provença. About 10 minutes' walk down the same avenue is Casa Batlló, at number 43.
+- pregunta: How much is a ticket to La Pedrera?
+  respuesta: The general ticket (La Pedrera Esencial) costs €29 on the official website, with courtyards, apartment, attic and rooftop and a video guide. Children aged 0 to 11 go free and 12 to 17-year-olds pay €14.50. The Open Date ticket, with no date or time, costs €45, and Sunrise and the Night Experience cost €39.50.
 opciones:
   - ficha: casa-mila-la-pedrera-entrada-audioguia
     etiqueta: Cheapest
@@ -51,75 +54,59 @@ opciones:
     etiqueta: With a guide
 ---
 
-La Pedrera sells its tickets **online by date and time**, and the official site advertises savings of **up to 25%** if you book ahead. On Spanish bank holidays, at Easter and in summer the mid-morning slots fill up fast. A sold-out slot doesn't mean you miss Casa Milà: there are several ticket types with their own hours, a ticket with no date, and early-morning and night visits. These are the routes left, in the order worth trying them.
+## What you'll see at La Pedrera
 
-## Which ticket should you choose?
+The general visit covers:
 
-| If you want… | Option | From |
-| --- | --- | --- |
-| A timed ticket, no guide | [Casa Milà (La Pedrera): skip-the-line ticket with audio guide](/en/cities/barcelona/activities/casa-mila-la-pedrera-audio-ticket), 4.7★ (18,195) | €29 |
-| A night visit with a show and cava | [Casa Milà: night experience with show and cava](/en/cities/barcelona/activities/casa-mila-night-experience-cava), 4.4★ (4,913) | €39.50 |
-| To get in before everyone else, with a guide | [Casa Milà: early-access guided tour](/en/cities/barcelona/activities/casa-mila-early-morning-access-guided-tour), 4.8★ (220) | €39.50 |
-| Three Gaudí houses with a guide | [Casa Vicens, Casa Milà and Casa Batlló: guided tour](/en/cities/barcelona/activities/casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour), 4.6★ (331) | €119 |
-| A guide just for your group | [La Pedrera and Casa Vicens: private tour](/en/cities/barcelona/activities/gaudi-houses-pedrera-casa-vicens-private-tour) | €156 |
+- **The inner courtyards.**
+- **The apartment**, one of the building's homes.
+- **The attic.**
+- **The rooftop**, which closes for safety when it rains.
 
-## 1. The official website: other times and other ticket types
+It includes a **video guide in 11 languages** and takes about **an hour and a half**.
 
-Official sales are on `lapedrera.com`, which takes you to `tickets.lapedrera.com`. The general ticket (**La Pedrera Esencial**) costs **€29** and covers the courtyards, the apartment, the attic and the rooftop with a video guide in 11 languages; the visit takes about **an hour and a half**. Children aged 0 to 11 go free and 12 to 17-year-olds pay €14.50. If your time shows as sold out:
+## Prices and opening hours
 
-- **Go through every slot that day:** until 1 November La Pedrera opens **9:00 to 20:30**; from 2 November, **9:00 to 18:30**. The afternoon usually has more space than mid-morning.
-- **Look at La Pedrera Sunset:** the same visit at dusk, 17:30 to 20:30, from **€25**. The official site offers it until **1 November**.
-- **Try the Open Date ticket:** it costs **€45**, doesn't tie you to a date or time and gives you **6 months** to use it, within daytime opening hours. It's the dearest option, but it doesn't depend on a particular slot.
-- **Move your day if you can:** with the advance-booking discount, another date may also work out cheaper.
+Official sales are on lapedrera.com, which takes you to tickets.lapedrera.com, and it advertises **savings of up to 25%** for booking ahead.
 
-Before paying, consider the **flexibility insurance** (€1.90): without it, tickets can't be changed or refunded. And note the closures: La Pedrera is closed on **25 December** and from **11 to 17 January 2027**.
+- **La Pedrera Esencial (general):** **€29**. Children aged 0 to 11, free; 12 to 17, €14.50.
+- **Open Date:** **€45**, no date or time and valid for **6 months**, always within daytime hours.
+- **Sunrise** (early guided visit) and **Night Experience**: **€39.50** each.
+- **Flexibility insurance:** €1.90. Without it, tickets can't be changed or refunded.
 
-## 2. Early morning or at night
+**Hours:** until 1 November, **9 AM to 8:30 PM**; from 2 November, **9 AM to 6:30 PM**. Closed on **25 December** and from **11 to 17 January 2027**.
 
-If the day is full, try either end of it:
+## Casa Milà sold out: what to do
 
-- **La Pedrera Sunrise:** a guided group visit from **8:00 to 9:00**, before the general public, covering the courtyards, apartment, attic and rooftop. It costs **€39.50** and is guided in English or Chinese.
-- **La Pedrera Night Experience:** a guided night visit lasting **1 hour 20 minutes**, with a videomapping show on the rooftop and a glass of cava, for **€39.50**. Sessions run from **20:40 to 22:20** until 1 November and from **19:00 to 23:00** from 2 November. Guides speak Catalan, Spanish, English and Chinese.
+On long weekends, at Easter and in summer the middle of the day fills up fast. If your slot is sold out, try in this order:
 
-[actividad: casa-mila-experiencia-nocturna-con-cava]
+1. **Check every time slot that day.** There's usually more space in the afternoon than mid-morning.
+2. **Look at La Pedrera Sunset:** the same visit at dusk, from 5:30 to 8:30 PM, from **€25**. The official site offers it until 1 November.
+3. **Buy the Open Date ticket:** the most expensive, but it doesn't depend on a specific slot.
+4. **Change day if you can:** with the advance discount, another date may also be cheaper.
+5. **Go for a resale ticket or a tour with entry included.** Authorised resellers often have space because they buy allocations in advance; you usually pay a little more. There's a timed ticket with audio guide from €29, an early-access guided tour from €39.50, the three Gaudí houses tour (Casa Vicens, Casa Milà and Casa Batlló) from €119 and a private tour of La Pedrera and Casa Vicens from €156.
 
-## 3. The box office
-
-La Pedrera has a box office in the building, but the official site warns that **some rates cost more there** than online, and that booking online saves you the queue. It's useful if there's still space in a slot that day, not as a plan for a sold-out day. The one advantage of the box office: **discount coupons and cards** can only be used there.
-
-## 4. A resold ticket or a tour with entry included
-
-When the official site has nothing left, licensed resellers usually still have places because they buy their allocations ahead. You normally pay a bit more than on the official site:
-
-- **Timed ticket with audio guide (from €29):** the simplest way in if you just want to see the house.
-- **Early-access guided tour (from €39.50):** you go in before general opening, with fewer people on the rooftop.
-- **Three Gaudí houses tour (from €119):** Casa Vicens, Casa Milà and Casa Batlló with a guide; handy if you haven't sorted Casa Batlló either.
-- **Private tour of La Pedrera and Casa Vicens (from €156):** the option for a group or if you want a guide just for yourselves.
-
-Before paying, check that the listing says **"La Pedrera entry included"** and shows an entry time. Some Modernisme walks only look at the façades.
+Before paying, check that it says **"La Pedrera entry included"** and the entry time: some modernisme walks only see the façades.
 
 [actividad: casa-mila-la-pedrera-entrada-audioguia]
 
-[actividad: casa-mila-tour-guiado-acceso-temprano]
+## La Pedrera last-minute tickets: sunrise or night
 
-[actividad: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi]
+If the day is full, try the extremes:
 
-## 5. What you can see without a ticket
+- **La Pedrera Sunrise:** a group guided visit from **8 to 9 AM**, before the general public, with courtyards, apartment, attic and rooftop. **€39.50**; the guide speaks English or Chinese.
+- **La Pedrera Night Experience:** a **1 hour 20 minute** guided night visit with video mapping on the rooftop and a glass of cava, for **€39.50**. Sessions run from **8:40 to 10:20 PM** until 1 November and from **7 to 11 PM** from 2 November. Guides in Catalan, Spanish, English and Chinese.
 
-If you get nothing, Passeig de Gràcia still has plenty:
+## La Pedrera same-day tickets at the box office
 
-- The **La Pedrera façade** at number 92, on the corner of Carrer de Provença: the undulating stone and wrought-iron balconies are best seen from the opposite pavement.
-- **Casa Batlló** and the rest of the **Block of Discord** (Casa Amatller and Casa Lleó Morera), further down the same avenue, about 10 minutes on foot.
+La Pedrera has a box office in the building, but the official site warns that **some prices are higher there** than online, and that buying online skips the queue. It's useful if a slot that day still has space, not as a plan for a sold-out day. Its only advantage: **discount vouchers and cards** are only accepted at the box office.
 
-[actividad: casas-gaudi-pedrera-casa-vicens-tour-privado]
+## Tips and what to see without a ticket
 
-## Mistakes to avoid
+- **Buy only on the official website** (lapedrera.com, with sales on tickets.lapedrera.com): copycat sites overcharge and don't always issue a valid ticket.
+- **Add the flexibility insurance** if your plans might change.
+- **If it rains**, the rooftop closes; if you haven't validated your ticket yet, you can move the visit to another date.
+- **Don't mix up the formats:** Sunrise and Night Experience are guided visits at fixed times; the Open Date has no time slot but costs €16 more than the general ticket.
+- **Casa Milà with no tickets:** the undulating stone façade and wrought-iron balconies are best seen from the opposite pavement, on the corner of Carrer de Provença. About 10 minutes' walk down Passeig de Gràcia are **Casa Batlló** and the rest of the **Block of Discord** (Casa Amatller and Casa Lleó Morera).
 
-1. **Buying from sites that look like the official one.** They overcharge and don't always deliver a valid ticket. The official site is `lapedrera.com`, with sales on `tickets.lapedrera.com`.
-2. **Skipping the flexibility insurance if your plans might change.** Without it there are no changes or refunds.
-3. **Counting on the rooftop if it rains.** It closes for safety; if you haven't validated your ticket yet, you can move your visit to another date.
-4. **Mixing up the ticket types.** Sunrise and the Night Experience are guided visits at fixed times; Open Date has no time slot, but costs €16 more than the general ticket.
-
-## In one sentence
-
-If your time is sold out on the official site, try another slot, Open Date, Sunrise or the Night Experience; if there's nothing left, book a resold timed ticket or a tour that includes entry. And if you're planning a Gaudí route, see also [what to do if Casa Batlló tickets are sold out](/en/guides/barcelona/casa-batllo-tickets-sold-out), [what to do if Sagrada Família tickets are sold out](/en/guides/barcelona/sagrada-familia-tickets-sold-out) and [Barcelona in 1 day](/en/guides/barcelona/barcelona-in-1-day).
+If you're planning a Gaudí route, see also [what to do if Casa Batlló tickets sell out](/en/guides/barcelona/casa-batllo-tickets-sold-out), [and the Sagrada Família](/en/guides/barcelona/sagrada-familia-tickets-sold-out), and [Barcelona in 1 day](/en/guides/barcelona/barcelona-in-1-day).

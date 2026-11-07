@@ -1,11 +1,12 @@
 ---
 titulo: "Malaga con bambini: spiaggia, castelli e attività in famiglia"
 descripcion: "Guida di Malaga con bambini: spiagge, Alcazaba, Bioparc Fuengirola, funivia di Benalmádena e musei interattivi. Attività per età, dove mangiare e cosa evitare."
-respuestaCorta: 'Con i bambini, Malaga funziona alternando piccole dosi di storia con spiaggia e animali: la **spiaggia della Malagueta**, a due passi dal centro, l''**Alcazaba** (gratis per tutti la domenica dalle 14:00), il **Bioparc Fuengirola** (45 minuti in Cercanías; 23 € dai 3 ai 9 anni) e la **funivia di Benalmádena**. L''ideale è la primavera o l''autunno; d''estate, evita il centro dalle 14:00 alle 18:00.'
+intro: '**Malaga con bambini** è una delle mete familiari più comode di Spagna: clima mite quasi tutto l''anno, una spiaggia urbana a due passi dal centro e una fortezza araba sormontata da un castello dove giocare agli esploratori. A meno di un''ora di treno ci sono il **Bioparc Fuengirola** e la **funivia di Benalmádena**, due delle migliori attività per famiglie della Costa del Sol, e in città non mancano musei interattivi per i giorni di riposo.'
+respuestaCorta: 'Malaga con bambini funziona alternando brevi dosi di storia con spiaggia e animali: la **spiaggia della Malagueta**, a due passi dal centro; l''**Alcazaba** (gratis la domenica dalle 14:00); il **Bioparc Fuengirola** (45 minuti in treno locale; 23 € dai 3 ai 9 anni) e la **funivia di Benalmádena**. In estate evita il centro dalle 14:00 alle 18:00.'
 categoria: "malaga"
 slug: "malaga-con-bambini"
 fecha: "2026-04-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
@@ -33,77 +34,63 @@ actividades:
   - teleferico-benalmadena-billete
 imagen_portada: "/images/guias/malaga-con-ninos.jpg"
 imagen_alt: "Lemuri al Bioparc Fuengirola"
+faq:
+- pregunta: Cosa fare a Malaga con bambini?
+  respuesta: Spiaggia alla Malagueta, a Pedregalejo o a El Palo; esplorare l'Alcazaba e il castello di Gibralfaro; mezza giornata al Bioparc Fuengirola; la funivia di Benalmádena; e musei come il Museo Alborania, Principia o il Museo del Videogioco OXO dai 5-6 anni.
+- pregunta: Quanto costa il Bioparc Fuengirola e come si arriva?
+  respuesta: 29,50 € per gli adulti e 23 € per i bambini dai 3 ai 9 anni (2026); gratis sotto i 3 anni. Si prende il treno locale C-1 da María Zambrano o Centro-Alameda fino a Fuengirola (45 minuti, 3,60 €) e poi 10 minuti a piedi.
+- pregunta: Quando è gratis l'Alcazaba?
+  respuesta: La domenica dalle 14:00, per tutti. Gli altri giorni il biglietto combinato Alcazaba e Gibralfaro costa 10 € (7 € ciascun monumento separatamente).
+- pregunta: I bambini possono fare il Caminito del Rey?
+  respuesta: 'Non sotto gli 8 anni: non sono ammessi. Da quell''età è una bella giornata per le famiglie con figli più grandi.'
+- pregunta: Qual è il periodo migliore per Malaga con bambini?
+  respuesta: 'Da marzo a giugno e a settembre-ottobre: bel tempo e acqua piacevole. L''inverno è molto mite. A luglio e agosto la spiaggia è perfetta, ma il centro a mezzogiorno sfinisce i più piccoli.'
 ---
 
-**Malaga è una destinazione molto comoda per viaggiare con i bambini.** Ha un clima mite quasi tutto l'anno, una spiaggia urbana a due passi dal centro, castelli in cui giocare agli esploratori e, a poca distanza, alcune delle migliori attività per famiglie della Costa del Sol. Questa guida raccoglie ciò che funziona davvero con i piccoli, senza saturare la giornata di musei.
+## Cosa fare a Malaga con bambini
 
-## Attività con bambini che puoi prenotare
+Il segreto è alternare: **una mattina di castello o centro storico a piccole dosi e un pomeriggio di spiaggia o animali**. Così Malaga rende senza stress.
 
-| Attività | Valutazione | Da |
-| --- | --- | --- |
-| [Catamarano nella baia](/it/cities/malaga/activities/malaga-giro-in-catamarano-al-tramonto) | 4,4★ (10.537) | 13 € |
-| [Grotte di Nerja e Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) | 4,6★ (3.192) | 69 € |
-| [Alcazaba e Teatro Romano con guida](/it/cities/malaga/activities/malaga-visita-guidata-alcazaba-teatro-romano) | 4,7★ (7.412) | 13 € |
-| [Caminito del Rey (dagli 8 anni)](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4,9★ (19.083) | 72 € |
+- **Spiagge.** La **Malagueta** è a due passi dal centro; **Pedregalejo** ed **El Palo** sono più tranquille, con meno onde e chioschi che grigliano gli espetos (spiedini di sardine). Sabbia, lungomare e bagno: l'attività regina.
+- **Alcazaba e Gibralfaro.** I bambini adorano esplorare la **fortezza** e salire al **castello** lungo le mura. Presentalo come un'avventura da esploratori; se fa caldo c'è un ascensore per l'Alcazaba.
+- **Musei per i piccoli.** Il **Museo Alborania** (mare e barche), **Principia** (scienza interattiva) e il **Museo del Videogioco OXO** funzionano benissimo dai 5-6 anni.
 
-La chiave è alternare: una mattina di castello o centro storico a piccole dosi e un pomeriggio di spiaggia o animali. Così Malaga rende senza stress.
+## Bioparc Fuengirola
 
-## Quando venire con i bambini
+Uno zoo immersivo senza recinzioni visibili (gorilla, tigri, Madagascar), tra i migliori di Spagna. Calcola **mezza giornata**.
 
-| Periodo | Verdetto | Perché |
-| --- | --- | --- |
-| Da marzo a giugno | Ideale | Bel tempo, spiaggia che si scalda |
-| Settembre e ottobre | Ideale | Acqua ancora calda, meno gente |
-| Inverno | Molto piacevole | Uno dei climi urbani più miti di Spagna |
-| Luglio e agosto | Caldo | Spiaggia sì; il centro a mezzogiorno stanca i piccoli |
+- **Prezzo:** 29,50 € adulti e **23 € bambini dai 3 ai 9 anni** (2026); gratis sotto i 3 anni.
+- **Come arrivare:** treno locale C-1 da María Zambrano o Centro-Alameda fino a Fuengirola (**45 minuti, 3,60 €**) e 10 minuti a piedi.
+- **Orari:** apre alle 10:00 tutto l'anno. A luglio e agosto chiude alle 23:00, quindi la visita serale evita il caldo.
+- Nei ponti e in estate si riempie: compra prima.
 
-## Le attività che funzionano
+## Funivia di Benalmádena
 
-**Spiagge.** La **Malagueta** è a due passi dal centro; **Pedregalejo** ed **El Palo**, più tranquille e con chiringuitos di espetos. Sabbia, passeggiata e bagno: l'attività regina.
+Sale sul monte Calamorro con viste spettacolari e, in cima, **esibizioni di rapaci** a orari fissi (controllali quando acquisti).
 
-**Alcazaba e Gibralfaro.** Ai bambini piace tantissimo esplorare la **fortezza** e salire al **castello** lungo le mura. Proponila come un'avventura da esploratori; c'è un ascensore per l'Alcazaba se il caldo si fa sentire.
+- **Prezzo:** andata e ritorno da **12,90 € adulti e 9,90 € bambini** online; in biglietteria 4-5 € in più.
+- **Come arrivare:** treno locale fino ad Arroyo de la Miel e 10 minuti a piedi.
 
-**Bioparc Fuengirola.** A 30 minuti di treno locale, uno zoo immersivo senza gabbie visibili (gorilla, tigri, Madagascar) che è tra i migliori di Spagna. Mezza giornata.
+## Prezzi, orari e trasporti in famiglia
 
-**Funivia di Benalmádena.** A 20 minuti, sale sul monte Calamorro con una vista spettacolare ed esibizioni di rapaci in cima. Molto fotogenica.
+- **Alcazaba e Gibralfaro:** biglietto combinato **10 €** (7 € ciascuno separatamente; ridotto 5 € e 3 €) e **gratis per tutti la domenica dalle 14:00**. Al castello di Gibralfaro sale l'**autobus 35** dall'Alameda (ogni 45 minuti); scendere a piedi dal paseo de Don Juan Temboury richiede 20 piacevoli minuti con vista.
+- **Spiagge:** la Malagueta ha bagnini, docce, area bimbi e chioschi. L'acqua è a 18 °C a maggio e a 24 °C ad agosto.
+- **Spostarsi:** il centro è pedonale e pianeggiante, ottimo per i passeggini. L'autobus EMT costa 1,40 € e i bambini sotto i 4 anni non pagano. Il treno locale raggiunge l'aeroporto in 12 minuti.
 
-**Musei per i piccoli.** Il **Museo Alborania** (mare e barche), **Principia** (scienza interattiva) e l'**OXO Museo del Videogioco** funzionano molto bene dai 5-6 anni.
+**Quando venire:** da marzo a giugno e a settembre-ottobre è l'ideale (bel tempo, acqua piacevole e meno gente in autunno). L'inverno è tra i più miti di Spagna. A luglio e agosto spiaggia sì, ma **dalle 14:00 alle 18:00 il centro è un forno** per i piccoli: spiaggia o museo a quelle ore.
 
-## Informazioni pratiche: prezzi, trasporti e orari
+## Malaga in famiglia: un fine settimana
 
-- **Alcazaba e Gibralfaro:** biglietto cumulativo 10 € (7 € ciascuno separatamente; ridotto 5 € e 3 €) e **gratis per tutti la domenica dalle 14:00**. Al castello di Gibralfaro sale l'**autobus 35** dalla Alameda (ogni 45 minuti); scendere a piedi per il paseo de Don Juan Temboury sono 20 minuti piacevoli con vista.
-- **Bioparc Fuengirola:** 29,50 € adulti e 23 € bambini dai 3 ai 9 anni (2026); sotto i 3 anni, gratis. Cercanías C-1 da María Zambrano o Centro-Alameda fino a Fuengirola (45 minuti, 3,60 €) e 10 minuti a piedi. Apre alle 10:00 tutto l'anno; a luglio e agosto chiude alle 23:00, quindi la visita serale evita il caldo.
-- **Funivia di Benalmádena:** andata e ritorno da 12,90 € adulti e 9,90 € bambini online, 4-5 € in più in biglietteria; Cercanías fino ad Arroyo de la Miel e 10 minuti a piedi. Le esibizioni di rapaci sono a orari fissi (controllali all'acquisto).
-- **Spiagge:** La Malagueta ha bagnino, docce, area bambini e chiringuitos; l'acqua è a 18 °C a maggio e a 24 °C ad agosto. Pedregalejo è più tranquilla e con meno onde per i piccoli.
-- **Spostarsi:** il centro è pedonale e pianeggiante, adatto ai passeggini. Gli autobus EMT costano 1,40 € e i bambini sotto i 4 anni non pagano. C'è un Cercanías per l'aeroporto in 12 minuti.
-- **Farmacie e caldo:** quelle di turno sono indicate su ogni farmacia; d'estate, dalle 14:00 alle 18:00 il centro è un forno per i bambini piccoli. Spiaggia o museo a quell'ora.
+- **Giorno 1.** Mattina all'Alcazaba e a Gibralfaro; pomeriggio alla spiaggia della Malagueta.
+- **Giorno 2.** Mattina al Bioparc Fuengirola; pomeriggio a Pedregalejo con gli espetos.
+- **Giorno extra.** Funivia di Benalmádena o un museo interattivo.
 
-## Itinerario di un fine settimana in famiglia
+**Dove mangiare:** i **chiringuitos** (chioschi sulla spiaggia) di Pedregalejo ed El Palo sono ideali: spazio, spiedini di sardine e frittura di pesce che piace ai bambini. In centro, il **Mercato di Atarazanas** per uno spuntino e le taverne di calle Carretería. Evita le terrazze turistiche davanti alla Cattedrale.
 
-| Giorno | Programma |
-| --- | --- |
-| Giorno 1 | Mattina: Alcazaba e Gibralfaro · Pomeriggio: spiaggia della Malagueta |
-| Giorno 2 | Mattina: Bioparc Fuengirola · Pomeriggio: Pedregalejo ed espetos |
-| Giorno extra | Funivia di Benalmádena o museo interattivo |
+## Consigli ed errori tipici
 
-## Dove mangiare con i bambini
-
-I **chiringuitos** di Pedregalejo ed El Palo sono ideali: spazio, espetos di sardine e pesce fritto che piace ai piccoli. In centro, il **Mercado de Atarazanas** per spiluccare e le taverne di Carretería. Evita i dehors turistici di fronte alla Cattedrale.
-
-## Cosa NON consigliamo con i bambini
-
-1. **Portare i bimbi piccoli al Caminito del Rey.** Non è consentito sotto gli 8 anni; è sul bordo del precipizio. Lo raccontiamo in [come visitare il Caminito del Rey](/it/guides/malaga/caminito-del-rey-come-visitarlo).
-2. **Concatenare musei d'arte.** Il Picasso o il Pompidou stancano i piccoli; a piccole dosi.
-3. **Salire a Gibralfaro a piedi a mezzogiorno d'estate.** Salita senza ombra; usa il bus 35.
-
-## Errori tipici
-
-> **Attenzione:** gli sbagli che vediamo più spesso in famiglia.
-
-1. **Non prenotare il Bioparc nei ponti e d'estate.** Si riempie.
-2. **Dimenticare cappellino, acqua e crema.** Il sole della Costa del Sol non perdona.
-3. **Contare su Tívoli World.** Il parco di Benalmádena è chiuso da anni; non includerlo.
-
-## In una frase
-
-Malaga con i bambini è spiaggia a due passi dal centro, castelli da esplorare e il Bioparc o la funivia a portata di mano: clima gentile e attività che stancano più per il divertimento che per il camminare. Per i più grandi, aggiungi una giornata al [Caminito del Rey](/it/guides/malaga/caminito-del-rey-come-visitarlo).
+- **Caminito del Rey solo dagli 8 anni.** I più piccoli non sono ammessi e il percorso corre sul bordo del precipizio. Per i più grandi, leggi [come visitare il Caminito del Rey](/it/guides/malaga/caminito-del-rey-come-visitarlo).
+- **Non concatenare musei d'arte.** Il Picasso o il Pompidou stancano i piccoli; meglio a piccole dosi.
+- **Non salire a piedi a Gibralfaro a mezzogiorno in estate:** la salita non ha ombra. Prendi il bus 35.
+- **Cappellino, acqua e crema solare** sempre: il sole della Costa del Sol non perdona.
+- **Non contare su Tívoli World:** il parco di Benalmádena è chiuso da anni.

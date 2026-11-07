@@ -4,7 +4,7 @@ descripcion: 'If your Museu Picasso time is sold out or you can''t get a free sl
 categoria: barcelona
 slug: picasso-museum-barcelona-tickets-sold-out
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
@@ -26,19 +26,22 @@ slugs:
   it: museo-picasso-barcellona-biglietti-esauriti
   pt: museu-picasso-barcelona-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'The Museu Picasso has limited capacity and the **free** slots go fast, but paid tickets rarely sell out for a whole day. Check other times on the official site `museupicassobcn.cat` (**€12** online, €13 at the box office) or try the **box office on Carrer de Montcada**. If you don''t want to risk it, a **skip-the-line guided tour** (from €37) guarantees your entry.'
+intro: 'Finding **Picasso Museum Barcelona tickets sold out** doesn''t have to mean missing the museum. The Museu Picasso fills **five medieval palaces on Carrer Montcada**, in El Born, and its collection traces the painter''s development, from his **formative years in Barcelona** to his series on ***Las Meninas***. Capacity is limited, so on long weekends, at weekends and in summer it pays to know what alternatives are left.'
+respuestaCorta: 'With Picasso Museum Barcelona tickets sold out, check other times on **museupicassobcn.cat** (**€12** online, €13 at the box office) or try the **Carrer Montcada box office**: paid tickets rarely sell out all day; **free** slots go fast. To be sure, a **skip-the-line guided tour** (from €37) includes entry.'
 actividades:
   - museo-picasso-tour-guiado-sin-colas
   - museo-picasso-tour-guiado-tours-for-today
 faq:
 - pregunta: Can I buy Picasso Museum tickets at the box office on the day?
-  respuesta: 'Yes. The museum sells tickets at its box office on Carrer de Montcada for €13, one euro more than online, and the box office closes 30 minutes before the museum does. Capacity is limited, so on busy days there may be nothing left: buy online if you already know which day you''re going.'
+  respuesta: 'Yes. The museum sells tickets at its box offices on Carrer Montcada for €13, one euro more than online, and the box office closes 30 minutes before closing time. As capacity is limited, on busy days there may be no space: buy online if you already know which day you''re going.'
+- pregunta: How much is a ticket to the Picasso Museum in Barcelona?
+  respuesta: The general ticket to the collection costs €12 online and €13 at the box office; the reduced ticket is €7 (ages 18 to 25, university students, over-65s and the unemployed, with ID). Under-18s go free.
 - pregunta: When is the Picasso Museum in Barcelona free?
-  respuesta: 'On Thursdays from 16:00 to 19:00, on the first Sunday of every month and on the open days of 12 February, 17 May and 24 September. You always have to book on the official site; bookings open four days ahead, at 10:00. Under-18s get in free at any time.'
+  respuesta: On Thursdays from 4 to 7 PM, on the first Sunday of every month and on the open days of 12 February, 17 May and 24 September. In every case you must book on the official website; bookings open four days before, at 10 AM. Under-18s always go free.
 - pregunta: Can I change or refund my Picasso Museum ticket?
-  respuesta: 'The museum''s access rules say a ticket is only valid for the date and time printed on it and that unused tickets are not refunded. If your plans aren''t fixed, check the cancellation terms of the guided tours before booking.'
-- pregunta: Is a guided tour reliable if the official site has no slots left?
-  respuesta: Yes, as long as the listing says entry to the museum is included. Operators book their places in advance and you go in with the group at a fixed time, without the box office.
+  respuesta: The museum's access rules say the ticket is only valid for the date and time on it and that unused tickets are not refunded. If you're unsure of your plans, check the cancellation terms of the guided tours before booking.
+- pregunta: Is a guided tour reliable if the official website has no space?
+  respuesta: Yes, as long as the tour page says museum entry is included. Operators book their places in advance and you go in with the group at a set time, without going through the box office.
 opciones:
   - ficha: museo-picasso-tour-guiado-sin-colas
     etiqueta: Most reviewed
@@ -46,64 +49,45 @@ opciones:
     etiqueta: Top rated
 ---
 
-The Museu Picasso fills five medieval palaces on Carrer de Montcada and has **limited capacity**. So on bank holiday weekends, regular weekends and in summer, the time you wanted can sell out, and the free Thursday and first-Sunday slots are gone as soon as bookings open. Neither means you miss the museum. These are the routes, in the order worth trying them.
+## What you'll see
 
-## Which ticket should you choose?
+- **The permanent collection**, which follows Picasso's development from his formative years in Barcelona to *Las Meninas*.
+- **The Carrer Montcada palaces**: the museum occupies five medieval palaces with Gothic courtyards.
+- **Temporary exhibitions:** from **20 November 2026 to 7 March 2027** you can see *Picasso and Architecture*. If that's why you're going, check what your ticket includes.
 
-| If you want… | Option | From |
-| --- | --- | --- |
-| The most reviewed | [Picasso Museum skip-the-line guided tour](/en/cities/barcelona/activities/picasso-museum-skip-the-line-guided-tour), 4.5★ (3,552) | €37 |
-| The top rated | [Picasso Museum skip-the-line guided tour with Tours For Today](/en/cities/barcelona/activities/picasso-museum-tours-for-today-skip-the-line-guided-tour), 4.6★ (158) | €39 |
+## Prices and opening hours
 
-## 1. Check the official website again
+The official website is museupicassobcn.cat.
 
-The official site is `museupicassobcn.cat`. General admission to the collection is **€12 online** and **€13 at the box office**; reduced is **€7** (ages 18 to 25, university students, over-65s and unemployed visitors, with proof). **Under-18s get in free**, and under-14s must be with an adult.
+- **General:** **€12 online** and **€13 at the box office**.
+- **Reduced:** **€7**, ages 18 to 25, university students, over-65s and the unemployed, with ID.
+- **Free:** **under-18s**, always. Under-14s must be accompanied by an adult.
 
-- **Look at other times on the same day.** If your time is full, there may be space first thing or mid-afternoon.
-- **Mind the opening hours:** Tuesday to Sunday, **10:00 to 19:00**. On 24 and 31 December it closes at 14:00.
-- **Check it's open that day.** It closes **every Monday** and also on **1 January, 1 May, 24 June and 25 December**.
-- **If you're going for a temporary exhibition,** check what your ticket includes. *Picasso and Architecture* runs from **20 November 2026 to 7 March 2027**.
+**Hours:** Tuesday to Sunday, **10 AM to 7 PM**; on 24 and 31 December it closes at 2 PM. **Closed every Monday** and also on 1 January, 1 May, 24 June and 25 December.
 
-Only buy once your day is fixed: under the museum's rules, a ticket is valid for the date and time on it and **isn't refunded** if you don't use it.
+Only buy once you're sure of the day: under the museum's rules, the ticket is valid for the date and time on it and is **not refunded** if unused.
 
-## 2. The box office on Carrer de Montcada
+## Picasso Museum Barcelona free entry, always with a booking
 
-The museum sells tickets at its **box office on Carrer de Montcada**, for €13. It closes **30 minutes before the museum closes**, so don't leave it late. Because capacity is limited, on busy days there may be no places left: it's a good option on weekdays and outside high season, not a safe bet on a Saturday in August.
+The museum is free on **Thursdays from 4 to 7 PM**, on the **first Sunday of every month** and on the open days of **12 February**, **17 May** (International Museum Day) and **24 September**.
 
-Travel light: bags larger than 30 × 30 × 25 cm aren't allowed in the galleries, though there's a **free cloakroom**.
+Just turning up isn't enough: **you must book on the official website**, and bookings open **four days before, at 10 AM**. Places go quickly, so log on at 10 AM sharp and have several times in mind. If you miss out, a paid ticket at another time is still the easiest route.
 
-## 3. Free entry, always with a booking
+## Picasso Museum Barcelona with no tickets: what to do
 
-The museum is free **on Thursdays from 16:00 to 19:00**, on the **first Sunday of every month** and on the open days of **12 February**, **17 May** (International Museum Day) and **24 September**. You can't just turn up: **you have to book on the official site**, and bookings open **four days ahead, at 10:00**.
-
-That's the catch: the places go quickly. If you want to go free, log on at 10:00 sharp on the day bookings open and have several times in mind. If you miss out, a paid ticket at another time is still the simplest route.
-
-## 4. A skip-the-line guided tour
-
-When the official site has nothing left, licensed operators usually still have places because they book ahead. You pay more than on the official site, but you go in at a fixed time with someone who explains how Picasso developed, from his training years in Barcelona to *Las Meninas*:
-
-- **Skip-the-line guided tour (from €37):** the most reviewed of the ones we link.
-- **Skip-the-line guided tour with Tours For Today (from €39):** the higher rated of the two, for just €2 more.
-
-Before paying, check the listing says **"Picasso Museum entry included"** and read the cancellation terms.
+1. **Check other times the same day** on the official website. If your slot is full, there may be space first thing or mid-afternoon.
+2. **Try the Carrer Montcada box office** (€13), which closes **30 minutes before closing time**. With limited capacity, on busy days there may be no space: it works on weekdays and off-peak, not as a safe plan for a Saturday in August.
+3. **Book a skip-the-line guided tour.** Authorised operators often have places because they book in advance. You pay more, but you go in at a set time, without the box office, with someone explaining the work. There's a skip-the-line guided tour **from €37**, the most reviewed, and another with Tours For Today **from €39**, the best rated. Check the tour page says **"Picasso Museum entry included"** and review the cancellation terms.
 
 [actividad: museo-picasso-tour-guiado-sin-colas]
 
-[actividad: museo-picasso-tour-guiado-tours-for-today]
+## Tips
 
-## 5. The Articket BCN and the free Born
+- **Buy only on the official website** (museupicassobcn.cat): several sites with "Picasso" in the name overcharge.
+- **Don't go on a Monday** or on 24 June, Sant Joan.
+- **Bring ID if you're using a reduced ticket:** it's checked at the box office; without it you pay full price.
+- **Travel light:** bags larger than 30 × 30 × 25 cm aren't allowed in the galleries, though there's a **free cloakroom**.
+- **Articket BCN** (**€38**, at articketbcn.org): includes one visit to the Museu Picasso and five other museums, including MNAC, MACBA and the Fundació Joan Miró, over 12 months, with collections and temporary exhibitions.
+- **If you don't get in after all**, stroll along Carrer Montcada and peek into the Gothic courtyards of its palaces. Two minutes away is **El Born Centre de Cultura i Memòria**, with free access to the site (exhibitions and the archaeological remains are paid).
 
-If you're seeing other art museums too, the **Articket BCN** (**€38**, at `articketbcn.org`) covers one visit to the Museu Picasso and five other museums, including the MNAC, the MACBA and the Fundació Joan Miró, within 12 months, collections and temporary exhibitions included.
-
-And if you don't get in after all, the neighbourhood is still worth it. Walking down **Carrer de Montcada** and looking into the Gothic courtyards of its palaces costs nothing, and two minutes away is **El Born Centre de Cultura i Memòria**, where entry to the building is free (the exhibitions and the archaeological site are paid).
-
-## Mistakes to avoid
-
-1. **Buying from sites that look like the official one.** Several have "Picasso" in the name and overcharge. The official one is `museupicassobcn.cat`.
-2. **Turning up on a Thursday afternoon or the first Sunday without a booking.** Entry is free, but it has to be booked four days ahead.
-3. **Going on a Monday.** The museum closes every Monday, and on 24 June, Sant Joan, too.
-4. **Forgetting your ID for reduced entry.** The box office asks for it; without it you pay the full price.
-
-## In one sentence
-
-If your time is sold out, try another on the official site or at the Carrer de Montcada box office, and if you'd rather not risk it book a guided tour with entry included; to fit it into a full day, see [Barcelona in 1 day](/en/guides/barcelona/barcelona-in-1-day), and if the basilica lets you down too, read [what to do if the Sagrada Família is sold out](/en/guides/barcelona/sagrada-familia-tickets-sold-out).
+To fit it into a full day, see [Barcelona in 1 day](/en/guides/barcelona/barcelona-in-1-day), and if the basilica falls through too, read [what to do if the Sagrada Família is sold out](/en/guides/barcelona/sagrada-familia-tickets-sold-out).

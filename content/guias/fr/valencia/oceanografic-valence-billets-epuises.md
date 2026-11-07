@@ -5,14 +5,14 @@ metaTitle: 'Oceanogràfic billets épuisés : que faire'
 categoria: valencia
 slug: oceanografic-valence-billets-epuises
 fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/actividades/valencia/oceanografic/oceanografic-nenufar.webp
 imagen_alt: Bâtiment du restaurant sous-marin de l'Oceanogràfic, avec son toit blanc en forme de nénuphar qui se reflète dans un bassin bordé de rochers
-tiempo_lectura: 5
+tiempo_lectura: 4
 keywords:
 - oceanogràfic billets épuisés
 - billets oceanogràfic valence
@@ -28,7 +28,8 @@ slugs:
   it: oceanografic-valencia-biglietti-esauriti
   pt: oceanografic-valencia-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Le billet plein tarif de l''Oceanogràfic coûte **entre 35,90 € et 43,05 €** selon le jour, sur le site officiel (`entradas.oceanografic.org`) ; enfants de 4 à 12 ans et plus de 65 ans, **entre 26,65 € et 31,95 €**, et gratuit pour les moins de 4 ans. Si votre date est complète, regardez les **billets combinés** avec le Museu de les Ciències ou l''Hemisfèric, vendus séparément, ou achetez auprès d''un revendeur agréé : nos billets sont **à partir de 37 €**. Le guichet ouvre à 10 h et ferme une heure avant l''aquarium.'
+intro: 'Si les **billets de l''Oceanogràfic** sont **épuisés**, il vous reste des options. L''Oceanogràfic de Valence est le **plus grand aquarium d''Europe** et fait partie de la Cité des Arts et des Sciences, avec le Museu de les Ciències et l''Hemisfèric. Entre bassins et bâtiments blancs, comme le restaurant sous-marin en forme de nénuphar, une visite complète prend **3 à 4 heures**.'
+respuestaCorta: 'Si les billets de l''Oceanogràfic sont épuisés sur le site officiel (entradas.oceanografic.org), essayez un jour proche, les **billets combinés** avec le Museu ou l''Hemisfèric, le **guichet** (ouvert dès 10h) ou un revendeur agréé, **dès 37 €**. L''entrée générale coûte **35,90-43,05 €** selon le jour ; enfants de 4 à 12 ans, **26,65-31,95 €**. Gratuit avant 4 ans.'
 actividades:
   - oceanografic-valencia-entrada
   - ciudad-artes-3-en-1-oceanografic-hemisferic-museu
@@ -59,86 +60,53 @@ opciones:
     etiqueta: Visite privée
 ---
 
-L'Oceanogràfic est le plus grand aquarium d'Europe. Hors saison, il est rare de se retrouver sans billet, mais pendant la **Semaine sainte, les Fallas, en août et lors des ponts**, il y a des jours où la vente en ligne se complique et où la file au guichet devient interminable. Si le site officiel ne vous permet pas d'acheter pour votre date, voici les options qui restent, dans l'ordre où il vaut mieux les essayer.
+## Oceanogràfic de Valence : des prix selon le jour
 
-## Quelle option vous reste-t-il ?
-
-| Si vous cherchez… | Option | À partir de |
-| --- | --- | --- |
-| Un autre jour proche | Site officiel, calendrier tarifaire | 35,90 € |
-| Acheter sur place | Guichet, jusqu'à une heure avant la fermeture | Tarif du jour |
-| Entrer gratuitement | Pas d'heures gratuites ; seulement les moins de 4 ans | 0 € |
-| Le billet seul | [Billet pour l'Oceanogràfic](/en/cities/valencia/activities/oceanografic-valencia-ticket), 4,7★ (11 540) | 37 € |
-| Oceanogràfic et Museu | [Billet combiné](/en/cities/valencia/activities/oceanografic-science-museum-combo-ticket), 4,7★ (2 797) | 39 € |
-| Les trois attractions | [Billet 3 en 1 avec l'Hemisfèric et le Museu](/en/cities/valencia/activities/ciudad-artes-3-en-1-ticket), 4,5★ (3 518) | 46 € |
-| Visite privée avec entrée | [Valence moderniste avec option Oceanogràfic](/en/cities/valencia/activities/valencia-art-nouveau-private-tour-oceanografic) | 137 € avec entrée |
-| Alternative avec des animaux | [Bioparc Valencia](/en/cities/valencia/activities/bioparc-valencia-ticket), 4,8★ (2 988) | 29,50 € |
-
-## 1. Le site officiel : des prix selon le jour
-
-La vente officielle se fait sur `entradas.oceanografic.org`, accessible depuis `oceanografic.org`. L'Oceanogràfic **n'a pas de prix unique** : le site publie un calendrier avec plusieurs tarifs selon la date.
+La vente officielle se fait sur entradas.oceanografic.org, accessible depuis oceanografic.org. L'Oceanogràfic **n'a pas de prix unique** : le site publie un calendrier avec plusieurs tarifs selon la date.
 
 | Billet | Prix selon le jour |
 | --- | --- |
-| Plein tarif | 35,90-43,05 € |
-| Enfant (4-12 ans), plus de 65 ans, retraité, personne handicapée | 26,65-31,95 € |
+| Général | 35,90-43,05 € |
+| Enfant (4-12 ans), plus de 65 ans, retraité, handicap | 26,65-31,95 € |
 | Moins de 4 ans | Gratuit |
 | Oceanogràfic + Museu de les Ciències | 37,70-45,40 € |
 | Oceanogràfic + Hemisfèric | 37,50-45 € |
 | Oceanogràfic + Museu + Hemisfèric | 44-51,25 € |
 
-Si votre date n'apparaît pas disponible :
+**Il n'y a ni jours ni heures gratuits** pour le grand public : seuls les moins de 4 ans et certains professionnels, comme les guides officiels accrédités, entrent gratuitement.
 
-- **Regardez les combinés même si vous ne pensiez qu'à l'aquarium.** Ils sont vendus comme des produits distincts et, avec deux ou trois attractions, le prix par attraction baisse beaucoup.
-- **Décalez la visite d'un jour.** Pendant la Semaine sainte ou un pont, le jour ouvré voisin est généralement bien plus calme.
-- **Vérifiez les horaires de votre jour.** Il ouvre à **10 h**, mais la fermeture varie selon le calendrier officiel : certains jours jusqu'à 16 h ou 18 h, d'autres jusqu'à 20 h, 21 h ou 22 h. Avec 3 ou 4 heures de visite, entrer tard un jour de fermeture anticipée ne vaut pas le coup.
+**Réductions :** familles nombreuses ou monoparentales, 15 % en ligne et au guichet. Étudiants, Carnet Jove et demandeurs d'emploi, 15 %, mais **uniquement au guichet** et sur justificatif. Avec la **Valencia Tourist Card**, la boutique de Visit València accorde 10 %.
 
-**Réductions :** familles nombreuses ou monoparentales, 15 % en ligne et au guichet. Étudiants, Carnet Jove et demandeurs d'emploi, 15 %, mais **uniquement au guichet**. Avec la **Valencia Tourist Card**, la boutique de Visit València applique 10 %.
+## Horaires de l'Oceanogràfic et quand c'est complet
 
-## 2. Le guichet
+Il ouvre tous les jours à **10h**, mais l'heure de fermeture varie selon le calendrier officiel : certains jours à **16h ou 18h**, d'autres à 20h, 21h ou 22h. Avec 3 à 4 heures de visite, entrer tard un jour de fermeture précoce ne vaut pas la peine.
 
-Le guichet vend des billets pour le jour même et **ferme une heure avant l'aquarium**. C'est un plan B si le site vous pose problème un jour normal, mais pendant les Fallas ou en août, la file peut vous faire perdre une partie de la visite. Si vous venez avec des enfants, ayez un document attestant leur âge : le tarif réduit et la gratuité des moins de 4 ans sont vérifiés.
+Hors saison, il est rare de ne pas trouver de billet. Le site officiel n'indique ni délai de vente ni jours complets ; voici donc nos conseils :
 
-## 3. Un billet de revendeur agréé ou une visite avec entrée
+- **Semaine sainte, Fallas (mars), ponts et août :** achetez au moins **une semaine** à l'avance et choisissez le premier créneau.
+- **Week-ends de printemps et d'automne :** deux ou trois jours suffisent en général.
+- **En semaine hors saison :** rarement un problème, même le jour même.
 
-Les revendeurs agréés achètent des billets à l'avance et en ont généralement quand le site officiel est juste. Vous payez à peu près pareil ou un peu plus, et en échange vous évitez la file :
+## Si votre date est complète
 
-- **Billet seul (à partir de 37 €) :** l'option la plus directe.
-- **Combiné avec le Museu de les Ciències (à partir de 39 €) :** si vous venez avec des enfants, le musée est ce qui rapporte le plus après l'aquarium.
-- **3 en 1 avec l'Hemisfèric (à partir de 46 €) :** pour consacrer toute la journée à la Cité des Arts.
+1. **Regardez les billets combinés**, même si vous ne pensiez qu'à l'aquarium. Ils sont vendus à part et, avec deux ou trois attractions, le prix par attraction baisse nettement.
+2. **Décalez la visite d'un jour.** Pendant la Semaine sainte ou un pont, le jour ouvré voisin est souvent bien plus calme.
+3. **Allez au guichet.** Il vend des billets pour le jour même et **ferme une heure avant l'aquarium**. C'est un bon plan B un jour normal, mais pendant les Fallas ou en août, la file peut grignoter une partie de la visite. Prévoyez un justificatif d'âge pour les enfants : les tarifs réduits et gratuits sont contrôlés.
+4. **Achetez auprès d'un revendeur agréé.** Ils achètent à l'avance et ont souvent des billets quand le site officiel est serré. Vous payez à peu près pareil ou un peu plus, sans file d'attente : billet simple **dès 37 €**, combiné avec le Museu **dès 39 €** et 3 en 1 avec l'Hemisfèric **dès 46 €**.
 
 [actividad: oceanografic-valencia-entrada]
 
-[actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
+## Billet combiné Oceanogràfic et autres alternatives
 
-Si vous préférez une visite guidée, le tour privé **Valence moderniste** parcourt en trois heures l'Estación del Norte, le Mercado de Colón et les maisons de l'Ensanche jusqu'à la Cité des Arts. L'option complète inclut les billets coupe-file pour l'Oceanogràfic, à partir d'environ **137 € par personne** en couple ; le guide n'entre pas avec vous dans l'aquarium.
-
-[actividad: valencia-modernista-tour-privado-oceanografic]
-
-## 4. Si vous n'obtenez rien : les alternatives
-
-- **Bioparc Valencia** (à partir de 29,50 €) : zoo immersif avec savane, forêt équatoriale et Madagascar, sans barrières visibles. C'est l'alternative la plus proche si vous venez pour les animaux.
-- **Museu de les Ciències et Hemisfèric** (à partir de 14 € le combiné) : dans la même enceinte, à quelques minutes à pied de l'Oceanogràfic.
+- **Museu de les Ciències et Hemisfèric** (combiné dès 14 €) : dans la même enceinte, à quelques minutes à pied. Avec des enfants, le musée est ce qui rapporte le plus après l'aquarium.
+- **Bioparc Valencia** (dès 29,50 €) : zoo d'immersion avec savane, forêt équatoriale et Madagascar, sans barrières visibles. L'alternative la plus proche si vous venez pour les animaux.
 - **L'enceinte de l'extérieur, gratuitement :** l'Umbracle, les bassins et les bâtiments de Calatrava se parcourent sans billet. Nous l'expliquons dans [comment visiter la Cité des Arts et des Sciences](/fr/guides/valencia/cite-des-arts-et-des-sciences-comment-la-visiter).
+- **Visite privée « Valence moderniste » :** trois heures par l'Estació del Nord, le Mercado de Colón et les maisons de l'Ensanche jusqu'à la Cité des Arts. L'option complète inclut les billets coupe-file pour l'Oceanogràfic, à partir d'environ 137 € par personne à deux ; le guide n'entre pas avec vous dans l'aquarium.
 
-[actividad: bioparc-valencia-entrada]
+## Conseils
 
-## Quand c'est complet et combien de temps à l'avance acheter
-
-Le site officiel ne publie pas de délai de vente et ne signale pas les jours complets. Voici notre recommandation :
-
-- **Semaine sainte, Fallas (mars), ponts et août :** achetez au moins une semaine à l'avance et choisissez l'ouverture.
-- **Week-ends de printemps et d'automne :** deux ou trois jours suffisent généralement.
-- **En semaine hors saison :** il y a rarement un problème, même en achetant le jour même.
-
-## Erreurs fréquentes
-
-1. **Comparer le prix d'un jour avec celui d'un autre.** Le tarif change selon la date ; regardez celui de votre jour avant de décider.
-2. **Entrer à 15 h un jour où l'aquarium ferme à 18 h.** Vous en manquez la moitié. Consultez le calendrier.
-3. **Acheter le billet seul puis le musée séparément.** Le combiné revient moins cher que les deux à part.
-4. **Oublier les justificatifs des réductions.** Les étudiants et le Carnet Jove n'ont droit à une réduction qu'au guichet et sur présentation de la carte.
-5. **Penser que la visite privée inclut un guide dans l'aquarium.** Elle inclut l'entrée, mais le guide reste dehors.
-
-## En une phrase
-
-Si l'Oceanogràfic affiche complet, regardez les combinés et un autre jour proche sur le site officiel ou achetez un billet de revendeur à partir de 37 € ; s'il n'y a plus rien, le Bioparc et le Museu de les Ciències sont les meilleures alternatives. Pour organiser le reste du voyage, l'itinéraire de [Valence en 2 jours](/fr/guides/valencia/valence-en-2-jours) combine l'aquarium avec le centre historique.
+- **Comparez le tarif de votre jour**, pas celui d'un autre : le prix change selon la date.
+- **N'entrez pas à 15h un jour qui ferme à 18h :** vous en manquerez la moitié.
+- **Si vous voyez aussi le musée, prenez le combiné :** il revient moins cher que les deux séparément.
+- **Emportez les justificatifs** de réduction : étudiants et Carnet Jove uniquement au guichet et sur présentation de la carte.
+- Pour organiser le reste du voyage, l'itinéraire de [Valence en 2 jours](/fr/guides/valencia/valence-en-2-jours) combine l'aquarium avec le centre historique.

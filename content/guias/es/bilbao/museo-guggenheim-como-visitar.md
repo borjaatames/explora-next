@@ -1,11 +1,12 @@
 ---
 titulo: "Museo Guggenheim de Bilbao: cómo visitarlo (entradas y consejos)"
 descripcion: "Guía para visitar el Guggenheim de Bilbao: entradas y horarios, qué ver dentro y fuera (Puppy, Maman, Serra), cuánto tiempo dedicar y mejores trucos."
-respuestaCorta: 'El exterior es gratis: **Puppy, Maman y el titanio de Gehry** lucen mejor al atardecer. Dentro, calcula **2-2,5 horas** y ve a por *La materia del tiempo* de Richard Serra. La entrada general cuesta **entre 12 y 18 € según las exposiciones** (gratis menores de 18, audioguía incluida) y se compra online con franja. Cierra los lunes salvo en julio, agosto y puentes.'
+intro: 'El **Museo Guggenheim Bilbao** es la obra de titanio de Frank Gehry que, desde 1997, convirtió una ciudad industrial en icono mundial del diseño. Fuera, gratis, esperan **Puppy**, **Maman** y la escultura de niebla; dentro, el gran atrio, *La materia del tiempo* de Richard Serra y exposiciones temporales de primer nivel. Está a 20 minutos a pie del Casco Viejo y la visita interior lleva **2-2,5 horas**.'
+respuestaCorta: 'El exterior del **Museo Guggenheim Bilbao** es gratis: **Puppy, Maman y el titanio** lucen mejor al atardecer. Dentro, calcula **2-2,5 horas** y no te pierdas a Richard Serra. La entrada cuesta **entre 12 y 18 € según las exposiciones** (gratis menores de 18, audioguía incluida) y se compra online con franja. Cierra los lunes salvo en julio, agosto y puentes.'
 categoria: "bilbao"
 slug: "museo-guggenheim-como-visitar"
 fecha: "2026-03-24"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
@@ -30,70 +31,68 @@ actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido
   - guggenheim-bilbao-visita-privada-guia-entrada
+faq:
+- pregunta: ¿Cuánto tiempo se necesita para ver el Guggenheim de Bilbao?
+  respuesta: Calcula 2-2,5 horas dentro, centrándote en La materia del tiempo de Richard Serra, el atrio y la exposición temporal que te interese. Para el exterior y las esculturas, suma otra media hora de paseo por la ría.
+- pregunta: ¿Cuánto cuesta la entrada al Guggenheim?
+  respuesta: Entre 12 y 18 € según las exposiciones que haya (12 € en octubre de 2026), con audioguía incluida. Hay tarifa reducida para estudiantes y mayores de 65, y los menores de 18 entran gratis.
+- pregunta: ¿Se puede ver el Guggenheim gratis?
+  respuesta: 'El exterior, sí: el edificio de Gehry, Puppy de Jeff Koons, Maman de Louise Bourgeois, Tulips, El gran árbol y el ojo de Anish Kapoor y la escultura de niebla se ven sin pagar. Las salas son de pago.'
+- pregunta: ¿Qué día cierra el Guggenheim?
+  respuesta: Cierra los lunes, salvo en julio, agosto y puentes, y siempre el 25 de diciembre y el 1 de enero. Comprueba el calendario del museo antes de ir un lunes.
+- pregunta: ¿Cómo se llega al Guggenheim?
+  respuesta: En metro hasta Moyua (L1 y L2) y 7 minutos a pie, o en tranvía hasta la parada Guggenheim, en la puerta. Desde el Casco Viejo son 20 minutos andando por la ría.
 ---
 
-**El Guggenheim no es solo un museo: es el edificio que cambió Bilbao.** La obra de titanio de Frank Gehry, inaugurada en 1997, transformó una ciudad industrial en un icono mundial del diseño —el famoso "efecto Guggenheim"—. Por eso la visita tiene dos partes que conviene no confundir: **el edificio y sus esculturas (gratis, por fuera)** y **las salas (de pago, por dentro)**. Esta guía te ayuda a aprovechar las dos.
+El Guggenheim tiene dos visitas que conviene no confundir: **el edificio y sus esculturas, gratis por fuera**, y **las salas, de pago, por dentro**. Aunque no entres, el exterior ya merece el viaje.
 
-## Visitas guiadas al Guggenheim
+## Qué ver en el Museo Guggenheim por dentro
 
-| Actividad | Valoración | Desde |
-| --- | --- | --- |
-| [Guggenheim con guía y entrada (en español)](/ciudades/bilbao/actividades/guggenheim-bilbao-visita-guiada-entrada) | 4,9★ (182) | 49 € |
-| [Guggenheim VIP en grupo reducido (10 idiomas)](/ciudades/bilbao/actividades/guggenheim-bilbao-vip-grupo-reducido) | 4,5★ (763) | 95 € |
+No intentes «verlo todo» con prisa. Prioriza:
 
-La regla de oro: aunque no entres, el exterior ya merece el viaje. Y si entras, ve a por lo que de verdad importa, no a "verlo todo".
-
-## Qué ver por fuera (gratis)
-
-El propio edificio, reflejándose en la ría, es la atracción. Alrededor, sin pagar entrada:
-
-- **'Puppy'**, el perro gigante de flores de Jeff Koons, en la entrada principal.
-- **'Maman'**, la araña de bronce de Louise Bourgeois, junto a la ría.
-- **'Tulips'** de Koons y **'El gran árbol y el ojo'** de Anish Kapoor.
-- La **fuente de fuego** de Yves Klein y la **escultura de niebla** de Fujiko Nakaya, que envuelve el edificio a ciertas horas.
-
-> **⭐ Tip:** la mejor hora para el exterior es el **atardecer**, cuando el titanio se tiñe de dorado y se reflejan los colores en el agua. Es la foto que todo el mundo busca.
-
-## Qué ver por dentro
-
-Si entras, prioriza:
-
-- **'La materia del tiempo' de Richard Serra**, en la planta baja: enormes láminas de acero curvado por las que se camina. Es la obra permanente imprescindible y la que más impresiona.
-- El **atrio**, el espectacular vacío central de 50 metros.
-- Las **exposiciones temporales**, que rotan y suelen ser de primer nivel (mira la cartelera antes de ir; pueden inclinar la balanza de la visita).
+- **La materia del tiempo, de Richard Serra**, en la planta baja: enormes láminas de acero curvado por las que se camina. Es la obra permanente imprescindible y la que más impresiona.
+- **El atrio**, el espectacular vacío central de 50 metros.
+- **Las exposiciones temporales**, que rotan y suelen ser de primer nivel. Mira la cartelera antes de ir: pueden inclinar la balanza de la visita.
 
 Calcula **2-2,5 horas** dentro. La audioguía va incluida y merece la pena.
 
-## Entradas y horarios
+## Puppy y el exterior gratis
 
-- **Entrada general:** entre 12 y 18 € según las exposiciones que haya (12 € en octubre de 2026; incluye audioguía); reducida para estudiantes y mayores de 65; **menores de 18, gratis**. Se compra online con franja horaria y entras sin cola; la taquilla funciona, pero en temporada tiene espera.
-- **Horario:** de martes a domingo de 10:00 a 19:00, hasta las 20:00 en verano. **Cierra los lunes** salvo en julio, agosto y puentes; el 25 de diciembre y el 1 de enero siempre.
-- **Mejor momento:** a primera hora de la mañana entre semana, o a partir de las 17:00; los sábados a mediodía es cuando más gente hay.
+El propio edificio, reflejándose en la ría, es la atracción. Alrededor, sin pagar entrada:
+
+- **Puppy**, el perro gigante de flores de Jeff Koons, en la entrada principal.
+- **Maman**, la araña de bronce de Louise Bourgeois, junto a la ría.
+- **Tulips**, de Koons, y **El gran árbol y el ojo**, de Anish Kapoor.
+- La **fuente de fuego** de Yves Klein, que se enciende al anochecer, y la **escultura de niebla** de Fujiko Nakaya, que envuelve el edificio a horas fijas (suelen ser cada hora; consúltalas en el mostrador). Velas desde la pasarela de la ría.
+
+La mejor hora para el exterior es el **atardecer**, cuando el titanio se tiñe de dorado y los colores se reflejan en el agua.
+
+## Entradas del Guggenheim y horarios
+
+- **Entrada general:** entre **12 y 18 €** según las exposiciones (12 € en octubre de 2026), con audioguía incluida. Reducida para estudiantes y mayores de 65. **Menores de 18, gratis.**
+- **Compra online con franja horaria** y entras sin cola; la taquilla funciona, pero en temporada tiene espera.
+- **Horario:** de martes a domingo de **10:00 a 19:00**, hasta las 20:00 en verano.
+- **Cierra los lunes**, salvo en julio, agosto y puentes; el 25 de diciembre y el 1 de enero, siempre.
+- **Mejor momento:** a primera hora entre semana o a partir de las 17:00. Los sábados a mediodía es cuando más gente hay.
 - **Consigna:** gratuita y obligatoria para mochilas y paraguas. Se puede entrar con carrito de bebé.
-- **La niebla y el fuego:** la escultura de niebla de Nakaya se activa a horas fijas (consúltalas en el mostrador, suelen ser cada hora) y la fuente de fuego de Klein se enciende al anochecer. Sal a verlas desde la pasarela de la ría.
-- **Cómo llegar:** metro Moyua (L1 y L2) y 7 minutos a pie, o tranvía con parada Guggenheim en la puerta. Desde el Casco Viejo, 20 minutos andando por la ría.
+
+Si prefieres que alguien te explique las obras, hay visita guiada en español con la entrada incluida:
 
 [actividad: guggenheim-bilbao-visita-guiada-entrada]
 
-## Cómo combinarlo
+## Cómo llegar y cómo combinarlo
 
-El Guggenheim queda en el Ensanche, junto a la ría, a un paseo del Casco Viejo. A cinco minutos está el **Museo de Bellas Artes**, excelente y mucho menos visitado: si te gusta el arte, es la pareja perfecta. Lo encajamos como primera parada en [Bilbao en un día](/guias/bilbao/bilbao-en-un-dia).
+- **Metro:** Moyua (L1 y L2) y 7 minutos a pie.
+- **Tranvía:** parada Guggenheim, en la puerta.
+- **A pie:** 20 minutos desde el Casco Viejo por la ría.
 
-## Lo que NO recomendamos
+El museo queda en el Ensanche. A cinco minutos está el **Museo de Bellas Artes**, excelente y mucho menos visitado: si te gusta el arte, es la pareja perfecta. Lo encajamos como primera parada en [Bilbao en un día](/guias/bilbao/bilbao-en-un-dia).
+
+## Consejos y errores típicos
 
 1. **Pensar que hay que entrar para disfrutarlo.** El exterior y las esculturas son gratis y espectaculares.
-2. **Comprar la entrada en taquilla en temporada.** Cola innecesaria; reserva online.
-3. **Intentar "verlo todo" con prisa.** Ve a por Serra, el atrio y la temporal que te interese.
-4. **Ir un lunes** sin comprobar el calendario (suele cerrar).
-
-## Errores típicos
-
-> **⚠️ Aviso:** los fallos que más vemos.
-
-1. **No mirar la exposición temporal.** Puede ser lo mejor de la visita o no interesarte; infórmate antes.
-2. **Saltarte el Bellas Artes por falta de tiempo.** Está al lado y compensa mucho.
-3. **Olvidar que los menores entran gratis.** No pagues entradas de más en familia.
-
-## En una frase
-
-El Guggenheim se disfruta por fuera gratis —Puppy, Maman y el titanio al atardecer— y por dentro con criterio, con 'La materia del tiempo' de Serra como gran imprescindible. Es el corazón de cualquier visita a [Bilbao](/guias/bilbao/bilbao-en-un-dia).
+2. **Comprar en taquilla en temporada.** Cola innecesaria: reserva online.
+3. **No mirar la exposición temporal.** Puede ser lo mejor de la visita o no interesarte; infórmate antes.
+4. **Ir un lunes** sin comprobar el calendario.
+5. **Saltarte el Bellas Artes por falta de tiempo.** Está al lado y compensa mucho.
+6. **Olvidar que los menores entran gratis.** No pagues entradas de más en familia.

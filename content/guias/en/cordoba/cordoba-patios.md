@@ -4,11 +4,11 @@ descripcion: "The Patios of Córdoba: May festival dates and hours, the best qua
 categoria: "cordoba"
 slug: "cordoba-patios"
 fecha: "2026-04-12"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 4
+tiempo_lectura: 3
 keywords:
   - "patios of cordoba"
   - "cordoba patio festival"
@@ -22,77 +22,67 @@ slugs:
   fr: patios-de-cordoue
   it: patios-di-cordova
   pt: patios-de-cordova
-respuestaCorta: 'The **Patio Festival** runs for two weeks in early May (4–17 May in 2026): private houses open their courtyards **free**, from 11:00 to 14:00 and 18:00 to 22:00. Go first thing or in the evening. The rest of the year, the **Viana Palace** has 12 patios (from €8.50), and a **guided tour of five San Basilio patios** costs from €19.'
+intro: 'The **patios of Córdoba** are the soul of the city: whitewashed houses hiding courtyards packed with flowerpots, flowers and fountains. In May, during the **Patio Festival** (UNESCO Intangible Cultural Heritage), residents open their doors so anyone can walk in, especially in San Basilio, Santa Marina and the Jewish Quarter. The rest of the year you can still see them, at the Viana Palace and in some San Basilio houses.'
+respuestaCorta: 'The patios of Córdoba open **free** during the **Patio Festival** (4–17 May in 2026), from 11:00 to 14:00 and 18:00 to 22:00; go early or at dusk. Outside May, the **Viana Palace** has twelve patios (€8.50) and a **tour of five San Basilio patios** costs from €19.'
 reservasArriba: true
 actividades:
   - patios-cordobeses-tour-con-entradas
   - palacio-viana-patios-entrada
 imagen_portada: "/images/guias/patios-de-cordoba.jpg"
 imagen_alt: "Alley with blue flowerpots in Córdoba's Jewish quarter"
+faq:
+- pregunta: When is the Córdoba Patio Festival?
+  respuesta: It lasts about two weeks in early May. In 2026 it ran from 4 to 17 May, with 53 competing patios grouped into five routes.
+- pregunta: How much does it cost to see the patios?
+  respuesta: During the festival entry is free, although each patio has a donation box and €1–2 per house is customary. The Viana Palace costs €8.50 for the patios only and €14 with the guided tour of the interior.
+- pregunta: Can you see the patios outside May?
+  respuesta: Yes. The Viana Palace has twelve patios and a garden and opens all year (closed on Mondays). The San Basilio residents' association also opens five or six patios for €5–6 from October to April.
+- pregunta: Which is the best quarter for patios?
+  respuesta: San Basilio (Alcázar Viejo), which has the most patios close together. Santa Marina and San Lorenzo have award-winning patios and a local feel, and those in the Jewish Quarter are next to the Mezquita.
+- pregunta: What time should you go during the festival?
+  respuesta: First thing (they open at 11:00) or in the early evening. At midday there are queues and heat, and everything is closed between 14:00 and 18:00.
 ---
 
-**The patios are the soul of Córdoba**, and in May, its greatest spectacle. Private houses open their whitewashed courtyards, packed with pots and flowers, for anyone to come in and see them for free. The **Patio Festival** is **UNESCO Intangible Heritage**, but you can also see patios out of season if you know where. This guide tells you when, where and how, without the queues or too much heat.
+## The Córdoba Patio Festival in May
 
-## Patios tour with tickets
+For about **two weeks in May**, dozens of houses in the historic quarters open their whitewashed patios and compete in a contest. In 2026 it ran from **4 to 17 May**, with **53 competing patios** grouped into five routes. Entry is **free**: you walk from patio to patio.
 
-| Activity | Rating | From |
-| --- | --- | --- |
-| [Authentic patios tour with tickets, 2 hours](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4.3★ (1,106) | €19 |
+It is Córdoba's big month: the **Cruces de Mayo** (May Crosses) open it, the Patios fill the middle weeks and the **Feria** closes it.
 
-The tour takes you into **five private patios** in San Basilio (Alcázar Viejo), where the owners explain how they water and look after hundreds of pots. It meets by the Mosque and ends at the Santos Mártires hermitage by the Guadalquivir. During the festival it switches to the San Francisco and Santiago quarters. Free cancellation up to 24 hours before; it runs rain or shine.
+## Hours, prices and planning in May
 
-The key: come in May and you'll see Córdoba at its most beautiful (and its busiest); come another time and you can still see patios.
+- **Hours:** patios open from **11:00 to 14:00 and 18:00 to 22:00**, every day during the two weeks. Everything is closed between 14:00 and 18:00: use the time to eat and rest.
+- **It's free**, but there's a donation box at the entrance to each patio. **€1–2 per house** is customary, and it keeps the flowerpots going the rest of the year.
+- **Best time:** first thing in the morning or in the early evening. At midday there are queues and heat; in May it goes above 30 °C.
+- **Accommodation:** book well ahead. Hotel prices triple and restaurants in the centre fill up; book a table too.
+- **Photos:** allowed without flash or tripod. The residents are inside and will often explain the plants if you ask.
+
+## The quarters: San Basilio and the rest
+
+Don't try to see them all: there are dozens. Pick two or three quarters.
+
+- **San Basilio (Alcázar Viejo):** the patio quarter, with the highest concentration. Start here.
+- **Santa Marina and San Lorenzo:** award-winning patios and a local feel.
+- **The Jewish Quarter:** patios next to the Mezquita, very central.
+- **San Agustín:** stately homes with large patios.
+
+A good May route is **San Basilio and Santa Marina on foot**, first thing or at dusk, with water in your bag.
+
+## Out of season: the Viana Palace and San Basilio
+
+If you're not coming in May, you won't miss out on patios.
+
+- **Viana Palace:** **twelve different patios** and a garden, open **all year**. It's the best way to understand the Córdoba patio calmly. It costs **€8.50** for the patios only and **€14** for the combined visit (patios plus a guided tour of the interior); under-10s free. **Closed on Mondays.** From September to December it opens Tuesday to Saturday from 10:00 to 19:00 and Sundays from 10:00 to 15:00; in July and August, Tuesday to Sunday from 9:00 to 15:00. From January to June, check its website.
+- **San Basilio patios all year:** the residents' association opens five or six patios on Calle San Basilio and around for **€5–6**, from October to April, and keeps festival hours in May.
+
+If you'd rather have someone explain them, there's a two-hour guided tour of five San Basilio patios with tickets included.
 
 [actividad: patios-cordobeses-tour-con-entradas]
 
-## The Patio Festival (May)
+## Tips
 
-For about **two weeks in May**, dozens of houses in the historic quarters open their patios and compete in a contest. In 2026 it ran from **4 to 17 May**, with **53 competing patios** grouped into five routes, plus others open outside the contest (the Viana Palace among them). Entry is **free**; you walk from patio to patio.
-
-- **Hours:** 11:00–14:00 and 18:00–22:00, every day of the festival. Everything closes between 14:00 and 18:00, so use that gap for lunch and a rest.
-- **Donations:** there's a box at the entrance of most patios. €1–2 per house is usual, and it helps pay for the plants.
-- **Evening music:** most concerts are at weekends, from 22:00.
-
-May is Córdoba's big month: the **May Crosses** come first, then the patios, then the **Fair** at the end of the month. Hotel prices rise sharply and central restaurants fill up, so book a table.
-
-> **Tip:** during the festival, visit the patios **at opening time (11:00) or late in the evening**. Around midday the queues are longest and the heat is at its worst. San Basilio has the most patios close together, so start there.
-
-## Quarters to see them
-
-| Quarter | Why |
-| --- | --- |
-| San Basilio (Alcázar Viejo) | The patio quarter; the greatest concentration |
-| Santa Marina / San Lorenzo | Award-winning patios, local atmosphere |
-| The Jewish Quarter / San Francisco | Patios beside the Mosque, very central |
-| San Agustín | Grand houses with large patios |
-
-The five official routes are Santa Marina–San Agustín, San Lorenzo, San Pedro–Santiago, Judería–San Francisco and San Basilio. Pick two or three: you won't see them all.
-
-## Out of season: the Viana Palace
-
-If you don't come in May, you can still see patios. The **Viana Palace** has **12 different patios** and a garden, and is open **all year**. It's the best way to understand the Córdoba patio at leisure.
-
-- **Prices (2026):** €8.50 the patios; €14 patios plus the 40-minute guided tour of the palace interior. Free for children under 10.
-- **Hours:** closed on Mondays. From September to December, Tuesday to Saturday 10:00–19:00 and Sundays 10:00–15:00. In July and August, Tuesday to Sunday 9:00–15:00. Check the website for January to June.
-- The interior tour is in Spanish, with written English and French translations. The patios have ramps and the palace has a lift.
-
-Some San Basilio houses also keep their patios open outside the festival for a small fee, and the guided tour above runs all year. For flowers, March to May is best; in summer there are fewer blooms.
-
-## How to organise yourself
-
-- **In May:** a walking route through San Basilio and Santa Marina, first thing or late evening. Expect over 30 °C at midday, so bring water and a hat.
-- **Rest of the year:** the Viana Palace plus the San Basilio tour or the patios you can visit there.
-- **Photos:** fine without flash or a tripod. The owners are often inside and will explain the plants if you ask.
-- Combine it with the rest of the old town in [Córdoba in one day](/en/guides/cordoba/cordoba-in-one-day), starting at the [Mosque-Cathedral](/en/guides/cordoba/mosque-cathedral-how-to-visit), which is free from 8:30 to 9:30.
-
-## Common mistakes
-
-1. **Visiting at midday in May.** Long queues and a lot of heat.
-2. **Coming for the festival without booked accommodation.** The city fills up weeks ahead.
-3. **Thinking there are patios only in May.** The Viana Palace has them year-round.
-4. **Touching the plants or forcing photos.** These are homes; keep to the flow.
-5. **Forgetting a donation** where there's a box: it pays for the patios.
-
-## In one sentence
-
-The Patios of Córdoba are flowers, whitewash and neighbours opening their homes: in May, during the UNESCO-listed festival; the rest of the year, at the Viana Palace. A must that completes [Córdoba in one day](/en/guides/cordoba/cordoba-in-one-day).
+- **Don't go at midday in May:** long queues and lots of heat. In June it passes 40 °C.
+- **Don't come in May without accommodation:** the city fills up weeks in advance.
+- **Respect the houses:** they are homes. Don't touch the plants, don't force photos, and wait your turn.
+- **Leave a donation** where asked: it keeps the patios alive.
+- **Combine it with the rest of the old town** in [Córdoba in one day](/en/guides/cordoba/cordoba-in-one-day).

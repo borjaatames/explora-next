@@ -2,11 +2,12 @@
 titulo: 'Things to do in Toledo, Spain: 15 sights with prices and hours'
 descripcion: 'Things to do in Toledo, Spain: the Cathedral (€12), Santo Tomé, the Jewish Quarter and the Mirador del Valle. 15 sights with prices, hours and time needed.'
 metaTitle: 'Things to do in Toledo: 15 sights and prices'
-respuestaCorta: 'The core of Toledo is the **Primate Cathedral (€12)**, **Santo Tomé** with El Greco''s *Burial of the Lord of Orgaz*, the **Jewish Quarter** (El Tránsito Synagogue, Santa María la Blanca and San Juan de los Reyes) and the **Mirador del Valle** at sunset. If you''ll go into three or more of the smaller monuments, the **€14 tourist bracelet** covers seven. One day is enough for six to eight sights done well; two days cover this whole list.'
+intro: 'There are far more things to do in Toledo than fit into one day: the city has over thirty monuments in an old town you can cross on foot in 20 minutes, though uphill. The **Primate Cathedral**, El Greco at Santo Tomé, the synagogues of the **Jewish Quarter**, mosques, medieval bridges over the Tagus and, at sunset, the view from the Mirador del Valle. These are the fifteen sights that justify the trip.'
+respuestaCorta: 'Top things to do in Toledo: the **Primate Cathedral (€12)**, **Santo Tomé** with *The Burial of the Count of Orgaz*, the **Jewish Quarter** (Synagogue of El Tránsito, Santa María la Blanca and San Juan de los Reyes) and the **Mirador del Valle** at sunset. The **tourist bracelet (€14)** covers seven. One day covers six to eight sights; two, everything.'
 categoria: madrid
 slug: things-to-do-in-toledo
 fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
@@ -45,134 +46,108 @@ opciones:
   - ficha: excursion-toledo-dia-completo
     etiqueta: No planning needed
 faq:
-  - pregunta: What are the top things to do in Toledo?
-    respuesta: 'The Primate Cathedral, the church of Santo Tomé with El Greco''s Burial of the Lord of Orgaz, the Jewish Quarter (El Tránsito Synagogue, Santa María la Blanca and San Juan de los Reyes) and the view from the Mirador del Valle. With only half a day, do the Cathedral, Santo Tomé and a walk through the Jewish Quarter down to the San Martín bridge.'
-  - pregunta: How much are tickets for Toledo's monuments?
-    respuesta: 'The Cathedral costs €12 (€8 reduced). The seven Toledo Monumental sites (Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, the Jesuit church, El Salvador and Doncellas) are €4 each, or €14 for all seven with the tourist bracelet. The Sephardic Museum and the El Greco Museum are €3 each, and the Alcázar (Army Museum) is €5.'
-  - pregunta: What can you see for free in Toledo?
-    respuesta: 'Everything outdoors: the Puerta de Bisagra, Plaza de Zocodover, the Jewish Quarter, the cobertizos, the San Martín bridge and the Mirador del Valle. The Sephardic Museum and the El Greco Museum are also free on Saturdays from 2 PM and on Sundays, and the Army Museum in the Alcázar is free on Wednesdays.'
-  - pregunta: Is the Toledo tourist bracelet worth it?
-    respuesta: 'Yes, if you''ll visit four or more of its seven monuments: a single ticket is €4 and the bracelet is €14. It does not include the Cathedral, the Alcázar, the Sephardic Museum or the El Greco Museum, which are paid separately.'
-  - pregunta: How many days do you need in Toledo?
-    respuesta: 'One well-planned day covers the Cathedral, Santo Tomé, the Jewish Quarter and the Mirador del Valle, roughly six to eight sights. To add the Alcázar, the El Greco Museum and the Jesuit towers without rushing, allow two days. Note that the Alcázar and the state museums close on Mondays.'
+- pregunta: What are the most important things to see in Toledo?
+  respuesta: 'The Primate Cathedral, the church of Santo Tomé with The Burial of the Count of Orgaz, the Jewish Quarter (Synagogue of El Tránsito, Santa María la Blanca and San Juan de los Reyes) and the view from the Mirador del Valle. With only half a day: Cathedral, Santo Tomé and a walk through the Jewish Quarter to the San Martín bridge.'
+- pregunta: How much does it cost to enter Toledo's monuments?
+  respuesta: The Cathedral costs €12 (€8 reduced). The seven monuments of the Toledo Monumental network (Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, the Jesuits, El Salvador and Doncellas) cost €4 each or €14 for all with the tourist bracelet. The Sephardic Museum and the El Greco Museum cost €3 each, and the Alcázar (Army Museum) €5.
+- pregunta: What can you see for free in Toledo?
+  respuesta: 'All the outdoor sights: the Puerta de Bisagra, Zocodover, the Jewish Quarter, the cobertizos, the San Martín bridge and the Mirador del Valle. The Sephardic Museum and the El Greco Museum are also free on Saturdays from 14:00 and on Sundays, and the Army Museum in the Alcázar on Wednesdays.'
+- pregunta: Is the Toledo tourist bracelet worth it?
+  respuesta: 'Yes, if you will visit four or more of its seven monuments: each single ticket costs €4 and the bracelet €14. It doesn''t include the Cathedral, the Alcázar, the Sephardic Museum or the El Greco Museum, which are paid separately.'
+- pregunta: How many days do you need in Toledo?
+  respuesta: A well-used day covers the Cathedral, Santo Tomé, the Jewish Quarter and the Mirador del Valle, about six to eight sights. To also see the Alcázar, the El Greco Museum and the Jesuit towers without rushing, two days. Note that the Alcázar and the state museums close on Mondays.
 ---
 
-Things to do in Toledo, Spain, in one list: fifteen sights, with what each costs, when it opens and how long it takes. This isn't an hour-by-hour plan (that's our [Toledo day trip from Madrid](/en/guides/madrid/toledo-day-trip-from-madrid)); it's the inventory to help you decide what to go inside and what to enjoy from the street. Toledo has more than thirty monuments you can visit; these are the ones that genuinely justify the trip.
+This guide is the inventory to decide what to go into and what to see from outside; the hour-by-hour plan is in [Toledo day trip from Madrid](/en/guides/madrid/toledo-day-trip-from-madrid). Prices and hours checked on 3 November 2026 on the official websites; they change with the season and public holidays, so confirm on the day.
 
-Prices and hours checked on 3 November 2026 on the official websites (Primate Cathedral, Toledo Monumental, Spain's Ministry of Culture and the Army Museum). Hours change with the season and public holidays, so check the day's times before you go.
-
-## At a glance: what to see, price and time
+## Toledo attractions: price and visit time
 
 | Sight | Price | Time | Must-see? |
 | --- | --- | --- | --- |
 | [Primate Cathedral](/en/guides/madrid/toledo-cathedral-tickets) | €12 | 1 h 30 | Yes |
-| Santo Tomé (El Greco) | €4 or bracelet | 20–30 min | Yes |
-| El Tránsito Synagogue and Sephardic Museum | €3 | 45 min | Yes |
-| Santa María la Blanca | €4 or bracelet | 15–20 min | Yes |
+| Santo Tomé (El Greco) | €4 or bracelet | 20-30 min | Yes |
+| Synagogue of El Tránsito and Sephardic Museum | €3 | 45 min | Yes |
+| Santa María la Blanca | €4 or bracelet | 15-20 min | Yes |
 | San Juan de los Reyes | €4 or bracelet | 40 min | Yes |
 | Mosque of Cristo de la Luz | €4 or bracelet | 15 min | Yes |
 | Mirador del Valle | Free | 30 min | Yes |
-| Jewish Quarter (walk) | Free | 1–2 h | Yes |
+| Jewish Quarter (walk) | Free | 1-2 h | Yes |
 | San Martín bridge | Free | 20 min | Yes |
-| Jesuit church (towers) | €4 or bracelet | 30 min | Recommended |
-| Alcázar and Army Museum | €5 | 1 h 30–2 h | Depends on your interests |
-| El Greco Museum | €3 | 45 min | Depends on your interests |
+| Jesuit Church (towers) | €4 or bracelet | 30 min | Recommended |
+| Cobertizos | Free | 30 min | Recommended |
+| Alcázar and Army Museum | €5 | 1 h 30-2 h | Depends on interests |
+| El Greco Museum | €3 | 45 min | Depends on interests |
 | Puerta de Bisagra | Free | 10 min | On the way |
 | Plaza de Zocodover | Free | 10 min | On the way |
-| Cobertizos | Free | 30 min | Recommended |
 
-## Map by area: how Toledo is laid out
+## What to see in Toledo: the paid sights
 
-The old town is small (20 minutes on foot end to end) but built on a hill. Think of it as four areas:
+### Primate Cathedral
 
-| Area | What's there | Getting around |
-| --- | --- | --- |
-| North (entrance) | Puerta de Bisagra, Cristo de la Luz | Free Recaredo escalators up from the Safont car park |
-| Upper centre | Zocodover, Alcázar, Cathedral, Jesuit church | Fairly flat; most visits start here |
-| West: Jewish Quarter | Santo Tomé, El Greco Museum, El Tránsito, Santa María la Blanca, San Juan de los Reyes, San Martín bridge | Downhill from the Cathedral; uphill on the way back |
-| Across the Tagus | Mirador del Valle | Car, taxi (about €10) or a 40-minute walk |
+13th-century Gothic and the richest church in Spain: the Arfe Monstrance, the Baroque Transparente, the sacristy with several El Grecos (*The Disrobing of Christ* among them) and the chapter house. It is the longest visit and the one that most justifies the ticket. **€12** (reduced €8, ages 8-14 €6). **Monday to Saturday, 10:00-18:30; Sunday, 14:00-18:30**; last entry half an hour before. Buy on catedralprimada.es to skip the queue. To really understand it, the [guided tour of the Cathedral](/en/cities/madrid/activities/toledo-cathedral-guided-tour) is worth it.
 
-The logical order: enter through Bisagra, climb to Zocodover and the Cathedral, then head down through the Jewish Quarter to San Martín. Save the Mirador del Valle for the end of the day.
+### Church of Santo Tomé
 
-## The 15 sights, one by one
+One room and one painting: El Greco's *The Burial of the Count of Orgaz* (1586-1588), in the chapel it was painted for. **€4 or bracelet**; 10:00-17:45 in winter. Go first thing or late: by mid-morning it fills with groups.
 
-### 1. Primate Cathedral
+### Synagogue of El Tránsito and Sephardic Museum
 
-13th-century Gothic and the richest church in Spain: Arfe's monstrance, the baroque Transparente, the sacristy hung with several El Grecos (*The Disrobing of Christ* among them) and the chapter house. It's the longest visit and the one that most justifies its ticket. **€12** (€8 reduced, €6 for ages 8–14). **Monday to Saturday 10:00–18:30; Sunday 14:00–18:30**; last entry 30 minutes before closing. Buy online at `catedralprimada.es` to skip the queue. To really understand it, the [guided Cathedral tour](/en/cities/madrid/activities/toledo-cathedral-guided-tour) is worth it.
+A synagogue from 1357 with Mudéjar plasterwork and a coffered ceiling that makes you look up; inside, the museum of Jewish culture in Spain. **€3**; **free on Saturdays from 14:00 and on Sundays**. Tuesday to Saturday, 9:30-20:00; Sundays and holidays, 10:00-15:00; **closed on Mondays**.
 
-### 2. Church of Santo Tomé
+### Santa María la Blanca
 
-One room, one painting: El Greco's *Burial of the Lord of Orgaz* (1586–1588), in the chapel it was painted for. There's no other way to see it. **€4 or bracelet**; **10:00–17:45** in winter. Go first thing or late: by mid-morning it fills with groups.
+A late 12th-century synagogue: five naves of white horseshoe arches on octagonal pillars. Fifteen minutes is enough, but it is the most recognisable image of the Jewish Quarter. **€4 or bracelet**; 10:00-17:45 in winter.
 
-### 3. El Tránsito Synagogue and Sephardic Museum
+### Monastery of San Juan de los Reyes
 
-A synagogue from 1357 with Mudéjar plasterwork and a carved wooden ceiling that makes you look up; inside, Spain's museum of Jewish culture. **€3**; **free on Saturdays from 14:00 and on Sundays**. **Tuesday to Saturday 9:30–20:00; Sundays and holidays 10:00–15:00; closed Mondays.**
+15th-century Isabelline Gothic, commissioned by the Catholic Monarchs: a two-storey cloister (the most beautiful in Toledo) and, on the facade, the chains of Christian captives freed in Granada. **€4 or bracelet**; 10:00-17:45 in winter.
 
-### 4. Santa María la Blanca
+### Mosque of Cristo de la Luz
 
-A late 12th-century synagogue: five naves of white horseshoe arches on octagonal pillars. Fifteen minutes is enough, but it's the most recognisable image of the Jewish Quarter. **€4 or bracelet**; **10:00–17:45** in winter.
+A mosque from the year 999, small and almost intact, the oldest building you can visit in Toledo. It is on the way to the Puerta de Bisagra. **€4 or bracelet**; 10:00-17:45 from 16 October to 28 February and 10:00-18:45 from 1 March to 15 October.
 
-### 5. Monastery of San Juan de los Reyes
+### Jesuit Church (San Ildefonso)
 
-Commissioned by the Catholic Monarchs in the 15th century: Isabelline Gothic, a two-storey cloister (the most beautiful in Toledo) and, on the façade, the chains of Christian captives freed in Granada. **€4 or bracelet**; **10:00–17:45** in winter.
+17th-century Baroque; the interest is up top: its **towers** have the best view of the old town from inside, with the Cathedral opposite. **€4 or bracelet**; 10:00-17:45 in winter. A good place to start and get your bearings.
 
-### 6. Mosque of Cristo de la Luz
+### Alcázar and Army Museum
 
-A mosque from the year 999, small and almost intact, the oldest building you can visit in Toledo. Fifteen minutes is enough, and it's on the way to the Puerta de Bisagra. **€4 or bracelet**; **10:00–17:45 from 16 October to 28 February and 10:00–18:45 from 1 March to 15 October**.
+The square silhouette that dominates Toledo. Inside, an extensive and very complete Army Museum, only if military history interests you. **€5**; **free on Wednesdays**. 10:00-17:00; **closed on Mondays**.
 
-### 7. Mirador del Valle
+### El Greco Museum
 
-On the ring road across the Tagus: the postcard view of Toledo, with the Cathedral and the Alcázar above the river bend. **Free.** Go at sunset. Without a car, take a taxi from Zocodover (about €10).
+A recreated house and museum with the *Apostolado* and the *View and Plan of Toledo*. It complements Santo Tomé rather than replacing it. **€3**; **free on Saturdays from 14:00 and on Sundays**. Tuesday to Saturday, 9:30-18:00 from November to February and 9:30-19:30 from March to October; Sundays and holidays, 10:00-15:00; **closed on Mondays**.
 
-### 8. The Jewish Quarter
+## Free things to do in Toledo
 
-The whole neighbourhood is the sight: narrow lanes, ceramic plaques set in the pavement marking the quarter, damascene workshops. **Free.** Santo Tomé, El Tránsito, Santa María la Blanca and San Juan de los Reyes are all here, so you'll walk it anyway; leave time to get lost.
+- **Mirador del Valle:** on the ring road across the Tagus, the classic photo of Toledo with the Cathedral and the Alcázar above the river bend. Go at sunset; without a car, take a taxi from Zocodover (about €10).
+- **The Jewish Quarter:** the whole neighbourhood is the monument, with narrow streets, ceramic plaques in the ground and damascene workshops. Leave time to get lost.
+- **San Martín bridge:** medieval, 14th century, with towers at each end. Cross it and turn round: from the other bank you see San Juan de los Reyes and the walls.
+- **The cobertizos:** medieval covered passages, houses built over the street. The best are Doncellas, Santo Domingo el Antiguo and Santa Clara, in the north-west of the old town. At dusk, without crowds, they are the most evocative corner of Toledo.
+- **Puerta de Bisagra:** the main gate in the walls, rebuilt in the 16th century with the imperial coat of arms of Charles V.
+- **Plaza de Zocodover:** the old market square and meeting point of every route. Use it to get your bearings, not to eat: its set menus are aimed at passing tourists.
 
-### 9. San Martín bridge
+## Toledo tourist bracelet and museum pass
 
-A 14th-century bridge over the Tagus with gate towers at each end. **Free.** Cross it and turn around: from the far bank you see San Juan de los Reyes and the city wall.
+The **tourist bracelet** costs **€14** and gets you into the seven Toledo Monumental sites, which cost **€4** each separately: Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, the Jesuits, El Salvador and the Colegio de Doncellas Nobles. **It pays off from the fourth.** It doesn't include the Cathedral, the Alcázar or the state museums. Buy it at the ticket office of any of the seven or in advance as the [Toledo tourist bracelet](/en/cities/madrid/activities/toledo-tourist-bracelet-7-monuments).
 
-### 10. Jesuit church (San Ildefonso)
+The **museum pass** (€5, valid five days, ticket office only) combines the El Greco Museum and the Sephardic Museum. On a weekend afternoon you don't need it: both are free.
 
-A 17th-century baroque church whose real draw is up top: its **towers**, climbed by stairs, give the best view of the old town from inside it, with the Cathedral in front of you. **€4 or bracelet**; **10:00–17:45** in winter. A good place to start and get your bearings.
+## Getting around Toledo
 
-### 11. Alcázar and Army Museum
+The old town is small (20 minutes on foot end to end), but hilly. Think of four areas:
 
-The square silhouette that dominates Toledo. Outside it's free; inside is the Army Museum, large and very thorough. **€5**; **free on Wednesdays**. **10:00–17:00; closed Mondays.** Only if military history interests you: allow a good hour and a half.
+- **North (entrance):** Puerta de Bisagra and Cristo de la Luz. Go up on the free **Recaredo escalators** from the Safont car park.
+- **Upper centre:** Zocodover, the Alcázar, the Cathedral and the Jesuits. Relatively flat; almost every visit starts here.
+- **West, the Jewish Quarter:** Santo Tomé, the El Greco Museum, El Tránsito, Santa María la Blanca, San Juan de los Reyes and the San Martín bridge. Downhill from the Cathedral; uphill on the way back.
+- **Across the Tagus:** the Mirador del Valle. Car, taxi (about €10) or a 40-minute walk.
 
-### 12. El Greco Museum
-
-A recreated house and museum with the painter's works, including the *Apostolado* series and the *View and Plan of Toledo*. It complements Santo Tomé rather than replacing it. **€3**; **free on Saturdays from 14:00 and on Sundays**. **Tuesday to Saturday 9:30–18:00 from November to February and 9:30–19:30 from March to October; Sundays and holidays 10:00–15:00; closed Mondays.**
-
-### 13. Puerta de Bisagra
-
-The main gate in the city wall, rebuilt in the 16th century with Charles V's imperial coat of arms. **Free.** It's the natural way in if you arrive by bus or park at the Cardenal car park.
-
-### 14. Plaza de Zocodover
-
-Toledo's main square, once a market and now the meeting point for every walking route. **Free.** It's the place to get your bearings, not to eat: the menus here are aimed at passing tourists.
-
-### 15. The cobertizos
-
-Covered medieval passageways: houses built over the street, leaving it in half-light. The best are the Doncellas, Santo Domingo el Antiguo and Santa Clara passages, in the north-west of the old town. **Free.** At dusk, with nobody around, they're the most atmospheric corner of Toledo.
-
-## The tourist bracelet and the museum pass
-
-The **tourist bracelet** costs **€14** and gets you into the seven Toledo Monumental sites, which cost **€4** each on their own: Santo Tomé, Santa María la Blanca, San Juan de los Reyes, Cristo de la Luz, the Jesuit church, El Salvador and the Colegio de Doncellas Nobles. It pays off from the fourth visit. It doesn't include the Cathedral, the Alcázar or the state museums. Buy it at any of the seven ticket desks or in advance with the [Toledo tourist bracelet](/en/cities/madrid/activities/toledo-tourist-bracelet-7-monuments).
-
-The **Toledo museums pass** (€5, valid for five days, ticket desk only) combines the El Greco Museum and the Sephardic Museum. On a weekend afternoon you don't need it: both are free.
+A logical order: enter through Bisagra, go up to Zocodover and the Cathedral, then down through the Jewish Quarter towards San Martín. Leave the Mirador del Valle for the end of the day.
 
 ## Tips for planning your visit
 
-- **Avoid Mondays** if you want to go into the Alcázar, the El Greco Museum or the Sephardic Museum: all three are closed.
-- **On Sundays the Cathedral opens at 14:00.** Start with the Jewish Quarter and leave the Cathedral for the afternoon.
-- **Cathedral in the morning, bracelet sites in the afternoon**: the split that works best in one day.
-- **Use the escalators, not your legs**: the Recaredo escalators are free.
-- **Don't try to do everything.** One day fits six to eight sights done properly; see the rest from outside or on a second visit.
-- **Getting there from Madrid:** the Avant train takes 33 minutes from Atocha. Times, fares and how to get from the station up to the old town are in our [Madrid to Toledo train](/en/guides/madrid/madrid-to-toledo-train) guide.
-
-If you'd rather not organise anything, the [full-day tour from Madrid](/en/cities/madrid/activities/toledo-full-day-from-madrid) includes transport, a guide and Cathedral entry; the [Toledo and Don Quixote windmills tour](/en/cities/madrid/activities/toledo-and-don-quixote-windmills-from-madrid) adds Consuegra on the same day.
-
-## In one sentence
-
-Cathedral, Santo Tomé, the Jewish Quarter and the Mirador del Valle: see only those and you've seen Toledo; the rest of the list is for when you come back or stay the night.
+- **Avoid Mondays** if you want to visit the Alcázar, the El Greco Museum or the Sephardic Museum: all three close.
+- **On Sundays, the Cathedral opens at 14:00.** Start with the Jewish Quarter and leave the Cathedral for the afternoon.
+- **Cathedral in the morning, bracelet in the afternoon:** the split that works best in one day.
+- **Don't try to do it all.** One day fits six to eight sights properly; the rest, from outside or on a second visit.
+- **Getting there from Madrid:** the Avant takes 33 minutes from Atocha. Times, prices and how to get from the station up to the old town are in [Madrid to Toledo train](/en/guides/madrid/madrid-to-toledo-train). If you'd rather not organise anything, there are full-day tours from Madrid with transport, guide and Cathedral entry, and another that adds the Consuegra windmills.

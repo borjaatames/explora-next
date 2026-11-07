@@ -5,13 +5,13 @@ metaTitle: "Hen and stag party in Madrid: ideas and prices"
 categoria: "madrid"
 slug: "hen-and-stag-party-madrid"
 fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/madrid/pub-crawl/brindis-chupitos-grupo.webp"
 imagen_alt: "Several hands raising shots with lime wedges in a bar at night"
-tiempo_lectura: 6
+tiempo_lectura: 4
 keywords:
   - "hen party madrid"
   - "stag do madrid"
@@ -26,18 +26,19 @@ slugs:
   it: addio-al-nubilato-madrid
   pt: despedida-de-solteira-madrid
 reservasArriba: true
-respuestaCorta: "The three plans that work best for a hen or stag do in Madrid are the **private party tuk-tuk playing your own music** (€150 per tuk-tuk, 1 h 30 min), the **paella and sangria workshop** a few steps from Sol (€64 per person, 3 hours) and, for the night, a **pub crawl** through three bars and a club with a free shot at each stop (€19 per person, 5 hours). If there are more than eight of you, book two or three weeks ahead and check the dress code: sportswear will not get you into the night-time venues."
+intro: 'A **hen party in Madrid** (or a stag do) works best in three parts: something fun in the afternoon, a tapas dinner or a **flamenco** show, and, if the group wants it, a long night out in the bars of the centre. The city has it all: tuk-tuks playing your music, paella workshops, tastings at nearby wineries, tablaos by the Gran Vía and night-time bar routes, also for mixed or alcohol-free groups.'
+respuestaCorta: 'For a hen party in Madrid, the best bets are the **private party tuk-tuk** playing your music (€150 per tuk-tuk, 1 h 30 min), the **paella and sangria workshop** next to Sol (€64 per person) and, at night, a **pub crawl** with a shot at every stop (€19). If you''re more than 8, book two or three weeks ahead.'
 faq:
-  - pregunta: "How much does a hen or stag do in Madrid cost?"
-    respuesta: "Using our activities, a full day comes to about €83 per person: the paella and sangria workshop (€64, lunch or dinner included) and the pub crawl at night (€19, with four shots and entry). Add the party tuk-tuk and it is €150 per vehicle, split between whoever rides in it."
-  - pregunta: "What can we do in Madrid without alcohol?"
-    respuesta: "The party tuk-tuk (no drinking on board), a flamenco show, the paella workshop with soft drinks instead of sangria, and the private picnic, which is paired with alcohol-free sparkling wine. They all work for mixed groups or when family comes along."
-  - pregunta: "Can we wear fancy dress?"
-    respuesta: "It depends on the activity. The pub crawl requires smart-casual clothes (no sportswear; men cannot wear sandals or shorts) and some wine tastings do not accept participants in costume or drunk. Something discreet to mark out the bride or groom is usually enough; if in doubt, ask the operator when you book."
-  - pregunta: "How far ahead should we book?"
-    respuesta: "For a Friday or Saturday, two or three weeks if there are more than eight of you, because places per booking are capped (10 on the wine and tapas tour, 15 on the tapas tours, 8 on the winery trips). Small groups on weekdays can usually book a few days before."
-  - pregunta: "What if someone drops out at the last minute?"
-    respuesta: "The party tuk-tuk, the paella workshop, the pub crawl and both flamenco venues offer free cancellation up to 24 hours before; the winery trip, up to 48 hours. After that there is no refund, so confirm the guest list first."
+- pregunta: How much does a hen or stag party in Madrid cost?
+  respuesta: 'With our activities, a full day comes to about €83 per person: paella and sangria workshop (€64, with lunch or dinner included) and a pub crawl at night (€19, with four shots and entry). If you add the party tuk-tuk, it''s €150 per vehicle split among those riding in it.'
+- pregunta: What can you do for a hen or stag party in Madrid without alcohol?
+  respuesta: The party tuk-tuk (no drinking on board), a flamenco show, the paella workshop with soft drinks instead of sangria and the private picnic, paired with 0.0% sparkling wines. These plans also work for mixed groups or with family.
+- pregunta: Can we wear fancy dress to the activities?
+  respuesta: It depends. The pub crawl requires smart-casual clothing (no sportswear; men can't wear sandals or shorts) and some wine tastings don't admit participants in costume or drunk. Something discreet to single out the bride or groom is usually enough; if in doubt, ask the operator when booking.
+- pregunta: How far ahead should we book?
+  respuesta: For a Friday or Saturday, two or three weeks if you're more than 8, because places per booking are limited (10 on the wine and tapas tour, 15 on the tapas routes, 8 at the wineries). For small groups on weekdays a few days is usually enough.
+- pregunta: What if someone can't come at the last minute?
+  respuesta: The party tuk-tuk, the paella workshop, the pub crawl and both tablaos have free cancellation up to 24 hours before; the wineries, up to 48 hours. After that the amount isn't refunded, so confirm the guest list beforehand.
 actividades:
   - tuk-tuk-fiesta-privada-musica-madrid
   - taller-paella-sangria-madrid-centro
@@ -48,80 +49,60 @@ actividades:
   - tour-tapas-madrid-tres-tabernas-santa-ana
   - bodega-familiar-madrid-cata-sumiller-medio-dia
 ---
-A good hen or stag do in Madrid has three parts: something fun in the afternoon, dinner with a show or a tapas crawl, and, if the group is up for it, a late night. Below is everything we sell that fits, with real prices, plus the local rules worth knowing before you send the group chat a plan.
 
-## The options at a glance
+## Madrid party tuk-tuk: the star plan
 
-| Activity | Duration | Price | Best for |
-| --- | --- | --- | --- |
-| [Private party tuk-tuk with music](/en/cities/madrid/activities/madrid-private-party-tuk-tuk-tour-music) | 1 h 30 min | €150 per tuk-tuk | Kicking off the afternoon with just your group |
-| [Paella and sangria workshop](/en/cities/madrid/activities/madrid-paella-sangria-workshop-city-center) | 3 h | €64 per person | Any group, including mixed groups or family |
-| [Pub crawl: 3 bars and a club](/en/cities/madrid/activities/madrid-pub-crawl-bars-club-shots) | 5 h | €19 per person | Over-18s who want a big night |
-| [Flamenco at Torres Bermejas](/en/cities/madrid/activities/flamenco-torres-bermejas-dining-options) | 1 h | From €31 per person | Dinner and a show by Gran Vía |
-| [Flamenco at Las Carboneras](/en/cities/madrid/activities/flamenco-tablao-las-carboneras) | 1 h | €45 per person, drink included | Groups who prefer a small, intimate venue |
-| [Craft beer and tapas in Malasaña](/en/cities/madrid/activities/craft-beer-tapas-tour-malasana-madrid) | 3 h | €85.50 per person | Beer lovers; in English, up to 15 per booking |
-| [Tapas in three taverns from Santa Ana](/en/cities/madrid/activities/madrid-tapas-tour-three-taverns-santa-ana) | 3 h | €69.99 per person | Guided tapas dinner; starts at 5 pm |
-| [Family winery with a sommelier](/en/cities/madrid/activities/madrid-family-winery-half-day-sommelier-tasting) | 4 h 30 min | €110 per person | A relaxed daytime plan; maximum 8 |
+It's a private tuk-tuk playing **the music you choose** for an hour and a half along Madrid's best-known avenues. The best part for a hen or stag: **the ride ends wherever you decide within the centre**, so you can finish at the door of your restaurant or tablao.
 
-"From" prices on each activity page as of 1 November 2026; they can change by date and option.
-
-## The headline plan: a party tuk-tuk with your playlist
-
-A private tuk-tuk plays whatever music you choose for an hour and a half along Madrid's best-known avenues. The detail that makes it ideal for a hen or stag: **the ride ends wherever you want in the city centre**, so it can drop you at the door of the restaurant or the flamenco venue. The price is per vehicle, not per person; a large group will need more than one.
-
-Worth knowing:
-
-- **No drinking on board.** That is the operator's rule and they stick to it.
+- **Price:** €150 per vehicle, not per person. Large groups will need more than one.
+- **No drinking on board.** It's the operator's rule, and they enforce it.
 - Not accessible for wheelchairs or pushchairs.
 - Free cancellation up to 24 hours before.
 
 [actividad: tuk-tuk-fiesta-privada-musica-madrid]
 
-## For mixed groups, or a group that will not do a late night
+## Hen do activities in Madrid without alcohol or for mixed groups
 
-The **paella and sangria workshop** gets everyone on board: three hours cooking with a chef on Calle de la Montera, just off Puerta del Sol, and the paella you make is your lunch or dinner. Sangria, soft drinks and the recipes are included. Vegetarians or anyone with allergies should message the operator **before** the day. The host waits outside next to the doorway: do not go in on your own.
+The **paella and sangria workshop** (€64 per person, 3 hours) gets everyone on board: you cook with a chef on Calle de la Montera, a step from Sol, and the paella is your lunch or dinner. Sangria, soft drinks and recipes are included.
 
-[actividad: taller-paella-sangria-madrid-centro]
+- If anyone is vegetarian or has allergies, tell the operator **before** the workshop, not on the day.
+- The host waits in the street by the doorway: don't go in on your own.
 
-If you would rather leave the city, the **family winery with a sommelier** is a half day 30 to 45 minutes from Madrid, with at least three wines, snacks and transport, in groups of eight at most. With eight of you, it is effectively yours.
+If you'd rather leave the city, the **family winery with a sommelier** (€110 per person, 4 h 30 min) is a half-day 30-45 minutes from Madrid, with a tasting of at least three wines, snacks and transport, in groups of eight at most: for eight of you, it's practically private.
+
+Other plans that work without alcohol: the party tuk-tuk, a flamenco show and the private picnic, paired with 0.0% sparkling wines.
 
 ## Dinner: tapas or flamenco
 
-- **Torres Bermejas:** a flamenco venue open since 1960 next to Gran Vía, with drink, tapas or three-course dinner options. If you want to eat there, book the meal with your ticket; ordering on the night does not always work well.
-- **Las Carboneras:** a small venue in a palace basement in Habsburg Madrid, with one drink included and wheelchair access. Tables go by order of arrival, so get there 15 to 20 minutes early.
-- **Guided tapas crawls:** the three-tavern tour leaves Plaza de Santa Ana at 5 pm and the craft beer tour starts in Malasaña at 7 pm. Both run in English.
+- **Flamenco at Torres Bermejas (from €31):** a tablao opened in 1960 next to the Gran Vía, with drink, tapas or three-course dinner options. If you want to eat there, book the menu with the ticket: ordering on the spot doesn't always work.
+- **Flamenco at Las Carboneras (€45, with a drink):** a small tablao in a palace in Habsburg Madrid, wheelchair accessible. Tables are allocated on arrival: get there 15-20 minutes early.
+- **Tapas in three taverns (€69.99):** a 3-hour guided route leaving at 17:00 from Plaza de Santa Ana.
+- **Craft beer and tapas in Malasaña (€85.50):** 3 hours from 19:00, up to 15 per booking.
 
-For more detail on venues, see our guide to [flamenco in Madrid](/en/guides/madrid/flamenco-madrid-which-tablao-to-choose).
+Both tapas routes are **in English**. To choose a tablao in more detail, see our guide to [flamenco in Madrid](/en/guides/madrid/flamenco-madrid-which-tablao-to-choose).
 
-[actividad: flamenco-torres-bermejas-cena]
+## Night: pub crawl with a club
 
-## Night: pub crawl ending in a club
-
-The route covers **three bars and a club** in the centre over five hours, with a free welcome shot at each venue and tips included. You meet at Enbabia Infuse Bar (Calle de Núñez de Arce 9, by Plaza de Santa Ana), where you swap your ticket for a wristband. The venues can change by day of the week, and guides speak six languages, handy for an international group.
+The route (€19 per person) covers **three bars and a club** in the centre over five hours, with a welcome shot at each venue and tips included. You meet at Enbabia Infuse Bar (Calle de Núñez de Arce 9, next to Plaza de Santa Ana), where you swap your ticket for a wristband. Venues may vary by day and there are guides in six languages, handy for international groups.
 
 - Over-18s only.
-- **Dress code:** no sportswear; men cannot wear sandals or shorts.
+- **Dress code:** no sportswear; men can't wear sandals or shorts.
 - Free cancellation up to 24 hours before.
 
-[actividad: pub-crawl-madrid-bares-chupitos]
-
-## A sample day
+## A typical day
 
 1. **Midday:** paella and sangria workshop (lunch included).
-2. **Afternoon:** the party tuk-tuk, which drops you wherever you are heading next.
-3. **8 to 9 pm:** flamenco with dinner, or a tapas crawl.
-4. **Midnight:** pub crawl for whoever wants to keep going.
+2. **Afternoon:** party tuk-tuk, which drops you wherever you're heading next.
+3. **20:00-21:00:** flamenco with dinner or a tapas route.
+4. **Midnight:** pub crawl for those who want to carry on.
 
-## Rules and practical tips
+With paella and the pub crawl, the day comes to about **€83 per person**; the tuk-tuk is split separately among those in each vehicle. "From" prices as of 1 November 2026; they may vary by date and option.
 
-- **Places per booking are capped:** 8 on the winery trip, 10 on the wine and tapas tour, 15 on the tapas tours. If you are a bigger group, make two bookings for the same time.
-- **Fancy dress:** keep it discreet (a sash, a tiara) to mark out the bride or groom. Full costumes can cause trouble at the door of night-time venues, and some wine tastings will not accept participants in costume.
-- **Drinking in the street:** it has been banned in the Madrid region since 2002. Not in the tuk-tuk, and not between bars.
-- **Timing:** Madrid eats late. If the group wants dinner at 8 pm, book a table or a flamenco show with dinner.
-- **Paying:** let one person book and settle up afterwards. For per-vehicle plans, split the cost within each tuk-tuk.
+## Rules, tips and common mistakes
 
-## Common mistakes
-
-- **Turning up to the pub crawl in flip-flops or shorts:** you will not get into the first venue.
-- **Leaving it until the week before** with 12 people on a Saturday: it is easy to find no places together.
-- **Arriving at a tasting already drunk:** operators can turn away anyone who arrives intoxicated.
+- **Group bookings:** places per booking are capped (8 at the winery, 10 on the wine and tapas tour, 15 on the tapas routes). If you're more, make two bookings at once for the same time. With a group of 12 on a Saturday, don't leave it to the week before.
+- **Fancy dress:** something discreet (a sash, a headband) to single out the bride or groom. Full costumes can cause problems at the door of nightclubs, and some tastings don't admit people in costume.
+- **Drinking in the street:** it's been banned in public spaces in the Community of Madrid since 2002. Not in the tuk-tuk, not between bars.
+- **Timing:** Madrid dines late. If you want dinner at 20:00, book a table or a tablao with dinner.
+- **Payment:** one person books and then splits the cost.
+- **No flip-flops or shorts on the pub crawl** (you'll be turned away at the first bar), and **don't turn up drunk to a tasting**: operators can refuse entry.

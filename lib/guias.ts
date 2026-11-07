@@ -78,6 +78,12 @@ export type GuiaFrontmatter = {
   respuestaCorta?: string;
 
   /**
+   * Presentación de 50-70 palabras bajo el hero (el monumento, la ciudad o el
+   * tema), antes de la respuesta corta. Admite **negrita**.
+   */
+  intro?: string;
+
+  /**
    * Fecha (YYYY-MM-DD) en que se comprobaron precios y horarios en fuentes
    * oficiales. Se muestra bajo la respuesta corta: «✓ Datos comprobados el…».
    */
@@ -238,6 +244,8 @@ export async function obtenerGuia(
       typeof fm.respuestaCorta === "string" && fm.respuestaCorta.trim()
         ? fm.respuestaCorta.trim()
         : undefined,
+    intro:
+      typeof fm.intro === "string" && fm.intro.trim() ? fm.intro.trim() : undefined,
     opciones: leerOpciones(fm.opciones),
     datosComprobados:
       typeof fm.datosComprobados === "string" &&

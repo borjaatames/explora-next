@@ -5,14 +5,14 @@ metaTitle: 'Alhambra bei Nacht: Tickets, Zeiten, Preise'
 categoria: granada
 slug: alhambra-nachtbesuch-tickets-ausverkauft
 fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp
 imagen_alt: Die Alhambra in der Abenddämmerung vom Mirador de San Nicolás aus, mit dem Palast Karls V. und der Sierra Nevada im Hintergrund
-tiempo_lectura: 5
+tiempo_lectura: 4
 keywords:
   - 'alhambra bei nacht'
   - 'alhambra nachtbesuch'
@@ -29,7 +29,8 @@ slugs:
   it: alhambra-di-notte-biglietti-esauriti
   pt: alhambra-visita-noturna-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Der **Nachtbesuch der Nasridenpaläste** kostet **12,73 €** auf der offiziellen Website (`tickets.alhambra-patronato.es`). Vom 15. Oktober bis 31. März gibt es ihn nur **freitags und samstags von 20 bis 21:30 Uhr**, vom 1. April bis 14. Oktober **dienstags bis samstags von 22 bis 23:30 Uhr**. Ist er ausverkauft, probier das Ticket **Alhambra Experiencias** (22,27 €), die **Granada Card 24h** (50 €) mit eigenem Kontingent oder die **Abendkasse**, die eine Stunde vorher öffnet. Sicher klappt es mit einer **geführten Nachttour mit inbegriffenem Ticket** ab 54 €.'
+intro: 'Die **Alhambra bei Nacht** bedeutet **beleuchtete Nasridenpaläste**: der Löwenhof und die nasridischen Säle in Stille, mit anderem Licht und viel weniger Menschen als am Tag. Es ist keine verkürzte Version des Tagesbesuchs, sondern ein eigenes Ticket mit eigenen Zeiten, eigenem Preis und eigenem Kontingent. Daneben gibt es einen Nachtbesuch der Gärten des Generalife. Der Besuch dauert anderthalb Stunden.'
+respuestaCorta: 'Die Alhambra bei Nacht (Nasridenpaläste) kostet **12,73 €** auf tickets.alhambra-patronato.es. Vom 15. Oktober bis 31. März nur **Freitag und Samstag, 20:00-21:30**; vom 1. April bis 14. Oktober **Dienstag bis Samstag, 22:00-23:30**. Ausverkauft? Andere Nacht, **Alhambra Experiencias**, **Granada Card 24 h**, Abendkasse oder **geführter Nachtbesuch**.'
 actividades:
   - alhambra-visita-nocturna
   - entrada-jardines-alhambra-generalife
@@ -39,16 +40,16 @@ actividades:
   - albaicin-sacromonte-tour-privado
   - flamenco-cueva-zincale-sacromonte
 faq:
-  - pregunta: An welchen Tagen und zu welchen Zeiten gibt es den Nachtbesuch der Alhambra?
-    respuesta: 'Den Nachtbesuch der Nasridenpaläste gibt es vom 15. Oktober bis 31. März freitags und samstags von 20 bis 21:30 Uhr und vom 1. April bis 14. Oktober dienstags bis samstags von 22 bis 23:30 Uhr. Den Nachtbesuch der Gärten und des Generalife-Palasts gibt es im April, im Mai und vom 1. September bis 14. Oktober dienstags bis samstags von 22 bis 23:30 Uhr, vom 15. Oktober bis 14. November freitags und samstags von 20 bis 21:30 Uhr.'
-  - pregunta: Was kostet der Nachtbesuch der Alhambra?
-    respuesta: 'Im Vorverkauf kostet der Nachtbesuch der Nasridenpaläste 12,73 € (ermäßigt 8,48 €), der des Generalife 8,48 € (ermäßigt 6,36 €). Alhambra Experiencias, also die Nasridenpaläste bei Nacht plus Gärten, Generalife und Alcazaba bei Tag, kostet 22,27 €. Kinder unter 12 Jahren sind frei, müssen aber bei der Buchung angegeben werden.'
-  - pregunta: Kann man Tickets für die Alhambra bei Nacht an der Kasse kaufen?
-    respuesta: 'Ja, wenn noch welche da sind. Für die Nachtbesuche öffnet die Kasse eine Stunde vorher: im Winter von 19 bis 20:45 Uhr, von April bis Mitte Oktober von 21 bis 22:45 Uhr. Eine Garantie gibt es nicht, plane also nicht fest damit.'
-  - pregunta: Was sieht man beim Nachtbesuch der Alhambra?
-    respuesta: 'Der Nachtbesuch der Nasridenpaläste umfasst nur die beleuchteten Nasridenpaläste, nicht die Alcazaba und nicht das Generalife. Der Nachtbesuch des Generalife umfasst Gärten und Palast des Generalife, ohne die Nasridenpaläste. Es sind getrennte Tickets mit eigenem Kontingent.'
-  - pregunta: Wie viele Plätze gibt es beim Nachtbesuch der Alhambra?
-    respuesta: 'Das Patronato de la Alhambra veröffentlicht die Kapazität des Nachtbesuchs nicht. Sicher ist: Von Mitte Oktober bis März gibt es nur zwei Abende pro Woche statt fünf im Frühling und Sommer. Im Winter gibt es also insgesamt viel weniger Plätze, und Freitage und Samstage an Brückentagen sind schnell weg.'
+- pregunta: An welchen Tagen und zu welchen Zeiten ist der Nachtbesuch der Alhambra?
+  respuesta: Der Nachtbesuch der Nasridenpaläste ist vom 15. Oktober bis 31. März freitags und samstags von 20:00 bis 21:30 und vom 1. April bis 14. Oktober dienstags bis samstags von 22:00 bis 23:30. Der Nachtbesuch der Gärten und des Generalife-Palasts ist im April, Mai und vom 1. September bis 14. Oktober dienstags bis samstags von 22:00 bis 23:30 und vom 15. Oktober bis 14. November freitags und samstags von 20:00 bis 21:30.
+- pregunta: Was kostet der Nachtbesuch der Alhambra?
+  respuesta: Im Vorverkauf kostet der Nachtbesuch der Nasridenpaläste 12,73 € (ermäßigt 8,48 €) und der des Generalife 8,48 € (ermäßigt 6,36 €). Alhambra Experiencias, das den Nachtbesuch der Nasridenpaläste mit einem Tagesbesuch von Gärten, Generalife und Alcazaba verbindet, kostet 22,27 €. Kinder unter 12 Jahren sind frei, müssen aber in der Buchung stehen.
+- pregunta: Kann man Tickets für die Alhambra bei Nacht an der Kasse kaufen?
+  respuesta: 'Ja, wenn noch Kontingent da ist. Für den Nachtbesuch öffnet die Kasse eine Stunde vorher: im Winter 19:00-20:45, von April bis Mitte Oktober 21:00-22:45. Eine Garantie gibt es nicht, also plane nicht damit.'
+- pregunta: Was sieht man beim Nachtbesuch der Alhambra?
+  respuesta: 'Der Nachtbesuch der Nasridenpaläste umfasst nur die beleuchteten Paläste: Alcazaba und Generalife sind nicht dabei. Der Nachtbesuch des Generalife umfasst Gärten und Palast des Generalife, ohne die Nasridenpaläste. Es sind getrennte Tickets mit eigenem Kontingent.'
+- pregunta: Wie viele Plätze hat der Nachtbesuch der Alhambra?
+  respuesta: Das Patronato de la Alhambra veröffentlicht die Kapazität nicht. Von Mitte Oktober bis März gibt es nur zwei Nächte pro Woche statt fünf im Frühling und Sommer, deshalb gibt es im Winter insgesamt viel weniger Plätze, und Freitage und Samstage an Brückentagen sind schnell weg.
 opciones:
   - ficha: alhambra-visita-nocturna
     etiqueta: Nachts mit Guide
@@ -60,22 +61,7 @@ opciones:
     etiqueta: Privat bei Tag
 ---
 
-Die Alhambra bei Nacht ist keine abgespeckte Version des Tagesbesuchs, sondern ein eigenes Ticket mit **eigenen Zeiten, eigenem Preis und eigenem Kontingent**. Deshalb kann es noch Plätze geben, wenn die Tagestickets weg sind, und umgekehrt. Der Haken: Im Winter gibt es nur **zwei Abende pro Woche**, und die Plätze sind an Brückentagen schnell vergeben. Dieser Ratgeber behandelt nur den Nachtbesuch; für den Tagesbesuch lies [Alhambra Tickets ausverkauft](/de/guides/granada/alhambra-tickets-ausverkauft).
-
-## Welche Möglichkeiten bleiben?
-
-| Wenn du … suchst | Option | Ab |
-| --- | --- | --- |
-| Einen anderen Abend | Offizielle Website, Nachtbesuch Nasridenpaläste | 12,73 € |
-| Direkt vor Ort kaufen | Abendkasse, eine Stunde vor Einlass | 12 € |
-| Paläste bei Nacht + Gärten bei Tag | Alhambra Experiencias, zwei Tage hintereinander | 22,27 € |
-| Ein anderes Kontingent | Granada Card 24h, mit Nachtbesuch | 50 € |
-| Kostenlos | Kein freier Nachtbesuch; Kinder unter 12 frei | 0 € |
-| Guide mit Eintritt | [Nachttour durch die Nasridenpaläste](/en/cities/granada/activities/alhambra-night-tour), 4,9★ (288) | 54 € |
-| Generalife und Alcazaba bei Tag | [Gärten und Generalife ohne Nasridenpaläste](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4,5★ (2.256) | 17,50 € |
-| Die Alhambra von außen in der Dämmerung | [Albaicín und Sacromonte zum Sonnenuntergang](/en/cities/granada/activities/albaicin-sacromonte-sunset-tour), 4,9★ (3.200) | 15 € |
-
-## 1. Offizielle Tage und Zeiten
+## Alhambra nachts: Öffnungszeiten nach Saison
 
 Es gibt zwei verschiedene Nachtbesuche. Das sind die Zeiten, die das Patronato de la Alhambra veröffentlicht:
 
@@ -83,73 +69,74 @@ Es gibt zwei verschiedene Nachtbesuche. Das sind die Zeiten, die das Patronato d
 
 | Saison | Tage | Besuch | Kasse |
 | --- | --- | --- | --- |
-| 15. Oktober - 31. März | Freitag und Samstag | 20-21:30 Uhr | 19-20:45 Uhr |
-| 1. April - 14. Oktober | Dienstag bis Samstag | 22-23:30 Uhr | 21-22:45 Uhr |
+| 15. Oktober - 31. März | Freitag und Samstag | 20:00-21:30 | 19:00-20:45 |
+| 1. April - 14. Oktober | Dienstag bis Samstag | 22:00-23:30 | 21:00-22:45 |
 
-**Gärten und Palast des Generalife bei Nacht**
+**Gärten und Generalife-Palast bei Nacht**
 
 | Saison | Tage | Besuch | Kasse |
 | --- | --- | --- | --- |
-| 1. April - 31. Mai | Dienstag bis Samstag | 22-23:30 Uhr | 21-22:45 Uhr |
-| 1. September - 14. Oktober | Dienstag bis Samstag | 22-23:30 Uhr | 21-22:45 Uhr |
-| 15. Oktober - 14. November | Freitag und Samstag | 20-21:30 Uhr | 19-20:45 Uhr |
+| 1. April - 31. Mai | Dienstag bis Samstag | 22:00-23:30 | 21:00-22:45 |
+| 1. September - 14. Oktober | Dienstag bis Samstag | 22:00-23:30 | 21:00-22:45 |
+| 15. Oktober - 14. November | Freitag und Samstag | 20:00-21:30 | 19:00-20:45 |
 
-Für Juni, Juli und August sowie vom 15. November bis 31. März zeigt die offizielle Website keine Nachtzeiten für das Generalife. Sonntags und montags gibt es überhaupt keinen Nachtbesuch.
+Im Juni, Juli und August sowie vom 15. November bis 31. März zeigt die offizielle Seite keine Nachtzeiten für den Generalife. **Sonntags und montags gibt es keinen Nachtbesuch.**
 
-## 2. Offizielle Preise
+## Nachtbesuch der Nasridenpaläste: Preis
 
-Im Vorverkauf auf `tickets.alhambra-patronato.es` (der Preis enthält eine Vorverkaufsgebühr von rund 6 %; an der Kasse zahlst du den Grundpreis):
+Im Vorverkauf auf tickets.alhambra-patronato.es (der Preis enthält eine Vorverkaufsgebühr von rund 6 %; an der Kasse zahlst du den Grundpreis, etwa 12 € für die Nasridenpaläste):
 
-| Ticket | Was drin ist | Normal | Ermäßigt |
+| Ticket | Was enthalten ist | Normal | Ermäßigt |
 | --- | --- | --- | --- |
 | Nachtbesuch Nasridenpaläste | Nur die Nasridenpaläste, nachts | 12,73 € | 8,48 € |
 | Nachtbesuch Gärten und Generalife | Generalife, ohne Nasridenpaläste | 8,48 € | 6,36 € |
-| Alhambra Experiencias | Nasridenpaläste nachts + Gärten, Generalife und Alcazaba tagsüber, an zwei aufeinanderfolgenden Tagen | 22,27 € | 14,85 € |
-| Dobla de Oro Nocturna | Nasridenpaläste nachts + fünf Monumente im Albaicín, an zwei Tagen | 23,06 € | — |
+| Alhambra Experiencias | Nasridenpaläste nachts + Gärten, Generalife und Alcazaba am Tag, an zwei aufeinanderfolgenden Tagen | 22,27 € | 14,85 € |
+| Dobla de Oro Nacht | Nasridenpaläste nachts + fünf Monumente im Albaicín, an zwei Tagen | 23,06 € | — |
 
-Ermäßigt zahlen Personen ab 65, Inhaber der Europäischen Jugendkarte, kinderreiche Familien, Menschen mit mindestens 33 % Behinderung und Kinder von 12 bis 15 Jahren. **Kinder unter 12** sind frei, müssen aber mitgebucht werden. Das Ticket ist **personalisiert**: Nimm Reisepass oder Personalausweis mit.
+- **Ermäßigt:** über 65-Jährige, europäischer Jugendausweis (Carnet Joven), kinderreiche Familien, Menschen mit Behinderung ab 33 % und Kinder von 12 bis 15 Jahren.
+- **Kinder unter 12:** frei, müssen aber in der Buchung stehen.
+- **Einen kostenlosen Nachtbesuch gibt es nicht.**
+- Das Ticket ist **personalisiert**: Ausweis oder Pass mitnehmen.
 
-## 3. Was tun, wenn er ausverkauft ist?
+## Nasridenpaläste nachts oder Generalife bei Nacht
+
+- **Nachtbesuch der Nasridenpaläste:** nur die beleuchteten Paläste, anderthalb Stunden lang. **Alcazaba und Generalife sind nicht dabei.** Ein ganz anderes, ruhigeres Erlebnis als am Tag.
+- **Generalife bei Nacht:** Gärten und Palast des Generalife, **ohne die Nasridenpaläste**. Deshalb ist er günstiger.
+
+Es sind getrennte Tickets mit eigenem Kontingent. Wer die Nasridenpaläste nachts und den Rest am Tag sehen will, bekommt mit **Alhambra Experiencias** beides an zwei aufeinanderfolgenden Tagen.
+
+## Alhambra-Nachtbesuch ausverkauft: was tun
 
 In dieser Reihenfolge:
 
-1. **Schau dir den anderen Abend an.** Im Winter gibt es nur Freitag und Samstag; klappt einer nicht, probier den anderen. Von April bis Mitte Oktober ist dienstags bis donnerstags mehr frei als samstags.
-2. **Schau dir Alhambra Experiencias und Dobla de Oro Nocturna an.** Das sind eigene Produkte auf derselben Website: Du bekommst die Paläste bei Nacht und etwas dazu, für wenige Euro mehr.
-3. **Prüf die Granada Card 24h (50 €).** Sie ist die einzige Granada Card mit dem Nachtbesuch der Nasridenpaläste und hat laut Turismo de Granada **ein eigenes Kontingent**: Es kann noch Plätze geben, wenn die Einzeltickets weg sind. Lohnt sich, wenn du auch Kathedrale, Capilla Real und andere Monumente besuchst.
-4. **Geh zur Abendkasse**, die eine Stunde vor Einlass öffnet. Vielleicht gibt es noch ein, zwei Tickets, aber ohne Garantie.
-5. **Buch eine geführte Nachttour** mit inbegriffenem Ticket. Die Anbieter reservieren ihr Kontingent lange im Voraus.
-
-## 4. Die geführte Nachttour
-
-Unsere [Nachttour durch die Nasridenpaläste](/en/cities/granada/activities/alhambra-night-tour) (ab 54 €, 4,9★ bei 288 Bewertungen) enthält das Ticket für den Nachtbesuch und einen Live-Guide oder Audioguide für anderthalb Stunden. Treffpunkt ist der Paseo del Generalife. Beachte: **Kinderwagen sind nicht erlaubt**, und der Zugang mit Rollstuhl ist sehr eingeschränkt. Bis 24 Stunden vorher kannst du mit 60 % Erstattung stornieren.
+1. **Die andere Nacht prüfen.** Im Winter gibt es nur Freitag und Samstag; klappt einer nicht, versuch den anderen. Von April bis Mitte Oktober ist dienstags bis donnerstags mehr frei als samstags.
+2. **Alhambra Experiencias und Dobla de Oro Nacht prüfen.** Das sind andere Produkte auf derselben Seite; sie bieten die Nasridenpaläste nachts plus mehr, für wenige Euro Aufpreis.
+3. **Bei der Granada Card 24 h (50 €) nachfragen.** Sie ist die einzige Granada Card mit dem Nachtbesuch der Nasridenpaläste und hat laut Turismo de Granada **ein eigenes Kontingent**. Lohnt sich, wenn du auch Kathedrale, Capilla Real und andere Monumente besuchst.
+4. **Zur Abendkasse gehen**, die eine Stunde vor dem Einlass öffnet. Vielleicht ist noch ein Ticket übrig, aber ohne Garantie.
+5. **Einen geführten Nachtbesuch** mit inkludiertem Ticket buchen (ab 54 €): Die Anbieter reservieren ihr Kontingent im Voraus. Mit Live-Guide oder Audioguide, anderthalb Stunden, Treffpunkt am Paseo del Generalife. Kinderwagen sind nicht erlaubt.
 
 [actividad: alhambra-visita-nocturna]
 
-## 5. Wenn gar nichts geht: Alternativen für den Abend
+## Wann er ausverkauft ist
 
-- **Das Generalife bei Nacht** (8,48 €), wenn dein Termin zwischen April und dem 14. November außerhalb des Sommers liegt. Eigenes Kontingent, das meist länger reicht.
-- **Der Mirador de San Nicolás** im Albaicín: die beleuchtete Alhambra von gegenüber, kostenlos. Mit der Tour durch Albaicín und Sacromonte zum Sonnenuntergang (ab 15 €) bist du zur richtigen Zeit dort, mit jemandem, der dir alles erklärt.
-- **Flamenco in einer Höhle im Sacromonte**, etwa in der Cueva del Zincalé (ab 20 €), als Abschluss des Abends.
-- **Die Alhambra bei Tag:** mit dem Ticket für [Gärten, Generalife und Alcazaba](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket) (ab 17,50 €) oder einer privaten Führung durch die Nasridenpaläste mit Abholung am Hotel (ab 139 €).
+- **Freitage und Samstage von Oktober bis März:** die einzigen Nächte der Saison. Buche, sobald du ein Datum hast, vor allem an Brückentagen wie dem Verfassungstag (Dezember) und an Ostern, wenn es in den März fällt.
+- **Samstage im Frühling:** die begehrtesten der langen Saison.
+- **Dienstag bis Donnerstag von April bis Oktober:** meist mehr Spielraum.
 
-[actividad: albaicin-sacromonte-atardecer]
+## Wenn du nichts bekommst, und typische Fehler
 
-[actividad: flamenco-cueva-zincale-sacromonte]
+**Alternativen für diesen Abend:**
 
-## Wann es ausverkauft ist und wie früh du buchen solltest
+- **Der Generalife bei Nacht** (8,48 €), wenn dein Datum zwischen April und 14. November und außerhalb des Sommers liegt: anderes Kontingent, hält meist länger.
+- **Der Mirador de San Nicolás** im Albaicín: die beleuchtete Alhambra von gegenüber, kostenlos.
+- **Flamenco in einer Höhle im Sacromonte**, etwa in der Cueva del Zincalé, als Abschluss des Abends.
+- **Die Alhambra am Tag:** Wenn auch das allgemeine Ticket ausverkauft ist, lies [Alhambra Tickets ausverkauft](/de/guides/granada/alhambra-tickets-ausverkauft).
 
-- **Freitage und Samstage von Oktober bis März:** die einzigen Abende der Saison; buch, sobald dein Termin feststeht, besonders an den Brückentagen Anfang Dezember und an Ostern, wenn es in den März fällt.
-- **Samstage im Frühling:** in der langen Saison am gefragtesten.
-- **Dienstag bis Donnerstag, April bis Oktober:** meist mehr Spielraum.
+**Typische Fehler:**
 
-## Typische Fehler
+1. **Glauben, der Nachtbesuch umfasse Alcazaba oder Generalife.** Der Nasriden-Nachtbesuch führt nur in die Paläste.
+2. **Einen Nachtbesuch am Sonntag oder Montag suchen.** Gibt es nicht.
+3. **Zu spät zur Uhrzeit kommen.** Der Einlass in die Nasridenpaläste ist zu der auf dem Ticket angegebenen Zeit.
+4. **Den Ausweis vergessen.** Er wird am Eingang kontrolliert.
 
-1. **Denken, der Nachtbesuch enthalte Alcazaba oder Generalife.** Der Nachtbesuch der Nasridenpaläste umfasst nur die Paläste.
-2. **Sonntags oder montags einen Nachtbesuch suchen.** Es gibt keinen.
-3. **Nachtbesuch Nasridenpaläste und Generalife verwechseln.** Das Generalife-Ticket ist nicht ohne Grund billiger: Die Paläste sind nicht dabei.
-4. **Zu spät kommen.** In die Nasridenpaläste kommst du zur Uhrzeit, die auf dem Ticket steht.
-5. **Den Ausweis vergessen.** Das Ticket ist personalisiert und wird am Eingang kontrolliert.
-
-## Kurz gesagt
-
-Ist der Nachtbesuch der Alhambra ausverkauft, probier den anderen Abend, Alhambra Experiencias oder die Granada Card 24h; wenn nichts mehr geht, buch eine geführte Nachttour mit Ticket ab 54 € oder geh zum Mirador de San Nicolás und sieh dir die beleuchtete Alhambra an. Für den Rest deines Besuchs lies [Alhambra besichtigen](/de/guides/granada/alhambra-besichtigen).
+Für den Rest deines Besuchs lies [Alhambra besichtigen](/de/guides/granada/alhambra-besichtigen).

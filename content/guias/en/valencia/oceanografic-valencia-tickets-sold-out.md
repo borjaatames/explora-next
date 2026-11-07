@@ -5,14 +5,14 @@ metaTitle: 'Oceanogràfic tickets sold out: what to do'
 categoria: valencia
 slug: oceanografic-valencia-tickets-sold-out
 fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/actividades/valencia/oceanografic/oceanografic-nenufar.webp
 imagen_alt: The Oceanogràfic's underwater restaurant building, with its white water-lily roof reflected in a pool with rocks
-tiempo_lectura: 5
+tiempo_lectura: 4
 keywords:
 - oceanografic tickets sold out
 - oceanografic valencia tickets
@@ -28,7 +28,8 @@ slugs:
   it: oceanografic-valencia-biglietti-esauriti
   pt: oceanografic-valencia-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'An adult ticket to the Oceanogràfic costs **€35.90 to €43.05** depending on the date on the official site (`entradas.oceanografic.org`); children aged 4 to 12 and over-65s pay **€26.65 to €31.95**, and under-4s go free. If your date is sold out, check the **combo tickets** with the Science Museum or the Hemisfèric, which are sold separately, or buy from an authorised reseller: our tickets start **from €37**. The box office opens at 10am and closes an hour before the aquarium.'
+intro: 'If your **Oceanogràfic tickets** show as **sold out**, you still have options. Valencia''s Oceanogràfic is the **largest aquarium in Europe** and part of the City of Arts and Sciences, alongside the Science Museum and the Hemisfèric. Among pools and white buildings, such as the water-lily-shaped underwater restaurant, a full visit takes **3 to 4 hours**.'
+respuestaCorta: 'If Oceanogràfic tickets are sold out on the official site (entradas.oceanografic.org), try a nearby date, the **combo tickets** with the Science Museum or the Hemisfèric, the **box office** (opens at 10:00) or an authorised reseller, **from €37**. General entry costs **€35.90-43.05** depending on the day; children aged 4-12, **€26.65-31.95**. Under-4s go free.'
 actividades:
   - oceanografic-valencia-entrada
   - ciudad-artes-3-en-1-oceanografic-hemisferic-museu
@@ -59,86 +60,53 @@ opciones:
     etiqueta: Private tour
 ---
 
-The Oceanogràfic is Europe's largest aquarium. Out of season you're unlikely to find it sold out, but at **Easter, during Fallas, in August and over Spanish bank holiday weekends** some dates get tricky online and the box office queue becomes painful. If the official website won't let you book your date, these are the options left, in the order worth trying them.
+## Oceanogràfic Valencia prices by date
 
-## What options are left?
+Official sales are at entradas.oceanografic.org, linked from oceanografic.org. The Oceanogràfic **has no single price**: the website publishes a calendar with several rates depending on the date.
 
-| If you want… | Option | From |
-| --- | --- | --- |
-| A nearby date | Official website, price calendar | €35.90 |
-| To buy on the spot | Box office, until an hour before closing | Price of the day |
-| Free entry | No free hours; under-4s only | €0 |
-| A single ticket | [Oceanogràfic ticket](/en/cities/valencia/activities/oceanografic-valencia-ticket), 4.7★ (11,540) | €37 |
-| Oceanogràfic and Science Museum | [Combo ticket](/en/cities/valencia/activities/oceanografic-science-museum-combo-ticket), 4.7★ (2,797) | €39 |
-| All three attractions | [3-in-1 ticket with Hemisfèric and Science Museum](/en/cities/valencia/activities/ciudad-artes-3-en-1-ticket), 4.5★ (3,518) | €46 |
-| A private tour with entry | [Art Nouveau Valencia with Oceanogràfic option](/en/cities/valencia/activities/valencia-art-nouveau-private-tour-oceanografic) | €137 with entry |
-| An animal alternative | [Bioparc Valencia](/en/cities/valencia/activities/bioparc-valencia-ticket), 4.8★ (2,988) | €29.50 |
-
-## 1. The official website: prices by date
-
-Official sales are at `entradas.oceanografic.org`, linked from `oceanografic.org`. There's **no single price**: the site publishes a calendar with several rates depending on the date.
-
-| Ticket | Price depending on the date |
+| Ticket | Price depending on the day |
 | --- | --- |
-| Adult | €35.90-€43.05 |
-| Child (4-12), over-65, pensioner, disabled | €26.65-€31.95 |
-| Under-4s | Free |
-| Oceanogràfic + Science Museum | €37.70-€45.40 |
-| Oceanogràfic + Hemisfèric | €37.50-€45 |
-| Oceanogràfic + Science Museum + Hemisfèric | €44-€51.25 |
+| General | €35.90-43.05 |
+| Child (4-12), over 65, pensioner, disability | €26.65-31.95 |
+| Under 4 | Free |
+| Oceanogràfic + Science Museum | €37.70-45.40 |
+| Oceanogràfic + Hemisfèric | €37.50-45 |
+| Oceanogràfic + Museum + Hemisfèric | €44-51.25 |
 
-If your date shows no availability:
+**There are no free days or hours** for the general public: only under-4s and some professional groups, such as accredited official guides, get in free.
 
-- **Check the combos even if you only wanted the aquarium.** They're sold as separate products, and with two or three attractions the price per attraction drops a lot.
-- **Move your visit by a day.** At Easter or over a long weekend, the working day next to it is usually much quieter.
-- **Check that day's hours.** It opens at **10am**, but closing time follows the official calendar: some days 4pm or 6pm, others 8pm, 9pm or 10pm. With a 3-4 hour visit, a late start on an early-closing day isn't worth it.
+**Discounts:** large or single-parent families, 15% online and at the box office. Students, Carnet Jove holders and the unemployed, 15%, but **only at the box office** and with ID. With the **Valencia Tourist Card**, the Visit València shop gives 10% off.
 
-**Discounts:** large and single-parent families get 15% online and at the box office. Students, Carnet Jove holders and the unemployed get 15%, but **only at the box office**. With the **Valencia Tourist Card**, the Visit València shop takes 10% off.
+## Oceanogràfic opening hours and when it sells out
 
-## 2. The box office
+It opens every day at **10:00**, but closing time varies with the official calendar: some days it closes at **16:00 or 18:00**, others at 20:00, 21:00 or 22:00. With a 3-4 hour visit, going in late on an early-closing day isn't worth it.
 
-The box office sells same-day tickets and **closes an hour before the aquarium**. It's a decent plan B if the website misbehaves on a normal day, but during Fallas or in August the queue can eat into your visit. If you're with children, bring proof of age: reduced and under-4 tickets are checked.
+Outside peak season it's rare to miss out. The official site doesn't publish a sales window or flag sold-out days, so here's our advice:
 
-## 3. An authorised reseller ticket or a tour with entry
+- **Easter, Fallas (March), long weekends and August:** buy at least **a week** ahead and pick the first slot.
+- **Spring and autumn weekends:** two or three days ahead is usually enough.
+- **Weekdays off-season:** rarely a problem, even buying on the day.
 
-Authorised resellers buy tickets in advance and often have them when the official site is tight. You pay about the same or a little more, and skip the queue:
+## If your date is sold out
 
-- **Single ticket (from €37):** the most direct option.
-- **Combo with the Science Museum (from €39):** with children, the museum is the best value after the aquarium.
-- **3-in-1 with the Hemisfèric (from €46):** to spend the whole day at the City of Arts and Sciences.
+1. **Check the combo tickets**, even if you only planned on the aquarium. They're sold as separate products and, with two or three attractions, the price per attraction drops a lot.
+2. **Move your visit by a day.** At Easter or on a long weekend, the working day next to it is usually much quieter.
+3. **Go to the box office.** It sells same-day tickets and **closes an hour before the aquarium**. It's a plan B on a normal day, but during Fallas or August the queue can eat into your visit. Bring ID proving children's ages: reduced and free tickets are checked.
+4. **Buy from an authorised reseller.** They buy in advance and often have tickets when the official site is tight. You pay about the same or a little more and skip the queue: single ticket **from €37**, combo with the Science Museum **from €39** and 3-in-1 with the Hemisfèric **from €46**.
 
 [actividad: oceanografic-valencia-entrada]
 
-[actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
+## Oceanogràfic combo tickets and other alternatives
 
-If you'd like a guide, the private **Art Nouveau Valencia** tour spends three hours on the Estación del Norte, the Mercado de Colón and the Ensanche townhouses before reaching the City of Arts and Sciences. The full option includes skip-the-line Oceanogràfic tickets, from about **€137 per person** for two; the guide doesn't go into the aquarium with you.
-
-[actividad: valencia-modernista-tour-privado-oceanografic]
-
-## 4. If you can't get in: alternatives
-
-- **Bioparc Valencia** (from €29.50): an immersive zoo with savannah, equatorial forest and Madagascar, with no visible barriers. The closest substitute if you're going for the animals.
-- **Science Museum and Hemisfèric** (combo from €14): on the same site, a few minutes' walk from the Oceanogràfic.
+- **Science Museum and Hemisfèric** (combo from €14): in the same complex, a few minutes' walk away. With kids, the museum is the best value after the aquarium.
+- **Bioparc Valencia** (from €29.50): an immersion zoo with savannah, equatorial forest and Madagascar, with no visible barriers. The closest alternative if you're going for the animals.
 - **The complex from outside, free:** the Umbracle, the pools and Calatrava's buildings need no ticket. We cover it in [how to visit the City of Arts and Sciences](/en/guides/valencia/city-of-arts-sciences-how-to-visit).
+- **Modernist Valencia private tour:** three hours through Estació del Nord, Mercado de Colón and the Ensanche houses to the City of Arts and Sciences. The full option includes skip-the-line Oceanogràfic tickets, from about €137 per person for two; the guide doesn't go into the aquarium with you.
 
-[actividad: bioparc-valencia-entrada]
+## Tips
 
-## When it sells out and how far ahead to book
-
-The official site doesn't publish a booking window or flag full days. This is our advice:
-
-- **Easter, Fallas (March), bank holiday weekends and August:** book at least a week ahead and go for the first slot.
-- **Spring and autumn weekends:** two or three days ahead is usually enough.
-- **Weekdays out of season:** rarely a problem, even on the day.
-
-## Common mistakes
-
-1. **Comparing one day's price with another's.** The rate changes with the date; check yours before deciding.
-2. **Going in at 3pm on a day that closes at 6pm.** You'll miss half of it. Check the calendar.
-3. **Buying the single ticket and then the museum separately.** The combo is cheaper than both.
-4. **Forgetting proof for discounts.** Student and Carnet Jove discounts are box office only, with the card.
-5. **Assuming the private tour includes a guide inside the aquarium.** It includes entry, but the guide stays outside.
-
-## In a nutshell
-
-If the Oceanogràfic is sold out, check the combos and nearby dates on the official site or buy a reseller ticket from €37; if nothing is left, Bioparc and the Science Museum are the best alternatives. To plan the rest of your trip, [Valencia in 2 days](/en/guides/valencia/valencia-in-2-days) fits the aquarium in with the old town.
+- **Compare your day's rate**, not another day's: the price changes with the date.
+- **Don't go in at 15:00 on a day that closes at 18:00:** you'll miss half of it.
+- **If you'll see the museum too, buy the combo:** it's cheaper than the two separately.
+- **Bring proof** for discounts: students and Carnet Jove only at the box office and with ID.
+- To plan the rest of your trip, [Valencia in 2 days](/en/guides/valencia/valencia-in-2-days) fits the aquarium in with the old town.

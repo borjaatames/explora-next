@@ -1,17 +1,18 @@
 ---
 titulo: "Tarragona in one day: Roman Tarraco by the sea"
 descripcion: "What to see in Tarragona in one day: amphitheatre, circus, cathedral, walls and the aqueduct. An hour-by-hour route through Roman Tarraco, where to eat and PortAventura nearby."
-respuestaCorta: 'Tarragona is seen on foot in a day: start at 9:30 at the **amphitheatre by the sea**, then the circus and Praetorium Tower, the Cathedral and Part Alta, the walls and the Balcó del Mediterrani, with a **seafood lunch in the Serrallo**. The regional train from Barcelona takes **1h-1h 15min**, and a guided walking tour of Roman Tarraco costs from €15.'
+intro: 'Tarragona in one day takes you through the largest Roman ensemble in Catalonia, a **UNESCO World Heritage Site**, packed into a compact old town overlooking the Mediterranean. This was **Tarraco**, capital of Roman Hispania, and the city is still built on its stones: the amphitheatre beside the beach, the circus beneath the streets and the cathedral on top of a Roman temple. It is all walkable, with time left for seafood in the Serrallo.'
+respuestaCorta: 'Tarragona in one day: the **amphitheatre**, the circus and Praetorium Tower, the cathedral and Part Alta, the walls and the Balcó del Mediterrani, with lunch in the **Serrallo**. The **€15 combined ticket** covers the Roman sites, which **close on Mondays**. From Barcelona, the Regional train takes 1h-1h 15min.'
 categoria: "tarragona"
 slug: "tarragona-in-one-day"
 fecha: "2026-04-10"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarragona-en-un-dia.jpg"
 imagen_alt: "Lantern tower and belfry of Tarragona Cathedral"
-tiempo_lectura: 11
+tiempo_lectura: 4
 keywords:
   - "what to see in tarragona"
   - "tarragona in one day"
@@ -37,102 +38,85 @@ actividades:
   - flamencos-delta-del-ebro-atardecer
   - portaventura-ferrari-caribe-aquatic-entrada
   - tour-autoguiado-daremapp-tarragona
+faq:
+- pregunta: Can you see Tarragona in one day?
+  respuesta: 'Yes. The old town is compact and walkable: the amphitheatre, circus and Praetorium Tower, cathedral, Part Alta, walls and Balcó del Mediterrani fit into a morning, leaving the afternoon for lunch in the Serrallo and the aqueduct or the beach.'
+- pregunta: How much does it cost to visit Tarragona's Roman monuments?
+  respuesta: The combined ticket costs €15 and never expires; each site on its own costs €5. Under-12s go free. The Les Ferreres aqueduct is free.
+- pregunta: What is open in Tarragona on Mondays?
+  respuesta: The municipal Roman sites close on Mondays. That day you can still see the cathedral, the Balcó del Mediterrani, the walls from outside and the Les Ferreres aqueduct.
+- pregunta: How do you get to Tarragona from Barcelona?
+  respuesta: By Regional train in 1h-1h 15min (€8-9) to Tarragona station, a 10-minute walk from the amphitheatre. The AVE high-speed train stops at Camp de Tarragona, 10 km away, with a bus to the centre.
+- pregunta: Can you combine PortAventura and Tarragona on the same day?
+  respuesta: It is not a good idea. PortAventura World and Ferrari Land, in Salou, need a full day; keep the Roman old town for another day.
 ---
 
-**Tarragona is easily seen in a day.** It holds the largest Roman ensemble in Catalonia —and one of the most important in Spain, a UNESCO World Heritage Site— all in a compact old town overlooking the Mediterranean. This was **Tarraco**, capital of Roman Hispania, and the city is still built literally on its stones. This guide covers Roman Tarraco without rushing, separates the essentials from the filler and notes PortAventura for those travelling with family.
+## The route: what to see in Tarragona in one day
 
-## Book the essentials
+Start early and follow this order; everything is a few minutes apart on foot.
 
-| Activity | Rating | From |
-| --- | --- | --- |
-| [Guided walking tour of Roman Tarraco](/en/cities/tarragona/activities/roman-tarraco-walking-tour) | 4.7★ (334) | €15 |
-| [Cathedral ticket with audio guide](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4.4★ (105) | €12.5 |
-| [Catamaran trip with open bar, lunch and swim](/en/cities/tarragona/activities/cambrils-catamaran-open-bar-swim) | 4.5★ (2,188) | €35 |
-| [Guided quad safari with hotel pickup](/en/cities/tarragona/activities/salou-guided-quad-safari-hotel-pickup) | 4.8★ (1,225) | €90 |
-| [Bodegas Yzaguirre visit with 5-vermouth tasting](/en/cities/tarragona/activities/bodegas-yzaguirre-vermouth-tour-tasting) | 4.8★ (6) | €25 |
-| [Guided kayak tour on the Ebro river to Miravet](/en/cities/tarragona/activities/ebro-river-kayak-tour-miravet) | 4.7★ (97) | €35 |
-| [Flamingo and birdwatching tour at sunset](/en/cities/tarragona/activities/ebro-delta-flamingos-sunset-tour) | 4.7★ (63) | €40 |
-
-Tarragona's charm is that the amphitheatre sits right on the beach, the circus runs beneath the old-town streets and the medieval cathedral stands over a Roman temple. It's the classic day trip from Barcelona, but whoever stays for seafood in the Serrallo and sunset from the Balcó del Mediterrani takes home a city, not an express visit.
-
-## When to visit Tarragona
-
-| Season | Verdict | Why |
-| --- | --- | --- |
-| April to June | Ideal | Perfect weather, sea warming up, long days |
-| Mid-May | Tarraco Viva | The city turns Roman; spectacular |
-| September and October | Ideal | Gentle heat, fewer people, Santa Tecla |
-| July and August | Good | Beach and monuments; hot at midday |
-| November to March | Quiet | No queues; calçots season nearby |
-
-> **⭐ Tip:** if you can, come in **May during Tarraco Viva**, the Roman historical re-enactment festival: legionaries, gladiators and the whole city dressed as the Empire. It's the best way to see Tarraco come alive, quite literally.
-
-## Getting there
-
-**By train** from Barcelona in 1h-1h 15min (regional), with the station next to the old town. The AVE stops at Camp de Tarragona station, 10 km out. It's an easy day trip from Barcelona or a great base for the **Costa Daurada**. The old town is walked end to end; you only need transport for the aqueduct on the outskirts.
-
-## The one-day route, done right
-
-| Time | Activity |
+| Time | What |
 | --- | --- |
-| 9:30 — 10:30 | Roman Amphitheatre |
-| 10:30 — 11:30 | Circus and Praetorium |
-| 11:30 — 13:00 | Cathedral and Part Alta |
-| 13:00 — 13:30 | Walls (Passeig Arqueològic) |
-| 13:30 — 14:00 | Balcó del Mediterrani and Rambla Nova |
-| 14:00 — 16:00 | Lunch in the Serrallo |
-| 16:30 | Aqueduct (Pont del Diable) or beach |
+| 9:30 | Roman Amphitheatre |
+| 10:30 | Circus and Praetorium Tower |
+| 11:30 | Cathedral and Part Alta |
+| 13:00 | Walls (Passeig Arqueològic) |
+| 13:30 | Balcó del Mediterrani and Rambla Nova |
+| 14:00 | Seafood in the Serrallo |
+| 16:30 | Aqueduct or Miracle beach |
 
-**9:30 — Roman Amphitheatre.** Start at the **amphitheatre**, by the sea, the city's most famous image: gladiators fought here and, centuries later, a Visigothic basilica was raised whose ruins still stand in the arena. 1 hour.
+- **Roman amphitheatre**, by the sea: gladiators fought here, and in the arena you can see the ruins of a Visigothic basilica. Allow an hour.
+- **Circus and Praetorium:** the vaults where chariots raced, beneath today's city, and the panorama from the top of the tower.
+- **Cathedral**, built over the temple of Augustus, with a Romanesque-Gothic cloister. Around it, the medieval **Part Alta** and its narrow lanes.
+- **Passeig Arqueològic:** a walk between Roman walls with megalithic stretches and a garden. One of the loveliest corners of the city.
+- **Balcó del Mediterrani:** the lookout over the port at the end of the Rambla Nova. Tradition says you touch the iron railing ("tocar ferro") for luck. Come back at sunset.
+- **Les Ferreres Aqueduct (Pont del Diable):** on the outskirts and hardly anyone goes, but it is spectacular. If you prefer the sea, head down to **Miracle beach**, below the amphitheatre.
 
-**10:30 — Circus and Praetorium.** Continue to the **Roman Circus**, with its preserved vaults beneath the city, where chariots raced, and climb the **Praetorium Tower** for a panorama of the ensemble.
+A guide makes a big difference at the amphitheatre and the circus:
 
-**11:30 — Cathedral and Part Alta.** Climb to the **Cathedral**, built over the temple of Augustus, with its Romanesque-to-Gothic cloister, and get lost in the **Part Alta**, the medieval old town of narrow lanes.
+[actividad: tour-tarraco-romana-a-pie]
 
-**13:00 — Walls.** Walk the **Passeig Arqueològic**, between the Roman walls (with stretches of megalithic stone) and a garden, one of the prettiest corners.
+## Roman Tarraco: prices and opening hours
 
-**13:30 — Balcó del Mediterrani.** Look out from the **Balcó del Mediterrani**, the viewpoint over the port and the sea (touch the iron railing, "tocar ferro", for luck), at the end of the **Rambla Nova** and its monument to the castellers.
+- **Roman monuments** (amphitheatre, circus, Praetorium, walls, Casa Canals…): **€15 combined ticket**, with no expiry date; **€5** each separately; **free for under-12s**.
+- **April to October:** Tuesday to Saturday 9:00-20:45, Sundays 9:00-14:30.
+- **Winter:** Tuesday to Friday 9:00-18:30 (circus-Praetorium and Casa Canals until 20:00), Saturdays from 9:30, Sundays 9:30-14:30.
+- **All Roman sites close on Mondays.**
+- **Cathedral:** €13 with audio guide, cloister and museum; the bell tower is €5 extra, by time slot. Closed on Sunday mornings.
+- **Aqueduct:** free and always open. Bus 5 or 85 from the Rambla, about 15 minutes. You walk across the top with no railings: take care with children and in wind.
+- **MNAT (archaeological museum):** €4-5, free on the first Sunday of the month. It is in a temporary home, Tinglado 4 in the port, with the Medusa and fish mosaics.
 
-**14:00 — Lunch.** Time for seafood (see below).
+If you come on a Monday, you still have the cathedral, the Balcó, the walls from outside and the aqueduct.
 
-**16:30 — Aqueduct or beach.** If you have a car, don't miss the **Les Ferreres aqueduct (Pont del Diable)** on the outskirts, set in a park. If you prefer the sea, head down to **Platja del Miracle**, at the foot of the amphitheatre.
+## When to go and how to get there
+
+**April-June and September-October** are the best months. In **May, Tarraco Viva** fills the city with legionaries and gladiators: the best way to see it. **Santa Tecla** (September) brings castells, correfocs and giants, and in October of odd-numbered years the **Concurs de Castells**, the great human-tower competition, takes place. From November to March there are no queues and it is calçot season.
+
+- **From Barcelona:** **Regional train in 1h-1h 15min** (€8-9) to Tarragona station, a 10-minute walk from the amphitheatre.
+- **By AVE:** it stops at Camp de Tarragona, 10 km away, with a bus to the centre.
+- **From Salou or PortAventura:** 15-20 minutes.
+
+The old town is done on foot; only the aqueduct needs a bus or car.
+
+## Where to eat and stay
+
+Tarragona cooks from the sea and the market garden:
+
+- **Fresh fish from the auction in the Serrallo**, the fishermen's quarter. Restaurants serve from 13:00 to 16:00; book on Sundays.
+- **Suquet de peix** (fish stew), rice dishes, **romesco** and **xató**, and **calçots** in winter.
+- Wines from the **Priorat** and **Montsant**, among the best in Spain.
+
+Avoid the tourist terraces on the Rambla at peak times.
+
+To stay, choose the **Part Alta** or the streets around the Rambla Nova; the **Serrallo** if you want the sea and seafood; Salou or Cambrils if you are coming for PortAventura.
 
 ## With kids: PortAventura
 
-A few kilometres away, in Salou, **PortAventura World** (with **Ferrari Land**) is one of the largest theme parks in Europe: if you're travelling with family, give it a separate full day. Don't try to combine it with the Roman old town on the same day.
+In Salou you will find **PortAventura World** and **Ferrari Land**, among the biggest parks in Europe. They are a full day on their own: do not combine them with the Roman old town on the same day.
 
-## Where to stay
+## Tips
 
-The handiest base is the **Part Alta** or around the Rambla Nova: everything on foot and a lively feel. The **Serrallo** quarter is ideal for sea and seafood. If you've come for PortAventura, **Salou** and **Cambrils** have all the coastal options. **Avoid** staying far from the old town if you want to experience the city at night.
-
-## Eating in Tarragona
-
-Tarragona cooking is sea and garden. The essentials: the **fish and seafood of the Serrallo** (the fishing quarter by the port), the **suquet de peix** (fish stew), the rice dishes and, as star sauces, the **romesco** and the **xató**. In winter, **calçots** (grilled spring onions) with romesco are a ritual in the surrounding area. To drink, wines from the **Priorat** and **Montsant**, among the best in Spain.
-
-> **⚠️ Warning:** avoid the more touristy Rambla Nova terraces at peak time. Head down to the Serrallo or into the Part Alta and you'll eat better for less.
-
-## What we don't recommend
-
-1. **Seeing it only in passing from Barcelona.** The Roman ensemble deserves a whole day.
-2. **Mixing PortAventura and the Roman old town on the same day.** There's no time to enjoy either.
-3. **Skipping the Serrallo.** That's where the best seafood is, away from the tourist terraces.
-4. **Forgetting the aqueduct.** It's on the outskirts and almost no one goes, but it's spectacular.
-
-## Common visitor mistakes
-
-> **⚠️ Warning:** the slip-ups we see most.
-
-1. **Not buying the combined ticket to the Roman monuments.** It's far better value than paying one by one.
-2. **Confusing Tarragona with Salou.** They're different experiences; give each its place.
-3. **Eating on the Rambla at midday.** Walk to the Serrallo and everything improves.
-4. **Leaving without sunset from the Balcó.** It's the best view in the city.
-
-## Events to plan around
-
-- **Tarraco Viva (May).** The great Roman re-enactment festival: the whole city dressed as the Empire, with legionaries, gladiators and workshops.
-- **Castells Competition (odd years, October).** Tarragona is the world capital of **castells** (human towers, Intangible Heritage): the biennial competition is breathtaking.
-- **Santa Tecla (September).** The main festival, with castells, fire runs (correfocs) and giants through the old town.
-
-## In one sentence
-
-Tarragona in a day is Rome facing the Mediterranean: amphitheatre, circus and walls in a compact old town, capped with seafood in the Serrallo and a beach or PortAventura a step away.
+- **Don't just pass through** or confuse it with Salou: it deserves the whole day.
+- **Buy the combined ticket** instead of paying for each monument separately.
+- **Avoid Mondays** if you want to go inside the Roman sites.
+- **Don't skip the Serrallo**, the aqueduct or sunset at the Balcó.

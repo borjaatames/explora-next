@@ -4,7 +4,7 @@ descripcion: "Seville in 3 days: Alcázar, Cathedral, Triana and Itálica, hour 
 categoria: "sevilla"
 slug: "seville-in-3-days"
 fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-30"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: true
@@ -24,7 +24,8 @@ slugs:
   it: siviglia-in-3-giorni
   pt: sevilha-em-3-dias
 reservasArriba: true
-respuestaCorta: 'Three days lets you see Seville at a calm pace: **day one the Real Alcázar** (€15.50 online, book days ahead), the Cathedral and Giralda, and sunset at Plaza de España; **day two Triana** and the river at sunset; day three a slow day in town or the **Roman ruins of Itálica**, 9 km away. The best months are March to May and October to November.'
+intro: '**Seville in 3 days** lets you enjoy the city without rushing: the light on the Giralda, the tiles of Plaza de España, the river from the Triana bridge and the orange blossom in the old town. There is time for the **Real Alcázar**, the **Cathedral**, Santa Cruz, **Triana**, the Seville of squares and museums, and even the Roman ruins of **Itálica**. Two days leave you wanting more.'
+respuestaCorta: 'Seville in 3 days: **day 1, the Real Alcázar** (€15.50 online, book ahead), the Cathedral and Giralda, and Plaza de España at sunset; **day 2, Triana** and the river at sunset; day 3, the city at a slower pace or **the Roman ruins of Itálica**, 9 km away. Best time: March-May, October and November.'
 actividades:
   - real-alcazar-sevilla-entrada
   - catedral-sevilla-giralda-entrada-skip-line
@@ -43,84 +44,79 @@ actividades:
   - italica-ruinas-romanas-monasterio-desde-sevilla
   - teatro-flamenco-triana-show-en-directo
 faq:
-  - pregunta: "Are 3 days enough for Seville?"
-    respuesta: "Yes, for the essentials without rushing: the Alcázar, the Cathedral and the Giralda, Santa Cruz, Plaza de España, Triana and the river, plus a third day for Itálica or slow Seville. With a fourth day you can go to Córdoba or Cádiz."
-  - pregunta: "Do I need to book the Alcázar in advance?"
-    respuesta: "Yes. Tickets are sold online with a time slot and in high season they sell out days ahead. If none are left, guided tours usually include entry."
-  - pregunta: "Is a guided tour of the Alcázar or the Cathedral worth it?"
-    respuesta: "If you want to understand what you're seeing, yes: both are huge and without context you only half see them. Privately, for 4 people, it's €52-56 per person with entry included."
-  - pregunta: "What to do in Seville when it rains or is very hot?"
-    respuesta: "Covered museums and monuments: the Fine Arts Museum, Casa de Pilatos, the Archive of the Indies or the Cathedral. In summer, be outdoors before 1 PM and after 7 PM."
+- pregunta: Are 3 days enough to see Seville?
+  respuesta: 'Yes, for the essentials without rushing: the Alcázar, the Cathedral and Giralda, Santa Cruz, Plaza de España, Triana and the river, plus a third day for Itálica or slow Seville. With a fourth day you can go to Córdoba or Cádiz.'
+- pregunta: Do you need to book the Alcázar in advance?
+  respuesta: Yes. Tickets are sold online with a time slot and in high season they sell out days ahead. If there are none left, guided tours usually include entry.
+- pregunta: Is a guided tour of the Alcázar or the Cathedral worth it?
+  respuesta: 'If you want to understand what you see, yes: both monuments are huge and without context you only see half. Privately, for 4 people, it works out at €52-56 per person with entry included.'
+- pregunta: What to do in Seville if it rains or is very hot?
+  respuesta: 'Indoor museums and monuments: the Fine Arts Museum, the Casa de Pilatos, the Archivo de Indias or the Cathedral. In summer, be out on the street before 13:00 and after 19:00.'
+- pregunta: How do you get to Itálica from Seville?
+  respuesta: It's 9 km away, in Santiponce. Bus M-170A from Plaza de Armas (45 minutes, €1.55) or 15 minutes by car. Entry is free for EU citizens and the visit takes half a morning.
 ---
-
-Three days is the right length for Seville if you know what to prioritise. With two you rush the Alcázar, the Cathedral and Triana and leave wanting more; with four or five you can add Córdoba, Cádiz or Jerez. This is the route we'd give a friend.
-
-## The plan at a glance
-
-| Day | Morning | Afternoon | Sunset |
-| --- | --- | --- | --- |
-| 1 | Real Alcázar, Cathedral and Giralda | Barrio de Santa Cruz | Plaza de España |
-| 2 | Triana and its market | Old town without monuments | The river: Torre del Oro, Las Setas or a cruise |
-| 3 | Fine Arts Museum or Itálica | Casa de Pilatos or back to town | Last dinner in Triana |
-
-## When to go and how to get there
-
-- **Best months:** March to May and October to November (18–28°C); orange blossom in March and April. **November** is underrated: 15–22°C, cheaper hotels, few tourists.
-- **Avoid:** June to August (38–45°C at midday); if you must, go out until 1 PM, retreat to air conditioning, and go out again at 7 PM. Holy Week and the April Fair fill hotels a year ahead.
-- **AVE from Madrid:** 2h 30min to Santa Justa, from €35 booked ahead (up to €80 on the day). **Plane:** the airport is 10 km out; the EA bus reaches Plaza de Armas in 35 minutes (€4). **Car:** not for the centre; park at the hotel or outside the old town and walk.
 
 ## Day 1: the monumental heart
 
-**9:30 AM — Real Alcázar.** Buy online days ahead (€15.50; the Cuarto Real Alto, the royal apartments, is €5.50 extra with a 25-minute guided visit) and take the first slot. By noon the queue runs 30–45 minutes and the 750-person capacity fills. Allow 2–3 hours: Patio de las Doncellas, the Hall of Ambassadors and **the full gardens**, which half of visitors miss. More in [how to visit the Alcázar](/en/guides/sevilla/alcazar-of-seville-how-to-visit). If tickets are gone or you want it explained, the [private tour with an official guide and tickets](/en/cities/sevilla/activities/royal-alcazar-seville-private-tour-official-guide) is €191 for 2 people or €222 for 4.
+**9:30 — Real Alcázar.** Buy your ticket online days ahead (€15.50; the Cuarto Real Alto is €5.50 extra with a 25-minute guided visit) and take the first slot: at 9:30 it's a different monument from the one at 12:00, when there are 30-45-minute queues and the 750-person capacity fills up. Allow 2-3 hours: the Patio de las Doncellas, the Hall of the Ambassadors and **all of the gardens**, which half of visitors skip. If tickets run out, guided tours usually include entry. Details in [how to visit the Alcázar](/en/guides/sevilla/alcazar-of-seville-how-to-visit).
 
-[actividad: royal-alcazar-seville-skip-line-guided-tour]
+[actividad: real-alcazar-sevilla-entrada]
 
-**12:30 PM — Cathedral and Giralda**, opposite. The world's largest Gothic cathedral, Columbus's tomb and a sacristy with Murillo and Zurbarán; the Giralda is climbed by ramps and has the best view of the centre. Combined ticket with the Iglesia del Salvador: €20 online (free for under-13s with an adult). Allow 1h 30min to 2 hours. With a guide just for your group and the Giralda included: the [private tour](/en/cities/sevilla/activities/seville-cathedral-giralda-private-tour-guide-tickets) (€184 for 2, €208 for 4). Avoid the Giralda from mid-morning to noon, when the climb queue reaches 30–45 minutes.
+**12:30 — Cathedral and Giralda**, right opposite. The largest Gothic cathedral in the world, Columbus's tomb, the main altarpiece and the sacristy with Murillo and Zurbarán. You climb the Giralda by ramp, not stairs, and it's the best view of the centre. Combined ticket with the Church of El Salvador, **€20 online** (free for under-13s). Allow 1 h 30 to 2 hours.
 
-**2 PM — Lunch.** Not on the terraces of Plaza Virgen de los Reyes or Mateos Gago: walk five minutes to the Arenal, or cross to Calle Pureza in Triana.
+**14:00 — Lunch.** Not on the terraces of Plaza Virgen de los Reyes or on Mateos Gago: walk five minutes to El Arenal or cross to Calle Pureza in Triana.
 
-**4 PM — Santa Cruz.** Touristy rather than authentic, but Plaza de Doña Elvira, the white alleys and the **Hospital de los Venerables** (€10, Velázquez Centre) are worth it.
+**16:00 — Santa Cruz.** The old Jewish quarter is the most touristy neighbourhood, not the most authentic, but Plaza de Doña Elvira, the whitewashed alleys and the **Hospital de los Venerables** (€10, with the Velázquez Centre) are worth the afternoon.
 
-**7:30 PM — Plaza de España at sunset**, never at midday (no shade). Then the María Luisa Park.
+**19:30 — Plaza de España at sunset.** Seville's postcard, but never at midday: no shade and full sun. Go in the golden light over the province benches and the canal boats; then María Luisa Park.
 
 ## Day 2: Triana and the other side of the river
 
-**10 AM — Triana.** Walk across the **Isabel II Bridge**. See the **Mercado de Triana** (stalls and tapas bars, over the free **Castillo de San Jorge**, the former Inquisition headquarters), **Calle Betis** facing the old town, and **Santa Ana** church. Lunch in the taverns of Calle Pureza and Pagés del Corro, where Sevillians eat.
+**10:00 — Triana.** Walk across the **Isabel II bridge** and look back. Waiting for you:
 
-**4 PM — The old town without monuments.** Plaza Nueva, Plaza del Salvador, Sierpes and Tetuán. Or the **Fine Arts Museum** (free for EU citizens, €1.50 others): Murillo, Zurbarán and Valdés Leal, almost empty. With an art historian in a group of 8 at most: the [Fine Arts Museum guided tour](/en/cities/sevilla/activities/seville-fine-arts-museum-guided-tour), from €22.90.
+- The **Triana Market**, over the Castillo de San Jorge, former seat of the Inquisition (free).
+- **Calle Betis**, facing the old town.
+- The **Santa Ana** church, the "cathedral of Triana".
 
-**7:30 PM — Sunset on the Guadalquivir.** Three options:
+Have lunch in the taverns of Pureza and Pagés del Corro, where locals eat.
 
-1. **Torre del Oro** (€3, free on Mondays) and the riverside walk through the Arenal.
-2. **Las Setas** (Metropol Parasol, €15): a 360° rooftop walkway with the Giralda in view.
-3. A one-hour **river cruise** from the Torre del Oro (€15–20).
+**16:00 — The old town without monuments.** Plaza Nueva, Plaza del Salvador, Sierpes and Tetuán, and the Pan and Cabildo squares. If you fancy a museum, the **Fine Arts Museum** (free for EU citizens, €1.50 for others): Spain's second painting museum, with Murillo, Zurbarán and Valdés Leal, and almost empty.
+
+**19:30 — Sunset on the Guadalquivir.** Three options:
+
+- The **Torre del Oro** (€3, free on Mondays) and the Arenal riverside walk.
+- The **Setas** (from €16), with 360° views and the Giralda.
+- A **one-hour cruise** from the Torre del Oro (from €16.50).
 
 ## Day 3: slow Seville or Itálica
 
-**Option A, slow Seville:** the Fine Arts Museum, then **Casa de Pilatos** (€12; a 15th–16th-century palace with patios that rival the Alcázar's and a fraction of the crowds) and the plazas of Alfalfa and Encarnación.
+**Option A, slow Seville:** the Fine Arts Museum in the morning, the **Casa de Pilatos** in the afternoon (€12; a 15th-16th century palace with patios to rival the Alcázar's and a tenth of the crowds), María Luisa Park and the Alfalfa and Encarnación squares.
 
-**Option B, Itálica:** 9 km away in Santiponce, the Roman city where emperors Trajan and Hadrian were born, with an amphitheatre for 25,000 (the Dragonpit in *Game of Thrones*) and mosaics in place. Bus M-170A from Plaza de Armas (45 minutes, €1.55) or 15 minutes by car; free for EU citizens, €1.50 for others. It takes a morning; return for a last dinner in Triana. With a guide: a [group tour with San Isidoro monastery](/en/cities/sevilla/activities/italica-roman-ruins-medieval-monastery-from-seville) from €42 or a [2-hour private visit](/en/cities/sevilla/activities/italica-private-guided-tour-santiponce).
+**Option B, Itálica:** 9 km away in Santiponce, the city where Trajan and Hadrian were born, with an amphitheatre for 25,000 people (the Dragonpit in *Game of Thrones*) and mosaics in situ. Bus **M-170A** from Plaza de Armas (45 minutes, €1.55) or 15 minutes by car; free entry for EU citizens. It takes half a morning. If you'd rather go with a guide, there's a [group tour with the San Isidoro monastery](/en/cities/sevilla/activities/italica-roman-ruins-medieval-monastery-from-seville) from €42.
 
-**If you have a spare day:** Córdoba is 45 minutes away by high-speed train; all the options in [day trips from Seville](/en/guides/sevilla/day-trips-from-seville).
+Round it off with a last dinner in Triana. **If you have a spare day:** Córdoba is 45 minutes by AVE; all the options in [day trips from Seville](/en/guides/sevilla/day-trips-from-seville).
 
-## Where to stay
+## When to go and how to get to Seville
 
-**Arenal** is the best balance: next to the Cathedral, less tourism, better prices. The **historic centre** is walkable but pricey and noisy; **Santa Cruz** is very touristy; **Triana** is authentic, 10–15 minutes' walk away; **Alameda** is lively at night. Avoid Polígono Sur and lower Macarena at night.
+- **Best time:** March, April, May, October and November, at 18-28 °C; in March and April, orange blossom. **November** is the underrated month: 15-22 °C, terraces, reasonable hotels and hardly any tourists.
+- **Avoid:** June to August (38-45 °C; if you must, follow Seville hours: outdoors until 13:00, an air-conditioned museum, and out again at 19:00) and, unless you're coming for them, Holy Week and the April Fair, with hotels booked a year ahead.
+- **Events:** **Holy Week**, the **April Fair** (two weeks later; without a host with a private caseta you only half experience it), the **Bienal de Flamenco** (September in even years) and the **Velá de Triana** (July, festivities on Calle Betis).
+- **AVE from Madrid:** 2 h 30 to Santa Justa, from €35 booked ahead.
+- **Plane:** the airport is 10 km away; the EA bus reaches Plaza de Armas in 35 minutes (€4).
+- **Car:** not for the centre; park at the hotel or outside the old town and walk.
 
-## Eating
+## Where to stay and where to eat
 
-Lunch is 2–4 PM and dinner 9–11:30 PM; in summer, authentic places close between 4 and 8 PM. Good areas: Triana (Calle Betis, the market, Calle Pureza), the Alameda and upper Macarena. For bar-by-bar picks, see our [Seville tapas guide](/en/guides/sevilla/seville-tapas-with-criteria). Skip the plazas by the Cathedral and any "mixed tapas, sangria and paella" menu. Dishes to try: solomillo al whisky, pringá, spinach with chickpeas, cazón en adobo (marinated fried dogfish) and salmorejo.
+**Stay.** **El Arenal** is the best balance: next to the Cathedral, fewer tourists and better prices. The **historic centre** lets you walk everywhere but is expensive and noisy; **Santa Cruz** is the postcard, very touristy; **Triana**, authentic Seville 15 minutes away, ideal if you already know the city; the **Alameda**, young and lively at night. Avoid the Polígono Sur, the lower Macarena at night and the airport area.
 
-## What we don't recommend
+**Eat.** Lunch is from 14:00 to 16:00 and dinner from 21:00 to 23:30; in summer, authentic places close from 16:00 to 20:00. The best areas are Triana (Betis, the market, Pureza), the Alameda and the upper Macarena; bar by bar in our [tapas guide](/en/guides/sevilla/seville-tapas-with-criteria). The closer to the Cathedral, the worse. Order solomillo al whisky, pringá, spinach with chickpeas, marinated dogfish (cazón en adobo) and salmorejo.
 
-- **Flamenco with dinner in Santa Cruz:** weak show, worse food. For serious flamenco, Casa de la Memoria or a theatre in Triana; see [which flamenco tablao to choose](/en/guides/sevilla/flamenco-seville-which-tablao-to-choose).
-- **"Legends" tours in huge groups with a loudspeaker:** if the theme appeals, go small-group or private, like [Mysterious Seville at sunset](/en/cities/sevilla/activities/mysterious-seville-private-tour-sunset).
-- **Paella:** it's Valencian.
+## Tips from our Seville guide: what we don't recommend
 
-**Biggest mistake:** staying in the historic centre. Without Triana you miss half of Seville.
+- **The Giralda at midday:** 30-45 minutes of queuing.
+- **Flamenco with dinner in Santa Cruz:** a weak show and a worse dinner. For serious flamenco, Casa de la Memoria or a theatre in Triana; more in [which tablao to choose](/en/guides/sevilla/flamenco-seville-which-tablao-to-choose).
+- **"Legends" tours in huge groups with a loudspeaker:** if the subject appeals, go in a small group or privately.
+- **"Mixed tapas, sangria and paella" menus:** paella is from Valencia.
+- **Not buying the Alcázar online**, Plaza de España at midday in summer or **staying only in the historic centre:** without Triana you miss half of Seville.
 
-## Dates to plan around
-
-**Holy Week** (the city is saturated; book a year ahead), the **April Fair** (two weeks later; most casetas are private, so you need a local host to enjoy it fully), the **Flamenco Biennial** (September, even years) and the **Velá de Triana** (July, street festival on Calle Betis).
-
-For a single day, see [Seville in 1 day](/en/guides/sevilla/seville-in-1-day); with children, [Seville with kids](/en/guides/sevilla/seville-with-kids).
+For a single day, [Seville in 1 day](/en/guides/sevilla/seville-in-1-day); with kids, [Seville with kids](/en/guides/sevilla/seville-with-kids).

@@ -1,11 +1,12 @@
 ---
 titulo: "Pintxos em Bilbau: guia do txikiteo (zonas, clássicos e regras)"
 descripcion: "Guia de pintxos em Bilbau: onde ir de txikiteo (Plaza Nueva, Casco Viejo, Ensanche), os pintxos clássicos, a Gilda, o que beber e como não parecer turista."
-respuestaCorta: 'Vá de balcão em balcão pela **Plaza Nueva e pelo Casco Viejo**, ou pelas ruas Ledesma e García Rivero no Ensanche, com **um ou dois pintxos por bar**. Comece com uma Gilda e pergunte pelos quentes da cozinha. Conte com **2-3,50 € por pintxo frio e 4-6 € pelo quente**; um jantar de txikiteo fica por 25-35 € por pessoa.'
+intro: 'Comer **pintxos em Bilbau** é um ritual mais do que uma refeição: não te sentas num sítio, vais de balcão em balcão, o **txikiteo**, com um pintxo e um txikito ou um zurito em cada bar. A Plaza Nueva e as Siete Calles do Casco Viejo são o epicentro, e o Ensanche junta bares modernos. Aqui tens onde ir, o que pedir e como fazê-lo como um local.'
+respuestaCorta: 'Para comer **pintxos em Bilbau**, vai de bar em bar pela **Plaza Nueva e pelo Casco Viejo**, ou pelas ruas Ledesma e García Rivero no Ensanche, com **um ou dois por bar**. Começa com uma Gilda e pede os quentes. Conta **2-3,50 € o pintxo frio e 4-6 € o quente**; um jantar de txikiteo, 25-35 €.'
 categoria: "bilbao"
 slug: "pintxos-em-bilbau"
 fecha: "2026-04-04"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
@@ -29,72 +30,72 @@ reservasArriba: true
 actividades:
   - tour-pintxos-bilbao-vino
   - clase-cocina-pintxos-bilbao
+faq:
+- pregunta: Quanto custa ir aos pintxos em Bilbau?
+  respuesta: Um pintxo frio de balcão custa 2-3,50 € e um quente de cozinha 4-6 €. Um zurito ronda 1,50 €, um txikito 1,50-2,50 € e um copo de txakoli 2,50-3,50 €. Um jantar de txikiteo com 5-6 pintxos e bebidas fica por 25-35 € por pessoa.
+- pregunta: Qual é a melhor zona para comer pintxos em Bilbau?
+  respuesta: A Plaza Nueva e as Siete Calles do Casco Viejo são o epicentro clássico. No Ensanche, a rua Ledesma tem pintxos modernos, e García Rivero e Diputación reúnem alguns dos bares mais conhecidos da cidade. A rua Pozas, junto a San Mamés, anima-se sobretudo em dia de jogo.
+- pregunta: A que horas se vai aos pintxos em Bilbau?
+  respuesta: Os balcões enchem das 12:30 às 15:00 e das 19:30 às 22:30. Pelo meio, muitos bares do Casco Viejo fecham a cozinha ou o local (sobretudo das 16:00 às 19:00), e bastantes descansam à segunda-feira.
+- pregunta: O que é o pintxo-pote?
+  respuesta: Às quintas à noite, nos bares de Deusto, Indautxu e da rua Licenciado Poza, pintxo mais bebida por 2-3 €. É o programa dos universitários e uma boa forma de começar.
+- pregunta: Deixa-se gorjeta nos bares de pintxos?
+  respuesta: 'Não, ou no máximo as moedas do troco. Paga-se ao sair, de boca: o empregado lembra-se do que tomaste.'
 ---
 
-**Comer pintxos em Bilbau é um ritual, não apenas uma refeição.** Não se trata de se sentar num sítio, mas de ir de balcão em balcão (o **txikiteo** ou **poteo**), tomando um pintxo e um txikito (vinho) ou um zurito (imperial pequena) em cada casa. Este guia diz-lhe onde ir, o que pedir e como fazê-lo como um bilbaíno e não como um turista distraído.
+Regra número um do txikiteo: **mexe-te**. A graça é provar a especialidade de cada bar, não ficar num só. E os melhores pintxos muitas vezes não estão à vista no balcão: pedem-se quentes.
 
-## Tours de pintxos
-
-| Atividade | Avaliação | Desde |
-| --- | --- | --- |
-| [Tour de pintxos com vinho](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4,9★ (1.041) | 95 € |
-| [Aula de cozinha de pintxos (em inglês)](/en/cities/bilbao/activities/bilbao-pintxos-cooking-class) | 4,8★ (70) | 80 € |
-
-A regra número um: **mexa-se**. A graça é provar a especialidade de cada bar, não ficar num só. E os melhores pintxos muitas vezes não estão à vista no balcão: pedem-se quentes.
-
-[actividad: tour-pintxos-bilbao-vino]
-
-## Onde ir aos pintxos
+## Onde comer pintxos em Bilbau
 
 | Zona | Ambiente |
 | --- | --- |
-| Plaza Nueva (Casco Viejo) | Arcadas, clássica, epicentro do txikiteo |
-| Siete Calles (Casco Viejo) | Bares tradicionais, muito ambiente |
-| Rua Ledesma (Ensanche) | Pintxos modernos, after-work |
-| García Rivero / Diputación (Ensanche) | Dos mais reconhecidos da cidade |
-| Rua Pozas (junto a San Mamés) | Animada, sobretudo em dia de jogo |
+| **Plaza Nueva** (Casco Viejo) | Arcadas, clássica, epicentro do txikiteo |
+| **Siete Calles** (Casco Viejo) | Bares tradicionais, muito ambiente |
+| **Rua Ledesma** (Ensanche) | Pintxos modernos, depois do trabalho |
+| **García Rivero / Diputación** (Ensanche) | Dos mais reconhecidos da cidade |
+| **Rua Pozas** (junto a San Mamés) | Animada, sobretudo em dia de jogo |
 
-## Os pintxos clássicos
+Ao domingo à tarde o Casco Viejo está apagado; o Ensanche, mais vivo.
 
-- **A Gilda.** O pintxo original: malagueta, azeitona e anchova num palito. Salgado e viciante; peça-o primeiro.
-- **Bacalhau** (panado, ao pil-pil ou à biscainha).
+## Os pintxos clássicos, a começar pela Gilda
+
+- **A Gilda.** O pintxo original: malagueta, azeitona e anchova num palito. Salgado e viciante; pede-o primeiro.
+- **Bacalhau**, panado, al pil-pil ou à vizcaína.
 - **Tortilha de batata** suculenta: em Bilbau leva-se muito a sério.
-- **Txampis** (cogumelos na chapa com alho).
-- **Pintxos de cozinha** (quentes, "à caçarola"): bochechas, foie, txangurro… os que se pedem à parte.
+- **Txampis**, cogumelos na chapa com alho.
+- **Pintxos de cozinha** (quentes, «a la cazuela»): bochechas, foie, santola (txangurro)… Pedem-se à parte, muitas vezes do quadro do dia.
 
 ## O que beber
 
-- **Txikito ou pote**: um copo pequeno de vinho (normalmente manda o Rioja).
-- **Zurito**: uma imperial pequena, ideal para andar de bar em bar sem exagerar.
-- **Txakoli**: o branco basco, ácido e fresco, servido do alto.
+- **Txikito ou pote:** um copo pequeno de vinho (costuma mandar o Rioja).
+- **Zurito:** uma imperial pequena, ideal para ir de bar em bar sem exagerar.
+- **Txakoli:** o branco basco, ácido e fresco, servido do alto.
 
-## Como fazer bem
+## Como fazer o txikiteo em Bilbau
 
-1. **Peça ao balcão** o que vir, ou pergunte pelo quadro dos **pintxos quentes** do dia.
-2. **Coma um ou dois por bar** e mude de casa: isso é o txikiteo.
-3. **Pague por rondas**; em muitos sítios confia-se no cliente e cobra-se no fim.
-4. **Hora de ponta**: o aperitivo do meio-dia (13h00-15h00) e o do fim da tarde e noite (20h00-22h00).
+1. **Pede ao balcão** o que vires, ou pergunta pelo quadro de **pintxos quentes**. Diz quantos e quais, e a bebida; os quentes pedem-se expressamente.
+2. **Um ou dois por bar**, e muda de sítio. Os locais encadeiam três ou quatro; ficar a noite toda num só bar da Plaza Nueva é coisa de turista.
+3. **Paga ao sair**, de boca: o empregado lembra-se do que tomaste. Não se deixa gorjeta, ou no máximo as moedas do troco.
+4. **De pé é o normal.** As mesas, se houver, são para comer à carta; se te quiseres sentar com pintxos, pede licença e, em muitos sítios, cobram um pouco mais.
 
-> **Aviso:** ficar a noite toda num só bar da Plaza Nueva é coisa de turista. Os locais encadeiam três ou quatro; faça o mesmo e comerá muito melhor.
+Se preferires que te guiem pelos bares na primeira noite, o tour de pintxos com vinho é a opção mais bem avaliada:
 
-## O lado prático: preços, horários e costumes
+[actividad: tour-pintxos-bilbao-vino]
 
-- **Preços:** um pintxo frio de balcão, 2-3,50 €; um quente de cozinha, 4-6 €; um zurito, 1,50 €; um txikito, 1,50-2,50 €; um copo de txakoli, 2,50-3,50 €. Um jantar de txikiteo com 5-6 pintxos e bebidas fica por 25-35 € por pessoa.
-- **Horários:** os balcões enchem das 12h30 às 15h00 e das 19h30 às 22h30. Entre uma coisa e outra, muitos bares do Casco Viejo fecham a cozinha ou a casa inteira (sobretudo das 16h00 às 19h00), e à segunda-feira bastantes descansam. Ao domingo à tarde o Casco Viejo está morto; o Ensanche, mais vivo.
-- **Pintxo-pote:** às quintas-feiras à noite, nos bares de Deusto, Indautxu e da rua Licenciado Poza, pintxo mais bebida por 2-3 €. É o plano dos universitários e uma boa forma de começar.
-- **Como pedir:** diga quantos e quais, e a bebida; o quente pede-se expressamente. Paga-se à saída, de boca: o empregado lembra-se do que tomou. Não se deixa gorjeta, ou quando muito as moedas do troco.
-- **De pé é o normal:** as mesas, se as houver, são para comer à carta. Se quiser sentar-se a comer pintxos, peça licença e, em muitos sítios, cobram-lhe um pouco mais.
-- **Semana Grande** (a Aste Nagusia, em meados de agosto) e os dias de jogo em San Mamés: tudo a abarrotar e alguns bares com preços de festa. Divertido, mas não é o dia para um txikiteo tranquilo.
+## Preços e horários
 
-[actividad: clase-cocina-pintxos-bilbao]
+- **Pintxo frio** de balcão: **2-3,50 €**. **Quente** de cozinha: **4-6 €**.
+- **Zurito:** 1,50 €. **Txikito:** 1,50-2,50 €. **Copo de txakoli:** 2,50-3,50 €.
+- **Jantar de txikiteo** com 5-6 pintxos e bebidas: **25-35 € por pessoa**.
+- **Horas de ponta:** **12:30-15:00** e **19:30-22:30**. Pelo meio, muitos bares do Casco Viejo fecham a cozinha ou o local (sobretudo das 16:00 às 19:00), e **bastantes descansam à segunda**.
+- **Pintxo-pote:** às **quintas à noite**, nos bares de Deusto, Indautxu e da rua Licenciado Poza, pintxo mais bebida por **2-3 €**. O programa dos universitários e uma boa forma de começar.
 
-## O que NÃO recomendamos
+## Conselhos e o que não recomendamos
 
-1. **Chamar-lhes "tapas".** Aqui são pintxos, e muitos pedem-se quentes.
-2. **Ficar só pelo balcão frio.** O melhor costuma ser a cozinha quente do dia.
-3. **Beber txikitos sem comer.** O poteo acompanha-se sempre com pintxo.
-4. **Ir à rua Pozas num dia de jogo se procura calma.** Vai estar a abarrotar.
+- **Não lhes chames «tapas».** Aqui são pintxos, e muitos pedem-se quentes.
+- **Não fiques só pelo balcão frio.** O melhor costuma ser a cozinha quente do dia.
+- **Não bebas txikitos sem comer.** O poteo acompanha-se sempre de pintxo.
+- **Atenção às datas:** na **Semana Grande** (Aste Nagusia, em meados de agosto) e nos dias de jogo em San Mamés, está tudo a abarrotar e alguns bares põem preços de festa. Divertido, mas não é o dia para um txikiteo tranquilo, muito menos na Pozas.
+- **Se ficares com vontade**, há aula de cozinha de pintxos (em inglês) para aprender a fazê-los.
 
-## Numa frase
-
-Comer pintxos em Bilbau é ir de txikiteo pela Plaza Nueva e pelo Ensanche, começar com uma Gilda e não ficar num só bar. Enquadramo-lo no roteiro de [Bilbau num dia](/pt/guides/bilbao/bilbau-num-dia).
+Encaixamos o txikiteo no roteiro [Bilbau num dia](/pt/guides/bilbao/bilbau-num-dia).

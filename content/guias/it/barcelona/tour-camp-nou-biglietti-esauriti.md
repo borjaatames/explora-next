@@ -5,14 +5,14 @@ metaTitle: 'Tour Camp Nou 2026: biglietti e prezzo'
 categoria: barcelona
 slug: tour-camp-nou-biglietti-esauriti
 fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha_actualizacion: '2026-11-07'
 autor: Borja
 publicada: true
 destacada: false
 datosComprobados: '2026-11-06'
 imagen_portada: /images/guias/camp-nou-tour-entradas-agotadas.jpg
 imagen_alt: 'Vetrina con le Coppe dei Campioni nel Museo dell''FC Barcelona'
-tiempo_lectura: 4
+tiempo_lectura: 3
 keywords:
   - 'tour camp nou'
   - 'biglietti museo barcellona calcio'
@@ -28,19 +28,22 @@ slugs:
   it: tour-camp-nou-biglietti-esauriti
   pt: tour-camp-nou-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Il **Barça Immersive Tour** (museo, belvedere sui lavori e sala 360°) costa **da 28 €** su `fcbarcelona.com`. A causa dei lavori, **non include il prato, gli spogliatoi né la sala stampa**. Per vedere lo stadio dall''interno c''è lo **Spotify Camp Nou Experience** (da 69 €), con guida e accesso al primo anello, e il **Match Day Tour** (da 149 €), solo nei giorni di partita e con passeggiata sul prato. Se il tuo orario è esaurito, il museo ha un **biglietto flessibile** senza orario fisso.'
+intro: 'Il **tour del Camp Nou** oggi è soprattutto il rinnovato **Museo dell''FC Barcelona**: le vetrine con le Coppe dei Campioni e la storia del club, una sala immersiva a 360º e un belvedere sui lavori dello Spotify Camp Nou, ancora in corso. Si trova a circa 5 minuti a piedi dalla metro Collblanc (L5) e la visita base dura circa un''ora.'
+respuestaCorta: 'Il tour base del Camp Nou, il **Barça Immersive Tour** (museo, belvedere sui lavori e sala 360º), costa **da 28 €** su fcbarcelona.com e **non include campo né spogliatoi**. Per entrare in tribuna c''è lo **Spotify Camp Nou Experience** (da 69 €); per calpestare il campo, il **Match Day Tour** (149 €). Se è esaurito, c''è un **biglietto flessibile**.'
 actividades:
   - camp-nou-museo-fc-barcelona-tour-inmersivo
   - camp-nou-museo-fc-barcelona-pase-total-experience
 faq:
-- pregunta: 'Il tour del Camp Nou include il prato e gli spogliatoi?'
-  respuesta: 'No, finché durano i lavori. Il biglietto base comprende il museo, il belvedere sui lavori e la sala immersiva 360°. Lo Spotify Camp Nou Experience aggiunge una visita guidata con vista panoramica e accesso al primo anello, ma nemmeno questo include prato e spogliatoi. Sul prato si cammina solo con il Match Day Tour, nei giorni di partita.'
-- pregunta: 'Quanto dura la visita al Museo del Barça?'
-  respuesta: 'Circa un''ora. L''ultimo ingresso è 45 minuti prima della chiusura.'
-- pregunta: 'Il museo è aperto nei giorni di partita?'
-  respuesta: 'Sì, ma con orario ridotto. Per esempio, l''8 dicembre 2026, giorno di partita di Champions, chiude alle 15:00. Prima di prenotare, guarda il calendario di acquisto, che mostra già quegli orari.'
-- pregunta: 'I bambini pagano il biglietto?'
-  respuesta: 'Da 0 a 3 anni entrano gratis (il biglietto si ritira in biglietteria). Da 4 a 10 anni pagano la tariffa bambini, da 21 €.'
+- pregunta: Il tour del Camp Nou include il campo e gli spogliatoi?
+  respuesta: No, finché continuano i lavori. Il biglietto base comprende il museo, il belvedere sui lavori e la sala immersiva a 360º. Lo Spotify Camp Nou Experience aggiunge una visita guidata con vista panoramica e accesso al primo anello, ma anche lì niente campo né spogliatoi. Il campo si calpesta solo con il Match Day Tour, nei giorni di partita.
+- pregunta: Quanto dura la visita al Museo del Barça?
+  respuesta: Circa un'ora. L'ultimo ingresso è 45 minuti prima della chiusura.
+- pregunta: Cosa fare se il tour del Camp Nou è esaurito?
+  respuesta: Compra il biglietto flessibile del museo (38 €), senza orario fisso e valido fino al 28 febbraio 2027, o cerca un'altra fascia. La più tranquilla di solito è il sabato dalle 15:00 alle 17:00, a meno che non ci sia partita.
+- pregunta: Il museo è aperto nei giorni di partita?
+  respuesta: Sì, ma con orario ridotto. Per esempio, l'8 dicembre 2026, giorno di partita di Champions, chiude alle 15:00. Prima di prenotare, guarda il calendario di acquisto, che mostra già questi orari.
+- pregunta: I bambini pagano?
+  respuesta: Da 0 a 3 anni entrano gratis (il biglietto si ritira in biglietteria). Da 4 a 10 anni pagano la tariffa ridotta, da 21 €.
 opciones:
   - ficha: camp-nou-museo-fc-barcelona-tour-inmersivo
     etiqueta: Ingresso al museo
@@ -48,49 +51,46 @@ opciones:
     etiqueta: Con realtà virtuale
 ---
 
-Lo stadio del Barça è ancora in cantiere, e questo cambia ciò che vedi nel tour. Da quando la squadra è tornata allo Spotify Camp Nou, la visita base è il museo rinnovato, con un belvedere sul cantiere; per entrare in tribuna o camminare sul prato ci sono prodotti a parte. Ecco cosa c'è a novembre 2026 e cosa fare se il tuo orario è esaurito.
+## Cosa include ogni biglietto del tour del Camp Nou
 
-## Quale biglietto scegliere?
+Lo stadio è ancora in costruzione, e questo cambia quello che vedi. Ecco cosa c'è a novembre 2026:
 
-| Se cerchi… | Opzione | Da |
-| --- | --- | --- |
-| Il museo e il belvedere, niente di più | [Barça Immersive Tour (biglietto ufficiale)](/it/cities/barcelona/activities/camp-nou-museo-fc-barcellona-tour-immersivo), 4,3★ (12.092) | 30 € |
-| Museo con realtà virtuale e Robokeeper | [Total Experience](/it/cities/barcelona/activities/camp-nou-museo-fc-barcellona-total-experience), 4,2★ (979) | 54 € |
-| Entrare in tribuna con la guida | Spotify Camp Nou Experience, sul sito del club | 69 € |
-| Camminare sul prato | Match Day Tour, solo nei giorni di partita, sul sito del club | 149 € |
+- **Barça Immersive Tour (da 28 €):** il museo interattivo, con audioguida in 14 lingue; il **belvedere sui lavori**; la sala immersiva a 360º «Spotify Camp Nou Live»; e la mostra del progetto Espai Barça. **Non include campo, spogliatoi, sala stampa né tunnel.**
+- **Total Experience (da 54 €):** il museo con realtà virtuale e Robokeeper.
+- **Spotify Camp Nou Experience (da 69 €):** visita guidata con vista panoramica dello stadio e accesso al **primo anello**, di solito chiuso per i lavori. Include il museo. Ci sono turni in catalano, spagnolo e inglese alle 10:00, 12:00 e 14:00; gli altri sono in inglese. Bisogna essere all'**Accesso 15** 15 minuti prima: se arrivi tardi perdi la visita guidata, ma puoi entrare al museo.
+- **Match Day Tour (da 149 €):** solo nei giorni di partita, qualche ora prima. Passi sul **campo**, nelle zone di gara e nel palco d'onore. **Non include il biglietto della partita** e non è adatto alle sedie a rotelle.
 
-## 1. Cosa include ogni biglietto
+L'Experience e il Match Day Tour si comprano sul sito del club.
 
-- **Barça Immersive Tour (da 28 €):** il museo interattivo, con audioguida in 14 lingue; il **belvedere sui lavori**; la sala immersiva 360° «Spotify Camp Nou Live»; e la mostra sul progetto Espai Barça. Non include prato, spogliatoi, sala stampa né tunnel.
-- **Spotify Camp Nou Experience (da 69 €):** visita guidata con vista panoramica dello stadio e accesso al primo anello, di solito chiuso per i lavori. Include il museo. Ci sono turni in catalano, spagnolo e inglese alle 10:00, 12:00 e 14:00, e gli altri sono in inglese. Bisogna presentarsi all'Accesso 15 15 minuti prima; se arrivi tardi, perdi la visita guidata ma puoi entrare al museo.
-- **Match Day Tour (da 149 €):** solo nei giorni di partita, qualche ora prima. Passi per il prato, le zone di gara e la tribuna d'onore. **Non include il biglietto per la partita** e non è adatto alle sedie a rotelle.
+## Prezzi dei biglietti per il Museo del Barça
 
-**Tariffe del museo:** intero (dagli 11 ai 64 anni) da 28 €; over 65, studenti e bambini dai 4 ai 10 anni, da 21 €; da 0 a 3 anni, gratis.
+| Tariffa | Prezzo |
+| --- | --- |
+| Intero (dagli 11 ai 64 anni) | da 28 € |
+| Over 65, studenti e bambini dai 4 ai 10 anni | da 21 € |
+| Da 0 a 3 anni | gratis (si ritira in biglietteria) |
+| Biglietto flessibile, senza orario fisso | 38 € |
 
-## 2. Se il tuo orario è esaurito
+## Se il tour del Camp Nou è esaurito
 
-- **Compra il biglietto flessibile del museo** (38 €): non ha orario fisso ed è valido fino al 28 febbraio 2027.
-- **Guarda un'altra fascia.** La più tranquilla di solito è il sabato dalle 15:00 alle 17:00, a meno che non ci sia partita.
-- **Evita i giorni di partita.** Il museo apre con orario ridotto: l'8 dicembre, per esempio, chiude alle 15:00.
-- **Guarda da un rivenditore autorizzato**, come la scheda qui sotto: vende lo stesso biglietto ufficiale, a un prezzo un po' più alto, con cancellazione secondo le sue condizioni.
+1. **Compra il biglietto flessibile del museo** (38 €): non ha orario fisso e vale fino al 28 febbraio 2027.
+2. **Guarda un'altra fascia.** La più tranquilla di solito è il **sabato dalle 15:00 alle 17:00**, a meno che non ci sia partita.
+3. **Evita i giorni di partita:** il museo apre con orario ridotto. L'8 dicembre, per esempio, chiude alle 15:00.
+4. **Cerca su un rivenditore autorizzato:** vende lo stesso biglietto ufficiale, a un prezzo un po' più alto, con cancellazione secondo le sue condizioni.
 
 [actividad: camp-nou-museo-fc-barcelona-tour-inmersivo]
 
-## 3. Orari e come arrivare
+## Orari del Museo dell'FC Barcelona e come arrivare
 
-- **Orari:** dal 19 ottobre al 19 marzo, dalle 10:00 alle 18:00; dal 20 marzo al 17 ottobre, dalle 9:30 alle 19:00. Chiude il 1° gennaio e il 25 dicembre. Ultimo ingresso 45 minuti prima.
-- **Ingressi:** calle Arístides Maillol (Accesso 15) e avenida Joan XXIII (Accesso 9). Non c'è parcheggio per il tour.
+- **Orari:** dal 19 ottobre al 19 marzo, dalle **10:00 alle 18:00**; dal 20 marzo al 17 ottobre, dalle **9:30 alle 19:00**. Chiuso il 1° gennaio e il 25 dicembre. Ultimo ingresso 45 minuti prima.
+- **Ingressi:** carrer Arístides Maillol (Accesso 15) e avinguda Joan XXIII (Accesso 9). Non c'è parcheggio per il tour.
 - **Metro:** L5 Collblanc o Badal (circa 5 minuti a piedi) e L3 Palau Reial o Les Corts (circa 10 minuti).
+- **Accessibilità:** il museo è accessibile in sedia a rotelle. Nell'Experience, la sedia arriva fino al belvedere panoramico, ma non in tribuna, che ha gradini. La sala 360º è sconsigliata a chi soffre di epilessia o fotosensibilità.
 
-Il museo è accessibile in sedia a rotelle. Nell'Experience, la sedia arriva fino al belvedere panoramico, ma non in tribuna, che ha delle scale. La sala 360° è sconsigliata alle persone con epilessia o fotosensibilità.
+## Consigli
 
-## Errori da evitare
-
-1. **Pensare di vedere gli spogliatoi.** Con i lavori non sono inclusi in nessun biglietto, tranne il Match Day Tour, e solo in parte.
-2. **Andare in un giorno di partita senza controllare l'orario.** Il museo chiude prima e c'è molta più gente.
-3. **Arrivare tardi all'Experience.** La visita guidata non aspetta.
-4. **Fidarsi di blog vecchi.** Molti descrivono il tour di prima dei lavori, con prato e sala stampa.
-
-## In una frase
-
-Oggi il tour base è il museo con vista sul cantiere; se vuoi lo stadio, prenota l'Experience o il Match Day Tour sul sito del club, e se il tuo orario è esaurito, compra il biglietto flessibile; come inserirlo nel tuo viaggio lo raccontiamo in [Barcellona in 3 giorni](/it/guides/barcelona/barcellona-in-3-giorni).
+- **Non aspettarti di vedere gli spogliatoi:** con i lavori non sono inclusi in nessun biglietto, salvo in parte nel Match Day Tour.
+- **Controlla il calendario delle partite** prima di prenotare: il museo chiude prima e c'è molta più gente.
+- **Arriva puntuale all'Experience:** la visita guidata non aspetta.
+- **Diffida dei blog vecchi:** molti descrivono il tour di prima dei lavori, con campo e sala stampa.
+- Come inserirlo nel tuo viaggio lo spieghiamo in [Barcellona in 3 giorni](/it/guides/barcelona/barcellona-in-3-giorni).

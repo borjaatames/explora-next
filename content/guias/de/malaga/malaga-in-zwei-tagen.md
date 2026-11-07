@@ -4,12 +4,12 @@ descripcion: "Was man in Málaga in zwei Tagen sehen sollte: Alcazaba, Kathedral
 categoria: "malaga"
 slug: "malaga-in-zwei-tagen"
 fecha: "2026-02-28"
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: '2026-11-07'
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 8
+tiempo_lectura: 4
 keywords:
   - "málaga in zwei tagen"
   - "was sehen in málaga"
@@ -24,6 +24,8 @@ slugs:
   it: malaga-in-due-giorni
   pt: malaga-em-2-dias
 reservasArriba: true
+intro: '**Málaga in zwei Tagen** bringt viel: Die Altstadt ist kompakt, flach und autofrei, und in 48 Stunden passen die **Alcazaba**, die Burg Gibralfaro, die Kathedrale, das **Museo Picasso**, der Strand La Malagueta und, mit etwas Planung, der **Caminito del Rey** hinein. In fünfzehn Jahren hat sich die Stadt vom Durchgangsort zur Kulturhauptstadt mit über dreißig Museen gewandelt und ist doch eine Stadt am Meer geblieben.'
+respuestaCorta: 'Málaga in zwei Tagen: den **ersten Tag der Altstadt** widmen (Alcazaba und Gibralfaro, Kombiticket 10 €; Kathedrale, Museo Picasso und Sardinenspieß bei Sonnenuntergang an der Malagueta) und den **zweiten dem Caminito del Rey**, der **Wochen im Voraus ausverkauft** ist, oder Nerja, Ronda oder Antequera. Die geführte Caminito-Tour ab Málaga gibt es ab 72 €.'
 actividades:
   - alcazaba-teatro-romano-malaga-visita-guiada
   - museo-picasso-malaga-entrada
@@ -40,104 +42,84 @@ actividades:
   - malaga-tour-vino-tapas
 imagen_portada: "/images/guias/malaga-en-dos-dias.jpg"
 imagen_alt: "Blick auf Málaga von der Alcazaba"
+faq:
+- pregunta: Was sehen in Málaga in zwei Tagen?
+  respuesta: 'Am ersten Tag die Altstadt: Alcazaba und Römisches Theater, Burg Gibralfaro, Kathedrale, Museo Picasso und Sonnenuntergang am Muelle Uno und an der Malagueta. Am zweiten den Caminito del Rey oder einen Ausflug nach Nerja und Frigiliana, Ronda oder Antequera.'
+- pregunta: Muss man den Caminito del Rey reservieren?
+  respuesta: 'Ja. Er ist Wochen im Voraus ausverkauft, ohne Reservierung kommt man nicht hinein. Tickets gibt es nur online: 10 € ohne Führung und 18 € mit Guide, dazu 2,50 € für den Shuttlebus. Vor der Unterkunft buchen.'
+- pregunta: Was kostet die Alcazaba in Málaga?
+  respuesta: Das Kombiticket Alcazaba und Gibralfaro kostet 10 € (einzeln je 7 €), sonntags ab 14:00 ist der Eintritt frei. Geöffnet im Sommer 9:00 bis 20:00, im Winter bis 18:00.
+- pregunta: Kann man aufs Dach der Kathedrale von Málaga?
+  respuesta: 'Derzeit nicht: Die Dachbesichtigung ist wegen Bauarbeiten voraussichtlich bis Ende 2027 ausgesetzt. Für einen 360°-Blick geht man zur Burg oder zum Aussichtspunkt Gibralfaro.'
+- pregunta: Wo übernachten in Málaga für zwei Tage?
+  respuesta: In der Altstadt, um alles zu Fuß zu erledigen; im Soho zwischen Alameda und Fluss; oder an der Malagueta, wenn der Strand vor der Tür liegen soll.
 ---
 
-**Zwei Tage in Málaga bringen sehr viel.** Die Altstadt ist kompakt, flach und zu Fuß gut zu erkunden, sodass in gut verteilten 48 Stunden die Sehenswürdigkeiten, die Museen, der Strand und, wenn man es organisiert, auch der Caminito del Rey Platz finden. Dieser Guide trennt das Unverzichtbare vom Verzichtbaren und geht davon aus, dass du die Stadt verstehen willst, nicht nur die Sonne genießen. Málaga hat sich in fünfzehn Jahren vom reinen Durchgangstor zur Costa del Sol zu einer Kulturhauptstadt mit mehr als dreißig Museen entwickelt, und das merkt man. Hast du nur einen Tag oder kommst mit dem Kreuzfahrtschiff, findest du die kompakte Version in [Málaga an einem Tag](/de/guides/malaga/malaga-sehenswuerdigkeiten-an-einem-tag).
-
-Die Falle bei Málaga ist, die Stadt nur als Flughafen und Strand zu behandeln. Wer nur La Malagueta gesehen hat, hat die andere Hälfte verpasst: die Alcazaba, die über dem Römischen Theater thront, das Museo Picasso, die Kathedrale und eine fußgängerfreundliche Altstadt, die zu einer der angenehmsten im Süden geworden ist. Zwei Tage reichen genau für beide Seiten.
-
-## Warum zwei Tage passen
-
-Ein Tag reicht nur für die Altstadt und wenig mehr und zwingt dazu, auf den Caminito del Rey zu verzichten, den Star-Ausflug der Provinz. Zwei Tage lassen sich gut aufteilen: ein Tag für Sehenswürdigkeiten und Museen im Zentrum und ein weiterer für Natur (den Caminito) oder die Küste (Nerja, Frigiliana, Ronda). Drei Tage wären der Luxus – dann kämen Antequera und El Torcal oder Marbella dazu –, aber mit zwei lässt man nichts Unverzichtbares aus.
-
-## Wann man Málaga besuchen sollte
-
-| Zeitraum | Urteil | Warum |
-| --- | --- | --- |
-| März bis Juni | Ideal | Perfektes Klima, Meer wird warm, lange Tage |
-| September und Oktober | Ideal | Angenehmere Hitze, Wasser noch warm, weniger Menschen |
-| November bis Februar | Unterschätzt | Eines der besten Stadtklimata Spaniens; mild und günstig |
-| Juli und August | Hitze | Gut für den Strand, hart für Stadtbummel am Mittag |
-| Mitte August | Die Feria | Spektakulär, aber die Stadt füllt sich und die Preise steigen |
-
-> **⭐ Tipp:** Málaga nennt sich wegen seines Klimas gerne die "Stadt des Paradieses" und ist eine der wenigen spanischen Hauptstädte, in der man ein Winterwochenende auf der Terrasse genießen kann. Wer Hitze und Warteschlangen entkommen will, ist von November bis März auf der sicheren Seite.
-
-## Anreise und Fortbewegung
-
-**Mit dem AVE** ab Madrid in 2 Std. 20 Min., ab Córdoba in 1 Std. und ab Sevilla in etwas unter 2 Std.; der Bahnhof María Zambrano liegt 15 Gehminuten vom Zentrum entfernt. **Mit dem Flugzeug** verbindet der Flughafen Costa del Sol mit halb Europa und liegt 12 Minuten mit der Vorortbahn (Linie C1) vom Hauptbahnhof entfernt, für weniger als 2 €.
-
-Vor Ort erkundet man das Zentrum **zu Fuß**: Es ist flach und fast durchgehend Fußgängerzone. Auch zum Strand La Malagueta oder zu Muelle Uno läuft man. Transport braucht man nur für den Caminito del Rey oder die Ausflüge (Vorortbahn, Bus oder Auto). Vergiss das Auto im Zentrum: Es gibt eine Umweltzone, und Parken ist teuer.
+Wer nur einen Tag hat oder mit dem Kreuzfahrtschiff kommt, findet die Kurzversion unter [Málaga an einem Tag](/de/guides/malaga/malaga-sehenswuerdigkeiten-an-einem-tag).
 
 ## Tag 1: Altstadt und Museen
 
-| Uhrzeit | Aktivität |
+| Uhrzeit | Was |
 | --- | --- |
 | 9:30 | Alcazaba und Römisches Theater |
-| 11:00 | Burg Gibralfaro (Aussicht) |
+| 11:00 | Burg Gibralfaro |
 | 12:30 | Kathedrale |
-| 14:00 | Mittagessen im Zentrum |
+| 14:00 | Mittagessen: Atarazanas, Carretería |
 | 16:30 | Museo Picasso und Plaza de la Merced |
 | 19:30 | Muelle Uno und Sonnenuntergang an der Malagueta |
 
-**9:30 — Alcazaba und Römisches Theater.** Beginne mit der **Alcazaba**, der am besten erhaltenen andalusischen Palastfestung Spaniens, mit ihren Innenhöfen, Brunnen und terrassierten Gärten über der Stadt. Zu ihren Füßen liegt das **Römische Theater**, das man von außen in fünf Minuten sieht. Plane 1 bis 1,25 Stunden für die Alcazaba in Ruhe ein.
-
-**11:00 — Burg Gibralfaro.** Über die Stadtmauer hinauf (oder mit dem Bus 35, wenn es zu heiß ist) erreichst du die **Burg**, die mit der Alcazaba verbunden ist und die besten Ausblicke auf den Hafen, die Stierkampfarena und das Meer bietet. Eine halbe Stunde oben, und die Aussicht ist den Anstieg wert.
-
-**12:30 — Kathedrale.** Steig hinunter zur **Kathedrale**, bekannt als *La Manquita* ("die Einarmige"), weil einer ihrer beiden Türme nie fertiggestellt wurde. Der **Besuch der Dachterrassen** ist wegen der Bauarbeiten am Dach ausgesetzt, voraussichtlich bis Ende 2027. Den 360°-Ausblick bekommst du stattdessen auf der Burg Gibralfaro oder am Mirador de Gibralfaro.
-
-**14:00 — Mittagessen.** Tapas und frittierter Fisch im Zentrum: der **Mercado de Atarazanas** (Modernisme-Architektur mit spektakulärem Buntglasfenster) und die Tavernen der Calle Carretería. Ein Glas **süßer Málaga-Wein** in einer historischen Bodega ist die perfekte Pause.
-
-**16:30 — Museo Picasso und Plaza de la Merced.** Málaga ist die Geburtsstadt von Picasso. Das **Museo Picasso** im Palacio de Buenavista vereint mehr als 200 Werke; fünf Minuten entfernt liegt sein **Geburtshaus** an der Plaza de la Merced. Wenn du noch Lust auf mehr Museen hast, bietet die Stadt außerdem das **Centre Pompidou** (den Würfel, El Cubo, an Muelle Uno), das **Carmen Thyssen** und die **Colección del Ruso**.
-
-**19:30 — Muelle Uno und die Malagueta.** Beende den Tag mit einem Spaziergang über **Muelle Uno**, den umgestalteten Hafen, bis zum **Strand La Malagueta**. Ein Sonnenuntergang mit Espeto de sardinas in einer Strandbar ist der Málaga-typischste Plan überhaupt.
+- **Alcazaba:** die besterhaltene andalusische Palastfestung Spaniens, mit Innenhöfen und Gärten, die sich über die Stadt staffeln. Zu ihren Füßen das **Römische Theater**, das man in fünf Minuten von außen sieht. Rechne mit einer Stunde und einer Viertelstunde.
+- **Gibralfaro:** über die Mauer hinauf oder, wenn es heiß ist, mit dem **Bus 35** – für den schönsten Blick auf Hafen, Stierkampfarena und Meer. Eine halbe Stunde.
+- **Die Kathedrale**, „la Manquita" („die Einarmige"), weil ihr ein Turm fehlt. Die **Dachbesichtigung ist ausgesetzt** – Bauarbeiten voraussichtlich bis Ende 2027; den 360°-Blick gibt es an der Burg oder am Aussichtspunkt Gibralfaro.
+- **Museo Picasso:** über 200 Werke im Palacio de Buenavista, fünf Minuten entfernt das **Geburtshaus** an der Plaza de la Merced. Mehr Kunst? Pompidou (der Würfel), Carmen Thyssen oder die Sammlung des Russischen Museums.
+- **Muelle Uno und Malagueta:** der umgebaute Hafen und ein **Espeto de sardinas** (Sardinenspieß) in einer Strandbar bei Sonnenuntergang – typischer geht Málaga nicht.
 
 ## Tag 2: Caminito del Rey oder Costa del Sol
 
-| Uhrzeit | Aktivität |
-| --- | --- |
-| 9:00 | Abfahrt Richtung El Chorro |
-| 10:30 — 13:30 | Caminito del Rey |
-| 14:30 | Mittagessen in El Chorro oder Álora |
-| 17:00 | Rückkehr nach Málaga oder zum Strand |
+Der **Caminito del Rey**, eine Stunde mit Cercanías-Zug oder Auto entfernt, ist ein Steg an den Felswänden der Gaitanes-Schlucht: rund **8 km in eine Richtung, 3-4 Stunden mit Shuttlebus**, und er ist **Wochen im Voraus ausverkauft**; ohne Reservierung kein Zutritt.
 
-**Widme den Tag dem Caminito del Rey.** Eine Stunde von Málaga entfernt (mit der Vorortbahn oder dem Auto) ist der **Caminito del Rey** ein Steg, der an die senkrechten Wände der Schlucht der Gaitanes geklammert ist: eines der meistverkauften Naturerlebnisse Spaniens. Die Route ist linear (rund 8 km, 3-4 Stunden inklusive Shuttlebus) und **ist Wochen im Voraus ausverkauft**: Ohne Reservierung kein Zutritt.
+- **9:00** Abfahrt in Málaga.
+- **10:30-13:30** die Strecke.
+- Mittagessen in El Chorro oder Álora, nachmittags Strand in Málaga.
 
-**Wer lieber die Küste bevorzugt**, macht einen Ausflug nach **Nerja und Frigiliana** – der Balcón de Europa und eines der schönsten weißen Dörfer Andalusiens –, zum spektakulären **Ronda** über seiner Schlucht oder nach **Antequera** (die UNESCO-Dolmen und die mondähnliche Landschaft von El Torcal).
+Wenn du kein Einzelticket mehr findest: Die geführte Tour ab Málaga enthält Transport und Eintritt.
 
-> **⭐ Tipp:** Die Tickets für den Caminito del Rey gehen Monate im Voraus in den Verkauf und sind schnell vergriffen. Wenn sich deine Reise um ihn dreht, buche ihn vor der Unterkunft.
+[actividad: caminito-del-rey-guiado-desde-malaga]
 
-## Wo übernachten
+**Lieber Küste?** Nerja und Frigiliana (der Balcón de Europa und eines der schönsten weißen Dörfer), Ronda über seiner Schlucht oder Antequera mit den Dolmen und El Torcal.
 
-Das **Centro Histórico** ist am praktischsten: alles zu Fuß erreichbar, Fußgängerzone und lebendige Atmosphäre. Das Viertel **Soho** (zwischen der Alameda und dem Fluss, voller Street Art) ist modern und gut gelegen. Die Gegend um die **Malagueta** ist ideal, wenn du den Strand direkt vor der Tür haben möchtest. **Vermeide** es, weit außerhalb des Zentrums in Ferienanlagen an der Straße zu übernachten, es sei denn, du kommst mit dem Auto und suchst nur die Sonne.
+## Alcazaba Málaga, Picasso und Caminito del Rey: Preise und Zeiten
 
-## Essen in Málaga
+| Ort | Preis | Öffnungszeiten |
+| --- | --- | --- |
+| Alcazaba + Gibralfaro | 10 € kombiniert (je 7 €); sonntags ab 14:00 gratis | 9:00-20:00 Sommer, bis 18:00 Winter |
+| Museo Picasso | 13 € mit Audioguide; gratis unter 17 und sonntags in den letzten zwei Stunden | 10:00-18:00 (19:00 Frühling und Herbst, 20:00 Juli und August) |
+| Geburtshaus · Pompidou · Carmen Thyssen | 4 € · 9 € (dienstags zu) · 10 € (montags zu) | |
+| Kathedrale | 10 € mit Audioguide; gratis unter 13 | Sonntagvormittag geschlossen |
+| Römisches Theater | Gratis | Montags geschlossen |
+| Caminito del Rey | 10 € ohne Führung, 18 € mit Guide, nur online; Shuttle 2,50 € | Zug nach El Chorro, 45 Min. |
 
-Die Küche Málagas ist einfach und vom Meer geprägt. Das Wahrzeichen ist der **Espeto de sardinas**, Sardinen, aufgespießt auf einem Schilfrohr und über Glut im Sand der Strandbars gegrillt. Probiere auch die **Fritura malagueña** (gemischter frittierter Fisch), die **Boquerones** (Sardellen, frittiert oder in Essig), die **Porra antequerana** (ein dickflüssigerer Salmorejo) und, als Dessert oder Aperitif, den **süßen Málaga-Wein** (Moscatel oder Pedro Ximénez). Der **Mercado de Atarazanas** und die Bodega **El Pimpi** sind klassische Anlaufstellen.
+Der Strand La Malagueta liegt 10 Minuten vom Zentrum, mit Rettungsschwimmern von Juni bis September; Liege und Schirm 10-15 €.
 
-> **⚠️ Hinweis:** Meide die Terrassen mit laminierter Speisekarte und Anwerbern direkt gegenüber der Kathedrale oder in der Calle Larios. Geh zwei Straßen in Richtung Carretería, Soho oder den Markt, und das Preis-Leistungs-Verhältnis verbessert sich deutlich.
+## Reisezeit, Anreise und Fortbewegung
 
-## Was wir NICHT empfehlen
+- **Wann:** März bis Juni und September bis Oktober sind ideal. **November bis Februar** bietet eines der besten Stadtklimas Spaniens, man isst auf der Terrasse. Juli und August sind mittags zum Bummeln hart. **Feria** (Mitte August), Karwoche und Filmfestival (März) füllen die Stadt und treiben die Preise.
+- **Mit dem Zug:** Der AVE braucht ab Madrid 2 Std. 20 Min., ab Córdoba 1 Std. und ab Sevilla unter 2 Std. Der Bahnhof María Zambrano liegt 15 Gehminuten vom Zentrum.
+- **Mit dem Flugzeug:** Die Cercanías C-1 bringt dich in **12 Minuten für 1,80 €** ins Zentrum.
+- **In der Stadt:** alles zu Fuß. Das Auto stört nur (Umweltzone, teures Parken). Der Bus kostet 1,40 €, die C-1 nach Torremolinos und Fuengirola 3,60 €, alle 20 Minuten.
 
-1. **Nur am Strand bleiben.** Du verpasst die Alcazaba, das Museo Picasso und eine der besten Altstädte im Süden.
-2. **Ohne Ticket zum Caminito del Rey fahren.** Er ist ausverkauft; ohne Reservierung kein Zutritt, und eine vergebliche Fahrt tut weh.
-3. **In der ersten Reihe vor der Kathedrale oder in der Calle Larios essen.** Du zahlst mehr für weniger; geh zwei Straßen weiter.
-4. **Sich im Zentrum mit dem Auto fortbewegen.** Es ist flach und Fußgängerzone; das Auto stört nur.
+## Übernachten und essen
 
-## Typische Fehler von Besuchern
+Übernachte in der **Altstadt** (alles zu Fuß), im **Soho** (Street-Art, zwischen Alameda und Fluss) oder an der **Malagueta** mit Strand vor der Tür. Meide Ferienanlagen an der Landstraße, es sei denn, du kommst nur mit dem Auto für die Sonne.
 
-> **⚠️ Hinweis:** Die Fehler, die wir am häufigsten sehen.
+Die Küche ist maritim und einfach: **Espeto de sardinas**, **Fritura malagueña** (frittierter Fisch), **Boquerones victorianos** (frittierte Sardellen), **Porra antequerana** (dickerer Salmorejo) und **süßer Málaga-Wein** in einer historischen Bodega wie El Pimpi. Der **Mercado de Atarazanas** ist montags bis samstags von 8:00 bis 15:00 geöffnet.
 
-1. **Málaga nur als Durchgangsflughafen behandeln.** Die Stadt verdient zwei eigenständige Tage, nicht nur einen Zwischenstopp auf dem Weg nach Marbella oder Granada.
-2. **Den Caminito nicht buchen.** Er ist der Star-Ausflug und der Erste, der ausverkauft ist.
-3. **Im Sommer mittags zum Gibralfaro hinaufsteigen.** Der schattenlose Aufstieg ist hart; geh früh am Morgen oder nimm den Bus 35.
-4. **Den Sonnenuntergang an der Malagueta auslassen.** Der Espeto im Licht des späten Nachmittags ist das Postkartenmotiv, das man mit nach Hause nimmt.
+Meide Terrassen mit laminierter Karte vor der Kathedrale oder in der Calle Larios: zwei Straßen weiter, in Carretería, im Soho oder rund um Atarazanas, isst man viel besser für weniger.
 
-## Termine, die man einplanen sollte
+## Tipps für deine Route durch Málaga
 
-- **Semana Santa (Karwoche).** Eine der eindrucksvollsten in Spanien, mit riesigen Prozessionsthronen und großer Hingabe; die Stadt füllt sich.
-- **Feria de Málaga (Mitte August).** Eine Tagesfeier im Zentrum und eine Nachtfeier auf dem Festgelände; spektakulär, aber sehr voll.
-- **Festival de Cine de Málaga (März).** Das große Schaufenster des spanischen Kinos, mit rotem Teppich in der Calle Larios.
-
-## In einem Satz
-
-Málaga in zwei Tagen bedeutet Museen am Vormittag, Meer am Nachmittag und, wenn man es organisiert, einen Tag Natur am Caminito del Rey. Die Stadt ist außerdem die beste Basis für die gesamte Costa del Sol: Keine andere andalusische Hauptstadt vereint so viel Kultur, Klima und Strand zugleich.
+1. **Nicht nur am Strand bleiben** und Málaga nicht als Zwischenstopp nach Marbella oder Granada sehen.
+2. **Nicht ohne Ticket zum Caminito.** Vor der Unterkunft buchen.
+3. **Nicht mittags im Sommer nach Gibralfaro hinauf.** Früh am Morgen oder mit Bus 35.
+4. **Das Auto aus dem Zentrum lassen.**
+5. **Den Sonnenuntergang an der Malagueta nicht verpassen.**
