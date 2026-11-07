@@ -6,7 +6,8 @@ slugs:
   es: alhambra
   en: alhambra
 ciudad: granada
-tag: alhambra
+tags:
+  - alhambra
 titulo: "La Alhambra: entradas, visitas guiadas y cómo ir"
 metaTitle: "Alhambra: entradas, visitas guiadas y precios 2026"
 metaDescription: "Todas las formas de visitar la Alhambra comparadas: entrada general (22,27 €), visitas guiadas desde 49 €, nocturna y privadas. Horarios, cómo llegar y qué hacer si está agotada."

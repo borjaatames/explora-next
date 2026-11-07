@@ -34,8 +34,8 @@ export type AtraccionFrontmatter = {
   /** Slugs por idioma; `es` es la clave común. */
   slugs: Partial<Record<Idioma, string>>;
   ciudad: string;
-  /** Etiqueta de `atraccionesRelacionadas` que identifica sus fichas. */
-  tag: string;
+  /** Etiquetas de `atraccionesRelacionadas` que identifican sus fichas. */
+  tags: string[];
   titulo: string;
   metaTitle: string;
   metaDescription: string;
@@ -64,7 +64,7 @@ export type Atraccion = AtraccionFrontmatter & {
   descripcionHtml: string;
 };
 
-export type TipoOpcion = "entrada" | "guiada" | "privada" | "nocturna" | "jardines";
+export type TipoOpcion = "entrada" | "guiada" | "privada" | "nocturna" | "jardines" | "excursion";
 
 export type OpcionAtraccion = { actividad: ActividadListItem; tipo: TipoOpcion };
 
@@ -136,7 +136,7 @@ export function atraccionDeFicha(
   ciudad: string,
   tags: readonly string[]
 ): EnlaceAtraccion | null {
-  const e = listar(idioma).find((x) => x.ciudad === ciudad && tags.includes(x.fm.tag));
+  const e = listar(idioma).find((x) => x.ciudad === ciudad && x.fm.tags.some((t) => tags.includes(t)));
   return e ? { nombre: e.fm.nombre, url: urlAtraccion(idioma, e.ciudad, e.slug) } : null;
 }
 
@@ -161,6 +161,7 @@ function tipoDe(a: ActividadListItem): TipoOpcion {
   if (a.privada) return "privada";
   if (/nocturn|night/.test(slug)) return "nocturna";
   if (/jardines|gardens/.test(slug)) return "jardines";
+  if (a.categoria === "excursionesDia") return "excursion";
   if (a.categoria === "entradas") return "entrada";
   return "guiada";
 }
@@ -170,9 +171,9 @@ function puntuacion(a: ActividadListItem): number {
 }
 
 /** Fichas de la atracción, de la más elegida a la menos. */
-export function opcionesDeAtraccion(idioma: Idioma, ciudad: string, tag: string): OpcionAtraccion[] {
+export function opcionesDeAtraccion(idioma: Idioma, ciudad: string, tags: readonly string[]): OpcionAtraccion[] {
   return obtenerListaActividadesPorCiudad(idioma, ciudad)
-    .filter((a) => (a.atraccionesRelacionadas ?? []).includes(tag))
+    .filter((a) => (a.atraccionesRelacionadas ?? []).some((t) => tags.includes(t)))
     .sort((a, b) => puntuacion(b) - puntuacion(a))
     .map((actividad) => ({ actividad, tipo: tipoDe(actividad) }));
 }

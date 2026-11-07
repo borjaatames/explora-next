@@ -6,7 +6,8 @@ slugs:
   es: alhambra
   en: alhambra
 ciudad: granada
-tag: alhambra
+tags:
+  - alhambra
 titulo: "The Alhambra: tickets, guided tours and how to get there"
 metaTitle: "Alhambra: tickets, guided tours and prices 2026"
 metaDescription: "Every way to visit the Alhambra compared: general ticket (€22.27), guided tours from €49, night and private visits. Opening hours, getting there and what to do if it's sold out."

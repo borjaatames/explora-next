@@ -37,7 +37,7 @@ export async function datosPaginaAtraccion(
     obtenerCiudad(idioma, ciudadSlug),
   ]);
   if (!atraccion || !ciudad) return null;
-  const opciones = opcionesDeAtraccion(idioma, ciudadSlug, atraccion.tag);
+  const opciones = opcionesDeAtraccion(idioma, ciudadSlug, atraccion.tags);
   if (opciones.length === 0) return null;
   const guias = guiasDeAtraccion(idioma, atraccion);
   const listado = urlAtraccionesDeCiudad(idioma, ciudadSlug);

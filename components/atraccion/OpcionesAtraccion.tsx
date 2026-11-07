@@ -18,7 +18,7 @@ type Props = {
   locale: string;
 };
 
-const ORDEN_TIPOS: TipoOpcion[] = ["entrada", "guiada", "privada", "nocturna", "jardines"];
+const ORDEN_TIPOS: TipoOpcion[] = ["entrada", "guiada", "privada", "excursion", "nocturna", "jardines"];
 const VISIBLES_INICIO = 6;
 
 const CHIP =
