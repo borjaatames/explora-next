@@ -1,3 +1,5 @@
+import EnlaceAtraccion from "@/components/atraccion/EnlaceAtraccion";
+import { atraccionDeFicha, atraccionDeGuia } from "@/lib/atracciones";
 import OtrosIdiomas from "@/components/layout/OtrosIdiomas";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
@@ -303,6 +305,7 @@ export default async function GuiaPage({ params }: Props) {
       />
 
       <RespuestaCorta texto={guia.respuestaCorta} idioma="es" comprobado={guia.datosComprobados} />
+      <EnlaceAtraccion idioma="es" enlace={atraccionDeGuia("es", guia.slug)} />
       <OpcionesGuia opciones={opcionesGuia} idioma="es" />
       <ReservasGuia actividades={reservasArriba} idioma="es" />
       <PrivadasGuia actividades={privadasGuia} idioma="es" />

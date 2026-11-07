@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import { atraccionPorNombreEnCiudad } from "@/lib/atracciones";
 import Image from "next/image";
 import {
   obtenerCiudad,
@@ -216,9 +217,16 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
       <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
         {/* Si el número de atracciones es impar, la última tarjeta se centra en vez de dejar un hueco */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:[&>*:last-child:nth-child(odd)]:col-span-2 md:[&>*:last-child:nth-child(odd)]:justify-self-center md:[&>*:last-child:nth-child(odd)]:w-[calc(50%-0.75rem)]">
-          {atracciones.map((atr, i) => (
-            <AtraccionCard key={i} atraccion={atr} />
-          ))}
+          {atracciones.map((atr, i) => {
+            const url = atraccionPorNombreEnCiudad(lang, params.ciudad, atr.nombre);
+            return url ? (
+              <Link key={i} href={url} className="block rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2">
+                <AtraccionCard atraccion={atr} />
+              </Link>
+            ) : (
+              <AtraccionCard key={i} atraccion={atr} />
+            );
+          })}
         </div>
       </section>
 

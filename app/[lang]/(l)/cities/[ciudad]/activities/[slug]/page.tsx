@@ -1,3 +1,5 @@
+import EnlaceAtraccion from "@/components/atraccion/EnlaceAtraccion";
+import { atraccionDeFicha, atraccionDeGuia } from "@/lib/atracciones";
 import OtrosIdiomas from "@/components/layout/OtrosIdiomas";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
@@ -846,6 +848,8 @@ export default async function ActividadPage({ params }: Props) {
 
         </div>
       </section>
+
+      <EnlaceAtraccion idioma={lang} enlace={atraccionDeFicha(lang, params.ciudad, actividad.atraccionesRelacionadas ?? [])} />
 
       <ActividadesRecomendadasGuia
 

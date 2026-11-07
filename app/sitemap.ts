@@ -29,6 +29,7 @@ import {
 } from "@/lib/i18n/slugs";
 import type { Idioma } from "@/lib/i18n/types";
 import { rutaIndexable } from "@/lib/i18n/indexacion";
+import { obtenerTodasLasAtracciones, urlAtraccionEnIdioma } from "@/lib/atracciones";
 import {
   obtenerCiudadesConPrivadas,
   urlHubPrivados,
@@ -321,6 +322,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: "weekly",
         priority: 0.8,
         alternates: alternatesPara((l) => guiasDeCiudadSiExiste(l, ciudad)),
+      });
+    }
+  }
+
+  // ─── Páginas de atracción ───────────────────────────────────────
+  for (const lang of IDIOMAS_ACTIVOS) {
+    for (const { ciudad, slugEs, url } of obtenerTodasLasAtracciones(lang)) {
+      entries.push({
+        url: `${SITE_URL}${url}`,
+        lastModified: fechaActividades(lang, ciudad),
+        changeFrequency: "weekly",
+        priority: 0.8,
+        alternates: alternatesPara((l) => urlAtraccionEnIdioma(l, slugEs)),
       });
     }
   }

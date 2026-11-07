@@ -29,3 +29,4 @@ Créditos reconstruidos el 16-10-2026 a partir del registro del pipeline de imá
 - `pixabay-4517566-hero.webp` — Pixabay, foto 4517566, licencia Pixabay (https://pixabay.com/photos/id-4517566/)
 - `pixabay-503208-hero.webp` — Pixabay, foto 503208, licencia Pixabay (https://pixabay.com/photos/id-503208/)
 - `pixabay-965274-hero.webp` — Pixabay, foto 965274, licencia Pixabay (https://pixabay.com/photos/id-965274/)
+- `pexels-34369618-hero.webp` — Pexels, foto 34369618, licencia Pexels (https://www.pexels.com/photo/34369618/)
