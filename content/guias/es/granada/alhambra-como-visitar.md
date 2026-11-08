@@ -79,7 +79,7 @@ Precios del Patronato vigentes en 2026, con la comisión web incluida:
 
 - **Dónde:** la única web oficial es tickets.alhambra-patronato.es. Es lenta y a veces falla el pago, pero cualquier otra web cobra comisión o revende.
 - **Cuándo:** se pueden comprar **con hasta tres meses de antelación** y hay unas 8.000 al día. Las franjas de mañana se agotan con semanas de antelación; en Semana Santa, puentes, julio-agosto y Navidad, en minutos.
-- **Lleva el DNI o el pasaporte:** las entradas son nominativas.
+- **Lleva el DNI o el pasaporte:** las entradas son nominativas. Qué documento vale y qué hacer si hay un error en el nombre, en [la guía de la entrada nominativa](/guias/granada/alhambra-entrada-nominativa-dni-pasaporte).
 
 **Si está todo agotado**, las alternativas reales son:
 

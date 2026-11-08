@@ -106,6 +106,6 @@ With the official **Andalusian Monuments** ticket (€8.48) you can visit other 
 1. **Buying on sites that imitate the official one.** They add surcharges and sometimes sell tickets that don't work.
 2. **Booking a tour without checking it includes the Nasrid Palaces.** It's the most expensive mistake: you pay for a guide and don't get into the palaces.
 3. **Being late for your Nasrid Palaces time.** You have a 30-minute window, and walking from the site entrance takes 30 to 45 minutes.
-4. **Forgetting your ID.** Tickets are in your name and checked at the entrance.
+4. **Forgetting your ID.** Tickets are in your name and checked at the entrance. More in [our guide to Alhambra ticket names and ID](/en/guides/granada/alhambra-tickets-name-passport-id).
 
 Prices, opening hours and what to see inside are in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit). For the rest of the city, a two-day route fits the Alhambra together with the Albaicín, Sacromonte and the Cartuja.

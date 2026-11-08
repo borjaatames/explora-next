@@ -106,6 +106,6 @@ Con la entrada oficial de **Monumentos Andalusíes** (8,48 €) visitas otros es
 1. **Comprar en webs que imitan a la oficial.** Cobran recargos y a veces venden entradas que no sirven.
 2. **Reservar un tour sin leer si incluye los Nazaríes.** Es el fallo más caro: pagas guía y no entras en los Palacios.
 3. **Llegar tarde a tu hora de los Nazaríes.** Hay 30 minutos de margen y desde la entrada del recinto se tarda entre 30 y 45 minutos andando.
-4. **Olvidar el documento de identidad.** La entrada es nominativa y te lo piden en el acceso.
+4. **Olvidar el documento de identidad.** La entrada es nominativa y te lo piden en el acceso. Más detalles en [la guía de la entrada nominativa](/guias/granada/alhambra-entrada-nominativa-dni-pasaporte).
 
 Precios, horarios y qué ver dentro, en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar). Y para el resto de la ciudad, la ruta de [Granada en 2 días](/guias/granada/granada-en-2-dias) cuadra la Alhambra con el Albaicín, el Sacromonte y la Cartuja.

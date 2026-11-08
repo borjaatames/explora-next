@@ -80,7 +80,7 @@ Official Patronato prices for 2026, online fee included:
 
 - **Where:** the only official site is tickets.alhambra-patronato.es. It's slow and payment sometimes fails, but any other site charges a fee or resells.
 - **When:** tickets go on sale **up to three months ahead**, with about 8,000 a day. Morning slots sell out weeks in advance; at Easter, on Spanish long weekends, in July-August and at Christmas, within minutes.
-- **Bring your ID or passport:** tickets are in your name.
+- **Bring your ID or passport:** tickets are in your name. Which document works and what to do about a name mistake, in [our guide to Alhambra ticket names and ID](/en/guides/granada/alhambra-tickets-name-passport-id).
 
 **If everything is sold out**, your real options are:
 
