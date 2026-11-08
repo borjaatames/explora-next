@@ -6,6 +6,7 @@ descripcion: Giornata intera in barca da Playa d'en Bossa con soste per fare il 
 slugs:
   es: excursion-barco-formentera-todo-incluido-3-paradas
   en: formentera-all-inclusive-boat-day-trip-3-stops
+  de: ibiza-formentera-bootsausflug-all-inclusive
   it: escursione-barca-formentera-tutto-incluso-3-soste
   fr: excursion-bateau-formentera-tout-compris-3-arrets
 duracion: 10 ore

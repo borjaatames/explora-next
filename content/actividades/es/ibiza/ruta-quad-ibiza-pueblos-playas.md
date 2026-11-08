@@ -6,6 +6,7 @@ descripcion: Excursión guiada de 2 horas y media en quad por caminos de costa, 
 slugs:
   es: ruta-quad-ibiza-pueblos-playas
   en: ibiza-quad-tour-villages-beaches
+  de: ibiza-quad-tour-doerfer-straende
   fr: ibiza-excursion-quad-villages-plages
 duracion: 2 horas 30 minutos
 duracionMinutos: 150

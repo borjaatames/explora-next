@@ -6,6 +6,7 @@ descripcion: "All-inclusive boat trip from Ibiza to Formentera, with turquoise w
 slugs:
   es: excursion-barco-ibiza-formentera-todo-incluido
   en: ibiza-formentera-all-inclusive-boat-trip
+  de: ibiza-formentera-360-bootsausflug-all-inclusive
 duracion: "Up to 12 hours"
 duracionMinutos: 720
 precioDesde: 99

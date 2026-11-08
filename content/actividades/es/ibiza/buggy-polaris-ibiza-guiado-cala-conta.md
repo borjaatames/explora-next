@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 2 horas y media en buggy Polaris desde Sant Antoni p
 slugs:
   es: buggy-polaris-ibiza-guiado-cala-conta
   en: ibiza-guided-polaris-buggy-tour-cala-conta
+  de: ibiza-polaris-buggy-tour-cala-conta
 duracion: 2 horas 30 minutos
 duracionMinutos: 150
 precioDesde: 240

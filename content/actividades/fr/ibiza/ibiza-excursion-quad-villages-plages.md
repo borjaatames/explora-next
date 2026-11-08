@@ -6,6 +6,7 @@ descripcion: Excursion guidée en quad de 2 h 30 sur des pistes côtières, dans
 slugs:
   es: ruta-quad-ibiza-pueblos-playas
   en: ibiza-quad-tour-villages-beaches
+  de: ibiza-quad-tour-doerfer-straende
   fr: ibiza-excursion-quad-villages-plages
 duracion: 2 h 30 min
 duracionMinutos: 150

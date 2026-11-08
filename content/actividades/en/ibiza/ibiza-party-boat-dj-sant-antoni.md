@@ -6,6 +6,7 @@ descripcion: 3-hour party boat from Sant Antoni with a DJ, the Pukka Up dancers 
 slugs:
   es: fiesta-en-barco-ibiza-dj-sant-antoni
   en: ibiza-party-boat-dj-sant-antoni
+  de: ibiza-partyboot-dj-sant-antoni
 duracion: 3 hours on the boat (plus a 2-hour pre-party)
 duracionMinutos: 180
 precioDesde: 65

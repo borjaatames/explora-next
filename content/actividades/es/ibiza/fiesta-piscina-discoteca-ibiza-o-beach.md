@@ -6,6 +6,7 @@ descripcion: Ruta de fiesta en Sant Antoni con anfitriones, juegos en Big Putts,
 slugs:
   es: fiesta-piscina-discoteca-ibiza-o-beach
   en: ibiza-pool-party-club-tour-o-beach
+  de: ibiza-pool-party-club-tour-o-beach
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 49

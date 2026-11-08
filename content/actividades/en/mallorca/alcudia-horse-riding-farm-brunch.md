@@ -6,6 +6,7 @@ descripcion: 1 or 2-hour guided horse ride at Ranxo Ses Roques in Alcúdia, suit
 slugs:
   es: alcudia-paseo-caballo-granja-brunch
   en: alcudia-horse-riding-farm-brunch
+  de: alcudia-ausritt-bauernhof-brunch
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 38

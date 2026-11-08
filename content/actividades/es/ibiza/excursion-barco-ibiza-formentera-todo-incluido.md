@@ -6,6 +6,7 @@ descripcion: "Excursión en barco todo incluido de Ibiza a Formentera, con aguas
 slugs:
   es: excursion-barco-ibiza-formentera-todo-incluido
   en: ibiza-formentera-all-inclusive-boat-trip
+  de: ibiza-formentera-360-bootsausflug-all-inclusive
 duracion: "Hasta 12 horas"
 duracionMinutos: 720
 precioDesde: 99

@@ -6,6 +6,7 @@ descripcion: '3-hour boat trip from Sant Antoni to coves and sea caves: snorkell
 slugs:
   es: esnorquel-paddle-surf-cueva-marina-ibiza
   en: ibiza-snorkel-paddleboard-sea-cave-boat-tour
+  de: ibiza-bootsausflug-meereshoehlen-schnorcheln-paddleboard
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 70

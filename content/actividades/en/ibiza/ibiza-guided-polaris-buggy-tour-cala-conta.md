@@ -6,6 +6,7 @@ descripcion: A 2.5-hour guided Polaris buggy tour from Sant Antoni along mountai
 slugs:
   es: buggy-polaris-ibiza-guiado-cala-conta
   en: ibiza-guided-polaris-buggy-tour-cala-conta
+  de: ibiza-polaris-buggy-tour-cala-conta
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 240

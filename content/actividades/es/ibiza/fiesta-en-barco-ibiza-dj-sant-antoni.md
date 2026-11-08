@@ -6,6 +6,7 @@ descripcion: Fiesta en barco de 3 horas desde Sant Antoni con DJ, las bailarinas
 slugs:
   es: fiesta-en-barco-ibiza-dj-sant-antoni
   en: ibiza-party-boat-dj-sant-antoni
+  de: ibiza-partyboot-dj-sant-antoni
 duracion: 3 horas de barco (más 2 de previa)
 duracionMinutos: 180
 precioDesde: 65

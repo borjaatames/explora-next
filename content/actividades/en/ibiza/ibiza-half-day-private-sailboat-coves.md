@@ -6,6 +6,7 @@ descripcion: Three and a half hours on a sailboat just for your group (up to 7) 
 slugs:
   es: ibiza-velero-privado-medio-dia-calas
   en: ibiza-half-day-private-sailboat-coves
+  de: ibiza-privates-segelboot-buchten-halber-tag
   fr: ibiza-voilier-prive-demi-journee-criques
   it: ibiza-barca-vela-privata-mezza-giornata-calette
 duracion: 3.5 hours

@@ -6,6 +6,7 @@ descripcion: Return fast ferry between Ibiza port and La Savina plus an e-bike r
 slugs:
   es: ferry-bici-electrica-formentera-desde-ibiza
   en: formentera-fast-ferry-e-bike-from-ibiza
+  de: formentera-schnellfaehre-e-bike-ab-ibiza
 duracion: 1 day
 duracionMinutos: 480
 precioDesde: 75

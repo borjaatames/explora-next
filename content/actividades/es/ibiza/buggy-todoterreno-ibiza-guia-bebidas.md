@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 2 horas y media en buggy todoterreno desde Sant Anto
 slugs:
   es: buggy-todoterreno-ibiza-guia-bebidas
   en: ibiza-off-road-buggy-tour-guide-drinks
+  de: ibiza-offroad-buggy-tour-guide-getraenke
 duracion: 2 horas 30 minutos
 duracionMinutos: 150
 precioDesde: 220

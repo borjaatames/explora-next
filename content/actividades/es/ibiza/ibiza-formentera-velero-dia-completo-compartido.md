@@ -6,6 +6,7 @@ descripcion: Siete horas en un velero de 41 pies con plazas compartidas desde Ca
 slugs:
   es: ibiza-formentera-velero-dia-completo-compartido
   en: ibiza-formentera-shared-full-day-sailing
+  de: ibiza-formentera-segeltoern-ganztags-gruppe
   fr: ibiza-formentera-voilier-journee-partagee
   it: ibiza-formentera-barca-vela-giornata-condivisa
 duracion: 7 horas

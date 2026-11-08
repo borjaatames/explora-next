@@ -6,6 +6,7 @@ descripcion: Paseo guiado a caballo de 1 o 2 horas en el Ranxo Ses Roques de Alc
 slugs:
   es: alcudia-paseo-caballo-granja-brunch
   en: alcudia-horse-riding-farm-brunch
+  de: alcudia-ausritt-bauernhof-brunch
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 38

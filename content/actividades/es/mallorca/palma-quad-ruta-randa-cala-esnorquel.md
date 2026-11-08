@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 2 horas en quad desde Palma por caminos poco transit
 slugs:
   es: palma-quad-ruta-randa-cala-esnorquel
   en: palma-quad-tour-randa-cove-snorkel
+  de: palma-quad-tour-randa-bucht-schnorcheln
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 65

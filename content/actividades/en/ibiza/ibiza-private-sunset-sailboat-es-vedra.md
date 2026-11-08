@@ -6,6 +6,7 @@ descripcion: An hour and a half on a sailboat just for your group (up to 7) alon
 slugs:
   es: ibiza-velero-privado-puesta-de-sol-es-vedra
   en: ibiza-private-sunset-sailboat-es-vedra
+  de: ibiza-privates-segelboot-sonnenuntergang-es-vedra
 duracion: 1.5 hours
 duracionMinutos: 90
 precioDesde: 550

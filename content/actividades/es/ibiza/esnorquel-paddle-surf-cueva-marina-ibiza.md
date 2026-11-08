@@ -6,6 +6,7 @@ descripcion: 'Paseo en barco de 3 horas desde Sant Antoni a calas y cuevas marin
 slugs:
   es: esnorquel-paddle-surf-cueva-marina-ibiza
   en: ibiza-snorkel-paddleboard-sea-cave-boat-tour
+  de: ibiza-bootsausflug-meereshoehlen-schnorcheln-paddleboard
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 70

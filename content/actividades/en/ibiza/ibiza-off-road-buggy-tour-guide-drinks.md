@@ -6,6 +6,7 @@ descripcion: A 2.5-hour guided off-road buggy tour from Sant Antoni along dirt t
 slugs:
   es: buggy-todoterreno-ibiza-guia-bebidas
   en: ibiza-off-road-buggy-tour-guide-drinks
+  de: ibiza-offroad-buggy-tour-guide-getraenke
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 220

@@ -6,6 +6,7 @@ descripcion: 2-hour guided quad tour from Palma on quiet back roads, climbing to
 slugs:
   es: palma-quad-ruta-randa-cala-esnorquel
   en: palma-quad-tour-randa-cove-snorkel
+  de: palma-quad-tour-randa-bucht-schnorcheln
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 65

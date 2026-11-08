@@ -6,6 +6,7 @@ descripcion: Multiaventura de 3 horas en la costa norte de Mallorca junto a Alc√
 slugs:
   es: alcudia-kayak-cueva-marina-salto-esnorquel
   en: alcudia-kayak-sea-cave-cliff-jump-snorkel
+  de: alcudia-kajak-meereshoehle-klippenspringen-schnorcheln
   fr: alcudia-kayak-grotte-marine-saut-falaise-snorkeling
 duracion: 3 horas
 duracionMinutos: 180

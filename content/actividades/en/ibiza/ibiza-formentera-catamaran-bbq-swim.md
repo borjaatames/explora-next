@@ -6,6 +6,7 @@ descripcion: Catamaran trip from Ibiza port to Formentera through Ses Salines Na
 slugs:
   es: catamaran-ibiza-formentera-barbacoa-bano
   en: ibiza-formentera-catamaran-bbq-swim
+  de: ibiza-katamaran-formentera-grill-baden
 duracion: 4 hours 30 minutes
 duracionMinutos: 270
 precioDesde: 91

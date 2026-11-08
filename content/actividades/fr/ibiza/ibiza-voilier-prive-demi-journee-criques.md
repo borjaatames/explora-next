@@ -6,6 +6,7 @@ descripcion: Trois heures et demie sur un voilier rien que pour votre groupe (7 
 slugs:
   es: ibiza-velero-privado-medio-dia-calas
   en: ibiza-half-day-private-sailboat-coves
+  de: ibiza-privates-segelboot-buchten-halber-tag
   fr: ibiza-voilier-prive-demi-journee-criques
   it: ibiza-barca-vela-privata-mezza-giornata-calette
 duracion: 3 heures 30

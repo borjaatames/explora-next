@@ -6,6 +6,7 @@ descripcion: Hora y media en un velero solo para tu grupo (hasta 7) por la costa
 slugs:
   es: ibiza-velero-privado-puesta-de-sol-es-vedra
   en: ibiza-private-sunset-sailboat-es-vedra
+  de: ibiza-privates-segelboot-sonnenuntergang-es-vedra
 duracion: 1 hora y media
 duracionMinutos: 90
 precioDesde: 550

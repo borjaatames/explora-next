@@ -6,6 +6,7 @@ descripcion: Pase de ocio nocturno con entrada a 3 discotecas o fiestas de día 
 slugs:
   es: pase-discotecas-pool-parties-ibiza-o-beach
   en: ibiza-nightclub-pool-party-pass-o-beach
+  de: ibiza-club-pool-party-pass-o-beach
 duracion: Válido 10 días
 duracionMinutos: 14400
 precioDesde: 65

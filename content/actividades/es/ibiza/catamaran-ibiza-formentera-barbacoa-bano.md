@@ -6,6 +6,7 @@ descripcion: Travesía en catamarán desde el puerto de Ibiza hasta Formentera p
 slugs:
   es: catamaran-ibiza-formentera-barbacoa-bano
   en: ibiza-formentera-catamaran-bbq-swim
+  de: ibiza-katamaran-formentera-grill-baden
 duracion: 4 horas 30 minutos
 duracionMinutos: 270
 precioDesde: 91
