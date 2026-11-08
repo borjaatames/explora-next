@@ -131,8 +131,44 @@ export default function WidgetDisponibilidadGyg({
     return () => mq.removeEventListener("change", evaluar);
   }, [soloEn]);
 
+  // No se empieza a vigilar hasta que la página ha terminado de cargar y el
+  // navegador está libre, o antes si el usuario interactúa. Así el script de
+  // GYG (~60 KB + iframe) no compite con la foto principal: en móvil el bloque
+  // está casi en la primera pantalla y, con solo el margen, se cargaba a la vez
+  // que la portada (PageSpeed móvil de las fichas: 62 frente a 97 en guías).
+  const [paginaLista, setPaginaLista] = useState(false);
+
   useEffect(() => {
-    if (!activo || !contenedorRef.current) return;
+    if (paginaLista) return;
+    let cancelado = false;
+    let idleId: number | undefined;
+    let timeoutId: number | undefined;
+    const listo = () => {
+      if (!cancelado) setPaginaLista(true);
+    };
+    const trasCarga = () => {
+      const w = window as Window & {
+        requestIdleCallback?: (cb: () => void, opts?: { timeout: number }) => number;
+      };
+      if (w.requestIdleCallback) idleId = w.requestIdleCallback(listo, { timeout: 2000 });
+      else timeoutId = window.setTimeout(listo, 300);
+    };
+    const eventos = ["pointerdown", "keydown", "touchstart", "scroll"] as const;
+    eventos.forEach((e) => window.addEventListener(e, listo, { once: true, passive: true }));
+    if (document.readyState === "complete") trasCarga();
+    else window.addEventListener("load", trasCarga, { once: true });
+    return () => {
+      cancelado = true;
+      eventos.forEach((e) => window.removeEventListener(e, listo));
+      window.removeEventListener("load", trasCarga);
+      const w = window as Window & { cancelIdleCallback?: (id: number) => void };
+      if (idleId !== undefined) w.cancelIdleCallback?.(idleId);
+      if (timeoutId !== undefined) window.clearTimeout(timeoutId);
+    };
+  }, [paginaLista]);
+
+  useEffect(() => {
+    if (!activo || !paginaLista || !contenedorRef.current) return;
     const nodo = contenedorRef.current;
     const observer = new IntersectionObserver(
       (entradas) => {
@@ -148,7 +184,7 @@ export default function WidgetDisponibilidadGyg({
     );
     observer.observe(nodo);
     return () => observer.disconnect();
-  }, [activo, tourId, soloEn]);
+  }, [activo, paginaLista, tourId, soloEn]);
 
   if (!activo) return <>{fallback}</>;
 
