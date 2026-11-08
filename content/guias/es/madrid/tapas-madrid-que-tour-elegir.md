@@ -29,8 +29,6 @@ actividades:
   - ruta-tapas-nocturna-madrid
   - tour-tapas-vino-atardecer-azotea
   - tour-privado-tabernas-centenarias-madrid
-  - tapas-historia-cena-paella-madrid
-  - vinos-tapas-comida-la-latina-madrid
 faq:
 - pregunta: ¿Cuál es el mejor tour de tapas de Madrid?
   respuesta: 'Para la mayoría, el tour de tapas y vino con azotea (69 €, 3 h 30): incluye tapas y vino en cada parada, termina al atardecer en una azotea de Gran Vía y admite dietas y menores. Si buscáis algo privado y de historia, el de las tabernas centenarias.'
@@ -68,13 +66,6 @@ Los tres tienen **cancelación gratuita hasta 24 horas antes** y ninguno está a
 - **Ruta nocturna (35 €):** el precio cubre solo el guía. Al empezar, el guía recoge **30 € en efectivo** por persona como bote común para las tapas y bebidas de los tres bares; si el grupo quiere jamón ibérico u otras especialidades, se amplía. En español, inglés o alemán; el punto de encuentro, en el centro, llega en el correo de confirmación. 4,9/5 con 65 opiniones.
 - **Tapas y vino con azotea (69 €):** tapas en cada parada, vino en cada bar (o refresco en los tres primeros) y una copa en la azotea; el resto de consumiciones allí se paga aparte. Incluye reportaje de fotos y receta de sangría. Sale de la Plaza de Tirso de Molina y **termina en Callao**, otro punto. Menores admitidos con un adulto, sin alcohol. 4,7/5 con 342 opiniones.
 - **Tabernas centenarias, privado (127 € por persona, mínimo 2):** 2 h 10 con guía privado por tabernas y restaurantes de más de 100 y 200 años, incluido el restaurante más antiguo del mundo según el Guinness. Incluye una consumición y una tapa en la primera y en la última taberna; la ruta puede variar y no siempre se entra en todos los locales. Recogida en el hotel o cita en el centro. En español, inglés o italiano, a partir de 12 años.
-
-## Si prefieres cena sentada o un plan de mediodía
-
-Hay dos tours más del mismo operador local, los dos **en inglés**, con salida en la estatua de la Plaza de Isabel II (Ópera), opción vegetariana si la pides al reservar y acceso en silla de ruedas:
-
-- **[Tapas e historia con cena de paella](/ciudades/madrid/actividades/tapas-historia-cena-paella-madrid)** (desde 95 €, 3 h): tres bares, uno de croquetas desde 1860 en la calle del Arenal, paso por Sol, Plaza Mayor, Botín y Plaza de la Villa, y cena completa con paella y sangría casera.
-- **[Vinos y tapas en La Latina con comida](/ciudades/madrid/actividades/vinos-tapas-comida-la-latina-madrid)** (desde 80,55 €, 3 h): versión de mediodía con cata de Rioja, Ribera del Duero y Rías Baixas en tres tabernas, y comida final con paella, tortilla o calamares.
 
 ## Lo que debes saber antes de reservar
 

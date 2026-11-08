@@ -73,7 +73,7 @@ numeroOpiniones: 41
 atraccionesRelacionadas:
 - casco-antiguo
 - casco-medieval
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'

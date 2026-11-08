@@ -101,7 +101,7 @@ numeroOpiniones: 302
 atraccionesRelacionadas:
 - roque-nublo
 - interior
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-07'

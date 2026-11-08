@@ -91,7 +91,7 @@ galeria:
   alt: 'Archivo General de Indias'
 - src: https://imgcdn.bokun.tools/f3e1835e-1ab9-4382-8554-3f390037163b.jpg
   alt: 'Arco mudéjar del Real Alcázar'
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-12'

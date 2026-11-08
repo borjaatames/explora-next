@@ -77,7 +77,7 @@ ratingProveedor: 4.8
 numeroOpiniones: 1159
 atraccionesRelacionadas:
 - norte
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'

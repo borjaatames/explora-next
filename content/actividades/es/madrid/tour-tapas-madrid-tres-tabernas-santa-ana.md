@@ -79,7 +79,7 @@ imagen: /images/actividades/madrid/santa-ana/plaza-santa-ana.webp
 imagenAlt: Plaza de Santa Ana con sus terrazas y el edificio blanco del hotel al fondo
 ratingProveedor: 5.0
 numeroOpiniones: 5
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

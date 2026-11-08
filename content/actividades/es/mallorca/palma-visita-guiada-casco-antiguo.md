@@ -72,7 +72,7 @@ ratingProveedor: 4.9
 numeroOpiniones: 914
 atraccionesRelacionadas:
 - palma
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'

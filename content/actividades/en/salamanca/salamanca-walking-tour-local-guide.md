@@ -93,7 +93,7 @@ atraccionesRelacionadas:
 - plaza-mayor
 - universidad-catedrales
 - casco-historico
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

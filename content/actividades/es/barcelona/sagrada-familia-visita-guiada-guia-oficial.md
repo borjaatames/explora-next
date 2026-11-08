@@ -76,7 +76,7 @@ keywords:
 - entradas sagrada familia con guia
 imagen: /images/actividades/barcelona/sagrada-familia/sagrada-familia-cathedral-columns-barcelona-hero-hero.webp
 imagenAlt: Columnas arborescentes y bóvedas del interior de la Sagrada Familia
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-24'

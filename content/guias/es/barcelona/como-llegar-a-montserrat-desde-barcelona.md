@@ -34,7 +34,6 @@ respuestaCorta: 'Para llegar a Montserrat, coge el **tren R5 de FGC en Plaça Es
 actividades:
   - montserrat-medio-dia-grupo-pequeno
   - montserrat-cremallera-bodega-castlexperience
-  - barcelona-y-montserrat-grupo-reducido-recogida-hotel
   - montserrat-masia-bages-almuerzo-vinos
   - montserrat-privado-o-semiprivado-entradas-basilica
   - montserrat-cripta-gaudi-colonia-guell-privado
@@ -55,8 +54,6 @@ opciones:
     etiqueta: La más barata
   - ficha: montserrat-medio-dia-grupo-pequeno
     etiqueta: Medio día
-  - ficha: barcelona-y-montserrat-grupo-reducido-recogida-hotel
-    etiqueta: Con recogida en hotel
 ---
 
 ## Opciones para llegar a Montserrat
@@ -110,7 +107,7 @@ Compra el billete en las máquinas de FGC de Plaça Espanya. La T-casual del met
 - **Aparcar en el Aeri** (gratis) y subir en teleférico.
 - **Subir con el coche hasta el monasterio:** carretera con curvas y aparcamiento de pago (aprox. 6,50 € el día), que puede llenarse en fines de semana de temporada alta.
 
-**En excursión organizada** te suben y te bajan sin mirar horarios. Hay opciones desde 47 €, como el [grupo pequeño de medio día](/ciudades/barcelona/actividades/montserrat-medio-dia-grupo-pequeno) (desde 59 €) o [Barcelona y Montserrat con recogida en el hotel](/ciudades/barcelona/actividades/barcelona-y-montserrat-grupo-reducido-recogida-hotel) (desde 149 €). La comparativa completa está en [qué excursión a Montserrat elegir](/guias/barcelona/montserrat-que-excursion-elegir).
+**En excursión organizada** te suben y te bajan sin mirar horarios. Hay opciones desde 47 €, como el [grupo pequeño de medio día](/ciudades/barcelona/actividades/montserrat-medio-dia-grupo-pequeno) (desde 59 €). La comparativa completa está en [qué excursión a Montserrat elegir](/guias/barcelona/montserrat-que-excursion-elegir).
 
 [actividad: montserrat-cremallera-bodega-castlexperience]
 

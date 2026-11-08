@@ -78,7 +78,7 @@ galeria:
   alt: 'Arroz negro con calamares'
 - src: https://imgcdn.bokun.tools/fe5b3e58-86b0-4a51-b344-2dd13d027648.jpeg
   alt: 'Grupo probando tapas en la calle'
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-07'

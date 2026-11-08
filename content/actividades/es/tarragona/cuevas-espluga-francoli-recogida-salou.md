@@ -69,7 +69,7 @@ ratingProveedor: 4.5
 numeroOpiniones: 55
 atraccionesRelacionadas:
 - naturaleza
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'

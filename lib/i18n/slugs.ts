@@ -73,7 +73,7 @@ export function slugParejaActividad(
       ciudad,
       `${slugDestino}.md`
     );
-    if (fs.existsSync(destino)) return slugDestino;
+    if (fs.existsSync(destino) && estaPublicada(destino)) return slugDestino;
   }
   if (!fs.existsSync(fullPath)) return null;
   // Búsqueda inversa: las fichas nuevas (p. ej. FR/IT/PT) declaran sus
@@ -88,6 +88,11 @@ export function slugParejaActividad(
         (idiomaDestino === "es" ? f.slug === claveEs : f.slugs?.es === claveEs))
   );
   return pareja?.slug ?? null;
+}
+
+/** Una ficha con `publicada: false` no es pareja válida: su URL da 404. */
+function estaPublicada(ruta: string): boolean {
+  return !/^publicada:\s*false\s*$/m.test(fs.readFileSync(ruta, "utf8"));
 }
 
 type FichaConSlugs = {
@@ -107,6 +112,7 @@ function fichasConSlugs(idioma: Idioma, ciudad: string): FichaConSlugs[] {
     ? fs
         .readdirSync(dir)
         .filter((f) => f.endsWith(".md") && !f.startsWith("_"))
+        .filter((f) => estaPublicada(path.join(dir, f)))
         .map((f) => ({
           slug: f.replace(/\.md$/, ""),
           slugs: leerSlugsDelFrontmatter(path.join(dir, f)),

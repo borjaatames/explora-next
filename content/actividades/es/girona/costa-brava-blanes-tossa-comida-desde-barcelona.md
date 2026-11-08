@@ -71,7 +71,7 @@ ratingProveedor: 4.7
 numeroOpiniones: 1261
 atraccionesRelacionadas:
 - costa-brava
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'

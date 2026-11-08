@@ -76,7 +76,7 @@ ratingProveedor: 4.6
 numeroOpiniones: 150
 atraccionesRelacionadas:
 - sur
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'

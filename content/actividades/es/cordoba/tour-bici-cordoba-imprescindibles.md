@@ -72,7 +72,7 @@ numeroOpiniones: 430
 atraccionesRelacionadas:
 - mezquita
 - juderia
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'

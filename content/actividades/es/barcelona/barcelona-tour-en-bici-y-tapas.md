@@ -72,7 +72,7 @@ keywords:
 - barcelona en bicicleta
 imagen: /images/actividades/barcelona/proveedor-1229823/prov-bici-calle.webp
 imagenAlt: Grupo en bicicleta por una calle de Barcelona
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

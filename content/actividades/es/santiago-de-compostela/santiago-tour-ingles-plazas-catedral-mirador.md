@@ -71,7 +71,7 @@ numeroOpiniones: 25
 atraccionesRelacionadas:
 - centro-historico
 - catedral
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'

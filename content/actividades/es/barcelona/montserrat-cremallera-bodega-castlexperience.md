@@ -82,7 +82,7 @@ opinionEditorial: 'La variante de Castlexperience en GetYourGuide y la más comp
   Comparado con su gemelo de Viator (EXB-23, mismo operador con cremallera + bodega + tapas), aquí encontrarás los mismos contenidos pero a través de GetYourGuide en lugar de Viator. Para el cliente final es indiferente; reserva donde tengas mejor confianza en la plataforma.
 
 
-  Lo que conviene saber: los grupos son de 20 personas y el operador comparte transporte con otros grupos. Si quieres formato íntimo, mira [el tour en grupo reducido con recogida en hotel](/ciudades/barcelona/actividades/barcelona-y-montserrat-grupo-reducido-recogida-hotel).
+  Lo que conviene saber: los grupos son de 20 personas y el operador comparte transporte con otros grupos. Si quieres formato íntimo, busca una excursión en grupo reducido.
 
   '
 atraccionesRelacionadas:
