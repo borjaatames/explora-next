@@ -667,6 +667,7 @@ function construirListItem(
     numeroOpiniones: fm.numeroOpiniones,
 
     publicada: true,
+    indexar: fm.indexar === false ? false : undefined,
     destacada: fm.destacada || false,
     masReservado: fm.masReservado === true,
     fecha: fm.fecha || "",
