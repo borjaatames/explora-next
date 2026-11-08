@@ -6,6 +6,7 @@ descripcion: Expérience de 20 minutes au cours de laquelle les enfants de 8 ans
 slugs:
   es: buggy-ninos-salou-circuito
   en: salou-kids-buggy-driving-experience
+  de: salou-buggy-fahren-kinder-rundkurs
   fr: salou-buggy-enfants-circuit-securise
   it: salou-buggy-per-bambini-circuito
 duracion: 20 minutes

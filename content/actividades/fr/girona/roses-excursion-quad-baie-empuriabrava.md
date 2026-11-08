@@ -6,6 +6,7 @@ descripcion: 'Balade guidée d''1 heure en quad autour de la baie de Roses, d''E
 slugs:
   es: roses-quad-bahia-empuriabrava
   en: roses-bay-quad-tour-empuriabrava
+  de: roses-quad-tour-bucht-empuriabrava
   fr: roses-excursion-quad-baie-empuriabrava
 duracion: 1 heure
 duracionMinutos: 60

@@ -6,6 +6,7 @@ descripcion: 'A 5.5-hour night out with guides: karaoke to start, icebreaker gam
 slugs:
   es: barcelona-noche-karaoke-bares-y-discoteca
   en: barcelona-nightlife-karaoke-bars-and-club
+  de: barcelona-nachtleben-karaoke-bars-club
 duracion: 5 hours 30 minutes
 duracionMinutos: 330
 precioDesde: 14

@@ -6,6 +6,7 @@ descripcion: 1-hour hot air balloon flight over Segovia, with views of the Aqued
 slugs:
   es: vuelo-globo-segovia
   en: segovia-hot-air-balloon-ride
+  de: segovia-ballonfahrt-cava-fruehstueck
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 205

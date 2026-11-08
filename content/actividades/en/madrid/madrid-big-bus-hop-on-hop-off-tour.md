@@ -6,6 +6,7 @@ descripcion: Madrid Big Bus open-top sightseeing with three routes, unlimited st
 slugs:
   es: madrid-big-bus-hop-on-hop-off
   en: madrid-big-bus-hop-on-hop-off-tour
+  de: madrid-big-bus-hop-on-hop-off
 duracion: 24 hours
 duracionMinutos: 1440
 precioDesde: 29.7

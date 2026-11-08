@@ -6,6 +6,7 @@ descripcion: Vuelo de 20 minutos en parapente biplaza con piloto sobre las monta
 slugs:
   es: parapente-mussara-recogida-salou
   en: mussara-paragliding-flight-salou-pickup
+  de: la-mussara-tandem-gleitschirmflug-salou
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 171

@@ -6,6 +6,7 @@ descripcion: 20-minute tandem paragliding flight with a pilot over the Mussara m
 slugs:
   es: parapente-mussara-recogida-salou
   en: mussara-paragliding-flight-salou-pickup
+  de: la-mussara-tandem-gleitschirmflug-salou
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 171

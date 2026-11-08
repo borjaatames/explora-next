@@ -6,6 +6,7 @@ descripcion: Alquiler privado de velero de 3 horas frente a Barcelona para tu gr
 slugs:
   es: velero-privado-exclusivo-barcelona-3h
   en: exclusive-private-sailing-barcelona-3h
+  de: barcelona-privater-segeltoern-3-stunden
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 575

@@ -6,6 +6,7 @@ descripcion: Private 3-hour yacht charter off Barcelona for your group (up to 11
 slugs:
   es: velero-privado-exclusivo-barcelona-3h
   en: exclusive-private-sailing-barcelona-3h
+  de: barcelona-privater-segeltoern-3-stunden
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 575

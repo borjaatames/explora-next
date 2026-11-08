@@ -6,6 +6,7 @@ descripcion: Paseo privado de hora y media en coche de caballos por Sevilla con 
 slugs:
   es: paseo-coche-caballos-sevilla-guia-privado
   en: seville-private-horse-carriage-ride-guide
+  de: sevilla-private-kutschfahrt-guide-90-minuten
 duracion: 1 hora y 30 minutos
 duracionMinutos: 90
 precioDesde: 298

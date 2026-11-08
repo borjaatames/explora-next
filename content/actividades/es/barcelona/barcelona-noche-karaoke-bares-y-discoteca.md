@@ -6,6 +6,7 @@ descripcion: 'Salida nocturna de 5 horas y media con guías: karaoke para empeza
 slugs:
   es: barcelona-noche-karaoke-bares-y-discoteca
   en: barcelona-nightlife-karaoke-bars-and-club
+  de: barcelona-nachtleben-karaoke-bars-club
 duracion: 5 horas y 30 minutos
 duracionMinutos: 330
 precioDesde: 14

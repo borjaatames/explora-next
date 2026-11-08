@@ -6,6 +6,7 @@ descripcion: Guided ride on a two-seater quad or buggy along tracks and trails a
 slugs:
   es: quad-safari-salou-recogida-hotel
   en: salou-guided-quad-safari-hotel-pickup
+  de: salou-quad-safari-abholung-hotel
   fr: salou-safari-quad-guide-prise-en-charge-hotel
 duracion: 1 or 2 hours
 duracionMinutos: 120

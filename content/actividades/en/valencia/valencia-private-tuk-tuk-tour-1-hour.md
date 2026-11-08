@@ -6,6 +6,7 @@ descripcion: A one-hour private electric tuk-tuk ride for your group, from the S
 slugs:
   es: tuk-tuk-privado-valencia-1-hora
   en: valencia-private-tuk-tuk-tour-1-hour
+  de: valencia-private-tuk-tuk-tour-1-stunde
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 30

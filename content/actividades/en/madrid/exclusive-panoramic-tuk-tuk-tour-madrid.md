@@ -6,6 +6,7 @@ descripcion: 'Private 2-hour tuk-tuk tour through Madrid: Gran Vía, the Royal P
 slugs:
   es: tuk-tuk-vistas-panoramicas-exclusivas-madrid
   en: exclusive-panoramic-tuk-tuk-tour-madrid
+  de: madrid-panorama-tour-tuk-tuk-privat
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 140

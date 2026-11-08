@@ -6,6 +6,7 @@ descripcion: 2-hour ride in an open-top Land Rover Santana from Tossa de Mar alo
 slugs:
   es: tossa-de-mar-tour-4x4-cadiretes-sant-grau
   en: tossa-de-mar-4x4-tour-cadiretes-sant-grau
+  de: tossa-de-mar-gelaendewagen-tour-cadiretes
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 35

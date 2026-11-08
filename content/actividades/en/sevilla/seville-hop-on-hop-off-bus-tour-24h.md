@@ -6,6 +6,7 @@ descripcion: City Sightseeing Hop-On Hop-Off bus tour in Seville. Audio guide in
 slugs:
   es: sevilla-bus-turistico-hop-on-hop-off-24h
   en: seville-hop-on-hop-off-bus-tour-24h
+  de: sevilla-hop-on-hop-off-bus-24-stunden
 duracion: 1 - 2 days
 duracionMinutos: 75
 precioDesde: 28

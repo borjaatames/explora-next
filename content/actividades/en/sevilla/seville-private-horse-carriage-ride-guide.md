@@ -6,6 +6,7 @@ descripcion: A 90-minute private horse-drawn carriage ride around Seville with a
 slugs:
   es: paseo-coche-caballos-sevilla-guia-privado
   en: seville-private-horse-carriage-ride-guide
+  de: sevilla-private-kutschfahrt-guide-90-minuten
 duracion: 1 hour 30 minutes
 duracionMinutos: 90
 precioDesde: 298

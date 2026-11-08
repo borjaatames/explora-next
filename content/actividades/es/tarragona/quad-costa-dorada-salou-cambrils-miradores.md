@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 3 horas en quad por caminos rurales y pistas de mont
 slugs:
   es: quad-costa-dorada-salou-cambrils-miradores
   en: salou-cambrils-atv-tour-coast-views
+  de: salou-cambrils-quad-tour-aussichtspunkte
   fr: salou-cambrils-quad-guide-belvederes-costa-dorada
 duracion: 3 horas
 duracionMinutos: 180

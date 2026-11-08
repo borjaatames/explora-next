@@ -6,6 +6,7 @@ descripcion: Full-day trip from Barcelona to paddle past Costa Brava coves and c
 slugs:
   es: costa-brava-kayak-esnorquel-saltos-desde-barcelona
   en: costa-brava-kayak-snorkel-cliff-jump-from-barcelona
+  de: costa-brava-kajak-schnorcheln-klippenspringen-ab-barcelona
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 85

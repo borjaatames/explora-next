@@ -6,6 +6,7 @@ descripcion: 'Fiesta de 2 horas en un catamarán de dos pisos frente a Barcelona
 slugs:
   es: fiesta-en-barco-barcelona-catamaran-dj
   en: barcelona-boat-party-catamaran-dj
+  de: barcelona-bootsparty-katamaran-dj
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 53.1

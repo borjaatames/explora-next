@@ -6,6 +6,7 @@ descripcion: Ruta de 2 horas en Land Rover Santana descapotable desde Tossa de M
 slugs:
   es: tossa-de-mar-tour-4x4-cadiretes-sant-grau
   en: tossa-de-mar-4x4-tour-cadiretes-sant-grau
+  de: tossa-de-mar-gelaendewagen-tour-cadiretes
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 35

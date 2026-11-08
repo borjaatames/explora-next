@@ -6,6 +6,7 @@ descripcion: 'A 2-hour party on a double-decker catamaran off Barcelona: DJ and 
 slugs:
   es: fiesta-en-barco-barcelona-catamaran-dj
   en: barcelona-boat-party-catamaran-dj
+  de: barcelona-bootsparty-katamaran-dj
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 53.1

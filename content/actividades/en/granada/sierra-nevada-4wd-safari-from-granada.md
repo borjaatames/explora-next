@@ -5,6 +5,7 @@ ciudad: granada
 descripcion: A 6-7 hour 4WD trip through Sierra Nevada from Granada, climbing to a panoramic refuge at 2,500 metres. Small group of max 8 people with a local mountain guide.
 slugs:
   en: sierra-nevada-4wd-safari-from-granada
+  de: sierra-nevada-jeep-safari-ab-granada
   es: sierra-nevada-safari-4x4
 duracion: 6-7 hours
 duracionMinutos: 420

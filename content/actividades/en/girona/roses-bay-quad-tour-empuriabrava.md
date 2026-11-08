@@ -6,6 +6,7 @@ descripcion: 1-hour guided quad bike ride around the Bay of Roses, from Empuriab
 slugs:
   es: roses-quad-bahia-empuriabrava
   en: roses-bay-quad-tour-empuriabrava
+  de: roses-quad-tour-bucht-empuriabrava
   fr: roses-excursion-quad-baie-empuriabrava
 duracion: 1 hour
 duracionMinutos: 60

@@ -6,6 +6,7 @@ descripcion: Big Bus turístico descapotable de Madrid con tres rutas, paradas i
 slugs:
   es: madrid-big-bus-hop-on-hop-off
   en: madrid-big-bus-hop-on-hop-off-tour
+  de: madrid-big-bus-hop-on-hop-off
 duracion: 24 horas
 duracionMinutos: 1440
 precioDesde: 29.7

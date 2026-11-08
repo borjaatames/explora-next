@@ -6,6 +6,7 @@ descripcion: 'Visite privée de 2 heures dans Séville en tuk-tuk électrique, r
 slugs:
   es: tuk-tuk-privado-sevilla-2-horas
   en: private-tuk-tuk-tour-seville-2-hours
+  de: sevilla-private-tuk-tuk-tour-2-stunden
   fr: seville-grand-tour-tuk-tuk-electrique-prive-2-heures
 duracion: 2 heures
 duracionMinutos: 120

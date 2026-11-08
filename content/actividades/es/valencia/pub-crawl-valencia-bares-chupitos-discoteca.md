@@ -6,6 +6,7 @@ descripcion: 'Ruta nocturna de 4 horas por Valencia: tres bares o pubs y una dis
 slugs:
   es: pub-crawl-valencia-bares-chupitos-discoteca
   en: valencia-pub-crawl-bars-free-shots-club
+  de: valencia-pub-crawl-bars-shots-club
   it: pub-crawl-valencia-bar-shot-discoteca
 duracion: 4 horas
 duracionMinutos: 240

@@ -6,6 +6,7 @@ descripcion: Excursión de día completo desde Barcelona para remar en kayak por
 slugs:
   es: costa-brava-kayak-esnorquel-saltos-desde-barcelona
   en: costa-brava-kayak-snorkel-cliff-jump-from-barcelona
+  de: costa-brava-kajak-schnorcheln-klippenspringen-ab-barcelona
 duracion: 8 horas
 duracionMinutos: 480
 precioDesde: 85

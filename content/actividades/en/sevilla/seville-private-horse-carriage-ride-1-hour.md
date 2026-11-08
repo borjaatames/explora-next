@@ -6,6 +6,7 @@ descripcion: 'Private 1-hour horse-drawn carriage ride through Seville, just for
 slugs:
   es: sevilla-paseo-privado-coche-caballos-1-hora
   en: seville-private-horse-carriage-ride-1-hour
+  de: sevilla-private-kutschfahrt-1-stunde
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 99

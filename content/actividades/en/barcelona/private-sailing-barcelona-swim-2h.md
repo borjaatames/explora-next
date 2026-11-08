@@ -6,6 +6,7 @@ descripcion: Private 2-hour sail off Barcelona for your group, with drinks, snac
 slugs:
   es: velero-privado-barcelona-bano-2h
   en: private-sailing-barcelona-swim-2h
+  de: barcelona-privater-segeltoern-baden-2-stunden
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 295

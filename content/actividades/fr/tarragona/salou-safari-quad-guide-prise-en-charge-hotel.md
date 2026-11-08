@@ -6,6 +6,7 @@ descripcion: Balade guidée en quad ou en buggy biplace sur les pistes et sentie
 slugs:
   es: quad-safari-salou-recogida-hotel
   en: salou-guided-quad-safari-hotel-pickup
+  de: salou-quad-safari-abholung-hotel
   fr: salou-safari-quad-guide-prise-en-charge-hotel
 duracion: 1 ou 2 heures
 duracionMinutos: 120

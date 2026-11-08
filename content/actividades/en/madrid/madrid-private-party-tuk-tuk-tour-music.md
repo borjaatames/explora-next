@@ -6,6 +6,7 @@ descripcion: Private tuk-tuk with your own music playing through Madrid's most f
 slugs:
   es: tuk-tuk-fiesta-privada-musica-madrid
   en: madrid-private-party-tuk-tuk-tour-music
+  de: madrid-private-party-tuk-tuk-musik
 duracion: 1h 30min
 duracionMinutos: 90
 precioDesde: 150

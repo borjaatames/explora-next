@@ -6,6 +6,7 @@ descripcion: Balade guidée de 3 heures en quad sur les chemins de campagne et l
 slugs:
   es: quad-costa-dorada-salou-cambrils-miradores
   en: salou-cambrils-atv-tour-coast-views
+  de: salou-cambrils-quad-tour-aussichtspunkte
   fr: salou-cambrils-quad-guide-belvederes-costa-dorada
 duracion: 3 heures
 duracionMinutos: 180

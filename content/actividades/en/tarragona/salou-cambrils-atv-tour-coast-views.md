@@ -6,6 +6,7 @@ descripcion: 3-hour guided ATV ride on country roads and mountain tracks inland 
 slugs:
   es: quad-costa-dorada-salou-cambrils-miradores
   en: salou-cambrils-atv-tour-coast-views
+  de: salou-cambrils-quad-tour-aussichtspunkte
   fr: salou-cambrils-quad-guide-belvederes-costa-dorada
 duracion: 3 hours
 duracionMinutos: 180

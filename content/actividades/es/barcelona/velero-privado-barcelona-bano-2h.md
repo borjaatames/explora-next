@@ -6,6 +6,7 @@ descripcion: Navegación privada de 2 horas frente a Barcelona para tu grupo, co
 slugs:
   es: velero-privado-barcelona-bano-2h
   en: private-sailing-barcelona-swim-2h
+  de: barcelona-privater-segeltoern-baden-2-stunden
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 295

@@ -6,6 +6,7 @@ descripcion: Vuelo en globo de 1 hora sobre Segovia, con vistas al Acueducto, la
 slugs:
   es: vuelo-globo-segovia
   en: segovia-hot-air-balloon-ride
+  de: segovia-ballonfahrt-cava-fruehstueck
 duracion: 4 horas
 duracionMinutos: 240
 precioDesde: 205

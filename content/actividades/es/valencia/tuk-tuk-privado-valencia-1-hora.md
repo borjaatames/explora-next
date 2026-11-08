@@ -6,6 +6,7 @@ descripcion: Paseo privado de una hora en tuk-tuk eléctrico para tu grupo, de l
 slugs:
   es: tuk-tuk-privado-valencia-1-hora
   en: valencia-private-tuk-tuk-tour-1-hour
+  de: valencia-private-tuk-tuk-tour-1-stunde
 duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 30

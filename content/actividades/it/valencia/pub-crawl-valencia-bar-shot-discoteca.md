@@ -6,6 +6,7 @@ descripcion: 'Una serata di 4 ore a Valencia: tre bar o pub e una grande discote
 slugs:
   es: pub-crawl-valencia-bares-chupitos-discoteca
   en: valencia-pub-crawl-bars-free-shots-club
+  de: valencia-pub-crawl-bars-shots-club
   it: pub-crawl-valencia-bar-shot-discoteca
 duracion: 4 ore
 duracionMinutos: 240
