@@ -6,6 +6,7 @@ descripcion: 3-hour guided on-road tour in a four-seat buggy from Puerto del Car
 slugs:
   es: buggy-carretera-volcan-el-cuervo-la-geria
   en: lanzarote-on-road-buggy-tour-el-cuervo-volcano
+  de: lanzarote-buggy-strasse-vulkan-el-cuervo
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 180

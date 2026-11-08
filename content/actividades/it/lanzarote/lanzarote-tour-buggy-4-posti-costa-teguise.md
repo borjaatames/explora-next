@@ -6,6 +6,7 @@ descripcion: Tour guidato di 2 ore in buggy Can-Am a 4 posti da Costa Teguise ve
 slugs:
   es: buggy-4-plazas-norte-lanzarote-costa-teguise
   en: lanzarote-4-seater-buggy-tour-costa-teguise
+  de: lanzarote-buggy-4-sitzer-costa-teguise
   it: lanzarote-tour-buggy-4-posti-costa-teguise
   fr: lanzarote-buggy-4-places-nord-costa-teguise
 duracion: 2 ore

@@ -6,6 +6,7 @@ descripcion: Ruta guiada en buggy de 2,5 horas por pistas de tierra del norte de
 slugs:
   es: buggy-safari-corralejo
   en: corralejo-buggy-safari
+  de: corralejo-buggy-safari-pisten-vulkane
   fr: corralejo-safari-buggy-pistes-volcans
   it: corralejo-buggy-safari-piste-vulcani
 duracion: 2,5 horas

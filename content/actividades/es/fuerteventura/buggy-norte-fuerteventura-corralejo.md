@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 2 horas conduciendo tu propio buggy desde Corralejo 
 slugs:
   es: buggy-norte-fuerteventura-corralejo
   en: northern-fuerteventura-dune-buggy-corralejo
+  de: corralejo-dune-buggy-norden-fuerteventura
   fr: corralejo-excursion-buggy-nord-fuerteventura
   it: corralejo-tour-dune-buggy-nord-fuerteventura
 duracion: 2 horas

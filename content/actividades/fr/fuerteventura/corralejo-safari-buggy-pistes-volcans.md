@@ -6,6 +6,7 @@ descripcion: 'Excursion guidée de 2 h 30 en buggy sur les pistes de terre du no
 slugs:
   es: buggy-safari-corralejo
   en: corralejo-buggy-safari
+  de: corralejo-buggy-safari-pisten-vulkane
   fr: corralejo-safari-buggy-pistes-volcans
   it: corralejo-buggy-safari-piste-vulcani
 duracion: 2 h 30 min

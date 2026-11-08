@@ -6,6 +6,7 @@ descripcion: 'Recorrido guiado de 2 horas en tuk tuk eléctrico por Costa Adeje:
 slugs:
   es: tuk-tuk-costa-adeje-tour-guiado
   en: costa-adeje-tuk-tuk-tour
+  de: costa-adeje-tuk-tuk-tour
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 38

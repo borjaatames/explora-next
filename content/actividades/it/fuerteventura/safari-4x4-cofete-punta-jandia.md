@@ -6,6 +6,7 @@ descripcion: Safari fuoristrada di 5 ore intorno all'estremità sud dell'isola, 
 slugs:
   es: safari-4x4-cofete-punta-jandia
   en: cofete-punta-jandia-4x4-safari
+  de: jeep-safari-cofete-punta-jandia
   it: safari-4x4-cofete-punta-jandia
   fr: safari-4x4-cofete-punta-jandia
 duracion: 5 ore

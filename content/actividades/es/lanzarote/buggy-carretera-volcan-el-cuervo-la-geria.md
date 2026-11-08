@@ -6,6 +6,7 @@ descripcion: Ruta guiada de 3 horas en buggy de cuatro plazas por carretera desd
 slugs:
   es: buggy-carretera-volcan-el-cuervo-la-geria
   en: lanzarote-on-road-buggy-tour-el-cuervo-volcano
+  de: lanzarote-buggy-strasse-vulkan-el-cuervo
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 180

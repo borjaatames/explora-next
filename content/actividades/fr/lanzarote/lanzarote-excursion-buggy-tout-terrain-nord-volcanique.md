@@ -6,6 +6,7 @@ descripcion: Un parcours guidé en buggy de 2 à 3 heures depuis Costa Teguise �
 slugs:
   es: buggy-volcanes-norte-lanzarote
   en: lanzarote-off-road-buggy-tour
+  de: lanzarote-offroad-buggy-tour-norden
   fr: lanzarote-excursion-buggy-tout-terrain-nord-volcanique
 duracion: 2 à 3 heures
 duracionMinutos: 150

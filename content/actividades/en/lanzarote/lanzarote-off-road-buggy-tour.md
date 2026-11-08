@@ -6,6 +6,7 @@ descripcion: A 2-3 hour guided buggy route from Costa Teguise through the Guatiz
 slugs:
   es: buggy-volcanes-norte-lanzarote
   en: lanzarote-off-road-buggy-tour
+  de: lanzarote-offroad-buggy-tour-norden
   fr: lanzarote-excursion-buggy-tout-terrain-nord-volcanique
 duracion: 2-3 hours
 duracionMinutos: 150

@@ -6,6 +6,7 @@ descripcion: 5-hour off-road safari around the island's southern tip, with Punta
 slugs:
   es: safari-4x4-cofete-punta-jandia
   en: cofete-punta-jandia-4x4-safari
+  de: jeep-safari-cofete-punta-jandia
   fr: safari-4x4-cofete-punta-jandia
   it: safari-4x4-cofete-punta-jandia
 duracion: 5 hours

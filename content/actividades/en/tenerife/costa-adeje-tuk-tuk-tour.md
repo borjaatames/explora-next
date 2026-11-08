@@ -6,6 +6,7 @@ descripcion: '2-hour guided electric tuk tuk tour of Costa Adeje: Puerto Colón,
 slugs:
   es: tuk-tuk-costa-adeje-tour-guiado
   en: costa-adeje-tuk-tuk-tour
+  de: costa-adeje-tuk-tuk-tour
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 38

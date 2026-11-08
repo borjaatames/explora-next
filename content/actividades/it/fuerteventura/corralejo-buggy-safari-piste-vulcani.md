@@ -6,6 +6,7 @@ descripcion: Tour guidato in buggy di 2 ore e mezza su piste sterrate nel nord d
 slugs:
   es: buggy-safari-corralejo
   en: corralejo-buggy-safari
+  de: corralejo-buggy-safari-pisten-vulkane
   it: corralejo-buggy-safari-piste-vulcani
   fr: corralejo-safari-buggy-pistes-volcans
 duracion: 2 ore e 30 min

@@ -6,6 +6,7 @@ descripcion: Giro guidato in quad da Chío (Guía de Isora) fino al Parco Nazion
 slugs:
   es: quad-teide-desde-chio
   en: teide-quad-tour-from-chio
+  de: teide-quad-tour-ab-chio
   it: quad-teide-da-chio
   fr: teide-en-quad-depuis-chio
 duracion: Da 3 a 4 ore

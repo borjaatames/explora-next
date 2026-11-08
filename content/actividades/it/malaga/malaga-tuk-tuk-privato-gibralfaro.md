@@ -6,6 +6,7 @@ descripcion: 'Tour privato di 1 ora in tuk tuk elettrico solo per il tuo gruppo 
 slugs:
   es: malaga-tuk-tuk-privado-gibralfaro
   en: malaga-private-tuk-tuk-tour-gibralfaro
+  de: malaga-private-tuk-tuk-tour-gibralfaro
   it: malaga-tuk-tuk-privato-gibralfaro
 duracion: '1 ora'
 duracionMinutos: 60

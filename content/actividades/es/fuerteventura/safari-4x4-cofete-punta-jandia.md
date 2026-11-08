@@ -6,6 +6,7 @@ descripcion: Safari de 5 horas en todoterreno por el extremo sur de la isla, con
 slugs:
   es: safari-4x4-cofete-punta-jandia
   en: cofete-punta-jandia-4x4-safari
+  de: jeep-safari-cofete-punta-jandia
   fr: safari-4x4-cofete-punta-jandia
   it: safari-4x4-cofete-punta-jandia
 duracion: 5 horas
