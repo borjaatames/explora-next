@@ -87,10 +87,14 @@ galeria:
   alt: 'Viajeras mirando el folleto de la ruta'
 - src: https://imgcdn.bokun.tools/077bc280-8bc8-49c3-b9cb-2c25b356c334.jpeg
   alt: 'Dos viajeras frente al Congreso de los Diputados de noche'
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-explanada-visitantes-exploraspain.webp
+  alt: "Visitantes en la explanada frente a la nueva fachada de lamas del Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-lamas-paseo-exploraspain.webp
+  alt: "La fachada de lamas metálicas del Bernabéu desde el paseo"
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-11-09'
 privada: true
 precioPorGrupo: true
 ---

@@ -87,10 +87,14 @@ galeria:
   alt: 'Viaggiatori che guardano il depliant del percorso'
 - src: https://imgcdn.bokun.tools/077bc280-8bc8-49c3-b9cb-2c25b356c334.jpeg
   alt: 'Due viaggiatori davanti al Parlamento spagnolo di notte'
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-explanada-visitantes-exploraspain.webp
+  alt: "Visitatori sul piazzale davanti alla nuova facciata a lamelle del Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-lamas-paseo-exploraspain.webp
+  alt: "La facciata a lamelle metalliche del Bernabéu dal passeggio"
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-11-09'
 privada: true
 precioPorGrupo: true
 ---

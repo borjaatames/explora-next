@@ -99,6 +99,18 @@ galeria:
   alt: Bancadas do Bernabéu remodelado com o letreiro «Tour Bernabéu» e as letras do Real Madrid
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp
   alt: A fachada do novo Estádio Santiago Bernabéu depois da remodelação
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-explanada-visitantes-exploraspain.webp
+  alt: "Visitantes na esplanada em frente à nova fachada de lâminas do Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-entrada-tienda-fachada-exploraspain.webp
+  alt: "Entrada da loja e do tour na nova fachada do Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-lamas-paseo-exploraspain.webp
+  alt: "A fachada de lâminas metálicas do Bernabéu vista do passeio"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-vista-cesped-desde-bar-exploraspain.webp
+  alt: "O relvado e as bancadas do Bernabéu vistos do bar interior"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-gradas-cesped-interior-exploraspain.webp
+  alt: "Bancadas e campo no interior do Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-terraza-acceso-plaza-exploraspain.webp
+  alt: "Esplanada e acesso à zona de restauração junto ao Bernabéu"
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-cubierta-madrid.webp
   alt: O interior do novo Bernabéu com a cobertura e o ecrã de vídeo a 360°
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp
@@ -128,7 +140,7 @@ numeroOpiniones: 23468
 publicada: true
 destacada: true
 fecha: '2026-05-17'
-fecha_actualizacion: '2026-11-05'
+fecha_actualizacion: '2026-11-09'
 guiasRelacionadas:
 - tour-bernabeu-bilhetes-esgotados
 ---

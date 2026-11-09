@@ -103,6 +103,18 @@ galeria:
   alt: Gli spalti del Bernabéu rinnovato con la scritta «Tour Bernabéu» e il nome del Real Madrid
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp
   alt: La facciata del nuovo Stadio Santiago Bernabéu dopo la ristrutturazione
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-explanada-visitantes-exploraspain.webp
+  alt: "Visitatori sul piazzale davanti alla nuova facciata a lamelle del Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-entrada-tienda-fachada-exploraspain.webp
+  alt: "Ingresso al negozio e al tour sulla nuova facciata del Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-lamas-paseo-exploraspain.webp
+  alt: "La facciata a lamelle metalliche del Bernabéu dal passeggio"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-vista-cesped-desde-bar-exploraspain.webp
+  alt: "Il campo e le tribune del Bernabéu visti dal bar interno"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-gradas-cesped-interior-exploraspain.webp
+  alt: "Tribune e terreno di gioco all'interno del Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-terraza-acceso-plaza-exploraspain.webp
+  alt: "Terrazza e ingresso alla zona ristorazione accanto al Bernabéu"
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-cubierta-madrid.webp
   alt: L'interno del nuovo Bernabéu con la copertura e il maxischermo a 360°
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp

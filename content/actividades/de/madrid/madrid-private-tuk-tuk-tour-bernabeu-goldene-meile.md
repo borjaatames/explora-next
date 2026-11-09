@@ -88,10 +88,14 @@ galeria:
   alt: 'Reisende schauen sich den Flyer mit der Route an'
 - src: https://imgcdn.bokun.tools/077bc280-8bc8-49c3-b9cb-2c25b356c334.jpeg
   alt: 'Zwei Reisende nachts vor dem spanischen Parlament'
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-explanada-visitantes-exploraspain.webp
+  alt: "Besucher auf dem Vorplatz vor der neuen Lamellenfassade des Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-lamas-paseo-exploraspain.webp
+  alt: "Die Metalllamellen-Fassade des Bernabéu vom Gehweg aus"
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-11-09'
 privada: true
 precioPorGrupo: true
 ---

@@ -104,6 +104,18 @@ galeria:
   alt: Stands of the renovated Bernabéu with the 'Tour Bernabéu' sign and the Real Madrid lettering
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp
   alt: Façade of the new Santiago Bernabéu Stadium after the renovation
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-explanada-visitantes-exploraspain.webp
+  alt: "Visitors on the plaza in front of the Bernabéu's new metal-slat façade"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-entrada-tienda-fachada-exploraspain.webp
+  alt: "Entrance to the store and stadium tour on the new Bernabéu façade"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-lamas-paseo-exploraspain.webp
+  alt: "The Bernabéu's metal-slat façade seen from the walkway"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-vista-cesped-desde-bar-exploraspain.webp
+  alt: "The Bernabéu pitch and stands seen from the inside bar"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-gradas-cesped-interior-exploraspain.webp
+  alt: "Stands and pitch inside the Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-terraza-acceso-plaza-exploraspain.webp
+  alt: "Terrace and entrance to the food area next to the Bernabéu"
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-cubierta-madrid.webp
   alt: Inside the new Bernabéu with its roof and 360° video board
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp
@@ -133,7 +145,7 @@ numeroOpiniones: 23468
 publicada: true
 destacada: true
 fecha: '2026-05-17'
-fecha_actualizacion: '2026-10-25'
+fecha_actualizacion: '2026-11-09'
 ---
 
 ## What you'll see

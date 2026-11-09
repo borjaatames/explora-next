@@ -102,6 +102,18 @@ galeria:
   alt: Ränge des renovierten Bernabéu mit dem Schild «Tour Bernabéu» und dem Real-Madrid-Schriftzug
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp
   alt: Fassade des neuen Stadions Santiago Bernabéu nach der Renovierung
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-explanada-visitantes-exploraspain.webp
+  alt: "Besucher auf dem Vorplatz vor der neuen Lamellenfassade des Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-entrada-tienda-fachada-exploraspain.webp
+  alt: "Eingang zum Shop und zur Stadiontour an der neuen Fassade des Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-lamas-paseo-exploraspain.webp
+  alt: "Die Metalllamellen-Fassade des Bernabéu vom Gehweg aus"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-vista-cesped-desde-bar-exploraspain.webp
+  alt: "Rasen und Tribünen des Bernabéu von der Bar im Stadion aus"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-gradas-cesped-interior-exploraspain.webp
+  alt: "Tribünen und Spielfeld im Inneren des Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-terraza-acceso-plaza-exploraspain.webp
+  alt: "Terrasse und Eingang zum Gastrobereich am Bernabéu"
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-cubierta-madrid.webp
   alt: Im Inneren des neuen Bernabéu mit Dach und 360°-Videowand
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp
@@ -131,7 +143,7 @@ numeroOpiniones: 23468
 publicada: true
 destacada: true
 fecha: '2026-05-17'
-fecha_actualizacion: '2026-10-25'
+fecha_actualizacion: '2026-11-09'
 ---
 
 ## Was du siehst

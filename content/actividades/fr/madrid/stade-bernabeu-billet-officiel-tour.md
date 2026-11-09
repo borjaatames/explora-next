@@ -103,6 +103,18 @@ galeria:
   alt: Les tribunes du Bernabéu rénové avec le panneau « Tour Bernabéu » et l'inscription Real Madrid
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-nueva-hero.webp
   alt: La façade du nouveau stade Santiago Bernabéu après la rénovation
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-explanada-visitantes-exploraspain.webp
+  alt: "Visiteurs sur l'esplanade devant la nouvelle façade à lamelles du Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-entrada-tienda-fachada-exploraspain.webp
+  alt: "Entrée de la boutique et de la visite sur la nouvelle façade du Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-lamas-paseo-exploraspain.webp
+  alt: "La façade à lamelles métalliques du Bernabéu depuis la promenade"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-vista-cesped-desde-bar-exploraspain.webp
+  alt: "La pelouse et les tribunes du Bernabéu vues depuis le bar intérieur"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-gradas-cesped-interior-exploraspain.webp
+  alt: "Tribunes et terrain à l'intérieur du Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-terraza-acceso-plaza-exploraspain.webp
+  alt: "Terrasse et accès à l'espace restauration à côté du Bernabéu"
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-cubierta-madrid.webp
   alt: L'intérieur du nouveau Bernabéu avec son toit et son écran vidéo à 360°
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp
@@ -132,7 +144,7 @@ numeroOpiniones: 23468
 publicada: true
 destacada: true
 fecha: '2026-11-05'
-fecha_actualizacion: '2026-11-05'
+fecha_actualizacion: '2026-11-09'
 ---
 
 ## Ce que vous verrez

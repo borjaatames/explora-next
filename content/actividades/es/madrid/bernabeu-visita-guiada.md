@@ -100,6 +100,18 @@ galeria:
   alt: Interior del nuevo Bernabéu con la cubierta y el videomarcador de 360°
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-interior-gradas-hero.webp
   alt: Gradas y terreno de juego del Bernabéu reformado
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-explanada-visitantes-exploraspain.webp
+  alt: "Visitantes en la explanada frente a la nueva fachada de lamas del Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-entrada-tienda-fachada-exploraspain.webp
+  alt: "Entrada a la tienda y al tour por la fachada nueva del Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-lamas-paseo-exploraspain.webp
+  alt: "La fachada de lamas metálicas del Bernabéu desde el paseo"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-vista-cesped-desde-bar-exploraspain.webp
+  alt: "El césped y las gradas del Bernabéu vistos desde el bar interior"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-gradas-cesped-interior-exploraspain.webp
+  alt: "Gradas y terreno de juego del Bernabéu por dentro"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-terraza-acceso-plaza-exploraspain.webp
+  alt: "Terraza y acceso a la zona de restauración junto al Bernabéu"
 - src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-aerea-atardecer.webp
   alt: Vista aérea del nuevo Bernabéu al atardecer con la cubierta cerrada
 - src: /images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp
@@ -130,7 +142,7 @@ publicada: true
 indexar: false
 destacada: false
 fecha: '2026-05-17'
-fecha_actualizacion: '2026-10-25'
+fecha_actualizacion: '2026-11-09'
 ---
 
 ## Qué vas a ver

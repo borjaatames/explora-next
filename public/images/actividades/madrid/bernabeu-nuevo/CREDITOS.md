@@ -22,3 +22,12 @@
 | bernabeu-exterior-fachada-2024.webp | Commons: M-estadio-santiago-bernabeu-diciembre-2024-c.jpg | MottaW | CC BY 4.0 |
 | bernabeu-partido-lleno.webp | Commons: Estadio Santiago Bernabéu Madrid.jpg | Zoser | CC BY 4.0 |
 | bernabeu-interior-videomarcador.webp | Commons: Estadio Santiago Bernabeu (53988717004).jpg | Daniel from Glasgow | CC BY 2.0 |
+
+## Fotos propias de ExploraSpain (9 nov 2026)
+Hechas por Borja (ExploraSpain) en el estadio Santiago Bernabéu. Uso propio en exploraspain.com.
+- bernabeu-fachada-explanada-visitantes-exploraspain.webp
+- bernabeu-entrada-tienda-fachada-exploraspain.webp
+- bernabeu-fachada-lamas-paseo-exploraspain.webp
+- bernabeu-vista-cesped-desde-bar-exploraspain.webp
+- bernabeu-gradas-cesped-interior-exploraspain.webp
+- bernabeu-terraza-acceso-plaza-exploraspain.webp

@@ -88,10 +88,14 @@ galeria:
   alt: 'Voyageurs consultant le dépliant de l''itinéraire'
 - src: https://imgcdn.bokun.tools/077bc280-8bc8-49c3-b9cb-2c25b356c334.jpeg
   alt: 'Deux voyageurs devant le Congrès des députés la nuit'
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-explanada-visitantes-exploraspain.webp
+  alt: "Visiteurs sur l'esplanade devant la nouvelle façade à lamelles du Bernabéu"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-lamas-paseo-exploraspain.webp
+  alt: "La façade à lamelles métalliques du Bernabéu depuis la promenade"
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-11-09'
 privada: true
 precioPorGrupo: true
 ---

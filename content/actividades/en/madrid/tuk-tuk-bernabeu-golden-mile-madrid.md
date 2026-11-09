@@ -87,10 +87,14 @@ galeria:
   alt: 'Travelers looking at the route leaflet'
 - src: https://imgcdn.bokun.tools/077bc280-8bc8-49c3-b9cb-2c25b356c334.jpeg
   alt: 'Two travelers in front of the Spanish Parliament at night'
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-explanada-visitantes-exploraspain.webp
+  alt: "Visitors on the plaza in front of the Bernabéu's new metal-slat façade"
+- src: /images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-lamas-paseo-exploraspain.webp
+  alt: "The Bernabéu's metal-slat façade seen from the walkway"
 publicada: true
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-11-09'
 privada: true
 precioPorGrupo: true
 ---
