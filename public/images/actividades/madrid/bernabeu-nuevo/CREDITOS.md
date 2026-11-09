@@ -23,8 +23,8 @@
 | bernabeu-partido-lleno.webp | Commons: Estadio Santiago Bernabéu Madrid.jpg | Zoser | CC BY 4.0 |
 | bernabeu-interior-videomarcador.webp | Commons: Estadio Santiago Bernabeu (53988717004).jpg | Daniel from Glasgow | CC BY 2.0 |
 
-## Fotos propias de ExploraSpain (9 nov 2026)
-Hechas por Borja (ExploraSpain) en el estadio Santiago Bernabéu. Uso propio en exploraspain.com.
+## Fotos de Vive Madriz Tours (9 nov 2026)
+Fotos del proveedor Vive Madriz Tours (MADRIZ TOURS en Bókun), carpeta «BERNABEU» de su Google Drive, compartida con ExploraSpain el 9 nov 2026 para usarlas en exploraspain.com.
 - bernabeu-fachada-explanada-visitantes-exploraspain.webp
 - bernabeu-entrada-tienda-fachada-exploraspain.webp
 - bernabeu-fachada-lamas-paseo-exploraspain.webp
