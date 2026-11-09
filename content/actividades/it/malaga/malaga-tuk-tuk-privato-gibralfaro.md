@@ -74,9 +74,25 @@ keywords:
 - tuk tuk privato malaga
 - tour tuk tuk malaga gibralfaro
 - malaga in tuk tuk in italiano
-imagen: https://imgcdn.bokun.tools/0a38544c-033d-4aaa-8031-0224a4e84dce.jpg
-imagenAlt: 'Tuk tuk elettrico con passeggeri accanto al faro La Farola di Malaga'
+imagen: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-clientes-paseo-puerto.webp
+imagenAlt: "Clienti a bordo del tuk tuk elettrico in una via di Málaga vicino al mare"
 galeria:
+- src: /images/actividades/malaga/tuk-tuk-malaga/malaga-vistas-ciudad-desde-gibralfaro.webp
+  alt: "Vista di Málaga, dell'arena e del porto da Gibralfaro"
+- src: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-grupo-mirador-gibralfaro.webp
+  alt: "Gruppo al belvedere di Gibralfaro con il porto di Málaga"
+- src: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-mirador-mar.webp
+  alt: "Tuk tuk con clienti su un belvedere sul mare"
+- src: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-clientes-gibralfaro.webp
+  alt: "Clienti accanto al tuk tuk salendo a Gibralfaro"
+- src: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-pinares-gibralfaro.webp
+  alt: "Tuk tuk tra i pini del monte Gibralfaro"
+- src: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-bailaores-flamenco.webp
+  alt: "Coppia in abito da flamenco accanto al tuk tuk a Málaga"
+- src: /images/actividades/malaga/tuk-tuk-malaga/malaga-ciudad-noche-vistas.webp
+  alt: "Málaga al tramonto vista dall'alto"
+- src: https://imgcdn.bokun.tools/0a38544c-033d-4aaa-8031-0224a4e84dce.jpg
+  alt: 'Tuk tuk elettrico con passeggeri accanto al faro La Farola di Malaga'
 - src: https://imgcdn.bokun.tools/c3636e51-aa27-49c8-b658-e36e15b37fa1.jpg
   alt: 'Malaga e il porto visti da Gibralfaro'
 - src: https://imgcdn.bokun.tools/7165f7d4-1ed7-4c39-a0f9-b174fc8f0078.jpg

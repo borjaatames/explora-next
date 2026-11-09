@@ -62,9 +62,23 @@ keywords:
 - tuk tuk madrid
 - tour madrid in tuk tuk
 - tuk tuk bernabeu
-imagen: https://imgcdn.bokun.tools/814ffd3a-963a-4665-87d2-65aeeea0ecbb.jpeg
-imagenAlt: Passeggeri su un tuk-tuk elettrico turchese a Madrid
+imagen: /images/actividades/madrid/tuk-tuk-vive-madriz/tuk-tuk-madrid-clientes-centro.webp
+imagenAlt: "Clienti nel tuk tuk elettrico nel centro di Madrid"
 galeria:
+- src: /images/actividades/madrid/tuk-tuk-vive-madriz/tuk-tuk-madrid-plaza-de-la-villa.webp
+  alt: "Il tuk tuk in Plaza de la Villa a Madrid"
+- src: /images/actividades/madrid/tuk-tuk-vive-madriz/tuk-tuk-madrid-plaza-villa-grupo.webp
+  alt: "Gruppo in tuk tuk in Plaza de la Villa"
+- src: /images/actividades/madrid/tuk-tuk-vive-madriz/tuk-tuk-madrid-san-jeronimo-real.webp
+  alt: "Tuk tuk davanti alla chiesa di San Jerónimo el Real"
+- src: /images/actividades/madrid/tuk-tuk-vive-madriz/tuk-tuk-madrid-clientes-plaza.webp
+  alt: "Clienti in tuk tuk con un palazzo madrileno sullo sfondo"
+- src: /images/actividades/madrid/tuk-tuk-vive-madriz/tuk-tuk-madrid-arco-clientes.webp
+  alt: "Clienti nel tuk tuk sotto un arco del centro di Madrid"
+- src: /images/actividades/madrid/tuk-tuk-vive-madriz/tuk-tuk-madrid-clientes-calle-centro.webp
+  alt: "Coppia accanto al tuk tuk davanti a una chiesa del centro di Madrid"
+- src: https://imgcdn.bokun.tools/814ffd3a-963a-4665-87d2-65aeeea0ecbb.jpeg
+  alt: Passeggeri su un tuk-tuk elettrico turchese a Madrid
 - src: https://imgcdn.bokun.tools/a3340549-7e77-42d5-8d15-aa8197c9c189.png
   alt: Puerta de Alcalá
 - src: https://imgcdn.bokun.tools/db5652f3-1118-4596-a494-3e0e6bfeba2d.png
@@ -89,7 +103,7 @@ publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha_actualizacion: '2026-11-09'
 privada: true
 precioPorGrupo: true
 ---

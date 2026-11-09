@@ -74,9 +74,25 @@ keywords:
 - privates tuk tuk malaga
 - malaga tuk tuk tour gibralfaro
 - malaga tuk tuk kreuzfahrt
-imagen: https://imgcdn.bokun.tools/0a38544c-033d-4aaa-8031-0224a4e84dce.jpg
-imagenAlt: Elektro-Tuk-Tuk mit Fahrgästen am Leuchtturm La Farola in Málaga
+imagen: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-clientes-paseo-puerto.webp
+imagenAlt: "Gäste im Elektro-Tuk-Tuk in einer Straße von Málaga am Meer"
 galeria:
+- src: /images/actividades/malaga/tuk-tuk-malaga/malaga-vistas-ciudad-desde-gibralfaro.webp
+  alt: "Blick auf Málaga, die Stierkampfarena und den Hafen vom Gibralfaro"
+- src: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-grupo-mirador-gibralfaro.webp
+  alt: "Gruppe am Aussichtspunkt Gibralfaro mit dem Hafen von Málaga"
+- src: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-mirador-mar.webp
+  alt: "Tuk-Tuk mit Gästen an einem Aussichtspunkt über dem Meer"
+- src: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-clientes-gibralfaro.webp
+  alt: "Gäste am Tuk-Tuk auf dem Weg zum Gibralfaro"
+- src: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-pinares-gibralfaro.webp
+  alt: "Tuk-Tuk zwischen den Pinien des Gibralfaro"
+- src: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-bailaores-flamenco.webp
+  alt: "Paar in Flamenco-Tracht neben dem Tuk-Tuk in Málaga"
+- src: /images/actividades/malaga/tuk-tuk-malaga/malaga-ciudad-noche-vistas.webp
+  alt: "Málaga in der Abenddämmerung von oben"
+- src: https://imgcdn.bokun.tools/0a38544c-033d-4aaa-8031-0224a4e84dce.jpg
+  alt: Elektro-Tuk-Tuk mit Fahrgästen am Leuchtturm La Farola in Málaga
 - src: https://imgcdn.bokun.tools/c3636e51-aa27-49c8-b658-e36e15b37fa1.jpg
   alt: Málaga und der Hafen vom Gibralfaro aus
 - src: https://imgcdn.bokun.tools/7165f7d4-1ed7-4c39-a0f9-b174fc8f0078.jpg

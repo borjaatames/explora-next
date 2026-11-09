@@ -66,6 +66,10 @@ keywords:
 imagen: https://imgcdn.bokun.tools/88cd0b10-13a2-4996-bf46-d857481853a5.jpeg
 imagenAlt: 'Groupe de voyageurs à côté d''un tuk-tuk électrique à Madrid'
 galeria:
+- src: /images/actividades/madrid/tuk-tuk-vive-madriz/tuk-tuk-madrid-bernabeu-familia.webp
+  alt: "Famille près du tuk-tuk devant le stade Santiago Bernabéu"
+- src: /images/actividades/madrid/tuk-tuk-vive-madriz/tuk-tuk-madrid-clientes-centro.webp
+  alt: "Clients dans le tuk-tuk électrique au centre de Madrid"
 - src: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
   alt: 'Le stade Santiago Bernabéu rénové'
 - src: https://imgcdn.bokun.tools/e4a98eac-d28c-4d57-a190-8ba7bacd289d.png

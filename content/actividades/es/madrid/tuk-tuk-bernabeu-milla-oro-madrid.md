@@ -65,6 +65,10 @@ keywords:
 imagen: https://imgcdn.bokun.tools/88cd0b10-13a2-4996-bf46-d857481853a5.jpeg
 imagenAlt: 'Grupo de viajeras junto a un tuk-tuk eléctrico en Madrid'
 galeria:
+- src: /images/actividades/madrid/tuk-tuk-vive-madriz/tuk-tuk-madrid-bernabeu-familia.webp
+  alt: "Familia junto al tuk tuk frente al estadio Santiago Bernabéu"
+- src: /images/actividades/madrid/tuk-tuk-vive-madriz/tuk-tuk-madrid-clientes-centro.webp
+  alt: "Clientes en el tuk tuk eléctrico por el centro de Madrid"
 - src: /images/actividades/madrid/bernabeu/bernabeu-stadium-exterior-madrid-hero.webp
   alt: 'Estadio Santiago Bernabéu renovado'
 - src: https://imgcdn.bokun.tools/e4a98eac-d28c-4d57-a190-8ba7bacd289d.png
