@@ -90,6 +90,7 @@ export type Diccionario = {
       parques: string;
       nocturno: string;
       talleres: string;
+      traslados: string;
       /** Botón del filtro de privados (no es una categoría). */
       privados: string;
     };

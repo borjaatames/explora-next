@@ -45,6 +45,7 @@ const LABEL_CATEGORIA: Record<CategoriaActividad, string> = {
   parques: "Theme parks & family",
   nocturno: "Nightlife",
   talleres: "Workshops & experiences",
+  traslados: "Airport transfers",
 };
 
 /**

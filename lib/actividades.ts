@@ -43,6 +43,7 @@ export const CATEGORIAS_ACTIVIDAD = [
   "parques",
   "nocturno",
   "talleres",
+  "traslados",
 ] as const;
 
 export type CategoriaActividad = (typeof CATEGORIAS_ACTIVIDAD)[number];
@@ -472,6 +473,7 @@ export function agruparActividadesPorCategoria(
     parques: [],
     nocturno: [],
     talleres: [],
+    traslados: [],
   } as Record<CategoriaActividad, ActividadListItem[]>;
 
   for (const actividad of actividades) {
@@ -704,6 +706,7 @@ export const CATEGORIA_A_URL: Record<CategoriaActividad, string> = {
   parques: "parques-tematicos",
   nocturno: "vida-nocturna",
   talleres: "talleres-y-experiencias",
+  traslados: "traslados-aeropuerto",
 };
 
 const URL_A_CATEGORIA: Record<string, CategoriaActividad> = Object.fromEntries(

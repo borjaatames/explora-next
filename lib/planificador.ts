@@ -117,7 +117,8 @@ export function recomendar(
   maximo = 9
 ): ActividadPlanificador[] {
   const candidatas = actividades
-    .filter((a) => apta(a, r))
+    // Los traslados de aeropuerto no son planes: nunca se proponen.
+    .filter((a) => a.categoria !== "traslados" && apta(a, r))
     .map((a) => ({ a, p: puntuar(a, r) }))
     .sort((x, y) => y.p - x.p)
     .map((x) => x.a);
