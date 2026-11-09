@@ -10,8 +10,10 @@ duracion: 1 hora
 duracionMinutos: 60
 precioDesde: 28
 moneda: EUR
-idiomas: []
+idiomas:
+- es
 proveedor: bokun
+avisoReserva: 'La audioguía y la representación son en español.'
 urlReserva: ''
 cancelacionGratuita: false
 highlights:
@@ -66,7 +68,7 @@ keywords:
 - capital secreta madrid
 imagen: https://imgcdn.bokun.tools/db23a03d-29d9-44f6-98b3-a45ba6343f7c.jpeg
 imagenAlt: Participantes con capas y velas en un paseo nocturno por Madrid
-publicada: false
+publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
@@ -81,7 +83,7 @@ galeria:
 - src: https://imgcdn.bokun.tools/4c316d00-cc7f-4602-8eff-5ba8030a1b97.jpeg
   alt: Antorcha encendida sobre el empedrado
 bokunProductId: 1206489
-fecha_actualizacion: '2026-10-24'
+fecha_actualizacion: '2026-11-09'
 ---
 
 ## Cómo es el paseo
