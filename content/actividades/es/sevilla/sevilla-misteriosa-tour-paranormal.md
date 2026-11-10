@@ -6,10 +6,6 @@ descripcion: Paseo guiado de 1 h 30 al atardecer por el centro histórico de Sev
 slugs:
   es: sevilla-misteriosa-tour-paranormal
   en: seville-mysteries-paranormal-tour
-  de: sevilla-geheimnisvoll-geister-fuehrung
-  fr: seville-mysterieuse-visite-fantomes
-  it: siviglia-misteriosa-tour-fantasmi
-  pt: sevilha-misteriosa-tour-fantasmas
 duracion: 1 hora y 30 minutos
 duracionMinutos: 90
 precioDesde: 14.9

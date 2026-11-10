@@ -6,10 +6,6 @@ descripcion: 'Paseo guiado de unas 2 h 30 por el casco antiguo de Sevilla en gru
 slugs:
   es: sevilla-tour-a-pie-grupo-reducido
   en: seville-walking-tour-small-group
-  de: sevilla-stadtrundgang-kleingruppe
-  fr: seville-visite-a-pied-petit-groupe
-  it: siviglia-tour-a-piedi-piccolo-gruppo
-  pt: sevilha-tour-a-pe-grupo-reduzido
 duracion: 2 horas y 30 minutos
 duracionMinutos: 150
 precioDesde: 19.9
