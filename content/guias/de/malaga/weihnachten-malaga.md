@@ -103,7 +103,7 @@ Wer keine Bars auswählen will: Die **Wein- und Tapas-Tour** führt in dreieinha
 **Sehenswürdigkeiten an Feiertagen:**
 
 - **Museo Picasso:** am 24. und 31. Dezember und 5. Januar 10:00 bis 15:00; **am 25. Dezember sowie 1. und 6. Januar geschlossen**. Sonst von November bis Februar 10:00 bis 18:00; 13 €, sonntags in den letzten zwei Stunden gratis.
-- **Alcazaba:** November bis März 9:00 bis 18:00 (letzter Einlass 17:00); 7 € oder 10 € mit der Burg Gibralfaro, **sonntags ab 14:00 gratis**. Feiertage stehen nicht auf der Website: vorher prüfen.
+- **Alcazaba:** November bis März 9:00 bis 18:00 (letzter Einlass 17:00); 7 € oder 10 € mit der Burg Gibralfaro, **sonntags ab 14:00 gratis**. **Am 24., 25. und 31. Dezember sowie am 1. Januar sind Alcazaba und Gibralfaro geschlossen** (laut offizieller Website, geprüft am 10. November 2026).
 
 ## Der Strand im Winter und ein Tagesausflug
 

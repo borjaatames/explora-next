@@ -98,6 +98,21 @@ Le plus valencien, ce sont les **pyromusicaux du samedi à 18h30** : trois minut
 - **Arrivée des Rois (5 janvier) :** en 2026, ils ont débarqué à **16h30** sur la Plaza de la Sal, dans la Marina Norte.
 - **Défilé :** à **17h30** depuis le Puente de las Flores, par Porta de la Mar, General Tovar, la calle de la Paz, la Plaza de la Reina et San Vicente, jusqu'à la Plaza del Ayuntamiento. La calle de la Paz est étroite : pour bien voir, placez-vous vers **Porta de la Mar**.
 
+## Ce qui ouvre et ce qui ferme à Valence les 24, 25 et 31 décembre et le 1er janvier
+
+| Lieu | 24 et 31 décembre | 25 décembre | 1er janvier |
+| --- | --- | --- | --- |
+| Oceanogràfic | 10 h–16 h | 12 h–18 h | Ouvert |
+| Museu de les Ciències | Ouvert | Fermé | Ouvert |
+| Lonja de la Seda | Horaires spéciaux possibles | Fermée | Fermée |
+| Expojove | Le 31 seulement : 10 h–14 h | Pas encore commencé | 16 h–21 h |
+
+- **L'Oceanogràfic ouvre tous les jours de l'année**, y compris le 25 : c'est le plan le plus sûr pour un jour férié avec des enfants. Achetez le billet en ligne, car ces jours-là il y a foule.
+- **La Lonja de la Seda** ferme aussi le 6 janvier ; les autres jours fériés, elle ouvre de 10 h à 14 h.
+- **Commerces et restaurants :** les 24 et 31, ils ferment en milieu d'après-midi, et les 25 et 1er, peu sont ouverts. Réservez le dîner à l'avance.
+
+*Horaires vérifiés sur les sites officiels le 10 novembre 2026. Ceux de la Ciutat de les Arts i les Ciències peuvent changer : confirmez-les sur cac.es avant d'y aller.*
+
 ## Que faire à Valence à Noël : une soirée et nos conseils
 
 Une soirée de décembre bien remplie :

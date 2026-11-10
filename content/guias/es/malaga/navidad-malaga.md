@@ -104,7 +104,7 @@ Para no tener que elegir bar, el **tour de vino y tapas** recorre cuatro locales
 
 - **Museo Picasso:** el 24 y el 31 de diciembre y el 5 de enero, de 10:00 a 15:00; **cierra el 25 de diciembre y el 1 y el 6 de enero**. El resto de noviembre a febrero, de 10:00 a 18:00; 13 €, gratis los domingos en las dos últimas horas.
 - **Alcazaba y Castillo de Gibralfaro:** cierran el 24, el 25 y el 31 de diciembre y el 1 de enero. El resto del invierno abren de 9:00 a 18:00 (comprobado en su web oficial el 10 de noviembre de 2026).
-- **Alcazaba:** de noviembre a marzo, de 9:00 a 18:00 (última entrada a las 17:00); 7 €, o 10 € con el castillo de Gibralfaro, y **gratis los domingos desde las 14:00**. Los festivos no aparecen en su web: confirma antes de subir.
+- **Alcazaba:** de noviembre a marzo, de 9:00 a 18:00 (última entrada a las 17:00); 7 €, o 10 € con el castillo de Gibralfaro, y **gratis los domingos desde las 14:00**.
 
 ## La playa en invierno y un día de excursión
 

@@ -97,6 +97,21 @@ Am valencianischsten sind die **Piromusicales samstags um 18:30**: drei Minuten 
 - **Ankunft der Könige (5. Januar):** 2026 gingen sie um **16:30** an der Plaza de la Sal in der Marina Norte an Land.
 - **Umzug:** um **17:30** ab der Puente de las Flores über Porta de la Mar, General Tovar, Calle de la Paz, Plaza de la Reina und San Vicente bis zur Plaza del Ayuntamiento. Die Calle de la Paz ist eng: Bessere Sicht hast du an der **Porta de la Mar**.
 
+## Was hat in Valencia am 24., 25. und 31. Dezember und am 1. Januar geöffnet?
+
+| Ort | 24. und 31. Dezember | 25. Dezember | 1. Januar |
+| --- | --- | --- | --- |
+| Oceanogràfic | 10:00–16:00 | 12:00–18:00 | Geöffnet |
+| Museu de les Ciències | Geöffnet | Geschlossen | Geöffnet |
+| Lonja de la Seda | Eventuell Sonderöffnungszeiten | Geschlossen | Geschlossen |
+| Expojove | Nur am 31.: 10:00–14:00 | Noch nicht begonnen | 16:00–21:00 |
+
+- **Das Oceanogràfic hat an allen Tagen des Jahres geöffnet**, auch am 25.: der sicherste Plan für einen Feiertag mit Kindern. Kaufen Sie das Ticket online, denn an diesen Tagen ist es voll.
+- **Die Lonja de la Seda** schließt auch am 6. Januar; an den übrigen Feiertagen öffnet sie von 10:00 bis 14:00.
+- **Geschäfte und Restaurants:** Am 24. und 31. schließen sie am Nachmittag, am 25. und am 1. haben nur wenige geöffnet. Reservieren Sie das Abendessen rechtzeitig.
+
+*Öffnungszeiten am 10. November 2026 auf den offiziellen Websites geprüft. Die der Ciutat de les Arts i les Ciències können sich ändern: Bestätigen Sie sie vor dem Besuch auf cac.es.*
+
 ## Was tun in Valencia an Weihnachten: ein Abend und Tipps
 
 Ein gut genutzter Dezemberabend:

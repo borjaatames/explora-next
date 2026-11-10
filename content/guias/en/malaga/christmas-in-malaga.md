@@ -104,7 +104,7 @@ To avoid choosing bars, the **wine and tapas tour** visits four places with 8 ta
 
 - **Picasso Museum:** on 24 and 31 December and 5 January, 10:00 to 15:00; **closed on 25 December and 1 and 6 January**. Otherwise from November to February, 10:00 to 18:00; €13, free on Sundays for the last two hours.
 - **Alcazaba and Gibralfaro Castle:** closed on 24, 25 and 31 December and 1 January. The rest of the winter they open 9:00 to 18:00 (checked on the official website on 10 November 2026).
-- **Alcazaba:** November to March, 9:00 to 18:00 (last entry 17:00); €7, or €10 with Gibralfaro castle, and **free on Sundays from 14:00**. Holidays aren't listed on its website: check before walking up.
+- **Alcazaba:** November to March, 9:00 to 18:00 (last entry 17:00); €7, or €10 with Gibralfaro castle, and **free on Sundays from 14:00**.
 
 ## The beach in winter and a day trip
 

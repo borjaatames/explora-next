@@ -103,7 +103,7 @@ Per non dover scegliere i locali, il **tour vino e tapas** gira quattro locali c
 **Monumenti nei festivi:**
 
 - **Museo Picasso:** il 24 e 31 dicembre e il 5 gennaio, dalle 10:00 alle 15:00; **chiuso il 25 dicembre e l'1 e il 6 gennaio**. Per il resto, da novembre a febbraio, dalle 10:00 alle 18:00; 13 €, gratis la domenica nelle ultime due ore.
-- **Alcazaba:** da novembre a marzo, dalle 9:00 alle 18:00 (ultimo ingresso alle 17:00); 7 €, o 10 € con il castello di Gibralfaro, e **gratis la domenica dalle 14:00**. I festivi non compaiono sul suo sito: verifica prima di salire.
+- **Alcazaba:** da novembre a marzo, dalle 9:00 alle 18:00 (ultimo ingresso alle 17:00); 7 €, o 10 € con il castello di Gibralfaro, e **gratis la domenica dalle 14:00**. **Alcazaba e Gibralfaro chiudono il 24, 25 e 31 dicembre e il 1° gennaio** (sito ufficiale, verificato il 10 novembre 2026).
 
 ## La spiaggia in inverno e una gita
 

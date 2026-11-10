@@ -98,6 +98,21 @@ O mais valenciano são os **piromusicais de sábado às 18:30**: três minutos d
 - **Chegada dos Reis (5 de janeiro):** em 2026 desembarcaram às **16:30** na Plaza de la Sal da Marina Norte.
 - **Cavalgada:** às **17:30** a partir da Puente de las Flores, por Porta de la Mar, General Tovar, calle de la Paz, Plaza de la Reina e San Vicente, até à Plaza del Ayuntamiento. A calle de la Paz é estreita: para ver bem, prefira a zona de **Porta de la Mar**.
 
+## O que abre e o que fecha em Valência a 24, 25 e 31 de dezembro e a 1 de janeiro
+
+| Local | 24 e 31 de dezembro | 25 de dezembro | 1 de janeiro |
+| --- | --- | --- | --- |
+| Oceanogràfic | 10:00–16:00 | 12:00–18:00 | Aberto |
+| Museu de les Ciències | Aberto | Fechado | Aberto |
+| Lonja de la Seda | Pode ter horário especial | Fechada | Fechada |
+| Expojove | Só a 31: 10:00–14:00 | Ainda não começou | 16:00–21:00 |
+
+- **O Oceanogràfic abre todos os dias do ano**, também a 25: é o plano mais seguro para um feriado com crianças. Compre o bilhete online, porque nesses dias enche.
+- **A Lonja de la Seda** também fecha a 6 de janeiro; nos restantes feriados abre das 10:00 às 14:00.
+- **Lojas e restaurantes:** a 24 e a 31 fecham a meio da tarde, e a 25 e a 1 abrem poucos. Reserve o jantar com tempo.
+
+*Horários confirmados nos sites oficiais a 10 de novembro de 2026. Os da Ciutat de les Arts i les Ciències podem mudar: confirme-os em cac.es antes de ir.*
+
 ## O que fazer em Valência no Natal: uma tarde e conselhos
 
 Uma tarde de dezembro bem aproveitada:

@@ -103,7 +103,7 @@ Pour ne pas avoir à choisir les bars, la **visite vins et tapas** parcourt quat
 **Monuments les jours fériés :**
 
 - **Musée Picasso :** les 24 et 31 décembre et le 5 janvier, de 10 h à 15 h ; **fermé le 25 décembre et les 1er et 6 janvier**. Le reste de novembre à février, de 10 h à 18 h ; 13 €, gratuit le dimanche les deux dernières heures.
-- **Alcazaba :** de novembre à mars, de 9 h à 18 h (dernière entrée 17 h) ; 7 €, ou 10 € avec le château de Gibralfaro, et **gratuit le dimanche dès 14 h**. Les jours fériés ne figurent pas sur son site : vérifiez avant de monter.
+- **Alcazaba :** de novembre à mars, de 9 h à 18 h (dernière entrée 17 h) ; 7 €, ou 10 € avec le château de Gibralfaro, et **gratuit le dimanche dès 14 h**. **L'Alcazaba et Gibralfaro ferment les 24, 25 et 31 décembre et le 1er janvier** (site officiel, vérifié le 10 novembre 2026).
 
 ## La plage en hiver et une excursion
 
