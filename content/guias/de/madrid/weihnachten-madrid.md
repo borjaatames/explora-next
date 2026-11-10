@@ -4,7 +4,7 @@ descripcion: "Weihnachten in Madrid 2026: wann die Lichter angehen, Plaza Mayor,
 categoria: "madrid"
 slug: "weihnachten-madrid"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -39,6 +39,8 @@ faq:
   respuesta: 'Die Glockenschläge sind gratis, aber der Zugang schließt, sobald der Platz voll ist: vor 21:00 da sein und die Trauben geschält mitbringen. Weniger Andrang gibt es am 30. Dezember bei den „preúvas“, der Generalprobe, mit Platz für etwa 15.000 Menschen.'
 - pregunta: Welche Route hat der Dreikönigsumzug in Madrid?
   respuesta: Er startet am 5. Januar um 18:00 an der Plaza de San Juan de la Cruz, zieht über die Castellana und Recoletos und endet gegen 21:00 an der Cibeles. Um etwas zu sehen, such dir einen Platz an der Castellana.
+- pregunta: "Was hat in Madrid am 25. Dezember und am 1. Januar geöffnet?"
+  respuesta: "Kaum ein Museum: Prado, Reina Sofía, Thyssen und Königspalast sind an beiden Tagen geschlossen. Es bleiben die Straßen, die Lichter und die Krippe an der Puerta del Sol. Am 24. und 31. öffnet der Prado von 10:00 bis 14:00, das Thyssen bis 15:00, und der Königspalast schließt um 15:00; das Reina Sofía bleibt zu."
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour
@@ -100,7 +102,25 @@ In diesem Jahr gibt es mehr als **250 beleuchtete Orte** und 14 Millionen LEDs, 
 - **Naviluz** kostet für Kinder von 7 bis 11 Jahren die Hälfte; unter 7 fahren gratis, brauchen aber ein Ticket.
 - Die **Eisbahn** an der Plaza de España funktioniert mit Zeitfenstern: Ticket vorher auf ihrer Website kaufen.
 
-**Museen an Feiertagen:** Der **Prado** ist am 25. Dezember und am 1. Januar geschlossen und öffnet am 24. und 31. Dezember sowie am 6. Januar nur von 10:00 bis 14:00. In den letzten zwei Stunden jedes Tages ist die Sammlung gratis, mit begrenzter Kapazität. Der Dezember ist ein guter Monat für den **Königspalast** und die Museen, mit kürzeren Schlangen als im Frühling. Mit einem freien Tag sind **Toledo und Segovia** der klassische Ausflug, im Winter ohne Hitze.
+**Museen:** In den letzten zwei Stunden jedes Tages ist die Sammlung des Prado gratis, mit begrenzter Kapazität. Der Dezember ist ein guter Monat für den **Königspalast** und die Museen, mit kürzeren Schlangen als im Frühling. Mit einem freien Tag sind **Toledo und Segovia** der klassische Ausflug, im Winter ohne Hitze.
+
+## Was hat in Madrid am 24., 25. und 31. Dezember und am 1. Januar geöffnet?
+
+| Ort | 24. und 31. Dezember | 25. Dezember | 1. Januar |
+| --- | --- | --- | --- |
+| Prado | 10:00–14:00 | Geschlossen | Geschlossen |
+| Museo Reina Sofía | Geschlossen | Geschlossen | Geschlossen |
+| Museo Thyssen | 10:00–15:00 | Geschlossen | Geschlossen |
+| Königspalast | Schließt um 15:00 | Geschlossen | Geschlossen |
+| Metro | 24.: bis 22:00 · 31.: bis 1:30 | Öffnet um 8:00 | Öffnet um 7:00 |
+| EMT-Busse | Letzter Tagesbus zwischen 19:30 und 21:45, danach Nachtbusse (búhos) | Feiertagsfahrplan | Feiertagsfahrplan |
+
+- **Am 6. Januar** öffnet der Prado von 10:00 bis 14:00; Reina Sofía und Königspalast sind geschlossen.
+- **Metrostation Sol, 30. und 31. Dezember:** ab 18:00 geschlossen wegen der Generalprobe und der Glockenschläge. Steig in Ópera, Callao oder Sevilla aus und geh zu Fuß.
+- **Geschäfte und Restaurants:** Am 24. und 31. schließt fast alles am Nachmittag, am 25. und 1. haben nur wenige Läden offen. Reserviere dein Abendessen.
+- **Der Königspalast** kann zusätzlich wegen offizieller Termine schließen: Schau am Vortag auf der Website von Patrimonio Nacional nach.
+
+*Öffnungszeiten der Museen und Sehenswürdigkeiten am 10. November 2026 auf den offiziellen Websites geprüft. Die Zeiten von Metro und Bus sind die vom letzten Weihnachten; die neuen erscheinen Mitte Dezember.*
 
 ## Typische Fehler
 

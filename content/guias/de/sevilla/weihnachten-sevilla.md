@@ -4,7 +4,7 @@ descripcion: "Weihnachten in Sevilla 2026: Lichtshow an der Plaza de San Francis
 categoria: "sevilla"
 slug: "weihnachten-sevilla"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -40,6 +40,8 @@ faq:
   respuesta: Ihn organisiert der Ateneo am 5. Januar. 2026 startete er um 16:15 Uhr an der ehemaligen Tabakfabrik, zog durch das Zentrum (Campana, San Pablo, Reyes Católicos), überquerte den Fluss nach Triana und kehrte gegen 22:00 Uhr zurück, mit 33 Wagen. Am Vorabend, dem 4. Januar, zieht der Königliche Herold durch die Stadt.
 - pregunta: Wo kauft man in Sevilla Klostersüßigkeiten?
   respuesta: An den Drehfenstern (Tornos) der Klausurklöster, etwa in San Leandro, berühmt für seine Yemas, und auf der Ausstellung mit Verkauf von Klostersüßigkeiten im Real Alcázar rund um den Feiertag der Unbefleckten Empfängnis (2023 vom 5. bis 8. Dezember, mit 20 Klöstern). Die Termine für 2026 sind noch nicht veröffentlicht.
+- pregunta: "Was hat in Sevilla am 25. Dezember und am 1. Januar geöffnet?"
+  respuesta: "Die großen Sehenswürdigkeiten nicht: Real Alcázar, Kathedrale und Museo de Bellas Artes sind an beiden Tagen geschlossen, ebenso am 6. Januar. Spazieren kannst du auf der Plaza de España, im Parque de María Luisa und durch die beleuchtete Altstadt. Am 24. und 31. kann der Alcázar früher schließen, und die Kathedrale hat Sonderzeiten."
 actividades:
   - tuk-tuk-privado-sevilla
   - sevilla-misteriosa-tour-privado-atardecer
@@ -98,17 +100,27 @@ Eine **Zambomba** ist ein Fest mit Flamenco-Weihnachtsliedern, Tamburinen, Anisf
 - **Navigalia** erzählt eine Weihnachtsgeschichte, projiziert auf den Guadalquivir, am Muelle de la Sal, für 2 €.
 - **Naturaleza Encendida**, die Lichtshow in den Gärten des Alcázar, läuft bis März.
 
-## Monumente an Feiertagen, Silvester in Sevilla und Dreikönigsumzug
+## Was hat in Sevilla am 24., 25. und 31. Dezember und am 1. Januar geöffnet?
 
-| Ort | 24. und 31. Dez. | 25. Dez. | 1. Jan. | 6. Jan. |
-| --- | --- | --- | --- | --- |
-| Real Alcázar | Verkürzte Zeiten | Geschlossen | Geschlossen | Geschlossen |
-| Kathedrale und Giralda | Je nach Gottesdienst | Je nach Gottesdienst | Je nach Gottesdienst | Je nach Gottesdienst |
+| Ort | 24. und 31. Dezember | 25. Dezember | 1. Januar |
+| --- | --- | --- | --- |
+| Real Alcázar | Kann früher schließen | Geschlossen | Geschlossen |
+| Kathedrale und Giralda | Sonderzeiten | Geschlossen | Geschlossen |
+| Museo de Bellas Artes | Geschlossen | Geschlossen | Geschlossen |
+| Plaza de España und Parque de María Luisa | Geöffnet | Geöffnet | Geöffnet |
+| Metro | 31.: die ganze Nacht | Feiertagsfahrplan | Feiertagsfahrplan |
 
-- **Real Alcázar:** Oktober bis März 9:30-17:00 Uhr. Da die Dezember-Tickets sehr gefragt sind, sichert dir eine Privatführung mit offiziellem Guide Tag und Uhrzeit.
-- **Kathedrale:** geöffnet montags bis samstags ab 10:45 Uhr, sonntags ab 14:30 Uhr; 13 € online. An kirchlichen Feiertagen kann sich die Besichtigung ändern: Prüf vorher den Kalender auf catedraldesevilla.es.
+- **Am 6. Januar** sind Alcázar, Kathedrale und Museo de Bellas Artes geschlossen.
+- **Real Alcázar:** Von Oktober bis März 9:30 bis 17:00. Da die Tickets im Dezember sehr gefragt sind, sichert dir eine Privatführung mit offiziellem Guide Tag und Uhrzeit.
+- **Kathedrale:** Montag bis Samstag 10:45 bis 18:00, sonntags 14:30 bis 19:00; 13 € online, 14 € an der Kasse. Am 24. und 31. gelten wegen der Gottesdienste Sonderzeiten: Schau vorher in den Kalender auf catedraldesevilla.es.
+- **Weihnachtsmärkte:** Im letzten Jahr war der Markt in den Jardines de Cristina am 24., 25., 31. und 1. geschlossen; der Kunsthandwerksmarkt unter den Setas schloss am 24. und 31. und öffnete am 25. und 1. von 11:00 bis 16:00.
+- **Läden und Bars:** Am 24. und 31. schließen sie am Nachmittag, am 25. und 1. haben nur wenige offen. Reserviere dein Abendessen.
 
 [actividad: real-alcazar-sevilla-visita-privada-guia-oficial]
+
+*Öffnungszeiten am 10. November 2026 auf den offiziellen Websites geprüft. Metro und Märkte: Zeiten vom letzten Weihnachten, bis die neuen erscheinen.*
+
+## Silvester in Sevilla und Dreikönigsumzug
 
 - **Silvester:** Die Glockenschläge gibt es auf der **Plaza Nueva** vor dem Rathaus.
 - **Königlicher Herold:** Am 4. Januar zieht er durch die Stadt und kündigt die Heiligen Drei Könige an.
@@ -117,7 +129,7 @@ Eine **Zambomba** ist ein Fest mit Flamenco-Weihnachtsliedern, Tamburinen, Anisf
 ## Sevilla im Dezember: Tipps
 
 - **Geh nicht samstags um 20:00 Uhr zur Lichtshow:** Die Plaza de San Francisco ist dann bis zur Sierpes voll. Die Show um 18:30 Uhr oder eine unter der Woche sieht genauso gut aus.
-- **Plan den Alcázar nicht für den 25. oder 6.:** Er ist geschlossen. Am 24. und 31. schließt er früher.
+- **Plan den Alcázar nicht für den 25. oder 6.:** Er ist geschlossen. Am 24. und 31. kann er früher schließen.
 - **Reservier das Abendessen am 24. und 31.:** Viele Bars schließen oder bieten nur ein festes Menü.
 - **Fahr am 5. Januar nicht mit dem Auto:** Der Umzug sperrt stundenlang halb Zentrum und Triana.
 - **Wenn du einen freien Tag hast,** lässt sich Córdoba im Winter ohne die Hitze besuchen, die es von April bis Oktober anstrengend macht; der Tagesausflug mit der Mezquita kostet ab 109 €.

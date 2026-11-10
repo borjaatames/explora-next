@@ -4,7 +4,7 @@ descripcion: "Noël à Séville 2026 : mapping de la Plaza de San Francisco (18 
 categoria: "sevilla"
 slug: "noel-a-seville"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -41,6 +41,8 @@ faq:
   respuesta: Il est organisé par l'Ateneo le 5 janvier. En 2026, il est parti à 16h15 de l'ancienne Manufacture de tabac, a traversé le centre (Campana, San Pablo, Reyes Católicos), est passé à Triana et est revenu vers 22h, avec 33 chars. La veille, le 4 janvier, le Héraut royal parcourt la ville.
 - pregunta: Où acheter des douceurs de couvent à Séville ?
   respuesta: Aux tours (tornos) des couvents cloîtrés, comme San Leandro, célèbre pour ses yemas, et à l'exposition-vente de douceurs de couvent organisée au Real Alcázar autour du pont de l'Immaculée Conception (en 2023, du 5 au 8 décembre, avec 20 couvents). Les dates de 2026 ne sont pas encore publiées.
+- pregunta: "Qu'est-ce qui est ouvert à Séville le 25 décembre et le 1er janvier ?"
+  respuesta: "Pas les grands monuments : le Real Alcázar, la cathédrale et le musée des Beaux-Arts ferment ces deux jours, et aussi le 6 janvier. Vous pouvez flâner sur la Plaza de España, dans le parc María Luisa et dans le centre illuminé. Les 24 et 31, l'Alcázar peut fermer plus tôt et la cathédrale a des horaires spéciaux."
 actividades:
   - tuk-tuk-privado-sevilla
   - sevilla-misteriosa-tour-privado-atardecer
@@ -99,17 +101,27 @@ La **zambomba** est une fête de chants de Noël flamencos avec tambourins, bout
 - **Navigalia** raconte une histoire de Noël projetée sur le Guadalquivir, au Muelle de la Sal, pour 2 €.
 - **Naturaleza Encendida**, le spectacle de lumière des jardins de l'Alcázar, se poursuit jusqu'en mars.
 
-## Monuments les jours fériés, Saint-Sylvestre et défilé des Rois mages à Séville
+## Ce qui est ouvert et fermé à Séville les 24, 25 et 31 décembre et le 1er janvier
 
-| Site | 24 et 31 déc. | 25 déc. | 1er janv. | 6 janv. |
-| --- | --- | --- | --- | --- |
-| Real Alcázar | Horaires réduits | Fermé | Fermé | Fermé |
-| Cathédrale et Giralda | Selon les offices | Selon les offices | Selon les offices | Selon les offices |
+| Lieu | 24 et 31 décembre | 25 décembre | 1er janvier |
+| --- | --- | --- | --- |
+| Real Alcázar | Peut fermer plus tôt | Fermé | Fermé |
+| Cathédrale et Giralda | Horaires spéciaux | Fermée | Fermée |
+| Musée des Beaux-Arts | Fermé | Fermé | Fermé |
+| Plaza de España et parc María Luisa | Ouverts | Ouverts | Ouverts |
+| Métro | 31 : toute la nuit | Horaires des jours fériés | Horaires des jours fériés |
 
-- **Real Alcázar :** d'octobre à mars, de 9h30 à 17h. Les billets de décembre étant très demandés, une visite privée avec guide officiel vous garantit le jour et l'heure.
-- **Cathédrale :** ouverte du lundi au samedi à partir de 10h45 et le dimanche à partir de 14h30 ; 13 € en ligne. Lors des fêtes liturgiques, la visite culturelle peut changer : consultez l'agenda de catedraldesevilla.es avant d'y aller.
+- **Le 6 janvier**, l'Alcázar, la cathédrale et le musée des Beaux-Arts sont fermés.
+- **Real Alcázar :** d'octobre à mars, de 9 h 30 à 17 h. Les billets de décembre partent vite : une visite privée avec guide officiel vous garantit le jour et l'heure.
+- **Cathédrale :** du lundi au samedi de 10 h 45 à 18 h et le dimanche de 14 h 30 à 19 h ; 13 € en ligne et 14 € au guichet. Les 24 et 31, horaires spéciaux à cause des offices : consultez l'agenda de catedraldesevilla.es avant d'y aller.
+- **Marchés de Noël :** l'an dernier, celui des Jardines de Cristina a fermé les 24, 25, 31 et 1er, et la foire artisanale sous les Setas a fermé les 24 et 31 et ouvert de 11 h à 16 h le 25 et le 1er.
+- **Boutiques et bars :** les 24 et 31 ils ferment en milieu d'après-midi, et peu ouvrent le 25 et le 1er. Réservez votre dîner.
 
 [actividad: real-alcazar-sevilla-visita-privada-guia-oficial]
+
+*Horaires vérifiés sur les sites officiels le 10 novembre 2026. Métro et marchés : horaires du Noël dernier, en attendant ceux de 2026.*
+
+## Saint-Sylvestre et défilé des Rois mages à Séville
 
 - **Douze coups de minuit :** sur la **Plaza Nueva**, face à l'hôtel de ville.
 - **Héraut royal :** le 4 janvier, il parcourt la ville pour annoncer les Rois mages.
@@ -118,7 +130,7 @@ La **zambomba** est une fête de chants de Noël flamencos avec tambourins, bout
 ## Que faire à Séville à Noël : conseils
 
 - **N'allez pas au mapping à 20h un samedi :** la Plaza de San Francisco est pleine jusqu'à Sierpes. La séance de 18h30 ou un soir de semaine, c'est aussi bien.
-- **Ne prévoyez pas l'Alcázar le 25 ou le 6 :** il est fermé. Et les 24 et 31, il ferme plus tôt.
+- **Ne prévoyez pas l'Alcázar le 25 ou le 6 :** il est fermé. Et les 24 et 31, il peut fermer plus tôt.
 - **Réservez le dîner du 24 et du 31 :** beaucoup de bars ferment ou ne proposent qu'un menu fixe.
 - **Ne prenez pas la voiture le 5 janvier :** le défilé coupe la moitié du centre et Triana pendant des heures.
 - **Si vous avez une journée libre,** en hiver Cordoue se visite sans la chaleur qui la rend pénible d'avril à octobre ; l'excursion d'une journée avec la Mosquée coûte dès 109 €.

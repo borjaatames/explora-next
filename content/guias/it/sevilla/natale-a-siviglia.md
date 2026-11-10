@@ -4,7 +4,7 @@ descripcion: "Natale a Siviglia 2026: mapping di Plaza de San Francisco (18:30-2
 categoria: "sevilla"
 slug: "natale-a-siviglia"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -41,6 +41,8 @@ faq:
   respuesta: La organizza l'Ateneo il 5 gennaio. Nel 2026 è partita alle 16:15 dall'antica Fabbrica del Tabacco, ha attraversato il centro (Campana, San Pablo, Reyes Católicos), è passata a Triana ed è rientrata verso le 22:00, con 33 carri. La vigilia, il 4 gennaio, sfila per la città l'Araldo Reale.
 - pregunta: Dove comprare i dolci dei conventi a Siviglia?
   respuesta: Alle ruote (tornos) dei conventi di clausura, come San Leandro, famoso per le sue yemas, e alla mostra-mercato dei dolci dei conventi che si tiene nel Real Alcázar intorno al ponte dell'Immacolata (nel 2023, dal 5 all'8 dicembre, con 20 conventi). Le date del 2026 non sono ancora state pubblicate.
+- pregunta: "Cosa è aperto a Siviglia il 25 dicembre e il 1° gennaio?"
+  respuesta: "I grandi monumenti no: il Real Alcázar, la Cattedrale e il Museo de Bellas Artes chiudono entrambi i giorni, e anche il 6 gennaio. Puoi passeggiare in Plaza de España, nel Parco di María Luisa e nel centro illuminato. Il 24 e il 31 l'Alcázar può chiudere prima e la Cattedrale ha un orario speciale."
 actividades:
   - tuk-tuk-privado-sevilla
   - sevilla-misteriosa-tour-privado-atardecer
@@ -99,17 +101,27 @@ La **zambomba** è una festa di canti natalizi flamenchi con tamburelli, bottigl
 - **Navigalia** racconta una storia natalizia proiettata sul Guadalquivir, al Muelle de la Sal, per 2 €.
 - **Naturaleza Encendida**, lo spettacolo di luci dei giardini dell'Alcázar, va avanti fino a marzo.
 
-## Monumenti nei festivi, Capodanno e Cabalgata dei Re Magi a Siviglia
+## Cosa è aperto e cosa chiude a Siviglia il 24, 25 e 31 dicembre e il 1° gennaio
 
-| Luogo | 24 e 31 dic | 25 dic | 1 gen | 6 gen |
-| --- | --- | --- | --- | --- |
-| Real Alcázar | Orario ridotto | Chiuso | Chiuso | Chiuso |
-| Cattedrale e Giralda | Secondo le funzioni | Secondo le funzioni | Secondo le funzioni | Secondo le funzioni |
+| Luogo | 24 e 31 dicembre | 25 dicembre | 1° gennaio |
+| --- | --- | --- | --- |
+| Real Alcázar | Può chiudere prima | Chiuso | Chiuso |
+| Cattedrale e Giralda | Orario speciale | Chiusa | Chiusa |
+| Museo de Bellas Artes | Chiuso | Chiuso | Chiuso |
+| Plaza de España e Parco di María Luisa | Aperti | Aperti | Aperti |
+| Metro | 31: tutta la notte | Orario festivo | Orario festivo |
 
+- **Il 6 gennaio** chiudono l'Alcázar, la Cattedrale e il Museo de Bellas Artes.
 - **Real Alcázar:** da ottobre a marzo, dalle 9:30 alle 17:00. Con i biglietti di dicembre molto richiesti, una visita privata con guida ufficiale ti assicura giorno e ora.
-- **Cattedrale:** apre dal lunedì al sabato dalle 10:45 e la domenica dalle 14:30; 13 € online. Nelle feste liturgiche la visita culturale può cambiare: consulta il calendario su catedraldesevilla.es prima di andare.
+- **Cattedrale:** da lunedì a sabato dalle 10:45 alle 18:00 e la domenica dalle 14:30 alle 19:00; 13 € online e 14 € in biglietteria. Il 24 e il 31 ha un orario speciale per le funzioni: controlla l'agenda su catedraldesevilla.es prima di andare.
+- **Mercatini:** l'anno scorso quello dei Jardines de Cristina è rimasto chiuso il 24, 25, 31 e 1°, e la fiera dell'artigianato sotto le Setas ha chiuso il 24 e il 31 ed è stata aperta dalle 11:00 alle 16:00 il 25 e il 1°.
+- **Negozi e bar:** il 24 e il 31 chiudono nel pomeriggio, e il 25 e il 1° ne aprono pochi. Prenota la cena.
 
 [actividad: real-alcazar-sevilla-visita-privada-guia-oficial]
+
+*Orari verificati sui siti ufficiali il 10 novembre 2026. Metro e mercatini: orari dello scorso Natale, in attesa di quelli del 2026.*
+
+## Capodanno e Cabalgata dei Re Magi a Siviglia
 
 - **Rintocchi di Capodanno:** in **Plaza Nueva**, davanti al Municipio.
 - **Araldo Reale:** il 4 gennaio percorre la città annunciando i Re Magi.
@@ -118,7 +130,7 @@ La **zambomba** è una festa di canti natalizi flamenchi con tamburelli, bottigl
 ## Cosa fare a Siviglia a Natale: consigli
 
 - **Non andare al mapping alle 20:00 di sabato:** Plaza de San Francisco si riempie fino a Sierpes. La replica delle 18:30 o una infrasettimanale si vede altrettanto bene.
-- **Non programmare l'Alcázar il 25 o il 6:** è chiuso. E il 24 e il 31 chiude prima.
+- **Non programmare l'Alcázar il 25 o il 6:** è chiuso. E il 24 e il 31 può chiudere prima.
 - **Prenota la cena del 24 e del 31:** molti bar chiudono o servono solo menù fisso.
 - **Non prendere l'auto il 5 gennaio:** la Cabalgata blocca mezzo centro e Triana per ore.
 - **Se hai un giorno libero,** d'inverno Cordova si visita senza il caldo che la rende dura da aprile a ottobre; l'escursione di un giorno con la Mezquita costa da 109 €.

@@ -4,7 +4,7 @@ descripcion: "Natal em Sevilha 2026: mapping de San Francisco (18h30-23h00), Fei
 categoria: "sevilla"
 slug: "natal-em-sevilha"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -41,6 +41,8 @@ faq:
   respuesta: É organizada pelo Ateneo a 5 de janeiro. Em 2026 saiu às 16h15 da antiga Fábrica de Tabacos, passou pelo centro (Campana, San Pablo, Reyes Católicos), atravessou para Triana e regressou por volta das 22h00, com 33 carros. Na véspera, 4 de janeiro, o Arauto Real percorre a cidade.
 - pregunta: Onde comprar doces de convento em Sevilha?
   respuesta: Nas rodas (tornos) dos conventos de clausura, como San Leandro, famoso pelas suas yemas, e na exposição e venda de doces de convento que se realiza no Real Alcázar por altura do feriado da Imaculada Conceição (em 2023, de 5 a 8 de dezembro, com 20 conventos). As datas de 2026 ainda não foram publicadas.
+- pregunta: "O que abre em Sevilha a 25 de dezembro e a 1 de janeiro?"
+  respuesta: "Os grandes monumentos não: o Real Alcázar, a Catedral e o Museu de Belas Artes fecham nos dois dias, e também a 6 de janeiro. Pode passear pela Plaza de España, pelo Parque de María Luisa e pelo centro iluminado. A 24 e 31 o Alcázar pode fechar mais cedo e a Catedral tem horário especial."
 actividades:
   - tuk-tuk-privado-sevilla
   - sevilla-misteriosa-tour-privado-atardecer
@@ -99,17 +101,27 @@ A **zambomba** é uma festa de cânticos de Natal flamencos com pandeiretas, gar
 - **Navigalia** conta uma história de Natal projetada sobre o Guadalquivir, no Muelle de la Sal, por 2 €.
 - **Naturaleza Encendida**, o espetáculo de luz dos jardins do Alcázar, funciona até março.
 
-## Monumentos nos feriados, Passagem de Ano e Cavalgada dos Reis em Sevilha
+## O que abre e fecha em Sevilha a 24, 25 e 31 de dezembro e a 1 de janeiro
 
-| Local | 24 e 31 dez | 25 dez | 1 jan | 6 jan |
-| --- | --- | --- | --- | --- |
-| Real Alcázar | Horário reduzido | Fechado | Fechado | Fechado |
-| Catedral e Giralda | Conforme o culto | Conforme o culto | Conforme o culto | Conforme o culto |
+| Local | 24 e 31 de dezembro | 25 de dezembro | 1 de janeiro |
+| --- | --- | --- | --- |
+| Real Alcázar | Pode fechar mais cedo | Fechado | Fechado |
+| Catedral e Giralda | Horário especial | Fechada | Fechada |
+| Museu de Belas Artes | Fechado | Fechado | Fechado |
+| Plaza de España e Parque de María Luisa | Abertos | Abertos | Abertos |
+| Metro | 31: toda a noite | Horário de feriado | Horário de feriado |
 
-- **Real Alcázar:** de outubro a março, das 9h30 às 17h00. Com os bilhetes de dezembro muito procurados, uma visita privada com guia oficial garante-lhe o dia e a hora.
-- **Catedral:** abre de segunda a sábado a partir das 10h45 e aos domingos a partir das 14h30; 13 € online. Nas festas litúrgicas a visita cultural pode mudar: consulte a agenda de catedraldesevilla.es antes de ir.
+- **A 6 de janeiro** fecham o Alcázar, a Catedral e o Museu de Belas Artes.
+- **Real Alcázar:** de outubro a março, das 9:30 às 17:00. Com os bilhetes de dezembro muito procurados, uma visita privada com guia oficial garante-lhe o dia e a hora.
+- **Catedral:** de segunda a sábado das 10:45 às 18:00 e ao domingo das 14:30 às 19:00; 13 € online e 14 € na bilheteira. A 24 e 31 tem horário especial por causa das celebrações: consulte a agenda em catedraldesevilla.es antes de ir.
+- **Mercados de Natal:** no ano passado, o dos Jardines de Cristina fechou a 24, 25, 31 e 1, e a feira de artesanato debaixo das Setas fechou a 24 e 31 e abriu das 11:00 às 16:00 a 25 e 1.
+- **Lojas e bares:** a 24 e 31 fecham a meio da tarde, e a 25 e 1 abrem poucos. Reserve o jantar.
 
 [actividad: real-alcazar-sevilla-visita-privada-guia-oficial]
+
+*Horários confirmados nos sites oficiais a 10 de novembro de 2026. Metro e mercados: horários do Natal passado, até saírem os de 2026.*
+
+## Passagem de Ano e Cavalgada dos Reis em Sevilha
 
 - **Badaladas:** na **Plaza Nueva**, em frente à Câmara Municipal.
 - **Arauto Real:** a 4 de janeiro percorre a cidade a anunciar os Reis.
@@ -118,7 +130,7 @@ A **zambomba** é uma festa de cânticos de Natal flamencos com pandeiretas, gar
 ## O que fazer em Sevilha no Natal: conselhos
 
 - **Não vá ao mapping às 20h00 de um sábado:** a Plaza de San Francisco enche até à Sierpes. A sessão das 18h30 ou uma num dia de semana vê-se igualmente bem.
-- **Não planeie o Alcázar para dia 25 ou 6:** está fechado. E a 24 e 31 fecha mais cedo.
+- **Não planeie o Alcázar para dia 25 ou 6:** está fechado. E a 24 e 31 pode fechar mais cedo.
 - **Reserve o jantar de 24 e 31:** muitos bares fecham ou só servem menu fixo.
 - **Não pegue no carro a 5 de janeiro:** a Cavalgada corta meio centro e Triana durante horas.
 - **Se tiver um dia livre,** no inverno Córdova visita-se sem o calor que a torna dura de abril a outubro; a excursão de dia inteiro com a Mesquita custa desde 109 €.

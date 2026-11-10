@@ -4,7 +4,7 @@ descripcion: "Noël à Madrid 2026 : quand s'allument les illuminations, le marc
 categoria: "madrid"
 slug: "noel-a-madrid"
 fecha: "2026-10-23"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -48,6 +48,8 @@ faq:
   respuesta: 'Les douze coups sont gratuits, mais l''accès ferme quand la place est pleine : arrivez avant 21 h avec vos raisins épluchés. Pour moins de monde, les « preúvas », la répétition générale, ont lieu le 30 décembre, avec environ 15 000 places.'
 - pregunta: Quel est le parcours de la cavalcade des Rois mages à Madrid ?
   respuesta: Elle part le 5 janvier à 18 h de la plaza de San Juan de la Cruz, descend la Castellana et Recoletos et finit à Cibeles vers 21 h. Pour voir quelque chose, placez-vous sur la Castellana.
+- pregunta: "Qu'est-ce qui est ouvert à Madrid le 25 décembre et le 1er janvier ?"
+  respuesta: "Presque aucun musée : le Prado, le Reina Sofía, le Thyssen et le Palais royal sont fermés ces deux jours. Restent les rues, les illuminations et la crèche de la Puerta del Sol. Les 24 et 31, le Prado ouvre de 10 h à 14 h, le Thyssen jusqu'à 15 h et le Palais royal ferme à 15 h ; le Reina Sofía reste fermé."
 ---
 
 ## Noël à Madrid 2026 : le calendrier
@@ -102,7 +104,25 @@ Cette année, plus de **250 lieux illuminés** et 14 millions de LED, avec des m
 - **Naviluz** est à moitié prix pour les 7-11 ans, et gratuit pour les moins de 7 ans, qui ont tout de même besoin d'un billet.
 - La **patinoire** de la Plaza de España fonctionne par créneaux : achetez le billet à l'avance sur son site.
 
-**Musées les jours fériés :** le **Prado** est fermé le 25 décembre et le 1er janvier, et n'ouvre que de 10 h à 14 h les 24 et 31 décembre et le 6 janvier. La collection est gratuite les deux dernières heures de chaque jour, dans la limite des places. Décembre est un bon mois pour le **Palais royal** et les musées, avec moins de files qu'au printemps. Avec un jour libre, **Tolède et Ségovie** sont l'escapade classique, sans la chaleur en hiver.
+**Musées :** la collection du Prado est gratuite les deux dernières heures de chaque jour, dans la limite des places. Décembre est un bon mois pour le **Palais royal** et les musées, avec moins de files qu'au printemps. Avec un jour libre, **Tolède et Ségovie** sont l'escapade classique, sans la chaleur en hiver.
+
+## Ce qui est ouvert et fermé à Madrid les 24, 25 et 31 décembre et le 1er janvier
+
+| Lieu | 24 et 31 décembre | 25 décembre | 1er janvier |
+| --- | --- | --- | --- |
+| Musée du Prado | 10 h–14 h | Fermé | Fermé |
+| Musée Reina Sofía | Fermé | Fermé | Fermé |
+| Musée Thyssen | 10 h–15 h | Fermé | Fermé |
+| Palais royal | Ferme à 15 h | Fermé | Fermé |
+| Métro | 24 : jusqu'à 22 h · 31 : jusqu'à 1 h 30 | Ouvre à 8 h | Ouvre à 7 h |
+| Bus EMT | Dernier bus de jour entre 19 h 30 et 21 h 45, puis bus de nuit (búhos) | Horaires des jours fériés | Horaires des jours fériés |
+
+- **Le 6 janvier**, le Prado ouvre de 10 h à 14 h ; le Reina Sofía et le Palais royal sont fermés.
+- **Station de métro Sol, 30 et 31 décembre :** fermée à partir de 18 h pour la répétition et les douze coups de minuit. Descendez à Ópera, Callao ou Sevilla et finissez à pied.
+- **Boutiques et restaurants :** les 24 et 31, presque tout ferme en milieu d'après-midi, et peu de commerces ouvrent le 25 et le 1er. Réservez votre dîner.
+- **Le Palais royal** peut aussi fermer pour des actes officiels : vérifiez la veille sur le site de Patrimonio Nacional.
+
+*Horaires des musées et monuments vérifiés sur leurs sites officiels le 10 novembre 2026. Ceux du métro et des bus sont ceux du Noël dernier : les nouveaux sont publiés mi-décembre.*
 
 ## Erreurs fréquentes
 

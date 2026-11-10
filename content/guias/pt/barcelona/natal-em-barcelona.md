@@ -4,7 +4,7 @@ descripcion: "Natal em Barcelona 2026: feira de Santa Llúcia, luzes em 130 km d
 categoria: "barcelona"
 slug: "natal-em-barcelona"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -41,6 +41,8 @@ faq:
     respuesta: "A Avinguda de la Reina Maria Cristina, em frente à Fonte Mágica de Montjuïc. Na última edição o espetáculo começou às 22h00, com drones, música e fogo de artifício à meia-noite, gratuito e sem limite de lotação. Apanhe o metro até Espanya (L1 e L3) e chegue cedo: depois das 23h00 é difícil circular."
   - pregunta: "O que é o caga tió?"
     respuesta: "Um tronco com cara e um barrete catalão vermelho que as crianças alimentam durante o Advento e depois, a 24 ou 25 de dezembro, batem com paus a cantar para que «faça cocó» de doces e presentes. Pode comprá-lo na feira de Santa Llúcia, que em 2025 teve um tió gigante para menores de 12 anos de 29 de novembro a 20 de dezembro."
+  - pregunta: "O que abre em Barcelona a 25 de dezembro e a 1 de janeiro?"
+    respuesta: "Quase todos os edifícios de Gaudí: a Sagrada Família das 9:00 às 14:00, o Park Güell e a Casa Batlló, e La Pedrera com horário especial. Os grandes museus, como o MNAC ou o Museu Picasso, fecham. Na passagem de ano o metro funciona toda a noite."
 actividades:
   - tapas-vino-y-flamenco-tour-privado-barcelona
   - tour-tapas-y-vino-noche
@@ -95,19 +97,28 @@ Uma tarde de dezembro bem aproveitada:
 - **Chegada dos Reis Magos:** a 5 de janeiro desembarcam no porto e o presidente da Câmara recebe-os por volta das 16h30 na Plaça del Portal de la Pau. Menos concorrido do que a cavalgada.
 - Se preferirem um plano guiado, há um tour privado para famílias com caça ao tesouro e churros com chocolate.
 
-## Monumentos e museus nos feriados
+## O que abre e fecha em Barcelona a 24, 25 e 31 de dezembro e a 1 de janeiro
 
-| Local | 24 e 31 dez | 25 dez | 26 dez | 1 jan | 6 jan |
-| --- | --- | --- | --- | --- | --- |
-| Sagrada Família | Sem horário especial anunciado | 9h00–14h00 | 9h00–14h00 | 9h00–14h00 | 9h00–14h00 |
-| Park Güell | Aberto | Aberto | Aberto | Aberto | Aberto |
-| Museu Picasso | 10h00–14h00 | Fechado | Aberto | Fechado | Sem dados |
+| Local | 24 e 31 de dezembro | 25 de dezembro | 26 de dezembro | 1 de janeiro |
+| --- | --- | --- | --- | --- |
+| Sagrada Família | Horário normal (9:00–18:00) | 9:00–14:00 | 9:00–14:00 | 9:00–14:00 |
+| Park Güell | Aberto | Aberto | Aberto | Aberto |
+| Casa Batlló | Aberta | Aberta | Aberta | Aberta |
+| La Pedrera | Horário especial | Horário especial | Horário especial | Horário especial |
+| Museu Picasso | 10:00–14:00 | Fechado | Aberto | Fechado |
+| Metro | 24: até às 23:00 · 31: toda a noite | Horário de feriado | Horário de feriado | Sem interrupção desde a noite de 31 |
 
-- **O Park Güell** abre todo o ano; no inverno os horários vão das 9h30 às 17h30 e a entrada geral custa **18 €**.
-- **Museu Picasso:** de outubro a março abre de terça a domingo das 10h00 às 19h00; às quintas das 16h00 às 19h00 a entrada é grátis.
-- O **26 de dezembro (Sant Esteve)** é feriado na Catalunha: muitas lojas e restaurantes de bairro fecham, e é o dia dos canelones.
+- **A 6 de janeiro** a Sagrada Família também abre das 9:00 às 14:00.
+- **Os grandes museus** (MNAC, Museu Picasso, MACBA, CCCB) fecham a 25 e a 1: nesses dias, aposte nos edifícios de Gaudí, que abrem quase todos.
+- **O Park Güell** abre todo o ano; no inverno as entradas vão das 9:30 às 17:30 e o bilhete custa **18 €**.
+- **La Pedrera** anuncia um horário especial para estas datas: confirme em lapedrera.com antes de comprar.
+- **Museu Picasso:** de outubro a março, de terça a domingo, das 10:00 às 19:00; às quintas das 16:00 às 19:00 a entrada é grátis. A 24 e 31 a bilheteira fecha às 13:30.
+- **Autocarros:** a 24 os últimos autocarros da TMB saem às 22:00, uma hora antes de o metro fechar.
+- **O 26 de dezembro (Sant Esteve)** é feriado na Catalunha: muitas lojas e restaurantes de bairro fecham, e é o dia dos canelones.
 
 Com horários reduzidos, uma visita guiada com entrada incluída evita perder a manhã em filas.
+
+*Horários confirmados nos sites oficiais a 10 de novembro de 2026. Os do metro são os do Natal passado: a TMB publica os novos em dezembro.*
 
 ## Passagem de ano em Barcelona e cavalgada de Reis
 

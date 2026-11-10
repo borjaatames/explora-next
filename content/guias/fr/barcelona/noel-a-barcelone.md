@@ -4,7 +4,7 @@ descripcion: "Noël à Barcelone 2026 : Fira de Santa Llúcia, illuminations dan
 categoria: "barcelona"
 slug: "noel-a-barcelone"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -41,6 +41,8 @@ faq:
     respuesta: "Sur l'avenue de la Reina Maria Cristina, face à la Font Màgica de Montjuïc. Lors de la dernière édition, le spectacle a commencé à 22 h, avec drones, musique et feu d'artifice à minuit, gratuit et sans limite de jauge. Venez en métro (Espanya, L1 et L3) et en avance : à partir de 23 h, on a du mal à avancer."
   - pregunta: "Qu'est-ce que le caga tió ?"
     respuesta: "C'est une bûche avec un visage et une barretina que les enfants catalans nourrissent pendant l'Avent et frappent avec un bâton le 24 ou le 25 décembre, en chantant, pour qu'elle « fasse caca » des friandises et des cadeaux. On l'achète à la Fira de Santa Llúcia, où il y a eu en 2025 un tió géant pour les moins de 12 ans du 29 novembre au 20 décembre."
+  - pregunta: "Qu'est-ce qui est ouvert à Barcelone le 25 décembre et le 1er janvier ?"
+    respuesta: "Presque tous les bâtiments de Gaudí : la Sagrada Família de 9 h à 14 h, le Park Güell et la Casa Batlló, ainsi que La Pedrera avec des horaires spéciaux. Les grands musées, comme le MNAC ou le Museu Picasso, ferment. Le soir du 31, le métro circule toute la nuit."
 actividades:
   - tapas-vino-y-flamenco-tour-privado-barcelona
   - tour-tapas-y-vino-noche
@@ -95,19 +97,28 @@ Un après-midi de décembre bien rempli :
 - **Arrivée des Rois mages :** le 5 janvier, ils débarquent au port et le maire les accueille vers 16 h 30 sur la Plaça del Portal de la Pau. Moins de monde qu'à la cavalcade.
 - Si vous préférez une activité guidée, il existe une visite privée pour familles avec chasse au trésor et churros au chocolat.
 
-## Monuments et musées les jours fériés
+## Ce qui est ouvert et fermé à Barcelone les 24, 25 et 31 décembre et le 1er janvier
 
-| Lieu | 24 et 31 déc. | 25 déc. | 26 déc. | 1er janv. | 6 janv. |
-| --- | --- | --- | --- | --- | --- |
-| Sagrada Família | Pas d'horaire spécial annoncé | 9 h–14 h | 9 h–14 h | 9 h–14 h | 9 h–14 h |
-| Park Güell | Ouvert | Ouvert | Ouvert | Ouvert | Ouvert |
-| Museu Picasso | 10 h–14 h | Fermé | Ouvert | Fermé | Pas de donnée |
+| Lieu | 24 et 31 décembre | 25 décembre | 26 décembre | 1er janvier |
+| --- | --- | --- | --- | --- |
+| Sagrada Família | Horaires normaux (9 h–18 h) | 9 h–14 h | 9 h–14 h | 9 h–14 h |
+| Park Güell | Ouvert | Ouvert | Ouvert | Ouvert |
+| Casa Batlló | Ouverte | Ouverte | Ouverte | Ouverte |
+| La Pedrera | Horaires spéciaux | Horaires spéciaux | Horaires spéciaux | Horaires spéciaux |
+| Museu Picasso | 10 h–14 h | Fermé | Ouvert | Fermé |
+| Métro | 24 : jusqu'à 23 h · 31 : toute la nuit | Horaires des jours fériés | Horaires des jours fériés | Sans interruption depuis la nuit du 31 |
 
-- **Le parc Güell** est ouvert toute l'année ; en hiver, les créneaux vont de 9 h 30 à 17 h 30 et l'entrée générale coûte **18 €**.
-- **Museu Picasso :** d'octobre à mars, ouvert du mardi au dimanche de 10 h à 19 h ; le jeudi de 16 h à 19 h, l'entrée est gratuite.
-- Le **26 décembre (Sant Esteve)** est férié en Catalogne : beaucoup de commerces et de restaurants de quartier ferment, et c'est le jour des cannellonis.
+- **Le 6 janvier**, la Sagrada Família ouvre aussi de 9 h à 14 h.
+- **Les grands musées** (MNAC, Museu Picasso, MACBA, CCCB) ferment le 25 et le 1er : ces jours-là, misez sur les bâtiments de Gaudí, presque tous ouverts.
+- **Le Park Güell** ouvre toute l'année ; en hiver les créneaux vont de 9 h 30 à 17 h 30 et l'entrée coûte **18 €**.
+- **La Pedrera** annonce des horaires spéciaux pour ces dates : vérifiez-les sur lapedrera.com avant d'acheter.
+- **Museu Picasso :** d'octobre à mars, du mardi au dimanche de 10 h à 19 h ; le jeudi de 16 h à 19 h l'entrée est gratuite. Les 24 et 31, la billetterie ferme à 13 h 30.
+- **Bus :** le 24, les derniers bus TMB partent des terminus à 22 h, une heure avant la fermeture du métro.
+- **Le 26 décembre (Sant Esteve)** est férié en Catalogne : beaucoup de commerces et de restaurants de quartier ferment, et c'est le jour des cannellonis.
 
-Avec des horaires réduits, une visite guidée avec entrée incluse évite de perdre la matinée dans les files.
+Avec des horaires réduits, une visite guidée avec entrée incluse vous évite de perdre la matinée dans les files.
+
+*Horaires vérifiés sur les sites officiels le 10 novembre 2026. Ceux du métro sont ceux du Noël dernier : TMB publie les nouveaux en décembre.*
 
 ## Réveillon de la Saint-Sylvestre à Montjuïc et cavalcade des Rois
 
