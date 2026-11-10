@@ -6,6 +6,8 @@ descripcion: 'Tour gastronómico de 3 horas por el casco antiguo de Barcelona de
 slugs:
   es: barcelona-tour-tapas-paella-sangria-casco-antiguo
   en: barcelona-tapas-tour-paella-sangria-old-town
+  it: barcellona-tour-tapas-paella-sangria-centro-storico
+  pt: barcelona-tour-tapas-paella-sangria-centro-historico
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 31
@@ -13,6 +15,8 @@ moneda: EUR
 idiomas:
 - en
 - es
+- it
+- pt
 proveedor: bokun
 urlReserva: ''
 cancelacionGratuita: true

@@ -6,6 +6,7 @@ descripcion: 'Excursión privada de 9 horas desde Sevilla: visita guiada con cat
 slugs:
   es: cadiz-jerez-excursion-privada-desde-sevilla
   en: cadiz-jerez-private-day-trip-from-seville
+  fr: cadix-jerez-excursion-privee-depuis-seville
 duracion: 9 horas
 duracionMinutos: 540
 precioDesde: 0
@@ -13,6 +14,7 @@ moneda: EUR
 idiomas:
 - es
 - en
+- fr
 proveedor: bokun
 bokunProductId: 132428
 urlReserva: ''
@@ -38,7 +40,7 @@ puntoEncuentro:
 informacionImportante:
   aTenerEnCuenta:
   - Mínimo 2 personas por reserva
-  - El guía habla español o inglés
+  - El guía habla español, inglés o francés
   - 'La comida no está incluida: hay tiempo libre en Jerez'
 detallesPracticos:
   ticketMovil: true

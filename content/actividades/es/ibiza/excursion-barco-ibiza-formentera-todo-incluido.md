@@ -7,6 +7,8 @@ slugs:
   es: excursion-barco-ibiza-formentera-todo-incluido
   en: ibiza-formentera-all-inclusive-boat-trip
   de: ibiza-formentera-360-bootsausflug-all-inclusive
+  fr: ibiza-formentera-excursion-bateau-tout-inclus
+  it: ibiza-formentera-gita-in-barca-tutto-incluso
 duracion: "Hasta 12 horas"
 duracionMinutos: 720
 precioDesde: 99
@@ -14,6 +16,8 @@ moneda: EUR
 idiomas:
 - es
 - en
+- fr
+- it
 proveedor: bokun
 bokunProductId: 1102299
 urlReserva: ""

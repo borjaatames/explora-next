@@ -6,6 +6,7 @@ descripcion: 'A 9-hour private trip from Seville: guided visit and tasting at th
 slugs:
   es: cadiz-jerez-excursion-privada-desde-sevilla
   en: cadiz-jerez-private-day-trip-from-seville
+  fr: cadix-jerez-excursion-privee-depuis-seville
 duracion: 9 hours
 duracionMinutos: 540
 precioDesde: 0
@@ -13,6 +14,7 @@ moneda: EUR
 idiomas:
 - es
 - en
+- fr
 proveedor: bokun
 bokunProductId: 132428
 urlReserva: ''
@@ -38,7 +40,7 @@ puntoEncuentro:
 informacionImportante:
   aTenerEnCuenta:
   - Minimum 2 people per booking
-  - The guide speaks English or Spanish
+  - The guide speaks English, Spanish or French
   - 'Lunch isn''t included: there''s free time in Jerez'
 detallesPracticos:
   ticketMovil: true
