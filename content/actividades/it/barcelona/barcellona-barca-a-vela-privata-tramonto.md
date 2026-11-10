@@ -58,6 +58,8 @@ preguntasFrecuentes:
 - pregunta: Cosa si beve a bordo?
   respuesta: Cava, vino e birra, con snack.
 categoria: agua
+privada: true
+precioPorGrupo: true
 keywords:
 - barca a vela privata barcellona
 - barca privata barcellona tramonto

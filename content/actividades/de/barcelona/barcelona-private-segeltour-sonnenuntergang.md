@@ -58,6 +58,8 @@ preguntasFrecuentes:
 - pregunta: Was gibt es an Bord?
   respuesta: Cava, Wein und Bier, dazu Snacks.
 categoria: agua
+privada: true
+precioPorGrupo: true
 keywords:
 - barcelona segeltour privat
 - barcelona bootstour sonnenuntergang

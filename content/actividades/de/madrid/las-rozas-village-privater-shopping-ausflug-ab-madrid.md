@@ -57,6 +57,8 @@ preguntasFrecuentes:
 - pregunta: Ist es eine Führung?
   respuesta: 'Nein: Der Fahrer bringt dich hin, wartet und fährt dich zurück.'
 categoria: excursionesDia
+privada: true
+precioPorGrupo: true
 keywords:
 - las rozas village ab madrid
 - madrid outlet shopping ausflug

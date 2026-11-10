@@ -58,6 +58,8 @@ preguntasFrecuentes:
 - pregunta: ¿Qué se bebe a bordo?
   respuesta: Cava, vino y cerveza, con snacks.
 categoria: agua
+privada: true
+precioPorGrupo: true
 keywords:
 - velero privado barcelona atardecer
 - barco privado barcelona

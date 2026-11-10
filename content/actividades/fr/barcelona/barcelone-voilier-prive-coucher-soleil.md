@@ -58,6 +58,8 @@ preguntasFrecuentes:
 - pregunta: Que boit-on à bord ?
   respuesta: Cava, vin et bière, avec des snacks.
 categoria: agua
+privada: true
+precioPorGrupo: true
 keywords:
 - voilier privé barcelone
 - bateau privé barcelone coucher de soleil

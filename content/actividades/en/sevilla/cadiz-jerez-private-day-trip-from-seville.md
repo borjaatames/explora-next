@@ -54,6 +54,7 @@ preguntasFrecuentes:
 - pregunta: How many people are needed?
   respuesta: At least 2 per booking.
 categoria: excursionesDia
+privada: true
 keywords:
 - cadiz jerez day trip from seville
 - private sherry tour jerez

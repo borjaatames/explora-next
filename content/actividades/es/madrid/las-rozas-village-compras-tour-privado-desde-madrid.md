@@ -57,6 +57,8 @@ preguntasFrecuentes:
 - pregunta: ¿Es una visita guiada?
   respuesta: 'No: el conductor te lleva, te espera y te trae de vuelta.'
 categoria: excursionesDia
+privada: true
+precioPorGrupo: true
 keywords:
 - las rozas village desde madrid
 - excursion compras madrid outlet

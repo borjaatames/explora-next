@@ -58,6 +58,8 @@ preguntasFrecuentes:
 - pregunta: What's served on board?
   respuesta: Cava, wine and beer, with snacks.
 categoria: agua
+privada: true
+precioPorGrupo: true
 keywords:
 - barcelona private sunset sailing
 - private boat barcelona

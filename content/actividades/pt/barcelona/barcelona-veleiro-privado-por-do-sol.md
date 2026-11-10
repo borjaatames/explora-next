@@ -58,6 +58,8 @@ preguntasFrecuentes:
 - pregunta: O que se bebe a bordo?
   respuesta: Cava, vinho e cerveja, com snacks.
 categoria: agua
+privada: true
+precioPorGrupo: true
 keywords:
 - veleiro privado barcelona
 - barco privado barcelona pôr do sol

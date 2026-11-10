@@ -57,6 +57,8 @@ preguntasFrecuentes:
 - pregunta: Est-ce une visite guidée ?
   respuesta: 'Non : le chauffeur vous emmène, vous attend et vous ramène.'
 categoria: excursionesDia
+privada: true
+precioPorGrupo: true
 keywords:
 - las rozas village depuis madrid
 - excursion shopping outlet madrid

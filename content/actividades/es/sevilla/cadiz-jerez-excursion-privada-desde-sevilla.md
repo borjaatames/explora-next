@@ -54,6 +54,7 @@ preguntasFrecuentes:
 - pregunta: ¿Cuántas personas tienen que ser?
   respuesta: Como mínimo 2 por reserva.
 categoria: excursionesDia
+privada: true
 keywords:
 - excursion cadiz jerez desde sevilla
 - tour privado jerez bodega

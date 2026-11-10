@@ -57,6 +57,8 @@ preguntasFrecuentes:
 - pregunta: Is it a guided tour?
   respuesta: 'No: the driver takes you, waits and brings you back.'
 categoria: excursionesDia
+privada: true
+precioPorGrupo: true
 keywords:
 - las rozas village from madrid
 - madrid outlet shopping trip
