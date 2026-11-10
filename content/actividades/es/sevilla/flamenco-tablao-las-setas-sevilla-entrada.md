@@ -69,7 +69,7 @@ galeria:
   alt: "Espectáculo de flamenco en un tablao"
 - src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
   alt: "Las Setas de Sevilla, en la Plaza de la Encarnación"
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-10'
 ---

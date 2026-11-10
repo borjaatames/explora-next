@@ -69,10 +69,10 @@ keywords:
 - "sagrada familia skip the line"
 - "sagrada familia tickets with guide"
 - "sagrada familia tour"
-imagen: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
+imagen: "/images/actividades/barcelona/sagrada-familia/cripta-sagrada-familia.webp"
 imagenAlt: "The Sagrada Família in Barcelona"
 galeria:
-- src: "/images/actividades/barcelona/sagrada-familia/cripta-sagrada-familia.webp"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
   alt: "The Sagrada Família in Barcelona"
 - src: "/images/actividades/barcelona/sagrada-familia/fachada-nacimiento-estanque.webp"
   alt: "The Sagrada Família in Barcelona"

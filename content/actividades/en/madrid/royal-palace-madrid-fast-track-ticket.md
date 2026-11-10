@@ -61,7 +61,7 @@ keywords:
 - "royal palace skip the line"
 - "madrid royal palace entry"
 - "visit royal palace madrid"
-imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
+imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero-hero.webp"
 imagenAlt: "The Royal Palace of Madrid"
 galeria:
 - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"

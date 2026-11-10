@@ -63,7 +63,7 @@ keywords:
 - "museo sensorial madrid"
 - "que hacer en madrid con niños"
 - "experiencia inmersiva madrid"
-imagen: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp"
 imagenAlt: "La Gran Vía de Madrid, en el centro"
 galeria:
 - src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"

@@ -68,7 +68,7 @@ galeria:
   alt: "Guitaristes de flamenco"
 - src: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
   alt: "Danseuse de flamenco sur scène"
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-10'
 ---

@@ -63,7 +63,7 @@ keywords:
 - "sensory museum madrid"
 - "madrid with kids"
 - "immersive experience madrid"
-imagen: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-beautiful-architectural-buildings-hero.webp"
 imagenAlt: "Gran Vía in central Madrid"
 galeria:
 - src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"

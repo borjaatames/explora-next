@@ -62,10 +62,10 @@ keywords:
 - "el duende barcelona"
 - "flamenco show barcelona"
 - "flamenco barcelona zentrum"
-imagen: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
+imagen: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
 imagenAlt: "Flamencotänzerinnen"
 galeria:
-- src: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
+- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
   alt: "Flamencotänzerinnen"
 - src: "/images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp"
   alt: "Flamencotänzerinnen"

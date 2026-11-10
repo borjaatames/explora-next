@@ -68,7 +68,7 @@ galeria:
   alt: "Flamenco guitarists"
 - src: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
   alt: "Flamenco dancer on stage"
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-10'
 ---

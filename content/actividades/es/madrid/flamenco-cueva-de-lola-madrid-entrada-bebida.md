@@ -68,7 +68,7 @@ galeria:
   alt: "Guitarristas flamencos"
 - src: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
   alt: "Bailaora de flamenco en el escenario"
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-10'
 ---

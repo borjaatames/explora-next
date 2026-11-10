@@ -61,7 +61,7 @@ keywords:
 - "palacio real sin colas"
 - "palacio real madrid tickets"
 - "visitar palacio real madrid"
-imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
+imagen: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero-hero.webp"
 imagenAlt: "El Palacio Real de Madrid"
 galeria:
 - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"

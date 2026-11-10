@@ -63,7 +63,7 @@ keywords:
 - "sinnesmuseum madrid"
 - "madrid mit kindern"
 - "immersive ausstellung madrid"
-imagen: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+imagen: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
 imagenAlt: "Die Gran Vía im Zentrum Madrids"
 galeria:
 - src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"

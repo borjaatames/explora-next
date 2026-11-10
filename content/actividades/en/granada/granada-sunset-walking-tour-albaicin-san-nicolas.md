@@ -59,7 +59,7 @@ keywords:
 - "san nicolas viewpoint"
 - "albaicin sunset walk"
 - "alhambra sunset view"
-imagen: "/images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp"
+imagen: "/images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-granada-plaza-de-san-nicol-s-16-03-2011-14-27-28-j.webp"
 imagenAlt: "The Alhambra at sunset from the San Nicolás viewpoint"
 galeria:
 - src: "/images/actividades/granada/albaicin/albaicin-granada-calle-empedrada-hero.webp"

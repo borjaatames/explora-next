@@ -68,7 +68,7 @@ galeria:
   alt: "Chitarristi di flamenco"
 - src: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
   alt: "Ballerina di flamenco sul palco"
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-10'
 ---

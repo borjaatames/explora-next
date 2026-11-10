@@ -62,10 +62,10 @@ keywords:
 - "el duende barcellona"
 - "spettacolo flamenco barcellona"
 - "flamenco centro barcellona"
-imagen: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
+imagen: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
 imagenAlt: "Ballerine di flamenco"
 galeria:
-- src: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
+- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
   alt: "Ballerine di flamenco"
 - src: "/images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp"
   alt: "Ballerine di flamenco"
