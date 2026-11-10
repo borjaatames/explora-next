@@ -4,7 +4,7 @@ descripcion: "Wie man einen Tag in Sevilla ab Madrid mit dem AVE optimal nutzt: 
 categoria: "sevilla"
 slug: "sevilla-in-einem-tag"
 fecha: "2026-03-15"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -69,7 +69,7 @@ Der älteste noch genutzte Königspalast Europas und das Top-Monument. **Online-
 
 ### 2. Kathedrale und Giralda (12:30-14:00 Uhr)
 
-Die größte gotische Kathedrale der Welt, das Grab des Kolumbus, der Patio de los Naranjos der einstigen Moschee und der Aufstieg auf die Giralda **über Rampen** (man ritt einst zu Pferd hinauf). Kombiticket mit der Iglesia del Salvador: **20 € online oder 21 € an der Kasse**, kostenlos unter 13 Jahren. Online kaufen: Die Mittagsschlange dauert bis zu einer halben Stunde.
+Die größte gotische Kathedrale der Welt, das Grab des Kolumbus, der Patio de los Naranjos der einstigen Moschee und der Aufstieg auf die Giralda **über Rampen** (man ritt einst zu Pferd hinauf). Kombiticket mit der Iglesia del Salvador: **13 € online oder 14 € an der Kasse**, kostenlos unter 13 Jahren. Online kaufen: Die Mittagsschlange dauert bis zu einer halben Stunde.
 
 ### 3. Plaza de España (15:30-17:00 Uhr)
 

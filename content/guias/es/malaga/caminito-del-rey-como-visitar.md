@@ -7,7 +7,7 @@ respuestaCorta: 'Para el **Caminito del Rey** compra la entrada en la web oficia
 categoria: "malaga"
 slug: "caminito-del-rey-como-visitar"
 fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -71,7 +71,7 @@ Si la web oficial ya sale agotada, en [qué hacer si las entradas del Caminito d
 
 ## Horarios, edades y normas
 
-- **Horario:** de martes a domingo, con entradas cada media hora desde las **9:00 hasta las 14:50 o las 17:20**, según la temporada. **Cierra los lunes** y los días de viento fuerte o lluvia intensa; entonces puedes cambiar la entrada a otra fecha desde tu área personal, según disponibilidad.
+- **Horario:** de martes a domingo, con entradas cada media hora desde las **9:00 hasta las 14:50 o las 17:20**, según la temporada. **Cierra los lunes** (salvo algunos que abre de forma excepcional: míralo en el calendario de reservas) y los días de viento fuerte o lluvia intensa; entonces puedes cambiar la entrada a otra fecha desde tu área personal, según disponibilidad.
 - **Edad mínima: 8 años**, sin excepciones (lleva el DNI o el libro de familia), y los menores siempre acompañados. No hay límite superior, pero son 7,7 km sin bancos ni sombra.
 - **Tiempo total:** 3-4 horas contando los accesos a pie (1,5-2,7 km desde cada aparcamiento, según la entrada) y la lanzadera.
 - **Casco obligatorio** (lo dan allí) y **calzado cerrado**. Prohibido entrar con paraguas, bastones con punta metálica, drones y mascotas.

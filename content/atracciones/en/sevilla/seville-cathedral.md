@@ -23,7 +23,7 @@ datosClave:
   - etiqueta: "Official ticket"
     valor: "€13 online"
   - etiqueta: "Opening hours"
-    valor: "Mon–Sat 10:45am – 7pm"
+    valor: "Mon–Sat 10:45am – 6pm"
   - etiqueta: "Visit length"
     valor: "1.5 hours"
   - etiqueta: "Book"
@@ -53,7 +53,7 @@ fotos:
     pie: "The Giralda above the rooftops of Seville"
 practico:
   - titulo: "Opening hours"
-    texto: "Monday to Saturday, 10:45am–7pm. Sundays, 2:30pm–7pm. The ticket office at the Puerta del Príncipe closes at 6pm, an hour before the building."
+    texto: "Monday to Saturday, 10:45am–6pm (ticket office until 5pm). Sundays, 2:30pm–7pm (ticket office until 6pm). The Cathedral warns that hours can change for services without notice."
   - titulo: "Official prices"
     texto: "General €13 online and €14 at the ticket office (reduced €7 and €8), including the Giralda and the Church of El Salvador. Rooftop tour, €20 online and €21 at the ticket office."
   - titulo: "Getting there"

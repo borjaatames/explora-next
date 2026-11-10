@@ -2,11 +2,11 @@
 titulo: "Musée Guggenheim de Bilbao : comment le visiter (billets et conseils)"
 descripcion: "Guide pour visiter le Guggenheim de Bilbao : billets et horaires, que voir à l'intérieur et à l'extérieur (Puppy, Maman, Serra), combien de temps prévoir et les meilleures astuces."
 intro: 'Le **musée Guggenheim Bilbao** est l''œuvre en titane de Frank Gehry qui, depuis 1997, a fait d''une ville industrielle une icône mondiale du design. Dehors, gratuitement : **Puppy**, **Maman** et la sculpture de brouillard ; dedans, le grand atrium, *La Matière du temps* de Richard Serra et des expositions temporaires de premier plan. À 20 minutes à pied de la vieille ville, la visite intérieure dure **2 h à 2 h 30**.'
-respuestaCorta: 'L''extérieur du **musée Guggenheim Bilbao** est gratuit : **Puppy, Maman et le titane** brillent au coucher du soleil. Dedans, comptez **2 h à 2 h 30**. Billet : **12 à 18 € selon les expositions** (gratuit moins de 18 ans, audioguide inclus), en ligne avec créneau. Fermé le lundi, sauf en juillet, août et pendant les ponts.'
+respuestaCorta: 'L''extérieur du **musée Guggenheim Bilbao** est gratuit : **Puppy, Maman et le titane** brillent au coucher du soleil. Dedans, comptez **2 h à 2 h 30**. Billet : **12 à 18 € selon les expositions** (gratuit moins de 18 ans, audioguide inclus), en ligne avec créneau. Fermé le lundi, sauf en été (du 15 juin au 7 septembre), à Pâques et certains jours fériés.'
 categoria: "bilbao"
 slug: "musee-guggenheim-bilbao-comment-le-visiter"
 fecha: "2026-03-24"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -39,7 +39,7 @@ faq:
 - pregunta: Peut-on voir le Guggenheim gratuitement ?
   respuesta: 'L''extérieur, oui : le bâtiment de Gehry, Puppy de Jeff Koons, Maman de Louise Bourgeois, Tulips, Tall Tree & The Eye d''Anish Kapoor et la sculpture de brouillard se voient sans payer. Les salles sont payantes.'
 - pregunta: Quel jour le Guggenheim est-il fermé ?
-  respuesta: Le lundi, sauf en juillet, en août et pendant les ponts, et toujours le 25 décembre et le 1er janvier. Vérifiez le calendrier du musée avant d'y aller un lundi.
+  respuesta: Le lundi, sauf en été (du 15 juin au 7 septembre), à Pâques et certains jours fériés, et toujours le 25 décembre et le 1er janvier. Vérifiez le calendrier du musée avant d'y aller un lundi.
 - pregunta: Comment se rendre au Guggenheim ?
   respuesta: En métro jusqu'à Moyua (L1 et L2) puis 7 minutes à pied, ou en tramway jusqu'à l'arrêt Guggenheim, devant la porte. Depuis la vieille ville, comptez 20 minutes à pied le long de la ria.
 ---
@@ -72,7 +72,7 @@ Le meilleur moment pour l'extérieur est le **coucher du soleil**, quand le tita
 - **Billet général :** **12 à 18 €** selon les expositions (12 € en octobre 2026), audioguide inclus. Réduit pour les étudiants et les plus de 65 ans. **Gratuit pour les moins de 18 ans.**
 - **Achetez en ligne avec un créneau** et entrez sans file ; la billetterie fonctionne, mais il y a de l'attente en saison.
 - **Horaires :** du mardi au dimanche, de **10 h à 19 h**, jusqu'à 20 h en été.
-- **Fermé le lundi**, sauf en juillet, en août et pendant les ponts ; toujours fermé le 25 décembre et le 1er janvier.
+- **Fermé le lundi**, sauf en été (du 15 juin au 7 septembre), à Pâques et certains jours fériés ; toujours fermé le 25 décembre et le 1er janvier.
 - **Meilleur moment :** tôt le matin en semaine ou après 17 h. Le samedi midi est le plus chargé.
 - **Consigne :** gratuite et obligatoire pour les sacs à dos et les parapluies. Les poussettes sont admises.
 

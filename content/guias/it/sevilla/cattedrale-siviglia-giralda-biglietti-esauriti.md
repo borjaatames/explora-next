@@ -5,7 +5,7 @@ metaTitle: 'Cattedrale Siviglia biglietti: prezzo e orari'
 categoria: sevilla
 slug: cattedrale-siviglia-giralda-biglietti-esauriti
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -29,7 +29,7 @@ slugs:
   pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
 intro: 'Prima di cercare i **biglietti della Cattedrale di Siviglia**, conviene sapere cosa c''è dentro: la **cattedrale gotica più grande del mondo**, costruita sulla moschea almohade, con il retablo maggiore, il coro ligneo, il monumento funebre di Cristoforo Colombo e il Patio de los Naranjos. Il biglietto include la salita alla **Giralda**, su rampe, e la Chiesa del Salvador. Si trova di fronte al Real Alcázar e la visita dura **1 h 30**.'
-respuestaCorta: 'I biglietti della Cattedrale di Siviglia costano **13 € online e 14 € in biglietteria**, Giralda inclusa. Se il sito è esaurito, la **biglietteria della Puerta del Príncipe** vende fino alle 18:00, con posti limitati. Senza cambi né rimborsi, la cosa più sicura è un **biglietto di rivendita** (da 17,50 €) o una **visita guidata con ingresso**.'
+respuestaCorta: 'I biglietti della Cattedrale di Siviglia costano **13 € online e 14 € in biglietteria**, Giralda inclusa. Se il sito è esaurito, la **biglietteria della Puerta del Príncipe** vende fino alle 17:00 (18:00 la domenica), con posti limitati. Senza cambi né rimborsi, la cosa più sicura è un **biglietto di rivendita** (da 17,50 €) o una **visita guidata con ingresso**.'
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
   - catedral-giralda-sevilla-visita-privada-guia-entradas
@@ -40,7 +40,7 @@ faq:
 - pregunta: Quanto costa il biglietto della Cattedrale di Siviglia e della Giralda?
   respuesta: L'intero costa 13 € online e 14 € in biglietteria (ridotto 7 € e 8 €) e include la salita alla Giralda e la Chiesa del Salvador. La visita guidata alle coperture costa 20 € online e 21 € in biglietteria.
 - pregunta: Si possono comprare i biglietti della Cattedrale in biglietteria lo stesso giorno?
-  respuesta: 'Sì. La biglietteria è alla Puerta del Príncipe e chiude alle 18:00. L''intero lì costa 14 €, un euro in più che online. La capienza di Cattedrale e Giralda è limitata, quindi nei giorni di punta non c''è garanzia di trovare posto: vai presto.'
+  respuesta: 'Sì. La biglietteria è alla Puerta del Príncipe e chiude alle 17:00 dal lunedì al sabato e alle 18:00 la domenica. L''intero lì costa 14 €, un euro in più che online. La capienza di Cattedrale e Giralda è limitata, quindi nei giorni di punta non c''è garanzia di trovare posto: vai presto.'
 - pregunta: Si liberano biglietti per cancellazioni?
   respuesta: Quasi mai. Secondo le norme della Cattedrale, i biglietti non sono rimborsabili né modificabili, salvo che la visita non si possa fare per causa del Capitolo stesso. Quindi non c'è un flusso di cancellazioni da tenere d'occhio.
 - pregunta: Si può visitare la Cattedrale gratis?
@@ -89,7 +89,7 @@ Cosa non serve: aspettare le cancellazioni. Secondo le norme della Cattedrale, i
 
 ## Cattedrale di Siviglia: biglietteria e domenica gratis
 
-La biglietteria è alla **Puerta del Príncipe** e chiude alle **18:00**, un'ora prima del tempio. Chi compra online entra dalla **Puerta del Lagarto**. I posti sono limitati, quindi nei giorni di punta non c'è garanzia: prima arrivi, meglio è.
+La biglietteria è alla **Puerta del Príncipe** e chiude alle **17:00** dal lunedì al sabato e alle **18:00** la domenica, un'ora prima della fine della visita. Chi compra online entra dalla **Puerta del Lagarto**. I posti sono limitati, quindi nei giorni di punta non c'è garanzia: prima arrivi, meglio è.
 
 **La domenica l'ingresso è gratis**, secondo il calendario liturgico. I biglietti si ritirano **di persona alla biglietteria della Puerta del Príncipe dalle 17:00** fino alla chiusura, con posti limitati, e non si prenotano online. Se ti capita una domenica, provaci, ma non farne il tuo piano.
 

@@ -4,7 +4,7 @@ descripcion: "Como visitar o Guggenheim de Bilbau: bilhetes e horários, o que v
 categoria: "bilbao"
 slug: "museu-guggenheim-como-visitar"
 fecha: "2026-03-24"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -25,7 +25,7 @@ slugs:
   it: museo-guggenheim-come-visitarlo
   pt: museu-guggenheim-como-visitar
 intro: 'O **Museu Guggenheim Bilbau** é a obra de titânio de Frank Gehry que, desde 1997, transformou uma cidade industrial num ícone mundial do design. Cá fora, de graça, esperam-te o **Puppy**, a **Maman** e a escultura de nevoeiro; lá dentro, o grande átrio, *The Matter of Time* de Richard Serra e exposições temporárias de primeira linha. Fica a 20 minutos a pé do Casco Viejo e a visita interior leva **2-2,5 horas**.'
-respuestaCorta: 'O exterior do **Museu Guggenheim Bilbau** é grátis: **o Puppy, a Maman e o titânio** ficam melhor ao pôr do sol. Lá dentro, conta com **2-2,5 horas**. O bilhete custa **12-18 € consoante as exposições** (menores de 18 grátis, audioguia incluído) e compra-se online com horário. Fecha às segundas, exceto em julho, agosto e pontes.'
+respuestaCorta: 'O exterior do **Museu Guggenheim Bilbau** é grátis: **o Puppy, a Maman e o titânio** ficam melhor ao pôr do sol. Lá dentro, conta com **2-2,5 horas**. O bilhete custa **12-18 € consoante as exposições** (menores de 18 grátis, audioguia incluído) e compra-se online com horário. Fecha às segundas, exceto no verão (de 15 de junho a 7 de setembro), na Páscoa e em alguns feriados.'
 reservasArriba: true
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
@@ -39,7 +39,7 @@ faq:
 - pregunta: Pode ver-se o Guggenheim de graça?
   respuesta: 'O exterior, sim: o edifício de Gehry, o Puppy de Jeff Koons, a Maman de Louise Bourgeois, Tulips, Tall Tree & The Eye de Anish Kapoor e a escultura de nevoeiro veem-se sem pagar. As salas são pagas.'
 - pregunta: Em que dia fecha o Guggenheim?
-  respuesta: Às segundas-feiras, exceto em julho, agosto e pontes, e sempre a 25 de dezembro e 1 de janeiro. Confirma o calendário do museu antes de ir a uma segunda.
+  respuesta: Às segundas-feiras, exceto no verão (de 15 de junho a 7 de setembro), na Páscoa e em alguns feriados, e sempre a 25 de dezembro e 1 de janeiro. Confirma o calendário do museu antes de ir a uma segunda.
 - pregunta: Como se chega ao Guggenheim?
   respuesta: De metro até Moyua (L1 e L2) e 7 minutos a pé, ou de elétrico até à paragem Guggenheim, à porta. Do Casco Viejo são 20 minutos a pé pela ria.
 ---
@@ -72,7 +72,7 @@ A melhor hora para o exterior é o **pôr do sol**, quando o titânio fica doura
 - **Bilhete normal:** **12-18 €** consoante as exposições (12 € em outubro de 2026), com audioguia incluído. Reduzido para estudantes e maiores de 65. **Menores de 18, grátis.**
 - **Compra online com horário marcado** e entras sem fila; a bilheteira funciona, mas na época alta há espera.
 - **Horário:** de terça a domingo, das **10:00 às 19:00**, até às 20:00 no verão.
-- **Fecha às segundas-feiras**, exceto em julho, agosto e pontes; a 25 de dezembro e 1 de janeiro, sempre.
+- **Fecha às segundas-feiras**, exceto no verão (de 15 de junho a 7 de setembro), na Páscoa e em alguns feriados; a 25 de dezembro e 1 de janeiro, sempre.
 - **Melhor momento:** logo de manhã num dia útil ou a partir das 17:00. Ao sábado ao meio-dia há mais gente.
 - **Bengaleiro:** gratuito e obrigatório para mochilas e guarda-chuvas. Pode entrar-se com carrinho de bebé.
 

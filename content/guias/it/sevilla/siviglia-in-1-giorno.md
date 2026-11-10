@@ -6,7 +6,7 @@ respuestaCorta: 'Siviglia in 1 giorno da Madrid funziona se prendi il **primo AV
 categoria: "sevilla"
 slug: "siviglia-in-1-giorno"
 fecha: "2026-03-15"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -69,7 +69,7 @@ Il palazzo reale ancora in uso più antico d'Europa e il monumento simbolo. **Bi
 
 ### 2. Cattedrale e Giralda (12:30-14:00)
 
-La cattedrale gotica più grande del mondo, la tomba di Colombo, il Patio de los Naranjos dell'antica moschea e la salita alla Giralda **su rampe** (si saliva a cavallo). Biglietto combinato con la chiesa del Salvador: **20 € online o 21 € in biglietteria**, gratis sotto i 13 anni. Compra online: a mezzogiorno la coda arriva a mezz'ora.
+La cattedrale gotica più grande del mondo, la tomba di Colombo, il Patio de los Naranjos dell'antica moschea e la salita alla Giralda **su rampe** (si saliva a cavallo). Biglietto combinato con la chiesa del Salvador: **13 € online o 14 € in biglietteria**, gratis sotto i 13 anni. Compra online: a mezzogiorno la coda arriva a mezz'ora.
 
 ### 3. Plaza de España (15:30-17:00)
 

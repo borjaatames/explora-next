@@ -5,7 +5,7 @@ metaTitle: 'Kathedrale Sevilla Tickets: Preis und Giralda'
 categoria: sevilla
 slug: kathedrale-sevilla-giralda-tickets-ausverkauft
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -29,7 +29,7 @@ slugs:
   pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
 intro: 'Bevor du **Kathedrale Sevilla Tickets** suchst, lohnt sich ein Blick hinein: die **größte gotische Kathedrale der Welt**, errichtet über der almohadischen Moschee, mit dem Hauptaltar, dem Chorgestühl, dem Grabmal von Christoph Kolumbus und dem Patio de los Naranjos. Das Ticket umfasst den Aufstieg auf die **Giralda**, über Rampen, und die Kirche El Salvador. Sie liegt gegenüber dem Real Alcázar, der Besuch dauert **1 Std. 30 Min.**'
-respuestaCorta: 'Kathedrale Sevilla Tickets kosten **13 € online und 14 € an der Kasse**, Giralda inklusive. Ist die Website ausverkauft, verkauft die **Kasse an der Puerta del Príncipe** bis 18:00 Uhr, mit begrenzter Kapazität. Ohne Umtausch und Erstattung ist am sichersten ein **Wiederverkaufsticket** (ab 17,50 €) oder eine **Führung mit Eintritt**.'
+respuestaCorta: 'Kathedrale Sevilla Tickets kosten **13 € online und 14 € an der Kasse**, Giralda inklusive. Ist die Website ausverkauft, verkauft die **Kasse an der Puerta del Príncipe** bis 17:00 Uhr (sonntags bis 18:00 Uhr), mit begrenzter Kapazität. Ohne Umtausch und Erstattung ist am sichersten ein **Wiederverkaufsticket** (ab 17,50 €) oder eine **Führung mit Eintritt**.'
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
   - catedral-giralda-sevilla-visita-privada-guia-entradas
@@ -40,7 +40,7 @@ faq:
 - pregunta: Was kostet der Eintritt in die Kathedrale von Sevilla und die Giralda?
   respuesta: Der normale Eintritt kostet 13 € online und 14 € an der Kasse (ermäßigt 7 € und 8 €) und umfasst den Aufstieg auf die Giralda und die Kirche El Salvador. Die Dachführung kostet 20 € online und 21 € an der Kasse.
 - pregunta: Kann man Kathedralen-Tickets am selben Tag an der Kasse kaufen?
-  respuesta: 'Ja. Die Kasse liegt an der Puerta del Príncipe und schließt um 18:00 Uhr. Der normale Eintritt kostet dort 14 €, einen Euro mehr als online. Die Kapazität von Kathedrale und Giralda ist begrenzt, an vollen Tagen gibt es also keine Garantie: Komm früh.'
+  respuesta: 'Ja. Die Kasse liegt an der Puerta del Príncipe und schließt montags bis samstags um 17:00 Uhr, sonntags um 18:00 Uhr. Der normale Eintritt kostet dort 14 €, einen Euro mehr als online. Die Kapazität von Kathedrale und Giralda ist begrenzt, an vollen Tagen gibt es also keine Garantie: Komm früh.'
 - pregunta: Werden durch Stornierungen Tickets frei?
   respuesta: Kaum. Nach den Regeln der Kathedrale können Tickets weder erstattet noch auf ein anderes Datum umgebucht werden, außer der Besuch fällt wegen des Domkapitels selbst aus. Es tröpfeln also keine Stornierungen nach.
 - pregunta: Kann man die Kathedrale kostenlos besichtigen?
@@ -89,7 +89,7 @@ Was nicht funktioniert: auf Stornierungen warten. Nach den Regeln der Kathedrale
 
 ## Kasse und Kathedrale Sevilla kostenlos am Sonntag
 
-Die Kasse liegt an der **Puerta del Príncipe** und schließt um **18:00 Uhr**, eine Stunde vor der Kirche. Wer online kauft, geht durch die **Puerta del Lagarto** hinein. Die Kapazität ist begrenzt, an vollen Tagen gibt es keine Garantie: Je früher du da bist, desto besser.
+Die Kasse liegt an der **Puerta del Príncipe** und schließt montags bis samstags um **17:00 Uhr** und sonntags um **18:00 Uhr**, eine Stunde vor Ende der Besichtigung. Wer online kauft, geht durch die **Puerta del Lagarto** hinein. Die Kapazität ist begrenzt, an vollen Tagen gibt es keine Garantie: Je früher du da bist, desto besser.
 
 **Sonntags ist der Eintritt frei**, je nach liturgischem Kalender. Die Tickets holt man **persönlich an der Kasse der Puerta del Príncipe ab 17:00 Uhr** bis zur Schließung ab, mit begrenzter Kapazität, und man kann sie nicht online reservieren. Wenn du an einem Sonntag da bist, versuch es, aber plan nicht damit.
 

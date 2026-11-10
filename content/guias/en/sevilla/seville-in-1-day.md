@@ -4,7 +4,7 @@ descripcion: "How to make the most of one day in Seville from Madrid by AVE: Alc
 categoria: "sevilla"
 slug: "seville-in-1-day"
 fecha: "2026-03-15"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -68,7 +68,7 @@ The oldest royal palace still in use in Europe and the star monument. **An onlin
 
 ### 2. Cathedral and Giralda (12:30-14:00)
 
-The largest Gothic cathedral in the world, Columbus's tomb, the Patio de los Naranjos from the old mosque and the climb up the Giralda **by ramp** (it was built to be climbed on horseback). Combined ticket with the Church of El Salvador: **€20 online or €21 at the ticket office**, free for under-13s. Buy online: the midday queue reaches half an hour.
+The largest Gothic cathedral in the world, Columbus's tomb, the Patio de los Naranjos from the old mosque and the climb up the Giralda **by ramp** (it was built to be climbed on horseback). Combined ticket with the Church of El Salvador: **€13 online or €14 at the ticket office**, free for under-13s. Buy online: the midday queue reaches half an hour.
 
 ### 3. Plaza de España (15:30-17:00)
 

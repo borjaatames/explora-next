@@ -4,7 +4,7 @@ descripcion: 'Se il sito ufficiale di La Pedrera (Casa Milà) non ha posti: altr
 categoria: barcelona
 slug: la-pedrera-biglietti-esauriti
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -74,14 +74,14 @@ La vendita ufficiale è su lapedrera.com, che rimanda a tickets.lapedrera.com, c
 - **Sunrise** (visita guidata al mattino presto) e **Night Experience** (di notte): **39,50 €** ciascuna.
 - **Assicurazione di flessibilità:** 1,90 €. Senza, i biglietti non ammettono cambi né rimborsi.
 
-**Orario:** fino al 1° novembre, **9:00-20:30**; dal 2 novembre, **9:00-18:30**. Chiuso il **25 dicembre** e dall'**11 al 17 gennaio 2027**.
+**Orario:** **9:00-18:30** in inverno (dal 2 novembre); dal 26 dicembre al 3 gennaio, **9:00-20:30** (il 1° gennaio, 11:00-20:30). Chiuso il **25 dicembre** e dall'**11 al 17 gennaio 2027**.
 
 ## La Pedrera esaurita: cosa fare
 
 Nei ponti, a Pasqua e d'estate le ore centrali si riempiono presto. Se la tua fascia è esaurita, prova in quest'ordine:
 
 1. **Controlla tutte le fasce del giorno.** Il pomeriggio di solito c'è più posto che a metà mattina.
-2. **Guarda La Pedrera Sunset:** la stessa visita al tramonto, dalle 17:30 alle 20:30, da **25 €**. Il sito ufficiale la offre fino al 1° novembre.
+2. **Prova un'altra fascia lo stesso giorno:** in inverno la visita diurna va dalle 9:00 alle 18:30, e le prime e le ultime ore hanno spesso posto. La Pedrera Sunset (al tramonto, da **25 €**) c'è solo in alta stagione: l'ultima fino al 1° novembre.
 3. **Compra l'Open Date:** è la più cara, ma non dipende da una fascia precisa.
 4. **Cambia giorno se puoi:** con lo sconto per l'anticipo, un'altra data può costare anche meno.
 5. **Ricorri a un biglietto di rivendita o a un tour con ingresso incluso.** I rivenditori autorizzati hanno spesso posti perché comprano contingenti in anticipo; di solito si paga un po' di più. C'è il biglietto con orario e audioguida da 29 €, il tour guidato con accesso anticipato da 39,50 €, il tour delle tre case di Gaudí (Casa Vicens, Casa Milà e Casa Batlló) da 119 € e un tour privato de La Pedrera e della Casa Vicens da 156 €.
@@ -95,7 +95,7 @@ Prima di pagare, verifica che ci sia scritto **«ingresso a La Pedrera incluso»
 Se il giorno è pieno, prova gli estremi:
 
 - **La Pedrera Sunrise:** visita guidata di gruppo dalle **8:00 alle 9:00**, prima che entri il pubblico generale, con cortili, appartamento, sottotetto e terrazza. **39,50 €**; la guida parla inglese o cinese.
-- **La Pedrera Night Experience:** visita guidata notturna di **1 ora e 20 minuti** con videomapping sulla terrazza e un calice di cava, a **39,50 €**. Le sessioni vanno dalle **20:40 alle 22:20** fino al 1° novembre e dalle **19:00 alle 23:00** dal 2 novembre. Guida in catalano, spagnolo, inglese e cinese.
+- **La Pedrera Night Experience:** visita guidata notturna di **1 ora e 20 minuti** con videomapping sulla terrazza e un calice di cava, a **39,50 €**. In inverno le sessioni vanno dalle **19:00 alle 23:00**, e dal 26 dicembre al 3 gennaio dalle **21:00 alle 23:00**. Guida in catalano, spagnolo, inglese e cinese.
 
 ## La Pedrera in biglietteria lo stesso giorno
 

@@ -7,7 +7,7 @@ respuestaCorta: 'Para o **Caminito del Rey**, compra o bilhete no site oficial c
 categoria: "malaga"
 slug: "caminito-del-rey-como-visitar"
 fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -71,7 +71,7 @@ Se o site oficial já aparece esgotado, no guia [o que fazer se os bilhetes do C
 
 ## Horários, idades e regras
 
-- **Horário:** de terça a domingo, com entradas de meia em meia hora das **9:00 às 14:50 ou 17:20**, conforme a época. **Fecha às segundas** e nos dias de vento forte ou chuva intensa; nesse caso podes mudar a data na tua área pessoal, conforme disponibilidade.
+- **Horário:** de terça a domingo, com entradas de meia em meia hora das **9:00 às 14:50 ou 17:20**, conforme a época. **Fecha às segundas** (exceto algumas aberturas excecionais: veja o calendário de reservas) e nos dias de vento forte ou chuva intensa; nesse caso podes mudar a data na tua área pessoal, conforme disponibilidade.
 - **Idade mínima: 8 anos**, sem exceções (leva documento), e os menores sempre acompanhados. Não há limite superior, mas são 7,7 km sem bancos nem sombra.
 - **Tempo total:** 3-4 horas contando os acessos a pé (1,5-2,7 km desde cada parque, conforme a entrada) e o shuttle.
 - **Capacete obrigatório** (dão-no lá) e **calçado fechado**. Proibido entrar com guarda-chuvas, bastões com ponta metálica, drones e animais.

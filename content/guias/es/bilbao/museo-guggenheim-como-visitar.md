@@ -2,11 +2,11 @@
 titulo: "Museo Guggenheim de Bilbao: cómo visitarlo (entradas y consejos)"
 descripcion: "Guía para visitar el Guggenheim de Bilbao: entradas y horarios, qué ver dentro y fuera (Puppy, Maman, Serra), cuánto tiempo dedicar y mejores trucos."
 intro: 'El **Museo Guggenheim Bilbao** es la obra de titanio de Frank Gehry que, desde 1997, convirtió una ciudad industrial en icono mundial del diseño. Fuera, gratis, esperan **Puppy**, **Maman** y la escultura de niebla; dentro, el gran atrio, *La materia del tiempo* de Richard Serra y exposiciones temporales de primer nivel. Está a 20 minutos a pie del Casco Viejo y la visita interior lleva **2-2,5 horas**.'
-respuestaCorta: 'El exterior del **Museo Guggenheim Bilbao** es gratis: **Puppy, Maman y el titanio** lucen mejor al atardecer. Dentro, calcula **2-2,5 horas** y no te pierdas a Richard Serra. La entrada cuesta **entre 12 y 18 € según las exposiciones** (gratis menores de 18, audioguía incluida) y se compra online con franja. Cierra los lunes salvo en julio, agosto y puentes.'
+respuestaCorta: 'El exterior del **Museo Guggenheim Bilbao** es gratis: **Puppy, Maman y el titanio** lucen mejor al atardecer. Dentro, calcula **2-2,5 horas** y no te pierdas a Richard Serra. La entrada cuesta **entre 12 y 18 € según las exposiciones** (gratis menores de 18, audioguía incluida) y se compra online con franja. Cierra los lunes salvo en verano (del 15 de junio al 7 de septiembre), Semana Santa y algunos festivos.'
 categoria: "bilbao"
 slug: "museo-guggenheim-como-visitar"
 fecha: "2026-03-24"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -39,7 +39,7 @@ faq:
 - pregunta: ¿Se puede ver el Guggenheim gratis?
   respuesta: 'El exterior, sí: el edificio de Gehry, Puppy de Jeff Koons, Maman de Louise Bourgeois, Tulips, El gran árbol y el ojo de Anish Kapoor y la escultura de niebla se ven sin pagar. Las salas son de pago.'
 - pregunta: ¿Qué día cierra el Guggenheim?
-  respuesta: Cierra los lunes, salvo en julio, agosto y puentes, y siempre el 25 de diciembre y el 1 de enero. Comprueba el calendario del museo antes de ir un lunes.
+  respuesta: Cierra los lunes, salvo en verano (del 15 de junio al 7 de septiembre), Semana Santa y algunos festivos, y siempre el 25 de diciembre y el 1 de enero. Comprueba el calendario del museo antes de ir un lunes.
 - pregunta: ¿Cómo se llega al Guggenheim?
   respuesta: En metro hasta Moyua (L1 y L2) y 7 minutos a pie, o en tranvía hasta la parada Guggenheim, en la puerta. Desde el Casco Viejo son 20 minutos andando por la ría.
 ---
@@ -72,7 +72,7 @@ La mejor hora para el exterior es el **atardecer**, cuando el titanio se tiñe d
 - **Entrada general:** entre **12 y 18 €** según las exposiciones (12 € en octubre de 2026), con audioguía incluida. Reducida para estudiantes y mayores de 65. **Menores de 18, gratis.**
 - **Compra online con franja horaria** y entras sin cola; la taquilla funciona, pero en temporada tiene espera.
 - **Horario:** de martes a domingo de **10:00 a 19:00**, hasta las 20:00 en verano.
-- **Cierra los lunes**, salvo en julio, agosto y puentes; el 25 de diciembre y el 1 de enero, siempre.
+- **Cierra los lunes**, salvo en verano (del 15 de junio al 7 de septiembre), Semana Santa y algunos festivos; el 25 de diciembre y el 1 de enero, siempre.
 - **Mejor momento:** a primera hora entre semana o a partir de las 17:00. Los sábados a mediodía es cuando más gente hay.
 - **Consigna:** gratuita y obligatoria para mochilas y paraguas. Se puede entrar con carrito de bebé.
 

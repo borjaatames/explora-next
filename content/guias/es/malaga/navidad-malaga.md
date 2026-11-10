@@ -4,7 +4,7 @@ descripcion: "Navidad en Málaga 2026: pases de luces en calle Larios a las 18:3
 categoria: "malaga"
 slug: "navidad-malaga"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -103,6 +103,7 @@ Para no tener que elegir bar, el **tour de vino y tapas** recorre cuatro locales
 **Monumentos en festivos:**
 
 - **Museo Picasso:** el 24 y el 31 de diciembre y el 5 de enero, de 10:00 a 15:00; **cierra el 25 de diciembre y el 1 y el 6 de enero**. El resto de noviembre a febrero, de 10:00 a 18:00; 13 €, gratis los domingos en las dos últimas horas.
+- **Alcazaba y Castillo de Gibralfaro:** cierran el 24, el 25 y el 31 de diciembre y el 1 de enero. El resto del invierno abren de 9:00 a 18:00 (comprobado en su web oficial el 10 de noviembre de 2026).
 - **Alcazaba:** de noviembre a marzo, de 9:00 a 18:00 (última entrada a las 17:00); 7 €, o 10 € con el castillo de Gibralfaro, y **gratis los domingos desde las 14:00**. Los festivos no aparecen en su web: confirma antes de subir.
 
 ## La playa en invierno y un día de excursión
@@ -116,4 +117,4 @@ Si tienes un día libre, en invierno la **Alhambra** se visita sin calor (hay ex
 - **Ir el 24 o el 31 a ver el espectáculo de Larios:** esas noches no hay música.
 - **Llegar al pase de las 20:30 un sábado:** es el más lleno.
 - **Ir en coche al centro en diciembre:** los aparcamientos de la zona de Larios se llenan cada tarde. Mejor a pie, en bus o en metro.
-- **Dar por hecho que todo abre el 25, el 1 y el 6:** el Museo Picasso cierra los tres días.
+- **Dar por hecho que todo abre el 25, el 1 y el 6:** el Museo Picasso cierra los tres días, y la Alcazaba y Gibralfaro también cierran el 24, el 25, el 31 y el 1.

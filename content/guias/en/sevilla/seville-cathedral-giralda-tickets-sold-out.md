@@ -5,7 +5,7 @@ metaTitle: 'Seville Cathedral tickets: price and Giralda'
 categoria: sevilla
 slug: seville-cathedral-giralda-tickets-sold-out
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -29,7 +29,7 @@ slugs:
   pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
 intro: 'Before looking for **Seville Cathedral tickets**, it''s worth knowing what''s inside: the **largest Gothic cathedral in the world**, built on the site of the Almohad mosque, with the high altarpiece, the choir stalls, the tomb of Christopher Columbus and the Patio de los Naranjos. The ticket includes the climb up the **Giralda**, by ramps, and the Church of El Salvador. It stands opposite the Real Alcázar and the visit takes **1 h 30**.'
-respuestaCorta: 'Seville Cathedral tickets cost **€13 online and €14 at the ticket office**, Giralda included. If the website is sold out, the **Puerta del Príncipe ticket office** sells until 18:00, with limited capacity. There are no changes or refunds, so the safest bet is a **resale ticket** (from €17.50) or a **guided tour with entry**.'
+respuestaCorta: 'Seville Cathedral tickets cost **€13 online and €14 at the ticket office**, Giralda included. If the website is sold out, the **Puerta del Príncipe ticket office** sells until 17:00 (18:00 on Sundays), with limited capacity. There are no changes or refunds, so the safest bet is a **resale ticket** (from €17.50) or a **guided tour with entry**.'
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
   - catedral-giralda-sevilla-visita-privada-guia-entradas
@@ -40,7 +40,7 @@ faq:
 - pregunta: How much is a ticket to Seville Cathedral and the Giralda?
   respuesta: General admission is €13 online and €14 at the ticket office (reduced €7 and €8), and includes the climb up the Giralda and the Church of El Salvador. The guided rooftop tour costs €20 online and €21 at the ticket office.
 - pregunta: Can I buy Cathedral tickets at the ticket office on the same day?
-  respuesta: 'Yes. The ticket office is at the Puerta del Príncipe and closes at 18:00. General admission costs €14 there, one euro more than online. Capacity in the Cathedral and the Giralda is limited, so on busy days there''s no guarantee of a space: go early.'
+  respuesta: 'Yes. The ticket office is at the Puerta del Príncipe and closes at 17:00 Monday to Saturday and 18:00 on Sundays. General admission costs €14 there, one euro more than online. Capacity in the Cathedral and the Giralda is limited, so on busy days there''s no guarantee of a space: go early.'
 - pregunta: Are tickets released through cancellations?
   respuesta: Hardly ever. Under the Cathedral's rules, tickets can't be refunded or changed to another date unless the visit can't take place because of the Chapter itself. So there's no trickle of cancellations to watch for.
 - pregunta: Can you visit the Cathedral for free?
@@ -89,7 +89,7 @@ What doesn't work: waiting for cancellations. Under the Cathedral's rules, ticke
 
 ## Seville Cathedral ticket office and free entry on Sundays
 
-The ticket office is at the **Puerta del Príncipe** and closes at **18:00**, an hour before the building. If you buy online you go in through the **Puerta del Lagarto**. Capacity is limited, so on busy days there's no guarantee: the earlier you arrive, the better.
+The ticket office is at the **Puerta del Príncipe** and closes at **17:00** Monday to Saturday and **18:00** on Sundays, an hour before the visit ends. If you buy online you go in through the **Puerta del Lagarto**. Capacity is limited, so on busy days there's no guarantee: the earlier you arrive, the better.
 
 **Seville Cathedral free entry on Sundays:** there's free access, subject to the liturgical calendar. Tickets are collected **in person at the Puerta del Príncipe ticket office from 17:00** until closing, with limited capacity, and can't be booked online. If you're there on a Sunday, try it, but don't make it your plan.
 

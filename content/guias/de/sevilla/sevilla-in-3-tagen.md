@@ -4,7 +4,7 @@ descripcion: "Ehrlicher 3-Tage-Guide für Sevilla: Alcázar, Kathedrale, Triana 
 categoria: "sevilla"
 slug: "sevilla-in-3-tagen"
 fecha: "2026-04-28"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -63,7 +63,7 @@ faq:
 
 [actividad: real-alcazar-sevilla-entrada]
 
-**12:30 Uhr — Kathedrale und Giralda**, direkt gegenüber. Die größte gotische Kathedrale der Welt, das Grab des Kolumbus, der Hauptaltar und die Sakristei mit Murillo und Zurbarán. Auf die Giralda steigt man über Rampen, nicht über Treppen, und sie bietet den besten Blick über das Zentrum. Kombiticket mit der Iglesia del Salvador, **20 € online** (kostenlos unter 13 Jahren). Rechne mit 1,5 bis 2 Stunden.
+**12:30 Uhr — Kathedrale und Giralda**, direkt gegenüber. Die größte gotische Kathedrale der Welt, das Grab des Kolumbus, der Hauptaltar und die Sakristei mit Murillo und Zurbarán. Auf die Giralda steigt man über Rampen, nicht über Treppen, und sie bietet den besten Blick über das Zentrum. Kombiticket mit der Iglesia del Salvador, **13 € online** (kostenlos unter 13 Jahren). Rechne mit 1,5 bis 2 Stunden.
 
 **14:00 Uhr — Mittagessen.** Nicht auf den Terrassen der Plaza Virgen de los Reyes oder in der Mateos Gago: fünf Minuten bis zum Arenal oder hinüber in die Calle Pureza in Triana.
 

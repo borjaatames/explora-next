@@ -4,7 +4,7 @@ descripcion: "Navidad en Valencia 2026: piromusicales los sábados a las 18:30 e
 categoria: "valencia"
 slug: "navidad-valencia"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -97,6 +97,21 @@ Lo más valenciano son los **piromusicales de los sábados a las 18:30**: tres m
 - **Campanadas en la Plaza del Ayuntamiento:** en 2025 hubo campanadas infantiles por la tarde y fiesta por la noche.
 - **Llegada de los Reyes (5 de enero):** en 2026 desembarcaron a las **16:30** en la Plaza de la Sal de la Marina Norte.
 - **Cabalgata:** a las **17:30** desde el Puente de las Flores, por Porta de la Mar, General Tovar, la calle de la Paz, la Plaza de la Reina y San Vicente, hasta la Plaza del Ayuntamiento. La calle de la Paz es estrecha: para ver bien, mejor la zona de **Porta de la Mar**.
+
+## Qué abre y qué cierra en Valencia el 24, 25 y 31 de diciembre y el 1 de enero
+
+| Sitio | 24 y 31 de diciembre | 25 de diciembre | 1 de enero |
+| --- | --- | --- | --- |
+| Oceanogràfic | 10:00–16:00 | 12:00–18:00 | Abierto |
+| Museu de les Ciències | Abierto | Cerrado | Abierto |
+| Lonja de la Seda | Puede tener horario especial | Cerrada | Cerrada |
+| Expojove | Solo el 31: 10:00–14:00 | Aún no ha empezado | 16:00–21:00 |
+
+- **El Oceanogràfic abre todos los días del año**, también el 25: es el plan más seguro para un festivo con niños. Compra la entrada online, porque esos días se llena.
+- **La Lonja de la Seda** también cierra el 6 de enero; el resto de días festivos abre de 10:00 a 14:00.
+- **Tiendas y restaurantes:** el 24 y el 31 cierran a media tarde, y el 25 y el 1 abren pocos. Reserva la cena con tiempo.
+
+*Horarios comprobados en las webs oficiales el 10 de noviembre de 2026. Los de la Ciutat de les Arts i les Ciències pueden cambiar: confírmalos en cac.es antes de ir.*
 
 ## Qué hacer en Valencia en Navidad: una tarde y consejos
 

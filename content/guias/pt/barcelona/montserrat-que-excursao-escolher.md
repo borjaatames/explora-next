@@ -7,7 +7,7 @@ respuestaCorta: 'Para uma excursão a Montserrat de meio dia, o **grupo pequeno 
 categoria: "barcelona"
 slug: "montserrat-que-excursao-escolher"
 fecha: "2026-09-20"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -77,7 +77,7 @@ opciones:
 
 - **A Moreneta** visita-se gratuitamente por um corredor lateral da basílica, das **8h00 às 10h30** e das **12h00 às 18h25**. Na época alta, a fila é de 30-60 minutos; os tours com acesso antecipado evitam-na.
 - **A Escolania** costuma cantar o Salve e o Virolai às **13h00 de segunda a sexta** e na missa das **11h00 ao domingo**; normalmente não canta ao sábado. É preciso reservar, e o calendário muda com feriados e digressões do coro: confirme em escolania.cat e escolha uma excursão que lá esteja a essa hora.
-- **Os funiculares:** o de **Sant Joan** sobe aos trilhos com vista (10 minutos e depois uma caminhada fácil de 1 hora até à ermida); o da **Santa Cova** desce à gruta da Virgem. Estão incluídos no Trans Montserrat, mas não na maioria dos tours, e fecham com vento forte.
+- **Os funiculares:** o de **Sant Joan** sobe aos trilhos com vista (10 minutos e depois uma caminhada fácil de 1 hora até à ermida); o da **Santa Cova**, que descia à gruta da Virgem, está fora de serviço até nova ordem (à gruta chega-se a pé). O de Sant Joan está incluído no Trans Montserrat, mas não na maioria dos tours, e fecha com vento forte.
 - **Tempo necessário:** meio dia só para a basílica e a Moreneta; o dia inteiro se subir a Sant Joan.
 
 ## Ir por conta própria, clima e comida

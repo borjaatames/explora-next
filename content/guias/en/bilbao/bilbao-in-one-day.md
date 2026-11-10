@@ -2,11 +2,11 @@
 titulo: "Bilbao in one day: Guggenheim, Old Town and pintxos"
 descripcion: "What to see in Bilbao in one day: Guggenheim Museum, Old Town, La Ribera Market and Artxanda. An hour-by-hour walking route, where to eat pintxos and Gaztelugatxe nearby."
 intro: '**What to see in Bilbao** fits into one well-used day: the city went from industrial grey to design icon and is best explored on foot along the river. On one side, Gehry''s titanium **Guggenheim**; on the other, the medieval **Seven Streets** of the Old Town, La Ribera Market and one of Europe''s best **pintxo** bar scenes. To finish, the Artxanda funicular, with the whole city framed by mountains.'
-respuestaCorta: '**What to see in Bilbao** in a day, on foot along the river: the **Guggenheim** (online timed ticket; closed on Mondays except in July and August), the Old Town and the **Seven Streets**, **pintxos in the Plaza Nueva**, La Ribera Market and the **Artxanda funicular** at sunset. With more time, Gaztelugatxe is half an hour away.'
+respuestaCorta: '**What to see in Bilbao** in a day, on foot along the river: the **Guggenheim** (online timed ticket; closed on Mondays except in summer (15 June to 7 September), Easter and some public holidays), the Old Town and the **Seven Streets**, **pintxos in the Plaza Nueva**, La Ribera Market and the **Artxanda funicular** at sunset. With more time, Gaztelugatxe is half an hour away.'
 categoria: "bilbao"
 slug: "bilbao-in-one-day"
 fecha: "2026-03-13"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -39,7 +39,7 @@ faq:
 - pregunta: Can you see Bilbao in one day?
   respuesta: Yes. On foot along the river there's time for the Guggenheim in the morning, the Old Town and the Seven Streets, pintxos in the Plaza Nueva, La Ribera Market and the Ensanche, and the Artxanda funicular at sunset.
 - pregunta: How much is a ticket to the Guggenheim Bilbao?
-  respuesta: €18 with audio guide, free for under-18s. It's best to buy online with a time slot, as there's a queue at the ticket office. Open Tuesday to Sunday from 10:00 to 19:00 (20:00 in summer) and closed on Mondays except in July and August. Allow two and a half hours inside.
+  respuesta: €12 with audio guide, free for under-18s. It's best to buy online with a time slot, as there's a queue at the ticket office. Open Tuesday to Sunday from 10:00 to 19:00 (20:00 in summer) and closed on Mondays except in summer (15 June to 7 September), Easter and some public holidays. Allow two and a half hours inside.
 - pregunta: Where to eat pintxos in Bilbao?
   respuesta: Bar-hopping (txikiteo) around the Plaza Nueva, the Old Town and the Ensanche. Try the Gilda, bacalao al pil-pil or a la vizcaína, txuleta, marmitako and kokotxas, with txakoli or a Rioja Alavesa, and ask for the board of hot pintxos.
 - pregunta: Do you need to book to visit Gaztelugatxe?
@@ -59,7 +59,7 @@ faq:
 
 ## Guggenheim Museum: prices and opening hours
 
-- **Guggenheim:** €18 with audio guide, free for under-18s. Buy online with a time slot: there's a queue at the ticket office. Tuesday to Sunday, 10:00 to 19:00 (20:00 in summer); **closed on Mondays**, except in July and August.
+- **Guggenheim:** €12 with audio guide, free for under-18s. Buy online with a time slot: there's a queue at the ticket office. Tuesday to Sunday, 10:00 to 19:00 (20:00 in summer); **closed on Mondays**, except in summer (15 June to 7 September), Easter and some public holidays.
 
 [actividad: guggenheim-bilbao-visita-guiada-entrada]
 

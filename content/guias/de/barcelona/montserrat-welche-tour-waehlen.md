@@ -5,7 +5,7 @@ metaTitle: 'Montserrat Ausflug ab Barcelona im Vergleich'
 categoria: "barcelona"
 slug: "montserrat-welche-tour-waehlen"
 fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -77,7 +77,7 @@ faq:
 
 - **Die Moreneta** besuchst du kostenlos über einen Seitengang der Basilika, von **8:00 bis 10:30 Uhr** und von **12:00 bis 18:25 Uhr**. In der Saison dauert die Schlange 30-60 Minuten; Touren mit frühem Einlass umgehen sie.
 - **Die Escolania** singt meist das Salve und das Virolai um **13:00 Uhr von Montag bis Freitag** und in der Messe um **11:00 Uhr am Sonntag**; samstags normalerweise nicht. Man muss reservieren, und der Kalender ändert sich mit Feiertagen und Chorreisen: Prüf ihn auf escolania.cat und wähl einen Ausflug, der zu dieser Zeit dort ist.
-- **Die Standseilbahnen:** **Sant Joan** fährt zu den Wanderwegen mit Aussicht (10 Minuten, danach ein leichter Spaziergang von 1 Stunde zur Einsiedelei); **Santa Cova** fährt hinunter zur Höhle der Jungfrau. Sie sind im Trans Montserrat enthalten, bei den meisten Touren aber nicht, und schließen bei starkem Wind.
+- **Die Standseilbahnen:** **Sant Joan** fährt zu den Wanderwegen mit Aussicht (10 Minuten, danach ein leichter Spaziergang von 1 Stunde zur Einsiedelei); die **Santa Cova**, die zur Höhle der Jungfrau hinunterfuhr, ist bis auf Weiteres außer Betrieb (zur Höhle kommst du zu Fuß). Die Sant-Joan-Bahn ist im Trans Montserrat enthalten, bei den meisten Touren aber nicht, und schließt bei starkem Wind.
 - **Benötigte Zeit:** ein halber Tag nur für Basilika und Moreneta; der ganze Tag, wenn du nach Sant Joan hinauffährst.
 
 ## Auf eigene Faust, Wetter und Essen

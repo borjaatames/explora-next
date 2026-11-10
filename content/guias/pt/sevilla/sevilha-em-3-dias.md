@@ -6,7 +6,7 @@ respuestaCorta: 'Sevilha em 3 dias: **dia 1, o Real Alcázar** (15,50 € online
 categoria: "sevilla"
 slug: "sevilha-em-3-dias"
 fecha: "2026-04-28"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -63,7 +63,7 @@ faq:
 
 [actividad: real-alcazar-sevilla-entrada]
 
-**12:30 — Catedral e Giralda**, mesmo em frente. A maior catedral gótica do mundo, o túmulo de Colombo, o retábulo-mor e a sacristia com Murillo e Zurbarán. Sobe-se à Giralda por rampas, não por escadas, e é a melhor vista do centro. Bilhete conjunto com a igreja do Salvador, **20 € online** (grátis para menores de 13). Conte com 1 h 30 a 2 horas.
+**12:30 — Catedral e Giralda**, mesmo em frente. A maior catedral gótica do mundo, o túmulo de Colombo, o retábulo-mor e a sacristia com Murillo e Zurbarán. Sobe-se à Giralda por rampas, não por escadas, e é a melhor vista do centro. Bilhete conjunto com a igreja do Salvador, **13 € online** (grátis para menores de 13). Conte com 1 h 30 a 2 horas.
 
 **14:00 — Almoço.** Não nas esplanadas da plaza Virgen de los Reyes nem na Mateos Gago: cinco minutos até ao Arenal ou atravesse para a calle Pureza, em Triana.
 

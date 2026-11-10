@@ -6,7 +6,7 @@ respuestaCorta: 'Séville en 1 jour depuis Madrid, c''est possible avec le **pre
 categoria: "sevilla"
 slug: "seville-en-1-jour"
 fecha: "2026-03-15"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -69,7 +69,7 @@ Le plus ancien palais royal encore en usage d'Europe et le monument phare. **Bil
 
 ### 2. Cathédrale et Giralda (12 h 30-14 h)
 
-La plus grande cathédrale gothique du monde, le tombeau de Christophe Colomb, le Patio de los Naranjos de l'ancienne mosquée et la montée à la Giralda **par des rampes** (on y montait à cheval). Billet combiné avec l'église du Salvador : **20 € en ligne ou 21 € au guichet**, gratuit pour les moins de 13 ans. Achetez en ligne : la queue de midi atteint une demi-heure.
+La plus grande cathédrale gothique du monde, le tombeau de Christophe Colomb, le Patio de los Naranjos de l'ancienne mosquée et la montée à la Giralda **par des rampes** (on y montait à cheval). Billet combiné avec l'église du Salvador : **13 € en ligne ou 14 € au guichet**, gratuit pour les moins de 13 ans. Achetez en ligne : la queue de midi atteint une demi-heure.
 
 ### 3. Plaza de España (15 h 30-17 h)
 

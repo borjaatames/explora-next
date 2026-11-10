@@ -5,7 +5,7 @@ metaTitle: 'Entradas Catedral Sevilla y Giralda: precio'
 categoria: sevilla
 slug: catedral-sevilla-giralda-entradas-agotadas
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -29,7 +29,7 @@ slugs:
   pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
 intro: 'Antes de buscar **entradas a la Catedral de Sevilla**, conviene saber qué hay dentro: la **catedral gótica más grande del mundo**, levantada sobre la mezquita almohade, con el retablo mayor, la sillería del coro, el monumento funerario de Cristóbal Colón y el Patio de los Naranjos. La entrada incluye la subida a la **Giralda**, por rampas, y la Iglesia del Salvador. Está frente al Real Alcázar y la visita dura **1 h 30**.'
-respuestaCorta: 'Las entradas a la Catedral de Sevilla cuestan **13 € online y 14 € en taquilla**, con la Giralda incluida. Si la web sale agotada, la **taquilla de la Puerta del Príncipe** vende hasta las 18:00, con aforo limitado. Sin cambios ni devoluciones, lo más seguro es una **entrada de reventa** (desde 17,50 €) o una **visita guiada con entrada**.'
+respuestaCorta: 'Las entradas a la Catedral de Sevilla cuestan **13 € online y 14 € en taquilla**, con la Giralda incluida. Si la web sale agotada, la **taquilla de la Puerta del Príncipe** vende hasta las 17:00 (18:00 los domingos), con aforo limitado. Sin cambios ni devoluciones, lo más seguro es una **entrada de reventa** (desde 17,50 €) o una **visita guiada con entrada**.'
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
   - catedral-giralda-sevilla-visita-privada-guia-entradas
@@ -40,7 +40,7 @@ faq:
 - pregunta: ¿Cuánto cuesta la entrada a la Catedral de Sevilla y la Giralda?
   respuesta: La general cuesta 13 € online y 14 € en taquilla (reducida, 7 € y 8 €), e incluye la subida a la Giralda y la Iglesia del Salvador. La visita guiada a las cubiertas cuesta 20 € online y 21 € en taquilla.
 - pregunta: ¿Se pueden comprar entradas de la Catedral en la taquilla el mismo día?
-  respuesta: 'Sí. La taquilla está en la Puerta del Príncipe y cierra a las 18:00. La entrada general cuesta 14 € en taquilla, un euro más que online. El aforo de la Catedral y de la Giralda es limitado, así que en días de mucha demanda no hay garantía de que quede hueco: ve temprano.'
+  respuesta: 'Sí. La taquilla está en la Puerta del Príncipe y cierra a las 17:00 de lunes a sábado y a las 18:00 los domingos. La entrada general cuesta 14 € en taquilla, un euro más que online. El aforo de la Catedral y de la Giralda es limitado, así que en días de mucha demanda no hay garantía de que quede hueco: ve temprano.'
 - pregunta: ¿Se liberan entradas por cancelaciones?
   respuesta: Casi nunca. Según las normas de la Catedral, las entradas no admiten devolución ni cambio de fecha, salvo que la visita no se pueda hacer por causa del propio Cabildo. Por eso no hay un goteo de cancelaciones que vigilar.
 - pregunta: ¿Se puede visitar la Catedral gratis?
@@ -89,7 +89,7 @@ Lo que no sirve: esperar cancelaciones. Según las normas de la Catedral, las en
 
 ## Catedral de Sevilla: taquilla y domingos gratis
 
-La taquilla está en la **Puerta del Príncipe** y cierra a las **18:00**, una hora antes que el templo. Quien compra online entra por la **Puerta del Lagarto**. El aforo es limitado, así que en días fuertes no hay garantía: cuanto antes llegues, mejor.
+La taquilla está en la **Puerta del Príncipe** y cierra a las **17:00** de lunes a sábado y a las **18:00** los domingos, una hora antes que la visita. Quien compra online entra por la **Puerta del Lagarto**. El aforo es limitado, así que en días fuertes no hay garantía: cuanto antes llegues, mejor.
 
 **Catedral de Sevilla gratis el domingo:** hay acceso gratuito sujeto a la agenda litúrgica. Las entradas se recogen **en persona en la taquilla de la Puerta del Príncipe a partir de las 17:00** y hasta el cierre, con aforo limitado, y no se reservan online. Si te coincide un domingo, pruébalo, pero no lo tomes como plan.
 

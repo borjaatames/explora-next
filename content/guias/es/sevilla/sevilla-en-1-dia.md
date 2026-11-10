@@ -6,7 +6,7 @@ respuestaCorta: 'Sevilla en 1 día desde Madrid funciona si coges el **primer AV
 categoria: "sevilla"
 slug: "sevilla-en-1-dia"
 fecha: "2026-03-15"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -69,7 +69,7 @@ El palacio en uso más antiguo de Europa y el monumento estrella. **Entrada onli
 
 ### 2. Catedral y Giralda (12:30-14:00)
 
-La catedral gótica más grande del mundo, la tumba de Colón, el Patio de los Naranjos de la antigua mezquita y la subida a la Giralda **por rampa** (era para subir a caballo). Entrada conjunta con la iglesia del Salvador: **20 € online o 21 € en taquilla**, gratis para menores de 13. Compra online: la cola de mediodía llega a media hora.
+La catedral gótica más grande del mundo, la tumba de Colón, el Patio de los Naranjos de la antigua mezquita y la subida a la Giralda **por rampa** (era para subir a caballo). Entrada conjunta con la iglesia del Salvador: **13 € online o 14 € en taquilla**, gratis para menores de 13. Compra online: la cola de mediodía llega a media hora.
 
 ### 3. Plaza de España (15:30-17:00)
 

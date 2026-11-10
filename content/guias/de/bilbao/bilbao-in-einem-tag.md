@@ -4,7 +4,7 @@ descripcion: "Was man in Bilbao an einem Tag sieht: Guggenheim-Museum, Altstadt,
 categoria: "bilbao"
 slug: "bilbao-in-einem-tag"
 fecha: "2026-03-13"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -26,7 +26,7 @@ slugs:
   pt: bilbau-num-dia
 reservasArriba: true
 intro: '**Was sieht man in Bilbao** an einem Tag? Eine ganze Menge: Die Stadt wurde vom grauen Industriestandort zur Design-Ikone und lässt sich zu Fuß am Fluss entlang erkunden. Auf der einen Seite Gehrys **Guggenheim** aus Titan, auf der anderen die mittelalterlichen **Sieben Gassen** der Altstadt, der Mercado de la Ribera und eine der besten **Pintxos**-Theken Europas. Zum Abschluss die Standseilbahn Artxanda mit der ganzen Stadt zwischen den Bergen.'
-respuestaCorta: '**Was sieht man in Bilbao** an einem Tag, zu Fuß am Fluss: das **Guggenheim** (Online-Ticket mit Zeitfenster; montags geschlossen außer im Juli und August), die Altstadt mit den **Sieben Gassen**, **Pintxos auf der Plaza Nueva**, den Mercado de la Ribera und die **Standseilbahn Artxanda** bei Sonnenuntergang. Mit mehr Zeit: Gaztelugatxe, eine halbe Stunde entfernt.'
+respuestaCorta: '**Was sieht man in Bilbao** an einem Tag, zu Fuß am Fluss: das **Guggenheim** (Online-Ticket mit Zeitfenster; montags geschlossen außer im Sommer (15. Juni bis 7. September), an Ostern und an einigen Feiertagen), die Altstadt mit den **Sieben Gassen**, **Pintxos auf der Plaza Nueva**, den Mercado de la Ribera und die **Standseilbahn Artxanda** bei Sonnenuntergang. Mit mehr Zeit: Gaztelugatxe, eine halbe Stunde entfernt.'
 actividades:
   - tour-a-pie-casco-viejo-bilbao
   - guggenheim-bilbao-visita-guiada-entrada
@@ -39,7 +39,7 @@ faq:
 - pregunta: Kann man Bilbao an einem Tag sehen?
   respuesta: Ja. Zu Fuß am Fluss entlang reicht die Zeit für das Guggenheim am Vormittag, die Altstadt mit den Sieben Gassen, Pintxos auf der Plaza Nueva, den Mercado de la Ribera und das Ensanche sowie die Standseilbahn Artxanda bei Sonnenuntergang.
 - pregunta: Was kostet der Eintritt ins Guggenheim Bilbao?
-  respuesta: 18 € mit Audioguide, für unter 18-Jährige kostenlos. Am besten online mit Zeitfenster kaufen, denn an der Kasse gibt es Schlangen. Geöffnet Dienstag bis Sonntag von 10:00 bis 19:00 Uhr (im Sommer bis 20:00), montags geschlossen außer im Juli und August. Rechne mit zweieinhalb Stunden.
+  respuesta: 12 € mit Audioguide, für unter 18-Jährige kostenlos. Am besten online mit Zeitfenster kaufen, denn an der Kasse gibt es Schlangen. Geöffnet Dienstag bis Sonntag von 10:00 bis 19:00 Uhr (im Sommer bis 20:00), montags geschlossen außer im Sommer (15. Juni bis 7. September), an Ostern und an einigen Feiertagen. Rechne mit zweieinhalb Stunden.
 - pregunta: Wo isst man Pintxos in Bilbao?
   respuesta: Von Bar zu Bar (Txikiteo) rund um die Plaza Nueva, in der Altstadt und im Ensanche. Probier Gilda, Bacalao al pil-pil oder a la vizcaína, Txuleta, Marmitako und Kokotxas, dazu Txakoli oder einen Rioja Alavesa, und frag nach der Tafel mit warmen Pintxos.
 - pregunta: Muss man für Gaztelugatxe reservieren?
@@ -59,7 +59,7 @@ faq:
 
 ## Guggenheim-Museum: Preise und Öffnungszeiten
 
-- **Guggenheim:** 18 € mit Audioguide, für unter 18-Jährige kostenlos. Online mit Zeitfenster kaufen: An der Kasse gibt es Schlangen. Dienstag bis Sonntag 10:00 bis 19:00 Uhr (im Sommer bis 20:00); **montags geschlossen**, außer im Juli und August.
+- **Guggenheim:** 12 € mit Audioguide, für unter 18-Jährige kostenlos. Online mit Zeitfenster kaufen: An der Kasse gibt es Schlangen. Dienstag bis Sonntag 10:00 bis 19:00 Uhr (im Sommer bis 20:00); **montags geschlossen**, außer im Sommer (15. Juni bis 7. September), an Ostern und an einigen Feiertagen.
 
 [actividad: guggenheim-bilbao-visita-guiada-entrada]
 

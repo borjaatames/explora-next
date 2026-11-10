@@ -4,7 +4,7 @@ descripcion: "How to visit the Bilbao Guggenheim: tickets and hours, what to see
 categoria: "bilbao"
 slug: "guggenheim-museum-how-to-visit"
 fecha: "2026-03-24"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -25,7 +25,7 @@ slugs:
   it: museo-guggenheim-come-visitarlo
   pt: museu-guggenheim-como-visitar
 intro: 'The **Guggenheim Museum Bilbao** is Frank Gehry''s titanium building that, since 1997, has turned an industrial city into a world design icon. Outside, for free, you''ll find **Puppy**, **Maman** and the fog sculpture; inside, the great atrium, Richard Serra''s *The Matter of Time* and first-rate temporary exhibitions. It''s a 20-minute walk from the Old Town and the visit inside takes **2-2.5 hours**.'
-respuestaCorta: 'The outside of the **Guggenheim Museum Bilbao** is free: **Puppy, Maman and the titanium** look best at sunset. Inside, allow **2-2.5 hours** and don''t miss Richard Serra. Tickets cost **€12-18 depending on the exhibitions** (under-18s free, audio guide included) and are bought online with a time slot. Closed on Mondays except in July, August and long weekends.'
+respuestaCorta: 'The outside of the **Guggenheim Museum Bilbao** is free: **Puppy, Maman and the titanium** look best at sunset. Inside, allow **2-2.5 hours** and don''t miss Richard Serra. Tickets cost **€12-18 depending on the exhibitions** (under-18s free, audio guide included) and are bought online with a time slot. Closed on Mondays except in summer (15 June to 7 September), Easter and some public holidays.'
 reservasArriba: true
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
@@ -39,7 +39,7 @@ faq:
 - pregunta: Can you see the Guggenheim for free?
   respuesta: 'The outside, yes: Gehry''s building, Jeff Koons''s Puppy, Louise Bourgeois''s Maman, Tulips, Anish Kapoor''s Tall Tree & The Eye and the fog sculpture can all be seen without paying. The galleries are ticketed.'
 - pregunta: What day is the Guggenheim closed?
-  respuesta: It's closed on Mondays, except in July, August and on long weekends, and always on 25 December and 1 January. Check the museum's calendar before going on a Monday.
+  respuesta: It's closed on Mondays, except in summer (15 June to 7 September), Easter and some public holidays, and always on 25 December and 1 January. Check the museum's calendar before going on a Monday.
 - pregunta: How do you get to the Guggenheim?
   respuesta: By metro to Moyua (L1 and L2) and a 7-minute walk, or by tram to the Guggenheim stop, right at the door. From the Old Town it's a 20-minute walk along the estuary.
 ---
@@ -72,7 +72,7 @@ The best time for the outside is **sunset**, when the titanium turns golden and 
 - **Standard ticket:** **€12-18** depending on the exhibitions (€12 in October 2026), audio guide included. Reduced for students and over-65s. **Under-18s free.**
 - **Buy online with a time slot** and walk straight in; the box office works, but there's a wait in high season.
 - **Opening hours:** Tuesday to Sunday, **10:00 to 19:00**, until 20:00 in summer.
-- **Closed on Mondays**, except in July, August and long weekends; always closed on 25 December and 1 January.
+- **Closed on Mondays**, except in summer (15 June to 7 September), Easter and some public holidays; always closed on 25 December and 1 January.
 - **Best time:** first thing on a weekday or after 17:00. Saturday midday is the busiest.
 - **Cloakroom:** free and compulsory for backpacks and umbrellas. Pushchairs are allowed.
 

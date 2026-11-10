@@ -24,7 +24,7 @@ slugs:
   fr: montserrat-quelle-excursion-choisir
   it: montserrat-quale-escursione-scegliere
   pt: montserrat-que-excursao-escolher
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 reservasArriba: true
 intro: 'A **Montserrat day trip from Barcelona** takes you to the monastery mountain, with its basilica, **La Moreneta** (the Black Madonna), the **Escolania** boys'' choir and funiculars climbing to trails with views. There are five very different ways to do it, from a one-hour photo shoot to a full day with lunch and wine pairing. Half a day covers the basilica and the Moreneta; riding up to Sant Joan takes the whole day.'
 respuestaCorta: 'For a Montserrat day trip from Barcelona with half a day, the **small group from €59** arrives before the crowds. For a full day, **CastlExperience from €47** (6-10 hours, with a winery) is the cheapest, and the **Bages farmhouse (from €109)** adds lunch with wine pairing. On your own, the **Trans Montserrat** ticket costs from €50.'
@@ -77,7 +77,7 @@ opciones:
 
 - **La Moreneta** can be visited free through a side corridor of the basilica, from **8 to 10:30 AM** and from **12 to 6:25 PM**. In high season the queue is 30-60 minutes; early-access tours avoid it.
 - **The Escolania** usually sings the Salve and the Virolai at **1 PM Monday to Friday** and at the **11 AM Mass on Sundays**; it normally doesn't sing on Saturdays. You need to book, and the calendar changes with holidays and choir tours: check escolania.cat and choose a trip that's there at that time.
-- **The funiculars:** the **Sant Joan** funicular climbs to trails with views (10 minutes, then an easy 1-hour walk to the hermitage); the **Santa Cova** funicular goes down to the Virgin's cave. They're included in the Trans Montserrat but not in most tours, and they close in strong wind.
+- **The funiculars:** the **Sant Joan** funicular climbs to trails with views (10 minutes, then an easy 1-hour walk to the hermitage); the **Santa Cova** funicular, which went down to the Virgin's cave, is out of service until further notice (you can walk down to the cave). The Sant Joan one is included in the Trans Montserrat but not in most tours, and it closes in strong wind.
 - **Time needed:** half a day for just the basilica and the Moreneta; the whole day if you go up to Sant Joan.
 
 ## Going on your own, weather and food

@@ -5,7 +5,7 @@ metaTitle: 'Caminito del Rey: Tickets, Anreise, Tipps'
 categoria: "malaga"
 slug: "caminito-del-rey-besichtigen"
 fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -70,7 +70,7 @@ Ist die offizielle Website schon ausverkauft, bleibt noch ein Ausflug ab Málaga
 
 ## Öffnungszeiten, Alter und Regeln
 
-- **Öffnungszeiten:** Dienstag bis Sonntag, Einlass alle halbe Stunde von **9:00 bis 14:50 oder 17:20 Uhr**, je nach Saison. **Montags geschlossen**, ebenso bei starkem Wind oder heftigem Regen; dann kannst du das Ticket im Kundenbereich je nach Verfügbarkeit umbuchen.
+- **Öffnungszeiten:** Dienstag bis Sonntag, Einlass alle halbe Stunde von **9:00 bis 14:50 oder 17:20 Uhr**, je nach Saison. **Montags geschlossen** (außer an einigen Ausnahmetagen: sieh im Buchungskalender nach), ebenso bei starkem Wind oder heftigem Regen; dann kannst du das Ticket im Kundenbereich je nach Verfügbarkeit umbuchen.
 - **Mindestalter: 8 Jahre**, ohne Ausnahme (Ausweis mitnehmen), Minderjährige nur in Begleitung. Eine Altersgrenze nach oben gibt es nicht, aber es sind 7,7 km ohne Bänke und Schatten.
 - **Gesamtdauer:** 3-4 Stunden inklusive Zugangswege (1,5-2,7 km von jedem Parkplatz, je nach Eingang) und Shuttle.
 - **Helmpflicht** (gibt es vor Ort) und **geschlossene Schuhe**. Verboten sind Regenschirme, Stöcke mit Metallspitze, Drohnen und Haustiere.

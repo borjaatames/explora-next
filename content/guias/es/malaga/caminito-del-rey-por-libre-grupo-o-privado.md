@@ -4,7 +4,7 @@ descripcion: "Caminito del Rey por libre desde 12,50 € (entrada y lanzadera), 
 categoria: "malaga"
 slug: "caminito-del-rey-por-libre-grupo-o-privado"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -63,7 +63,7 @@ opciones:
 - **Grupo de 6:** privado con guía, 156 € por persona. Sigue siendo el doble que el grupo, pero sin horarios de autobús ni otros viajeros en el sendero.
 - **Presupuesto ajustado:** por libre en tren o coche, 12,50 € por persona entre entrada y lanzadera.
 
-El recorrido siempre cierra los lunes y está prohibido a menores de 8 años. Cómo es y qué llevar lo contamos en [cómo visitar el Caminito del Rey](/guias/malaga/caminito-del-rey-como-visitar).
+El recorrido cierra los lunes (salvo algunos que abre de forma excepcional) y está prohibido a menores de 8 años. Cómo es y qué llevar lo contamos en [cómo visitar el Caminito del Rey](/guias/malaga/caminito-del-rey-como-visitar).
 
 ## Caminito del Rey con guía o sin guía: precios por persona
 

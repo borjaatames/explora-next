@@ -4,7 +4,7 @@ descripcion: "Caminito del Rey por conta própria desde 12,50 € (bilhete e aut
 categoria: "malaga"
 slug: "caminito-del-rey-por-conta-propria-grupo-ou-privado"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -63,7 +63,7 @@ opciones:
 - **Grupo de 6:** privado com guia, 156 € por pessoa. Continua a ser o dobro do grupo, mas sem horários de autocarro nem outros viajantes no trilho.
 - **Orçamento apertado:** por conta própria de comboio ou carro, 12,50 € por pessoa entre bilhete e shuttle.
 
-O percurso fecha sempre às segundas e é proibido a menores de 8 anos. Como é e o que levar está em [como visitar o Caminito del Rey](/pt/guides/malaga/caminito-del-rey-como-visitar).
+O percurso fecha às segundas (exceto algumas de abertura excecional) e é proibido a menores de 8 anos. Como é e o que levar está em [como visitar o Caminito del Rey](/pt/guides/malaga/caminito-del-rey-como-visitar).
 
 ## Caminito del Rey com ou sem guia: preços por pessoa
 

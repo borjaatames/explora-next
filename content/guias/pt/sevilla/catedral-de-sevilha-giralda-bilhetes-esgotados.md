@@ -5,7 +5,7 @@ metaTitle: 'Catedral de Sevilha bilhetes: preço e Giralda'
 categoria: sevilla
 slug: catedral-de-sevilha-giralda-bilhetes-esgotados
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -29,7 +29,7 @@ slugs:
   pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
 intro: 'Antes de procurar **bilhetes para a Catedral de Sevilha**, convém saber o que há lá dentro: a **maior catedral gótica do mundo**, erguida sobre a mesquita almóada, com o retábulo-mor, o cadeiral do coro, o túmulo de Cristóvão Colombo e o Pátio dos Laranjais. O bilhete inclui a subida à **Giralda**, por rampas, e a Igreja do Salvador. Fica em frente ao Real Alcázar e a visita dura **1h30**.'
-respuestaCorta: 'Os bilhetes da Catedral de Sevilha custam **13 € online e 14 € na bilheteira**, com a Giralda incluída. Se o site estiver esgotado, a **bilheteira da Puerta del Príncipe** vende até às 18h00, com lotação limitada. Sem trocas nem devoluções, o mais seguro é um **bilhete de revenda** (desde 17,50 €) ou uma **visita guiada com entrada**.'
+respuestaCorta: 'Os bilhetes da Catedral de Sevilha custam **13 € online e 14 € na bilheteira**, com a Giralda incluída. Se o site estiver esgotado, a **bilheteira da Puerta del Príncipe** vende até às 17h00 (18h00 ao domingo), com lotação limitada. Sem trocas nem devoluções, o mais seguro é um **bilhete de revenda** (desde 17,50 €) ou uma **visita guiada com entrada**.'
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
   - catedral-giralda-sevilla-visita-privada-guia-entradas
@@ -40,7 +40,7 @@ faq:
 - pregunta: Quanto custa a entrada na Catedral de Sevilha e na Giralda?
   respuesta: A geral custa 13 € online e 14 € na bilheteira (reduzida, 7 € e 8 €) e inclui a subida à Giralda e a Igreja do Salvador. A visita guiada às coberturas custa 20 € online e 21 € na bilheteira.
 - pregunta: Dá para comprar bilhetes da Catedral na bilheteira no próprio dia?
-  respuesta: 'Sim. A bilheteira fica na Puerta del Príncipe e fecha às 18h00. A entrada geral custa lá 14 €, mais um euro do que online. A lotação da Catedral e da Giralda é limitada, por isso nos dias de muita procura não há garantia de lugar: vá cedo.'
+  respuesta: 'Sim. A bilheteira fica na Puerta del Príncipe e fecha às 17h00 de segunda a sábado e às 18h00 ao domingo. A entrada geral custa lá 14 €, mais um euro do que online. A lotação da Catedral e da Giralda é limitada, por isso nos dias de muita procura não há garantia de lugar: vá cedo.'
 - pregunta: Libertam-se bilhetes por cancelamentos?
   respuesta: Quase nunca. Segundo as normas da Catedral, os bilhetes não admitem devolução nem mudança de data, salvo se a visita não puder realizar-se por causa do próprio Cabido. Por isso não há cancelamentos a vigiar.
 - pregunta: Pode visitar-se a Catedral de graça?
@@ -89,7 +89,7 @@ O que não serve: esperar por cancelamentos. Segundo as normas da Catedral, os b
 
 ## Catedral de Sevilha: bilheteira e domingo grátis
 
-A bilheteira fica na **Puerta del Príncipe** e fecha às **18h00**, uma hora antes do templo. Quem compra online entra pela **Puerta del Lagarto**. A lotação é limitada, por isso nos dias fortes não há garantia: quanto mais cedo chegar, melhor.
+A bilheteira fica na **Puerta del Príncipe** e fecha às **17h00** de segunda a sábado e às **18h00** ao domingo, uma hora antes do fim da visita. Quem compra online entra pela **Puerta del Lagarto**. A lotação é limitada, por isso nos dias fortes não há garantia: quanto mais cedo chegar, melhor.
 
 **Catedral de Sevilha grátis ao domingo:** há acesso gratuito, sujeito à agenda litúrgica. Os bilhetes levantam-se **pessoalmente na bilheteira da Puerta del Príncipe a partir das 17h00** e até ao fecho, com lotação limitada, e não se reservam online. Se calhar num domingo, experimente, mas não conte com isso como plano.
 

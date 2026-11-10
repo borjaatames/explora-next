@@ -2,11 +2,11 @@
 titulo: "Bilbau num dia: Guggenheim, Casco Viejo e pintxos"
 descripcion: "O que ver em Bilbau num dia: Museu Guggenheim, Casco Viejo, Mercado de la Ribera e Artxanda. Percurso a pé hora a hora, onde comer pintxos e Gaztelugatxe ali ao lado."
 intro: '**O que ver em Bilbau** cabe num dia bem aproveitado: a cidade passou de cinzento industrial a ícone do design e percorre-se a pé ao longo da ría. De um lado, o titânio do **Guggenheim** de Gehry; do outro, as **Sete Ruas** medievais do Casco Viejo, o Mercado de la Ribera e um dos melhores balcões de **pintxos** da Europa. Para fechar, o funicular de Artxanda, com a cidade inteira entre montanhas.'
-respuestaCorta: '**O que ver em Bilbau** num dia, a pé ao longo da ría: o **Guggenheim** (bilhete online com horário; fecha à segunda, exceto em julho e agosto), o Casco Viejo e as **Sete Ruas**, **pintxos na Plaza Nueva**, o Mercado de la Ribera e o **funicular de Artxanda** ao pôr do sol. Com mais tempo, Gaztelugatxe fica a meia hora.'
+respuestaCorta: '**O que ver em Bilbau** num dia, a pé ao longo da ría: o **Guggenheim** (bilhete online com horário; fecha à segunda, exceto no verão (de 15 de junho a 7 de setembro), na Páscoa e em alguns feriados), o Casco Viejo e as **Sete Ruas**, **pintxos na Plaza Nueva**, o Mercado de la Ribera e o **funicular de Artxanda** ao pôr do sol. Com mais tempo, Gaztelugatxe fica a meia hora.'
 categoria: "bilbao"
 slug: "bilbau-num-dia"
 fecha: "2026-03-13"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -39,7 +39,7 @@ faq:
 - pregunta: Dá para ver Bilbau num dia?
   respuesta: Sim. A pé ao longo da ría há tempo para o Guggenheim de manhã, o Casco Viejo e as Sete Ruas, pintxos na Plaza Nueva, o Mercado de la Ribera e o Ensanche, e o funicular de Artxanda ao pôr do sol.
 - pregunta: Quanto custa a entrada no Guggenheim de Bilbau?
-  respuesta: 18 € com audioguia, grátis para menores de 18 anos. Convém comprá-la online com horário, porque na bilheteira há fila. Abre de terça a domingo das 10:00 às 19:00 (20:00 no verão) e fecha à segunda, exceto em julho e agosto. Conte com duas horas e meia.
+  respuesta: 12 € com audioguia, grátis para menores de 18 anos. Convém comprá-la online com horário, porque na bilheteira há fila. Abre de terça a domingo das 10:00 às 19:00 (20:00 no verão) e fecha à segunda, exceto no verão (de 15 de junho a 7 de setembro), na Páscoa e em alguns feriados. Conte com duas horas e meia.
 - pregunta: Onde comer pintxos em Bilbau?
   respuesta: De bar em bar (txikiteo) pela Plaza Nueva, pelo Casco Viejo e pelo Ensanche. Prove a Gilda, o bacalhau al pil-pil ou à vizcaína, a txuleta, o marmitako e as kokotxas, com txakoli ou um Rioja Alavesa, e pergunte pelo quadro dos pintxos quentes.
 - pregunta: É preciso reservar para ir a Gaztelugatxe?
@@ -59,7 +59,7 @@ faq:
 
 ## Museu Guggenheim: preços e horários
 
-- **Guggenheim:** 18 € com audioguia, grátis para menores de 18 anos. Compre online com horário: na bilheteira há fila. De terça a domingo, das 10:00 às 19:00 (20:00 no verão); **fecha à segunda**, exceto em julho e agosto.
+- **Guggenheim:** 12 € com audioguia, grátis para menores de 18 anos. Compre online com horário: na bilheteira há fila. De terça a domingo, das 10:00 às 19:00 (20:00 no verão); **fecha à segunda**, exceto no verão (de 15 de junho a 7 de setembro), na Páscoa e em alguns feriados.
 
 [actividad: guggenheim-bilbao-visita-guiada-entrada]
 

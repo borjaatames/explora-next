@@ -42,7 +42,7 @@ faq:
   - pregunta: "Was ist der Caga Tió?"
     respuesta: "Ein Holzklotz mit Gesicht und roter Mütze, den Kinder in der Adventszeit füttern und am 24. oder 25. Dezember singend mit Stöcken schlagen, damit er Süßigkeiten und Geschenke „ausscheidet“. Man kauft ihn auf dem Markt Santa Llúcia, wo es 2025 vom 29. November bis 20. Dezember einen Riesen-Tió für Kinder unter 12 gab."
   - pregunta: "Was hat in Barcelona am 25. Dezember und am 1. Januar geöffnet?"
-    respuesta: "Fast alle Gaudí-Bauten: die Sagrada Família von 9:00 bis 14:00, Park Güell und Casa Batlló sowie La Pedrera mit Sonderzeiten. Die großen Museen wie das MNAC oder das Museu Picasso sind geschlossen. An Silvester fährt die Metro die ganze Nacht."
+    respuesta: "Fast alle Gaudí-Bauten: die Sagrada Família von 9:00 bis 14:00, Park Güell und Casa Batlló; La Pedrera schließt am 25. und öffnet am 1. von 11:00 bis 20:30. Die großen Museen wie das MNAC oder das Museu Picasso sind geschlossen. An Silvester fährt die Metro die ganze Nacht."
 actividades:
   - tapas-vino-y-flamenco-tour-privado-barcelona
   - tour-tapas-y-vino-noche
@@ -104,14 +104,14 @@ Ein gut geplanter Dezemberabend:
 | Sagrada Família | Normale Zeiten (9:00–18:00) | 9:00–14:00 | 9:00–14:00 | 9:00–14:00 |
 | Park Güell | Geöffnet | Geöffnet | Geöffnet | Geöffnet |
 | Casa Batlló | Geöffnet | Geöffnet | Geöffnet | Geöffnet |
-| La Pedrera | Sonderzeiten | Sonderzeiten | Sonderzeiten | Sonderzeiten |
+| La Pedrera | 24.: 9:00–18:30 · 31.: 9:00–20:30 | Geschlossen | 9:00–20:30 | 11:00–20:30 |
 | Museu Picasso | 10:00–14:00 | Geschlossen | Geöffnet | Geschlossen |
 | Metro | 24.: bis 23:00 · 31.: die ganze Nacht | Feiertagsfahrplan | Feiertagsfahrplan | Durchgehend ab der Nacht des 31. |
 
 - **Am 6. Januar** öffnet die Sagrada Família ebenfalls von 9:00 bis 14:00.
 - **Die großen Museen** (MNAC, Museu Picasso, MACBA, CCCB) schließen am 25. und am 1.: An diesen Tagen sind Gaudís Bauten die beste Wahl, die fast alle öffnen.
 - **Park Güell** ist das ganze Jahr geöffnet; im Winter laufen die Zeitfenster von 9:30 bis 17:30, der Eintritt kostet **18 €**.
-- **La Pedrera** kündigt Sonderzeiten für diese Tage an: Prüfe sie auf lapedrera.com, bevor du kaufst.
+- **La Pedrera** schließt am 25. und hat vom 26. Dezember bis 3. Januar länger geöffnet (9:00 bis 20:30, am 1. Januar ab 11:00); der Nachtbesuch läuft an diesen Tagen von 21:00 bis 23:00.
 - **Museu Picasso:** Von Oktober bis März Dienstag bis Sonntag 10:00 bis 19:00; donnerstags von 16:00 bis 19:00 ist der Eintritt frei. Am 24. und 31. schließt die Kasse um 13:30.
 - **Busse:** Am 24. fahren die letzten TMB-Busse um 22:00 ab, eine Stunde bevor die Metro schließt.
 - **Der 26. Dezember (Sant Esteve)** ist in Katalonien Feiertag: Viele Läden und Restaurants schließen, und es ist der Tag der Cannelloni.

@@ -6,7 +6,7 @@ respuestaCorta: 'Sevilha num dia a partir de Madrid funciona se apanhar o **prim
 categoria: "sevilla"
 slug: "sevilha-num-dia-a-partir-de-madrid"
 fecha: "2026-03-15"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -69,7 +69,7 @@ O palácio real em uso mais antigo da Europa e o monumento estrela. **Bilhete on
 
 ### 2. Catedral e Giralda (12:30-14:00)
 
-A maior catedral gótica do mundo, o túmulo de Colombo, o Patio de los Naranjos da antiga mesquita e a subida à Giralda **por rampas** (subia-se a cavalo). Bilhete conjunto com a igreja do Salvador: **20 € online ou 21 € na bilheteira**, grátis para menores de 13. Compre online: a fila do meio-dia chega à meia hora.
+A maior catedral gótica do mundo, o túmulo de Colombo, o Patio de los Naranjos da antiga mesquita e a subida à Giralda **por rampas** (subia-se a cavalo). Bilhete conjunto com a igreja do Salvador: **13 € online ou 14 € na bilheteira**, grátis para menores de 13. Compre online: a fila do meio-dia chega à meia hora.
 
 ### 3. Plaza de España (15:30-17:00)
 

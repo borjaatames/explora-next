@@ -6,7 +6,7 @@ respuestaCorta: 'Séville en 3 jours : **jour 1, le Real Alcázar** (15,50 € e
 categoria: "sevilla"
 slug: "seville-en-3-jours"
 fecha: "2026-04-28"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -63,7 +63,7 @@ faq:
 
 [actividad: real-alcazar-sevilla-entrada]
 
-**12 h 30 — Cathédrale et Giralda**, juste en face. La plus grande cathédrale gothique du monde, le tombeau de Christophe Colomb, le grand retable et la sacristie avec Murillo et Zurbarán. On monte à la Giralda par des rampes, pas par des escaliers, et c'est la meilleure vue du centre. Billet combiné avec l'église du Salvador, **20 € en ligne** (gratuit pour les moins de 13 ans). Comptez 1 h 30 à 2 heures.
+**12 h 30 — Cathédrale et Giralda**, juste en face. La plus grande cathédrale gothique du monde, le tombeau de Christophe Colomb, le grand retable et la sacristie avec Murillo et Zurbarán. On monte à la Giralda par des rampes, pas par des escaliers, et c'est la meilleure vue du centre. Billet combiné avec l'église du Salvador, **13 € en ligne** (gratuit pour les moins de 13 ans). Comptez 1 h 30 à 2 heures.
 
 **14 h — Déjeuner.** Pas sur les terrasses de la place Virgen de los Reyes ni rue Mateos Gago : cinq minutes jusqu'à l'Arenal ou traversez jusqu'à la calle Pureza, à Triana.
 

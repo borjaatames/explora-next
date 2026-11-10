@@ -4,7 +4,7 @@ descripcion: "Caminito del Rey independently from €12.50 (ticket and shuttle),
 categoria: "malaga"
 slug: "caminito-del-rey-independent-group-or-private"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -63,7 +63,7 @@ opciones:
 - **Group of 6:** private with a guide, €156 per person. Still double the group price, but with no coach schedule and no other travellers on the trail.
 - **Tight budget:** independently by train or car, €12.50 per person for ticket and shuttle.
 
-The route is always closed on Mondays and children under 8 aren't allowed. What it's like and what to bring is in [how to visit the Caminito del Rey](/en/guides/malaga/caminito-del-rey-how-to-visit).
+The route is closed on Mondays (except a few it opens as an exception) and children under 8 aren't allowed. What it's like and what to bring is in [how to visit the Caminito del Rey](/en/guides/malaga/caminito-del-rey-how-to-visit).
 
 ## Caminito del Rey with or without a guide: prices per person
 

@@ -2,11 +2,11 @@
 titulo: "Bilbao en une journée : Guggenheim, Casco Viejo et pintxos"
 descripcion: "Que voir à Bilbao en une journée : musée Guggenheim, Casco Viejo, marché de la Ribera et Artxanda. Un itinéraire à pied heure par heure, où manger des pintxos et Gaztelugatxe tout près."
 intro: '**Que voir à Bilbao** tient en une journée bien remplie : la ville, passée du gris industriel à l''icône du design, se découvre à pied le long de la ría. D''un côté, le titane du **Guggenheim** de Gehry ; de l''autre, les **Sept Rues** médiévales, le marché de la Ribera et l''un des meilleurs comptoirs à **pintxos** d''Europe. Pour finir, le funiculaire d''Artxanda et la ville entière entre les montagnes.'
-respuestaCorta: '**Que voir à Bilbao** en un jour, à pied : le **Guggenheim** (billet en ligne avec créneau ; fermé le lundi sauf en juillet-août), le Casco Viejo et les **Sept Rues**, des **pintxos sur la Plaza Nueva**, le marché de la Ribera et le **funiculaire d''Artxanda** au coucher du soleil. Avec plus de temps, Gaztelugatxe est à une demi-heure.'
+respuestaCorta: '**Que voir à Bilbao** en un jour, à pied : le **Guggenheim** (billet en ligne avec créneau ; fermé le lundi sauf en été (du 15 juin au 7 septembre), à Pâques et certains jours fériés), le Casco Viejo et les **Sept Rues**, des **pintxos sur la Plaza Nueva**, le marché de la Ribera et le **funiculaire d''Artxanda** au coucher du soleil. Avec plus de temps, Gaztelugatxe est à une demi-heure.'
 categoria: "bilbao"
 slug: "bilbao-en-une-journee"
 fecha: "2026-03-13"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -39,7 +39,7 @@ faq:
 - pregunta: Peut-on voir Bilbao en une journée ?
   respuesta: Oui. À pied le long de la ría, on a le temps de voir le Guggenheim le matin, le Casco Viejo et les Sept Rues, de manger des pintxos sur la Plaza Nueva, de passer au marché de la Ribera et dans l'Ensanche, puis de monter en funiculaire à Artxanda au coucher du soleil.
 - pregunta: Combien coûte l'entrée au Guggenheim de Bilbao ?
-  respuesta: 18 € avec audioguide, gratuit pour les moins de 18 ans. Mieux vaut l'acheter en ligne avec créneau, car il y a la queue au guichet. Ouvert du mardi au dimanche de 10 h à 19 h (20 h en été), fermé le lundi sauf en juillet et août. Comptez deux heures et demie de visite.
+  respuesta: 12 € avec audioguide, gratuit pour les moins de 18 ans. Mieux vaut l'acheter en ligne avec créneau, car il y a la queue au guichet. Ouvert du mardi au dimanche de 10 h à 19 h (20 h en été), fermé le lundi sauf en été (du 15 juin au 7 septembre), à Pâques et certains jours fériés. Comptez deux heures et demie de visite.
 - pregunta: Où manger des pintxos à Bilbao ?
   respuesta: De bar en bar (txikiteo) autour de la Plaza Nueva, dans le Casco Viejo et l'Ensanche. Goûtez la Gilda, la morue al pil-pil ou a la vizcaína, la txuleta, le marmitako et les kokotxas, avec un txakoli ou un Rioja Alavesa, et demandez l'ardoise des pintxos chauds.
 - pregunta: Faut-il réserver pour Gaztelugatxe ?
@@ -59,7 +59,7 @@ faq:
 
 ## Musée Guggenheim : prix et horaires
 
-- **Guggenheim :** 18 € avec audioguide, gratuit pour les moins de 18 ans. Achetez en ligne avec créneau : il y a la queue au guichet. Du mardi au dimanche, de 10 h à 19 h (20 h en été) ; **fermé le lundi**, sauf en juillet et août.
+- **Guggenheim :** 12 € avec audioguide, gratuit pour les moins de 18 ans. Achetez en ligne avec créneau : il y a la queue au guichet. Du mardi au dimanche, de 10 h à 19 h (20 h en été) ; **fermé le lundi**, sauf en été (du 15 juin au 7 septembre), à Pâques et certains jours fériés.
 
 [actividad: guggenheim-bilbao-visita-guiada-entrada]
 

@@ -4,7 +4,7 @@ descripcion: 'If the official La Pedrera (Casa Milà) website has no space: othe
 categoria: barcelona
 slug: la-pedrera-tickets-sold-out
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -74,14 +74,14 @@ Official sales are on lapedrera.com, which takes you to tickets.lapedrera.com, a
 - **Sunrise** (early guided visit) and **Night Experience**: **€39.50** each.
 - **Flexibility insurance:** €1.90. Without it, tickets can't be changed or refunded.
 
-**Hours:** until 1 November, **9 AM to 8:30 PM**; from 2 November, **9 AM to 6:30 PM**. Closed on **25 December** and from **11 to 17 January 2027**.
+**Hours:** **9 AM to 6:30 PM** in winter (from 2 November); from 26 December to 3 January, **9 AM to 8:30 PM** (1 January, 11 AM to 8:30 PM). Closed on **25 December** and from **11 to 17 January 2027**.
 
 ## Casa Milà sold out: what to do
 
 On long weekends, at Easter and in summer the middle of the day fills up fast. If your slot is sold out, try in this order:
 
 1. **Check every time slot that day.** There's usually more space in the afternoon than mid-morning.
-2. **Look at La Pedrera Sunset:** the same visit at dusk, from 5:30 to 8:30 PM, from **€25**. The official site offers it until 1 November.
+2. **Try another slot on the same day:** in winter the day visit runs from 9 AM to 6:30 PM, and the first and last hours often have space. La Pedrera Sunset (at dusk, from **€25**) only runs in high season: the last one was until 1 November.
 3. **Buy the Open Date ticket:** the most expensive, but it doesn't depend on a specific slot.
 4. **Change day if you can:** with the advance discount, another date may also be cheaper.
 5. **Go for a resale ticket or a tour with entry included.** Authorised resellers often have space because they buy allocations in advance; you usually pay a little more. There's a timed ticket with audio guide from €29, an early-access guided tour from €39.50, the three Gaudí houses tour (Casa Vicens, Casa Milà and Casa Batlló) from €119 and a private tour of La Pedrera and Casa Vicens from €156.
@@ -95,7 +95,7 @@ Before paying, check that it says **"La Pedrera entry included"** and the entry 
 If the day is full, try the extremes:
 
 - **La Pedrera Sunrise:** a group guided visit from **8 to 9 AM**, before the general public, with courtyards, apartment, attic and rooftop. **€39.50**; the guide speaks English or Chinese.
-- **La Pedrera Night Experience:** a **1 hour 20 minute** guided night visit with video mapping on the rooftop and a glass of cava, for **€39.50**. Sessions run from **8:40 to 10:20 PM** until 1 November and from **7 to 11 PM** from 2 November. Guides in Catalan, Spanish, English and Chinese.
+- **La Pedrera Night Experience:** a **1 hour 20 minute** guided night visit with video mapping on the rooftop and a glass of cava, for **€39.50**. In winter sessions run from **7 to 11 PM**, and from 26 December to 3 January from **9 to 11 PM**. Guides in Catalan, Spanish, English and Chinese.
 
 ## La Pedrera same-day tickets at the box office
 

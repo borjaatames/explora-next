@@ -7,7 +7,7 @@ respuestaCorta: 'For the **Caminito del Rey**, buy your ticket on the official w
 categoria: "malaga"
 slug: "caminito-del-rey-how-to-visit"
 fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -71,7 +71,7 @@ If the official website is already sold out, our guide on [what to do if Caminit
 
 ## Opening hours, ages and rules
 
-- **Opening hours:** Tuesday to Sunday, with entry slots every half hour from **9:00 to 14:50 or 17:20**, depending on the season. **Closed on Mondays** and on days of strong wind or heavy rain; you can then move your ticket to another date from your personal account, subject to availability.
+- **Opening hours:** Tuesday to Sunday, with entry slots every half hour from **9:00 to 14:50 or 17:20**, depending on the season. **Closed on Mondays** (except a few it opens as an exception: check the booking calendar) and on days of strong wind or heavy rain; you can then move your ticket to another date from your personal account, subject to availability.
 - **Minimum age: 8**, no exceptions (bring ID or a family record book), and minors must always be accompanied. There's no upper limit, but it's 7.7 km with no benches or shade.
 - **Total time:** 3-4 hours including the access paths (1.5-2.7 km from each car park, depending on the entrance) and the shuttle.
 - **Helmet compulsory** (provided on site) and **closed shoes**. Umbrellas, metal-tipped poles, drones and pets are not allowed.

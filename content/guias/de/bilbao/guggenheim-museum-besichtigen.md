@@ -3,11 +3,11 @@ titulo: "Guggenheim Bilbao: Tickets, Öffnungszeiten und Tipps für den Besuch"
 descripcion: "Guggenheim Bilbao besuchen: Tickets 12–18 € (unter 18 gratis), Öffnungszeiten, Puppy und Maman draußen gratis, Serra innen. Plane 2–2,5 Stunden ein."
 metaTitle: "Guggenheim Bilbao: Tickets und Tipps"
 intro: 'Das **Guggenheim Bilbao** ist Frank Gehrys Titanbau, der seit 1997 eine Industriestadt in eine weltweite Design-Ikone verwandelt hat. Draußen warten gratis **Puppy**, **Maman** und die Nebelskulptur; drinnen das große Atrium, Richard Serras *Die Materie der Zeit* und erstklassige Wechselausstellungen. Von der Altstadt sind es 20 Minuten zu Fuß, und der Besuch drinnen dauert **2–2,5 Stunden**.'
-respuestaCorta: 'Draußen ist das **Guggenheim Bilbao** gratis: **Puppy, Maman und das Titan** wirken bei Sonnenuntergang am schönsten. Drinnen solltest du **2–2,5 Stunden** einplanen; Richard Serra ist Pflicht. Das Ticket kostet **je nach Ausstellung 12 bis 18 €** (unter 18 gratis, Audioguide inklusive) und wird online mit Zeitfenster gekauft. Montags geschlossen, außer im Juli, August und an Brückentagen.'
+respuestaCorta: 'Draußen ist das **Guggenheim Bilbao** gratis: **Puppy, Maman und das Titan** wirken bei Sonnenuntergang am schönsten. Drinnen solltest du **2–2,5 Stunden** einplanen; Richard Serra ist Pflicht. Das Ticket kostet **je nach Ausstellung 12 bis 18 €** (unter 18 gratis, Audioguide inklusive) und wird online mit Zeitfenster gekauft. Montags geschlossen, außer im Sommer (15. Juni bis 7. September), an Ostern und an einigen Feiertagen.'
 categoria: "bilbao"
 slug: "guggenheim-museum-besichtigen"
 fecha: "2026-03-24"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -40,7 +40,7 @@ faq:
 - pregunta: Kann man das Guggenheim kostenlos sehen?
   respuesta: 'Von außen ja: Gehrys Gebäude, Puppy von Jeff Koons, Maman von Louise Bourgeois, Tulips, Tall Tree & The Eye von Anish Kapoor und die Nebelskulptur sind ohne Ticket zu sehen. Die Säle kosten Eintritt.'
 - pregunta: An welchem Tag ist das Guggenheim geschlossen?
-  respuesta: Montags, außer im Juli, August und an Brückentagen, und immer am 25. Dezember und 1. Januar. Prüfe den Kalender des Museums, bevor du an einem Montag hingehst.
+  respuesta: Montags, außer im Sommer (15. Juni bis 7. September), an Ostern und an einigen Feiertagen, und immer am 25. Dezember und 1. Januar. Prüfe den Kalender des Museums, bevor du an einem Montag hingehst.
 - pregunta: Wie kommt man zum Guggenheim?
   respuesta: Mit der Metro bis Moyua (L1 und L2) und 7 Minuten zu Fuß, oder mit der Straßenbahn bis zur Haltestelle Guggenheim direkt vor der Tür. Von der Altstadt sind es 20 Minuten zu Fuß am Fluss entlang.
 ---
@@ -73,7 +73,7 @@ Die beste Zeit für das Äußere ist der **Sonnenuntergang**, wenn das Titan gol
 - **Normalticket:** **12 bis 18 €** je nach Ausstellung (12 € im Oktober 2026), Audioguide inklusive. Ermäßigt für Studierende und über 65-Jährige. **Unter 18 Jahren gratis.**
 - **Online mit Zeitfenster kaufen**, dann gehst du ohne Schlange hinein; die Kasse funktioniert, hat in der Saison aber Wartezeiten.
 - **Öffnungszeiten:** Dienstag bis Sonntag **10:00 bis 19:00 Uhr**, im Sommer bis 20:00 Uhr.
-- **Montags geschlossen**, außer im Juli, August und an Brückentagen; am 25. Dezember und 1. Januar immer geschlossen.
+- **Montags geschlossen**, außer im Sommer (15. Juni bis 7. September), an Ostern und an einigen Feiertagen; am 25. Dezember und 1. Januar immer geschlossen.
 - **Beste Zeit:** früh am Morgen unter der Woche oder ab 17:00 Uhr. Samstagmittag ist am meisten los.
 - **Garderobe:** kostenlos und Pflicht für Rucksäcke und Regenschirme. Kinderwagen sind erlaubt.
 

@@ -4,7 +4,7 @@ descripcion: "Seville in 3 days: Alcázar, Cathedral, Triana and Itálica, hour 
 categoria: "sevilla"
 slug: "seville-in-3-days"
 fecha: "2026-04-28"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -62,7 +62,7 @@ faq:
 
 [actividad: real-alcazar-sevilla-entrada]
 
-**12:30 — Cathedral and Giralda**, right opposite. The largest Gothic cathedral in the world, Columbus's tomb, the main altarpiece and the sacristy with Murillo and Zurbarán. You climb the Giralda by ramp, not stairs, and it's the best view of the centre. Combined ticket with the Church of El Salvador, **€20 online** (free for under-13s). Allow 1 h 30 to 2 hours.
+**12:30 — Cathedral and Giralda**, right opposite. The largest Gothic cathedral in the world, Columbus's tomb, the main altarpiece and the sacristy with Murillo and Zurbarán. You climb the Giralda by ramp, not stairs, and it's the best view of the centre. Combined ticket with the Church of El Salvador, **€13 online** (free for under-13s). Allow 1 h 30 to 2 hours.
 
 **14:00 — Lunch.** Not on the terraces of Plaza Virgen de los Reyes or on Mateos Gago: walk five minutes to El Arenal or cross to Calle Pureza in Triana.
 

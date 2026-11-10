@@ -5,7 +5,7 @@ metaTitle: 'Billet cathédrale de Séville et Giralda'
 categoria: sevilla
 slug: cathedrale-de-seville-giralda-billets-epuises
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: false
@@ -29,7 +29,7 @@ slugs:
   pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
 intro: 'Avant de chercher un **billet pour la Cathédrale de Séville**, mieux vaut savoir ce qu''elle renferme : la **plus grande cathédrale gothique du monde**, bâtie sur la mosquée almohade, avec le grand retable, les stalles du chœur, le tombeau de Christophe Colomb et le Patio de los Naranjos. Le billet inclut la montée à la **Giralda**, par des rampes, et l''église du Salvador. Elle fait face au Real Alcázar ; comptez **1h30**.'
-respuestaCorta: 'Le billet pour la Cathédrale de Séville coûte **13 € en ligne et 14 € au guichet**, Giralda incluse. Si le site affiche complet, le **guichet de la Puerta del Príncipe** vend jusqu''à 18h, avec jauge limitée. Sans échange ni remboursement, le plus sûr est un **billet en revente** (dès 17,50 €) ou une **visite guidée avec entrée**.'
+respuestaCorta: 'Le billet pour la Cathédrale de Séville coûte **13 € en ligne et 14 € au guichet**, Giralda incluse. Si le site affiche complet, le **guichet de la Puerta del Príncipe** vend jusqu''à 17h (18h le dimanche), avec jauge limitée. Sans échange ni remboursement, le plus sûr est un **billet en revente** (dès 17,50 €) ou une **visite guidée avec entrée**.'
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
   - catedral-giralda-sevilla-visita-privada-guia-entradas
@@ -40,7 +40,7 @@ faq:
 - pregunta: Combien coûte l'entrée de la Cathédrale de Séville et de la Giralda ?
   respuesta: Le billet général coûte 13 € en ligne et 14 € au guichet (réduit 7 € et 8 €) et inclut la montée à la Giralda et l'église du Salvador. La visite guidée des toits coûte 20 € en ligne et 21 € au guichet.
 - pregunta: Peut-on acheter des billets pour la Cathédrale au guichet le jour même ?
-  respuesta: 'Oui. Le guichet se trouve à la Puerta del Príncipe et ferme à 18h. Le billet général y coûte 14 €, un euro de plus qu''en ligne. La jauge de la Cathédrale et de la Giralda est limitée : les jours d''affluence, il n''y a aucune garantie. Allez-y tôt.'
+  respuesta: 'Oui. Le guichet se trouve à la Puerta del Príncipe et ferme à 17h du lundi au samedi et à 18h le dimanche. Le billet général y coûte 14 €, un euro de plus qu''en ligne. La jauge de la Cathédrale et de la Giralda est limitée : les jours d''affluence, il n''y a aucune garantie. Allez-y tôt.'
 - pregunta: Des billets se libèrent-ils grâce aux annulations ?
   respuesta: Presque jamais. Selon le règlement de la Cathédrale, les billets ne sont ni remboursables ni modifiables, sauf si la visite ne peut avoir lieu du fait du Chapitre lui-même. Il n'y a donc pas de flux d'annulations à guetter.
 - pregunta: Peut-on visiter la Cathédrale gratuitement ?
@@ -89,7 +89,7 @@ Ce qui ne marche pas : attendre des annulations. Selon le règlement de la Cath�
 
 ## Cathédrale de Séville : guichet et dimanche gratuit
 
-Le guichet se trouve à la **Puerta del Príncipe** et ferme à **18h**, une heure avant l'édifice. Avec un billet en ligne, on entre par la **Puerta del Lagarto**. La jauge est limitée : les jours d'affluence, rien n'est garanti, alors arrivez le plus tôt possible.
+Le guichet se trouve à la **Puerta del Príncipe** et ferme à **17h** du lundi au samedi et à **18h** le dimanche, une heure avant la fin de la visite. Avec un billet en ligne, on entre par la **Puerta del Lagarto**. La jauge est limitée : les jours d'affluence, rien n'est garanti, alors arrivez le plus tôt possible.
 
 **Le dimanche, l'accès est gratuit**, selon le calendrier liturgique. Les billets se retirent **en personne au guichet de la Puerta del Príncipe à partir de 17h** et jusqu'à la fermeture, avec jauge limitée, et ne se réservent pas en ligne. Si vous êtes là un dimanche, tentez-le, mais n'en faites pas votre plan.
 

@@ -23,7 +23,7 @@ datosClave:
   - etiqueta: "Entrada oficial"
     valor: "13 € online"
   - etiqueta: "Horario"
-    valor: "L–S 10:45 – 19:00"
+    valor: "L–S 10:45 – 18:00"
   - etiqueta: "Duración"
     valor: "1 h 30"
   - etiqueta: "Reservar con"
@@ -53,7 +53,7 @@ fotos:
     pie: "La Giralda sobre los tejados de Sevilla"
 practico:
   - titulo: "Horarios"
-    texto: "Lunes a sábado, 10:45–19:00. Domingos, 14:30–19:00. La taquilla de la Puerta del Príncipe cierra a las 18:00, una hora antes que el templo."
+    texto: "Lunes a sábado, 10:45–18:00 (taquilla hasta las 17:00). Domingos, 14:30–19:00 (taquilla hasta las 18:00). La Catedral avisa de que el horario puede cambiar por cultos sin previo aviso."
   - titulo: "Precios oficiales"
     texto: "General 13 € online y 14 € en taquilla (reducida 7 € y 8 €), con la Giralda y la Iglesia del Salvador incluidas. Visita a las cubiertas, 20 € online y 21 € en taquilla."
   - titulo: "Cómo llegar"

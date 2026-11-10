@@ -4,7 +4,7 @@ descripcion: "Christmas in Valencia 2026: free Saturday fireworks at 18:30 on Pl
 categoria: "valencia"
 slug: "christmas-in-valencia"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -97,6 +97,21 @@ The most Valencian touch is the **Saturday piromusicales at 18:30**: three minut
 - **Chimes on Plaza del Ayuntamiento:** in 2025 there were children's chimes in the afternoon and a party at night.
 - **The Kings' arrival (5 January):** in 2026 they came ashore at **16:30** at Plaza de la Sal in the Marina Norte.
 - **The parade:** at **17:30** from Puente de las Flores, along Porta de la Mar, General Tovar, Calle de la Paz, Plaza de la Reina and San Vicente to Plaza del Ayuntamiento. Calle de la Paz is narrow: for a better view, stand around **Porta de la Mar**.
+
+## What's open and closed in Valencia on 24, 25 and 31 December and 1 January
+
+| Place | 24 and 31 December | 25 December | 1 January |
+| --- | --- | --- | --- |
+| Oceanogràfic | 10:00–16:00 | 12:00–18:00 | Open |
+| Science Museum | Open | Closed | Open |
+| Silk Exchange (Lonja) | May have special hours | Closed | Closed |
+| Expojove | 31st only: 10:00–14:00 | Not started yet | 16:00–21:00 |
+
+- **The Oceanogràfic opens every day of the year**, including the 25th: it's the safest holiday plan with kids. Buy your ticket online, as it gets busy on those days.
+- **The Silk Exchange** is also closed on 6 January; on other public holidays it opens 10:00 to 14:00.
+- **Shops and restaurants:** on the 24th and 31st they close mid-afternoon, and few open on the 25th and the 1st. Book your dinner early.
+
+*Hours checked on the official websites on 10 November 2026. City of Arts and Sciences times can change: confirm them on cac.es before you go.*
 
 ## Things to do in Valencia at Christmas: an evening plan and tips
 
