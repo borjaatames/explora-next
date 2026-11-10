@@ -6,6 +6,10 @@ descripcion: 'A 1.5-hour guided walk around Santa Cruz with a local historian: S
 slugs:
   es: barrio-santa-cruz-leyendas-tour-flamenco-opcional
   en: santa-cruz-seville-legends-tour-optional-flamenco
+  de: sevilla-santa-cruz-legenden-fuehrung-flamenco
+  fr: seville-santa-cruz-legendes-visite-flamenco
+  it: siviglia-santa-cruz-leggende-tour-flamenco
+  pt: sevilha-santa-cruz-lendas-tour-flamenco
 duracion: 1 hour 30 minutes
 duracionMinutos: 90
 precioDesde: 14.9

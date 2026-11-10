@@ -6,6 +6,10 @@ descripcion: 'A 2-hour private tour about Seville''s Holy Week with an official 
 slugs:
   es: hermandades-sevilla-tour-privado-semana-santa
   en: seville-brotherhoods-holy-week-private-tour
+  de: sevilla-bruderschaften-karwoche-privatfuehrung
+  fr: seville-confreries-semaine-sainte-visite-privee
+  it: siviglia-confraternite-settimana-santa-tour-privato
+  pt: sevilha-irmandades-semana-santa-tour-privado
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 171

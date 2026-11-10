@@ -6,6 +6,10 @@ descripcion: 'Guided walk of about 2.5 hours around Seville''s old town in a sma
 slugs:
   es: sevilla-tour-a-pie-grupo-reducido
   en: seville-walking-tour-small-group
+  de: sevilla-stadtrundgang-kleingruppe
+  fr: seville-visite-a-pied-petit-groupe
+  it: siviglia-tour-a-piedi-piccolo-gruppo
+  pt: sevilha-tour-a-pe-grupo-reduzido
 duracion: 2 hours 30 minutes
 duracionMinutos: 150
 precioDesde: 19.9

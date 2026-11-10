@@ -6,6 +6,10 @@ descripcion: A 1.5-hour guided walk at sunset through Seville's old town, with l
 slugs:
   es: sevilla-misteriosa-tour-paranormal
   en: seville-mysteries-paranormal-tour
+  de: sevilla-geheimnisvoll-geister-fuehrung
+  fr: seville-mysterieuse-visite-fantomes
+  it: siviglia-misteriosa-tour-fantasmi
+  pt: sevilha-misteriosa-tour-fantasmas
 duracion: 1 hour 30 minutes
 duracionMinutos: 90
 precioDesde: 14.9

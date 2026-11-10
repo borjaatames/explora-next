@@ -6,6 +6,10 @@ descripcion: 'Paseo guiado de 1 h 30 por el barrio de Santa Cruz con un historia
 slugs:
   es: barrio-santa-cruz-leyendas-tour-flamenco-opcional
   en: santa-cruz-seville-legends-tour-optional-flamenco
+  de: sevilla-santa-cruz-legenden-fuehrung-flamenco
+  fr: seville-santa-cruz-legendes-visite-flamenco
+  it: siviglia-santa-cruz-leggende-tour-flamenco
+  pt: sevilha-santa-cruz-lendas-tour-flamenco
 duracion: 1 hora y 30 minutos
 duracionMinutos: 90
 precioDesde: 14.9
