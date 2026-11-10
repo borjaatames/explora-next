@@ -43,7 +43,7 @@ faq:
 - pregunta: È una buona idea vedere il flamenco al Sacromonte con i bambini?
   respuesta: 'Con i minori di 8 anni no: la zambra serale è lunga, in una grotta affollata e con vicoli poco illuminati. Meglio il Sacromonte di giorno (Museo Cuevas del Sacromonte) o, con bambini dagli 8 anni in su, il primo spettacolo delle 20:00.'
 - pregunta: Come si sale all'Alhambra con i bambini senza sfinirli?
-  respuesta: Con i minibus C30 o C32, che costano 1,40 € a persona. Salire a piedi con bambini stanchi è molto più duro di quanto sembri.
+  respuesta: Con i minibus C30 o C32, che costano 1,60 € a persona. Salire a piedi con bambini stanchi è molto più duro di quanto sembri.
 ---
 
 ## Cosa fare a Granada con bambini in base all'età
@@ -73,7 +73,7 @@ L'Alhambra è densissima e sfinisce un bambino molto prima di un adulto.
 | 11:00 | Palazzi Nasridi all'ora indicata, senza fretta |
 | 12:30 | Discesa in centro |
 
-**Biglietti:** intero **22,27 €**; **minori di 12 anni gratis, ma con biglietto nominativo** emesso nello stesso acquisto, altrimenti non entrano. Con bambini molto piccoli, il biglietto **Giardini e Generalife (12,73 €)** offre ciò che amano senza il silenzio dei palazzi. Per salire, **minibus C30 e C32 (1,40 €)**. Più dettagli in [come visitare l'Alhambra](/it/guides/granada/alhambra-come-visitarla).
+**Biglietti:** intero **22,27 €**; **minori di 12 anni gratis, ma con biglietto nominativo** emesso nello stesso acquisto, altrimenti non entrano. Con bambini molto piccoli, il biglietto **Giardini e Generalife (12,73 €)** offre ciò che amano senza il silenzio dei palazzi. Per salire, **minibus C30 e C32 (1,60 €)**. Più dettagli in [come visitare l'Alhambra](/it/guides/granada/alhambra-come-visitarla).
 
 ## Giorno 2: il Parque de las Ciencias di Granada
 

@@ -107,7 +107,7 @@ Spend the rest of the morning in **El Carmen**, the oldest quarter, with the **S
 | Serranos and Quart towers | €2 each, free Sundays | Serranos has the best view of the Turia |
 | Oceanogràfic | From €37 | Book online in high season |
 | Hemisfèric / Science Museum | €9 each; all three from €46 | |
-| Bioparc | €27–28 | From 10:00; metro Nou d'Octubre |
+| Bioparc | from €29.50 | From 10:00; metro Nou d'Octubre |
 | Transport | Single €1.50; SUMA 10-trip card €8 + €1 card; Valenbisi weekly €13.30 | Bus to La Albufera €1.50 |
 
 ## Where to stay and eat

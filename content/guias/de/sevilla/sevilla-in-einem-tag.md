@@ -89,7 +89,7 @@ Das authentische Sevilla, das an einem Tag kaum jemand sieht. Überquere die Br�
 ## Was man heute auslassen kann
 
 - **Santa Cruz:** hübsch, aber touristisch; du gehst zwischen Alcázar und Kathedrale hindurch, das reicht.
-- **Torre del Oro** (3 €) und **die Setas** (15 €): Aussichtspunkte, die sich heute nicht lohnen; die Giralda bietet den Blick schon.
+- **Torre del Oro** (3 €) und **die Setas** (16 €): Aussichtspunkte, die sich heute nicht lohnen; die Giralda bietet den Blick schon.
 - **Casa de Pilatos** (12 €, 1 Stunde) und **Museum der Schönen Künste**: fürs nächste Mal.
 - **Flamenco:** Die guten Shows sind abends, und um 21:00 Uhr sitzt du im Zug.
 

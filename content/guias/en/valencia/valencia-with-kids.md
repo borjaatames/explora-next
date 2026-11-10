@@ -25,7 +25,7 @@ slugs:
   pt: valencia-com-criancas
 reservasArriba: true
 intro: 'Visiting **Valencia with kids** is about as easy as it gets in Spain: the city is flat and safe, with a beach in town and a nine-kilometre car-free park to explore by bike. Add two of the country''s top family attractions, the **Oceanogràfic**, Europe''s largest aquarium, and the **Bioparc**, plus the City of Arts and Sciences and a giant slide shaped like Gulliver.'
-respuestaCorta: 'Valencia with kids works brilliantly: it''s **flat, safe and has a city beach**. The two must-dos are the **Oceanogràfic**, Europe''s largest aquarium (from €37), and the **Bioparc** (€29.50); in between, a bike ride along the **Turia Gardens**, nine car-free kilometres. The old town in short doses. Best from March to June.'
+respuestaCorta: 'Valencia with kids works brilliantly: it''s **flat, safe and has a city beach**. The two must-dos are the **Oceanogràfic**, Europe''s largest aquarium (from €39), and the **Bioparc** (€29.50); in between, a bike ride along the **Turia Gardens**, nine car-free kilometres. The old town in short doses. Best from March to June.'
 actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada

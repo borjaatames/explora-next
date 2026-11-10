@@ -83,7 +83,7 @@ Mehr dazu in [Alhambra besichtigen](/de/guides/granada/alhambra-besichtigen).
 
 **Sonnenuntergang.** **San Nicolás** ist das Postkartenmotiv: 45 Minuten vorher da sein. Wenn die Menge stört, liegt **San Cristóbal** 10 Minuten weiter oben, mit halb so vielen Leuten.
 
-**Zambra.** Der Flamenco der Sacromonte-Höhlen, intim und mit Wurzeln in der Gitano-Hochzeit. Cueva de la Rocío (28-30 € mit Getränk), Los Tarantos (26 €) oder María la Canastera (22-26 €). Reservieren Sie, denn am Wochenende gibt es keine Plätze, und fahren Sie mit dem Taxi zurück (5-7 €).
+**Zambra.** Der Flamenco der Sacromonte-Höhlen, intim und mit Wurzeln in der Gitano-Hochzeit. Cueva de la Rocío (28-30 € mit Getränk), Los Tarantos (28 €) oder María la Canastera (22-26 €). Reservieren Sie, denn am Wochenende gibt es keine Plätze, und fahren Sie mit dem Taxi zurück (5-7 €).
 
 ## Tag 2: Altstadt und Cartuja
 

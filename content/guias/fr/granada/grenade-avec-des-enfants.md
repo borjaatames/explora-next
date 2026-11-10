@@ -43,7 +43,7 @@ faq:
 - pregunta: Un spectacle de flamenco au Sacromonte avec des enfants, bonne idée ?
   respuesta: 'Pas avec des moins de 8 ans : la zambra du soir est longue, dans une grotte confinée, et les ruelles sont mal éclairées. Mieux vaut le Sacromonte de jour (Museo Cuevas del Sacromonte) ou, avec des enfants de 8 ans et plus, la première séance de 20h00.'
 - pregunta: Comment monter à l'Alhambra avec des enfants sans les épuiser ?
-  respuesta: Avec les minibus C30 ou C32, à 1,40 € par personne. Monter à pied avec des enfants fatigués est bien plus dur qu'il n'y paraît.
+  respuesta: Avec les minibus C30 ou C32, à 1,60 € par personne. Monter à pied avec des enfants fatigués est bien plus dur qu'il n'y paraît.
 ---
 
 ## Que faire à Grenade avec des enfants selon l'âge
@@ -73,7 +73,7 @@ L'Alhambra est très dense et épuise un enfant bien avant un adulte.
 | 11h00 | Palais nasrides à l'heure indiquée, sans courir |
 | 12h30 | Descente vers le centre |
 
-**Billets :** entrée générale **22,27 €** ; **gratuit pour les moins de 12 ans, mais avec billet nominatif** émis lors du même achat, sinon ils n'entrent pas. Avec de très jeunes enfants, le billet **Jardins et Generalife (12,73 €)** leur offre ce qu'ils aiment, sans le silence des palais. Pour monter, **minibus C30 et C32 (1,40 €)**. Plus de détails dans [comment visiter l'Alhambra](/fr/guides/granada/alhambra-comment-la-visiter).
+**Billets :** entrée générale **22,27 €** ; **gratuit pour les moins de 12 ans, mais avec billet nominatif** émis lors du même achat, sinon ils n'entrent pas. Avec de très jeunes enfants, le billet **Jardins et Generalife (12,73 €)** leur offre ce qu'ils aiment, sans le silence des palais. Pour monter, **minibus C30 et C32 (1,60 €)**. Plus de détails dans [comment visiter l'Alhambra](/fr/guides/granada/alhambra-comment-la-visiter).
 
 ## Jour 2 : le Parque de las Ciencias de Grenade
 

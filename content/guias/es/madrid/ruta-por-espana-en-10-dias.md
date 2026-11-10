@@ -96,7 +96,7 @@ AVE hacia las 9:00 y en Sevilla antes de mediodía. Tarde para el **barrio de Sa
 
 ### Día 6: Córdoba de paso hacia Granada
 
-Tren de primera hora (40-45 minutos), maleta en una consigna junto a la estación y 20-25 minutos a pie hasta la **Mezquita-Catedral** (15 €; calcula 1-1 h 30). Después, la **Judería**, la calle de las Flores y el **puente romano**. Comida de salmorejo y flamenquín y, a media tarde, tren a Granada (1 h 30). Es un día largo, pero te ahorra una noche y un cambio de hotel. Si prefieres dormir en Córdoba, lo plantea así [Andalucía en 7 días](/guias/sevilla/andalucia-en-7-dias). Más en [Córdoba en un día](/guias/cordoba/cordoba-en-un-dia).
+Tren de primera hora (40-45 minutos), maleta en una consigna junto a la estación y 20-25 minutos a pie hasta la **Mezquita-Catedral** (15 €; calcula 1 h 30-2 h). Después, la **Judería**, la calle de las Flores y el **puente romano**. Comida de salmorejo y flamenquín y, a media tarde, tren a Granada (1 h 30). Es un día largo, pero te ahorra una noche y un cambio de hotel. Si prefieres dormir en Córdoba, lo plantea así [Andalucía en 7 días](/guias/sevilla/andalucia-en-7-dias). Más en [Córdoba en un día](/guias/cordoba/cordoba-en-un-dia).
 
 ### Día 7: Granada y la Alhambra
 

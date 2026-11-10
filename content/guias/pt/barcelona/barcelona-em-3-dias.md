@@ -84,7 +84,7 @@ faq:
 
 **14:00 — Almoço** de cozinha catalã no Born ou em Sant Antoni. Paelha na Barceloneta, não: arroz pré-cozinhado e marisco congelado a preço alto.
 
-**17:00 — Montjuïc**, depois de uma volta curta pela Barceloneta. Funicular a partir de Paral·lel (incluído no T-casual) ou teleférico a partir do porto (12-13 € ida e volta).
+**17:00 — Montjuïc**, depois de uma volta curta pela Barceloneta. Funicular a partir de Paral·lel (incluído no T-casual) ou teleférico a partir do porto (20 € ida e volta).
 
 - **Castelo:** 12 €, com vistas do porto.
 - **MNAC:** 12 €, grátis aos sábados a partir das 15:00; imprescindível se te interessa o românico.

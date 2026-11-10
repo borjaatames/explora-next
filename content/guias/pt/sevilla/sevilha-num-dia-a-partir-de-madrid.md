@@ -89,7 +89,7 @@ A Sevilha autêntica que quase ninguém vê num dia. Atravesse a ponte e olhe pa
 ## O que fica de fora hoje
 
 - **Santa Cruz:** bonito mas muito turístico; atravessa-o entre o Alcázar e a Catedral, e chega.
-- **Torre del Oro** (3 €) e **as Setas** (15 €): miradouros que hoje não compensam; a Giralda já lhe dá a vista.
+- **Torre del Oro** (3 €) e **as Setas** (16 €): miradouros que hoje não compensam; a Giralda já lhe dá a vista.
 - **Casa de Pilatos** (12 €, 1 hora) e **Museu de Belas-Artes**: para a segunda visita.
 - **Flamenco:** os bons espetáculos são à noite e às 21:00 está no comboio.
 

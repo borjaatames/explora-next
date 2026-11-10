@@ -62,7 +62,7 @@ Der Hafen reduziert die Zahl der Terminals: WTC Nord ist seit 2023 geschlossen, 
 - **Cruise Bus (früher Portbus oder T3):** verbindet die Terminals am Moll Adossat in etwa 5 Minuten mit der Gegend um die Kolumbus-Säule. **3,50 € pro Fahrt oder 5 € als Tageskarte** mit unbegrenzten Fahrten: praktisch, wenn du zwischendurch Einkäufe aufs Schiff bringen willst. Bezahlt wird mit Karte, **TMB-Tickets gelten nicht**.
 - **Zu Fuß:** 25-45 Minuten über einen Kai ohne Schatten. Nur mit Zeit und bei gutem Wetter.
 - **Taxi:** zur Kolumbus-Säule etwa 10 Minuten und 12-15 €. Tarif des Großraums Barcelona: 2,80 € Grundgebühr, 1,35 € pro Kilometer werktags von 8 bis 20 Uhr und 1,66 € nachts, samstags und an Feiertagen, plus **4,60 € Zuschlag** ab Moll Adossat.
-- **Metro:** ab Drassanes (L3), am unteren Ende der Rambla. Einzelticket 2,90 €; die T-casual kostet 13 € für 10 Fahrten und kann von einer Gruppe geteilt werden.
+- **Metro:** ab Drassanes (L3), am unteren Ende der Rambla. Einzelticket 2,90 €; die T-casual kostet 13 € für 10 Fahrten und ist personengebunden: Jeder braucht seine eigene (für Gruppen gibt es die T-familiar).
 - **Shuttle der Reederei:** prüf, wo er hält und ob er etwas kostet.
 
 **Vom Kreuzfahrthafen zur Sagrada Família:** Sie liegt etwa 3 km von der Kolumbus-Säule entfernt. Mit der Metro L3 von Drassanes bis Diagonal und L5 bis Sagrada Família, etwa 20-25 Minuten. Ein Taxi direkt vom Schiff (15-25 Minuten, etwa 20-25 €) erspart dir das Umsteigen.
@@ -75,7 +75,7 @@ Der Hafen reduziert die Zahl der Terminals: WTC Nord ist seit 2023 geschlossen, 
 
 **Mit 8 Stunden.** Sagrada Família und Park Güell mit Tickets, dazu das Gotische Viertel; oder Montserrat, wenn das Schiff 8-9 Stunden im Hafen liegt.
 
-Die **Sagrada Família verkauft nur online** und ist im Sommer Wochen im Voraus ausgebucht. Rechne mit 1 Std. 30 bis 2 Stunden drinnen und wähle ein Zeitfenster, das dir genug Puffer für die Rückkehr lässt. Das Ticket mit Audioguide gibt es ab 34 €.
+Die **Sagrada Família verkauft nur online** und ist im Sommer Wochen im Voraus ausgebucht. Rechne mit 1 Std. 30 bis 2 Stunden drinnen und wähle ein Zeitfenster, das dir genug Puffer für die Rückkehr lässt. Das offizielle Ticket kostet 26 € auf sagradafamilia.org (mit Audioguide-App); über Wiederverkäufer ab 34 €.
 
 [actividad: entrada-sagrada-familia-audioguia]
 

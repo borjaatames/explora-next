@@ -96,7 +96,7 @@ AVE around 9:00, in Seville before noon. Afternoon in the **Santa Cruz quarter**
 
 ### Day 6: Córdoba on the way to Granada
 
-Early train (40-45 minutes), luggage in a locker by the station and a 20-25 minute walk to the **Mosque-Cathedral** (€15; allow 1-1 h 30). Then the **Jewish Quarter**, Calleja de las Flores and the **Roman bridge**. Lunch of salmorejo and flamenquín and, mid-afternoon, the train to Granada (1 h 30). It's a long day, but it saves a night and a hotel change. If you'd rather sleep in Córdoba, [Andalusia in 7 days](/en/guides/sevilla/andalusia-7-day-itinerary) does it that way. More in [Córdoba in one day](/en/guides/cordoba/cordoba-in-one-day).
+Early train (40-45 minutes), luggage in a locker by the station and a 20-25 minute walk to the **Mosque-Cathedral** (€15; allow 1 h 30-2 h). Then the **Jewish Quarter**, Calleja de las Flores and the **Roman bridge**. Lunch of salmorejo and flamenquín and, mid-afternoon, the train to Granada (1 h 30). It's a long day, but it saves a night and a hotel change. If you'd rather sleep in Córdoba, [Andalusia in 7 days](/en/guides/sevilla/andalusia-7-day-itinerary) does it that way. More in [Córdoba in one day](/en/guides/cordoba/cordoba-in-one-day).
 
 ### Day 7: Granada and the Alhambra
 

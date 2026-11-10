@@ -89,7 +89,7 @@ La Sevilla auténtica que casi nadie ve en un día. Cruza el puente y mira atrá
 ## Lo que se salta hoy
 
 - **Santa Cruz:** bonito pero turistizado; lo pisas de paso entre Alcázar y Catedral, y basta.
-- **Torre del Oro** (3 €) y **Las Setas** (15 €): miradores que hoy no compensan; la Giralda ya te da la vista.
+- **Torre del Oro** (3 €) y **Las Setas** (16 €): miradores que hoy no compensan; la Giralda ya te da la vista.
 - **Casa de Pilatos** (12 €, 1 hora) y **Museo de Bellas Artes**: para la segunda visita.
 - **Flamenco:** los buenos espectáculos son nocturnos y a las 21:00 estás en el tren.
 

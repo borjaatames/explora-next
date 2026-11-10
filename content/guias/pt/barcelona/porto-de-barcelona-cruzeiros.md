@@ -62,7 +62,7 @@ O porto está a reduzir terminais: o Nord do World Trade Center fechou em 2023 e
 - **Cruise Bus (antigo Portbus ou T3):** liga os terminais do Moll Adossat à zona do monumento a Colombo em cerca de 5 minutos. **3,50 € por viagem ou 5 € o bilhete diário** com viagens ilimitadas: compensa se for voltar ao navio para deixar compras. Paga-se com cartão e **os bilhetes da TMB não valem**.
 - **A pé:** 25-45 minutos por um cais sem sombra. Só com tempo e bom tempo.
 - **Táxi:** até Colombo, cerca de 10 minutos e 12-15 €. Tarifa da Área Metropolitana: bandeirada de 2,80 €, 1,35 € por quilómetro em dias úteis das 8:00 às 20:00 e 1,66 € à noite, ao sábado e feriados, mais um **suplemento de 4,60 €** à saída do Moll Adossat.
-- **Metro:** desde Drassanes (L3), no fundo da Rambla. Bilhete simples 2,90 €; o T-casual custa 13 € por 10 viagens e pode ser partilhado por um grupo.
+- **Metro:** desde Drassanes (L3), no fundo da Rambla. Bilhete simples 2,90 €; o T-casual custa 13 € por 10 viagens e é pessoal: cada viajante precisa do seu (para grupos, o T-familiar).
 - **Shuttle da companhia:** veja onde para e se é pago.
 
 **À Sagrada Família desde o porto de cruzeiros:** fica a cerca de 3 km de Colombo. De metro, L3 de Drassanes a Diagonal e L5 até Sagrada Família, cerca de 20-25 minutos. O táxi direto do navio (15-25 minutos, cerca de 20-25 €) poupa-lhe o transbordo.
@@ -75,7 +75,7 @@ O porto está a reduzir terminais: o Nord do World Trade Center fechou em 2023 e
 
 **Com 8 horas.** Sagrada Família e Park Güell com entradas, mais o Gótico; ou Montserrat, se o navio ficar 8-9 horas.
 
-A **Sagrada Família só vende online** e no verão esgota com semanas de antecedência. Conte com 1 h 30 a 2 horas lá dentro e escolha um horário que lhe deixe voltar ao navio com folga. A entrada com audioguia custa desde 34 €.
+A **Sagrada Família só vende online** e no verão esgota com semanas de antecedência. Conte com 1 h 30 a 2 horas lá dentro e escolha um horário que lhe deixe voltar ao navio com folga. A entrada oficial custa 26 € em sagradafamilia.org (com a app de audioguia); em revenda, desde 34 €.
 
 [actividad: entrada-sagrada-familia-audioguia]
 

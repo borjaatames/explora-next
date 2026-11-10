@@ -62,7 +62,7 @@ Le port réduit le nombre de terminaux : le WTC Nord a fermé en 2023 et Royal C
 - **Cruise Bus (ex-Portbus ou T3) :** relie les terminaux du Moll Adossat aux abords du monument à Colomb en 5 minutes environ. **3,50 € le trajet ou 5 € le billet journée** avec trajets illimités : utile si vous repassez déposer vos achats au bateau. Paiement par carte, **billets TMB non valables**.
 - **À pied :** 25-45 minutes sur un quai sans ombre. Seulement avec du temps et du beau temps.
 - **Taxi :** jusqu'à Colomb, environ 10 minutes et 12-15 €. Tarif de l'aire métropolitaine : prise en charge de 2,80 €, 1,35 € par kilomètre en semaine de 8 h à 20 h et 1,66 € la nuit, le samedi et les jours fériés, plus un **supplément de 4,60 €** au départ du Moll Adossat.
-- **Métro :** depuis Drassanes (L3), au bas de la Rambla. Ticket simple 2,90 € ; la T-casual coûte 13 € les 10 trajets et peut être partagée par un groupe.
+- **Métro :** depuis Drassanes (L3), au bas de la Rambla. Ticket simple 2,90 € ; la T-casual coûte 13 € les 10 trajets et elle est personnelle : chaque voyageur a besoin de la sienne (pour un groupe, la T-familiar).
 - **Navette de la compagnie :** vérifiez où elle s'arrête et si elle est payante.
 
 **Vers la Sagrada Família depuis le port de croisière :** elle est à environ 3 km de Colomb. En métro, L3 de Drassanes à Diagonal puis L5 jusqu'à Sagrada Família, environ 20-25 minutes. Un taxi direct depuis le bateau (15-25 minutes, environ 20-25 €) vous évite la correspondance.
@@ -75,7 +75,7 @@ Le port réduit le nombre de terminaux : le WTC Nord a fermé en 2023 et Royal C
 
 **Avec 8 heures.** Sagrada Família et Park Güell avec billets, plus le quartier gothique ; ou Montserrat, si le bateau reste 8-9 heures.
 
-La **Sagrada Família ne vend qu'en ligne** et, en été, elle est complète des semaines à l'avance. Comptez 1 h 30 à 2 heures de visite et choisissez un créneau qui vous laisse rentrer au bateau large. Le billet avec audioguide coûte dès 34 €.
+La **Sagrada Família ne vend qu'en ligne** et, en été, elle est complète des semaines à l'avance. Comptez 1 h 30 à 2 heures de visite et choisissez un créneau qui vous laisse rentrer au bateau large. Le billet officiel coûte 26 € sur sagradafamilia.org (avec l'appli audioguide) ; en revente, dès 34 €.
 
 [actividad: entrada-sagrada-familia-audioguia]
 

@@ -89,7 +89,7 @@ La Séville authentique que presque personne ne voit en une journée. Traversez 
 ## Ce qu'on zappe aujourd'hui
 
 - **Santa Cruz :** joli mais très touristique ; vous le traversez entre l'Alcázar et la cathédrale, c'est suffisant.
-- **Torre del Oro** (3 €) et **les Setas** (15 €) : des belvédères qui ne valent pas le coup aujourd'hui ; la Giralda offre déjà la vue.
+- **Torre del Oro** (3 €) et **les Setas** (16 €) : des belvédères qui ne valent pas le coup aujourd'hui ; la Giralda offre déjà la vue.
 - **Casa de Pilatos** (12 €, 1 heure) et **musée des Beaux-Arts** : pour la prochaine visite.
 - **Flamenco :** les bons spectacles sont le soir et à 21 h vous êtes dans le train.
 

@@ -117,7 +117,7 @@ La station est à une **trentaine de kilomètres de Grenade**. En 2025-26, elle 
 
 ## Flamenco et erreurs fréquentes
 
-Les grottes du **Sacromonte** sont la sortie nocturne par excellence : la Cueva La Rocío propose un spectacle d'une heure et demie dès 35 €. En décembre, mieux vaut réserver, et prévoyez un manteau pour la montée et le retour.
+Les grottes du **Sacromonte** sont la sortie nocturne par excellence : la Cueva La Rocío propose un spectacle d'une heure dès 28 € environ, boisson comprise. En décembre, mieux vaut réserver, et prévoyez un manteau pour la montée et le retour.
 
 - **Tenter l'Alhambra le 25 décembre ou le 1er janvier :** elle est fermée.
 - **Acheter les billets de l'Alhambra au dernier moment :** à Noël, ils s'épuisent des semaines avant.

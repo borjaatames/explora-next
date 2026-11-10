@@ -83,7 +83,7 @@ faq:
 
 **14:00 — Lunch:** Catalan food in the Born or Sant Antoni. Not paella in Barceloneta: pre-cooked rice and frozen seafood at high prices.
 
-**17:00 — Montjuïc**, after a short stroll round Barceloneta. Funicular from Paral·lel (included in the T-casual) or cable car from the port (€12-13 return).
+**17:00 — Montjuïc**, after a short stroll round Barceloneta. Funicular from Paral·lel (included in the T-casual) or cable car from the port (€20 return).
 
 - **Castle:** €12, with views of the port.
 - **MNAC:** €12, free on Saturdays from 15:00; a must if you like Romanesque art.

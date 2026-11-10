@@ -96,7 +96,7 @@ AVE verso le 9:00 e a Siviglia prima di mezzogiorno. Pomeriggio nel **barrio di 
 
 ### Giorno 6: Cordova di passaggio verso Granada
 
-Treno di prima mattina (40-45 minuti), valigia in un deposito vicino alla stazione e 20-25 minuti a piedi fino alla **Moschea-Cattedrale** (15 €; calcola 1-1 h 30). Poi la **Judería**, la calleja de las Flores e il **ponte romano**. Pranzo con salmorejo e flamenquín e, a metà pomeriggio, treno per Granada (1 h 30). È una giornata lunga, ma ti fa risparmiare una notte e un cambio d'hotel. Se preferisci dormire a Cordova, [Andalusia in 7 giorni](/it/guides/sevilla/andalusia-in-7-giorni) lo prevede. Di più in [Cordova in un giorno](/it/guides/cordoba/cordova-in-un-giorno).
+Treno di prima mattina (40-45 minuti), valigia in un deposito vicino alla stazione e 20-25 minuti a piedi fino alla **Moschea-Cattedrale** (15 €; calcola 1 h 30-2 h). Poi la **Judería**, la calleja de las Flores e il **ponte romano**. Pranzo con salmorejo e flamenquín e, a metà pomeriggio, treno per Granada (1 h 30). È una giornata lunga, ma ti fa risparmiare una notte e un cambio d'hotel. Se preferisci dormire a Cordova, [Andalusia in 7 giorni](/it/guides/sevilla/andalusia-in-7-giorni) lo prevede. Di più in [Cordova in un giorno](/it/guides/cordoba/cordova-in-un-giorno).
 
 ### Giorno 7: Granada e l'Alhambra
 

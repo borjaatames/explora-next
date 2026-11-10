@@ -42,7 +42,7 @@ faq:
 - pregunta: Is a flamenco show in Sacromonte a good idea with kids?
   respuesta: 'Not with under-8s: the night-time zambra is long, in a stuffy cave, with poorly lit streets. Better Sacromonte by day (Sacromonte Caves Museum) or, with children 8 and over, the first show at 20:00.'
 - pregunta: How do you get up to the Alhambra with kids without wearing them out?
-  respuesta: On the C30 or C32 minibuses, which cost €1.40 per person. Walking up with tired children is much harder than it looks.
+  respuesta: On the C30 or C32 minibuses, which cost €1.60 per person. Walking up with tired children is much harder than it looks.
 ---
 
 ## Things to do in Granada with kids by age
@@ -72,7 +72,7 @@ The Alhambra is very dense and tires a child out long before an adult.
 | 11:00 | Nasrid Palaces at your time slot, unhurried |
 | 12:30 | Head down to the centre |
 
-**Tickets:** general **€22.27**; **under-12s free, but with a named ticket** issued in the same purchase, or they won't get in. With very young children, the **Gardens and Generalife ticket (€12.73)** gives them what they enjoy without the hush of the palaces. To get up, take the **C30 and C32 minibuses (€1.40)**. More detail in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
+**Tickets:** general **€22.27**; **under-12s free, but with a named ticket** issued in the same purchase, or they won't get in. With very young children, the **Gardens and Generalife ticket (€12.73)** gives them what they enjoy without the hush of the palaces. To get up, take the **C30 and C32 minibuses (€1.60)**. More detail in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
 
 ## Day 2: Granada Science Park
 

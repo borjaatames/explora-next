@@ -101,7 +101,7 @@ La ville fortifiée d'**Alcúdia**, avec la romaine Pollentia à côté ; les pl
 | Cathédrale de Palma | 10 €, gratuit moins de 10 ans ; terrasses 20 € de plus, avec guide et réservation | Lun-sam 10h-17h15 (18h15 en été) ; fermée aux touristes le dimanche |
 | Almudaina | 7 €, gratuit pour les citoyens UE mercredi et jeudi après-midi | Fermé le lundi |
 | Château de Bellver | 4 €, gratuit le dimanche ; bus 4 ou 20 min à pied | Fermé le lundi |
-| Train de Sóller | 30 € aller-retour ; tramway jusqu'au port en plus, 9 € le trajet | Départs 10h10, 10h50, 12h15, 13h30 et 15h10 |
+| Train de Sóller | 30 € aller-retour ; tramway jusqu'au port en plus, 10 € le trajet | Départs 10h10, 10h50, 12h15, 13h30 et 15h10 |
 | Grottes du Drach | 18,50 € en ligne (11,50 € de 3 à 12 ans) ; **réservez, c'est souvent complet** | Entrées à 10h, 11h, 12h, 14h, 15h, 16h et 17h d'avril à octobre ; quatre en hiver |
 | Cap de Formentor | Du 15 mai au 18 octobre (10h-22h), voitures seulement jusqu'à ce que le parking de la plage soit plein ; phare réservé aux véhicules autorisés | Bus TIB 334 depuis Alcúdia et Port de Pollença, ou bateau |
 

@@ -88,7 +88,7 @@ The authentic Seville that almost nobody sees in a day. Cross the bridge and loo
 ## What you can skip today
 
 - **Santa Cruz:** pretty but touristy; you walk through it between the Alcázar and the Cathedral, and that's enough.
-- **Torre del Oro** (€3) and **the Setas** (€15): viewpoints that aren't worth it today; the Giralda already gives you the view.
+- **Torre del Oro** (€3) and **the Setas** (€16): viewpoints that aren't worth it today; the Giralda already gives you the view.
 - **Casa de Pilatos** (€12, 1 hour) and the **Fine Arts Museum**: for your next visit.
 - **Flamenco:** the good shows are at night and at 21:00 you're on the train.
 

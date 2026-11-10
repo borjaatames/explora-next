@@ -117,7 +117,7 @@ The resort is about **30 km from Granada**. In 2025-26 it opened on **29 Novembe
 
 ## Flamenco and common mistakes
 
-The **Sacromonte** caves are the night-time plan par excellence: Cueva La Rocío has a 90-minute show from €35. In December it's worth booking, and bring a coat for the walk up and back.
+The **Sacromonte** caves are the night-time plan par excellence: Cueva La Rocío has a one-hour show from about €28 with a drink. In December it's worth booking, and bring a coat for the walk up and back.
 
 - **Trying the Alhambra on 25 December or 1 January:** it's closed.
 - **Buying Alhambra tickets at the last minute:** at Christmas they sell out weeks ahead.

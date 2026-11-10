@@ -116,7 +116,7 @@ Das Skigebiet liegt rund **30 km von Granada** entfernt. 2025-26 öffnete es am 
 
 ## Flamenco und typische Fehler
 
-Die Höhlen des **Sacromonte** sind das Abendprogramm schlechthin: Die Cueva La Rocío bietet eine anderthalbstündige Show ab 35 €. Im Dezember lohnt sich eine Reservierung, und nehmen Sie für den Auf- und Abstieg einen Mantel mit.
+Die Höhlen des **Sacromonte** sind das Abendprogramm schlechthin: Die Cueva La Rocío bietet eine einstündige Show ab etwa 28 € mit Getränk. Im Dezember lohnt sich eine Reservierung, und nehmen Sie für den Auf- und Abstieg einen Mantel mit.
 
 - **Die Alhambra am 25. Dezember oder 1. Januar besuchen wollen:** Sie ist geschlossen.
 - **Alhambra-Tickets in letzter Minute kaufen:** An Weihnachten sind sie Wochen vorher ausverkauft.

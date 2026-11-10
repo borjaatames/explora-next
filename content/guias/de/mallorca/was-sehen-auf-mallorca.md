@@ -101,7 +101,7 @@ Die ummauerte Stadt **Alcúdia** mit dem römischen Pollentia daneben; die Famil
 | Kathedrale von Palma | 10 €, frei unter 10 Jahren; Terrassen 20 € extra, mit Führung und Reservierung | Mo-Sa 10:00-17:15 (Sommer 18:15); sonntags für Touristen geschlossen |
 | Almudaina | 7 €, für EU-Bürger mittwochs und donnerstags nachmittags frei | Montags geschlossen |
 | Castell de Bellver | 4 €, sonntags frei; Bus 4 oder 20 Min. zu Fuß | Montags geschlossen |
-| Sóller-Zug | 30 € hin und zurück; Straßenbahn zum Hafen extra, 9 € pro Fahrt | Abfahrten 10:10, 10:50, 12:15, 13:30 und 15:10 |
+| Sóller-Zug | 30 € hin und zurück; Straßenbahn zum Hafen extra, 10 € pro Fahrt | Abfahrten 10:10, 10:50, 12:15, 13:30 und 15:10 |
 | Cuevas del Drach | 18,50 € online (11,50 € 3-12 Jahre); **reservieren, oft ausverkauft** | Einlässe um 10, 11, 12, 14, 15, 16 und 17 Uhr von April bis Oktober; im Winter vier |
 | Cap de Formentor | 15. Mai bis 18. Oktober (10:00-22:00), Autos nur bis der Strandparkplatz voll ist; Leuchtturm nur für berechtigte Fahrzeuge | TIB-Bus 334 ab Alcúdia und Port de Pollença oder Boot |
 

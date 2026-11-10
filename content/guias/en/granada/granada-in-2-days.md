@@ -82,7 +82,7 @@ More detail in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-vi
 
 **Sunset.** **San Nicolás** is the postcard view: get there 45 minutes early. If the crowd spoils it, **San Cristóbal**, 10 minutes further up, has half the people.
 
-**Zambra.** The flamenco of the Sacromonte caves, intimate and rooted in the gypsy wedding. Cueva de la Rocío (€28-30 with a drink), Los Tarantos (€26) or María la Canastera (€22-26). Book ahead, as weekends sell out, and take a taxi back (€5-7). To choose, see [the cave comparison](/en/guides/granada/flamenco-cave-sacromonte-which-to-choose).
+**Zambra.** The flamenco of the Sacromonte caves, intimate and rooted in the gypsy wedding. Cueva de la Rocío (€28-30 with a drink), Los Tarantos (€28) or María la Canastera (€22-26). Book ahead, as weekends sell out, and take a taxi back (€5-7). To choose, see [the cave comparison](/en/guides/granada/flamenco-cave-sacromonte-which-to-choose).
 
 ## Day 2: historic centre and Cartuja
 

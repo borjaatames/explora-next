@@ -101,7 +101,7 @@ The walled town of **Alcúdia**, with Roman Pollentia beside it; the family beac
 | Palma Cathedral | €10, free under 10; terraces €20 extra, guided and booked | Mon-Sat 10:00-17:15 (18:15 in summer); closed to tourists on Sundays |
 | Almudaina | €7, free for EU citizens Wednesday and Thursday afternoons | Closed Mondays |
 | Castell de Bellver | €4, free on Sundays; bus 4 or 20 min on foot | Closed Mondays |
-| Sóller train | €30 return; tram to the port extra, €9 per trip | Departures 10:10, 10:50, 12:15, 13:30 and 15:10 |
+| Sóller train | €30 return; tram to the port extra, €10 per trip | Departures 10:10, 10:50, 12:15, 13:30 and 15:10 |
 | Drach Caves | €18.50 online (€11.50 ages 3-12); **book, it sells out** | Entries at 10, 11, 12, 14, 15, 16 and 17 h from April to October; four in winter |
 | Cape Formentor | 15 May to 18 October (10:00-22:00), cars only until the beach car park is full; lighthouse for authorised vehicles only | TIB bus 334 from Alcúdia and Port de Pollença, or boat |
 

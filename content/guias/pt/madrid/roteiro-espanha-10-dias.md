@@ -96,7 +96,7 @@ AVE por volta das 9:00 e em Sevilha antes do meio-dia. Tarde para o **bairro de 
 
 ### Dia 6: Córdova de passagem para Granada
 
-Comboio logo cedo (40-45 minutos), mala num cacifo junto à estação e 20-25 minutos a pé até à **Mesquita-Catedral** (15 €; conte com 1-1 h 30). Depois, a **Judiaria**, a calleja de las Flores e a **ponte romana**. Almoço de salmorejo e flamenquín e, a meio da tarde, comboio para Granada (1 h 30). É um dia longo, mas poupa-lhe uma noite e uma mudança de hotel. Se preferir dormir em Córdova, [Andaluzia em 7 dias](/pt/guides/sevilla/andaluzia-em-7-dias) propõe isso. Mais em [Córdova num dia](/pt/guides/cordoba/cordova-num-dia).
+Comboio logo cedo (40-45 minutos), mala num cacifo junto à estação e 20-25 minutos a pé até à **Mesquita-Catedral** (15 €; conte com 1 h 30-2 h). Depois, a **Judiaria**, a calleja de las Flores e a **ponte romana**. Almoço de salmorejo e flamenquín e, a meio da tarde, comboio para Granada (1 h 30). É um dia longo, mas poupa-lhe uma noite e uma mudança de hotel. Se preferir dormir em Córdova, [Andaluzia em 7 dias](/pt/guides/sevilla/andaluzia-em-7-dias) propõe isso. Mais em [Córdova num dia](/pt/guides/cordoba/cordova-num-dia).
 
 ### Dia 7: Granada e a Alhambra
 

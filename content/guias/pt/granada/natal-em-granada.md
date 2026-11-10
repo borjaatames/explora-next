@@ -117,7 +117,7 @@ A estância fica a cerca de **30 km de Granada**. Em 2025-26 abriu a **29 de nov
 
 ## Flamenco e erros típicos
 
-As grutas do **Sacromonte** são o plano noturno por excelência: a Cueva La Rocío tem um espetáculo de hora e meia desde 35 €. Em dezembro convém reservar, e leve casaco para a subida e o regresso.
+As grutas do **Sacromonte** são o plano noturno por excelência: a Cueva La Rocío tem um espetáculo de uma hora desde cerca de 28 € com bebida. Em dezembro convém reservar, e leve casaco para a subida e o regresso.
 
 - **Tentar a Alhambra a 25 de dezembro ou a 1 de janeiro:** está fechada.
 - **Comprar os bilhetes da Alhambra à última hora:** no Natal esgotam com semanas de antecedência.

@@ -84,7 +84,7 @@ faq:
 
 **14:00 Uhr — Mittagessen:** katalanische Küche im Born oder in Sant Antoni. Keine Paella in der Barceloneta: vorgekochter Reis und tiefgefrorene Meeresfrüchte zu hohen Preisen.
 
-**17:00 Uhr — Montjuïc**, nach einer kurzen Runde durch die Barceloneta. Standseilbahn ab Paral·lel (in der T-casual enthalten) oder Seilbahn vom Hafen (12-13 € hin und zurück).
+**17:00 Uhr — Montjuïc**, nach einer kurzen Runde durch die Barceloneta. Standseilbahn ab Paral·lel (in der T-casual enthalten) oder Seilbahn vom Hafen (20 € hin und zurück).
 
 - **Burg:** 12 €, mit Blick auf den Hafen.
 - **MNAC:** 12 €, samstags ab 15:00 Uhr gratis; Pflicht, wenn dich Romanik interessiert.

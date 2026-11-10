@@ -85,7 +85,7 @@ Plus de détails dans [comment visiter l'Alhambra](/fr/guides/granada/alhambra-c
 
 **Coucher de soleil.** **San Nicolás** est la carte postale : arrivez 45 minutes avant. Si la foule vous gâche le moment, **San Cristóbal**, 10 minutes plus haut, compte moitié moins de monde.
 
-**Zambra.** Le flamenco des grottes du Sacromonte, intime et enraciné dans la noce gitane. Cueva de la Rocío (28-30 € avec boisson), Los Tarantos (26 €) ou María la Canastera (22-26 €). Réservez, car le week-end il n'y a plus de places, et rentrez en taxi (5-7 €). Pour choisir, consultez [le comparatif des grottes](/fr/guides/granada/flamenco-grotte-sacromonte-laquelle-choisir).
+**Zambra.** Le flamenco des grottes du Sacromonte, intime et enraciné dans la noce gitane. Cueva de la Rocío (28-30 € avec boisson), Los Tarantos (28 €) ou María la Canastera (22-26 €). Réservez, car le week-end il n'y a plus de places, et rentrez en taxi (5-7 €). Pour choisir, consultez [le comparatif des grottes](/fr/guides/granada/flamenco-grotte-sacromonte-laquelle-choisir).
 
 ## Jour 2 : centre historique et Cartuja
 

@@ -85,7 +85,7 @@ Mais detalhes em [como visitar a Alhambra](/pt/guides/granada/alhambra-como-visi
 
 **Pôr do sol.** **San Nicolás** é o postal: chegue 45 minutos antes. Se a multidão estragar o momento, 10 minutos mais acima está **San Cristóbal**, com metade da gente.
 
-**Zambra.** O flamenco das grutas do Sacromonte, intimista e com raízes no casamento cigano. Cueva de la Rocío (28-30 € com bebida), Los Tarantos (26 €) ou María la Canastera (22-26 €). Reserve, porque ao fim de semana não há lugares, e volte de táxi (5-7 €). Para escolher, veja [a comparação das grutas](/pt/guides/granada/flamenco-gruta-sacromonte-qual-escolher).
+**Zambra.** O flamenco das grutas do Sacromonte, intimista e com raízes no casamento cigano. Cueva de la Rocío (28-30 € com bebida), Los Tarantos (28 €) ou María la Canastera (22-26 €). Reserve, porque ao fim de semana não há lugares, e volte de táxi (5-7 €). Para escolher, veja [a comparação das grutas](/pt/guides/granada/flamenco-gruta-sacromonte-qual-escolher).
 
 ## Dia 2: centro histórico e Cartuja
 

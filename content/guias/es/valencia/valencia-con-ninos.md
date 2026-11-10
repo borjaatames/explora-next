@@ -25,7 +25,7 @@ slugs:
   pt: valencia-com-criancas
 reservasArriba: true
 intro: 'Viajar a **Valencia con niños** es de lo más fácil en España: la ciudad es llana y segura, tiene playa urbana y un parque de nueve kilómetros sin coches para recorrer en bici. Suma dos de los grandes planes familiares del país, el **Oceanogràfic**, el mayor acuario de Europa, y el **Bioparc**, además de la Ciudad de las Artes y las Ciencias y un tobogán gigante con forma de Gulliver.'
-respuestaCorta: 'Valencia con niños funciona muy bien: es **llana, segura y con playa urbana**. Los dos imprescindibles son el **Oceanogràfic**, el mayor acuario de Europa (desde 37 €), y el **Bioparc** (29,50 €); entre medias, bici por el **Jardín del Turia**, nueve kilómetros sin coches. El casco histórico, en dosis cortas. Mejor de marzo a junio.'
+respuestaCorta: 'Valencia con niños funciona muy bien: es **llana, segura y con playa urbana**. Los dos imprescindibles son el **Oceanogràfic**, el mayor acuario de Europa (desde 39 €), y el **Bioparc** (29,50 €); entre medias, bici por el **Jardín del Turia**, nueve kilómetros sin coches. El casco histórico, en dosis cortas. Mejor de marzo a junio.'
 actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada

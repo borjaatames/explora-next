@@ -96,7 +96,7 @@ AVE vers 9h00, à Séville avant midi. L'après-midi, le **quartier de Santa Cru
 
 ### Jour 6 : Cordoue en étape vers Grenade
 
-Train tôt le matin (40-45 minutes), valise à la consigne près de la gare et 20-25 minutes à pied jusqu'à la **Mosquée-Cathédrale** (15 € ; comptez 1 h-1 h 30). Ensuite la **Judería**, la calleja de las Flores et le **pont romain**. Déjeuner de salmorejo et de flamenquín puis, en milieu d'après-midi, train pour Grenade (1 h 30). La journée est longue, mais elle vous fait gagner une nuit et un changement d'hôtel. Pour dormir à Cordoue, [l'Andalousie en 7 jours](/fr/guides/sevilla/andalousie-en-7-jours) propose cette version. Plus d'infos dans [Cordoue en une journée](/fr/guides/cordoba/cordoue-en-une-journee).
+Train tôt le matin (40-45 minutes), valise à la consigne près de la gare et 20-25 minutes à pied jusqu'à la **Mosquée-Cathédrale** (15 € ; comptez 1 h 30-2 h). Ensuite la **Judería**, la calleja de las Flores et le **pont romain**. Déjeuner de salmorejo et de flamenquín puis, en milieu d'après-midi, train pour Grenade (1 h 30). La journée est longue, mais elle vous fait gagner une nuit et un changement d'hôtel. Pour dormir à Cordoue, [l'Andalousie en 7 jours](/fr/guides/sevilla/andalousie-en-7-jours) propose cette version. Plus d'infos dans [Cordoue en une journée](/fr/guides/cordoba/cordoue-en-une-journee).
 
 ### Jour 7 : Grenade et l'Alhambra
 

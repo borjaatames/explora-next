@@ -107,7 +107,7 @@ Den Rest des Vormittags verbringst du im **Viertel El Carmen**, dem ältesten de
 | Torres de Serranos und de Quart | Je 2 €, sonntags gratis | Serranos hat den besten Blick auf den Turia |
 | Oceanogràfic | Ab 37 € | In der Hochsaison online buchen |
 | Hemisfèric / Wissenschaftsmuseum | Je 9 €; alle drei ab 46 € | |
-| Bioparc | 27–28 € | Ab 10:00; Metro Nou d'Octubre |
+| Bioparc | ab 29,50 € | Ab 10:00; Metro Nou d'Octubre |
 | Verkehr | Einzelfahrt 1,50 €; SUMA 10 Fahrten 8 € + 1 € Karte; Valenbisi Woche 13,30 € | Bus zur Albufera 1,50 € |
 
 ## Übernachten und essen

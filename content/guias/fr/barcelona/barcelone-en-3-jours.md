@@ -84,7 +84,7 @@ faq:
 
 **14 h — Déjeuner** de cuisine catalane dans le Born ou à Sant Antoni. Pas de paella à la Barceloneta : riz précuit et fruits de mer surgelés à prix fort.
 
-**17 h — Montjuïc**, après un petit tour à la Barceloneta. Funiculaire depuis Paral·lel (inclus dans la T-casual) ou téléphérique depuis le port (12-13 € aller-retour).
+**17 h — Montjuïc**, après un petit tour à la Barceloneta. Funiculaire depuis Paral·lel (inclus dans la T-casual) ou téléphérique depuis le port (20 € aller-retour).
 
 - **Château :** 12 €, avec vue sur le port.
 - **MNAC :** 12 €, gratuit le samedi à partir de 15 h ; incontournable si l'art roman vous intéresse.

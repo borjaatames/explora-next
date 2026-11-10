@@ -27,7 +27,7 @@ slugs:
   pt: valencia-com-criancas
 reservasArriba: true
 intro: 'Eine Reise nach **Valencia mit Kindern** ist so einfach wie kaum anderswo in Spanien: Die Stadt ist flach und sicher, hat einen Stadtstrand und einen neun Kilometer langen autofreien Park zum Radfahren. Dazu kommen zwei der größten Familienattraktionen des Landes, das **Oceanogràfic**, Europas größtes Aquarium, und der **Bioparc**, sowie die Stadt der Künste und Wissenschaften und eine riesige Rutsche in Form von Gulliver.'
-respuestaCorta: 'Valencia mit Kindern funktioniert bestens: **flach, sicher und mit Stadtstrand**. Die zwei Highlights sind das **Oceanogràfic**, Europas größtes Aquarium (ab 37 €), und der **Bioparc** (29,50 €); dazwischen eine Radtour durch die **Turia-Gärten**, neun Kilometer ohne Autos. Die Altstadt in kleinen Dosen. Am besten von März bis Juni.'
+respuestaCorta: 'Valencia mit Kindern funktioniert bestens: **flach, sicher und mit Stadtstrand**. Die zwei Highlights sind das **Oceanogràfic**, Europas größtes Aquarium (ab 39 €), und der **Bioparc** (29,50 €); dazwischen eine Radtour durch die **Turia-Gärten**, neun Kilometer ohne Autos. Die Altstadt in kleinen Dosen. Am besten von März bis Juni.'
 actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada

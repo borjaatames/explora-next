@@ -117,7 +117,7 @@ La stazione è a circa **30 km da Granada**. Nel 2025-26 ha aperto il **29 novem
 
 ## Flamenco ed errori tipici
 
-Le grotte del **Sacromonte** sono il programma serale per eccellenza: la Cueva La Rocío offre uno spettacolo di un'ora e mezza da 35 €. A dicembre conviene prenotare, e porta un cappotto per la salita e il ritorno.
+Le grotte del **Sacromonte** sono il programma serale per eccellenza: la Cueva La Rocío offre uno spettacolo di un'ora da circa 28 € con bevanda. A dicembre conviene prenotare, e porta un cappotto per la salita e il ritorno.
 
 - **Tentare l'Alhambra il 25 dicembre o il 1° gennaio:** è chiusa.
 - **Comprare i biglietti dell'Alhambra all'ultimo:** a Natale si esauriscono con settimane d'anticipo.

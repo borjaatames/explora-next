@@ -117,7 +117,7 @@ La estación está a unos **30 km de Granada**. En 2025-26 abrió el **29 de nov
 
 ## Flamenco y errores típicos
 
-Las cuevas del **Sacromonte** son el plan nocturno por excelencia: la Cueva La Rocío tiene espectáculo de hora y media desde 35 €. En diciembre conviene reservar, y lleva abrigo para la subida y la vuelta.
+Las cuevas del **Sacromonte** son el plan nocturno por excelencia: la Cueva La Rocío tiene espectáculo de una hora desde unos 28 € con bebida. En diciembre conviene reservar, y lleva abrigo para la subida y la vuelta.
 
 - **Intentar la Alhambra el 25 de diciembre o el 1 de enero:** está cerrada.
 - **Comprar la Alhambra a última hora:** en Navidad se agota con semanas de antelación.

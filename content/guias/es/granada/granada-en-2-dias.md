@@ -85,7 +85,7 @@ Detalle en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar).
 
 **Atardecer.** **San Nicolás** es la postal: llega 45 minutos antes. Si la multitud te lo estropea, 10 minutos más arriba está **San Cristóbal**, con la mitad de gente.
 
-**Zambra.** El flamenco de las cuevas del Sacromonte, íntimo y con raíces en la boda gitana. Cueva de la Rocío (28-30 € con copa), Los Tarantos (26 €) o María la Canastera (22-26 €). Reserva, porque los fines de semana no quedan plazas, y vuelve en taxi (5-7 €). Para elegir, mira [la comparativa de cuevas](/guias/granada/flamenco-cueva-sacromonte-cual-elegir).
+**Zambra.** El flamenco de las cuevas del Sacromonte, íntimo y con raíces en la boda gitana. Cueva de la Rocío (28-30 € con copa), Los Tarantos (28 €) o María la Canastera (22-26 €). Reserva, porque los fines de semana no quedan plazas, y vuelve en taxi (5-7 €). Para elegir, mira [la comparativa de cuevas](/guias/granada/flamenco-cueva-sacromonte-cual-elegir).
 
 ## Día 2: centro histórico y Cartuja
 

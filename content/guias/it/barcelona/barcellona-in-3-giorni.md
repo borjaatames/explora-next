@@ -84,7 +84,7 @@ faq:
 
 **14:00 — Pranzo** di cucina catalana al Born o a Sant Antoni. Niente paella alla Barceloneta: riso precotto e frutti di mare surgelati a prezzi alti.
 
-**17:00 — Montjuïc**, dopo un breve giro alla Barceloneta. Funicolare da Paral·lel (inclusa nella T-casual) o funivia dal porto (12-13 € andata e ritorno).
+**17:00 — Montjuïc**, dopo un breve giro alla Barceloneta. Funicolare da Paral·lel (inclusa nella T-casual) o funivia dal porto (20 € andata e ritorno).
 
 - **Castello:** 12 €, con vista sul porto.
 - **MNAC:** 12 €, gratis il sabato dalle 15:00; imperdibile se ti interessa il romanico.

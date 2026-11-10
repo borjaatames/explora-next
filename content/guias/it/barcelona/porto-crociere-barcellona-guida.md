@@ -62,7 +62,7 @@ Il porto sta riducendo i terminal: il Nord del World Trade Center ha chiuso nel 
 - **Cruise Bus (ex Portbus o T3):** collega i terminal del Moll Adossat con la zona del monumento a Colombo in circa 5 minuti. **3,50 € a tratta o 5 € il biglietto giornaliero** con corse illimitate: conviene se pensi di tornare a lasciare gli acquisti in nave. Si paga con carta e **i biglietti TMB non valgono**.
 - **A piedi:** 25-45 minuti lungo un molo senza ombra. Solo con tempo e bel tempo.
 - **Taxi:** fino a Colombo, circa 10 minuti e 12-15 €. Tariffa dell'Area Metropolitana: scatto iniziale di 2,80 €, 1,35 € al chilometro nei feriali dalle 8:00 alle 20:00 e 1,66 € di notte, il sabato e nei festivi, più un **supplemento di 4,60 €** in partenza dal Moll Adossat.
-- **Metro:** da Drassanes (L3), in fondo alla Rambla. Biglietto singolo 2,90 €; la T-casual costa 13 € per 10 corse e la può condividere un gruppo.
+- **Metro:** da Drassanes (L3), in fondo alla Rambla. Biglietto singolo 2,90 €; la T-casual costa 13 € per 10 corse ed è personale: ogni viaggiatore ha bisogno della sua (per i gruppi c'è la T-familiar).
 - **Navetta della compagnia:** controlla dove ferma e se è a pagamento.
 
 **Alla Sagrada Família dal porto crociere:** è a circa 3 km da Colombo. In metro, L3 da Drassanes a Diagonal e L5 fino a Sagrada Família, circa 20-25 minuti. Il taxi diretto dalla nave (15-25 minuti, circa 20-25 €) ti risparmia il cambio.
@@ -75,7 +75,7 @@ Il porto sta riducendo i terminal: il Nord del World Trade Center ha chiuso nel 
 
 **Con 8 ore.** Sagrada Família e Park Güell con biglietti, più il Gotico; oppure Montserrat, se la nave resta 8-9 ore.
 
-La **Sagrada Família vende solo online** e d'estate si esaurisce con settimane di anticipo. Calcola da 1 h 30 a 2 ore di visita e scegli una fascia che ti lasci tornare alla nave con calma. Il biglietto con audioguida costa da 34 €.
+La **Sagrada Família vende solo online** e d'estate si esaurisce con settimane di anticipo. Calcola da 1 h 30 a 2 ore di visita e scegli una fascia che ti lasci tornare alla nave con calma. Il biglietto ufficiale costa 26 € su sagradafamilia.org (con l'app audioguida); tramite rivenditori, da 34 €.
 
 [actividad: entrada-sagrada-familia-audioguia]
 

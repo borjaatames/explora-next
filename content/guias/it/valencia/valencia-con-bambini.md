@@ -25,7 +25,7 @@ slugs:
   pt: valencia-com-criancas
 reservasArriba: true
 intro: 'Visitare **Valencia con bambini** è tra le cose più facili da fare in Spagna: la città è pianeggiante e sicura, ha una spiaggia urbana e un parco di nove chilometri senza auto da percorrere in bici. A questo si aggiungono due delle grandi attrazioni per famiglie del Paese, l''**Oceanogràfic**, il più grande acquario d''Europa, e il **Bioparc**, oltre alla Città delle Arti e delle Scienze e a uno scivolo gigante a forma di Gulliver.'
-respuestaCorta: 'Valencia con bambini funziona benissimo: è **pianeggiante, sicura e con spiaggia urbana**. I due imperdibili sono l''**Oceanogràfic**, il più grande acquario d''Europa (da 37 €), e il **Bioparc** (29,50 €); nel mezzo, bici nel **Giardino del Turia**, nove chilometri senza auto. Il centro storico, a piccole dosi. Meglio da marzo a giugno.'
+respuestaCorta: 'Valencia con bambini funziona benissimo: è **pianeggiante, sicura e con spiaggia urbana**. I due imperdibili sono l''**Oceanogràfic**, il più grande acquario d''Europa (da 39 €), e il **Bioparc** (29,50 €); nel mezzo, bici nel **Giardino del Turia**, nove chilometri senza auto. Il centro storico, a piccole dosi. Meglio da marzo a giugno.'
 actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada

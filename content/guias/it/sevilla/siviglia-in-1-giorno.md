@@ -89,7 +89,7 @@ La Siviglia autentica che quasi nessuno vede in un giorno. Attraversa il ponte e
 ## Cosa saltare oggi
 
 - **Santa Cruz:** bello ma turistico; lo attraversi tra Alcázar e Cattedrale, e basta.
-- **Torre del Oro** (3 €) e **le Setas** (15 €): belvedere che oggi non valgono la pena; la vista te la dà già la Giralda.
+- **Torre del Oro** (3 €) e **le Setas** (16 €): belvedere che oggi non valgono la pena; la vista te la dà già la Giralda.
 - **Casa de Pilatos** (12 €, 1 ora) e **Museo di Belle Arti**: per la prossima visita.
 - **Flamenco:** gli spettacoli buoni sono serali e alle 21:00 sei sul treno.
 

@@ -62,7 +62,7 @@ The port is cutting back on terminals: WTC Nord closed in 2023 and Royal Caribbe
 - **Cruise Bus (formerly Portbus or T3):** links the Moll Adossat terminals with the Columbus monument area in about 5 minutes. **€3.50 one way or €5 for a day ticket** with unlimited rides: worth it if you'll go back to drop shopping on the ship. You pay by card and **TMB tickets aren't valid**.
 - **On foot:** 25-45 minutes along a quay with no shade. Only with time to spare and good weather.
 - **Taxi:** to Columbus, about 10 minutes and €12-15. Metropolitan tariff: €2.80 flag fall, €1.35 per km on weekdays from 8am to 8pm and €1.66 at night, on Saturdays and holidays, plus a **€4.60 supplement** for pickups at the Moll Adossat.
-- **Metro:** from Drassanes (L3), at the bottom of La Rambla. A single ticket is €2.90; the T-casual costs €13 for 10 rides and a group can share it.
+- **Metro:** from Drassanes (L3), at the bottom of La Rambla. A single ticket is €2.90; the T-casual costs €13 for 10 rides but it is personal: each traveller needs their own (groups can share a T-familiar).
 - **Cruise line shuttle:** check where it stops and whether it charges.
 
 **To the Sagrada Família from the cruise port:** it's about 3 km from Columbus. By metro, L3 from Drassanes to Diagonal and L5 to Sagrada Família, about 20-25 minutes. A direct taxi from the ship (15-25 minutes, about €20-25) saves you the change.
@@ -75,7 +75,7 @@ The port is cutting back on terminals: WTC Nord closed in 2023 and Royal Caribbe
 
 **With 8 hours.** The Sagrada Família and Park Güell with tickets, plus the Gothic Quarter; or Montserrat, if the ship is in port for 8-9 hours.
 
-The **Sagrada Família only sells online** and in summer sells out weeks ahead. Allow 1 h 30 to 2 hours inside and choose a slot that leaves plenty of time to get back to the ship. The ticket with audio guide starts at €34.
+The **Sagrada Família only sells online** and in summer sells out weeks ahead. Allow 1 h 30 to 2 hours inside and choose a slot that leaves plenty of time to get back to the ship. The official ticket costs €26 on sagradafamilia.org (with the audio guide app); resellers charge from €34.
 
 [actividad: entrada-sagrada-familia-audioguia]
 
