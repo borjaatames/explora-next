@@ -75,7 +75,7 @@ galeria:
   alt: Courtyard of a historic building at night
 - src: https://imgcdn.bokun.tools/5b1704bb-50a7-498a-ad55-588701eef863.jpeg
   alt: Group gathered under the Setas before the tour
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-10'
 ---

@@ -100,7 +100,7 @@ galeria:
   alt: Voller Strand von Barceloneta mit den Hochhäusern von Port Olímpic
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp
   alt: Segelboot vor der Küste von Barcelona
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-05'
 ---

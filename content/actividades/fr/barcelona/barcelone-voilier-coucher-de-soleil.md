@@ -101,7 +101,7 @@ galeria:
   alt: Plage de la Barceloneta bondée avec les tours du Port Olímpic
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
   alt: Voilier au coucher du soleil face à Barcelone
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-05'
 ---

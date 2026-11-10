@@ -100,7 +100,7 @@ galeria:
   alt: Spiaggia della Barceloneta piena di bagnanti, con i grattacieli del Port Olímpic sullo sfondo
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp
   alt: Yacht a vela al largo della costa di Barcellona
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-06-18'

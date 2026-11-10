@@ -101,7 +101,7 @@ galeria:
   alt: Praia da Barceloneta cheia de banhistas com os arranha-céus do Port Olímpic ao fundo
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp
   alt: Veleiro a navegar em frente à costa de Barcelona
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-06-18'

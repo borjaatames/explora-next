@@ -76,7 +76,7 @@ galeria:
   alt: Grupo del tour por una calle de Sevilla
 - src: https://imgcdn.bokun.tools/8b250f23-a3a5-48f5-a8b2-c3b346c65951.jpeg
   alt: Portada de una iglesia de Sevilla
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-10'
 ---

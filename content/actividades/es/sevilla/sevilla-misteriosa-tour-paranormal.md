@@ -75,7 +75,7 @@ galeria:
   alt: Patio de un edificio histórico de noche
 - src: https://imgcdn.bokun.tools/5b1704bb-50a7-498a-ad55-588701eef863.jpeg
   alt: Grupo reunido bajo las Setas antes del tour
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-10'
 ---

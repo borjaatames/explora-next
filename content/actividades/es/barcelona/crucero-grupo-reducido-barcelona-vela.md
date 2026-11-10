@@ -99,7 +99,7 @@ galeria:
   alt: Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo
 - src: /images/actividades/barcelona/watersports/crucero-vela-barcelona-01.webp
   alt: Velero navegando frente a la costa de Barcelona
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-06-18'

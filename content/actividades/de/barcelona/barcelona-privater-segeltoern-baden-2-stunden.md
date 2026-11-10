@@ -98,7 +98,7 @@ galeria:
   alt: Strand von Barceloneta voller Sonnenbadender mit den Hochhäusern des Port Olímpic im Hintergrund
 - src: /images/actividades/barcelona/watersports/velero-privado-barcelona-01.webp
   alt: Privates Segelboot vor der Küste Barcelonas
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-06-18'
 fecha_actualizacion: '2026-06-23'

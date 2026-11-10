@@ -101,7 +101,7 @@ galeria:
   alt: Barceloneta beach crowded with sunbathers, with the Port Olimpic skyscrapers in the background
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
   alt: Sailing yacht at sunset off the Barcelona coast
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-06-18'

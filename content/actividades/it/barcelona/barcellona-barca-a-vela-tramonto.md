@@ -101,7 +101,7 @@ galeria:
   alt: Spiaggia della Barceloneta affollata con i grattacieli di Port Olímpic
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
   alt: Barca a vela al tramonto davanti a Barcellona
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-05'
 ---

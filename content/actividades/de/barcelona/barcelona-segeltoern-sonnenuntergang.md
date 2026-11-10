@@ -101,7 +101,7 @@ galeria:
   alt: Voller Strand von Barceloneta mit den Hochhäusern des Port Olímpic im Hintergrund
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
   alt: Segelyacht bei Sonnenuntergang vor der Küste Barcelonas
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-06-18'

@@ -101,7 +101,7 @@ galeria:
   alt: Playa de la Barceloneta abarrotada de banistas con los rascacielos de Port Olimpic al fondo
 - src: /images/actividades/barcelona/watersports/sunset-sailing-barcelona-01.webp
   alt: Velero al atardecer frente a la costa de Barcelona
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-06-18'
