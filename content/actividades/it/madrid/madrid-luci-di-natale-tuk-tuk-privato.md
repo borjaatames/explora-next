@@ -62,9 +62,31 @@ keywords:
 - luci di natale madrid
 - tuk tuk natale madrid
 - tour luci di natale madrid
-imagen: https://imgcdn.bokun.tools/0622e941-7afd-4e1b-92b7-d34132886ef9.jpeg
-imagenAlt: 'Tuk-tuk elettrico con passeggeri a Madrid'
+imagen: /images/actividades/madrid/tuk-tuk-luces-navidad/tuk-tuk-luces-navidad-arbol-sol.webp
+imagenAlt: "Il tuk tuk di notte accanto a un grande albero di Natale illuminato nel centro di Madrid"
 galeria:
+- src: /images/actividades/madrid/tuk-tuk-luces-navidad/tuk-tuk-luces-navidad-pasajeros-arbol.webp
+  alt: "Tuk tuk con passeggeri davanti a un albero di Natale di luci"
+- src: /images/actividades/madrid/tuk-tuk-luces-navidad/tuk-tuk-luces-navidad-edificio-iluminado.webp
+  alt: "Il tuk tuk davanti a un palazzo illuminato per Natale nel centro di Madrid"
+- src: /images/actividades/madrid/tuk-tuk-luces-navidad/tuk-tuk-luces-navidad-luces-azules.webp
+  alt: "Il tuk tuk sotto le luci blu di Natale"
+- src: /images/actividades/madrid/tuk-tuk-luces-navidad/tuk-tuk-luces-navidad-congreso.webp
+  alt: "Il tuk tuk di notte davanti al Congresso dei Deputati"
+- src: /images/actividades/madrid/tuk-tuk-luces-navidad/tuk-tuk-luces-navidad-clientes-belen.webp
+  alt: "Clienti accanto al tuk tuk davanti a un presepe di luci"
+- src: /images/actividades/madrid/tuk-tuk-luces-navidad/luces-navidad-madrid-arbol-gigante.webp
+  alt: "Albero di Natale gigante illuminato a Madrid"
+- src: /images/actividades/madrid/tuk-tuk-luces-navidad/luces-navidad-madrid-calle.webp
+  alt: "Luci di Natale su una strada del centro di Madrid"
+- src: /images/actividades/madrid/tuk-tuk-luces-navidad/luces-navidad-madrid-metropolis.webp
+  alt: "Albero di Natale accanto al palazzo Metrópolis"
+- src: /images/actividades/madrid/tuk-tuk-luces-navidad/luces-navidad-madrid-angel.webp
+  alt: "Angelo di luci natalizio in una piazza di Madrid"
+- src: /images/actividades/madrid/tuk-tuk-luces-navidad/luces-navidad-madrid-puerta-alcala.webp
+  alt: "La Puerta de Alcalá illuminata di notte"
+- src: /images/actividades/madrid/tuk-tuk-luces-navidad/luces-navidad-madrid-cibeles.webp
+  alt: "La fontana di Cibeles illuminata di notte"
 - src: https://imgcdn.bokun.tools/ff33783b-3a8b-4fb3-9809-8dfddbaabfb4.png
   alt: 'L''edificio Metrópolis e una palla di Natale illuminata sulla Gran Vía'
 - src: https://imgcdn.bokun.tools/722b26f6-9e0c-4cb1-aa88-959bbcec58fb.png
