@@ -4,7 +4,7 @@ descripcion: "Navidad en Sevilla 2026: mapping de San Francisco (18:30-23:00), F
 categoria: "sevilla"
 slug: "navidad-sevilla"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -41,6 +41,8 @@ faq:
   respuesta: La organiza el Ateneo el 5 de enero. En 2026 salió a las 16:15 de la antigua Fábrica de Tabacos, pasó por el centro (Campana, San Pablo, Reyes Católicos), cruzó a Triana y volvió hacia las 22:00, con 33 carrozas. La víspera, el 4 de enero, recorre la ciudad el Heraldo Real.
 - pregunta: ¿Dónde comprar dulces de convento en Sevilla?
   respuesta: En los tornos de los conventos de clausura, como San Leandro, famoso por sus yemas, y en la exposición y venta de dulces de conventos que se celebra en el Real Alcázar en torno al puente de la Inmaculada (en 2023, del 5 al 8 de diciembre, con 20 conventos). Las fechas de 2026 aún no están publicadas.
+- pregunta: "¿Qué abre en Sevilla el 25 de diciembre y el 1 de enero?"
+  respuesta: "Los grandes monumentos no: el Real Alcázar, la Catedral y el Museo de Bellas Artes cierran los dos días, y también el 6 de enero. Sí puedes pasear por la Plaza de España, el Parque de María Luisa y el centro iluminado. El 24 y el 31 el Alcázar puede cerrar antes y la Catedral tiene horario especial."
 actividades:
   - tuk-tuk-privado-sevilla
   - sevilla-misteriosa-tour-privado-atardecer
@@ -99,17 +101,27 @@ La **zambomba** es una fiesta de villancicos flamencos con panderetas, botellas 
 - **Navigalia** cuenta una historia navideña proyectada sobre el Guadalquivir, en el Muelle de la Sal, por 2 €.
 - **Naturaleza Encendida**, el espectáculo de luz de los jardines del Alcázar, funciona hasta marzo.
 
-## Monumentos en festivos, Nochevieja y Cabalgata de Reyes en Sevilla
+## Qué abre y qué cierra en Sevilla el 24, 25 y 31 de diciembre y el 1 de enero
 
-| Sitio | 24 y 31 dic | 25 dic | 1 ene | 6 ene |
-| --- | --- | --- | --- | --- |
-| Real Alcázar | Horario reducido | Cerrado | Cerrado | Cerrado |
-| Catedral y Giralda | Según cultos | Según cultos | Según cultos | Según cultos |
+| Sitio | 24 y 31 de diciembre | 25 de diciembre | 1 de enero |
+| --- | --- | --- | --- |
+| Real Alcázar | Puede cerrar antes | Cerrado | Cerrado |
+| Catedral y Giralda | Horario especial | Cerrada | Cerrada |
+| Museo de Bellas Artes | Cerrado | Cerrado | Cerrado |
+| Plaza de España y Parque de María Luisa | Abiertos | Abiertos | Abiertos |
+| Metro | 31: toda la noche | Horario de festivo | Horario de festivo |
 
+- **El 6 de enero** cierran el Alcázar, la Catedral y el Museo de Bellas Artes.
 - **Real Alcázar:** de octubre a marzo, de 9:30 a 17:00. Con las entradas de diciembre muy demandadas, una visita privada con guía oficial te asegura el día y la hora.
-- **Catedral:** abre de lunes a sábado desde las 10:45 y los domingos desde las 14:30; 13 € online. En fiestas litúrgicas la visita cultural puede cambiar: consulta la agenda de catedraldesevilla.es antes de ir.
+- **Catedral:** de lunes a sábado de 10:45 a 18:00 y los domingos de 14:30 a 19:00; 13 € online y 14 € en taquilla. El 24 y el 31 tiene horario especial por los cultos: consulta la agenda de catedraldesevilla.es antes de ir.
+- **Mercadillos:** en la última edición, el de los Jardines de Cristina cerró el 24, el 25, el 31 y el 1, y la feria de artesanía de las Setas cerró el 24 y el 31 y abrió de 11:00 a 16:00 el 25 y el 1.
+- **Tiendas y bares:** el 24 y el 31 cierran a media tarde, y el 25 y el 1 abren pocos. Reserva la cena.
 
 [actividad: real-alcazar-sevilla-visita-privada-guia-oficial]
+
+*Horarios de monumentos y museos comprobados en sus webs oficiales el 10 de noviembre de 2026. Los del metro y los mercadillos son los de la Navidad pasada hasta que salgan los de 2026.*
+
+## Nochevieja y Cabalgata de Reyes en Sevilla
 
 - **Campanadas:** en la **Plaza Nueva**, frente al Ayuntamiento.
 - **Heraldo Real:** el 4 de enero recorre la ciudad anunciando a los Reyes.
@@ -118,7 +130,7 @@ La **zambomba** es una fiesta de villancicos flamencos con panderetas, botellas 
 ## Qué hacer en Sevilla en Navidad: consejos
 
 - **No vayas al mapping a las 20:00 de un sábado:** San Francisco se llena hasta Sierpes. El pase de las 18:30 o uno entre semana se ve igual de bien.
-- **No planees el Alcázar para el 25 o el 6:** está cerrado. Y el 24 y el 31 cierra antes.
+- **No planees el Alcázar para el 25 o el 6:** está cerrado. Y el 24 y el 31 puede cerrar antes.
 - **Reserva la cena del 24 y del 31:** muchos bares cierran o solo dan menú cerrado.
 - **No cojas el coche el 5 de enero:** la Cabalgata corta medio centro y Triana durante horas.
 - **Si tienes un día libre,** en invierno Córdoba se visita sin el calor que la hace dura de abril a octubre; la excursión de día completo con la Mezquita sale desde 109 €.

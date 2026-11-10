@@ -4,7 +4,7 @@ descripcion: "Christmas in Seville 2026: free Plaza de San Francisco light show 
 categoria: "sevilla"
 slug: "christmas-in-seville"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -40,6 +40,8 @@ faq:
   respuesta: It's organised by the Ateneo on 5 January. In 2026 it left the old Tobacco Factory at 16:15, went through the centre (Campana, San Pablo, Reyes Católicos), crossed to Triana and returned around 22:00, with 33 floats. The day before, 4 January, the Royal Herald parades through the city.
 - pregunta: Where can I buy convent sweets in Seville?
   respuesta: At the revolving hatches (tornos) of the enclosed convents, such as San Leandro, famous for its yemas, and at the convent sweets fair held in the Real Alcázar around the Immaculate Conception holiday (in 2023, 5 to 8 December, with 20 convents). The 2026 dates haven't been published yet.
+- pregunta: "What's open in Seville on 25 December and 1 January?"
+  respuesta: "Not the big monuments: the Real Alcázar, the Cathedral and the Museum of Fine Arts close on both days, and on 6 January too. You can still walk around Plaza de España, María Luisa Park and the lit-up centre. On the 24th and 31st the Alcázar may close early and the Cathedral has special hours."
 actividades:
   - tuk-tuk-privado-sevilla
   - sevilla-misteriosa-tour-privado-atardecer
@@ -98,17 +100,27 @@ A **zambomba** is a party of flamenco carols with tambourines, anís bottles and
 - **Navigalia** tells a Christmas story projected onto the Guadalquivir, at the Muelle de la Sal, for €2.
 - **Naturaleza Encendida**, the light show in the Alcázar gardens, runs until March.
 
-## Monuments on holidays, New Year's Eve and the Three Kings parade in Seville
+## What's open and closed in Seville on 24, 25 and 31 December and 1 January
 
-| Site | 24 and 31 Dec | 25 Dec | 1 Jan | 6 Jan |
-| --- | --- | --- | --- | --- |
-| Real Alcázar | Reduced hours | Closed | Closed | Closed |
-| Cathedral and Giralda | Depends on services | Depends on services | Depends on services | Depends on services |
+| Place | 24 and 31 December | 25 December | 1 January |
+| --- | --- | --- | --- |
+| Real Alcázar | May close early | Closed | Closed |
+| Cathedral and Giralda | Special hours | Closed | Closed |
+| Museum of Fine Arts | Closed | Closed | Closed |
+| Plaza de España and María Luisa Park | Open | Open | Open |
+| Metro | 31st: all night | Holiday timetable | Holiday timetable |
 
+- **On 6 January** the Alcázar, the Cathedral and the Museum of Fine Arts are closed.
 - **Real Alcázar:** October to March, 9:30 to 17:00. With December tickets in high demand, a private visit with an official guide secures your day and time.
-- **Cathedral:** opens Monday to Saturday from 10:45 and on Sundays from 14:30; €13 online. On liturgical feast days the cultural visit can change: check the calendar on catedraldesevilla.es before you go.
+- **Cathedral:** Monday to Saturday 10:45 to 18:00 and Sundays 14:30 to 19:00; €13 online and €14 at the ticket office. On the 24th and 31st it has special hours because of services: check the calendar on catedraldesevilla.es before you go.
+- **Christmas markets:** last year, the one in the Jardines de Cristina closed on the 24th, 25th, 31st and 1st, and the craft fair under the Setas closed on the 24th and 31st and opened 11:00 to 16:00 on the 25th and the 1st.
+- **Shops and bars:** on the 24th and 31st they close mid-afternoon, and few open on the 25th and the 1st. Book your dinner.
 
 [actividad: real-alcazar-sevilla-visita-privada-guia-oficial]
+
+*Monument and museum hours checked on their official websites on 10 November 2026. Metro and market times are last Christmas's until the 2026 ones are published.*
+
+## New Year's Eve and the Three Kings parade in Seville
 
 - **New Year's chimes:** on **Plaza Nueva**, in front of City Hall.
 - **Royal Herald:** on 4 January he parades through the city announcing the Kings.
@@ -117,7 +129,7 @@ A **zambomba** is a party of flamenco carols with tambourines, anís bottles and
 ## Things to do in Seville at Christmas: tips
 
 - **Don't go to the light show at 20:00 on a Saturday:** San Francisco fills up all the way to Sierpes. The 18:30 show or a weekday one looks just as good.
-- **Don't plan the Alcázar for the 25th or the 6th:** it's closed. And on the 24th and 31st it closes early.
+- **Don't plan the Alcázar for the 25th or the 6th:** it's closed. And on the 24th and 31st it may close early.
 - **Book dinner for the 24th and 31st:** many bars close or only offer a set menu.
 - **Don't drive on 5 January:** the parade closes half the centre and Triana for hours.
 - **If you have a free day,** in winter Córdoba can be visited without the heat that makes it hard from April to October; the full-day trip with the Mezquita costs from €109.

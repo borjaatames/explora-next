@@ -4,7 +4,7 @@ descripcion: "Navidad en Madrid 2026: cuándo se encienden las luces, mercadillo
 categoria: "madrid"
 slug: "navidad-madrid"
 fecha: "2026-10-23"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 autor: Borja
 publicada: true
 destacada: true
@@ -48,6 +48,8 @@ faq:
   respuesta: 'Las campanadas son gratis, pero el acceso se cierra cuando se llena la plaza: llega antes de las 21:00 y lleva las uvas peladas. Si prefieres menos gente, el 30 de diciembre se celebran las preúvas, el ensayo general, con aforo de unas 15.000 personas.'
 - pregunta: ¿Por dónde pasa la Cabalgata de Reyes de Madrid?
   respuesta: Sale el 5 de enero a las 18:00 de la plaza de San Juan de la Cruz, baja por la Castellana y Recoletos y termina en Cibeles hacia las 21:00. Para ver algo, coge sitio en la Castellana.
+- pregunta: "¿Qué abre en Madrid el 25 de diciembre y el 1 de enero?"
+  respuesta: "Casi ningún museo: el Prado, el Reina Sofía, el Thyssen y el Palacio Real cierran los dos días. Quedan la calle, las luces y el belén de Sol. El 24 y el 31 el Prado abre de 10:00 a 14:00, el Thyssen hasta las 15:00 y el Palacio Real cierra a las 15:00; el Reina Sofía no abre."
 ---
 
 ## Navidad en Madrid 2026: el calendario
@@ -102,7 +104,25 @@ Este año hay más de **250 puntos iluminados** y 14 millones de ledes, con dibu
 - **Naviluz** cuesta la mitad para niños de 7 a 11 años, y los menores de 7 no pagan, aunque necesitan billete.
 - La **pista de hielo** de Plaza de España funciona por turnos: compra la entrada antes en su web.
 
-**Museos en festivos:** el **Prado** cierra el 25 de diciembre y el 1 de enero, y el 24 y el 31 de diciembre y el 6 de enero abre solo de 10:00 a 14:00. Las dos últimas horas de cada día la colección es gratis, con aforo. Diciembre es buen mes para el **Palacio Real** y los museos, con menos colas que en primavera. Si tienes un día libre, **Toledo y Segovia** son la escapada clásica, y en invierno se hacen sin calor.
+**Museos:** las dos últimas horas de cada día la colección del Prado es gratis, con aforo. Diciembre es buen mes para el **Palacio Real** y los museos, con menos colas que en primavera. Si tienes un día libre, **Toledo y Segovia** son la escapada clásica, y en invierno se hacen sin calor.
+
+## Qué abre y qué cierra en Madrid el 24, 25 y 31 de diciembre y el 1 de enero
+
+| Sitio | 24 y 31 de diciembre | 25 de diciembre | 1 de enero |
+| --- | --- | --- | --- |
+| Museo del Prado | 10:00–14:00 | Cerrado | Cerrado |
+| Museo Reina Sofía | Cerrado | Cerrado | Cerrado |
+| Museo Thyssen | 10:00–15:00 | Cerrado | Cerrado |
+| Palacio Real | Cierra a las 15:00 | Cerrado | Cerrado |
+| Metro | 24: hasta las 22:00 · 31: hasta la 1:30 | Abre a las 8:00 | Abre a las 7:00 |
+| Autobuses EMT | Último diurno entre las 19:30 y las 21:45; después, búhos | Horario de festivo | Horario de festivo |
+
+- **El 6 de enero** el Prado abre de 10:00 a 14:00 y el Reina Sofía y el Palacio Real cierran.
+- **Metro de Sol, 30 y 31 de diciembre:** la estación cierra desde las 18:00 por las preúvas y las campanadas. Baja en Ópera, Callao o Sevilla y sigue a pie.
+- **Tiendas y restaurantes:** el 24 y el 31 casi todo cierra a media tarde, y el 25 y el 1 abren pocos comercios. Lleva la cena reservada.
+- **El Palacio Real** puede cerrar además por actos oficiales: mira la web de Patrimonio Nacional el día antes.
+
+*Horarios de museos y monumentos comprobados en sus webs oficiales el 10 de noviembre de 2026. Los del metro y la EMT son los de la Navidad pasada: el Consorcio de Transportes publica los de 2026 a mediados de diciembre.*
 
 ## Errores típicos
 

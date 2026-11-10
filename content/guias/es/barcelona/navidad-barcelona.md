@@ -4,7 +4,7 @@ descripcion: "Navidad en Barcelona 2026: Fira de Santa Llúcia, luces en 130 km 
 categoria: "barcelona"
 slug: "navidad-barcelona"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -41,6 +41,8 @@ faq:
     respuesta: "En la avenida de la Reina Maria Cristina, frente a la Font Màgica de Montjuïc. En la última edición el espectáculo empezó a las 22:00, con drones, música y fuegos artificiales a medianoche, gratis y sin límite de aforo. Llega en metro (Espanya, L1 y L3) y con tiempo: a partir de las 23:00 cuesta avanzar."
   - pregunta: "¿Qué es el caga tió?"
     respuesta: "Es un tronco con cara y barretina que los niños catalanes alimentan durante el Adviento y golpean con un palo el 24 o el 25 de diciembre, cantando, para que «cague» dulces y regalos. Se compra en la Fira de Santa Llúcia, donde en 2025 hubo un tió gigante para menores de 12 años del 29 de noviembre al 20 de diciembre."
+  - pregunta: "¿Qué abre en Barcelona el 25 de diciembre y el 1 de enero?"
+    respuesta: "Los monumentos de Gaudí casi todos: la Sagrada Família de 9:00 a 14:00, el Park Güell y la Casa Batlló, y La Pedrera con horario especial. Los grandes museos, como el MNAC o el Museu Picasso, cierran. En Nochevieja el metro funciona toda la noche."
 actividades:
   - tapas-vino-y-flamenco-tour-privado-barcelona
   - tour-tapas-y-vino-noche
@@ -95,19 +97,28 @@ Una tarde de diciembre bien aprovechada:
 - **Llegada de los Reyes:** el 5 de enero desembarcan en el puerto y los recibe el alcalde hacia las 16:30 en la Plaça del Portal de la Pau. Menos multitudinario que la Cabalgata.
 - Si preferís un plan guiado, hay un tour privado para familias con búsqueda del tesoro y churros con chocolate.
 
-## Monumentos y museos en festivos
+## Qué abre y qué cierra en Barcelona el 24, 25 y 31 de diciembre y el 1 de enero
 
-| Sitio | 24 y 31 dic | 25 dic | 26 dic | 1 ene | 6 ene |
-| --- | --- | --- | --- | --- | --- |
-| Sagrada Família | Sin horario especial anunciado | 9:00–14:00 | 9:00–14:00 | 9:00–14:00 | 9:00–14:00 |
-| Park Güell | Abierto | Abierto | Abierto | Abierto | Abierto |
-| Museu Picasso | 10:00–14:00 | Cerrado | Abierto | Cerrado | Sin dato |
+| Sitio | 24 y 31 de diciembre | 25 de diciembre | 26 de diciembre | 1 de enero |
+| --- | --- | --- | --- | --- |
+| Sagrada Família | Horario normal (9:00–18:00) | 9:00–14:00 | 9:00–14:00 | 9:00–14:00 |
+| Park Güell | Abierto | Abierto | Abierto | Abierto |
+| Casa Batlló | Abierta | Abierta | Abierta | Abierta |
+| La Pedrera | Horario especial | Horario especial | Horario especial | Horario especial |
+| Museu Picasso | 10:00–14:00 | Cerrado | Abierto | Cerrado |
+| Metro | 24: hasta las 23:00 · 31: toda la noche | Horario de festivo | Horario de festivo | Sin cierre desde la noche del 31 |
 
+- **El 6 de enero** la Sagrada Família también abre de 9:00 a 14:00.
+- **Los grandes museos** (MNAC, Museu Picasso, MACBA, CCCB) cierran el 25 y el 1: esos días el plan son los monumentos de Gaudí, que abren casi todos.
 - **Park Güell** abre todo el año; en invierno los pases van de 9:30 a 17:30 y la entrada general cuesta **18 €**.
-- **Museu Picasso:** de octubre a marzo abre de martes a domingo de 10:00 a 19:00; los jueves de 16:00 a 19:00 la entrada es gratis.
+- **La Pedrera** anuncia un horario especial para esas fechas: compruébalo en lapedrera.com antes de comprar la entrada.
+- **Museu Picasso:** de octubre a marzo abre de martes a domingo de 10:00 a 19:00; los jueves de 16:00 a 19:00 la entrada es gratis. El 24 y el 31 la taquilla cierra a las 13:30.
+- **Autobuses:** el 24 los últimos buses de TMB salen de cabecera a las 22:00, una hora antes de que cierre el metro.
 - El **26 de diciembre (Sant Esteve)** es festivo en Cataluña: muchas tiendas y restaurantes de barrio cierran, y es el día de los canelones.
 
 Con horarios recortados, una visita guiada con entrada incluida evita perder la mañana en colas.
+
+*Horarios de monumentos y museos comprobados en sus webs oficiales el 10 de noviembre de 2026. Los del metro son los de la Navidad pasada: TMB publica los de 2026 en diciembre.*
 
 ## Nochevieja en Montjuïc y Cabalgata de Reyes
 

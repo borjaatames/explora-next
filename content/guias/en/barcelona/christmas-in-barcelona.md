@@ -4,7 +4,7 @@ descripcion: "Christmas in Barcelona 2026: Santa Llúcia market, lights on 130 k
 categoria: "barcelona"
 slug: "christmas-in-barcelona"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-10'
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -41,6 +41,8 @@ faq:
     respuesta: "Avinguda de la Reina Maria Cristina, in front of the Magic Fountain of Montjuïc. At the last edition the show started at 22:00, with drones, music and fireworks at midnight, free and with no capacity limit. Take the metro to Espanya (L1 and L3) and arrive early: after 23:00 it's hard to move."
   - pregunta: "What is the caga tió?"
     respuesta: "A log with a face and a red Catalan cap that children feed during Advent and then hit with sticks on 24 or 25 December, singing, so it will 'poo' sweets and presents. You can buy one at the Santa Llúcia market, which in 2025 had a giant tió for under-12s from 29 November to 20 December."
+  - pregunta: "What's open in Barcelona on 25 December and 1 January?"
+    respuesta: "Nearly all of Gaudí's buildings: the Sagrada Família from 9 AM to 2 PM, Park Güell and Casa Batlló, plus La Pedrera with special hours. The big museums, such as the MNAC and the Museu Picasso, close. On New Year's Eve the metro runs all night."
 actividades:
   - tapas-vino-y-flamenco-tour-privado-barcelona
   - tour-tapas-y-vino-noche
@@ -95,19 +97,28 @@ A December evening done right:
 - **Arrival of the Three Kings:** on 5 January they land at the port and the mayor welcomes them around 4:30 PM in Plaça del Portal de la Pau. Less crowded than the parade.
 - If you'd like a guided plan, there's a private family tour with a treasure hunt and churros with chocolate.
 
-## Monuments and museums on public holidays
+## What's open and closed in Barcelona on 24, 25 and 31 December and 1 January
 
-| Site | 24 & 31 Dec | 25 Dec | 26 Dec | 1 Jan | 6 Jan |
-| --- | --- | --- | --- | --- | --- |
-| Sagrada Família | No special hours announced | 9 AM–2 PM | 9 AM–2 PM | 9 AM–2 PM | 9 AM–2 PM |
-| Park Güell | Open | Open | Open | Open | Open |
-| Museu Picasso | 10 AM–2 PM | Closed | Open | Closed | No data |
+| Place | 24 and 31 December | 25 December | 26 December | 1 January |
+| --- | --- | --- | --- | --- |
+| Sagrada Família | Normal hours (9 AM–6 PM) | 9 AM–2 PM | 9 AM–2 PM | 9 AM–2 PM |
+| Park Güell | Open | Open | Open | Open |
+| Casa Batlló | Open | Open | Open | Open |
+| La Pedrera | Special hours | Special hours | Special hours | Special hours |
+| Museu Picasso | 10 AM–2 PM | Closed | Open | Closed |
+| Metro | 24th: until 11 PM · 31st: all night | Holiday timetable | Holiday timetable | Non-stop from the night of the 31st |
 
+- **On 6 January** the Sagrada Família also opens from 9 AM to 2 PM.
+- **The big museums** (MNAC, Museu Picasso, MACBA, CCCB) close on the 25th and the 1st: on those days, go for Gaudí's buildings, which nearly all open.
 - **Park Güell** is open all year; in winter time slots run from 9:30 AM to 5:30 PM and general entry costs **€18**.
-- **Museu Picasso:** from October to March it's open Tuesday to Sunday, 10 AM to 7 PM; on Thursdays from 4 to 7 PM entry is free.
+- **La Pedrera** announces special hours for these dates: check lapedrera.com before you buy.
+- **Museu Picasso:** from October to March it's open Tuesday to Sunday, 10 AM to 7 PM; on Thursdays from 4 to 7 PM entry is free. On the 24th and 31st the ticket office closes at 1:30 PM.
+- **Buses:** on the 24th the last TMB buses leave their termini at 10 PM, an hour before the metro stops.
 - **26 December (Sant Esteve)** is a public holiday in Catalonia: many shops and neighbourhood restaurants close, and it's cannelloni day.
 
 With reduced hours, a guided visit with entry included saves you losing the morning in queues.
+
+*Monument and museum hours checked on their official websites on 10 November 2026. Metro times are last Christmas's: TMB publishes the 2026 ones in December.*
 
 ## New Year's Eve in Barcelona and the Three Kings parade
 
