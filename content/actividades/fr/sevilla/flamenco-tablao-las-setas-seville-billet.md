@@ -62,14 +62,18 @@ keywords:
 - "tablao las setas séville"
 - "spectacle flamenco séville"
 - "billets flamenco séville"
-imagen: "/images/actividades/sevilla/flamenco/flamenco-wikimedia-espect-culo-flamenco-en-tablao-flamenco-01.webp"
-imagenAlt: "Spectacle de flamenco dans un tablao"
+imagen: "/images/actividades/sevilla/tablao-las-setas/bailaora-bata-de-cola-escenario.webp"
+imagenAlt: "Danseuse en bata de cola sur la scène du Tablao Las Setas"
 galeria:
-- src: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
-  alt: "Spectacle de flamenco dans un tablao"
-- src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
-  alt: "Les Setas de Sevilla, Plaza de la Encarnación"
-publicada: false
+- src: "/images/actividades/sevilla/tablao-las-setas/cuadro-flamenco-bailaora-mantoncillo.webp"
+  alt: "Troupe de flamenco avec danseuse et chanteuses"
+- src: "/images/actividades/sevilla/tablao-las-setas/sala-publico-escenario-iluminado.webp"
+  alt: "Le tablao vu depuis le public"
+- src: "/images/actividades/sevilla/tablao-las-setas/guitarristas-cantaores-escenario.webp"
+  alt: "Guitaristes et chanteurs sur scène"
+- src: "/images/actividades/sevilla/tablao-las-setas/escenario-sillas-luces-rojas.webp"
+  alt: "La scène du Tablao Las Setas éclairée en rouge"
+publicada: true
 destacada: false
 fecha: '2026-11-10'
 ---
