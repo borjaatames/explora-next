@@ -58,7 +58,7 @@ opciones:
 | Option | Preis | Was enthalten ist | Für wen |
 | --- | --- | --- | --- |
 | Offizielles Ticket für die Feuerberge (cactlanzarote.com) | 30 € | Vulkanroute im Bus und Geothermie-Vorführungen; Anfahrt selbst | Wer ein Auto hat und früh buchen kann |
-| [Halbtagesausflug nach Timanfaya](/en/cities/lanzarote/activities/timanfaya-national-park-half-day-tour) | 59 € | Ticket, Bus und Abholung im Hotel | Wer ohne Auto nur Timanfaya sehen will |
+| [Lanzarote: Tagesausflug nach Timanfaya, El Golfo und zu den Jameos del Agua](/de/cities/lanzarote/activities/lanzarote-timanfaya-el-golfo-jameos-del-agua-tagesausflug) | 87 € | Süden und Norden Lanzarotes an einem Tag | Tickets für Timanfaya und die Jameos del Agua inklusive |
 | [Timanfaya, Jameos del Agua und Cueva de los Verdes](/en/cities/lanzarote/activities/timanfaya-jameos-cueva-de-los-verdes-tour) | 89 € | Drei Tickets, Bus, Guide und Abholung; ohne Mittagessen | Wer ohne Auto alles an einem Tag will |
 | [Geführte Wanderung durch die Vulkane](/en/cities/lanzarote/activities/timanfaya-volcano-hike) | 47 € | 8 km zu Fuß im Naturpark neben Timanfaya, Snack und Wein | Wer über die Lava laufen will |
 

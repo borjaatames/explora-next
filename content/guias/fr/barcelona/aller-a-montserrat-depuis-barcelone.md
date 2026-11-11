@@ -68,7 +68,7 @@ Pour aller à Montserrat depuis Barcelone, il suffit d'**un train depuis Plaça 
 | Train R5 + Cremallera | 1 h 30 | 20,80-32,60 € aller-retour, combiné | Train toutes les heures, Cremallera 2-3 par heure | Ceux qui préfèrent un trajet tranquille |
 | Trans Montserrat | 1 h 30 | 50 € | Comme le train | Ceux qui montent aussi au funiculaire de Sant Joan |
 | Voiture + Cremallera depuis Monistrol Vila | 1 h 15 | Carburant, parking gratuit + 15 € | Cremallera 2-3 par heure | Familles et groupes |
-| [Excursion organisée](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | 6-10 h, tout compris | Dès 47 € | Tous les jours | Ceux qui ne veulent rien organiser |
+| [Montserrat et caves de cava Codorníu : excursion privée d'une journée au départ de Barcelone avec dégustation](/fr/cities/barcelona/activities/montserrat-caves-codorniu-excursion-privee) | 8 h, tout compris | Dès 317 € | Tous les jours | Excursion privée en voiture avec guide et prise en charge à votre hôtel à Barcelone |
 
 ## Le train R5 depuis Plaça Espanya
 

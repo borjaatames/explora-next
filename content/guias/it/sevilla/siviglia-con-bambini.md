@@ -69,7 +69,7 @@ faq:
 | Ragazzi (dagli 8 anni) | [Kayak sul Guadalquivir](/it/cities/sevilla/activities/siviglia-kayak-sul-guadalquivir), 4,5★ (777) | 17 € |
 | In bici (bambini che pedalano bene) | [Tour in bici di Siviglia (in inglese)](/en/cities/sevilla/activities/seville-bike-tour-group), 4,9★ (1.636) | 28 € |
 | Belvedere al tramonto | [Setas di Siviglia con belvedere a 360°](/it/cities/sevilla/activities/siviglia-biglietto-setas-metropol-parasol-belvedere), 4,6★ (12.014) | 16 € |
-| Alcázar senza code | [Real Alcázar con guida e accesso senza code](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
+| Alcázar senza code | [Siviglia: tour guidato salta fila di Real Alcázar, Cattedrale e Giralda](/it/cities/sevilla/activities/siviglia-alcazar-cattedrale-giralda-tour-salta-fila), 4,8★ (13.238) | 53 € |
 | Foto impossibili al coperto | [Museo delle Illusioni](/it/cities/sevilla/activities/biglietto-museo-delle-illusioni-siviglia), 4,2★ (1.352) | 15 € |
 
 ## Cosa funziona in base all'età

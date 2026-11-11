@@ -54,13 +54,13 @@ Barcellona resta una meta per gli addii al nubilato e al celibato, ma le regole 
 
 | Attività | Durata | Prezzo | Per quale gruppo |
 | --- | --- | --- | --- |
-| [Degustazione di birra per gruppi privati in terrazza](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) | 2 h | 55 € a persona | Solo il vostro gruppo; addii al nubilato, compleanni e aziende |
+| [Degustazione di vini su una terrazza di Barcellona: 6 vini spagnoli](/it/cities/barcelona/activities/barcellona-degustazione-vini-in-terrazza) | 2 h | 48 € a persona | Sei vini spagnoli: spumante, bianchi, rosato e rossi |
 | [Sip & paint con sangria](/en/cities/barcelona/activities/barcelona-sip-and-paint-with-sangria) | 2 h 30 min | 19 € a persona | Gruppi che vogliono ridere senza uscire la sera |
 | [Boat party in catamarano con DJ](/en/cities/barcelona/activities/barcelona-boat-party-catamaran-dj) | 2 h | 53,10 € a persona | Gruppi con voglia di festa; non esce d'inverno |
 | [Lezione di salsa con sangria in terrazza](/en/cities/barcelona/activities/barcelona-salsa-class-and-sangria-rooftop) | 2 h | 48,60 € a persona | Gruppi che vogliono ballare; senza esperienza |
 | [Degustazione di birra artigianale con musica e karaoke](/en/cities/barcelona/activities/barcelona-craft-beer-tasting-live-music) | 2 h 30 min | 17 € a persona | Serata economica con karaoke facoltativo |
 | [Servizio fotografico rapido](/en/cities/barcelona/activities/quick-photo-shoot-barcelona) | 20 min | 35 € a sessione | Un ricordo del gruppo accanto alla Sagrada Família |
-| [Tour privato di tapas e vino](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | 298 € per 2, 594 € per 6 | Cena guidata solo per voi |
+| [Tour gastronomico privato nel Gotico con ingresso alla Sagrada Familia](/it/cities/barcelona/activities/barcellona-tour-gastronomico-privato-gotico-sagrada-familia) | 5 h | 388 € per gruppo per 2, 594 € per 6 | Guida gastronomica in italiano solo per il tuo gruppo |
 | [Flamenco al City Hall](/en/cities/barcelona/activities/flamenco-show-at-the-theater-city-hall-top-pick) | 1 h | Da 25 € a persona | Spettacolo prima o dopo cena |
 
 Prezzi «da» di ogni scheda al 1° novembre 2026; possono variare in base alla data e all'opzione.

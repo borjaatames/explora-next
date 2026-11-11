@@ -123,7 +123,7 @@ Le **bus TIB 203** part de l'Estació Intermodal (Plaça d'Espanya) vers Valldem
 | [Visite à pied avec entrée à la cathédrale et ensaïmada](/fr/cities/mallorca/activities/palma-visite-guidee-cathedrale-ensaimada), 4,8★ (237) | 2 h 30 | 39 € |
 | [Visite gastronomique de la vieille ville](/en/cities/mallorca/activities/palma-old-town-food-walking-tour), 4,6★ (663) | 3 h | 65 € |
 | [Grottes du Drach avec concert, depuis Palma](/fr/cities/mallorca/activities/grottes-du-drach-concert-barque-depuis-palma), 4,4★ (1 489) | 5 h, départ 9 h 30 | 54 € |
-| [Valldemossa, Sóller et Port de Sóller en bus et tramway](/en/cities/mallorca/activities/valldemossa-soller-port-soller-bus-tram-tour), 4,7★ (829) | 6 h | 49 € |
+| [Majorque : tour de l'île en train de Sóller, tramway et bateau](/fr/cities/mallorca/activities/majorque-tour-ile-train-soller-tramway-bateau), 4,4★ (4 540) | 8 h | 103 € |
 
 L'excursion aux grottes du Drach part du centre de Palma à 9 h 30 et revient en début d'après-midi : elle ne convient que si vous débarquez tôt et repartez le soir.
 

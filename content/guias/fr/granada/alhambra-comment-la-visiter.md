@@ -64,7 +64,7 @@ L'Alhambra est le monument le plus visité d'Espagne, et ses billets s'épuisent
 | Si vous voulez… | Nous recommandons | À partir de |
 | --- | --- | --- |
 | La plus populaire | [Visite guidée de l'Alhambra et des palais nasrides](/fr/cities/granada/activities/visite-guidee-alhambra-palais-nasrides-generalife), 4,7★ (21 100 avis) | 49 € |
-| La moins chère avec guide | [Entrée et visite guidée avec les palais nasrides](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4,7★ (3 516) | 50 € |
+| Avec guide en français | [Alhambra : visite guidée en petit groupe avec palais nasrides et Generalife](/fr/cities/granada/activities/alhambra-generalife-palais-nasrides-visite-guidee-petit-groupe), 4,8★ (1 047) | 45 € |
 | Petit groupe, sans file d'attente | [Alhambra et palais nasrides coupe-file en petit groupe](/fr/cities/granada/activities/alhambra-palais-nasrides-coupe-file-petit-groupe), 4,7★ (8 443) | 53 € |
 | La mieux notée | [Visite guidée avec billets](/fr/cities/granada/activities/alhambra-visite-guidee-palais-nasrides-avec-billets), 4,9★ (1 018) | 99 € |
 | Quelque chose de différent | [Visite de nuit des palais nasrides](/en/cities/granada/activities/alhambra-night-tour), 4,9★ (288) | 54 € |

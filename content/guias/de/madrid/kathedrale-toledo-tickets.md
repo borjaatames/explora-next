@@ -62,8 +62,8 @@ Die Kathedrale ist die teuerste Besichtigung in Toledo und die, die ihren Eintri
 | --- | --- | --- |
 | auf eigene Faust gehen willst | Normales Ticket online oder an der Kasse | 12 € |
 | alles verstehen willst | [Führung durch die Kathedrale mit Eintritt](/en/cities/madrid/activities/toledo-cathedral-guided-tour), 4,5★ (444) | 25 € |
-| einen Tagesausflug ab Madrid ohne Planung suchst | [Toledo ganztags mit Guide und Eintritt in die Kathedrale](/en/cities/madrid/activities/toledo-full-day-from-madrid), 4,6★ (869) | 79 € |
-| Toledo und Segovia an einem Tag sehen willst | [Alcázar von Segovia und Kathedrale von Toledo](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid), 4,7★ (10.421) | 41 € |
+| einen Tagesausflug ab Madrid ohne Planung suchst | [Toledo und die Windmühlen von Don Quijote ab Madrid: Tagesausflug in der Kleingruppe](/de/cities/madrid/activities/toledo-don-quijote-windmuehlen-ausflug-ab-madrid) | 125 € |
+| Toledo und Segovia an einem Tag sehen willst | [Toledo und Segovia an einem Tag in der Kleingruppe, mit Eintritten und Verkostung](/de/cities/madrid/activities/toledo-segovia-kleingruppe-verkostung-ab-madrid) | 220 € |
 
 ## Preis und Leistungen
 

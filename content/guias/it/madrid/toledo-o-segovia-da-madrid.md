@@ -59,7 +59,7 @@ Se hai un solo giorno libero a Madrid ed è la tua prima volta, **vai a Toledo**
 | Biglietti chiave | Cattedrale 12 €; braccialetto 7 monumenti 14 € | Alcázar 7 € (10 € con la torre); Cattedrale 4 € |
 | Terreno | Molte salite | Una salita dolce e poi pianeggiante |
 | Periodo migliore | Primavera e autunno | Estate e autunno |
-| Escursione organizzata | [Toledo con guida e ingresso alla Cattedrale](/en/cities/madrid/activities/toledo-full-day-from-madrid) | [Ávila e Segovia con ingressi inclusi](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) |
+| Escursione organizzata | [Toledo da Madrid con ingressi e degustazione iberica in piccolo gruppo](/it/cities/madrid/activities/toledo-ingressi-degustazione-piccolo-gruppo-da-madrid) | [Segovia e La Granja de San Ildefonso da Madrid in piccolo gruppo](/it/cities/madrid/activities/segovia-la-granja-piccolo-gruppo-da-madrid) |
 
 ## Toledo: quella con più da vedere
 

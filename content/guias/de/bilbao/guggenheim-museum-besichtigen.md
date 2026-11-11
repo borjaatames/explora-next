@@ -39,8 +39,8 @@ reservasArriba: true
 
 | Aktivität | Bewertung | Ab |
 | --- | --- | --- |
-| [Guggenheim mit Guide und Ticket (auf Spanisch)](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) | 4,9★ (182) | 49 € |
-| [Guggenheim VIP in kleiner Gruppe (10 Sprachen)](/en/cities/bilbao/activities/guggenheim-bilbao-vip-small-group-tour) | 4,5★ (763) | 95 € |
+| [Guggenheim Bilbao: Kunst, erklärt von Künstlern](/de/cities/bilbao/activities/guggenheim-bilbao-fuehrung-mit-kuenstlern) | 4,9★ (129) | 90 € |
+| [Bilbao: private Führung durch das Guggenheim-Museum mit Ticket](/de/cities/bilbao/activities/guggenheim-bilbao-private-fuehrung-mit-ticket) | 4,8★ (333) | 230 € pro Gruppe |
 
 Die goldene Regel: Auch wenn du nicht hineingehst, lohnt sich schon das Äußere. Und wenn du hineingehst, konzentriere dich auf das, was wirklich zählt, statt „alles sehen“ zu wollen.
 

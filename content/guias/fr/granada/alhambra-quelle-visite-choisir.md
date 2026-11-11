@@ -57,8 +57,8 @@ Ces six offres décrivent le même parcours — Alcazaba, palais nasrides et Gen
 
 | Visite | Prix à partir de | Ce qu'il faut vraiment savoir |
 |---|---|---|
-| [Entrée et visite guidée](/en/cities/granada/activities/alhambra-entry-and-guided-tour) | 50 € | L'une des deux moins chères des six. Pas de remplissage superflu, temps libre à la fin |
-| [Visite de l'Alhambra en petit groupe](/en/cities/granada/activities/alhambra-small-group-tour) | 65 € | Passe plus de temps au Generalife (près d'1 heure, plus que les autres) |
+| [Alhambra : visite guidée en petit groupe avec palais nasrides et Generalife](/fr/cities/granada/activities/alhambra-generalife-palais-nasrides-visite-guidee-petit-groupe) | 45 € | Billets inclus pour les palais nasrides, l'Alcazaba et le Generalife |
+| [Grenade : l'Alhambra avec guide, palais nasrides, Alcazaba et Generalife](/fr/cities/granada/activities/alhambra-visite-guidee-nasrides-alcazaba-generalife-billets) | 55 € | Billets inclus pour les palais nasrides, l'Alcazaba et le Generalife |
 | [Visite guidée avec le Generalife](/fr/cities/granada/activities/visite-guidee-alhambra-palais-nasrides-generalife) | 49 € | La moins chère des six. Répartition standard entre les trois zones |
 | [Palais nasrides coupe-file](/fr/cities/granada/activities/alhambra-palais-nasrides-coupe-file-petit-groupe) | 53 € | Même parcours, prix moyen-élevé |
 | [Visite guidée avec billets](/fr/cities/granada/activities/alhambra-visite-guidee-palais-nasrides-avec-billets) | 99 € | Même parcours, le prix le plus élevé du groupe |

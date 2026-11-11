@@ -61,7 +61,7 @@ Der Real Alcázar verkauft seine Tickets in **30-Minuten-Zeitfenstern mit begren
 | Wenn du … suchst | Option | Ab |
 | --- | --- | --- |
 | Ticket mit Uhrzeit, ohne Guide | [Ticket für den Real Alcázar mit bevorzugtem Einlass](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket), 4,6★ (36.909) | 20 € |
-| Mit Guide und Cuarto Real Alto | [Real Alcázar, Führung ohne Anstehen](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
+| Mit Guide auf Deutsch | [Sevilla: Kathedrale, Giralda und Alcázar mit Führung und Tickets ohne Anstehen](/de/cities/sevilla/activities/sevilla-kathedrale-giralda-alcazar-fuehrung), 4,6★ (8.899) | 54 € |
 | Die beliebteste Option | [Kathedrale, Giralda und Alcázar mit bevorzugtem Einlass](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14.120) | 53 € |
 | Mit freier Zeit in den Gärten | [Kathedrale, Giralda und Alcázar: 3,5-stündige Tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2.085) | 65 € |
 

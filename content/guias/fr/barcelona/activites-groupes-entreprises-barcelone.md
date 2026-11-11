@@ -56,8 +56,8 @@ actividades:
 | --- | --- | --- | --- |
 | [Sagrada Família, visite privée avec billets](/en/cities/barcelona/activities/sagrada-familia-private-tour-guide-tickets) | 1 h 45 | 570 € pour 6 | La visite incontournable, sans inconnus |
 | [Tapas et vin, visite privée](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | 594 € pour 6 | Dîner d'équipe ou entre amis |
-| [Montserrat, visite privée avec prise en charge](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | 5 h | 894 € pour 6 | Excursion d'une demi-journée en véhicule privé |
-| [Dégustation de bière pour groupes privés sur toit-terrasse](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) | 2 h | 55 € par personne | Entreprises, anniversaires et enterrements de vie de jeune fille ou garçon |
+| [Montserrat et la crypte de Gaudí à la Colonia Güell : excursion privée avec prise en charge à l'hôtel](/fr/cities/barcelona/activities/montserrat-crypte-gaudi-colonia-guell-visite-privee) | 7 h | 286 € pour 6 | Excursion privée en voiture avec guide et prise en charge devant votre hôtel |
+| [Dégustation de vins sur un rooftop à Barcelone : 6 vins espagnols](/fr/cities/barcelona/activities/barcelona-degustation-vins-rooftop) | 2 h | 48 € par personne | Six vins espagnols : effervescent, blancs, rosé et rouges |
 | [Le meilleur de Barcelone, journée complète privée](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | Environ 7 h | 1 014 € pour 6 (6 maximum) | Une journée entièrement organisée |
 | [Tapas, vin et flamenco, visite privée](/fr/cities/barcelona/activities/barcelona-visite-privee-tapas-vin-flamenco) | 3 h | Environ 88 € par personne à partir de 4 | Soirée complète avec spectacle |
 | [Montserrat et caves Codorníu, en privé](/fr/cities/barcelona/activities/montserrat-caves-codorniu-excursion-privee) | 8 h | Environ 206 € par personne pour un groupe de 4 | Journée cava et montagne |

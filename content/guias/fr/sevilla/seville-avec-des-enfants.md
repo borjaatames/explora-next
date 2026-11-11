@@ -69,7 +69,7 @@ faq:
 | Adolescents (dès 8 ans) | [Kayak sur le Guadalquivir](/fr/cities/sevilla/activities/seville-location-kayak-guadalquivir), 4,5★ (777) | 17 € |
 | À vélo (enfants qui pédalent bien) | [Tour à vélo dans Séville (en anglais)](/en/cities/sevilla/activities/seville-bike-tour-group), 4,9★ (1 636) | 28 € |
 | Belvédère au coucher du soleil | [Setas de Séville avec belvédère à 360°](/fr/cities/sevilla/activities/seville-billet-setas-metropol-parasol-belvedere), 4,6★ (12 014) | 16 € |
-| L'Alcázar sans file d'attente | [Real Alcázar avec guide et accès coupe-file](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
+| L'Alcázar sans file d'attente | [Séville : visite guidée coupe-file de l'Alcázar, de la cathédrale et de la Giralda](/fr/cities/sevilla/activities/seville-alcazar-cathedrale-giralda-visite-guidee-coupe-file), 4,8★ (13 238) | 53 € |
 | Photos impossibles, à l'abri | [Musée des Illusions](/fr/cities/sevilla/activities/seville-billet-musee-des-illusions), 4,2★ (1 352) | 15 € |
 
 ## Ce qui marche selon l'âge

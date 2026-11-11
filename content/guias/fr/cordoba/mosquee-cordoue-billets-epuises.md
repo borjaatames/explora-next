@@ -60,7 +60,7 @@ La Mosquée-cathédrale de Cordoue vend ses billets par date et par horaire, mai
 | Votre propre rythme, avec un audioguide | [Billet pour la Mosquée-cathédrale avec audioguide](/fr/cities/cordoba/activities/mosquee-cathedrale-billet-audioguide), 4,2★ (3 788) | 22 € |
 | La plus populaire | [Visite guidée coupe-file de la Mosquée-cathédrale](/fr/cities/cordoba/activities/mosquee-cathedrale-visite-guidee-coupe-file), 4,6★ (10 966) | 32 € |
 | La Mosquée et le vieux quartier en une matinée | [Mosquée et Juderia avec billets](/fr/cities/cordoba/activities/cordoue-visite-guidee-mosquee-juiverie-billets), 4,5★ (2 200) | 34 € |
-| Rien que votre groupe | [Visite privée de la Mosquée-cathédrale avec entrée](/en/cities/cordoba/activities/cordoba-mosque-cathedral-private-tour), 5★ (45) | 210 € par groupe |
+| Avec guide en français | [Cordoue : visite guidée coupe-file de la Mosquée, de la Juiverie et de l'Alcázar](/fr/cities/cordoba/activities/cordoue-visite-guidee-mosquee-juiverie-alcazar-coupe-file), 4,6★ (5 779) | 49 € |
 | En privé, avec la Juderia | [Visite privée de la Mosquée et de la Juderia](/en/cities/cordoba/activities/cordoba-mosque-jewish-quarter-private-tour), 5★ (130) | 260 € par groupe |
 
 ## 1. Revérifiez le site officiel, et le guichet

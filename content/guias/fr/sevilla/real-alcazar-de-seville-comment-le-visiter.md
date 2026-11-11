@@ -59,8 +59,8 @@ Le Real Alcázar est **le plus ancien palais d'Europe encore en activité** et l
 
 | Si vous cherchez… | Nous vous recommandons | À partir de |
 | --- | --- | --- |
-| L'Alcázar avec guide et sans file d'attente | [Real Alcázar, visite guidée coupe-file](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
-| L'essentiel de Séville en une matinée | [Cathédrale, Giralda et Alcázar avec accès prioritaire](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14 120) | 53 € |
+| L'Alcázar avec guide et sans file d'attente | [Séville : visite guidée coupe-file de l'Alcázar, de la cathédrale et de la Giralda](/fr/cities/sevilla/activities/seville-alcazar-cathedrale-giralda-visite-guidee-coupe-file), 4,8★ (13 238) | 53 € |
+| L'essentiel de Séville en une matinée | [Séville : cathédrale, Giralda et Alcázar avec guide et billets coupe-file](/fr/cities/sevilla/activities/seville-visite-guidee-cathedrale-giralda-alcazar-billets-inclus), 4,6★ (8 899) | 54 € |
 | Du temps libre dans les jardins | [Cathédrale, Giralda et Alcázar : visite de 3 h 30](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2 085) | 65 € |
 
 [actividad: real-alcazar-sevilla-entrada]

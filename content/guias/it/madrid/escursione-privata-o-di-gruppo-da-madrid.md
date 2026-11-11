@@ -71,11 +71,11 @@ opciones:
 | Escursione da Madrid | In gruppo (a persona) | Privato, 2 persone | Privato, 4 persone | Privato, 6 persone |
 | --- | --- | --- | --- | --- |
 | Escorial e Valle de Cuelgamuros | [62 €](/en/cities/madrid/activities/el-escorial-valley-of-cuelgamuros-group-tour) | [410 €](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) (820 € totali) | 370 € (1.480 €) | 320 € (1.920 €) |
-| Toledo, giornata intera con ingressi | [79 €](/en/cities/madrid/activities/toledo-full-day-from-madrid) | — | — | — |
+| Toledo, giornata intera con ingressi | [145 €](/it/cities/madrid/activities/toledo-ingressi-degustazione-piccolo-gruppo-da-madrid) | — | — | — |
 | Toledo e mulini di Consuegra | [125 €](/it/cities/madrid/activities/toledo-mulini-don-chisciotte-da-madrid) (piccolo gruppo in minivan) | — | — | — |
-| Segovia e Toledo | [41 €](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid) | — | — | — |
-| Ávila e Segovia con ingressi | [79 €](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) | — | — | — |
-| Alcalá de Henares e cantina | — | [da 188 €](/en/cities/madrid/activities/alcala-henares-winery-private-tour) (375 € il gruppo fino a 2) | — | — |
+| Segovia e Toledo | [220 €](/it/cities/madrid/activities/toledo-segovia-piccolo-gruppo-degustazione-da-madrid) | — | — | — |
+| Ávila e Segovia con ingressi | [140 €](/it/cities/madrid/activities/segovia-la-granja-piccolo-gruppo-da-madrid) | — | — | — |
+| Alcalá de Henares e cantina | — | [da 390 € per gruppo](/it/cities/madrid/activities/cuenca-case-sospese-tour-privato-da-madrid) (375 € il gruppo fino a 2) | — | — |
 | Cantina e pranzo a Chinchón | — | [200 €](/en/cities/madrid/activities/winery-and-lunch-in-chinchon-from-madrid) a persona, trasporto privato | 200 € | 200 € |
 
 Prezzi «da» delle nostre schede al 1° novembre 2026. «—» indica che non abbiamo quella versione o che la scheda non indica un prezzo per quel gruppo. Chinchón si paga a persona (minimo 2, massimo 8), quindi non scende con il numero.

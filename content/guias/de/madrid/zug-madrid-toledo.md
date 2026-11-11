@@ -67,7 +67,7 @@ Der **Zug von Madrid nach Toledo** ist der schnellste Weg in die Stadt: **33 Min
 | Avant ab Atocha | 33 Min. | 22–26 € hin und zurück | etwa stündlich | Tempo, wenn du früh buchst |
 | Alsa-Bus ab Plaza Elíptica | 50 Min. direkt, bis 1 Std. 30 | ab 6,55 € pro Strecke | 83-mal am Tag | Kleines Budget, späte Rückfahrt |
 | Auto über die A-42 | etwa 1 Std. | Benzin und Parken | jederzeit | Gruppen, Sonnenuntergang am Mirador del Valle |
-| [Geführter Tagesausflug](/en/cities/madrid/activities/toledo-full-day-from-madrid) | 8 Std., alles inklusive | ab 79 € | täglich | Null Planung |
+| [Toledo ab Madrid mit Eintritten und iberischer Verkostung in der Kleingruppe](/de/cities/madrid/activities/toledo-eintritte-verkostung-kleingruppe-ab-madrid) | 10 Std., alles inklusive | ab 145 € | täglich | Kleingruppe mit höchstens 7 Personen im Mercedes |
 
 ## Der Avant: was du wissen musst
 

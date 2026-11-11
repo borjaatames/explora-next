@@ -38,7 +38,7 @@ actividades:
 
 | Activité | Note | À partir de |
 | --- | --- | --- |
-| [Guggenheim avec guide et billet (en espagnol)](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) | 4,9★ (182) | 49 € |
+| [Guggenheim Bilbao : l'art expliqué par des artistes](/fr/cities/bilbao/activities/guggenheim-bilbao-art-explique-par-des-artistes) | 4,9★ (129) | 90 € |
 | [Guggenheim VIP en petit groupe (10 langues)](/fr/cities/bilbao/activities/guggenheim-bilbao-visite-vip-petit-groupe) | 4,5★ (763) | 95 € |
 
 La règle d'or : même sans entrer, l'extérieur vaut déjà le voyage. Et si vous entrez, allez à l'essentiel, n'essayez pas de « tout voir ».

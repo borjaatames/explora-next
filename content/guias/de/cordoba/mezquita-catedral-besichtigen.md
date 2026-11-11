@@ -73,7 +73,7 @@ Die goldene Regel: **geh so früh wie möglich**. Dann sind am wenigsten Mensche
 | Regulärer Eintritt (offizieller Preis) | 15 € | Mezquita-Catedral ohne Führung (12 € ermäßigt) | Wer auf eigene Faust geht und online kauft |
 | [Ticket mit Audioguide](/en/cities/cordoba/activities/mosque-cathedral-ticket-audio-guide) | 22 € | Eintritt und Audioguide auf dem Handy, offline nutzbar | Wer allein, aber mit Erklärungen gehen will |
 | [Führung ohne Anstehen](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour) | 32 € | Offizieller Guide, Eintritt ohne Anstehen, Fernandinische Kirchen und Glockenturm | Wer die Geschichte des Baus erklärt haben will |
-| [Mezquita und Judería mit Tickets](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) | 34 € | Guide, Eintritt in die Mezquita und Rundgang durch die Judería (2,5 Std.) | Wer beides an einem Vormittag sehen will |
+| [Córdoba: Führung durch die Mezquita-Catedral ohne Anstehen](/de/cities/cordoba/activities/mezquita-cordoba-fuehrung-ohne-anstehen) | 32 € | Einlass ohne Anstehen über einen separaten Eingang | Offizieller Guide, der nur in einer Sprache führt |
 
 ## Wann hingehen
 

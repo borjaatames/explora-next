@@ -62,8 +62,8 @@ La cathédrale primatiale est la visite la plus chère de Tolède, et celle qui 
 | --- | --- | --- |
 | Visiter seul | Billet plein tarif en ligne ou au guichet | 12 € |
 | Tout comprendre | [Visite guidée de la cathédrale avec entrée](/en/cities/madrid/activities/toledo-cathedral-guided-tour), 4,5★ (444) | 25 € |
-| Une excursion depuis Madrid sans rien organiser | [Tolède à la journée avec guide et entrée à la cathédrale](/en/cities/madrid/activities/toledo-full-day-from-madrid), 4,6★ (869) | 79 € |
-| Tolède et Ségovie le même jour | [Alcázar de Ségovie et cathédrale de Tolède](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid), 4,7★ (10 421) | 41 € |
+| Une excursion depuis Madrid sans rien organiser | [Tolède et les moulins de Don Quichotte depuis Madrid : excursion en petit groupe](/fr/cities/madrid/activities/excursion-tolede-moulins-don-quichotte-depuis-madrid) | 125 € |
+| Tolède et Ségovie le même jour | [Tolède et Ségovie en une journée en petit groupe, avec billets et dégustation](/fr/cities/madrid/activities/tolede-segovie-petit-groupe-degustation-depuis-madrid) | 220 € |
 
 ## Prix et ce qui est inclus
 

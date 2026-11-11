@@ -49,9 +49,9 @@ Montserrat peut se visiter depuis Barcelone de cinq façons très différentes �
 
 | Option | Prix à partir de | Durée | Format | Idéal pour |
 |---|---|---|---|---|
-| [Demi-journée en petit groupe personnalisé](/en/cities/barcelona/activities/montserrat-half-day-small-group) | 59 € | 5 h 30 | Petit groupe, 4 variantes au choix | Ceux qui ont une demi-journée et veulent arriver avant la foule |
-| [Crémaillère, Vierge noire et cave (CastlExperience)](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | 47 € | 6-10 h | Flexible, en groupe | Ceux qui veulent la journée complète la plus économique |
-| [Masia du Bages avec déjeuner et accord mets-vins](/en/cities/barcelona/activities/montserrat-bages-farmhouse-lunch-and-wine) | 109 € | 9 h | Premium, en groupe | Ceux qui veulent y ajouter une expérience gastronomique de qualité |
+| [Montserrat en voiture avec guide : visite privée ou semi-privée, avec billets pour la basilique](/fr/cities/barcelona/activities/montserrat-voiture-guide-prive-semi-prive-basilique) | 121 € | 5 h 30 min | Montée à Montserrat en voiture avec un guide local, sans train ni crémaillère | Billets pour la basilique et la Vierge noire (La Moreneta) inclus |
+| [Montserrat et caves de cava Codorníu : excursion privée d'une journée au départ de Barcelone avec dégustation](/fr/cities/barcelona/activities/montserrat-caves-codorniu-excursion-privee) | 317 € | 8 h | Excursion privée en voiture avec guide et prise en charge à votre hôtel à Barcelone | Caves Codorníu : bâtiment moderniste, trajet guidé en petit train dans les galeries souterraines et dégustation de deux cavas premium |
+| [Montserrat et la crypte de Gaudí à la Colonia Güell : excursion privée avec prise en charge à l'hôtel](/fr/cities/barcelona/activities/montserrat-crypte-gaudi-colonia-guell-visite-privee) | 286 € | 7 h | Excursion privée en voiture avec guide et prise en charge devant votre hôtel | La crypte de Gaudí à la Colonia Güell avec entrée coupe-file |
 | [Séance photo Montserrat Signature](/en/cities/barcelona/activities/montserrat-signature-photoshoot) | 180 € | 1 h | Privée, photographique | Ceux qui cherchent des photos professionnelles, pas une visite guidée |
 | [Visite privée avec prise en charge à l'hôtel](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | 838 € | 5 h | Privée, uniquement votre groupe | Ceux qui veulent un véhicule et un guide exclusifs, sans partager avec personne |
 

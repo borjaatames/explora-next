@@ -66,7 +66,7 @@ imagen_alt: "Córdoba's Mosque-Cathedral and Roman Bridge over the Guadalquivir"
 | [Skip-the-line guided tour of the Mosque-Cathedral](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour) | 4.6★ (10,966) | €32 |
 | [Mosque and Jewish Quarter tour with tickets](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) | 4.5★ (2,200) | €34 |
 | [Authentic patios tour with tickets, 2 hours](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4.3★ (1,106) | €19 |
-| [3-hour guided tour of Medina Azahara](/en/cities/cordoba/activities/medina-azahara-3-hour-guided-tour) | 4.6★ (1,034) | €18 |
+| [3-hour guided tour of Medina Azahara](/en/cities/cordoba/activities/medina-azahara-private-tour-tickets) | — | €18 |
 | [Equestrian show at the Royal Stables](/en/cities/cordoba/activities/equestrian-show-royal-stables) | 4.5★ (2,910) | €18.5 |
 | [Flamenco show at Tablao Cardenal with a drink](/en/cities/cordoba/activities/flamenco-show-tablao-cardenal) | 4.8★ (1,167) | €25 |
 

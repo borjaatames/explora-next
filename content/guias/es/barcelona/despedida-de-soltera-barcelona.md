@@ -54,7 +54,7 @@ Barcelona sigue siendo un destino de despedidas, pero las reglas han cambiado: e
 
 | Actividad | Duración | Precio | Para qué grupo |
 | --- | --- | --- | --- |
-| [Cata de cerveza para grupos privados en azotea](/ciudades/barcelona/actividades/barcelona-cata-cerveza-grupos-privados-azotea) | 2 h | 55 € por persona | Solo vuestro grupo; despedidas, cumpleaños y empresas |
+| [Cata de vinos en una azotea de Barcelona: 6 vinos españoles](/ciudades/barcelona/actividades/barcelona-cata-de-vinos-azotea) | 2 h | 48 € por persona | Seis vinos españoles: espumoso, blancos, rosado y tintos |
 | [Sip & paint con sangría](/ciudades/barcelona/actividades/barcelona-sip-and-paint-sangria) | 2 h 30 min | 19 € por persona | Grupos que quieren reírse sin salir de noche |
 | [Boat party en catamarán con DJ](/ciudades/barcelona/actividades/fiesta-en-barco-barcelona-catamaran-dj) | 2 h | 53,10 € por persona | Grupos con ganas de fiesta; no sale en invierno |
 | [Clase de salsa con sangría en azotea](/ciudades/barcelona/actividades/barcelona-clase-de-salsa-y-sangria-azotea) | 2 h | 48,60 € por persona | Grupos que quieren bailar; sin experiencia |

@@ -59,7 +59,7 @@ Si vous n'avez qu'une journée libre à Madrid et que c'est votre première fois
 | Billets clés | Cathédrale 12 € ; bracelet 7 monuments 14 € | Alcazar 7 € (10 € avec la tour) ; cathédrale 4 € |
 | Terrain | Beaucoup de pentes | Une montée douce puis du plat |
 | Meilleure saison | Printemps et automne | Été et automne |
-| Excursion organisée | [Tolède avec guide et entrée à la cathédrale](/en/cities/madrid/activities/toledo-full-day-from-madrid) | [Ávila et Ségovie avec billets inclus](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) |
+| Excursion organisée | [Tolède et les moulins de Don Quichotte depuis Madrid : excursion en petit groupe](/fr/cities/madrid/activities/excursion-tolede-moulins-don-quichotte-depuis-madrid) | [Tolède et Ségovie en une journée en petit groupe, avec billets et dégustation](/fr/cities/madrid/activities/tolede-segovie-petit-groupe-degustation-depuis-madrid) |
 
 ## Tolède : celle qui a le plus à voir
 

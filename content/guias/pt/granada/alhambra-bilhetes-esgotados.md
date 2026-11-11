@@ -59,7 +59,7 @@ Os bilhetes da Alhambra podem ser comprados **com até três meses de antecedên
 
 | Se procura… | Opção | Desde |
 | --- | --- | --- |
-| Entrar com garantia e com guia | [Bilhete e tour guiado com Palácios Nasridas](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4,7★ (3.516) | 50 € |
+| Entrar com garantia e com guia | [Alhambra e Palácios Nacéridas: tour privado sem filas](/pt/cities/granada/activities/alhambra-palacios-nasridas-tour-privado-sem-filas) | 278 € por grupo |
 | A mais escolhida | [Visita guiada à Alhambra e aos Nasridas](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4,7★ (21.100) | 49 € |
 | Grupo pequeno | [Alhambra e Palácios Nasridas em grupo reduzido](/en/cities/granada/activities/alhambra-small-group-tour), 4,8★ (890) | 65 € |
 | Se só restarem noites | [Visita noturna aos Palácios Nasridas](/en/cities/granada/activities/alhambra-night-tour), 4,9★ (288) | 54 € |

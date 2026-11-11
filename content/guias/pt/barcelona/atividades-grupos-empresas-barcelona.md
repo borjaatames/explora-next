@@ -55,8 +55,8 @@ Em Barcelona, um grupo de amigos, uma família numerosa ou uma equipa de trabalh
 | Atividade | Duração | Preço | Ideal para |
 | --- | --- | --- | --- |
 | [Sagrada Família, visita privada com bilhetes](/en/cities/barcelona/activities/sagrada-familia-private-tour-guide-tickets) | 1h45 | 570 € para 6 | O imperdível, sem desconhecidos |
-| [Tapas e vinho, visita privada](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | 594 € para 6 | Um jantar de equipa ou de amigos |
-| [Montserrat, visita privada com recolha](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | 5 h | 894 € para 6 | Excursão de meio dia em veículo próprio |
+| [Tour de tapas em Barcelona com paella, sangria e história](/pt/cities/barcelona/activities/barcelona-tour-tapas-paella-sangria-centro-historico) | 3 h | 31 € para 6 | Paella tradicional, sangria e tapas espanholas acabadas de fazer |
+| [Montserrat e a cripta de Gaudí na Colónia Güell: excursão privada com recolha no hotel](/pt/cities/barcelona/activities/montserrat-cripta-gaudi-colonia-guell-tour-privado) | 7 h | 286 € para 6 | Excursão privada de carro com guia e recolha à porta do seu hotel |
 | [Prova de cervejas num terraço para grupos privados](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) | 2 h | 55 € por pessoa | Empresas, aniversários, despedidas de solteiro |
 | [O melhor de Barcelona, dia completo privado](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | Cerca de 7 h | 1014 € para 6 (máximo 6) | Um dia com tudo resolvido |
 | [Tapas, vinho e flamenco, visita privada](/pt/cities/barcelona/activities/barcelona-tour-privado-tapas-vinho-flamenco) | 3 h | Cerca de 88 € por pessoa a partir de 4 | Uma noite completa com espetáculo |

@@ -62,8 +62,8 @@ A Catedral Primaz é a visita mais cara de Toledo e a que mais vale o bilhete. V
 | --- | --- | --- |
 | Ir por conta própria | Bilhete normal online ou na bilheteira | 12 € |
 | Perceber o que vê | [Visita guiada à Catedral com entrada](/en/cities/madrid/activities/toledo-cathedral-guided-tour), 4,5★ (444) | 25 € |
-| Uma excursão desde Madrid sem organizar nada | [Toledo num dia com guia e entrada na Catedral](/en/cities/madrid/activities/toledo-full-day-from-madrid), 4,6★ (869) | 79 € |
-| Toledo e Segóvia no mesmo dia | [Alcázar de Segóvia e Catedral de Toledo](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid), 4,7★ (10.421) | 41 € |
+| Uma excursão desde Madrid sem organizar nada | [Toledo desde Madrid com entradas e degustação ibérica em grupo reduzido](/pt/cities/madrid/activities/toledo-entradas-degustacao-grupo-reduzido-desde-madrid) | 145 € |
+| Toledo e Segóvia no mesmo dia | [Toledo e Segóvia num dia em grupo reduzido, com entradas e degustação](/pt/cities/madrid/activities/toledo-segovia-grupo-reduzido-degustacao-desde-madrid) | 220 € |
 
 ## Preço e o que inclui
 

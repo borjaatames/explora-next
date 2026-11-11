@@ -54,13 +54,13 @@ Barcelone reste une destination d'enterrements de vie de jeune fille et de garç
 
 | Activité | Durée | Prix | Pour quel groupe |
 | --- | --- | --- | --- |
-| [Dégustation de bière pour groupes privés sur toit-terrasse](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) | 2 h | 55 € par personne | Uniquement votre groupe ; EVJF, EVG, anniversaires et entreprises |
+| [Dégustation de vins sur un rooftop à Barcelone : 6 vins espagnols](/fr/cities/barcelona/activities/barcelona-degustation-vins-rooftop) | 2 h | 48 € par personne | Six vins espagnols : effervescent, blancs, rosé et rouges |
 | [Sip & paint avec sangria](/en/cities/barcelona/activities/barcelona-sip-and-paint-with-sangria) | 2 h 30 | 19 € par personne | Groupes qui veulent rire sans sortir la nuit |
 | [Boat party en catamaran avec DJ](/en/cities/barcelona/activities/barcelona-boat-party-catamaran-dj) | 2 h | 53,10 € par personne | Groupes qui ont envie de faire la fête ; pas de sortie en hiver |
 | [Cours de salsa avec sangria sur toit-terrasse](/en/cities/barcelona/activities/barcelona-salsa-class-and-sangria-rooftop) | 2 h | 48,60 € par personne | Groupes qui veulent danser ; sans expérience |
 | [Dégustation de bière artisanale avec musique et karaoké](/en/cities/barcelona/activities/barcelona-craft-beer-tasting-live-music) | 2 h 30 | 17 € par personne | Soirée bon marché avec karaoké facultatif |
 | [Séance photo express](/en/cities/barcelona/activities/quick-photo-shoot-barcelona) | 20 min | 35 € par séance | Un souvenir du groupe devant la Sagrada Família |
-| [Visite privée tapas et vin](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | 298 € pour 2, 594 € pour 6 | Dîner guidé rien que pour vous |
+| [Tapas, vin et flamenco : visite privée du quartier gothique et d'El Born](/fr/cities/barcelona/activities/barcelona-visite-privee-tapas-vin-flamenco) | 3 h | 114 € pour 2, 594 € pour 6 | Visite privée, rien que votre groupe, avec un guide local dans le quartier gothique et El Born |
 | [Flamenco au City Hall](/en/cities/barcelona/activities/flamenco-show-at-the-theater-city-hall-top-pick) | 1 h | À partir de 25 € par personne | Spectacle avant ou après le dîner |
 
 Prix « à partir de » de chaque fiche au 1er novembre 2026 ; ils peuvent varier selon la date et l'option.

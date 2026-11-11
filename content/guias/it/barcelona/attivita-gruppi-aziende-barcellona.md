@@ -54,10 +54,10 @@ A Barcellona, un gruppo di amici, una famiglia numerosa o un team di lavoro spen
 
 | Attività | Durata | Prezzo | Per quale gruppo |
 | --- | --- | --- | --- |
-| [Sagrada Família, visita privata con biglietti](/en/cities/barcelona/activities/sagrada-familia-private-tour-guide-tickets) | 1 h 45 min | 570 € per 6 | La visita imperdibile, senza sconosciuti |
-| [Tapas e vino, tour privato](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | 594 € per 6 | Cena di team o tra amici |
-| [Montserrat, tour privato con prelievo](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | 5 h | 894 € per 6 | Escursione di mezza giornata con veicolo riservato |
-| [Degustazione di birra per gruppi privati in terrazza](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) | 2 h | 55 € a persona | Aziende, compleanni e addii al celibato/nubilato |
+| [Sagrada Familia e Gaudí: tour privato o in piccolo gruppo con biglietti](/it/cities/barcelona/activities/sagrada-familia-gaudi-tour-privato-o-piccolo-gruppo) | 3 h 45 min | 91 € per 6 | Passeggiata di 3 ore nella Barcellona di Gaudí con una guida locale: La Pedrera, Casa Batlló e il Passeig de Gràcia |
+| [Tour gastronomico privato nel Gotico con ingresso alla Sagrada Familia](/it/cities/barcelona/activities/barcellona-tour-gastronomico-privato-gotico-sagrada-familia) | 5 h | 388 € per gruppo per 6 | Guida gastronomica in italiano solo per il tuo gruppo |
+| [Montserrat e la cripta di Gaudí alla Colonia Güell: escursione privata con prelievo in hotel](/it/cities/barcelona/activities/montserrat-cripta-gaudi-colonia-guell-tour-privato) | 7 h | 286 € per 6 | Escursione privata in auto con guida e prelievo davanti al tuo hotel |
+| [Degustazione di vini su una terrazza di Barcellona: 6 vini spagnoli](/it/cities/barcelona/activities/barcellona-degustazione-vini-in-terrazza) | 2 h | 48 € a persona | Sei vini spagnoli: spumante, bianchi, rosato e rossi |
 | [Il meglio di Barcellona, giornata intera privata](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | Circa 7 h | 1.014 € per 6 (massimo 6) | Una giornata con tutto organizzato |
 | [Tapas, vino e flamenco, tour privato](/it/cities/barcelona/activities/barcellona-tour-privato-tapas-vino-flamenco) | 3 h | Circa 88 € a persona da 4 | Serata completa con spettacolo |
 | [Montserrat e cantine di cava Codorníu, privato](/it/cities/barcelona/activities/montserrat-cantine-codorniu-tour-privato-da-barcellona) | 8 h | Circa 206 € a persona in gruppo da 4 | Giornata di cava e montagna |

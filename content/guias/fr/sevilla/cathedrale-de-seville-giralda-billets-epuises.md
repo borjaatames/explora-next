@@ -60,8 +60,8 @@ La cathédrale de Séville vend ses billets **avec une heure d'accès et une jau
 | Si vous cherchez… | Option | À partir de |
 | --- | --- | --- |
 | Billet horodaté, sans guide | [Cathédrale et Giralda sans file d'attente](/fr/cities/sevilla/activities/seville-billet-cathedrale-giralda-coupe-file-audio-option), 4,6★ (3 500) | 17,50 € |
-| La plus choisie | [Cathédrale, Giralda et Alcázar avec accès prioritaire](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14 120) | 53 € |
-| Les deux monuments en prenant son temps | [Cathédrale, Giralda et Alcázar : visite de 3 h 30](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2 085) | 65 € |
+| Avec guide en français | [Séville : visite guidée coupe-file de l'Alcázar, de la cathédrale et de la Giralda](/fr/cities/sevilla/activities/seville-alcazar-cathedrale-giralda-visite-guidee-coupe-file), 4,8★ (13 238) | 53 € |
+| Les deux monuments en prenant son temps | [Séville : cathédrale, Giralda et Alcázar avec guide et billets coupe-file](/fr/cities/sevilla/activities/seville-visite-guidee-cathedrale-giralda-alcazar-billets-inclus), 4,6★ (8 899) | 54 € |
 | Un guide rien que pour votre groupe | [Real Alcázar et cathédrale : visite privée avec entrées](/en/cities/sevilla/activities/royal-alcazar-seville-cathedral-private-tour-tickets), 5,0★ (188) | 300 € par groupe |
 
 ## 1. Le site officiel et le guichet de la Puerta del Príncipe

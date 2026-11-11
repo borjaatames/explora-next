@@ -68,7 +68,7 @@ Diese sechs Angebote beschreiben dieselbe Route: Alcazaba, Nasridenpaläste und 
 
 | Führung | Ab | Was wirklich anders ist |
 |---|---|---|
-| [Eintritt und Führung](/en/cities/granada/activities/alhambra-entry-and-guided-tour) | 50 € | Eine der beiden günstigsten der sechs. Ohne Extras, am Ende freie Zeit |
+| [Granada: Alhambra mit Führung, Nasridenpaläste, Alcazaba und Generalife](/de/cities/granada/activities/alhambra-fuehrung-nasridenpalaeste-generalife) | 55 € | Inklusive Tickets für die Palacios Nazaríes, die Alcazaba und den Generalife |
 | [Alhambra in kleiner Gruppe](/en/cities/granada/activities/alhambra-small-group-tour) | 65 € | Mehr Zeit im Generalife (fast 1 Stunde, mehr als die anderen) |
 | [Führung durch Alhambra und Nasridenpaläste](/de/cities/granada/activities/alhambra-generalife-fuehrung) | 49 € | Die günstigste der sechs. Übliche Aufteilung auf die drei Bereiche |
 | [Nasridenpaläste ohne Anstehen](/en/cities/granada/activities/alhambra-nasrid-palaces-skip-the-line) | 53 € | Gleiche Route, Preis im mittleren bis oberen Bereich |

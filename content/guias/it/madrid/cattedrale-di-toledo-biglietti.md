@@ -62,8 +62,8 @@ La Cattedrale primaziale è la visita più cara di Toledo e quella che più vale
 | --- | --- | --- |
 | Visitarla da solo | Biglietto intero online o in biglietteria | 12 € |
 | Capire cosa vedi | [Visita guidata della Cattedrale con ingresso](/en/cities/madrid/activities/toledo-cathedral-guided-tour), 4,5★ (444) | 25 € |
-| Una gita da Madrid senza organizzare nulla | [Toledo in giornata con guida e ingresso alla Cattedrale](/en/cities/madrid/activities/toledo-full-day-from-madrid), 4,6★ (869) | 79 € |
-| Toledo e Segovia lo stesso giorno | [Alcázar di Segovia e Cattedrale di Toledo](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid), 4,7★ (10.421) | 41 € |
+| Una gita da Madrid senza organizzare nulla | [Toledo da Madrid con ingressi e degustazione iberica in piccolo gruppo](/it/cities/madrid/activities/toledo-ingressi-degustazione-piccolo-gruppo-da-madrid) | 145 € |
+| Toledo e Segovia lo stesso giorno | [Toledo e Segovia in un giorno in piccolo gruppo, con ingressi e degustazione](/it/cities/madrid/activities/toledo-segovia-piccolo-gruppo-degustazione-da-madrid) | 220 € |
 
 ## Prezzo e cosa include
 

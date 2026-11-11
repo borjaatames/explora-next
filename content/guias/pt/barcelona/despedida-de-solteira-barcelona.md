@@ -60,7 +60,7 @@ Barcelona continua a ser um destino de despedidas, mas as regras mudaram: a Câm
 | [Aula de salsa com sangria num terraço](/en/cities/barcelona/activities/barcelona-salsa-class-and-sangria-rooftop) | 2 h | 48,60 € por pessoa | Grupos que querem dançar; sem experiência |
 | [Prova de cerveja artesanal com música e karaoke](/en/cities/barcelona/activities/barcelona-craft-beer-tasting-live-music) | 2h30 | 17 € por pessoa | Plano noturno barato com karaoke opcional |
 | [Sessão fotográfica rápida](/en/cities/barcelona/activities/quick-photo-shoot-barcelona) | 20 min | 35 € por sessão | Uma recordação do grupo junto à Sagrada Família |
-| [Tour privado de tapas e vinho](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | 298 € para 2, 594 € para 6 | Jantar guiado só para vocês |
+| [Tour de tapas em Barcelona com paella, sangria e história](/pt/cities/barcelona/activities/barcelona-tour-tapas-paella-sangria-centro-historico) | 3 h | 31 € para 2, 594 € para 6 | Paella tradicional, sangria e tapas espanholas acabadas de fazer |
 | [Flamenco no City Hall](/en/cities/barcelona/activities/flamenco-show-at-the-theater-city-hall-top-pick) | 1 h | Desde 25 € por pessoa | Espetáculo antes ou depois do jantar |
 
 Preços «desde» de cada ficha a 1 de novembro de 2026; podem variar consoante a data e a opção.

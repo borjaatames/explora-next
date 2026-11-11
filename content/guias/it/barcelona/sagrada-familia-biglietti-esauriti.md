@@ -60,7 +60,7 @@ La Sagrada Família vende i biglietti **solo online e con orario**, circa **due 
 | Se cerchi… | Opzione | Da |
 | --- | --- | --- |
 | Biglietto singolo in rivendita | [Biglietto con audioguida](/en/cities/barcelona/activities/sagrada-familia-ticket-audio-guide), 4,6★ (113.748) | 34 € |
-| Con guida e piccolo gruppo | [Visita guidata in gruppo ridotto](/en/cities/barcelona/activities/sagrada-familia-small-group-tour), 4,7★ (3.690) | 99 € |
+| Con guida e piccolo gruppo | [Sagrada Familia e Gaudí: tour privato o in piccolo gruppo con biglietti](/it/cities/barcelona/activities/sagrada-familia-gaudi-tour-privato-o-piccolo-gruppo), 4,8★ (1.387) | 91 € |
 | Sagrada Família e Park Güell | [Tour di entrambi salta coda](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour), 4,8★ (6.776) | 104 € |
 | Con salita su una torre | [Tour guidato con torre](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access), 4,4★ (5.518) | 75 € |
 

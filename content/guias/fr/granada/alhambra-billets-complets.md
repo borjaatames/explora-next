@@ -59,9 +59,9 @@ Les billets pour l'Alhambra s'achètent **jusqu'à trois mois à l'avance**, et 
 
 | Si vous voulez… | Option | À partir de |
 | --- | --- | --- |
-| Une entrée garantie avec un guide | [Entrée et visite guidée avec les palais nasrides](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4,7★ (3 516) | 50 € |
+| Une entrée garantie avec un guide | [Visite guidée de l'Alhambra et des palais nasrides avec billets](/fr/cities/granada/activities/alhambra-visite-guidee-palais-nasrides-avec-billets), 4,9★ (1 018) | 99 € |
 | La plus populaire | [Visite guidée de l'Alhambra et des palais nasrides](/fr/cities/granada/activities/visite-guidee-alhambra-palais-nasrides-generalife), 4,7★ (21 100) | 49 € |
-| En petit groupe | [Visite en petit groupe de l'Alhambra et des palais nasrides](/en/cities/granada/activities/alhambra-small-group-tour), 4,8★ (890) | 65 € |
+| En petit groupe | [Alhambra : visite guidée en petit groupe avec palais nasrides et Generalife](/fr/cities/granada/activities/alhambra-generalife-palais-nasrides-visite-guidee-petit-groupe), 4,8★ (1 047) | 45 € |
 | S'il ne reste que le soir | [Visite nocturne des palais nasrides](/en/cities/granada/activities/alhambra-night-tour), 4,9★ (288) | 54 € |
 | Sans les palais nasrides, moins cher | [Jardins, Generalife et Alcazaba](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4,5★ (2 256) | 17,50 € |
 

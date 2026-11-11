@@ -58,7 +58,7 @@ imagen_alt: "Le Charco de los Clicos, la lagune verte d'El Golfo, à côté de l
 | Activité | Note | À partir de |
 | --- | --- | --- |
 | [Timanfaya, Jameos del Agua et Cueva de los Verdes avec billets](/fr/cities/lanzarote/activities/lanzarote-excursion-timanfaya-jameos-cueva-de-los-verdes) | 4,5★ (2 910) | 89 € |
-| [Excursion d'une journée aux incontournables de l'île](/en/cities/lanzarote/activities/lanzarote-full-day-island-tour) | 4,7★ (3 379) | 51 € |
+| [Lanzarote : excursion d'une journée à Timanfaya, El Golfo et Jameos del Agua](/fr/cities/lanzarote/activities/lanzarote-excursion-timanfaya-el-golfo-jameos-del-agua) | 4,5★ (2 065) | 87 € |
 | [Croisière en catamaran à La Graciosa avec déjeuner, baignade et kayaks](/fr/cities/lanzarote/activities/la-graciosa-croisiere-catamaran-dejeuner) | 4,6★ (2 132) | 66 € |
 | [Randonnée guidée parmi les volcans de Timanfaya](/en/cities/lanzarote/activities/timanfaya-volcano-hike) | 4,8★ (990) | 47 € |
 | [Kayak et snorkeling à la plage de Papagayo](/fr/cities/lanzarote/activities/lanzarote-kayak-snorkeling-plage-papagayo) | 4,7★ (162) | 45 € |

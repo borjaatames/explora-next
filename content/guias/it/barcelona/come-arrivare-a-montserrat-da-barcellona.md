@@ -68,7 +68,7 @@ Arrivare a Montserrat da Barcellona per conto tuo è facile: il monastero è a c
 | Treno R5 + Cremallera | 1 h 30 | 20,80-32,60 € andata e ritorno, combinato | Treno ogni ora, Cremallera 2-3 all'ora | Chi preferisce un viaggio tranquillo |
 | Trans Montserrat | 1 h 30 | 50 € | Come il treno | Chi sale anche con la funicolare di Sant Joan |
 | Auto + Cremallera da Monistrol Vila | 1 h 15 | Benzina, parcheggio gratis + 15 € | Cremallera 2-3 all'ora | Famiglie e gruppi |
-| [Escursione organizzata](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | 6-10 h, tutto incluso | Da 47 € | Ogni giorno | Chi non vuole organizzare niente |
+| [Montserrat e cantine di cava Codorníu: escursione privata di un giorno da Barcellona con degustazione](/it/cities/barcelona/activities/montserrat-cantine-codorniu-tour-privato-da-barcellona) | 8 h, tutto incluso | Da 317 € | Ogni giorno | Escursione privata in auto con guida e prelievo nel tuo hotel di Barcellona |
 
 ## Il treno R5 da Plaça Espanya
 

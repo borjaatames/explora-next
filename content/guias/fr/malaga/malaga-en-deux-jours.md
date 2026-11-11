@@ -49,7 +49,7 @@ imagen_alt: "Vue de Malaga depuis l'Alcazaba"
 
 | Activité | Note | À partir de |
 | --- | --- | --- |
-| [Alcazaba et théâtre romain avec guide](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4,7★ (7 412) | 13 € |
+| [Malaga : visite guidée privée avec l’Alcazaba et la cathédrale](/fr/cities/malaga/activities/malaga-visite-guidee-privee-alcazaba-cathedrale) | — | 332 € par groupe |
 | [Musée Picasso, entrée avec audioguide](/fr/cities/malaga/activities/billet-musee-picasso-malaga-audioguide) | 4,5★ (14 246) | 13 € |
 | [Cathédrale, Alcazaba et théâtre avec entrées](/en/cities/malaga/activities/malaga-essentials-cathedral-alcazaba-theatre) | 4,6★ (1 134) | 32,76 € |
 | [Catamaran dans la baie au coucher du soleil](/fr/cities/malaga/activities/malaga-balade-catamaran-baie-coucher-soleil) | 4,4★ (10 537) | 13 € |

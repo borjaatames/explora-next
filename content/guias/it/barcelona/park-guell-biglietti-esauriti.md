@@ -59,7 +59,7 @@ Il Park Güell vende i biglietti con orario e con una capienza fissa di **700 pe
 | --- | --- | --- |
 | Solo l'ingresso | [Biglietto salta coda per la zona monumentale](/en/cities/barcelona/activities/park-guell-admission-ticket), 4,4★ (81.572) | 21,5 € |
 | Ingresso e casa di Gaudí | [Park Güell + Casa Museo Gaudí](/en/cities/barcelona/activities/park-guell-and-gaudi-house-museum-ticket), 4,5★ (7.565) | 28 € |
-| Con guida all'interno | [Tour della Sagrada Família e del Park Güell](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour), 4,8★ (6.776) | 104 € |
+| Con guida all'interno | [Sagrada Familia e Gaudí: tour privato o in piccolo gruppo con biglietti](/it/cities/barcelona/activities/sagrada-familia-gaudi-tour-privato-o-piccolo-gruppo), 4,8★ (1.387) | 91 € |
 | Barcellona in un giorno | [Sagrada Família, Park Güell e centro](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell), 4,9★ (15.762) | 129 € |
 
 ## 1. Ricontrolla il sito ufficiale (e come farlo)
