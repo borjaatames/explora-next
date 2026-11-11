@@ -61,14 +61,18 @@ keywords:
 - "cueva de lola madrid"
 - "tablao flamenco madrid centro"
 - "espectaculo flamenco madrid"
-imagen: "/images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp"
-imagenAlt: "Bailaora de flamenco en el escenario"
+imagen: "/images/actividades/madrid/cueva-de-lola/bailaora-guitarra-cante-escenario.webp"
+imagenAlt: "Bailaora en el escenario de La Cueva de Lola con guitarrista y cantaor"
 galeria:
-- src: "/images/actividades/madrid/flamenco-espectaculo/guitarristas-flamenco-blanco-negro.webp"
-  alt: "Guitarristas flamencos"
-- src: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
-  alt: "Bailaora de flamenco en el escenario"
-publicada: false
+- src: "/images/actividades/madrid/cueva-de-lola/bailaor-cueva-guitarrista.webp"
+  alt: "Bailaor en la cueva del siglo XVII con guitarrista"
+- src: "/images/actividades/madrid/cueva-de-lola/sala-cueva-siglo-xvii.webp"
+  alt: "La sala de La Cueva de Lola, una cueva del siglo XVII"
+- src: "/images/actividades/madrid/cueva-de-lola/artistas-palmas-tablao.webp"
+  alt: "Artistas haciendo palmas en el tablao"
+- src: "/images/actividades/madrid/cueva-de-lola/bailaora-manton-flores.webp"
+  alt: "Bailaora con mantón de flores"
+publicada: true
 destacada: false
 fecha: '2026-11-10'
 ---

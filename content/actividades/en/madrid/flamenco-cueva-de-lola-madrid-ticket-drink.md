@@ -61,14 +61,18 @@ keywords:
 - "cueva de lola madrid"
 - "flamenco show madrid centre"
 - "madrid tablao"
-imagen: "/images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp"
-imagenAlt: "Flamenco dancer on stage"
+imagen: "/images/actividades/madrid/cueva-de-lola/bailaora-guitarra-cante-escenario.webp"
+imagenAlt: "Flamenco dancer on stage at La Cueva de Lola with guitarist and singer"
 galeria:
-- src: "/images/actividades/madrid/flamenco-espectaculo/guitarristas-flamenco-blanco-negro.webp"
-  alt: "Flamenco guitarists"
-- src: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
-  alt: "Flamenco dancer on stage"
-publicada: false
+- src: "/images/actividades/madrid/cueva-de-lola/bailaor-cueva-guitarrista.webp"
+  alt: "Male dancer in the 17th-century cave with a guitarist"
+- src: "/images/actividades/madrid/cueva-de-lola/sala-cueva-siglo-xvii.webp"
+  alt: "The room at La Cueva de Lola, a 17th-century cave"
+- src: "/images/actividades/madrid/cueva-de-lola/artistas-palmas-tablao.webp"
+  alt: "Artists clapping palmas at the tablao"
+- src: "/images/actividades/madrid/cueva-de-lola/bailaora-manton-flores.webp"
+  alt: "Dancer with a floral shawl"
+publicada: true
 destacada: false
 fecha: '2026-11-10'
 ---
