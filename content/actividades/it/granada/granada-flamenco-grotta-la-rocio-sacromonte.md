@@ -72,25 +72,13 @@ keywords:
 - flamenco sacromonte
 - cueva la rocio granada
 - flamenco grotte granada
-imagen: /images/actividades/alicante/flamenco/tablao.webp
-imagenAlt: 'Ballo flamenco con chitarristi in una grotta'
+imagen: "/images/actividades/granada/cueva-la-rocio/zambra-bailaor-cueva-la-rocio.webp"
+imagenAlt: "Ballerino di flamenco sul palco di Cueva de la Rocío"
 galeria:
-- src: https://imgcdn.bokun.tools/99395bf7-e0d1-4f47-8841-b4799e9d3e20.jpg
-  alt: 'Ballerina con abito rosso nella Cueva La Rocío'
-- src: https://imgcdn.bokun.tools/7e5dc17d-4e14-4a03-8852-5a2fb58513de.jpg
-  alt: 'Ballerina con gonna bianca davanti al pubblico della grotta'
-- src: https://imgcdn.bokun.tools/406d75d9-cac9-4560-8ae7-e53b8934c3a1.jpg
-  alt: 'Interno imbiancato della grotta con sedie impagliate verdi'
-- src: https://imgcdn.bokun.tools/958eccc9-d017-41ae-b6ff-899b798b860f.jpeg
-  alt: 'Ballerina con abito blu durante lo spettacolo'
-- src: https://imgcdn.bokun.tools/e4406295-6f7b-4a66-926c-3b4e01efc78a.jpeg
-  alt: 'Canto e battiti di mani nella grotta'
-- src: https://imgcdn.bokun.tools/a1826eb6-d638-40cc-ae46-08f208672b03.jpeg
-  alt: 'Ballerina con le braccia alzate'
-- src: https://imgcdn.bokun.tools/1f55788f-9c7a-43c1-ac25-b9373015b7b1.jpg
-  alt: 'Facciata di una grotta sul Camino del Sacromonte'
-- src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
-  alt: 'Case grotta sui pendii del Sacromonte'
+- src: "/images/actividades/granada/cueva-la-rocio/bailaora-abanico-cueva-la-rocio.webp"
+  alt: "Ballerina di flamenco sul palco di Cueva de la Rocío"
+- src: "/images/actividades/granada/cueva-la-rocio/bailaora-guitarra-cueva-la-rocio.webp"
+  alt: "Ballerina di flamenco sul palco di Cueva de la Rocío"
 publicada: true
 destacada: false
 fecha: '2026-10-10'

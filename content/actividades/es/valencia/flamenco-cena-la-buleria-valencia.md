@@ -75,23 +75,17 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
-imagenAlt: "Bailaoras sobre el escenario durante un espectáculo flamenco"
+imagen: "/images/actividades/valencia/la-buleria/cuadro-bailaora-la-buleria-valencia.webp"
+imagenAlt: "Cuadro flamenco al completo en La Bulería"
 galeria:
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Cantaora flamenca cantando en un escenario"
-- src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-mesa.webp
-  alt: "Tapas variadas en cazuelas de barro sobre una mesa de madera"
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: "Guitarrista flamenco tocando en directo"
-- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: "Bailaor en pleno baile sobre el escenario"
-- src: /images/actividades/valencia/noche/plaza-ayuntamiento-noche.webp
-  alt: "Plaza del Ayuntamiento de Valencia iluminada por la noche"
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: "Guitarrista flamenco tocando sobre el escenario"
-- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: "Artistas flamencos en escena durante un espectáculo en directo"
+- src: "/images/actividades/valencia/la-buleria/escenario-la-buleria-valencia.webp"
+  alt: "La sala de La Bulería"
+- src: "/images/actividades/valencia/la-buleria/bailaora-guitarra-la-buleria-valencia.webp"
+  alt: "Bailaora en el escenario de La Bulería"
+- src: "/images/actividades/valencia/la-buleria/comedor-la-buleria-valencia.webp"
+  alt: "Cena y espectáculo en La Bulería"
+- src: "/images/actividades/valencia/la-buleria/sala-la-buleria-valencia.webp"
+  alt: "La sala de La Bulería"
 ---
 
 ## Qué vas a ver

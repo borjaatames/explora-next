@@ -75,23 +75,19 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-imagenAlt: 'Flamenco dancer with a shawl and a guitarist during a show'
+imagen: "/images/actividades/mallorca/tablao-alma/bailaora-escenario-tablao-alma-palma.webp"
+imagenAlt: "Flamenco dancer on stage at Tablao Flamenco Alma"
 galeria:
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-noche.webp
-  alt: 'Palma Cathedral lit up at night'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: 'A flamenco dancer''s hands with castanets'
-- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
-  alt: 'Palma seafront promenade at sunset'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-  alt: 'A dancer twirling on stage (illustrative image)'
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
-  alt: 'Palma Cathedral under a pink sunset sky'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
-  alt: 'Flamenco dancer in black and white'
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
-  alt: 'Palma Cathedral above the sea wall'
+- src: "/images/actividades/mallorca/tablao-alma/bailaora-manton-tablao-alma-palma.webp"
+  alt: "Flamenco dancer on stage at Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/bailaora-abanico-tablao-alma-palma.webp"
+  alt: "Flamenco dancer on stage at Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/bailaor-tablao-alma-palma.webp"
+  alt: "Male flamenco dancer on stage at Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/cantaora-tablao-alma-palma.webp"
+  alt: "Live guitar and singing at Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/guitarra-tablao-alma-palma.webp"
+  alt: "Live guitar and singing at Tablao Flamenco Alma"
 ---
 
 ## What you will see

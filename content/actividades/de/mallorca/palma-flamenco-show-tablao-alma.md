@@ -66,23 +66,19 @@ keywords:
 - tablao flamenco alma
 - flamenco show mallorca
 - flamenco palma
-imagen: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-imagenAlt: 'Tänzerin mit Manton und Gitarrist bei einer Flamenco-Show'
+imagen: "/images/actividades/mallorca/tablao-alma/bailaora-escenario-tablao-alma-palma.webp"
+imagenAlt: "Flamencotänzerin auf der Bühne von Tablao Flamenco Alma"
 galeria:
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-noche.webp
-  alt: 'Die Kathedrale von Palma nachts beleuchtet'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: 'Hände einer Tänzerin mit Kastagnetten'
-- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
-  alt: 'Die Uferpromenade von Palma bei Sonnenuntergang'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-  alt: 'Drehung einer Tänzerin auf der Bühne (Symbolbild)'
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
-  alt: 'Die Kathedrale von Palma unter rosafarbenem Abendhimmel'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
-  alt: 'Flamenco-Tänzerin in Schwarz-Weiß'
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
-  alt: 'Die Kathedrale von Palma über der Stadtmauer am Meer'
+- src: "/images/actividades/mallorca/tablao-alma/bailaora-manton-tablao-alma-palma.webp"
+  alt: "Flamencotänzerin auf der Bühne von Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/bailaora-abanico-tablao-alma-palma.webp"
+  alt: "Flamencotänzerin auf der Bühne von Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/bailaor-tablao-alma-palma.webp"
+  alt: "Flamencotänzer auf der Bühne von Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/cantaora-tablao-alma-palma.webp"
+  alt: "Live-Gitarre und Gesang in Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/guitarra-tablao-alma-palma.webp"
+  alt: "Live-Gitarre und Gesang in Tablao Flamenco Alma"
 ratingProveedor: 4.6
 numeroOpiniones: 1683
 atraccionesRelacionadas:

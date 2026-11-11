@@ -75,23 +75,17 @@ publicada: true
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
-imagenAlt: Ballerine sul palco durante uno spettacolo di flamenco
+imagen: "/images/actividades/valencia/la-buleria/cuadro-bailaora-la-buleria-valencia.webp"
+imagenAlt: "Il gruppo di flamenco al completo a La Bulería"
 galeria:
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: Cantaora che canta sul palco
-- src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-mesa.webp
-  alt: Tapas assortite in cocotte di terracotta su un tavolo di legno
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: Chitarrista di flamenco che suona dal vivo
-- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: Ballerino di flamenco in pieno ballo sul palco
-- src: /images/actividades/valencia/noche/plaza-ayuntamiento-noche.webp
-  alt: Plaza del Ayuntamiento di Valencia illuminata di notte
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: Chitarrista di flamenco sul palco
-- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: Artisti di flamenco in scena durante uno spettacolo dal vivo
+- src: "/images/actividades/valencia/la-buleria/escenario-la-buleria-valencia.webp"
+  alt: "La sala di La Bulería"
+- src: "/images/actividades/valencia/la-buleria/bailaora-guitarra-la-buleria-valencia.webp"
+  alt: "Ballerina di flamenco sul palco di La Bulería"
+- src: "/images/actividades/valencia/la-buleria/comedor-la-buleria-valencia.webp"
+  alt: "Cena e spettacolo a La Bulería"
+- src: "/images/actividades/valencia/la-buleria/sala-la-buleria-valencia.webp"
+  alt: "La sala di La Bulería"
 ---
 
 ## Cosa vedrai

@@ -74,23 +74,17 @@ keywords:
 - alegria flamenco málaga
 - espetáculo flamenco málaga
 - flamenco com tapas málaga
-imagen: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
-imagenAlt: 'Bailarino de flamenco em palco'
+imagen: "/images/actividades/malaga/alegria/cuadro-escenario-alegria-malaga.webp"
+imagenAlt: "O grupo de flamenco completo em Alegría Flamenco"
 galeria:
-- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-  alt: 'Bailarina e músicos num tablao flamenco'
-- src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: 'Guitarrista de flamenco'
-- src: /images/actividades/malaga/muelle-uno/malagueta.webp
-  alt: 'Praia da Malagueta, junto ao espaço'
-- src: /images/actividades/malaga/muelle-uno/muelle-uno-malaga-hero.webp
-  alt: 'Passeio do Muelle Uno no porto de Málaga'
-- src: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
-  alt: 'A Alcazaba de Málaga'
-- src: /images/actividades/malaga/muelle-uno/paseo-farola.webp
-  alt: 'Paseo de la Farola e o porto de Málaga vistos do Muelle Uno'
-- src: /images/actividades/malaga/muelle-uno/muelle-uno-vista.webp
-  alt: 'Muelle Uno no porto de Málaga'
+- src: "/images/actividades/malaga/alegria/bailaora-cante-alegria-malaga.webp"
+  alt: "Bailarina de flamenco no palco de Alegría Flamenco"
+- src: "/images/actividades/malaga/alegria/sala-alegria-malaga.webp"
+  alt: "A sala de Alegría Flamenco"
+- src: "/images/actividades/malaga/alegria/pies-bailaora-alegria-malaga.webp"
+  alt: "Bailarina de flamenco no palco de Alegría Flamenco"
+- src: "/images/actividades/malaga/alegria/guitarra-alegria-malaga.webp"
+  alt: "Guitarra e canto ao vivo em Alegría Flamenco"
 ratingProveedor: 4.7
 numeroOpiniones: 6564
 publicada: true

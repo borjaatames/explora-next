@@ -75,23 +75,19 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-imagenAlt: 'Bailaora con mantón y guitarrista en un espectáculo flamenco'
+imagen: "/images/actividades/mallorca/tablao-alma/bailaora-escenario-tablao-alma-palma.webp"
+imagenAlt: "Bailaora en el escenario de Tablao Flamenco Alma"
 galeria:
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-noche.webp
-  alt: 'Catedral de Palma iluminada de noche'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: 'Manos de una bailaora con castañuelas'
-- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
-  alt: 'Paseo marítimo de Palma al atardecer'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-  alt: 'Giro de una bailaora sobre el escenario (imagen ilustrativa)'
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
-  alt: 'Catedral de Palma con el cielo rosado del atardecer'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
-  alt: 'Bailaora flamenca en blanco y negro'
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
-  alt: 'Catedral de Palma sobre la muralla del mar'
+- src: "/images/actividades/mallorca/tablao-alma/bailaora-manton-tablao-alma-palma.webp"
+  alt: "Bailaora en el escenario de Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/bailaora-abanico-tablao-alma-palma.webp"
+  alt: "Bailaora en el escenario de Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/bailaor-tablao-alma-palma.webp"
+  alt: "Bailaor en el escenario de Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/cantaora-tablao-alma-palma.webp"
+  alt: "Guitarra y cante en directo en Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/guitarra-tablao-alma-palma.webp"
+  alt: "Guitarra y cante en directo en Tablao Flamenco Alma"
 ---
 
 ## Qué vas a ver

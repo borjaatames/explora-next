@@ -74,23 +74,17 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-imagenAlt: 'Músicos en directo en un tablao flamenco de Jerez'
+imagen: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-escenario-guarida-del-angel.webp"
+imagenAlt: "Bailaora en el escenario de La Guarida del Ángel"
 galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/monumento-lola-flores.webp
-  alt: 'Monumento a Lola Flores en el barrio de San Miguel de Jerez'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: 'Manos de una bailaora sujetando castañuelas'
-- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
-  alt: 'Copa de vino ambarino sobre una mesa de madera'
-- src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
-  alt: 'Tapas variadas en cazuelas de barro sobre una mesa de madera'
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-noche.webp
-  alt: 'Cúpula de la Catedral de Jerez iluminada de noche'
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: 'Público disfrutando de un espectáculo flamenco en Jerez'
-- src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
-  alt: 'Calle del casco antiguo de Jerez con ventanales y terraza'
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/sala-escenario-guarida-del-angel.webp"
+  alt: "La sala de La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/pareja-baile-guarida-del-angel.webp"
+  alt: "Pareja de baile flamenco en La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/guitarra-guarida-del-angel.webp"
+  alt: "Guitarra y cante en directo en La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-guarida-del-angel.webp"
+  alt: "Bailaora en el escenario de La Guarida del Ángel"
 ---
 
 ## Qué vas a ver

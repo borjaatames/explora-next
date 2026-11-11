@@ -70,25 +70,13 @@ keywords:
 - flamenco sacromonte
 - cueva la rocio granada
 - flamenco höhle granada
-imagen: /images/actividades/alicante/flamenco/tablao.webp
-imagenAlt: 'Flamencotanz mit Gitarristen in einer Höhle'
+imagen: "/images/actividades/granada/cueva-la-rocio/zambra-bailaor-cueva-la-rocio.webp"
+imagenAlt: "Flamencotänzer auf der Bühne von Cueva de la Rocío"
 galeria:
-- src: https://imgcdn.bokun.tools/99395bf7-e0d1-4f47-8841-b4799e9d3e20.jpg
-  alt: 'Tänzerin im roten Kleid in der Cueva La Rocío'
-- src: https://imgcdn.bokun.tools/7e5dc17d-4e14-4a03-8852-5a2fb58513de.jpg
-  alt: 'Tänzerin im weißen Rock vor dem Publikum der Höhle'
-- src: https://imgcdn.bokun.tools/406d75d9-cac9-4560-8ae7-e53b8934c3a1.jpg
-  alt: 'Weiß gekalkter Innenraum der Höhle mit grünen Binsenstühlen'
-- src: https://imgcdn.bokun.tools/958eccc9-d017-41ae-b6ff-899b798b860f.jpeg
-  alt: 'Tänzerin im blauen Kleid während der Show'
-- src: https://imgcdn.bokun.tools/e4406295-6f7b-4a66-926c-3b4e01efc78a.jpeg
-  alt: 'Gesang und Palmas in der Höhle'
-- src: https://imgcdn.bokun.tools/a1826eb6-d638-40cc-ae46-08f208672b03.jpeg
-  alt: 'Tänzerin mit erhobenen Armen'
-- src: https://imgcdn.bokun.tools/1f55788f-9c7a-43c1-ac25-b9373015b7b1.jpg
-  alt: 'Fassade einer Höhle am Camino del Sacromonte'
-- src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
-  alt: 'Höhlenhäuser an den Hängen des Sacromonte'
+- src: "/images/actividades/granada/cueva-la-rocio/bailaora-abanico-cueva-la-rocio.webp"
+  alt: "Flamencotänzerin auf der Bühne von Cueva de la Rocío"
+- src: "/images/actividades/granada/cueva-la-rocio/bailaora-guitarra-cueva-la-rocio.webp"
+  alt: "Flamencotänzerin auf der Bühne von Cueva de la Rocío"
 atraccionesRelacionadas:
 - flamenco
 publicada: true

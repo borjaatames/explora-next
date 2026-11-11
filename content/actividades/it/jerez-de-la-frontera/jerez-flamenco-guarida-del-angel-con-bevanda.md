@@ -74,23 +74,17 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-imagenAlt: 'Musicisti dal vivo in un tablao flamenco di Jerez'
+imagen: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-escenario-guarida-del-angel.webp"
+imagenAlt: "Ballerina di flamenco sul palco di La Guarida del Ángel"
 galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/monumento-lola-flores.webp
-  alt: 'Monumento a Lola Flores nel quartiere di San Miguel a Jerez'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: 'Mani di una ballerina di flamenco con le nacchere'
-- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
-  alt: 'Calice di vino ambrato su un tavolo di legno'
-- src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
-  alt: 'Tapas assortite in tegamini di terracotta su un tavolo di legno'
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-noche.webp
-  alt: 'Cupola della Cattedrale di Jerez illuminata di notte'
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: 'Pubblico che assiste a uno spettacolo di flamenco a Jerez'
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
-  alt: 'Cattedrale di Jerez e la sua torre illuminate di notte'
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/sala-escenario-guarida-del-angel.webp"
+  alt: "La sala di La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/pareja-baile-guarida-del-angel.webp"
+  alt: "Coppia di ballerini di flamenco a La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/guitarra-guarida-del-angel.webp"
+  alt: "Chitarra e canto dal vivo a La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-guarida-del-angel.webp"
+  alt: "Ballerina di flamenco sul palco di La Guarida del Ángel"
 ---
 
 ## Cosa vedrai

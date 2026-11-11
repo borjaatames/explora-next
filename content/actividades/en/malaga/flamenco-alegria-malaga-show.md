@@ -76,23 +76,17 @@ keywords:
 - alegria flamenco malaga
 - malaga flamenco tickets
 - flamenco with tapas malaga
-imagen: /images/actividades/alicante/flamenco/flamenco-bailaor.webp
-imagenAlt: 'Flamenco dancer on stage'
+imagen: "/images/actividades/malaga/alegria/cuadro-escenario-alegria-malaga.webp"
+imagenAlt: "The full flamenco ensemble at Alegría Flamenco"
 galeria:
-- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-  alt: 'Dancer and musicians in a flamenco tablao'
-- src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: 'Flamenco guitarist'
-- src: /images/actividades/malaga/muelle-uno/malagueta.webp
-  alt: 'La Malagueta beach, next to the venue'
-- src: /images/actividades/malaga/muelle-uno/muelle-uno-malaga-hero.webp
-  alt: 'Muelle Uno promenade in Málaga port'
-- src: /images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp
-  alt: 'Málaga Alcazaba'
-- src: /images/actividades/malaga/muelle-uno/paseo-farola.webp
-  alt: 'Paseo de la Farola and Málaga port from Muelle Uno'
-- src: /images/actividades/malaga/muelle-uno/muelle-uno-vista.webp
-  alt: 'Muelle Uno in the port of Málaga'
+- src: "/images/actividades/malaga/alegria/bailaora-cante-alegria-malaga.webp"
+  alt: "Flamenco dancer on stage at Alegría Flamenco"
+- src: "/images/actividades/malaga/alegria/sala-alegria-malaga.webp"
+  alt: "The venue at Alegría Flamenco"
+- src: "/images/actividades/malaga/alegria/pies-bailaora-alegria-malaga.webp"
+  alt: "Flamenco dancer on stage at Alegría Flamenco"
+- src: "/images/actividades/malaga/alegria/guitarra-alegria-malaga.webp"
+  alt: "Live guitar and singing at Alegría Flamenco"
 ratingProveedor: 4.7
 numeroOpiniones: 6564
 publicada: true

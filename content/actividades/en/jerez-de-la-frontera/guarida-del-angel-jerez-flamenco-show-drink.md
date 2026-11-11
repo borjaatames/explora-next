@@ -74,23 +74,17 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-imagenAlt: 'Live musicians at a flamenco tablao in Jerez'
+imagen: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-escenario-guarida-del-angel.webp"
+imagenAlt: "Flamenco dancer on stage at La Guarida del Ángel"
 galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/monumento-lola-flores.webp
-  alt: 'Lola Flores monument in the San Miguel quarter of Jerez'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: 'Dancer''s hands holding castanets'
-- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
-  alt: 'Glass of amber wine on a wooden table'
-- src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
-  alt: 'Assorted tapas in clay dishes on a wooden table'
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-noche.webp
-  alt: 'Dome of Jerez Cathedral lit up at night'
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: 'Audience enjoying a flamenco show in Jerez'
-- src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
-  alt: 'Old town street in Jerez with large windows and a terrace'
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/sala-escenario-guarida-del-angel.webp"
+  alt: "The venue at La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/pareja-baile-guarida-del-angel.webp"
+  alt: "Flamenco dance couple at La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/guitarra-guarida-del-angel.webp"
+  alt: "Live guitar and singing at La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-guarida-del-angel.webp"
+  alt: "Flamenco dancer on stage at La Guarida del Ángel"
 ---
 
 ## What you will see

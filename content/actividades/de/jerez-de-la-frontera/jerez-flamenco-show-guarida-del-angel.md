@@ -67,23 +67,17 @@ keywords:
 - flamenco jerez san miguel
 - flamenco show jerez tickets
 - flamenco tablao jerez de la frontera
-imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-imagenAlt: 'Live-Musiker in einem Flamenco-Tablao in Jerez'
+imagen: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-escenario-guarida-del-angel.webp"
+imagenAlt: "Flamencotänzerin auf der Bühne von La Guarida del Ángel"
 galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/monumento-lola-flores.webp
-  alt: 'Denkmal für Lola Flores im Viertel San Miguel in Jerez'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: 'Hände einer Tänzerin mit Kastagnetten'
-- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
-  alt: 'Glas mit bernsteinfarbenem Wein auf einem Holztisch'
-- src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
-  alt: 'Verschiedene Tapas in Tonschalen auf einem Holztisch'
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-noche.webp
-  alt: 'Kuppel der Kathedrale von Jerez nachts beleuchtet'
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: 'Publikum genießt eine Flamenco-Show in Jerez'
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
-  alt: 'Kathedrale von Jerez und ihr Turm nachts beleuchtet'
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/sala-escenario-guarida-del-angel.webp"
+  alt: "Der Saal von La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/pareja-baile-guarida-del-angel.webp"
+  alt: "Flamenco-Tanzpaar in La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/guitarra-guarida-del-angel.webp"
+  alt: "Live-Gitarre und Gesang in La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-guarida-del-angel.webp"
+  alt: "Flamencotänzerin auf der Bühne von La Guarida del Ángel"
 ratingProveedor: 4.7
 numeroOpiniones: 138
 atraccionesRelacionadas:

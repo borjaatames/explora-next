@@ -74,23 +74,17 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-imagenAlt: 'Musiciens en direct dans un tablao flamenco de Jerez'
+imagen: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-escenario-guarida-del-angel.webp"
+imagenAlt: "Danseuse de flamenco sur la scène de La Guarida del Ángel"
 galeria:
-- src: /images/actividades/jerez-de-la-frontera/centro/monumento-lola-flores.webp
-  alt: 'Monument à Lola Flores dans le quartier de San Miguel à Jerez'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: 'Mains d''une danseuse tenant des castagnettes'
-- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-ambar-mesa.webp
-  alt: 'Verre de vin ambré sur une table en bois'
-- src: /images/actividades/jerez-de-la-frontera/tapas/tapas-variadas-cazuelas.webp
-  alt: 'Tapas variées dans des plats en terre cuite sur une table en bois'
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-cupula-noche.webp
-  alt: 'Coupole de la cathédrale de Jerez illuminée la nuit'
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-  alt: 'Public assistant à un spectacle de flamenco à Jerez'
-- src: /images/actividades/jerez-de-la-frontera/centro/calle-casco-antiguo.webp
-  alt: 'Rue de la vieille ville de Jerez avec de grandes fenêtres et une terrasse'
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/sala-escenario-guarida-del-angel.webp"
+  alt: "La salle de La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/pareja-baile-guarida-del-angel.webp"
+  alt: "Couple de danseurs de flamenco à La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/guitarra-guarida-del-angel.webp"
+  alt: "Guitare et chant en direct à La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-guarida-del-angel.webp"
+  alt: "Danseuse de flamenco sur la scène de La Guarida del Ángel"
 ---
 
 ## Ce que vous allez voir

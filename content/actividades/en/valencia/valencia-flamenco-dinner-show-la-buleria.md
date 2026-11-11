@@ -75,23 +75,17 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
-imagenAlt: "Flamenco dancers on stage during a flamenco show"
+imagen: "/images/actividades/valencia/la-buleria/cuadro-bailaora-la-buleria-valencia.webp"
+imagenAlt: "The full flamenco ensemble at La Bulería"
 galeria:
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: "Flamenco singer performing on stage"
-- src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-mesa.webp
-  alt: "Assorted tapas in clay dishes on a wooden table"
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: "Flamenco guitarist playing live"
-- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: "Male flamenco dancer mid-performance on stage"
-- src: /images/actividades/valencia/noche/plaza-ayuntamiento-noche.webp
-  alt: "Valencia City Hall square lit up at night"
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: "Flamenco guitarist playing on stage"
-- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: "Flamenco artists on stage during a live show"
+- src: "/images/actividades/valencia/la-buleria/escenario-la-buleria-valencia.webp"
+  alt: "The venue at La Bulería"
+- src: "/images/actividades/valencia/la-buleria/bailaora-guitarra-la-buleria-valencia.webp"
+  alt: "Flamenco dancer on stage at La Bulería"
+- src: "/images/actividades/valencia/la-buleria/comedor-la-buleria-valencia.webp"
+  alt: "Dinner and show at La Bulería"
+- src: "/images/actividades/valencia/la-buleria/sala-la-buleria-valencia.webp"
+  alt: "The venue at La Bulería"
 ---
 
 ## What you will see

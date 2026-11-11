@@ -73,23 +73,19 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-imagenAlt: 'Ballerina con scialle e chitarrista in uno spettacolo di flamenco'
+imagen: "/images/actividades/mallorca/tablao-alma/bailaora-escenario-tablao-alma-palma.webp"
+imagenAlt: "Ballerina di flamenco sul palco di Tablao Flamenco Alma"
 galeria:
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-noche.webp
-  alt: 'La Cattedrale di Palma illuminata di notte'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: 'Mani di una ballerina di flamenco con le nacchere'
-- src: /images/actividades/mallorca/fma-palma/paseo-maritimo-palma-atardecer.webp
-  alt: 'Il lungomare di Palma al tramonto'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/bailaora-giro-escenario.webp
-  alt: 'Giro di una ballerina di flamenco sul palco (immagine illustrativa)'
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
-  alt: 'La Cattedrale di Palma con il cielo rosa del tramonto'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/x-flamenco-wikimedia-02.webp
-  alt: 'Ballerina di flamenco in bianco e nero'
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp
-  alt: 'La Cattedrale di Palma sopra le mura sul mare'
+- src: "/images/actividades/mallorca/tablao-alma/bailaora-manton-tablao-alma-palma.webp"
+  alt: "Ballerina di flamenco sul palco di Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/bailaora-abanico-tablao-alma-palma.webp"
+  alt: "Ballerina di flamenco sul palco di Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/bailaor-tablao-alma-palma.webp"
+  alt: "Ballerino di flamenco sul palco di Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/cantaora-tablao-alma-palma.webp"
+  alt: "Chitarra e canto dal vivo a Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/tablao-alma/guitarra-tablao-alma-palma.webp"
+  alt: "Chitarra e canto dal vivo a Tablao Flamenco Alma"
 ---
 
 ## Cosa vedrai

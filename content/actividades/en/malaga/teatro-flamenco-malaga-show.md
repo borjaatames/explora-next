@@ -77,23 +77,13 @@ keywords:
 - flamenco malaga city centre
 - malaga flamenco show tickets
 - flamenco show malaga
-imagen: /images/actividades/malaga/fotos-biblioteca/flamenco-wikimedia-01.webp
-imagenAlt: 'Live flamenco show'
+imagen: "/images/actividades/malaga/teatro-flamenco-malaga/bailaora-escenario-teatro-flamenco-malaga.webp"
+imagenAlt: "Flamenco dancer on stage at Teatro Flamenco Málaga"
 galeria:
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: 'Flamenco guitarist on stage'
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: 'Flamenco hand-clapping'
-- src: /images/actividades/malaga/museo-picasso/fachada-museo.webp
-  alt: 'Museo Picasso Málaga, 5 minutes from the theatre'
-- src: /images/actividades/malaga/flamenco/pena-juan-breva-calle.webp
-  alt: 'Street in central Málaga with the Peña Juan Breva'
-- src: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
-  alt: 'Málaga Cathedral'
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: 'Flamenco guitarist playing on stage'
-- src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: 'Flamenco guitarist in a hat playing live'
+- src: "/images/actividades/malaga/teatro-flamenco-malaga/bailaora-castanuelas-teatro-flamenco-malaga.webp"
+  alt: "Flamenco dancer on stage at Teatro Flamenco Málaga"
+- src: "/images/actividades/malaga/teatro-flamenco-malaga/cuadro-escenario-teatro-flamenco-malaga.webp"
+  alt: "The full flamenco ensemble at Teatro Flamenco Málaga"
 ratingProveedor: 4.7
 numeroOpiniones: 5347
 publicada: true

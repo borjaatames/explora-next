@@ -74,23 +74,17 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-imagenAlt: 'Public assistant à un spectacle de flamenco à Jerez'
+imagen: "/images/actividades/jerez-de-la-frontera/puro-arte/cuadro-escenario-puro-arte-jerez.webp"
+imagenAlt: "La troupe de flamenco au complet à Puro Arte"
 galeria:
-- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: 'Mains d''une danseuse tenant des castagnettes'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
-  alt: 'Danseuse en jupe à volants dansant sous une lumière tamisée'
-- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-generoso.webp
-  alt: 'Verre de vin liquoreux sur une planche en bois'
-- src: /images/actividades/jerez-de-la-frontera/tapas/tabla-tapas-cazuelas.webp
-  alt: 'Assortiment de tapas et de petits plats en terre cuite'
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
-  alt: 'Cathédrale de Jerez et sa tour illuminées la nuit'
-- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-  alt: 'Danseuse de flamenco et musicien dans un tablao'
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-  alt: 'Musiciens en direct dans un tablao flamenco de Jerez'
+- src: "/images/actividades/jerez-de-la-frontera/puro-arte/cante-guitarra-puro-arte-jerez.webp"
+  alt: "Guitare et chant en direct à Puro Arte"
+- src: "/images/actividades/jerez-de-la-frontera/puro-arte/bailaora-sala-puro-arte-jerez.webp"
+  alt: "Danseuse de flamenco sur la scène de Puro Arte"
+- src: "/images/actividades/jerez-de-la-frontera/puro-arte/bailaora-manton-puro-arte-jerez.webp"
+  alt: "Danseuse de flamenco sur la scène de Puro Arte"
+- src: "/images/actividades/jerez-de-la-frontera/puro-arte/patio-puro-arte-jerez.webp"
+  alt: "Entrée de Puro Arte"
 ---
 
 ## Ce que vous allez voir

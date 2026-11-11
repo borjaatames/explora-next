@@ -67,23 +67,17 @@ keywords:
 - la buleria valencia
 - dinner show valencia
 - flamenco tablao valencia
-imagen: /images/actividades/alicante/flamenco/flamenco-cuadro.webp
-imagenAlt: Flamenco-Tänzerinnen auf der Bühne während einer Show
+imagen: "/images/actividades/valencia/la-buleria/cuadro-bailaora-la-buleria-valencia.webp"
+imagenAlt: "Das komplette Flamenco-Ensemble in La Bulería"
 galeria:
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: Flamenco-Sängerin auf einer Bühne
-- src: /images/actividades/valencia/tapas/fvc-tapas-cazuelas-mesa.webp
-  alt: Verschiedene Tapas in Tonschalen auf einem Holztisch
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: Flamenco-Gitarrist spielt live
-- src: /images/actividades/alicante/flamenco/flamenco-baile.webp
-  alt: Flamenco-Tänzer mitten im Tanz auf der Bühne
-- src: /images/actividades/valencia/noche/plaza-ayuntamiento-noche.webp
-  alt: Die Plaza del Ayuntamiento in Valencia nachts beleuchtet
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: Flamenco-Gitarrist spielt auf der Bühne
-- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: Flamenco-Künstler auf der Bühne während einer Live-Show
+- src: "/images/actividades/valencia/la-buleria/escenario-la-buleria-valencia.webp"
+  alt: "Der Saal von La Bulería"
+- src: "/images/actividades/valencia/la-buleria/bailaora-guitarra-la-buleria-valencia.webp"
+  alt: "Flamencotänzerin auf der Bühne von La Bulería"
+- src: "/images/actividades/valencia/la-buleria/comedor-la-buleria-valencia.webp"
+  alt: "Abendessen und Show in La Bulería"
+- src: "/images/actividades/valencia/la-buleria/sala-la-buleria-valencia.webp"
+  alt: "Der Saal von La Bulería"
 ratingProveedor: 4.8
 numeroOpiniones: 1564
 atraccionesRelacionadas: []

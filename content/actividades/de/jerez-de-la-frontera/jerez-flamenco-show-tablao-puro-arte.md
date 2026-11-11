@@ -66,23 +66,17 @@ keywords:
 - puro arte jerez flamenco
 - flamenco jerez mit abendessen
 - flamenco jerez de la frontera tickets
-imagen: /images/actividades/jerez-de-la-frontera/centro/flamenco-publico-hero.webp
-imagenAlt: 'Publikum genießt eine Flamenco-Show in Jerez'
+imagen: "/images/actividades/jerez-de-la-frontera/puro-arte/cuadro-escenario-puro-arte-jerez.webp"
+imagenAlt: "Das komplette Flamenco-Ensemble in Puro Arte"
 galeria:
-- src: /images/actividades/jerez-de-la-frontera/flamenco/castanuelas-manos.webp
-  alt: 'Hände einer Tänzerin mit Kastagnetten'
-- src: /images/actividades/jerez-de-la-frontera/flamenco/baile-luz-tenue.webp
-  alt: 'Tänzerin im Volantrock tanzt bei gedämpftem Licht'
-- src: /images/actividades/jerez-de-la-frontera/bodegas/copa-vino-generoso.webp
-  alt: 'Glas Sherry auf einem Holzbrett'
-- src: /images/actividades/jerez-de-la-frontera/tapas/tabla-tapas-cazuelas.webp
-  alt: 'Auswahl an Tapas und kleinen Tonschalen'
-- src: /images/actividades/jerez-de-la-frontera/centro/catedral-torre-noche.webp
-  alt: 'Kathedrale von Jerez und ihr Turm nachts beleuchtet'
-- src: /images/actividades/alicante/flamenco/x-flamenco-pixabay-594272.webp
-  alt: 'Flamencotänzerin mit Musiker in einem Tablao'
-- src: /images/actividades/jerez-de-la-frontera/centro/flamenco-tablao-hero.webp
-  alt: 'Live-Musiker in einem Flamenco-Tablao in Jerez'
+- src: "/images/actividades/jerez-de-la-frontera/puro-arte/cante-guitarra-puro-arte-jerez.webp"
+  alt: "Live-Gitarre und Gesang in Puro Arte"
+- src: "/images/actividades/jerez-de-la-frontera/puro-arte/bailaora-sala-puro-arte-jerez.webp"
+  alt: "Flamencotänzerin auf der Bühne von Puro Arte"
+- src: "/images/actividades/jerez-de-la-frontera/puro-arte/bailaora-manton-puro-arte-jerez.webp"
+  alt: "Flamencotänzerin auf der Bühne von Puro Arte"
+- src: "/images/actividades/jerez-de-la-frontera/puro-arte/patio-puro-arte-jerez.webp"
+  alt: "Eingang von Puro Arte"
 ratingProveedor: 4.6
 numeroOpiniones: 348
 atraccionesRelacionadas:

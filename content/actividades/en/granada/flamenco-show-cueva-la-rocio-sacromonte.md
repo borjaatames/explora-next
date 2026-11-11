@@ -72,25 +72,13 @@ keywords:
 - flamenco sacromonte
 - cueva la rocio granada
 - flamenco cave granada
-imagen: /images/actividades/alicante/flamenco/tablao.webp
-imagenAlt: 'Flamenco dancing with guitarists in a cave'
+imagen: "/images/actividades/granada/cueva-la-rocio/zambra-bailaor-cueva-la-rocio.webp"
+imagenAlt: "Male flamenco dancer on stage at Cueva de la Rocío"
 galeria:
-- src: https://imgcdn.bokun.tools/99395bf7-e0d1-4f47-8841-b4799e9d3e20.jpg
-  alt: 'Flamenco dancer in a red dress at Cueva La Rocío'
-- src: https://imgcdn.bokun.tools/7e5dc17d-4e14-4a03-8852-5a2fb58513de.jpg
-  alt: 'Dancer in a white skirt in front of the audience in the cave'
-- src: https://imgcdn.bokun.tools/406d75d9-cac9-4560-8ae7-e53b8934c3a1.jpg
-  alt: 'Whitewashed cave interior with green rush chairs'
-- src: https://imgcdn.bokun.tools/958eccc9-d017-41ae-b6ff-899b798b860f.jpeg
-  alt: 'Dancer in a blue dress during the show'
-- src: https://imgcdn.bokun.tools/e4406295-6f7b-4a66-926c-3b4e01efc78a.jpeg
-  alt: 'Singing and handclaps in the cave'
-- src: https://imgcdn.bokun.tools/a1826eb6-d638-40cc-ae46-08f208672b03.jpeg
-  alt: 'Dancer with her arms raised'
-- src: https://imgcdn.bokun.tools/1f55788f-9c7a-43c1-ac25-b9373015b7b1.jpg
-  alt: 'Cave front on Camino del Sacromonte'
-- src: /images/actividades/granada/sacromonte/sacromonte-granada-aa-cave-house-hills-2016-hero.webp
-  alt: 'Cave houses on the Sacromonte hillside'
+- src: "/images/actividades/granada/cueva-la-rocio/bailaora-abanico-cueva-la-rocio.webp"
+  alt: "Flamenco dancer on stage at Cueva de la Rocío"
+- src: "/images/actividades/granada/cueva-la-rocio/bailaora-guitarra-cueva-la-rocio.webp"
+  alt: "Flamenco dancer on stage at Cueva de la Rocío"
 publicada: true
 destacada: false
 fecha: '2026-10-10'

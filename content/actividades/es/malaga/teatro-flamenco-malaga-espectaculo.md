@@ -77,23 +77,13 @@ keywords:
 - flamenco malaga centro
 - espectaculo flamenco malaga entradas
 - show flamenco malaga
-imagen: /images/actividades/malaga/fotos-biblioteca/flamenco-wikimedia-01.webp
-imagenAlt: 'Espectáculo de flamenco en directo'
+imagen: "/images/actividades/malaga/teatro-flamenco-malaga/bailaora-escenario-teatro-flamenco-malaga.webp"
+imagenAlt: "Bailaora en el escenario de Teatro Flamenco Málaga"
 galeria:
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: 'Guitarrista flamenco en el escenario'
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: 'Palmas flamencas'
-- src: /images/actividades/malaga/museo-picasso/fachada-museo.webp
-  alt: 'Museo Picasso Málaga, a 5 minutos del teatro'
-- src: /images/actividades/malaga/flamenco/pena-juan-breva-calle.webp
-  alt: 'Calle del centro de Málaga con la Peña Juan Breva'
-- src: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
-  alt: 'Catedral de Málaga'
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: 'Guitarrista flamenco tocando sobre el escenario'
-- src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: 'Guitarrista flamenco con sombrero tocando en directo'
+- src: "/images/actividades/malaga/teatro-flamenco-malaga/bailaora-castanuelas-teatro-flamenco-malaga.webp"
+  alt: "Bailaora en el escenario de Teatro Flamenco Málaga"
+- src: "/images/actividades/malaga/teatro-flamenco-malaga/cuadro-escenario-teatro-flamenco-malaga.webp"
+  alt: "Cuadro flamenco al completo en Teatro Flamenco Málaga"
 ratingProveedor: 4.7
 numeroOpiniones: 5347
 publicada: true
