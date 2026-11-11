@@ -51,27 +51,31 @@ keywords:
 - sesion de fotos tenerife
 - fotografo costa adeje
 - fotos atardecer tenerife
-imagen: https://imgcdn.bokun.tools/8e20bbde-e1f9-4340-8ed3-5ee8be2176f1.jpg
-imagenAlt: Viajera con tabla de surf posando en una playa de Tenerife
+imagen: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-costa-acantilados.webp"
+imagenAlt: "Pareja durante una sesión de fotos en la costa de Tenerife, con los acantilados al fondo"
 galeria:
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-rocas-volcanicas.webp"
+  alt: "Pareja sentada en las rocas volcánicas junto al mar"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-familia-playa.webp"
+  alt: "Familia paseando por la orilla de una playa de Tenerife"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-orilla.webp"
+  alt: "Pareja abrazada en la orilla del mar"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-palmeras.webp"
+  alt: "Pareja besándose entre palmeras"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-playa-arena-negra.webp"
+  alt: "Pareja paseando por una playa de arena negra"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-madre-hija-mirador.webp"
+  alt: "Madre e hija en un mirador frente al océano"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-atardecer.webp"
+  alt: "Pareja besándose en la orilla al atardecer"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-jardin.webp"
+  alt: "Pareja en un jardín con palmeras junto al paseo"
 - src: https://imgcdn.bokun.tools/b5711be1-5912-48a6-844e-c6dc47096f8d.jpg
   alt: Viajera caminando por la arena mojada con el reflejo del cielo en la orilla
 - src: https://imgcdn.bokun.tools/8e9274a8-56d1-4fe8-8f87-414839393bf3.jpg
   alt: Viajera sentada sobre una playa de arena dorada con el mar azul
 - src: https://imgcdn.bokun.tools/3112cb1d-5e51-49dc-ab50-61d0d5b8c316.jpg
   alt: Viajera con chaqueta roja sobre rocas volcánicas junto al mar
-- src: https://imgcdn.bokun.tools/2b944bc0-9a82-4053-8e31-74de95191264.jpg
-  alt: Viajera con una tabla de surf rosa entre las olas
-- src: https://imgcdn.bokun.tools/33d69415-9938-44d2-894d-3adf4db14c59.jpg
-  alt: Pareja junto a un faro rojo y blanco a contraluz
-- src: https://imgcdn.bokun.tools/e7d0286a-889b-462c-b63e-a03e8664fb0a.jpg
-  alt: Viajera con gafas de sol junto al mar
-- src: https://imgcdn.bokun.tools/0b860288-b0dd-4304-93cf-889bef3b1947.jpg
-  alt: Viajera en un cabo rocoso frente al océano
-- src: https://imgcdn.bokun.tools/1c27b241-3069-4685-b5ea-aba862a42b88.jpg
-  alt: Pareja en un acantilado mirando la costa
-- src: https://imgcdn.bokun.tools/bc1e75ed-d0fd-486b-9c3b-25f6afaf1058.jpg
-  alt: Viajera con los brazos en alto en la proa de un barco frente a acantilados
 publicada: true
 indexar: false
 destacada: false

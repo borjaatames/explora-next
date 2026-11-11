@@ -51,27 +51,31 @@ keywords:
 - tenerife photo shoot
 - costa adeje photographer
 - tenerife sunset photos
-imagen: https://imgcdn.bokun.tools/8e20bbde-e1f9-4340-8ed3-5ee8be2176f1.jpg
-imagenAlt: Traveller with a surfboard posing on a Tenerife beach
+imagen: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-costa-acantilados.webp"
+imagenAlt: "Couple during a photo shoot on the Tenerife coast, with cliffs behind"
 galeria:
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-rocas-volcanicas.webp"
+  alt: "Couple sitting on volcanic rocks by the sea"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-familia-playa.webp"
+  alt: "Family walking along a beach in Tenerife"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-orilla.webp"
+  alt: "Couple embracing by the sea"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-palmeras.webp"
+  alt: "Couple kissing among palm trees"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-playa-arena-negra.webp"
+  alt: "Couple walking on a black sand beach"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-madre-hija-mirador.webp"
+  alt: "Mother and daughter at a viewpoint over the ocean"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-atardecer.webp"
+  alt: "Couple kissing at the water’s edge at sunset"
+- src: "/images/actividades/tenerife/snappel/snappel-tenerife-pareja-jardin.webp"
+  alt: "Couple in a palm garden by the promenade"
 - src: https://imgcdn.bokun.tools/b5711be1-5912-48a6-844e-c6dc47096f8d.jpg
   alt: Traveller walking on wet sand with the sky reflected at the shoreline
 - src: https://imgcdn.bokun.tools/8e9274a8-56d1-4fe8-8f87-414839393bf3.jpg
   alt: Traveller sitting above a golden-sand beach and blue sea
 - src: https://imgcdn.bokun.tools/3112cb1d-5e51-49dc-ab50-61d0d5b8c316.jpg
   alt: Traveller in a red jacket on volcanic rocks by the sea
-- src: https://imgcdn.bokun.tools/2b944bc0-9a82-4053-8e31-74de95191264.jpg
-  alt: Traveller carrying a pink surfboard through the waves
-- src: https://imgcdn.bokun.tools/33d69415-9938-44d2-894d-3adf4db14c59.jpg
-  alt: Couple next to a red-and-white lighthouse against the light
-- src: https://imgcdn.bokun.tools/e7d0286a-889b-462c-b63e-a03e8664fb0a.jpg
-  alt: Traveller in sunglasses by the sea
-- src: https://imgcdn.bokun.tools/0b860288-b0dd-4304-93cf-889bef3b1947.jpg
-  alt: Traveller on a rocky headland facing the ocean
-- src: https://imgcdn.bokun.tools/1c27b241-3069-4685-b5ea-aba862a42b88.jpg
-  alt: Couple on a cliff looking out over the coast
-- src: https://imgcdn.bokun.tools/bc1e75ed-d0fd-486b-9c3b-25f6afaf1058.jpg
-  alt: Traveller with arms raised on the bow of a boat facing cliffs
 publicada: true
 indexar: false
 destacada: false
