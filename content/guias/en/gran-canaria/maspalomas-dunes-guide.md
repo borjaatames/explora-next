@@ -42,6 +42,8 @@ imagen_portada: "/images/guias/dunas-de-maspalomas.jpg"
 imagen_alt: "The Maspalomas dunes in the late afternoon"
 ---
 
+**Short on time? The 3 most-booked options:** [Camel ride through the dunes](/en/cities/gran-canaria/activities/maspalomas-dunes-camel-ride) (from €18) · [Off-road buggy tour](/en/cities/gran-canaria/activities/gran-canaria-off-road-buggy-tour) (from €65) · [Palmitos Park ticket](/en/cities/gran-canaria/activities/palmitos-park-gran-canaria-ticket) (from €39)
+
 **The Maspalomas Dunes are the image of Gran Canaria**: more than 400 hectares of wind-shifted sand between Playa del Inglés and the Maspalomas lighthouse. They're a **Special Nature Reserve** and, although they look like an open desert, they have clear rules. This guide explains how to enjoy them without fines or heatstroke.
 
 ## Book the essentials

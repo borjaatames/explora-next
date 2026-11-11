@@ -44,6 +44,8 @@ imagen_portada: "/images/guias/roque-nublo-como-subir.jpg"
 imagen_alt: "Roque Nublo on the summit of Gran Canaria"
 ---
 
+**Short on time? The 3 most-booked options:** [Off-road buggy tour](/en/cities/gran-canaria/activities/gran-canaria-off-road-buggy-tour) (from €65) · [Southern jeep safari](/en/cities/gran-canaria/activities/southern-gran-canaria-jeep-safari) (from €69) · [Roque Nublo and Pico de las Nieves from Las Palmas](/en/cities/gran-canaria/activities/roque-nublo-pico-de-las-nieves-tour-from-las-palmas) (from €48)
+
 **Roque Nublo is the symbol of Gran Canaria**: a basalt monolith of around 80 metres whose top stands at 1,813 metres. Walking up to its base is one of the prettiest and easiest hikes in the Canaries, and on clear days it rewards you with Tenerife's Teide floating above the sea of clouds. Since 2025 the visit works differently: **you need a booking during the day and you can no longer park at the trailhead.**
 
 ## Book the essentials

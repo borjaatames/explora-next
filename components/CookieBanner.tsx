@@ -14,7 +14,7 @@ const DICT = {
   es: {
     titulo: "Usamos cookies para entender cómo se usa el sitio",
     texto:
-      "Analítica con Google Analytics 4. No vendemos tus datos. Más información en",
+      "Analítica con Google Analytics 4 y Microsoft Clarity. No vendemos tus datos. Más información en",
     politicaCookies: "Política de cookies",
     politicaPrivacidad: "Privacidad",
     y: "y",
@@ -24,7 +24,7 @@ const DICT = {
   en: {
     titulo: "We use cookies to understand how the site is used",
     texto:
-      "Analytics with Google Analytics 4. We don't sell your data. More information in",
+      "Analytics with Google Analytics 4 and Microsoft Clarity. We don't sell your data. More information in",
     politicaCookies: "Cookie policy",
     politicaPrivacidad: "Privacy",
     y: "and",
@@ -34,7 +34,7 @@ const DICT = {
   de: {
     titulo: "Wir verwenden Cookies, um zu verstehen, wie die Website genutzt wird",
     texto:
-      "Analyse mit Google Analytics 4. Wir verkaufen deine Daten nicht. Weitere Informationen in der",
+      "Analyse mit Google Analytics 4 und Microsoft Clarity. Wir verkaufen deine Daten nicht. Weitere Informationen in der",
     politicaCookies: "Cookie-Richtlinie",
     politicaPrivacidad: "Datenschutz",
     y: "und",
@@ -44,7 +44,7 @@ const DICT = {
   fr: {
     titulo: "Nous utilisons des cookies pour comprendre comment le site est utilisé",
     texto:
-      "Mesure d’audience avec Google Analytics 4. Nous ne vendons pas vos données. Plus d’informations dans notre",
+      "Mesure d’audience avec Google Analytics 4 et Microsoft Clarity. Nous ne vendons pas vos données. Plus d’informations dans notre",
     politicaCookies: "Politique de cookies",
     politicaPrivacidad: "Confidentialité",
     y: "et",
@@ -54,7 +54,7 @@ const DICT = {
   it: {
     titulo: "Usiamo i cookie per capire come viene utilizzato il sito",
     texto:
-      "Analisi con Google Analytics 4. Non vendiamo i tuoi dati. Maggiori informazioni in",
+      "Analisi con Google Analytics 4 e Microsoft Clarity. Non vendiamo i tuoi dati. Maggiori informazioni in",
     politicaCookies: "Cookie policy",
     politicaPrivacidad: "Privacy",
     y: "e",
@@ -64,7 +64,7 @@ const DICT = {
   pt: {
     titulo: "Usamos cookies para perceber como o site é utilizado",
     texto:
-      "Análise com o Google Analytics 4. Não vendemos os seus dados. Mais informações em",
+      "Análise com o Google Analytics 4 e o Microsoft Clarity. Não vendemos os seus dados. Mais informações em",
     politicaCookies: "Política de cookies",
     politicaPrivacidad: "Privacidade",
     y: "e",

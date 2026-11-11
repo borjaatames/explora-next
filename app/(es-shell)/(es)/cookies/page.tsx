@@ -23,7 +23,7 @@ export default function CookiesPage() {
             Política de Cookies
           </h1>
           <p className="text-anil-50">
-            Última actualización: 24 de abril de 2026
+            Última actualización: 11 de noviembre de 2026
           </p>
         </div>
       </section>
@@ -111,7 +111,7 @@ export default function CookiesPage() {
                   </td>
                   <td className="p-3">Sesión</td>
                 </tr>
-                <tr>
+                <tr className="border-b border-piedra-100">
                   <td className="p-3 font-mono text-xs">
                     exploraspain_cookie_consent
                   </td>
@@ -119,17 +119,41 @@ export default function CookiesPage() {
                   <td className="p-3">
                     Recordar tu decisión sobre el uso de cookies en este sitio.
                   </td>
-                  <td className="p-3">12 meses</td>
+                  <td className="p-3">6 meses</td>
+                </tr>
+                <tr className="border-b border-piedra-100">
+                  <td className="p-3 font-mono text-xs">_ga, _ga_*</td>
+                  <td className="p-3">Analítica</td>
+                  <td className="p-3">
+                    Google Analytics 4: cuenta las visitas y los clics en las
+                    reservas para saber cómo se usa el sitio. Solo con tu
+                    consentimiento.
+                  </td>
+                  <td className="p-3">2 años</td>
+                </tr>
+                <tr>
+                  <td className="p-3 font-mono text-xs">_clck, _clsk, CLID, MUID</td>
+                  <td className="p-3">Analítica</td>
+                  <td className="p-3">
+                    Microsoft Clarity: mapas de calor y grabaciones anónimas de
+                    cómo se usan las páginas (clics, desplazamiento). Solo con
+                    tu consentimiento.
+                  </td>
+                  <td className="p-3">1 año (_clsk: 1 día)</td>
                 </tr>
               </tbody>
             </table>
           </div>
 
           <p className="text-sm text-piedra-600 italic">
-            Esta tabla se actualizará cuando se incorporen herramientas
-            adicionales de analítica o medición. Cuando se active Google
-            Analytics 4, se añadirán las cookies correspondientes (_ga, _ga_*)
-            y se solicitará el consentimiento previo antes de su activación.
+            Las cookies de analítica solo se instalan si las aceptas en el
+            banner. Si las rechazas, Google Analytics funciona sin cookies
+            (Consent Mode v2) y Microsoft Clarity no se carga. Más
+            información:{" "}
+            <a href="https://privacy.microsoft.com/privacystatement" target="_blank" rel="noopener noreferrer">
+              declaración de privacidad de Microsoft
+            </a>
+            .
           </p>
 
           <h2>4. Cookies de terceros en enlaces salientes</h2>

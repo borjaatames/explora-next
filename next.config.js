@@ -230,6 +230,14 @@ const nextConfig = {
   async redirects() {
     const redirects = [];
 
+    // Enlace externo roto con un ")" final (11 nov 2026). El paréntesis va escapado
+    // porque path-to-regexp lo interpreta como grupo.
+    redirects.push({
+      source: "/en/guides/tarragona/roman-tarraco-guide\\)",
+      destination: "/en/guides/tarragona/roman-tarraco-guide",
+      permanent: true,
+    });
+
     // ── 1. Redirects 301 de las URLs viejas de categoría (cultural, gastronomico,
     //    aireLibre, nocturno, excursion, familiar) a las nuevas (mayo 2026).
     //    Aplica a ES (/ciudades/{ciudad}/actividades/c/{cat}) y a las EN

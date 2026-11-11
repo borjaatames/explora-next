@@ -42,6 +42,11 @@ interface TextosTablaCookies {
   vercelDuracion: string;
   consentimientoFinalidad: string;
   consentimientoDuracion: string;
+  tipoAnalitica: string;
+  gaFinalidad: string;
+  gaDuracion: string;
+  clarityFinalidad: string;
+  clarityDuracion: string;
 }
 
 interface EnlacesNavegador {
@@ -80,13 +85,25 @@ function TablaCookies({ t }: { t: TextosTablaCookies }) {
             <td className="p-3">{t.vercelFinalidad}</td>
             <td className="p-3">{t.vercelDuracion}</td>
           </tr>
-          <tr>
+          <tr className="border-b border-piedra-100">
             <td className="p-3 font-mono text-xs">
               exploraspain_cookie_consent
             </td>
             <td className="p-3">{t.tipoTecnica}</td>
             <td className="p-3">{t.consentimientoFinalidad}</td>
             <td className="p-3">{t.consentimientoDuracion}</td>
+          </tr>
+          <tr className="border-b border-piedra-100">
+            <td className="p-3 font-mono text-xs">_ga, _ga_*</td>
+            <td className="p-3">{t.tipoAnalitica}</td>
+            <td className="p-3">{t.gaFinalidad}</td>
+            <td className="p-3">{t.gaDuracion}</td>
+          </tr>
+          <tr className="border-b border-piedra-100">
+            <td className="p-3 font-mono text-xs">_clck, _clsk, CLID, MUID</td>
+            <td className="p-3">{t.tipoAnalitica}</td>
+            <td className="p-3">{t.clarityFinalidad}</td>
+            <td className="p-3">{t.clarityDuracion}</td>
           </tr>
         </tbody>
       </table>
@@ -193,15 +210,23 @@ function CuerpoEn({ lang }: CuerpoProps) {
           vercelDuracion: "Session",
           consentimientoFinalidad:
             "Remembers your choice regarding cookie use on this site.",
-          consentimientoDuracion: "12 months",
+          consentimientoDuracion: "6 months",
+          tipoAnalitica: "Analytics",
+          gaFinalidad:
+            "Google Analytics 4: counts visits and bookings clicks to understand how the site is used. Only with your consent.",
+          gaDuracion: "2 years",
+          clarityFinalidad:
+            "Microsoft Clarity: heatmaps and anonymised recordings of how pages are used (clicks, scrolling). Only with your consent.",
+          clarityDuracion: "1 year (_clsk: 1 day)",
         }}
       />
 
       <p className="text-sm text-piedra-600 italic">
-        This table will be updated when additional analytics or measurement
-        tools are added. When Google Analytics 4 is activated, the
-        corresponding cookies (_ga, _ga_*) will be added and prior consent will
-        be requested before activation.
+        Analytics cookies are only set if you accept them in the banner. If you reject them, Google Analytics works without cookies (Consent Mode v2) and Microsoft Clarity is not loaded. More information: 
+        <a href="https://privacy.microsoft.com/privacystatement" target="_blank" rel="noopener noreferrer">
+          Microsoft privacy statement
+        </a>
+        .
       </p>
 
       <h2>4. Third-party cookies on outbound links</h2>
@@ -326,15 +351,23 @@ function CuerpoDe({ lang }: CuerpoProps) {
           vercelDuracion: "Sitzung",
           consentimientoFinalidad:
             "Speichert deine Entscheidung zur Cookie-Nutzung auf dieser Website.",
-          consentimientoDuracion: "12 Monate",
+          consentimientoDuracion: "6 Monate",
+          tipoAnalitica: "Analyse",
+          gaFinalidad:
+            "Google Analytics 4: zählt Besuche und Klicks auf Buchungen, um zu verstehen, wie die Website genutzt wird. Nur mit deiner Einwilligung.",
+          gaDuracion: "2 Jahre",
+          clarityFinalidad:
+            "Microsoft Clarity: Heatmaps und anonymisierte Aufzeichnungen der Seitennutzung (Klicks, Scrollen). Nur mit deiner Einwilligung.",
+          clarityDuracion: "1 Jahr (_clsk: 1 Tag)",
         }}
       />
 
       <p className="text-sm text-piedra-600 italic">
-        Diese Tabelle wird aktualisiert, sobald weitere Analyse- oder Messtools
-        hinzugefügt werden. Sobald Google Analytics 4 aktiviert wird, werden die
-        entsprechenden Cookies (_ga, _ga_*) hinzugefügt und vor der Aktivierung
-        wird eine vorherige Einwilligung eingeholt.
+        Analyse-Cookies werden nur gesetzt, wenn du sie im Banner akzeptierst. Lehnst du sie ab, arbeitet Google Analytics ohne Cookies (Consent Mode v2) und Microsoft Clarity wird nicht geladen. Mehr Informationen: 
+        <a href="https://privacy.microsoft.com/privacystatement" target="_blank" rel="noopener noreferrer">
+          Datenschutzerklärung von Microsoft
+        </a>
+        .
       </p>
 
       <h2>4. Cookies Dritter bei ausgehenden Links</h2>
@@ -463,15 +496,23 @@ function CuerpoFr({ lang }: CuerpoProps) {
           vercelDuracion: "Session",
           consentimientoFinalidad:
             "Mémorise votre choix concernant l’utilisation des cookies sur ce site.",
-          consentimientoDuracion: "12 mois",
+          consentimientoDuracion: "6 mois",
+          tipoAnalitica: "Analyse",
+          gaFinalidad:
+            "Google Analytics 4 : compte les visites et les clics sur les réservations pour comprendre l’utilisation du site. Uniquement avec votre consentement.",
+          gaDuracion: "2 ans",
+          clarityFinalidad:
+            "Microsoft Clarity : cartes de chaleur et enregistrements anonymisés de l’utilisation des pages (clics, défilement). Uniquement avec votre consentement.",
+          clarityDuracion: "1 an (_clsk : 1 jour)",
         }}
       />
 
       <p className="text-sm text-piedra-600 italic">
-        Ce tableau sera mis à jour lorsque d’autres outils d’analyse ou de
-        mesure seront ajoutés. Lorsque Google Analytics 4 sera activé, les
-        cookies correspondants (_ga, _ga_*) seront ajoutés et un consentement
-        préalable sera demandé avant leur activation.
+        Les cookies d’analyse ne sont déposés que si vous les acceptez dans le bandeau. Si vous les refusez, Google Analytics fonctionne sans cookies (Consent Mode v2) et Microsoft Clarity n’est pas chargé. Plus d’informations : 
+        <a href="https://privacy.microsoft.com/privacystatement" target="_blank" rel="noopener noreferrer">
+          déclaration de confidentialité de Microsoft
+        </a>
+        .
       </p>
 
       <h2>4. Cookies tiers des liens sortants</h2>
@@ -601,15 +642,23 @@ function CuerpoIt({ lang }: CuerpoProps) {
           vercelDuracion: "Sessione",
           consentimientoFinalidad:
             "Ricorda la tua scelta sull’uso dei cookie su questo sito.",
-          consentimientoDuracion: "12 mesi",
+          consentimientoDuracion: "6 mesi",
+          tipoAnalitica: "Analisi",
+          gaFinalidad:
+            "Google Analytics 4: conta le visite e i clic sulle prenotazioni per capire come si usa il sito. Solo con il tuo consenso.",
+          gaDuracion: "2 anni",
+          clarityFinalidad:
+            "Microsoft Clarity: mappe di calore e registrazioni anonimizzate dell’uso delle pagine (clic, scorrimento). Solo con il tuo consenso.",
+          clarityDuracion: "1 anno (_clsk: 1 giorno)",
         }}
       />
 
       <p className="text-sm text-piedra-600 italic">
-        Questa tabella verrà aggiornata quando saranno aggiunti altri strumenti
-        di analisi o misurazione. Quando verrà attivato Google Analytics 4,
-        saranno aggiunti i relativi cookie (_ga, _ga_*) e verrà richiesto il
-        consenso preventivo prima dell’attivazione.
+        I cookie di analisi vengono installati solo se li accetti nel banner. Se li rifiuti, Google Analytics funziona senza cookie (Consent Mode v2) e Microsoft Clarity non viene caricato. Maggiori informazioni: 
+        <a href="https://privacy.microsoft.com/privacystatement" target="_blank" rel="noopener noreferrer">
+          informativa sulla privacy di Microsoft
+        </a>
+        .
       </p>
 
       <h2>4. Cookie di terze parti nei link in uscita</h2>
@@ -735,15 +784,23 @@ function CuerpoPt({ lang }: CuerpoProps) {
           vercelDuracion: "Sessão",
           consentimientoFinalidad:
             "Guarda a escolha do utilizador sobre a utilização de cookies neste website.",
-          consentimientoDuracion: "12 meses",
+          consentimientoDuracion: "6 meses",
+          tipoAnalitica: "Análise",
+          gaFinalidad:
+            "Google Analytics 4: conta as visitas e os cliques nas reservas para perceber como o site é usado. Só com o teu consentimento.",
+          gaDuracion: "2 anos",
+          clarityFinalidad:
+            "Microsoft Clarity: mapas de calor e gravações anonimizadas do uso das páginas (cliques, scroll). Só com o teu consentimento.",
+          clarityDuracion: "1 ano (_clsk: 1 dia)",
         }}
       />
 
       <p className="text-sm text-piedra-600 italic">
-        Esta tabela será atualizada quando forem acrescentadas outras
-        ferramentas de análise ou medição. Quando o Google Analytics 4 for
-        ativado, serão acrescentados os cookies correspondentes (_ga, _ga_*) e
-        será pedido o consentimento prévio antes da ativação.
+        Os cookies de análise só são instalados se os aceitares no banner. Se os recusares, o Google Analytics funciona sem cookies (Consent Mode v2) e o Microsoft Clarity não é carregado. Mais informações: 
+        <a href="https://privacy.microsoft.com/privacystatement" target="_blank" rel="noopener noreferrer">
+          declaração de privacidade da Microsoft
+        </a>
+        .
       </p>
 
       <h2>4. Cookies de terceiros em links externos</h2>
@@ -822,7 +879,7 @@ const CONTENIDO: Record<IdiomaLegal, ContenidoCookies> = {
     ogDescripcion: "Cookies used on ExploraSpain and how to manage them.",
     inicio: "Home",
     actualizado: "Last updated",
-    fecha: "April 24, 2026",
+    fecha: "November 11, 2026",
     avisoTitulo: "Language version disclaimer",
     avisoTexto:
       "This English version is provided solely for the convenience of non-Spanish-speaking users. The original Spanish version of this document is the legally binding one. In case of any discrepancy or conflict between the two versions, the Spanish version shall prevail. The original Spanish version is available at",
@@ -837,7 +894,7 @@ const CONTENIDO: Record<IdiomaLegal, ContenidoCookies> = {
       "Auf ExploraSpain verwendete Cookies und wie du sie verwaltest.",
     inicio: "Startseite",
     actualizado: "Zuletzt aktualisiert",
-    fecha: "24. April 2026",
+    fecha: "11. November 2026",
     avisoTitulo: "Hinweis zur Sprachversion",
     avisoTexto:
       "Diese deutsche Fassung dient ausschließlich der Orientierung für nicht spanischsprachige Nutzer. Rechtsverbindlich ist allein die spanische Originalfassung dieses Dokuments. Bei Abweichungen oder Widersprüchen zwischen den Fassungen hat die spanische Version Vorrang. Die spanische Originalfassung ist verfügbar unter",
@@ -852,7 +909,7 @@ const CONTENIDO: Record<IdiomaLegal, ContenidoCookies> = {
       "Les cookies utilisés sur ExploraSpain et comment les gérer.",
     inicio: "Accueil",
     actualizado: "Dernière mise à jour",
-    fecha: "24 avril 2026",
+    fecha: "11 novembre 2026",
     avisoTitulo: "Avertissement sur la version linguistique",
     avisoTexto:
       "Cette version française est fournie uniquement pour faciliter la lecture aux utilisateurs non hispanophones. Seule la version originale en espagnol de ce document fait foi juridiquement. En cas de divergence ou de contradiction entre les versions, la version espagnole prévaut. La version originale en espagnol est disponible à l’adresse",
@@ -866,7 +923,7 @@ const CONTENIDO: Record<IdiomaLegal, ContenidoCookies> = {
     ogDescripcion: "I cookie utilizzati su ExploraSpain e come gestirli.",
     inicio: "Home",
     actualizado: "Ultimo aggiornamento",
-    fecha: "24 aprile 2026",
+    fecha: "11 novembre 2026",
     avisoTitulo: "Avviso sulla versione linguistica",
     avisoTexto:
       "Questa versione italiana è fornita esclusivamente per comodità degli utenti che non parlano spagnolo. L’unica versione giuridicamente vincolante è quella originale in spagnolo di questo documento. In caso di discrepanza o contrasto tra le versioni, prevale la versione spagnola. La versione originale in spagnolo è disponibile su",
@@ -880,7 +937,7 @@ const CONTENIDO: Record<IdiomaLegal, ContenidoCookies> = {
     ogDescripcion: "Cookies utilizados na ExploraSpain e como geri-los.",
     inicio: "Início",
     actualizado: "Última atualização",
-    fecha: "24 de abril de 2026",
+    fecha: "11 de novembro de 2026",
     avisoTitulo: "Aviso sobre a versão linguística",
     avisoTexto:
       "Esta versão em português é disponibilizada apenas para conveniência dos utilizadores que não falam espanhol. A única versão juridicamente vinculativa é a versão original em espanhol deste documento. Em caso de divergência ou contradição entre as versões, prevalece a versão espanhola. A versão original em espanhol está disponível em",

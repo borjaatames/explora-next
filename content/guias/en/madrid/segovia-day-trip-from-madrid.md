@@ -49,6 +49,8 @@ faq:
     respuesta: 'At weekends and on Spanish public holidays, yes, especially at the classic roast houses near the aqueduct and the Plaza Mayor. On weekdays you can usually walk in at 2 pm. One portion of suckling pig is for one person.'
 ---
 
+**Short on time? The 3 most-booked options:** [Segovia and Toledo with the Alcázar](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid) (from €41) · [Ávila and Segovia with tickets](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) (from €79) · [Segovia, Ávila and Toledo with lunch](/en/cities/madrid/activities/toledo-segovia-avila-from-madrid) (from €78)
+
 Segovia is the easiest day trip from Madrid. It's half an hour by train, the old town runs in a straight line, and it has three sights you won't see anywhere else: a **Roman aqueduct** standing in the middle of town, a **Gothic cathedral** (the last big one built in Spain), and an **Alcázar** that looks like a drawing. It all fits into one day, with a long Castilian lunch in the middle, which locals treat as part of the visit. Here is how we would plan it.
 
 ## When to go

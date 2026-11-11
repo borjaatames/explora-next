@@ -2,6 +2,7 @@ import Script from "next/script";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import AnaliticaVercel from "@/components/AnaliticaVercel";
 import Analytics from "@/components/Analytics";
+import Clarity from "@/components/Clarity";
 import WebVitals from "@/components/WebVitals";
 import { inter, fraunces } from "@/lib/fonts";
 import { allowIndexing } from "@/lib/rootMetadata";
@@ -91,6 +92,8 @@ export default function RootDocument({ lang, children }: Props) {
         {allowIndexing && <SpeedInsights />}
         {/* Visitas sin cookies (incluye a quien rechaza el banner). */}
         {allowIndexing && <AnaliticaVercel />}
+        {/* Mapas de calor: solo con consentimiento y con NEXT_PUBLIC_CLARITY_ID. */}
+        {allowIndexing && <Clarity projectId={process.env.NEXT_PUBLIC_CLARITY_ID} />}
       </body>
     </html>
   );

@@ -50,6 +50,8 @@ imagen_portada: "/images/guias/que-ver-en-tenerife.jpg"
 imagen_alt: "Roques de García in Teide National Park"
 ---
 
+**Short on time? The 3 most-booked options:** [Eco-yacht whale and dolphin watching](/en/cities/tenerife/activities/eco-yacht-whale-dolphin-watching-tenerife) (from €30) · [Siam Park ticket](/en/cities/tenerife/activities/siam-park-tickets) (from €44) · [Loro Parque ticket](/en/cities/tenerife/activities/loro-parque-tickets) (from €44)
+
 **Tenerife is the most complete of the Canary Islands.** It has Spain's highest peak, a World Heritage colonial city, laurel forests, cliffs hundreds of metres high and whales living off its coast all year. The typical mistake is staying in Costa Adeje and treating Teide as a quick stop: the island offers far more.
 
 ## Book the essentials

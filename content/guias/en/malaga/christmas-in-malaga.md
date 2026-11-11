@@ -50,6 +50,9 @@ actividades:
   - granada-alhambra-excursion-privada-desde-malaga
   - cuevas-nerja-frigiliana-desde-malaga
 ---
+
+**Short on time? The 3 most-booked options:** [Sunset catamaran cruise](/en/cities/malaga/activities/malaga-catamaran-sunset-cruise) (from €13) · [Nerja Caves and Frigiliana day trip](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) (from €69) · [Hammam Al Ándalus Arab baths](/en/cities/malaga/activities/hammam-al-andalus-malaga-ticket) (from €60)
+
 ## The season at a glance
 
 | What | Where | When (2025 edition) | Price |
