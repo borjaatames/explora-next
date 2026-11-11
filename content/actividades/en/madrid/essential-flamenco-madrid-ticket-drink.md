@@ -63,13 +63,13 @@ keywords:
 - "flamenco madrid"
 - "flamenco show madrid centre"
 - "intimate flamenco madrid"
-imagen: "/images/actividades/madrid/flamenco-espectaculo/guitarristas-flamenco-blanco-negro.webp"
-imagenAlt: "Flamenco guitarists"
+imagen: "/images/actividades/madrid/essential-flamenco/bailaora-manton-essential-flamenco.webp"
+imagenAlt: "Flamenco dancer on stage at Essential Flamenco"
 galeria:
-- src: "/images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp"
-  alt: "Flamenco dancer on stage"
-- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
-  alt: "Flamenco dancer on stage"
+- src: "/images/actividades/madrid/essential-flamenco/bailaor-essential-flamenco.webp"
+  alt: "Male flamenco dancer on stage at Essential Flamenco"
+- src: "/images/actividades/madrid/essential-flamenco/cantaor-palmas-essential-flamenco.webp"
+  alt: "Live guitar and singing at Essential Flamenco"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

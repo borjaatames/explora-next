@@ -62,13 +62,15 @@ keywords:
 - "el duende barcelona"
 - "espetáculo flamenco barcelona"
 - "flamenco centro barcelona"
-imagen: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
-imagenAlt: "Bailarinas de flamenco"
+imagen: "/images/actividades/barcelona/el-duende/bailaora-lunares-guitarra-escenario.webp"
+imagenAlt: "Bailarina de flamenco no palco de El Duende"
 galeria:
-- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
-  alt: "Bailarinas de flamenco"
-- src: "/images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp"
-  alt: "Bailarinas de flamenco"
+- src: "/images/actividades/barcelona/el-duende/cuadro-flamenco-escenario.webp"
+  alt: "O grupo de flamenco completo em El Duende"
+- src: "/images/actividades/barcelona/el-duende/bailaores-escenario-el-duende.webp"
+  alt: "Bailarino de flamenco no palco de El Duende"
+- src: "/images/actividades/barcelona/el-duende/bailaora-abanico-rojo.webp"
+  alt: "Bailarina de flamenco no palco de El Duende"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

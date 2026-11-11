@@ -75,23 +75,15 @@ keywords:
 - cheap flamenco show madrid
 - flamenco near royal palace madrid
 - intimate flamenco tablao madrid
-imagen: /images/actividades/cordoba/flamenco/palmas.webp
-imagenAlt: 'Flamenco hand-clapping in Madrid'
+imagen: "/images/actividades/madrid/sala-temple/bailaora-cantaor-guitarra-escenario.webp"
+imagenAlt: "Flamenco dancer on stage at Sala Temple"
 galeria:
-- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-  alt: 'Dancer and musicians in a small flamenco tablao'
-- src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: 'Flamenco guitarist'
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
-  alt: 'The Royal Palace lit up at night'
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: 'Flamenco guitar on stage'
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: 'Flamenco guitarist playing on stage'
-- src: /images/actividades/cordoba/flamenco/bailaora.webp
-  alt: 'Flamenco dancer with a white shawl during a flamenco show'
-- src: /images/actividades/cordoba/flamenco/baile-flamenco.webp
-  alt: 'Photo of the activity'
+- src: "/images/actividades/madrid/sala-temple/bailaor-cuadro-escenario.webp"
+  alt: "Male flamenco dancer on stage at Sala Temple"
+- src: "/images/actividades/madrid/sala-temple/bailaora-guitarra-escenario.webp"
+  alt: "Flamenco dancer on stage at Sala Temple"
+- src: "/images/actividades/madrid/sala-temple/sala-escenario.webp"
+  alt: "The venue at Sala Temple"
 ratingProveedor: 4.7
 numeroOpiniones: 1413
 publicada: true

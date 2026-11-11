@@ -62,13 +62,15 @@ keywords:
 - "el duende barcelona"
 - "barcelona flamenco show"
 - "flamenco barcelona centre"
-imagen: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
-imagenAlt: "Flamenco dancers"
+imagen: "/images/actividades/barcelona/el-duende/bailaora-lunares-guitarra-escenario.webp"
+imagenAlt: "Flamenco dancer on stage at El Duende"
 galeria:
-- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
-  alt: "Flamenco dancers"
-- src: "/images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp"
-  alt: "Flamenco dancers"
+- src: "/images/actividades/barcelona/el-duende/cuadro-flamenco-escenario.webp"
+  alt: "The full flamenco ensemble at El Duende"
+- src: "/images/actividades/barcelona/el-duende/bailaores-escenario-el-duende.webp"
+  alt: "Male flamenco dancer on stage at El Duende"
+- src: "/images/actividades/barcelona/el-duende/bailaora-abanico-rojo.webp"
+  alt: "Flamenco dancer on stage at El Duende"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

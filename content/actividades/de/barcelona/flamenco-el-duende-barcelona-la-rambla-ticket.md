@@ -62,13 +62,15 @@ keywords:
 - "el duende barcelona"
 - "flamenco show barcelona"
 - "flamenco barcelona zentrum"
-imagen: "/images/actividades/barcelona/flamenco/flamenco-pexels-31120715.webp"
-imagenAlt: "Flamencotänzerinnen"
+imagen: "/images/actividades/barcelona/el-duende/bailaora-lunares-guitarra-escenario.webp"
+imagenAlt: "Flamencotänzerin auf der Bühne von El Duende"
 galeria:
-- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
-  alt: "Flamencotänzerinnen"
-- src: "/images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp"
-  alt: "Flamencotänzerinnen"
+- src: "/images/actividades/barcelona/el-duende/cuadro-flamenco-escenario.webp"
+  alt: "Das komplette Flamenco-Ensemble in El Duende"
+- src: "/images/actividades/barcelona/el-duende/bailaores-escenario-el-duende.webp"
+  alt: "Flamencotänzer auf der Bühne von El Duende"
+- src: "/images/actividades/barcelona/el-duende/bailaora-abanico-rojo.webp"
+  alt: "Flamencotänzerin auf der Bühne von El Duende"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

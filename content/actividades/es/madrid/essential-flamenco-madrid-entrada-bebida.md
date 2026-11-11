@@ -63,13 +63,13 @@ keywords:
 - "flamenco madrid"
 - "espectaculo flamenco madrid centro"
 - "tablao intimo madrid"
-imagen: "/images/actividades/madrid/flamenco-espectaculo/guitarristas-flamenco-blanco-negro.webp"
-imagenAlt: "Guitarristas flamencos"
+imagen: "/images/actividades/madrid/essential-flamenco/bailaora-manton-essential-flamenco.webp"
+imagenAlt: "Bailaora en el escenario de Essential Flamenco"
 galeria:
-- src: "/images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp"
-  alt: "Bailaora de flamenco en el escenario"
-- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
-  alt: "Bailaora de flamenco en el escenario"
+- src: "/images/actividades/madrid/essential-flamenco/bailaor-essential-flamenco.webp"
+  alt: "Bailaor en el escenario de Essential Flamenco"
+- src: "/images/actividades/madrid/essential-flamenco/cantaor-palmas-essential-flamenco.webp"
+  alt: "Guitarra y cante en directo en Essential Flamenco"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

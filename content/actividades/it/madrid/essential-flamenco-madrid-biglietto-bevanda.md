@@ -63,13 +63,13 @@ keywords:
 - "flamenco madrid"
 - "spettacolo flamenco madrid"
 - "flamenco intimo madrid"
-imagen: "/images/actividades/madrid/flamenco-espectaculo/guitarristas-flamenco-blanco-negro.webp"
-imagenAlt: "Chitarristi di flamenco"
+imagen: "/images/actividades/madrid/essential-flamenco/bailaora-manton-essential-flamenco.webp"
+imagenAlt: "Ballerina di flamenco sul palco di Essential Flamenco"
 galeria:
-- src: "/images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp"
-  alt: "Ballerina di flamenco sul palco"
-- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
-  alt: "Ballerina di flamenco sul palco"
+- src: "/images/actividades/madrid/essential-flamenco/bailaor-essential-flamenco.webp"
+  alt: "Ballerino di flamenco sul palco di Essential Flamenco"
+- src: "/images/actividades/madrid/essential-flamenco/cantaor-palmas-essential-flamenco.webp"
+  alt: "Chitarra e canto dal vivo a Essential Flamenco"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

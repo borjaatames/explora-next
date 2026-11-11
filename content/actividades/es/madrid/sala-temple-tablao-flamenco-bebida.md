@@ -75,23 +75,15 @@ keywords:
 - tablao flamenco madrid barato
 - flamenco palacio real madrid
 - flamenco intimo madrid
-imagen: /images/actividades/cordoba/flamenco/palmas.webp
-imagenAlt: 'Palmas flamencas en Madrid'
+imagen: "/images/actividades/madrid/sala-temple/bailaora-cantaor-guitarra-escenario.webp"
+imagenAlt: "Bailaora en el escenario de Sala Temple"
 galeria:
-- src: /images/actividades/barcelona/flamenco/flamenco-tablao.webp
-  alt: 'Bailaora y músicos en un tablao flamenco pequeño'
-- src: /images/actividades/cordoba/flamenco/guitarrista.webp
-  alt: 'Guitarrista flamenco'
-- src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
-  alt: 'El Palacio Real iluminado de noche'
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: 'Guitarra flamenca en el escenario'
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: 'Guitarrista flamenco tocando sobre el escenario'
-- src: /images/actividades/cordoba/flamenco/bailaora.webp
-  alt: 'Bailaora con mantón blanco durante un espectáculo flamenco'
-- src: /images/actividades/cordoba/flamenco/baile-flamenco.webp
-  alt: 'Foto de la actividad'
+- src: "/images/actividades/madrid/sala-temple/bailaor-cuadro-escenario.webp"
+  alt: "Bailaor en el escenario de Sala Temple"
+- src: "/images/actividades/madrid/sala-temple/bailaora-guitarra-escenario.webp"
+  alt: "Bailaora en el escenario de Sala Temple"
+- src: "/images/actividades/madrid/sala-temple/sala-escenario.webp"
+  alt: "La sala de Sala Temple"
 ratingProveedor: 4.7
 numeroOpiniones: 1413
 publicada: true
