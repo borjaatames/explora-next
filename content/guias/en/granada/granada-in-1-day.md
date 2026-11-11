@@ -76,6 +76,8 @@ A single day in Granada is short but enough for what makes it unique: the Alhamb
 
 **8:30 — Into the complex.** Open 8:30-18:00 from 15 October to 31 March and until 20:00 the rest of the year. Take the **C30 or C32 minibus** from Plaza Isabel la Católica (€1.60) or a taxi (€8-10); on foot up the Cuesta de Gomérez it's a 25-30 minute climb.
 
+**Alhambra night visit tickets sold out?** Here are [the alternatives that still work](/en/guides/granada/alhambra-night-visit-tickets-sold-out).
+
 The golden rule: your **Nasrid Palaces** time is fixed and there are only **30 minutes' grace**. It's a 30-45 minute walk from the entrance to the palaces, so plan your route around that slot:
 
 - **Nasrid Palaces** (1 h 30): the Court of the Myrtles, the Hall of Ambassadors, the Court of the Lions. Look up: the ceilings are the highlight.

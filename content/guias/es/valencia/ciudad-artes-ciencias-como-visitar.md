@@ -85,6 +85,8 @@ La regla de oro: **no hace falta entrar a todo**. El conjunto arquitectónico, c
 | Adultos sin prisa | Oceanogràfic suelto + Museu si os gusta la ciencia |
 | Un día completo familiar | Combinada de los tres + tarde libre |
 
+**¿No quedan entradas del Oceanogràfic?** Aquí tienes [las alternativas que siguen funcionando](/guias/valencia/oceanografic-valencia-entradas-agotadas).
+
 > **⭐ Tip:** las **entradas combinadas** (2 o 3 atracciones) salen bastante más baratas que sueltas y se agotan en temporada alta. Cómpralas online, elige la **primera hora** para el Oceanogràfic y deja el museo o el Hemisfèric para después de comer.
 
 [actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]

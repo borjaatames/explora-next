@@ -79,6 +79,8 @@ The afternoon timings are set for November, when the sun goes down around 18:00.
 
 **10:00 — Prado Museum**, at opening. Open Monday to Saturday 10:00-20:00 and Sundays and holidays 10:00-19:00. Two and a half well-spent hours: *Las Meninas* and the Velázquez room, Goya's *Black Paintings*, Bosch's *Garden of Earthly Delights*, El Greco and Titian. Don't try to see it all. Arriving by train? Atocha is 10-15 minutes away on foot.
 
+**Prado tickets sold out?** Here are [the alternatives that still work](/en/guides/madrid/prado-museum-tickets-sold-out).
+
 [actividad: museo-prado-entrada]
 
 If you'd like someone to take you straight to the key works and explain them, a guided visit with entry starts at €49; privately, with an official guide and hotel pick-up, there's a private Prado visit from €146.

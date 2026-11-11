@@ -69,6 +69,8 @@ Two days in Barcelona works if you split it into two halves that don't overlap: 
 | Casa Batlló or La Pedrera | from €29 | a few days |
 | Flamenco | from €30 | 1-2 days |
 
+**Park Güell tickets sold out?** Here are [the alternatives that still work](/en/guides/barcelona/park-guell-tickets-sold-out).
+
 ## Day 1: Gaudí from top to bottom
 
 **9:00 — Sagrada Família** (1 h 30). The first slot, with morning light through the stained glass. Hours: 9:00-18:00 November to February, until 19:00 in March and October and until 20:00 April to September; Saturdays always close at 18:00 and Sundays open at 10:30. No vests, swimwear or shorts above mid-thigh. The towers (€10 extra) add 30 minutes; on a two-day trip, skippable. More in [how to visit the Sagrada Família](/en/guides/barcelona/sagrada-familia-how-to-visit).

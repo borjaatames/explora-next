@@ -50,6 +50,8 @@ actividades:
 | [San Mamés museum and stadium](/en/cities/bilbao/activities/san-mames-stadium-museum-tour) | 4.8★ (1,710) | €16.5 |
 | [Gaztelugatxe, Bermeo, Mundaka and Guernica with txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4.7★ (3,229) | €45 |
 
+**Guggenheim tickets sold out?** Here are [the alternatives that still work](/en/guides/bilbao/guggenheim-bilbao-tickets-sold-out).
+
 Bilbao's charm is the contrast: Gehry's futuristic titanium on one bank of the river, the medieval Seven Streets on the other, and one of the best pintxo scenes in Europe in between. Whoever sees it in a rush stops at the museum photo; whoever stays for lunch and rides up to Artxanda takes home the whole city.
 
 ## When to visit Bilbao

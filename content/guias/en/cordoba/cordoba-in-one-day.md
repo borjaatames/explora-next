@@ -71,6 +71,8 @@ imagen_alt: "Córdoba's Mosque-Cathedral and Roman Bridge over the Guadalquivir"
 | [Equestrian show at the Royal Stables](/en/cities/cordoba/activities/equestrian-show-royal-stables) | 4.5★ (2,910) | €18.5 |
 | [Flamenco show at Tablao Cardenal with a drink](/en/cities/cordoba/activities/flamenco-show-tablao-cardenal) | 4.8★ (1,167) | €25 |
 
+**Mosque-Cathedral tickets sold out?** Here are [the alternatives that still work](/en/guides/cordoba/cordoba-mosque-tickets-sold-out).
+
 The key to Córdoba is one thing: **step into the Mosque-Cathedral first thing in the morning**. It's the monument that justifies the trip and the one that copes worst with the midday heat and crowds. Leave it for later and you risk long queues and a rushed visit. And if you stay overnight you gain something the day-tripper misses: the old town lit up and empty at dusk.
 
 ## When to visit Córdoba

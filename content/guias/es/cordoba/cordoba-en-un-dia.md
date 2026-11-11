@@ -70,6 +70,8 @@ imagen_alt: "La Mezquita-Catedral y el Puente Romano de Córdoba sobre el Guadal
 | [Espectáculo ecuestre en las Caballerizas Reales](/ciudades/cordoba/actividades/espectaculo-ecuestre-caballerizas-reales) | 4,5★ (2.910) | 18,5 € |
 | [Espectáculo de flamenco en el Tablao Cardenal con bebida](/ciudades/cordoba/actividades/espectaculo-flamenco-tablao-cardenal) | 4,8★ (1.167) | 25 € |
 
+**¿No quedan entradas de la Mezquita?** Aquí tienes [las alternativas que siguen funcionando](/guias/cordoba/mezquita-cordoba-entradas-agotadas).
+
 ## Cuándo ir y cómo llegar
 
 **Abril-junio** y **septiembre-octubre** son ideales. **Mayo** es la Córdoba más bonita del año (Cruces a primeros, Festival de los Patios a mediados, Feria a finales), pero se llena: reserva con semanas. Julio y agosto rondan los 40 °C: Mezquita a primera hora o de noche. De noviembre a marzo, fresco y sin colas.

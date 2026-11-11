@@ -76,6 +76,8 @@ Un día en Granada es corto pero suficiente para lo que la hace única: la Alham
 
 **8:30 — Entrada al recinto.** Abre de 8:30 a 18:00 del 15 de octubre al 31 de marzo y hasta las 20:00 el resto del año. Sube en el **microbús C30 o C32** desde Plaza Isabel la Católica (1,60 €) o en taxi (8-10 €); andando por la Cuesta de Gomérez son 25-30 minutos de subida.
 
+**¿No quedan entradas de la Alhambra nocturna?** Aquí tienes [las alternativas que siguen funcionando](/guias/granada/alhambra-nocturna-entradas-agotadas).
+
 La regla de oro: tu hora de **Palacios Nazaríes** es fija y solo hay **30 minutos de margen**. Desde la entrada se tardan 30-45 minutos andando hasta los palacios, así que organiza el recorrido en función de esa hora:
 
 - **Palacios Nazaríes** (1 h 30): Patio de los Arrayanes, Salón de Embajadores, Patio de los Leones. Mira arriba: las cúpulas son lo mejor.

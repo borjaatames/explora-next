@@ -81,6 +81,8 @@ Sleeping in Barcelona the night before? A guided day tour covers the same essent
 
 First thing, when the morning light comes through the Nativity façade's stained glass.
 
+**Sagrada Família tickets sold out?** Here are [the alternatives that still work](/en/guides/barcelona/sagrada-familia-tickets-sold-out).
+
 - **Official prices on `sagradafamilia.org`** (as of 2026): basic with audio guide €26, with towers €36, guided tour €30, guided with towers €40.
 - **The Hour of Silence** (9–10 AM) avoids the crowds; headphones are mandatory.
 - **Dress code:** no tank tops, swimwear, or shorts or skirts above mid-thigh.

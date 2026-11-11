@@ -49,6 +49,8 @@ actividades:
 | [Museo y estadio de San Mamés](/ciudades/bilbao/actividades/san-mames-museo-estadio-athletic) | 4,8★ (1.710) | 16,5 € |
 | [Gaztelugatxe, Bermeo, Mundaka y Guernica con txakoli](/ciudades/bilbao/actividades/gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao) | 4,7★ (3.229) | 45 € |
 
+**¿No quedan entradas del Guggenheim?** Aquí tienes [las alternativas que siguen funcionando](/guias/bilbao/guggenheim-bilbao-entradas-agotadas).
+
 ## Cuándo ir y cómo moverte
 
 **Mayo, junio y septiembre** son ideales; julio y agosto, buen tiempo y fiestas (la **Aste Nagusia** de agosto, con Marijaia, conciertos y fuegos, es un fiestón a tope; el **BBK Live** en julio); de octubre a abril, verde y con **sirimiri**, la llovizna fina que no estropea nada: el Guggenheim y la barra son a prueba de lluvia.

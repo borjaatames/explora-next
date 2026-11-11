@@ -47,6 +47,8 @@ actividades:
 
 Book at `tickets.alhambra-patronato.es`: **€22.27** (Nasrid Palaces, Alcazaba and Generalife). Your Nasrid slot is fixed, with only half an hour's leeway: arrive later and you lose the Nasrid Palaces. Tickets can be bought up to three months ahead and sell out about three weeks ahead in spring and autumn. Under-12s go free but need a ticket; ID is checked against the name.
 
+**Alhambra tickets sold out?** Here are [the alternatives that still work](/en/guides/granada/alhambra-tickets-sold-out).
+
 **If it's sold out:** the **Nasrid Palaces night visit** (€12.73), often available when daytime is gone, or a **guided tour** from an authorised operator with its own allocation (€45–65). Never buy from resellers: tickets are often fake or in another name. Details in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
 
 [actividad: alhambra-night-tour]

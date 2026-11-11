@@ -91,6 +91,8 @@ Two days in Madrid lets you separate the two cities that share the centre: **his
 
 **10:00 — Prado Museum** (2 h 30). Open Monday to Saturday 10:00-20:00, Sundays and holidays until 19:00. Velázquez, Goya, Bosch and El Greco in quiet rooms. Torn between museums? See [Prado vs Reina Sofía vs Thyssen](/en/guides/madrid/prado-vs-reina-sofia-vs-thyssen).
 
+**Prado tickets sold out?** Here are [the alternatives that still work](/en/guides/madrid/prado-museum-tickets-sold-out).
+
 [actividad: museo-prado-entrada]
 
 **12:45 — Retiro**, 5 minutes along Calle Felipe IV. Stroll to the boating lake (rowing boats €4-6 per half hour) and the **Crystal Palace** (free). Ninety unhurried minutes.

@@ -74,6 +74,8 @@ Este orden vale todo el año: en invierno los Búnkers cierran a las 17:30 y la 
 
 **Sagrada Família (10:00, 1 h 30).** Sí o sí y a primera hora, cuando la luz entra por las vidrieras del Nacimiento. Solo en `sagradafamilia.org`: básica con audioguía 26 €, con torres 36 €, guiada 30 €. La Hora del Silencio (9:00-10:00) evita masas. Sin camisetas de tirantes, bañador ni pantalón o falda por encima de medio muslo. Las torres añaden 30 minutos; en un día, prescindibles. Detalle en [cómo visitar la Sagrada Família](/guias/barcelona/sagrada-familia-como-visitar).
 
+**¿No quedan entradas de la Sagrada Família?** Aquí tienes [las alternativas que siguen funcionando](/guias/barcelona/sagrada-familia-entradas-agotadas).
+
 **Casa Batlló y Passeig de Gràcia (12:00, 30 min).** A 25 minutos andando o 10 en metro. Por dentro cuesta desde 29 € y 1 h 15 más; hoy, por fuera. Lo mismo con La Pedrera (desde 29 €), 500 metros más arriba. El paseo es la calle más bonita de la ciudad.
 
 **Barrio Gótico (12:30, 1 h 30).** La **Catedral** (de pago para la visita turística con claustro y terrazas; comprueba el precio del día en su web. En el claustro, las 13 ocas de Santa Eulàlia), la **Plaça del Rei** (donde la leyenda sitúa a los Reyes Católicos recibiendo a Colón) y la **Plaça Sant Felip Neri**, con la metralla de la Guerra Civil en la fachada. Piérdete por Bisbe, Call y Llibreteria.

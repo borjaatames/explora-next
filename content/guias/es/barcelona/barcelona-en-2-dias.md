@@ -69,6 +69,8 @@ Barcelona en dos días funciona si la partes en dos mitades que no se pisan: **u
 | Casa Batlló o La Pedrera | desde 29 € | unos días |
 | Flamenco | desde 30 € | 1-2 días |
 
+**¿No quedan entradas del Park Güell?** Aquí tienes [las alternativas que siguen funcionando](/guias/barcelona/park-guell-entradas-agotadas).
+
 ## Día 1: Gaudí de arriba abajo
 
 **9:00 — Sagrada Família** (1 h 30). Primera franja, con la luz de la mañana en las vidrieras. Horario: de 9:00 a 18:00 de noviembre a febrero, hasta las 19:00 en marzo y octubre y hasta las 20:00 de abril a septiembre; los sábados siempre cierra a las 18:00 y los domingos abre a las 10:30. Nada de tirantes, bañador ni pantalón corto por encima de medio muslo. Las torres (10 € más) añaden 30 minutos; en dos días, prescindibles. Más en [cómo visitar la Sagrada Família](/guias/barcelona/sagrada-familia-como-visitar).

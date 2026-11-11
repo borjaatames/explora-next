@@ -85,6 +85,8 @@ The golden rule: **you don't need to go into everything**. The architectural ens
 | Unhurried adults | Oceanogràfic on its own + Museum if you like science |
 | A full family day | Combined of all three + free afternoon |
 
+**Oceanogràfic tickets sold out?** Here are [the alternatives that still work](/en/guides/valencia/oceanografic-valencia-tickets-sold-out).
+
 > **⭐ Tip:** the **combined tickets** (2 or 3 attractions) are quite a bit cheaper than separate ones and sell out in high season. Buy them online, choose **first thing** for the Oceanogràfic and leave the museum or the Hemisfèric for after lunch.
 
 [actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]

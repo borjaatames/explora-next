@@ -79,6 +79,8 @@ Los horarios de tarde están pensados para noviembre, con el sol poniéndose hac
 
 **10:00 — Museo del Prado**, en la apertura. Abre de lunes a sábado de 10:00 a 20:00 y los domingos y festivos de 10:00 a 19:00. Dos horas y media bien aprovechadas: *Las Meninas* y la sala de Velázquez, las *Pinturas negras* de Goya, *El jardín de las delicias* de El Bosco, El Greco y Tiziano. No intentes verlo entero. Si llegas en AVE, Atocha está a 10-15 minutos a pie.
 
+**¿No quedan entradas del Prado?** Aquí tienes [las alternativas que siguen funcionando](/guias/madrid/museo-del-prado-entradas-agotadas).
+
 [actividad: museo-prado-entrada]
 
 Si quieres que alguien te lleve directo a las obras clave y te las explique, la [visita guiada con entrada](/ciudades/madrid/actividades/museo-prado-visita-guiada) sale desde 49 €; en privado, con guía oficial y recogida en el hotel, está la [visita privada al Prado](/ciudades/madrid/actividades/museo-prado-visita-privada-guia-oficial) (desde 146 €).

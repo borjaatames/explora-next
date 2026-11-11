@@ -61,6 +61,8 @@ faq:
 
 Sácala en `tickets.alhambra-patronato.es`: **22,27 €**, con hora fija para los Palacios Nazaríes y solo media hora de margen: si llegas más tarde, pierdes los Nazaríes. Se vende con hasta tres meses de antelación y vuela con tres semanas en primavera y otoño. Menores de 12 gratis, con ticket; piden el DNI. Si está agotada: nocturna de los Nazaríes (12,73 €) o tour guiado con cupo propio (45-65 €). Nunca en reventa. Detalle en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar).
 
+**¿No quedan entradas de la Alhambra?** Aquí tienes [las alternativas que siguen funcionando](/guias/granada/alhambra-entradas-agotadas).
+
 ## Cuándo ir y cómo llegar
 
 | Época | Veredicto |

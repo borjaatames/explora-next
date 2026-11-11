@@ -91,6 +91,8 @@ Dos días en Madrid dan para separar las dos ciudades que conviven en el centro:
 
 **10:00 — Museo del Prado** (2 h 30). Abre de lunes a sábado de 10:00 a 20:00 y domingos y festivos hasta las 19:00. Velázquez, Goya, El Bosco y El Greco con las salas tranquilas. Si dudas entre museos, mira [Prado, Reina Sofía o Thyssen](/guias/madrid/prado-reina-sofia-thyssen-comparativa).
 
+**¿No quedan entradas del Prado?** Aquí tienes [las alternativas que siguen funcionando](/guias/madrid/museo-del-prado-entradas-agotadas).
+
 [actividad: museo-prado-entrada]
 
 **12:45 — Retiro**, a 5 minutos por la calle Felipe IV. Paseo hasta el estanque (barcas, 4-6 € la media hora) y el **Palacio de Cristal** (gratis). Hora y media sin prisa.
