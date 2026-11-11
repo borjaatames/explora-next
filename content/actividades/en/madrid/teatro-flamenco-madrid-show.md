@@ -77,23 +77,13 @@ keywords:
 - flamenco show madrid
 - flamenco madrid tickets
 - best flamenco show madrid city centre
-imagen: /images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp
-imagenAlt: 'Flamenco dancer with a red shawl and open arms on stage'
+imagen: "/images/actividades/madrid/teatro-flamenco-madrid/bailaora-manton-guitarra-escenario.webp"
+imagenAlt: "Flamenco dancer on stage at Teatro Flamenco Madrid"
 galeria:
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: 'Flamenco hand-clapping during a show in Madrid'
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: 'Flamenco guitarist on stage'
-- src: /images/actividades/madrid/flamenco-espectaculo/guitarristas-flamenco-blanco-negro.webp
-  alt: 'Flamenco guitarists playing together, in black and white'
-- src: /images/actividades/madrid/malasana/plaza-dos-de-mayo-tarde.webp
-  alt: 'Plaza del Dos de Mayo in Malasaña at dusk'
-- src: /images/actividades/madrid/malasana/malasana-terrazas-noche.webp
-  alt: 'Malasaña terraces at night'
-- src: /images/actividades/madrid/gran-via/gran-via-callao-noche.webp
-  alt: 'Gran Vía and Callao lit up at night'
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: 'Flamenco guitarist playing on stage'
+- src: "/images/actividades/madrid/teatro-flamenco-madrid/cuadro-flamenco-escenario.webp"
+  alt: "The full flamenco ensemble at Teatro Flamenco Madrid"
+- src: "/images/actividades/madrid/teatro-flamenco-madrid/pareja-sevillanas-escenario.webp"
+  alt: "Flamenco dance couple at Teatro Flamenco Madrid"
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true

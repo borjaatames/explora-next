@@ -77,23 +77,13 @@ keywords:
 - espectaculo flamenco madrid
 - flamenco madrid entradas
 - show flamenco madrid centro
-imagen: /images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp
-imagenAlt: 'Bailaora con mantón rojo y los brazos abiertos en el escenario'
+imagen: "/images/actividades/madrid/teatro-flamenco-madrid/bailaora-manton-guitarra-escenario.webp"
+imagenAlt: "Bailaora en el escenario de Teatro Flamenco Madrid"
 galeria:
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: 'Palmas flamencas durante un espectáculo en Madrid'
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: 'Guitarrista flamenco en el escenario'
-- src: /images/actividades/madrid/flamenco-espectaculo/guitarristas-flamenco-blanco-negro.webp
-  alt: 'Guitarristas flamencos tocando juntos, en blanco y negro'
-- src: /images/actividades/madrid/malasana/plaza-dos-de-mayo-tarde.webp
-  alt: 'Plaza del Dos de Mayo, en Malasaña, al atardecer'
-- src: /images/actividades/madrid/malasana/malasana-terrazas-noche.webp
-  alt: 'Terrazas de Malasaña por la noche'
-- src: /images/actividades/madrid/gran-via/gran-via-callao-noche.webp
-  alt: 'Gran Vía y Callao iluminados de noche'
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: 'Guitarrista flamenco tocando sobre el escenario'
+- src: "/images/actividades/madrid/teatro-flamenco-madrid/cuadro-flamenco-escenario.webp"
+  alt: "Cuadro flamenco al completo en Teatro Flamenco Madrid"
+- src: "/images/actividades/madrid/teatro-flamenco-madrid/pareja-sevillanas-escenario.webp"
+  alt: "Pareja de baile flamenco en Teatro Flamenco Madrid"
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true

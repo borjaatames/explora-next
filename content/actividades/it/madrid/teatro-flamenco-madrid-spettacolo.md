@@ -75,23 +75,13 @@ keywords:
 - teatro flamenco madrid biglietti
 - flamenco madrid centro
 - dove vedere il flamenco a madrid
-imagen: /images/actividades/madrid/flamenco-espectaculo/bailaora-manton-rojo-escenario.webp
-imagenAlt: 'Ballerina di flamenco con scialle rosso e braccia aperte sul palco'
+imagen: "/images/actividades/madrid/teatro-flamenco-madrid/bailaora-manton-guitarra-escenario.webp"
+imagenAlt: "Ballerina di flamenco sul palco di Teatro Flamenco Madrid"
 galeria:
-- src: /images/actividades/cordoba/flamenco/palmas.webp
-  alt: 'Palmas flamenche durante uno spettacolo a Madrid'
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: 'Chitarrista di flamenco sul palco'
-- src: /images/actividades/madrid/flamenco-espectaculo/guitarristas-flamenco-blanco-negro.webp
-  alt: 'Chitarristi di flamenco che suonano insieme, in bianco e nero'
-- src: /images/actividades/madrid/malasana/plaza-dos-de-mayo-tarde.webp
-  alt: 'Plaza del Dos de Mayo, a Malasaña, al tramonto'
-- src: /images/actividades/madrid/malasana/malasana-terrazas-noche.webp
-  alt: 'Tavolini all''aperto a Malasaña di notte'
-- src: /images/actividades/madrid/gran-via/gran-via-callao-noche.webp
-  alt: 'Gran Vía e Callao illuminati di notte'
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: 'Chitarrista di flamenco che suona sul palco'
+- src: "/images/actividades/madrid/teatro-flamenco-madrid/cuadro-flamenco-escenario.webp"
+  alt: "Il gruppo di flamenco al completo a Teatro Flamenco Madrid"
+- src: "/images/actividades/madrid/teatro-flamenco-madrid/pareja-sevillanas-escenario.webp"
+  alt: "Coppia di ballerini di flamenco a Teatro Flamenco Madrid"
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true
