@@ -61,15 +61,15 @@ keywords:
 - "los tarantos barcellona"
 - "spettacolo flamenco barcellona"
 - "tablao plaça reial"
-imagen: "/images/actividades/barcelona/flamenco/flamenco-tablao.webp"
-imagenAlt: "Spettacolo di flamenco in un tablao"
+imagen: "/images/actividades/barcelona/los-tarantos/cuadro-flamenco-escenario-tarantos.webp"
+imagenAlt: "Il gruppo di flamenco al completo a Los Tarantos"
 galeria:
-- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
-  alt: "Spettacolo di flamenco in un tablao"
-- src: "/images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp"
-  alt: "Spettacolo di flamenco in un tablao"
-- src: "/images/actividades/barcelona/gotico/placa-reial.webp"
-  alt: "Plaça Reial a Barcellona"
+- src: "/images/actividades/barcelona/los-tarantos/fachada-tarantos-placa-reial.webp"
+  alt: "Ingresso di Los Tarantos"
+- src: "/images/actividades/barcelona/los-tarantos/guitarrista-tarantos.webp"
+  alt: "Chitarra e canto dal vivo a Los Tarantos"
+- src: "/images/actividades/barcelona/los-tarantos/palmas-tarantos.webp"
+  alt: "Ballerino di flamenco sul palco di Los Tarantos"
 publicada: true
 destacada: false
 fecha: '2026-11-10'
