@@ -1,12 +1,11 @@
 ---
 titulo: "Comer em Málaga com critério: espetos, peixinho frito e vinho doce"
 descripcion: "Guia para comer em Málaga: espeto de sardinhas, fritura malaguenha, ajoblanco, vinho doce e onde comer bem longe das armadilhas turísticas da Catedral."
-intro: '**Comer em Málaga** é comer cozinha de mar simples, de chiringuito e de taberna, com um peixe excecional: o **espeto de sardinhas** assado na areia de Pedregalejo e El Palo, o peixinho frito, os boquerones da baía, o ajoblanco e o **vinho doce** servido da barrica em adegas históricas. Come-se maravilhosamente e barato se souber onde: basta afastar-se duas ruas das esplanadas da Catedral.'
-respuestaCorta: 'Para **comer em Málaga**, peça **espeto de sardinhas num chiringuito de Pedregalejo ou El Palo** (4-6 € as seis sardinhas, melhor ao almoço), peixinho frito onde houver movimento local e **vinho doce de barrica** numa adega histórica como a Antigua Casa de Guardia. Fica por **20-25 € por pessoa**; evite as esplanadas da Catedral e da calle Larios.'
+respuestaCorta: 'Coma o **espeto de sardinhas num chiringuito de Pedregalejo ou El Palo** (4-6 € as seis sardinhas, melhor ao almoço), peixinho frito onde houver burburinho local e **vinho doce de barrica** numa adega histórica como a Antigua Casa de Guardia. Comer bem fica por **20-25 € por pessoa**; evite as esplanadas em frente à Catedral e na calle Larios.'
 categoria: "malaga"
 slug: "onde-comer-em-malaga"
 fecha: "2026-03-21"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
@@ -29,61 +28,60 @@ actividades:
   - malaga-taller-tapas-mercado-atarazanas
 imagen_portada: "/images/guias/comer-en-malaga.jpg"
 imagen_alt: "Espetos de sardinhas a assar nas brasas"
-faq:
-- pregunta: Onde comer espeto de sardinhas em Málaga?
-  respuesta: Nos chiringuitos de Pedregalejo e El Palo, com barcos-grelha na areia. Servem espetos sobretudo ao almoço, das 13h00 às 16h30. Chega-se no autocarro 11 a partir da Alameda Principal (20 minutos) ou a pé em 40 minutos pelo passeio marítimo desde La Malagueta.
-- pregunta: Quanto custa comer em Málaga?
-  respuesta: 'Comer bem fica por 20-25 € por pessoa. Como referência: um espeto de seis sardinhas, 4-6 €; dose de fritura malaguenha, 12-15 €; boquerones fritos, 8-10 €; um copo de vinho doce de barrica, 1,50-3 €.'
-- pregunta: Onde provar o vinho doce de Málaga?
-  respuesta: 'Numa adega histórica do centro que o sirva da barrica. A Antigua Casa de Guardia, na Alameda Principal e aberta desde 1840, é a original: de pé, ao balcão, com a conta escrita a giz.'
-- pregunta: Qual é o horário do Mercado de Atarazanas?
-  respuesta: Abre de segunda a sábado das 8h00 às 15h00 e fecha aos domingos. Os bares lá dentro enchem a partir das 13h00; vá antes das 12h30 se quiser lugar ao balcão.
-- pregunta: Onde não comer em Málaga?
-  respuesta: 'Nas esplanadas com menu plastificado em várias línguas e angariadores mesmo em frente à Catedral ou na calle Larios: preços turísticos e qualidade média. Caminhe duas ou três ruas em direção a Carretería, ao Soho ou ao mercado.'
 ---
 
-## O que comer em Málaga: o imprescindível
+**Em Málaga come-se maravilhosamente e barato, se souber onde.** É cozinha marinheira e simples, de chiringuito e de taberna, com um produto do mar excecional. A única armadilha são as esplanadas turísticas em frente à Catedral e na calle Larios; duas ruas mais à frente, tudo melhora. Este guia dá-lhe as chaves para comer como um malaguenho.
 
-- **Espeto de sardinhas.** Sardinhas espetadas numa cana e assadas na brasa de lenha de oliveira na areia, em barcos-grelha. Comem-se com os dedos. É o prato que define a cidade e deve ser provado no sítio certo: os **chiringuitos de Pedregalejo e El Palo**, não uma esplanada do centro. Estão no ponto **de maio a setembro**; fora de época, melhor fritura, amêijoas ou conchas finas.
-- **Peixinho frito (fritura malaguenha).** Variado de boquerones, lulas, chocos pequenos e rosada. Estaladiço e leve.
-- **Boquerones.** Os «victorianos» da baía, fritos ou em vinagre.
-- **Ajoblanco e porra.** O **ajoblanco** é a sopa fria de amêndoa e alho, com uvas; a **porra antequerana**, um primo mais espesso do salmorejo. Refrescam no verão.
+O prato que define a cidade é o **espeto de sardinhas**: tem de o provar sem falta, e no seu sítio (um chiringuito de praia), não numa esplanada do centro.
 
-## Vinho doce de Málaga e o que beber
+## O imprescindível
 
-O **vinho doce de Málaga** (moscatel ou Pedro Ximénez) é a imagem de marca da cidade. Prove-o numa adega histórica do centro onde o servem diretamente das barricas:
+**Espeto de sardinhas.** Sardinhas espetadas numa cana e assadas nas brasas de lenha de oliveira na areia, em barcos-grelha. Comem-se com os dedos, melhor na época (de maio a setembro; a regra dos "meses sem erre" pesa menos aqui: a regra local é da Semana Santa a outubro). O melhor sítio: os **chiringuitos de Pedregalejo e El Palo**.
 
-- **Antigua Casa de Guardia** (Alameda Principal, desde 1840): a original. De pé, ao balcão, com a conta escrita a giz.
-- **El Pimpi:** mais turístico, mas merece a visita pelo edifício.
+**Fritura malaguenha.** O peixinho frito variado: boquerones, lulas, puntillitas, rosada. Estaladiço e leve.
 
-Um copo de vinho doce de barrica custa **1,50-3 €**. Prove também os vinhos da **Axarquía** e dos Montes de Málaga.
+**Boquerones.** Victorianos (da baía), fritos ou em vinagre. Imbatíveis.
 
-## Onde comer bem em Málaga
+**Ajoblanco e porra.** O **ajoblanco** é a sopa fria de amêndoa e alho (com uvas); a **porra antequerana**, um primo mais espesso do salmorejo. Refrescam no verão.
+
+## Para beber
+
+O **vinho doce de Málaga** (moscatel ou Pedro Ximénez) é a imagem de marca. Prove-o numa adega histórica do centro onde o servem diretamente das barricas: uma experiência em si mesma. Também vinhos da **Axarquía** e dos Montes de Málaga.
+
+## Onde comer bem
 
 | Zona | O que procurar |
 | --- | --- |
 | Pedregalejo / El Palo | Espetos e peixinho frito em chiringuito |
-| Mercado de Atarazanas | Petiscos, produto fresco, marisco |
+| Mercado de Atarazanas | Tapas, produto fresco, marisco |
 | Calle Carretería / Soho | Tabernas e cozinha de mercado |
 | Centro (longe da Larios) | Adegas históricas de vinho doce |
 
-Desconfie das esplanadas com **menu plastificado em várias línguas e angariadores** mesmo em frente à Catedral ou na calle Larios: preços turísticos e qualidade média. Caminhe duas ou três ruas em direção a Carretería, ao Soho ou ao mercado e tudo muda.
-
-O **Mercado de Atarazanas** é dos melhores planos gastronómicos da cidade: não o deixe de fora.
+> **Aviso:** desconfie das esplanadas com menu plastificado em várias línguas e angariadores mesmo em frente à Catedral ou na calle Larios: preços turísticos e qualidade média. Caminhe duas ou três ruas em direção à Carretería, ao Soho ou ao mercado e tudo muda.
 
 ## O lado prático: horários, preços e como chegar
 
-- **Horários:** os chiringuitos servem espetos sobretudo ao almoço, **das 13h00 às 16h30**; à noite poucos acendem o barco. No centro petisca-se das 13h00 às 16h00 e das 20h30 às 23h30.
-- **Preços indicativos:** espeto de seis sardinhas, **4-6 €**; dose de fritura malaguenha, **12-15 €**; boquerones fritos, **8-10 €**. Comer bem fica por **20-25 € por pessoa**.
-- **Pedregalejo e El Palo:** **autocarro 11** a partir da Alameda Principal (20 minutos) ou 40 minutos a pé pelo passeio marítimo desde La Malagueta, um passeio lindíssimo. De táxi, 8-10 €.
-- **Mercado de Atarazanas:** de segunda a sábado **das 8h00 às 15h00**; fecha aos domingos. Os bares enchem a partir das 13h00: vá antes das 12h30 se quiser balcão.
+- **Horários:** os chiringuitos de Pedregalejo e El Palo servem espetos sobretudo ao almoço, das 13h00 às 16h30; à noite poucos acendem o barco. No centro petisca-se das 13h00 às 16h00 e das 20h30 às 23h30.
+- **Preços indicativos:** um espeto de seis sardinhas, 4-6 €; dose de fritura malaguenha, 12-15 €; boquerones fritos, 8-10 €; um copo de vinho doce de barrica, 1,50-3 €. Comer bem em Málaga fica por 20-25 € por pessoa.
+- **Como chegar a Pedregalejo e El Palo:** autocarro 11 a partir da Alameda Principal (20 minutos) ou 40 minutos a pé pelo passeio marítimo a partir de La Malagueta, que é um passeio lindíssimo. De táxi, 8-10 €.
+- **Mercado de Atarazanas:** abre de segunda a sábado das 8h00 às 15h00 e fecha aos domingos. Os bares lá dentro enchem a partir das 13h00; vá antes das 12h30 se quiser balcão.
+- **Adegas de vinho doce:** a Antigua Casa de Guardia (Alameda Principal, desde 1840) é a original: de pé, ao balcão, com a conta escrita a giz. El Pimpi é mais turístico, mas merece a visita pelo edifício.
+- **Época do espeto:** as sardinhas estão no ponto de maio a setembro. Fora de época, melhor fritura, amêijoas ou conchas finas.
 - **Reservar:** nos chiringuitos não é costume reservar; vá antes das 13h30 ao fim de semana. Nas tabernas do centro, às sextas e sábados à noite, sim.
 
 ## Regras para não falhar
 
-1. **O espeto, na praia.** Num chiringuito com barco-grelha; sem a brasa na areia não é a mesma coisa.
-2. **O peixinho frito, onde há rotação.** Sítios cheios de gente local = peixe fresco.
+1. **O espeto, na praia.** Num chiringuito com barco-grelha, não no centro.
+2. **O peixinho frito, onde houver rotação.** Sítios cheios de gente local = peixe fresco.
 3. **O vinho doce, de barrica.** Nas adegas históricas, não numa carta qualquer.
-4. **Afaste-se da Larios e da Catedral para comer**; vá lá só passear. Na primeira linha paga mais por menos.
+4. **Afaste-se da Larios e da Catedral** para comer; aproxime-se só para passear.
 
-Aplicamo-lo dia a dia no roteiro de [Málaga em 2 dias](/pt/guides/malaga/malaga-em-2-dias).
+## O que NÃO recomendamos
+
+1. **Comer na primeira linha da Catedral.** Paga mais por menos.
+2. **Pedir espeto numa esplanada do centro.** Sem as brasas da areia, não é a mesma coisa.
+3. **Saltar o Mercado de Atarazanas.** É dos melhores programas gastronómicos da cidade.
+
+## Numa frase
+
+Comer em Málaga com critério é um espeto de sardinhas num chiringuito de El Palo, peixinho frito onde há burburinho local e um vinho doce de barrica no centro: marinheiro, simples e barato se fugir das armadilhas da Larios. Aplicamo-lo no roteiro de [Málaga em dois dias](/pt/guides/malaga/malaga-em-2-dias).

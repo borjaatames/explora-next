@@ -5,7 +5,7 @@ metaTitle: 'Visitar a Sagrada Família: dicas e erros'
 categoria: "barcelona"
 slug: "sagrada-familia-como-visitar"
 fecha: "2026-05-02"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -25,8 +25,7 @@ slugs:
   fr: sagrada-familia-comment-la-visiter
   it: sagrada-familia-come-visitarla
   pt: sagrada-familia-como-visitar
-intro: '**Visitar a Sagrada Família** é entrar na basílica inacabada de Gaudí: uma nave com colunas que se ramificam como árvores, **vitrais** que tingem a luz de azul de manhã e de vermelho à tarde, duas fachadas opostas e a cripta com o seu túmulo. Desde 2026, com a **Torre de Jesus**, é a igreja mais alta do mundo. A visita leva de 1 h 30 a 2 horas.'
-respuestaCorta: 'Para **visitar a Sagrada Família**, compre só em sagradafamilia.org, com **4-6 semanas de antecedência** (no verão, assim que saírem, cerca de dois meses antes): **não há bilheteira**. A **entrada básica com audioguia custa 26 €**; com torre, 36 €. Reserve o **horário das 9:00**, a Hora do Silêncio, e conte com 1 h 30 a 2 horas.'
+respuestaCorta: 'Reserve apenas em **sagradafamilia.org**, com **4–6 semanas de antecedência** (em julho e agosto, assim que abrem as vendas, cerca de dois meses antes): não há bilheteira. O **bilhete básico com audioguia custa 26 €** e chega para uma primeira visita; as torres acrescentam 10 €. Escolha o **horário das 9h00** e conte com 1h30–2 horas.'
 reservasArriba: true
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
@@ -34,16 +33,16 @@ actividades:
   - sagrada-familia-tour-con-torre
   - park-guell-entrada-zona-monumental
 faq:
-- pregunta: Quanto custa a entrada na Sagrada Família em 2026?
-  respuesta: A entrada básica custa 26 € e inclui o acesso à basílica e um audioguia descarregável em 19 línguas. Com subida a uma torre custa 36 €; a visita guiada em grupo, 30 € (40 € com torres). Os residentes em Barcelona têm 50 % de desconto durante todo o ano de 2026, o Ano Gaudí, escrevendo para residents@ext.sagradafamilia.org com comprovativo de residência.
-- pregunta: Com quanta antecedência é preciso reservar a Sagrada Família?
-  respuesta: Entre 4 e 6 semanas antes para conseguir um bom horário, e assim que saírem à venda, cerca de dois meses antes, se visitar em julho ou agosto, na Páscoa ou em feriados prolongados espanhóis. Os bilhetes só se vendem online em sagradafamilia.org ou pelos códigos QR de compra à volta do templo, se houver lugar; não há bilheteira.
-- pregunta: Vale a pena pagar mais para subir às torres?
-  respuesta: Para a maioria das primeiras visitas, não. Sobe-se de elevador mas desce-se por uma escada em caracol estreita; não é acessível em cadeira de rodas nem aconselhável a quem tem vertigens, e lá de cima não se veem as torres inteiras. O mais importante, os vitrais, já está incluído na entrada básica de 26 €.
-- pregunta: Qual é o código de vestuário da Sagrada Família?
-  respuesta: 'É uma igreja em funcionamento: ombros cobertos, saias e calções pelo menos até meio da coxa, nada transparente, nada de fato de banho ou chinelos de praia, e sem bonés nem chapéus lá dentro. A segurança recusa a entrada a quem não cumprir.'
-- pregunta: O que é a Hora do Silêncio na Sagrada Família?
-  respuesta: 'Desde 2 de fevereiro de 2026, a basílica reserva todos os dias das 9:00 às 10:00 para a Hora do Silêncio: auriculares obrigatórios para os audioguias, nada de som em altifalante e silêncio lá dentro. É também a melhor altura para a visitar, com menos gente e a luz da manhã nos vitrais do lado nascente.'
+  - pregunta: "Quanto custa o bilhete da Sagrada Família em 2026?"
+    respuesta: "O bilhete básico custa 26 € e inclui o acesso à basílica e um audioguia descarregável em 19 línguas. Acrescentar a subida a uma torre eleva-o para 36 €, e a visita guiada em grupo custa 30 € (40 € com torres). Os residentes em Barcelona têm 50% de desconto durante todo o ano de 2026, o Ano Gaudí, enviando um e-mail para residents@ext.sagradafamilia.org com comprovativo de residência."
+  - pregunta: "Com quanta antecedência devo reservar os bilhetes da Sagrada Família?"
+    respuesta: "Reserve com 4 a 6 semanas de antecedência para ter um bom horário, e assim que os bilhetes forem postos à venda, cerca de dois meses antes, se visitar em julho, agosto, Semana Santa ou feriados nacionais espanhóis, quando a procura praticamente duplica. Os bilhetes vendem-se apenas online em sagradafamilia.org ou através dos códigos QR de compra à volta da basílica, se houver lotação; não há bilheteira."
+  - pregunta: "Vale a pena pagar mais para subir às torres da Sagrada Família?"
+    respuesta: "Para a maioria de quem visita pela primeira vez, não. Sobe-se de elevador mas desce-se por uma escada em caracol estreita, não é acessível a cadeiras de rodas nem recomendável para quem sofre de vertigens, e fotografam-se as torres a partir de dentro delas em vez de as ver por inteiro. O mais importante, os vitrais, já está incluído no bilhete básico de 26 €. O suplemento de 10 € da torre compensa sobretudo se ainda lhe sobrar orçamento depois do Park Güell ou da Casa Batlló."
+  - pregunta: "Qual é o código de vestuário da Sagrada Família?"
+    respuesta: "É uma igreja católica em funcionamento com um código de vestuário que é aplicado: ombros tapados, saias e calções pelo menos até meio da coxa, nada de roupa transparente, fatos de banho ou chinelos de praia, e nada de chapéus ou bonés dentro da nave. O pessoal recusa a entrada no controlo de segurança a quem não cumpra, por isso vista-se como para qualquer igreja europeia."
+  - pregunta: "O que é a Hora do Silêncio da Sagrada Família?"
+    respuesta: "Desde 2 de fevereiro de 2026, a basílica reserva todos os dias das 9h00 às 10h00 para a Hora do Silêncio: os auriculares são obrigatórios para os audioguias, não é permitido som em altifalante e pede-se aos visitantes que fiquem em silêncio. É também a melhor altura para visitar, porque há menos gente e a luz da manhã incide nos vitrais do lado nascente."
 opciones:
   - ficha: entrada-sagrada-familia-audioguia
     etiqueta: Mais barato
@@ -53,52 +52,102 @@ opciones:
     etiqueta: Grupo reduzido
 ---
 
-## O que vai ver e por que ordem
+A Sagrada Família recebe cerca de 4,5 milhões de visitantes por ano, vende bilhetes apenas online em horários marcados e esgota com semanas de antecedência. Eis que bilhete comprar, quando reservar, se vale a pena subir a uma torre e os erros que fazem com que as pessoas sejam barradas à porta.
 
-1. **Fachada da Natividade:** a única terminada em vida de Gaudí, com cada figura, animal e planta carregados de símbolos. Entra-se por aqui.
-2. **A nave:** as colunas inclinam-se e ramificam-se aos 25 metros como árvores, e sustentam a abóbada sem um único arcobotante.
-3. **Os vitrais:** os do nascente (Natividade) em azuis e verdes; os do poente (Paixão) em vermelhos e laranjas. De manhã brilham os primeiros; à tarde, os segundos. Se só puder ir uma vez, vá de manhã.
-4. **Fachada da Paixão:** austera e quase cubista, de Subirachs a partir de esboços de Gaudí, propositadamente oposta à Natividade.
-5. **Cripta e Museu Gaudí**, na cave: o túmulo de Gaudí, as maquetas funiculares e os planos. Um quarto de hora que explica tudo o que está em cima.
+## Que bilhete escolher?
 
-Tempo realista: **1 h 30 a 2 horas** sem torres; **2 h 30 a 3** com torres.
+| Bilhete | Preço | O que inclui |
+| --- | --- | --- |
+| Sagrada Família (básico) | 26 € | Acesso à basílica + audioguia descarregável |
+| Com visita guiada | 30 € | Acesso + guia oficial em grupo (1h30) |
+| Com torres | 36 € | Básico + subida a uma das duas torres |
+| Guiada + torres | 40 € | Visita guiada completa com torres |
 
-## Preços e horário da Sagrada Família
+- Para uma primeira visita, o **bilhete básico com audioguia (26 €)** chega; o audioguia oficial é bom e está disponível em 19 línguas. A visita guiada (30 €) convém-lhe se quiser que lhe expliquem o simbolismo, mas impõe o ritmo.
+- **Descontos:** reformados 21 €, menores de 30 anos com Cartão Jovem e estudantes 24 €. **As crianças com menos de 11 anos entram grátis** (máximo duas por adulto), mas precisam de um bilhete nominativo na mesma compra. Visitantes com deficiência igual ou superior a 65% entram grátis com um acompanhante.
+- **Os residentes em Barcelona têm 50% de desconto durante todo o ano de 2026** (Ano Gaudí): envie um e-mail para `residents@ext.sagradafamilia.org` com o DNI ou o certificado de recenseamento.
 
-- **Básica:** 26 €, basílica e audioguia em 19 línguas. Para uma primeira visita, chega.
-- **Com visita guiada:** 30 €, guia oficial em grupo, 1 h 30.
-- **Com torre:** 36 €. **Guiada com torres:** 40 €.
-- **Descontos:** reformados 21 €; estudantes e menores de 30 com Carnet Jove 24 €; **menores de 11 grátis** (dois por adulto), com bilhete nominativo. Em 2026, os residentes em Barcelona têm 50 % de desconto com comprovativo de residência.
+## Quando reservar: esgota
 
-**Horário:** de abril a setembro, das 9:00 às 20:00; março e outubro, até às 19:00; de novembro a fevereiro, até às 18:00. Aos **sábados**, sempre até às 18:00, e aos **domingos abre às 10:30**. Última entrada 45 minutos antes. A 25 e 26 de dezembro e a 1 e 6 de janeiro, só das 9:00 às 14:00.
+Os bilhetes vendem-se **apenas online** em `sagradafamilia.org`. Não há venda à porta.
 
-## Como comprar a entrada (e se estiver esgotada)
+| Antecedência | Probabilidade de um bom horário |
+| --- | --- |
+| 4–6 semanas (recomendado) | Alta, escolhe a hora que prefere |
+| 2–4 semanas | Média, talvez só restem horários maus |
+| 1 semana | Baixa na época média-alta |
+| Na véspera | Lotaria. Improvável na época alta |
+| No próprio dia | Quase impossível. Só cancelamentos |
 
-**Só se vende online** em sagradafamilia.org (ou pelos códigos QR de compra à volta do templo, se houver lugar); **não há bilheteira**. Com 4-6 semanas escolhe o horário; com uma semana, na época alta, já é difícil; no próprio dia, quase impossível. Na Páscoa, feriados prolongados e verão, compre assim que saírem, cerca de dois meses antes. Evite sites não oficiais, que cobram 5-15 € de comissão.
+> **Atenção:** em **julho e agosto, na Semana Santa e nos feriados nacionais espanhóis**, reserve **assim que os bilhetes forem postos à venda, cerca de dois meses antes**. 2026 é o centenário da morte de Gaudí, e a Torre de Jesus (172,5 m, a igreja mais alta do mundo) foi inaugurada a 10 de junho, por isso a procura é maior do que o habitual.
+
+Se estiver tudo esgotado, veja [o que fazer quando os bilhetes da Sagrada Família estão esgotados](/en/guides/barcelona/sagrada-familia-tickets-sold-out).
+
+Outros revendedores acrescentam 5–15 € de comissão e alguns vendem bilhetes falsos. Se o site oficial estiver esgotado, as visitas guiadas têm as suas próprias quotas.
 
 [actividad: entrada-sagrada-familia-audioguia]
 
-Se estiver esgotada, os tours guiados têm lotes próprios: comparamo-los em [que bilhete ou tour escolher](/pt/guides/barcelona/sagrada-familia-que-bilhete-escolher), e todas as alternativas em [o que fazer se os bilhetes estiverem esgotados](/pt/guides/barcelona/sagrada-familia-bilhetes-esgotados).
+## Vale a pena subir às torres?
 
-## Que torre da Sagrada Família subir?
+Sobe-se a uma de duas torres (10 € a mais do que o bilhete básico):
 
-A entrada dá acesso a **uma só torre** e não é o visitante que escolhe: o monumento atribui-a consoante o dia e as obras. A da **Natividade** dá para o mar e para a fachada original de Gaudí; a da **Paixão**, para o Eixample, mais austera.
+| Torre | Vista | Ambiente |
+| --- | --- | --- |
+| Natividade | Para o mar e a fachada mais antiga | Mais original, vitrais do lado nascente |
+| Paixão | Para o Eixample, vista urbana | Mais moderna, linhas mais austeras |
 
-Sobe-se de elevador e desce-se por uma **escada em caracol estreita**: nada recomendável com vertigens, claustrofobia, cadeira de rodas ou crianças com menos de 6 anos. Lá de cima não se veem as torres inteiras, e os Bunkers del Carmel ou o Tibidabo dão vistas comparáveis de graça. O que justifica a visita são os vitrais vistos de dentro, e isso a básica já dá: se tiver de escolher, esses 10 € rendem mais no Park Güell.
+Para a maioria de quem vai pela primeira vez, não compensa. Sobe-se de elevador mas **desce-se por uma escada em caracol estreita**: não é acessível a cadeiras de rodas, é má ideia para quem sofre de vertigens ou claustrofobia e está vedada a menores de 6 anos. Vê as torres a partir de dentro e não por inteiro, e os Bunkers del Carmel ou o Tibidabo dão vistas comparáveis de graça. O que importa aqui são os **vitrais vistos de dentro**, incluídos no bilhete básico. Se o orçamento for apertado, gaste os 10 € no Park Güell ou na Casa Batlló.
 
 [actividad: sagrada-familia-tour-con-torre]
 
-## Hora do Silêncio e Ano Gaudí 2026
+## A Hora do Silêncio: reserve às 9h00
 
-**Hora do Silêncio.** Desde 2 de fevereiro de 2026, todos os dias das **9:00 às 10:00**: auriculares obrigatórios, nada de som em altifalante e silêncio lá dentro. É a melhor altura para visitar: menos gente, a luz da manhã pelos vitrais do nascente e um ambiente intimista. Reserve o horário das 9:00.
+Desde 2 de fevereiro de 2026, todos os dias das **9h00 às 10h00** é a Hora do Silêncio: os auriculares são obrigatórios para os audioguias, não há som em altifalante e os visitantes mantêm-se em silêncio. As visitas decorrem normalmente. É o **melhor horário do dia**: menos gente e luz da manhã a entrar pelos vitrais do nascente.
 
-**Ano Gaudí.** A 10 de junho de 2026 cumpriram-se cem anos da morte de Gaudí e nesse dia foi inaugurada a **Torre de Jesus**, com 172,5 metros, que faz da Sagrada Família a igreja mais alta do mundo. A afluência é maior do que nunca: reserve com mais antecedência e conte com filas densas no verão. Os remates finais, como a fachada da Glória, vão continuar até 2035.
+## Horários e como chegar
 
-## Como chegar, vestuário e dicas
+| Época | Seg–sex | Sábados | Domingos |
+| --- | --- | --- | --- |
+| Novembro–fevereiro | 9h00 – 18h00 | 9h00 – 18h00 | 10h30 – 18h00 |
+| Março e outubro | 9h00 – 19h00 | 9h00 – 18h00 | 10h30 – 19h00 |
+| Abril–setembro | 9h00 – 20h00 | 9h00 – 18h00 | 10h30 – 20h00 |
 
-- **Chegar:** metro L2 e L5, estação Sagrada Família, ao pé da basílica. Entrada pela fachada da Natividade, na Carrer de la Marina. Chegue **15-20 minutos antes** do seu horário.
-- **Vestuário:** é uma igreja em funcionamento e isso é controlado à entrada. Ombros cobertos, saias e calções abaixo de meio da coxa, nada transparente, nem fato de banho, nem chinelos de praia, nem boné lá dentro. No verão recusam a entrada todos os dias; leve um lenço na mochila.
-- **Proibido:** comer, beber, usar flash ou pau de selfie.
-- **Não salte a cripta e o museu**, nem tente vê-la em meia hora.
+- **Última entrada** 45 minutos antes do fecho. A 25–26 de dezembro e a 1 e 6 de janeiro, só das 9h00 às 14h00.
+- **Metro L2 e L5**, estação Sagrada Família, aos pés da basílica. Autocarros 19, 33, 34, D50, H10 e B24.
+- A entrada geral é pela **fachada da Natividade, Carrer de la Marina**. Chegue 15–20 minutos antes do seu horário; há pouca tolerância com atrasos.
 
-Para a encaixar na viagem, veja [Barcelona num dia](/pt/guides/barcelona/barcelona-num-dia) ou [em 3 dias](/pt/guides/barcelona/barcelona-em-3-dias).
+## Código de vestuário
+
+É uma igreja católica em funcionamento e a segurança aplica o código:
+
+- **Ombros tapados**: nada de camisolas de alças, alças finas ou tops curtos.
+- **Saias e calções pelo menos até meio da coxa.**
+- Nada de roupa transparente, fatos de banho, chinelos de praia ou pés descalços.
+- **Nada de chapéus ou bonés** lá dentro (salvo por motivos religiosos ou de saúde).
+
+No verão há quem seja barrado por ir com roupa de praia. As lojas próximas vendem peças para tapar, mas perde 30 minutos. Lá dentro não se permite comida, bebida, paus de selfie nem flash.
+
+## Plano de visita
+
+Conte com **1h30–2 horas sem torres, 2h30–3 horas com torres**.
+
+| Hora | Atividade |
+| --- | --- |
+| 9h00 | Entrada (Hora do Silêncio) |
+| 9h00–9h30 | Fachada da Natividade, a original de Gaudí, vista de dentro |
+| 9h30–10h00 | Nave central, colunas em forma de árvore, vitrais do nascente |
+| 10h00–10h30 | Fachada da Paixão e vitrais do poente |
+| 10h30–11h00 | Cripta e Museu Gaudí (cave) |
+| 11h00–11h30 | Subida à torre, se a tiver reservado |
+
+De manhã, os vitrais do nascente (Natividade) brilham em azul e verde; à tarde, os do poente (Paixão) brilham em vermelho, laranja e amarelo. Se só puder ir uma vez, vá de manhã.
+
+## O que observar
+
+- **A nave.** As colunas inclinam-se e ramificam-se como árvores a partir dos 25 metros de altura, sustentando a abóbada sem arcobotantes exteriores.
+- **Os vitrais.** Tons frios a nascente, para a aurora e o nascimento de Cristo; tons quentes a poente, para a Paixão e o pôr do sol.
+- **A fachada da Natividade.** A única terminada em vida de Gaudí; cada figura, animal e planta tem um significado.
+- **A fachada da Paixão.** Figuras austeras, quase cubistas, de Josep Maria Subirachs, num contraste deliberado com a Natividade.
+- **A cripta e o Museu Gaudí.** O túmulo de Gaudí, maquetas catenárias e plantas originais. Muitos visitantes saltam esta parte; dedique-lhe 15–20 minutos, explica o que viu lá em cima.
+
+Vai integrá-la numa estadia mais longa? Veja [Barcelona num dia](/en/guides/barcelona/barcelona-in-1-day) ou [Barcelona em 3 dias](/en/guides/barcelona/barcelona-in-3-days).

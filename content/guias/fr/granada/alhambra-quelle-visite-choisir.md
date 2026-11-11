@@ -5,7 +5,7 @@ metaTitle: 'Visite guidée Alhambra : laquelle choisir'
 categoria: "granada"
 slug: "alhambra-quelle-visite-choisir"
 fecha: "2026-09-06"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -25,8 +25,7 @@ slugs:
   fr: alhambra-quelle-visite-choisir
   it: alhambra-quale-tour-scegliere
   pt: alhambra-que-tour-escolher
-intro: 'Une **visite guidée de l''Alhambra** parcourt en trois heures environ l''Alcazaba, les **palais nasrides** et le Generalife avec un guide officiel qui explique ce qu''on manque seul : les poèmes gravés sur les murs, la géométrie des stucs et l''histoire de chaque salle. En cherchant « visite Alhambra », on tombe sur une demi-douzaine de noms différents, mais la plupart sont le même parcours. Ce guide vous aide à les distinguer.'
-respuestaCorta: 'Six visites guidées de l''Alhambra sont **le même parcours de 3 heures** (Alcazaba, palais nasrides et Generalife), de 49 à 99 €. Réservez la moins chère disponible à votre date. Seules la **visite nocturne**, la **visite privée** et l''entrée aux jardins sont vraiment différentes. Réservez des semaines avant : les créneaux des palais nasrides s''épuisent.'
+respuestaCorta: 'Six des visites de l''Alhambra en vente suivent **le même parcours de 3 heures** (Alcazaba, palais nasrides, Generalife) pour un prix de 49 à 99 € : réservez donc la moins chère qui a un créneau à votre date, généralement **Visite guidée avec le Generalife à partir de 49 €** ou **Entrée et visite guidée à partir de 50 €**. Seules la **visite de nuit**, la **visite privée** et le **billet jardins seuls** sont vraiment différents. Réservez plusieurs semaines à l''avance : les créneaux des palais nasrides s''épuisent.'
 reservasArriba: true
 actividades:
   - entrada-y-tour-guiado-alhambra
@@ -39,17 +38,6 @@ actividades:
   - alhambra-tour-privado
   - entrada-jardines-alhambra-generalife
   - alhambra-entrada-general
-faq:
-- pregunta: Quelle visite de l'Alhambra est la meilleure ?
-  respuesta: 'Pour le parcours standard de 3 heures, celle qui a de la place à votre date au meilleur prix : six des visites que nous vendons font la même chose (Alcazaba, palais nasrides et Generalife avec guide officiel). Ce qui compte, c''est le créneau des palais nasrides, pas l''opérateur.'
-- pregunta: Combien coûte une visite guidée de l'Alhambra ?
-  respuesta: Le parcours standard coûte de 49 à 99 € selon l'opérateur, pour le même contenu. La visite nocturne guidée coûte à partir de 54 € et la visite privée à partir de 280 €. L'entrée aux jardins du Generalife, sans les palais nasrides, à partir de 17,50 €.
-- pregunta: Combien de temps dure la visite guidée de l'Alhambra ?
-  respuesta: 'Environ 3 heures, avec 3-4 km à pied, des montées et des escaliers. La nocturne dure 90 minutes. Après la visite de jour, vous pouvez rester sur le site : le billet général est valable toute la journée.'
-- pregunta: Combien de temps à l'avance réserver la visite ?
-  respuesta: Dès que vous avez une date. L'accès aux palais nasrides est limité par créneau et, à Pâques, en été et pendant les ponts, il est complet des semaines à l'avance.
-- pregunta: Peut-on entrer avec une poussette ?
-  respuesta: Pas dans les palais nasrides. Il y a une consigne gratuite à l'entrée et des porte-bébés en prêt.
 opciones:
   - ficha: entrada-y-tour-guiado-alhambra
     etiqueta: Petit prix
@@ -59,7 +47,13 @@ opciones:
     etiqueta: De nuit
 ---
 
+Si vous avez cherché « visite Alhambra », vous avez vu une demi-douzaine de résultats aux noms différents — « coupe-file », « billets inclus », « petit groupe », « sans attente » — à des prix allant de 49 à 99 €. La mauvaise nouvelle : la plupart sont littéralement la même visite. La bonne : il suffit de deux minutes pour savoir laquelle il vous faut vraiment.
+
 ## Quel billet choisir ?
+
+### La « visite standard » : 6 offres, 1 seul produit
+
+Ces six offres décrivent le même parcours — Alcazaba, palais nasrides et Generalife, environ 3 heures, avec un guide officiel et un accès prioritaire à votre créneau attribué pour les palais nasrides :
 
 | Visite | Prix à partir de | Ce qu'il faut vraiment savoir |
 |---|---|---|
@@ -70,52 +64,43 @@ opciones:
 | [Visite guidée avec billets](/fr/cities/granada/activities/alhambra-visite-guidee-palais-nasrides-avec-billets) | 99 € | Même parcours, le prix le plus élevé du groupe |
 | [Sans attente, palais nasrides](/fr/cities/granada/activities/visite-guidee-alhambra-sans-attente-palais-nasrides) | 96 € | L'une des plus chères du groupe, sans différence de contenu qui le justifie |
 
-## Visite guidée de l'Alhambra : six visites, un même parcours
-
-Six visites aux noms différents (« sans file d'attente », « billets inclus », « petit groupe », « sans attente ») décrivent **le même parcours** : Alcazaba, palais nasrides et Generalife, environ **3 heures**, avec guide officiel et entrée au créneau attribué des palais.
-
-| Visite | Prix à partir de | Vraie différence |
-|---|---|---|
-| Visite guidée Alhambra et Generalife | 49 € | La moins chère. Répartition standard des trois zones |
-| Entrée et visite guidée | 50 € | Sans extras, temps libre à la fin |
-| Palais nasrides sans file d'attente | 53 € | Même parcours, prix moyen à élevé |
-| Alhambra en petit groupe | 65 € | Plus de temps au Generalife (environ 1 heure) |
-| Palais nasrides sans attente | 96 € | Aucune différence de contenu qui justifie le prix |
-| Visite guidée avec billets | 99 € | Même parcours, le prix le plus élevé |
+**Recommandation honnête** : pour cette visite standard, ce qui détermine vraiment votre expérience, c'est le créneau d'entrée attribué pour les palais nasrides (il est le même quel que soit l'opérateur), pas l'opérateur lui-même. Réservez celle de ces visites qui est la moins chère et disponible à votre date — généralement [Entrée et visite guidée](/en/cities/granada/activities/alhambra-entry-and-guided-tour) (50 €) ou [Visite guidée avec le Generalife](/fr/cities/granada/activities/visite-guidee-alhambra-palais-nasrides-generalife) (49 €). La seule vraie différence que nous avons trouvée, c'est que [la visite en petit groupe](/en/cities/granada/activities/alhambra-small-group-tour) passe plus de temps au Generalife, si les jardins comptent plus pour vous que les palais.
 
 [actividad: alhambra-entry-and-guided-tour]
 
-## Quelle visite guidée réserver (et le prix qui vaut la peine)
+### Les options vraiment différentes
 
-Ce qui détermine vraiment votre expérience, c'est **le créneau d'entrée aux palais nasrides**, attribué de la même façon où que vous achetiez, et non l'opérateur.
-
-- **Réservez l'option la moins chère disponible à votre date :** en général la visite guidée Alhambra et Generalife (49 €) ou l'entrée et visite guidée (50 €).
-- **Si les jardins comptent plus pour vous que les palais**, la visite en petit groupe passe plus de temps au Generalife.
-- **Payer 96-99 € ne donne pas plus de contenu**, seulement la même visite sous un autre nom.
-
-[actividad: entrada-y-tour-guiado-alhambra]
-
-## Les trois options vraiment différentes : nocturne, visite privée et jardins
-
-| Option | Prix à partir de | Pourquoi c'est différent |
+| Option | Prix à partir de | Pourquoi elle est différente |
 |---|---|---|
-| Visite nocturne guidée | 54 € | De nuit, 90 minutes au lieu de 3 heures, seulement les palais nasrides illuminés, avec une autre lumière et une autre ambiance |
-| Alhambra visite privée | 280 € | Un guide pour votre groupe seul, rythme et thèmes à votre mesure |
-| Entrée aux jardins du Generalife | 17,50 € | Sans palais nasrides : l'option si vous n'avez pas eu de créneau ou ne voulez que les jardins |
+| [Visite de nuit](/en/cities/granada/activities/alhambra-night-tour) | 54 € | Un autre créneau (le soir), 90 minutes au lieu de 3 heures, une ambiance et une lumière complètement différentes |
+| [Visite privée](/fr/cities/granada/activities/visite-privee-alhambra-palais-nasrides) | 280 € | Un guide rien que pour votre groupe, rythme et contenu adaptés à vous |
+| [Billet jardins du Generalife](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket) | 17,5 € | Sans accès aux palais nasrides — l'option si vous n'avez pas obtenu de créneau pour les palais ou si seuls les jardins vous intéressent |
+| [Entrée générale, sans guide](/en/cities/granada/activities/alhambra-general-admission-ticket) | 28 € | Tout le monument avec un créneau horaire pour les palais nasrides, à votre rythme |
 
-La **nocturne** n'inclut ni l'Alcazaba ni le Generalife, mais c'est la meilleure option s'il n'y a plus de billets de jour ou en plein mois d'août. Horaires et tarifs officiels dans [comment visiter l'Alhambra](/fr/guides/granada/alhambra-comment-la-visiter).
+Ce que chacune signifie en pratique :
 
-## Réservez à l'avance
+- **Visite de nuit.** Vous ne voyez que les palais nasrides illuminés et traversez le palais de Charles Quint ; l'Alcazaba et le Generalife sont fermés la nuit. C'est un complément à une visite de jour, pas un substitut. C'est aussi la solution de repli quand il n'y a plus de créneaux de jour, et une option plus fraîche en août.
+- **Visite privée.** Les 280 € s'entendent par personne : elle est donc surtout intéressante pour les familles ou les groupes de quatre personnes ou plus. L'opérateur indique qu'elle n'est pas adaptée aux personnes en fauteuil roulant.
+- **Billet jardins.** Generalife, Alcazaba, palais de Charles Quint et Bain de la Mosquée, sans les palais. Pour une première visite, ne vous en contentez pas, sauf si les palais sont complets à votre date.
+- **Entrée générale.** Les mêmes zones que les visites guidées, sans le guide. Le billet officiel coûte environ 22 € en ligne quand on en trouve (en 2026) ; les revendeurs sont plus chers mais ont souvent encore des créneaux quand le site officiel n'en a plus.
 
-Le goulot d'étranglement de l'Alhambra n'est pas le choix de la visite, mais l'obtention d'un créneau pour les palais nasrides : l'accès est limité par la loi à un nombre de visiteurs par tranche horaire et, en haute saison (Pâques, été, ponts), il est complet des semaines à l'avance. **Réservez dès que vous avez une date**, même si le reste du voyage reste flexible.
+## Ce qui compte vraiment : réserver à l'avance
 
-## Conseils pour le jour de la visite
+Le vrai goulet d'étranglement à l'Alhambra n'est pas le choix de la visite, mais l'obtention d'un créneau pour les palais nasrides : l'accès est plafonné par la loi pour chaque créneau, et en haute saison (Semaine sainte, été, ponts) il est complet plusieurs semaines à l'avance. Réservez dès que vos dates de voyage sont fixées, même si le reste de votre itinéraire reste flexible.
 
-- **Prenez la pièce d'identité ou le passeport de chacun**, enfants compris : les billets sont nominatifs et contrôlés aux palais nasrides. Sans document, vous n'entrez pas, même avec la visite payée.
-- **Point de rendez-vous :** presque toutes les visites donnent rendez-vous à l'entrée principale du site (Pabellón de Acceso, près du parking) ou dans le centre, Plaza Nueva ou Plaza Isabel la Católica, puis montent ensemble. Lisez l'e-mail de confirmation : il y a 25 minutes de montée entre les deux.
-- **Combien on marche :** environ 3 heures et 3-4 km, avec des montées et des escaliers. Chaussures confortables, eau et casquette ; à l'intérieur, il n'y a qu'une cafétéria et une fontaine.
-- **Poussettes et sacs :** les poussettes sont interdites dans les palais nasrides ; il y a une consigne gratuite à l'entrée et des porte-bébés en prêt. Les grands sacs à dos peuvent devoir aller à la consigne.
-- **Vous pouvez rester après la visite :** le billet général est valable toute la journée. Si le guide termine au Generalife, retournez à l'Alcazaba ou aux jardins du Partal tranquillement.
-- **Enfants et Dobla de Oro :** les moins de 12 ans ne paient pas mais ont besoin d'un billet ; avec la Dobla de Oro (30,48 €), vous voyez aussi le Bañuelo et les maisons arabes de l'Albaicín pendant trois jours.
+Deux points à vérifier avant de payer :
 
-Pour le reste de Grenade, l'itinéraire [Grenade en 2 jours](/en/guides/granada/granada-in-2-days) combine la visite de l'Alhambra avec l'Albaicín au coucher du soleil, le Sacromonte et la Chartreuse.
+- **Les remboursements sont partiels.** Les billets de l'Alhambra sont nominatifs et le monument ne les rembourse pas aux opérateurs. L'Entrée et visite guidée rembourse 60 % si vous annulez au moins 48 heures à l'avance ; la visite de nuit 60 % et la visite privée 50 % jusqu'à 24 heures avant. Les billets général et jardins ne sont pas remboursables.
+- **Les noms doivent correspondre.** On vous demandera le nom complet, la date de naissance et le numéro de pièce d'identité de chaque personne, enfants compris.
+
+## Le jour de votre visite
+
+- **Emportez la carte d'identité ou le passeport de chaque membre du groupe**, enfants compris. Les billets sont vérifiés avec la pièce d'identité aux palais nasrides ; sans le document, vous n'entrerez pas, même avec une visite payée.
+- **Repérez votre point de rendez-vous dans l'e-mail de confirmation.** La plupart des visites donnent rendez-vous à l'entrée principale (le Pabellón de Acceso, à côté du parking de l'Avenida del Generalife) ; quelques-unes se retrouvent dans le centre et montent ensemble à pied. Depuis le centre, comptez 20 à 25 minutes de montée par la Cuesta de Gomérez, ou prenez le minibus C30 depuis la Plaza Isabel la Católica. Arrivez 15 minutes à l'avance.
+- **Si vous y allez sans guide, soyez à l'entrée 30 minutes avant votre créneau pour les palais.** Il faut 10 à 15 minutes à pied de l'entrée aux palais, et un créneau manqué n'est pas remboursé.
+- **Comptez 3 heures et 3 à 4 km à pied**, avec des pentes et des escaliers. Portez des chaussures confortables et emportez de l'eau en été.
+- **Les poussettes ne sont pas autorisées** dans les palais nasrides, le Generalife, l'Alcazaba ni le Partal. Des porte-bébés sont prêtés au vestiaire de la Puerta del Vino.
+- **Les enfants de moins de 12 ans entrent gratuitement**, mais ont besoin de leur propre billet nominatif, réservé avec le vôtre.
+- **Vous pouvez rester ensuite.** Une fois la partie guidée terminée, vous êtes libre de parcourir les zones qui ne nécessitent pas d'entrée horodatée.
+
+Pour les horaires et l'achat des billets officiels sans visite guidée, consultez [comment visiter l'Alhambra](/fr/guides/granada/alhambra-comment-la-visiter). Pour l'intégrer à un voyage plus large, voyez [Grenade en 2 jours](/en/guides/granada/granada-in-2-days).

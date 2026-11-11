@@ -5,13 +5,13 @@ metaTitle: 'Sagrada Familia Tickets: Vergleich, mit Turm'
 categoria: "barcelona"
 slug: "sagrada-familia-welches-ticket-waehlen"
 fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"
 imagen_alt: "Fassade und Innenraum der Basilika Sagrada Família in Barcelona"
-tiempo_lectura: 3
+tiempo_lectura: 5
 keywords:
   - 'sagrada familia tickets vergleich'
   - 'sagrada familia welches ticket'
@@ -27,8 +27,7 @@ slugs:
   it: sagrada-familia-quale-biglietto-scegliere
   pt: sagrada-familia-que-bilhete-escolher
 reservasArriba: true
-intro: 'Ein **Sagrada Familia Tickets Vergleich** lohnt sich, denn die Basilika lässt sich auf sieben Arten buchen: drei Optionen nur für die Kirche, vom Ticket mit Audioguide bis zum Turmaufstieg, und vier Kombis mit dem **Park Güell** oder anderen Sehenswürdigkeiten. Drinnen warten das Kirchenschiff mit baumartigen Säulen, die **Glasfenster** und Gaudís Krypta. Rechne mit 1 Std. 30 mit Audioguide und etwa 2 Std. 30 mit Turm und Museum.'
-respuestaCorta: '**Sagrada Familia Tickets im Vergleich:** Offiziell kostet das Ticket **26 €** mit Audioguide und **36 €** mit Turm. Unter den buchbaren Optionen ist das **Ticket mit Audioguide ab 34 €** am günstigsten, die **Führung mit Turm (ab 75 €)** die einzige mit Turm, und die **Kombi mit Park Güell (ab 104 €)** deckt beides ab. **Eine Kasse gibt es nicht.**'
+respuestaCorta: 'Für die Basilika allein ist das **Ticket mit Audioguide ab 34 €** die günstigste buchbare Option, und die **Führung mit Turm (ab 75 €)** ist die einzige, bei der du auf einen Turm kommst. Wenn du den Park Güell dazunehmen willst, ohne den ganzen Tag zu verlieren, deckt die **vierstündige Kombi-Führung (ab 104 €)** beides ab. Buch Wochen im Voraus: Der Einlass läuft über Zeitfenster, und **an der Kasse gibt es keine Tickets**.'
 actividades:
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-tour-con-torre
@@ -44,17 +43,17 @@ opciones:
   - ficha: sagrada-familia-visita-guiada-grupo-reducido
     etiqueta: Kleine Gruppe
 faq:
-- pregunta: Welches Sagrada Familia Ticket ist das günstigste?
-  respuesta: Auf der offiziellen Website kostet das Basisticket mit Audioguide 26 €, mit Turm 36 € (Stand 2026). Unter den buchbaren Optionen ist das Ticket mit Audioguide ab 34 € das günstigste. Es lohnt sich vor allem, wenn die offizielle Website für deinen Tag ausverkauft ist.
-- pregunta: Kann ich mir aussuchen, auf welchen Turm ich gehe?
-  respuesta: Nein. Bei der Führung mit Turm geht es auf nur einen Turm, und die Basilika teilt ihn je nach Tag und Bauarbeiten zu (Geburts- oder Passionsfassade). Hoch geht es mit dem Aufzug, runter über eine enge Wendeltreppe.
-- pregunta: Dürfen Kinder auf die Türme?
-  respuesta: Kinder unter 6 Jahren dürfen nicht auf die Türme, auch nicht in Begleitung eines Erwachsenen. Auch für Personen mit eingeschränkter Mobilität sind die Türme nicht geeignet, weil der Abstieg über eine enge Wendeltreppe führt. Bei Regen oder Wind ist der Turm geschlossen.
-- pregunta: Ist bei der privaten Tagestour auch der Park Güell dabei?
-  respuesta: Nein. Die private Tagestour (ab 658 € pro Gruppe für 1-2 Personen) umfasst Montjuïc, das Gotische Viertel, den Passeig de Gràcia und die Sagrada Família, aber nicht den Park Güell. Wenn du beide Monumente willst, nimm eine der Kombi-Touren.
-- pregunta: Wie lange dauert ein Besuch der Sagrada Família?
-  respuesta: Etwa 1 Std. 30 mit Audioguide und etwa 2 Std. 30 mit Turm und Museum. Die Führung in kleiner Gruppe dauert 1 Std. 45 Min., die Kombi mit dem Park Güell 4 Stunden.
+  - pregunta: "Welches Sagrada Familia Ticket ist das günstigste?"
+    respuesta: "Auf der offiziellen Website kostet das Basisticket mit Audioguide-App 26 €, mit Turm 36 € (Stand 2026). Unter den buchbaren Optionen ist das Ticket mit Audioguide ab 34 € das günstigste. Es lohnt sich vor allem, wenn die offizielle Website für deinen Tag ausverkauft ist."
+  - pregunta: "Kann ich mir aussuchen, auf welchen Turm ich gehe?"
+    respuesta: "Nein. Bei der Führung mit Turm ist nur ein Turm geöffnet, und die Basilika teilt ihn je nach Tag und Bauarbeiten zu (Geburts- oder Passionsfassade). Hoch geht es mit dem Aufzug, runter über eine enge Wendeltreppe."
+  - pregunta: "Dürfen Kinder auf die Türme?"
+    respuesta: "Kinder unter 6 Jahren dürfen nicht auf die Türme, auch nicht in Begleitung eines Erwachsenen. Auch für Personen mit eingeschränkter Mobilität sind die Türme nicht geeignet, weil der Abstieg über eine enge Wendeltreppe führt."
+  - pregunta: "Ist bei der privaten Tagestour auch der Park Güell dabei?"
+    respuesta: "Nein. Die private Tagestour (ab 658 € pro Gruppe für 1-2 Personen) umfasst Montjuïc, das Gotische Viertel, den Passeig de Gràcia und die Sagrada Família, aber nicht den Park Güell. Wenn du beide Monumente willst, nimm eine der Kombi-Touren."
 ---
+
+Die Sagrada Família lässt sich auf sieben verschiedene Arten buchen. Drei Optionen gelten nur für die Basilika, vom Ticket mit Audioguide bis zur Führung mit Turmaufstieg. Vier weitere kombinieren sie mit dem Park Güell oder anderen Sehenswürdigkeiten, und nicht alle enthalten dasselbe. Hier vergleichen wir, was jedes Ticket wirklich bietet. Für offizielle Preise, Öffnungszeiten und typische Fehler beim Besuch lies unseren Ratgeber [Sagrada Familia Tickets und Besichtigung](/de/guides/barcelona/sagrada-familia-besichtigen).
 
 ## Welches Ticket wählen?
 
@@ -72,49 +71,48 @@ faq:
 | [Barcelona an einem Tag: Sagrada Família und Park Güell](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) | 129 € | 7 Std. | Montjuïc, Altstadt, Passeig de Gràcia + beide Monumente | Wer das Wichtigste von Barcelona an einem einzigen Tag sehen will |
 | [Das Beste von Barcelona privat, mit Sagrada Família](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | ab 658 €/Gruppe (1-2 Personen) | 7 Std. | Montjuïc, Gotisches Viertel, Passeig de Gràcia + Sagrada Família, **ohne Park Güell** | Wer eine private Tagestour mit Fokus auf den Rest der Stadt sucht |
 
-## Was kosten Sagrada Familia Tickets?
+## In 30 Sekunden entscheiden
 
-- **Offizielle Website (sagradafamilia.org):** Das Basisticket mit Audioguide kostet **26 €**, mit Turm **36 €**. Am günstigsten, wenn noch Plätze frei sind.
-- **Buchbare Optionen:** teurer, weil sie Guide, kleine Gruppe oder bevorzugten Einlass dazugeben, und oft noch verfügbar, wenn das offizielle Ticket ausverkauft ist. Alle enthalten **Einlass ohne Anstehen**.
+- **Nur die Basilika, knappes Budget:** Ticket mit Audioguide (34 €).
+- **Du willst auf einen Turm:** Das geht nur mit der Führung mit Turm (75 €).
+- **Kleine Gruppe ohne Turm:** Führung in kleiner Gruppe (99 €).
+- **Park Güell auch, aber nicht den ganzen Tag:** Kombi-Führung (104 €), 4 Stunden.
+- **Ganz Barcelona an einem Tag:** die Tagestour (129 €).
+- **Alles privat:** Die private Tagestour (ab 658 €) enthält die Sagrada Família, aber nicht den Park Güell.
 
-2026 sind die Vormittagszeitfenster Wochen im Voraus weg, die Türme noch früher. **An einer Kasse werden keine Tickets verkauft.**
+## Was die Kombi-Touren wirklich enthalten
+
+Die vier Kombi-Angebote sehen ähnlich aus, laufen in der Basilika aber unterschiedlich ab:
+
+- **Führung Sagrada Família + Park Güell (104 €):** Der Guide geht mit dir in beide Monumente. Start ist um 10:00 Uhr am Park Güell (Carrer d'Olot, 24), mit Transfer zur Basilika. Maximal 16 Personen; nicht für Rollstühle geeignet.
+- **Barcelona an einem Tag (129 €):** Beide Eintritte sind inklusive, aber der Guide erklärt die Sagrada Família nur von außen. Den Innenraum besuchst du allein mit der Audioguide-App. Treffpunkt um 9:00 Uhr an der Rambla 97, keine Hotelabholung. Bewertung 4,9/5 aus über 15.000 Bewertungen.
+- **Die Privattour** umfasst Hotelabholung, privaten Transport und einen privaten Guide, aber nicht den Park Güell.
 
 [actividad: sagrada-familia-park-guell-tour-guiado]
 
-## Tickets nur für die Basilika
+## Lohnt sich ein Ticket über einen Wiederverkäufer?
 
-- **Ticket mit Audioguide (ab 34 €, 1-2 Std.):** auf eigene Faust, Audioguide in 16 Sprachen. Die günstigste Option, im eigenen Tempo.
-- **Führung mit Turmaufstieg (ab 75 €, 1 Std. 30-2 Std.):** Guide plus optionaler Turmaufstieg. **Die einzige buchbare Option mit Turm.**
-- **Führung in kleiner Gruppe (ab 99 €, 1 Std. 45 Min.):** Guide, kleine Gruppe und barrierefreier Zugang. Für alle, denen eine kleine Gruppe wichtiger ist als der Preis.
+Die offizielle Website verkauft das Basisticket mit Audioguide-App für 26 € und das Ticket mit Turm für 36 € (Stand 2026); mit offizieller Führung sind es 30 €, mit Turm 40 €. Kinder unter 11 Jahren sind frei. Die buchbaren Optionen kosten mehr, weil sie einen Guide, eine kleine Gruppe oder ein zweites Monument dazupacken. Der Hauptvorteil des Tickets für 34 € ist die Verfügbarkeit, wenn die offizielle Website ausverkauft ist. Wenn dein Tag offiziell noch frei ist und du keinen Guide brauchst, kauf dort. Wenn nicht, findest du alle Alternativen in [Sagrada Familia Tickets ausverkauft](/de/guides/barcelona/sagrada-familia-tickets-ausverkauft).
 
-## Sagrada Família und Park Güell zusammen
+## Die Türme
 
-- **Führung Sagrada Família + Park Güell (ab 104 €, 4 Std.):** nur diese beiden Monumente, mit Guide. Beide sehen, ohne den ganzen Tag zu opfern.
-- **Barcelona an einem Tag (ab 129 €, 7 Std.):** Montjuïc, Altstadt und Passeig de Gràcia plus beide Monumente.
-- **Das Beste von Barcelona privat (ab 658 € pro Gruppe für 1-2 Personen, 7 Std.):** Montjuïc, Gotisches Viertel, Passeig de Gràcia und Sagrada Família. **Ohne Park Güell.**
-
-## In 30 Sekunden entscheiden
-
-- **Nur die Basilika, knappes Budget:** Ticket mit Audioguide.
-- **Du willst auf einen Turm:** die Führung mit Turm.
-- **Kleine Gruppe ohne Turm:** die Führung in kleiner Gruppe.
-- **Auch der Park Güell, ohne den ganzen Tag:** die Kombi-Führung.
-- **Ganz Barcelona an einem Tag:** der Tagesausflug.
-- **Alles privat:** die private Tagestour, die aber nicht in den Park Güell führt.
-
-## Das Ticket mit Turm: was du wissen musst
-
-Du kommst auf **nur einen Turm** und wählst ihn nicht selbst: Das Monument teilt ihn je nach Tag und Bauarbeiten zu. Hoch geht es mit dem Aufzug, runter über eine **enge Wendeltreppe**. **Kinder unter 6** und Personen mit eingeschränkter Mobilität dürfen nicht hinauf, und **bei Regen oder Wind ist er geschlossen**.
-
-Der Aufstieg hat begrenzte Plätze und schließt manchmal wegen Wartung: Ist er der Hauptgrund für deinen Besuch, prüf die Verfügbarkeit vor dem Buchen.
+- **Den Turm suchst du dir nicht aus.** Bei der Führung mit Turm ist nur ein Turm geöffnet, und die Basilika teilt ihn je nach Tag und Bauarbeiten zu (Geburts- oder Passionsfassade).
+- **Hoch mit dem Aufzug, runter zu Fuß.** Der Abstieg führt über eine enge Wendeltreppe, deshalb sind die Türme für Personen mit eingeschränkter Mobilität nicht zugänglich.
+- **Keine Kinder unter 6 Jahren**, auch nicht in Begleitung eines Erwachsenen.
+- **Bei Regen und starkem Wind** oder Wartungsarbeiten sind sie geschlossen. Die Plätze sind begrenzt: Wenn der Turm der Hauptgrund deines Besuchs ist, prüf die Verfügbarkeit vor dem Buchen.
 
 [actividad: sagrada-familia-tour-con-torre]
 
-## Tipps vor dem Besuch
+## Bevor du hingehst
 
-- **Einlass mit Zeitfenster:** 15 Minuten Spielraum ab der gebuchten Uhrzeit. Nimm Ausweis oder Pass mit: Die Tickets sind personalisiert, und es wird kontrolliert.
-- **Kleiderordnung:** Es ist eine aktive Basilika. Kein Einlass mit nackten Schultern, Spaghettiträgern, tiefem Ausschnitt, Hosen oder Röcken über der Mitte des Oberschenkels oder mit Kappe. Im Sommer ein Tuch einpacken.
-- **Das Licht:** Zwischen 10 und 12 Uhr fällt es durch die Fenster der Geburtsfassade (Grün und Blau), am späten Nachmittag durch die der Passionsfassade (Rot und Orange).
-- **Anreise:** Metro Sagrada Família (L2 und L5), Ausgang direkt am Platz. Der Besuchereingang liegt in der Carrer de la Marina, an der Geburtsfassade.
+- **Früh buchen.** Tickets gibt es nur online und mit Zeitfenster. 2026, im Gaudí-Jahr, sind die Vormittage Wochen im Voraus ausverkauft, die Türme noch früher.
+- **Pünktlich sein.** Du kannst bis zu 15 Minuten nach Beginn deines Zeitfensters hinein.
+- **Ausweis mitnehmen.** Die Tickets sind personalisiert; am Eingang wird Personalausweis oder Reisepass verlangt.
+- **Kleiderordnung:** Die Sagrada Família ist eine aktive Kirche. Kein Einlass mit freien Schultern, dünnen Trägern, tiefem Ausschnitt, Hosen oder Röcken über Mitte Oberschenkel oder mit Kappe. Im Sommer gehört ein Tuch in den Rucksack.
+- **Bestes Licht:** Zwischen 10:00 und 12:00 Uhr fällt das Licht durch die grünen und blauen Fenster der Geburtsfassade, am späten Nachmittag durch die roten und orangen der Passionsfassade. Wenn du nur eins wählen kannst: den Nachmittag.
+- **Anfahrt:** Metro Sagrada Família (L2 und L5), der Ausgang liegt direkt am Platz. Der Besuchereingang ist an der Carrer de la Marina, an der Geburtsfassade.
+- **Dauer:** 1,5 Stunden für den Innenraum mit Audioguide, 2,5 Stunden mit Turm und Museum.
 
-Öffnungszeiten, Stunde der Stille und was du drinnen siehst, steht in [Sagrada Família besichtigen](/de/guides/barcelona/sagrada-familia-besichtigen). Für den Park Güell vergleichen wir die Tickets in [welches Park-Güell-Ticket du wählen solltest](/de/guides/barcelona/park-guell-welches-ticket-waehlen).
+## Was du beim Buchen wissen solltest
+
+Alle Optionen enthalten den Eintritt ohne Anstehen in die Sagrada Família. Die private Tagestour (ab 658 €) enthält den Park Güell nicht: Wenn du beide Monumente willst, nimm eine der anderen Kombi-Touren. Bei den Touren ist die Stornierung bis 24 Stunden vorher kostenlos; beim Ticket mit Audioguide musst du 48 Stunden vorher stornieren. Wenn du den Park Güell lieber auf eigene Faust besuchst, vergleichen wir die Tickets in [Park Güell Tickets: Preise und welches Ticket du brauchst](/de/guides/barcelona/park-guell-welches-ticket-waehlen).

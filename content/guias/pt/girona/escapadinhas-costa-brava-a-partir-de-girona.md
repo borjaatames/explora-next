@@ -4,12 +4,12 @@ descripcion: 'As melhores escapadinhas a partir de Girona: Figueres e o Teatro-M
 categoria: girona
 slug: escapadinhas-costa-brava-a-partir-de-girona
 fecha: '2026-05-12'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-27"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 4
+tiempo_lectura: 3
 keywords:
 - escapadinhas a partir de girona
 - costa brava
@@ -17,16 +17,16 @@ keywords:
 - teatro-museu dalí figueres
 - besalú
 faq:
-- pregunta: Como ir de Girona a Figueres e ao Teatro-Museu Dalí sem carro?
-  respuesta: 'De comboio: é a única escapadinha que se faz bem de transporte público (15 minutos de AVE, 30-35 de regional). A visita guiada ao Teatro-Museu Dalí custa desde 31 €, dura 1 hora e inclui a entrada sem passar pela bilheteira; para ver o museu inteiro conte com 2 horas. Na época alta os bilhetes por faixa horária esgotam: reserve com alguns dias de antecedência.'
-- pregunta: Pode-se ir a Cadaqués desde Girona sem carro?
-  respuesta: 'Cadaqués fica a 1 h 15 de carro e o transporte público chega mal. A alternativa mais cómoda é o barco desde Roses pelo Cap de Creus, desde 27 €: cerca de 3 h 30 no total, com 1 h 30 livre em Cadaqués. Além disso, evita os 20 minutos de curvas da estrada desde Roses.'
-- pregunta: É preciso reservar a casa de Dalí em Portlligat?
-  respuesta: Sim. A Casa-Museu de Portlligat, em Cadaqués, só se visita com reserva prévia, em grupos reduzidos que entram a cada 10 minutos, e sem marcação não entra nem na época baixa. Não está incluída no barco Roses–Cadaqués nem na visita ao Teatro-Museu de Figueres.
-- pregunta: Que escapadinhas a partir de Girona se podem combinar no mesmo dia?
-  respuesta: 'Figueres e Besalú combinam bem: Figueres fica a 15 minutos de AVE (30-35 de regional) e Besalú a 45 de carro. Cadaqués ou as enseadas da Costa Brava, pelo contrário, ocupam um dia inteiro.'
-- pregunta: Quando convém ir às enseadas de Begur e Calella de Palafrugell no verão?
-  respuesta: Ficam a cerca de 50 minutos de Girona de carro, mas os parques de estacionamento são pequenos e em julho e agosto enchem por volta das 10:30. Chegue antes das 9:00, use os autocarros vaivém que Begur põe no verão ou vá ao fim da tarde, quando a luz é melhor.
+  - pregunta: "Como ir de Girona a Figueres e ao Teatro-Museu Dalí sem carro?"
+    respuesta: "De comboio: Figueres fica a cerca de 40 minutos de Girona e é a única escapadinha que se faz bem de transportes públicos. A visita guiada ao Teatro-Museu Dalí custa desde 31 €, dura 1 hora e inclui a entrada sem passar pela bilheteira; para ver o museu inteiro conte com 2 horas. Na época alta os bilhetes por horário esgotam, por isso reserve com alguns dias de antecedência."
+  - pregunta: "É possível ir a Cadaqués a partir de Girona sem carro?"
+    respuesta: "Cadaqués fica a 1h15 de carro e os transportes públicos chegam mal. A alternativa mais cómoda é o barco a partir de Roses pelo Cap de Creus, desde 27 €: são cerca de 3h30 no total, com 1h30 livre em Cadaqués. Além disso, poupa os 20 minutos de curvas da estrada a partir de Roses."
+  - pregunta: "É preciso reservar a casa de Dalí em Portlligat?"
+    respuesta: "Sim. A Casa-Museu de Portlligat, em Cadaqués, só se visita com reserva prévia, em grupos reduzidos que entram de 10 em 10 minutos, e sem marcação não entra nem na época baixa. Não está incluída no barco Roses–Cadaqués nem na visita ao Teatro-Museu de Figueres: reserve-a à parte."
+  - pregunta: "Que escapadinhas a partir de Girona se podem combinar no mesmo dia?"
+    respuesta: "Figueres e Besalú combinam-se bem: Figueres fica a 15 minutos de AVE (30-35 de regional) e Besalú a 45 de carro. Cadaqués ou as enseadas da Costa Brava, pelo contrário, ocupam um dia inteiro, por isso não as junte com outra escapadinha distante."
+  - pregunta: "Quando convém ir às enseadas de Begur e Calella de Palafrugell no verão?"
+    respuesta: "Ficam a cerca de 50 minutos de Girona de carro, mas os parques de estacionamento são pequenos e em julho e agosto enchem por volta das 10h30. Chegue antes das 9h00, use os autocarros-vaivém que Begur põe a circular no verão ou vá ao fim da tarde, que é também quando há melhor luz."
 slugs:
   es: escapadas-costa-brava-desde-girona
   en: costa-brava-day-trips-from-girona
@@ -35,8 +35,7 @@ slugs:
   it: gite-costa-brava-da-girona
   pt: escapadinhas-costa-brava-a-partir-de-girona
 reservasArriba: true
-intro: 'As **escapadinhas a partir de Girona** são a melhor razão para dormir na cidade: é a base perfeita para a **Costa Brava**. Em menos de uma hora chega ao Teatro-Museu Dalí de Figueres, a aldeias medievais como Besalú, Pals e Peratallada, às ruínas gregas de Empúries e às enseadas mais bonitas do litoral, de Calella de Palafrugell a Begur. Um pouco mais longe esperam Cadaqués, o Cap de Creus e Tossa de Mar.'
-respuestaCorta: 'Escapadinhas a partir de Girona: o **Teatro-Museu Dalí de Figueres** fica a 15 minutos de AVE (30-35 de regional), **Besalú** a 45 de carro e **Cadaqués** a 1 h 15. Sem carro, o mais cómodo é o comboio para Figueres com visita guiada ao Dalí (desde 31 €) ou o barco Roses–Cadaqués pelo Cap de Creus (desde 27 €).'
+respuestaCorta: 'A partir de Girona tem o **Teatro-Museu Dalí de Figueres** a 15 minutos de AVE (30-35 de regional), **Besalú** a 45 de carro e **Cadaqués** a 1h15. Sem carro, o mais cómodo é ir de comboio a Figueres e fazer a visita guiada ao Teatro-Museu Dalí (desde 31 €), ou um plano de barco, como Roses–Cadaqués pelo Cap de Creus (desde 27 €).'
 actividades:
   - costa-brava-kayak-esnorquel-cuevas-sagaro
   - roses-cadaques-barco-cap-de-creus
@@ -48,6 +47,8 @@ actividades:
 imagen_portada: "/images/guias/escapadas-costa-brava-desde-girona.jpg"
 imagen_alt: "A Vila Vella de Tossa de Mar sobre a praia"
 ---
+
+**Girona é a melhor base para a Costa Brava.** Em menos de uma hora tem o Dalí de Figueres e Cadaqués, aldeias medievais como Besalú e as enseadas mais bonitas do litoral.
 
 ## Excursões com tudo organizado
 
@@ -61,55 +62,42 @@ imagen_alt: "A Vila Vella de Tossa de Mar sobre a praia"
 | A partir de Barcelona, grupo reduzido | [Girona, Pals e Calella de Palafrugell em grupo reduzido](/en/cities/girona/activities/girona-costa-brava-small-group-hotel-pickup), 4,8★ (2.096) | 98,5 € |
 | Tossa de Mar a partir de Barcelona | [Tossa de Mar e a Costa Brava num dia](/en/cities/girona/activities/tossa-de-mar-costa-brava-day-trip-from-barcelona), 4,9★ (596) | 39 € |
 
-## Escapadinhas a partir de Girona num relance
+As duas últimas partem de Barcelona, não de Girona. Se dormir em Girona, as que lhe servem são o caiaque, os barcos e a visita ao Dalí.
 
-| Destino | Desde Girona | Ideal para |
+## Escapadinhas por conta própria
+
+| Destino | A partir de Girona | Ideal para |
 | --- | --- | --- |
-| Figueres | 15 min de AVE, 30-35 de regional | O Teatro-Museu Dalí |
-| Besalú | 45 min (carro) | Aldeia medieval e ponte românica |
+| Figueres | 40 min (comboio) | O Teatro-Museu Dalí |
+| Cadaqués e Cap de Creus | 1h15 (carro) | Vila branca e casa de Dalí |
+| Besalú | 45 min (carro) | Vila medieval e ponte românica |
 | Calella de Palafrugell / Begur | 50 min (carro) | Enseadas e centro piscatório |
-| Empúries (L'Escala) | 50 min (carro) | Ruínas gregas e romanas |
 | Tossa de Mar | 1 h (carro) | Recinto amuralhado junto ao mar |
-| Cadaqués e Cap de Creus | 1 h 15 (carro) | Vila branca e casa de Dalí |
+| Empúries (L'Escala) | 50 min (carro) | Ruínas gregas e romanas |
 
-Figueres faz-se de comboio. Para Cadaqués, as aldeias e as enseadas é preciso **carro ou uma excursão organizada**: o transporte público chega mal.
+- **Dalí:** o Teatro-Museu de Figueres, Cadaqués e a casa de Portlligat complementam-se.
+- **Aldeias medievais:** Besalú, Pals e Peratallada.
+- **Enseadas:** Calella de Palafrugell, Llafranc, Tamariu e as de Begur (Sa Riera, Aiguablava).
 
-## Figueres e o Teatro-Museu Dalí
+## O que deve saber antes de sair
 
-É a escapadinha mais fácil e a única que funciona bem sem carro. O **Teatro-Museu Dalí** fica a 15 minutos a pé da estação.
+- **O Teatro-Museu Dalí de Figueres** custa desde 18,50 € (2026; grátis até aos 8 anos), com entrada por horário que **esgota na época alta**: reserve-a no site oficial na semana anterior. São 2 horas; o quadro de Lincoln e a Sala Mae West são o que todos procuram. Fica a 15 minutos a pé da estação.
+- **A casa de Dalí em Portlligat** (Cadaqués) só se visita com reserva prévia, em grupos reduzidos de 10 em 10 minutos. Sem reserva não entra nem na época baixa.
+- **Cadaqués no verão:** o único acesso é uma estrada de curvas e a vila fecha o centro ao trânsito. Chegue antes das 10h00 ou deixe o carro no parque da entrada e vá a pé.
+- **As enseadas de Begur e Palafrugell** têm parques de estacionamento pequenos que enchem às 10h30 em julho e agosto. Ou chega às 9h00, ou usa os autocarros-vaivém que Begur põe a circular no verão, ou vai ao fim da tarde, que é quando há melhor luz.
+- **Empúries:** 7 € (grátis no primeiro domingo do mês, exceto em julho, agosto e setembro, e para menores de 16). Leve fato de banho: a praia fica colada às ruínas.
+- **Besalú:** a ponte e o bairro são gratuitos; o micvé (banho judaico medieval) só se vê com a visita guiada do posto de turismo, que convém reservar.
 
-- **Entrada:** desde **18,50 €** (2026; grátis até aos 8 anos), com faixa horária que **esgota na época alta**. Reserve no site oficial na semana anterior.
-- **Visita guiada:** desde **31 €**, 1 hora, com entrada sem passar pela bilheteira.
-- **Tempo:** cerca de **2 horas** para ver tudo. O quadro de Lincoln e a Sala Mae West são o que todos procuram.
+## Como se deslocar
 
-## Cadaqués e a casa de Dalí em Portlligat
+Figueres faz-se de comboio. Para Cadaqués, as aldeias e as enseadas é preciso carro ou uma excursão organizada: os transportes públicos chegam mal.
 
-**Cadaqués**, a vila branca do Cap de Creus, completa a rota de Dalí juntamente com Figueres e a **Casa-Museu de Portlligat**.
+## Erros a evitar
 
-- **A casa de Portlligat** visita-se **só com reserva prévia**, em grupos reduzidos a cada 10 minutos. Sem marcação não entra nem na época baixa, e não está incluída noutros planos.
-- **De carro:** o único acesso é uma estrada de curvas (20 minutos desde Roses) e no verão a vila fecha o centro ao trânsito. Chegue antes das 10:00 ou deixe o carro no parque da entrada e vá a pé.
-- **De barco:** desde Roses pelo Cap de Creus, cerca de 3 h 30 no total com 1 h 30 livre em Cadaqués. Evita a estrada, ideal se alguém enjoa.
+1. **Não reservar o Museu Dalí nem a casa de Portlligat:** ambos esgotam na época alta e o segundo não admite visitas sem marcação.
+2. **Meter duas escapadinhas distantes no mesmo dia:** Cadaqués ou as enseadas já ocupam um dia inteiro; Figueres e Besalú podem combinar-se.
+3. **Ir às enseadas ao meio-dia em agosto:** não há estacionamento; vá cedo ou ao fim do dia.
+4. **Confiar nos transportes públicos para a costa:** a Figueres chega o comboio, mas a Cadaqués, Begur ou Besalú vai-se de carro ou com excursão organizada.
+5. **Conduzir até Cadaqués com crianças que enjoam:** são 20 minutos de curvas a partir de Roses. O barco a partir de Roses evita a estrada e passa pelo Cap de Creus.
 
-[actividad: roses-cadaques-barco-cap-de-creus]
-
-## Besalú e as aldeias medievais
-
-**Besalú**, a 45 minutos, é a grande aldeia medieval da zona, com a sua ponte românica. A ponte e o bairro são grátis; o **micvé** (banho judaico medieval) só se vê com a visita guiada do posto de turismo, que convém reservar.
-
-Na mesma linha, **Pals** e **Peratallada** são aldeias de pedra que encaixam bem a caminho da costa. Figueres e Besalú combinam-se no mesmo dia.
-
-## As enseadas da Costa Brava, Tossa de Mar e Empúries
-
-- **Enseadas:** Calella de Palafrugell, Llafranc, Tamariu e as de Begur (Sa Riera, Aiguablava). Os parques são pequenos e em julho e agosto enchem por volta das **10:30**: chegue antes das 9:00, use os autocarros vaivém que Begur põe no verão ou vá ao fim da tarde, quando a luz é melhor.
-- **Desde o mar:** caiaque e snorkel pelas grutas de S'Agaró, ou barco às **ilhas Medes** desde L'Estartit.
-- **Tossa de Mar:** a Vila Vella amuralhada sobre a praia, a uma hora de carro.
-- **Empúries (L'Escala):** ruínas gregas e romanas por **7 €** (grátis para menores de 16 e no primeiro domingo do mês, exceto em julho, agosto e setembro). Leve fato de banho: a praia fica colada às ruínas.
-
-## Dicas para organizar as escapadinhas
-
-- **Reserve o Museu Dalí e a casa de Portlligat:** os dois esgotam na época alta e a segunda não admite visitas sem marcação.
-- **Não meta duas escapadinhas longe no mesmo dia:** Cadaqués ou as enseadas já enchem um dia.
-- **Evite as enseadas ao meio-dia em agosto:** não há estacionamento.
-- **Não confie no transporte público para a costa:** a Figueres chega o comboio, mas a Cadaqués, Begur ou Besalú vai-se de carro ou em excursão.
-- **Se dormir em Barcelona,** há excursões de um dia que combinam Girona, Figueres e Cadaqués, ou Pals e Calella de Palafrugell.
-- Para a cidade, veja [o que ver em Girona num dia](/pt/guides/girona/o-que-ver-em-girona-num-dia).
+Para a cidade, veja [o que ver em Girona num dia](/pt/guides/girona/o-que-ver-em-girona-num-dia).

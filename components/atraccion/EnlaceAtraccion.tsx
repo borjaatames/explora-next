@@ -18,20 +18,11 @@ const TEXTOS: Record<Idioma, { titulo: (n: string) => string; texto: string }> =
 };
 
 /** Enlace destacado a la página de la atracción (desde guías y fichas). */
-export default function EnlaceAtraccion({
-  idioma,
-  enlace,
-  enColumna = false,
-}: {
-  idioma: Idioma;
-  enlace: Enlace | null;
-  /** Dentro de la columna de lectura de la guía: sin contenedor propio. */
-  enColumna?: boolean;
-}) {
+export default function EnlaceAtraccion({ idioma, enlace }: { idioma: Idioma; enlace: Enlace | null }) {
   if (!enlace) return null;
   const t = TEXTOS[idioma];
   return (
-    <div className={enColumna ? "" : "mx-auto max-w-3xl px-4 py-6"}>
+    <div className="mx-auto max-w-3xl px-4 py-6">
       <Link
         href={enlace.url}
         className="group flex items-center justify-between gap-4 rounded-xl border border-anil-100 bg-anil-50 p-5 transition-all hover:border-anil-400 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"

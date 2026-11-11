@@ -1,12 +1,11 @@
 ---
 titulo: "PortAventura World : guide pour le visiter (billets, parcs et astuces)"
 descripcion: "Guide de PortAventura World : les trois parcs (PortAventura, Ferrari Land, Caribe), billets et nombre de jours, comment éviter les files, avec des enfants et comment y aller depuis Tarragone ou Barcelone."
-intro: '**PortAventura World** est l''un des plus grands complexes de parcs d''attractions d''Europe et la grande sortie en famille de la Costa Daurada. Il réunit trois parcs : **PortAventura Park**, avec six mondes thématiques et des montagnes russes comme Shambhala et Dragon Khan ; **Ferrari Land**, avec Red Force ; et le **Caribe Aquatic Park**, ouvert l''été. Il a sa propre gare à 10 minutes de Tarragone, et chaque parc demande une journée.'
-respuestaCorta: 'PortAventura World compte trois parcs : PortAventura Park, Ferrari Land et Caribe Aquatic Park (l''été seulement). Comptez **un jour par parc** ; le billet PortAventura avec une entrée à Ferrari Land coûte **dès 55 €**. La saison 2026 finit avec Noël, **du 20 novembre au 6 janvier 2027**. **Gare propre** à 10 minutes de Tarragone.'
+respuestaCorta: 'PortAventura World compte trois parcs : PortAventura Park, Ferrari Land et le Caribe Aquatic Park, uniquement en été. Comptez **une journée par parc** ; le billet pour PortAventura avec une entrée à Ferrari Land coûte **à partir de 55 €**. La saison 2026 se termine avec Noël, **du 20 novembre 2026 au 6 janvier 2027**, et le resort dispose de **sa propre gare** à 10 minutes de Tarragone.'
 categoria: "tarragona"
 slug: "portaventura-world-guide-de-visite"
 fecha: "2026-05-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
@@ -30,18 +29,9 @@ reservasArriba: true
 actividades:
   - portaventura-ferrari-caribe-aquatic-entrada
   - portaventura-ferrari-land-entrada
-faq:
-- pregunta: Combien coûtent les billets PortAventura ?
-  respuesta: En ligne, le billet 1, 2 ou 3 jours pour PortAventura Park avec une entrée à Ferrari Land coûte dès 55 € ; avec Caribe Aquatic Park, dès 76 €. Gratuit pour les moins de 3 ans. Express Pass, repas et parking ne sont pas inclus.
-- pregunta: Combien de jours faut-il pour PortAventura World ?
-  respuesta: Un jour par parc. PortAventura Park demande une journée complète ; Ferrari Land est plus petit et peut se combiner avec une demi-journée dans le parc principal, et le Caribe Aquatic Park n'ouvre qu'en été.
-- pregunta: Quelle taille faut-il pour les grandes montagnes russes ?
-  respuesta: 1,40 m pour Shambhala, Dragon Khan, Furius Baco et Red Force ; 1,20-1,30 m pour les attractions intermédiaires. À SésamoAventura, pas de minimum ou 0,90 m.
-- pregunta: Comment aller à PortAventura en train ?
-  respuesta: La gare Renfe PortAventura est à côté du complexe, à environ 10 minutes de Tarragone et à un peu plus d'une heure de Barcelone. En voiture, sortie directe par l'AP-7/N-340 et grand parking.
-- pregunta: Peut-on apporter son repas à PortAventura ?
-  respuesta: Oui, nourriture et boissons sont autorisées, sans contenant en verre. À l'intérieur, un menu coûte 15-20 € et il y a des files de 13 h 30 à 15 h.
 ---
+
+**PortAventura World est l'un des plus grands complexes de loisirs d'Europe**, et la grande sortie familiale de la Costa Daurada, à deux pas de Tarragone. Mais il est si grand qu'il vaut mieux s'organiser : savoir quel parc choisir, combien de jours y consacrer et comment éviter les files fait la différence entre une journée réussie et une journée épuisante. Ce guide vous donne les réponses.
 
 ## Billets pour PortAventura
 
@@ -49,49 +39,65 @@ faq:
 | --- | --- | --- |
 | [Billet PortAventura et Ferrari Land de 1, 2 ou 3 jours](/en/cities/tarragona/activities/portaventura-ferrari-land-ticket) | 4,3★ (2 697) | 39 € |
 
-## Les trois parcs de PortAventura World
+La règle d'or : **une journée par parc**. Vouloir tout voir en une journée, c'est la recette pour finir sur les rotules sans avoir fait le meilleur.
 
-**PortAventura Park** est le parc principal et l'incontournable. Il compte six zones thématiques : Mediterrània, Far West, México, China, Polynesia et **SésamoAventura**, pour les plus petits. C'est là que se trouvent les montagnes russes vedettes, **Dragon Khan** et **Shambhala**, ainsi que Furius Baco. Comptez une journée complète.
+## Les trois parcs
 
-**Ferrari Land** est le parc consacré à Ferrari, avec **Red Force**, les montagnes russes les plus hautes et les plus rapides d'Europe (de 0 à 180 km/h). Plus petit, il se combine avec une demi-journée dans le parc principal ou se fait à part. Pour les amateurs de vitesse.
+| Parc | Ce que c'est | Pour qui |
+| --- | --- | --- |
+| PortAventura Park | Le parc principal, 6 mondes thématiques | Tout le monde ; l'incontournable |
+| Ferrari Land | Parc Ferrari, avec Red Force | Les amateurs de vitesse |
+| Caribe Aquatic Park | Parc aquatique (été) | Les jours de chaleur |
 
-Le **Caribe Aquatic Park** est le parc aquatique, ouvert seulement l'été : idéal par forte chaleur.
+**PortAventura Park.** Six zones thématiques (Mediterrània, Far West, México, China, Polynesia et SésamoAventura pour les plus petits). C'est ici que se trouvent les montagnes russes phares : **Dragon Khan** et **Shambhala**. Une journée complète.
 
-La règle d'or : **un jour par parc**. Vouloir tout voir en une journée, c'est finir épuisé sans avoir fait le meilleur.
+**Ferrari Land.** Le parc dédié à Ferrari, avec **Red Force**, les montagnes russes les plus hautes et les plus rapides d'Europe (de 0 à 180 km/h). Il est plus petit ; on le combine avec une demi-journée dans le parc principal ou on le fait à part.
 
-## Billets PortAventura : prix, horaires et Express Pass
+**Caribe Aquatic Park.** Le parc aquatique, ouvert en été : idéal pour les journées les plus chaudes.
 
-- **Prix (en ligne) :** billet 1, 2 ou 3 jours pour PortAventura Park avec une entrée à Ferrari Land, **dès 55 €** ; avec Caribe Aquatic Park, **dès 76 €** (intéressant seulement l'été). **Gratuit pour les moins de 3 ans.** Aucun n'inclut l'Express, les repas ni le parking ; annulation gratuite jusqu'à 3 jours avant.
-- **Achetez en ligne :** vous évitez la file au guichet et assurez votre date. Pour deux parcs, mieux vaut deux jours.
-- **Horaires :** ouverture à **10 h** et fermeture entre 19 h et 20 h en moyenne saison ; en juillet et août, jusqu'à minuit, avec spectacle nocturne.
-- **Express Pass :** vendu à part, en formule un passage par attraction ou illimitée ; le prix varie selon le jour. Les week-ends de pont et en août, il vaut le coup ; en semaine en mai ou juin, non.
-- **Hôtels du complexe :** ils incluent l'entrée au parc les jours de séjour et un accès anticipé à Shambhala. Pour deux jours, comparez avec un hôtel extérieur plus les billets.
+## Billets et nombre de jours
 
-[actividad: portaventura-ferrari-land-entrada]
+> **Astuce :** achetez vos billets **en ligne** (vous évitez la file au guichet) et pensez à l'**Express Pass** pour éviter les files sur les attractions les plus demandées les jours d'affluence. Si vous logez dans les **hôtels du resort**, vous bénéficiez généralement d'un accès anticipé au parc.
 
-## PortAventura avec des enfants
+Il existe des billets de 1, 2 ou 3 jours et des billets combinés (PortAventura + Ferrari Land). Pour deux parcs, mieux vaut deux jours.
 
-La zone **SésamoAventura** est pensée pour les plus petits, avec des attractions douces et les personnages de 1, rue Sésame. Avant de faire la queue pour les grandes, vérifiez les **tailles minimales** :
+## L'essentiel pratique : prix, horaires et tailles minimales
 
-- **1,40 m :** Shambhala, Dragon Khan, Furius Baco et Red Force.
-- **1,20-1,30 m :** les attractions intermédiaires.
-- **SésamoAventura :** pas de minimum ou 0,90 m.
+- **Prix (en ligne) :** le billet de 1, 2 ou 3 jours pour PortAventura Park avec une entrée à Ferrari Land, à partir de 55 € ; avec le Caribe Aquatic Park, à partir de 76 € (intéressant seulement en été, quand le parc aquatique est ouvert). Gratuit pour les moins de 3 ans. Aucun n'inclut l'Express, les repas ni le parking ; annulation gratuite jusqu'à 3 jours avant.
+- **Horaires :** ouverture à 10 h et fermeture entre 19 h et 20 h en moyenne saison ; en juillet et août, jusqu'à minuit, avec spectacle nocturne. Les deux premières heures sont celles où il y a le moins de queue : entrez à 10 h pile et allez directement aux grandes attractions (Shambhala, Dragon Khan, Furius Baco).
+- **Express Pass :** il s'achète à part et existe en version un passage par attraction ou illimitée ; le prix varie selon le jour. Il est rentable les week-ends de pont et en août ; en semaine en mai ou en juin, non.
+- **Tailles minimales :** 1,40 m pour Shambhala, Dragon Khan, Furius Baco et Red Force ; 1,20-1,30 m pour les attractions intermédiaires ; SésamoAventura, sans minimum ou 0,90 m. Mesurez les enfants avant de leur promettre quoi que ce soit.
+- **Repas :** on peut entrer avec de la nourriture et des boissons (pas de verre). À l'intérieur, un menu coûte 15-20 € et il y a la queue de 13 h 30 à 15 h ; mangez à 12 h 30 ou après 15 h 30.
+- **Casiers et sacs :** il y a des consignes payantes près de l'entrée (6-10 €). Sur les montagnes russes, sacs et téléphones non attachés sont interdits.
+- **Hôtels du resort :** ils incluent l'entrée au parc pendant les jours de séjour et un accès anticipé à Shambhala. Si vous restez deux jours, comparez avec un hôtel extérieur plus les billets.
 
-Mesurez-les avant de promettre quoi que ce soit. On peut entrer avec nourriture et boissons (sans verre) : à l'intérieur, un menu coûte 15-20 € et il y a des files de 13 h 30 à 15 h, donc mangez à 12 h 30 ou après 15 h 30.
+## Avec des enfants
 
-## Comment aller à PortAventura
+La zone **SésamoAventura** est pensée pour les plus petits, avec des attractions douces et les personnages de Sesame Street. Vérifiez les **tailles minimales** des grandes montagnes russes avant de faire la queue : beaucoup sont interdites aux jeunes enfants.
 
-- **En train :** la gare Renfe **PortAventura** est juste à côté du complexe, à environ **10 minutes de Tarragone** et à un peu plus d'une heure de Barcelone.
-- **En voiture :** sortie directe par l'AP-7/N-340, avec un grand parking.
+## Comment y aller
 
-## Quand y aller et conseils
+**En train**, la gare **PortAventura** (Renfe) est juste à côté : à environ 10 minutes de Tarragone et à un peu plus d'une heure de Barcelone. **En voiture**, sortie directe par l'AP-7/N-340 et grand parking.
 
-En 2026, **Halloween** a lieu du 19 septembre au 15 novembre et **Noël** du 20 novembre 2026 au 6 janvier 2027, dernière période de la saison et l'une des meilleures. L'ouverture 2027 n'est pas encore annoncée. Ferrari Land et Caribe ont leur propre calendrier : consultez le calendrier officiel sur portaventuraworld.com avant d'acheter.
+## Quand y aller
 
-- **Arrivez à l'ouverture :** les deux premières heures sont les moins chargées. Entrez à 10 h et filez vers Shambhala, Dragon Khan et Furius Baco.
-- **Évitez les week-ends et les ponts**, ou prenez l'Express Pass : les files explosent.
-- **Casiers :** consignes payantes près de l'entrée (6-10 €). Interdit de monter dans les montagnes russes avec un sac ou un téléphone non attaché.
-- **Ne tentez pas deux parcs le même jour** et ne combinez pas avec la Tarragone romaine : chacun mérite sa journée.
-- **Ferrari Land et le Caribe sont à part**, avec billet et saison distincts.
+En 2026, **Halloween** va du 19 septembre au 15 novembre et **Noël**, du 20 novembre 2026 au 6 janvier 2027, dernière période de la saison (l'un des meilleurs moments) ; l'ouverture 2027 n'est pas encore annoncée. Les jours et horaires changent, et Ferrari Land et le Caribe ont leur propre calendrier : consultez le calendrier officiel sur portaventuraworld.com avant d'acheter. Évitez les **week-ends et les ponts** si vous le pouvez : les files explosent. Arrivez à l'ouverture.
 
-Pour ajouter la ville un autre jour, voir [Tarragone en un jour](/fr/guides/tarragona/tarragone-en-un-jour).
+## Ce que nous ne recommandons PAS
+
+1. **Tenter deux parcs en une journée.** On n'a pas le temps ; une journée par parc.
+2. **Le combiner avec la Tarragone romaine le même jour.** Chacun demande sa journée.
+3. **Y aller un week-end de pont sans Express Pass.** Des files interminables.
+4. **Ne pas vérifier les tailles minimales** si vous venez avec des enfants.
+
+## Erreurs fréquentes
+
+> **Attention :** les faux pas que nous voyons le plus.
+
+1. **Acheter au guichet.** En ligne, vous évitez la file d'entrée et vous assurez votre date.
+2. **Arriver tard.** La première heure est celle où il y a le moins de queue.
+3. **Oublier que Ferrari Land et le Caribe sont à part** (billet ou saison différents).
+
+## En une phrase
+
+PortAventura World, c'est une journée (ou plus) de montagnes russes et d'amusement à deux pas de Tarragone, de préférence un parc par jour et avec le billet acheté en ligne. Nous le mentionnons comme sortie en famille dans [Tarragone en un jour](/fr/guides/tarragona/tarragone-en-un-jour).

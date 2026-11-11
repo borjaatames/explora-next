@@ -5,13 +5,13 @@ metaTitle: 'Bilhetes Sagrada Família esgotados: e agora?'
 categoria: barcelona
 slug: sagrada-familia-bilhetes-esgotados
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/guias/sagrada-familia-entradas-agotadas.jpg
 imagen_alt: Fachada do Nascimento da Sagrada Família de Barcelona
-tiempo_lectura: 3
+tiempo_lectura: 4
 keywords:
   - 'bilhetes sagrada família esgotados'
   - 'sagrada família sem bilhetes'
@@ -27,8 +27,7 @@ slugs:
   it: sagrada-familia-biglietti-esauriti
   pt: sagrada-familia-bilhetes-esgotados
 reservasArriba: true
-intro: 'Encontrar os **bilhetes da Sagrada Família esgotados** é comum no verão e na Páscoa, mas não significa ficar à porta. A basílica de Gaudí, com a nave de colunas em forma de árvore, os **vitrais coloridos** e a cripta onde está sepultado, pode ser visitada por outras vias e, mesmo sem entrar, as suas duas fachadas valem o passeio. A visita ao interior leva de 1 h 30 a 2 horas.'
-respuestaCorta: 'Os **bilhetes da Sagrada Família** saem **cerca de dois meses antes** e não há bilheteira. Se estiverem **esgotados**, volte a ver o site e a app (libertam-se alterações e reembolsos), experimente os **códigos QR** à volta do templo ou reserve um **tour com entrada incluída** (lote próprio). A **missa internacional** é gratuita, mas não é uma visita.'
+respuestaCorta: 'Os bilhetes oficiais são postos à venda **cerca de dois meses antes** e não há bilheteira. Se estiverem esgotados, volte a consultar o site e a app (libertam-se trocas e devoluções), experimente os **códigos QR de compra** à volta do templo se ainda houver lotação, ou reserve um **tour com entrada incluída**, que tem quota própria. A **missa internacional** de domingo às 9h00 é gratuita, mas não é uma visita.'
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
   - entrada-sagrada-familia-audioguia
@@ -37,16 +36,14 @@ actividades:
   - barcelona-un-dia-sagrada-familia-park-guell
   - sagrada-familia-tour-con-torre
 faq:
-- pregunta: Dá para comprar bilhetes da Sagrada Família à porta?
-  respuesta: Não há bilheteira. À volta da basílica há códigos QR de compra direta, mas só funcionam se houver lugar nesse momento, e na época alta o normal é não haver.
-- pregunta: Com quanta antecedência saem os bilhetes?
-  respuesta: Segundo o site oficial, cerca de dois meses antes. Para julho, agosto, Páscoa e fins de semana prolongados, compre-os assim que saírem.
-- pregunta: Dá para entrar de graça na Sagrada Família na missa?
-  respuesta: 'A missa internacional de domingos e feriados às 9:00 e a de sábado às 20:00 são de entrada livre com lotação limitada, pela fachada da Natividade. É uma celebração religiosa, não uma visita: não se pode percorrer o templo nem tirar fotografias durante a missa.'
-- pregunta: O que acontece se chegar atrasado ao meu horário?
-  respuesta: 'O bilhete só vale para a hora escolhida e, se chegar tarde, não o deixam entrar. Chegue com margem: antes há um controlo de segurança.'
-- pregunta: Quanto custa um tour com entrada incluída?
-  respuesta: 'Mais do que o bilhete oficial de 26 €: o bilhete com audioguia em revenda custa desde 34 €, o tour guiado com torre desde 75 €, a visita guiada em grupo reduzido desde 99 € e o tour com o Park Güell desde 104 €.'
+- pregunta: É possível comprar bilhetes da Sagrada Família à entrada?
+  respuesta: Não há bilheteira. À volta da basílica há códigos QR de compra direta, mas só funcionam se ainda houver lotação nesse momento e, na época alta, o normal é que não haja.
+- pregunta: Com quanta antecedência são postos à venda os bilhetes?
+  respuesta: Segundo o site oficial, com cerca de dois meses de antecedência. Para julho, agosto, Semana Santa e fins de semana prolongados, compre-os assim que saírem.
+- pregunta: É possível entrar de graça na Sagrada Família durante a missa?
+  respuesta: 'A missa internacional de domingos e feriados às 9h00 e a de sábado às 20h00 são de entrada livre com lotação limitada, pela fachada do Nascimento. É uma celebração religiosa, não uma visita: não se pode percorrer o templo nem tirar fotografias durante a missa.'
+- pregunta: O que acontece se chegar atrasado à minha hora?
+  respuesta: 'O bilhete só é válido para a hora escolhida e, se chegar atrasado, não o deixam entrar. Chegue com margem: antes há um controlo de segurança.'
 opciones:
   - ficha: entrada-sagrada-familia-audioguia
     etiqueta: A mais barata
@@ -55,6 +52,8 @@ opciones:
   - ficha: sagrada-familia-visita-guiada-grupo-reducido
     etiqueta: Grupo reduzido
 ---
+
+A Sagrada Família vende os bilhetes **só online e com hora marcada**, com cerca de **dois meses de antecedência**, e no verão, na Semana Santa e em fins de semana prolongados os bons horários desaparecem assim que saem. Se o site oficial disser «esgotado», ainda há opções, e convém experimentá-las por esta ordem.
 
 ## Que bilhete escolher?
 
@@ -65,62 +64,50 @@ opciones:
 | Sagrada Família e Park Güell | [Tour dos dois sem filas](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour), 4,8★ (6.776) | 104 € |
 | Com subida a uma torre | [Tour guiado com torre](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access), 4,4★ (5.518) | 75 € |
 
-## Preços e quando saem os bilhetes
+## 1. Volte a consultar o site e a app oficiais
 
-A Sagrada Família vende **só online e com hora marcada**, em sagradafamilia.org, cerca de **dois meses antes**. No verão, na Páscoa e em fins de semana prolongados, os bons horários esgotam assim que saem.
+O bilhete básico custa **26 €** em `sagradafamilia.org` (30 € com visita guiada, 36 € com torre e 40 € com guia e torre). Se estiver esgotado:
 
-- **Básico:** 26 €.
-- **Com visita guiada:** 30 €.
-- **Com torre:** 36 €.
-- **Com guia e torre:** 40 €.
+- **Veja vários dias seguidos.** As trocas e devoluções pedem-se com 48 horas de antecedência, por isso vão-se libertando lugares avulsos.
+- **Experimente a app oficial**, que vende os mesmos bilhetes e é mais prática para consultar com frequência.
+- **Seja flexível com a hora:** as primeiras da manhã e as do fim do dia são as mais procuradas.
+- **Se for em grupo, separem-se:** costuma haver vagas para uma ou duas pessoas mesmo que não haja quatro seguidas.
 
-Se chegar tarde ao seu horário, não o deixam entrar, e antes há um controlo de segurança: chegue com margem.
+## 2. Os códigos QR do templo
 
-## Bilhetes de última hora: site, app e códigos QR
+Não há bilheteira, mas à volta da basílica há **códigos QR de compra direta**. Só funcionam se nesse momento ainda houver lotação, por isso é uma opção para a época baixa ou para as primeiras horas, não um plano seguro em agosto.
 
-Se o site oficial disser «esgotado», não desista à primeira:
+## 3. Um tour com entrada incluída
 
-- **Veja vários dias seguidos.** As alterações e reembolsos pedem-se com 48 horas de antecedência, por isso libertam-se lugares soltos.
-- **Experimente a app oficial**, que vende os mesmos bilhetes e é mais prática para ver muitas vezes.
-- **Seja flexível com a hora:** os primeiros horários da manhã e os últimos do dia são os mais procurados.
-- **Em grupo, separem-se:** costuma haver lugares para uma ou duas pessoas mesmo quando não há quatro juntos.
+Os operadores autorizados compram as suas quotas com antecedência, por isso costumam ter lugares quando o site oficial já não tem. Custam mais do que o bilhete oficial, mas incluem a entrada com hora marcada e, nos guiados, a explicação do simbolismo das fachadas e dos vitrais.
 
-**Não há bilheteira**, mas à volta da basílica há **códigos QR de compra direta**. Só funcionam se houver lugar nesse momento: servem na época baixa ou logo de manhã, não como plano seguro em agosto.
-
-## Tour da Sagrada Família com entrada incluída
-
-Os operadores autorizados compram os seus lotes com antecedência, por isso costumam ter lugares quando o site oficial já não tem. Custam mais do que o bilhete oficial, mas incluem a entrada com hora e, nos guiados, a explicação do simbolismo das fachadas e dos vitrais:
-
-- **Bilhete com audioguia em revenda:** desde 34 €.
-- **Tour guiado com subida a uma torre:** desde 75 €.
-- **Visita guiada em grupo reduzido:** desde 99 €.
-- **Tour sem filas da Sagrada Família e do Park Güell:** desde 104 €.
-
-Antes de pagar, confirme que diz **«entrada incluída»** e que a visita é **ao interior**: há passeios que só veem as fachadas por fora.
+Antes de pagar, confirme que a ficha diz **«entrada incluída»** e que a visita é **ao interior**: há passeios que só veem as fachadas por fora.
 
 [actividad: sagrada-familia-visita-guiada-grupo-reducido]
 
-## Missa na Sagrada Família: entrar sem bilhete
+## 4. As missas internacionais
 
-A **missa internacional** de domingos e feriados às **9:00** e a de sábado às **20:00** são de **entrada livre com lotação limitada**, pela fachada da Natividade (Carrer de la Marina). É celebrada em várias línguas.
+A **missa internacional** de domingos e feriados às **9h00** e a de sábado às **20h00** são de **entrada livre com lotação limitada**, pela fachada do Nascimento (rua de la Marina). É celebrada em várias línguas.
 
-É uma celebração religiosa, não uma visita: entra na nave, mas não pode percorrer o templo, subir às torres nem tirar fotografias durante a missa, e pede-se respeito e roupa adequada. Chegue cedo, porque a lotação esgota.
+É uma celebração religiosa, não uma visita: entra na nave, mas não pode percorrer o templo nem subir às torres, e pede-se respeito e roupa adequada. Chegue com tempo, porque a lotação esgota.
 
-## Sagrada Família sem bilhetes: o que se vê por fora
+## 5. O que vê por fora
 
-Mesmo sem entrar, vale o passeio:
+Mesmo sem entrar, a Sagrada Família merece o passeio:
 
-- A **fachada da Natividade**, a de Gaudí, melhor de manhã a partir da Plaça de Gaudí, com o lago à frente.
-- A **fachada da Paixão**, a partir da Plaça de la Sagrada Família, com as esculturas angulosas de Subirachs.
-- A **Avinguda de Gaudí**, que liga o templo ao Hospital de Sant Pau, outra obra modernista que costuma ter bilhetes.
+- A **fachada do Nascimento**, a de Gaudí, melhor de manhã a partir da praça de Gaudí, com o lago à frente.
+- A **fachada da Paixão**, a partir da praça da Sagrada Família, com as esculturas angulosas de Subirachs.
+- A **avenida de Gaudí**, que liga o templo ao Hospital de Sant Pau, outra obra modernista que costuma ter bilhetes.
 
-Se procura Gaudí por dentro, a **Casa Batlló** e **La Pedrera** vendem bilhetes com mais margem.
+Se o que quer é Gaudí por dentro, a **Casa Batlló** e **La Pedrera** vendem bilhetes com mais margem.
 
 ## Erros a evitar
 
-1. **Comprar em sites que imitam o oficial.** Cobram taxas extra.
+1. **Comprar em sites que imitam o oficial.** Cobram taxas extra. O oficial é `sagradafamilia.org`.
 2. **Reservar um tour sem confirmar que entra no templo.** Os passeios «exteriores» são mais baratos por alguma razão.
-3. **Chegar mesmo à hora.** O bilhete só vale para o seu horário e há controlo de segurança.
+3. **Chegar à justa.** O bilhete só é válido para a sua hora e há controlo de segurança.
 4. **Ir de calções ou com os ombros à mostra.** Há código de vestuário e podem recusar-lhe a entrada.
 
-Horários, que torre subir e o que ver lá dentro: está tudo em [como visitar a Sagrada Família](/pt/guides/barcelona/sagrada-familia-como-visitar).
+## Numa frase
+
+Se o site oficial estiver esgotado, volte a consultá-lo durante vários dias, experimente os QR do templo e, se não tiver sorte, reserve um tour com entrada incluída; o resto está em [como visitar a Sagrada Família](/pt/guides/barcelona/sagrada-familia-como-visitar).

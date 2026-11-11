@@ -5,14 +5,14 @@ metaTitle: "Puerto de Valencia en crucero: qué hacer en la escala"
 categoria: "valencia"
 slug: "puerto-valencia-cruceros-que-hacer"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-11-01"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/valencia/mar/veles-e-vents.webp"
 imagen_alt: "El edificio Veles e Vents en la Marina de València, junto al puerto, con veleros amarrados delante"
-tiempo_lectura: 5
+tiempo_lectura: 6
 keywords:
   - "puerto de valencia cruceros"
   - "terminal de cruceros valencia al centro"
@@ -28,8 +28,7 @@ slugs:
   it: porto-crociere-valencia-cosa-fare
   pt: porto-de-valencia-cruzeiros
 reservasArriba: true
-intro: 'El **puerto de Valencia** recibe **cruceros** en la terminal Trasmed, en su entrada norte, a unos 5 km del casco antiguo. Es una escala muy agradecida: resuelto el trayecto, el Mercado Central, la Lonja de la Seda, la Catedral y el barrio del Carmen caben en un paseo de pocas horas, y con más tiempo llegas a la Ciudad de las Artes y las Ciencias o a la playa.'
-respuestaCorta: 'Los cruceros del puerto de Valencia atracan en la **terminal Trasmed**, a **unos 5 km del casco antiguo**. Lo más práctico es el **taxi** (15-20 min, unos 12-15 €); el **bus EMT** (líneas 4 y 95, **2 €**) para a 10 minutos andando. Con **4 horas** ves Mercado Central, Lonja y Catedral; con 8, súmale la Ciudad de las Artes.'
+respuestaCorta: 'Los cruceros atracan junto a la **terminal de pasajeros Trasmed**, en la entrada norte del puerto, a **unos 5 km del casco antiguo**: no se va andando. Lo más práctico es el **taxi** (15-20 minutos, unos 12-15 €) o la lanzadera de tu naviera; el **bus EMT** (líneas 4 y 95, **2 €**) sale de una parada a 10 minutos a pie. Con **4 horas** ves el Mercado Central, la Lonja y la Catedral; con 8, súmale la Ciudad de las Artes o una paella en la playa.'
 faq:
   - pregunta: "¿Se puede ir andando del puerto de Valencia al centro?"
     respuesta: "No es recomendable: el casco antiguo está a unos 5 km de la terminal. Andando sí llegas en 20-25 minutos a las playas de Las Arenas y el Cabanyal, y en unos 20 minutos a la parada del Bus Turístic en la Marina."
@@ -50,52 +49,62 @@ actividades:
   - valencia-tour-privado-dia-completo-lonja-paella
 ---
 
+Valencia es una escala muy agradecida, pero con una trampa: **el puerto no está al lado del casco antiguo**. Hay unos 5 km entre la terminal y la Catedral, así que la clave es resolver bien el trayecto. Una vez allí, todo lo que importa (el Mercado Central, la Lonja, la Catedral y el Carmen) cabe en un paseo de pocas horas.
+
 ## ¿Dónde atraca el barco en Valencia?
 
 Los cruceros usan la **terminal de pasajeros Trasmed**, del grupo Grimaldi, en la **entrada norte del puerto**, la parte más cercana a la ciudad y de acceso libre. Los atraques de cruceros para 2026 son el muelle Transversal y el de Poniente, junto a la terminal, para barcos de menos de 300 metros.
 
-Si tu barco atraca en un muelle más alejado del puerto comercial, la naviera pone un autobús hasta la terminal. Desde ahí sale todo el transporte.
+Si tu barco atraca en un muelle más alejado dentro del puerto comercial, la naviera pone un autobús hasta la terminal. Desde ahí sale todo el transporte.
 
-## Terminal de cruceros de Valencia al centro: taxi o autobús
+## Cómo llegar al centro
 
 | Opción | Tiempo | Precio | Ten en cuenta |
 | --- | --- | --- | --- |
 | Taxi o VTC | 15-20 min | Unos 12-15 € | Parada señalizada a la salida de la terminal; también Uber, Cabify y Bolt |
-| Bus EMT, línea 4 | Unos 45 min hasta las Torres de Serranos | 2 € | Parada 1306, a unos 10 min a pie |
+| Bus EMT, línea 4 | Unos 45 min hasta las Torres de Serranos | 2 € el billete sencillo | Parada 1306, a unos 10 min a pie |
 | Lanzadera de la naviera | Variable | La fija la naviera | Pregunta dónde para y si cobra |
 | A pie | Más de una hora | Gratis | No compensa; sí para ir a la playa |
 
-- **Taxi:** la mejor opción en cuanto sois dos o más. La tarifa de 2026 tiene una bajada de bandera de **2 €** y **1,36 €/km** de día (2,60 € y 1,48 € de noche y en festivos). Pide que te deje en la **plaza de la Reina**, junto a la Catedral.
-- **Autobús:** sale de la parada **1306, Pont de les Drassanes – Terminal marítima**. La **línea 4** va hacia la plaza del Ayuntamiento y la **95**, hacia la playa y la Marina. Billete sencillo, **2 €**.
+- **El taxi** es la mejor opción en cuanto sois dos o más. La tarifa de 2026 tiene una bajada de bandera de 2 € y 1,36 € por kilómetro de día (2,60 € y 1,48 € de noche y en festivos). Pide que te deje en la **plaza de la Reina**, junto a la Catedral.
+- **El bus** sale de la parada **1306, Pont de les Drassanes – Terminal marítima**. La **línea 4** va hacia la plaza del Ayuntamiento y la **95**, hacia la playa y la Marina. El billete sencillo cuesta **2 €**.
 - **A pie** llegas a las playas de Las Arenas y el Cabanyal (20-25 minutos) y a la parada del Bus Turístic en la Marina (unos 20 minutos).
 
-## Valencia en crucero: qué ver en 4, 6 u 8 horas
+## Qué ver en 4, 6 u 8 horas
 
-- **4 horas:** taxi a la plaza de la Reina. **Catedral y Miguelete**, plaza de la Virgen, **Lonja de la Seda** y **Mercado Central** (no el domingo).
-- **6 horas:** lo anterior, más el **barrio del Carmen**, las **Torres de Serranos** y una comida de paella.
-- **8 horas:** centro por la mañana y **Ciudad de las Artes y las Ciencias** por la tarde (queda entre el puerto y el centro, más cerca del puerto); o centro y paella en la playa, a un paso del puerto. El Oceanogràfic necesita al menos 2-3 horas: resérvalo online en temporada alta (desde 37 €).
+| Horas en tierra | Plan | Qué reservar |
+| --- | --- | --- |
+| 4 horas | Taxi a la plaza de la Reina. Catedral y Miguelete, plaza de la Virgen, Lonja de la Seda y Mercado Central (no el domingo) | Tour privado de 2 horas por el centro histórico, desde 48 € por persona |
+| 6 horas | Lo anterior, más el barrio del Carmen, las Torres de Serranos y una comida de paella | Tour privado de 4 horas con la Lonja y horchata, desde 88 € por persona |
+| 8 horas | Centro por la mañana y Ciudad de las Artes y las Ciencias por la tarde; o centro y paella en la playa, que está a un paso del puerto | Entrada al Oceanogràfic, desde 37 € |
 
-**Precios orientativos:** Catedral y Miguelete, **9 €** con audioguía (de lunes a sábado, de 10:30 a 18:30); Lonja de la Seda, **2 €**; Torres de Serranos y de Quart, **2 €** cada una, gratis los domingos.
+Precios orientativos de los monumentos: Catedral y Miguelete, 9 € con audioguía (de lunes a sábado, de 10:30 a 18:30); Lonja de la Seda, 2 €; Torres de Serranos y de Quart, 2 € cada una, gratis los domingos.
 
-Si quieres guía, los tours privados empiezan en las **Torres de Serranos**, a unos 15 minutos en taxi del puerto, y ninguno recoge en el barco. El de **2 horas** por el centro histórico cuesta desde unos 48 € por persona en pareja (unos 27 € si sois 4); el de 4 horas con la Lonja y horchata, desde unos 88 € (59 € si sois 4). Si preferís no andar, el tuk-tuk privado de 1 hora sale desde 30 € por persona, hasta 8 personas.
-
-[actividad: valencia-tour-privado-2-horas-centro-historico]
-
-Para dos días en la ciudad, mira [Valencia en 2 días](/guias/valencia/valencia-en-2-dias); para elegir arrocería, [dónde comer paella en Valencia](/guias/valencia/comer-en-valencia-paella).
+Los tours privados empiezan en las **Torres de Serranos**, a unos 15 minutos en taxi del puerto. El de **4 horas con la Lonja y horchata** sale desde unos **88 € por persona** en pareja y **59 € si sois 4**.
 
 [actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
 
+Si vas justo de tiempo, la versión de **2 horas** cuesta desde unos 48 € por persona en pareja (unos 27 € si sois 4). Y si preferís no andar, el **tuk-tuk privado de 1 hora** (desde 30 € por persona, hasta 8 personas) recorre el centro sin esfuerzo.
+
+[actividad: valencia-tour-privado-2-horas-centro-historico]
+
+Con 8 horas, la **Ciudad de las Artes y las Ciencias** queda entre el puerto y el centro, más cerca del puerto. El Oceanogràfic necesita al menos 2-3 horas: resérvalo online en temporada alta.
+
 [actividad: oceanografic-valencia-entrada]
+
+Para dos días en la ciudad, mira [Valencia en 2 días](/guias/valencia/valencia-en-2-dias); para elegir arrocería, [dónde comer paella en Valencia](/guias/valencia/comer-en-valencia-paella).
 
 ## Excursión del barco o por tu cuenta
 
-En Valencia no hace falta salir de la ciudad: todo lo importante se ve por tu cuenta o con un tour a pie.
+En Valencia no hace falta salir de la ciudad, así que la comparación cambia respecto a Málaga o Cádiz:
 
-- **Excursión de la naviera:** el barco **espera a sus propias excursiones** si hay retraso.
-- **Tour privado en el centro** (desde 48 € por persona, 2 horas): tú controlas la hora de vuelta, pero el barco no espera.
-- **Por tu cuenta:** taxi y entradas. Todo el riesgo es tuyo, aunque el trayecto es corto.
+| Opción | Precio | ¿Y si hay retraso? |
+| --- | --- | --- |
+| Excursión de la naviera | La que marque tu naviera | El barco espera a sus propias excursiones |
+| Tour privado en el centro | Desde 48 € por persona (2 horas) | Tú controlas la hora de vuelta; el barco no espera |
+| Por tu cuenta | Taxi y entradas | Todo el riesgo es tuyo, pero el trayecto es corto |
 
-Con un tour de 2 a 4 horas en el centro, el riesgo real es la vuelta: deja margen para el taxi.
+El barco solo espera a las excursiones que vende la naviera. Con un tour privado de 2 a 4 horas en el centro, el riesgo real es el trayecto de vuelta: deja margen para el taxi.
 
 ## ¿A qué hora volver al barco?
 
@@ -104,14 +113,18 @@ Con un tour de 2 a 4 horas en el centro, el riesgo real es la vuelta: deja marge
 - Si tu barco atraca lejos de la terminal, cuenta también con el autobús interno de la naviera.
 - Lleva la tarjeta del barco y un documento de identidad.
 
-## Domingos, festivos y errores típicos
-
-Si tu escala cae en domingo, cambia el orden: Ciudad de las Artes o playa por la mañana y Catedral por la tarde.
+## Domingos y festivos
 
 - **Mercado Central:** cerrado el domingo; abre de lunes a sábado de 7:30 a 15:00.
 - **Lonja de la Seda:** gratis los domingos y festivos, pero cierra por la tarde.
 - **Catedral y Miguelete:** el domingo solo se visitan por la tarde.
-- **No intentes ir andando al centro:** son unos 5 km por zona portuaria.
-- **Paella, al mediodía:** en Valencia es plato de comida, no de cena.
-- **No combines Oceanogràfic y casco antiguo con 4 horas:** no da tiempo a las dos cosas.
-- **No esperes el bus de vuelta a última hora:** con dos o más personas, el taxi sale casi igual y es más rápido.
+- **Torres de Serranos y de Quart:** gratis los domingos.
+- Si tu escala cae en domingo, cambia el orden: Ciudad de las Artes o playa por la mañana y Catedral por la tarde.
+
+## Errores típicos
+
+1. **Intentar ir andando al centro.** Son unos 5 km por zona portuaria.
+2. **Planear el Mercado Central un domingo.** Está cerrado.
+3. **Pedir paella para cenar a última hora.** En Valencia es plato de mediodía: cómela al mediodía y vuelve con margen.
+4. **Ir al Oceanogràfic y al casco antiguo con 4 horas.** No da tiempo a las dos cosas.
+5. **Esperar el bus de vuelta a última hora.** Con dos o más personas, el taxi sale casi igual y es más rápido.

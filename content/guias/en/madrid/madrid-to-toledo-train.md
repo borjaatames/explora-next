@@ -5,14 +5,14 @@ metaTitle: 'Madrid to Toledo train: times and fares'
 categoria: madrid
 slug: madrid-to-toledo-train
 fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/actividades/madrid/vista-panoramica-toledo/vista-panoramica-toledo-aerial-view-historic-cityscape-hero.webp
 imagen_alt: Panoramic view of Toledo, with the cathedral and the Alcázar above the bend of the Tagus
-tiempo_lectura: 5
+tiempo_lectura: 6
 keywords:
   - madrid to toledo train
   - how to get to toledo from madrid
@@ -28,8 +28,7 @@ slugs:
   it: treno-madrid-toledo
   pt: comboio-madrid-toledo
 reservasArriba: true
-intro: 'The **Madrid to Toledo train** is the quickest way to reach the city of three cultures: Toledo sits 70 km from Madrid on a bend of the Tagus, with its Cathedral, Alcázar, synagogues and mosques packed into a medieval old town you can explore on foot in a day. There are also buses, driving and organised trips; here is which suits you and how to get up to the old town.'
-respuestaCorta: 'The **Madrid to Toledo train** (Avant) leaves **Madrid-Puerta de Atocha-Almudena Grandes** and takes **about 33 minutes**, roughly hourly, for **around €22-26 return**. Toledo station is outside the old town: go up by **city bus (€1.40)**, taxi or a 20-25 minute uphill walk. Cheapest option: the **Alsa bus from Plaza Elíptica**, from €6.55 and 50 minutes.'
+respuestaCorta: 'The **Avant high-speed train runs from Madrid-Puerta de Atocha-Almudena Grandes to Toledo in about 33 minutes**, roughly once an hour, for **about €22–26 return** (approx.; fares vary with how early you book). Toledo station is outside the old town: take **city bus 5 or 61/62 (€1.40)**, a taxi, or walk 20–25 minutes uphill. The budget option is the **Alsa bus from Plaza Elíptica: from €6.55 and 50 minutes on a direct service**.'
 actividades:
   - excursion-toledo-dia-completo
   - toledo-pulsera-turistica-7-monumentos
@@ -39,16 +38,16 @@ actividades:
   - excursion-toledo-segovia-avila
   - excursion-chinchon-aranjuez-toledo
 faq:
-- pregunta: How long is the train from Madrid to Toledo?
-  respuesta: The direct Avant takes about 33 minutes between Madrid-Puerta de Atocha-Almudena Grandes and Toledo station. Renfe advertises it as "about 30 minutes". Add 15-20 minutes to get from the station up to the old town.
-- pregunta: How much is the Madrid to Toledo train?
-  respuesta: 'Roughly €13-16 one way and €22-26 return on the standard fare, depending on the train and how far ahead you book. Renfe doesn''t publish a fixed fare table for this route: the exact price shows up when you search on renfe.com or in the Renfe app.'
-- pregunta: Which Madrid station does the Toledo train leave from?
-  respuesta: From Madrid-Puerta de Atocha-Almudena Grandes, the high-speed part of Atocha, not the Cercanías commuter platforms. There is a luggage check before the platform, so arrive 15-20 minutes early. There is no Cercanías line to Toledo.
-- pregunta: Is the train or the bus better for Toledo?
-  respuesta: 'The train if you want speed: 33 minutes versus 50 minutes on the direct bus. The bus if you want the lowest price (from €6.55 one way), if trains are sold out or if you want to come back late, as Alsa runs departures well into the evening.'
-- pregunta: How do I get from Toledo train station to the centre?
-  respuesta: By Unauto city bus from the Paseo de la Rosa stop opposite the station to Zocodover (about 10 minutes, €1.40 paid on board; free for under-15s). By taxi, about €6-9. On foot, 20-25 minutes uphill, crossing the Alcántara bridge.
+  - pregunta: How long is the train from Madrid to Toledo?
+    respuesta: 'About 33 minutes on the direct Avant train between Madrid-Puerta de Atocha-Almudena Grandes and Toledo; Renfe rounds it to 30. Add 15–20 minutes to get from Toledo station up to the old town.'
+  - pregunta: How much is the train from Madrid to Toledo?
+    respuesta: 'Roughly €13–16 one way and €22–26 return at standard fares, depending on the train and how far ahead you book. Renfe doesn''t publish a fixed fare table for the route, so check the exact price on renfe.com or the Renfe app.'
+  - pregunta: Do I need to book the Madrid to Toledo train in advance?
+    respuesta: 'Yes, especially at weekends. Avant seats are assigned and trains do sell out, above all the early-morning departures and the Saturday and Sunday afternoon returns. Book both legs together. If everything is full, take the Alsa bus, which has far more departures.'
+  - pregunta: Which Madrid station does the Toledo train leave from?
+    respuesta: 'Madrid-Puerta de Atocha-Almudena Grandes, the high-speed side of Atocha, not the Cercanías commuter platforms. There''s a bag scan before the platform, so arrive 15–20 minutes early. There is no commuter train to Toledo.'
+  - pregunta: Is the bus or the train better from Madrid to Toledo?
+    respuesta: 'The train is faster (33 minutes against 50 on a direct bus) and arrives without traffic. The bus is cheaper (from €6.55 each way), runs 83 times a day and has later returns. Both stations are outside the old town, so the last leg is the same.'
 opciones:
   - ficha: excursion-toledo-dia-completo
     etiqueta: No planning needed
@@ -57,6 +56,8 @@ opciones:
   - ficha: toledo-catedral-visita-guiada
     etiqueta: Cathedral with a guide
 ---
+
+Toledo is 70 km south of Madrid, and the train is the obvious way to get there: **33 minutes on the Avant**. What most guides skip is the last part. Toledo station sits by the river, and the old town is on a hill above it. This guide covers the journey there and back, including that last climb. For what to see once you arrive, read our [Toledo day trip from Madrid](/en/guides/madrid/toledo-day-trip-from-madrid).
 
 ## Train, bus or car at a glance
 
@@ -67,68 +68,62 @@ opciones:
 | Car on the A-42 | About 1 h | Fuel and parking | Any time | Groups, sunset at the Mirador del Valle |
 | [Guided day trip](/en/cities/madrid/activities/toledo-full-day-from-madrid) | 8 h, all-in | From €79 | Daily | No planning at all |
 
-## Train, bus or car at a glance
+## The Avant train: what to know
 
-| Option | Time | Approx. price | Frequency | Best for |
-| --- | --- | --- | --- | --- |
-| Avant train from Atocha | 33 min | €22-26 return | Roughly hourly | Speed, if you book ahead |
-| Alsa bus from Plaza Elíptica | 50 min (direct) - 1 h 30 | From €6.55 one way | 83 services a day | Tight budgets or a late return |
-| Car on the A-42 | 1 h | Fuel and parking | Whenever you like | Groups and the Mirador del Valle viewpoint |
-| Organised day trip | 8 h, all included | From €79 | Daily | Not having to organise anything |
+**Station.** Trains leave from **Madrid-Puerta de Atocha-Almudena Grandes**, the high-speed part of Atocha. Follow signs for long-distance and high-speed trains, not Cercanías. There's an airport-style bag scan before the platform.
 
-The train is fastest, but Toledo station is down by the river and the old town is up on the hill. If you'd rather not deal with timetables, a day trip covers transport, guide and tickets; the most straightforward is the full day with Cathedral entry (8 hours). Without a car and short on time it's worth it; as a couple with a car, it isn't.
+**Journey time.** About **33 minutes**, non-stop.
 
-[actividad: excursion-toledo-dia-completo]
+**Timetable.** Roughly **one train an hour** each way. The first leaves Madrid at around 6:45 AM. According to Renfe, the **last Madrid–Toledo train leaves at 8:45 PM** (Sunday to Thursday), and the first Toledo–Madrid train runs at 6:25 AM on weekdays. The last return from Toledo is usually around 9:30 PM. Schedules change by season, so check renfe.com before you lock in plans.
 
-This guide is only about **getting there and back**. For the route around the city, read our [Toledo day trip from Madrid](/en/guides/madrid/toledo-day-trip-from-madrid) guide.
+**Fares.** About **€13–16 one way** and **€22–26 return** at standard fares. Seats are assigned, and your ticket is only valid on the train you booked.
 
-[actividad: toledo-full-day-from-madrid]
+**Buying tickets.** Use renfe.com (there's an English version), the Renfe app, or the machines and ticket desks at Atocha. Buy the **return at the same time**. Early trains and Sunday-afternoon returns are the first to go.
 
-[actividad: toledo-tourist-bracelet-7-monuments]
+**Rail passes.** Interrail and Eurail holders still need a paid seat reservation on the Avant. On a route this short, the saving over a normal ticket is small.
 
-## The Avant train: timetable and Madrid to Toledo by train cost
+## From Toledo station to the old town
 
-- **Departure station:** Madrid-Puerta de Atocha-Almudena Grandes, the high-speed side of Atocha. It is not the Cercanías station: follow the "Alta Velocidad / Larga Distancia" signs. There's a **luggage check** before the platform.
-- **Journey time:** about **33 minutes**, non-stop. Renfe rounds it to "30 minutes".
-- **Timetable:** roughly one train an hour each way. The first leaves Madrid around 6:45 and, according to Renfe, the **last Madrid to Toledo train is at 20:45** (Sunday to Thursday). The first Toledo to Madrid train is at 6:25 on weekdays and the last return is usually around 21:30. Times change with the season: check renfe.com.
-- **Price:** approx. **€13-16 one way** and **€22-26 return** on the standard fare. Tickets carry an assigned seat: you can't hop on a different train.
-- **Where to buy:** renfe.com, the Renfe app or the machines and ticket offices at Atocha.
+The neo-Mudéjar station on Paseo de la Rosa is worth a look in itself. But it's across the Tagus, about 1.5 km and a steep climb from Plaza de Zocodover, the main square.
 
-Buy **outbound and return together**: early-morning trains and Saturday and Sunday afternoon returns sell out first. If they're full, don't wait for a seat to free up: switch to the bus, which has many more departures.
+- **City bus (Unauto):** from the stop opposite the station. Lines heading for **Zocodover** (the 5 and 61/62, among others) take about 10 minutes. A **single ticket is €1.40**, paid on board; **under-15s ride free**. Check the line at the stop or on unauto.es.
+- **Taxi:** around €6–9 to Zocodover. Taxis usually wait for arriving trains.
+- **Walking:** 20–25 minutes over the **Puente de Alcántara**, then uphill. Pleasant in spring, punishing in July.
+- **Escalators:** Toledo has free public escalators. The **Safont** escalators (three sections, about 4 minutes) come out near Zocodover, and the **Recaredo** escalators sit by the Puerta de Bisagra gate. They're handiest if you arrive by bus or car. From the train station, the city bus is simpler.
 
-## From Toledo train station to the old town
+## The Madrid–Toledo bus
 
-The station, in neo-Mudéjar style and pretty in its own right, is on Paseo de la Rosa, across the Tagus. The old town is about **1.5 km away and much higher up**.
+**Alsa** runs the route from the **Plaza Elíptica interchange** (Metro lines 6 and 11) to **Toledo bus station** on Avenida de Castilla-La Mancha. Alsa lists **83 daily services from €6.55**, taking **50 minutes direct** or up to **1 h 30** on services that stop in villages. When booking on alsa.com, pick a **direct** departure.
 
-- **City bus (Unauto):** from the Paseo de la Rosa stop opposite the station. Lines going up to **Zocodover** (the 5 and 61/62, among others) take about 10 minutes. **€1.40** on board; **under-15s ride free**. Check the line at the shelter or on unauto.es.
-- **Taxi:** approx. **€6-9** to Zocodover. Taxis usually wait when trains arrive.
-- **On foot:** 20-25 minutes, crossing the **Alcántara bridge** and climbing steep streets. In good weather without luggage it's a lovely way in; at 35 °C in July, it isn't.
-- **Free escalators:** the **Safont** escalators (three sections, about 4 minutes, ending near Zocodover) and the **Recaredo** ones by the Puerta de Bisagra. Ideal if you arrive by bus or car; from the train, the city bus makes more sense.
-
-## The Madrid to Toledo bus (Alsa)
-
-It leaves from the **Plaza Elíptica interchange** (metro lines 6 and 11) and arrives at **Toledo bus station** on Avenida de Castilla-La Mancha.
-
-- **83 services a day**, **from €6.55** one way.
-- **50 minutes on the direct bus** and up to **1 h 30** on those stopping in villages. When booking on alsa.es, pick a **direct** departure: the price is similar and you save 40 minutes.
-- Departures well into the evening: the best choice if you want dinner in Toledo.
-
-From the bus station the Safont escalators are a few minutes' walk away, or take a city bus to Zocodover.
+The bus wins when trains are sold out, when you want to stay for dinner, or when you're counting euros. From Toledo bus station, the Safont escalators are a short walk away.
 
 ## Driving
 
-About 70 km on the **A-42**, toll-free, around an hour if there's no traffic leaving Madrid.
+It's about 70 km on the toll-free **A-42**, roughly an hour outside rush hour.
 
-- **Don't drive into the old town.** It's a restricted area and, since January 2026, also a Low Emission Zone with cameras. The fine is **€200**.
-- **Park below.** The **Safont** car park by the river sits at the foot of the escalators and is one of the cheapest (regulated, paid by the hour); it fills up early on Saturdays. **Recaredo** also has escalators. **Miradero**, under Zocodover, is the most convenient and the most expensive.
-- **The real advantage of a car:** stopping at the **Mirador del Valle** at sunset, which is a long way on foot.
+- **Don't drive into the old town.** It's a restricted zone and, since January 2026, a low-emission zone enforced by cameras. The fine is €200. Rental companies pass it on with a fee.
+- **Park below the walls.** **Safont**, by the river at the foot of the escalators, is one of the cheapest (pay by the hour) and fills up early on Saturdays. **Recaredo**, by the Puerta de Bisagra, also has escalators. The underground **Miradero** car park is right below Zocodover, the most convenient and the most expensive.
+- **The real reason to drive:** the **Mirador del Valle** viewpoint at sunset, which is hard to reach without a car.
+
+## A guided day trip instead
+
+If you'd rather not deal with timetables, a guided tour covers transport, guide and tickets. The [full-day Toledo tour with Cathedral entry](/en/cities/madrid/activities/toledo-full-day-from-madrid) (from €79, 8 hours) is the simplest. To combine destinations, look at [Toledo and the Don Quixote windmills](/en/cities/madrid/activities/toledo-and-don-quixote-windmills-from-madrid) (from €125) or [Toledo and Segovia in one day](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid) (from €41, 12 hours, a lot of coach time). For a couple with a car, a tour rarely pays off. Without a car and short on time, it usually does.
+
+[actividad: toledo-full-day-from-madrid]
+
+Going on your own by train? The [tourist bracelet for 7 monuments](/en/cities/madrid/activities/toledo-tourist-bracelet-7-monuments) (€14) and the [Cathedral guided tour](/en/cities/madrid/activities/toledo-cathedral-guided-tour) (from €25) give your day some structure without a group.
+
+[actividad: toledo-tourist-bracelet-7-monuments]
 
 ## Common mistakes
 
-1. **Heading to the Cercanías platforms at Atocha.** The Avant leaves from the high-speed area, with a luggage check. Allow 15-20 minutes.
-2. **Buying only the outbound ticket.** Sunday afternoon returns sell out.
-3. **Assuming the station is central.** Allow 15-20 extra minutes to Zocodover.
-4. **Taking an Alsa bus with stops.** It can take 1 h 30: choose the direct one.
-5. **Missing the last train back.** The last Avant leaves before 22:00; for a relaxed dinner, return by bus.
+1. **Heading to the Cercanías platforms at Atocha.** The Avant leaves from the high-speed station, with a bag scan. Leave 15–20 minutes.
+2. **Buying a one-way ticket.** Sunday-afternoon returns sell out. Changing a ticket is easier than finding a seat.
+3. **Assuming the station is in town.** It's across the river. Allow 15–20 minutes to Zocodover.
+4. **Taking a stopping bus.** Some Alsa services take 1 h 30. Choose a direct one.
+5. **Driving up to the Cathedral.** Cameras, a low-emission zone and a €200 fine.
+6. **Missing the last train.** The last Avant back leaves before 10 PM. For a late dinner in Toledo, return by bus.
 
-Still choosing where to go? Compare [Toledo or Segovia from Madrid](/en/guides/madrid/toledo-or-segovia-from-madrid).
+## The short version
+
+The **Avant from Atocha (33 minutes, about €22–26 return)** is the fastest way from Madrid to Toledo if you book ahead. The **direct Alsa bus** from Plaza Elíptica is cheaper and more flexible. Once there, follow our [one-day Toledo route](/en/guides/madrid/toledo-day-trip-from-madrid). Still choosing between day trips? See [Toledo or Segovia from Madrid](/en/guides/madrid/toledo-or-segovia-from-madrid).

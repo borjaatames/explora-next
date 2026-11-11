@@ -4,14 +4,14 @@ descripcion: 'Guia de Maiorca com crianças: melhores praias para famílias, Pal
 categoria: mallorca
 slug: maiorca-com-criancas
 fecha: '2026-04-09'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-27"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/guias/mallorca-con-ninos.jpg
 imagen_alt: "Escorregas de um parque aquático em Maiorca"
-tiempo_lectura: 4
+tiempo_lectura: 3
 keywords:
 - maiorca com crianças
 - maiorca em família
@@ -26,8 +26,7 @@ slugs:
   it: maiorca-con-bambini
   pt: maiorca-com-criancas
 reservasArriba: true
-intro: '**Maiorca com crianças** é um destino familiar de primeira: praias longas de água pouco funda, um **comboio de madeira de 1912** que atravessa a Tramuntana, grutas com um lago subterrâneo e concerto de barco, o **Palma Aquarium**, parques aquáticos e barcos para ver golfinhos, tudo perto. A chave é escolher uma base, de preferência no norte, à volta de Alcúdia, e não tentar ver a ilha inteira.'
-respuestaCorta: 'Para Maiorca com crianças, fique no **norte (Alcúdia)**, com praias de água pouco funda, e não tente ver a ilha inteira. Os imprescindíveis: o **comboio de Sóller** (meio dia desde o norte, desde 56 €), as **Grutas do Drach** com concerto de barco (54 €) e o **Palma Aquarium** para um dia nublado (30,50 €).'
+respuestaCorta: 'Fique alojado no **norte (Alcúdia)**, com praias de água pouco profunda, e não tente ver a ilha inteira. Os imprescindíveis: o **comboio de Sóller** (meio dia a partir do norte, desde 56 €), as **Cuevas del Drach** com concerto de barco (54 €) e o **Palma Aquarium** para um dia nublado (30,50 €).'
 opciones:
   - ficha: tren-soller-tranvia-medio-dia-desde-el-norte
     etiqueta: Comboio de Sóller
@@ -48,16 +47,18 @@ actividades:
   - barco-soller-sa-calobra
 faq:
 - pregunta: Qual é a melhor zona para ficar em Maiorca com crianças?
-  respuesta: O norte, à volta de Alcúdia, ganha ao sudoeste de ambiente festivo. Tem praias tranquilas e de água pouco funda como a Playa de Muro, e é melhor base familiar do que as pequenas calas da moda, sem sombra nem estacionamento.
+  respuesta: O norte, à volta de Alcúdia, ganha ao sudoeste de ambiente festivo. Tem praias tranquilas e de águas pouco profundas como a Playa de Muro, e é melhor base para famílias do que as pequenas enseadas da moda, que não têm sombra nem estacionamento.
 - pregunta: O que tem de especial o comboio de Sóller com crianças?
-  respuesta: 'É um comboio de madeira de 1912 que atravessa a Serra de Tramuntana desde Palma, com ligação a um elétrico histórico até ao porto. As crianças adoram: é uma experiência em si, não só um transporte.'
-- pregunta: É preciso reservar as Grutas do Drach com antecedência?
-  respuesta: Sim. As grutas têm um dos maiores lagos subterrâneos da Europa, com um concerto de música clássica tocado a partir de barcos no lago, e os bilhetes para o concerto esgotam, por isso convém reservar com tempo.
+  respuesta: 'É um comboio de madeira de 1912 que atravessa a Serra de Tramuntana a partir de Palma, com ligação a um elétrico histórico até ao porto. As crianças adoram: é uma experiência em si mesma, não apenas um transporte.'
+- pregunta: É preciso reservar as Cuevas del Drach com antecedência?
+  respuesta: Sim. As grutas têm um dos maiores lagos subterrâneos da Europa, com um concerto de música clássica interpretado a partir de barcos sobre o lago, e esses bilhetes para o concerto esgotam, por isso convém reservar com tempo.
 - pregunta: Qual é a melhor praia de Maiorca para crianças pequenas?
-  respuesta: 'A Playa de Muro, perto de Alcúdia, no norte: areia fina, água pouco funda e muito espaço. A Cala Mondragó, num parque natural a sudeste, é outra opção tranquila.'
+  respuesta: 'A Playa de Muro, perto de Alcúdia, no norte: areia fina, águas pouco profundas e muito espaço. A Cala Mondragó, num parque natural a sudeste, é outra opção tranquila.'
 - pregunta: É boa ideia fazer a estrada de Sa Calobra com crianças?
-  respuesta: 'Não, se enjoarem no carro: a estrada tem curvas muito apertadas. É um dos percursos expressamente desaconselhados com crianças pequenas; a alternativa é o barco desde Port de Sóller.'
+  respuesta: 'Não se enjoarem no carro: a estrada tem curvas muito apertadas. É um dos percursos expressamente desaconselhados com crianças pequenas.'
 ---
+
+**Maiorca é um destino de primeira para famílias:** praias de água pouco profunda, um comboio de madeira centenário, aquários e grutas com lago, tudo perto. A chave é ficar alojado no norte (Alcúdia) e não tentar ver a ilha inteira.
 
 ## Os melhores planos com crianças
 
@@ -73,63 +74,43 @@ faq:
 | Parque aquático | [Western Water Park](/pt/cities/mallorca/activities/western-water-park-magaluf-bilhete), 4,3★ (582) | 38 € |
 | Espetáculos com animais | [Marineland](/pt/cities/mallorca/activities/marineland-maiorca-bilhete), 4,5★ (786) | 32 € |
 
-## Maiorca em família: onde ficar
-
-- **Norte (Alcúdia, Playa de Muro, Port de Pollença):** a melhor base familiar, com praias longas e pouco fundas. As excursões ao comboio de Sóller e às Grutas do Drach recolhem aqui.
-- **Leste (Cala d'Or):** tranquilo e perto da Cala Mondragó e das Grutas do Drach.
-- **Evite Magaluf e s'Arenal:** zonas de festa.
-
-Faça saídas curtas, de **45 minutos de carro no máximo**. O Marineland e o Western Water Park ficam no sudoeste, a mais de 45 minutos do norte.
-
-## Comboio de Sóller com crianças
-
-O comboio de madeira de 1912 atravessa a Tramuntana de Palma a Sóller em **cerca de uma hora**, e um elétrico histórico continua até ao porto. Três formas de o fazer:
-
-- **Por conta própria desde Palma:** **30 € ida e volta** (23 € só ida). O elétrico até ao porto paga-se à parte (10 € por trajeto, a bordo) ou 40 € combinado com o comboio ida e volta. Sai de Palma às 10:10, 10:50, 12:15, 13:30 e 15:10. Sente-se do **lado direito na ida** para as vistas.
-- **Meio dia desde o norte (desde 56 €):** recolha em Alcúdia, Port de Pollença, Can Picafort ou Playa de Muro, 5-6 horas, com guia que trata das ligações. Volta a tempo da praia da tarde.
-- **Volta à ilha (desde 103 €):** 8 horas desde o sul, com barco pela costa e Lluc. Longa para crianças pequenas, e o autocarro passa pelas curvas de Sa Calobra.
-
-As carruagens de madeira aquecem no verão: leve água e escolha um comboio da manhã.
-
-## Grutas do Drach: reserve o concerto
-
-As Grutas do Drach, em Porto Cristo, têm um dos maiores lagos subterrâneos da Europa. A visita termina com um **concerto de música clássica a partir de barcos** no lago Martel, em sessões a horas fixas que esgotam.
-
-- **Entrada por conta própria:** **18,50 €** online (19,50 € na bilheteira), **11,50 € dos 3 aos 12 anos**, grátis abaixo dos 3.
-- **Sessões:** de 16 de março a 31 de outubro às 10:00, 11:00, 12:00, 14:00, 15:00, 16:00 e 17:00; no inverno só 10:30, 12:00, 14:00 e 15:30. Compre online com alguns dias de margem.
-- **Cerca de uma hora lá dentro**, a 17-21 °C todo o ano: leve um casaco leve.
-- **Cerca de 300 degraus** e chão húmido: porta-bebés, não carrinho.
-- **Sem carro**, a excursão (desde 54 €) inclui transporte desde Alcúdia ou Palma, entrada e barco, cerca de 5 horas.
-
-[actividad: cuevas-del-drach-desde-alcudia]
-
-## Palma Aquarium e outros planos
-
-- **Palma Aquarium (30,50 €):** cerca de 2-3 horas. Enche no verão e nos dias de chuva: entre à abertura (9:30) ou depois das 15:00, quando saem os grupos. O tubarão e a selva tropical são o que mais agrada.
-- **Golfinhos desde Alcúdia:** 3 horas com saída cedo, grupos até 12 pessoas e pelo menos 30 minutos com os golfinhos garantidos pelo operador. A partir dos 3 anos.
-- **Forestal Park:** escolha o circuito pela idade e altura da criança. Nada de sandálias.
-- **Western Water Park:** só no verão, última entrada às 15:30.
-- **Marineland:** espetáculos com animais, no sudoeste.
-
-## Melhores praias de Maiorca para crianças
+## Melhores praias para crianças
 
 | Praia | Zona | Porquê |
 | --- | --- | --- |
-| Playa de Muro / Alcúdia | Norte | Areia fina e água pouco funda |
-| Cala Mondragó | Sudeste | Parque natural, águas calmas |
-| Cala Agulla | Nordeste | Ampla, com pinhal e água limpa |
+| Playa de Muro / Alcúdia | Norte | Areia fina e água pouco profunda |
+| Cala Mondragó | Sudeste | Parque natural, águas tranquilas |
+| Cala Agulla | Nordeste | Ampla, com pinhal e água límpida |
 | Port de Sóller | Tramuntana | Baía abrigada |
 | Es Trenc | Sul | Selvagem, mas sem serviços |
 
-**Uma semana desde o norte:** Playa de Muro e Alcúdia; comboio de Sóller e elétrico até ao porto; Grutas do Drach e Porto Cristo; Palma (Catedral, Bellver e Palma Aquarium); parque aquático, Forestal Park ou Marineland; Cala Mondragó ou Cala Agulla.
+## O prático: carro, comida e horários
 
-## Dicas e erros a evitar
+- **Carro alugado, imprescindível e com antecedência.** Em julho e agosto os preços duplicam e as cadeirinhas acabam: reserve assim que tiver os voos. Peça a cadeirinha ao reservar, não no balcão.
+- **As Cuevas del Drach** custam 18,50 € comprando online (11,50 € dos 3 aos 12 anos) e as sessões com concerto são a horas fixas: de 16 de março a 31 de outubro às 10h00, 11h00, 12h00, 14h00, 15h00, 16h00 e 17h00; no inverno só quatro sessões. Esgotam: compre online com dias de margem. A visita dura cerca de uma hora e lá dentro estão 17-21 °C todo o ano: leve um casaco leve.
+- **O comboio de Sóller** sai de Palma às 10h10, 10h50, 12h15, 13h30 e 15h10. São 30 € ida e volta (o elétrico até ao porto paga-se à parte) e a viagem dura uma hora. Sente-se do lado direito na ida para ter as vistas da Tramuntana.
+- **Palma Aquarium:** 2-3 horas, melhor à abertura, às 9h30, ou entrar a partir das 15h00, quando saem os grupos. O tubarão e a selva tropical são o que mais agrada.
+- **Comer:** os bares de praia das praias familiares e os cellers (restaurantes de aldeia, com menu do dia a 15-18 €) funcionam muito bem com crianças. Reserve no verão, sobretudo no norte. Para o lanche, uma ensaïmada acabada de fazer nunca falha.
+- **Quando ir:** de maio a meados de junho e setembro são os meses perfeitos; água a 23-25 °C, menos gente e hotéis 30 % mais baratos do que em agosto.
 
-- **Reserve o carro juntamente com os voos.** Em julho e agosto os preços duplicam e as cadeirinhas acabam: peça a cadeirinha ao reservar.
-- **Comer:** os bares das praias familiares e os cellers (restaurantes de aldeia, com menu do dia a 15-18 €) funcionam muito bem com crianças. Reserve no verão. Ao lanche, uma ensaïmada acabada de fazer nunca falha.
-- **Quando ir:** de maio a meados de junho e setembro, com o mar a 23-25 °C, menos gente e hotéis cerca de 30 % mais baratos do que em agosto.
-- **Não conduza até Sa Calobra com crianças que enjoam:** 12 km de curvas extremas. Melhor o barco desde Port de Sóller.
-- **Evite as pequenas calas da moda com os mais pequenos:** sem sombra, sem estacionamento e a abarrotar.
-- **Em praias sem serviços como Es Trenc**, leve sombra e água.
+## Uma semana em família (base no norte)
+
+| Dia | Plano |
+| --- | --- |
+| 1 | Playa de Muro e Alcúdia |
+| 2 | Comboio de Sóller e elétrico até ao porto |
+| 3 | Cuevas del Drach e Porto Cristo |
+| 4 | Palma: Catedral, Bellver e Palma Aquarium |
+| 5 | Parque aquático, Forestal Park ou Marineland |
+| 6 | Cala Mondragó ou Cala Agulla |
+
+## Erros a evitar
+
+1. **Ficar em Magaluf ou s'Arenal:** é zona de festa. Se procura tranquilidade, o norte (Alcúdia, Pollença) ou o leste (Cala d'Or).
+2. **Não reservar carro nem as Cuevas del Drach com antecedência:** o primeiro encarece e as segundas esgotam.
+3. **Conduzir até Sa Calobra com crianças que enjoam:** 12 km de curvas extremas. O barco a partir de Port de Sóller é a alternativa.
+4. **Ir às pequenas enseadas da moda com os mais pequenos:** sem sombra, sem estacionamento e a abarrotar. As praias grandes do norte são melhores com crianças pequenas.
+5. **Esquecer a sombra e a água em praias sem serviços** como Es Trenc.
+6. **Tentar ver a ilha toda:** escolha uma base e faça saídas curtas, de 45 minutos no máximo.
 
 Para o resto da ilha, veja [o que ver em Maiorca](/pt/guides/mallorca/o-que-ver-em-maiorca).

@@ -1,12 +1,11 @@
 ---
 titulo: "Qué ver en Alicante: castillo, casco antiguo y playas"
 descripcion: "Guía de Alicante en uno o dos días: Castillo de Santa Bárbara, barrio de Santa Cruz, Explanada, playas e Isla de Tabarca. Ruta, dónde comer y la Costa Blanca alrededor."
-intro: '**Qué ver en Alicante**: un castillo medieval colgado sobre el mar, un casco antiguo de callejas blancas, la Explanada de palmeras y playa a pie del centro, con sol más de 300 días al año. Un día da para la ciudad; dos, para sumarle la **isla de Tabarca** o un pueblo de la Costa Blanca como Altea o Guadalest. Es mucho más que el aeropuerto de paso hacia Benidorm.'
-respuestaCorta: 'Qué ver en Alicante en **uno o dos días**: el primero, el **Castillo de Santa Bárbara** (gratis; ascensor de 2,70 € desde el Postiguet), el barrio de Santa Cruz, la Explanada y un arroz a banda; el segundo, la **isla de Tabarca** (barco desde 25 € ida y vuelta) o Altea o Guadalest. Todo a pie y en TRAM.'
+respuestaCorta: 'Alicante se ve en **uno o dos días**. El primero, el **Castillo de Santa Bárbara** (gratis; ascensor de 2,70 € desde el Postiguet), el barrio de Santa Cruz, la Explanada y un arroz a banda; el segundo, la **isla de Tabarca** (barco desde 25 € ida y vuelta) o un pueblo de la costa como Altea o Guadalest. Todo se hace a pie y en TRAM, sin coche.'
 categoria: "alicante"
 slug: "que-ver-en-alicante"
 fecha: "2026-03-26"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: true
@@ -38,18 +37,9 @@ actividades:
   - terra-mitica-benidorm-entrada
   - mundomar-benidorm-entrada
   - snorkel-tabarca-reserva-marina
-faq:
-- pregunta: ¿Cuántos días hacen falta para ver Alicante?
-  respuesta: Uno para la ciudad (castillo, Santa Cruz, Explanada, museos y playa) y dos si quieres sumar la isla de Tabarca o un pueblo de la Costa Blanca como Altea o Guadalest.
-- pregunta: ¿Cuánto cuesta subir al Castillo de Santa Bárbara?
-  respuesta: La entrada es gratis. El ascensor desde la playa del Postiguet cuesta 2,70 € solo subida; a pie, por el parque de la Ereta, son unos 25 minutos. Abre de 10:00 a 20:00 (22:00 en julio y agosto).
-- pregunta: ¿Necesito coche en Alicante?
-  respuesta: No. El centro se recorre a pie y el TRAM une el centro con la playa de San Juan (1,45 €, 25 minutos) y sube por la costa hasta Benidorm.
-- pregunta: ¿Qué se come en Alicante?
-  respuesta: 'Arroces: a banda, del senyoret, caldoso y con costra. También salazones como la mojama y la hueva, coca y turrón de Jijona.'
-- pregunta: ¿Cuándo es mejor visitar Alicante?
-  respuesta: De abril a junio y en septiembre y octubre. En invierno tiene uno de los climas más cálidos de España. Las Hogueras de San Juan (20-24 de junio) son la gran fiesta, pero el alojamiento se dispara.
 ---
+
+**Alicante se ve bien en uno o dos días** y es la mejor base de la Costa Blanca: sol más de 300 días al año, un castillo colgado sobre el mar, un casco antiguo de callejas blancas y playa a pie del centro. La trampa es tratarla solo como aeropuerto de paso hacia Benidorm. Un día da para la ciudad; dos, para sumarle Tabarca o un pueblo de la costa.
 
 ## Reserva lo principal
 
@@ -62,7 +52,13 @@ faq:
 | [Espectáculo flamenco en El Mentidero con opción de tapas](/ciudades/alicante/actividades/flamenco-alicante-tablao-el-mentidero) | 4,8★ (1.744) | 15 € |
 | [Barco de ida y vuelta a la isla de Tabarca](/ciudades/alicante/actividades/barco-alicante-isla-tabarca-ida-vuelta) | 4,3★ (5.628) | 25 € |
 
-## Día 1: Alicante en un día
+## Cuándo ir y cómo llegar
+
+**Abril-junio y septiembre-octubre** son ideales; de **noviembre a marzo** tiene uno de los inviernos más cálidos de España; julio y agosto, playa estupenda pero mediodías duros. Las **Hogueras de San Juan (20-24 de junio)** son la gran fiesta: monumentos de cartón que se queman, mascletàs y pólvora, como las Fallas en verano; si no vienes a por ellas, el alojamiento se dispara.
+
+**AVE** desde Madrid en 2 h 20 (estación a 15 minutos a pie del centro); desde Valencia, menos de 2 h. Del **aeropuerto**, bus al centro en 20 minutos. El centro se hace a pie y el **TRAM** une el centro con la playa de San Juan y sube por la costa hasta Benidorm: no necesitas coche.
+
+## Día 1: la ciudad
 
 | Hora | Qué |
 | --- | --- |
@@ -73,19 +69,13 @@ faq:
 | 16:30 | MARQ, MACA o Mercado Central |
 | 18:00 | Baño en el Postiguet o TRAM a San Juan |
 
-**El Castillo de Santa Bárbara**, sobre el monte Benacantil, es una de las fortalezas medievales más grandes de España, con vistas de 360° sobre la bahía. Sube antes del calor, y en verano, en ascensor: a pie a mediodía es un error.
+El **castillo**, sobre el monte Benacantil, es una de las fortalezas medievales más grandes de España, con vistas de 360° sobre la bahía: sube antes del calor. Baja al **barrio de Santa Cruz**, de casas blancas, macetas y cuestas, y pasa por la **Concatedral de San Nicolás** y la **Basílica de Santa María**, la iglesia más antigua de la ciudad. La **Explanada**, el paseo de palmeras con su mosaico ondulado de seis millones y medio de teselas, te lleva al puerto. Por la tarde, el **MARQ** (Museo Arqueológico, premiado como mejor museo de Europa) o el **MACA** (Picasso, Dalí, Miró, gratis), y un baño para cerrar.
 
-**El barrio de Santa Cruz** baja del castillo con casas blancas, macetas y cuestas. Pasa por la **Concatedral de San Nicolás** y la **Basílica de Santa María**, la iglesia más antigua de la ciudad.
+## Día 2: Tabarca o la Costa Blanca
 
-**La Explanada**, el paseo de palmeras con su mosaico ondulado de seis millones y medio de teselas, te lleva al puerto. Por la tarde, el **MARQ** (Museo Arqueológico, premiado como mejor museo de Europa) o el **MACA** (Picasso, Dalí, Miró, gratis), y un baño para cerrar el día.
+Desde el puerto sale el barco a la **isla de Tabarca**, la habitada más pequeña de España y reserva marina: aguas cristalinas para snorkel, un pueblo amurallado y arroces frente al mar. Barco a las 10:00, vuelta a las 17:00; **con marejada se cancela**, comprueba antes. Horarios y consejos en la [guía de Tabarca](/guias/alicante/isla-de-tabarca-como-visitar).
 
-## Día 2: isla de Tabarca o la Costa Blanca
-
-Desde el puerto sale el barco a la **isla de Tabarca**, la habitada más pequeña de España y reserva marina: aguas cristalinas para snorkel, un pueblo amurallado y arroces frente al mar. El último barco de vuelta a Alicante sale a las **17:30** (lunes, 17:00) y **con marejada se cancela**: compruébalo antes. Horarios y consejos en la [guía de Tabarca](/guias/alicante/isla-de-tabarca-como-visitar).
-
-[actividad: barco-alicante-isla-tabarca-ida-vuelta]
-
-**Si prefieres la Costa Blanca:** Altea (pueblo blanco con cúpulas azules), Calpe y el Peñón de Ifach, Jávea, Benidorm y sus parques, Guadalest sobre su embalse turquesa, o Elche y su palmeral Patrimonio de la Humanidad, a 20 minutos.
+**Si prefieres la costa:** Altea (pueblo blanco con cúpulas azules), Calpe y el Peñón de Ifach, Jávea, Benidorm y sus parques, Guadalest sobre su embalse turquesa, o Elche y su palmeral Patrimonio de la Humanidad a 20 minutos.
 
 ## Precios y horarios
 
@@ -99,28 +89,24 @@ Desde el puerto sale el barco a la **isla de Tabarca**, la habitada más pequeñ
 | TRAM a San Juan | 1,45 €, 25 min, líneas 1, 3 y 4 desde Luceros o Mercado | Playa de 7 km con socorristas; el Postiguet, más pequeña y llena |
 | Tabarca | Desde 25 € ida y vuelta desde Alicante; desde 9 € desde Santa Pola | Último barco de vuelta a Alicante, 17:30 (lunes, 17:00) |
 
-## Cuándo ir, cómo llegar y cómo moverse
+## Dormir y comer
 
-- **Cuándo:** **abril-junio y septiembre-octubre** son ideales. De **noviembre a marzo** tiene uno de los inviernos más cálidos de España. Julio y agosto, playa estupenda pero mediodías duros.
-- **Fiestas:** las **Hogueras de San Juan (20-24 de junio)** son la gran fiesta: monumentos de cartón que se queman, mascletàs y pólvora, como las Fallas en verano. Si no vienes a por ellas, el alojamiento se dispara. También hay Semana Santa por el casco antiguo y **Moros y Cristianos** en los pueblos de la provincia (Alcoy, entre abril y mayo).
-- **Cómo llegar:** **AVE** desde Madrid en 2 h 20 (la estación está a 15 minutos a pie del centro); desde Valencia, menos de 2 h. Del **aeropuerto**, bus al centro en 20 minutos.
-- **Cómo moverse:** el centro se hace a pie y el **TRAM** une el centro con la playa de San Juan y sube por la costa hasta Benidorm. No necesitas coche.
+Duerme en el **centro** (Explanada, casco antiguo, puerto): todo a pie y con noche. La **playa de San Juan** es ideal para playa larga y tranquila, a 15-20 minutos en TRAM. Evita urbanizaciones lejos del TRAM salvo que vengas en coche.
 
-## Dónde dormir y dónde comer
+Alicante es tierra de **arroces**, y no solo paella: **a banda** (con caldo de pescado), **del senyoret** (todo pelado), caldoso y con costra. Suma **salazones** (mojama, hueva), coca y **turrón de Jijona**. Huye de las arrocerías de primera línea del puerto con fotos en la carta: una o dos calles hacia el casco antiguo y comes un arroz de verdad.
 
-Duerme en el **centro** (Explanada, casco antiguo, puerto): todo a pie y con vida de noche. La **playa de San Juan** es ideal para playa larga y tranquila, a 15-20 minutos en TRAM. Evita urbanizaciones lejos del TRAM salvo que vengas en coche.
+## Errores típicos
 
-Alicante es tierra de **arroces**, y no solo paella:
+1. **Tratar Alicante como aeropuerto** o confundirla con Benidorm.
+2. **Subir al castillo a pie a mediodía en verano.** Hay ascensor.
+3. **Pedir paella de marisco** esperando lo mejor: aquí mandan el a banda y el senyoret.
+4. **Saltarse Tabarca**, o ir sin mirar el mar.
+5. **No usar el TRAM.**
 
-- **A banda**, con caldo de pescado.
-- **Del senyoret**, con todo pelado.
-- **Caldoso** y **con costra**.
+## Eventos
 
-Suma **salazones** (mojama, hueva), coca y **turrón de Jijona**. Huye de las arrocerías de primera línea del puerto con fotos en la carta: una o dos calles hacia el casco antiguo y comes un arroz de verdad. Y no pidas paella de marisco esperando lo mejor: aquí mandan el a banda y el senyoret.
+Además de las Hogueras: **Moros y Cristianos** en los pueblos de la provincia (Alcoy, entre abril y mayo) y Semana Santa por el casco antiguo.
 
-## Consejos
+## En una frase
 
-- **No trates Alicante como aeropuerto de paso** ni la confundas con Benidorm.
-- **Sube al castillo temprano** y, en verano, en ascensor.
-- **No te saltes Tabarca**, pero mira el estado del mar antes de ir.
-- **Usa el TRAM** para la playa de San Juan y la costa norte.
+Alicante es castillo, casco antiguo y playa urbana, y la puerta perfecta a toda la Costa Blanca: en dos días ves la ciudad y le sumas Tabarca o un pueblo como Altea o Guadalest.

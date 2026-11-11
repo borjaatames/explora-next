@@ -4,11 +4,11 @@ descripcion: "Girona in einem Tag: Kathedrale, El Call, die Häuser am Onyar und
 categoria: "girona"
 slug: "girona-in-einem-tag"
 fecha: "2026-04-25"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 3
+tiempo_lectura: 6
 keywords:
   - "girona sehenswürdigkeiten"
   - "girona in einem tag"
@@ -16,16 +16,16 @@ keywords:
   - "el call girona"
   - "girona route"
 faq:
-- pregunta: Kann man Girona an einem Tag sehen?
-  respuesta: 'Ja. Die Altstadt ist kompakt und zu Fuß zu erkunden: Häuser am Onyar, Kathedrale, El Call, Arabische Bäder, Sant Pere de Galligants und Stadtmauer passen in eine Route von 9:30 bis zum Nachmittag, mit Mittagspause. Aber behandle Girona nicht als halbstündigen Stopp zwischen Barcelona und der Costa Brava: Es verdient den ganzen Tag.'
-- pregunta: Wie kommt man von Barcelona nach Girona?
-  respuesta: 'Mit AVE oder Avant ab Sants in 38 Minuten, mit Abfahrten den ganzen Vormittag; der Regionalzug braucht 1 Std. 20 und kostet die Hälfte. Vom Bahnhof sind es 15 Gehminuten bis zur Altstadt. Mit dem Auto nicht in den Barri Vell fahren, er ist Fußgängerzone: im Parkhaus Devesa oder am Bahnhof parken.'
-- pregunta: Was kostet der Eintritt in die Kathedrale von Girona?
-  respuesta: Kathedrale und Sant Feliu besuchst du mit einem Kombiticket für 7,50 € (2026), Audioguide inklusive. Sonn- und feiertags öffnet die Kathedrale erst um 12:00. Die Stadtmauer ist kostenlos, die Arabischen Bäder kosten ein paar Euro und das Museum für jüdische Geschichte 4 €.
-- pregunta: Wann ist die beste Reisezeit für Girona?
-  respuesta: April bis Juni und September bis Oktober. Bei Temps de Flors (Mitte Mai, neun Tage) füllt sich die Stadt mit Blumen, ist aber überlaufen, und die Hotels sind Wochen vorher ausgebucht; im Winter gibt es keine Schlangen. Ende Oktober sind die Fiestas de Sant Narcís, mit lokalem Flair und ohne den Andrang im Mai.
-- pregunta: Lohnt sich eine Führung durch Girona?
-  respuesta: 'Wenn du nur eine Sache buchst, dann den Rundgang in Kleingruppe durch den Barri Vell (ab 35 €): 2 Std. 30 über die Stadtmauer, zur Kathedrale, durch El Call und über die Eiffel-Brücke, und am Ende gibt dir der Guide Tipps, was du von innen sehen und wo du essen solltest. Eintritte zahlst du extra. Lieber im eigenen Tempo? Der Audioguide der App DareMapp kostet 5 €.'
+  - pregunta: "Kann man Girona an einem Tag sehen?"
+    respuesta: "Ja. Die Altstadt ist kompakt und zu Fuß erkundbar: Die Häuser am Onyar, die Kathedrale, El Call, die Arabischen Bäder, Sant Pere de Galligants und die Stadtmauer passen in eine Route von 9:30 Uhr bis zum späten Nachmittag, mit Mittagspause. Behandle Girona aber nicht als halbstündigen Zwischenstopp zwischen Barcelona und der Costa Brava: Die Stadt füllt einen ganzen Tag."
+  - pregunta: "Wie komme ich von Barcelona nach Girona?"
+    respuesta: "Mit dem AVE oder Avant ab Sants brauchst du 38 Minuten, mit Abfahrten den ganzen Vormittag; der Regionalzug braucht 1 Std. 20 Min. und kostet etwa die Hälfte. Der Bahnhof liegt 15 Gehminuten von der Altstadt entfernt. Mit dem Auto fährst du nicht in den Barri Vell, der Fußgängerzone ist: Park im Parkhaus an der Devesa oder am Bahnhof."
+  - pregunta: "Was kostet der Eintritt in die Kathedrale von Girona?"
+    respuesta: "Kathedrale und Sant Feliu besuchst du mit einem gemeinsamen Ticket für 7,50 € (Stand 2026), Audioguide inklusive. Sonn- und feiertags öffnet die Kathedrale erst um 12:00 Uhr. Die Stadtmauer ist kostenlos, die Arabischen Bäder kosten ein paar Euro und das Museum für jüdische Geschichte 4 €."
+  - pregunta: "Wann ist die beste Reisezeit für Girona?"
+    respuesta: "Von April bis Juni und von September bis Oktober. Zu Temps de Flors (Mitte Mai, neun Tage) ist die Stadt voller Blumen, aber völlig überlaufen, und die Hotels sind Wochen im Voraus ausgebucht; im Winter gibt es keine Schlangen. Ende Oktober finden die Fiestas de Sant Narcís statt, mit lokaler Atmosphäre und ohne den Andrang vom Mai."
+  - pregunta: "Lohnt sich eine Führung durch Girona?"
+    respuesta: "Wenn du nur eine Sache buchst, dann den Rundgang in Kleingruppe durch den Barri Vell (4,8★, ab 35 €): 2 Std. 30 Min. über die Stadtmauer, zur Kathedrale, durch El Call und über die Eiffel-Brücke, und am Ende gibt dir der Guide Tipps, was du von innen sehen und wo du essen solltest. Eintritte zahlst du extra. Wenn du lieber in deinem eigenen Tempo gehst, kostet der Audioguide der App DareMapp 5 €."
 slugs:
   es: que-ver-en-girona-en-un-dia
   en: what-to-see-in-girona-in-one-day
@@ -34,8 +34,7 @@ slugs:
   it: cosa-vedere-a-girona-in-un-giorno
   pt: o-que-ver-em-girona-num-dia
 reservasArriba: true
-intro: 'Gironas **Sehenswürdigkeiten** passen in einen gut genutzten Tag. Die kompakte Altstadt, zu Fuß erkundet, vereint das breiteste gotische Kirchenschiff der Welt, **El Call**, eines der am besten erhaltenen mittelalterlichen jüdischen Viertel Europas, die bunten Häuser am Onyar, Bäder aus dem 12. Jahrhundert und die Stadtmauer als besten Aussichtspunkt. Die Gassen waren Drehort von Game of Thrones, und mit dem AVE sind es 38 Minuten ab Barcelona.'
-respuestaCorta: 'Gironas Sehenswürdigkeiten schafft man an einem Tag: Mit dem AVE sind es **38 Minuten ab Barcelona**, und die Altstadt erkundest du zu Fuß (Kathedrale, El Call, bunte Häuser am Onyar, Stadtmauer). Kathedrale und Sant Feliu haben ein Kombiticket (**7,50 €**, mit Audioguide); die Stadtmauer ist gratis, die Arabischen Bäder kosten wenige Euro.'
+respuestaCorta: 'Ja, **Girona lässt sich an einem Tag sehen**: Mit dem AVE sind es **38 Minuten ab Barcelona**, und die Altstadt erkundest du zu Fuß (Kathedrale, El Call, die bunten Häuser am Onyar und die Stadtmauer). Kathedrale und Sant Feliu haben ein gemeinsames Ticket (etwa 7,50 €, mit Audioguide); Stadtmauer und Arabische Bäder kosten fast nichts.'
 actividades:
   - girona-tour-a-pie-grupo-reducido
   - girona-catedral-museu-art-sant-feliu-entrada
@@ -48,49 +47,81 @@ imagen_portada: "/images/guias/que-ver-en-girona-en-un-dia.jpg"
 imagen_alt: "Der Fluss Onyar und seine bunten Häuser in Girona"
 ---
 
-## Die Tagesroute durch Girona
+**Girona lässt sich gut an einem Tag besichtigen.** Die Altstadt ist kompakt und zu Fuß erkundbar, sodass an einem Tag die Kathedrale, El Call, die bunten Häuser am Onyar und ein Spaziergang oben auf der Stadtmauer Platz finden. Es ist der klassische Ausflug ab Barcelona — nur 38 Minuten mit dem Hochgeschwindigkeitszug —, doch wer zum Mittagessen bleibt und den Sonnenuntergang über dem Fluss erlebt, nimmt eine ganze Stadt mit, nicht nur eine Postkarte im Vorbeigehen.
 
-| Uhrzeit | Station |
+Der Charme Girons liegt darin, dass es drei Städte in einer vereint: die mittelalterlich-christliche mit Kathedrale und Stadtmauer, die jüdische von El Call und die römische der ersten Stadtmauern. Und seit 2016 kommt eine vierte hinzu: die von *Game of Thrones*, das hier einen Großteil seiner sechsten Staffel drehte. Dieser Guide ordnet den Tag so, dass du nicht in zehn Minuten durch den Barri Vell hetzt und das verpasst, was wirklich zählt.
+
+## Wann man Girona besuchen sollte
+
+| Zeitraum | Urteil | Warum |
+| --- | --- | --- |
+| April bis Juni | Ideal | Perfektes Klima, lange Tage, lebendige Altstadt |
+| Mitte Mai | Temps de Flors | Spektakulär, aber die Stadt ist komplett überfüllt |
+| September und Oktober | Sehr gut | Angenehme Wärme, weniger Menschen, Weinlese im Empordà |
+| Juli und August | Gut | Tagsüber angenehm; mittags heiß |
+| November bis März | Ruhig | Kühl und ohne Schlangen, ideal, um die Kathedrale in Ruhe zu sehen |
+
+> **⭐ Tipp:** Vermeide, wenn möglich, eine Überschneidung mit **Temps de Flors** (Mitte Mai), außer du kommst gezielt dafür: Es ist wunderschön — Innenhöfe und Baudenkmäler voller Blumen —, aber die Stadt ist dann völlig überlaufen und alles ist Wochen im Voraus ausgebucht.
+
+## Anreise
+
+**Mit dem Hochgeschwindigkeitszug** ab Barcelona in 38 Minuten, mehrmals täglich; der Bahnhof liegt 15 Gehminuten von der Altstadt entfernt. Das macht Girona perfekt für einen Tagesausflug hin und zurück, lässt sich aber auch hervorragend mit der **Costa Brava** und **Figueres** (dem Dalí-Theatermuseum, 40 Minuten entfernt) kombinieren. Mit dem Flugzeug ist der Flughafen Girona-Costa Brava 20 Minuten mit dem Bus entfernt. Vergiss das Auto: Die Altstadt ist Fußgängerzone und ein Labyrinth aus steilen Gassen.
+
+## Die durchdachte Tagesroute
+
+| Uhrzeit | Aktivität |
 | --- | --- |
-| 9:30 | Häuser am Onyar und Eiffels Eisenbrücke |
-| 10:00 | Kathedrale und Treppe |
-| 11:30 | El Call (jüdisches Viertel) |
-| 13:00 | Arabische Bäder und Sant Pere de Galligants |
-| 14:00 | Mittagessen im Barri Vell |
-| 16:30 | Spaziergang auf der Stadtmauer |
+| 9:30 — 10:00 | Häuser am Onyar und Pont de les Peixateries |
+| 10:00 — 11:30 | Kathedrale und Treppe |
+| 11:30 — 13:00 | El Call (jüdisches Viertel) |
+| 13:00 — 13:45 | Arabische Bäder und Sant Pere de Galligants |
+| 14:00 — 16:00 | Mittagessen im Barri Vell |
+| 16:30 — 18:00 | Spaziergang auf der Stadtmauer |
 
-Alles zu Fuß und mit Steigungen. Sonn- und feiertags Kathedrale und El Call tauschen: Die Kathedrale öffnet erst um 12:00.
+**9:30 — Häuser am Onyar.** Beginne mit der Überquerung der **Pont de les Peixateries Velles** — der roten eisernen Brücke, die von der Firma Eiffel errichtet wurde — für das klassische Foto der **bunten Häuser** über dem Fluss. Es ist das Bild, das Girona ausmacht.
 
-## Girona Sehenswürdigkeiten: von der Kathedrale bis El Call
+**10:00 — Kathedrale.** Steig zur **Kathedrale Santa María** über ihre **barocke Treppe** mit 90 Stufen hinauf (die Große Septe von Baelor in *Game of Thrones*). **Sonn- und feiertags öffnet sie erst um 12:00 Uhr**: Tausch sie an diesem Tag mit El Call. Im Inneren befindet sich das **breiteste gotische Kirchenschiff der Welt** (fast 23 Meter) sowie der berühmte **Schöpfungsteppich**, ein Juwel der Romanik. Direkt daneben die Basilika **Sant Feliu** mit ihrem unvollendeten Glockenturm.
 
-- **Häuser am Onyar:** Der schönste Blick ist von den Brücken, vor allem von der roten Eisenbrücke, die Eiffels Firma gebaut hat. Eine Viertelstunde reicht.
-- **Kathedrale:** Ihr gotisches Kirchenschiff ist mit **23 Metern das breiteste der Welt**, und ihr Schatz bewahrt den romanischen **Schöpfungsteppich**. Beides rechtfertigt den Eintritt.
-- **El Call:** eines der am besten erhaltenen mittelalterlichen jüdischen Viertel Europas. Durch die Carrer de la Força und ihre Gassen schlendern und das Museum für jüdische Geschichte dazunehmen, wenn dich die Geschichte des Viertels packt.
-- **Arabische Bäder:** Bäder aus dem 12. Jahrhundert, klein und schnell besichtigt (15–30 Minuten). Gegenüber liegt Sant Pere de Galligants.
-- **Stadtmauer:** der beste Aussichtspunkt der Stadt, und kaum jemand steigt hinauf. Am schönsten bei Sonnenuntergang. Der Spaziergang ist gratis, hat aber steile Treppen.
+**11:30 — El Call.** Verlier dich in **El Call**, einem der **am besten erhaltenen mittelalterlichen jüdischen Viertel Europas**: enge Gassen, steinerne Treppen und versteckte Innenhöfe. Das **Museum für jüdische Geschichte** erzählt vom Leben der sephardischen Gemeinde vor 1492.
 
-## Girona und Game of Thrones
+**13:00 — Arabische Bäder und Sant Pere.** Geh hinunter zu den **Arabischen Bädern** (romanisch aus dem 12. Jahrhundert, trotz des Namens) und zum Kloster **Sant Pere de Galligants**, einem Juwel der katalanischen Romanik, das ebenfalls in *Game of Thrones* zu sehen war.
 
-Die Route führt an allen [Game-of-Thrones-Drehorten](/de/guides/girona/girona-game-of-thrones) vorbei, du brauchst also keinen zusätzlichen Vormittag: Die Kathedralentreppe war die Große Septe von Baelor, Sant Pere de Galligants die Zitadelle von Altsass. Komm aber nicht nur für die Serienfotos: Die Stadt ist viel mehr als eine Filmkulisse.
+**14:00 — Mittagessen.** Zeit für eine Pause (siehe unten).
 
-## Anreise, Preise und Reisezeit
+**16:30 — Die Stadtmauer.** Beende den Tag mit einem Spaziergang oben auf der **karolingischen Stadtmauer** (dem Passeig de la Muralla), mit Blick über die Dächer, die Kathedrale und die Landschaft des Gironès. Es ist der beste Aussichtspunkt der Stadt, und kaum jemand steigt hinauf. Bei Sonnenuntergang wirkt das Licht auf dem Stein wie im Film.
 
-- **Mit dem Zug ab Barcelona:** AVE oder Avant ab Sants in **38 Minuten**, Abfahrten den ganzen Vormittag; der Regionalzug braucht 1 Std. 20 und kostet die Hälfte. Vom Bahnhof sind es 15 Gehminuten bis zur Altstadt.
-- **Mit dem Auto:** nicht in den Barri Vell fahren, er ist Fußgängerzone und steil. Im Parkhaus Devesa oder am Bahnhof parken und über den Fluss gehen.
-- **Eintritte:** Kathedrale und Sant Feliu mit Kombiticket (**7,50 €** in 2026, Audioguide inklusive). Die Stadtmauer ist gratis, die Arabischen Bäder kosten wenige Euro, El Call ist ein offenes Viertel und das Museum für jüdische Geschichte kostet 4 €.
-- **Beste Reisezeit:** April bis Juni und September bis Oktober. Bei **Temps de Flors** (Mitte Mai, neun Tage) sind Innenhöfe und Monumente voller Blumen: wunderschön, aber überlaufen, und die Hotels sind Wochen vorher ausgebucht. Im Winter keine Schlangen.
-- **Fiestas de Sant Narcís** (Ende Oktober): Jahrmarkt, Konzerte und lokales Flair, ohne den Andrang im Mai.
+## Wo man übernachtet
+
+Wenn du übernachtest, ist der **Barri Vell** (Altstadt) die beste Wahl: alles zu Fuß erreichbar, mit der beleuchteten Kathedrale im Hintergrund. Das Viertel **Mercadal** und der Eixample auf der anderen Flussseite sind praktischer für die Ankunft mit dem Zug und bieten mehr Auswahl. **Vermeide** es, weit vom Zentrum entfernt zu übernachten: Der Reiz Gironas liegt darin, es nachts zu Fuß zu erleben, wenn die Tagesausflügler verschwunden sind.
 
 ## Essen in Girona
 
-Such im Barri Vell nach Küche aus dem Empordà, **eine Straße hinter der Rambla**: Die Terrassen an der Rambla sind teurer. Probier einen **Xuixo**, das typische mit Creme gefüllte Gebäck, und ein Eis von **Rocambolesc**.
+Girona ist eine der gastronomischen Hauptstädte Europas: Hier befindet sich **El Celler de Can Roca**, mehrfach zum besten Restaurant der Welt gekürt (Reservierung Monate im Voraus, praktisch unmöglich). Auch ohne so weit zu gehen, bieten der **Barri Vell** und die Arkaden der **Rambla de la Llibertat** hervorragende Tavernen mit Küche aus dem **Empordà**: gute Reisgerichte, Surf & Turf, Wurstwaren. Verpasse nicht, einen **Xuixo** zu probieren, das für die Stadt typische frittierte Gebäck mit Cremefüllung, oder ein Eis bei **Rocambolesc** (der Eisdiele von Jordi Roca).
 
-## Tipps
+> **⚠️ Hinweis:** Die Terrassen an der Rambla sind angenehm, aber teuer. Geh eine Straße weiter in den Barri Vell hinein und du isst besser für weniger Geld.
 
-- **Plane den ganzen Tag ein:** Girona ist kein halbstündiger Stopp zwischen Barcelona und der Costa Brava.
-- **Starte mit einem Rundgang,** wenn du Hintergrund willst: 2 Std. 30 über die Stadtmauer, zur Kathedrale, durch El Call und über die Eiffel-Brücke, und am Ende sagt dir der Guide, was du von innen sehen und wo du essen solltest. Eintritte extra. Im eigenen Tempo: Audioguide der App DareMapp für 5 €.
-- **Stadtmauer und Kathedrale von innen nicht auslassen.**
-- **Bei Temps de Flors** Hotel und Restaurant früh reservieren.
-- **Wenn Zeit bleibt:** [Costa-Brava-Ausflüge ab Girona](/de/guides/girona/costa-brava-ausfluege-ab-girona).
+## Was wir NICHT empfehlen
 
-[actividad: girona-tour-a-pie-grupo-reducido]
+1. **Die Altstadt in zehn Minuten durchqueren.** Es lohnt sich, stehen zu bleiben: Jede Straße hat eine Geschichte.
+2. **Nur wegen der Game-of-Thrones-Fotos kommen.** Die Stadt ist viel mehr als eine Filmkulisse.
+3. **Die Stadtmauer auslassen.** Sie ist der beste Aussichtspunkt, und kaum jemand steigt hinauf.
+4. **Mit dem Auto in die Altstadt fahren.** Sie ist Fußgängerzone und steil; lass das Auto in einem Parkhaus am Rand.
+
+## Typische Besucherfehler
+
+> **⚠️ Hinweis:** die Fehler, die wir am häufigsten sehen.
+
+1. **Girona als halbstündigen Zwischenstopp behandeln.** Es füllt einen ganzen Tag, nicht nur einen Kaffee zwischen Barcelona und der Costa Brava.
+2. **Die Kathedrale nicht von innen besichtigen.** Das Kirchenschiff und der Schöpfungsteppich rechtfertigen den Eintritt.
+3. **An der ersten Terrasse der Rambla essen.** Geh eine Straße weiter, und es wird besser.
+4. **Vor Sonnenuntergang abreisen.** Das goldene Licht über dem Onyar und der Stadtmauer ist das Beste am Tag.
+
+## Termine im Blick
+
+- **Temps de Flors (Mitte Mai).** Das große Blumenfestival: Innenhöfe, Baudenkmäler und geheime Winkel voller floraler Kompositionen. Spektakulär, aber die Stadt ist dann völlig überlaufen.
+- **Sant Narcís (Ende Oktober).** Die Hauptfeste Gironas, mit Marktständen, Konzerten und lokaler Atmosphäre.
+- **Costa-Brava-Saison (Sommer).** Wenn du die Reise verlängerst, sind Cadaqués, Calella de Palafrugell und Tossa de Mar nur einen Katzensprung entfernt.
+
+## In einem Satz
+
+Girona an einem Tag bedeutet mittelalterlichen Stein, Farbe über dem Fluss und eine filmreife Kathedrale. Falls du noch Zeit übrig hast, sind die **Costa Brava** und das **Dalí-Theatermuseum** in Figueres eine halbe Stunde entfernt und machen aus dem Tagesausflug ein rundes Wochenende.

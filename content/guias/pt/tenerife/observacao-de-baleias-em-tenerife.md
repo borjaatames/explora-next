@@ -4,11 +4,11 @@ descripcion: 'Observação de baleias em Tenerife: cinco passeios de barco compa
 categoria: tenerife
 slug: observacao-de-baleias-em-tenerife
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 4
+tiempo_lectura: 8
 keywords:
 - observação de baleias tenerife
 - golfinhos tenerife
@@ -23,8 +23,7 @@ slugs:
   it: avvistamento-balene-tenerife
   pt: observacao-de-baleias-em-tenerife
 reservasArriba: true
-intro: 'A observação de baleias em Tenerife está entre as melhores da Europa e pode fazer-se **durante todo o ano**. Entre a costa sudoeste da ilha e La Gomera vive uma população estável de **baleias-piloto tropicais** e **golfinhos-roazes**, numa faixa de mar que em 2021 foi a primeira da Europa reconhecida como *Whale Heritage Site*. Os barcos saem do sul e, em poucas horas, vê-os em liberdade.'
-respuestaCorta: 'Para a observação de baleias em Tenerife: **baleias-piloto e golfinhos-roazes veem-se todo o ano**. Os barcos saem de **Los Cristianos, Puerto Colón e Los Gigantes**; escolha um com a bandeira amarela **Barco Azul** de um operador autorizado. As saídas normais duram **2-3 horas** (25-45 €), e o iate ecológico desde Los Cristianos custa desde 30 €.'
+respuestaCorta: 'Pode ver **baleias-piloto-de-aleta-curta e golfinhos-roazes durante todo o ano**, porque vivem entre Tenerife e La Gomera. Os barcos partem de **Los Cristianos, Puerto Colón e Los Gigantes**; escolha um que exiba a bandeira amarela **Barco Azul** de operador autorizado. O passeio de 1h30 em iate ecológico a partir de Los Cristianos custa desde 30 €.'
 actividades:
   - ballenas-los-gigantes-tenerife
   - catamaran-avistamiento-ballenas-costa-adeje
@@ -35,18 +34,18 @@ actividades:
   - avistamiento-cetaceos-barco-privado-las-galletas
 faq:
 - pregunta: Que baleias se podem ver em Tenerife?
-  respuesta: Sobretudo baleias-piloto tropicais e golfinhos-roazes, que vivem todo o ano entre Tenerife e La Gomera. Com sorte, também golfinhos-pintados e comuns, baleias-de-bryde e, ocasionalmente, cachalotes.
-- pregunta: De onde saem os barcos para ver baleias em Tenerife?
-  respuesta: Principalmente de Los Cristianos, Puerto Colón (Costa Adeje) e Los Gigantes, na costa sudoeste, a mais próxima da zona onde vivem os cetáceos. Alguns barcos privados pequenos saem de Las Galletas.
-- pregunta: Vê-se baleias com certeza?
-  respuesta: 'Não há garantia, mas os avistamentos de baleias-piloto são muito frequentes porque são residentes. Alguns operadores oferecem repetir grátis se não houver sorte: pergunte ao reservar.'
-- pregunta: Pode-se nadar com os golfinhos?
-  respuesta: 'Não: a legislação canária (Decreto 178/2000) proíbe tomar banho a menos de 500 metros dos cetáceos. As paragens para banho fazem-se longe dos animais.'
-- pregunta: Qual é a melhor época para ver baleias em Tenerife?
-  respuesta: Qualquer uma, porque as espécies principais são residentes. De manhã o mar costuma estar mais calmo; no inverno pode haver mais ondulação.
+  respuesta: Sobretudo baleias-piloto-de-aleta-curta e golfinhos-roazes, que vivem todo o ano entre Tenerife e La Gomera. Com sorte, também golfinhos-pintados-do-Atlântico e golfinhos-comuns, baleias-de-Bryde e, ocasionalmente, cachalotes.
+- pregunta: De onde partem os barcos?
+  respuesta: Principalmente de Los Cristianos, Puerto Colón (Costa Adeje) e Los Gigantes, na costa sudoeste, a mais próxima da zona onde vivem os cetáceos. Alguns pequenos barcos privados partem de Las Galletas.
+- pregunta: Os avistamentos são garantidos?
+  respuesta: Não há garantia, mas os avistamentos de baleias-piloto são muito frequentes porque são residentes. Alguns operadores oferecem um segundo passeio gratuito se não tiver sorte; pergunte antes de reservar.
+- pregunta: Pode nadar-se com os golfinhos?
+  respuesta: 'Não: a lei das Canárias proíbe nadar ou mergulhar a menos de 500 metros dos cetáceos. As paragens para banho fazem-se longe dos animais.'
 imagen_portada: "/images/guias/avistamiento-ballenas-tenerife.jpg"
 imagen_alt: "Baleia-piloto a vir à superfície ao largo de Tenerife"
 ---
+
+**Tenerife é um dos melhores lugares da Europa para ver baleias e golfinhos**, e durante todo o ano. Entre a sua costa sudoeste e La Gomera vive uma população estável de **baleias-piloto-de-aleta-curta** e **golfinhos-roazes**. Em 2021 este troço de mar tornou-se o **primeiro Whale Heritage Site da Europa**, um selo atribuído pela World Cetacean Alliance a locais com observação de cetáceos responsável. O segredo está em escolher bem o barco.
 
 ## Compare os passeios de barco
 
@@ -58,59 +57,57 @@ imagen_alt: "Baleia-piloto a vir à superfície ao largo de Tenerife"
 | [Observação de baleias em catamarã com almoço buffet](/en/cities/tenerife/activities/catamaran-whale-watching-buffet-tenerife) | Costa sul (zona de Costa Adeje) | 5-6 h | 4,8★ (2242) | 63 € |
 | [Barco privado desde Las Galletas](/en/cities/tenerife/activities/private-whale-watching-boat-las-galletas-tenerife) | Las Galletas | 2 ou 3 h | — | 450 € por barco |
 
-## Baleias-piloto e golfinhos em Tenerife: que espécies vai ver
+## Qual escolher
 
-- **Baleia-piloto tropical:** a protagonista. Vive em grupos familiares e vê-se em quase todas as saídas.
-- **Golfinho-roaz:** também residente, curioso e frequente.
-- **Com sorte:** golfinho-pintado-do-atlântico, golfinho-comum, baleia-de-bryde e, mais raramente, cachalote.
-
-Como as baleias-piloto vivem ali todo o ano, os avistamentos são muito frequentes, embora ninguém os possa garantir. Pergunte ao reservar se, caso não as veja, pode **repetir grátis**; muitos operadores sérios fazem-no.
-
-## Passeio de barco em Tenerife: Los Cristianos, Puerto Colón e Los Gigantes
-
-Os três portos da costa sudoeste ficam a poucos minutos da zona dos cetáceos:
-
-- **Los Cristianos:** o porto com mais saídas, com autocarros de todo o sul. Daqui sai o **iate ecológico** (hora e meia), pensado para não perseguir os animais, com paragem para banho na Cueva del Amor.
-- **Puerto Colón (Costa Adeje):** chega-se a pé desde Playa de las Américas e Costa Adeje. É a base dos **catamarãs**, com convés amplo e paragem para banho se o mar deixar.
-- **Los Gigantes:** além dos cetáceos, vê do mar as falésias de 800 metros, em barcos mais pequenos. O estacionamento é pequeno: chegue com margem.
-- **Las Galletas:** daqui sai um **barco privado** (450 € por barco 2 horas, 550 € 3 horas, com bebidas), que com 4-6 pessoas fica quase ao preço de uma saída partilhada por pessoa.
-
-[actividad: avistamiento-ballenas-delfines-yate-ecologico]
-
-## Como escolher um barco responsável
-
-A observação de cetáceos nas Canárias é regulada pelo **Decreto 178/2000**. O que isso significa para si:
-
-- **Procure a bandeira amarela *Barco Azul*.** É obrigatória nos barcos autorizados pelo Governo das Canárias. Sem bandeira, não há licença.
-- **Distância:** os barcos não se podem aproximar a menos de **60 metros**, e a menos de 500 metros a velocidade máxima é de 4 nós.
-- **Tempo:** não mais de **30 minutos** a menos de 100 metros dos animais, nem mais de dois barcos ao mesmo tempo nesse raio.
-- **Nada de os perseguir**, nem de tomar banho a menos de 500 metros: desconfie de qualquer oferta para «nadar com golfinhos», é proibido.
-
-Se o seu barco não cumprir, está a infringir a lei. Prefira **barcos pequenos ou ecológicos**, mais silenciosos e estáveis.
+- **Pouco tempo ou viagem com crianças:** o **iate ecológico** de Los Cristianos. Hora e meia chega para ver baleias-piloto, o barco foi pensado para não as perseguir e faz uma paragem para banho na Cueva del Amor. Casa de banho a bordo; bebidas à venda.
+- **Alojado no oeste (Los Gigantes, Puerto de Santiago):** o passeio de **Los Gigantes** junta as falésias de 800 metros vistas do mar, em barcos mais pequenos. O transporte até ao porto não está incluído.
+- **Alojado em Costa Adeje ou Las Américas:** o **catamarã de 3 horas** tem espaço no convés e uma paragem para banho, se as condições o permitirem.
+- **Quer um dia inteiro no mar:** o **catamarã com buffet** (5-6 horas) é o passeio com melhor avaliação da ilha e inclui almoço; as bebidas alcoólicas pagam-se à parte.
+- **Grupo de 4-6 pessoas ou quer tranquilidade:** o **barco privado** de Las Galletas custa 450 € por 2 horas ou 550 € por 3 horas (com paragem para banho ou snorkel) pelo barco inteiro, bebidas incluídas. Com 4-6 pessoas, o preço por cabeça aproxima-se do de um passeio partilhado.
 
 [actividad: eco-yacht-whale-dolphin-watching-tenerife]
 
-## Duração e preço das saídas
+## Que espécies vai ver
 
-- **Saídas normais:** **2-3 horas**, entre **25 e 45 €** por adulto.
-- **Saídas longas com almoço e banho:** 4-5 horas, entre **50 e 80 €**.
-- **Crianças:** pagam metade, e os menores de 3 anos costumam ir grátis.
-- **Grávidas e bebés:** as condições mudam conforme o barco e o operador; as lanchas rápidas costumam ter restrições. Pergunte ao reservar.
+- **Baleia-piloto-de-aleta-curta:** a estrela. Vive em grupos familiares e vê-se em quase todos os passeios.
+- **Golfinho-roaz:** também residente, curioso e frequente.
+- **Com sorte:** golfinho-pintado-do-Atlântico, golfinho-comum, baleia-de-Bryde e, mais raramente, cachalote.
 
-Se tem pouco tempo ou viaja com crianças, a saída curta em barco ecológico chega para ver baleias-piloto. Se quer um dia de mar, o catamarã longo com almoço é a opção mais completa.
+## Como escolher um barco responsável
 
-## Quando ir, enjoo e o que levar
+A observação de cetáceos nas Canárias está regulada pelo **Decreto 178/2000** do Governo das Canárias. O que isso significa para si:
 
-**Todo o ano**, porque as espécies principais são residentes. De **manhã** o mar costuma estar mais calmo; no inverno pode haver mais ondulação.
+- **Procure a bandeira Barco Azul.** Os barcos autorizados têm de a exibir: uma bandeira amarela com «Barco Azul / Blue Boat» a azul e duas baleias-piloto, emitida com a licença e renovada todos os anos. Sem bandeira, não há licença.
+- **Distância:** os barcos não podem manobrar a menos de **60 metros** dos animais e, a menos de 500 metros, têm de reduzir para 4 nós ou para a velocidade do animal mais lento.
+- **Tempo:** não mais de **30 minutos** a menos de 100 metros do mesmo grupo, e não mais de dois barcos a menos de 100 metros ao mesmo tempo.
+- **Proibido perseguir, rodear, alimentar ou tocar**, e proibido nadar ou mergulhar a menos de 500 metros. Encare qualquer oferta de «nadar com golfinhos» como um sinal de alarme.
 
-Contra o **enjoo**: escolha um barco de casco largo ou um catamarã e a primeira saída do dia. Tome o comprimido uma hora antes, tome um pequeno-almoço leve e sente-se no centro do barco a olhar para o horizonte. A zona é abrigada, mas há ondulação de fundo.
+Se o seu skipper não cumprir estas regras, o operador está a infringir a lei. Prefira **barcos pequenos ou ecológicos**, que são mais silenciosos e estáveis.
 
-**O que levar:** protetor solar, boné, fato de banho e toalha (muitas saídas têm paragem para banho), um casaco leve e o comprimido para o enjoo, se precisar.
+## Quando ir
 
-**Como chegar:** em Los Cristianos e Puerto Colón há parques de estacionamento pagos junto ao porto. Sem carro, vai-se a pé para Puerto Colón desde Las Américas e Costa Adeje, e de autocarro para Los Cristianos.
+Durante todo o ano, porque as principais espécies são residentes. **De manhã** o mar costuma estar mais calmo; no inverno pode haver mais ondulação. No verão, um passeio com paragem para banho compensa a hora extra.
+
+## Enjoo e dicas práticas
+
+- **Escolha um casco estável:** um catamarã ou o iate ecológico, e a primeira saída do dia.
+- **Tome um comprimido uma hora antes**, coma um pequeno-almoço leve e sente-se no meio do barco a olhar para o horizonte.
+- **Chegue cedo:** no iate ecológico, esteja na porta de embarque de Los Cristianos 20 minutos antes da partida; quem chega atrasado perde o passeio sem reembolso.
+- **Como chegar:** de Playa de las Américas e Costa Adeje pode ir a pé até Puerto Colón. O parque de estacionamento do porto de Los Gigantes é pequeno, por isso conte com tempo extra.
+- **Pergunte pela repetição:** alguns operadores oferecem um segundo passeio gratuito se não vir nada.
+- **Gravidez:** as lanchas rápidas costumam ter restrições; pergunte ao operador antes de reservar.
+- **Cancelamento:** os passeios partilhados aqui indicados permitem cancelamento gratuito até 24 horas antes. O barco privado reembolsa 90% se cancelar com 72 horas ou mais de antecedência, e 100% se o operador cancelar por causa do tempo.
+
+## O que levar
+
+Protetor solar, boné, fato de banho e toalha (muitos passeios incluem paragem para banho; o iate ecológico não fornece toalhas), um casaco leve e um comprimido para o enjoo, se precisar.
 
 [actividad: catamaran-whale-watching-buffet-tenerife]
 
 ## Outras formas de ver o mar
 
-O **caiaque** desde Los Cristianos percorre a costa vulcânica e por vezes cruza-se com golfinhos ou tartarugas. E o trilho do **Barranco de Masca** termina com um passeio de barco sob as falésias de Los Gigantes. Mais ideias em [o que ver em Tenerife](/pt/guides/tenerife/o-que-ver-em-tenerife).
+O [passeio de caiaque e snorkel desde Los Cristianos](/pt/cities/tenerife/activities/los-cristianos-kayak-snorkel) (3 horas, desde 23 €, 4,7★ em 12 364 avaliações) acompanha a costa vulcânica e por vezes cruza-se com golfinhos ou tartarugas. E o [trilho do Barranco de Masca](/en/cities/tenerife/activities/masca-gorge-hike-boat-trip) (6 horas, desde 145 €) termina com um passeio de barco sob as falésias de Los Gigantes. Mais ideias em [o que ver em Tenerife](/pt/guides/tenerife/o-que-ver-em-tenerife).
+
+## Numa frase
+
+Escolha um barco com a bandeira Barco Azul que não persiga os animais, saia de manhã a partir do sudoeste e terá todas as hipóteses de ver baleias-piloto em liberdade.

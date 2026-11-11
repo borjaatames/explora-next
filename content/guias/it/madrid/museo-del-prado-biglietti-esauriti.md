@@ -5,7 +5,7 @@ metaTitle: 'Museo del Prado biglietti: prezzo e orari'
 categoria: madrid
 slug: museo-del-prado-biglietti-esauriti
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -28,24 +28,21 @@ slugs:
   it: museo-del-prado-biglietti-esauriti
   pt: museu-do-prado-bilhetes-esgotados
 reservasArriba: true
-intro: 'Prima di comprare i **biglietti del Museo del Prado**, conviene sapere cosa ti aspetta: una delle grandi pinacoteche del mondo, aperta nel 1819 nell''edificio di Juan de Villanueva, con la migliore raccolta di **Velázquez, Goya ed El Greco** e capolavori di Bosch, Tiziano e Rubens. Si trova sul Paseo del Prado, a 10-15 minuti a piedi da Atocha, e la visita richiede due o tre ore.'
-respuestaCorta: 'I **biglietti del Museo del Prado** costano **15 €** su entradas.museodelprado.es o alla **biglietteria della Porta di Goya**. Quasi mai si esaurisce l''intera giornata, solo **singole fasce orarie**: prova un altro orario o la biglietteria. È **gratis dal lunedì al sabato dalle 18:00 alle 20:00** (domenica 17:00-19:00). Una visita guidata con biglietto garantisce l''ingresso.'
+respuestaCorta: 'Il Prado non si esaurisce quasi mai del tutto: di solito si riempie **una fascia oraria** oppure la coda delle ore gratuite è enorme. Prova un altro orario su `entradas.museodelprado.es` (**15 €**) o compra alla **biglietteria della Porta di Goya**. Se non vuoi rischiare, un **biglietto a orario rivenduto** (da 18 €) o una **visita guidata con ingresso** ti garantiscono la visita.'
 actividades:
   - museo-prado-entrada
   - museo-prado-visita-guiada
   - museo-prado-visita-privada-guia-oficial
   - art-walk-pass-prado-reina-sofia-thyssen
 faq:
-- pregunta: Si possono comprare i biglietti del Prado in biglietteria il giorno stesso?
-  respuesta: Sì. La biglietteria è accanto alla Porta di Goya, sul lato nord dell'edificio, e il biglietto intero costa come online, 15 €. Nei fine settimana, nei ponti e in alta stagione si forma la coda, quindi vai presto.
+- pregunta: Posso comprare i biglietti del Prado in biglietteria il giorno stesso?
+  respuesta: 'Sì. La biglietteria è accanto alla Porta di Goya, sul lato nord dell''edificio, e l''ingresso generale costa come online, 15 €. Nei fine settimana, nei giorni festivi e in alta stagione c''è coda, quindi vai presto.'
 - pregunta: Quando è gratis il Museo del Prado?
-  respuesta: 'Nelle ultime due ore di ogni giorno: dal lunedì al sabato dalle 18:00 alle 20:00 e domenica e festivi dalle 17:00 alle 19:00, solo la collezione permanente. L''ingresso chiude mezz''ora prima. È gratis tutto il giorno anche il 18 maggio e il 19 novembre. Under 18, studenti dai 18 ai 25 anni e disoccupati entrano sempre gratis.'
-- pregunta: Vale la pena fare la coda dell'ora gratuita?
-  respuesta: Solo se ti basta un'ora e mezza di visita. La coda si forma molto prima e la domenica e nei festivi può superare l'ora. Se vuoi vedere il museo con calma, conviene pagare e scegliere una fascia del mattino.
-- pregunta: È affidabile prenotare una visita guidata se il sito ufficiale non ha posti?
-  respuesta: Sì, purché la scheda dica che l'ingresso al museo è incluso. Gli operatori prenotano i posti in anticipo ed entri con il gruppo a un orario fisso, senza passare dalla biglietteria.
-- pregunta: In quali giorni chiude il Prado?
-  respuesta: Non ha un giorno di chiusura settimanale. Chiude solo il 1° gennaio, il 1° maggio e il 25 dicembre, e il 6 gennaio e il 24 e 31 dicembre chiude alle 14:00.
+  respuesta: 'Le ultime due ore di ogni giorno: da lunedì a sabato dalle 18:00 alle 20:00 e domenica e festivi dalle 17:00 alle 19:00, solo collezione permanente. L''ingresso chiude mezz''ora prima. È gratis anche tutto il giorno il 18 maggio e il 19 novembre. I minori di 18 anni, gli studenti tra 18 e 25 anni e i disoccupati entrano gratis a qualsiasi ora.'
+- pregunta: Vale la pena fare la coda delle ore gratuite?
+  respuesta: 'Solo se ti basta un''ora e mezza dentro. La coda inizia a formarsi molto prima della fascia gratuita e la domenica e i festivi può superare l''ora di attesa. Se vuoi vedere bene il museo, conviene pagare e scegliere una fascia al mattino.'
+- pregunta: Una visita guidata è affidabile se sul sito ufficiale non ci sono più posti?
+  respuesta: Sì, purché l'offerta indichi che l'ingresso al museo è incluso. Gli operatori prenotano i loro posti in anticipo ed entri con il gruppo a un orario fisso, senza passare dalla biglietteria.
 opciones:
   - ficha: museo-prado-entrada
     etiqueta: Biglietto a orario
@@ -54,6 +51,8 @@ opciones:
   - ficha: art-walk-pass-prado-reina-sofia-thyssen
     etiqueta: Con Reina Sofía e Thyssen
 ---
+
+Il Prado vende biglietti a orario e quasi mai resta senza posti per un'intera giornata. Quello che succede, soprattutto nei ponti, nei fine settimana normali e a Pasqua, è che **la fascia che volevi è esaurita** o che la coda delle ore gratuite fa il giro dell'isolato. Nessuna delle due cose significa perdersi il museo. Queste sono le strade, nell'ordine in cui conviene provarle.
 
 ## Quale biglietto scegliere?
 
@@ -64,57 +63,58 @@ opciones:
 | I tre grandi musei | [Art Walk Pass: Prado, Reina Sofía e Thyssen](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen), 4,4★ (489) | 38 € |
 | Solo il tuo gruppo | [Visita privata con guida ufficiale](/it/cities/madrid/activities/museo-del-prado-tour-privato-guida-ufficiale) | 146 € |
 
-## Cosa vedrai
+## 1. Ricontrolla il sito ufficiale
 
-Il Prado nasce dalle collezioni reali degli Asburgo e dei Borbone, e questo ne spiega il carattere: è la migliore raccolta al mondo di **Velázquez, Goya ed El Greco**, con fondi eccezionali di Bosch, Tiziano e Rubens. Copre la pittura europea dal XII al XIX secolo.
+Il sito ufficiale dei biglietti è `entradas.museodelprado.es`, collegato da `museodelprado.es`. L'ingresso generale costa **15 €** e il ridotto **7,50 €** (over 65, titolari della carta giovani e membri di famiglie numerose). I minori di 18 anni, gli studenti tra 18 e 25 anni e i disoccupati entrano **gratis a qualsiasi ora**, presentando un documento in biglietteria.
 
-Imperdibili: *Las Meninas* e la sala di Velázquez, le *Pitture nere* di Goya e *Il Giardino delle delizie* di Bosch. Calcola **2-3 ore**; una volta dentro non c'è limite di tempo.
+- **Guarda altri orari dello stesso giorno.** Ogni fascia ha il suo contingente e una volta dentro non c'è limite di tempo, quindi entrare alle 12:00 invece che alle 10:00 non ti toglie tempo al museo.
+- **Attento agli orari:** da lunedì a sabato **10:00–20:00**, domenica e festivi **10:00–19:00**. Il 6 gennaio e il 24 e 31 dicembre chiude alle 14:00.
+- **Controlla che sia aperto quel giorno.** Non c'è un giorno di chiusura settimanale, ma chiude il **1° gennaio, il 1° maggio e il 25 dicembre**.
+- **Se vai per una mostra temporanea,** prenota in anticipo e controlla esattamente cosa include il biglietto.
 
-[actividad: museo-prado-visita-guiada]
+Non contare su posti liberati all'ultimo minuto: se una fascia ti va bene, comprala appena la vedi.
 
-[actividad: art-walk-pass-prado-reina-sofia-thyssen]
+## 2. La biglietteria della Porta di Goya
 
-## Prezzo e orari del Museo del Prado
+La biglietteria è accanto alla **Porta di Goya**, sul lato nord dell'edificio, e ha gli stessi prezzi del sito. Se hai già il biglietto sul telefono, entri dalla **Porta dei Jerónimos** e salti la biglietteria. In alta stagione la coda si forma a metà mattina: vai all'apertura o nel primo pomeriggio.
 
-Il sito ufficiale di vendita è **entradas.museodelprado.es**, collegato a museodelprado.es.
+## 3. Ingresso gratuito ed El Prado de noche
 
-- **Intero:** 15 €.
-- **Ridotto:** 7,50 € (over 65, carta giovani e famiglie numerose).
-- **Sempre gratis:** under 18, studenti dai 18 ai 25 anni e disoccupati, con documento in biglietteria.
+Se vuoi solo entrare gratis: in [Museo del Prado gratis](/it/guides/madrid/museo-del-prado-gratis-orari) trovi gli orari, chi entra sempre gratis, quando metterti in coda e cosa vedere in quelle due ore.
 
-**Orari:** dal lunedì al sabato **10:00-20:00**, domenica e festivi **10:00-19:00**. Il 6 gennaio e il 24 e 31 dicembre chiude alle 14:00. Non ha chiusura settimanale, ma **chiude il 1° gennaio, il 1° maggio e il 25 dicembre**.
+La collezione permanente è **gratuita nelle ultime due ore di ogni giorno**: da lunedì a sabato **18:00–20:00**, domenica e festivi **17:00–19:00**. Le mostre temporanee non sono gratuite in quelle ore, ma costano la metà. L'ingresso chiude **mezz'ora prima della chiusura**, quindi in pratica hai un'ora e mezza.
 
-## Se i biglietti del Museo del Prado sono esauriti
+I biglietti gratuiti si distribuiscono **in biglietteria fino a esaurimento della capienza**, ed è questo il problema: la coda. Inizia a formarsi molto prima della fascia gratuita e la domenica e i festivi l'attesa può superare l'ora. Se ci vai, arriva presto e porta una lista breve: un'ora e mezza basta per Velázquez, Goya e Bosch, non molto di più. È gratis anche tutto il giorno il **18 maggio** (Giornata internazionale dei musei) e il **19 novembre** (anniversario del museo).
 
-Il Prado vende biglietti a orario e quasi mai resta senza posti per tutta la giornata. Quello che succede, soprattutto nei ponti, nei fine settimana e nella Settimana Santa, è che **la fascia che volevi risulta esaurita**. Prova in quest'ordine:
+Un'opzione meno conosciuta è **El Prado de noche**: il **primo sabato di ogni mese**, dalle **20:30 alle 23:30**, il museo apre gratis alcune sale, con ingresso dalla Porta dei Jerónimos fino a esaurimento della capienza. Il prossimo è sabato 7 novembre.
 
-1. **Altri orari dello stesso giorno** sul sito ufficiale. Ogni fascia ha il suo contingente, ed entrare alle 12:00 invece che alle 10:00 non ti toglie tempo di visita. Non contare su posti liberati all'ultimo: se vedi una fascia libera, comprala.
-2. **La biglietteria della Porta di Goya**, che vende per il giorno stesso allo stesso prezzo (vedi sotto).
-3. **Un biglietto di rivendita o una visita guidata.** I rivenditori autorizzati comprano i contingenti in anticipo e di solito hanno posto: biglietto a orario da 18 €, [visita guidata con biglietto](/it/cities/madrid/activities/museo-del-prado-visita-guidata) da 49 € o visita privata con guida ufficiale da 146 €. Controlla che la scheda dica **«ingresso al Museo del Prado incluso»**: alcuni giri passano solo davanti alla facciata.
+## 4. Un biglietto rivenduto o una visita guidata
+
+Quando il sito ufficiale non ha l'orario che vuoi, i rivenditori autorizzati di solito hanno ancora posti perché acquistano i loro contingenti in anticipo. Paghi più che sul sito ufficiale:
+
+- **Biglietto a orario, senza guida (da 18 €):** il modo più economico per fissare un orario senza dipendere dalla biglietteria.
+- **Visita guidata con ingresso (da 49 €):** le opere chiave con una guida, ed è la più votata tra quelle che segnaliamo.
+- **Visita privata con guida ufficiale (da 146 €):** per una famiglia o un piccolo gruppo che vuole andare al proprio ritmo.
+
+Prima di pagare, controlla che l'offerta indichi **"ingresso al Museo del Prado incluso"**. Alcune passeggiate per il centro passano solo davanti alla facciata.
 
 [actividad: museo-prado-entrada]
 
-Se vai per una **mostra temporanea**, compra in anticipo e controlla bene cosa include il biglietto.
+[actividad: museo-prado-visita-guiada]
 
-## Ingresso gratuito ed El Prado de noche
+## 5. La tessera Paseo del Arte
 
-La collezione permanente è **gratis nelle ultime due ore di ogni giorno**: dal lunedì al sabato **18:00-20:00** e domenica e festivi **17:00-19:00**. Le mostre temporanee in quelle ore costano la metà. L'ingresso chiude **mezz'ora prima**, quindi hai un'ora e mezza.
+Se visiti anche il **Reina Sofía** e il **Thyssen**, la tessera Paseo del Arte ti dà una visita alla collezione permanente di ciascun museo entro un anno. Nelle biglietterie dei musei costava **32,80 €** nel 2025; la versione che segnaliamo, acquistata online, parte da 38 €. Per decidere quale dei tre merita più tempo, leggi il nostro [confronto Prado, Reina Sofía e Thyssen](/en/guides/madrid/prado-vs-reina-sofia-vs-thyssen).
 
-I biglietti gratuiti non si prenotano: si ritirano **in biglietteria fino a esaurimento posti**. La coda inizia molto prima e la domenica e nei festivi può superare l'ora. Porta una lista breve: Velázquez, Goya e Bosch, poco altro. È gratis tutto il giorno anche il **18 maggio** (Giornata dei Musei) e il **19 novembre** (anniversario del museo). Tutti i dettagli in [Museo del Prado gratis](/it/guides/madrid/museo-del-prado-gratis-orari).
+[actividad: art-walk-pass-prado-reina-sofia-thyssen]
 
-**El Prado de noche:** il **primo sabato di ogni mese**, dalle **20:30 alle 23:30**, alcune sale aprono gratis, con ingresso dalla Porta dei Jerónimos fino a esaurimento della capienza.
+## Errori da evitare
 
-## Come arrivare, biglietteria e code
+1. **Comprare su siti che sembrano quello ufficiale.** Molti hanno "Prado" nel nome e fanno pagare di più. Quello ufficiale è `entradas.museodelprado.es`.
+2. **Presentarsi per le ore gratuite alle 18:00 in punto.** La coda è già lunga e l'ingresso chiude alle 19:30, o alle 18:30 la domenica.
+3. **Dimenticare il documento per l'ingresso gratuito o ridotto.** In biglietteria lo chiedono per verificare età, studi o condizione.
+4. **Andare il 1° gennaio, il 1° maggio o il 25 dicembre.** Sono gli unici giorni dell'anno in cui è chiuso.
 
-Il museo è sul Paseo del Prado, a **10-15 minuti a piedi da Atocha**.
+## In una frase
 
-- **Biglietteria:** accanto alla **Porta di Goya**, sul lato nord dell'edificio. In alta stagione la coda cresce a metà mattina: vai all'apertura o nel primo pomeriggio.
-- **Con il biglietto sul telefono** entri dalla **Porta dei Jerónimos**, senza passare dalla biglietteria.
-
-## Consigli
-
-- **Compra solo sul sito ufficiale.** Molti siti con «Prado» nel nome fanno pagare di più.
-- **Non arrivare all'ora gratuita alle 18:00 in punto:** la coda è già lunga e l'ingresso chiude alle 19:30 (la domenica alle 18:30).
-- **Porta un documento** se entri gratis o con il ridotto.
-- **Se visiti i tre grandi musei,** l'abbonamento Paseo del Arte include una visita alla collezione permanente di Prado, Reina Sofía e Thyssen entro un anno: costava 32,80 € in biglietteria nel 2025, online da 38 €. Per scegliere, leggi il nostro [confronto tra Prado, Reina Sofía e Thyssen](/it/guides/madrid/prado-reina-sofia-o-thyssen-quale-scegliere).
-- Con poco budget, in [Madrid gratis](/it/guides/madrid/madrid-gratis-cosa-fare-senza-spendere) trovi altri musei senza pagare; e se vuoi vedere anche il palazzo, leggi [cosa fare se il Palazzo Reale è esaurito](/it/guides/madrid/palazzo-reale-madrid-biglietti-esauriti).
+Se la tua fascia è esaurita, prova un altro orario sul sito ufficiale o la biglietteria della Porta di Goya e, se preferisci evitare le code, prenota un biglietto a orario o una visita guidata con ingresso incluso; con un budget ridotto, [Madrid low cost](/en/guides/madrid/madrid-on-a-budget) ha altri musei gratuiti e, se hai in lista anche il palazzo, leggi [cosa fare se il Palazzo Reale è esaurito](/en/guides/madrid/royal-palace-madrid-tickets-sold-out).

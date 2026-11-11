@@ -4,7 +4,7 @@ descripcion: 'If the official Mosque-Cathedral website has no tickets: other tim
 categoria: cordoba
 slug: cordoba-mosque-tickets-sold-out
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-10-27'
 autor: Borja
 publicada: true
 destacada: false
@@ -26,8 +26,7 @@ slugs:
   it: moschea-cordova-biglietti-esauriti
   pt: mesquita-de-cordova-bilhetes-esgotados
 reservasArriba: true
-intro: '**Córdoba Mosque tickets sold out** doesn''t mean you''re locked out. The monument, a forest of columns and two-tone arches with a cathedral in the middle, is huge and rarely fills up completely; what goes first is the **bell tower**, the **night visit** and some slots at Easter, in May and on long weekends. The visit itself takes about an hour.'
-respuestaCorta: 'When Córdoba Mosque tickets are sold out, it''s rarely everything: what goes is the **bell tower** (22 people per slot), the **night visit** and some long-weekend slots. Try another time on the official website (€15), the **ticket office**, the **free hour Monday to Saturday from 8:30 to 9:30** or a **tour with entry included**, from €22.'
+respuestaCorta: 'The Mezquita itself rarely sells out completely: what goes first is the **bell tower** (22 people per slot), the **night visit** and some slots on holiday weekends. Try another time on `tickets.mezquita-catedraldecordoba.es` (€15), the **free hour from Monday to Saturday, 8:30 to 9:30**, or a **tour with entry included**, from €22.'
 actividades:
   - mezquita-catedral-entrada-audioguia
   - mezquita-catedral-tour-guiado-sin-colas
@@ -35,16 +34,14 @@ actividades:
   - mezquita-catedral-cordoba-tour-privado
   - mezquita-juderia-cordoba-tour-privado
 faq:
-- pregunta: Can you buy Mezquita tickets at the ticket office?
-  respuesta: Yes. They are sold at the Information and Reception Centre in the Patio de San Eulogio, on the corner of Calle Torrijos and Amador de los Ríos, where audio guides are also collected. Sales and entry close 30 minutes before the monument closes.
-- pregunta: When is the Mezquita of Córdoba free?
-  respuesta: Monday to Saturday, from 8:30 to 9:30, except on days with special celebrations. Groups are not admitted and entry closes at 9:20. There is no free hour on Sundays. Children under 10 and people born or living in the Diocese of Córdoba also go free.
+- pregunta: Can I buy Mezquita tickets at the box office?
+  respuesta: 'Yes. They are sold at the Information and Reception Centre in the Patio de San Eulogio, on the corner of Calle Torrijos and Calle Amador de los Ríos, where you also pick up audio guides. Sales and entry stop 30 minutes before the monument closes.'
+- pregunta: When is the Mezquita free?
+  respuesta: 'Monday to Saturday from 8:30 to 9:30, except on days with special religious celebrations. Groups are not allowed and entry closes at 9:20. There is no free hour on Sundays. Children under 10 and people born or living in the Diocese of Córdoba also get in free.'
 - pregunta: What if the bell tower is sold out?
-  respuesta: 'Check the slots for the rest of the day and the following days: there are climbs every 30 minutes for up to 22 people. Tower tickets are also sold at the Patio de San Eulogio and from machines at the tower entrance. Children under 7 cannot go up.'
-- pregunta: Do tours always include entry to the Mezquita?
-  respuesta: No. Some Jewish Quarter walks only pass by outside. Before paying, check that the listing says "Mosque-Cathedral entry included".
-- pregunta: What can you see of the Mezquita without a ticket?
-  respuesta: The Courtyard of the Orange Trees, free to enter during opening hours, the Puerta del Perdón under the tower and the outer walls with their doorways, especially on Calle Torrijos.
+  respuesta: 'Check the slots for the rest of the day and the following days: tours go up every 30 minutes with a maximum of 22 people. Tower tickets are also sold at the Patio de San Eulogio and from machines at the tower entrance. Children under 7 can''t go up.'
+- pregunta: What can I see of the Mezquita without a ticket?
+  respuesta: 'The Patio de los Naranjos (Orange Tree Courtyard), open to all during opening hours; the Puerta del Perdón under the tower; and the outer walls with their carved doorways, especially along Calle Torrijos.'
 opciones:
   - ficha: mezquita-catedral-entrada-audioguia
     etiqueta: Cheapest
@@ -53,6 +50,8 @@ opciones:
   - ficha: mezquita-juderia-tour-a-pie
     etiqueta: Plus the Jewish Quarter
 ---
+
+The Mosque-Cathedral of Córdoba sells tickets by date and time, but the monument itself rarely sells out completely: it's huge and each slot has plenty of room. What does run out is **the bell tower**, which goes up in groups of 22; **the "El Alma de Córdoba" night visit**, with 100 places per show; and some specific slots at Easter, in May and on Spanish bank holiday weekends. If the website says "sold out", these are the routes left, in the order worth trying them.
 
 ## Which ticket should you choose?
 
@@ -64,60 +63,59 @@ opciones:
 | Just your group | [Private Mosque-Cathedral tour with entry](/en/cities/cordoba/activities/cordoba-mosque-cathedral-private-tour), 5★ (45) | €210 per group |
 | Private, plus the Jewish Quarter | [Private Mezquita and Jewish Quarter tour](/en/cities/cordoba/activities/cordoba-mosque-jewish-quarter-private-tour), 5★ (130) | €260 per group |
 
-## Try another time on the official website or at the box office
+## 1. Check the official website again, and the box office
 
-The official sales website is **tickets.mezquita-catedraldecordoba.es**, linked from mezquita-catedraldecordoba.es. Beware of look-alike sites with similar names that overcharge.
+The official ticket site is `tickets.mezquita-catedraldecordoba.es`, linked from `mezquita-catedraldecordoba.es`. General admission is **€15**; reduced tickets are **€12** (over-65s, students aged 15 to 26 and European Youth Card holders) or **€8** (children aged 10 to 14 and some other cases). **Children under 10** go free. If your slot shows as sold out:
 
-- **General:** €15.
-- **Reduced:** €12 (over-65s, students aged 15 to 26 and Carné Joven holders) or €8 (children aged 10 to 14 and other cases).
-- **Under 10:** free.
+- **Check every time that day.** In October 2026 it opens from **10:00 to 19:00**, and a visit takes about an hour, so a later slot rarely ruins the plan.
+- **Be careful on Sundays and religious holidays.** Visiting hours are fitted around Mass, so there are usually fewer slots and they fill sooner. Check the calendar on the official site, as hours change for special celebrations.
+- **Try the box office.** It's at the **Information and Reception Centre in the Patio de San Eulogio**, on the corner of Calle Torrijos and Calle Amador de los Ríos, where you also rent audio guides. Sales and entry stop **30 minutes before closing**.
 
-If your slot is sold out:
+## 2. The free early-morning hour
 
-- **Check every time of day.** In October 2026 it opens from **10:00 to 19:00** and the visit takes about an hour, so a later slot rarely ruins the plan.
-- **Be careful on Sundays and holidays.** Hours are adjusted around Mass, so there are fewer slots and they fill up sooner. They change for special celebrations: check the calendar on the official website.
-- **Go to the Córdoba Mosque box office:** it is at the **Information and Reception Centre in the Patio de San Eulogio**, on the corner of Calle Torrijos and Amador de los Ríos. Audio guides are rented there too. Sales and entry stop **30 minutes before closing**.
+From **Monday to Saturday, 8:30 to 9:30**, the Mezquita is **free**. Groups are not allowed, entry closes at **9:20**, and there's no free visit on Sundays or on days with special celebrations. It's your best move if the website is sold out: get there before 8:30 and you'll have the forest of columns almost to yourself. Just bear in mind you get less than an hour.
 
-## Mezquita Córdoba free entry at 8:30
+## 3. If the bell tower is sold out
 
-From **Monday to Saturday, 8:30 to 9:30**, the Mezquita is **free**. Groups are not admitted, entry closes at **9:20**, and there is no free visit on Sundays or on days with special celebrations.
-
-It's the best move when the website is sold out: arrive before 8:30 and you'll have the forest of columns almost to yourself. You get less than an hour, though, and if you turn up at 9:25 you won't get in.
-
-## Córdoba Mosque bell tower sold out
-
-The tower is the first thing to sell out, because it goes up in **30-minute slots for a maximum of 22 people**. In October 2026 there are climbs from 9:30 to 18:30, and a ticket costs **€4**. If you can't find a slot:
+The tower is the first thing to go, because it runs in **30-minute slots with a maximum of 22 people**. In October 2026 there are tours from 9:30 to 18:30, and a ticket costs **€4**. If you can't find a place:
 
 - **Check the slots for the rest of the day and the following days**, not just the morning ones.
 - **Ask in person:** tower tickets are also sold at the Patio de San Eulogio and from **machines at the tower entrance**.
-- **Mind the restrictions:** children under 7 cannot go up and medium or large backpacks are not allowed.
+- **Mind the restrictions:** children under 7 can't go up, and medium or large backpacks aren't allowed.
 
-## If the night visit is sold out
+## 4. If the night visit is sold out
 
-**"The Soul of Córdoba"** is a one-hour night tour with headphones, in nine languages, for **100 people per session**. It costs **€25** (€18 reduced). In October 2026 there are sessions at **21:00 and 22:30**; times change with the season.
+**"El Alma de Córdoba"** is a one-hour night tour with headphones, in nine languages, for **100 people per show**. It costs **€25** (€18 reduced). In October 2026 there are shows at **21:00 and 22:30**; times change with the season. If your night is full, look at the night before or after and the other time on the same evening. And leave bags and backpacks over 35 cm at the hotel: they won't let them in.
 
-If your night is full, check the night before, the night after and the other time on the same day. And don't bring bags or backpacks over 35 cm: they won't let them in.
+## 5. A tour or ticket with the Mezquita included
 
-## A tour with entry included
+When the official website doesn't have the time you want, operators usually still have places because they buy tickets in advance. You pay more than on the official site:
 
-When the official website doesn't have the time you want, operators often still have places because they buy their tickets in advance. You pay more than on the official website:
-
-- **Ticket with audio guide (from €22):** the cheapest if you just want to wander on your own.
-- **Skip-the-line guided tour (from €32):** the most popular, with a guide and no ticket-office queue.
+- **Ticket with audio guide (from €22):** the cheapest option if you just want to go in at your own pace.
+- **Skip-the-line guided tour (from €32):** the most popular, with a guide and no box office queue.
 - **Mezquita and Jewish Quarter (from €34):** the monument and the neighbourhood in one morning.
 
-Before paying, check that the listing says **"Mosque-Cathedral entry included"**: some Jewish Quarter walks only pass by outside.
+Before paying, check that the listing says **"Mosque-Cathedral entry included"**. Some Jewish Quarter walks only go round the outside.
 
 [actividad: mezquita-catedral-tour-guiado-sin-colas]
 
 [actividad: mezquita-juderia-tour-a-pie]
 
-## What you can see without a ticket
+## 6. What you can see without a ticket
 
-If nothing works out, the Mezquita still gives a lot from the outside:
+If you get nothing, the Mezquita still gives you plenty from outside:
 
-- The **Courtyard of the Orange Trees**, free to enter during opening hours, with its orange trees and the tower above.
+- The **Patio de los Naranjos** (Orange Tree Courtyard), open to all during opening hours, with the tower above it.
 - The **Puerta del Perdón**, under the bell tower, the gateway into the courtyard.
-- The **outer walls** with their doorways, especially on Calle Torrijos, and the stroll to the **Roman Bridge**, a few minutes away.
+- The **outer walls** with their carved doorways, especially along Calle Torrijos, and the short walk to the **Roman Bridge**.
 
-If you do get in, remember that large bags aren't allowed and heads must be uncovered. What to see inside and how to plan the rest of the day are covered in [how to visit the Mosque-Cathedral of Córdoba](/en/guides/cordoba/mosque-cathedral-how-to-visit) and [Córdoba in one day](/en/guides/cordoba/cordoba-in-one-day).
+## Mistakes to avoid
+
+1. **Buying from sites that look like the official one.** They overcharge under similar names. The official site is `tickets.mezquita-catedraldecordoba.es`.
+2. **Booking a tour without checking it includes entry.** You pay for a guide and stay in the courtyard.
+3. **Turning up at 9:25 for the free hour.** Entry closes at 9:20.
+4. **Bringing a big backpack or wearing a cap.** Large bags aren't allowed and you have to go in with your head uncovered.
+
+## In one sentence
+
+If the official site is sold out, try another time, the free hour from 8:30 to 9:30 or a tour with entry included, and if it's the tower you're missing, check the afternoon slots; everything else is in [how to visit the Mosque-Cathedral of Córdoba](/en/guides/cordoba/mosque-cathedral-how-to-visit) and [Córdoba in one day](/en/guides/cordoba/cordoba-in-one-day).

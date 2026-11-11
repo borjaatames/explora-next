@@ -1,12 +1,11 @@
 ---
 titulo: "Mangiare a Maiorca con criterio: ensaïmada, sobrasada e cellers"
 descripcion: "Guida per mangiare a Maiorca: ensaïmada, sobrasada, pa amb oli, tumbet e arròs brut. Dove mangiare maiorchino davvero, mercati, vini e cosa evitare."
-intro: '**Mangiare a Maiorca** significa scoprire una cucina contadina e di mare, sostanziosa e buonissima: **ensaïmada**, **sobrasada**, pa amb oli, tumbet o arròs brut. Nelle zone turistiche della baia abbondano i menù internazionali; la vera cucina maiorchina sta nell''entroterra, nei **cellers** e nei ristoranti di paese come Sineu, Inca o Algaida, nei mercati settimanali e nei forni storici di Palma.'
-respuestaCorta: 'Per mangiare a Maiorca davvero, vai nell''entroterra nei **cellers di Inca, Sineu o Algaida**, dove il menù del giorno costa circa **15-20 €**. Ordina pa amb oli, tumbet, frit o arròs brut, prova la **sobrasada con il miele** e compra l''ensaïmada in un forno storico di Palma. Evita il lungomare di Magaluf e s''Arenal.'
+respuestaCorta: 'Per mangiare davvero maiorchino, vai nell''entroterra nei **cellers di Inca, Sineu o Algaida**, dove il menù del giorno costa circa **15-20 €**. Ordina pa amb oli, tumbet, frit o arròs brut, assaggia la **sobrasada con il miele** e compra l''ensaïmada in un forno storico di Palma. Evita la prima linea di Magaluf e s''Arenal.'
 categoria: "mallorca"
 slug: "dove-mangiare-a-maiorca"
 fecha: "2026-04-20"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
@@ -29,68 +28,64 @@ slugs:
 actividades:
   - palma-tour-gastronomico-casco-antiguo
   - palma-ruta-gourmet-vino-tapas-autoguiada
-faq:
-- pregunta: Dove mangiare vera cucina maiorchina?
-  respuesta: 'Nei cellers dei paesi dell''entroterra, come Inca, Sineu o Algaida, e nei mercati: il Mercat de l''Olivar e quello di Santa Catalina a Palma, o quello di Sineu il mercoledì. Più ti allontani dal lungomare di Magaluf o s''Arenal, meglio mangi.'
-- pregunta: Quanto costa mangiare a Maiorca?
-  respuesta: 'Indicativamente: menù del giorno in un celler, 15-20 €; pa amb oli con prosciutto, 9-12 €; porzione di frit, 10-14 €; ensaïmada singola, 2,50-3,50 €, e quella grande da asporto, 12-20 € a seconda del ripieno.'
-- pregunta: Cos'è un celler a Maiorca?
-  respuesta: 'Un''antica cantina trasformata in ristorante, di solito con grandi botti alle pareti, che serve cucina maiorchina tradizionale. Spesso chiudono uno o due giorni infrasettimanali e alcuni ad agosto: telefona prima di andare.'
-- pregunta: Si può portare un'ensaïmada in aereo?
-  respuesta: Sì, la scatola ottagonale viaggia senza problemi come bagaglio a mano. Comprala l'ultimo giorno in un forno storico, come Ca'n Joan de s'Aigo o Fornet de la Soca a Palma, e scegli quella liscia se la mangerai dopo più di due giorni.
-- pregunta: A che ora si mangia a Maiorca?
-  respuesta: Si pranza dalle 13:30 alle 15:30 e si cena dalle 20:30. Fuori da questi orari, nei paesi trovi solo qualcosa nei bar. A luglio e agosto prenota sempre, anche a pranzo.
 ---
 
-## Cosa mangiare a Maiorca: l'imprescindibile
+**La cucina maiorchina è contadina e di mare, sostanziosa e molto buona**, ma nelle zone turistiche della baia abbondano i menù internazionali con paella surgelata e pizza. Per mangiare davvero maiorchino bisogna andare nell'entroterra, nei **cellers** e nei ristoranti di paese. Questa guida ti dà le chiavi e i piatti da non perdere.
 
-- **Ensaïmada.** Il dolce a spirale per eccellenza, fatto con lo strutto (*saïm*). Liscia o ripiena di cabello de ángel (confettura di zucca); esiste anche salata con sobrasada. Per colazione o merenda.
-- **Sobrasada.** L'insaccato di maiale e paprika, spalmabile, con Denominazione di Origine. Si mangia da sola, sul pane o calda con il miele, un abbinamento sorprendente.
-- **Pa amb oli.** Pane scuro con olio, pomodoro ramellet strofinato, sale e, sopra, formaggio o prosciutto. Semplice e irresistibile.
-- **Tumbet.** Verdure al forno a strati (patate, melanzane, peperoni) con salsa di pomodoro. Il contorno principe.
-- **Frit e arròs brut.** Il **frit mallorquí** (frattaglie con patate e verdure) e l'**arròs brut**, un riso brodoso «sporco» con carne e cacciagione, da mangiare col cucchiaio.
+La regola: più ti allontani dal lungomare di Magaluf o s'Arenal e più ti addentri nei paesi (Sineu, Inca, Algaida), meglio mangi.
 
-## Dove mangiare a Maiorca
+## L'imprescindibile
 
-La regola: **più ti allontani dal lungomare di Magaluf o s'Arenal** e più entri nei paesi, meglio mangi.
+**Ensaïmada.** Il dolce a spirale per eccellenza, fatto con lo strutto (*saïm*). Semplice o ripiena di cabello de ángel (confettura di zucca); c'è anche la versione salata con sobrasada. Per colazione o merenda.
+
+**Sobrasada.** Il salume di maiale e paprika, spalmabile, a Denominazione di Origine. Si mangia da sola, con il pane, o calda con il miele.
+
+**Pa amb oli.** Pane scuro con olio, pomodoro de ramellet strofinato, sale e, sopra, formaggio o prosciutto. Semplice e irresistibile.
+
+**Tumbet.** Verdure al forno a strati (patate, melanzane, peperoni) con salsa di pomodoro. Il contorno per eccellenza.
+
+**Frit e arròs brut.** Il **frit mallorquí** (frattaglie con patate e verdure) e l'**arròs brut**, un riso brodoso "sporco" con carne e selvaggina, da mangiare al cucchiaio.
+
+## Dove mangiare bene
 
 | Luogo | Cosa cercare |
 | --- | --- |
 | Cellers (Inca, Sineu, Algaida) | Cucina maiorchina tradizionale |
-| Mercat de l'Olivar / Santa Catalina (Palma) | Tapas e prodotti freschi |
+| Mercat de l'Olivar / Santa Catalina (Palma) | Tapas e prodotto fresco |
 | Mercati di paese (Sineu, mercoledì) | Atmosfera locale e prodotti |
 | Paesi della Tramuntana | Arance di Sóller, olio, gelati |
 
-**I mercati di Palma.** Il **Mercat de l'Olivar** è dove fanno la spesa i palmigiani: apre dal lunedì al sabato dalle 7:00 e chiude alle 14:30 nei feriali (il venerdì riapre in parte il pomeriggio fino alle 20:00) e alle 15:00 il sabato. Quello di **Santa Catalina** è più piccolo e con più bar per le tapas. La domenica chiudono entrambi.
+## Da bere
 
-**I mercati di paese**, la mattina (verso le 14:00 si smonta): **Sineu** il mercoledì (il più autentico, con animali), **Inca** il giovedì, **Santa Maria** la domenica, **Alcúdia** martedì e domenica e **Pollença** la domenica.
+Vini delle DO **Binissalem** (con l'uva Manto Negro) e **Pla i Llevant**, sempre migliori. Come digestivo, le **hierbas mallorquinas** (dolci, secche o miste), un liquore alle erbe molto tipico.
 
-## Prezzi, orari e prenotazioni
+## Dolci e stagione
 
-- **Menù del giorno in un celler:** 15-20 €.
-- **Pa amb oli con prosciutto:** 9-12 €. **Porzione di frit:** 10-14 €.
-- **Ensaïmada singola:** 2,50-3,50 €; quella grande da asporto, 12-20 € a seconda del ripieno.
-- **Orari:** pranzo dalle **13:30 alle 15:30** e cena **dalle 20:30**; fuori da questi orari, nei paesi solo i bar.
-- **Cellers:** chiudono uno o due giorni infrasettimanali e ad agosto alcuni chiudono per ferie. Telefona prima.
-- **Prenotare:** a luglio e agosto sempre, anche a pranzo. I locali buoni della costa si riempiono con giorni di anticipo.
+Oltre all'ensaïmada, il **gató** (torta di mandorle servita con il gelato), e a Settimana Santa i **robiols** e i **crespells**. La mandorla è protagonista (l'isola si riempie di fiori a gennaio-febbraio).
 
-## Vini, dolci e stagione
+## Informazioni pratiche: orari, prezzi e dove comprare
 
-Da bere, i vini delle DO **Binissalem** (con l'uva Manto Negro) e **Pla i Llevant**, sempre migliori. Come digestivo, le **hierbas mallorquinas** (dolci, secche o miste), un liquore d'erbe tipico.
+- **Orari:** si pranza dalle 13:30 alle 15:30 e si cena dalle 20:30; fuori da questi orari, nei paesi troverai la cucina aperta solo nei bar. I cellers chiudono uno o due giorni infrasettimanali e ad agosto alcuni chiudono per ferie: telefona prima.
+- **Prezzi indicativi:** menù del giorno in un celler, 15-20 €; pa amb oli con prosciutto, 9-12 €; porzione di frit, 10-14 €; ensaïmada singola, 2,50-3,50 €; quella grande da portar via, 12-20 € a seconda del ripieno.
+- **Giorni di mercato:** Sineu il mercoledì (il più autentico, con animali), Inca il giovedì, Santa Maria la domenica, Alcúdia martedì e domenica, Pollença la domenica. Di mattina; alle 14:00 smontano.
+- **Mercati di Palma:** il Mercat de l'Olivar apre dal lunedì al sabato dalle 7:00 e chiude alle 14:30 nei giorni feriali (il venerdì riapre in parte il pomeriggio, fino alle 20:00) e alle 15:00 il sabato; è dove fanno la spesa i palmesani; quello di Santa Catalina è più piccolo e con più bar per le tapas. La domenica chiudono entrambi.
+- **Portarsi a casa l'ensaïmada:** la scatola ottagonale viaggia come bagaglio a mano senza problemi. Comprala l'ultimo giorno in un forno storico (Ca'n Joan de s'Aigo o Fornet de la Soca, a Palma) e chiedi quella semplice se ci metterai più di due giorni a mangiarla.
+- **Prenotare:** a luglio e agosto, sempre, anche per pranzo. I posti buoni della costa si riempiono con giorni di anticipo.
 
-Oltre all'ensaïmada, il **gató** (torta di mandorle servita con gelato) e, a Pasqua, i **robiols** e i **crespells**. La mandorla è protagonista: l'isola fiorisce a gennaio e febbraio.
+## Cosa NON consigliamo
 
-## Ensaïmada da portare a casa
-
-- La scatola ottagonale viaggia senza problemi come **bagaglio a mano**.
-- Comprala l'ultimo giorno in un forno storico, come **Ca'n Joan de s'Aigo** o **Fornet de la Soca**, a Palma. Non in un posto qualsiasi: si sente.
-- Se la mangerai dopo più di due giorni, prendi quella **liscia**.
+1. **Mangiare in prima linea a Magaluf o s'Arenal.** Menù internazionali e prezzi turistici.
+2. **Ordinare la "paella" in un posto con le foto plastificate.** Non è la cucina dell'isola; cerca arròs brut o tumbet.
+3. **Saltare un celler.** È lì che si mangia davvero maiorchino.
 
 ## Errori tipici
 
-1. **Mangiare sul lungomare di Magaluf o s'Arenal:** menù internazionali e prezzi turistici.
-2. **Ordinare la «paella» in un locale con foto plastificate.** Non è la cucina dell'isola; cerca l'arròs brut o il tumbet.
-3. **Saltare un celler.** È lì che si mangia davvero maiorchino.
-4. **Non assaggiare la sobrasada con il miele.**
+> **Attenzione:** gli sbagli che vediamo più spesso.
 
-Per inquadrare il viaggio, leggi [cosa vedere a Maiorca](/it/guides/mallorca/cosa-vedere-a-maiorca).
+1. **Restare solo sulla costa turistica per mangiare.** Nell'entroterra migliora tutto.
+2. **Non assaggiare la sobrasada con il miele.** Un abbinamento che sorprende.
+3. **Comprare l'ensaïmada in un posto qualsiasi.** Comprala in un forno rinomato; si sente.
+
+## In una frase
+
+Mangiare a Maiorca con criterio significa ensaïmada di forno, sobrasada con il miele, pa amb oli e un arròs brut in un celler di paese, lontano dal lungomare turistico. Lo inquadriamo in [cosa vedere a Maiorca](/it/guides/mallorca/cosa-vedere-a-maiorca).

@@ -5,14 +5,14 @@ metaTitle: "Port de Valence en croisière : que faire pendant l'escale"
 categoria: "valencia"
 slug: "port-de-valence-escale-croisiere"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-11-01"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/valencia/mar/veles-e-vents.webp"
 imagen_alt: "Le bâtiment Veles e Vents dans la Marina de València, près du port, avec des voiliers amarrés devant"
-tiempo_lectura: 5
+tiempo_lectura: 6
 keywords:
   - "port de valence croisière"
   - "terminal croisière valence centre-ville"
@@ -28,8 +28,7 @@ slugs:
   it: porto-crociere-valencia-cosa-fare
   pt: porto-de-valencia-cruzeiros
 reservasArriba: true
-intro: 'Au **port de Valence**, les navires de **croisière** accostent au terminal Trasmed, à l''entrée nord du port, à environ 5 km de la vieille ville. C''est une escale très agréable : une fois le trajet réglé, le Marché central, la Lonja de la Seda, la cathédrale et le quartier du Carmen tiennent en quelques heures de promenade, et avec plus de temps vous rejoignez la Cité des Arts et des Sciences ou la plage.'
-respuestaCorta: 'Au port de Valence, les croisières arrivent au **terminal Trasmed**, à **5 km de la vieille ville**. Le plus pratique : le **taxi** (15-20 min, 12-15 €) ; les **bus EMT** 4 et 95 (**2 €**) passent à 10 minutes à pied. En **4 heures** : Marché central, Lonja et cathédrale ; en 8, la Cité des Arts en plus.'
+respuestaCorta: 'Les navires de croisière accostent près du **terminal passagers Trasmed**, à l''entrée nord du port, à **environ 5 km de la vieille ville** : on n''y va pas à pied. Le plus pratique est le **taxi** (15-20 minutes, environ 12-15 €) ou la navette de votre compagnie ; le **bus EMT** (lignes 4 et 95, **2 €**) part d''un arrêt à 10 minutes à pied. En **4 heures**, vous voyez le Mercado Central, la Lonja et la cathédrale ; en 8, ajoutez la Cité des Arts ou une paella sur la plage.'
 faq:
   - pregunta: "Peut-on aller à pied du port de Valence au centre ?"
     respuesta: "Ce n'est pas conseillé : la vieille ville est à environ 5 km du terminal. À pied, vous rejoignez en revanche en 20-25 minutes les plages de Las Arenas et du Cabanyal, et en environ 20 minutes l'arrêt du Bus Turístic dans la Marina."
@@ -50,68 +49,82 @@ actividades:
   - valencia-tour-privado-dia-completo-lonja-paella
 ---
 
-## Où accoste le navire à Valence ?
+Valence est une escale très agréable, mais avec un piège : **le port n'est pas à côté de la vieille ville**. Il y a environ 5 km entre le terminal et la cathédrale : la clé est donc de bien organiser le trajet. Une fois sur place, tout ce qui compte (le Mercado Central, la Lonja, la cathédrale et le Carmen) tient en une promenade de quelques heures.
 
-Les croisières utilisent le **terminal passagers Trasmed**, du groupe Grimaldi, à l'**entrée nord du port**, la partie la plus proche de la ville et en accès libre. Les postes à quai prévus pour les croisières en 2026 sont les quais Transversal et de Poniente, près du terminal, pour les navires de moins de 300 mètres.
+## Où accoste le bateau à Valence ?
 
-Si votre navire accoste à un quai plus éloigné dans le port de commerce, la compagnie met en place un bus jusqu'au terminal. Tous les transports partent de là.
+Les navires de croisière utilisent le **terminal passagers Trasmed**, du groupe Grimaldi, à l'**entrée nord du port**, la partie la plus proche de la ville et en accès libre. Les postes d'amarrage pour les croisières en 2026 sont le quai Transversal et celui de Poniente, à côté du terminal, pour les navires de moins de 300 mètres.
 
-## Du terminal de croisière au centre de Valence : taxi ou bus
+Si votre bateau accoste à un quai plus éloigné dans le port de commerce, la compagnie met en place un bus jusqu'au terminal. C'est de là que partent tous les transports.
+
+## Comment rejoindre le centre
 
 | Option | Durée | Prix | À savoir |
 | --- | --- | --- | --- |
 | Taxi ou VTC | 15-20 min | Environ 12-15 € | Station signalée à la sortie du terminal ; aussi Uber, Cabify et Bolt |
-| Bus EMT, ligne 4 | Environ 45 min jusqu'aux Torres de Serranos | 2 € | Arrêt 1306, à environ 10 min à pied |
+| Bus EMT, ligne 4 | Environ 45 min jusqu'aux Torres de Serranos | 2 € le ticket simple | Arrêt 1306, à environ 10 min à pied |
 | Navette de la compagnie | Variable | Fixé par la compagnie | Demandez où elle s'arrête et si elle est payante |
-| À pied | Plus d'une heure | Gratuit | Pas rentable ; oui pour aller à la plage |
+| À pied | Plus d'une heure | Gratuit | Pas intéressant ; en revanche oui pour aller à la plage |
 
-- **Taxi :** la meilleure option dès deux personnes. Le tarif 2026 comprend une prise en charge de **2 €** et **1,36 €/km** de jour (2,60 € et 1,48 € la nuit et les jours fériés). Demandez à être déposé **Plaza de la Reina**, à côté de la cathédrale.
-- **Bus :** départ de l'arrêt **1306, Pont de les Drassanes – Terminal marítima**. La **ligne 4** va vers la Plaza del Ayuntamiento et la **95** vers la plage et la Marina. Ticket simple, **2 €**.
-- **À pied**, vous rejoignez les plages de Las Arenas et du Cabanyal (20-25 minutes) et l'arrêt du Bus Turístic à la Marina (environ 20 minutes).
+- **Le taxi** est la meilleure option dès que vous êtes deux ou plus. Le tarif 2026 prévoit une prise en charge de 2 € et 1,36 € par kilomètre en journée (2,60 € et 1,48 € la nuit et les jours fériés). Demandez à être déposé sur la **plaza de la Reina**, près de la cathédrale.
+- **Le bus** part de l'arrêt **1306, Pont de les Drassanes – Terminal marítima**. La **ligne 4** va vers la plaza del Ayuntamiento et la **95**, vers la plage et la Marina. Le ticket simple coûte **2 €**.
+- **À pied**, vous rejoignez les plages de Las Arenas et du Cabanyal (20-25 minutes) et l'arrêt du Bus Turístic dans la Marina (environ 20 minutes).
 
-## Escale de croisière à Valence : que voir en 4, 6 ou 8 heures
+## Que voir en 4, 6 ou 8 heures
 
-- **4 heures :** taxi jusqu'à la Plaza de la Reina. **Cathédrale et Miguelete**, place de la Virgen, **Lonja de la Seda** et **Marché central** (pas le dimanche).
-- **6 heures :** tout cela, plus le **quartier du Carmen**, les **Torres de Serranos** et un déjeuner de paella.
-- **8 heures :** le centre le matin et la **Cité des Arts et des Sciences** l'après-midi (entre le port et le centre, plus près du port) ; ou le centre et une paella à la plage, à deux pas du port. L'Oceanogràfic demande au moins 2-3 heures : réservez en ligne en haute saison (dès 37 €).
+| Heures à terre | Programme | Quoi réserver |
+| --- | --- | --- |
+| 4 heures | Taxi jusqu'à la plaza de la Reina. Cathédrale et Miguelete, plaza de la Virgen, Lonja de la Seda et Mercado Central (pas le dimanche) | Visite privée de 2 heures du centre historique, à partir de 48 € par personne |
+| 6 heures | Tout cela, plus le quartier du Carmen, les Torres de Serranos et un déjeuner paella | Visite privée de 4 heures avec la Lonja et une horchata, à partir de 88 € par personne |
+| 8 heures | Le centre le matin et la Cité des Arts et des Sciences l'après-midi ; ou le centre et une paella sur la plage, à deux pas du port | Billet pour l'Oceanogràfic, à partir de 37 € |
 
-**Prix indicatifs :** cathédrale et Miguelete, **9 €** avec audioguide (du lundi au samedi, de 10h30 à 18h30) ; Lonja de la Seda, **2 €** ; Torres de Serranos et de Quart, **2 €** chacune, gratuites le dimanche.
+Prix indicatifs des monuments : cathédrale et Miguelete, 9 € avec audioguide (du lundi au samedi, de 10 h 30 à 18 h 30) ; Lonja de la Seda, 2 € ; Torres de Serranos et de Quart, 2 € chacune, gratuites le dimanche.
 
-Si vous voulez un guide, les visites privées partent des **Torres de Serranos**, à environ 15 minutes en taxi du port, et aucune ne vient vous chercher au navire. Celle de **2 heures** dans le centre historique coûte à partir d'environ 48 € par personne à deux (environ 27 € à quatre) ; celle de 4 heures avec la Lonja et l'horchata, à partir d'environ 88 € (59 € à quatre). Si vous préférez ne pas marcher, le tuk-tuk privé d'une heure démarre à 30 € par personne, jusqu'à 8 personnes.
-
-[actividad: valencia-tour-privado-2-horas-centro-historico]
-
-Pour deux jours en ville, voyez [Valence en 2 jours](/fr/guides/valencia/valence-en-2-jours) ; pour choisir où manger du riz, [où manger une paella à Valence](/fr/guides/valencia/ou-manger-une-vraie-paella-a-valence).
+Les visites privées commencent aux **Torres de Serranos**, à environ 15 minutes en taxi du port. Celle de **4 heures avec la Lonja et une horchata** coûte à partir d'environ **88 € par personne** en couple et **59 € si vous êtes 4**.
 
 [actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
 
+Si vous manquez de temps, la version de **2 heures** coûte à partir d'environ 48 € par personne en couple (environ 27 € si vous êtes 4). Et si vous préférez ne pas marcher, le **tuk-tuk privé d'une heure** (à partir de 30 € par personne, jusqu'à 8 personnes) parcourt le centre sans effort.
+
+[actividad: valencia-tour-privado-2-horas-centro-historico]
+
+Avec 8 heures, la **Cité des Arts et des Sciences** se trouve entre le port et le centre, plus près du port. L'Oceanogràfic demande au moins 2-3 heures : réservez-le en ligne en haute saison.
+
 [actividad: oceanografic-valencia-entrada]
 
-## Excursion du navire ou en autonomie
+Pour deux jours en ville, consultez [Valence en 2 jours](/fr/guides/valencia/valence-en-2-jours) ; pour choisir une arrocería, [où manger une paella à Valence](/fr/guides/valencia/ou-manger-une-vraie-paella-a-valence).
 
-À Valence, inutile de quitter la ville : tout l'essentiel se visite seul ou avec une visite à pied.
+## Excursion du bateau ou par vos propres moyens
 
-- **Excursion de la compagnie :** le navire **attend ses propres excursions** en cas de retard.
-- **Visite privée dans le centre** (dès 48 € par personne, 2 heures) : vous maîtrisez l'heure de retour, mais le navire n'attend pas.
-- **En autonomie :** taxi et entrées. Tout le risque est pour vous, mais le trajet est court.
+À Valence, inutile de sortir de la ville : la comparaison change donc par rapport à Malaga ou Cadix :
 
-Avec une visite de 2 à 4 heures dans le centre, le vrai risque, c'est le retour : gardez de la marge pour le taxi.
+| Option | Prix | Et en cas de retard ? |
+| --- | --- | --- |
+| Excursion de la compagnie | Celui fixé par votre compagnie | Le bateau attend ses propres excursions |
+| Visite privée dans le centre | À partir de 48 € par personne (2 heures) | Vous maîtrisez l'heure du retour ; le bateau n'attend pas |
+| Par vos propres moyens | Taxi et entrées | Tout le risque est pour vous, mais le trajet est court |
 
-## À quelle heure revenir au navire ?
+Le bateau n'attend que les excursions vendues par la compagnie. Avec une visite privée de 2 à 4 heures dans le centre, le vrai risque, c'est le trajet du retour : gardez de la marge pour le taxi.
 
-- L'**all aboard** a généralement lieu 30 à 60 minutes avant le départ, en **heure du bord** : il figure dans le programme du jour.
+## À quelle heure revenir au bateau ?
+
+- L'**all aboard** a généralement lieu 30 à 60 minutes avant l'appareillage, en **heure du bord** : il figure dans le programme du jour.
 - **Règle pratique :** être au terminal **1 heure avant l'all aboard** et quitter le centre **1 h 30 avant**. Si vous dépendez du bus, ajoutez 30 minutes.
-- Si votre navire accoste loin du terminal, comptez aussi le bus interne de la compagnie.
-- Emportez votre carte de bord et une pièce d'identité.
+- Si votre bateau accoste loin du terminal, tenez compte aussi du bus interne de la compagnie.
+- Ayez sur vous la carte du bateau et une pièce d'identité.
 
-## Dimanches, jours fériés et erreurs fréquentes
+## Dimanches et jours fériés
 
-Si votre escale tombe un dimanche, inversez l'ordre : Cité des Arts ou plage le matin, cathédrale l'après-midi.
-
-- **Marché central :** fermé le dimanche ; ouvert du lundi au samedi de 7h30 à 15h.
+- **Mercado Central :** fermé le dimanche ; ouvert du lundi au samedi de 7 h 30 à 15 h.
 - **Lonja de la Seda :** gratuite les dimanches et jours fériés, mais fermée l'après-midi.
-- **Cathédrale et Miguelete :** le dimanche, visites l'après-midi seulement.
-- **N'allez pas au centre à pied :** environ 5 km à travers la zone portuaire.
-- **La paella, c'est à midi :** à Valence, c'est un plat du déjeuner, pas du dîner.
-- **Ne combinez pas Oceanogràfic et vieille ville en 4 heures :** vous n'aurez pas le temps.
-- **N'attendez pas le dernier bus du retour :** à deux ou plus, le taxi coûte presque pareil et va plus vite.
+- **Cathédrale et Miguelete :** le dimanche, ils ne se visitent que l'après-midi.
+- **Torres de Serranos et de Quart :** gratuites le dimanche.
+- Si votre escale tombe un dimanche, inversez l'ordre : Cité des Arts ou plage le matin et cathédrale l'après-midi.
+
+## Erreurs fréquentes
+
+1. **Vouloir aller à pied jusqu'au centre.** C'est environ 5 km à travers la zone portuaire.
+2. **Prévoir le Mercado Central un dimanche.** Il est fermé.
+3. **Commander une paella au dîner en fin de journée.** À Valence, c'est un plat du midi : mangez-la à midi et rentrez avec de la marge.
+4. **Faire l'Oceanogràfic et la vieille ville en 4 heures.** On n'a pas le temps pour les deux.
+5. **Attendre le bus du retour au dernier moment.** À deux ou plus, le taxi revient presque au même prix et il est plus rapide.

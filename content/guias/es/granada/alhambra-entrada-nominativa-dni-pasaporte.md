@@ -25,6 +25,7 @@ slugs:
   en: alhambra-tickets-name-passport-id
 intro: 'Las **entradas de la Alhambra son nominativas**: cada una lleva el nombre y el número de documento de quien va a entrar, y en los controles te pueden pedir el **DNI o el pasaporte original**. Es la forma que tiene el Patronato de frenar la reventa. Esta guía explica qué documento llevar, qué hacer si hay un error en el nombre y qué datos dar si reservas con un tour.'
 respuestaCorta: 'Cada visitante lleva su entrada y su **DNI o pasaporte original**, el mismo cuyo número se dio al comprar. La fecha y la hora **no se pueden cambiar**. El nombre solo se cambia en compras de **5 o más entradas**, hasta la víspera. Para errores, llama al **+34 858 889 002**. Los niños también necesitan entrada.'
+reservasArriba: true
 actividades:
   - visita-guiada-alhambra-generalife
   - entrada-y-tour-guiado-alhambra
@@ -42,6 +43,18 @@ faq:
 - pregunta: ¿Los niños necesitan entrada nominativa?
   respuesta: Sí. Aunque sean gratis, todos los menores necesitan entrada. Las de 3 a 11 años se reservan junto con las de los adultos; los menores de 3 años la recogen en la taquilla o en los accesos, sin reserva.
 ---
+
+Las **entradas de la Alhambra son nominativas**: cada una lleva el nombre y el número de documento de quien va a entrar, y en los controles te pueden pedir el **DNI o el pasaporte original**. Es la forma que tiene el Patronato de frenar la reventa. Esta guía explica qué documento llevar, qué hacer si hay un error en el nombre y qué datos dar si reservas con un tour.
+
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Entrar seguro con guía | [Entrada y tour guiado con Palacios Nazaríes](/ciudades/granada/actividades/entrada-y-tour-guiado-alhambra), 4,7★ (3.516) | 50 € |
+| La más elegida | [Visita guiada a la Alhambra y los Nazaríes](/ciudades/granada/actividades/visita-guiada-alhambra-generalife), 4,7★ (21.100) | 49 € |
+| Grupo pequeño | [Alhambra y Palacios Nazaríes en grupo reducido](/ciudades/granada/actividades/alhambra-grupo-reducido), 4,8★ (890) | 65 € |
+| Si solo quedan noches | [Visita nocturna a los Palacios Nazaríes](/ciudades/granada/actividades/alhambra-visita-nocturna), 4,9★ (288) | 54 € |
+| Sin Nazaríes, más barato | [Jardines, Generalife y Alcazaba](/ciudades/granada/actividades/entrada-jardines-alhambra-generalife), 4,5★ (2.256) | 17,5 € |
 
 ## Qué significa que la entrada sea nominativa
 

@@ -5,13 +5,13 @@ metaTitle: "En couple à Madrid : sorties romantiques et prix"
 categoria: "madrid"
 slug: "que-faire-en-couple-a-madrid"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-vehicles-hero.webp"
 imagen_alt: "La Gran Vía et l'édifice Metrópolis vus depuis un toit-terrasse de Madrid au coucher du soleil"
-tiempo_lectura: 5
+tiempo_lectura: 6
 keywords:
   - "que faire en couple a madrid"
   - "madrid romantique"
@@ -26,19 +26,18 @@ slugs:
   it: cose-romantiche-da-fare-a-madrid
   pt: planos-a-dois-em-madrid
 reservasArriba: true
-intro: 'Que faire en couple à Madrid ? Bien plus qu''on ne le croit : la ville n''a rien à envier à Paris ou Venise, avec ses longues soirées, ses **petits tablaos** du Madrid des Habsbourg, ses tavernes chargées de siècles d''histoire et ses couchers de soleil gratuits au temple de Debod ou au Retiro. Et à une heure, Ségovie se découvre en montgolfière à l''aube. Voici les sorties qui marchent le mieux à deux.'
-respuestaCorta: 'Que faire en couple à Madrid : **flamenco à Las Carboneras**, petit tablao avec boisson incluse (45 € par personne) ; **visite privée des tavernes centenaires** (127 € par personne) ; et, pour une grande occasion, **montgolfière au-dessus de Ségovie** avec petit-déjeuner et cava (205 € par personne). Sans alcool : **pique-nique privé** (70 € par personne).'
+respuestaCorta: 'Les trois sorties en couple que nous recommandons le plus à Madrid sont le **flamenco à Las Carboneras**, un petit tablao dans le Madrid des Habsbourg avec boisson incluse (45 € par personne), la **balade privée dans les tavernes centenaires** avec deux boissons et deux tapas chacun (127 € par personne) et, pour une occasion spéciale, le **vol en montgolfière au-dessus de Ségovie** avec petit-déjeuner et cava (205 € par personne). Si vous cherchez quelque chose de calme et sans alcool, le **pique-nique privé** avec jambon, fromages et pétillant à 0,0 % coûte 70 € par personne.'
 faq:
-- pregunta: Quelle est la sortie la plus romantique de Madrid ?
-  respuesta: Cela dépend du couple. Pour une soirée spéciale, flamenco dans un petit tablao comme Las Carboneras (45 € par personne, boisson incluse) et dîner dans le Madrid des Habsbourg. Pour un souvenir inoubliable, le vol d'une heure en montgolfière au-dessus de Ségovie, avec petit-déjeuner et cava (205 € par personne).
-- pregunta: Combien coûte la montgolfière au-dessus de Ségovie depuis Madrid ?
-  respuesta: 205 € par personne, avec une heure de vol, petit-déjeuner au cava, certificat et reportage photo ; environ quatre heures au total. Le rendez-vous est à la base de l'opérateur à Ségovie, et sans voiture vous pouvez ajouter la prise en charge à Madrid pour 40 € par personne. Âge minimum 6 ans.
-- pregunta: Que faire à Madrid en couple sans trop dépenser ?
-  respuesta: Le bus panoramique de nuit avec guide (dès 23,40 € par personne), le flamenco à Torres Bermejas (dès 31 €) et une balade au coucher du soleil au temple de Debod ou au Retiro, qui sont gratuits. Plus d'idées dans notre guide Madrid gratuit.
-- pregunta: Y a-t-il des sorties en couple sans alcool ?
-  respuesta: 'Oui : le pique-nique privé s''accompagne de mousseux 0,0 %, la montgolfière se fait très bien sans trinquer, et dans les tablaos la boisson incluse peut être un soda. Le tuk-tuk panoramique privé est une autre façon de voir Madrid en deux heures.'
-- pregunta: Combien de temps à l'avance faut-il réserver ?
-  respuesta: 'Pour un vendredi ou un samedi, une à deux semaines dans les petits tablaos, car les meilleures tables sont attribuées par ordre d''arrivée et la jauge est limitée. La montgolfière dépend de la météo : ne la gardez pas pour le dernier jour du voyage.'
+  - pregunta: "Quelle est la sortie la plus romantique de Madrid ?"
+    respuesta: "Cela dépend du couple. Pour une soirée spéciale, du flamenco dans un petit tablao comme Las Carboneras (45 € par personne, avec boisson) et un dîner dans le Madrid des Habsbourg. Pour un souvenir inoubliable, le vol d'une heure en montgolfière au-dessus de Ségovie, avec petit-déjeuner et cava (205 € par personne)."
+  - pregunta: "Combien coûte la montgolfière au-dessus de Ségovie depuis Madrid ?"
+    respuesta: "205 € par personne, avec une heure de vol, un petit-déjeuner avec cava, un certificat et un reportage photo ; au total, environ quatre heures. Le rendez-vous est à la base de l'opérateur à Ségovie et, si vous n'avez pas de voiture, vous pouvez ajouter la prise en charge à Madrid pour 40 € par personne. Âge minimum 6 ans."
+  - pregunta: "Que faire à Madrid en couple sans trop dépenser ?"
+    respuesta: "Le bus panoramique de nuit avec guide (à partir de 23,40 € par personne), le flamenco à Torres Bermejas (à partir de 31 €) et une balade au coucher du soleil au temple de Debod ou au Retiro, qui sont gratuits. Plus d'idées dans notre guide Madrid gratuit."
+  - pregunta: "Existe-t-il des sorties en couple sans alcool ?"
+    respuesta: "Oui : le pique-nique privé est accompagné de vins pétillants à 0,0 %, la montgolfière peut se faire sans trinquer, et dans les tablaos la boisson incluse peut être un soda. Le tuk-tuk panoramique privé est une autre option pour voir Madrid en deux heures."
+  - pregunta: "Combien de temps à l'avance faut-il réserver ?"
+    respuesta: "Pour un vendredi ou un samedi, une ou deux semaines pour les petits tablaos, car les meilleures tables sont attribuées par ordre d'arrivée et la jauge est limitée. La montgolfière dépend de la météo : mieux vaut ne pas la garder pour le dernier jour du voyage."
 actividades:
   - flamenco-tablao-las-carboneras
   - tour-privado-tabernas-centenarias-madrid
@@ -49,6 +48,7 @@ actividades:
   - tuk-tuk-vistas-panoramicas-exclusivas-madrid
   - madrid-big-bus-night-tour
 ---
+Madrid n'a pas la réputation romantique de Paris ou de Venise, mais en couple elle fonctionne très bien : de longues soirées, de petits tablaos, des tavernes chargées de siècles d'histoire et, à une heure de route, Ségovie vue d'une montgolfière. Voici les sorties que nous vendons qui conviennent le mieux à deux, avec leur prix réel.
 
 ## Les sorties en un coup d'œil
 
@@ -63,64 +63,66 @@ actividades:
 | [Tuk-tuk panoramique privé](/en/cities/madrid/activities/exclusive-panoramic-tuk-tuk-tour-madrid) | 2 h | 140 € par tuk-tuk | Voir Madrid sans marcher des kilomètres |
 | [Bus panoramique de nuit](/en/cities/madrid/activities/madrid-big-bus-panoramic-night-tour) | 70 min | À partir de 46,80 € | Madrid illuminée, sortie bon marché |
 
-## Dîner flamenco à Madrid en couple : un petit tablao
+Prix « à partir de » de chaque fiche au 1er novembre 2026 ; ils peuvent varier selon la date et l'option.
 
-**Las Carboneras** se trouve dans le sous-sol de l'ancien palais du comte de Miranda, à cinq minutes de la Plaza Mayor. C'est une petite salle à l'ambiance intime, avec des artistes attitrés et beaucoup d'improvisation.
+## Une soirée flamenco dans un petit tablao
 
-- **Prix :** 45 € par personne, avec **une boisson** incluse. Il existe une formule avec dîner de cuisine espagnole avant le spectacle.
-- **Durée :** 1 heure. Les spectacles ont généralement lieu entre 20h30 et 22h30.
-- **Accessible en fauteuil roulant**, chose rare dans les tablaos du centre.
-- Arrivez **15 à 20 minutes avant** : les tables sont attribuées par ordre d'arrivée et celles du dernier rang latéral voient moins bien. Annulation gratuite jusqu'à 24 heures avant.
+**Las Carboneras** se trouve dans le sous-sol de l'ancien palais du comte de Miranda, à cinq minutes de la Plaza Mayor. C'est une petite salle à l'ambiance chaleureuse, avec des artistes fixes et beaucoup d'improvisation. Le billet inclut **une boisson**, et il existe une option avec dîner de cuisine espagnole avant le spectacle. Le lieu est accessible en fauteuil roulant, ce qui est rare dans les tablaos du centre.
 
-Si vous préférez un tablao plus historique avec dîner trois plats, **Torres Bermejas**, ouvert en 1960 près de la Gran Vía, commence à 31 € par personne. Nous les comparons dans [flamenco à Madrid : quel tablao choisir](/fr/guides/madrid/flamenco-madrid-quel-tablao-choisir).
+- Arrivez 15-20 minutes avant : les tables sont attribuées par ordre d'arrivée et celles du dernier rang latéral offrent une moins bonne visibilité.
+- Annulation gratuite jusqu'à 24 heures avant.
+
+Si vous préférez un tablao plus chargé d'histoire avec un dîner en trois plats, **Torres Bermejas**, ouvert en 1960 près de la Gran Vía, commence à 31 € par personne. Nous les comparons dans [flamenco à Madrid : quel tablao choisir](/fr/guides/madrid/flamenco-madrid-quel-tablao-choisir).
 
 [actividad: flamenco-tablao-las-carboneras]
 
-## Madrid romantique : les plus vieilles tavernes, rien que pour vous
+## Les plus vieilles tavernes, rien que pour vous
 
-Un guide privé vous emmène pendant **2 h 10** dans des tavernes et restaurants de plus de cent et deux cents ans, dont celui que le Guinness considère comme le plus ancien restaurant du monde, avec des anecdotes sur les rois, les écrivains et la vie populaire du vieux Madrid.
+Un guide privé vous emmène pendant **2 h 10 min** dans des tavernes et restaurants de plus de cent et deux cents ans, dont celui que le Guinness considère comme le plus ancien restaurant du monde, avec des anecdotes sur les rois, les écrivains et la vie populaire du vieux Madrid. Sont inclus **deux boissons et deux tapas par personne**, dans la première et la dernière taverne. La balade peut commencer par une prise en charge à votre hôtel.
 
-- Comprend **deux consommations et deux tapas par personne**, dans la première et la dernière taverne.
-- **127 € par personne**, minimum 2. Le départ peut se faire avec prise en charge à votre hôtel.
+- 127 € par personne, minimum 2.
 - Âge minimum 12 ans ; non accessible en fauteuil roulant.
 
 [actividad: tour-privado-tabernas-centenarias-madrid]
 
-## Escapade romantique : montgolfière au-dessus de Ségovie depuis Madrid
+## Une occasion spéciale : montgolfière au-dessus de Ségovie
 
-Une heure de vol au-dessus de **Ségovie**, avec l'aqueduc, la cathédrale et l'Alcázar d'un seul regard depuis le ciel. À l'atterrissage, des 4x4 vous conduisent à un **petit-déjeuner au cava**, et l'on vous remet le certificat de vol et un reportage photo.
+Une heure de vol au-dessus de **Ségovie**, avec l'aqueduc, la cathédrale et l'Alcazar d'un seul regard depuis le ciel. À l'atterrissage, des 4x4 vous conduisent à un **petit-déjeuner avec cava** et l'on vous remet le certificat de vol et un reportage photo. Comptez environ **quatre heures** au total depuis la base de l'opérateur à Ségovie ; si vous n'avez pas de voiture, la prise en charge à Madrid (Hotel Riu Plaza España) coûte 40 € par personne.
 
-- **205 € par personne.** Environ **quatre heures** au total depuis la base de l'opérateur à Ségovie.
-- Sans voiture, la prise en charge à Madrid (Hotel Riu Plaza España) coûte **40 € par personne**.
-- Âge minimum 6 ans. Déconseillé aux femmes enceintes.
-- Prévoyez des vêtements confortables, des baskets et de quoi vous couvrir la tête. Les horaires dépendent du vent et des limites de poids.
+- Tenue confortable, chaussures de sport et quelque chose pour la tête.
+- Les horaires dépendent du vent et des limites de poids ; déconseillé aux femmes enceintes.
 
 [actividad: vuelo-globo-segovia]
 
-## Sorties tranquilles et escapades d'une journée
+## Sorties tranquilles
 
-- **[Pique-nique chic privé](/en/cities/madrid/activities/private-chic-picnic-experience-madrid)** (2 h, 70 € par personne) : une équipe installe un pique-nique gourmet dans un coin discret de Madrid, dévoilé à la confirmation, avec jambon Reserva, fromages artisanaux et **mousseux sans alcool**. Elle installe et range tout. L'annulation gratuite n'est possible que jusqu'à **12 heures avant**.
-- **Vins et tapas dans des bars cachés** (3 h, 180 € pour deux) : quatre arrêts dans des bars, tavernes et étals de marché avec au moins un verre de vin à chaque fois, conçu par un Spanish Wine Scholar. Départ à 11h30 ou 18h30 depuis la plaza de los Carros, à La Latina ; il tient lieu de dîner.
-- **Tuk-tuk panoramique privé** (2 h, 140 € par tuk-tuk) : pour voir Madrid sans marcher des kilomètres.
-- **Bus panoramique de nuit** (70 min, dès 23,40 € par personne) : Madrid illuminée, la sortie la moins chère.
-- **Bodega et déjeuner à Chinchón** (6 h, 200 € par personne) : transport depuis le centre, une bodega familiale historique avec visite de la cave et dégustation de trois vins, et déjeuner dans un restaurant traditionnel près de sa place médiévale. Groupes de huit maximum ; annulation gratuite jusqu'à 48 heures avant.
-
-Prix « à partir de » de chaque fiche au 1er novembre 2026 ; ils peuvent varier selon la date et la formule.
+- **Pique-nique chic privé :** une équipe installe un pique-nique gastronomique dans un coin discret de Madrid, révélé à la confirmation de la réservation, avec du jambon Reserva, des fromages artisanaux et des **pétillants sans alcool**. Elle installe et range tout. Attention : l'annulation gratuite n'est possible que jusqu'à 12 heures avant.
+- **Vins et tapas dans des bars cachés :** quatre arrêts dans des bars, des tavernes et des stands de marché avec au moins un verre de vin à chacun, conçus par un Spanish Wine Scholar. Départ à 11 h 30 ou à 18 h 30 de la place de los Carros, à La Latina ; cela fait office de dîner.
 
 [actividad: picnic-chic-privado-madrid]
 
+## Une journée hors de la ville : bodega et déjeuner à Chinchón
+
+Six heures avec transport depuis le centre : une bodega familiale historique avec visite de la cave et dégustation de trois vins, et un déjeuner dans un restaurant traditionnel de Chinchón, avec sa place médiévale. Groupes de huit maximum, 200 € par personne, avec annulation gratuite jusqu'à 48 heures avant.
+
 [actividad: bodega-y-comida-en-chinchon-desde-madrid]
 
-## Sorties en amoureux à Madrid : une soirée parfaite
+## Une soirée parfaite à deux
 
 1. **Coucher du soleil :** le temple de Debod ou le parque del Oeste (gratuit).
-2. **Début de soirée :** la visite privée des tavernes centenaires, qui fait office d'apéritif.
-3. **Ensuite :** flamenco à Las Carboneras, dans le même quartier. Choisissez l'heure en réservant.
-4. **Pour finir :** balade sur la Plaza Mayor et la calle Mayor illuminées.
+2. **Début de soirée :** balade privée dans les tavernes centenaires, qui fait déjà office d'apéritif.
+3. **Ensuite :** flamenco à Las Carboneras, dans le même quartier. Les séances ont généralement lieu entre 20 h 30 et 22 h 30 : choisissez l'heure en réservant.
+4. **Pour finir :** une promenade sur la Plaza Mayor et la calle Mayor illuminées.
 
 ## Conseils pratiques
 
-- **Petits tablaos :** réservez une à deux semaines à l'avance pour le vendredi et le samedi, et n'arrivez pas en retard, sinon vous aurez la pire table.
-- **Montgolfière :** ne la gardez pas pour le dernier jour ; si elle est annulée à cause du vent, il vous faut de la marge pour changer de date. Et ne la prévoyez pas après un long dîner : le vol a lieu le matin.
-- **Horaires madrilènes :** on dîne tard, à partir de 21h00. Le flamenco avec dîner est le moyen le plus simple de manger plus tôt.
-- **Petit budget :** le bus panoramique de nuit et notre guide [Madrid gratuit](/fr/guides/madrid/madrid-gratuit) vous offrent une soirée complète pour peu.
+- **Petits tablaos :** réservez une ou deux semaines à l'avance pour le vendredi et le samedi.
+- **Montgolfière :** ne la gardez pas pour le dernier jour ; si elle est annulée à cause du vent, il vous faut de la marge pour changer de date.
+- **Horaires madrilènes :** on dîne tard, à partir de 21 h. Le flamenco avec dîner est le moyen le plus simple de dîner plus tôt.
+- **Petit budget :** le bus panoramique de nuit avec guide (à partir de 23,40 € par personne) et notre guide [Madrid gratuit](/fr/guides/madrid/madrid-gratuit) vous offrent une soirée complète pour peu.
+
+## Erreurs fréquentes
+
+- **Arriver juste à l'heure au tablao :** vous héritez de la pire table.
+- **Réserver la montgolfière après un long dîner :** le vol a lieu le matin et se termine par le petit-déjeuner.
+- **Croire que le pique-nique est annulable le jour même :** le délai est de 12 heures.

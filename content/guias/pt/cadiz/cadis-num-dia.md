@@ -1,12 +1,11 @@
 ---
 titulo: "Cádis num dia: a cidade mais antiga do Ocidente"
 descripcion: "O que ver em Cádis num dia: Catedral, Torre Tavira, bairro do Pópulo, La Viña e La Caleta. Percurso a pé hora a hora pela Tacita de Plata, onde comer e o que evitar."
-intro: 'O que ver em Cádis cabe num dia a pé: a **cidade mais antiga do Ocidente** ocupa uma península estreita quase rodeada de mar, e o centro histórico percorre-se de praça em praça com o Atlântico ao fundo de cada rua. A Catedral, o bairro do Pópulo e o Teatro Romano, a câmara escura da **Torre Tavira**, o Mercado Central, o peixinho frito de La Viña e o pôr do sol em **La Caleta**.'
-respuestaCorta: 'O que ver em Cádis num dia, a pé: **Catedral e Torre del Reloj** logo de manhã (8 € com audioguia), o Pópulo e o Teatro Romano, a **câmara escura da Torre Tavira** (8 €), peixinho frito em La Viña e **pôr do sol em La Caleta**. Comboio desde Sevilha (1h40) ou Jerez (40 min). Com levante, evita a praia.'
+respuestaCorta: 'Cádis vê-se a pé num dia: **Catedral e Torre del Reloj** logo de manhã (8 € com audioguia), o bairro do Pópulo e o Teatro Romano, a **câmara escura da Torre Tavira** (8 €), peixinho frito em La Viña e **pôr do sol em La Caleta**. Chegue de comboio a partir de Sevilha (1h40) ou Jerez (40 minutos) e veja a previsão: com levante, melhor o centro histórico do que a praia.'
 categoria: "cadiz"
 slug: "cadis-num-dia"
 fecha: "2026-04-18"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: true
@@ -36,20 +35,9 @@ actividades:
   - yeguada-de-la-cartuja-jerez
   - excursion-pueblos-blancos-desde-cadiz
   - tarifa-baelo-claudia-zahara-excursion
-faq:
-- pregunta: Dá para ver Cádis num dia?
-  respuesta: 'Sim. O centro histórico mede cerca de 2 km de ponta a ponta e tudo se faz a pé: Catedral, Pópulo, Teatro Romano, Torre Tavira, praças, Mercado Central e La Caleta cabem num dia se chegares de manhã e ficares até ao pôr do sol.'
-- pregunta: Quanto custa a Torre Tavira?
-  respuesta: 8 €. As sessões da câmara escura são de 30 em 30 minutos e duram cerca de 20 minutos com guia. São 173 degraus. Abre das 10:00 às 18:00 (20:00 no verão).
-- pregunta: Como chegar a Cádis a partir de Sevilha?
-  respuesta: De comboio Media Distancia, em 1h40 e por 16 €. De Jerez são 40 minutos. A estação fica dentro do centro histórico, por isso chegas a pé a tudo.
-- pregunta: O que é o levante e como afeta a visita?
-  respuesta: É o vento de terra que sopra na zona. Um dia de levante torna a praia impossível, por isso vê a previsão e tem um plano B de centro histórico, torres e museus.
-- pregunta: Onde comer peixinho frito em Cádis?
-  respuesta: No bairro de La Viña, berço do Carnaval, e nas fritadeiras do Mercado Central, onde compras o peixe e to fritam. Evita as esplanadas em frente à Catedral.
 ---
 
-A chave de Cádis não é um monumento, é a **luz** e o **mar por todos os lados**. Quem a vê de passagem a partir de Sevilha leva meia cidade; quem fica ao pôr do sol em La Caleta leva a melhor metade.
+**Cádis vê-se bem num dia.** Está quase rodeada de mar numa península estreita, por isso o centro histórico percorre-se a pé de praça em praça, com o Atlântico a espreitar ao fundo de cada rua. O essencial não é um monumento, é a **luz** e o **mar dos quatro lados** da cidade mais antiga do Ocidente. Quem a vê de passagem a partir de Sevilha leva meia cidade; quem fica até ao pôr do sol em La Caleta leva a melhor metade.
 
 ## Reserve o principal
 
@@ -62,54 +50,56 @@ A chave de Cádis não é um monumento, é a **luz** e o **mar por todos os lado
 | [Jerez: visita à Yeguada de la Cartuja com exibição](/en/cities/jerez-de-la-frontera/activities/yeguada-de-la-cartuja-jerez-tour) | 4,8★ (1.097) | 19,5 € |
 | [Excursão às aldeias brancas da Serra](/en/cities/cadiz/activities/white-villages-day-trip-from-cadiz) | 4,6★ (58) | 68 € |
 
-## O roteiro do dia: o que ver em Cádis hora a hora
+## Quando ir e como chegar
+
+**Abril-junho e setembro-outubro** são ideais; julho e agosto, praia excelente com muita gente; de novembro a janeiro, ameno e barato. O **Carnaval** (fevereiro/março) é dos mais famosos do mundo (chirigotas, comparsas, o Teatro Falla), mas a cidade fica entupida. Atenção ao **levante**: um dia de vento de terra deixa a praia impossível; veja a previsão e tenha um plano B de centro histórico.
+
+**Comboio** a partir de Sevilha em 1h40 (Media Distancia, 16 €) e a partir de Jerez em 40 minutos, com a estação dentro do centro histórico. Tudo se faz a pé: o centro mede 2 km de ponta a ponta.
+
+## O roteiro do dia
 
 | Hora | O quê |
 | --- | --- |
-| 9:30 | Catedral e Torre del Reloj |
-| 10:30 | Bairro do Pópulo e Teatro Romano |
-| 11:30 | Torre Tavira e câmara escura |
-| 12:30 | Praças e Mercado Central |
-| 14:00 | Peixinho frito em La Viña |
-| 16:30 | La Caleta e os castelos ao pôr do sol |
+| 9h30 | Catedral e Torre del Reloj |
+| 10h30 | Bairro do Pópulo e Teatro Romano |
+| 11h30 | Torre Tavira e câmara escura |
+| 12h30 | Praças e Mercado Central |
+| 14h00 | Peixinho frito em La Viña |
+| 16h30 | La Caleta e os castelos ao pôr do sol |
 
-- **A Catedral de Cádis**, com a sua cúpula amarela frente ao Atlântico. Sobe à **Torre del Reloj** (por rampa) para ver a cidade cercada pelo mar e desce à cripta onde repousa **Manuel de Falla**.
-- **El Pópulo**, o bairro medieval com as suas três portas, e o **Teatro Romano de Gades**, dos maiores da Hispânia.
-- **Torre Tavira**, a mais alta das atalaias deixadas pelo comércio com a América. A sua **câmara escura** projeta a cidade em direto e é a melhor forma de entender uma ilha cheia de torres-miradouro.
-- **As praças** (San Antonio, Mina com o **Museu de Cádis** e os seus sarcófagos fenícios, Topete, las Flores) e o **Mercado Central**, o mais antigo de Espanha.
-- **La Caleta**, a enseada entre os castelos de San Sebastián e Santa Catalina (a «Havana» de *Morre Noutro Dia*). O pôr do sol com o balneário da Palma e o sol a cair no Atlântico é o postal de Cádis.
+- **Catedral**, com a sua cúpula amarela de frente para o Atlântico: suba à **Torre del Reloj** (por rampa) para ver a cidade cingida pelo mar e desça à cripta onde repousa **Manuel de Falla**.
+- **O Pópulo**, o bairro medieval com as suas três portas, e o **Teatro Romano de Gades**, um dos maiores da Hispânia.
+- **Torre Tavira**, a mais alta das torres de vigia que o comércio com a América deixou: a sua **câmara escura** projeta a cidade em direto e é a melhor forma de perceber uma ilha eriçada de torres-miradouro.
+- **As praças** (San Antonio, Mina com o Museu de Cádis e os seus sarcófagos fenícios, Topete, las Flores) e o **Mercado Central**, o mais antigo de Espanha.
+- **La Caleta**, a enseada entre os castelos de San Sebastián e Santa Catalina (a «Havana» de *Morre Noutro Dia*). O pôr do sol com o balneário de la Palma e o sol a cair no Atlântico é o postal de Cádis.
 
 ## Preços e horários
 
 | Local | Preço | Horário |
 | --- | --- | --- |
-| Catedral + Torre del Reloj + museu | 8 € com audioguia (6 € reduzido, grátis menores de 12) | Seg-sáb 10:00-19:00 (20:00 no verão), domingos à tarde |
-| Torre Tavira | 8 €; câmara escura de 30 em 30 min, 20 min com guia; 173 degraus | 10:00-18:00 (20:00 no verão) |
-| Teatro Romano | Grátis | Ter-dom de manhã; fecha à segunda |
-| Museu de Cádis | Grátis UE, 1,50 € restantes | Fecha à segunda e nas tardes de verão |
-| Castelo de Santa Catalina | Grátis (San Sebastián só por fora) | 11:00-20:30 (21:30 no verão) |
-| Mercado Central | Grátis; Rincón Gastronómico qui-sáb até às 23:00 | Seg-sáb 9:00-15:00 |
-| Oratórios da Santa Cueva (Goya) e de San Felipe Neri (Constituição de 1812) | 4-5 € cada | Manhãs, ter-dom |
+| Catedral + Torre del Reloj + museu | 8 € com audioguia (6 € reduzido, grátis para menores de 12) | Seg-Sáb 10h00-19h00 (20h00 no verão), domingos à tarde |
+| Torre Tavira | 8 €; sessões de câmara escura a cada 30 min, 20 min com guia; 173 degraus | 10h00-18h00 (20h00 no verão) |
+| Teatro Romano | Grátis | Ter-Dom de manhã; fecha à segunda |
+| Museu de Cádis | Grátis para cidadãos da UE, 1,50 € os restantes | Fecha à segunda e às tardes no verão |
+| Castelo de Santa Catalina | Grátis (San Sebastián só por fora) | 11h00-20h30 (21h30 no verão) |
+| Mercado Central | Grátis; Rincón Gastronómico Qui-Sáb até às 23h00 | Seg-Sáb 9h00-15h00 |
+| Oratórios da Santa Cueva (Goya) e San Felipe Neri (Constituição de 1812) | 4-5 € cada um | Manhãs, Ter-Dom |
 
-## Quando ir e como chegar
+## Dormir e comer
 
-- **Abril-junho e setembro-outubro** são ideais. Julho e agosto: praia estupenda com muita gente. De novembro a janeiro: ameno e barato.
-- **Carnaval** (fevereiro/março): dos mais famosos do mundo, com chirigotas, comparsas e o Teatro Falla, mas a cidade fica a abarrotar.
-- **Atenção ao levante:** um dia de vento de terra torna a praia impossível. Vê a previsão e tem um plano B de centro histórico.
-- **Comboio** a partir de Sevilha em **1h40** (Media Distancia, 16 €) e a partir de Jerez em **40 minutos**, com a estação dentro do centro histórico.
-- **Como te deslocares:** a pé. O centro histórico mede **2 km** de ponta a ponta.
+Se ficar, durma no **centro histórico** (Catedral, Pópulo, praça de San Antonio): tudo a pé e ambiente gaditano à noite. A **praia da Victoria**, na cidade nova, é prática para praia urbana, mas fica longe do encanto.
 
-## Onde comer e dormir
+Cozinha marinheira e de fritos: **peixinho frito**, **tortillitas de camarones**, **cação em adobo** e, na época, **atum-rabilho de armação**, com uma **manzanilla** de Sanlúcar ou um **fino** bem frios. Onde: o bairro de **La Viña**, berço do Carnaval, e as casas de fritos do **Mercado Central**, onde compra o peixe e lho fritam. Fuja das esplanadas em frente à Catedral.
 
-Cozinha de mar e fritos: **pescaíto frito**, **tortillitas de camarones** (pataniscas de camarão), **cazón en adobo** (cação marinado) e, na época, **atum-rabilho de almadraba**, com uma **manzanilla** de Sanlúcar ou um **fino** bem frescos. Onde: o bairro de **La Viña**, berço do Carnaval, e as fritadeiras do **Mercado Central**, onde compras o peixe e to fritam. Foge das esplanadas em frente à Catedral.
-
-Se ficares, dorme no **centro histórico** (Catedral, Pópulo, praça de San Antonio): tudo a pé e ambiente gaditano à noite. A **praia de la Victoria**, na cidade nova, é prática como praia urbana, mas fica longe do encanto.
-
-## Conselhos e erros típicos
+## Erros típicos
 
 1. **Vê-la de passagem** e perder o pôr do sol em La Caleta.
-2. **Ficar na cidade nova** e na praia de la Victoria.
-3. **Não subir a nenhuma torre:** a del Reloj ou a Tavira explicam a cidade melhor do que qualquer mapa.
-4. **Comer em primeira linha frente à Catedral.**
+2. **Ficar pela cidade nova** e pela praia da Victoria.
+3. **Não subir a nenhuma torre.**
+4. **Comer na primeira linha da Catedral.**
 5. **Ignorar o levante.**
-6. **Confundir Cádis com a província:** Jerez (vinho e cavalos), Tarifa (vento e África no horizonte) e as aldeias brancas são outra viagem, estupenda, se tiveres mais dias.
+6. **Confundir Cádis com a província:** Jerez, Tarifa e as aldeias brancas são outra viagem à parte, excelente.
+
+## Numa frase
+
+Cádis num dia é luz, mar dos quatro lados e graça gaditana, rematados com um pôr do sol em La Caleta. Com mais tempo, Jerez (vinho e cavalos) e Tarifa (vento e África ao fundo) ficam a dois passos.

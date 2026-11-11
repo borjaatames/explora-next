@@ -4,7 +4,7 @@ descripcion: "Where to eat tapas in Seville without tourist traps: 8 bars in Cen
 categoria: "sevilla"
 slug: "seville-tapas-with-criteria"
 fecha: "2026-04-28"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
@@ -25,73 +25,64 @@ slugs:
   it: tapas-a-siviglia-dove-mangiare
   pt: tapas-em-sevilha-onde-comer
 reservasArriba: true
-intro: '**Seville tapas** are a way of living the city: bar to bar, in rounds, with a cold manzanilla and stews that have been cooked in the same kitchen for generations. The Cathedral-Santa Cruz quadrant is full of laminated-photo versions, but a few streets away, in **El Arenal**, **Triana** and the **Centro and Alfalfa**, there are century-old taverns where you eat like a local.'
-respuestaCorta: 'For Seville tapas, skip the bars by the Cathedral and head to **El Arenal** (Casablanca, Arenal Ventura, Antonio Romero), **Triana** (Casa Diego, Trianilla, Blanca Paloma) and the Centro (Casa Morales, Manolo Cateca). A tapa costs **€2.50-4**; five tapas and three drinks, €18-25 per person. Go **1:30-3:30 pm or 8:30-11 pm** and order in rounds.'
+respuestaCorta: 'Skip the bars around the Cathedral and eat in three areas: **Arenal** (Bodeguita Casablanca, Arenal Ventura, Antonio Romero), **Triana** (Casa Diego, Trianilla, Blanca Paloma) and the centre (Casa Morales, Manolo Cateca). Tapas cost **€2.50–4** and a five-tapa dinner with three drinks runs €18–25 per person. Go at **1:30–3:30 PM or 8:30–11 PM** and order in rounds.'
 actividades:
   - sevilla-tapas-tour-triana-cruzando-rio
-faq:
-- pregunta: How much do tapas cost in Seville?
-  respuesta: A tapa costs €2.50-4, a half ración €6-9 and a ración €10-16; a small beer €1.50-2. A dinner of five tapas and three drinks comes to €18-25 per person, about 20% less in Triana. Bread and breadsticks are charged separately (€1-1.50).
-- pregunta: What time do people eat tapas in Seville?
-  respuesta: Lunch is 2-4 pm and dinner from 9 pm. The useful windows are 1:30-3:30 pm and 8:30-11 pm; outside them the kitchen isn't in full swing.
-- pregunta: Where to eat tapas in Seville away from the tourists?
-  respuesta: In El Arenal (without crossing to Avenida de la Constitución), in Triana around San Jacinto and Pagés del Corro, and in the Centro and Alfalfa away from the Cathedral. The closer to the Giralda, the worse.
-- pregunta: Do you need to book for tapas in Seville?
-  respuesta: Tapas bars don't take bookings; table restaurants do, and you'll need one on Friday and Saturday, especially at Trianilla, Casablanca and Romero.
-- pregunta: Which tapas should you try in Seville?
-  respuesta: 'Carrillada (pork cheek), spinach with chickpeas, papas aliñás, cazón en adobo, a pringá montadito, Casablanca''s whisky omelette and, from April to June, snails. To drink: manzanilla, fino, tinto de verano or beer, not sangria.'
 ---
 
-## How tapas work in Seville (without looking like a tourist)
+In Seville it's hard to eat badly and just as hard to eat really well; the laminated-photo versions crowd the Cathedral–Santa Cruz quadrant. Here are three neighbourhoods (Centro, Triana, Arenal) and, in each, the bars and the dish that justifies walking in. To fit it into your trip, see [Seville in 1 day](/en/guides/sevilla/seville-in-1-day) or [Seville in 3 days](/en/guides/sevilla/seville-in-3-days).
 
-- **Hours:** lunch is 2-4 pm and dinner from 9 pm. The useful windows are **1:30-3:30 pm and 8:30-11 pm**; outside them, it's snacking.
-- **Bar or table:** the tapa is a bar item (cheaper), the ración a table item (pricier); the same dish costs about €1 more at a table and €2 more on the terrace. Ask what's served where.
-- **Order in rounds:** three things, eat them, then three more. Everything at once arrives cold.
-- **Service can be curt.** It isn't personal: they're serving forty people and treating you like a local.
-- **Prices:** tapa **€2.50-4**, half ración €6-9, ración €10-16; small beer €1.50-2, manzanilla or tinto de verano €2-2.50. Five tapas and three drinks, **€18-25 per person** (about 20% less in Triana). Bread and breadsticks are charged (€1-1.50); that isn't a scam.
-- **Paying and tipping:** at the end, verbally, sometimes chalked on the bar; cards almost everywhere. Tip the coins from your change.
-- **Bookings:** tapas bars don't take them; table restaurants do, and on Friday and Saturday you'll need one. Avoid the Feria, Holy Week and match days in Arenal and Triana.
+## How tapas work in Seville
 
-## Centro and Alfalfa: Casa Morales and Manolo Cateca
-
-Quick rule: stay away from Avenida de la Constitución and Plaza Virgen de los Reyes. The closer to the Giralda, the worse.
-
-**Casa Morales** (García de Vinuesa, 11; Monday to Saturday 12:00-16:00 and 20:00-24:00). A bodega from 1850 with the bulk-wine jars still in the back room. Order the **Iberian pork cheek** stew and, in winter, the **chickpea potaje**; the day's stews are chalked on the jars. The front bar is for cold dishes; spoon dishes are eaten inside. At 2 pm it's packed: get there at 12:30.
-
-**Taberna Manolo Cateca** (Santa María de Gracia, 13; Monday to Friday 11:00-16:30 and 19:30-23:30, Saturdays lunchtime only). A temple of sherry with 200-300 labels, winner of the 2023 Solera award for Seville's best wine tavern. **Ice-cold manzanilla** or **fino en rama** with montaditos, cured meats and **papas aliñás**. It's a bar and a corridor, standing only, and the owner is direct.
-
-## Triana tapas
-
-Across the river almost everything is honest: tourists stroll along Betis and Pureza; locals eat around San Jacinto and Pagés del Corro.
-
-- **Casa Diego** (Esperanza de Triana, 19). The temple of **snails** since 1962, reopened in 2023. From April to June, snails or cabrillas (a tub costs €12-15, also to take away); the rest of the year, croquettes, mussels in escabeche and ensaladilla. A quick stop, not a long meal.
-- **Trianilla** (Manuel Pareja Obregón, 2; closed Monday and Sunday evening). Market cooking with flamenco names: the **Carcelera** (marinated Iberian presa) is the one to order; then the Niño de Barbate (larded tuna). A small place a few streets in. Book ahead.
-- **Bar Blanca Paloma** (Pagés del Corro, 86). The neighbourhood classic that never fails, with two adjoining premises: one for tapas and one for raciones. **Sirloin in sherry**, **eggs with béchamel**, golden cod and the off-menu dishes of the day.
-
-If you'd rather someone took you from bar to bar, there's a tapas tour that crosses the river to Triana:
+- **Hours:** Sevillians lunch 2–4 PM and dine from 9 PM. The useful windows are **1:30–3:30 PM** and **8:30–11 PM**; outside them it's snacking, not proper cooking.
+- **Bar or table:** the tapa is a bar item (cheaper), the *ración* a table item (pricier). The same dish costs about €1 more at a table and €2 more on the terrace. Ask what's served where when you arrive.
+- **Order in rounds:** three things, then three more; everything at once arrives cold. Curt service isn't personal: they're serving forty people.
+- **Prices (as of 2026):** tapa €2.50–4, half *ración* €6–9, *ración* €10–16; small beer €1.50–2, manzanilla or tinto de verano €2–2.50. A dinner of five tapas and three drinks costs **€18–25 per person**, about 20% less in Triana. Bread and breadsticks are charged (€1–1.50); that isn't a scam.
+- **Paying:** at the end, often chalked on the bar; cards almost everywhere. Tip the coins from your change.
+- **Bookings:** tapas bars don't take them; table restaurants do, and you'll need one on Friday and Saturday nights (Trianilla, Casablanca, Romero). Avoid Feria, Holy Week and match days in Arenal and Triana.
 
 [actividad: sevilla-tapas-tour-triana-cruzando-rio]
 
-## Arenal Seville tapas, the most reliable area
+## Centro and Alfalfa
 
-Between the Maestranza, the river and the Cathedral lies the neighbourhood with the most honest taverns per square metre in the centre. The trick is not to cross to Avenida de la Constitución.
+**Casa Morales** (García de Vinuesa, 11; Monday to Saturday noon–4 PM and 8 PM–midnight). An 1850 wine cellar turned tavern, clay vats still in the back room. Order the **Iberian pork cheek (carrillada)** stew and, in winter, the **chickpea potaje**; the day's stews are chalked on the vats. The front bar is for cold tapas; spoon dishes are eaten in the back. It's full by 2 PM and takes no bookings: go at 12:30.
 
-- **Bodeguita Casablanca** (Adolfo Rodríguez Jurado, 12; Monday to Friday 12:30-17:00 and 20:15-24:00, Saturday lunchtime). Three generations and the original recipe for the **whisky omelette**. Also papas aliñás, **pork cheek in red wine** and spoon stews. Tapas around €2.50 at the bar, raciones €12-20 at a table. Small: arrive when it opens.
-- **Bar Arenal Ventura** (Arfe, 2; Monday to Saturday 13:00-23:30, Sundays until 17:00). Open since 1944, devoted to brotherhoods and bullfighting. Family-recipe **bonito en escabeche**, potato omelette and, in winter, meat in tomato sauce. Tiny: a beer, two tapas and move on.
-- **Bodeguita Antonio Romero** (Antonia Díaz, 19). The **piripi**, a hot montadito of Iberian secreto with cheese and sauce, and the **pringá montadito**. It has four branches in the area; the original is on Antonia Díaz. At weekends there's a waiting list: if you're not called within 30 minutes, Casablanca and Ventura are three streets away.
+**Taberna Manolo Cateca** (Santa María de Gracia, 13; Monday to Friday 11 AM–4:30 PM and 7:30–11:30 PM, Saturdays lunchtime only, closed Sundays). A sherry temple with 200–300 wines and the 2023 Solera prize for Seville's best wine tavern. Have **chilled manzanilla** or **fino en rama** with montaditos, cured meats and **papas aliñás** (dressed potatoes). Standing only, and the owner is famously direct.
 
-## What to avoid and when to go
+## Triana
 
-**What we wouldn't recommend:**
+Almost everything is honest here; Sevillians eat on San Jacinto and Pagés del Corro rather than Calle Betis.
 
-- **Bars with laminated photos at the door.** A sure sign.
-- **Terraces right by the Cathedral:** 30-40% pricier for worse quality.
-- **"Tourist menus at €12.90" by the Alcázar:** frozen filler.
-- **El Rinconcillo at 2 pm.** It dates from 1670 and is on every list, so at that hour it's chaos. Go at 12:30 or 19:30 for the spinach with chickpeas and the pavía de bacalao.
-- **Ordering sangria or looking for paella:** here it's manzanilla, fino, tinto de verano or beer, and soupy rice dishes without photos.
-- **Ordering "some ham" without specifying:** there are six kinds and prices vary a lot.
-- **Leaving without trying cazón en adobo** (marinated dogfish), very Sevillian, in any bar in Arenal or Triana.
+**Casa Diego** (Esperanza de Triana, 19). Seville's **snail** temple since 1962, reopened in 2023. From April to June order **caracoles** or the larger **cabrillas** (a bowl is €12–15, also to take away); expect a queue in May. Otherwise: croquettes, pickled mussels, ensaladilla. A quick stop.
 
-**Three seasons:** **snails**, April to June (Casa Diego); **salmorejo and ajoblanco**, May to September (in February they come from a jar); **spoon stews**, October to March, at Casa Morales and Casablanca.
+**Trianilla** (Manuel Pareja Obregón, 2; closed Mondays and Sunday evenings; hours vary, so check). Market cooking with flamenco-themed names. The **Carcelera** (marinated grilled Iberian *presa*) is the one to order; then the Niño de Barbate (shredded tuna) or the Mantón de Manila (soy noodles with vegetables, chicken and prawns). Small, a few streets off the tourist strip. Book.
 
-To fit tapas into your trip, see [Seville in 1 day](/en/guides/sevilla/seville-in-1-day) or [Seville in 3 days](/en/guides/sevilla/seville-in-3-days).
+**Bar Blanca Paloma** (Pagés del Corro, 86). The reliable neighbourhood plan B, with two adjoining premises, one for tapas and one for *raciones*: ask which is which. Order **solomillo al jerez**, **eggs with béchamel** (an old recipe few bars still make), golden cod and always the off-menu dishes of the day.
+
+## Arenal
+
+The densest cluster of honest taverns in the centre, between the Maestranza bullring, the river and the Cathedral. Don't cross onto Avenida de la Constitución.
+
+**Bodeguita Casablanca** (Adolfo Rodríguez Jurado, 12; Monday to Friday 12:30–5 PM and 8:15 PM–midnight, Saturdays lunchtime, closed Sundays). Home of the original **whisky tortilla**. Also **papas aliñás**, **pork cheek in red wine** and two or three spoon stews a day; in summer, prawn ensaladilla. Tapas about €2.50 at the bar, *raciones* €12–20 at a table. Small: arrive at opening.
+
+**Bar Arenal Ventura** (Arfe, 2; Monday to Saturday 1–11:30 PM, Sundays until 5 PM). Since 1944. **Bonito en escabeche** (pickled tuna) from a family recipe, classic potato tortilla, pickled mussels and, in winter, *carne con tomate*. Tiny: not for groups over four. One beer, two tapas, move on.
+
+**Bodeguita Antonio Romero** (Antonia Díaz, 19; closed Mondays). Famous for the **piripi**, a hot montadito of Iberian pork with cheese and sauce, and the **pringá montadito** made from stew meat. Of its four branches, the original at Antonia Díaz 19 is the one to visit. Weekends have a waiting list: if you're not called within 30 minutes, Casablanca and Ventura are three streets away.
+
+## What we wouldn't recommend
+
+- **Bars with a laminated food photo at the door**, and **terraces by the Cathedral** (30–40% dearer for worse food).
+- **"Tourist menus at €12.90" near the Alcázar.** Frozen filler; a decent Sevillian meal doesn't come in under €18–25.
+- **El Rinconcillo at 2 PM.** It dates from 1670 and is on every list, so at peak time it's chaos. Go at 12:30 or 7:30 PM for the spinach with chickpeas and the *pavía de bacalao* (battered cod).
+- **"Dinner with flamenco show".** Eat in one place, watch serious flamenco in another (a Triana *peña*, for example).
+
+## Common mistakes
+
+1. **Ordering sangria.** Drink manzanilla, fino, tinto de verano or beer.
+2. **Looking for paella.** It's Valencian; here it's *arroces caldosos*.
+3. **Skipping cazón en adobo** (marinated fried dogfish): very Sevillian, at any bar in Arenal or Triana.
+4. **Asking for "some jamón" without specifying.** There are six grades and prices vary a lot.
+
+## Three seasons
+
+**Snails:** April to June (Casa Diego). **Salmorejo and ajoblanco:** May to September; in February they're usually from a carton. **Spoon stews:** October to March, with pork cheeks, potaje and spinach with chickpeas at their best at Casa Morales and Casablanca.

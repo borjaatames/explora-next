@@ -5,7 +5,7 @@ metaTitle: 'Seville Cathedral tickets: price and Giralda'
 categoria: sevilla
 slug: seville-cathedral-giralda-tickets-sold-out
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-10'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -28,8 +28,7 @@ slugs:
   it: cattedrale-siviglia-giralda-biglietti-esauriti
   pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
-intro: 'Before looking for **Seville Cathedral tickets**, it''s worth knowing what''s inside: the **largest Gothic cathedral in the world**, built on the site of the Almohad mosque, with the high altarpiece, the choir stalls, the tomb of Christopher Columbus and the Patio de los Naranjos. The ticket includes the climb up the **Giralda**, by ramps, and the Church of El Salvador. It stands opposite the Real Alcázar and the visit takes **1 h 30**.'
-respuestaCorta: 'Seville Cathedral tickets cost **€13 online and €14 at the ticket office**, Giralda included. If the website is sold out, the **Puerta del Príncipe ticket office** sells until 17:00 (18:00 on Sundays), with limited capacity. There are no changes or refunds, so the safest bet is a **resale ticket** (from €17.50) or a **guided tour with entry**.'
+respuestaCorta: 'If the official site is sold out, the **box office at the Prince''s Gate** still sells tickets (€14) until 18:00, though capacity is limited and nothing is guaranteed. Official tickets can''t be changed or refunded, so don''t wait for cancellations: the safest options are a **resold timed ticket** (from €17.50) or a **guided tour with entry included**.'
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
   - catedral-giralda-sevilla-visita-privada-guia-entradas
@@ -37,16 +36,14 @@ actividades:
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
   - real-alcazar-catedral-sevilla-tour-privado-entradas
 faq:
-- pregunta: How much is a ticket to Seville Cathedral and the Giralda?
-  respuesta: General admission is €13 online and €14 at the ticket office (reduced €7 and €8), and includes the climb up the Giralda and the Church of El Salvador. The guided rooftop tour costs €20 online and €21 at the ticket office.
-- pregunta: Can I buy Cathedral tickets at the ticket office on the same day?
-  respuesta: 'Yes. The ticket office is at the Puerta del Príncipe and closes at 17:00 Monday to Saturday and 18:00 on Sundays. General admission costs €14 there, one euro more than online. Capacity in the Cathedral and the Giralda is limited, so on busy days there''s no guarantee of a space: go early.'
+- pregunta: Can I buy Cathedral tickets at the box office on the day?
+  respuesta: 'Yes. The box office is at the Prince''s Gate and closes at 18:00. General admission costs €14 there, one euro more than online. Capacity for the Cathedral and the Giralda is limited, so on busy days there''s no guarantee of a place: go early.'
 - pregunta: Are tickets released through cancellations?
-  respuesta: Hardly ever. Under the Cathedral's rules, tickets can't be refunded or changed to another date unless the visit can't take place because of the Chapter itself. So there's no trickle of cancellations to watch for.
-- pregunta: Can you visit the Cathedral for free?
-  respuesta: Yes, on Sundays, depending on the liturgical calendar. Free tickets are collected in person at the Puerta del Príncipe ticket office from 17:00 until closing, with limited capacity. They can't be booked online.
-- pregunta: What can you see of the Cathedral and the Giralda without a ticket?
-  respuesta: The façades and the Giralda from Plaza Virgen de los Reyes, Avenida de la Constitución and Plaza del Triunfo, which surround the building. To see the inside you need a ticket or to attend a service, which isn't a tourist visit.
+  respuesta: 'Hardly ever. Under the Cathedral''s rules, tickets can''t be refunded or moved to another date, unless the visit can''t take place for reasons on the Cathedral''s side. So there''s no trickle of cancellations to watch for.'
+- pregunta: Can I visit the Cathedral for free?
+  respuesta: 'Yes, on Sundays, depending on the liturgical calendar. Free tickets are collected in person at the Prince''s Gate box office from 17:00 until closing, with limited capacity. They can''t be booked online.'
+- pregunta: What can I see of the Cathedral and the Giralda without a ticket?
+  respuesta: 'The facades and the Giralda from Plaza Virgen de los Reyes, Avenida de la Constitución and Plaza del Triunfo, which surround the building. To see inside you need a ticket or to attend a service, which is not a tourist visit.'
 opciones:
   - ficha: catedral-sevilla-giralda-entrada-skip-line
     etiqueta: Cheapest
@@ -55,6 +52,8 @@ opciones:
   - ficha: real-alcazar-catedral-sevilla-tour-privado-entradas
     etiqueta: Private
 ---
+
+Seville Cathedral sells tickets **with a set entry time and limited capacity**, for both the nave and the climb up the Giralda, and in spring, at Easter and on Spanish bank holidays the best times go early. "Sold out" on the official website doesn't mean you miss the Cathedral, but waiting for cancellations won't help either: tickets can't be changed or refunded. These are the routes left, in the order worth trying them.
 
 ## Which ticket should you choose?
 
@@ -65,63 +64,55 @@ opciones:
 | Both monuments without rushing | [Cathedral, Giralda and Alcázar: 3.5-hour tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4.5★ (2,085) | €65 |
 | A guide just for your group | [Royal Alcázar and Cathedral private tour with tickets](/en/cities/sevilla/activities/royal-alcazar-seville-cathedral-private-tour-tickets), 5.0★ (188) | €300 per group |
 
-## What you'll see
+## 1. The official website and the Prince's Gate box office
 
-- **The nave and the high altarpiece**, one of the largest in Christendom, with the choir stalls and the Royal Chapel.
-- **The tomb of Christopher Columbus**, with the coffin carried on the shoulders of four heralds representing the kingdoms of Castile, León, Aragon and Navarre.
-- **The Giralda**, the Almohad minaret completed in 1198, with its Renaissance bell tower and the Giraldillo weathervane. You climb it by **ramps, not stairs**, designed so you could ride up on horseback.
-- **The Patio de los Naranjos**, the mosque's former ablutions courtyard.
+Official tickets are sold from `catedraldesevilla.es`, which links to its ticket platform. General admission to the Cathedral and the Giralda is **€13 online and €14 at the box office** (reduced €7 and €8) and also includes the **Church of El Salvador**. The Cathedral opens Monday to Saturday from **10:45 to 19:00** and on Sundays from **14:30 to 19:00**. If your date shows as sold out:
 
-Allow **1 h 30** for the full visit.
+- **Check every time that day:** each entry time has its own allocation, and the afternoon ones tend to last longer.
+- **Go to the box office:** it's at the **Prince's Gate** (Puerta del Príncipe) and closes at **18:00**, an hour before the building. Online ticket holders go in through the Lagarto Gate. Capacity is limited, so on busy days nothing is guaranteed: the earlier you arrive, the better.
+- **Bring your ID:** reduced and free rates only apply with an official document proving eligibility.
 
-## Seville Cathedral tickets price and opening hours
+What doesn't work: waiting for cancellations. Under the Cathedral's rules, tickets **can't be refunded or moved to another date**, and arriving late for your time doesn't give you a refund either.
 
-Official sales are through **catedraldesevilla.es**, which links to its ticketing platform.
+## 2. Free Sundays and the rooftop tour
 
-- **General:** **€13 online and €14 at the ticket office**. Includes the Giralda and the **Church of El Salvador**.
-- **Reduced:** €7 online and €8 at the ticket office, only with official proof of eligibility.
-- **Guided rooftop tour:** €20 online and €21 at the ticket office (see below).
+On Sundays entry is free, depending on the liturgical calendar. Tickets are collected **in person at the Prince's Gate box office from 17:00** until closing, with limited capacity. Worth trying if you're in town on a Sunday, but not a plan.
 
-**Opening hours:** Monday to Saturday **10:45 to 19:00** and Sundays **14:30 to 19:00**. Tickets have a set entry time and limited capacity; buy 2 or 3 days ahead.
+Another route is the **guided rooftop tour** (Cubiertas): an hour and a half across the Cathedral roofs, with access to the Cathedral, the Giralda and El Salvador included. It costs **€20 online and €21 at the box office**, runs in Spanish, English and French, and has its own allocation, so it sometimes has places when the general visit is sold out. In bad weather it's cancelled and you can ask for a new date or a refund.
 
-## If Seville Cathedral tickets are sold out
+## 3. A resold timed ticket or a guided tour
 
-In spring, at Easter and on long weekends the best times sell out early. Try in this order:
+When the official site has nothing left, licensed resellers usually still have places because they buy their allocations ahead. You pay more than on the official site:
 
-1. **Check every time slot that day:** each entry time has its own quota, and afternoon slots usually last longer.
-2. **Try the rooftop tour:** an hour and a half across the roofs that includes entry to the Cathedral, the Giralda and El Salvador. There are tours in Spanish, English and French, and it has **its own quota**, so sometimes there's space when the general visit is sold out. It's cancelled in bad weather and you can ask for a date change or a refund.
-3. **Book a timed resale ticket or a guided tour.** Authorised resellers buy their quotas in advance and usually have places. You pay more: a timed ticket without a guide **from €17.50**; Cathedral, Giralda and Alcázar with a guide from €53; a private tour with tickets to both monuments from €300 per group. Check the listing says **"Cathedral entry included"**: some walks only explain the outside.
+- **Timed ticket, no guide (from €17.50):** the cheapest way in if you just want to visit and climb the Giralda.
+- **Cathedral, Giralda and Alcázar (from €53):** if you haven't sorted the Alcázar yet either, you do both in one morning.
+- **Private tour (from €300 per group):** with tickets to the Alcázar and the Cathedral, worth it if there are several of you.
+
+Before paying, check that the listing says **"Cathedral entry included"**. Some city-centre walks only cover the outside.
 
 [actividad: catedral-sevilla-giralda-entrada-skip-line]
 
-What doesn't work: waiting for cancellations. Under the Cathedral's rules, tickets **can't be refunded or changed to another date**, and arriving late for your time doesn't entitle you to a refund.
-
-## Seville Cathedral ticket office and free entry on Sundays
-
-The ticket office is at the **Puerta del Príncipe** and closes at **17:00** Monday to Saturday and **18:00** on Sundays, an hour before the visit ends. If you buy online you go in through the **Puerta del Lagarto**. Capacity is limited, so on busy days there's no guarantee: the earlier you arrive, the better.
-
-**Seville Cathedral free entry on Sundays:** there's free access, subject to the liturgical calendar. Tickets are collected **in person at the Puerta del Príncipe ticket office from 17:00** until closing, with limited capacity, and can't be booked online. If you're there on a Sunday, try it, but don't make it your plan.
-
 [actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
 
-## Getting there and what you see without a ticket
+## 4. What you can see without a ticket
 
-It's on **Avenida de la Constitución**, opposite the Real Alcázar: metro **Puerta de Jerez (L1)** and the **Archivo de Indias** tram stop, a few minutes' walk away.
-
-If you can't get in, you still see a lot from outside:
+If you get nothing, there's plenty to see from outside:
 
 - The **Giralda** from **Plaza Virgen de los Reyes**, the best street-level view.
-- The Gothic façades and the Puerta de la Asunción from Avenida de la Constitución.
-- **Plaza del Triunfo**, between the Cathedral and the Alcázar, with the Puerta del Príncipe on one side.
+- The Gothic facades and the Assumption Door from **Avenida de la Constitución**.
+- **Plaza del Triunfo**, between the Cathedral and the Alcázar, with the Prince's Gate on one side.
 
-If you're missing the Alcázar too, [what to do if Alcázar of Seville tickets are sold out](/en/guides/sevilla/alcazar-of-seville-tickets-sold-out) covers its options.
+And if the Alcázar is sold out too, its options are in [Alcázar of Seville tickets sold out](/en/guides/sevilla/alcazar-of-seville-tickets-sold-out).
 
 [actividad: sevilla-catedral-giralda-alcazar-tour-guiado-3-5h]
 
-## Tips
+## Mistakes to avoid
 
-- **Only buy through catedraldesevilla.es:** some websites imitate the official one, overcharge and don't always give a valid ticket.
-- **Check the tour includes entry** before paying, or you'll end up at the door.
-- **Be on time:** the time on your ticket is your entry time.
-- **Covered shoulders and no big backpack:** the rules require it, and you can't climb the Giralda with medium or large backpacks.
-- If you only have one day, fit the Cathedral into [Seville in 1 day](/en/guides/sevilla/seville-in-1-day).
+1. **Buying from sites that look like the official one.** They overcharge and don't always deliver a valid ticket. Always start from `catedraldesevilla.es`.
+2. **Booking a tour without checking it includes entry.** You pay for a guide and stay at the door.
+3. **Arriving late for your time.** The time on your ticket is your entry time, and turning up late doesn't get you a refund.
+4. **Bare shoulders or a big backpack.** The rules require covered shoulders and don't allow medium or large backpacks up the Giralda.
+
+## In one sentence
+
+If the official site is sold out, try the Prince's Gate box office before 18:00, look at the rooftop tour, or book a timed ticket or a guided tour that includes entry; and if you only have one day, fit the Cathedral into [Seville in 1 day](/en/guides/sevilla/seville-in-1-day).

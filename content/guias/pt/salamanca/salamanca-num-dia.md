@@ -4,7 +4,7 @@ descripcion: "Salamanca num dia com critério: Plaza Mayor, a Universidade, as d
 categoria: "salamanca"
 slug: "salamanca-num-dia"
 fecha: "2026-04-28"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: true
@@ -24,26 +24,16 @@ slugs:
   fr: salamanque-en-1-jour
   it: salamanca-in-1-giorno
 reservasArriba: true
-intro: '**Salamanca num dia** funciona como poucas cidades históricas: o centro histórico cabe num quilómetro quadrado, é plano e pedonal, e a **Plaza Mayor**, a mais antiga **universidade** de Espanha em funcionamento, as **duas catedrais**, a Clerecía e a **Ponte Romana** ficam a 5-10 minutos a pé umas das outras. Com 30.000 estudantes, a pedra dourada tem ambiente, e à noite, iluminada, é outra cidade.'
-respuestaCorta: 'Sim, **Salamanca num dia** vê-se bem: os grandes monumentos ficam a 5-10 minutos a pé. Faça a **Plaza Mayor, as torres da Clerecía, a Universidade, as duas catedrais e a Ponte Romana ao pôr do sol**, coma na **calle Van Dyck** e não na praça, e fique até às **21h00** para ver a pedra iluminada.'
+respuestaCorta: 'Sim, Salamanca **vê-se bem num dia**: os grandes monumentos ficam a 5–10 minutos a pé uns dos outros. Faça **a Plaza Mayor, as torres de La Clerecía, a Universidade, as duas catedrais e a Ponte Romana ao pôr do sol**, almoce na Calle Van Dyck e não na praça, e fique até às 21h para ver a pedra iluminada. Uma visita a pé com guia local custa desde 17 €.'
 actividades:
   - tour-a-pie-salamanca-guia-local
   - universidad-salamanca-visita-guiada
   - catedrales-salamanca-entrada-audioguia
   - salamanca-leyendas-al-anochecer
   - tour-autoguiado-daremapp-salamanca
-faq:
-- pregunta: Dá para ver Salamanca num dia?
-  respuesta: Sim. O centro histórico cabe num quilómetro quadrado e os monumentos ficam a 5-10 minutos a pé uns dos outros. Num dia vê a Plaza Mayor, a Clerecía, a Universidade, as duas catedrais, a Casa Lis ou San Esteban e a Ponte Romana ao pôr do sol.
-- pregunta: Quanto custam os monumentos de Salamanca?
-  respuesta: O Edifício Histórico da Universidade custa 10 € (5 € reduzido) e é grátis à segunda-feira à tarde; as duas catedrais, 10 € com audioguia; as torres da Clerecía, 3,75 € (grátis à terça das 10h00 às 12h00 fora do verão); a Casa Lis ou San Esteban, 4 € cada.
-- pregunta: Como chegar a Salamanca a partir de Madrid para um dia?
-  respuesta: De Avant ou Alvia a partir de Chamartín (1 h 30, 25-50 €; poucas frequências, reserve), de carro pela A-6 e A-50 (2 h 15) ou de autocarro Avanza a partir da Estación Sur (2 h 30, 15-20 €). Há depósito de bagagem na estação.
-- pregunta: Onde comer em Salamanca?
-  respuesta: Na calle Van Dyck, a 8-10 minutos da Plaza Mayor, onde comem os salmantinos; na Meléndez, com ambiente jovem e preços universitários; ou nos clássicos da Rúa Mayor e da Plaza del Corrillo. Na Plaza Mayor, só café ou imperial.
-- pregunta: Onde está a rã da Universidade de Salamanca?
-  respuesta: Em cima de uma caveira, na fachada plateresca de 1512 do Edifício Histórico. A tradição é encontrá-la sem ajuda; se não conseguir, alguém lha mostrará.
 ---
+
+Salamanca **vê-se bem num só dia**. Tudo o que é turístico cabe em menos de 1 km², os grandes monumentos ficam a 5–10 minutos a pé uns dos outros e o centro histórico é plano e pedonal: não precisa de transportes públicos. Com 30 000 estudantes numa cidade de 145 000 habitantes, a pedra dourada vem acompanhada de muito ambiente.
 
 ## Reserve o essencial
 
@@ -51,64 +41,91 @@ faq:
 | --- | --- | --- |
 | [Bilhete das Catedrais com audioguia](/pt/cities/salamanca/activities/salamanca-bilhete-catedrais-audioguia) | 4,6★ (202) | 10 € |
 
-## O plano do dia: roteiro por Salamanca num dia
+## Como chegar a Salamanca
 
-| Hora | Plano |
+- **Avant/Alvia desde Madrid Chamartín:** 1h30, 25–50 €. Há poucos comboios por dia: reserve com antecedência, sobretudo ao fim de semana.
+- **Carro:** 2h15 pela A-6 e A-50.
+- **Autocarro Avanza desde a Estación Sur:** 2h30, 15–20 €.
+
+De comboio fica com 7–8 horas úteis; de carro ou dormindo na cidade ganha também a noite, que é quando Salamanca está no seu melhor.
+
+## O plano do dia
+
+| Hora | Atividade |
 | --- | --- |
+| 9h30 | Chegada, deixar a bagagem na estação |
 | 10h00 | Plaza Mayor e pequeno-almoço com vista |
-| 10h45 | Casa de las Conchas e torres da Clerecía |
-| 12h00 | Universidade (Edifício Histórico) |
+| 10h45 | Casa de las Conchas e torres de La Clerecía |
+| 12h00 | Universidade (Edificio Histórico) |
 | 13h30 | Catedral Nova e Catedral Velha |
-| 14h30 | Almoço na Van Dyck ou no centro histórico |
-| 16h00 | Casa Lis ou San Esteban |
+| 14h30 | Almoço na Calle Van Dyck ou no centro histórico |
+| 16h00 | Casa Lis ou Convento de San Esteban |
 | 17h30 | Rúa Mayor, Plaza de Anaya e Patio de Escuelas |
 | 18h30 | Pôr do sol na Ponte Romana |
-| 19h30 | Vinhos na Plaza Mayor ou na Meléndez; jantar ou comboio |
+| 19h30 | Um vinho na Plaza Mayor ou na Calle Meléndez |
+| 21h00 | Jantar leve ou comboio de regresso |
 
-Conte com **10-15 km a pé** no dia: leve bom calçado.
+## O imperdível, paragem a paragem
 
-## O que ver em Salamanca: o imperdível
+### 10h00: Plaza Mayor
 
-**Plaza Mayor.** Provavelmente a mais bonita de Espanha, barroca, dos Churriguera (1729-1755). Tome o pequeno-almoço numa esplanada (café e torrada, 4-6 €: caro, mas vale a pena), procure os medalhões (Cervantes, Fray Luis, Carlos V) e volte à noite, quando iluminada é outra.
+Barroca, construída pela família Churriguera entre 1729 e 1755. Conte com 30–45 minutos: pequeno-almoço numa esplanada (café e torrada, **4–6 €**, caro mas vale a pena), procure os medalhões (Cervantes, Frei Luis de León, Carlos V, Filipe V) e tire uma fotografia para comparar com a praça iluminada à noite. Não almoce aqui: os restaurantes de menu turístico têm má relação qualidade-preço.
 
-**Casa de las Conchas e Clerecía.** A casa do século XV com a fachada de vieiras é hoje biblioteca pública, gratuita, com um pátio mudéjar lindíssimo. Em frente, as **torres da Clerecía** (Scala Coeli, **3,75 €**; grátis à terça das 10h00 às 12h00 fora do verão): a melhor vista de Salamanca, com a Universidade, as catedrais e a Plaza Mayor aos seus pés.
+### 10h45: Casa de las Conchas e La Clerecía
 
-**Universidade.** A mais antiga de Espanha em funcionamento (1218), com a fachada plateresca de 1512 onde é preciso **encontrar a rã em cima da caveira** sem ajuda. Edifício Histórico **10 €** (5 € reduzido), **grátis à segunda-feira à tarde**; de segunda a sábado das 10h00 às 19h00-20h00 e ao domingo só de manhã. Lá dentro: a sala de aula de Fray Luis com os bancos originais, a capela, o paraninfo e os vítores pintados em vermelho de sangue de touro pelos doutorandos. Em detalhe, em [como visitar a Universidade](/pt/guides/salamanca/universidade-de-salamanca-como-visitar).
+A **Casa de las Conchas** é um palácio do século XV com a fachada coberta de vieiras, hoje biblioteca pública com **entrada gratuita** e um belo pátio mudéjar.
 
-**As duas catedrais** (entrada conjunta **10 €** com audioguia). Na fachada da Nova (gótico tardio e barroco), procure o **astronauta** e o dragão com gelado que os restauradores do século XX acrescentaram. A **Velha**, românica do século XII, surpreende: o retábulo de 53 painéis de Nicolás Florentino, o Cimborrio del Gallo e a capela de Santa Bárbara, onde os doutorandos faziam exame. Não a salte: a maioria vê a Nova e vai-se embora.
+Em frente, as **torres de La Clerecía (Scala Coeli)** custam **3,75 €**, gratuitas às terças das 10h00 às 12h00 (exceto feriados, Semana Santa, julho e agosto). É a melhor vista de Salamanca, com a Universidade, as duas catedrais e a Plaza Mayor a seus pés.
 
-**Casa Lis ou San Esteban** (**4 €** cada), não os dois. A Casa Lis é o museu de arte nova e art déco com vitrais sobre o rio (grátis à quinta das 11h00 às 14h00); San Esteban, o convento dominicano com claustro plateresco.
+### 12h00: Universidade de Salamanca
 
-**Ponte Romana ao pôr do sol.** A 10 minutos a descer, o postal inteiro: as catedrais na colina e a Clerecía em pedra dourada. Se tiver energia, suba ao Arrabal para outra vista.
+A universidade mais antiga de Espanha ainda em funcionamento (fundada em 1218), com a sua **fachada plateresca** de 1512. Diz a tradição que quem **encontrar a rã sobre uma caveira** entre a decoração sem ajuda passa nos exames.
+
+- Edificio Histórico: **10 €** normal, **5 €** reduzido (estudantes, reformados, famílias numerosas).
+- **Gratuito às segundas à tarde** (a partir das 14h00 no verão).
+- De 1 de abril a 15 de outubro: segunda a sábado das 10h00 às 20h00; de 16 de outubro a 31 de março: segunda a sábado das 10h00 às 19h00. Domingos e feriados das 10h00 às 14h00 todo o ano.
+
+No interior: a **Aula de Frei Luis de León** com os bancos originais do século XVI, a capela, o Paraninfo e os **vítores** vermelhos nas paredes, pintados pelos novos doutores com sangue de touro e azeite. Em pormenor: [Universidade de Salamanca: como visitar](/en/guides/salamanca/university-of-salamanca-how-to-visit).
 
 [actividad: university-of-salamanca-guided-tour]
 
+### 13h30: as duas catedrais
+
+Duas catedrais unidas por dentro, com um **bilhete combinado de 10 €** com audioguia (as duas catedrais, claustro, capelas e museu).
+
+- **Catedral Nova** (gótico tardio e barroco): na Puerta de Ramos, procure o **astronauta** e o **dragão a comer um gelado** acrescentados pelos restauradores do século XX.
+- **Catedral Velha** (românica, século XII): o retábulo de **Nicolás Florentino** (53 painéis, século XV), a cúpula octogonal do **Cimborrio del Gallo** e a **Capela de Santa Bárbara**, onde eram examinados os doutorandos.
+
+Não veja só a Nova e vá embora: a Velha é melhor.
+
+### 14h30: almoço
+
+- **Calle Van Dyck** (8–10 minutos da Plaza Mayor): onde comem os locais; tascas a sério com tapas e raciones.
+- **Calle Meléndez**: tapas criativas a preços de estudante.
+- **Rúa Mayor e Plaza del Corrillo**: clássicos do centro com presunto de Guijuelo.
+
+Prove o **hornazo** (a empada recheada de Salamanca; compre-o numa padaria, não num quiosque turístico), o **presunto ibérico de Guijuelo**, o **farinato** (enchido frito) e a **chanfaina** (arroz com miudezas).
+
+### 16h00: Casa Lis ou San Esteban, não os dois
+
+A **Casa Lis** (4 €), o museu de Arte Nova e Art Déco com vitrais sobre o rio, gratuita às quintas das 11h00 às 14h00; ou o **Convento de San Esteban** (4 €), pelo seu claustro plateresco. Depois, passeie sem plano pela Rúa Mayor, Plaza de Anaya e Patio de Escuelas.
+
+### 18h30: pôr do sol na Ponte Romana
+
+Dez minutos a descer até ao Tormes. A ponte (de origem romana, reconstruída no século XVII) oferece a vista clássica das duas catedrais e de La Clerecía com luz dourada. Se ainda tiver energia, suba ao bairro do Arrabal, na outra margem, para outro ângulo.
+
 [actividad: salamanca-legends-evening-walking-tour]
 
-## Como chegar a Salamanca
+## O que pode dispensar
 
-- **Avant ou Alvia a partir de Chamartín:** 1 h 30, 25-50 €. Poucas frequências: reserve, sobretudo ao fim de semana. Há depósito de bagagem na estação.
-- **Carro:** 2 h 15 pela A-6 e A-50; útil se acrescentar La Alberca ou Alba de Tormes.
-- **Autocarro Avanza a partir da Estación Sur:** 2 h 30, 15-20 €.
+O Museu de Salamanca, a Iglesia de la Purísima, o Convento de las Dueñas (fechado muitas tardes; compensa com dois dias), a Cueva de Salamanca (cinco minutos chegam) e qualquer escapada a Alba de Tormes ou La Alberca, que precisam de pelo menos meio dia.
 
-## Onde comer
+## Erros comuns
 
-- **Calle Van Dyck** (a 8-10 minutos da Plaza Mayor): onde comem os salmantinos, tabernas sérias de tapas e doses.
-- **Meléndez:** ambiente jovem e preços universitários.
-- **Rúa Mayor e Plaza del Corrillo:** clássicos com presunto de Guijuelo.
-- **O que pedir:** **hornazo** (a empada salmantina; compre-a numa padaria, não num quiosque), presunto de Guijuelo, farinato e chanfaina.
-- **Na Plaza Mayor, só café ou imperial.**
-
-## O que pode dispensar e erros comuns
-
-Com um só dia, dispense o Museu de Salamanca, a Purísima, o convento de las Dueñas (fecha muitas tardes; com dois dias, sim), a Cueva de Salamanca (cinco minutos) e qualquer excursão a Alba de Tormes ou La Alberca, que levam meio dia.
-
-1. **Ficar pela Plaza Mayor:** é o começo, não a visita. E não coma lá.
-2. **Saltar a Catedral Velha.**
-3. **Não subir à Clerecía:** 3,75 € pela melhor vista.
-4. **Não procurar a rã.**
-5. **Ir embora de dia:** a pedra iluminada à noite é outra cidade; aguente até às 21h00.
+- **Ir embora antes de anoitecer.** A pedra iluminada é outra cidade; fique até às 21h00 se puder.
+- **Saltar a Catedral Velha ou La Clerecía**, as duas coisas que quem vai à pressa mais perde.
+- **Calçado inadequado.** Conte com 10–15 km a pé.
 
 ## Se ficar a dormir
 
-Vale a pena. Há hotéis no centro a 60-100 € de última hora (exceto no Lunes de Aguas ou em feiras) e comboios de regresso desde manhã cedo. A Plaza Mayor iluminada e as esplanadas até às 2h00 valem a noite; com dois dias, veja [Salamanca num fim de semana](/pt/guides/salamanca/salamanca-num-fim-de-semana).
+Os hotéis do centro custam **60–100 €** em cima da hora e a cidade raramente esgota, exceto no Lunes de Aguas ou nas feiras de setembro; há comboios cedo para regressar na manhã seguinte. Para dois dias, veja [Fim de semana em Salamanca](/pt/guides/salamanca/salamanca-num-fim-de-semana).

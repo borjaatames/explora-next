@@ -5,13 +5,13 @@ metaTitle: "Activités pour groupes et entreprises à Barcelone, avec les prix"
 categoria: "barcelona"
 slug: "activites-groupes-entreprises-barcelone"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/vino/copas-vino-tinto-fila.webp"
 imagen_alt: "Verres de vin rouge et blanc alignés sur une table en bois, prêts pour une dégustation"
-tiempo_lectura: 4
+tiempo_lectura: 7
 keywords:
   - "activites pour groupes barcelone"
   - "activites pour entreprises barcelone"
@@ -26,19 +26,18 @@ slugs:
   it: attivita-gruppi-aziende-barcellona
   pt: atividades-grupos-empresas-barcelona
 reservasArriba: true
-intro: 'Les **activités pour groupes à Barcelone** reviennent bien moins cher par personne quand le prix est fixé par groupe et non par tête. Une équipe de travail, une grande famille ou une bande d''amis peut avoir pour elle seule la **Sagrada Familia** avec un guide officiel, une balade tapas et vin dans le quartier gothique, une excursion à **Montserrat** avec prise en charge à l''hôtel ou une dégustation sur un toit-terrasse du Passeig de Gràcia.'
-respuestaCorta: 'Activités pour groupes à Barcelone, pour 6 : la **Sagrada Familia en privé** avec billets (570 €, 95 € par tête), le **tour privé tapas et vin** (594 €, 99 €) et **Montserrat** avec prise en charge (894 €, 149 €). Pour les entreprises, la **dégustation de bière privée sur un toit** : 55 € par personne.'
+respuestaCorta: 'Pour un groupe de 6 à Barcelone, les activités les plus avantageuses par personne sont la **visite privée de la Sagrada Família** avec guide officiel et billets (570 € le groupe, 95 € par personne), la **visite privée tapas et vin** dans quatre adresses du quartier gothique (594 €, 99 € par personne) et l''**excursion privée à Montserrat** avec prise en charge à l''hôtel (894 €, 149 € par personne). Pour une équipe qui veut quelque chose de détendu, la **dégustation de bière réservée aux groupes privés sur un toit-terrasse** du Passeig de Gràcia coûte 55 € par personne.'
 faq:
-- pregunta: Combien coûte une activité privée pour un groupe de 6 à Barcelone ?
-  respuesta: 'Selon le programme : 570 € au total (95 € par personne) pour la visite privée de la Sagrada Familia avec billets, 594 € (99 € par personne) pour le tour privé tapas et vin, 894 € (149 € par personne) pour l''excursion privée à Montserrat et 1 014 € (169 € par personne) pour la journée privée « le meilleur de Barcelone ».'
-- pregunta: Et si nous sommes 8 ou 10 ?
-  respuesta: Les grilles tarifaires des visites privées vont jusqu'à 6 personnes, et la journée complète « le meilleur de Barcelone » en accepte 6 au maximum. Au-delà, vérifiez le total dans le calendrier de réservation de la fiche en indiquant votre nombre, ou faites deux réservations à la même heure. La dégustation de bière privée sur toit-terrasse se paie par personne et est pensée pour les groupes.
-- pregunta: Quelle activité de team building faire à Barcelone ?
-  respuesta: La dégustation de bière pour groupes privés sur un toit-terrasse (55 € par personne, 2 heures, uniquement votre groupe) est la plus adaptée aux entreprises. Pour quelque chose de plus actif, le cours de salsa avec sangria sur un toit-terrasse (48,60 €) ou le sip & paint (19 €), mais ces deux-là se font en groupe partagé.
-- pregunta: Les activités privées incluent-elles la prise en charge à l'hôtel ?
-  respuesta: L'excursion privée à Montserrat et la journée « le meilleur de Barcelone » incluent la prise en charge et le retour à l'hôtel. La visite de la Sagrada Familia commence à la basilique (il existe une option avec prise en charge au port de croisière) et le tour tapas, à un point du centre.
-- pregunta: Peut-on annuler si le nombre de participants change ?
-  respuesta: 'La Sagrada Familia en privé, le tour tapas et vin, Montserrat et la journée complète sont annulables gratuitement jusqu''à 24 heures avant. La dégustation de bière privée sur toit-terrasse n''est pas remboursable : réservez-la avec un nombre définitif.'
+  - pregunta: "Combien coûte une activité privée pour un groupe de 6 à Barcelone ?"
+    respuesta: "Selon le programme : 570 € au total (95 € par personne) pour la visite privée de la Sagrada Família avec billets, 594 € (99 € par personne) pour la visite privée tapas et vin, 894 € (149 € par personne) pour l'excursion privée à Montserrat et 1 014 € (169 € par personne) pour la journée complète privée sur le meilleur de Barcelone."
+  - pregunta: "Et si nous sommes 8 ou 10 ?"
+    respuesta: "Les grilles de prix des visites privées vont jusqu'à 6 personnes, et la journée complète sur le meilleur de Barcelone accepte 6 personnes maximum. Au-delà, vérifiez le total dans le calendrier de réservation de la fiche en indiquant votre nombre, ou faites deux réservations à la même heure. La dégustation de bière privée sur toit-terrasse se paie par personne et est pensée pour les groupes."
+  - pregunta: "Quelle activité de team building faire à Barcelone ?"
+    respuesta: "La dégustation de bière pour groupes privés sur un toit-terrasse (55 € par personne, 2 heures, uniquement votre groupe) est la plus adaptée aux entreprises. Pour quelque chose de plus actif, le cours de salsa avec sangria sur un toit-terrasse (48,60 €) ou le sip & paint (19 €), mais ces deux-là se font en groupe partagé."
+  - pregunta: "Les activités privées incluent-elles la prise en charge à l'hôtel ?"
+    respuesta: "L'excursion privée à Montserrat et la journée complète sur le meilleur de Barcelone incluent la prise en charge et le retour à l'hôtel. La visite de la Sagrada Família commence à la basilique même (il existe une option avec prise en charge au port de croisière) et la visite tapas, en un point du centre."
+  - pregunta: "Peut-on annuler si le nombre de participants change ?"
+    respuesta: "La Sagrada Família privée, la visite tapas et vin, Montserrat et la journée complète offrent l'annulation gratuite jusqu'à 24 heures avant. La dégustation de bière privée sur toit-terrasse n'est pas remboursable : réservez-la une fois le nombre arrêté."
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
   - tour-privado-tapas-y-vino
@@ -49,6 +48,7 @@ actividades:
   - montserrat-cavas-codorniu-privado-desde-barcelona
   - barcelona-clase-de-salsa-y-sangria-azotea
 ---
+À Barcelone, un groupe d'amis, une grande famille ou une équipe de travail paie beaucoup moins par personne en choisissant des activités avec un **prix par groupe**. Ce guide rassemble ce que nous vendons en format privé ou pensé pour les groupes, avec les grilles réelles de chaque fiche, pour que vous sachiez combien cela revient par personne avant de réserver.
 
 ## Les programmes en un coup d'œil
 
@@ -63,61 +63,62 @@ actividades:
 | [Montserrat et caves Codorníu, en privé](/fr/cities/barcelona/activities/montserrat-caves-codorniu-excursion-privee) | 8 h | Environ 206 € par personne pour un groupe de 4 | Journée cava et montagne |
 | [Cours de salsa avec sangria sur toit-terrasse](/en/cities/barcelona/activities/barcelona-salsa-class-and-sangria-rooftop) | 2 h | 48,60 € par personne | Team building actif (groupe partagé) |
 
-## Combien coûte une visite privée de Barcelone pour un groupe
+Prix « à partir de » de chaque fiche au 1er novembre 2026 ; ils peuvent varier selon la date.
 
-Voici les totaux par groupe de chaque activité privée et ce que cela représente par personne (prix « à partir de » au 1er novembre 2026 ; ils peuvent varier selon la date) :
+## Combien cela coûte par personne selon votre nombre
 
-| Activité privée | Durée | 2 personnes | 4 personnes | 6 personnes | Par personne (6) |
-| --- | --- | --- | --- | --- | --- |
-| Sagrada Familia avec guide officiel et billets | 1 h 45 | 340 € | 480 € | 570 € | 95 € |
-| Tapas et vin, 4 adresses | 3 h | 298 € | 476 € | 594 € | 99 € |
-| Montserrat avec prise en charge à l'hôtel | 5 h | 838 € | 876 € | 894 € | 149 € |
-| Le meilleur de Barcelone, journée complète | Environ 7 h | 658 € | 836 € | 1 014 € | 169 € |
+Voici les totaux par groupe enregistrés dans notre système de réservation, et ce que cela donne par personne :
 
-Regardez **Montserrat** : le prix augmente à peine de 2 à 6 personnes, c'est donc l'excursion où partir en groupe est le plus rentable.
+| Activité privée | 2 personnes | 4 personnes | 6 personnes | Par personne (6) |
+| --- | --- | --- | --- | --- |
+| Sagrada Família avec guide officiel et billets | 340 € | 480 € | 570 € | 95 € |
+| Tapas et vin, 4 adresses | 298 € | 476 € | 594 € | 99 € |
+| Montserrat avec prise en charge à l'hôtel | 838 € | 876 € | 894 € | 149 € |
+| Le meilleur de Barcelone, journée complète | 658 € | 836 € | 1 014 € | 169 € |
 
-**Groupes de 7 à 10 :** ces grilles vont jusqu'à 6 personnes, et la journée complète en accepte **6 au maximum**. Au-delà, indiquez votre nombre dans le calendrier de réservation de la fiche pour voir le total avant de payer, ou faites deux réservations à la même heure.
+Regardez Montserrat : le prix augmente à peine de 2 à 6 personnes, c'est donc l'excursion où il est le plus intéressant de partir en groupe.
 
-[actividad: tour-privado-lo-mejor-de-barcelona-sagrada-familia]
+**Groupes de 7 à 10 :** ces grilles vont jusqu'à 6 personnes, et la journée complète en accepte 6 au maximum. Au-delà, indiquez votre nombre dans le calendrier de réservation de la fiche pour voir le total avant de payer, ou faites deux réservations à la même heure.
 
-## La Sagrada Familia en privé
+## La Sagrada Família, en privé
 
-Un **guide officiel rien que pour votre groupe**, avec audiophones, vous explique les façades de la Nativité et de la Passion à l'extérieur, puis la nef, les colonnes-arbres et les vitraux à l'intérieur ; ensuite, vous pouvez rester dans la basilique. Les **billets coupe-file** sont inclus.
-
-- **Tenue :** épaules et genoux couverts, sinon l'entrée peut vous être refusée.
-- **Heure :** elle peut être ajustée selon la disponibilité des billets ; le prestataire vous la confirme.
-- **Prix :** pour 4-6 personnes, le coût par tête est proche de celui d'une visite en groupe.
+Un **guide officiel rien que pour votre groupe**, avec écouteurs, vous explique les façades de la Nativité et de la Passion à l'extérieur, puis la nef, les colonnes-arbres et les vitraux à l'intérieur ; ensuite, vous pouvez rester dans la basilique. Les billets coupe-file sont inclus. Pour entrer, épaules et genoux couverts. L'heure de début peut être ajustée selon la disponibilité des billets : le prestataire vous la confirme.
 
 [actividad: sagrada-familia-visita-privada-guia-entradas]
 
 ## Dîner d'équipe : tapas et vin en privé
 
-Trois heures dans le quartier gothique et la vieille ville avec un guide gastronomique rien que pour vous : **quatre adresses**, avec des tapas accompagnées de vins régionaux à chacune. Les départs se font en général vers **18 h** et s'adaptent aux allergies et aux régimes végétariens si vous le signalez en arrivant.
-
-Si le groupe veut un spectacle, le **tour privé tapas, vin et flamenco** (3 h) se termine par du flamenco dans un palais médiéval et revient à environ **88 € par personne** à partir de 4.
+Trois heures dans le quartier gothique et la vieille ville avec un guide gastronomique rien que pour vous : **quatre adresses**, des tapas accompagnées de vins régionaux dans chacune. Les départs ont généralement lieu vers 18 h et s'adaptent aux allergies et aux options végétariennes si vous le signalez à l'arrivée. Si le groupe veut un spectacle, la **visite privée tapas, vin et flamenco** se termine par du flamenco dans un palais médiéval et revient à environ 88 € par personne à partir de 4.
 
 [actividad: tour-privado-tapas-y-vino]
 
-## Excursion privée à Montserrat en groupe
+## Excursion privée à Montserrat
 
-Véhicule et guide rien que pour votre groupe, avec **prise en charge et retour à l'hôtel**, entrée au monastère et promenade dans le parc naturel, avec des arrêts à votre guise (Sainte Grotte, Creu de Sant Miquel ou belvédères). Comptez **cinq heures** ; il faut réserver **au moins trois jours à l'avance**.
-
-Si le groupe préfère une journée entière avec du cava, l'excursion privée **Montserrat et caves Codorníu** dure huit heures, avec un petit train dans les galeries et une dégustation de deux cavas (environ **206 € par personne** pour un groupe de 4). Nous comparons toutes les options dans [quelle excursion à Montserrat choisir](/fr/guides/barcelona/montserrat-quelle-excursion-choisir).
+Véhicule et guide rien que pour votre groupe, avec **prise en charge et retour à l'hôtel**, entrée au monastère et promenade dans le parc naturel, avec des arrêts à votre convenance (Santa Cova, Creu de Sant Miquel ou belvédères). Elle dure cinq heures. Il faut réserver **au moins trois jours à l'avance**. Si le groupe préfère une journée entière avec du cava, l'excursion privée à **Montserrat et aux caves Codorníu** dure huit heures, avec un petit train dans les galeries et la dégustation de deux cavas. Nous comparons toutes les options dans [quelle excursion à Montserrat choisir](/fr/guides/barcelona/montserrat-quelle-excursion-choisir).
 
 [actividad: montserrat-tour-privado-recogida-hotel]
 
-## Team building à Barcelone : activités pour entreprises
+## Team building : dégustation de bière rien que pour votre groupe
 
-- **Dégustation de bière rien que pour votre groupe (55 € par personne, 2 h).** Le programme le plus pensé pour les entreprises, les anniversaires et les enterrements de vie de garçon ou de jeune fille : **six bières artisanales** avec un guide brasseur sur un toit-terrasse du Passeig de Gràcia, puis un bar avec vos préférées. Des créneaux toutes les demi-heures entre 14 h et 16 h, explications en anglais, et **non remboursable** : réservez avec une liste définitive.
-- **Cours de salsa avec sangria (48,60 € par personne, 2 h)** sur un autre toit-terrasse du même boulevard, pour quelque chose de plus actif. En groupe partagé.
-- **Une journée entière organisée :** le **tour privé « le meilleur de Barcelone »** (environ 7 heures) comprend la prise en charge à l'hôtel, le transport privé, un guide exclusif à Montjuïc, dans le quartier gothique et sur le Passeig de Gràcia, et l'entrée guidée à la Sagrada Família.
+C'est le programme le plus pensé pour les entreprises : une **dégustation de six bières artisanales** avec un guide brasseur sur un toit-terrasse du Passeig de Gràcia, réservée aux groupes privés, puis un bar avec vos préférées. Il y a des créneaux toutes les demi-heures entre 14 h et 16 h, les explications sont en anglais et ce n'est **pas remboursable**. Pour quelque chose de plus animé, le **cours de salsa avec sangria** sur un autre toit-terrasse de la même avenue (48,60 €), en groupe partagé.
 
 [actividad: barcelona-cata-cerveza-grupos-privados-azotea]
+
+## Une journée entière sans rien à organiser
+
+La **visite privée du meilleur de Barcelone** dure environ sept heures, avec prise en charge à l'hôtel, transport privé et guide exclusif à Montjuïc, dans le quartier gothique et sur le Passeig de Gràcia, ainsi qu'une entrée guidée à la Sagrada Família. Elle accepte **6 personnes au maximum** : à 6, elle revient à 169 € par personne.
+
+[actividad: tour-privado-lo-mejor-de-barcelona-sagrada-familia]
 
 ## Conseils pratiques
 
 - **Réservez à l'avance :** deux ou trois semaines pour les groupes de plus de 6, et trois jours minimum pour Montserrat en privé.
 - **Une seule personne coordonne :** elle réserve et partage avec le groupe le point de rendez-vous de chaque fiche.
-- **Combinez :** Sagrada Familia le matin et tapas privées le soir font une journée complète sans courir.
-- **Comparez correctement :** le prix « à partir de » d'une activité privée est par groupe ; divisez-le par le nombre de participants avant de le comparer à une visite en groupe.
-- **Règles de la ville :** depuis le 29 octobre 2025, les tournées de bars dont le but principal est de boire sont interdites à Barcelone. Un tour gastronomique guidé avec repas ou une dégustation dans un seul lieu relèvent d'une autre logique, mais évitez de présenter votre sortie comme une tournée des bars.
+- **Combinez :** la Sagrada Família le matin et des tapas privées le soir, c'est une journée complète sans courir.
+- **Règles de la ville :** depuis le 29 octobre 2025, les tournées de plusieurs bars dont le but principal est de boire sont interdites à Barcelone. Une visite gastronomique guidée avec repas ou une dégustation dans un seul établissement relèvent d'une autre logique, mais évitez de présenter le programme comme une tournée des bars.
+
+## Erreurs fréquentes
+
+- **Comparer le « à partir de » d'une visite privée avec le prix par personne d'une visite en groupe :** pour 4-6 personnes, la Sagrada Família privée revient à un prix par personne proche de celui d'une visite en groupe.
+- **Réserver la dégustation de bière avant d'avoir bouclé la liste :** elle n'est pas remboursée.
+- **Aller à la Sagrada Família en débardeur ou en short :** on peut vous refuser l'entrée de la basilique.

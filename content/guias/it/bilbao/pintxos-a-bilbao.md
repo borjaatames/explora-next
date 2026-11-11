@@ -1,12 +1,11 @@
 ---
 titulo: "Pintxos a Bilbao: guida al txikiteo (zone, classici e regole)"
 descripcion: "Guida ai pintxos a Bilbao: dove fare txikiteo (Plaza Nueva, Casco Viejo, Ensanche), i pintxos classici, la Gilda, cosa bere e come non sembrare un turista."
-intro: 'Mangiare **pintxos a Bilbao** è un rito più che un pasto: non ci si siede in un locale, si va di bancone in bancone, il **txikiteo**, con un pintxo e un txikito o uno zurito in ogni bar. La Plaza Nueva e le Siete Calles del Casco Viejo sono l''epicentro, e l''Ensanche aggiunge bar moderni. Ecco dove andare, cosa ordinare e come farlo come un bilbaino.'
-respuestaCorta: 'Per i **pintxos a Bilbao**, vai di bar in bar intorno alla **Plaza Nueva e al Casco Viejo**, o in calle Ledesma e García Rivero nell''Ensanche, con **uno o due per bar**. Inizia con una Gilda e chiedi quelli caldi. Calcola **2-3,50 € il pintxo freddo e 4-6 € quello caldo**; una cena di txikiteo, 25-35 €.'
+respuestaCorta: 'Vai di bancone in bancone tra **Plaza Nueva e il Casco Viejo**, o tra Ledesma e García Rivero nell''Ensanche, con **uno o due pintxos per bar**. Inizia con una Gilda e chiedi quelli caldi di cucina. Calcola **2-3,50 € il pintxo freddo e 4-6 € quello caldo**; una cena di txikiteo costa 25-35 € a persona.'
 categoria: "bilbao"
 slug: "pintxos-a-bilbao"
 fecha: "2026-04-04"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
@@ -30,20 +29,9 @@ reservasArriba: true
 actividades:
   - tour-pintxos-bilbao-vino
   - clase-cocina-pintxos-bilbao
-faq:
-- pregunta: Quanto costa un giro di pintxos a Bilbao?
-  respuesta: Un pintxo freddo al bancone costa 2-3,50 € e uno caldo di cucina 4-6 €. Uno zurito costa circa 1,50 €, un txikito 1,50-2,50 € e un bicchiere di txakoli 2,50-3,50 €. Una cena di txikiteo con 5-6 pintxos e bevande costa 25-35 € a persona.
-- pregunta: Qual è la zona migliore per i pintxos a Bilbao?
-  respuesta: La Plaza Nueva e le Siete Calles del Casco Viejo sono l'epicentro classico. Nell'Ensanche, calle Ledesma ha pintxos moderni, e García Rivero e Diputación riuniscono alcuni dei bar più noti della città. Calle Pozas, vicino al San Mamés, si anima soprattutto nei giorni di partita.
-- pregunta: A che ora si va a mangiare pintxos a Bilbao?
-  respuesta: I banconi si riempiono dalle 12:30 alle 15:00 e dalle 19:30 alle 22:30. Nel mezzo, molti bar del Casco Viejo chiudono la cucina o il locale (soprattutto dalle 16:00 alle 19:00), e parecchi riposano il lunedì.
-- pregunta: Cos'è il pintxo-pote?
-  respuesta: Il giovedì sera, nei bar di Deusto, Indautxu e calle Licenciado Poza, pintxo più bevanda a 2-3 €. È il programma degli universitari e un buon modo per iniziare.
-- pregunta: Si lascia la mancia nei bar di pintxos?
-  respuesta: 'No, o al massimo gli spiccioli del resto. Si paga quando si va via, a voce: il cameriere ricorda cosa hai preso.'
 ---
 
-Regola numero uno del txikiteo: **muoviti**. Il bello è assaggiare la specialità di ogni bar, non restare in uno solo. E i pintxos migliori spesso non sono in vista sul bancone: si ordinano caldi.
+**Mangiare pintxos a Bilbao è un rito, non solo un pasto.** Non si tratta di sedersi in un locale, ma di andare di bancone in bancone (il **txikiteo** o **poteo**) prendendo un pintxo e un txikito (vino) o uno zurito (birra piccola) in ogni locale. Questa guida ti dice dove andare, cosa ordinare e come farlo da bilbaino e non da turista distratto.
 
 ## Tour di pintxos
 
@@ -52,59 +40,61 @@ Regola numero uno del txikiteo: **muoviti**. Il bello è assaggiare la specialit
 | [Tour di pintxos con vino](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4,9★ (1.041) | 95 € |
 | [Corso di cucina di pintxos (in inglese)](/en/cities/bilbao/activities/bilbao-pintxos-cooking-class) | 4,8★ (70) | 80 € |
 
-## Dove mangiare pintxos a Bilbao
-
-| Zona | Atmosfera |
-| --- | --- |
-| **Plaza Nueva** (Casco Viejo) | Portici, classica, cuore del txikiteo |
-| **Siete Calles** (Casco Viejo) | Bar tradizionali, tanta animazione |
-| **Calle Ledesma** (Ensanche) | Pintxos moderni, dopo-lavoro |
-| **García Rivero / Diputación** (Ensanche) | Tra i bar più noti della città |
-| **Calle Pozas** (vicino al San Mamés) | Vivace, soprattutto nei giorni di partita |
-
-La domenica sera il Casco Viejo è spento; l'Ensanche è più vivo.
-
-## I pintxos classici, a cominciare dalla Gilda
-
-- **La Gilda.** Il pintxo originale: peperoncino, oliva e acciuga su uno stecchino. Salato e irresistibile; ordinalo per primo.
-- **Baccalà (bacalao)**, fritto in pastella, al pil-pil o alla vizcaína.
-- **Tortilla di patate** morbida: a Bilbao la si prende molto sul serio.
-- **Txampis**, funghi alla piastra con aglio.
-- **Pintxos di cucina** (caldi, «a la cazuela»): guanciale, foie gras, granseola (txangurro)… Si ordinano a parte, spesso dalla lavagna del giorno.
-
-## Cosa bere
-
-- **Txikito o pote:** un bicchierino di vino (di solito Rioja).
-- **Zurito:** una birra piccola, ideale per girare i bar senza esagerare.
-- **Txakoli:** il bianco basco, acidulo e fresco, versato dall'alto.
-
-## Come fare il txikiteo a Bilbao
-
-1. **Ordina al bancone** quello che vedi, o chiedi la lavagna dei **pintxos caldi**. Di' quanti e quali, più la bevanda; quelli caldi vanno chiesti espressamente.
-2. **Uno o due per bar**, poi si cambia. I bilbaini ne concatenano tre o quattro; restare tutta la sera in un solo bar della Plaza Nueva è da turista.
-3. **Paga quando vai via**, a voce: il cameriere ricorda cosa hai preso. Niente mancia, o al massimo gli spiccioli.
-4. **In piedi è la norma.** I tavoli, se ci sono, sono per mangiare alla carta; se vuoi sederti con i pintxos, chiedi prima, e spesso costa un po' di più.
-
-Se la prima sera preferisci farti guidare per i bar, il tour di pintxos con vino è l'opzione meglio valutata:
+La regola numero uno: **muoviti**. Il bello è assaggiare la specialità di ogni bar, non restare in uno solo. E spesso i pintxos migliori non sono in vista sul bancone: si ordinano caldi.
 
 [actividad: tour-pintxos-bilbao-vino]
 
-## Prezzi e orari
+## Dove andare per pintxos
 
-- **Pintxo freddo** al bancone: **2-3,50 €**. **Caldo** di cucina: **4-6 €**.
-- **Zurito:** 1,50 €. **Txikito:** 1,50-2,50 €. **Bicchiere di txakoli:** 2,50-3,50 €.
-- **Cena di txikiteo** con 5-6 pintxos e bevande: **25-35 € a persona**.
-- **Orari di punta:** **12:30-15:00** e **19:30-22:30**. Nel mezzo, molti bar del Casco Viejo chiudono la cucina o il locale (soprattutto dalle 16:00 alle 19:00), e **parecchi riposano il lunedì**.
-- **Pintxo-pote:** il **giovedì sera**, nei bar di Deusto, Indautxu e calle Licenciado Poza, pintxo più bevanda a **2-3 €**. Il programma degli universitari e un buon modo per iniziare.
+| Zona | Atmosfera |
+| --- | --- |
+| Plaza Nueva (Casco Viejo) | Portici, classica, epicentro del txikiteo |
+| Siete Calles (Casco Viejo) | Bar tradizionali, tanta animazione |
+| Calle Ledesma (Ensanche) | Pintxos moderni, after-work |
+| García Rivero / Diputación (Ensanche) | Tra i più rinomati della città |
+| Calle Pozas (accanto al San Mamés) | Vivace, soprattutto nei giorni di partita |
+
+## I pintxos classici
+
+- **La Gilda.** Il pintxo originale: peperoncino verde, oliva e acciuga su uno stuzzicadenti. Salato e irresistibile; ordinalo per primo.
+- **Baccalà** (in pastella, al pil-pil o alla biscaglina).
+- **Tortilla di patate** succosa: a Bilbao la si prende molto sul serio.
+- **Txampis** (funghi alla piastra con aglio).
+- **Pintxos di cucina** (caldi, "a la cazuela"): guance di maiale, foie gras, txangurro (granceola)… quelli che si ordinano a parte.
+
+## Cosa bere
+
+- **Txikito o pote**: un bicchiere piccolo di vino (di solito domina il Rioja).
+- **Zurito**: una birra piccola, ideale per girare i bar senza esagerare.
+- **Txakoli**: il bianco basco, acidulo e fresco, versato dall'alto.
+
+## Come farlo bene
+
+1. **Ordina al bancone** quello che vedi, o chiedi della lavagna dei **pintxos caldi** del giorno.
+2. **Prendine uno o due per bar** e cambia locale: questo è il txikiteo.
+3. **Paga a giri**; in molti posti si segna e si paga alla fine.
+4. **Ore di punta**: l'aperitivo di mezzogiorno (13:00-15:00) e quello serale (20:00-22:00).
+
+> **Attenzione:** restare tutta la sera in un solo bar di Plaza Nueva è da turista. Gli abitanti ne concatenano tre o quattro; fai lo stesso e mangerai molto meglio.
+
+## Info pratiche: prezzi, orari e usanze
+
+- **Prezzi:** un pintxo freddo da bancone, 2-3,50 €; uno caldo di cucina, 4-6 €; uno zurito, 1,50 €; un txikito, 1,50-2,50 €; un bicchiere di txakoli, 2,50-3,50 €. Una cena di txikiteo con 5-6 pintxos e bevande costa 25-35 € a persona.
+- **Orari:** i banconi si riempiono dalle 12:30 alle 15:00 e dalle 19:30 alle 22:30. Nel mezzo, molti bar del Casco Viejo chiudono la cucina o l'intero locale (soprattutto dalle 16:00 alle 19:00), e diversi riposano il lunedì. La domenica pomeriggio il Casco Viejo è spento; l'Ensanche, più vivo.
+- **Pintxo-pote:** il giovedì sera, nei bar di Deusto, Indautxu e di calle Licenciado Poza, pintxo più bevanda per 2-3 €. È il programma degli universitari e un buon modo per cominciare.
+- **Come ordinare:** di' quanti e quali, e la bevanda; quelli caldi si chiedono espressamente. Si paga quando te ne vai, sulla parola: il cameriere ricorda cosa hai preso. Non si lascia la mancia, o al massimo gli spiccioli del resto.
+- **In piedi è la norma:** i tavoli, se ci sono, sono per mangiare alla carta. Se vuoi sederti a mangiare pintxos, chiedi il permesso e, in molti posti, ti faranno pagare qualcosa in più.
+- **Semana Grande** (l'Aste Nagusia, a metà agosto) e i giorni di partita al San Mamés: tutto stracolmo e alcuni bar con prezzi da festa. Divertente, ma non è il giorno per un txikiteo tranquillo.
 
 [actividad: clase-cocina-pintxos-bilbao]
 
-## Consigli e cosa non consigliamo
+## Cosa NON consigliamo
 
-- **Non chiamarle «tapas».** Qui sono pintxos, e molti si ordinano caldi.
-- **Non fermarti al bancone freddo.** Il meglio di solito è la cucina calda del giorno.
-- **Non bere txikitos senza mangiare.** Il poteo si accompagna sempre a un pintxo.
-- **Occhio alle date:** durante la **Semana Grande** (Aste Nagusia, a metà agosto) e nei giorni di partita al San Mamés, tutto è pieno e alcuni bar alzano i prezzi. Divertente, ma non è il giorno per un txikiteo tranquillo, tanto meno in calle Pozas.
-- **Se vuoi di più**, c'è un corso di cucina di pintxos (in inglese) per imparare a prepararli.
+1. **Chiamarli "tapas".** Qui sono pintxos, e molti si ordinano caldi.
+2. **Restare solo al bancone freddo.** Il meglio di solito è la cucina calda del giorno.
+3. **Bere txikitos senza mangiare.** Il poteo si accompagna sempre con un pintxo.
+4. **Andare in calle Pozas in un giorno di partita se cerchi la calma.** Sarà stracolma.
 
-Abbiamo inserito il txikiteo nel percorso [Bilbao in un giorno](/it/guides/bilbao/bilbao-in-un-giorno).
+## In una frase
+
+Mangiare pintxos a Bilbao vuol dire fare txikiteo tra Plaza Nueva e l'Ensanche, iniziare con una Gilda e non restare in un solo bar. Lo inseriamo nell'itinerario di [Bilbao in un giorno](/it/guides/bilbao/bilbao-in-un-giorno).

@@ -1,16 +1,15 @@
 ---
 titulo: "Où manger à Malaga : espetos, friture de poisson et vin doux"
 descripcion: "Guide pour bien manger à Malaga : espeto de sardines, friture malagueña, ajoblanco, vin doux et où bien manger loin des pièges à touristes de la cathédrale."
-intro: 'Savoir **où manger à Malaga**, c''est découvrir une cuisine marine et simple, de paillote et de taverne, avec des produits de la mer exceptionnels : l''**espeto de sardines** grillé sur le sable de Pedregalejo et d''El Palo, la friture, les anchois de la baie, l''ajoblanco et le **vin doux** servi au fût dans des bodegas historiques. On y mange très bien et pour pas cher : il suffit de s''éloigner des terrasses de la cathédrale.'
-respuestaCorta: '**Où manger à Malaga :** l''**espeto de sardines en paillote à Pedregalejo ou El Palo** (4-6 € les six sardines, plutôt à midi), la friture là où vont les locaux et le **vin doux au fût** dans une bodega historique comme l''Antigua Casa de Guardia. Comptez **20-25 € par personne** ; évitez les terrasses de la cathédrale et de Larios.'
+respuestaCorta: 'Mangez l''**espeto de sardines dans un chiringuito de Pedregalejo ou d''El Palo** (4-6 € les six sardines, de préférence à midi), la friture de poisson là où les gens du coin se pressent et le **vin doux au tonneau** dans une bodega historique comme l''Antigua Casa de Guardia. Bien manger revient à **20-25 € par personne** ; évitez les terrasses face à la cathédrale et dans la calle Larios.'
 categoria: "malaga"
 slug: "ou-manger-a-malaga"
 fecha: "2026-03-21"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 4
+tiempo_lectura: 3
 keywords:
   - "ou manger a malaga"
   - "espeto de sardines"
@@ -29,61 +28,60 @@ actividades:
   - malaga-taller-tapas-mercado-atarazanas
 imagen_portada: "/images/guias/comer-en-malaga.jpg"
 imagen_alt: "Des espetos de sardines qui grillent sur la braise"
-faq:
-- pregunta: Où manger un espeto de sardines à Malaga ?
-  respuesta: Dans les paillotes (chiringuitos) de Pedregalejo et d'El Palo, avec leurs barques-grils sur le sable. Les espetos se servent surtout à midi, de 13 h à 16 h 30. On y va en bus 11 depuis l'Alameda Principal (20 minutes) ou à pied en 40 minutes par le front de mer depuis La Malagueta.
-- pregunta: Combien coûte un repas à Malaga ?
-  respuesta: 'Bien manger revient à 20-25 € par personne. Repères : un espeto de six sardines, 4-6 € ; une portion de friture malaguène, 12-15 € ; des anchois frits, 8-10 € ; un verre de vin doux au fût, 1,50-3 €.'
-- pregunta: Où goûter le vin doux de Malaga ?
-  respuesta: 'Dans une bodega historique du centre qui le sert au fût. L''Antigua Casa de Guardia, sur l''Alameda Principal et ouverte depuis 1840, est l''originale : debout au comptoir, l''addition écrite à la craie.'
-- pregunta: Quels sont les horaires du marché d'Atarazanas ?
-  respuesta: Il ouvre du lundi au samedi de 8 h à 15 h et ferme le dimanche. Les bars à l'intérieur se remplissent à partir de 13 h ; venez avant 12 h 30 si vous voulez une place au comptoir.
-- pregunta: Où éviter de manger à Malaga ?
-  respuesta: 'Aux terrasses avec menu plastifié en plusieurs langues et rabatteurs juste devant la cathédrale ou dans la calle Larios : prix touristiques et qualité moyenne. Marchez deux ou trois rues vers Carretería, le Soho ou le marché.'
 ---
 
-## Que manger à Malaga : l'incontournable
+**À Malaga, on mange merveilleusement bien et pour pas cher, à condition de savoir où.** C'est une cuisine de la mer, simple, de chiringuito et de taverne, avec des produits de la mer exceptionnels. Le seul piège, ce sont les terrasses touristiques face à la cathédrale et dans la calle Larios ; deux rues plus loin, tout s'améliore. Ce guide vous donne les clés pour manger comme un Malagueño.
 
-- **Espeto de sardines.** Des sardines enfilées sur une canne et grillées sur des braises de bois d'olivier dans le sable, dans des barques-grils. Elles se mangent avec les doigts. C'est le plat emblématique de la ville, à goûter au bon endroit : les **paillotes de Pedregalejo et d'El Palo**, pas une terrasse du centre. Elles sont à leur meilleur **de mai à septembre** ; hors saison, préférez la friture, les palourdes ou les vernis.
-- **Friture (fritura malagueña).** Assortiment d'anchois, de calamars, de petits encornets et de rosada. Croustillant et léger.
-- **Anchois (boquerones).** Les « victorianos » de la baie, frits ou au vinaigre.
-- **Ajoblanco et porra.** L'**ajoblanco** est une soupe froide d'amandes et d'ail, servie avec du raisin ; la **porra antequerana**, un cousin plus épais du salmorejo. Rafraîchissants en été.
+Le plat qui définit la ville, c'est l'**espeto de sardines** : il faut absolument le goûter, et au bon endroit (un chiringuito de plage), pas sur une terrasse du centre.
 
-## Vin doux de Malaga : quoi boire
+## L'incontournable
 
-Le **vin doux de Malaga** (moscatel ou Pedro Ximénez) est la signature de la ville. Goûtez-le dans une bodega historique du centre où on le sert directement au fût :
+**Espeto de sardines.** Des sardines enfilées sur une tige de canne et grillées sur la braise de bois d'olivier dans le sable, dans des barques transformées en barbecue. Elles se mangent avec les doigts, de préférence en saison (de mai à septembre ; la règle des « mois sans R » compte moins ici : la règle locale va de la Semaine sainte à octobre). Le meilleur endroit : les **chiringuitos de Pedregalejo et d'El Palo**.
 
-- **Antigua Casa de Guardia** (Alameda Principal, depuis 1840) : l'originale. Debout au comptoir, l'addition à la craie.
-- **El Pimpi :** plus touristique, mais le bâtiment vaut la visite.
+**Friture malagueña.** La friture de poisson variée : anchois, calamars, petits encornets, lotte. Croustillante et légère.
 
-Un verre de vin doux au fût coûte **1,50-3 €**. Goûtez aussi les vins de l'**Axarquía** et des Montes de Málaga.
+**Anchois.** Les « victorianos » (de la baie), frits ou marinés au vinaigre. Imbattables.
 
-## Où bien manger à Malaga
+**Ajoblanco et porra.** L'**ajoblanco** est la soupe froide d'amandes et d'ail (servie avec des raisins) ; la **porra antequerana**, un cousin plus épais du salmorejo. Rafraîchissants en été.
 
-| Quartier | Quoi chercher |
+## À boire
+
+Le **vin doux de Malaga** (muscat ou Pedro Ximénez) est la signature de la ville. Goûtez-le dans une bodega historique du centre où on le sert directement au tonneau : une expérience en soi. Il y a aussi les vins de l'**Axarquía** et des Montes de Málaga.
+
+## Où bien manger
+
+| Quartier | Ce qu'il faut chercher |
 | --- | --- |
-| Pedregalejo / El Palo | Espetos et friture en paillote |
-| Marché d'Atarazanas | Tapas, produits frais, fruits de mer |
+| Pedregalejo / El Palo | Espetos et friture de poisson en chiringuito |
+| Mercado de Atarazanas | Tapas, produits frais, fruits de mer |
 | Calle Carretería / Soho | Tavernes et cuisine du marché |
 | Centre (loin de Larios) | Bodegas historiques de vin doux |
 
-Méfiez-vous des terrasses avec **menu plastifié en plusieurs langues et rabatteurs** juste devant la cathédrale ou dans la calle Larios : prix touristiques et qualité moyenne. Marchez deux ou trois rues vers Carretería, le Soho ou le marché et tout change.
-
-Le **marché d'Atarazanas** est l'une des meilleures expériences gourmandes de la ville : ne le manquez pas.
+> **Attention :** méfiez-vous des terrasses avec des menus plastifiés en plusieurs langues et des rabatteurs juste devant la cathédrale ou dans la calle Larios : prix touristiques et qualité moyenne. Marchez deux ou trois rues vers Carretería, le Soho ou le marché et tout change.
 
 ## Infos pratiques : horaires, prix et comment y aller
 
-- **Horaires :** les paillotes servent les espetos surtout à midi, **de 13 h à 16 h 30** ; le soir, peu allument la barque. Dans le centre, on prend des tapas de 13 h à 16 h et de 20 h 30 à 23 h 30.
-- **Prix indicatifs :** espeto de six sardines, **4-6 €** ; portion de friture malaguène, **12-15 €** ; anchois frits, **8-10 €**. Bien manger revient à **20-25 € par personne**.
-- **Pedregalejo et El Palo :** **bus 11** depuis l'Alameda Principal (20 minutes) ou 40 minutes à pied par le front de mer depuis La Malagueta, une très belle balade. En taxi, 8-10 €.
-- **Marché d'Atarazanas :** du lundi au samedi, **de 8 h à 15 h** ; fermé le dimanche. Les bars se remplissent à partir de 13 h : venez avant 12 h 30 pour avoir le comptoir.
-- **Réserver :** dans les paillotes, on ne réserve généralement pas ; arrivez avant 13 h 30 le week-end. Dans les tavernes du centre, le vendredi et le samedi soir, oui.
+- **Horaires :** les chiringuitos de Pedregalejo et d'El Palo servent des espetos surtout à midi, de 13 h à 16 h 30 ; le soir, peu allument la barque. Dans le centre, on mange des tapas de 13 h à 16 h et de 20 h 30 à 23 h 30.
+- **Prix indicatifs :** un espeto de six sardines, 4-6 € ; une ración de friture malagueña, 12-15 € ; anchois frits, 8-10 € ; un verre de vin doux au tonneau, 1,50-3 €. Bien manger à Malaga revient à 20-25 € par personne.
+- **Comment aller à Pedregalejo et à El Palo :** bus 11 depuis l'Alameda Principal (20 minutes) ou 40 minutes à pied par le front de mer depuis La Malagueta, une très belle promenade. En taxi, 8-10 €.
+- **Mercado de Atarazanas :** ouvert du lundi au samedi de 8 h à 15 h, fermé le dimanche. Les bars à l'intérieur se remplissent à partir de 13 h ; venez avant 12 h 30 si vous voulez une place au comptoir.
+- **Bodegas de vin doux :** l'Antigua Casa de Guardia (Alameda Principal, depuis 1840) est l'originale : debout, au comptoir, avec l'addition écrite à la craie. El Pimpi est plus touristique mais mérite la visite pour le bâtiment.
+- **Saison de l'espeto :** les sardines sont à leur meilleur de mai à septembre. Hors saison, préférez la friture, les palourdes ou les conchas finas.
+- **Réserver :** dans les chiringuitos, on ne réserve généralement pas ; arrivez avant 13 h 30 le week-end. Dans les tavernes du centre, le vendredi et le samedi soir, oui.
 
 ## Règles pour ne pas se tromper
 
-1. **L'espeto, sur la plage.** Dans une paillote avec barque-gril ; sans la braise sur le sable, ce n'est pas pareil.
-2. **La friture, là où ça tourne.** Des lieux pleins de locaux = poisson frais.
-3. **Le vin doux, au fût.** Dans les bodegas historiques, pas sur n'importe quelle carte.
-4. **Éloignez-vous de Larios et de la cathédrale pour manger** ; allez-y seulement pour flâner. En première ligne, on paie plus pour moins.
+1. **L'espeto, sur la plage.** Dans un chiringuito avec une barque-barbecue, pas dans le centre.
+2. **La friture, là où ça tourne.** Des adresses pleines de gens du coin = du poisson frais.
+3. **Le vin doux, au tonneau.** Dans les bodegas historiques, pas sur n'importe quelle carte.
+4. **Éloignez-vous de Larios et de la cathédrale** pour manger ; approchez-vous-en seulement pour vous promener.
 
-Nous l'appliquons jour par jour dans [Malaga en deux jours](/fr/guides/malaga/malaga-en-deux-jours).
+## Ce que nous ne recommandons PAS
+
+1. **Manger face à la cathédrale.** Vous payez plus pour moins.
+2. **Commander un espeto sur une terrasse du centre.** Sans la braise sur le sable, ce n'est pas pareil.
+3. **Faire l'impasse sur le Mercado de Atarazanas.** C'est l'une des meilleures expériences gastronomiques de la ville.
+
+## En une phrase
+
+Bien manger à Malaga, c'est un espeto de sardines dans un chiringuito d'El Palo, une friture de poisson là où les gens du coin se pressent et un vin doux au tonneau dans le centre : marin, simple et bon marché si vous évitez les pièges de Larios. Nous l'appliquons dans l'itinéraire de [Malaga en deux jours](/fr/guides/malaga/malaga-en-deux-jours).

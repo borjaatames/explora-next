@@ -4,14 +4,14 @@ descripcion: "Madrid in 2 days: Habsburg Madrid, the Royal Palace (€18), Gran 
 categoria: "madrid"
 slug: "madrid-in-2-days"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-11-01"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
 imagen_alt: "Madrid's Gran Vía with the Edificio España at the far end"
-tiempo_lectura: 5
+tiempo_lectura: 7
 keywords:
   - "madrid in 2 days"
   - "2 days in madrid"
@@ -26,19 +26,18 @@ slugs:
   it: madrid-in-2-giorni
   pt: madrid-em-2-dias
 reservasArriba: true
-intro: '**Madrid in 2 days** is enough to get to know the two cities that share the centre: **historic Madrid of the Habsburgs and Bourbons**, from the Plaza Mayor to the Royal Palace and Gran Vía, and **Madrid of art**, with the Prado, the Retiro and the Reina Sofía along the Paseo del Prado. It''s all done on foot, and each day ends in a different neighbourhood for dinner.'
-respuestaCorta: '**Madrid in 2 days**: on **day 1**, the **Royal Palace at 10:00** (€18), Plaza Mayor, La Latina, **Gran Vía** and sunset at **Debod**. On **day 2**, the **Prado at 10:00** (€15), the **Retiro** and the **Reina Sofía** (€12, closed Tuesdays; free 19:00-21:00). Book the Prado and the Palace a couple of days ahead.'
+respuestaCorta: '**Day 1** is historic Madrid: the **Royal Palace at 10:00** (€18), Plaza Mayor, lunch in La Latina, the **Gran Vía** and sunset at the **Temple of Debod**, with the evening in Malasaña. **Day 2** is art: the **Prado at 10:00** (€15), the **Retiro**, the **Reina Sofía** (€12, closed Tuesdays; free 19:00-21:00) and flamenco or century-old taverns at night. Book the Prado and the palace a couple of days ahead.'
 faq:
-- pregunta: Are 2 days enough to see Madrid?
-  respuesta: 'For the centre, yes: the Royal Palace, Habsburg Madrid, Gran Vía, the Prado, the Retiro and the Reina Sofía, with two evenings of tapas or flamenco. For Toledo, Segovia or El Escorial you need a third day.'
-- pregunta: What order works best for the museums in 2 days?
-  respuesta: The Prado at 10:00 on day 2, while you're fresh, and the Reina Sofía in the afternoon. The Thyssen only if you have time left or if it's Tuesday, when the Reina Sofía is closed. Three museums in two days is the sensible maximum.
-- pregunta: Do I need a transport pass for 2 days in Madrid?
-  respuesta: 'With this plan, no: everything is on foot apart from the odd ride. The zone A Tourist Travel Pass costs €10.30 a day; it pays off if you''ll use the metro a lot or are coming from the airport.'
-- pregunta: Where to stay for 2 days in Madrid?
-  respuesta: In the Barrio de las Letras, Sol-Ópera or La Latina, within walking distance of everything. Malasaña and Chueca are a good choice if you want nightlife; avoid the outskirts even if they're cheaper.
-- pregunta: What to do in Madrid in 2 days if it rains?
-  respuesta: Swap the Retiro and Debod for the Thyssen (€14) and the Mercado de San Miguel. The Royal Palace, the Prado and the Reina Sofía are indoors, so the plan holds up almost unchanged.
+  - pregunta: "Are 2 days enough for Madrid?"
+    respuesta: "For the centre, yes: the Royal Palace, Habsburg Madrid, the Gran Vía, the Prado, the Retiro and the Reina Sofía, with two evenings of tapas or flamenco. Toledo, Segovia or El Escorial need a third day."
+  - pregunta: "In what order should I do the museums in 2 days?"
+    respuesta: "The Prado at 10:00 on day 2, while you're fresh, and the Reina Sofía in the afternoon. The Thyssen only if you have time or it's a Tuesday, when the Reina Sofía is closed. Three museums in two days is the sensible maximum."
+  - pregunta: "Do I need a transport pass for 2 days in Madrid?"
+    respuesta: "Not for this plan: everything is walkable bar the odd ride. The zone A Tourist Travel Pass costs €10.30 a day; it pays off if you'll use the metro a lot or are coming from the airport."
+  - pregunta: "Where should I stay for 2 days in Madrid?"
+    respuesta: "Barrio de las Letras, Sol-Ópera or La Latina, within walking distance of everything. Malasaña and Chueca are good for nightlife; avoid the outskirts even if they're cheaper."
+  - pregunta: "What to do in Madrid in 2 days if it rains?"
+    respuesta: "Swap the Retiro and Debod for the Thyssen (€14) and the San Miguel market. The Royal Palace, the Prado and the Reina Sofía are indoors, so the plan barely changes."
 actividades:
   - museo-prado-entrada
   - palacio-real-tour-premium-skip-line
@@ -50,81 +49,96 @@ actividades:
   - walking-tour-habsburgos-grupo-reducido
 ---
 
-## 2 days in Madrid: the plan at a glance
+Two days in Madrid lets you separate the two cities that share the centre: **historic Madrid of the Habsburgs and Bourbons**, walked from Plaza Mayor to the Royal Palace, and **artistic Madrid** along the Paseo del Prado. Split this way you won't need the metro, and each day ends in a different neighbourhood for dinner.
+
+## The 2 days at a glance
 
 | Slot | Day 1: historic Madrid | Day 2: art and the Retiro |
 | --- | --- | --- |
-| Morning | Royal Palace (10:00), Almudena, Plaza de la Villa and Plaza Mayor | Prado Museum (10:00) |
-| Lunch | La Latina | By the Retiro or in Las Letras |
-| Afternoon | Sol, Gran Vía and Temple of Debod | Retiro and Reina Sofía |
-| Evening | Malasaña | Flamenco or centuries-old taverns |
+| Morning | Royal Palace (10:00), Almudena, Plaza de la Villa, Plaza Mayor | Prado Museum (10:00) |
+| Lunch | La Latina | By the Retiro or in the Letras |
+| Afternoon | Sol, Gran Vía and the Temple of Debod | Retiro and Reina Sofía |
+| Evening | Malasaña | Flamenco or century-old taverns |
 
-With this split you don't need the metro: each day is one continuous walk.
+## What to book, and how far ahead
 
-## Day 1: historic Madrid
-
-**10:00 — Royal Palace**, at opening time, ahead of the groups. From October to March it opens Monday to Saturday from 10:00 to 18:00 (until 19:00 from April to September) and Sundays from 10:00 to 16:00. Throne Room, Gasparini Room and the Royal Armoury: **1 h 15**. On Wednesdays and Saturdays, the **changing of the guard** runs from 11:00 to 14:00 at the Puerta del Príncipe. If you can't find tickets, see [Royal Palace: tickets sold out](/en/guides/madrid/royal-palace-madrid-tickets-sold-out).
-
-[actividad: palacio-real-tour-premium-skip-line]
-
-**11:30 — Almudena and Sabatini**, opposite and alongside (30 minutes). Then 10 minutes on foot along Calle Mayor to **Plaza de la Villa** and **Plaza Mayor**; peek into the **Mercado de San Miguel** but don't eat there.
-
-**14:00 — Lunch in La Latina**, 5 minutes down Cuchilleros: Cava Baja, Cava Alta and Plaza de la Paja.
-
-**16:30 — Sol and Gran Vía.** From La Latina to Puerta del Sol is 10 minutes; from there, via Montera or Preciados, to **Gran Vía**, which you walk from Callao to Plaza de España (20 minutes) looking up: the Metrópolis building, the Telefónica building, the Carrión. For the story behind each façade, there are 2-hour private tours.
-
-**18:00 — Temple of Debod**, 10 minutes from Plaza de España: a free sunset with the Royal Palace and the mountains behind. In November the sun sets around 18:00; in summer, after 21:00, so in July leave Debod until after dinner.
-
-**20:30 — Malasaña**, 15 minutes away: Plaza del Dos de Mayo, Calle del Espíritu Santo and old-school bars mixed with new ones.
-
-[actividad: tour-privado-gran-via-madrid]
-
-## Day 2: the Prado, the Retiro and the Reina Sofía
-
-**10:00 — Prado Museum** (2 h 30). It opens Monday to Saturday from 10:00 to 20:00 and Sundays and holidays until 19:00. Velázquez, Goya, Bosch and El Greco while the rooms are quiet. If you're torn between museums, see [Prado vs Reina Sofía vs Thyssen](/en/guides/madrid/prado-vs-reina-sofia-vs-thyssen).
-
-**12:45 — Retiro**, 5 minutes along Calle Felipe IV. Stroll to the lake, with its rowing boats, and the **Crystal Palace** (free). An unhurried hour and a half.
-
-**14:30 — Lunch** in the Ibiza neighbourhood by the Retiro, or in the side streets off Huertas, in Las Letras.
-
-**16:30 — Reina Sofía Museum** (€12; **closed on Tuesdays**), 15 minutes from the Retiro heading down towards Atocha: *Guernica* and the Spanish surrealists, 1 h 30. It's **free from 19:00 to 21:00** on Mondays and Wednesday to Saturday, so you can flip the afternoon (Las Letras first, Reina Sofía at 19:00) if you don't mind queues. If it's Tuesday, swap it for the **Thyssen** (€14).
-
-**18:30 — Barrio de las Letras.** Plaza de Santa Ana, Calle Huertas and Lope de Vega's house from outside. For a view over the city, the Círculo de Bellas Artes rooftop costs €5.
-
-**21:00 — The last night.** Two options: flamenco at the **Tablao Las Carboneras**, by Plaza Mayor (from €45 with a drink), or a private walk through Madrid's oldest taverns, with drinks and tapas included.
-
-[actividad: museo-prado-entrada]
-
-[actividad: reina-sofia-entrada]
-
-[actividad: tour-privado-tabernas-centenarias-madrid]
-
-## What to book, and budget
-
-| What | Official price | How far ahead |
+| What | Official price | Book |
 | --- | --- | --- |
 | Royal Palace | €18 (plus €0.77 online) | 1-2 days; first slot |
 | Prado Museum | €15 (free under 18 and students up to 25) | 1-3 days |
-| Reina Sofía | €12 (free Mondays and Wednesday to Saturday 19:00-21:00) | same day |
+| Reina Sofía | €12 (free Monday and Wednesday to Saturday 19:00-21:00) | same day |
 | Flamenco | from €45 | 1-2 days |
 
-**Budget per person, excluding accommodation: about €160-300.** That covers the Palace and the Prado (€33), the Reina Sofía (€0-12), meals (€80-120), flamenco or a tavern tour (€45-127) and the odd metro ride (€0-6). With independent tapas and no flamenco you'll spend around **€120**.
+## Day 1: historic Madrid
 
-## Variations on this Madrid 2 day itinerary
+**10:00 — Royal Palace**, at opening, before the groups. October to March it opens Monday to Saturday 10:00-18:00 (until 19:00 April to September) and Sundays 10:00-16:00. The Throne Room, the Gasparini Room and the Royal Armoury: 1 h 15. On Wednesdays and Saturdays the **Changing of the Guard** runs from 11:00 to 14:00 at the Puerta del Príncipe. Ticket details in [Royal Palace tickets sold out](/en/guides/madrid/royal-palace-madrid-tickets-sold-out).
 
-- **With kids:** day 1 as is (the Royal Palace and its armoury go down well); day 2, a short Prado visit (90 minutes), a long Retiro session with boats and the Reina Sofía for another trip. More ideas in [Madrid with kids](/en/guides/madrid/madrid-with-kids).
-- **If it rains:** swap Debod and the Retiro for the Thyssen and the Mercado de San Miguel; the rest stays.
-- **In summer:** the Retiro first thing before the Prado (it opens at 6:00) and back out on the street from 19:30.
-- **With one more day:** Toledo or Segovia are 30 minutes by train; we cover it in [Madrid, Toledo and Segovia in 4 days](/en/guides/madrid/madrid-toledo-segovia-4-days).
+[actividad: palacio-real-tour-premium-skip-line]
 
-## Where to stay and common mistakes
+**11:30 — Almudena Cathedral and Sabatini Gardens**, opposite and next door (30 minutes). Then 10 minutes along Calle Mayor to **Plaza de la Villa** and **Plaza Mayor**; look into the **San Miguel market** without eating there.
 
-**Barrio de las Letras** or **Sol-Ópera**, walking distance for both days. **La Latina** if tapas come first; **Malasaña** or **Chueca** for nightlife. From the airport, metro line 8 or the express bus to Atocha or Cibeles.
+**14:00 — Lunch in La Latina**, 5 minutes down Cuchilleros: Cava Baja, Cava Alta and Plaza de la Paja.
 
-1. **Leaving the Royal Palace until late** without a ticket: the ticket office closes an hour early.
-2. **Prado and Reina Sofía back to back in the morning:** that's 4 hours of museum.
+**16:30 — Sol and the Gran Vía.** La Latina to Puerta del Sol is 10 minutes; from there, via Montera or Preciados, to the **Gran Vía**, which you walk from Callao to Plaza de España (20 minutes) looking up: the Metrópolis, Telefónica and Carrión buildings. If you want the story behind each façade, there's a private 2-hour tour just for your group:
+
+[actividad: tour-privado-gran-via-madrid]
+
+**18:00 — Temple of Debod**, 10 minutes from Plaza de España: a free sunset with the Royal Palace and the mountains behind. In November the sun sets around 18:00; in summer after 21:00, so in July leave Debod until after dinner.
+
+**20:30 — Malasaña**, 15 minutes away: Plaza del Dos de Mayo, Calle del Espíritu Santo and old-school bars mixed with new ones.
+
+## Day 2: the Prado, the Retiro and the Reina Sofía
+
+**10:00 — Prado Museum** (2 h 30). Open Monday to Saturday 10:00-20:00, Sundays and holidays until 19:00. Velázquez, Goya, Bosch and El Greco in quiet rooms. Torn between museums? See [Prado vs Reina Sofía vs Thyssen](/en/guides/madrid/prado-vs-reina-sofia-vs-thyssen).
+
+[actividad: museo-prado-entrada]
+
+**12:45 — Retiro**, 5 minutes along Calle Felipe IV. Stroll to the boating lake (rowing boats €4-6 per half hour) and the **Crystal Palace** (free). Ninety unhurried minutes.
+
+**14:30 — Lunch** in the Ibiza neighbourhood by the Retiro, or back in the streets off Huertas in the Letras.
+
+**16:30 — Reina Sofía** (€12; closed Tuesdays), 15 minutes from the Retiro heading down towards Atocha: *Guernica* and the Spanish surrealists, 1 h 30. Tip: Monday and Wednesday to Saturday it's **free from 19:00 to 21:00**, so you can flip the afternoon (Letras first, Reina Sofía at 19:00) if you don't mind queues. On a Tuesday, swap it for the **Thyssen** (€14).
+
+[actividad: reina-sofia-entrada]
+
+**18:30 — Barrio de las Letras.** Plaza de Santa Ana, Calle Huertas and the outside of Lope de Vega's house. For a view over the city, the Círculo de Bellas Artes rooftop costs €5.
+
+**21:00 — Your last night.** Two options: flamenco at **Tablao Las Carboneras**, by Plaza Mayor (from €45 with a drink), or a private walk through Madrid's oldest taverns with two drinks and two tapas included:
+
+[actividad: tour-privado-tabernas-centenarias-madrid]
+
+## Indicative budget per person
+
+| Item | 2 days |
+| --- | --- |
+| Royal Palace and Prado | €33 |
+| Reina Sofía | €0-12 |
+| Meals | €80-120 |
+| Flamenco or tavern tour | €45-127 |
+| Occasional metro | €0-6 |
+| **Total excluding accommodation** | **about €160-300** |
+
+The top of the range includes the private tavern tour; with independent tapas and no flamenco you'll spend nearer €120.
+
+## Variations
+
+- **With children:** day 1 as planned (the palace and its armoury go down well); on day 2, a short Prado visit (90 minutes) and a long Retiro session with the boats, leaving the Reina Sofía for another trip. More in [Madrid with kids](/en/guides/madrid/madrid-with-kids).
+- **If it rains:** swap Debod and the Retiro for the Thyssen and the San Miguel market; the rest holds.
+- **In summer:** the Retiro first thing before the Prado (it opens at 6:00) and back out on the streets from 19:30.
+- **With an extra day:** Toledo or Segovia are 30 minutes away by train; see [Madrid, Toledo and Segovia in 4 days](/en/guides/madrid/madrid-toledo-segovia-4-days).
+
+## Where to stay
+
+**Barrio de las Letras** or **Sol-Ópera**, walkable for both days. **La Latina** if tapas come first; **Malasaña** or **Chueca** for nightlife. From the airport, metro line 8 or the express bus to Atocha or Cibeles.
+
+## Common mistakes
+
+1. **Leaving the Royal Palace until late** without a ticket and finding the ticket office shut (it closes an hour early).
+2. **Prado and Reina Sofía back to back in the morning:** four hours of museum in a row.
 3. **Going to the Reina Sofía on a Tuesday.**
-4. **Having dinner in Plaza Mayor.**
+4. **Dinner on Plaza Mayor.**
 5. **Taking taxis for 10-minute hops.**
 
-With only one day, [Madrid in 1 day](/en/guides/madrid/madrid-in-1-day); with three, [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days).
+## In a nutshell
+
+Palace, Plaza Mayor and Gran Vía on day one; Prado, Retiro and Reina Sofía on day two; tapas in La Latina and Malasaña at night: two days that give Madrid its due. With just one, see [Madrid in 1 day](/en/guides/madrid/madrid-in-1-day); with three, [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days).

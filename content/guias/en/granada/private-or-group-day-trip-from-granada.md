@@ -4,13 +4,13 @@ descripcion: "From Granada, the Alpujarra group tour is €71 and Ronda or the C
 categoria: "granada"
 slug: "private-or-group-day-trip-from-granada"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/granada/alpujarra-capileira/alpujarra-capileira-wikimedia-capileira-and-sierra-nevada-jpg.webp"
 imagen_alt: "Capileira, a white village in the Alpujarra, on the hillside below the snowy peaks of Sierra Nevada"
-tiempo_lectura: 4
+tiempo_lectura: 6
 keywords:
   - "private day trip from granada"
   - "private tour from granada"
@@ -25,19 +25,18 @@ slugs:
   it: escursione-privata-o-di-gruppo-da-granada
   pt: excursao-privada-ou-em-grupo-desde-granada
 reservasArriba: false
-intro: 'A **private day trip from Granada**, or a group one, takes you to some of Andalusia''s best spots in a day: the white villages of **the Alpujarra** below Sierra Nevada, **Ronda** and its gorge, the **Caminito del Rey**, the Renaissance towns of **Úbeda and Baeza**, the Mezquita in **Córdoba** or the coast at **Nerja and Frigiliana**. Going in a group or privately changes the price, the schedule and even which destinations are possible.'
-respuestaCorta: 'A private day trip from Granada costs **€270-400** per person for 2, **€200-260** for 4 and **€150-200** for 6. In a **group**, the Alpujarra costs from **€71** and Ronda, the Caminito del Rey or Úbeda and Baeza from **€135**. With 6 people, the **private Caminito costs €150**, just €15 more than the group tour.'
+respuestaCorta: 'For **1 or 2 people**, the **group tour** is cheaper: the Alpujarra from **€71** and Ronda, the Caminito del Rey or Úbeda and Baeza from **€135** per person, against **€270-400** privately. With **4**, private drops to **€200-260** each, and with **6**, to **€150-200**. Granada is the Andalusian city where private comes closest to the group price: for 6 people, the **private Caminito del Rey trip is €150 each**, just €15 more than the group tour.'
 faq:
-- pregunta: How much does a private day trip from Granada cost?
-  respuesta: For 1 or 2 people, between €540 (Ronda without a guide) and €800 (Córdoba with a guide and the Mezquita) in total. For 4, between €800 and €1,040; for 6, between €900 (Caminito del Rey) and €1,200 (Córdoba). Per person, from €270-400 as a couple to €150-200 as a group of 6.
-- pregunta: From how many people is a private trip from Granada worth it?
-  respuesta: 'It''s never cheaper than the group tour, but with 6 people it gets very close: Caminito del Rey, €150 vs €135; Ronda without a guide, €170 vs €135. With 4, the extra cost is about €75 per person. As a couple, the group tour costs half or less.'
-- pregunta: Which trip from Granada is best done in a group?
-  respuesta: 'The Alpujarra: the group tour costs €71 with hotel pick-up and has over 300 reviews, while the cheapest private one costs €160 per person even for 6. For something in between, the Originals version (€115) goes in a smaller group.'
-- pregunta: Are there group trips to Córdoba or Nerja from Granada?
-  respuesta: 'In our catalogue, only private: Córdoba with a guide and Mezquita entry (€800 for 2, €1,040 for 4) and Nerja and Frigiliana with the Nerja Cave (€700 for 2, €880 for 4).'
-- pregunta: Does the private Caminito del Rey trip from Granada include a private guide?
-  respuesta: No. Transport from Granada is private and tickets are included, but on the Caminito you walk with a shared group guide. The €135 group tour also includes lunch.
+  - pregunta: "How much does a private day trip from Granada cost?"
+    respuesta: "For 1 or 2 people, between €540 (Ronda without a guide) and €800 (Córdoba with guide and Mezquita) in total. For 4, between €800 and €1,040; for 6, between €900 (Caminito del Rey) and €1,200 (Córdoba). Per person, from €270-400 for a couple to €150-200 for a party of six."
+  - pregunta: "From how many people does a private day trip from Granada pay off?"
+    respuesta: "It never becomes cheaper than the group tour, but with 6 people it gets very close: Caminito del Rey, €150 against €135; Ronda without a guide, €170 against €135. With 4, the surcharge is around €75 per person. For a couple, the group tour costs half or less."
+  - pregunta: "Which day trip from Granada is best done in a group?"
+    respuesta: "The Alpujarra: the group tour costs €71 with hotel pickup and over 300 reviews, while the cheapest private option is still €160 each for six. For something in between, the Originals version (€115) runs in smaller groups."
+  - pregunta: "Is there a group tour to Córdoba or Nerja from Granada?"
+    respuesta: "In our catalogue, only private: Córdoba with guide and Mezquita entry (€800 for 2, €1,040 for 4) and Nerja and Frigiliana with the Nerja Cave (€700 for 2, €880 for 4)."
+  - pregunta: "Does the private Caminito del Rey trip from Granada include a private guide?"
+    respuesta: "No. Transport from Granada is private and tickets are included, but on the Caminito you walk with a shared group guide. The €135 group tour also includes lunch."
 actividades:
   - alpujarra-excursion-privada-desde-granada
   - alpujarra-pueblos-montana
@@ -57,6 +56,16 @@ opciones:
     etiqueta: "Party of 6: €150 each"
 ---
 
+**From Granada, a group day trip costs €71-135 per person and a private one €150-400, depending on the destination and how many of you there are.** Granada has a quirk: several group tours (Ronda, the Caminito, Úbeda and Baeza) use small vehicles and cost €135, more than from Seville or Málaga. That's why private catches up sooner. Here are the sums, using the prices on our tour pages.
+
+## Quick answer by who's travelling
+
+- **Couple:** group tour. The [Alpujarra for €71](/en/cities/granada/activities/alpujarra-mountain-villages-day-trip) or the [Caminito with lunch for €135](/en/cities/granada/activities/caminito-del-rey-day-trip-from-granada). Private would cost you between 2 and 4.5 times as much.
+- **Family of 4:** private starts to make sense. The [private Alpujarra trip](/en/cities/granada/activities/alpujarra-private-day-trip-from-granada) works out at €200 each with guide and pickup; group tours at €71-115.
+- **Party of 6:** private, unless budget rules. Caminito at €150, Alpujarra and Nerja at €160, Ronda without a guide at €170 per person.
+- **First time:** a group tour with an official guide. To Ronda, for instance, you travel in a vehicle of 8 seats at most, not a packed coach.
+- **Tight budget:** the Alpujarra group tour (€71) is the best-priced day trip from Granada.
+
 ## Price table per person
 
 | Day trip from Granada | Group (per person) | Private, 2 people | Private, 4 people | Private, 6 people |
@@ -69,71 +78,46 @@ opciones:
 | Nerja and Frigiliana | — | [€350](/en/cities/granada/activities/nerja-frigiliana-private-day-trip-from-granada) (€700) | €220 (€880) | €160 (€960) |
 | Málaga | — | [€392](/en/cities/granada/activities/malaga-private-day-trip-from-granada) (€784) | €208 (€832) | — |
 
-## Quick answer by who's travelling
-
-- **Couple:** group. The Alpujarra for €71 or the Caminito del Rey with lunch for €135. Privately it would cost you 2 to 4.5 times more.
-- **Family of 4:** private starts to make sense. The private Alpujarra costs €200 per person with a guide and pick-up; the group tour €71-115.
-- **Group of 6:** private, unless budget rules. Caminito at €150, Alpujarra and Nerja at €160, Ronda without a guide at €170 per person.
-- **First time:** group with an official guide. To Ronda, for example, you go in a vehicle with 8 seats maximum, not a full coach.
-- **Tight budget:** the group Alpujarra trip (€71) is the best-value excursion from Granada.
-
-## Day trips from Granada: price per person
-
-Granada has one quirk: several group tours (Ronda, Caminito, Úbeda and Baeza) use small vehicles and cost €135, more than in Seville or Málaga. That's why private tours get close sooner.
-
-| Day trip from Granada | Group (per person) | Private, 2 people | Private, 4 people | Private, 6 people |
-| --- | --- | --- | --- | --- |
-| The Alpujarra | €71 · €115 (smaller group) | €320 (€640 total) | €200 (€800) | €160 (€960) |
-| Ronda | €135 | €270 without guide (€540) · €350 with guide (€700) | €210 (€840) · €250 with guide (€1,000) | €170 (€1,020) without guide |
-| Caminito del Rey | €135 with lunch | €340 (€680) | €210 (€840) | €150 (€900) |
-| Úbeda and Baeza | €135 | €388 (€776) | €211 (€844) | — |
-| Córdoba | — | €400 (€800) | €260 (€1,040) | €200 (€1,200) |
-| Nerja and Frigiliana | — | €350 (€700) | €220 (€880) | €160 (€960) |
-| Málaga | — | €392 (€784) | €208 (€832) | — |
-
-"From" prices as of 1 November 2026; the exact price depends on the date. "—" means that version isn't available or there's no price for that group size. Private Úbeda and Baeza and Málaga are priced per person with a minimum of 2; the rest, per group.
-
-## From how many people does private cost the same?
-
-**None ends up cheaper, but with 6 people some almost draw level.**
-
-| Extra cost of private vs group | 2 people | 4 people | 6 people |
-| --- | --- | --- | --- |
-| Caminito del Rey (group €135) | +€205 | +€75 | +€15 |
-| Ronda without guide (group €135) | +€135 | +€75 | +€35 |
-| Alpujarra (vs Originals, €115) | +€205 | +€85 | +€45 |
-| Úbeda and Baeza (group €135) | +€253 | +€76 | — |
-
-- **Private Caminito del Rey from Granada:** with 6 it costs €15 more per person, but the group tour includes lunch and the private one doesn't; in practice, it's a draw.
-- **Private Ronda trip from Granada:** €170 **without a guide** vs €135 **with an official guide**. If you want a guide in Ronda, the group tour still wins.
-
-## Alpujarra private or group tour, and the rest: pros and cons
-
-**Group**
-
-- **Pros:** price; official guide; small groups to Ronda (8-seat vehicle) and on the Alpujarra Originals; hotel pick-up on the €71 Alpujarra tour.
-- **Cons:** for Ronda, the Caminito and Úbeda you leave from the operator's office on Plaza de las Descalzas; fixed schedule; Úbeda and Baeza has no reviews yet.
-
-**Private**
-
-- **Pros:** pick-up at your Granada hotel, your own schedule and destinations not available in a group (Córdoba, Nerja and Frigiliana, Málaga). Several can be booked for a single person.
-- **Cons:** the price for couples, and differences in what's included: Ronda has a transport-only version, and on the Caminito the trail guide is shared.
-
-The Alpujarra is the clearest case: €71 in a group, at least €160 per person privately even for 6. It's only worth it if you want your own pace and pick-up.
+"From" prices on our tour pages as of 1 November 2026; the exact price shows in each tour's calendar. "—" means we don't offer that version or the page gives no price for that group size. Private Úbeda and Baeza and private Málaga are priced per person with a minimum of 2; the rest are per group.
 
 [actividad: alpujarra-excursion-privada-desde-granada]
 
-## Who each one suits, and common mistakes
+## How many people before private costs the same?
 
-- **Group:** couples, solo travellers and anyone who wants an official guide at the lowest price.
-- **Private:** families of 4 or more, groups of 5-6, older travellers or those with reduced mobility, and anyone who wants to reach Córdoba or Nerja from Granada without relying on trains and buses.
+**None becomes cheaper, but with 6 people some are almost level.**
 
-**Common mistakes:**
+| Private surcharge vs. group | 2 people | 4 people | 6 people |
+| --- | --- | --- | --- |
+| Caminito del Rey (group €135) | +€205 | +€75 | +€15 |
+| Ronda without guide (group €135) | +€135 | +€75 | +€35 |
+| Alpujarra (vs. Originals, €115) | +€205 | +€85 | +€45 |
+| Úbeda and Baeza (group €135) | +€253 | +€76 | — |
 
-1. **Comparing private Ronda without a guide with group Ronda with a guide.** They're not the same; with a guide, private costs €250 per person for 4.
+For 6, the private Caminito costs €15 more per person, but the group tour includes lunch and the private one doesn't; in practice it's a draw. Private Ronda **without a guide** at €170 against €135 **with** an official guide: if you want a guide in Ronda, the group tour still wins.
+
+## Pros and cons
+
+### Group tours
+
+- **For:** price; official guides; small groups to Ronda (8-seat vehicle) and on the Alpujarra Originals tour; hotel pickup on the €71 Alpujarra trip.
+- **Against:** departure from the operator's office on Plaza de las Descalzas for Ronda, the Caminito and Úbeda; fixed times; and Úbeda and Baeza has no reviews yet.
+
+### Private trips
+
+- **For:** pickup from your Granada hotel, your own timing and destinations with no group option (Córdoba, Nerja and Frigiliana, Málaga). Several can be booked for a single person.
+- **Against:** the price for a couple, and differences in what's included: Ronda has a transport-only version; on the Caminito the trail guide is shared.
+
+## Who each one suits
+
+- **Group:** couples, solo travellers and anyone wanting an official guide at the lowest price.
+- **Private:** families of 4 or more, groups of 5-6, older travellers or those with limited mobility, and anyone heading to Córdoba or Nerja from Granada without relying on trains and buses.
+
+## Common mistakes
+
+1. **Comparing private Ronda without a guide with group Ronda with one.** They're not the same; guided, private works out at €250 each for 4.
 2. **Thinking the private Caminito is fully private.** The trail guide is shared.
-3. **Not booking the Caminito ahead.** Tickets sell out; excursions include them.
-4. **Booking private when travelling alone.** On per-group prices you pay the same as two.
-5. **Underestimating distances.** Ronda and Úbeda are about 2 hours by road: plan on a full day.
+3. **Not booking the Caminito early.** Tickets sell out; the tours include them.
+4. **Booking private as a solo traveller.** On per-group tours you pay the same as two.
+5. **Underestimating distances.** Ronda and Úbeda are about 2 hours by road; plan for a full day.
 
-If you only have a few days in Granada, start with the city: [Granada in 2 days](/en/guides/granada/granada-in-2-days). All the private options are in [private tours from Granada](/en/cities/granada/private-tours).
+If you only have a few days in Granada, start with the city: [Granada in 2 days](/en/guides/granada/granada-in-2-days). All private trips are on [private tours from Granada](/en/cities/granada/private-tours).

@@ -1,12 +1,11 @@
 ---
 titulo: "Excursions sur la Costa Blanca depuis Alicante : Benidorm, Altea, Guadalest"
 descripcion: "Les meilleures excursions depuis Alicante : Benidorm, Altea, Calpe et le rocher d'Ifach, Guadalest, Jávea et Elche. Comment y aller en TRAM ou en voiture et que voir dans chacune."
-intro: 'Les **excursions depuis Alicante** sont la meilleure façon de découvrir la Costa Blanca : en moins d''une heure, vous rejoignez des villages blancs face à la mer comme **Altea**, le **rocher d''Ifach** à Calpe, le village de montagne de **Guadalest** perché au-dessus d''un lac de barrage turquoise, la plus grande palmeraie d''Europe à Elche et les plages de Benidorm. Beaucoup se font en **TRAM**, sans voiture.'
-respuestaCorta: 'Les meilleures excursions depuis Alicante sont **Altea et Calpe** en TRAM (changement à Benidorm), **Guadalest avec les Fuentes del Algar** (une heure en voiture, ou excursion organisée dès 47 €), **la Palmeraie d''Elche** (20 minutes en Cercanías) et Benidorm. Faites-en une par jour : Guadalest ou Jávea occupent déjà la journée entière.'
+respuestaCorta: 'Les meilleures excursions depuis Alicante sont **Altea et Calpe** en TRAM (avec correspondance à Benidorm), **Guadalest et les Fuentes del Algar** (une heure en voiture, ou excursion organisée à partir de 47 €), **la palmeraie d''Elche** (20 minutes en train de banlieue) et Benidorm. Faites-en une par jour : Guadalest ou Jávea occupent déjà toute la journée.'
 categoria: "alicante"
 slug: "excursions-costa-blanca-depuis-alicante"
 fecha: "2026-04-17"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
@@ -36,18 +35,9 @@ actividades:
   - ferry-santa-pola-tabarca
   - huerto-del-cura-elche-entrada
   - granadella-kayak-esnorquel-javea
-faq:
-- pregunta: Peut-on aller d'Alicante à Altea et Calpe sans voiture ?
-  respuesta: Oui. Prenez la ligne 1 du TRAM à Luceros jusqu'à Benidorm (1 h 10), puis changez pour la ligne 9, qui continue jusqu'à Altea et Calpe. Le billet jusqu'à Calpe coûte 6-7 €.
-- pregunta: Comment aller à Guadalest depuis Alicante ?
-  respuesta: 'Le plus pratique est la voiture : une heure, avec un dernier tronçon sinueux par la CV-70 depuis Benidorm. Sans voiture, il reste l''excursion organisée, qui combine généralement Guadalest, Altea et les Fuentes del Algar.'
-- pregunta: Faut-il réserver pour monter au rocher d'Ifach ?
-  respuesta: 'Oui. L''accès exige une réservation préalable gratuite sur le site du parc naturel, avec jauge limitée, et il ferme en cas de pluie. La montée dure 1 h 30 et le dernier tronçon se fait sur la roche : prévoyez des chaussures fermées et de l''eau.'
-- pregunta: Combien de temps faut-il d'Alicante à Elche ?
-  respuesta: Environ 20 minutes en Cercanías (ligne C-1, toutes les 30 minutes). La Palmeraie se visite gratuitement et le Huerto del Cura coûte 6 €.
-- pregunta: Peut-on faire deux excursions le même jour ?
-  respuesta: Seulement si elles sont voisines, comme Altea et Calpe. Guadalest (avec l'Algar) ou Jávea occupent déjà toute la journée.
 ---
+
+**Alicante est la porte d'entrée de toute la Costa Blanca.** En moins d'une heure, vous trouvez des villages blancs face à la mer, des rochers de carte postale, un village de montagne perché au-dessus d'un lac de barrage turquoise et la plus grande palmeraie d'Europe. Ce guide classe les meilleures excursions selon le temps dont vous disposez et le moyen d'y aller, avec un atout : beaucoup se font en **TRAM** (tramway), sans voiture.
 
 ## Excursions à réserver
 
@@ -57,54 +47,63 @@ faq:
 | [Bateau aller-retour vers l'île de Tabarca](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4,3★ (5 628) | 25 € |
 | [Circuit œnologique à la campagne avec 4 dégustations en petit groupe](/en/cities/alicante/activities/alicante-countryside-winery-tour-4-tastings) | 4,9★ (445) | 65 € |
 
-## Les meilleures excursions depuis Alicante
+En plus de l'**île de Tabarca** (qui a son propre guide : [comment la visiter](/fr/guides/alicante/ile-de-tabarca-comment-la-visiter)), voici les sorties qui valent le plus le détour.
+
+## Les meilleures excursions
 
 | Destination | Distance | Idéal pour |
 | --- | --- | --- |
-| Elche | 20 min (Cercanías) | Palmeraie classée au patrimoine mondial |
-| Altea | 50 min (voiture) ; TRAM avec changement à Benidorm | Village blanc aux coupoles bleues |
-| Calpe | 1 h (voiture) ; TRAM avec changement à Benidorm | Le rocher d'Ifach et les plages |
+| Elche | 20 min | Palmeraie inscrite au patrimoine mondial |
+| Altea | 50 min (voiture) ; TRAM avec correspondance à Benidorm | Village blanc aux coupoles bleues |
+| Calpe | 1 h (voiture) ; TRAM avec correspondance à Benidorm | Le rocher d'Ifach et les plages |
 | Guadalest | 1 h (voiture) | Village de montagne et lac turquoise |
 | Benidorm | 45 min (voiture), 1 h 10 (TRAM) | Skyline, plages et parcs à thème |
-| Jávea (Xàbia) | 1 h (voiture) | Criques et quartier marin |
-
-Faites **une excursion par jour** : Guadalest ou Jávea occupent déjà la journée entière. L'**île de Tabarca** a son propre guide : [comment la visiter](/fr/guides/alicante/ile-de-tabarca-comment-la-visiter).
-
-## Altea et le rocher d'Ifach à Calpe
-
-**Altea** est l'un des plus beaux villages blancs de la côte, avec ses ruelles pavées et son église aux **coupoles bleues** tournée vers la mer. Juste à côté, **Calpe** est dominée par le **rocher d'Ifach**, un parc naturel que l'on peut gravir. Les deux sont voisines : ensemble, elles font un meilleur programme.
-
-- **En TRAM :** ligne 1 jusqu'à Benidorm, puis changement pour la **ligne 9**, un train plus lent et panoramique qui passe toutes les heures. Billet jusqu'à Calpe : **6-7 €**.
-- **Monter au rocher :** 1 h 30 de sentier avec un dernier tronçon sur la roche. Il faut une **réservation préalable gratuite** sur le site du parc naturel (jauge limitée) ; l'accès ferme en cas de pluie.
-- **À emporter :** chaussures fermées (pas de tongs) et 1,5 litre d'eau. Évitez la mi-journée en été.
-
-## Guadalest et les Fuentes del Algar
-
-À une heure de voiture, **Guadalest** est un village de montagne avec un château accroché à la roche et une vue de carte postale sur un **lac de barrage turquoise**. C'est l'un des villages de l'intérieur les plus visités d'Espagne.
-
-- **Y aller :** en voiture, par la CV-70 sinueuse depuis Benidorm. Parkings payants à l'entrée du village (**3-5 €**).
-- **Horaires :** le château et les musées ouvrent de **10 h à 18 h-20 h** selon la saison.
-- **À combiner :** le village est petit, 2 heures suffisent. À 15 minutes se trouvent les **Fuentes del Algar** (**5-6 €** l'entrée), avec baignade dans des bassins d'eau froide.
-
-Sans voiture, le plus simple est une excursion organisée qui réunit Guadalest, Altea et l'Algar en une journée :
-
-[actividad: excursion-guadalest-altea-algar-desde-alicante]
+| Jávea (Xàbia) | 1 h (voiture) | Criques et vieille ville marinière |
 
 ## Benidorm
 
-À **1 h 10 en TRAM** (45 minutes en voiture) se dresse la **skyline** la plus célèbre de la Méditerranée, avec d'immenses plages (Levante et Poniente) et des parcs à thème. Une expérience très différente du reste de la Costa Blanca : idéale avec des enfants ou pour une journée de plage animée.
+À 1 h 10 en TRAM (45 minutes en voiture), la **skyline** la plus célèbre de la Méditerranée, avec d'immenses plages (Levante, Poniente) et des parcs à thème : **Terra Mítica**, **Aqualandia**, **Mundomar**. Le programme idéal avec des enfants ou pour une journée de plage animée.
 
-- **Parcs :** Terra Mítica (dès **29 €**), Aqualandia (dès **30 €**) et Mundomar. Achetés en ligne quelques jours avant, ils reviennent **10-20 % moins cher** ; réservez-les pendant les ponts et l'été.
-- Des **navettes** relient le centre de Benidorm aux parcs.
+## Altea et Calpe
+
+**Altea** est l'un des plus beaux villages blancs de la côte, avec ses ruelles pavées et son église aux **coupoles bleues** tournée vers la mer. Juste à côté, **Calpe** est dominée par le **rocher d'Ifach** (Peñón de Ifach), un parc naturel dont on peut faire l'ascension (vues spectaculaires ; prévoyez de bonnes chaussures).
+
+## Guadalest
+
+À une heure de voiture, **Guadalest** est un village de montagne avec un château accroché au rocher et une vue sur un **lac de barrage turquoise** digne d'une carte postale. C'est l'un des villages de l'intérieur les plus visités d'Espagne.
 
 ## Elche et Jávea
 
-- **Elche**, à **20 minutes en Cercanías** (ligne C-1, toutes les 30 minutes), abrite la **Palmeraie**, inscrite au patrimoine mondial et accessible gratuitement. Le **Huerto del Cura** coûte **6 €**. Le Misteri n'est joué que les **14 et 15 août**.
-- **Jávea (Xàbia)**, à une heure par l'AP-7, offre des criques, le Cap de Sant Antoni et un charmant quartier marin. Pas de transport en commun pratique depuis Alicante : il faut une **voiture**. En août, les criques (Granadella, Portitxol) ferment l'accès en voiture dès que le parking est plein, en milieu de matinée.
+À 20 minutes, **Elche** abrite la **palmeraie** inscrite au patrimoine mondial et le Misteri. À une heure, **Jávea (Xàbia)** offre des criques, le Cap de Sant Antoni et une vieille ville marinière pleine de charme.
 
-## Se déplacer sur la Costa Blanca et conseils
+## Côté pratique : TRAM, prix et temps de trajet
 
-- **La ligne 1 du TRAM** part de la **gare de Luceros toutes les 30 minutes** et relie Alicante à El Campello, Villajoyosa et Benidorm. Billet simple pour Benidorm : **environ 4 €**. Elle évite la voiture et le stationnement sur la côte nord, mais les week-ends d'été elle est bondée : prévoyez de la marge.
-- **La voiture** donne plus de liberté pour Guadalest, Jávea et les villages de l'intérieur.
-- **Ne combinez pas deux excursions lointaines** le même jour.
-- **Ne sous-estimez pas la chaleur** à Guadalest et sur l'Ifach à la mi-journée en été.
+- **Le TRAM :** la ligne 1 (Alicante-Benidorm) part de la station Luceros toutes les 30 minutes et met 1 h 10 jusqu'à Benidorm ; pour Altea et Calpe, il faut changer à Benidorm pour la ligne 9 (un train plus lent et panoramique, toutes les heures). Aller simple Alicante-Benidorm, environ 4 € ; jusqu'à Calpe, 6-7 €. Les week-ends d'été, il est bondé : prévoyez de la marge.
+- **Guadalest :** 1 heure de voiture par la CV-70 depuis Benidorm, avec des virages. Parkings payants à l'entrée du village (3-5 €). Le château et les musées ouvrent de 10 h à 18 h-20 h selon la saison ; le village lui-même est petit, 2 heures suffisent largement, alors combinez-le avec les **Fuentes del Algar** (à 15 minutes, entrée 5-6 €, baignade dans des vasques d'eau froide).
+- **Rocher d'Ifach :** montée d'1 h 30 par un sentier avec un dernier tronçon rocheux ; accès sur **réservation préalable gratuite** sur le site du parc naturel, jauge limitée et fermeture en cas de pluie. Emportez 1,5 litre d'eau.
+- **Elche :** 20 minutes en train de banlieue (Cercanías, ligne C-1, toutes les 30 minutes). Le Huerto del Cura coûte 6 € et la promenade dans la palmeraie est gratuite ; le Misteri n'est joué que les 14 et 15 août.
+- **Benidorm avec des enfants :** Terra Mítica (à partir de 29 €), Aqualandia (à partir de 30 €) et Mundomar ; achetés en ligne quelques jours à l'avance, ils sont 10-20 % moins chers. Des navettes partent du centre de Benidorm.
+- **Jávea :** pas de transport public pratique depuis Alicante ; en voiture, 1 heure par l'AP-7. En août, l'accès en voiture aux criques (Granadella, Portitxol) est fermé dès que le parking est plein, en milieu de matinée.
+
+## Comment se déplacer
+
+La **ligne 1 du TRAM** relie Alicante à la côte nord (El Campello, Villajoyosa, Benidorm) : confortable et panoramique. Pour Altea et Calpe, on change à Benidorm pour la ligne 9. Pour **Guadalest** et les villages de l'intérieur, la **voiture** offre plus de liberté. **Elche** est tout près en train de banlieue.
+
+## Ce que nous NE recommandons PAS
+
+1. **Faire deux excursions lointaines le même jour.** Guadalest ou Jávea occupent déjà une journée entière.
+2. **Monter au rocher d'Ifach en tongs.** C'est une vraie ascension ; prévoyez des chaussures fermées et de l'eau.
+3. **Confondre Benidorm avec le reste de la Costa Blanca.** Ce sont des expériences très différentes.
+4. **Oublier de réserver les parcs de Benidorm** pendant les ponts et l'été.
+
+## Erreurs fréquentes
+
+> **Attention :** les erreurs que nous voyons le plus souvent.
+
+1. **Ne pas profiter du TRAM.** Il évite la voiture et le stationnement sur la côte nord.
+2. **Voir Calpe sans Altea.** Elles sont voisines et forment un bien meilleur programme ensemble.
+3. **Sous-estimer la chaleur** à Guadalest et sur l'Ifach à la mi-journée en été.
+
+## En une phrase
+
+Depuis Alicante, en moins d'une heure, vous avez Benidorm, des villages blancs comme Altea, le rocher d'Ifach et Guadalest dans la montagne : toute la Costa Blanca à portée de TRAM. Pour l'île, [comment visiter Tabarca](/fr/guides/alicante/ile-de-tabarca-comment-la-visiter).

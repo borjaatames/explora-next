@@ -5,7 +5,7 @@ metaTitle: 'Mezquita Córdoba tickets and guided tours'
 categoria: "cordoba"
 slug: "mosque-cathedral-how-to-visit"
 fecha: "2026-04-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
@@ -24,8 +24,7 @@ slugs:
   fr: mosquee-cathedrale-cordoue-comment-la-visiter
   it: moschea-cattedrale-cordova-come-visitarla
   pt: mesquita-catedral-de-cordova-como-visitar
-intro: '**Mezquita Córdoba tickets** open the door to the monument that makes the trip worthwhile and one of the most astonishing buildings in Europe. Founded in 785, it holds a forest of **856 columns with red-and-white arches**, a mihrab covered in golden mosaics and a Renaissance cathedral in the middle. It sits in the old town, 20 minutes on foot from the high-speed train station, and the visit takes 1 to 1.5 hours.'
-respuestaCorta: 'Mezquita Córdoba tickets cost **€15** (free under 10), and entry is **free Monday to Saturday from 8:30 to 9:30** for individual visitors. Allow **1–1.5 hours** and cover your shoulders; on Sundays it closes for worship from 11:30 to 15:00. The **skip-the-line guided tour with the bell tower** starts at €32.'
+respuestaCorta: 'The Mosque-Cathedral costs **€15** (free under 10) and is **free Monday to Saturday from 8:30 to 9:30**, for individual visitors only. Go first thing, allow **1–1.5 hours** and cover shoulders and knees. On Sundays worship closes it between 11:30 and 15:00. A skip-the-line guided tour with the bell tower costs from €32.'
 reservasArriba: true
 actividades:
   - mezquita-catedral-tour-guiado-sin-colas
@@ -33,17 +32,6 @@ actividades:
   - mezquita-juderia-tour-a-pie
 imagen_portada: "/images/guias/mezquita-catedral-como-visitar.jpg"
 imagen_alt: "Forest of red-and-white arches in Córdoba's Mosque-Cathedral"
-faq:
-- pregunta: How much is a ticket to the Mezquita of Córdoba?
-  respuesta: General admission is €15. Reduced tickets cost €12 (over-65s and students up to 26) and €8 for children aged 10 to 14. Under-10s go free. The bell tower (€4) and the audio guide are extra.
-- pregunta: Can you really visit the Mezquita for free?
-  respuesta: 'Yes, Monday to Saturday from 8:30 to 9:30, for individual visitors only: no groups or guides. Entry is first come, first served and staff start clearing the building at 9:20. There is no free hour on Sundays or on days with special celebrations.'
-- pregunta: Can you visit the Mezquita on a Sunday?
-  respuesta: 'Yes, but with split hours: 8:30 to 11:30 and 15:00 to 19:00, because there is worship in between. The same applies on religious holidays.'
-- pregunta: How long do you need to see the Mosque-Cathedral?
-  respuesta: An hour to an hour and a half for the daytime visit. If you climb the bell tower, add its 30-minute slot.
-- pregunta: Is there a dress code?
-  respuesta: 'It is a working Catholic church: cover your shoulders and avoid very short shorts. In summer, keep a scarf in your bag just in case.'
 opciones:
   - ficha: mezquita-catedral-entrada-audioguia
     etiqueta: Cheapest
@@ -53,6 +41,8 @@ opciones:
     etiqueta: Plus Jewish Quarter
 ---
 
+**The Mosque-Cathedral is the monument that justifies the trip to Córdoba**, and one of the most astonishing buildings in Europe: a forest of 856 columns and red-and-white arches with a Renaissance cathedral raised in the centre. It's also where planning matters most: going in at the right time is the difference between enjoying it calmly and putting up with queues and heat.
+
 ## Which ticket should you choose?
 
 | Activity | Rating | From |
@@ -61,48 +51,57 @@ opciones:
 | [Mosque-Cathedral ticket with audio guide](/en/cities/cordoba/activities/mosque-cathedral-ticket-audio-guide) | 4.2★ (3,788) | €22 |
 | [Mosque and Jewish Quarter tour with tickets](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) | 4.5★ (2,200) | €34 |
 
-## What to see inside the Mezquita of Córdoba
+The golden rule: **go first thing**. That's when there are fewest people and the best light between the columns, and there's a **free entry slot** that few visitors use.
 
-- **The forest of columns.** 856 remain of the nearly 1,300 originals, with double red-and-white horseshoe arches and reused Roman and Visigothic marble and granite. It is the image that defines the monument.
-- **The mihrab.** The prayer niche, with its **golden Byzantine mosaics**, is the artistic jewel of the whole complex.
-- **The Renaissance cathedral.** It was inserted in the centre in the 16th century; on seeing it, Charles V said they had destroyed something unique to build something ordinary.
-- **The Courtyard of the Orange Trees.** The entrance courtyard, with orange trees and fountains. Access is **free**.
-- **The bell tower.** The former minaret can be climbed (separate ticket) for a view over the old town.
+## Which option to book
 
-Don't rush it: the mihrab and the contrast between the two places of worship deserve time.
-
-## Mezquita Córdoba tickets: prices and opening hours
-
-- **General:** €15. Includes the Mosque-Cathedral and the Courtyard of the Orange Trees; the audio guide is extra.
-- **Reduced:** €12 for over-65s and students up to 26, and €8 for children aged 10 to 14.
-- **Under 10:** free.
-- **Bell tower:** €4, in 30-minute slots every half hour, with a limit of 20 people. It is 54 metres of stairs, and the view of the courtyard and the Jewish Quarter is worth it.
-- **Night visit, "The Soul of Córdoba":** €25 (€18 reduced), at 21:00 and 22:30, with a sound-and-light show inside. Different and crowd-free, but no substitute for the daytime visit.
-
-**Paid hours:** Monday to Saturday from **10:00 to 19:00** (until 18:00 from November to February). On **Sundays and religious holidays**, 8:30 to 11:30 and 15:00 to 19:00, because there is worship in between. Ticket sales and entry close 30 minutes earlier.
-
-The monument itself rarely sells out; what goes first is the tower, the night visit and some slots at Easter, in May and on long weekends.
-
-## Mezquita Córdoba free entry: 8:30 to 9:30
-
-From **Monday to Saturday, 8:30 to 9:30**, entry is free for individual visitors, with no groups or guides. It is first come, first served, and **staff start clearing the building at 9:20**, so be at the door at 8:30 sharp. There is no free slot on Sundays or on days with special celebrations.
-
-Free or not, it is the best time of day: low light between the columns and silence.
-
-## Mezquita Córdoba guided tour
-
-On your own you see the beauty; with a guide you understand why there are two places of worship in one. The most popular guided tour includes **skip-the-line entry** and the climb up the **bell tower**, and it is the easiest way to go in high season, when the ticket queue can be long.
+- **Guided tour (from €32, 75–90 minutes).** An official guide, entry through a separate gate, headsets, and the **bell tower and the Fernandine churches included**. It's the best value if you'd pay for the tower anyway. Note: in groups of fewer than 8 you leave with the guide when the tour ends, so you can't stay on inside.
+- **Ticket with audio guide (from €22).** Entry plus an offline app that carries on through the Jewish Quarter, the synagogue and the Roman temple. It's priced per device, so each adult still needs a ticket. Non-refundable.
+- **Mosque and Jewish Quarter tour (from €34, 2.5 hours).** The Mosque with a guide, then an hour's walk through the Jewish Quarter. The best fit if you only have one day. The synagogue is closed on Mondays.
+- **On your own (€15).** Buy on the official website or at the ticket office. Resellers sell full-price adult tickets only, so buy reduced and free tickets directly.
 
 [actividad: mezquita-catedral-tour-guiado-sin-colas]
 
-## How to get there
+## Official prices and hours (2026)
 
-The Mezquita is in the old town, five minutes on foot from the Jewish Quarter, the Alcázar and the Roman Bridge. From the **high-speed train station** it is about a **20-minute walk**. The ticket office is in the Patio de San Eulogio, on Calle Torrijos.
+| Detail | Info |
+| --- | --- |
+| General ticket | €15; €12 over-65s and students aged 15–26; €8 children aged 10–14; **free under 10** |
+| Free slot | Monday to Saturday, **8:30–9:30**; individual visitors only, no groups or guides |
+| Monday–Saturday | 10:00–19:00 (March to October); closes at 18:00 November to February |
+| Sundays and religious holidays | Morning visits until 11:30, then 15:00 to closing; worship in between |
+| Bell tower | €4, slots every 30 minutes from 9:30 |
+| Night visit, "The Soul of Córdoba" | €25 (€18 reduced), sound-and-light show at 21:00 and 22:30 |
+| Courtyard of the Orange Trees | Free access |
 
-## Tips for your visit
+> **Tip:** in the free slot, access stops at **9:20**, when staff start clearing the building. Arrive at 8:30 sharp. It doesn't apply on days with special celebrations, so check the official calendar the day before.
 
-- **Go first thing.** Heat and groups arrive mid-morning; in summer, avoid midday at all costs.
-- **Watch out for Sunday mornings:** worship limits tourist visits.
-- **Dress respectfully:** shoulders covered and no very short shorts.
-- **Don't skip the tower:** the views of the old town and the Courtyard of the Orange Trees are worth the €4.
-- **Make it your first stop of the day.** That's how we plan it in [Córdoba in one day](/en/guides/cordoba/cordoba-in-one-day).
+Hours change on religious holidays, so confirm on the official website before you go.
+
+## What to see inside
+
+- **The forest of columns.** The 856 columns (of the nearly 1,300 originals) with red-and-white double horseshoe arches, reusing Roman and Visigothic marble and granite. The image that defines the monument.
+- **The mihrab.** The prayer niche, with its **gilded Byzantine mosaics**, the artistic jewel of the ensemble. The space in front of it, the maqsura, has the most elaborate domes.
+- **The Renaissance cathedral.** Inserted in the centre in the 16th century; on seeing it, Charles V said they had destroyed something unique to make something ordinary. Look at the carved choir stalls.
+- **The Courtyard of the Orange Trees.** The entrance courtyard with orange trees and fountains; access is **free**.
+- **The bell tower.** The former minaret, which you can climb for a panorama of the old town. It's a long staircase and isn't wheelchair accessible.
+
+## When to go
+
+**First thing**, always: heat and groups arrive mid-morning. In summer, avoid midday entirely. On **Sunday mornings**, Catholic worship limits the tourist visit. The night visit is different and uncrowded, but it doesn't replace a daytime visit.
+
+## How to make the most of the visit
+
+Allow **1–1.5 hours**, plus 30 minutes for the tower. A **guided tour** helps you understand why there are two temples in one. Dress for a working cathedral: **shoulders and knees covered**, no strappy tops or short skirts. In summer, carry a scarf. We slot it in as the first stop of the day in [Córdoba in one day](/en/guides/cordoba/cordoba-in-one-day).
+
+## Common mistakes
+
+1. **Going at midday in summer.** Queues and heat; go first thing.
+2. **Not checking the free morning slot** if it fits your plans.
+3. **Going on a Sunday morning** without knowing that worship limits the visit.
+4. **Rushing.** Many people miss the mihrab; it's at the far end, by the south wall.
+5. **Skipping the tower.** The views of the old town and the orange courtyard are worth €4.
+
+## In one sentence
+
+The Mosque-Cathedral is best visited first thing, unhurried and, if you can, in the free slot: the forest of columns, the gilded mihrab and the embedded cathedral are one of the great monumental experiences in Europe. It's the heart of [Córdoba in one day](/en/guides/cordoba/cordoba-in-one-day), and in May you can pair it with the [Patios of Córdoba](/en/guides/cordoba/cordoba-patios).

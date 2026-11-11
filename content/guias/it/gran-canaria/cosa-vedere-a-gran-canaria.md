@@ -1,12 +1,11 @@
 ---
 titulo: 'Cosa vedere a Gran Canaria: dune, cime, Vegueta e Puerto de Mogán'
 descripcion: 'Guida di Gran Canaria: Dune di Maspalomas, Roque Nublo, Vegueta, Las Canteras, Puerto de Mogán e i paesi del nord. Quanti giorni, dove alloggiare e come muoversi.'
-intro: 'Cosa vedere a Gran Canaria va ben oltre le spiagge del sud. In un''isola rotonda di appena 50 chilometri stanno un deserto di dune, pinete a quasi 2.000 metri, barrancos con case grotta e una capitale con uno dei centri coloniali meglio conservati delle Canarie: è il **continente in miniatura**. L''interno è a meno di un''ora da Maspalomas ed è ciò che rende unica l''isola.'
-respuestaCorta: 'Per vedere l''essenziale di Gran Canaria servono **quattro o cinque giorni**: il sud con le **dune di Maspalomas** e Puerto de Mogán, un giorno sulle cime (Roque Nublo e Tejeda), Las Palmas con Vegueta e Las Canteras, e i paesi del nord (Teror, Arucas, Agaete). Per l''interno serve **l''auto o un''escursione**.'
+respuestaCorta: 'Per vedere Gran Canaria servono **quattro o cinque giorni**: il sud con le **Dune di Maspalomas** e Puerto de Mogán, un giorno sulle cime (Roque Nublo e Tejeda), Las Palmas con Vegueta e Las Canteras, e i paesi del nord (Teror, Arucas, Agaete). Per l''interno servono **auto o escursione**: quella al Roque Nublo da Las Palmas parte da 48 €.'
 categoria: gran-canaria
 slug: cosa-vedere-a-gran-canaria
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: true
@@ -38,18 +37,18 @@ actividades:
   - palmitos-park-gran-canaria-entrada
 faq:
 - pregunta: Quanti giorni servono per vedere Gran Canaria?
-  respuesta: Quattro o cinque giorni permettono di combinare spiaggia al sud, un giorno sulle cime (Roque Nublo e Tejeda), un altro per Las Palmas e Vegueta e un giro tra i paesi del nord o dell'ovest. Con tre giorni bisogna scegliere tra interno e capitale.
-- pregunta: Meglio alloggiare al sud o a Las Palmas?
-  respuesta: Il sud (Maspalomas, Playa del Inglés, Meloneras, Mogán) ha più sole e spiagge tranquille. Las Palmas è migliore per vita urbana, gastronomia e la spiaggia di Las Canteras, ed è meglio collegata al nord. Molti viaggiatori combinano entrambi.
+  respuesta: Quattro o cinque giorni permettono di abbinare il mare nel sud, un giorno sulle cime (Roque Nublo e Tejeda), un altro per Las Palmas e Vegueta, e un itinerario tra i paesi del nord o dell'ovest. Con tre giorni bisogna scegliere tra l'interno e il capoluogo.
+- pregunta: È meglio alloggiare nel sud o a Las Palmas?
+  respuesta: Il sud (Maspalomas, Playa del Inglés, Meloneras, Mogán) ha più sole e spiagge tranquille. Las Palmas è meglio per la vita urbana, la gastronomia e la spiaggia di Las Canteras, ed è più collegata con il nord. Molti viaggiatori combinano entrambi.
 - pregunta: Serve l'auto a Gran Canaria?
-  respuesta: 'Per l''interno sì, oppure un''escursione organizzata: gli autobus arrivano nei paesi, ma con poche corse e tragitti lunghi su strade di montagna. Tra Las Palmas e il sud l''autobus funziona molto bene.'
+  respuesta: 'Per l''interno sì, oppure un''escursione organizzata: le guaguas arrivano nei paesi, ma con poche corse e tragitti lunghi su strade di montagna. Tra Las Palmas e il sud l''autobus funziona benissimo.'
 - pregunta: Qual è il periodo migliore per andare a Gran Canaria?
-  respuesta: 'Qualsiasi: la costa sud ha tra 18 e 28 °C tutto l''anno. Primavera e autunno sono ideali per il trekking; d''inverno sulle cime si può scendere sotto zero e ogni tanto nevica sul Pico de las Nieves.'
-- pregunta: Cosa si può vedere gratis a Gran Canaria?
-  respuesta: Le dune di Maspalomas, il Roque Nublo, Vegueta, la spiaggia di Las Canteras e il Giardino Botanico sono gratuiti. La Casa de Colón costa 4 € ed è gratis la domenica.
+  respuesta: 'Qualsiasi: la costa sud ha tra 18 e 28 °C tutto l''anno. Primavera e autunno sono ideali per il trekking; d''inverno sulle cime la temperatura può scendere sotto lo zero e qualche volta nevica sul Pico de las Nieves.'
 imagen_portada: "/images/guias/que-ver-en-gran-canaria.jpg"
 imagen_alt: "Plaza de Santa Ana a Vegueta, Las Palmas de Gran Canaria"
 ---
+
+**Gran Canaria è molto più delle spiagge del sud.** In un'isola rotonda di appena 50 chilometri stanno un deserto di dune, pinete a quasi 2.000 metri, barrancos con case-grotta e un capoluogo con uno dei centri coloniali meglio conservati delle Canarie: il **continente in miniatura**. L'errore più comune è non uscire da Maspalomas; l'interno è a meno di un'ora ed è ciò che rende unica l'isola.
 
 ## Prenota l'essenziale
 
@@ -62,65 +61,44 @@ imagen_alt: "Plaza de Santa Ana a Vegueta, Las Palmas de Gran Canaria"
 | [Passeggiata in cammello sulle Dune di Maspalomas](/en/cities/gran-canaria/activities/maspalomas-dunes-camel-ride) | 4,5★ (5.263) | 18 € |
 | [Jeep safari tra valli, dighe e paesi del sud](/it/cities/gran-canaria/activities/jeep-safari-sud-gran-canaria) | 4,5★ (1.443) | 69 € |
 
-## Quanti giorni: Gran Canaria in 4 giorni (o 5)
+## Quanti giorni
 
-Con **quattro o cinque giorni** vedi le sue due facce:
+Con **quattro o cinque** vedi i suoi due volti: Las Palmas e Vegueta, le cime (Roque Nublo, Tejeda), il nord (Teror, Arucas, Agaete) e il resto per spiaggia, mare e Puerto de Mogán. Con tre, scegli tra interno e capoluogo; con una settimana, aggiungi l'ovest selvaggio e il barranco di Guayadeque.
 
-- **Un giorno al sud:** dune di Maspalomas e Puerto de Mogán.
-- **Un giorno sulle cime:** Roque Nublo, Pico de las Nieves e Tejeda.
-- **Un giorno a Las Palmas:** Vegueta e Las Canteras.
-- **Un giorno al nord:** Teror, Arucas e Agaete.
-- **Il resto** per spiaggia e mare.
+## Il sud: dune e Puerto de Mogán
 
-Con **tre giorni**, scegli tra interno e capitale. Con **una settimana**, aggiungi l'ovest selvaggio e il barranco di Guayadeque.
-
-## Il sud: dune di Maspalomas e Puerto de Mogán
-
-Le **dune di Maspalomas**, riserva naturale di oltre 400 ettari sul mare con la Charca e il faro sullo sfondo, sono l'icona dell'isola. Percorrile all'alba o a fine giornata: a mezzogiorno la sabbia scotta e si può camminare solo sui sentieri segnalati. Di più nella [guida alle Dune](/it/guides/gran-canaria/dune-di-maspalomas).
-
-- **Playa del Inglés** e **Meloneras**, accanto alle dune: lungomare, spiaggia e ristoranti.
-- **Puerto de Mogán**, a ovest: il borgo marinaro più bello, con canali, case bianche ricoperte di bouganville e tramonti da cartolina.
-- **Puerto Rico**, da dove partono le barche per vedere i delfini. La barca Puerto Rico-Mogán costa 10-12 €.
-- **Palmitos Park** (36 €), la grande gita per famiglie del sud.
+Le **Dune di Maspalomas**, riserva naturale di più di 400 ettari sul mare con la Charca e il faro sullo sfondo, sono l'icona dell'isola: percorrile all'alba o a fine giornata, a mezzogiorno la sabbia scotta. Accanto, **Playa del Inglés** e **Meloneras**; a ovest, **Puerto de Mogán**, il paese di pescatori più bello (canali, case bianche con bouganville, tramonto da cartolina), e **Puerto Rico**, da dove partono le barche per i delfini. Di più nella [guida alle Dune](/it/guides/gran-canaria/dune-di-maspalomas).
 
 ## Le cime: Roque Nublo e Tejeda
 
-Un altro mondo, a un'ora e mezza dal sud:
+Un altro mondo. Il **Roque Nublo**, monolito di 80 metri a più di 1.800 m, si raggiunge con un sentiero breve; accanto, il **Pico de las Nieves** (1.949 m), da cui nei giorni limpidi si vede il Teide. **Tejeda** e la **Cruz de Tejeda** sono la base per mangiare e vedere il **Roque Bentayga**; vicino, **Artenara** e il **Risco Caído**, Patrimonio Mondiale per le sue grotte aborigene. Scendendo verso sud, il **barranco di Fataga** e la **diga di Chira**, teatro di buggy e jeep. Leggi [come salire sul Roque Nublo](/it/guides/gran-canaria/roque-nublo-come-salire).
 
-- **Roque Nublo:** monolite di 80 metri a oltre 1.800 m di quota, raggiungibile con un sentiero breve. Leggi [come salire sul Roque Nublo](/it/guides/gran-canaria/roque-nublo-come-salire).
-- **Pico de las Nieves** (1.949 m): nelle giornate limpide si vede il Teide.
-- **Tejeda e la Cruz de Tejeda:** la base per pranzare e vedere il **Roque Bentayga**.
-- **Artenara e Risco Caído**, Patrimonio dell'Umanità per le sue grotte aborigene.
-- **Barranco di Fataga e diga di Chira**, scendendo verso sud, scenario dei percorsi in buggy e jeep.
+## Las Palmas, il nord e l'est
 
-## Vegueta, Las Palmas e il nord dell'isola
+**Vegueta**, il quartiere da cui è nata la città (1478), riunisce la Cattedrale di Santa Ana, la Casa de Colón e strade lastricate con balconi di legno; dall'altra parte della città, **Las Canteras**, 3 km di sabbia protetti dalla barriera de La Barra, per nuotare e fare snorkeling in pieno centro. Nel nord, **Teror** (Basilica del Pino), **Arucas** (chiesa neogotica e piantagioni di banane), **Firgas** e **Agaete**, con il Puerto de las Nieves e l'unica valle d'Europa in cui si coltiva caffè. Nell'est, **Guayadeque** con le sue case e il suo eremo scavati nella roccia.
 
-**Vegueta**, il quartiere fondativo di Las Palmas (1478), riunisce la **cattedrale di Santa Ana**, la **Casa de Colón** (4 €, gratis la domenica) e strade acciottolate con balconi di legno. Dall'altra parte della città, **Las Canteras**: 3 km di sabbia protetti dalla barriera di La Barra, per nuotare e fare snorkeling in pieno centro.
+## Info pratiche
 
-**Il nord:**
+- **Auto:** sì per l'interno e il nord. Prenota con settimane di anticipo d'inverno (alta stagione alle Canarie), auto piccola (la GC-60, la GC-600 e la GC-210 sono strette e con curve a gomito) e pieno prima di salire: in quota non ci sono distributori.
+- **Distanze:** Maspalomas-Las Palmas 45 min in autostrada; -Mogán 25; -Tejeda e Roque Nublo 1 h 30; -Teror 1 h 15. L'interno si misura in ore, non in chilometri.
+- **Guaguas:** la linea 30 collega Las Palmas e Maspalomas in 50 minuti (ogni 20 min, circa 7 €); la 1 va lungo la costa fino a Mogán; per l'interno, la 18 e la 305 con poche corse: controlla il ritorno prima di salire.
+- **Prezzi:** dune, Roque Nublo, Vegueta, Las Canteras e Jardín Botánico, gratis; Casa de Colón 4 € (gratis la domenica); cammelli 18 €; barca Puerto Rico-Mogán 10-12 €; Palmitos Park 36 €, il grande programma per famiglie.
+- **Mercati:** Teror la domenica mattina (chorizo da spalmare e formaggio), Vegueta il sabato, Mercado del Puerto di Las Palmas da giovedì a sabato la sera per le tapas.
+- **Clima:** il sud, 300 giorni di sole; Las Palmas e il nord, cielo coperto dalla «panza de burro» d'estate; sulle cime d'inverno può gelare. Tieni sempre uno strato in più in auto.
 
-- **Teror**, con la Basilica del Pino e il mercato della domenica mattina (chorizo da spalmare e formaggio).
-- **Arucas**, con la chiesa neogotica, le piantagioni di banane e il rum (si può [visitare la distilleria Arehucas](/en/cities/gran-canaria/activities/arehucas-rum-distillery-tour-tasting)).
-- **Firgas** e **Agaete**, con il Puerto de las Nieves e l'unica valle d'Europa dove si coltiva caffè.
+## Dormire e mangiare
 
-**L'est:** il barranco di **Guayadeque**, con case e un eremo scavati nella roccia.
+**Maspalomas, Playa del Inglés e Meloneras** per sole e spiaggia; **Puerto de Mogán** per la calma con fascino; **Las Palmas** per la città, la gastronomia e il nord; case rurali a Tejeda o Artenara per dormire sotto le stelle.
 
-## Come muoversi a Gran Canaria
+**Papas arrugadas con mojo**, **formaggio de flor de Guía**, **sancocho**, **gofio**, **bienmesabe** di Tejeda, **rum di Arucas** (si può [visitare la distilleria Arehucas](/en/cities/gran-canaria/activities/arehucas-rum-distillery-tour-tasting)) e i vini del Monte Lentiscal.
 
-- **Auto:** indispensabile per interno e nord. Prenotala con settimane di anticipo in inverno (alta stagione alle Canarie), meglio piccola (la GC-60, la GC-600 e la GC-210 sono strette e con curve secche) e con il pieno prima di salire: in quota non ci sono distributori.
-- **Distanze da Maspalomas:** Las Palmas, 45 min in autostrada; Mogán, 25 min; Tejeda e Roque Nublo, 1 h 30; Teror, 1 h 15. L'interno si misura in ore, non in chilometri.
-- **Autobus:** la linea 30 collega Las Palmas e Maspalomas in 50 minuti (ogni 20 min, circa 7 €); la 1 va lungo la costa fino a Mogán; verso l'interno, la 18 e la 305, con poche corse: controlla il ritorno prima di salire.
-- **Gratis:** dune, Roque Nublo, Vegueta, Las Canteras e Giardino Botanico.
-- **Clima:** il sud, 300 giorni di sole; Las Palmas e il nord, «panza de burro» (nuvole basse) d'estate; sulle cime d'inverno può gelare. Tieni sempre uno strato in più in auto.
+## Errori tipici
 
-## Dove dormire, cosa mangiare e consigli
+1. **Non uscire dal sud.**
+2. **Salire sulle cime senza giacca:** 25 °C in spiaggia e 8 °C sul Pico de las Nieves.
+3. **Uscire dai sentieri sulle dune:** è riserva naturale ed è vietato.
+4. **Roque Nublo a mezzogiorno nel weekend:** il parcheggio si riempie.
 
-**Dove dormire:** Maspalomas, Playa del Inglés e Meloneras per sole e spiaggia; Puerto de Mogán per la calma con fascino; Las Palmas per città, gastronomia e il nord; case rurali a Tejeda o Artenara per dormire sotto le stelle.
+## In una frase
 
-**Cosa mangiare:** papas arrugadas con mojo, formaggio flor de Guía, sancocho, gofio, bienmesabe di Tejeda, rum di Arucas e vini del Monte Lentiscal. Per le tapas, il **Mercado del Puerto** di Las Palmas, dal giovedì al sabato sera; a Vegueta c'è mercato il sabato.
-
-**Errori tipici:**
-
-1. **Non uscire mai dal sud:** l'interno è a meno di un'ora ed è il meglio dell'isola.
-2. **Salire sulle cime senza giacca:** possono esserci 25 °C in spiaggia e 8 °C sul Pico de las Nieves.
-3. **Uscire dai sentieri nelle dune:** è riserva naturale ed è vietato.
+Gran Canaria è dune, cime sopra le nuvole, un capoluogo coloniale e paesi con balconi: in quattro o cinque giorni vedi un intero continente senza lasciare l'isola.

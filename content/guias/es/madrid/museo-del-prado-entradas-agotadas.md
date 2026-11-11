@@ -5,7 +5,7 @@ metaTitle: 'Entradas Museo del Prado: precio y horario'
 categoria: madrid
 slug: museo-del-prado-entradas-agotadas
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -28,8 +28,7 @@ slugs:
   it: museo-del-prado-biglietti-esauriti
   pt: museu-do-prado-bilhetes-esgotados
 reservasArriba: true
-intro: 'Antes de comprar tus **entradas al Museo del Prado**, conviene saber qué te espera: una de las grandes pinacotecas del mundo, abierta en 1819 en el edificio de Juan de Villanueva, con el mejor conjunto de **Velázquez, Goya y El Greco** y obras maestras de El Bosco, Tiziano y Rubens. Está en el Paseo del Prado, a 10-15 minutos a pie de Atocha, y la visita lleva unas dos o tres horas.'
-respuestaCorta: 'Las **entradas al Museo del Prado** cuestan **15 €** en entradas.museodelprado.es o en la **taquilla de la puerta de Goya**. Casi nunca se agota el día entero, solo **franjas concretas**: prueba otra hora o la taquilla. Es **gratis de lunes a sábado de 18:00 a 20:00** (domingos, 17:00-19:00). Una visita guiada con entrada asegura el acceso.'
+respuestaCorta: 'El Prado casi nunca se agota del todo: lo normal es que se llene **una franja concreta** o que la cola de la hora gratis sea enorme. Prueba otra hora en `entradas.museodelprado.es` (**15 €**) o compra en la **taquilla de la puerta de Goya**. Si no quieres arriesgarte, una **entrada con hora de reventa** (desde 18 €) o una **visita guiada con entrada** te asegura el acceso.'
 actividades:
   - museo-prado-entrada
   - museo-prado-visita-guiada
@@ -37,15 +36,13 @@ actividades:
   - art-walk-pass-prado-reina-sofia-thyssen
 faq:
 - pregunta: ¿Se pueden comprar entradas del Prado en la taquilla el mismo día?
-  respuesta: Sí. Las taquillas están junto a la puerta de Goya, en el lado norte del edificio, y la entrada general cuesta lo mismo que online, 15 €. En fines de semana, puentes y temporada alta se forma cola, así que ve a primera hora.
+  respuesta: 'Sí. Las taquillas están junto a la puerta de Goya, en el lado norte del edificio, y la entrada general cuesta lo mismo que online, 15 €. En fines de semana, puentes y temporada alta se forma cola, así que ve a primera hora.'
 - pregunta: ¿Cuándo es gratis el Museo del Prado?
   respuesta: 'Las dos últimas horas de cada día: de lunes a sábado de 18:00 a 20:00 y domingos y festivos de 17:00 a 19:00, solo la colección permanente. La entrada cierra media hora antes. También es gratis todo el día el 18 de mayo y el 19 de noviembre. Los menores de 18 años, los estudiantes de 18 a 25 y los desempleados entran gratis siempre.'
 - pregunta: ¿Merece la pena hacer la cola de la hora gratis?
-  respuesta: Solo si te basta con hora y media de visita. La cola empieza a formarse bastante antes de la hora gratis y en domingos y festivos puede pasar de una hora. Si quieres ver el museo con calma, compensa pagar la entrada y elegir una franja de mañana.
+  respuesta: 'Solo si te basta con hora y media de visita. La cola empieza a formarse bastante antes de la hora gratis y en domingos y festivos puede pasar de una hora. Si quieres ver el museo con calma, compensa pagar la entrada y elegir una franja de mañana.'
 - pregunta: ¿Es fiable reservar una visita guiada si la web oficial no tiene hueco?
   respuesta: Sí, siempre que la ficha diga que la entrada al museo va incluida. Los operadores reservan sus plazas con antelación y entras con el grupo a una hora fija, sin pasar por la taquilla.
-- pregunta: ¿Qué días cierra el Museo del Prado?
-  respuesta: No tiene día de cierre semanal. Solo cierra el 1 de enero, el 1 de mayo y el 25 de diciembre, y el 6 de enero y el 24 y 31 de diciembre cierra a las 14:00.
 opciones:
   - ficha: museo-prado-entrada
     etiqueta: Entrada con hora
@@ -54,6 +51,8 @@ opciones:
   - ficha: art-walk-pass-prado-reina-sofia-thyssen
     etiqueta: Con Reina Sofía y Thyssen
 ---
+
+El Prado vende entradas con hora y casi nunca se queda sin plazas para todo el día. Lo que sí pasa, sobre todo en puentes, fines de semana y Semana Santa, es que **la franja que querías sale agotada** o que la cola de la hora gratis da la vuelta a la manzana. Ninguna de las dos cosas te deja sin museo. Estas son las vías, en el orden en que conviene probarlas.
 
 ## ¿Qué entrada elegir?
 
@@ -64,57 +63,58 @@ opciones:
 | Los tres grandes museos | [Abono Paseo del Arte: Prado, Reina Sofía y Thyssen](/ciudades/madrid/actividades/art-walk-pass-prado-reina-sofia-thyssen), 4,4★ (489) | 38 € |
 | Solo para vosotros | [Visita privada con guía oficial](/ciudades/madrid/actividades/museo-prado-visita-privada-guia-oficial) | 146 € |
 
-## Qué vas a ver
+## 1. Vuelve a mirar la web oficial
 
-El Prado nació de las colecciones reales de los Austrias y los Borbones, y eso explica su carácter: es el mejor conjunto del mundo de **Velázquez, Goya y El Greco**, con fondos excepcionales de El Bosco, Tiziano y Rubens. Abarca pintura europea del siglo XII al XIX.
+La web oficial de venta es `entradas.museodelprado.es`, enlazada desde `museodelprado.es`. La entrada general cuesta **15 €** y la reducida, **7,50 €** (mayores de 65, carné joven y miembros de familia numerosa). Los menores de 18 años, los estudiantes de 18 a 25 y los desempleados entran **gratis siempre**, acreditándolo en taquilla.
 
-Imprescindibles: *Las Meninas* y la sala de Velázquez, las *Pinturas negras* de Goya y *El jardín de las delicias* de El Bosco. Calcula **2-3 horas**; una vez dentro no hay límite de tiempo.
+- **Mira otras horas del mismo día.** Cada franja tiene su propio cupo, y una vez dentro no hay límite de tiempo, así que entrar a las 12:00 en vez de a las 10:00 no te quita museo.
+- **Ten en cuenta el horario:** de lunes a sábado de **10:00 a 20:00**, y domingos y festivos de **10:00 a 19:00**. El 6 de enero y el 24 y 31 de diciembre cierra a las 14:00.
+- **Comprueba que abre ese día.** No tiene día de cierre semanal, pero cierra el **1 de enero, el 1 de mayo y el 25 de diciembre**.
+- **Si vas por una exposición temporal,** compra con antelación y mira bien qué incluye tu entrada.
 
-[actividad: art-walk-pass-prado-reina-sofia-thyssen]
+No cuentes con que se liberen plazas a última hora: si una franja te interesa, cómprala en cuanto la veas libre.
 
-## Precio y horario del Museo del Prado
+## 2. La taquilla de la puerta de Goya
 
-La web oficial de venta es **entradas.museodelprado.es**, enlazada desde museodelprado.es.
+Las taquillas están junto a la **puerta de Goya**, en el lado norte del edificio, y venden al mismo precio que la web. Si ya llevas la entrada en el móvil, entras por la **puerta de los Jerónimos**, sin pasar por taquilla. En temporada alta la cola crece a media mañana: ve a la apertura o a primera hora de la tarde.
 
-- **General:** 15 €.
-- **Reducida:** 7,50 € (mayores de 65, carné joven y familia numerosa).
-- **Gratis siempre:** menores de 18, estudiantes de 18 a 25 y desempleados, acreditándolo en taquilla.
+## 3. La entrada gratuita y El Prado de noche
 
-**Horario:** de lunes a sábado de **10:00 a 20:00**, y domingos y festivos de **10:00 a 19:00**. El 6 de enero y el 24 y 31 de diciembre cierra a las 14:00. No tiene cierre semanal, pero **cierra el 1 de enero, el 1 de mayo y el 25 de diciembre**.
+Si solo quieres entrar gratis: en [Museo del Prado gratis](/guias/madrid/museo-del-prado-gratis) tienes el horario, quién entra gratis siempre, a qué hora ponerte a la cola y qué ver en esas dos horas.
 
-## Si las entradas del Museo del Prado están agotadas
+La colección permanente es **gratis las dos últimas horas de cada día**: de lunes a sábado de **18:00 a 20:00** y domingos y festivos de **17:00 a 19:00**. Las exposiciones temporales no son gratis en esas horas, pero cuestan la mitad. La entrada cierra **media hora antes del cierre**, así que en la práctica tienes hora y media.
 
-El Prado vende entradas con hora y casi nunca se queda sin plazas para todo el día. Lo que pasa, sobre todo en puentes, fines de semana y Semana Santa, es que **la franja que querías sale agotada**. Prueba en este orden:
+Las entradas gratuitas se recogen **en taquilla hasta completar aforo**, y ahí está el problema: la cola. Empieza a formarse mucho antes de la hora gratis y en domingos y festivos puede superar la hora de espera. Si vas, llega con tiempo y lleva una lista corta de obras: en hora y media da para Velázquez, Goya y El Bosco, poco más. También es gratis todo el día el **18 de mayo** (Día de los Museos) y el **19 de noviembre** (aniversario del museo).
 
-1. **Otras horas del mismo día** en la web oficial. Cada franja tiene su propio cupo y entrar a las 12:00 en vez de a las 10:00 no te quita museo. No cuentes con que se liberen plazas a última hora: si ves una libre, cómprala.
-2. **La taquilla de la puerta de Goya**, que vende al mismo precio para el mismo día (ver abajo).
-3. **Una entrada de reventa o una visita guiada.** Los revendedores autorizados compran cupos con antelación y suelen tener hueco: entrada con hora desde 18 €, [visita guiada con entrada](/ciudades/madrid/actividades/museo-prado-visita-guiada) desde 49 € o visita privada con guía oficial desde 146 €. Comprueba que la ficha diga **«entrada al Museo del Prado incluida»**: hay paseos que solo pasan por delante de la fachada.
+Otra opción menos conocida es **El Prado de noche**: el **primer sábado de cada mes**, de **20:30 a 23:30**, el museo abre gratis parte de sus salas, con entrada por la puerta de los Jerónimos y hasta completar aforo. La próxima edición es el sábado 7 de noviembre.
+
+## 4. Una entrada de reventa o una visita guiada
+
+Cuando la web oficial no tiene la hora que buscas, los revendedores autorizados suelen tener plazas porque compran sus cupos con antelación. Pagas más que en la web oficial:
+
+- **Entrada con hora sin guía (desde 18 €):** la opción más barata para asegurar la hora sin depender de la taquilla.
+- **Visita guiada con entrada (desde 49 €):** recorrido por las obras clave con guía, la mejor valorada de las que enlazamos.
+- **Visita privada con guía oficial (desde 146 €):** si vais en familia o en grupo pequeño y queréis ir a vuestro ritmo.
+
+Antes de pagar, comprueba en la ficha que diga **«entrada al Museo del Prado incluida»**. Hay paseos por el centro que solo pasan por delante de la fachada.
 
 [actividad: museo-prado-entrada]
 
-Si vas por una **exposición temporal**, compra con antelación y mira bien qué incluye tu entrada.
-
-## Entrada gratis y El Prado de noche
-
-La colección permanente es **gratis las dos últimas horas de cada día**: de lunes a sábado de **18:00 a 20:00** y domingos y festivos de **17:00 a 19:00**. Las temporales cuestan la mitad en esas horas. La entrada cierra **media hora antes**, así que tienes hora y media.
-
-Las entradas gratuitas no se reservan: se recogen **en taquilla hasta completar aforo**. La cola empieza mucho antes y en domingos y festivos puede superar la hora. Lleva una lista corta: Velázquez, Goya y El Bosco, poco más. También es gratis todo el día el **18 de mayo** (Día de los Museos) y el **19 de noviembre** (aniversario del museo). Todos los detalles, en [Museo del Prado gratis](/guias/madrid/museo-del-prado-gratis).
-
-**El Prado de noche:** el **primer sábado de cada mes**, de **20:30 a 23:30**, abre gratis parte de sus salas, con entrada por la puerta de los Jerónimos y hasta completar aforo.
-
 [actividad: museo-prado-visita-guiada]
 
-## Cómo llegar, taquilla y colas
+## 5. El abono Paseo del Arte
 
-El museo está en el Paseo del Prado, a **10-15 minutos a pie de Atocha**.
+Si también vas a ver el **Reina Sofía** y el **Thyssen**, el abono Paseo del Arte te da una visita a la colección permanente de cada uno durante un año. En las taquillas de los museos costaba **32,80 €** en 2025; la versión que enlazamos, que se compra online, sale desde 38 €. Para decidir cuál de los tres merece más tu tiempo, mira nuestra [comparativa del Prado, el Reina Sofía y el Thyssen](/guias/madrid/prado-reina-sofia-thyssen-comparativa).
 
-- **Taquillas:** junto a la **puerta de Goya**, en el lado norte del edificio. En temporada alta la cola crece a media mañana: ve a la apertura o a primera hora de la tarde.
-- **Con la entrada en el móvil** entras por la **puerta de los Jerónimos**, sin pasar por taquilla.
+[actividad: art-walk-pass-prado-reina-sofia-thyssen]
 
-## Consejos
+## Errores que hay que evitar
 
-- **Compra solo en la web oficial.** Hay muchas webs con «Prado» en el nombre que cobran de más.
-- **No llegues a la hora gratis justo a las 18:00:** la cola ya es larga y la entrada cierra a las 19:30 (los domingos, a las 18:30).
-- **Lleva el documento** si entras gratis o con reducida.
-- **Si vas a ver los tres grandes museos,** el abono Paseo del Arte incluye una visita a la colección permanente del Prado, el Reina Sofía y el Thyssen durante un año: costaba 32,80 € en taquilla en 2025, y online sale desde 38 €. Para elegir, mira la [comparativa del Prado, el Reina Sofía y el Thyssen](/guias/madrid/prado-reina-sofia-thyssen-comparativa).
-- Con poco presupuesto, en [Madrid gratis](/guias/madrid/madrid-gratis) tienes más museos sin pagar; y si también quieres ver el palacio, lee [qué hacer si el Palacio Real está agotado](/guias/madrid/palacio-real-madrid-entradas-agotadas).
+1. **Comprar en webs que imitan a la oficial.** Hay muchas con «Prado» en el nombre que cobran de más. La oficial es `entradas.museodelprado.es`.
+2. **Llegar a la hora gratis justo a las 18:00.** La cola ya es larga y la entrada cierra a las 19:30; los domingos, a las 18:30.
+3. **Olvidar el documento si entras gratis o con reducida.** Lo piden en taquilla para acreditar edad, estudios o situación.
+4. **Ir el 1 de enero, el 1 de mayo o el 25 de diciembre.** Son los únicos días del año en que cierra.
+
+## En una frase
+
+Si tu franja sale agotada, prueba otra hora en la web oficial o la taquilla de la puerta de Goya, y si no quieres colas reserva una entrada con hora o una visita guiada con la entrada incluida; si vas justo de presupuesto, en [Madrid gratis](/guias/madrid/madrid-gratis) tienes más museos sin pagar, y si también quieres ver el palacio, lee [qué hacer si el Palacio Real está agotado](/guias/madrid/palacio-real-madrid-entradas-agotadas).

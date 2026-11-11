@@ -4,14 +4,14 @@ descripcion: "Deine Uhrzeit im Guggenheim ist voll oder die Schlange an der Kass
 categoria: bilbao
 slug: guggenheim-bilbao-tickets-ausverkauft
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-10-27'
 autor: Borja
 publicada: true
 destacada: false
 datosComprobados: "2026-10-27"
 imagen_portada: /images/guias/guggenheim-bilbao-entradas-agotadas.jpg
 imagen_alt: "Gebäude des Guggenheim-Museums Bilbao am Ufer des Nervión, mit seinen geschwungenen Titanformen"
-tiempo_lectura: 3
+tiempo_lectura: 4
 keywords:
   - "guggenheim bilbao tickets ausverkauft"
   - "guggenheim bilbao keine tickets mehr"
@@ -26,22 +26,19 @@ slugs:
   it: guggenheim-bilbao-biglietti-esauriti
   pt: guggenheim-bilbao-bilhetes-esgotados
 reservasArriba: true
-intro: 'Dass die **Guggenheim Bilbao Tickets ausverkauft** sind, und zwar für den ganzen Tag, kommt selten vor: Meist ist nur dein Zeitfenster voll oder an der Kasse steht eine Schlange. Dranbleiben lohnt sich. Im Titanbau am Ufer des Nervión warten die Sammlung und die Wechselausstellungen, und draußen empfangen dich **Puppy**, die Riesenspinne **Maman** und die Nebelskulptur, die du kostenlos sehen kannst.'
-respuestaCorta: 'Wirken die **Guggenheim Bilbao Tickets ausverkauft**, ist fast immer nur dein Zeitfenster voll. Probiere eine andere Uhrzeit auf der offiziellen Website guggenheim-bilbao.eus (**12 €**, Audioguide inklusive) oder geh um **10:00 Uhr** zur Kasse. **Montags** ist geschlossen, außer an ausgewiesenen Tagen. Eine **Führung mit Eintritt** (ab 49 €) sichert dir den Einlass.'
+respuestaCorta: "Das Guggenheim ist selten komplett ausverkauft: Meist ist nur **deine Wunschuhrzeit** voll, oder an Wochenenden und Regentagen gibt es eine Schlange an der Kasse. Probier eine andere Uhrzeit auf der offiziellen Website `guggenheim-bilbao.eus` (**12 €**, Audioguide inklusive) oder geh gleich zur Öffnung. Wenn du kein Risiko eingehen willst, sichert dir eine **Führung mit Ticket** (ab 49 €) den Eintritt."
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido
 faq:
-- pregunta: Kann man Tickets für das Guggenheim am selben Tag an der Kasse kaufen?
-  respuesta: Ja, solange Plätze frei sind. Die Kassen schließen eine halbe Stunde vor dem Museum, also um 18:30 Uhr bei normalen Öffnungszeiten. An Wochenenden, zu Ostern, im Sommer und an Regentagen kaufst du dein Ticket besser vorab auf der offiziellen Website.
-- pregunta: An welchem Tag ist das Guggenheim Bilbao geschlossen?
-  respuesta: 'Montags, außer an einigen ausgewiesenen Montagen: 2026 war es an den Ostermontagen, an den Sommermontagen vom 15. Juni bis 7. September und am 12. Oktober geöffnet und öffnet noch am 7. und 28. Dezember. Am 25. Dezember und 1. Januar bleibt es ganztägig geschlossen.'
-- pregunta: Kann man ein Guggenheim-Ticket umtauschen oder zurückgeben?
-  respuesta: Laut Museum werden ausgestellte Tickets nicht erstattet. Wenn dein Datum noch nicht feststeht, warte mit dem Kauf, oder wähle eine Führung eines Anbieters, dessen Angebot eine Stornierung erlaubt.
-- pregunta: Kann man Werke des Guggenheim ohne Ticket sehen?
-  respuesta: Ja. Puppy von Jeff Koons steht auf dem Platz vor dem Eingang, und Maman von Louise Bourgeois, die Nebelskulptur von Fujiko Nakaya und Tall Tree & The Eye von Anish Kapoor sieht man von der Uferpromenade aus. Der Nebel kommt jede volle Stunde für acht Minuten.
-- pregunta: Gibt es einen Tag mit günstigerem Eintritt?
-  respuesta: Ja. Am letzten Tag jeder Wechselausstellung gibt es von 16:00 bis 19:00 Uhr 50 % Rabatt, allerdings ist es an diesem Tag meist voller. Unter 18-Jährige haben immer freien Eintritt.
+  - pregunta: "Kann man Tickets für das Guggenheim am selben Tag an der Kasse kaufen?"
+    respuesta: "Ja, solange Kapazität frei ist. Die Kassen schließen eine halbe Stunde vor Museumsschluss, also bei normalen Öffnungszeiten um 18:30 Uhr. An Wochenenden, in der Karwoche, im Sommer und an Regentagen solltest du das Ticket besser schon auf der offiziellen Website gekauft haben."
+  - pregunta: "An welchem Tag ist das Guggenheim Bilbao geschlossen?"
+    respuesta: "Montags, mit Ausnahme einiger festgelegter Montage: 2026 war es an den Montagen der Karwoche, an den Sommermontagen zwischen dem 15. Juni und dem 7. September sowie am 12. Oktober geöffnet und öffnet noch am 7. und 28. Dezember. Am 25. Dezember und am 1. Januar ist es ganztägig geschlossen."
+  - pregunta: "Kann man das Ticket für das Guggenheim umbuchen oder zurückgeben?"
+    respuesta: "Das Museum gibt an, dass der Preis bereits ausgestellter Tickets nicht erstattet wird. Wenn dein Datum noch nicht feststeht, warte mit dem Kauf, bis es sicher ist, oder wähle eine Führung bei einem Anbieter, dessen Beschreibung eine Stornierung erlaubt."
+  - pregunta: "Kann man Werke des Guggenheim ohne Ticket sehen?"
+    respuesta: "Ja. Puppy von Jeff Koons steht auf dem Platz vor dem Eingang, und Maman von Louise Bourgeois, die Nebelskulptur von Fujiko Nakaya und Tall Tree & The Eye von Anish Kapoor siehst du von der Uferpromenade aus. Der Nebel steigt jede volle Stunde acht Minuten lang auf."
 opciones:
   - ficha: guggenheim-bilbao-visita-guiada-entrada
     etiqueta: Am besten bewertet
@@ -49,65 +46,62 @@ opciones:
     etiqueta: Kleine Gruppe
 ---
 
+Dem Guggenheim Bilbao gehen fast nie für den ganzen Tag die Plätze aus. Was aber passiert, vor allem an Wochenenden, in der Karwoche, im Sommer und an Regentagen: **Deine Wunschuhrzeit ist schon voll**, oder die Schlange an der Kasse wird am mittleren Vormittag lang. Beides heißt nicht, dass du auf das Museum verzichten musst. Das sind die Möglichkeiten, in der Reihenfolge, in der du sie am besten probierst.
+
 ## Welche Option wählen?
 
 | Wenn du … suchst | Option | Ab |
 | --- | --- | --- |
 | Kleine Gruppe und mehr Zeit mit dem Guide | [VIP-Führung in kleiner Gruppe mit Ticket](/en/cities/bilbao/activities/guggenheim-bilbao-vip-small-group-tour), 4,5★ (763) | 95 € |
 
-## Tickets ausverkauft: andere Uhrzeit auf der offiziellen Website
+## 1. Schau noch einmal auf die offizielle Website
 
-Der offizielle Verkauf läuft über **guggenheim-bilbao.eus**, und das Museum empfiehlt, nur dort zu kaufen, um Betrug zu vermeiden. Das Guggenheim ist fast nie für den ganzen Tag ausgebucht: Voll wird, vor allem an Wochenenden, zu Ostern, im Sommer und an Regentagen, **die Uhrzeit, die du wolltest**.
+Der offizielle Verkauf läuft über `guggenheim-bilbao.eus`. Das Museum empfiehlt, nur dort zu kaufen, um Ticketbetrug zu vermeiden. An dem Tag, an dem wir es geprüft haben, kostete das reguläre Ticket **12 €** und das ermäßigte **6 €** (Studierende von 18 bis 26 Jahren, über 65-Jährige und Rentner, mit Nachweis an der Kasse). **Unter 18-Jährige haben freien Eintritt**, und **alle Tickets enthalten einen Audioguide**. Der Preis kann je nach Ausstellung schwanken, schau also nach dem Preis für deinen Tag.
 
-- **Schau dir andere Uhrzeiten am selben Tag an.** Früh am Morgen oder am späten Nachmittag ist meist mehr frei als zwischen 11:00 und 14:00 Uhr.
-- **Kauf erst, wenn dein Datum feststeht:** Das Museum **erstattet ausgestellte Tickets nicht**.
+- **Probier andere Uhrzeiten am selben Tag.** Wenn deine voll ist, ist früh am Morgen oder am späten Nachmittag meist mehr frei als zwischen 11:00 und 14:00 Uhr.
+- **Denk an die Öffnungszeiten:** Dienstag bis Sonntag von **10:00 bis 19:00 Uhr**. In der Karwoche und im Sommer (2026 vom 15. Juni bis 13. September) schließt das Museum um **20:00 Uhr**, am 24. und 31. Dezember um **17:00 Uhr**.
+- **Prüf, ob an dem Tag geöffnet ist.** Das Museum ist **montags** geschlossen, außer an festgelegten Montagen: im restlichen Jahr 2026 am **7. und 28. Dezember**. Geschlossen ist es außerdem am **25. Dezember und 1. Januar**.
+- **Wenn du es mit dem Museum der Schönen Künste kombinieren willst,** gibt es ein Kombiticket für **16 €** für Erwachsene.
 
-## Preise und Öffnungszeiten
+Kauf erst, wenn dein Datum feststeht: Das Museum gibt an, dass es **bereits ausgestellte Tickets nicht erstattet**.
 
-Stand bei unserer Prüfung:
+## 2. Die Museumskasse
 
-- **Normal:** 12 €.
-- **Ermäßigt:** 6 €, für Studierende von 18 bis 26 Jahren, über 65-Jährige und Rentner, mit Nachweis an der Kasse.
-- **Frei:** unter 18 Jahren.
-- **Alle Tickets enthalten einen Audioguide.** Der Preis kann je nach Ausstellung variieren: Prüfe den Preis für deinen Tag.
-- **Kombiticket mit dem Museum der Schönen Künste (Bellas Artes):** 16 € für Erwachsene.
+Wenn du online keine Uhrzeit findest, kannst du es an der Kasse probieren, die verkauft, solange Kapazität frei ist. Sie schließt **eine halbe Stunde vor dem Museum** (bei normalen Öffnungszeiten um 18:30 Uhr), und die Säle werden eine Viertelstunde vor Schluss geräumt. In der Hochsaison geh zur Öffnung um 10:00 Uhr: Dann ist am wenigsten los.
 
-**Öffnungszeiten:** Dienstag bis Sonntag, **10:00 bis 19:00 Uhr**. Zu Ostern und im Sommer (15. Juni bis 13. September 2026) schließt es um **20:00 Uhr**, am 24. und 31. Dezember um **17:00 Uhr**.
+Ein Tipp für Spontane: Am **letzten Tag jeder Sonderausstellung** gibt es von **16:00 bis 19:00 Uhr** **50 % Rabatt** auf den Eintritt. Allerdings ist an diesem Tag meist mehr los.
 
-**Montags geschlossen**, außer an den im Kalender ausgewiesenen Tagen: im Rest von 2026 am **7. und 28. Dezember**. Geschlossen ist auch am **25. Dezember und 1. Januar**.
+## 3. Die kostenlosen Werke im Außenbereich
 
-## Schlange an der Guggenheim-Kasse: wann hingehen
+Auch wenn du nicht hineinkommst, ist der Besuch am Gebäude nicht verloren. Mehrere Werke der Sammlung stehen draußen und sind kostenlos zu sehen:
 
-Findest du online keinen Termin, verkauft die Kasse, solange Plätze frei sind. Sie schließt **eine halbe Stunde vor dem Museum** (18:30 Uhr bei normalen Zeiten), und die Säle werden eine Viertelstunde vor Schluss geräumt. In der Hochsaison geh zur **Öffnung um 10:00 Uhr**: Dann ist am wenigsten los.
+- **Puppy** von Jeff Koons, der Blumenhund, der dich auf dem Platz vor dem Eingang empfängt.
+- **Maman**, die riesige Spinne von Louise Bourgeois, auf der Terrasse am Fluss.
+- Die **Nebelskulptur** von Fujiko Nakaya, ebenfalls am Fluss: Sie wird **jede volle Stunde acht Minuten lang** aktiviert.
+- **Tall Tree & The Eye** von Anish Kapoor, 73 verspiegelte Stahlkugeln über dem Wasserbecken.
 
-Ein Tipp für Kurzentschlossene: Am **letzten Tag jeder Wechselausstellung** gibt es von **16:00 bis 19:00 Uhr 50 % Rabatt**. Allerdings ist es an diesem Tag meist voller.
+Für eine Runde um das Museum über die Uferpromenade brauchst du eine halbe Stunde, und von der Brücke La Salve hast du den besten Blick auf das Gebäude.
 
-## Führung mit Eintritt: die Last-Minute-Lösung
+## 4. Eine Führung mit Ticket
 
-Wenn die offizielle Website deine Uhrzeit nicht mehr hat, haben Anbieter oft noch Plätze, weil sie ihre Kontingente im Voraus buchen. Du zahlst mehr als für das Ticket allein, gehst aber mit der Gruppe zu einer festen Zeit hinein, und jemand erklärt dir, was du siehst. Die Führung mit Eintritt gibt es **ab 49 €**, die VIP-Tour in kleiner Gruppe **ab 95 €**.
+Wenn die offizielle Website die gewünschte Uhrzeit nicht mehr hat, haben die Anbieter meist noch Plätze, weil sie ihre Kontingente im Voraus reservieren. Du zahlst mehr als für das Ticket allein, gehst aber mit der Gruppe zu einer festen Uhrzeit hinein, und jemand erklärt dir, was du siehst:
 
-Prüfe vor dem Bezahlen, ob im Angebot **„Museumseintritt inklusive“** steht, und schau dir die Stornobedingungen an: Manche Touren zeigen nur das Äußere.
+- **Führung auf Spanisch mit Ticket (ab 49 €):** die am besten bewertete unter denen, die wir verlinken, mit einem Guide, der dich zu den wichtigsten Werken und durch das Gebäude führt.
+- **VIP-Führung in kleiner Gruppe mit Ticket (ab 95 €):** kleinere Gruppen, damit du in Ruhe Fragen stellen und dich besser durch die Säle bewegen kannst.
+
+Prüf vor dem Bezahlen in der Beschreibung, ob **„Eintritt ins Museum inklusive“** steht, und schau dir die Stornobedingungen an: Manche Führungen zeigen nur den Außenbereich.
 
 [actividad: guggenheim-bilbao-visita-guiada-entrada]
 
 [actividad: guggenheim-bilbao-vip-grupo-reducido]
 
-## Ohne Ticket: die kostenlosen Werke draußen
+## Fehler, die du vermeiden solltest
 
-Auch ohne Eintritt musst du auf das Gebäude nicht verzichten. Mehrere Werke der Sammlung stehen draußen und sind kostenlos zu sehen:
+1. **Auf Websites kaufen, die die offizielle nachahmen.** Das Museum warnt selbst vor Ticketbetrug. Die offizielle Website ist `guggenheim-bilbao.eus`.
+2. **An einem Montag hingehen, ohne es zu prüfen.** Das Museum ist fast jeden Montag im Jahr geschlossen; es öffnet nur an den in seinem Kalender festgelegten.
+3. **Um 18:30 Uhr ankommen und noch hineinwollen.** Die Kasse ist dann schon zu, und die Säle werden um 18:45 Uhr geräumt.
+4. **Kaufen, ohne dass das Datum feststeht.** Ausgestellte Tickets werden nicht erstattet.
 
-- **Puppy** von Jeff Koons, der Blumenhund auf dem Platz vor dem Eingang.
-- **Maman**, die Riesenspinne von Louise Bourgeois, auf der Terrasse am Fluss.
-- **Nebelskulptur** von Fujiko Nakaya, am Fluss: Sie läuft **jede volle Stunde acht Minuten lang**.
-- **Tall Tree & The Eye** von Anish Kapoor, 73 verspiegelte Stahlkugeln über dem Wasserbecken.
+## In einem Satz
 
-Einmal um das Museum an der Uferpromenade dauert **eine halbe Stunde**, und von der **Brücke La Salve** hast du den besten Blick auf das Gebäude.
-
-## Tipps und Fehler, die du vermeiden solltest
-
-1. **Auf Websites kaufen, die die offizielle nachahmen.** Das Museum selbst warnt vor Ticketbetrug. Offiziell ist guggenheim-bilbao.eus.
-2. **Montags ungeprüft hingehen.** Fast jeden Montag im Jahr ist geschlossen.
-3. **Um 18:30 Uhr ankommen und noch hinein wollen.** Die Kasse ist dann zu, und die Säle leeren sich um 18:45 Uhr.
-4. **Ohne festes Datum kaufen.** Ausgestellte Tickets werden nicht erstattet.
-
-Für den Rest des Tages hast du [Bilbao an einem Tag](/de/guides/bilbao/bilbao-in-einem-tag) und unsere [Ausflüge ab Bilbao](/de/guides/bilbao/ausfluege-ab-bilbao).
+Wenn deine Uhrzeit voll ist, probier eine andere auf der offiziellen Website oder geh um 10:00 Uhr zur Kasse, und wenn du keine Schlange willst, buche eine Führung mit inkludiertem Ticket; in der Zwischenzeit siehst du Puppy, Maman und den Nebel kostenlos von außen, und für den Rest des Tages hast du [Bilbao an einem Tag](/de/guides/bilbao/bilbao-in-einem-tag) und unsere [Ausflüge ab Bilbao](/de/guides/bilbao/ausfluege-ab-bilbao).

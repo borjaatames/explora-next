@@ -5,7 +5,7 @@ metaTitle: 'Bilhetes Alcázar de Segóvia: preço e grátis'
 categoria: madrid
 slug: alcazar-segovia-bilhetes-esgotados
 fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-06'
 autor: Borja
 publicada: true
 destacada: false
@@ -28,29 +28,28 @@ slugs:
   it: alcazar-segovia-biglietti-esauriti
   pt: alcazar-segovia-bilhetes-esgotados
 reservasArriba: true
-intro: 'Os **bilhetes do Alcázar de Segóvia** abrem o castelo erguido sobre a rocha, acima do vale do Eresma, com as suas torres e coruchéus de ardósia. Lá dentro visitam-se o **Palácio**, o **Museu de Artilharia** e, se tiver fôlego, a **Torre de Juan II**, com vista para a catedral e a serra. Fica a menos de meia hora de Madrid de comboio e a visita demora **cerca de uma hora**.'
-respuestaCorta: 'Os bilhetes do Alcázar de Segóvia custam **7 €** (Palácio e Museu) e **10 €** com a **Torre de Juan II**, em entradas.alcazardesegovia.com. A Torre esgota primeiro aos fins de semana e em pontes: compre só Palácio e Museu ou vá à **bilheteira**. Os cidadãos da UE entram **grátis às terças das 14:00 às 16:00**.'
+respuestaCorta: 'A entrada no Palácio e no Museu custa **7 €**, e **10 €** se juntar a **Torre de Juan II**, em `entradas.alcazardesegovia.com`. O que esgota primeiro são os bilhetes com Torre aos fins de semana e nas pontes. Se lhe acontecer, compre só Palácio + Museu ou vá à **bilheteira**. Os cidadãos da UE entram **grátis às terças das 14h00 às 16h00** (sem Torre e só na bilheteira). E uma **excursão desde Madrid com o bilhete incluído** garante-lhe a visita desde 41 €.'
 actividades:
   - excursion-toledo-segovia-alcazar
   - excursion-avila-segovia-con-entradas
   - segovia-tour-privado-coche-desde-madrid
 faq:
-- pregunta: Quanto custa a entrada no Alcázar de Segóvia?
-  respuesta: A entrada geral no Palácio e no Museu de Artilharia custa 7 € (5 € reduzida). A completa, com a Torre de Juan II, custa 10 € (8 € reduzida). Menores de 6 anos entram grátis. O audioguia e a visita guiada em espanhol custam mais 3,50 € cada.
-- pregunta: Quando é grátis o Alcázar de Segóvia?
-  respuesta: Às terças das 14:00 às 16:00 para cidadãos da União Europeia, exceto feriados. Inclui o Palácio e o Museu, não a Torre, e o bilhete levanta-se na bilheteira nesse horário.
+- pregunta: Quanto custa o bilhete para o Alcázar de Segóvia?
+  respuesta: 'O bilhete geral para o Palácio e o Museu de Artilharia custa 7 € (5 € reduzido). O completo, com a Torre de Juan II, custa 10 € (8 € reduzido). Os menores de 6 anos entram grátis. O audioguia e a visita guiada em espanhol custam mais 3,50 € cada.'
+- pregunta: Quando é que o Alcázar de Segóvia é grátis?
+  respuesta: 'Às terças das 14h00 às 16h00 para cidadãos da União Europeia, exceto feriados. Inclui o Palácio e o Museu, não a Torre, e o bilhete tira-se na bilheteira nesse horário.'
 - pregunta: Vale a pena subir à Torre de Juan II?
   respuesta: 'Se conseguir subir 152 degraus por uma escada de caracol estreita, sim: lá de cima vê a catedral, a serra e o vale do Eresma. A visita à Torre dura no máximo 25 minutos. Não é acessível a pessoas com mobilidade reduzida.'
-- pregunta: O que se vê do Alcázar sem bilhete?
-  respuesta: A esplanada, o fosso e a ponte de entrada são de acesso livre, tal como os jardins da praça da Reina Victoria Eugenia (das 8:00 às 22:00). A melhor vista do Alcázar inteiro é lá de baixo, no vale do Eresma junto à Vera Cruz.
-- pregunta: O que fazer se os bilhetes do Alcázar de Segóvia estiverem esgotados?
-  respuesta: Se a completa com Torre não aparecer, compre só Palácio e Museu, o essencial da visita. Se não houver nada online, tente a bilheteira, que vende para o próprio dia, ou reserve desde Madrid uma excursão com a entrada no Alcázar incluída.
+- pregunta: O que se pode ver do Alcázar sem bilhete?
+  respuesta: 'A esplanada, o fosso e a ponte de entrada são de acesso livre, tal como os jardins da plaza de la Reina Victoria Eugenia (das 8h00 às 22h00). A melhor vista do Alcázar inteiro é de baixo, no vale do Eresma junto à Vera Cruz.'
 opciones:
   - ficha: excursion-toledo-segovia-alcazar
     etiqueta: A mais escolhida
   - ficha: excursion-avila-segovia-con-entradas
     etiqueta: Com mais bilhetes
 ---
+
+O Alcázar de Segóvia vende os bilhetes no seu site oficial, e o próprio site avisa que aos fins de semana, pontes e feriados esgotam, sobretudo os que incluem a Torre de Juan II. Quase sempre resta alguma forma de entrar nesse dia. Convém experimentá-las por esta ordem.
 
 ## Que bilhete escolher?
 
@@ -60,56 +59,53 @@ opciones:
 | Mais monumentos incluídos | [Ávila e Segóvia com bilhetes incluídos](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets), 4,6★ (4.805) | 79 € |
 | Só para vocês | [Tour privado de carro com guia oficial](/en/cities/madrid/activities/segovia-private-tour-by-car-from-madrid) | 1.649 € por grupo |
 
-## O que vai ver
+## 1. Volte a ver o site oficial
 
-- **O Palácio e o Museu de Artilharia:** o essencial da visita, cerca de **40-45 minutos**.
-- **A Torre de Juan II:** **152 degraus** por uma escada de caracol estreita e sem patamares. Lá de cima vê-se a catedral, a serra e o vale do Eresma. A visita dura no máximo 25 minutos e não é acessível a pessoas com mobilidade reduzida.
+O site oficial de venda é `entradas.alcazardesegovia.com`. Preços de 2026:
 
-Não há bilhete só para a Torre: vai sempre incluída no bilhete completo.
-
-## Alcázar de Segóvia: preço e horário
-
-Os bilhetes vendem-se no site oficial, **entradas.alcazardesegovia.com**. Preços de 2026:
-
-- **Palácio + Museu de Artilharia:** 7 € geral, 5 € reduzida.
-- **Completa (Palácio + Museu + Torre de Juan II):** 10 € geral, 8 € reduzida.
-- **Reduzida:** dos 6 aos 16 anos, estudantes, famílias numerosas, desempregados, maiores de 65 e pessoas com deficiência a partir de 33 %.
+- **Palácio + Museu de Artilharia:** 7 € geral, 5 € reduzido.
+- **Completo (Palácio + Museu + Torre de Juan II):** 10 € geral, 8 € reduzido.
+- **Reduzido:** dos 6 aos 16 anos, estudantes, famílias numerosas, desempregados, maiores de 65 e pessoas com deficiência a partir de 33 %.
 - **Grátis:** menores de 6 anos e pessoas com deficiência a partir de 65 %, com um acompanhante se precisarem.
-- **Extras:** audioguia em 12 línguas ou visita guiada em espanhol, 3,50 € cada. Pedem-se na bilheteira mesmo que tenha comprado online.
+- **Extras:** audioguia em 12 idiomas ou visita guiada em espanhol, 3,50 € cada. Pedem-se na bilheteira mesmo que tenha comprado o bilhete online.
 
-**Horário:** de 1 de novembro a 31 de março, das **10:00 às 18:00**; de 1 de abril a 31 de outubro, das **10:00 às 19:30**. A bilheteira e o acesso fecham 30 minutos antes. A 24 e 31 de dezembro abre das 10:00 às 14:30, e a 25 de dezembro fecha.
+Não há bilhete só para a Torre. Se o completo aparecer esgotado, compre **Palácio + Museu**: é o essencial da visita, cerca de 40-45 minutos.
 
-## Alcázar de Segóvia grátis: às terças, e o que vê sem bilhete
+**Horário:** de 1 de novembro a 31 de março, das 10h00 às 18h00; de 1 de abril a 31 de outubro, das 10h00 às 19h30. A bilheteira e o acesso fecham 30 minutos antes. A 24 e 31 de dezembro abre das 10h00 às 14h30, e a 25 de dezembro está fechado.
 
-Se for **cidadão da UE**, o Palácio e o Museu são **grátis às terças das 14:00 às 16:00**, exceto feriados. O bilhete levanta-se na bilheteira nesse horário, depende da lotação e não inclui a Torre.
+## 2. A bilheteira e as terças grátis
 
-Sem bilhete também se vê muito:
+A **bilheteira** vende bilhetes para o próprio dia. Na época alta a fila cresce a meio da manhã: chegue à abertura ou a partir das 16h00.
 
-- A **esplanada, o fosso e a ponte** de entrada, de acesso livre.
-- Os **jardins da praça da Reina Victoria Eugenia**, junto ao Alcázar, das 8:00 às 22:00.
-- **A vista de baixo**: desça ao vale do Eresma, junto à igreja da Vera Cruz, para ver o Alcázar inteiro sobre a rocha. À noite está iluminado, visível da estrada dos Altos de la Piedad.
+Se for **cidadão da UE**, o Palácio e o Museu são **grátis às terças das 14h00 às 16h00**, exceto feriados. O bilhete tira-se na bilheteira nesse horário, depende da lotação e não inclui a Torre.
 
-## Se os bilhetes do Alcázar de Segóvia estiverem esgotados
+## 3. Uma excursão com o bilhete incluído
 
-O próprio site oficial avisa que aos fins de semana, pontes e feriados os bilhetes esgotam, sobretudo os que incluem a Torre. Quase sempre há forma de entrar nesse dia:
-
-1. **Volte a ver o site oficial** e, se a completa não aparecer, compre **Palácio + Museu**: é o principal da visita.
-2. **Vá à bilheteira**, que vende para o próprio dia. Na época alta a fila cresce a meio da manhã: chegue à abertura ou depois das 16:00.
-3. **Reserve uma excursão com a entrada incluída** se vem de Madrid: o operador reserva com antecedência e leva-o e traz. Confirme que diz **«entrada no Alcázar incluída»**: há excursões que só passam à porta.
+Se vem de Madrid, é a opção mais segura: o operador reserva os bilhetes com antecedência e leva-o e traz-o. Antes de pagar, confirme na ficha que diz **«bilhete para o Alcázar incluído»**: há excursões que só passam em frente.
 
 [actividad: excursion-toledo-segovia-alcazar]
 
-## Como chegar desde Madrid
+## 4. Ir por conta própria desde Madrid
 
-- **Comboio de alta velocidade (Avant)** de Chamartín a Segovia-Guiomar: menos de 30 minutos. A estação fica a uns 13 km do centro; o autocarro urbano 11 deixa-o no Aqueduto.
-- **Autocarro da La Sepulvedana** desde o terminal de Moncloa: pouco mais de uma hora, com partidas durante todo o dia, e deixa-o a 10 minutos a pé do Aqueduto.
+- **Comboio de alta velocidade (Avant)** de Chamartín a Segovia-Guiomar: menos de 30 minutos. A estação fica a cerca de 13 km do centro; o autocarro urbano 11 deixa-o no Aqueduto.
+- **Autocarro da La Sepulvedana** desde o interface de Moncloa: pouco mais de uma hora, com partidas durante todo o dia, e deixa-o a 10 minutos a pé do Aqueduto.
 
 Do Aqueduto ao Alcázar são cerca de 20 minutos a pé pela calle Real, passando pela Plaza Mayor e pela Catedral.
 
-## Dicas
+## 5. O que vê sem bilhete
 
-- **Compre só no site oficial.** Há revendedores com preços que não existem, como bilhetes só para a Torre.
-- **Se quer a Torre, compre cedo:** é a primeira a esgotar e tem lotação limitada.
-- **Pense bem com crianças pequenas ou problemas de joelhos:** os 152 degraus em caracol são estreitos e sem patamares.
-- **Não conte com entrada grátis numa terça que seja feriado.**
-- O que mais ver na cidade contamos em [O que ver em Segóvia num dia](/pt/guides/madrid/o-que-ver-em-segovia-num-dia).
+- A **esplanada, o fosso e a ponte** de entrada são de acesso livre.
+- Os **jardins da plaza de la Reina Victoria Eugenia**, junto ao Alcázar, abrem das 8h00 às 22h00.
+- A **vista de baixo**: desça ao vale do Eresma, junto à igreja da Vera Cruz, para ver o Alcázar inteiro sobre o rochedo. À noite vê-se iluminado a partir da estrada dos Altos de la Piedad.
+- O **Aqueduto** e o exterior da **Catedral** estão na rua.
+
+## Erros a evitar
+
+1. **Comprar em sites que não são o oficial.** Há agregadores com preços que não existem, como bilhetes só para a Torre. O oficial é `entradas.alcazardesegovia.com`.
+2. **Chegar tarde à Torre.** É o que esgota primeiro e tem lotação limitada.
+3. **Subir à Torre com crianças pequenas ou problemas de joelhos.** São 152 degraus em caracol, estreitos e sem patamares.
+4. **Ir buscar a entrada gratuita numa terça-feira que seja feriado.** Nesse dia não há gratuidade.
+
+## Numa frase
+
+Se o bilhete com Torre aparecer esgotado, compre Palácio + Museu ou experimente a bilheteira e, se vem de Madrid e não quer arriscar, reserve uma excursão com o bilhete incluído; o que mais ver na cidade contamos em [O que ver em Segóvia num dia](/pt/guides/madrid/o-que-ver-em-segovia-num-dia).

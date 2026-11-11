@@ -5,7 +5,7 @@ metaTitle: 'Billets Sagrada Família épuisés : que faire'
 categoria: barcelona
 slug: sagrada-familia-billets-epuises
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -27,8 +27,7 @@ slugs:
   it: sagrada-familia-biglietti-esauriti
   pt: sagrada-familia-bilhetes-esgotados
 reservasArriba: true
-intro: 'Trouver les **billets de la Sagrada Família épuisés** arrive souvent en été, à Pâques et pendant les ponts, mais cela ne veut pas dire rester dehors. La basilique de Gaudí, avec sa nef aux colonnes en forme d''arbres, ses **vitraux colorés** et la crypte où il repose, reste accessible par d''autres moyens, et même sans entrer, ses deux façades valent la promenade. La visite intérieure dure de 1 h 30 à 2 heures.'
-respuestaCorta: 'Les **billets de la Sagrada Família** sortent **environ deux mois avant** et il n''y a pas de guichet. S''ils sont **épuisés**, revenez sur le site et l''appli (des places se libèrent), essayez les **QR codes** autour de la basilique ou réservez une **visite avec billet inclus** (contingent propre). La **messe internationale** est gratuite, mais ce n''est pas une visite.'
+respuestaCorta: 'Les billets officiels sont mis en vente **environ deux mois avant** et il n''y a pas de guichet. S''ils sont épuisés, retournez sur le site et l''appli (des échanges et remboursements libèrent des places), essayez les **QR codes d''achat** autour de la basilique s''il reste de la place, ou réservez une **visite avec l''entrée incluse**, qui dispose de son propre quota. La **messe internationale** du dimanche à 9 h est gratuite, mais ce n''est pas une visite.'
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
   - entrada-sagrada-familia-audioguia
@@ -37,16 +36,14 @@ actividades:
   - barcelona-un-dia-sagrada-familia-park-guell
   - sagrada-familia-tour-con-torre
 faq:
-- pregunta: Peut-on acheter des billets de la Sagrada Família sur place ?
-  respuesta: Il n'y a pas de guichet. Autour de la basilique, des QR codes permettent l'achat direct, mais seulement s'il reste de la place à ce moment-là, ce qui est rarement le cas en haute saison.
+- pregunta: Peut-on acheter des billets pour la Sagrada Família à l'entrée ?
+  respuesta: Il n'y a pas de guichet. Autour de la basilique, il y a des QR codes d'achat direct, mais ils ne fonctionnent que s'il reste de la place à ce moment-là, et en haute saison, en général, il n'y en a plus.
 - pregunta: Combien de temps à l'avance les billets sont-ils mis en vente ?
-  respuesta: Selon le site officiel, environ deux mois avant. Pour juillet, août, Pâques et les ponts, achetez-les dès leur sortie.
+  respuesta: Selon le site officiel, environ deux mois à l'avance. Pour juillet, août, la Semaine sainte et les ponts, achetez-les dès leur mise en vente.
 - pregunta: Peut-on entrer gratuitement à la Sagrada Família pendant la messe ?
-  respuesta: 'La messe internationale des dimanches et jours fériés à 9 h et celle du samedi à 20 h sont en entrée libre dans la limite des places, par la façade de la Nativité. C''est une célébration religieuse, pas une visite : on ne peut pas parcourir la basilique ni prendre de photos pendant la messe.'
-- pregunta: Que se passe-t-il si j'arrive en retard ?
-  respuesta: 'Le billet n''est valable que pour l''heure choisie et, en retard, on ne vous laisse pas entrer. Prévoyez de la marge : il y a d''abord un contrôle de sécurité.'
-- pregunta: Combien coûte une visite avec billet inclus ?
-  respuesta: 'Plus que le billet officiel à 26 € : le billet avec audioguide en revente coûte dès 34 €, la visite guidée avec tour dès 75 €, la visite guidée en petit groupe dès 99 € et la visite avec le Park Güell dès 104 €.'
+  respuesta: 'La messe internationale des dimanches et jours fériés à 9 h et celle du samedi à 20 h sont en entrée libre dans la limite des places, par la façade de la Nativité. C''est une célébration religieuse, pas une visite : on ne peut ni parcourir la basilique ni prendre de photos pendant la messe.'
+- pregunta: Que se passe-t-il si j'arrive en retard à mon horaire ?
+  respuesta: 'Le billet n''est valable que pour l''heure choisie et, si vous arrivez en retard, on ne vous laisse pas entrer. Prévoyez de la marge : il y a un contrôle de sécurité avant.'
 opciones:
   - ficha: entrada-sagrada-familia-audioguia
     etiqueta: La moins chère
@@ -55,6 +52,8 @@ opciones:
   - ficha: sagrada-familia-visita-guiada-grupo-reducido
     etiqueta: Petit groupe
 ---
+
+La Sagrada Família vend ses billets **uniquement en ligne et avec horaire**, environ **deux mois à l'avance**, et en été, pendant la Semaine sainte et les ponts, les bons créneaux partent dès leur mise en vente. Si le site officiel affiche « complet », il reste des options, et il vaut mieux les essayer dans cet ordre.
 
 ## Quel billet choisir ?
 
@@ -65,62 +64,50 @@ opciones:
 | Sagrada Família et Park Güell | [Visite coupe-file des deux](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour), 4,8★ (6 776) | 104 € |
 | Avec montée à une tour | [Visite guidée avec tour](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access), 4,4★ (5 518) | 75 € |
 
-## Prix et date de mise en vente
+## 1. Retournez sur le site et l'appli officiels
 
-La Sagrada Família vend **uniquement en ligne et avec créneau**, sur sagradafamilia.org, environ **deux mois à l'avance**. En été, à Pâques et pendant les ponts, les bons créneaux partent dès leur sortie.
+Le billet de base coûte **26 €** sur `sagradafamilia.org` (30 € avec visite guidée, 36 € avec tour et 40 € avec guide et tour). S'il est épuisé :
 
-- **Billet de base :** 26 €.
-- **Avec visite guidée :** 30 €.
-- **Avec tour :** 36 €.
-- **Avec guide et tour :** 40 €.
+- **Regardez plusieurs jours de suite.** Les échanges et remboursements se demandent 48 heures à l'avance, ce qui libère des places isolées.
+- **Essayez l'appli officielle**, qui vend les mêmes billets et est plus pratique pour vérifier souvent.
+- **Soyez flexible sur l'heure :** les premiers créneaux du matin et ceux de fin de journée sont les plus demandés.
+- **Si vous êtes en groupe, séparez-vous :** il reste souvent des places pour une ou deux personnes même quand il n'y en a pas quatre ensemble.
 
-En retard, on ne vous laisse pas entrer, et il y a d'abord un contrôle de sécurité : prévoyez de la marge.
+## 2. Les QR codes autour de la basilique
 
-## Billets de dernière minute : site, appli et QR codes
+Il n'y a pas de guichet, mais autour de la basilique se trouvent des **QR codes d'achat direct**. Ils ne fonctionnent que s'il reste de la place à ce moment-là : c'est donc une option pour la basse saison ou les premières heures, pas un plan sûr en août.
 
-Si le site officiel affiche « complet », n'abandonnez pas au premier essai :
+## 3. Une visite avec l'entrée incluse
 
-- **Regardez plusieurs jours d'affilée.** Les modifications et remboursements se demandent 48 heures avant, donc des places isolées se libèrent.
-- **Essayez l'appli officielle**, qui vend les mêmes billets et se consulte plus facilement.
-- **Soyez souple sur l'heure :** les premiers créneaux du matin et les derniers de la journée sont les plus demandés.
-- **En groupe, séparez-vous :** il reste souvent des places pour une ou deux personnes même quand il n'y en a pas quatre ensemble.
+Les opérateurs agréés achètent leurs quotas à l'avance, ils ont donc généralement des places quand le site officiel n'en a plus. Ils coûtent plus cher que le billet officiel, mais incluent l'entrée avec horaire et, pour les visites guidées, l'explication du symbolisme des façades et des vitraux.
 
-**Il n'y a pas de guichet**, mais autour de la basilique se trouvent des **QR codes d'achat direct**. Ils ne fonctionnent que s'il reste de la place à ce moment-là : utile en basse saison ou tôt le matin, pas un plan sûr en août.
-
-## Visite de la Sagrada Família avec billet inclus
-
-Les opérateurs agréés achètent leurs contingents à l'avance et ont donc souvent des places quand le site officiel n'en a plus. Ils coûtent plus cher que le billet officiel, mais incluent l'entrée avec créneau et, pour les visites guidées, l'explication du symbolisme des façades et des vitraux :
-
-- **Billet avec audioguide en revente :** dès 34 €.
-- **Visite guidée avec montée à une tour :** dès 75 €.
-- **Visite guidée en petit groupe :** dès 99 €.
-- **Visite coupe-file Sagrada Família et Park Güell :** dès 104 €.
-
-Avant de payer, vérifiez qu'il est écrit **« billet inclus »** et que la visite se fait **à l'intérieur** : certaines balades ne montrent que les façades.
+Avant de payer, vérifiez que la fiche indique **« entrée incluse »** et que la visite se fait **à l'intérieur** : certaines promenades ne montrent les façades que de l'extérieur.
 
 [actividad: sagrada-familia-visita-guiada-grupo-reducido]
 
-## La messe à la Sagrada Família : entrer sans billet
+## 4. Les messes internationales
 
 La **messe internationale** des dimanches et jours fériés à **9 h** et celle du samedi à **20 h** sont en **entrée libre dans la limite des places**, par la façade de la Nativité (rue de la Marina). Elle est célébrée en plusieurs langues.
 
-C'est une célébration religieuse, pas une visite : vous entrez dans la nef, mais vous ne pouvez ni parcourir la basilique, ni monter aux tours, ni prendre de photos pendant la messe, et une tenue correcte est demandée. Arrivez tôt, les places partent vite.
+C'est une célébration religieuse, pas une visite : vous entrez dans la nef, mais vous ne pouvez ni parcourir la basilique ni monter aux tours, et l'on demande du respect et une tenue adaptée. Arrivez en avance, car les places se remplissent.
 
-## La Sagrada Família sans billet : ce qu'on voit de l'extérieur
+## 5. Ce que vous voyez de l'extérieur
 
-Même sans entrer, la promenade vaut le coup :
+Même sans entrer, la Sagrada Família vaut la promenade :
 
-- La **façade de la Nativité**, celle de Gaudí, plus belle le matin depuis la plaça de Gaudí, avec le bassin devant.
-- La **façade de la Passion**, depuis la plaça de la Sagrada Família, avec les sculptures anguleuses de Subirachs.
-- L'**avinguda de Gaudí**, qui relie la basilique à l'Hospital de Sant Pau, autre chef-d'œuvre moderniste qui a généralement des billets.
+- La **façade de la Nativité**, celle de Gaudí, plus belle le matin depuis la place de Gaudí, avec le bassin au premier plan.
+- La **façade de la Passion**, depuis la place de la Sagrada Família, avec les sculptures anguleuses de Subirachs.
+- L'**avenue de Gaudí**, qui relie la basilique à l'hôpital de Sant Pau, autre œuvre moderniste pour laquelle on trouve généralement des billets.
 
-Si vous voulez Gaudí à l'intérieur, la **Casa Batlló** et **La Pedrera** vendent leurs billets avec plus de marge.
+Si c'est Gaudí de l'intérieur que vous cherchez, la **Casa Batlló** et **La Pedrera** vendent leurs billets avec plus de marge.
 
-## Les erreurs à éviter
+## Erreurs à éviter
 
-1. **Acheter sur des sites qui imitent le site officiel.** Ils ajoutent des frais.
-2. **Réserver une visite sans vérifier qu'elle entre dans la basilique.** Les balades « extérieures » sont moins chères pour une raison.
-3. **Arriver juste à l'heure.** Le billet ne vaut que pour votre créneau et il y a un contrôle de sécurité.
-4. **Venir en short ou les épaules nues.** Il y a un code vestimentaire et l'entrée peut vous être refusée.
+1. **Acheter sur des sites qui imitent le site officiel.** Ils appliquent des suppléments. Le site officiel est `sagradafamilia.org`.
+2. **Réserver une visite sans vérifier qu'elle entre dans la basilique.** Si les promenades « extérieures » sont moins chères, ce n'est pas un hasard.
+3. **Arriver juste à l'heure.** Le billet n'est valable que pour votre horaire et il y a un contrôle de sécurité.
+4. **Venir en short ou les épaules découvertes.** Il y a un code vestimentaire et l'on peut vous refuser l'entrée.
 
-Horaires, choix de la tour et ce qu'il faut voir à l'intérieur : tout est dans [comment visiter la Sagrada Família](/fr/guides/barcelona/sagrada-familia-comment-la-visiter).
+## En une phrase
+
+Si le site officiel est complet, consultez-le plusieurs jours de suite, essayez les QR codes autour de la basilique et, sans succès, réservez une visite avec l'entrée incluse ; le reste se trouve dans [comment visiter la Sagrada Família](/fr/guides/barcelona/sagrada-familia-comment-la-visiter).

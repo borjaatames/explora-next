@@ -4,14 +4,14 @@ descripcion: "Natal em Valência 2026: espetáculos pirotécnicos aos sábados �
 categoria: "valencia"
 slug: "natal-em-valencia"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-11-01"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/valencia/noche/plaza-ayuntamiento-noche.webp"
 imagen_alt: "A Plaza del Ayuntamiento de Valência à noite, com o edifício da Câmara Municipal iluminado e as ruas do centro"
-tiempo_lectura: 5
+tiempo_lectura: 6
 keywords:
   - "natal em valência"
   - "natal valência 2026"
@@ -28,8 +28,7 @@ slugs:
   it: natale-a-valencia
   pt: natal-em-valencia
 reservasArriba: true
-intro: 'O **Natal em Valência** vive-se na rua: a Plaza del Ayuntamiento enche-se de luzes, com uma árvore de 25 metros, o presépio municipal e um espetáculo de pirotecnia com música todos os sábados, porque os valencianos adoram pólvora. À volta há mercados de artesanato junto à Catedral, presépios monumentais, a Expojove para os mais novos e uma Cavalgada de Reis que começa com os Reis Magos a chegar por mar.'
-respuestaCorta: 'O Natal em Valência gira à volta da **Plaza del Ayuntamiento**: luzes acesas no final de novembro, **espetáculos de pirotecnia grátis aos sábados às 18:30**, árvore de 25 metros e presépio. Perto, a **feira de artesanato da Plaza de la Reina**. **Expojove**: 26 de dezembro de 2026-4 de janeiro, desde 3 €. **Cavalgada de Reis**: 5 de janeiro, 17:30.'
+respuestaCorta: 'O Natal valenciano gira em torno da **Plaza del Ayuntamiento**: acendimento com pirotecnia no final de novembro (a 21 em 2025), **espetáculos piromusicais gratuitos todos os sábados às 18h30**, árvore de 25 metros e presépio municipal. A cinco minutos, a **Feira de Artesanato da Plaza de la Reina** (de 29 de novembro a 6 de janeiro em 2025). Com crianças, a **Expojove** vai de **26 de dezembro de 2026 a 4 de janeiro de 2027**, desde 3 €. A **Cavalgada** sai a 5 de janeiro às 17h30.'
 faq:
   - pregunta: "Quando se acendem as luzes de Natal de Valência em 2026?"
     respuesta: "A data de 2026 ainda não é oficial. Em 2025 o acendimento foi na sexta-feira, 21 de novembro, às 19h30 na Plaza del Ayuntamiento, com música ao vivo, um espetáculo piromusical e uma árvore de 25 metros. Houve mais de 300 arcos e 45 árvores de Natal espalhados por bairros e freguesias."
@@ -51,91 +50,92 @@ actividades:
   - flamenco-espai-inestable-centro-valencia
   - oceanografic-valencia-entrada
 ---
-
-## Natal em Valência 2026: o calendário
+## O calendário num relance
 
 | O quê | Onde | Quando (edição 2025-26) | Preço |
 | --- | --- | --- | --- |
-| Acendimento das luzes e piromusical | Plaza del Ayuntamiento | 21 de novembro, 19:30 | Grátis |
-| Piromusicais (pirotecnia com música) | Plaza del Ayuntamiento | Sábados às 18:30 até 3 de janeiro, e 5 de janeiro | Grátis |
+| Acendimento das luzes e piromusical | Plaza del Ayuntamiento | 21 de novembro, 19h30 | Grátis |
+| Espetáculos piromusicais | Plaza del Ayuntamiento | Sábados às 18h30, até 3 de janeiro, e a 5 de janeiro | Grátis |
+| Árvore de 25 m e presépio municipal | Plaza del Ayuntamiento | Do acendimento até aos Reis | Grátis |
 | Feira de Artesanato de Natal | Plaza de la Reina | 29 de novembro – 6 de janeiro | Grátis |
-| Mercado de presépios | Mercado de Colón | 29 de novembro – 8 de dezembro | Grátis |
-| Mercado de Natal do centro | Calle Hospital e avenida del Oeste | 10 de dezembro – 4 de janeiro | Grátis |
+| Mercado de presepistas | Mercado de Colón | 29 de novembro – 8 de dezembro | Grátis |
+| Mercado de Natal do centro | Calle Hospital e avenida del Oeste | 10 de dezembro – 4 de janeiro, das 9h00 às 22h00 | Grátis |
 | Mercado de Natal | Ciutat de les Arts, junto ao Umbracle | 12 de dezembro – 6 de janeiro | Grátis |
 | Expojove | Feria València | **26 de dezembro de 2026 – 4 de janeiro de 2027** | Desde 3 € |
 | Badaladas | Plaza del Ayuntamiento | 31 de dezembro | Grátis |
-| Cavalgada de Reis | Puente de las Flores – Plaza del Ayuntamiento | 5 de janeiro, 17:30 | Grátis |
+| Chegada dos Reis Magos por mar | Plaza de la Sal, Marina Norte | 5 de janeiro, 16h30 | Grátis |
+| Cavalgada de Reis | Puente de las Flores – Plaza del Ayuntamiento | 5 de janeiro, 17h30 | Grátis |
 
-Exceto a Expojove, que já publicou as datas de 2026, são as da edição 2025-26. A Câmara apresenta o programa em novembro e atualizaremos o guia quando sair.
+Exceto a Expojove, que já publicou as datas de 2026, são as da edição 2025-26. A Câmara Municipal apresenta o programa em novembro e atualizaremos o guia quando sair.
 
-[actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
+## Luzes e pirotecnia na Plaza del Ayuntamiento
 
-[actividad: flamenco-cena-la-buleria-valencia]
+Em 2025 Valência acendeu o Natal com um espetáculo piromusical, música ao vivo e uma **árvore de 25 metros**, mais cinco do que no ano anterior. Houve mais de 300 arcos, 60 arcos brilhantes na **calle de la Paz**, um papagaio de papel gigante junto às **Torres de Serranos**, um presépio luminoso na calle del Hospital e uma esfera e um sino por onde se pode passar nas praças de Segrelles e do Patriarca.
 
-## Luzes de Natal em Valência e pirotecnia na Plaza del Ayuntamiento
+O mais valenciano são os **espetáculos piromusicais dos sábados às 18h30**: três minutos de pirotecnia ao ritmo de uma canção, grátis, na mesma praça. Em 2025 os comerciantes do centro montaram ainda pista de gelo, carrossel, comboio e roda-gigante entre a Plaza del Ayuntamiento e a de San Agustín.
 
-Em 2025 Valência acendeu o Natal com um piromusical, música ao vivo e uma **árvore de 25 metros** na Plaza del Ayuntamiento, ao lado do presépio municipal. Pela cidade:
-
-- Mais de **300 arcos** de luz e 60 arcos brilhantes na **calle de la Paz**.
-- Um papagaio gigante junto às **Torres de Serranos** e um presépio luminoso na calle del Hospital.
-- Uma esfera e um sino por onde se pode passar, nas praças de Segrelles e do Patriarca.
-
-O mais valenciano são os **piromusicais de sábado às 18:30**: três minutos de pólvora ao ritmo de uma canção, grátis. Chegue dez minutos antes. Em 2025 os comerciantes do centro montaram ainda pista de gelo, carrossel, comboio e roda-gigante entre a Plaza del Ayuntamiento e a de San Agustín.
+Se forem em grupo e não quiserem caminhar, o **tuk-tuk privado** percorre numa hora das Torres de Serranos à Marina, à praia e à Cidade das Artes, para até 8 pessoas.
 
 [actividad: tuk-tuk-privado-valencia-1-hora]
 
-## Mercados de Natal e presépios
+## Mercados e presépios
 
-- **Feira de Artesanato de Natal (Plaza de la Reina):** 30 casinhas de madeira aos pés da Catedral. Em 2025, das 10:30 às 14:00 e das 16:30 às 21:00; a 24 e 31, só de manhã.
-- **Mercado do centro (calle Hospital e avenida del Oeste):** o popular de sempre, com figuras de presépio, enfeites e brinquedos, das 9:00 às 22:00. Em 2025 abria até às 2:00 na Consoada e até às 5:00 na noite de Reis.
-- **Ciutat de les Arts:** mercado de Natal com 50 bancas junto ao Umbracle.
-- **Mercado de Colón:** o de presépios no início de dezembro e uma mostra de artesanato de meados de dezembro aos Reis, num mercado modernista que vale a visita por si só.
-- **Presépios:** além do municipal, em 2025 voltou a Valência, 30 anos depois, o **presépio monumental da Bancaja**, com mais de 1.000 figuras, na Plaza de Tetuán.
+- **Feira de Artesanato de Natal (Plaza de la Reina):** 30 barracas de madeira ao pé da Catedral. Em 2025, das 10h30 às 14h00 e das 16h30 às 21h00; a 24 e 31 só de manhã.
+- **Mercado do centro (calle Hospital e avenida del Oeste):** o popular de sempre, com figuras de presépio, enfeites e brinquedos. Em 2025 abria até às 2h00 na Consoada e até às 5h00 na noite de Reis.
+- **Mercado de Colón:** o de presepistas no início de dezembro e uma mostra de artesanato de meados de dezembro até aos Reis, num mercado modernista que merece a visita por si só.
+- **Presépios:** o municipal está na Plaza del Ayuntamiento, e em 2025 voltou a Valência, 30 anos depois, o **presépio monumental da Bancaja**, com mais de 1.000 figuras, na Plaza de Tetuán.
 
-## Com crianças: Expojove 2026 e outros programas
+## Uma tarde de dezembro bem aproveitada
 
-- A **Expojove** é o grande programa: dez dias de jogos, oficinas e espaços para os mais pequenos na Feria València, de **26 de dezembro de 2026 a 4 de janeiro de 2027**, das 11:00 às 20:00, **desde 3 €**. A 31 abre só das 10:00 às 14:00 e a 1 de janeiro das 16:00 às 21:00. Chega-se de metro ou no autocarro 62.
-- **Piromusical de sábado:** três minutos, sem demasiada gente se chegar um pouco antes.
-- **Ciutat de les Arts i les Ciències:** alarga horários e atividades no Natal e publica o calendário em cac.es. O Museu das Ciências e o Hemisfèric fecharam a 25 de dezembro em 2025.
+1. **17h00, Plaza de la Reina:** a feira de artesanato e a Catedral com a luz da tarde.
+2. **17h45, calle de la Paz:** os arcos brilhantes, já de noite.
+3. **18h30, Plaza del Ayuntamiento:** o espetáculo piromusical, se for sábado, e a árvore e o presépio.
+4. **19h15, Mercado de Colón:** horchata ou chocolate debaixo da estrutura modernista.
+5. **20h00, tapas por Ruzafa ou pelo Carmen.**
 
-[actividad: valencia-tour-privado-familias-churros-museo-ciencias]
-
-## Passagem de ano e Cavalgada de Reis em Valência
-
-- **Badaladas na Plaza del Ayuntamiento:** em 2025 houve badaladas infantis à tarde e festa à noite.
-- **Chegada dos Reis (5 de janeiro):** em 2026 desembarcaram às **16:30** na Plaza de la Sal da Marina Norte.
-- **Cavalgada:** às **17:30** a partir da Puente de las Flores, por Porta de la Mar, General Tovar, calle de la Paz, Plaza de la Reina e San Vicente, até à Plaza del Ayuntamiento. A calle de la Paz é estreita: para ver bem, prefira a zona de **Porta de la Mar**.
-
-## O que abre e o que fecha em Valência a 24, 25 e 31 de dezembro e a 1 de janeiro
-
-| Local | 24 e 31 de dezembro | 25 de dezembro | 1 de janeiro |
-| --- | --- | --- | --- |
-| Oceanogràfic | 10:00–16:00 | 12:00–18:00 | Aberto |
-| Museu de les Ciències | Aberto | Fechado | Aberto |
-| Lonja de la Seda | Pode ter horário especial | Fechada | Fechada |
-| Expojove | Só a 31: 10:00–14:00 | Ainda não começou | 16:00–21:00 |
-
-- **O Oceanogràfic abre todos os dias do ano**, também a 25: é o plano mais seguro para um feriado com crianças. Compre o bilhete online, porque nesses dias enche.
-- **A Lonja de la Seda** também fecha a 6 de janeiro; nos restantes feriados abre das 10:00 às 14:00.
-- **Lojas e restaurantes:** a 24 e a 31 fecham a meio da tarde, e a 25 e a 1 abrem poucos. Reserve o jantar com tempo.
-
-*Horários confirmados nos sites oficiais a 10 de novembro de 2026. Os da Ciutat de les Arts i les Ciències podem mudar: confirme-os em cac.es antes de ir.*
-
-## O que fazer em Valência no Natal: uma tarde e conselhos
-
-Uma tarde de dezembro bem aproveitada:
-
-1. **17:00, Plaza de la Reina:** a feira de artesanato e a Catedral com luz de fim de tarde.
-2. **17:45, calle de la Paz:** os arcos brilhantes, já de noite.
-3. **18:30, Plaza del Ayuntamiento:** o piromusical, se for sábado, a árvore e o presépio.
-4. **19:15, Mercado de Colón:** horchata ou chocolate quente sob a estrutura modernista.
-5. **20:00, tapas em Ruzafa ou no Carmen.** O tour noturno de tapas leva a quatro bares de bairro, com cerca de 10-12 doses e bebidas locais, em grupos até 10 pessoas.
+O **tour noturno de tapas** leva a quatro bares de bairro longe das zonas turísticas, com cerca de 10-12 doses e bebidas locais, em grupos de até 10 pessoas.
 
 [actividad: tour-tapas-bebidas-noche-valencia]
 
-Erros a evitar:
+## Com crianças
 
-- **Chegar ao piromusical às 18:35:** já acabou; dura três minutos.
-- **Visitar a Lonja de la Seda a 25, 1 ou 6:** está fechada nesses três dias. No resto, abre de segunda a sábado das 10:00 às 19:00, e domingos e feriados das 10:00 às 14:00.
-- **Comprar a Expojove para a tarde de 31:** nesse dia fecha às 14:00.
+- **A Expojove** é o grande programa: dez dias de jogos, workshops e espaços para os mais pequenos na Feria València, de 26 de dezembro a 4 de janeiro, desde 3 €.
+- **Espetáculo piromusical de sábado:** três minutos, sem aglomerações excessivas se chegar um pouco antes.
+- **Ciutat de les Arts i les Ciències:** alarga horários e atividades no Natal. O Museu de les Ciències e o Hemisfèric fecharam a 25 de dezembro em 2025.
+- Para um programa guiado, o **tour privado para famílias** inclui churros, horchata e bilhetes para o Museu de les Ciències.
+
+[actividad: valencia-tour-privado-familias-churros-museo-ciencias]
+
+## Monumentos e museus nos feriados
+
+| Local | 24 e 31 dez | 25 dez | 1 jan | 6 jan |
+| --- | --- | --- | --- | --- |
+| Lonja de la Seda | Aberta (confirme o horário) | Fechada | Fechada | Fechada |
+| Museu de les Ciències e Hemisfèric | Horário de Natal | Fechados | Horário de Natal | Horário de Natal |
+| Oceanogràfic | Consulte o site | Consulte o site | Consulte o site | Consulte o site |
+
+- **Lonja de la Seda:** de segunda a sábado das 10h00 às 19h00; domingos e feriados das 10h00 às 14h00. A subida guiada à torre é gratuita com reserva.
+- **Ciutat de les Arts:** publica todos os anos o seu calendário de Natal em cac.es; em 2025 o horário especial durou até 6 de janeiro.
+
+Para perceber o centro histórico sem pressa, o **tour privado com a Lonja e horchata** dura quatro horas.
+
+[actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
+
+## Passagem de ano e Reis
+
+- **Badaladas na Plaza del Ayuntamiento:** em 2025 houve badaladas infantis à tarde e festa à noite.
+- **Chegada dos Reis Magos (5 de janeiro):** em 2026 desembarcaram às 16h30 na Plaza de la Sal da Marina Norte, um local novo nesse ano.
+- **Cavalgada:** às 17h30 a partir do Puente de las Flores, por Porta de la Mar, General Tovar, a calle de la Paz, a Plaza de la Reina e San Vicente, até à Plaza del Ayuntamiento. A calle de la Paz é estreita: para ver bem, melhor a zona de Porta de la Mar.
+
+## Um jantar com espetáculo
+
+Valência não é terra de flamenco, mas tem bons tablaos: **La Bulería** combina jantar e espetáculo desde 39 €, e no centro há sessões mais curtas desde 21 €. Se preferirem cozinhar, o **workshop de paella ao cair da tarde**, com tapas e bebidas, é a versão valenciana do jantar de grupo.
+
+[actividad: flamenco-cena-la-buleria-valencia]
+
+## Erros típicos
+
+- **Ir à Plaza del Ayuntamiento num sábado às 18h35:** o espetáculo piromusical já acabou. Dura três minutos.
+- **Visitar a Lonja a 25, 1 ou 6:** está fechada nesses três dias.
+- **Comprar a Expojove para dia 31 à tarde:** nesse dia fecha às 14h00.
 - **Estacionar no centro a 5 de janeiro:** entre a Marina e a Plaza del Ayuntamiento há cortes desde meio da tarde. Vá de metro.

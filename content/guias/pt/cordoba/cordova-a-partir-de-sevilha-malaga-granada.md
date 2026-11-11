@@ -1,16 +1,15 @@
 ---
 titulo: "Córdova num dia a partir de Sevilha, Málaga ou Granada: como ir e que excursão escolher"
 descripcion: "Como fazer Córdova num dia a partir de Sevilha, Málaga ou Granada: comboio, carro, excursão em grupo ou privada. Tempos, preços e o que ver: Mesquita-Catedral, Judiaria e ponte romana."
-intro: 'Ir a **Córdova a partir de Sevilha**, Málaga ou Granada é a excursão de um dia com melhor relação entre o que vês e o que demoras. A **Mesquita-Catedral**, com a sua floresta de colunas e uma catedral lá dentro, é única no mundo; a **Judiaria** percorre-se a pé e a **ponte romana** ao pôr do sol fecha o dia. A partir de Sevilha e Málaga, o comboio deixa-te lá em menos de uma hora.'
-respuestaCorta: '**Córdova a partir de Sevilha** fica a cerca de **45 minutos de AVE**; de **Málaga**, a **pouco menos de 1 hora** em alta velocidade; de **Granada**, a 2 horas de estrada. Por conta própria: comboio e bilhete da **Mesquita-Catedral** (15 €). Excursões em grupo desde 76 € (Málaga) ou 109 € (Sevilha); privadas desde 432 €.'
+respuestaCorta: 'Córdova faz-se muito bem num dia: a partir de **Sevilha** em cerca de **45 minutos de AVE** e a partir de **Málaga** em **pouco menos de 1 hora** de comboio de alta velocidade; a partir de **Granada**, cerca de 2 horas de estrada. Por conta própria basta o comboio e o bilhete para a **Mesquita-Catedral**; em grupo há excursões desde 76 € (Málaga) ou 109 € (Sevilha) e, em privado, desde 432 € para 2 pessoas a partir de Sevilha.'
 categoria: "cordoba"
 slug: "cordova-a-partir-de-sevilha-malaga-granada"
 fecha: "2026-10-30"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-30"
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 3
+tiempo_lectura: 5
 keywords:
   - "córdova a partir de sevilha"
   - "córdova a partir de málaga"
@@ -30,17 +29,17 @@ actividades:
 imagen_portada: "/images/actividades/sevilla/cordoba-mezquita/cordoba-mezquita-arcos-bosque-columnas.webp"
 imagen_alt: "A floresta de colunas e arcos da Mesquita-Catedral de Córdova"
 faq:
-- pregunta: Quanto tempo se demora a chegar a Córdova?
-  respuesta: A partir de Sevilha, cerca de 45 minutos de AVE; a partir de Málaga, pouco menos de 1 hora em comboio de alta velocidade; a partir de Granada, cerca de 2 horas de carro. Da estação do AVE à Mesquita são cerca de 20 minutos a pé.
-- pregunta: O que ver em Córdova num dia?
-  respuesta: A Mesquita-Catedral (1h30 a 2h), a Judiaria, a ponte romana e, se der tempo, o Alcázar dos Reis Cristãos ou algum pátio.
-- pregunta: Compensa a excursão privada?
-  respuesta: 'Para 4 pessoas pode compensar: a partir de Sevilha, a privada de comboio fica por cerca de 167 € por pessoa com bilhetes e visita privada, contra 109-110 € do tour em grupo.'
-- pregunta: É preciso reservar a Mesquita?
-  respuesta: É recomendável na época alta e em maio (pátios). O bilhete normal custa 15 €; as visitas guiadas privadas incluem-no.
-- pregunta: Pode entrar-se de graça na Mesquita-Catedral?
-  respuesta: Sim, de segunda a sábado das 8:30 às 9:30. No resto do dia, o bilhete normal custa 15 €.
+  - pregunta: "Quanto tempo se demora a chegar a Córdova?"
+    respuesta: "A partir de Sevilha, cerca de 45 minutos de AVE; a partir de Málaga, pouco menos de 1 hora de comboio de alta velocidade; a partir de Granada, cerca de 2 horas de carro."
+  - pregunta: "O que ver em Córdova num dia?"
+    respuesta: "A Mesquita-Catedral (1h30 a 2 h), a Judiaria, a ponte romana e, se der tempo, o Alcázar de los Reyes Cristianos ou algum pátio."
+  - pregunta: "Compensa a excursão privada?"
+    respuesta: "Para 4 pessoas pode compensar: a partir de Sevilha, a privada de comboio fica por cerca de 167 € por pessoa com bilhetes e visita privada, contra 109-110 € do tour em grupo."
+  - pregunta: "É preciso reservar a Mesquita?"
+    respuesta: "É recomendável na época alta e em maio (pátios). As visitas guiadas privadas incluem o bilhete."
 ---
+
+**Córdova** é a excursão de um dia com melhor relação entre o que se vê e o tempo que se demora. A **Mesquita-Catedral** é única no mundo, a **Judiaria** percorre-se a pé e a **ponte romana** ao pôr do sol fecha o dia. É assim que se organiza conforme o ponto de partida.
 
 ## Como chegar
 
@@ -51,45 +50,23 @@ faq:
 | Granada | — | cerca de 2 h | — | [800 € (2) · 1.040 € (4)](/en/cities/granada/activities/cordoba-private-day-trip-from-granada) |
 | Cádis | — | 2h30 | — | [desde 780 € (2)](/en/cities/cadiz/activities/cordoba-private-day-trip-from-cadiz) |
 
-## Como ir a Córdova a partir de Sevilha, Málaga ou Granada
-
-| A partir de | Comboio | Carro | Excursão em grupo | Excursão privada |
-| --- | --- | --- | --- | --- |
-| **Sevilha** | AVE, cerca de 45 min | 1h30 | Desde 109 € (também de AVE, grupo reduzido) | De comboio: 432 € (2) · 668 € (4). De carro: desde 379 € por pessoa |
-| **Málaga** | Alta velocidade, pouco menos de 1h | 1h50 | Desde 76 € | 750 € (2) · 920 € (4) |
-| **Granada** | — | Cerca de 2h | — | 800 € (2) · 1.040 € (4) |
-| **Cádis** | — | 2h30 | — | Desde 780 € (2) |
-
-Preços à data deste guia; podem variar conforme o dia.
-
-- **A partir de Sevilha e Málaga, o comboio ganha ao carro:** chegas ao centro sem procurar estacionamento. Da estação do AVE à Mesquita são cerca de **20 minutos a pé**.
-- **A partir de Granada e Cádis**, o prático é a estrada (cerca de 2h e 2h30), por conta própria ou em excursão privada.
-- **Grupo ou privada?** Para 4 pessoas, a privada de comboio a partir de Sevilha fica por cerca de **167 € por pessoa** com bilhetes e visita, contra 109-110 € do tour em grupo.
+Preços das fichas à data deste guia; podem variar conforme a data.
 
 ## O que ver em Córdova num dia
 
-1. **Mesquita-Catedral** (1h30 a 2h): a floresta de colunas, o mihrab e a catedral renascentista no centro. Contamos tudo em [como visitar a Mesquita-Catedral](/pt/guides/cordoba/mesquita-catedral-de-cordova-como-visitar).
-2. **A Judiaria:** a calleja de las Flores, a Sinagoga e a praça de Maimónides, a cinco minutos da Mesquita.
-3. **A ponte romana** e a Torre da Calahorra, melhor ao pôr do sol.
-4. **Se sobrar tempo:** o **Alcázar dos Reis Cristãos** ou algum **pátio**; em maio, a [festa dos pátios](/pt/guides/cordoba/patios-de-cordova).
+1. **Mesquita-Catedral** (1h30 a 2 h): a floresta de colunas, o mihrab e a catedral renascentista no centro. Como fazê-lo em [como visitar a Mesquita-Catedral](/pt/guides/cordoba/mesquita-catedral-de-cordova-como-visitar).
+2. **A Judiaria:** a Calleja de las Flores, a Sinagoga e a praça de Maimónides.
+3. **A ponte romana** e a Torre de la Calahorra, melhor ao pôr do sol.
+4. Se sobrar tempo: o **Alcázar de los Reyes Cristianos** ou algum **pátio**; em maio, a [festa dos pátios](/pt/guides/cordoba/patios-de-cordova).
 
-## Mesquita-Catedral: bilhetes e horários
+## Já em Córdova: visitas guiadas privadas
 
-- **Bilhete normal:** **15 €**. Reduzido 12 € (maiores de 65 e estudantes) e 8 € dos 10 aos 14 anos; menores de 10, grátis.
-- **Grátis:** de segunda a sábado, das **8:30 às 9:30**.
-- **Horário:** de segunda a sábado, das 10:00 às 19:00 (até às 18:00 de novembro a fevereiro). Domingos e feriados religiosos, das 8:30 às 11:30 e das 15:00 às 19:00. A venda e o acesso fecham 30 minutos antes.
-- **Bilheteira:** no Pátio de San Eulogio, rua Torrijos.
-- **Reserva** na época alta e em maio, durante a festa dos pátios.
+Se chegar por conta própria e quiser um guia só para o seu grupo: [Mesquita-Catedral e Judiaria em privado](/en/cities/cordoba/activities/cordoba-mosque-jewish-quarter-private-tour) (260 € para 2, 396 € para 4, 2h30) ou [só a Mesquita-Catedral](/en/cities/cordoba/activities/cordoba-mosque-cathedral-private-tour) (210 € para 2, 1h30).
 
-## Já em Córdova: visita guiada privada
+## Dicas
 
-Se chegares por conta própria e quiseres guia só para o teu grupo, há visita privada à **Mesquita-Catedral e à Judiaria** (260 € para 2, 396 € para 4, 2h30) ou **só à Mesquita-Catedral** (210 € para 2, 1h30). Ambas incluem a entrada.
+1. **A partir de Sevilha e de Málaga, o comboio ganha ao carro:** chega ao centro sem procurar estacionamento.
+2. **Entre cedo na Mesquita:** logo de manhã há menos grupos.
+3. **No verão, Córdova passa facilmente dos 40 °C:** visite de manhã e deixe a tarde para a ponte ao pôr do sol.
 
-[actividad: mezquita-juderia-cordoba-tour-privado]
-
-## Conselhos
-
-1. **Entra cedo na Mesquita:** logo de manhã há menos grupos.
-2. **No verão, Córdova passa facilmente dos 40 °C:** visita de manhã e deixa a tarde para a ponte ao pôr do sol.
-
-Mais ideias em [excursões a partir de Sevilha](/pt/guides/sevilla/excursoes-a-partir-de-sevilha) e [escapadinhas desde Málaga](/pt/guides/malaga/escapadinhas-desde-malaga).
+Mais ideias em [excursões a partir de Sevilha](/pt/guides/sevilla/excursoes-a-partir-de-sevilha) e [escapadinhas a partir de Málaga](/pt/guides/malaga/escapadinhas-desde-malaga).

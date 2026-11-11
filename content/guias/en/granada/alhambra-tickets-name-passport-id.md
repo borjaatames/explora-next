@@ -25,6 +25,7 @@ slugs:
   en: alhambra-tickets-name-passport-id
 intro: '**Alhambra tickets are nominative**: each one carries the name and ID number of the person who will use it, and staff can ask for your **original passport or national ID card** at the checkpoints. It''s how the Patronato fights resale. This guide explains which document to bring, what to do if there''s a mistake in a name and what details to give if you book with a tour.'
 respuestaCorta: 'Each visitor carries their own ticket and **original passport or ID card**, the same one whose number was used at booking. Date and time **can''t be changed**. Names can only be changed on orders of **5 or more tickets**, up to the day before. For mistakes, call **+34 858 889 002**. Children need a ticket too.'
+reservasArriba: true
 actividades:
   - visita-guiada-alhambra-generalife
   - entrada-y-tour-guiado-alhambra
@@ -42,6 +43,18 @@ faq:
 - pregunta: Do children need a named ticket?
   respuesta: Yes. Even when free, every child needs a ticket. Tickets for ages 3 to 11 are booked together with the adults'; children under 3 get theirs at the ticket office or entrances, with no booking.
 ---
+
+**Alhambra tickets are nominative**: each one carries the name and ID number of the person who will use it, and staff can ask for your **original passport or national ID card** at the checkpoints. It's how the Patronato fights resale. This guide explains which document to bring, what to do if there's a mistake in a name and what details to give if you book with a tour.
+
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| Guaranteed entry with a guide | [Entry and guided tour with the Nasrid Palaces](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4.7★ (3,516) | €50 |
+| The most popular | [Alhambra and Nasrid Palaces guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4.7★ (21,100) | €49 |
+| Small group | [Alhambra and Nasrid Palaces small-group tour](/en/cities/granada/activities/alhambra-small-group-tour), 4.8★ (890) | €65 |
+| If only evenings are left | [Night visit to the Nasrid Palaces](/en/cities/granada/activities/alhambra-night-tour), 4.9★ (288) | €54 |
+| Without the Nasrid Palaces, cheaper | [Gardens, Generalife and Alcazaba](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4.5★ (2,256) | €17.5 |
 
 ## What a nominative ticket means
 

@@ -5,7 +5,7 @@ metaTitle: 'Palais royal Madrid billet : prix et gratuité'
 categoria: madrid
 slug: palais-royal-madrid-billets-epuises
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -27,24 +27,21 @@ slugs:
   it: palazzo-reale-madrid-biglietti-esauriti
   pt: palacio-real-madrid-bilhetes-esgotados
 reservasArriba: true
-intro: 'Le **billet du palais royal de Madrid** donne accès à la visite libre du palais et à l''**Armurerie royale**, à côté de la cathédrale de l''Almudena et de la plaza de Oriente. Seul, la visite dure environ **45 minutes**, et vous pouvez y ajouter la Cuisine royale ou la Galerie des Collections royales. Dehors, la relève de la garde, les jardins de Sabatini et le Campo del Moro complètent la matinée.'
-respuestaCorta: 'Le billet du palais royal de Madrid coûte **18 €** sur tickets.patrimonionacional.es, et la **visite guidée officielle 26 €**. Créneau complet ? Essayez une autre heure ou le **guichet**. Citoyens de l''UE et d''Amérique latine : **gratuit du lundi au jeudi les deux dernières heures**, au guichet uniquement. Une **visite avec billet inclus** coûte dès 36 €.'
+respuestaCorta: 'L''entrée générale coûte **18 €** sur `tickets.patrimonionacional.es`. Si votre créneau est complet, essayez une autre heure, la **visite guidée officielle (26 €)** ou le **guichet**, qui vend jusqu''à une heure avant la fermeture. Si vous êtes citoyen de l''UE ou d''Amérique latine, l''entrée est **gratuite du lundi au jeudi pendant les deux dernières heures**, uniquement au guichet. Et une **visite avec billet inclus** vous garantit l''accès à partir de 36 €.'
 actividades:
   - palacio-real-visita-guiada-golden-tour
   - palacio-real-tour-premium-skip-line
   - palacio-real-visita-privada-guia-oficial
   - palacio-real-catedral-almudena-tour
 faq:
-- pregunta: Combien coûte l'entrée du palais royal de Madrid ?
-  respuesta: Le billet plein tarif coûte 18 € et le tarif réduit 9 € (de 5 à 16 ans, plus de 65 ans et étudiants jusqu'à 25 ans). En ligne, il faut ajouter 0,77 € de frais par billet. L'Armurerie royale est incluse. La visite guidée officielle coûte 26 € et l'entrée est gratuite pour les moins de 5 ans.
-- pregunta: Peut-on acheter des billets du palais royal au guichet ?
-  respuesta: 'Oui. Le guichet vend des billets pour le jour même et ferme une heure avant le palais. En haute saison et pendant les ponts, il est pris d''assaut dès le milieu de matinée : allez-y à l''ouverture ou en fin de journée.'
-- pregunta: Quand le palais royal est-il gratuit ?
-  respuesta: Pour les citoyens et résidents de l'UE et d'Amérique latine, du lundi au jeudi de 16h00 à 18h00 (octobre à mars) et de 17h00 à 19h00 (avril à septembre), avec un justificatif et uniquement au guichet. Le 18 mai, Journée internationale des musées, l'entrée est gratuite pour tous.
-- pregunta: Une visite guidée est-elle fiable si le site officiel est complet ?
-  respuesta: Oui, à condition que la fiche indique que l'entrée au palais est incluse. Les visites guidées ont leurs propres réservations et vous évitez la file du guichet.
-- pregunta: Que peut-on voir du palais royal sans billet ?
-  respuesta: La relève de la garde les mercredis et samedis, la relève solennelle du premier mercredi du mois, les jardins de Sabatini, le Campo del Moro et la plaza de Oriente sont gratuits.
+- pregunta: Peut-on acheter des billets pour le Palais royal au guichet ?
+  respuesta: 'Oui. Le guichet vend des billets pour le jour même et ferme une heure avant le palais. En haute saison et pendant les ponts, il est pris d''assaut dès le milieu de la matinée : allez-y à la première ou à la dernière heure.'
+- pregunta: Quand le Palais royal est-il gratuit ?
+  respuesta: 'Pour les citoyens et résidents de l''UE et d''Amérique latine, du lundi au jeudi de 16 h à 18 h (d''octobre à mars) et de 17 h à 19 h (d''avril à septembre), sur justificatif et uniquement au guichet. Le 18 mai, Journée internationale des musées, il est gratuit pour tous.'
+- pregunta: Peut-on se fier à une visite guidée si le site officiel est complet ?
+  respuesta: Oui, à condition que la fiche indique que l'entrée au palais est incluse. Les visites guidées ont leur propre réservation et vous évitent la file du guichet.
+- pregunta: Que peut-on voir du Palais royal sans billet ?
+  respuesta: 'La relève de la garde du mercredi et du samedi, la relève solennelle du premier mercredi du mois, les jardins de Sabatini, le Campo del Moro et la place de Oriente sont gratuits.'
 opciones:
   - ficha: palacio-real-visita-guiada-golden-tour
     etiqueta: Avec l'Armurerie royale
@@ -53,6 +50,8 @@ opciones:
   - ficha: palacio-real-visita-privada-guia-oficial
     etiqueta: Privée
 ---
+
+Le Palais royal de Madrid vend des billets horodatés sur le site officiel de Patrimonio Nacional et, pendant la Semaine sainte, les ponts et le week-end, certains créneaux apparaissent en « faible disponibilité » ou complets. Contrairement à d'autres monuments, il reste ici presque toujours une solution pour entrer le jour même. Mieux vaut les essayer dans cet ordre.
 
 ## Quel billet choisir ?
 
@@ -63,54 +62,53 @@ opciones:
 | Palais et centre historique | [Palais royal et cathédrale de l'Almudena](/en/cities/madrid/activities/royal-palace-almudena-cathedral-tour), 4,5★ (9) | 54 € |
 | Rien que pour vous | [Visite privée avec guide officiel](/en/cities/madrid/activities/royal-palace-madrid-private-tour) | 141 € |
 
-## Palais royal de Madrid : prix et horaires
+## 1. Retournez sur le site officiel
 
-Les billets sont vendus avec horaire sur le site officiel de Patrimonio Nacional, **tickets.patrimonionacional.es** :
+Le site officiel de vente est `tickets.patrimonionacional.es`. L'entrée générale coûte **18 €** (9 € de 5 à 16 ans, pour les plus de 65 ans et les étudiants jusqu'à 25 ans), plus **0,77 €** de frais de gestion par billet en ligne. Elle inclut l'Armurerie royale. Les moins de 5 ans entrent gratuitement.
 
-- **Plein tarif :** 18 € (plus **0,77 €** de frais par billet en ligne). L'**Armurerie royale** est incluse.
-- **Tarif réduit :** 9 €, de 5 à 16 ans, plus de 65 ans et étudiants jusqu'à 25 ans.
-- **Gratuit :** moins de 5 ans.
-- **Visite guidée officielle :** 26 €, avec le personnel de Patrimonio Nacional, en espagnol, anglais ou italien. En anglais, départs du lundi au samedi à 10h45, 11h45, 13h45 et 15h15.
-- **Palais + Galerie des Collections royales :** 24 €. Le billet de la Galerie est valable sept jours avant ou après votre visite du palais.
-- **Palais + Cuisine royale :** 24 €, avec les cuisines historiques du palais.
+- **Regardez d'autres heures le même jour.** La visite libre dure environ 45 minutes : un créneau plus tardif ne bouleverse pas votre programme.
+- **Regardez à l'avance.** En octobre 2026, le site vendait déjà des dates jusqu'en janvier 2027.
+- **Tenez compte des horaires :** d'octobre à mars, il ouvre du lundi au samedi de 10 h à 18 h, et d'avril à septembre jusqu'à 19 h ; le dimanche, de 10 h à 16 h. L'entrée ferme une heure avant.
+- **Vérifiez qu'il est ouvert ce jour-là.** Il ferme les 1er et 6 janvier, le 1er mai et le 25 décembre, et peut fermer sans grand préavis pour des cérémonies officielles.
 
-**Horaires :** d'octobre à mars, du lundi au samedi de 10h00 à 18h00 ; d'avril à septembre, jusqu'à 19h00. **Le dimanche, de 10h00 à 16h00.** Dernière entrée une heure avant la fermeture.
+## 2. La visite guidée officielle et les billets combinés
 
-**Fermetures :** 1er et 6 janvier, 1er mai et 25 décembre. Il peut aussi fermer sans grand préavis pour des actes officiels.
+Si la visite libre est complète, regardez les autres formules du même site, qui ont leurs propres créneaux :
 
-## Palais royal de Madrid gratuit
+- **Visite guidée officielle (26 €) :** avec le personnel de Patrimonio Nacional, en espagnol, en anglais ou en italien. En anglais, il y a des départs du lundi au samedi à 10 h 45, 11 h 45, 13 h 45 et 15 h 15.
+- **Palais + Galerie des collections royales (24 €) :** l'entrée à la Galerie est valable sept jours avant ou après votre visite du palais.
+- **Palais + Cuisines royales (24 €) :** ajoute les cuisines historiques du palais.
 
-Si vous êtes **citoyen ou résident de l'UE ou d'Amérique latine**, l'entrée est **gratuite du lundi au jeudi** pendant les deux dernières heures :
+## 3. Le guichet et l'entrée gratuite
 
-- De **16h00 à 18h00** d'octobre à mars.
-- De **17h00 à 19h00** d'avril à septembre.
+Le palais vend aussi au **guichet**, qui ferme une heure avant le palais. Depuis le 20 août 2026, on y accède par l'esplanade de la cathédrale de l'Almudena et la place de l'Armería. En haute saison, la file s'allonge en milieu de matinée : allez-y à l'ouverture ou en fin de journée.
 
-Elle s'obtient uniquement au **guichet**, avec un justificatif, et il y a souvent la queue : arrivez tôt, car le guichet ferme une heure avant le palais. Le **18 mai**, Journée internationale des musées, l'entrée est gratuite pour tous.
+Si vous êtes **citoyen ou résident de l'UE ou d'Amérique latine**, l'entrée est **gratuite du lundi au jeudi** pendant les deux dernières heures : de **16 h à 18 h** d'octobre à mars et de **17 h à 19 h** d'avril à septembre. Elle ne s'obtient qu'au guichet, sur justificatif, et il y a généralement la queue : arrivez à l'avance, car le guichet ferme une heure avant.
 
-## Si les billets du palais royal de Madrid sont épuisés
+## 4. Une visite avec billet inclus
 
-À Pâques, pendant les ponts et le week-end, certains créneaux affichent « faible disponibilité » ou sont complets. Contrairement à d'autres monuments, il reste presque toujours un moyen d'entrer le jour même. Essayez dans cet ordre :
+C'est l'option la plus confortable quand vous ne voulez pas tenter votre chance au guichet : les opérateurs réservent les billets à l'avance et vous vendent la visite avec l'heure déjà attribuée. Elle coûte plus cher que le billet seul (à partir de 36 €), mais inclut un guide et vous évite la file.
 
-1. **Regardez d'autres heures le même jour.** La visite libre dure environ 45 minutes, un créneau plus tardif ne chamboule donc pas votre programme. Et regardez à l'avance : en octobre 2026, le site vendait déjà des dates jusqu'en janvier 2027.
-2. **Essayez les autres formules** du même site (visite guidée officielle et billets combinés), qui ont leurs propres horaires.
-3. **Allez au guichet.** Il vend pour le jour même et ferme une heure avant le palais. Depuis le 20 août 2026, on y accède par l'esplanade de la cathédrale de l'Almudena et la plaza de la Armería. En haute saison, la file s'allonge dès le milieu de matinée : venez à l'ouverture ou en fin de journée.
-4. **Réservez une visite avec billet inclus** si vous ne voulez pas prendre de risque. Les opérateurs réservent les billets à l'avance et vous vendent la visite avec un horaire fixé ; c'est plus cher que le billet seul (dès 36 €), mais le guide est compris et vous évitez la file. Vérifiez que la fiche indique **« entrée au palais royal incluse »** : certaines balades dans le Madrid des Habsbourg passent seulement devant la façade.
+Avant de payer, vérifiez que la fiche indique **« entrée au Palais royal incluse »**. Certaines balades dans le quartier des Austrias ne font que passer devant la façade.
 
 [actividad: palacio-real-visita-guiada-golden-tour]
 
-## Ce que vous voyez sans billet
+## 5. Ce que vous voyez sans billet
 
-Même sans entrer, le quartier du palais occupe une matinée :
+Même sans entrer, les abords du palais occupent une matinée :
 
-- La **relève de la garde**, les mercredis et samedis de 11h00 à 14h00 (de 10h00 à 12h00 en juillet et août) à la Puerta del Príncipe, calle Bailén. Gratuit.
-- La **relève solennelle**, avec cavalerie et fanfare, le premier mercredi de chaque mois à 12h00, sauf en janvier, août et septembre.
-- Les **jardins de Sabatini** et le **Campo del Moro**, tous deux gratuits. Depuis le Campo del Moro, avec entrée par le paseo de la Virgen del Puerto, on voit la façade ouest d'en bas, et il est souvent presque vide.
-- La **plaza de Oriente** et, au coucher du soleil, le **temple de Debod**, avec le palais en toile de fond.
+- La **relève de la garde**, le mercredi et le samedi de 11 h à 14 h (de 10 h à 12 h en juillet et en août) à la Puerta del Príncipe, calle Bailén. C'est gratuit.
+- La **relève solennelle**, avec cavalerie et fanfare, le premier mercredi de chaque mois à 12 h, sauf en janvier, août et septembre.
+- Les **jardins de Sabatini** et le **Campo del Moro**, tous deux gratuits. Depuis le Campo del Moro, avec son entrée par le paseo de la Virgen del Puerto, on voit la façade ouest d'en bas et il est généralement presque vide.
+- La **place de Oriente** et, au coucher du soleil, le **temple de Debod**, avec le palais en arrière-plan.
 
-## Conseils
+## Erreurs à éviter
 
-- **Achetez uniquement sur le site officiel.** Beaucoup de sites aux noms proches ajoutent des frais. Le site officiel est tickets.patrimonionacional.es.
-- **Ne tardez pas pour l'entrée gratuite.** Le guichet ferme une heure avant le palais et la file est longue.
-- **Prenez une pièce d'identité.** Elle est demandée pour les entrées gratuites et réduites.
-- **Laissez grand sac à dos et valise à l'hôtel.** En raison de travaux, le site officiel demande de ne pas venir avec de gros bagages.
-- Comment intégrer le palais à une visite de la ville, nous l'expliquons dans [Madrid en 3 jours](/fr/guides/madrid/madrid-en-3-jours).
+1. **Acheter sur des sites qui imitent le site officiel.** Beaucoup portent des noms similaires et appliquent des suppléments. Le site officiel est `tickets.patrimonionacional.es`.
+2. **Viser l'entrée gratuite juste à l'heure de fermeture du guichet.** Il ferme une heure avant le palais et la file est longue.
+3. **Oublier votre pièce justificative.** Elle est demandée pour l'entrée gratuite et les tarifs réduits.
+4. **Venir avec un grand sac à dos ou une valise.** En raison de travaux, le site officiel demande de ne pas apporter de bagages volumineux.
+
+## En une phrase
+
+Si votre créneau est complet, essayez une autre heure, la visite guidée officielle ou le guichet, et si vous ne voulez pas prendre de risque, réservez une visite avec billet inclus ; nous expliquons comment intégrer le palais à une visite de la ville dans [Madrid en 3 jours](/fr/guides/madrid/madrid-en-3-jours).

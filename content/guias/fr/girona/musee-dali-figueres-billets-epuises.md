@@ -4,7 +4,7 @@ descripcion: 'Si le site officiel du Théâtre-musée Dalí n''a plus de billets
 categoria: girona
 slug: musee-dali-figueres-billets-epuises
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-10-27'
 autor: Borja
 publicada: true
 destacada: false
@@ -26,28 +26,27 @@ slugs:
   it: museo-dali-figueres-biglietti-esauriti
   pt: museu-dali-figueres-bilhetes-esgotados
 reservasArriba: true
-intro: 'Des **billets du musée Dalí épuisés** ne vous privent pas de Dalí. Le Théâtre-Musée de Figueres, avec sa façade couronnée d''œufs géants et la tour Galatea rouge couverte de pains, où sont exposés les bijoux du peintre, est le grand musée de la Fondation Gala-Salvador Dalí. Il est à environ 55-65 minutes de Barcelone en train à grande vitesse, avec arrêt à Gérone, et si le site affiche « complet », il reste plusieurs solutions.'
-respuestaCorta: 'Billets du musée Dalí épuisés ? L''entrée générale coûte **dès 18,50 €** sur tickets.salvador-dali.org, selon la jauge. Essayez d''autres créneaux et d''autres jours, le **guichet** ou la **visite guidée avec entrée incluse** (dès 31 €). Les billets officiels **ne sont ni échangés ni remboursés** pour des causes extérieures au musée : ne comptez pas sur les annulations.'
+respuestaCorta: 'Le billet général coûte **à partir de 18,50 €** sur `tickets.salvador-dali.org`, et la disponibilité dépend de la jauge du musée. Si votre jour est complet, essayez d''autres créneaux et d''autres jours, ou la **visite guidée avec billet inclus** (à partir de 31 €). Les billets officiels **ne sont ni échangeables ni remboursables** pour des raisons extérieures au musée, alors ne comptez pas sur les annulations.'
 actividades:
   - teatro-museo-dali-figueres-visita-guiada
   - girona-figueres-dali-cadaques-desde-barcelona
 faq:
-- pregunta: Peut-on acheter des billets du musée Dalí au guichet ?
-  respuesta: 'Oui. Le Théâtre-Musée a un point de vente à l''entrée principale, et l''on peut acheter et entrer jusqu''à 45 minutes avant la fermeture. Mais la disponibilité dépend de la jauge : en été et pendant les ponts, rien n''est garanti. Si vous n''avez qu''un jour, achetez en ligne ou réservez une visite avec entrée incluse.'
-- pregunta: Peut-on échanger ou se faire rembourser les billets du musée Dalí ?
-  respuesta: Non, sauf si la cause vient du musée. Selon la Fondation Gala-Salvador Dalí, il n'y a ni échange ni remboursement pour des raisons extérieures au musée. Pour demander un changement de date, écrivez au musée (reserves@fundaciodali.org). Si le musée ferme pour force majeure, il rembourse l'intégralité.
-- pregunta: Quel jour le musée Dalí de Figueres est-il fermé ?
-  respuesta: Le lundi, sauf en juillet et août (ouvert tous les jours de 9h à 20h) et certains jours fériés d'ouverture exceptionnelle, comme le 12 octobre, le 9 novembre ou le 7 décembre. D'octobre à décembre, il ouvre du mardi au dimanche de 10h30 à 18h.
+- pregunta: Peut-on acheter des billets pour le musée Dalí au guichet ?
+  respuesta: 'Oui. Le Théâtre-musée dispose d''un point de vente à l''entrée principale, et l''on peut entrer et acheter jusqu''à 45 minutes avant la fermeture. Mais la disponibilité dépend de la jauge, donc en été et pendant les ponts il n''y a aucune garantie : si vous n''avez qu''une journée, achetez en ligne ou réservez une visite avec le billet inclus.'
+- pregunta: Peut-on échanger ou se faire rembourser des billets du musée Dalí ?
+  respuesta: 'Non, sauf si la cause relève du musée. Selon la Fundació Gala-Salvador Dalí, il n''y a ni échange ni remboursement pour des raisons extérieures au musée. Pour demander un changement de date, il faut écrire au musée (reserves@fundaciodali.org). Si le musée ferme pour cas de force majeure, le montant est intégralement remboursé.'
 - pregunta: Y a-t-il des visites nocturnes au musée Dalí ?
-  respuesta: Oui, mais seulement en août. En 2026, « Dalí de Nit » a eu lieu du 1er au 23 août, de 21h30 à minuit, avec 500 places par soir et une coupe de cava comprise. C'est un billet à part, vendu sur le même site officiel.
-- pregunta: Que voir du musée Dalí sans billet ?
-  respuesta: La façade aux œufs géants et la place Gala i Salvador Dalí, ainsi que la tour Galatea, rouge et couverte de pains, dans la Pujada del Castell. Les deux se voient gratuitement depuis la rue.
+  respuesta: 'Oui, mais seulement en août. En 2026, « Dalí de Nit » a eu lieu du 1er au 23 août, de 21 h 30 à minuit, avec une jauge de 500 personnes par soir et une coupe de cava incluse. C''est un billet à part, vendu sur le même site officiel.'
+- pregunta: Que peut-on voir du musée Dalí sans billet ?
+  respuesta: 'La façade avec les œufs géants et la place Gala i Salvador Dalí, ainsi que la Torre Galatea, rouge et couverte de pains, sur la Pujada del Castell. Les deux se voient depuis la rue et sont gratuites.'
 opciones:
   - ficha: teatro-museo-dali-figueres-visita-guiada
     etiqueta: Avec guide
   - ficha: girona-figueres-dali-cadaques-desde-barcelona
     etiqueta: Depuis Barcelone
 ---
+
+Le Théâtre-musée Dalí de Figueres vend ses billets en ligne par jour et par créneau horaire, et la disponibilité dépend de la jauge du musée. En juillet et août, à la Semaine sainte et pendant les ponts, les dates les plus demandées sont vite complètes. Que le site officiel affiche « complet » ne vous prive pas de Dalí : voici les solutions qui restent, dans l'ordre où il vaut mieux les essayer.
 
 ## Quel billet choisir ?
 
@@ -56,60 +55,59 @@ opciones:
 | Entrer avec un guide sans dépendre du site officiel | [Théâtre-musée Dalí : visite guidée avec billet](/fr/cities/girona/activities/figueres-visite-guidee-theatre-musee-dali-billets), 4,7★ (105) | 31 € |
 | Venir de Barcelone avec le transport organisé | [Gérone, Figueres et Cadaqués : excursion d'une journée depuis Barcelone](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4,7★ (2 352) | 40 € |
 
-## Billets du musée Dalí de dernière minute : revérifiez le site officiel
+## 1. Retournez sur le site officiel
 
-Le seul site officiel de vente est **tickets.salvador-dali.org**, accessible depuis salvador-dali.org, le site de la Fondation Gala-Salvador Dalí. Méfiez-vous des sites qui l'imitent : ils font payer plus cher et ne fournissent pas toujours un billet valable.
+Le seul site officiel de vente est `tickets.salvador-dali.org`, accessible depuis `salvador-dali.org`, le site de la Fundació Gala-Salvador Dalí. Le billet général coûte **à partir de 18,50 €**, le tarif réduit **à partir de 15 €** et le billet avec **visite guidée officielle, 26,50 €**. Les moins de 9 ans entrent gratuitement. Si votre date est complète :
 
-- **Plein tarif :** dès **18,50 €**. **Réduit :** dès 15 €. **Avec visite guidée officielle :** 26,50 €.
-- **Moins de 9 ans :** gratuit.
+- **Regardez tous les créneaux de la journée :** ne vous limitez pas à ceux du milieu de matinée ; tôt le matin et en fin de journée, il peut rester de la place.
+- **Regardez le billet avec visite guidée officielle**, qui apparaît séparément sur le site.
+- **Essayez un autre jour :** d'octobre à décembre, il ouvre **du mardi au dimanche de 10 h 30 à 18 h**. En juillet et août, il ouvre **tous les jours de 9 h à 20 h**. Le reste de l'année, il est fermé le lundi, sauf certains jours fériés, comme le 12 octobre, le 9 novembre ou le 7 décembre.
+- **Achetez tôt si vous venez en août :** les visites nocturnes « Dalí de Nit » (en 2026, du 1er au 23 août, de 21 h 30 à minuit) ont une jauge de 500 personnes par soir et sont vendues à part.
 
-Si votre date est complète :
+Ce qui ne marche pas : attendre que des annulations libèrent des places. Selon la fondation, **il n'y a ni échange ni remboursement** pour des raisons extérieures au musée. Si vous devez changer de date, écrivez à `reserves@fundaciodali.org`.
 
-- **Regardez tous les créneaux de la journée :** tôt le matin et en fin de journée, il peut rester de la place.
-- **Regardez le billet avec visite guidée officielle**, proposé à part sur le site.
-- **Essayez un autre jour.** D'octobre à décembre, ouvert **du mardi au dimanche de 10 h 30 à 18 h** ; en juillet et août, **tous les jours de 9 h à 20 h**. Le reste de l'année, **fermé le lundi**, sauf certains jours fériés (12 octobre, 9 novembre, 7 décembre).
-- **En août, achetez tôt :** les visites nocturnes « Dalí de Nit » (en 2026, du 1er au 23 août, de 21 h 30 à minuit) ont 500 places par soir et se vendent à part.
+## 2. Le guichet du musée
 
-Ce qui ne marche pas : attendre des annulations. **Ni échange ni remboursement** pour des causes extérieures au musée ; pour changer de date, écrivez à reserves@fundaciodali.org.
+Le Théâtre-musée dispose d'**un point de vente à l'entrée principale**, place Gala i Salvador Dalí, et l'on peut entrer et acheter **jusqu'à 45 minutes avant la fermeture**. Mais la disponibilité dépend de la jauge : en haute saison, le guichet vend ce qui reste, pas ce dont vous avez besoin. Si vous venez sans billet, arrivez à l'ouverture ou en fin de journée, et prévoyez un plan B.
 
-## Le guichet du musée Dalí de Figueres
+## 3. Une visite guidée ou une excursion avec le billet inclus
 
-Le Théâtre-Musée a **un point de vente à l'entrée principale**, place Gala i Salvador Dalí, et l'on peut acheter et entrer **jusqu'à 45 minutes avant la fermeture**. Mais la disponibilité dépend de la jauge : en haute saison, le guichet vend ce qui reste, pas ce dont vous avez besoin. Sans billet, arrivez à l'ouverture ou en fin de journée, et prévoyez un plan B.
+Quand le site officiel n'a plus rien, les opérateurs ont généralement des places, car ils réservent leurs billets à l'avance. Vous payez plus que sur le site officiel :
 
-## Une visite guidée ou une excursion avec entrée incluse
+- **Visite guidée du Théâtre-musée avec billet (à partir de 31 €) :** l'option la plus directe si vous êtes déjà à Gérone ou à Figueres.
+- **Excursion d'une journée depuis Barcelone (à partir de 69 €) :** Gérone, Figueres et Cadaqués avec le transport organisé. L'entrée au musée est **facultative** : en réservant, choisissez l'option **avec entrée au Théâtre-musée Dalí** ; sans elle, vous n'avez que du temps libre à Figueres. L'arrêt dure une heure et demie.
 
-Quand le site officiel n'a plus rien, les opérateurs ont souvent encore des places, car ils réservent leurs billets à l'avance. Vous payez plus :
-
-- **Visite guidée du Théâtre-Musée avec entrée (dès 31 €) :** l'option la plus directe si vous êtes déjà à Gérone ou à Figueres.
-- **Excursion à la journée depuis Barcelone :** Gérone, Figueres et Cadaqués avec le transport inclus. L'entrée au musée est **optionnelle** : choisissez la formule **avec entrée au Théâtre-Musée Dalí**, sinon vous n'aurez que du temps libre à Figueres. L'arrêt dure une heure et demie.
-
-Vérifiez toujours que l'entrée est comprise : certaines balades dans Figueres ne passent que devant la façade sans le dire clairement.
+Méfiez-vous des promenades dans Figueres qui ne passent que devant la façade sans le dire clairement.
 
 [actividad: teatro-museo-dali-figueres-visita-guiada]
 
 [actividad: girona-figueres-dali-cadaques-desde-barcelona]
 
-## Les autres musées Dalí : Púbol et Portlligat
+## 4. Les deux autres musées Dalí : Púbol et Portlligat
 
-La fondation gère deux autres musées, moins fréquentés :
+La fondation gère deux autres musées, moins fréquentés, qui complètent bien le voyage :
 
-- **Château Gala Dalí de Púbol :** le château que Dalí offrit à Gala. Entrée **10 € en ligne** (12 € au guichet) hors juillet et août. Du 2 novembre au 31 décembre, ouvert du mardi au dimanche de 10 h 30 à 17 h ; fermé du 7 janvier au 27 février. Pas de transport public jusqu'au village : le train R11 va jusqu'à Flaçà, puis taxi.
-- **Maison Salvador Dalí de Portlligat :** la maison du peintre près de Cadaqués. **Réservation indispensable :** petits groupes toutes les 10 minutes, et en cas de retard la réservation est annulée. Maison et oliveraie, 15,50 € hors juillet et août. Fermée du 7 janvier au 11 février.
+- **Château Gala Dalí de Púbol :** le château que Dalí offrit à Gala. Le billet général coûte **10 € en ligne** (12 € au guichet) hors juillet et août. Du 2 novembre au 31 décembre, il ouvre du mardi au dimanche de 10 h 30 à 17 h, et il ferme du 7 janvier au 27 février. Pas de transport public jusqu'au village : le train R11 va jusqu'à Flaçà et de là, il faut prendre un taxi.
+- **Maison Salvador Dalí de Portlligat :** la maison du peintre près de Cadaqués. Ici, **la réservation préalable est indispensable** : la visite se fait en petits groupes qui entrent toutes les 10 minutes, et si vous n'êtes pas là à l'heure, la réservation est annulée. Le billet général pour la maison et l'oliveraie coûte 15,50 € hors juillet et août. Fermée du 7 janvier au 11 février.
 
-Pour combiner Cadaqués avec d'autres villages, voyez [excursions sur la Costa Brava depuis Gérone](/fr/guides/girona/excursions-costa-brava-depuis-gerone).
+Si vous passez par la côte, [excursions sur la Costa Brava depuis Gérone](/fr/guides/girona/excursions-costa-brava-depuis-gerone) explique comment combiner Cadaqués avec d'autres villages.
 
-## Ce que l'on voit sans billet et comment y aller
+## 5. Ce que vous voyez sans billet
 
-Si rien ne marche, on voit pas mal de choses depuis la rue à Figueres :
+Si vous n'obtenez rien, à Figueres vous pouvez voir pas mal de choses depuis la rue :
 
-- La **façade du Théâtre-Musée**, avec les œufs géants sur la corniche, depuis la **place Gala i Salvador Dalí**.
-- La **tour Galatea**, dans la **Pujada del Castell**, peinte en rouge et couverte de pains à trois pointes. À l'intérieur, les bijoux de Dalí (Dalí·Joies), qui font partie du parcours du Théâtre-Musée.
+- La **façade du Théâtre-musée**, avec les œufs géants sur la corniche, depuis la **place Gala i Salvador Dalí**.
+- La **Torre Galatea**, sur la **Pujada del Castell**, peinte en rouge et couverte de pains à trois pointes. À l'intérieur se trouvent les salles des bijoux de Dalí (Dalí·Joies), qui font partie du parcours du Théâtre-musée.
 
-**Y aller :** le train à grande vitesse met **environ 55-65 minutes** de Barcelone-Sants à Figueres-Vilafant, à une vingtaine de minutes à pied du musée. Le régional R11 arrive à la gare de Figueres, en centre-ville, à 15 minutes à pied, mais il est bien plus lent. Les deux s'arrêtent à Gérone.
+Pour y aller, le train à grande vitesse met **environ 55-65 minutes** de Barcelona-Sants à Figueres-Vilafant, à une vingtaine de minutes à pied du musée. Le régional R11 arrive à la gare de Figueres, dans le centre, à une quinzaine de minutes à pied, mais il est nettement plus lent. Les deux s'arrêtent à Gérone.
 
-## Conseils
+## Erreurs à éviter
 
-- **N'y allez pas un lundi hors juillet et août :** c'est fermé, sauf jours fériés d'ouverture exceptionnelle.
-- **Achetez uniquement sur le site officiel** ou via une visite qui inclut clairement l'entrée.
-- **Ne vous présentez pas à Portlligat sans réservation :** vous n'entrerez pas.
-- **Profitez du reste de la journée :** [que voir à Gérone en une journée](/fr/guides/girona/que-voir-a-gerone-en-une-journee) vous donne le programme.
+1. **Acheter sur des sites qui imitent le site officiel.** Ils facturent plus cher et ne fournissent pas toujours un billet valable. Le site officiel est `tickets.salvador-dali.org`.
+2. **Y aller un lundi en dehors de juillet et août.** Le musée est fermé, sauf les jours fériés que la fondation annonce comme ouverture exceptionnelle.
+3. **Réserver une excursion sans lire si elle inclut l'entrée.** Vous payez l'autocar et vous restez sur la place.
+4. **Se présenter à Portlligat sans réservation.** C'est la plus petite maison et, sans réservation préalable, on n'entre pas.
+
+## En une phrase
+
+Si le site officiel est complet, essayez d'autres créneaux et d'autres jours, passez au guichet tôt le matin ou en fin de journée ou réservez une visite avec le billet inclus ; et si vous restez dans la région, [que voir à Gérone en une journée](/fr/guides/girona/que-voir-a-gerone-en-une-journee) vous donne le programme pour le reste de la journée.

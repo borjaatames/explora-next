@@ -1,18 +1,17 @@
 ---
 titulo: "Santiago de Compostela num dia: catedral, centro histórico e o Caminho"
 descripcion: "O que ver em Santiago num dia: Catedral, Obradoiro, centro histórico e o Mercado de Abastos. Roteiro a pé hora a hora no fim do Caminho, onde comer e o que evitar."
-intro: 'O que ver em Santiago de Compostela cabe num dia: o centro histórico, Património Mundial, é compacto, de pedra e arcadas, e tudo gira em torno da **Catedral**, meta do Caminho. Em poucas horas percorre a **praça do Obradoiro**, a Quintana e Praterías, a Rúa do Franco, o **Mercado de Abastos** e a Alameda, entre gaitas de foles, granito molhado e peregrinos que chegam emocionados.'
-respuestaCorta: 'O que ver em Santiago de Compostela num dia: comece às 9h30 no **Obradoiro e na Catedral** (entrada grátis; o **Pórtico da Glória exige reserva**), siga pelas praças e pela Rúa do Franco, almoce no **Mercado de Abastos**, onde lhe cozinham o que compra por 4-6 €, e termine ao pôr do sol na **Alameda**.'
+respuestaCorta: 'Comece às 9h30 na **Praça do Obradoiro** e na **Catedral**, com o Pórtico da Glória do Mestre Mateus, e depois percorra as suas quatro praças e as ruas porticadas Rúa do Franco e Rúa do Vilar. Pare no **Mercado de Abastos** antes do almoço e termine no **parque da Alameda**, com a melhor vista das torres ao pôr do sol. Uma visita a pé pelo centro histórico com guia oficial custa desde 10 €.'
 categoria: "santiago-de-compostela"
 slug: "santiago-de-compostela-num-dia"
 fecha: "2026-05-02"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/santiago-en-un-dia.jpg"
 imagen_alt: "Praça do Obradoiro com o Pazo de Raxoi e o Hostal dos Reis Católicos"
-tiempo_lectura: 4
+tiempo_lectura: 11
 keywords:
   - "o que ver em santiago de compostela"
   - "santiago de compostela num dia"
@@ -40,18 +39,9 @@ actividades:
   - tour-autoguiado-daremapp-santiago-de-compostela
   - santiago-de-compostela-private-tour-official-guide
   - santiago-de-compostela-private-food-tour
-faq:
-- pregunta: Dá para ver Santiago de Compostela num dia?
-  respuesta: 'Sim. O centro histórico é compacto e pedonal: num dia vê o Obradoiro e a Catedral, as praças da Quintana, Praterías e Inmaculada, a Rúa do Franco, o Mercado de Abastos, San Martiño Pinario e a Alameda ao pôr do sol. Com mais uma noite leva consigo o seu ambiente.'
-- pregunta: É grátis entrar na Catedral de Santiago?
-  respuesta: O templo e o túmulo do Apóstolo são grátis, das 7h00 às 21h00. O Pórtico da Glória é pago, em grupos pequenos com hora fixa e reserva obrigatória; o museu e as coberturas também são pagos.
-- pregunta: Onde comer em Santiago de Compostela?
-  respuesta: No Mercado de Abastos compra produto galego e na nave 5 cozinham-lho por 4-6 €. Prove o pulpo á feira, o marisco, a empanada, os pimentos de Padrón e a tarta de Santiago, e evite as tabernas com angariadores da Rúa do Franco.
-- pregunta: Como ir do aeroporto de Santiago ao centro?
-  respuesta: A partir de Lavacolla há autocarro de 30 em 30 minutos (1 €, 40 minutos) ou táxi a 22 € fixos. O AVE a partir de Madrid demora cerca de 3 horas e a estação fica a 15 minutos a pé do centro histórico.
-- pregunta: Qual é a melhor época para visitar Santiago?
-  respuesta: 'Maio, junho e setembro: mais seco, dias longos e ambiente do Caminho. Julho e agosto têm bom tempo mas muita gente; a 24-25 de julho são as Festas do Apóstolo. Chove cerca de 140 dias por ano: leve sempre guarda-chuva.'
 ---
+
+**Santiago vê-se facilmente num dia**, embora o ambiente convide a ficar. O centro histórico é compacto, todo pedra e arcadas, Património Mundial da UNESCO, e tudo gira à volta da **catedral**, a meta do Caminho. Este guia reúne o essencial da capital galega e deixa claro porque é que quem pernoita leva muito mais do que o turista de passagem.
 
 ## Reserve o essencial
 
@@ -65,55 +55,79 @@ faq:
 | [Rías Baixas com passeio de barco e adega](/en/cities/santiago-de-compostela/activities/rias-baixas-boat-winery-day-trip) | 4,7★ (486) | 47 € |
 | [Praia das Catedrais, Lugo e Ribadeo](/en/cities/santiago-de-compostela/activities/las-catedrales-beach-lugo-ribadeo-day-trip) | 4,5★ (225) | 65 € |
 
-## O roteiro do dia: o que ver em Santiago de Compostela
+A chave de Santiago não é só monumental, é de ambiente: a chuva na pedra, as gaitas de foles nas praças, os peregrinos que chegam emocionados ao Obradoiro e um centro histórico universitário com uma vida que não se vê numa visita relâmpago. Este roteiro organiza o dia para que não perca nem a catedral nem a alma da cidade.
 
-| Hora | O quê |
-| --- | --- |
-| 9h30 | Praça do Obradoiro e Catedral |
-| 11h00 | As praças: Quintana, Praterías, Inmaculada |
-| 12h00 | Rúa do Franco e Rúa do Vilar |
-| 13h00 | Mercado de Abastos |
-| 14h00 | Polvo |
-| 16h30 | San Martiño Pinario e a Alameda ao pôr do sol |
+## Quando visitar Santiago
 
-- **Obradoiro e Catedral.** Diante da fachada barroca terminam os peregrinos; a praça é fechada pelo Pazo de Raxoi e pelo **Hostal dos Reis Católicos**, antigo hospital de peregrinos e hoje pousada. Lá dentro, o **Pórtico da Glória** do Mestre Mateo, joia do românico restaurada, e o túmulo do Apóstolo. O **botafumeiro** só voa nas grandes solenidades ou quando um grupo o encomenda: consulte o calendário.
-- **As praças.** A **Quintana** (com a Porta Santa), **Praterías** (a fonte dos cavalos) e a **Inmaculada**.
-- **O centro histórico.** As rúas do Franco e do Vilar, com arcadas e cheias de tabernas.
-- **Mercado de Abastos.** O segundo lugar mais visitado depois da catedral: compra produto galego e na nave 5 cozinham-lho por **4-6 €**.
-- **San Martiño Pinario e a Alameda.** Os retábulos barrocos do mosteiro e, no fim, a **melhor vista** das torres a partir do passeio da Ferradura, com o pôr do sol nas costas.
-
-## Preços e horários da Catedral de Santiago e dos museus
-
-| Local | Preço | Horário |
+| Época | Veredicto | Porquê |
 | --- | --- | --- |
-| Catedral (templo e túmulo) | Grátis | 7h00-21h00 |
-| Pórtico da Glória | Pago, em grupos pequenos com hora fixa; **reserva obrigatória** (esgota no verão) | Conforme o bilhete |
-| Museu · Coberturas | Pago; coberturas com guia (suspensas com chuva forte) | Museu 10h00-20h00 |
-| San Martiño Pinario | 4 €, igreja e museu | Horário com pausa, todos os dias |
-| Mercado de Abastos | Grátis | Seg-sáb 7h00-15h00; ao sábado, o dia com mais vida |
-| Museu das Peregrinações | Grátis UE, 2,40 € restantes | Fecha à segunda |
-| Museo do Pobo Galego | 4 € (escada tripla em caracol em Bonaval) | Fecha à segunda |
+| Maio, junho e setembro | Ideal | Tempo mais seco, dias longos, ambiente do Caminho |
+| Julho e agosto | Muito movimento | Bom tempo e festas, mas cheio de peregrinos |
+| 24-25 de julho | Festas do Apóstolo | O grande dia de Santiago; espetacular mas lotado |
+| Outubro a abril | Chuvoso | Verde e autêntico; leve guarda-chuva e agasalhe-se |
+| Ano Santo (Xacobeo) | Único | Quando o 25 de julho calha a um domingo; grande peregrinação |
 
-**Missa do Peregrino:** às 12h00 e às 19h30; desde 16 de outubro de 2026, e até nova indicação, celebra-se na igreja de San Agustín devido a obras. Mais em [como visitar a catedral](/pt/guides/santiago-de-compostela/catedral-de-santiago-como-visitar).
+> **⭐ Dica:** em Santiago **chove muito** durante grande parte do ano; não é um defeito do clima, é a sua essência («pedra molhada»). Leve guarda-chuva ou impermeável e não deixe de sair: a cidade à chuva é linda.
 
-## Quando ir e como chegar
+## Como chegar
 
-- **Maio, junho e setembro** são ideais: mais seco, dias longos e ambiente do Caminho. Julho e agosto, bom tempo mas massificado; de outubro a abril, verde, autêntico e chuvoso.
-- **24-25 de julho:** Festas do Apóstolo, com fogo de artifício sobre o Obradoiro na véspera. Em **Ano Santo** (quando o 25 de julho calha a um domingo) abre-se a Porta Santa e a peregrinação multiplica-se.
-- **Chove cerca de 140 dias por ano:** guarda-chuva sempre e sapatos que não escorreguem no granito molhado. Não desista de sair: a pedra molhada é metade da graça de Santiago.
-- **AVE a partir de Madrid** em cerca de 3 horas (estação a 15 minutos a pé do centro, a subir no regresso); comboios a partir da Corunha e de Vigo.
-- **Aeroporto de Lavacolla:** autocarro de 30 em 30 minutos (1 €, 40 minutos) ou táxi a 22 € fixos. O centro histórico é pedonal.
+**De comboio de alta velocidade** a partir de Madrid em cerca de 3h; há também aeroporto (Lavacolla, a 12 km) com voos nacionais e europeus, e comboios a partir da Corunha e de Vigo. A estação fica a 15 minutos a pé do centro. Santiago é também o **fim de todos os Caminhos** (Francês, Português, do Norte, Primitivo…). O centro histórico é pedonal: percorre-se a pé de uma ponta à outra.
 
-## Onde dormir e comer
+## O roteiro de um dia, bem feito
 
-Durma **dentro da zona monumental**: tudo fica a pé e aproveita o ambiente noturno de tunas e tabernas quando a cidade se esvazia de excursionistas. O **Ensanche**, junto à Alameda, é prático e moderno.
+| Hora | Atividade |
+| --- | --- |
+| 9h30 — 11h00 | Praça do Obradoiro e Catedral |
+| 11h00 — 12h00 | As quatro praças (Quintana, Praterías, Inmaculada) |
+| 12h00 — 13h00 | Centro histórico (Rúa do Franco, Rúa do Vilar) |
+| 13h00 — 14h00 | Mercado de Abastos |
+| 14h00 — 16h00 | Almoço |
+| 16h30 — 18h00 | San Martiño Pinario e parque da Alameda |
 
-A cozinha galega é produto puro: **pulpo á feira**, marisco (percebes, lingueirão, vieiras), **empanada**, **pimentos de Padrón**, **lacón con grelos** e **tarta de Santiago**, com **Albariño** ou **Ribeiro** e uma aguardente ou queimada como digestivo. Fuja das tabernas com angariadores da Rúa do Franco: o mercado e as ruas de trás do centro compensam mais.
+**9h30 — Obradoiro e Catedral.** Comece na **Praça do Obradoiro**, diante da fachada barroca da **Catedral**, onde chegam os peregrinos. Entre para ver o **Pórtico da Glória** do Mestre Mateus (restaurado, uma joia do românico) e, se a sua visita coincidir com a Missa do Peregrino e o dia o permitir, o balançar do **botafumeiro**, o incensário gigante. A praça é emoldurada pelo Pazo de Raxoi e pelo **Hostal dos Reis Católicos** (antigo hospital de peregrinos, hoje pousada).
 
-## Conselhos e erros típicos
+**11h00 — As quatro praças.** Dê a volta à catedral pelas suas praças: a **Quintana** (com a Porta Santa, aberta apenas nos Anos Santos), **Praterías** (a fonte dos cavalos) e a **Inmaculada**.
 
-1. **Não a veja à pressa** nem só de passagem entre as Rías Baixas e a Corunha: com mais uma noite leva o ambiente e pode fugir às Rías Baixas ou a Fisterra.
-2. **Reserve o Pórtico da Glória e as coberturas.**
-3. **Veja o calendário do botafumeiro** antes de contar com ele.
-4. **Suba à Alameda** ao pôr do sol.
-5. **Leve guarda-chuva** e não fique no hotel por estar a chover.
+**12h00 — Centro histórico.** Perca-se pela **Rúa do Franco** e pela **Rúa do Vilar**, porticadas e cheias de tascas, e pelas ruelas de pedra do centro.
+
+**13h00 — Mercado de Abastos.** Visite o **Mercado de Abastos**, o segundo local mais visitado depois da catedral: compra-se produto galego e em algumas bancas cozinham-no para si na hora.
+
+**14h00 — Almoço.** Hora do polvo (ver abaixo).
+
+**16h30 — San Martiño e a Alameda.** Espreite o mosteiro de **San Martiño Pinario** e termine no **parque da Alameda**, com a **melhor vista** das torres da catedral ao pôr do sol (a imagem clássica a partir da Carballeira de Santa Susana).
+
+## Onde ficar
+
+A melhor zona é o **centro histórico**, dentro da zona monumental: tudo a pé e a animação noturna das tunas e das tascas. A zona do **Ensanche** (junto à Alameda) é prática e tem opções mais modernas. **Evite** ficar longe do centro: o encanto de Santiago é percorrê-la a pé, sobretudo à noite, quando os excursionistas já partiram.
+
+## Comer em Santiago
+
+A cozinha galega é puro produto. O essencial: **polvo á feira** (polvo com pimentão e azeite), **marisco** (percebes, lingueirão, vieiras), **empanada galega**, **pimentos de Padrón**, **lacón con grelos** (pá de porco com grelos) e, de sobremesa, a **tarta de Santiago** (bolo de amêndoa com a cruz do apóstolo). Para beber, **Albariño** das Rías Baixas ou **Ribeiro**, com uma aguardente ou uma queimada como digestivo.
+
+> **⚠️ Atenção:** evite as tascas mais turísticas da Rúa do Franco com angariadores à porta. O Mercado de Abastos e as ruas de trás do centro histórico são muito melhores em qualidade e preço.
+
+## O que não recomendamos
+
+1. **Vê-la à pressa.** O ambiente de Santiago desfruta-se a passear sem relógio.
+2. **Comer só na turística Rúa do Franco.** O mercado e as ruas de trás compensam mais.
+3. **Ficar pelo centro sem subir à Alameda.** É a melhor vista da cidade.
+4. **Desistir de sair se chover.** A pedra molhada é metade do encanto de Santiago.
+
+## Erros comuns dos visitantes
+
+> **⚠️ Atenção:** os deslizes que mais vemos.
+
+1. **Não reservar a visita às coberturas da catedral.** É uma visita diferente e muito recomendável.
+2. **Ficar-se por uma passagem rápida entre as Rías Baixas e a Corunha.** Santiago merece pelo menos um dia inteiro.
+3. **Não verificar o horário do botafumeiro.** Só balança em certas missas e datas; confirme antes.
+4. **Esquecer o guarda-chuva.** Chove com frequência todo o ano.
+
+## Eventos a ter em conta
+
+- **Festas do Apóstolo (24-25 de julho).** O grande dia de Santiago: na véspera, o espetáculo pirotécnico do **Fogo do Apóstolo** sobre uma fachada simulada no Obradoiro; no dia 25, a festa principal.
+- **Ano Santo (Xacobeo).** Quando o 25 de julho calha a um domingo: abre-se a Porta Santa e a peregrinação multiplica-se.
+- **Ascensão (maio/junho).** A outra grande festa da cidade, mais local.
+
+## Numa frase
+
+Santiago num dia é catedral, pedra molhada e o fim do Caminho; com mais uma noite, leva consigo o seu ambiente único de tunas e tascas e uma escapadela às **Rías Baixas** ou a Fisterra, o fim do mundo.

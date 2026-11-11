@@ -1,18 +1,17 @@
 ---
 titulo: "Carnaval de Cádis: guia para o viver (quando, onde e como)"
 descripcion: "Guia do Carnaval de Cádis: quando é, o concurso do Falla, chirigotas e comparsas, o carnaval de rua, onde ficar e dicas para o aproveitar."
-intro: 'O **Carnaval de Cádis** é um dos mais famosos do mundo: uma cidade inteira mascarada a cantar pelas ruas coplas engenhosas, críticas e hilariantes. Não é um carnaval de carros alegóricos e plumas, mas de **engenho e letra**. Tem duas faces que convém combinar: o **concurso oficial do Gran Teatro Falla** e o **carnaval de rua**, livre e gratuito, por La Viña, pela Catedral e pelo Pópulo.'
-respuestaCorta: 'O **Carnaval de Cádis** 2027 decorre de **quinta, 4, a domingo, 14 de fevereiro**, com a **final do Falla na sexta, 5**. O carnaval de rua, com agrupações a cantar por La Viña e pelo Pópulo, é **grátis**. O que esgota é o alojamento: **reserva com meses de antecedência** ou dorme em Jerez, El Puerto ou San Fernando.'
+respuestaCorta: 'O Carnaval de Cádis 2027 vai de **quinta-feira, 4, a domingo, 14 de fevereiro**, com a **final do concurso do Falla na sexta-feira, 5**. O carnaval de rua, com agrupamentos a cantar coplas por La Viña e pelo Pópulo, é **gratuito**. O que esgota é o alojamento: **reserve com meses de antecedência** ou durma em Jerez, El Puerto ou San Fernando e chegue de comboio.'
 categoria: "cadiz"
 slug: "carnaval-de-cadis"
 fecha: "2026-04-29"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/carnaval-de-cadiz.jpg"
 imagen_alt: "Catedral de Cádis"
-tiempo_lectura: 3
+tiempo_lectura: 4
 keywords:
   - "carnaval de cádis"
   - "chirigotas cádis"
@@ -31,73 +30,61 @@ actividades:
   - torre-tavira-catedral-cadiz-visita-guiada
   - catamaran-cadiz-atardecer
   - bodegas-fundador-jerez-cata
-faq:
-- pregunta: Quando é o Carnaval de Cádis 2027?
-  respuesta: De quinta-feira, 4, a domingo, 14 de fevereiro de 2027, segundo o site de turismo da Câmara (outubro de 2026). A final do COAC no Falla é na sexta, 5, a Grande Cavalgada no domingo, 7, e o Carnaval Chiquito no domingo, 21. As datas mudam todos os anos porque dependem da Páscoa.
-- pregunta: Como se conseguem bilhetes para o Teatro Falla?
-  respuesta: 'São muito difíceis de conseguir e atribuem-se por sorteio. As atuações passam na televisão e, sobretudo, na rua: as agrupações do Falla cantam de graça pelo centro histórico nos dias de semana.'
-- pregunta: Onde ficar no Carnaval de Cádis?
-  respuesta: No centro histórico, se encontrares e reservares com meses de antecedência. Se não, em Jerez, El Puerto de Santa María ou San Fernando, ligados a Cádis pelo comboio suburbano (Cercanías), reforçado e com serviços noturnos nos fins de semana grandes.
-- pregunta: É preciso ir mascarado ao Carnaval de Cádis?
-  respuesta: 'Praticamente sim: no Carnaval vão todos mascarados e faz parte da festa. Sem disfarce vais destoar.'
-- pregunta: O Carnaval de Cádis é adequado para crianças?
-  respuesta: Sim, de manhã e no início da tarde, quando é uma festa familiar e tranquila, e melhor ainda mascaradas. À noite há muita gente.
 ---
 
-## Datas do Carnaval de Cádis 2027
+**O Carnaval de Cádis é um dos mais famosos do mundo**, e uma experiência única: uma cidade inteira mascarada a cantar coplas engenhosas, críticas e hilariantes pelas ruas. Não é um carnaval de carros alegóricos e plumas, mas de **engenho e letra**: o gaditano ri-se de tudo, sobretudo de si próprio. Este guia explica quando é, como funciona e como vivê-lo sem morrer na tentativa.
 
-O Carnaval muda todos os anos porque depende da Páscoa; celebra-se em **fevereiro ou início de março** e dura cerca de duas semanas, com **dois fins de semana grandes** (o primeiro costuma ser o mais concorrido). Segundo o site de turismo da Câmara (outubro de 2026):
+O essencial: há **dois carnavais** que convém perceber. O **oficial** (o concurso do Gran Teatro Falla) e o **de rua**, que é a festa livre, gratuita e multitudinária. O melhor é combiná-los.
 
-- **Quinta-feira, 4 de fevereiro:** começa o Carnaval.
-- **Sexta, 5:** final do COAC no Falla.
-- **Sábado, 6:** pregão na praça de San Antonio.
-- **Domingo, 7:** Carrusel de Coros de manhã e **Grande Cavalgada** à tarde.
-- **Segunda, 8:** Lunes de Coros (feriado local).
-- **Domingo, 14:** queima da Bruja Piti e encerramento oficial.
-- **Domingo, 21:** Carnaval Chiquito, ou «de los Jartibles».
+## Quando é
 
-O programa detalhado sai mais perto da data.
+O Carnaval celebra-se em **fevereiro ou no início de março** e dura cerca de duas semanas; em **2027 vai de quinta-feira, 4, a domingo, 14 de fevereiro**, com a **final do concurso do Falla na sexta-feira, 5**. Tem **dois fins de semana** grandes. O primeiro costuma ser o mais concorrido. Antes, em janeiro e fevereiro, decorre o concurso no teatro.
 
-## Onde ficar (o que esgota)
+> **Aviso:** o alojamento esgota com **meses de antecedência** e os preços multiplicam-se. Se quer viver o Carnaval, reserve assim que souber as datas; muitos vão e vêm de Jerez ou El Puerto por falta de camas.
 
-O alojamento esgota com **meses de antecedência** e os preços multiplicam-se. Se queres viver o Carnaval, reserva assim que souberes as datas:
+## O concurso do Falla (o carnaval oficial)
 
-- **Centro histórico**, se encontrares: tudo a pé.
-- **Jerez, El Puerto de Santa María ou San Fernando**, se não: muitos visitantes vão e vêm de comboio e evitam os preços disparados de Cádis.
+O **COAC**, o Concurso Oficial de Agrupaciones Carnavalescas, realiza-se no **Gran Teatro Falla** durante semanas. Os **agrupamentos** competem por categorias:
 
-## O concurso do Falla e as chirigotas
-
-O **COAC** (Concurso Oficial de Agrupações Carnavalescas) decorre durante semanas no **Gran Teatro Falla**, entre janeiro e fevereiro. As agrupações competem por categorias:
-
-- **Chirigotas:** humor, sátira e muita graça.
+- **Chirigotas:** humor, sátira e muita galhofa.
 - **Comparsas:** mais líricas e críticas, com vozes potentes.
-- **Coros:** cantam tangos em carros pelas ruas.
+- **Coros:** cantam tangos em cima de carros pelas ruas.
 - **Cuartetos:** paródia e absurdo em grupos pequenos.
 
-Os bilhetes do Falla são muito difíceis de conseguir: atribuem-se **por sorteio**. Mas as atuações veem-se na televisão e, sobretudo, na rua.
+Os bilhetes do Falla são muito difíceis de conseguir; são atribuídos por sorteio. Mas as atuações também se veem na televisão e, sobretudo, na rua.
 
-## O carnaval de rua de Cádis (o imprescindível)
+## O carnaval de rua (o imprescindível)
 
-É a alma da festa: grupos espontâneos (os «ilegales») a cantar coplas pelo **centro histórico** (La Viña, a praça da Catedral, o Pópulo), gente mascarada por todo o lado e ambiente até de madrugada. É **grátis** e multitudinário.
+É a alma da festa: grupos espontâneos ("ilegales") a cantar coplas pelo **centro histórico** (La Viña, a Plaza de la Catedral, o bairro do Pópulo), gente mascarada por todo o lado e ambiente até de madrugada. É **gratuito** e multitudinário. O **Carrusel de Coros**, com os carros a cantar tangos, é um dos momentos mais bonitos.
 
-- **A não perder:** o **Carrusel de Coros** no primeiro domingo de manhã, com os carros pela praça de las Flores e pelo mercado, e a **Cavalgada** nesse mesmo domingo à tarde.
-- **Durante a semana**, as agrupações do Falla cantam depois pelas ruas, de graça.
+## Dicas para o viver
 
-## Como chegar, comer e deslocar-se
+1. **Mascare-se.** Não é opcional: em Cádis, no Carnaval, toda a gente anda mascarada. Faz parte da festa.
+2. **Cale-se e ouça as coplas.** A piada e a letra são o que importa; acompanhe-as.
+3. **Vá ao centro histórico** (La Viña, Catedral, Pópulo): é aí que está o carnaval de rua.
+4. **Prepare-se para a multidão** e para a noite longa.
 
-- **Comboio:** Cercanías a partir de Jerez (45 minutos), El Puerto (35) e San Fernando (15), com serviços reforçados e noturnos nos fins de semana grandes.
-- **Carro:** esquece. Fecham os acessos ao centro e estaciona-se fora das muralhas, nos parques de Puerta de Tierra ou da Zona Franca.
-- **Comer:** em La Viña, tortillitas de camarones (pataniscas de camarão) e peixinho frito das freidurías, de pé e em cartucho (**8-12 € por pessoa**). Os bares vendem cerveja para a rua; não é preciso entrar.
-- **Casas de banho:** escassas. A Câmara instala urinóis públicos aos fins de semana, mas as filas são longas.
-- **Segurança:** festa familiar e tranquila de dia; à noite, multidões e algum carteirista. Leva pouca coisa e o telemóvel guardado.
-- **Com crianças:** de manhã e no início da tarde, perfeito; mascaradas, melhor.
+## O lado prático: datas, transportes e o que esperar
 
-## Conselhos para o viver
+- **Datas 2027:** o Carnaval muda todos os anos porque depende da Semana Santa. Segundo o site de turismo da Câmara (outubro de 2026): começa na **quinta-feira, 4 de fevereiro**; **final do COAC no Falla, sexta-feira, 5**; pregão, sábado, 6, na praça de San Antonio; **Gran Cabalgata, domingo, 7**; Lunes de Coros, segunda-feira, 8 (feriado local); queima da Bruja Piti e encerramento oficial, domingo, 14; e o Carnaval Chiquito (ou «de los Jartibles»), domingo, 21. O programa detalhado sai mais perto da data.
+- **O que tem mesmo de ver:** o **Carrusel de Coros** do primeiro domingo de manhã (os carros pela Plaza de las Flores e pelo mercado) e a **Cabalgata** desse mesmo domingo à tarde. Os agrupamentos do Falla cantam depois pelas ruas, de graça, nos dias de semana.
+- **Chegar:** de comboio suburbano a partir de Jerez (45 minutos), El Puerto (35) e San Fernando (15), com serviços reforçados e noturnos nos fins de semana grandes. De carro, esqueça: fecham os acessos ao centro e estaciona-se fora das muralhas, nos parques de Puerta de Tierra ou da Zona Franca.
+- **Comer:** em La Viña, tortillitas de camarones e peixinho frito nas casas de fritos, de pé e em cartucho (8-12 € por pessoa). Os bares vendem cerveja para a rua; não é preciso entrar.
+- **Casas de banho:** escassas. A Câmara instala urinóis públicos aos fins de semana, mas as filas são longas. Planeie.
+- **Segurança:** é uma festa familiar e tranquila de dia; à noite, multidão e algum carteirista. Leve pouco consigo e o telemóvel guardado.
+- **Com crianças:** de manhã e na primeira parte da tarde, perfeito; mascarados, melhor.
 
-1. **Mascara-te.** Em Cádis, no Carnaval, vão todos disfarçados: é a norma.
-2. **Cala-te e ouve as coplas.** A piada e a letra são o que importa.
-3. **Não esperes carros como no Rio ou em Tenerife.** Aqui manda a copla e o engenho.
-4. **Não vás sem alojamento reservado** nem conduzas à noite: melhor comboio ou ficar no centro.
-5. **Prepara-te para as multidões** e para a noite longa.
+## Onde ficar
 
-Se ficares mais um dia, a cidade tranquila está em [Cádis num dia](/pt/guides/cadiz/cadis-num-dia).
+No **centro histórico**, se encontrar (e reservar cedo). Se não, muitos visitantes ficam em **Jerez, El Puerto de Santa María ou San Fernando** e chegam de comboio, evitando os preços disparados da capital nesses dias.
+
+## O que NÃO recomendamos
+
+1. **Ir sem alojamento reservado.** Fica sem cama ou paga uma fortuna.
+2. **Esperar carros alegóricos ao estilo do Rio ou de Tenerife.** Aqui quem manda é a copla e o engenho.
+3. **Ir sem máscara.** Vai destoar; é a norma social desses dias.
+4. **Conduzir à noite.** Melhor o comboio ou ficar no centro.
+
+## Numa frase
+
+O Carnaval de Cádis é uma cidade mascarada a rir-se de tudo à força de coplas: combine uma atuação do Falla com o carnaval livre da rua, mascare-se e reserve com muitíssima antecedência. É a face mais festiva de [Cádis num dia](/pt/guides/cadiz/cadis-num-dia).

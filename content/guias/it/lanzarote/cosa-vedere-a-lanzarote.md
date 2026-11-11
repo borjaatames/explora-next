@@ -1,16 +1,15 @@
 ---
 titulo: 'Cosa vedere a Lanzarote: Timanfaya, Manrique, La Geria e Papagayo'
 descripcion: 'Guida di Lanzarote con i prezzi 2026: Timanfaya, Jameos del Agua, Cueva de los Verdes, La Geria, El Golfo, Papagayo e La Graciosa. Quanti giorni, itinerari per zona, dove dormire e come spostarsi.'
-intro: '**Cosa vedere a Lanzarote**: un''isola che non somiglia a nessun''altra. Un''eruzione durata sei anni (1730-1736) coprì di lava quasi un quarto della sua superficie, e l''artista **César Manrique** convinse l''isola a costruire basso, in bianco e intorno ai vulcani. Riserva della Biosfera dal 1993, il meglio si trova tra la lava: **Timanfaya**, i **Jameos del Agua**, la Cueva de los Verdes e La Geria.'
-respuestaCorta: 'Cosa vedere a Lanzarote in **quattro o cinque giorni**: **Timanfaya**, La Geria ed El Golfo; il nord di **César Manrique** (Jameos, Cueva de los Verdes, Mirador del Río); Teguise e la Fondazione; **La Graciosa** o **Papagayo**. Noleggia un''auto e compra online, con orario, **Montañas del Fuego (30 €)** e **Cueva de los Verdes (17 €)**.'
+respuestaCorta: 'Calcola **quattro o cinque giorni**: uno per **Timanfaya**, La Geria ed El Golfo; uno per il nord di **César Manrique** (Jameos del Agua, Cueva de los Verdes, Mirador del Río); uno per Teguise e la Fondazione; e uno per **La Graciosa** o le calette di **Papagayo**. Noleggia un''auto e compra online, con data e ora fisse, i biglietti delle **Montañas del Fuego (30 €)** e della **Cueva de los Verdes (17 €)**: all''ingresso non si vendono.'
 categoria: lanzarote
 slug: cosa-vedere-a-lanzarote
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-10-24'
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 6
+tiempo_lectura: 8
 keywords:
 - cosa vedere a lanzarote
 - lanzarote in 4 giorni
@@ -37,19 +36,21 @@ actividades:
   - submarino-puerto-calero-lanzarote
   - barco-atardecer-delfines-puerto-del-carmen
 faq:
-- pregunta: Quanti giorni servono per vedere Lanzarote?
-  respuesta: Quattro o cinque giorni permettono di vedere Timanfaya, il nord di César Manrique, Teguise e La Geria, e di dedicare un giorno a La Graciosa o a Papagayo. Con tre giorni bisogna scegliere tra La Graciosa e la spiaggia; con una settimana si va senza fretta.
+- pregunta: Quanti giorni servono per Lanzarote?
+  respuesta: 'Con quattro o cinque giorni vedi Timanfaya, il nord di Manrique, Teguise e La Geria, più una giornata per La Graciosa o Papagayo. Con tre giorni dovrai scegliere tra La Graciosa e la spiaggia; con una settimana puoi prendertela con calma.'
 - pregunta: Serve l'auto a Lanzarote?
-  respuesta: È la soluzione più pratica. Le distanze sono brevi e le strade buone, ma l'autobus non arriva a Timanfaya e serve poco molti luoghi del nord. Senza auto, le escursioni organizzate coprono Timanfaya e i centri di Manrique in un giorno.
+  respuesta: 'È l''opzione più pratica. Le distanze sono brevi e le strade buone, ma gli autobus non arrivano a Timanfaya e servono molti punti del nord solo poche volte al giorno. Senza auto, i tour organizzati coprono Timanfaya e i centri di Manrique in una giornata.'
 - pregunta: Bisogna comprare i biglietti in anticipo?
-  respuesta: 'Per le Montañas del Fuego (Timanfaya) e la Cueva de los Verdes sì: si vendono solo online, con data e ora, e non sono modificabili. Negli altri centri del Cabildo si può comprare in biglietteria, anche se è consigliato farlo prima. I biglietti cumulativi non esistono più.'
-- pregunta: Qual è il periodo migliore per andare a Lanzarote?
-  respuesta: 'Tutto l''anno: all''aeroporto le massime medie vanno da 20,7 °C a gennaio a 29,1 °C ad agosto, con circa 111 mm di pioggia l''anno, secondo l''AEMET. Primavera e autunno sono ideali per camminare; d''estate l''aliseo soffia forte e a Timanfaya a mezzogiorno fa molto caldo.'
-- pregunta: Dove alloggiare a Lanzarote?
-  respuesta: Puerto del Carmen per animazione, spiaggia urbana e posizione centrale; Playa Blanca per la calma e Papagayo; Costa Teguise per gli sport di vento; il nord rurale (Haría, Teguise) per case con fascino. Arrecife è pratica, ma meno attraente per dormire.
+  respuesta: 'Per le Montañas del Fuego (Timanfaya) e la Cueva de los Verdes sì: si vendono solo online, con data e ora fisse, e non si possono cambiare. Negli altri centri del Cabildo (il governo dell''isola) puoi comprare in biglietteria, anche se consigliano di prenotare. I biglietti cumulativi per più centri non esistono più.'
+- pregunta: Qual è il periodo migliore per visitare Lanzarote?
+  respuesta: 'Qualsiasi: all''aeroporto le massime medie vanno dai 21 °C di gennaio ai 29 °C di agosto, con circa 111 mm di pioggia all''anno, secondo l''agenzia meteorologica spagnola AEMET. Primavera e autunno sono ideali per camminare; d''estate l''aliseo soffia forte e a Timanfaya a mezzogiorno fa molto caldo.'
+- pregunta: Dove dormire a Lanzarote?
+  respuesta: 'Puerto del Carmen per la vita notturna, la spiaggia in paese e una base centrale; Playa Blanca per la tranquillità e Papagayo; Costa Teguise per gli sport del vento; e il nord rurale (Haría, Teguise) per case piene di carattere. Arrecife è pratica ma meno attraente come base.'
 imagen_portada: "/images/actividades/lanzarote/zonas/el-golfo-crater.webp"
 imagen_alt: "Il Charco de los Clicos, la laguna verde di El Golfo, accanto alla spiaggia di sabbia nera"
 ---
+
+**Lanzarote non somiglia a nessun'altra isola.** Un'eruzione durata sei anni, dal 1730 al 1736, ne seppellì sotto la lava quasi un quarto, e un artista locale, **César Manrique**, convinse l'isola a costruire basso, bianco e attorno a quei vulcani. Il risultato è un'isola Riserva della Biosfera dal 1993, dove il meglio non sta in spiaggia ma nella lava: **Timanfaya**, **Jameos del Agua**, **Cueva de los Verdes** e i vigneti de **La Geria**.
 
 ## Prenota l'essenziale
 
@@ -62,63 +63,65 @@ imagen_alt: "Il Charco de los Clicos, la laguna verde di El Golfo, accanto alla 
 | [Kayak e snorkeling alla spiaggia di Papagayo](/it/cities/lanzarote/activities/tour-kayak-snorkeling-papagayo) | 4,7★ (162) | 45 € |
 | [Tour in buggy fuoristrada nel nord vulcanico](/en/cities/lanzarote/activities/lanzarote-off-road-buggy-tour) | 4,6★ (5.653) | 150 € a buggy |
 
-## Lanzarote in 4 giorni: itinerari per zone
+## Quanti giorni e quando andare
 
-Con **quattro o cinque giorni** vedi l'essenziale senza correre. Con tre, scegli tra La Graciosa e una giornata di mare; con una settimana, aggiungi escursioni a piedi e un pomeriggio a Famara o Papagayo.
+**Quattro o cinque giorni** bastano per l'essenziale senza correre. Con tre, scegli tra La Graciosa e una giornata di spiaggia. Con una settimana, aggiungi qualche escursione e un pomeriggio a Famara o a Papagayo.
 
-1. **Sud vulcanico:** Timanfaya di prima mattina, pranzo a Yaiza o La Geria, El Golfo, Los Hervideros e le Salinas de Janubio al tramonto.
-2. **Nord di Manrique:** Cueva de los Verdes all'orario prenotato, Jameos del Agua, Mirador del Río e Haría; ritorno passando dal Jardín de Cactus.
-3. **Centro:** Fondazione César Manrique al mattino, Teguise e il Castillo de Santa Bárbara, pomeriggio a Famara.
-4. **La Graciosa:** primo traghetto da Órzola, bici fino alle spiagge e ritorno a metà pomeriggio.
-5. **Papagayo e Playa Blanca:** calette al mattino, in barca o kayak, e pomeriggio libero.
+Il clima è buono tutto l'anno. Secondo l'AEMET, all'aeroporto le massime medie **vanno dai 20,7 °C di gennaio ai 29,1 °C di agosto**, cadono circa **111 mm di pioggia all'anno** e si contano quasi 3.000 ore di sole. Quello che noterai di più è il **vento**: l'aliseo da nord-est soffia quasi ogni giorno, più forte d'estate, e al nord e in mare si sente fresco. **Primavera e autunno** sono le stagioni migliori per camminare; a luglio e agosto, Timanfaya a mezzogiorno è un forno senza ombra.
 
 ## Timanfaya e il sud vulcanico
 
-Il **Parco Nazionale di Timanfaya** è la visita imperdibile. L'ingresso alle **Montañas del Fuego** costa **30 €** (gratis fino a 6 anni), si compra **solo online con data e ora** e include la **Ruta de los Volcanes** in pullman, l'unico modo per percorrere l'interno del parco, e le dimostrazioni geotermiche dell'**Islote de Hilario**. Puoi salire in auto fino al parcheggio dell'Islote de Hilario, ma non circolare liberamente nel parco. Tutto il pratico in [come visitare Timanfaya](/en/guides/lanzarote/visiting-timanfaya).
+Il **Parco Nazionale di Timanfaya** è l'unica visita a cui non puoi rinunciare. Il biglietto delle **Montañas del Fuego** costa **30 €** (gratis fino a 6 anni), si vende **solo online con data e ora fisse** e include la **Ruta de los Volcanes** in pullman, l'unico modo per percorrere l'interno del parco, più le dimostrazioni geotermiche dell'**Islote de Hilario**. Puoi salire con la tua auto fino al parcheggio dell'Islote de Hilario, ma non puoi girare liberamente per il parco. Tutti i dettagli pratici sono in [come visitare Timanfaya](/en/guides/lanzarote/visiting-timanfaya).
 
-A sud del parco, lungo la LZ-30, c'è **La Geria**: viti piantate una a una in buche di cenere protette da muretti di pietra, e cantine dove assaggiare la malvasía vulcanica. Verso la costa ovest, **El Golfo** custodisce il **Charco de los Clicos**, una laguna verde accanto a una spiaggia nera; vicinissimi, **Los Hervideros**, dove il mare esplode tra tunnel di lava, e le **Salinas de Janubio**, più belle al tramonto.
+A sud del parco, lungo la LZ-30, si stende **La Geria**: viti piantate una a una in buche di cenere riparate da muretti di pietra, e cantine dove assaggiare la Malvasía vulcanica. Sulla costa ovest, **El Golfo** nasconde il **Charco de los Clicos**, una laguna verde accanto a una spiaggia nera; poco lontano ci sono **Los Hervideros**, dove il mare si infrange nei tunnel di lava, e le **saline di Janubio**, al massimo al tramonto.
 
-## Il nord di César Manrique: Jameos del Agua e Cueva de los Verdes
+## Il nord di César Manrique
 
-- **Jameos del Agua** (da 17 €, 10:00-18:00, ultimo ingresso 17:15): un tubo vulcanico trasformato in lago, giardino, piscina bianca e auditorium. Nel lago vivono minuscoli granchi ciechi ed è vietato fare il bagno o gettare monete.
-- **Cueva de los Verdes** (17 €, 9:30-16:45): a un chilometro, si visita con guida per circa 50 minuti lungo lo stesso tubo di lava, con scale e soffitti bassi. Essendo vicini, **abbinali**: prenota prima l'orario della Cueva e incastra i Jameos intorno.
-- **Mirador del Río** (9 €, 10:00-17:00): si affaccia dal Risco de Famara su La Graciosa. Scegli una giornata limpida.
-- **Haría e il Jardín de Cactus:** Haría è la valle delle mille palme, con la casa-museo dove visse Manrique; il **Jardín de Cactus** di Guatiza (9 €) fu la sua ultima grande opera sull'isola.
+I **Jameos del Agua** (da 17 €, dalle 10:00 alle 18:00, ultimo ingresso alle 17:15) sono un tubo vulcanico trasformato in lago, giardino, piscina bianca e auditorium; nel lago vivono minuscoli granchi ciechi, ed è vietato fare il bagno o lanciare monete. A un chilometro, la **Cueva de los Verdes** (17 €, dalle 9:30 alle 16:45) si visita con guida per circa 50 minuti lungo lo stesso tubo vulcanico, con scale e soffitti bassi. Visto che sono vicine, **abbinale**: prenota prima l'orario della Cueva e organizza i Jameos attorno.
 
-Senza auto, l'[escursione a Timanfaya, Jameos del Agua e Cueva de los Verdes con ingressi](/en/cities/lanzarote/activities/timanfaya-jameos-cueva-de-los-verdes-tour) risolve in un giorno le visite più difficili da prenotare.
+Più su, il **Mirador del Río** (9 €, dalle 10:00 alle 17:00) si affaccia dalle scogliere di Famara su **La Graciosa**; scegli una giornata limpida. Scendendo, **Haría**, la valle delle mille palme, con la casa-museo dove visse Manrique, e il **Jardín de Cactus** di Guatiza (9 €), la sua ultima grande opera sull'isola.
 
-## Teguise, Arrecife, La Graciosa e le spiagge
+## Il centro: Teguise, la Fondazione e Arrecife
 
-**Teguise** è stata la capitale dell'isola per secoli e conserva case signorili, chiese e vie bianche; la **domenica mattina** ospita il mercato più affollato di Lanzarote, quindi vai un altro giorno se cerchi calma. La **Fondazione César Manrique**, a Tahíche, è la casa che l'artista costruì su cinque bolle di lava (10 €; 17 € combinata con la casa-museo di Haría). Ad **Arrecife**, il **Castillo de San José** ospita il Museo Internazionale d'Arte Contemporanea (5,40 €), e il Charco de San Ginés è l'angolo più piacevole della capitale.
+**Teguise** fu per secoli la capitale dell'isola e conserva palazzi signorili, chiese e strade bianche; la **domenica mattina** ospita il mercato più affollato di Lanzarote, quindi vai un altro giorno se cerchi tranquillità. La **Fondazione César Manrique** a Tahíche è la casa che l'artista costruì su cinque bolle di lava (10 €; 17 € combinato con la casa-museo di Haría). Ad **Arrecife**, il **Castillo de San José** ospita il Museo Internazionale di Arte Contemporanea (5,40 €), e il Charco de San Ginés è l'angolo più piacevole del capoluogo.
 
-Da **Órzola**, il traghetto impiega **circa 25 minuti** per **La Graciosa**, un'isola senza strade asfaltate che si gira a piedi, in bici o in taxi 4x4. Orari, prezzi e spiagge in [come arrivare a La Graciosa](/en/guides/lanzarote/how-to-get-to-la-graciosa).
+## La Graciosa e le spiagge
 
-- **Calette di Papagayo:** le migliori per fare il bagno, a sud, con sabbia dorata e acqua calma. Si arriva per una pista sterrata (i non residenti pagano **3 € per auto**) o in barca da Playa Blanca.
-- **Famara:** sotto il risco, spettacolare per passeggiare e fare surf, ma con correnti forti; niente bagno con bandiera gialla o rossa.
-- **Playa Grande (Puerto del Carmen):** la spiaggia urbana con più servizi.
-- **Caletón Blanco:** vicino a Órzola, pozze di sabbia bianca tra la lava.
+Da **Órzola**, all'estremità nord, il traghetto impiega **circa 25 minuti** fino a **La Graciosa**, un'isola senza strade asfaltate dove ci si muove a piedi, in bici o in taxi 4x4. Orari, prezzi e spiagge sono in [come arrivare a La Graciosa](/en/guides/lanzarote/how-to-get-to-la-graciosa).
 
-## Quando andare, come muoversi e prezzi
+A Lanzarote, le spiagge migliori per fare il bagno sono le **calette di Papagayo**, al sud, con sabbia dorata e acqua calma; ci arrivi da una pista sterrata (i non residenti pagano **3 € ad auto**) o in barca da Playa Blanca. **Famara**, sotto le scogliere, è spettacolare per passeggiare e fare surf ma ha correnti forti: non fare il bagno con bandiera gialla o rossa. A Puerto del Carmen, **Playa Grande** è la spiaggia urbana con più servizi, e al nord il **Caletón Blanco**, vicino a Órzola, forma piscine di sabbia bianca tra la lava.
 
-Il clima accompagna tutto l'anno. Secondo l'AEMET, all'aeroporto le **massime medie vanno da 20,7 °C a gennaio a 29,1 °C ad agosto**, cadono circa **111 mm di pioggia l'anno** e ci sono quasi 3.000 ore di sole. Ciò che si nota di più è il **vento**: l'aliseo soffia da nord-est quasi ogni giorno, più forte d'estate. **Primavera e autunno** sono il periodo migliore per camminare; a luglio e agosto, Timanfaya a mezzogiorno è un forno senz'ombra.
+## Itinerari per zona
 
-- **Auto:** la più comoda. Da Arrecife a Órzola circa 35 minuti; da Playa Blanca a Timanfaya circa 25.
-- **Autobus:** Arrecife Bus collega aeroporto, Arrecife e le località turistiche, ma **non arriva a Timanfaya** e va a Órzola con poche corse.
-- **Ingressi ai centri del Cabildo (2026):** Montañas del Fuego 30 €, Cueva de los Verdes 17 €, Jameos del Agua da 17 €, Mirador del Río 9 €, Jardín de Cactus 9 €, Castillo de San José 5,40 €; la Casa Museo del Campesino è gratuita. I minori di 7 anni non pagano e **non esistono più biglietti cumulativi**.
-- **Prenotazioni:** per Montañas del Fuego e Cueva de los Verdes i biglietti si vendono **solo online**, con data e ora, senza cambi né rimborsi. D'estate e a Pasqua compra con qualche giorno di margine.
-- **Sole e vento:** il vento inganna e il sole brucia anche se non senti caldo. Cappello, crema ad alta protezione e una giacca leggera per il nord.
+1. **Sud vulcanico:** Timanfaya di prima mattina, pranzo a Yaiza o a La Geria, El Golfo, Los Hervideros e le saline di Janubio al tramonto.
+2. **Nord di Manrique:** Cueva de los Verdes all'orario prenotato, Jameos del Agua, Mirador del Río e Haría; ritorno passando dal Jardín de Cactus.
+3. **Centro:** Fondazione César Manrique al mattino, Teguise e il castello di Santa Bárbara, pomeriggio a Famara.
+4. **La Graciosa:** primo traghetto da Órzola, bici fino alle spiagge e ritorno a metà pomeriggio.
+5. **Papagayo e Playa Blanca:** calette al mattino, in barca o in kayak, e pomeriggio libero.
 
-## Dove alloggiare ed errori tipici
+## Consigli pratici
 
-- **Puerto del Carmen:** la località più animata, con spiaggia urbana e posizione centrale.
-- **Playa Blanca:** più tranquilla, accanto a Papagayo e con traghetti per Fuerteventura.
+- **Auto:** l'opzione più comoda. Da Arrecife a Órzola ci vogliono circa 35 minuti; da Playa Blanca a Timanfaya circa 25. Tieni sempre acqua e crema solare in macchina.
+- **Autobus:** le linee di Arrecife Bus collegano aeroporto, Arrecife e località turistiche, ma **non arrivano a Timanfaya** e vanno a Órzola solo poche volte al giorno. Controlla gli orari sul loro sito prima di pianificare.
+- **Biglietti dei centri del Cabildo (2026):** Montañas del Fuego 30 €, Cueva de los Verdes 17 €, Jameos del Agua da 17 €, Mirador del Río 9 €, Jardín de Cactus 9 €, Castillo de San José 5,40 €; la Casa Museo del Campesino è gratuita. Sotto i 7 anni si entra gratis. **I biglietti cumulativi non esistono più**.
+- **Prenotazione:** per le Montañas del Fuego e la Cueva de los Verdes i biglietti si **vendono solo online**, con data e ora fisse, senza cambi né rimborsi. D'estate e a Pasqua, comprali con diversi giorni di anticipo.
+- **Sole e vento:** il vento inganna; il sole brucia anche quando non senti caldo. Cappellino, crema ad alta protezione e una giacca leggera per il nord.
+
+## Dove dormire
+
+- **Puerto del Carmen:** la località più vivace, con spiaggia urbana e posizione centrale.
+- **Playa Blanca:** più tranquilla, vicino a Papagayo e con traghetti per Fuerteventura.
 - **Costa Teguise:** vicina all'aeroporto e ad Arrecife, con vento costante per il windsurf.
 - **Nord e centro rurali:** case e piccoli hotel a Haría, Teguise o La Geria, ideali con l'auto.
 
-**Errori da evitare:**
+## Errori comuni
 
-1. **Arrivare a Timanfaya senza biglietto:** non si vende in biglietteria e fuori dalla tua fascia non vale.
-2. **Fare il bagno a Famara con mare mosso:** le correnti sono pericolose.
-3. **Salire al Mirador del Río con le nuvole:** perdi la vista su La Graciosa.
-4. **Andare a Teguise la domenica a mezzogiorno senza saperlo:** il mercato riempie vie e parcheggi.
-5. **Perdere l'ultimo traghetto da La Graciosa:** controlla l'orario di ritorno prima di andare alle spiagge.
+1. **Presentarsi a Timanfaya senza biglietto:** non c'è biglietteria e fuori dalla tua fascia oraria il biglietto non vale.
+2. **Fare il bagno a Famara con il mare mosso:** le correnti sono pericolose.
+3. **Salire al Mirador del Río in una giornata nuvolosa:** perderai la vista su La Graciosa.
+4. **Visitare Teguise a mezzogiorno di domenica senza saperlo:** il mercato riempie strade e parcheggi.
+5. **Perdere l'ultimo traghetto di ritorno da La Graciosa:** controlla l'orario del rientro prima di andare in spiaggia.
+
+## In una frase
+
+Lanzarote è lava, Manrique e mare: prenota i biglietti con orario per Timanfaya e la Cueva de los Verdes, noleggia un'auto e tieni una giornata per La Graciosa.

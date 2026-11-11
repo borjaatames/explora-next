@@ -28,8 +28,7 @@ slugs:
   it: escorial-biglietti-esauriti
   pt: escorial-bilhetes-esgotados
 reservasArriba: true
-intro: 'Felipe II mandó levantar el Real Monasterio de San Lorenzo de El Escorial entre 1563 y 1584, al pie de la sierra de Guadarrama. Bajo un mismo techo de granito reúne monasterio, palacio real, basílica, el **Panteón de Reyes** (donde descansan la mayoría de los monarcas españoles desde Carlos I) y una biblioteca con la bóveda pintada al fresco. Está a menos de una hora de Madrid y la visita lleva unas dos horas.'
-respuestaCorta: 'La entrada general al Monasterio cuesta **14 €** (más 0,77 € de gestión online) en tickets.patrimonionacional.es, y la **visita guiada oficial 22 €**. **Cierra los lunes.** Si tu franja sale agotada, prueba otra hora o la **taquilla**. Los ciudadanos de la UE e Iberoamérica entran **gratis los miércoles y domingos por la tarde**, solo en taquilla.'
+respuestaCorta: 'La entrada general al Monasterio cuesta **14 €** (más 0,77 € de gestión online) en `tickets.patrimonionacional.es`, y la **visita guiada oficial 22 €**. **Cierra los lunes.** Si tu franja sale agotada, prueba otra hora o la **taquilla**. Los ciudadanos de la UE e Iberoamérica entran **gratis los miércoles y domingos por la tarde**, solo en taquilla. Y una **excursión desde Madrid con la entrada incluida** te lo resuelve desde 62 €.'
 actividades:
   - escorial-valle-cuelgamuros-excursion-grupo
   - el-escorial-monasterio-entrada
@@ -52,6 +51,8 @@ opciones:
     etiqueta: Privada
 ---
 
+El Monasterio de El Escorial vende sus entradas en la web oficial de Patrimonio Nacional, que recomienda comprar con antelación. En puentes y fines de semana algunas franjas se llenan, pero casi siempre hay otra forma de entrar ese día. Conviene probarlas en este orden.
+
 ## ¿Qué entrada elegir?
 
 | Si buscas… | Opción | Desde |
@@ -60,47 +61,48 @@ opciones:
 | Solo la entrada, por tu cuenta | [Entrada al Real Monasterio](/ciudades/madrid/actividades/el-escorial-monasterio-entrada), 4,5★ (312) | 18 € |
 | Solo para vosotros, con recogida | [Tour privado con guía oficial desde Madrid](/ciudades/madrid/actividades/tour-privado-escorial-monasterio-real) | 820 € por grupo |
 
-## Qué vas a ver
+## 1. Vuelve a mirar la web oficial
 
-- **La Basílica**, coronada por una gran cúpula, preside el conjunto. Se puede ver sin entrada, salvo durante los cultos.
-- **El Panteón de Reyes**, bajo el altar mayor, donde descansan la mayoría de los reyes de España desde Carlos I. Es la sala que más impresiona.
-- **La Real Biblioteca**, con la bóveda pintada al fresco y miles de manuscritos y libros antiguos.
-- **El palacio**, desde donde Felipe II gobernó buena parte de su reinado y donde murió en 1598.
-
-Con la visita guiada oficial (unas 2 horas) ves lo esencial sin perderte; por tu cuenta, calcula al menos lo mismo.
-
-## Precios y horarios
-
-Las entradas se compran en la web oficial de Patrimonio Nacional, tickets.patrimonionacional.es. Precios vigentes desde el 16 de octubre de 2025:
+La web oficial es `tickets.patrimonionacional.es`. Precios vigentes desde el 16 de octubre de 2025:
 
 - **General:** 14 € (más 0,77 € de gestión online).
 - **Reducida:** 7 €, de 5 a 16 años, mayores de 65 y estudiantes hasta 25 años con carné.
-- **Gratis:** menores de 5 años, familias numerosas, personas con discapacidad desde el 33 % (y su acompañante), desempleados, profesores y guías oficiales. Solo en taquilla.
-- **Visita guiada oficial:** 22 € (15 € reducida). En español, de martes a domingo a las 10:30, 11:00, 11:30, 12:00, 12:30 y 13:30; en inglés, a las 10:45.
+- **Gratis:** menores de 5 años, familias numerosas, personas con discapacidad desde el 33 % (y su acompañante), desempleados, profesores y guías oficiales. Estas entradas gratuitas solo se sacan en taquilla.
+- **Visita guiada oficial:** 22 € (15 € reducida), unas 2 horas. En español, de martes a domingo a las 10:30, 11:00, 11:30, 12:00, 12:30 y 13:30. En inglés, de martes a domingo a las 10:45.
 
-**Horario:** de martes a domingo, de 10:00 a 18:00 de octubre a marzo y de 10:00 a 19:00 de abril a septiembre. **Los lunes cierra.** El acceso cierra 1 hora y 15 minutos antes (16:45 en invierno, 17:45 en verano).
+**Horario:** de martes a domingo, de 10:00 a 18:00 de octubre a marzo y de 10:00 a 19:00 de abril a septiembre. **Los lunes cierra.** La taquilla y el acceso cierran 1 hora y 15 minutos antes (a las 16:45 en invierno, a las 17:45 en verano).
 
-## Entrada gratis: miércoles y domingos por la tarde
+## 2. La taquilla y la entrada gratuita
 
-Si eres **ciudadano o residente de la UE o de Iberoamérica**, entras gratis los miércoles y domingos de 15:00 a 18:00 (octubre a marzo) y de 15:00 a 19:00 (abril a septiembre). Es sin guía, solo en la taquilla del **Centro de Recepción de Visitantes** y con documento. Como el acceso cierra antes, en invierno tienes hasta las 16:45 para entrar.
+La taquilla está en el **Centro de Recepción de Visitantes**, junto al Monasterio, y vende para el mismo día.
 
-## Si tu franja sale agotada
+Si eres **ciudadano o residente de la UE o de Iberoamérica**, la entrada es **gratis los miércoles y domingos por la tarde**: de 15:00 a 18:00 de octubre a marzo y de 15:00 a 19:00 de abril a septiembre. Es sin guía, solo en taquilla y con documento. Como el acceso cierra 1 h 15 min antes, en invierno solo tienes hasta las 16:45 para entrar.
 
-1. **Prueba otra hora u otro día** en la web oficial: en puentes y fines de semana se llenan algunas franjas, no el día entero.
-2. **Ve a la taquilla**, que vende para el mismo día.
-3. **Reserva una excursión con la entrada incluida** si no quieres depender de la taquilla. La más habitual combina El Escorial con el Valle de Cuelgamuros en medio día; comprueba que diga «entrada al Monasterio incluida».
+## 3. Una excursión con la entrada incluida
+
+Si no quieres depender de la taquilla, una excursión desde Madrid incluye transporte, guía y entrada. La más habitual combina El Escorial con el Valle de Cuelgamuros en medio día. Comprueba en la ficha que diga **«entrada al Monasterio incluida»**.
 
 [actividad: escorial-valle-cuelgamuros-excursion-grupo]
 
-## Cómo llegar desde Madrid
+## 4. Ir por tu cuenta desde Madrid
 
-- **Autobús 661 o 664** de Autocares Herranz desde el intercambiador de Moncloa: entre 35 y 55 minutos, y te deja cerca del Monasterio. Es la opción más cómoda.
-- **Cercanías C-8** desde Chamartín (unos 50 minutos) o Atocha (algo más de una hora). Desde la estación hay unos 15 minutos andando, cuesta arriba. En 2026 ha habido cortes de fin de semana por obras.
+- **Cercanías C-8** desde Chamartín (unos 50 minutos) o Atocha (algo más de una hora). Desde la estación hay unos 15 minutos andando, cuesta arriba. Ojo: en 2026 ha habido cortes de fin de semana por obras.
+- **Autobús 661 o 664** de Autocares Herranz desde el intercambiador de Moncloa: entre 35 y 55 minutos, y te deja cerca del Monasterio.
 
-## Consejos
+## 5. Lo que ves sin entrada
 
-- **No vayas un lunes:** cierra todos los lunes del año.
-- **Desconfía de precios antiguos:** algunas webs siguen poniendo 12 €; desde octubre de 2025 son 14 €.
-- **Compra solo en la web oficial:** las entradas gratuitas nunca se venden online.
-- **Deja tiempo para el pueblo:** la lonja con la sierra detrás, los jardines del Real Sitio (abiertos todos los días) y las calles empinadas de San Lorenzo, con sus terrazas.
-- Si dudas entre ir por libre o con guía, lo comparamos en [¿Excursión privada o en grupo desde Madrid?](/guias/madrid/excursion-privada-o-en-grupo-desde-madrid).
+- La **Basílica** no necesita entrada (cierra durante los cultos).
+- La **fachada y la lonja** del Monasterio, con la sierra detrás.
+- Los **jardines del Real Sitio**, abiertos todos los días.
+- El **pueblo de San Lorenzo**, con sus calles empinadas y sus terrazas.
+
+## Errores que hay que evitar
+
+1. **Ir un lunes.** Cierra todos los lunes del año.
+2. **Fiarse de precios antiguos.** Algunas webs siguen poniendo 12 €; desde octubre de 2025 son 14 €.
+3. **Comprar en webs que no son la oficial.** Las gratuidades nunca se venden online: si una web te «vende» una entrada gratis, no es la oficial.
+4. **Llegar a la entrada gratuita a última hora.** El acceso cierra 1 h 15 min antes del cierre.
+
+## En una frase
+
+Si tu franja sale agotada, prueba otra hora o la taquilla, recuerda que los lunes cierra, y si no quieres arriesgarte reserva una excursión con la entrada incluida; cómo encaja en tu viaje lo contamos en [¿Excursión privada o en grupo desde Madrid?](/guias/madrid/excursion-privada-o-en-grupo-desde-madrid).

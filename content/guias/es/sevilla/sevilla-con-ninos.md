@@ -4,14 +4,14 @@ descripcion: 'Qué hacer en Sevilla con niños de varias edades sin caer en lo o
 categoria: sevilla
 slug: sevilla-con-ninos
 fecha: '2026-05-01'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-27"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/guias/sevilla-con-ninos.jpg
 imagen_alt: Atracción acuática Iguazú en Isla Mágica, Sevilla
-tiempo_lectura: 5
+tiempo_lectura: 4
 keywords:
 - sevilla con niños
 - qué hacer en sevilla con niños
@@ -27,8 +27,7 @@ slugs:
   it: siviglia-con-bambini
   pt: sevilha-com-criancas
 reservasArriba: true
-intro: 'Viajar a **Sevilla con niños** es fácil: la ciudad es **plana, compacta y peatonal**, y del Alcázar a la Plaza de España hay 10 minutos andando. Tiene planes que enganchan de los 3 a los 16 años, del Alcázar y sus pavos reales a las barcas de la Plaza de España, el Acuario, Isla Mágica o un kayak por el Guadalquivir, y casi todos están a un paseo unos de otros.'
-respuestaCorta: 'Sevilla con niños funciona muy bien si sigues una regla: **monumentos por la mañana**, agua o parque por la tarde y todo lo que tenga cola, comprado antes. Gratis: **Plaza de España y María Luisa**. Con calor, **Isla Mágica** (4-11 años, desde 27 €) o el **Acuario** (18 € adultos, 13 € niños de 4 a 14 años).'
+respuestaCorta: 'Sevilla es **plana y compacta** (del Alcázar a la Plaza de España hay 10 minutos a pie), así que funciona muy bien con niños si sigues una regla: **monumentos por la mañana**, agua o parque por la tarde y todo lo que tenga cola, comprado antes. Con calor, **Isla Mágica** (4-11 años, desde 27 €) o el **Acuario** (18 € adultos, 13 € niños de 4 a 14 años).'
 actividades:
   - isla-magica-sevilla-entrada
   - acuario-sevilla-entrada
@@ -56,6 +55,8 @@ faq:
   respuesta: 'En Semana Santa y la Feria de Abril: calles cortadas, aglomeraciones y hoteles al doble de precio. Y en invierno (noviembre-marzo) Isla Mágica está cerrada, así que el plan de parque temático no existe esos meses.'
 ---
 
+**Sevilla es plana, compacta y peatonal:** del Alcázar a la Plaza de España hay 10 minutos andando. Con niños funciona muy bien si respetas una regla: monumentos por la mañana, agua o parque por la tarde, y todo lo que tenga cola, comprado de antemano.
+
 ## Los mejores planes con niños
 
 | Plan | Actividad | Desde |
@@ -70,24 +71,18 @@ faq:
 | Alcázar sin colas | [Real Alcázar con guía y acceso sin colas](/ciudades/sevilla/actividades/real-alcazar-sevilla-tour-guiado-skip-line), 4,4★ (510) | 36 € |
 | Fotos imposibles a cubierto | [Museo de las Ilusiones](/ciudades/sevilla/actividades/museo-ilusiones-sevilla-entrada), 4,2★ (1.352) | 15 € |
 
-## Qué hacer en Sevilla con niños según la edad
+## Qué funciona según la edad
 
-- **Todas las edades: Plaza de España y Parque de María Luisa.** Gratis, con barcas en el canal (unos 6 € por 35 minutos), bancos de azulejos de cada provincia para jugar a buscarlos, y pavos reales y zonas infantiles en el parque.
-- **A partir de 6-7 años: Real Alcázar.** Los jardines, los pavos reales y buscar las caritas del Patio de las Muñecas les enganchan. Los menores de 13 años acompañados entran gratis, pero necesitan entrada: cómprala online.
-- **5-12 años: Acuario de Sevilla.** 18 € adultos, 13 € niños de 4 a 14 años, gratis menores de 4. Mejor por la tarde, cuando más calor hace fuera.
-- **A partir de 7-8 años: la Giralda.** Se sube por rampas, no escaleras, y los menores de 13 acompañados no pagan.
-- **4-11 años: Isla Mágica y Agua Mágica**, desde 27 €. En verano, siempre con la zona acuática. Cierra de noviembre a marzo.
-- **10-16 años: kayak por el Guadalquivir** al amanecer o al atardecer, desde 17 € (a partir de 8 años).
+- **Todas las edades: Plaza de España y Parque de María Luisa.** Gratis, con barcas en el canal, bancos de azulejos de cada provincia para jugar a buscarlos, y pavos reales y zonas infantiles en el parque.
+- **A partir de 6-7 años: Real Alcázar.** Los jardines, los pavos reales y buscar las caritas del Patio de las Muñecas les enganchan.
+- **5-12 años: Acuario de Sevilla.** Mejor por la tarde, cuando hace más calor fuera.
+- **A partir de 7-8 años: la Giralda.** Se sube por rampas, no escaleras.
+- **3-11 años: Isla Mágica y Agua Mágica** (de abril a noviembre; en verano, siempre con la zona acuática).
+- **10-16 años: kayak por el Guadalquivir** al amanecer o al atardecer.
 
-[actividad: acuario-sevilla-entrada]
+## Cuándo ir
 
-## Más planes en familia: río, tuk tuk y bici
-
-- **Crucero guiado por el Guadalquivir:** desde 25 €, y los niños ven media ciudad sentados.
-- **Tuk tuk eléctrico privado:** 1 hora por 71 € el grupo (hasta 4 personas), o el gran tour de 2 horas con Cartuja y Macarena por 124 €. Ideal si los peques ya no quieren andar.
-- **Tour en bici** (en inglés), desde 28 €, para niños que pedalean bien.
-- **Setas de Sevilla:** mirador de 360° al atardecer, desde 16 €.
-- **Museo de las Ilusiones:** fotos imposibles a cubierto, desde 15 €.
+Lo ideal es de **marzo a mayo** y de **mediados de septiembre a noviembre**. En julio y agosto el calor pasa de 40 °C: solo mañanas y tardes, y piscina a mediodía. En invierno Isla Mágica está cerrada.
 
 ## Lo que puedes saltarte con niños
 
@@ -99,12 +94,12 @@ faq:
 
 La regla: donde haya sevillanos al lado, no solo turistas. Si la carta tiene foto y la sangría va en jarra grande, sal; el sevillano bebe tinto de verano o cerveza.
 
-- **Tapas antes de las 14:00:** Bodeguita Romero (calle Harinas, Arenal) y Casa Morales (García de Vinuesa, de 1850), con tapas a 3-5 €. En Triana, Las Golondrinas (Antillano Campos): pequeño y ruidoso, para niños que aguanten de pie.
+- **Tapas antes de las 14:00:** Bodeguita Romero (calle Harinas, Arenal) y Casa Morales (García de Vinuesa, de 1850), ambas con tapas a 3-5 €. En Triana, Las Golondrinas (Antillano Campos): pequeño, ruidoso, para niños que aguanten de pie.
 - **Con mesa y menú infantil:** Casa Cuesta (calle Castilla, junto al puente de Triana), con reserva.
 - **Helado:** La Fiorentina (calle Zaragoza, junto a Plaza Nueva). Evita las heladerías de bolas de colores de la Avenida de la Constitución.
 - **Ni un café** en la Avenida de la Constitución, frente a la Catedral: precios al doble y paella congelada. Cinco minutos hacia el Arenal y todo cambia.
 
-## Un día en Sevilla en familia
+## Un día con niños
 
 | Hora | Plan |
 | --- | --- |
@@ -115,14 +110,15 @@ La regla: donde haya sevillanos al lado, no solo turistas. Si la carta tiene fot
 | 17:30 | Acuario o barco por el río |
 | 20:00 | Calle Betis al atardecer y tapas |
 
-**Cuándo ir:** lo ideal es de **marzo a mayo** y de **mediados de septiembre a noviembre**. En julio y agosto el calor pasa de 40 °C: solo mañanas y tardes, y piscina a mediodía. En Semana Santa y Feria de Abril hay calles cortadas, aglomeraciones y hoteles al doble de precio. Para más días, mira [Sevilla en 3 días](/guias/sevilla/sevilla-en-3-dias).
-
-## Errores a evitar al viajar a Sevilla con niños
+## Errores a evitar
 
 1. **Catedral, Alcázar y Plaza de España el mismo día.** Son 4-5 horas de monumentos para un adulto; para un niño, la receta del desastre. Reparte en dos días o quita uno.
-2. **Hacer cola en la Catedral o el Alcázar:** compra online y reserva la franja de 9:30 a 12:00. Después de comer hay más gente, más calor y los niños están rendidos.
+2. **Hacer cola en la Catedral o el Alcázar:** compra online y reserva siempre la franja de 9:30 a 12:00. Después de comer hay más gente, más calor y los niños están rendidos.
 3. **Moverse en coche por el centro.** Es peatonal o casi, las zonas de acceso restringido tienen cámaras y la multa son 200 €. Aparca en Paseo de Colón o Avenida de Roma y anda.
 4. **Pasar la mañana entera en Santa Cruz con peques:** calles estrechas y sin sombra. Ve a las 9:00 o a las 20:00, y alterna con parques.
-5. **Subestimar el calor.** De junio a septiembre, 1,5 litros de agua por persona, gorra y crema, y sombra cada hora.
-6. **No mirar el calendario de Isla Mágica:** mucha gente se entera al llegar de que está cerrada.
+5. **Subestimar el calor.** De junio a septiembre, 1,5 litros de agua por persona, gorra y crema, y sombra cada hora. A mediodía, piscina o Acuario.
+6. **No mirar el calendario de Isla Mágica:** cierra de noviembre a marzo. Mucha gente se entera al llegar.
 7. **Dormir en la Cartuja:** queda aislada. Mejor Arenal, Santa Cruz o Triana.
+
+Para más días, mira [Sevilla en 3 días](/guias/sevilla/sevilla-en-3-dias).
+

@@ -4,7 +4,7 @@ descripcion: 'Se o seu horário no Museu Picasso aparece esgotado ou não conseg
 categoria: barcelona
 slug: museu-picasso-barcelona-bilhetes-esgotados
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-10-27'
 autor: Borja
 publicada: true
 destacada: false
@@ -26,21 +26,18 @@ slugs:
   it: museo-picasso-barcellona-biglietti-esauriti
   pt: museu-picasso-barcelona-bilhetes-esgotados
 reservasArriba: true
-intro: 'Encontrar os **bilhetes do Museu Picasso de Barcelona esgotados** não tem de o deixar sem museu. O Museu Picasso ocupa **cinco palácios medievais da rua Montcada**, no Born, e a sua coleção percorre a evolução do pintor, desde os **anos de formação em Barcelona** até à série sobre ***As Meninas***. Tem lotação limitada, por isso em pontes, fins de semana e no verão convém saber que alternativas restam.'
-respuestaCorta: 'Bilhetes do Museu Picasso de Barcelona esgotados? Veja outros horários em **museupicassobcn.cat** (**12 €** online, 13 € na bilheteira) ou tente a **bilheteira da rua Montcada**: o bilhete pago raramente esgota o dia todo; os lugares **gratuitos** voam. Para ir pelo seguro, uma **visita guiada sem filas** (desde 37 €) inclui a entrada.'
+respuestaCorta: 'O Museu Picasso tem lotação limitada e os lugares **gratuitos** voam, mas o bilhete pago raramente esgota o dia todo. Veja outras horas no site oficial `museupicassobcn.cat` (**12 €** online, 13 € na bilheteira) ou tente a **bilheteira da rua Montcada**. Se não quiser arriscar, uma **visita guiada sem filas** (desde 37 €) garante-lhe a entrada.'
 actividades:
   - museo-picasso-tour-guiado-sin-colas
   - museo-picasso-tour-guiado-tours-for-today
 faq:
 - pregunta: É possível comprar bilhetes do Museu Picasso na bilheteira no próprio dia?
-  respuesta: 'Sim. O museu vende bilhetes nas bilheteiras da rua Montcada, a 13 €, mais um euro do que online, e a bilheteira fecha 30 minutos antes do encerramento. Como a lotação é limitada, em dias de muita afluência pode não haver lugar: compre online se já sabe o dia.'
-- pregunta: Quanto custa a entrada no Museu Picasso de Barcelona?
-  respuesta: O bilhete geral para a coleção custa 12 € online e 13 € na bilheteira; o reduzido, 7 € (dos 18 aos 25 anos, estudantes universitários, maiores de 65 e desempregados, com comprovativo). Os menores de 18 anos entram grátis.
-- pregunta: Quando é grátis o Museu Picasso de Barcelona?
-  respuesta: Às quintas-feiras das 16h00 às 19h00, no primeiro domingo de cada mês e nos dias de portas abertas de 12 de fevereiro, 17 de maio e 24 de setembro. Em todos os casos é preciso reservar no site oficial; as reservas abrem quatro dias antes, às 10h00. Os menores de 18 anos entram sempre grátis.
+  respuesta: 'Sim. O museu vende bilhetes nas bilheteiras da rua Montcada, a 13 €, mais um euro do que online, e a bilheteira fecha 30 minutos antes do encerramento. Como a lotação é limitada, em dias de muita afluência pode não haver vaga: compre online se já souber que dia vai.'
+- pregunta: Quando é que o Museu Picasso de Barcelona é gratuito?
+  respuesta: 'Às quintas-feiras das 16h00 às 19h00, no primeiro domingo de cada mês e nos dias de portas abertas de 12 de fevereiro, 17 de maio e 24 de setembro. Em todos os casos é preciso reservar no site oficial; as reservas abrem quatro dias antes, às 10h00. Os menores de 18 anos entram sempre de graça.'
 - pregunta: Posso trocar ou devolver o meu bilhete do Museu Picasso?
-  respuesta: As normas de acesso do museu dizem que o bilhete só vale para o dia e a hora indicados e que os bilhetes não utilizados não são reembolsados. Se não tem a certeza dos seus planos, veja as condições de cancelamento das visitas guiadas antes de reservar.
-- pregunta: Uma visita guiada é fiável se o site oficial não tiver lugar?
+  respuesta: 'O regulamento de acesso do museu diz que o bilhete só é válido para o dia e a hora indicados e que o valor dos bilhetes não utilizados não é devolvido. Se não tiver a certeza dos seus planos, veja as condições de cancelamento das visitas guiadas antes de reservar.'
+- pregunta: Uma visita guiada é fiável se o site oficial não tiver vagas?
   respuesta: Sim, desde que a ficha diga que a entrada no museu está incluída. Os operadores reservam os lugares com antecedência e entra com o grupo a uma hora fixa, sem passar pela bilheteira.
 opciones:
   - ficha: museo-picasso-tour-guiado-sin-colas
@@ -49,6 +46,8 @@ opciones:
     etiqueta: A mais bem avaliada
 ---
 
+O Museu Picasso ocupa cinco palácios medievais da rua Montcada e tem **lotação limitada**. Por isso, em fins de semana prolongados, fins de semana e no verão, a hora que queria pode aparecer esgotada, e os lugares gratuitos das quintas-feiras e do primeiro domingo acabam assim que abrem as reservas. Nenhuma das duas coisas o deixa sem museu. Estas são as vias, pela ordem em que convém experimentá-las.
+
 ## Que bilhete escolher?
 
 | Se procura… | Opção | Desde |
@@ -56,47 +55,55 @@ opciones:
 | A com mais avaliações | [Museu Picasso: tour guiado sem filas](/en/cities/barcelona/activities/picasso-museum-skip-the-line-guided-tour), 4,5★ (3.552) | 37 € |
 | A mais bem avaliada | [Museu Picasso: tour guiado sem filas com a Tours For Today](/en/cities/barcelona/activities/picasso-museum-tours-for-today-skip-the-line-guided-tour), 4,6★ (158) | 39 € |
 
-## O que vai ver
+## 1. Volte a consultar o site oficial
 
-- **A coleção permanente**, que acompanha a evolução de Picasso desde os anos de formação em Barcelona até *As Meninas*.
-- **Os palácios da rua Montcada**: o museu ocupa cinco palácios medievais com pátios góticos.
-- **Exposições temporárias:** de **20 de novembro de 2026 a 7 de março de 2027** pode ver-se *Picasso e a arquitetura*. Se vai por ela, veja o que inclui o seu bilhete.
+O site oficial é `museupicassobcn.cat`. O bilhete geral para a coleção custa **12 € online** e **13 € na bilheteira**; o reduzido, **7 €** (dos 18 aos 25 anos, estudantes universitários, maiores de 65 e desempregados, com comprovativo). Os **menores de 18 anos entram grátis** e os menores de 14 têm de ir acompanhados por um adulto.
 
-## Preços e horários
+- **Veja outras horas do mesmo dia.** Se a sua hora estiver cheia, pode haver vaga logo de manhã ou a meio da tarde.
+- **Tenha em conta o horário:** de terça a domingo, das **10h00 às 19h00**. A 24 e 31 de dezembro fecha às 14h00.
+- **Confirme que abre nesse dia.** Fecha **todas as segundas-feiras** e também a **1 de janeiro, 1 de maio, 24 de junho e 25 de dezembro**.
+- **Se for por causa de uma exposição temporária,** veja o que inclui o seu bilhete. De **20 de novembro de 2026 a 7 de março de 2027** pode ver-se *Picasso e a arquitetura*.
 
-O site oficial é museupicassobcn.cat.
+Compre só quando tiver o dia definido: segundo o regulamento do museu, o bilhete é válido para a data e hora indicadas e **não é reembolsado** se não o usar.
 
-- **Geral:** **12 € online** e **13 € na bilheteira**.
-- **Reduzido:** **7 €**, dos 18 aos 25 anos, estudantes universitários, maiores de 65 e desempregados, com comprovativo.
-- **Grátis:** os **menores de 18 anos**, sempre. Os menores de 14 têm de ir acompanhados por um adulto.
+## 2. A bilheteira da rua Montcada
 
-**Horário:** de terça a domingo, das **10h00 às 19h00**; a 24 e 31 de dezembro fecha às 14h00. **Fecha todas as segundas-feiras** e também a 1 de janeiro, 1 de maio, 24 de junho e 25 de dezembro.
+O museu vende bilhetes nas **bilheteiras da rua Montcada**, a 13 €. A bilheteira fecha **30 minutos antes do encerramento**, por isso não deixe para a última. Como a lotação é limitada, em dias de muita gente pode não haver lugar: é uma boa opção durante a semana e fora da época alta, não um plano seguro num sábado de agosto.
 
-Compre só quando tiver o dia decidido: segundo as normas do museu, o bilhete vale para a data e a hora indicadas e **não é reembolsado** se não o usar.
+Leve pouca bagagem: as malas com mais de 30 × 30 × 25 cm não podem entrar nas salas, embora haja **bengaleiro gratuito**.
 
-## Museu Picasso Barcelona grátis, sempre com reserva
+## 3. A entrada gratuita, sempre com reserva
 
-O museu é grátis **às quintas-feiras das 16h00 às 19h00**, no **primeiro domingo de cada mês** e nos dias de portas abertas de **12 de fevereiro**, **17 de maio** (Dia Internacional dos Museus) e **24 de setembro**.
+O museu é gratuito **às quintas-feiras das 16h00 às 19h00**, no **primeiro domingo de cada mês** e nos dias de portas abertas de **12 de fevereiro**, **17 de maio** (Dia dos Museus) e **24 de setembro**. Não basta aparecer: **é preciso reservar no site oficial**, e as reservas abrem **quatro dias antes, às 10h00**.
 
-Não basta aparecer: **é preciso reservar no site oficial**, e as reservas abrem **quatro dias antes, às 10h00**. Os lugares esgotam depressa, por isso entre às 10h00 em ponto e tenha várias horas em mente. Se ficar de fora, o bilhete pago noutra hora continua a ser o caminho mais simples.
+Esse é o problema: os lugares acabam depressa. Se quiser ir de graça, ligue-se às 10h00 em ponto do dia em que abrem as reservas e tenha várias horas em mente. Se ficar de fora, o bilhete pago noutra hora continua a ser a via mais simples.
 
-## Museu Picasso Barcelona sem bilhetes: o que fazer
+## 4. Uma visita guiada sem filas
 
-1. **Veja outros horários do mesmo dia** no site oficial. Se a sua hora estiver cheia, pode haver lugar logo de manhã ou a meio da tarde.
-2. **Tente a bilheteira da rua Montcada** (13 €), que fecha **30 minutos antes do encerramento**. Com lotação limitada, em dias de muita gente pode não haver lugar: funciona durante a semana e fora da época alta, não é um plano seguro num sábado de agosto.
-3. **Reserve uma visita guiada sem filas.** Os operadores autorizados costumam ter lugares porque reservam com antecedência. Paga mais, mas entra a hora fixa, sem bilheteira, com alguém que lhe explica a obra. Há uma visita guiada sem filas **desde 37 €**, a mais comentada, e outra com a Tours For Today **desde 39 €**, a mais bem avaliada. Confirme que a ficha diz **«entrada no Museu Picasso incluída»** e veja o cancelamento.
+Quando o site oficial não tem vagas, os operadores autorizados costumam ter lugares porque reservam com antecedência. Paga mais do que no site oficial, mas entra com hora fixa e com alguém que lhe explica a evolução de Picasso, desde os anos de formação em Barcelona até *As Meninas*:
+
+- **Tour guiado sem filas (desde 37 €):** a opção com mais avaliações das que indicamos.
+- **Tour guiado sem filas com a Tours For Today (desde 39 €):** a mais bem avaliada das duas, por apenas mais 2 €.
+
+Antes de pagar, confirme na ficha que diz **«entrada no Museu Picasso incluída»** e reveja as condições de cancelamento.
 
 [actividad: museo-picasso-tour-guiado-sin-colas]
 
 [actividad: museo-picasso-tour-guiado-tours-for-today]
 
-## Conselhos
+## 5. O Articket BCN e o Born de graça
 
-- **Compre só no site oficial** (museupicassobcn.cat): há vários sites com «Picasso» no nome que cobram mais.
-- **Não vá à segunda-feira** nem a 24 de junho, dia de São João.
-- **Leve o comprovativo se entrar com reduzido:** pedem-no na bilheteira; sem ele paga o geral.
-- **Viaje leve:** as malas com mais de 30 × 30 × 25 cm não podem entrar nas salas, mas há **bengaleiro gratuito**.
-- **Articket BCN** (**38 €**, em articketbcn.org): inclui uma visita ao Museu Picasso e a outros cinco museus, entre eles o MNAC, o MACBA e a Fundació Joan Miró, durante 12 meses, com coleção e exposições temporárias.
-- **Se afinal não entrar**, passeie pela rua Montcada e espreite os pátios góticos dos seus palácios. A dois minutos fica **El Born Centre de Cultura i Memòria**, com acesso gratuito ao recinto (as exposições e o sítio arqueológico são pagos).
+Se também vai visitar outros museus de arte, o **Articket BCN** (**38 €**, em `articketbcn.org`) inclui uma visita ao Museu Picasso e a outros cinco museus, entre eles o MNAC, o MACBA e a Fundació Joan Miró, durante 12 meses, com coleção e exposições temporárias.
 
-Para o encaixar num dia completo, veja [Barcelona num dia](/pt/guides/barcelona/barcelona-num-dia), e se também falhar a basílica, leia [o que fazer se a Sagrada Família estiver esgotada](/pt/guides/barcelona/sagrada-familia-bilhetes-esgotados).
+E se no fim não entrar, o bairro merece a visita na mesma. Passear pela **rua Montcada** e espreitar os pátios góticos dos seus palácios não custa nada, e a dois minutos fica o **El Born Centre de Cultura i Memòria**, cujo acesso ao recinto é gratuito (as exposições e o sítio arqueológico pagam-se).
+
+## Erros a evitar
+
+1. **Comprar em sites que imitam o oficial.** Há vários com «Picasso» no nome que cobram a mais. O oficial é `museupicassobcn.cat`.
+2. **Aparecer numa quinta-feira à tarde ou no primeiro domingo sem reserva.** A entrada é gratuita, mas tem de ser reservada quatro dias antes.
+3. **Ir a uma segunda-feira.** O museu fecha todas as segundas e também a 24 de junho, dia de Sant Joan.
+4. **Esquecer o documento se entrar com bilhete reduzido.** Pedem-no na bilheteira; sem ele paga a tarifa geral.
+
+## Numa frase
+
+Se a sua hora aparecer esgotada, experimente outra no site oficial ou na bilheteira da rua Montcada e, se não quiser arriscar, reserve uma visita guiada com entrada incluída; para o encaixar num dia completo, veja [Barcelona num dia](/pt/guides/barcelona/barcelona-num-dia), e se a basílica também lhe falhar, leia [o que fazer se a Sagrada Família estiver esgotada](/pt/guides/barcelona/sagrada-familia-bilhetes-esgotados).

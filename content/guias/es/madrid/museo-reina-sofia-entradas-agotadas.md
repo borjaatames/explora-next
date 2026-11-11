@@ -5,14 +5,14 @@ metaTitle: 'Reina Sofía entradas agotadas: opciones y horas gratis'
 categoria: madrid
 slug: museo-reina-sofia-entradas-agotadas
 fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-01'
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/actividades/madrid/reina-sofia-edificio/museo-reina-sofia-edificio-nacional-centro-arte-plaza-juan-hero.webp
 imagen_alt: Fachada del Edificio Sabatini del Museo Reina Sofía de noche, con sus torres de ascensores de cristal iluminadas y cola de visitantes en la entrada
-tiempo_lectura: 4
+tiempo_lectura: 5
 keywords:
 - entradas reina sofía agotadas
 - reina sofía gratis horario
@@ -28,8 +28,7 @@ slugs:
   it: museo-reina-sofia-biglietti-esauriti
   pt: museu-reina-sofia-bilhetes-esgotados
 reservasArriba: true
-intro: 'Si te encuentras las **entradas del Reina Sofía agotadas**, merece la pena insistir: es el gran museo de arte del siglo XX de Madrid, con el **Guernica** de Picasso, Dalí y Miró en el Edificio Sabatini, a unos 7 minutos a pie del Prado. La colección se ve bien en dos o tres horas, y casi siempre hay otra franja, la taquilla o una visita guiada para entrar.'
-respuestaCorta: 'Con las **entradas del Reina Sofía agotadas**, prueba otra hora en entradas.museoreinasofia.es (**12 €**) o la **taquilla**. Lo que más se agota son las **horas gratis** (lunes y de miércoles a sábado de **19:00 a 21:00**; domingos de **12:30 a 14:30**), que también se reservan. Una **visita guiada con entrada** cuesta desde 29 €.'
+respuestaCorta: 'La entrada general cuesta **12 €** en la web oficial (`entradas.museoreinasofia.es`) y se compra con hora; si tu franja sale agotada, prueba otra hora del mismo día o la **taquilla**, que vende hasta 30 minutos antes del cierre. Lo que más se agota son las **horas gratis** (lunes y de miércoles a sábado de **19:00 a 21:00**; domingos de **12:30 a 14:30**), que también exigen reservar entrada. Si quieres ir a tiro hecho, una **visita guiada con la entrada incluida** cuesta desde 29 €.'
 actividades:
   - reina-sofia-entrada
   - reina-sofia-visita-guiada-amigo-tours
@@ -39,16 +38,16 @@ actividades:
   - museo-thyssen-entrada
   - museo-prado-entrada
 faq:
-- pregunta: ¿Cuándo es gratis el Museo Reina Sofía?
-  respuesta: Los lunes y de miércoles a sábado de 19:00 a 21:00, y los domingos de 12:30 a 14:30. Además, son días gratuitos completos el 18 de abril, el 18 y el 22 de mayo, el 12 de octubre y el 6 de diciembre. La gratuidad es solo para visitantes individuales y hace falta entrada, que se reserva gratis en la web oficial.
-- pregunta: ¿Qué hago si las entradas gratuitas del Reina Sofía están agotadas?
-  respuesta: 'Compra la entrada de 12 € para una franja anterior a las 19:00: las franjas de pago van de las 10:00 hasta que empieza la hora gratis y tienen un cupo distinto. Si eres menor de 18, mayor de 65 o estudiante, entras gratis cualquier día, pero esa entrada solo se saca en taquilla con tu acreditación.'
-- pregunta: ¿Se pueden comprar entradas del Reina Sofía en taquilla el mismo día?
-  respuesta: Sí. La taquilla vende entradas del día y cierra 30 minutos antes que el museo, es decir, a las 20:30 de lunes a sábado (el martes cierra) y a las 14:00 los domingos. Las entradas reducidas y gratuitas por edad o por ser estudiante solo se obtienen allí.
-- pregunta: ¿Qué días cierra el Museo Reina Sofía?
-  respuesta: Todos los martes, y además el 1 y el 6 de enero, el 1 de mayo y el 24, 25 y 31 de diciembre. El 15 de mayo y el 9 de noviembre también cierra, aunque esas dos fechas pueden cambiar según el calendario laboral de la Comunidad de Madrid.
-- pregunta: ¿Merece la pena pagar una visita guiada para ver el Guernica?
-  respuesta: 'Si solo quieres ver el Guernica, no: basta la entrada de 12 € y una hora. Compensa si quieres entender la colección del siglo XX en poco tiempo o si la web no te deja la hora que buscas. Hay visitas de 75 minutos desde 29,05 €, en grupo de seis desde 45 € y privadas desde 124 €, todas con la entrada incluida.'
+  - pregunta: ¿Cuándo es gratis el Museo Reina Sofía?
+    respuesta: 'Los lunes y de miércoles a sábado de 19:00 a 21:00, y los domingos de 12:30 a 14:30. Además, son días gratuitos completos el 18 de abril, el 18 y el 22 de mayo, el 12 de octubre y el 6 de diciembre. La gratuidad es solo para visitantes individuales y hace falta entrada, que se reserva gratis en la web oficial.'
+  - pregunta: ¿Qué hago si las entradas gratuitas del Reina Sofía están agotadas?
+    respuesta: 'Compra la entrada de 12 € para una franja anterior a las 19:00: las franjas de pago van de las 10:00 hasta que empieza la hora gratis y tienen un cupo distinto. Si eres menor de 18, mayor de 65 o estudiante, entras gratis cualquier día, pero esa entrada solo se saca en taquilla con tu acreditación.'
+  - pregunta: ¿Se pueden comprar entradas del Reina Sofía en taquilla el mismo día?
+    respuesta: 'Sí. La taquilla vende entradas del día y cierra 30 minutos antes que el museo, es decir, a las 20:30 de lunes a sábado (el martes cierra) y a las 14:00 los domingos. Las entradas reducidas y gratuitas por edad o por ser estudiante solo se obtienen allí.'
+  - pregunta: ¿Qué días cierra el Museo Reina Sofía?
+    respuesta: 'Todos los martes, y además el 1 y el 6 de enero, el 1 de mayo y el 24, 25 y 31 de diciembre. El 15 de mayo y el 9 de noviembre también cierra, aunque esas dos fechas pueden cambiar según el calendario laboral de la Comunidad de Madrid.'
+  - pregunta: ¿Merece la pena pagar una visita guiada para ver el Guernica?
+    respuesta: 'Si solo quieres ver el Guernica, no: basta la entrada de 12 € y una hora. Compensa si quieres entender la colección del siglo XX en poco tiempo o si la web no te deja la hora que buscas. Hay visitas de 75 minutos desde 29,05 €, en grupo de seis desde 45 € y privadas desde 124 €, todas con la entrada incluida.'
 opciones:
   - ficha: reina-sofia-entrada
     etiqueta: La más barata
@@ -59,6 +58,8 @@ opciones:
   - ficha: reina-sofia-visita-privada-guia
     etiqueta: Privada
 ---
+
+El Reina Sofía vende sus entradas por franjas horarias, y en puentes, fines de semana y temporada alta algunas salen agotadas en la web. Pero aquí lo que de verdad se agota son las **horas gratuitas**, que también hay que reservar. Antes de rendirte, conviene saber qué cupo es cuál, porque una franja de pago a las 17:00 y una gratuita a las 19:00 no compiten por las mismas plazas.
 
 ## ¿Qué opción te queda?
 
@@ -73,37 +74,26 @@ opciones:
 | Solo para vosotros | [Visita privada con guía oficial](/ciudades/madrid/actividades/reina-sofia-visita-privada-guia) | 124 € |
 | Alternativa cercana | [Museo Thyssen-Bornemisza](/ciudades/madrid/actividades/museo-thyssen-entrada), 4,8★ (460) | 14 € |
 
-## Qué vas a ver
+## 1. La web oficial: precios y franjas
 
-El Reina Sofía es el museo de arte del siglo XX de Madrid. La pieza que todos buscan es el **Guernica** de Picasso, en la colección de la segunda planta del **Edificio Sabatini**, junto a Dalí, Miró y los surrealistas españoles. La sede principal la forman los Edificios Sabatini y Nouvel.
+La venta oficial está en `entradas.museoreinasofia.es`, enlazada desde `museoreinasofia.es`. Estos son los precios de la sede principal (Edificios Sabatini y Nouvel):
 
-La colección se ve bien en **dos o tres horas**; si solo quieres el Guernica, basta una hora. La entrada te sirve para volver a entrar el mismo día.
+- **Entrada general: 12 €.** Colección y exposiciones de la sede.
+- **Entrada de dos visitas: 18 €.** Vale para volver una segunda vez en el plazo de un año.
+- **General con audioguía: 18 €.**
+- **Gratis** para menores de 18, mayores de 65 y estudiantes, pero **solo en taquilla** y con acreditación.
 
-[actividad: reina-sofia-visita-privada-guia]
+Al comprar eliges la hora. Las franjas de pago van **de las 10:00 hasta que empieza la gratuidad**. Si la tuya sale agotada:
 
-## Precio y horario de las entradas del Museo Reina Sofía
+- **Mira otras horas del mismo día.** La colección se ve bien en dos o tres horas, así que entrar a las 16:00 en lugar de a las 11:00 no te arruina el plan.
+- **Mira otro día.** El martes cierra, y el domingo solo abre de 10:00 a 14:30, así que el lunes y el miércoles suelen ser mejores apuestas que el fin de semana.
+- **Comprueba el horario:** lunes y de miércoles a sábado, de **10:00 a 21:00**; domingos, de **10:00 a 14:30**. El último acceso es 30 minutos antes del cierre.
 
-La venta oficial está en **entradas.museoreinasofia.es**, enlazada desde museoreinasofia.es:
+La entrada es personal e intransferible y te sirve para volver a entrar el mismo día, así que guárdala.
 
-- **General:** 12 €, colección y exposiciones de la sede.
-- **Dos visitas:** 18 €, para volver una segunda vez en el plazo de un año.
-- **General con audioguía:** 18 €.
-- **Gratis** para menores de 18, mayores de 65 y estudiantes, pero **solo en taquilla** y con acreditación. Las reducidas al 50 % (familias numerosas y voluntariado cultural), también allí.
+## 2. Las horas gratis: cuándo son y cómo se reservan
 
-**Horario:** lunes y de miércoles a sábado de **10:00 a 21:00**; domingos de **10:00 a 14:30**. Último acceso 30 minutos antes. **Cierra todos los martes**, además del 1 y 6 de enero, el 1 de mayo y el 24, 25 y 31 de diciembre (y el 15 de mayo y el 9 de noviembre, según el calendario laboral).
-
-## Si las entradas del Reina Sofía están agotadas
-
-Las entradas se venden por franjas, y una de pago a las 17:00 y una gratuita a las 19:00 **no compiten por las mismas plazas**. Si la tuya sale agotada:
-
-1. **Mira otras horas del mismo día.** Las franjas de pago van de las 10:00 hasta que empieza la gratuidad; entrar a las 16:00 en lugar de a las 11:00 no te arruina el plan.
-2. **Mira otro día.** El martes cierra y el domingo solo abre hasta las 14:30, así que el lunes y el miércoles suelen ser mejores apuestas que el fin de semana.
-3. **Ve a la taquilla el mismo día.** Vende entradas del día y cierra 30 minutos antes que el museo (20:30 de lunes a sábado, 14:00 los domingos). En puentes, cuenta con cola.
-4. **Reserva una visita guiada con la entrada incluida.** Los operadores tienen cupo propio: visita de 75 minutos con el Guernica, Dalí y Miró desde **29,05 €**, grupo de máximo seis desde **45 €** o privada con guía oficial desde **124 €**.
-
-[actividad: reina-sofia-visita-guiada-amigo-tours]
-
-## Reina Sofía gratis: horario y reserva
+Según la web oficial, el Reina Sofía es gratis en estas franjas:
 
 | Día | Horario gratuito |
 | --- | --- |
@@ -112,28 +102,56 @@ Las entradas se venden por franjas, y una de pago a las 17:00 y una gratuita a l
 | Miércoles a sábado | 19:00-21:00 |
 | Domingo | 12:30-14:30 |
 
-Son **días gratuitos completos** el **18 de abril**, el **18 y el 22 de mayo**, el **12 de octubre** y el **6 de diciembre**.
+Y son **días gratuitos completos** el **18 de abril**, el **18 y el 22 de mayo**, el **12 de octubre** y el **6 de diciembre**.
 
-- **Hace falta entrada también en horario gratuito.** Se reserva gratis online, igual que una de pago.
-- **Es solo para visitantes individuales**, no para grupos.
-- **Dos horas dan para poco:** el Guernica y la segunda planta del Sabatini.
-- **Las más disputadas** son las tardes de viernes y sábado y el domingo: resérvalas en cuanto sepas el día.
+Tres cosas que mucha gente no sabe:
 
-**Si las entradas gratuitas están agotadas**, no esperes a la puerta: compra una franja de pago antes de las 19:00. Es otro cupo y lo ves con calma.
+1. **Hace falta entrada también en horario gratuito.** Se reserva gratis online, igual que una de pago.
+2. **La gratuidad es solo para visitantes individuales**, no para grupos.
+3. **Dos horas dan para poco.** Te llega para el Guernica y la colección de la segunda planta del Sabatini, no para todo el museo.
 
-## Si no consigues nada: alternativas cercanas
+Si la reserva gratuita sale agotada, no esperes a la puerta: compra una franja de pago antes de las 19:00. Es otro cupo y te da tiempo de verlo con calma.
 
-- **Museo Thyssen-Bornemisza** (14 €), a unos 15 minutos a pie por el Paseo del Prado: arte del siglo XX (expresionismo, Pop Art), el sustituto más lógico.
-- **Museo del Prado**, a unos 7 minutos a pie. Si también está lleno, mira [entradas del Prado agotadas](/guias/madrid/museo-del-prado-entradas-agotadas).
-- **Palacio de Cristal y Palacio de Velázquez**, en el Retiro: sedes del Reina Sofía con exposiciones temporales y **entrada gratuita**. Abren de 10:00 a 18:00 de octubre a marzo y hasta las 21:00 de abril a septiembre; el de Cristal puede cerrar por lluvia o calor extremo.
+## 3. La taquilla
+
+La taquilla vende entradas para el mismo día y **cierra 30 minutos antes que el museo** (20:30 de lunes a sábado, 14:00 los domingos). Es también el único sitio donde se sacan las entradas gratuitas por edad o estudios y las reducidas al 50 % (familias numerosas y voluntariado cultural). En días de puente, cuenta con cola.
+
+## 4. Una visita guiada con la entrada incluida
+
+Si la web no te da la hora que quieres o prefieres que alguien te explique el Guernica y el arte del siglo XX, los operadores con cupo propio te venden la visita con la entrada ya incluida:
+
+- **Visita de 75 minutos (desde 29,05 €):** bilingüe español-inglés, con el Guernica, Dalí y Miró.
+- **Grupo de máximo seis (desde 45 €):** hora y media, con recogida en el hotel.
+- **Privada con guía oficial (desde 124 €):** dos horas a vuestro ritmo, con cancelación gratuita hasta 24 horas antes.
+
+[actividad: reina-sofia-visita-guiada-amigo-tours]
+
+[actividad: reina-sofia-visita-privada-guia]
+
+Si vas a ver también el Prado y el Thyssen, el **Paseo del Arte** (32,80 € en la web oficial) o el [Art Walk Pass](/ciudades/madrid/actividades/art-walk-pass-prado-reina-sofia-thyssen) (desde 38 €) incluyen una entrada a cada museo.
+
+## 5. Si no consigues nada: alternativas cercanas
+
+- **Museo Thyssen-Bornemisza**, a unos 15 minutos a pie por el Paseo del Prado, tiene arte del siglo XX (expresionismo, Pop Art) y es el sustituto más lógico.
+- **Museo del Prado**, a unos 7 minutos a pie. Si también está lleno, lo explicamos en [entradas del Prado agotadas](/guias/madrid/museo-del-prado-entradas-agotadas).
+- **Palacio de Cristal y Palacio de Velázquez**, en el Retiro: son sedes del Reina Sofía, con exposiciones temporales y **entrada gratuita**. De octubre a marzo abren de 10:00 a 18:00 y de abril a septiembre hasta las 21:00. El Palacio de Cristal puede cerrar por lluvia o calor extremo.
 
 [actividad: museo-thyssen-entrada]
 
-## Consejos
+## Cuándo se agota y con cuánta antelación
 
-- **No llegues a las 19:00 sin entrada gratuita reservada:** sin reserva dependes de que quede cupo.
-- **No vayas un martes:** cierra todos los martes.
-- **El domingo no hay tarde:** cierra a las 14:30 y la última entrada es a las 14:00.
-- **Compra solo en la web oficial** o a revendedores que cobren por un servicio extra (guía, flexibilidad); hay webs que imitan a la oficial.
-- **En puentes y festivos,** compra la entrada de pago con unos días de margen; el resto del año suele haber hueco el mismo día.
-- **Si vas a ver también el Prado y el Thyssen,** el Paseo del Arte (32,80 € en la web oficial) o el Art Walk Pass (desde 38 €) incluyen una entrada a cada museo. Para decidir entre los tres, mira [Prado, Reina Sofía o Thyssen](/guias/madrid/prado-reina-sofia-thyssen-comparativa).
+- **Horas gratuitas:** las de la tarde de viernes y sábado y la del domingo son las más disputadas. Resérvalas en cuanto sepas el día.
+- **Entradas de pago:** salvo en puentes y festivos, suele haber hueco el mismo día en alguna franja. Si viajas en un puente, cómpralas con unos días de margen.
+- **Días gratuitos completos** (18 de abril, 18 y 22 de mayo, 12 de octubre y 6 de diciembre): esperan colas largas.
+
+## Errores típicos
+
+1. **Llegar a las 19:00 sin entrada gratuita reservada.** La gratuidad no es puerta abierta: sin reserva dependes de que quede cupo.
+2. **Ir un martes.** Cierra todos los martes. Y el 9 de noviembre, festivo en Madrid, también.
+3. **Comprar en webs que imitan a la oficial.** La oficial es `entradas.museoreinasofia.es`; los revendedores serios lo dicen claro y cobran por un servicio extra (guía, flexibilidad).
+4. **Pensar que el domingo hay tarde.** Cierra a las 14:30 y la última entrada es a las 14:00.
+5. **Querer ver todo en la hora gratis.** Céntrate en el Guernica y la segunda planta del Sabatini.
+
+## En una frase
+
+Si el Reina Sofía sale agotado, compra una franja de pago de 12 € a otra hora o ve a la taquilla; si buscas la hora gratis, resérvala online, y si quieres ir sin riesgo, una visita guiada con la entrada incluida desde 29 €. Para decidir entre museos, mira [Prado, Reina Sofía o Thyssen](/guias/madrid/prado-reina-sofia-thyssen-comparativa).

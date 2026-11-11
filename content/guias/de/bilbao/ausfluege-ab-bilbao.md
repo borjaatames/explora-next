@@ -5,13 +5,13 @@ metaTitle: "Ausflüge ab Bilbao: Gaztelugatxe & Co."
 categoria: "bilbao"
 slug: "ausfluege-ab-bilbao"
 fecha: "2026-04-26"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/escapadas-desde-bilbao.jpg"
 imagen_alt: "San Juan de Gaztelugatxe mit Kapelle und Steinbrücke"
-tiempo_lectura: 4
+tiempo_lectura: 5
 keywords:
   - "ausflüge ab bilbao"
   - "gaztelugatxe"
@@ -28,25 +28,15 @@ slugs:
   it: gite-da-bilbao
   pt: escapadinhas-a-partir-de-bilbau
 reservasArriba: true
-intro: '**Ausflüge ab Bilbao** bringen dich in weniger als einer Stunde ins ganze Baskenland: zur Einsiedelei **San Juan de Gaztelugatxe** über dem Meer, an die Bucht La Concha und zu den Pintxos von **San Sebastián**, ins Biosphärenreservat **Urdaibai** mit Mundaka, Bermeo und Gernika und zu den ummauerten Dörfern und Weingütern der **Rioja Alavesa**. Vieles geht ohne Auto, mit Zug oder Bus, und alles passt in einen Tag.'
-respuestaCorta: 'Unter den **Ausflügen ab Bilbao** ist **San Juan de Gaztelugatxe** (45 Min.) der Star: kostenlos, aber in der Hochsaison nur mit **Reservierung für ein Zeitfenster**. Kombinier es mit Bermeo, Mundaka und Gernika auf einem Ausflug ab 45 €. **San Sebastián** liegt eine Busstunde entfernt, ideal als Tagesausflug. Die **Rioja Alavesa** am besten mit Auto oder Tour.'
+respuestaCorta: 'Der Ausflug schlechthin ist **San Juan de Gaztelugatxe** (45 Min.): Der Eintritt ist frei, in der Hochsaison aber nur mit **Reservierung für ein Zeitfenster** (täglich vom 15. Juni bis 20. September, dazu Ostern, Brückentage und viele Wochenenden). Kombiniere ihn mit Bermeo, Mundaka und Gernika auf einer Tour ab 45 €. **San Sebastián** liegt eine Stunde entfernt und klappt gut als Tagesausflug, auf eigene Faust oder mit Tour (ab 45 €).'
 actividades:
   - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
   - san-sebastian-hondarribia-getaria-desde-bilbao
   - biarritz-san-juan-de-luz-san-sebastian-desde-bilbao
   - rioja-alavesa-bodegas-excursion-desde-bilbao
-faq:
-- pregunta: Muss man für Gaztelugatxe reservieren?
-  respuesta: 'In der Hochsaison ja: Der Eintritt ist frei, aber mit Reservierung für ein Zeitfenster, täglich vom 15. Juni bis 20. September, an Ostern, an Brückentagen und an vielen Wochenenden im Frühjahr und Herbst (Kalender auf tiketa.eus). Den Rest des Jahres ist der Zugang frei. Im Sommer sind die Plätze eine Woche vorher weg.'
-- pregunta: Wie kommt man ohne Auto von Bilbao nach San Sebastián?
-  respuesta: 'Mit dem Bus von Bizkaibus/PESA ab Termibus, alle 30 Minuten: Fahrzeit 1 Std. 15, Preis 7-12 € je nach Uhrzeit. In San Sebastián ist alles zu Fuß erreichbar.'
-- pregunta: Wie kommt man von Bilbao nach Gernika, Mundaka und Bermeo?
-  respuesta: 'Mit der Euskotren-Linie E4, die ab Matiko über die Metrolinie 3 aus dem Zentrum fährt: 45 Minuten bis Gernika und 1 Stunde bis Mundaka und Bermeo, alle halbe Stunde, Tickets für 3-4 €. Der beste Ausflug ohne Auto.'
-- pregunta: Kommt man ohne Auto in die Rioja Alavesa?
-  respuesta: 'Nicht praktikabel: Sie liegt 1 Stunde entfernt über die A-68. Die Weingüter (Marqués de Riscal, Ysios, Baigorri) kann man nur mit Reservierung zu festen Zeiten besichtigen, für 20-40 € mit Verkostung. Wer trinken will, nimmt einen organisierten Ausflug oder einen Fahrer.'
-- pregunta: Wie lange dauert ein Besuch in Gaztelugatxe?
-  respuesta: Insgesamt etwa 2 Stunden. Vom Parkplatz Eneperi bis zur Einsiedelei sind es 2,5 km und 40 Minuten zu Fuß; die 241 Stufen sind nur das letzte Stück. Bei starkem Wind oder Sturm wird der Zugang gesperrt.
 ---
+
+**Bilbao ist der perfekte Ausgangspunkt, um das Baskenland zu entdecken.** In weniger als einer Stunde erreichst du eine der wildesten Küsten Spaniens, San Sebastián, ein Biosphärenreservat, das historische Herz des Baskenlands und die Weinberge der Rioja Alavesa. Dieser Guide ordnet die besten Tagesausflüge danach, wie viel Zeit du hast und wie du hinkommst.
 
 ## Ausflüge mit Transport ab Bilbao
 
@@ -56,53 +46,63 @@ faq:
 | [San Sebastián, Hondarribia und Getaria](/en/cities/bilbao/activities/san-sebastian-hondarribia-getaria-from-bilbao) | 4,6★ (1.022) | 35 € |
 | [Biarritz, Saint-Jean-de-Luz und San Sebastián](/en/cities/bilbao/activities/biarritz-saint-jean-de-luz-san-sebastian-from-bilbao) | 4,7★ (898) | 70 € |
 
+Am bekanntesten ist **Gaztelugatxe**, aber die Küste von Urdaibai und San Sebastián können locker mithalten. Wähle nach Lust und Laune: Meer, Essen, Natur oder Wein.
+
+## Die besten Ausflüge im Überblick
+
+| Ziel | Entfernung | Ideal für |
+| --- | --- | --- |
+| Gaztelugatxe | 45 Min. | Kapelle über dem Meer (Game of Thrones) |
+| San Sebastián | 1 Std. | La Concha, Pintxos und Monte Igueldo |
+| Urdaibai (Mundaka, Bermeo) | 45 Min. | Biosphärenreservat und Surfen |
+| Gernika | 30 Min. | Baskische Geschichte und Casa de Juntas |
+| Rioja Alavesa (Laguardia) | 1 Std. | Weingüter und mittelalterliche Dörfer |
+| Vitoria-Gasteiz | 1 Std. | Mittelalterliche Altstadt und grüne Stadt |
+
 ## San Juan de Gaztelugatxe
 
-45 Minuten entfernt steht eine **Einsiedelei auf einer Felsinsel**, mit dem Festland durch eine Brücke und eine Treppe mit **241 Stufen** verbunden, weltberühmt als Dragonstone aus *Game of Thrones*, mit spektakulärem Blick auf die Küste.
+45 Minuten entfernt steht eine **Kapelle auf einer kleinen Felseninsel**, die über eine Brücke und eine Treppe mit **241 Stufen** mit dem Festland verbunden ist. Weltberühmt wurde sie als Drachenstein in *Game of Thrones*. Der Zugang wird über eine **kostenlose Reservierung** geregelt; prüfe das, bevor du losfährst. Die Aussicht auf die Küste ist spektakulär.
 
-- **Reservierung:** Der Eintritt ist frei, in der Hochsaison aber nur mit **Reservierung für ein Zeitfenster**: täglich vom 15. Juni bis 20. September, an Ostern, an Brückentagen und an vielen Wochenenden im Frühjahr und Herbst (Kalender auf tiketa.eus). Den Rest des Jahres ist der Zugang frei. Im Sommer sind die Plätze eine Woche vorher weg.
-- **Der Weg:** Vom Parkplatz Eneperi bis zur Einsiedelei sind es 2,5 km und 40 Minuten; die 241 Stufen sind nur das Ende. Rechne mit **insgesamt 2 Stunden**, bequemen Schuhen und ohne Eile.
-- **Wetter:** Bei starkem Wind oder Sturm wird der Zugang gesperrt. In der Saison ist der Parkplatz schnell voll: früh hinfahren.
+## San Sebastián
 
-Wer nicht selbst fahren will: Der Ausflug, der Gaztelugatxe mit Bermeo, Mundaka und Gernika samt Txakoli verbindet, kostet ab 45 €.
+Eine Stunde entfernt steht **Donostia** für Eleganz und gutes Essen: die Bucht **La Concha** (einer der besten Stadtstrände Europas), der Monte Igueldo, die Altstadt (Parte Vieja) für Pintxos und eine der höchsten Dichten an Michelin-Sternen weltweit. Ein rundum gelungener Tag.
 
-[actividad: gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao]
+## Urdaibai: Mundaka, Bermeo und Gernika
 
-## San Sebastián ab Bilbao
+45 Minuten entfernt liegt das **Biosphärenreservat Urdaibai**: Marschland, Strände und Fischerdörfer. **Mundaka** hat eine der berühmtesten **Surfwellen** Europas, **Bermeo** einen charmanten Fischereihafen und **Gernika**, Symbol der baskischen Geschichte, die **Casa de Juntas** mit dem heiligen Baum (und die Erinnerung an Picassos *Guernica*).
 
-Eine Stunde entfernt steht **Donostia** für Eleganz und Küche: die Bucht **La Concha**, einer der schönsten Stadtstrände Europas, der **Monte Igueldo**, die Altstadt für Pintxos und eine der höchsten Dichten an Michelin-Sternen der Welt.
+## Die Rioja Alavesa
 
-- **Ohne Auto:** Bus von Bizkaibus/PESA ab Termibus alle 30 Minuten; 1 Std. 15 und 7-12 € je nach Uhrzeit.
-- **Vor Ort:** alles zu Fuß; die Standseilbahn auf den Igueldo kostet 4,50 €, der Peine del Viento ist gratis.
-- **Mit Tour:** Manche Ausflüge kombinieren die Stadt mit Hondarribia und Getaria oder mit Biarritz und Saint-Jean-de-Luz jenseits der Grenze.
+Eine Stunde entfernt liegen die Weinberge der **Rioja Alavesa**: ummauerte mittelalterliche Dörfer wie **Laguardia** und spektakuläre Weingüter (darunter das von Frank Gehry gestaltete Hotel-Weingut in Elciego). Weintourismus auf höchstem Niveau; buche den Besuch vorab.
 
-## Mundaka, Urdaibai und Gernika
+## Praktisches: Reservierungen, Preise und Zeiten
 
-45 Minuten entfernt liegt das **Biosphärenreservat Urdaibai**: Marschland, Strände und Fischerdörfer. **Mundaka** hat eine der berühmtesten **Surfwellen** Europas (aber keinen richtigen Strand), **Bermeo** ist ein reizvoller Fischerhafen, und **Gernika**, 30 Minuten entfernt, ist ein Symbol der baskischen Geschichte, mit der **Casa de Juntas** (Eintritt frei), dem Baum und der Erinnerung an Picassos *Guernica*. Markttag in Gernika ist montags.
+- **Gaztelugatxe:** Der Eintritt ist frei, aber in der Hochsaison brauchst du eine **Pflichtreservierung** für ein Zeitfenster: täglich vom 15. Juni bis 20. September, an Ostern, an Brückentagen und an vielen Wochenenden im Frühling und Herbst (Kalender auf tiketa.eus). Den Rest des Jahres ist der Zugang frei. Im Sommer sind die Plätze eine Woche im Voraus weg. Vom Parkplatz Eneperi bis zur Kapelle sind es 2,5 km und 40 Minuten; die 241 Stufen sind nur das letzte Stück. Rechne insgesamt mit 2 Stunden. Bei Sturm wird gesperrt.
+- **San Sebastián ohne Auto:** Bus von Bizkaibus/PESA ab dem Busbahnhof Termibus alle 30 Minuten, 1 Std. 15 Min., je nach Uhrzeit 7–12 €. Vor Ort erledigst du alles zu Fuß; die Standseilbahn auf den Igueldo kostet 4,50 €, der Peine del Viento ist gratis.
+- **Urdaibai:** Die Euskotren-Linie E4 (ab dem Zentrum mit der Metrolinie 3, ab Matiko) fährt nach Gernika (45 Minuten), Mundaka und Bermeo (1 Stunde), alle halbe Stunde, Tickets für 3–4 €. Das ist der beste Ausflug ohne Auto. Die Casa de Juntas in Gernika ist kostenlos; Markttag ist montags.
+- **Rioja Alavesa:** Ohne Auto gibt es keine praktische Lösung; mit dem Auto 1 Stunde über die A-68. Die Weingüter (Marqués de Riscal, Ysios, Baigorri) kannst du nur mit Reservierung und zu festen Zeiten besichtigen, für 20–40 € mit Verkostung. Wenn ihr trinken wollt, nehmt eine organisierte Tour oder einen Fahrer.
+- **Strände in Urdaibai:** Laida und Laga sind die besten; im Sommer ist der Parkplatz in Laga um 11:00 Uhr voll. Mundaka hat keinen richtigen Strand, es ist ein Surferort.
+- **Wetter:** An der Küste ist es 3–5 Grad kühler als in Bilbao, morgens gibt es oft Nebel. Für Gaztelugatxe solltest du die Windvorhersage prüfen: Bei starken Böen wird der Zugang gesperrt.
 
-- **Ohne Auto:** Die Euskotren-Linie E4, die ab Matiko über die Metrolinie 3 aus dem Zentrum fährt, erreicht Gernika (45 Minuten), Mundaka und Bermeo (1 Stunde), alle halbe Stunde, für 3-4 €. Der beste Ausflug ohne Auto.
-- **Strände:** **Laida** und **Laga** sind die schönsten; im Sommer ist der Parkplatz von Laga um 11 Uhr voll.
-- Die drei Orte lieber zusammen besuchen als Mundaka allein.
+## So bewegst du dich fort
 
-## Rioja Alavesa und Vitoria-Gasteiz
+**Getxo und die Puente Bizkaia** erreichst du mit der **Metro** (Linie 1). Für Gaztelugatxe, Urdaibai oder die Rioja Alavesa gibt dir das **Auto** mehr Freiheit. Nach **San Sebastián** und **Vitoria** fahren bequeme Busse und Züge. Reserviere Gaztelugatxe und die Weingüter rechtzeitig.
 
-Eine Stunde über die A-68 liegen die Weinberge der **Rioja Alavesa**: ummauerte mittelalterliche Dörfer wie **Laguardia** und spektakuläre Weingüter, darunter das am Hotel von Frank Gehry in Elciego. Die Bodegas (Marqués de Riscal, Ysios, Baigorri) sind **nur mit Reservierung** zu festen Zeiten zu besichtigen, für **20-40 € mit Verkostung**. Ohne Auto kommt man praktisch nicht hin; wer trinken will, nimmt einen organisierten Ausflug oder einen Fahrer.
+## Was wir NICHT empfehlen
 
-Ebenfalls eine Stunde entfernt: **Vitoria-Gasteiz** mit mittelalterlicher Altstadt und dem Ruf einer grünen Stadt, gut mit Bus und Zug erreichbar.
-
-## Fortbewegung und Wetter
-
-- **Getxo und Puente Bizkaia:** mit der Metro, Linie 1.
-- **Gaztelugatxe, Urdaibai und Rioja Alavesa:** Mit dem Auto bist du freier, Urdaibai klappt aber sehr gut mit der Euskotren.
-- **San Sebastián und Vitoria:** bequeme Busse und Züge.
-- **Wetter:** An der Küste ist es 3-5 Grad kühler als in Bilbao, morgens oft neblig. Regenjacke einpacken: Der Sirimiri kommt ohne Vorwarnung.
+1. **Ohne Reservierung nach Gaztelugatxe fahren.** Der Zugang wird kontrolliert; ohne Reservierung kannst du draußen bleiben.
+2. **Zwei weit entfernte Ausflüge am selben Tag.** San Sebastián oder die Rioja füllen bereits einen ganzen Tag.
+3. **Die 241 Stufen in Eile oder mit schlechtem Schuhwerk hochsteigen.** Lass dir Zeit.
+4. **Das Atlantikwetter vergessen.** Nimm eine Regenjacke mit; der Nieselregen (Sirimiri) kommt ohne Vorwarnung.
 
 ## Typische Fehler
 
-1. **In der Hochsaison ohne Reservierung nach Gaztelugatxe:** Du kannst draußen bleiben.
-2. **Zwei weite Ausflüge am selben Tag.** San Sebastián oder die Rioja füllen schon einen ganzen Tag.
-3. **Die 241 Stufen hastig oder mit falschen Schuhen angehen.**
-4. **Die Besichtigung der Bodegas** in der Rioja Alavesa nicht reservieren.
-5. **Das Parken in Gaztelugatxe** in der Saison unterschätzen.
+> **⚠️ Hinweis:** die Fehler, die wir am häufigsten sehen.
 
-Für die Stadt selbst lies [Bilbao an einem Tag](/de/guides/bilbao/bilbao-in-einem-tag).
+1. **Den Besuch im Weingut nicht reservieren**, vor allem in der Rioja Alavesa.
+2. **Mundaka ohne Bermeo und Gernika besuchen.** Sie liegen nah beieinander und sind zusammen der bessere Plan.
+3. **Die Parkplatzsituation in Gaztelugatxe unterschätzen**, vor allem in der Saison; fahr früh los.
+
+## In einem Satz
+
+Von Bilbao aus erreichst du in weniger als einer Stunde Gaztelugatxe, San Sebastián, die wilde Küste von Urdaibai und die Weinberge der Rioja Alavesa: das ganze Baskenland in Reichweite eines Tagesausflugs. Für die Stadt selbst lies [Bilbao an einem Tag](/de/guides/bilbao/bilbao-in-einem-tag).

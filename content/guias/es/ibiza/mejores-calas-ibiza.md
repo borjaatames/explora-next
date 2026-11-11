@@ -1,12 +1,11 @@
 ---
 titulo: "Las mejores calas de Ibiza por zonas (y dónde ver el atardecer)"
 descripcion: "Las mejores calas de Ibiza: Cala Comte, Cala Salada, Cala d'Hort y Es Vedrà, Benirràs y más, por zonas. Cuáles tienen servicios, cómo llegar y cuándo ir."
-intro: 'Las **mejores calas de Ibiza** están entre las más bonitas del Mediterráneo: agua turquesa, pinares que bajan hasta el mar y atardeceres de leyenda. El **suroeste** concentra las más fotogénicas, como Cala Comte y Cala d''Hort frente al islote de **Es Vedrà**; el **norte**, calas agrestes y tranquilas como Cala Salada o Benirràs, y el **sur**, las playas de moda junto a las salinas.'
-respuestaCorta: 'Las mejores calas de Ibiza son **Cala Comte y Cala d''Hort** en el suroeste (agua turquesa y los mejores atardeceres, la segunda frente a Es Vedrà), **Cala Salada y Benirràs** en el norte más agreste y **Ses Salines** en el sur. En verano, llega **antes de las 9:00 o después de las 18:00**, o recórrelas desde el mar en barco.'
+respuestaCorta: 'Las mejores calas de Ibiza son **Cala Comte y Cala d''Hort** en el suroeste (agua turquesa y los mejores atardeceres, la segunda frente a Es Vedrà), **Cala Salada y Benirràs** en el norte más agreste y Ses Salines en el sur. En verano, llega **antes de las 9:00 o después de las 18:00**, o recórrelas desde el mar: los cruceros por calas salen **desde 52 €**.'
 categoria: "ibiza"
 slug: "mejores-calas-ibiza"
 fecha: "2026-04-14"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-28"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
@@ -26,17 +25,6 @@ slugs:
   it: calette-piu-belle-di-ibiza
   pt: melhores-calas-de-ibiza
 reservasArriba: true
-faq:
-- pregunta: ¿Cuál es la cala más bonita de Ibiza?
-  respuesta: 'Depende de lo que busques: Cala Comte por el agua turquesa y el atardecer, Cala d''Hort por las vistas a Es Vedrà, y Cala Salada o Benirràs si prefieres el norte agreste y con pinares.'
-- pregunta: ¿Se puede ir en coche a Cala Salada?
-  respuesta: 'Del 1 de mayo al 15 de octubre (temporada 2026), el acceso por carretera está controlado de 9:30 a 17:00: los coches pasan solo mientras quedan plazas (unas 65). Motos, bicis y taxis sí pueden pasar. La alternativa es el aparcamiento disuasorio de Can Coix con el autobús P7, o el barco desde el puerto de San Antonio.'
-- pregunta: ¿Dónde ver el atardecer en Ibiza?
-  respuesta: En Cala d'Hort o el mirador des Savinar, con Es Vedrà al fondo; en Cala Comte; en Benirràs los domingos, con tambores, y en el Sunset Strip de San Antonio (Café del Mar), el más concurrido. Llega una hora antes en verano.
-- pregunta: ¿Se puede llegar a las calas de Ibiza en autobús?
-  respuesta: 'En verano hay autobuses de temporada a Platges de Comte, Cala Bassa, Cala Salada, Benirràs y Ses Salines, y la línea A13 llega a Cala d''Hort con solo seis viajes al día. Los números y horarios cambian cada temporada: compruébalos en alsaibiza.es. Para casi todo el norte hace falta coche o barco.'
-- pregunta: ¿Cuándo hay medusas en las calas de Ibiza?
-  respuesta: Aparecen sobre todo con viento de sur. Con viento de norte, las calas del sur están planas y las del norte picadas, y al revés. El agua está a 25-27 °C en julio y agosto y a unos 24 °C en septiembre.
 opciones:
   - ficha: ruta-calas-ibiza-todo-incluido-paddle-esnorquel
     etiqueta: Mejor valorada
@@ -54,6 +42,8 @@ imagen_portada: "/images/guias/mejores-calas-ibiza.jpg"
 imagen_alt: "Cala Conta con su islote en Ibiza"
 ---
 
+**Ibiza tiene algunas de las calas más bonitas del Mediterráneo**, de agua turquesa y atardeceres de leyenda. Pero también el problema de siempre en verano: aparcamiento mínimo y calas de moda a rebosar. Esta guía las ordena por zonas, te dice cuáles tienen servicios y dónde ver la mejor puesta de sol, con el truco de madrugar para disfrutarlas.
+
 ## Las calas desde el mar
 
 | Actividad | Valoración | Desde |
@@ -63,7 +53,11 @@ imagen_alt: "Cala Conta con su islote en Ibiza"
 | [Tour en kayak por cuevas marinas con esnórquel desde Cala Codolar](/ciudades/ibiza/actividades/kayak-cuevas-cala-codolar-esnorquel) | 4,8★ (333) | 50 € |
 | [Barco a Es Vedrà, Espalmador y Formentera con comidas](/ciudades/ibiza/actividades/crucero-es-vedra-sant-antoni) | 4,1★ (1.335) | 155 € |
 
-## Las mejores calas de Ibiza por zonas
+La isla es pequeña: el **suroeste** concentra las calas más fotogénicas y los atardeceres; el **norte** es más tranquilo y agreste; el **sur** tiene las playas de moda junto a las salinas.
+
+[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
+
+## Por zonas
 
 | Zona | Calas destacadas | Carácter |
 | --- | --- | --- |
@@ -72,43 +66,53 @@ imagen_alt: "Cala Conta con su islote en Ibiza"
 | Sur | Ses Salines, Es Cavallet | De moda, junto a las salinas |
 | Este | Cala Llonga, Cala Mastella, Cala Boix | Familiares y pequeñas |
 
-[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
+## Las imprescindibles
 
-## Las imprescindibles: Cala Comte, Cala Salada, Cala d'Hort y Benirràs
+**Cala Comte (suroeste).** Aguas turquesas con islotes enfrente y **uno de los mejores atardeceres** de la isla. Muy popular: ve pronto.
 
-- **Cala Comte (suroeste).** Aguas turquesas con islotes enfrente y uno de los mejores atardeceres de la isla. Muy popular: ve pronto.
-- **Cala Salada y Cala Saladeta (norte).** Dos calas seguidas de agua transparente y pinar, al norte de San Antonio. La Saladeta, más pequeña y salvaje, se alcanza andando.
-- **Cala d'Hort (suroeste).** La cala con vistas a **Es Vedrà**, el islote envuelto en leyendas. El atardecer con la roca al fondo es la postal de Ibiza.
-- **Benirràs (norte).** Famosa por los **tambores al atardecer de los domingos**, con ambiente hippy y una roca singular, «el dedo de Dios».
-- **Ses Salines (sur).** La playa de moda, junto al parque natural de las salinas, con beach clubs y aguas claras gracias a la posidonia.
+**Cala Salada y Cala Saladeta (norte).** Dos calas seguidas de agua transparente y pinar, al norte de San Antonio. La Saladeta, más pequeña y salvaje, se alcanza andando.
 
-## Cómo llegar y dónde aparcar
+**Cala d'Hort (suroeste).** La cala con vistas a **Es Vedrà**, el islote envuelto en leyendas. El atardecer aquí, con la roca al fondo, es la postal de Ibiza.
 
-- **Cala Bassa:** aparcamiento gratuito que se llena hacia las 10:00-11:00 en agosto.
-- **Cala Comte:** algunos aparcamientos son privados o de temporada; mira la tarifa al llegar.
-- **Cala Salada y Saladeta:** del 1 de mayo al 15 de octubre (temporada 2026), el acceso por carretera está controlado **de 9:30 a 17:00**: los coches pasan solo mientras quedan plazas (unas 65); motos, bicis y taxis sí pueden pasar. La alternativa es dejar el coche en el aparcamiento disuasorio de Can Coix y coger el autobús P7 (que también sale de la estación de San Antonio), o ir en barco desde el puerto de San Antonio. Desde el primer aparcamiento, un camino peatonal de unos 500 m baja a la playa.
-- **Cala d'Hort:** se aparca en el arcén de la carretera de bajada, que se llena a media tarde por el atardecer.
-- **Sin coche:** en verano hay autobuses de temporada a Platges de Comte, Cala Bassa, Cala Salada, Benirràs y Ses Salines (en 2026, líneas como P4, P5, P6, P7, A7 y A14). A Cala d'Hort llega la A13 desde Sant Josep, con solo seis viajes al día. Los números y horarios cambian cada temporada: compruébalos en alsaibiza.es el mismo día. Para casi todo el norte hace falta coche o barco.
+**Benirràs (norte).** Famosa por los **tambores al atardecer** de los domingos. Ambiente hippy y puesta de sol con una roca singular ("el dedo de Dios").
 
-## Dónde ver el atardecer: Cala d'Hort y Es Vedrà
+**Ses Salines (sur).** La playa de moda, junto al parque natural de las salinas, con beach clubs y aguas claras (gracias a la posidonia).
 
-- **Cala d'Hort y el mirador des Savinar**, con Es Vedrà al fondo: el clásico. La Torre des Savinar está a 20 minutos a pie desde la carretera de Cala d'Hort, por camino de tierra, y tiene mucha menos gente que la cala. Lleva linterna para la vuelta.
+## Lo práctico: aparcar, llegar y qué cuesta
+
+- **Aparcamientos:** el de Cala Bassa es gratuito y se llena hacia las 10:00-11:00 en agosto; en Cala Comte algunos aparcamientos son privados o de temporada, así que mira la tarifa al llegar. En Cala Salada y Saladeta, del 1 de mayo al 15 de octubre (temporada 2026), el acceso por carretera está controlado **de 9:30 a 17:00** todos los días: los coches pasan solo mientras quedan plazas (unas 65); motos, bicis y taxis sí pueden pasar. La alternativa es dejar el coche en el aparcamiento disuasorio de Can Coix y coger el autobús P7 (que también sale de la estación de San Antonio), o ir en barco desde el puerto de San Antonio. Desde el primer aparcamiento, un camino peatonal señalizado de unos 500 m baja hasta la playa. Cala d'Hort tiene sitio en el arcén de la carretera de bajada, que se llena a media tarde por el atardecer.
+- **Sin coche:** en verano hay autobuses de temporada a Platges de Comte, Cala Bassa, Cala Salada, Benirràs y Ses Salines (en 2026, líneas como P4, P5, P6, P7, A7 y A14). Los números y horarios cambian cada temporada: compruébalos en alsaibiza.es el mismo día. A Cala d'Hort llega en verano la línea A13 desde Sant Josep, con solo seis viajes al día; para casi todo el norte hace falta coche o barco.
+- **Beach clubs:** en Cala Jondal, Ses Salines y Cala Bassa las hamacas en primera fila son caras y suelen exigir consumo mínimo; las de segunda y tercera fila salen más baratas, y en la arena pública, gratis.
+- **Chiringuitos de cala:** comer en Cala Mastella (El Bigotes, solo con reserva y famoso por su bullit de peix), Cala Boix o Cala Xarraca sale bastante más barato que en los chiringuitos de moda.
+- **Agua y medusas:** el mar está a 25-27 °C en julio y agosto, y a unos 24 °C en septiembre. Las medusas aparecen con viento de sur; con viento de norte, las calas del sur están planas y las del norte picadas, y al revés.
+- **Es Vedrà de cerca:** el mirador des Savinar (la Torre des Savinar) es un paseo de 20 minutos desde la carretera de Cala d'Hort, por camino de tierra, y tiene mucha menos gente que la cala. Lleva linterna si vas a quedarte al atardecer.
+
+## Dónde ver el atardecer
+
+- **Cala d'Hort / Mirador des Savinar**, con Es Vedrà al fondo: el clásico.
 - **Cala Comte**, de los más bonitos.
 - **Benirràs** los domingos, con tambores.
 - El **Sunset Strip de San Antonio** (Café del Mar), el más conocido y concurrido.
 
-En verano los atardeceres se llenan: llega **una hora antes** para coger sitio.
+> **⭐ Tip:** los atardeceres se llenan en verano. Llega **una hora antes** para coger sitio, o ve fuera de temporada alta. Para las calas pequeñas, antes de las 9:00 o después de las 18:00.
 
-## Consejos y errores típicos
+## Lo que NO recomendamos
 
-- **Madruga:** en las calas pequeñas y de moda, llega antes de las 9:00 o después de las 18:00. A mediodía en agosto no hay dónde aparcar.
-- **Mira el viento:** según sople, una cala estará protegida o picada. El agua está a 25-27 °C en julio y agosto y a unos 24 °C en septiembre; las medusas aparecen con viento de sur.
-- **Beach clubs:** en Cala Jondal, Ses Salines y Cala Bassa las hamacas de primera fila son caras y suelen exigir consumo mínimo; reserva. Las de segunda y tercera fila salen más baratas, y la arena pública es gratis.
-- **Chiringuitos de cala:** comer en Cala Mastella (El Bigotes, solo con reserva y famoso por su bullit de peix), Cala Boix o Cala Xarraca sale bastante más barato que en los de moda.
-- **Lleva agua y sombra:** en algunas calas del norte no hay chiringuito.
-- **Cuida la posidonia:** estas praderas, Patrimonio de la Humanidad, son las que dan el agua cristalina.
-- **Desde el mar:** un barco o un [kayak por las cuevas desde Cala Codolar](/ciudades/ibiza/actividades/kayak-cuevas-cala-codolar-esnorquel) evitan el problema del aparcamiento. La ruta por calas más valorada incluye comida, paddle surf y esnórquel:
+1. **Ir a las calas pequeñas a mediodía en agosto.** Sin aparcamiento y a rebosar.
+2. **Esperar servicios en las calas agrestes.** En algunas del norte no hay chiringuito; lleva agua y sombra.
+3. **Pisar la posidonia sin cuidado.** Las praderas (Patrimonio de la Humanidad) dan el agua cristalina.
+4. **Quedarte solo en las playas de Playa d'en Bossa.** Las mejores calas están fuera.
 
-[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
+[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
-Las calas son la otra cara de la isla que cuenta [qué ver en Ibiza](/guias/ibiza/que-ver-en-ibiza).
+## Errores típicos
+
+> **⚠️ Aviso:** los fallos que más vemos.
+
+1. **No madrugar.** Es la única forma de aparcar en las calas de moda.
+2. **No reservar en los beach clubs** de Cala Jondal o Ses Salines: consumo mínimo alto.
+3. **No mirar el viento.** Según sople, una cala estará protegida o picada.
+
+## En una frase
+
+Las mejores calas de Ibiza van del turquesa de Cala Comte al atardecer de Cala d'Hort con Es Vedrà al fondo; madrugar marca la diferencia. Es la otra cara de la isla que cuenta [qué ver en Ibiza](/guias/ibiza/que-ver-en-ibiza).

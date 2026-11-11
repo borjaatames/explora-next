@@ -5,7 +5,7 @@ metaTitle: 'Sagrada Familia sold out: what to do'
 categoria: barcelona
 slug: sagrada-familia-tickets-sold-out
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -27,8 +27,7 @@ slugs:
   it: sagrada-familia-biglietti-esauriti
   pt: sagrada-familia-bilhetes-esgotados
 reservasArriba: true
-intro: 'Finding **Sagrada Familia tickets sold out** is common in summer, at Easter and on long weekends, but it doesn''t mean you''re locked out. Gaudí''s basilica, with its nave of tree-like columns, **coloured stained glass** and the crypt where he''s buried, can be reached in other ways, and even if you don''t go in, its two façades are worth the walk. A visit inside takes 1 h 30 to 2 hours.'
-respuestaCorta: '**Sagrada Familia tickets** are released **about two months ahead** and there''s no ticket office. If they''re **sold out**, check the website and app again (changes and refunds free up places), try the **QR codes** around the basilica or book a **tour with entry included** (its own allocation). The **international Mass** is free, but it isn''t a visit.'
+respuestaCorta: 'Official tickets go on sale **about two months ahead** and there is no ticket office. If they are sold out, keep checking the website and app (changes and refunds free up places), try the **purchase QR codes** around the basilica if there is capacity, or book a **tour with entry included**, which has its own allocation. The **international mass** on Sundays at 9:00 is free, but it is not a visit.'
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
   - entrada-sagrada-familia-audioguia
@@ -37,16 +36,14 @@ actividades:
   - barcelona-un-dia-sagrada-familia-park-guell
   - sagrada-familia-tour-con-torre
 faq:
-- pregunta: Can you buy Sagrada Familia tickets at the door?
-  respuesta: There's no ticket office. Around the basilica there are QR codes for direct purchase, but they only work if there's capacity at that moment, and in high season there usually isn't.
+- pregunta: Can I buy Sagrada Familia tickets at the door?
+  respuesta: There is no ticket office. Around the basilica there are direct-purchase QR codes, but they only work if there is capacity at that moment, and in high season there usually isn't.
 - pregunta: How far ahead are tickets released?
-  respuesta: According to the official website, about two months ahead. For July, August, Easter and long weekends, buy them as soon as they come out.
-- pregunta: Can you get into the Sagrada Familia for free at Mass?
-  respuesta: 'The international Mass on Sundays and holidays at 9:00 and the Saturday Mass at 20:00 are free to attend with limited capacity, entering through the Nativity façade. It''s a religious service, not a visit: you can''t walk around the basilica or take photos during Mass.'
-- pregunta: What happens if I'm late for my time slot?
-  respuesta: 'Your ticket is only valid for the time you chose, and if you''re late they won''t let you in. Allow plenty of time: there''s a security check first.'
-- pregunta: How much does a tour with entry included cost?
-  respuesta: 'More than the €26 official ticket: the resale ticket with audio guide starts at €34, the guided tour with a tower at €75, the small-group guided tour at €99 and the tour with Park Güell at €104.'
+  respuesta: According to the official website, about two months ahead. For July, August, Holy Week and Spanish bank holidays, buy them as soon as they go on sale.
+- pregunta: Can I get into the Sagrada Familia free for mass?
+  respuesta: 'The international mass on Sundays and holy days at 9:00 and the Saturday mass at 20:00 are free with limited capacity, through the Nativity facade. It is a religious service, not a visit: you can''t tour the basilica or take photos during mass.'
+- pregunta: What if I arrive late for my slot?
+  respuesta: 'Tickets are only valid for the time you chose, and if you arrive late you won''t be let in. Arrive with time to spare: there is a security check first.'
 opciones:
   - ficha: entrada-sagrada-familia-audioguia
     etiqueta: Cheapest
@@ -55,6 +52,8 @@ opciones:
   - ficha: sagrada-familia-visita-guiada-grupo-reducido
     etiqueta: Small group
 ---
+
+The Sagrada Familia sells tickets **only online, with a set time**, about **two months ahead**, and in summer, Holy Week and on Spanish bank holidays the good slots go as soon as they are released. If the official site says "sold out", there are still options, and it pays to try them in this order.
 
 ## Which ticket should you choose?
 
@@ -65,62 +64,50 @@ opciones:
 | Sagrada Familia and Park Güell | [Skip-the-line tour of both](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour), 4.8★ (6,776) | €104 |
 | With a tower climb | [Guided tour with tower](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access), 4.4★ (5,518) | €75 |
 
-## Prices and when tickets are released
+## 1. Check the official website and app again
 
-The Sagrada Familia sells **only online and with a time slot**, at sagradafamilia.org, about **two months ahead**. In summer, at Easter and on long weekends, the good slots go as soon as they're released.
-
-- **Basic:** €26.
-- **With guided tour:** €30.
-- **With tower:** €36.
-- **With guide and tower:** €40.
-
-If you're late for your time, they won't let you in, and there's a security check first: allow plenty of time.
-
-## Last-minute tickets: website, app and QR codes
-
-If the official website says "sold out", don't give up at the first try:
+The basic ticket costs **€26** at `sagradafamilia.org` (€30 with a guided visit, €36 with a tower and €40 with guide and tower). If it is sold out:
 
 - **Check several days in a row.** Changes and refunds must be requested 48 hours ahead, so single places free up.
 - **Try the official app**, which sells the same tickets and is handier for checking often.
-- **Be flexible with the time:** the first slots of the morning and the last of the day are the most popular.
-- **If you're a group, split up:** there are often gaps for one or two people even when there aren't four together.
+- **Be flexible with the time:** the first morning slots and the last ones are the most sought after.
+- **If you are a group, split up:** there are often gaps for one or two people when four together are gone.
 
-**There's no ticket office**, but around the basilica there are **QR codes for direct purchase**. They only work if there's capacity at that moment: useful in low season or first thing, not a safe plan in August.
+## 2. The QR codes at the basilica
 
-## Sagrada Familia tour with entry included
+There is no ticket office, but around the basilica there are **direct-purchase QR codes**. They only work if there is capacity at that moment, so they are an option in low season or first thing, not a safe plan in August.
 
-Authorised operators buy their allocations in advance, so they often have places when the official website doesn't. They cost more than the official ticket, but include a timed entry and, on guided tours, an explanation of the symbolism of the façades and stained glass:
+## 3. A tour with entry included
 
-- **Resale ticket with audio guide:** from €34.
-- **Guided tour with a tower climb:** from €75.
-- **Small-group guided tour:** from €99.
-- **Skip-the-line Sagrada Familia and Park Güell tour:** from €104.
+Licensed operators buy their allocations in advance, so they usually have places when the official site doesn't. They cost more than the official ticket, but include timed entry and, on guided tours, an explanation of the symbolism of the facades and the stained glass.
 
-Before paying, check that the listing says **"entry included"** and that the visit goes **inside**: some walks only see the façades from outside.
+Before paying, check that the listing says **"entry included"** and that the visit goes **inside**: some walks only see the facades from outside.
 
 [actividad: sagrada-familia-visita-guiada-grupo-reducido]
 
-## Mass at the Sagrada Familia: getting in without a ticket
+## 4. The international masses
 
-The **international Mass** on Sundays and holidays at **9:00** and the Saturday Mass at **20:00** are **free to attend with limited capacity**, entering through the Nativity façade (Carrer de la Marina). It's held in several languages.
+The **international mass** on Sundays and holy days at **9:00** and the Saturday mass at **20:00** are **free with limited capacity**, through the Nativity facade (Carrer de la Marina). It is celebrated in several languages.
 
-It's a religious service, not a visit: you enter the nave, but you can't walk around the basilica, climb the towers or take photos during Mass, and respectful dress is expected. Arrive early, because it fills up.
+It is a religious service, not a visit: you enter the nave, but you can't tour the basilica or climb the towers, and respectful behaviour and suitable clothing are expected. Arrive early, because it fills up.
 
-## Sagrada Familia without tickets: what you can see outside
+## 5. What you can see from outside
 
-Even if you don't go in, it's worth the walk:
+Even if you don't go in, the Sagrada Familia is worth the walk:
 
-- The **Nativity façade**, Gaudí's own, best in the morning from Plaça de Gaudí, with the pond in front.
-- The **Passion façade**, from Plaça de la Sagrada Família, with Subirachs's angular sculptures.
-- **Avinguda de Gaudí**, which links the basilica with the Hospital de Sant Pau, another modernista landmark that usually does have tickets.
+- The **Nativity facade**, Gaudí's own, best in the morning from Plaça de Gaudí with the pond in front.
+- The **Passion facade**, from Plaça de la Sagrada Família, with Subirachs's angular sculptures.
+- **Avinguda de Gaudí**, which links the basilica with the Hospital de Sant Pau, another Modernista landmark that usually has tickets.
 
-If what you want is Gaudí indoors, **Casa Batlló** and **La Pedrera** sell tickets with more notice.
+If what you want is Gaudí inside, **Casa Batlló** and **La Pedrera** sell tickets with more leeway.
 
 ## Mistakes to avoid
 
-1. **Buying on websites that imitate the official one.** They add surcharges.
+1. **Buying from sites that look like the official one.** They add surcharges. The official site is `sagradafamilia.org`.
 2. **Booking a tour without checking it goes inside.** "Exterior" walks are cheaper for a reason.
-3. **Arriving at the last minute.** Your ticket is only valid for your time and there's a security check.
-4. **Wearing shorts or bare shoulders.** There's a dress code and you can be refused entry.
+3. **Arriving at the last minute.** Tickets are only valid for your slot and there is a security check.
+4. **Wearing shorts or bare shoulders.** There is a dress code and you can be refused entry.
 
-Opening hours, which tower to climb and what to see inside are in [how to visit the Sagrada Familia](/en/guides/barcelona/sagrada-familia-how-to-visit).
+## In one sentence
+
+If the official site is sold out, keep checking it for a few days, try the QR codes at the basilica and, failing that, book a tour with entry included; everything else is in [how to visit the Sagrada Familia](/en/guides/barcelona/sagrada-familia-how-to-visit).

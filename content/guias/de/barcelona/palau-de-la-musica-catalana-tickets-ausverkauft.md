@@ -5,14 +5,14 @@ metaTitle: 'Palau de la Música Tickets: Besuch & Preis'
 categoria: barcelona
 slug: palau-de-la-musica-catalana-tickets-ausverkauft
 fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-06'
 autor: Borja
 publicada: true
 destacada: false
 datosComprobados: '2026-11-06'
 imagen_portada: /images/guias/palau-musica-catalana-entradas-agotadas.jpg
 imagen_alt: 'Modernistische Fassade des Palau de la Música Catalana mit ihren Mosaiken und der Skulpturengruppe an der Ecke'
-tiempo_lectura: 3
+tiempo_lectura: 4
 keywords:
   - 'palau de la música catalana tickets'
   - 'palau de la música führung'
@@ -28,25 +28,24 @@ slugs:
   it: palau-de-la-musica-catalana-biglietti-esauriti
   pt: palau-de-la-musica-catalana-bilhetes-esgotados
 reservasArriba: true
-intro: 'Mit **Palau de la Música Catalana Tickets** besuchst du das Meisterwerk von Domènech i Montaner, den **einzigen Konzertsaal mit UNESCO-Welterbe-Status**. Der Rundgang führt durch den **Konzertsaal**, das Treppenhaus, das Foyer und den Saal Lluís Millet und dauert etwa **50 Minuten**. Besuche laufen mit fester Uhrzeit in kleinen Gruppen, und da der Saal weiter bespielt wird, kannst du ihn auch bei einem Konzert erleben.'
-respuestaCorta: 'Palau de la Música Catalana Tickets kosten auf palaumusica.cat **20 €** (freier Besuch) und **24 €** (Führung); Besuche täglich von **9:00 bis 15:30 Uhr**, Dauer etwa 50 Minuten. Ist deine Uhrzeit ausverkauft, versuch ein anderes Zeitfenster oder die **Kasse**, die **nur für denselben Tag** verkauft (1 € mehr). Kinder unter 10 Jahren sind frei.'
+respuestaCorta: 'Der Besuch auf eigene Faust kostet **20 €**, die **Führung 24 €** auf `palaumusica.cat`, täglich von **9:00 bis 15:30 Uhr**, und dauert etwa 50 Minuten. Wenn deine Uhrzeit ausverkauft ist, probier ein anderes Zeitfenster oder die **Kasse**, die **nur für denselben Tag** verkauft (1 € mehr pro Ticket). Kinder unter 10 Jahren haben freien Eintritt. Eine andere Möglichkeit, den Palau von innen zu sehen, ist ein **Konzert**: Das Ticket ist separat, aber du erlebst den Saal voll und mit Musik.'
 actividades:
   - palau-musica-catalana-entrada
 faq:
-- pregunta: Was kostet der Besuch im Palau de la Música Catalana?
-  respuesta: 'Der freie Besuch mit Faltblatt kostet 20 €, die Führung 24 €. Ermäßigt: 20 € ab 65 und unter 35 Jahren, 14 € für Einwohner Kataloniens und 13 € für Menschen mit einer Behinderung unter 65 %. Kinder unter 10 Jahren in Begleitung und Menschen mit einer Behinderung ab 65 % sind frei. An der Kasse 1 € mehr.'
-- pregunta: Kann man Tickets an der Kasse kaufen?
-  respuesta: Ja, aber nur für denselben Tag. Die Kasse ist Montag bis Samstag von 8:30 bis 21:00 Uhr geöffnet, sonn- und feiertags von 8:30 bis 15:30 Uhr. Die Führung bucht man besser online.
-- pregunta: Kann der Besuch abgesagt werden?
-  respuesta: Der Palau ist ein aktiver Konzertsaal, daher kann sich der Rundgang wegen Proben ändern oder ausfallen. Die zeitweise Schließung eines Raums berechtigt nicht zur Erstattung, und Tickets sind weder umtauschbar noch erstattungsfähig.
-- pregunta: Ist der Palau rollstuhlgerecht?
-  respuesta: Ja. Es gibt Aufzüge in alle Etagen, einen Treppenlift im Foyer, barrierefreie Toiletten und Rollstuhlverleih.
-- pregunta: Kann man den Palau bei einem Konzert von innen sehen?
-  respuesta: Ja. Der Besuch enthält kein Konzert, aber der Saal wirkt am schönsten voll und mit Musik. Das Programm mit Reihen für Klassik, Chormusik, Gitarre und Flamenco steht auf palaumusica.cat; kauf immer dort oder an der Kasse.
+- pregunta: 'Was kostet der Besuch im Palau de la Música Catalana?'
+  respuesta: 'Der Besuch auf eigene Faust mit Broschüre kostet 20 €, die Führung 24 €. Ermäßigt sind es 20 € ab 65 und unter 35 Jahren, 14 € für Einwohner Kataloniens und 13 € für Menschen mit einer Behinderung unter 65 %. Kinder unter 10 Jahren in Begleitung und Menschen mit einer Behinderung ab 65 % haben freien Eintritt. An der Kasse 1 € mehr.'
+- pregunta: 'Kann man das Ticket an der Kasse kaufen?'
+  respuesta: 'Ja, aber nur für denselben Tag. Die Kasse ist montags bis samstags von 8:30 bis 21:00 Uhr geöffnet, sonn- und feiertags von 8:30 bis 15:30 Uhr. Für die Führung reservierst du besser online.'
+- pregunta: 'Kann der Besuch abgesagt werden?'
+  respuesta: 'Der Palau ist ein aktiver Konzertsaal, daher kann sich der Rundgang wegen Proben ändern oder ausfallen. Die zeitweise Schließung einzelner Räume gibt kein Recht auf Erstattung, und Tickets können weder umgetauscht noch zurückgegeben werden.'
+- pregunta: 'Ist der Palau rollstuhlgerecht?'
+  respuesta: 'Ja. Es gibt Aufzüge in alle Stockwerke, eine Treppenlift-Plattform im Foyer, barrierefreie Toiletten und Rollstühle zum Ausleihen.'
 opciones:
   - ficha: palau-musica-catalana-entrada
     etiqueta: 'Auf eigene Faust'
 ---
+
+Der Palau de la Música Catalana, ein Werk von Domènech i Montaner, ist der einzige Konzertsaal, der zum UNESCO-Welterbe erklärt wurde. Besucht wird er mit fester Uhrzeit in kleinen Gruppen, und in den starken Monaten sind die besten Zeitfenster voll. Das sind die Alternativen, in dieser Reihenfolge.
 
 ## Welches Ticket wählen?
 
@@ -56,49 +55,49 @@ opciones:
 | Erklärungen zum Gebäude | Führung, auf der offiziellen Website | 24 € |
 | Den Saal mit Musik erleben | Ein Konzert aus dem Programm des Palau | variabel |
 
-## Was du siehst
+## 1. Schau noch einmal auf die offizielle Website
 
-Der Besuch dauert etwa **50 Minuten** und umfasst:
+Die offizielle Website ist `palaumusica.cat`. Preise 2026:
 
-- **Den Konzertsaal**, das Herz des Gebäudes.
-- **Das Treppenhaus.**
-- **Das Foyer.**
-- **Den Saal Lluís Millet.**
-
-Besuche finden mit fester Uhrzeit in kleinen Gruppen statt: Wer zu spät kommt, kann sich der Gruppe nicht anschließen.
-
-## Eintrittspreis, Führung und Öffnungszeiten
-
-Die offizielle Website ist palaumusica.cat. Preise 2026:
-
-- **Freier Besuch mit Faltblatt:** **20 €**.
-- **Führung:** **24 €**, je nach Uhrzeit in verschiedenen Sprachen. Am besten online buchen.
+- **Besuch auf eigene Faust mit Broschüre:** 20 €.
+- **Führung:** 24 €, je nach Uhrzeit in verschiedenen Sprachen.
 - **Ermäßigt:** 20 € ab 65 und unter 35 Jahren; 14 € für Einwohner Kataloniens; 13 € für Menschen mit einer Behinderung unter 65 %.
-- **Frei:** Kinder unter 10 Jahren in Begleitung und Menschen mit einer Behinderung ab 65 %.
+- **Kostenlos:** Kinder unter 10 Jahren in Begleitung und Menschen mit einer Behinderung ab 65 %.
 
-**Besuchszeiten:** täglich von **9:00 bis 15:30 Uhr**.
+**Besuchszeiten:** täglich von 9:00 bis 15:30 Uhr. Der Besuch dauert etwa 50 Minuten und führt durch den Konzertsaal, die Prunktreppe, das Foyer und die Sala Lluís Millet. Wer zu spät kommt, darf nicht mehr mit der Gruppe hinein.
 
-## Palau de la Música Tickets ausverkauft: was tun
+## 2. Die Kasse
 
-In den starken Monaten sind die besten Zeitfenster schnell voll. Versuch es in dieser Reihenfolge:
+Die Kasse verkauft **nur für denselben Tag**, mit 1 € Aufschlag pro Ticket:
 
-1. **Ein anderes Zeitfenster auf der offiziellen Website.**
-2. **Die Kasse**, die **nur für denselben Tag** verkauft, mit 1 € Aufschlag pro Ticket: Montag bis Samstag 8:30 bis 21:00 Uhr, sonn- und feiertags 8:30 bis 15:30 Uhr. An Weihnachten: am 24. Dezember 8:30 bis 19:00 Uhr, am 25. vormittags geschlossen, am 31. von 8:30 bis 18:00 Uhr.
-3. **Ein autorisiertes Wiederverkaufsticket:** derselbe freie Besuch für 20 €, ohne Kasse. Die schnellste Option, wenn du schon in Barcelona bist.
+- montags bis samstags von 8:30 bis 21:00 Uhr;
+- sonn- und feiertags von 8:30 bis 15:30 Uhr.
+
+An Weihnachten: Am 24. Dezember ist von 8:30 bis 19:00 Uhr geöffnet, am 25. vormittags geschlossen und am 31. von 8:30 bis 18:00 Uhr geöffnet.
+
+## 3. Ein Ticket von einem autorisierten Wiederverkäufer
+
+Wenn die offizielle Website deine gewünschte Uhrzeit nicht mehr hat, verkauft das Angebot unten denselben Besuch auf eigene Faust für 20 €, ohne Umweg über die Kasse. Das ist die schnellste Option, wenn du schon in Barcelona bist.
 
 [actividad: palau-musica-catalana-entrada]
 
-## Ein Konzert im Palau de la Música
+## 4. Ein Konzert
 
-Der Besuch enthält kein Konzert, aber der Saal wirkt am schönsten **voll und mit Musik**. Schau ins Programm auf der offiziellen Website: Es gibt Reihen für **Klassik, Chormusik, Gitarre und Flamenco**. Der Eintritt ist separat; kauf immer auf palaumusica.cat oder an der Kasse.
+Der Besuch umfasst kein Konzert. Aber der Saal wirkt am besten voll und mit Musik. Schau dir das Programm auf der offiziellen Website an: Es gibt Reihen mit klassischer Musik, Chormusik, Gitarre und Flamenco. Kauf immer auf `palaumusica.cat` oder an der Kasse des Palau.
 
-## Tipps und was du ohne Ticket siehst
+## 5. Was du ohne Ticket siehst
 
-- **Kauf nur auf der offiziellen Website** (palaumusica.cat): Ähnliche Domains verkaufen Tickets mit Aufschlag weiter.
-- **Geh nicht nachmittags:** Der letzte Besuch ist um 15:30 Uhr; danach kommst du nur mit Konzertkarte hinein.
-- **Lass großes Gepäck im Hotel:** Große Taschen sind nicht erlaubt.
-- **Rechne nicht mit Erstattung:** Der Saal wird bespielt, und der Rundgang kann sich wegen Proben ändern oder ausfallen; Tickets sind weder umtauschbar noch erstattungsfähig.
-- **Barrierefreiheit:** Aufzüge in alle Etagen, Treppenlift im Foyer, barrierefreie Toiletten und Rollstuhlverleih.
-- **Ohne Ticket** siehst du die **Fassade** in der Carrer Sant Pere Més Alt mit Mosaiksäulen und der Skulpturengruppe des katalanischen Volkslieds an der Ecke; den **Erweiterungsbau von Óscar Tusquets** mit dem Platz neben der Kirche Sant Francesc de Paula; und das **Cafè Palau** im Foyer, täglich von 9:00 Uhr bis Mitternacht geöffnet: Bei einem Kaffee siehst du einen Teil des modernistischen Inneren.
+- Die **Fassade** in der Carrer de Sant Pere Més Alt, mit Mosaiksäulen und der Skulpturengruppe zum katalanischen Volkslied an der Ecke.
+- Der **Erweiterungsbau von Óscar Tusquets** mit dem Platz neben der Kirche Sant Francesc de Paula.
+- Das **Cafè Palau** im Foyer, täglich von 9:00 Uhr bis Mitternacht geöffnet: Bei einem Kaffee siehst du einen Teil des modernistischen Innenraums.
 
-Wie der Palau in deine Reise passt, zeigt [Barcelona in 3 Tagen](/de/guides/barcelona/barcelona-in-3-tagen).
+## Fehler, die du vermeiden solltest
+
+1. **Auf Websites kaufen, die die offizielle nachahmen.** Es gibt ähnliche Domains, die Tickets mit Aufschlag weiterverkaufen. Die offizielle ist `palaumusica.cat`.
+2. **Am Nachmittag hingehen.** Der letzte Besuch ist um 15:30 Uhr; danach kommst du nur mit Konzertticket hinein.
+3. **Mit Koffer oder großem Rucksack kommen.** Große Gepäckstücke sind nicht erlaubt.
+4. **Mit einer Erstattung rechnen.** Tickets können weder umgetauscht noch zurückgegeben werden, auch wenn wegen Proben ein Raum geschlossen ist.
+
+## In einem Satz
+
+Wenn deine Uhrzeit ausverkauft ist, probier ein anderes Zeitfenster, die Kasse für denselben Tag oder das Ticket vom autorisierten Wiederverkäufer, und wenn du keinen Besuch mehr bekommst, schau ins Konzertprogramm; wie das in deine Reise passt, erzählen wir in [Barcelona in 3 Tagen](/de/guides/barcelona/barcelona-in-3-tagen).

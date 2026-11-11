@@ -4,13 +4,13 @@ descripcion: "Guide de Majorque : cathédrale de Palma, Serra de Tramuntana, Val
 categoria: "mallorca"
 slug: "que-voir-a-majorque"
 fecha: "2026-03-07"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-03-07"
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/que-ver-en-mallorca.jpg"
 imagen_alt: "Façade de la cathédrale de Palma (La Seu) face à la baie de Palma, à Majorque"
-tiempo_lectura: 5
+tiempo_lectura: 13
 keywords:
   - "que voir a majorque"
   - "majorque en une semaine"
@@ -25,19 +25,7 @@ slugs:
   it: cosa-vedere-a-maiorca
   pt: o-que-ver-em-maiorca
 reservasArriba: true
-intro: 'Que voir à Majorque ? Bien plus que du soleil et des plages : **Palma** possède l''une des cathédrales gothiques les plus impressionnantes d''Europe, la **Serra de Tramuntana** est inscrite au patrimoine mondial, l''est cache les **grottes du Drach** et des criques de carte postale, et le nord abrite Alcúdia la fortifiée et le **cap de Formentor**. L''île est vaste et variée : ce guide l''organise par zones.'
-respuestaCorta: 'Que voir à Majorque en **deux ou trois jours** : **Palma** et sa cathédrale, la **Serra de Tramuntana** (Valldemossa, Sóller et les belvédères) et les grottes et criques de l''est ; **une semaine** ajoute le nord (Alcúdia, Pollença, Formentor). **Louez une voiture** (30-60 € par jour) et partez en **mai-juin ou septembre-octobre**.'
-faq:
-- pregunta: Combien de jours faut-il pour visiter Majorque ?
-  respuesta: 'Deux ou trois jours suffisent pour l''essentiel : un pour Palma, un pour la Tramuntana (Valldemossa, Sóller et les belvédères) et un troisième pour les grottes et criques de l''est. Une semaine ajoute le nord (Alcúdia, Pollença, Formentor) et la plage sans se presser. Moins de deux jours, c''est trop court.'
-- pregunta: Quelle est la meilleure période pour aller à Majorque ?
-  respuesta: 'Mai-juin et septembre-octobre : mer tiède, criques tranquilles et prix plus bas. Juillet et août sont bondés et chers ; en janvier et février, les amandiers fleurissent mais une grande partie de la côte est fermée ; mars, avril et novembre conviennent à la randonnée dans la Tramuntana, avec une mer froide.'
-- pregunta: Faut-il une voiture pour visiter Majorque ?
-  respuesta: 'C''est presque indispensable : les transports publics desservent mal la Tramuntana et les criques. La location coûte 30-60 € par jour et, en été, il faut réserver des semaines à l''avance. Depuis Palma, les bus TIB desservent toute l''île (2-10 €) et le train en bois monte à Sóller.'
-- pregunta: Faut-il réserver les grottes du Drach ?
-  respuesta: 'Oui : les billets (18,50 € en ligne, 11,50 € de 3 à 12 ans) sont souvent épuisés en saison. D''avril à octobre, il y a des entrées à 10h, 11h, 12h, 14h, 15h, 16h et 17h, et quatre par jour en hiver.'
-- pregunta: Peut-on aller en voiture au cap de Formentor ?
-  respuesta: Du 15 mai au 18 octobre, de 10h à 22h, les voitures ne passent que jusqu'à ce que le parking de la plage soit plein, et le tronçon jusqu'au phare est réservé aux véhicules autorisés. L'alternative est le bus TIB 334 depuis Alcúdia et Port de Pollença, ou le bateau.
+respuestaCorta: "**Deux ou trois jours** suffisent pour l'essentiel : **Palma** et [sa cathédrale](/en/cities/mallorca/activities/palma-cathedral-mallorca-ticket) (billets à partir de 11 €), la [**Serra de Tramuntana**](/fr/cities/mallorca/activities/majorque-tour-ile-train-soller-tramway-bateau) (Valldemossa, Sóller et les belvédères) et les grottes et criques de l'est ; une semaine permet d'ajouter le nord. **Louez une voiture** (30–60 € par jour) et partez en mai–juin ou en septembre–octobre."
 opciones:
   - ficha: catedral-palma-mallorca-entrada
     etiqueta: Le moins cher
@@ -56,74 +44,87 @@ actividades:
   - cuevas-del-drach-desde-alcudia
 ---
 
-## Majorque en trois jours ou en une semaine : combien de temps et quand partir
+**Majorque, c'est bien plus que le soleil et la plage.** L'île réunit une capitale dotée de l'une des cathédrales gothiques les plus impressionnantes d'Europe, une chaîne de montagnes inscrite au patrimoine mondial et certaines des plus belles criques de la Méditerranée. L'erreur du visiteur moyen est de loger dans un hôtel de la baie de Palma ou à Magaluf et de ne jamais voir la vraie île. Ce guide l'organise par zones pour que vous profitiez au mieux de deux ou trois jours, ou d'une semaine entière.
 
-**Deux ou trois jours** suffisent pour l'essentiel : un pour Palma, un pour la Tramuntana (Valldemossa, Sóller et les belvédères) et un pour les grottes et criques de l'est. **Une semaine** ajoute le nord et la plage sans se presser. Moins de deux jours, c'est trop court.
+L'île est grande et variée : la **baie de Palma** et les plages du sud, la **Serra de Tramuntana** au nord-ouest (montagnes, villages de pierre et routes vertigineuses), l'**est** des grottes et des criques de carte postale, et le **nord** d'Alcúdia et du cap de Formentor. Avec une voiture et un bon plan, vous pouvez presque tout voir sans vous presser.
 
-| Période | Verdict |
-| --- | --- |
-| **Mai-juin et septembre-octobre** | Idéal : mer tiède, criques tranquilles, prix plus bas |
-| **Juillet et août** | Bondé et cher : réservez tout |
-| **Janvier et février** | Amandiers en fleur, mais une grande partie de la côte fermée |
-| **Mars, avril et novembre** | Randonnée dans la Tramuntana, mer froide |
+## Combien de jours prévoir
 
-## Que voir à Majorque par zones
+Deux ou trois jours couvrent l'essentiel : un pour **Palma**, un pour la **Tramuntana** (Valldemossa, Sóller et les belvédères) et un troisième pour les **grottes et criques de l'est**. Une semaine, c'est le luxe : ajoutez le nord (Alcúdia, Pollença, Formentor), davantage de criques et du temps à la plage sans compter. Moins de deux jours, c'est trop court : l'île se savoure lentement.
 
-### Palma de Majorque
+## Quand visiter Majorque
 
-- La **cathédrale (La Seu)**, gothique et tournée vers la mer, avec l'intervention de Gaudí et la chapelle en céramique de Miquel Barceló. À côté, le **palais de l'Almudaina**.
-- La **vieille ville** et ses patios seigneuriaux, le **Passeig del Born** et les **bains arabes**.
-- Le **château de Bellver**, circulaire, avec vue sur la baie.
-- Pour manger et sortir, le quartier de **Santa Catalina** et son marché.
-
-### La Serra de Tramuntana
-
-Classée au patrimoine mondial pour son paysage de terrasses et d'oliviers :
-
-- **Valldemossa** et la **Chartreuse** où Chopin et George Sand passèrent un hiver.
-- **Deià**, village d'artistes accroché au-dessus de la mer, et le belvédère de **Sa Foradada**.
-- **Sóller** et son **port**, reliés par un tramway d'époque ; depuis Palma, on y arrive en **train en bois de 1912**.
-- **Fornalutx**, l'un des plus beaux villages d'Espagne.
-- La route de **Sa Calobra**, avec son « nœud de cravate », qui descend au **Torrent de Pareis**. Spectaculaire et très sinueuse : si vous avez le mal des transports, faites-la en excursion.
-
-### Les grottes du Drach et les criques de l'est
-
-Les **grottes du Drach** (Porto Cristo) abritent l'un des plus grands lacs souterrains d'Europe, avec un concert de musique classique depuis des barques. Tout près, des criques de carte postale : **Mondragó** (parc naturel), l'iconique **Caló des Moro**, **Cala Varques** et, au sud, la longue et sauvage **Es Trenc**. Les petites ont un parking minuscule : arrivez **avant 9h** ou hors saison.
-
-### Le nord : Alcúdia et Formentor
-
-La ville fortifiée d'**Alcúdia**, avec la romaine Pollentia à côté ; les plages familiales de **Muro et Alcúdia** ; **Pollença** et les 365 marches du Calvari ; et le **cap de Formentor**, le phare au bout de la sierra.
-
-## Prix et horaires
-
-| Lieu | Prix | Horaires |
+| Saison | Verdict | Pourquoi |
 | --- | --- | --- |
-| Cathédrale de Palma | 10 €, gratuit moins de 10 ans ; terrasses 20 € de plus, avec guide et réservation | Lun-sam 10h-17h15 (18h15 en été) ; fermée aux touristes le dimanche |
-| Almudaina | 7 €, gratuit pour les citoyens UE mercredi et jeudi après-midi | Fermé le lundi |
-| Château de Bellver | 4 €, gratuit le dimanche ; bus 4 ou 20 min à pied | Fermé le lundi |
-| Train de Sóller | 30 € aller-retour ; tramway jusqu'au port en plus, 10 € le trajet | Départs 10h10, 10h50, 12h15, 13h30 et 15h10 |
-| Grottes du Drach | 18,50 € en ligne (11,50 € de 3 à 12 ans) ; **réservez, c'est souvent complet** | Entrées à 10h, 11h, 12h, 14h, 15h, 16h et 17h d'avril à octobre ; quatre en hiver |
-| Cap de Formentor | Du 15 mai au 18 octobre (10h-22h), voitures seulement jusqu'à ce que le parking de la plage soit plein ; phare réservé aux véhicules autorisés | Bus TIB 334 depuis Alcúdia et Port de Pollença, ou bateau |
+| Mai et juin | Idéal | Beau temps, mer qui se réchauffe, criques encore calmes |
+| Septembre et octobre | Idéal | Mer chaude, moins de monde, prix plus bas |
+| Juillet et août | Saturé | Chaleur, criques bondées et prix élevés ; réservez tout |
+| Janvier et février | Amandiers en fleur | Paysage superbe, mais beaucoup de sites côtiers fermés |
+| Mars, avril, novembre | Calme | Idéal pour randonner dans la Tramuntana ; mer froide |
 
-Le **2 février et le 11 novembre**, au lever du soleil, la lumière dessine « le huit » de la rosace à l'intérieur de la cathédrale (ouverture à 8h).
+> **⭐ Astuce :** les petites criques les plus célèbres (Caló des Moro, Cala Varques) ont des parkings minuscules et sont prises d'assaut l'été. Arrivez avant 9 h ou venez hors haute saison.
 
 ## Y aller et se déplacer
 
-- **Avion :** l'aéroport de Palma est à **8 km du centre** (bus ou taxi).
-- **Ferry :** depuis Barcelone, Valence ou Dénia (de 3 h 30 à 8 h), idéal pour venir avec sa voiture.
-- **Voiture de location :** presque indispensable, car les transports publics desservent mal la Tramuntana et les criques. Comptez **30-60 € par jour** ; en été, réservez des semaines à l'avance et demandez le siège enfant à l'avance.
-- **Transports publics :** les bus **TIB** partent de la gare intermodale de Palma vers toute l'île (2-10 €) et les trains vers Inca, Manacor et Sa Pobla coûtent 3-5 €.
+**En avion**, l'aéroport de Palma est l'un des plus fréquentés d'Europe et se trouve à 8 km du centre (bus ou taxi). **En ferry** depuis Barcelone, Valence ou Dénia (de 3 h 30 à 8 h selon le bateau), idéal si vous voulez venir avec votre voiture.
 
-## Où dormir et que manger
+Une fois sur l'île, **louez une voiture** : elle est presque indispensable pour la Tramuntana et les criques, que les transports en commun desservent mal. Palma a de bons bus urbains et, depuis la capitale, le **train en bois centenaire de Sóller** (1912) est une expérience en soi. Réservez la voiture à l'avance en été : il n'y en a plus et les prix grimpent.
 
-**Palma** est la base la plus polyvalente ; la **Tramuntana** (Sóller, Deià), pour la montagne et les villages de charme ; le **nord** et l'**est** (Porto Cristo, Cala d'Or), pour la plage en famille. Évitez Magaluf ou s'Arenal, sauf si vous venez pour un séjour soleil et fête.
+## Palma
 
-Cuisine paysanne et de la mer : **ensaïmada**, **sobrasada**, **pa amb oli**, **tumbet**, **frit mallorquí**, **arròs brut**, vins de **Binissalem** et liqueur d'herbes en digestif. Pour manger vraiment majorquin, cherchez les *cellers* et les restaurants de village dans l'intérieur (Sineu, Algaida), pas le front de mer de la baie.
+Commencez par la **cathédrale de Majorque (La Seu)**, gothique et tournée vers la mer, avec l'intervention de Gaudí et la chapelle en céramique de Miquel Barceló. À côté, le **palais de l'Almudaina**. Perdez-vous dans la **vieille ville** aux grands patios et aux ruelles, sur le **Passeig del Born**, aux **Bains arabes**, et montez au **château de Bellver**, un château circulaire unique avec vue sur la baie. Pour manger et sortir, le quartier de **Santa Catalina** et son marché.
 
-## Conseils et erreurs fréquentes
+## La Serra de Tramuntana
 
-1. **Ne restez pas seulement dans la baie de Palma ou à Magaluf :** vous manqueriez la Tramuntana, les criques et les villages.
-2. **Réservez la voiture tôt en été :** elle est vite épuisée et les prix s'envolent.
-3. **N'essayez pas de tout voir en deux jours.** L'île est grande : choisissez des zones.
-4. **Ne zappez pas la Tramuntana**, ce qui distingue Majorque de n'importe quelle destination balnéaire.
-5. **Évitez les petites criques à midi en août** et n'allez pas aux **grottes du Drach sans réservation**.
+Le versant montagneux de l'île, **inscrit au patrimoine mondial** pour son paysage culturel de terrasses et d'oliveraies :
+
+- **Valldemossa**, avec la **Chartreuse** où Chopin et George Sand passèrent un hiver.
+- **Deià**, un village d'artistes perché au-dessus de la mer.
+- **Sóller** et son **Port de Sóller**, reliés par un tramway historique ; on y arrive avec le train en bois depuis Palma.
+- **Fornalutx**, l'un des plus beaux villages d'Espagne.
+- La route de **Sa Calobra**, avec son célèbre virage en « nœud de cravate », qui descend jusqu'au **Torrent de Pareis**.
+- Des belvédères comme **Sa Foradada** et les terrasses de **Banyalbufar**.
+
+## Grottes et criques de l'est
+
+L'est concentre les **grottes** et les **criques** de carte postale. Les **grottes du Drach** (Porto Cristo) abritent l'un des plus grands lacs souterrains d'Europe, avec un concert de musique classique donné depuis des barques. Tout près, des criques comme **Cala Mondragó** (parc naturel), l'emblématique **Caló des Moro**, **Cala Varques** ou, au sud, la longue plage sauvage d'**Es Trenc**.
+
+## Le nord : Alcúdia et Formentor
+
+Au nord, la **ville fortifiée d'Alcúdia** (avec la romaine Pollentia juste à côté), les longues plages familiales de **Muro et d'Alcúdia**, la ville de **Pollença** et les 365 marches de son Calvaire, et le spectaculaire **cap de Formentor**, le phare au bout de la chaîne (en été l'accès en voiture est limité ; il y a une navette).
+
+## Où loger
+
+**Palma** est la base la plus polyvalente : ville, culture et bonnes connexions. La **Tramuntana** (Sóller, Deià) est idéale pour la montagne et les villages de charme. Le **nord** (Alcúdia, Pollença) et l'**est** (Porto Cristo, Cala d'Or) sont parfaits pour les plages en famille. **Évitez** Magaluf ou s'Arenal, sauf si vous venez pour le soleil en formule tout compris et la fête : vous passeriez à côté de l'île.
+
+## Manger à Majorque
+
+La cuisine majorquine est à la fois paysanne et marine. L'essentiel : l'**ensaïmada** (la viennoiserie en spirale, aussi en version salée à la sobrasada), la **sobrasada** (saucisse de porc séchée au paprika), le **pa amb oli**, le **tumbet** (légumes au four), le **frit mallorquí** et l'**arròs brut**. Côté boissons, les vins de **Binissalem** et la liqueur d'herbes majorquine en digestif.
+
+> **⚠️ Attention :** les fronts de mer des zones touristiques de la baie sont remplis de restaurants à la carte internationale. Cherchez les *cellers* et les restaurants de village dans l'intérieur (Sineu, Algaida) pour manger une vraie cuisine majorquine.
+
+## Ce que nous ne recommandons pas
+
+1. **Rester uniquement dans la baie de Palma ou à Magaluf.** Vous manquez le meilleur de l'île : la Tramuntana, les criques et les villages.
+2. **Prendre la route de Sa Calobra si les routes de montagne vous donnent la nausée.** Elle est spectaculaire mais extrême ; envisagez une excursion.
+3. **Aller aux petites criques à midi en août.** Pas de stationnement et c'est bondé ; allez-y à la première heure.
+4. **Visiter l'île sans voiture.** Les transports en commun ne desservent pas le meilleur.
+
+## Erreurs fréquentes des visiteurs
+
+> **⚠️ Attention :** les faux pas que nous voyons le plus.
+
+1. **Réserver la voiture tard en été.** Il n'y en a plus et les prix s'envolent.
+2. **Vouloir tout voir en deux jours.** L'île est grande ; choisissez des zones.
+3. **Faire l'impasse sur la Tramuntana.** C'est ce qui distingue Majorque de n'importe quelle destination balnéaire.
+4. **Ne pas réserver les grottes du Drach.** Les billets pour le concert s'épuisent en saison.
+
+## Événements à prévoir
+
+- **Floraison des amandiers (janvier-février).** L'île se pare de blanc et de rose ; un superbe paysage hors saison.
+- **Sant Sebastià (janvier).** La fête de Palma, avec feux de joie et concerts dans toute la ville.
+- **Festivals d'été.** Musique classique à Pollença et à Deià, et une saison de concerts dans toute l'île.
+
+## En une phrase
+
+Majorque, c'est Palma, des montagnes classées au patrimoine mondial et des criques de rêve : en deux ou trois jours, vous voyez l'essentiel par zones ; en une semaine, toute l'île sans vous presser.

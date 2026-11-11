@@ -5,14 +5,14 @@ metaTitle: 'O que ver em Segóvia num dia: roteiro'
 categoria: madrid
 slug: o-que-ver-em-segovia-num-dia
 fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/actividades/madrid/segovia/acueducto-hero.webp
 imagen_alt: O aqueduto romano de Segóvia sobre a praça do Azoguejo, com os seus dois andares de arcos de granito
-tiempo_lectura: 5
+tiempo_lectura: 6
 keywords:
   - o que ver em segóvia
   - o que ver em segóvia num dia
@@ -29,8 +29,7 @@ slugs:
   it: cosa-vedere-a-segovia-in-un-giorno
   pt: o-que-ver-em-segovia-num-dia
 reservasArriba: true
-intro: 'O que ver em Segóvia? Três monumentos que não se parecem com nada: o **aqueduto romano**, a **Catedral**, a última grande catedral gótica de Espanha, e o **Alcázar**, que parece desenhado. Fica a meia hora de comboio de Madrid e percorre-se em linha reta, a pé, por um eixo de 1,5 km. Tudo cabe num dia com um almoço longo pelo meio, que aqui faz parte do plano.'
-respuestaCorta: 'O que ver em Segóvia num dia: **aqueduto (grátis), Catedral (4 €) e Alcázar (7 €, ou 10 € com a torre de João II)** e, para acabar, a vista do Alcázar a partir da Alameda. Chega-se de **Avant desde Chamartín (cerca de 30 minutos)** ou de autocarro desde Moncloa. De novembro a março, o Alcázar fecha às 18:00.'
+respuestaCorta: 'Apanhe o **Avant de Chamartín para Segovia-Guiomar (cerca de 30 minutos)** e o autocarro urbano 11 até ao aqueduto, ou o autocarro da Avanza a partir de Moncloa (1 h 15). Num dia cabe o essencial e um almoço demorado: **aqueduto (grátis), calle Real, Catedral (4 €) e Alcázar (7 €, ou 10 € com a torre de Juan II)**, e ao fim da tarde a vista do Alcázar lá de baixo. De 1 de novembro a 31 de março o Alcázar fecha às 18h00.'
 actividades:
   - excursion-avila-segovia-con-entradas
   - excursion-avila-segovia-economica
@@ -38,69 +37,90 @@ actividades:
   - excursion-toledo-segovia-avila
   - vuelo-globo-segovia
 faq:
-- pregunta: Vale a pena ir a Segóvia num dia a partir de Madrid?
-  respuesta: Sim. Fica a cerca de 30 minutos de Avant desde Chamartín e o essencial (aqueduto, Catedral e Alcázar) está num eixo de 1,5 km que se percorre a pé. Um dia dá para ver sem pressa e comer bem. Dormir lá só compensa se quiser ver a cidade iluminada e sem excursões.
-- pregunta: Quanto custa a entrada no Alcázar de Segóvia?
-  respuesta: 'Palácio e museu, 7 € (reduzida, 5 €); com a torre de João II, 10 € (reduzida, 8 €). Às terças das 14:00 às 16:00 o palácio é grátis para cidadãos da UE que comprem na bilheteira, exceto feriados e sem a torre. Horário: das 10:00 às 18:00 de novembro a março e das 10:00 às 19:30 de abril a outubro; a bilheteira fecha 30 minutos antes.'
-- pregunta: Como ir de Madrid a Segóvia sem carro?
-  respuesta: De Avant desde Chamartín até Segovia-Guiomar (cerca de 30 minutos, desde cerca de 14 € por trajeto) e depois o autocarro urbano 11 até ao aqueduto (15 minutos, cerca de 2 €). Ou de autocarro da Avanza desde o terminal de Moncloa (1 h 15-1 h 20, cerca de 5 € por trajeto), que o deixa a poucos minutos do aqueduto.
-- pregunta: É possível ver Segóvia e Ávila no mesmo dia?
-  respuesta: 'Com uma excursão organizada, sim: cerca de 9 horas de autocarro, com guia e, conforme a opção, bilhetes incluídos. Por conta própria em transportes públicos não compensa, porque não há boa ligação direta entre as duas. Com dois dias, uma em cada dia.'
-- pregunta: É preciso reservar para comer leitão em Segóvia?
-  respuesta: Ao fim de semana e nas pontes, sim, sobretudo nos assadores clássicos junto ao aqueduto e à Plaza Mayor. Durante a semana costuma haver mesa chegando às 14:00. Uma dose de cochinillo dá para uma pessoa; se forem dois e quiserem provar mais coisas, peçam uma e uns judiones.
+  - pregunta: Vale a pena ir a Segóvia num dia a partir de Madrid?
+    respuesta: 'Sim. Fica a cerca de 30 minutos de Avant desde Chamartín e o essencial (aqueduto, Catedral e Alcázar) está num eixo de 1,5 km que se percorre a pé. Um dia chega para ver tudo sem pressa e comer bem. Dormir lá só compensa se quiser ver a cidade iluminada e sem excursões.'
+  - pregunta: Quanto custa a entrada no Alcázar de Segóvia?
+    respuesta: 'Palácio e museu, 7 € (reduzida, 5 €); com a torre de Juan II, 10 € (reduzida, 8 €). Às terças-feiras, das 14h00 às 16h00, o palácio é grátis para cidadãos da UE que comprem na bilheteira, exceto feriados e sem a torre. Horário: das 10h00 às 18h00 de novembro a março e das 10h00 às 19h30 de abril a outubro; a bilheteira fecha 30 minutos antes.'
+  - pregunta: Como ir de Madrid a Segóvia sem carro?
+    respuesta: 'De Avant desde Chamartín até Segovia-Guiomar (cerca de 30 minutos, desde uns 14 € por trajeto) e depois o autocarro urbano 11 até ao aqueduto (15 minutos, cerca de 2 €). Ou de autocarro da Avanza a partir do intercambiador de Moncloa (1 h 15-1 h 20, cerca de 5 € por trajeto), que o deixa a poucos minutos do aqueduto.'
+  - pregunta: Dá para ver Segóvia e Ávila no mesmo dia?
+    respuesta: 'Com uma excursão organizada, sim: cerca de 9 horas de autocarro, com guia e, conforme a opção, entradas incluídas. Por conta própria em transportes públicos não compensa, porque não há boa ligação direta entre as duas. Se tiver dois dias, uma em cada dia.'
+  - pregunta: É preciso reservar para comer leitão em Segóvia?
+    respuesta: 'Ao fim de semana e em pontes, sim, sobretudo nos assadores clássicos junto ao aqueduto e à Plaza Mayor. Durante a semana costuma haver mesa chegando às 14h00. Uma dose de cochinillo dá para uma pessoa; se forem dois e quiserem provar mais coisas, peçam uma e uns judiones.'
 ---
 
-## O que ver em Segóvia
+O que ver em Segóvia num dia resume-se a três monumentos que não se parecem com nada: o **aqueduto romano**, a **Catedral**, a última grande catedral gótica de Espanha, e o **Alcázar**, que parece desenhado. É a excursão mais compensadora a partir de Madrid: meia hora de comboio e uma cidade que se percorre em linha reta. Tudo cabe num dia com um almoço demorado pelo meio, que aqui faz parte do plano. Este é o roteiro que nós faríamos.
 
-**O aqueduto.** Cerca de 28 metros de altura na plaza del Azoguejo, granito sem argamassa e quase dois mil anos de pé. Não fique cá em baixo: suba as escadas que começam junto aos arcos até ao **Postigo del Consuelo** para o ver à altura dos arcos, com a cidade por trás. É grátis e é a melhor fotografia do dia.
+## Quando ir
 
-**Calle Real até à Plaza Mayor.** Uma subida suave com a **Casa de los Picos** (a fachada de pontas de diamante) e a igreja românica de **San Martín**. Não é preciso entrar em nada; é o caminho.
+| Época | Veredicto |
+| --- | --- |
+| Abril-junho e setembro-outubro | Ideal: boa luz e o Alcázar abre até às 19h30 |
+| Julho e agosto | Boa opção: a cerca de 1.000 metros, é vários graus mais fresca do que Madrid ou Toledo |
+| Novembro a março | Fria e tranquila; o Alcázar fecha às 18h00 e pode nevar. Leve casaco |
+| Fins de semana e pontes | Cheia de madrilenos: reserve almoço e entrada com torre |
 
-**A Catedral** (4 €, Catedral e Palácio Episcopal; de segunda a sábado das 9:30 às 18:30, domingos a partir das 13:30). Luminosa, enorme e menos carregada do que outras. Se gosta de alturas, a **visita guiada à torre** (7 €, sessões às 10:30, 12:00, 13:30, 15:00 e 16:30) ou o **pack Catedral e torre** (10 €, exceto domingos) dão a melhor vista de Segóvia. Num só dia, escolha: torre da Catedral ou torre do Alcázar.
+Durante a semana e cedo, o aqueduto é só seu. Num sábado às 13h00, não.
 
-**O Alcázar** (7 € palácio e museu, 5 € reduzida; 10 € com a **torre de João II**). Salas reais, tetos mudéjares de caixotões e a sala de armas. A torre são 152 degraus e a visita não deve passar de 25 minutos, mas a vista sobre a Meseta compensa. Os bilhetes com torre esgotam primeiro aos fins de semana e nas pontes: compre-os no site oficial. Às terças das 14:00 às 16:00 o palácio é grátis para cidadãos da UE, na bilheteira e sem a torre.
+## Como chegar a partir de Madrid
 
-**A vista de baixo.** O que quase ninguém faz: descer do Alcázar até à **Alameda del Eresma** e olhar para cima. Dali, e da estrada da **Vera Cruz** (igreja templária de doze lados), o Alcázar surge como a proa de um navio. É a imagem dos postais e não se vê de dentro.
+| Opção | Tempo | Preço aprox. | O que precisa de saber |
+| --- | --- | --- | --- |
+| Avant a partir de Chamartín | Cerca de 30 min | Desde uns 14 € por trajeto | Chega a Segovia-Guiomar, nos arredores. Primeiro comboio por volta das 6h30, último regresso por volta das 21h30 (confirme na Renfe) |
+| Autocarro urbano 11 (Guiomar-aqueduto) | 15 min | Cerca de 2 € | Some-o em cada sentido |
+| Autocarro Avanza a partir de Moncloa | 1 h 15-1 h 20 | Cerca de 5 € por trajeto | O mais barato; deixa-o a poucos minutos do aqueduto |
+| Carro | 1 h 15 | Combustível e portagem se for por autoestrada | Deixe o carro fora do centro histórico; o centro tem trânsito restrito |
+| Excursão organizada | 9-12 h | Desde 41 € | Combina Segóvia com Ávila ou Toledo; compensa se não quer organizar nada |
+
+Os primeiros Avant da manhã e os últimos de regresso enchem ao fim de semana: compre com dias de antecedência.
 
 ## O roteiro hora a hora
 
 | Hora | Plano |
 | --- | --- |
-| 9:00 | Avant desde Chamartín e autocarro 11 até ao aqueduto |
-| 10:00 | Aqueduto e subida ao miradouro do Postigo |
-| 10:45 | Calle Real, Casa de los Picos e Plaza Mayor |
-| 11:15 | Catedral (45 minutos; com torre, 1 h 30) |
-| 12:30 | Passeio pela judiaria e pelas canonjías até ao Alcázar |
-| 13:00 | Alcázar e torre de João II (1 h 30) |
-| 14:30 | Almoço: cochinillo ou judiones |
-| 16:30 | Descida à Alameda del Eresma: vista do Alcázar e da Vera Cruz |
-| 18:00 | Regresso ao aqueduto, autocarro 11 e Avant para Madrid |
+| 9h00 | Avant desde Chamartín e autocarro 11 até ao aqueduto |
+| 10h00 | Aqueduto e subida ao miradouro do Postigo |
+| 10h45 | Calle Real, Casa de los Picos e Plaza Mayor |
+| 11h15 | Catedral (45 minutos; com torre, 1 h 30) |
+| 12h30 | Passeio pela judiaria e pelas canonjías até ao Alcázar |
+| 13h00 | Alcázar e torre de Juan II (1 h 30) |
+| 14h30 | Almoço: leitão (cochinillo) ou judiones |
+| 16h30 | Descida à Alameda del Eresma: vista do Alcázar e da Vera Cruz |
+| 18h00 | Regresso ao aqueduto, autocarro 11 e Avant para Madrid |
 
-## Como ir de Madrid a Segóvia
+## O que ver, com critério
 
-- **Avant desde Chamartín:** cerca de **30 minutos**, desde cerca de 14 € por trajeto. Chega a Segovia-Guiomar, nos arredores. Primeiro comboio por volta das 6:30, último regresso por volta das 21:30 (confirme na Renfe). Os primeiros da manhã e os últimos de regresso enchem ao fim de semana: compre com alguns dias.
-- **Autocarro urbano 11** (Guiomar-aqueduto): 15 minutos e cerca de 2 €. Conte com ele em cada sentido.
-- **Autocarro da Avanza desde Moncloa:** 1 h 15-1 h 20, cerca de 5 € por trajeto. O mais barato, e deixa-o a poucos minutos do aqueduto.
-- **Carro:** 1 h 15, com portagem se for por autoestrada. Deixe-o fora do centro histórico, onde o trânsito é condicionado.
-- **Excursão organizada:** 9-12 horas, desde 41 €. Combina Segóvia com Ávila ou Toledo; compensa se não quiser organizar nada.
+**O aqueduto.** Cerca de 28 metros de altura na praça do Azoguejo, granito sem argamassa e quase dois mil anos de pé. Não fique cá em baixo: suba as escadas que começam junto aos arcos até ao **Postigo del Consuelo** para o ver à altura dos arcos e com a cidade atrás. É grátis e é a melhor fotografia do dia.
 
-## Quando ir
+**Calle Real até à Plaza Mayor.** Uma subida suave com a **Casa de los Picos** (a fachada de pontas de diamante) e a igreja românica de **San Martín**. Não é preciso entrar em nada; é o caminho.
 
-- **Abril-junho e setembro-outubro:** o ideal, com boa luz e o Alcázar aberto até às 19:30.
-- **Julho e agosto:** boa opção. A cerca de 1000 metros, Segóvia está vários graus mais fresca do que Madrid ou Toledo.
-- **Novembro a março:** fria e tranquila; o Alcázar fecha às 18:00 e pode nevar.
-- **Fins de semana e pontes:** cheia de madrilenos. Reserve almoço e bilhete com torre. Durante a semana e cedo, o aqueduto é seu; num sábado às 13:00, não.
+**A Catedral** (4 €, Catedral e Palácio Episcopal; de segunda a sábado das 9h30 às 18h30, domingos a partir das 13h30). Luminosa, enorme e menos carregada do que outras. Se gosta de alturas, a **visita guiada à torre** (7 €, entradas às 10h30, 12h00, 13h30, 15h00 e 16h30) ou o **pack Catedral e torre** (10 €, exceto aos domingos) dão a melhor vista de Segóvia. Com um só dia, escolha: torre da Catedral ou torre do Alcázar.
+
+**O Alcázar** (7 € palácio e museu; 10 € com a **torre de Juan II**). Salas reais, tetos mudéjares em madeira e a sala de armas. A torre são 152 degraus e a visita não deve passar dos 25 minutos, mas a vista sobre a Meseta compensa. As entradas com torre esgotam antes aos fins de semana e pontes: compre-as no site oficial.
+
+**A vista lá de baixo.** O que quase ninguém faz: descer do Alcázar à **Alameda del Eresma** e olhar para cima. Dali, e da estrada da **Vera Cruz** (igreja templária de doze lados), o Alcázar surge como a proa de um navio. É a imagem dos postais e não se vê lá de dentro.
 
 ## Onde comer e o que provar
 
-O **leitão assado** (cochinillo) é a razão por que muitos madrilenos voltam. Os assadores clássicos ficam junto ao aqueduto e à volta da Plaza Mayor (Mesón de Cándido e José María são os mais conhecidos); cobram por dose, por isso veja a carta antes de se sentar. Se não lhe apetecer leitão, os **judiones de La Granja** (feijão-branco gigante) são igualmente segovianos. De sobremesa, **ponche segoviano**, um pão de ló com creme e maçapão tostado.
+O **cochinillo asado** (leitão assado) é a razão pela qual muitos madrilenos voltam. Os assadores clássicos ficam junto ao aqueduto e à volta da Plaza Mayor (Mesón de Cándido e José María são os mais conhecidos); cobram por dose, por isso veja a carta antes de se sentar. Se não lhe apetecer leitão, os **judiones de La Granja** (feijão-branco grande estufado) são igualmente segovianos. Para sobremesa, **ponche segoviano**, um pão de ló com creme e maçapão tostado.
 
-## Conselhos
+## Erros típicos
 
-- **Conte com o autocarro de Guiomar:** são mais 15 minutos em cada sentido.
-- **No inverno, não chegue ao Alcázar às 17:00.** De novembro a março fecha às 18:00 e a bilheteira às 17:30.
-- **Não fique só pelo Azoguejo.** A fotografia do aqueduto de cima e a do Alcázar de baixo são as melhores.
-- **Leve casaco de outubro a abril** e não tente encaixar Toledo no mesmo dia por conta própria: ficam em direções opostas.
-- **Visita guiada ou excursão:** se preferir tudo feito, a [excursão a Ávila e Segóvia com bilhetes](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) (desde 79 €) entra na Catedral e no Alcázar; a versão económica (desde 51 €) não inclui bilhetes, e a combinada Segóvia e Toledo com o Alcázar (desde 41 €) são 12 horas.
-- **Se lhe sobrar tempo:** La Granja de San Ildefonso (palácio e jardins, a cerca de 12 km) ou, se dormir lá, o [voo de balão sobre Segóvia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) ao amanhecer (desde 205 €).
-- **Segóvia, Toledo ou Ávila?** Comparamo-las em [Toledo ou Segóvia?](/pt/guides/madrid/toledo-ou-segovia-desde-madrid). Toledo tem o seu roteiro em [Toledo num dia](/pt/guides/madrid/toledo-desde-madrid-num-dia), Ávila em [o que ver em Ávila num dia](/pt/guides/madrid/o-que-ver-em-avila-num-dia), e com quatro dias Toledo e Segóvia cabem em [Madrid, Toledo e Segóvia em 4 dias](/pt/guides/madrid/madrid-toledo-segovia-em-4-dias).
+1. **Não contar com o autocarro de Guiomar:** são mais 15 minutos em cada sentido.
+2. **Chegar ao Alcázar às 17h00 no inverno.** De novembro a março fecha às 18h00 e a bilheteira às 17h30.
+3. **Ir ao fim de semana sem reserva** para almoçar ou para a torre de Juan II.
+4. **Ficar só pelo Azoguejo.** A fotografia do aqueduto lá de cima e a do Alcázar cá de baixo são as melhores.
+5. **Ir sem casaco de outubro a abril:** Segóvia está a cerca de 1.000 metros.
+6. **Encaixar Toledo no mesmo dia por conta própria.** São duas cidades em direções opostas.
+
+## Se lhe sobrar tempo
+
+Uma ida a **La Granja de San Ildefonso** (palácio e jardins, a cerca de 12 km) ou, se ficar a dormir, o [voo de balão sobre Segóvia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) ao amanhecer (desde 205 €). Se prefere que lhe deem tudo feito, a [excursão a Ávila e Segóvia com entradas incluídas](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) (desde 79 €) entra na Catedral e no Alcázar; a [versão económica](/en/cities/madrid/activities/avila-segovia-budget-day-trip) (desde 51 €) não inclui entradas. Há uma combinada de [Segóvia e Toledo com o Alcázar](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid) desde 41 €, mas são 12 horas. Ávila tem o seu próprio guia: [o que ver em Ávila num dia](/pt/guides/madrid/o-que-ver-em-avila-num-dia).
+
+## Segóvia, Toledo ou Ávila
+
+Se só cabe uma excursão, comparamos em [Toledo ou Segóvia?](/pt/guides/madrid/toledo-ou-segovia-desde-madrid). Toledo tem o seu roteiro em [Toledo a partir de Madrid num dia](/pt/guides/madrid/toledo-desde-madrid-num-dia) e, se tiver quatro dias, as duas cabem em [Madrid, Toledo e Segóvia em 4 dias](/pt/guides/madrid/madrid-toledo-segovia-em-4-dias).
+
+## Numa frase
+
+Segóvia não se faz a correr: aqueduto de manhã, Alcázar antes do almoço, leitão sem olhar para o relógio e a vista da Alameda antes do comboio. É o dia mais fácil que pode passar fora de Madrid.

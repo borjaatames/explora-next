@@ -24,24 +24,12 @@ slugs:
   fr: park-guell-quel-billet-choisir
   it: park-guell-quale-biglietto-scegliere
   pt: park-guell-que-bilhete-escolher
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 reservasArriba: true
-intro: 'Os **bilhetes do Park Güell** dão acesso à zona monumental do parque que Gaudí desenhou no alto de Gràcia: a escadaria do dragão, a **Sala Hipostila**, a grande praça do **banco ondulado** e os pórticos de pedra. Uma das opções junta a **Casa Museu Gaudí**, onde o arquiteto viveu quase vinte anos. A zona monumental vê-se com calma em 1 h 30, e o museu acrescenta cerca de 45 minutos.'
-respuestaCorta: 'Para a zona monumental basta o **bilhete básico**: **18 €** no site oficial ou **desde 21,50 €** em revenda. Por **28 €**, o bilhete com a **Casa Museu Gaudí** junta a casa onde o arquiteto viveu. Nenhum inclui guia e **nenhum pode ser cancelado**. Se quiser explicações, o tour com a Sagrada Família custa desde 104 €.'
+respuestaCorta: 'Se só quiser a zona monumental (a escadaria do dragão, a Sala Hipóstila e o banco ondulante), chega o **bilhete básico desde 21,50 €**. Por mais 6,50 €, o **bilhete com a Casa-Museu Gaudí** (28 €) acrescenta a casa onde o arquiteto viveu. Nenhum inclui guia e **nenhum pode ser cancelado**: reserve só quando tiver os horários definidos.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi
-faq:
-- pregunta: Quanto custa o bilhete do Park Güell?
-  respuesta: No site oficial o bilhete geral custa 18 € (2026). Dos 7 aos 12 anos e maiores de 65, 13,50 €; dos 0 aos 6 anos não pagam, mas precisam de bilhete. Em revenda, o bilhete sem filas custa desde 21,50 € e o que inclui a Casa Museu Gaudí, 28 €.
-- pregunta: A Casa Museu Gaudí é o mesmo que a Casa del Guarda?
-  respuesta: Não. A Casa del Guarda é o pavilhão junto à porta principal e entra no bilhete básico se houver lotação. A Casa Museu Gaudí é a casa onde Gaudí viveu de 1906 a 1925, na parte alta do parque, e só está incluída no combinado de 28 €, que não inclui a Casa del Guarda.
-- pregunta: Os bilhetes do Park Güell podem ser cancelados?
-  respuesta: Não. Nem o bilhete básico nem o combinado com a Casa Museu Gaudí podem ser cancelados ou mudados de data. O tour guiado com a Sagrada Família tem cancelamento gratuito até 24 horas antes.
-- pregunta: É preciso pagar para entrar em todo o parque?
-  respuesta: 'Não. O bilhete é só para a zona monumental: a escadaria do dragão, a Sala Hipostila, a praça do banco ondulado e os pórticos. O resto do parque, com os bosques e o miradouro do Turó de les Tres Creus, é de acesso livre.'
-- pregunta: Quanto tempo dura a visita ao Park Güell?
-  respuesta: Cerca de 1 h 30 para a zona monumental com calma, 2 a 3 horas com o museu e mais uma hora se subir ao miradouro.
 opciones:
   - ficha: park-guell-entrada-zona-monumental
     etiqueta: Mais barato
@@ -51,6 +39,8 @@ opciones:
     etiqueta: Com guia
 ---
 
+O Park Güell tem dois bilhetes que pode reservar em separado: o bilhete básico para a zona monumental e um bilhete combinado com a Casa-Museu Gaudí. Se também quiser juntá-lo à Sagrada Família, há mais quatro opções pensadas para isso — comparadas no nosso [guia da Sagrada Família](/en/guides/barcelona/sagrada-familia-which-ticket-to-choose).
+
 ## Que bilhete escolher?
 
 | Opção | Preço desde | Duração | Formato | Ideal para |
@@ -58,54 +48,48 @@ opciones:
 | [Bilhete sem filas para a zona monumental](/en/cities/barcelona/activities/park-guell-admission-ticket) | 21,5 € | 1h30-2 h | Por conta própria, sem guia | Quem só quer o bilhete mais barato, ao seu ritmo |
 | [Bilhete + Casa-Museu Gaudí](/en/cities/barcelona/activities/park-guell-and-gaudi-house-museum-ticket) | 28 € | 2-3 h | Por conta própria + museu | Quem também quer ver onde Gaudí viveu |
 
-## O que inclui cada bilhete
+## Como escolher em 30 segundos
 
-**Bilhete básico para a zona monumental.** Acesso no seu horário à escadaria do dragão, à Sala Hipostila, à praça do banco ondulado e aos pórticos e, se houver lotação, à **Casa del Guarda**, o pavilhão da entrada. Sem guia nem audioguia. É o mais vendido (4,4/5 com mais de 81.000 avaliações) e vê-se em **1,5-2 horas**.
+- **Orçamento apertado, sem necessidade de guia:** bilhete sem filas para a zona monumental (21,50 €).
+- **Quer ver onde Gaudí realmente viveu:** bilhete + Casa-Museu Gaudí (28 €).
+- **Quer juntá-lo à Sagrada Família:** há 4 opções que combinam as duas — veja o nosso [guia da Sagrada Família](/en/guides/barcelona/sagrada-familia-which-ticket-to-choose).
 
-**Bilhete + Casa Museu Gaudí.** A mesma zona monumental mais a casa onde Gaudí viveu de 1906 a 1925, com móveis que desenhou para si próprio, objetos pessoais e maquetas. Antes de a escolher, tenha em conta que:
+## O que inclui realmente cada bilhete
 
-- **É pequena:** dois pisos e cerca de **45 minutos** de visita.
-- **Fica na parte alta do parque**, a 10-15 minutos a pé a subir desde a entrada de baixo.
-- **Fecha uma hora antes do parque**, por isso não a deixe para o fim.
-- **Não inclui a Casa del Guarda**, que é outro edifício.
+**O bilhete básico (21,50 €)** cobre a zona monumental vedada: o dragão de mosaico da escadaria principal, a Sala Hipóstila com as suas 86 colunas, a Praça da Natureza com o longo banco ondulante e os pórticos. Inclui também a Casa del Guarda, o pavilhão do guarda à entrada, sujeita à lotação. É a opção mais vendida, com 4,4/5 em mais de 81 000 avaliações, e a maioria das pessoas passa 1h30-2 horas lá dentro.
 
 [actividad: park-guell-admission-ticket]
 
-## Park Güell preço e horários
+**O bilhete combinado (28 €)** acrescenta a Casa-Museu Gaudí, a casa onde Gaudí viveu de 1906 a 1925, com mobiliário que desenhou para si próprio e objetos pessoais. Saiba pelo que está a pagar:
 
-- **Site oficial (parkguell.barcelona):** geral **18 €**; dos 7 aos 12 anos e maiores de 65, **13,50 €**; dos 0 aos 6 anos, grátis, mas com bilhete porque contam para a lotação.
-- **Bilhete básico em revenda:** desde **21,50 €**.
-- **Bilhete + Casa Museu Gaudí:** **28 €**. Comprá-lo logo de início sai mais barato do que juntar o museu no parque.
+- **É pequena.** Dois pisos, cerca de 45 minutos. Não espere um grande museu.
+- **É um edifício diferente da Casa del Guarda.** O museu fica mais acima no parque, a 10-15 minutos a pé, a subir, desde a entrada inferior. O bilhete combinado não inclui a Casa del Guarda.
+- **Fecha mais cedo do que o parque**, cerca de uma hora antes, por isso não a deixe para o fim do dia.
+- **Tem uma avaliação ligeiramente superior** (4,5/5, cerca de 7500 avaliações), sobretudo de quem foi pela história de Gaudí.
 
-**Horário:** os horários turísticos vão das **9:30 às 19:30** (outubro de 2026). Antes das 9:30 e à noite o parque é reservado aos moradores. Pode entrar nos **30 minutos** seguintes à sua hora; lá dentro não há limite de tempo, mas não pode sair e voltar a entrar.
+Escolha o bilhete combinado se tiver planeado a Sagrada Família, a Casa Batlló ou La Pedrera e quiser primeiro o contexto. Dispense-o se tiver pouco tempo, viajar com crianças pequenas ou não tiver interesse pela vida de Gaudí.
 
-**Nenhum bilhete pode ser cancelado nem mudado de data.** Na época alta (junho-setembro) os primeiros e últimos horários esgotam com dias ou semanas de antecedência, por isso reserve assim que tiver o dia fechado. Se já não houver, revemos as alternativas em [o que fazer se os bilhetes do Park Güell estiverem esgotados](/pt/guides/barcelona/park-guell-bilhetes-esgotados).
+## Antes de reservar
 
-## Que bilhete escolher em 30 segundos
+- **Nenhum dos bilhetes é reembolsável.** Sem cancelamento nem mudança de data. Se os seus planos puderem mudar, reserve quando estiverem definidos.
+- **O site oficial é mais barato se a sua data estiver disponível.** O site do próprio Park Güell vende a entrada geral por 18 € (em 2026). Os bilhetes acima custam mais; compare antes de pagar.
+- **Obras de restauro em 2026:** a Praça da Natureza e a Sala Hipóstila estão parcialmente fechadas. Continua a vê-las, mas não todos os recantos. Consulte a sua confirmação para saber o estado mais recente.
+- **A época alta esgota.** De junho a setembro, os horários esgotam com dias ou semanas de antecedência. As manhãs são as primeiras a esgotar. Se a sua data já não estiver disponível, veja [o que fazer quando os bilhetes do Park Güell estão esgotados](/en/guides/barcelona/park-guell-tickets-sold-out).
 
-- **Orçamento apertado, sem guia:** o bilhete básico.
-- **Quer ver também onde Gaudí viveu:** o bilhete com a Casa Museu Gaudí.
-- **Com crianças com menos de 8 anos:** o básico. O museu é pequeno, pensado para adultos, e torna-se longo para elas.
-- **Quer que lhe expliquem:** nenhum dos dois tem guia; veja o tour da secção seguinte.
+## No dia
 
-## Park Güell com tour guiado
+- **Entrada com hora marcada:** pode entrar até 30 minutos depois do início do seu horário; depois disso perde a entrada. Lá dentro não há limite de tempo, mas não pode sair e voltar a entrar.
+- **Horários:** os horários com bilhete vão das 9h30 às 19h30 durante a maior parte do ano (a partir das 9h00 em julho e agosto), com a última entrada mais cedo do final de outubro a março — por volta das 17h30 no inverno. Confirme os horários da sua data.
+- **Melhor altura:** o primeiro e o último horários do dia são mais frescos, com luz mais suave e menos gente. Ao meio-dia, o terraço do banco está a abarrotar.
+- **Como chegar:** o parque fica numa colina acima de Gràcia. Das estações de metro Lesseps ou Vallcarca (L3) são cerca de 20 minutos a pé, quase sempre a subir. Os autocarros H6 e D40 param na Travessera de Dalt, a cerca de 10 minutos. Há uma praça de táxis na Carretera del Carmel, e o Bus Turístic para na Av. de la Mare de Déu de Montserrat, a 10 minutos a pé.
+- **Escolha a entrada.** O parque tem várias, e o bilhete serve em todas. A da Carretera del Carmel é a mais prática (escada rolante a partir da Av. Pompeu Fabra); a da Carrer Larrard é a clássica, mas implica uma subida mais longa desde Lesseps.
+- **Acessibilidade:** a zona monumental tem rampas, mas todo o parque fica em declive, com escadas, e os miradouros superiores obrigam a subir a sério. Com cadeira de rodas ou carrinho de bebé, use o lado da Carretera del Carmel. A Casa-Museu Gaudí tem escadas no interior.
+- **O que levar:** o telemóvel carregado (voucher no telemóvel), calçado confortável, água — não há fontes dentro da zona monumental — e um boné no verão, porque o terraço quase não tem sombra.
 
-A sinalização dentro do parque é escassa. Se quiser contexto, o **tour da Sagrada Família e do Park Güell** (desde 104 €, 4 horas, 4,8/5 com mais de 6.700 avaliações) inclui as duas entradas sem filas, guia dentro dos dois monumentos e a deslocação entre eles. Começa às **10:00** na porta da Carrer d'Olot, 24, em grupos até 16 pessoas, com **cancelamento gratuito até 24 horas antes**. Não inclui as torres da Sagrada Família nem está adaptado a cadeiras de rodas.
+## A parte gratuita do parque
 
-Para comparar mais opções para a Sagrada Família, veja o nosso guia [que bilhete escolher para a Sagrada Família](/pt/guides/barcelona/sagrada-familia-que-bilhete-escolher).
+O bilhete só cobre a zona monumental. O resto do parque — os caminhos do bosque e o miradouro do Turó de les Tres Creus — é gratuito e não precisa de reserva. Se tiver uma hora a mais, suba ao miradouro depois do seu horário para ter a melhor vista sobre Barcelona; conte com cerca de 3 horas no total.
 
-## Como chegar e acessibilidade
+## O que nós reservaríamos
 
-- **Autocarros H6 e D40.** A entrada mais prática é **Carretera del Carmel 23**, com praça de táxis e pouca subida.
-- **Metro Lesseps (L3):** 15-20 minutos a subir; o site oficial recomenda a porta da avinguda del Santuari, que tem escadas rolantes.
-- **Táxi desde o centro:** 12-15 €. Melhor não ir de carro: o parque de estacionamento mais próximo indicado no site oficial, BSM Travessera de Dalt, é pago e tem poucos lugares.
-- O bilhete vale nas **quatro portas**.
-
-A zona monumental tem rampas, mas todo o parque é a subir e com escadas, e os miradouros altos só se alcançam por degraus. Com carrinho de bebé ou cadeira de rodas, entre pela Carretera del Carmel. O museu tem escadas.
-
-## Dicas antes de ir
-
-- **Obras em 2026:** o fornecedor avisa que a praça do banco ondulado e a Sala Hipostila estão **parcialmente fechadas para restauro**. Veem-se, mas não se pode andar por todo o lado; confirme no e-mail da reserva.
-- **Primeira e última hora** são as melhores para fotos sem multidão; ao meio-dia a praça está cheia.
-- **Leve o telemóvel carregado** (o bilhete é digital), água e boné no verão: quase não há sombra na praça nem fontes na zona monumental. Há cafetaria e casas de banho junto à entrada principal.
-- **Suba ao miradouro do Turó de les Tres Creus**, na zona gratuita: soma uma hora, mas tem a melhor vista de Barcelona.
+Para a maioria das primeiras visitas, o bilhete básico de 21,50 € chega: cobre tudo o que as pessoas imaginam quando pensam no Park Güell. Acrescente o museu (28 €) se o próprio Gaudí for parte da razão de estar em Barcelona. Se preferir que um guia lhe explique o que está a ver, ou quiser fazer o Park Güell e a Sagrada Família de uma só vez, as visitas guiadas combinadas do nosso [guia da Sagrada Família](/en/guides/barcelona/sagrada-familia-which-ticket-to-choose) incluem as duas entradas.

@@ -4,12 +4,12 @@ descripcion: "The best coves in Ibiza: Cala Comte, Cala Salada, Cala d'Hort and 
 categoria: "ibiza"
 slug: "best-coves-ibiza"
 fecha: "2026-04-14"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-28"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: true
-tiempo_lectura: 4
+tiempo_lectura: 11
 keywords:
   - "best coves in ibiza"
   - "cala comte"
@@ -23,20 +23,8 @@ slugs:
   fr: plus-belles-criques-d-ibiza
   it: calette-piu-belle-di-ibiza
   pt: melhores-calas-de-ibiza
-intro: 'The **best coves in Ibiza** rank among the most beautiful in the Mediterranean: turquoise water, pine forests running down to the sea and legendary sunsets. The **southwest** has the most photogenic, such as Cala Comte and Cala d''Hort facing the islet of **Es Vedrà**; the **north**, wild, quiet coves like Cala Salada and Benirràs; and the **south**, the fashionable beaches beside the salt flats.'
-respuestaCorta: 'The best coves in Ibiza are **Cala Comte and Cala d''Hort** in the southwest (turquoise water and the best sunsets, the latter facing Es Vedrà), **Cala Salada and Benirràs** in the wilder north and **Ses Salines** in the south. In summer, arrive **before 9:00 or after 18:00**, or explore them from the sea by boat.'
+respuestaCorta: 'The best coves in Ibiza are **Cala Comte and Cala d''Hort** in the south-west (turquoise water and the best sunsets, the latter facing Es Vedrà), **Cala Salada and Benirràs** in the wilder north, and Ses Salines in the south. Arrive **before 9:00 or after 18:00** in summer, or see them from the sea: cove-hopping boat trips start **from €52**.'
 reservasArriba: true
-faq:
-- pregunta: What is the most beautiful cove in Ibiza?
-  respuesta: 'It depends on what you''re after: Cala Comte for turquoise water and sunset, Cala d''Hort for the views of Es Vedrà, and Cala Salada or Benirràs if you prefer the wild, pine-clad north.'
-- pregunta: Can you drive to Cala Salada?
-  respuesta: 'From 1 May to 15 October (2026 season), road access is controlled from 9:30 to 17:00: cars only get through while spaces remain (about 65). Scooters, bikes and taxis can pass. The alternative is the Can Coix park-and-ride with the P7 bus, or the boat from Sant Antoni port.'
-- pregunta: Where can I watch the sunset in Ibiza?
-  respuesta: At Cala d'Hort or the Mirador des Savinar, with Es Vedrà behind; at Cala Comte; at Benirràs on Sundays, with drums; and on the Sant Antoni Sunset Strip (Café del Mar), the busiest. In summer, arrive an hour early.
-- pregunta: Can you reach Ibiza's coves by bus?
-  respuesta: 'In summer there are seasonal buses to Platges de Comte, Cala Bassa, Cala Salada, Benirràs and Ses Salines, and line A13 reaches Cala d''Hort with only six trips a day. Numbers and timetables change every season: check alsaibiza.es. For most of the north you need a car or a boat.'
-- pregunta: When are there jellyfish in Ibiza's coves?
-  respuesta: They appear mainly with a south wind. With a north wind, the southern coves are flat and the northern ones choppy, and vice versa. The water is 25-27 °C in July and August and about 24 °C in September.
 opciones:
   - ficha: ruta-calas-ibiza-todo-incluido-paddle-esnorquel
     etiqueta: Top rated
@@ -54,6 +42,8 @@ imagen_portada: "/images/guias/mejores-calas-ibiza.jpg"
 imagen_alt: "Cala Conta and its islet in Ibiza"
 ---
 
+**Ibiza has some of the most beautiful coves in the Mediterranean**, with turquoise water and famous sunsets. It also has the usual summer problem: tiny car parks and the fashionable coves packed by late morning. This guide sorts them by area, tells you which have services, how to get there without a car and where to watch the sunset.
+
 ## The coves from the sea
 
 | Activity | Rating | From |
@@ -64,52 +54,71 @@ imagen_alt: "Cala Conta and its islet in Ibiza"
 | [Boat to Es Vedrà, Espalmador and Formentera with meals](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4.1★ (1,335) | €155 |
 | [Sunset boat trip with drinks and swim stop](/en/cities/ibiza/activities/ibiza-sunset-boat-trip-drinks-swim) | 4.8★ (110) | €70 |
 
-## The best coves in Ibiza by area
-
-| Area | Top coves | Character |
-| --- | --- | --- |
-| Southwest | Cala Comte, Cala d'Hort, Cala Bassa, Cala Jondal | Turquoise water, sunsets, beach clubs |
-| North | Cala Salada, Benirràs, Cala Xarraca, Portinatx | Wild, pine forests, quiet |
-| South | Ses Salines, Es Cavallet | Fashionable, beside the salt flats |
-| East | Cala Llonga, Cala Mastella, Cala Boix | Small and family-friendly |
-
-[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
-
-## The must-sees: Cala Comte, Cala Salada, Cala d'Hort and Benirràs
-
-- **Cala Comte (southwest).** Turquoise water with islets offshore and one of the best sunsets on the island. Very popular: go early.
-- **Cala Salada and Cala Saladeta (north).** Two neighbouring coves with clear water and pine woods, north of Sant Antoni. Saladeta, smaller and wilder, is reached on foot.
-- **Cala d'Hort (southwest).** The cove facing **Es Vedrà**, the islet wrapped in legends. Sunset with the rock behind is Ibiza's postcard.
-- **Benirràs (north).** Famous for its **Sunday sunset drums**, with a hippy vibe and a distinctive rock, "the finger of God".
-- **Ses Salines (south).** The fashionable beach, beside the salt-flats natural park, with beach clubs and clear water thanks to the posidonia.
-
-## Getting there and parking
-
-- **Cala Bassa:** free car park that fills around 10:00-11:00 in August.
-- **Cala Comte:** some car parks are private or seasonal; check the rate when you arrive.
-- **Cala Salada and Saladeta:** from 1 May to 15 October (2026 season), road access is controlled **from 9:30 to 17:00**: cars only get through while spaces remain (about 65); scooters, bikes and taxis can pass. The alternative is to leave the car at the Can Coix park-and-ride and take the P7 bus (which also leaves from Sant Antoni bus station), or go by boat from Sant Antoni port. From the first car park, a footpath of about 500 m leads down to the beach.
-- **Cala d'Hort:** park on the verge of the road down, which fills up in the late afternoon for sunset.
-- **Without a car:** in summer there are seasonal buses to Platges de Comte, Cala Bassa, Cala Salada, Benirràs and Ses Salines (in 2026, lines such as P4, P5, P6, P7, A7 and A14). The A13 reaches Cala d'Hort from Sant Josep, with only six trips a day. Numbers and timetables change every season: check alsaibiza.es on the day. For most of the north you need a car or a boat.
-
-## Where to watch the sunset: Cala d'Hort and Es Vedrà
-
-- **Cala d'Hort and the Mirador des Savinar**, with Es Vedrà behind: the classic. The Torre des Savinar is a 20-minute walk from the Cala d'Hort road along a dirt track, and far less crowded than the cove. Bring a torch for the way back.
-- **Cala Comte**, one of the most beautiful.
-- **Benirràs** on Sundays, with drums.
-- The **Sant Antoni Sunset Strip** (Café del Mar), the best known and busiest.
-
-In summer sunsets get crowded: arrive **an hour early** to get a spot.
-
-## Tips and common mistakes
-
-- **Get up early:** at small and fashionable coves, arrive before 9:00 or after 18:00. At midday in August there's nowhere to park.
-- **Check the wind:** depending on how it blows, a cove will be sheltered or choppy. The water is 25-27 °C in July and August and about 24 °C in September; jellyfish appear with a south wind.
-- **Beach clubs:** at Cala Jondal, Ses Salines and Cala Bassa front-row sunbeds are expensive and often require a minimum spend; book ahead. Second and third rows are cheaper, and the public sand is free.
-- **Cove beach bars:** eating at Cala Mastella (El Bigotes, reservation only and famous for its bullit de peix), Cala Boix or Cala Xarraca is much cheaper than at the trendy spots.
-- **Bring water and shade:** some northern coves have no beach bar.
-- **Look after the posidonia:** these UNESCO World Heritage seagrass meadows are what keep the water crystal clear.
-- **From the sea:** a boat or a [sea kayak through the caves from Cala Codolar](/en/cities/ibiza/activities/ibiza-sea-kayak-caves-snorkel-cala-codolar) avoids the parking problem. The top-rated cove trip includes lunch, paddleboarding and snorkelling:
+A boat solves the parking problem and reaches coves you can't walk to. The island is small: the **south-west** holds the most photogenic coves and the sunsets; the **north** is calmer and wilder; the **south** has the trendy beaches by the salt flats.
 
 [actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
 
-The coves are the other side of the island described in [what to see in Ibiza](/en/guides/ibiza/what-to-see-in-ibiza).
+## By area
+
+| Area | Standout coves | Character |
+| --- | --- | --- |
+| South-west | Cala Comte, Cala d'Hort, Cala Bassa, Cala Jondal | Turquoise, sunsets, beach clubs |
+| North | Cala Salada, Benirràs, Cala Xarraca, Portinatx | Wild, pine woods, calm |
+| South | Ses Salines, Es Cavallet | Trendy, beside the salt flats |
+| East | Cala Llonga, Cala Mastella, Cala Boix | Family-friendly and small |
+
+## The essentials
+
+**Cala Comte (south-west).** Turquoise water with islets opposite and **one of the best sunsets** on the island. Very popular: go early.
+
+**Cala Salada and Cala Saladeta (north).** Two coves in a row of transparent water and pine wood, north of Sant Antoni. Saladeta, smaller and wilder, is reached on foot from Cala Salada.
+
+**Cala d'Hort (south-west).** The cove facing **Es Vedrà**, the islet wrapped in legends. The sunset here, with the rock behind, is the postcard of Ibiza.
+
+**Benirràs (north).** Famous for the **sunset drummers** on Sundays. A hippy atmosphere and a sunset behind a distinctive rock ("the finger of God").
+
+**Ses Salines (south).** The trendy beach, inside the salt-flats natural park, with beach clubs and clear water (thanks to the posidonia).
+
+## Getting there: parking, buses and boats
+
+- **Cala Salada and Saladeta:** from 1 May to 15 October (2026 season), the access road is controlled **from 9:30 to 17:00 every day**. Cars are let through only while the roughly 65 spaces last; motorbikes, bikes and taxis can pass. The alternative is to leave the car at the Can Coix park-and-ride and take bus P7 (which also starts from Sant Antoni bus station). There are also boats from Sant Antoni port. From the first car park, a signposted footpath of about 500 m leads down to the beach.
+- **Cala Comte and Cala Bassa:** some car parks are private or seasonal, so check the price on arrival. Cala Bassa's fills around 10:00–11:00 in August.
+- **Benirràs:** a small dirt car park that can fill hours before sunset, especially on Sundays.
+- **Cala d'Hort:** a narrow, winding road; roadside spaces fill by mid-afternoon with sunset crowds.
+- **Without a car:** seasonal buses run to Platges de Comte, Cala Bassa, Cala Salada, Benirràs and Ses Salines (lines such as P4, P5, P7, P6, A7 and A14 in summer 2026). Numbers and timetables change by season: check alsaibiza.es on the day. Cala d'Hort is served in summer by line A13 from Sant Josep, with only six trips a day; for most of the north you need a car or a boat.
+
+## What it costs
+
+- **Beach clubs:** at Cala Jondal, Ses Salines and Cala Bassa, front-row sun loungers are expensive and often come with a minimum spend; second and third rows cost less. The public sand is free.
+- **Cove beach bars:** lunch at Cala Mastella (El Bigotes: booking only, and famous for its bullit de peix), Cala Boix or Cala Xarraca costs much less than at the fashionable spots.
+
+## Sea, wind and jellyfish
+
+The sea is 25–27 °C in July and August, and around 24 °C in September. Jellyfish come with southerly winds. With a northerly, the southern coves are flat and the northern ones choppy, and vice versa: check the wind before choosing your cove.
+
+## Where to watch the sunset
+
+- **Cala d'Hort / Mirador des Savinar**, with Es Vedrà behind: the classic. The viewpoint (Torre des Savinar) is a 20-minute walk along a dirt path from the Cala d'Hort road, with far fewer people than the cove. Bring a torch if you stay for sunset.
+- **Cala Comte**, one of the loveliest.
+- **Benirràs** on Sundays, with drummers.
+- The **Sant Antoni Sunset Strip** (Café del Mar), the best-known and busiest.
+
+> **Tip:** sunset spots fill in summer. Arrive **an hour ahead**, or go outside high season. For the small coves, go before 9:00 or after 18:00.
+
+## What we don't recommend
+
+1. **Going to the small coves at midday in August.** No parking and overflowing.
+2. **Expecting services at the wild coves.** Some in the north have no beach bar; bring water and shade.
+3. **Stepping carelessly on the posidonia.** The seagrass meadows (a World Heritage Site) are what keep the water crystal-clear.
+4. **Staying only on the Playa d'en Bossa beaches.** The best coves are elsewhere.
+
+[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
+
+## Common mistakes
+
+1. **Not booking the beach clubs** at Cala Jondal or Ses Salines: high minimum spend, and walk-ins get the back rows.
+2. **Parking on bends, forest tracks or private entrances** at the small coves, where car parks are small and fill early.
+
+## In one sentence
+
+The best coves in Ibiza range from the turquoise of Cala Comte to the sunset at Cala d'Hort with Es Vedrà behind; going early, or going by boat, makes the difference. It's the other side of the island told in [what to see in Ibiza](/en/guides/ibiza/what-to-see-in-ibiza).

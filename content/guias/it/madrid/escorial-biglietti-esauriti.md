@@ -5,14 +5,14 @@ metaTitle: 'Biglietti El Escorial: prezzo e ingresso gratis'
 categoria: madrid
 slug: escorial-biglietti-esauriti
 fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-06'
 autor: Borja
 publicada: true
 destacada: false
 datosComprobados: '2026-11-06'
 imagen_portada: /images/guias/el-escorial-entradas-agotadas.jpg
 imagen_alt: Facciata principale del Real Monastero di San Lorenzo de El Escorial
-tiempo_lectura: 3
+tiempo_lectura: 4
 keywords:
   - 'escorial biglietti'
   - 'monastero escorial prezzo biglietto'
@@ -28,21 +28,20 @@ slugs:
   it: escorial-biglietti-esauriti
   pt: escorial-bilhetes-esgotados
 reservasArriba: true
-intro: 'Con i **biglietti dell''Escorial** entri nel Real Monastero di San Lorenzo de El Escorial, costruito da Filippo II tra il 1563 e il 1584 ai piedi della sierra di Guadarrama. Sotto un tetto di granito riunisce monastero, palazzo reale, basilica, il **Pantheon dei Re** (dove riposano quasi tutti i sovrani spagnoli da Carlo V) e una biblioteca affrescata. È a meno di un''ora da Madrid; la visita dura circa due ore.'
-respuestaCorta: 'I biglietti dell''Escorial costano **14 €** (più 0,77 € di commissione online) su tickets.patrimonionacional.es, la **visita guidata ufficiale 22 €**. **Chiuso il lunedì.** Se la tua fascia è esaurita, prova un altro orario o la **biglietteria**. I cittadini UE e ibero-americani entrano **gratis mercoledì e domenica pomeriggio**, solo in biglietteria. Un''**escursione da Madrid con ingresso** costa da 62 €.'
+respuestaCorta: 'Il biglietto intero per il Monastero costa **14 €** (più 0,77 € di commissioni online) su `tickets.patrimonionacional.es`, e la **visita guidata ufficiale 22 €**. **Chiude il lunedì.** Se la tua fascia risulta esaurita, prova un altro orario o la **biglietteria**. I cittadini UE e dell''America Latina entrano **gratis il mercoledì e la domenica pomeriggio**, solo in biglietteria. E un''**escursione da Madrid con ingresso incluso** ti risolve tutto da 62 €.'
 actividades:
   - escorial-valle-cuelgamuros-excursion-grupo
   - el-escorial-monasterio-entrada
   - tour-privado-escorial-monasterio-real
 faq:
-- pregunta: Quanto costa il biglietto dell'Escorial?
-  respuesta: L'intero costa 14 € e il ridotto 7 € (dai 5 ai 16 anni, over 65 e studenti fino a 25 anni). Online si aggiungono 0,77 € di commissione a biglietto. La visita guidata ufficiale costa 22 € (15 € ridotto). I minori di 5 anni entrano gratis.
-- pregunta: Quando è gratis l'Escorial?
-  respuesta: Per cittadini e residenti dell'UE e dell'America Latina, il mercoledì e la domenica dalle 15:00 alle 18:00 (ottobre-marzo) e dalle 15:00 alle 19:00 (aprile-settembre), senza guida, solo in biglietteria e con documento. Il 18 maggio e il 12 ottobre è gratis per tutti.
-- pregunta: Che giorno chiude l'Escorial?
-  respuesta: Tutti i lunedì. Nel 2026 chiude anche il 1° e il 6 gennaio, il 1° maggio, il 13 settembre e il 24, 25 e 31 dicembre, e può chiudere per atti ufficiali.
-- pregunta: Si può entrare nella Basilica senza biglietto?
-  respuesta: Sì. La Basilica non richiede biglietto, ma chiude durante le funzioni. Il resto del Monastero (Pantheon, Biblioteca, palazzi) sì.
+- pregunta: 'Quanto costa il biglietto per El Escorial?'
+  respuesta: 'L''intero costa 14 € e il ridotto 7 € (dai 5 ai 16 anni, over 65 e studenti fino a 25 anni). Online si aggiungono 0,77 € di commissioni per biglietto. La visita guidata ufficiale costa 22 € (15 € ridotto). I bambini sotto i 5 anni entrano gratis.'
+- pregunta: 'Quando è gratis El Escorial?'
+  respuesta: 'Per cittadini e residenti UE e dell''America Latina, il mercoledì e la domenica dalle 15:00 alle 18:00 (da ottobre a marzo) e dalle 15:00 alle 19:00 (da aprile a settembre), senza guida e solo in biglietteria, con un documento. Il 18 maggio e il 12 ottobre è gratis per tutti.'
+- pregunta: 'Che giorno chiude El Escorial?'
+  respuesta: 'Tutti i lunedì. Nel 2026 chiude anche il 1° e il 6 gennaio, il 1° maggio, il 13 settembre e il 24, 25 e 31 dicembre, e può chiudere per cerimonie ufficiali.'
+- pregunta: 'Si può entrare nella Basilica senza biglietto?'
+  respuesta: 'Sì. La Basilica non richiede biglietto, ma chiude durante le funzioni religiose. Il resto del Monastero (Pantheon, Biblioteca, palazzi) invece lo richiede.'
 opciones:
   - ficha: escorial-valle-cuelgamuros-excursion-grupo
     etiqueta: La più scelta
@@ -52,6 +51,8 @@ opciones:
     etiqueta: Privata
 ---
 
+Il Monastero dell'Escorial vende i biglietti sul sito ufficiale di Patrimonio Nacional, che consiglia di comprare in anticipo. Nei ponti e nei fine settimana alcune fasce si riempiono, ma quasi sempre c'è un altro modo per entrare quel giorno. Conviene provarli in quest'ordine.
+
 ## Quale biglietto scegliere?
 
 | Se cerchi… | Opzione | Da |
@@ -60,47 +61,48 @@ opciones:
 | Solo il biglietto, per conto tuo | [Biglietto per il Real Monastero](/it/cities/madrid/activities/el-escorial-monastero-biglietto), 4,5★ (312) | 18 € |
 | Solo per voi, con pick-up | [Tour privato con guida ufficiale da Madrid](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) | 820 € per gruppo |
 
-## Cosa vedrai
+## 1. Ricontrolla il sito ufficiale
 
-- **La Basilica**, coronata da una grande cupola, domina il complesso. Si può vedere senza biglietto, tranne durante le funzioni.
-- **Il Pantheon dei Re**, sotto l'altare maggiore, dove riposano quasi tutti i re di Spagna da Carlo V. È la sala che colpisce di più.
-- **La Biblioteca Reale**, con la volta affrescata e migliaia di manoscritti e libri antichi.
-- **Il palazzo**, da cui Filippo II governò gran parte del suo regno e dove morì nel 1598.
+Il sito ufficiale è `tickets.patrimonionacional.es`. Prezzi in vigore dal 16 ottobre 2025:
 
-Con la visita guidata ufficiale (circa 2 ore) vedi l'essenziale senza perderti; da solo, calcola almeno lo stesso tempo.
-
-## Prezzi e orari
-
-I biglietti si comprano sul sito ufficiale di Patrimonio Nacional, tickets.patrimonionacional.es. Prezzi in vigore dal 16 ottobre 2025:
-
-- **Intero:** 14 € (più 0,77 € di commissione online).
+- **Intero:** 14 € (più 0,77 € di commissioni online).
 - **Ridotto:** 7 €, dai 5 ai 16 anni, over 65 e studenti fino a 25 anni con tessera.
-- **Gratis:** minori di 5 anni, famiglie numerose, persone con disabilità dal 33 % (e accompagnatore), disoccupati, insegnanti e guide ufficiali. Solo in biglietteria.
-- **Visita guidata ufficiale:** 22 € (15 € ridotto). In spagnolo, dal martedì alla domenica alle 10:30, 11:00, 11:30, 12:00, 12:30 e 13:30; in inglese alle 10:45.
+- **Gratis:** bambini sotto i 5 anni, famiglie numerose, persone con disabilità dal 33 % (e il loro accompagnatore), disoccupati, insegnanti e guide ufficiali. Questi biglietti gratuiti si ritirano solo in biglietteria.
+- **Visita guidata ufficiale:** 22 € (15 € ridotto), circa 2 ore. In spagnolo, dal martedì alla domenica alle 10:30, 11:00, 11:30, 12:00, 12:30 e 13:30. In inglese, dal martedì alla domenica alle 10:45.
 
-**Orari:** dal martedì alla domenica, 10:00-18:00 da ottobre a marzo e 10:00-19:00 da aprile a settembre. **Il lunedì è chiuso.** L'accesso chiude 1 ora e 15 minuti prima (16:45 in inverno, 17:45 in estate).
+**Orari:** dal martedì alla domenica, dalle 10:00 alle 18:00 da ottobre a marzo e dalle 10:00 alle 19:00 da aprile a settembre. **Il lunedì è chiuso.** La biglietteria e l'ingresso chiudono 1 ora e 15 minuti prima (alle 16:45 in inverno, alle 17:45 in estate).
 
-## Ingresso gratuito: mercoledì e domenica pomeriggio
+## 2. La biglietteria e l'ingresso gratuito
 
-Se sei **cittadino o residente dell'UE o dell'America Latina**, entri gratis il mercoledì e la domenica dalle 15:00 alle 18:00 (ottobre-marzo) e dalle 15:00 alle 19:00 (aprile-settembre). Senza guida, solo nella biglietteria del **Centro di Accoglienza Visitatori** e con documento. Poiché l'accesso chiude prima, in inverno hai tempo fino alle 16:45.
+La biglietteria si trova nel **Centro de Recepción de Visitantes**, accanto al Monastero, e vende per il giorno stesso.
 
-## Se la tua fascia è esaurita
+Se sei **cittadino o residente UE o dell'America Latina**, l'ingresso è **gratuito il mercoledì e la domenica pomeriggio**: dalle 15:00 alle 18:00 da ottobre a marzo e dalle 15:00 alle 19:00 da aprile a settembre. È senza guida, solo in biglietteria e con un documento. Poiché l'ingresso chiude 1 h 15 min prima, in inverno hai tempo solo fino alle 16:45 per entrare.
 
-1. **Prova un altro orario o un altro giorno** sul sito ufficiale: nei ponti e nei weekend si riempiono alcune fasce, non l'intera giornata.
-2. **Vai in biglietteria**, che vende per il giorno stesso.
-3. **Prenota un'escursione con ingresso incluso** se non vuoi dipendere dalla biglietteria. La più comune abbina l'Escorial alla Valle di Cuelgamuros in mezza giornata; controlla che dica «ingresso al Monastero incluso».
+## 3. Un'escursione con ingresso incluso
+
+Se non vuoi dipendere dalla biglietteria, un'escursione da Madrid include trasporto, guida e ingresso. La più comune abbina El Escorial al Valle de Cuelgamuros in mezza giornata. Verifica nella scheda che dica **«ingresso al Monastero incluso»**.
 
 [actividad: escorial-valle-cuelgamuros-excursion-grupo]
 
-## Come arrivare da Madrid
+## 4. Andare per conto tuo da Madrid
 
-- **Autobus 661 o 664** di Autocares Herranz dall'interscambio di Moncloa: tra 35 e 55 minuti, e ti lascia vicino al Monastero. È l'opzione più comoda.
-- **Cercanías C-8** da Chamartín (circa 50 minuti) o Atocha (poco più di un'ora). Dalla stazione ci sono circa 15 minuti a piedi, in salita. Nel 2026 ci sono state interruzioni nei weekend per lavori.
+- **Cercanías C-8** (treno suburbano) da Chamartín (circa 50 minuti) o da Atocha (poco più di un'ora). Dalla stazione ci sono circa 15 minuti a piedi, in salita. Attenzione: nel 2026 ci sono state interruzioni nei fine settimana per lavori.
+- **Autobus 661 o 664** di Autocares Herranz dal terminal di Moncloa: tra 35 e 55 minuti, e ti lascia vicino al Monastero.
 
-## Consigli
+## 5. Cosa vedi senza biglietto
 
-- **Non andare di lunedì:** chiude tutti i lunedì dell'anno.
-- **Diffida dei prezzi vecchi:** alcuni siti indicano ancora 12 €; da ottobre 2025 sono 14 €.
-- **Compra solo sul sito ufficiale:** i biglietti gratuiti non si vendono mai online.
-- **Lascia tempo per il paese:** la piazza con la sierra alle spalle, i giardini del Real Sitio (aperti tutti i giorni) e le vie ripide di San Lorenzo, con i loro dehors.
-- Se sei indeciso tra andare da solo o con guida, li confrontiamo in [Escursione privata o di gruppo da Madrid?](/it/guides/madrid/escursione-privata-o-di-gruppo-da-madrid).
+- La **Basilica** non richiede biglietto (chiude durante le funzioni religiose).
+- La **facciata e la lonja** (il grande piazzale) del Monastero, con la sierra alle spalle.
+- I **giardini del Real Sitio**, aperti tutti i giorni.
+- Il **paese di San Lorenzo**, con le sue strade ripide e i suoi dehors.
+
+## Errori da evitare
+
+1. **Andarci di lunedì.** Chiude tutti i lunedì dell'anno.
+2. **Fidarsi di prezzi vecchi.** Alcuni siti indicano ancora 12 €; da ottobre 2025 sono 14 €.
+3. **Comprare su siti che non sono quello ufficiale.** Gli ingressi gratuiti non si vendono mai online: se un sito ti «vende» un biglietto gratuito, non è quello ufficiale.
+4. **Arrivare all'ultimo momento per l'ingresso gratuito.** L'ingresso chiude 1 h 15 min prima della chiusura.
+
+## In una frase
+
+Se la tua fascia risulta esaurita, prova un altro orario o la biglietteria, ricorda che il lunedì è chiuso, e se non vuoi rischiare prenota un'escursione con ingresso incluso; come inserirlo nel tuo viaggio lo raccontiamo in [Escursione privata o di gruppo da Madrid?](/it/guides/madrid/escursione-privata-o-di-gruppo-da-madrid).

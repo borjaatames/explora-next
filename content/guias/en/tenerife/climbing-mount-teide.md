@@ -4,11 +4,11 @@ descripcion: 'How to go up Mount Teide in 2026: the €42 cable car to 3,555 m, 
 categoria: tenerife
 slug: climbing-mount-teide
 fecha: '2026-10-07'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
-tiempo_lectura: 5
+tiempo_lectura: 9
 keywords:
 - climb mount teide
 - teide cable car
@@ -23,8 +23,7 @@ slugs:
   it: salire-sul-teide
   pt: subir-ao-teide
 reservasArriba: true
-intro: 'To climb Mount Teide is Tenerife''s great day out: it is **Spain''s highest peak (3,715 m)** and the heart of a World Heritage national park. You can ride the cable car almost to the top, hike up with a permit or sleep at the Altavista refuge, and below lie Las Cañadas and the stars. It is 1 hour from the north and 1h 45min from the south; allow at least half a day.'
-respuestaCorta: 'To climb Mount Teide, the **cable car** (€42 return in 2026) reaches **La Rambleta (3,555 m)** in under 8 minutes, with viewpoints that need no permit. The **summit (3,715 m)** requires a **timed permit from Tenerife ON** (€15 for non-residents of the Canaries). A tour with cable car and transfer starts at €92.'
+respuestaCorta: 'The **cable car** (€42 return as of 2026) climbs in under 8 minutes to **La Rambleta (3,555 m)**, where two viewpoint trails need no permit. The last 160 m to the **3,715 m summit** need a **time-slot permit on Tenerife ON** (€15 for visitors from outside the Canaries). A tour with cable car ticket and transfer starts at €92.'
 actividades:
   - teide-teleferico-traslado
   - atardecer-estrellas-teide-telescopio
@@ -32,16 +31,14 @@ actividades:
   - observatorio-teide-visita-guiada
   - teide-subida-cumbre-ruta-guiada
 faq:
-- pregunta: Do you need a permit to climb Mount Teide?
-  respuesta: Only for the last stretch, the Telesforo Bravo trail, from the upper cable car station (3,555 m) to the summit (3,715 m). Since August 2025 it is booked on the Cabildo's Tenerife ON platform and, since January 2026, it costs €15 for visitors from outside the Canaries (free for Tenerife residents and under-14s). The cable car and the two viewpoint trails at the top need no permit.
+- pregunta: Do I need a permit to climb Teide?
+  respuesta: 'Only for the last stretch, the Telesforo Bravo trail from the upper cable car station (3,555 m) to the summit (3,715 m). Since August 2025 it''s booked on the Cabildo''s Tenerife ON platform, and since January 2026 it costs €15 for visitors from outside the Canaries (free for Tenerife residents and under-14s). The cable car and the two viewpoint trails at the top don''t need one.'
 - pregunta: How long does the Teide cable car take?
-  respuesta: Under 8 minutes from the base station (2,356 m) to La Rambleta (3,555 m). Book a time slot, because it fills up in high season.
+  respuesta: Under 8 minutes from the base station (2,356 m) to La Rambleta (3,555 m). Book a time slot online, as it fills up in high season.
 - pregunta: What happens if it's windy?
-  respuesta: The cable car closes in strong wind or ice, sometimes without notice. If you're on a tour, they offer an alternative route and refund the cable car fare.
+  respuesta: The cable car closes in strong wind or ice, sometimes without notice. On a tour, you're offered an alternative route and the cable car fare is refunded.
 - pregunta: Is altitude sickness a risk on Teide?
-  respuesta: 'At 3,555 m there is less oxygen: feeling tired or getting a headache is normal. It isn''t recommended for pregnant women, children under 3 or people with heart or breathing problems. Walk slowly and drink water.'
-- pregunta: Can you watch the sunrise from the summit of Teide?
-  respuesta: 'Yes, by staying at the Altavista Refuge (3,260 m), reopened on 20 July 2026: a night (€71, €29 for Tenerife residents) includes access to the summit trail between 6:00 and 9:00.'
+  respuesta: 'At 3,555 m there''s less oxygen: tiredness or a headache is normal. It''s not recommended for pregnant women, children under 3 or people with heart or breathing problems. Walk slowly and drink water.'
 imagen_portada: "/images/guias/subir-al-teide.jpg"
 imagen_alt: "Snow-capped Teide above Las Cañadas"
 opciones:
@@ -53,6 +50,8 @@ opciones:
     etiqueta: Summit hike
 ---
 
+**Teide is Spain's highest peak (3,715 m**, the figure measured by Spain's National Geographic Institute; you'll often see 3,718 m) and the heart of a World Heritage National Park. You can visit it by car, by cable car almost to the top, on foot with a booking or at night under the stars. Access rules below are as of October 2026.
+
 ## Which ticket should you choose?
 
 | Activity | Rating | From |
@@ -62,55 +61,72 @@ opciones:
 | [Teide, Icod de los Vinos, Garachico and Masca tour](/en/cities/tenerife/activities/tenerife-teide-masca-icod-garachico-tour) | 4.6★ (3,066) | €58 |
 | [Teide Observatory guided visit](/en/cities/tenerife/activities/teide-observatory-guided-visit) | 4.6★ (918) | €21 |
 
-## The Teide cable car
+## Which way up suits you
 
-It leaves from the **base station (2,356 m)** on the TF-21 road and climbs in **under 8 minutes** to **La Rambleta (3,555 m)**. At the top there are three trails:
+| Option | Highest point | Booking | Cost (non-resident adult, 2026) |
+| --- | --- | --- | --- |
+| Cable car only | 3,555 m | Cable car time slot | €42 return |
+| Cable car + summit trail | 3,715 m | Cable car + Tenerife ON permit | €42 + €15 |
+| Hike from Montaña Blanca | 3,555 m (summit with permit) | Tenerife ON | €6 weekdays, €10 weekends |
+| Night at Altavista refuge | 3,715 m at dawn | Refuge booking (permit included) | €71 per night |
+| Tour with transfer | 3,555 m | Tour includes cable car | From €92 |
 
-- **La Fortaleza viewpoint:** views over the north of the island and the Orotava valley.
-- **Pico Viejo viewpoint:** the neighbouring crater and, in the distance, La Gomera, La Palma and El Hierro.
-- **Telesforo Bravo:** the path to the summit, permit only.
+## The cable car
 
-**Price and hours:** about **€42 return** per adult (€21 children), with **compulsory online booking by time slot**; there are hardly ever places at the ticket office. From late October to March it runs 9:00-17:00 (last ascent at 16:00); in summer and at Easter, until 18:40. Morning slots sell out one or two weeks ahead in high season.
+It leaves from the **base station (2,356 m)** on the TF-21 road and climbs in **under 8 minutes** to **La Rambleta (3,555 m)**.
 
-**It closes in strong wind or ice**, especially in winter and sometimes without notice. Bring a warm jacket and closed shoes: you can't go up in sandals or heels.
+- **Prices (as of 2026):** €42 return for non-resident adults, €21 for children aged 3-13; one way €23.50.
+- **Hours:** 9:00 to 17:00 from late October to March (last ascent 16:00), until 18:40 in summer and at Easter.
+- **Book online** for a set time: morning slots go first in high season, and the car park has only about 220 spaces.
+
+At the top, your cable car ticket covers two short trails:
+
+- **La Fortaleza viewpoint** (664 m, about 25 minutes): views over the north of the island and the La Orotava valley.
+- **Pico Viejo viewpoint** (781 m, about 30 minutes): the neighbouring crater and, in the distance, La Gomera, La Palma and El Hierro.
+
+> **Warning:** the cable car closes in strong wind or ice, especially in winter. Closed shoes are compulsory: no sandals or heels.
 
 [actividad: teide-cable-car-tour-transfer]
 
+The **tour with transfer** (7 hours, from €92) includes the cable car ticket and pickup in the north and south, which solves the parking problem. The summit permit isn't included.
+
+## The summit permit
+
+The **Telesforo Bravo** trail (653 m, about 40 minutes, 168 m of climbing) leads from La Rambleta to the crater rim. The rules changed in 2025-2026:
+
+- **Where to book:** since August 2025, on the Cabildo's **Tenerife ON** platform (tenerifeon.es), no longer on the National Parks reservation website. Register and enter every participant's details.
+- **Price:** since 19 January 2026, **€15** for visitors from outside the Canaries, €6 for other Canary Islands residents, free for Tenerife residents and under-14s.
+- **Slots:** 90-minute windows since October 2026. New days open every **Monday at 7:00**, a few weeks ahead; summer and Easter dates go fast.
+- **Match your cable car** to the slot, and check the last descent if you take a late window.
+- **Refunds** only if the trail closes for weather or the cable car isn't running. Walking up without a permit can lead to a fine.
+
+If the permit or the cable car is sold out, [what to do when Teide tickets are sold out](/en/guides/tenerife/teide-tickets-sold-out) covers every option left.
+
+## The Altavista refuge
+
+The **Altavista refuge** (3,260 m) reopened on **20 July 2026** after being closed since 2019. A night costs €71 (€29 for Tenerife residents) and includes access to the summit trail **between 6:00 and 9:00** the next morning, so you can watch sunrise from the top. There are 49 places, one night maximum; bring a sleeping bag.
+
+## Hiking up
+
+The classic route, **Montaña Blanca to La Rambleta** (8.2 km, about 1,186 m of ascent, around 5 hours 30 minutes up), also needs a Tenerife ON booking: as of 2026, €6 on weekdays and €10 at weekends for non-Canary residents. Rangers can turn you back without the compulsory gear: mountain boots, warm clothes, thermal blanket, water, charged phone and head torch. Many walk up and come down by cable car.
+
+## Las Cañadas and the Roques de García
+
+Even without going up, the **Roques de García circuit** (3.6 km, about 2 hours) loops around the park's most famous rocks with Teide behind. The **Parador** there and the cable car cafeteria are the only places to eat in the park.
+
+## Teide's stars
+
+Thanks to the altitude and the **Sky Law** against light pollution, Tenerife has one of the world's best night skies. The **sunset and stargazing tour** (3-5 hours, from €35) uses a 12-inch telescope with Starlight guides and includes south-coast pickup on the VIP option. The **Teide Observatory** visit (1.5 hours, from €21) is by day only, with solar telescopes.
+
 [actividad: teide-sunset-stargazing-tour]
 
-## The Teide summit permit
+## Practical tips
 
-The **Telesforo Bravo** trail (653 m, about 40 minutes and 168 m of ascent) leads from La Rambleta to the crater rim. The rules changed in 2025-2026:
+- **Driving times:** about 1 hour from Puerto de la Cruz (TF-21 via La Orotava) and 1 hour 45 minutes from Costa Adeje (TF-51 via Vilaflor).
+- **Parking:** scarce at the cable car and the Roques. Arrive before 9:00 or go on a tour.
+- **Altitude:** at 3,500 m there's about a third less oxygen. Walk slowly; not suitable for children under 3, pregnant women or people with heart or breathing problems.
+- **Weather and sun:** it can be 15 degrees cooler than the coast, it snows in winter and the sun burns faster: bring a jacket, sunscreen and sunglasses.
 
-- **Where:** since August 2025, on the Cabildo's **Tenerife ON** platform (tenerifeon.es), not the National Parks website. You need to register and give each participant's details.
-- **Price:** since 19 January 2026, **€15** for visitors from outside the Canaries, €6 for residents of other islands, and free for Tenerife residents and under-14s.
-- **Time slots:** 90 minutes since October 2026. New days open every **Monday at 7:00**, a few weeks ahead; in summer and at Easter they go fast.
-- **Match your cable car** to your slot, and check the last descent if you pick a late slot.
-- **Refunds** only if the trail closes for weather or the cable car isn't running. Going up without a permit can lead to a fine.
+## In one sentence
 
-**If it's sold out:** La Rambleta and its two viewpoints are already at 3,555 m. Another route is the **Altavista Refuge** (3,260 m), reopened on **20 July 2026**: a night costs €71 (€29 for Tenerife residents) and includes summit access **between 6:00 and 9:00** the next morning, to watch the sunrise. It has 49 beds, one night maximum; bring a sleeping bag. All the options are in [what to do when Teide tickets are sold out](/en/guides/tenerife/teide-tickets-sold-out).
-
-## Climbing Mount Teide on foot
-
-The classic route starts at **Montaña Blanca** and climbs via the refuge to La Rambleta: **8.2 km**, about 1,186 m of ascent and around **5h 30min** going up. It also requires a booking on Tenerife ON: in 2026, €6 on weekdays and €10 at weekends for non-residents of the Canaries.
-
-Rangers can turn you back if you don't carry the compulsory kit: hiking boots, warm clothing, a thermal blanket, water, a charged phone and a head torch. Only for experienced, acclimatised hikers. Many walk up and take the cable car down.
-
-## Las Cañadas and Teide stargazing
-
-Even if you don't go up, the park is worth the trip: the **Roques de García circuit** (3.6 km, about 2 hours) loops round the most famous rock formations with Teide behind. Stop at the TF-21 viewpoints, such as **Minas de San José**, and at the **Parador**.
-
-At night, thanks to the altitude and the **Sky Law** that protects the island from light pollution, Tenerife is one of the best places in the world for stargazing. There are sunset tours with a **telescope** and Starlight guides, and visits to the **Teide Observatory**. Bring winter clothes: it gets very cold at night.
-
-## Getting there, parking and food
-
-- **Distances:** 1 hour from Puerto de la Cruz via La Orotava (TF-21) and 1h 45min from Costa Adeje via Vilaflor (TF-51). There are no petrol stations inside the park: fill up before.
-- **Parking:** scarce at the cable car and the Roques de García. Arrive before 9:00 or after 16:00, or go on an organised tour.
-- **Where to eat:** only the café at the cable car base station and the Parador, next to the Roques de García. Bring food and water if you're hiking.
-
-## Tips: altitude and what to bring
-
-- **Altitude sickness:** at 3,500 m there is 35% less oxygen. Headaches and dizziness are normal when you step off the cable car; walk slowly and don't run.
-- **Not recommended** for children under 3, pregnant women or people with heart or breathing problems.
-- **What to bring:** a warm jacket all year, closed shoes, sunglasses, SPF 50 sunscreen and water. In winter, a hat and gloves.
-- **Book early:** the cable car and, if you want the summit, the Tenerife ON permit. More ideas in [what to see in Tenerife](/en/guides/tenerife/what-to-see-in-tenerife).
+Book the cable car, get your Tenerife ON permit early if you want the summit, go up with a jacket and come back at night for the stars. More ideas in [what to see in Tenerife](/en/guides/tenerife/what-to-see-in-tenerife).

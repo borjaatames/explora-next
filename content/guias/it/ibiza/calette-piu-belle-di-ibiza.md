@@ -1,12 +1,11 @@
 ---
 titulo: "Le calette più belle di Ibiza per zona (e dove vedere il tramonto)"
 descripcion: "Le calette più belle di Ibiza: Cala Comte, Cala Salada, Cala d'Hort ed Es Vedrà, Benirràs e altre, per zona. Quali hanno servizi, come arrivare e quando andare."
-intro: 'Le **calette più belle di Ibiza** sono tra le più belle del Mediterraneo: acqua turchese, pinete che scendono fino al mare e tramonti leggendari. Il **sud-ovest** concentra le più fotogeniche, come Cala Comte e Cala d''Hort di fronte all''isolotto di **Es Vedrà**; il **nord**, calette selvagge e tranquille come Cala Salada o Benirràs; il **sud**, le spiagge alla moda accanto alle saline.'
-respuestaCorta: 'Le calette più belle di Ibiza sono **Cala Comte e Cala d''Hort** a sud-ovest (acqua turchese e i tramonti migliori, la seconda di fronte a Es Vedrà), **Cala Salada e Benirràs** nel nord più selvaggio e **Ses Salines** a sud. D''estate arriva **prima delle 9:00 o dopo le 18:00**, oppure scoprile dal mare in barca.'
+respuestaCorta: 'Le calette più belle di Ibiza sono **Cala Comte e Cala d''Hort** a sud-ovest (acqua turchese e i tramonti migliori, la seconda di fronte a Es Vedrà), **Cala Salada e Benirràs** nel nord più selvaggio e Ses Salines al sud. D''estate arriva **prima delle 9:00 o dopo le 18:00**, oppure visitale dal mare: le crociere tra le calette partono **da 52 €**.'
 categoria: "ibiza"
 slug: "calette-piu-belle-di-ibiza"
 fecha: "2026-04-14"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-28"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true
@@ -26,17 +25,6 @@ slugs:
   it: calette-piu-belle-di-ibiza
   pt: melhores-calas-de-ibiza
 reservasArriba: true
-faq:
-- pregunta: Qual è la caletta più bella di Ibiza?
-  respuesta: 'Dipende da cosa cerchi: Cala Comte per l''acqua turchese e il tramonto, Cala d''Hort per la vista su Es Vedrà, Cala Salada o Benirràs se preferisci il nord selvaggio e con pinete.'
-- pregunta: Si può andare in auto a Cala Salada?
-  respuesta: 'Dal 1° maggio al 15 ottobre (stagione 2026) l''accesso stradale è controllato dalle 9:30 alle 17:00: le auto passano solo finché ci sono posti (circa 65). Moto, bici e taxi possono passare. L''alternativa è il parcheggio scambiatore di Can Coix con l''autobus P7, o la barca dal porto di Sant Antoni.'
-- pregunta: Dove vedere il tramonto a Ibiza?
-  respuesta: A Cala d'Hort o al mirador des Savinar, con Es Vedrà sullo sfondo; a Cala Comte; a Benirràs la domenica, con i tamburi; e sul Sunset Strip di Sant Antoni (Café del Mar), il più affollato. D'estate arriva un'ora prima.
-- pregunta: Si arriva alle calette di Ibiza in autobus?
-  respuesta: 'D''estate ci sono autobus stagionali per Platges de Comte, Cala Bassa, Cala Salada, Benirràs e Ses Salines, e la linea A13 arriva a Cala d''Hort con solo sei corse al giorno. Numeri e orari cambiano ogni stagione: controlla su alsaibiza.es. Per quasi tutto il nord serve l''auto o la barca.'
-- pregunta: Quando ci sono meduse nelle calette di Ibiza?
-  respuesta: Soprattutto con vento da sud. Con vento da nord le calette del sud sono piatte e quelle del nord mosse, e viceversa. L'acqua è a 25-27 °C a luglio e agosto e a circa 24 °C a settembre.
 opciones:
   - ficha: ruta-calas-ibiza-todo-incluido-paddle-esnorquel
     etiqueta: La più votata
@@ -54,6 +42,8 @@ imagen_portada: "/images/guias/mejores-calas-ibiza.jpg"
 imagen_alt: "Cala Conta con il suo isolotto a Ibiza"
 ---
 
+**Ibiza ha alcune delle calette più belle del Mediterraneo**, con acqua turchese e tramonti leggendari. Ma anche il solito problema d'estate: parcheggi minimi e calette alla moda strapiene. Questa guida le ordina per zona, ti dice quali hanno servizi e dove vedere il tramonto migliore, con il trucco di alzarsi presto per goderle.
+
 ## Le calette dal mare
 
 | Attività | Valutazione | Da |
@@ -63,52 +53,66 @@ imagen_alt: "Cala Conta con il suo isolotto a Ibiza"
 | [Tour in kayak nelle grotte marine con snorkeling da Cala Codolar](/en/cities/ibiza/activities/ibiza-sea-kayak-caves-snorkel-cala-codolar) | 4,8★ (333) | 50 € |
 | [Barca per Es Vedrà, Espalmador e Formentera con pasti](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4,1★ (1.335) | 155 € |
 
-## Le calette più belle di Ibiza per zona
+L'isola è piccola: il **sud-ovest** concentra le calette più fotogeniche e i tramonti; il **nord** è più tranquillo e selvaggio; il **sud** ha le spiagge alla moda vicino alle saline.
+
+[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
+
+## Per zona
 
 | Zona | Calette principali | Carattere |
 | --- | --- | --- |
 | Sud-ovest | Cala Comte, Cala d'Hort, Cala Bassa, Cala Jondal | Turchese, tramonti, beach club |
-| Nord | Cala Salada, Benirràs, Cala Xarraca, Portinatx | Selvaggia, pinete, tranquilla |
-| Sud | Ses Salines, Es Cavallet | Alla moda, accanto alle saline |
-| Est | Cala Llonga, Cala Mastella, Cala Boix | Piccole e per famiglie |
+| Nord | Cala Salada, Benirràs, Cala Xarraca, Portinatx | Selvaggio, pinete, tranquillo |
+| Sud | Ses Salines, Es Cavallet | Alla moda, vicino alle saline |
+| Est | Cala Llonga, Cala Mastella, Cala Boix | Per famiglie e piccole |
+
+## Le imperdibili
+
+**Cala Comte (sud-ovest).** Acque turchesi con isolotti di fronte e **uno dei tramonti migliori** dell'isola. Molto frequentata: vai presto.
+
+**Cala Salada e Cala Saladeta (nord).** Due calette una accanto all'altra con acqua trasparente e pineta, a nord di San Antonio. La Saladeta, più piccola e selvaggia, si raggiunge a piedi.
+
+**Cala d'Hort (sud-ovest).** La caletta con vista su **Es Vedrà**, l'isolotto avvolto nelle leggende. Il tramonto qui, con la roccia sullo sfondo, è la cartolina di Ibiza.
+
+**Benirràs (nord).** Famosa per i **tamburi al tramonto** della domenica. Atmosfera hippy e tramonto con una roccia singolare ("il dito di Dio").
+
+**Ses Salines (sud).** La spiaggia alla moda, accanto al parco naturale delle saline, con beach club e acque limpide (grazie alla posidonia).
+
+## Informazioni pratiche: parcheggio, accesso e costi
+
+- **Parcheggi:** quello di Cala Bassa è gratuito e si riempie verso le 10:00-11:00 ad agosto; a Cala Comte alcuni parcheggi sono privati o stagionali, quindi controlla la tariffa all'arrivo. A Cala Salada e Saladeta, dal 1° maggio al 15 ottobre (stagione 2026), l'accesso stradale è controllato **dalle 9:30 alle 17:00** tutti i giorni: le auto passano solo finché restano posti (circa 65); moto, bici e taxi possono passare. L'alternativa è lasciare l'auto nel parcheggio scambiatore di Can Coix e prendere l'autobus P7 (che parte anche dalla stazione di San Antonio), o andare in barca dal porto di San Antonio. Dal primo parcheggio, un sentiero pedonale segnalato di circa 500 m scende fino alla spiaggia. Cala d'Hort ha posto sul ciglio della strada in discesa, che si riempie a metà pomeriggio per il tramonto.
+- **Senza auto:** d'estate ci sono autobus stagionali per Platges de Comte, Cala Bassa, Cala Salada, Benirràs e Ses Salines (nel 2026, linee come P4, P5, P6, P7, A7 e A14). Numeri e orari cambiano ogni stagione: controllali su alsaibiza.es il giorno stesso. A Cala d'Hort d'estate arriva la linea A13 da Sant Josep, con solo sei corse al giorno; per quasi tutto il nord serve l'auto o la barca.
+- **Beach club:** a Cala Jondal, Ses Salines e Cala Bassa i lettini in prima fila sono cari e di solito richiedono una spesa minima; quelli in seconda e terza fila costano meno, e sulla sabbia pubblica è gratis.
+- **Chiringuitos di caletta:** mangiare a Cala Mastella (El Bigotes, solo su prenotazione e famoso per il suo bullit de peix), Cala Boix o Cala Xarraca costa parecchio meno che nei chiringuitos alla moda.
+- **Acqua e meduse:** il mare è a 25-27 °C a luglio e agosto, e a circa 24 °C a settembre. Le meduse compaiono con il vento da sud; con il vento da nord, le calette del sud sono piatte e quelle del nord mosse, e viceversa.
+- **Es Vedrà da vicino:** il belvedere des Savinar (la Torre des Savinar) è una passeggiata di 20 minuti dalla strada di Cala d'Hort, su sterrato, e ha molta meno gente della caletta. Porta una torcia se resti per il tramonto.
+
+## Dove vedere il tramonto
+
+- **Cala d'Hort / Mirador des Savinar**, con Es Vedrà sullo sfondo: il classico.
+- **Cala Comte**, tra i più belli.
+- **Benirràs** la domenica, con i tamburi.
+- Il **Sunset Strip di San Antonio** (Café del Mar), il più famoso e affollato.
+
+> **Consiglio:** d'estate i tramonti si riempiono. Arriva **un'ora prima** per prendere posto, o vai fuori dall'alta stagione. Per le calette piccole, prima delle 9:00 o dopo le 18:00.
+
+## Cosa NON consigliamo
+
+1. **Andare nelle calette piccole a mezzogiorno ad agosto.** Senza parcheggio e strapiene.
+2. **Aspettarsi servizi nelle calette selvagge.** In alcune del nord non c'è il chiringuito; porta acqua e ombra.
+3. **Calpestare la posidonia senza attenzione.** Le praterie (Patrimonio dell'Umanità) regalano l'acqua cristallina.
+4. **Restare solo sulle spiagge di Playa d'en Bossa.** Le calette migliori sono altrove.
 
 [actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
-## Le imperdibili: Cala Comte, Cala Salada, Cala d'Hort e Benirràs
+## Errori tipici
 
-- **Cala Comte (sud-ovest).** Acqua turchese con isolotti di fronte e uno dei tramonti più belli dell'isola. Molto frequentata: vai presto.
-- **Cala Salada e Cala Saladeta (nord).** Due calette vicine di acqua trasparente e pineta, a nord di Sant Antoni. La Saladeta, più piccola e selvaggia, si raggiunge a piedi.
-- **Cala d'Hort (sud-ovest).** La caletta con vista su **Es Vedrà**, l'isolotto avvolto nelle leggende. Il tramonto con la roccia sullo sfondo è la cartolina di Ibiza.
-- **Benirràs (nord).** Famosa per i **tamburi al tramonto della domenica**, con atmosfera hippy e una roccia particolare, «il dito di Dio».
-- **Ses Salines (sud).** La spiaggia alla moda, accanto al parco naturale delle saline, con beach club e acque limpide grazie alla posidonia.
+> **Avviso:** gli sbagli che vediamo più spesso.
 
-## Come arrivare e dove parcheggiare
+1. **Non alzarsi presto.** È l'unico modo per parcheggiare nelle calette alla moda.
+2. **Non prenotare nei beach club** di Cala Jondal o Ses Salines: spesa minima alta.
+3. **Non guardare il vento.** A seconda di come soffia, una caletta sarà riparata o mossa.
 
-- **Cala Bassa:** parcheggio gratuito che si riempie verso le 10:00-11:00 ad agosto.
-- **Cala Comte:** alcuni parcheggi sono privati o stagionali; controlla la tariffa all'arrivo.
-- **Cala Salada e Saladeta:** dal 1° maggio al 15 ottobre (stagione 2026) l'accesso stradale è controllato **dalle 9:30 alle 17:00**: le auto passano solo finché ci sono posti (circa 65); moto, bici e taxi possono passare. L'alternativa è lasciare l'auto al parcheggio scambiatore di Can Coix e prendere l'autobus P7 (che parte anche dalla stazione di Sant Antoni), o andare in barca dal porto di Sant Antoni. Dal primo parcheggio, un sentiero pedonale di circa 500 m scende alla spiaggia.
-- **Cala d'Hort:** si parcheggia sul ciglio della strada in discesa, che si riempie nel tardo pomeriggio per il tramonto.
-- **Senza auto:** d'estate ci sono autobus stagionali per Platges de Comte, Cala Bassa, Cala Salada, Benirràs e Ses Salines (nel 2026, linee come P4, P5, P6, P7, A7 e A14). A Cala d'Hort arriva l'A13 da Sant Josep, con solo sei corse al giorno. Numeri e orari cambiano ogni stagione: controllali su alsaibiza.es il giorno stesso. Per quasi tutto il nord serve l'auto o la barca.
+## In una frase
 
-## Dove vedere il tramonto: Cala d'Hort ed Es Vedrà
-
-- **Cala d'Hort e il mirador des Savinar**, con Es Vedrà sullo sfondo: il classico. La Torre des Savinar è a 20 minuti a piedi dalla strada di Cala d'Hort, su sterrato, e ha molta meno gente della caletta. Porta una torcia per il ritorno.
-- **Cala Comte**, tra i più belli.
-- **Benirràs** la domenica, con i tamburi.
-- Il **Sunset Strip di Sant Antoni** (Café del Mar), il più famoso e affollato.
-
-D'estate i tramonti si riempiono: arriva **un'ora prima** per trovare posto.
-
-## Consigli ed errori tipici
-
-- **Alzati presto:** nelle calette piccole e alla moda arriva prima delle 9:00 o dopo le 18:00. A mezzogiorno ad agosto non si parcheggia.
-- **Guarda il vento:** a seconda di come soffia, una caletta sarà riparata o mossa. L'acqua è a 25-27 °C a luglio e agosto e a circa 24 °C a settembre; le meduse arrivano con vento da sud.
-- **Beach club:** a Cala Jondal, Ses Salines e Cala Bassa i lettini in prima fila sono cari e spesso richiedono una consumazione minima; prenota. In seconda e terza fila costano meno, e la sabbia pubblica è gratis.
-- **Chiringuitos di caletta:** mangiare a Cala Mastella (El Bigotes, solo su prenotazione e famoso per il bullit de peix), Cala Boix o Cala Xarraca costa molto meno che nei locali alla moda.
-- **Porta acqua e ombra:** in alcune calette del nord non c'è chiringuito.
-- **Rispetta la posidonia:** queste praterie, Patrimonio dell'Umanità, sono ciò che rende l'acqua cristallina.
-- **Dal mare:** una barca o un [kayak tra le grotte da Cala Codolar](/en/cities/ibiza/activities/ibiza-sea-kayak-caves-snorkel-cala-codolar) evitano il problema del parcheggio. Il giro delle calette più apprezzato include pranzo, paddle surf e snorkeling:
-
-[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
-
-Le calette sono l'altra faccia dell'isola raccontata in [cosa vedere a Ibiza](/it/guides/ibiza/cosa-vedere-a-ibiza).
+Le calette più belle di Ibiza vanno dal turchese di Cala Comte al tramonto di Cala d'Hort con Es Vedrà sullo sfondo; alzarsi presto fa la differenza. È l'altra faccia dell'isola raccontata in [cosa vedere a Ibiza](/it/guides/ibiza/cosa-vedere-a-ibiza).

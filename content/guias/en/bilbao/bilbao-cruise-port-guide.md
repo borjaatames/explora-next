@@ -5,13 +5,13 @@ metaTitle: "Bilbao Cruise Port (Getxo): Metro, Taxi and Guggenheim"
 categoria: "bilbao"
 slug: "bilbao-cruise-port-guide"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/bilbao/ria/puente-bizkaia.webp"
 imagen_alt: "The Bizkaia Bridge over the estuary between Portugalete and Getxo, with the bay and the sea behind"
-tiempo_lectura: 5
+tiempo_lectura: 7
 keywords:
   - "bilbao cruise port"
   - "getxo cruise terminal"
@@ -28,19 +28,18 @@ slugs:
   it: porto-crociere-bilbao-guida
   pt: porto-de-bilbau-cruzeiros
 reservasArriba: true
-intro: 'At the **Bilbao cruise port**, ships don''t dock in the city itself but in **Getxo**, at the mouth of the estuary. From the terminal you''re between half an hour and an hour from the Guggenheim, and a port call covers a lot: Gehry''s museum, the Siete Calles of the Old Town with their pintxos or, without leaving Getxo, the **Bizkaia Bridge**, a World Heritage Site, and Ereaga beach.'
-respuestaCorta: 'Ships at the **Bilbao cruise port** dock at the **Getxo terminal**, **12-15 km from the centre**. To reach Bilbao: the cruise line''s shuttle, **metro line 1** from Gobela or Neguri (20-25 min to Moyua) or a taxi (**about €35**). With 4 hours, the Guggenheim or the Bizkaia Bridge; with 6-8, both. **The Guggenheim is closed on Mondays** outside summer.'
+respuestaCorta: "Cruise ships calling at Bilbao dock at the **Getxo cruise terminal**, next to the marina and Ereaga beach, **12-15 km from the city centre**. To reach Bilbao: your cruise line's shuttle, **metro line 1** from Gobela or Neguri (a 1 km walk, then **about 20-25 min** to Moyua) or a taxi (**about €35**). Four hours is enough for the **Guggenheim** or the **Bizkaia Bridge**; 6-8 hours for both plus the Old Town. **The Guggenheim is closed on Mondays** outside summer."
 faq:
-- pregunta: Where do cruise ships dock in Bilbao?
-  respuesta: At the Getxo cruise terminal, in the Abra bay, next to the marina and Ereaga beach. It has three berths (Getxo 1 and 2 share a building; Getxo 3 has its own) and is about 12-15 km from central Bilbao.
-- pregunta: How do you get from the Getxo cruise terminal to Bilbao?
-  respuesta: With your cruise line's shuttle, by metro or by taxi. The nearest metro stations are Gobela and Neguri, on line 1, a 1-1.5 km walk away. From there it's about 20-25 minutes to Moyua, a 10-minute walk from the Guggenheim. A taxi costs about €35.
-- pregunta: Is the Guggenheim open on Mondays?
-  respuesta: 'Usually not. It opens Tuesday to Sunday from 10:00 to 19:00. On Mondays it only opens on specific dates: from 15 June to 7 September, at Easter and on some holidays such as 12 October and 7 and 28 December 2026.'
-- pregunta: Is there time to visit San Sebastián from Bilbao cruise port?
-  respuesta: Only on a very long call. San Sebastián is just over an hour by road from Bilbao, so you need about 9-10 hours ashore to spend 3-4 hours there with a margin. With less time, stay in Bilbao and Getxo.
-- pregunta: What can you do near the terminal without going to Bilbao?
-  respuesta: 'Getxo has plenty within walking distance: Ereaga beach, the Old Port of Algorta, the walk past the Neguri villas and the Bizkaia Bridge, a World Heritage Site, about 3 km away. Crossing on the gondola costs €0.60.'
+  - pregunta: "Where do cruise ships dock for Bilbao?"
+    respuesta: "At the Getxo cruise terminal on the Abra bay, next to the marina and Ereaga beach. There are three berths (Getxo 1 and 2 share a building; Getxo 3 has its own), about 12-15 km from central Bilbao."
+  - pregunta: "How do I get from Getxo cruise terminal to Bilbao?"
+    respuesta: "By cruise line shuttle, metro or taxi. The nearest metro stations are Gobela and Neguri on line 1, a 1-1.5 km walk away. From there it's about 20-25 minutes to Moyua, a 10-minute walk from the Guggenheim. A taxi costs about €35."
+  - pregunta: "Is the Guggenheim open on Mondays?"
+    respuesta: "Usually not. It opens Tuesday to Sunday, 10:00-19:00. It only opens on certain Mondays: from 15 June to 7 September, some Easter Mondays and a few holidays such as 12 October and 7 and 28 December 2026."
+  - pregunta: "Can I visit San Sebastián from Bilbao cruise port?"
+    respuesta: "Only on a very long call. San Sebastián is just over an hour by road from Bilbao, so you need around 9-10 hours ashore to spend 3-4 hours there with a safe margin. With less time, stick to Bilbao and Getxo."
+  - pregunta: "What can I do near the terminal without going into Bilbao?"
+    respuesta: "Getxo has plenty on foot: Ereaga beach, Algorta's Old Port, the seafront mansions of Neguri and the Bizkaia Bridge, a UNESCO World Heritage Site about 3 km away. Crossing in the gondola costs €0.60."
 actividades:
   - guggenheim-bilbao-visita-privada-guia-entrada
   - bilbao-tour-privado-a-pie-casco-viejo-ribera
@@ -50,6 +49,65 @@ actividades:
   - tour-gastronomico-pintxos-bebidas-casco-viejo-bilbao
   - tour-a-pie-casco-viejo-bilbao
 ---
+
+Your ship doesn't dock in Bilbao itself but in **Getxo**, at the mouth of the estuary. Getting from the terminal to the front of the Guggenheim takes between 30 minutes and an hour depending on how you travel. Bear that in mind and a 6-8 hour call still gives you the museum, the Old Town and a round of pintxos, or a relaxed day in Getxo with the Bizkaia Bridge.
+
+## Where does the ship dock?
+
+At the **Getxo cruise terminal** on the Abra bay, beside the marina and **Ereaga beach**. There are three berths: Getxo 1 and 2 share a terminal building and Getxo 3 has its own. Central Bilbao is **12-15 km** up the estuary.
+
+## How do you get from Getxo to central Bilbao?
+
+| Option | Time to the centre | Approximate cost | Best for |
+| --- | --- | --- | --- |
+| **Cruise line shuttle** | 25-30 min | Depends on the line (sometimes included) | Going straight to the Guggenheim |
+| **Metro line 1** (Gobela or Neguri) | 15-min walk + 20-25 min on the metro | About €2 single | Independent travellers |
+| **Bizkaibus A3411** (Bilbao-Getxo-Azkorri) | Varies | Single fare | Alternative to the metro, stop at Av. Zugazarte 54 |
+| **Taxi** | 20-30 min | About €35 | Groups of 3-4 or short calls |
+
+- **Metro.** The closest stations to the terminal are **Gobela** (1 km) and **Neguri** (1.5 km), both on line 1. Get off at **Moyua** for the Guggenheim (10 minutes on foot) or **Casco Viejo** for the Seven Streets. If there are several of you, or you'll ride more than once, buy a **Barik** card (€3) from the machine: one card covers the group and each trip is cheaper.
+- **Shuttle.** Many lines run a bus into Bilbao, stopping near the museum. The price and the last return time are in the ship's programme.
+- **Taxi.** Getxo council quotes about €37 between Abando station and the terminal. BizkaiTaxi: +34 944 91 53 53.
+
+## What to see in Bilbao in 4, 6 or 8 hours
+
+| Time ashore | Suggested plan |
+| --- | --- |
+| **4 hours** | Pick one: the **Guggenheim** (2 hours inside plus the journey) or stay in Getxo for the **Bizkaia Bridge**, the Ereaga seafront and Algorta's Old Port. |
+| **6 hours** | Metro or shuttle to the **Guggenheim** first thing, a riverside walk to the **Old Town** and pintxos on **Plaza Nueva**. Back by metro. |
+| **8 hours** | All of the above at an easy pace, or the Guggenheim in the morning and the **Bizkaia Bridge** on the way back (Areeta metro). With 9-10 hours, a private trip to Gaztelugatxe. |
+
+### The Guggenheim
+
+- **Opening hours:** Tuesday to Sunday, 10:00-19:00. **Closed on Mondays**, except from 15 June to 7 September, some Easter Mondays and a few holidays (in 2026, 12 October and 7 and 28 December).
+- **Tickets:** €12 on the official website, audio guide included. Allow 2 hours inside; outside, Puppy, Maman and Gehry's building are free.
+- **Short on time?** A private guided visit covers the highlights in 90 minutes with your ticket included. There's also a 4-hour option that adds the city, which suits a port day well.
+
+[actividad: guggenheim-bilbao-visita-privada-guia-entrada]
+
+### Old Town and pintxos
+
+From the museum, the riverside walk takes you to the Old Town in about 20 minutes. The **Seven Streets**, Santiago Cathedral and Plaza Nueva take a couple of hours; a local guide stops you getting lost between bars.
+
+[actividad: bilbao-tour-privado-a-pie-casco-viejo-ribera]
+
+### The Bizkaia Bridge, in Getxo
+
+The **Bizkaia Bridge** (Puente Colgante), a UNESCO World Heritage Site linking Getxo and Portugalete, is about 3 km from the terminal along the estuary path, or a metro ride to **Areeta**. Crossing in the **gondola** costs **€0.60** and runs 24 hours a day. The **upper walkway** costs **€11** and opens with the Getxo lift, 10:00-14:00 and 16:00-19:00 (hours can be cut back during technical issues).
+
+If you'd rather skip Bilbao, the coastal bike tour of Getxo starts in Algorta, very close to the terminal, and takes in the bridge, the Old Port and a pintxo.
+
+[actividad: getxo-bici-costa-pintxos-grupo-reducido]
+
+### What about San Sebastián?
+
+San Sebastián is just over an hour by road from Bilbao. To spend 3-4 hours there with a safe margin you need **9-10 hours ashore**. The group day trips we sell from Bilbao last 9-10 hours and leave the city centre early, so they don't fit a port call. If your ship stays all day, a car with driver is the option; otherwise, enjoy Bilbao.
+
+## When should you be back on board?
+
+- **All aboard** is usually 30 to 60 minutes before sailing. Check the daily programme.
+- From central Bilbao, allow **an hour** to the gangway: metro, the walk from Gobela or Neguri and security.
+- The cruise shuttle has a **last departure**; if you miss it, the metro and taxis are still running.
 
 ## Shore excursions that fit a Bilbao call
 
@@ -61,66 +119,32 @@ actividades:
 | [Old Town pintxos and drinks tour](/en/cities/bilbao/activities/bilbao-pintxos-drinks-food-tour-old-town), 4.7★ (62) | 3 hr 30 min | €89 |
 | [Private Gaztelugatxe, Mundaka and Gernika trip](/en/cities/bilbao/activities/gaztelugatxe-mundaka-gernika-private-day-trip-from-bilbao) | 7 hr | €920 per group (1-2 people) |
 
-## Getxo cruise terminal: where the ship docks
-
-At the **Getxo cruise terminal**, in the Abra bay, next to the marina and **Ereaga beach**. There are three berths: Getxo 1 and 2 share a building and Getxo 3 has its own. Central Bilbao is **12-15 km** up the estuary.
-
-## How to get from Getxo to Bilbao
-
-| Option | Time to the centre | Approximate price |
-| --- | --- | --- |
-| **Cruise line shuttle** | 25-30 min | Depends on the line (sometimes included) |
-| **Metro line 1** (Gobela or Neguri) | 15 min walk + 20-25 min metro | About €2 single |
-| **Bizkaibus A3411** (Bilbao-Getxo-Azkorri) | Variable | Single ticket |
-| **Taxi** | 20-30 min | About €35 |
-
-- **Metro.** The nearest stations are **Gobela** (1 km) and **Neguri** (1.5 km), both on line 1. Get off at **Moyua** for the Guggenheim (10-minute walk) or at **Casco Viejo** for the Siete Calles. If there are several of you, buy a **Barik** card (€3): it works for the group and each trip is cheaper.
-- **Shuttle.** Many cruise lines run a bus to the centre, stopping near the museum. The price and last return time are in the ship's programme.
-- **Bizkaibus.** An alternative to the metro, stopping at Avenida Zugazarte 54.
-- **Taxi.** Getxo Council gives about €37 as a reference between Abando station and the terminal. BizkaiTaxi: 944 91 53 53. Worth it for groups of 3-4 or short calls.
-
-## Bilbao cruise port call: what to do by hours
-
-| Time ashore | Plan |
-| --- | --- |
-| **4 hours** | Pick one: the **Guggenheim** (2 hours inside, plus the journey) or stay in Getxo for the **Bizkaia Bridge**, Ereaga and the Old Port of Algorta. |
-| **6 hours** | Metro or shuttle to the **Guggenheim** first thing, a walk along the estuary to the **Old Town** and pintxos in **Plaza Nueva**. Back by metro. |
-| **8 hours** | All of the above at a relaxed pace, or the Guggenheim in the morning and the **Bizkaia Bridge** in the afternoon on the way back to the ship (Areeta metro). |
-
-**The Guggenheim from the cruise port.** Open Tuesday to Sunday, **10:00 to 19:00**, and **closed on Mondays** except from 15 June to 7 September, at Easter and on some holidays (in 2026, 12 October and 7 and 28 December). Tickets cost **€12** on the official website, audio guide included; allow 2 hours inside, while Puppy, Maman and Gehry's building are free to see from outside. Short on time? A private guided tour takes you through the essentials in an hour and a half with entry included, and there's a 4-hour version that adds the city:
-
-[actividad: guggenheim-bilbao-visita-privada-guia-entrada]
-
-**Old Town and pintxos.** From the museum, the estuary walk takes you to the Old Town in about 20 minutes. The **Siete Calles**, Santiago Cathedral and Plaza Nueva can be seen in a couple of hours.
-
-**The Hanging Bridge, in Getxo.** The **Bizkaia Bridge**, a World Heritage Site, links Getxo and Portugalete and is about **3 km** from the terminal along the estuary, or by metro to **Areeta**. Crossing on the **gondola** costs **€0.60** and runs 24 hours. The **upper walkway** costs **€11** and opens 10:00-14:00 and 16:00-19:00 (may be reduced for technical issues). If you'd rather not go to Bilbao, there's a coastal bike tour of Getxo from Algorta that includes the bridge, the Old Port and a pintxo.
-
-**What about San Sebastián?** It's just over an hour away by road. To spend 3-4 hours there with a margin you need **9-10 hours ashore**, and group trips from Bilbao leave the centre early in the morning, so they don't fit a port call. If your ship is in all day, a car with driver is the option; otherwise, stay in Bilbao. The same goes for the private Gaztelugatxe, Mundaka and Gernika trip (7 hours): it only fits calls of 9 hours or more; ask when booking whether they can pick you up at the Getxo terminal.
-
-[actividad: bilbao-tour-privado-a-pie-casco-viejo-ribera]
-
-[actividad: getxo-bici-costa-pintxos-grupo-reducido]
+The private Gaztelugatxe trip picks up from your Bilbao hotel: if you're arriving by ship, ask when booking whether they can collect you at the Getxo terminal. It only fits calls of 9 hours or more.
 
 [actividad: gaztelugatxe-mundaka-gernika-excursion-privada-desde-bilbao]
 
-## Cruise excursions or on your own
+## Ship's excursion or independent?
 
 | | Ship's excursion | Independent or private |
 | --- | --- | --- |
-| **Price** | The highest | Metro about €2, museum €12, tours from €36 |
-| **If there's a delay** | The ship waits for you | You're responsible for getting back on time |
-| **When it's worth it** | San Sebastián or the coast on a tight call | Bilbao, Getxo and the Guggenheim |
+| **Price** | Highest | Metro about €2, museum €12, tours from €36 |
+| **If you run late** | The ship waits | Getting back on time is on you |
+| **Upside** | No transport worries | You choose what to see and how fast |
+| **Worth it for** | San Sebastián or the coast on a tight call | Bilbao, Getxo and the Guggenheim |
 
-Bilbao and Getxo are easy to do on your own by metro. The ship's excursion is worth it for destinations more than an hour away.
+Bilbao and Getxo are easy on your own by metro. The ship's tour pays off for places more than an hour away.
 
-**Getting back to the ship.** "All aboard" is usually 30 to 60 minutes before departure (check the daily programme). From central Bilbao allow **an hour** to the gangway: metro, the walk from Gobela or Neguri and security. The shuttle has a last departure; if you miss it, the metro and taxis keep running.
+## Sundays, Mondays and holidays
 
-## Tips and common mistakes
+- **Mondays:** the Guggenheim is closed except in summer and on the dates above. It's the costliest mistake on a Bilbao call.
+- **Sundays:** the museum is open and the Old Town fills up at lunchtime with locals out for vermouth and pintxos; most shops are closed.
+- The metro runs every day, less often on Sundays and holidays.
 
-1. **Thinking the ship docks in Bilbao.** You're in Getxo: allow a good half-hour each way.
-2. **Planning the Guggenheim on a Monday** outside summer. It's the costliest mistake on a Bilbao call.
-3. **Trying to see San Sebastián on an 8-hour call.** You'll spend more time on the road than in the city.
-4. **Forgetting the walk from the metro.** It's 1-1.5 km between Gobela or Neguri and the gangway: add it on the way back.
-5. **On Sundays** the museum is open and the Old Town fills up at midday with vermouth and pintxos, but most shops close. The metro runs every day, less often on Sundays and holidays.
+## Common mistakes
 
-More ideas in [Bilbao in one day](/en/guides/bilbao/bilbao-in-one-day) and, if museum tickets sell out, in [Guggenheim tickets sold out](/en/guides/bilbao/guggenheim-bilbao-tickets-sold-out).
+1. **Assuming you dock in Bilbao.** You're in Getxo: allow a good half hour each way.
+2. **Planning the Guggenheim on a Monday** outside summer.
+3. **Trying San Sebastián on an 8-hour call.** You'll spend more time on the road than in the city.
+4. **Forgetting the walk from the metro.** It's 1-1.5 km between Gobela or Neguri and the gangway: add it to your return time.
+
+For more on a day in the city see [Bilbao in one day](/en/guides/bilbao/bilbao-in-one-day), and if museum tickets sell out, [Guggenheim tickets sold out](/en/guides/bilbao/guggenheim-bilbao-tickets-sold-out).

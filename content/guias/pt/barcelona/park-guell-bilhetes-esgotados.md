@@ -5,7 +5,7 @@ metaTitle: 'Bilhetes Park Güell esgotados: o que fazer'
 categoria: barcelona
 slug: park-guell-bilhetes-esgotados
 fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -27,24 +27,21 @@ slugs:
   it: park-guell-biglietti-esauriti
   pt: park-guell-bilhetes-esgotados
 reservasArriba: true
-intro: 'Encontrar os **bilhetes do Park Güell esgotados** não significa ficar sem Gaudí. O parque que ele construiu entre 1900 e 1914 na encosta do Carmel guarda na zona monumental a escadaria da salamandra, a **Sala Hipostila** e a grande praça do **banco ondulado de trencadís**, com uma das melhores vistas sobre Barcelona e o mar. A visita a essa zona leva cerca de 1 h 30.'
-respuestaCorta: 'Se os **bilhetes do Park Güell estão esgotados**, veja outros horários e outros dias no site oficial (18 €, à venda **até três meses antes**, 700 lugares a cada meia hora), experimente a **revenda** (desde 21,50 €) ou um **tour com entrada incluída**. Sem bilhete pode percorrer gratuitamente **a maior parte do parque**: só se paga a zona monumental.'
+respuestaCorta: 'Os bilhetes oficiais (18 €) são postos à venda **até três meses antes** e a lotação é de **700 pessoas a cada meia hora**. Se estiverem esgotados, veja outros horários e outros dias no site oficial, experimente os **bilhetes de revenda** (desde 21,50 €) ou um **tour com entrada incluída**. E mesmo que não consiga nada, **a maior parte do parque é de acesso livre**: só se paga a zona monumental.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi
   - sagrada-familia-park-guell-tour-guiado
   - barcelona-un-dia-sagrada-familia-park-guell
 faq:
-- pregunta: Dá para comprar bilhetes do Park Güell à porta?
-  respuesta: 'As normas oficiais referem máquinas e bilheteiras nos acessos, mas a lotação é a mesma do site: se lá estiver esgotado, à porta também não haverá. Sem bilhete comprado antes, a entrada não é garantida.'
-- pregunta: Com quanta antecedência saem os bilhetes?
-  respuesta: Segundo o site oficial, pode escolher o dia e o horário até três meses antes da visita. No verão, na Páscoa e em fins de semana prolongados, os primeiros e os últimos horários do dia esgotam primeiro.
-- pregunta: Dá para entrar de graça cedo ou à noite?
-  respuesta: Não, se for turista. Das 7:00 às 9:30 e das 20:00 às 22:00 o parque é reservado aos moradores com cartão e aos recenseados em Barcelona com Passi Verd. Os horários turísticos vão das 9:30 às 19:30.
+- pregunta: É possível comprar bilhetes do Park Güell à entrada?
+  respuesta: 'As regras oficiais mencionam máquinas e bilheteiras nos acessos, mas a lotação é a mesma do site: se lá estiver esgotado, à entrada também não haverá. Sem bilhete prévio o acesso não está garantido.'
+- pregunta: Com quanta antecedência são postos à venda os bilhetes?
+  respuesta: Segundo o site oficial, pode escolher dia e horário até três meses antes da visita. No verão, na Semana Santa e em fins de semana prolongados, os primeiros e os últimos horários do dia esgotam primeiro.
+- pregunta: É possível entrar de graça cedo ou à noite?
+  respuesta: 'Não, se for turista. Das 7h00 às 9h30 e das 20h00 às 22h00 o parque está reservado aos vizinhos com cartão e aos recenseados em Barcelona com Passi Verd. Os horários de visita turística vão das 9h30 às 19h30.'
 - pregunta: O que se vê do Park Güell sem bilhete?
-  respuesta: 'O bilhete só cobre a zona monumental: a escadaria do dragão, a Sala Hipostila, a praça do banco ondulado e os pórticos. O resto do parque, com os caminhos do bosque e o miradouro do Turó de les Tres Creus, é de acesso livre.'
-- pregunta: O que acontece se chegar atrasado ao meu horário?
-  respuesta: Tem 30 minutos a partir da hora reservada para entrar; depois o bilhete deixa de valer e não é reembolsado. Lá dentro não há limite de tempo, mas se sair já não pode voltar a entrar.
+  respuesta: 'O bilhete só cobre a zona monumental: a escadaria do dragão, a Sala Hipóstila, a praça com o banco ondulado e os pórticos. O resto do parque, com os caminhos do bosque e o miradouro do Turó de les Tres Creus, é de acesso livre.'
 opciones:
   - ficha: park-guell-entrada-zona-monumental
     etiqueta: A mais barata
@@ -53,6 +50,8 @@ opciones:
   - ficha: sagrada-familia-park-guell-tour-guiado
     etiqueta: Com guia
 ---
+
+O Park Güell vende os bilhetes com hora marcada e com uma lotação fixa de **700 pessoas a cada meia hora** e, no verão, na Semana Santa e em fins de semana prolongados, os bons horários esgotam com dias ou semanas de antecedência. O site oficial dizer «esgotado» não o deixa sem Gaudí: há várias opções, umas oficiais e outras pagas, e convém experimentá-las por esta ordem.
 
 ## Que bilhete escolher?
 
@@ -63,69 +62,50 @@ opciones:
 | Com guia lá dentro | [Tour da Sagrada Família e do Park Güell](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour), 4,8★ (6.776) | 104 € |
 | Barcelona num dia | [Sagrada Família, Park Güell e centro](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell), 4,9★ (15.762) | 129 € |
 
-## O que vai ver na zona monumental
+## 1. Volte a consultar o site oficial (e como)
 
-O bilhete só é necessário para a **zona monumental**, a parte que Gaudí chegou a terminar:
+O site oficial é `parkguell.barcelona`. O bilhete geral custa **18 €**; dos 7 aos 12 anos e maiores de 65, **13,50 €**, e as crianças dos 0 aos 6 anos não pagam, mas precisam de bilhete porque contam para a lotação.
 
-- **Os dois pavilhões da entrada** e a **escadaria com a salamandra** de trencadís, a imagem mais fotografada do parque.
-- **A Sala Hipostila**, um bosque de colunas dóricas pensado como mercado.
-- **A grande praça** por cima, rodeada pelo **banco ondulado** revestido de cerâmica partida, com vista sobre a cidade.
-- **Os pórticos e viadutos de pedra**, que imitam formas naturais e acompanham a encosta.
-
-Conte com **cerca de 1 h 30** para esta zona. A Casa Museu Gaudí, onde o arquiteto viveu, não está incluída.
-
-## Preços e horários no site oficial
-
-A lotação é de **700 pessoas a cada meia hora**, e no verão, na Páscoa e em fins de semana prolongados os bons horários esgotam com dias ou semanas de antecedência. O site oficial é parkguell.barcelona:
-
-- **Geral:** 18 €.
-- **Dos 7 aos 12 anos e maiores de 65:** 13,50 €.
-- **Dos 0 aos 6 anos:** grátis, mas precisam de bilhete porque contam para a lotação.
-- **Horários turísticos:** das 9:30 às 19:30. Os bilhetes saem **até três meses antes** e **não podem ser cancelados**.
-
-Se aparecer «esgotado», não desista à primeira:
-
-- **Veja vários dias seguidos.** Os bilhetes individuais podem mudar de data até à véspera, por isso os horários vão mudando.
+- **Veja vários dias seguidos.** Os bilhetes individuais podem mudar de data até à véspera, por isso os horários vão mexendo.
 - **Seja flexível com a hora.** Os primeiros da manhã e os últimos da tarde são os mais procurados; os do meio-dia aguentam mais, embora faça mais calor e haja menos sombra.
-- **Em grupo, divida a compra.** Pode haver lugar para dois num horário e para outros dois no seguinte.
+- **Se for em grupo, divida a compra.** Pode haver lugar para dois num horário e para outros dois no seguinte.
+- **Atenção aos horários dos vizinhos.** Das 7h00 às 9h30 e das 20h00 às 22h00 o parque é só para vizinhos e Passi Verd. O truque de entrar de graça cedo já não funciona.
 
-## Park Güell bilhetes de última hora: revenda e tour com entrada
+Lembre-se de que o bilhete oficial não pode ser cancelado: se o conseguir, já não há reembolso.
 
-Os **revendedores autorizados** compram lotes com antecedência, por isso podem ter lugares quando o site oficial já não tem. São mais caros: a zona monumental custa desde **21,50 €** e a combinada com a **Casa Museu Gaudí** desde **28 €**. Também não podem ser cancelados, por isso compre só quando tiver o dia fechado.
+## 2. Um bilhete de revenda
+
+Os revendedores autorizados compram quotas com antecedência, por isso podem ter lugares quando o site oficial já não tem. São mais caros do que o oficial: o bilhete para a zona monumental sai desde **21,50 €** e o combinado com a **Casa Museu Gaudí**, desde **28 €**. Também não podem ser cancelados, por isso compre só quando tiver o dia fechado.
 
 [actividad: park-guell-entrada-zona-monumental]
 
-Se além disso quiser que alguém lhe explique o parque, um **tour com entrada incluída** já leva o horário reservado. O da **Sagrada Família e do Park Güell** (desde 104 €, 4 horas) inclui as duas entradas, o guia e a deslocação entre ambos, com **cancelamento gratuito até 24 horas antes**. Antes de pagar, confirme que diz **«entrada no Park Güell incluída»** e que a visita é à zona monumental: há passeios que só percorrem a parte gratuita.
+## 3. Um tour com entrada incluída
 
-As visitas guiadas oficiais do parque (desde 17 €) não resolvem neste caso: pagam-se à parte e também exigem bilhete.
+Se quiser também que alguém lhe explique o parque, os tours guiados levam a entrada com hora já reservada. O da **Sagrada Família e do Park Güell** (desde 104 €, 4 horas) inclui os dois bilhetes, o guia dentro dos dois monumentos e a deslocação entre eles, e tem **cancelamento gratuito até 24 horas antes**.
+
+Antes de pagar, confirme na ficha que diz **«entrada no Park Güell incluída»** e que a visita é à **zona monumental**: há passeios que só percorrem a parte gratuita.
+
+As visitas guiadas oficiais do parque (desde 17 €) não lhe servem neste caso: pagam-se à parte e também exigem ter o bilhete.
 
 [actividad: sagrada-familia-park-guell-tour-guiado]
 
-## Park Güell sem bilhetes: a zona gratuita
+## 4. O que vê sem bilhete
 
-A zona monumental é uma parte pequena do parque. O resto é de **acesso livre** e vale a subida:
+A zona monumental é uma parte pequena do parque. O resto é de acesso livre e vale a subida:
 
-- Os **caminhos do bosque** à volta da zona paga, com sombra e muito menos gente.
+- Os **caminhos do bosque** que rodeiam a zona paga, com sombra e muito menos gente.
 - O **miradouro do Turó de les Tres Creus**, o ponto mais alto, com a melhor vista de Barcelona e do mar.
-- As **casas da entrada**, que se veem da rua Olot mesmo sem entrar.
+- As **casas da entrada** (a Casa del Guarda e o pavilhão em frente), que se veem da rua Olot mesmo sem entrar.
 
-Atenção: o truque de entrar de graça cedo já não funciona. Das **7:00 às 9:30 e das 20:00 às 22:00** o parque é só para moradores e titulares do Passi Verd.
-
-Se procura Gaudí por dentro, a **Casa Batlló** e **La Pedrera** vendem bilhetes com mais margem, e a Sagrada Família tem as suas próprias opções: explicamo-las em [o que fazer se os bilhetes da Sagrada Família estiverem esgotados](/pt/guides/barcelona/sagrada-familia-bilhetes-esgotados).
-
-## Como chegar
-
-- **Autocarros H6 e D40.** A entrada mais cómoda é a de **Carretera del Carmel 23**, com pouca subida e praça de táxis; é a recomendada com carrinho de bebé ou cadeira de rodas.
-- **Metro Lesseps (L3):** 15-20 minutos a subir. A porta da avinguda del Santuari tem escadas rolantes.
-- **Táxi desde o centro:** 12-15 €.
-
-O bilhete vale para qualquer uma das quatro portas.
+Se o que procura é Gaudí por dentro, a **Casa Batlló** e **La Pedrera** vendem bilhetes com mais margem, e a **Sagrada Família** tem as suas próprias opções quando esgota: explicamo-las em [o que fazer se os bilhetes da Sagrada Família estiverem esgotados](/pt/guides/barcelona/sagrada-familia-bilhetes-esgotados).
 
 ## Erros a evitar
 
-1. **Comprar em sites que imitam o oficial.** Cobram taxas extra e o parque não responde por bilhetes de canais não oficiais.
+1. **Comprar em sites que imitam o oficial.** Cobram taxas extra, e o parque não se responsabiliza por bilhetes de canais não oficiais. O oficial é `parkguell.barcelona`.
 2. **Reservar um tour sem confirmar que entra na zona monumental.** Os passeios pela parte gratuita são mais baratos por alguma razão.
 3. **Chegar atrasado ao seu horário.** Só pode entrar nos **30 minutos** seguintes à sua hora; depois perde o bilhete.
-4. **Sair para «voltar depois».** Uma vez lá dentro, não pode sair e voltar a entrar.
+4. **Sair para «voltar mais tarde».** Uma vez lá dentro, não pode sair e voltar a entrar.
 
-Se ainda hesita entre o bilhete simples, com Casa Gaudí ou com guia, comparamos tudo em [que bilhete do Park Güell escolher](/pt/guides/barcelona/park-guell-que-bilhete-escolher).
+## Numa frase
+
+Se o site oficial aparecer esgotado, veja outros horários e outros dias, experimente um bilhete de revenda ou um tour com entrada incluída e, se não tiver sorte, suba na mesma à parte livre do parque; tudo o resto explicamos em [que bilhete do Park Güell escolher](/pt/guides/barcelona/park-guell-que-bilhete-escolher).

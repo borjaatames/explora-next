@@ -5,14 +5,14 @@ metaTitle: "Puerto de Barcelona en crucero: qué hacer en la escala"
 categoria: "barcelona"
 slug: "puerto-barcelona-cruceros-que-hacer"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-11-01"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/port-vell/port-vell-desde-colon.webp"
 imagen_alt: "El Port Vell de Barcelona y el edificio de la Autoridad Portuaria vistos desde el Monumento a Colón, con la pasarela de la Rambla de Mar"
-tiempo_lectura: 5
+tiempo_lectura: 6
 keywords:
   - "puerto de barcelona cruceros"
   - "terminal cruceros barcelona al centro"
@@ -28,19 +28,18 @@ slugs:
   it: porto-crociere-barcellona-guida
   pt: porto-de-barcelona-cruzeiros
 reservasArriba: true
-intro: 'El **puerto de Barcelona** es el mayor puerto de **cruceros** del Mediterráneo, y una escala da para mucho: la Rambla y el Barrio Gótico empiezan a un paso del monumento a Colón, la **Sagrada Família** queda a unos 3 km y, con un día largo, hasta **Montserrat**. La clave es que el barco no te deja en el centro: cómo salgas del muelle decide cuánto llegas a ver.'
-respuestaCorta: 'En el **puerto de Barcelona** los **cruceros** atracan casi siempre en el **Moll Adossat**, a 25-45 minutos andando de Colón. Lo práctico es el **Cruise Bus**: **3,50 € el trayecto o 5 € el día**. La **Sagrada Família** está a 20-25 minutos en metro o a 20-25 € en taxi. **Montserrat**, solo con 8-9 horas.'
+respuestaCorta: 'Casi todos los barcos atracan en el **Moll Adossat**, a **25-45 minutos a pie** del monumento a Colón. Lo más práctico es el **Cruise Bus** (el antiguo Portbus T3): **3,50 € el trayecto o 5 € el billete de día**, y en unos 5 minutos estás al pie de la Rambla. La **Sagrada Família** queda a unos 3 km de Colón: 20-25 minutos en metro o un taxi desde el barco por unos 20-25 €. Con **4 horas**, Gótico y Rambla o solo la Sagrada Família con entrada reservada; **Montserrat**, solo con 8-9 horas.'
 faq:
-- pregunta: ¿Cuánto cuesta el bus lanzadera del puerto de cruceros de Barcelona?
-  respuesta: El Cruise Bus, que antes se llamaba Portbus o T3, cuesta 3,50 € el trayecto y 5 € el billete de día, con viajes ilimitados ese día, según la Autoridad Portuaria. Se paga con tarjeta, une las terminales del Moll Adossat con el entorno de Colón y no admite los billetes de TMB.
-- pregunta: ¿Se puede ir andando del puerto de cruceros a la Rambla?
-  respuesta: 'Desde el World Trade Center, sí: unos 15 minutos. Desde el Moll Adossat son entre 25 y 45 minutos según la terminal, por un muelle sin sombra. Con calor o poco tiempo, compensa el Cruise Bus.'
-- pregunta: ¿Cómo voy del barco a la Sagrada Família?
-  respuesta: 'La forma más rápida es el taxi, unos 20-25 € con el suplemento del Moll Adossat. La más barata: Cruise Bus hasta Colón y metro desde Drassanes (L3 hasta Diagonal y L5 hasta Sagrada Família), con billete sencillo de 2,90 €. Reserva antes la entrada con hora, porque no hay taquilla.'
-- pregunta: ¿Da tiempo a ir a Montserrat en una escala de crucero?
-  respuesta: Solo con 8-9 horas en puerto. Montserrat está a 1 hora por carretera y la excursión con recogida en el puerto que vendemos dura 8 horas. Con menos tiempo, quédate en Barcelona.
-- pregunta: ¿Qué cierra en Barcelona el domingo?
-  respuesta: La Boquería cierra los domingos y la Sagrada Família abre a las 10:30. Las tiendas de Ciutat Vella y el Eixample solo pueden abrir los domingos del 15 de mayo al 15 de septiembre, de 12:00 a 20:00; el resto del año, la mayoría cierra salvo los domingos autorizados.
+  - pregunta: "¿Cuánto cuesta el bus lanzadera del puerto de cruceros de Barcelona?"
+    respuesta: "El Cruise Bus, que antes se llamaba Portbus o T3, cuesta 3,50 € el trayecto y 5 € el billete de día, con viajes ilimitados ese día, según la Autoridad Portuaria. Se paga con tarjeta, une las terminales del Moll Adossat con el entorno de Colón y no admite los billetes de TMB."
+  - pregunta: "¿Se puede ir andando del puerto de cruceros a la Rambla?"
+    respuesta: "Desde el World Trade Center, sí: unos 15 minutos. Desde el Moll Adossat son entre 25 y 45 minutos según la terminal, por un muelle sin sombra. Con calor o poco tiempo, compensa el Cruise Bus."
+  - pregunta: "¿Cómo voy del barco a la Sagrada Família?"
+    respuesta: "La forma más rápida es el taxi, unos 20-25 € con el suplemento del Moll Adossat. La más barata: Cruise Bus hasta Colón y metro desde Drassanes (L3 hasta Diagonal y L5 hasta Sagrada Família), con billete sencillo de 2,90 €. Reserva antes la entrada con hora, porque no hay taquilla."
+  - pregunta: "¿Da tiempo a ir a Montserrat en una escala de crucero?"
+    respuesta: "Solo con 8-9 horas en puerto. Montserrat está a 1 hora por carretera y la excursión con recogida en el puerto que vendemos dura 8 horas. Con menos tiempo, quédate en Barcelona."
+  - pregunta: "¿Qué cierra en Barcelona el domingo?"
+    respuesta: "La Boquería cierra los domingos y la Sagrada Família abre a las 10:30. Las tiendas de Ciutat Vella y el Eixample solo pueden abrir los domingos del 15 de mayo al 15 de septiembre, de 12:00 a 20:00; el resto del año, la mayoría cierra salvo los domingos autorizados."
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
   - barcelona-y-montserrat-grupo-reducido-recogida-hotel
@@ -50,67 +49,91 @@ actividades:
   - sagrada-familia-park-guell-dia-completo-privado
 ---
 
-## Terminales del puerto de cruceros
+Barcelona es el mayor puerto de cruceros del Mediterráneo y, al contrario que en Málaga o Cádiz, **el barco no te deja en el centro**: las terminales grandes están al final de un muelle largo. Lo que veas depende de dos cosas: de cómo salgas del puerto y de si tienes ya la entrada de la Sagrada Família.
 
-- **Moll Adossat:** terminales A, B y C; D y E (Carnival) y la nueva de MSC, abierta en 2025. Es donde atracan casi todos los barcos, a **25-45 minutos a pie** de Colón según la terminal.
-- **World Trade Center:** la terminal Sud, para barcos más pequeños, a **unos 15 minutos a pie** de la Rambla. Deja de recibir cruceros a finales de 2026.
+## ¿En qué terminal atraca el barco?
 
-El puerto está reduciendo terminales: la Nord del World Trade Center cerró en 2023 y Royal Caribbean construye una nueva en el Moll Adossat para 2027. Mira en tu programa diario cuál te toca.
+| Zona | Terminales | Distancia a Colón y la Rambla |
+| --- | --- | --- |
+| Moll Adossat | A, B y C; D y E (Carnival); la nueva de MSC, abierta en 2025 | 25-45 minutos a pie según la terminal |
+| World Trade Center | Terminal Sud, para barcos más pequeños, hasta finales de 2026 | Unos 15 minutos a pie |
 
-## De la terminal de cruceros al centro de Barcelona
+El puerto está reduciendo terminales: la Nord del World Trade Center cerró en 2023, la Sud deja de recibir cruceros a finales de 2026 y Royal Caribbean construye una nueva en el Moll Adossat para 2027. Mira en tu programa diario cuál te toca.
 
-- **Cruise Bus (antes Portbus o T3):** une las terminales del Moll Adossat con el entorno del monumento a Colón en unos 5 minutos. **3,50 € el trayecto o 5 € el billete de día**, con viajes ilimitados: conviene si vas a volver a dejar compras en el barco. Se paga con tarjeta y **no valen los billetes de TMB**.
-- **A pie:** 25-45 minutos por un muelle sin sombra. Solo con tiempo y buen clima.
-- **Taxi:** a Colón, unos 10 minutos y 12-15 €. Tarifa del Área Metropolitana: bajada de bandera de 2,80 €, 1,35 € por kilómetro en días laborables de 8:00 a 20:00 y 1,66 € de noche, en sábado y festivos, más un **suplemento de 4,60 €** por salir del Moll Adossat.
-- **Metro:** desde Drassanes (L3), al pie de la Rambla. Billete sencillo 2,90 €; la T-casual, 13 € por 10 viajes, es personal: cada viajero necesita la suya (para grupos, la T-familiar).
-- **Lanzadera de la naviera:** mira dónde para y si cobra.
+## Cómo llegar al centro
 
-**A la Sagrada Família desde el puerto de cruceros:** está a unos 3 km de Colón. En metro, L3 de Drassanes a Diagonal y L5 hasta Sagrada Família, unos 20-25 minutos. El taxi directo desde el barco (15-25 minutos, unos 20-25 €) te ahorra el transbordo.
+| Opción | Tiempo | Precio | Ten en cuenta |
+| --- | --- | --- | --- |
+| Cruise Bus | Unos 5 min hasta la Rambla | 3,50 € trayecto, 5 € billete de día | Pago con tarjeta; no valen los billetes de TMB |
+| A pie | 25-45 min | Gratis | Muelle sin sombra; solo con tiempo y buen clima |
+| Taxi a Colón | Unos 10 min | Unos 12-15 € | Suplemento de 4,60 € por salir del Moll Adossat |
+| Taxi a la Sagrada Família | 15-25 min | Unos 20-25 € | Más caro de noche, en sábado y festivos |
+| Lanzadera de la naviera | Variable | La fija la naviera | Mira dónde para y si cobra |
 
-## Qué ver en Barcelona en una escala de crucero
+- **El Cruise Bus** (antes Portbus o T3) une las terminales del Moll Adossat con el entorno del monumento a Colón. El billete de día permite ir y volver varias veces, así que es el que conviene si vas a dejar compras en el barco.
+- **El taxi** tiene tarifa del Área Metropolitana: bajada de bandera de 2,80 €, 1,35 € por kilómetro en días laborables de 8:00 a 20:00 y 1,66 € de noche, en sábado y festivos, más el **suplemento de 4,60 €** del Moll Adossat.
+- **El metro** sale desde Drassanes (L3), al pie de la Rambla. El billete sencillo cuesta 2,90 € y la T-casual, 13 € por 10 viajes, que puede compartir un grupo.
 
-**Con 4 horas.** Dos opciones: Rambla, Boquería, Barrio Gótico, Catedral y el Born, todo a pie desde Colón; o solo la Sagrada Família, en taxi de ida y vuelta.
+**A la Sagrada Família:** está a unos 3 km de Colón en línea recta. En metro, L3 de Drassanes a Diagonal y L5 hasta Sagrada Família, unos 20-25 minutos. Desde el barco, el taxi directo te ahorra el transbordo.
 
-**Con 6 horas.** Sagrada Família con entrada reservada, paseo de Gràcia (Casa Batlló y La Pedrera por fuera) y bajada por el Gótico hasta Colón.
+## Qué ver en 4, 6 u 8 horas
 
-**Con 8 horas.** Sagrada Família y Park Güell con entradas, más el Gótico; o Montserrat, si el barco está 8-9 horas.
+| Horas en tierra | Plan | Qué reservar |
+| --- | --- | --- |
+| 4 horas | Opción A: Rambla, Boquería, Barrio Gótico, Catedral y el Born, todo a pie desde Colón. Opción B: solo la Sagrada Família, en taxi de ida y vuelta | Entrada a la Sagrada Família, desde 34 € |
+| 6 horas | Sagrada Família con entrada reservada, paseo de Gràcia (Casa Batlló y La Pedrera por fuera) y bajada por el Gótico hasta Colón | Tour privado de 2 horas por el Gótico y el Born, desde 54 € |
+| 8 horas | Sagrada Família y Park Güell con entradas, más el Gótico; o Montserrat con recogida en el puerto si el barco está 8-9 horas | Barcelona y Montserrat desde el puerto, desde 149 € |
 
-La **Sagrada Família solo vende online** y en verano se agota con semanas de margen. Calcula entre 1 h 30 y 2 horas dentro y elige una franja que te deje volver al barco con holgura. La entrada oficial cuesta 26 € en sagradafamilia.org (con la app de audioguía); en reventa, desde 34 €.
+La **Sagrada Família solo vende online** y en verano se agota con semanas de margen. Calcula entre 1 h 30 y 2 horas dentro y elige una franja que te deje volver al barco con holgura.
 
 [actividad: entrada-sagrada-familia-audioguia]
 
-**Montserrat** está a 1 hora por carretera; ida, vuelta y visita al monasterio suman al menos 5 horas. La excursión **Barcelona y Montserrat en grupo reducido** (máximo 12 personas, guía en inglés) recoge en el puerto, dura 8 horas y cuesta desde 149 € por persona; la Sagrada Família se ve por fuera (entrar cuesta 25 € más y hay que pedirlo al operador). Comparamos formas de ir en [qué excursión a Montserrat elegir](/guias/barcelona/montserrat-que-excursion-elegir).
-
-Más ideas en [cómo visitar la Sagrada Família](/guias/barcelona/sagrada-familia-como-visitar) y en [Barcelona en 1 día](/guias/barcelona/barcelona-en-1-dia).
+Si preferís guía oficial y que os recojan en el barco, la **visita privada a la Sagrada Família** cuesta **340 € por grupo** para 1 o 2 personas (480 € para 4), entradas incluidas. La opción con **recogida en el puerto de cruceros** sube a 390 € (560 € para 4) y **solo incluye la ida**: la vuelta al barco es por tu cuenta.
 
 [actividad: sagrada-familia-visita-privada-guia-entradas]
 
+Con más horas, el **día completo privado con la Sagrada Família y el Park Güell** (6 h 30, desde unos 196 € por persona en pareja) empieza en la Rambla, a un paso de la parada del Cruise Bus. La propia ficha recomienda a los cruceristas la salida más temprana.
+
 [actividad: sagrada-familia-park-guell-dia-completo-privado]
 
-## Excursión del barco, privada o por libre
+Más detalles en [cómo visitar la Sagrada Família](/guias/barcelona/sagrada-familia-como-visitar) y en [Barcelona en 1 día](/guias/barcelona/barcelona-en-1-dia).
 
-- **Excursión de la naviera:** el precio lo marca la naviera, pero **el barco espera a sus propias excursiones**.
-- **Excursión con recogida en el puerto:** el operador planifica con tu hora de salida, pero el barco no espera. Diles siempre la hora de all aboard al reservar.
-- **Privada:** la visita privada a la Sagrada Família con guía oficial cuesta **340 € por grupo** de 1 o 2 personas (480 € para 4), entradas incluidas; con **recogida en el puerto** sube a 390 € (560 € para 4) y **solo incluye la ida**. El día completo privado con Sagrada Família y Park Güell (6 h 30, desde unos 196 € por persona en pareja) empieza en la Rambla, cerca del Cruise Bus, y recomienda a los cruceristas la salida más temprana.
-- **Por libre:** Cruise Bus, metro y entradas; todo el riesgo es tuyo.
+## ¿Montserrat desde el barco?
+
+Montserrat está a **1 hora por carretera**. Ida, vuelta y visita al monasterio suman unas 5 horas como mínimo, así que solo tiene sentido con **8-9 horas en puerto**. La excursión **Barcelona y Montserrat en grupo reducido** (máximo 12 personas, guía en inglés) recoge en el puerto de cruceros, dura 8 horas y cuesta **desde 149 € por persona**. La Sagrada Família se ve por fuera; entrar cuesta 25 € más y hay que pedirlo al operador.
 
 [actividad: barcelona-y-montserrat-grupo-reducido-recogida-hotel]
 
-## Volver al barco a tiempo
+Para comparar formas de ir, lee [qué excursión a Montserrat elegir](/guias/barcelona/montserrat-que-excursion-elegir).
+
+## Excursión del barco o privada
+
+| Opción | Precio orientativo | ¿Y si hay retraso? |
+| --- | --- | --- |
+| Excursión de la naviera | La que marque tu naviera | El barco espera a sus propias excursiones |
+| Excursión con recogida en el puerto | Desde 149 € por persona (Montserrat) | El operador planifica con tu hora de salida, pero el barco no espera |
+| Privada con recogida | Desde 390 € por grupo (Sagrada Família) | Tú marcas el horario; la vuelta al barco puede ir por tu cuenta |
+| Por libre | Cruise Bus, metro y entradas | Todo el riesgo es tuyo |
+
+El barco solo espera si la excursión es suya. Con un operador externo, él asume el horario: diles siempre la hora de all aboard al reservar.
+
+## ¿A qué hora volver al barco?
 
 - El **all aboard** suele ser entre 30 y 60 minutos antes de zarpar, en **hora del barco**.
-- **Regla práctica:** estar en la terminal **1 hora antes del all aboard** y salir del centro con **1 h 30 de margen**: entre el tráfico y la cola del Cruise Bus a última hora, el margen se va rápido.
-- Lleva la tarjeta del barco y un documento de identidad. Cuidado con los carteristas en la Rambla y el metro.
+- **Regla práctica:** estar en la terminal **1 hora antes del all aboard**, y salir del centro con **1 h 30 de margen**: entre el tráfico y la cola del Cruise Bus a última hora, el margen se va rápido.
+- Lleva la tarjeta del barco y un documento de identidad. Cuidado con los carteristas en la Rambla y el metro: lleva solo lo necesario.
 
-## Domingos, festivos y errores típicos
+## Domingos y festivos
 
-- **Domingo:** la Sagrada Família abre a las 10:30, no a las 9:00; la Boquería cierra; el Museo Picasso es gratis el primer domingo de cada mes, con reserva previa en su web.
-- **Tiendas:** en Ciutat Vella y el Eixample pueden abrir domingos y festivos **del 15 de mayo al 15 de septiembre, de 12:00 a 20:00**; fuera de esas fechas, la mayoría cierra salvo los domingos autorizados.
+- **Sagrada Família:** el domingo abre a las 10:30, no a las 9:00.
+- **Boquería:** cerrada los domingos.
+- **Museo Picasso:** gratis el primer domingo de cada mes, con reserva previa en su web.
+- **Tiendas:** en Ciutat Vella y el Eixample pueden abrir los domingos y festivos **del 15 de mayo al 15 de septiembre, de 12:00 a 20:00**. Fuera de esas fechas, la mayoría cierra salvo los domingos autorizados del calendario.
 
-Errores que vemos a menudo:
+## Errores típicos
 
 1. **Llegar sin entrada a la Sagrada Família.** No hay taquilla: es online o nada.
 2. **Ir andando desde el Moll Adossat al mediodía en verano.** Son hasta 45 minutos sin sombra.
 3. **Intentar Montserrat con 6 horas.** No da tiempo con margen.
-4. **Pagar el Cruise Bus con un billete de TMB.** No sirve.
+4. **Pagar el Cruise Bus con un billete de TMB.** No sirve: compra el suyo.
 5. **Reservar la privada con recogida pensando que incluye la vuelta.** Solo incluye la ida.

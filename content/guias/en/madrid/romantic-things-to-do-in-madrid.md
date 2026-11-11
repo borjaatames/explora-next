@@ -5,13 +5,13 @@ metaTitle: "Romantic things to do in Madrid, with prices"
 categoria: "madrid"
 slug: "romantic-things-to-do-in-madrid"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/madrid/azoteas/azoteas-madrid-aerial-photography-vehicles-hero.webp"
 imagen_alt: "Gran Vía and the Metrópolis building seen from a Madrid rooftop at sunset"
-tiempo_lectura: 4
+tiempo_lectura: 6
 keywords:
   - "romantic things to do in madrid"
   - "madrid for couples"
@@ -26,19 +26,18 @@ slugs:
   it: cose-romantiche-da-fare-a-madrid
   pt: planos-a-dois-em-madrid
 reservasArriba: true
-intro: 'There are plenty of **romantic things to do in Madrid**: the city holds its own against Paris or Venice: long evenings, **small flamenco venues** in Habsburg Madrid, taverns with centuries of history and free sunsets at the Temple of Debod or the Retiro. And an hour away is Segovia, which you can see from a balloon at dawn. Here are the plans that work best for two, from the quietest to the most special.'
-respuestaCorta: 'Our top romantic things to do in Madrid: **flamenco at Las Carboneras**, a small tablao with a drink included (€45 per person); a **private tour of century-old taverns** (€127 per person); and, for a special occasion, a **balloon over Segovia** with breakfast and cava (€205 per person). Alcohol-free: a **private picnic** (€70 per person).'
+respuestaCorta: "The three things we most recommend for couples in Madrid are **flamenco at Las Carboneras**, a small venue in Habsburg Madrid with a drink included (€45 per person), the **private tour of century-old taverns** with two drinks and two tapas each (€127 per person) and, for a special occasion, a **hot-air balloon flight over Segovia** with breakfast and cava (€205 per person). For something quiet and alcohol-free, the **private picnic** with ham, cheeses and 0.0% sparkling wine costs €70 per person."
 faq:
-- pregunta: What is the most romantic thing to do in Madrid?
-  respuesta: It depends on the couple. For a special night, flamenco in a small tablao like Las Carboneras (€45 per person, drink included) and dinner in Habsburg Madrid. For something unforgettable, the one-hour balloon flight over Segovia, with breakfast and cava (€205 per person).
-- pregunta: How much is the Segovia balloon ride from Madrid?
-  respuesta: €205 per person, with an hour's flight, breakfast with cava, a certificate and a photo set; about four hours in total. You meet at the operator's base in Segovia, and if you don't have a car you can add pick-up in Madrid for €40 per person. Minimum age 6.
-- pregunta: What can couples do in Madrid on a budget?
-  respuesta: The guided night panoramic bus (from €23.40 per person), flamenco at Torres Bermejas (from €31) and sunset walks at the Temple of Debod or the Retiro, which are free. More ideas in our guide to Madrid on a budget.
-- pregunta: Are there alcohol-free plans for couples?
-  respuesta: 'Yes: the private picnic is paired with 0.0% sparkling wines, the balloon flight works without the toast, and at tablaos the included drink can be a soft drink. The private panoramic tuk-tuk is another way to see Madrid in two hours.'
-- pregunta: How far ahead should we book?
-  respuesta: For a Friday or Saturday, one or two weeks ahead for the small tablaos, because the best tables go on a first-come basis and capacity is limited. The balloon depends on the weather, so don't leave it for the last day of your trip.
+  - pregunta: "What is the most romantic thing to do in Madrid?"
+    respuesta: "It depends on the couple. For a special night, flamenco in a small venue such as Las Carboneras (€45 per person, drink included) and dinner in Habsburg Madrid. For something unforgettable, the one-hour balloon flight over Segovia with breakfast and cava (€205 per person)."
+  - pregunta: "How much is the Segovia balloon flight from Madrid?"
+    respuesta: "€205 per person, with an hour in the air, breakfast with cava, a certificate and a photo set; about four hours in all. You meet at the operator's base in Segovia, and without a car you can add pick-up in Madrid for €40 per person. Minimum age 6."
+  - pregunta: "What can couples do in Madrid on a budget?"
+    respuesta: "The guided panoramic night bus (from €23.40 per person), flamenco at Torres Bermejas (from €31) and a sunset walk at the Temple of Debod or the Retiro, which are free. More ideas in our Madrid on a budget guide."
+  - pregunta: "Are there alcohol-free plans for couples?"
+    respuesta: "Yes: the private picnic is paired with alcohol-free sparkling wine, the balloon flight works without the toast, and at the flamenco venues the included drink can be a soft drink. The private panoramic tuk-tuk is another way to see Madrid in two hours."
+  - pregunta: "How far ahead should we book?"
+    respuesta: "For a Friday or Saturday, one or two weeks for the small flamenco venues, as capacity is limited and the best tables go by order of arrival. The balloon flight depends on the weather, so do not leave it for the last day of your trip."
 actividades:
   - flamenco-tablao-las-carboneras
   - tour-privado-tabernas-centenarias-madrid
@@ -49,6 +48,7 @@ actividades:
   - tuk-tuk-vistas-panoramicas-exclusivas-madrid
   - madrid-big-bus-night-tour
 ---
+Madrid does not have the romantic reputation of Paris or Venice, but it works beautifully for couples: long evenings, small flamenco rooms, taverns with centuries of history and, an hour away, Segovia seen from a balloon. These are the plans we sell that suit two people best, with real prices.
 
 ## The options at a glance
 
@@ -63,64 +63,66 @@ actividades:
 | [Private panoramic tuk-tuk](/en/cities/madrid/activities/exclusive-panoramic-tuk-tuk-tour-madrid) | 2 h | €140 per tuk-tuk | Seeing Madrid without walking miles |
 | [Panoramic night bus](/en/cities/madrid/activities/madrid-big-bus-panoramic-night-tour) | 70 min | From €46.80 | Madrid lit up, on a budget |
 
-## Date night in Madrid: dinner and flamenco in a small tablao
+"From" prices on each activity page as of 1 November 2026; they can change by date and option.
 
-**Las Carboneras** is in the basement of the former palace of the Count of Miranda, five minutes from the Plaza Mayor. It is a small, intimate venue with resident artists and plenty of improvisation.
+## A flamenco night in a small venue
 
-- **Price:** €45 per person, with **one drink** included. There is an option with Spanish dinner before the show.
-- **Duration:** 1 hour. Shows usually run between 20:30 and 22:30.
-- **Wheelchair accessible**, which is rare among central tablaos.
-- Arrive **15-20 minutes early**: tables go on a first-come basis and the back side row has worse views. Free cancellation up to 24 hours before.
+**Las Carboneras** is in the basement of the old Count of Miranda palace, five minutes from Plaza Mayor. It is a small, intimate room with a resident troupe and plenty of genuine improvisation. Your ticket includes **one drink**, and there is a dinner option with Spanish food before the show. It has wheelchair access, which is rare among the old-town venues.
 
-If you prefer a tablao with more history and a three-course dinner, **Torres Bermejas**, opened in 1960 next to the Gran Vía, starts at €31 per person. We compare them in [flamenco in Madrid: which tablao to choose](/en/guides/madrid/flamenco-madrid-which-tablao-to-choose).
+- Arrive 15 to 20 minutes early: tables go by order of arrival, and the back side row has a worse view.
+- Free cancellation up to 24 hours before.
+
+If you prefer a venue with more history and a three-course dinner, **Torres Bermejas**, open since 1960 by Gran Vía, starts at €31 per person. We compare them in [flamenco in Madrid: which venue to choose](/en/guides/madrid/flamenco-madrid-which-tablao-to-choose).
 
 [actividad: flamenco-tablao-las-carboneras]
 
-## Romantic Madrid: the oldest taverns, just for you
+## The oldest taverns, just for you
 
-A private guide takes you for **2 h 10 min** through taverns and restaurants more than one and two hundred years old, including the one Guinness considers the oldest restaurant in the world, with stories of kings, writers and everyday life in old Madrid.
+A private guide takes you on a **2 h 10 min** walk through taverns and restaurants more than one and two hundred years old, including the one Guinness lists as the oldest restaurant in the world, with stories of kings, writers and everyday life in old Madrid. **Two drinks and two tapas per person** are included, at the first and last tavern. It can start with pick-up from your hotel.
 
-- Includes **two drinks and two tapas per person**, at the first and last tavern.
-- **€127 per person**, minimum 2. It can start with pick-up at your hotel.
+- €127 per person, minimum 2.
 - Minimum age 12; not wheelchair accessible.
 
 [actividad: tour-privado-tabernas-centenarias-madrid]
 
-## A special occasion: Segovia hot air balloon from Madrid
+## A special occasion: a balloon over Segovia
 
-An hour's flight over **Segovia**, with the Aqueduct, the Cathedral and the Alcázar all at once from the air. After landing, 4x4s take you to a **breakfast with cava**, and you get a flight certificate and a photo set.
+An hour in the air over **Segovia**, with the Roman aqueduct, the cathedral and the Alcázar all in view at once. After landing, 4x4s take you to a **breakfast with cava**, and you get a flight certificate and a photo set. It takes about **four hours** in all from the operator's base in Segovia; without a car, pick-up in Madrid (Hotel Riu Plaza España) costs €40 per person.
 
-- **€205 per person.** About **four hours** in total from the operator's base in Segovia.
-- If you don't have a car, pick-up in Madrid (Hotel Riu Plaza España) costs **€40 per person**.
-- Minimum age 6. Not recommended during pregnancy.
-- Wear comfortable clothes, trainers and something for your head. Times depend on the wind and weight limits.
+- Wear comfortable outdoor clothes, trainers and something for your head.
+- Times depend on wind and weight limits; not recommended during pregnancy.
 
 [actividad: vuelo-globo-segovia]
 
-## Quieter plans and day trips
+## Quieter plans
 
-- **[Private chic picnic](/en/cities/madrid/activities/private-chic-picnic-experience-madrid)** (2 h, €70 per person): a team sets up a gourmet picnic in a discreet spot in Madrid, revealed when your booking is confirmed, with Reserva ham, artisan cheeses and **alcohol-free sparkling wines**. They set up and clear everything. Free cancellation is only up to **12 hours before**.
-- **Wine and tapas in hidden bars** (3 h, €180 for two): four stops at bars, taverns and market stalls with at least one glass of wine at each, designed by a Spanish Wine Scholar. It starts at 11:30 or 18:30 from Plaza de los Carros, in La Latina, and counts as dinner.
-- **Private panoramic tuk-tuk** (2 h, €140 per tuk-tuk): see Madrid without walking for miles.
-- **Night panoramic bus** (70 min, from €23.40 per person): Madrid lit up, the cheapest plan.
-- **Winery and lunch in Chinchón** (6 h, €200 per person): transport from the centre, a historic family winery with a cellar visit and tasting of three wines, and lunch at a traditional restaurant by the medieval square. Groups of eight at most; free cancellation up to 48 hours before.
-
-"From" prices on each listing as of 1 November 2026; they may vary by date and option.
+- **Private chic picnic:** a team sets up a gourmet picnic in a discreet spot in Madrid, revealed when your booking is confirmed, with Reserva ham, artisan cheeses and **alcohol-free sparkling wine**. They set up and clear everything. Note that free cancellation is only up to 12 hours before.
+- **Wine and tapas in hidden bars:** four stops at bars, taverns and market stalls with at least one glass of wine at each, designed by a Spanish Wine Scholar. It leaves at 11.30 am or 6.30 pm from Plaza de los Carros in La Latina and counts as dinner.
 
 [actividad: picnic-chic-privado-madrid]
 
+## A day out: winery and lunch in Chinchón
+
+Six hours with transport from the centre: a historic family winery with a cellar visit and a tasting of three wines, then lunch at a traditional restaurant in Chinchón, with its medieval square. Groups of eight at most, €200 per person, with free cancellation up to 48 hours before.
+
 [actividad: bodega-y-comida-en-chinchon-desde-madrid]
 
-## Madrid for couples: a perfect evening
+## A perfect evening for two
 
-1. **Sunset:** the Temple of Debod or the Parque del Oeste (free).
-2. **Early evening:** the private tour of century-old taverns, which doubles as your aperitivo.
-3. **Then:** flamenco at Las Carboneras, in the same neighbourhood. Pick your time when booking.
-4. **To finish:** a stroll through the lit-up Plaza Mayor and Calle Mayor.
+1. **Sunset:** the Temple of Debod or Parque del Oeste (free).
+2. **Early evening:** the private tavern tour, which doubles as your aperitivo.
+3. **Then:** flamenco at Las Carboneras, in the same neighbourhood. Shows usually run between 8.30 pm and 10.30 pm: choose your time when booking.
+4. **To finish:** a stroll through Plaza Mayor and Calle Mayor lit up at night.
 
 ## Practical tips
 
-- **Small tablaos:** book one or two weeks ahead for Fridays and Saturdays, and don't arrive at the last minute or you'll get the worst table.
-- **Balloon:** don't leave it for the last day; if it's cancelled because of wind, you need room to change the date. And don't plan it after a long dinner: the flight is in the morning.
-- **Madrid hours:** people dine late, from 21:00. Flamenco with dinner is the easiest way to eat earlier.
-- **Tight budget:** the night panoramic bus and our guide to [Madrid on a budget](/en/guides/madrid/madrid-on-a-budget) give you a full evening for little.
+- **Small flamenco venues:** book one or two weeks ahead for Fridays and Saturdays.
+- **Balloon flight:** do not leave it for your last day; if wind cancels it, you need time to rebook.
+- **Madrid hours:** dinner starts late, from 9 pm. A flamenco show with dinner is the easiest way to eat earlier.
+- **On a budget:** the guided panoramic night bus (from €23.40 per person) and our guide to [Madrid on a budget](/en/guides/madrid/madrid-on-a-budget) give you a full evening for little.
+
+## Common mistakes
+
+- **Arriving at the last minute for flamenco:** you get the worst table.
+- **Booking the balloon after a late dinner:** the flight is in the morning and ends with breakfast.
+- **Assuming the picnic can be cancelled on the day:** the cut-off is 12 hours.

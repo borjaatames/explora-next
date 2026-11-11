@@ -53,7 +53,7 @@ export default function HeroGuia({
       <div
         className={
           "max-w-6xl mx-auto px-4 flex flex-col justify-end pb-5 md:pb-12 " +
-          (imagen ? "min-h-[220px] md:min-h-[400px] pt-12 md:pt-16" : "pt-8 md:pt-16")
+          (imagen ? "min-h-[220px] md:min-h-[520px] pt-12 md:pt-24" : "pt-8 md:pt-16")
         }
       >
         <nav aria-label={migasLabel} className="text-xs md:text-sm text-anil-100 mb-3 md:mb-4 line-clamp-1 md:line-clamp-none">
@@ -95,17 +95,13 @@ export default function HeroGuia({
 export function IndiceGuia({
   titulo,
   entradas,
-  solo,
 }: {
   titulo: string;
   entradas: ReadonlyArray<{ id: string; texto: string }>;
-  /** Pinta solo una de las dos versiones (para colocarlas en sitios distintos). */
-  solo?: "movil" | "escritorio";
 }) {
   return (
     <>
     {/* Móvil y tableta: índice plegable encima del texto. */}
-    {solo !== "escritorio" && (
     <details className="lg:hidden mb-8 rounded-lg border border-piedra-200 bg-white [&_summary::-webkit-details-marker]:hidden group">
       <summary className="flex min-h-[48px] cursor-pointer list-none items-center justify-between px-4 text-base font-semibold text-piedra-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 rounded-lg">
         <span>
@@ -128,8 +124,6 @@ export function IndiceGuia({
         ))}
       </ol>
     </details>
-    )}
-    {solo !== "movil" && (
     <nav aria-label={titulo} className="hidden lg:block">
       <div className="sticky top-28 border-t-2 border-piedra-900 pt-4">
         <p className="text-xs font-bold uppercase tracking-widest text-piedra-500 mb-3">
@@ -149,7 +143,6 @@ export function IndiceGuia({
         </ol>
       </div>
     </nav>
-    )}
     </>
   );
 }

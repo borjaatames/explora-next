@@ -4,13 +4,13 @@ descripcion: "Tarraco romana em Tarragona: anfiteatro, circo, fórum, muralhas e
 categoria: "tarragona"
 slug: "tarraco-romana-o-que-ver"
 fecha: "2026-04-21"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/tarraco-romana-que-ver.jpg"
 imagen_alt: "Anfiteatro romano de Tarragona junto ao mar"
-tiempo_lectura: 4
+tiempo_lectura: 12
 keywords:
   - "tarraco romana"
   - "anfiteatro romano tarragona"
@@ -25,24 +25,14 @@ slugs:
   it: tarraco-romana-cosa-vedere
   pt: tarraco-romana-o-que-ver
 reservasArriba: true
-intro: 'A **Tarraco romana** é o maior conjunto romano da Catalunha e Património da Humanidade: o legado da capital da Hispânia Citerior, espalhado por todo o centro histórico de Tarragona. Inclui o **anfiteatro** à beira da praia, o **circo** debaixo das ruas, o fórum, a Torre del Pretori e as **muralhas**, e a 4 km o aqueduto de les Ferreres. Percorre-se a pé em meio dia largo.'
-respuestaCorta: 'A Tarraco romana percorre-se a pé em **meio dia largo**: anfiteatro junto ao mar, circo e Torre del Pretori, fórum e muralhas. A **entrada conjunta de 15 €** inclui os principais recintos municipais (avulsos, 5 € cada); menores de 12, grátis. **Às segundas fecham todos os recintos municipais**; o aqueduto de les Ferreres, a 4 km, é gratuito.'
+respuestaCorta: 'A Tarraco romana vê-se a pé em **meio dia**: o anfiteatro junto ao mar, o circo e a Torre do Pretório, o fórum e as muralhas. O **bilhete conjunto de 15 €** inclui cinco recintos (cada um custa 5 € em separado), e os menores de 12 anos não pagam. **Todos os recintos municipais fecham às segundas-feiras**, e o aqueduto de Les Ferreres, a 4 km, é gratuito.'
 actividades:
   - tour-tarraco-romana-a-pie
   - catedral-tarragona-entrada-audioguia
   - tour-autoguiado-daremapp-tarragona
-faq:
-- pregunta: Quanto custa a entrada conjunta da Tarraco romana?
-  respuesta: 15 €. Inclui o Anfiteatro, o Circo e a Torre del Pretori, as Muralhas e a Casa Canals, entre outros recintos municipais, e pode dividir-se por dois dias da mesma viagem. Cada monumento avulso custa 5 €, por isso a partir do terceiro compensa. Menores de 12 anos entram grátis.
-- pregunta: Em que dia fecham os monumentos romanos de Tarragona?
-  respuesta: Às segundas-feiras fecham todos os recintos municipais. Nesse dia pode ver as muralhas por fora, o aqueduto de les Ferreres e a catedral.
-- pregunta: Quanto tempo é preciso para ver a Tarraco romana?
-  respuesta: Meio dia largo para o circuito urbano (anfiteatro, circo, Pretori, fórum e muralhas) e cerca de mais 2 horas se for ao aqueduto de les Ferreres.
-- pregunta: Como se chega ao aqueduto de les Ferreres?
-  respuesta: Fica a 4 km do centro, no parque eco-histórico do Pont del Diable. Autocarro 5 ou 85 desde o centro, ou 10 minutos de carro com estacionamento gratuito. A entrada é grátis e pode atravessar-se por cima.
-- pregunta: Quando é o Tarraco Viva?
-  respuesta: Na segunda quinzena de maio. Há recriações históricas, gladiadores no anfiteatro e centenas de atividades, muitas gratuitas. Os hotéis enchem, por isso reserve cedo.
 ---
+
+**Tarragona guarda o maior conjunto romano da Catalunha**, e um dos mais importantes de Espanha: o legado de **Tarraco**, capital da Hispânia Citerior e Património Mundial da UNESCO. Está espalhado por todo o centro histórico (o anfiteatro junto à praia, o circo por baixo das ruas, a catedral sobre um templo) e percorre-se tudo a pé. Este guia diz-lhe o que ver, por que ordem e como não pagar a mais.
 
 ## Visitas que pode reservar
 
@@ -51,51 +41,67 @@ faq:
 | [Bilhete da Catedral com audioguia](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4,4★ (105) | 12,50 € |
 | [Visita autoguiada em áudio (app DareMapp)](/pt/cities/tarragona/activities/tour-autoguiado-daremapp-tarragona) | — | 5 € |
 
-## O que ver na Tarraco romana
+Como escolher:
 
-- **Anfiteatro romano de Tarragona:** junto ao mar, a imagem mais célebre da cidade. Palco de combates de gladiadores, conserva também ruínas visigóticas.
-- **Circo romano:** onde se faziam as corridas de quadrigas; hoje as suas abóbadas ficam debaixo da cidade.
-- **Fórum Provincial e Torre del Pretori:** o centro político de Tarraco. A torre é um miradouro sobre o centro histórico.
-- **Fórum da Colónia:** o fórum local, com a sua basílica.
-- **Muralhas (Passeig Arqueològic):** um passeio entre as muralhas romanas, a construção romana mais antiga fora de Itália.
-- **Aqueduto de les Ferreres:** o «Pont del Diable», o aqueduto romano mais bem conservado da zona, nos arredores.
-
-Para perceber o conjunto e ver os mosaicos, o **MNAT (Museu Nacional Arqueològic)**. Na antiga Via Augusta, nos arredores, ficam ainda o **Arc de Berà** e a **Torre dels Escipions**.
-
-[actividad: catedral-tarragona-entrada-audioguia]
-
-## Preços e horários: a entrada conjunta
-
-- **Entrada conjunta: 15 €**, válida para o Anfiteatro, o Circo e a Torre del Pretori, as Muralhas e a Casa Canals, entre outros recintos municipais. Não caduca na mesma viagem, por isso pode dividi-la por dois dias. Cada monumento avulso custa **5 €**: a partir do terceiro, a conjunta compensa.
-- **Grátis:** menores de 12 anos; há também tarifas reduzidas (consulte a página municipal de preços).
-- **De abril ao fim de outubro:** de terça a sábado das 9:00 às 20:45, e domingos e feriados das 9:00 às 14:30.
-- **No inverno:** de terça a sexta das 9:00 às 18:30 (o circo-Pretori e a Casa Canals até às 20:00), aos sábados a partir das 9:30 e aos domingos das 9:30 às 14:30.
-- Entra-se até 30 minutos antes do fecho. **Às segundas fecham todos os recintos municipais**: se só tiver a segunda-feira, ficam as muralhas por fora, o aqueduto e a catedral.
-- **A catedral** paga-se à parte (13 € com audioguia, claustro incluído) e fecha aos domingos de manhã para o culto.
-
-## O percurso a pé: do anfiteatro às muralhas
-
-1. Comece pelo **anfiteatro**, à beira da praia.
-2. Siga para o **circo romano** e suba à **Torre del Pretori** para uma panorâmica.
-3. Percorra o **fórum** e o **Passeig Arqueològic** entre as muralhas.
-4. Se tiver carro, termine no **aqueduto de les Ferreres**.
-
-O circuito urbano leva **meio dia largo**; junte cerca de 2 horas se for ao aqueduto. Se preferir que lhe contem a história, há um tour guiado a pé pela Tarraco romana:
+- **A visita guiada a pé** (2 horas, guia oficial) percorre as muralhas, a maqueta de Tarraco, as abóbadas do circo e o anfiteatro, com entrada no circo incluída. É guiada **em espanhol ou catalão**.
+- **Noutra língua, ao seu ritmo:** a visita em áudio da DareMapp cobre o anfiteatro e o circo em 6 línguas, disponível a qualquer hora, por 5 €. Combine-a com o bilhete conjunto.
+- **A catedral** é um bilhete à parte com o seu próprio audioguia e uma visita de uma hora.
 
 [actividad: tour-tarraco-romana-a-pie]
 
-**Como chegar ao aqueduto:** fica a 4 km, no parque eco-histórico do Pont del Diable. Autocarro 5 ou 85 desde o centro, ou 10 minutos de carro com estacionamento gratuito. A entrada é grátis e pode atravessar-se por cima.
+## O que ver
 
-## Quando ir: Tarraco Viva e as melhores épocas
+| Monumento | O que é |
+| --- | --- |
+| Anfiteatro | Junto ao mar; combates de gladiadores e ruínas visigóticas |
+| Circo Romano | Corridas de quadrigas; abóbadas por baixo da cidade |
+| Fórum Provincial / Pretório | Centro político; a Torre do Pretório, um miradouro |
+| Fórum da Colónia | O fórum local, com a sua basílica |
+| Muralhas (Passeig Arqueològic) | O passeio entre as muralhas romanas |
+| Aqueduto de Les Ferreres | A «Ponte do Diabo», nos arredores |
 
-Na **primavera e no outono** o tempo é bom e não aperta o calor em monumentos com pouca sombra. A melhor altura é o **Tarraco Viva**, na segunda quinzena de maio: recriações históricas, gladiadores no anfiteatro e centenas de atividades, muitas gratuitas, com a cidade cheia de legionários. Os hotéis enchem, por isso reserve cedo.
+## A ordem do percurso
 
-## Conselhos e erros típicos
+Comece pelo **Anfiteatro**, a imagem mais famosa, junto à praia. Siga para o **Circo Romano** e suba à **Torre do Pretório** para ter uma panorâmica. Percorra o **fórum** e o **Passeig Arqueològic** entre as muralhas (a construção romana mais antiga fora de Itália). Se tiver carro, termine no **aqueduto de Les Ferreres**, nos arredores, num parque. Incluímo-lo no percurso de [Tarragona num dia](/pt/guides/tarragona/tarragona-num-dia).
 
-- **Não pague cada monumento em separado:** a entrada conjunta compensa, e muita gente paga a mais sem saber.
-- **Não vá ao meio-dia no verão:** anfiteatro, circo e muralhas têm pouca sombra; vá cedo.
-- **Não se esqueça do aqueduto:** fica nos arredores e quase ninguém lá vai, mas é espetacular e grátis.
-- **Não salte o MNAT:** dá contexto a tudo o que vê na rua.
-- **Não calcule pouco tempo** nem vá a uma segunda-feira sem confirmar horários.
+## Bilhetes, horários e tempos
 
-A Tarraco romana é o coração de [Tarragona num dia](/pt/guides/tarragona/tarragona-num-dia).
+| Bilhete (em 2026) | Preço | O que inclui |
+| --- | --- | --- |
+| Recinto individual | 5 € | Um monumento |
+| **Bilhete conjunto** | **15 €** | Passeig Arqueològic (muralhas), Circo e Pretório, Fórum da Colónia, Anfiteatro e Casa Canals |
+| Video mapping da Volta del Pallol | 5 € | Uma projeção numa abóbada romana |
+
+- **Quem não paga:** crianças com menos de 12 anos. Dos 12 aos 17, estudantes e reformados pagam metade. Uma família numerosa paga um só bilhete para todos.
+- **Quando compensa:** a partir do terceiro recinto o bilhete conjunto sai mais barato do que pagar um a um. Os bilhetes vendem-se nos próprios recintos e online em entrades.museu.tarragona.cat.
+- **Horário.** De abril ao final de outubro, de terça a sábado das 9h00 às 20h45 e domingos e feriados das 9h00 às 14h30. No inverno, de terça a sexta das 9h00 às 18h30 (o Circo-Pretório e a Casa Canals até às 20h00), aos sábados a partir das 9h30 e aos domingos das 9h30 às 14h30. Última entrada 30 minutos antes do fecho.
+- **Fechado às segundas-feiras.** Todos os recintos municipais fecham à segunda-feira. Se a segunda for o seu único dia, fica com as muralhas por fora, o aqueduto e a catedral.
+- **Quanto tempo:** um meio dia longo para o circuito urbano (anfiteatro, circo, Pretório, fórum e muralhas), mais 2 horas se juntar o aqueduto.
+
+> **⭐ Dica:** no verão, comece à hora de abertura. O anfiteatro, o circo e as muralhas quase não têm sombra, e ao meio-dia o calor custa a aguentar.
+
+## Para lá do centro
+
+- **Aqueduto de Les Ferreres (Pont del Diable).** O aqueduto romano mais bem conservado da zona, a 4 km do centro, no parque do Pont del Diable. O acesso é gratuito e pode atravessá-lo por cima. Fica a 10 minutos de carro, com estacionamento gratuito, ou a um curto trajeto de autocarro urbano.
+- **Arco de Berà** e **Torre dels Escipions**, na antiga Via Augusta, nos arredores.
+- **MNAT (Museu Nacional Arqueológico).** Para perceber o conjunto e ver os mosaicos.
+- **A catedral**, construída sobre a zona do templo romano, com o seu claustro. É um bilhete à parte e fecha ao domingo de manhã para o culto.
+
+## Quando ir
+
+Na **primavera e no outono**, com bom tempo e sem o calor do verão nos monumentos sem sombra. E sobretudo durante a **Tarraco Viva**, na **segunda quinzena de maio**: o festival de recriação romana, com gladiadores no anfiteatro e centenas de atividades, muitas gratuitas. Os hotéis enchem, por isso reserve cedo.
+
+## O que não recomendamos
+
+1. **Pagar cada monumento em separado.** O bilhete conjunto compensa a partir do terceiro recinto.
+2. **Ir numa segunda-feira** sem confirmar: os recintos municipais estão fechados.
+3. **Visitar ao meio-dia no verão.** Vá cedo.
+4. **Esquecer o aqueduto.** Quase ninguém lá vai, mas é espetacular e gratuito.
+5. **Saltar o MNAT.** Dá contexto a tudo o que vê na rua.
+6. **Reservar pouco tempo.** O conjunto precisa de meio dia ou mais.
+
+[actividad: catedral-tarragona-entrada-audioguia]
+
+## Numa frase
+
+A Tarraco romana é um anfiteatro junto ao mar, um circo por baixo da cidade e muralhas milenares, tudo com um bilhete conjunto de 15 € e a pé, qualquer dia exceto segunda-feira. É o coração de [Tarragona num dia](/pt/guides/tarragona/tarragona-num-dia); para um dia em família ali perto, veja o [guia do PortAventura World](/en/guides/tarragona/portaventura-world-guide).

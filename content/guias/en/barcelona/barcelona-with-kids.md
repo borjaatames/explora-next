@@ -4,7 +4,7 @@ descripcion: "Barcelona with kids without stress: CosmoCaixa, Tibidabo, Sagrada 
 categoria: "barcelona"
 slug: "barcelona-with-kids"
 fecha: "2026-05-02"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
@@ -23,8 +23,7 @@ slugs:
   fr: barcelone-avec-des-enfants
   it: barcellona-con-bambini
   pt: barcelona-com-criancas
-intro: '**Barcelona with kids** is a different Barcelona: next to the city of queues and crowds there is a very family-friendly one, with calm beaches, the Aquarium and two gems many tourists miss, the hands-on **CosmoCaixa** science museum and **Tibidabo**, Spain''s oldest amusement park, with the whole city at its feet. The key is choosing plans to suit your children''s ages.'
-respuestaCorta: 'Barcelona with kids: plan **two big things a day at most** and build the trip around **CosmoCaixa** (€8, free for under-16s) and **Tibidabo** (€35 over 120 cm; €14 from 90 to 120 cm), plus the Aquarium and the beach. Save the Sagrada Família for over-7s, get around by metro and avoid La Rambla.'
+respuestaCorta: 'With kids, plan **two big things a day at most** and build the trip around **CosmoCaixa** (€8, free for under-16s) and **Tibidabo** (€35 adults, €14 for kids 90–120 cm), plus the aquarium and the beach. Take Sagrada Familia only with kids over 7, use the metro, and keep away from Las Ramblas.'
 reservasArriba: true
 actividades:
   - entrada-sagrada-familia-audioguia
@@ -33,78 +32,84 @@ actividades:
   - aquarium-barcelona-entrada
   - tibidabo-barcelona-entrada
   - teleferico-montjuic-barcelona-ticket
-faq:
-- pregunta: What can you do in Barcelona with young children?
-  respuesta: 'For ages 0 to 3: the beach, parks, CosmoCaixa''s CLIK room and the Aquarium. From 4 to 7, add Tibidabo. Avoid the Sagrada Família queues and the full Park Güell with them, which is uphill and has no shade.'
-- pregunta: How much does Tibidabo cost for children?
-  respuesta: '€35 for those over 120 cm, €14 from 90 to 120 cm and free below that. It includes all rides, the Cuca de Llum funicular and the Tibibus from Plaça de Catalunya. It doesn''t open every day: check the calendar.'
-- pregunta: Do children pay at the Sagrada Família?
-  respuesta: Under-11s go in free (two per adult), but they need a named ticket. Under-6s can't go up the towers. At Park Güell (€18), under-7s go in free.
-- pregunta: Which is the best beach in Barcelona for kids?
-  respuesta: 'Bogatell: cleaner, less touristy and with gentle waves. Mar Bella has a park next to it. Barceloneta is hectic: better in the morning and never on an August weekend.'
-- pregunta: Where should we stay in Barcelona with kids?
-  respuesta: In the Eixample (well connected and safe), the Born (pedestrianised and next to the Ciutadella) or Sant Antoni (local feel and reasonable prices). Avoid La Rambla, Plaça de Catalunya and Barceloneta.
 ---
 
-## Things to do in Barcelona with kids by age
+The standard "Sagrada Familia, then Park Güell, then Las Ramblas" day does not work with small children: distances are long, summer heat in the Eixample is brutal and the crowds wear kids out. Here is what works by age, plus the two big family hits, CosmoCaixa and Tibidabo.
 
-| Age | Works | Avoid |
+## What ages handle what
+
+| Age | What works | What to avoid |
 | --- | --- | --- |
-| 0-3 years | Beach, parks, CosmoCaixa's CLIK room, Aquarium | Sagrada Família and Park Güell queues |
-| 4-7 years | Tibidabo, CosmoCaixa, Aquarium, beach | The full Park Güell (uphill, no shade), La Rambla |
-| 8-12 years | Sagrada Família, Park Güell, Tibidabo, Camp Nou | La Rambla, walking the Eixample in summer |
-| 13 and over | Adult plan | Nothing in particular |
+| 0–3 | Beach, parks, CosmoCaixa CLIK Room, aquarium | Sagrada Familia with queues, Park Güell crowds, long museums |
+| 4–7 | Tibidabo, CosmoCaixa, aquarium, beach | Full Park Güell (steep, little shade), Las Ramblas |
+| 8–12 | Sagrada Familia, Park Güell, Tibidabo, Camp Nou | Las Ramblas crowds, long Eixample walks in summer |
+| 13+ | Full adult plan | No special restrictions |
 
-The "Sagrada Família in the morning, Park Güell in the afternoon and La Rambla to finish" plan is exactly what doesn't work with little ones: long distances, heat in the Eixample, crowds and pickpockets. **Two big things a day at most.**
+> **Warning:** **pickpockets** work the metro, Las Ramblas, Sagrada Familia and Park Güell, and a family with a stroller is an easy target. Backpack on your front, wallet in a closed pocket, phone never in a back pocket.
 
-## CosmoCaixa and Tibidabo: the two must-dos
+## CosmoCaixa: the science museum most tourists miss
 
-**CosmoCaixa** is one of the best hands-on museums in Europe, in the upper part of the city (Sarrià-Sant Gervasi), which is why many tourists don't know it.
+**CosmoCaixa**, the "la Caixa" Foundation science museum, is one of the best interactive museums in Europe, and many visitors miss it because it's in Sarrià-Sant Gervasi, away from the centre. For families: the **Flooded Forest** (a recreated Amazon rainforest with live animals, all ages), the **Planetarium** (5+), the Butterfly House (4+), Touch-Touch with animals to handle (4–12), the CLIK Room (3–7) and the Matter Room physics experiments (6+).
 
-- **What's inside:** the **CLIK room** (ages 3-7), the **Flooded Forest** (an Amazon rainforest with live animals), **Toca Toca**, the Planetarium, the butterfly house and the matter room.
-- **Price and hours:** **€8, free for under-16s**; 10:00 to 20:00 every day. The planetarium costs €3-6 extra and its sessions are timed: get tickets as soon as you arrive.
-- **Getting there:** by **FGC** train (not the metro) from Plaça de Catalunya, line L7 to Avinguda Tibidabo, then a 10-minute walk. It fills a morning; bring water and snacks, the café is expensive.
+- **Price:** €8 general admission, **free for under-16s** and CaixaBank customers. Free for everyone on 11 February, 18 May and 24 September. Planetarium and some activities cost €3–6 extra.
+- **Hours:** daily 10 AM – 8 PM; 10 AM – 6 PM on 24 and 31 December and 5 January; closed 25 December, 1 January and 6 January.
+- **Getting there:** **FGC line L7** (not the regular metro) from Plaça Catalunya to Av. Tibidabo, then a 10-minute walk.
 
-**Tibidabo**, at the top of Collserola since 1901, is Spain's oldest amusement park, with all of Barcelona below the merry-go-round. With kids aged 4 to 12 it's a must.
+> **Tip:** budget a full morning (about 4 hours), start with the Flooded Forest and the Planetarium, and bring snacks; the cafeteria is expensive.
 
-- **Price:** **€35** over 120 cm, **€14** from 90 to 120 cm, free below. It includes all rides, the Cuca de Llum funicular and the Tibibus from Plaça de Catalunya.
-- **Don't miss:** the 1928 **Avió** (aeroplane ride), the Atalaya, the carousel, the Automaton Museum and the Marionetarium.
-- **It doesn't open every day:** weekends and public holidays outside summer, Wednesday to Sunday in July and August, and closed many days in winter. Check the calendar. It opens at 11:00 and the first three hours are the quietest.
-- **Getting up:** FGC L7 and bus 196, or straight up on the Tibibus. Don't confuse it with CosmoCaixa: they are separate visits.
+## Tibidabo: the oldest amusement park in Spain
 
-[actividad: tibidabo-barcelona-entrada]
+For kids aged 4 to 12, this is the one. **Tibidabo** has run since 1901, 500 metres up on the Collserola ridge, with views over the whole city.
+
+**2026 prices:** **€35** over 120 cm, **€14** for children 90–120 cm, **free** under 90 cm, €10.50 for 65+, €31.20 for large or single-parent families. It includes unlimited rides and shows, the **Cuca de Llum** funicular and the **TibiBus**.
+
+**Don't miss:** L'Avió (1928, one of the first flight rides in the world), L'Atalaya tower, the Carrousel, the Automaton Museum, the Muntanya Russa (fun, not extreme) and the Marionetarium puppet shows.
+
+- **Opening days:** it **does not open every day**. Spring and autumn, weekends and holidays; July and August, Wednesday to Sunday; many days closed in winter. Check the calendar before planning.
+- **Getting there:** FGC L7 to Av. Tibidabo, then **bus 196** or the TibiBus (included) to the Cuca de Llum funicular for the last 200 metres. The Tramvia Blau is out of service.
+
+> **Warning:** in July and August heat waves, avoid the afternoon. Arrive at opening (11 AM) and use the first three hours, which are the emptiest.
 
 [actividad: tibidabo-barcelona-ticket]
 
-## Sagrada Família and Park Güell with kids
+## Sagrada Familia with kids
 
-With under-6s, see the Sagrada Família from outside and not much more: the stained glass holds them for five minutes. From 7 to 12, yes, but prepared: read with them beforehand about the tree-like columns, the animals on the Nativity façade and the colours of the windows, and get them to spot details. Allow an hour inside.
+- **Under 6:** the façade from outside is enough; the interior holds them about five minutes.
+- **7–12:** yes, with preparation: tell them about the tree-columns, the animals on the Nativity façade and the coloured glass, and have them hunt for details. Plan **1 hour inside**.
+- **Tickets:** **children under 11 enter free** (max two per adult) but need a named ticket, added at checkout. Full details in our guide on [how to visit Sagrada Familia](/en/guides/barcelona/sagrada-familia-how-to-visit).
+- **Towers:** not allowed under 6. With older kids, consider vertigo: the descending staircases are narrow spirals.
 
-- **Under-11s free** (two per adult), with a named ticket.
-- **Under-6s can't go up the towers** and the way down is a narrow spiral staircase.
-- It sells out **2-4 weeks** ahead: book online. Details in [how to visit Sagrada Familia](/en/guides/barcelona/sagrada-familia-how-to-visit).
+## Aquarium of Barcelona
 
-**Park Güell** (€18, free for under-7s) has swings and space in the free area, which is what they want. In July, go at 9:00 or 17:00, never at midday.
+In Port Vell: 35 tanks, 11,000 animals, an **80-metre tunnel under the ocean tank** with sharks and rays, and the Explora! area for younger children. Approximate 2026 prices: adults €26, kids 5–10 €18, under 4 free. Allow 2–3 hours. Metro **L4 Barceloneta**.
 
-## Aquarium and beaches for families
+> **Tip:** do the aquarium in the morning and spend the afternoon on Barceloneta beach next door.
 
-**L'Aquàrium** (Port Vell, metro L4 Barceloneta) has 35 tanks, the 80-metre tunnel under the shark tank and the Explora! area for little ones. Adults **€26**, ages 5 to 10 **€18**, free for under-5s; allow 2-3 hours. School groups arrive at 11:00: go at 10:00 or after 16:00, and combine it with the beach in the afternoon.
+## Beaches with kids
 
-- **Bogatell:** cleaner, less touristy and with gentle waves. The best with kids.
-- **Mar Bella:** with a park next to it.
-- **Barceloneta:** hectic; better in the morning and never on an August weekend.
+Barcelona has 4 km of urban beaches reachable by metro. **Bogatell** is cleaner, quieter and has gentle waves; **Mar Bella** has a park next to it; **Barceloneta** is the busiest, so go in the morning and avoid August weekends. A sunbed-and-umbrella set costs €18–25 in high season. For several beach days, a basic umbrella from Decathlon works out cheaper.
 
-A parasol and sunbeds cost €18-25: for several days, a parasol from Decathlon works out cheaper.
+## Eating with kids
 
-## Eating, sleeping and getting around with kids
+- **Lunch:** the set menu at neighbourhood restaurants in Sant Antoni or the Eixample, €14–18, usually with a simple first course (pasta, salad, soup).
+- **Dinner:** Catalan kitchens rarely open before 8:30 PM. If the kids can't wait, pizzerias and more touristy places open around 7:30 PM.
+- **Hot chocolate:** **Granja M. Viader** (Carrer Xuclà 4-6, Raval, since 1870) serves thick chocolate with melindros (sponge fingers). Granja Petitbo in the Eixample is a more modern alternative.
 
-- **Eating:** there are no free tapas like in Granada. At lunchtime, a **menú del día (€14-18)** in neighbourhood restaurants in Sant Antoni or the Eixample. Catalan kitchens open at 20:30; if the kids can't wait, pizzerias and terraces open at 19:30. The highlight: thick hot chocolate with melindros (sponge fingers) in a granja, such as **Granja M. Viader** (Xuclà, 4, since 1870) or Granja Petitbo.
-- **Sleeping:** Eixample (well connected and safe), Born (pedestrianised and next to the Ciutadella, with small rooms) or Sant Antoni (local feel and reasonable prices). **Never** La Rambla and Plaça de Catalunya (noise and pickpockets) or Barceloneta.
-- **Getting around:** under-4s ride free; the **10-journey T-casual (€13 in 2026)** works for everyone from day one. From the Sagrada Família to Park Güell is a 45-minute uphill walk: take the metro or a taxi. The metro has lifts at almost every station, but not at Liceu or Jaume I: with a pushchair, check the accessibility map.
+## Where to stay with kids
 
-## Tips for a Barcelona family trip
+- **Eixample:** well connected, grid streets, restaurants everywhere. The safest choice for a first visit.
+- **Born:** historic, largely pedestrian, next to Ciutadella park. Watch for tiny rooms in old buildings.
+- **Sant Antoni:** local atmosphere and somewhat lower prices.
 
-- **Pickpockets:** metro, La Rambla, Sagrada Família and Park Güell. With a pushchair and bags you're an easy target: backpack on your front and phone never in your back pocket.
-- **La Rambla is for crossing, not strolling.**
-- **Book the Sagrada Família and Park Güell online.**
-- For the general city plan, see [Barcelona in 3 days](/en/guides/barcelona/barcelona-in-3-days).
+Avoid Las Ramblas, Plaça Catalunya (night noise, pickpockets) and Barceloneta (over-touristed).
+
+## Common mistakes
+
+1. **Lingering on Las Ramblas.** Cross it, don't stay.
+2. **Park Güell at midday in July.** Steep and shadeless; go at 9 AM or 5 PM.
+3. **Stacking Gaudí sites in one day.** **Two big things a day, maximum.**
+4. **Not booking ahead.** Sagrada Familia, Park Güell and CosmoCaixa sell out; book 2–4 weeks ahead.
+5. **Mixing up CosmoCaixa and Tibidabo.** One is a museum, the other an amusement park; they're separate visits.
+6. **Walking everything.** Sagrada Familia to Park Güell is 45 minutes uphill. The **T-Casual** (10 trips, €13 in 2026) pays off from day one.
+
+For general itineraries, see [Barcelona in 1 day](/en/guides/barcelona/barcelona-in-1-day) or [Barcelona in 3 days](/en/guides/barcelona/barcelona-in-3-days).

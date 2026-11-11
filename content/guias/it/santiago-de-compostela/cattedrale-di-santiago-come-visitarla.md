@@ -1,12 +1,11 @@
 ---
 titulo: "Cattedrale di Santiago: come visitarla (Pórtico, tetti e botafumeiro)"
 descripcion: "Guida per visitare la Cattedrale di Santiago: cosa è gratis e cosa a pagamento, il Pórtico de la Gloria, i tetti, il botafumeiro e la Messa del Pellegrino. Consigli."
-intro: 'La **Cattedrale di Santiago** è la meta del Cammino e il cuore della città. All''interno custodisce la **tomba dell''Apostolo**, sotto l''altare maggiore, il **Pórtico de la Gloria** del Maestro Mateo e un museo con chiostro, Tesoro e Pazo de Xelmírez; il tetto di granito si percorre con una guida e, in giorni speciali, vola il **botafumeiro**. Entrare in chiesa è gratis; le visite speciali sono a pagamento e con orario.'
-respuestaCorta: 'Entrare nella Cattedrale di Santiago è **gratis, tutti i giorni dalle 7:00 alle 21:00**. Si pagano le visite con orario: il **Pórtico de la Gloria**, le **coperture** e il museo, che d''estate si esauriscono. Dal 16 ottobre 2026 le **Messe del Pellegrino si celebrano nella chiesa di San Agustín** per lavori.'
+respuestaCorta: 'Entrare nella Cattedrale di Santiago è **gratis, tutti i giorni dalle 7:00 alle 21:00**, dalla Puerta de Platerías. Si pagano le visite a orario: il **Pórtico de la Gloria**, i **tetti** e il museo, che in estate vanno esauriti (tour guidati da 25 €). Dal 16 ottobre 2026 le **Messe del Pellegrino si celebrano nella chiesa di San Agustín** per lavori.'
 categoria: "santiago-de-compostela"
 slug: "cattedrale-di-santiago-come-visitarla"
 fecha: "2026-05-18"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
@@ -32,17 +31,6 @@ actividades:
   - catedral-santiago-museo-tour-guiado
   - catedral-museo-casco-antiguo-santiago
   - cubiertas-catedral-santiago-tour
-faq:
-- pregunta: È gratis entrare nella Cattedrale di Santiago?
-  respuesta: Sì. La chiesa, la tomba dell'Apostolo e l'abbraccio all'Apostolo (quando è possibile) sono gratuiti, tutti i giorni dalle 7:00 alle 21:00, dalla Puerta de Platerías. Sono a pagamento il Pórtico de la Gloria, le coperture e il museo.
-- pregunta: Quando vola il botafumeiro?
-  respuesta: 'Nelle grandi solennità: 6 gennaio, Domenica di Pasqua, Ascensione, Pentecoste, Cristo Re, 23 maggio, 25 luglio, 15 agosto, 1° novembre e 8, 25 e 30 dicembre. Il resto dell''anno solo quando un gruppo di pellegrini lo richiede, senza preavviso.'
-- pregunta: Bisogna prenotare il Pórtico de la Gloria?
-  respuesta: 'Sì, soprattutto d''estate: si visita in piccoli gruppi, all''orario del biglietto e senza foto, e i posti finiscono con giorni d''anticipo. Prenota su visitas.catedraldesantiago.es, alle biglietterie della Praza do Obradoiro o con un tour che lo includa.'
-- pregunta: Dove si celebra ora la Messa del Pellegrino?
-  respuesta: Dal 16 ottobre 2026, e fino a nuovo avviso, le Messe del Pellegrino delle 9:30, 12:00 e 19:30 si celebrano nella vicina chiesa di San Agustín per lavori nella cappella maggiore. Solo la messa delle 7:30 resta in cattedrale.
-- pregunta: Si può entrare con lo zaino nella Cattedrale di Santiago?
-  respuesta: Gli zaini grandi non sono ammessi. C'è un deposito bagagli all'Ufficio del Pellegrino (Rúa das Carretas), a 3-4 € al giorno.
 opciones:
   - ficha: catedral-santiago-museo-tour-guiado
     etiqueta: La più economica
@@ -52,6 +40,8 @@ opciones:
     etiqueta: Con il centro storico
 ---
 
+**La Cattedrale di Santiago è la meta del Cammino e il cuore della città**, ma la sua visita confonde molte persone: si paga? Cos'è il botafumeiro? Si può salire sul tetto? La risposta breve è che **entrare nella chiesa è gratis**, ma ci sono esperienze a pagamento che valgono davvero la pena. Questa guida ti chiarisce cosa vedere, cosa prenotare e come organizzarti.
+
 ## Quale biglietto scegliere?
 
 | Attività | Valutazione | Da |
@@ -59,59 +49,69 @@ opciones:
 | [Tour della cattedrale e del museo senza code](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4,7★ (2.454) | 25 € |
 | [Tour della cattedrale, del museo e del centro storico](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4,8★ (439) | 24 € |
 
-## Cosa vedere nella Cattedrale di Santiago: gratis e a pagamento
-
-**Gratis:**
-
-- **La chiesa.** Entrare per pregare o visitarla non costa nulla.
-- **La tomba dell'Apostolo**, nella cripta sotto l'altare maggiore.
-- **L'abbraccio all'Apostolo** (quando è possibile), dietro l'altare.
-
-**A pagamento (e ne vale la pena):**
-
-| Visita | Cosa include |
-| --- | --- |
-| **Pórtico de la Gloria** | Il capolavoro restaurato del Maestro Mateo (biglietto con orario) |
-| **Coperture** | Visita guidata sul tetto di granito, con vista |
-| **Museo della Cattedrale** | Chiostro, Tesoro, cappella delle Reliquie e Pazo de Xelmírez |
-
-[actividad: catedral-museo-casco-antiguo-santiago]
-
-## Prezzi, orari e prenotazioni: Pórtico de la Gloria e coperture
-
-- **La chiesa** apre tutti i giorni dalle **7:00 alle 21:00** (ingresso dalla Puerta de Platerías), gratis; d'estate il sabato chiude alle 20:30 per la veglia dei pellegrini. L'abbraccio all'Apostolo e la cripta hanno **15-40 minuti** di coda in alta stagione.
-- **Pórtico de la Gloria:** visita a pagamento in piccoli gruppi, all'orario indicato sul biglietto e **senza foto**. D'estate i posti finiscono con giorni d'anticipo: prenota su visitas.catedraldesantiago.es o alle biglietterie della Praza do Obradoiro, oppure scegli un tour che lo includa.
-- **Coperture:** visita guidata a pagamento sul tetto. Viene sospesa con pioggia o vento forte, frequenti a Santiago: prenota un giorno con margine per ripeterla.
-- **Museo:** aperto tutti i giorni dalle **10:00 alle 20:00**. I prezzi ufficiali cambiano: controllali sul sito della cattedrale.
-
-Se vuoi assicurarti il Pórtico senza lottare per i posti, ci sono tour guidati che lo includono insieme al centro storico.
+La chiave: separa ciò che è gratuito (la chiesa, la tomba dell'Apostolo) dalle visite speciali (Pórtico de la Gloria, tetti, museo), che richiedono un biglietto e, a volte, la prenotazione.
 
 [actividad: santiago-portico-gloria-catedral-tour]
 
-## Il botafumeiro: quando vola
+## Cosa è gratis
 
-Il **botafumeiro** è il gigantesco incensiere (oltre 50 kg) che otto *tiraboleiros* fanno volare nel transetto a 65 km/h. **Non vola tutti i giorni.** Secondo la cattedrale, vola nelle grandi solennità:
+- **La chiesa.** Entrare in cattedrale per pregare o per vederla è **gratuito**.
+- **La tomba dell'Apostolo.** La cripta con i resti di San Giacomo, sotto l'altare maggiore.
+- **L'abbraccio all'Apostolo** (quando è consentito), dietro l'altare.
+- **La Messa del Pellegrino**, ogni giorno (vedi sotto).
 
-- **6 gennaio** (Epifania), **Domenica di Pasqua**, **Ascensione**, **Pentecoste** e **Cristo Re**.
-- **23 maggio** (Clavijo), **25 luglio** (San Giacomo), **15 agosto** (Assunzione) e **1° novembre** (Ognissanti).
-- **8, 25 e 30 dicembre** (Traslazione dell'Apostolo).
+## Cosa è a pagamento (e vale la pena)
 
-Il resto dell'anno vola solo quando un gruppo di pellegrini lo richiede, e non viene annunciato in anticipo: da qui tante delusioni. Il calendario ufficiale è sul sito della cattedrale; se la tua data coincide, arriva un'ora prima.
+| Visita | Cosa include |
+| --- | --- |
+| Pórtico de la Gloria | Il capolavoro del Maestro Mateo, restaurato (ingresso a orario) |
+| Tetti | Visita guidata sul tetto di granito, con vista |
+| Museo della Cattedrale | Chiostro, Tesoro, cripta e Pazo de Xelmírez |
 
-## La Messa del Pellegrino (ora a San Agustín)
+> **⭐ Consiglio:** il **Pórtico de la Gloria** e i **tetti** si visitano con **biglietto e orario**, e in alta stagione vanno esauriti. Prenotali online in anticipo; sono le due esperienze che ripagano di più oltre alla chiesa.
 
-È la messa con cui culmina il Cammino, tutti i giorni alle **12:00** e alle **19:30**. Per sederti, arriva **45 minuti prima**; i pellegrini con la Compostela appena ritirata hanno una zona riservata. In quella delle 12:00 si legge ad alta voce da dove sono partiti i pellegrini arrivati quel giorno. Durante la messa non si fanno visite turistiche.
+## Prezzi, orari e il botafumeiro
 
-**Avviso:** dal **16 ottobre 2026**, e fino a nuovo avviso, le Messe del Pellegrino (9:30, 12:00 e 19:30) si celebrano nella vicina **chiesa di San Agustín**, per lavori nella cappella maggiore della cattedrale. Solo la messa delle 7:30 resta in cattedrale. Le visite non subiscono modifiche. L'avviso non chiarisce se il botafumeiro volerà durante i lavori: verificalo sul sito della cattedrale prima di organizzarti.
+- **La chiesa** è aperta tutti i giorni dalle 7:00 alle 21:00 (accesso dalla Puerta de Platerías), gratis; in estate il sabato chiude alle 20:30 per la veglia dei pellegrini. L'abbraccio all'Apostolo e la cripta hanno una coda di 15-40 minuti in alta stagione.
+- **Pórtico de la Gloria:** visita a pagamento in piccoli gruppi, all'orario indicato sul biglietto e senza foto. In estate i posti si esauriscono con giorni di anticipo: prenotalo su visitas.catedraldesantiago.es o alle biglietterie della Praza do Obradoiro prima di arrivare, oppure scegli un tour che lo includa.
+- **Tetti:** visita guidata a pagamento sul tetto di granito. Si sospende in caso di pioggia o vento forte, frequenti a Santiago; prenota un giorno che ti lasci margine per riprovare.
+- **Museo:** chiostro, tesoro, cappella delle Reliquie e Pazo de Xelmírez; aperto tutti i giorni dalle 10:00 alle 20:00. I prezzi ufficiali cambiano: consultali sul sito della cattedrale.
+- **Deposito zaini:** all'Ufficio del Pellegrino (Rúa das Carretas), 3-4 € al giorno.
 
-## Consigli ed errori tipici
+## Il botafumeiro
 
-1. **Prenota Pórtico e coperture in alta stagione:** si esauriscono.
-2. **Non confondere la chiesa gratuita con le visite a pagamento:** sono cose diverse.
-3. **Non dare per scontato di vedere il botafumeiro:** controlla il calendario.
-4. **Non arrivare alla messa all'ultimo:** sarà piena; vai prima e controlla dove si celebra.
-5. **Lascia lo zaino grande al deposito:** altrimenti non ti fanno entrare. All'Ufficio del Pellegrino (Rúa das Carretas) costa 3-4 € al giorno.
-6. **Vestiti in modo rispettoso:** è una chiesa in uso.
-7. La **Porta Santa** (Quintana) si apre solo nell'**Anno Santo**.
+Il **botafumeiro** è il gigantesco incensiere (oltre 50 kg) che otto *tiraboleiros* fanno volare lungo il transetto a 65 km/h. **Non vola tutti i giorni.** Secondo la cattedrale, vola nelle grandi solennità: 6 gennaio (Epifania), Domenica di Pasqua, Ascensione, Pentecoste e Cristo Re; 23 maggio (Clavijo), 25 luglio (San Giacomo Apostolo), 15 agosto (Assunzione) e 1° novembre (Ognissanti); 8, 25 e 30 dicembre (Traslazione dell'Apostolo). Nel resto dell'anno vola solo quando un gruppo di pellegrini lo richiede, e non viene annunciato in anticipo: ecco perché tanta gente resta delusa. Il calendario ufficiale è sul sito della cattedrale; se la tua data coincide, arriva un'ora prima.
 
-Abbina la cattedrale al resto del centro storico con [Santiago di Compostela in un giorno](/it/guides/santiago-de-compostela/santiago-di-compostela-in-un-giorno).
+## La Messa del Pellegrino
+
+È la messa con cui culmina il Cammino, tutti i giorni alle **12:00** e alle **19:30**. Riempie la cattedrale: per sederti, arriva 45 minuti prima; i pellegrini con la Compostela appena timbrata hanno una zona riservata. Durante la messa non si possono fare visite turistiche, e quella delle 12:00 è quella in cui si leggono ad alta voce i luoghi di partenza dei pellegrini arrivati quel giorno.
+
+> **Attenzione:** da **venerdì 16 ottobre 2026**, e fino a nuovo avviso, le Messe del Pellegrino (9:30, 12:00 e 19:30) si celebrano nella vicina **chiesa di San Agustín**, per lavori nella cappella maggiore della cattedrale. Solo la messa delle 7:30 resta in cattedrale. Le visite non subiscono modifiche. L'avviso non chiarisce se il botafumeiro volerà durante i lavori: verificalo sul sito della cattedrale prima di organizzarti in funzione di esso.
+
+## Consigli pratici
+
+- **Vestiti in modo rispettoso:** è una chiesa in funzione.
+- **Non sono ammessi zaini grandi** all'interno; c'è un deposito per pellegrini nelle vicinanze.
+- Abbina la cattedrale al resto del centro storico con [Santiago in un giorno](/it/guides/santiago-de-compostela/santiago-di-compostela-in-un-giorno).
+- La **Porta Santa** (Quintana) si apre solo nell'**Anno Santo**.
+
+## Cosa NON consigliamo
+
+1. **Dare per scontato che vedrai il botafumeiro.** Vola solo in certe messe e date; verificalo.
+2. **Arrivare alla messa alle 12:00 in punto.** Sarà piena; vai prima e controlla dove si celebra.
+3. **Saltare il Pórtico de la Gloria perché non hai prenotato.** È il gioiello della cattedrale.
+4. **Presentarti con uno zaino enorme.** Non ti faranno entrare; usa il deposito.
+
+[actividad: catedral-museo-casco-antiguo-santiago]
+
+## Errori tipici
+
+> **⚠️ Attenzione:** le sviste che vediamo più spesso.
+
+1. **Non prenotare Pórtico e tetti** in alta stagione: vanno esauriti.
+2. **Confondere la chiesa gratuita con le visite a pagamento.** Sono cose diverse.
+3. **Non controllare il calendario del botafumeiro.** È la delusione più comune.
+
+## In una frase
+
+La Cattedrale di Santiago si visita gratis nella chiesa e nella tomba dell'Apostolo, e a pagamento nei suoi gioielli (il Pórtico de la Gloria e i tetti, che conviene prenotare), con il botafumeiro come momento magico se ti capita. È il cuore di [Santiago in un giorno](/it/guides/santiago-de-compostela/santiago-di-compostela-in-un-giorno).

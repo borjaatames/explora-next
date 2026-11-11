@@ -1,12 +1,11 @@
 ---
 titulo: "Playas de Cádiz y la Costa de la Luz: las mejores y cómo elegir"
 descripcion: "Las mejores playas de Cádiz y la Costa de la Luz: La Caleta, La Victoria, Bolonia, Zahara, Caños de Meca y Tarifa. Cuáles elegir, el viento de levante y consejos."
-intro: 'Las **playas de Cádiz** y de la Costa de la Luz están entre las mejores de España: arenales atlánticos anchos y dorados, agua limpia y, en muchos casos, kilómetros sin construir. En la capital, La Caleta y La Victoria; en la provincia, la duna de **Bolonia** junto a las ruinas romanas, Zahara, Los Caños de Meca, El Palmar y Tarifa. El **levante** decide cuál toca cada día.'
-respuestaCorta: 'Las mejores **playas de Cádiz** son **La Caleta** y La Victoria en la ciudad y, en la Costa de la Luz, **Bolonia** (duna y ruinas romanas), Zahara de los Atunes, Los Caños de Meca, El Palmar y Tarifa. Elige según el viento: con **poniente**, cualquier playa abierta; con **levante** fuerte, una cala protegida o el casco antiguo.'
+respuestaCorta: 'Las mejores playas de Cádiz son **La Caleta** y La Victoria en la ciudad y, en la Costa de la Luz, **Bolonia** (duna y ruinas romanas), Zahara de los Atunes, Los Caños de Meca, El Palmar y Tarifa. Elige según el viento: con **poniente** vale cualquier playa abierta; con **levante** fuerte, una cala protegida. El catamarán al atardecer desde Cádiz sale desde 24,50 €.'
 categoria: "cadiz"
 slug: "playas-cadiz-costa-de-la-luz"
 fecha: "2026-05-07"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
@@ -32,20 +31,9 @@ actividades:
   - avistamiento-delfines-trafalgar-barbate
   - catamaran-bahia-de-cadiz
   - tarifa-baelo-claudia-zahara-excursion
-faq:
-- pregunta: ¿Cuál es la mejor playa de Cádiz capital?
-  respuesta: La Caleta es la más fotogénica, una cala pequeña entre castillos con atardecer de postal. La Victoria es la gran playa urbana, larga y con todos los servicios, para un día de sol.
-- pregunta: ¿Cómo se llega a las playas de la Costa de la Luz desde Cádiz?
-  respuesta: 'No hay transporte público práctico: coche o excursión. Bolonia y Zahara están a 1 h 15; Los Caños y El Palmar, a 1 hora; La Barrosa, a 30 minutos; Tarifa, a 1 h 30.'
-- pregunta: ¿Qué es el levante y cómo afecta a la playa?
-  respuesta: 'Es el viento de tierra de la zona. Si sopla fuerte, hace imposible una playa abierta como Bolonia o Los Lances en cualquier estación: vete a una cala protegida o cambia el plan al casco antiguo. En Tarifa, en cambio, el viento es el atractivo para el kite y el windsurf.'
-- pregunta: ¿Está fría el agua en Cádiz?
-  respuesta: 'Es Atlántico: 18-20 °C en junio y 21-23 °C en agosto y septiembre. Octubre es el mes secreto, con agua templada, playas vacías y poco levante.'
-- pregunta: ¿Hay que pagar para ver Baelo Claudia en Bolonia?
-  respuesta: La entrada es gratuita para ciudadanos de la UE. En verano las visitas van por franjas horarias, así que consulta los horarios en museosdeandalucia.es o en el 956 106 797 antes de organizar la mañana.
 ---
 
-La regla local: con **poniente**, playa perfecta; con **levante** fuerte, mejor casco antiguo o una cala protegida. Mira el parte antes de elegir.
+**La Costa de la Luz tiene algunas de las mejores playas de España:** arenales atlánticos anchos y dorados, agua limpia y, en muchos casos, kilómetros sin construir. Esta guía separa las playas urbanas de la capital de las grandes playas vírgenes de la provincia, y te ayuda a elegir según el día y, sobre todo, según el **viento de levante**, el factor que lo cambia todo en esta costa.
 
 ## Planes en el mar que puedes reservar
 
@@ -55,56 +43,65 @@ La regla local: con **poniente**, playa perfecta; con **levante** fuerte, mejor 
 | [Barbate: avistamiento de delfines y ballenas en el cabo Trafalgar](/ciudades/cadiz/actividades/avistamiento-delfines-trafalgar-barbate) | 4,1★ (792) | 50 € |
 | [Tour en catamarán por la bahía](/ciudades/cadiz/actividades/catamaran-bahia-de-cadiz) | 4,5★ (453) | 19 € |
 
+La regla local: con **poniente**, playa perfecta; con **levante** fuerte, mejor casco antiguo o una cala protegida. Mira el parte antes de elegir.
+
+[actividad: catamaran-cadiz-atardecer]
+
 ## Playas de la ciudad de Cádiz
 
 | Playa | Carácter |
 | --- | --- |
-| **La Caleta** | Cala pequeña entre castillos; atardecer de postal |
-| **La Victoria** | Larga playa urbana con todos los servicios |
-| **Santa María del Mar** | Pequeña, junto al casco antiguo |
-| **Cortadura** | Ancha y semisalvaje, hacia las salinas |
+| La Caleta | Cala pequeña entre castillos; atardecer de postal |
+| La Victoria | Larga playa urbana con todos los servicios |
+| Santa María del Mar | Pequeña, junto al casco antiguo |
+| Cortadura | Ancha y semisalvaje, hacia las salinas |
 
-**La Caleta** es la más fotogénica (la «Habana» de James Bond), perfecta al atardecer. **La Victoria** es la gran playa urbana para un día de sol con servicios. Se llega andando o en los autobuses **1 y 7**; a Cortadura, en el **1**.
+**La Caleta** es la más fotogénica (la "Habana" de James Bond), perfecta al atardecer. **La Victoria** es la gran playa urbana para un día de sol con servicios.
 
-[actividad: catamaran-cadiz-atardecer]
+## Las grandes playas de la provincia
 
-## Las grandes playas de la Costa de la Luz
+- **Bolonia (Tarifa).** Arena dorada, una **duna gigante** y, al lado, las ruinas romanas de **Baelo Claudia**. De las más espectaculares.
+- **Zahara de los Atunes.** Kilómetros de arena y un pueblo marinero con buen ambiente y atún de almadraba.
+- **Los Caños de Meca.** Bohemia y resguardada bajo el faro de **Trafalgar**, con calas y pinar.
+- **El Palmar.** La playa del **surf**, ancha y de atardeceres famosos.
+- **La Barrosa (Chiclana).** Larguísima y familiar, con servicios.
+- **Tarifa (Los Lances, Valdevaqueros).** El paraíso del **viento**: kite y windsurf, con África al fondo.
 
-- **Playa de Bolonia (Tarifa).** Arena dorada, una **duna gigante** y, al lado, las ruinas romanas de **Baelo Claudia**. De las más espectaculares. A 1 h 15 de Cádiz.
-- **Zahara de los Atunes.** Kilómetros de arena y un pueblo marinero con buen ambiente y atún de almadraba. A 1 h 15.
-- **Los Caños de Meca.** Bohemia y resguardada bajo el faro de **Trafalgar**, con calas y pinar. A 1 hora.
-- **El Palmar.** La playa del **surf**, ancha y de atardeceres famosos. A 1 hora.
-- **La Barrosa (Chiclana).** Larguísima y familiar, con servicios. A 30 minutos.
-- **Playas de Tarifa (Los Lances, Valdevaqueros).** El paraíso del **viento**: kite y windsurf, con África al fondo. A 1 h 30.
+## Lo práctico: cómo llegar, mareas y servicios
 
-Frente a Trafalgar y Barbate salen también barcos de avistamiento de delfines y ballenas:
+- **Desde Cádiz capital:** La Caleta, La Victoria y Santa María del Mar se hacen andando o en los autobuses 1 y 7; Cortadura, en el 1. A las playas de la provincia no hay transporte público práctico: coche o excursión. Bolonia y Zahara están a 1 h 15; Los Caños y El Palmar, a 1 hora; La Barrosa, a 30 minutos; Tarifa, a 1 h 30.
+- **Aparcar en las playas vírgenes:** en Bolonia, Los Caños y El Palmar las plazas cerca de la arena son pocas y en agosto se llenan a media mañana. Nunca en el arcén: multan.
+- **Mareas:** el Atlántico tiene 2-3 metros de diferencia entre pleamar y bajamar. Con marea baja, La Caleta y Bolonia doblan de tamaño y aparecen las piscinas naturales; con marea alta, en Los Caños no queda arena en algunas calas. Mira la tabla de mareas del día antes de salir.
+- **Agua:** 18-20 °C en junio, 21-23 °C en agosto y septiembre. Octubre es el mes secreto: agua templada, playas vacías y poco levante.
+- **Baelo Claudia (Bolonia):** la ciudad romana está en la misma playa. Entrada gratuita para ciudadanos de la UE; en verano las visitas van por franjas horarias, así que consulta los horarios en su página de museosdeandalucia.es (o en el 956 106 797) antes de organizar la mañana.
+- **Chiringuitos:** en Zahara, Los Caños y El Palmar los hay (atún de almadraba en Zahara, de mayo a junio); en Bolonia, pocos y sencillos; en Cortadura y las playas de Tarifa, ninguno en tramos largos. Lleva agua y sombra.
+- **Banderas:** el Atlántico tiene corrientes de resaca. Bandera amarilla es frecuente y no es decorativa; con niños, playas con socorrista (La Victoria, La Barrosa, Zahara).
+
+## El factor levante
+
+> **⚠️ Aviso:** el **levante** (viento de tierra) puede hacer imposible un día de playa abierta como Bolonia o Los Lances en cualquier estación. Si sopla fuerte, vete a una cala protegida o cambia el plan al casco antiguo. En Tarifa, en cambio, el viento es el atractivo (para deportes).
+
+## Cuándo ir
+
+De **mayo a octubre** para baño (el Atlántico está más fresco que el Mediterráneo). **Julio y agosto** llenan las playas urbanas y los pueblos; las vírgenes aguantan mejor. Ten en cuenta las **mareas**: en bajamar, playas como La Caleta o Bolonia ganan muchísima arena.
+
+## Lo que NO recomendamos
+
+1. **Ignorar el parte del viento.** Un día de levante arruina una playa abierta.
+2. **Ir a Bolonia sin ver Baelo Claudia.** La ciudad romana está al lado y es espectacular.
+3. **Esperar agua caliente.** Es Atlántico: refresca más que el Mediterráneo.
+4. **Olvidar las mareas.** Cambian mucho la playa según la hora.
 
 [actividad: avistamiento-delfines-trafalgar-barbate]
 
-## El levante y cuándo ir
+## Errores típicos
 
-El **levante** (viento de tierra) puede hacer imposible un día de playa abierta como Bolonia o Los Lances **en cualquier estación**. Si sopla fuerte, vete a una cala protegida o cambia el plan al casco antiguo. En Tarifa, en cambio, el viento es el atractivo para los deportes.
+> **⚠️ Aviso:** los fallos que más vemos.
 
-- **Temporada de baño:** de **mayo a octubre**. El Atlántico está más fresco que el Mediterráneo: **18-20 °C en junio** y **21-23 °C en agosto y septiembre**.
-- **Julio y agosto** llenan las playas urbanas y los pueblos; las vírgenes aguantan mejor.
-- **Octubre es el mes secreto:** agua templada, playas vacías y poco levante.
+1. **Confundir las playas urbanas con las vírgenes.** Son experiencias muy distintas.
+2. **No reservar en Zahara o Los Caños** en agosto: pueblos pequeños que se llenan.
+3. **Subestimar las distancias.** De Cádiz capital a Bolonia o Tarifa hay una hora larga.
 
-## Lo práctico: llegar, mareas y servicios
+## En una frase
 
-- **Transporte:** a las playas de la provincia no hay transporte público práctico: coche o excursión.
-- **Aparcar:** en Bolonia, Los Caños y El Palmar las plazas cerca de la arena son pocas y en agosto se llenan a media mañana. Nunca en el arcén: multan.
-- **Mareas:** el Atlántico tiene **2-3 metros** de diferencia entre pleamar y bajamar. Con marea baja, La Caleta y Bolonia doblan de tamaño y aparecen piscinas naturales; con marea alta, en algunas calas de Los Caños no queda arena. Mira la tabla del día.
-- **Baelo Claudia:** la ciudad romana está en la misma playa de Bolonia. **Gratis para ciudadanos de la UE**; en verano, visitas por franjas horarias (consulta museosdeandalucia.es o el 956 106 797).
-- **Chiringuitos:** en Zahara, Los Caños y El Palmar los hay (atún de almadraba en Zahara, de mayo a junio); en Bolonia, pocos y sencillos; en Cortadura y las playas de Tarifa, ninguno en tramos largos. Lleva agua y sombra.
-- **Banderas:** el Atlántico tiene corrientes de resaca y la bandera amarilla es frecuente. Con niños, playas con socorrista (La Victoria, La Barrosa, Zahara).
-
-## Consejos y errores típicos
-
-1. **Ignorar el parte del viento.** Un día de levante arruina una playa abierta.
-2. **Ir a Bolonia sin ver Baelo Claudia.** Está al lado y es espectacular.
-3. **Olvidar las mareas.** Cambian mucho la playa según la hora.
-4. **Confundir las playas urbanas con las vírgenes.** Son experiencias muy distintas.
-5. **No reservar en Zahara o Los Caños en agosto:** pueblos pequeños que se llenan.
-6. **Subestimar las distancias.** De Cádiz capital a Bolonia o Tarifa hay una hora larga.
-
-Las playas complementan la ciudad que recorremos en [Cádiz en un día](/guias/cadiz/cadiz-en-un-dia).
+Las playas de Cádiz van de la urbana Caleta al atardecer a las vírgenes de Bolonia, Zahara o Los Caños, con el levante como factor a vigilar: la mejor costa atlántica de España. Complementan la ciudad que recorre [Cádiz en un día](/guias/cadiz/cadiz-en-un-dia).

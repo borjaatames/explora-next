@@ -24,21 +24,9 @@ slugs:
   fr: flamenco-madrid-quel-tablao-choisir
   it: flamenco-madrid-quale-tablao-scegliere
   pt: flamenco-madrid-que-tablao-escolher
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 reservasArriba: true
-intro: 'Finding the **best flamenco show in Madrid** is one of the great evening plans in the city: an hour of live singing, guitar and dance, a few metres from the stage. In the centre there are two tablaos we recommend: **Las Carboneras**, intimate, in the basement of a palace in Habsburg Madrid, and **Torres Bermejas**, open since 1960 by the Gran Vía, with Alhambra-inspired decor and the option of dinner.'
-respuestaCorta: 'For the best flamenco show in Madrid, choose **Las Carboneras** (from €45, with a drink, 4.7/5) for an intimate tablao in Habsburg Madrid, or **Torres Bermejas** (from €31, by Gran Vía) to pay less, get more show times and eat there. Both are **one-hour shows** with free cancellation up to 24 hours before.'
-faq:
-- pregunta: What is the best flamenco show in Madrid?
-  respuesta: 'Of the two we recommend: Las Carboneras (from €45, 4.7/5 from 758 reviews) if you want a small, intimate tablao with a fixed cast, and Torres Bermejas (from €31, 4.5/5 from over 10,000 reviews) if you want to pay less, go earlier or have dinner in the same place.'
-- pregunta: How long is a flamenco show in Madrid?
-  respuesta: 'At both tablaos, one hour without a break, with a cast of 5 to 7 artists: singing, guitar, percussion and two or three dancers. If you''ve booked dinner, it''s served before the show, not during it.'
-- pregunta: Which tablao is wheelchair accessible?
-  respuesta: Las Carboneras. It's one of the few tablaos in the centre with adapted access. Torres Bermejas doesn't state accessibility and has stairs to some areas.
-- pregunta: Are seats allocated?
-  respuesta: 'No. Tables aren''t assigned when you book but by order of arrival. Arrive 20-30 minutes early (an hour if you''ve booked dinner) and ask for a central table: the sides and back row have worse views.'
-- pregunta: Can you take children to a flamenco show?
-  respuesta: Las Carboneras works from about 7-8 years old; for Torres Bermejas, reviewers suggest 12 and up.
+respuestaCorta: 'Both are **one-hour shows** with a full cast. **Torres Bermejas** (from €31), by Gran Vía, is bigger and lets you add tapas or a 3-course dinner. **Las Carboneras** (from €45), in a palace basement near Plaza Mayor, is more intimate and the one marked **wheelchair accessible**. Tables go by arrival order, so **arrive 20 minutes early**.'
 opciones:
   - ficha: flamenco-tablao-las-carboneras
     etiqueta: Most intimate
@@ -49,6 +37,8 @@ actividades:
   - flamenco-torres-bermejas-cena
 ---
 
+Madrid has two flamenco tablaos with their own listing: Las Carboneras and Torres Bermejas. Both are one-hour shows with a full cast of performers, but the atmosphere and options differ quite a bit between them.
+
 ## Las Carboneras vs. Torres Bermejas
 
 | Tablao | Price from | Atmosphere | Options | Best for |
@@ -56,50 +46,42 @@ actividades:
 | [Las Carboneras](/en/cities/madrid/activities/flamenco-tablao-las-carboneras) | €45 | Basement of a 17th-century historic palace, intimate cabaret-style setting | Show + drink; show + dinner as a separate ticket | Anyone wanting a boutique tablao with a fixed cast of well-known performers |
 | [Torres Bermejas](/en/cities/madrid/activities/flamenco-torres-bermejas-dining-options) | €31 | Alhambra-inspired decor, larger format | Drink, tapas, or a full 3-course dinner depending on the ticket | Anyone wanting more price flexibility and an optional full dinner |
 
-## How to choose a flamenco tablao in Madrid in 30 seconds
+## How to choose in 30 seconds
 
-- **Tight budget or want dinner in the same place:** Torres Bermejas, with tickets from €31 and the option of a three-course Spanish menu.
-- **Looking for something intimate with more historical character:** Las Carboneras, in the basement of the former Palace of the Count of Miranda, in the heart of Habsburg Madrid.
-- **Using a wheelchair:** Las Carboneras. It's one of the few tablaos in the centre with adapted access; Torres Bermejas doesn't state accessibility and has stairs to some areas.
-- **Want to go early or mid-afternoon:** Torres Bermejas, with shows from 17:00 (and at 15:00 Friday to Sunday). Las Carboneras doesn't start until 20:00.
-- **Travelling with children aged 7 to 11:** Las Carboneras works from about 7-8; for Torres Bermejas, reviewers suggest 12 and up.
+- **Tight budget or want a real dinner:** Torres Bermejas, with a full Spanish menu option and the lower entry price (€31).
+- **Looking for something intimate with more historical character:** Las Carboneras, in the basement of the old Palace of the Count of Miranda, in the heart of Madrid de los Austrias.
+- **Using a wheelchair:** Las Carboneras. Its access is marked as wheelchair accessible; Torres Bermejas doesn't state it and has stairs to some areas, so contact the tablao first if you're set on it.
+- **Travelling with children:** Las Carboneras works from about 7-8 years old; for Torres Bermejas, reviewers suggest 12 and up.
+
+## How the two compare
+
+**Las Carboneras** is the smaller, more intimate room: little tables a few metres from the stage and a fixed cast of established artists, including José Maldonado and Candy Román. The show is improvised, so no two nights are the same. It's rated 4.7/5 from 758 reviews and is often flagged as likely to sell out. The ticket includes one drink (wine, beer or a soft drink); dinner is a separate ticket.
 
 [actividad: flamenco-tablao-las-carboneras]
 
-## Las Carboneras vs. Torres Bermejas: what each ticket includes
+**Torres Bermejas** has been open since 1960, with decor inspired by the Alhambra in Granada: carved wooden ceilings, tiles and arches. It's bigger and more geared to visitors, but the performers are professionals and the flamenco is the real thing. It's the most-reviewed tablao in Madrid (4.5/5 from over 10,000 reviews). The base ticket is the cheapest way in; you can upgrade to a drink, tapas or a 3-course Spanish menu. If you want to eat or drink, book the upgrade in advance — reviews say ordering on the spot doesn't always work well.
 
-| Tablao | Price from | Atmosphere | Options |
-|---|---|---|---|
-| Las Carboneras | €45 | Basement of a 17th-century palace, intimate cabaret-style setting | Show + drink; show + dinner separately |
-| Torres Bermejas | €31 | Alhambra-inspired decor, larger format | Show only, drink, tapas or 3-course dinner, depending on the ticket |
+Both offer free cancellation up to 24 hours before.
 
-- **Las Carboneras (from €45):** a one-hour show with a complimentary drink (wine, beer or soft drink). The dinner option adds a traditional Spanish menu served before the show. The cast is fixed, with artists such as **José Maldonado** and **Candy Román**, and the dance is improvised: every night is different. It was founded by the dancers Manuela Vega, Tacha and Ana Romero. Rated **4.7/5 from 758 reviews**.
-- **Torres Bermejas (from €31):** the basic ticket is show only, no drink. Above that there are options with a drink, with tapas or with a three-course menu and drink. It opened in **1960** and its room imitates the Torres Bermejas of the Alhambra, with carved wooden ceilings and tiles. Rated **4.5/5 from over 10,000 reviews**. If you want to eat or drink, book it with the ticket: several reviews say ordering on the spot doesn't always work well.
+## What you'll see
 
-Both have **free cancellation up to 24 hours before**.
+A flamenco group of five to seven artists — singing, guitar, percussion and two or three dancers — for **one hour, without a break**. There's no plot or narration: it's a sequence of different flamenco styles (palos), from the slower soleá to the fast bulerías at the end. If you know nothing about flamenco, ten minutes of reading beforehand helps a lot.
 
-## Show times and getting there
+## Before you book
 
-| Tablao | Shows (2026) | Where | Metro |
-|---|---|---|---|
-| Las Carboneras | Show only: 20:00 and 22:00. Dinner and show: 19:15 and 21:30 | Plaza del Conde de Miranda 1, 3 minutes from Plaza Mayor | Ópera or Sol |
-| Torres Bermejas | 17:00, 19:00 and 21:00 daily; 15:00 Friday to Sunday; 22:45 daily from April | Calle Mesonero Romanos 11, 3 minutes from Gran Vía | Gran Vía or Callao |
+- **Show times:** both run several shows a night, the first in the early evening and the last from around 22:00. The 20:00-21:00 show is the most in demand; the late one often has more seats and a livelier atmosphere.
+- **Locations:** Las Carboneras is at Plaza del Conde de Miranda, 1, a few minutes from Plaza Mayor (metro Ópera or Sol). Torres Bermejas is at Calle Mesonero Romanos, 11, three minutes from Gran Vía (metro Gran Vía or Callao). Both entrances are discreet — look for the sign.
+- **Dinner or not:** dinner is served before the show, not during it. It's traditional Spanish food, well reviewed at Torres Bermejas, but not the reason to go. If eating well matters more to you, book the show with a drink and have dinner at a bar in La Latina or Los Austrias.
 
-Check the exact times for your date when booking. Both are within walking distance of any central hotel. Both doors are discreet and easily mistaken for a doorway: look for the sign.
+## On the night
 
-## What you'll see and tips before booking
-
-- **The show:** a flamenco group of **5 to 7 artists** (singing, guitar, percussion and two or three dancers) for **one hour**, without a break. There's no plot or narration: it's a sequence of different styles (palos), from the soleá to the bulerías at the end. If you know nothing about flamenco, ten minutes of reading beforehand helps a lot.
-- **Arrive 20-30 minutes early** (an hour if you've booked dinner): tables go by order of arrival. At Torres Bermejas the room opens 30 minutes before each show. At both, the sides and back row have worse views; ask for a central table when you arrive.
-- **Photos and video:** not allowed during the performance; a few seconds are usually allowed at the end.
-- **ID:** bring your passport or ID card; it may be requested at the door.
+- **Arrive early.** Tables aren't assigned when you book; they go by arrival order. Come 20 minutes early for the show alone, or an hour early if you've booked dinner.
+- **Avoid the sides.** At both venues, the most common complaint is about side and back seats with obstructed views. At Torres Bermejas, ask for a central table when you arrive.
+- **Photos and video** aren't allowed during the performance; artists sometimes allow a few seconds at the end.
 - **What to wear:** there's no dress code. People dress as they would for dinner out.
+- **Bring ID:** it may be requested at the door.
 - **Tips** for the artists aren't included in any ticket.
 
-## Flamenco dinner show in Madrid: is it worth it?
+## A note on other options you'll see advertised
 
-Dinner is served **before the show**, not during it, and it's fine but not the reason to go. If you want to eat well, have tapas in La Latina or Los Austrias and buy the show ticket only. If you'd rather not move, Torres Bermejas offers the most food options with the ticket.
-
-## Other tablaos you'll see advertised
-
-You'll see other names (Tablao La Carmela, Essential Flamenco) on third-party booking sites. We don't list them because, after reviewing value for money and the operator, we prioritised these two: Las Carboneras and Torres Bermejas are, today, the two we recommend without reservations.
+You'll see other Madrid tablao names (Tablao La Carmela, Essential Flamenco) on third-party booking sites — we don't list them on ExploraSpain because, after reviewing value for money and the operator, we prioritized these two. Las Carboneras and Torres Bermejas are, today, the two we recommend without reservations.

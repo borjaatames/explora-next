@@ -5,14 +5,14 @@ metaTitle: 'Prado kostenlos: Gratiszeiten und Schlange'
 categoria: madrid
 slug: prado-museum-kostenlos
 fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: /images/guias/museo-del-prado-entradas-agotadas.jpg
 imagen_alt: Fassade des Prado-Museums am Paseo del Prado mit der Puerta de Velázquez und der Statue des Malers
-tiempo_lectura: 4
+tiempo_lectura: 5
 keywords:
   - 'prado kostenlos'
   - 'prado museum kostenlos'
@@ -28,23 +28,22 @@ slugs:
   it: museo-del-prado-gratis-orari
   pt: museu-do-prado-gratis
 reservasArriba: true
-intro: '**Prado kostenlos** geht jeden Tag, in den letzten zwei Stunden vor Schließung. Es lohnt sich, denn der Prado ist eine der großen Gemäldegalerien der Welt: die beste Sammlung von **Velázquez, Goya und El Greco**, dazu Bosch, Tizian und Rubens, am Paseo del Prado, 10-15 Minuten zu Fuß von Atocha. Ein vollständiger Besuch dauert zwei bis drei Stunden; in der Gratis-Zeit hast du anderthalb.'
-respuestaCorta: '**Prado kostenlos**: in den letzten zwei Stunden jedes Tages, Montag bis Samstag **18:00 bis 20:00** und sonn- und feiertags **17:00 bis 19:00**, nur die ständige Sammlung. **Keine Online-Reservierung**: Tickets gibt es an der Kasse, der Einlass endet eine halbe Stunde vorher. **Unter 18, Studierende von 18 bis 25 und Arbeitslose** haben immer freien Eintritt.'
+respuestaCorta: 'Der Prado ist **in den letzten zwei Stunden jedes Tages kostenlos**: Montag bis Samstag **18:00 bis 20:00 Uhr**, sonntags und feiertags **17:00 bis 19:00 Uhr**, nur die Dauerausstellung. Gratistickets kann man **nicht online reservieren**: Es gibt sie an der Kasse, solange die Kapazität reicht, und der Einlass endet eine halbe Stunde vorher. **Unter 18-Jährige, Studierende von 18 bis 25 und Arbeitslose** kommen jederzeit gratis rein.'
 actividades:
   - museo-prado-entrada
   - museo-prado-visita-guiada
   - art-walk-pass-prado-reina-sofia-thyssen
 faq:
 - pregunta: Wann ist der Prado kostenlos?
-  respuesta: 'In den letzten zwei Stunden vor Schließung: Montag bis Samstag von 18:00 bis 20:00 und sonn- und feiertags von 17:00 bis 19:00. Nur die ständige Sammlung; Sonderausstellungen kosten die Hälfte. Der Einlass endet eine halbe Stunde vorher, um 19:30 bzw. 18:30.'
+  respuesta: 'In den letzten zwei Stunden vor Schließung: Montag bis Samstag von 18:00 bis 20:00 Uhr, sonntags und feiertags von 17:00 bis 19:00 Uhr. Das gilt nur für die Dauerausstellung; Sonderausstellungen kosten in dieser Zeit die Hälfte. Der Einlass endet eine halbe Stunde vorher, um 19:30 bzw. 18:30 Uhr.'
 - pregunta: Muss man den kostenlosen Eintritt online reservieren?
-  respuesta: Nein. Die Gratis-Tickets werden an der Kasse neben der Puerta de Goya ausgegeben, solange Plätze frei sind. Auf der offiziellen Website gibt es nur kostenpflichtige Tickets mit Uhrzeit.
-- pregunta: Wann sollte man sich für die Gratis-Stunde anstellen?
-  respuesta: Mindestens 30 Minuten vorher, an Sonn- und Feiertagen und Brückentagen deutlich früher, wenn das Warten über eine Stunde dauern kann. Unter der Woche und außerhalb der Hochsaison ist die Schlange kürzer.
-- pregunta: Wer hat jederzeit freien Eintritt in den Prado?
-  respuesta: Unter 18-Jährige, Studierende von 18 bis 25, Arbeitslose, aktive Lehrkräfte, Menschen mit einer Behinderung ab 33 % und kinderreiche Familien laut Museumswebsite, unter anderem. Man muss einen Nachweis an der Kasse vorzeigen.
-- pregunta: An welchen Tagen ist der Prado ganztägig kostenlos?
-  respuesta: Meist am 18. Mai (Internationaler Museumstag), am 12. Oktober und am 19. November, dem Jahrestag des Museums. Das Museum bestätigt sie jedes Jahr auf seiner Website. Außerdem öffnet es am ersten Samstag jedes Monats mit El Prado de noche von 20:30 bis 23:30 gratis.
+  respuesta: 'Nein. Die Gratistickets gibt es an der Kasse an der Puerta de Goya, solange die Kapazität reicht. Auf der offiziellen Website werden nur kostenpflichtige Tickets mit Uhrzeit verkauft.'
+- pregunta: Wann sollte man sich für die Gratiszeit anstellen?
+  respuesta: 'Mindestens 30 Minuten vorher, an Sonn- und Feiertagen und an langen Wochenenden deutlich früher, dann kann die Wartezeit über eine Stunde betragen. Unter der Woche und außerhalb der Hochsaison ist die Schlange kürzer.'
+- pregunta: Wer kommt jederzeit kostenlos in den Prado?
+  respuesta: 'Unter 18-Jährige, Studierende von 18 bis 25 Jahren, Arbeitslose, aktive Lehrkräfte, Menschen mit einem Behinderungsgrad ab 33 % und kinderreiche Familien nach der Definition des Museums, unter anderem. Du brauchst einen gültigen Nachweis für die Kasse.'
+- pregunta: An welchen Tagen ist der Prado den ganzen Tag kostenlos?
+  respuesta: 'Meist am 18. Mai (Internationaler Museumstag), am 12. Oktober und am 19. November, dem Jahrestag des Museums. Das Museum bestätigt die Termine jedes Jahr auf seiner Website. Außerdem öffnet El Prado de noche am ersten Samstag jedes Monats von 20:30 bis 23:30 Uhr kostenlos.'
 opciones:
   - ficha: museo-prado-entrada
     etiqueta: Ohne Schlange, ab 18 €
@@ -52,66 +51,92 @@ opciones:
     etiqueta: Mit Guide
 ---
 
-## Wann der Prado kostenlos ist: Öffnungszeiten
+Den Prado kostenlos zu besuchen geht jeden Tag, in den letzten zwei Stunden vor Schließung, und das weiß halb Madrid. Die wichtige Frage ist deshalb nicht nur wann, sondern **wie lange du anstehst und was du in der Zeit schaffst**. Hier findest du die Gratiszeiten laut offizieller Website, wer immer gratis reinkommt und wie du die anderthalb Stunden drinnen am besten nutzt.
 
-| Tag | Gratis-Zeit | Letzter Einlass |
+## Gratiszeiten im Prado
+
+| Tag | Kostenlos | Letzter Einlass |
 | --- | --- | --- |
-| Montag bis Samstag | 18:00 bis 20:00 | 19:30 |
-| Sonn- und Feiertage | 17:00 bis 19:00 | 18:30 |
-| 6. Januar, 24. und 31. Dezember | Schließt um 14:00 | — |
+| Montag bis Samstag | 18:00 bis 20:00 Uhr | 19:30 Uhr |
+| Sonn- und Feiertage | 17:00 bis 19:00 Uhr | 18:30 Uhr |
+| 6. Januar, 24. und 31. Dezember | Schließt um 14:00 Uhr | — |
 | 1. Januar, 1. Mai und 25. Dezember | Geschlossen | — |
 
-- **Gratis ist nur die ständige Sammlung.** Sonderausstellungen kosten in diesen Stunden die Hälfte.
-- **Der Einlass endet eine halbe Stunde vorher**, und die Säle werden 10 Minuten vor Schließung geräumt. Wer um 18:15 hineinkommt, hat knapp anderthalb Stunden.
-- **Es gibt keinen Ruhetag.** Auch montags ist geöffnet, ein guter Tag für die Gratis-Zeit.
+Drei Dinge, die nicht in der Tabelle stehen:
 
-## Wer jederzeit gratis hineinkommt
+- **Nur die Dauerausstellung ist gratis.** Sonderausstellungen sind nicht dabei, kosten in dieser Zeit aber die Hälfte.
+- **Der Einlass endet eine halbe Stunde vor Schließung**, und die Säle werden 10 Minuten vor Schluss geräumt. Wenn du um 18:15 Uhr reinkommst, bleiben dir knapp anderthalb Stunden.
+- **Es gibt keinen wöchentlichen Ruhetag.** Auch montags ist geöffnet, und das ist ein guter Tag für die Gratiszeit.
 
-Wer zu einer dieser Gruppen gehört, braucht die Gratis-Zeit nicht. Laut Museumswebsite:
+## Wer jederzeit gratis reinkommt
+
+Wenn du zu einer dieser Gruppen gehörst, brauchst du die Gratiszeit nicht: Du kommst wann du willst kostenlos rein. Laut Website des Museums:
 
 - Unter 18-Jährige.
 - Studierende von 18 bis 25 Jahren.
 - Arbeitslose und aktive Lehrkräfte.
-- Menschen mit einer Behinderung ab 33 %.
-- Kinderreiche Familien nach den Regeln des Museums (ein Erwachsener mit drei Kindern oder mit zwei, wenn eines eine Behinderung hat).
-- Offizielle Fremdenführer, Journalisten und einige Berufsgruppen.
+- Menschen mit einem Behinderungsgrad ab 33 %.
+- Kinderreiche Familien nach der Definition des Museums (ein Erwachsener mit drei Kindern, oder zwei, wenn eines eine Behinderung hat).
+- Offizielle Fremdenführer, Journalisten und einige Berufsverbände.
 
-Du musst **an der Kasse einen gültigen Nachweis vorzeigen**. Über 65-Jährige, Inhaber der Jugendkarte und übrige Mitglieder kinderreicher Familien zahlen den ermäßigten Preis, **7,50 €**.
+Du musst **an der Kasse einen gültigen Nachweis** vorzeigen, am Tag des Besuchs. Ab 65 Jahren, mit Jugendkarte und als übriges Mitglied einer kinderreichen Familie zahlst du den ermäßigten Preis, **7,50 €**.
 
-## Ganztägig kostenlose Tage und El Prado de noche
+## Gratistage und El Prado de noche
 
-An manchen Tagen ist der Prado den ganzen Tag gratis. Üblich sind der **18. Mai** (Internationaler Museumstag), der **12. Oktober** und der **19. November**, der Jahrestag des Museums. Das Museum bestätigt sie jedes Jahr auf seiner Website. An diesen Tagen ist die Schlange am längsten.
+An einigen Tagen verlangt der Prado den ganzen Tag keinen Eintritt. Üblich sind der **18. Mai** (Internationaler Museumstag), der **12. Oktober** und der **19. November**, der Jahrestag des Museums; dieses Jahr fällt er auf einen Donnerstag. Das Museum bestätigt die Termine jedes Jahr auf seiner Website, also prüf das, bevor du deine Reise danach planst. An diesen Tagen sind die Schlangen am längsten.
 
-**El Prado de noche:** Am **ersten Samstag jedes Monats** öffnen von **20:30 bis 23:30** die Säle des Jerónimos-Gebäudes kostenlos, mit Einlass durch die **Puerta de los Jerónimos**, letzter Einlass 23:00. Wer zuerst kommt, kommt zuerst hinein, solange Plätze frei sind.
+Weniger bekannt ist **El Prado de noche**: Am **ersten Samstag jedes Monats** öffnet das Jerónimos-Gebäude von **20:30 bis 23:30 Uhr** kostenlos, mit Einlass durch die **Puerta de los Jerónimos** und letztem Einlass um 23:00 Uhr. Tickets gibt es nicht: Wer zuerst kommt, kommt zuerst rein, bis die Kapazität erreicht ist. Der nächste Termin ist **Samstag, der 7. November**.
 
-## Die Schlange beim kostenlosen Prado: wann ankommen
+## Die echte Schlange: wann du da sein solltest
 
-Der freie Eintritt **lässt sich nicht online reservieren**: Die offizielle Seite entradas.museodelprado.es verkauft nur kostenpflichtige Tickets mit Uhrzeit. Gratis-Tickets gibt es **an der Kasse, solange Plätze frei sind**. Misstraue Websites, die gegen Gebühr anbieten, „die Gratis-Stunde zu reservieren“.
+Die Schlange für die Gratiszeit bildet sich an der **Puerta de Goya** an der Nordseite des Gebäudes, wo die Kassen sind. Sie beginnt lange vor 18:00 Uhr, und an Sonn- und Feiertagen sowie langen Wochenenden kann die Wartezeit **über eine Stunde** betragen.
 
-Die Schlange bildet sich an der **Puerta de Goya** an der Nordseite des Gebäudes, lange vor der Gratis-Zeit. Sonn- und feiertags und an Brückentagen kann das Warten **über eine Stunde** dauern.
+- **Unter der Woche:** Sei mindestens **30 Minuten vorher** da. Montag bis Donnerstag, außerhalb von Brückentagen, ist meist die beste Wahl.
+- **Sonn- und Feiertage:** Rechne mit mehr Wartezeit und weniger Museum, weil schon um 19:00 Uhr Schluss ist.
+- **Komm nicht Punkt 18:00 Uhr.** Bis du an der Kasse bist, ist ein guter Teil der Zeit weg.
 
-- **Unter der Woche:** mindestens **30 Minuten vorher** da sein. Montag bis Donnerstag, außerhalb von Brückentagen, ist meist am besten.
-- **Sonn- und Feiertage:** mehr Warten und weniger Museum, da um 19:00 geschlossen wird.
-- **Nicht um 18:00 auf die Minute kommen:** Bis du an der Kasse bist, ist ein guter Teil der Zeit weg.
+## Was du in zwei Gratisstunden sehen kannst
+
+Praktisch hast du eine Stunde und fünfzehn Minuten bis anderthalb Stunden. Wer alles sehen will, sieht nichts. Diese kurze Route deckt das Wichtigste ab:
+
+1. **Velázquez** (Ebene 1): *Las Meninas*, *Die Spinnerinnen* und die Hofporträts. Fang hier an: Dieser Saal füllt sich am schnellsten.
+2. **Goya** (Ebene 1): *Die Familie Karls IV.* und die beiden *Majas*.
+3. **Goya auf Ebene 0:** *Der 2. Mai*, *Der 3. Mai* und die **Schwarzen Gemälde**, darunter *Saturn*.
+4. **Hieronymus Bosch** (Ebene 0): *Der Garten der Lüste*. Nimm dir zehn Minuten; das Bild muss man aus der Nähe ansehen.
+5. **Wenn Zeit bleibt:** die *Kreuzabnahme* von Rogier van der Weyden oder El Grecos *Edelmann mit der Hand auf der Brust*.
+
+Nimm am Eingang den kostenlosen Plan mit und markiere die Werke, bevor du losgehst.
+
+## Muss man den Gratiseintritt online reservieren?
+
+**Nein.** Die offizielle Website `entradas.museodelprado.es` verkauft kostenpflichtige Tickets mit Uhrzeit. Die Tickets für die Gratiszeit gibt es **an der Kasse, solange die Kapazität reicht**, du kannst sie also nicht vorab sichern. Sei misstrauisch bei Websites, die dir anbieten, „die Gratiszeit im Prado zu reservieren“, und dafür Gebühren verlangen.
+
+## Typische Fehler
+
+1. **Glauben, dass die Sonderausstellung inklusive ist.** Gratis ist nur die Dauerausstellung; die Sonderausstellung kostet die Hälfte.
+2. **Am Nachmittag des 24. oder 31. Dezember oder des 6. Januar kommen.** An diesen Tagen schließt das Museum um 14:00 Uhr.
+3. **Ausweis, Studierendenausweis oder Bescheinigung vergessen**, wenn du als Teil einer Gruppe gratis reinwillst.
+4. **Die Gratiszeit für deinen einzigen Prado-Besuch nutzen.** Wenn es dein erstes und vielleicht letztes Mal ist, sind anderthalb Stunden in vollen Sälen zu wenig.
+
+## Die Alternative: 15 € und keine Schlange
+
+Das reguläre Ticket kostet **15 €** auf der offiziellen Website und an der Kasse, und drinnen gibt es kein Zeitlimit. Um 10:00 Uhr, wenn das Museum halb leer ist, siehst du in drei Stunden, was in der Gratiszeit nie klappt. Wenn die offizielle Website deine Uhrzeit nicht mehr hat, gibt es das [Ticket für das Prado-Museum](/en/cities/madrid/activities/prado-museum-entry-ticket) über einen Wiederverkäufer ab 18 € und die [Führung mit Eintritt](/en/cities/madrid/activities/prado-museum-guided-tour) ab 49 €. Was du tun kannst, wenn es ausverkauft ist, und wie die Kassen funktionieren, steht in unserem Artikel zu [Prado Museum Tickets](/de/guides/madrid/prado-museum-tickets-ausverkauft).
+
+[actividad: museo-prado-entrada]
 
 [actividad: museo-prado-visita-guiada]
 
-## Was du in zwei Gratis-Stunden im Prado siehst
+## Weitere kostenlose Museen in der Nähe
 
-Praktisch hast du eine gute Stunde bis anderthalb Stunden. Nimm am Eingang den Plan und geh direkt zu:
+Fünf Minuten zu Fuß entfernt liegen zwei weitere Museen mit Gratiszeiten:
 
-1. **Velázquez** (Etage 1): *Las Meninas*, *Die Spinnerinnen* und die Hofporträts. Fang hier an: Dieser Saal füllt sich am meisten.
-2. **Goya** (Etage 1): *Die Familie Karls IV.* und die beiden *Majas*.
-3. **Goya in Etage 0:** *Der 2. Mai*, *Der 3. Mai* und die **Schwarzen Bilder** mit dem *Saturn*.
-4. **Bosch** (Etage 0): *Der Garten der Lüste*. Gib ihm zehn Minuten.
-5. **Wenn noch Zeit bleibt:** Van der Weydens *Kreuzabnahme* oder El Grecos *Edelmann mit der Hand auf der Brust*.
+| Museum | Kostenlos |
+| --- | --- |
+| Reina Sofía (*Guernica*) | Montag und Mittwoch bis Samstag, 19:00 bis 21:00 Uhr; sonntags 12:30 bis 14:30 Uhr |
+| Thyssen-Bornemisza | Montags 12:00 bis 16:00 Uhr (Dauerausstellung) |
 
-## Tipps und Alternativen
+An einem Montag kannst du mittags das Thyssen gratis besuchen und ab 18:00 Uhr den Prado. Die Gratiszeit des Reina Sofía überschneidet sich mit der des Prado, heb es dir also für einen anderen Tag auf. Wenn du lieber für eines bezahlst, hilft unser [Vergleich von Prado, Reina Sofía und Thyssen](/de/guides/madrid/prado-reina-sofia-thyssen-vergleich). Mehr Pläne ohne Eintritt findest du unter [Madrid kostenlos](/de/guides/madrid/madrid-kostenlos).
 
-- **Die Gratis-Zeit gilt nicht für Sonderausstellungen** (halber Preis).
-- **Am 24. und 31. Dezember und am 6. Januar** schließt er um 14:00: keine Gratis-Zeit am Abend.
-- **Nimm Ausweis, Studentenausweis oder Bescheinigung mit**, wenn du als Teil einer Gruppe gratis hineingehst.
-- **Weitere Gratis-Museen in der Nähe:** das **Reina Sofía** (Montag und Mittwoch bis Samstag 19:00-21:00; sonntags 12:30-14:30) und das **Thyssen** (montags 12:00-16:00). Montags kannst du das Thyssen mittags und den Prado ab 18:00 kombinieren; das Reina Sofía überschneidet sich mit dem Prado, also besser an einem anderen Tag. Vergleiche sie im [Vergleich Prado, Reina Sofía, Thyssen](/de/guides/madrid/prado-reina-sofia-thyssen-vergleich) und finde mehr Ideen in [Madrid kostenlos](/de/guides/madrid/madrid-kostenlos).
-- **Wenn es dein einziger Prado-Besuch ist, zahl.** Das Normalticket kostet **15 €** ohne Zeitlimit: Um 10:00, im halbleeren Museum, siehst du in drei Stunden, was in die Gratis-Zeit nicht passt. Hat die offizielle Seite kein Zeitfenster, gibt es Wiederverkaufstickets ab 18 € und eine [Führung mit Eintritt](/en/cities/madrid/activities/prado-museum-guided-tour) ab 49 €; mehr dazu in [Prado-Tickets](/de/guides/madrid/prado-museum-tickets-ausverkauft).
+## In einem Satz
 
-[actividad: museo-prado-entrada]
+Der Prado ist Montag bis Samstag von 18:00 bis 20:00 Uhr und sonntags von 17:00 bis 19:00 Uhr kostenlos, ohne Reservierung und mit Schlange an der Puerta de Goya: Sei eine halbe Stunde früher da, geh direkt zu Velázquez, Goya und Bosch, und wenn es dein einziger Besuch ist, zahl die 15 € und komm vormittags.

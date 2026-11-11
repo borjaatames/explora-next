@@ -4,7 +4,7 @@ descripcion: "Honest comparison of Madrid's three big museums: Prado, Reina Sof�
 categoria: "madrid"
 slug: "prado-vs-reina-sofia-vs-thyssen"
 fecha: "2026-04-16"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false
@@ -24,8 +24,7 @@ slugs:
   it: prado-reina-sofia-o-thyssen-quale-scegliere
   pt: prado-reina-sofia-ou-thyssen-qual-escolher
 reservasArriba: true
-intro: '**Prado vs Reina Sofía**, or the Thyssen instead? Madrid''s three great museums make up the **Paseo del Arte**: they are less than 1 km apart, next to the Retiro, and few cities in the world pack so much first-rate painting into so little space. The Prado holds classic European painting; the Thyssen, a journey from Gothic to Pop Art; and the Reina Sofía, 20th-century art with Guernica.'
-respuestaCorta: 'Prado vs Reina Sofía? If you only have time for one, **go to the Prado** (€15, 2-3 hours; go in at 10:00). If you have time for two, **add the Thyssen** (€14) for its Impressionists. Leave the **Reina Sofía** (€12) for 20th-century art lovers or a quick visit to Guernica.'
+respuestaCorta: 'If you only have time for one, **go to the Prado** (€15, 2–3 hours; enter at 10 AM). With time for two, **add the Thyssen** (€14) for its range from Gothic to Pop Art and its Impressionists. Leave the **Reina Sofía** (€12) for 20th-century fans or a short Guernica visit.'
 actividades:
   - art-walk-pass-prado-reina-sofia-thyssen
   - museo-prado-entrada
@@ -36,16 +35,16 @@ actividades:
   - reina-sofia-grupo-reducido-guides-you-need
   - excursion-toledo-dia-completo
 faq:
-- pregunta: Which Madrid museum should I visit if I only have time for one?
-  respuesta: The Prado. It is the most important of the three, with first-rate classic European painting from the 12th to the 19th century, and it needs 2 to 3 hours for the essentials. If you have time for a second museum, add the Thyssen before the Reina Sofía.
-- pregunta: How much do the Prado, the Thyssen and the Reina Sofía cost in 2026?
-  respuesta: The Prado costs €15 (€7.50 reduced), the Thyssen €14 and the Reina Sofía €12. The combined Paseo del Arte ticket, covering all three, costs €32.80, a 20% discount, but it only pays off if you really plan to visit all three museums.
-- pregunta: When are the Prado, the Thyssen and the Reina Sofía free?
-  respuesta: The Prado is free Monday to Saturday from 18:00 to 20:00 and on Sundays and holidays from 17:00 to 19:00; the Thyssen, on Mondays from 12:00 to 16:00 and Saturdays from 21:00 to 23:00; the Reina Sofía, Monday and Wednesday to Saturday from 19:00 to 21:00 and Sundays from 12:30 to 14:30. Free hours are very crowded, so paying and going in at 10:00 is usually a better experience.
-- pregunta: Is the Reina Sofía worth visiting?
-  respuesta: Only if you genuinely care about 20th-century art. It houses Picasso's Guernica alongside major works by Dalí and Miró, but next to the Prado it lacks variety for a general visitor. 1 h 30 is enough for Guernica, Dalí and Miró; the full collection takes 3 to 4 hours.
-- pregunta: Is the Thyssen closed on Mondays?
-  respuesta: Partly. On Mondays the Thyssen only opens during its free hours, 12:00 to 16:00, for the permanent collection, whereas the Prado opens every day with full hours. Check each museum's hours before planning a day with several.
+  - pregunta: "Which Madrid museum should I visit if I only have time for one?"
+    respuesta: "The Prado. It is the most important of the three, with world-class European classical painting from the 12th to 19th centuries, and needs 2 to 3 hours for the essentials. If you have time for a second museum, add the Thyssen before the Reina Sofía."
+  - pregunta: "How much do the Prado, Thyssen and Reina Sofía cost in 2026?"
+    respuesta: "The Prado costs €15 (€7.50 reduced), the Thyssen €14, and the Reina Sofía €12. A combined Paseo del Arte ticket covering all three costs €32.80, a 20% discount, but it is only worth it if you genuinely plan to visit all three."
+  - pregunta: "When are the Prado, Thyssen and Reina Sofía free to visit?"
+    respuesta: "The Prado is free Monday to Saturday 6 to 8 PM and Sunday/holidays 5 to 7 PM; the Thyssen is free Monday noon to 4 PM and Saturday 9 to 11 PM; the Reina Sofía is free Monday and Wednesday to Saturday 7 to 9 PM and Sunday 12:30 to 2:30 PM. Free hours are crowded, so paying full price and arriving at 10 AM is usually the better experience."
+  - pregunta: "Is the Reina Sofía worth visiting?"
+    respuesta: "Only if you genuinely care about 20th-century art. It holds Picasso's Guernica along with important Dalí and Miró works, but compared to the Prado it loses on variety for generalist visitors. 1.5 hours is enough to see Guernica, Dalí and Miró; a full circuit takes 3 to 4 hours."
+  - pregunta: "Is the Thyssen closed on Mondays?"
+    respuesta: "Partially. The Thyssen has reduced, free-only hours on Mondays (noon to 4 PM for the permanent collection), unlike the Prado, which is open every day at full hours. Always check each museum's specific schedule before planning a multi-museum day, since people frequently mix up the closure days."
 opciones:
   - ficha: museo-prado-entrada
     etiqueta: Prado only
@@ -54,6 +53,18 @@ opciones:
   - ficha: art-walk-pass-prado-reina-sofia-thyssen
     etiqueta: All 3 museums
 ---
+
+If you only have time for one museum in Madrid, **go to the Prado**. With time for two, add the Thyssen. The Reina Sofía comes last and only deserves your time if you genuinely care about 20th-century art.
+
+## Quick comparison
+
+| Museum | Focus | Minimum time | Price | Who it's for |
+| --- | --- | --- | --- | --- |
+| Prado | Classical European painting (12th–19th c.) | 2–3 h | €15 | Any traveller |
+| Thyssen | Sweep of Western art (13th–20th c.) | 1.5–2 h | €14 | Anyone wanting variety and Impressionism |
+| Reina Sofía | 20th-century art | 1.5–3 h | €12 | Modern and contemporary art fans |
+
+The three form the **Paseo del Arte** (Art Walk), less than 1 km apart next to Retiro Park.
 
 ## Which ticket should you choose?
 
@@ -65,70 +76,75 @@ opciones:
 | Paseo del Arte pass | €32.80 | Prado, Thyssen and Reina Sofía | Anyone genuinely visiting all three |
 | [Art Walk Pass](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen) | €38 | One entry to each museum (Thyssen permanent collection); valid one year | Visiting all three and booking it here |
 
-## Prado vs Reina Sofía: which museum in Madrid?
+## Museo del Prado: the answer to "I'm only going to one"
 
-If you only have time for one museum, **go to the Prado**. If you have time for two, add the **Thyssen**. The **Reina Sofía** comes last and is only worth the time if you genuinely care about 20th-century art.
+One of the world's great museums: Velázquez, Goya, El Greco, Titian, Rubens and Bosch, with a depth matched in Europe only by the Louvre and the Uffizi. What not to miss:
 
-| Museum | Focus | Time | Price | For whom |
-| --- | --- | --- | --- | --- |
-| Prado | Classic European painting (12th-19th c.) | 2-3 h | €15 | Any traveller |
-| Thyssen | Overview of Western art (13th-20th c.) | 1 h 30-2 h 30 | €14 | Variety and Impressionism |
-| Reina Sofía | 20th-century art | 1 h 30-4 h | €12 | Modern art lovers |
+- ***Las Meninas*** by Velázquez (room 12): the most analysed painting in art history, and different in person.
+- **Goya's Black Paintings** (room 67): *Saturn Devouring His Son*, *The Witches' Sabbath*. He painted them on the walls of his house, never meant for display.
+- **The large formats:** Velázquez's *The Surrender of Breda*, Goya's *The Second of May* and *The Third of May 1808*. They don't work in books; you have to see them full size.
+- **Royal portraits:** Velázquez's Philip IV and Goya's *Family of Charles IV*, a condensed history lesson.
+- ***The Garden of Earthly Delights*** by Bosch: you can spend 30 minutes on this alone.
+- **El Greco**, especially if you're planning the [Toledo day trip](/en/guides/madrid/toledo-day-trip-from-madrid).
 
-## The Prado: the answer to "I'm only going to one"
+**Prices and hours (2026):** €15 general, €7.50 reduced (over 65, youth card, large family). Free Mon–Sat 6–8 PM and Sun and holidays 5–7 PM. Open every day. Minimum 2 hours; 3 is reasonable.
 
-One of the five best museums in the world: Velázquez, Goya, El Greco, Titian, Rubens and Bosch at a density matched only by the Louvre and the Uffizi. The essentials:
-
-- ***Las Meninas*** (room 12): the most analysed painting in art history, and in person it is something else.
-- **Goya's Black Paintings** (room 67): *Saturn Devouring His Son*, *The Witches' Sabbath*. He painted them on the walls of his house, never meaning to exhibit them.
-- **The large formats:** *The Surrender of Breda*, *The Second of May* and *The Third of May*. You have to see them at full size.
-- **Bosch's *The Garden of Earthly Delights***: half an hour just here.
-- **El Greco**, especially if you are doing the [day trip to Toledo](/en/guides/madrid/toledo-day-trip-from-madrid).
-
-**Price:** €15 (€7.50 reduced for over-65s, youth card holders and large families). **Free** Monday to Saturday from 18:00 to 20:00 and on Sundays and holidays from 17:00 to 19:00. **Open every day.** At least 2 hours; 3 is sensible. On a first visit, the guided tour with entry (1 h 30-2 h, €49) goes straight to the essentials.
-
-**Tip:** pay the €15 and go in at 10:00. The free hours are packed and not enjoyable. More in [Madrid on a budget](/en/guides/madrid/madrid-on-a-budget).
+> **Tip:** pay the €15 and walk in at 10 AM. The free hours are mobbed and hard to enjoy. More in [Madrid on a budget](/en/guides/madrid/madrid-on-a-budget).
 
 [actividad: museo-prado-entrada]
 
-## Prado vs Thyssen: the most chronologically complete
+## Thyssen-Bornemisza: the most chronologically complete
 
-The most important private collection in the world, bought by the Spanish state in 1993. Its strength is **variety**: from Italian Gothic to American Pop Art without gaps, in a single route. Where the Prado is deep, the Thyssen is panoramic.
+A private collection bought by the Spanish state in 1993. Its strength is **range**: from Italian Gothic to American Pop Art without gaps, in a single circuit. Where the Prado is deep, the Thyssen is panoramic.
 
 - **Italian and Flemish primitives**, from the Trecento to the Cinquecento.
 - **Holbein, Dürer, Cranach:** the Northern Renaissance.
-- **Caravaggio, Rubens, Van Dyck.**
-- **Impressionists and Post-Impressionists:** Monet, Manet, Degas, Cézanne, Van Gogh, Gauguin. This is where it shines, and what the Prado lacks.
-- **Hopper, Lichtenstein, Pollock:** 20th-century American art, rare to see in Spain.
+- **Caravaggio, Rubens, Van Dyck:** serious Baroque.
+- **Impressionists and Post-Impressionists:** Monet, Manet, Degas, Cézanne, Van Gogh, Gauguin. **This is where the Thyssen shines**, and it's what the Prado lacks.
+- **Hopper, Lichtenstein, Pollock:** 20th-century American art, rare in Spain.
 
-**Price:** €14. **Free** on Mondays from 12:00 to 16:00 (permanent collection only) and Saturdays from 21:00 to 23:00. **On Mondays it only opens during those free hours.** Between 1 h 30 and 2 h 30.
+**Prices and hours:** €14 (permanent collection and temporary shows). Free Mondays noon–4 PM (permanent collection only) and Saturdays 9–11 PM. **On Mondays it only opens during those free hours**, so don't confuse its schedule with the Prado's. Allow 1.5–2.5 hours.
+
+Choose it if you love Impressionism, want chronological variety, or already did the Prado on a previous trip.
 
 [actividad: museo-thyssen-entrada]
 
-## The Reina Sofía: only if you care about the 20th century
+## Museo Reina Sofía: only if you care about the 20th century
 
-Spanish and international 20th-century and contemporary art. The star is **Guernica**, alongside Dalí, Miró, Picasso and Tàpies. With limited time and general interests, **skip it** and give that time to the Prado and the Thyssen: the building is huge and, beyond Guernica, Dalí, Miró and some Picasso series, much of it is conceptual art that doesn't grab the average visitor.
+Twentieth-century and contemporary Spanish and international art. The headline is **Picasso's *Guernica***, plus Dalí, Miró, other Picasso periods and Tàpies.
 
-When it is worth it: if you love the avant-garde, if you saw the Prado and the Thyssen on a previous trip, or if you just want to see Guernica. Give the painting 20 minutes (3.5 × 7.8 m, the bombing of 26 April 1937) and the Dalí room (*The Great Masturbator*, *The Enigma of Hitler*), then leave.
+The honest verdict: with limited time and a generalist interest, **skip it** and give the time to the Prado and the Thyssen. The building is enormous, and beyond *Guernica*, Dalí, Miró and some Picasso series, much of it is conceptual art that doesn't connect with the average visitor.
 
-**Price:** €12. **Free** Monday and Wednesday to Saturday from 19:00 to 21:00, and Sundays from 12:30 to 14:30. Guernica, Dalí and Miró, 1 h 30; the whole museum, 3-4 h.
+When it does deserve the time:
+
+- You're passionate about the avant-garde, surrealism or conceptual art.
+- You've already done the Prado and the Thyssen on a previous trip.
+- You only want *Guernica*: give the painting (3.5 × 7.8 m, the bombing of 26 April 1937) 20 minutes, add the Dalí room (*The Great Masturbator*, *The Enigma of Hitler*) and the Miró room, and leave.
+
+**Prices and hours:** €12. Free Mon and Wed–Sat 7–9 PM, Sun 12:30–2:30 PM. *Guernica*, Dalí and Miró take 1.5 hours; the full circuit 3–4.
 
 [actividad: reina-sofia-entrada]
 
-## How to plan the Paseo del Arte
+## How to organise them
 
-Don't do two museums on the same day: your attention drops sharply after 3 hours.
+Don't do two museums on the same day: attention drops sharply after 3 hours, and the second museum is always half-enjoyed.
 
-- **1 museum:** the Prado, in the morning, going in at 10:00.
-- **2 days:** day 1, the Prado (3 h) and an afternoon without museums; day 2, the Thyssen (2 h).
-- **3 days:** the above plus a light Reina Sofía (1 h 30) on the third day.
+| Time available | Plan |
+| --- | --- |
+| 1 museum | Prado, in the morning, 10 AM entry |
+| 2 days | Day 1 Prado (3 h) and a non-museum afternoon; day 2 Thyssen (2 h) |
+| 3 days | The above plus a light Reina Sofía (1.5 h) on day 3 |
 
-**Paseo del Arte pass:** all three for **€32.80** (20% off). It only pays off if you really go to all three; otherwise it pushes you into the Reina Sofía just to use it. The [Art Walk Pass](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen) (€38) also includes one entry to each museum (permanent collection at the Thyssen) and is valid for a year.
+**Paseo del Arte pass:** all three for €32.80 (a 20% discount). Only worth it if you'll genuinely visit all three; otherwise it pushes you into the Reina Sofía just to get value from it.
 
 ## Common mistakes
 
-1. **Going to the Prado during free hours:** a 30-45 minute queue and packed rooms.
-2. **Mixing up the Thyssen's Mondays** with the Prado's: check the hours before planning.
-3. **Going to the Reina Sofía expecting "more Velázquez and Goya".** It is something else.
-4. **Doing the whole Reina Sofía "because I've paid".** If you're tired after an hour and a half, leave.
-5. **Skipping lunch for museums.** Cava Baja, Ponzano or the Barrio de las Letras will revive you between the Prado and the afternoon. For the rest of your trip, see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days).
+1. **The Prado in the free hours without a ticket:** 30–45 minutes queuing outside and packed rooms.
+2. **Mixing up Monday hours:** the Prado opens every day at full hours; the Thyssen only does its free slot. Check before planning.
+3. **Expecting "more Velázquez and Goya" at the Reina Sofía.** It's a modern art museum, not a Prado annex.
+4. **Doing all of the Reina Sofía "because I paid".** If you're tired after 1.5 hours, leave.
+5. **Skipping lunch for museums.** A proper meal on Cava Baja, Calle Ponzano or in the Barrio de las Letras between the Prado and the afternoon resets you.
+
+## In one line
+
+The Prado is **the museum of your trip**, the Thyssen the perfect complement and the Reina Sofía the bonus for 20th-century fans. If in doubt and you only have one morning, go to the Prado. For the rest of your trip, see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days).

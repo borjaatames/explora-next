@@ -5,14 +5,14 @@ metaTitle: "Cádiz Landgang: Altstadt, Sevilla oder Jerez"
 categoria: "cadiz"
 slug: "cadiz-kreuzfahrt-landgang"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-11-01"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/cadiz/mar/catedral-desde-mar.webp"
 imagen_alt: "Die Kathedrale von Cádiz und der Campo del Sur vom Strand aus gesehen, mit dem Meer im Vordergrund"
-tiempo_lectura: 5
+tiempo_lectura: 6
 keywords:
   - "cádiz landgang"
   - "cádiz kreuzfahrthafen"
@@ -28,19 +28,18 @@ slugs:
   it: porto-crociere-cadice-guida
   pt: porto-de-cadis-cruzeiros
 reservasArriba: true
-intro: 'Beim **Cádiz Landgang** legt das Schiff fünf Gehminuten von der Altstadt entfernt an: Du gehst von Bord und stehst auf der Plaza de San Juan de Dios. Es ist der bequemste Hafen Andalusiens. Die älteste Stadt des Abendlandes erkundest du zu Fuß, von Kathedrale und Torre Tavira bis zum Pópulo und zur Caleta, und mit einem langen Hafentag erreichst du auch **Sevilla** oder **Jerez**.'
-respuestaCorta: 'Beim **Cádiz Landgang** liegt das Schiff **5 Gehminuten von der Altstadt** entfernt. Mit **4–6 Stunden** bleib in Cádiz (Kathedrale, Torre Tavira, Pópulo, Caleta). **Sevilla**, 1 Std. 30 Min. entfernt, lohnt sich erst ab **8 Stunden**: Mit dem Zug trägst du das Risiko; beim **Ausflug ab Hafen** (ab 119 €) richtet sich der Anbieter nach dem Schiff.'
+respuestaCorta: 'In Cádiz legt das Schiff **5 Gehminuten von der Altstadt** entfernt an: Du brauchst weder Shuttle noch Bus oder Taxi. Mit **4-6 Stunden** bleib in Cádiz (Kathedrale, Torre Tavira, El Pópulo und La Caleta). **Sevilla** liegt **1 Std. 30 Min.** entfernt und lohnt sich nur mit **8 Stunden oder mehr** an Land: Mit dem Zug auf eigene Faust trägst du das Risiko, das Schiff zu verpassen; mit einem **Ausflug ab Hafen** (ab 119 €) oder einer **privaten Tour** (ab 600 € pro Gruppe) richtet sich der Anbieter nach der Liegezeit.'
 faq:
-- pregunta: Braucht man vom Hafen Cádiz ein Verkehrsmittel ins Zentrum?
-  respuesta: Nein. Die Kreuzfahrtterminals liegen an den Kais Ciudad und Alfonso XIII, und das Terminal am Kai Ciudad führt direkt auf den Paseo de Canalejas und die Plaza de San Juan de Dios. Die Altstadt ist etwa 5 Gehminuten entfernt.
-- pregunta: Kann man vom Schiff mit dem Zug nach Sevilla fahren?
-  respuesta: 'Ja. Der Bahnhof von Cádiz liegt etwa 900 Meter vom Terminal, 11 Minuten zu Fuß; der Zug braucht zwischen 1 Std. 25 Min. (Alvia) und 1 Std. 50 Min. (Media Distancia). Nur bei 9–10 Stunden im Hafen, und nimm einen Rückzug, der mindestens 1 Std. 30 Min. vor dem All aboard in Cádiz ankommt: Bei Verspätung wartet das Schiff nicht.'
-- pregunta: Was kostet ein Ausflug nach Sevilla ab dem Hafen Cádiz?
-  respuesta: Der Gruppenausflug für Kreuzfahrtgäste kostet ab 119 € pro Person, mit Abholung im Hafen und englischsprachigem Guide; den Eintritt ins Alcázar muss man extra anfragen. Privat ab etwa 600 € pro Gruppe für 1 oder 2 Personen ohne Eintritte, oder etwa 598 € für 2 mit Alcázar und Kathedrale.
-- pregunta: Reicht die Zeit für Jerez bei einem Landgang?
-  respuesta: 'Ja, es ist einfacher als Sevilla: Der Zug von Cádiz nach Jerez braucht etwa 35 Minuten. Mit 6 Stunden reicht es für eine Bodega und einen Bummel durchs Zentrum, wenn du mit einer Stunde Puffer zurückkommst.'
-- pregunta: Was ist in Cádiz sonntags geschlossen?
-  respuesta: Die Markthalle öffnet sonntags nicht, und die Kathedrale kann man nur nachmittags besichtigen. In Sevilla öffnet die Kathedrale sonntags von 14:30 bis 19:00 Uhr. Römisches Theater und Museo de Cádiz schließen montags, nicht sonntags.
+  - pregunta: "Brauche ich vom Kreuzfahrthafen Cádiz ein Verkehrsmittel in die Altstadt?"
+    respuesta: "Nein. Die Kreuzfahrtterminals liegen an den Kais Ciudad und Alfonso XIII, und das Terminal am Muelle Ciudad führt direkt auf den Paseo de Canalejas und die Plaza de San Juan de Dios. Die Altstadt erreichst du in etwa 5 Minuten zu Fuß."
+  - pregunta: "Kann ich vom Schiff mit dem Zug nach Sevilla fahren?"
+    respuesta: "Ja. Der Bahnhof Cádiz liegt etwa 900 Meter vom Terminal entfernt, 11 Minuten zu Fuß, und der Zug braucht zwischen 1 Std. 25 Min. (Alvia) und 1 Std. 50 Min. (Media Distancia). Mach das nur mit 9-10 Stunden Liegezeit und nimm einen Rückzug, der mindestens 1 Std. 30 Min. vor All aboard in Cádiz ankommt: Bei Verspätung wartet das Schiff nicht."
+  - pregunta: "Was kostet ein Sevilla-Ausflug ab dem Hafen Cádiz?"
+    respuesta: "Die Gruppentour für Kreuzfahrtgäste kostet ab 119 € pro Person, mit Abholung am Hafen und englischsprachigem Guide; das Ticket für den Alcázar wird separat angefragt. Privat geht es ab etwa 600 € pro Gruppe für 1-2 Personen ohne Eintritte los, oder etwa 598 € für 2 mit Alcázar und Kathedrale."
+  - pregunta: "Schafft man Jerez bei einem Landgang?"
+    respuesta: "Ja, das ist einfacher als Sevilla: Der Zug von Cádiz nach Jerez braucht etwa 35 Minuten. Mit 6 Stunden reicht es für eine Sherry-Bodega und einen Bummel durchs Zentrum, solange du mit einer Stunde Puffer zurückfährst."
+  - pregunta: "Was ist in Cádiz am Sonntag geschlossen?"
+    respuesta: "Die Markthalle Mercado Central hat sonntags zu, und die Kathedrale kann man nur nachmittags besichtigen. In Sevilla öffnet die Kathedrale sonntags von 14:30 bis 19 Uhr. Das Römische Theater und das Museum von Cádiz schließen montags, nicht sonntags."
 actividades:
   - sevilla-excursion-cruceristas-puerto-cadiz
   - sevilla-excursion-privada-desde-cadiz
@@ -50,67 +49,97 @@ actividades:
   - catamaran-bahia-de-cadiz
 ---
 
-## Kreuzfahrtterminal Cádiz: wo das Schiff anlegt
+Cádiz ist der bequemste Hafen Andalusiens: **Du gehst von Bord und stehst fünf Minuten später auf der Plaza de San Juan de Dios** vor dem Rathaus. Die eigentliche Frage ist nicht, wie du in die Stadt kommst, sondern ob du in Cádiz bleibst oder nach Sevilla fährst, und das hängt von der Liegezeit ab.
 
-Die Schiffe legen an den Kais des Hafenbeckens Cádiz-Ciudad an (Reina Sofía, Reina Victoria, Marqués de Comillas, Ciudad und Alfonso XIII). Es gibt zwei Terminals, beide mit Touristeninformation, Geschäften und kostenlosem WLAN:
+## Wo legt das Schiff in Cádiz an?
 
-- **Kai Ciudad:** führt direkt auf den Paseo de Canalejas und die **Plaza de San Juan de Dios**.
-- **Kai Alfonso XIII:** das größere, wenige Gehminuten vom selben Punkt.
+Die Schiffe liegen an den Kais des Hafenbeckens Cádiz-Ciudad (Reina Sofía, Reina Victoria, Marqués de Comillas, Ciudad und Alfonso XIII). Es gibt zwei Terminals:
 
-Von beiden ist das Zentrum etwa **5 Gehminuten** entfernt. Der Bahnhof liegt rund **900 Meter** entfernt (11 Minuten), der Busbahnhof 1 km.
+| Terminal | Ausstattung | Weg in die Stadt |
+| --- | --- | --- |
+| Muelle Ciudad | Touristeninformation, Läden, gratis WLAN | Direkt auf den Paseo de Canalejas und die Plaza de San Juan de Dios |
+| Muelle Alfonso XIII | Das größere: Touristeninformation, Läden, gratis WLAN | Wenige Gehminuten bis zum selben Platz |
 
-**Fortbewegung:** zu Fuß, denn die Altstadt ist flach und kompakt. Der **Stadtbus 1** (Haltestelle Plaza de España, 300 Meter) fährt zum Strand La Victoria; **Taxis** stehen weniger als 5 Minuten vom Hafen; der **Zug** fährt nach Jerez und Sevilla, und der **Katamaran** setzt in 30 Minuten nach El Puerto de Santa María über.
+Von beiden ist das Zentrum etwa **5 Minuten zu Fuß** entfernt. Der Bahnhof liegt rund 900 Meter (11 Minuten) entfernt, der Busbahnhof 1 km.
 
-## Was tun beim Landgang in Cádiz
+## So bewegst du dich
 
-| Zeit an Land | Plan |
-| --- | --- |
-| **4 Stunden** | Kathedrale und Uhrturm, Pópulo-Viertel und Römisches Theater, Plaza de las Flores und Markthalle, Torre Tavira mit Camera obscura. |
-| **6 Stunden** | Das Gleiche plus frittierter Fisch in La Viña und Spaziergang über die Caleta bis zur Festung Santa Catalina. Auch die Katamaranfahrt durch die Bucht (ab 19 €) passt. |
-| **8 Stunden oder mehr** | Sevilla mit Ausflug ab Hafen oder Jerez mit dem Zug und Bodega-Besuch. |
+| Möglichkeit | Wofür | Gut zu wissen |
+| --- | --- | --- |
+| Zu Fuß | Die ganze Altstadt | Flach und kompakt: die beste Wahl |
+| Stadtbus, Linie 1 | Strand La Victoria und Neustadt | Hält an der Plaza de España, 300 Meter entfernt |
+| Taxi | Eingeschränkte Mobilität oder Gepäck | Taxistände weniger als 5 Minuten vom Hafen |
+| Zug | Jerez (etwa 35 Min.) oder Sevilla (1 Std. 25 Min. bis 1 Std. 50 Min.) | Bahnhof 11 Minuten zu Fuß |
+| Katamaran | El Puerto de Santa María | 30 Minuten Überfahrt |
 
-Die Führung durch **Torre Tavira und Kathedrale** (ab 38 €, 2 Stunden) startet an der Plaza de San Juan de Dios, direkt am Hafen. Seid ihr mehrere, gibt es einen **privaten Altstadtrundgang** ab 180 € pro Gruppe (2 Stunden, 1 oder 2 Personen) oder etwa 300 € für 4, Treffpunkt gegenüber dem Rathaus, fünf Minuten vom Schiff. Mehr Ideen für den Rundgang in [Cádiz an einem Tag](/de/guides/cadiz/cadiz-in-einem-tag).
+## Was schaffst du in 4, 6 oder 8 Stunden?
+
+| Zeit an Land | Plan | Was du buchen kannst |
+| --- | --- | --- |
+| 4 Stunden | Kathedrale mit Uhrturm, Viertel El Pópulo und Römisches Theater, Plaza de las Flores und Mercado Central, Torre Tavira mit Camera obscura | Torre Tavira und Kathedrale mit Guide, ab 38 € |
+| 6 Stunden | Dazu frittierter Fisch zum Mittagessen in La Viña und ein Spaziergang über La Caleta zum Castillo de Santa Catalina | Katamaranfahrt durch die Bucht, ab 19 € |
+| 8 Stunden und mehr | Sevilla mit Ausflug ab Hafen, oder Jerez mit dem Zug und einer Sherry-Bodega | Sevilla für Kreuzfahrtgäste, ab 119 € |
+
+Die **Führung durch Torre Tavira und Kathedrale** startet an der Plaza de San Juan de Dios direkt am Hafen und dauert 2 Stunden: Sie passt in jeden Landgang.
 
 [actividad: torre-tavira-catedral-cadiz-visita-guiada]
 
+Für Gruppen startet der **private Altstadtrundgang** vor dem Rathaus und kostet **ab 180 € pro Gruppe** (2 Stunden, 1-2 Personen) oder etwa 300 € für 4. Eine Abholung am Kai ist nicht inbegriffen, aber der Treffpunkt liegt fünf Minuten vom Schiff.
+
 [actividad: cadiz-tour-privado-a-pie-casco-antiguo]
 
-## Sevilla vom Hafen Cádiz (und das Risiko, das Schiff zu verpassen)
+Mehr Ideen für deinen Rundgang in [Cádiz an einem Tag](/de/guides/cadiz/cadiz-in-einem-tag).
 
-Sevilla liegt **etwa 90 Minuten über die AP-4** entfernt. Dort brauchst du mindestens 4 Stunden für Kathedrale, Alcázar und Santa Cruz, der ganze Tag dauert also 7–8 Stunden. Drei Möglichkeiten:
+## So kommst du vom Schiff nach Sevilla (und das Risiko dabei)
 
-**1. Ausflug für Kreuzfahrtgäste (ab 119 € pro Person).** Abholung und Rückbringung am Hafen, 8 Stunden, geführter Rundgang auf Englisch durch Santa Cruz, das Indienarchiv, die Kathedrale und den Alcázar, in Gruppen von 10 bis 18 Personen im großen Reisebus. **Der Eintritt ins Alcázar ist nicht inklusive**: Frag den Anbieter gleich bei der Buchung danach. Die Dauer passt sich der tatsächlichen Anlegezeit an, mit Rückkehrgarantie des Anbieters.
+Sevilla liegt **etwa 90 Minuten über die Autobahn AP-4** entfernt. Dort brauchst du mindestens 4 Stunden für Kathedrale, Alcázar und Santa Cruz, insgesamt also 7-8 Stunden. Es gibt drei Wege:
+
+**1. Ausflug für Kreuzfahrtgäste (ab 119 € pro Person).** Abholung und Rückfahrt am Hafen, 8 Stunden, mit geführtem Rundgang auf Englisch durch Santa Cruz, das Archivo de Indias, die Kathedrale und den Alcázar in Gruppen von 10 bis 18 Personen. Die Fahrt geht im großen Reisebus, und **das Ticket für den Alcázar ist nicht inbegriffen**: Frag es gleich nach der Buchung beim Anbieter an. Die Dauer richtet sich nach der tatsächlichen Anlegezeit, und der Anbieter gibt eine Rückkehrgarantie zum Schiff.
 
 [actividad: sevilla-excursion-cruceristas-puerto-cadiz]
 
-**2. Privatausflug (ab etwa 600 € pro Gruppe).** Fahrer nur für euch, Abholung am Kai (Schiffsnamen bei der Buchung angeben), 2 Stunden Führung und Freizeit; Dauer 8 Std. 30 Min. Für 4 Personen etwa 880 €. Die Variante mit **Alcázar und Kathedrale mit offiziellem Guide** kostet etwa 598 € für 2 und 840 € für 4, ist aber **nicht stornierbar**.
-
-**3. Mit dem Zug auf eigene Faust.** Etwa 20 Abfahrten täglich, **1 Std. 25 Min. mit dem Alvia bis 1 Std. 50 Min. mit dem Media Distancia**, ab etwa 10 € pro Strecke. Am günstigsten, aber das Risiko liegt ganz bei dir: Verspätet sich der Rückzug, legt das Schiff ohne dich ab. Nur bei **9–10 Stunden im Hafen** und mit einem Rückzug, der **mindestens 1 Std. 30 Min. vor dem All aboard** in Cádiz ankommt. Sonntags öffnet die Kathedrale von Sevilla erst um 14:30 Uhr.
-
-| Option | Preis pro Person (2 Reisende) | Was bei Verspätung? |
-| --- | --- | --- |
-| Ausflug der Reederei | Preis der Reederei | Das Schiff wartet auf seine eigenen Ausflüge |
-| Für Kreuzfahrtgäste ab Hafen | 119 € + Eintritt Alcázar | Der Anbieter richtet sich nach dem Schiff und gibt Rückkehrgarantie |
-| Privat ab Hafen | Etwa 300 € (etwa 220 € bei 4 Personen) | Der Fahrer richtet sich nach deinem Zeitplan; das Schiff wartet nicht |
-| Zug auf eigene Faust | Ab etwa 20 € hin und zurück | Das ganze Risiko trägst du |
+**2. Private Tour (ab etwa 600 € pro Gruppe).** Eigener Fahrer, Abholung am Kai (gib bei der Buchung den Schiffsnamen an), 2 Stunden Führung und freie Zeit; insgesamt 8 Std. 30 Min. Für 4 Personen etwa 880 €. Wenn ihr mit offiziellem Guide **in den Alcázar und die Kathedrale** wollt, kostet die Variante mit Tickets etwa 598 € für 2 und 840 € für 4, ist aber **nicht stornierbar**.
 
 [actividad: sevilla-excursion-privada-desde-cadiz]
 
-## Jerez von Cádiz mit dem Zug
+**3. Mit dem Zug auf eigene Faust.** Täglich fahren rund 20 Züge von Cádiz nach Sevilla, von 1 Std. 25 Min. im Alvia bis 1 Std. 50 Min. im Media Distancia, ab etwa 10 € pro Strecke. Das ist am günstigsten, aber das Risiko liegt komplett bei dir: Hat der Rückzug Verspätung oder verpasst du ihn, legt das Schiff ohne dich ab. Wir empfehlen es nur mit **9-10 Stunden Liegezeit** und einem Rückzug, der **mindestens 1 Std. 30 Min. vor All aboard** in Cádiz ankommt. Sonntags öffnet die Kathedrale von Sevilla erst um 14:30 Uhr für Besucher.
 
-Jerez ist der einfache Abstecher: etwa **35 Minuten mit dem Zug** (ab etwa 6 € pro Strecke) ab dem Bahnhof Cádiz. Mit 6 Stunden reicht es für eine Sherry-Bodega, das Zentrum und den Alcázar von Jerez. Wir verkaufen keine Jerez-Ausflüge ab Hafen: Fahr auf eigene Faust und buche die Bodega auf ihrer Website.
+## Und Jerez?
 
-## Zurück an Bord, Sonntage und typische Fehler
+Jerez ist die einfache Variante: etwa **35 Minuten mit dem Zug** (ab rund 6 € pro Strecke) vom Bahnhof Cádiz. Sechs Stunden reichen für eine Sherry-Bodega, das Zentrum und den Alcázar von Jerez. Ausflüge nach Jerez ab Hafen bieten wir nicht an: Fahr auf eigene Faust und buch die Bodega-Tour auf deren Website.
 
-- **All aboard:** meist 30 bis 60 Minuten vor dem Ablegen, in Bordzeit (siehe Tagesprogramm). In Cádiz reicht es, **1 Stunde vorher** am Terminal zu sein; kommst du mit dem Zug aus Sevilla oder Jerez, plane **1 Std. 30 Min. Puffer** plus 11 Minuten Fußweg ein. Bordkarte und Ausweis mitnehmen.
-- **Sonntags:** Die **Markthalle** ist zu, die **Kathedrale von Cádiz** nur nachmittags offen; Römisches Theater und Museo de Cádiz schließen montags, nicht sonntags. In Sevilla öffnet die Kathedrale sonntags von 14:30 bis 19:00 Uhr (Montag bis Samstag 10:45 bis 18:00 Uhr). Viele kleine Läden schließen; Bars und Restaurants haben offen.
+## Reederei-Ausflug, Kreuzfahrt-Tour oder privat?
 
-Fehler, die wir oft sehen:
+| Möglichkeit | Preis pro Person (2 Reisende) | Bei Verspätung |
+| --- | --- | --- |
+| Ausflug der Reederei | Was deine Reederei verlangt | Das Schiff wartet auf eigene Ausflüge |
+| Tour für Kreuzfahrtgäste ab Hafen | 119 € + Alcázar-Ticket | Der Anbieter richtet sich nach der Liegezeit und gibt eine Rückkehrgarantie |
+| Privat ab Hafen | Etwa 300 € (etwa 220 € zu viert) | Der Fahrer richtet sich nach dir; das Schiff wartet nicht |
+| Zug auf eigene Faust | Ab etwa 20 € hin und zurück | Das Risiko trägst du allein |
 
-1. **Mit weniger als 9 Stunden im Hafen per Zug nach Sevilla fahren.** Du verbringst mehr Zeit im Zug als in Sevilla.
-2. **Den Sevilla-Ausflug buchen, ohne den Alcázar-Eintritt anzufragen.**
-3. **Ein Taxi ins Zentrum nehmen.** Es sind 5 Minuten zu Fuß.
-4. **Sonntags zur Markthalle gehen.**
-5. **Den Privatausflug mit Eintritten buchen, ohne die Stornobedingungen zu lesen.** Keine Erstattung.
+Das Schiff wartet nur auf die eigenen Ausflüge. Bei allen anderen trägt der Anbieter die Verantwortung für die Zeit: Nimm einen, der auf Kreuzfahrtgäste ausgelegt ist, und lies, was seine Garantie abdeckt.
 
-Wenn du vor oder nach der Kreuzfahrt in der Provinz bleibst, schau dir [die Strände der Costa de la Luz](/de/guides/cadiz/straende-costa-de-la-luz-cadiz) an.
+## Wann musst du zurück sein?
+
+- **All aboard** ist meist 30-60 Minuten vor dem Ablegen und gilt in Bordzeit: Schau ins Tagesprogramm.
+- Wenn du in Cádiz bleibst, reicht es, **eine Stunde vor All aboard** am Terminal zu sein.
+- Warst du mit dem Zug in Sevilla oder Jerez, plane **1 Std. 30 Min. Puffer** bei der Ankunft in Cádiz ein, plus 11 Minuten Fußweg zum Terminal.
+- Nimm Bordkarte und Ausweis mit.
+
+## Sonn- und Feiertage
+
+- **Mercado Central in Cádiz:** sonntags geschlossen.
+- **Kathedrale von Cádiz:** sonntags nur nachmittags zu besichtigen.
+- **Römisches Theater und Museum von Cádiz:** montags geschlossen, sonntags geöffnet.
+- **In Sevilla:** Die Kathedrale öffnet sonntags von 14:30 bis 19 Uhr (montags bis samstags 10:45 bis 18 Uhr).
+- **Geschäfte:** Viele kleine Läden haben sonntags zu. Bars und Restaurants öffnen ganz normal.
+
+## Typische Fehler
+
+1. **Mit weniger als 9 Stunden Liegezeit mit dem Zug nach Sevilla.** Du sitzt länger im Zug, als du in Sevilla bist.
+2. **Den Sevilla-Ausflug buchen und das Alcázar-Ticket vergessen.** Es muss beim Anbieter angefragt werden.
+3. **Ein Taxi in die Altstadt nehmen.** Es sind 5 Minuten zu Fuß.
+4. **Sonntags zum Mercado Central.** Er hat geschlossen.
+5. **Die Privattour mit Tickets buchen, ohne auf die Stornobedingungen zu schauen.** Sie wird nicht erstattet.
+
+Bleibst du vor oder nach der Kreuzfahrt in der Provinz? Dann lies [Strände an der Costa de la Luz](/de/guides/cadiz/straende-costa-de-la-luz-cadiz).

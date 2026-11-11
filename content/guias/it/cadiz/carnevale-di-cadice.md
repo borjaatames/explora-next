@@ -1,18 +1,17 @@
 ---
 titulo: "Carnevale di Cadice: guida per viverlo (quando, dove e come)"
 descripcion: "Guida al Carnevale di Cadice: quando si svolge, il concorso del Falla, chirigotas e comparsas, il carnevale di strada, dove alloggiare e consigli per goderselo."
-intro: 'Il **Carnevale di Cadice** è uno dei più famosi al mondo: un''intera città in maschera che canta per le strade strofe argute, critiche ed esilaranti. Non è un carnevale di carri e piume, ma di **ingegno e testi**. Ha due anime da combinare: il **concorso ufficiale del Gran Teatro Falla** e il **carnevale di strada**, libero e gratuito, per la Viña, intorno alla Cattedrale e nel Pópulo.'
-respuestaCorta: 'Il **Carnevale di Cadice** 2027 va da **giovedì 4 a domenica 14 febbraio**, con la **finale del Falla venerdì 5**. Il carnevale di strada, con i gruppi che cantano nella Viña e nel Pópulo, è **gratis**. A esaurirsi sono gli alloggi: **prenota con mesi di anticipo** o dormi a Jerez, El Puerto o San Fernando.'
+respuestaCorta: 'Il Carnevale di Cadice 2027 va da **giovedì 4 a domenica 14 febbraio**, con la **finale del concorso del Falla venerdì 5**. Il carnevale di strada, con i gruppi che cantano coplas per La Viña e il Pópulo, è **gratis**. Ciò che si esaurisce è l''alloggio: **prenota con mesi di anticipo** o dormi a Jerez, El Puerto o San Fernando e arriva in treno.'
 categoria: "cadiz"
 slug: "carnevale-di-cadice"
 fecha: "2026-04-29"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/carnaval-de-cadiz.jpg"
 imagen_alt: "Cattedrale di Cadice"
-tiempo_lectura: 3
+tiempo_lectura: 4
 keywords:
   - "carnevale di cadice"
   - "chirigotas cadice"
@@ -31,73 +30,61 @@ actividades:
   - torre-tavira-catedral-cadiz-visita-guiada
   - catamaran-cadiz-atardecer
   - bodegas-fundador-jerez-cata
-faq:
-- pregunta: Quando si svolge il Carnevale di Cadice 2027?
-  respuesta: Da giovedì 4 a domenica 14 febbraio 2027, secondo il sito turistico del Comune (ottobre 2026). La finale del COAC al Falla è venerdì 5, la Grande Cabalgata domenica 7 e il Carnaval Chiquito domenica 21. Le date cambiano ogni anno perché dipendono dalla Pasqua.
-- pregunta: Come si ottengono i biglietti per il Teatro Falla?
-  respuesta: 'Sono molto difficili da ottenere e vengono assegnati per sorteggio. Gli spettacoli vanno in TV e soprattutto in strada: i gruppi del Falla cantano gratis per il centro storico nei giorni feriali.'
-- pregunta: Dove alloggiare durante il Carnevale di Cadice?
-  respuesta: Nel centro storico, se trovi posto e prenoti con mesi di anticipo. Altrimenti a Jerez, El Puerto de Santa María o San Fernando, collegati a Cadice dal treno locale Cercanías, con corse rinforzate e notturne nei grandi fine settimana.
-- pregunta: Bisogna mascherarsi al Carnevale di Cadice?
-  respuesta: 'Praticamente sì: durante il Carnevale sono tutti in maschera ed è parte della festa. Senza costume stoneresti.'
-- pregunta: Il Carnevale di Cadice è adatto ai bambini?
-  respuesta: Sì, al mattino e nel primo pomeriggio, quando è una festa familiare e tranquilla, meglio ancora in maschera. Di notte c'è moltissima gente.
 ---
 
-## Date del Carnevale di Cadice 2027
+**Il Carnevale di Cadice è uno dei più famosi al mondo**, e un'esperienza unica: un'intera città in maschera che canta per le strade coplas argute, critiche e spassosissime. Non è un carnevale di carri e piume, ma di **ingegno e testi**: il gaditano ride di tutto, soprattutto di sé stesso. Questa guida ti spiega quando si svolge, come funziona e come viverlo senza lasciarci le penne.
 
-Il Carnevale cambia data ogni anno perché dipende dalla Pasqua; si celebra a **febbraio o inizio marzo** e dura circa due settimane, con **due grandi fine settimana** (il primo di solito è il più affollato). Secondo il sito turistico del Comune (ottobre 2026):
+La chiave: ci sono **due carnevali** da capire. Quello **ufficiale** (il concorso del Gran Teatro Falla) e quello **di strada**, che è la festa libera, gratuita e affollatissima. Il meglio è combinarli.
 
-- **Giovedì 4 febbraio:** inizia il Carnevale.
-- **Venerdì 5:** finale del COAC al Falla.
-- **Sabato 6:** pregón (discorso inaugurale) in plaza de San Antonio.
-- **Domenica 7:** Carrusel de Coros al mattino e **Grande Cabalgata** nel pomeriggio.
-- **Lunedì 8:** Lunes de Coros (festa locale).
-- **Domenica 14:** rogo della Bruja Piti e chiusura ufficiale.
-- **Domenica 21:** Carnaval Chiquito, o «de los Jartibles».
+## Quando si svolge
 
-Il programma dettagliato esce più vicino alla data.
+Il Carnevale si celebra a **febbraio o all'inizio di marzo** e dura circa due settimane; nel **2027 va da giovedì 4 a domenica 14 febbraio**, con la **finale del concorso del Falla venerdì 5**. Ha **due grandi fine settimana**. Il primo di solito è il più affollato. Prima, tra gennaio e febbraio, si svolge il concorso a teatro.
 
-## Dove alloggiare (ciò che si esaurisce)
+> **Attenzione:** gli alloggi si esauriscono con **mesi di anticipo** e i prezzi si moltiplicano. Se vuoi vivere il Carnevale, prenota appena conosci le date; molti fanno avanti e indietro da Jerez o El Puerto per mancanza di posti letto.
 
-Gli alloggi si esauriscono **con mesi di anticipo** e i prezzi si moltiplicano. Se vuoi vivere il Carnevale, prenota appena conosci le date:
+## Il concorso del Falla (il carnevale ufficiale)
 
-- **Centro storico**, se trovi: tutto a piedi.
-- **Jerez, El Puerto de Santa María o San Fernando**, altrimenti: molti visitatori fanno avanti e indietro in treno ed evitano i prezzi alle stelle di Cadice.
-
-## Il concorso del Falla e le chirigotas
-
-Il **COAC** (Concorso ufficiale dei gruppi di Carnevale) si svolge per settimane al **Gran Teatro Falla**, tra gennaio e febbraio. I gruppi gareggiano per categorie:
+Il **COAC**, il Concorso Ufficiale dei Gruppi Carnevaleschi, si svolge al **Gran Teatro Falla** per settimane. I **gruppi** gareggiano per categorie:
 
 - **Chirigotas:** umorismo, satira e tanta ironia.
 - **Comparsas:** più liriche e critiche, con voci potenti.
-- **Coros:** cantano tanghi sui carri per le strade.
+- **Coros:** cantano tangos in piedi sui carri per le strade.
 - **Cuartetos:** parodia e assurdo in piccoli gruppi.
 
-I biglietti del Falla sono molto difficili da ottenere: si assegnano **per sorteggio**. Ma gli spettacoli vanno in TV e, soprattutto, in strada.
+I biglietti del Falla sono difficilissimi da ottenere; vengono assegnati per sorteggio. Ma le esibizioni si vedono anche in televisione e, soprattutto, per strada.
 
-## Il carnevale di strada di Cadice (imprescindibile)
+## Il carnevale di strada (l'imperdibile)
 
-È l'anima della festa: gruppi spontanei (gli «ilegales») che cantano strofe nel **centro storico** (la Viña, la piazza della Cattedrale, il Pópulo), gente in maschera ovunque e atmosfera fino all'alba. È **gratis** e affollatissimo.
-
-- **Da non perdere:** il **Carrusel de Coros** della prima domenica mattina, con i carri per plaza de las Flores e il mercato, e la **Cabalgata** della stessa domenica pomeriggio.
-- **Nei giorni feriali**, i gruppi del Falla cantano poi per le strade, gratis.
-
-## Come arrivare, mangiare e muoversi
-
-- **Treno:** Cercanías da Jerez (45 minuti), El Puerto (35) e San Fernando (15), con corse rinforzate e notturne nei grandi fine settimana.
-- **Auto:** lascia perdere. Chiudono gli accessi al centro e si parcheggia fuori dalle mura, nei parcheggi di Puerta de Tierra o della Zona Franca.
-- **Mangiare:** nella Viña, tortillitas de camarones (frittelle di gamberetti) e pesce fritto delle freidurías, in piedi e nel cartoccio (**8-12 € a persona**). I bar vendono birra da portare in strada; non serve entrare.
-- **Bagni:** scarsi. Il Comune installa orinatoi pubblici nei fine settimana, ma le code sono lunghe.
-- **Sicurezza:** festa familiare e tranquilla di giorno; di notte, folla e qualche borseggiatore. Porta poco con te e tieni il telefono in tasca.
-- **Con bambini:** al mattino e nel primo pomeriggio, perfetto; in maschera, ancora meglio.
+È l'anima della festa: gruppi spontanei ("ilegales") che cantano coplas nel **centro storico** (La Viña, la Plaza de la Catedral, il quartiere del Pópulo), gente in maschera ovunque e atmosfera fino all'alba. È **gratis** e affollatissimo. Il **Carrusel de Coros**, con i carri che cantano tangos, è uno dei momenti più belli.
 
 ## Consigli per viverlo
 
-1. **Mascherati.** A Cadice, a Carnevale, sono tutti in costume: è la norma.
-2. **Taci e ascolta le strofe.** La battuta e il testo sono ciò che conta.
-3. **Non aspettarti carri come a Rio o Tenerife.** Qui comandano la copla e l'ingegno.
-4. **Non andare senza alloggio prenotato** e non guidare di notte: meglio il treno o restare in centro.
-5. **Preparati alla folla** e a una lunga notte.
+1. **Mettiti in maschera.** Non è facoltativo: a Cadice, a Carnevale, sono tutti mascherati. Fa parte della festa.
+2. **Stai zitto e ascolta le coplas.** Contano la battuta e il testo; seguili.
+3. **Vai nel centro storico** (La Viña, Cattedrale, Pópulo): lì c'è il carnevale di strada.
+4. **Preparati alla folla** e alla nottata lunga.
 
-Se ti fermi un giorno in più, la città tranquilla è in [Cadice in un giorno](/it/guides/cadiz/cadice-in-un-giorno).
+## Info pratiche: date, trasporti e cosa aspettarsi
+
+- **Date 2027:** il Carnevale cambia ogni anno perché dipende dalla Settimana Santa. Secondo il sito del turismo del Comune (ottobre 2026): inizia **giovedì 4 febbraio**; **finale del COAC al Falla, venerdì 5**; pregón (discorso d'apertura), sabato 6, in plaza de San Antonio; **Gran Cabalgata, domenica 7**; Lunes de Coros, lunedì 8 (festivo locale); rogo della Bruja Piti e chiusura ufficiale, domenica 14; e il Carnaval Chiquito (o «de los Jartibles»), domenica 21. Il programma dettagliato esce più vicino alla data.
+- **Cosa vedere assolutamente:** il **Carrusel de Coros** della prima domenica mattina (i carri tra Plaza de las Flores e il mercato) e la **Cabalgata** della stessa domenica pomeriggio. I gruppi del Falla cantano poi per le strade, gratis, nei giorni feriali.
+- **Arrivare:** con il treno locale Cercanías da Jerez (45 minuti), El Puerto (35) e San Fernando (15), con corse rinforzate e notturne nei grandi fine settimana. In auto, lascia perdere: chiudono gli accessi al centro e si parcheggia fuori dalle mura, nei parcheggi di Puerta de Tierra o della Zona Franca.
+- **Mangiare:** a La Viña, tortillitas de camarones e pescaíto fritto nelle friggitorie, in piedi e nel cartoccio (8-12 € a persona). I bar vendono birra da asporto; non serve entrare.
+- **Bagni:** scarsi. Il Comune installa orinatoi pubblici nei fine settimana, ma le code sono lunghe. Organizzati.
+- **Sicurezza:** di giorno è una festa familiare e tranquilla; di notte, folla e qualche borseggiatore. Porta poco con te e tieni il cellulare al sicuro.
+- **Con i bambini:** la mattina e la prima parte del pomeriggio, perfetto; meglio se in maschera.
+
+## Dove alloggiare
+
+Nel **centro storico** se trovi posto (e prenoti presto). Altrimenti, molti visitatori alloggiano a **Jerez, El Puerto de Santa María o San Fernando** e arrivano in treno, evitando i prezzi alle stelle del capoluogo in quei giorni.
+
+## Cosa NON consigliamo
+
+1. **Andare senza alloggio prenotato.** Resterai senza letto o pagherai una fortuna.
+2. **Aspettarsi carri come a Rio o a Tenerife.** Qui comandano la copla e l'ingegno.
+3. **Andare senza maschera.** Stonerai; in quei giorni è la norma sociale.
+4. **Guidare di notte.** Meglio il treno o restare in centro.
+
+## In una frase
+
+Il Carnevale di Cadice è una città in maschera che ride di tutto a colpi di copla: abbina un'esibizione del Falla al carnevale libero di strada, mettiti in maschera e prenota con moltissimo anticipo. È il volto più festoso di [Cadice in un giorno](/it/guides/cadiz/cadice-in-un-giorno).

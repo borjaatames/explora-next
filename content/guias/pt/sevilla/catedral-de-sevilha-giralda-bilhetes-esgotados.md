@@ -5,7 +5,7 @@ metaTitle: 'Catedral de Sevilha bilhetes: preço e Giralda'
 categoria: sevilla
 slug: catedral-de-sevilha-giralda-bilhetes-esgotados
 fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-10'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: false
@@ -28,8 +28,7 @@ slugs:
   it: cattedrale-siviglia-giralda-biglietti-esauriti
   pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
-intro: 'Antes de procurar **bilhetes para a Catedral de Sevilha**, convém saber o que há lá dentro: a **maior catedral gótica do mundo**, erguida sobre a mesquita almóada, com o retábulo-mor, o cadeiral do coro, o túmulo de Cristóvão Colombo e o Pátio dos Laranjais. O bilhete inclui a subida à **Giralda**, por rampas, e a Igreja do Salvador. Fica em frente ao Real Alcázar e a visita dura **1h30**.'
-respuestaCorta: 'Os bilhetes da Catedral de Sevilha custam **13 € online e 14 € na bilheteira**, com a Giralda incluída. Se o site estiver esgotado, a **bilheteira da Puerta del Príncipe** vende até às 17h00 (18h00 ao domingo), com lotação limitada. Sem trocas nem devoluções, o mais seguro é um **bilhete de revenda** (desde 17,50 €) ou uma **visita guiada com entrada**.'
+respuestaCorta: 'Se o site oficial estiver esgotado, a **bilheteira da Puerta del Príncipe** continua a vender bilhetes (14 €) até às 18h00, embora com lotação limitada e sem garantia. Os bilhetes oficiais não admitem trocas nem devoluções, por isso não espere por cancelamentos: o mais seguro é um **bilhete com hora de revenda** (desde 17,50 €) ou uma **visita guiada com a entrada incluída**.'
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
   - catedral-giralda-sevilla-visita-privada-guia-entradas
@@ -37,16 +36,14 @@ actividades:
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
   - real-alcazar-catedral-sevilla-tour-privado-entradas
 faq:
-- pregunta: Quanto custa a entrada na Catedral de Sevilha e na Giralda?
-  respuesta: A geral custa 13 € online e 14 € na bilheteira (reduzida, 7 € e 8 €) e inclui a subida à Giralda e a Igreja do Salvador. A visita guiada às coberturas custa 20 € online e 21 € na bilheteira.
-- pregunta: Dá para comprar bilhetes da Catedral na bilheteira no próprio dia?
-  respuesta: 'Sim. A bilheteira fica na Puerta del Príncipe e fecha às 17h00 de segunda a sábado e às 18h00 ao domingo. A entrada geral custa lá 14 €, mais um euro do que online. A lotação da Catedral e da Giralda é limitada, por isso nos dias de muita procura não há garantia de lugar: vá cedo.'
+- pregunta: É possível comprar bilhetes da Catedral na bilheteira no próprio dia?
+  respuesta: 'Sim. A bilheteira fica na Puerta del Príncipe e fecha às 18h00. O bilhete geral custa 14 € na bilheteira, mais um euro do que online. A lotação da Catedral e da Giralda é limitada, por isso em dias de muita procura não há garantia de que haja vaga: vá cedo.'
 - pregunta: Libertam-se bilhetes por cancelamentos?
-  respuesta: Quase nunca. Segundo as normas da Catedral, os bilhetes não admitem devolução nem mudança de data, salvo se a visita não puder realizar-se por causa do próprio Cabido. Por isso não há cancelamentos a vigiar.
-- pregunta: Pode visitar-se a Catedral de graça?
-  respuesta: Sim, aos domingos, de acordo com a agenda litúrgica. Os bilhetes gratuitos levantam-se pessoalmente na bilheteira da Puerta del Príncipe a partir das 17h00 e até ao fecho, com lotação limitada. Não se reservam online.
-- pregunta: O que se vê da Catedral e da Giralda sem bilhete?
-  respuesta: As fachadas e a Giralda a partir da Plaza Virgen de los Reyes, da Avenida de la Constitución e da Plaza del Triunfo, que rodeiam o templo. Para ver o interior é preciso bilhete ou assistir ao culto, que não é uma visita turística.
+  respuesta: 'Quase nunca. Segundo as normas da Catedral, os bilhetes não admitem devolução nem mudança de data, exceto se a visita não se puder fazer por causa do próprio Cabido. Por isso não há um gotejar de cancelamentos a vigiar.'
+- pregunta: É possível visitar a Catedral de graça?
+  respuesta: 'Sim, aos domingos, de acordo com a agenda litúrgica. Os bilhetes gratuitos levantam-se pessoalmente na bilheteira da Puerta del Príncipe a partir das 17h00 e até ao fecho, com lotação limitada. Não se reservam online.'
+- pregunta: O que se pode ver da Catedral e da Giralda sem bilhete?
+  respuesta: 'As fachadas e a Giralda a partir da Plaza Virgen de los Reyes, da Avenida de la Constitución e da Plaza del Triunfo, que rodeiam o templo. Para ver o interior é preciso bilhete ou assistir ao culto, que não é uma visita turística.'
 opciones:
   - ficha: catedral-sevilla-giralda-entrada-skip-line
     etiqueta: A mais barata
@@ -55,6 +52,8 @@ opciones:
   - ficha: real-alcazar-catedral-sevilla-tour-privado-entradas
     etiqueta: Privada
 ---
+
+A Catedral de Sevilha vende os seus bilhetes **com hora de acesso e lotação limitada**, tanto para a nave como para a subida à Giralda, e na primavera, na Semana Santa e nos fins de semana prolongados as melhores horas esgotam depressa. O facto de o site oficial dizer «esgotado» não o deixa sem Catedral, mas também não adianta esperar por cancelamentos: os bilhetes não se trocam nem se devolvem. Estas são as vias que restam, pela ordem em que convém experimentá-las.
 
 ## Que bilhete escolher?
 
@@ -65,63 +64,55 @@ opciones:
 | Os dois monumentos com tempo | [Catedral, Giralda e Alcázar: tour de 3,5 horas](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2.085) | 65 € |
 | Um guia só para o seu grupo | [Real Alcázar e Catedral: tour privado com bilhetes](/en/cities/sevilla/activities/royal-alcazar-seville-cathedral-private-tour-tickets), 5,0★ (188) | 300 € por grupo |
 
-## O que vai ver
+## 1. O site oficial e a bilheteira da Puerta del Príncipe
 
-- **A nave e o retábulo-mor**, um dos maiores da cristandade, com o cadeiral do coro e a Capela Real.
-- **O túmulo de Cristóvão Colombo**, com o féretro aos ombros de quatro arautos que representam os reinos de Castela, Leão, Aragão e Navarra.
-- **A Giralda**, o minarete almóada terminado em 1198, com o corpo de sinos renascentista e o cata-vento do Giraldillo. Sobe-se por **rampas, não por escadas**, pensadas para se chegar lá acima a cavalo.
-- **O Pátio dos Laranjais**, o antigo pátio de abluções da mesquita.
+A venda oficial faz-se a partir de `catedraldesevilla.es`, que tem ligação para a sua plataforma de bilhetes. O bilhete geral para a Catedral e a Giralda custa **13 € online e 14 € na bilheteira** (reduzido, 7 € e 8 €) e inclui também a **Igreja do Salvador**. A Catedral abre de segunda a sábado das **10h45 às 19h00** e aos domingos das **14h30 às 19h00**. Se a sua data estiver esgotada:
 
-Conte com **1h30** para a visita completa.
+- **Veja todas as horas do dia:** cada hora de acesso tem a sua própria quota, e as da tarde costumam aguentar mais.
+- **Vá à bilheteira:** fica na **Puerta del Príncipe** e fecha às **18h00**, uma hora antes do templo. Quem compra online entra pela Puerta del Lagarto. A lotação é limitada, por isso em dias fortes não há garantia: quanto mais cedo chegar, melhor.
+- **Leve o documento:** as tarifas reduzidas e gratuitas só valem com documento oficial que o comprove.
 
-## Catedral de Sevilha: preço e horário
+O que não serve: esperar que se libertem cancelamentos. Segundo as normas da Catedral, os bilhetes **não admitem devolução nem mudança de data**, e chegar atrasado à sua hora também não dá direito a reembolso.
 
-A venda oficial faz-se a partir de **catedraldesevilla.es**, que remete para a sua plataforma de bilhetes.
+## 2. Os domingos grátis e as coberturas
 
-- **Geral:** **13 € online e 14 € na bilheteira**. Inclui a Giralda e a **Igreja do Salvador**.
-- **Reduzida:** 7 € online e 8 € na bilheteira, só com documento oficial que o comprove.
-- **Visita guiada às coberturas:** 20 € online e 21 € na bilheteira (ver abaixo).
+Aos domingos há acesso gratuito, sujeito à agenda litúrgica. Os bilhetes levantam-se **pessoalmente na bilheteira da Puerta del Príncipe a partir das 17h00** e até ao fecho, com lotação limitada. Se lhe calhar um domingo, experimente, mas não conte com isso como plano.
 
-**Horário:** de segunda a sábado das **10h45 às 19h00** e aos domingos das **14h30 às 19h00**. Os bilhetes têm hora de acesso e lotação limitada; compre com 2 ou 3 dias de antecedência.
+Outra via é a **visita guiada às coberturas**: um percurso de hora e meia pelos telhados da Catedral que inclui o acesso à Catedral, à Giralda e ao Salvador. Custa **20 € online e 21 € na bilheteira**, há sessões em espanhol, inglês e francês, e tem a sua própria quota, por isso às vezes há vaga quando a visita geral está esgotada. Com mau tempo é suspensa e pode pedir mudança de data ou devolução.
 
-## Bilhetes da Catedral de Sevilha esgotados: o que fazer
+## 3. Um bilhete com hora de revenda ou uma visita guiada
 
-Na primavera, na Semana Santa e nas pontes as melhores horas esgotam cedo. Experimente por esta ordem:
+Quando o site oficial não tem nada, os revendedores autorizados costumam ter lugares porque compram as suas quotas com antecedência. Paga mais do que no site oficial:
 
-1. **Veja todas as horas do dia:** cada hora de acesso tem a sua própria quota, e as da tarde costumam aguentar mais.
-2. **Experimente as coberturas:** um percurso de hora e meia pelos telhados da Catedral que inclui o acesso à Catedral, à Giralda e ao Salvador. Há visitas em espanhol, inglês e francês, e tem **quota própria**, por isso às vezes há lugar quando a visita geral está esgotada. Com mau tempo é suspensa e pode pedir mudança de data ou devolução.
-3. **Reserve um bilhete com hora de revenda ou uma visita guiada.** Os revendedores autorizados compram as suas quotas com antecedência e costumam ter lugares. Paga mais: bilhete com hora sem guia **desde 17,50 €**; Catedral, Giralda e Alcázar com guia desde 53 €; tour privado com bilhetes para os dois monumentos desde 300 € por grupo. Confirme que a ficha diz **«entrada na Catedral incluída»**: há passeios que só explicam o exterior.
+- **Bilhete com hora sem guia (desde 17,50 €):** a opção mais barata se só quer entrar e subir à Giralda.
+- **Catedral, Giralda e Alcázar (desde 53 €):** se também não tem o Alcázar, resolve os dois monumentos numa manhã.
+- **Tour privado (desde 300 € por grupo):** com bilhetes para o Alcázar e a Catedral, compensa se forem vários.
+
+Antes de pagar, confirme na ficha que diz **«entrada na Catedral incluída»**. Há passeios pelo centro que só explicam o exterior.
 
 [actividad: catedral-sevilla-giralda-entrada-skip-line]
 
-O que não serve: esperar por cancelamentos. Segundo as normas da Catedral, os bilhetes **não admitem devolução nem mudança de data**, e chegar atrasado não dá direito a reembolso.
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
 
-## Catedral de Sevilha: bilheteira e domingo grátis
+## 4. O que vê sem bilhete
 
-A bilheteira fica na **Puerta del Príncipe** e fecha às **17h00** de segunda a sábado e às **18h00** ao domingo, uma hora antes do fim da visita. Quem compra online entra pela **Puerta del Lagarto**. A lotação é limitada, por isso nos dias fortes não há garantia: quanto mais cedo chegar, melhor.
-
-**Catedral de Sevilha grátis ao domingo:** há acesso gratuito, sujeito à agenda litúrgica. Os bilhetes levantam-se **pessoalmente na bilheteira da Puerta del Príncipe a partir das 17h00** e até ao fecho, com lotação limitada, e não se reservam online. Se calhar num domingo, experimente, mas não conte com isso como plano.
-
-## Como chegar e o que ver sem bilhete
-
-Fica na **Avenida de la Constitución**, em frente ao Real Alcázar: metro **Puerta de Jerez (L1)** e elétrico **Archivo de Indias**, a poucos minutos a pé.
-
-Se não conseguir entrar, de fora vê-se muito:
+Se não conseguir nada, de fora vê-se muito:
 
 - A **Giralda** a partir da **Plaza Virgen de los Reyes**, a melhor vista ao nível da rua.
-- As fachadas góticas e a Puerta de la Asunción a partir da Avenida de la Constitución.
-- A **Plaza del Triunfo**, entre a Catedral e o Alcázar, com a Puerta del Príncipe de um lado.
+- As fachadas góticas e a Puerta de la Asunción a partir da **Avenida de la Constitución**.
+- A **Plaza del Triunfo**, entre a Catedral e o Alcázar, com a Puerta del Príncipe de um dos lados.
 
-Se também lhe falta o Alcázar, em [o que fazer se os bilhetes do Alcázar de Sevilha estiverem esgotados](/pt/guides/sevilla/alcazar-de-sevilha-bilhetes-esgotados) tem as opções.
-
-[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
+E se também lhe faltar o Alcázar, em [o que fazer se os bilhetes do Alcázar estiverem esgotados](/pt/guides/sevilla/alcazar-de-sevilha-bilhetes-esgotados) tem as respetivas opções.
 
 [actividad: sevilla-catedral-giralda-alcazar-tour-guiado-3-5h]
 
-## Conselhos
+## Erros a evitar
 
-- **Compre só a partir de catedraldesevilla.es:** há sites que imitam o oficial, cobram mais e nem sempre dão um bilhete válido.
-- **Confirme se o tour inclui a entrada** antes de pagar, ou fica à porta.
-- **Seja pontual:** a hora do bilhete é a hora de acesso.
-- **Ombros cobertos e sem mochila grande:** as normas pedem-no, e não deixam subir à Giralda com mochilas médias ou grandes.
-- Se só tiver um dia, encaixe a Catedral em [Sevilha num dia](/pt/guides/sevilla/sevilha-num-dia-a-partir-de-madrid).
+1. **Comprar em sites que imitam o oficial.** Cobram a mais e nem sempre dão um bilhete válido. Entre sempre a partir de `catedraldesevilla.es`.
+2. **Reservar um tour sem ler se inclui a entrada.** Paga o guia e fica à porta.
+3. **Chegar atrasado à sua hora.** A hora do bilhete é a de acesso, e chegar tarde não dá direito a reembolso.
+4. **Ir com os ombros descobertos ou com mochila grande.** As normas pedem ombros cobertos e não deixam subir à Giralda com mochilas médias ou grandes.
+
+## Numa frase
+
+Se o site oficial estiver esgotado, experimente a bilheteira da Puerta del Príncipe antes das 18h00, veja as coberturas ou reserve um bilhete com hora ou uma visita guiada que o inclua; e se só tiver um dia, encaixe a Catedral em [Sevilha num dia](/pt/guides/sevilla/sevilha-num-dia-a-partir-de-madrid).

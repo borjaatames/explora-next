@@ -4,7 +4,7 @@ descripcion: 'Girona num dia: catedral, El Call, as casas do Onyar e as muralhas
 categoria: girona
 slug: o-que-ver-em-girona-num-dia
 fecha: '2026-04-25'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: true
@@ -16,16 +16,16 @@ keywords:
 - girona bairro judeu
 - roteiro girona
 faq:
-- pregunta: Pode-se ver Girona num dia?
-  respuesta: 'Sim. O centro histórico é compacto e percorre-se a pé: as casas do Onyar, a Catedral, El Call, os Banhos Árabes, Sant Pere de Galligants e a muralha cabem num percurso das 9:30 até meio da tarde, com paragem para almoçar. Mas não a trate como uma paragem de meia hora entre Barcelona e a Costa Brava: merece o dia inteiro.'
-- pregunta: Como ir de Barcelona a Girona?
-  respuesta: 'De AVE ou Avant desde Sants em 38 minutos, com partidas toda a manhã; o regional demora 1 h 20 e custa metade. A estação fica a 15 minutos a pé do centro histórico. De carro, não entre no Barri Vell, que é pedonal: estacione no parque da Devesa ou no da estação.'
-- pregunta: Quanto custa entrar na Catedral de Girona?
-  respuesta: A Catedral e Sant Feliu visitam-se com um bilhete conjunto de 7,50 € em 2026, com audioguia incluído. Aos domingos e feriados a Catedral abre às 12:00. A muralha é grátis, os Banhos Árabes custam poucos euros e o Museu de História dos Judeus, 4 €.
-- pregunta: Qual é a melhor época para visitar Girona?
-  respuesta: De abril a junho e de setembro a outubro. No Temps de Flors (meados de maio, nove dias) a cidade enche-se de flores, mas fica massificada e os hotéis esgotam com semanas; no inverno não há filas. No fim de outubro são as festas de Sant Narcís, com ambiente local e sem a saturação de maio.
-- pregunta: Vale a pena um tour guiado por Girona?
-  respuesta: 'Se só reservar uma coisa, que seja o tour a pé em grupo reduzido pelo Barri Vell (desde 35 €): 2 h 30 pela muralha, catedral, El Call e ponte de Eiffel, e no fim o guia recomenda o que ver por dentro e onde comer. As entradas nos monumentos pagam-se à parte. Se preferir ir ao seu ritmo, o audioguia da app DareMapp custa 5 €.'
+  - pregunta: "É possível ver Girona num dia?"
+    respuesta: "Sim. O centro histórico é compacto e faz-se a pé: as casas do Onyar, a Catedral, El Call, os Banhos Árabes, Sant Pere de Galligants e as muralhas cabem num percurso das 9h30 até meio da tarde, com pausa para almoço. Só não a trate como uma paragem de meia hora entre Barcelona e a Costa Brava: merece o dia inteiro."
+  - pregunta: "Como ir de Barcelona a Girona?"
+    respuesta: "O AVE ou o Avant desde Sants demora 38 minutos, com partidas durante toda a manhã; o comboio regional demora 1h20 e custa cerca de metade. A estação fica a 15 minutos a pé do centro histórico. Se for de carro, não entre no Barri Vell, que é pedonal: estacione na Devesa ou no parque da estação."
+  - pregunta: "Quanto custa visitar a Catedral de Girona?"
+    respuesta: "A Catedral e Sant Feliu partilham um bilhete, 7,50 € em 2026, com audioguia incluído. Aos domingos e feriados a Catedral abre às 12h00. As muralhas são gratuitas, os Banhos Árabes custam poucos euros e o Museu de História dos Judeus custa 4 €."
+  - pregunta: "Qual é a melhor altura para visitar Girona?"
+    respuesta: "De abril a junho e de setembro a outubro. Durante o Temps de Flors (meados de maio, nove dias) a cidade enche-se de flores, mas fica a abarrotar e os hotéis esgotam com semanas de antecedência; no inverno não há filas. No final de outubro há as festas de Sant Narcís, com ambiente local e sem as multidões de maio."
+  - pregunta: "Vale a pena uma visita guiada a Girona?"
+    respuesta: "Se só reservar uma coisa, que seja a visita a pé em grupo reduzido pelo Barri Vell (4,8★, desde 35 €): 2h30 pelas muralhas, a catedral, El Call e a ponte Eiffel, terminando com dicas sobre o que visitar por dentro e onde comer. Os bilhetes dos monumentos pagam-se à parte. Se preferir ir ao seu ritmo, o audioguia autoguiado da DareMapp custa 5 €."
 slugs:
   es: que-ver-en-girona-en-un-dia
   en: what-to-see-in-girona-in-one-day
@@ -34,8 +34,7 @@ slugs:
   it: cosa-vedere-a-girona-in-un-giorno
   pt: o-que-ver-em-girona-num-dia
 reservasArriba: true
-intro: '**O que ver em Girona** cabe num dia bem aproveitado. O centro histórico, compacto e para percorrer a pé, reúne a nave gótica mais larga do mundo, **El Call**, um dos bairros judeus medievais mais bem conservados da Europa, as casas coloridas do Onyar, banhos do século XII e a muralha, o melhor miradouro. As suas ruas foram cenário de A Guerra dos Tronos, e fica a 38 minutos de Barcelona de AVE.'
-respuestaCorta: 'O que ver em Girona cabe num dia: fica a **38 minutos de Barcelona de AVE** e o centro histórico percorre-se a pé (Catedral, El Call, casas coloridas do Onyar e muralha). A Catedral e Sant Feliu têm bilhete conjunto (**7,50 €**, com audioguia); a muralha é grátis e os Banhos Árabes custam poucos euros.'
+respuestaCorta: "Sim, **Girona vê-se bem num dia**: fica a **38 minutos de Barcelona de comboio de alta velocidade** e o centro histórico faz-se a pé (a Catedral, El Call, as casas coloridas do Onyar e as muralhas). [A Catedral e Sant Feliu](/en/cities/girona/activities/girona-cathedral-art-museum-sant-feliu-ticket) partilham um bilhete (cerca de 7,50 €, audioguia incluído); as muralhas e os Banhos Árabes são quase gratuitos."
 actividades:
   - girona-tour-a-pie-grupo-reducido
   - girona-catedral-museu-art-sant-feliu-entrada
@@ -48,6 +47,7 @@ actividades:
 imagen_portada: "/images/guias/que-ver-en-girona-en-un-dia.jpg"
 imagen_alt: "O rio Onyar e as suas casas coloridas em Girona"
 ---
+**Girona vê-se facilmente num dia.** O centro histórico é compacto e faz-se a pé: a catedral, o Call, as casas coloridas do Onyar e as muralhas. Fica a 38 minutos de Barcelona de comboio de alta velocidade.
 
 ## Visitas recomendadas
 
@@ -61,51 +61,48 @@ imagen_alt: "O rio Onyar e as suas casas coloridas em Girona"
 | Desde Barcelona com a Costa Brava | [Girona, Pals e Calella de Palafrugell em grupo reduzido](/en/cities/girona/activities/girona-costa-brava-small-group-hotel-pickup), 4,8★ (2096) | 98,50 € |
 | Desde Barcelona com Dalí | [Girona, Figueres, Dalí e Cadaqués](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4,7★ (2352) | 40 € |
 
-## O percurso de um dia por Girona
-
-| Hora | Paragem |
-| --- | --- |
-| 9:30 | Casas do Onyar e ponte de ferro de Eiffel |
-| 10:00 | Catedral e escadaria |
-| 11:30 | El Call (bairro judeu) |
-| 13:00 | Banhos Árabes e Sant Pere de Galligants |
-| 14:00 | Almoço no Barri Vell |
-| 16:30 | Passeio pela muralha |
-
-Tudo a pé e com subidas. Aos domingos e feriados, troque a Catedral por El Call: a Catedral só abre às 12:00.
+Se só reservar uma coisa, que seja a visita a pé na primeira manhã: 2h30 pelas muralhas, a catedral, o Call e a ponte Eiffel, terminando com dicas sobre o que visitar por dentro e onde comer. Decorre sempre ao ar livre, por isso os bilhetes dos monumentos pagam-se à parte.
 
 [actividad: girona-walking-tour-small-group]
 
-## O que ver em Girona: da catedral a El Call
+## Como chegar e quando ir
 
-- **Casas do Onyar:** a melhor vista é das pontes, sobretudo da de ferro vermelho construída pela empresa de Eiffel. Quinze minutos chegam.
-- **Catedral:** a sua nave gótica é a **mais larga do mundo, com 23 metros**, e o tesouro guarda a românica **Tapeçaria da Criação**. Justificam a entrada.
-- **El Call:** um dos bairros judeus medievais mais bem conservados da Europa. Percorra a carrer de la Força e as suas vielas, e junte o Museu de História dos Judeus se a história do bairro o prender.
-- **Banhos Árabes:** banhos do século XII, pequenos e rápidos de ver (15-30 minutos). Em frente fica Sant Pere de Galligants.
-- **Muralha:** o melhor miradouro da cidade, e quase ninguém sobe. Melhor ao pôr do sol. O passeio é grátis, mas tem escadas íngremes.
+- **De comboio desde Barcelona:** AVE ou Avant desde Sants em 38 minutos, com partidas durante toda a manhã; o comboio regional demora 1h20 e custa cerca de metade. A estação fica a 15 minutos a pé do centro histórico.
+- **De carro:** não entre de carro no Barri Vell, que é pedonal e íngreme. Estacione na Devesa ou no parque da estação e atravesse o rio.
+- **Bilhetes a ter em conta:** a Catedral e Sant Feliu partilham um bilhete (7,50 € em 2026, audioguia incluído); as muralhas são gratuitas, os Banhos Árabes custam poucos euros e o Call é um bairro aberto. O Museu de História dos Judeus custa 4 €.
+- **Melhor altura do ano:** de abril a junho e de setembro a outubro. Durante o **Temps de Flors** (meados de maio, nove dias) pátios e monumentos cobrem-se de flores: é bonito, mas a cidade fica a abarrotar e os hotéis esgotam com semanas de antecedência. No inverno não há filas.
+- **Festas de Sant Narcís** (final de outubro): feira popular, concertos e ambiente local, sem as multidões de maio.
 
-## Girona e A Guerra dos Tronos
+## Percurso de um dia
 
-O percurso passa por todos os [cenários de A Guerra dos Tronos](/pt/guides/girona/girona-guerra-dos-tronos), por isso não precisa de outra manhã: a escadaria da Catedral foi o Grande Septo de Baelor e Sant Pere de Galligants a Cidadela de Vilavelha. Mas não venha só pelas fotos da série: a cidade é muito mais do que um cenário.
+| Hora | Paragem |
+| --- | --- |
+| 9h30 | Casas do Onyar e a ponte de ferro de Eiffel |
+| 10h00 | Catedral e escadaria |
+| 11h30 | O Call (bairro judeu) |
+| 13h00 | Banhos Árabes e Sant Pere de Galligants |
+| 14h00 | Almoço no Barri Vell |
+| 16h30 | Passeio pelas muralhas |
 
-## Como chegar, preços e quando ir
+- **Casas do Onyar:** a melhor vista é a partir das pontes, sobretudo a de ferro vermelha construída pela empresa de Eiffel. Quinze minutos chegam.
+- **Catedral:** a sua nave gótica é a mais larga do mundo, com 23 metros, e o tesouro guarda a Tapeçaria da Criação, românica. A escadaria foi o Grande Septo de Baelor em Guerra dos Tronos. **Aos domingos e feriados abre às 12h00**, por isso nesse dia troque-a com o Call.
+- **O Call:** um dos bairros judeus medievais mais bem conservados da Europa. Percorra a Carrer de la Força e as vielas laterais, e junte o Museu de História dos Judeus se a história do bairro o cativar.
+- **Banhos Árabes:** uns banhos do século XII, pequenos e rápidos de ver (15–30 minutos). Sant Pere de Galligants, do outro lado da rua, foi a Cidadela em Vilavelha.
+- **Muralhas:** o melhor miradouro da cidade, e pouca gente sobe. Melhor ao pôr do sol. O passeio é gratuito, mas tem degraus íngremes.
 
-- **De comboio desde Barcelona:** AVE ou Avant desde Sants em **38 minutos**, com partidas toda a manhã; o regional demora 1 h 20 e custa metade. A estação fica a 15 minutos a pé do centro histórico.
-- **De carro:** não entre no Barri Vell, pedonal e cheio de subidas. Estacione no parque da Devesa ou no da estação e atravesse o rio.
-- **Entradas:** a Catedral e Sant Feliu visitam-se com bilhete conjunto (**7,50 €** em 2026, com audioguia). A muralha é grátis, os Banhos Árabes custam poucos euros, El Call é um bairro aberto e o Museu de História dos Judeus custa 4 €.
-- **Melhor época:** de abril a junho e de setembro a outubro. No **Temps de Flors** (meados de maio, nove dias) pátios e monumentos cobrem-se de flores: lindo, mas a cidade fica massificada e os hotéis esgotam com semanas. No inverno não há filas.
-- **Festas de Sant Narcís** (fim de outubro): feira, concertos e ambiente local, sem a saturação de maio.
+O percurso passa por todos os [locais de Guerra dos Tronos](/en/guides/girona/girona-game-of-thrones), por isso não precisa de uma manhã à parte para eles.
 
 ## Onde comer
 
-Procure cozinha do Empordà no Barri Vell, **uma rua para dentro da Rambla**: as esplanadas da Rambla são mais caras. Prove um **xuixo**, o doce típico recheado de creme, e um gelado da **Rocambolesc**.
+Procure cozinha do Empordà no Barri Vell, uma rua atrás da Rambla (as esplanadas da Rambla são mais caras). Prove um **xuixo**, o bolo local recheado de creme, e um gelado no **Rocambolesc**.
 
-## Dicas
+## Erros a evitar
 
-- **Dê-lhe o dia inteiro:** não é uma paragem de meia hora entre Barcelona e a Costa Brava.
-- **Comece com um tour a pé** se quiser contexto: 2 h 30 pela muralha, catedral, El Call e ponte de Eiffel, e no fim o guia diz-lhe o que visitar por dentro e onde comer. Entradas à parte. Ao seu ritmo: audioguia da app DareMapp por 5 €.
-- **Não salte a muralha** nem o interior da catedral.
-- **No Temps de Flors,** reserve hotel e restaurante com tempo.
-- **Se lhe sobrar tempo,** veja as [escapadinhas à Costa Brava a partir de Girona](/pt/guides/girona/escapadinhas-costa-brava-a-partir-de-girona).
+1. **Tratá-la como uma paragem de meia hora** entre Barcelona e a Costa Brava: Girona merece um dia inteiro.
+2. **Não entrar na catedral:** a nave e a Tapeçaria da Criação valem o bilhete.
+3. **Comer na primeira esplanada da Rambla:** uma rua atrás, a comida melhora e os preços baixam.
+4. **Saltar as muralhas:** são o melhor miradouro e quase ninguém sobe. Vá com a luz do fim da tarde.
+5. **Vir só pelas fotografias de Guerra dos Tronos:** a cidade é muito mais do que um cenário de filmagens.
+6. **Vir durante o Temps de Flors sem reservar:** hotéis e restaurantes enchem.
 
-[actividad: girona-tour-a-pie-grupo-reducido]
+Se tiver mais tempo, veja as [excursões à Costa Brava desde Girona](/en/guides/girona/costa-brava-day-trips-from-girona).

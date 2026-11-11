@@ -5,13 +5,13 @@ metaTitle: 'Sagrada Familia Tickets: Preise und Tipps'
 categoria: "barcelona"
 slug: "sagrada-familia-besichtigen"
 fecha: "2026-05-02"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: "/images/guias/sagrada-familia-como-visitar.jpg"
 imagen_alt: "Türme und Fassade der Sagrada Família in Barcelona"
-tiempo_lectura: 4
+tiempo_lectura: 10
 keywords:
   - 'sagrada familia tickets'
   - 'sagrada familia eintritt'
@@ -27,24 +27,11 @@ slugs:
   it: sagrada-familia-come-visitarla
   pt: sagrada-familia-como-visitar
 reservasArriba: true
-intro: 'Mit **Sagrada Família Tickets** betrittst du Gaudís unvollendete Basilika: ein Kirchenschiff, dessen Säulen sich wie Bäume verzweigen, **Glasfenster**, die das Licht morgens blau und nachmittags rot färben, zwei gegensätzliche Fassaden und die Krypta mit seinem Grab. Seit 2026 ist sie mit dem **Turm Jesu** die höchste Kirche der Welt. Für den Besuch brauchst du 1 Std. 30 bis 2 Stunden.'
-respuestaCorta: '**Sagrada Família Tickets** gibt es nur auf sagradafamilia.org, am besten **4-6 Wochen vorher** (im Sommer sofort nach Verkaufsstart, etwa zwei Monate vorher): **Eine Kasse gibt es nicht**. Das **Basisticket mit Audioguide kostet 26 €**, mit Turm 36 €. Buch das **Zeitfenster um 9:00 Uhr**, die Stunde der Stille, und rechne mit 1 Std. 30 bis 2 Stunden.'
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-tour-con-torre
   - park-guell-entrada-zona-monumental
-faq:
-- pregunta: Was kostet ein Sagrada-Família-Ticket 2026?
-  respuesta: Das Basisticket kostet 26 € und umfasst den Eintritt in die Basilika plus einen herunterladbaren Audioguide in 19 Sprachen. Mit Turmbesteigung 36 €, die Gruppenführung 30 € (40 € mit Türmen). Einwohner Barcelonas erhalten im ganzen Jahr 2026, dem Gaudí-Jahr, 50 % Rabatt per E-Mail an residents@ext.sagradafamilia.org mit Meldebescheinigung.
-- pregunta: Wie früh sollte man die Sagrada Família buchen?
-  respuesta: 4 bis 6 Wochen vorher für ein gutes Zeitfenster, und im Juli, August, an Ostern oder spanischen Brückentagen sofort nach Verkaufsstart, etwa zwei Monate vorher. Tickets gibt es nur online auf sagradafamilia.org oder über die Kauf-QR-Codes rund um die Kirche, falls noch Platz ist; eine Kasse gibt es nicht.
-- pregunta: Lohnt sich der Aufpreis für die Türme?
-  respuesta: Für die meisten Erstbesucher nicht. Hinauf geht es mit dem Aufzug, hinunter über eine enge Wendeltreppe; nicht rollstuhlgerecht und nichts bei Höhenangst, und von oben siehst du die Türme nicht ganz. Das Wichtigste, die Glasfenster, ist schon im Basisticket für 26 € enthalten.
-- pregunta: Welche Kleiderordnung gilt in der Sagrada Família?
-  respuesta: 'Es ist eine aktive Kirche: Schultern bedeckt, Röcke und Shorts mindestens bis zur Mitte des Oberschenkels, nichts Durchsichtiges, keine Badekleidung oder Strandschlappen und drinnen keine Kappen oder Hüte. Das Sicherheitspersonal verweigert sonst den Einlass.'
-- pregunta: Was ist die Stunde der Stille in der Sagrada Família?
-  respuesta: 'Seit dem 2. Februar 2026 ist täglich von 9:00 bis 10:00 Uhr die Stunde der Stille: Kopfhörer für Audioguides sind Pflicht, kein Ton über Lautsprecher, drinnen herrscht Ruhe. Es ist auch die beste Besuchszeit, mit weniger Menschen und Morgenlicht in den Ostfenstern.'
 opciones:
   - ficha: entrada-sagrada-familia-audioguia
     etiqueta: Am günstigsten
@@ -54,52 +41,151 @@ opciones:
     etiqueta: Kleine Gruppe
 ---
 
-## Was du siehst und in welcher Reihenfolge
+Die Sagrada Familia ist **das meistbesuchte Monument Barcelonas** — rund 4,5 Millionen Menschen im Jahr —, und wie bei allen Sehenswürdigkeiten dieser Größenordnung verlassen die meisten Besucher sie mit dem Gefühl, etwas Wichtiges gesehen zu haben, ohne es wirklich verstanden zu haben. Das ist schade, denn nur wenige Gebäude der Welt belohnen eine gute Vorbereitung so sehr: die absichtlich ausgerichteten Glasfenster, die Symbole an jeder Säule, die Mathematik hinter der Geometrie, die Entscheidungen, die Gaudí vor seinem Tod schriftlich hinterließ, und jene, die seine Nachfolgerarchitekten gerade jetzt treffen.
 
-1. **Geburtsfassade:** die einzige, die zu Gaudís Lebzeiten fertig wurde, jede Figur, jedes Tier und jede Pflanze voller Symbolik. Hier gehst du hinein.
-2. **Das Kirchenschiff:** Die Säulen neigen sich und verzweigen sich in 25 Metern Höhe wie Bäume; sie tragen das Gewölbe ohne einen einzigen Strebebogen.
-3. **Die Glasfenster:** im Osten (Geburt) in Blau- und Grüntönen, im Westen (Passion) in Rot und Orange. Morgens leuchten die einen, nachmittags die anderen. Wenn du nur einmal gehen kannst: morgens.
-4. **Passionsfassade:** streng und fast kubistisch, von Subirachs nach Skizzen Gaudís, bewusst das Gegenstück zur Geburtsfassade.
-5. **Krypta und Gaudí-Museum** im Untergeschoss: Gaudís Grab, die Hängemodelle und die Pläne. Eine Viertelstunde, die alles oben erklärt.
+Dieser Guide hilft dir, sie mit Anspruch zu besichtigen. Ticketarten und welche zu dir passt, **2026 als Gaudí-Jahr** (Zentenarium seines Todes und Einweihung des Turms Jesu am 10. Juni), welchen Turm man besteigen sollte, falls man sich dafür entscheidet, wie die neue Stunde der Stille funktioniert, Kleiderordnung und die Fehler, die wir jede Woche beobachten. Daten, abgeglichen mit der offiziellen Website.
 
-Realistisch: **1 Std. 30 bis 2 Stunden** ohne Türme, **2 Std. 30 bis 3** mit Türmen.
+## Warum 2026 ein besonderes Jahr ist
 
-[actividad: sagrada-familia-tour-con-torre]
+Gaudí starb am 10. Juni 1926, überfahren von einer Straßenbahn in der Nähe der Sagrada Familia auf dem Weg zur Messe. **2026 ist das Zentenarium**, und die Basilika feiert es mit dem ehrgeizigsten Projekt seit seinem Tod: **dem Turm Jesu**, **172,5 Meter hoch**, der die Sagrada Familia zur **höchsten Kirche der Welt** macht. Das sechsarmige Kreuz, das ihn krönt, wurde im **Februar 2026** angebracht, und am **10. Juni 2026**, genau zum Zentenarium, wurde der Turm eingeweiht.
 
-## Preise und Öffnungszeiten der Sagrada Família
+> **⚠️ Hinweis:** die Sagrada Familia hat dieses Jahr **deutlich mehr Andrang** wegen des Jubiläums und der Einweihung. Reserviere mit mehr Vorlauf als sonst und stell dich besonders in den Monaten Juni, Juli und August auf dichtere Schlangen ein.
 
-- **Basis:** 26 €, Basilika plus Audioguide in 19 Sprachen. Für den ersten Besuch reicht das.
-- **Mit Führung:** 30 €, offizieller Guide in der Gruppe, 1 Std. 30.
-- **Mit Turm:** 36 €. **Führung mit Türmen:** 40 €.
-- **Ermäßigungen:** Senioren 21 €; Studierende und unter 30 mit Carnet Jove 24 €; **unter 11 Jahren gratis** (zwei pro Erwachsenem), mit personalisiertem Ticket. 2026 erhalten Einwohner Barcelonas mit Meldebescheinigung 50 % Rabatt.
+Der Basilika stehen bis etwa 2035 noch abschließende Arbeiten bevor (einschließlich der Fassade der Herrlichkeit), aber die charakteristische Silhouette ist mit dem 2026 eingeweihten Turm Jesu praktisch vollständig.
 
-**Öffnungszeiten:** April bis September 9:00 bis 20:00 Uhr; März und Oktober bis 19:00; November bis Februar bis 18:00. **Samstags** immer bis 18:00, **sonntags ab 10:30 Uhr**. Letzter Einlass 45 Minuten vor Schluss. Am 25. und 26. Dezember sowie am 1. und 6. Januar nur 9:00 bis 14:00 Uhr.
+## Welches Ticket solltest du wählen?
 
-## Sagrada Família Tickets kaufen (und wenn sie ausverkauft sind)
+| Ticket | Preis | Was enthalten ist |
+| --- | --- | --- |
+| Sagrada Familia (Basis) | 26 € | Zugang zur Basilika + herunterladbarer Audioguide |
+| Mit Führung | 30 € | Zugang + offizielle Gruppenführung (1 Std. 30 Min.) |
+| Mit Türmen | 36 € | Basis + Aufstieg zu einem der beiden Türme |
+| Führung + Türme | 40 € | Vollständige Führung mit Türmen |
 
-**Verkauft wird nur online** auf sagradafamilia.org (oder über die Kauf-QR-Codes rund um die Kirche, falls noch Platz ist); **eine Kasse gibt es nicht**. Mit 4-6 Wochen Vorlauf wählst du dein Zeitfenster; eine Woche vorher wird es in der Saison schwierig, am selben Tag fast unmöglich. Für Ostern, Brückentage und Sommer kaufst du sofort nach Verkaufsstart, etwa zwei Monate vorher. Meide inoffizielle Seiten, die 5-15 € Gebühr verlangen.
+> **⭐ Tipp:** für einen ersten Besuch reicht das **Basisticket mit Audioguide (26 €)** aus. Der offizielle Audioguide ist gut gemacht und in 19 Sprachen verfügbar. Die Gruppenführung (30 €) ist sinnvoll, wenn du die Symbolik gründlich verstehen willst, bindet dich aber an eine feste Uhrzeit und ein festes Tempo.
+
+**Verfügbare Ermäßigungen**: Rentner (21 €), unter 30-Jährige mit Jugendausweis (24 €) und Studierende (24 €). **Kinder unter 11 Jahren haben freien Eintritt** (maximal zwei pro Erwachsenem), brauchen aber ein **personalisiertes Ticket**, das beim selben Kauf mit ausgestellt wird. Menschen mit einer Behinderung von ≥ 65 % kostenlos mit einer Begleitperson.
+
+> **⚠️ Hinweis:** **Einwohner von Barcelona können die Sagrada Familia während des gesamten Jahres 2026 mit 50 % Ermäßigung besuchen**, sofern sie ihren Wohnsitz nachweisen. Die Aktion ist eine Ausnahme aufgrund des Gaudí-Jahres. Wer in der Stadt lebt, schreibt an `residents@ext.sagradafamilia.org` mit einer Kopie des Personalausweises oder eines aktuellen Meldenachweises.
 
 [actividad: entrada-sagrada-familia-audioguia]
 
-Ist alles weg, haben Führungen eigene Kontingente: Wir vergleichen sie in [welches Ticket du wählen solltest](/de/guides/barcelona/sagrada-familia-welches-ticket-waehlen), und alle Alternativen findest du in [Sagrada Família Tickets ausverkauft](/de/guides/barcelona/sagrada-familia-tickets-ausverkauft).
+## Auf die Türme steigen? Nacimiento oder Pasión
 
-## Welchen Turm besteigen?
+Die häufigste Frage nach "welches Ticket kaufe ich": lohnt sich der Aufpreis für den Turmaufstieg? Hier die ehrliche Antwort. Es gibt **zwei** Turmaufstiege, aber mit deinem Ticket besteigst du nur einen, und aussuchen kannst du ihn nicht: Das Monument teilt ihn je nach Tag und Bauarbeiten zu (kostet 10 € Aufpreis auf das Basisticket):
 
-Das Ticket gilt für **nur einen Turm**, und du wählst ihn nicht selbst: Das Monument teilt ihn je nach Tag und Bauarbeiten zu. Der **Geburtsturm** blickt aufs Meer und auf Gaudís ursprüngliche Fassade, der **Passionsturm** auf das Eixample, schlichter.
+| Turm | Ausblick | Atmosphäre |
+| --- | --- | --- |
+| Nacimiento (Geburt Christi) | Richtung Meer und alte Fassade | Ursprünglicher, Glasfenster der Ostseite |
+| Pasión (Passion) | Richtung Eixample, städtischer Ausblick | Moderner, nüchternere Linien |
 
-Hinauf geht es mit dem Aufzug, hinunter über eine **enge Wendeltreppe**: nichts bei Höhenangst, Platzangst, im Rollstuhl oder für Kinder unter 6. Von oben siehst du die Türme nicht ganz, und die Bunkers del Carmel oder der Tibidabo bieten kostenlos ähnliche Ausblicke. Was den Besuch ausmacht, sind die Glasfenster von innen, und die hast du schon mit dem Basisticket: Musst du wählen, sind die 10 € im Park Güell besser angelegt.
+Die Argumente dagegen: Der Aufstieg erfolgt mit dem Aufzug, aber **der Abstieg über eine enge Wendeltreppe**. Nicht rollstuhlgerecht, nicht empfehlenswert bei Schwindel oder Klaustrophobie, und Kinder unter 6 Jahren dürfen nicht hinauf. Die Fotos der Turmspitzen machst du von innerhalb der Türme, du siehst sie also nicht vollständig. Und von anderen Orten in Barcelona (Búnkers del Carmel, Tibidabo) hast du vergleichbare oder bessere Ausblicke **kostenlos**.
 
-## Stunde der Stille und Gaudí-Jahr 2026
+> **⭐ Tipp:** wenn du zwischen dem Turm-Aufpreis und einem Besuch im Park Güell oder in der Casa Batlló wählen musst, verteile das Budget lieber anders. Bei der Sagrada Familia zählen vor allem **die Glasfenster von innen** — und die siehst du auch mit dem Basisticket.
 
-**Stunde der Stille.** Seit dem 2. Februar 2026 täglich von **9:00 bis 10:00 Uhr**: Kopfhörer Pflicht, kein Ton über Lautsprecher, Ruhe im Inneren. Es ist die beste Besuchszeit: weniger Menschen, Morgenlicht durch die Ostfenster und eine stille Atmosphäre. Buch das Zeitfenster um 9:00 Uhr.
+[actividad: sagrada-familia-tour-con-torre]
 
-**Gaudí-Jahr.** Am 10. Juni 2026 jährte sich Gaudís Tod zum hundertsten Mal, und an diesem Tag wurde der 172,5 Meter hohe **Turm Jesu** eingeweiht, der die Sagrada Família zur höchsten Kirche der Welt macht. Der Andrang ist größer denn je: Buch früher und rechne im Sommer mit dichten Schlangen. Die letzten Arbeiten, etwa an der Glorienfassade, dauern bis 2035.
+## Die Stunde der Stille (neu seit 2026)
 
-## Anreise, Kleiderordnung und Tipps
+Ab dem **2. Februar 2026** richtet die Basilika täglich die **Stunde der Stille zwischen 9:00 und 10:00 Uhr** ein. Es ist eine Initiative des Tempels, um den spirituellen Charakter des Raumes zu bewahren.
 
-- **Anreise:** Metro L2 und L5, Haltestelle Sagrada Família, direkt an der Basilika. Eingang an der Geburtsfassade in der Carrer de la Marina. Sei **15-20 Minuten vor** deinem Zeitfenster da.
-- **Kleiderordnung:** Es ist eine aktive Kirche, und am Einlass wird kontrolliert. Schultern bedeckt, Röcke und Shorts bis unter die Mitte des Oberschenkels, nichts Durchsichtiges, keine Badekleidung, Strandschlappen oder Kappen drinnen. Im Sommer werden täglich Leute abgewiesen; pack ein Tuch ein.
-- **Verboten:** Essen, Trinken, Blitz und Selfiesticks.
-- **Lass Krypta und Museum nicht aus**, und versuch nicht, alles in einer halben Stunde zu sehen.
+Während dieser Zeitspanne:
 
-Wie du sie in deine Reise einbaust, zeigen wir in [Barcelona an einem Tag](/de/guides/barcelona/barcelona-in-einem-tag) und [in 3 Tagen](/de/guides/barcelona/barcelona-in-3-tagen).
+- Ist die **Nutzung von Kopfhörern** für Audioguides oder jedes Audiogerät **Pflicht**.
+- Dürfen keine Audios über Lautsprecher abgespielt werden.
+- Wird um Stille im Inneren des Tempels gebeten.
+- Laufen die Besichtigungen normal weiter, unter Wahrung der Stille.
+
+> **⭐ Tipp:** die Stunde der Stille ist paradoxerweise **der beste Moment des Tages für einen Besuch**. Es sind weniger Menschen da, das Morgenlicht fällt durch die Glasfenster der Ostseite, und die Atmosphäre ist intimer. Reserviere, wenn möglich, das Zeitfenster um 9:00 Uhr.
+
+## Wann man reservieren sollte
+
+Die Sagrada Familia empfängt 4,5 Millionen Besucher im Jahr und arbeitet mit **Zeitfenstern mit begrenzter Kapazität**. Die Tickets werden **nur online** gekauft — an der Kasse gibt es keinen Verkauf, das ist wichtig zu wissen. Typische Vorlaufzeiten:
+
+| Vorlauf | Wahrscheinlichkeit für ein gutes Zeitfenster |
+| --- | --- |
+| 4-6 Wochen (empfohlen) | Hoch, du wählst deine bevorzugte Uhrzeit |
+| 2-4 Wochen | Mittel, möglicherweise nur noch schlechte Zeitfenster |
+| 1 Woche | Niedrig in der mittleren bis hohen Saison |
+| Vortag | Glückssache. Unwahrscheinlich in der Hochsaison |
+| Selber Tag | Fast unmöglich. Nur Stornierungen |
+
+> **⚠️ Hinweis:** während **2026 (Gaudí-Jahr), der Karwoche, Brückentagen und der sommerlichen Hochsaison** reservierst du am besten, sobald die Tickets in den Verkauf gehen, etwa zwei Monate im Voraus.
+
+**Nur auf der offiziellen Website kaufen**: `sagradafamilia.org`. Jede andere Website berechnet eine Provision und verkauft im schlimmsten Fall gefälschte Tickets. Ist die offizielle Website ausverkauft, haben geführte Touren (Civitatis, GetYourGuide, lokale Agenturen) reservierte Kontingente.
+
+## Öffnungszeiten und Anreise
+
+| Saison | Montag bis Freitag | Samstags | Sonntags |
+| --- | --- | --- | --- |
+| November - Februar | 9:00 - 18:00 Uhr | 9:00 - 18:00 Uhr | 10:30 - 18:00 Uhr |
+| März und Oktober | 9:00 - 19:00 Uhr | 9:00 - 18:00 Uhr | 10:30 - 19:00 Uhr |
+| April - September | 9:00 - 20:00 Uhr | 9:00 - 18:00 Uhr | 10:30 - 20:00 Uhr |
+
+**Letzter Einlass**: 45 Minuten vor Schließung. **Besondere Tage** (25.-26. Dezember, 1. und 6. Januar): nur 9:00 - 14:00 Uhr.
+
+**Anreise**: Metro **L2 (violett) und L5 (blau)**, Haltestelle **Sagrada Familia** (die Station liegt direkt am Fuß der Basilika). Bus 19, 33, 34, D50, H10 und B24. Der allgemeine Zugang ist **über die Fassade der Geburt Christi, in der c/ de la Marina**.
+
+## Kleiderordnung
+
+Die Sagrada Familia ist eine **aktive katholische Kirche** und hält an einer Kleiderordnung fest. Das ist nicht nur symbolisch: Bei der Zugangskontrolle wird sie durchgesetzt, und der Einlass kann verweigert werden. Die Regeln:
+
+- **Bedeckte Schultern.** Ärmellose T-Shirts, dünne Träger und bauchfreie Tops sind nicht erlaubt.
+- **Röcke und Hosen mindestens bis zur Mitte des Oberschenkels.** Keine zu kurzen Shorts.
+- **Keine durchsichtige Kleidung.**
+- **Keine Badebekleidung** oder Strandschlappen.
+- **Nicht barfuß.**
+- **Keine Mützen oder Hüte** im Kirchenschiff oder im Museum (außer aus religiösen oder gesundheitlichen Gründen).
+
+> **⚠️ Hinweis:** im Hochsommer kommen Menschen in Badekleidung und Trägertops an und wird ihnen der Zutritt verweigert. In der Nähe der Basilika gibt es Läden, in denen man Notfallkleidung kaufen kann, aber das kostet 30 Minuten. **Komm gekleidet, wie du es für eine europäische Kirche tun würdest**: lange Hose oder knielanger Rock, T-Shirt mit Ärmeln.
+
+## Empfohlener Besuchsplan
+
+**Realistische Zeit**: 1 Std. 30 Min. - 2 Std. ohne Türme, 2 Std. 30 Min. - 3 Std. mit Türmen. Die Basilika ist dicht, und es lohnt sich, sich nicht unter Druck zu setzen.
+
+| Uhrzeit | Aktivität |
+| --- | --- |
+| 9:00 Uhr | Einlass ins Gelände (Stunde der Stille) |
+| 9:00 - 9:30 Uhr | Fassade der Geburt Christi (die originale von Gaudí) von innen |
+| 9:30 - 10:00 Uhr | Hauptschiff, baumförmige Säulen, Glasfenster der Ostseite |
+| 10:00 - 10:30 Uhr | Fassade der Passion und Glasfenster der Westseite |
+| 10:30 - 11:00 Uhr | Krypta und Gaudí-Museum (im Untergeschoss) |
+| 11:00 - 11:30 Uhr | Aufstieg auf einen Turm (falls du das Ticket mit Türmen gekauft hast) |
+
+> **⭐ Tipp:** das Licht verändert das Innere je nach Uhrzeit vollkommen. **Morgens** leuchten die Glasfenster der Geburt Christi (Ostseite) in Blau- und Grüntönen. **Nachmittags** leuchten die Glasfenster der Passion (Westseite) in Rot-, Orange- und Gelbtönen. Wenn du nur einmal gehen kannst, geh vormittags — das Morgenlicht ist spektakulärer.
+
+## Was man drinnen sehen sollte
+
+**Das Hauptschiff.** Das Erste, was überrascht, ist, dass der Innenraum **nicht wie eine gotische Kirche wirkt**. Die Säulen sind nicht gerade: Sie neigen sich leicht und verzweigen sich ab 25 Metern Höhe wie Bäume. Gaudí studierte die Struktur von Bäumen und übernahm sie: die "Äste" der Säulen tragen das Gewölbe genau so, wie echte Äste die Baumkrone tragen. **Es gibt keinen einzigen äußeren Strebebogen**, weil das System der geneigten Säulen diese Arbeit im Inneren übernimmt.
+
+**Die Glasfenster.** Die Sagrada Familia hat einige der spektakulärsten Glasfenster der Welt, **entworfen und platziert nach symbolischen Ausrichtungen**: die der Geburt Christi (Osten) verwenden kühle Töne (Blau, Grün), weil sie das Morgenlicht und die Jugend Christi darstellen; die der Passion (Westen) verwenden warme Töne (Rot, Orange, Gelb), weil sie Blut, Sonnenuntergang und Tod darstellen. Wenn das natürliche Licht mit ihnen zusammenspielt, ist der Effekt kaum zu beschreiben.
+
+**Die Fassade der Geburt Christi.** Die einzige, die zu Gaudís Lebzeiten fertiggestellt wurde. Schau dir den Detailreichtum an: Jede Figur, jedes Tier, jede Pflanze hat eine symbolische Bedeutung. Es ist die Fassade, die **die ursprüngliche Absicht** des Architekten am besten bewahrt.
+
+**Die Fassade der Passion.** Ein weit nüchterneres Design, mit fast kubistischen geometrischen Figuren. Entworfen von Josep Maria Subirachs nach Skizzen Gaudís. **Umstritten unter Puristen**, aber genau dieser bewusste Kontrast zwischen dem Detailreichtum der Geburt-Christi-Fassade und der Härte der Passion ist beabsichtigt.
+
+**Die Krypta und das Gaudí-Museum.** Im Untergeschoss. Hier ist Gaudí begraben (er starb, bevor er die Basilika fertiggestellt sah), und ein Museum mit Modellen, Plänen und der Geschichte des Projekts. Unverzichtbar, um zu verstehen, was man oben sieht.
+
+## 8 typische Fehler von Besuchern
+
+**1. Nicht rechtzeitig online reservieren.** Reserviere 2026 (Gaudí-Jahr) mindestens 4-8 Wochen im Voraus.
+
+**2. Auf nicht offiziellen Websites kaufen.** Provisionen von 5-15 €. Offizielle Website: `sagradafamilia.org`. Punkt.
+
+**3. Zu spät zum Zeitfenster erscheinen.** Wie bei jedem Monument mit begrenzter Kapazität ist die Toleranz gering. Komm 15-20 Minuten vor deiner Uhrzeit.
+
+**4. Strandkleidung tragen.** Badekleidung, Trägertops, sehr kurze Hosen: dir wird der Zutritt verweigert. **Komm gekleidet wie für eine Kirche.**
+
+**5. Die Besuchszeit unterschätzen.** Wenn du ihr nur 30 Minuten widmest, hast du sie nicht gesehen. Mindestens 1 Std. 30 Min. ohne Türme, 2 Std. 30 Min. mit Türmen.
+
+**6. Drinnen essen oder trinken.** Verboten. Es gibt eine Kontrolle beim Einlass.
+
+**7. Selfie-Stick oder Blitz benutzen.** Verboten. Man wird darauf hingewiesen.
+
+**8. Krypta und Museum auslassen.** Im Gaudí-Museum im Untergeschoss versteht man alles: Hängemodelle, Originalpläne, Entwicklung des Projekts. Die zusätzlichen 15-20 Minuten lohnen sich.
+
+## In einem Satz
+
+Die Sagrada Familia belohnt jeden, der mit einem Mindestmaß an Planung kommt: ein 4-8 Wochen im Voraus reserviertes Ticket (im Gaudí-Jahr mehr), ein Vormittags-Zeitfenster, angemessene Kleidung (keine Strandkleidung), genug Zeit, um zu verstehen, was man sieht, und, falls es der erste Besuch ist, etwas historischer Kontext vorab. Machst du das, verlässt du das Gebäude, nachdem du das ehrgeizigste religiöse Bauwerk des letzten Jahrhunderts im Bau gesehen hast. Lässt du es sein, verlässt du es mit dem Gefühl, eine Stunde in einem Freizeitpark mit hübschen Glasfenstern verbracht zu haben.
+
+Wenn du nur wenige Tage in Barcelona bist, füge den Besuch in den Gesamtplan mit [Barcelona in einem Tag](/de/guides/barcelona/barcelona-in-einem-tag) oder [Barcelona in 3 Tagen](/de/guides/barcelona/barcelona-in-3-tagen) ein.

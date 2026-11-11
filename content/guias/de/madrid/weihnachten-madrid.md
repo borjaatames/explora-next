@@ -4,7 +4,7 @@ descripcion: "Weihnachten in Madrid 2026: wann die Lichter angehen, Plaza Mayor,
 categoria: "madrid"
 slug: "weihnachten-madrid"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-10'
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: false
@@ -26,21 +26,16 @@ slugs:
   it: natale-a-madrid
   pt: natal-em-madrid
 reservasArriba: true
-intro: '**Weihnachten in Madrid** taucht das Zentrum sechs Wochen lang in Licht: mehr als 250 beleuchtete Orte, der Weihnachtsmarkt auf der Plaza Mayor, die Krippe an der Puerta del Sol, Cortylandia und die Eisbahn an der Plaza de España. Dazu kommen Traditionen, die man nirgendwo sonst erlebt, von der Ziehung der Weihnachtslotterie im Teatro Real bis zu den Glockenschlägen an der Sol und dem Dreikönigsumzug.'
-respuestaCorta: 'Für **Weihnachten in Madrid** gehen die Lichter am **Samstag, 21. November**, an der Cibeles an und bleiben bis zum 6. Januar. Pflicht: der **Weihnachtsmarkt auf der Plaza Mayor**, **Cortylandia** in der Calle Preciados, die Lichter mit **Naviluz** oder im Tuk-Tuk und der **Dreikönigsumzug** am 5. Januar. Geh unter der Woche: Samstags ist das Zentrum dicht.'
+respuestaCorta: "Die Lichter gehen am **Samstag, 21. November**, an der Plaza de Cibeles an und bleiben bis zum 6. Januar, an über 250 Orten der Stadt. Pflichtprogramm: der **Weihnachtsmarkt auf der Plaza Mayor**, **Cortylandia** in der Calle Preciados, die Lichter im **Naviluz**-Bus oder im Tuk-Tuk und der **Dreikönigsumzug** am 5. Januar. Geh unter der Woche hin: An Dezember-Samstagen geht im Zentrum nichts mehr."
 faq:
-- pregunta: Wann gehen 2026 die Weihnachtslichter in Madrid an?
-  respuesta: Am Samstag, 21. November, mit einer Feier auf der Plaza de Cibeles; die Beleuchtung bleibt bis zum 6. Januar 2027. Die Uhrzeit hat die Stadt noch nicht bestätigt.
-- pregunta: Wann öffnet der Weihnachtsmarkt auf der Plaza Mayor?
-  respuesta: Von Ende November bis zum 31. Dezember, Eintritt frei. Am besten gegen 17:30, mit dem letzten Tageslicht und bevor es voll wird.
-- pregunta: Was kostet Naviluz und wie funktioniert es?
-  respuesta: Ein offener Bus, rund 50 Minuten, Abfahrt in der Calle Felipe IV neben dem Prado, stündlich von 18:00 bis 22:00. Er kostet etwa 12 € (6 € für Kinder von 7 bis 11; unter 7 gratis, aber mit Ticket) und ist ab 21:00 günstiger. Tickets gibt es auf naviluz.es, sie sind nicht umtausch- oder stornierbar, und am 24. und 31. Dezember sowie am 5. Januar fährt er nicht.
-- pregunta: Wie ist Silvester an der Puerta del Sol?
-  respuesta: 'Die Glockenschläge sind gratis, aber der Zugang schließt, sobald der Platz voll ist: vor 21:00 da sein und die Trauben geschält mitbringen. Weniger Andrang gibt es am 30. Dezember bei den „preúvas“, der Generalprobe, mit Platz für etwa 15.000 Menschen.'
-- pregunta: Welche Route hat der Dreikönigsumzug in Madrid?
-  respuesta: Er startet am 5. Januar um 18:00 an der Plaza de San Juan de la Cruz, zieht über die Castellana und Recoletos und endet gegen 21:00 an der Cibeles. Um etwas zu sehen, such dir einen Platz an der Castellana.
-- pregunta: "Was hat in Madrid am 25. Dezember und am 1. Januar geöffnet?"
-  respuesta: "Kaum ein Museum: Prado, Reina Sofía, Thyssen und Königspalast sind an beiden Tagen geschlossen. Es bleiben die Straßen, die Lichter und die Krippe an der Puerta del Sol. Am 24. und 31. öffnet der Prado von 10:00 bis 14:00, das Thyssen bis 15:00, und der Königspalast schließt um 15:00; das Reina Sofía bleibt zu."
+  - pregunta: "Wann gehen die Weihnachtslichter in Madrid an?"
+    respuesta: "Ende November; das genaue Datum gibt die Stadt im November bekannt. Die Beleuchtung bleibt bis Dreikönig und umfasst über 250 Orte in allen 21 Bezirken."
+  - pregunta: "Was ist Naviluz?"
+    respuesta: "Ein offener Doppeldeckerbus, der in etwa 50 Minuten an den Lichtern vorbeifährt, mit stündlichen Abfahrten von 18:00 bis 22:00 Uhr an der Calle Felipe IV beim Prado. Tickets gibt es auf naviluz.es für etwa 12 € (6 € für Kinder von 7 bis 11); sie lassen sich weder umbuchen noch stornieren. Am 24. und 31. Dezember und am 5. Januar fährt er nicht."
+  - pregunta: "Hat der Prado an Weihnachten geöffnet?"
+    respuesta: "Am 25. Dezember und 1. Januar ist er geschlossen. Am 24. und 31. Dezember sowie am 6. Januar öffnet er nur von 10:00 bis 14:00 Uhr. In den letzten zwei Stunden jedes Tages ist die Sammlung kostenlos, solange Platz ist."
+  - pregunta: "Wo feiert man Silvester in Madrid?"
+    respuesta: "An der Puerta del Sol, wo die Glockenschläge im Fernsehen übertragen werden. Der Zugang schließt, wenn der Platz voll ist: Komm vor 21:00 Uhr und bring die zwölf Trauben geschält mit. Am 30. Dezember gibt es mit den Preúvas eine Generalprobe mit viel weniger Andrang."
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour
@@ -49,83 +44,71 @@ actividades:
   - palacio-real-visita-guiada-golden-tour
   - excursion-toledo-segovia-alcazar
 ---
-
-## Madrid Weihnachten 2026: der Kalender
+## Der Kalender auf einen Blick
 
 | Was | Wo | Wann | Preis |
 | --- | --- | --- | --- |
-| Weihnachtsbeleuchtung | Zentrum und alle 21 Bezirke (Einschalten an der Cibeles) | 21. November 2026 – 6. Januar 2027 | Gratis |
-| Krippe der Real Casa de Correos | Puerta del Sol | Ende November – 6. Januar | Gratis |
-| Weihnachtsmarkt | Plaza Mayor | Ende November – 31. Dezember | Gratis |
-| Cortylandia | El Corte Inglés, Calle Preciados | Ende November – 5. Januar | Gratis |
-| Naviluz (Lichterbus) | Calle Felipe IV, neben dem Prado | Ende November – 6. Januar | Etwa 12 € (6 € Kinder) |
+| Weihnachtsbeleuchtung | Zentrum und alle 21 Bezirke (Einschalten an der Cibeles) | 21. November 2026 – 6. Januar 2027 | Kostenlos |
+| Krippe der Real Casa de Correos | Puerta del Sol | Ende November – 6. Januar | Kostenlos |
+| Weihnachtsmarkt | Plaza Mayor | Ende November – 31. Dezember | Kostenlos |
+| Cortylandia | El Corte Inglés, Calle Preciados | Ende November – 5. Januar | Kostenlos |
+| Naviluz (Lichterbus) | Calle Felipe IV, beim Prado | Ende November – 6. Januar | Etwa 12 € (Kinder 6 €) |
 | La Navideña und Eisbahn | Plaza de España | Ende November – Anfang Januar | Eisbahn kostenpflichtig |
-| Kunsthandwerksmesse | Paseo de Recoletos | 1. – 30. Dezember | Gratis |
-| Ziehung von El Gordo | Teatro Real | 22. Dezember, vormittags | Gratis, mit Eintrittskarte |
-| Preúvas | Puerta del Sol | 30. Dezember, Mitternacht | Gratis, begrenzte Kapazität |
-| Glockenschläge | Puerta del Sol | 31. Dezember | Gratis, begrenzte Kapazität |
-| Dreikönigsumzug | Castellana – Cibeles | 5. Januar, ab 18:00 | Gratis |
+| Kunsthandwerksmesse | Paseo de Recoletos | 1. – 30. Dezember | Kostenlos |
+| Ziehung von El Gordo | Teatro Real | 22. Dezember, vormittags | Kostenlos, mit Eintrittskarte |
+| Preúvas (Generalprobe) | Puerta del Sol | 30. Dezember, um Mitternacht | Kostenlos, begrenzt |
+| Glockenschläge an Silvester | Puerta del Sol | 31. Dezember | Kostenlos, begrenzt |
+| Dreikönigsumzug | Castellana – Cibeles | 5. Januar, ab 18:00 Uhr | Kostenlos |
 
-**Bestätigt (4. November 2026):** Die Stadt schaltet die Lichter am Samstag, 21. November, mit einer Feier auf der Plaza de Cibeles ein; sie bleiben bis zum 6. Januar 2027. Die Uhrzeit steht noch aus. Die übrigen Daten stammen aus der letzten Ausgabe, bis das Programm 2026 erscheint.
+**Bestätigt (4. November 2026):** Die Stadt schaltet die Lichter am Samstag, 21. November, mit einer Feier auf der Plaza de Cibeles ein; die Beleuchtung bleibt bis zum 6. Januar 2027. Die Uhrzeit steht noch nicht fest. Die übrigen Termine stammen aus der letzten Ausgabe, bis das Programm für 2026 erscheint.
 
-## Weihnachtsbeleuchtung in Madrid: so siehst du sie
+## Die Lichter sehen
 
-In diesem Jahr gibt es mehr als **250 beleuchtete Orte** und 14 Millionen LEDs, mit Lichtmotiven, die Madrider Schulkinder gezeichnet haben.
+Dieses Jahr gibt es über **250 beleuchtete Orte** und 14 Millionen LEDs, darunter Lichtmotive, die Madrider Schulkinder gezeichnet haben.
 
-- **Zu Fuß:** Sol, Preciados, Gran Vía und die Calle Alcalá bis zur Cibeles, dann die Serrano. Etwa zwei Stunden ohne Eile.
-- **Naviluz:** offener Bus, rund 50 Minuten, stündliche Abfahrten von 18:00 bis 22:00, ab 21:00 günstiger. Tickets gibt es auf naviluz.es, sie sind **nicht umtausch- oder stornierbar**, auch nicht bei Regen. Am 24. und 31. Dezember und am 5. Januar fährt er nicht.
-- **Im privaten Tuk-Tuk:** anderthalb Stunden für bis zu 4 Personen, ohne Schlangen und Warten in der Kälte. Er ist offen: zieh dich warm an.
+- **Zu Fuß:** Sol, Preciados, Gran Vía und Calle Alcalá bis Cibeles, dann Serrano. Gemütlich etwa zwei Stunden.
+- **Naviluz:** ein offener Bus, rund 50 Minuten, stündliche Abfahrten von 18:00 bis 22:00 Uhr, ab 21:00 Uhr günstiger. Tickets auf naviluz.es; sie **lassen sich weder umbuchen noch stornieren**, auch nicht bei Regen. Am 24. und 31. Dezember und am 5. Januar fährt er nicht.
+- **Im privaten Tuk-Tuk:** anderthalb Stunden für bis zu 4 Personen, ohne in der Kälte anzustehen. Es ist offen: Zieh dich warm an.
 
 [actividad: tuk-tuk-luces-navidad-madrid]
 
-## Ein Dezemberabend: Weihnachtsmarkt Madrid, Sol und Cortylandia
+## Ein Dezemberabend, gut geplant
 
-1. **17:30, Plaza Mayor:** der Weihnachtsmarkt im letzten Tageslicht, bevor es voll wird.
-2. **18:15, Puerta del Sol:** die Krippe der Real Casa de Correos (Schlange, aber sie bewegt sich) und der Baum.
-3. **19:00, Preciados:** Cortylandia, und von dort zur Gran Vía, wenn es dunkel ist und die Lichter am schönsten wirken.
-4. **20:00, Schokolade mit Churros in der San Ginés**, im Pasadizo de San Ginés neben der Sol. Seit 1894 geöffnet, donnerstags bis sonntags und vor Feiertagen rund um die Uhr.
-5. **21:00, Abendessen:** Tapas im Zentrum oder eine Flamenco-Show.
+1. **17:30 Uhr, Plaza Mayor:** der Weihnachtsmarkt im letzten Tageslicht, bevor es voll wird.
+2. **18:15 Uhr, Puerta del Sol:** die Krippe in der Real Casa de Correos (es gibt eine Schlange, aber sie bewegt sich) und der Baum.
+3. **19:00 Uhr, Preciados:** Cortylandia, dann weiter zur Gran Vía, wenn es dunkel ist und die Lichter am schönsten wirken.
+4. **20:00 Uhr, Churros mit Schokolade im San Ginés**, im Pasadizo de San Ginés neben Sol. Seit 1894 geöffnet, donnerstags bis sonntags und vor Feiertagen rund um die Uhr.
+5. **21:00 Uhr, Abendessen:** Tapas im Zentrum oder eine Flamenco-Show.
+
+Wer bei Kälte nicht so viel laufen will: Der **nächtliche Panoramabus** fährt die Strecke für dich ab, mit Erklärungen.
 
 [actividad: madrid-big-bus-night-tour]
 
-## Traditionen, Silvester und Heilige Drei Könige
+## Drei Traditionen, die nicht auf Postkarten stehen
 
-- **Die Lotterieziehung (22. Dezember):** im Teatro Real, mit kostenlosen nummerierten Karten, die man gegen Ausweis oder Pass an der Kasse abholt. Manche stehen schon ab der Nacht davor an: Wer in den letzten Jahren nach 4 Uhr morgens kam, blieb draußen.
-- **Die Schlange bei Doña Manolita:** Madrids berühmteste Lotterieannahmestelle, im Dezember mit stundenlangen Schlangen. Für das Foto früh an einem Werktag hingehen.
-- **Die preúvas (30. Dezember):** die Generalprobe der Glockenschläge, mit denselben Trauben und viel weniger Menschen. Gratis, Platz für etwa 15.000; bei der letzten Ausgabe wurde der Platz um 21:00 geschlossen und um 22:00 wieder geöffnet.
-- **Glockenschläge an der Sol (31. Dezember):** Der Zugang schließt, sobald der Platz voll ist. Vor 21:00 da sein und die Trauben geschält mitbringen.
-- **Dreikönigsumzug (5. Januar):** Start um 18:00 an der Plaza de San Juan de la Cruz, über die Castellana und Recoletos bis zur Cibeles gegen 21:00. Such dir einen Platz an der Castellana: An der Cibeles sieht man vor lauter Menschen nichts.
+- **Die Ziehung der Weihnachtslotterie (22. Dezember):** im Teatro Real, das Publikum kommt kostenlos hinein, mit nummerierter Karte, die man an der Kasse gegen Ausweis oder Reisepass abholt. Manche stehen schon ab dem Vorabend an: Bei den letzten Ausgaben war, wer nach 4 Uhr morgens kam, zu spät.
+- **Die Preúvas (30. Dezember):** die Generalprobe für die Glockenschläge, mit denselben Trauben und viel weniger Menschen als am 31. Kostenlos, mit Platz für etwa 15.000 Personen; bei der letzten Ausgabe wurde der Platz um 21:00 Uhr geschlossen und um 22:00 Uhr wieder geöffnet.
+- **Die Schlange vor Doña Manolita:** die berühmteste Lotterieannahme Madrids, im Dezember mit stundenlangen Schlangen. Wenn du nur das Foto willst, komm werktags ganz früh.
 
-## Mit Kindern und an Feiertagen
+## Mit Kindern
 
-**Mit Kindern:**
+- **Cortylandia** ist Programmpunkt Nummer eins: kostenlos und direkt neben Sol. Am besten unter der Woche nachmittags.
+- **Naviluz** kostet für Kinder von 7 bis 11 Jahren die Hälfte, unter 7 fahren gratis, brauchen aber ein Ticket.
+- Die **Eisbahn** an der Plaza de España arbeitet mit Zeitfenstern: Kauf das Ticket vorher auf ihrer Website.
 
-- **Cortylandia** ist der Plan Nummer eins: gratis und direkt neben der Sol. Am besten unter der Woche nachmittags.
-- **Naviluz** kostet für Kinder von 7 bis 11 Jahren die Hälfte; unter 7 fahren gratis, brauchen aber ein Ticket.
-- Die **Eisbahn** an der Plaza de España funktioniert mit Zeitfenstern: Ticket vorher auf ihrer Website kaufen.
+## Museen und Sehenswürdigkeiten an Feiertagen
 
-**Museen:** In den letzten zwei Stunden jedes Tages ist die Sammlung des Prado gratis, mit begrenzter Kapazität. Der Dezember ist ein guter Monat für den **Königspalast** und die Museen, mit kürzeren Schlangen als im Frühling. Mit einem freien Tag sind **Toledo und Segovia** der klassische Ausflug, im Winter ohne Hitze.
+Der **Prado** ist am 25. Dezember und 1. Januar geschlossen, am 24. und 31. Dezember sowie am 6. Januar nur von 10:00 bis 14:00 Uhr geöffnet. In den letzten zwei Stunden jedes Tages ist die Sammlung kostenlos, solange Platz ist. Der Dezember ist ein guter Monat für den **Königspalast** und die Museen, mit kürzeren Schlangen als im Frühling.
 
-## Was hat in Madrid am 24., 25. und 31. Dezember und am 1. Januar geöffnet?
+Wenn du einen freien Tag hast, ist der Ausflug nach **Toledo und Segovia** mit dem Alcázar der Klassiker, und im Winter ohne Hitze.
 
-| Ort | 24. und 31. Dezember | 25. Dezember | 1. Januar |
-| --- | --- | --- | --- |
-| Prado | 10:00–14:00 | Geschlossen | Geschlossen |
-| Museo Reina Sofía | Geschlossen | Geschlossen | Geschlossen |
-| Museo Thyssen | 10:00–15:00 | Geschlossen | Geschlossen |
-| Königspalast | Schließt um 15:00 | Geschlossen | Geschlossen |
-| Metro | 24.: bis 22:00 · 31.: bis 1:30 | Öffnet um 8:00 | Öffnet um 7:00 |
-| EMT-Busse | Letzter Tagesbus zwischen 19:30 und 21:45, danach Nachtbusse (búhos) | Feiertagsfahrplan | Feiertagsfahrplan |
+## Silvester und Heilige Drei Könige
 
-- **Am 6. Januar** öffnet der Prado von 10:00 bis 14:00; Reina Sofía und Königspalast sind geschlossen.
-- **Metrostation Sol, 30. und 31. Dezember:** ab 18:00 geschlossen wegen der Generalprobe und der Glockenschläge. Steig in Ópera, Callao oder Sevilla aus und geh zu Fuß.
-- **Geschäfte und Restaurants:** Am 24. und 31. schließt fast alles am Nachmittag, am 25. und 1. haben nur wenige Läden offen. Reserviere dein Abendessen.
-- **Der Königspalast** kann zusätzlich wegen offizieller Termine schließen: Schau am Vortag auf der Website von Patrimonio Nacional nach.
-
-*Öffnungszeiten der Museen und Sehenswürdigkeiten am 10. November 2026 auf den offiziellen Websites geprüft. Die Zeiten von Metro und Bus sind die vom letzten Weihnachten; die neuen erscheinen Mitte Dezember.*
+- **Glockenschläge an der Puerta del Sol:** Der Zugang wird geschlossen, sobald der Platz voll ist. Komm vor 21:00 Uhr und bring die Trauben geschält mit.
+- **Dreikönigsumzug:** Start um 18:00 Uhr an der Plaza de San Juan de la Cruz, dann die Castellana und Recoletos hinunter bis Cibeles, wo er gegen 21:00 Uhr endet. Stell dich an die Castellana: An der Cibeles sieht man vor lauter Menschen nichts.
 
 ## Typische Fehler
 
-- **An einem Dezember-Samstagnachmittag hingehen:** Sol und Preciados sind verstopft. Besser Dienstag oder Mittwoch.
-- **Das Essen am 24. oder 31. auf den letzten Moment verschieben:** Viele Restaurants schließen oder bieten nur ein festes Menü. Im November reservieren.
-- **Naviluz für einen Tag mit unsicherem Wetter buchen:** Bei Regen gibt es kein Geld zurück. Besser ein Plan, den man stornieren kann.
+- **An einem Dezember-Samstagnachmittag hingehen:** Sol und Preciados sind verstopft. Besser dienstags oder mittwochs.
+- **Das Essen am 24. oder 31. auf den letzten Drücker planen:** Viele Restaurants schließen oder bieten nur ein festes Menü. Reserviere schon im November.
+- **Naviluz für einen Regentag buchen:** Es gibt kein Geld zurück. Bei unsicherer Vorhersage lieber etwas, das sich stornieren lässt.

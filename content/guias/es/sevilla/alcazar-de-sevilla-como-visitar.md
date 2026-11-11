@@ -5,14 +5,14 @@ metaTitle: 'Entradas Alcázar Sevilla: precio y horarios'
 categoria: sevilla
 slug: alcazar-de-sevilla-como-visitar
 fecha: '2026-04-29'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: true
 imagen_portada: /images/guias/alcazar-de-sevilla-como-visitar.jpg
 imagen_alt: "Patio interior del Real Alcazar de Sevilla"
-tiempo_lectura: 4
+tiempo_lectura: 3
 keywords:
   - 'entradas alcázar sevilla'
   - 'real alcázar sevilla'
@@ -28,8 +28,7 @@ slugs:
   it: real-alcazar-di-siviglia-come-visitarlo
   pt: alcazar-de-sevilha-como-visitar
 reservasArriba: true
-intro: 'Antes de comprar tus **entradas del Alcázar de Sevilla**, conviene saber qué vas a ver: el **palacio real en uso más antiguo de Europa**: palacios y jardines que han crecido durante más de mil años junto a la Catedral. Dentro conviven el Patio del Yeso almohade, el Palacio mudéjar de Pedro I, con el Patio de las Doncellas y el Salón de Embajadores, y unos jardines inmensos. La visita lleva unas 2,5-3 horas.'
-respuestaCorta: 'Las entradas del Alcázar de Sevilla cuestan **15,50 €** la general y 8 € la reducida (menores de 13, gratis). Abre de **9:30 a 19:00** (abril-septiembre) y de 9:30 a 17:00 (octubre-marzo). En temporada alta la cola de taquilla **supera las 2 horas**: compra online con hora o ve con una visita que la incluya. Los lunes, última hora gratis.'
+respuestaCorta: 'La entrada general cuesta **15,50 €** y la visita lleva unas 2,5-3 horas. En temporada alta la cola de taquilla **supera las 2 horas** y el aforo se agota: compra la entrada online con hora o ve con una visita que ya la incluya. Entra a las 9:30, o en verano después de las 17:00, para evitar el calor en los jardines.'
 actividades:
   - real-alcazar-sevilla-entrada
   - real-alcazar-sevilla-visita-privada-guia-oficial
@@ -37,14 +36,10 @@ actividades:
   - sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
   - sevilla-catedral-giralda-alcazar-tour-guiado-3-5h
 faq:
-- pregunta: ¿Cuánto cuesta la entrada al Real Alcázar de Sevilla?
-  respuesta: 'La general cuesta 15,50 € y la reducida 8 € (mayores de 65, estudiantes de 14 a 30 años y Carné Joven). Entran gratis los menores de 13 años, las personas con discapacidad y los nacidos o residentes en Sevilla. El Cuarto Real Alto se paga aparte: 5,50 €.'
 - pregunta: ¿Cuánto tiempo hace falta para ver el Real Alcázar?
   respuesta: 'Unas 2,5-3 horas para ver los palacios y los jardines sin prisas. Los jardines ocupan más de la mitad del recinto: resérvales al menos 45 minutos.'
 - pregunta: ¿Hay que reservar la entrada del Alcázar con antelación?
-  respuesta: 'Sí, sobre todo de marzo a octubre: la cola en taquilla puede superar las 2 horas y el aforo diario se agota. Compra online con hora o elige una visita que ya incluya la entrada.'
-- pregunta: ¿Cuándo es gratis el Alcázar de Sevilla?
-  respuesta: 'Los lunes, durante la última hora: de 18:00 a 19:00 de abril a septiembre y de 16:00 a 17:00 de octubre a marzo. Hay que reservar online y las plazas se acaban en minutos.'
+  respuesta: 'Sí, sobre todo de marzo a octubre: la cola en taquilla puede superar las 2 horas. Un tour con acceso sin colas te evita la espera y te explica lo que ves.'
 - pregunta: ¿Qué es lo imprescindible del Alcázar?
   respuesta: El Patio de las Doncellas, el Salón de Embajadores, el Patio del Yeso, los Baños de Doña María de Padilla y los jardines.
 - pregunta: ¿Se puede combinar con la Catedral y la Giralda?
@@ -58,6 +53,8 @@ opciones:
     etiqueta: Con la Catedral
 ---
 
+El Real Alcázar es **el palacio en uso más antiguo de Europa** y uno de los monumentos más visitados de España. En temporada alta la cola en taquilla supera las 2 horas: la forma más cómoda de verlo es con la entrada ya incluida.
+
 ## ¿Qué entrada elegir?
 
 | Si buscas… | Te recomendamos | Desde |
@@ -66,62 +63,42 @@ opciones:
 | Lo esencial de Sevilla en una mañana | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (14.120) | 53 € |
 | Con tiempo libre en los jardines | [Catedral, Giralda y Alcázar: tour de 3,5 horas](/ciudades/sevilla/actividades/sevilla-catedral-giralda-alcazar-tour-guiado-3-5h), 4,5★ (2.085) | 65 € |
 
-## Qué ver dentro del Real Alcázar de Sevilla
+[actividad: real-alcazar-sevilla-entrada]
 
-El Alcázar es un palacio de capas: almohade, mudéjar, gótico y renacentista, una encima de otra. Estas son las piezas que no te puedes saltar:
+## Precios y horarios
+
+- **Entrada general:** 15,50 € (2026). Reducida 8 € (mayores de 65, estudiantes de 14 a 30 años y Carné Joven). Gratis para menores de 13 años, personas con discapacidad y nacidos o residentes en Sevilla.
+- **Cuarto Real Alto:** 5,50 € más. Son las estancias que sigue usando la Familia Real; se visita en grupos pequeños con turno de 30 minutos y se agota antes que la entrada general.
+- **Gratis para todos:** los lunes, de 18:00 a 19:00 de abril a septiembre y de 16:00 a 17:00 de octubre a marzo. Solo online, con aforo limitado, y las plazas vuelan en minutos. No cuentes con ello salvo que lo tengas reservado.
+- **Horario:** de 9:30 a 19:00 de abril a septiembre; de 9:30 a 17:00 de octubre a marzo. Última entrada una hora antes del cierre. Cierra el 1 y el 6 de enero, Viernes Santo y 25 de diciembre.
+- **Cómo llegar:** se entra por la Puerta del León, en la Plaza del Triunfo, frente a la Catedral. Metro Puerta de Jerez (L1) o tranvía Archivo de Indias, ambos a 3 minutos a pie. No hay aparcamiento en el recinto; los más cercanos son los de la Avenida de Roma y Paseo de Colón.
+
+Si la web oficial ya sale agotada, en [qué hacer si las entradas del Alcázar de Sevilla están agotadas](/guias/sevilla/alcazar-de-sevilla-entradas-agotadas) repasamos todas las opciones que quedan. Si tu viaje también pasa por Granada y no sabes a cuál ir, lee [¿Alhambra o Alcázar de Sevilla?](/guias/granada/alhambra-o-alcazar-de-sevilla).
+
+## Qué ver dentro
 
 - **Patio del Yeso:** del siglo XII, uno de los pocos restos almohades civiles de España. Muchos pasan de largo.
 - **Fachada del Palacio de Pedro I:** inscripciones árabes y góticas juntas, el mejor ejemplo del arte mudéjar.
 - **Patio de las Doncellas:** el más fotografiado, con su jardín hundido.
-- **Salón de Embajadores:** bajo una cúpula dorada, donde Carlos V se casó con Isabel de Portugal en 1526.
+- **Salón de Embajadores:** la cúpula dorada, donde se casó Carlos V.
 - **Patio de las Muñecas:** busca las caritas escondidas en los capiteles.
 - **Baños de Doña María de Padilla:** cisternas góticas reflejadas en el agua.
-- **Jardines:** más de la mitad del recinto, con la Galería del Grutesco y el Estanque de Mercurio. Fueron los Jardines del Agua de Dorne en *Juego de Tronos*.
+- **Jardines:** más de la mitad del recinto, con la Galería del Grutesco. Fueron los Jardines del Agua de Dorne en Juego de Tronos.
 
 La visita completa lleva **unas 2,5-3 horas**. Reserva al menos 45 minutos para los jardines.
 
-[actividad: real-alcazar-sevilla-entrada]
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
 
-## Precio de la entrada al Alcázar de Sevilla
+## Errores que cometen casi todos
 
-- **Entrada general:** 15,50 € (2026).
-- **Reducida:** 8 €, para mayores de 65, estudiantes de 14 a 30 años y Carné Joven.
-- **Gratis:** menores de 13 años, personas con discapacidad y nacidos o residentes en Sevilla.
-- **Cuarto Real Alto:** 5,50 € más. Son las estancias que sigue usando la Familia Real; se visita en grupos pequeños con turno de 30 minutos y **se agota antes que la entrada general**.
-- **Audioguía:** 6 € en taquilla, o la app oficial.
-
-Se vende por franjas de 30 minutos con aforo limitado, y las entradas no admiten cambios ni devoluciones.
-
-**Gratis para todos los lunes**, de 18:00 a 19:00 de abril a septiembre y de 16:00 a 17:00 de octubre a marzo. Solo online, con aforo limitado, y las plazas vuelan en minutos: no cuentes con ello salvo que lo tengas reservado.
-
-## Horario del Alcázar de Sevilla
-
-- **Abril a septiembre:** de 9:30 a 19:00.
-- **Octubre a marzo:** de 9:30 a 17:00.
-- **Última entrada:** una hora antes del cierre.
-- **Cerrado:** 1 y 6 de enero, Viernes Santo y 25 de diciembre.
-
-De marzo a octubre la cola de taquilla **supera las 2 horas**, así que compra con días de antelación. Si la web oficial ya sale agotada, en [qué hacer si las entradas del Alcázar de Sevilla están agotadas](/guias/sevilla/alcazar-de-sevilla-entradas-agotadas) repasamos todas las opciones que quedan.
+1. **Llegar sin entrada en temporada alta:** la cola de taquilla supera las 2 horas y el aforo diario se agota. Online o con tour, siempre.
+2. **No llevar el DNI:** la entrada va a nombre de quien la compra y lo comprueban en la puerta. Vale en el móvil, no hace falta imprimir.
+3. **Ir al mediodía en verano:** los jardines no tienen sombra y en julio se pasan los 40 °C. Entra a las 9:30 o después de las 17:00.
+4. **Mochilas grandes:** no hay consigna y no dejan entrar bultos de más de 30 litros. Déjalos en el hotel.
+5. **Pensar que es «árabe»:** es sobre todo mudéjar, arte cristiano con estética islámica. Pedro I lo mandó construir en 1364, un siglo después de la conquista de Sevilla.
+6. **Saltarse los jardines:** son la mitad de la visita y lo que más se recuerda.
 
 ## ¿Visita guiada o por libre?
 
-Por libre funciona si llevas la entrada y una audioguía. Con guía ganas dos cosas: **te saltas la cola** y entiendes lo que ves, porque sin explicación las épocas del palacio se mezclan.
+Por libre funciona si llevas la entrada y una audioguía (6 € en taquilla, o la app oficial). Con guía ganas dos cosas: te saltas la cola y entiendes lo que ves, porque el Alcázar es un palacio de capas, almohade, mudéjar, gótico y renacentista una encima de otra, y sin explicación se mezcla todo. Si solo vas a hacer una visita guiada en Sevilla, que sea esta o la combinada con la Catedral.
 
-Si solo vas a hacer una visita guiada en Sevilla, que sea esta o la combinada con la Catedral y la Giralda, que están justo enfrente:
-
-[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
-
-## Cómo llegar
-
-Se entra por la **Puerta del León**, en la Plaza del Triunfo, frente a la Catedral. Metro **Puerta de Jerez (L1)** o tranvía **Archivo de Indias**, ambos a 3 minutos a pie. No hay aparcamiento en el recinto; los más cercanos son los de la Avenida de Roma y el Paseo de Colón.
-
-## Consejos para los jardines y la visita
-
-1. **No llegues sin entrada en temporada alta:** la cola de taquilla supera las 2 horas y el aforo diario se agota.
-2. **Lleva el DNI o pasaporte:** la entrada va a nombre de quien la compra y lo comprueban en la puerta. Vale en el móvil, no hace falta imprimir.
-3. **Evita el mediodía en verano:** los jardines no tienen sombra y en julio se pasan los 40 °C. Entra a las 9:30 o después de las 17:00.
-4. **Deja la mochila grande en el hotel:** no hay consigna y no dejan entrar bultos de más de 30 litros.
-5. **No lo confundas con un palacio «árabe»:** es sobre todo mudéjar, arte cristiano con estética islámica. Pedro I lo mandó construir en 1364, un siglo después de la conquista de Sevilla.
-6. **No te saltes los jardines:** son la mitad de la visita y lo que más se recuerda.
-
-Si tu viaje también pasa por Granada y no sabes a cuál ir, lee [¿Alhambra o Alcázar de Sevilla?](/guias/granada/alhambra-o-alcazar-de-sevilla).

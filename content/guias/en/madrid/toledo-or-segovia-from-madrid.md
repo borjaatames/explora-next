@@ -4,7 +4,7 @@ descripcion: 'Toledo or Segovia from Madrid: train and bus times and prices, wha
 categoria: madrid
 slug: toledo-or-segovia-from-madrid
 fecha: '2026-10-24'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-04'
 autor: Borja
 publicada: true
 destacada: false
@@ -24,8 +24,7 @@ slugs:
   it: toledo-o-segovia-da-madrid
   pt: toledo-ou-segovia-desde-madrid
 reservasArriba: true
-intro: '**Toledo or Segovia**? They are the two classic day trips from Madrid, both half an hour away by train and both UNESCO World Heritage. **Toledo** is a whole medieval city above the Tagus, the city of three cultures, with its Cathedral, El Greco and synagogues. **Segovia** is smaller and calmer: the Roman aqueduct, the Cathedral, the Alcázar and a good lunch. There is no wrong answer; what changes is the kind of day.'
-respuestaCorta: 'Toledo or Segovia? With only one day on your first trip, **choose Toledo**: there is more to see, with the Cathedral and El Greco. **Choose Segovia** in summer, with children or for a quiet, food-focused day: aqueduct, Cathedral and Alcázar fit into half a day. Both are **about 30 minutes by Avant** (from Atocha or Chamartín).'
+respuestaCorta: 'If you only have one day and it''s your first trip, **pick Toledo**: there''s more to see, and the whole city is a monument to its three cultures, with the cathedral and El Greco. **Pick Segovia** in summer, if you want a slower day built around a long lunch, or if you''re travelling with kids: the aqueduct, cathedral and Alcázar fit into half a day. Both are **about 30 minutes by train** (Avant from Atocha or Chamartín).'
 actividades:
   - excursion-toledo-dia-completo
   - excursion-avila-segovia-con-entradas
@@ -36,16 +35,18 @@ actividades:
   - vuelo-globo-segovia
 faq:
 - pregunta: Which is better, Toledo or Segovia?
-  respuesta: 'For a single day trip, Toledo: it has more first-rate monuments (the Cathedral, Santo Tomé with El Greco, the synagogues, San Juan de los Reyes) and its whole old town is a World Heritage Site. Segovia is smaller and best enjoyed slowly: the Roman aqueduct, the Cathedral, the Alcázar and a good suckling-pig lunch.'
+  respuesta: 'For a single day trip, Toledo: it has more first-rate sights (the cathedral, Santo Tomé with El Greco, the synagogues, San Juan de los Reyes) and its entire old town is UNESCO-listed. Segovia is smaller and best enjoyed slowly: the Roman aqueduct, the cathedral, the Alcázar and a proper roast suckling pig lunch.'
 - pregunta: How long does it take to get to Toledo and Segovia from Madrid?
-  respuesta: To Toledo, 33 minutes on the Avant from Atocha or an hour by bus from Plaza Elíptica. To Segovia, about 30 minutes on the Avant from Chamartín to Segovia-Guiomar, plus 15 minutes on the city bus to the aqueduct, or an hour and a quarter by bus from Moncloa.
-- pregunta: Can you see Toledo and Segovia in one day?
-  respuesta: Only on an organised tour, and it's a day of about 12 hours with two hours by coach between the cities. You get an idea of both, but neither in depth. With two days, do one each day.
-- pregunta: Do you need to book tickets in Toledo and Segovia?
-  respuesta: Not as much as for the Alhambra or the Alcázar of Seville. In Toledo, buy the Cathedral (€12) online to skip the queue. In Segovia, the Alcázar recommends booking at weekends and on bank holidays, especially tickets with the Tower of Juan II, which sell out first.
+  respuesta: 'Toledo is 33 minutes on the Avant train from Atocha, or an hour by bus from Plaza Elíptica. Segovia is about 30 minutes on the Avant from Chamartín to Segovia-Guiomar, plus a 15-minute city bus to the aqueduct, or about 1 hour 15 minutes by bus from Moncloa.'
+- pregunta: Can I see Toledo and Segovia on the same day?
+  respuesta: 'Only on an organised tour, and it''s a 12-hour day with two hours on the coach between cities. You get a taste of both and depth in neither. With two days, do one trip each day.'
+- pregunta: Do I need to book tickets in advance for Toledo and Segovia?
+  respuesta: 'Not as much as for the Alhambra or the Alcázar of Seville. In Toledo, buy the cathedral ticket (€12) online to skip the queue. In Segovia, the Alcázar recommends booking for weekends and public holidays, especially the ticket that includes the Tower of Juan II, which sells out first.'
 - pregunta: Which is better in summer?
-  respuesta: 'Segovia. It sits at about 1,000 metres and in July and August is usually several degrees cooler than Toledo, which reaches 35-40 °C on shadeless slopes. In winter it''s the other way round: Segovia is cold and it can snow.'
+  respuesta: 'Segovia. At around 1,000 metres it is usually several degrees cooler than Toledo in July and August, when Toledo''s unshaded hills hit 35–40 °C. In winter it flips: Segovia is cold and can get snow.'
 ---
+
+If you have a single free day in Madrid and it's your first visit, **go to Toledo**. If it's high summer, you're travelling with kids, or you want an unhurried day with a great lunch, **Segovia** is just as good a call. Both are half an hour away by train and both are UNESCO World Heritage cities, so there's no wrong answer. What changes is the kind of day you'll have.
 
 ## At a glance
 
@@ -60,77 +61,73 @@ faq:
 | Best season | Spring and autumn | Summer and autumn |
 | Organised tour | [Toledo with guide and cathedral entry](/en/cities/madrid/activities/toledo-full-day-from-madrid) | [Ávila and Segovia with tickets included](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) |
 
-## Toledo vs Segovia at a glance
-
-| | Toledo | Segovia |
-| --- | --- | --- |
-| Train from Madrid | Avant from Atocha, 33 min; €22-26 return | Avant from Chamartín, about 30 min, plus a 15-min city bus (€2) |
-| Bus | Alsa from Plaza Elíptica, 1 h; about €11 return | Avanza from Moncloa, 1 h 15-1 h 20; about €5 each way |
-| Time needed | A full day | A long half day, with lunch |
-| Must-sees | Cathedral, Santo Tomé, synagogues, Jewish Quarter | Aqueduct, Cathedral, Alcázar |
-| Key tickets | Cathedral €12; 7-monument bracelet €14 | Alcázar €7 (€10 with tower); Cathedral €4 |
-| Terrain | Lots of slopes | One gentle climb, then flat |
-| Best season | Spring and autumn | Summer and autumn |
-
 ## Toledo: the one with more to see
 
-Toledo is a whole medieval city on a bend of the Tagus, where Christians, Jews and Muslims lived side by side for centuries. There is no single star monument, but a dozen first-rate ones a few minutes apart:
+Toledo is an entire medieval city on a bend of the Tagus, where Christians, Jews and Muslims lived side by side for centuries. There's no single star attraction; instead there are a dozen top-tier sights a few minutes apart:
 
-- **The Primate Cathedral** (€12): the Transparente, the Arfe Monstrance and a sacristy full of El Grecos. At least an hour and a half.
-- **Santo Tomé**, with *The Burial of the Count of Orgaz*, El Greco's most famous work.
+- **The Primate Cathedral** (€12): the Transparente, the Arfe monstrance and a sacristy hung with El Grecos. Allow at least an hour and a half.
+- **Santo Tomé**, home to *The Burial of the Count of Orgaz*, El Greco's best-known painting.
 - **Santa María la Blanca** and the **Synagogue of El Tránsito**, two medieval synagogues.
 - **San Juan de los Reyes** and the **San Martín bridge**.
-- The **Mirador del Valle**, the postcard view of Toledo from the other bank.
+- The **Mirador del Valle**, the classic view of Toledo from across the river.
 
-The **tourist bracelet** (€14) covers seven smaller monuments and pays off from the fourth. What Toledo asks for is time and legs: the old town is hilly and in July and August it tops 35 °C. If you arrive at 11:00 and leave at 17:00, you'll only see half.
+The **tourist bracelet** (€14) covers seven of the smaller monuments and pays off from the fourth one. What Toledo asks of you is time and legs: the old town is all slopes, and in July and August it tops 35 °C. Arrive at 11:00 and leave at 17:00 and you'll only see half of it.
 
-The hour-by-hour plan is in [Toledo day trip from Madrid](/en/guides/madrid/toledo-day-trip-from-madrid). If you'd rather have it done for you, the full-day tour with Cathedral entry includes the Cathedral, Santo Tomé and Santa María la Blanca.
+The hour-by-hour plan is in [Toledo from Madrid in one day](/en/guides/madrid/toledo-day-trip-from-madrid). If you'd rather have it all arranged, the [full-day Toledo trip with cathedral entry](/en/cities/madrid/activities/toledo-full-day-from-madrid) includes the cathedral, Santo Tomé and Santa María la Blanca.
 
 [actividad: excursion-toledo-dia-completo]
 
 ## Segovia: the easiest to enjoy
 
-Segovia runs in a straight line, and that's part of its charm: you arrive at the **Roman aqueduct**, almost 2,000 years old and built without mortar, walk up Calle Real to the Plaza Mayor and the **Cathedral**, Spain's last great Gothic cathedral (€4), and finish at the **Alcázar**, on the tip of the rock. It's under 2 km, with a gentle climb at the start and the rest almost flat.
+Segovia unfolds in a straight line, and that's half its charm. You arrive at the **Roman aqueduct**, nearly 2,000 years old and built without mortar, walk up Calle Real to the Plaza Mayor and the **cathedral**, the last great Gothic cathedral built in Spain (€4), and finish at the **Alcázar** on the tip of the rock. It's under 2 km, with one gentle climb at the start.
 
-- **The Alcázar:** palace and museum, €7; with the **Tower of Juan II**, €10. The tower adds about 25 minutes and the best view of the city. On Tuesdays from 14:00 to 16:00 the palace is free for EU citizens, at the ticket office and without the tower.
-- **The food:** roast suckling pig is why many Madrileños keep going back. Book a table at weekends.
-- **The weather:** at about 1,000 metres, summer evenings cool down; in winter it's properly cold.
+- **The Alcázar:** palace and museum €7, or €10 with the **Tower of Juan II**. The tower adds about 25 minutes and the best view in town. On Tuesdays from 14:00 to 16:00 the palace is free for EU citizens buying at the ticket office (tower not included).
+- **Lunch:** roast suckling pig (*cochinillo*) is why so many Madrileños keep coming back. Book a table at weekends.
+- **Climate:** at around 1,000 metres, summer evenings cool down; winter is properly cold.
 
-Five or six hours are enough to see the essentials without rushing and enjoy lunch; the step-by-step route is in our [Segovia day trip from Madrid](/en/guides/madrid/segovia-day-trip-from-madrid). That's why Segovia is so often paired with [Ávila](/en/guides/madrid/avila-day-trip-from-madrid), as on the [Ávila and Segovia day trip with tickets](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). And to see the aqueduct, Cathedral and Alcázar all at once, the hot air balloon over Segovia is the most memorable way.
+Five or six hours cover the essentials and a relaxed lunch (the step-by-step route is in our [Segovia day trip from Madrid](/en/guides/madrid/segovia-day-trip-from-madrid) guide), which is why Segovia is so often paired with [Ávila](/en/guides/madrid/avila-day-trip-from-madrid), as on the [Ávila and Segovia day trip with tickets included](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). And if you want the aqueduct, cathedral and Alcázar in one view, a [hot-air balloon ride over Segovia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) is the most memorable way to do it.
 
 [actividad: excursion-avila-segovia-con-entradas]
 
 ## Getting there without losing the morning
 
-- **To Toledo by train:** the Avant leaves Atocha and takes 33 minutes. The station is about 20 minutes uphill on foot from the old town; bus 5 or a taxi takes you up. The first morning trains fill up: book.
-- **To Segovia by train:** the Avant leaves Chamartín and reaches **Segovia-Guiomar**, on the outskirts, in about 30 minutes. From there, city bus 11 takes you to the aqueduct in a quarter of an hour (€2).
-- **To Segovia by bus:** Avanza buses leave the Moncloa interchange very frequently; they take an hour and a quarter and drop you a few minutes from the aqueduct. It's the cheapest option and almost as fast door to door.
-- **By car:** an hour to Toledo on the A-42 and a little more to Segovia on the AP-6 and AP-61 toll roads. In neither can you drive into the old town.
+- **Toledo by train:** the Avant leaves from Atocha and takes 33 minutes. The station is about 20 minutes' walk from the old town, uphill; bus 5 or a taxi takes you to the top. Early-morning trains fill up, so book ahead.
+- **Segovia by train:** the Avant leaves from Chamartín and reaches **Segovia-Guiomar**, on the edge of town, in about 30 minutes. From there, city bus 11 drops you at the aqueduct in 15 minutes (€2). Factor in that extra quarter of an hour.
+- **Segovia by bus:** Avanza runs frequent buses from the Moncloa transport hub; the trip takes about an hour and a quarter and drops you a few minutes from the aqueduct. It's the cheapest option and nearly as quick door to door.
+- **By car:** an hour to Toledo on the A-42, a bit longer to Segovia on the AP-6 and AP-61 toll roads. In neither city can you drive into the old town.
 
-## Which is better, Toledo or Segovia, for your trip
+## Who should pick which
 
-**Choose Toledo if…**
+**Pick Toledo if…**
 
 - It's your first trip to Madrid and you're only doing one day trip.
-- You're into art and history: El Greco, the three cultures, the Cathedral.
+- You're into art and history: El Greco, the three cultures, the cathedral.
 - You're travelling in spring or autumn and don't mind hills.
 
-**Choose Segovia if…**
+**Pick Segovia if…**
 
 - You're going in July or August.
-- You're travelling with children: the Alcázar looks like a fairy-tale castle and the route is short with no big slopes.
-- You want a quieter day, with a long lunch as the main event.
-- You already know Toledo.
+- You have kids: the Alcázar looks like a fairy-tale castle and the walk is short without big climbs.
+- You want a slower day with a long lunch as the main event.
+- You've already seen Toledo.
 
-**Both on the same day?** It's possible on an organised tour like [Segovia and Toledo in one day with the Alcázar](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid), cheap and highly rated, but it's about 12 hours with two by coach between the cities, and each visit falls short. With two days, do one each day.
+## What about both in one day?
 
-## Other day trips from Madrid
+You can, on an organised tour such as [Segovia and Toledo in one day with the Alcázar](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid). It's cheap and well reviewed, but it's about 12 hours with two of them on the coach between cities, and each visit ends up short. If you have two days, do one each day. If you have one, choose and enjoy it properly.
 
-| Destination | How to get there | Time needed | Approx. price | Best for |
+## Other day trips from Madrid (2026)
+
+| Destination | How to get there | Time needed | Approximate price | Best for |
 | --- | --- | --- | --- | --- |
-| Ávila | Media Distancia train from Príncipe Pío or Chamartín (1 h 20-1 h 40) or Jiménez Dorado bus (1 h 30) | One day | €10-13 each way; walls €8 | The complete medieval walls |
-| El Escorial | Bus 661/664 from Moncloa (about 50 min) or Cercanías commuter train | Half a day | Monastery €14 | Philip II and the monastery; closed on Mondays |
+| Toledo | Avant from Atocha (33 min) or Alsa bus from Plaza Elíptica (50 min direct) | A full day | Train €22-26 return; Cathedral €12 | History, El Greco and the three cultures |
+| Segovia | Avant or AVE from Chamartín (about 25-30 min) plus city bus; or Avanza bus from Moncloa (1 h 15) | A long half day | Train from about €7-14 one way depending on how early you book; bus about €5; Alcázar €7 | Aqueduct, Alcázar and suckling pig, no steep hills |
+| Ávila | Regional train from Príncipe Pío or Chamartín (1 h 20-1 h 40) or Jiménez Dorado bus (1 h 30) | A day | €10-13 one way; walls €8 | Walking the full medieval walls |
+| El Escorial | Cercanías C-3 from Atocha or Chamartín (1 h) or bus 661/664 from Moncloa (50 min) | Half a day | Train €8.50 return; Monastery €14 | Philip II's monastery; closed on Mondays |
 | Aranjuez | Cercanías C-3 from Atocha or Chamartín (about 35-45 min) | Half a day | Train from €5; Royal Palace €9 | Palace and gardens, best in spring |
-| Cuenca | AVE, Avant or Avlo from Atocha (about 55-65 min) | A full day | From about €7 on Avlo; usually €30-40 each way | The Hanging Houses and the Huécar gorge |
+| Cuenca | AVE, Avant or Avlo from Atocha (about 55-65 min) | A full day | From about €7 on Avlo; usually €30-40 one way | The Hanging Houses and the Huécar gorge |
 
-Data checked in November 2026; train and bus prices change with how far ahead you book. To fit the trip into the rest of your stay, see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days).
+*Checked in November 2026: El Escorial and Aranjuez tickets from Patrimonio Nacional's official rates (BOE, 15 October 2025); train and bus details from Renfe, the operators and Omio, with fares that change depending on how early you book.*
+
+## The short version
+
+Toledo for your first day trip from Madrid; Segovia for summer, for kids, or for a long lunch with no rush. To fit the trip into the rest of your stay, see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days).

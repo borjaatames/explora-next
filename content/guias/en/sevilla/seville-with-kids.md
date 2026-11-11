@@ -4,7 +4,7 @@ descripcion: 'What to do in Seville with kids of various ages, without falling f
 categoria: sevilla
 slug: seville-with-kids
 fecha: '2026-05-01'
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-10-27"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true
@@ -26,8 +26,7 @@ slugs:
   it: siviglia-con-bambini
   pt: sevilha-com-criancas
 reservasArriba: true
-intro: 'Visiting **Seville with kids** is easy: the city is **flat, compact and pedestrian-friendly**, and the Alcázar is a 10-minute walk from Plaza de España. It has plans that work from age 3 to 16, from the Alcázar and its peacocks to the rowing boats at Plaza de España, the Aquarium, Isla Mágica or a kayak on the Guadalquivir, and almost all of them are within walking distance of each other.'
-respuestaCorta: 'Seville with kids works very well if you follow one rule: **monuments in the morning**, water or a park in the afternoon, and anything with a queue booked in advance. Free: **Plaza de España and María Luisa Park**. In the heat, **Isla Mágica** (ages 4-11, from €27) or the **Aquarium** (€18 adults, €13 children aged 4 to 14).'
+respuestaCorta: 'Seville is **flat and compact** (the Alcázar to Plaza de España is a 10-minute walk), so it works very well with kids if you follow one rule: **monuments in the morning**, water or a park in the afternoon, and anything with a queue booked in advance. In the heat, **Isla Mágica** (ages 4–11, from €27) or the **Aquarium** (€18 adults, €13 children aged 4–14).'
 actividades:
   - isla-magica-sevilla-entrada
   - acuario-sevilla-entrada
@@ -43,18 +42,20 @@ actividades:
   - casa-de-la-memoria-flamenco-show-intimo-sevilla
   - real-alcazar-sevilla-entrada
 faq:
-- pregunta: What is the best free plan in Seville with kids?
-  respuesta: 'Plaza de España + María Luisa Park: free, outdoors, works for ages 3 to 14, with rowing boats on the canal (~€6/35 min) and two children''s play areas in the park.'
-- pregunta: From what age is the Real Alcázar worth it with kids?
-  respuesta: From 6-7 years old. General admission is €15.50 and under-13s with an adult go free (they still need a ticket); buy online, because the ticket office queue can reach 90 minutes.
-- pregunta: What can you do with kids in Seville when it's very hot?
-  respuesta: 'The Seville Aquarium (€18 adults, €13 children aged 4 to 14, free under 4) is the ultimate plan B: air conditioning, 1.5-2 hours, open 365 days a year. In summer, the Isla Mágica + Agua Mágica combo also beats the heat.'
-- pregunta: Do you need to see the whole Cathedral with kids?
-  respuesta: 'No. The full Cathedral doesn''t hold the attention of under-10s: it''s huge, dark and full of chapels. Better to climb just the Giralda (free for accompanied under-13s), which has ramps instead of stairs and 360° views.'
-- pregunta: When is it best to avoid Seville with young children?
-  respuesta: 'Holy Week and the April Fair: closed streets, crowds and hotels at double the price. And in winter (November-March) Isla Mágica is closed, so the theme park option doesn''t exist in those months.'
-tiempo_lectura: 4
+- pregunta: What's the best free plan to do with kids in Seville?
+  respuesta: 'Plaza de España + Parque de María Luisa: free, outdoors, works from age 3 to 14, with boats on the canal (about €6/35 min) and two playgrounds in the park.'
+- pregunta: At what age does the Alcázar start to work with kids?
+  respuesta: From age 6-7. General admission is around €20, but kids under 16 accompanied by an adult get in free — just book online, since the ticket-office queue can run up to 90 minutes.
+- pregunta: What's the best plan with kids in Seville when it's very hot?
+  respuesta: 'The Seville Aquarium (€18 adults, €13 kids 4-14, free under 4) is the definitive plan B: air-conditioned, 1.5-2 hours, open 365 days a year. In summer, the Isla Mágica + Agua Mágica water park combo also solves the heat problem.'
+- pregunta: Do you need to go inside the whole Cathedral with kids?
+  respuesta: No. The full Cathedral doesn't hook kids under 10 — it's huge, dark and full of side chapels. Better to just climb the Giralda tower (free for kids under 13 with an adult), which has ramps instead of stairs and 360° views.
+- pregunta: When is it best to avoid Seville with small kids?
+  respuesta: 'During Holy Week and the April Fair: closed streets, crowds and hotel prices that double. And in winter (November-March) Isla Mágica is closed, so the theme-park plan doesn''t exist those months.'
+tiempo_lectura: 3
 ---
+
+**Seville is flat, compact and walkable:** the Alcázar is 10 minutes on foot from Plaza de España. It works very well with kids if you follow one rule: monuments in the morning, water or parks in the afternoon, and anything with a queue booked in advance.
 
 ## The best plans with kids
 
@@ -71,61 +72,56 @@ tiempo_lectura: 4
 | Alcázar without queues | [Royal Alcázar guided tour, skip the line](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4.4★ (510) | €36 |
 | Impossible photos indoors | [Museum of Illusions](/en/cities/sevilla/activities/museum-of-illusions-seville-ticket), 4.2★ (1,352) | €15 |
 
-## Things to do in Seville with kids by age
+## What works by age
 
-- **All ages: Plaza de España and María Luisa Park.** Free, with rowing boats on the canal (about €6 for 35 minutes), tiled benches for each province to hunt for, and peacocks and play areas in the park.
-- **From 6-7: Real Alcázar.** The gardens, the peacocks and spotting the little faces in the Patio de las Muñecas keep them hooked. Accompanied under-13s go free but need a ticket: buy it online.
-- **Ages 5-12: Seville Aquarium.** €18 adults, €13 children aged 4 to 14, free under 4. Best in the afternoon, when it's hottest outside.
-- **From 7-8: the Giralda.** You climb by ramps, not stairs, and accompanied under-13s don't pay.
-- **Ages 4-11: Isla Mágica and Agua Mágica**, from €27. In summer, always with the water park. Closed from November to March.
-- **Ages 10-16: kayaking on the Guadalquivir** at sunrise or sunset, from €17 (from age 8).
+- **All ages: Plaza de España and María Luisa Park.** Free, with rowing boats on the canal (about €6 for 35 minutes), tiled benches for every province to hunt for, peacocks and playgrounds in the park.
+- **From 6-7: Royal Alcázar.** The gardens, the peacocks and searching for the little faces in the Patio de las Muñecas keep them hooked. Book a timed ticket: the box-office queue can reach 60-90 minutes in high season.
+- **5-12: Seville Aquarium.** 40 tanks, over 400 species and a 9-metre-deep shark tank, all indoors. Best in the afternoon, when it's hottest outside; allow about 1.5 hours.
+- **From 7-8: the Giralda.** You climb it by 35 gentle ramps, not stairs, with 360° views at the top.
+- **3-11: Isla Mágica and Agua Mágica** (closed in winter; in summer, always with the water park).
+- **From 8 with an adult: kayaking on the Guadalquivir.** Two hours past the Torre del Oro with an instructor; best at sunrise or sunset.
 
-[actividad: acuario-sevilla-entrada]
+When the heat wins, the aquarium never fails: cool, by the river next to María Luisa Park, with free cancellation up to 24 hours before.
 
 [actividad: seville-aquarium-ticket]
 
-## More family plans: river, tuk tuk and bike
+## When to go
 
-- **Guided Guadalquivir cruise:** from €25, and the kids see half the city sitting down.
-- **Private electric tuk tuk:** 1 hour for €71 per group (up to 4 people), or the 2-hour grand tour with the Cartuja and the Macarena for €124. Ideal when little legs give up.
-- **Bike tour** (in English), from €28, for kids who ride well.
-- **Setas de Sevilla:** 360° viewpoint at sunset, from €16.
-- **Museum of Illusions:** impossible photos indoors, from €15.
+Best from **March to May** and from **mid-September to November**. In July and August temperatures top 40 °C: mornings and evenings only, with a pool at midday. In winter Isla Mágica is closed. Avoid **Holy Week and the April Fair** with small children: streets close, crowds are dense and hotel prices double.
 
 ## What you can skip with kids
 
-- **The whole Cathedral with under-10s.** The Giralda yes; the nave, with its Baroque chapels and Columbus's tomb high up, means nothing to them. Split up: one adult inside for 30 minutes and the other in the shady Patio de los Naranjos.
-- **The Archivo de Indias, the Venerables and the Casa de Pilatos.** Beautiful for adults; zero for kids.
-- **Tourist tablaos at €40** a head. For flamenco with kids over 10, Casa de la Memoria (Calle Cuna, 6) is sober, short and high quality.
+- **The whole Cathedral with under-10s.** The Giralda yes; the nave, with its Baroque chapels and Columbus's tomb up high, says nothing to them. Split up: one adult goes in for 30 minutes while the other waits in the shaded Patio de los Naranjos.
+- **Tourist tablaos at €40 a head.** For flamenco with children over 10, [Casa de la Memoria](/en/cities/sevilla/activities/seville-casa-de-la-memoria-flamenco-show-intimate) (Calle Cuna, 6) is sober, short and high quality.
 
 ## Where to eat without falling into traps
 
-The rule: go where there are locals, not just tourists. If the menu has photos and the sangria comes in a big jug, walk out; locals drink tinto de verano or beer.
+The rule: eat where Sevillanos sit, not just tourists. If the menu has photos and the sangría comes in a big jug, walk out; locals drink tinto de verano or beer.
 
-- **Tapas before 2 pm:** Bodeguita Romero (Calle Harinas, Arenal) and Casa Morales (García de Vinuesa, since 1850), with tapas at €3-5. In Triana, Las Golondrinas (Antillano Campos): small and noisy, for kids who can last standing up.
-- **With a table and kids' menu:** Casa Cuesta (Calle Castilla, by the Triana bridge), book ahead.
-- **Ice cream:** La Fiorentina (Calle Zaragoza, near Plaza Nueva). Avoid the brightly coloured gelato shops on Avenida de la Constitución.
-- **Not even a coffee** on Avenida de la Constitución, opposite the Cathedral: double prices and frozen paella. Five minutes towards the Arenal and everything changes.
+- **Tapas before 14:00:** Bodeguita Romero (Calle Harinas, Arenal) and Casa Morales (García de Vinuesa, open since 1850), both with tapas at €3-5. In Triana, Las Golondrinas (Antillano Campos): small and noisy, for kids who can manage standing up.
+- **A table and a kids' menu:** Casa Cuesta (Calle Castilla, by the Triana bridge); book ahead.
+- **Ice cream:** La Fiorentina (Calle Zaragoza, near Plaza Nueva). Skip the brightly coloured gelato mountains on Avenida de la Constitución.
+- **Not even a coffee** on Avenida de la Constitución opposite the Cathedral: double prices and frozen paella. Walk five minutes towards the Arenal and everything changes.
 
-## A family day in Seville
+## One day with kids
 
 | Time | Plan |
 | --- | --- |
-| 9:30 | Real Alcázar |
+| 9:30 | Royal Alcázar |
 | 12:00 | Plaza de España and María Luisa |
 | 13:30 | Lunch in Triana |
 | 15:30 | Rest or pool |
 | 17:30 | Aquarium or river boat |
 | 20:00 | Calle Betis at sunset and tapas |
 
-**When to go:** ideally **March to May** and **mid-September to November**. In July and August temperatures top 40 °C: mornings and evenings only, pool at midday. During Holy Week and the April Fair there are closed streets, crowds and hotels at double the price. For more days, see [Seville in 3 days](/en/guides/sevilla/seville-in-3-days).
+## Mistakes to avoid
 
-## Mistakes to avoid when traveling to Seville with kids
+1. **Cathedral, Alcázar and Plaza de España on the same day.** That's 4-5 hours of monuments: too much for a child. Spread them over two days or drop one.
+2. **Queuing at the Cathedral or Alcázar:** book online and pick a slot between 9:30 and 12:00. After lunch it's busier, hotter and the kids are worn out.
+3. **Driving into the centre.** It's pedestrianised or nearly so, restricted-access zones have cameras and the fine is €200. Park on Paseo de Colón or Avenida de Roma and walk.
+4. **Spending a whole morning in Santa Cruz with little ones:** narrow, shadeless streets. Go at 9:00 or 20:00 and alternate with parks.
+5. **Underestimating the heat.** From June to September, 1.5 litres of water per person, a cap and sun cream, and shade every hour. At midday, pool or aquarium.
+6. **Not checking the Isla Mágica calendar:** it closes in winter, and many families only find out when they arrive.
+7. **Staying in La Cartuja:** it's isolated. Arenal, Santa Cruz or Triana are better.
 
-1. **Cathedral, Alcázar and Plaza de España on the same day.** That's 4-5 hours of monuments for an adult; for a child, a recipe for disaster. Spread them over two days or drop one.
-2. **Queuing at the Cathedral or the Alcázar:** buy online and book the 9:30 to 12:00 slot. After lunch there are more people, more heat and the kids are worn out.
-3. **Driving in the centre.** It's pedestrian or nearly, restricted-access zones have cameras and the fine is €200. Park on Paseo de Colón or Avenida de Roma and walk.
-4. **Spending the whole morning in Santa Cruz with little ones:** narrow streets and no shade. Go at 9:00 or 20:00 and alternate with parks.
-5. **Underestimating the heat.** From June to September, 1.5 litres of water per person, cap and sunscreen, and shade every hour.
-6. **Not checking the Isla Mágica calendar:** many people only find out it's closed when they arrive.
-7. **Staying in the Cartuja:** it's isolated. Arenal, Santa Cruz or Triana are better.
+For more days, see [Seville in 3 days](/en/guides/sevilla/seville-in-3-days).

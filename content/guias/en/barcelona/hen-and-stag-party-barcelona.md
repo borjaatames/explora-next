@@ -5,13 +5,13 @@ metaTitle: "Hen and stag party in Barcelona: ideas and rules"
 categoria: "barcelona"
 slug: "hen-and-stag-party-barcelona"
 fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/actividades/barcelona/noche/discoteca-pista-baile.webp"
 imagen_alt: "Silhouettes of people dancing with their arms raised in a club, backlit"
-tiempo_lectura: 4
+tiempo_lectura: 6
 keywords:
   - "hen party barcelona"
   - "stag do barcelona"
@@ -26,19 +26,18 @@ slugs:
   it: addio-al-nubilato-barcellona
   pt: despedida-de-solteira-barcelona
 reservasArriba: true
-intro: 'A **hen party in Barcelona**, or a stag do, can mix rooftops with views, the sea, workshops and nightlife in a city that is still a classic party destination. The rules have changed, though: the City Council has **banned pub crawls** and fines certain accessories in the street. The plans that work best, on a **rooftop**, on a **boat** or in a **workshop**, aren''t affected and fit in by day or by night.'
-respuestaCorta: 'For a hen party in Barcelona, the best bets are a **private beer tasting on a rooftop** (€55, 2 h), **sip & paint with sangria** (€19) and, from March, the **boat party with a DJ** (€53.10). Note: **pub crawls have been banned** since October 2025, and sexual-themed accessories in the street have been fined since February 2026.'
+respuestaCorta: "For a hen or stag do in Barcelona, the best bets are the **rooftop beer tasting for private groups only** on Passeig de Gràcia (€55 per person, 2 hours), **sip and paint with free-flowing sangria** (€19 per person, 2 h 30 min) and, outside winter, the **catamaran boat party with a DJ** (€53.10 per person, with 4 drinks and club entry). Mind the rules: since 29 October 2025 organised bar crawls are banned across the whole city, and since February 2026 sexual-themed accessories in the street can get you fined."
 faq:
-- pregunta: Are hen and stag parties banned in Barcelona?
-  respuesta: No. What has been banned since 29 October 2025 is organising, selling or taking part in tours of several bars whose main purpose is drinking (pub crawls), anywhere in the city and at any time. In addition, the public conduct bylaw in force since 15 February 2026 bans wearing clothing or objects depicting genitals in the street. A tasting, a boat or a class in a single venue is not covered by the ban.
-- pregunta: How much does a hen party in Barcelona cost?
-  respuesta: 'With our listings, a full afternoon costs about €74 per person: a private rooftop beer tasting (€55) and sip & paint with sangria (€19). If you swap the sip & paint for the boat party, it''s €108.10 per person in total. The photo shoot is priced per session, from €35.'
-- pregunta: Is there a boat party in winter?
-  respuesta: 'No. The DJ catamaran doesn''t sail in winter: as of 1 November 2026, the first available dates are in March. Between November and February, go for a rooftop instead: the private beer tasting, the wine tasting or the salsa class.'
-- pregunta: Where is there karaoke for a hen or stag party in Barcelona?
-  respuesta: The craft beer tasting at Craft Barcelona, in the Gothic Quarter, ends with live music and optional karaoke for anyone who wants to stay. There are sessions at 8:30 PM and 10:30 PM, and it costs €17 per person, with drinks included after the tasting.
-- pregunta: How far ahead should we book?
-  respuesta: 'For a spring or summer weekend, two or three weeks, especially the boat party. Bear in mind that the boat party, the private beer tasting and the salsa class are non-refundable: confirm who is coming first.'
+  - pregunta: "Are hen and stag parties banned in Barcelona?"
+    respuesta: "No. What has been banned since 29 October 2025 is organising, selling or taking part in tours of several bars whose main purpose is drinking (pub crawls), citywide and at any hour. On top of that, the civic ordinance in force since 15 February 2026 bans wearing clothing or objects depicting genitals in the street. A tasting, a boat trip or a class at a single venue is not affected."
+  - pregunta: "How much does a hen or stag do in Barcelona cost?"
+    respuesta: "Using our activities, a full afternoon costs about €74 per person: the private rooftop beer tasting (€55) plus sip and paint with sangria (€19). Swap the sip and paint for the boat party and it comes to €108.10 per person. Photo shoots are priced per session, from €35."
+  - pregunta: "Is there a boat party in winter?"
+    respuesta: "No. The DJ catamaran does not sail in winter: as of 1 November 2026, the first available dates are in March. From November to February, go for a rooftop instead: the private beer tasting, the wine tasting or the salsa class."
+  - pregunta: "Where can we do karaoke in Barcelona?"
+    respuesta: "The craft beer tasting at Craft Barcelona, in the Gothic Quarter, ends with live music and optional karaoke for anyone who wants to stay. Sessions start at 8.30 pm and 10.30 pm and it costs €17 per person, with drinks included after the tasting."
+  - pregunta: "How far ahead should we book?"
+    respuesta: "Two or three weeks for a spring or summer weekend, especially the boat party. Note that the boat party, the private beer tasting and the salsa class are non-refundable, so confirm who is coming first."
 actividades:
   - barcelona-cata-cerveza-grupos-privados-azotea
   - barcelona-sip-and-paint-sangria
@@ -49,6 +48,7 @@ actividades:
   - tour-privado-tapas-y-vino
   - flamenco-en-el-teatro-city-hall-mas-vendido
 ---
+Barcelona is still a hen and stag destination, but the rules have changed: the city has banned bar crawls and fines certain accessories in the street. The good news is that the plans that work best, on a rooftop, on a boat or at a workshop, are not affected. Here is what we sell that fits, with real prices.
 
 ## The options at a glance
 
@@ -63,62 +63,59 @@ actividades:
 | [Private tapas and wine tour](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | €298 for 2, €594 for 6 | A guided dinner just for you |
 | [Flamenco at City Hall theatre](/en/cities/barcelona/activities/flamenco-show-at-the-theater-city-hall-top-pick) | 1 h | From €25 per person | A show before or after dinner |
 
-## Barcelona stag and hen party rules: what has changed
+"From" prices on each activity page as of 1 November 2026; they can change by date and option.
 
-- **Pub crawls banned.** Since **29 October 2025**, organising, selling or taking part in tours of several bars whose main purpose is drinking is banned across the city, at any time. That's why we don't recommend any pub crawl here.
-- **Sexual-themed accessories fined.** The public conduct bylaw in force since **15 February 2026** bans being in the street with clothing, accessories or objects depicting genitals or of an obviously sexual nature.
-- **Drinking in the street:** fines range from **€100 to €600** for minor offences.
+## First: what has changed in Barcelona
 
-None of this affects a tasting, a boat or a class in a single venue.
+- **Bar crawls are banned.** Since 29 October 2025 it has been illegal, anywhere in the city and at any hour, to organise, sell or take part in visits to several bars whose main purpose is drinking. That is why we do not recommend any pub crawl here.
+- **Sexual-themed accessories are fined.** The civic ordinance in force since 15 February 2026 bans being in public space with clothing, accessories or objects that depict genitals or are clearly sexual.
+- **Drinking in the street:** fines range from €100 to €600 for minor cases.
 
-[actividad: sesion-fotos-rapida-barcelona]
+None of this affects a tasting, a boat trip or a class at one venue.
 
-## Hen do activities in Barcelona: a rooftop beer tasting
+## The all-rounder: a beer tasting just for your group
 
-The most complete plan is a tasting of **six craft beers** with a beer guide on a rooftop on Passeig de Gràcia, **just for your group**: you don't share the session with strangers. After the tasting, you pour your favourites.
-
-- **Price:** €55 per person, 2 hours.
-- **Times:** sessions every half hour **between 2 PM and 4 PM**.
-- **Language:** the tasting is in English.
-- **Non-refundable booking.**
+Six **craft beers** with a beer guide on a rooftop on Passeig de Gràcia, designed for hen and stag parties, birthdays and company groups: you do not share the session with strangers. After the tasting you help yourselves to your favourites. Sessions start every half hour **between 2 pm and 4 pm**, the tasting is in English and the booking is **non-refundable**.
 
 [actividad: barcelona-cata-cerveza-grupos-privados-azotea]
 
-## Plans for a laugh without ending up out till dawn
+## A laugh without the 4 am finish
 
-- **Sip & paint (€19 per person, 2 h 30 min):** paint step by step with free-flowing sangria, music and dancing at the end, from 5:30 PM on Carrer de la Mercè, in Ciutat Vella. It's not an art class, it's a social plan, and food isn't included. Free cancellation up to 24 hours before.
-- **Rooftop salsa class (€48.60 per person, 2 h):** for beginners, with unlimited homemade sangria and views, on Passeig de Gràcia. In November it starts at 5 PM and in December at 4 PM. Non-refundable.
+- **Sip and paint:** two and a half hours painting step by step with unlimited sangria, music and dancing at the end, from 5.30 pm on Carrer de la Mercè in the old town. It is a social plan, not an art class, and food is not included. Free cancellation up to 24 hours before.
+- **Rooftop salsa class:** for beginners, with unlimited homemade sangria and views, on Passeig de Gràcia. It starts at 5 pm in November and 4 pm in December. Non-refundable.
 
 [actividad: barcelona-sip-and-paint-sangria]
 
-## Barcelona boat party for hens and stags (from March)
+## The boat party (from March)
 
-Two hours on a **two-deck catamaran with a DJ and dance floor** off the coast, for **€53.10 per person**, with vouchers for four drinks and guest-list entry to a club the same night (you must get in before 1 AM). Check-in is at the Ice Bar on the Barceloneta seafront.
-
-Three things to know:
-
-1. **It doesn't sail in winter:** as of 1 November 2026, the first available dates are in March.
-2. It's **non-refundable**.
-3. Anyone who turns up drunk won't be allowed on board.
+Two hours on a **two-deck catamaran with a DJ and dance floor** off the coast, with vouchers for four drinks each and guest-list entry to a club that same night (get in before 1 am). Check-in is at the Ice Bar on the Barceloneta seafront. Three things to know: **no winter sailings** (the first available dates are in March), it is **non-refundable**, and anyone who turns up drunk will not be allowed on board.
 
 [actividad: fiesta-en-barco-barcelona-catamaran-dj]
 
-## A night with karaoke, dinner, flamenco or photos
+## A night with karaoke and dinner
 
-- **Craft beer tasting at Craft Barcelona** (€17 per person, 2 h 30 min), in the Gothic Quarter: brewery visit, guided tasting and drinks afterwards, then live music and **optional karaoke**. Sessions at 8:30 PM and 10:30 PM. Non-beer drinkers can choose sangria or vermouth.
-- **Private tapas and wine tour** (3 h): four venues in the Gothic Quarter with a guide just for you, for €298 for 2, €476 for 4 and €594 for 6, which is €99 per person if there are six of you.
-- **Flamenco at the City Hall theatre** (1 h, from €25 per person), next to Plaça de Catalunya, with shows at 5 PM, 6:45 PM, 8:30 PM and 10 PM. More options in our guide to [flamenco in Barcelona](/en/guides/barcelona/flamenco-barcelona-which-tablao-to-choose).
-- **Photo shoot:** priced per session, not per person. **20 minutes with 10 edited photos for €35** by the Sagrada Família (delivered in 24-48 hours), or 30 minutes with 20-25 photos for €68 at the Sagrada Família, the Gothic Quarter or Park Güell.
+The **craft beer tasting at Craft Barcelona**, in the Gothic Quarter, includes a brewery visit, a guided tasting and drinks afterwards, then live music and **optional karaoke**. Sessions at 8.30 pm and 10.30 pm. Non-beer drinkers can choose sangria or vermouth.
 
-"From" prices as of 1 November 2026; they may vary by date and option.
+For dinner, the **private tapas and wine tour** visits four places in the Gothic Quarter with a guide just for you: €298 for 2, €476 for 4 and €594 for 6, which works out at €99 each for a group of six. For a show, the **City Hall flamenco** near Plaça de Catalunya runs at 5 pm, 6.45 pm, 8.30 pm and 10 pm. More options in our guide to [flamenco in Barcelona](/en/guides/barcelona/flamenco-barcelona-which-tablao-to-choose).
 
 [actividad: barcelona-cata-cerveza-artesana-musica-en-directo]
 
-## Tips and common mistakes
+## A keepsake: photo shoot
 
-- **Book ahead** for spring and summer weekends: the boat party is the first thing to sell out.
-- **Costumes:** something discreet to single out the bride or groom. What can get you fined is sexual-themed accessories in the street, including on La Rambla.
-- **Night-time dress code:** many venues won't let you in wearing sportswear, flip-flops or beachwear.
-- **Timing:** daytime rooftops (beer tasting 2-4 PM, salsa in the late afternoon) fit before dinner; the Craft tasting, after.
-- **Non-refundable payments:** boat party, private tasting and salsa. If the group isn't confirmed yet, start with the plans that offer free cancellation.
-- **Don't book a "hen" or "stag" pub crawl yourselves:** the ban also applies to participants, not just organisers.
+Photo shoots are priced per session, not per person: **20 minutes with 10 edited photos for €35** by the Sagrada Familia, or 30 minutes with 20 to 25 photos for €68 at the Sagrada Familia, the Gothic Quarter or Park Güell. The quick session delivers edited photos in 24 to 48 hours.
+
+[actividad: sesion-fotos-rapida-barcelona]
+
+## Practical tips
+
+- **Book ahead** for spring and summer weekends; the boat party fills first.
+- **Fancy dress:** something discreet to mark out the bride or groom. Sexual-themed accessories in the street are what can get you fined.
+- **Night-time dress code:** many venues refuse sportswear, flip-flops or beachwear.
+- **Timing:** the daytime rooftops (beer tasting 2 to 4 pm, salsa in the late afternoon) work before dinner; the Craft tasting after.
+- **Non-refundable bookings:** boat party, private tasting and salsa. If the group is not settled yet, start with the plans that have free cancellation.
+
+## Common mistakes
+
+- **Booking a "hen party" pub crawl yourself:** the ban covers participants too, not just organisers.
+- **Counting on the boat party in November:** there are no sailings until March.
+- **Walking down La Rambla with risqué novelty accessories:** since February 2026 that can mean a fine.

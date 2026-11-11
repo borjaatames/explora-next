@@ -4,15 +4,14 @@ descripcion: "Bilbao avec des enfants : le funiculaire d'Artxanda, les sculpture
 categoria: "bilbao"
 slug: "bilbao-avec-des-enfants"
 fecha: "2026-04-15"
-fecha_actualizacion: '2026-11-07'
-intro: 'Visiter **Bilbao avec des enfants** est facile : la ville est compacte et plate le long de la ría, avec un métro et un tramway simples, des parcs pour courir et un **funiculaire** qui grimpe en trois minutes jusqu''à un belvédère avec aire de jeux. Les sculptures géantes du Guggenheim se voient gratuitement de l''extérieur, le musée maritime regorge de bateaux et de grues, et les **plages familiales** sont à un trajet de métro.'
-respuestaCorta: '**Bilbao avec des enfants**, c''est simple : ville plate le long de la ría, **funiculaire d''Artxanda** (3 minutes de montée, toutes les 15 minutes), sculptures du Guggenheim gratuites de l''extérieur et plages familiales à **Plentzia et Gorliz**, à 40 minutes en métro. Achetez la **carte Barik** (3 €) : une seule suffit pour toute la famille.'
+fecha_actualizacion: "2026-10-23"
+respuestaCorta: "Bilbao est facile avec des enfants : plate le long de la ria, avec le **funiculaire d'Artxanda** (3 minutes de montée, toutes les 15 minutes), les **sculptures du Guggenheim** gratuites à l'extérieur et les plages familiales de **Plentzia et Gorliz** à environ 40 minutes par la ligne 1 du métro. Achetez une **carte Barik** (3 €) à l'arrivée ; une seule carte suffit pour toute la famille dans le métro, le tramway et le funiculaire."
 autor: Borja
 publicada: true
 destacada: false
 imagen_portada: "/images/guias/bilbao-con-ninos.jpg"
 imagen_alt: "Bateau touristique sur la ria de Bilbao"
-tiempo_lectura: 4
+tiempo_lectura: 10
 keywords:
   - "bilbao avec des enfants"
   - "bilbao en famille"
@@ -31,18 +30,9 @@ actividades:
   - barco-ria-bilbao-portugalete
   - san-mames-museo-estadio-athletic
   - gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao
-faq:
-- pregunta: Que faire à Bilbao avec des enfants ?
-  respuesta: Monter en funiculaire d'Artxanda jusqu'au belvédère avec aire de jeux, voir les sculptures du Guggenheim de l'extérieur (Puppy et Maman), visiter l'Itsasmuseum et ses bateaux et grues, courir au parc Doña Casilda et passer une journée à la plage à Plentzia ou Gorliz en métro.
-- pregunta: Comment aller à la plage depuis Bilbao avec des enfants ?
-  respuesta: Avec la ligne 1 du métro jusqu'à Plentzia, environ 40 minutes depuis le Casco Viejo ; de là, 15 minutes à pied jusqu'à la plage de Gorliz, plate et peu profonde. Avec la carte Barik, moins de 2 € le trajet.
-- pregunta: Combien coûte le funiculaire d'Artxanda ?
-  respuesta: Il est bon marché, et encore moins cher avec la carte Barik. La montée dure environ 3 minutes, avec un départ toutes les 15 minutes de 7 h 15 à 22 h (jusqu'à 23 h en été), depuis la Plaza del Funicular, à 5 minutes de la vieille ville.
-- pregunta: Que faire à Bilbao avec des enfants quand il pleut ?
-  respuesta: L'Azkuna Zentroa (entrée gratuite dans le bâtiment), le musée des Beaux-Arts (gratuit pour les mineurs), l'Itsasmuseum et le centre commercial Zubiarte, avec cinéma, à côté du Guggenheim.
-- pregunta: Bilbao est-elle pratique avec une poussette ?
-  respuesta: 'Assez : la vieille ville est piétonne et plate, et toutes les stations de métro ont un ascenseur. Les trottoirs de l''Ensanche sont étroits et il y a des pentes dans la vieille ville et à Artxanda, où le funiculaire aide.'
 ---
+
+**Bilbao est une ville très confortable avec des enfants.** Elle est compacte, plate le long de la ria, avec un métro et un tramway faciles, des parcs, un funiculaire avec vue et des plages à environ 40 minutes en métro. Ce guide rassemble les idées qui fonctionnent vraiment en famille, en combinant ville et côte sans stress.
 
 ## Activités adaptées aux enfants à réserver
 
@@ -52,60 +42,65 @@ faq:
 | [Musée et stade de San Mamés](/fr/cities/bilbao/activities/san-mames-visite-stade-musee-athletic) | 4,8★ (1 710) | 16,50 € |
 | [Gaztelugatxe, Bermeo, Mundaka et Guernica avec txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4,7★ (3 229) | 45 € |
 
-## Que faire à Bilbao avec des enfants
+La clé est d'alterner : une matinée de ria et de sculptures, un après-midi de parc ou de plage. Et de profiter des transports en commun, qui mettent tout à portée de main.
 
-**Funiculaire d'Artxanda.** Il monte en moins de trois minutes jusqu'au belvédère offrant les plus belles vues sur Bilbao entre les montagnes. En haut, un parc et une aire de jeux. Bon marché et amusant.
+## Les idées qui marchent
 
-**Sculptures du Guggenheim (de l'extérieur).** Sans entrer dans le musée, les enfants adorent **Puppy** (le chien géant en fleurs), l'araignée **Maman** et la sculpture de brouillard. La balade le long de la ría est gratuite.
+**Funiculaire d'Artxanda.** Moins de trois minutes pour monter au belvédère qui offre la plus belle vue sur Bilbao entre les montagnes. En haut, il y a un parc et une aire de jeux. Bon marché et amusant.
 
-**Bateau sur la ría.** Départ du quai Pío Baroja, à côté du Guggenheim : la sortie d'une heure passe devant le musée et les ponts du centre, celle de deux heures va jusqu'au pont Bizkaia. Assez courte pour les petits, avec audioguide sur le téléphone, dès 15 €.
+**Sculptures du Guggenheim (de l'extérieur).** Sans entrer dans le musée, les enfants sont émerveillés par **« Puppy »** (le chien géant en fleurs), l'araignée **« Maman »** et la sculpture de brouillard. Se promener le long de la ria est gratuit et spectaculaire.
 
-[actividad: barco-ria-bilbao-portugalete]
+**Itsasmuseum (musée maritime).** Au bord de la ria, avec des grues, des bateaux et des docks que les petits adorent ; une grande partie est en plein air. Ouvert du mardi au dimanche, de 11 h à 19 h ; fermé le lundi.
 
-**Itsasmuseum (musée maritime).** Au bord de la ría, avec des grues, des bateaux et des docks qui ravissent les enfants ; beaucoup de choses en plein air. Ouvert du mardi au dimanche, de 11 h à 19 h ; fermé le lundi.
-
-**Parc Doña Casilda.** Le grand parc de la ville : canards, étang, aire de jeux et jets d'eau. Idéal pour qu'ils se défoulent.
-
-**Tramway et Azkuna Zentroa.** Le tramway longe la ría ; à l'**Azkuna Zentroa** (Alhóndiga), une piscine au fond de verre visible d'en dessous, des colonnes étonnantes et une bibliothèque pour enfants.
+**Bateau sur la ria.** Depuis l'embarcadère Pío Baroja, près du Guggenheim, la balade d'une heure passe devant le musée et les ponts du centre ; celle de deux heures va jusqu'au pont de Biscaye. Assez courte pour les petits, avec un audioguide sur votre téléphone.
 
 [actividad: bilbao-estuary-boat-tour-portugalete]
 
-## Plages près de Bilbao en métro
+**Parc Doña Casilda.** Le grand parc de la ville : canards, étang, aire de jeux et fontaines. Idéal pour les laisser courir.
 
-C'est le meilleur de Bilbao avec des enfants : la **ligne 1 du métro** mène aux plages familiales de **Plentzia** et **Gorliz**, au sable large et à l'eau calme, sans voiture.
+**Le métro jusqu'à la plage.** Le meilleur de Bilbao avec des enfants : en métro (ligne 1), vous rejoignez les plages familiales de **Plentzia** et de **Gorliz** (large étendue de sable et eau calme) en 30-40 minutes, sans voiture.
 
-- **Plentzia :** environ 40 minutes depuis le Casco Viejo.
-- **Gorliz :** 15 minutes à pied depuis Plentzia ; plate et peu profonde.
-- Avec Barik, **moins de 2 € le trajet**.
+**Tramway et Azkuna Zentroa.** Le tramway longe la ria ; à l'**Azkuna Zentroa** (Alhóndiga), il y a une piscine au fond vitré que l'on voit d'en dessous, de curieuses colonnes et une bibliothèque pour enfants.
 
-## Bilbao en famille : un week-end
+## Un week-end en famille
 
-- **Premier jour :** le matin, la ría et les sculptures du Guggenheim ; l'après-midi, le funiculaire d'Artxanda.
-- **Deuxième jour :** le matin, l'Itsasmuseum et Doña Casilda ; l'après-midi, la plage en métro.
-- **Avec un jour de plus :** le pont Bizkaia et Getxo, ou des pintxos en famille.
+| Jour | Programme |
+| --- | --- |
+| Jour 1 | Matin : ria et sculptures du Guggenheim · Après-midi : funiculaire d'Artxanda |
+| Jour 2 | Matin : Itsasmuseum et Doña Casilda · Après-midi : plage en métro (Plentzia/Gorliz) |
+| Jour en plus | Pont de Biscaye (nacelle) et Getxo, ou pintxos en famille |
 
-Le secret, c'est d'alterner : une matinée de ría et de sculptures, un après-midi de parc ou de plage.
+## Pratique : transports, prix et pluie
 
-## Se déplacer, prix et jours de pluie
-
-- **Carte Barik :** rechargeable, 3 € dans n'importe quelle station de métro. Elle sert pour le métro, le tramway, le Bizkaibus, le funiculaire et le pont Bizkaia, rend les trajets bien moins chers que le billet simple et **une carte vaut pour plusieurs personnes**. Achetez-la en arrivant.
-- **Funiculaire d'Artxanda :** environ 3 minutes de montée, toutes les 15 minutes de 7 h 15 à 22 h (jusqu'à 23 h en été) ; moins cher avec Barik. Départ de la Plaza del Funicular, à 5 minutes de la vieille ville par le pont Zubizuri.
-- **Pont Bizkaia :** la nacelle coûte moins de 1 € par personne et traverse toutes les 8 minutes ; la passerelle supérieure, avec ascenseur et vue, coûte environ 10 € (2026). Métro Areeta (Getxo) ou Portugalete.
-- **S'il pleut :** l'Azkuna Zentroa (entrée gratuite dans le bâtiment), le musée des Beaux-Arts (gratuit pour les mineurs), l'Itsasmuseum et le centre commercial Zubiarte, avec cinéma, à côté du Guggenheim.
+- **Carte Barik :** la carte rechargeable (3 € dans n'importe quelle station de métro) fonctionne dans le métro, le tramway, les Bizkaibus, le funiculaire et le pont de Biscaye, et fait baisser le prix du trajet bien en dessous du billet simple. Une même carte peut servir à plusieurs personnes voyageant ensemble ; achetez-la à votre arrivée.
+- **Funiculaire d'Artxanda :** le trajet dure environ 3 minutes, avec des départs toutes les 15 minutes, et il est moins cher avec la Barik. Il part de la Plaza del Funicular, à 5 minutes de la vieille ville par le pont Zubizuri.
+- **Le métro jusqu'à la plage :** ligne 1 jusqu'à Plentzia (environ 40 minutes depuis Casco Viejo), puis 15 minutes à pied jusqu'à la plage de Gorliz, plate et peu profonde.
+- **Pont de Biscaye :** la traversée en nacelle coûte moins de 1 € par personne ; la passerelle supérieure, accessible par ascenseur, environ 10 € (tarifs 2026). Métro jusqu'à Areeta (Getxo) ou Portugalete.
+- **Jours de pluie :** l'Azkuna Zentroa (entrée libre dans le bâtiment), le musée des Beaux-Arts (gratuit pour les enfants) et l'Itsasmuseum. Le centre commercial Zubiarte, à côté du Guggenheim, a un cinéma.
 - **Poussettes :** la vieille ville est piétonne et plate, mais les trottoirs de l'Ensanche sont étroits ; toutes les stations de métro ont un ascenseur.
 
-## Environs et où manger avec des enfants
+## Aux alentours avec des enfants
 
-À une demi-heure, le **pont Bizkaia** de Getxo, classé au patrimoine mondial, franchit la ría avec une nacelle suspendue. Plus loin, à Karrantza, **Karpin Abentura** (parc animalier) et les **grottes de Pozalagua**. **Gaztelugatxe** (241 marches) convient mieux aux plus grands.
+À une demi-heure, le **pont de Biscaye** (pont suspendu) de Getxo traverse la ria avec une nacelle suspendue ; il est inscrit au patrimoine mondial. Plus loin, à Karrantza, **Karpin Abentura** (un parc animalier) et les **grottes de Pozalagua**. **Gaztelugatxe** (241 marches) convient mieux aux enfants plus grands.
 
-Pour manger, les **pintxos** de la vieille ville permettent de grignoter sans attendre : beaucoup de bars proposent tortilla, croquetas et des choses simples qui plaisent aux enfants. Le **marché de la Ribera** a un espace de dégustation. Réservez si vous voulez une table pour vous poser.
+## Où manger avec des enfants
 
-## Ce que nous déconseillons et les erreurs fréquentes
+Les **pintxos** de la vieille ville sont pratiques pour grignoter sans attendre ; beaucoup de bars proposent de la tortilla, des croquettes et des options simples qui plaisent aux enfants. Le **marché de La Ribera** a un espace de dégustation. Réservez si vous voulez une table pour vous asseoir tranquillement.
 
-1. **Emmener de très jeunes enfants à Gaztelugatxe.** 241 marches à monter et à descendre.
-2. **Visiter l'intérieur du Guggenheim avec de petits enfants.** Mieux vaut les sculptures extérieures, sauf atelier pour enfants.
-3. **Renoncer au programme sous la bruine.** Le sirimiri est fréquent : prenez un imperméable, presque tout est à l'abri ou résiste à la pluie.
-4. **Ne pas prendre le métro pour la plage.** C'est le moyen le plus pratique de combiner ville et côte.
-5. **Sous-estimer les pentes de la vieille ville et d'Artxanda** avec une poussette ; le funiculaire aide.
+## Ce que nous ne recommandons pas avec des enfants
 
-Pour le programme des adultes, voyez [Bilbao en une journée](/fr/guides/bilbao/bilbao-en-une-journee).
+1. **Emmener de très jeunes enfants à Gaztelugatxe.** Il y a 241 marches à monter et à descendre.
+2. **Enchaîner les salles du Guggenheim avec de jeunes enfants.** Mieux vaut les sculptures extérieures, sauf s'il y a un atelier pour enfants.
+3. **Renoncer au programme s'il bruine.** Le sirimiri est fréquent ; presque tout est couvert ou résiste à la pluie.
+
+## Erreurs fréquentes
+
+> **⚠️ Attention :** les faux pas que nous voyons le plus chez les familles.
+
+1. **Ne pas prendre le métro pour aller à la plage.** C'est le moyen le plus simple de combiner ville et côte.
+2. **Oublier l'imperméable.** Il pleut souvent toute l'année.
+3. **Sous-estimer les pentes de la vieille ville et d'Artxanda** avec une poussette ; le funiculaire aide.
+
+## En une phrase
+
+Bilbao avec des enfants, c'est le funiculaire, les sculptures au bord de la ria et les plages à un trajet de métro : une ville plate et bien desservie où culture et côte se combinent sans voiture. Pour le programme adulte, consultez [Bilbao en une journée](/en/guides/bilbao/bilbao-in-one-day).

@@ -1,12 +1,11 @@
 ---
 titulo: "Malaga en deux jours : un itinéraire réfléchi entre musées et mer"
 descripcion: "Que voir à Malaga en deux jours : Alcazaba, cathédrale, musée Picasso, Caminito del Rey et plages. Itinéraire heure par heure, où manger, où dormir et ce qu'il faut éviter."
-intro: '**Malaga en deux jours**, c''est très rentable : le centre historique est compact, plat et piéton, et 48 heures suffisent pour l''**Alcazaba**, le château de Gibralfaro, la cathédrale, le **musée Picasso**, la plage de la Malagueta et, avec un peu d''organisation, le **Caminito del Rey**. En quinze ans, la ville est passée de lieu de transit à capitale culturelle riche de plus de trente musées, sans cesser d''être une ville de mer.'
-respuestaCorta: 'Malaga en deux jours : le **premier jour au centre historique** (Alcazaba et Gibralfaro, 10 € le billet combiné ; cathédrale, musée Picasso et espeto au coucher du soleil à la Malagueta), le **second au Caminito del Rey**, **complet des semaines à l''avance**, ou à Nerja, Ronda ou Antequera. Le tour guidé au Caminito depuis Malaga coûte dès 72 €.'
+respuestaCorta: 'Consacrez la **première journée au centre historique** : Alcazaba et Gibralfaro (10 € le billet combiné), la cathédrale, le musée Picasso et un espeto au coucher du soleil à la Malagueta. La **seconde, au Caminito del Rey**, qui **est complet des semaines à l''avance**, ou à Nerja, Ronda ou Antequera. La visite guidée du Caminito au départ de Malaga commence à 72 €.'
 categoria: "malaga"
 slug: "malaga-en-deux-jours"
 fecha: "2026-02-28"
-fecha_actualizacion: '2026-11-07'
+fecha_actualizacion: '2026-11-03'
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
@@ -42,20 +41,9 @@ actividades:
   - malaga-tour-vino-tapas
 imagen_portada: "/images/guias/malaga-en-dos-dias.jpg"
 imagen_alt: "Vue de Malaga depuis l'Alcazaba"
-faq:
-- pregunta: Que voir à Malaga en deux jours ?
-  respuesta: 'Le premier jour, le centre historique : Alcazaba et théâtre romain, château de Gibralfaro, cathédrale, musée Picasso et coucher de soleil au Muelle Uno et à la Malagueta. Le second, le Caminito del Rey ou une excursion à Nerja et Frigiliana, Ronda ou Antequera.'
-- pregunta: Faut-il réserver le Caminito del Rey ?
-  respuesta: 'Oui. Il est complet des semaines à l''avance et on n''entre pas sans réservation. Les billets se vendent uniquement en ligne : 10 € en visite libre et 18 € avec guide, plus 2,50 € de navette. Réservez-le avant l''hébergement.'
-- pregunta: Combien coûte l'Alcazaba de Malaga ?
-  respuesta: Le billet combiné Alcazaba et Gibralfaro coûte 10 € (7 € chaque monument séparément) et l'entrée est gratuite le dimanche dès 14 h. Ouvert de 9 h à 20 h en été et jusqu'à 18 h en hiver.
-- pregunta: Peut-on monter sur les toits de la cathédrale de Malaga ?
-  respuesta: 'Pas pour l''instant : la visite des toits est suspendue pour travaux, en principe jusqu''à fin 2027. Pour une vue à 360°, montez au château ou au belvédère de Gibralfaro.'
-- pregunta: Où dormir à Malaga pour deux jours ?
-  respuesta: Dans le centre historique pour tout faire à pied ; dans le Soho, entre l'Alameda et le fleuve ; ou à la Malagueta si vous voulez la plage à deux pas.
 ---
 
-Si vous n'avez qu'une journée, ou arrivez en croisière, la version condensée se trouve dans [que voir à Malaga en une journée](/fr/guides/malaga/que-voir-a-malaga-en-une-journee).
+**Deux jours à Malaga, c'est très rentable.** Le centre historique est compact, plat et piéton : en 48 heures, on y fait tenir l'Alcazaba, le musée Picasso, la cathédrale, la plage et, en s'organisant bien, le Caminito del Rey. Le piège, c'est de ne la voir que comme un aéroport et une plage : qui repart sans avoir vu autre chose que la Malagueta a manqué l'autre moitié d'une ville qui, en quinze ans, est passée de simple ville de transit à capitale culturelle avec plus de trente musées. Si vous n'avez qu'une journée, ou si vous arrivez en croisière, la version condensée est dans [que voir à Malaga en une journée](/fr/guides/malaga/que-voir-a-malaga-en-une-journee).
 
 ## Réservez l'essentiel
 
@@ -68,7 +56,13 @@ Si vous n'avez qu'une journée, ou arrivez en croisière, la version condensée 
 | [Bains arabes Hammam Al Ándalus](/en/cities/malaga/activities/hammam-al-andalus-malaga-ticket) | 4,7★ (2 909) | 60 € |
 | [Caminito del Rey guidé depuis Malaga](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4,9★ (19 083) | 72 € |
 
-## Jour 1 : centre historique et musées
+## Quand y aller et comment s'y rendre
+
+**De mars à juin et de septembre à octobre**, c'est l'idéal ; **de novembre à février**, Malaga jouit de l'un des meilleurs climats urbains d'Espagne et l'on mange en terrasse ; juillet et août sont pénibles pour flâner à midi, et à la mi-août la **Feria** remplit la ville et fait grimper les prix. La Semaine sainte (avec ses chars processionnels énormes) et le Festival du film (mars) la remplissent aussi.
+
+L'**AVE** arrive de Madrid en 2 h 20, de Cordoue en 1 h et de Séville en moins de 2 h ; la gare María Zambrano est à 15 minutes à pied du centre. Depuis l'**aéroport**, le train de banlieue Cercanías C-1 vous dépose dans le centre en 12 minutes pour 1,80 €. Une fois sur place, tout se fait à pied ; la voiture ne fait que gêner (zone à faibles émissions, stationnement cher).
+
+## Jour 1: centre historique et musées
 
 | Heure | Quoi |
 | --- | --- |
@@ -76,61 +70,49 @@ Si vous n'avez qu'une journée, ou arrivez en croisière, la version condensée 
 | 11 h | Château de Gibralfaro |
 | 12 h 30 | Cathédrale |
 | 14 h | Déjeuner : Atarazanas, Carretería |
-| 16 h 30 | Musée Picasso et place de la Merced |
+| 16 h 30 | Musée Picasso et plaza de la Merced |
 | 19 h 30 | Muelle Uno et coucher de soleil à la Malagueta |
 
-- **Alcazaba :** la forteresse-palais andalouse la mieux conservée d'Espagne, avec patios et jardins en terrasses au-dessus de la ville. À ses pieds, le **théâtre romain**, qui se voit de l'extérieur en cinq minutes. Comptez une heure et quart.
-- **Gibralfaro :** montez par la muraille, ou en **bus 35** s'il fait chaud, pour la plus belle vue sur le port, les arènes et la mer. Une demi-heure.
-- **La cathédrale**, « la Manquita » (la manchote) car il lui manque une tour. La **visite des toits est suspendue** pour travaux, en principe jusqu'à fin 2027 ; pour une vue à 360°, le château ou le belvédère de Gibralfaro.
-- **Musée Picasso :** plus de 200 œuvres dans le palais de Buenavista et, à cinq minutes, la **maison natale** sur la place de la Merced. Envie de plus ? Le Pompidou (le Cube), le Carmen Thyssen ou la Collection du Musée russe.
-- **Muelle Uno et la Malagueta :** le port réaménagé et un **espeto de sardinas** (brochette de sardines) dans un chiringuito au coucher du soleil, le plan le plus malagueño qui soit.
+- **Alcazaba :** la forteresse-palais andalouse la mieux conservée d'Espagne, avec des patios et des jardins en terrasses au-dessus de la ville ; à ses pieds, le **théâtre romain**, qui se voit de l'extérieur en cinq minutes. Une heure et quart.
+- **Gibralfaro :** montez le long de la muraille, ou en bus 35 s'il fait trop chaud, pour la meilleure vue sur le port, les arènes et la mer. Une demi-heure.
+- **La cathédrale**, surnommée « la Manquita » (la manchote) parce qu'il lui manque une tour : la visite des **toits** est suspendue pendant les travaux de la toiture, sans doute jusqu'à fin 2027. Pour une vue à 360°, montez plutôt au château ou au mirador de Gibralfaro.
+- **Musée Picasso**, plus de 200 œuvres dans le palais de Buenavista, et à cinq minutes la **maison natale** sur la Merced. Si vous voulez plus de musées : Pompidou (le Cube), Carmen Thyssen, Collection du Musée russe.
+- **Muelle Uno et la Malagueta :** le port réaménagé et un espeto de sardines dans un chiringuito au coucher du soleil, le programme le plus malaguène qui soit.
 
-## Jour 2 : Caminito del Rey ou côte
+## Jour 2: Caminito del Rey ou côte
 
-Le **Caminito del Rey**, à une heure en train de banlieue ou en voiture, est une passerelle accrochée aux parois du défilé des Gaitanes : environ **8 km linéaires, 3-4 heures avec la navette**, et il est **complet des semaines à l'avance** ; sans réservation, on n'entre pas.
+Le **Caminito del Rey**, à une heure en train de banlieue ou en voiture, est une passerelle accrochée aux parois du défilé de los Gaitanes : environ 8 km linéaires, 3 à 4 heures avec la navette, et **il est complet des semaines à l'avance** ; sans réservation, on n'entre pas. Départ à 9 h, parcours de 10 h 30 à 13 h 30, déjeuner à El Chorro ou à Álora et après-midi à la plage à Malaga. Nous l'expliquons dans [comment visiter le Caminito](/fr/guides/malaga/caminito-del-rey-comment-le-visiter).
 
-- **9 h** départ de Malaga.
-- **10 h 30-13 h 30** parcours.
-- Déjeuner à El Chorro ou Álora, puis après-midi à la plage à Malaga.
+**Si vous préférez la côte :** Nerja et Frigiliana (le Balcón de Europa et l'un des plus beaux villages blancs), Ronda au bord de son ravin, ou Antequera avec ses dolmens et El Torcal.
 
-Tous les détails dans [comment visiter le Caminito del Rey](/fr/guides/malaga/caminito-del-rey-comment-le-visiter). Si vous ne trouvez pas de billet seul, le tour guidé depuis Malaga inclut transport et entrée :
-
-[actividad: caminito-del-rey-guiado-desde-malaga]
-
-**Vous préférez la côte ?** Nerja et Frigiliana (le Balcón de Europa et l'un des plus jolis villages blancs), Ronda au-dessus de sa gorge, ou Antequera avec ses dolmens et El Torcal.
-
-## Alcazaba Malaga, Picasso et Caminito del Rey : prix et horaires
+## Prix et horaires
 
 | Lieu | Prix | Horaires |
 | --- | --- | --- |
-| Alcazaba + Gibralfaro | 10 € combiné (7 € chacun) ; gratuit le dimanche dès 14 h | 9 h-20 h en été, jusqu'à 18 h en hiver |
-| Musée Picasso | 13 € avec audioguide ; gratuit pour les moins de 17 ans et pour tous le dimanche les deux dernières heures | 10 h-18 h (19 h au printemps et en automne, 20 h en juillet et août) |
+| Alcazaba + Gibralfaro | 10 € le billet combiné (7 € chacun) ; gratuit le dimanche à partir de 14 h | 9 h-20 h en été, jusqu'à 18 h en hiver |
+| Musée Picasso | 13 € avec audioguide ; gratuit pour les moins de 17 ans et pour tous le dimanche pendant les deux dernières heures | 10 h-18 h (19 h au printemps et en automne, 20 h en juillet et août) |
 | Maison natale · Pompidou · Carmen Thyssen | 4 € · 9 € (fermé le mardi) · 10 € (fermé le lundi) | |
-| Cathédrale | 10 € avec audioguide ; gratuit moins de 13 ans | Fermée le dimanche matin |
+| Cathédrale | 10 € avec audioguide ; gratuit pour les moins de 13 ans | Fermée le dimanche matin |
 | Théâtre romain | Gratuit | Fermé le lundi |
 | Caminito del Rey | 10 € en visite libre, 18 € avec guide, uniquement en ligne ; navette 2,50 € | Train jusqu'à El Chorro, 45 min |
+| Transports | Bus 1,40 € ; C-1 vers Torremolinos-Fuengirola 3,60 €, toutes les 20 min | Marché d'Atarazanas, du lundi au samedi 8 h-15 h |
 
-La plage de la Malagueta est à 10 minutes du centre, surveillée de juin à septembre ; transat et parasol, 10-15 €.
+Plage de la Malagueta à 10 minutes du centre, surveillée de juin à septembre ; transat et parasol, 10-15 €.
 
-## Quand y aller, comment s'y rendre et se déplacer
+## Dormir et manger
 
-- **Quand :** mars-juin et septembre-octobre sont idéaux. **De novembre à février**, l'un des meilleurs climats urbains d'Espagne : on déjeune en terrasse. Juillet et août sont durs pour flâner à midi. La **Feria** (mi-août), la Semaine sainte et le Festival du film (mars) remplissent la ville et font grimper les prix.
-- **En train :** l'AVE arrive de Madrid en 2 h 20, de Cordoue en 1 h et de Séville en moins de 2 h. La gare María Zambrano est à 15 minutes à pied du centre.
-- **En avion :** le train de banlieue C-1 vous dépose au centre en **12 minutes pour 1,80 €**.
-- **En ville :** tout à pied. La voiture ne fait que gêner (zone à faibles émissions, stationnement cher). Le bus coûte 1,40 € et le C-1 vers Torremolinos et Fuengirola 3,60 €, toutes les 20 minutes.
+Dormez dans le **centre historique** (tout à pied), dans le **Soho** (street art, entre l'Alameda et le fleuve) ou à la **Malagueta** si vous voulez la plage à deux pas ; évitez les résidences en bord de route, sauf si vous venez en voiture uniquement pour le soleil.
 
-## Où dormir et où manger
+La cuisine est marine et simple : **espeto de sardines**, **friture malaguène**, **boquerones victorianos** (anchois frits), **porra antequerana** et le **vin doux de Malaga** dans une bodega historique comme El Pimpi. Fuyez les terrasses aux menus plastifiés face à la cathédrale ou sur la calle Larios : deux rues plus loin, à Carretería, dans le Soho ou à Atarazanas, on mange bien mieux pour moins cher.
 
-Dormez dans le **centre historique** (tout à pied), dans le **Soho** (street art, entre l'Alameda et le fleuve) ou à la **Malagueta** pour avoir la plage à deux pas. Évitez les complexes en bord de route, sauf si vous venez en voiture uniquement pour le soleil.
+## Erreurs fréquentes
 
-La cuisine est marine et simple : **espeto de sardinas**, **fritura malagueña** (friture de poissons), **boquerones victorianos** (anchois frits), **porra antequerana** (un salmorejo plus épais) et le **vin doux de Malaga** dans une bodega historique comme El Pimpi. Le **marché d'Atarazanas** ouvre du lundi au samedi de 8 h à 15 h.
+1. **Rester uniquement à la plage** ou traiter Malaga comme une escale vers Marbella ou Grenade.
+2. **Aller au Caminito sans billet.** Réservez-le avant l'hébergement.
+3. **Monter à Gibralfaro à midi en été.** Allez-y tôt le matin ou prenez le bus 35.
+4. **Prendre la voiture dans le centre.**
+5. **Rater le coucher de soleil à la Malagueta.**
 
-Fuyez les terrasses à menu plastifié face à la cathédrale ou sur la calle Larios : deux rues plus loin, à Carretería, dans le Soho ou autour d'Atarazanas, on mange bien mieux pour moins cher.
+## En une phrase
 
-## Conseils pour votre itinéraire à Malaga
-
-1. **Ne restez pas seulement à la plage** et ne traitez pas Malaga comme une escale vers Marbella ou Grenade.
-2. **N'allez pas au Caminito sans billet.** Réservez-le avant l'hébergement.
-3. **Ne montez pas à Gibralfaro à midi en été.** Tôt le matin ou en bus 35.
-4. **Laissez la voiture hors du centre.**
-5. **Ne manquez pas le coucher de soleil à la Malagueta.**
+Malaga en deux jours, c'est des musées le matin, la mer l'après-midi et, si vous vous organisez, une journée de nature au Caminito del Rey : aucune autre capitale andalouse ne réunit autant de culture, de climat et de plage à la fois.
