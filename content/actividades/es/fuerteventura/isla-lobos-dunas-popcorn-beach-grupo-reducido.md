@@ -80,7 +80,7 @@ numeroOpiniones: 30
 atraccionesRelacionadas:
 - isla-lobos
 - lobos
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'

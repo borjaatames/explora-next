@@ -71,7 +71,7 @@ ratingProveedor: 4.8
 numeroOpiniones: 75
 atraccionesRelacionadas:
 - ria-miradores
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'

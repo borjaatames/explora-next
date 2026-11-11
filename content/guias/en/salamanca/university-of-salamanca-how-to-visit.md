@@ -32,6 +32,12 @@ actividades:
 
 The University of Salamanca is **the oldest university in Spain** (founded 1218) and one of the four oldest in the world, alongside Bologna, Oxford and Paris. What makes the visit special: in the historic classrooms you sit where Fray Luis de León, Nebrija and Unamuno taught, on benches carved with knives by students centuries ago.
 
+## Guided University visits
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [University guided tour with ticket](/en/cities/salamanca/activities/university-of-salamanca-guided-tour) | 4.9★ (44) | €12 |
+| [Old town walking tour with a local guide](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4.8★ (364) | €17 |
 
 [actividad: universidad-salamanca-visita-guiada]
 

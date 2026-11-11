@@ -70,7 +70,7 @@ ratingProveedor: 4.8
 numeroOpiniones: 76
 atraccionesRelacionadas:
 - casco-viejo
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'

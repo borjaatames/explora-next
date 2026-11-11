@@ -95,7 +95,7 @@ galeria:
   alt: Granada iluminada de noche
 ratingProveedor: 4.8
 numeroOpiniones: 609
-publicada: false
+publicada: true
 destacada: false
 fecha: '2026-10-22'
 fecha_actualizacion: '2026-10-22'

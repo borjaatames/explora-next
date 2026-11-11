@@ -40,6 +40,8 @@ If [Salamanca in 1 day](/en/guides/salamanca/salamanca-in-1-day) is the checklis
 
 | Activity | Rating | From |
 | --- | --- | --- |
+| [Old town walking tour with a local guide](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4.8★ (364) | €17 |
+| [Legends walking tour at dusk](/en/cities/salamanca/activities/salamanca-legends-evening-walking-tour) | 4.7★ (90) | €17 |
 | [Guided bike tour](/en/cities/salamanca/activities/salamanca-guided-bike-tour) | 4.6★ (52) | €25 |
 | [Iberian ham masterclass and tasting](/en/cities/salamanca/activities/iberian-ham-masterclass-tasting-salamanca) | 4.9★ (16) | €29 |
 | [Cathedrals ticket with audio guide](/en/cities/salamanca/activities/salamanca-cathedrals-ticket-audio-guide) | 4.6★ (202) | €10 |

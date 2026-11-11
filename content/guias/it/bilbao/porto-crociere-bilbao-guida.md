@@ -115,6 +115,7 @@ San Sebastián è a poco più di un'ora di strada da Bilbao. Per restarci 3-4 or
 | --- | --- | --- |
 | [Guggenheim: visita privata con guida e biglietto](/en/cities/bilbao/activities/guggenheim-bilbao-private-tour-guide-ticket) | 1,5 h (o 4 h con la città) | 320 € per gruppo |
 | [Tour privato a piedi del centro e del Casco Viejo](/en/cities/bilbao/activities/bilbao-private-walking-tour-old-town-ribera), 4,6★ (133) | 2 h | 36 € |
+| [Guggenheim: visita guidata in spagnolo con biglietto](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish), 4,9★ (182) | 2 h | 49 € |
 | [Getxo: giro in bici lungo la costa con pintxo](/en/cities/bilbao/activities/getxo-coastal-bike-tour-pintxos), 4,8★ (46) | 2 h 30 min | 60 € |
 | [Tour di pintxos e bevande nel Casco Viejo](/en/cities/bilbao/activities/bilbao-pintxos-drinks-food-tour-old-town), 4,7★ (62) | 3 h 30 min | 89 € |
 | [Gaztelugatxe, Mundaka e Gernika in privato](/en/cities/bilbao/activities/gaztelugatxe-mundaka-gernika-private-day-trip-from-bilbao) | 7 h | 920 € per gruppo (1-2 persone) |

@@ -72,6 +72,7 @@ opciones:
 | --- | --- | --- | --- | --- |
 | Córdoba | [110 € en AVE, máx. 8](/ciudades/sevilla/actividades/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla) · [109 € en autocar](/ciudades/sevilla/actividades/cordoba-excursion-dia-completo-mezquita-desde-sevilla) | [216 €](/ciudades/sevilla/actividades/cordoba-en-tren-excursion-privada-desde-sevilla) (432 € total) | 167 € (668 €) | 147 € (882 €) |
 | Córdoba en coche privado | — | [379 €](/ciudades/sevilla/actividades/cordoba-excursion-privada-desde-sevilla) (758 €) | — | 160 € (960 €) |
+| Ronda (y pueblos blancos) | [47 €](/ciudades/sevilla/actividades/pueblos-blancos-ronda-excursion-dia-desde-sevilla) | [250 €](/ciudades/sevilla/actividades/ronda-excursion-privada-desde-sevilla-con-o-sin-guia) sin guía (500 €) | 180 € (720 €) | 125 € (750 €) |
 | Pueblos blancos y Ronda en privado | — | [389 €](/ciudades/sevilla/actividades/pueblos-blancos-ronda-excursion-privada-desde-sevilla) (778 €) | — | 160 € (960 €) |
 | Cádiz y Jerez | [95 €](/ciudades/sevilla/actividades/cadiz-jerez-frontera-excursion-dia-desde-sevilla) | [435 €](/ciudades/sevilla/actividades/cadiz-jerez-excursion-privada-desde-sevilla-bodega) (870 €) | 290 € (1.160 €) | 230 € (1.380 €) |
 | Gibraltar | — | [430 €](/ciudades/sevilla/actividades/gibraltar-excursion-privada-desde-sevilla) (860 €) | 260 € (1.040 €) | 200 € (1.200 €) |

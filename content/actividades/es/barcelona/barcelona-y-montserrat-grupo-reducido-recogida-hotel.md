@@ -90,7 +90,7 @@ galeria:
   alt: 'Viajeros junto a la furgoneta del tour ante la Sagrada Família'
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp
   alt: 'Fachada de la Sagrada Familia de Barcelona con torres góticas y elementos arquitectónicos modernistas'
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-12'

@@ -38,6 +38,7 @@ actividades:
 
 | Activity | Rating | From |
 | --- | --- | --- |
+| [Guided walking tour of Roman Tarraco](/en/cities/tarragona/activities/roman-tarraco-walking-tour) | 4.7★ (334) | €15 |
 | [Cathedral ticket with audio guide](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4.4★ (105) | €12.5 |
 | [Self-guided audio tour (DareMapp app)](/en/cities/tarragona/activities/self-guided-tour-daremapp-tarragona) | — | €5 |
 

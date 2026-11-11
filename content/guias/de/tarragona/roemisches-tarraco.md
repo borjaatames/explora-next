@@ -40,6 +40,7 @@ reservasArriba: true
 
 | Aktivität | Bewertung | Ab |
 | --- | --- | --- |
+| [Geführter Rundgang durch das römische Tarraco](/en/cities/tarragona/activities/roman-tarraco-walking-tour) | 4,7★ (334) | 15 € |
 | [Eintritt in die Kathedrale mit Audioguide](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4,4★ (105) | 12,5 € |
 
 Das Wichtigste: Es gibt mehrere einzelne Baudenkmäler, aber das **Kombiticket** ist viel günstiger. Und wenn du kannst, komm im Mai, wenn die Stadt römisch wird.

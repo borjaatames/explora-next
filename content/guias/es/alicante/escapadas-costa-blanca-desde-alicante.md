@@ -45,6 +45,7 @@ actividades:
 | --- | --- | --- |
 | [Guadalest, Altea y Fuentes del Algar](/ciudades/alicante/actividades/excursion-guadalest-altea-algar-desde-alicante) | 4,8★ (3.714) | 47 € |
 | [Barco de ida y vuelta a la isla de Tabarca](/ciudades/alicante/actividades/barco-alicante-isla-tabarca-ida-vuelta) | 4,3★ (5.628) | 25 € |
+| [Tour de vino por el campo con 4 catas en grupo reducido](/ciudades/alicante/actividades/tour-vino-bodega-alicante-4-catas) | 4,9★ (445) | 65 € |
 
 Además de la **Isla de Tabarca** (que tiene su propia guía: [cómo visitarla](/guias/alicante/isla-de-tabarca-como-visitar)), estas son las salidas que más compensan.
 

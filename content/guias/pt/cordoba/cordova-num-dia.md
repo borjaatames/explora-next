@@ -66,6 +66,7 @@ imagen_alt: "A Mesquita-Catedral e a Ponte Romana de Córdova sobre o Guadalquiv
 | [Tour guiado pela Mesquita-Catedral sem filas](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour) | 4,6★ (10.966) | 32 € |
 | [Tour pela Mesquita e pela Judiaria com bilhetes](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) | 4,5★ (2.200) | 34 € |
 | [Os autênticos pátios cordoveses, tour de 2 horas com bilhetes](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4,3★ (1.106) | 19 € |
+| [Tour guiado de 3 horas a Medina Azahara](/en/cities/cordoba/activities/medina-azahara-3-hour-guided-tour) | 4,6★ (1.034) | 18 € |
 | [Espetáculo equestre nas Caballerizas Reales](/pt/cities/cordoba/activities/cordova-espetaculo-equestre-caballerizas-reales) | 4,5★ (2.910) | 18,5 € |
 | [Espetáculo de flamenco no Tablao Cardenal com bebida](/pt/cities/cordoba/activities/cordova-flamenco-tablao-cardenal-bebida) | 4,8★ (1.167) | 25 € |
 

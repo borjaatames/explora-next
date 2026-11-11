@@ -78,7 +78,7 @@ imagen: /images/actividades/sevilla/ronda/vista-tajo-puente-nuevo.webp
 imagenAlt: 'Vista del Tajo de Ronda desde el Puente Nuevo'
 ratingProveedor: 5.0
 numeroOpiniones: 6
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'

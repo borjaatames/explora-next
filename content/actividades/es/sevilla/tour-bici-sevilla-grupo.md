@@ -98,7 +98,7 @@ galeria:
   alt: 'Casas de colores de Triana junto al río Guadalquivir'
 ratingProveedor: 4.9
 numeroOpiniones: 1636
-publicada: false
+publicada: true
 destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-04'

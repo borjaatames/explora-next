@@ -74,7 +74,7 @@ numeroOpiniones: 721
 atraccionesRelacionadas:
 - palma
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'

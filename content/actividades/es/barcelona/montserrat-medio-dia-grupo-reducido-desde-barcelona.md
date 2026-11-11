@@ -74,7 +74,7 @@ galeria:
   alt: 'Puente del Bisbe en el Barrio Gótico'
 - src: /images/actividades/barcelona/fotos-biblioteca/wikimedia-05.webp
   alt: 'Catedral de Barcelona'
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-11-05'

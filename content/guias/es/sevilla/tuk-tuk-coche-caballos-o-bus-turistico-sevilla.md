@@ -75,6 +75,7 @@ opciones:
 | [Coche de caballos privado con guía](/ciudades/sevilla/actividades/paseo-coche-caballos-sevilla-guia-privado) | 1 h 30 min | 149 € (298 €) | 74,50 € (298 €) | 99,33 € (2 coches, 596 €) |
 | Coche de caballos de parada | Variable | Tarifa municipal: pregunta antes | — | — |
 | [Tour a pie, grupo de máx. 10](/ciudades/sevilla/actividades/sevilla-small-group-city-highlights-walking-tour) | 2 h | 25 € | 25 € | 25 € |
+| [Tour en bici en grupo](/ciudades/sevilla/actividades/tour-bici-sevilla-grupo) (en inglés) | 3 h | 28 € | 28 € | 28 € |
 
 Precios «desde» de nuestras fichas a 1 de noviembre de 2026; en los tuk tuks usamos los tramos por número de personas que publica la ficha. Tuk tuk y coche de caballos llevan como máximo 4 pasajeros por vehículo.
 

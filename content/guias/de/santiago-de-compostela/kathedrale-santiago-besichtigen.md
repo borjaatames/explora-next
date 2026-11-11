@@ -66,6 +66,7 @@ Der Schlüssel: Trenn das Kostenlose (das Gotteshaus, das Grab des Apostels) von
 | Option | Preis | Was enthalten ist | Für wen |
 | --- | --- | --- | --- |
 | [Kathedrale und Museum ohne Anstehen](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 25 € | Guide, Tickets für Kathedrale und Museum; Pórtico de la Gloria je nach gewählter Option | Wer Kathedrale und Museum mit Erklärungen sehen will |
+| [Dächer und Carraca-Turm](/en/cities/santiago-de-compostela/activities/santiago-cathedral-rooftops-tour) | 37 € | Zugang zu den Dächern und zum Carraca-Turm, Kathedralmuseum, Guide auf Spanisch | Wer den Blick vom Dach über die Altstadt will |
 | [Pórtico de la Gloria, Kathedrale und Altstadt](/en/cities/santiago-de-compostela/activities/santiago-portico-of-glory-cathedral-city-tour) | 40 € | Eintritt zum Pórtico de la Gloria, offizieller Guide, Kathedrale und Altstadt | Wer das Pórtico und einen Altstadtrundgang verbinden will |
 
 ## Der Botafumeiro

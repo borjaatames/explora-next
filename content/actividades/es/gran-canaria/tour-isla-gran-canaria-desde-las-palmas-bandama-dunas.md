@@ -80,7 +80,7 @@ atraccionesRelacionadas:
 - isla
 - interior
 - dunas
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'

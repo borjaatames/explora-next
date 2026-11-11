@@ -53,6 +53,7 @@ O Guggenheim Bilbau quase nunca fica sem lugares para um dia inteiro. O que acon
 
 | Se quer… | Opção | Desde |
 | --- | --- | --- |
+| A mais bem avaliada (visita em espanhol) | [Visita guiada ao Guggenheim com entrada](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish), 4,9★ (182) | 49 € |
 | Um grupo pequeno e mais tempo com o guia | [Visita VIP em grupo reduzido com entrada](/pt/cities/bilbao/activities/guggenheim-bilbao-visita-vip-grupo-reduzido), 4,5★ (763) | 95 € |
 
 ## 1. Volte a consultar o site oficial

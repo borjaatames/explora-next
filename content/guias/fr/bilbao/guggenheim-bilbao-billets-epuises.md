@@ -53,6 +53,7 @@ Le Guggenheim Bilbao n'est presque jamais à court de places pour toute la journ
 
 | Si vous cherchez… | Option | À partir de |
 | --- | --- | --- |
+| La mieux notée, en espagnol | [Visite guidée du Guggenheim avec billet](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish), 4,9★ (182) | 49 € |
 | Petit groupe et plus de temps avec le guide | [Visite VIP en petit groupe avec billet](/fr/cities/bilbao/activities/guggenheim-bilbao-visite-vip-petit-groupe), 4,5★ (763) | 95 € |
 
 ## 1. Retournez sur le site officiel

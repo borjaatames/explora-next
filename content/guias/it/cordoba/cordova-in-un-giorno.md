@@ -66,6 +66,7 @@ imagen_alt: "La Moschea-cattedrale di Cordova e il Ponte Romano sul Guadalquivir
 | [Tour guidato salta-fila della Moschea-cattedrale](/it/cities/cordoba/activities/moschea-cattedrale-visita-guidata-salta-fila) | 4,6★ (10.966) | 32 € |
 | [Tour della Moschea e del quartiere ebraico con biglietti](/it/cities/cordoba/activities/tour-a-piedi-mezquita-juderia-cordoba) | 4,5★ (2.200) | 34 € |
 | [Tour dei patios autentici con biglietti, 2 ore](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4,3★ (1.106) | 19 € |
+| [Visita guidata di 3 ore a Medina Azahara](/en/cities/cordoba/activities/medina-azahara-3-hour-guided-tour) | 4,6★ (1.034) | 18 € |
 | [Spettacolo equestre alle Caballerizas Reales](/en/cities/cordoba/activities/equestrian-show-royal-stables) | 4,5★ (2.910) | 18,5 € |
 | [Spettacolo di flamenco al Tablao Cardenal con consumazione](/en/cities/cordoba/activities/flamenco-show-tablao-cardenal) | 4,8★ (1.167) | 25 € |
 

@@ -90,7 +90,7 @@ ratingProveedor: 4.6
 numeroOpiniones: 1034
 atraccionesRelacionadas:
 - medina-azahara
-publicada: false
+publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'

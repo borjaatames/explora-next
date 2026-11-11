@@ -38,6 +38,7 @@ actividades:
 
 | Atividade | Avaliação | Desde |
 | --- | --- | --- |
+| [Visita guiada ao Guggenheim com bilhete (só em espanhol)](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) | 4,9★ (182) | 49 € |
 | [Guggenheim VIP em grupo reduzido (10 línguas)](/pt/cities/bilbao/activities/guggenheim-bilbao-visita-vip-grupo-reduzido) | 4,5★ (763) | 95 € |
 
 Qual lhe convém:

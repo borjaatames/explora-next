@@ -115,6 +115,7 @@ San Sebastián fica a pouco mais de uma hora de estrada de Bilbau. Para lá esta
 | --- | --- | --- |
 | [Guggenheim: visita privada com guia e bilhete](/en/cities/bilbao/activities/guggenheim-bilbao-private-tour-guide-ticket) | 1,5 h (ou 4 h com a cidade) | 320 € por grupo |
 | [Tour privado a pé pelo centro e pelo Casco Viejo](/en/cities/bilbao/activities/bilbao-private-walking-tour-old-town-ribera), 4,6★ (133) | 2 h | 36 € |
+| [Guggenheim: visita guiada em espanhol com bilhete](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish), 4,9★ (182) | 2 h | 49 € |
 | [Getxo: percurso de bicicleta pela costa com pintxo](/en/cities/bilbao/activities/getxo-coastal-bike-tour-pintxos), 4,8★ (46) | 2h30 | 60 € |
 | [Tour de pintxos e bebidas pelo Casco Viejo](/en/cities/bilbao/activities/bilbao-pintxos-drinks-food-tour-old-town), 4,7★ (62) | 3h30 | 89 € |
 | [Gaztelugatxe, Mundaka e Gernika em privado](/en/cities/bilbao/activities/gaztelugatxe-mundaka-gernika-private-day-trip-from-bilbao) | 7 h | 920 € por grupo (1-2 pessoas) |

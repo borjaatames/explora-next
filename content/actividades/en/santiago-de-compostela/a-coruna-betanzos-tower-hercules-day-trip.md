@@ -74,7 +74,7 @@ ratingProveedor: 4.4
 numeroOpiniones: 49
 atraccionesRelacionadas:
 - excursiones
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'

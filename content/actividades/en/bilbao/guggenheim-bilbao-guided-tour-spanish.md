@@ -93,7 +93,7 @@ galeria:
   alt: The Guggenheim with the red arch of La Salve bridge
 ratingProveedor: 4.9
 numeroOpiniones: 182
-publicada: false
+publicada: true
 destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-04'

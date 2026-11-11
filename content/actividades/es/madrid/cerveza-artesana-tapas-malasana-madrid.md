@@ -80,7 +80,7 @@ keywords:
 - cerveza y tapas madrid
 imagen: /images/actividades/madrid/malasana/degustacion-cerveza-artesana.webp
 imagenAlt: 'Degustación de cinco cervezas artesanas en una tabla de madera'
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-24'

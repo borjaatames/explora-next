@@ -40,6 +40,8 @@ Se [Salamanca num dia](/pt/guides/salamanca/salamanca-num-dia) é a lista de ver
 
 | Atividade | Avaliação | Desde |
 | --- | --- | --- |
+| [Visita a pé ao centro histórico com guia local](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4,8★ (364) | 17 € |
+| [Passeio a pé de lendas ao anoitecer](/en/cities/salamanca/activities/salamanca-legends-evening-walking-tour) | 4,7★ (90) | 17 € |
 | [Passeio de bicicleta guiado](/en/cities/salamanca/activities/salamanca-guided-bike-tour) | 4,6★ (52) | 25 € |
 | [Masterclass e prova de presunto ibérico](/en/cities/salamanca/activities/iberian-ham-masterclass-tasting-salamanca) | 4,9★ (16) | 29 € |
 | [Bilhete para as catedrais com audioguia](/pt/cities/salamanca/activities/salamanca-bilhete-catedrais-audioguia) | 4,6★ (202) | 10 € |

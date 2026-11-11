@@ -70,7 +70,7 @@ galeria:
   alt: 'Calle de la Cava Baja en el barrio de La Latina, Madrid'
 - src: /images/actividades/madrid/la-latina/cava-baja-terrazas.webp
   alt: 'Terrazas de la calle Cava Baja, en La Latina, durante las fiestas de la Paloma'
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-07'

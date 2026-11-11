@@ -59,6 +59,8 @@ Una despedida en Madrid se resuelve bien con tres piezas: algo divertido por la 
 | [Pub crawl: 3 bares y discoteca](/ciudades/madrid/actividades/pub-crawl-madrid-bares-chupitos) | 5 h | 19 € por persona | Mayores de 18 que quieren noche |
 | [Flamenco en Torres Bermejas](/ciudades/madrid/actividades/flamenco-torres-bermejas-cena) | 1 h | Desde 31 € por persona | Cena con espectáculo junto a la Gran Vía |
 | [Flamenco en Las Carboneras](/ciudades/madrid/actividades/flamenco-tablao-las-carboneras) | 1 h | 45 € por persona, con bebida | Grupos que prefieren un tablao pequeño |
+| [Cerveza artesana y tapas en Malasaña](/ciudades/madrid/actividades/cerveza-artesana-tapas-malasana-madrid) | 3 h | 85,50 € por persona | Cerveceros; en inglés, hasta 15 por reserva |
+| [Tapas en tres tabernas desde Santa Ana](/ciudades/madrid/actividades/tour-tapas-madrid-tres-tabernas-santa-ana) | 3 h | 69,99 € por persona | Cena de tapas guiada; en inglés, sale a las 17:00 |
 | [Bodega familiar con sumiller](/ciudades/madrid/actividades/bodega-familiar-madrid-cata-sumiller-medio-dia) | 4 h 30 min | 110 € por persona | Despedida tranquila de día; máximo 8 |
 
 Precios «desde» de cada ficha a 1 de noviembre de 2026; pueden variar según la fecha y la opción.

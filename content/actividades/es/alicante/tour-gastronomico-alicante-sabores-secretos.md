@@ -72,7 +72,7 @@ ratingProveedor: 4.8
 numeroOpiniones: 1767
 atraccionesRelacionadas:
 - gastronomia
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'

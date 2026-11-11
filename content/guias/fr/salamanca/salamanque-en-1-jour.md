@@ -39,7 +39,10 @@ Salamanque **se visite en une seule journée**. Tout l'essentiel touristique tie
 
 | Activité | Note | À partir de |
 | --- | --- | --- |
+| [Visite à pied de la vieille ville avec un guide local](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4,8★ (364) | 17 € |
+| [Visite guidée de l'Université avec billet](/en/cities/salamanca/activities/university-of-salamanca-guided-tour) | 4,9★ (44) | 12 € |
 | [Billet pour les cathédrales avec audioguide](/fr/cities/salamanca/activities/salamanque-billet-cathedrales-audioguide) | 4,6★ (202) | 10 € |
+| [Visite à pied des légendes à la tombée de la nuit](/en/cities/salamanca/activities/salamanca-legends-evening-walking-tour) | 4,7★ (90) | 17 € |
 
 ## Comment aller à Salamanque
 

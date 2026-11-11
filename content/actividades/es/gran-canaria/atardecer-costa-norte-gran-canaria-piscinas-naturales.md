@@ -83,7 +83,7 @@ numeroOpiniones: 100
 atraccionesRelacionadas:
 - isla
 - mar
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'

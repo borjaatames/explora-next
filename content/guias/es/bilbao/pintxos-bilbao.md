@@ -38,6 +38,7 @@ actividades:
 | Actividad | Valoración | Desde |
 | --- | --- | --- |
 | [Tour de pintxos con vino](/ciudades/bilbao/actividades/tour-pintxos-bilbao-vino) | 4,9★ (1.041) | 95 € |
+| [Clase de cocina de pintxos (en inglés)](/ciudades/bilbao/actividades/clase-cocina-pintxos-bilbao) | 4,8★ (70) | 80 € |
 
 La regla número uno: **muévete**. La gracia es probar la especialidad de cada bar, no quedarte en uno. Y los mejores pintxos muchas veces no están en la barra a la vista: se piden en caliente.
 

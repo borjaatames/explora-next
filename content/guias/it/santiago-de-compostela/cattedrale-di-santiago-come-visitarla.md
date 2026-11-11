@@ -48,6 +48,7 @@ opciones:
 | --- | --- | --- |
 | [Tour della cattedrale e del museo senza code](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4,7★ (2.454) | 25 € |
 | [Tour della cattedrale, del museo e del centro storico](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4,8★ (439) | 24 € |
+| [Tour dei tetti della cattedrale e della torre della Carraca](/en/cities/santiago-de-compostela/activities/santiago-cathedral-rooftops-tour) | 4,6★ (134) | 37 € |
 
 La chiave: separa ciò che è gratuito (la chiesa, la tomba dell'Apostolo) dalle visite speciali (Pórtico de la Gloria, tetti, museo), che richiedono un biglietto e, a volte, la prenotazione.
 

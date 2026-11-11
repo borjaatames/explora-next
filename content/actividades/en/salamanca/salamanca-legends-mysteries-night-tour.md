@@ -76,7 +76,7 @@ ratingProveedor: 4.8
 numeroOpiniones: 32
 atraccionesRelacionadas:
 - casco-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'

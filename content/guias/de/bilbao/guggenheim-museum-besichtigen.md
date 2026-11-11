@@ -39,6 +39,7 @@ reservasArriba: true
 
 | Aktivität | Bewertung | Ab |
 | --- | --- | --- |
+| [Guggenheim mit Guide und Ticket (auf Spanisch)](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) | 4,9★ (182) | 49 € |
 | [Guggenheim VIP in kleiner Gruppe (10 Sprachen)](/en/cities/bilbao/activities/guggenheim-bilbao-vip-small-group-tour) | 4,5★ (763) | 95 € |
 
 Die goldene Regel: Auch wenn du nicht hineingehst, lohnt sich schon das Äußere. Und wenn du hineingehst, konzentriere dich auf das, was wirklich zählt, statt „alles sehen“ zu wollen.

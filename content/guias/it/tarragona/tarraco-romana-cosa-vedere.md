@@ -38,6 +38,7 @@ actividades:
 
 | Attività | Valutazione | Da |
 | --- | --- | --- |
+| [Tour guidato a piedi della Tarraco romana](/en/cities/tarragona/activities/roman-tarraco-walking-tour) | 4,7★ (334) | 15 € |
 | [Ingresso alla cattedrale con audioguida](/it/cities/tarragona/activities/biglietto-cattedrale-di-tarragona-audioguida) | 4,4★ (105) | 12,5 € |
 
 La chiave: ci sono diversi monumenti separati, ma il **biglietto cumulativo** conviene molto di più. E se puoi, vieni a maggio, quando la città diventa romana.

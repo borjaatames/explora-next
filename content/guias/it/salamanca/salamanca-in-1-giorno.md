@@ -39,7 +39,10 @@ Salamanca **si vede in un solo giorno**. Tutto ciò che interessa al turista sta
 
 | Attività | Valutazione | Da |
 | --- | --- | --- |
+| [Tour a piedi del centro storico con guida locale](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4,8★ (364) | 17 € |
+| [Visita guidata all'Università con biglietto](/en/cities/salamanca/activities/university-of-salamanca-guided-tour) | 4,9★ (44) | 12 € |
 | [Biglietto per le Cattedrali con audioguida](/it/cities/salamanca/activities/biglietto-cattedrali-salamanca-audioguida) | 4,6★ (202) | 10 € |
+| [Tour a piedi delle leggende al tramonto](/en/cities/salamanca/activities/salamanca-legends-evening-walking-tour) | 4,7★ (90) | 17 € |
 
 ## Come arrivare a Salamanca
 

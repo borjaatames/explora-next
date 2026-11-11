@@ -93,7 +93,7 @@ galeria:
   alt: Copa de vino blanco
 ratingProveedor: 4.8
 numeroOpiniones: 70
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-04'

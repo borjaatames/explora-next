@@ -104,7 +104,7 @@ galeria:
   alt: Painted dome inside a Baeza church
 ratingProveedor: 4.5
 numeroOpiniones: 0
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-05-16'

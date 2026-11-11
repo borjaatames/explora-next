@@ -90,7 +90,7 @@ galeria:
   alt: Vista aérea del Palacio de Carlos V en la Alhambra
 - src: https://imgcdn.bokun.tools/d7b93b38-c6d1-4692-b5c7-96bfed7adba4.jpg
   alt: La Alhambra vista desde el Albaicín
-publicada: false
+publicada: true
 destacada: false
 fecha: '2026-10-12'
 fecha_actualizacion: '2026-10-12'

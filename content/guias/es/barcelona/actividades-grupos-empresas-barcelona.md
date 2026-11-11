@@ -57,6 +57,7 @@ En Barcelona, un grupo de amigos, una familia grande o un equipo de trabajo paga
 | [Sagrada Familia, visita privada con entradas](/ciudades/barcelona/actividades/sagrada-familia-visita-privada-guia-entradas) | 1 h 45 min | 570 € para 6 | La visita imprescindible, sin desconocidos |
 | [Tapas y vino, tour privado](/ciudades/barcelona/actividades/tour-privado-tapas-y-vino) | 3 h | 594 € para 6 | Cena de equipo o de amigos |
 | [Montserrat, tour privado con recogida](/ciudades/barcelona/actividades/montserrat-tour-privado-recogida-hotel) | 5 h | 894 € para 6 | Excursión de medio día en vehículo propio |
+| [Cata de cerveza para grupos privados en azotea](/ciudades/barcelona/actividades/barcelona-cata-cerveza-grupos-privados-azotea) | 2 h | 55 € por persona | Empresas, cumpleaños y despedidas |
 | [Lo mejor de Barcelona, día completo privado](/ciudades/barcelona/actividades/tour-privado-lo-mejor-de-barcelona-sagrada-familia) | Unas 7 h | 1.014 € para 6 (máximo 6) | Un día con todo resuelto |
 | [Tapas, vino y flamenco, tour privado](/ciudades/barcelona/actividades/tapas-vino-y-flamenco-tour-privado-barcelona) | 3 h | Unos 88 € por persona desde 4 | Noche completa con espectáculo |
 | [Montserrat y cavas Codorníu, privado](/ciudades/barcelona/actividades/montserrat-cavas-codorniu-privado-desde-barcelona) | 8 h | Unos 206 € por persona en grupo de 4 | Día de cava y montaña |

@@ -41,6 +41,8 @@ Si [Salamanque en un jour](/fr/guides/salamanca/salamanque-en-1-jour), c'est la 
 
 | Activité | Note | À partir de |
 | --- | --- | --- |
+| [Visite à pied du centre historique avec un guide local](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4,8★ (364) | 17 € |
+| [Visite des légendes à la tombée de la nuit](/en/cities/salamanca/activities/salamanca-legends-evening-walking-tour) | 4,7★ (90) | 17 € |
 | [Visite guidée à vélo](/en/cities/salamanca/activities/salamanca-guided-bike-tour) | 4,6★ (52) | 25 € |
 | [Masterclass de jambon ibérique avec dégustation](/en/cities/salamanca/activities/iberian-ham-masterclass-tasting-salamanca) | 4,9★ (16) | 29 € |
 | [Entrée aux cathédrales avec audioguide](/fr/cities/salamanca/activities/salamanque-billet-cathedrales-audioguide) | 4,6★ (202) | 10 € |

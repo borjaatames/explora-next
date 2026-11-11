@@ -73,7 +73,7 @@ ratingProveedor: 4.9
 numeroOpiniones: 87
 atraccionesRelacionadas:
 - centro-historico
-publicada: false
+publicada: true
 indexar: false
 destacada: false
 fecha: '2026-10-31'

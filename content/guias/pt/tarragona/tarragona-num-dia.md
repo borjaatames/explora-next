@@ -45,6 +45,7 @@ actividades:
 
 | Atividade | Avaliação | Desde |
 | --- | --- | --- |
+| [Visita guiada a pé pela Tarraco romana](/en/cities/tarragona/activities/roman-tarraco-walking-tour) | 4,7★ (334) | 15 € |
 | [Bilhete da Catedral com audioguia](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4,4★ (105) | 12,5 € |
 | [Passeio de catamarã com bar aberto, almoço e banho](/en/cities/tarragona/activities/cambrils-catamaran-open-bar-swim) | 4,5★ (2188) | 35 € |
 | [Safari guiado de moto 4 com recolha no hotel](/en/cities/tarragona/activities/salou-guided-quad-safari-hotel-pickup) | 4,8★ (1225) | 90 € |

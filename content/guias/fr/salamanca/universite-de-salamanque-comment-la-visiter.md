@@ -33,6 +33,12 @@ actividades:
 
 L'Université de Salamanque est **la plus ancienne d'Espagne** (1218) et l'une des quatre plus anciennes du monde, avec Bologne, Oxford et Paris. Mais ce qui la rend spéciale, c'est autre chose : dans les salles historiques, vous vous asseyez là où se sont assis Fray Luis de León, Nebrija, Cervantès et Unamuno, sur des bancs gravés au couteau par des étudiants d'il y a plusieurs siècles. Voici ce qui se visite, les prix, quand c'est gratuit, que voir à l'intérieur et comment trouver la grenouille.
 
+## Visites guidées
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Visite guidée de l'Université avec entrée](/en/cities/salamanca/activities/university-of-salamanca-guided-tour) | 4,9★ (44) | 12 € |
+| [Visite à pied du centre historique avec un guide local](/en/cities/salamanca/activities/salamanca-walking-tour-local-guide) | 4,8★ (364) | 17 € |
 
 [actividad: universidad-salamanca-visita-guiada]
 
