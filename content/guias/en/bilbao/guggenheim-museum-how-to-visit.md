@@ -39,6 +39,7 @@ actividades:
 | Activity | Rating | From |
 | --- | --- | --- |
 | [Guggenheim Bilbao: art explained by artists](/en/cities/bilbao/activities/guggenheim-bilbao-art-explained-by-artists) | 4.9★ (129) | €49 |
+| [Guggenheim guided tour with ticket (Spanish only)](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) (Spanish only) | 4.9★ (182) | €49 |
 | [Guggenheim VIP small group (10 languages)](/en/cities/bilbao/activities/guggenheim-bilbao-vip-small-group-tour) | 4.5★ (763) | €95 |
 
 Which one fits:

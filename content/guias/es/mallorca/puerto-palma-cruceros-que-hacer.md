@@ -125,6 +125,7 @@ La **línea 203 del TIB** sale de la Estació Intermodal (Plaça d'Espanya) haci
 | [Tour gastronómico por el casco antiguo](/ciudades/mallorca/actividades/palma-tour-gastronomico-casco-antiguo), 4,6★ (663) | 3 h | 65 € |
 | [Cuevas del Drach con concierto, desde Palma](/ciudades/mallorca/actividades/cuevas-del-drach-concierto-barca-desde-palma), 4,4★ (1.489) | 5 h, sale a las 9:30 | 54 € |
 | [Mallorca: vuelta a la isla en tren de Sóller, tranvía y barco](/ciudades/mallorca/actividades/mallorca-vuelta-isla-tren-soller-tranvia-barco), 4,4★ (4.540) | 8 h | 103 € |
+| [Valldemossa, Sóller y Port de Sóller en autobús y tranvía](/ciudades/mallorca/actividades/valldemossa-soller-port-soller-autobus-tranvia) (solo en inglés y alemán), 4,7★ (829) | 6 h | 49 € |
 
 Las Cuevas del Drach salen a las 9:30 del centro de Palma y vuelven a primera hora de la tarde: solo te sirven si desembarcas pronto y zarpas por la tarde.
 

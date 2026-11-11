@@ -60,6 +60,7 @@ Se só tiver um dia livre em Madrid e for a sua primeira vez, **vá a Toledo**. 
 | Terreno | Muitas subidas | Uma subida suave e depois plano |
 | Melhor época | Primavera e outono | Verão e outono |
 | Excursão organizada | [Toledo desde Madrid com entradas e degustação ibérica em grupo reduzido](/pt/cities/madrid/activities/toledo-entradas-degustacao-grupo-reduzido-desde-madrid) | [Toledo e Segóvia num dia em grupo reduzido, com entradas e degustação](/pt/cities/madrid/activities/toledo-segovia-grupo-reduzido-degustacao-desde-madrid) |
+| Excursão organizada | [Toledo desde Madrid com entradas e degustação ibérica em grupo reduzido](/pt/cities/madrid/activities/toledo-entradas-degustacao-grupo-reduzido-desde-madrid) | [Ávila e Segóvia com bilhetes incluídos](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) (só em espanhol e inglês) |
 
 ## Toledo: a que tem mais para ver
 

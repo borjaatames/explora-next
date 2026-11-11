@@ -60,6 +60,7 @@ Si vous n'avez qu'une journée libre à Madrid et que c'est votre première fois
 | Terrain | Beaucoup de pentes | Une montée douce puis du plat |
 | Meilleure saison | Printemps et automne | Été et automne |
 | Excursion organisée | [Tolède et les moulins de Don Quichotte depuis Madrid : excursion en petit groupe](/fr/cities/madrid/activities/excursion-tolede-moulins-don-quichotte-depuis-madrid) | [Tolède et Ségovie en une journée en petit groupe, avec billets et dégustation](/fr/cities/madrid/activities/tolede-segovie-petit-groupe-degustation-depuis-madrid) |
+| Excursion organisée | [Tolède et les moulins de Don Quichotte depuis Madrid : excursion en petit groupe](/fr/cities/madrid/activities/excursion-tolede-moulins-don-quichotte-depuis-madrid) | [Ávila et Ségovie avec billets inclus](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) (uniquement en espagnol et anglais) |
 
 ## Tolède : celle qui a le plus à voir
 

@@ -61,6 +61,7 @@ Organizzare qualcosa per un gruppo di amici, una famiglia numerosa o una squadra
 | [Madrid ebraica, tour privato](/en/cities/madrid/activities/madrid-jewish-history-private-walking-tour) | 2 h | 450 € per 6 | Gruppi appassionati di storia |
 | [Palazzo Reale, visita privata](/it/cities/madrid/activities/palazzo-reale-madrid-tour-privato-guida-ufficiale) | 2 h 30 min | 141 € a persona | Una visita culturale all'orario che scegli |
 | [Tour enogastronomico a Madrid: bar nascosti, tapas e vino spagnolo](/it/cities/madrid/activities/madrid-tour-vini-tapas-bar-nascosti) | 3 h | 90 € a persona | Quattro soste in bar indipendenti, taverne tradizionali e banchi del mercato |
+| [Laboratorio di paella e sangria](/en/cities/madrid/activities/madrid-paella-sangria-workshop-city-center) (solo in spagnolo e inglese) | 3 h | 64 € a persona | Team building informale (gruppo condiviso) |
 | [Cantina familiare con sommelier](/en/cities/madrid/activities/madrid-family-winery-half-day-sommelier-tasting) | 4 h 30 min | 110 € a persona | Gruppi fino a 8 |
 
 Prezzi "da" di ogni scheda al 1° novembre 2026; possono variare in base alla data.

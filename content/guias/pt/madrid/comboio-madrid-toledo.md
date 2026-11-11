@@ -67,6 +67,7 @@ O comboio Madrid Toledo é a forma mais rápida de fazer os 70 km entre as duas 
 | Autocarro Alsa a partir da Plaza Elíptica | 50 min (direto) - 1 h 30 | Desde 6,55 € por trajeto | 83 serviços por dia | Orçamento apertado ou regresso tardio |
 | Carro pela A-42 | 1 h | Combustível e estacionamento | Quando quiser | Grupos e quem quer ver o Mirador del Valle |
 | [Toledo desde Madrid com entradas e degustação ibérica em grupo reduzido](/pt/cities/madrid/activities/toledo-entradas-degustacao-grupo-reduzido-desde-madrid) | 10 h, tudo incluído | Desde 145 € | Diária | Grupo reduzido de no máximo 7 pessoas, num Mercedes |
+| [Excursão organizada](/en/cities/madrid/activities/toledo-full-day-from-madrid) (só em inglês e espanhol) | 8 h, tudo incluído | Desde 79 € | Diária | Quem não quer organizar nada |
 
 ## O comboio Avant Madrid-Toledo
 

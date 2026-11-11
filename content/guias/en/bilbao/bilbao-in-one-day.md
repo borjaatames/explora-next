@@ -44,6 +44,7 @@ actividades:
 | --- | --- | --- |
 | [Old Town walking tour](/en/cities/bilbao/activities/bilbao-old-town-walking-tour) | 4.7★ (449) | €42 |
 | [Guggenheim Bilbao: art explained by artists](/en/cities/bilbao/activities/guggenheim-bilbao-art-explained-by-artists) | 4.9★ (129) | €49 |
+| [Guggenheim guided tour with ticket (Spanish only)](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) (Spanish only) | 4.9★ (182) | €49 |
 | [Pintxos food tour with wine](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4.9★ (1,041) | €95 |
 | [Estuary boat tour (1 h or 2 h)](/en/cities/bilbao/activities/bilbao-estuary-boat-tour-portugalete) | 4.2★ (3,389) | €15 |
 | [San Mamés museum and stadium](/en/cities/bilbao/activities/san-mames-stadium-museum-tour) | 4.8★ (1,710) | €16.5 |

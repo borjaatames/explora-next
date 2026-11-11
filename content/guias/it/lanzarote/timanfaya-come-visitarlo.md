@@ -59,6 +59,7 @@ opciones:
 | --- | --- | --- |
 | Biglietto ufficiale per le Montañas del Fuego (sito del Cabildo) | — | 30 € |
 | [Lanzarote: escursione di un giorno a Timanfaya, El Golfo e Jameos del Agua](/it/cities/lanzarote/activities/escursione-timanfaya-el-golfo-jameos-del-agua) | 4,5★ (2.065) | 87 € |
+| [Parco Nazionale di Timanfaya in mezza giornata, con ingresso e prelievo](/en/cities/lanzarote/activities/timanfaya-national-park-half-day-tour) (solo in inglese, spagnolo e francese) | 4,3★ (2.901) | 59 € |
 | [Timanfaya, Jameos del Agua e Cueva de los Verdes con ingressi](/en/cities/lanzarote/activities/timanfaya-jameos-cueva-de-los-verdes-tour) | 4,5★ (2.910) | 89 € |
 | [Escursionismo guidato tra i vulcani accanto a Timanfaya](/it/cities/lanzarote/activities/trekking-vulcani-timanfaya) | 4,8★ (990) | 47 € |
 

@@ -116,6 +116,7 @@ L'escursione da Las Palmas al Roque Nublo, al Pico de las Nieves e a Tejeda dura
 | [Tour privato a piedi tra Triana e Vegueta con tapa](/en/cities/gran-canaria/activities/las-palmas-private-old-town-walking-tour-tapas), 4,7★ (219) | 2 h 30 min | 55 € |
 | [Acquario Poema del Mar, biglietto salta coda](/en/cities/gran-canaria/activities/poema-del-mar-aquarium-ticket), 4,8★ (4.610) | Biglietto di 1 giorno | 29 € |
 | [Gran Canaria: tour panoramico dei paesi rurali in minivan](/it/cities/gran-canaria/activities/tour-paesi-rurali-gran-canaria-minivan), 4,6★ (834) | 8 h | 79 € |
+| [Roque Nublo, Pico de las Nieves e Tejeda da Las Palmas](/en/cities/gran-canaria/activities/roque-nublo-pico-de-las-nieves-tour-from-las-palmas) (solo in spagnolo e inglese), 4,7★ (1.283) | 8 h | 48 € |
 | [Tour di un giorno di Gran Canaria da Las Palmas](/en/cities/gran-canaria/activities/gran-canaria-day-tour-from-las-palmas), 4,6★ (716) | 7 h 30 min | 48 € |
 
 Il **Poema del Mar** si trova al Muelle Sanapú, nella stessa zona portuale: è il programma più comodo con i bambini o in un giorno di pioggia.

@@ -54,6 +54,7 @@ The Guggenheim Bilbao hardly ever runs out of places for a whole day. What does 
 | If you want… | Option | From |
 | --- | --- | --- |
 | With an English-speaking guide | [Guggenheim Bilbao: art explained by artists](/en/cities/bilbao/activities/guggenheim-bilbao-art-explained-by-artists), 4.9★ (129) | €49 |
+| The top rated (tour in Spanish) | [Guggenheim guided tour with entry](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) (Spanish only), 4.9★ (182) | €49 |
 | A small group and more time with the guide | [VIP small-group tour with entry](/en/cities/bilbao/activities/guggenheim-bilbao-vip-small-group-tour), 4.5★ (763) | €95 |
 
 ## 1. Check the official website again

@@ -60,6 +60,7 @@ Organiser quelque chose pour un groupe d'amis, une grande famille ou une équipe
 | [Tavernes centenaires, balade privée](/en/cities/madrid/activities/madrid-oldest-taverns-private-tour) | 2 h 10 min | 127 € par personne | Afterwork ou dîner d'équipe |
 | [Madrid juif, visite privée](/en/cities/madrid/activities/madrid-jewish-history-private-walking-tour) | 2 h | 450 € pour 6 | Groupes passionnés d'histoire |
 | [Madrid impériale : Palais royal et Madrid des Habsbourg en privé](/fr/cities/madrid/activities/madrid-imperial-palais-royal-habsbourg-visite-privee) | 3 h | 360 € par groupe | Visite privée avec guide officiel francophone |
+| [Palais royal, visite privée](/en/cities/madrid/activities/royal-palace-madrid-private-tour) (uniquement en espagnol, anglais et italien) | 2 h 30 min | 141 € par personne | Visite culturelle à l'heure de votre choix |
 | [Atelier paella et sangria](/en/cities/madrid/activities/madrid-paella-sangria-workshop-city-center) | 3 h | 64 € par personne | Team building informel (groupe partagé) |
 | [Bodega familiale avec sommelier](/en/cities/madrid/activities/madrid-family-winery-half-day-sommelier-tasting) | 4 h 30 min | 110 € par personne | Groupes jusqu'à 8 |
 

@@ -56,10 +56,12 @@ Un addio al nubilato o al celibato a Madrid si risolve bene con tre elementi: qu
 | --- | --- | --- | --- |
 | [Tuk-tuk festa privato con musica](/en/cities/madrid/activities/madrid-private-party-tuk-tuk-tour-music) | 1 h 30 min | 150 € a tuk-tuk | Inizio del pomeriggio, gruppi che vogliono qualcosa tutto per sé |
 | [Tour enogastronomico a Madrid: bar nascosti, tapas e vino spagnolo](/it/cities/madrid/activities/madrid-tour-vini-tapas-bar-nascosti) | 3 h | 90 € a persona | Quattro soste in bar indipendenti, taverne tradizionali e banchi del mercato |
+| [Laboratorio di paella e sangria](/en/cities/madrid/activities/madrid-paella-sangria-workshop-city-center) (solo in spagnolo e inglese) | 3 h | 64 € a persona | Qualsiasi gruppo, anche misto o con la famiglia |
 | [Pub crawl: 3 bar e discoteca](/it/cities/madrid/activities/madrid-pub-crawl-bar-discoteca-shot) | 5 h | 19 € a persona | Maggiorenni che vogliono fare notte |
 | [Flamenco a Torres Bermejas](/en/cities/madrid/activities/flamenco-torres-bermejas-dining-options) | 1 h | Da 31 € a persona | Cena con spettacolo vicino alla Gran Vía |
 | [Flamenco a Las Carboneras](/en/cities/madrid/activities/flamenco-tablao-las-carboneras) | 1 h | 45 € a persona, con bevanda | Gruppi che preferiscono un tablao piccolo |
 | [Tour privato delle taverne più antiche di Madrid](/it/cities/madrid/activities/madrid-tour-privato-taverne-storiche) | 2 h 10 min | 127 € a persona | Passeggiata privata di 2 h 10 min tra taverne con oltre 100 e 200 anni di storia |
+| [Birra artigianale e tapas a Malasaña](/en/cities/madrid/activities/craft-beer-tapas-tour-malasana-madrid) (solo in inglese) | 3 h | 85,50 € a persona | Amanti della birra; in inglese, fino a 15 per prenotazione |
 | [Tapas in tre taverne da Santa Ana](/en/cities/madrid/activities/madrid-tapas-tour-three-taverns-santa-ana) | 3 h | 69,99 € a persona | Cena di tapas guidata; in inglese, parte alle 17:00 |
 | [Cantina di famiglia con sommelier](/en/cities/madrid/activities/madrid-family-winery-half-day-sommelier-tasting) | 4 h 30 min | 110 € a persona | Addio tranquillo di giorno; massimo 8 |
 

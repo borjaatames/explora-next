@@ -71,6 +71,7 @@ Le musée Picasso de Malaga, installé dans le Palacio de Buenavista de la Calle
 | Musée et maison natale avec un guide | [Route Picasso, visite privée](/en/cities/malaga/activities/picasso-route-malaga-private-tour) | 166 € |
 | De l'art moderne sur le port | [Centre Pompidou Málaga](/fr/cities/malaga/activities/billet-centre-pompidou-malaga), 4,2★ (734) | 9 € |
 | À trois minutes, avec guide | [Malaga : visite guidée privée avec l’Alcazaba et la cathédrale](/fr/cities/malaga/activities/malaga-visite-guidee-privee-alcazaba-cathedrale) | 332 € par groupe |
+| À trois minutes, avec guide | [Alcazaba et théâtre romain](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) (uniquement en anglais, espagnol et italien), 4,7★ (7 412) | 13 € |
 
 ## 1. Le site officiel : prix et horaires
 

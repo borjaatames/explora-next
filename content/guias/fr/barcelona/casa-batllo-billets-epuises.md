@@ -60,6 +60,7 @@ La Casa Batlló vend ses billets **avec un horaire d'accès** et à **prix dynam
 | Y aller de nuit, avec un verre | [Casa Batlló : visite nocturne avec une coupe de cava](/en/cities/barcelona/activities/casa-batllo-night-visit-welcome-drink), 4,4★ (1 930) | 29 € |
 | Visite et concert sur le toit-terrasse | [Casa Batlló : visite nocturne avec musique live](/en/cities/barcelona/activities/casa-batllo-night-visit-live-music), 4,5★ (377) | 59 € |
 | Trois maisons de Gaudí avec guide | [Maisons de Gaudí : visite privée avec billets coupe-file pour La Pedrera et la Casa Vicens](/fr/cities/barcelona/activities/maisons-gaudi-pedrera-casa-vicens-visite-privee) | 156 € |
+| Trois maisons de Gaudí avec guide | [Casa Vicens, Casa Milà et Casa Batlló : visite guidée](/en/cities/barcelona/activities/casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour) (uniquement en espagnol et anglais), 4,6★ (331) | 119 € |
 
 ## 1. Le site officiel : autres horaires et autres formules
 

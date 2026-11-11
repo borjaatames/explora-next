@@ -68,6 +68,7 @@ Pour aller de Madrid à Tolède, le **train Avant met 33 minutes** depuis Atocha
 | Bus Alsa depuis Plaza Elíptica | 50 min (direct) - 1 h 30 | Dès 6,55 € l'aller | 83 départs par jour | Petit budget ou retour tardif |
 | Voiture par l'A-42 | 1 h | Carburant et parking | Quand vous voulez | Groupes, coucher de soleil au Mirador del Valle |
 | [Tolède depuis Madrid avec billets et dégustation ibérique en petit groupe](/fr/cities/madrid/activities/tolede-billets-degustation-petit-groupe-depuis-madrid) | 10 h, tout compris | Dès 145 € | Tous les jours | Petit groupe de 7 personnes maximum, en voiture Mercedes |
+| [Excursion organisée](/en/cities/madrid/activities/toledo-full-day-from-madrid) (uniquement en anglais et espagnol) | 8 h, tout compris | Dès 79 € | Tous les jours | Ceux qui ne veulent rien organiser |
 
 ## Le train Avant Madrid-Tolède
 

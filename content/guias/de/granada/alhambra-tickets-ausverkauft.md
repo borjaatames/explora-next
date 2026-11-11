@@ -60,6 +60,7 @@ Tickets für die Alhambra kannst du **bis zu drei Monate im Voraus** kaufen, und
 | Wenn du … suchst | Option | Ab |
 | --- | --- | --- |
 | Sicher hinein, mit Guide | [Führung ohne Warten durch die Alhambra und die Nasridenpaläste](/de/cities/granada/activities/alhambra-nasridenpalaeste-fuehrung-ohne-warten), 4,8★ (432) | 96 € |
+| Sicher hinein, mit Guide | [Ticket und Führung mit Nasridenpalästen](/en/cities/granada/activities/alhambra-entry-and-guided-tour) (nur auf Spanisch und Englisch), 4,7★ (3.516) | 50 € |
 | Die beliebteste Option | [Führung durch Alhambra und Nasridenpaläste](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4,7★ (21.100) | 49 € |
 | Kleine Gruppe | [Granada: Alhambra mit Führung, Nasridenpaläste, Alcazaba und Generalife](/de/cities/granada/activities/alhambra-fuehrung-nasridenpalaeste-generalife), 4,7★ (2.448) | 55 € |
 | Wenn nur noch Abende frei sind | [Nachtbesuch der Nasridenpaläste](/en/cities/granada/activities/alhambra-night-tour), 4,9★ (288) | 54 € |

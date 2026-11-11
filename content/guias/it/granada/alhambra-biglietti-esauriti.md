@@ -62,6 +62,7 @@ I biglietti dell'Alhambra si possono comprare **fino a tre mesi prima**, e in pr
 | Entrare sicuro con guida | [Alhambra: tour guidato in piccoli gruppi con Palazzi Nasridi e Generalife](/it/cities/granada/activities/alhambra-generalife-palazzi-nasridi-tour-piccoli-gruppi), 4,8★ (1.047) | 45 € |
 | La più scelta | [Visita guidata all'Alhambra e ai Nasridi](/it/cities/granada/activities/visita-guidata-alhambra-generalife), 4,7★ (21.100) | 49 € |
 | Gruppo piccolo | [Visita guidata senza attese dell'Alhambra e dei Palazzi Nasridi](/it/cities/granada/activities/alhambra-palazzi-nasridi-visita-guidata-senza-attese), 4,8★ (432) | 96 € |
+| Gruppo piccolo | [Alhambra e Palazzi Nasridi in piccolo gruppo](/en/cities/granada/activities/alhambra-small-group-tour) (solo in spagnolo e inglese), 4,8★ (890) | 65 € |
 | Se restano solo le sere | [Visita notturna ai Palazzi Nasridi](/en/cities/granada/activities/alhambra-night-tour), 4,9★ (288) | 54 € |
 | Senza Nasridi, più economico | [Giardini, Generalife e Alcazaba](/it/cities/granada/activities/biglietto-giardini-alhambra-generalife-senza-palazzi-nasridi), 4,5★ (2.256) | 17,5 € |
 

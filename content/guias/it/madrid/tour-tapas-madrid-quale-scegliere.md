@@ -40,6 +40,7 @@ Confrontiamo tre tour guidati tra i bar e le taverne del centro di Madrid, tutti
 |---|---|---|---|---|
 | [Giro di tapas notturno](/ciudades/madrid/actividades/ruta-tapas-nocturna-madrid) | 35 € + 30 € di cassa comune | 2 h 30 min | 3 bar tradizionali del centro | Chi vuole un programma semplice la sera, o una guida in tedesco |
 | [Tour enogastronomico a Madrid: bar nascosti, tapas e vino spagnolo](/it/cities/madrid/activities/madrid-tour-vini-tapas-bar-nascosti) | 90 € | 3 h | Quattro soste in bar indipendenti, taverne tradizionali e banchi del mercato | Almeno un bicchiere di vino spagnolo a ogni sosta, abbinato a piatti regionali |
+| [Tour di tapas e vino con terrazza](/ciudades/madrid/actividades/tour-tapas-vino-atardecer-azotea) (solo in spagnolo e inglese) | 69 € | 3 h 30 min | Da La Latina a Plaza Mayor | Chi vuole chiudere con la vista al tramonto da una terrazza sulla Gran Vía |
 | [Tour privato nelle taverne centenarie](/it/cities/madrid/activities/madrid-tour-privato-taverne-storiche) | 127 € a persona (min. 2) | 2 h 10 min | Taverne del centro con più di 100 anni | Chi vuole una guida solo per il proprio gruppo e più storia che cibo |
 
 ## Come scegliere in 30 secondi

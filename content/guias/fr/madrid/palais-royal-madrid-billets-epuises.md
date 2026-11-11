@@ -59,6 +59,7 @@ Le Palais royal de Madrid vend des billets horodatés sur le site officiel de Pa
 | --- | --- | --- |
 | Avec guide en français | [Madrid : Palais royal avec guide expert et billet coupe-file](/fr/cities/madrid/activities/palais-royal-madrid-visite-guidee-coupe-file), 4,7★ (9 610) | 37 € |
 | Groupe avec guide expert | [Madrid impériale : Palais royal et Madrid des Habsbourg en privé](/fr/cities/madrid/activities/madrid-imperial-palais-royal-habsbourg-visite-privee) | 360 € par groupe |
+| Groupe avec guide expert | [Visite premium avec billets coupe-file](/en/cities/madrid/activities/royal-palace-premium-tour-skip-line) (uniquement en espagnol et anglais), 5★ (59) | 45 € |
 | Palais et centre historique | [Palais royal et cathédrale de l'Almudena](/en/cities/madrid/activities/royal-palace-almudena-cathedral-tour), 4,5★ (9) | 54 € |
 | Rien que pour vous | [Visite privée avec guide officiel](/en/cities/madrid/activities/royal-palace-madrid-private-tour) | 141 € |
 

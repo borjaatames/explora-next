@@ -44,6 +44,7 @@ actividades:
 | --- | --- | --- |
 | [Tour a pé pelo Casco Viejo](/en/cities/bilbao/activities/bilbao-old-town-walking-tour) | 4,7★ (449) | 42 € |
 | [Guggenheim Bilbao: visita VIP em grupo reduzido com bilhete](/pt/cities/bilbao/activities/guggenheim-bilbao-visita-vip-grupo-reduzido) | 4,5★ (763) | 95 € |
+| [Guggenheim com guia e bilhete (em espanhol)](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) (só em espanhol) | 4,9★ (182) | 49 € |
 | [Tour de pintxos com vinho](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4,9★ (1.041) | 95 € |
 | [Barco pela ria (1 h ou 2 h)](/pt/cities/bilbao/activities/bilbau-passeio-barco-ria-portugalete) | 4,2★ (3.389) | 15 € |
 | [Museu e estádio de San Mamés](/pt/cities/bilbao/activities/bilbau-san-mames-museu-estadio-athletic) | 4,8★ (1.710) | 16,5 € |

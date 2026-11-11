@@ -56,6 +56,7 @@ Der Alcázar von Segovia verkauft seine Tickets auf seiner offiziellen Website, 
 | Wenn du … suchst | Option | Ab |
 | --- | --- | --- |
 | Ab Madrid mit gesichertem Ticket | [Toledo und Segovia an einem Tag in der Kleingruppe, mit Eintritten und Verkostung](/de/cities/madrid/activities/toledo-segovia-kleingruppe-verkostung-ab-madrid) | 220 € |
+| Ab Madrid mit gesichertem Ticket | [Segovia und Toledo an einem Tag, mit dem Alcázar](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid) (nur auf Englisch und Spanisch), 4,7★ (10.421) | 41 € |
 | Mehr Sehenswürdigkeiten inklusive | [Ávila und Segovia mit inbegriffenen Tickets](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets), 4,6★ (4.805) | 79 € |
 | Nur für euch | [Private Tour im Auto mit offiziellem Guide](/en/cities/madrid/activities/segovia-private-tour-by-car-from-madrid) | 1.649 € pro Gruppe |
 

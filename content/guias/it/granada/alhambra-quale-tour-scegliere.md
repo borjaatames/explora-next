@@ -61,6 +61,7 @@ Queste sei offerte descrivono lo stesso percorso — Alcazaba, Palazzi Nasridi e
 | [Granada: Alhambra con guida, Palazzi Nasridi, Alcazaba e Generalife](/it/cities/granada/activities/granada-alhambra-visita-guidata-nasridi-alcazaba-generalife) | 55 € | Biglietti inclusi per i Palazzi Nasridi, l'Alcazaba e il Generalife |
 | [Visita guidata al Generalife](/it/cities/granada/activities/visita-guidata-alhambra-generalife) | 49 € | Il più economico dei sei. Ripartizione standard tra le tre aree |
 | [Alhambra e Palazzi Nasridi: tour privato salta la fila](/it/cities/granada/activities/alhambra-palazzi-nasridi-tour-privato-salta-fila) | 278 € per gruppo | Tour privato di circa 3 ore solo per il tuo gruppo |
+| [Palazzi Nasridi salta la fila](/en/cities/granada/activities/alhambra-nasrid-palaces-skip-the-line) (solo in spagnolo, inglese e francese) | 53 € | Stesso percorso, prezzo medio-alto |
 | [Visita guidata con biglietti](/en/cities/granada/activities/alhambra-guided-tour-with-tickets) | 99 € | Stesso percorso, il prezzo più alto del gruppo |
 | [Senza attese, Palazzi Nasridi](/it/cities/granada/activities/alhambra-palazzi-nasridi-visita-guidata-senza-attese) | 96 € | Tra i più cari del gruppo, senza differenze di contenuto che lo giustifichino |
 

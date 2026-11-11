@@ -72,8 +72,10 @@ opciones:
 | --- | --- | --- | --- | --- |
 | L'Escurial et vallée de Cuelgamuros | [62 €](/en/cities/madrid/activities/el-escorial-valley-of-cuelgamuros-group-tour) | [410 €](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) (820 € au total) | 370 € (1 480 €) | 320 € (1 920 €) |
 | Tolède, journée complète avec billets | [145 €](/fr/cities/madrid/activities/tolede-billets-degustation-petit-groupe-depuis-madrid) | — | — | — |
+| Tolède, journée complète avec billets (uniquement en anglais et espagnol) | [79 €](/en/cities/madrid/activities/toledo-full-day-from-madrid) | — | — | — |
 | Tolède et moulins de Consuegra | [125 €](/fr/cities/madrid/activities/excursion-tolede-moulins-don-quichotte-depuis-madrid) (petit groupe en minivan) | — | — | — |
 | Ségovie et Tolède | [220 €](/fr/cities/madrid/activities/tolede-segovie-petit-groupe-degustation-depuis-madrid) | — | — | — |
+| Ségovie et Tolède (uniquement en anglais et espagnol) | [41 €](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid) | — | — | — |
 | Ávila et Ségovie avec billets | [79 €](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) | — | — | — |
 | Alcalá de Henares et bodega | — | [à partir de 188 €](/en/cities/madrid/activities/alcala-henares-winery-private-tour) (375 € le groupe de 2 maximum) | — | — |
 | Bodega et déjeuner à Chinchón | — | [200 €](/en/cities/madrid/activities/winery-and-lunch-in-chinchon-from-madrid) par personne, transport privé | 200 € | 200 € |

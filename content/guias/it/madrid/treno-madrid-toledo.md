@@ -68,6 +68,7 @@ Il **treno Madrid-Toledo** è il modo più veloce per arrivare a Toledo, che sta
 | Autobus Alsa da Plaza Elíptica | 50 min (diretto) - 1 h 30 | Da 6,55 € a tratta | 83 corse al giorno | Budget ridotto o rientro tardi |
 | Auto lungo la A-42 | 1 h | Benzina e parcheggio | Quando vuoi | Gruppi e chi vuole vedere il Mirador del Valle |
 | [Toledo da Madrid con ingressi e degustazione iberica in piccolo gruppo](/it/cities/madrid/activities/toledo-ingressi-degustazione-piccolo-gruppo-da-madrid) | 10 h, tutto incluso | Da 145 € | Ogni giorno | Piccolo gruppo di massimo 7 persone, in auto Mercedes |
+| [Escursione organizzata](/en/cities/madrid/activities/toledo-full-day-from-madrid) (solo in inglese e spagnolo) | 8 h, tutto incluso | Da 79 € | Ogni giorno | Chi non vuole organizzare niente |
 
 ## Il treno Avant Madrid-Toledo
 

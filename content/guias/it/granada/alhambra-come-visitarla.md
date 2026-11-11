@@ -65,6 +65,7 @@ L'Alhambra è il monumento più visitato di Spagna, e i suoi biglietti si esauri
 | La più popolare | [Visita guidata all'Alhambra e ai Palazzi Nasridi](/it/cities/granada/activities/visita-guidata-alhambra-generalife), 4,7★ (21.100 recensioni) | 49 € |
 | Con guida in italiano | [Alhambra: tour guidato in piccoli gruppi con Palazzi Nasridi e Generalife](/it/cities/granada/activities/alhambra-generalife-palazzi-nasridi-tour-piccoli-gruppi), 4,8★ (1.047) | 45 € |
 | Piccolo gruppo, senza code | [Visita guidata senza attese dell'Alhambra e dei Palazzi Nasridi](/it/cities/granada/activities/alhambra-palazzi-nasridi-visita-guidata-senza-attese), 4,8★ (432) | 96 € |
+| Piccolo gruppo, senza code | [Alhambra e Palazzi Nasridi salta la coda in piccolo gruppo](/en/cities/granada/activities/alhambra-nasrid-palaces-skip-the-line) (solo in spagnolo, inglese e francese), 4,7★ (8.443) | 53 € |
 | Con guida in italiano | [Granada: Alhambra con guida, Palazzi Nasridi, Alcazaba e Generalife](/it/cities/granada/activities/granada-alhambra-visita-guidata-nasridi-alcazaba-generalife), 4,7★ (2.448) | 55 € |
 | Qualcosa di diverso | [Visita notturna ai Palazzi Nasridi](/en/cities/granada/activities/alhambra-night-tour), 4,9★ (288) | 54 € |
 | Solo il tuo gruppo | [Tour privato](/it/cities/granada/activities/alhambra-tour-privato), 4,9★ (242) | 280 € |

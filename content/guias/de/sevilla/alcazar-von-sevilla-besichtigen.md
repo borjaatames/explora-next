@@ -112,6 +112,7 @@ Ehrliche Hinweise zum kostenlosen Zeitfenster:
 | Regulärer Eintritt (alcazarsevilla.org) | 15,50 € | Regulärer Besuch ohne Führung; Cuarto Real Alto 5,50 € extra | Wer auf eigene Faust geht und rechtzeitig online bucht |
 | [Eintritt mit Zeitfenster](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket) | 20 € | Eintritt in den Real Alcázar mit Zeitfenster, ohne Guide | Wer auf eigene Faust geht |
 | [Sevilla: Kathedrale, Giralda und Alcázar mit Führung und Tickets ohne Anstehen](/de/cities/sevilla/activities/sevilla-kathedrale-giralda-alcazar-fuehrung) | 54 € | Die beiden großen Monumente Sevillas in einer einzigen Führung | Tickets ohne Anstehen für die Kathedrale, die Giralda und den Real Alcázar |
+| [Führung ohne Anstehen](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour) (nur auf Spanisch und Englisch) | 36 € | Offizieller Guide (105 Min.), Eintritt, Cuarto Real Alto und Gärten | Wer den historischen Kontext erklärt haben will |
 | [Kathedrale, Giralda und Alcázar](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour) | 53 € | Führung (2,5–3 Std.) mit bevorzugtem Einlass in Kathedrale und Alcázar; Giralda je nach Option | Wer die drei Monumente an einem Vormittag sehen will |
 
 ## Der Rundgang durch den Palast — was man sieht und warum es zählt

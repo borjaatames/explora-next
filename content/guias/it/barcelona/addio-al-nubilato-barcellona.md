@@ -61,6 +61,7 @@ Barcellona resta una meta per gli addii al nubilato e al celibato, ma le regole 
 | [Degustazione di birra artigianale con musica e karaoke](/en/cities/barcelona/activities/barcelona-craft-beer-tasting-live-music) | 2 h 30 min | 17 € a persona | Serata economica con karaoke facoltativo |
 | [Servizio fotografico rapido](/en/cities/barcelona/activities/quick-photo-shoot-barcelona) | 20 min | 35 € a sessione | Un ricordo del gruppo accanto alla Sagrada Família |
 | [Tour gastronomico privato nel Gotico con ingresso alla Sagrada Familia](/it/cities/barcelona/activities/barcellona-tour-gastronomico-privato-gotico-sagrada-familia) | 5 h | 388 € per gruppo per 2, 594 € per 6 | Guida gastronomica in italiano solo per il tuo gruppo |
+| [Tour privato di tapas e vino](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) (solo in spagnolo e inglese) | 3 h | 298 € per 2, 594 € per 6 | Cena guidata solo per voi |
 | [Flamenco al City Hall](/en/cities/barcelona/activities/flamenco-show-at-the-theater-city-hall-top-pick) | 1 h | Da 25 € a persona | Spettacolo prima o dopo cena |
 
 Prezzi «da» di ogni scheda al 1° novembre 2026; possono variare in base alla data e all'opzione.

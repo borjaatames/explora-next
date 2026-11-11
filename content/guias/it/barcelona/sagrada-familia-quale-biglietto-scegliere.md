@@ -52,6 +52,7 @@ I biglietti per la Sagrada Família si possono prenotare in sette modi diversi. 
 |---|---|---|---|---|
 | [Biglietto con audioguida](/en/cities/barcelona/activities/sagrada-familia-ticket-audio-guide) | 34 € | 1-2 h | Visita libera, audioguida in 16 lingue | Il più economico, per visitare con i propri tempi |
 | [Sagrada Familia e Gaudí: tour privato o in piccolo gruppo con biglietti](/it/cities/barcelona/activities/sagrada-familia-gaudi-tour-privato-o-piccolo-gruppo) | 91 € | 3 h 45 min | Passeggiata di 3 ore nella Barcellona di Gaudí con una guida locale: La Pedrera, Casa Batlló e il Passeig de Gràcia | Ingresso salta fila alla Sagrada Familia incluso in tutte le opzioni |
+| [Tour guidato con salita su una torre](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access) (solo in spagnolo e inglese) | 75 € | 1 h 30-2 h | Guidato + salita facoltativa su una torre | L'unico con accesso a una delle torri |
 | [Visita guidata in gruppo ridotto](/en/cities/barcelona/activities/sagrada-familia-small-group-tour) | 99 € | 1 h 45 | Guidato, gruppo ridotto, accesso accessibile | Chi preferisce un gruppo piccolo al prezzo più basso |
 
 ## Combinati con il Park Güell e altri monumenti

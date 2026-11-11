@@ -116,6 +116,7 @@ Saint-Sébastien est à un peu plus d'une heure de route de Bilbao. Pour y passe
 | [Bilbao : visite guidée privée du musée Guggenheim avec billet](/fr/cities/bilbao/activities/guggenheim-bilbao-visite-privee-avec-billet) | 1 h 30 min | 230 € par groupe |
 | [Visite privée à pied du centre et du Casco Viejo](/en/cities/bilbao/activities/bilbao-private-walking-tour-old-town-ribera), 4,6★ (133) | 2 h | 36 € |
 | [Guggenheim Bilbao : l'art expliqué par des artistes](/fr/cities/bilbao/activities/guggenheim-bilbao-art-explique-par-des-artistes), 4,9★ (129) | 1 h 30 min | 90 € |
+| [Guggenheim : visite guidée en espagnol avec billet](/en/cities/bilbao/activities/guggenheim-bilbao-guided-tour-spanish) (uniquement en espagnol), 4,9★ (182) | 2 h | 49 € |
 | [Getxo : balade à vélo sur la côte avec pintxo](/en/cities/bilbao/activities/getxo-coastal-bike-tour-pintxos), 4,8★ (46) | 2 h 30 | 60 € |
 | [Tournée de pintxos et boissons dans le Casco Viejo](/en/cities/bilbao/activities/bilbao-pintxos-drinks-food-tour-old-town), 4,7★ (62) | 3 h 30 | 89 € |
 | [Gaztelugatxe, Mundaka et Gernika en privé](/en/cities/bilbao/activities/gaztelugatxe-mundaka-gernika-private-day-trip-from-bilbao) | 7 h | 920 € par groupe (1-2 personnes) |
