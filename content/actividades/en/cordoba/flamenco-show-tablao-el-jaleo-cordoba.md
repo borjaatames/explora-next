@@ -76,23 +76,15 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/cordoba/flamenco/bailaora.webp
-imagenAlt: "Flamenco dancer with a white shawl during a flamenco show"
+imagen: "/images/actividades/cordoba/el-jaleo/espectaculo-escenario-el-jaleo.webp"
+imagenAlt: "Dinner and show at El Jaleo"
 galeria:
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: 'Flamenco guitarist playing live'
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: 'Flamenco singer performing on stage'
-- src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: 'Street in the Córdoba Jewish Quarter with the Mosque tower behind'
-- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: 'Flamenco artists on stage during a live show'
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: 'Calleja de las Flores with the Mosque tower in the background'
-- src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
-  alt: 'Roman Bridge and Mosque-Cathedral of Córdoba lit up at dusk'
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: 'Flamenco guitarist playing on stage'
+- src: "/images/actividades/cordoba/el-jaleo/bailaora-manton-el-jaleo.webp"
+  alt: "Flamenco dancer on stage at El Jaleo"
+- src: "/images/actividades/cordoba/el-jaleo/pareja-baile-el-jaleo.webp"
+  alt: "Flamenco dance couple at El Jaleo"
+- src: "/images/actividades/cordoba/el-jaleo/comedor-el-jaleo.webp"
+  alt: "The venue at El Jaleo"
 ---
 
 ## What you will see

@@ -62,15 +62,11 @@ keywords:
 - "tablao pura esencia séville"
 - "flamenco séville"
 - "spectacle flamenco triana"
-imagen: "/images/actividades/sevilla/triana/flamenco-sevilla-baile.webp"
-imagenAlt: "Danse flamenco à Séville"
+imagen: "/images/actividades/sevilla/pura-esencia/elenco-escenario-pura-esencia.webp"
+imagenAlt: "La troupe de flamenco au complet à Pura Esencia"
 galeria:
-- src: "/images/actividades/sevilla/triana/puente-triana-atardecer.webp"
-  alt: "Le pont de Triana au coucher du soleil"
-- src: "/images/actividades/sevilla/triana/triana-calle-betis.webp"
-  alt: "Le pont de Triana au coucher du soleil"
-- src: "/images/actividades/sevilla/flamenco/flamenco-wikimedia-espect-culo-flamenco-en-tablao-flamenco-01.webp"
-  alt: "Danse flamenco à Séville"
+- src: "/images/actividades/sevilla/pura-esencia/sala-escenario-cena-pura-esencia.webp"
+  alt: "La salle de Pura Esencia"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

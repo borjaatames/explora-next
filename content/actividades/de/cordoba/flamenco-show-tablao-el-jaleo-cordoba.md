@@ -67,23 +67,15 @@ keywords:
 - tablao el jaleo cordoba
 - flamenco mit abendessen cordoba
 - flamenco judenviertel cordoba
-imagen: /images/actividades/cordoba/flamenco/bailaora.webp
-imagenAlt: Tänzerin mit weißem Manton während einer Flamenco-Show
+imagen: "/images/actividades/cordoba/el-jaleo/espectaculo-escenario-el-jaleo.webp"
+imagenAlt: "Abendessen und Show in El Jaleo"
 galeria:
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: 'Flamenco-Gitarrist spielt live'
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: 'Flamenco-Sängerin auf einer Bühne'
-- src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: 'Gasse im jüdischen Viertel von Córdoba mit dem Turm der Mezquita im Hintergrund'
-- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: 'Flamenco-Künstler auf der Bühne während einer Live-Show'
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: 'Calleja de las Flores mit dem Turm der Mezquita im Hintergrund'
-- src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
-  alt: 'Römische Brücke und Mezquita-Catedral von Córdoba in der Abenddämmerung beleuchtet'
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: 'Flamenco-Gitarrist spielt auf der Bühne'
+- src: "/images/actividades/cordoba/el-jaleo/bailaora-manton-el-jaleo.webp"
+  alt: "Flamencotänzerin auf der Bühne von El Jaleo"
+- src: "/images/actividades/cordoba/el-jaleo/pareja-baile-el-jaleo.webp"
+  alt: "Flamenco-Tanzpaar in El Jaleo"
+- src: "/images/actividades/cordoba/el-jaleo/comedor-el-jaleo.webp"
+  alt: "Der Saal von El Jaleo"
 ratingProveedor: 4.7
 numeroOpiniones: 231
 atraccionesRelacionadas:

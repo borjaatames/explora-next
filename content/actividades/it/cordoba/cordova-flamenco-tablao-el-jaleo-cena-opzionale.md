@@ -76,23 +76,15 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/cordoba/flamenco/bailaora.webp
-imagenAlt: "Ballerina di flamenco con scialle bianco durante uno spettacolo"
+imagen: "/images/actividades/cordoba/el-jaleo/espectaculo-escenario-el-jaleo.webp"
+imagenAlt: "Cena e spettacolo a El Jaleo"
 galeria:
-- src: /images/actividades/cordoba/flamenco/guitarra-flamenca.webp
-  alt: 'Chitarrista di flamenco che suona dal vivo'
-- src: /images/actividades/alicante/flamenco/flamenco-cantaora.webp
-  alt: 'Cantante di flamenco che canta su un palco'
-- src: /images/actividades/cordoba/juderia/calle-juderia.webp
-  alt: 'Strada della Judería di Cordova con la torre della Mezquita sullo sfondo'
-- src: /images/actividades/alicante/flamenco/flamenco-pareja.webp
-  alt: 'Artisti di flamenco in scena durante uno spettacolo dal vivo'
-- src: /images/actividades/cordoba/juderia/calleja-flores.webp
-  alt: 'Calleja de las Flores con la torre della Mezquita sullo sfondo'
-- src: /images/actividades/cordoba/mezquita/puente-romano-noche.webp
-  alt: 'Ponte Romano e Mezquita-Cattedrale di Cordova illuminati al crepuscolo'
-- src: /images/actividades/cordoba/flamenco/guitarra-escenario.webp
-  alt: 'Chitarrista di flamenco che suona sul palco'
+- src: "/images/actividades/cordoba/el-jaleo/bailaora-manton-el-jaleo.webp"
+  alt: "Ballerina di flamenco sul palco di El Jaleo"
+- src: "/images/actividades/cordoba/el-jaleo/pareja-baile-el-jaleo.webp"
+  alt: "Coppia di ballerini di flamenco a El Jaleo"
+- src: "/images/actividades/cordoba/el-jaleo/comedor-el-jaleo.webp"
+  alt: "La sala di El Jaleo"
 ---
 
 ## Cosa vedrai

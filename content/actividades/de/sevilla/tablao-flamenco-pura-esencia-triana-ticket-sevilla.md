@@ -62,15 +62,11 @@ keywords:
 - "tablao pura esencia sevilla"
 - "flamenco sevilla"
 - "flamenco show triana"
-imagen: "/images/actividades/sevilla/triana/flamenco-sevilla-baile.webp"
-imagenAlt: "Flamenco in Sevilla"
+imagen: "/images/actividades/sevilla/pura-esencia/elenco-escenario-pura-esencia.webp"
+imagenAlt: "Das komplette Flamenco-Ensemble in Pura Esencia"
 galeria:
-- src: "/images/actividades/sevilla/triana/puente-triana-atardecer.webp"
-  alt: "Die Triana-Brücke bei Sonnenuntergang"
-- src: "/images/actividades/sevilla/triana/triana-calle-betis.webp"
-  alt: "Die Triana-Brücke bei Sonnenuntergang"
-- src: "/images/actividades/sevilla/flamenco/flamenco-wikimedia-espect-culo-flamenco-en-tablao-flamenco-01.webp"
-  alt: "Flamenco in Sevilla"
+- src: "/images/actividades/sevilla/pura-esencia/sala-escenario-cena-pura-esencia.webp"
+  alt: "Der Saal von Pura Esencia"
 publicada: true
 destacada: false
 fecha: '2026-11-10'
