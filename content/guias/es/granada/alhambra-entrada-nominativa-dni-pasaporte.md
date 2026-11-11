@@ -42,6 +42,14 @@ faq:
   respuesta: No. Una vez confirmada la compra, la fecha y la hora no se pueden modificar, y si llegas tarde a tu turno de los Palacios Nazaríes pierdes el derecho a entrar en ellos.
 - pregunta: ¿Los niños necesitan entrada nominativa?
   respuesta: Sí. Aunque sean gratis, todos los menores necesitan entrada. Las de 3 a 11 años se reservan junto con las de los adultos; los menores de 3 años la recogen en la taquilla o en los accesos, sin reserva.
+opciones:
+  - ficha: visita-guiada-alhambra-generalife
+    etiqueta: Con guía
+  - ficha: alhambra-visita-nocturna
+    etiqueta: De noche
+  - ficha: entrada-jardines-alhambra-generalife
+    etiqueta: Sin Nazaríes
+---
 ---
 
 Las **entradas de la Alhambra son nominativas**: cada una lleva el nombre y el número de documento de quien va a entrar, y en los controles te pueden pedir el **DNI o el pasaporte original**. Es la forma que tiene el Patronato de frenar la reventa. Esta guía explica qué documento llevar, qué hacer si hay un error en el nombre y qué datos dar si reservas con un tour.

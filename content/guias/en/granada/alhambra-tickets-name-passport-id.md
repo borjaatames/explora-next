@@ -42,6 +42,14 @@ faq:
   respuesta: No. Once the purchase is confirmed, date and time can't be changed, and if you miss your Nasrid Palaces slot you lose the right to enter them.
 - pregunta: Do children need a named ticket?
   respuesta: Yes. Even when free, every child needs a ticket. Tickets for ages 3 to 11 are booked together with the adults'; children under 3 get theirs at the ticket office or entrances, with no booking.
+opciones:
+  - ficha: visita-guiada-alhambra-generalife
+    etiqueta: With a guide
+  - ficha: alhambra-visita-nocturna
+    etiqueta: At night
+  - ficha: entrada-jardines-alhambra-generalife
+    etiqueta: No Nasrid Palaces
+---
 ---
 
 **Alhambra tickets are nominative**: each one carries the name and ID number of the person who will use it, and staff can ask for your **original passport or national ID card** at the checkpoints. It's how the Patronato fights resale. This guide explains which document to bring, what to do if there's a mistake in a name and what details to give if you book with a tour.
